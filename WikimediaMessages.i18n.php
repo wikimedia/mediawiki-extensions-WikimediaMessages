@@ -10,9 +10,10 @@ $messages = array();
  */
 
 $messages['en'] = array(
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
-	'sitesupport' => 'Donate',
-	'sidebar' => 
+	'wikimediamessages-desc' => 'Wikimedia specific messages',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate', # do not translate this URL to other languages until a donation page, approved by Wikimedia Foundation, exists
+	'sitesupport'            => 'Donate',
+	'sidebar'                => 
 '* navigation
 ** mainpage|mainpage-description
 ** portal-url|portal
@@ -65,7 +66,13 @@ $messages['cu'] = array( 'sitesupport' => 'даꙗ́ниꙗ' );
 $messages['cv'] = array( 'sitesupport' => 'Пожертвованисем' );
 $messages['cy'] = array( 'sitesupport' => 'Rhoi arian' );
 $messages['da'] = array( 'sitesupport' => 'Støt siden' );
-$messages['de'] = array( 'sitesupport' => 'Spenden' );
+
+$messages['de'] = array(
+	'wikimediamessages-desc' => 'Wikimediaspezifische Systemnachrichten',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Spenden',
+	'sitesupport'            => 'Spenden'
+);
+
 $messages['diq'] = array( 'sitesupport' => 'Beğş' );
 $messages['dsb'] = array( 'sitesupport' => 'Dary' );
 $messages['dv'] = array( 'sitesupport' => 'ޚައިރާތުތައް' );
