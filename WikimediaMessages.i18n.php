@@ -257,11 +257,33 @@ $messages['xh'] = array( 'sitesupport' => 'Amalizo' );
 $messages['xmf'] = array( 'sitesupport' => 'აზარა' );
 $messages['yi'] = array( 'sitesupport' => 'ביישטייערונגן' );
 $messages['yo'] = array( 'sitesupport' => 'Se ẹ̀bùn owó' );
-$messages['yue'] = array( 'sitesupport' => '慷慨解囊' );
+
+$messages['yue'] = array(
+	'wikimediamessages-desc' => 'Wikimedia特定訊息',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:捐贈}}',
+	'sitesupport'            => '慷慨解囊',
+);
+
 $messages['zea'] = array( 'sitesupport' => 'Donaoties' );
-$messages['zh-classical'] = array( 'sitesupport' => '捐助集' );
-$messages['zh-hans'] = array( 'sitesupport' => '资助' );
-$messages['zh-hant'] = array( 'sitesupport' => '贊助' );
-$messages['zh-tw'] = array( 'sitesupport' => '贊助' );
+
+$messages['zh-classical'] = array(
+	'wikimediamessages-desc' => '維基媒體特集',
+	'sitesupport'            => '捐助集',
+);
+
+$messages['zh-classical'] = array( 'sitesupport' => '' );
+
+$messages['zh-hans'] = array(
+	'wikimediamessages-desc' => '维基媒体特定信息',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:赞助}}',
+	'sitesupport'            => '资助',
+);
+
+$messages['zh-hant'] = array(
+	'wikimediamessages-desc' => '維基媒體特定信息',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:資助}}',
+	'sitesupport'            => '贊助',
+);
+
 $messages['zu'] = array( 'sitesupport' => 'Izipho' );
 
