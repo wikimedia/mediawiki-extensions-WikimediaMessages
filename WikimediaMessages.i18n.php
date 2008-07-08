@@ -624,11 +624,13 @@ $messages['nl'] = array(
 );
 
 $messages['nn'] = array(
-	'sitesupport' => 'Gåver',
+	'sitesupport'     => 'Gåver',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/nn',
 );
 
 $messages['no'] = array(
-	'sitesupport' => 'Donasjoner',
+	'sitesupport'     => 'Donasjoner',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/nb',
 );
 
 $messages['nov'] = array(
