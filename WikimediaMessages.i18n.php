@@ -13,6 +13,7 @@ $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific messages',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate', # do not translate this URL to other languages until a donation page, approved by Wikimedia Foundation, exists
 	'sitesupport'            => 'Donate',
+	'tooltip-n-sitesupport'  => 'Support us',
 	'sidebar'                =>  '* navigation
 ** mainpage|mainpage-description
 ** portal-url|portal
@@ -345,6 +346,7 @@ $messages['he'] = array(
 	'wikimediamessages-desc' => 'הודעות המיוחדות לוויקימדיה',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/תרומות',
 	'sitesupport'            => 'תרומות',
+	'tooltip-n-sitesupport'  => 'תרומה',
 );
 
 $messages['hif-latn'] = array(
