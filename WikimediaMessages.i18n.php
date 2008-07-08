@@ -342,7 +342,9 @@ $messages['haw'] = array(
 );
 
 $messages['he'] = array(
-	'sitesupport' => 'תרומות',
+	'wikimediamessages-desc' => 'הודעות המיוחדות לוויקימדיה',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/תרומות',
+	'sitesupport'            => 'תרומות',
 );
 
 $messages['hif-latn'] = array(
