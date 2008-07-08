@@ -196,6 +196,11 @@ $messages['de'] = array(
 	'wikimediamessages-desc' => 'Wikimediaspezifische Systemnachrichten',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport'            => 'Spenden',
+	'tooltip-n-sitesupport'  => 'Unterstütze uns',
+);
+
+$messages['de-formal'] = array(
+	'tooltip-n-sitesupport'  => 'Unterstützen Sie uns',
 );
 
 $messages['diq'] = array(
