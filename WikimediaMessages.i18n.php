@@ -286,9 +286,14 @@ $messages['crh-cyrl'] = array(
 	'sitesupport' => 'Багъышлар',
 );
 
-/** Czech (Česky) */
+/** Czech (Česky)
+ * @author Danny B.
+ */
 $messages['cs'] = array(
-	'sitesupport' => 'Sponzorství',
+	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Sponzorstv%C3%AD',
+	'sitesupport'            => 'Podpořte nás'
+	'tooltip-n-sitesupport'  => 'Podpořte nás',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
