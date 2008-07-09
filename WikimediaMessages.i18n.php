@@ -1653,6 +1653,7 @@ $messages['yue'] = array(
 	'wikimediamessages-desc' => 'Wikimedia特定訊息',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:捐贈}}',
 	'sitesupport'            => '慷慨解囊',
+	'tooltip-n-sitesupport'  => '資持我哋',
 );
 
 /** Zeeuws (Zeêuws)
@@ -1667,6 +1668,7 @@ $messages['zea'] = array(
 $messages['zh-classical'] = array(
 	'wikimediamessages-desc' => '維基媒體特集',
 	'sitesupport'            => '捐助集',
+	'tooltip-n-sitesupport'  => '濟資財、施續命、傳美皓',
 );
 
 /** Simplified Chinese (‪中文(简体)‬) */
@@ -1674,6 +1676,7 @@ $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定信息',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:赞助}}',
 	'sitesupport'            => '资助',
+	'tooltip-n-sitesupport'  => '资助我们',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬) */
@@ -1681,6 +1684,7 @@ $messages['zh-hant'] = array(
 	'wikimediamessages-desc' => '維基媒體特定信息',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:資助}}',
 	'sitesupport'            => '贊助',
+	'tooltip-n-sitesupport'  => '資助我們',
 );
 
 /** Zulu (isiZulu)
