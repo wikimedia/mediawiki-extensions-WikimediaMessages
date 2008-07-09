@@ -292,7 +292,7 @@ $messages['crh-cyrl'] = array(
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Sponzorstv%C3%AD',
-	'sitesupport'            => 'Podpořte nás'
+	'sitesupport'            => 'Podpořte nás',
 	'tooltip-n-sitesupport'  => 'Podpořte nás',
 );
 
