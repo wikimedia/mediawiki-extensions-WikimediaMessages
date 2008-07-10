@@ -625,6 +625,19 @@ $messages['he'] = array(
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/תרומות',
 	'sitesupport'            => 'תרומות',
 	'tooltip-n-sitesupport'  => 'תרומה',
+
+	# Wikimedia specific usergroups
+	'group-import'           => 'מייבאים',
+	'group-developer'        => 'מפתחים',
+	'group-transwiki'        => 'מייבאים בין־אתריים',
+
+	'group-import-member'    => 'מייבא',
+	'group-developer-member' => 'מפתח',
+	'group-transwiki-member' => 'מייבא בין־אתרי',
+
+	'grouppage-import'       => '{{ns:project}}:מייבא',
+	'grouppage-developer'    => '{{ns:project}}:מפתח',
+	'grouppage-transwiki'    => '{{ns:project}}:מייבא בין-אתרי',
 );
 
 /** Hindi (हिन्दी)
