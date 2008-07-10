@@ -1694,6 +1694,19 @@ $messages['yue'] = array(
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:捐贈}}',
 	'sitesupport'            => '慷慨解囊',
 	'tooltip-n-sitesupport'  => '資持我哋',
+
+	# Wikimedia specific usergroups
+	'group-import'           => '匯入者',
+	'group-developer'        => '技術員',
+	'group-transwiki'        => 'Transwiki匯入者',
+
+	'group-import-member'    => '匯入者',
+	'group-developer-member' => '技術員',
+	'group-transwiki-member' => 'Transwiki匯入者',
+
+	'grouppage-import'       => '{{ns:project}}:匯入者',
+	'grouppage-developer'    => '{{ns:project}}:技術員',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki匯入者',
 );
 
 /** Zeeuws (Zeêuws)
@@ -1717,6 +1730,19 @@ $messages['zh-hans'] = array(
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:赞助}}',
 	'sitesupport'            => '资助',
 	'tooltip-n-sitesupport'  => '资助我们',
+
+	# Wikimedia specific usergroups
+	'group-import'           => '导入者',
+	'group-developer'        => '开发员',
+	'group-transwiki'        => '跨维基导入者',
+
+	'group-import-member'    => '导入者',
+	'group-developer-member' => '开发员',
+	'group-transwiki-member' => '跨维基导入者',
+
+	'grouppage-import'       => '{{ns:project}}:导入者',
+	'grouppage-developer'    => '{{ns:project}}:开发员',
+	'grouppage-transwiki'    => '{{ns:project}}:跨维基导入者',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬) */
@@ -1725,6 +1751,19 @@ $messages['zh-hant'] = array(
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/{{urlencode:資助}}',
 	'sitesupport'            => '贊助',
 	'tooltip-n-sitesupport'  => '資助我們',
+
+	# Wikimedia specific usergroups
+	'group-import'           => '匯入者',
+	'group-developer'        => '開發員',
+	'group-transwiki'        => '跨維基匯入者',
+
+	'group-import-member'    => '匯入者',
+	'group-developer-member' => '開發員',
+	'group-transwiki-member' => '跨維基匯入者',
+
+	'grouppage-import'       => '{{ns:project}}:匯入者',
+	'grouppage-developer'    => '{{ns:project}}:開發員',
+	'grouppage-transwiki'    => '{{ns:project}}:跨維基匯入者',
 );
 
 /** Zulu (isiZulu)
