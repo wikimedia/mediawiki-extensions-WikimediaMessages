@@ -24,17 +24,29 @@ $messages['en'] = array(
 ** sitesupport-url|sitesupport', # do not translate or duplicate this message to other languages
 
 	# Wikimedia specific usergroups
-	'group-import'           => 'Importer',
-	'group-developer'        => 'Developer',
-	'group-transwiki'        => 'Transwiki importer',
+	'group-accountcreator'        => 'Account creators',
+	'group-developer'             => 'Developer',
+	'group-founder'               => 'Founder',
+	'group-import'                => 'Importer',
+	'group-ipblock-exempt'        => 'IP block exemptions',
+	'group-rollbacker'            => 'Rollbackers',
+	'group-transwiki'             => 'Transwiki importer',
 
-	'group-import-member'    => 'Importer',
-	'group-developer-member' => 'Developer',
-	'group-transwiki-member' => 'Transwiki importer',
+	'group-accountcreator-member' => 'Account creator',
+	'group-developer-member'      => 'Developer',
+	'group-founder-member'        => 'Founder',
+	'group-import-member'         => 'Importer',
+	'group-ipblock-exempt-member' => 'IP block exempt',
+	'group-rollbacker-member'     => 'Rollbacker',
+	'group-transwiki-member'      => 'Transwiki importer',
 
-	'grouppage-import'       => '{{ns:project}}:Importers',
-	'grouppage-developer'    => '{{ns:project}}:Developers',
-	'grouppage-transwiki'    => '{{ns:project}}:Transwiki importers',
+	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
+	'grouppage-developer'      => '{{ns:project}}:Developers',
+	'grouppage-founder'        => '{{ns:project}}:Founder',
+	'grouppage-import'         => '{{ns:project}}:Importers',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
+	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
+	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
 );
 
 /** Afrikaans (Afrikaans)
@@ -1696,17 +1708,29 @@ $messages['yue'] = array(
 	'tooltip-n-sitesupport'  => '資持我哋',
 
 	# Wikimedia specific usergroups
-	'group-import'           => '匯入者',
-	'group-developer'        => '技術員',
-	'group-transwiki'        => 'Transwiki匯入者',
+	'group-accountcreator'        => '開戶專員',
+	'group-developer'             => '技術員',
+	'group-founder'               => '創辦人',
+	'group-import'                => '匯入者',
+	'group-ipblock-exempt'        => 'IP封鎖例外者',
+	'group-rollbacker'            => '反轉者',
+	'group-transwiki'             => 'Transwiki匯入者',
 
-	'group-import-member'    => '匯入者',
-	'group-developer-member' => '技術員',
-	'group-transwiki-member' => 'Transwiki匯入者',
+	'group-accountcreator-member' => '開戶專員',
+	'group-developer-member'      => '技術員',
+	'group-founder-member'        => '創辦人',
+	'group-import-member'         => '匯入者',
+	'group-ipblock-exempt-member' => 'IP封鎖例外',
+	'group-rollbacker-member'     => '反轉者',
+	'group-transwiki-member'      => 'Transwiki匯入者',
 
-	'grouppage-import'       => '{{ns:project}}:匯入者',
-	'grouppage-developer'    => '{{ns:project}}:技術員',
-	'grouppage-transwiki'    => '{{ns:project}}:Transwiki匯入者',
+	'grouppage-accountcreator' => '{{ns:project}}:開戶專員',
+	'grouppage-developer'      => '{{ns:project}}:技術員',
+	'grouppage-founder'        => '{{ns:project}}:創辦人',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封鎖例外',
+	'grouppage-rollbacker'     => '{{ns:project}}:反轉者',
+	'grouppage-import'         => '{{ns:project}}:匯入者',
+	'grouppage-transwiki'      => '{{ns:project}}:Transwiki匯入者',
 );
 
 /** Zeeuws (Zeêuws)
@@ -1732,17 +1756,29 @@ $messages['zh-hans'] = array(
 	'tooltip-n-sitesupport'  => '资助我们',
 
 	# Wikimedia specific usergroups
-	'group-import'           => '导入者',
-	'group-developer'        => '开发员',
-	'group-transwiki'        => '跨维基导入者',
+	'group-accountcreator'        => '账户创建员',
+	'group-developer'             => '开发员',
+	'group-founder'               => '创办人',
+	'group-import'                => '导入者',
+	'group-ipblock-exempt'        => 'IP查封例外者',
+	'group-rollbacker'            => '回退员',
+	'group-transwiki'             => '跨维基导入者',
 
-	'group-import-member'    => '导入者',
-	'group-developer-member' => '开发员',
-	'group-transwiki-member' => '跨维基导入者',
+	'group-accountcreator-member' => '账户创建员',
+	'group-developer-member'      => '开发员',
+	'group-founder-member'        => '创办人',
+	'group-import-member'         => '导入者',
+	'group-ipblock-exempt-member' => 'IP查封例外',
+	'group-rollbacker-member'     => '回退员',
+	'group-transwiki-member'      => '跨维基导入者',
 
-	'grouppage-import'       => '{{ns:project}}:导入者',
-	'grouppage-developer'    => '{{ns:project}}:开发员',
-	'grouppage-transwiki'    => '{{ns:project}}:跨维基导入者',
+	'grouppage-accountcreator' => '{{ns:project}}:账户创建员',
+	'grouppage-developer'      => '{{ns:project}}:开发员',
+	'grouppage-founder'        => '{{ns:project}}:创办人',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
+	'grouppage-rollbacker'     => '{{ns:project}}:反转者',
+	'grouppage-import'         => '{{ns:project}}:回退员',
+	'grouppage-transwiki'      => '{{ns:project}}:跨维基导入者',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬) */
@@ -1753,17 +1789,29 @@ $messages['zh-hant'] = array(
 	'tooltip-n-sitesupport'  => '資助我們',
 
 	# Wikimedia specific usergroups
-	'group-import'           => '匯入者',
-	'group-developer'        => '開發員',
-	'group-transwiki'        => '跨維基匯入者',
+	'group-accountcreator'        => '賬戶創建員',
+	'group-developer'             => '開發員',
+	'group-founder'               => '創辦人',
+	'group-import'                => '匯入者',
+	'group-ipblock-exempt'        => 'IP查封例外者',
+	'group-rollbacker'            => '回退員',
+	'group-transwiki'             => '跨維基匯入者',
 
-	'group-import-member'    => '匯入者',
-	'group-developer-member' => '開發員',
-	'group-transwiki-member' => '跨維基匯入者',
+	'group-accountcreator-member' => '賬戶創建員',
+	'group-developer-member'      => '開發員',
+	'group-founder-member'        => '創辦人',
+	'group-import-member'         => '匯入者',
+	'group-ipblock-exempt-member' => 'IP查封例外',
+	'group-rollbacker-member'     => '回退員',
+	'group-transwiki-member'      => '跨維基匯入者',
 
-	'grouppage-import'       => '{{ns:project}}:匯入者',
-	'grouppage-developer'    => '{{ns:project}}:開發員',
-	'grouppage-transwiki'    => '{{ns:project}}:跨維基匯入者',
+	'grouppage-accountcreator' => '{{ns:project}}:賬戶創建員',
+	'grouppage-developer'      => '{{ns:project}}:開發員',
+	'grouppage-founder'        => '{{ns:project}}:創辦人',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
+	'grouppage-rollbacker'     => '{{ns:project}}:反轉者',
+	'grouppage-import'         => '{{ns:project}}:回退員',
+	'grouppage-transwiki'      => '{{ns:project}}:跨維基匯入者',
 );
 
 /** Zulu (isiZulu)
