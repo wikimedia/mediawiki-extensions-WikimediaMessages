@@ -42,7 +42,7 @@ $messages['en'] = array(
 
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
 	'grouppage-developer'      => '{{ns:project}}:Developers',
-	'grouppage-founder'        => '{{ns:project}}:Founder',
+	'grouppage-founder'        => '{{ns:project}}:Founders',
 	'grouppage-import'         => '{{ns:project}}:Importers',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
 	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
