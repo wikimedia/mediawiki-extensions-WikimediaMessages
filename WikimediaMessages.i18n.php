@@ -25,12 +25,12 @@ $messages['en'] = array(
 
 	# Wikimedia specific usergroups
 	'group-accountcreator'        => 'Account creators',
-	'group-developer'             => 'Developer',
-	'group-founder'               => 'Founder',
-	'group-import'                => 'Importer',
+	'group-developer'             => 'Developers',
+	'group-founder'               => 'Founders',
+	'group-import'                => 'Importers',
 	'group-ipblock-exempt'        => 'IP block exemptions',
 	'group-rollbacker'            => 'Rollbackers',
-	'group-transwiki'             => 'Transwiki importer',
+	'group-transwiki'             => 'Transwiki importers',
 
 	'group-accountcreator-member' => 'Account creator',
 	'group-developer-member'      => 'Developer',
