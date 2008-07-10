@@ -79,8 +79,10 @@ $messages['am'] = array(
  * @author SPQRobin
  */
 $messages['an'] = array(
-	'sitesupport'           => 'Donazions',
-	'tooltip-n-sitesupport' => 'Refirme o procheuto',
+	'wikimediamessages-desc' => 'Mensaches espezificos de Wikimedia',
+	'sitesupport-url'        => 'Project:Donazions',
+	'sitesupport'            => 'Donazions',
+	'tooltip-n-sitesupport'  => 'Refirme o procheuto',
 );
 
 /** Old English (Anglo-Saxon) */
@@ -92,8 +94,31 @@ $messages['ang'] = array(
  * @author Meno25
  */
 $messages['ar'] = array(
-	'sitesupport'           => 'التبرعات',
-	'tooltip-n-sitesupport' => 'ادعمنا',
+	'wikimediamessages-desc'      => 'رسائل خاصة بويكيميديا',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/%D8%AC%D9%85%D8%B9_%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA',
+	'sitesupport'                 => 'التبرعات',
+	'tooltip-n-sitesupport'       => 'ادعمنا',
+	'group-accountcreator'        => 'منشئو الحسابات',
+	'group-developer'             => 'مطورون',
+	'group-founder'               => 'مؤسسون',
+	'group-import'                => 'مستوردون',
+	'group-ipblock-exempt'        => 'مستثنون من منع الأيبي',
+	'group-rollbacker'            => 'مسترجعون',
+	'group-transwiki'             => 'مستوردون عبر الويكي',
+	'group-accountcreator-member' => 'منشئ حساب',
+	'group-developer-member'      => 'مطور',
+	'group-founder-member'        => 'مؤسس',
+	'group-import-member'         => 'مستورد',
+	'group-ipblock-exempt-member' => 'مستثنى من منع الأيبي',
+	'group-rollbacker-member'     => 'مسترجع',
+	'group-transwiki-member'      => 'مستورد عبر الويكي',
+	'grouppage-accountcreator'    => '{{ns:project}}:منشئو الحسابات',
+	'grouppage-developer'         => '{{ns:project}}:مطورون',
+	'grouppage-founder'           => '{{ns:project}}:مؤسسون',
+	'grouppage-import'            => '{{ns:project}}:مستوردون',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:استثناء من منع الأيبي',
+	'grouppage-rollbacker'        => '{{ns:project}}:مسترجعون',
+	'grouppage-transwiki'         => '{{ns:project}}:مستوردون عبر الويكي',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -203,8 +228,10 @@ $messages['be'] = array(
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
-	'sitesupport'           => 'Ахвяраваньні',
-	'tooltip-n-sitesupport' => 'Падтрымайце нас',
+	'wikimediamessages-desc' => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
+	'sitesupport-url'        => 'Project:Ахвяраваньні',
+	'sitesupport'            => 'Ахвяраваньні',
+	'tooltip-n-sitesupport'  => 'Падтрымайце нас',
 );
 
 /** Bulgarian (Български)
@@ -471,9 +498,35 @@ $messages['ff'] = array(
 	'sitesupport' => 'Dokkal',
 );
 
-/** Finnish (Suomi) */
+/** Finnish (Suomi)
+ * @author Nike
+ */
 $messages['fi'] = array(
-	'sitesupport' => 'Lahjoitukset',
+	'wikimediamessages-desc'      => 'Wikimedian käyttämiä järjestelmäviestejä.',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/fi',
+	'sitesupport'                 => 'Lahjoitukset',
+	'tooltip-n-sitesupport'       => 'Tue meitä',
+	'group-accountcreator'        => 'käyttäjätunnusten luojat',
+	'group-developer'             => 'ohjelmistokehittäjät',
+	'group-founder'               => 'perustajat',
+	'group-import'                => 'sivujen tuojat',
+	'group-ipblock-exempt'        => 'IP-estoista vapautetut',
+	'group-rollbacker'            => 'palauttajat',
+	'group-transwiki'             => 'toisesta wikistä sivujen tuojat',
+	'group-accountcreator-member' => 'käyttäjätunnusten luoja',
+	'group-developer-member'      => 'ohjelmistokehittäjä',
+	'group-founder-member'        => 'perustaja',
+	'group-import-member'         => 'sivujen tuoja',
+	'group-ipblock-exempt-member' => 'IP-estosta vapautettu',
+	'group-rollbacker-member'     => 'palauttaja',
+	'group-transwiki-member'      => 'toisesta wikistä sivujen tuoja',
+	'grouppage-accountcreator'    => '{{ns:project}}:Käyttäjätunnusten luojat',
+	'grouppage-developer'         => '{{ns:project}}:Ohjelmistokehittäjät',
+	'grouppage-founder'           => '{{ns:project}}:Perustajat',
+	'grouppage-import'            => '{{ns:project}}:Sivujen tuojat',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:IP-estoista vapautetut',
+	'grouppage-rollbacker'        => '{{ns:project}}:Palauttajat',
+	'grouppage-transwiki'         => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
 );
 
 /** Võro (Võro)
@@ -491,9 +544,22 @@ $messages['fj'] = array(
 
 /** French (Français)
  * @author לערי ריינהארט
+ * @author Grondin
  */
 $messages['fr'] = array(
-	'sitesupport' => 'Faire un don',
+	'wikimediamessages-desc' => 'Messages spécifiques de Wikimedia',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'            => 'Faire un don',
+	'tooltip-n-sitesupport'  => 'Aidez nous',
+	'group-developer'        => 'Développeur',
+	'group-import'           => 'Importateur',
+	'group-transwiki'        => 'Importateur Transwiki',
+	'group-developer-member' => 'Développeur',
+	'group-import-member'    => 'Importateur',
+	'group-transwiki-member' => 'Importateur Transwiki',
+	'grouppage-developer'    => '{{ns:project}}:Développeurs',
+	'grouppage-import'       => '{{ns:project}}:Importateurs',
+	'grouppage-transwiki'    => '{{ns:project}}:Importateurs Transwiki',
 );
 
 /** Cajun French (Français cadien)
@@ -559,8 +625,10 @@ $messages['gd'] = array(
  * @author Xosé
  */
 $messages['gl'] = array(
-	'sitesupport'           => 'Doazóns',
-	'tooltip-n-sitesupport' => 'Apóienos',
+	'wikimediamessages-desc' => 'Mensaxes específicas da Wikimedia',
+	'sitesupport-url'        => 'Project:Doazóns',
+	'sitesupport'            => 'Doazóns',
+	'tooltip-n-sitesupport'  => 'Apóienos',
 );
 
 /** Gilaki (گیلکی)
@@ -720,9 +788,14 @@ $messages['ia'] = array(
 	'tooltip-n-sitesupport' => 'Sustene nos',
 );
 
-/** Indonesian (Bahasa Indonesia) */
+/** Indonesian (Bahasa Indonesia)
+ * @author Rex
+ */
 $messages['id'] = array(
-	'sitesupport' => 'Donasi',
+	'wikimediamessages-desc' => 'Pesan-pesan spesifik Wikimedia',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Penggalangan_dana',
+	'sitesupport'            => 'Donasi',
+	'tooltip-n-sitesupport'  => 'Dukung kami',
 );
 
 /** Interlingue (Interlingue)
@@ -934,8 +1007,19 @@ $messages['lad'] = array(
  * @author Kaffi
  */
 $messages['lb'] = array(
-	'sitesupport'           => 'Donatiounen',
-	'tooltip-n-sitesupport' => 'Ënnerstetzt eis',
+	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
+	'sitesupport-url'        => 'Project:En Don maachen',
+	'sitesupport'            => 'Donatiounen',
+	'tooltip-n-sitesupport'  => 'Ënnerstetzt eis',
+	'group-developer'        => 'System-Entwéckler',
+	'group-founder'          => 'Grënner',
+	'group-import'           => 'Importateuren',
+	'group-developer-member' => 'System-Entwéckler',
+	'group-founder-member'   => 'Grënner',
+	'group-import-member'    => 'Importateur',
+	'grouppage-developer'    => '{{ns:project}}:System-Entwéckler',
+	'grouppage-founder'      => '{{ns:project}}:Grënner',
+	'grouppage-import'       => '{{ns:project}}:Importateuren',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -1061,9 +1145,14 @@ $messages['mr'] = array(
 	'sitesupport'     => 'दान',
 );
 
-/** Malay (Bahasa Melayu) */
+/** Malay (Bahasa Melayu)
+ * @author Aviator
+ */
 $messages['ms'] = array(
-	'sitesupport' => 'Derma',
+	'wikimediamessages-desc' => 'Pesanan-pesanan Wikimedia',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'            => 'Derma',
+	'tooltip-n-sitesupport'  => 'Derma',
 );
 
 /** Maltese (Malti)
@@ -1126,9 +1215,11 @@ $messages['nds'] = array(
 
 /** Nedersaksisch (Nedersaksisch)
  * @author לערי ריינהארט
+ * @author Servien
  */
 $messages['nds-nl'] = array(
-	'sitesupport' => 'Financiële steun',
+	'sitesupport'           => 'Financiële steun',
+	'tooltip-n-sitesupport' => 'Gef oons geald',
 );
 
 /** Nepali (नेपाली) */
@@ -1146,10 +1237,34 @@ $messages['new'] = array(
 /** Dutch (Nederlands)
  * @author Siebrand
  * @author Troefkaart
+ * @author SPQRobin
  */
 $messages['nl'] = array(
-	'sitesupport'           => 'Donaties',
-	'tooltip-n-sitesupport' => 'Ondersteun ons financieel',
+	'wikimediamessages-desc'      => 'Berichten voor Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Giften',
+	'sitesupport'                 => 'Donaties',
+	'tooltip-n-sitesupport'       => 'Ondersteun ons financieel',
+	'group-accountcreator'        => 'Gebruikersaanmakers',
+	'group-developer'             => 'Ontwikkelaars',
+	'group-founder'               => 'Grondleggers',
+	'group-import'                => 'Importeurs',
+	'group-ipblock-exempt'        => 'Uitgezonderden van IP-adres blokkades',
+	'group-rollbacker'            => 'Terugdraaiers',
+	'group-transwiki'             => 'Transwikiimporteurs',
+	'group-accountcreator-member' => 'Gebruikersaanmaker',
+	'group-developer-member'      => 'Ontwikkelaar',
+	'group-founder-member'        => 'Grondlegger',
+	'group-import-member'         => 'Importeur',
+	'group-ipblock-exempt-member' => 'Uitgezonderde van IP-adresblokkades',
+	'group-rollbacker-member'     => 'Terugdraaier',
+	'group-transwiki-member'      => 'Transwikiimporteur',
+	'grouppage-accountcreator'    => '{{ns:project}}:Gebruikersaanmakers',
+	'grouppage-developer'         => '{{ns:project}}:Ontwikkelaars',
+	'grouppage-founder'           => '{{ns:project}}:Grondleggers',
+	'grouppage-import'            => '{{ns:project}}:Importeurs',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Uitgezonderden van IP-adres blokkades',
+	'grouppage-rollbacker'        => '{{ns:project}}:Terugdraaiers',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwikiimporteurs',
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬) */
@@ -1302,9 +1417,13 @@ $messages['roa-rup'] = array(
 
 /** Russian (Русский)
  * @author HalanTul
+ * @author Александр Сигачёв
  */
 $messages['ru'] = array(
-	'sitesupport' => 'Пожертвования',
+	'wikimediamessages-desc' => 'Сообщения, специфичные для Викимедиа',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2',
+	'sitesupport'            => 'Пожертвования',
+	'tooltip-n-sitesupport'  => 'Поддержите нас',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
@@ -1389,7 +1508,9 @@ $messages['si'] = array(
  * @author Helix84
  */
 $messages['sk'] = array(
-	'sitesupport' => 'Podpora',
+	'wikimediamessages-desc' => 'Správy špecifické pre Wikimedia',
+	'sitesupport'            => 'Podpora',
+	'tooltip-n-sitesupport'  => 'Podporte nás',
 );
 
 /** Slovenian (Slovenščina) */
@@ -1472,10 +1593,34 @@ $messages['su'] = array(
 
 /** Swedish (Svenska)
  * @author Boivie
+ * @author M.M.S.
  */
 $messages['sv'] = array(
-	'sitesupport'           => 'Donationer',
-	'tooltip-n-sitesupport' => 'Stöd oss',
+	'wikimediamessages-desc'      => 'Wikimedia-specifika meddelanden',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/sv',
+	'sitesupport'                 => 'Donationer',
+	'tooltip-n-sitesupport'       => 'Stöd oss',
+	'group-accountcreator'        => 'Kontoskapare',
+	'group-developer'             => 'Utvecklare',
+	'group-founder'               => 'Grundare',
+	'group-import'                => 'Importörer',
+	'group-ipblock-exempt'        => 'Undantagna från IP-blockering',
+	'group-rollbacker'            => 'Tillbakarullare',
+	'group-transwiki'             => 'Transwiki-importörer',
+	'group-accountcreator-member' => 'Kontoskapare',
+	'group-developer-member'      => 'Utvecklare',
+	'group-founder-member'        => 'Grundare',
+	'group-import-member'         => 'Importör',
+	'group-ipblock-exempt-member' => 'Undantagen från IP-blockering',
+	'group-rollbacker-member'     => 'Tillbakarullare',
+	'group-transwiki-member'      => 'Tranwiki-importör',
+	'grouppage-accountcreator'    => '{{ns:project}}:Kontoskapare',
+	'grouppage-developer'         => '{{ns:project}}:Utvecklare',
+	'grouppage-founder'           => '{{ns:project}}:Grundare',
+	'grouppage-import'            => '{{ns:project}}:Importörer',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Undantagna från IP-blockering',
+	'grouppage-rollbacker'        => '{{ns:project}}:Tillbakarullare',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-importörer',
 );
 
 /** Swahili (Kiswahili)
