@@ -22,6 +22,19 @@ $messages['en'] = array(
 ** randompage-url|randompage
 ** helppage|help
 ** sitesupport-url|sitesupport', # do not translate or duplicate this message to other languages
+
+	# Wikimedia specific usergroups
+	'group-import'           => 'Importer',
+	'group-developer'        => 'Developer',
+	'group-transwiki'        => 'Transwiki importer',
+
+	'group-import-member'    => 'Importer',
+	'group-developer-member' => 'Developer',
+	'group-transwiki-member' => 'Transwiki importer',
+
+	'grouppage-import'       => '{{ns:project}}:Importers',
+	'grouppage-developer'    => '{{ns:project}}:Developers',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki importers',
 );
 
 /** Afrikaans (Afrikaans)
@@ -330,6 +343,15 @@ $messages['de'] = array(
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport'            => 'Spenden',
 	'tooltip-n-sitesupport'  => 'Unterstütze uns',
+	'group-import'           => 'Importeur',
+	'group-developer'        => 'Systemadministrator',
+	'group-transwiki'        => 'Transwiki-Importeur',
+	'group-import-member'    => 'Importeur',
+	'group-developer-member' => 'Systemadministrator',
+	'group-transwiki-member' => 'Transwiki-Importeur',
+	'grouppage-import'       => '{{ns:project}}:Importeure',
+	'grouppage-developer'    => '{{ns:project}}:Systemadministratoren',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki-Importeure',
 );
 
 /** Formal German
