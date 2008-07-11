@@ -728,17 +728,29 @@ $messages['he'] = array(
 	'tooltip-n-sitesupport'  => 'תרומה',
 
 	# Wikimedia specific usergroups
-	'group-import'           => 'מייבאים',
-	'group-developer'        => 'מפתחים',
-	'group-transwiki'        => 'מייבאים בין־אתריים',
+	'group-accountcreator'        => 'יוצרי חשבונות',
+	'group-developer'             => 'מפתחים',
+	'group-founder'               => 'מייסדים',
+	'group-import'                => 'מייבאים',
+	'group-ipblock-exempt'        => 'חסיני חסימות IP',
+	'group-rollbacker'            => 'משחזרים',
+	'group-transwiki'             => 'מייבאים בין־אתריים',
 
-	'group-import-member'    => 'מייבא',
-	'group-developer-member' => 'מפתח',
-	'group-transwiki-member' => 'מייבא בין־אתרי',
+	'group-accountcreator-member' => 'יוצר חשבונות',
+	'group-developer-member'      => 'מפתח',
+	'group-founder-member'        => 'מייסד',
+	'group-import-member'         => 'מייבא',
+	'group-ipblock-exempt-member' => 'חסין חסימות IP',
+	'group-rollbacker-member'     => 'משחזר',
+	'group-transwiki-member'      => 'מייבא בין־אתרי',
 
-	'grouppage-import'       => '{{ns:project}}:מייבא',
-	'grouppage-developer'    => '{{ns:project}}:מפתח',
-	'grouppage-transwiki'    => '{{ns:project}}:מייבא בין-אתרי',
+	'grouppage-accountcreator' => '{{ns:project}}:יוצר חשבונות',
+	'grouppage-developer'      => '{{ns:project}}:מפתח',
+	'grouppage-founder'        => '{{ns:project}}:מייסד',
+	'grouppage-import'         => '{{ns:project}}:מייבא',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:חסין חסימות IP',
+	'grouppage-rollbacker'     => '{{ns:project}}:משחזר',
+	'grouppage-transwiki'      => '{{ns:project}}:מייבא בין-אתרי',
 );
 
 /** Hindi (हिन्दी)
