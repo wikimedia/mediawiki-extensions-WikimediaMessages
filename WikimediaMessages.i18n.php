@@ -79,10 +79,31 @@ $messages['am'] = array(
  * @author SPQRobin
  */
 $messages['an'] = array(
-	'wikimediamessages-desc' => 'Mensaches espezificos de Wikimedia',
-	'sitesupport-url'        => 'Project:Donazions',
-	'sitesupport'            => 'Donazions',
-	'tooltip-n-sitesupport'  => 'Refirme o procheuto',
+	'wikimediamessages-desc'      => 'Mensaches espezificos de Wikimedia',
+	'sitesupport-url'             => 'Project:Donazions',
+	'sitesupport'                 => 'Donazions',
+	'tooltip-n-sitesupport'       => 'Refirme o procheuto',
+	'group-accountcreator'        => 'Creyadors de cuentas',
+	'group-developer'             => 'Desembolicadors',
+	'group-founder'               => 'Fundadors',
+	'group-import'                => 'Importadors',
+	'group-ipblock-exempt'        => 'Exenzion de bloqueyo IP',
+	'group-rollbacker'            => 'Rebertidors',
+	'group-transwiki'             => 'Importadors de transwiki',
+	'group-accountcreator-member' => 'Creyador de cuenta',
+	'group-developer-member'      => 'Desembolicador',
+	'group-founder-member'        => 'Fundador',
+	'group-import-member'         => 'Importador',
+	'group-ipblock-exempt-member' => 'Exenzion de bloqueyo IP',
+	'group-rollbacker-member'     => 'Rebertidor',
+	'group-transwiki-member'      => 'Importador transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Creyadors de cuenta',
+	'grouppage-developer'         => '{{ns:project}}:Desembolicadors',
+	'grouppage-founder'           => '{{ns:project}}:Fundadors',
+	'grouppage-import'            => '{{ns:project}}:Importadors',
+	'grouppage-ipblock-exempt'    => "{{ns:project}}:Exenzión d'o bloqueyo d'IP",
+	'grouppage-rollbacker'        => '{{ns:project}}:Rebertidors',
+	'grouppage-transwiki'         => '{{ns:project}}:Importardors transwiki',
 );
 
 /** Old English (Anglo-Saxon) */
@@ -933,10 +954,13 @@ $messages['kk-latn'] = array(
 /** Khmer (ភាសាខ្មែរ)
  * @author តឹក ប៊ុនលី
  * @author គីមស៊្រុន
+ * @author Lovekhmer
  */
 $messages['km'] = array(
-	'sitesupport'           => 'វិភាគទាន',
-	'tooltip-n-sitesupport' => 'គាំទ្រ​យើងខ្ញុំ',
+	'sitesupport-url'          => 'Project:ទំព័រគាំទ្រ',
+	'sitesupport'              => 'វិភាគទាន',
+	'tooltip-n-sitesupport'    => 'គាំទ្រ​យើងខ្ញុំ',
+	'grouppage-accountcreator' => '{{ns:project}}:អ្នកបង្កើតគណនី',
 );
 
 /** Kannada (ಕನ್ನಡ)
@@ -1149,10 +1173,31 @@ $messages['mr'] = array(
  * @author Aviator
  */
 $messages['ms'] = array(
-	'wikimediamessages-desc' => 'Pesanan-pesanan Wikimedia',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate',
-	'sitesupport'            => 'Derma',
-	'tooltip-n-sitesupport'  => 'Derma',
+	'wikimediamessages-desc'      => 'Pesanan-pesanan Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'Derma',
+	'tooltip-n-sitesupport'       => 'Derma',
+	'group-accountcreator'        => 'Pencipta akaun',
+	'group-developer'             => 'Pembangun',
+	'group-founder'               => 'Pengasas',
+	'group-import'                => 'Pengimport',
+	'group-ipblock-exempt'        => 'Pengecualian sekatan IP',
+	'group-rollbacker'            => 'Pengundur',
+	'group-transwiki'             => 'Pengimport rentas wiki',
+	'group-accountcreator-member' => 'Pencipta akaun',
+	'group-developer-member'      => 'Pembangun',
+	'group-founder-member'        => 'Pengasas',
+	'group-import-member'         => 'Pengimport',
+	'group-ipblock-exempt-member' => 'Pengecualian sekatan IP',
+	'group-rollbacker-member'     => 'Pengundur',
+	'group-transwiki-member'      => 'Pengimport rentas wiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Pencipta akaun',
+	'grouppage-developer'         => '{{ns:project}}:Pembangun',
+	'grouppage-founder'           => '{{ns:project}}:Pengasas',
+	'grouppage-import'            => '{{ns:project}}:Pengimport',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Pengecualian sekatan IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:Pengundur',
+	'grouppage-transwiki'         => '{{ns:project}}:Pengimport rentas wiki',
 );
 
 /** Maltese (Malti)
@@ -1262,7 +1307,7 @@ $messages['nl'] = array(
 	'grouppage-developer'         => '{{ns:project}}:Ontwikkelaars',
 	'grouppage-founder'           => '{{ns:project}}:Grondleggers',
 	'grouppage-import'            => '{{ns:project}}:Importeurs',
-	'grouppage-ipblock-exempt'    => '{{ns:project}}:Uitgezonderden van IP-adres blokkades',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Uitgezonderden van IP-adresblokkades',
 	'grouppage-rollbacker'        => '{{ns:project}}:Terugdraaiers',
 	'grouppage-transwiki'         => '{{ns:project}}:Transwikiimporteurs',
 );
@@ -1420,10 +1465,24 @@ $messages['roa-rup'] = array(
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
-	'wikimediamessages-desc' => 'Сообщения, специфичные для Викимедиа',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2',
-	'sitesupport'            => 'Пожертвования',
-	'tooltip-n-sitesupport'  => 'Поддержите нас',
+	'wikimediamessages-desc'      => 'Сообщения, специфичные для Викимедиа',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2',
+	'sitesupport'                 => 'Пожертвования',
+	'tooltip-n-sitesupport'       => 'Поддержите нас',
+	'group-accountcreator-member' => 'Создатели учётных записей',
+	'group-developer-member'      => 'разработчик',
+	'group-founder-member'        => 'основатель',
+	'group-import-member'         => 'импортёр',
+	'group-ipblock-exempt-member' => 'исключение из IP-блокировки',
+	'group-rollbacker-member'     => 'откатывающий',
+	'group-transwiki-member'      => 'импортёр из Transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Создатели учётных записей',
+	'grouppage-developer'         => '{{ns:project}}:Разработчики',
+	'grouppage-founder'           => '{{ns:project}}:Основатели',
+	'grouppage-import'            => '{{ns:project}}:Импортёры',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Исключение из IP-блокировки',
+	'grouppage-rollbacker'        => '{{ns:project}}:Откатывающие',
+	'grouppage-transwiki'         => '{{ns:project}}:Импортёры из Transwiki',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
