@@ -49,11 +49,21 @@ $messages['en'] = array(
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
 );
 
+/** Dalecarlian (Övdalską*)
+ * @author M.M.S.
+ */
+$messages['dlc'] = array(
+	'sitesupport'           => 'Stjaintja',
+	'tooltip-n-sitesupport' => 'Styða {{SITENAME}}',
+);
+
 /** Afrikaans (Afrikaans)
  * @author SPQRobin
  * @author Siebrand
+ * @author Meno25
  */
 $messages['af'] = array(
+	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate/af',
 	'sitesupport'           => 'Skenkings',
 	'tooltip-n-sitesupport' => 'Ondersteun ons',
 );
@@ -216,7 +226,7 @@ $messages['ba'] = array(
  * @author Hugo.arg
  */
 $messages['bat-smg'] = array(
-	'sitesupport'     => 'Pagelba',
+	'sitesupport' => 'Pagelba',
 );
 
 /** Southern Balochi (بلوچی مکرانی)
@@ -253,13 +263,21 @@ $messages['be-tarask'] = array(
 	'sitesupport-url'        => 'Project:Ахвяраваньні',
 	'sitesupport'            => 'Ахвяраваньні',
 	'tooltip-n-sitesupport'  => 'Падтрымайце нас',
+	'group-developer'        => 'Распрацоўшчыкі',
+	'group-founder'          => 'Фундатары',
+	'group-developer-member' => 'Распрацоўшчык',
+	'group-founder-member'   => 'Фундатар',
+	'grouppage-developer'    => '{{ns:project}}:Распрацоўшчыкі',
+	'grouppage-founder'      => '{{ns:project}}:Фундатары',
 );
 
 /** Bulgarian (Български)
  * @author Borislav
  * @author DCLXVI
+ * @author Meno25
  */
 $messages['bg'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bg',
 	'sitesupport'     => 'Дарения',
 );
 
@@ -387,7 +405,7 @@ $messages['cv'] = array(
  * @author Lloffiwr
  */
 $messages['cy'] = array(
-	'sitesupport'     => 'Rhoi arian',
+	'sitesupport' => 'Rhoi arian',
 );
 
 /** Danish (Dansk) */
@@ -425,7 +443,7 @@ $messages['de-formal'] = array(
  * @author Mirzali
  */
 $messages['diq'] = array(
-	'sitesupport'     => 'Beğş',
+	'sitesupport' => 'Beğş',
 );
 
 /** Lower Sorbian (Dolnoserbski)
@@ -463,7 +481,7 @@ $messages['ee'] = array(
  * @author Badseed
  */
 $messages['el'] = array(
-	'sitesupport'     => 'Δωρεές',
+	'sitesupport' => 'Δωρεές',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
@@ -566,21 +584,34 @@ $messages['fj'] = array(
 /** French (Français)
  * @author לערי ריינהארט
  * @author Grondin
+ * @author Meno25
  */
 $messages['fr'] = array(
-	'wikimediamessages-desc' => 'Messages spécifiques de Wikimedia',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate',
-	'sitesupport'            => 'Faire un don',
-	'tooltip-n-sitesupport'  => 'Aidez nous',
-	'group-developer'        => 'Développeur',
-	'group-import'           => 'Importateur',
-	'group-transwiki'        => 'Importateur Transwiki',
-	'group-developer-member' => 'Développeur',
-	'group-import-member'    => 'Importateur',
-	'group-transwiki-member' => 'Importateur Transwiki',
-	'grouppage-developer'    => '{{ns:project}}:Développeurs',
-	'grouppage-import'       => '{{ns:project}}:Importateurs',
-	'grouppage-transwiki'    => '{{ns:project}}:Importateurs Transwiki',
+	'wikimediamessages-desc'      => 'Messages spécifiques de Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/fr',
+	'sitesupport'                 => 'Faire un don',
+	'tooltip-n-sitesupport'       => 'Aidez nous',
+	'group-accountcreator'        => 'Créateurs de comptes',
+	'group-developer'             => 'Développeur',
+	'group-founder'               => 'Fondateurs',
+	'group-import'                => 'Importateur',
+	'group-ipblock-exempt'        => 'Exemptions de blocs IP',
+	'group-rollbacker'            => 'Réverteurs',
+	'group-transwiki'             => 'Importateur Transwiki',
+	'group-accountcreator-member' => 'Créateur de comptes',
+	'group-developer-member'      => 'Développeur',
+	'group-founder-member'        => 'Fondateur',
+	'group-import-member'         => 'Importateur',
+	'group-ipblock-exempt-member' => 'Exemption de bloc IP',
+	'group-rollbacker-member'     => 'Réverteur',
+	'group-transwiki-member'      => 'Importateur Transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Créateurs de comptes',
+	'grouppage-developer'         => '{{ns:project}}:Développeurs',
+	'grouppage-founder'           => '{{ns:project}}:Fondateurs',
+	'grouppage-import'            => '{{ns:project}}:Importateurs',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Exemption de bloc IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:Réverteurs',
+	'grouppage-transwiki'         => '{{ns:project}}:Importateurs Transwiki',
 );
 
 /** Cajun French (Français cadien)
@@ -644,12 +675,34 @@ $messages['gd'] = array(
  * @author Toliño
  * @author Alma
  * @author Xosé
+ * @author Meno25
  */
 $messages['gl'] = array(
-	'wikimediamessages-desc' => 'Mensaxes específicas da Wikimedia',
-	'sitesupport-url'        => 'Project:Doazóns',
-	'sitesupport'            => 'Doazóns',
-	'tooltip-n-sitesupport'  => 'Apóienos',
+	'wikimediamessages-desc'      => 'Mensaxes específicas da Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/gl',
+	'sitesupport'                 => 'Doazóns',
+	'tooltip-n-sitesupport'       => 'Apóienos',
+	'group-accountcreator'        => 'Creadores de contas',
+	'group-developer'             => 'Desenvolvedores',
+	'group-founder'               => 'Fundadores',
+	'group-import'                => 'Importadores',
+	'group-ipblock-exempt'        => 'Exención de bloqueo IP',
+	'group-rollbacker'            => 'Revertidores',
+	'group-transwiki'             => 'Importadores transwiki',
+	'group-accountcreator-member' => 'Creador de contas',
+	'group-developer-member'      => 'Desenvolvedor',
+	'group-founder-member'        => 'Fundador',
+	'group-import-member'         => 'Importador',
+	'group-ipblock-exempt-member' => 'Exento de bloqueo IP',
+	'group-rollbacker-member'     => 'Revertidor',
+	'group-transwiki-member'      => 'Importador transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Creadores de contas',
+	'grouppage-developer'         => '{{ns:project}}:Desenvolvedores',
+	'grouppage-founder'           => '{{ns:project}}:Fundadores',
+	'grouppage-import'            => '{{ns:project}}:Importadores',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Exención de bloqueo IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:Revertidores',
+	'grouppage-transwiki'         => '{{ns:project}}:Importadores transwiki',
 );
 
 /** Gilaki (گیلکی)
@@ -722,12 +775,10 @@ $messages['haw'] = array(
 
 /** Hebrew (עברית) */
 $messages['he'] = array(
-	'wikimediamessages-desc' => 'הודעות המיוחדות לוויקימדיה',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/תרומות',
-	'sitesupport'            => 'תרומות',
-	'tooltip-n-sitesupport'  => 'תרומה',
-
-	# Wikimedia specific usergroups
+	'wikimediamessages-desc'      => 'הודעות המיוחדות לוויקימדיה',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/תרומות',
+	'sitesupport'                 => 'תרומות',
+	'tooltip-n-sitesupport'       => 'תרומה',
 	'group-accountcreator'        => 'יוצרי חשבונות',
 	'group-developer'             => 'מפתחים',
 	'group-founder'               => 'מייסדים',
@@ -735,7 +786,6 @@ $messages['he'] = array(
 	'group-ipblock-exempt'        => 'חסיני חסימות IP',
 	'group-rollbacker'            => 'משחזרים',
 	'group-transwiki'             => 'מייבאים בין־אתריים',
-
 	'group-accountcreator-member' => 'יוצר חשבונות',
 	'group-developer-member'      => 'מפתח',
 	'group-founder-member'        => 'מייסד',
@@ -743,14 +793,13 @@ $messages['he'] = array(
 	'group-ipblock-exempt-member' => 'חסין חסימות IP',
 	'group-rollbacker-member'     => 'משחזר',
 	'group-transwiki-member'      => 'מייבא בין־אתרי',
-
-	'grouppage-accountcreator' => '{{ns:project}}:יוצר חשבונות',
-	'grouppage-developer'      => '{{ns:project}}:מפתח',
-	'grouppage-founder'        => '{{ns:project}}:מייסד',
-	'grouppage-import'         => '{{ns:project}}:מייבא',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:חסין חסימות IP',
-	'grouppage-rollbacker'     => '{{ns:project}}:משחזר',
-	'grouppage-transwiki'      => '{{ns:project}}:מייבא בין-אתרי',
+	'grouppage-accountcreator'    => '{{ns:project}}:יוצר חשבונות',
+	'grouppage-developer'         => '{{ns:project}}:מפתח',
+	'grouppage-founder'           => '{{ns:project}}:מייסד',
+	'grouppage-import'            => '{{ns:project}}:מייבא',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:חסין חסימות IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:משחזר',
+	'grouppage-transwiki'         => '{{ns:project}}:מייבא בין-אתרי',
 );
 
 /** Hindi (हिन्दी)
@@ -796,6 +845,7 @@ $messages['hsb'] = array(
  * @author Masterches
  */
 $messages['ht'] = array(
+	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport'           => 'Fè yon don',
 	'tooltip-n-sitesupport' => 'Soutni pwojè a',
 );
@@ -825,10 +875,31 @@ $messages['ia'] = array(
  * @author Rex
  */
 $messages['id'] = array(
-	'wikimediamessages-desc' => 'Pesan-pesan spesifik Wikimedia',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Penggalangan_dana',
-	'sitesupport'            => 'Donasi',
-	'tooltip-n-sitesupport'  => 'Dukung kami',
+	'wikimediamessages-desc'      => 'Pesan-pesan spesifik Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Penggalangan_dana',
+	'sitesupport'                 => 'Donasi',
+	'tooltip-n-sitesupport'       => 'Dukung kami',
+	'group-accountcreator'        => 'Pembuat akun',
+	'group-developer'             => 'Developer',
+	'group-founder'               => 'Pendiri',
+	'group-import'                => 'Importir',
+	'group-ipblock-exempt'        => 'Pengecualian pemblokiran IP',
+	'group-rollbacker'            => 'Pengembali revisi',
+	'group-transwiki'             => 'Importir transwiki',
+	'group-accountcreator-member' => 'Pembuat akun',
+	'group-developer-member'      => 'Developer',
+	'group-founder-member'        => 'Pendiri',
+	'group-import-member'         => 'Importir',
+	'group-ipblock-exempt-member' => 'Pengecualian pemblokiran IP',
+	'group-rollbacker-member'     => 'Pengembali revisi',
+	'group-transwiki-member'      => 'Importir transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Pembuat akun',
+	'grouppage-developer'         => '{{ns:project}}:Developer',
+	'grouppage-founder'           => '{{ns:project}}:Pendiri',
+	'grouppage-import'            => '{{ns:project}}:Importir',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Pengecualian pemblokiran IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:Pengembali revisi',
+	'grouppage-transwiki'         => '{{ns:project}}:Importir transwiki',
 );
 
 /** Interlingue (Interlingue)
@@ -848,6 +919,15 @@ $messages['ike-cans'] = array(
 /** Eastern Canadian (Latin) (ᐃᓄᒃᑎᑐᑦ)
 $messages['ike-latn'] = array(
 	'sitesupport' => 'tunniqkusiat kiinaujait',
+);
+
+/** Iloko (Ilokano)
+ * @author Saluyot
+ * @author לערי ריינהארט
+ */
+$messages['ilo'] = array(
+	'sitesupport'           => 'Donasion',
+	'tooltip-n-sitesupport' => 'Suportarandakami',
 );
 
 /** Iloko (Ilokano)
@@ -891,8 +971,10 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author JtFuruhata
+ * @author Meno25
  */
 $messages['ja'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ja',
 	'sitesupport'     => '寄付',
 );
 
@@ -948,7 +1030,7 @@ $messages['kab'] = array(
  * @author Siebrand
  */
 $messages['kk-arab'] = array(
-	'sitesupport'     => 'دەمەۋشىلىك',
+	'sitesupport' => 'دەمەۋشىلىك',
 );
 
 /** Kazakh (Cyrillic) (Қазақша (Cyrillic)) */
@@ -960,7 +1042,7 @@ $messages['kk-cyrl'] = array(
  * @author Siebrand
  */
 $messages['kk-latn'] = array(
-	'sitesupport'     => 'Demewşilik',
+	'sitesupport' => 'Demewşilik',
 );
 
 /** Khmer (ភាសាខ្មែរ)
@@ -1050,12 +1132,15 @@ $messages['lb'] = array(
 	'group-developer'        => 'System-Entwéckler',
 	'group-founder'          => 'Grënner',
 	'group-import'           => 'Importateuren',
+	'group-transwiki'        => 'Transwiki-Importateuren',
 	'group-developer-member' => 'System-Entwéckler',
 	'group-founder-member'   => 'Grënner',
 	'group-import-member'    => 'Importateur',
+	'group-transwiki-member' => 'Transwiki-Importateur',
 	'grouppage-developer'    => '{{ns:project}}:System-Entwéckler',
 	'grouppage-founder'      => '{{ns:project}}:Grënner',
 	'grouppage-import'       => '{{ns:project}}:Importateuren',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki-Importateuren',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -1093,7 +1178,7 @@ $messages['lij'] = array(
  * @author SPQRobin
  */
 $messages['lmo'] = array(
-	'sitesupport'     => 'Dunazziun',
+	'sitesupport' => 'Dunazziun',
 );
 
 /** Lingala (Lingála)
@@ -1159,8 +1244,10 @@ $messages['mk'] = array(
 /** Malayalam (മലയാളം)
  * @author Shijualex
  * @author לערי ריינהארט
+ * @author Meno25
  */
 $messages['ml'] = array(
+	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate/ml',
 	'sitesupport'           => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
 );
@@ -1178,7 +1265,7 @@ $messages['mn'] = array(
  * @author Mahitgar
  */
 $messages['mr'] = array(
-	'sitesupport'     => 'दान',
+	'sitesupport' => 'दान',
 );
 
 /** Malay (Bahasa Melayu)
@@ -1186,7 +1273,6 @@ $messages['mr'] = array(
  */
 $messages['ms'] = array(
 	'wikimediamessages-desc'      => 'Pesanan-pesanan Wikimedia',
-	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport'                 => 'Derma',
 	'tooltip-n-sitesupport'       => 'Derma',
 	'group-accountcreator'        => 'Pencipta akaun',
@@ -1267,7 +1353,7 @@ $messages['nap'] = array(
  * @author Slomox
  */
 $messages['nds'] = array(
-	'sitesupport'     => 'Spennen',
+	'sitesupport' => 'Spennen',
 );
 
 /** Nedersaksisch (Nedersaksisch)
@@ -1395,8 +1481,10 @@ $messages['pih'] = array(
 /** Polish (Polski)
  * @author Beau
  * @author Sp5uhe
+ * @author Meno25
  */
 $messages['pl'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pl',
 	'sitesupport'     => 'Darowizny',
 );
 
@@ -1535,7 +1623,7 @@ $messages['scn'] = array(
  * @author OchAyeTheNoo
  */
 $messages['sco'] = array(
-	'sitesupport'     => 'Propines',
+	'sitesupport' => 'Propines',
 );
 
 /** Sindhi (سنڌي)
@@ -1622,9 +1710,33 @@ $messages['sq'] = array(
 	'sitesupport' => 'Dhurime',
 );
 
-/** Serbian Cyrillic ekavian (ћирилица) */
+/** Serbian Cyrillic ekavian (ћирилица)
+ * @author Millosh
+ */
 $messages['sr-ec'] = array(
-	'sitesupport' => 'Донације',
+	'sitesupport'                 => 'Донације',
+	'tooltip-n-sitesupport'       => 'подржи нас',
+	'group-accountcreator'        => 'ствараоци налога',
+	'group-developer'             => 'развијачи софтвера',
+	'group-founder'               => 'оснивачи',
+	'group-import'                => 'уносници',
+	'group-ipblock-exempt'        => 'изузеци од ИП блокова',
+	'group-rollbacker'            => 'враћачи',
+	'group-transwiki'             => 'међувики уносници',
+	'group-accountcreator-member' => 'стваралац налога',
+	'group-developer-member'      => 'развијач софтвера',
+	'group-founder-member'        => 'оснивач',
+	'group-import-member'         => 'уносник',
+	'group-ipblock-exempt-member' => 'изузетак од ИП блокова',
+	'group-rollbacker-member'     => 'враћач',
+	'group-transwiki-member'      => 'међувики уносник',
+	'grouppage-accountcreator'    => '{{ns:project}}:Стварачи налога',
+	'grouppage-developer'         => '{{ns:project}}:Развијачи софтвера',
+	'grouppage-founder'           => '{{ns:project}}:Оснивачи',
+	'grouppage-import'            => '{{ns:project}}:Уносници',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Изузетак од ИП блокова',
+	'grouppage-rollbacker'        => '{{ns:project}}:Враћачи',
+	'grouppage-transwiki'         => '{{ns:project}}:Међувики уносници',
 );
 
 /** latinica (latinica) */
@@ -1743,7 +1855,7 @@ $messages['tet'] = array(
  * @author Siebrand
  */
 $messages['tg-cyrl'] = array(
-	'sitesupport'     => 'Кӯмаки молӣ',
+	'sitesupport' => 'Кӯмаки молӣ',
 );
 
 /** Thai (ไทย) */
@@ -1954,7 +2066,7 @@ $messages['yue'] = array(
  * @author NJ
  */
 $messages['zea'] = array(
-	'sitesupport'     => 'Donaoties',
+	'sitesupport' => 'Donaoties',
 );
 
 /** Classical Chinese (文言) */
