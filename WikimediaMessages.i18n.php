@@ -61,11 +61,16 @@ $messages['dlc'] = array(
  * @author SPQRobin
  * @author Siebrand
  * @author Meno25
+ * @author Naudefj
  */
 $messages['af'] = array(
-	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate/af',
-	'sitesupport'           => 'Skenkings',
-	'tooltip-n-sitesupport' => 'Ondersteun ons',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate/af',
+	'sitesupport'            => 'Skenkings',
+	'tooltip-n-sitesupport'  => 'Ondersteun ons',
+	'group-developer'        => 'Ontwikkelaars',
+	'group-founder'          => 'Grondleggers',
+	'group-developer-member' => 'Ontwikkelaar',
+	'group-founder-member'   => 'Grondlegger',
 );
 
 /** Gheg Albanian (Gegë)
@@ -1273,6 +1278,7 @@ $messages['mr'] = array(
  */
 $messages['ms'] = array(
 	'wikimediamessages-desc'      => 'Pesanan-pesanan Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport'                 => 'Derma',
 	'tooltip-n-sitesupport'       => 'Derma',
 	'group-accountcreator'        => 'Pencipta akaun',
@@ -1714,6 +1720,7 @@ $messages['sq'] = array(
  * @author Millosh
  */
 $messages['sr-ec'] = array(
+	'wikimediamessages-desc'      => 'Поруке специфичне за Викимедију.',
 	'sitesupport'                 => 'Донације',
 	'tooltip-n-sitesupport'       => 'подржи нас',
 	'group-accountcreator'        => 'ствараоци налога',
@@ -1953,17 +1960,57 @@ $messages['uz'] = array(
  * @author Candalua
  */
 $messages['vec'] = array(
-	'sitesupport'           => 'Donassioni',
-	'tooltip-n-sitesupport' => 'Jùtane',
+	'wikimediamessages-desc'      => 'Messagi specifici de Wikimedia',
+	'sitesupport'                 => 'Donassioni',
+	'tooltip-n-sitesupport'       => 'Jùtane',
+	'group-accountcreator'        => 'Creatori de account',
+	'group-developer'             => 'Svilupadori',
+	'group-founder'               => 'Fondatori',
+	'group-import'                => 'Inportadori',
+	'group-transwiki'             => 'Inportadori transwiki',
+	'group-accountcreator-member' => 'Creator de account',
+	'group-developer-member'      => 'Svilupador',
+	'group-founder-member'        => 'Fondator',
+	'group-import-member'         => 'Inportador',
+	'group-transwiki-member'      => 'Inportador transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Creatori de account',
+	'grouppage-developer'         => '{{ns:project}}:Svilupadori',
+	'grouppage-founder'           => '{{ns:project}}:Fondatori',
+	'grouppage-import'            => '{{ns:project}}:Inportadori',
+	'grouppage-transwiki'         => '{{ns:project}}:Inportadori transwiki',
 );
 
 /** Vietnamese (Tiếng Việt)
  * @author Vinhtantran
  * @author לערי ריינהארט
+ * @author Minh Nguyen
  */
 $messages['vi'] = array(
-	'sitesupport'           => 'Quyên góp',
-	'tooltip-n-sitesupport' => 'Hãy ủng hộ chúng tôi',
+	'wikimediamessages-desc'      => 'Các thông báo đặc trưng cho Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Quy%C3%AAn_g%C3%B3p',
+	'sitesupport'                 => 'Quyên góp',
+	'tooltip-n-sitesupport'       => 'Hãy ủng hộ chúng tôi',
+	'group-accountcreator'        => 'Người mở tài khoản',
+	'group-developer'             => 'Người phát triển',
+	'group-founder'               => 'Nhà sáng lập',
+	'group-import'                => 'Người nhập trang',
+	'group-ipblock-exempt'        => 'Người được miễn cấm IP',
+	'group-rollbacker'            => 'Người lùi sửa',
+	'group-transwiki'             => 'Người nhập trang giữa wiki',
+	'group-accountcreator-member' => 'Người mở tài khoản',
+	'group-developer-member'      => 'Người phát triển',
+	'group-founder-member'        => 'Nhà sáng lập',
+	'group-import-member'         => 'Người nhập trang',
+	'group-ipblock-exempt-member' => 'Người được miễn cấm IP',
+	'group-rollbacker-member'     => 'Người lùi sửa',
+	'group-transwiki-member'      => 'Người nhập trang giữa wiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Người mở tài khoản',
+	'grouppage-developer'         => '{{ns:project}}:Người phát triển',
+	'grouppage-founder'           => '{{ns:project}}:Nhà sáng lập',
+	'grouppage-import'            => '{{ns:project}}:Người nhập trang',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Người được miễn cấm IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:Người lùi sửa',
+	'grouppage-transwiki'         => '{{ns:project}}:Người nhập trang giữa wiki',
 );
 
 /** Volapük (Volapük)
