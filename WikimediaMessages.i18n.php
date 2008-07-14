@@ -384,12 +384,19 @@ $messages['crh-cyrl'] = array(
 
 /** Czech (Česky)
  * @author Danny B.
+ * @author Matěj Grabovský
  */
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Sponzorstv%C3%AD',
 	'sitesupport'            => 'Podpořte nás',
 	'tooltip-n-sitesupport'  => 'Podpořte nás',
+	'group-developer'        => 'Vývojáři',
+	'group-founder'          => 'Zakladatelé',
+	'group-developer-member' => 'Vývojář',
+	'group-founder-member'   => 'Zakladatel',
+	'grouppage-developer'    => '{{ns:Project}}:Vývojáři',
+	'grouppage-founder'      => '{{ns:Project}}:Zakladatelé',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -969,9 +976,12 @@ $messages['is'] = array(
 	'tooltip-n-sitesupport' => 'Fjárframlagssíða',
 );
 
-/** Italian (Italiano) */
+/** Italian (Italiano)
+ * @author Pietrodn
+ */
 $messages['it'] = array(
-	'sitesupport' => 'Donazioni',
+	'wikimediamessages-desc' => 'Messaggi specifici di Wikimedia',
+	'sitesupport'            => 'Donazioni',
 );
 
 /** Japanese (日本語)
@@ -1056,10 +1066,12 @@ $messages['kk-latn'] = array(
  * @author Lovekhmer
  */
 $messages['km'] = array(
-	'sitesupport-url'          => 'Project:ទំព័រគាំទ្រ',
-	'sitesupport'              => 'វិភាគទាន',
-	'tooltip-n-sitesupport'    => 'គាំទ្រ​យើងខ្ញុំ',
-	'grouppage-accountcreator' => '{{ns:project}}:អ្នកបង្កើតគណនី',
+	'sitesupport-url'             => 'Project:ទំព័រគាំទ្រ',
+	'sitesupport'                 => 'វិភាគទាន',
+	'tooltip-n-sitesupport'       => 'គាំទ្រ​យើងខ្ញុំ',
+	'group-accountcreator'        => 'អ្នកបង្កើតគណនី',
+	'group-accountcreator-member' => 'អ្នកបង្កើតគណនី',
+	'grouppage-accountcreator'    => '{{ns:project}}:អ្នកបង្កើតគណនី',
 );
 
 /** Kannada (ಕನ್ನಡ)
@@ -1130,22 +1142,25 @@ $messages['lad'] = array(
  * @author Kaffi
  */
 $messages['lb'] = array(
-	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
-	'sitesupport-url'        => 'Project:En Don maachen',
-	'sitesupport'            => 'Donatiounen',
-	'tooltip-n-sitesupport'  => 'Ënnerstetzt eis',
-	'group-developer'        => 'System-Entwéckler',
-	'group-founder'          => 'Grënner',
-	'group-import'           => 'Importateuren',
-	'group-transwiki'        => 'Transwiki-Importateuren',
-	'group-developer-member' => 'System-Entwéckler',
-	'group-founder-member'   => 'Grënner',
-	'group-import-member'    => 'Importateur',
-	'group-transwiki-member' => 'Transwiki-Importateur',
-	'grouppage-developer'    => '{{ns:project}}:System-Entwéckler',
-	'grouppage-founder'      => '{{ns:project}}:Grënner',
-	'grouppage-import'       => '{{ns:project}}:Importateuren',
-	'grouppage-transwiki'    => '{{ns:project}}:Transwiki-Importateuren',
+	'wikimediamessages-desc'      => 'Spezifesch Systemmessage fir Wikimedia',
+	'sitesupport-url'             => 'Project:En Don maachen',
+	'sitesupport'                 => 'Donatiounen',
+	'tooltip-n-sitesupport'       => 'Ënnerstetzt eis',
+	'group-accountcreator'        => 'Benotzer déi Benotzerkonten uleeën däerfen',
+	'group-developer'             => 'System-Entwéckler',
+	'group-founder'               => 'Grënner',
+	'group-import'                => 'Importateuren',
+	'group-transwiki'             => 'Transwiki-Importateuren',
+	'group-accountcreator-member' => 'Benotzer dee Benotzerkonten uleeën däerf',
+	'group-developer-member'      => 'System-Entwéckler',
+	'group-founder-member'        => 'Grënner',
+	'group-import-member'         => 'Importateur',
+	'group-transwiki-member'      => 'Transwiki-Importateur',
+	'grouppage-accountcreator'    => '{{ns:project}}:Benotzer déi Benotzerkonten uleeën däerfen',
+	'grouppage-developer'         => '{{ns:project}}:System-Entwéckler',
+	'grouppage-founder'           => '{{ns:project}}:Grënner',
+	'grouppage-import'            => '{{ns:project}}:Importateuren',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-Importateuren',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -1575,6 +1590,13 @@ $messages['ru'] = array(
 	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2',
 	'sitesupport'                 => 'Пожертвования',
 	'tooltip-n-sitesupport'       => 'Поддержите нас',
+	'group-accountcreator'        => 'Создатели учётных записей',
+	'group-developer'             => 'Разработчики',
+	'group-founder'               => 'Основатели',
+	'group-import'                => 'Импортёры',
+	'group-ipblock-exempt'        => 'Исключения из IP-блокировок',
+	'group-rollbacker'            => 'Откатывающие',
+	'group-transwiki'             => 'Импортёры из Transwiki',
 	'group-accountcreator-member' => 'Создатели учётных записей',
 	'group-developer-member'      => 'разработчик',
 	'group-founder-member'        => 'основатель',
