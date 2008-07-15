@@ -64,6 +64,7 @@ $messages['dlc'] = array(
  * @author Naudefj
  */
 $messages['af'] = array(
+	'wikimediamessages-desc' => 'Wikimedia spesifieke boodskappe',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate/af',
 	'sitesupport'            => 'Skenkings',
 	'tooltip-n-sitesupport'  => 'Ondersteun ons',
@@ -71,6 +72,8 @@ $messages['af'] = array(
 	'group-founder'          => 'Grondleggers',
 	'group-developer-member' => 'Ontwikkelaar',
 	'group-founder-member'   => 'Grondlegger',
+	'grouppage-developer'    => '{{ns:project}}:Ontwikkelaars',
+	'grouppage-founder'      => '{{ns:project}}:Grondleggers',
 );
 
 /** Gheg Albanian (Gegë)
@@ -520,9 +523,13 @@ $messages['ee'] = array(
 /** Greek (Ελληνικά)
  * @author ZaDiak
  * @author Badseed
+ * @author Consta
  */
 $messages['el'] = array(
-	'sitesupport' => 'Δωρεές',
+	'sitesupport'           => 'Δωρεές',
+	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
+	'group-founder'         => 'Ιδρυτές',
+	'grouppage-founder'     => '{{ns:project}}:Ιδρυτές',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
