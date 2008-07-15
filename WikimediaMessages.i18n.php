@@ -239,8 +239,12 @@ $messages['bat-smg'] = array(
  * @author Siebrand
  */
 $messages['bcc'] = array(
+	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport'           => 'مدتان',
 	'tooltip-n-sitesupport' => 'ما را حمایت کنیت',
+	'group-accountcreator'  => 'حساب شرکنوکان',
+	'group-founder'         => 'بنگیج کنوکان',
+	'group-import'          => 'وارد کنوکان',
 );
 
 /** Bikol Central (Bikol Central)
@@ -312,9 +316,34 @@ $messages['bpy'] = array(
 
 /** Breton (Brezhoneg)
  * @author לערי ריינהארט
+ * @author Fulup
  */
 $messages['br'] = array(
-	'sitesupport' => 'Roadoù',
+	'wikimediamessages-desc'      => 'Kemennoù dibar Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'Roadoù',
+	'tooltip-n-sitesupport'       => "Harpit ac'hanomp",
+	'group-accountcreator'        => 'Krouerien kontoù',
+	'group-developer'             => 'Diorroer',
+	'group-founder'               => 'Diazezourien',
+	'group-import'                => 'Enporzhier',
+	'group-ipblock-exempt'        => "Nemedennoù bloc'hadoù IP",
+	'group-rollbacker'            => 'Assaverien',
+	'group-transwiki'             => 'Enporzherien treuzwiki',
+	'group-accountcreator-member' => 'Krouer kontoù',
+	'group-developer-member'      => 'Diorroer',
+	'group-founder-member'        => 'Diazezer',
+	'group-import-member'         => 'Enporzhier',
+	'group-ipblock-exempt-member' => "Nemedenn bloc'had IP",
+	'group-rollbacker-member'     => 'Assaver',
+	'group-transwiki-member'      => 'Enporzhier treuzwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}: Krouerien kontoù',
+	'grouppage-developer'         => '{{ns:project}} : Diorroerien',
+	'grouppage-founder'           => '{{ns:project}} : Diazezerien',
+	'grouppage-import'            => '{{ns:project}} : Enporzherien',
+	'grouppage-ipblock-exempt'    => "{{ns:project}} : Nemedenn bloc'had IP",
+	'grouppage-rollbacker'        => '{{ns:project}} : Assaverien',
+	'grouppage-transwiki'         => '{{ns:project}} : Enporzherien treuzwiki',
 );
 
 /** Bosnian (Bosanski)
@@ -879,6 +908,7 @@ $messages['hy'] = array(
  * @author McDutchie
  */
 $messages['ia'] = array(
+	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport'           => 'Donationes',
 	'tooltip-n-sitesupport' => 'Sustene nos',
 );
