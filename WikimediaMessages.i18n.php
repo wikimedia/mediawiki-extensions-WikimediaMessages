@@ -289,8 +289,15 @@ $messages['be-tarask'] = array(
  * @author Meno25
  */
 $messages['bg'] = array(
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bg',
-	'sitesupport'     => 'Дарения',
+	'wikimediamessages-desc' => 'Съобщения, специфични за Уикимедия',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate/bg',
+	'sitesupport'            => 'Дарения',
+	'group-developer'        => 'Разработчици',
+	'group-founder'          => 'Основатели',
+	'group-developer-member' => 'Разработчик',
+	'group-founder-member'   => 'Основател',
+	'grouppage-developer'    => '{{ns:project}}:Разработчици',
+	'grouppage-founder'      => '{{ns:project}}:Основатели',
 );
 
 /** Bambara (Bamanankan) */
@@ -529,6 +536,7 @@ $messages['el'] = array(
 	'sitesupport'           => 'Δωρεές',
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
 	'group-founder'         => 'Ιδρυτές',
+	'group-founder-member'  => 'Ιδρυτής',
 	'grouppage-founder'     => '{{ns:project}}:Ιδρυτές',
 );
 
@@ -1542,8 +1550,24 @@ $messages['pih'] = array(
  * @author Meno25
  */
 $messages['pl'] = array(
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pl',
-	'sitesupport'     => 'Darowizny',
+	'wikimediamessages-desc'      => 'Komunikaty unikalne dla projektów Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/pl',
+	'sitesupport'                 => 'Darowizny',
+	'tooltip-n-sitesupport'       => 'Pomóż nam',
+	'group-accountcreator'        => 'Tworzący konta',
+	'group-developer'             => 'Deweloperzy',
+	'group-founder'               => 'Założyciele',
+	'group-import'                => 'Importerzy',
+	'group-ipblock-exempt'        => 'Uprawnieni do logowania się z zablokowanych adresów IP',
+	'group-rollbacker'            => 'Uprawnieni do wycofywania transakcji bazy danych',
+	'group-transwiki'             => 'Importerzy z innych wiki',
+	'group-accountcreator-member' => 'Twórca kont',
+	'group-developer-member'      => 'Deweloper',
+	'group-founder-member'        => 'Założyciel',
+	'group-import-member'         => 'Importer',
+	'group-ipblock-exempt-member' => 'Uprawniony do zalogowania się z zablokowanego adresu IP',
+	'group-rollbacker-member'     => 'Uprawniony do wycofania transakcji bazy danych',
+	'group-transwiki-member'      => 'Importer z innych wiki',
 );
 
 /** Piemontèis (Piemontèis) */
@@ -1732,9 +1756,30 @@ $messages['si'] = array(
  * @author Helix84
  */
 $messages['sk'] = array(
-	'wikimediamessages-desc' => 'Správy špecifické pre Wikimedia',
-	'sitesupport'            => 'Podpora',
-	'tooltip-n-sitesupport'  => 'Podporte nás',
+	'wikimediamessages-desc'      => 'Správy špecifické pre Wikimedia',
+	'sitesupport'                 => 'Podpora',
+	'tooltip-n-sitesupport'       => 'Podporte nás',
+	'group-accountcreator'        => 'Tvorcovia účtov',
+	'group-developer'             => 'Vývojári',
+	'group-founder'               => 'Zakladatelia',
+	'group-import'                => 'Importéri',
+	'group-ipblock-exempt'        => 'Výnimky z blokovaní IP',
+	'group-rollbacker'            => 'S právom rollback',
+	'group-transwiki'             => 'Transwiki importéri',
+	'group-accountcreator-member' => 'Tvorca účtu',
+	'group-developer-member'      => 'Vývojár',
+	'group-founder-member'        => 'Zakladateľ',
+	'group-import-member'         => 'Importér',
+	'group-ipblock-exempt-member' => 'Výnimka z blokovaní IP',
+	'group-rollbacker-member'     => 'S právom rollback',
+	'group-transwiki-member'      => 'Transwiki importér',
+	'grouppage-accountcreator'    => '{{ns:project}}:Tvorcovia účtov',
+	'grouppage-developer'         => '{{ns:project}}:Vývojári',
+	'grouppage-founder'           => '{{ns:project}}:Zakladatelia',
+	'grouppage-import'            => '{{ns:project}}:Importéri',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Výnimky z blokovaní IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:S právom rollback',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwiki importéri',
 );
 
 /** Slovenian (Slovenščina) */
