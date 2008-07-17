@@ -923,9 +923,31 @@ $messages['hy'] = array(
  * @author McDutchie
  */
 $messages['ia'] = array(
-	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate',
-	'sitesupport'           => 'Donationes',
-	'tooltip-n-sitesupport' => 'Sustene nos',
+	'wikimediamessages-desc'      => 'Messages specific de Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'Donationes',
+	'tooltip-n-sitesupport'       => 'Sustene nos',
+	'group-accountcreator'        => 'Creatores de contos',
+	'group-developer'             => 'Disveloppatores',
+	'group-founder'               => 'Fundatores',
+	'group-import'                => 'Importatores',
+	'group-ipblock-exempt'        => 'Exemptiones de blocos IP',
+	'group-rollbacker'            => 'Revertitores',
+	'group-transwiki'             => 'Importatores transwiki',
+	'group-accountcreator-member' => 'Creator de contos',
+	'group-developer-member'      => 'Disveloppator',
+	'group-founder-member'        => 'Fundator',
+	'group-import-member'         => 'Importator',
+	'group-ipblock-exempt-member' => 'Exemption de bloco IP',
+	'group-rollbacker-member'     => 'Revertitor',
+	'group-transwiki-member'      => 'Importator transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Creatores de contos',
+	'grouppage-developer'         => '{{ns:project}}:Disveloppatores',
+	'grouppage-founder'           => '{{ns:project}}:Fundatores',
+	'grouppage-import'            => '{{ns:project}}:Importatores',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Exemption de blocos IP',
+	'grouppage-rollbacker'        => '{{ns:project}}:Revertitores',
+	'grouppage-transwiki'         => '{{ns:project}}:Importatores transwiki',
 );
 
 /** Indonesian (Bahasa Indonesia)
@@ -934,7 +956,7 @@ $messages['ia'] = array(
 $messages['id'] = array(
 	'wikimediamessages-desc'      => 'Pesan-pesan spesifik Wikimedia',
 	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Penggalangan_dana',
-	'sitesupport'                 => 'Donasi',
+	'sitesupport'                 => 'Menyumbang',
 	'tooltip-n-sitesupport'       => 'Dukung kami',
 	'group-accountcreator'        => 'Pembuat akun',
 	'group-developer'             => 'Developer',
@@ -1115,7 +1137,9 @@ $messages['km'] = array(
 	'sitesupport'                 => 'វិភាគទាន',
 	'tooltip-n-sitesupport'       => 'គាំទ្រ​យើងខ្ញុំ',
 	'group-accountcreator'        => 'អ្នកបង្កើតគណនី',
+	'group-founder'               => 'ស្ថាបនិក',
 	'group-accountcreator-member' => 'អ្នកបង្កើតគណនី',
+	'group-founder-member'        => 'ស្ថាបនិក',
 	'grouppage-accountcreator'    => '{{ns:project}}:អ្នកបង្កើតគណនី',
 );
 
@@ -1368,8 +1392,9 @@ $messages['ms'] = array(
  * @author Giangian15
  */
 $messages['mt'] = array(
-	'sitesupport'           => 'Donazzjonijiet',
-	'tooltip-n-sitesupport' => 'Appoġġjana',
+	'wikimediamessages-desc' => "Messaġġi speċifiki ta' Wikimedija",
+	'sitesupport'            => 'Donazzjonijiet',
+	'tooltip-n-sitesupport'  => 'Appoġġjana',
 );
 
 /** Mirandese (Mirandés)
