@@ -242,12 +242,31 @@ $messages['bat-smg'] = array(
  * @author Siebrand
  */
 $messages['bcc'] = array(
-	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate',
-	'sitesupport'           => 'مدتان',
-	'tooltip-n-sitesupport' => 'ما را حمایت کنیت',
-	'group-accountcreator'  => 'حساب شرکنوکان',
-	'group-founder'         => 'بنگیج کنوکان',
-	'group-import'          => 'وارد کنوکان',
+	'wikimediamessages-desc'      => 'کوله یان مخصوص ویکی‌مدیا',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'مدتان',
+	'tooltip-n-sitesupport'       => 'ما را حمایت کنیت',
+	'group-accountcreator'        => 'حساب شرکنوکان',
+	'group-developer'             => 'پیشبروکان',
+	'group-founder'               => 'بنگیج کنوکان',
+	'group-import'                => 'وارد کنوکان',
+	'group-ipblock-exempt'        => 'معافیت محدودیت آی پی',
+	'group-rollbacker'            => 'عقب ترینوک',
+	'group-transwiki'             => 'واردکنوکان بین‌ویکی',
+	'group-accountcreator-member' => 'حساب شرکنوک',
+	'group-developer-member'      => 'پیشبروک',
+	'group-founder-member'        => 'بنگیج کنوک',
+	'group-import-member'         => 'واردکنوک',
+	'group-ipblock-exempt-member' => 'استثنای محدودیت آی پی',
+	'group-rollbacker-member'     => 'ترینوک',
+	'group-transwiki-member'      => 'واردکنوک بین‌ویکی',
+	'grouppage-accountcreator'    => '{{ns:project}}:حساب شرکنوکان',
+	'grouppage-developer'         => '{{ns:project}}:پیشبروکان',
+	'grouppage-founder'           => '{{ns:project}}:بنگیج کنوکان',
+	'grouppage-import'            => '{{ns:project}}:واردکنوکان',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:استثناء محدودیت آی پی',
+	'grouppage-rollbacker'        => '{{ns:project}}:واردکنوکان',
+	'grouppage-transwiki'         => '{{ns:project}}:واردکنوکان بین ویکی',
 );
 
 /** Bikol Central (Bikol Central)
@@ -348,12 +367,12 @@ $messages['br'] = array(
 	'group-rollbacker-member'     => 'Assaver',
 	'group-transwiki-member'      => 'Enporzhier treuzwiki',
 	'grouppage-accountcreator'    => '{{ns:project}}: Krouerien kontoù',
-	'grouppage-developer'         => '{{ns:project}} : Diorroerien',
-	'grouppage-founder'           => '{{ns:project}} : Diazezerien',
-	'grouppage-import'            => '{{ns:project}} : Enporzherien',
-	'grouppage-ipblock-exempt'    => "{{ns:project}} : Nemedenn bloc'had IP",
-	'grouppage-rollbacker'        => '{{ns:project}} : Assaverien',
-	'grouppage-transwiki'         => '{{ns:project}} : Enporzherien treuzwiki',
+	'grouppage-developer'         => '{{ns:project}}:Diorroerien',
+	'grouppage-founder'           => '{{ns:project}}:Diazezerien',
+	'grouppage-import'            => '{{ns:project}}:Enporzherien',
+	'grouppage-ipblock-exempt'    => "{{ns:project}}:Nemedenn bloc'had IP",
+	'grouppage-rollbacker'        => '{{ns:project}}:Assaverien',
+	'grouppage-transwiki'         => '{{ns:project}}:Enporzherien treuzwiki',
 );
 
 /** Bosnian (Bosanski)
@@ -434,8 +453,8 @@ $messages['cs'] = array(
 	'group-founder'          => 'Zakladatelé',
 	'group-developer-member' => 'Vývojář',
 	'group-founder-member'   => 'Zakladatel',
-	'grouppage-developer'    => '{{ns:Project}}:Vývojáři',
-	'grouppage-founder'      => '{{ns:Project}}:Zakladatelé',
+	'grouppage-developer'    => '{{ns:project}}:Vývojáři',
+	'grouppage-founder'      => '{{ns:project}}:Zakladatelé',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -773,7 +792,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic (𐌲𐌿𐍄𐌹𐍃𐌺)
+/** Gothic (������������������������������������)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
