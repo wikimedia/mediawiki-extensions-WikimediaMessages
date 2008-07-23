@@ -1,13 +1,12 @@
 <?php
-
-$messages = array();
-
 /**
  * TODO:
  *   * Remove current events and community portal from the default sidebar
  *     and add those messages to here
  *   * Make the help links on non-Wikimedia sites point to mediawiki.org?
  */
+
+$messages = array();
 
 $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific messages',
@@ -792,7 +791,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'áº½ rei",
 );
 
-/** Gothic (í €í¼²í €í¼¿í €í½„í €í¼¹í €í½ƒí €í¼º)
+/** Gothic (ğŒ²ğŒ¿ğ„ğŒ¹ğƒğŒº)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
