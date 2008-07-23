@@ -69,10 +69,13 @@ $messages['af'] = array(
 	'tooltip-n-sitesupport'  => 'Ondersteun ons',
 	'group-developer'        => 'Ontwikkelaars',
 	'group-founder'          => 'Grondleggers',
+	'group-import'           => 'Importeurders',
 	'group-developer-member' => 'Ontwikkelaar',
 	'group-founder-member'   => 'Grondlegger',
+	'group-import-member'    => 'Importeurder',
 	'grouppage-developer'    => '{{ns:project}}:Ontwikkelaars',
 	'grouppage-founder'      => '{{ns:project}}:Grondleggers',
+	'grouppage-import'       => '{{ns:project}}:Importeurders',
 );
 
 /** Gheg Albanian (Gegë)
@@ -328,8 +331,17 @@ $messages['bm'] = array(
  * @author Bellayet
  */
 $messages['bn'] = array(
-	'sitesupport'           => 'দান করুন',
-	'tooltip-n-sitesupport' => 'আমাদের সহায়তা করুন',
+	'wikimediamessages-desc'      => 'উইকিমিডিয়া নির্ধারিত বার্তা',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'দান করুন',
+	'tooltip-n-sitesupport'       => 'আমাদের সহায়তা করুন',
+	'group-accountcreator'        => 'অ্যাকাউন্ট তৈরি করেন যারা',
+	'group-developer'             => 'ডেভেলোপারগণ',
+	'group-founder'               => 'উদ্যোক্তা',
+	'group-import'                => 'আমদানীকারক',
+	'group-accountcreator-member' => 'অ্যাকাউন্ট তৈরি করেন যিনি',
+	'group-developer-member'      => 'ডেভেলোপার',
+	'group-founder-member'        => 'উদ্যোক্তা',
 );
 
 /** Tibetan (བོད་ཡིག) */
@@ -567,8 +579,23 @@ $messages['eml'] = array(
  * @author Yekrats
  */
 $messages['eo'] = array(
-	'sitesupport'           => 'Donaci',
-	'tooltip-n-sitesupport' => 'Subteni nin per mono',
+	'wikimediamessages-desc'      => 'Specifaj mesaĝoj de Wikimedia',
+	'sitesupport'                 => 'Donaci',
+	'tooltip-n-sitesupport'       => 'Subteni nin per mono',
+	'group-accountcreator'        => 'Kreintoj de kontoj',
+	'group-developer'             => 'Programistoj',
+	'group-founder'               => 'Fondintoj',
+	'group-import'                => 'Importantoj',
+	'group-transwiki'             => 'Importintoj de Transvikio',
+	'group-accountcreator-member' => 'Kreinto de konto',
+	'group-developer-member'      => 'Programisto',
+	'group-founder-member'        => 'Fondinto',
+	'group-import-member'         => 'Importanto',
+	'group-rollbacker-member'     => 'Restariganto',
+	'grouppage-accountcreator'    => '{{ns:project}}:Kreintoj de kontoj',
+	'grouppage-developer'         => '{{ns:project}}:Programistoj',
+	'grouppage-founder'           => '{{ns:project}}:Fondintoj',
+	'grouppage-import'            => '{{ns:project}}:Importantoj',
 );
 
 /** Spanish (Español) */
@@ -791,7 +818,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic (𐌲𐌿𐍄𐌹𐍃𐌺)
+/** Gothic (������������������������������������)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
@@ -924,9 +951,35 @@ $messages['ht'] = array(
 	'tooltip-n-sitesupport' => 'Soutni pwojè a',
 );
 
-/** Hungarian (Magyar) */
+/** Hungarian (Magyar)
+ * @author Dani
+ */
 $messages['hu'] = array(
-	'sitesupport' => 'Adományok',
+	'wikimediamessages-desc'      => 'Wikimedia-specifikus üzenetek',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'Adományok',
+	'tooltip-n-sitesupport'       => 'Támogatás',
+	'group-accountcreator'        => 'fióklétrehozók',
+	'group-developer'             => 'fejlesztők',
+	'group-founder'               => 'alapítók',
+	'group-import'                => 'importálók',
+	'group-ipblock-exempt'        => 'IP-blokkok alól mentesülők',
+	'group-rollbacker'            => 'visszaállítók',
+	'group-transwiki'             => 'wikiközi importálók',
+	'group-accountcreator-member' => 'fióklétrehozó',
+	'group-developer-member'      => 'fejlesztő',
+	'group-founder-member'        => 'alapító',
+	'group-import-member'         => 'importáló',
+	'group-ipblock-exempt-member' => 'IP-blokkok alól mentesülő',
+	'group-rollbacker-member'     => 'visszaállító',
+	'group-transwiki-member'      => 'wikiközi importáló',
+	'grouppage-accountcreator'    => '{{ns:project}}:Fióklétrehozók',
+	'grouppage-developer'         => '{{ns:project}}:Fejlesztők',
+	'grouppage-founder'           => '{{ns:project}}:Alapítók',
+	'grouppage-import'            => '{{ns:project}}:Importálók',
+	'grouppage-ipblock-exempt'    => 'Mentesülés az IP-blokkok alól',
+	'grouppage-rollbacker'        => '{{ns:project}}:Visszaállítók',
+	'grouppage-transwiki'         => '{{ns:project}}:Wikiközi importálók',
 );
 
 /** Armenian (Հայերեն)
@@ -1063,10 +1116,13 @@ $messages['is'] = array(
 
 /** Italian (Italiano)
  * @author Pietrodn
+ * @author Darth Kule
  */
 $messages['it'] = array(
 	'wikimediamessages-desc' => 'Messaggi specifici di Wikimedia',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donazioni',
 	'sitesupport'            => 'Donazioni',
+	'tooltip-n-sitesupport'  => 'Sostienici',
 );
 
 /** Japanese (日本語)
@@ -1188,8 +1244,31 @@ $messages['krj'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
-	'sitesupport'           => 'Spende',
-	'tooltip-n-sitesupport' => 'Donn uns Ungerstötze!',
+	'wikimediamessages-desc'      => 'Systemnohrechte un Tex för de Wikimedia Wikis',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Spende',
+	'sitesupport'                 => 'Spende',
+	'tooltip-n-sitesupport'       => 'Donn uns Ungerstötze!',
+	'group-accountcreator'        => 'Metmaacher-Maachere',
+	'group-developer'             => 'Entwecklere',
+	'group-founder'               => 'Jröndere',
+	'group-import'                => 'Emportöre',
+	'group-ipblock-exempt'        => 'IP-Jruppe-Sperre-Ußnahme',
+	'group-rollbacker'            => 'Zeröcknemmere',
+	'group-transwiki'             => 'Transwiki-Emportöre',
+	'group-accountcreator-member' => 'Metmaacher-Maacher',
+	'group-developer-member'      => 'Entweckler',
+	'group-founder-member'        => 'Jrönder',
+	'group-import-member'         => 'Emportör',
+	'group-ipblock-exempt-member' => 'IP-Jruppe-Sperre-Ußnahm',
+	'group-rollbacker-member'     => 'Zeröcknemmer',
+	'group-transwiki-member'      => 'Transwiki-Emportör',
+	'grouppage-accountcreator'    => '{{ns:project}}:Metmaacher-Maacher',
+	'grouppage-developer'         => '{{ns:project}}:Entweckler',
+	'grouppage-founder'           => '{{ns:project}}:Jrönder',
+	'grouppage-import'            => '{{ns:project}}:Emportör',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:IP-Jruppe-Sperre-Ußnahm',
+	'grouppage-rollbacker'        => '{{ns:project}}:Zeröcknemmer',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-Emportör',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */
@@ -1237,16 +1316,19 @@ $messages['lb'] = array(
 	'group-developer'             => 'System-Entwéckler',
 	'group-founder'               => 'Grënner',
 	'group-import'                => 'Importateuren',
+	'group-ipblock-exempt'        => 'Ausnahme vun IP-Spären',
 	'group-transwiki'             => 'Transwiki-Importateuren',
 	'group-accountcreator-member' => 'Benotzer dee Benotzerkonten uleeën däerf',
 	'group-developer-member'      => 'System-Entwéckler',
 	'group-founder-member'        => 'Grënner',
 	'group-import-member'         => 'Importateur',
+	'group-ipblock-exempt-member' => 'Ausnam vun der IP-Spär',
 	'group-transwiki-member'      => 'Transwiki-Importateur',
 	'grouppage-accountcreator'    => '{{ns:project}}:Benotzer déi Benotzerkonten uleeën däerfen',
 	'grouppage-developer'         => '{{ns:project}}:System-Entwéckler',
 	'grouppage-founder'           => '{{ns:project}}:Grënner',
 	'grouppage-import'            => '{{ns:project}}:Importateuren',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Ausnahm vun der IP-Spär',
 	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-Importateuren',
 );
 
@@ -1445,6 +1527,14 @@ $messages['na'] = array(
 	'sitesupport' => 'Eadu a me',
 );
 
+/** Nahuatl (Nahuatl)
+ * @author Fluence
+ */
+$messages['nah'] = array(
+	'tooltip-n-sitesupport' => 'Xitēchtēpalēhuia',
+	'group-founder-member'  => 'Chīhualōni',
+);
+
 /** Min Nan Chinese (Bân-lâm-gú) */
 $messages['nan'] = array(
 	'sitesupport' => 'Kià-hù',
@@ -1529,9 +1619,31 @@ $messages['nn'] = array(
  * @author Jon Harald Søby
  */
 $messages['no'] = array(
-	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate/nb',
-	'sitesupport'           => 'Donasjoner',
-	'tooltip-n-sitesupport' => 'Støtt oss',
+	'wikimediamessages-desc'      => 'Wikimedia-spesifikke beskjeder',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/nb',
+	'sitesupport'                 => 'Donasjoner',
+	'tooltip-n-sitesupport'       => 'Støtt oss',
+	'group-accountcreator'        => 'Kontoopprettere',
+	'group-developer'             => 'Utviklere',
+	'group-founder'               => 'Grunnleggere',
+	'group-import'                => 'Importører',
+	'group-ipblock-exempt'        => 'Untatte fra IP-blokkering',
+	'group-rollbacker'            => 'Tilbakestillere',
+	'group-transwiki'             => 'Transwiki-importører',
+	'group-accountcreator-member' => 'Kontooppretter',
+	'group-developer-member'      => 'Utvikler',
+	'group-founder-member'        => 'Grunnlegger',
+	'group-import-member'         => 'Importør',
+	'group-ipblock-exempt-member' => 'Unttatt fra IP-blokkering',
+	'group-rollbacker-member'     => 'Tilbakestiller',
+	'group-transwiki-member'      => 'Transwiki-importør',
+	'grouppage-accountcreator'    => '{{ns:project}}:Kontoopprettere',
+	'grouppage-developer'         => '{{ns:project}}:Utviklere',
+	'grouppage-founder'           => '{{ns:project}}:Grunnleggere',
+	'grouppage-import'            => '{{ns:project}}:Importører',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Unntatte fra IP-blokkering',
+	'grouppage-rollbacker'        => '{{ns:project}}:Tilbakestillere',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-importører',
 );
 
 /** Novial (Novial)
@@ -1636,9 +1748,23 @@ $messages['ps'] = array(
 
 /** Portuguese (Português)
  * @author Malafaya
+ * @author 555
  */
 $messages['pt'] = array(
-	'sitesupport' => 'Doações',
+	'wikimediamessages-desc'      => 'Mensagens específicas à Wikimedia',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/pt',
+	'sitesupport'                 => 'Doações',
+	'group-accountcreator'        => 'Criadores de contas',
+	'group-developer'             => 'Desenvolvedores',
+	'group-founder'               => 'Fundadores',
+	'group-import'                => 'Importadores',
+	'group-rollbacker'            => 'Revertedores',
+	'group-transwiki'             => 'Importadores Transwiki',
+	'group-accountcreator-member' => 'Criador de contas',
+	'group-developer-member'      => 'Desenvolvedor',
+	'group-founder-member'        => 'Fundador',
+	'group-import-member'         => 'Importador',
+	'group-rollbacker-member'     => 'Revertedor',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -1673,9 +1799,12 @@ $messages['rmy'] = array(
 
 /** Romanian (Română)
  * @author Emily
+ * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
-	'sitesupport' => 'Donaţii',
+	'sitesupport'          => 'Donaţii',
+	'group-founder'        => 'Fondatori',
+	'group-founder-member' => 'Fondator',
 );
 
 /** Aromanian (Armãneashce)
@@ -1688,6 +1817,7 @@ $messages['roa-rup'] = array(
 /** Russian (Русский)
  * @author HalanTul
  * @author Александр Сигачёв
+ * @author Ahonc
  */
 $messages['ru'] = array(
 	'wikimediamessages-desc'      => 'Сообщения, специфичные для Викимедиа',
@@ -1701,7 +1831,7 @@ $messages['ru'] = array(
 	'group-ipblock-exempt'        => 'Исключения из IP-блокировок',
 	'group-rollbacker'            => 'Откатывающие',
 	'group-transwiki'             => 'Импортёры из Transwiki',
-	'group-accountcreator-member' => 'Создатели учётных записей',
+	'group-accountcreator-member' => 'создатель учётных записей',
 	'group-developer-member'      => 'разработчик',
 	'group-founder-member'        => 'основатель',
 	'group-import-member'         => 'импортёр',
@@ -1916,8 +2046,16 @@ $messages['st'] = array(
  * @author Maartenvdbent
  */
 $messages['stq'] = array(
-	'sitesupport'           => 'Spenden',
-	'tooltip-n-sitesupport' => 'Unnerstutse uus',
+	'wikimediamessages-desc' => 'Wikimediaspezifiske Systemättergjuchten',
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Spändje',
+	'sitesupport'            => 'Spenden',
+	'tooltip-n-sitesupport'  => 'Unnerstutse uus',
+	'group-developer'        => 'Systemadministrator',
+	'group-import'           => 'Importeur',
+	'group-transwiki-member' => 'Transwiki-Importeur',
+	'grouppage-developer'    => '{{ns:project}}:Systemadministratore',
+	'grouppage-import'       => '{{ns:project}}:Importeure',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki-Importeure',
 );
 
 /** Sundanese (Basa Sunda)
@@ -2053,6 +2191,14 @@ $messages['tr'] = array(
 	'sitesupport' => 'Bağışlar',
 );
 
+/** Tsonga (Xitsonga)
+ * @author Thuvack
+ */
+$messages['ts'] = array(
+	'sitesupport'           => 'Nyikela mali',
+	'tooltip-n-sitesupport' => 'Hi seketeli',
+);
+
 /** Tatar (Cyrillic) (Tatarça/Татарча (Cyrillic))
  * @author Ерней
  */
@@ -2089,8 +2235,31 @@ $messages['ug'] = array(
  * @author Ahonc
  */
 $messages['uk'] = array(
-	'sitesupport'           => 'Пожертвування',
-	'tooltip-n-sitesupport' => 'Підтримайте проект',
+	'wikimediamessages-desc'      => 'Повідомлення, характерні для Вікімедіа',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport'                 => 'Пожертвування',
+	'tooltip-n-sitesupport'       => 'Підтримайте проект',
+	'group-accountcreator'        => 'Створювачі облікових записів',
+	'group-developer'             => 'Розробники',
+	'group-founder'               => 'Засновники',
+	'group-import'                => 'Імпортери',
+	'group-ipblock-exempt'        => 'Виключення з IP-блокувань',
+	'group-rollbacker'            => 'Відкочувачі',
+	'group-transwiki'             => 'Transwiki-імпортери',
+	'group-accountcreator-member' => 'створювач облікових записів',
+	'group-developer-member'      => 'розробник',
+	'group-founder-member'        => 'засновник',
+	'group-import-member'         => 'імпортер',
+	'group-ipblock-exempt-member' => 'виключення з IP-блокування',
+	'group-rollbacker-member'     => 'відкочувач',
+	'group-transwiki-member'      => 'Transwiki-імпортер',
+	'grouppage-accountcreator'    => '{{ns:project}}:Створювачі облікових записів',
+	'grouppage-developer'         => '{{ns:project}}:Розробники',
+	'grouppage-founder'           => '{{ns:project}}:Засновники',
+	'grouppage-import'            => '{{ns:project}}:Імпортери',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Виключення з IP-блокування',
+	'grouppage-rollbacker'        => '{{ns:project}}:Відкочувачі',
+	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-імпортери',
 );
 
 /** Urdu (اردو) */
