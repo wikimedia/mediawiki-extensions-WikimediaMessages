@@ -1,9 +1,12 @@
 <?php
 /**
- * TODO:
- *   * Remove current events and community portal from the default sidebar
- *     and add those messages to here
- *   * Make the help links on non-Wikimedia sites point to mediawiki.org?
+ * Internationalisation file for extension Wikimedia Messages
+ *
+ * @addtogroup Extensions
+ * @comment TODO:
+ * @comment + Remove current events and community portal from the default sidebar
+ * @comment + and add those messages to here
+ * @comment + Make the help links on non-Wikimedia sites point to mediawiki.org?
  */
 
 $messages = array();
