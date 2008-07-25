@@ -183,8 +183,14 @@ $messages['arn'] = array(
  * @author Ghaly
  */
 $messages['arz'] = array(
-	'sitesupport'           => 'التبرعات',
-	'tooltip-n-sitesupport' => 'ساندنا',
+	'sitesupport'            => 'التبرعات',
+	'tooltip-n-sitesupport'  => 'ساندنا',
+	'group-developer'        => 'مطورين',
+	'group-founder'          => 'مؤسسين',
+	'group-import'           => 'مستوردين',
+	'group-developer-member' => 'مطور',
+	'group-founder-member'   => 'مؤسس',
+	'group-import-member'    => 'مستورد',
 );
 
 /** Assamese (অসমীয়া)
@@ -293,18 +299,34 @@ $messages['be'] = array(
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
  * @author Red Winged Duck
  * @author EugeneZelenko
+ * @author Jim-by
  */
 $messages['be-tarask'] = array(
-	'wikimediamessages-desc' => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
-	'sitesupport-url'        => 'Project:Ахвяраваньні',
-	'sitesupport'            => 'Ахвяраваньні',
-	'tooltip-n-sitesupport'  => 'Падтрымайце нас',
-	'group-developer'        => 'Распрацоўшчыкі',
-	'group-founder'          => 'Фундатары',
-	'group-developer-member' => 'Распрацоўшчык',
-	'group-founder-member'   => 'Фундатар',
-	'grouppage-developer'    => '{{ns:project}}:Распрацоўшчыкі',
-	'grouppage-founder'      => '{{ns:project}}:Фундатары',
+	'wikimediamessages-desc'      => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
+	'sitesupport-url'             => 'Project:Ахвяраваньні',
+	'sitesupport'                 => 'Ахвяраваньні',
+	'tooltip-n-sitesupport'       => 'Падтрымайце нас',
+	'group-accountcreator'        => 'Стваральнікі рахункаў',
+	'group-developer'             => 'Распрацоўшчыкі',
+	'group-founder'               => 'Фундатары',
+	'group-import'                => 'Імпартэры',
+	'group-ipblock-exempt'        => 'Выключэньні з блякаваньняў ІР-адрасоў',
+	'group-rollbacker'            => 'Адкатвальнікі',
+	'group-transwiki'             => 'Імпартэры зь іншых вікі',
+	'group-accountcreator-member' => 'Стваральнік рахункаў',
+	'group-developer-member'      => 'Распрацоўшчык',
+	'group-founder-member'        => 'Фундатар',
+	'group-import-member'         => 'Імпартэр',
+	'group-ipblock-exempt-member' => 'Выключэньне з блякаваньняў ІР-адрасоў',
+	'group-rollbacker-member'     => 'Адкатвальнік',
+	'group-transwiki-member'      => 'Імпартэр зь іншых вікі',
+	'grouppage-accountcreator'    => '{{ns:project}}:Стваральнікі рахункаў',
+	'grouppage-developer'         => '{{ns:project}}:Распрацоўшчыкі',
+	'grouppage-founder'           => '{{ns:project}}:Фундатары',
+	'grouppage-import'            => '{{ns:project}}:Імпартэры',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:Выключэньні з блякаваньняў ІР-адрасоў',
+	'grouppage-rollbacker'        => '{{ns:project}}:Адкатвальнікі',
+	'grouppage-transwiki'         => '{{ns:project}}:Імпартэры зь іншых вікі',
 );
 
 /** Bulgarian (Български)
@@ -821,7 +843,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic
+/** Gothic (������������������������������������)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
@@ -1534,6 +1556,7 @@ $messages['na'] = array(
  * @author Fluence
  */
 $messages['nah'] = array(
+	'sitesupport'           => 'Tēyocatiliztli',
 	'tooltip-n-sitesupport' => 'Xitēchtēpalēhuia',
 	'group-founder-member'  => 'Chīhualōni',
 );
