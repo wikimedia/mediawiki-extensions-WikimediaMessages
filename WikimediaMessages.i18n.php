@@ -49,6 +49,23 @@ $messages['en'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
 	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
+
+        # Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+
+        'group-steward'                => 'Stewards',
+        'group-Global bot'             => 'Global bots',
+        'group-Global rollback'        => 'Global rollbackers',
+        'group-Ombudsmen'              => 'Ombudsmen',
+
+        'group-steward-member'         => 'Steward',
+        'group-Global bot-member'      => 'Global bot',
+        'group-Global rollback-member' => 'Global rollbacker',
+        'group-Ombudsmen-member'       => 'Ombudsman',
+
+        'grouppage-steward'            => 'm:Stewards',
+        'grouppage-Global Bot'         => 'm:Global bot',
+        'grouppage-Global rollback'    => 'm:Global rollback',
+        'grouppage-Ombudsmen'          => 'm:Ombudsman commission',
 );
 
 /** Dalecarlian (Övdalską*)
