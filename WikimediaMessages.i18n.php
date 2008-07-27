@@ -62,10 +62,10 @@ $messages['en'] = array(
 	'group-Global rollback-member' => 'Global rollbacker',
 	'group-Ombudsmen-member'       => 'Ombudsman',
 
-	'grouppage-steward'         => 'm:Stewards',
-	'grouppage-Global bot'      => 'm:Global bot',
-	'grouppage-Global rollback' => 'm:Global rollback',
-	'grouppage-Ombudsmen'       => 'm:Ombudsman commission',
+	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
+	'grouppage-Global bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
+	'grouppage-Global rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
+	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
 );
 
 /** Dalecarlian (Övdalską*)
