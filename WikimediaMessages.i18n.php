@@ -50,22 +50,22 @@ $messages['en'] = array(
 	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
 
-        # Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
-        'group-steward'                => 'Stewards',
-        'group-Global bot'             => 'Global bots',
-        'group-Global rollback'        => 'Global rollbackers',
-        'group-Ombudsmen'              => 'Ombudsmen',
+	'group-steward'         => 'Stewards',
+	'group-Global bot'      => 'Global bots',
+	'group-Global rollback' => 'Global rollbackers',
+	'group-Ombudsmen'       => 'Ombudsmen',
 
-        'group-steward-member'         => 'Steward',
-        'group-Global bot-member'      => 'Global bot',
-        'group-Global rollback-member' => 'Global rollbacker',
-        'group-Ombudsmen-member'       => 'Ombudsman',
+	'group-steward-member'         => 'Steward',
+	'group-Global bot-member'      => 'Global bot',
+	'group-Global rollback-member' => 'Global rollbacker',
+	'group-Ombudsmen-member'       => 'Ombudsman',
 
-        'grouppage-steward'            => 'm:Stewards',
-        'grouppage-Global Bot'         => 'm:Global bot',
-        'grouppage-Global rollback'    => 'm:Global rollback',
-        'grouppage-Ombudsmen'          => 'm:Ombudsman commission',
+	'grouppage-steward'         => 'm:Stewards', # do not translate or duplicate this message to other languages
+	'grouppage-Global Bot'      => 'm:Global bot', # do not translate or duplicate this message to other languages
+	'grouppage-Global rollback' => 'm:Global rollback', # do not translate or duplicate this message to other languages
+	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # do not translate or duplicate this message to other languages
 );
 
 /** Dalecarlian (Övdalską*)
@@ -860,7 +860,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic (������������������������������������)
+/** Gothic (������������)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
@@ -916,7 +916,9 @@ $messages['haw'] = array(
 	'tooltip-n-sitesupport' => 'Kāko‘o mai',
 );
 
-/** Hebrew (עברית) */
+/** Hebrew (עברית)
+ * @author Rotem Liss
+ */
 $messages['he'] = array(
 	'wikimediamessages-desc'      => 'הודעות המיוחדות לוויקימדיה',
 	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/תרומות',
@@ -943,6 +945,18 @@ $messages['he'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:חסין חסימות IP',
 	'grouppage-rollbacker'        => '{{ns:project}}:משחזר',
 	'grouppage-transwiki'         => '{{ns:project}}:מייבא בין-אתרי',
+
+	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+
+	'group-steward'         => 'דיילים',
+	'group-Global bot'      => 'בוטים גלובליים',
+	'group-Global rollback' => 'משחזרים גלובליים',
+	'group-Ombudsmen'       => 'נציבי תלונות הציבור',
+
+	'group-steward-member'         => 'דייל',
+	'group-Global bot-member'      => 'בוט גלובלי',
+	'group-Global rollback-member' => 'משחזר גלובלי',
+	'group-Ombudsmen-member'       => 'נציב תלונות הציבור',
 );
 
 /** Hindi (हिन्दी)
