@@ -395,7 +395,6 @@ $messages['bn'] = array(
 	'group-transwiki-member'      => 'ট্রান্সউইকি ইম্পোর্টার',
 	'group-steward'               => 'স্টিউয়ার্ডগণ',
 	'group-steward-member'        => 'স্টিউয়ার্ড',
-	'grouppage-steward'           => '{{ns:project}}:স্টিউয়ার্ডগণ',
 );
 
 /** Tibetan (བོད་ཡིག) */
@@ -1677,13 +1676,13 @@ $messages['nl'] = array(
 	'grouppage-rollbacker'         => '{{ns:project}}:Terugdraaiers',
 	'grouppage-transwiki'          => '{{ns:project}}:Transwikiimporteurs',
 	'group-steward'                => 'Stewards',
-	'group-global_bot'             => 'Globale bots',
-	'group-global_rollback'        => 'Gobale rollbackers',
-	'group-ombudsmen'              => 'Ombudsmannen',
+	'group-Global_bot'             => 'Globale bots',
+	'group-Global_rollback'        => 'Gobale rollbackers',
+	'group-Ombudsmen'              => 'Ombudsmannen',
 	'group-steward-member'         => 'Steward',
-	'group-global_bot-member'      => 'Gobale bot',
-	'group-global_rollback-member' => 'Gobale rollbacker',
-	'group-ombudsmen-member'       => 'Ombudsman',
+	'group-Global_bot-member'      => 'Gobale bot',
+	'group-Global_rollback-member' => 'Gobale rollbacker',
+	'group-Ombudsmen-member'       => 'Ombudsman',
 	'grouppage-steward'            => '{{ns:project}}:Stewards',
 );
 
