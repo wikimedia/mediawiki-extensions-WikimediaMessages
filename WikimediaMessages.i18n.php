@@ -860,7 +860,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic (������������)
+/** Gothic (𐌲𐌿𐍄𐌹𐍃𐌺)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
