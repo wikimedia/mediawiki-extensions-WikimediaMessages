@@ -53,19 +53,19 @@ $messages['en'] = array(
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
 	'group-steward'         => 'Stewards',
-	'group-Global bot'      => 'Global bots',
-	'group-Global rollback' => 'Global rollbackers',
-	'group-Ombudsmen'       => 'Ombudsmen',
+	'group-global_bot'      => 'Global bots',
+	'group-global_rollback' => 'Global rollbackers',
+	'group-ombudsmen'       => 'Ombudsmen',
 
 	'group-steward-member'         => 'Steward',
-	'group-Global bot-member'      => 'Global bot',
-	'group-Global rollback-member' => 'Global rollbacker',
-	'group-Ombudsmen-member'       => 'Ombudsman',
+	'group-global bot-member'      => 'Global bot',
+	'group-global rollback-member' => 'Global rollbacker',
+	'group-ombudsmen-member'       => 'Ombudsman',
 
 	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
-	'grouppage-Global bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
-	'grouppage-Global rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
-	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
+	'grouppage-global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
+	'grouppage-global_rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
+	'grouppage-ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
 );
 
 /** Dalecarlian (Övdalską*)
