@@ -58,8 +58,8 @@ $messages['en'] = array(
 	'group-ombudsmen'       => 'Ombudsmen',
 
 	'group-steward-member'         => 'Steward',
-	'group-global bot-member'      => 'Global bot',
-	'group-global rollback-member' => 'Global rollbacker',
+	'group-global_bot-member'      => 'Global bot',
+	'group-global_rollback-member' => 'Global rollbacker',
 	'group-ombudsmen-member'       => 'Ombudsman',
 
 	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
