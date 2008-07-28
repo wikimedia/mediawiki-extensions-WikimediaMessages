@@ -996,13 +996,13 @@ $messages['he'] = array(
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
 	'group-steward'         => 'דיילים',
-	'group-Global bot'      => 'בוטים גלובליים',
-	'group-Global rollback' => 'משחזרים גלובליים',
+	'group-Global_bot'      => 'בוטים גלובליים',
+	'group-Global_rollback' => 'משחזרים גלובליים',
 	'group-Ombudsmen'       => 'נציבי תלונות הציבור',
 
 	'group-steward-member'         => 'דייל',
-	'group-Global bot-member'      => 'בוט גלובלי',
-	'group-Global rollback-member' => 'משחזר גלובלי',
+	'group-Global_bot-member'      => 'בוט גלובלי',
+	'group-Global_rollback-member' => 'משחזר גלובלי',
 	'group-Ombudsmen-member'       => 'נציב תלונות הציבור',
 );
 
