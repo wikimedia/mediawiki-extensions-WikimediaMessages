@@ -128,7 +128,7 @@ $messages['an'] = array(
 	'group-founder'               => 'Fundadors',
 	'group-import'                => 'Importadors',
 	'group-ipblock-exempt'        => 'Exenzion de bloqueyo IP',
-	'group-rollbacker'            => 'Rebertidors',
+	'group-rollbacker'            => 'Esfedors',
 	'group-transwiki'             => 'Importadors de transwiki',
 	'group-accountcreator-member' => 'Creyador de cuenta',
 	'group-developer-member'      => 'Desembolicador',
@@ -142,8 +142,10 @@ $messages['an'] = array(
 	'grouppage-founder'           => '{{ns:project}}:Fundadors',
 	'grouppage-import'            => '{{ns:project}}:Importadors',
 	'grouppage-ipblock-exempt'    => "{{ns:project}}:Exenzión d'o bloqueyo d'IP",
-	'grouppage-rollbacker'        => '{{ns:project}}:Rebertidors',
+	'grouppage-rollbacker'        => '{{ns:project}}:Esfedors',
 	'grouppage-transwiki'         => '{{ns:project}}:Importardors transwiki',
+	'group-steward'               => 'Stewards',
+	'group-steward-member'        => 'Steward',
 );
 
 /** Old English (Anglo-Saxon) */
@@ -153,6 +155,7 @@ $messages['ang'] = array(
 
 /** Arabic (العربية)
  * @author Meno25
+ * @author Jon Harald Søby
  */
 $messages['ar'] = array(
 	'wikimediamessages-desc'      => 'رسائل خاصة بويكيميديا',
@@ -182,7 +185,7 @@ $messages['ar'] = array(
 	'grouppage-transwiki'         => '{{ns:project}}:مستوردون عبر الويكي',
 	'group-steward'               => 'مضيفون',
 	'group-steward-member'        => 'مضيف',
-	'grouppage-steward'           => '{{ns:project}}:مضيفون',
+	'grouppage-steward'           => 'm:Stewards/ar',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -203,15 +206,17 @@ $messages['arn'] = array(
  * @author Ghaly
  */
 $messages['arz'] = array(
-	'sitesupport'            => 'التبرعات',
-	'tooltip-n-sitesupport'  => 'ساندنا',
-	'group-developer'        => 'مطورين',
-	'group-founder'          => 'مؤسسين',
-	'group-import'           => 'مستوردين',
-	'group-transwiki'        => 'مستوردين عبر الويكى',
-	'group-developer-member' => 'مطور',
-	'group-founder-member'   => 'مؤسس',
-	'group-import-member'    => 'مستورد',
+	'sitesupport'                 => 'التبرعات',
+	'tooltip-n-sitesupport'       => 'ساندنا',
+	'group-developer'             => 'مطورين',
+	'group-founder'               => 'مؤسسين',
+	'group-import'                => 'مستوردين',
+	'group-transwiki'             => 'مستوردين عبر الويكى',
+	'group-developer-member'      => 'مطور',
+	'group-founder-member'        => 'مؤسس',
+	'group-import-member'         => 'مستورد',
+	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى',
+	'group-rollbacker-member'     => 'مسترجع',
 );
 
 /** Assamese (অসমীয়া)
@@ -354,6 +359,7 @@ $messages['be-tarask'] = array(
  * @author Borislav
  * @author DCLXVI
  * @author Meno25
+ * @author Spiritia
  */
 $messages['bg'] = array(
 	'wikimediamessages-desc' => 'Съобщения, специфични за Уикимедия',
@@ -365,6 +371,9 @@ $messages['bg'] = array(
 	'group-founder-member'   => 'Основател',
 	'grouppage-developer'    => '{{ns:project}}:Разработчици',
 	'grouppage-founder'      => '{{ns:project}}:Основатели',
+	'group-steward'          => 'Стюарди',
+	'group-steward-member'   => 'Стюард',
+	'grouppage-steward'      => '{{ns:project}}:Стюарди',
 );
 
 /** Bambara (Bamanankan) */
@@ -393,6 +402,11 @@ $messages['bn'] = array(
 	'group-import-member'         => 'ইম্পোর্টার',
 	'group-rollbacker-member'     => 'রোলব্যাকার',
 	'group-transwiki-member'      => 'ট্রান্সউইকি ইম্পোর্টার',
+	'grouppage-developer'         => '{{ns:project}}:ডেভেলোপার',
+	'grouppage-founder'           => '{{ns:project}}:প্রতিষ্ঠাতা',
+	'grouppage-import'            => '{{ns:project}}:ইম্পোর্টার',
+	'grouppage-rollbacker'        => '{{ns:project}}:রোলব্যাকার',
+	'grouppage-transwiki'         => '{{ns:project}}:ট্রান্সউইকি ইম্পোর্টার',
 	'group-steward'               => 'স্টিউয়ার্ডগণ',
 	'group-steward-member'        => 'স্টিউয়ার্ড',
 );
@@ -450,9 +464,11 @@ $messages['bs'] = array(
 
 /** Catalan (Català)
  * @author Martorell
+ * @author Juanpabl
  */
 $messages['ca'] = array(
-	'sitesupport' => 'Donacions',
+	'sitesupport'   => 'Donacions',
+	'group-steward' => 'Stewards',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
@@ -542,28 +558,37 @@ $messages['cy'] = array(
 	'sitesupport' => 'Rhoi arian',
 );
 
-/** Danish (Dansk) */
+/** Danish (Dansk)
+ * @author Jon Harald Søby
+ */
 $messages['da'] = array(
-	'sitesupport' => 'Støt siden',
+	'sitesupport'               => 'Støt siden',
+	'grouppage-steward'         => 'm:Stewards/nb',
+	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 );
 
 /** German (Deutsch)
  * @author Raimond Spekking
+ * @author Pill
+ * @author Jon Harald Søby
  */
 $messages['de'] = array(
 	'wikimediamessages-desc' => 'Wikimediaspezifische Systemnachrichten',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport'            => 'Spenden',
 	'tooltip-n-sitesupport'  => 'Unterstütze uns',
-	'group-import'           => 'Importeur',
 	'group-developer'        => 'Systemadministrator',
+	'group-import'           => 'Importeur',
 	'group-transwiki'        => 'Transwiki-Importeur',
-	'group-import-member'    => 'Importeur',
 	'group-developer-member' => 'Systemadministrator',
+	'group-import-member'    => 'Importeur',
 	'group-transwiki-member' => 'Transwiki-Importeur',
-	'grouppage-import'       => '{{ns:project}}:Importeure',
 	'grouppage-developer'    => '{{ns:project}}:Systemadministratoren',
+	'grouppage-import'       => '{{ns:project}}:Importeure',
 	'grouppage-transwiki'    => '{{ns:project}}:Transwiki-Importeure',
+	'group-steward'          => 'Stewards',
+	'group-steward-member'   => 'Steward',
+	'grouppage-steward'      => 'm:Stewards/de',
 );
 
 /** Formal German
@@ -693,6 +718,7 @@ $messages['ff'] = array(
 
 /** Finnish (Suomi)
  * @author Nike
+ * @author Jon Harald Søby
  */
 $messages['fi'] = array(
 	'wikimediamessages-desc'      => 'Wikimedian käyttämiä järjestelmäviestejä.',
@@ -720,6 +746,7 @@ $messages['fi'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:IP-estoista vapautetut',
 	'grouppage-rollbacker'        => '{{ns:project}}:Palauttajat',
 	'grouppage-transwiki'         => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
+	'grouppage-steward'           => 'm:Stewards/fi',
 );
 
 /** Võro (Võro)
@@ -739,6 +766,8 @@ $messages['fj'] = array(
  * @author לערי ריינהארט
  * @author Grondin
  * @author Meno25
+ * @author Sherbrooke
+ * @author Jon Harald Søby
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc'      => 'Messages spécifiques de Wikimedia',
@@ -766,6 +795,9 @@ $messages['fr'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Exemption de bloc IP',
 	'grouppage-rollbacker'        => '{{ns:project}}:Réverteurs',
 	'grouppage-transwiki'         => '{{ns:project}}:Importateurs Transwiki',
+	'group-steward'               => 'Stewards',
+	'group-steward-member'        => 'Steward',
+	'grouppage-steward'           => 'm:Stewards/fr',
 );
 
 /** Cajun French (Français cadien)
@@ -787,8 +819,12 @@ $messages['frp'] = array(
  * @author Klenje
  */
 $messages['fur'] = array(
-	'sitesupport'           => 'Doninus',
-	'tooltip-n-sitesupport' => 'Judinus',
+	'sitesupport'            => 'Doninus',
+	'tooltip-n-sitesupport'  => 'Judinus',
+	'group-developer'        => 'Disvilupadôrs',
+	'group-founder'          => 'Fondadôrs',
+	'group-developer-member' => 'Disvilupadôr',
+	'group-founder-member'   => 'Fondadôr',
 );
 
 /** Western Frisian (Frysk)
@@ -1090,6 +1126,7 @@ $messages['ia'] = array(
 
 /** Indonesian (Bahasa Indonesia)
  * @author Rex
+ * @author Jon Harald Søby
  */
 $messages['id'] = array(
 	'wikimediamessages-desc'      => 'Pesan-pesan spesifik Wikimedia',
@@ -1117,6 +1154,7 @@ $messages['id'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Pengecualian pemblokiran IP',
 	'grouppage-rollbacker'        => '{{ns:project}}:Pengembali revisi',
 	'grouppage-transwiki'         => '{{ns:project}}:Importir transwiki',
+	'grouppage-steward'           => 'm:Stewards/id',
 );
 
 /** Interlingue (Interlingue)
@@ -1184,21 +1222,30 @@ $messages['is'] = array(
 /** Italian (Italiano)
  * @author Pietrodn
  * @author Darth Kule
+ * @author Jon Harald Søby
+ * @author BrokenArrow
  */
 $messages['it'] = array(
 	'wikimediamessages-desc' => 'Messaggi specifici di Wikimedia',
 	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donazioni',
 	'sitesupport'            => 'Donazioni',
 	'tooltip-n-sitesupport'  => 'Sostienici',
+	'group-steward-member'   => 'Steward',
+	'grouppage-steward'      => 'm:Stewards/it',
 );
 
 /** Japanese (日本語)
  * @author JtFuruhata
  * @author Meno25
+ * @author Suisui
+ * @author Jon Harald Søby
  */
 $messages['ja'] = array(
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ja',
-	'sitesupport'     => '寄付',
+	'sitesupport-url'      => 'http://wikimediafoundation.org/wiki/Donate/ja',
+	'sitesupport'          => '寄付',
+	'group-steward'        => 'スチュワード',
+	'group-steward-member' => '{{int:group-steward}}',
+	'grouppage-steward'    => 'm:Stewards/ja',
 );
 
 /** Lojban (Lojban)
@@ -1295,9 +1342,13 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Klutzy
+ * @author Jon Harald Søby
  */
 $messages['ko'] = array(
-	'sitesupport' => '기부 안내',
+	'sitesupport'          => '기부 안내',
+	'group-steward'        => '스튜워드',
+	'group-steward-member' => '스튜워드',
+	'grouppage-steward'    => 'm:Stewards/ko',
 );
 
 /** Kinaray-a (Kinaray-a)
@@ -1336,6 +1387,8 @@ $messages['ksh'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:IP-Jruppe-Sperre-Ußnahm',
 	'grouppage-rollbacker'        => '{{ns:project}}:Zeröcknemmer',
 	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-Emportör',
+	'group-steward'               => 'Stewards',
+	'group-steward-member'        => 'Steward',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */
@@ -1397,6 +1450,9 @@ $messages['lb'] = array(
 	'grouppage-import'            => '{{ns:project}}:Importateuren',
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Ausnahm vun der IP-Spär',
 	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-Importateuren',
+	'group-steward'               => 'Stewarden',
+	'group-steward-member'        => 'Steward',
+	'grouppage-steward'           => '{{ns:project}}:Stewarden',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -1417,9 +1473,13 @@ $messages['lg'] = array(
 
 /** Limburgish (Limburgs)
  * @author לערי ריינהארט
+ * @author Ooswesthoesbes
  */
 $messages['li'] = array(
-	'sitesupport' => 'Donaties',
+	'sitesupport'          => 'Donaties',
+	'group-steward'        => 'Stewards',
+	'group-steward-member' => 'Steward',
+	'grouppage-steward'    => '{{ns:project}}:Stewards',
 );
 
 /** Líguru (Líguru)
@@ -1648,6 +1708,7 @@ $messages['new'] = array(
  * @author Siebrand
  * @author Troefkaart
  * @author SPQRobin
+ * @author Jon Harald Søby
  */
 $messages['nl'] = array(
 	'wikimediamessages-desc'       => 'Berichten voor Wikimedia',
@@ -1683,47 +1744,58 @@ $messages['nl'] = array(
 	'group-Global_bot-member'      => 'Gobale bot',
 	'group-Global_rollback-member' => 'Gobale rollbacker',
 	'group-Ombudsmen-member'       => 'Ombudsman',
-	'grouppage-steward'            => '{{ns:project}}:Stewards',
+	'grouppage-steward'            => 'm:Stewards/nl',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬) */
+/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+ * @author Jon Harald Søby
+ */
 $messages['nn'] = array(
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/nn',
-	'sitesupport'     => 'Gåver',
+	'sitesupport-url'           => 'http://wikimediafoundation.org/wiki/Donate/nn',
+	'sitesupport'               => 'Gåver',
+	'grouppage-steward'         => 'm:Stewards/nb',
+	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Jon Harald Søby
  */
 $messages['no'] = array(
-	'wikimediamessages-desc'      => 'Wikimedia-spesifikke beskjeder',
-	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/nb',
-	'sitesupport'                 => 'Donasjoner',
-	'tooltip-n-sitesupport'       => 'Støtt oss',
-	'group-accountcreator'        => 'Kontoopprettere',
-	'group-developer'             => 'Utviklere',
-	'group-founder'               => 'Grunnleggere',
-	'group-import'                => 'Importører',
-	'group-ipblock-exempt'        => 'Untatte fra IP-blokkering',
-	'group-rollbacker'            => 'Tilbakestillere',
-	'group-transwiki'             => 'Transwiki-importører',
-	'group-accountcreator-member' => 'Kontooppretter',
-	'group-developer-member'      => 'Utvikler',
-	'group-founder-member'        => 'Grunnlegger',
-	'group-import-member'         => 'Importør',
-	'group-ipblock-exempt-member' => 'Unttatt fra IP-blokkering',
-	'group-rollbacker-member'     => 'Tilbakestiller',
-	'group-transwiki-member'      => 'Transwiki-importør',
-	'grouppage-accountcreator'    => '{{ns:project}}:Kontoopprettere',
-	'grouppage-developer'         => '{{ns:project}}:Utviklere',
-	'grouppage-founder'           => '{{ns:project}}:Grunnleggere',
-	'grouppage-import'            => '{{ns:project}}:Importører',
-	'grouppage-ipblock-exempt'    => '{{ns:project}}:Unntatte fra IP-blokkering',
-	'grouppage-rollbacker'        => '{{ns:project}}:Tilbakestillere',
-	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-importører',
-	'group-steward'               => 'Stewards',
-	'group-steward-member'        => 'Steward',
-	'grouppage-steward'           => 'm:Stewards/nb',
+	'wikimediamessages-desc'       => 'Wikimedia-spesifikke beskjeder',
+	'sitesupport-url'              => 'http://wikimediafoundation.org/wiki/Donate/nb',
+	'sitesupport'                  => 'Donasjoner',
+	'tooltip-n-sitesupport'        => 'Støtt oss',
+	'group-accountcreator'         => 'Kontoopprettere',
+	'group-developer'              => 'Utviklere',
+	'group-founder'                => 'Grunnleggere',
+	'group-import'                 => 'Importører',
+	'group-ipblock-exempt'         => 'Untatte fra IP-blokkering',
+	'group-rollbacker'             => 'Tilbakestillere',
+	'group-transwiki'              => 'Transwiki-importører',
+	'group-accountcreator-member'  => 'Kontooppretter',
+	'group-developer-member'       => 'Utvikler',
+	'group-founder-member'         => 'Grunnlegger',
+	'group-import-member'          => 'Importør',
+	'group-ipblock-exempt-member'  => 'Unttatt fra IP-blokkering',
+	'group-rollbacker-member'      => 'Tilbakestiller',
+	'group-transwiki-member'       => 'Transwiki-importør',
+	'grouppage-accountcreator'     => '{{ns:project}}:Kontoopprettere',
+	'grouppage-developer'          => '{{ns:project}}:Utviklere',
+	'grouppage-founder'            => '{{ns:project}}:Grunnleggere',
+	'grouppage-import'             => '{{ns:project}}:Importører',
+	'grouppage-ipblock-exempt'     => '{{ns:project}}:Unntatte fra IP-blokkering',
+	'grouppage-rollbacker'         => '{{ns:project}}:Tilbakestillere',
+	'grouppage-transwiki'          => '{{ns:project}}:Transwiki-importører',
+	'group-steward'                => 'Stewards',
+	'group-Global_bot'             => 'Globale roboter',
+	'group-Global_rollback'        => 'Globale tilbakestillere',
+	'group-Ombudsmen'              => 'Ombudsmenn',
+	'group-steward-member'         => 'Steward',
+	'group-Global_bot-member'      => 'global robot',
+	'group-Global_rollback-member' => 'global tilbakestiller',
+	'group-Ombudsmen-member'       => 'ombudsmann',
+	'grouppage-steward'            => 'm:Stewards/nb',
+	'grouppage-Global_rollback'    => 'm:Global rollback/nb',
 );
 
 /** Novial (Novial)
@@ -1783,6 +1855,8 @@ $messages['pih'] = array(
  * @author Beau
  * @author Sp5uhe
  * @author Meno25
+ * @author Derbeth
+ * @author Jon Harald Søby
  */
 $messages['pl'] = array(
 	'wikimediamessages-desc'      => 'Komunikaty unikalne dla projektów Wikimedia',
@@ -1803,6 +1877,9 @@ $messages['pl'] = array(
 	'group-ipblock-exempt-member' => 'Uprawniony do zalogowania się z zablokowanego adresu IP',
 	'group-rollbacker-member'     => 'Uprawniony do wycofania transakcji bazy danych',
 	'group-transwiki-member'      => 'Importer z innych wiki',
+	'group-steward'               => 'Stewardzi',
+	'group-steward-member'        => 'Steward',
+	'grouppage-steward'           => 'm:Stewards/pl',
 );
 
 /** Piemontèis (Piemontèis) */
@@ -1829,6 +1906,7 @@ $messages['ps'] = array(
 /** Portuguese (Português)
  * @author Malafaya
  * @author 555
+ * @author Jon Harald Søby
  */
 $messages['pt'] = array(
 	'wikimediamessages-desc'      => 'Mensagens específicas à Wikimedia',
@@ -1845,6 +1923,9 @@ $messages['pt'] = array(
 	'group-founder-member'        => 'Fundador',
 	'group-import-member'         => 'Importador',
 	'group-rollbacker-member'     => 'Revertedor',
+	'group-steward'               => 'Stewards',
+	'group-steward-member'        => 'Steward',
+	'grouppage-steward'           => 'm:Stewards/pt',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -1898,6 +1979,7 @@ $messages['roa-rup'] = array(
  * @author HalanTul
  * @author Александр Сигачёв
  * @author Ahonc
+ * @author Jon Harald Søby
  */
 $messages['ru'] = array(
 	'wikimediamessages-desc'      => 'Сообщения, специфичные для Викимедиа',
@@ -1925,6 +2007,7 @@ $messages['ru'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Исключение из IP-блокировки',
 	'grouppage-rollbacker'        => '{{ns:project}}:Откатывающие',
 	'grouppage-transwiki'         => '{{ns:project}}:Импортёры из Transwiki',
+	'grouppage-steward'           => 'm:Stewards/ru',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
@@ -2033,6 +2116,8 @@ $messages['sk'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Výnimky z blokovaní IP',
 	'grouppage-rollbacker'        => '{{ns:project}}:S právom rollback',
 	'grouppage-transwiki'         => '{{ns:project}}:Transwiki importéri',
+	'group-steward'               => 'Stewardi',
+	'group-steward-member'        => 'Steward',
 );
 
 /** Slovenian (Slovenščina) */
@@ -2149,6 +2234,8 @@ $messages['su'] = array(
 /** Swedish (Svenska)
  * @author Boivie
  * @author M.M.S.
+ * @author Jon Harald Søby
+ * @author Sannab
  */
 $messages['sv'] = array(
 	'wikimediamessages-desc'      => 'Wikimedia-specifika meddelanden',
@@ -2176,6 +2263,10 @@ $messages['sv'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Undantagna från IP-blockering',
 	'grouppage-rollbacker'        => '{{ns:project}}:Tillbakarullare',
 	'grouppage-transwiki'         => '{{ns:project}}:Transwiki-importörer',
+	'group-steward'               => 'Stewarder',
+	'group-steward-member'        => 'Steward',
+	'grouppage-steward'           => 'm:Stewards/nb',
+	'grouppage-Global_rollback'   => 'm:Global rollback/nb',
 );
 
 /** Swahili (Kiswahili)
