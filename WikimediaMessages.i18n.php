@@ -34,13 +34,13 @@ $messages['en'] = array(
 	'group-rollbacker'            => 'Rollbackers',
 	'group-transwiki'             => 'Transwiki importers',
 
-	'group-accountcreator-member' => 'Account creator',
-	'group-developer-member'      => 'Developer',
-	'group-founder-member'        => 'Founder',
-	'group-import-member'         => 'Importer',
+	'group-accountcreator-member' => 'account creator',
+	'group-developer-member'      => 'developer',
+	'group-founder-member'        => 'founder',
+	'group-import-member'         => 'importer',
 	'group-ipblock-exempt-member' => 'IP block exempt',
-	'group-rollbacker-member'     => 'Rollbacker',
-	'group-transwiki-member'      => 'Transwiki importer',
+	'group-rollbacker-member'     => 'rollbacker',
+	'group-transwiki-member'      => 'transwiki importer',
 
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
 	'grouppage-developer'      => '{{ns:project}}:Developers',
@@ -57,10 +57,10 @@ $messages['en'] = array(
 	'group-Global_rollback' => 'Global rollbackers',
 	'group-Ombudsmen'       => 'Ombudsmen',
 
-	'group-steward-member'         => 'Steward',
-	'group-Global_bot-member'      => 'Global bot',
-	'group-Global_rollback-member' => 'Global rollbacker',
-	'group-Ombudsmen-member'       => 'Ombudsman',
+	'group-steward-member'         => 'steward',
+	'group-Global_bot-member'      => 'global bot',
+	'group-Global_rollback-member' => 'global rollbacker',
+	'group-Ombudsmen-member'       => 'ombudsman',
 
 	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
 	'grouppage-Global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
