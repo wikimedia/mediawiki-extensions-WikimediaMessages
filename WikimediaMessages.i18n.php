@@ -220,10 +220,12 @@ $messages['arn'] = array(
 $messages['arz'] = array(
 	'sitesupport'                 => 'التبرعات',
 	'tooltip-n-sitesupport'       => 'ساندنا',
+	'group-accountcreator'        => 'مؤسسين الحسابات',
 	'group-developer'             => 'مطورين',
 	'group-founder'               => 'مؤسسين',
 	'group-import'                => 'مستوردين',
 	'group-transwiki'             => 'مستوردين عبر الويكى',
+	'group-accountcreator-member' => 'مؤسس حساب',
 	'group-developer-member'      => 'مطور',
 	'group-founder-member'        => 'مؤسس',
 	'group-import-member'         => 'مستورد',
@@ -357,6 +359,7 @@ $messages['be'] = array(
  * @author Red Winged Duck
  * @author EugeneZelenko
  * @author Jim-by
+ * @author Cesco
  */
 $messages['be-tarask'] = array(
 	'wikimediamessages-desc'      => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
@@ -370,13 +373,13 @@ $messages['be-tarask'] = array(
 	'group-ipblock-exempt'        => 'Выключэньні з блякаваньняў ІР-адрасоў',
 	'group-rollbacker'            => 'Адкатвальнікі',
 	'group-transwiki'             => 'Імпартэры зь іншых вікі',
-	'group-accountcreator-member' => 'Стваральнік рахункаў',
-	'group-developer-member'      => 'Распрацоўшчык',
-	'group-founder-member'        => 'Фундатар',
-	'group-import-member'         => 'Імпартэр',
-	'group-ipblock-exempt-member' => 'Выключэньне з блякаваньняў ІР-адрасоў',
-	'group-rollbacker-member'     => 'Адкатвальнік',
-	'group-transwiki-member'      => 'Імпартэр зь іншых вікі',
+	'group-accountcreator-member' => 'стваральнік рахункаў',
+	'group-developer-member'      => 'распрацоўшчык',
+	'group-founder-member'        => 'фундатар',
+	'group-import-member'         => 'імпартэр',
+	'group-ipblock-exempt-member' => 'выключэньне з блякаваньняў ІР-адрасоў',
+	'group-rollbacker-member'     => 'адкатвальнік',
+	'group-transwiki-member'      => 'імпартэр зь іншых вікі',
 	'grouppage-accountcreator'    => '{{ns:project}}:Стваральнікі рахункаў',
 	'grouppage-developer'         => '{{ns:project}}:Распрацоўшчыкі',
 	'grouppage-founder'           => '{{ns:project}}:Фундатары',
@@ -384,6 +387,12 @@ $messages['be-tarask'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Выключэньні з блякаваньняў ІР-адрасоў',
 	'grouppage-rollbacker'        => '{{ns:project}}:Адкатвальнікі',
 	'grouppage-transwiki'         => '{{ns:project}}:Імпартэры зь іншых вікі',
+	'group-steward'               => 'Сьцюарды',
+	'group-Global_bot'            => 'Глябальныя робаты',
+	'group-Ombudsmen'             => 'праваабаронцы',
+	'group-steward-member'        => 'сьцюард',
+	'group-Global_bot-member'     => 'глябальны робат',
+	'group-Ombudsmen-member'      => 'праваабаронца',
 );
 
 /** Bulgarian (Български)
@@ -393,18 +402,21 @@ $messages['be-tarask'] = array(
  * @author Spiritia
  */
 $messages['bg'] = array(
-	'wikimediamessages-desc' => 'Съобщения, специфични за Уикимедия',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate/bg',
-	'sitesupport'            => 'Дарения',
-	'group-developer'        => 'Разработчици',
-	'group-founder'          => 'Основатели',
-	'group-developer-member' => 'Разработчик',
-	'group-founder-member'   => 'Основател',
-	'grouppage-developer'    => '{{ns:project}}:Разработчици',
-	'grouppage-founder'      => '{{ns:project}}:Основатели',
-	'group-steward'          => 'Стюарди',
-	'group-steward-member'   => 'Стюард',
-	'grouppage-steward'      => '{{ns:project}}:Стюарди',
+	'wikimediamessages-desc'  => 'Съобщения, специфични за Уикимедия',
+	'sitesupport-url'         => 'http://wikimediafoundation.org/wiki/Donate/bg',
+	'sitesupport'             => 'Дарения',
+	'group-developer'         => 'Разработчици',
+	'group-founder'           => 'Основатели',
+	'group-developer-member'  => 'Разработчик',
+	'group-founder-member'    => 'Основател',
+	'grouppage-developer'     => '{{ns:project}}:Разработчици',
+	'grouppage-founder'       => '{{ns:project}}:Основатели',
+	'group-steward'           => 'Стюарди',
+	'group-Global_bot'        => 'Глобални ботове',
+	'group-steward-member'    => 'Стюард',
+	'group-Global_bot-member' => 'глобален бот',
+	'group-Ombudsmen-member'  => 'омбудсман',
+	'grouppage-steward'       => '{{ns:project}}:Стюарди',
 );
 
 /** Bambara (Bamanankan) */
@@ -1864,9 +1876,11 @@ $messages['nds'] = array(
 	'grouppage-founder'            => '{{ns:project}}:Grünners',
 	'grouppage-import'             => '{{ns:project}}:Importörs',
 	'grouppage-rollbacker'         => '{{ns:project}}:Trüchsetters',
+	'group-steward'                => 'Stewards',
 	'group-Global_bot'             => 'Globale Bots',
 	'group-Global_rollback'        => 'Globale Trüchsetters',
 	'group-Ombudsmen'              => 'Ombudslüüd',
+	'group-steward-member'         => 'Steward',
 	'group-Global_bot-member'      => 'Global Bot',
 	'group-Global_rollback-member' => 'Global Trüchsetter',
 	'group-Ombudsmen-member'       => 'Ombudsmann',
@@ -2438,6 +2452,7 @@ $messages['su'] = array(
  * @author M.M.S.
  * @author Jon Harald Søby
  * @author Sannab
+ * @author Lejonel
  */
 $messages['sv'] = array(
 	'wikimediamessages-desc'       => 'Wikimedia-specifika meddelanden',
@@ -2451,13 +2466,13 @@ $messages['sv'] = array(
 	'group-ipblock-exempt'         => 'Undantagna från IP-blockering',
 	'group-rollbacker'             => 'Tillbakarullare',
 	'group-transwiki'              => 'Transwiki-importörer',
-	'group-accountcreator-member'  => 'Kontoskapare',
-	'group-developer-member'       => 'Utvecklare',
-	'group-founder-member'         => 'Grundare',
-	'group-import-member'          => 'Importör',
-	'group-ipblock-exempt-member'  => 'Undantagen från IP-blockering',
-	'group-rollbacker-member'      => 'Tillbakarullare',
-	'group-transwiki-member'       => 'Tranwiki-importör',
+	'group-accountcreator-member'  => 'kontoskapare',
+	'group-developer-member'       => 'utvecklare',
+	'group-founder-member'         => 'grundare',
+	'group-import-member'          => 'importör',
+	'group-ipblock-exempt-member'  => 'undantagen från IP-blockering',
+	'group-rollbacker-member'      => 'tillbakarullare',
+	'group-transwiki-member'       => 'transwiki-importör',
 	'grouppage-accountcreator'     => '{{ns:project}}:Kontoskapare',
 	'grouppage-developer'          => '{{ns:project}}:Utvecklare',
 	'grouppage-founder'            => '{{ns:project}}:Grundare',
@@ -2469,10 +2484,10 @@ $messages['sv'] = array(
 	'group-Global_bot'             => 'Globala robotar',
 	'group-Global_rollback'        => 'Globala tillbakarullare',
 	'group-Ombudsmen'              => 'Ombudsmän',
-	'group-steward-member'         => 'Steward',
-	'group-Global_bot-member'      => 'Global robot',
-	'group-Global_rollback-member' => 'Global tillbakarullare',
-	'group-Ombudsmen-member'       => 'Ombudsman',
+	'group-steward-member'         => 'steward',
+	'group-Global_bot-member'      => 'global robot',
+	'group-Global_rollback-member' => 'global tillbakarullare',
+	'group-Ombudsmen-member'       => 'ombudsman',
 	'grouppage-steward'            => 'm:Stewards/nb',
 	'grouppage-Global_rollback'    => 'm:Global rollback/nb',
 );
@@ -2601,6 +2616,13 @@ $messages['ty'] = array(
 /** Tuvinian (Тыва дыл) */
 $messages['tyv'] = array(
 	'sitesupport' => 'Белектер',
+);
+
+/** Udmurt (Удмурт)
+ * @author ОйЛ
+ */
+$messages['udm'] = array(
+	'sitesupport' => 'Проектлы юрттон',
 );
 
 /** Uighur (Uyghurche‎ / ئۇيغۇرچە)
