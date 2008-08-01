@@ -1352,12 +1352,15 @@ $messages['is'] = array(
  * @author BrokenArrow
  */
 $messages['it'] = array(
-	'wikimediamessages-desc' => 'Messaggi specifici di Wikimedia',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donazioni',
-	'sitesupport'            => 'Donazioni',
-	'tooltip-n-sitesupport'  => 'Sostienici',
-	'group-steward-member'   => 'Steward',
-	'grouppage-steward'      => 'm:Stewards/it',
+	'wikimediamessages-desc'  => 'Messaggi specifici di Wikimedia',
+	'sitesupport-url'         => 'http://wikimediafoundation.org/wiki/Donazioni',
+	'sitesupport'             => 'Donazioni',
+	'tooltip-n-sitesupport'   => 'Sostienici',
+	'group-rollbacker-member' => 'rollbacker',
+	'grouppage-founder'       => '{{ns:project}}:Founders',
+	'grouppage-rollbacker'    => '{{ns:project}}:Rollbackers',
+	'group-steward-member'    => 'Steward',
+	'grouppage-steward'       => 'm:Stewards/it',
 );
 
 /** Japanese (日本語)
@@ -2021,8 +2024,9 @@ $messages['nso'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'sitesupport'           => 'Far un don',
-	'tooltip-n-sitesupport' => 'Sostenètz lo projècte',
+	'sitesupport'            => 'Far un don',
+	'tooltip-n-sitesupport'  => 'Sostenètz lo projècte',
+	'group-Ombudsmen-member' => 'Comissari',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
