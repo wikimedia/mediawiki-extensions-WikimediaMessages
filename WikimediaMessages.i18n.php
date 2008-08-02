@@ -53,16 +53,19 @@ $messages['en'] = array(
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
 	'group-steward'         => 'Stewards',
+        'group-sysadmin'        => 'System administrators',
 	'group-Global_bot'      => 'Global bots',
 	'group-Global_rollback' => 'Global rollbackers',
 	'group-Ombudsmen'       => 'Ombudsmen',
 
 	'group-steward-member'         => 'steward',
+        'group-sysadmin-member'        => 'system administrator',
 	'group-Global_bot-member'      => 'global bot',
 	'group-Global_rollback-member' => 'global rollbacker',
 	'group-Ombudsmen-member'       => 'ombudsman',
 
 	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
+        'grouppage-sysadmin'        => 'm:System administrators', # only translate this message to other languages if you have to change it
 	'grouppage-Global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
 	'grouppage-Global_rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
 	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
