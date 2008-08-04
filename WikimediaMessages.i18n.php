@@ -223,19 +223,36 @@ $messages['arn'] = array(
  * @author Ghaly
  */
 $messages['arz'] = array(
-	'sitesupport'                 => 'التبرعات',
-	'tooltip-n-sitesupport'       => 'ساندنا',
-	'group-accountcreator'        => 'مؤسسين الحسابات',
-	'group-developer'             => 'مطورين',
-	'group-founder'               => 'مؤسسين',
-	'group-import'                => 'مستوردين',
-	'group-transwiki'             => 'مستوردين عبر الويكى',
-	'group-accountcreator-member' => 'مؤسس حساب',
-	'group-developer-member'      => 'مطور',
-	'group-founder-member'        => 'مؤسس',
-	'group-import-member'         => 'مستورد',
-	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى',
-	'group-rollbacker-member'     => 'مسترجع',
+	'sitesupport'                  => 'التبرعات',
+	'tooltip-n-sitesupport'        => 'ساندنا',
+	'group-accountcreator'         => 'مؤسسين الحسابات',
+	'group-developer'              => 'مطورين',
+	'group-founder'                => 'مؤسسين',
+	'group-import'                 => 'مستوردين',
+	'group-ipblock-exempt'         => 'مستثنيين من منع الااى بى',
+	'group-rollbacker'             => 'مسترجعين',
+	'group-transwiki'              => 'مستوردين عبر الويكى',
+	'group-accountcreator-member'  => 'مؤسس حساب',
+	'group-developer-member'       => 'مطور',
+	'group-founder-member'         => 'مؤسس',
+	'group-import-member'          => 'مستورد',
+	'group-ipblock-exempt-member'  => 'مستثنى من منع الاايبى',
+	'group-rollbacker-member'      => 'مسترجع',
+	'group-transwiki-member'       => 'مستورد عبر الويكى',
+	'grouppage-developer'          => '{{ns:project}}:مطورين',
+	'grouppage-founder'            => '{{ns:project}}:مؤسسين',
+	'grouppage-import'             => '{{ns:project}}:مستوردين',
+	'grouppage-rollbacker'         => '{{ns:project}}:مسترجعين',
+	'group-steward'                => 'مضيفين',
+	'group-sysadmin'               => 'اداريين النظام',
+	'group-Global_bot'             => 'بوتات عامه',
+	'group-Global_rollback'        => 'مسترجعين عامين',
+	'group-Ombudsmen'              => 'اومبادزمين',
+	'group-steward-member'         => 'مضيف',
+	'group-sysadmin-member'        => 'ادارى نظام',
+	'group-Global_bot-member'      => 'بوت عام',
+	'group-Global_rollback-member' => 'مسترجع عام',
+	'group-Ombudsmen-member'       => 'اومبدادزمان',
 );
 
 /** Assamese (অসমীয়া)
@@ -251,30 +268,42 @@ $messages['as'] = array(
  * @author Esbardu
  */
 $messages['ast'] = array(
-	'wikimediamessages-desc'      => 'Mensaxes específicos de Wikimedia',
-	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donativos',
-	'sitesupport'                 => 'Donativos',
-	'tooltip-n-sitesupport'       => 'Sofítanos',
-	'group-accountcreator'        => 'Creadores de cuentes',
-	'group-developer'             => 'Desenrolladores',
-	'group-founder'               => 'Fundadores',
-	'group-import'                => 'Importadores',
-	'group-transwiki'             => 'Importadores treswiki',
-	'group-accountcreator-member' => 'Creador de cuentes',
-	'group-developer-member'      => 'desenrollador',
-	'group-founder-member'        => 'Fundador',
-	'group-import-member'         => 'Importador',
-	'group-transwiki-member'      => 'Importador treswiki',
-	'grouppage-accountcreator'    => '{{ns:project}}:Creadores de cuentes',
-	'grouppage-developer'         => '{{ns:project}}:Desenrolladores',
-	'grouppage-founder'           => '{{ns:project}}:Fundadores',
-	'grouppage-import'            => '{{ns:project}}:Importadores',
-	'grouppage-transwiki'         => '{{ns:project}}:Importadores treswiki',
-	'group-steward'               => 'Stewards',
-	'group-Global_bot'            => 'Bots globales',
-	'group-steward-member'        => 'Steward',
-	'group-Global_bot-member'     => 'Bot global',
-	'grouppage-steward'           => '{{ns:project}}:Stewards',
+	'wikimediamessages-desc'       => 'Mensaxes específicos de Wikimedia',
+	'sitesupport-url'              => 'http://wikimediafoundation.org/wiki/Donativos',
+	'sitesupport'                  => 'Donativos',
+	'tooltip-n-sitesupport'        => 'Sofítanos',
+	'group-accountcreator'         => 'Creadores de cuentes',
+	'group-developer'              => 'Desenrolladores',
+	'group-founder'                => 'Fundadores',
+	'group-import'                 => 'Importadores',
+	'group-ipblock-exempt'         => 'Exenciones de bloqueos IP',
+	'group-rollbacker'             => 'Revertidores',
+	'group-transwiki'              => 'Importadores treswiki',
+	'group-accountcreator-member'  => 'Creador de cuentes',
+	'group-developer-member'       => 'desenrollador',
+	'group-founder-member'         => 'Fundador',
+	'group-import-member'          => 'Importador',
+	'group-ipblock-exempt-member'  => 'exentu de bloqueos IP',
+	'group-rollbacker-member'      => 'revertidor',
+	'group-transwiki-member'       => 'Importador treswiki',
+	'grouppage-accountcreator'     => '{{ns:project}}:Creadores de cuentes',
+	'grouppage-developer'          => '{{ns:project}}:Desenrolladores',
+	'grouppage-founder'            => '{{ns:project}}:Fundadores',
+	'grouppage-import'             => '{{ns:project}}:Importadores',
+	'grouppage-ipblock-exempt'     => '{{ns:project}}:exención de bloqueos IP',
+	'grouppage-rollbacker'         => '{{ns:project}}:Revertidores',
+	'grouppage-transwiki'          => '{{ns:project}}:Importadores treswiki',
+	'group-steward'                => 'Stewards',
+	'group-sysadmin'               => 'Alministradores del sistema',
+	'group-Global_bot'             => 'Bots globales',
+	'group-Global_rollback'        => 'Revertidores globales',
+	'group-Ombudsmen'              => 'Comisarios',
+	'group-steward-member'         => 'Steward',
+	'group-sysadmin-member'        => 'alministrador del sistema',
+	'group-Global_bot-member'      => 'Bot global',
+	'group-Global_rollback-member' => 'revertidor global',
+	'group-Ombudsmen-member'       => 'comisariu',
+	'grouppage-steward'            => '{{ns:project}}:Stewards',
 );
 
 /** Avaric (Авар) */
@@ -426,8 +455,10 @@ $messages['bg'] = array(
 	'grouppage-developer'     => '{{ns:project}}:Разработчици',
 	'grouppage-founder'       => '{{ns:project}}:Основатели',
 	'group-steward'           => 'Стюарди',
+	'group-sysadmin'          => 'Системни администратори',
 	'group-Global_bot'        => 'Глобални ботове',
 	'group-steward-member'    => 'Стюард',
+	'group-sysadmin-member'   => 'системен администратор',
 	'group-Global_bot-member' => 'глобален бот',
 	'group-Ombudsmen-member'  => 'омбудсман',
 	'grouppage-steward'       => '{{ns:project}}:Стюарди',
@@ -663,7 +694,6 @@ $messages['da'] = array(
 /** German (Deutsch)
  * @author Raimond Spekking
  * @author Pill
- * @author Jon Harald Søby
  * @author Raymond
  */
 $messages['de'] = array(
@@ -696,12 +726,12 @@ $messages['de'] = array(
 	'group-sysadmin'               => 'Systemadministratoren',
 	'group-Global_bot'             => 'Globale Bots',
 	'group-Global_rollback'        => 'Globale Zurücksetzer',
-	'group-Ombudsmen'              => 'Ombudsmänner',
+	'group-Ombudsmen'              => 'Ombudspersonen',
 	'group-steward-member'         => 'Steward',
 	'group-sysadmin-member'        => 'Systemadministrator',
 	'group-Global_bot-member'      => 'Globaler Bot',
 	'group-Global_rollback-member' => 'Globaler Zurücksetzer',
-	'group-Ombudsmen-member'       => 'Ombudsmann',
+	'group-Ombudsmen-member'       => 'Ombudsperson',
 	'grouppage-steward'            => 'm:Stewards/de',
 );
 
@@ -755,11 +785,13 @@ $messages['ee'] = array(
  * @author Consta
  */
 $messages['el'] = array(
+	'sitesupport-url'       => 'http://wikimediafoundation.org/wiki/Donate/el',
 	'sitesupport'           => 'Δωρεές',
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
 	'group-founder'         => 'Ιδρυτές',
 	'group-founder-member'  => 'Ιδρυτής',
 	'grouppage-founder'     => '{{ns:project}}:Ιδρυτές',
+	'group-sysadmin-member' => 'διαχειριστής συστήματος',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
@@ -841,7 +873,6 @@ $messages['ff'] = array(
 
 /** Finnish (Suomi)
  * @author Nike
- * @author Jon Harald Søby
  * @author Jaakonam
  * @author Agony
  */
@@ -874,6 +905,7 @@ $messages['fi'] = array(
 	'group-steward'               => 'ylivalvojat',
 	'group-sysadmin'              => 'Järjestelmän ylläpitäjät',
 	'group-steward-member'        => 'ylivalvoja',
+	'group-sysadmin-member'       => 'järjestelmän ylläpitäjä',
 	'grouppage-steward'           => 'm:Stewards/fi',
 );
 
@@ -895,7 +927,6 @@ $messages['fj'] = array(
  * @author Grondin
  * @author Meno25
  * @author Sherbrooke
- * @author Jon Harald Søby
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc'       => 'Messages spécifiques de Wikimedia',
@@ -924,10 +955,12 @@ $messages['fr'] = array(
 	'grouppage-rollbacker'         => '{{ns:project}}:Réverteurs',
 	'grouppage-transwiki'          => '{{ns:project}}:Importateurs Transwiki',
 	'group-steward'                => 'Stewards',
+	'group-sysadmin'               => 'Administrateurs système',
 	'group-Global_bot'             => 'Bots globaux',
 	'group-Global_rollback'        => 'Reverteurs globaux',
 	'group-Ombudsmen'              => 'Commissaires',
 	'group-steward-member'         => 'Steward',
+	'group-sysadmin-member'        => 'administrateur système',
 	'group-Global_bot-member'      => 'Bot global',
 	'group-Global_rollback-member' => 'Reverteur global',
 	'group-Ombudsmen-member'       => 'Commissaire',
@@ -2061,26 +2094,41 @@ $messages['nso'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'wikimediamessages-desc'      => 'Messatges especifics de Wikimèdia',
-	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Donate/oc',
-	'sitesupport'                 => 'Far un don',
-	'tooltip-n-sitesupport'       => 'Sostenètz lo projècte',
-	'group-accountcreator'        => 'Creators de comptes',
-	'group-developer'             => 'Desvolopaires',
-	'group-founder'               => 'Fondators',
-	'group-import'                => 'Importaires',
-	'group-ipblock-exempt'        => 'Exempcions de blòts IP',
-	'group-rollbacker'            => 'Revocaires',
-	'group-transwiki'             => 'Importaires Transwiki',
-	'group-accountcreator-member' => 'Creator de comptes',
-	'group-developer-member'      => 'Desvolopaire',
-	'group-founder-member'        => 'Fondator',
-	'group-import-member'         => 'Importaire',
-	'group-ipblock-exempt-member' => 'Exempcion de blòt IP',
-	'group-rollbacker-member'     => 'Revocaire',
-	'group-transwiki-member'      => 'Importaire Transwiki',
-	'grouppage-accountcreator'    => '{{ns:project}} : Creators de comptes',
-	'group-Ombudsmen-member'      => 'Comissari',
+	'wikimediamessages-desc'       => 'Messatges especifics de Wikimèdia',
+	'sitesupport-url'              => 'http://wikimediafoundation.org/wiki/Donate/oc',
+	'sitesupport'                  => 'Far un don',
+	'tooltip-n-sitesupport'        => 'Sostenètz lo projècte',
+	'group-accountcreator'         => 'Creators de comptes',
+	'group-developer'              => 'Desvolopaires',
+	'group-founder'                => 'Fondators',
+	'group-import'                 => 'Importaires',
+	'group-ipblock-exempt'         => 'Exempcions de blòts IP',
+	'group-rollbacker'             => 'Revocaires',
+	'group-transwiki'              => 'Importaires Transwiki',
+	'group-accountcreator-member'  => 'Creator de comptes',
+	'group-developer-member'       => 'Desvolopaire',
+	'group-founder-member'         => 'Fondator',
+	'group-import-member'          => 'Importaire',
+	'group-ipblock-exempt-member'  => 'Exempcion de blòt IP',
+	'group-rollbacker-member'      => 'Revocaire',
+	'group-transwiki-member'       => 'Importaire Transwiki',
+	'grouppage-accountcreator'     => '{{ns:project}}:Creators de comptes',
+	'grouppage-developer'          => '{{ns:project}} : Desvolopaires',
+	'grouppage-founder'            => '{{ns:project}} : Fondators',
+	'grouppage-import'             => '{{ns:project}} : Importaires',
+	'grouppage-ipblock-exempt'     => '{{ns:project}} : Exempcion de blòt IP',
+	'grouppage-rollbacker'         => '{{ns:project}} : Revocaires',
+	'grouppage-transwiki'          => '{{ns:project}} : Importaires Transwiki',
+	'group-steward'                => 'Stewards',
+	'group-sysadmin'               => 'Administrators del sistèma',
+	'group-Global_bot'             => 'Bòts globals',
+	'group-Global_rollback'        => 'Revocaires globals',
+	'group-Ombudsmen'              => 'Comissaris',
+	'group-steward-member'         => 'Steward',
+	'group-sysadmin-member'        => 'administrator del sistèma',
+	'group-Global_bot-member'      => 'Bòt global',
+	'group-Global_rollback-member' => 'Revocaire global',
+	'group-Ombudsmen-member'       => 'Comissari',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
@@ -2749,28 +2797,37 @@ $messages['uz'] = array(
  * @author Candalua
  */
 $messages['vec'] = array(
-	'wikimediamessages-desc'      => 'Messagi specifici de Wikimedia',
-	'sitesupport'                 => 'Donassioni',
-	'tooltip-n-sitesupport'       => 'Jùtane',
-	'group-accountcreator'        => 'Creatori de account',
-	'group-developer'             => 'Svilupadori',
-	'group-founder'               => 'Fondatori',
-	'group-import'                => 'Inportadori',
-	'group-transwiki'             => 'Inportadori transwiki',
-	'group-accountcreator-member' => 'Creator de account',
-	'group-developer-member'      => 'Svilupador',
-	'group-founder-member'        => 'Fondator',
-	'group-import-member'         => 'Inportador',
-	'group-transwiki-member'      => 'Inportador transwiki',
-	'grouppage-accountcreator'    => '{{ns:project}}:Creatori de account',
-	'grouppage-developer'         => '{{ns:project}}:Svilupadori',
-	'grouppage-founder'           => '{{ns:project}}:Fondatori',
-	'grouppage-import'            => '{{ns:project}}:Inportadori',
-	'grouppage-transwiki'         => '{{ns:project}}:Inportadori transwiki',
-	'group-sysadmin'              => 'Aministradori de sistema',
-	'group-Global_bot'            => 'Bot globali',
-	'group-sysadmin-member'       => 'aministrador de sistema',
-	'group-Global_bot-member'     => 'bot globale',
+	'wikimediamessages-desc'       => 'Messagi specifici de Wikimedia',
+	'sitesupport'                  => 'Donassioni',
+	'tooltip-n-sitesupport'        => 'Jùtane',
+	'group-accountcreator'         => 'Creatori de account',
+	'group-developer'              => 'Svilupadori',
+	'group-founder'                => 'Fondatori',
+	'group-import'                 => 'Inportadori',
+	'group-rollbacker'             => 'Ripristinadori',
+	'group-transwiki'              => 'Inportadori transwiki',
+	'group-accountcreator-member'  => 'Creator de account',
+	'group-developer-member'       => 'Svilupador',
+	'group-founder-member'         => 'Fondator',
+	'group-import-member'          => 'Inportador',
+	'group-rollbacker-member'      => 'ripristinador',
+	'group-transwiki-member'       => 'Inportador transwiki',
+	'grouppage-accountcreator'     => '{{ns:project}}:Creatori de account',
+	'grouppage-developer'          => '{{ns:project}}:Svilupadori',
+	'grouppage-founder'            => '{{ns:project}}:Fondatori',
+	'grouppage-import'             => '{{ns:project}}:Inportadori',
+	'grouppage-rollbacker'         => '{{ns:project}}:Ripristinadori',
+	'grouppage-transwiki'          => '{{ns:project}}:Inportadori transwiki',
+	'group-steward'                => 'Steward',
+	'group-sysadmin'               => 'Aministradori de sistema',
+	'group-Global_bot'             => 'Bot globali',
+	'group-Global_rollback'        => 'Ripristinadori globali',
+	'group-Ombudsmen'              => 'Ombudsman',
+	'group-steward-member'         => 'steward',
+	'group-sysadmin-member'        => 'aministrador de sistema',
+	'group-Global_bot-member'      => 'bot globale',
+	'group-Global_rollback-member' => 'ripristinador globale',
+	'group-Ombudsmen-member'       => 'ombudsman',
 );
 
 /** Vietnamese (Tiếng Việt)
