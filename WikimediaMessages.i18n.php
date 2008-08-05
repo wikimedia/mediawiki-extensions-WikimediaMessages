@@ -702,7 +702,7 @@ $messages['de'] = array(
 	'sitesupport'                  => 'Spenden',
 	'tooltip-n-sitesupport'        => 'Unterstütze uns',
 	'group-accountcreator'         => 'Benutzerkonten-Ersteller',
-	'group-developer'              => 'Systemadministrator',
+	'group-developer'              => 'Developer',
 	'group-founder'                => 'Gründer',
 	'group-import'                 => 'Importeur',
 	'group-ipblock-exempt'         => 'IP-Sperre-Ausnahmen',
@@ -903,7 +903,7 @@ $messages['fi'] = array(
 	'grouppage-rollbacker'        => '{{ns:project}}:Palauttajat',
 	'grouppage-transwiki'         => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
 	'group-steward'               => 'ylivalvojat',
-	'group-sysadmin'              => 'Järjestelmän ylläpitäjät',
+	'group-sysadmin'              => 'järjestelmän ylläpitäjät',
 	'group-steward-member'        => 'ylivalvoja',
 	'group-sysadmin-member'       => 'järjestelmän ylläpitäjä',
 	'grouppage-steward'           => 'm:Stewards/fi',
@@ -1767,9 +1767,11 @@ $messages['lt'] = array(
 
 /** Latvian (Latviešu)
  * @author Yyy
+ * @author Xil
  */
 $messages['lv'] = array(
-	'sitesupport' => 'Ziedojumi',
+	'sitesupport'           => 'Ziedojumi',
+	'tooltip-n-sitesupport' => 'Atbalsti mūs',
 );
 
 /** Moksha (Мокшень)
@@ -1851,17 +1853,17 @@ $messages['ms'] = array(
 	'grouppage-founder'            => '{{ns:project}}:Pengasas',
 	'grouppage-import'             => '{{ns:project}}:Pengimport',
 	'grouppage-ipblock-exempt'     => '{{ns:project}}:Pengecualian sekatan IP',
-	'grouppage-rollbacker'         => '{{ns:project}}:Pengundur',
-	'grouppage-transwiki'          => '{{ns:project}}:Pengimport transwiki',
+	'grouppage-rollbacker'         => '{{ns:project}}:Pengundur suntingan',
+	'grouppage-transwiki'          => '{{ns:project}}:Pengimport rentas wiki',
 	'group-steward'                => 'Pengelola',
 	'group-sysadmin'               => 'Pentadbir sistem',
 	'group-Global_bot'             => 'Bot sejagat',
-	'group-Global_rollback'        => 'Rollbacker sejagat',
+	'group-Global_rollback'        => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen'              => 'Ombudsman',
 	'group-steward-member'         => 'Pengelola',
 	'group-sysadmin-member'        => 'pentadbir sistem',
 	'group-Global_bot-member'      => 'Bot sejagat',
-	'group-Global_rollback-member' => 'Rollbacker sejagat',
+	'group-Global_rollback-member' => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen-member'       => 'Ombudsman',
 );
 
