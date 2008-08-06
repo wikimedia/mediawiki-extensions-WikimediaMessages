@@ -119,7 +119,6 @@ $messages['am'] = array(
 
 /** Aragonese (Aragonés)
  * @author Juanpabl
- * @author SPQRobin
  */
 $messages['an'] = array(
 	'wikimediamessages-desc'       => 'Mensaches espezificos de Wikimedia',
@@ -148,10 +147,12 @@ $messages['an'] = array(
 	'grouppage-rollbacker'         => '{{ns:project}}:Esfedors',
 	'grouppage-transwiki'          => '{{ns:project}}:Importardors transwiki',
 	'group-steward'                => 'Stewards',
+	'group-sysadmin'               => "Almenistradors d'o sistemas",
 	'group-Global_bot'             => 'Bots globals',
 	'group-Global_rollback'        => 'Esfedors globals',
 	'group-Ombudsmen'              => 'Chustizias',
 	'group-steward-member'         => 'Steward',
+	'group-sysadmin-member'        => "almenistrador d'o sistema",
 	'group-Global_bot-member'      => 'Bot global',
 	'group-Global_rollback-member' => 'Esfedor global',
 	'group-Ombudsmen-member'       => 'Chustizia',
