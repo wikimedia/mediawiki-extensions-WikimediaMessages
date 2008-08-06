@@ -2549,10 +2549,33 @@ $messages['stq'] = array(
 
 /** Sundanese (Basa Sunda)
  * @author Kandar
+ * @author Irwangatot
  */
 $messages['su'] = array(
-	'sitesupport'           => 'Sumbangan',
-	'tooltip-n-sitesupport' => 'Bobotohan',
+	'sitesupport-url'             => 'http://wikimediafoundation.org/wiki/Penggalangan_dana',
+	'sitesupport'                 => 'Sumbangan',
+	'tooltip-n-sitesupport'       => 'Bobotohan',
+	'group-accountcreator'        => 'Nu nyieun rekening',
+	'group-developer'             => 'Developer',
+	'group-founder'               => 'Nu ngadegkeun',
+	'group-import'                => 'Importir',
+	'group-transwiki'             => 'Importir transwiki',
+	'group-accountcreator-member' => 'nu nyieun rekening',
+	'group-developer-member'      => 'developer',
+	'group-founder-member'        => 'nu ngadegkeun',
+	'group-import-member'         => 'importir',
+	'group-transwiki-member'      => 'importir transwiki',
+	'grouppage-accountcreator'    => '{{ns:project}}:Nu nyieun rekening',
+	'grouppage-developer'         => '{{ns:project}}:Developer',
+	'grouppage-founder'           => '{{ns:project}}:Nu ngadegkeun',
+	'grouppage-import'            => '{{ns:project}}:Importir',
+	'group-steward'               => 'Steward',
+	'group-sysadmin'              => 'Kuncén sistem',
+	'group-Global_bot'            => 'Bot global',
+	'group-steward-member'        => 'steward',
+	'group-sysadmin-member'       => 'kuncén sistem',
+	'group-Global_bot-member'     => 'bot global',
+	'grouppage-steward'           => '{{ns:project}}:Steward',
 );
 
 /** Swedish (Svenska)
