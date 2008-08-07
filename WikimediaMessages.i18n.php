@@ -860,9 +860,45 @@ $messages['ext'] = array(
 	'tooltip-n-sitesupport' => 'Ayúamus',
 );
 
-/** Persian (فارسی) */
+/** Persian (فارسی)
+ * @author Huji
+ */
 $messages['fa'] = array(
-	'sitesupport' => 'کمک مالی',
+	'wikimediamessages-desc'       => 'پیغام‌های مخصوص ویکی‌مدیا',
+	'sitesupport-url'              => 'http://wikimediafoundation.org/wiki/Donate/fa',
+	'sitesupport'                  => 'کمک مالی',
+	'tooltip-n-sitesupport'        => 'حمایت از ما',
+	'group-accountcreator'         => 'سازندگان حساب کاربری',
+	'group-developer'              => 'توسعه‌دهندگان',
+	'group-founder'                => 'بنیان‌گذاران',
+	'group-import'                 => 'واردکنندگان',
+	'group-ipblock-exempt'         => 'استثناهای قطع دسترسی نشانی اینترنتی',
+	'group-rollbacker'             => 'واگردانی‌کنندگان',
+	'group-transwiki'              => 'واردکنندگان تراویکی',
+	'group-accountcreator-member'  => 'ایجادکنندهٔ حساب کاربری',
+	'group-developer-member'       => 'توسعه‌دهنده',
+	'group-founder-member'         => 'بنیان‌گذار',
+	'group-import-member'          => 'واردکننده',
+	'group-ipblock-exempt-member'  => 'استثنای قطع دسترسی نشانی اینترنتی',
+	'group-rollbacker-member'      => 'واگردانی‌کننده',
+	'group-transwiki-member'       => 'واردکنندهٔ تراویکی',
+	'grouppage-accountcreator'     => '{{ns:project}}:سازندگان حساب کاربری',
+	'grouppage-developer'          => '{{ns:project}}:توسعه‌دهندگان',
+	'grouppage-founder'            => '{{ns:project}}:بنیان‌گذاران',
+	'grouppage-import'             => '{{ns:project}}:واردکنندگان',
+	'grouppage-ipblock-exempt'     => '{{ns:project}}:استثنای قطع دسترسی نشانی اینترنتی',
+	'grouppage-rollbacker'         => '{{ns:project}}:واگردانی‌کنندگان',
+	'grouppage-transwiki'          => '{{ns:project}}:واردکنندگان تراویکی',
+	'group-steward'                => 'ویکیبدان',
+	'group-sysadmin'               => 'مدیران سیستم',
+	'group-Global_bot'             => 'ربات‌های سراسری',
+	'group-Global_rollback'        => 'واگردانی‌کنندگان سراسری',
+	'group-Ombudsmen'              => 'دادآوران',
+	'group-steward-member'         => 'ویکیبد',
+	'group-sysadmin-member'        => 'مدیر سیستم',
+	'group-Global_bot-member'      => 'ربات سراسری',
+	'group-Global_rollback-member' => 'واگردانی‌کنندهٔ سراسری',
+	'group-Ombudsmen-member'       => 'دادآور',
 );
 
 /** Fulah (Fulfulde)
