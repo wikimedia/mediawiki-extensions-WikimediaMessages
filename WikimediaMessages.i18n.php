@@ -224,6 +224,7 @@ $messages['arn'] = array(
  * @author Ghaly
  */
 $messages['arz'] = array(
+	'wikimediamessages-desc'       => 'رسايل خاصه بويكيميديا',
 	'sitesupport'                  => 'التبرعات',
 	'tooltip-n-sitesupport'        => 'ساندنا',
 	'group-accountcreator'         => 'مؤسسين الحسابات',
@@ -560,6 +561,7 @@ $messages['bs'] = array(
 /** Catalan (Català)
  * @author Martorell
  * @author Juanpabl
+ * @author Paucabot
  */
 $messages['ca'] = array(
 	'wikimediamessages-desc'       => 'Missatges específics de Wikimedia',
@@ -587,10 +589,12 @@ $messages['ca'] = array(
 	'grouppage-rollbacker'         => '{{ns:project}}:Revertidors ràpids',
 	'grouppage-transwiki'          => '{{ns:project}}:Importadors transwiki',
 	'group-steward'                => 'Stewards',
+	'group-sysadmin'               => 'Administradors del sistema',
 	'group-Global_bot'             => 'Bots globals',
 	'group-Global_rollback'        => 'Revertidors ràpids globals',
 	'group-Ombudsmen'              => 'Defensors del poble',
 	'group-steward-member'         => 'Majordom',
+	'group-sysadmin-member'        => 'administrador del sistema',
 	'group-Global_bot-member'      => 'Bot global',
 	'group-Global_rollback-member' => 'Revertidor ràpid global',
 	'group-Ombudsmen-member'       => 'Defensor del poble',
@@ -1531,9 +1535,18 @@ $messages['kk-arab'] = array(
 	'sitesupport' => 'دەمەۋشىلىك',
 );
 
-/** Kazakh (Cyrillic) (Қазақша (Cyrillic)) */
+/** Kazakh (Cyrillic) (Қазақша (Cyrillic))
+ * @author GaiJin
+ * @author AlefZet
+ */
 $messages['kk-cyrl'] = array(
-	'sitesupport' => 'Демеушілік',
+	'sitesupport'            => 'Демеушілік',
+	'group-developer'        => 'Дамытушылар',
+	'group-import'           => 'Сырттан алушылар',
+	'group-developer-member' => 'дамытушы',
+	'group-import-member'    => 'сырттан алушы',
+	'group-sysadmin'         => 'Жүйе әкімшілері',
+	'group-sysadmin-member'  => 'жүйе әкімшісі',
 );
 
 /** Kazakh (Latin) (Қазақша (Latin))
@@ -1570,12 +1583,12 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Klutzy
- * @author Jon Harald Søby
+ * @author Kwj2772
  */
 $messages['ko'] = array(
 	'sitesupport'          => '기부 안내',
-	'group-steward'        => '스튜워드',
-	'group-steward-member' => '스튜워드',
+	'group-steward'        => '스튜어드',
+	'group-steward-member' => '스튜어드',
 	'grouppage-steward'    => 'm:Stewards/ko',
 );
 
@@ -2334,7 +2347,7 @@ $messages['roa-rup'] = array(
  * @author HalanTul
  * @author Александр Сигачёв
  * @author Ahonc
- * @author Jon Harald Søby
+ * @author Flrn
  */
 $messages['ru'] = array(
 	'wikimediamessages-desc'      => 'Сообщения, специфичные для Викимедиа',
@@ -2362,6 +2375,9 @@ $messages['ru'] = array(
 	'grouppage-ipblock-exempt'    => '{{ns:project}}:Исключение из IP-блокировки',
 	'grouppage-rollbacker'        => '{{ns:project}}:Откатывающие',
 	'grouppage-transwiki'         => '{{ns:project}}:Импортёры из Transwiki',
+	'group-steward'               => 'Стюарды',
+	'group-sysadmin'              => 'Системные администраторы',
+	'group-Global_bot'            => 'Глобальные боты',
 	'grouppage-steward'           => 'm:Stewards/ru',
 );
 
@@ -2472,10 +2488,12 @@ $messages['sk'] = array(
 	'grouppage-rollbacker'         => '{{ns:project}}:S právom rollback',
 	'grouppage-transwiki'          => '{{ns:project}}:Transwiki importéri',
 	'group-steward'                => 'Stewardi',
+	'group-sysadmin'               => 'Správcovia systému',
 	'group-Global_bot'             => 'Globálni roboti',
 	'group-Global_rollback'        => 'Globálni rollbackeri',
 	'group-Ombudsmen'              => 'Ombudsmani',
 	'group-steward-member'         => 'Steward',
+	'group-sysadmin-member'        => 'správca systému',
 	'group-Global_bot-member'      => 'Globálny robot',
 	'group-Global_rollback-member' => 'Globálny rollbacker',
 	'group-Ombudsmen-member'       => 'Ombudsman',
