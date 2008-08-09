@@ -225,6 +225,7 @@ $messages['arn'] = array(
  */
 $messages['arz'] = array(
 	'wikimediamessages-desc'       => 'رسايل خاصه بويكيميديا',
+	'sitesupport-url'              => 'http://wikimediafoundation.org/wiki/تبرع',
 	'sitesupport'                  => 'التبرعات',
 	'tooltip-n-sitesupport'        => 'ساندنا',
 	'group-accountcreator'         => 'مؤسسين الحسابات',
@@ -241,10 +242,13 @@ $messages['arz'] = array(
 	'group-ipblock-exempt-member'  => 'مستثنى من منع الاايبى',
 	'group-rollbacker-member'      => 'مسترجع',
 	'group-transwiki-member'       => 'مستورد عبر الويكى',
+	'grouppage-accountcreator'     => '{{ns:project}}:منشئين الحسابات',
 	'grouppage-developer'          => '{{ns:project}}:مطورين',
 	'grouppage-founder'            => '{{ns:project}}:مؤسسين',
 	'grouppage-import'             => '{{ns:project}}:مستوردين',
+	'grouppage-ipblock-exempt'     => '{{ns:project}}:استثناء من منع الااى بى',
 	'grouppage-rollbacker'         => '{{ns:project}}:مسترجعين',
+	'grouppage-transwiki'          => '{{ns:project}}:مستوردين عبر الويكى',
 	'group-steward'                => 'مضيفين',
 	'group-sysadmin'               => 'اداريين النظام',
 	'group-Global_bot'             => 'بوتات عامه',
@@ -1820,8 +1824,9 @@ $messages['lt'] = array(
  * @author Xil
  */
 $messages['lv'] = array(
-	'sitesupport'           => 'Ziedojumi',
-	'tooltip-n-sitesupport' => 'Atbalsti mūs',
+	'wikimediamessages-desc' => 'Wikimedia raksturīgi paziņojumi',
+	'sitesupport'            => 'Ziedojumi',
+	'tooltip-n-sitesupport'  => 'Atbalsti mūs',
 );
 
 /** Moksha (Мокшень)
@@ -2858,7 +2863,7 @@ $messages['uk'] = array(
 	'grouppage-rollbacker'         => '{{ns:project}}:Відкочувачі',
 	'grouppage-transwiki'          => '{{ns:project}}:Transwiki-імпортери',
 	'group-steward'                => 'Стюарди',
-	'group-sysadmin'               => 'Системний адміністратор',
+	'group-sysadmin'               => 'Системні адміністратори',
 	'group-Global_bot'             => 'Глобальні боти',
 	'group-Global_rollback'        => 'Глобальні відкочувачі',
 	'group-Ombudsmen'              => 'Омбудсмени',
