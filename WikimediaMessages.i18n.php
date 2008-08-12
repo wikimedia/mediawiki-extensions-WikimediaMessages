@@ -852,9 +852,40 @@ $messages['eo'] = array(
 	'group-Ombudsmen-member' => 'Arbitraciisto',
 );
 
-/** Spanish (Español) */
+/** Spanish (Español)
+ * @author Ascánder
+ */
 $messages['es'] = array(
+	'wikimediamessages-desc' => 'Mensajes específicos de Wikimedia',
 	'sitesupport' => 'Donaciones',
+	'tooltip-n-sitesupport' => 'Apóyenos',
+	'group-accountcreator' => 'Creadores de cuentas',
+	'group-developer' => 'Desarrolladores',
+	'group-founder' => 'Fundadores',
+	'group-import' => 'Importadores',
+	'group-ipblock-exempt' => 'Dispensas de bloqueo IP',
+	'group-rollbacker' => 'Pueden deshacer',
+	'group-transwiki' => 'Importadores transwiki',
+	'group-accountcreator-member' => 'creador de la cuenta',
+	'group-developer-member' => 'desarrolador',
+	'group-founder-member' => 'fundador',
+	'group-import-member' => 'importador',
+	'group-ipblock-exempt-member' => 'dispensa de bloqueo IP',
+	'group-rollbacker-member' => 'puede deshacer',
+	'group-transwiki-member' => 'Importador transwiki',
+	'grouppage-accountcreator' => '{{ns:project}}:Creadores de cuentas',
+	'grouppage-developer' => '{{ns:project}}:Desarroladores',
+	'grouppage-founder' => '{{ns:project}}:Fundadores',
+	'grouppage-import' => '{{ns:project}}:Importadores',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Dispensa de bloqueo IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Que pueden deshacer',
+	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'group-sysadmin' => 'administradores del sistema',
+	'group-Global_bot' => 'bots globales',
+	'group-Global_rollback' => 'Pueden deshacer globalmente',
+	'group-sysadmin-member' => 'administrador del sistema',
+	'group-Global_bot-member' => 'bot global',
+	'group-Global_rollback-member' => 'Puede deshacer globalmente',
 );
 
 /** Estonian (Eesti)
@@ -1266,9 +1297,11 @@ $messages['hil'] = array(
 );
 
 /** Croatian (Hrvatski)
+ * @author Dalibor Bosits
  * @author SpeedyGonsales
  */
 $messages['hr'] = array(
+	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
 	'sitesupport' => 'Novčani prilozi',
 	'group-steward' => 'Stjuardi',
 	'group-steward-member' => 'Stjuard',
@@ -2378,12 +2411,34 @@ $messages['rmy'] = array(
  * @author Emily
  * @author KlaudiuMihaila
  * @author Laurap
+ * @author Mihai
  */
 $messages['ro'] = array(
+	'wikimediamessages-desc' => 'Mesaje specifice Wikimedia',
 	'sitesupport' => 'Donaţii',
+	'tooltip-n-sitesupport' => 'Sprijină-ne',
+	'group-accountcreator' => 'Creator de conturi',
+	'group-developer' => 'Dezvoltatori',
 	'group-founder' => 'Fondatori',
+	'group-import' => 'Importatori',
+	'group-transwiki' => 'Importatori între wiki',
+	'group-accountcreator-member' => 'creator de conturi',
+	'group-developer-member' => 'dezvoltator',
 	'group-founder-member' => 'Fondator',
+	'group-import-member' => 'importator',
+	'group-transwiki-member' => 'importator între wiki',
+	'grouppage-developer' => '{{ns:project}}:Dezvoltatori',
+	'grouppage-founder' => '{{ns:project}}:Fondatori',
+	'grouppage-import' => '{{ns:project}}:Importatori',
+	'grouppage-transwiki' => '{{ns:project}}:Importatori între wiki',
 	'group-steward' => 'Stewarzi',
+	'group-sysadmin' => 'Administratori de sistem',
+	'group-Global_bot' => 'Roboţi globali',
+	'group-Ombudsmen' => 'Mijlocitor independent',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'administrator de sistem',
+	'group-Global_bot-member' => 'robot global',
+	'group-Ombudsmen-member' => 'mijlocitor independent',
 );
 
 /** Aromanian (Armãneashce)
@@ -2488,6 +2543,7 @@ $messages['sah'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki`ттан көһөрөөччүлэр',
 	'group-steward' => 'Үстүйээрдэр',
 	'group-sysadmin' => 'Тиһик (систиэмэ) дьаһабыллара',
+	'group-sysadmin-member' => 'дьаһабыл',
 );
 
 /** Sicilian (Sicilianu)
