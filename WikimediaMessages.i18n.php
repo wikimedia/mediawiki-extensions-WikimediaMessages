@@ -670,6 +670,7 @@ $messages['crh-cyrl'] = array(
 
 /** Czech (Česky)
  * @author Danny B.
+ * @author Li-sung
  * @author Matěj Grabovský
  */
 $messages['cs'] = array(
@@ -677,12 +678,22 @@ $messages['cs'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Sponzorstv%C3%AD',
 	'sitesupport' => 'Podpořte nás',
 	'tooltip-n-sitesupport' => 'Podpořte nás',
+	'group-accountcreator' => 'Zakladatelé účtů',
 	'group-developer' => 'Vývojáři',
 	'group-founder' => 'Zakladatelé',
+	'group-rollbacker' => 'S právem rychlého vrácení změny',
+	'group-accountcreator-member' => 'zakladatel účtů',
 	'group-developer-member' => 'Vývojář',
 	'group-founder-member' => 'Zakladatel',
+	'group-rollbacker-member' => 'S právem rychlého vrácení změny',
+	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
 	'grouppage-developer' => '{{ns:project}}:Vývojáři',
 	'grouppage-founder' => '{{ns:project}}:Zakladatelé',
+	'group-Global_bot' => 'Globální boti',
+	'group-Ombudsmen' => 'Ombudsmani',
+	'group-sysadmin-member' => 'správce systému',
+	'group-Global_bot-member' => 'globální bot',
+	'group-Ombudsmen-member' => 'ombudsman',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -1496,6 +1507,7 @@ $messages['is'] = array(
 
 /** Italian (Italiano)
  * @author BrokenArrow
+ * @author Brownout
  * @author Darth Kule
  * @author Pietrodn
  */
@@ -1504,10 +1516,37 @@ $messages['it'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donazioni',
 	'sitesupport' => 'Donazioni',
 	'tooltip-n-sitesupport' => 'Sostienici',
+	'group-accountcreator' => 'Creatori di account',
+	'group-developer' => 'Sviluppatori',
+	'group-founder' => 'Fondatori',
+	'group-import' => 'Importatori',
+	'group-ipblock-exempt' => 'esente dal blocco IP',
+	'group-rollbacker' => 'Rollbacker',
+	'group-transwiki' => 'Importatori transwiki',
+	'group-accountcreator-member' => 'creatore di account',
+	'group-developer-member' => 'sviluppatore',
+	'group-founder-member' => 'fondatore',
+	'group-import-member' => 'importatore',
+	'group-ipblock-exempt-member' => 'esente dal blocco IP',
 	'group-rollbacker-member' => 'rollbacker',
+	'group-transwiki-member' => 'importatore transwiki',
+	'grouppage-accountcreator' => '{{ns:project}}:Creatori di account',
+	'grouppage-developer' => '{{ns:project}}:Sviluppatori',
 	'grouppage-founder' => '{{ns:project}}:Founders',
+	'grouppage-import' => '{{ns:project}}:Importatori',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dal blocco IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
+	'grouppage-transwiki' => '{{ns:project}}:Importatori transwiki',
+	'group-steward' => 'Steward',
+	'group-sysadmin' => 'Amministratori di sistema',
+	'group-Global_bot' => 'Bot globali',
+	'group-Global_rollback' => 'Rollbacker globali',
+	'group-Ombudsmen' => 'Ombudsmen',
 	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'amministratore di sistema',
+	'group-Global_bot-member' => 'bot globale',
+	'group-Global_rollback-member' => 'rollbacker globale',
+	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => 'm:Stewards/it',
 );
 
@@ -1622,11 +1661,13 @@ $messages['kn'] = array(
 );
 
 /** Korean (한국어)
+ * @author Albamhandae
  * @author Klutzy
  * @author Kwj2772
  */
 $messages['ko'] = array(
 	'sitesupport' => '기부 안내',
+	'tooltip-n-sitesupport' => '기부 안내',
 	'group-steward' => '스튜어드',
 	'group-steward-member' => '스튜어드',
 	'grouppage-steward' => 'm:Stewards/ko',
@@ -3104,7 +3145,16 @@ $messages['vi'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Người được miễn cấm IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Người lùi sửa',
 	'grouppage-transwiki' => '{{ns:project}}:Người nhập trang giữa wiki',
+	'group-steward' => 'Tiếp viên',
+	'group-sysadmin' => 'Người quản lý hệ thống',
+	'group-Global_bot' => 'Robot toàn cầu',
+	'group-Global_rollback' => 'Thành viên lùi sửa toàn cầu',
+	'group-Ombudsmen' => 'Thanh tra viên',
 	'group-steward-member' => 'Tiếp viên',
+	'group-sysadmin-member' => 'người quản lý hệ thống',
+	'group-Global_bot-member' => 'robot toàn cầu',
+	'group-Global_rollback-member' => 'người lùi sửa toàn cầu',
+	'group-Ombudsmen-member' => 'thanh tra viên',
 );
 
 /** Volapük (Volapük)
