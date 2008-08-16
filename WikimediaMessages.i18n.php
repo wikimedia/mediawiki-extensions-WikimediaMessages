@@ -470,6 +470,7 @@ $messages['bg'] = array(
 	'wikimediamessages-desc' => 'Съобщения, специфични за Уикимедия',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bg',
 	'sitesupport' => 'Дарения',
+	'tooltip-n-sitesupport' => 'Подкрепете ни',
 	'group-developer' => 'Разработчици',
 	'group-founder' => 'Основатели',
 	'group-developer-member' => 'Разработчик',
@@ -865,6 +866,7 @@ $messages['eo'] = array(
 
 /** Spanish (Español)
  * @author Ascánder
+ * @author Sanbec
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes específicos de Wikimedia',
@@ -894,9 +896,11 @@ $messages['es'] = array(
 	'group-sysadmin' => 'administradores del sistema',
 	'group-Global_bot' => 'bots globales',
 	'group-Global_rollback' => 'Pueden deshacer globalmente',
+	'group-Ombudsmen' => 'Defensores de la comunidad',
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'Puede deshacer globalmente',
+	'group-Ombudsmen-member' => 'defensor de la comunidad',
 );
 
 /** Estonian (Eesti)
@@ -1104,9 +1108,10 @@ $messages['fur'] = array(
 
 /** Western Frisian (Frysk)
  * @author Pyt
+ * @author Snakesteuben
  */
 $messages['fy'] = array(
-	'sitesupport' => 'Jildlik stypje',
+	'sitesupport' => 'Donaasjes',
 	'tooltip-n-sitesupport' => 'Stypje ús',
 );
 
@@ -1313,9 +1318,20 @@ $messages['hil'] = array(
  */
 $messages['hr'] = array(
 	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donacije',
 	'sitesupport' => 'Novčani prilozi',
+	'tooltip-n-sitesupport' => 'Podržite nas',
+	'group-developer' => 'Sistem administratori',
+	'group-developer-member' => 'sistem administrator',
+	'grouppage-developer' => '{{ns:project}}:Sistem administratori',
 	'group-steward' => 'Stjuardi',
+	'group-sysadmin' => 'Sistem administratori',
+	'group-Global_bot' => 'Globalni bot',
+	'group-Ombudsmen' => 'Ombudsmen',
 	'group-steward-member' => 'Stjuard',
+	'group-sysadmin-member' => 'sistem administrator',
+	'group-Global_bot-member' => 'globalni bot',
+	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => '{{ns:project}}:Stjuardi',
 );
 
