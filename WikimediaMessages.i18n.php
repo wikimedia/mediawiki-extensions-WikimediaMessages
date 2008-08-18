@@ -1587,15 +1587,47 @@ $messages['it'] = array(
 );
 
 /** Japanese (日本語)
+ * @author Aotake
  * @author JtFuruhata
  * @author Meno25
  * @author Suisui
  */
 $messages['ja'] = array(
+	'wikimediamessages-desc' => 'ウィキメディア固有のメッセージ',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ja',
 	'sitesupport' => '寄付',
+	'tooltip-n-sitesupport' => 'ご支援ください',
+	'group-accountcreator' => 'アカウント作成権限保持者',
+	'group-developer' => '開発者',
+	'group-founder' => '創立者',
+	'group-import' => 'インポート権限保持者',
+	'group-ipblock-exempt' => 'IPブロック適用除外',
+	'group-rollbacker' => 'ロールバック権限保持者',
+	'group-transwiki' => 'トランスウィキ・インポート権限保持者',
+	'group-accountcreator-member' => 'アカウント作成権限保持者',
+	'group-developer-member' => '開発者',
+	'group-founder-member' => '創立者',
+	'group-import-member' => 'インポート権限保持者',
+	'group-ipblock-exempt-member' => 'IPブロック適用除外',
+	'group-rollbacker-member' => 'ロールバック権限保持者',
+	'group-transwiki-member' => 'トランスウィキ・インポート権限保持者',
+	'grouppage-accountcreator' => '{{ns:project}}:アカウント作成権限保持者',
+	'grouppage-developer' => '{{ns:project}}:開発者',
+	'grouppage-founder' => '{{ns:project}}:創立者',
+	'grouppage-import' => '{{ns:project}}:インポート権限保持者',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IPブロック適用除外',
+	'grouppage-rollbacker' => '{{ns:project}}:ロールバック権限保持者',
+	'grouppage-transwiki' => '{{ns:project}}:トランスウィキ・インポート権限保持者',
 	'group-steward' => 'スチュワード',
+	'group-sysadmin' => 'システム管理者',
+	'group-Global_bot' => 'グローバル・ボット',
+	'group-Global_rollback' => 'グローバル・ロールバック権限保持者',
+	'group-Ombudsmen' => 'オンブズマン',
 	'group-steward-member' => '{{int:group-steward}}',
+	'group-sysadmin-member' => 'システム管理者',
+	'group-Global_bot-member' => 'グローバル・ボット',
+	'group-Global_rollback-member' => 'グローバル・ロールバック権限保持者',
+	'group-Ombudsmen-member' => 'オンブズマン',
 	'grouppage-steward' => 'm:Stewards/ja',
 );
 
@@ -1698,12 +1730,13 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Albamhandae
+ * @author Ficell
  * @author Klutzy
  * @author Kwj2772
  */
 $messages['ko'] = array(
 	'sitesupport' => '기부 안내',
-	'tooltip-n-sitesupport' => '기부 안내',
+	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'group-steward' => '스튜어드',
 	'group-steward-member' => '스튜어드',
 	'grouppage-steward' => 'm:Stewards/ko',
@@ -2173,6 +2206,7 @@ $messages['new'] = array(
  * @author SPQRobin
  * @author Siebrand
  * @author Troefkaart
+ * @author Tvdm
  */
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Berichten voor Wikimedia',
@@ -2183,32 +2217,32 @@ $messages['nl'] = array(
 	'group-developer' => 'Ontwikkelaars',
 	'group-founder' => 'Grondleggers',
 	'group-import' => 'Importeurs',
-	'group-ipblock-exempt' => 'Uitgezonderden van IP-adres blokkades',
+	'group-ipblock-exempt' => 'Uitgezonderden van IP-adresblokkades',
 	'group-rollbacker' => 'Terugdraaiers',
-	'group-transwiki' => 'Transwikiimporteurs',
+	'group-transwiki' => 'Transwiki-importeurs',
 	'group-accountcreator-member' => 'Gebruikersaanmaker',
 	'group-developer-member' => 'Ontwikkelaar',
 	'group-founder-member' => 'Grondlegger',
 	'group-import-member' => 'Importeur',
 	'group-ipblock-exempt-member' => 'Uitgezonderde van IP-adresblokkades',
 	'group-rollbacker-member' => 'Terugdraaier',
-	'group-transwiki-member' => 'Transwikiimporteur',
+	'group-transwiki-member' => 'Transwiki-importeur',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebruikersaanmakers',
 	'grouppage-developer' => '{{ns:project}}:Ontwikkelaars',
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
 	'grouppage-import' => '{{ns:project}}:Importeurs',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uitgezonderden van IP-adresblokkades',
 	'grouppage-rollbacker' => '{{ns:project}}:Terugdraaiers',
-	'grouppage-transwiki' => '{{ns:project}}:Transwikiimporteurs',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Systeembeheerders',
 	'group-Global_bot' => 'Globale bots',
-	'group-Global_rollback' => 'Gobale rollbackers',
+	'group-Global_rollback' => 'Gobale terugdraaiers',
 	'group-Ombudsmen' => 'Ombudsmannen',
 	'group-steward-member' => 'Steward',
-	'group-sysadmin-member' => 'systeembeheerder',
+	'group-sysadmin-member' => 'Systeembeheerder',
 	'group-Global_bot-member' => 'Gobale bot',
-	'group-Global_rollback-member' => 'Gobale rollbacker',
+	'group-Global_rollback-member' => 'Gobale terugdraaier',
 	'group-Ombudsmen-member' => 'Ombudsman',
 	'grouppage-steward' => 'm:Stewards/nl',
 	'grouppage-Global_rollback' => 'm:Global rollback/nl',
