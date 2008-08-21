@@ -673,6 +673,7 @@ $messages['crh-cyrl'] = array(
  * @author Danny B.
  * @author Li-sung
  * @author Matěj Grabovský
+ * @author Mormegil
  */
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
@@ -682,18 +683,33 @@ $messages['cs'] = array(
 	'group-accountcreator' => 'Zakladatelé účtů',
 	'group-developer' => 'Vývojáři',
 	'group-founder' => 'Zakladatelé',
-	'group-rollbacker' => 'S právem rychlého vrácení změny',
+	'group-import' => 'Importéři',
+	'group-ipblock-exempt' => 'Nepodléhající blokování IP adres',
+	'group-rollbacker' => 'Revertovatelé',
+	'group-transwiki' => 'Transwiki importéři',
 	'group-accountcreator-member' => 'zakladatel účtů',
-	'group-developer-member' => 'Vývojář',
-	'group-founder-member' => 'Zakladatel',
-	'group-rollbacker-member' => 'S právem rychlého vrácení změny',
+	'group-developer-member' => 'vývojář',
+	'group-founder-member' => 'zakladatel',
+	'group-import-member' => 'importér',
+	'group-ipblock-exempt-member' => 'nepodléhající blokování IP adres',
+	'group-rollbacker-member' => 'revertovatel',
+	'group-transwiki-member' => 'transwiki importér',
 	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
 	'grouppage-developer' => '{{ns:project}}:Vývojáři',
 	'grouppage-founder' => '{{ns:project}}:Zakladatelé',
+	'grouppage-import' => '{{ns:project}}:Importéři',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Výjimky z blokování IP adres',
+	'grouppage-rollbacker' => '{{ns:project}}:Revertovatelé',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéři',
+	'group-steward' => 'Stevardi',
+	'group-sysadmin' => 'Správcové serveru',
 	'group-Global_bot' => 'Globální boti',
+	'group-Global_rollback' => 'Globální revertovatelé',
 	'group-Ombudsmen' => 'Ombudsmani',
-	'group-sysadmin-member' => 'správce systému',
+	'group-steward-member' => 'stevard',
+	'group-sysadmin-member' => 'správce serveru',
 	'group-Global_bot-member' => 'globální bot',
+	'group-Global_rollback-member' => 'globální revertovatel',
 	'group-Ombudsmen-member' => 'ombudsman',
 );
 
@@ -972,6 +988,7 @@ $messages['ff'] = array(
 
 /** Finnish (Suomi)
  * @author Agony
+ * @author Crt
  * @author Jaakonam
  * @author Nike
  */
@@ -1003,8 +1020,12 @@ $messages['fi'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
 	'group-steward' => 'ylivalvojat',
 	'group-sysadmin' => 'järjestelmän ylläpitäjät',
+	'group-Global_bot' => 'globaalit botit',
+	'group-Global_rollback' => 'globaalit palauttajat',
 	'group-steward-member' => 'ylivalvoja',
 	'group-sysadmin-member' => 'järjestelmän ylläpitäjä',
+	'group-Global_bot-member' => 'globaalibotti',
+	'group-Global_rollback-member' => 'globaalipalauttaja',
 	'grouppage-steward' => 'm:Stewards/fi',
 );
 
@@ -1173,6 +1194,16 @@ $messages['gl'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exención de bloqueo IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertidores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'group-steward' => 'Stewards',
+	'group-sysadmin' => 'Administradores do sistema',
+	'group-Global_bot' => 'Bots globais',
+	'group-Global_rollback' => 'Revertedores globais',
+	'group-Ombudsmen' => 'Comisarios',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'administrador do sistema',
+	'group-Global_bot-member' => 'bot global',
+	'group-Global_rollback-member' => 'revertedor global',
+	'group-Ombudsmen-member' => 'comisario',
 );
 
 /** Gilaki (گیلکی)
@@ -1737,8 +1768,10 @@ $messages['kn'] = array(
 $messages['ko'] = array(
 	'sitesupport' => '기부 안내',
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
+	'group-developer-member' => '개발자',
 	'group-steward' => '스튜어드',
 	'group-steward-member' => '스튜어드',
+	'group-sysadmin-member' => '시스템 관리자',
 	'grouppage-steward' => 'm:Stewards/ko',
 );
 
@@ -2445,6 +2478,8 @@ $messages['pms'] = array(
 $messages['pnt'] = array(
 	'sitesupport' => 'Δωρεάς',
 	'tooltip-n-sitesupport' => 'Βοηθέστεν το έργον.',
+	'group-sysadmin' => 'Διαχειριστάδες συστηματί',
+	'group-sysadmin-member' => 'διαχειριστάς συστηματί',
 );
 
 /** Pashto (پښتو)
@@ -2474,6 +2509,7 @@ $messages['pt'] = array(
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
 	'group-rollbacker-member' => 'Revertedor',
+	'grouppage-founder' => '{{ns:project}}:Fundadores',
 	'group-steward' => 'Stewards',
 	'group-steward-member' => 'Steward',
 	'grouppage-steward' => 'm:Stewards/pt',
