@@ -1766,10 +1766,13 @@ $messages['kn'] = array(
  * @author Kwj2772
  */
 $messages['ko'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ko',
 	'sitesupport' => '기부 안내',
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
+	'group-developer' => '개발자',
 	'group-developer-member' => '개발자',
 	'group-steward' => '스튜어드',
+	'group-sysadmin' => '시스템 관리자',
 	'group-steward-member' => '스튜어드',
 	'group-sysadmin-member' => '시스템 관리자',
 	'grouppage-steward' => 'm:Stewards/ko',
