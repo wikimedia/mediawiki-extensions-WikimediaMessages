@@ -453,6 +453,7 @@ $messages['be-tarask'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Адкатвальнікі',
 	'grouppage-transwiki' => '{{ns:project}}:Імпартэры зь іншых вікі',
 	'group-steward' => 'Сьцюарды',
+	'group-sysadmin' => 'Сыстэмныя адміністратары',
 	'group-Global_bot' => 'Глябальныя робаты',
 	'group-Ombudsmen' => 'праваабаронцы',
 	'group-steward-member' => 'сьцюард',
@@ -2489,8 +2490,16 @@ $messages['pnt'] = array(
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
+	'wikimediamessages-desc' => 'د ويکيمېډيا ځانګړي پيغامونه',
 	'sitesupport' => 'بسپنې',
 	'tooltip-n-sitesupport' => 'زموږ ملاتړ وکړی',
+	'group-accountcreator' => 'کارن-حساب جوړونکي',
+	'group-developer' => 'پرمخبوونکي',
+	'group-accountcreator-member' => 'کارن-حساب جوړونکی',
+	'grouppage-accountcreator' => '{{ns:project}}:کارن-حساب جوړونکي',
+	'grouppage-developer' => '{{ns:project}}:پرمخبوونکي',
+	'group-sysadmin' => 'د غونډال پازوالان',
+	'group-sysadmin-member' => 'د غونډال پازوال',
 );
 
 /** Portuguese (Português)
