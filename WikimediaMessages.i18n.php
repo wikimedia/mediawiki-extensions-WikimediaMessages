@@ -72,13 +72,16 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Jon Harald Søby
  * @author Meno25
  * @author Purodha
+ * @author SPQRobin
  */
 $messages['qqq'] = array(
-	'sitesupport-url' => 'Wikimedia-specific message. Only change the link if it has a translation! ([http://wikimediafoundation.org/wiki/Special:Prefixindex/Donate/ check])',
+	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
+{{doc-important|Only change the link if it has a translation!|([http://wikimediafoundation.org/wiki/Special:Prefixindex/Donate/ check])}}',
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.",
-	'tooltip-n-sitesupport' => 'The tooltip when hovering over the "[[MediaWiki:Sitesupport/{{SUBPAGENAME}}|{{int:sitesupport}}]]" link in the sidebar.',
+	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
 	'group-accountcreator' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]]. See also {{msg|group-accountcreator-member}}.',
 	'group-founder' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/founder]] (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]). See also {{msg|group-founder-member}}.',
 	'group-accountcreator-member' => 'A member of the group {{msg|group-accountcreator}}.',
@@ -2257,13 +2260,13 @@ $messages['nl'] = array(
 	'group-ipblock-exempt' => 'Uitgezonderden van IP-adresblokkades',
 	'group-rollbacker' => 'Terugdraaiers',
 	'group-transwiki' => 'Transwiki-importeurs',
-	'group-accountcreator-member' => 'Gebruikersaanmaker',
-	'group-developer-member' => 'Ontwikkelaar',
-	'group-founder-member' => 'Grondlegger',
-	'group-import-member' => 'Importeur',
-	'group-ipblock-exempt-member' => 'Uitgezonderde van IP-adresblokkades',
-	'group-rollbacker-member' => 'Terugdraaier',
-	'group-transwiki-member' => 'Transwiki-importeur',
+	'group-accountcreator-member' => 'gebruikersaanmaker',
+	'group-developer-member' => 'ontwikkelaar',
+	'group-founder-member' => 'grondlegger',
+	'group-import-member' => 'importeur',
+	'group-ipblock-exempt-member' => 'uitgezonderde van IP-adresblokkades',
+	'group-rollbacker-member' => 'terugdraaier',
+	'group-transwiki-member' => 'transwiki-importeur',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebruikersaanmakers',
 	'grouppage-developer' => '{{ns:project}}:Ontwikkelaars',
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
@@ -2276,11 +2279,11 @@ $messages['nl'] = array(
 	'group-Global_bot' => 'Globale bots',
 	'group-Global_rollback' => 'Gobale terugdraaiers',
 	'group-Ombudsmen' => 'Ombudsmannen',
-	'group-steward-member' => 'Steward',
-	'group-sysadmin-member' => 'Systeembeheerder',
-	'group-Global_bot-member' => 'Gobale bot',
-	'group-Global_rollback-member' => 'Gobale terugdraaier',
-	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'systeembeheerder',
+	'group-Global_bot-member' => 'globale bot',
+	'group-Global_rollback-member' => 'globale terugdraaier',
+	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => 'm:Stewards/nl',
 	'grouppage-Global_rollback' => 'm:Global rollback/nl',
 );
