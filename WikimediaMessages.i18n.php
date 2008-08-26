@@ -890,6 +890,7 @@ $messages['eo'] = array(
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes específicos de Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donaciones',
 	'sitesupport' => 'Donaciones',
 	'tooltip-n-sitesupport' => 'Apóyenos',
 	'group-accountcreator' => 'Creadores de cuentas',
@@ -913,10 +914,12 @@ $messages['es'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Dispensa de bloqueo IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Que pueden deshacer',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'administradores del sistema',
 	'group-Global_bot' => 'bots globales',
 	'group-Global_rollback' => 'Pueden deshacer globalmente',
 	'group-Ombudsmen' => 'Defensores de la comunidad',
+	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'Puede deshacer globalmente',
@@ -2612,13 +2615,14 @@ $messages['roa-rup'] = array(
 
 /** Russian (Русский)
  * @author Ahonc
+ * @author Aleksandrit
  * @author Flrn
  * @author HalanTul
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
 	'wikimediamessages-desc' => 'Сообщения, специфичные для Викимедиа',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Сделать_пожертвование',
 	'sitesupport' => 'Пожертвования',
 	'tooltip-n-sitesupport' => 'Поддержите нас',
 	'group-accountcreator' => 'Создатели учётных записей',
