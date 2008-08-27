@@ -1063,13 +1063,14 @@ $messages['fo'] = array(
  * @author Grondin
  * @author Meno25
  * @author Sherbrooke
+ * @author Zetud
  * @author לערי ריינהארט
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc' => 'Messages spécifiques de Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fr',
 	'sitesupport' => 'Faire un don',
-	'tooltip-n-sitesupport' => 'Aidez nous',
+	'tooltip-n-sitesupport' => 'Aidez-nous',
 	'group-accountcreator' => 'Créateurs de comptes',
 	'group-developer' => 'Développeur',
 	'group-founder' => 'Fondateurs',
@@ -1489,6 +1490,16 @@ $messages['ia'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de blocos IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertitores',
 	'grouppage-transwiki' => '{{ns:project}}:Importatores transwiki',
+	'group-steward' => 'Stewardes',
+	'group-sysadmin' => 'Administratores de systema',
+	'group-Global_bot' => 'Bots global',
+	'group-Global_rollback' => 'Revocatores global',
+	'group-Ombudsmen' => 'Mediatores',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'administrator de systema',
+	'group-Global_bot-member' => 'bot global',
+	'group-Global_rollback-member' => 'revocator global',
+	'group-Ombudsmen-member' => 'mediator',
 );
 
 /** Indonesian (Bahasa Indonesia)
@@ -2527,9 +2538,12 @@ $messages['pt'] = array(
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
 	'group-rollbacker-member' => 'Revertedor',
+	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
 	'group-steward' => 'Stewards',
+	'group-Global_bot' => 'Robôs globais',
 	'group-steward-member' => 'Steward',
+	'group-Global_bot-member' => 'robô global',
 	'grouppage-steward' => 'm:Stewards/pt',
 );
 
