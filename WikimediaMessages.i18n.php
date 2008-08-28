@@ -3232,6 +3232,7 @@ $messages['vec'] = array(
 	'group-developer-member' => 'Svilupador',
 	'group-founder-member' => 'Fondator',
 	'group-import-member' => 'Inportador',
+	'group-ipblock-exempt-member' => 'esente dal bloco IP',
 	'group-rollbacker-member' => 'ripristinador',
 	'group-transwiki-member' => 'Inportador transwiki',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de account',
