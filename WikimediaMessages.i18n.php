@@ -92,6 +92,13 @@ $messages['qqq'] = array(
 	'grouppage-Ombudsmen' => '{{Global grouppage}}',
 );
 
+/** Niuean (ko e vagahau Niuē)
+ * @author Jose77
+ */
+$messages['niu'] = array(
+	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
+);
+
 /** Achinese (Achèh)
  * @author Andri.h
  */
@@ -537,7 +544,7 @@ $messages['bo'] = array(
 	'sitesupport' => 'ཞལ་འདེབས།',
 );
 
-/** Bishnupriya (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
+/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
 $messages['bpy'] = array(
 	'sitesupport' => 'দান দেনা',
 );
@@ -1230,7 +1237,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic (𐌲𐌿𐍄𐌹𐍃𐌺)
+/** Gothic (������������������������������������)
  * @author Jocke Pirat
  */
 $messages['got'] = array(
@@ -1899,7 +1906,7 @@ $messages['lad'] = array(
  */
 $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
-	'sitesupport-url' => 'Project:En Don maachen',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Donatiounen',
 	'tooltip-n-sitesupport' => 'Ënnerstetzt eis',
 	'group-accountcreator' => 'Benotzer déi Benotzerkonten uleeën däerfen',
