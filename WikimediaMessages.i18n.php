@@ -872,11 +872,13 @@ $messages['eo'] = array(
 	'group-founder' => 'Fondintoj',
 	'group-import' => 'Importantoj',
 	'group-ipblock-exempt' => 'Sendevigoj por IP-forbaroj',
+	'group-rollbacker' => 'Restarigantoj',
 	'group-transwiki' => 'Importintoj de Transvikio',
 	'group-accountcreator-member' => 'Kreinto de konto',
 	'group-developer-member' => 'Programisto',
 	'group-founder-member' => 'Fondinto',
 	'group-import-member' => 'Importanto',
+	'group-ipblock-exempt-member' => 'maldeviga de IP-forbaro',
 	'group-rollbacker-member' => 'Restariganto',
 	'group-transwiki-member' => 'Transvikia importanto',
 	'grouppage-accountcreator' => '{{ns:project}}:Kreintoj de kontoj',
@@ -884,14 +886,17 @@ $messages['eo'] = array(
 	'grouppage-founder' => '{{ns:project}}:Fondintoj',
 	'grouppage-import' => '{{ns:project}}:Importantoj',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Sendevigo por IP-forbaro',
+	'grouppage-rollbacker' => '{{ns:project}}:Restarigantoj',
 	'grouppage-transwiki' => '{{ns:project}}:Transvikiaj importantoj',
 	'group-steward' => 'Stevardoj',
 	'group-sysadmin' => 'Sistemaj administrantoj',
 	'group-Global_bot' => 'Äœeneralaj robotoj',
+	'group-Global_rollback' => 'Transvikia restariganto',
 	'group-Ombudsmen' => 'Arbitraciistoj',
 	'group-steward-member' => 'Stevardo',
 	'group-sysadmin-member' => 'sistema administranto',
 	'group-Global_bot-member' => 'Äœenerala roboto',
+	'group-Global_rollback-member' => 'transvikia restariganto',
 	'group-Ombudsmen-member' => 'Arbitraciisto',
 );
 
@@ -1237,7 +1242,7 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'áº½ rei",
 );
 
-/** Gothic (í €í¼²í €í¼¿í €í½„í €í¼¹í €í½ƒí €í¼º)
+/** Gothic
  * @author Jocke Pirat
  */
 $messages['got'] = array(
