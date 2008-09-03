@@ -438,7 +438,7 @@ $messages['be'] = array(
  */
 $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
-	'sitesupport-url' => 'Project:Ахвяраваньні',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Ахвяраваньні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
 	'group-accountcreator' => 'Стваральнікі рахункаў',
@@ -1649,6 +1649,7 @@ $messages['it'] = array(
 	'group-Global_rollback-member' => 'rollbacker globale',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => 'm:Stewards/it',
+	'grouppage-Global_rollback' => 'm:Global rollback/it',
 );
 
 /** Japanese (日本語)
@@ -2556,6 +2557,7 @@ $messages['pt'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas à Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pt',
 	'sitesupport' => 'Doações',
+	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'group-accountcreator' => 'Criadores de contas',
 	'group-developer' => 'Desenvolvedores',
 	'group-founder' => 'Fundadores',
