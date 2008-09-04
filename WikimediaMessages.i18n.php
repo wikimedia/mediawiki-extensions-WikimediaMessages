@@ -233,6 +233,7 @@ $messages['ar'] = array(
 	'group-Global_rollback-member' => 'مسترجع عام',
 	'group-Ombudsmen-member' => 'أومبدسمان',
 	'grouppage-steward' => 'm:Stewards/ar',
+	'grouppage-Global_rollback' => 'm:Global rollback/ar',
 );
 
 /** Aramaic (ܐܪܡܝܐ) */
