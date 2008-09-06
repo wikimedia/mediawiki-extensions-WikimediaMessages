@@ -250,10 +250,11 @@ $messages['arn'] = array(
 
 /** Egyptian Spoken Arabic (مصرى)
  * @author Ghaly
+ * @author Meno25
  */
 $messages['arz'] = array(
 	'wikimediamessages-desc' => 'رسايل خاصه بويكيميديا',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/تبرع',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/%D8%AC%D9%85%D8%B9_%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA',
 	'sitesupport' => 'التبرعات',
 	'tooltip-n-sitesupport' => 'ساندنا',
 	'group-accountcreator' => 'مؤسسين الحسابات',
@@ -492,6 +493,7 @@ $messages['bg'] = array(
 	'group-steward' => 'Стюарди',
 	'group-sysadmin' => 'Системни администратори',
 	'group-Global_bot' => 'Глобални ботове',
+	'group-Ombudsmen' => 'Омбудсмани',
 	'group-steward-member' => 'Стюард',
 	'group-sysadmin-member' => 'системен администратор',
 	'group-Global_bot-member' => 'глобален бот',
@@ -866,6 +868,7 @@ $messages['eml'] = array(
  */
 $messages['eo'] = array(
 	'wikimediamessages-desc' => 'Specifaj mesaĝoj de Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Monkolektado',
 	'sitesupport' => 'Donaci',
 	'tooltip-n-sitesupport' => 'Subteni nin per mono',
 	'group-accountcreator' => 'Kreintoj de kontoj',
@@ -1080,12 +1083,13 @@ $messages['fo'] = array(
  * @author Grondin
  * @author Meno25
  * @author Sherbrooke
+ * @author Yekrats
  * @author Zetud
  * @author לערי ריינהארט
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc' => 'Messages spécifiques de Wikimedia',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fr',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Monkolektado',
 	'sitesupport' => 'Faire un don',
 	'tooltip-n-sitesupport' => 'Aidez-nous',
 	'group-accountcreator' => 'Créateurs de comptes',
@@ -1948,6 +1952,7 @@ $messages['lb'] = array(
 	'group-Global_rollback-member' => 'Globalen Zrécksetzer',
 	'group-Ombudsmen-member' => 'Ombudsmann',
 	'grouppage-steward' => '{{ns:project}}:Stewarden',
+	'grouppage-sysadmin' => 'm:System Administrateuren',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -2043,9 +2048,14 @@ $messages['loz'] = array(
 	'tooltip-n-sitesupport' => 'Sepotisize',
 );
 
-/** Lithuanian (Lietuvių) */
+/** Lithuanian (Lietuvių)
+ * @author Hugo.arg
+ */
 $messages['lt'] = array(
 	'sitesupport' => 'Parama',
+	'group-steward' => 'Ūkvedžiai',
+	'group-sysadmin' => 'Sistemos administratoriai',
+	'group-Global_bot' => 'Globalūs botai',
 );
 
 /** Latvian (Latviešu)
@@ -3157,10 +3167,14 @@ $messages['tpi'] = array(
 	'sitesupport' => 'Givim moni',
 );
 
-/** Turkish (Türkçe) */
+/** Turkish (Türkçe)
+ * @author Karduelis
+ */
 $messages['tr'] = array(
 	'sitesupport' => 'Bağışlar',
 	'group-steward' => 'Stewardlar',
+	'group-sysadmin' => 'Sistem yöneticileri',
+	'group-sysadmin-member' => 'Sistem yöneticisi',
 	'grouppage-steward' => '{{ns:project}}:Stewardlar',
 );
 
