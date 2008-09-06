@@ -3435,6 +3435,20 @@ $messages['yue'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封鎖例外',
 	'grouppage-rollbacker' => '{{ns:project}}:反轉者',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki匯入者',
+
+	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+
+	'group-steward'         => '執行員',
+	'group-sysadmin'        => '系統管理員',
+	'group-Global_bot'      => '全域機械人',
+	'group-Global_rollback' => '全域反轉者',
+	'group-Ombudsmen'       => '申訴專員',
+
+	'group-steward-member'         => '執行員',
+	'group-sysadmin-member'        => '系統管理員',
+	'group-Global_bot-member'      => '全域機械人',
+	'group-Global_rollback-member' => '全域反轉者',
+	'group-Ombudsmen-member'       => '申訴專員',
 );
 
 /** Zeeuws (Zeêuws)
@@ -3478,6 +3492,20 @@ $messages['zh-hans'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
 	'grouppage-rollbacker' => '{{ns:project}}:反转者',
 	'grouppage-transwiki' => '{{ns:project}}:跨维基导入者',
+
+	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+
+	'group-steward'         => '监管员',
+	'group-sysadmin'        => '系统管理员',
+	'group-Global_bot'      => '全域机器人',
+	'group-Global_rollback' => '全域反转者',
+	'group-Ombudsmen'       => '申诉专员',
+
+	'group-steward-member'         => '监管员',
+	'group-sysadmin-member'        => '系统管理员',
+	'group-Global_bot-member'      => '全域机器人',
+	'group-Global_rollback-member' => '全域反转者',
+	'group-Ombudsmen-member'       => '申诉专员',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬) */
@@ -3507,6 +3535,25 @@ $messages['zh-hant'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
 	'grouppage-rollbacker' => '{{ns:project}}:反轉者',
 	'grouppage-transwiki' => '{{ns:project}}:跨維基匯入者',
+
+	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+
+	'group-steward'         => '監管員',
+	'group-sysadmin'        => '系統管理員',
+	'group-Global_bot'      => '全域機器人',
+	'group-Global_rollback' => '全域反轉者',
+	'group-Ombudsmen'       => '申訴專員',
+
+	'group-steward-member'         => '監管員',
+	'group-sysadmin-member'        => '系統管理員',
+	'group-Global_bot-member'      => '全域機器人',
+	'group-Global_rollback-member' => '全域反轉者',
+	'group-Ombudsmen-member'       => '申訴專員',
+);
+
+$messages['zh-hk'] = array(
+	'group-Global_bot'      => '全域機械人',
+	'group-Global_bot-member'      => '全域機械人',
 );
 
 /** Zulu (isiZulu)
