@@ -906,6 +906,7 @@ $messages['eo'] = array(
 
 /** Spanish (Español)
  * @author Ascánder
+ * @author Platonides
  * @author Sanbec
  */
 $messages['es'] = array(
@@ -928,11 +929,11 @@ $messages['es'] = array(
 	'group-rollbacker-member' => 'puede deshacer',
 	'group-transwiki-member' => 'Importador transwiki',
 	'grouppage-accountcreator' => '{{ns:project}}:Creadores de cuentas',
-	'grouppage-developer' => '{{ns:project}}:Desarroladores',
+	'grouppage-developer' => '{{ns:project}}:Desarrolladores',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
 	'grouppage-import' => '{{ns:project}}:Importadores',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Dispensa de bloqueo IP',
-	'grouppage-rollbacker' => '{{ns:project}}:Que pueden deshacer',
+	'grouppage-rollbacker' => '{{ns:project}}:Reversores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'administradores del sistema',
@@ -1089,7 +1090,7 @@ $messages['fo'] = array(
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc' => 'Messages spécifiques de Wikimedia',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Monkolektado',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fr',
 	'sitesupport' => 'Faire un don',
 	'tooltip-n-sitesupport' => 'Aidez-nous',
 	'group-accountcreator' => 'Créateurs de comptes',
@@ -1800,7 +1801,9 @@ $messages['km'] = array(
 	'grouppage-import' => '{{ns:project}}:អ្នកនាំចូល',
 	'grouppage-transwiki' => '{{ns:project}}:អ្នកនាំចូលអន្តរវិគី',
 	'group-sysadmin' => 'អ្នកអភិបាលប្រព័ន្ឋ',
+	'group-Ombudsmen' => 'អមប៊ុដហ្ស៍ម៉ឹន',
 	'group-sysadmin-member' => 'អ្នកអភិបាលប្រព័ន្ឋ',
+	'group-Ombudsmen-member' => 'អមប៊ុដហ្ស៍ម៉ឹន',
 );
 
 /** Kannada (ಕನ್ನಡ)
