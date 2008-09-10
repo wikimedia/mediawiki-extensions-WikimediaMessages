@@ -128,6 +128,7 @@ $messages['af'] = array(
 	'grouppage-import' => '{{ns:project}}:Importeurders',
 	'group-steward' => 'Waarde',
 	'group-steward-member' => 'Waard',
+	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => '{{ns:project}}:Waarde',
 );
 
@@ -836,10 +837,14 @@ $messages['dz'] = array(
 	'tooltip-n-sitesupport' => 'ང་བཅས་ལུ་རྒྱབ་སྐྱོར་འབད།',
 );
 
-/** Ewe (Eʋegbe) */
+/** Ewe (Eʋegbe)
+ * @author Natsubee
+ */
 $messages['ee'] = array(
 	'sitesupport' => 'Wɔ nunana',
 	'tooltip-n-sitesupport' => 'Kpe ɖe mía ŋu',
+	'group-accountcreator' => 'Ŋkɔ ŋlɔlawo',
+	'group-accountcreator-member' => 'ŋkɔ ŋlɔla',
 );
 
 /** Greek (Ελληνικά)
@@ -1829,6 +1834,7 @@ $messages['ko'] = array(
 	'group-developer-member' => '개발자',
 	'group-steward' => '스튜어드',
 	'group-sysadmin' => '시스템 관리자',
+	'group-Global_bot' => '글로벌 봇',
 	'group-steward-member' => '스튜어드',
 	'group-sysadmin-member' => '시스템 관리자',
 	'grouppage-steward' => 'm:Stewards/ko',
@@ -2677,6 +2683,7 @@ $messages['roa-rup'] = array(
 /** Russian (Русский)
  * @author Ahonc
  * @author Aleksandrit
+ * @author AlexSm
  * @author Flrn
  * @author HalanTul
  * @author Александр Сигачёв
@@ -2697,7 +2704,7 @@ $messages['ru'] = array(
 	'group-developer-member' => 'разработчик',
 	'group-founder-member' => 'основатель',
 	'group-import-member' => 'импортёр',
-	'group-ipblock-exempt-member' => 'исключение из IP-блокировки',
+	'group-ipblock-exempt-member' => 'исключение из IP-блокировок',
 	'group-rollbacker-member' => 'откатывающий',
 	'group-transwiki-member' => 'импортёр из Transwiki',
 	'grouppage-accountcreator' => '{{ns:project}}:Создатели учётных записей',
