@@ -120,6 +120,7 @@ $messages['af'] = array(
 	'group-developer' => 'Ontwikkelaars',
 	'group-founder' => 'Grondleggers',
 	'group-import' => 'Importeurders',
+	'group-transwiki' => 'Transwiki-importeurs',
 	'group-developer-member' => 'Ontwikkelaar',
 	'group-founder-member' => 'Grondlegger',
 	'group-import-member' => 'Importeurder',
@@ -127,7 +128,9 @@ $messages['af'] = array(
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
 	'grouppage-import' => '{{ns:project}}:Importeurders',
 	'group-steward' => 'Waarde',
+	'group-Global_bot' => 'Globale botte',
 	'group-steward-member' => 'Waard',
+	'group-Global_bot-member' => 'globale bot',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => '{{ns:project}}:Waarde',
 );
@@ -1087,6 +1090,7 @@ $messages['fo'] = array(
 
 /** French (Français)
  * @author Grondin
+ * @author IAlex
  * @author Meno25
  * @author Sherbrooke
  * @author Yekrats
@@ -1099,12 +1103,12 @@ $messages['fr'] = array(
 	'sitesupport' => 'Faire un don',
 	'tooltip-n-sitesupport' => 'Aidez-nous',
 	'group-accountcreator' => 'Créateurs de comptes',
-	'group-developer' => 'Développeur',
+	'group-developer' => 'Développeurs',
 	'group-founder' => 'Fondateurs',
-	'group-import' => 'Importateur',
+	'group-import' => 'Importateurs',
 	'group-ipblock-exempt' => 'Exemptions de blocs IP',
 	'group-rollbacker' => 'Réverteurs',
-	'group-transwiki' => 'Importateur Transwiki',
+	'group-transwiki' => 'Importateurs transwiki',
 	'group-accountcreator-member' => 'Créateur de comptes',
 	'group-developer-member' => 'Développeur',
 	'group-founder-member' => 'Fondateur',
@@ -2531,9 +2535,12 @@ $messages['pl'] = array(
 	'grouppage-developer' => '{{ns:project}}:Deweloperzy',
 	'grouppage-founder' => '{{ns:project}}:Założyciele',
 	'grouppage-import' => '{{ns:project}}:Importerzy',
+	'grouppage-transwiki' => '{{ns:project}}:Importerzy transwiki',
 	'group-steward' => 'Stewardzi',
+	'group-sysadmin' => 'Administratorzy systemu',
 	'group-Global_bot' => 'Boty globalne',
 	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'administrator systemu',
 	'group-Global_bot-member' => 'Bot globalny',
 	'grouppage-steward' => 'm:Stewards/pl',
 );
