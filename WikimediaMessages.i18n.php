@@ -3296,6 +3296,7 @@ $messages['uz'] = array(
  */
 $messages['vec'] = array(
 	'wikimediamessages-desc' => 'Messagi specifici de Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/vec',
 	'sitesupport' => 'Donassioni',
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'group-accountcreator' => 'Creatori de account',
