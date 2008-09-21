@@ -1836,6 +1836,7 @@ $messages['ko'] = array(
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'group-developer' => '개발자',
 	'group-developer-member' => '개발자',
+	'grouppage-developer' => '{{ns:project}}:개발자',
 	'group-steward' => '스튜어드',
 	'group-sysadmin' => '시스템 관리자',
 	'group-Global_bot' => '글로벌 봇',
@@ -2115,12 +2116,26 @@ $messages['mi'] = array(
 );
 
 /** Macedonian (Македонски)
+ * @author Brest
  * @author Misos
  */
 $messages['mk'] = array(
+	'wikimediamessages-desc' => 'Викимедија специфични пораки',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Донации',
+	'tooltip-n-sitesupport' => 'Подржете не',
+	'group-developer' => 'Развивачи',
+	'group-founder' => 'Основачи',
+	'group-developer-member' => 'развивач',
+	'group-founder-member' => 'основач',
 	'group-steward' => 'Стјуарди',
+	'group-sysadmin' => 'Систем администратори',
+	'group-Global_bot' => 'Глобални ботови',
+	'group-Ombudsmen' => 'Омбудсман',
 	'group-steward-member' => 'Стјуард',
+	'group-sysadmin-member' => 'систем администратор',
+	'group-Global_bot-member' => 'глобален бот',
+	'group-Ombudsmen-member' => 'омбудсман',
 );
 
 /** Malayalam (മലയാളം)
@@ -2850,6 +2865,7 @@ $messages['si'] = array(
  */
 $messages['sk'] = array(
 	'wikimediamessages-desc' => 'Správy špecifické pre Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Zbieranie_príspevkov',
 	'sitesupport' => 'Podpora',
 	'tooltip-n-sitesupport' => 'Podporte nás',
 	'group-accountcreator' => 'Tvorcovia účtov',
@@ -2989,14 +3005,37 @@ $messages['stq'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spändje',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unnerstutse uus',
+	'group-accountcreator' => 'Benutserkonten-Moakere',
 	'group-developer' => 'Systemadministrator',
+	'group-founder' => 'Gruundere',
 	'group-import' => 'Importeur',
+	'group-ipblock-exempt' => 'IP-Speere-Uutnoamen',
+	'group-rollbacker' => 'Touräächsättere',
+	'group-transwiki' => 'Transwiki-Importeure',
+	'group-accountcreator-member' => 'Benutserkonten-Moaker',
+	'group-developer-member' => 'Systemadministrator',
+	'group-founder-member' => 'Gruunder',
+	'group-import-member' => 'Importeur',
+	'group-ipblock-exempt-member' => 'IP-Speere-Uutnoame',
+	'group-rollbacker-member' => 'Touräächsätter',
 	'group-transwiki-member' => 'Transwiki-Importeur',
+	'grouppage-accountcreator' => '{{ns:project}}:Benutserkonten-Moakere',
 	'grouppage-developer' => '{{ns:project}}:Systemadministratore',
+	'grouppage-founder' => '{{ns:project}}:Gruundere',
 	'grouppage-import' => '{{ns:project}}:Importeure',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Speere-Uutnoame',
+	'grouppage-rollbacker' => '{{ns:project}}:Touräächsättere',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeure',
-	'group-steward' => 'Stewards',
+	'group-steward' => 'Stewarde',
+	'group-sysadmin' => 'Systemadministratore',
+	'group-Global_bot' => 'Globoale Bots',
+	'group-Global_rollback' => 'Globoale Touräächsättere',
+	'group-Ombudsmen' => 'Ombudsljuude',
 	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'Systemadministrator',
+	'group-Global_bot-member' => 'Globoalen Bot',
+	'group-Global_rollback-member' => 'Globoalen Touräächsätter',
+	'group-Ombudsmen-member' => 'Ombudspersoon',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
 );
 
