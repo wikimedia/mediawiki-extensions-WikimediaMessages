@@ -25,6 +25,9 @@ $messages['en'] = array(
 ** helppage|help
 ** sitesupport-url|sitesupport', # do not translate or duplicate this message to other languages
 
+	# Per http://lists.wikimedia.org/pipermail/wikitech-l/2008-September/039454.html
+	'robots.txt'  => '# Lines here will be added to the global robots.txt', # do not translate or duplicate this message to other languages
+
 	# Wikimedia specific usergroups
 	'group-accountcreator'        => 'Account creators',
 	'group-developer'             => 'Developers',
