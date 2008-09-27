@@ -81,6 +81,7 @@ $messages['en'] = array(
  * @author SPQRobin
  */
 $messages['qqq'] = array(
+	'wikimediamessages-desc' => 'Short description of the Wikimediamessages extension, shown in [[Special:Version]]. Do not translate or change links.',
 	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
 {{doc-important|Only change the link if it has a translation!|([http://wikimediafoundation.org/wiki/Special:Prefixindex/Donate/ check])}}',
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.",
@@ -2527,6 +2528,7 @@ $messages['pih'] = array(
 /** Polish (Polski)
  * @author Beau
  * @author Derbeth
+ * @author Leinad
  * @author Meno25
  * @author Sp5uhe
  */
@@ -2553,13 +2555,19 @@ $messages['pl'] = array(
 	'grouppage-developer' => '{{ns:project}}:Deweloperzy',
 	'grouppage-founder' => '{{ns:project}}:Założyciele',
 	'grouppage-import' => '{{ns:project}}:Importerzy',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Uprawnieni do logowania się z zablokowanych adresów IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Uprawnieni do wycofywania edycji',
 	'grouppage-transwiki' => '{{ns:project}}:Importerzy transwiki',
 	'group-steward' => 'Stewardzi',
 	'group-sysadmin' => 'Administratorzy systemu',
 	'group-Global_bot' => 'Boty globalne',
+	'group-Global_rollback' => 'Globalnie uprawnieni do wycofywania edycji',
+	'group-Ombudsmen' => 'Rzecznicy praw',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrator systemu',
 	'group-Global_bot-member' => 'Bot globalny',
+	'group-Global_rollback-member' => 'globalnie uprawniony do wycofywania edycji',
+	'group-Ombudsmen-member' => 'rzecznik praw',
 	'grouppage-steward' => 'm:Stewards/pl',
 );
 
@@ -2736,7 +2744,7 @@ $messages['ru'] = array(
 	'grouppage-developer' => '{{ns:project}}:Разработчики',
 	'grouppage-founder' => '{{ns:project}}:Основатели',
 	'grouppage-import' => '{{ns:project}}:Импортёры',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:Исключение из IP-блокировки',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Исключение из IP-блокировок',
 	'grouppage-rollbacker' => '{{ns:project}}:Откатывающие',
 	'grouppage-transwiki' => '{{ns:project}}:Импортёры из Transwiki',
 	'group-steward' => 'Стюарды',
