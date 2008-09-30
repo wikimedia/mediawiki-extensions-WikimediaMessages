@@ -2628,6 +2628,7 @@ $messages['ps'] = array(
 /** Portuguese (Português)
  * @author 555
  * @author Malafaya
+ * @author Sir Lestaty de Lioncourt
  */
 $messages['pt'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas à Wikimedia',
@@ -2638,21 +2639,33 @@ $messages['pt'] = array(
 	'group-developer' => 'Desenvolvedores',
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
+	'group-ipblock-exempt' => 'IPs não bloqueados',
 	'group-rollbacker' => 'Revertedores',
 	'group-transwiki' => 'Importadores Transwiki',
 	'group-accountcreator-member' => 'Criador de contas',
 	'group-developer-member' => 'Desenvolvedor',
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
+	'group-ipblock-exempt-member' => 'IPs não bloqueados',
 	'group-rollbacker-member' => 'Revertedor',
+	'group-transwiki-member' => 'importador transwiki',
 	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
+	'grouppage-developer' => '{{ns:project}}:Desenvolvedores',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
+	'grouppage-import' => '{{ns:project}}:Importadores',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP não bloqueado',
+	'grouppage-rollbacker' => '{{ns:project}}:Revertedores',
+	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administradores de sistema',
 	'group-Global_bot' => 'Robôs globais',
+	'group-Global_rollback' => 'Revertedores globais',
+	'group-Ombudsmen' => 'Ouvidores',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrador de sistema',
 	'group-Global_bot-member' => 'robô global',
+	'group-Global_rollback-member' => 'revertedor global',
+	'group-Ombudsmen-member' => 'ouvidor',
 	'grouppage-steward' => 'm:Stewards/pt',
 );
 
