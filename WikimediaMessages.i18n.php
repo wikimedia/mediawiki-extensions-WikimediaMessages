@@ -1862,6 +1862,7 @@ $messages['ko'] = array(
 	'sitesupport' => '기부 안내',
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'group-developer' => '개발자',
+	'group-founder' => '설립자',
 	'group-developer-member' => '개발자',
 	'grouppage-developer' => '{{ns:project}}:개발자',
 	'group-steward' => '스튜어드',
