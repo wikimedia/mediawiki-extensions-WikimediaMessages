@@ -72,6 +72,13 @@ $messages['en'] = array(
 	'grouppage-Global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
 	'grouppage-Global_rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
 	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
+
+	# mediawiki.org specific user group
+
+	'group-coder'        => 'Coders',
+	'group-coder-member' => 'coder',
+	'grouppage-coder'    => 'Project:Coder', # only translate this message to other languages if you have to change it
+	
 );
 
 /** Message documentation (Message documentation)
