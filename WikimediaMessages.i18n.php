@@ -1388,6 +1388,8 @@ $messages['he'] = array(
 	'group-Global_bot-member' => 'בוט גלובלי',
 	'group-Global_rollback-member' => 'משחזר גלובלי',
 	'group-Ombudsmen-member' => 'נציב תלונות הציבור',
+	'group-coder' => 'מתכנתים',
+	'group-coder-member' => 'מתכנת',
 );
 
 /** Hindi (हिन्दी)
