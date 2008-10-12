@@ -1293,6 +1293,8 @@ $messages['gl'] = array(
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'revertedor global',
 	'group-Ombudsmen-member' => 'comisario',
+	'group-coder' => 'Codificadores',
+	'group-coder-member' => 'codificador',
 );
 
 /** Gilaki (گیلکی)
@@ -1583,6 +1585,9 @@ $messages['ia'] = array(
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'revocator global',
 	'group-Ombudsmen-member' => 'mediator',
+	'group-coder' => 'Programmatores',
+	'group-coder-member' => 'programmator',
+	'grouppage-coder' => 'Project:Programmator',
 );
 
 /** Indonesian (Bahasa Indonesia)
