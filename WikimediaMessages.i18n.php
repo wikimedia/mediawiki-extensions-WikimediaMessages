@@ -272,6 +272,9 @@ $messages['ar'] = array(
 	'group-Ombudsmen-member' => 'أومبدسمان',
 	'grouppage-steward' => 'm:Stewards/ar',
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
+	'group-coder' => 'مكودون',
+	'group-coder-member' => 'مكود',
+	'grouppage-coder' => 'Project:مكود',
 );
 
 /** Aramaic (ܐܪܡܝܐ) */
@@ -326,6 +329,11 @@ $messages['arz'] = array(
 	'group-Global_bot-member' => 'بوت عام',
 	'group-Global_rollback-member' => 'مسترجع عام',
 	'group-Ombudsmen-member' => 'اومبدادزمان',
+	'grouppage-steward' => 'm:Stewards/ar',
+	'grouppage-Global_rollback' => 'm:Global rollback/ar',
+	'group-coder' => 'مكودون',
+	'group-coder-member' => 'مكود',
+	'grouppage-coder' => 'Project:مكود',
 );
 
 /** Assamese (অসমীয়া)
@@ -763,6 +771,8 @@ $messages['cs'] = array(
 	'group-Global_bot-member' => 'globální bot',
 	'group-Global_rollback-member' => 'globální revertovatel',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-coder' => 'Programátoři',
+	'group-coder-member' => 'programátor',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -805,12 +815,12 @@ $messages['de'] = array(
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
 	'group-accountcreator' => 'Benutzerkonten-Ersteller',
-	'group-developer' => 'Developer',
+	'group-developer' => 'Systemadministratoren',
 	'group-founder' => 'Gründer',
-	'group-import' => 'Importeur',
+	'group-import' => 'Importeure',
 	'group-ipblock-exempt' => 'IP-Sperre-Ausnahmen',
 	'group-rollbacker' => 'Zurücksetzer',
-	'group-transwiki' => 'Transwiki-Importeur',
+	'group-transwiki' => 'Transwiki-Importeure',
 	'group-accountcreator-member' => 'Benutzerkonten-Ersteller',
 	'group-developer-member' => 'Systemadministrator',
 	'group-founder-member' => 'Gründer',
@@ -836,6 +846,8 @@ $messages['de'] = array(
 	'group-Global_rollback-member' => 'Globaler Zurücksetzer',
 	'group-Ombudsmen-member' => 'Ombudsperson',
 	'grouppage-steward' => 'm:Stewards/de',
+	'group-coder' => 'Programmierer',
+	'group-coder-member' => 'Programmierer',
 );
 
 /** German (formal address) (Deutsch (Sie-Form))
@@ -1049,6 +1061,8 @@ $messages['fa'] = array(
 	'group-Global_bot-member' => 'ربات سراسری',
 	'group-Global_rollback-member' => 'واگردانی‌کنندهٔ سراسری',
 	'group-Ombudsmen-member' => 'دادآور',
+	'group-coder' => 'برنامه‌نویسان',
+	'group-coder-member' => 'برنامه‌نویس',
 );
 
 /** Fulah (Fulfulde) */
@@ -1168,6 +1182,8 @@ $messages['fr'] = array(
 	'group-Global_rollback-member' => 'Reverteur global',
 	'group-Ombudsmen-member' => 'Commissaire',
 	'grouppage-steward' => 'm:Stewards/fr',
+	'group-coder' => 'Codeurs',
+	'group-coder-member' => 'codeur',
 );
 
 /** Cajun French (Français cadien)
@@ -1609,6 +1625,8 @@ $messages['id'] = array(
 	'group-Global_rollback-member' => 'Pengembali revisi global',
 	'group-Ombudsmen-member' => 'Ombudsman',
 	'grouppage-steward' => 'm:Stewards/id',
+	'group-coder' => 'Programer',
+	'group-coder-member' => 'programer',
 );
 
 /** Interlingue (Interlingue)
@@ -1928,6 +1946,8 @@ $messages['ksh'] = array(
 	'group-Global_bot-member' => 'Bot för all Wikis',
 	'group-Global_rollback-member' => 'Zeröcknämmer för all Wikis',
 	'group-Ombudsmen-member' => 'Vermeddeler',
+	'group-coder' => 'Projrammierer',
+	'group-coder-member' => 'Projrammierer',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */
@@ -2004,6 +2024,8 @@ $messages['lb'] = array(
 	'group-Ombudsmen-member' => 'Ombudsmann',
 	'grouppage-steward' => '{{ns:project}}:Stewarden',
 	'grouppage-sysadmin' => 'm:System Administrateuren',
+	'group-coder' => 'Programméierer',
+	'group-coder-member' => 'Programméierer',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -2249,6 +2271,8 @@ $messages['ms'] = array(
 	'group-Global_bot-member' => 'Bot sejagat',
 	'group-Global_rollback-member' => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-coder' => 'Pengekod',
+	'group-coder-member' => 'pengekod',
 );
 
 /** Maltese (Malti)
@@ -2408,6 +2432,8 @@ $messages['nl'] = array(
 	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => 'm:Stewards/nl',
 	'grouppage-Global_rollback' => 'm:Global rollback/nl',
+	'group-coder' => 'programmeurs',
+	'group-coder-member' => 'programmeur',
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
@@ -2461,6 +2487,8 @@ $messages['no'] = array(
 	'group-Ombudsmen-member' => 'ombudsmann',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
+	'group-coder' => 'Kodere',
+	'group-coder-member' => 'koder',
 );
 
 /** Novial (Novial)
@@ -2517,6 +2545,8 @@ $messages['oc'] = array(
 	'group-Global_bot-member' => 'Bòt global',
 	'group-Global_rollback-member' => 'Revocaire global',
 	'group-Ombudsmen-member' => 'Comissari',
+	'group-coder' => 'Encodaires',
+	'group-coder-member' => 'encodaire',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
@@ -2958,6 +2988,8 @@ $messages['sk'] = array(
 	'group-Global_bot-member' => 'Globálny robot',
 	'group-Global_rollback-member' => 'Globálny rollbacker',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-coder' => 'Kóderi',
+	'group-coder-member' => 'kóder',
 );
 
 /** Slovenian (Slovenščina) */
@@ -3186,6 +3218,8 @@ $messages['sv'] = array(
 	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
+	'group-coder' => 'Kodare',
+	'group-coder-member' => 'kodare',
 );
 
 /** Swahili (Kiswahili)
@@ -3428,6 +3462,8 @@ $messages['vec'] = array(
 	'group-Global_bot-member' => 'bot globale',
 	'group-Global_rollback-member' => 'ripristinador globale',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-coder' => 'Programatori',
+	'group-coder-member' => 'programator',
 );
 
 /** Vietnamese (Tiếng Việt)
@@ -3441,7 +3477,7 @@ $messages['vi'] = array(
 	'sitesupport' => 'Quyên góp',
 	'tooltip-n-sitesupport' => 'Hãy hỗ trợ chúng tôi',
 	'group-accountcreator' => 'Người mở tài khoản',
-	'group-developer' => 'Lập trình viên',
+	'group-developer' => 'Người phát triển',
 	'group-founder' => 'Nhà sáng lập',
 	'group-import' => 'Người nhập trang',
 	'group-ipblock-exempt' => 'Người được miễn cấm IP',
@@ -3455,7 +3491,7 @@ $messages['vi'] = array(
 	'group-rollbacker-member' => 'Người lùi sửa',
 	'group-transwiki-member' => 'Người nhập trang giữa wiki',
 	'grouppage-accountcreator' => '{{ns:project}}:Người mở tài khoản',
-	'grouppage-developer' => '{{ns:project}}:Lập trình viên',
+	'grouppage-developer' => '{{ns:project}}:Người phát triển',
 	'grouppage-founder' => '{{ns:project}}:Nhà sáng lập',
 	'grouppage-import' => '{{ns:project}}:Người nhập trang',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Người được miễn cấm IP',
@@ -3471,6 +3507,8 @@ $messages['vi'] = array(
 	'group-Global_bot-member' => 'robot toàn cầu',
 	'group-Global_rollback-member' => 'người lùi sửa toàn cầu',
 	'group-Ombudsmen-member' => 'thanh tra viên',
+	'group-coder' => 'Lập trình viên',
+	'group-coder-member' => 'lập trình viên',
 );
 
 /** Volapük (Volapük)
