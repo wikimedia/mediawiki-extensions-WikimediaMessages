@@ -385,6 +385,8 @@ $messages['ast'] = array(
 	'group-Global_rollback-member' => 'revertidor global',
 	'group-Ombudsmen-member' => 'comisariu',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
+	'group-coder' => 'Codificadores',
+	'group-coder-member' => 'codificador',
 );
 
 /** Avaric (Авар) */
@@ -545,6 +547,8 @@ $messages['bg'] = array(
 	'group-Global_bot-member' => 'глобален бот',
 	'group-Ombudsmen-member' => 'омбудсман',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
+	'group-coder' => 'Програмисти',
+	'group-coder-member' => 'програмист',
 );
 
 /** Bambara (Bamanankan) */
@@ -956,6 +960,8 @@ $messages['eo'] = array(
 	'group-Global_bot-member' => 'Ĝenerala roboto',
 	'group-Global_rollback-member' => 'transvikia restariganto',
 	'group-Ombudsmen-member' => 'Arbitraciisto',
+	'group-coder' => 'Programistoj',
+	'group-coder-member' => 'programisto',
 );
 
 /** Spanish (Español)
@@ -1477,6 +1483,8 @@ $messages['hr'] = array(
 	'group-Global_rollback-member' => 'globalni uklonitelj',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => '{{ns:project}}:Stjuardi',
+	'group-coder' => 'Programeri',
+	'group-coder-member' => 'programer',
 );
 
 /** Upper Sorbian (Hornjoserbsce)
@@ -2707,13 +2715,15 @@ $messages['pt'] = array(
 	'group-sysadmin' => 'Administradores de sistema',
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_rollback' => 'Revertedores globais',
-	'group-Ombudsmen' => 'Ouvidores',
+	'group-Ombudsmen' => 'Mediadores',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrador de sistema',
 	'group-Global_bot-member' => 'robô global',
 	'group-Global_rollback-member' => 'revertedor global',
-	'group-Ombudsmen-member' => 'ouvidor',
+	'group-Ombudsmen-member' => 'mediador',
 	'grouppage-steward' => 'm:Stewards/pt',
+	'group-coder' => 'Codificadores',
+	'group-coder-member' => 'codificador',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -2841,6 +2851,8 @@ $messages['ru'] = array(
 	'group-Global_rollback-member' => 'глобальный откатывающий',
 	'group-Ombudsmen-member' => 'омбудсмен',
 	'grouppage-steward' => 'm:Stewards/ru',
+	'group-coder' => 'Программисты',
+	'group-coder-member' => 'программист',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
@@ -3416,6 +3428,8 @@ $messages['uk'] = array(
 	'group-Global_rollback-member' => 'глобальний відкочувач',
 	'group-Ombudsmen-member' => 'омбудсмен',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
+	'group-coder' => 'Програмісти',
+	'group-coder-member' => 'програміст',
 );
 
 /** Urdu (اردو) */
