@@ -515,8 +515,10 @@ $messages['be-tarask'] = array(
 	'group-steward' => 'Сьцюарды',
 	'group-sysadmin' => 'Сыстэмныя адміністратары',
 	'group-Global_bot' => 'Глябальныя робаты',
+	'group-Global_rollback' => 'Глябальныя адкатвальнікі',
 	'group-Ombudsmen' => 'праваабаронцы',
 	'group-steward-member' => 'сьцюард',
+	'group-sysadmin-member' => 'сыстэмны адміністратар',
 	'group-Global_bot-member' => 'глябальны робат',
 	'group-Ombudsmen-member' => 'праваабаронца',
 );
@@ -600,6 +602,16 @@ $messages['bo'] = array(
 /** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
 $messages['bpy'] = array(
 	'sitesupport' => 'দান দেনা',
+);
+
+/** Bakhtiari (بختياري)
+ * @author Behdarvandyani
+ */
+$messages['bqi'] = array(
+	'wikimediamessages-desc' => 'پیام‌های مخصوص ویکی‌مدیا',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bqi',
+	'sitesupport' => 'کمک مالی',
+	'tooltip-n-sitesupport' => 'حمایت زه ایما',
 );
 
 /** Breton (Brezhoneg)
@@ -1330,6 +1342,14 @@ $messages['got'] = array(
 $messages['grc'] = array(
 	'sitesupport' => 'Δῶρα',
 	'tooltip-n-sitesupport' => 'Τρέφειν ἡμᾶς',
+	'group-accountcreator' => 'Ποιητὲς λογισμῶν',
+	'group-developer' => 'Ἐμφανισταί',
+	'group-founder' => 'Ἱδρυταί',
+	'group-import' => 'Εἰσαγωγεῖς',
+	'group-rollbacker' => 'Μεταστροφεῖς',
+	'group-steward-member' => 'φροντιστής',
+	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς',
+	'group-coder' => 'Κωδικεύοντες',
 );
 
 /** Swiss German (Alemannisch) */
@@ -3289,10 +3309,20 @@ $messages['tet'] = array(
 );
 
 /** Tajik (Cyrillic) (Тоҷикӣ (Cyrillic))
+ * @author Ibrahim
  * @author לערי ריינהארט
  */
 $messages['tg-cyrl'] = array(
 	'sitesupport' => 'Кӯмаки молӣ',
+	'group-founder-member' => 'асосгузор',
+	'group-import-member' => 'воридкунанда',
+	'group-ipblock-exempt-member' => 'Истиснои қатъи дастрасии нишонаи интернетӣ',
+	'group-rollbacker-member' => 'вогардоникунанда',
+	'group-transwiki-member' => 'воридкунандаи трансвики',
+	'grouppage-accountcreator' => '{{ns:project}}:Созандагони ҳисоби корбарӣ',
+	'grouppage-developer' => '{{ns:project}}:Таъвсиядиҳандагон',
+	'grouppage-founder' => '{{ns:project}}:Асосгузорон',
+	'grouppage-import' => '{{ns:project}}:Воридкунандагон',
 );
 
 /** Thai (ไทย) */
