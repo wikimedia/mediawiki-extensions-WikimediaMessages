@@ -1513,6 +1513,25 @@ $messages['hr'] = array(
 $messages['hsb'] = array(
 	'sitesupport' => 'Dary',
 	'tooltip-n-sitesupport' => 'Podpěrajće nas',
+	'group-accountcreator' => 'Kontowi załožerjo',
+	'group-developer' => 'Wuwiwarjo',
+	'group-founder' => 'Załožerjo',
+	'group-import' => 'Importerojo',
+	'group-transwiki' => 'Transwiki importerojo',
+	'group-accountcreator-member' => 'Kontowe załožer',
+	'group-developer-member' => 'wuwiwar',
+	'group-founder-member' => 'załožer',
+	'group-import-member' => 'importer',
+	'group-transwiki-member' => 'transwiki importer',
+	'grouppage-accountcreator' => '{{ns:project}}:Kontowi załožerjo',
+	'grouppage-developer' => '{{ns:project}}:Wuwiwarjo',
+	'grouppage-founder' => '{{ns:project}}:Załožerjo',
+	'grouppage-import' => '{{ns:project}}:Importerojo',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki importerojo',
+	'group-steward' => 'Stewardźa',
+	'group-sysadmin' => 'Systemowi administratorojo',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'systemowy administrator',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -2667,6 +2686,8 @@ $messages['pl'] = array(
 	'group-Global_rollback-member' => 'globalnie uprawniony do wycofywania edycji',
 	'group-Ombudsmen-member' => 'rzecznik praw',
 	'grouppage-steward' => 'm:Stewards/pl',
+	'group-coder' => 'Programiści',
+	'group-coder-member' => 'programista',
 );
 
 /** Piedmontese (Piemontèis) */
@@ -2748,10 +2769,14 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (Português do Brasil)
  * @author 555
+ * @author Carla404
  */
 $messages['pt-br'] = array(
 	'sitesupport' => 'Doações',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
+	'group-developer' => 'Desenvolvedores',
+	'group-founder' => 'Fundadores',
+	'group-import' => 'Importadores',
 );
 
 /** Quechua (Runa Simi)
