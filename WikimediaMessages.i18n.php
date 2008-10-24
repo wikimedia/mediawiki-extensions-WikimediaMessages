@@ -881,12 +881,33 @@ $messages['diq'] = array(
 );
 
 /** Lower Sorbian (Dolnoserbski)
+ * @author Michawiki
  * @author Pe7er
  * @author Qualia
  */
 $messages['dsb'] = array(
+	'wikimediamessages-desc' => 'Zdźělenja specifiske za Wikimediju',
 	'sitesupport' => 'Dary',
 	'tooltip-n-sitesupport' => 'Pódpěraj nas',
+	'group-accountcreator' => 'Kontowe załožarje',
+	'group-developer' => 'Wuwiwarje',
+	'group-founder' => 'Załožarje',
+	'group-import' => 'Importery',
+	'group-transwiki' => 'Transwiki importery',
+	'group-accountcreator-member' => 'kontowy załožaŕ',
+	'group-developer-member' => 'wuwiwaŕ',
+	'group-founder-member' => 'załožaŕ',
+	'group-import-member' => 'importer',
+	'group-transwiki-member' => 'transwiki importer',
+	'grouppage-accountcreator' => '{{ns:project}}:Kontowe załožarje',
+	'grouppage-developer' => '{{ns:project}}:Wuwiwarje',
+	'grouppage-founder' => '{{ns:project}}:Załožarje',
+	'grouppage-import' => '{{ns:project}}:Importery',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki importery',
+	'group-steward' => 'Stewardy',
+	'group-sysadmin' => 'Systemowe administratory',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'systemowy administrator',
 );
 
 /** Divehi (ދިވެހިބަސް) */
@@ -2954,10 +2975,46 @@ $messages['sah'] = array(
 );
 
 /** Sicilian (Sicilianu)
+ * @author Gmelfi
  * @author לערי ריינהארט
  */
 $messages['scn'] = array(
+	'wikimediamessages-desc' => 'Missaggi spicifici di Wikimedia',
 	'sitesupport' => 'Dunazzioni',
+	'tooltip-n-sitesupport' => 'Sustinìticci',
+	'group-accountcreator' => 'Criatura di cunti',
+	'group-developer' => 'Sviluppatura',
+	'group-founder' => 'Funnatura',
+	'group-import' => 'Mpurtatura',
+	'group-ipblock-exempt' => 'Esenti dû bloccu IP',
+	'group-rollbacker' => 'Ripristinatura',
+	'group-transwiki' => 'Mpurtaturi transwiki',
+	'group-accountcreator-member' => 'Criaturi di cuntu',
+	'group-developer-member' => 'Sviluppaturi',
+	'group-founder-member' => 'Funnaturi',
+	'group-import-member' => 'Mpurtaturi',
+	'group-ipblock-exempt-member' => 'Esenti dû bloccu IP',
+	'group-rollbacker-member' => 'Ripristinaturi',
+	'group-transwiki-member' => 'Mpurtaturi transwiki',
+	'grouppage-accountcreator' => '{{ns:project}}:Criatura di cunti',
+	'grouppage-developer' => '{{ns:project}}:Sviluppatura',
+	'grouppage-founder' => '{{ns:project}}:Funnatura',
+	'grouppage-import' => '{{ns:project}}:Mpurtatura',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dû bloccu IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Ripristinatura',
+	'grouppage-transwiki' => '{{ns:project}}:Mpurtatura transwiki',
+	'group-steward' => 'Stiùwart',
+	'group-sysadmin' => 'Amministratura di sistema',
+	'group-Global_bot' => 'Bot glubbali',
+	'group-Global_rollback' => 'Ripristinatura glubbali',
+	'group-Ombudsmen' => 'Difinsura civici',
+	'group-steward-member' => 'Stiùwart',
+	'group-sysadmin-member' => 'amministraturi di sistema',
+	'group-Global_bot-member' => 'bot glubbali',
+	'group-Global_rollback-member' => 'ripristinaturi glubbali',
+	'group-Ombudsmen-member' => 'difinsuri cìvicu',
+	'grouppage-steward' => 'm:Stewards',
+	'grouppage-sysadmin' => 'm:System administrators',
 );
 
 /** Scots (Scots)
