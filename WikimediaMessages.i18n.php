@@ -647,12 +647,16 @@ $messages['br'] = array(
 );
 
 /** Bosnian (Bosanski)
+ * @author CERminator
  * @author Demicx
  * @author לערי ריינהארט
  */
 $messages['bs'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bs',
 	'sitesupport' => 'Donacije',
 	'tooltip-n-sitesupport' => 'Podržite nas',
+	'group-founder' => 'Osnivači',
+	'group-founder-member' => 'osnivač',
 );
 
 /** Catalan (Català)
