@@ -816,6 +816,7 @@ $messages['cv'] = array(
  */
 $messages['cy'] = array(
 	'sitesupport' => 'Rhoi arian',
+	'tooltip-n-sitesupport' => "Ein cefnogi'n ariannol",
 );
 
 /** Danish (Dansk)
