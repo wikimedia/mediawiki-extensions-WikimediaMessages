@@ -404,7 +404,7 @@ $messages['avk'] = array(
 	'tooltip-n-sitesupport' => 'Va cin zobel !',
 );
 
-/** Aymara (Aymar) */
+/** Aymara (Aymar aru) */
 $messages['ay'] = array(
 	'sitesupport' => 'Ramañanaka',
 );
@@ -425,6 +425,10 @@ $messages['ba'] = array(
  */
 $messages['bat-smg'] = array(
 	'sitesupport' => 'Pagelba',
+	'group-steward' => 'Gaspaduorē',
+	'group-sysadmin' => 'Sėstėmas admėnėstratuorē',
+	'group-Global_bot' => 'Gluobalūs buotā',
+	'group-Global_bot-member' => 'gluobalus buots',
 );
 
 /** Southern Balochi (بلوچی مکرانی)
@@ -1022,7 +1026,7 @@ $messages['es'] = array(
 	'group-rollbacker' => 'Pueden deshacer',
 	'group-transwiki' => 'Importadores transwiki',
 	'group-accountcreator-member' => 'creador de la cuenta',
-	'group-developer-member' => 'desarrolador',
+	'group-developer-member' => 'desarrollador',
 	'group-founder-member' => 'fundador',
 	'group-import-member' => 'importador',
 	'group-ipblock-exempt-member' => 'dispensa de bloqueo IP',
@@ -1971,6 +1975,7 @@ $messages['ko'] = array(
 	'group-developer' => '개발자',
 	'group-founder' => '설립자',
 	'group-developer-member' => '개발자',
+	'group-founder-member' => '설립자',
 	'grouppage-developer' => '{{ns:project}}:개발자',
 	'group-steward' => '스튜어드',
 	'group-sysadmin' => '시스템 관리자',
