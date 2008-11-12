@@ -36,6 +36,7 @@ $messages['en'] = array(
 	'group-ipblock-exempt'        => 'IP block exemptions',
 	'group-rollbacker'            => 'Rollbackers',
 	'group-transwiki'             => 'Transwiki importers',
+	'group-uploader'              => 'Uploaders',
 
 	'group-accountcreator-member' => 'account creator',
 	'group-developer-member'      => 'developer',
@@ -44,6 +45,7 @@ $messages['en'] = array(
 	'group-ipblock-exempt-member' => 'IP block exempt',
 	'group-rollbacker-member'     => 'rollbacker',
 	'group-transwiki-member'      => 'transwiki importer',
+	'group-uploader-member'       => 'uploader',
 
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
 	'grouppage-developer'      => '{{ns:project}}:Developers',
@@ -52,6 +54,7 @@ $messages['en'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
 	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
+	'grouppage-uploader'       => '{{ns:project}}:Uploaders',
 
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
