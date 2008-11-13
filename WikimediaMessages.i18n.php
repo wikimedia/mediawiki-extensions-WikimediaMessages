@@ -1194,6 +1194,7 @@ $messages['fo'] = array(
  * @author IAlex
  * @author Meno25
  * @author Sherbrooke
+ * @author Verdy p
  * @author Yekrats
  * @author Zetud
  * @author לערי ריינהארט
@@ -1210,6 +1211,7 @@ $messages['fr'] = array(
 	'group-ipblock-exempt' => 'Exemptions de blocs IP',
 	'group-rollbacker' => 'Réverteurs',
 	'group-transwiki' => 'Importateurs transwiki',
+	'group-uploader' => 'Téléverseurs',
 	'group-accountcreator-member' => 'Créateur de comptes',
 	'group-developer-member' => 'Développeur',
 	'group-founder-member' => 'Fondateur',
@@ -1217,6 +1219,7 @@ $messages['fr'] = array(
 	'group-ipblock-exempt-member' => 'Exemption de bloc IP',
 	'group-rollbacker-member' => 'Réverteur',
 	'group-transwiki-member' => 'Importateur Transwiki',
+	'group-uploader-member' => 'téléverseur',
 	'grouppage-accountcreator' => '{{ns:project}}:Créateurs de comptes',
 	'grouppage-developer' => '{{ns:project}}:Développeurs',
 	'grouppage-founder' => '{{ns:project}}:Fondateurs',
@@ -1224,6 +1227,7 @@ $messages['fr'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de bloc IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Réverteurs',
 	'grouppage-transwiki' => '{{ns:project}}:Importateurs Transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Téléverseurs',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administrateurs système',
 	'group-Global_bot' => 'Bots globaux',
@@ -1870,10 +1874,55 @@ $messages['jut'] = array(
 
 /** Javanese (Basa Jawa)
  * @author Meursault2004
+ * @author Pras
  */
 $messages['jv'] = array(
+	'wikimediamessages-desc' => 'Pesen-pesen spesifik Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Panggalangan_dana',
 	'sitesupport' => 'Nyumbang dana',
 	'tooltip-n-sitesupport' => 'Sokongen kita',
+	'group-accountcreator' => 'Sing gawé akun',
+	'group-developer' => 'Developer',
+	'group-founder' => 'Pendhiri',
+	'group-import' => 'Importir',
+	'group-ipblock-exempt' => 'Pambébasan saka pamblokiran IP',
+	'group-rollbacker' => 'Sing mbalèkaké révisi',
+	'group-transwiki' => 'Importir transwiki',
+	'group-uploader' => 'Pamunggah',
+	'group-accountcreator-member' => 'Sing gawé akun',
+	'group-developer-member' => 'Developer',
+	'group-founder-member' => 'Pandhiri',
+	'group-import-member' => 'importir',
+	'group-ipblock-exempt-member' => 'Pambébasan saka pamblokiran IP',
+	'group-rollbacker-member' => 'Sing mbalèkaké révisi',
+	'group-transwiki-member' => 'importir transwiki',
+	'group-uploader-member' => 'pamunggah',
+	'grouppage-accountcreator' => '{{ns:project}}:Sing gawé akun',
+	'grouppage-developer' => '{{ns:project}}:Developer',
+	'grouppage-founder' => '{{ns:project}}:Pandhiri',
+	'grouppage-import' => '{{ns:project}}:Importir',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Pambébasan saka pamblokiran IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Sing mbalèkaké révisi',
+	'grouppage-transwiki' => '{{ns:project}}:Importir transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Pamunggah',
+	'group-steward' => 'Steward',
+	'group-sysadmin' => 'Administrator sistem',
+	'group-Global_bot' => 'Bot global',
+	'group-Global_rollback' => 'Sing mbalèkaké révisi global',
+	'group-Ombudsmen' => 'Ombudsman',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'administrator sistem',
+	'group-Global_bot-member' => 'bot global',
+	'group-Global_rollback-member' => 'Sing mbalèkaké révisi global',
+	'group-Ombudsmen-member' => 'ombudsman',
+	'grouppage-steward' => 'm:Stewards',
+	'grouppage-sysadmin' => 'm:System administrators',
+	'grouppage-Global_bot' => 'm:Global bot',
+	'grouppage-Global_rollback' => 'm:Global rollback',
+	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
+	'group-coder' => 'Programer',
+	'group-coder-member' => 'programer',
+	'grouppage-coder' => 'Proyèk:Programer',
 );
 
 /** Georgian (ქართული)
@@ -2196,6 +2245,7 @@ $messages['ln'] = array(
  * @author Tuinui
  */
 $messages['lo'] = array(
+	'wikimediamessages-desc' => 'ຂໍ້ຄວາມສະເພາະ ວິກິພີເດຍ',
 	'sitesupport' => 'ບໍລິຈາກ',
 	'tooltip-n-sitesupport' => 'ສະໜັບສະໜຸນພວກເຮົາ',
 );
@@ -2494,6 +2544,7 @@ $messages['nl'] = array(
 	'group-ipblock-exempt' => 'uitgezonderden van IP-adresblokkades',
 	'group-rollbacker' => 'terugdraaiers',
 	'group-transwiki' => 'Transwiki-importeurs',
+	'group-uploader' => 'uploaders',
 	'group-accountcreator-member' => 'gebruikersaanmaker',
 	'group-developer-member' => 'ontwikkelaar',
 	'group-founder-member' => 'grondlegger',
@@ -2501,6 +2552,7 @@ $messages['nl'] = array(
 	'group-ipblock-exempt-member' => 'uitgezonderde van IP-adresblokkades',
 	'group-rollbacker-member' => 'terugdraaier',
 	'group-transwiki-member' => 'transwiki-importeur',
+	'group-uploader-member' => 'uploader',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebruikersaanmakers',
 	'grouppage-developer' => '{{ns:project}}:Ontwikkelaars',
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
@@ -2508,6 +2560,7 @@ $messages['nl'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uitgezonderden van IP-adresblokkades',
 	'grouppage-rollbacker' => '{{ns:project}}:Terugdraaiers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
+	'grouppage-uploader' => '{{ns:project}}:Uploaders',
 	'group-steward' => 'stewards',
 	'group-sysadmin' => 'systeembeheerders',
 	'group-Global_bot' => 'globale bots',
@@ -2525,13 +2578,52 @@ $messages['nl'] = array(
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+ * @author Frokor
  * @author Jon Harald Søby
  */
 $messages['nn'] = array(
+	'wikimediamessages-desc' => 'Wikimedia-spesifikke meldingar',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/nn',
 	'sitesupport' => 'Gåver',
+	'tooltip-n-sitesupport' => 'Støtt oss',
+	'group-accountcreator' => 'Kontoopprettarar',
+	'group-developer' => 'Utviklarar',
+	'group-founder' => 'Grunnleggarar',
+	'group-import' => 'Importørar',
+	'group-ipblock-exempt' => 'Unntak frå IP-blokkering',
+	'group-rollbacker' => 'Attenderullarar',
+	'group-transwiki' => 'Transwiki-importørar',
+	'group-accountcreator-member' => 'Kontoopprettar',
+	'group-developer-member' => 'utviklar',
+	'group-founder-member' => 'grunnleggar',
+	'group-import-member' => 'importør',
+	'group-ipblock-exempt-member' => 'Unteke frå IP-blokkering',
+	'group-rollbacker-member' => 'attenderullar',
+	'group-transwiki-member' => 'transwiki-importør',
+	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
+	'grouppage-developer' => '{{ns:project}}:Utviklarar',
+	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
+	'grouppage-import' => '{{ns:project}}:Importørar',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
+	'grouppage-rollbacker' => '{{ns:project}}:Attenderullarar',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
+	'group-steward' => 'Stewardar',
+	'group-sysadmin' => 'Systemadministratorar',
+	'group-Global_bot' => 'Globale robotar',
+	'group-Global_rollback' => 'Globale attenderullarar',
+	'group-Ombudsmen' => 'Ombodsmenn',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'systemadministrator',
+	'group-Global_bot-member' => 'global robot',
+	'group-Global_rollback-member' => 'global attenderullar',
+	'group-Ombudsmen-member' => 'ombodsmann',
 	'grouppage-steward' => 'm:Stewards/nb',
+	'grouppage-sysadmin' => 'm:Systemadministratorar',
+	'grouppage-Global_bot' => 'm:Global robot',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
+	'group-coder' => 'Kodarar',
+	'group-coder-member' => 'kodar',
+	'grouppage-coder' => 'Prosjekt:Kodar',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
@@ -3312,6 +3404,7 @@ $messages['su'] = array(
  * @author Jon Harald Søby
  * @author Lejonel
  * @author M.M.S.
+ * @author Najami
  * @author Sannab
  */
 $messages['sv'] = array(
@@ -3326,6 +3419,7 @@ $messages['sv'] = array(
 	'group-ipblock-exempt' => 'Undantagna från IP-blockering',
 	'group-rollbacker' => 'Tillbakarullare',
 	'group-transwiki' => 'Transwiki-importörer',
+	'group-uploader' => 'Uppladdare',
 	'group-accountcreator-member' => 'kontoskapare',
 	'group-developer-member' => 'utvecklare',
 	'group-founder-member' => 'grundare',
@@ -3333,6 +3427,7 @@ $messages['sv'] = array(
 	'group-ipblock-exempt-member' => 'undantagen från IP-blockering',
 	'group-rollbacker-member' => 'tillbakarullare',
 	'group-transwiki-member' => 'transwiki-importör',
+	'group-uploader-member' => 'uppladdare',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoskapare',
 	'grouppage-developer' => '{{ns:project}}:Utvecklare',
 	'grouppage-founder' => '{{ns:project}}:Grundare',
@@ -3340,6 +3435,7 @@ $messages['sv'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Undantagna från IP-blockering',
 	'grouppage-rollbacker' => '{{ns:project}}:Tillbakarullare',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importörer',
+	'grouppage-uploader' => '{{ns:project}}:Uppladdare',
 	'group-steward' => 'Stewarder',
 	'group-sysadmin' => 'Systemadministratörer',
 	'group-Global_bot' => 'Globala robotar',
