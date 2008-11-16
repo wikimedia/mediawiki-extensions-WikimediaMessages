@@ -297,6 +297,7 @@ $messages['arn'] = array(
 /** Egyptian Spoken Arabic (مصرى)
  * @author Ghaly
  * @author Meno25
+ * @author Ramsis II
  */
 $messages['arz'] = array(
 	'wikimediamessages-desc' => 'رسايل خاصه بويكيميديا',
@@ -310,6 +311,7 @@ $messages['arz'] = array(
 	'group-ipblock-exempt' => 'مستثنيين من منع الااى بى',
 	'group-rollbacker' => 'مسترجعين',
 	'group-transwiki' => 'مستوردين عبر الويكى',
+	'group-uploader' => 'المحملين',
 	'group-accountcreator-member' => 'مؤسس حساب',
 	'group-developer-member' => 'مطور',
 	'group-founder-member' => 'مؤسس',
@@ -317,6 +319,7 @@ $messages['arz'] = array(
 	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى',
 	'group-rollbacker-member' => 'مسترجع',
 	'group-transwiki-member' => 'مستورد عبر الويكى',
+	'group-uploader-member' => 'المحمل',
 	'grouppage-accountcreator' => '{{ns:project}}:منشئين الحسابات',
 	'grouppage-developer' => '{{ns:project}}:مطورين',
 	'grouppage-founder' => '{{ns:project}}:مؤسسين',
@@ -324,6 +327,7 @@ $messages['arz'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الااى بى',
 	'grouppage-rollbacker' => '{{ns:project}}:مسترجعين',
 	'grouppage-transwiki' => '{{ns:project}}:مستوردين عبر الويكى',
+	'grouppage-uploader' => '{{ns:project}}:المحملين',
 	'group-steward' => 'مضيفين',
 	'group-sysadmin' => 'اداريين النظام',
 	'group-Global_bot' => 'بوتات عامه',
@@ -990,6 +994,7 @@ $messages['eo'] = array(
 	'group-ipblock-exempt' => 'Sendevigoj por IP-forbaroj',
 	'group-rollbacker' => 'Restarigantoj',
 	'group-transwiki' => 'Importintoj de Transvikio',
+	'group-uploader' => 'Alŝutantoj',
 	'group-accountcreator-member' => 'Kreinto de konto',
 	'group-developer-member' => 'Programisto',
 	'group-founder-member' => 'Fondinto',
@@ -997,6 +1002,7 @@ $messages['eo'] = array(
 	'group-ipblock-exempt-member' => 'maldeviga de IP-forbaro',
 	'group-rollbacker-member' => 'Restariganto',
 	'group-transwiki-member' => 'Transvikia importanto',
+	'group-uploader-member' => 'alŝutanto',
 	'grouppage-accountcreator' => '{{ns:project}}:Kreintoj de kontoj',
 	'grouppage-developer' => '{{ns:project}}:Programistoj',
 	'grouppage-founder' => '{{ns:project}}:Fondintoj',
@@ -1004,6 +1010,7 @@ $messages['eo'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Sendevigo por IP-forbaro',
 	'grouppage-rollbacker' => '{{ns:project}}:Restarigantoj',
 	'grouppage-transwiki' => '{{ns:project}}:Transvikiaj importantoj',
+	'grouppage-uploader' => '{{ns:project}}:Alŝutantoj',
 	'group-steward' => 'Stevardoj',
 	'group-sysadmin' => 'Sistemaj administrantoj',
 	'group-Global_bot' => 'Ĝeneralaj robotoj',
@@ -1531,6 +1538,7 @@ $messages['hr'] = array(
 	'group-ipblock-exempt' => 'IP blok iznimke',
 	'group-rollbacker' => 'Uklonitelji',
 	'group-transwiki' => 'Međuwiki unositelji',
+	'group-uploader' => 'Postavljači',
 	'group-accountcreator-member' => 'otvaratelj računa',
 	'group-developer-member' => 'sistem administrator',
 	'group-founder-member' => 'osnivač',
@@ -1538,6 +1546,7 @@ $messages['hr'] = array(
 	'group-ipblock-exempt-member' => 'IP blok iznimka',
 	'group-rollbacker-member' => 'uklonitelj',
 	'group-transwiki-member' => 'međuwiki unositelj',
+	'group-uploader-member' => 'postavljač',
 	'grouppage-accountcreator' => '{{ns:project}}:Otvaratelji računa',
 	'grouppage-developer' => '{{ns:project}}:Sistem administratori',
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
@@ -1545,6 +1554,7 @@ $messages['hr'] = array(
 	'grouppage-ipblock-exempt' => '{ns:project}}:IP blok iznimka',
 	'grouppage-rollbacker' => '{{ns:project}}:Uklonitelji',
 	'grouppage-transwiki' => '{{ns:project}}:Međuwiki unositelji',
+	'grouppage-uploader' => '{{ns:project}}:Postavljači',
 	'group-steward' => 'Stjuardi',
 	'group-sysadmin' => 'Sistem administratori',
 	'group-Global_bot' => 'Globalni bot',
@@ -1828,6 +1838,7 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Aotake
+ * @author Fievarsty
  * @author JtFuruhata
  * @author Meno25
  * @author Suisui
@@ -1844,6 +1855,7 @@ $messages['ja'] = array(
 	'group-ipblock-exempt' => 'IPブロック適用除外',
 	'group-rollbacker' => 'ロールバック権限保持者',
 	'group-transwiki' => 'トランスウィキ・インポート権限保持者',
+	'group-uploader' => 'アップロード権限保持者',
 	'group-accountcreator-member' => 'アカウント作成権限保持者',
 	'group-developer-member' => '開発者',
 	'group-founder-member' => '創立者',
@@ -1851,6 +1863,7 @@ $messages['ja'] = array(
 	'group-ipblock-exempt-member' => 'IPブロック適用除外',
 	'group-rollbacker-member' => 'ロールバック権限保持者',
 	'group-transwiki-member' => 'トランスウィキ・インポート権限保持者',
+	'group-uploader-member' => 'アップロード権限保持者',
 	'grouppage-accountcreator' => '{{ns:project}}:アカウント作成権限保持者',
 	'grouppage-developer' => '{{ns:project}}:開発者',
 	'grouppage-founder' => '{{ns:project}}:創立者',
@@ -1858,6 +1871,7 @@ $messages['ja'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IPブロック適用除外',
 	'grouppage-rollbacker' => '{{ns:project}}:ロールバック権限保持者',
 	'grouppage-transwiki' => '{{ns:project}}:トランスウィキ・インポート権限保持者',
+	'grouppage-uploader' => '{{ns:project}}:アップロード権限保持者',
 	'group-steward' => 'スチュワード',
 	'group-sysadmin' => 'システム管理者',
 	'group-Global_bot' => 'グローバル・ボット',
@@ -1869,6 +1883,8 @@ $messages['ja'] = array(
 	'group-Global_rollback-member' => 'グローバル・ロールバック権限保持者',
 	'group-Ombudsmen-member' => 'オンブズマン',
 	'grouppage-steward' => 'm:Stewards/ja',
+	'group-coder' => 'コーダー',
+	'group-coder-member' => 'コーダー',
 );
 
 /** Lojban (Lojban)
