@@ -1621,6 +1621,7 @@ $messages['hu'] = array(
 	'group-ipblock-exempt' => 'IP-blokkok alól mentesülők',
 	'group-rollbacker' => 'visszaállítók',
 	'group-transwiki' => 'wikiközi importálók',
+	'group-uploader' => 'feltöltők',
 	'group-accountcreator-member' => 'fióklétrehozó',
 	'group-developer-member' => 'fejlesztő',
 	'group-founder-member' => 'alapító',
@@ -1628,13 +1629,15 @@ $messages['hu'] = array(
 	'group-ipblock-exempt-member' => 'IP-blokkok alól mentesülő',
 	'group-rollbacker-member' => 'visszaállító',
 	'group-transwiki-member' => 'wikiközi importáló',
+	'group-uploader-member' => 'feltöltő',
 	'grouppage-accountcreator' => '{{ns:project}}:Fióklétrehozók',
 	'grouppage-developer' => '{{ns:project}}:Fejlesztők',
 	'grouppage-founder' => '{{ns:project}}:Alapítók',
 	'grouppage-import' => '{{ns:project}}:Importálók',
-	'grouppage-ipblock-exempt' => 'Mentesülés az IP-blokkok alól',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Mentesülés az IP-blokkok alól',
 	'grouppage-rollbacker' => '{{ns:project}}:Visszaállítók',
 	'grouppage-transwiki' => '{{ns:project}}:Wikiközi importálók',
+	'grouppage-uploader' => '{{ns:project}}:Feltöltők',
 	'group-steward' => 'helytartók',
 	'group-sysadmin' => 'rendszeradminisztrátorok',
 	'group-Global_bot' => 'globális botok',
@@ -1646,6 +1649,8 @@ $messages['hu'] = array(
 	'group-Global_rollback-member' => 'globális visszaállító',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'grouppage-steward' => '{{ns:project}}:Helytartók',
+	'group-coder' => 'programozók',
+	'group-coder-member' => 'programozó',
 );
 
 /** Armenian (Հայերեն)
@@ -2165,6 +2170,7 @@ $messages['lb'] = array(
 	'group-ipblock-exempt' => 'Ausnahme vun IP-Spären',
 	'group-rollbacker' => 'Zrécksetzer',
 	'group-transwiki' => 'Transwiki-Importateuren',
+	'group-uploader' => 'Eroplueder',
 	'group-accountcreator-member' => 'Benotzer dee Benotzerkonten uleeën däerf',
 	'group-developer-member' => 'System-Entwéckler',
 	'group-founder-member' => 'Grënner',
@@ -2172,6 +2178,7 @@ $messages['lb'] = array(
 	'group-ipblock-exempt-member' => 'Ausnam vun der IP-Spär',
 	'group-rollbacker-member' => 'Zrécksetzer',
 	'group-transwiki-member' => 'Transwiki-Importateur',
+	'group-uploader-member' => 'Eroplueder',
 	'grouppage-accountcreator' => '{{ns:project}}:Benotzer déi Benotzerkonten uleeën däerfen',
 	'grouppage-developer' => '{{ns:project}}:System-Entwéckler',
 	'grouppage-founder' => '{{ns:project}}:Grënner',
@@ -2179,6 +2186,7 @@ $messages['lb'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Ausnahm vun der IP-Spär',
 	'grouppage-rollbacker' => '{{ns:project}}:Zrécksetzer',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importateuren',
+	'grouppage-uploader' => '{{ns:project}}:Eroplueder',
 	'group-steward' => 'Stewarden',
 	'group-sysadmin' => 'Systemadministrateuren',
 	'group-Global_bot' => 'Global Botten',
@@ -2215,6 +2223,7 @@ $messages['lg'] = array(
 /** Limburgish (Limburgs)
  * @author Matthias
  * @author Ooswesthoesbes
+ * @author Pahles
  * @author לערי ריינהארט
  */
 $messages['li'] = array(
@@ -2224,32 +2233,32 @@ $messages['li'] = array(
 	'tooltip-n-sitesupport' => 'Ongersteun os financieel',
 	'group-accountcreator' => 'Gebroekeraanmakers',
 	'group-developer' => 'Ontwikkeleers',
-	'group-founder' => "Gronkli'jers",
+	'group-founder' => 'Gróndlègkers',
 	'group-import' => 'Importäörs',
 	'group-ipblock-exempt' => 'Oetgezongerde van IP-adres blokkades',
-	'group-rollbacker' => "Trökdri'jers",
+	'group-rollbacker' => 'Trökdriejers',
 	'group-transwiki' => 'Transwikiimportäörs',
 	'group-accountcreator-member' => 'Gebroekeraanmaker',
 	'group-developer-member' => 'Ontwikkeleer',
-	'group-founder-member' => "Gronkli'jer",
+	'group-founder-member' => 'Gróndlègker',
 	'group-import-member' => 'Importäör',
-	'group-ipblock-exempt-member' => 'OEtgezongerde van IP-adresblokkades',
-	'group-rollbacker-member' => "Trökdri'jer",
+	'group-ipblock-exempt-member' => 'Oetgenómmene van IP-adresblokkades',
+	'group-rollbacker-member' => 'Trökdriejer',
 	'group-transwiki-member' => 'Transwikiimportäör',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebroekeraanmakers',
 	'grouppage-developer' => '{{ns:project}}:Ontwikkeleers',
-	'grouppage-founder' => "{{ns:project}}:Gronkli'jers",
+	'grouppage-founder' => '{{ns:project}}:Gróndlègkers',
 	'grouppage-import' => '{{ns:project}}:Importäörs',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Oetgezongerde van IP-adresblokkades',
-	'grouppage-rollbacker' => "{{ns:project}}:Trökdri'jers",
+	'grouppage-rollbacker' => '{{ns:project}}:Trökdriejers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwikiimportäörs',
 	'group-steward' => 'Stewards',
 	'group-Global_bot' => 'Globaal bots',
-	'group-Global_rollback' => "Globaal trökdri'jers",
+	'group-Global_rollback' => 'Globaal trökdriejers',
 	'group-Ombudsmen' => 'Ombudsmen',
 	'group-steward-member' => 'Steward',
 	'group-Global_bot-member' => 'Globale bot',
-	'group-Global_rollback-member' => "Globale trökdri'jer",
+	'group-Global_rollback-member' => 'Globale trökdriejer',
 	'group-Ombudsmen-member' => 'Ombudsman',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
 );
@@ -3019,6 +3028,13 @@ $messages['roa-rup'] = array(
 	'sitesupport' => 'Donatsiur',
 );
 
+/** Tarandíne (Tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+);
+
 /** Russian (Русский)
  * @author Ahonc
  * @author Aleksandrit
@@ -3233,6 +3249,7 @@ $messages['sk'] = array(
 	'group-ipblock-exempt' => 'Výnimky z blokovaní IP',
 	'group-rollbacker' => 'S právom rollback',
 	'group-transwiki' => 'Transwiki importéri',
+	'group-uploader' => 'Nahrávajúci',
 	'group-accountcreator-member' => 'Tvorca účtu',
 	'group-developer-member' => 'Vývojár',
 	'group-founder-member' => 'Zakladateľ',
@@ -3240,6 +3257,7 @@ $messages['sk'] = array(
 	'group-ipblock-exempt-member' => 'Výnimka z blokovaní IP',
 	'group-rollbacker-member' => 'S právom rollback',
 	'group-transwiki-member' => 'Transwiki importér',
+	'group-uploader-member' => 'nahrávajúci',
 	'grouppage-accountcreator' => '{{ns:project}}:Tvorcovia účtov',
 	'grouppage-developer' => '{{ns:project}}:Vývojári',
 	'grouppage-founder' => '{{ns:project}}:Zakladatelia',
@@ -3247,6 +3265,7 @@ $messages['sk'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Výnimky z blokovaní IP',
 	'grouppage-rollbacker' => '{{ns:project}}:S právom rollback',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéri',
+	'grouppage-uploader' => '{{ns:project}}:Nahrávajúci',
 	'group-steward' => 'Stewardi',
 	'group-sysadmin' => 'Správcovia systému',
 	'group-Global_bot' => 'Globálni roboti',
