@@ -1344,6 +1344,7 @@ $messages['gl'] = array(
 	'group-ipblock-exempt' => 'Exención de bloqueo IP',
 	'group-rollbacker' => 'Revertidores',
 	'group-transwiki' => 'Importadores transwiki',
+	'group-uploader' => 'Cargadores',
 	'group-accountcreator-member' => 'Creador de contas',
 	'group-developer-member' => 'Desenvolvedor',
 	'group-founder-member' => 'Fundador',
@@ -1351,6 +1352,7 @@ $messages['gl'] = array(
 	'group-ipblock-exempt-member' => 'Exento de bloqueo IP',
 	'group-rollbacker-member' => 'Revertidor',
 	'group-transwiki-member' => 'Importador transwiki',
+	'group-uploader-member' => 'cargador',
 	'grouppage-accountcreator' => '{{ns:project}}:Creadores de contas',
 	'grouppage-developer' => '{{ns:project}}:Desenvolvedores',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
@@ -1358,6 +1360,7 @@ $messages['gl'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exención de bloqueo IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertidores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Cargadores',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administradores do sistema',
 	'group-Global_bot' => 'Bots globais',
@@ -2671,6 +2674,7 @@ $messages['nn'] = array(
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Jon Harald Søby
+ * @author Laaknor
  */
 $messages['no'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke beskjeder',
@@ -2684,6 +2688,7 @@ $messages['no'] = array(
 	'group-ipblock-exempt' => 'Untatte fra IP-blokkering',
 	'group-rollbacker' => 'Tilbakestillere',
 	'group-transwiki' => 'Transwiki-importører',
+	'group-uploader' => 'Opplastere',
 	'group-accountcreator-member' => 'Kontooppretter',
 	'group-developer-member' => 'Utvikler',
 	'group-founder-member' => 'Grunnlegger',
@@ -2691,6 +2696,7 @@ $messages['no'] = array(
 	'group-ipblock-exempt-member' => 'Unttatt fra IP-blokkering',
 	'group-rollbacker-member' => 'Tilbakestiller',
 	'group-transwiki-member' => 'Transwiki-importør',
+	'group-uploader-member' => 'opplaster',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettere',
 	'grouppage-developer' => '{{ns:project}}:Utviklere',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggere',
@@ -2698,6 +2704,7 @@ $messages['no'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unntatte fra IP-blokkering',
 	'grouppage-rollbacker' => '{{ns:project}}:Tilbakestillere',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importører',
+	'grouppage-uploader' => '{{ns:project}}:Opplastere',
 	'group-steward' => 'Forvaltere',
 	'group-sysadmin' => 'Systemadministratorer',
 	'group-Global_bot' => 'Globale roboter',
@@ -3033,6 +3040,7 @@ $messages['roa-rup'] = array(
  */
 $messages['roa-tara'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'group-uploader-member' => 'carecatore',
 );
 
 /** Russian (Русский)
@@ -3688,6 +3696,7 @@ $messages['uk'] = array(
 	'group-ipblock-exempt' => 'Виключення з IP-блокувань',
 	'group-rollbacker' => 'Відкочувачі',
 	'group-transwiki' => 'Transwiki-імпортери',
+	'group-uploader' => 'Завантажувачі',
 	'group-accountcreator-member' => 'створювач облікових записів',
 	'group-developer-member' => 'розробник',
 	'group-founder-member' => 'засновник',
@@ -3695,6 +3704,7 @@ $messages['uk'] = array(
 	'group-ipblock-exempt-member' => 'виключення з IP-блокування',
 	'group-rollbacker-member' => 'відкочувач',
 	'group-transwiki-member' => 'Transwiki-імпортер',
+	'group-uploader-member' => 'завантажувач',
 	'grouppage-accountcreator' => '{{ns:project}}:Створювачі облікових записів',
 	'grouppage-developer' => '{{ns:project}}:Розробники',
 	'grouppage-founder' => '{{ns:project}}:Засновники',
@@ -3702,6 +3712,7 @@ $messages['uk'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Виключення з IP-блокування',
 	'grouppage-rollbacker' => '{{ns:project}}:Відкочувачі',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-імпортери',
+	'grouppage-uploader' => '{{ns:project}}:Завантажувачі',
 	'group-steward' => 'Стюарди',
 	'group-sysadmin' => 'Системні адміністратори',
 	'group-Global_bot' => 'Глобальні боти',
