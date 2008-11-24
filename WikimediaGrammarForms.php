@@ -375,18 +375,23 @@ $wgGrammarForms['dsb'] = array(
 $wgGrammarForms['fi'] = array(
 	'genitive' => array(
 		'Wikiuutiset' => 'Wikiuutisten',
+		'Wikisitaatit' => 'Wikisitaattien',
 	),
 	'partitive' => array(
 		'Wikiuutiset' => 'Wikiuutisia',
+		'Wikisitaatit' => 'Wikisitaatteja',
 	),
 	'elative' => array(
 		'Wikiuutiset' => 'Wikiuutisista',
+		'Wikisitaatit' => 'Wikisitaateista',
 	),
 	'inessive' => array(
 		'Wikiuutiset' => 'Wikiuutisissa',
+		'Wikisitaatit' => 'Wikisitaateissa',
 	),
 	'illative' => array(
 		'Wikiuutiset' => 'Wikiuutisiin',
+		'Wikisitaatit' => 'Wikisitaatteihin',
 	),
 ); # fi
 
