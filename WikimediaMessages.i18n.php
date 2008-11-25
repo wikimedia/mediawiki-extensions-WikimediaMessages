@@ -205,6 +205,7 @@ $messages['an'] = array(
 	'group-ipblock-exempt' => 'Exenzion de bloqueyo IP',
 	'group-rollbacker' => 'Esfedors',
 	'group-transwiki' => 'Importadors de transwiki',
+	'group-uploader' => 'Cargadors',
 	'group-accountcreator-member' => 'Creyador de cuenta',
 	'group-developer-member' => 'Desembolicador',
 	'group-founder-member' => 'Fundador',
@@ -212,6 +213,7 @@ $messages['an'] = array(
 	'group-ipblock-exempt-member' => 'Exenzion de bloqueyo IP',
 	'group-rollbacker-member' => 'Rebertidor',
 	'group-transwiki-member' => 'Importador transwiki',
+	'group-uploader-member' => 'cargador',
 	'grouppage-accountcreator' => '{{ns:project}}:Creyadors de cuenta',
 	'grouppage-developer' => '{{ns:project}}:Desembolicadors',
 	'grouppage-founder' => '{{ns:project}}:Fundadors',
@@ -219,6 +221,7 @@ $messages['an'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Exenzión d'o bloqueyo d'IP",
 	'grouppage-rollbacker' => '{{ns:project}}:Esfedors',
 	'grouppage-transwiki' => '{{ns:project}}:Importardors transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Cargadors',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => "Almenistradors d'o sistemas",
 	'group-Global_bot' => 'Bots globals',
@@ -229,6 +232,8 @@ $messages['an'] = array(
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'Esfedor global',
 	'group-Ombudsmen-member' => 'Chustizia',
+	'group-coder' => 'Codificadors',
+	'group-coder-member' => 'codificador',
 );
 
 /** Old English (Anglo-Saxon) */
@@ -665,6 +670,7 @@ $messages['br'] = array(
  * @author לערי ריינהארט
  */
 $messages['bs'] = array(
+	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bs',
 	'sitesupport' => 'Donacije',
 	'tooltip-n-sitesupport' => 'Podržite nas',
@@ -1407,9 +1413,11 @@ $messages['grc'] = array(
 	'group-founder' => 'Ἱδρυταί',
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
+	'group-steward' => 'Φροντισταί',
 	'group-steward-member' => 'φροντιστής',
 	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς',
 	'group-coder' => 'Κωδικεύοντες',
+	'group-coder-member' => 'κωδικεύς',
 );
 
 /** Swiss German (Alemannisch) */
@@ -3046,6 +3054,7 @@ $messages['roa-rup'] = array(
  */
 $messages['roa-tara'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport' => 'Done',
 	'group-uploader-member' => 'carecatore',
 );
 
