@@ -2507,6 +2507,13 @@ $messages['myv'] = array(
 	'tooltip-n-sitesupport' => 'Макста миненек нежедематарка',
 );
 
+/** Mazanderani (مَزِروني)
+ * @author Spacebirdy
+ */
+$messages['mzn'] = array(
+	'sitesupport' => 'پیلی کایر',
+);
+
 /** Nauru (Dorerin Naoero) */
 $messages['na'] = array(
 	'sitesupport' => 'Eadu a me',
