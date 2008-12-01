@@ -1585,6 +1585,8 @@ $messages['hr'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
+	'wikimediamessages-desc' => 'Specifiske zdźělenki Wikimedije',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/hsb',
 	'sitesupport' => 'Dary',
 	'tooltip-n-sitesupport' => 'Podpěrajće nas',
 	'group-accountcreator' => 'Kontowi załožerjo',
@@ -3259,9 +3261,53 @@ $messages['shi'] = array(
 	'tooltip-n-sitesupport' => 'ɛawn anɣ',
 );
 
-/** Sinhala (සිංහල) */
+/** Sinhala (සිංහල)
+ * @author නන්දිමිතුරු
+ */
 $messages['si'] = array(
+	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂී පණිවුඩයන්',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'පරිත්‍යාග',
+	'tooltip-n-sitesupport' => 'අප හට අනුග්‍රහ සපයන්න',
+	'group-accountcreator' => 'ගිණුම් තතනන්නන්',
+	'group-developer' => 'විකාශකයන්',
+	'group-founder' => 'ප්‍රාරම්භකයන්',
+	'group-import' => 'ආයාතකරුවන්',
+	'group-ipblock-exempt' => 'අන්තර්ජාල වාරණ විවර්ජනයන්',
+	'group-rollbacker' => 'පසුපෙරළන්නන්',
+	'group-transwiki' => 'අන්තර්විකී ආයාතකරුවන්',
+	'group-accountcreator-member' => 'ගිණුම් තනන්නා',
+	'group-developer-member' => 'විකාශකයා',
+	'group-founder-member' => 'ප්‍රාර්ම්භක',
+	'group-import-member' => 'ආයාතකරු',
+	'group-ipblock-exempt-member' => 'අන්තර්ජාල වාරණ විවර්ජනය',
+	'group-rollbacker-member' => 'පසුපෙරළන්නා',
+	'group-transwiki-member' => 'අන්තර්විකි ආයාතකරු',
+	'grouppage-accountcreator' => '{{ns:project}}:ගිණුම් තනන්නන්',
+	'grouppage-developer' => '{{ns:project}}:විකාශකයන්',
+	'grouppage-founder' => '{{ns:project}}:ප්‍රාරම්භකයන්',
+	'grouppage-import' => '{{ns:project}}:ආයාත කරුවන්',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:අන්තර්ජාල වාරණ විවර්ජනය',
+	'grouppage-rollbacker' => '{{ns:project}}:පසුපෙරළන්නන්',
+	'grouppage-transwiki' => '{{ns:project}}:අන්තර්විකි ආයාතකරුවන්',
+	'group-steward' => 'භාරකරුවන්',
+	'group-sysadmin' => 'පද්ධති පරිපාලකයන්',
+	'group-Global_bot' => 'ගෝලීය රොබෝවරුන්',
+	'group-Global_rollback' => 'ගෝලීය පසුපෙරළන්නන්',
+	'group-Ombudsmen' => 'දුග්ගන්නාරාළවරුන්',
+	'group-steward-member' => 'භාරකරු',
+	'group-sysadmin-member' => 'පද්ධති පරිපාලකවරයා',
+	'group-Global_bot-member' => 'ගෝලීය රොබෝවරයා',
+	'group-Global_rollback-member' => 'ගෝලීය පසුපෙරළන්නා',
+	'group-Ombudsmen-member' => 'දුග්ගන්නාරාළ',
+	'grouppage-steward' => 'm:භාරකරුවන්',
+	'grouppage-sysadmin' => 'm:පද්ධති පරිපාලකවරුන්',
+	'grouppage-Global_bot' => 'm:ගෝලීය රොබෝවරයා',
+	'grouppage-Global_rollback' => 'm:ගෝලීය පසුපෙරළීම',
+	'grouppage-Ombudsmen' => 'm:දුග්ගන්නාරාළ කොමිසම',
+	'group-coder' => 'කේතකරුවන්',
+	'group-coder-member' => 'කේතකරු',
+	'grouppage-coder' => 'Project:කේතකරු',
 );
 
 /** Slovak (Slovenčina)
