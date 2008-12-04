@@ -85,6 +85,7 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Aotake
  * @author Jon Harald Søby
  * @author Meno25
  * @author Purodha
@@ -98,8 +99,13 @@ $messages['qqq'] = array(
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
 	'group-accountcreator' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]]. See also {{msg|group-accountcreator-member}}.',
 	'group-founder' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/founder]] (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]). See also {{msg|group-founder-member}}.',
+	'group-rollbacker' => '{{Identical|Rollback}}',
 	'group-accountcreator-member' => 'A member of the group {{msg|group-accountcreator}}.',
 	'group-founder-member' => 'A member in the group {{msg|group-founder}} (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]).',
+	'group-rollbacker-member' => '{{Identical|Rollback}}',
+	'grouppage-rollbacker' => '{{Identical|Rollback}}',
+	'group-Global_rollback' => '{{Identical|Rollback}}',
+	'group-Global_rollback-member' => '{{Identical|Rollback}}',
 	'grouppage-steward' => '{{Global grouppage}}',
 	'grouppage-Global_bot' => '{{Global grouppage}}',
 	'grouppage-Global_rollback' => '{{Global grouppage}}',
@@ -675,7 +681,12 @@ $messages['bs'] = array(
 	'sitesupport' => 'Donacije',
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'group-founder' => 'Osnivači',
+	'group-import' => 'Uvoznici',
 	'group-founder-member' => 'osnivač',
+	'group-import-member' => 'uvoznik',
+	'group-steward' => 'Stjuardi',
+	'group-sysadmin' => 'Sistemski administratori',
+	'group-Global_bot' => 'Globalni botovi',
 );
 
 /** Catalan (Català)
@@ -1689,6 +1700,7 @@ $messages['ia'] = array(
 	'group-ipblock-exempt' => 'Exemptiones de blocos IP',
 	'group-rollbacker' => 'Revertitores',
 	'group-transwiki' => 'Importatores transwiki',
+	'group-uploader' => 'Cargatores',
 	'group-accountcreator-member' => 'Creator de contos',
 	'group-developer-member' => 'Disveloppator',
 	'group-founder-member' => 'Fundator',
@@ -1696,6 +1708,7 @@ $messages['ia'] = array(
 	'group-ipblock-exempt-member' => 'Exemption de bloco IP',
 	'group-rollbacker-member' => 'Revertitor',
 	'group-transwiki-member' => 'Importator transwiki',
+	'group-uploader-member' => 'cargator',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatores de contos',
 	'grouppage-developer' => '{{ns:project}}:Disveloppatores',
 	'grouppage-founder' => '{{ns:project}}:Fundatores',
@@ -1703,6 +1716,7 @@ $messages['ia'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de blocos IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertitores',
 	'grouppage-transwiki' => '{{ns:project}}:Importatores transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Cargatores',
 	'group-steward' => 'Stewardes',
 	'group-sysadmin' => 'Administratores de systema',
 	'group-Global_bot' => 'Bots global',
