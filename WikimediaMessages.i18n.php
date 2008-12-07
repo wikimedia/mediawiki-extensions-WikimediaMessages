@@ -932,6 +932,7 @@ $messages['diq'] = array(
  */
 $messages['dsb'] = array(
 	'wikimediamessages-desc' => 'Zdźělenja specifiske za Wikimediju',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/dsb',
 	'sitesupport' => 'Dary',
 	'tooltip-n-sitesupport' => 'Pódpěraj nas',
 	'group-accountcreator' => 'Kontowe załožarje',
