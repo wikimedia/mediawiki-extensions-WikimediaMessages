@@ -262,6 +262,7 @@ $messages['ar'] = array(
 	'group-ipblock-exempt' => 'مستثنون من منع الأيبي',
 	'group-rollbacker' => 'مسترجعون',
 	'group-transwiki' => 'مستوردون عبر الويكي',
+	'group-uploader' => 'رافعون',
 	'group-accountcreator-member' => 'منشئ حساب',
 	'group-developer-member' => 'مطور',
 	'group-founder-member' => 'مؤسس',
@@ -269,6 +270,7 @@ $messages['ar'] = array(
 	'group-ipblock-exempt-member' => 'مستثنى من منع الأيبي',
 	'group-rollbacker-member' => 'مسترجع',
 	'group-transwiki-member' => 'مستورد عبر الويكي',
+	'group-uploader-member' => 'رافع',
 	'grouppage-accountcreator' => '{{ns:project}}:منشئو الحسابات',
 	'grouppage-developer' => '{{ns:project}}:مطورون',
 	'grouppage-founder' => '{{ns:project}}:مؤسسون',
@@ -276,6 +278,7 @@ $messages['ar'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الأيبي',
 	'grouppage-rollbacker' => '{{ns:project}}:مسترجعون',
 	'grouppage-transwiki' => '{{ns:project}}:مستوردون عبر الويكي',
+	'grouppage-uploader' => '{{ns:project}}:رافعون',
 	'group-steward' => 'مضيفون',
 	'group-sysadmin' => 'إداريو النظام',
 	'group-Global_bot' => 'بوتات عامة',
@@ -1059,6 +1062,7 @@ $messages['es'] = array(
 	'group-ipblock-exempt' => 'Dispensas de bloqueo IP',
 	'group-rollbacker' => 'Pueden deshacer',
 	'group-transwiki' => 'Importadores transwiki',
+	'group-uploader' => 'Cargadores',
 	'group-accountcreator-member' => 'creador de la cuenta',
 	'group-developer-member' => 'desarrollador',
 	'group-founder-member' => 'fundador',
@@ -1066,6 +1070,7 @@ $messages['es'] = array(
 	'group-ipblock-exempt-member' => 'dispensa de bloqueo IP',
 	'group-rollbacker-member' => 'puede deshacer',
 	'group-transwiki-member' => 'Importador transwiki',
+	'group-uploader-member' => 'cargador',
 	'grouppage-accountcreator' => '{{ns:project}}:Creadores de cuentas',
 	'grouppage-developer' => '{{ns:project}}:Desarrolladores',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
@@ -1073,6 +1078,7 @@ $messages['es'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Dispensa de bloqueo IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Reversores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Cargadores',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'administradores del sistema',
 	'group-Global_bot' => 'bots globales',
@@ -1083,6 +1089,8 @@ $messages['es'] = array(
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'Puede deshacer globalmente',
 	'group-Ombudsmen-member' => 'defensor de la comunidad',
+	'group-coder' => 'Programadores',
+	'group-coder-member' => 'programador',
 );
 
 /** Estonian (Eesti)
@@ -2099,6 +2107,7 @@ $messages['ko'] = array(
 	'group-Global_bot' => '글로벌 봇',
 	'group-steward-member' => '스튜어드',
 	'group-sysadmin-member' => '시스템 관리자',
+	'group-Global_bot-member' => '글로벌 봇',
 	'grouppage-steward' => 'm:Stewards/ko',
 );
 
@@ -2658,6 +2667,7 @@ $messages['nl'] = array(
 	'grouppage-Global_rollback' => 'm:Global rollback/nl',
 	'group-coder' => 'programmeurs',
 	'group-coder-member' => 'programmeur',
+	'grouppage-coder' => 'Project:Programmeur',
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
@@ -3078,7 +3088,10 @@ $messages['roa-rup'] = array(
 $messages['roa-tara'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Done',
+	'group-uploader' => 'Carecatore',
+	'group-transwiki-member' => 'Importatore de transuicchi',
 	'group-uploader-member' => 'carecatore',
+	'group-sysadmin-member' => 'amministratore de sisteme',
 );
 
 /** Russian (Русский)
