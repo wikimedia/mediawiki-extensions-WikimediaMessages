@@ -1089,6 +1089,7 @@ $messages['es'] = array(
 	'sitesupport' => 'Donaciones',
 	'tooltip-n-sitesupport' => 'Apóyenos',
 	'group-accountcreator' => 'Creadores de cuentas',
+	'group-autopatroller' => 'Autopatrulleros',
 	'group-developer' => 'Desarrolladores',
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
@@ -1097,6 +1098,7 @@ $messages['es'] = array(
 	'group-transwiki' => 'Importadores transwiki',
 	'group-uploader' => 'Cargadores',
 	'group-accountcreator-member' => 'creador de la cuenta',
+	'group-autopatroller-member' => 'autopatrullero',
 	'group-developer-member' => 'desarrollador',
 	'group-founder-member' => 'fundador',
 	'group-import-member' => 'importador',
@@ -1105,6 +1107,7 @@ $messages['es'] = array(
 	'group-transwiki-member' => 'Importador transwiki',
 	'group-uploader-member' => 'cargador',
 	'grouppage-accountcreator' => '{{ns:project}}:Creadores de cuentas',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrulleros',
 	'grouppage-developer' => '{{ns:project}}:Desarrolladores',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
 	'grouppage-import' => '{{ns:project}}:Importadores',
@@ -1361,9 +1364,15 @@ $messages['fy'] = array(
 	'tooltip-n-sitesupport' => 'Stypje ús',
 );
 
-/** Irish (Gaeilge) */
+/** Irish (Gaeilge)
+ * @author Alison
+ */
 $messages['ga'] = array(
 	'sitesupport' => 'Síntiúis',
+	'group-steward' => 'Maoir',
+	'group-Global_bot' => 'Róbónna domhanda',
+	'group-steward-member' => 'maor',
+	'group-Global_bot-member' => 'róbó domhanda',
 );
 
 /** Gagauz (Gagauz)
@@ -2109,6 +2118,7 @@ $messages['kk-latn'] = array(
 /** Khmer (ភាសាខ្មែរ)
  * @author Kiensvay
  * @author Lovekhmer
+ * @author Thearith
  * @author គីមស៊្រុន
  */
 $messages['km'] = array(
@@ -2117,7 +2127,7 @@ $messages['km'] = array(
 	'sitesupport' => 'វិភាគទាន',
 	'tooltip-n-sitesupport' => 'គាំទ្រ​យើងខ្ញុំ',
 	'group-accountcreator' => 'អ្នកបង្កើតគណនី',
-	'group-developer' => 'អ្នកអភិវឌ្ឍន៍',
+	'group-developer' => 'អ្នកអភិវឌ្ឍ',
 	'group-founder' => 'ស្ថាបនិក',
 	'group-import' => 'អ្នកនាំចូល',
 	'group-transwiki' => 'អ្នកនាំចូលអន្តរវិគី',
@@ -2129,7 +2139,7 @@ $messages['km'] = array(
 	'group-transwiki-member' => 'អ្នកនាំចូលអន្តរវិគី',
 	'group-uploader-member' => 'អ្នក​ផ្ទុកឯកសារឡើង',
 	'grouppage-accountcreator' => '{{ns:project}}:អ្នកបង្កើតគណនី',
-	'grouppage-developer' => '{{ns:project}}:អ្នកអភិវឌ្ឍន៍',
+	'grouppage-developer' => '{{ns:project}}:អ្នកអភិវឌ្ឍ',
 	'grouppage-founder' => '{{ns:project}}:ស្ថាបនិក',
 	'grouppage-import' => '{{ns:project}}:អ្នកនាំចូល',
 	'grouppage-transwiki' => '{{ns:project}}:អ្នកនាំចូលអន្តរវិគី',
@@ -2773,6 +2783,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Frokor
+ * @author Harald Khan
  * @author Jon Harald Søby
  */
 $messages['nn'] = array(
@@ -2787,6 +2798,7 @@ $messages['nn'] = array(
 	'group-ipblock-exempt' => 'Unntak frå IP-blokkering',
 	'group-rollbacker' => 'Attenderullarar',
 	'group-transwiki' => 'Transwiki-importørar',
+	'group-uploader' => 'Opplastarar',
 	'group-accountcreator-member' => 'Kontoopprettar',
 	'group-developer-member' => 'utviklar',
 	'group-founder-member' => 'grunnleggar',
@@ -2794,6 +2806,7 @@ $messages['nn'] = array(
 	'group-ipblock-exempt-member' => 'Unteke frå IP-blokkering',
 	'group-rollbacker-member' => 'attenderullar',
 	'group-transwiki-member' => 'transwiki-importør',
+	'group-uploader-member' => 'opplastar',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
 	'grouppage-developer' => '{{ns:project}}:Utviklarar',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
@@ -2801,6 +2814,7 @@ $messages['nn'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
 	'grouppage-rollbacker' => '{{ns:project}}:Attenderullarar',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
+	'grouppage-uploader' => '{{ns:project}}:Opplastarar',
 	'group-steward' => 'Stewardar',
 	'group-sysadmin' => 'Systemadministratorar',
 	'group-Global_bot' => 'Globale robotar',
@@ -3835,6 +3849,7 @@ $messages['tpi'] = array(
  * @author Karduelis
  */
 $messages['tr'] = array(
+	'wikimediamessages-desc' => 'Vikimedya özel mesajları',
 	'sitesupport' => 'Bağışlar',
 	'group-steward' => 'Stewardlar',
 	'group-sysadmin' => 'Sistem yöneticileri',
@@ -3895,6 +3910,7 @@ $messages['uk'] = array(
 	'sitesupport' => 'Пожертвування',
 	'tooltip-n-sitesupport' => 'Підтримайте проект',
 	'group-accountcreator' => 'Створювачі облікових записів',
+	'group-autopatroller' => 'Автопатрульні',
 	'group-developer' => 'Розробники',
 	'group-founder' => 'Засновники',
 	'group-import' => 'Імпортери',
@@ -3903,6 +3919,7 @@ $messages['uk'] = array(
 	'group-transwiki' => 'Transwiki-імпортери',
 	'group-uploader' => 'Завантажувачі',
 	'group-accountcreator-member' => 'створювач облікових записів',
+	'group-autopatroller-member' => 'автопатрульний',
 	'group-developer-member' => 'розробник',
 	'group-founder-member' => 'засновник',
 	'group-import-member' => 'імпортер',
@@ -3911,6 +3928,7 @@ $messages['uk'] = array(
 	'group-transwiki-member' => 'Transwiki-імпортер',
 	'group-uploader-member' => 'завантажувач',
 	'grouppage-accountcreator' => '{{ns:project}}:Створювачі облікових записів',
+	'grouppage-autopatroller' => '{{ns:project}}:Автопатрульні',
 	'grouppage-developer' => '{{ns:project}}:Розробники',
 	'grouppage-founder' => '{{ns:project}}:Засновники',
 	'grouppage-import' => '{{ns:project}}:Імпортери',
