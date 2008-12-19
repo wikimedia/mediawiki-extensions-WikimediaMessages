@@ -1649,6 +1649,7 @@ $messages['hil'] = array(
 /** Croatian (Hrvatski)
  * @author Dalibor Bosits
  * @author SpeedyGonsales
+ * @author Suradnik13
  */
 $messages['hr'] = array(
 	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
@@ -1656,6 +1657,7 @@ $messages['hr'] = array(
 	'sitesupport' => 'Novčani prilozi',
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'group-accountcreator' => 'Otvaratelji računa',
+	'group-autopatroller' => 'Automatski patrolirani',
 	'group-developer' => 'Sistem administratori',
 	'group-founder' => 'Osnivači',
 	'group-import' => 'Unositelji',
@@ -1664,6 +1666,7 @@ $messages['hr'] = array(
 	'group-transwiki' => 'Međuwiki unositelji',
 	'group-uploader' => 'Postavljači',
 	'group-accountcreator-member' => 'otvaratelj računa',
+	'group-autopatroller-member' => 'Automatski patroliran',
 	'group-developer-member' => 'sistem administrator',
 	'group-founder-member' => 'osnivač',
 	'group-import-member' => 'unositelj',
@@ -1672,6 +1675,7 @@ $messages['hr'] = array(
 	'group-transwiki-member' => 'međuwiki unositelj',
 	'group-uploader-member' => 'postavljač',
 	'grouppage-accountcreator' => '{{ns:project}}:Otvaratelji računa',
+	'grouppage-autopatroller' => '{{ns:project}}:Automatski patrolirani',
 	'grouppage-developer' => '{{ns:project}}:Sistem administratori',
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
 	'grouppage-import' => '{{ns:project}}:Unositelji',
@@ -1996,6 +2000,7 @@ $messages['it'] = array(
 /** Japanese (日本語)
  * @author Aotake
  * @author Fievarsty
+ * @author Hosiryuhosi
  * @author JtFuruhata
  * @author Meno25
  * @author Suisui
@@ -2015,6 +2020,7 @@ $messages['ja'] = array(
 	'group-transwiki' => 'トランスウィキ・インポート権限保持者',
 	'group-uploader' => 'アップロード権限保持者',
 	'group-accountcreator-member' => 'アカウント作成権限保持者',
+	'group-autopatroller-member' => 'オートパトローラー',
 	'group-developer-member' => '開発者',
 	'group-founder-member' => '創立者',
 	'group-import-member' => 'インポート権限保持者',
@@ -2023,6 +2029,7 @@ $messages['ja'] = array(
 	'group-transwiki-member' => 'トランスウィキ・インポート権限保持者',
 	'group-uploader-member' => 'アップロード権限保持者',
 	'grouppage-accountcreator' => '{{ns:project}}:アカウント作成権限保持者',
+	'grouppage-autopatroller' => '{{ns:project}}:オートパトローラー',
 	'grouppage-developer' => '{{ns:project}}:開発者',
 	'grouppage-founder' => '{{ns:project}}:創立者',
 	'grouppage-import' => '{{ns:project}}:インポート権限保持者',
