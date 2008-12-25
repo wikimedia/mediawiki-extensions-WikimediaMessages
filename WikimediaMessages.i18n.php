@@ -2243,6 +2243,7 @@ $messages['kn'] = array(
  * @author Kwj2772
  */
 $messages['ko'] = array(
+	'wikimediamessages-desc' => '위키미디어 전용 메시지',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ko',
 	'sitesupport' => '기부 안내',
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
@@ -3859,9 +3860,11 @@ $messages['ta'] = array(
  * @author Veeven
  */
 $messages['te'] = array(
+	'wikimediamessages-desc' => 'వికీమీడియా సంబంధిత సందేశాలు',
 	'sitesupport' => 'విరాళములు',
 	'tooltip-n-sitesupport' => 'మాకు తోడ్పడండి',
 	'group-steward' => 'స్టీవార్డులు',
+	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
 	'group-steward-member' => 'స్టీవార్డు',
 );
 
