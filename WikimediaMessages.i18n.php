@@ -811,6 +811,7 @@ $messages['cs'] = array(
 	'sitesupport' => 'Podpořte nás',
 	'tooltip-n-sitesupport' => 'Podpořte nás',
 	'group-accountcreator' => 'Zakladatelé účtů',
+	'group-autopatroller' => 'Strážci',
 	'group-developer' => 'Vývojáři',
 	'group-founder' => 'Zakladatelé',
 	'group-import' => 'Importéři',
@@ -819,6 +820,7 @@ $messages['cs'] = array(
 	'group-transwiki' => 'Transwiki importéři',
 	'group-uploader' => 'Načítači souborů',
 	'group-accountcreator-member' => 'zakladatel účtů',
+	'group-autopatroller-member' => 'strážce',
 	'group-developer-member' => 'vývojář',
 	'group-founder-member' => 'zakladatel',
 	'group-import-member' => 'importér',
@@ -827,6 +829,7 @@ $messages['cs'] = array(
 	'group-transwiki-member' => 'transwiki importér',
 	'group-uploader-member' => 'načítač souborů',
 	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
+	'grouppage-autopatroller' => '{{ns:Project}}:Strážci',
 	'grouppage-developer' => '{{ns:project}}:Vývojáři',
 	'grouppage-founder' => '{{ns:project}}:Zakladatelé',
 	'grouppage-import' => '{{ns:project}}:Importéři',
@@ -3844,8 +3847,49 @@ $messages['sw'] = array(
  * @author Lajsikonik
  */
 $messages['szl'] = array(
+	'wikimediamessages-desc' => 'Kůmůńikaty ůńikalne lů projektůw Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pl',
 	'sitesupport' => 'Śćepa',
 	'tooltip-n-sitesupport' => 'Wspůmůž nas',
+	'group-accountcreator' => 'Tworzůncy kůnta',
+	'group-autopatroller' => 'Patrolujůncy autůmatyczńy',
+	'group-developer' => 'Dewelopery',
+	'group-founder' => 'Zołożyćele',
+	'group-import' => 'Importery',
+	'group-ipblock-exempt' => 'Uprowńyńi do logowańo śe s zawartych adresůw IP',
+	'group-rollbacker' => 'Uprowńyńi do wycofywańo sprowjyń',
+	'group-transwiki' => 'Importery transwiki',
+	'group-uploader' => 'Wćepujůncy pliki',
+	'group-accountcreator-member' => 'twůrca kůnt',
+	'group-autopatroller-member' => 'patrolujůncy autůmatyczńy',
+	'group-developer-member' => 'deweloper',
+	'group-founder-member' => 'zołożyćel',
+	'group-import-member' => 'importer',
+	'group-ipblock-exempt-member' => 'uprowńůny do logowańo śe s zawartego adresa IP',
+	'group-rollbacker-member' => 'uprowńůny do wycofywańo sprowjyń',
+	'group-transwiki-member' => 'importer transwiki',
+	'group-uploader-member' => 'wćepujůncy pliki',
+	'grouppage-accountcreator' => '{{ns:project}}:Twůrcy kůnt',
+	'grouppage-autopatroller' => '{{ns:project}}:Patrolujůncy autůmatyczńy',
+	'grouppage-developer' => '{{ns:project}}:Dewelopery',
+	'grouppage-founder' => '{{ns:project}}:Zołożyćele',
+	'grouppage-import' => '{{ns:project}}:Importery',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Uprowńyńi do logowańo śe s zawartych adresůw IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Uprowńyńi do wycofywańo sprowjyń',
+	'grouppage-transwiki' => '{{ns:project}}:Importery transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Wćepujůncy pliki',
+	'group-steward' => 'Stewardy',
+	'group-sysadmin' => 'Admińistratory systymu',
+	'group-Global_bot' => 'Boty globalne',
+	'group-Global_rollback' => 'Globalńy uprowńyńi do wycofywańo sprowjyń',
+	'group-Ombudsmen' => 'Rzeczńiki prow',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'admińistrator systyma',
+	'group-Global_bot-member' => 'bot globalny',
+	'group-Global_rollback-member' => 'globalńy uprowńony do wycofywańo sprowjyń',
+	'group-Ombudsmen-member' => 'rzeczńik prow',
+	'group-coder' => 'Programisty',
+	'group-coder-member' => 'programista',
 );
 
 /** Tamil (தமிழ்)
@@ -3869,6 +3913,8 @@ $messages['te'] = array(
 	'group-developer' => 'వికాసకులు',
 	'group-uploader' => 'ఎగుమతిదార్లు',
 	'group-developer-member' => 'వికాసకుడు',
+	'grouppage-developer' => '{{ns:project}}:వికాసకులు',
+	'grouppage-uploader' => '{{ns:project}}:ఎగుమతిదార్లు',
 	'group-steward' => 'స్టీవార్డులు',
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
 	'group-steward-member' => 'స్టీవార్డు',
@@ -4364,7 +4410,9 @@ $messages['zh-hans'] = array(
 	'group-Ombudsmen-member' => '申诉专员',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文(繁體)‬)
+ * @author Wrightbus
+ */
 $messages['zh-hant'] = array(
 	'wikimediamessages-desc' => '維基媒體特定信息',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/{{urlencode:資助}}',
@@ -4377,6 +4425,7 @@ $messages['zh-hant'] = array(
 	'group-ipblock-exempt' => 'IP查封例外者',
 	'group-rollbacker' => '回退員',
 	'group-transwiki' => '跨維基匯入者',
+	'group-uploader' => '上載者',
 	'group-accountcreator-member' => '賬戶創建員',
 	'group-developer-member' => '開發員',
 	'group-founder-member' => '創辦人',
