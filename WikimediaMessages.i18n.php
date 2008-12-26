@@ -1667,6 +1667,7 @@ $messages['hil'] = array(
 );
 
 /** Croatian (Hrvatski)
+ * @author CERminator
  * @author Dalibor Bosits
  * @author SpeedyGonsales
  * @author Suradnik13
@@ -1699,7 +1700,7 @@ $messages['hr'] = array(
 	'grouppage-developer' => '{{ns:project}}:Sistem administratori',
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
 	'grouppage-import' => '{{ns:project}}:Unositelji',
-	'grouppage-ipblock-exempt' => '{ns:project}}:IP blok iznimka',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blok iznimka',
 	'grouppage-rollbacker' => '{{ns:project}}:Uklonitelji',
 	'grouppage-transwiki' => '{{ns:project}}:Međuwiki unositelji',
 	'grouppage-uploader' => '{{ns:project}}:Postavljači',
@@ -2736,6 +2737,7 @@ $messages['na'] = array(
 $messages['nah'] = array(
 	'sitesupport' => 'Tēyocatiliztli',
 	'tooltip-n-sitesupport' => 'Xitēchtēpalēhuia',
+	'group-uploader' => 'Tlaquetzalōnih',
 	'group-founder-member' => 'Chīhualōni',
 );
 
@@ -3863,6 +3865,10 @@ $messages['te'] = array(
 	'wikimediamessages-desc' => 'వికీమీడియా సంబంధిత సందేశాలు',
 	'sitesupport' => 'విరాళములు',
 	'tooltip-n-sitesupport' => 'మాకు తోడ్పడండి',
+	'group-accountcreator' => 'ఖాతా తయారీదార్లు',
+	'group-developer' => 'వికాసకులు',
+	'group-uploader' => 'ఎగుమతిదార్లు',
+	'group-developer-member' => 'వికాసకుడు',
 	'group-steward' => 'స్టీవార్డులు',
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
 	'group-steward-member' => 'స్టీవార్డు',
@@ -3896,9 +3902,17 @@ $messages['tg-cyrl'] = array(
 	'grouppage-import' => '{{ns:project}}:Воридкунандагон',
 );
 
-/** Thai (ไทย) */
+/** Thai (ไทย)
+ * @author Manop
+ */
 $messages['th'] = array(
+	'wikimediamessages-desc' => 'ข้อความเฉพาะของวิกิมีเดีย',
 	'sitesupport' => 'สนับสนุน',
+	'tooltip-n-sitesupport' => 'สนับสนุนเรา',
+	'group-developer' => 'ผู้พัฒนา',
+	'group-founder' => 'ผู้ก่อตั้ง',
+	'group-founder-member' => 'ผู้ก่อตั้ง',
+	'group-uploader-member' => 'ผู้อัปโหลด',
 );
 
 /** Tagalog (Tagalog)
