@@ -197,6 +197,8 @@ $messages['aln'] = array(
 $messages['am'] = array(
 	'sitesupport' => 'መዋጮ ለመስጠት',
 	'tooltip-n-sitesupport' => 'የገንዘብ ስጦታ ለዊኪሜድያ ይስጡ',
+	'group-founder' => 'መስራች',
+	'group-founder-member' => 'መስራች',
 );
 
 /** Aragonese (Aragonés)
@@ -1151,9 +1153,33 @@ $messages['et'] = array(
 	'tooltip-n-sitesupport' => 'Toeta meid',
 );
 
-/** Basque (Euskara) */
+/** Basque (Euskara)
+ * @author Theklan
+ */
 $messages['eu'] = array(
-	'sitesupport' => 'Emariak',
+	'wikimediamessages-desc' => 'Wikimediaren mezu espezifikoak',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Dohaintzak',
+	'sitesupport' => 'Dohaintzak',
+	'tooltip-n-sitesupport' => 'Lagundu gaitzazu',
+	'group-accountcreator' => 'Kontu sortzailea',
+	'group-autopatroller' => 'Autopatruilariak',
+	'group-developer' => 'Garatzaileak',
+	'group-founder' => 'Fundatzaileak',
+	'group-import' => 'Inportatzaileak',
+	'group-ipblock-exempt' => 'IP blokeo salbuespenak',
+	'group-rollbacker' => 'Desegin dezakete',
+	'group-transwiki' => 'Transwiki inportatzaileak',
+	'group-uploader' => 'Igo dezakete',
+	'group-accountcreator-member' => 'kontu sortzaileak',
+	'group-autopatroller-member' => 'autopatruilalaria',
+	'group-developer-member' => 'garatzailea',
+	'group-founder-member' => 'fundatzailea',
+	'group-import-member' => 'inportatzailea',
+	'group-ipblock-exempt-member' => 'IP blokeo salbuespena',
+	'group-rollbacker-member' => 'desegin dezake',
+	'group-transwiki-member' => 'transwiki inportatzailea',
+	'group-uploader-member' => 'igo dezake',
+	'grouppage-accountcreator' => '{{ns:project}}:Kontu sortzaileak',
 );
 
 /** Extremaduran (Estremeñu)
@@ -2764,18 +2790,33 @@ $messages['nds'] = array(
 	'wikimediamessages-desc' => 'Systemnarichten för Wikimedia',
 	'sitesupport' => 'Spennen',
 	'tooltip-n-sitesupport' => 'Ünnerstütt uns',
+	'group-accountcreator' => 'Brukerkonten-Opstellers',
+	'group-autopatroller' => 'Autopatrollers',
 	'group-developer' => 'Utwicklers',
 	'group-founder' => 'Grünners',
 	'group-import' => 'Importörs',
+	'group-ipblock-exempt' => 'IP-Sperr-Utnahmen',
 	'group-rollbacker' => 'Trüchsetters',
+	'group-transwiki' => 'Transwiki-Importörs',
+	'group-uploader' => 'Hoochladers',
+	'group-accountcreator-member' => 'Brukerkonten-Opsteller',
+	'group-autopatroller-member' => 'Autopatroller',
 	'group-developer-member' => 'Utwickler',
 	'group-founder-member' => 'Grünner',
 	'group-import-member' => 'Importör',
+	'group-ipblock-exempt-member' => 'IP-Sperr-Utnahm',
 	'group-rollbacker-member' => 'Trüchsetter',
+	'group-transwiki-member' => 'Transwiki-Importör',
+	'group-uploader-member' => 'Hoochlader',
+	'grouppage-accountcreator' => '{{ns:project}}:Brukerkonten-Opstellers',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
 	'grouppage-developer' => '{{ns:project}}:Utwicklers',
 	'grouppage-founder' => '{{ns:project}}:Grünners',
 	'grouppage-import' => '{{ns:project}}:Importörs',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperr-Utnahm',
 	'grouppage-rollbacker' => '{{ns:project}}:Trüchsetters',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importörs',
+	'grouppage-uploader' => '{{ns:project}}:Hoochladers',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'System-Administraters',
 	'group-Global_bot' => 'Globale Bots',
@@ -2786,6 +2827,8 @@ $messages['nds'] = array(
 	'group-Global_bot-member' => 'Global Bot',
 	'group-Global_rollback-member' => 'Global Trüchsetter',
 	'group-Ombudsmen-member' => 'Ombudsmann',
+	'group-coder' => 'Programmerers',
+	'group-coder-member' => 'Programmerer',
 );
 
 /** Nedersaksisch (Nedersaksisch)
@@ -2875,6 +2918,7 @@ $messages['nn'] = array(
 	'sitesupport' => 'Gåver',
 	'tooltip-n-sitesupport' => 'Støtt oss',
 	'group-accountcreator' => 'Kontoopprettarar',
+	'group-autopatroller' => 'Automatisk godkjende bidrag',
 	'group-developer' => 'Utviklarar',
 	'group-founder' => 'Grunnleggarar',
 	'group-import' => 'Importørar',
@@ -2883,6 +2927,7 @@ $messages['nn'] = array(
 	'group-transwiki' => 'Transwiki-importørar',
 	'group-uploader' => 'Opplastarar',
 	'group-accountcreator-member' => 'Kontoopprettar',
+	'group-autopatroller-member' => 'automatisk godkjende bidrag',
 	'group-developer-member' => 'utviklar',
 	'group-founder-member' => 'grunnleggar',
 	'group-import-member' => 'importør',
@@ -2891,6 +2936,7 @@ $messages['nn'] = array(
 	'group-transwiki-member' => 'transwiki-importør',
 	'group-uploader-member' => 'opplastar',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
+	'grouppage-autopatroller' => '{{ns:project}}:Automatisk godkjende bidrag',
 	'grouppage-developer' => '{{ns:project}}:Utviklarar',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
 	'grouppage-import' => '{{ns:project}}:Importørar',
@@ -3911,9 +3957,17 @@ $messages['te'] = array(
 	'tooltip-n-sitesupport' => 'మాకు తోడ్పడండి',
 	'group-accountcreator' => 'ఖాతా తయారీదార్లు',
 	'group-developer' => 'వికాసకులు',
+	'group-import' => 'దిగుమతిదార్లు',
+	'group-ipblock-exempt' => 'ఐపీ నిరోధపు మినహాయింపులు',
 	'group-uploader' => 'ఎగుమతిదార్లు',
+	'group-accountcreator-member' => 'ఖాతా సృష్టికర్త',
 	'group-developer-member' => 'వికాసకుడు',
+	'group-import-member' => 'దిగుమతిదారు',
+	'group-ipblock-exempt-member' => 'ఐపీ నిరోధపు మినహాయింపు',
+	'grouppage-accountcreator' => '{{ns:project}}:ఖాతా సృష్టికర్తలు',
 	'grouppage-developer' => '{{ns:project}}:వికాసకులు',
+	'grouppage-import' => '{{ns:project}}:దిగుమతిదార్లు',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:ఐపీ నిరోధపు మినహాయింపు',
 	'grouppage-uploader' => '{{ns:project}}:ఎగుమతిదార్లు',
 	'group-steward' => 'స్టీవార్డులు',
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
@@ -4371,33 +4425,41 @@ $messages['zh-classical'] = array(
 	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文(简体)‬)
+ * @author Gaoxuewei
+ */
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定信息',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/{{urlencode:赞助}}',
 	'sitesupport' => '资助',
 	'tooltip-n-sitesupport' => '资助我们',
 	'group-accountcreator' => '账户创建员',
+	'group-autopatroller' => '自动巡视员',
 	'group-developer' => '开发员',
 	'group-founder' => '创办人',
 	'group-import' => '导入者',
 	'group-ipblock-exempt' => 'IP查封例外者',
 	'group-rollbacker' => '回退员',
 	'group-transwiki' => '跨维基导入者',
+	'group-uploader' => '上传文件用户',
 	'group-accountcreator-member' => '账户创建员',
+	'group-autopatroller-member' => '自动巡视员',
 	'group-developer-member' => '开发员',
 	'group-founder-member' => '创办人',
 	'group-import-member' => '导入者',
 	'group-ipblock-exempt-member' => 'IP查封例外',
 	'group-rollbacker-member' => '回退员',
 	'group-transwiki-member' => '跨维基导入者',
+	'group-uploader-member' => '上传文件用户',
 	'grouppage-accountcreator' => '{{ns:project}}:账户创建员',
+	'grouppage-autopatroller' => '{{ns:project}}:自动巡视员',
 	'grouppage-developer' => '{{ns:project}}:开发员',
 	'grouppage-founder' => '{{ns:project}}:创办人',
 	'grouppage-import' => '{{ns:project}}:回退员',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
 	'grouppage-rollbacker' => '{{ns:project}}:反转者',
 	'grouppage-transwiki' => '{{ns:project}}:跨维基导入者',
+	'grouppage-uploader' => '{{ns:project}}:上传文件用户',
 	'group-steward' => '监管员',
 	'group-sysadmin' => '系统管理员',
 	'group-Global_bot' => '全域机器人',
@@ -4408,6 +4470,8 @@ $messages['zh-hans'] = array(
 	'group-Global_bot-member' => '全域机器人',
 	'group-Global_rollback-member' => '全域反转者',
 	'group-Ombudsmen-member' => '申诉专员',
+	'group-coder' => '编程人员',
+	'group-coder-member' => '编程人员',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
