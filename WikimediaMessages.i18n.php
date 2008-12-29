@@ -699,23 +699,40 @@ $messages['bs'] = array(
 	'group-developer' => 'Razvojni programeri',
 	'group-founder' => 'Osnivači',
 	'group-import' => 'Uvoznici',
+	'group-ipblock-exempt' => 'Izuzeci IP blokada',
+	'group-rollbacker' => 'Povratioci',
+	'group-transwiki' => 'Transwiki uvoznici',
+	'group-uploader' => 'Postavljači',
 	'group-accountcreator-member' => 'kreator računa',
+	'group-autopatroller-member' => 'automatski patroler',
 	'group-developer-member' => 'razvojni programer',
 	'group-founder-member' => 'osnivač',
 	'group-import-member' => 'uvoznik',
+	'group-ipblock-exempt-member' => 'Izuzeci IP blokada',
+	'group-rollbacker-member' => 'povratioc',
+	'group-transwiki-member' => 'transwiki uvoznik',
 	'group-uploader-member' => 'postavljač',
 	'grouppage-accountcreator' => '{{ns:project}}:Kreatori računa',
+	'grouppage-autopatroller' => '{{ns:project}}:Automatski patroleri',
 	'grouppage-developer' => '{{ns:project}}:Razvojni programeri',
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
+	'grouppage-import' => '{{ns:project}}:Uvoznici',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Izuzeci IP blokada',
+	'grouppage-rollbacker' => '{{ns:project}}:Povratioci',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki uvoznici',
 	'grouppage-uploader' => '{{ns:project}}:Postavljači',
 	'group-steward' => 'Stjuardi',
 	'group-sysadmin' => 'Sistemski administratori',
 	'group-Global_bot' => 'Globalni botovi',
+	'group-Global_rollback' => 'Globalni povratioci',
 	'group-Ombudsmen' => 'Ombudsmeni',
 	'group-steward-member' => 'stujard',
 	'group-sysadmin-member' => 'sistemski administrator',
 	'group-Global_bot-member' => 'globalni bot',
+	'group-Global_rollback-member' => 'globalni povratioc',
 	'group-Ombudsmen-member' => 'ombudsmen',
+	'group-coder' => 'Koderi',
+	'group-coder-member' => 'koder',
 );
 
 /** Catalan (Català)
@@ -3391,10 +3408,16 @@ $messages['roa-rup'] = array(
 $messages['roa-tara'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Done',
+	'tooltip-n-sitesupport' => 'Aiutene',
+	'group-developer' => 'Sviluppature',
 	'group-uploader' => 'Carecatore',
 	'group-transwiki-member' => 'Importatore de transuicchi',
 	'group-uploader-member' => 'carecatore',
+	'grouppage-developer' => '{{ns:project}}:Sviluppature',
+	'grouppage-uploader' => '{{ns:project}}:Carecature',
+	'group-sysadmin' => "Amministrature d'u sisteme",
 	'group-sysadmin-member' => 'amministratore de sisteme',
+	'group-Global_bot-member' => 'bot globele',
 );
 
 /** Russian (Русский)
@@ -4068,6 +4091,13 @@ $messages['th'] = array(
 	'group-uploader-member' => 'ผู้อัปโหลด',
 );
 
+/** Turkmen (Türkmen)
+ * @author Runningfridgesrule
+ */
+$messages['tk'] = array(
+	'sitesupport' => 'Haýyr-sawahatlar',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  * @author לערי ריינהארט
@@ -4119,9 +4149,9 @@ $messages['tl'] = array(
 	'grouppage-Global_bot' => 'm:Pandaigdigang bot',
 	'grouppage-Global_rollback' => 'm:Pandaigdigang pagpapagulong-pabalik sa dati',
 	'grouppage-Ombudsmen' => 'm:Komisyon ng tanod-bayan',
-	'group-coder' => 'Mga kodigero',
-	'group-coder-member' => 'kodigero',
-	'grouppage-coder' => 'Proyekto:Kodigero',
+	'group-coder' => 'Mga tagapagkodigo',
+	'group-coder-member' => 'tagapagkodigo',
+	'grouppage-coder' => 'Project:Tagapagkodigo',
 );
 
 /** Tswana (Setswana)
