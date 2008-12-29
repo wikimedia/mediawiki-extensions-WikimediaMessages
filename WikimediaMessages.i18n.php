@@ -699,16 +699,23 @@ $messages['bs'] = array(
 	'group-developer' => 'Razvojni programeri',
 	'group-founder' => 'Osnivači',
 	'group-import' => 'Uvoznici',
+	'group-accountcreator-member' => 'kreator računa',
 	'group-developer-member' => 'razvojni programer',
 	'group-founder-member' => 'osnivač',
 	'group-import-member' => 'uvoznik',
 	'group-uploader-member' => 'postavljač',
+	'grouppage-accountcreator' => '{{ns:project}}:Kreatori računa',
 	'grouppage-developer' => '{{ns:project}}:Razvojni programeri',
+	'grouppage-founder' => '{{ns:project}}:Osnivači',
+	'grouppage-uploader' => '{{ns:project}}:Postavljači',
 	'group-steward' => 'Stjuardi',
 	'group-sysadmin' => 'Sistemski administratori',
 	'group-Global_bot' => 'Globalni botovi',
+	'group-Ombudsmen' => 'Ombudsmeni',
 	'group-steward-member' => 'stujard',
+	'group-sysadmin-member' => 'sistemski administrator',
 	'group-Global_bot-member' => 'globalni bot',
+	'group-Ombudsmen-member' => 'ombudsmen',
 );
 
 /** Catalan (Català)
@@ -1146,11 +1153,26 @@ $messages['es'] = array(
 );
 
 /** Estonian (Eesti)
+ * @author Avjoska
  * @author WikedKentaur
  */
 $messages['et'] = array(
 	'sitesupport' => 'Annetused',
 	'tooltip-n-sitesupport' => 'Toeta meid',
+	'group-autopatroller' => 'Automaatsed patrullijad',
+	'group-developer' => 'Arendajad',
+	'group-founder' => 'Asutajad',
+	'group-import' => 'Importijad',
+	'group-autopatroller-member' => 'automaatne patrullija',
+	'group-developer-member' => 'arendaja',
+	'group-founder-member' => 'asutaja',
+	'group-import-member' => 'importija',
+	'group-steward' => 'Stjuuardid',
+	'group-sysadmin' => 'Süsteemiadministraatorid',
+	'group-Global_bot' => 'Globaalsed robotid',
+	'group-steward-member' => 'stjuuard',
+	'group-sysadmin-member' => 'süsteemiadministraator',
+	'group-Global_bot-member' => 'globaalne robot',
 );
 
 /** Basque (Euskara)
@@ -1180,6 +1202,27 @@ $messages['eu'] = array(
 	'group-transwiki-member' => 'transwiki inportatzailea',
 	'group-uploader-member' => 'igo dezake',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontu sortzaileak',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatruilariak',
+	'grouppage-developer' => '{{ns:project}}:Garatzaileak',
+	'grouppage-founder' => '{{ns:project}}:Fundatzaileak',
+	'grouppage-import' => '{{ns:project}}:Inportatzaileak',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blokeo salbuespenak',
+	'grouppage-rollbacker' => '{{ns:project}}:Desegin dezakete',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki inportatzaileak',
+	'grouppage-uploader' => '{{ns:project}}:Igo dezakete',
+	'group-steward' => 'Stewardak',
+	'group-sysadmin' => 'Sistemaren kudeatzaileak',
+	'group-Global_bot' => 'Bot globalak',
+	'group-Global_rollback' => 'Globalki desegin dezakete',
+	'group-Ombudsmen' => 'Komunitatearen babesleak',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'sistemaren garatzaileak',
+	'group-Global_bot-member' => 'bot globala',
+	'group-Global_rollback-member' => 'globalki desegin dezakete',
+	'group-Ombudsmen-member' => 'komunitatearen babeslea',
+	'grouppage-steward' => 'm:Stewards',
+	'group-coder' => 'Kode egileak',
+	'group-coder-member' => 'code garatzailea',
 );
 
 /** Extremaduran (Estremeñu)
@@ -2234,27 +2277,34 @@ $messages['km'] = array(
 	'sitesupport' => 'វិភាគទាន',
 	'tooltip-n-sitesupport' => 'គាំទ្រ​យើងខ្ញុំ',
 	'group-accountcreator' => 'អ្នកបង្កើតគណនី',
+	'group-autopatroller' => 'អ្នកល្បាត​ស្វ័យប្រវត្តិ',
 	'group-developer' => 'អ្នកអភិវឌ្ឍ',
 	'group-founder' => 'ស្ថាបនិក',
 	'group-import' => 'អ្នកនាំចូល',
 	'group-transwiki' => 'អ្នកនាំចូលអន្តរវិគី',
 	'group-uploader' => 'អ្នក​ផ្ទុកឯកសារឡើង',
 	'group-accountcreator-member' => 'អ្នកបង្កើតគណនី',
+	'group-autopatroller-member' => 'អ្នកល្បាត​ស្វ័យប្រវត្តិ',
 	'group-developer-member' => 'អ្នកអភិវឌ្ឍ',
 	'group-founder-member' => 'ស្ថាបនិក',
 	'group-import-member' => 'អ្នកនាំចូល',
 	'group-transwiki-member' => 'អ្នកនាំចូលអន្តរវិគី',
 	'group-uploader-member' => 'អ្នក​ផ្ទុកឯកសារឡើង',
 	'grouppage-accountcreator' => '{{ns:project}}:អ្នកបង្កើតគណនី',
+	'grouppage-autopatroller' => '{{ns:project}}:អ្នកល្បាត​ស្វ័យប្រវត្តិ',
 	'grouppage-developer' => '{{ns:project}}:អ្នកអភិវឌ្ឍ',
 	'grouppage-founder' => '{{ns:project}}:ស្ថាបនិក',
 	'grouppage-import' => '{{ns:project}}:អ្នកនាំចូល',
 	'grouppage-transwiki' => '{{ns:project}}:អ្នកនាំចូលអន្តរវិគី',
 	'grouppage-uploader' => '{{ns:project}}:អ្នក​ផ្ទុកឯកសារឡើង',
 	'group-sysadmin' => 'អ្នកអភិបាលប្រព័ន្ឋ',
+	'group-Global_bot' => 'រូបយន្ត​សកល',
 	'group-Ombudsmen' => 'អមប៊ុដហ្ស៍ម៉ឹន',
 	'group-sysadmin-member' => 'អ្នកអភិបាលប្រព័ន្ឋ',
+	'group-Global_bot-member' => 'រូបយន្ត​សកល',
 	'group-Ombudsmen-member' => 'អមប៊ុដហ្ស៍ម៉ឹន',
+	'group-coder' => 'អ្នកសរសេរកូដ',
+	'group-coder-member' => 'អ្នកសរសេរកូដ',
 );
 
 /** Kannada (ಕನ್ನಡ)
@@ -3457,10 +3507,12 @@ $messages['sah'] = array(
 
 /** Sicilian (Sicilianu)
  * @author Gmelfi
+ * @author Santu
  * @author לערי ריינהארט
  */
 $messages['scn'] = array(
 	'wikimediamessages-desc' => 'Missaggi spicifici di Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/scn',
 	'sitesupport' => 'Dunazzioni',
 	'tooltip-n-sitesupport' => 'Sustinìticci',
 	'group-accountcreator' => 'Criatura di cunti',
@@ -3991,6 +4043,7 @@ $messages['tet'] = array(
  */
 $messages['tg-cyrl'] = array(
 	'sitesupport' => 'Кӯмаки молӣ',
+	'tooltip-n-sitesupport' => 'Моро дастгири намоед',
 	'group-founder-member' => 'асосгузор',
 	'group-import-member' => 'воридкунанда',
 	'group-ipblock-exempt-member' => 'Истиснои қатъи дастрасии нишонаи интернетӣ',
@@ -4222,26 +4275,32 @@ $messages['vec'] = array(
 	'sitesupport' => 'Donassioni',
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'group-accountcreator' => 'Creatori de account',
+	'group-autopatroller' => 'Patujadori automàteghi',
 	'group-developer' => 'Svilupadori',
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Inportadori',
 	'group-ipblock-exempt' => "Esenzioni dal bloco de l'IP",
 	'group-rollbacker' => 'Ripristinadori',
 	'group-transwiki' => 'Inportadori transwiki',
+	'group-uploader' => 'Caricadori',
 	'group-accountcreator-member' => 'Creator de account',
+	'group-autopatroller-member' => 'patujador automàtego',
 	'group-developer-member' => 'Svilupador',
 	'group-founder-member' => 'Fondator',
 	'group-import-member' => 'Inportador',
 	'group-ipblock-exempt-member' => 'esente dal bloco IP',
 	'group-rollbacker-member' => 'ripristinador',
 	'group-transwiki-member' => 'Inportador transwiki',
+	'group-uploader-member' => 'caricador',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de account',
+	'grouppage-autopatroller' => '{{ns:project}}:Patujadori automàteghi',
 	'grouppage-developer' => '{{ns:project}}:Svilupadori',
 	'grouppage-founder' => '{{ns:project}}:Fondatori',
 	'grouppage-import' => '{{ns:project}}:Inportadori',
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Esenzion dal bloco de l'IP",
 	'grouppage-rollbacker' => '{{ns:project}}:Ripristinadori',
 	'grouppage-transwiki' => '{{ns:project}}:Inportadori transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Caricadori',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Aministradori de sistema',
 	'group-Global_bot' => 'Bot globali',
