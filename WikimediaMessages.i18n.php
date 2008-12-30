@@ -530,26 +530,32 @@ $messages['be-tarask'] = array(
 	'sitesupport' => 'Ахвяраваньні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
 	'group-accountcreator' => 'Стваральнікі рахункаў',
+	'group-autopatroller' => 'Аўтапатруліруючыя',
 	'group-developer' => 'Распрацоўшчыкі',
 	'group-founder' => 'Фундатары',
 	'group-import' => 'Імпартэры',
 	'group-ipblock-exempt' => 'Выключэньні з блякаваньняў ІР-адрасоў',
 	'group-rollbacker' => 'Адкатвальнікі',
 	'group-transwiki' => 'Імпартэры зь іншых вікі',
+	'group-uploader' => 'Загружаемыя',
 	'group-accountcreator-member' => 'стваральнік рахункаў',
+	'group-autopatroller-member' => 'аўтапатруліруючыя',
 	'group-developer-member' => 'распрацоўшчык',
 	'group-founder-member' => 'фундатар',
 	'group-import-member' => 'імпартэр',
 	'group-ipblock-exempt-member' => 'выключэньне з блякаваньняў ІР-адрасоў',
 	'group-rollbacker-member' => 'адкатвальнік',
 	'group-transwiki-member' => 'імпартэр зь іншых вікі',
+	'group-uploader-member' => 'загружаючы',
 	'grouppage-accountcreator' => '{{ns:project}}:Стваральнікі рахункаў',
+	'grouppage-autopatroller' => '{{ns:project}}:Аўтапатрулюемыя',
 	'grouppage-developer' => '{{ns:project}}:Распрацоўшчыкі',
 	'grouppage-founder' => '{{ns:project}}:Фундатары',
 	'grouppage-import' => '{{ns:project}}:Імпартэры',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Выключэньні з блякаваньняў ІР-адрасоў',
 	'grouppage-rollbacker' => '{{ns:project}}:Адкатвальнікі',
 	'grouppage-transwiki' => '{{ns:project}}:Імпартэры зь іншых вікі',
+	'grouppage-uploader' => '{{ns:project}}:Загружаючыя',
 	'group-steward' => 'Сьцюарды',
 	'group-sysadmin' => 'Сыстэмныя адміністратары',
 	'group-Global_bot' => 'Глябальныя робаты',
@@ -558,7 +564,10 @@ $messages['be-tarask'] = array(
 	'group-steward-member' => 'сьцюард',
 	'group-sysadmin-member' => 'сыстэмны адміністратар',
 	'group-Global_bot-member' => 'глябальны робат',
+	'group-Global_rollback-member' => 'глябальны адкатывальнік',
 	'group-Ombudsmen-member' => 'праваабаронца',
+	'group-coder' => 'Праграмісты',
+	'group-coder-member' => 'праграміст',
 );
 
 /** Bulgarian (Български)
@@ -687,6 +696,7 @@ $messages['br'] = array(
 /** Bosnian (Bosanski)
  * @author CERminator
  * @author Demicx
+ * @author Kal-El
  * @author לערי ריינהארט
  */
 $messages['bs'] = array(
@@ -731,6 +741,7 @@ $messages['bs'] = array(
 	'group-Global_bot-member' => 'globalni bot',
 	'group-Global_rollback-member' => 'globalni povratioc',
 	'group-Ombudsmen-member' => 'ombudsmen',
+	'grouppage-steward' => 'm:Stewards',
 	'group-coder' => 'Koderi',
 	'group-coder-member' => 'koder',
 );
@@ -2412,6 +2423,7 @@ $messages['ksh'] = array(
 	'group-Ombudsmen-member' => 'Vermeddeler',
 	'group-coder' => 'Projrammierer',
 	'group-coder-member' => 'Projrammierer',
+	'grouppage-coder' => 'project:Projrammierer',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */
@@ -3410,7 +3422,10 @@ $messages['roa-tara'] = array(
 	'sitesupport' => 'Done',
 	'tooltip-n-sitesupport' => 'Aiutene',
 	'group-developer' => 'Sviluppature',
+	'group-import' => "'Mbortature",
 	'group-uploader' => 'Carecatore',
+	'group-developer-member' => 'sviluppatore',
+	'group-import-member' => "'mbortatore",
 	'group-transwiki-member' => 'Importatore de transuicchi',
 	'group-uploader-member' => 'carecatore',
 	'grouppage-developer' => '{{ns:project}}:Sviluppature',
