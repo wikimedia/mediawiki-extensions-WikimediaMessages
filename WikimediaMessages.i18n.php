@@ -1062,6 +1062,7 @@ $messages['ee'] = array(
 /** Greek (Ελληνικά)
  * @author Badseed
  * @author Consta
+ * @author Omnipaedista
  * @author ZaDiak
  */
 $messages['el'] = array(
@@ -1070,7 +1071,9 @@ $messages['el'] = array(
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
 	'group-founder' => 'Ιδρυτές',
 	'group-founder-member' => 'Ιδρυτής',
+	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματοι περίπολοι',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
 	'group-sysadmin-member' => 'διαχειριστής συστήματος',
 );
 
@@ -1643,9 +1646,17 @@ $messages['grc'] = array(
 	'group-founder' => 'Ἱδρυταί',
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
+	'group-uploader-member' => 'ἐπιφορτιστής',
+	'grouppage-autopatroller' => '{{ns:project}}:Αὐτόματοι περιποληταί',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμιον κλῄσεων IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Ἀπωθηταί',
+	'grouppage-uploader' => '{{ns:project}}:Ἐπιφορτισταί',
 	'group-steward' => 'Φροντισταί',
+	'group-Ombudsmen' => 'Δέκται διαμαρτυριῶν',
 	'group-steward-member' => 'φροντιστής',
+	'group-Global_bot-member' => 'καθολικὸν αὐτόματον',
 	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς',
+	'group-Ombudsmen-member' => 'δέκτης διαμαρτυριῶν',
 	'group-coder' => 'Κωδικεύοντες',
 	'group-coder-member' => 'κωδικεύς',
 );
@@ -2367,6 +2378,8 @@ $messages['ko'] = array(
 	'group-sysadmin-member' => '시스템 관리자',
 	'group-Global_bot-member' => '글로벌 봇',
 	'grouppage-steward' => 'm:Stewards/ko',
+	'group-coder' => '코더',
+	'group-coder-member' => '코더',
 );
 
 /** Kinaray-a (Kinaray-a)
@@ -4080,17 +4093,49 @@ $messages['tet'] = array(
  * @author לערי ריינהארט
  */
 $messages['tg-cyrl'] = array(
+	'wikimediamessages-desc' => 'Пайғомҳои махсуси Викимедиа',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Кӯмаки молӣ',
 	'tooltip-n-sitesupport' => 'Моро дастгири намоед',
+	'group-accountcreator' => 'Эҷодгарони ҳисоб',
+	'group-autopatroller' => 'Гаштзанони худкор',
+	'group-developer' => 'Тавсиядиҳандагон',
+	'group-founder' => 'Бунёдгузорон',
+	'group-import' => 'Воридкунандагон',
+	'group-ipblock-exempt' => 'Истиснои қатъи дастрасии нишонаи IP',
+	'group-rollbacker' => 'Вогардоникунандагон',
+	'group-transwiki' => 'Воридкунандагони трансвики',
+	'group-uploader' => 'Боргузорон',
+	'group-accountcreator-member' => 'эҷодкунандаи ҳисоб',
+	'group-autopatroller-member' => 'гаштзани худкор',
+	'group-developer-member' => 'тавсиядиҳанда',
 	'group-founder-member' => 'асосгузор',
 	'group-import-member' => 'воридкунанда',
 	'group-ipblock-exempt-member' => 'Истиснои қатъи дастрасии нишонаи интернетӣ',
 	'group-rollbacker-member' => 'вогардоникунанда',
 	'group-transwiki-member' => 'воридкунандаи трансвики',
+	'group-uploader-member' => 'боргузор',
 	'grouppage-accountcreator' => '{{ns:project}}:Созандагони ҳисоби корбарӣ',
+	'grouppage-autopatroller' => '{{ns:project}}:Гаштзанони худкор',
 	'grouppage-developer' => '{{ns:project}}:Таъвсиядиҳандагон',
 	'grouppage-founder' => '{{ns:project}}:Асосгузорон',
 	'grouppage-import' => '{{ns:project}}:Воридкунандагон',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Истиснои қатъи дастрасии нишонаи IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Вогардоникунандагон',
+	'grouppage-transwiki' => '{{ns:project}}:Воридкунандагони трансвики',
+	'grouppage-uploader' => '{{ns:project}}:Боргузорон',
+	'group-steward' => 'Википедон',
+	'group-sysadmin' => 'Мудирони систем',
+	'group-Global_bot' => 'Ботҳои саросарӣ',
+	'group-Global_rollback' => 'Вогардоникунандагони саросарӣ',
+	'group-Ombudsmen' => 'Додоварон',
+	'group-steward-member' => 'википед',
+	'group-sysadmin-member' => 'мудири систем',
+	'group-Global_bot-member' => 'боти саросарӣ',
+	'group-Global_rollback-member' => 'вогардоникунандаи саросарӣ',
+	'group-Ombudsmen-member' => 'додовар',
+	'group-coder' => 'барноманависон',
+	'group-coder-member' => 'барноманавис',
 );
 
 /** Thai (ไทย)
