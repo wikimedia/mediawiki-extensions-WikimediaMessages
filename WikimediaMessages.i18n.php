@@ -93,9 +93,10 @@ $messages['en'] = array(
  * @author Meno25
  * @author Purodha
  * @author SPQRobin
+ * @author Siebrand
  */
 $messages['qqq'] = array(
-	'wikimediamessages-desc' => 'Short description of the Wikimediamessages extension, shown in [[Special:Version]]. Do not translate or change links.',
+	'wikimediamessages-desc' => 'Short description of the Wikimediamessages extension, shown in [[Special:Version]].{{doc-important|Do not translate or change links.}}',
 	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
 {{doc-important|Only change the link if it has a translation!|([http://wikimediafoundation.org/wiki/Special:Prefixindex/Donate/ check])}}',
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.",
@@ -537,7 +538,7 @@ $messages['be-tarask'] = array(
 	'group-ipblock-exempt' => 'Выключэньні з блякаваньняў ІР-адрасоў',
 	'group-rollbacker' => 'Адкатвальнікі',
 	'group-transwiki' => 'Імпартэры зь іншых вікі',
-	'group-uploader' => 'Загружаемыя',
+	'group-uploader' => 'Загружаючыя',
 	'group-accountcreator-member' => 'стваральнік рахункаў',
 	'group-autopatroller-member' => 'аўтапатруліруючыя',
 	'group-developer-member' => 'распрацоўшчык',
@@ -1646,6 +1647,7 @@ $messages['grc'] = array(
 	'group-founder' => 'Ἱδρυταί',
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
+	'group-developer-member' => 'ἀναπτύκτης',
 	'group-uploader-member' => 'ἐπιφορτιστής',
 	'grouppage-autopatroller' => '{{ns:project}}:Αὐτόματοι περιποληταί',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμιον κλῄσεων IP',
@@ -2679,6 +2681,7 @@ $messages['mk'] = array(
 	'sitesupport' => 'Донации',
 	'tooltip-n-sitesupport' => 'Подржете не',
 	'group-accountcreator' => 'Креирачи на сметки',
+	'group-autopatroller' => 'Автоматски патролирани',
 	'group-developer' => 'Развивачи',
 	'group-founder' => 'Основачи',
 	'group-import' => 'Увезувачи',
@@ -2687,6 +2690,7 @@ $messages['mk'] = array(
 	'group-transwiki' => 'Трансвики увезувачи',
 	'group-uploader' => 'Подигнувачи',
 	'group-accountcreator-member' => 'создавач на сметка',
+	'group-autopatroller-member' => 'автоматски патролирач',
 	'group-developer-member' => 'развивач',
 	'group-founder-member' => 'основач',
 	'group-import-member' => 'увозник',
@@ -2695,6 +2699,7 @@ $messages['mk'] = array(
 	'group-transwiki-member' => 'трансвики увозник',
 	'group-uploader-member' => 'подигнувач',
 	'grouppage-accountcreator' => '{{ns:project}}:Создавачи на сметки',
+	'grouppage-autopatroller' => '{{ns:project}}:Автоматски патролирачи',
 	'grouppage-developer' => '{{ns:project}}:Развивачи',
 	'grouppage-founder' => '{{ns:project}}:Основачи',
 	'grouppage-import' => '{{ns:project}}:Увезувачи',
