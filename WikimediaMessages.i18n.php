@@ -547,7 +547,7 @@ $messages['be-tarask'] = array(
 	'group-ipblock-exempt-member' => 'выключэньне з блякаваньняў ІР-адрасоў',
 	'group-rollbacker-member' => 'адкатвальнік',
 	'group-transwiki-member' => 'імпартэр зь іншых вікі',
-	'group-uploader-member' => 'загружаючы',
+	'group-uploader-member' => 'загружаючы файлы',
 	'grouppage-accountcreator' => '{{ns:project}}:Стваральнікі рахункаў',
 	'grouppage-autopatroller' => '{{ns:project}}:Аўтапатрулюемыя',
 	'grouppage-developer' => '{{ns:project}}:Распрацоўшчыкі',
@@ -2459,10 +2459,12 @@ $messages['ky'] = array(
 );
 
 /** Latin (Latina)
+ * @author UV
  * @author לערי ריינהארט
  */
 $messages['la'] = array(
 	'sitesupport' => 'Donationes',
+	'group-rollbacker-member' => 'revertor',
 );
 
 /** Ladino (Ladino)
@@ -3295,7 +3297,9 @@ $messages['ps'] = array(
 	'tooltip-n-sitesupport' => 'زموږ ملاتړ وکړی',
 	'group-accountcreator' => 'کارن-حساب جوړونکي',
 	'group-developer' => 'پرمخبوونکي',
+	'group-founder' => 'بنسټګران',
 	'group-accountcreator-member' => 'کارن-حساب جوړونکی',
+	'group-founder-member' => 'بنسټګر',
 	'grouppage-accountcreator' => '{{ns:project}}:کارن-حساب جوړونکي',
 	'grouppage-developer' => '{{ns:project}}:پرمخبوونکي',
 	'group-sysadmin' => 'د غونډال پازوالان',
@@ -4463,10 +4467,30 @@ $messages['vi'] = array(
 
 /** Volapük (Volapük)
  * @author Malafaya
+ * @author Smeira
  */
 $messages['vo'] = array(
 	'sitesupport' => 'Födagivots',
 	'tooltip-n-sitesupport' => 'Stütolös obsi',
+	'group-accountcreator' => 'Kalijafans',
+	'group-founder' => 'Fünans',
+	'group-import' => 'Nüveigans',
+	'group-rollbacker' => 'Sädunans',
+	'group-uploader' => 'Löpükans',
+	'group-accountcreator-member' => 'kalijafan',
+	'group-founder-member' => 'fünan',
+	'group-import-member' => 'nüveigan',
+	'group-rollbacker-member' => 'sädunan',
+	'group-uploader-member' => 'löpükan',
+	'grouppage-accountcreator' => '{{ns:project}}:Kalijafans',
+	'grouppage-founder' => '{{ns:project}}:Fünans',
+	'grouppage-import' => '{{ns:project}}:Nüveigans',
+	'grouppage-rollbacker' => '{{ns:project}}:Sädunans',
+	'grouppage-uploader' => '{{ns:project}}:Löpükans',
+	'group-sysadmin' => 'Sitiguvans',
+	'group-sysadmin-member' => 'sitiguvan',
+	'group-coder' => 'Kotans',
+	'group-coder-member' => 'kotan',
 );
 
 /** Walloon (Walon)
