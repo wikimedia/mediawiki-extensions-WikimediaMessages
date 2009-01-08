@@ -2845,6 +2845,7 @@ $messages['my'] = array(
 $messages['myv'] = array(
 	'sitesupport' => 'Лезксйармаконь максома',
 	'tooltip-n-sitesupport' => 'Макста миненек нежедематарка',
+	'group-founder' => 'Лувонь путыйть',
 );
 
 /** Mazanderani (مَزِروني)
@@ -3865,26 +3866,32 @@ $messages['stq'] = array(
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unnerstutse uus',
 	'group-accountcreator' => 'Benutserkonten-Moakere',
+	'group-autopatroller' => 'Automatiske Wröigere',
 	'group-developer' => 'Systemadministrator',
 	'group-founder' => 'Gruundere',
 	'group-import' => 'Importeur',
 	'group-ipblock-exempt' => 'IP-Speere-Uutnoamen',
 	'group-rollbacker' => 'Touräächsättere',
 	'group-transwiki' => 'Transwiki-Importeure',
+	'group-uploader' => 'Hoochleedere',
 	'group-accountcreator-member' => 'Benutserkonten-Moaker',
+	'group-autopatroller-member' => 'Automatisken Wröiger',
 	'group-developer-member' => 'Systemadministrator',
 	'group-founder-member' => 'Gruunder',
 	'group-import-member' => 'Importeur',
 	'group-ipblock-exempt-member' => 'IP-Speere-Uutnoame',
 	'group-rollbacker-member' => 'Touräächsätter',
 	'group-transwiki-member' => 'Transwiki-Importeur',
+	'group-uploader-member' => 'Hoochleeder',
 	'grouppage-accountcreator' => '{{ns:project}}:Benutserkonten-Moakere',
+	'grouppage-autopatroller' => '{{ns:project}}:Automatiske Wröigere',
 	'grouppage-developer' => '{{ns:project}}:Systemadministratore',
 	'grouppage-founder' => '{{ns:project}}:Gruundere',
 	'grouppage-import' => '{{ns:project}}:Importeure',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Speere-Uutnoame',
 	'grouppage-rollbacker' => '{{ns:project}}:Touräächsättere',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeure',
+	'grouppage-uploader' => '{{ns:project}}:Hoochleedere',
 	'group-steward' => 'Stewarde',
 	'group-sysadmin' => 'Systemadministratore',
 	'group-Global_bot' => 'Globoale Bots',
@@ -3896,6 +3903,8 @@ $messages['stq'] = array(
 	'group-Global_rollback-member' => 'Globoalen Touräächsätter',
 	'group-Ombudsmen-member' => 'Ombudspersoon',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
+	'group-coder' => 'Programmierdere',
+	'group-coder-member' => 'Programmierder',
 );
 
 /** Sundanese (Basa Sunda)
