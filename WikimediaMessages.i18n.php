@@ -531,23 +531,23 @@ $messages['be-tarask'] = array(
 	'sitesupport' => 'Ахвяраваньні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
 	'group-accountcreator' => 'Стваральнікі рахункаў',
-	'group-autopatroller' => 'Аўтапатруліруючыя',
+	'group-autopatroller' => 'Аўтапатрулюемыя',
 	'group-developer' => 'Распрацоўшчыкі',
 	'group-founder' => 'Фундатары',
 	'group-import' => 'Імпартэры',
 	'group-ipblock-exempt' => 'Выключэньні з блякаваньняў ІР-адрасоў',
 	'group-rollbacker' => 'Адкатвальнікі',
 	'group-transwiki' => 'Імпартэры зь іншых вікі',
-	'group-uploader' => 'Загружаючыя',
+	'group-uploader' => 'Загружальнікі',
 	'group-accountcreator-member' => 'стваральнік рахункаў',
-	'group-autopatroller-member' => 'аўтапатруліруючыя',
+	'group-autopatroller-member' => 'аўтапатрулюемыя',
 	'group-developer-member' => 'распрацоўшчык',
 	'group-founder-member' => 'фундатар',
 	'group-import-member' => 'імпартэр',
 	'group-ipblock-exempt-member' => 'выключэньне з блякаваньняў ІР-адрасоў',
 	'group-rollbacker-member' => 'адкатвальнік',
 	'group-transwiki-member' => 'імпартэр зь іншых вікі',
-	'group-uploader-member' => 'загружаючы файлы',
+	'group-uploader-member' => 'загружальнік',
 	'grouppage-accountcreator' => '{{ns:project}}:Стваральнікі рахункаў',
 	'grouppage-autopatroller' => '{{ns:project}}:Аўтапатрулюемыя',
 	'grouppage-developer' => '{{ns:project}}:Распрацоўшчыкі',
@@ -556,7 +556,7 @@ $messages['be-tarask'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Выключэньні з блякаваньняў ІР-адрасоў',
 	'grouppage-rollbacker' => '{{ns:project}}:Адкатвальнікі',
 	'grouppage-transwiki' => '{{ns:project}}:Імпартэры зь іншых вікі',
-	'grouppage-uploader' => '{{ns:project}}:Загружаючыя',
+	'grouppage-uploader' => '{{ns:project}}:Загружальнікі',
 	'group-steward' => 'Сьцюарды',
 	'group-sysadmin' => 'Сыстэмныя адміністратары',
 	'group-Global_bot' => 'Глябальныя робаты',
@@ -565,7 +565,7 @@ $messages['be-tarask'] = array(
 	'group-steward-member' => 'сьцюард',
 	'group-sysadmin-member' => 'сыстэмны адміністратар',
 	'group-Global_bot-member' => 'глябальны робат',
-	'group-Global_rollback-member' => 'глябальны адкатывальнік',
+	'group-Global_rollback-member' => 'глябальны адкатвальнік',
 	'group-Ombudsmen-member' => 'праваабаронца',
 	'group-coder' => 'Праграмісты',
 	'group-coder-member' => 'праграміст',
@@ -907,8 +907,33 @@ $messages['cv'] = array(
  * @author Lloffiwr
  */
 $messages['cy'] = array(
+	'wikimediamessages-desc' => 'Negeseuon neilltuol Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/cy',
 	'sitesupport' => 'Rhoi arian',
 	'tooltip-n-sitesupport' => "Ein cefnogi'n ariannol",
+	'group-developer' => 'Datblygwyr',
+	'group-founder' => 'Sefydlwyr',
+	'group-import' => 'Mewnforwyr',
+	'group-transwiki' => 'Mewnforwyr trawswici',
+	'group-uploader' => 'Uwchlwythwyr',
+	'group-developer-member' => 'datblygwr',
+	'group-founder-member' => 'sefydlydd',
+	'group-import-member' => 'mewnforwr',
+	'group-transwiki-member' => 'mewnforwr trawswici',
+	'group-uploader-member' => 'uwchlwythwr',
+	'grouppage-developer' => '{{ns:project}}:Datblygwyr',
+	'grouppage-founder' => '{{ns:project}}:Sefydlwyr',
+	'grouppage-import' => '{{ns:project}}:Mewnforwyr',
+	'grouppage-transwiki' => '{{ns:project}}:Mewnforwyr trawswici',
+	'grouppage-uploader' => '{{ns:project}}:Uwchlwythwyr',
+	'group-steward' => 'Stiwardiaid',
+	'group-sysadmin' => 'Gweinyddwyr y system',
+	'group-Global_bot' => 'Botiau wici-gyfan',
+	'group-Ombudsmen' => 'Ombwdsmyn',
+	'group-steward-member' => 'stiward',
+	'group-sysadmin-member' => 'gweinyddwr y system',
+	'group-Global_bot-member' => 'bot wici-gyfan',
+	'group-Ombudsmen-member' => 'ombwdsmon',
 );
 
 /** Danish (Dansk)
@@ -1135,6 +1160,7 @@ $messages['eo'] = array(
 
 /** Spanish (Español)
  * @author Ascánder
+ * @author Dferg
  * @author Platonides
  * @author Sanbec
  */
@@ -1149,7 +1175,7 @@ $messages['es'] = array(
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
 	'group-ipblock-exempt' => 'Dispensas de bloqueo IP',
-	'group-rollbacker' => 'Pueden deshacer',
+	'group-rollbacker' => 'Reversores',
 	'group-transwiki' => 'Importadores transwiki',
 	'group-uploader' => 'Cargadores',
 	'group-accountcreator-member' => 'creador de la cuenta',
@@ -1158,7 +1184,7 @@ $messages['es'] = array(
 	'group-founder-member' => 'fundador',
 	'group-import-member' => 'importador',
 	'group-ipblock-exempt-member' => 'dispensa de bloqueo IP',
-	'group-rollbacker-member' => 'puede deshacer',
+	'group-rollbacker-member' => 'Reversor',
 	'group-transwiki-member' => 'Importador transwiki',
 	'group-uploader-member' => 'cargador',
 	'grouppage-accountcreator' => '{{ns:project}}:Creadores de cuentas',
@@ -1663,9 +1689,53 @@ $messages['grc'] = array(
 	'group-coder-member' => 'κωδικεύς',
 );
 
-/** Swiss German (Alemannisch) */
+/** Swiss German (Alemannisch)
+ * @author Als-Holder
+ */
 $messages['gsw'] = array(
+	'wikimediamessages-desc' => 'Wikimediaspezifischi Syschtemnochrichte',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport' => 'Finanzielli Hilf',
+	'tooltip-n-sitesupport' => 'Unterstitz is',
+	'group-accountcreator' => 'Benutzerkonte-Aaleger',
+	'group-autopatroller' => 'Automatischi Priefer',
+	'group-developer' => 'Systemadminischtratore',
+	'group-founder' => 'Grinder',
+	'group-import' => 'Importeur',
+	'group-ipblock-exempt' => 'IP-Sperri-Usnahme',
+	'group-rollbacker' => 'Zrucksetzer',
+	'group-transwiki' => 'Transwiki-Importeur',
+	'group-uploader' => 'Uffelader',
+	'group-accountcreator-member' => 'Benutzerkonte-Aaleger',
+	'group-autopatroller-member' => 'Automatische Priefer',
+	'group-developer-member' => 'Syschtemadminischtrator',
+	'group-founder-member' => 'Grinder',
+	'group-import-member' => 'Importeur',
+	'group-ipblock-exempt-member' => 'IP-Sperri-Usnahm',
+	'group-rollbacker-member' => 'Zrucksetzer',
+	'group-transwiki-member' => 'Transwiki-Importeur',
+	'group-uploader-member' => 'Uffelader',
+	'grouppage-accountcreator' => '{{ns:project}}:Benutzerkonte-Aaleger',
+	'grouppage-autopatroller' => '{{ns:project}}:Automatischi Priefer',
+	'grouppage-developer' => '{{ns:project}}:Syschtemadminischtratore',
+	'grouppage-founder' => '{{ns:project}}:Grinder',
+	'grouppage-import' => '{{ns:project}}:Importeur',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperri-Usnahm',
+	'grouppage-rollbacker' => '{{ns:project}}:Zrucksetzer',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeur',
+	'grouppage-uploader' => '{{ns:project}}:Uffelader',
+	'group-steward' => 'Steward',
+	'group-sysadmin' => 'Syschtemadminischtratore',
+	'group-Global_bot' => 'Wältwyti Bötli',
+	'group-Global_rollback' => 'Wältwyti Zrucksetzer',
+	'group-Ombudsmen' => 'Ombudsmanne',
+	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'Syschtemadminischtrator',
+	'group-Global_bot-member' => 'Wältwyt Bötli',
+	'group-Global_rollback-member' => 'Wältwyte Zrucksetzer',
+	'group-Ombudsmen-member' => 'Ombudsmann',
+	'group-coder' => 'Programmierer',
+	'group-coder-member' => 'Programmierer',
 );
 
 /** Gujarati (ગુજરાતી)
@@ -2726,7 +2796,7 @@ $messages['mk'] = array(
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
 	'group-coder' => 'Програмери',
 	'group-coder-member' => 'програмер',
-	'grouppage-coder' => 'Проект:Програмер',
+	'grouppage-coder' => 'Project:Програмер',
 );
 
 /** Malayalam (മലയാളം)
@@ -3177,6 +3247,13 @@ $messages['oc'] = array(
 	'group-Ombudsmen-member' => 'Comissari',
 	'group-coder' => 'Encodaires',
 	'group-coder-member' => 'encodaire',
+);
+
+/** Oriya (ଓଡ଼ିଆ)
+ * @author Jose77
+ */
+$messages['or'] = array(
+	'sitesupport' => 'ଦାନ',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
@@ -4265,11 +4342,13 @@ $messages['tpi'] = array(
 );
 
 /** Turkish (Türkçe)
+ * @author Joseph
  * @author Karduelis
  */
 $messages['tr'] = array(
 	'wikimediamessages-desc' => 'Vikimedya özel mesajları',
 	'sitesupport' => 'Bağışlar',
+	'tooltip-n-sitesupport' => 'Bizi destekleyin',
 	'group-steward' => 'Stewardlar',
 	'group-sysadmin' => 'Sistem yöneticileri',
 	'group-sysadmin-member' => 'Sistem yöneticisi',
@@ -4496,6 +4575,7 @@ $messages['vo'] = array(
 	'group-founder-member' => 'fünan',
 	'group-import-member' => 'nüveigan',
 	'group-rollbacker-member' => 'sädunan',
+	'group-transwiki-member' => 'nüveigan vüvükik',
 	'group-uploader-member' => 'löpükan',
 	'grouppage-accountcreator' => '{{ns:project}}:Kalijafans',
 	'grouppage-founder' => '{{ns:project}}:Fünans',
@@ -4504,6 +4584,7 @@ $messages['vo'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Löpükans',
 	'group-sysadmin' => 'Sitiguvans',
 	'group-sysadmin-member' => 'sitiguvan',
+	'group-Global_bot-member' => 'bot valöpik',
 	'group-coder' => 'Kotans',
 	'group-coder-member' => 'kotan',
 );
