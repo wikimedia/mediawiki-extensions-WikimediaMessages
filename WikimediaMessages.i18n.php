@@ -751,6 +751,7 @@ $messages['bs'] = array(
  * @author Juanpabl
  * @author Martorell
  * @author Paucabot
+ * @author SMP
  */
 $messages['ca'] = array(
 	'wikimediamessages-desc' => 'Missatges específics de Wikimedia',
@@ -781,12 +782,12 @@ $messages['ca'] = array(
 	'group-sysadmin' => 'Administradors del sistema',
 	'group-Global_bot' => 'Bots globals',
 	'group-Global_rollback' => 'Revertidors ràpids globals',
-	'group-Ombudsmen' => 'Defensors del poble',
+	'group-Ombudsmen' => 'Síndics de greuges',
 	'group-steward-member' => 'Majordom',
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'Revertidor ràpid global',
-	'group-Ombudsmen-member' => 'Defensor del poble',
+	'group-Ombudsmen-member' => 'síndic de greuges',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
@@ -2329,11 +2330,14 @@ $messages['jv'] = array(
 
 /** Georgian (ქართული)
  * @author Alsandro
+ * @author Malafaya
  * @author לערי ריינהארט
  */
 $messages['ka'] = array(
 	'sitesupport' => 'შეწირულობები',
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
+	'group-steward' => 'სტიუარდები',
+	'group-steward-member' => 'სტიუარდი',
 );
 
 /** Kara-Kalpak (Qaraqalpaqsha)
@@ -3254,6 +3258,13 @@ $messages['oc'] = array(
  */
 $messages['or'] = array(
 	'sitesupport' => 'ଦାନ',
+);
+
+/** Ossetic (Иронау)
+ * @author Amikeco
+ */
+$messages['os'] = array(
+	'group-founder' => 'Бындурæвæрджытæ',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
