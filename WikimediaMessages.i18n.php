@@ -1665,7 +1665,6 @@ $messages['got'] = array(
 	'sitesupport' => 'Hairtiþaskatts',
 	'tooltip-n-sitesupport' => 'Hairtiþ uns',
 );
-
 /** Ancient Greek (Ἀρχαία ἑλληνικὴ)
  * @author LeighvsOptimvsMaximvs
  * @author Omnipaedista
@@ -2753,6 +2752,7 @@ $messages['mdf'] = array(
 $messages['mg'] = array(
 	'wikimediamessages-desc' => 'Afatra manokana ny Wikimedia',
 	'sitesupport' => 'Fanomezana',
+	'tooltip-n-sitesupport' => 'Ampio izahay',
 	'group-accountcreator' => 'Mpanokatra kaonty',
 	'group-autopatroller' => 'Rôbô mpijery',
 	'group-developer' => 'Mpampivelatra',
