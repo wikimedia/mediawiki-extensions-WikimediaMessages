@@ -146,7 +146,7 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
-/** Achinese (Achèh)
+/** Achinese (Acèh)
  * @author Andri.h
  */
 $messages['ace'] = array(
@@ -607,6 +607,7 @@ $messages['bm'] = array(
 );
 
 /** Bengali (বাংলা)
+ * @author Abdullah Harun Jewel
  * @author Bellayet
  * @author Zaheen
  */
@@ -616,6 +617,7 @@ $messages['bn'] = array(
 	'sitesupport' => 'দান করুন',
 	'tooltip-n-sitesupport' => 'আমাদের সহায়তা করুন',
 	'group-accountcreator' => 'অ্যাকাউন্ট তৈরি করেন যারা',
+	'group-autopatroller' => 'স্বয়ংক্রীয়-পর্যবেক্ষকবৃন্দ',
 	'group-developer' => 'ডেভেলোপারগণ',
 	'group-founder' => 'উদ্যোক্তা',
 	'group-import' => 'আমদানীকারক',
@@ -636,10 +638,12 @@ $messages['bn'] = array(
 	'group-sysadmin' => 'সিস্টেম প্রশাসকগণ',
 	'group-Global_bot' => 'গ্লোবাল বটসমূহ',
 	'group-Global_rollback' => 'গ্লোবাল রোলব্যাকারগণ',
+	'group-Ombudsmen' => 'ন্যায়পাল',
 	'group-steward-member' => 'স্টিউয়ার্ড',
 	'group-sysadmin-member' => 'সিস্টেম প্রশাসক',
 	'group-Global_bot-member' => 'গ্লোবাল বট',
 	'group-Global_rollback-member' => 'গ্লোবাল রোলব্যাকার',
+	'group-Ombudsmen-member' => 'ন্যায়পাল সদস্য',
 );
 
 /** Tibetan (བོད་ཡིག) */
@@ -1675,14 +1679,20 @@ $messages['grc'] = array(
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
 	'group-developer-member' => 'ἀναπτύκτης',
+	'group-founder-member' => 'ἱδρυτής',
+	'group-import-member' => 'εἰσαγωγεύς',
+	'group-rollbacker-member' => 'μεταστροφεύς',
 	'group-uploader-member' => 'ἐπιφορτιστής',
 	'grouppage-autopatroller' => '{{ns:project}}:Αὐτόματοι περιποληταί',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμιον κλῄσεων IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Ἀπωθηταί',
 	'grouppage-uploader' => '{{ns:project}}:Ἐπιφορτισταί',
 	'group-steward' => 'Φροντισταί',
+	'group-Global_bot' => 'Καθολικὰ αὐτόματα',
+	'group-Global_rollback' => 'Καθολικοί μεταστροφεῖς',
 	'group-Ombudsmen' => 'Δέκται διαμαρτυριῶν',
 	'group-steward-member' => 'φροντιστής',
+	'group-sysadmin-member' => 'ἐπίτροπος συστήματος',
 	'group-Global_bot-member' => 'καθολικὸν αὐτόματον',
 	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς',
 	'group-Ombudsmen-member' => 'δέκτης διαμαρτυριῶν',
@@ -2737,9 +2747,32 @@ $messages['mdf'] = array(
 	'tooltip-n-sitesupport' => 'Макст тейнек лезкс',
 );
 
-/** Malagasy (Malagasy) */
+/** Malagasy (Malagasy)
+ * @author Jagwar
+ */
 $messages['mg'] = array(
+	'wikimediamessages-desc' => 'Afatra manokana ny Wikimedia',
 	'sitesupport' => 'Fanomezana',
+	'group-accountcreator' => 'Mpanokatra kaonty',
+	'group-autopatroller' => 'Rôbô mpijery',
+	'group-developer' => 'Mpampivelatra',
+	'group-founder' => 'Mpamorina',
+	'group-import' => 'Mpanafatra',
+	'group-rollbacker' => 'Mpamafa',
+	'group-transwiki' => 'Mpanafatra transwiki',
+	'group-uploader' => 'Mpampiditra',
+	'group-accountcreator-member' => 'Mpamokatra kaonty',
+	'group-founder-member' => 'Mpamorina',
+	'group-import-member' => 'Mpanafatra',
+	'group-rollbacker-member' => 'Mpamafa',
+	'group-transwiki-member' => 'Mpanafatra transwiki',
+	'grouppage-accountcreator' => '{{ns:project}}:Mpamokatra kaonty',
+	'grouppage-autopatroller' => '{{ns:project}}:Rôbô Mpijery',
+	'grouppage-developer' => '{{ns:project}}:Mpamelatra',
+	'grouppage-founder' => '{{ns:project}}:Mpamorina',
+	'group-steward' => 'Steward',
+	'group-sysadmin' => 'Mpandrindra ny sistema',
+	'group-sysadmin-member' => 'Mpandrindra ny Sistema',
 );
 
 /** Maori (Māori) */
@@ -4360,9 +4393,17 @@ $messages['tr'] = array(
 	'wikimediamessages-desc' => 'Vikimedya özel mesajları',
 	'sitesupport' => 'Bağışlar',
 	'tooltip-n-sitesupport' => 'Bizi destekleyin',
+	'group-developer' => 'Geliştiriciler',
+	'group-founder' => 'Kurucular',
+	'group-developer-member' => 'geliştirici',
+	'group-founder-member' => 'kurucu',
+	'grouppage-developer' => '{{ns:project}}:Geliştiriciler',
+	'grouppage-founder' => '{{ns:project}}:Kurucular',
 	'group-steward' => 'Stewardlar',
 	'group-sysadmin' => 'Sistem yöneticileri',
+	'group-Global_bot' => 'Küresel botlar',
 	'group-sysadmin-member' => 'Sistem yöneticisi',
+	'group-Global_bot-member' => 'küresel bot',
 	'grouppage-steward' => '{{ns:project}}:Stewardlar',
 );
 
