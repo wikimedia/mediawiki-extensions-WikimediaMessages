@@ -621,20 +621,34 @@ $messages['bn'] = array(
 	'group-developer' => 'ডেভেলোপারগণ',
 	'group-founder' => 'উদ্যোক্তা',
 	'group-import' => 'আমদানীকারক',
+	'group-ipblock-exempt' => 'আইপি নিষেধাজ্ঞা রহিতকরণ',
 	'group-rollbacker' => 'রোলব্যাকারগণ',
 	'group-transwiki' => 'ট্রান্সউইকি ইম্পোর্টারগণ',
+	'group-uploader' => 'উত্তোলনকারীবৃন্দ
+ওয়েব সার্ভারে ফাইল উত্তোলনকারী',
 	'group-accountcreator-member' => 'অ্যাকাউন্ট তৈরি করেন যিনি',
+	'group-autopatroller-member' => 'স্বয়ংক্রীয় পর্যবেক্ষক',
 	'group-developer-member' => 'ডেভেলোপার',
-	'group-founder-member' => 'উদ্যোক্তা',
+	'group-founder-member' => 'প্রতিষ্ঠাতা',
 	'group-import-member' => 'ইম্পোর্টার',
+	'group-ipblock-exempt-member' => 'আইপি নিষেধাজ্ঞা রহিত',
 	'group-rollbacker-member' => 'রোলব্যাকার',
 	'group-transwiki-member' => 'ট্রান্সউইকি ইম্পোর্টার',
-	'grouppage-developer' => '{{ns:project}}:ডেভেলোপার',
-	'grouppage-founder' => '{{ns:project}}:প্রতিষ্ঠাতা',
-	'grouppage-import' => '{{ns:project}}:ইম্পোর্টার',
+	'group-uploader-member' => 'উত্তোলনকারী
+<BR>যে সার্ভারে ফাইল উত্তোলন করে।',
+	'grouppage-accountcreator' => '{{ns:প্রকল্প}}:হিসাব সৃষ্টিকারীগণ
+<BR>যারা ব্যবহারকারী হিসাব তৈরী করে।',
+	'grouppage-autopatroller' => '{{ns:প্রকল্প}}:স্বয়ংক্রীয় পর্যবেক্ষকগণ
+<BR>যারা গোষ্ঠীসমূহের পৃষ্ঠাগুলো পর্যবেক্ষন করে।',
+	'grouppage-developer' => '{{ns:প্রকল্প}}:ডেভেলোপারগণ',
+	'grouppage-founder' => '{{ns:project}}:প্রতিষ্ঠাতাগণ',
+	'grouppage-import' => '{{ns:project}}:ইম্পোর্টারগণ',
+	'grouppage-ipblock-exempt' => '{{ns:প্রকল্প}}:আইপি নিষেধাজ্ঞা রহিত',
 	'grouppage-rollbacker' => '{{ns:project}}:রোলব্যাকার',
-	'grouppage-transwiki' => '{{ns:project}}:ট্রান্সউইকি ইম্পোর্টার',
-	'group-steward' => 'স্টিউয়ার্ডগণ',
+	'grouppage-transwiki' => '{{ns:প্রকল্প}}:ট্রান্সউইকি ইম্পোর্টারগণ',
+	'grouppage-uploader' => '{{ns:প্রকল্প}}:উত্তোলনকারীগণ
+<BR>যারা গোষ্ঠীর পৃষ্ঠাসমূহ সার্ভারে উত্তোলন করে।',
+	'group-steward' => 'স্ট্যুয়ার্ডগণ',
 	'group-sysadmin' => 'সিস্টেম প্রশাসকগণ',
 	'group-Global_bot' => 'গ্লোবাল বটসমূহ',
 	'group-Global_rollback' => 'গ্লোবাল রোলব্যাকারগণ',
@@ -2723,6 +2737,13 @@ $messages['lv'] = array(
 	'tooltip-n-sitesupport' => 'Atbalsti mūs',
 );
 
+/** Classical Chinese (文言) */
+$messages['lzh'] = array(
+	'wikimediamessages-desc' => '維基媒體特集',
+	'sitesupport' => '捐助集',
+	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
+);
+
 /** Maithili (मैथिली)
  * @author Ggajendra
  */
@@ -4685,10 +4706,15 @@ $messages['xmf'] = array(
 
 /** Yiddish (ייִדיש)
  * @author Yidel
+ * @author פוילישער
  */
 $messages['yi'] = array(
 	'sitesupport' => 'ביישטייערונגן',
 	'tooltip-n-sitesupport' => 'שטיצט אונז',
+	'group-import' => 'אימפארטירערס',
+	'group-import-member' => 'אימפארטירער',
+	'group-steward' => 'סטואַרדן',
+	'group-steward-member' => 'סטואַרד',
 );
 
 /** Yoruba (Yorùbá)
@@ -4742,13 +4768,6 @@ $messages['yue'] = array(
  */
 $messages['zea'] = array(
 	'sitesupport' => 'Donaoties',
-);
-
-/** Classical Chinese (文言) */
-$messages['lzh'] = array(
-	'wikimediamessages-desc' => '維基媒體特集',
-	'sitesupport' => '捐助集',
-	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
 );
 
 /** Simplified Chinese (‪中文(简体)‬)
