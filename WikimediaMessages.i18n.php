@@ -4745,7 +4745,7 @@ $messages['zea'] = array(
 );
 
 /** Classical Chinese (文言) */
-$messages['zh-classical'] = array(
+$messages['lzh'] = array(
 	'wikimediamessages-desc' => '維基媒體特集',
 	'sitesupport' => '捐助集',
 	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
