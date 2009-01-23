@@ -2354,9 +2354,11 @@ $messages['jv'] = array(
 /** Georgian (ქართული)
  * @author Alsandro
  * @author Malafaya
+ * @author Temuri rajavi
  * @author לערי ריינהארט
  */
 $messages['ka'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ka',
 	'sitesupport' => 'შეწირულობები',
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
 	'group-steward' => 'სტიუარდები',
@@ -2473,9 +2475,11 @@ $messages['ko'] = array(
 	'group-steward' => '사무장',
 	'group-sysadmin' => '시스템 관리자',
 	'group-Global_bot' => '글로벌 봇',
+	'group-Ombudsmen' => '옴부즈맨',
 	'group-steward-member' => '사무장',
 	'group-sysadmin-member' => '시스템 관리자',
 	'group-Global_bot-member' => '글로벌 봇',
+	'group-Ombudsmen-member' => '옴부즈맨',
 	'grouppage-steward' => 'm:Stewards/ko',
 	'group-coder' => '코더',
 	'group-coder-member' => '코더',
