@@ -1418,14 +1418,6 @@ $messages['fi'] = array(
 	'group-coder-member' => 'ohjelmoija',
 );
 
-/** Võro (Võro)
- * @author Võrok
- */
-$messages['vro'] = array(
-	'sitesupport' => 'Tugõminõ',
-	'tooltip-n-sitesupport' => 'Tukõq mi tüüd',
-);
-
 /** Fijian (Na Vosa Vakaviti) */
 $messages['fj'] = array(
 	'sitesupport' => 'Soli',
@@ -2582,7 +2574,7 @@ $messages['lad'] = array(
  */
 $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/lb',
 	'sitesupport' => 'Donatiounen',
 	'tooltip-n-sitesupport' => 'Ënnerstetzt eis',
 	'group-accountcreator' => 'Benotzer déi Benotzerkonten uleeën däerfen',
@@ -3693,29 +3685,44 @@ $messages['sah'] = array(
 	'sitesupport' => 'Бу сири өйөө',
 	'tooltip-n-sitesupport' => 'Өйөбүл',
 	'group-accountcreator' => 'Кыттааччылар ааттарын айааччылар/бигэргэтээччилэр',
+	'group-autopatroller' => 'Аптамаатынан ботуруулланааччылар',
 	'group-developer' => 'Оҥорооччулар',
 	'group-founder' => 'Тэрийээччилэр',
 	'group-import' => 'Импортааччылар',
 	'group-ipblock-exempt' => 'Хааччахтааһыҥҥа киирбэт IP-лаахтар',
 	'group-rollbacker' => 'Төннөрөөччүлэр',
 	'group-transwiki' => 'Transwiki`ттан импортааччылар',
+	'group-uploader' => 'Киллэрээччилэр',
 	'group-accountcreator-member' => 'Кыттаачылар ааттарын бигэргэтээччи/оҥорооччу',
+	'group-autopatroller-member' => 'аптамаатынан ботуруулланааччы',
 	'group-developer-member' => 'Оҥорооччу',
 	'group-founder-member' => 'Тэрийээччи',
 	'group-import-member' => 'Импортааччы',
 	'group-ipblock-exempt-member' => 'IP-та хааччахтаммат кыттааччы',
 	'group-rollbacker-member' => 'Төннөрөөччү',
 	'group-transwiki-member' => 'transwiki`ттан импортааччы',
+	'group-uploader-member' => 'киллэрээччи',
 	'grouppage-accountcreator' => '{{ns:project}}:Кыттааччылар ааттарын бигэргэтээччилэр/айааччылар',
+	'grouppage-autopatroller' => '{{ns:project}}:Аптамаатынан ботуруулланааччылар',
 	'grouppage-developer' => '{{ns:project}}:Оҥорооччулар',
 	'grouppage-founder' => '{{ns:project}}:Тэрийээччилэр',
 	'grouppage-import' => '{{ns:project}}:Импортааччылар',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-лара хааччахтаммат кыттааччылар',
 	'grouppage-rollbacker' => '{{ns:project}}:Төннөрөөччүлэр',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki`ттан көһөрөөччүлэр',
+	'grouppage-uploader' => '{{ns:project}}:Киллэрээччилэр',
 	'group-steward' => 'Үстүйээрдэр',
 	'group-sysadmin' => 'Тиһик (систиэмэ) дьаһабыллара',
+	'group-Global_bot' => 'Бырайыактар ыккардынааҕы руобаттар',
+	'group-Global_rollback' => 'Бырайыактар ыккардынааҕы төннөрөөччүлэр',
+	'group-Ombudsmen' => 'Омбудсменнар',
+	'group-steward-member' => 'үстүйээрдэр',
 	'group-sysadmin-member' => 'дьаһабыл',
+	'group-Global_bot-member' => 'бырайыактар ыккардынааҕы руобаттар',
+	'group-Global_rollback-member' => 'бырайыактар ыккардынааҕы төннөрөөччүлэр',
+	'group-Ombudsmen-member' => 'омбудсман',
+	'group-coder' => 'Программистар',
+	'group-coder-member' => 'программист',
 );
 
 /** Sicilian (Sicilianu)
@@ -3942,11 +3949,23 @@ $messages['so'] = array(
 
 /** Albanian (Shqip)
  * @author Dori
+ * @author Puntori
  */
 $messages['sq'] = array(
 	'sitesupport' => 'Dhurime',
+	'tooltip-n-sitesupport' => 'Na përmbajë',
+	'group-accountcreator' => 'Krijuesit e kontove',
+	'group-developer' => 'Zhvilluesit',
+	'group-founder' => 'Themeluesit',
+	'group-import' => 'Importuesit',
+	'group-developer-member' => 'zhvillues',
+	'group-founder-member' => 'themelues',
+	'group-import-member' => 'importues',
+	'group-uploader-member' => 'ngarkues',
 	'group-steward' => 'Përgjegjës',
 	'group-steward-member' => 'Përgjegjës',
+	'group-coder' => 'Koduesit',
+	'group-coder-member' => 'kodues',
 );
 
 /** Serbian Cyrillic ekavian (ћирилица)
@@ -4416,20 +4435,49 @@ $messages['tpi'] = array(
  */
 $messages['tr'] = array(
 	'wikimediamessages-desc' => 'Vikimedya özel mesajları',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/tr',
 	'sitesupport' => 'Bağışlar',
 	'tooltip-n-sitesupport' => 'Bizi destekleyin',
+	'group-accountcreator' => 'Hesap oluşturucular',
+	'group-autopatroller' => 'Oto-gözetmenler',
 	'group-developer' => 'Geliştiriciler',
 	'group-founder' => 'Kurucular',
+	'group-import' => 'İçe aktarıcılar',
+	'group-ipblock-exempt' => 'IP engelleme muafiyetleri',
+	'group-rollbacker' => 'Geri döndürücüler',
+	'group-transwiki' => 'Vikilerarası içe aktarıcılar',
+	'group-uploader' => 'Yükleyiciler',
+	'group-accountcreator-member' => 'hesap oluşturucu',
+	'group-autopatroller-member' => 'oto-gözetmen',
 	'group-developer-member' => 'geliştirici',
 	'group-founder-member' => 'kurucu',
+	'group-import-member' => 'içe aktarıcı',
+	'group-ipblock-exempt-member' => 'IP engelleme muafı',
+	'group-rollbacker-member' => 'geri döndürücü',
+	'group-transwiki-member' => 'vikilerarası içe aktarıcı',
+	'group-uploader-member' => 'yükleyici',
+	'grouppage-accountcreator' => '{{ns:project}}:Hesap oluşturucular',
+	'grouppage-autopatroller' => '{{ns:project}}:Oto-gözetmenler',
 	'grouppage-developer' => '{{ns:project}}:Geliştiriciler',
 	'grouppage-founder' => '{{ns:project}}:Kurucular',
+	'grouppage-import' => '{{ns:project}}:İçe aktarıcılar',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP engelleme muafiyeti',
+	'grouppage-rollbacker' => '{{ns:project}}:Geri döndürücüler',
+	'grouppage-transwiki' => '{{ns:project}}:Vikilerarası içe aktarıcılar',
+	'grouppage-uploader' => '{{ns:project}}:Yükleyiciler',
 	'group-steward' => 'Stewardlar',
 	'group-sysadmin' => 'Sistem yöneticileri',
 	'group-Global_bot' => 'Küresel botlar',
+	'group-Global_rollback' => 'Küresel geri döndürücüler',
+	'group-Ombudsmen' => 'Bağımsız hakemler',
+	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'Sistem yöneticisi',
 	'group-Global_bot-member' => 'küresel bot',
+	'group-Global_rollback-member' => 'küresel geri döndürücü',
+	'group-Ombudsmen-member' => 'bağımsız hakem',
 	'grouppage-steward' => '{{ns:project}}:Stewardlar',
+	'group-coder' => 'Kodlayıcılar',
+	'group-coder-member' => 'kodlayıcı',
 );
 
 /** Tsonga (Xitsonga)
@@ -4664,6 +4712,14 @@ $messages['vo'] = array(
 	'group-Global_bot-member' => 'bot valöpik',
 	'group-coder' => 'Kotans',
 	'group-coder-member' => 'kotan',
+);
+
+/** Võro (Võro)
+ * @author Võrok
+ */
+$messages['vro'] = array(
+	'sitesupport' => 'Tugõminõ',
+	'tooltip-n-sitesupport' => 'Tukõq mi tüüd',
 );
 
 /** Walloon (Walon)
