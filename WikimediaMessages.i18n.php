@@ -1421,7 +1421,7 @@ $messages['fi'] = array(
 /** Võro (Võro)
  * @author Võrok
  */
-$messages['fiu-vro'] = array(
+$messages['vro'] = array(
 	'sitesupport' => 'Tugõminõ',
 	'tooltip-n-sitesupport' => 'Tukõq mi tüüd',
 );
