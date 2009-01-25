@@ -1832,11 +1832,13 @@ $messages['he'] = array(
 	'group-Global_bot' => 'בוטים גלובליים',
 	'group-Global_rollback' => 'משחזרים גלובליים',
 	'group-Ombudsmen' => 'נציבי תלונות הציבור',
+	'group-Staff' => 'אנשי צוות',
 	'group-steward-member' => 'דייל',
 	'group-sysadmin-member' => 'מנהל מערכת',
 	'group-Global_bot-member' => 'בוט גלובלי',
 	'group-Global_rollback-member' => 'משחזר גלובלי',
 	'group-Ombudsmen-member' => 'נציב תלונות הציבור',
+	'group-Staff-member' => 'איש צוות',
 	'group-coder' => 'מתכנתים',
 	'group-coder-member' => 'מתכנת',
 );
