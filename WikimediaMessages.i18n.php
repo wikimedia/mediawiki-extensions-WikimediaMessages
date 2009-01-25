@@ -66,25 +66,27 @@ $messages['en'] = array(
 	'group-Global_bot'      => 'Global bots',
 	'group-Global_rollback' => 'Global rollbackers',
 	'group-Ombudsmen'       => 'Ombudsmen',
+	'group-Staff'           => 'Staffs',
 
 	'group-steward-member'         => 'steward',
 	'group-sysadmin-member'        => 'system administrator',
 	'group-Global_bot-member'      => 'global bot',
 	'group-Global_rollback-member' => 'global rollbacker',
 	'group-Ombudsmen-member'       => 'ombudsman',
+	'group-Staff-member'           => 'staff',
 
 	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
 	'grouppage-sysadmin'        => 'm:System administrators', # only translate this message to other languages if you have to change it
 	'grouppage-Global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
 	'grouppage-Global_rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
 	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
+	'grouppage-Staff'           => 'Foundation:Staff', # only translate this message to other languages if you have to change it
 
 	# mediawiki.org specific user group
 
 	'group-coder'        => 'Coders',
 	'group-coder-member' => 'coder',
 	'grouppage-coder'    => 'Project:Coder', # only translate this message to other languages if you have to change it
-	
 );
 
 /** Message documentation (Message documentation)
