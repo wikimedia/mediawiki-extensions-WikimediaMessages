@@ -179,10 +179,12 @@ $messages['af'] = array(
 	'group-steward' => 'Waarde',
 	'group-Global_bot' => 'Globale botte',
 	'group-Ombudsmen' => 'Ombudsmanne',
+	'group-Staff' => 'Personeel',
 	'group-steward-member' => 'Waard',
 	'group-sysadmin-member' => 'Stelseladministrateur',
 	'group-Global_bot-member' => 'globale bot',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'Personeellid',
 	'grouppage-steward' => '{{ns:project}}:Waarde',
 );
 
@@ -295,11 +297,13 @@ $messages['ar'] = array(
 	'group-Global_bot' => 'بوتات عامة',
 	'group-Global_rollback' => 'مسترجعون عامون',
 	'group-Ombudsmen' => 'أومبدسمين',
+	'group-Staff' => 'مشرفون',
 	'group-steward-member' => 'مضيف',
 	'group-sysadmin-member' => 'إداري نظام',
 	'group-Global_bot-member' => 'بوت عام',
 	'group-Global_rollback-member' => 'مسترجع عام',
 	'group-Ombudsmen-member' => 'أومبدسمان',
+	'group-Staff-member' => 'عضو من المشرفين',
 	'grouppage-steward' => 'm:Stewards/ar',
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
 	'group-coder' => 'مكودون',
@@ -361,11 +365,13 @@ $messages['arz'] = array(
 	'group-Global_bot' => 'بوتات عامه',
 	'group-Global_rollback' => 'مسترجعين عامين',
 	'group-Ombudsmen' => 'اومبادزمين',
+	'group-Staff' => 'مشرفون',
 	'group-steward-member' => 'مضيف',
 	'group-sysadmin-member' => 'ادارى نظام',
 	'group-Global_bot-member' => 'بوت عام',
 	'group-Global_rollback-member' => 'مسترجع عام',
 	'group-Ombudsmen-member' => 'اومبدادزمان',
+	'group-Staff-member' => 'عضو من المشرفين',
 	'grouppage-steward' => 'm:Stewards/ar',
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
 	'group-coder' => 'مكودون',
@@ -380,6 +386,8 @@ $messages['arz'] = array(
 $messages['as'] = array(
 	'sitesupport' => 'দান-বৰঙনি',
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
+	'group-Staff' => 'কর্মীবৃন্দ',
+	'group-Staff-member' => 'কর্মচাৰী',
 );
 
 /** Asturian (Asturianu)
@@ -416,11 +424,13 @@ $messages['ast'] = array(
 	'group-Global_bot' => 'Bots globales',
 	'group-Global_rollback' => 'Revertidores globales',
 	'group-Ombudsmen' => 'Comisarios',
+	'group-Staff' => 'Personal',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'alministrador del sistema',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'revertidor global',
 	'group-Ombudsmen-member' => 'comisariu',
+	'group-Staff-member' => 'Miembru del personal',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
@@ -499,10 +509,12 @@ $messages['bcc'] = array(
 	'group-sysadmin' => 'مدیران سیستم',
 	'group-Global_bot' => 'رباتان سراسری',
 	'group-Global_rollback' => 'ترینوک سراسری',
+	'group-Staff' => 'کارمند',
 	'group-steward-member' => 'نگهبان',
 	'group-sysadmin-member' => 'مدیر سیستم',
 	'group-Global_bot-member' => 'ربات سراسری',
 	'group-Global_rollback-member' => 'ترینوک سراسری',
+	'group-Staff-member' => 'عضو کارمند',
 );
 
 /** Bikol Central (Bikol Central)
@@ -564,11 +576,13 @@ $messages['be-tarask'] = array(
 	'group-Global_bot' => 'Глябальныя робаты',
 	'group-Global_rollback' => 'Глябальныя адкатвальнікі',
 	'group-Ombudsmen' => 'праваабаронцы',
+	'group-Staff' => 'Супрацоўнікі',
 	'group-steward-member' => 'сьцюард',
 	'group-sysadmin-member' => 'сыстэмны адміністратар',
 	'group-Global_bot-member' => 'глябальны робат',
 	'group-Global_rollback-member' => 'глябальны адкатвальнік',
 	'group-Ombudsmen-member' => 'праваабаронца',
+	'group-Staff-member' => 'супрацоўнік',
 	'group-coder' => 'Праграмісты',
 	'group-coder-member' => 'праграміст',
 );
@@ -712,6 +726,8 @@ $messages['br'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Nemedenn bloc'had IP",
 	'grouppage-rollbacker' => '{{ns:project}}:Assaverien',
 	'grouppage-transwiki' => '{{ns:project}}:Enporzherien treuzwiki',
+	'group-Staff' => 'skipailh',
+	'group-Staff-member' => 'Ezel eus ar skipailh',
 );
 
 /** Bosnian (Bosanski)
@@ -757,11 +773,13 @@ $messages['bs'] = array(
 	'group-Global_bot' => 'Globalni botovi',
 	'group-Global_rollback' => 'Globalni povratioci',
 	'group-Ombudsmen' => 'Ombudsmeni',
+	'group-Staff' => 'Osoblje',
 	'group-steward-member' => 'stujard',
 	'group-sysadmin-member' => 'sistemski administrator',
 	'group-Global_bot-member' => 'globalni bot',
 	'group-Global_rollback-member' => 'globalni povratioc',
 	'group-Ombudsmen-member' => 'ombudsmen',
+	'group-Staff-member' => 'članovi osoblja',
 	'grouppage-steward' => 'm:Stewards',
 	'group-coder' => 'Koderi',
 	'group-coder-member' => 'koder',
@@ -803,11 +821,13 @@ $messages['ca'] = array(
 	'group-Global_bot' => 'Bots globals',
 	'group-Global_rollback' => 'Revertidors ràpids globals',
 	'group-Ombudsmen' => 'Síndics de greuges',
+	'group-Staff' => 'Personal',
 	'group-steward-member' => 'Majordom',
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'Revertidor ràpid global',
 	'group-Ombudsmen-member' => 'síndic de greuges',
+	'group-Staff-member' => 'Personal del wiki',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
@@ -901,11 +921,13 @@ $messages['cs'] = array(
 	'group-Global_bot' => 'Globální boti',
 	'group-Global_rollback' => 'Globální revertovatelé',
 	'group-Ombudsmen' => 'Ombudsmani',
+	'group-Staff' => 'Personál',
 	'group-steward-member' => 'stevard',
 	'group-sysadmin-member' => 'správce serveru',
 	'group-Global_bot-member' => 'globální bot',
 	'group-Global_rollback-member' => 'globální revertovatel',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'člen personálu',
 	'group-coder' => 'Programátoři',
 	'group-coder-member' => 'programátor',
 );
@@ -970,9 +992,10 @@ $messages['da'] = array(
  * @author Metalhead64
  * @author Pill
  * @author Raimond Spekking
+ * @author Umherirrender
  */
 $messages['de'] = array(
-	'wikimediamessages-desc' => 'Wikimediaspezifische Systemnachrichten',
+	'wikimediamessages-desc' => 'spezifische Systemnachrichten für Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
@@ -1008,11 +1031,13 @@ $messages['de'] = array(
 	'group-Global_bot' => 'Globale Bots',
 	'group-Global_rollback' => 'Globale Zurücksetzer',
 	'group-Ombudsmen' => 'Ombudspersonen',
+	'group-Staff' => 'Mitarbeiter',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'Systemadministrator',
 	'group-Global_bot-member' => 'Globaler Bot',
 	'group-Global_rollback-member' => 'Globaler Zurücksetzer',
 	'group-Ombudsmen-member' => 'Ombudsperson',
+	'group-Staff-member' => 'Mitarbeiter',
 	'grouppage-steward' => 'm:Stewards/de',
 	'group-coder' => 'Programmierer',
 	'group-coder-member' => 'Programmierer',
@@ -1030,6 +1055,8 @@ $messages['de-formal'] = array(
  */
 $messages['diq'] = array(
 	'sitesupport' => 'Beğş',
+	'group-Staff' => 'Emegdari',
+	'group-Staff-member' => 'Emegdar',
 );
 
 /** Lower Sorbian (Dolnoserbski)
@@ -1074,11 +1101,13 @@ $messages['dsb'] = array(
 	'group-Global_bot' => 'Globalne bośiki',
 	'group-Global_rollback' => 'Globalne slědkstajarje',
 	'group-Ombudsmen' => 'Ombudsniki',
+	'group-Staff' => 'Sobuźěłaśerje',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'systemowy administrator',
 	'group-Global_bot-member' => 'göobalny bośik',
 	'group-Global_rollback-member' => 'globalny slědkstajaŕ',
 	'group-Ombudsmen-member' => 'Ombudsnik',
+	'group-Staff-member' => 'sobuźěłaśerje',
 	'group-coder' => 'Programěrarje',
 	'group-coder-member' => 'programěraŕ',
 );
@@ -1121,7 +1150,9 @@ $messages['el'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματοι περίπολοι',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
+	'group-Staff' => 'Προσωπικό',
 	'group-sysadmin-member' => 'διαχειριστής συστήματος',
+	'group-Staff-member' => 'Μέλος προσωπικού',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
@@ -1170,11 +1201,13 @@ $messages['eo'] = array(
 	'group-Global_bot' => 'Ĝeneralaj robotoj',
 	'group-Global_rollback' => 'Transvikia restariganto',
 	'group-Ombudsmen' => 'Arbitraciistoj',
+	'group-Staff' => 'Dungitaro',
 	'group-steward-member' => 'Stevardo',
 	'group-sysadmin-member' => 'sistema administranto',
 	'group-Global_bot-member' => 'Ĝenerala roboto',
 	'group-Global_rollback-member' => 'transvikia restariganto',
 	'group-Ombudsmen-member' => 'Arbitraciisto',
+	'group-Staff-member' => 'dungito',
 	'group-coder' => 'Programistoj',
 	'group-coder-member' => 'programisto',
 );
@@ -1222,11 +1255,13 @@ $messages['es'] = array(
 	'group-Global_bot' => 'bots globales',
 	'group-Global_rollback' => 'Pueden deshacer globalmente',
 	'group-Ombudsmen' => 'Defensores de la comunidad',
+	'group-Staff' => 'Staff',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'Puede deshacer globalmente',
 	'group-Ombudsmen-member' => 'defensor de la comunidad',
+	'group-Staff-member' => 'Miembro del staff',
 	'group-coder' => 'Programadores',
 	'group-coder-member' => 'programador',
 );
@@ -1249,9 +1284,11 @@ $messages['et'] = array(
 	'group-steward' => 'Stjuuardid',
 	'group-sysadmin' => 'Süsteemiadministraatorid',
 	'group-Global_bot' => 'Globaalsed robotid',
+	'group-Staff' => 'Koosseis',
 	'group-steward-member' => 'stjuuard',
 	'group-sysadmin-member' => 'süsteemiadministraator',
 	'group-Global_bot-member' => 'globaalne robot',
+	'group-Staff-member' => 'koosseisu liige',
 );
 
 /** Basque (Euskara)
@@ -1294,11 +1331,13 @@ $messages['eu'] = array(
 	'group-Global_bot' => 'Bot globalak',
 	'group-Global_rollback' => 'Globalki desegin dezakete',
 	'group-Ombudsmen' => 'Komunitatearen babesleak',
+	'group-Staff' => 'Langileak',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'sistemaren garatzaileak',
 	'group-Global_bot-member' => 'bot globala',
 	'group-Global_rollback-member' => 'globalki desegin dezakete',
 	'group-Ombudsmen-member' => 'komunitatearen babeslea',
+	'group-Staff-member' => 'langilea',
 	'grouppage-steward' => 'm:Stewards',
 	'group-coder' => 'Kode egileak',
 	'group-coder-member' => 'code garatzailea',
@@ -1352,11 +1391,13 @@ $messages['fa'] = array(
 	'group-Global_bot' => 'ربات‌های سراسری',
 	'group-Global_rollback' => 'واگردانی‌کنندگان سراسری',
 	'group-Ombudsmen' => 'دادآوران',
+	'group-Staff' => 'پرسنل',
 	'group-steward-member' => 'ویکیبد',
 	'group-sysadmin-member' => 'مدیر سیستم',
 	'group-Global_bot-member' => 'ربات سراسری',
 	'group-Global_rollback-member' => 'واگردانی‌کنندهٔ سراسری',
 	'group-Ombudsmen-member' => 'دادآور',
+	'group-Staff-member' => 'عضو پرسنل',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => 'برنامه‌نویس',
 );
@@ -1410,11 +1451,13 @@ $messages['fi'] = array(
 	'group-Global_bot' => 'globaalit botit',
 	'group-Global_rollback' => 'globaalit palauttajat',
 	'group-Ombudsmen' => 'edustajat',
+	'group-Staff' => 'projektin ylläpitäjät',
 	'group-steward-member' => 'ylivalvoja',
 	'group-sysadmin-member' => 'järjestelmän ylläpitäjä',
 	'group-Global_bot-member' => 'globaalibotti',
 	'group-Global_rollback-member' => 'globaalipalauttaja',
 	'group-Ombudsmen-member' => 'edustaja',
+	'group-Staff-member' => 'projektin ylläpitäjä',
 	'grouppage-steward' => 'm:Stewards/fi',
 	'group-coder' => 'ohjelmoijat',
 	'group-coder-member' => 'ohjelmoija',
@@ -1482,11 +1525,13 @@ $messages['fr'] = array(
 	'group-Global_bot' => 'Bots globaux',
 	'group-Global_rollback' => 'Reverteurs globaux',
 	'group-Ombudsmen' => 'Commissaires',
+	'group-Staff' => 'Personnel',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrateur système',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'Reverteur global',
 	'group-Ombudsmen-member' => 'Commissaire',
+	'group-Staff-member' => 'Membre du personnel',
 	'grouppage-steward' => 'm:Stewards/fr',
 	'grouppage-Global_bot' => 'm:Bot policy/fr',
 	'group-coder' => 'Codeurs',
@@ -1572,11 +1617,13 @@ $messages['ga'] = array(
 	'group-Global_bot' => 'Róbónna domhanda',
 	'group-Global_rollback' => 'Tar-rolltóirí domhanda',
 	'group-Ombudsmen' => 'Daoine an Phobail',
+	'group-Staff' => 'Foireann',
 	'group-steward-member' => 'maor',
 	'group-sysadmin-member' => 'riarthóir',
 	'group-Global_bot-member' => 'róbó domhanda',
 	'group-Global_rollback-member' => 'tar-rolltóir domhanda',
 	'group-Ombudsmen-member' => 'Duine an Phobail',
+	'group-Staff-member' => 'ball foirne',
 	'group-coder' => 'Códóirí',
 	'group-coder-member' => 'códóir',
 );
@@ -1645,11 +1692,13 @@ $messages['gl'] = array(
 	'group-Global_bot' => 'Bots globais',
 	'group-Global_rollback' => 'Revertedores globais',
 	'group-Ombudsmen' => 'Comisarios',
+	'group-Staff' => 'Membro',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrador do sistema',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'revertedor global',
 	'group-Ombudsmen-member' => 'comisario',
+	'group-Staff-member' => 'Membro do wiki',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
 );
@@ -1666,13 +1715,16 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
-/** Gothic
+/** Gothic (Gothic)
  * @author Jocke Pirat
+ * @author LeighvsOptimvsMaximvs
+ * @author Omnipaedista
  */
 $messages['got'] = array(
 	'sitesupport' => 'Hairtiþaskatts',
 	'tooltip-n-sitesupport' => 'Hairtiþ uns',
 );
+
 /** Ancient Greek (Ἀρχαία ἑλληνικὴ)
  * @author LeighvsOptimvsMaximvs
  * @author Omnipaedista
@@ -1698,11 +1750,13 @@ $messages['grc'] = array(
 	'group-Global_bot' => 'Καθολικὰ αὐτόματα',
 	'group-Global_rollback' => 'Καθολικοί μεταστροφεῖς',
 	'group-Ombudsmen' => 'Δέκται διαμαρτυριῶν',
+	'group-Staff' => 'Στελέχη',
 	'group-steward-member' => 'φροντιστής',
 	'group-sysadmin-member' => 'ἐπίτροπος συστήματος',
 	'group-Global_bot-member' => 'καθολικὸν αὐτόματον',
 	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς',
 	'group-Ombudsmen-member' => 'δέκτης διαμαρτυριῶν',
+	'group-Staff-member' => 'στέλεχος',
 	'group-coder' => 'Κωδικεύοντες',
 	'group-coder-member' => 'κωδικεύς',
 );
@@ -1747,11 +1801,13 @@ $messages['gsw'] = array(
 	'group-Global_bot' => 'Wältwyti Bötli',
 	'group-Global_rollback' => 'Wältwyti Zrucksetzer',
 	'group-Ombudsmen' => 'Ombudsmanne',
+	'group-Staff' => 'Mitarbeiter',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'Syschtemadminischtrator',
 	'group-Global_bot-member' => 'Wältwyt Bötli',
 	'group-Global_rollback-member' => 'Wältwyte Zrucksetzer',
 	'group-Ombudsmen-member' => 'Ombudsmann',
+	'group-Staff-member' => 'Mitarbeiter',
 	'group-coder' => 'Programmierer',
 	'group-coder-member' => 'Programmierer',
 );
@@ -1772,6 +1828,8 @@ $messages['gu'] = array(
 $messages['gv'] = array(
 	'sitesupport' => 'Toyrtysyn',
 	'tooltip-n-sitesupport' => 'Cooin lhien',
+	'group-Staff' => 'Fwirran',
+	'group-Staff-member' => 'oltey fwirran',
 );
 
 /** Hakka (Hak-kâ-fa)
@@ -1850,6 +1908,8 @@ $messages['he'] = array(
 $messages['hi'] = array(
 	'sitesupport' => 'दान',
 	'tooltip-n-sitesupport' => 'हमें सहायता दें',
+	'group-Staff' => 'स्टाफ़',
+	'group-Staff-member' => 'स्टाफ़ सदस्य',
 );
 
 /** Fiji Hindi (Latin) (Fiji Hindi (Latin))
@@ -1912,11 +1972,13 @@ $messages['hr'] = array(
 	'group-Global_bot' => 'Globalni bot',
 	'group-Global_rollback' => 'Globalni uklonitelji',
 	'group-Ombudsmen' => 'Ombudsmen',
+	'group-Staff' => 'Osoblje',
 	'group-steward-member' => 'Stjuard',
 	'group-sysadmin-member' => 'sistem administrator',
 	'group-Global_bot-member' => 'globalni bot',
 	'group-Global_rollback-member' => 'globalni uklonitelj',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'Član osoblja',
 	'grouppage-steward' => '{{ns:project}}:Stjuardi',
 	'group-coder' => 'Programeri',
 	'group-coder-member' => 'programer',
@@ -1962,11 +2024,13 @@ $messages['hsb'] = array(
 	'group-Global_bot' => 'Globalne boćiki',
 	'group-Global_rollback' => 'Globalni wróćostajerjo',
 	'group-Ombudsmen' => 'Ombudsnicy',
+	'group-Staff' => 'Sobudźěłaćerjo',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'systemowy administrator',
 	'group-Global_bot-member' => 'globalny boćik',
 	'group-Global_rollback-member' => 'globalny wróćostajer',
 	'group-Ombudsmen-member' => 'ombudsnik',
+	'group-Staff-member' => 'sobudźěłaćerjo',
 	'group-coder' => 'Programowarjo',
 	'group-coder-member' => 'programowar',
 );
@@ -2020,11 +2084,13 @@ $messages['hu'] = array(
 	'group-Global_bot' => 'globális botok',
 	'group-Global_rollback' => 'globális visszaállítók',
 	'group-Ombudsmen' => 'ombudsmanok',
+	'group-Staff' => 'személyzet',
 	'group-steward-member' => 'helytartó',
 	'group-sysadmin-member' => 'rendszeradminisztrátor',
 	'group-Global_bot-member' => 'globális bot',
 	'group-Global_rollback-member' => 'globális visszaállító',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'személyzeti tag',
 	'grouppage-steward' => '{{ns:project}}:Helytartók',
 	'group-coder' => 'programozók',
 	'group-coder-member' => 'programozó',
@@ -2078,11 +2144,13 @@ $messages['ia'] = array(
 	'group-Global_bot' => 'Bots global',
 	'group-Global_rollback' => 'Revocatores global',
 	'group-Ombudsmen' => 'Mediatores',
+	'group-Staff' => 'Personal',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator de systema',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'revocator global',
 	'group-Ombudsmen-member' => 'mediator',
+	'group-Staff-member' => 'Membro del personal',
 	'group-coder' => 'Programmatores',
 	'group-coder-member' => 'programmator',
 	'grouppage-coder' => 'Project:Programmator',
@@ -2122,11 +2190,13 @@ $messages['id'] = array(
 	'group-Global_bot' => 'Bot global',
 	'group-Global_rollback' => 'Pengembali revisi global',
 	'group-Ombudsmen' => 'Ombudsman',
+	'group-Staff' => 'Staf',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrator sistem',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'Pengembali revisi global',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Staff-member' => 'Anggota staf',
 	'grouppage-steward' => 'm:Stewards/id',
 	'group-coder' => 'Programer',
 	'group-coder-member' => 'programer',
@@ -2176,6 +2246,8 @@ $messages['io'] = array(
 $messages['is'] = array(
 	'sitesupport' => 'Fjárframlög',
 	'tooltip-n-sitesupport' => 'Fjárframlagssíða',
+	'group-Staff' => 'Starfsfólk',
+	'group-Staff-member' => 'Starfsmaður',
 );
 
 /** Italian (Italiano)
@@ -2215,11 +2287,13 @@ $messages['it'] = array(
 	'group-Global_bot' => 'Bot globali',
 	'group-Global_rollback' => 'Rollbacker globali',
 	'group-Ombudsmen' => 'Ombudsmen',
+	'group-Staff' => 'Staff',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'amministratore di sistema',
 	'group-Global_bot-member' => 'bot globale',
 	'group-Global_rollback-member' => 'rollbacker globale',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'Membro dello staff',
 	'grouppage-steward' => 'm:Stewards/it',
 	'grouppage-Global_rollback' => 'm:Global rollback/it',
 );
@@ -2227,6 +2301,7 @@ $messages['it'] = array(
 /** Japanese (日本語)
  * @author Aotake
  * @author Fievarsty
+ * @author Fryed-peach
  * @author Hosiryuhosi
  * @author JtFuruhata
  * @author Meno25
@@ -2269,11 +2344,13 @@ $messages['ja'] = array(
 	'group-Global_bot' => 'グローバル・ボット',
 	'group-Global_rollback' => 'グローバル・ロールバック権限保持者',
 	'group-Ombudsmen' => 'オンブズマン',
+	'group-Staff' => 'スタッフ',
 	'group-steward-member' => '{{int:group-steward}}',
 	'group-sysadmin-member' => 'システム管理者',
 	'group-Global_bot-member' => 'グローバル・ボット',
 	'group-Global_rollback-member' => 'グローバル・ロールバック権限保持者',
 	'group-Ombudsmen-member' => 'オンブズマン',
+	'group-Staff-member' => 'スタッフ',
 	'grouppage-steward' => 'm:Stewards/ja',
 	'group-coder' => 'コーダー',
 	'group-coder-member' => 'コーダー',
@@ -2393,7 +2470,9 @@ $messages['kk-cyrl'] = array(
 	'group-developer-member' => 'дамытушы',
 	'group-import-member' => 'сырттан алушы',
 	'group-sysadmin' => 'Жүйе әкімшілері',
+	'group-Staff' => 'Басқарма',
 	'group-sysadmin-member' => 'жүйе әкімшісі',
+	'group-Staff-member' => 'Басқарма мүшесі',
 );
 
 /** Kazakh (Latin) (Қазақша (Latin)) */
@@ -2436,9 +2515,11 @@ $messages['km'] = array(
 	'group-sysadmin' => 'អ្នកអភិបាលប្រព័ន្ឋ',
 	'group-Global_bot' => 'រូបយន្ត​សកល',
 	'group-Ombudsmen' => 'អមប៊ុដហ្ស៍ម៉ឹន',
+	'group-Staff' => 'បុគ្គលិកបម្រើការ',
 	'group-sysadmin-member' => 'អ្នកអភិបាលប្រព័ន្ឋ',
 	'group-Global_bot-member' => 'រូបយន្ត​សកល',
 	'group-Ombudsmen-member' => 'អមប៊ុដហ្ស៍ម៉ឹន',
+	'group-Staff-member' => 'សមាជិកដែលជាបុគ្គលិកបម្រើការ',
 	'group-coder' => 'អ្នកសរសេរកូដ',
 	'group-coder-member' => 'អ្នកសរសេរកូដ',
 );
@@ -2528,11 +2609,13 @@ $messages['ksh'] = array(
 	'group-Global_bot' => 'Bots för all Wikis',
 	'group-Global_rollback' => 'Zeröcknämmere för all Wikis',
 	'group-Ombudsmen' => 'Vermeddeler',
+	'group-Staff' => 'Päsonaal',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'Wiki-Köbes',
 	'group-Global_bot-member' => 'Bot för all Wikis',
 	'group-Global_rollback-member' => 'Zeröcknämmer för all Wikis',
 	'group-Ombudsmen-member' => 'Vermeddeler',
+	'group-Staff-member' => 'Päsonaal',
 	'group-coder' => 'Projrammierer',
 	'group-coder-member' => 'Projrammierer',
 	'grouppage-coder' => 'project:Projrammierer',
@@ -2610,11 +2693,13 @@ $messages['lb'] = array(
 	'group-Global_bot' => 'Global Botten',
 	'group-Global_rollback' => 'Global Zrécksetzer',
 	'group-Ombudsmen' => 'Ombudsmänner',
+	'group-Staff' => 'Mataarbechter',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'Systemadministrateur',
 	'group-Global_bot-member' => 'Globale Bot',
 	'group-Global_rollback-member' => 'Globalen Zrécksetzer',
 	'group-Ombudsmen-member' => 'Ombudsmann',
+	'group-Staff-member' => 'Mataarbechter',
 	'grouppage-steward' => '{{ns:project}}:Stewarden',
 	'grouppage-sysadmin' => 'm:System Administrateuren',
 	'grouppage-Global_bot' => 'm:Global bot',
@@ -2674,10 +2759,12 @@ $messages['li'] = array(
 	'group-Global_bot' => 'Globaal bots',
 	'group-Global_rollback' => 'Globaal trökdriejers',
 	'group-Ombudsmen' => 'Ombudsmen',
+	'group-Staff' => 'Li-jjing',
 	'group-steward-member' => 'Steward',
 	'group-Global_bot-member' => 'Globale bot',
 	'group-Global_rollback-member' => 'Globale trökdriejer',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Staff-member' => 'Li-jjer',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
 );
 
@@ -2706,6 +2793,8 @@ $messages['lo'] = array(
 	'wikimediamessages-desc' => 'ຂໍ້ຄວາມສະເພາະ ວິກິພີເດຍ',
 	'sitesupport' => 'ບໍລິຈາກ',
 	'tooltip-n-sitesupport' => 'ສະໜັບສະໜຸນພວກເຮົາ',
+	'group-Staff' => 'ພະນັກງານ',
+	'group-Staff-member' => 'ພະນັກງານ',
 );
 
 /** Lozi (Silozi)
@@ -2725,6 +2814,8 @@ $messages['lt'] = array(
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
 	'group-Global_bot' => 'Globalūs botai',
+	'group-Staff' => 'Darbuotojai',
+	'group-Staff-member' => 'Darbuotojas',
 );
 
 /** Latvian (Latviešu)
@@ -2737,7 +2828,7 @@ $messages['lv'] = array(
 	'tooltip-n-sitesupport' => 'Atbalsti mūs',
 );
 
-/** Classical Chinese (文言) */
+/** Literary Chinese (文言) */
 $messages['lzh'] = array(
 	'wikimediamessages-desc' => '維基媒體特集',
 	'sitesupport' => '捐助集',
@@ -2765,6 +2856,8 @@ $messages['map-bms'] = array(
 $messages['mdf'] = array(
 	'sitesupport' => 'Лезкс максома',
 	'tooltip-n-sitesupport' => 'Макст тейнек лезкс',
+	'group-Staff' => 'Персонал',
+	'group-Staff-member' => 'Персоналста ломань',
 );
 
 /** Malagasy (Malagasy)
@@ -2842,11 +2935,13 @@ $messages['mk'] = array(
 	'group-Global_bot' => 'Глобални ботови',
 	'group-Global_rollback' => 'Глобални враќачи',
 	'group-Ombudsmen' => 'Омбудсман',
+	'group-Staff' => 'Персонал',
 	'group-steward-member' => 'стјуард',
 	'group-sysadmin-member' => 'систем администратор',
 	'group-Global_bot-member' => 'глобален бот',
 	'group-Global_rollback-member' => 'глобален враќач',
 	'group-Ombudsmen-member' => 'омбудсман',
+	'group-Staff-member' => 'член на персонал',
 	'grouppage-steward' => 'm:Стјуарди',
 	'grouppage-sysadmin' => 'm:Систем администратори',
 	'grouppage-Global_bot' => 'm:Глобален бот',
@@ -2889,6 +2984,8 @@ $messages['mo'] = array(
  */
 $messages['mr'] = array(
 	'sitesupport' => 'दान',
+	'group-Staff' => 'स्टाफ',
+	'group-Staff-member' => 'स्टाफ सदस्य',
 );
 
 /** Malay (Bahasa Melayu)
@@ -2932,11 +3029,13 @@ $messages['ms'] = array(
 	'group-Global_bot' => 'Bot sejagat',
 	'group-Global_rollback' => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen' => 'Ombudsman',
+	'group-Staff' => 'Kakitangan',
 	'group-steward-member' => 'Pengelola',
 	'group-sysadmin-member' => 'pentadbir sistem',
 	'group-Global_bot-member' => 'Bot sejagat',
 	'group-Global_rollback-member' => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Staff-member' => 'kakitangan',
 	'group-coder' => 'Pengekod',
 	'group-coder-member' => 'pengekod',
 );
@@ -2948,6 +3047,8 @@ $messages['mt'] = array(
 	'wikimediamessages-desc' => "Messaġġi speċifiki ta' Wikimedija",
 	'sitesupport' => 'Donazzjonijiet',
 	'tooltip-n-sitesupport' => 'Appoġġjana',
+	'group-Staff' => 'Uffiċjal',
+	'group-Staff-member' => 'Membru uffiċjal',
 );
 
 /** Mirandese (Mirandés)
@@ -2996,6 +3097,8 @@ $messages['nah'] = array(
 	'tooltip-n-sitesupport' => 'Xitēchtēpalēhuia',
 	'group-uploader' => 'Tlaquetzalōnih',
 	'group-founder-member' => 'Chīhualōni',
+	'group-Staff' => 'Olōlli',
+	'group-Staff-member' => 'Olōllācatl',
 );
 
 /** Min Nan Chinese (Bân-lâm-gú) */
@@ -3123,11 +3226,13 @@ $messages['nl'] = array(
 	'group-Global_bot' => 'globale bots',
 	'group-Global_rollback' => 'globale terugdraaiers',
 	'group-Ombudsmen' => 'ombudsmannen',
+	'group-Staff' => 'staf',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'systeembeheerder',
 	'group-Global_bot-member' => 'globale bot',
 	'group-Global_rollback-member' => 'globale terugdraaier',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'staflid',
 	'grouppage-steward' => 'm:Stewards/nl',
 	'grouppage-Global_rollback' => 'm:Global rollback/nl',
 	'group-coder' => 'programmeurs',
@@ -3177,11 +3282,13 @@ $messages['nn'] = array(
 	'group-Global_bot' => 'Globale robotar',
 	'group-Global_rollback' => 'Globale attenderullarar',
 	'group-Ombudsmen' => 'Ombodsmenn',
+	'group-Staff' => 'Personale',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'systemadministrator',
 	'group-Global_bot-member' => 'global robot',
 	'group-Global_rollback-member' => 'global attenderullar',
 	'group-Ombudsmen-member' => 'ombodsmann',
+	'group-Staff-member' => 'personal',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-sysadmin' => 'm:Systemadministratorar',
 	'grouppage-Global_bot' => 'm:Global robot',
@@ -3232,11 +3339,13 @@ $messages['no'] = array(
 	'group-Global_bot' => 'Globale roboter',
 	'group-Global_rollback' => 'Globale tilbakestillere',
 	'group-Ombudsmen' => 'Ombudsmenn',
+	'group-Staff' => 'Ansatte',
 	'group-steward-member' => 'forvalter',
 	'group-sysadmin-member' => 'systemadministrator',
 	'group-Global_bot-member' => 'global robot',
 	'group-Global_rollback-member' => 'global tilbakestiller',
 	'group-Ombudsmen-member' => 'ombudsmann',
+	'group-Staff-member' => 'ansatt',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 	'group-coder' => 'Kodere',
@@ -3298,11 +3407,13 @@ $messages['oc'] = array(
 	'group-Global_bot' => 'Bòts globals',
 	'group-Global_rollback' => 'Revocaires globals',
 	'group-Ombudsmen' => 'Comissaris',
+	'group-Staff' => 'Personal',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrator del sistèma',
 	'group-Global_bot-member' => 'Bòt global',
 	'group-Global_rollback-member' => 'Revocaire global',
 	'group-Ombudsmen-member' => 'Comissari',
+	'group-Staff-member' => 'Membre del personal',
 	'group-coder' => 'Encodaires',
 	'group-coder-member' => 'encodaire',
 );
@@ -3406,11 +3517,13 @@ $messages['pl'] = array(
 	'group-Global_bot' => 'Boty globalne',
 	'group-Global_rollback' => 'Globalnie uprawnieni do wycofywania edycji',
 	'group-Ombudsmen' => 'Rzecznicy praw',
+	'group-Staff' => 'Pracownicy',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator systemu',
 	'group-Global_bot-member' => 'bot globalny',
 	'group-Global_rollback-member' => 'globalnie uprawniony do wycofywania edycji',
 	'group-Ombudsmen-member' => 'rzecznik praw',
+	'group-Staff-member' => 'pracownik',
 	'grouppage-steward' => 'm:Stewards/pl',
 	'group-coder' => 'Programiści',
 	'group-coder-member' => 'programista',
@@ -3446,7 +3559,9 @@ $messages['ps'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:کارن-حساب جوړونکي',
 	'grouppage-developer' => '{{ns:project}}:پرمخبوونکي',
 	'group-sysadmin' => 'د غونډال پازوالان',
+	'group-Staff' => 'امله',
 	'group-sysadmin-member' => 'د غونډال پازوال',
+	'group-Staff-member' => 'د املې غړی',
 );
 
 /** Portuguese (Português)
@@ -3491,11 +3606,13 @@ $messages['pt'] = array(
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_rollback' => 'Revertedores globais',
 	'group-Ombudsmen' => 'Mediadores',
+	'group-Staff' => 'Pessoal',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrador de sistema',
 	'group-Global_bot-member' => 'robô global',
 	'group-Global_rollback-member' => 'revertedor global',
 	'group-Ombudsmen-member' => 'mediador',
+	'group-Staff-member' => 'membro do pessoal',
 	'grouppage-steward' => 'm:Stewards/pt',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
@@ -3602,8 +3719,10 @@ $messages['roa-tara'] = array(
 	'grouppage-developer' => '{{ns:project}}:Sviluppature',
 	'grouppage-uploader' => '{{ns:project}}:Carecature',
 	'group-sysadmin' => "Amministrature d'u sisteme",
+	'group-Staff' => "'U personele",
 	'group-sysadmin-member' => 'amministratore de sisteme',
 	'group-Global_bot-member' => 'bot globele',
+	'group-Staff-member' => "cristiàne d'u personele",
 );
 
 /** Russian (Русский)
@@ -3651,11 +3770,13 @@ $messages['ru'] = array(
 	'group-Global_bot' => 'Глобальные боты',
 	'group-Global_rollback' => 'Глобальные откатывающие',
 	'group-Ombudsmen' => 'Омбудсмены',
+	'group-Staff' => 'Сотрудники',
 	'group-steward-member' => 'стюард',
 	'group-sysadmin-member' => 'системный администратор',
 	'group-Global_bot-member' => 'глобальный бот',
 	'group-Global_rollback-member' => 'глобальный откатывающий',
 	'group-Ombudsmen-member' => 'омбудсмен',
+	'group-Staff-member' => 'сотрудник',
 	'grouppage-steward' => 'm:Stewards/ru',
 	'group-coder' => 'Программисты',
 	'group-coder-member' => 'программист',
@@ -3765,11 +3886,13 @@ $messages['scn'] = array(
 	'group-Global_bot' => 'Bot glubbali',
 	'group-Global_rollback' => 'Ripristinatura glubbali',
 	'group-Ombudsmen' => 'Difinsura civici',
+	'group-Staff' => 'Staff',
 	'group-steward-member' => 'Stiùwart',
 	'group-sysadmin-member' => 'amministraturi di sistema',
 	'group-Global_bot-member' => 'bot glubbali',
 	'group-Global_rollback-member' => 'ripristinaturi glubbali',
 	'group-Ombudsmen-member' => 'difinsuri cìvicu',
+	'group-Staff-member' => 'Cumpunenti dû staff',
 	'grouppage-steward' => 'm:Stewards',
 	'grouppage-sysadmin' => 'm:System administrators',
 );
@@ -3854,11 +3977,13 @@ $messages['si'] = array(
 	'group-Global_bot' => 'ගෝලීය රොබෝවරුන්',
 	'group-Global_rollback' => 'ගෝලීය පසුපෙරළන්නන්',
 	'group-Ombudsmen' => 'දුග්ගන්නාරාළවරුන්',
+	'group-Staff' => 'සේවක මඩුල්ල',
 	'group-steward-member' => 'භාරකරු',
 	'group-sysadmin-member' => 'පද්ධති පරිපාලකවරයා',
 	'group-Global_bot-member' => 'ගෝලීය රොබෝවරයා',
 	'group-Global_rollback-member' => 'ගෝලීය පසුපෙරළන්නා',
 	'group-Ombudsmen-member' => 'දුග්ගන්නාරාළ',
+	'group-Staff-member' => 'සේවක මණ්ඩල සාමාජිකයා',
 	'grouppage-steward' => 'm:භාරකරුවන්',
 	'grouppage-sysadmin' => 'm:පද්ධති පරිපාලකවරුන්',
 	'grouppage-Global_bot' => 'm:ගෝලීය රොබෝවරයා',
@@ -3909,11 +4034,13 @@ $messages['sk'] = array(
 	'group-Global_bot' => 'Globálni roboti',
 	'group-Global_rollback' => 'Globálni rollbackeri',
 	'group-Ombudsmen' => 'Ombudsmani',
+	'group-Staff' => 'Zamestnanci',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'správca systému',
 	'group-Global_bot-member' => 'Globálny robot',
 	'group-Global_rollback-member' => 'Globálny rollbacker',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Staff-member' => 'zamestnanec',
 	'group-coder' => 'Kóderi',
 	'group-coder-member' => 'kóder',
 );
@@ -3967,7 +4094,9 @@ $messages['sq'] = array(
 	'group-import-member' => 'importues',
 	'group-uploader-member' => 'ngarkues',
 	'group-steward' => 'Përgjegjës',
+	'group-Staff' => 'Stafi',
 	'group-steward-member' => 'Përgjegjës',
+	'group-Staff-member' => 'anëtar i stafit',
 	'group-coder' => 'Koduesit',
 	'group-coder-member' => 'kodues',
 );
@@ -4111,11 +4240,13 @@ $messages['su'] = array(
 	'group-Global_bot' => 'Bot global',
 	'group-Global_rollback' => 'Malikeun révisi global',
 	'group-Ombudsmen' => 'Ombudsman',
+	'group-Staff' => 'Staf',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'kuncén sistem',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'Malikeun révisi global',
 	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Staff-member' => 'Anggota staf',
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
@@ -4164,11 +4295,13 @@ $messages['sv'] = array(
 	'group-Global_bot' => 'Globala robotar',
 	'group-Global_rollback' => 'Globala tillbakarullare',
 	'group-Ombudsmen' => 'Ombudsmän',
+	'group-Staff' => 'Personal',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'systemadministratör',
 	'group-Global_bot-member' => 'global robot',
 	'group-Global_rollback-member' => 'global tillbakarullare',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'personal',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 	'group-coder' => 'Kodare',
@@ -4267,7 +4400,9 @@ $messages['te'] = array(
 	'grouppage-uploader' => '{{ns:project}}:ఎగుమతిదార్లు',
 	'group-steward' => 'స్టీవార్డులు',
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
+	'group-Staff' => 'సిబ్బంది',
 	'group-steward-member' => 'స్టీవార్డు',
+	'group-Staff-member' => 'సిబ్బంది',
 );
 
 /** Tetum (Tetun)
@@ -4342,6 +4477,8 @@ $messages['th'] = array(
 	'group-founder' => 'ผู้ก่อตั้ง',
 	'group-founder-member' => 'ผู้ก่อตั้ง',
 	'group-uploader-member' => 'ผู้อัปโหลด',
+	'group-Staff' => 'ผู้แปล',
+	'group-Staff-member' => 'ทีมงาน',
 );
 
 /** Turkmen (Türkmen)
@@ -4392,11 +4529,13 @@ $messages['tl'] = array(
 	'group-Global_bot' => "Pandaigdigang mga ''bot''",
 	'group-Global_rollback' => 'Pandaigdigang mga tagapagpagulong pabalik sa dati',
 	'group-Ombudsmen' => 'Mga tanod-bayan',
+	'group-Staff' => 'Mga tauhan',
 	'group-steward-member' => 'bandahali',
 	'group-sysadmin-member' => 'tagapangasiwa ng sistema',
 	'group-Global_bot-member' => "pandaigdigang ''bot''",
 	'group-Global_rollback-member' => 'pandaigdigang tagapagpagulong pabalik sa dati',
 	'group-Ombudsmen-member' => 'tanod-bayan',
+	'group-Staff-member' => 'kasaping tauhan',
 	'grouppage-steward' => 'm:Mga bandahali',
 	'grouppage-sysadmin' => 'm:Mga tagapangasiwa ng sistema',
 	'grouppage-Global_bot' => 'm:Pandaigdigang bot',
@@ -4474,11 +4613,13 @@ $messages['tr'] = array(
 	'group-Global_bot' => 'Küresel botlar',
 	'group-Global_rollback' => 'Küresel geri döndürücüler',
 	'group-Ombudsmen' => 'Bağımsız hakemler',
+	'group-Staff' => 'Hizmetli',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'Sistem yöneticisi',
 	'group-Global_bot-member' => 'küresel bot',
 	'group-Global_rollback-member' => 'küresel geri döndürücü',
 	'group-Ombudsmen-member' => 'bağımsız hakem',
+	'group-Staff-member' => 'Hizmetli üye',
 	'grouppage-steward' => '{{ns:project}}:Stewardlar',
 	'group-coder' => 'Kodlayıcılar',
 	'group-coder-member' => 'kodlayıcı',
@@ -4568,11 +4709,13 @@ $messages['uk'] = array(
 	'group-Global_bot' => 'Глобальні боти',
 	'group-Global_rollback' => 'Глобальні відкочувачі',
 	'group-Ombudsmen' => 'Омбудсмени',
+	'group-Staff' => 'Співробітники',
 	'group-steward-member' => 'стюард',
 	'group-sysadmin-member' => 'системний адміністратор',
 	'group-Global_bot-member' => 'глобальний бот',
 	'group-Global_rollback-member' => 'глобальний відкочувач',
 	'group-Ombudsmen-member' => 'омбудсмен',
+	'group-Staff-member' => 'співробітник',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-coder' => 'Програмісти',
 	'group-coder-member' => 'програміст',
@@ -4628,11 +4771,13 @@ $messages['vec'] = array(
 	'group-Global_bot' => 'Bot globali',
 	'group-Global_rollback' => 'Ripristinadori globali',
 	'group-Ombudsmen' => 'Ombudsman',
+	'group-Staff' => 'Staff',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'aministrador de sistema',
 	'group-Global_bot-member' => 'bot globale',
 	'group-Global_rollback-member' => 'ripristinador globale',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'Menbro del staff',
 	'group-coder' => 'Programatori',
 	'group-coder-member' => 'programator',
 );
@@ -4679,11 +4824,13 @@ $messages['vi'] = array(
 	'group-Global_bot' => 'Robot toàn cầu',
 	'group-Global_rollback' => 'Thành viên lùi sửa toàn cầu',
 	'group-Ombudsmen' => 'Thanh tra viên',
+	'group-Staff' => 'Nhân viên',
 	'group-steward-member' => 'Tiếp viên',
 	'group-sysadmin-member' => 'người quản lý hệ thống',
 	'group-Global_bot-member' => 'robot toàn cầu',
 	'group-Global_rollback-member' => 'người lùi sửa toàn cầu',
 	'group-Ombudsmen-member' => 'thanh tra viên',
+	'group-Staff-member' => 'Nhân viên',
 	'group-coder' => 'Lập trình viên',
 	'group-coder-member' => 'lập trình viên',
 );
@@ -4874,11 +5021,13 @@ $messages['zh-hans'] = array(
 	'group-Global_bot' => '全域机器人',
 	'group-Global_rollback' => '全域反转者',
 	'group-Ombudsmen' => '申诉专员',
+	'group-Staff' => '成员',
 	'group-steward-member' => '监管员',
 	'group-sysadmin-member' => '系统管理员',
 	'group-Global_bot-member' => '全域机器人',
 	'group-Global_rollback-member' => '全域反转者',
 	'group-Ombudsmen-member' => '申诉专员',
+	'group-Staff-member' => '成员',
 	'group-coder' => '编程人员',
 	'group-coder-member' => '编程人员',
 );
@@ -4923,6 +5072,7 @@ $messages['zh-hant'] = array(
 	'group-Global_bot-member' => '全域機器人',
 	'group-Global_rollback-member' => '全域反轉者',
 	'group-Ombudsmen-member' => '申訴專員',
+	'group-Staff-member' => '成員',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬) */
