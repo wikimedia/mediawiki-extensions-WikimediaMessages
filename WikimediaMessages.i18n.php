@@ -2552,13 +2552,16 @@ $messages['ko'] = array(
 	'group-developer-member' => '개발자',
 	'group-founder-member' => '설립자',
 	'grouppage-developer' => '{{ns:project}}:개발자',
+	'grouppage-founder' => '{{ns:project}}:설립자',
 	'group-steward' => '사무장',
 	'group-sysadmin' => '시스템 관리자',
 	'group-Global_bot' => '글로벌 봇',
+	'group-Global_rollback' => '글로벌 롤배커',
 	'group-Ombudsmen' => '옴부즈맨',
 	'group-steward-member' => '사무장',
 	'group-sysadmin-member' => '시스템 관리자',
 	'group-Global_bot-member' => '글로벌 봇',
+	'group-Global_rollback-member' => '글로벌 롤배커',
 	'group-Ombudsmen-member' => '옴부즈맨',
 	'grouppage-steward' => 'm:Stewards/ko',
 	'group-coder' => '코더',
@@ -2890,6 +2893,8 @@ $messages['mg'] = array(
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Mpandrindra ny sistema',
 	'group-sysadmin-member' => 'Mpandrindra ny Sistema',
+	'group-coder' => 'Mpanakaody',
+	'group-coder-member' => 'mpanakaody',
 );
 
 /** Maori (Māori) */
