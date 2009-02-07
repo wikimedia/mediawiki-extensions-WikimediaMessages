@@ -3175,8 +3175,45 @@ $messages['nds'] = array(
  * @author לערי ריינהארט
  */
 $messages['nds-nl'] = array(
+	'wikimediamessages-desc' => 'Systeemteksen veur Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/nds-nl',
 	'sitesupport' => 'Financiële steun',
 	'tooltip-n-sitesupport' => 'Gef oons geald',
+	'group-accountcreator' => 'gebrukeranmakers',
+	'group-autopatroller' => 'autopatrollers',
+	'group-developer' => 'ontwikkelaars',
+	'group-founder' => 'grondlegers',
+	'group-import' => 'invoerders',
+	'group-ipblock-exempt' => 'uutzunderingen van IP-adresblokkeringen',
+	'group-rollbacker' => 'weerummedreiers',
+	'group-transwiki' => 'transwiki-invoerders',
+	'group-uploader' => 'bestanstoevoegers',
+	'group-accountcreator-member' => 'gebrukeranmaker',
+	'group-autopatroller-member' => 'autopatroller',
+	'group-developer-member' => 'ontwikkelaar',
+	'group-founder-member' => 'grondleger',
+	'group-import-member' => 'invoerder',
+	'group-ipblock-exempt-member' => 'uutzundering van IP-adresblokkeringen',
+	'group-rollbacker-member' => 'weerummedreier',
+	'group-transwiki-member' => 'transwiki-invoerder',
+	'group-uploader-member' => 'bestanstoevoeger',
+	'grouppage-accountcreator' => '{{ns:project}}:Gebrukeranmakers',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
+	'grouppage-developer' => '{{ns:project}}:Ontwikkelaars',
+	'grouppage-founder' => '{{ns:project}}:Grondlegers',
+	'grouppage-import' => '{{ns:project}}:Invoerders',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Uutzunderingen van IP-adresblokkeringen',
+	'grouppage-rollbacker' => '{{ns:project}}:Weerummedreiers',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-invoerders',
+	'grouppage-uploader' => '{{ns:project}}:Bestanstoevoegers',
+	'group-steward' => 'rechenbeheerders',
+	'group-sysadmin' => 'systeembeheerder',
+	'group-Global_bot' => 'globale bots',
+	'group-Global_rollback' => 'globale weerummedreiers',
+	'group-Ombudsmen' => 'ombudsluui',
+	'group-Staff' => 'staf',
+	'group-steward-member' => 'rechenbeheerder',
+	'group-Ombudsmen-member' => 'ombudsman',
 );
 
 /** Nepali (नेपाली) */
@@ -3714,6 +3751,7 @@ $messages['roa-rup'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'wikimediamessages-desc' => 'Wikimedia specific messages',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Done',
 	'tooltip-n-sitesupport' => 'Aiutene',
