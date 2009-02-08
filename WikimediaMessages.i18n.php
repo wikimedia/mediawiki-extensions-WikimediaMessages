@@ -3213,7 +3213,13 @@ $messages['nds-nl'] = array(
 	'group-Ombudsmen' => 'ombudsluui',
 	'group-Staff' => 'staf',
 	'group-steward-member' => 'rechenbeheerder',
+	'group-sysadmin-member' => 'systeembeheerder',
+	'group-Global_bot-member' => 'globale bot',
+	'group-Global_rollback-member' => 'globale weerummedreier',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'staflid',
+	'group-coder' => 'progremmeurs',
+	'group-coder-member' => 'progremmeur',
 );
 
 /** Nepali (नेपाली) */
@@ -3765,6 +3771,7 @@ $messages['roa-tara'] = array(
 	'grouppage-developer' => '{{ns:project}}:Sviluppature',
 	'grouppage-uploader' => '{{ns:project}}:Carecature',
 	'group-sysadmin' => "Amministrature d'u sisteme",
+	'group-Global_bot' => 'Bot globele',
 	'group-Staff' => "'U personele",
 	'group-sysadmin-member' => 'amministratore de sisteme',
 	'group-Global_bot-member' => 'bot globele',
