@@ -3771,6 +3771,7 @@ $messages['roa-tara'] = array(
 	'group-uploader-member' => 'carecatore',
 	'grouppage-developer' => '{{ns:project}}:Sviluppature',
 	'grouppage-uploader' => '{{ns:project}}:Carecature',
+	'group-steward' => 'Steward',
 	'group-sysadmin' => "Amministrature d'u sisteme",
 	'group-Global_bot' => 'Bot globele',
 	'group-Staff' => "'U personele",
