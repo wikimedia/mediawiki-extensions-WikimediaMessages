@@ -306,6 +306,7 @@ $messages['ar'] = array(
 	'group-Staff-member' => 'عضو من المشرفين',
 	'grouppage-steward' => 'm:Stewards/ar',
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
+	'grouppage-Staff' => 'Foundation:الطاقم',
 	'group-coder' => 'مكودون',
 	'group-coder-member' => 'مكود',
 	'grouppage-coder' => 'Project:مكود',
