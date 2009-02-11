@@ -4676,6 +4676,8 @@ $messages['tr'] = array(
 	'group-Ombudsmen-member' => 'bağımsız hakem',
 	'group-Staff-member' => 'Hizmetli üye',
 	'grouppage-steward' => '{{ns:project}}:Stewardlar',
+	'grouppage-sysadmin' => 'm:Sistem yöneticileri',
+	'grouppage-Global_bot' => 'm:Küresel bot',
 	'group-coder' => 'Kodlayıcılar',
 	'group-coder-member' => 'kodlayıcı',
 );
