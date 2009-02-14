@@ -1142,21 +1142,45 @@ $messages['ee'] = array(
 /** Greek (Ελληνικά)
  * @author Badseed
  * @author Consta
+ * @author Dead3y3
  * @author Omnipaedista
  * @author ZaDiak
  */
 $messages['el'] = array(
+	'wikimediamessages-desc' => 'Μηνύματα ειδικά για το Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/el',
 	'sitesupport' => 'Δωρεές',
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
+	'group-accountcreator' => 'Δημιουργοί λογαριασμών',
 	'group-founder' => 'Ιδρυτές',
+	'group-import' => 'Εισαγωγείς',
+	'group-ipblock-exempt' => 'Απαλλαγές από φραγή IP',
+	'group-transwiki' => 'Εισαγωγείς Transwiki',
+	'group-accountcreator-member' => 'δημιουργός λογαριασμού',
 	'group-founder-member' => 'Ιδρυτής',
+	'group-import-member' => 'εισαγωγέας',
+	'group-ipblock-exempt-member' => 'απαλλαγή από φραγή IP',
+	'group-transwiki-member' => 'εισαγωγέας transwiki',
+	'grouppage-accountcreator' => '{{ns:project}}:Δημιουργοί λογαριασμών',
 	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματοι περίπολοι',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
+	'grouppage-import' => '{{ns:project}}:Εισαγωγείς',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
+	'grouppage-transwiki' => '{{ns:project}}:Εισαγωγείς Transwiki',
+	'group-steward' => 'Επίτροποι',
+	'group-sysadmin' => 'Διαχειριστές συστήματος',
+	'group-Global_bot' => 'Καθολικά bots',
+	'group-Global_rollback' => 'Καθολικοί rollbackers',
+	'group-Ombudsmen' => 'Συνήγοροι του πολίτη',
 	'group-Staff' => 'Προσωπικό',
+	'group-steward-member' => 'επίτροπος',
 	'group-sysadmin-member' => 'διαχειριστής συστήματος',
+	'group-Global_bot-member' => 'καθολικό bot',
+	'group-Global_rollback-member' => 'καθολικός rollbacker',
+	'group-Ombudsmen-member' => 'συνήγορος του πολίτη',
 	'group-Staff-member' => 'Μέλος προσωπικού',
+	'group-coder' => 'Κωδικογράφοι',
+	'group-coder-member' => 'κωδικογράφος',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
@@ -2258,6 +2282,7 @@ $messages['is'] = array(
  * @author BrokenArrow
  * @author Brownout
  * @author Darth Kule
+ * @author Melos
  * @author Pietrodn
  */
 $messages['it'] = array(
@@ -2266,26 +2291,32 @@ $messages['it'] = array(
 	'sitesupport' => 'Donazioni',
 	'tooltip-n-sitesupport' => 'Sostienici',
 	'group-accountcreator' => 'Creatori di account',
+	'group-autopatroller' => 'Autopatroller',
 	'group-developer' => 'Sviluppatori',
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Importatori',
 	'group-ipblock-exempt' => 'esente dal blocco IP',
 	'group-rollbacker' => 'Rollbacker',
 	'group-transwiki' => 'Importatori transwiki',
+	'group-uploader' => 'Uploader',
 	'group-accountcreator-member' => 'creatore di account',
+	'group-autopatroller-member' => 'autopatroller',
 	'group-developer-member' => 'sviluppatore',
 	'group-founder-member' => 'fondatore',
 	'group-import-member' => 'importatore',
 	'group-ipblock-exempt-member' => 'esente dal blocco IP',
 	'group-rollbacker-member' => 'rollbacker',
 	'group-transwiki-member' => 'importatore transwiki',
+	'group-uploader-member' => 'uploader',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori di account',
+	'grouppage-autopatroller' => '{{ns: project}}:Autopatroller',
 	'grouppage-developer' => '{{ns:project}}:Sviluppatori',
 	'grouppage-founder' => '{{ns:project}}:Founders',
 	'grouppage-import' => '{{ns:project}}:Importatori',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dal blocco IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki' => '{{ns:project}}:Importatori transwiki',
+	'grouppage-uploader' => '{{ns: project}}:Uploader',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Amministratori di sistema',
 	'group-Global_bot' => 'Bot globali',
@@ -2300,6 +2331,8 @@ $messages['it'] = array(
 	'group-Staff-member' => 'Membro dello staff',
 	'grouppage-steward' => 'm:Stewards/it',
 	'grouppage-Global_rollback' => 'm:Global rollback/it',
+	'group-coder' => 'Coder',
+	'group-coder-member' => 'coder',
 );
 
 /** Japanese (日本語)
