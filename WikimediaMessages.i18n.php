@@ -1939,6 +1939,7 @@ $messages['he'] = array(
 	'group-Staff-member' => 'איש צוות',
 	'group-coder' => 'מתכנתים',
 	'group-coder-member' => 'מתכנת',
+	'shared-repo-name-shared' => 'ויקישיתוף',
 );
 
 /** Hindi (हिन्दी)
