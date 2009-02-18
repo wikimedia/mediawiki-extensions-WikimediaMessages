@@ -89,7 +89,7 @@ $messages['en'] = array(
 	'grouppage-coder'    => 'Project:Coder', # only translate this message to other languages if you have to change it
 	
 	# The name for the common shared repo 'shared'
-	'shared-repo-name-shared' => 'Wikimedia Commons', 
+	'shared-repo-name-shared' => 'Wikimedia Commons', # only translate this message to other languages if you have to change it
 );
 
 /** Message documentation (Message documentation)
