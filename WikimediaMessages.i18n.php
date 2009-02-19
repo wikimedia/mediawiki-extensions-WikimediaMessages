@@ -1147,6 +1147,7 @@ $messages['ee'] = array(
  * @author Badseed
  * @author Consta
  * @author Dead3y3
+ * @author Geraki
  * @author Omnipaedista
  * @author ZaDiak
  */
@@ -1157,6 +1158,7 @@ $messages['el'] = array(
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
 	'group-accountcreator' => 'Δημιουργοί λογαριασμών',
 	'group-autopatroller' => 'Αυτόματοι περίπολοι',
+	'group-developer' => 'Προγραμματιστές',
 	'group-founder' => 'Ιδρυτές',
 	'group-import' => 'Εισαγωγείς',
 	'group-ipblock-exempt' => 'Απαλλαγές από φραγή IP',
@@ -1165,6 +1167,7 @@ $messages['el'] = array(
 	'group-uploader' => 'Επιφορτωτές',
 	'group-accountcreator-member' => 'δημιουργός λογαριασμού',
 	'group-autopatroller-member' => 'αυτόματη περίπολος',
+	'group-developer-member' => 'προγραμματιστής',
 	'group-founder-member' => 'Ιδρυτής',
 	'group-import-member' => 'εισαγωγέας',
 	'group-ipblock-exempt-member' => 'απαλλαγή από φραγή IP',
@@ -1173,6 +1176,7 @@ $messages['el'] = array(
 	'group-uploader-member' => 'επιφορτωτής',
 	'grouppage-accountcreator' => '{{ns:project}}:Δημιουργοί λογαριασμών',
 	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματοι περίπολοι',
+	'grouppage-developer' => '{{ns:project}}:Προγραμματιστές',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
 	'grouppage-import' => '{{ns:project}}:Εισαγωγείς',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
@@ -1741,6 +1745,7 @@ $messages['gl'] = array(
 	'group-Staff-member' => 'membro',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
+	'shared-repo-name-shared' => 'Wikimedia Commons',
 );
 
 /** Gilaki (گیلکی)
@@ -2672,6 +2677,7 @@ $messages['ksh'] = array(
 	'group-coder' => 'Projrammierer',
 	'group-coder-member' => 'Projrammierer',
 	'grouppage-coder' => 'project:Projrammierer',
+	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */
@@ -2697,7 +2703,10 @@ $messages['ky'] = array(
  */
 $messages['la'] = array(
 	'sitesupport' => 'Donationes',
+	'group-rollbacker' => 'Revertores',
 	'group-rollbacker-member' => 'revertor',
+	'grouppage-rollbacker' => '{{ns:project}}:Revertores',
+	'shared-repo-name-shared' => 'Vicimedia Communia',
 );
 
 /** Ladino (Ladino)
@@ -3883,6 +3892,7 @@ $messages['ru'] = array(
 	'grouppage-steward' => 'm:Stewards/ru',
 	'group-coder' => 'Программисты',
 	'group-coder-member' => 'программист',
+	'shared-repo-name-shared' => 'Викисклад',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
