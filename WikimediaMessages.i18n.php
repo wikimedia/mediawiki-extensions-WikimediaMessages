@@ -4738,6 +4738,7 @@ $messages['tr'] = array(
 	'grouppage-Global_bot' => 'm:Küresel bot',
 	'group-coder' => 'Kodlayıcılar',
 	'group-coder-member' => 'kodlayıcı',
+	'shared-repo-name-shared' => 'Vikipedi Commons',
 );
 
 /** Tsonga (Xitsonga)
