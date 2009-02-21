@@ -506,7 +506,10 @@ $wgGrammarForms['hu'] = array(
 
 $wgGrammarForms['la'] = array(
 	'genitive' => array(
-		'Vicifons' => 'Vicifontis'
+		'Vicimedia Communia' => 'Vicimediorum Communium',
+	),
+	'ablative' => array(
+		'Vicimedia Communia' => 'Vicimediis Communibus',
 	),
 ); # la
 
