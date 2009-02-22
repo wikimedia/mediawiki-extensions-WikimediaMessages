@@ -2283,6 +2283,8 @@ $messages['inh'] = array(
 $messages['io'] = array(
 	'sitesupport' => 'Donacaji',
 	'tooltip-n-sitesupport' => 'Suportez ni',
+	'group-accountcreator' => 'Konto-kreanti',
+	'group-sysadmin' => 'Sistemo-administranti',
 );
 
 /** Icelandic (Íslenska)
@@ -2601,8 +2603,10 @@ $messages['ko'] = array(
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'group-developer' => '개발자',
 	'group-founder' => '설립자',
+	'group-ipblock-exempt' => 'IP 차단 면제자',
 	'group-developer-member' => '개발자',
 	'group-founder-member' => '설립자',
+	'group-ipblock-exempt-member' => 'IP 차단 면제자',
 	'grouppage-developer' => '{{ns:project}}:개발자',
 	'grouppage-founder' => '{{ns:project}}:설립자',
 	'group-steward' => '사무장',
@@ -3732,6 +3736,7 @@ $messages['pt'] = array(
  * @author Carla404
  */
 $messages['pt-br'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pt',
 	'sitesupport' => 'Doações',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'group-developer' => 'Desenvolvedores',
@@ -4158,9 +4163,12 @@ $messages['sk'] = array(
 	'group-coder-member' => 'kóder',
 );
 
-/** Slovenian (Slovenščina) */
+/** Slovenian (Slovenščina)
+ * @author Smihael
+ */
 $messages['sl'] = array(
 	'sitesupport' => 'Denarni prispevki',
+	'shared-repo-name-shared' => 'Wikimedijine Zbirke',
 );
 
 /** Samoan (Gagana Samoa) */
