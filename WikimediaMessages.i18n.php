@@ -2140,6 +2140,7 @@ $messages['hu'] = array(
 	'grouppage-steward' => '{{ns:project}}:Helytartók',
 	'group-coder' => 'programozók',
 	'group-coder-member' => 'programozó',
+	'shared-repo-name-shared' => 'Wikimedia Commons',
 );
 
 /** Armenian (Հայերեն)
@@ -2284,6 +2285,9 @@ $messages['io'] = array(
 	'sitesupport' => 'Donacaji',
 	'tooltip-n-sitesupport' => 'Suportez ni',
 	'group-accountcreator' => 'Konto-kreanti',
+	'group-uploader' => 'Adkarganti',
+	'group-uploader-member' => 'adkarganto',
+	'grouppage-uploader' => '{{ns:project}}:Adkarganti',
 	'group-sysadmin' => 'Sistemo-administranti',
 );
 
@@ -3832,11 +3836,13 @@ $messages['roa-tara'] = array(
 	'group-transwiki-member' => 'Importatore de transuicchi',
 	'group-uploader-member' => 'carecatore',
 	'grouppage-developer' => '{{ns:project}}:Sviluppature',
+	'grouppage-import' => "{{ns:project}}:'Mbortature",
 	'grouppage-uploader' => '{{ns:project}}:Carecature',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => "Amministrature d'u sisteme",
 	'group-Global_bot' => 'Bot globele',
 	'group-Staff' => "'U personele",
+	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'amministratore de sisteme',
 	'group-Global_bot-member' => 'bot globele',
 	'group-Staff-member' => "cristiàne d'u personele",
