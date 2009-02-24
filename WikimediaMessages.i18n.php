@@ -151,6 +151,57 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
+/** Veps (Vepsan kel')
+ * @author Игорь Бродский
+ */
+$messages['vep'] = array(
+	'wikimediamessages-desc' => 'WikiMedial kävutadud specifižed tedotused',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Tehta_rahalahj',
+	'sitesupport' => 'Rahalahjad',
+	'tooltip-n-sitesupport' => 'Tugekat meid',
+	'group-accountcreator' => 'Registrirujad',
+	'group-autopatroller' => 'Avtomatižešti patruliruidud',
+	'group-developer' => 'Šingotajad',
+	'group-founder' => 'Alusenpanijad',
+	'group-import' => 'Importörad',
+	'group-ipblock-exempt' => 'Erindad IP-blokiruindoišpäi',
+	'group-rollbacker' => 'Endištajad',
+	'group-transwiki' => 'Importörad Transwikišpäi',
+	'group-uploader' => 'Jügutoitajad',
+	'group-accountcreator-member' => 'Registrirujad',
+	'group-autopatroller-member' => 'Avtomatižešti patruliruidud',
+	'group-developer-member' => 'šingotai',
+	'group-founder-member' => 'alusenpanii',
+	'group-import-member' => 'importör',
+	'group-ipblock-exempt-member' => 'Erind IP-blokiruindoišpäi',
+	'group-rollbacker-member' => 'endištai',
+	'group-transwiki-member' => 'importör Transwikišpäi',
+	'group-uploader-member' => 'jügutoitai',
+	'grouppage-accountcreator' => '{{ns:project}}:Registrirujad',
+	'grouppage-autopatroller' => '{{ns:project}}:Avtomatižešti patruliruidud',
+	'grouppage-developer' => '{{ns:project}}:Šingotajad',
+	'grouppage-founder' => '{{ns:project}}:Alusenpanijad',
+	'grouppage-import' => '{{ns:project}}:Importörad',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Erind IP-blokiruindoišpäi',
+	'grouppage-rollbacker' => '{{ns:project}}:Endištajad',
+	'grouppage-transwiki' => '{{ns:project}}:Importörad Transwikišpäi',
+	'grouppage-uploader' => '{{ns:project}}:Jügutoitajad',
+	'group-steward' => 'Stüardad',
+	'group-sysadmin' => 'Sisteman administratorad',
+	'group-Global_bot' => 'Globaližed botad',
+	'group-Global_rollback' => 'Globaližed endištajad',
+	'group-Ombudsmen' => 'Ombudsmenad',
+	'group-Staff' => 'projektan radnikad',
+	'group-steward-member' => 'stüard',
+	'group-sysadmin-member' => 'sisteman administratorad',
+	'group-Global_bot-member' => 'globaline bot',
+	'group-Global_rollback-member' => 'globaline endištai',
+	'group-Ombudsmen-member' => 'ombudsmen',
+	'group-Staff-member' => 'projektan radnik',
+	'group-coder' => 'Programmistad',
+	'group-coder-member' => 'programmist',
+);
+
 /** Achinese (Acèh)
  * @author Andri.h
  */
@@ -3740,12 +3791,18 @@ $messages['pt'] = array(
  * @author Carla404
  */
 $messages['pt-br'] = array(
+	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pt',
 	'sitesupport' => 'Doações',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'group-developer' => 'Desenvolvedores',
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
+	'grouppage-rollbacker' => '{{ns:project}}:Revertedores',
+	'group-sysadmin' => 'Administradores de sistema',
+	'group-Staff' => 'Equipe',
+	'group-Staff-member' => 'membro da equipe',
+	'group-coder' => 'Codificadores',
 );
 
 /** Quechua (Runa Simi)
