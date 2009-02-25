@@ -2011,10 +2011,54 @@ $messages['hi'] = array(
 
 /** Fiji Hindi (Latin) (Fiji Hindi (Latin))
  * @author Girmitya
+ * @author Thakurji
  */
 $messages['hif-latn'] = array(
+	'wikimediamessages-desc' => 'Wikimedia specific sandes',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Daan',
 	'tooltip-n-sitesupport' => 'Ham log ke sahara do',
+	'group-accountcreator' => 'Account ke banae waala',
+	'group-autopatroller' => 'Autopatrollers',
+	'group-developer' => 'Developers',
+	'group-founder' => 'Founders',
+	'group-import' => 'Importers',
+	'group-ipblock-exempt' => 'IP block exemptions',
+	'group-rollbacker' => 'Rollbackers',
+	'group-transwiki' => 'Transwiki importers',
+	'group-uploader' => 'Uploaders',
+	'group-accountcreator-member' => 'account creator',
+	'group-autopatroller-member' => 'autopatroller',
+	'group-developer-member' => 'developer',
+	'group-founder-member' => 'founder',
+	'group-import-member' => 'importer',
+	'group-ipblock-exempt-member' => 'IP block exempt',
+	'group-rollbacker-member' => 'rollbacker',
+	'group-transwiki-member' => 'transwiki importer',
+	'group-uploader-member' => 'uploader',
+	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
+	'grouppage-developer' => '{{ns:project}}:Developers',
+	'grouppage-founder' => '{{ns:project}}:Founders',
+	'grouppage-import' => '{{ns:project}}:Importers',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
+	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki importers',
+	'grouppage-uploader' => '{{ns:project}}:Uploaders',
+	'group-steward' => 'Stewards',
+	'group-sysadmin' => 'System administrators',
+	'group-Global_bot' => 'Global bots',
+	'group-Global_rollback' => 'Global rollbackers',
+	'group-Ombudsmen' => 'Ombudsmen',
+	'group-Staff' => 'Message definition (Wikimedia Messages)Staffs',
+	'group-steward-member' => 'steward',
+	'group-sysadmin-member' => 'system administrator',
+	'group-Global_bot-member' => 'global bot',
+	'group-Global_rollback-member' => 'global rollbacker',
+	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'staff',
+	'group-coder' => 'Coders',
+	'group-coder-member' => 'coder',
 );
 
 /** Hiligaynon (Ilonggo)
@@ -3242,6 +3286,7 @@ $messages['nap'] = array(
  */
 $messages['nds'] = array(
 	'wikimediamessages-desc' => 'Systemnarichten för Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Spennen',
 	'tooltip-n-sitesupport' => 'Ünnerstütt uns',
 	'group-accountcreator' => 'Brukerkonten-Opstellers',
@@ -3789,20 +3834,54 @@ $messages['pt'] = array(
 /** Brazilian Portuguese (Português do Brasil)
  * @author 555
  * @author Carla404
+ * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pt',
 	'sitesupport' => 'Doações',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
+	'group-accountcreator' => 'Criadores de contas',
+	'group-autopatroller' => 'Auto-patrulhadores',
 	'group-developer' => 'Desenvolvedores',
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
+	'group-ipblock-exempt' => 'IPs não bloqueados',
+	'group-rollbacker' => 'Revertedores',
+	'group-transwiki' => 'Importadores Transwiki',
+	'group-uploader' => 'Carregadores',
+	'group-accountcreator-member' => 'Criador de contas',
+	'group-autopatroller-member' => 'auto-patrulhador',
+	'group-developer-member' => 'Desenvolvedor',
+	'group-founder-member' => 'Fundador',
+	'group-import-member' => 'Importador',
+	'group-ipblock-exempt-member' => 'IP não bloqueado',
+	'group-rollbacker-member' => 'Revertedor',
+	'group-transwiki-member' => 'importador transwiki',
+	'group-uploader-member' => 'carregador',
+	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
+	'grouppage-autopatroller' => '{{ns:project}}:Auto-patrulhadores',
+	'grouppage-developer' => '{{ns:project}}:Desenvolvedores',
+	'grouppage-founder' => '{{ns:project}}:Fundadores',
+	'grouppage-import' => '{{ns:project}}:Importadores',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP não bloqueado',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertedores',
+	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Carregadores',
+	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administradores de sistema',
+	'group-Global_bot' => 'Robôs globais',
+	'group-Global_rollback' => 'Revertedores globais',
+	'group-Ombudsmen' => 'Mediadores',
 	'group-Staff' => 'Equipe',
+	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'administrador de sistema',
+	'group-Global_bot-member' => 'robô global',
+	'group-Global_rollback-member' => 'revertedor global',
+	'group-Ombudsmen-member' => 'mediador',
 	'group-Staff-member' => 'membro da equipe',
 	'group-coder' => 'Codificadores',
+	'group-coder-member' => 'codificador',
 );
 
 /** Quechua (Runa Simi)
