@@ -2900,37 +2900,47 @@ $messages['li'] = array(
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Ongersteun os financieel',
 	'group-accountcreator' => 'Gebroekeraanmakers',
+	'group-autopatroller' => 'autopatrollers',
 	'group-developer' => 'Ontwikkeleers',
 	'group-founder' => 'Gróndlègkers',
 	'group-import' => 'Importäörs',
 	'group-ipblock-exempt' => 'Oetgezongerde van IP-adres blokkades',
 	'group-rollbacker' => 'Trökdriejers',
 	'group-transwiki' => 'Transwikiimportäörs',
+	'group-uploader' => 'óplaajers',
 	'group-accountcreator-member' => 'Gebroekeraanmaker',
+	'group-autopatroller-member' => 'autopatroller',
 	'group-developer-member' => 'Ontwikkeleer',
 	'group-founder-member' => 'Gróndlègker',
 	'group-import-member' => 'Importäör',
 	'group-ipblock-exempt-member' => 'Oetgenómmene van IP-adresblokkades',
 	'group-rollbacker-member' => 'Trökdriejer',
 	'group-transwiki-member' => 'Transwikiimportäör',
+	'group-uploader-member' => 'óplaajer',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebroekeraanmakers',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
 	'grouppage-developer' => '{{ns:project}}:Ontwikkeleers',
 	'grouppage-founder' => '{{ns:project}}:Gróndlègkers',
 	'grouppage-import' => '{{ns:project}}:Importäörs',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Oetgezongerde van IP-adresblokkades',
 	'grouppage-rollbacker' => '{{ns:project}}:Trökdriejers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwikiimportäörs',
+	'grouppage-uploader' => '{{ns:project}}:Óplaajers',
 	'group-steward' => 'Stewards',
+	'group-sysadmin' => 'systeemwèrkers',
 	'group-Global_bot' => 'Globaal bots',
 	'group-Global_rollback' => 'Globaal trökdriejers',
 	'group-Ombudsmen' => 'Ombudsmen',
 	'group-Staff' => 'Li-jjing',
 	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'systeemwèrker',
 	'group-Global_bot-member' => 'Globale bot',
 	'group-Global_rollback-member' => 'Globale trökdriejer',
 	'group-Ombudsmen-member' => 'Ombudsman',
 	'group-Staff-member' => 'Li-jjer',
 	'grouppage-steward' => '{{ns:project}}:Stewards',
+	'group-coder' => 'koeajers',
+	'group-coder-member' => 'koeajer',
 );
 
 /** Líguru (Líguru)
@@ -3237,11 +3247,13 @@ $messages['my'] = array(
 
 /** Erzya (Эрзянь)
  * @author Botuzhaleny-sodamo
+ * @author Sura
  */
 $messages['myv'] = array(
 	'sitesupport' => 'Лезксйармаконь максома',
 	'tooltip-n-sitesupport' => 'Макста миненек нежедематарка',
 	'group-founder' => 'Лувонь путыйть',
+	'group-sysadmin' => 'Системань администраторт',
 );
 
 /** Mazanderani (مَزِروني)
