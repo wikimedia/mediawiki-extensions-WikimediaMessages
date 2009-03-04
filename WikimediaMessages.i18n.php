@@ -1577,6 +1577,7 @@ $messages['fo'] = array(
  * @author Grondin
  * @author IAlex
  * @author Meno25
+ * @author PieRRoMaN
  * @author Sherbrooke
  * @author Verdy p
  * @author Yekrats
@@ -1594,17 +1595,17 @@ $messages['fr'] = array(
 	'group-founder' => 'Fondateurs',
 	'group-import' => 'Importateurs',
 	'group-ipblock-exempt' => 'Exemptions de blocs IP',
-	'group-rollbacker' => 'Réverteurs',
+	'group-rollbacker' => 'Révocateurs',
 	'group-transwiki' => 'Importateurs transwiki',
 	'group-uploader' => 'Téléverseurs',
-	'group-accountcreator-member' => 'Créateur de comptes',
-	'group-autopatroller-member' => 'Patrouilleur automatique',
-	'group-developer-member' => 'Développeur',
-	'group-founder-member' => 'Fondateur',
-	'group-import-member' => 'Importateur',
-	'group-ipblock-exempt-member' => 'Exemption de bloc IP',
-	'group-rollbacker-member' => 'Réverteur',
-	'group-transwiki-member' => 'Importateur Transwiki',
+	'group-accountcreator-member' => 'créateur de comptes',
+	'group-autopatroller-member' => 'patrouilleur automatique',
+	'group-developer-member' => 'développeur',
+	'group-founder-member' => 'fondateur',
+	'group-import-member' => 'importateur',
+	'group-ipblock-exempt-member' => 'exemption de bloc IP',
+	'group-rollbacker-member' => 'révocateur',
+	'group-transwiki-member' => 'importateur transwiki',
 	'group-uploader-member' => 'téléverseur',
 	'grouppage-accountcreator' => '{{ns:project}}:Créateurs de comptes',
 	'grouppage-autopatroller' => '{{ns:project}}:Patrouilleurs automatiques',
@@ -1612,21 +1613,21 @@ $messages['fr'] = array(
 	'grouppage-founder' => '{{ns:project}}:Fondateurs',
 	'grouppage-import' => '{{ns:project}}:Importateurs',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de bloc IP',
-	'grouppage-rollbacker' => '{{ns:project}}:Réverteurs',
-	'grouppage-transwiki' => '{{ns:project}}:Importateurs Transwiki',
+	'grouppage-rollbacker' => '{{ns:project}}:Révocateurs',
+	'grouppage-transwiki' => '{{ns:project}}:Importateurs transwiki',
 	'grouppage-uploader' => '{{ns:project}}:Téléverseurs',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administrateurs système',
 	'group-Global_bot' => 'Bots globaux',
-	'group-Global_rollback' => 'Reverteurs globaux',
+	'group-Global_rollback' => 'Révocateurs globaux',
 	'group-Ombudsmen' => 'Médiateurs',
 	'group-Staff' => 'Personnel',
-	'group-steward-member' => 'Steward',
+	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrateur système',
-	'group-Global_bot-member' => 'Bot global',
-	'group-Global_rollback-member' => 'Reverteur global',
-	'group-Ombudsmen-member' => 'Commissaire',
-	'group-Staff-member' => 'Membre du personnel',
+	'group-Global_bot-member' => 'bot global',
+	'group-Global_rollback-member' => 'révocateur global',
+	'group-Ombudsmen-member' => 'médiateur',
+	'group-Staff-member' => 'membre du personnel',
 	'grouppage-steward' => 'm:Stewards/fr',
 	'grouppage-Global_bot' => 'm:Bot policy/fr',
 	'group-coder' => 'Codeurs',
@@ -2604,10 +2605,16 @@ $messages['kaa'] = array(
 
 /** Kabyle (Taqbaylit)
  * @author Agurzil
+ * @author Berkus Tiwal
  */
 $messages['kab'] = array(
+	'wikimediamessages-desc' => 'Iznan usligen n Wikimedia',
 	'sitesupport' => 'Efk-aɣ idrimen',
 	'tooltip-n-sitesupport' => 'Ellil-aɣ',
+	'group-accountcreator' => 'Imeskaren n imiḍanen',
+	'group-founder' => 'Imeskar imenza',
+	'grouppage-founder' => '{{ns:project}}:Imeskar Imenza',
+	'group-Staff-member' => 'Amaslad (membre) n terbaεt',
 );
 
 /** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
@@ -3229,11 +3236,12 @@ $messages['mt'] = array(
 );
 
 /** Mirandese (Mirandés)
+ * @author Cecílio
  * @author MCruz
  */
 $messages['mwl'] = array(
-	'sitesupport' => 'Donativos',
-	'tooltip-n-sitesupport' => 'Ayude-nos',
+	'sitesupport' => 'Donaçones',
+	'tooltip-n-sitesupport' => 'Ajuda-mos',
 );
 
 /** Burmese (Myanmasa)
@@ -4771,7 +4779,6 @@ $messages['tk'] = array(
  */
 $messages['tl'] = array(
 	'wikimediamessages-desc' => 'Tiyak na mga mensahe ng Wikimedia',
-	'sitesupport-url' => 'as is',
 	'sitesupport' => 'Mag-ambag',
 	'tooltip-n-sitesupport' => 'Tangkilikin kami',
 	'group-accountcreator' => 'Mga tagapalikha ng kuwenta/akawnt',
