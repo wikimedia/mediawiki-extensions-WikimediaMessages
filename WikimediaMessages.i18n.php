@@ -1300,9 +1300,12 @@ $messages['es'] = array(
 
 /** Estonian (Eesti)
  * @author Avjoska
+ * @author KalmerE.
  * @author WikedKentaur
  */
 $messages['et'] = array(
+	'wikimediamessages-desc' => 'Vikimeedia eri teadaanne',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Annetused',
 	'sitesupport' => 'Annetused',
 	'tooltip-n-sitesupport' => 'Toeta meid',
 	'group-autopatroller' => 'Automaatsed patrullijad',
@@ -2655,7 +2658,7 @@ $messages['ksh'] = array(
 	'group-Staff-member' => 'Päsonaal',
 	'group-coder' => 'Projrammierer',
 	'group-coder-member' => 'Projrammierer',
-	'grouppage-coder' => 'project:Projrammierer',
+	'grouppage-coder' => 'Project:Projrammierer',
 	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
 );
 
@@ -3371,7 +3374,7 @@ $messages['nn'] = array(
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 	'group-coder' => 'Kodarar',
 	'group-coder-member' => 'kodar',
-	'grouppage-coder' => 'Prosjekt:Kodar',
+	'grouppage-coder' => 'Project:Kodar',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
@@ -4560,6 +4563,7 @@ $messages['tk'] = array(
  */
 $messages['tl'] = array(
 	'wikimediamessages-desc' => 'Tiyak na mga mensahe ng Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Mag-ambag',
 	'tooltip-n-sitesupport' => 'Tangkilikin kami',
 	'group-accountcreator' => 'Mga tagapalikha ng kuwenta/akawnt',
