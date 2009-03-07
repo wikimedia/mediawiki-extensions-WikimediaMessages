@@ -746,8 +746,11 @@ $messages['br'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Nemedenn bloc'had IP",
 	'grouppage-rollbacker' => '{{ns:project}}:Assaverien',
 	'grouppage-transwiki' => '{{ns:project}}:Enporzherien treuzwiki',
+	'group-sysadmin' => 'Merourien ar reizhiad',
 	'group-Staff' => 'skipailh',
 	'group-Staff-member' => 'Ezel eus ar skipailh',
+	'group-coder' => 'Koderien',
+	'group-coder-member' => 'koder',
 );
 
 /** Bosnian (Bosanski)
@@ -2089,10 +2092,11 @@ $messages['ht'] = array(
 
 /** Hungarian (Magyar)
  * @author Dani
+ * @author Tgr
  */
 $messages['hu'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-specifikus üzenetek',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/hu',
 	'sitesupport' => 'Adományok',
 	'tooltip-n-sitesupport' => 'Támogatás',
 	'group-accountcreator' => 'fióklétrehozók',
@@ -3502,7 +3506,10 @@ $messages['or'] = array(
  * @author Amikeco
  */
 $messages['os'] = array(
+	'sitesupport' => 'Мысайнаг',
+	'tooltip-n-sitesupport' => 'Баххуыс нын кæн',
 	'group-founder' => 'Бындурæвæрджытæ',
+	'group-founder-member' => 'бындурæвæрæг',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
@@ -3810,6 +3817,7 @@ $messages['roa-tara'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Done',
 	'tooltip-n-sitesupport' => 'Aiutene',
+	'group-founder' => 'Fondature',
 	'group-import' => "'Mbortature",
 	'group-uploader' => 'Carecatore',
 	'group-import-member' => "'mbortatore",
