@@ -987,10 +987,14 @@ $messages['cy'] = array(
 	'group-sysadmin' => 'Gweinyddwyr y system',
 	'group-Global_bot' => 'Botiau wici-gyfan',
 	'group-Ombudsmen' => 'Ombwdsmyn',
+	'group-Staff' => "Aelodau o'r staff",
 	'group-steward-member' => 'stiward',
 	'group-sysadmin-member' => 'gweinyddwr y system',
 	'group-Global_bot-member' => 'bot wici-gyfan',
 	'group-Ombudsmen-member' => 'ombwdsmon',
+	'group-Staff-member' => 'staff',
+	'group-coder' => 'Codyddion',
+	'group-coder-member' => 'codydd',
 );
 
 /** Danish (Dansk)
