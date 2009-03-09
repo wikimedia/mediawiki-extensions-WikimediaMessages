@@ -1533,14 +1533,14 @@ $messages['fr'] = array(
 	'group-rollbacker' => 'Révocateurs',
 	'group-transwiki' => 'Importateurs transwiki',
 	'group-uploader' => 'Téléverseurs',
-	'group-accountcreator-member' => 'créateur de comptes',
-	'group-autopatroller-member' => 'patrouilleur automatique',
-	'group-founder-member' => 'fondateur',
-	'group-import-member' => 'importateur',
-	'group-ipblock-exempt-member' => 'exemption de bloc IP',
-	'group-rollbacker-member' => 'révocateur',
-	'group-transwiki-member' => 'importateur transwiki',
-	'group-uploader-member' => 'téléverseur',
+	'group-accountcreator-member' => 'Créateur de comptes',
+	'group-autopatroller-member' => 'Patrouilleur automatique',
+	'group-founder-member' => 'Fondateur',
+	'group-import-member' => 'Importateur',
+	'group-ipblock-exempt-member' => "Exemption de blocage d'IP",
+	'group-rollbacker-member' => 'Révocateur',
+	'group-transwiki-member' => 'Importateur transwiki',
+	'group-uploader-member' => 'Téléverseur',
 	'grouppage-accountcreator' => '{{ns:project}}:Créateurs de comptes',
 	'grouppage-autopatroller' => '{{ns:project}}:Patrouilleurs automatiques',
 	'grouppage-founder' => '{{ns:project}}:Fondateurs',
@@ -1555,16 +1555,16 @@ $messages['fr'] = array(
 	'group-Global_rollback' => 'Révocateurs globaux',
 	'group-Ombudsmen' => 'Médiateurs',
 	'group-Staff' => 'Personnel',
-	'group-steward-member' => 'steward',
-	'group-sysadmin-member' => 'administrateur système',
-	'group-Global_bot-member' => 'bot global',
-	'group-Global_rollback-member' => 'révocateur global',
-	'group-Ombudsmen-member' => 'médiateur',
-	'group-Staff-member' => 'membre du personnel',
+	'group-steward-member' => 'Steward',
+	'group-sysadmin-member' => 'Administrateur système',
+	'group-Global_bot-member' => 'Bot global',
+	'group-Global_rollback-member' => 'Révocateur global',
+	'group-Ombudsmen-member' => 'Médiateur',
+	'group-Staff-member' => 'Membre du personnel',
 	'grouppage-steward' => 'm:Stewards/fr',
 	'grouppage-Global_bot' => 'm:Bot policy/fr',
 	'group-coder' => 'Codeurs',
-	'group-coder-member' => 'codeur',
+	'group-coder-member' => 'Codeur',
 );
 
 /** Cajun French (Français cadien)
@@ -2587,6 +2587,7 @@ $messages['kn'] = array(
  * @author Ficell
  * @author Klutzy
  * @author Kwj2772
+ * @author Yknok29
  */
 $messages['ko'] = array(
 	'wikimediamessages-desc' => '위키미디어 전용 메시지',
@@ -2595,6 +2596,7 @@ $messages['ko'] = array(
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'group-founder' => '설립자',
 	'group-ipblock-exempt' => 'IP 차단 면제자',
+	'group-rollbacker' => '롤배커',
 	'group-founder-member' => '설립자',
 	'group-ipblock-exempt-member' => 'IP 차단 면제자',
 	'grouppage-founder' => '{{ns:project}}:설립자',
@@ -2603,6 +2605,7 @@ $messages['ko'] = array(
 	'group-Global_bot' => '글로벌 봇',
 	'group-Global_rollback' => '글로벌 롤배커',
 	'group-Ombudsmen' => '옴부즈맨',
+	'group-Staff' => '직원',
 	'group-steward-member' => '사무장',
 	'group-sysadmin-member' => '시스템 관리자',
 	'group-Global_bot-member' => '글로벌 봇',
