@@ -349,6 +349,7 @@ $messages['ar'] = array(
 	'group-coder' => 'مكودون',
 	'group-coder-member' => 'مكود',
 	'grouppage-coder' => 'Project:مكود',
+	'shared-repo-name-shared' => 'ويكيميديا كومنز',
 );
 
 /** Aramaic (ܐܪܡܝܐ) */
@@ -2475,6 +2476,7 @@ $messages['jv'] = array(
 /** Georgian (ქართული)
  * @author Alsandro
  * @author Malafaya
+ * @author Sopho
  * @author Temuri rajavi
  * @author לערי ריינהארט
  */
@@ -2482,6 +2484,9 @@ $messages['ka'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ka',
 	'sitesupport' => 'შეწირულობები',
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
+	'group-founder' => 'დამაარსებლები',
+	'group-founder-member' => 'დამაარსებელი',
+	'grouppage-founder' => '{{ns:project}}:დამაარსებლები',
 	'group-steward' => 'სტიუარდები',
 	'group-steward-member' => 'სტიუარდი',
 );
