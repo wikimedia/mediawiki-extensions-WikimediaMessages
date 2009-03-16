@@ -2369,7 +2369,7 @@ $messages['ja'] = array(
 	'tooltip-n-sitesupport' => 'ご支援ください',
 	'group-accountcreator' => 'アカウント作成権限保持者',
 	'group-autopatroller' => '自動パトロール権限保持者',
-	'group-founder' => '創立者',
+	'group-founder' => '創設者',
 	'group-import' => 'インポート権限保持者',
 	'group-ipblock-exempt' => 'IPブロック適用除外',
 	'group-rollbacker' => 'ロールバック権限保持者',
@@ -2377,7 +2377,7 @@ $messages['ja'] = array(
 	'group-uploader' => 'アップロード権限保持者',
 	'group-accountcreator-member' => 'アカウント作成権限保持者',
 	'group-autopatroller-member' => 'オートパトローラー',
-	'group-founder-member' => '創立者',
+	'group-founder-member' => '創設者',
 	'group-import-member' => 'インポート権限保持者',
 	'group-ipblock-exempt-member' => 'IPブロック適用除外',
 	'group-rollbacker-member' => 'ロールバック権限保持者',
@@ -5057,6 +5057,7 @@ $messages['zea'] = array(
 
 /** Simplified Chinese (‪中文(简体)‬)
  * @author Gaoxuewei
+ * @author Wmr89502270
  */
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定信息',
@@ -5101,6 +5102,7 @@ $messages['zh-hans'] = array(
 	'group-Staff-member' => '成员',
 	'group-coder' => '编程人员',
 	'group-coder-member' => '编程人员',
+	'shared-repo-name-shared' => '维基共享资源',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
