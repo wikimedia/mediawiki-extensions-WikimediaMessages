@@ -37,7 +37,7 @@ $messages['en'] = array(
 	'group-rollbacker'            => 'Rollbackers',
 	'group-transwiki'             => 'Transwiki importers',
 	'group-uploader'              => 'Uploaders',
-	'group-bigexport'			  => 'Big exporters',
+	'group-bigexport'             => 'Big exporters',
 
 	'group-accountcreator-member' => 'account creator',
 	'group-autopatroller-member'  => 'autopatroller',
@@ -57,7 +57,7 @@ $messages['en'] = array(
 	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
 	'grouppage-uploader'       => '{{ns:project}}:Uploaders',
-	'grouppage-bigexporter'    => '{{ns:project}}:Big exporters',
+	'grouppage-bigexport'      => '{{ns:project}}:Big exporters',
 
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
@@ -1887,6 +1887,7 @@ $messages['he'] = array(
 	'group-rollbacker' => 'משחזרים',
 	'group-transwiki' => 'מייבאים בין־אתריים',
 	'group-uploader' => 'מעלים',
+	'group-bigexport' => 'מבצעי ייצוא גדול',
 	'group-accountcreator-member' => 'יוצר חשבונות',
 	'group-autopatroller-member' => 'בודק עריכות אוטומטית',
 	'group-founder-member' => 'מייסד',
@@ -1895,6 +1896,7 @@ $messages['he'] = array(
 	'group-rollbacker-member' => 'משחזר',
 	'group-transwiki-member' => 'מייבא בין־אתרי',
 	'group-uploader-member' => 'מעלה',
+	'group-bigexport-member' => 'מבצע ייצוא גדול',
 	'grouppage-accountcreator' => '{{ns:project}}:יוצר חשבונות',
 	'grouppage-autopatroller' => '{{ns:project}}:בודק עריכות אוטומטית',
 	'grouppage-founder' => '{{ns:project}}:מייסד',
@@ -1903,6 +1905,7 @@ $messages['he'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:משחזר',
 	'grouppage-transwiki' => '{{ns:project}}:מייבא בין-אתרי',
 	'grouppage-uploader' => '{{ns:project}}:מעלה',
+	'grouppage-bigexport' => '{{ns:project}}:מבצע ייצוא גדול',
 	'group-steward' => 'דיילים',
 	'group-sysadmin' => 'מנהלי מערכת',
 	'group-Global_bot' => 'בוטים גלובליים',
