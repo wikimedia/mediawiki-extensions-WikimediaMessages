@@ -38,6 +38,7 @@ $messages['en'] = array(
 	'group-transwiki'             => 'Transwiki importers',
 	'group-uploader'              => 'Uploaders',
 	'group-bigexport'             => 'Big exporters',
+	'group-abusefilter'           => 'Abuse filter editors',
 
 	'group-accountcreator-member' => 'account creator',
 	'group-autopatroller-member'  => 'autopatroller',
@@ -48,6 +49,7 @@ $messages['en'] = array(
 	'group-transwiki-member'      => 'transwiki importer',
 	'group-uploader-member'       => 'uploader',
 	'group-bigexport-member'      => 'big exporter',
+	'group-abusefilter-member'    => 'abuse filter editor',
 
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
 	'grouppage-autopatroller'  => '{{ns:project}}:Autopatrollers',
@@ -58,6 +60,7 @@ $messages['en'] = array(
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
 	'grouppage-uploader'       => '{{ns:project}}:Uploaders',
 	'grouppage-bigexport'      => '{{ns:project}}:Big exporters',
+	'grouppage-abusefilter'    => '{{ns:project}}:Abuse filter editors',
 
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
