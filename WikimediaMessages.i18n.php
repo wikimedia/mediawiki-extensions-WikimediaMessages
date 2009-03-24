@@ -372,9 +372,11 @@ $messages['ar'] = array(
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
 );
 
-/** Aramaic (ܐܪܡܝܐ) */
+/** Aramaic (ܐܪܡܝܐ)
+ * @author Basharh
+ */
 $messages['arc'] = array(
-	'sitesupport' => 'ܕܚܘܝܬܐ',
+	'sitesupport' => 'ܕܒܘܚ ܠܢ',
 );
 
 /** Araucanian (Mapudungun)
