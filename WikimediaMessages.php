@@ -12,8 +12,6 @@ if (!defined('MEDIAWIKI')) die();
 $wgExtensionCredits['other'][] = array(
 	'name'           => 'WikimediaMessages',
 	'author'         => array( 'Tim Starling', 'Siebrand Mazeland' ),
-	'svn-date'       => '$LastChangedDate$',
-	'svn-revision'   => '$LastChangedRevision$',
 	'description'    => 'Wikimedia specific messages',
 	'descriptionmsg' => 'wikimediamessages-desc',
 );
