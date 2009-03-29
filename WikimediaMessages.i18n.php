@@ -909,6 +909,7 @@ $messages['cs'] = array(
 	'group-rollbacker-member' => 'revertovatel',
 	'group-transwiki-member' => 'transwiki importér',
 	'group-uploader-member' => 'načítač souborů',
+	'group-abusefilter-member' => 'správce filtrů zneužívání',
 	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
 	'grouppage-autopatroller' => '{{ns:Project}}:Strážci',
 	'grouppage-founder' => '{{ns:project}}:Zakladatelé',
@@ -917,7 +918,7 @@ $messages['cs'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Revertovatelé',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéři',
 	'grouppage-uploader' => '{{ns:project}}:Načítači souborů',
-	'grouppage-abusefilter' => '{{ns:Project}}:Správci filtrů zneužívání',
+	'grouppage-abusefilter' => '{{ns:project}}:Správci filtrů zneužívání',
 	'group-steward' => 'Stevardi',
 	'group-sysadmin' => 'Správcové serveru',
 	'group-Global_bot' => 'Globální boti',
@@ -1777,6 +1778,7 @@ $messages['got'] = array(
 );
 
 /** Ancient Greek (Ἀρχαία ἑλληνικὴ)
+ * @author Crazymadlover
  * @author LeighvsOptimvsMaximvs
  * @author Omnipaedista
  */
@@ -1784,16 +1786,21 @@ $messages['grc'] = array(
 	'sitesupport' => 'Δῶρα',
 	'tooltip-n-sitesupport' => 'Τρέφειν ἡμᾶς',
 	'group-accountcreator' => 'Ποιητὲς λογισμῶν',
+	'group-autopatroller' => 'Αὐτόματοι περιποληταί',
 	'group-founder' => 'Ἱδρυταί',
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
+	'group-uploader' => 'Ἐπιφορτισταί',
 	'group-founder-member' => 'ἱδρυτής',
 	'group-import-member' => 'εἰσαγωγεύς',
 	'group-rollbacker-member' => 'μεταστροφεύς',
 	'group-uploader-member' => 'ἐπιφορτιστής',
+	'grouppage-accountcreator' => '{{ns:project}}:Ποιητὲς λογισμῶν',
 	'grouppage-autopatroller' => '{{ns:project}}:Αὐτόματοι περιποληταί',
+	'grouppage-founder' => '{{ns:project}}:Ἱδρυταί',
+	'grouppage-import' => '{{ns:project}}:Εἰσαγωγεῖς',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμιον κλῄσεων IP',
-	'grouppage-rollbacker' => '{{ns:project}}:Ἀπωθηταί',
+	'grouppage-rollbacker' => '{{ns:project}}:Μεταστροφεῖς',
 	'grouppage-uploader' => '{{ns:project}}:Ἐπιφορτισταί',
 	'group-steward' => 'Φροντισταί',
 	'group-Global_bot' => 'Καθολικὰ αὐτόματα',
