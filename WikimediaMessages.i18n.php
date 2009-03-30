@@ -1791,6 +1791,7 @@ $messages['grc'] = array(
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
 	'group-uploader' => 'Ἐπιφορτισταί',
+	'group-autopatroller-member' => 'αὐτόματος περιπολητής',
 	'group-founder-member' => 'ἱδρυτής',
 	'group-import-member' => 'εἰσαγωγεύς',
 	'group-rollbacker-member' => 'μεταστροφεύς',
