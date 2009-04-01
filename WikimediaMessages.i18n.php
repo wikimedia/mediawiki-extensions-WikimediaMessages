@@ -1151,6 +1151,7 @@ $messages['ee'] = array(
 /** Greek (Ελληνικά)
  * @author Badseed
  * @author Consta
+ * @author Crazymadlover
  * @author Dead3y3
  * @author Geraki
  * @author Omnipaedista
@@ -1169,6 +1170,7 @@ $messages['el'] = array(
 	'group-rollbacker' => 'Αναιρέτες',
 	'group-transwiki' => 'Εισαγωγείς Transwiki',
 	'group-uploader' => 'Επιφορτωτές',
+	'group-bigexport' => 'Μεγάλοι εξαγωγείς',
 	'group-accountcreator-member' => 'δημιουργός λογαριασμού',
 	'group-autopatroller-member' => 'αυτόματη περίπολος',
 	'group-founder-member' => 'Ιδρυτής',
@@ -1177,6 +1179,7 @@ $messages['el'] = array(
 	'group-rollbacker-member' => 'αναιρέτης',
 	'group-transwiki-member' => 'εισαγωγέας transwiki',
 	'group-uploader-member' => 'επιφορτωτής',
+	'group-bigexport-member' => 'Μεγάλος εξαγωγέας',
 	'grouppage-accountcreator' => '{{ns:project}}:Δημιουργοί λογαριασμών',
 	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματοι περίπολοι',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
@@ -1185,6 +1188,7 @@ $messages['el'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Αναιρέτες',
 	'grouppage-transwiki' => '{{ns:project}}:Εισαγωγείς Transwiki',
 	'grouppage-uploader' => '{{ns:project}}:Επιφορτωτές',
+	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι εξαγωγείς',
 	'group-steward' => 'Επίτροποι',
 	'group-sysadmin' => 'Διαχειριστές συστήματος',
 	'group-Global_bot' => 'Καθολικά bots',
@@ -4107,7 +4111,7 @@ $messages['ru'] = array(
 	'grouppage-steward' => 'm:Stewards/ru',
 	'group-coder' => 'Программисты',
 	'group-coder-member' => 'программист',
-	'shared-repo-name-shared' => 'Викисклад',
+	'shared-repo-name-shared' => 'Викисклада',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
