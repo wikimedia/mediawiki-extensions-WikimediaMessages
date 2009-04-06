@@ -1532,6 +1532,7 @@ $messages['fo'] = array(
 );
 
 /** French (Français)
+ * @author Crochet.david
  * @author Grondin
  * @author IAlex
  * @author Meno25
@@ -1551,7 +1552,7 @@ $messages['fr'] = array(
 	'group-autopatroller' => 'Patrouilleurs automatiques',
 	'group-founder' => 'Fondateurs',
 	'group-import' => 'Importateurs',
-	'group-ipblock-exempt' => 'Exemptions de blocs IP',
+	'group-ipblock-exempt' => 'Exemptions de blocage d’IP',
 	'group-rollbacker' => 'Révocateurs',
 	'group-transwiki' => 'Importateurs transwiki',
 	'group-uploader' => 'Téléverseurs',
@@ -1561,7 +1562,7 @@ $messages['fr'] = array(
 	'group-autopatroller-member' => 'Patrouilleur automatique',
 	'group-founder-member' => 'Fondateur',
 	'group-import-member' => 'Importateur',
-	'group-ipblock-exempt-member' => "Exemption de blocage d'IP",
+	'group-ipblock-exempt-member' => 'Exemption de blocage d’IP',
 	'group-rollbacker-member' => 'Révocateur',
 	'group-transwiki-member' => 'Importateur transwiki',
 	'group-uploader-member' => 'Téléverseur',
@@ -1571,7 +1572,7 @@ $messages['fr'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:Patrouilleurs automatiques',
 	'grouppage-founder' => '{{ns:project}}:Fondateurs',
 	'grouppage-import' => '{{ns:project}}:Importateurs',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de bloc IP',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de blocage d’IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Révocateurs',
 	'grouppage-transwiki' => '{{ns:project}}:Importateurs transwiki',
 	'grouppage-uploader' => '{{ns:project}}:Téléverseurs',
@@ -1795,18 +1796,20 @@ $messages['grc'] = array(
 	'group-import' => 'Εἰσαγωγεῖς',
 	'group-rollbacker' => 'Μεταστροφεῖς',
 	'group-uploader' => 'Ἐπιφορτισταί',
+	'group-bigexport' => 'Μεγάλοι ἐξαγωγεῖς',
 	'group-autopatroller-member' => 'αὐτόματος περιπολητής',
 	'group-founder-member' => 'ἱδρυτής',
 	'group-import-member' => 'εἰσαγωγεύς',
 	'group-rollbacker-member' => 'μεταστροφεύς',
 	'group-uploader-member' => 'ἐπιφορτιστής',
-	'grouppage-accountcreator' => '{{ns:project}}:Ποιητὲς λογισμῶν',
+	'grouppage-accountcreator' => '{{ns:project}}:Ποιηταὶ λογισμῶν',
 	'grouppage-autopatroller' => '{{ns:project}}:Αὐτόματοι περιποληταί',
 	'grouppage-founder' => '{{ns:project}}:Ἱδρυταί',
 	'grouppage-import' => '{{ns:project}}:Εἰσαγωγεῖς',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμιον κλῄσεων IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Μεταστροφεῖς',
 	'grouppage-uploader' => '{{ns:project}}:Ἐπιφορτισταί',
+	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι ἐξαγωγεῖς',
 	'group-steward' => 'Φροντισταί',
 	'group-Global_bot' => 'Καθολικὰ αὐτόματα',
 	'group-Global_rollback' => 'Καθολικοί μεταστροφεῖς',
@@ -1997,6 +2000,8 @@ $messages['hif-latn'] = array(
 	'group-rollbacker' => 'Rollbackers',
 	'group-transwiki' => 'Transwiki importers',
 	'group-uploader' => 'Uploaders',
+	'group-bigexport' => 'Barraa exporters',
+	'group-abusefilter' => 'Abuse filter ke badle waala',
 	'group-accountcreator-member' => 'account creator',
 	'group-autopatroller-member' => 'autopatroller',
 	'group-founder-member' => 'founder',
@@ -2005,6 +2010,8 @@ $messages['hif-latn'] = array(
 	'group-rollbacker-member' => 'rollbacker',
 	'group-transwiki-member' => 'transwiki importer',
 	'group-uploader-member' => 'uploader',
+	'group-bigexport-member' => 'barraa exporter',
+	'group-abusefilter-member' => 'abuse filter ke badle waala',
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
 	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
 	'grouppage-founder' => '{{ns:project}}:Founders',
@@ -2013,6 +2020,8 @@ $messages['hif-latn'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importers',
 	'grouppage-uploader' => '{{ns:project}}:Uploaders',
+	'grouppage-bigexport' => '{{ns:project}}:Barraa exporter kare waala',
+	'grouppage-abusefilter' => '{{ns:project}}:Abuse filter ke badle waala',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'System administrators',
 	'group-Global_bot' => 'Global bots',
@@ -3545,6 +3554,7 @@ $messages['no'] = array(
 	'group-rollbacker' => 'Tilbakestillere',
 	'group-transwiki' => 'Transwiki-importører',
 	'group-uploader' => 'Opplastere',
+	'group-bigexport' => 'Stor eksport',
 	'group-accountcreator-member' => 'Kontooppretter',
 	'group-autopatroller-member' => 'automatisk godkjente bidrag',
 	'group-founder-member' => 'Grunnlegger',
@@ -4792,6 +4802,7 @@ $messages['tg-cyrl'] = array(
 
 /** Thai (ไทย)
  * @author Manop
+ * @author Mopza
  */
 $messages['th'] = array(
 	'wikimediamessages-desc' => 'ข้อความเฉพาะของวิกิมีเดีย',
@@ -4800,6 +4811,7 @@ $messages['th'] = array(
 	'group-founder' => 'ผู้ก่อตั้ง',
 	'group-founder-member' => 'ผู้ก่อตั้ง',
 	'group-uploader-member' => 'ผู้อัปโหลด',
+	'group-steward' => 'ผู้ดูแลโครงการ',
 	'group-Staff' => 'ผู้แปล',
 	'group-Staff-member' => 'ทีมงาน',
 );
@@ -5054,7 +5066,7 @@ $messages['uk'] = array(
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-coder' => 'Програмісти',
 	'group-coder-member' => 'програміст',
-	'shared-repo-name-shared' => 'Вікісховище',
+	'shared-repo-name-shared' => 'Вікісховища',
 );
 
 /** Urdu (اردو) */
@@ -5084,6 +5096,7 @@ $messages['vec'] = array(
 	'group-transwiki' => 'Inportadori transwiki',
 	'group-uploader' => 'Caricadori',
 	'group-bigexport' => 'Grando esportador',
+	'group-abusefilter' => 'Gestori filtri anti abusi',
 	'group-accountcreator-member' => 'Creator de account',
 	'group-autopatroller-member' => 'patujador automàtego',
 	'group-founder-member' => 'Fondator',
@@ -5093,6 +5106,7 @@ $messages['vec'] = array(
 	'group-transwiki-member' => 'Inportador transwiki',
 	'group-uploader-member' => 'caricador',
 	'group-bigexport-member' => 'grando esportador',
+	'group-abusefilter-member' => 'gestor filtri anti abusi',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de account',
 	'grouppage-autopatroller' => '{{ns:project}}:Patujadori automàteghi',
 	'grouppage-founder' => '{{ns:project}}:Fondatori',
@@ -5102,6 +5116,7 @@ $messages['vec'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Inportadori transwiki',
 	'grouppage-uploader' => '{{ns:project}}:Caricadori',
 	'grouppage-bigexport' => '{{ns:project}}:Grandi esportadori',
+	'grouppage-abusefilter' => '{{ns:project}}:Gestori filtri anti abusi',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Aministradori de sistema',
 	'group-Global_bot' => 'Bot globali',
@@ -5377,6 +5392,7 @@ $messages['zh-hans'] = array(
 	'group-rollbacker' => '回退员',
 	'group-transwiki' => '跨维基导入者',
 	'group-uploader' => '上传文件用户',
+	'group-abusefilter' => '滥用滤波器的编辑者',
 	'group-accountcreator-member' => '账户创建员',
 	'group-autopatroller-member' => '自动巡视员',
 	'group-founder-member' => '创办人',
