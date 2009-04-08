@@ -900,6 +900,7 @@ $messages['cs'] = array(
 	'group-rollbacker' => 'Revertovatelé',
 	'group-transwiki' => 'Transwiki importéři',
 	'group-uploader' => 'Načítači souborů',
+	'group-bigexport' => 'Velkoexportéři',
 	'group-abusefilter' => 'Správci filtrů zneužívání',
 	'group-accountcreator-member' => 'zakladatel účtů',
 	'group-autopatroller-member' => 'strážce',
@@ -909,6 +910,7 @@ $messages['cs'] = array(
 	'group-rollbacker-member' => 'revertovatel',
 	'group-transwiki-member' => 'transwiki importér',
 	'group-uploader-member' => 'načítač souborů',
+	'group-bigexport-member' => 'velkoexportér',
 	'group-abusefilter-member' => 'správce filtrů zneužívání',
 	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
 	'grouppage-autopatroller' => '{{ns:Project}}:Strážci',
@@ -918,6 +920,7 @@ $messages['cs'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Revertovatelé',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéři',
 	'grouppage-uploader' => '{{ns:project}}:Načítači souborů',
+	'grouppage-bigexport' => '{{ns:project}}:Velkoexportéři',
 	'grouppage-abusefilter' => '{{ns:project}}:Správci filtrů zneužívání',
 	'group-steward' => 'Stevardi',
 	'group-sysadmin' => 'Správcové serveru',
@@ -4803,16 +4806,22 @@ $messages['tg-cyrl'] = array(
 /** Thai (ไทย)
  * @author Manop
  * @author Mopza
+ * @author Octahedron80
+ * @author Passawuth
  */
 $messages['th'] = array(
 	'wikimediamessages-desc' => 'ข้อความเฉพาะของวิกิมีเดีย',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/th',
 	'sitesupport' => 'สนับสนุน',
 	'tooltip-n-sitesupport' => 'สนับสนุนเรา',
 	'group-founder' => 'ผู้ก่อตั้ง',
 	'group-founder-member' => 'ผู้ก่อตั้ง',
 	'group-uploader-member' => 'ผู้อัปโหลด',
 	'group-steward' => 'ผู้ดูแลโครงการ',
+	'group-sysadmin' => 'ผู้ดูแลระบบ',
 	'group-Staff' => 'ผู้แปล',
+	'group-steward-member' => 'ผู้ดูแลโครงการ',
+	'group-sysadmin-member' => 'ผู้ดูแลระบบ',
 	'group-Staff-member' => 'ทีมงาน',
 );
 
@@ -5200,6 +5209,8 @@ $messages['vi'] = array(
 	'group-rollbacker' => 'Người lùi sửa',
 	'group-transwiki' => 'Người nhập trang giữa wiki',
 	'group-uploader' => 'Người tải lên',
+	'group-bigexport' => 'Thành viên được phép xuất nhiều trang',
+	'group-abusefilter' => 'Người sửa bộ lọc lạm dụng',
 	'group-accountcreator-member' => 'Người mở tài khoản',
 	'group-autopatroller-member' => 'tuần tra viên tự động',
 	'group-founder-member' => 'Nhà sáng lập',
@@ -5208,6 +5219,8 @@ $messages['vi'] = array(
 	'group-rollbacker-member' => 'Người lùi sửa',
 	'group-transwiki-member' => 'Người nhập trang giữa wiki',
 	'group-uploader-member' => 'người tải lên',
+	'group-bigexport-member' => 'xuất nhiều trang',
+	'group-abusefilter-member' => 'người sửa bộ lọc lạm dụng',
 	'grouppage-accountcreator' => '{{ns:project}}:Người mở tài khoản',
 	'grouppage-autopatroller' => '{{ns:project}}:Tuần tra viên tự động',
 	'grouppage-founder' => '{{ns:project}}:Nhà sáng lập',
@@ -5216,6 +5229,8 @@ $messages['vi'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Người lùi sửa',
 	'grouppage-transwiki' => '{{ns:project}}:Người nhập trang giữa wiki',
 	'grouppage-uploader' => '{{ns:project}}:Người tải lên',
+	'grouppage-bigexport' => '{{ns:project}}:Thành viên được phép xuất nhiều trang',
+	'grouppage-abusefilter' => '{{ns:project}}:Người sửa bộ lọc lạm dụng',
 	'group-steward' => 'Tiếp viên',
 	'group-sysadmin' => 'Người quản lý hệ thống',
 	'group-Global_bot' => 'Robot toàn cầu',
