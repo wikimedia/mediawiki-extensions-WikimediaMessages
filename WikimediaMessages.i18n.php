@@ -5442,6 +5442,7 @@ $messages['zh-hans'] = array(
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
+ * @author Alexsh
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
@@ -5450,35 +5451,49 @@ $messages['zh-hant'] = array(
 	'sitesupport' => '贊助',
 	'tooltip-n-sitesupport' => '資助我們',
 	'group-accountcreator' => '賬戶創建員',
+	'group-autopatroller' => '自動巡視員',
 	'group-founder' => '創辦人',
 	'group-import' => '匯入者',
 	'group-ipblock-exempt' => 'IP查封例外者',
 	'group-rollbacker' => '回退員',
 	'group-transwiki' => '跨維基匯入者',
 	'group-uploader' => '上載者',
+	'group-bigexport' => '大量匯出者',
+	'group-abusefilter' => '濫用過瀘器編輯者',
 	'group-accountcreator-member' => '賬戶創建員',
+	'group-autopatroller-member' => '自動巡視員',
 	'group-founder-member' => '創辦人',
 	'group-import-member' => '匯入者',
 	'group-ipblock-exempt-member' => 'IP查封例外',
 	'group-rollbacker-member' => '回退員',
 	'group-transwiki-member' => '跨維基匯入者',
+	'group-uploader-member' => '上傳文件用戶',
+	'group-bigexport-member' => '大量匯出者',
+	'group-abusefilter-member' => '濫用過濾器編輯者',
 	'grouppage-accountcreator' => '{{ns:project}}:賬戶創建員',
+	'grouppage-autopatroller' => '{{ns:project}}:自動巡視員',
 	'grouppage-founder' => '{{ns:project}}:創辦人',
 	'grouppage-import' => '{{ns:project}}:回退員',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
 	'grouppage-rollbacker' => '{{ns:project}}:反轉者',
 	'grouppage-transwiki' => '{{ns:project}}:跨維基匯入者',
+	'grouppage-uploader' => '{{ns:project}}:上傳文件用戶',
+	'grouppage-bigexport' => '{{ns:project}}:大量匯出者',
+	'grouppage-abusefilter' => '{{ns:project}}:濫用過濾器編輯者',
 	'group-steward' => '監管員',
 	'group-sysadmin' => '系統管理員',
 	'group-Global_bot' => '全域機器人',
 	'group-Global_rollback' => '全域反轉者',
 	'group-Ombudsmen' => '申訴專員',
+	'group-Staff' => '內部成員',
 	'group-steward-member' => '監管員',
 	'group-sysadmin-member' => '系統管理員',
 	'group-Global_bot-member' => '全域機器人',
 	'group-Global_rollback-member' => '全域反轉者',
 	'group-Ombudsmen-member' => '申訴專員',
 	'group-Staff-member' => '成員',
+	'group-coder' => '程式編輯者',
+	'group-coder-member' => '程式編輯者',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬) */
