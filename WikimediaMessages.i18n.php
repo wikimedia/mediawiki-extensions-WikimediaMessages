@@ -4825,7 +4825,7 @@ $messages['th'] = array(
 	'group-Staff-member' => 'ทีมงาน',
 );
 
-/** Turkmen (Türkmen)
+/** Turkmen (Türkmençe)
  * @author Runningfridgesrule
  */
 $messages['tk'] = array(
@@ -4900,7 +4900,7 @@ $messages['tn'] = array(
 	'sitesupport' => 'Dimpho',
 );
 
-/** Tonga (faka-Tonga) */
+/** Tonga (lea faka-Tonga) */
 $messages['to'] = array(
 	'sitesupport' => 'Ngaahi meʻa ʻofa',
 	'group-steward' => 'Kau setuate',
@@ -5018,6 +5018,11 @@ $messages['udm'] = array(
 
 /** Uighur (Uyghurche‎ / ئۇيغۇرچە) */
 $messages['ug'] = array(
+	'sitesupport' => 'Iana Toplash',
+);
+
+/** Uighur (Latin) (Uyghurche‎ / ئۇيغۇرچە (Latin)) */
+$messages['ug-latn'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
 
