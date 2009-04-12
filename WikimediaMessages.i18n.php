@@ -792,6 +792,7 @@ $messages['bs'] = array(
 );
 
 /** Catalan (Català)
+ * @author Aleator
  * @author Juanpabl
  * @author Martorell
  * @author Paucabot
@@ -799,6 +800,7 @@ $messages['bs'] = array(
  */
 $messages['ca'] = array(
 	'wikimediamessages-desc' => 'Missatges específics de Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ca',
 	'sitesupport' => 'Donacions',
 	'tooltip-n-sitesupport' => 'Ajudau-nos',
 	'group-accountcreator' => 'Creadors de comptes',
@@ -1682,6 +1684,7 @@ $messages['ga'] = array(
 	'group-Staff-member' => 'ball foirne',
 	'group-coder' => 'Códóirí',
 	'group-coder-member' => 'códóir',
+	'shared-repo-name-shared' => 'an Cómhaoin Vicíméid',
 );
 
 /** Gagauz (Gagauz)
