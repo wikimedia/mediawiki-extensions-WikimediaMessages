@@ -2358,12 +2358,14 @@ $messages['inh'] = array(
 
 /** Ido (Ido)
  * @author Malafaya
+ * @author Wyvernoid
  * @author לערי ריינהארט
  */
 $messages['io'] = array(
 	'sitesupport' => 'Donacaji',
 	'tooltip-n-sitesupport' => 'Suportez ni',
 	'group-accountcreator' => 'Konto-kreanti',
+	'group-rollbacker' => 'Retrorulanti',
 	'group-uploader' => 'Adkarganti',
 	'group-uploader-member' => 'adkarganto',
 	'grouppage-uploader' => '{{ns:project}}:Adkarganti',
