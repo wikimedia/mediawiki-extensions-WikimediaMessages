@@ -5418,14 +5418,14 @@ $messages['yue'] = array(
 	'group-Global_bot' => '全域機械人',
 	'group-Global_rollback' => '全域反轉者',
 	'group-Ombudsmen' => '申訴專員',
+	'group-Staff' => '職員',
 	'group-steward-member' => '執行員',
-	'group-Staff'           => '職員',
 	'group-sysadmin-member' => '系統管理員',
 	'group-Global_bot-member' => '全域機械人',
 	'group-Global_rollback-member' => '全域反轉者',
 	'group-Ombudsmen-member' => '申訴專員',
-	'group-Staff-member'     => '職員',
-	'group-coder'        => '編碼員',
+	'group-Staff-member' => '職員',
+	'group-coder' => '編碼員',
 	'group-coder-member' => '編碼員',
 );
 
