@@ -10,6 +10,7 @@ if (!defined('MEDIAWIKI')) die();
  */
 
 $wgExtensionCredits['other'][] = array(
+	'path'           => __FILE__,
 	'name'           => 'WikimediaMessages',
 	'author'         => array( 'Tim Starling', 'Siebrand Mazeland' ),
 	'description'    => 'Wikimedia specific messages',
