@@ -90,7 +90,12 @@ $messages['en'] = array(
 	'group-coder'        => 'Coders',
 	'group-coder-member' => 'coder',
 	'grouppage-coder'    => 'Project:Coder', # only translate this message to other languages if you have to change it
-	
+
+	# Private and fishbowl wikis
+	'group-inactive'        => 'Inactive users',
+	'group-inactive-member' => 'inactive user',
+	'grouppage-inactive'    => '{{ns:project}}:Inactive users',
+
 	# The name for the common shared repo 'shared'
 	'shared-repo-name-shared' => 'Wikimedia Commons', # only translate this message to other languages if you have to change it
 );
