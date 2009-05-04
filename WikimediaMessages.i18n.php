@@ -134,6 +134,9 @@ Big export user has a right to: {{int:right-override-export-depth}}',
 	'grouppage-Global_bot' => '{{Global grouppage}}',
 	'grouppage-Global_rollback' => '{{Global grouppage}}',
 	'grouppage-Ombudsmen' => '{{Global grouppage}}',
+	'group-inactive' => '{{Identical|Inactive user}}',
+	'group-inactive-member' => '{{Identical|Inactive user}}',
+	'grouppage-inactive' => '{{Identical|Inactive user}}',
 );
 
 /** Säggssch (Säggssch)
@@ -599,6 +602,9 @@ $messages['be-tarask'] = array(
 	'group-Staff-member' => 'супрацоўнік',
 	'group-coder' => 'Праграмісты',
 	'group-coder-member' => 'праграміст',
+	'group-inactive' => 'Неактыўныя ўдзельнікі',
+	'group-inactive-member' => 'неактыўны ўдзельнік',
+	'grouppage-inactive' => '{{ns:project}}:Неактыўныя ўдзельнікі',
 );
 
 /** Bulgarian (Български)
@@ -794,6 +800,9 @@ $messages['bs'] = array(
 	'grouppage-steward' => 'm:Stewards',
 	'group-coder' => 'Koderi',
 	'group-coder-member' => 'koder',
+	'group-inactive' => 'Neaktivni korisnici',
+	'group-inactive-member' => 'neaktivni korisnik',
+	'grouppage-inactive' => '{{ns:project}}:Neaktivni korisnici',
 );
 
 /** Catalan (Català)
@@ -943,6 +952,9 @@ $messages['cs'] = array(
 	'group-Staff-member' => 'člen personálu',
 	'group-coder' => 'Programátoři',
 	'group-coder-member' => 'programátor',
+	'group-inactive' => 'Neaktivní uživatelé',
+	'group-inactive-member' => 'neaktivní uživatel',
+	'grouppage-inactive' => '{{ns:project}}:Neaktivní uživatelé',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -1008,6 +1020,7 @@ $messages['da'] = array(
 /** German (Deutsch)
  * @author Metalhead64
  * @author Pill
+ * @author Purodha
  * @author Raimond Spekking
  * @author Umherirrender
  */
@@ -1061,6 +1074,9 @@ $messages['de'] = array(
 	'grouppage-steward' => 'm:Stewards/de',
 	'group-coder' => 'Programmierer',
 	'group-coder-member' => 'Programmierer',
+	'group-inactive' => 'Inaktive Benutzer',
+	'group-inactive-member' => 'Inaktiver Benutzer',
+	'grouppage-inactive' => '{{ns:project}}:Inactive Benutzer',
 );
 
 /** German (formal address) (Deutsch (Sie-Form))
@@ -1133,6 +1149,9 @@ $messages['dsb'] = array(
 	'group-Staff-member' => 'sobuźěłaśerje',
 	'group-coder' => 'Programěrarje',
 	'group-coder-member' => 'programěraŕ',
+	'group-inactive' => 'Njeaktiwne wužywarje',
+	'group-inactive-member' => 'njeaktiwny wužywaŕ',
+	'grouppage-inactive' => '{{ns:project}}:Njeaktiwne wužywarje',
 );
 
 /** Divehi (ދިވެހިބަސް) */
@@ -1216,6 +1235,9 @@ $messages['el'] = array(
 	'group-Staff-member' => 'Μέλος προσωπικού',
 	'group-coder' => 'Κωδικογράφοι',
 	'group-coder-member' => 'κωδικογράφος',
+	'group-inactive' => 'Ανενεργοί χρήστες',
+	'group-inactive-member' => 'Ανενεργός χρήστης',
+	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
@@ -1314,7 +1336,7 @@ $messages['es'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:Autopatrulleros',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
 	'grouppage-import' => '{{ns:project}}:Importadores',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:Dispensa de bloqueo IP',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Exento de bloqueo a IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Reversores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
 	'grouppage-uploader' => '{{ns:project}}:Cargadores',
@@ -1334,6 +1356,9 @@ $messages['es'] = array(
 	'group-Staff-member' => 'Miembro del staff',
 	'group-coder' => 'Programadores',
 	'group-coder-member' => 'programador',
+	'group-inactive' => 'Usuarios inactivos',
+	'group-inactive-member' => 'usuario inactivo',
+	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 );
 
 /** Estonian (Eesti)
@@ -1607,6 +1632,9 @@ $messages['fr'] = array(
 	'grouppage-Global_bot' => 'm:Bot policy/fr',
 	'group-coder' => 'Codeurs',
 	'group-coder-member' => 'Codeur',
+	'group-inactive' => 'Utilisateurs inactifs',
+	'group-inactive-member' => 'utilisateur inactif',
+	'grouppage-inactive' => '{{ns:project}}:Utilisateurs inactifs',
 );
 
 /** Cajun French (Français cadien)
@@ -1771,6 +1799,9 @@ $messages['gl'] = array(
 	'group-Staff-member' => 'membro',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
+	'group-inactive' => 'Usuarios inactivos',
+	'group-inactive-member' => 'usuario inactivo',
+	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
 );
 
@@ -1891,6 +1922,9 @@ $messages['gsw'] = array(
 	'group-Staff-member' => 'Mitarbeiter',
 	'group-coder' => 'Programmierer',
 	'group-coder-member' => 'Programmierer',
+	'group-inactive' => 'Inaktivi Benutzer',
+	'group-inactive-member' => 'Inaktiver Benutzer',
+	'grouppage-inactive' => '{{ns:project}}:Inactivi Benutzer',
 );
 
 /** Gujarati (ગુજરાતી)
@@ -2165,6 +2199,9 @@ $messages['hsb'] = array(
 	'group-Staff-member' => 'sobudźěłaćerjo',
 	'group-coder' => 'Programowarjo',
 	'group-coder-member' => 'programowar',
+	'group-inactive' => 'Njeaktiwni wužiwarjo',
+	'group-inactive-member' => 'njeaktiwny wužiwar',
+	'grouppage-inactive' => '{{ns:project}}:Njeaktiwni wužiwarjo',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -2288,6 +2325,9 @@ $messages['ia'] = array(
 	'group-coder' => 'Programmatores',
 	'group-coder-member' => 'programmator',
 	'grouppage-coder' => 'Project:Programmator',
+	'group-inactive' => 'Usatores inactive',
+	'group-inactive-member' => 'usator inactive',
+	'grouppage-inactive' => '{{ns:project}}:Usatores inactive',
 );
 
 /** Indonesian (Bahasa Indonesia)
@@ -2507,6 +2547,9 @@ $messages['ja'] = array(
 	'grouppage-steward' => 'm:Stewards/ja',
 	'group-coder' => 'コーダー',
 	'group-coder-member' => 'コーダー',
+	'group-inactive' => '活動停止中の利用者',
+	'group-inactive-member' => '活動停止中の利用者',
+	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 );
 
@@ -2809,6 +2852,9 @@ $messages['ksh'] = array(
 	'group-coder' => 'Projrammierer',
 	'group-coder-member' => 'Projrammierer',
 	'grouppage-coder' => 'Project:Projrammierer',
+	'group-inactive' => 'Metmaacher, die nix donn',
+	'group-inactive-member' => 'Metmaacher, dä nix deiht',
+	'grouppage-inactive' => '{{ns:project}}:{{int:group-inactive}}',
 	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
 );
 
@@ -2859,6 +2905,7 @@ $messages['lb'] = array(
 	'sitesupport' => 'Donatiounen',
 	'tooltip-n-sitesupport' => 'Ënnerstetzt eis',
 	'group-accountcreator' => 'Benotzer déi Benotzerkonten uleeën däerfen',
+	'group-autopatroller' => 'Benotzer déi selwer iwwerkucken',
 	'group-founder' => 'Grënner',
 	'group-import' => 'Importateuren',
 	'group-ipblock-exempt' => 'Ausnahme vun IP-Spären',
@@ -2867,6 +2914,7 @@ $messages['lb'] = array(
 	'group-uploader' => 'Eroplueder',
 	'group-abusefilter' => 'Editeure vu Mëssbrauchsfilteren',
 	'group-accountcreator-member' => 'Benotzer dee Benotzerkonten uleeën däerf',
+	'group-autopatroller-member' => 'Benotzer deen automatesch iwwerkuckt',
 	'group-founder-member' => 'Grënner',
 	'group-import-member' => 'Importateur',
 	'group-ipblock-exempt-member' => 'Ausnam vun der IP-Spär',
@@ -2900,6 +2948,8 @@ $messages['lb'] = array(
 	'grouppage-Global_bot' => 'm:Global bot',
 	'group-coder' => 'Programméierer',
 	'group-coder-member' => 'Programméierer',
+	'group-inactive' => 'Benotzer déi net aktiv sinn',
+	'group-inactive-member' => 'net aktive Benotzer',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -3195,6 +3245,7 @@ $messages['mr'] = array(
 
 /** Malay (Bahasa Melayu)
  * @author Aviator
+ * @author Izzudin
  * @author Kurniasan
  */
 $messages['ms'] = array(
@@ -3210,6 +3261,8 @@ $messages['ms'] = array(
 	'group-rollbacker' => 'Pengundur',
 	'group-transwiki' => 'Pengimport rentas wiki',
 	'group-uploader' => 'Pemuat naik',
+	'group-bigexport' => 'Pengeksport besar',
+	'group-abusefilter' => 'Penyunting penapis salah laku',
 	'group-accountcreator-member' => 'Pencipta akaun',
 	'group-autopatroller-member' => 'autoperonda',
 	'group-founder-member' => 'Pengasas',
@@ -3218,6 +3271,8 @@ $messages['ms'] = array(
 	'group-rollbacker-member' => 'Pengundur',
 	'group-transwiki-member' => 'Pengimport rentas wiki',
 	'group-uploader-member' => 'pemuat naik',
+	'group-bigexport-member' => 'pengeksport besar',
+	'group-abusefilter-member' => 'penyunting penapis salah laku',
 	'grouppage-accountcreator' => '{{ns:project}}:Pencipta akaun',
 	'grouppage-autopatroller' => '{{ns:project}}:Autoperonda',
 	'grouppage-founder' => '{{ns:project}}:Pengasas',
@@ -3226,6 +3281,8 @@ $messages['ms'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Pengundur suntingan',
 	'grouppage-transwiki' => '{{ns:project}}:Pengimport rentas wiki',
 	'grouppage-uploader' => '{{ns:project}}:Pemuat naik',
+	'grouppage-bigexport' => '{{ns:project}}:Pengeksport besar',
+	'grouppage-abusefilter' => '{{ns:project}}:Penyunting penapis salah laku',
 	'group-steward' => 'Pengelola',
 	'group-sysadmin' => 'Pentadbir sistem',
 	'group-Global_bot' => 'Bot sejagat',
@@ -3240,6 +3297,9 @@ $messages['ms'] = array(
 	'group-Staff-member' => 'kakitangan',
 	'group-coder' => 'Pengekod',
 	'group-coder-member' => 'pengekod',
+	'group-inactive' => 'Pengguna tak aktif',
+	'group-inactive-member' => 'pengguna tak aktif',
+	'grouppage-inactive' => '{{ns:project}}:Pengguna tak aktif',
 );
 
 /** Maltese (Malti)
@@ -3492,6 +3552,9 @@ $messages['nl'] = array(
 	'group-coder' => 'programmeurs',
 	'group-coder-member' => 'programmeur',
 	'grouppage-coder' => 'Project:Programmeur',
+	'group-inactive' => 'inactieve gebruikers',
+	'group-inactive-member' => 'inactieve gebruiker',
+	'grouppage-inactive' => '{{ns:project}}:Inactieve gebruikers',
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
@@ -3672,6 +3735,9 @@ $messages['oc'] = array(
 	'group-Staff-member' => 'Membre del personal',
 	'group-coder' => 'Encodaires',
 	'group-coder-member' => 'encodaire',
+	'group-inactive' => 'Utilizaires inactius',
+	'group-inactive-member' => 'Utilizaire inactiu',
+	'grouppage-inactive' => '{{ns:project}}: Utilizaires inactius',
 );
 
 /** Oriya (ଓଡ଼ିଆ)
@@ -3790,6 +3856,9 @@ $messages['pl'] = array(
 	'grouppage-steward' => 'm:Stewards/pl',
 	'group-coder' => 'Programiści',
 	'group-coder-member' => 'programista',
+	'group-inactive' => 'Użytkownicy nieaktywni',
+	'group-inactive-member' => 'Użytkownik nieaktywny',
+	'grouppage-inactive' => '{{ns:project}}:Użytkownicy nieaktywni',
 );
 
 /** Piedmontese (Piemontèis) */
@@ -3827,6 +3896,7 @@ $messages['ps'] = array(
 
 /** Portuguese (Português)
  * @author 555
+ * @author Crazymadlover
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
  */
@@ -3880,6 +3950,9 @@ $messages['pt'] = array(
 	'grouppage-steward' => 'm:Stewards/pt',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
+	'group-inactive' => 'Usuários inativos',
+	'group-inactive-member' => 'Usuário inativo',
+	'grouppage-inactive' => '{{ns:project}}:Usuários inativos',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -4087,6 +4160,7 @@ $messages['roa-tara'] = array(
  * @author Ahonc
  * @author Aleksandrit
  * @author AlexSm
+ * @author Ferrer
  * @author Flrn
  * @author HalanTul
  * @author Александр Сигачёв
@@ -4141,6 +4215,9 @@ $messages['ru'] = array(
 	'grouppage-steward' => 'm:Stewards/ru',
 	'group-coder' => 'Программисты',
 	'group-coder-member' => 'программист',
+	'group-inactive' => 'Неактивные участники',
+	'group-inactive-member' => 'неактивный участник',
+	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
 	'shared-repo-name-shared' => 'Викисклада',
 );
 
@@ -4407,6 +4484,9 @@ $messages['sk'] = array(
 	'group-Staff-member' => 'zamestnanec',
 	'group-coder' => 'Kóderi',
 	'group-coder-member' => 'kóder',
+	'group-inactive' => 'Neaktívni používatelia',
+	'group-inactive-member' => 'neaktívny používateľ',
+	'grouppage-inactive' => '{{ns:project}}:Neaktívni používatelia',
 );
 
 /** Slovenian (Slovenščina)
@@ -4684,6 +4764,9 @@ $messages['sv'] = array(
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 	'group-coder' => 'Kodare',
 	'group-coder-member' => 'kodare',
+	'group-inactive' => 'Inaktiva användare',
+	'group-inactive-member' => 'inaktiv användare',
+	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
 );
 
 /** Swahili (Kiswahili)
@@ -5285,6 +5368,9 @@ $messages['vi'] = array(
 	'group-Staff-member' => 'Nhân viên',
 	'group-coder' => 'Lập trình viên',
 	'group-coder-member' => 'lập trình viên',
+	'group-inactive' => 'Thành viên không tích cực',
+	'group-inactive-member' => 'thành viên không tích cực',
+	'grouppage-inactive' => '{{ns:project}}:Thành viên không tích cực',
 );
 
 /** Volapük (Volapük)
