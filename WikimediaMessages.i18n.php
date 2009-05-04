@@ -2017,6 +2017,9 @@ $messages['he'] = array(
 	'group-Staff-member' => 'איש צוות',
 	'group-coder' => 'מתכנתים',
 	'group-coder-member' => 'מתכנת',
+	'group-inactive' => 'משתמשים בלתי פעילים',
+	'group-inactive-member' => 'משתמש בלתי פעיל',
+	'grouppage-inactive' => '{{ns:project}}:משתמש בלתי פעיל',
 	'shared-repo-name-shared' => 'ויקישיתוף',
 );
 
