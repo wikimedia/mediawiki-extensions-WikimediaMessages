@@ -5524,6 +5524,9 @@ $messages['yue'] = array(
 	'group-Staff-member' => '職員',
 	'group-coder' => '編碼員',
 	'group-coder-member' => '編碼員',
+	'group-inactive' => '唔活躍嘅用戶',
+	'group-inactive-member' => '唔活躍嘅用戶',
+	'grouppage-inactive' => '{{ns:project}}:唔活躍嘅用戶',
 );
 
 /** Zeeuws (Zeêuws)
@@ -5581,6 +5584,9 @@ $messages['zh-hans'] = array(
 	'group-Staff-member' => '成员',
 	'group-coder' => '编程人员',
 	'group-coder-member' => '编程人员',
+	'group-inactive' => '不活跃的用户',
+	'group-inactive-member' => '不活跃的用户',
+	'grouppage-inactive' => '{{ns:project}}:不活跃的用户',
 	'shared-repo-name-shared' => '维基共享资源',
 );
 
@@ -5637,6 +5643,9 @@ $messages['zh-hant'] = array(
 	'group-Staff-member' => '成員',
 	'group-coder' => '程式編輯者',
 	'group-coder-member' => '程式編輯者',
+	'group-inactive' => '不活躍的用戶',
+	'group-inactive-member' => '不活躍的用戶',
+	'grouppage-inactive' => '{{ns:project}}:不活躍的用戶',
 	'shared-repo-name-shared' => '維基共享資源',
 );
 
