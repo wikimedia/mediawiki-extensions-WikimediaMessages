@@ -328,6 +328,9 @@ $messages['ar'] = array(
 	'group-coder' => 'مكودون',
 	'group-coder-member' => 'مكود',
 	'grouppage-coder' => 'Project:مكود',
+	'group-inactive' => 'مستخدمون غير نشطين',
+	'group-inactive-member' => 'مستخدم غير نشط',
+	'grouppage-inactive' => '{{ns:project}}:مستخدمون غير نشطين',
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
 );
 
@@ -632,6 +635,9 @@ $messages['bg'] = array(
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-coder' => 'Програмисти',
 	'group-coder-member' => 'програмист',
+	'group-inactive' => 'Неактивни потребители',
+	'group-inactive-member' => 'неактивен потребител',
+	'grouppage-inactive' => '{{ns:project}}:Неактивни потребители',
 );
 
 /** Bambara (Bamanankan) */
@@ -1298,6 +1304,9 @@ $messages['eo'] = array(
 	'group-Staff-member' => 'dungito',
 	'group-coder' => 'Programistoj',
 	'group-coder-member' => 'programisto',
+	'group-inactive' => 'Neaktivaj uzantoj',
+	'group-inactive-member' => 'neaktiva uzanto',
+	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
 );
 
 /** Spanish (Español)
@@ -2489,6 +2498,9 @@ $messages['it'] = array(
 	'grouppage-Global_rollback' => 'm:Global rollback/it',
 	'group-coder' => 'Coder',
 	'group-coder-member' => 'coder',
+	'group-inactive' => 'Utenti inattivi',
+	'group-inactive-member' => 'utente inattivo',
+	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 );
 
 /** Japanese (日本語)
@@ -2953,6 +2965,7 @@ $messages['lb'] = array(
 	'group-coder-member' => 'Programméierer',
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
 	'group-inactive-member' => 'net aktive Benotzer',
+	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -3953,9 +3966,9 @@ $messages['pt'] = array(
 	'grouppage-steward' => 'm:Stewards/pt',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
-	'group-inactive' => 'Usuários inativos',
-	'group-inactive-member' => 'Usuário inativo',
-	'grouppage-inactive' => '{{ns:project}}:Usuários inativos',
+	'group-inactive' => 'Utilizadores inativos',
+	'group-inactive-member' => 'Utilizador inativo',
+	'grouppage-inactive' => '{{ns:project}}:Utilizadores inativos',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -5266,6 +5279,9 @@ $messages['vec'] = array(
 	'group-Staff-member' => 'Menbro del staff',
 	'group-coder' => 'Programatori',
 	'group-coder-member' => 'programator',
+	'group-inactive' => 'Utenti inativi',
+	'group-inactive-member' => 'utente inativo',
+	'grouppage-inactive' => '{{ns:project}}:Utenti inativi',
 );
 
 /** Veps (Vepsan kel')
