@@ -13,8 +13,7 @@ $messages = array();
 
 $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific messages',
-	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&
-utm_medium=sidebar&utm_campaign=spontaneous_donation', # do not translate this URL to other languages until a donation page, approved by Wikimedia Foundation, exists
+	'sitesupport-url'        => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation', # do not translate this URL to other languages until a donation page, approved by Wikimedia Foundation, exists
 	'sitesupport'            => 'Donate',
 	'tooltip-n-sitesupport'  => 'Support us',
 	'sidebar'                =>  '* navigation
