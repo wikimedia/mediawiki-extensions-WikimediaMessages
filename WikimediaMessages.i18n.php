@@ -2521,24 +2521,24 @@ $messages['ja'] = array(
 	'group-autopatroller' => '自動パトロール権限保持者',
 	'group-founder' => '創設者',
 	'group-import' => 'インポート権限保持者',
-	'group-ipblock-exempt' => 'IPブロック適用除外',
+	'group-ipblock-exempt' => 'IPブロック適用除外者',
 	'group-rollbacker' => 'ロールバック権限保持者',
 	'group-transwiki' => 'トランスウィキ・インポート権限保持者',
 	'group-uploader' => 'アップロード権限保持者',
 	'group-bigexport' => '大規模エクスポート権限保持者',
 	'group-abusefilter' => '不正利用フィルター編集者',
 	'group-accountcreator-member' => 'アカウント作成権限保持者',
-	'group-autopatroller-member' => 'オートパトローラー',
+	'group-autopatroller-member' => '自動パトロール権限保持者',
 	'group-founder-member' => '創設者',
 	'group-import-member' => 'インポート権限保持者',
-	'group-ipblock-exempt-member' => 'IPブロック適用除外',
+	'group-ipblock-exempt-member' => 'IPブロック適用除外者',
 	'group-rollbacker-member' => 'ロールバック権限保持者',
 	'group-transwiki-member' => 'トランスウィキ・インポート権限保持者',
 	'group-uploader-member' => 'アップロード権限保持者',
 	'group-bigexport-member' => '大規模エクスポート権限保持者',
 	'group-abusefilter-member' => '不正利用フィルター編集者',
 	'grouppage-accountcreator' => '{{ns:project}}:アカウント作成権限保持者',
-	'grouppage-autopatroller' => '{{ns:project}}:オートパトローラー',
+	'grouppage-autopatroller' => '{{ns:project}}:自動パトロール権限保持者',
 	'grouppage-founder' => '{{ns:project}}:創設者',
 	'grouppage-import' => '{{ns:project}}:インポート権限保持者',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IPブロック適用除外',
@@ -2702,6 +2702,7 @@ $messages['kk-latn'] = array(
  * @author Lovekhmer
  * @author Thearith
  * @author គីមស៊្រុន
+ * @author វ័ណថារិទ្ធ
  */
 $messages['km'] = array(
 	'wikimediamessages-desc' => 'សារយថាប្រភេទរបស់វិគីមេឌា',
@@ -2736,6 +2737,8 @@ $messages['km'] = array(
 	'group-Staff-member' => 'សមាជិកដែលជាបុគ្គលិកបម្រើការ',
 	'group-coder' => 'អ្នកសរសេរកូដ',
 	'group-coder-member' => 'អ្នកសរសេរកូដ',
+	'group-inactive' => 'ក្រុម​អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
+	'group-inactive-member' => 'អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
 );
 
 /** Kannada (ಕನ್ನಡ)
@@ -4025,6 +4028,9 @@ $messages['pt-br'] = array(
 	'group-Staff-member' => 'membro da equipe',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
+	'group-inactive' => 'Utilizadores inativos',
+	'group-inactive-member' => 'Utilizador inativo',
+	'grouppage-inactive' => '{{ns:project}}:Utilizadores inativos',
 );
 
 /** Quechua (Runa Simi)
