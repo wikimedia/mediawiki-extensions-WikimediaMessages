@@ -817,6 +817,7 @@ $messages['bs'] = array(
  * @author Martorell
  * @author Paucabot
  * @author SMP
+ * @author Solde
  */
 $messages['ca'] = array(
 	'wikimediamessages-desc' => 'Missatges específics de Wikimedia',
@@ -853,6 +854,9 @@ $messages['ca'] = array(
 	'group-Global_rollback-member' => 'Revertidor ràpid global',
 	'group-Ombudsmen-member' => 'síndic de greuges',
 	'group-Staff-member' => 'Personal del wiki',
+	'group-inactive' => 'Usuaris inactius',
+	'group-inactive-member' => 'usuari inactiu',
+	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
@@ -3450,6 +3454,9 @@ $messages['nds'] = array(
 	'group-Staff-member' => 'Mitarbeider',
 	'group-coder' => 'Programmerers',
 	'group-coder-member' => 'Programmerer',
+	'group-inactive' => 'Inaktive Brukers',
+	'group-inactive-member' => 'Inaktiven Bruker',
+	'grouppage-inactive' => '{{ns:project}}:Inaktive Brukers',
 );
 
 /** Nedersaksisch (Nedersaksisch)
@@ -4314,6 +4321,9 @@ $messages['sah'] = array(
 	'group-Staff-member' => 'үлэһит',
 	'group-coder' => 'Программистар',
 	'group-coder-member' => 'программист',
+	'group-inactive' => 'Көҕө суох кыттааччылар',
+	'group-inactive-member' => 'көҕө суох кыттааччы',
+	'grouppage-inactive' => '{{ns:project}}:Көҕө суох кыттааччылар',
 );
 
 /** Sicilian (Sicilianu)
@@ -5159,6 +5169,16 @@ $messages['udm'] = array(
 /** Uighur (Uyghurche‎ / ئۇيغۇرچە) */
 $messages['ug'] = array(
 	'sitesupport' => 'Iana Toplash',
+);
+
+/** ئۇيغۇرچە (ئۇيغۇرچە)
+ * @author Sahran
+ */
+$messages['ug-arab'] = array(
+	'sitesupport' => 'ئىئانە',
+	'tooltip-n-sitesupport' => 'بىزنى قوللاڭ',
+	'group-uploader' => 'يۈكلىگۈچىلەر',
+	'group-accountcreator-member' => 'ھېسابات قۇرغۇچى',
 );
 
 /** Uighur (Latin) (Uyghurche‎ / ئۇيغۇرچە (Latin)) */
