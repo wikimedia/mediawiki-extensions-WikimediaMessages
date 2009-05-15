@@ -2100,6 +2100,9 @@ $messages['hif-latn'] = array(
 	'group-Staff-member' => 'staff',
 	'group-coder' => 'Coders',
 	'group-coder-member' => 'coder',
+	'group-inactive' => 'Sadasya jon ki abhi haali koi edit nai karis hai',
+	'group-inactive-member' => 'Sadasya jon ki abhi haali ekko edit nai karis hai',
+	'grouppage-inactive' => '{{ns:project}}:Sadasya jon ki abhi haali ekko edit nai karin hai',
 );
 
 /** Hiligaynon (Ilonggo)
@@ -2968,6 +2971,7 @@ $messages['lb'] = array(
 	'grouppage-steward' => '{{ns:project}}:Stewarden',
 	'grouppage-sysadmin' => 'm:System Administrateuren',
 	'grouppage-Global_bot' => 'm:Global bot',
+	'grouppage-Staff' => 'Foundation:Personal',
 	'group-coder' => 'Programméierer',
 	'group-coder-member' => 'Programméierer',
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
@@ -3603,6 +3607,7 @@ $messages['nn'] = array(
 	'group-transwiki' => 'Transwiki-importørar',
 	'group-uploader' => 'Opplastarar',
 	'group-bigexport' => 'Store eksportørar',
+	'group-abusefilter' => 'Redigerarar av misbruksfilteret',
 	'group-accountcreator-member' => 'Kontoopprettar',
 	'group-autopatroller-member' => 'automatisk godkjende bidrag',
 	'group-founder-member' => 'grunnleggar',
@@ -3612,6 +3617,7 @@ $messages['nn'] = array(
 	'group-transwiki-member' => 'transwiki-importør',
 	'group-uploader-member' => 'opplastar',
 	'group-bigexport-member' => 'stor eksportør',
+	'group-abusefilter-member' => 'redigerar av misbruksfilteret',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
 	'grouppage-autopatroller' => '{{ns:project}}:Automatisk godkjende bidrag',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
@@ -3621,6 +3627,7 @@ $messages['nn'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
 	'grouppage-uploader' => '{{ns:project}}:Opplastarar',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
+	'grouppage-abusefilter' => '{{ns:project}}:Redigerarar av misbruksfilteret',
 	'group-steward' => 'Stewardar',
 	'group-sysadmin' => 'Systemadministratorar',
 	'group-Global_bot' => 'Globale robotar',
@@ -3640,6 +3647,9 @@ $messages['nn'] = array(
 	'group-coder' => 'Kodarar',
 	'group-coder-member' => 'kodar',
 	'grouppage-coder' => 'Project:Kodar',
+	'group-inactive' => 'Ikkje-aktive brukarar',
+	'group-inactive-member' => 'ikkje aktiv brukar',
+	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
