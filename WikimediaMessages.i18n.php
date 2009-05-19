@@ -1855,11 +1855,13 @@ $messages['grc'] = array(
 	'group-rollbacker' => 'Μεταστροφεῖς',
 	'group-uploader' => 'Ἐπιφορτισταί',
 	'group-bigexport' => 'Μεγάλοι ἐξαγωγεῖς',
+	'group-accountcreator-member' => 'ποιητὴς λογισμῶν',
 	'group-autopatroller-member' => 'αὐτόματος περιπολητής',
 	'group-founder-member' => 'ἱδρυτής',
 	'group-import-member' => 'εἰσαγωγεύς',
 	'group-rollbacker-member' => 'μεταστροφεύς',
 	'group-uploader-member' => 'ἐπιφορτιστής',
+	'group-bigexport-member' => 'μέγας ἐξαγωγεύς',
 	'grouppage-accountcreator' => '{{ns:project}}:Ποιηταὶ λογισμῶν',
 	'grouppage-autopatroller' => '{{ns:project}}:Αὐτόματοι περιποληταί',
 	'grouppage-founder' => '{{ns:project}}:Ἱδρυταί',
@@ -3525,6 +3527,7 @@ $messages['new'] = array(
 );
 
 /** Dutch (Nederlands)
+ * @author Mwpnl
  * @author SPQRobin
  * @author Siebrand
  * @author Troefkaart
@@ -3544,7 +3547,7 @@ $messages['nl'] = array(
 	'group-transwiki' => 'transwiki-importeurs',
 	'group-uploader' => 'uploaders',
 	'group-bigexport' => 'grote exporteurs',
-	'group-abusefilter' => 'misbruikfilteredacteuren',
+	'group-abusefilter' => 'misbruikfilterredacteuren',
 	'group-accountcreator-member' => 'gebruikersaanmaker',
 	'group-autopatroller-member' => 'autopatroller',
 	'group-founder-member' => 'grondlegger',
@@ -3554,7 +3557,7 @@ $messages['nl'] = array(
 	'group-transwiki-member' => 'transwiki-importeur',
 	'group-uploader-member' => 'uploader',
 	'group-bigexport-member' => 'grote exporteur',
-	'group-abusefilter-member' => 'misbruikfilteredacteur',
+	'group-abusefilter-member' => 'misbruikfilterredacteur',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebruikersaanmakers',
 	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
@@ -3564,7 +3567,7 @@ $messages['nl'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
 	'grouppage-uploader' => '{{ns:project}}:Uploaders',
 	'grouppage-bigexport' => '{{ns:project}}:Grote exporteurs',
-	'grouppage-abusefilter' => '{{ns:project}}:Misbruikfilteredacteuren',
+	'grouppage-abusefilter' => '{{ns:project}}:Misbruikfilterredacteuren',
 	'group-steward' => 'stewards',
 	'group-sysadmin' => 'systeembeheerders',
 	'group-Global_bot' => 'globale bots',
@@ -3655,6 +3658,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Jon Harald Søby
  * @author Laaknor
+ * @author Nghtwlkr
  */
 $messages['no'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke beskjeder',
@@ -3670,6 +3674,7 @@ $messages['no'] = array(
 	'group-transwiki' => 'Transwiki-importører',
 	'group-uploader' => 'Opplastere',
 	'group-bigexport' => 'Stor eksport',
+	'group-abusefilter' => 'Redaktører av misbruksfilteret',
 	'group-accountcreator-member' => 'Kontooppretter',
 	'group-autopatroller-member' => 'automatisk godkjente bidrag',
 	'group-founder-member' => 'Grunnlegger',
@@ -3678,6 +3683,8 @@ $messages['no'] = array(
 	'group-rollbacker-member' => 'Tilbakestiller',
 	'group-transwiki-member' => 'Transwiki-importør',
 	'group-uploader-member' => 'opplaster',
+	'group-bigexport-member' => 'stor eksportør',
+	'group-abusefilter-member' => 'redaktør av misbruksfilteret',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettere',
 	'grouppage-autopatroller' => '{{ns:project}}:Patruljering',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggere',
@@ -3686,6 +3693,8 @@ $messages['no'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Tilbakestillere',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importører',
 	'grouppage-uploader' => '{{ns:project}}:Opplastere',
+	'grouppage-bigexport' => '{{ns:project}}:Store eksportører',
+	'grouppage-abusefilter' => '{{ns:project}}:Redaktører av misbruksfilteret',
 	'group-steward' => 'Forvaltere',
 	'group-sysadmin' => 'Systemadministratorer',
 	'group-Global_bot' => 'Globale roboter',
@@ -3702,6 +3711,9 @@ $messages['no'] = array(
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 	'group-coder' => 'Kodere',
 	'group-coder-member' => 'koder',
+	'group-inactive' => 'Inaktive brukere',
+	'group-inactive-member' => 'inaktiv bruker',
+	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
 );
 
 /** Novial (Novial)
