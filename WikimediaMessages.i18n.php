@@ -3095,9 +3095,12 @@ $messages['loz'] = array(
 
 /** Lithuanian (Lietuvių)
  * @author Hugo.arg
+ * @author Matasg
  */
 $messages['lt'] = array(
 	'sitesupport' => 'Parama',
+	'group-import' => 'Importuotojai',
+	'group-uploader' => 'Įkėlėjai',
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
 	'group-Global_bot' => 'Globalūs botai',
