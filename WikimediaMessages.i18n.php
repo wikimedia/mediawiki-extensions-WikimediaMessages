@@ -5265,6 +5265,9 @@ $messages['uk'] = array(
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-coder' => 'Програмісти',
 	'group-coder-member' => 'програміст',
+	'group-inactive' => 'Неактивні користувачі',
+	'group-inactive-member' => 'неактивний користувач',
+	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
 );
 
