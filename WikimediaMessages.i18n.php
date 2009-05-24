@@ -1335,7 +1335,7 @@ $messages['es'] = array(
 	'group-uploader' => 'Cargadores',
 	'group-bigexport' => 'Grandes exportadores',
 	'group-abusefilter' => 'Editores de filtro de abuso',
-	'group-accountcreator-member' => 'creador de la cuenta',
+	'group-accountcreator-member' => 'creador de cuentas',
 	'group-autopatroller-member' => 'autopatrullero',
 	'group-founder-member' => 'fundador',
 	'group-import-member' => 'Importador',
@@ -3175,8 +3175,11 @@ $messages['mg'] = array(
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Mpandrindra ny sistema',
 	'group-sysadmin-member' => 'Mpandrindra ny Sistema',
+	'group-Staff-member' => "mpikamban'ny Staff",
 	'group-coder' => 'Mpanakaody',
 	'group-coder-member' => 'mpanakaody',
+	'group-inactive' => 'mpikambana tsy miasa',
+	'group-inactive-member' => 'mpikambana tsy miasa',
 );
 
 /** Maori (Māori) */
@@ -3237,6 +3240,9 @@ $messages['mk'] = array(
 	'group-coder' => 'Програмери',
 	'group-coder-member' => 'програмер',
 	'grouppage-coder' => 'Project:Програмер',
+	'group-inactive' => 'Неактивни корисници',
+	'group-inactive-member' => 'неактивен корисник',
+	'grouppage-inactive' => '{{ns:project}}:Нективни корисници',
 );
 
 /** Malayalam (മലയാളം)
@@ -4156,13 +4162,21 @@ $messages['ro'] = array(
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Importatori',
 	'group-transwiki' => 'Importatori între wiki',
+	'group-bigexport' => 'Exportatori mari',
 	'group-accountcreator-member' => 'creator de conturi',
 	'group-founder-member' => 'Fondator',
 	'group-import-member' => 'importator',
 	'group-transwiki-member' => 'importator între wiki',
+	'grouppage-accountcreator' => '{{ns:project}}:Creatori de conturi',
+	'grouppage-autopatroller' => '{{ns:project}}:Patrulatori automaţi',
 	'grouppage-founder' => '{{ns:project}}:Fondatori',
 	'grouppage-import' => '{{ns:project}}:Importatori',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:exceptare blocare IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Revocatori',
 	'grouppage-transwiki' => '{{ns:project}}:Importatori între wiki',
+	'grouppage-uploader' => '{{ns:project}}:Încărcători',
+	'grouppage-bigexport' => '{{ns:project}}:Mari exportatori',
+	'grouppage-abusefilter' => '{{ns:project}}:Editori ai filtrului abuz',
 	'group-steward' => 'Stewarzi',
 	'group-sysadmin' => 'Administratori de sistem',
 	'group-Global_bot' => 'Roboţi globali',
@@ -4171,6 +4185,9 @@ $messages['ro'] = array(
 	'group-sysadmin-member' => 'administrator de sistem',
 	'group-Global_bot-member' => 'robot global',
 	'group-Ombudsmen-member' => 'mijlocitor independent',
+	'group-inactive' => 'Utilizatori inactivi',
+	'group-inactive-member' => 'utilizator inactiv',
+	'grouppage-inactive' => '{{ns:project}}:Utilizatori inactivi',
 );
 
 /** Aromanian (Armãneashce)
