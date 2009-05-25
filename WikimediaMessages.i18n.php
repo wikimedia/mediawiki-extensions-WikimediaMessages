@@ -1016,6 +1016,9 @@ $messages['cy'] = array(
 	'group-Staff-member' => 'staff',
 	'group-coder' => 'Codyddion',
 	'group-coder-member' => 'codydd',
+	'group-inactive' => 'Defnyddwyr segur',
+	'group-inactive-member' => 'defnyddiwr segur',
+	'grouppage-inactive' => '{{ns:project}}:Defnyddwyr segur',
 );
 
 /** Danish (Dansk)
@@ -2251,6 +2254,8 @@ $messages['hu'] = array(
 	'group-rollbacker' => 'visszaállítók',
 	'group-transwiki' => 'wikiközi importálók',
 	'group-uploader' => 'feltöltők',
+	'group-bigexport' => 'nagy mennyiségben exportálók',
+	'group-abusefilter' => 'vandálszűrő-szerkesztők',
 	'group-accountcreator-member' => 'fióklétrehozó',
 	'group-autopatroller-member' => 'automatikus járőr',
 	'group-founder-member' => 'alapító',
@@ -2259,6 +2264,8 @@ $messages['hu'] = array(
 	'group-rollbacker-member' => 'visszaállító',
 	'group-transwiki-member' => 'wikiközi importáló',
 	'group-uploader-member' => 'feltöltő',
+	'group-bigexport-member' => 'nagy mennyiségben exportáló',
+	'group-abusefilter-member' => 'vandálszűrő-szerkesztő',
 	'grouppage-accountcreator' => '{{ns:project}}:Fióklétrehozók',
 	'grouppage-autopatroller' => '{{ns:project}}:Automatikus járőrök',
 	'grouppage-founder' => '{{ns:project}}:Alapítók',
@@ -2267,6 +2274,8 @@ $messages['hu'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:Visszaállítók',
 	'grouppage-transwiki' => '{{ns:project}}:Wikiközi importálók',
 	'grouppage-uploader' => '{{ns:project}}:Feltöltők',
+	'grouppage-bigexport' => '{{ns:project}}:Nagy mennyiségben exportálók',
+	'grouppage-abusefilter' => '{{ns:project}}:Vandálszűrő-szerkesztők',
 	'group-steward' => 'helytartók',
 	'group-sysadmin' => 'rendszeradminisztrátorok',
 	'group-Global_bot' => 'globális botok',
@@ -2282,6 +2291,9 @@ $messages['hu'] = array(
 	'grouppage-steward' => '{{ns:project}}:Helytartók',
 	'group-coder' => 'programozók',
 	'group-coder-member' => 'programozó',
+	'group-inactive' => 'inaktív szerkesztők',
+	'group-inactive-member' => 'inaktív szerkesztő',
+	'grouppage-inactive' => '{{ns:project}}:Inaktív szerkesztők',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
 );
 
