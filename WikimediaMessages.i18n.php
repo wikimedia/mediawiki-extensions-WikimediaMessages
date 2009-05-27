@@ -2829,6 +2829,9 @@ $messages['ko'] = array(
 	'grouppage-steward' => 'm:Stewards/ko',
 	'group-coder' => '코더',
 	'group-coder-member' => '코더',
+	'group-inactive' => '활동하지 않는 사용자들',
+	'group-inactive-member' => '활동하지 않는 사용자',
+	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자들',
 );
 
 /** Kinaray-a (Kinaray-a)
