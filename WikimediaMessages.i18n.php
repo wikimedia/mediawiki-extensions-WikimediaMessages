@@ -3116,10 +3116,12 @@ $messages['lt'] = array(
 	'sitesupport' => 'Parama',
 	'group-import' => 'Importuotojai',
 	'group-uploader' => 'Įkėlėjai',
+	'group-uploader-member' => 'įkėlėjas',
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
 	'group-Global_bot' => 'Globalūs botai',
 	'group-Staff' => 'Darbuotojai',
+	'group-steward-member' => 'ūkvedys',
 	'group-Staff-member' => 'Darbuotojas',
 );
 
