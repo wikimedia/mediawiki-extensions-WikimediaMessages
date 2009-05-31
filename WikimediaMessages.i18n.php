@@ -992,16 +992,19 @@ $messages['cy'] = array(
 	'group-accountcreator' => 'Gwneuthurwyr cyfrifon',
 	'group-founder' => 'Sefydlwyr',
 	'group-import' => 'Mewnforwyr',
+	'group-ipblock-exempt' => 'Wedi eithrio rhag bod eu cyfeiriadau IP yn cael eu blocio',
 	'group-transwiki' => 'Mewnforwyr trawswici',
 	'group-uploader' => 'Uwchlwythwyr',
 	'group-accountcreator-member' => 'gwneuthurwr cyfrifon',
 	'group-founder-member' => 'sefydlydd',
 	'group-import-member' => 'mewnforwr',
+	'group-ipblock-exempt-member' => 'Wedi eithrio rhag bod ei gyfeiriad IP yn cael ei flocio',
 	'group-transwiki-member' => 'mewnforwr trawswici',
 	'group-uploader-member' => 'uwchlwythwr',
 	'grouppage-accountcreator' => '{{ns:project}}:Gwneuthurwyr cyfrifon',
 	'grouppage-founder' => '{{ns:project}}:Sefydlwyr',
 	'grouppage-import' => '{{ns:project}}:Mewnforwyr',
+	'grouppage-ipblock-exempt' => "((ns:project}}:Eithrio rhag blocio'r IP",
 	'grouppage-transwiki' => '{{ns:project}}:Mewnforwyr trawswici',
 	'grouppage-uploader' => '{{ns:project}}:Uwchlwythwyr',
 	'group-steward' => 'Stiwardiaid',
@@ -5544,6 +5547,13 @@ $messages['wo'] = array(
 /** Wu (吴语) */
 $messages['wuu'] = array(
 	'sitesupport' => '捐款',
+);
+
+/** Kalmyk (Хальмг)
+ * @author Huuchin
+ */
+$messages['xal'] = array(
+	'sitesupport' => 'Өгх',
 );
 
 /** Xhosa (isiXhosa) */
