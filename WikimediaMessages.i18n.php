@@ -890,6 +890,13 @@ $messages['chr'] = array(
 	'sitesupport' => 'ᎠᎵᏍᎪᎸᏙᏗ',
 );
 
+/** Sorani (Arabic script) (‫کوردی (عەرەبی)‬)
+ * @author رزگار
+ */
+$messages['ckb-arab'] = array(
+	'group-founder-member' => 'دۆزەر',
+);
+
 /** Corsican (Corsu) */
 $messages['co'] = array(
 	'sitesupport' => 'Dunazione',
@@ -4386,6 +4393,14 @@ $messages['sah'] = array(
 	'group-inactive' => 'Көҕө суох кыттааччылар',
 	'group-inactive-member' => 'көҕө суох кыттааччы',
 	'grouppage-inactive' => '{{ns:project}}:Көҕө суох кыттааччылар',
+);
+
+/** Sardinian (Sardu)
+ * @author Marzedu
+ */
+$messages['sc'] = array(
+	'sitesupport' => 'Donaduras',
+	'group-steward' => 'Stewards',
 );
 
 /** Sicilian (Sicilianu)
