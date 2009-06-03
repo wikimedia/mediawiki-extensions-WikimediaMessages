@@ -1969,7 +1969,7 @@ $messages['gu'] = array(
  * @author MacTire02
  */
 $messages['gv'] = array(
-	'sitesupport' => 'Toyrtysyn',
+	'sitesupport' => 'Toyrtyssyn',
 	'tooltip-n-sitesupport' => 'Cooin lhien',
 	'group-Staff' => 'Fwirran',
 	'group-Staff-member' => 'oltey fwirran',
