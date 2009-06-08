@@ -891,10 +891,21 @@ $messages['chr'] = array(
 );
 
 /** Sorani (Arabic script) (‫کوردی (عەرەبی)‬)
+ * @author Marmzok
  * @author رزگار
  */
 $messages['ckb-arab'] = array(
+	'wikimediamessages-desc' => 'پەیامە تایبەتەکانی ویکی‌مێدیا',
+	'sitesupport' => 'یارمەتی‌دان',
+	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',
+	'group-accountcreator' => 'دروست‌کەری هەژمارە',
 	'group-founder-member' => 'دۆزەر',
+	'group-Staff' => 'کارمەندان',
+	'group-sysadmin-member' => 'بەڕێوبەری سیستەم',
+	'group-Staff-member' => 'کارمەند',
+	'group-inactive' => 'بەکارهێنەرانی ناچالاک',
+	'group-inactive-member' => 'بەکارهێنەری ناچالاک',
+	'grouppage-inactive' => '{{ns:project}}: بەکارهێنەرانی ناچالاک',
 );
 
 /** Corsican (Corsu) */
@@ -1674,11 +1685,58 @@ $messages['frc'] = array(
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
+	'wikimediamessages-desc' => 'Mèssâjos spèceficos de Wikimedia.',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fr',
 	'sitesupport' => 'Balyér',
-	'tooltip-n-sitesupport' => 'Sotegnéd lo projèt.',
+	'tooltip-n-sitesupport' => 'Édiéd-nos !',
+	'group-accountcreator' => 'Crèators de comptos',
+	'group-autopatroller' => 'Patrolyors ôtomaticos',
+	'group-founder' => 'Fondators',
+	'group-import' => 'Importators',
+	'group-ipblock-exempt' => 'Ègzencions de blocâjo d’adrèce IP',
+	'group-rollbacker' => 'Rèvoquiors',
+	'group-transwiki' => 'Importators entèrvouiqui',
+	'group-uploader' => 'Tèlèchargiors',
+	'group-bigexport' => 'Grants èxportators',
+	'group-abusefilter' => 'Changiors de filtro d’abus',
+	'group-accountcreator-member' => 'Crèator de comptos',
+	'group-autopatroller-member' => 'Patrolyor ôtomatico',
+	'group-founder-member' => 'Fondator',
+	'group-import-member' => 'Importator',
+	'group-ipblock-exempt-member' => 'Ègzencion de blocâjo d’adrèce IP',
+	'group-rollbacker-member' => 'Rèvoquior',
+	'group-transwiki-member' => 'Importator entèrvouiqui',
+	'group-uploader-member' => 'Tèlèchargior',
+	'group-bigexport-member' => 'Grant èxportator',
+	'group-abusefilter-member' => 'Changior de filtro d’abus',
+	'grouppage-accountcreator' => '{{ns:project}}:Crèators de comptos',
+	'grouppage-autopatroller' => '{{ns:project}}:Patrolyors ôtomaticos',
+	'grouppage-founder' => '{{ns:project}}:Fondators',
+	'grouppage-import' => '{{ns:project}}:Importators',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Ègzencion de blocâjo d’adrèce IP',
+	'grouppage-rollbacker' => '{{ns:project}}:Rèvoquiors',
+	'grouppage-transwiki' => '{{ns:project}}:Importators entèrvouiqui',
+	'grouppage-uploader' => '{{ns:project}}:Tèlèchargiors',
+	'grouppage-bigexport' => '{{ns:project}}:Grants èxportators',
+	'grouppage-abusefilter' => '{{ns:project}}:Changiors de filtro d’abus',
 	'group-steward' => 'Stevârds',
+	'group-sysadmin' => 'Administrators sistèmo',
+	'group-Global_bot' => 'Bots globals',
+	'group-Global_rollback' => 'Rèvoquiors globals',
+	'group-Ombudsmen' => 'Mèdiators',
+	'group-Staff' => 'Gens',
 	'group-steward-member' => 'Stevârd',
-	'grouppage-steward' => '{{ns:project}}:Stevârds',
+	'group-sysadmin-member' => 'Administrator sistèmo',
+	'group-Global_bot-member' => 'Bot global',
+	'group-Global_rollback-member' => 'Rèvoquior global',
+	'group-Ombudsmen-member' => 'Mèdiator',
+	'group-Staff-member' => 'Membro de la gens',
+	'grouppage-steward' => 'm:Stewards',
+	'group-coder' => 'Codiors',
+	'group-coder-member' => 'Codior',
+	'group-inactive' => 'Utilisators que font ren du tot',
+	'group-inactive-member' => 'Utilisator que fât ren du tot',
+	'grouppage-inactive' => '{{ns:project}}:Utilisators que font ren du tot',
 );
 
 /** Friulian (Furlan)
@@ -3123,9 +3181,17 @@ $messages['loz'] = array(
  * @author Matasg
  */
 $messages['lt'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/lt?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Parama',
+	'tooltip-n-sitesupport' => 'Palaikymas',
+	'group-accountcreator' => 'Sąskaitų kūrėjai',
+	'group-autopatroller' => 'Autopatruliai',
+	'group-founder' => 'Įkūrėjai',
 	'group-import' => 'Importuotojai',
+	'group-ipblock-exempt' => 'IP blokavimo išimtys',
+	'group-transwiki' => 'Transwiki įkėlėjai',
 	'group-uploader' => 'Įkėlėjai',
+	'group-import-member' => 'įkėlėjas',
 	'group-uploader-member' => 'įkėlėjas',
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
@@ -3133,6 +3199,8 @@ $messages['lt'] = array(
 	'group-Staff' => 'Darbuotojai',
 	'group-steward-member' => 'ūkvedys',
 	'group-Staff-member' => 'Darbuotojas',
+	'group-inactive' => 'Neaktyvūs naudotojai',
+	'group-inactive-member' => 'neaktyvus naudotojas',
 );
 
 /** Latvian (Latviešu)
