@@ -4394,6 +4394,8 @@ $messages['roa-tara'] = array(
 	'group-sysadmin-member' => 'amministratore de sisteme',
 	'group-Global_bot-member' => 'bot globele',
 	'group-Staff-member' => "cristiàne d'u personele",
+	'group-inactive' => 'Utinde inattive',
+	'group-inactive-member' => 'utende inattive',
 );
 
 /** Russian (Русский)
