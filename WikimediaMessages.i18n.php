@@ -2922,6 +2922,7 @@ $messages['ko'] = array(
 	'group-inactive' => '활동하지 않는 사용자들',
 	'group-inactive-member' => '활동하지 않는 사용자',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자들',
+	'shared-repo-name-shared' => '위키미디어 공용',
 );
 
 /** Kinaray-a (Kinaray-a)
@@ -3217,8 +3218,10 @@ $messages['lt'] = array(
 	'group-ipblock-exempt' => 'IP blokavimo išimtys',
 	'group-transwiki' => 'Transwiki įkėlėjai',
 	'group-uploader' => 'Įkėlėjai',
+	'group-bigexport' => 'Didieji eksportuotojai',
 	'group-import-member' => 'įkėlėjas',
 	'group-uploader-member' => 'įkėlėjas',
+	'grouppage-import' => '{{ns:project}}:Importuotojai',
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
 	'group-Global_bot' => 'Globalūs botai',
@@ -4396,6 +4399,7 @@ $messages['roa-tara'] = array(
 	'group-Staff-member' => "cristiàne d'u personele",
 	'group-inactive' => 'Utinde inattive',
 	'group-inactive-member' => 'utende inattive',
+	'grouppage-inactive' => '{{ns:project}}:Utinde inattive',
 );
 
 /** Russian (Русский)
