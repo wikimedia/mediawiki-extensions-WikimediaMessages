@@ -3206,6 +3206,7 @@ $messages['loz'] = array(
 /** Lithuanian (Lietuvių)
  * @author Hugo.arg
  * @author Matasg
+ * @author Vpovilaitis
  */
 $messages['lt'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/lt?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
@@ -3219,9 +3220,14 @@ $messages['lt'] = array(
 	'group-transwiki' => 'Transwiki įkėlėjai',
 	'group-uploader' => 'Įkėlėjai',
 	'group-bigexport' => 'Didieji eksportuotojai',
+	'group-abusefilter' => 'Piktnaudžiavimo filtrų redaktoriai',
 	'group-import-member' => 'įkėlėjas',
+	'group-ipblock-exempt-member' => 'atleistasis nuo IP blokavimo',
 	'group-uploader-member' => 'įkėlėjas',
+	'group-abusefilter-member' => 'piktnaudžiavimo filtrų redaktorius',
 	'grouppage-import' => '{{ns:project}}:Importuotojai',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Atleistas nuo IP blokavimo',
+	'grouppage-abusefilter' => '{{ns:project}}:Piktnaudžiavimo filtrų redaktorius',
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
 	'group-Global_bot' => 'Globalūs botai',
@@ -3230,6 +3236,7 @@ $messages['lt'] = array(
 	'group-Staff-member' => 'Darbuotojas',
 	'group-inactive' => 'Neaktyvūs naudotojai',
 	'group-inactive-member' => 'neaktyvus naudotojas',
+	'grouppage-inactive' => '{{ns:project}}:Neaktyvūs naudotojai',
 );
 
 /** Latvian (Latviešu)
@@ -4003,6 +4010,16 @@ $messages['pag'] = array(
 $messages['pam'] = array(
 	'sitesupport' => 'Donasiun',
 	'tooltip-n-sitesupport' => 'Saupan yu kami',
+);
+
+/** Deitsch (Deitsch)
+ * @author Xqt
+ */
+$messages['pdc'] = array(
+	'group-steward' => 'Stewards',
+	'group-Global_bot' => 'Globale Bots',
+	'group-steward-member' => 'Steward',
+	'group-Global_bot-member' => 'Globaler Bot',
 );
 
 /** Plautdietsch (Plautdietsch)
