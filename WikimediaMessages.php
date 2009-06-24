@@ -24,5 +24,30 @@ $wgExtensionFunctions[] = 'wfSetupWikimediaMessages';
 include_once ( $dir .'WikimediaGrammarForms.php' );
 
 function wfSetupWikimediaMessages() {
+	global $wgRightsUrl, $wgHooks;
 	wfLoadExtensionMessages('WikimediaMessages');
+	if( $wgRightsUrl == 'http://creativecommons.org/licenses/by-sa/3.0/' ) {
+		// Override with Wikimedia's site-specific copyright message defaults
+		// with the CC/GFDL semi-dual license fun!
+		$wgHooks['SkinCopyrightFooter'][] = 'efWikimediaSkinCopyrightFooter';
+		$wgHooks['EditPageCopyrightWarning'][] = 'efWikimediaEditPageCopyrightWarning';
+		$wgHooks['EditPageTosSummary'][] = 'efWikimediaEditPageTosSummary';
+	}
+}
+
+function efWikimediaEditPageCopyrightWarning( $title, &$msg ) {
+	$msg = 'wikimedia-copyrightwarning';
+	return true;
+}
+
+function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
+	if( $type != 'history' ) {
+		$msg = 'wikimedia-copyright';
+	}
+	return true;
+}
+
+function efWikimediaEditPageTosSummary( $title, &$msg ) {
+	$msg = 'wikimedia-editpage-tos-summary';
+	return true;
 }
