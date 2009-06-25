@@ -104,7 +104,7 @@ $messages['en'] = array(
 	
 	# Copyright fun!
 	'wikimedia-copyright' => 'Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; additional terms may apply. See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [http://www.gnu.org/copyleft/fdl.html GFDL]. You agree to be credited by re-users, at minimum, through a hyperlink or URL to the article you are contributing to. See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
+	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [http://www.gnu.org/copyleft/fdl.html GFDL]. You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to. See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
 	'wikimedia-editpage-tos-summary' => 'If you do not want your writing to be edited and redistributed at will, then do not submit it here. If you did not write this yourself, it must be available under terms consistent with the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.',
 	
 );
