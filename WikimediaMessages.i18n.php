@@ -101,12 +101,11 @@ $messages['en'] = array(
 
 	# The name for the common shared repo 'shared'
 	'shared-repo-name-shared' => 'Wikimedia Commons', # only translate this message to other languages if you have to change it
-	
+
 	# Copyright fun!
 	'wikimedia-copyright' => 'Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; additional terms may apply. See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
 	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [http://www.gnu.org/copyleft/fdl.html GFDL]. You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to. See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
 	'wikimedia-editpage-tos-summary' => 'If you do not want your writing to be edited and redistributed at will, then do not submit it here. If you did not write this yourself, it must be available under terms consistent with the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.',
-	
 );
 
 /** Message documentation (Message documentation)
@@ -2138,6 +2137,7 @@ $messages['he'] = array(
 	'group-uploader' => 'מעלים',
 	'group-bigexport' => 'מבצעי ייצוא גדול',
 	'group-abusefilter' => 'עורכי מסנן ההשחתה',
+	'group-autoreviewer' => 'בוחני עריכות אוטומטית',
 	'group-accountcreator-member' => 'יוצר חשבונות',
 	'group-autopatroller-member' => 'בודק עריכות אוטומטית',
 	'group-founder-member' => 'מייסד',
@@ -2148,6 +2148,7 @@ $messages['he'] = array(
 	'group-uploader-member' => 'מעלה',
 	'group-bigexport-member' => 'מבצע ייצוא גדול',
 	'group-abusefilter-member' => 'עורך מסנן ההשחתה',
+	'group-autoreviewer-member' => 'בוחן עריכות אוטומטית',
 	'grouppage-accountcreator' => '{{ns:project}}:יוצר חשבונות',
 	'grouppage-autopatroller' => '{{ns:project}}:בודק עריכות אוטומטית',
 	'grouppage-founder' => '{{ns:project}}:מייסד',
@@ -2158,6 +2159,7 @@ $messages['he'] = array(
 	'grouppage-uploader' => '{{ns:project}}:מעלה',
 	'grouppage-bigexport' => '{{ns:project}}:מבצע ייצוא גדול',
 	'grouppage-abusefilter' => '{{ns:project}}:עורך מסנן ההשחתה',
+	'grouppage-autoreviewer' => '{{ns:project}}:בוחן עריכות אוטומטית',
 	'group-steward' => 'דיילים',
 	'group-sysadmin' => 'מנהלי מערכת',
 	'group-Global_bot' => 'בוטים גלובליים',
@@ -2176,6 +2178,9 @@ $messages['he'] = array(
 	'group-inactive-member' => 'משתמש בלתי פעיל',
 	'grouppage-inactive' => '{{ns:project}}:משתמש בלתי פעיל',
 	'shared-repo-name-shared' => 'ויקישיתוף',
+	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שיש תנאים נוספים. ראו <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
+	'wikimedia-copyrightwarning' => 'בשמירת הדף, הנכם מסכימים באופן סופי לשחרר את תרומתכם בכפוף לרישיון [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [http://www.gnu.org/copyleft/fdl.html GFDL]. הנכם מסכימים לכך שמשתמשים נוספים יתנו לפחות קישור או כתובת URL לדף שאתם תורמים לו. ראו [http://wikimediafoundation.org/wiki/Terms_of_Use תנאי שימוש] לפרטים.',
+	'wikimedia-editpage-tos-summary' => 'אם אינכם רוצים שעריכתכם תיערך ותופץ מחדש, אל תפרסמו אותה כאן. אם לא כתבתם אותה בעצמכם, היא חייבת להיות זמינה בתנאים התואמים ל[http://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש], והנכם חייבים לפעול לפי כל הדרישות הרלוונטיות ברישיון החל עליה.',
 );
 
 /** Hindi (हिन्दी)
