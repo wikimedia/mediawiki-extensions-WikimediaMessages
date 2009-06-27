@@ -103,9 +103,14 @@ $messages['en'] = array(
 	'shared-repo-name-shared' => 'Wikimedia Commons', # only translate this message to other languages if you have to change it
 
 	# Copyright fun!
-	'wikimedia-copyright' => 'Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; additional terms may apply. See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [http://www.gnu.org/copyleft/fdl.html GFDL]. You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to. See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
-	'wikimedia-editpage-tos-summary' => 'If you do not want your writing to be edited and redistributed at will, then do not submit it here. If you did not write this yourself, it must be available under terms consistent with the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.',
+	'wikimedia-copyright' => 'Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
+	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [http://www.gnu.org/copyleft/fdl.html GFDL].
+You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.
+See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
+	'wikimedia-editpage-tos-summary' => 'If you do not want your writing to be edited and redistributed at will, then do not submit it here.
+If you did not write this yourself, it must be available under terms consistent with the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.',
 );
 
 /** Message documentation (Message documentation)
@@ -217,11 +222,66 @@ $messages['af'] = array(
 );
 
 /** Gheg Albanian (Gegë)
+ * @author Bresta
  * @author Cradel
  */
 $messages['aln'] = array(
-	'sitesupport' => 'Dhurime',
-	'tooltip-n-sitesupport' => 'Përkraheni projektin',
+	'wikimediamessages-desc' => 'Mesazhet specifike për wikimedia',
+	'sitesupport' => 'Jep donacion',
+	'tooltip-n-sitesupport' => 'Përkrahnani',
+	'group-accountcreator' => 'Krijuesit e llogarive',
+	'group-autopatroller' => 'Autopatrulluesit',
+	'group-founder' => 'Themeluesit',
+	'group-import' => 'Importuesit',
+	'group-ipblock-exempt' => "Përjashtimet e bllokimeve të IP've",
+	'group-rollbacker' => 'Mbrapakthyesit',
+	'group-transwiki' => 'Importuesit transwiki',
+	'group-uploader' => 'Ngarkuesit',
+	'group-bigexport' => 'Eksportuesit e mëdhêj',
+	'group-abusefilter' => 'Redaktuesit e filtrave të keqpërdorimit',
+	'group-autoreviewer' => 'Autorishikuesit',
+	'group-accountcreator-member' => 'krijues i llogarisë',
+	'group-autopatroller-member' => 'autopatrulluesi',
+	'group-founder-member' => 'themelues',
+	'group-import-member' => 'importues',
+	'group-ipblock-exempt-member' => "përjashtim nga bllokimi i IP've",
+	'group-rollbacker-member' => 'mbrapakthyes',
+	'group-transwiki-member' => 'importues transwiki',
+	'group-uploader-member' => 'ngarkues',
+	'group-bigexport-member' => 'eksportues i madh',
+	'group-abusefilter-member' => 'redaktues i filtrave të keqpërdorimit',
+	'group-autoreviewer-member' => 'autorishikues',
+	'grouppage-accountcreator' => '{{ns:project}}:Krijues llogarish',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrullues',
+	'grouppage-founder' => '{{ns:project}}:Themeluesit',
+	'grouppage-import' => '{{ns:project}}:Importuesit',
+	'grouppage-ipblock-exempt' => "{{ns:project}}:përjashtim prej bllokimit të IP've",
+	'grouppage-rollbacker' => '{{ns:project}}:Mbrapakthyesit',
+	'grouppage-transwiki' => '{{ns:project}}:Importuesit transwiki',
+	'grouppage-uploader' => '{{ns:project}}:Ngarkuesit',
+	'grouppage-bigexport' => '{{ns:project}}:Eksportuesit e mëdhêj',
+	'grouppage-abusefilter' => '{{ns:project}}:Redaktuesit e filtrave të keqpërdorimit',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autorishikuesit',
+	'group-steward' => 'Përcjellësit',
+	'group-sysadmin' => 'Administruesit e sistemit',
+	'group-Global_bot' => 'Botat global',
+	'group-Global_rollback' => 'Mbrapakthyesit global',
+	'group-Ombudsmen' => 'Ombudspersonat',
+	'group-Staff' => 'Staffi',
+	'group-steward-member' => 'përcjellës',
+	'group-sysadmin-member' => 'administrues i sistemit',
+	'group-Global_bot-member' => 'bot global',
+	'group-Global_rollback-member' => 'mbrapakthyes global',
+	'group-Ombudsmen-member' => 'ombudsperson',
+	'group-Staff-member' => 'antar i staffit',
+	'group-coder' => 'Programerat',
+	'group-coder-member' => 'programer',
+	'group-inactive' => 'Përdoruesit joaktiv',
+	'group-inactive-member' => 'përdorues joaktiv',
+	'grouppage-inactive' => '{{ns:project}}:Përdoruesit joaktiv',
+	'wikimedia-copyright' => 'Ky tekst âsht vû në dispozicion nën licencën <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; mundet me pasë klauzola shtesë që vijnë në shprehje. Shih <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e përdorimit</a> për mâ shumë detaje.',
+	'wikimedia-copyrightwarning' => "Me t'regjistrue faqen, ju pajtoheni me lëshue kontributin tuej parevokueshëm nën [http://creativecommons.org/licenses/by-sa/3.0/ Licencën Creative Commons Attribution/Share-Alike 3.0] dhe [http://www.gnu.org/copyleft/fdl.html GFDL]. Pajtoheni që ri-përdoruesit mujnë me shprehë mirënjohjen së paku përmjet nji vegze apo URL'je te faqja, në të cilën po kontribuoni. Shih [http://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.",
+	'wikimedia-editpage-tos-summary' => 'Nëse nuk doni që shkrimi juej me mujtë me u redaktue dhe ridistribuue arbitrarisht, mos postoni këtu. Nëse nuk e keni shkrue këtë shkrim vetë, duheni me u sigurue që ai âsht i disponueshëm nën kushtet që përmbahen në [http://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit], dhe me u pajtue për me iu përmbajtë tâna kërkesave të licencimit.',
 );
 
 /** Amharic (አማርኛ)
@@ -2548,6 +2608,7 @@ $messages['ia'] = array(
 );
 
 /** Indonesian (Bahasa Indonesia)
+ * @author IvanLanin
  * @author Rex
  */
 $messages['id'] = array(
@@ -2565,6 +2626,7 @@ $messages['id'] = array(
 	'group-uploader' => 'Pengunggah',
 	'group-bigexport' => 'Eksportir besar',
 	'group-abusefilter' => 'Editor filter penyalahgunaan',
+	'group-autoreviewer' => 'Autotinjau',
 	'group-accountcreator-member' => 'Pembuat akun',
 	'group-autopatroller-member' => 'patroli otomatis',
 	'group-founder-member' => 'Pendiri',
@@ -2575,6 +2637,7 @@ $messages['id'] = array(
 	'group-uploader-member' => 'pengunggah',
 	'group-bigexport-member' => 'eksportir besar',
 	'group-abusefilter-member' => 'editor filter penyalahgunaan',
+	'group-autoreviewer-member' => 'autotinjau',
 	'grouppage-accountcreator' => '{{ns:project}}:Pembuat akun',
 	'grouppage-autopatroller' => '{{ns:project}}:Patroli otomatis',
 	'grouppage-founder' => '{{ns:project}}:Pendiri',
@@ -2585,6 +2648,7 @@ $messages['id'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Pengunggah',
 	'grouppage-bigexport' => '{{ns:project}}:Eksportir besar',
 	'grouppage-abusefilter' => '{{ns:project}}:Editor filter penyalahgunaan',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autotinjau',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Administrator sistem',
 	'group-Global_bot' => 'Bot global',
@@ -2603,6 +2667,9 @@ $messages['id'] = array(
 	'group-inactive' => 'Pengguna tidak aktif',
 	'group-inactive-member' => 'pengguna tidak aktif',
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tidak aktif',
+	'wikimedia-copyright' => 'Teks tersedia di bawah <a href="http://creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
+	'wikimedia-copyrightwarning' => 'Dengan menekan tombol simpan, Anda setuju untuk melepas kontribusi Anda seterusnya di bawah [http://creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] dan [http://www.gnu.org/copyleft/fdl.html GFDL]. Anda setuju untuk diberi kredit oleh pengguna ulang, minimal, melalui pranala atau URL ke halaman yang Anda kontribusikan. Lihat [http://wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Penggunaan] untuk lebih jelasnya.',
+	'wikimedia-editpage-tos-summary' => 'Jika Anda tidak ingin tulisan Anda disunting dan didistribusikan ulang jika diinginkan, jangan kirimkan tulisan Anda ke sini. Jika Anda tidak menulisnya sendiri, tulisan ini harus tersedia dengan ketentuan yang sesuai dengan [http://wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Penggunaan], dan Anda setuju untuk mengikuti semua persyaratan perizinan yang relevan.',
 );
 
 /** Interlingue (Interlingue)
@@ -2735,6 +2802,7 @@ $messages['it'] = array(
  * @author JtFuruhata
  * @author Meno25
  * @author Suisui
+ * @author 青子守歌
  */
 $messages['ja'] = array(
 	'wikimediamessages-desc' => 'ウィキメディア固有のメッセージ',
@@ -2793,9 +2861,9 @@ $messages['ja'] = array(
 	'group-inactive-member' => '活動停止中の利用者',
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
-	'wikimedia-copyright' => '文章は<a href="http://creativecommons.org/licenses/by-sa/3.0/">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">利用条件</a>を参照してください。',
-	'wikimedia-copyrightwarning' => '保存すると、あなたは自身の投稿を[http://creativecommons.org/licenses/by-sa/3.0/ クリエイティブ・コモンズ 表示-継承ライセンス 3.0] および [http://www.gnu.org/copyleft/fdl.html GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたは再利用者によって、最低でもあなたが投稿しているページへのハイパーリンクか URL を通して、クレジット表示されることに同意したとみなされます。詳細は[http://wikimediafoundation.org/wiki/Terms_of_Use 利用条件]を参照してください。',
-	'wikimedia-editpage-tos-summary' => 'もしあなたが自身の文章を勝手に編集や再配布してほしくないのなら、ここに投稿しないでください。文章があなた自身で書いたものでない場合、その文章はこの[http://wikimediafoundation.org/wiki/Terms_of_Use 利用条件]と整合する条件のもとで利用可能である必要があり、また、あなたは関係するすべての使用許諾要件に従うことに同意しなければなりません。',
+	'wikimedia-copyright' => 'テキストは<a href="http://creativecommons.org/licenses/by-sa/3.0/">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">利用規約</a>を参照してください。',
+	'wikimedia-copyrightwarning' => '保存すると、あなたは自身の投稿を[http://creativecommons.org/licenses/by-sa/3.0/ クリエイティブ・コモンズ 表示-継承ライセンス 3.0] および [http://www.gnu.org/copyleft/fdl.html GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたは再利用者によって、最低でもあなたが投稿しているページへのハイパーリンクか URL を通して、クレジット表示されることに同意したとみなされます。詳細は[http://wikimediafoundation.org/wiki/Terms_of_Use 利用規約]を参照してください。',
+	'wikimedia-editpage-tos-summary' => 'もしあなたが自身の文章を勝手に編集や再配布してほしくないのなら、ここに投稿しないでください。文章があなた自身で書いたものでない場合、その文章はこの[http://wikimediafoundation.org/wiki/Terms_of_Use 利用規約]と整合する条件のもとで利用可能である必要があります。また、その場合、あなたは全ての関係するライセンス要件に従うことに同意しなければなりません。',
 );
 
 /** Lojban (Lojban)
@@ -3042,6 +3110,9 @@ $messages['ko'] = array(
 	'group-inactive-member' => '활동하지 않는 사용자',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자들',
 	'shared-repo-name-shared' => '위키미디어 공용',
+	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있습니다. 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">이용 규칙</a>을 참고하십시오.',
+	'wikimedia-copyrightwarning' => '당신은 문서를 편집할 때 당신의 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/ 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서] (GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 당신이 저작자라는 사실을 표시해야 하며, 적어도 당신이 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]을 참고하십시오.',
+	'wikimedia-editpage-tos-summary' => '당신이 작성한 문서가 편집되거나 배포되는 것을 원하지 않는다면, 저장하시 마십시오. 이 글을 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 데 동의해야 합니다.',
 );
 
 /** Kinaray-a (Kinaray-a)
@@ -5624,10 +5695,11 @@ $messages['ug-latn'] = array(
 /** Ukrainian (Українська)
  * @author AS
  * @author Ahonc
+ * @author NickK
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Повідомлення, характерні для Вікімедіа',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/uk',
 	'sitesupport' => 'Пожертвування',
 	'tooltip-n-sitesupport' => 'Підтримайте проект',
 	'group-accountcreator' => 'Створювачі облікових записів',
