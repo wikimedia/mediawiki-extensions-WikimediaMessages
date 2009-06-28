@@ -1087,7 +1087,7 @@ $messages['cu'] = array(
 	'sitesupport' => 'даꙗ́ниꙗ',
 );
 
-/** Chuvash (Чăвашла)
+/** Chuvash (Чӑвашла)
  * @author PCode
  */
 $messages['cv'] = array(
@@ -3771,7 +3771,7 @@ $messages['mwl'] = array(
 	'tooltip-n-sitesupport' => 'Ajuda-mos',
 );
 
-/** Burmese (Myanmasa)
+/** Burmese (မြန်မာဘာသာ)
  * @author Hakka
  * @author Hintha
  */
@@ -5064,6 +5064,14 @@ $messages['sl'] = array(
 	'sitesupport' => 'Denarni prispevki',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'shared-repo-name-shared' => 'Wikimedijine Zbirke',
+);
+
+/** Lower Silesian (Schläsch)
+ * @author Schläsinger
+ */
+$messages['sli'] = array(
+	'sitesupport' => 'Spenda',
+	'group-coder' => 'Programmierer',
 );
 
 /** Samoan (Gagana Samoa) */
