@@ -1121,7 +1121,7 @@ $messages['cy'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Gwneuthurwyr cyfrifon',
 	'grouppage-founder' => '{{ns:project}}:Sefydlwyr',
 	'grouppage-import' => '{{ns:project}}:Mewnforwyr',
-	'grouppage-ipblock-exempt' => "((ns:project}}:Eithrio rhag blocio'r IP",
+	'grouppage-ipblock-exempt' => "{{ns:project}}:Eithrio rhag blocio'r IP",
 	'grouppage-transwiki' => '{{ns:project}}:Mewnforwyr trawswici',
 	'grouppage-uploader' => '{{ns:project}}:Uwchlwythwyr',
 	'group-steward' => 'Stiwardiaid',
@@ -1218,7 +1218,7 @@ $messages['de'] = array(
 	'wikimedia-copyright' => 'Der Text ist unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/">„Creative Commons Attribution/Share-Alike“-Lizenz</a> verfügbar, zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> für Details.',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
-Du stimmst zu, dass eine Weiterverwendung mindestens durch durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
+Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
 Siehe die [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] für Details.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
 Falls du den Text nicht selber verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
@@ -1344,6 +1344,7 @@ $messages['ee'] = array(
  * @author Geraki
  * @author Omnipaedista
  * @author ZaDiak
+ * @author Απεργός
  */
 $messages['el'] = array(
 	'wikimediamessages-desc' => 'Μηνύματα ειδικά για το Wikimedia',
@@ -1401,8 +1402,8 @@ $messages['el'] = array(
 	'group-inactive-member' => 'Ανενεργός χρήστης',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>• μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikimedia-copyrightwarning' => 'Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης την δημοσίευση του υλικού υπό τους όρους της [http://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [http://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ\'ελάχιστο, μέσω ενός υπερσύνδεσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikimedia-editpage-tos-summary' => 'Αν δεν θέλετε το κείμενό σας να υποστεί επεξεργασία και να αναδιανεμηθεί κατά βούληση, τότε μην το καταχωρείτε εδώ. Αν δεν το γράψατε ο ίδιος, τότε πρέπει να είναι διαθέσιμο υπό όρους σύμφωνους με τους <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Όρους Χρήσης</a>, και συμφωνείτε να ακολουθήσετε οποιεσδήποτε απαιτήσεις αδειοδότησης.',
+	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης την δημοσίευση του υλικού υπό τους όρους της [http://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [http://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ'ελάχιστο, μέσω ενός υπερσύνδεσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [http://wikimediafoundation.org/wiki/Terms_of_Use Όρους Χρήσης] για λεπτομέρειες.",
+	'wikimedia-editpage-tos-summary' => 'Αν δεν θέλετε το κείμενό σας να υποστεί επεξεργασία και να αναδιανεμηθεί κατά βούληση, τότε μην το καταχωρείτε εδώ. Αν δεν το γράψατε ο ίδιος, τότε πρέπει να είναι διαθέσιμο υπό όρους σύμφωνους με τους [http://wikimediafoundation.org/wiki/Terms_of_Use Όρους Χρήσης], και συμφωνείτε να ακολουθήσετε οποιεσδήποτε απαιτήσεις αδειοδότησης.',
 );
 
 /** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
@@ -2571,6 +2572,7 @@ $messages['hu'] = array(
 	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'A lap szövege <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
 	'wikimedia-copyrightwarning' => 'A szöveg elküldésével visszavonhatatlan engedélyt adsz annak felhasználására a [http://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [http://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási felételekben].',
+	'wikimedia-editpage-tos-summary' => 'Ha nem akarod, hogy az írásodat könyörtelenül átszerkesszék vagy tetszés szerint terjesszék, ne küldd be! Ha nem te írtad, a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekkel] összeférő engedéllyel kell rendelkezned a beküldésére, és be kell tartanod az összes releváns licenckövetelményt.',
 );
 
 /** Armenian (Հայերեն)
@@ -3162,6 +3164,7 @@ $messages['krj'] = array(
 
 /** Ripoarisch (Ripoarisch)
  * @author Purodha
+ * @author Απεργός
  */
 $messages['ksh'] = array(
 	'wikimediamessages-desc' => 'Systemnohrechte un Tex för de Wikimedia Shtefftung ier Wikis.',
@@ -3223,8 +3226,8 @@ $messages['ksh'] = array(
 	'grouppage-inactive' => '{{ns:project}}:{{int:group-inactive}}',
 	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
 	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="http://creativecommons.org/licenses/by-sa/3.0/">Lizänz: <i lang="en">Creative Commons Attribution/Share-Alike</i></a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
-	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [http://creativecommons.org/licenses/by-sa/3.0/ Lizänz <i lang="en">Creative Commons Attribution/Share-Alike</i> 3.0] un de [http://www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
-	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Lizänz_Beshtemmunge</a> paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
+	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [http://creativecommons.org/licenses/by-sa/3.0/ Lizänz <i lang="en">Creative Commons Attribution/Share-Alike</i> 3.0] un de [http://www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [http://wikimediafoundation.org/wiki/Terms_of_Use Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
+	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [http://wikimediafoundation.org/wiki/Terms_of_Use Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */
@@ -5010,6 +5013,7 @@ $messages['si'] = array(
 
 /** Slovak (Slovenčina)
  * @author Helix84
+ * @author Απεργός
  */
 $messages['sk'] = array(
 	'wikimediamessages-desc' => 'Správy špecifické pre Wikimedia',
@@ -5067,7 +5071,7 @@ $messages['sk'] = array(
 	'group-inactive-member' => 'neaktívny používateľ',
 	'grouppage-inactive' => '{{ns:project}}:Neaktívni používatelia',
 	'wikimedia-copyright' => 'Text je dostupný za podmienok <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.',
-	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [http://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.',
+	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [http://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [http://wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].',
 	'wikimedia-editpage-tos-summary' => 'Ak nesúhlasíte s tým, že váš príspevok môže byť ľubovoľne upravovaný a šírený, nezverejňujte ho tu. Ak ste tento text nenapísali sami, musí byť dostupný za podmienok v súlade s [http://wikimediafoundation.org/wiki/Terms_of_Use Podmienkami použitia] a musíte dodržiavať všetky súvisiace licenčné požiadavky.',
 );
 
@@ -5818,6 +5822,9 @@ $messages['uk'] = array(
 	'group-inactive-member' => 'неактивний користувач',
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
+	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Умови використання</a>.',
+	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтесь на їх невідкличну публікацію на умовах ліцензій [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [http://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь, що при використанні сторінки, до якої ви вносили зміни, на вас будуть посилатися як мінімум шляхом гіперпосилання або URL на відповідну сторінку. Детальніше див. [http://wikimediafoundation.org/wiki/Terms_of_Use Умови використання].',
+	'wikimedia-editpage-tos-summary' => 'Якщо ви не бажаєте, щоб написане вами безжалісно редагувалось і розповсюджувалося за бажанням будь-кого, не пишіть тут. Ви також підтверджуєте, що написане вами тут належить вам або взяте з джерела, що є суспільним надбанням або сумісне з [http://wikimediafoundation.org/wiki/Terms_of_Use Умовами використання]. НЕ ПУБЛІКУЙТЕ ТУТ БЕЗ ДОЗВОЛУ МАТЕРІАЛИ, ЩО ОХОРОНЯЮТЬСЯ АВТОРСЬКИМ ПРАВОМ!',
 );
 
 /** Urdu (اردو) */
