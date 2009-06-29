@@ -1160,6 +1160,7 @@ $messages['da'] = array(
  * @author Purodha
  * @author Raimond Spekking
  * @author Umherirrender
+ * @author Απεργός
  */
 $messages['de'] = array(
 	'wikimediamessages-desc' => 'Spezifische Systemnachrichten für Projekte der Wikimedia Foundation',
@@ -1216,7 +1217,7 @@ $messages['de'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inactive Benutzer',
 	'wikimedia-copyright' => 'Der Text ist unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/">„Creative Commons Attribution/Share-Alike“-Lizenz</a> verfügbar, zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> für Details.',
-	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenziert du deine Bearbeitung unwiderruflich unter die [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimmst zu, dass eine Weiterverwendung mindestens durch durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
 Siehe die [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] für Details.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
