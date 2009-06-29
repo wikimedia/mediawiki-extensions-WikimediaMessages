@@ -227,6 +227,7 @@ $messages['af'] = array(
  */
 $messages['aln'] = array(
 	'wikimediamessages-desc' => 'Mesazhet specifike për wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Jep donacion',
 	'tooltip-n-sitesupport' => 'Përkrahnani',
 	'group-accountcreator' => 'Krijuesit e llogarive',
@@ -437,6 +438,8 @@ $messages['arz'] = array(
 	'group-transwiki' => 'مستوردين عبر الويكى',
 	'group-uploader' => 'المحملين',
 	'group-bigexport' => 'المصدرين الكبار',
+	'group-abusefilter' => 'معدلين فيلتر الاساءه',
+	'group-autoreviewer' => 'اوتوريفيورات',
 	'group-accountcreator-member' => 'مؤسس حساب',
 	'group-autopatroller-member' => 'اوتوباترولار',
 	'group-founder-member' => 'مؤسس',
@@ -445,6 +448,7 @@ $messages['arz'] = array(
 	'group-rollbacker-member' => 'مسترجع',
 	'group-transwiki-member' => 'مستورد عبر الويكى',
 	'group-uploader-member' => 'المحمل',
+	'group-bigexport-member' => 'مصدر كبير',
 	'grouppage-accountcreator' => '{{ns:project}}:منشئين الحسابات',
 	'grouppage-autopatroller' => '{{ns:project}}:اوتوباترولارز',
 	'grouppage-founder' => '{{ns:project}}:مؤسسين',
@@ -1301,6 +1305,11 @@ $messages['dsb'] = array(
 	'group-inactive-member' => 'njeaktiwny wužywaŕ',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwne wužywarje',
 	'wikimedia-copyright' => 'Tekst stoj pód <a href="http://creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wužywańske wuměnjenja</a> za drobnostki.',
+	'wikimedia-copyrightwarning' => 'Ze składowanim definitiwnje stajiš swój pśinosk pód [http://creativecommons.org/licenses/by-sa/3.0/ licencu Creative Commons Attribution/Share-Alike 3.0] a [http://www.gnu.org/copyleft/fdl.html GFDL].
+Sy wobjadny, až dalšne wužywarje bok, kótaryž sy pśinosował, nanejmjenjej pśez wótkaz abo URL pśipóznawaju.
+Glědaj [http://wikimediafoundation.org/wiki/Terms_of_Use wužywańske wuměnjenja] za drobnostki.',
+	'wikimedia-editpage-tos-summary' => 'Jolic njocoš, až se twój tekst wobźěłujo a rozdźělujo pó dobrozdaśu, njewózjaw jen how.
+Jolic njejsy to sam spisał, musy pód wuměnjenjami k dispoziciji staś, kótarež makaju se z [http://wikimediafoundation.org/wiki/Terms_of_Use wužywańskimi wuměnjenjami], a pśigłosujoš se wótpowědnych licencnych pominanjow źaržaś.',
 );
 
 /** Divehi (ދިވެހިބަސް) */
@@ -1401,6 +1410,7 @@ $messages['eml'] = array(
 );
 
 /** Esperanto (Esperanto)
+ * @author Michawiki
  * @author Tlustulimu
  * @author Yekrats
  */
@@ -1460,7 +1470,7 @@ $messages['eo'] = array(
 	'group-inactive-member' => 'neaktiva uzanto',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
 	'wikimedia-copyright' => 'Teksto estas havebla sub la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Licenco Kreiva Komunejo</a>; aliaj licenceroj eblas apliki. Vidu <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Rajtoj de uzado</a> por detaloj.',
-	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime doni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Licenco Kreiva Komunejo 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. Vi konsentas esti agnostita de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado] por detaloj.',
+	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime doni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Licenco Kreiva Komunejo 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. Vi konsentas esti agnoskita de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado] por detaloj.',
 	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verkado esti redaktata kaj redistruita laŭvole, tiel ne enigi ĝin ĉi tie. Se vi ne verkis ĉi tiun, ĝi nepre almenaŭesti havebla kun rajtoj de [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj vi konsentas sekvi iujn ĉi-temajn licencajn devigojn.',
 );
 
@@ -2485,6 +2495,10 @@ $messages['hsb'] = array(
 	'group-inactive-member' => 'njeaktiwny wužiwar',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwni wužiwarjo',
 	'wikimedia-copyright' => 'Tekst steji pod <a href="http://creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; přidatne wuměnjenja hodźa so nałožować. Hlej <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wužiwanske wuměnjenja</a> za podrobnosće.',
+	'wikimedia-copyrightwarning' => 'Ze składowanjom definitiwnje stajiš swój přinošk pod [http://creativecommons.org/licenses/by-sa/3.0/ licencu Creative Commons Attribution/Share-Alike 3.0] a [http://www.gnu.org/copyleft/fdl.html GFDL].
+Sy přezjedny, zo dalši wužiwarjo stronu, kotruž sy přinošował, znajmjeńša přez wotkaz abo URL připóznawaja. 
+Hlej [http://wikimediafoundation.org/wiki/Terms_of_Use wužiwanske wuměnjenja] za podrobnosće.',
+	'wikimedia-editpage-tos-summary' => 'Jeli nochceš, zo so twój tekst po dobrozdaću wobdźěłuje a rozdźěluje, da njewozjew jón tu. Jeli njejsy jón sam spisał, dyrbi pod wuměnjenjemi k dispoziciji stać, kotrež su přezjedne z [http://wikimediafoundation.org/wiki/Terms_of_Use wužiwanskimi wuměnjenjemi] a přihłosuješ so po wotpowědnych licencnych žadanjach měć.',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -2571,7 +2585,7 @@ $messages['hy'] = array(
  */
 $messages['ia'] = array(
 	'wikimediamessages-desc' => 'Messages specific de Wikimedia',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ia',
 	'sitesupport' => 'Donationes',
 	'tooltip-n-sitesupport' => 'Sustene nos',
 	'group-accountcreator' => 'Creatores de contos',
@@ -3183,7 +3197,7 @@ $messages['ksh'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Huhlaader',
 	'grouppage-bigexport' => '{{ns:project}}:Jroß-Expotöre',
 	'grouppage-abusefilter' => '{{ns:project}}:Meßbruchsfelter-Baaß',
-	'grouppage-autoreviewer' => '{{ns:project}}:{{int:group-autoreviewer}}',
+	'grouppage-autoreviewer' => '{{ns:project}}:{{MediaWiki:Group-autoreviewer}}',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Wiki-Köbesse',
 	'group-Global_bot' => 'Bots för all Wikis',
