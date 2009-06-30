@@ -3495,6 +3495,8 @@ $messages['lzh'] = array(
 	'wikimediamessages-desc' => '維基媒體特集',
 	'sitesupport' => '捐助集',
 	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
+	'wikimedia-copyright' => '凡我維基之文，悉為<a href="http://creativecommons.org/licenses/by-sa/3.0/">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。
+請閱<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">全文</a>，以得其詳。',
 );
 
 /** Maithili (मैथिली)
