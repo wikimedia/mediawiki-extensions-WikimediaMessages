@@ -361,6 +361,7 @@ $messages['ar'] = array(
 	'group-uploader' => 'رافعون',
 	'group-bigexport' => 'مصدرون كبار',
 	'group-abusefilter' => 'معدلو مرشحات الإساءة',
+	'group-autoreviewer' => 'مراجعون تلقائيون',
 	'group-accountcreator-member' => 'منشئ حساب',
 	'group-autopatroller-member' => 'مراجع تلقائي',
 	'group-founder-member' => 'مؤسس',
@@ -371,6 +372,7 @@ $messages['ar'] = array(
 	'group-uploader-member' => 'رافع',
 	'group-bigexport-member' => 'مصدر كبير',
 	'group-abusefilter-member' => 'معدل مرشح الإساءة',
+	'group-autoreviewer-member' => 'مراجع تلقائي',
 	'grouppage-accountcreator' => '{{ns:project}}:منشئو الحسابات',
 	'grouppage-autopatroller' => '{{ns:project}}:مراجعون تلقائيون',
 	'grouppage-founder' => '{{ns:project}}:مؤسسون',
@@ -381,6 +383,7 @@ $messages['ar'] = array(
 	'grouppage-uploader' => '{{ns:project}}:رافعون',
 	'grouppage-bigexport' => '{{ns:project}}:مصدرون كبار',
 	'grouppage-abusefilter' => '{{ns:project}}:معدلو مرشح الإساءة',
+	'grouppage-autoreviewer' => '{{ns:project}}:مراجع تلقائي',
 	'group-steward' => 'مضيفون',
 	'group-sysadmin' => 'إداريو النظام',
 	'group-Global_bot' => 'بوتات عامة',
@@ -403,6 +406,14 @@ $messages['ar'] = array(
 	'group-inactive-member' => 'مستخدم غير نشط',
 	'grouppage-inactive' => '{{ns:project}}:مستخدمون غير نشطين',
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
+	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="http://creativecommons.org/licenses/by-sa/3.0/">رخصة التشارك الإبداعي العزو/المشاركة بالمثل</a>;
+قد يتم تطبيق شروط إضافية.
+انظر <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
+	'wikimedia-copyrightwarning' => 'بحفظ الصفحة، فأنت توافق على إصدار مساهمتك بلا رجعة تحت [http://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعي العزو/المشاركة بالمثل 3.0] و [http://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
+أنت توافق على أن يتم الإشارة لك بواسطة معيدي الاستخدام، على الأقل، من خلال وصلة فائقة أو مسار إلى الصفحة التي تساهم فيها.
+انظر [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.',
+	'wikimedia-editpage-tos-summary' => 'لو أنك لا تريد لكتابتك أن تعدل ويعاد توزيعها، فلا ترسلها هنا.
+لو أنك لم تكتب هذا بنفسك، فيجب أن يكون متوفرا تحت شروط متوافقة مع [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام]، وأنت توافق على اتباع أي متطلبات ترخيص متعلقة.',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -630,6 +641,7 @@ $messages['be'] = array(
  * @author EugeneZelenko
  * @author Jim-by
  * @author Red Winged Duck
+ * @author Zedlik
  */
 $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
@@ -686,7 +698,7 @@ $messages['be-tarask'] = array(
 	'group-inactive' => 'Неактыўныя ўдзельнікі',
 	'group-inactive-member' => 'неактыўны ўдзельнік',
 	'grouppage-inactive' => '{{ns:project}}:Неактыўныя ўдзельнікі',
-	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="http://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ў <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ўмовах выкарыстаньня</a>.',
+	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="http://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ўмовах выкарыстаньня</a>.',
 	'wikimedia-copyrightwarning' => 'Захоўваючы свае зьмены, Вы пагаджаецеся на іх апублікаваньне згодна ўмовах ліцэнзіяў [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што іншыя пры выкарыстаньні гэтага матэрыялу будуць спасылацца на Вашае аўтарства як мінімум праз гіпэрспасылку на старонку, якую Вы рэдагавалі. Падрабязнасьці глядзіце ў [http://wikimediafoundation.org/wiki/Terms_of_Use ўмовах выкарыстаньня].',
 	'wikimedia-editpage-tos-summary' => 'Калі Вы не жадаеце, каб Вашыя тэксты вольна рэдагаваліся і распаўсюджваліся, не зьмяшчайце іх сюды. Калі Вы не зьяўляецеся аўтарам гэтага тэксту, то ён павінен быць даступны на ўмовах сумяшчальных з [http://wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], і Вы згодны прытрымлівацца ўсім патрабаваньням ліцэнзіяў.',
 );
@@ -1155,6 +1167,7 @@ $messages['da'] = array(
 );
 
 /** German (Deutsch)
+ * @author Melancholie
  * @author Metalhead64
  * @author Pill
  * @author Purodha
@@ -1215,13 +1228,13 @@ $messages['de'] = array(
 	'group-inactive' => 'Inaktive Benutzer',
 	'group-inactive-member' => 'Inaktiver Benutzer',
 	'grouppage-inactive' => '{{ns:project}}:Inactive Benutzer',
-	'wikimedia-copyright' => 'Der Text ist unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/">„Creative Commons Attribution/Share-Alike“-Lizenz</a> verfügbar, zusätzliche Bedingungen können anwendbar sein.
+	'wikimedia-copyright' => 'Der Text ist unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/">„Creative Commons Attribution/Share-Alike“-Lizenz</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> für Details.',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
 Siehe die [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] für Details.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
-Falls du den Text nicht selber verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
+Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 );
 
 /** German (formal address) (Deutsch (Sie-Form))
@@ -1401,7 +1414,7 @@ $messages['el'] = array(
 	'group-inactive' => 'Ανενεργοί χρήστες',
 	'group-inactive-member' => 'Ανενεργός χρήστης',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
-	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>• μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Όρους Χρήσης</a> για λεπτομέρειες.',
+	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης την δημοσίευση του υλικού υπό τους όρους της [http://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [http://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ'ελάχιστο, μέσω ενός υπερσύνδεσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [http://wikimediafoundation.org/wiki/Terms_of_Use Όρους Χρήσης] για λεπτομέρειες.",
 	'wikimedia-editpage-tos-summary' => 'Αν δεν θέλετε το κείμενό σας να υποστεί επεξεργασία και να αναδιανεμηθεί κατά βούληση, τότε μην το καταχωρείτε εδώ. Αν δεν το γράψατε ο ίδιος, τότε πρέπει να είναι διαθέσιμο υπό όρους σύμφωνους με τους [http://wikimediafoundation.org/wiki/Terms_of_Use Όρους Χρήσης], και συμφωνείτε να ακολουθήσετε οποιεσδήποτε απαιτήσεις αδειοδότησης.',
 );
@@ -1471,8 +1484,9 @@ $messages['eo'] = array(
 	'group-inactive' => 'Neaktivaj uzantoj',
 	'group-inactive-member' => 'neaktiva uzanto',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
-	'wikimedia-copyright' => 'Teksto estas havebla sub la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Licenco Kreiva Komunejo</a>; aliaj licenceroj eblas apliki. Vidu <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Rajtoj de uzado</a> por detaloj.',
-	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime doni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Licenco Kreiva Komunejo 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. Vi konsentas esti agnoskita de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado] por detaloj.',
+	'wikimedia-copyright' => 'Teksto estas havebla sub la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Licenco Commons Attribution/Share-Alike</a>; aliaj licenceroj eblas apliki. Vidu <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">rajtojn de uzado</a> por detaloj.',
+	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime doni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Licenco Creative Commons Attribution-ShareAlike 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. 
+Vi konsentas esti agnoskita de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtojn de Uzado] por detaloj.',
 	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verkado esti redaktata kaj redistruita laŭvole, tiel ne enigi ĝin ĉi tie. Se vi ne verkis ĉi tiun, ĝi nepre almenaŭesti havebla kun rajtoj de [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj vi konsentas sekvi iujn ĉi-temajn licencajn devigojn.',
 );
 
@@ -1538,6 +1552,13 @@ $messages['es'] = array(
 	'group-inactive' => 'Usuarios inactivos',
 	'group-inactive-member' => 'usuario inactivo',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
+	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Licencia Creative Commons Compartir Igual 3.0</a>;
+cláusulas adicionales pueden ser de aplicación.
+Vea <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">los términos de uso</a> para los detalles.',
+	'wikimedia-copyrightwarning' => 'Guardando el texto, usted acepta de manera irrevocable a ceder sus contribuciones bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
+Usted acepta a ser citado, como mínimo, por medio de un hipervínculo a la página donde usted ha contribuído. 
+Vea [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
+	'wikimedia-editpage-tos-summary' => 'Si usted no desea que sus escritos sean editados y redistribuídos a voluntad, entonces no los guarde aquí. Si el texto no lo ha escrito usted, debe estar disponible bajo las condiciones especificadas en [http://wikimediafoundation.org/wiki/Terms_of_Use las condiciones de utilización] y usted acepta seguir cualquier requerimiento en relación a las licencias que le pudiese ser exigido.',
 );
 
 /** Estonian (Eesti)
@@ -2098,6 +2119,7 @@ $messages['grc'] = array(
 	'group-rollbacker' => 'Μεταστροφεῖς',
 	'group-uploader' => 'Ἐπιφορτισταί',
 	'group-bigexport' => 'Μεγάλοι ἐξαγωγεῖς',
+	'group-autoreviewer' => 'Ἐπιθεωρηταὶ αὐτόματοι',
 	'group-accountcreator-member' => 'ποιητὴς λογισμῶν',
 	'group-autopatroller-member' => 'αὐτόματος περιπολητής',
 	'group-founder-member' => 'ἱδρυτής',
@@ -2901,7 +2923,7 @@ $messages['ja'] = array(
 	'group-inactive-member' => '活動停止中の利用者',
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
-	'wikimedia-copyright' => 'テキストは<a href="http://creativecommons.org/licenses/by-sa/3.0/">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">利用規約</a>を参照してください。',
+	'wikimedia-copyright' => 'テキストは<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">利用規約</a>を参照してください。',
 	'wikimedia-copyrightwarning' => '保存すると、あなたは自身の投稿を[http://creativecommons.org/licenses/by-sa/3.0/ クリエイティブ・コモンズ 表示-継承ライセンス 3.0] および [http://www.gnu.org/copyleft/fdl.html GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたは再利用者によって、最低でもあなたが投稿しているページへのハイパーリンクか URL を通して、クレジット表示されることに同意したとみなされます。詳細は[http://wikimediafoundation.org/wiki/Terms_of_Use 利用規約]を参照してください。',
 	'wikimedia-editpage-tos-summary' => 'もしあなたが自身の文章を勝手に編集や再配布してほしくないのなら、ここに投稿しないでください。文章があなた自身で書いたものでない場合、その文章はこの[http://wikimediafoundation.org/wiki/Terms_of_Use 利用規約]と整合する条件のもとで利用可能である必要があります。また、その場合、あなたは全ての関係するライセンス要件に従うことに同意しなければなりません。',
 );
@@ -3772,14 +3794,39 @@ $messages['ms'] = array(
 );
 
 /** Maltese (Malti)
+ * @author Chrisportelli
  * @author Giangian15
  */
 $messages['mt'] = array(
 	'wikimediamessages-desc' => "Messaġġi speċifiki ta' Wikimedija",
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donazzjonijiet',
 	'sitesupport' => 'Donazzjonijiet',
 	'tooltip-n-sitesupport' => 'Appoġġjana',
+	'group-accountcreator' => "Kreaturi ta' kontijiet",
+	'group-founder' => 'Fundaturi',
+	'group-import' => 'Importaturi',
+	'group-ipblock-exempt' => 'eżenzjonijiet tal-blokki tal-IP',
+	'grouppage-founder' => '{{ns:project}}:Fundaturi',
+	'grouppage-import' => '{{ns:project}}:Importaturi',
+	'group-Global_bot' => 'Bots globali',
+	'group-Ombudsmen' => 'Ombudsmen',
 	'group-Staff' => 'Uffiċjal',
+	'group-steward-member' => 'stwett',
+	'group-sysadmin-member' => 'amministratur tas-sistema',
+	'group-Global_bot-member' => 'bot globali',
+	'group-Ombudsmen-member' => 'ombudsman',
 	'group-Staff-member' => 'Membru uffiċjal',
+	'group-inactive' => 'utenti inattivi',
+	'group-inactive-member' => 'utent inattiv',
+	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
+	'wikimedia-copyright' => 'It-test hu disponibbli taħt il-<a href="http://creativecommons.org/licenses/by-sa/3.0/">Liċenzja Creative Commons Attribution/Share-Alike</a>;
+termini addizjonali jistgħu japplikaw.
+Ara t-<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a> għal aktar dettalji.',
+	'wikimedia-copyrightwarning' => "Billi ssalva l-paġna, int tkun qed taqbel li tirrilaxxa rrevokabilment il-kontribuzzjoni tiegħek taħt il-liċenzja [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u l-[http://www.gnu.org/copyleft/fdl.html GFDL].
+Inti taqbel li tiġi kreditat minn utenti oħra, bħala minimu, permezz ta' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi fuq.
+Ara t-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu] għal aktar dettalji.",
+	'wikimedia-editpage-tos-summary' => "Jekk ma tridx li l-ktiba tiegħek tiġi modifikat jew ridistribwita skont dak mixtieq, allura ddaħħalhiex hawnhekk.
+Jekk ma ktibx din il-ktiba int, din trid tkun disponibbli taħt it-termini konsistenti mat-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu], u int taċċetta li ssegwi r-rekwiżiti kollha ta' liċenzja.",
 );
 
 /** Mirandese (Mirandés)
@@ -4131,6 +4178,7 @@ $messages['no'] = array(
 	'group-uploader' => 'Opplastere',
 	'group-bigexport' => 'Stor eksport',
 	'group-abusefilter' => 'Redaktører av misbruksfilteret',
+	'group-autoreviewer' => 'Autogranskede',
 	'group-accountcreator-member' => 'Kontooppretter',
 	'group-autopatroller-member' => 'automatisk godkjente bidrag',
 	'group-founder-member' => 'Grunnlegger',
@@ -4141,6 +4189,7 @@ $messages['no'] = array(
 	'group-uploader-member' => 'opplaster',
 	'group-bigexport-member' => 'stor eksportør',
 	'group-abusefilter-member' => 'redaktør av misbruksfilteret',
+	'group-autoreviewer-member' => 'autogransket',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettere',
 	'grouppage-autopatroller' => '{{ns:project}}:Patruljering',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggere',
@@ -4151,6 +4200,7 @@ $messages['no'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Opplastere',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportører',
 	'grouppage-abusefilter' => '{{ns:project}}:Redaktører av misbruksfilteret',
+	'grouppage-autoreviewer' => '{{ns:project}}:Automatisk gransket',
 	'group-steward' => 'Forvaltere',
 	'group-sysadmin' => 'Systemadministratorer',
 	'group-Global_bot' => 'Globale roboter',
@@ -4170,8 +4220,8 @@ $messages['no'] = array(
 	'group-inactive' => 'Inaktive brukere',
 	'group-inactive-member' => 'inaktiv bruker',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
-	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-alike License</a>; ytterligere betingelser kan gjelde. Se <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljer.',
-	'wikimedia-copyrightwarning' => 'Når du lagrer innvilger du ugjenkallelig å gi ut ditt bidrag under [http://creativecommons.org/licenses/by-sa/3.0/deed.no Creatine Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [http://www.gnu.org/copyleft/fdl.html GFDL]. Du går også med på å bli angitt som en opphavsperson av gjenbrukere, som et minimum, gjennom en hyperlenke eller URL til artikkelen du bidro til. Se [http://wikimediafoundation.org/wiki/Terms_of_Use bruksbetingelsene] for flere opplysninger.',
+	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
+	'wikimedia-copyrightwarning' => 'Når du lagrer innvilger du ugjenkallelig å gi ut ditt bidrag under [http://creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [http://www.gnu.org/copyleft/fdl.html GFDL]. Du går også med på å bli angitt som en opphavsperson av gjenbrukere, som et minimum, gjennom en hyperlenke eller URL til artikkelen du bidro til. Se [http://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene] for flere opplysninger.',
 	'wikimedia-editpage-tos-summary' => 'Ønsker du ikke at verket ditt blir redigert og redistribuert, skal du ikke lagre det her. Har du ikke selv skrevet det, skal det være tilgjengelig under betingelsene i overensstemmelse med [http://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og du bekrefter å følge alle relevante lisenskrav.',
 );
 
@@ -4328,6 +4378,7 @@ $messages['pih'] = array(
  * @author Leinad
  * @author Meno25
  * @author Sp5uhe
+ * @author ToSter
  */
 $messages['pl'] = array(
 	'wikimediamessages-desc' => 'Komunikaty unikalne dla projektów Wikimedia',
@@ -4388,7 +4439,7 @@ $messages['pl'] = array(
 	'wikimedia-copyright' => 'Tekst udostępniany na <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
 Zobacz szczegółowe informacje o <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystania</a>.',
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany wyrażasz nieodwołalną zgodę na udostępnienie Twojego wkładu na licencjach [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznanie autorstwa, na tych samych warunkach, wersja licencji 3.0] oraz na licencji [http://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie pod warunkiem, co najmniej podania hiperłącza lub adresu URL do strony na której powstała treść. Zobacz szczegółowe informacje o [http://wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystania].',
-	'wikimedia-editpage-tos-summary' => 'Jeśli nie chcesz, aby Twój tekst mógł być dowolnie zmieniany przez każdego oraz rozpowszechniany bez ograniczeń, nie umieszczaj go tutaj. Jeśli nie napisałeś tekstu samodzielnie, musi on być dostępny na zasadach zgodnych z [http://wikimediafoundation.org/wiki/Terms_of_Use warunkami wykorzystania] oraz musisz zgodzić się na wszystkie istotne wymogi licencyjne.',
+	'wikimedia-editpage-tos-summary' => 'Jeśli nie chcesz, aby Twój tekst mógł być dowolnie zmieniany przez każdego oraz rozpowszechniany bez ograniczeń, nie umieszczaj go tutaj. Jeśli tekst nie został napisany przez Ciebie samodzielnie, musi on być dostępny na zasadach zgodnych z [http://wikimediafoundation.org/wiki/Terms_of_Use warunkami wykorzystania] oraz musisz zgodzić się na wszystkie istotne wymogi licencyjne.',
 );
 
 /** Piedmontese (Piemontèis) */
@@ -4446,6 +4497,7 @@ $messages['pt'] = array(
 	'group-uploader' => 'Carregadores',
 	'group-bigexport' => 'Grandes exportadores',
 	'group-abusefilter' => 'Editores de filtros de abuso',
+	'group-autoreviewer' => 'Autocríticos',
 	'group-accountcreator-member' => 'Criador de contas',
 	'group-autopatroller-member' => 'auto-patrulhador',
 	'group-founder-member' => 'Fundador',
@@ -4456,6 +4508,7 @@ $messages['pt'] = array(
 	'group-uploader-member' => 'carregador',
 	'group-bigexport-member' => 'grande exportador',
 	'group-abusefilter-member' => 'editores de filtros de abuso',
+	'group-autoreviewer-member' => 'autocrítico',
 	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
 	'grouppage-autopatroller' => '{{ns:project}}:Auto-patrulhadores',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
@@ -4466,6 +4519,7 @@ $messages['pt'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Carregadores',
 	'grouppage-bigexport' => '{{ns:project}}:Grandes exportadores',
 	'grouppage-abusefilter' => '{{ns:project}}:Editores de filtros de abuso',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autocríticos',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administradores de sistema',
 	'group-Global_bot' => 'Robôs globais',
@@ -4638,17 +4692,22 @@ $messages['rmy'] = array(
  */
 $messages['ro'] = array(
 	'wikimediamessages-desc' => 'Mesaje specifice Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/ro?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Donaţii',
 	'tooltip-n-sitesupport' => 'Sprijină-ne',
 	'group-accountcreator' => 'Creator de conturi',
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Importatori',
+	'group-ipblock-exempt' => 'Excepţie blocare IP',
 	'group-transwiki' => 'Importatori între wiki',
 	'group-bigexport' => 'Exportatori mari',
+	'group-abusefilter' => 'Editori filtru abuz',
 	'group-accountcreator-member' => 'creator de conturi',
 	'group-founder-member' => 'Fondator',
 	'group-import-member' => 'importator',
+	'group-ipblock-exempt-member' => 'excepţie blocare IP',
 	'group-transwiki-member' => 'importator între wiki',
+	'group-abusefilter-member' => 'editor filtru abuz',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de conturi',
 	'grouppage-autopatroller' => '{{ns:project}}:Patrulatori automaţi',
 	'grouppage-founder' => '{{ns:project}}:Fondatori',
@@ -4663,10 +4722,12 @@ $messages['ro'] = array(
 	'group-sysadmin' => 'Administratori de sistem',
 	'group-Global_bot' => 'Roboţi globali',
 	'group-Ombudsmen' => 'Mijlocitor independent',
+	'group-Staff' => 'Angajaţi',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator de sistem',
 	'group-Global_bot-member' => 'robot global',
 	'group-Ombudsmen-member' => 'mijlocitor independent',
+	'group-Staff-member' => 'angajat',
 	'group-inactive' => 'Utilizatori inactivi',
 	'group-inactive-member' => 'utilizator inactiv',
 	'grouppage-inactive' => '{{ns:project}}:Utilizatori inactivi',
@@ -5428,6 +5489,10 @@ $messages['szl'] = array(
 	'group-Ombudsmen-member' => 'rzeczńik prow',
 	'group-coder' => 'Programisty',
 	'group-coder-member' => 'programista',
+	'wikimedia-copyright' => 'Tekst je udostympńany na <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.
+Uobejzdrzij blank dokłodne informacyje uo <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystańo</a>.',
+	'wikimedia-copyrightwarning' => 'Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [http://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [http://wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystańo].',
+	'wikimedia-editpage-tos-summary' => 'Eli ńy chcesz, coby Twůj tekst můg być dowolńe půmjyńany uod kożdygo a tyż rozpowszechńany bez uograńiczeńůw, ńy wćepuj go sam. Jeli tekst ńy uostoł naszkryflany uod Ćebje samygo, muśi uůn być dostympny pode zasadůma zgodnymi ze [http://wikimediafoundation.org/wiki/Terms_of_Use warunkami wykorzistańo] a muśisz dać zgoda na wszyjske istotne licencyjne wymogi.',
 );
 
 /** Tamil (தமிழ்)
@@ -5703,6 +5768,9 @@ $messages['tr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Etkin olmayan kullanıcılar',
 	'shared-repo-name-shared' => 'Vikipedi Commons',
 	'wikimedia-copyright' => 'Metin <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakın.',
+	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [http://www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [http://wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.',
+	'wikimedia-editpage-tos-summary' => 'Eğer yazınızın istendiğinde değiştirilmesini ya da yeniden dağıtılmasını istemiyorsanız, burada göndermeyiniz.
+Eğer bunu siz yazmadıysanız, yazınız [http://wikimediafoundation.org/wiki/Terms_of_Use Kullanım Koşulları] ile uyumlu şartlar altında olmalıdır, ve herhangi bir ilgili lisans gereksinimine uymayı kabul ediyorsunuz.',
 );
 
 /** Tsonga (Xitsonga)
@@ -6192,6 +6260,7 @@ $messages['zea'] = array(
 
 /** Simplified Chinese (‪中文(简体)‬)
  * @author Gaoxuewei
+ * @author William915
  * @author Wmr89502270
  */
 $messages['zh-hans'] = array(
@@ -6246,10 +6315,12 @@ $messages['zh-hans'] = array(
 	'group-inactive-member' => '不活跃的用户',
 	'grouppage-inactive' => '{{ns:project}}:不活跃的用户',
 	'shared-repo-name-shared' => '维基共享资源',
+	'wikimedia-copyrightwarning' => "点击'''{{int:savearticle}}'''按钮以后，就表示您同意依据[[Wikipedia:CC-by-sa-3.0协议文本|'''CC-by-sa-3.0''']]和[[Wikipedia:GNU自由文档许可证文本|'''GFDL''']]协议不可逆转地释出贡献。如您不欲文章被其它用户编辑或转载，请勿提交。您的贡献内容一经提交，其他人在引用您的贡献内容时，即须通过超链接或其它形式进行署名，参见我们的[[wmf:Terms of Use|使用条款]]。",
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Alexsh
+ * @author William915
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
@@ -6305,6 +6376,7 @@ $messages['zh-hant'] = array(
 	'group-inactive-member' => '不活躍的用戶',
 	'grouppage-inactive' => '{{ns:project}}:不活躍的用戶',
 	'shared-repo-name-shared' => '維基共享資源',
+	'wikimedia-copyrightwarning' => "點擊'''{{int:savearticle}}'''按鈕以後，就表示您同意依據[[Wikipedia:CC-by-sa-3.0協定文本|'''CC-by-sa-3.0''']]和[[Wikipedia:GNU自由文檔許可證文本|'''GFDL''']]協議不可逆轉地釋出貢獻。如您不欲文章被其它用戶編輯或轉載，請勿提交。您的貢獻內容一經提交，其他人在引用您的貢獻內容時，即須通過超連結或其它形式進行署名，參見我們的[[wmf:Terms of Use|使用條款]]。",
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬) */
