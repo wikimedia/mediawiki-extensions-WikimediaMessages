@@ -6172,6 +6172,13 @@ $messages['yue'] = array(
 	'group-inactive' => '唔活躍嘅用戶',
 	'group-inactive-member' => '唔活躍嘅用戶',
 	'grouppage-inactive' => '{{ns:project}}:唔活躍嘅用戶',
+	'wikimedia-copyright' => '呢度嘅所有文字係根據<href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嘅條款發佈；可能會有附加嘅條款。
+睇吓<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嘅細節。',
+	'wikimedia-copyrightwarning' => '當保存嗰陣，你同意將你嘅貢獻喺[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[http://www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。
+你同意加你個名畀再利用者，最少，經過嘅超連結或者網址到你貢獻嘅版。
+睇吓[http://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嘅細節。',
+	'wikimedia-editpage-tos-summary' => '如果你唔想將你寫嘅嘢畀人編輯同埋再發佈嘅話，噉就唔好響呢度遞交。
+唔果你唔係自己去寫呢篇嘢嘅話，佢一定要同[http://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]可以提供嘅情況之下提供，同埋你同意跟住任何有關嘅發牌條件。',
 );
 
 /** Zeeuws (Zeêuws)
