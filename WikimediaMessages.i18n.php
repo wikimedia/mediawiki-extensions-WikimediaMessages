@@ -6242,7 +6242,7 @@ $messages['yue'] = array(
 	'group-inactive' => '唔活躍嘅用戶',
 	'group-inactive-member' => '唔活躍嘅用戶',
 	'grouppage-inactive' => '{{ns:project}}:唔活躍嘅用戶',
-	'wikimedia-copyright' => '呢度嘅所有文字係根據<href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嘅條款發佈；可能會有附加嘅條款。
+	'wikimedia-copyright' => '呢度嘅所有文字係根據<a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嘅條款發佈；可能會有附加嘅條款。
 睇吓<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嘅細節。',
 	'wikimedia-copyrightwarning' => '當保存嗰陣，你同意將你嘅貢獻喺[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[http://www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。
 你同意加你個名畀再利用者，最少，經過嘅超連結或者網址到你貢獻嘅版。
@@ -6315,7 +6315,7 @@ $messages['zh-hans'] = array(
 	'group-inactive-member' => '不活跃的用户',
 	'grouppage-inactive' => '{{ns:project}}:不活跃的用户',
 	'shared-repo-name-shared' => '维基共享资源',
-	'wikimedia-copyrightwarning' => "点击'''{{int:savearticle}}'''按钮以后，就表示您同意依据[[Wikipedia:CC-by-sa-3.0协议文本|'''CC-by-sa-3.0''']]和[[Wikipedia:GNU自由文档许可证文本|'''GFDL''']]协议不可逆转地释出贡献。如您不欲文章被其它用户编辑或转载，请勿提交。您的贡献内容一经提交，其他人在引用您的贡献内容时，即须通过超链接或其它形式进行署名，参见我们的[[wmf:Terms of Use|使用条款]]。",
+	'wikimedia-copyrightwarning' => "点击'''{{int:savearticle}}'''按钮以后，就表示您同意依据[http://creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0]和[http://www.gnu.org/copyleft/fdl.html GFDL]协议不可逆转地释出贡献。如您不欲文章被其它用户编辑或转载，请勿提交。您的贡献内容一经提交，其他人在引用您的贡献内容时，即须通过超链接或其它形式进行署名，参见我们的[[wmf:Terms of Use|使用条款]]。",
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
@@ -6376,7 +6376,7 @@ $messages['zh-hant'] = array(
 	'group-inactive-member' => '不活躍的用戶',
 	'grouppage-inactive' => '{{ns:project}}:不活躍的用戶',
 	'shared-repo-name-shared' => '維基共享資源',
-	'wikimedia-copyrightwarning' => "點擊'''{{int:savearticle}}'''按鈕以後，就表示您同意依據[[Wikipedia:CC-by-sa-3.0協定文本|'''CC-by-sa-3.0''']]和[[Wikipedia:GNU自由文檔許可證文本|'''GFDL''']]協議不可逆轉地釋出貢獻。如您不欲文章被其它用戶編輯或轉載，請勿提交。您的貢獻內容一經提交，其他人在引用您的貢獻內容時，即須通過超連結或其它形式進行署名，參見我們的[[wmf:Terms of Use|使用條款]]。",
+	'wikimedia-copyrightwarning' => "點擊'''{{int:savearticle}}'''按鈕以後，就表示您同意依據[http://creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0]和[http://www.gnu.org/copyleft/fdl.html GFDL]協議不可逆轉地釋出貢獻。如您不欲文章被其它用戶編輯或轉載，請勿提交。您的貢獻內容一經提交，其他人在引用您的貢獻內容時，即須通過超連結或其它形式進行署名，參見我們的[[wmf:Terms of Use|使用條款]]。",
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬) */
