@@ -934,6 +934,11 @@ $messages['bs'] = array(
 	'wikimedia-copyright' => 'Tekst je dostupan pod <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licencom</a>;
 dodatni uslovi se mogu primijeniti.
 Za detalje pogledajte <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">uslove korištenja</a>.',
+	'wikimedia-copyrightwarning' => 'Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike licencom 3.0] i [http://www.gnu.org/copyleft/fdl.html GFDL].
+Slažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.
+Za dalje detalje pogledajte [http://wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].',
+	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se Vaše izmjene i doprinos mijenjaju ili distribuiraju po želji, onda ih ne šaljite ovdje.
+Ako ovo niste napisali lično, ove izmjene moraju biti dostupne pod uslovima u skladu sa [http://wikimediafoundation.org/wiki/Terms_of_Use Pravilima korištenja], i slažete se da će te slijediti sve relevantne licencne zahtjeve.',
 );
 
 /** Catalan (Català)
@@ -1627,7 +1632,7 @@ Täpsemalt vaata <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wiki
 Te nõustute, et Teie autorlust tunnustatakse vähemalt veebiaadressi või lingiga lehele, millele Te praegu kaastööd teete.
 Täpsemalt vaadake [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia kasutamistingimusi].',
 	'wikimedia-editpage-tos-summary' => 'Kui Te ei soovi, et Teie poolt kirjutatut halastamatult redigeeritakse ja omal äranägemisel kasutatakse, siis ärge seda siia salvestage. 
-Kui Te ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia kasutustingimustes] toodud nõetele ning Te kohustute täitma vastavaid litsentsi tingimusi.',
+Kui Te ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia kasutustingimustes] toodud nõuetele ning Te kohustute täitma vastavaid litsentsi tingimusi.',
 );
 
 /** Basque (Euskara)
@@ -4547,6 +4552,7 @@ $messages['ps'] = array(
 /** Portuguese (Português)
  * @author 555
  * @author Crazymadlover
+ * @author David0811
  * @author Lijealso
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
@@ -4561,7 +4567,7 @@ $messages['pt'] = array(
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
 	'group-ipblock-exempt' => 'IPs não bloqueados',
-	'group-rollbacker' => 'Revertedores',
+	'group-rollbacker' => 'Reversores',
 	'group-transwiki' => 'Importadores Transwiki',
 	'group-uploader' => 'Carregadores',
 	'group-bigexport' => 'Grandes exportadores',
@@ -4572,7 +4578,7 @@ $messages['pt'] = array(
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
 	'group-ipblock-exempt-member' => 'IPs não bloqueados',
-	'group-rollbacker-member' => 'Revertedor',
+	'group-rollbacker-member' => 'Reversor',
 	'group-transwiki-member' => 'importador transwiki',
 	'group-uploader-member' => 'carregador',
 	'group-bigexport-member' => 'grande exportador',
@@ -4598,7 +4604,7 @@ $messages['pt'] = array(
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrador de sistema',
 	'group-Global_bot-member' => 'robô global',
-	'group-Global_rollback-member' => 'revertedor global',
+	'group-Global_rollback-member' => 'reversor global',
 	'group-Ombudsmen-member' => 'mediador',
 	'group-Staff-member' => 'membro do pessoal',
 	'grouppage-steward' => 'm:Stewards/pt',
@@ -5506,6 +5512,11 @@ $messages['sv'] = array(
 	'group-inactive-member' => 'inaktiv användare',
 	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
 	'wikimedia-copyright' => 'Text är tillgänglig under <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
+	'wikimedia-copyrightwarning' => 'Genom att spara släpper du oåterkalligen dina bidrag under [http://creativecommons.org/licenses/by-sa/3.0/deed.sv Creative Commons-licensen Erkännande-Dela Lika 3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
+Du går med på att bli krediterat av återanvändare med minst en hyperlänk eller URL till sidan du bidrar till.
+Se [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] för mer upplysningar.',
+	'wikimedia-editpage-tos-summary' => 'Om du inte vill att det du skriver ska bli redigerat och återanvänt ska du inte spara det här.
+Om du inte själv skrev det här, så måste det vara tillgängligt under villkor som är i överensstämmelse med [http://wikimediafoundation.org/wiki/Terms_of_Use Användarvillkoren], och du bekräftar att uppfylla alla relevanta licenskrav.',
 );
 
 /** Swahili (Kiswahili)
