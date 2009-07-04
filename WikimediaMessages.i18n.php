@@ -1075,6 +1075,7 @@ $messages['crh-cyrl'] = array(
  * @author Li-sung
  * @author Matěj Grabovský
  * @author Mormegil
+ * @author Ragimiri
  */
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
@@ -1091,6 +1092,7 @@ $messages['cs'] = array(
 	'group-uploader' => 'Načítači souborů',
 	'group-bigexport' => 'Velkoexportéři',
 	'group-abusefilter' => 'Správci filtrů zneužívání',
+	'group-autoreviewer' => 'Autokontroloři',
 	'group-accountcreator-member' => 'zakladatel účtů',
 	'group-autopatroller-member' => 'strážce',
 	'group-founder-member' => 'zakladatel',
@@ -1101,8 +1103,9 @@ $messages['cs'] = array(
 	'group-uploader-member' => 'načítač souborů',
 	'group-bigexport-member' => 'velkoexportér',
 	'group-abusefilter-member' => 'správce filtrů zneužívání',
+	'group-autoreviewer-member' => 'autokontrolor',
 	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
-	'grouppage-autopatroller' => '{{ns:Project}}:Strážci',
+	'grouppage-autopatroller' => '{{ns:project}}:Strážci',
 	'grouppage-founder' => '{{ns:project}}:Zakladatelé',
 	'grouppage-import' => '{{ns:project}}:Importéři',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Výjimky z blokování IP adres',
@@ -1111,6 +1114,7 @@ $messages['cs'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Načítači souborů',
 	'grouppage-bigexport' => '{{ns:project}}:Velkoexportéři',
 	'grouppage-abusefilter' => '{{ns:project}}:Správci filtrů zneužívání',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autokontroloři',
 	'group-steward' => 'Stevardi',
 	'group-sysadmin' => 'Správcové serveru',
 	'group-Global_bot' => 'Globální boti',
@@ -2834,6 +2838,10 @@ $messages['io'] = array(
 	'group-uploader-member' => 'adkarganto',
 	'grouppage-uploader' => '{{ns:project}}:Adkarganti',
 	'group-sysadmin' => 'Sistemo-administranti',
+	'wikimedia-copyright' => 'La kontenajo esas sub la <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>Creative Commons Attribution/Share-Alike License</i></a>;
+suplementala reguli forsan aplikesas.
+Videz <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado</a> por detali.',
+	'wikimedia-copyrightwarning' => "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [http://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License 3.0''] e la [http://www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [http://wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali.",
 );
 
 /** Icelandic (Íslenska)
@@ -3534,6 +3542,7 @@ $messages['loz'] = array(
  * @author Vpovilaitis
  */
 $messages['lt'] = array(
+	'wikimediamessages-desc' => 'Vikimedijos specialieji pranešimai',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/lt?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Parama',
 	'tooltip-n-sitesupport' => 'Palaikymas',
@@ -3546,9 +3555,14 @@ $messages['lt'] = array(
 	'group-uploader' => 'Įkėlėjai',
 	'group-bigexport' => 'Didieji eksportuotojai',
 	'group-abusefilter' => 'Piktnaudžiavimo filtrų redaktoriai',
+	'group-accountcreator-member' => 'sąskaitų kūrėjai',
+	'group-founder-member' => 'įkūrėjai',
 	'group-import-member' => 'įkėlėjas',
 	'group-ipblock-exempt-member' => 'atleistasis nuo IP blokavimo',
+	'group-rollbacker-member' => 'atmesti',
+	'group-transwiki-member' => 'transwiki įkėlėjai',
 	'group-uploader-member' => 'įkėlėjas',
+	'group-bigexport-member' => 'didieji eksportuotojai',
 	'group-abusefilter-member' => 'piktnaudžiavimo filtrų redaktorius',
 	'grouppage-import' => '{{ns:project}}:Importuotojai',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Atleistas nuo IP blokavimo',
@@ -3562,6 +3576,12 @@ $messages['lt'] = array(
 	'group-inactive' => 'Neaktyvūs naudotojai',
 	'group-inactive-member' => 'neaktyvus naudotojas',
 	'grouppage-inactive' => '{{ns:project}}:Neaktyvūs naudotojai',
+	'wikimedia-copyright' => 'Turinys pateikiamas pagal <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenciją</a>;
+gali galioti kitos nuostatos.
+Norėdami sužinoti daugiau, žiūrėkite <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Naudojimo sąlygas</a>.',
+	'wikimedia-copyrightwarning' => 'Išsaugodamas šį puslapį, Jūs sutinkate negrąžinamai platinti savo indėlį su [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] bei [http://www.gnu.org/copyleft/fdl.html GFDL] licencijomis.
+Jūs sutinkate, kad būtumėte nurodytas mažiausiai per nuorodą ar URL, puslapyje, kuriame taisote.
+Norėdami sužinoti daugiau, žiūrėkite [http://wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygas]',
 );
 
 /** Latvian (Latviešu)
@@ -5560,12 +5580,20 @@ Om du inte själv skrev det här, så måste det vara tillgängligt under villko
 );
 
 /** Swahili (Kiswahili)
+ * @author Lloffiwr
  * @author Malangali
  * @author לערי ריינהארט
  */
 $messages['sw'] = array(
 	'sitesupport' => 'Michango',
 	'tooltip-n-sitesupport' => 'Tuunge mkono',
+	'wikimedia-copyright' => 'Maandishi yanapatikana chini ya leseni ya <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; matakwa mengine yanaweza kutakiwa.
+Tazama maelezo zaidi ya <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Matakwa ya Utumiaji</a>.',
+	'wikimedia-copyrightwarning' => 'Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] pamoja na [http://www.gnu.org/copyleft/fdl.html GFDL].
+Unakubali utambuliwe wakati maandishi haya yatumika na wengine, angalau kwa nia ya kiungo (hyperlink) au URL kwenye ukurasa uliouchangia.
+Tazama maelezo zaidi ya [http://wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji].',
+	'wikimedia-editpage-tos-summary' => 'Ikiwa hutaki maandashi yako yahaririwe na yatumike kwa hiari, basi usiyaweke hapa.
+Ikiwa hukuandika mchango huu mwenyewe, lazima upatikane chini ya matakwa yanayolingana na [http://wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji] yanayotumika hapa, na unakubali kufuata matakwa yeyote ya leseni yake.',
 );
 
 /** Silesian (Ślůnski)
@@ -6434,6 +6462,7 @@ $messages['zea'] = array(
 );
 
 /** Simplified Chinese (‪中文(简体)‬)
+ * @author Bencmq
  * @author Gaoxuewei
  * @author Jimmy xu wrk
  * @author William915
@@ -6445,16 +6474,17 @@ $messages['zh-hans'] = array(
 	'sitesupport' => '资助',
 	'tooltip-n-sitesupport' => '资助我们',
 	'group-accountcreator' => '账户创建员',
-	'group-autopatroller' => '自动巡视员',
+	'group-autopatroller' => '自动巡查员',
 	'group-founder' => '创办人',
 	'group-import' => '导入者',
 	'group-ipblock-exempt' => 'IP查封例外者',
 	'group-rollbacker' => '回退员',
 	'group-transwiki' => '跨维基导入者',
 	'group-uploader' => '上传文件用户',
-	'group-abusefilter' => '滥用过泸器编辑者',
+	'group-bigexport' => '大量导出者',
+	'group-abusefilter' => '防滥用过滤器编辑者',
 	'group-accountcreator-member' => '账户创建员',
-	'group-autopatroller-member' => '自动巡视员',
+	'group-autopatroller-member' => '自动巡查员',
 	'group-founder-member' => '创办人',
 	'group-import-member' => '导入者',
 	'group-ipblock-exempt-member' => 'IP查封例外',
@@ -6464,25 +6494,25 @@ $messages['zh-hans'] = array(
 	'group-bigexport-member' => '大量导出者',
 	'group-abusefilter-member' => '滥用过滤器编辑者',
 	'grouppage-accountcreator' => '{{ns:project}}:账户创建员',
-	'grouppage-autopatroller' => '{{ns:project}}:自动巡视员',
+	'grouppage-autopatroller' => '{{ns:project}}:自动巡查员',
 	'grouppage-founder' => '{{ns:project}}:创办人',
-	'grouppage-import' => '{{ns:project}}:回退员',
+	'grouppage-import' => '{{ns:project}}:导入者',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
-	'grouppage-rollbacker' => '{{ns:project}}:反转者',
+	'grouppage-rollbacker' => '{{ns:project}}:回退员',
 	'grouppage-transwiki' => '{{ns:project}}:跨维基导入者',
 	'grouppage-uploader' => '{{ns:project}}:上传文件用户',
 	'grouppage-bigexport' => '{{ns:project}}:大量导出者',
-	'grouppage-abusefilter' => '{{ns:project}}:滥用过滤器编辑者',
+	'grouppage-abusefilter' => '{{ns:project}}:反滥用过滤器编辑者',
 	'group-steward' => '监管员',
 	'group-sysadmin' => '系统管理员',
 	'group-Global_bot' => '全域机器人',
-	'group-Global_rollback' => '全域反转者',
+	'group-Global_rollback' => '全域回退员',
 	'group-Ombudsmen' => '申诉专员',
-	'group-Staff' => '成员',
+	'group-Staff' => '基金会工作人员',
 	'group-steward-member' => '监管员',
 	'group-sysadmin-member' => '系统管理员',
 	'group-Global_bot-member' => '全域机器人',
-	'group-Global_rollback-member' => '全域反转者',
+	'group-Global_rollback-member' => '全域回退员',
 	'group-Ombudsmen-member' => '申诉专员',
 	'group-Staff-member' => '成员',
 	'group-coder' => '编程人员',
