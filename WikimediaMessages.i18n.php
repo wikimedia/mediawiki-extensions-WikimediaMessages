@@ -484,6 +484,8 @@ $messages['arz'] = array(
 	'group-transwiki-member' => 'مستورد عبر الويكى',
 	'group-uploader-member' => 'المحمل',
 	'group-bigexport-member' => 'مصدر كبير',
+	'group-abusefilter-member' => 'محرر فيلتر الاساءه',
+	'group-autoreviewer-member' => 'مراجع اوتوماتيكى',
 	'grouppage-accountcreator' => '{{ns:project}}:منشئين الحسابات',
 	'grouppage-autopatroller' => '{{ns:project}}:اوتوباترولارز',
 	'grouppage-founder' => '{{ns:project}}:مؤسسين',
@@ -492,6 +494,9 @@ $messages['arz'] = array(
 	'grouppage-rollbacker' => '{{ns:project}}:مسترجعين',
 	'grouppage-transwiki' => '{{ns:project}}:مستوردين عبر الويكى',
 	'grouppage-uploader' => '{{ns:project}}:المحملين',
+	'grouppage-bigexport' => '{{ns:project}}:مصدرين كبار',
+	'grouppage-abusefilter' => '{{ns:project}}:محررين فيلتر الاساءه',
+	'grouppage-autoreviewer' => '{{ns:project}}:مراجعين اوتوماتيكيين',
 	'group-steward' => 'مضيفين',
 	'group-sysadmin' => 'اداريين النظام',
 	'group-Global_bot' => 'بوتات عامه',
@@ -510,6 +515,7 @@ $messages['arz'] = array(
 	'group-coder' => 'مكودون',
 	'group-coder-member' => 'مكود',
 	'grouppage-coder' => 'Project:مكود',
+	'group-inactive' => 'يوزرات مش ناشطين',
 );
 
 /** Assamese (অসমীয়া)
@@ -1205,11 +1211,58 @@ Os nad chi ysgrifennodd y cyfraniad hwn, rhaid iddo fod ar gael ar delerau sy'n 
 /** Danish (Dansk)
  * @author Jon Harald Søby
  * @author Kaare
+ * @author Masz
  */
 $messages['da'] = array(
-	'sitesupport' => 'Støt siden',
+	'wikimediamessages-desc' => 'Wikimedia-specifikke meddelelser',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/da',
+	'sitesupport' => 'Donationer',
+	'tooltip-n-sitesupport' => 'Støt os',
+	'group-accountcreator' => 'Kontooprettere',
+	'group-autopatroller' => 'Automatisk patruljerede brugere',
+	'group-founder' => 'Grundlæggere',
+	'group-import' => 'Importører',
+	'group-ipblock-exempt' => 'IP-blokeringsundtagelser',
+	'group-rollbacker' => 'Tilbagerullere',
+	'group-transwiki' => 'Transwiki-importører',
+	'group-uploader' => 'Oplæggere',
+	'group-abusefilter' => 'Operatører af misbrugsfilteret',
+	'group-accountcreator-member' => 'Kontoopretter',
+	'group-autopatroller-member' => 'automatisk patruljeret bruger',
+	'group-founder-member' => 'Grundlægger',
+	'group-import-member' => 'Importør',
+	'group-ipblock-exempt-member' => 'IP-blokeringsundtagelse',
+	'group-rollbacker-member' => 'Tilbageruller',
+	'group-transwiki-member' => 'Transwiki-importør',
+	'group-uploader-member' => 'Oplægger',
+	'group-bigexport-member' => 'masse-eksportører',
+	'group-abusefilter-member' => 'Operatør af misbrugsfilteret',
+	'grouppage-accountcreator' => '{{ns:project}}:Kontooprettere',
+	'grouppage-autopatroller' => '{{ns:project}}:Automatisk patruljerede brugere',
+	'grouppage-founder' => '{{ns:project}}:Grundlæggere',
+	'grouppage-import' => '{{ns:project}}:Importører',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-blokeringsundtagelser',
+	'grouppage-rollbacker' => '{{ns:project}}:Tilbagerullere',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importører',
+	'grouppage-uploader' => '{{ns:project}}:Oplæggere',
+	'grouppage-abusefilter' => '{{ns:project}}:Operatører af misbrugsfilteret',
+	'group-steward' => 'Forvaltere',
+	'group-sysadmin' => 'Systemadministratorer',
+	'group-Global_bot' => 'Globale robotter',
+	'group-Global_rollback' => 'Globale tilbagerullere',
+	'group-Ombudsmen' => 'Ombudsmænd',
+	'group-Staff' => 'Ansatte',
+	'group-steward-member' => 'forvalter',
+	'group-sysadmin-member' => 'systemadministrator',
+	'group-Global_bot-member' => 'global robot',
+	'group-Global_rollback-member' => 'global tilbageruller',
+	'group-Ombudsmen-member' => 'ombudsmand',
+	'group-Staff-member' => 'ansat',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
+	'group-inactive' => 'Inaktive brugere',
+	'group-inactive-member' => 'inaktiv bruger',
+	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
 	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
 	'wikimedia-copyrightwarning' => 'Når du gemmer, indvilliger du uigenkaldeligt i at udgive dit bidrag under [http://creativecommons.org/licenses/by-sa/3.0/deed.da Creative Commons-licensen Navngivelse/Del på samme vilkår 3.0] og [http://www.gnu.org/copyleft/fdl.html GFDL]. Du indvilliger i at blive angivet som kilde af genbrugere, som minimum gennem et hyperlink eller URL til artiklen, du bidrog til. Se [http://wikimediafoundation.org/wiki/Terms_of_Use Brugsbetingelser] for flere oplysninger.',
 	'wikimedia-editpage-tos-summary' => 'Ønsker du ikke at dit værk redigeres og redistribueres efter forgodtbefindende, skal du ikke indsende det her. Har du ikke selv skrevet det, skal det være tilgængeligt under betingelser i overensstemmelse med [http://wikimediafoundation.org/wiki/Terms_of_Use Brugsbetingelser], og du bekræfter at leve op til alle relevante licenskrav.',
@@ -1707,6 +1760,7 @@ $messages['ext'] = array(
 
 /** Persian (فارسی)
  * @author Huji
+ * @author Mardetanha
  */
 $messages['fa'] = array(
 	'wikimediamessages-desc' => 'پیغام‌های مخصوص ویکی‌مدیا',
@@ -1751,6 +1805,7 @@ $messages['fa'] = array(
 	'group-Staff-member' => 'عضو پرسنل',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => 'برنامه‌نویس',
+	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان به صورت غیر قابل فسخ تحت مجوزهای [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید و موافقت می‌کنید که مصرف‌کنندگان ثانوی،  دست‌کم از طریق گذاشتن ابرپیوند  یا درج نشانی  صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند. برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را مطالعه فرمایید.',
 );
 
 /** Fulah (Fulfulde) */
@@ -3239,8 +3294,8 @@ $messages['ko'] = array(
 	'group-inactive-member' => '활동하지 않는 사용자',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자들',
 	'shared-repo-name-shared' => '위키미디어 공용',
-	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있습니다. 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">이용 규칙</a>을 참고하십시오.',
-	'wikimedia-copyrightwarning' => '당신은 문서를 편집할 때 당신의 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/ 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서] (GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 당신이 저작자라는 사실을 표시해야 하며, 적어도 당신이 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]을 참고하십시오.',
+	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있습니다. 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">이용 규칙</a>을 참고하십시오.',
+	'wikimedia-copyrightwarning' => '당신은 문서를 편집할 때 당신의 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서] (GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 당신이 저작자라는 사실을 표시해야 하며, 적어도 당신이 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]을 참고하십시오.',
 	'wikimedia-editpage-tos-summary' => '당신이 작성한 문서가 편집되거나 배포되는 것을 원하지 않는다면, 저장하지 마십시오. 이 글을 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 데 동의해야 합니다.',
 );
 
@@ -4131,6 +4186,7 @@ $messages['new'] = array(
 
 /** Dutch (Nederlands)
  * @author Mwpnl
+ * @author Pahles
  * @author SPQRobin
  * @author Siebrand
  * @author Troefkaart
@@ -4197,7 +4253,7 @@ $messages['nl'] = array(
 	'wikimedia-copyright' => 'De tekst is beschikbaar onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamsvermelding/Gelijk delen</a>.
 Het is mogelijk dat aanvullende voorwaarden van toepassing zijn.
 Zie de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Algemene Voorwaarden</a> voor meer informatie.',
-	'wikimedia-copyrightwarning' => 'Door uw bewerking op te slaan, gaat u akkoord met het onherroepelijk vrijgeven uw bijdrage onder de licentie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamsvermelding/Gelijk delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Door uw bewerking op te slaan, gaat u akkoord met het onherroepelijk vrijgeven van uw bijdrage onder de licentie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamsvermelding/Gelijk delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL].
 U gaat ermee akkoord door hergebruikers minimaal genoemd te worden via een hyperlink of URL naar de pagina waaraan u bijdraagt.
 Zie de [http://wikimediafoundation.org/wiki/Terms_of_Use Algemene Voorwaarden] voor meer informatie.',
 	'wikimedia-editpage-tos-summary' => 'Als u niet wilt dat uw bijdrage bewerkt of gedistribueerd wordt, sla deze dan niet op.
