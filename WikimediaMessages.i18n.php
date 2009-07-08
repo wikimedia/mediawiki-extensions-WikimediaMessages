@@ -1282,6 +1282,7 @@ $messages['da'] = array(
 
 /** German (Deutsch)
  * @author Church of emacs
+ * @author Khaledelmansoury
  * @author Melancholie
  * @author Metalhead64
  * @author Pill
@@ -1306,6 +1307,7 @@ $messages['de'] = array(
 	'group-uploader' => 'Hochlader',
 	'group-bigexport' => 'Großexporteure',
 	'group-abusefilter' => 'Missbrauchsfilter-Bearbeiter',
+	'group-autoreviewer' => 'Automatische Nachprüfer',
 	'group-accountcreator-member' => 'Benutzerkonten-Ersteller',
 	'group-autopatroller-member' => 'Automatischer Prüfer',
 	'group-founder-member' => 'Gründer',
@@ -1316,6 +1318,7 @@ $messages['de'] = array(
 	'group-uploader-member' => 'Hochlader',
 	'group-bigexport-member' => 'Großexporteur',
 	'group-abusefilter-member' => 'Missbrauchsfilter-Bearbeiter',
+	'group-autoreviewer-member' => 'Automatischer Nachprüfer',
 	'grouppage-accountcreator' => '{{ns:project}}:Benutzerkonten-Ersteller',
 	'grouppage-autopatroller' => '{{ns:project}}:Automatische Prüfer',
 	'grouppage-founder' => '{{ns:project}}:Gründer',
@@ -1326,6 +1329,7 @@ $messages['de'] = array(
 	'grouppage-uploader' => '{{ns:project}}:Hochlader',
 	'grouppage-bigexport' => '{{ns:project}}:Großexporteure',
 	'grouppage-abusefilter' => '{{ns:project}}:Missbrauchsfilter-Bearbeiter',
+	'grouppage-autoreviewer' => '{{ns:project}}:Automatische Nachprüfer',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Systemadministratoren',
 	'group-Global_bot' => 'Globale Bots',
@@ -1343,7 +1347,7 @@ $messages['de'] = array(
 	'group-coder-member' => 'Programmierer',
 	'group-inactive' => 'Inaktive Benutzer',
 	'group-inactive-member' => 'Inaktiver Benutzer',
-	'grouppage-inactive' => '{{ns:project}}:Inactive Benutzer',
+	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
 	'wikimedia-copyright' => 'Der Text ist unter der <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“-Lizenz</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> für Details.',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
@@ -3134,16 +3138,63 @@ $messages['jv'] = array(
  * @author Sopho
  * @author Temuri rajavi
  * @author לערי ריינהארט
+ * @author გიორგიმელა
  */
 $messages['ka'] = array(
+	'wikimediamessages-desc' => 'ვიკიმედიის სპეციფიკური წერილები',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ka',
 	'sitesupport' => 'შეწირულობები',
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
+	'group-accountcreator' => 'ანგარიში შემქმნელები',
+	'group-autopatroller' => 'ავტომეპატრულები',
 	'group-founder' => 'დამაარსებლები',
+	'group-import' => 'იმპორტირებე',
+	'group-ipblock-exempt' => 'IP-ბლოკირებების გამონაკლისები',
+	'group-rollbacker' => 'გაუქმებლები',
+	'group-transwiki' => 'Transwiki-ს იმპორტორები',
+	'group-uploader' => 'ამტვირთველები',
+	'group-bigexport' => 'დიდი ექსპორტორები',
+	'group-abusefilter' => 'ბოროტად გამოყენების ფილტრის მეპატრულე',
+	'group-autoreviewer' => 'ავტომხილველები',
+	'group-accountcreator-member' => 'ანგარიშის შემქმნელები',
+	'group-autopatroller-member' => 'ავტომოპატრულე',
 	'group-founder-member' => 'დამაარსებელი',
+	'group-import-member' => 'იმპორტორი',
+	'group-ipblock-exempt-member' => 'IP ბლოკირების გამონაკლისები',
+	'group-rollbacker-member' => 'გამაუქმებელი',
+	'group-transwiki-member' => 'Transwiki-ს იმპორტორი',
+	'group-uploader-member' => 'ამტვირთველი',
+	'group-bigexport-member' => 'დიდი ექსპორტორი',
+	'group-abusefilter-member' => 'ბოროტად გამოყენებსის ფილტრის რედაქტორი',
+	'group-autoreviewer-member' => 'ავტომხილველი',
+	'grouppage-accountcreator' => '{{ns:project}}:ანგარიშების შემქმნელები',
+	'grouppage-autopatroller' => '{{ns:project}}:ავტომეპატრულე',
 	'grouppage-founder' => '{{ns:project}}:დამაარსებლები',
+	'grouppage-import' => '{{ns:project}}:იმპორტიორები',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-დაბლოკვების გამონაკლისები',
+	'grouppage-rollbacker' => '{{ns:project}}:გამმაუქმებლები',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-ს იმპორტორები',
+	'grouppage-uploader' => '{{ns:project}}:ამტვირთველები',
+	'grouppage-bigexport' => '{{ns:project}}:დიდი ექსპორტიორები',
+	'grouppage-abusefilter' => '{{ns:project}}:ბოროტად გამოყენების ფილტრის რედაქტორები',
+	'grouppage-autoreviewer' => '{{ns:project}}:ავტომხილველები',
 	'group-steward' => 'სტიუარდები',
+	'group-sysadmin' => 'სისტემური ადმინისტრატორები',
+	'group-Global_bot' => 'გლობალური ბოტები',
+	'group-Global_rollback' => 'გლობალური გამმაუქმებლები',
+	'group-Ombudsmen' => 'ომბუცმენები',
+	'group-Staff' => 'თანამშრომლები',
 	'group-steward-member' => 'სტიუარდი',
+	'group-sysadmin-member' => 'სისტემური ადმინისტრატორი',
+	'group-Global_bot-member' => 'გლობალური ბოტი',
+	'group-Global_rollback-member' => 'გლობალური გამმაუქმებელი',
+	'group-Ombudsmen-member' => 'ობუცმენი',
+	'group-Staff-member' => 'თანამშრომელი',
+	'group-coder' => 'პროგრამისტი',
+	'group-coder-member' => 'პროგრამისტი',
+	'group-inactive' => 'არააქტიური მომხმარებლები',
+	'group-inactive-member' => 'არააქტიური მომხმარებელი',
+	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 );
 
 /** Kara-Kalpak (Qaraqalpaqsha)
@@ -4445,7 +4496,7 @@ $messages['nso'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'wikimediamessages-desc' => 'Messatges especifics de Wikimèdia',
+	'wikimediamessages-desc' => 'Messatges especifics de Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/oc',
 	'sitesupport' => 'Far un don',
 	'tooltip-n-sitesupport' => 'Sostenètz lo projècte',
@@ -4538,6 +4589,9 @@ $messages['pag'] = array(
 $messages['pam'] = array(
 	'sitesupport' => 'Donasiun',
 	'tooltip-n-sitesupport' => 'Saupan yu kami',
+	'wikimedia-copyrightwarning' => "Nung mag-save ka, mamayun kang itabili me at e mu ne bawian ing kekang ambag king lalam ning [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ampo ning [http://www.gnu.org/copyleft/fdl.html GFDL].
+Mamayun kang kilalanan da ka deng talagamit a gagamit pasibayu kaniti (''re-users''), king paralan a e kulang king pamangabit hyperlink o URL king bulung nung nu ka manambag.
+Lon me ing [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.",
 );
 
 /** Deitsch (Deitsch)
@@ -6458,6 +6512,8 @@ $messages['yi'] = array(
 	'tooltip-n-sitesupport' => 'שטיצט אונז',
 	'group-accountcreator' => 'קאָנטע באַשאַפֿער',
 	'group-import' => 'אימפארטירערס',
+	'group-accountcreator-member' => 'קאָנטע באַשאַפֿער',
+	'group-autopatroller-member' => 'אויטאפאַטראלירער',
 	'group-founder-member' => 'גרינדער',
 	'group-import-member' => 'אימפארטירער',
 	'group-uploader-member' => 'אַרויפֿלאָדער',
