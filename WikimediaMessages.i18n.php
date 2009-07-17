@@ -126,6 +126,7 @@ If you did not write this yourself, it must be available under terms consistent 
  * @author Seb35
  * @author Siebrand
  * @author Sp5uhe
+ * @author Tagimata
  */
 $messages['qqq'] = array(
 	'wikimediamessages-desc' => 'Short description of the Wikimediamessages extension, shown in [[Special:Version]].{{doc-important|Do not translate or change links.}}',
@@ -134,17 +135,19 @@ $messages['qqq'] = array(
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.",
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
 	'group-accountcreator' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]]. See also {{msg|group-accountcreator-member}}.',
-	'group-founder' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/founder]] (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]). See also {{msg|group-founder-member}}.',
-	'group-rollbacker' => '{{Identical|Rollback}}',
+	'group-autopatroller' => 'bantay-automatiko',
 	'group-bigexport' => 'Big export user has a right to: {{int:right-override-export-depth}}',
+	'group-founder' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/founder]] (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]). See also {{msg|group-founder-member}}.',
+	'group-import' => 'Mga Naga-import',
+	'group-rollbacker' => '{{Identical|Rollback}}',
 	'group-accountcreator-member' => 'A member of the group {{msg|group-accountcreator}}.',
+	'group-bigexport-member' => 'Big export user has a right to: {{int:Right-override-export-depth}}',
 	'group-founder-member' => 'A member in the group {{msg|group-founder}} (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]).',
 	'group-rollbacker-member' => '{{Identical|Rollback}}',
-	'group-bigexport-member' => 'Big export user has a right to: {{int:Right-override-export-depth}}',
-	'grouppage-rollbacker' => '{{Identical|Rollback}}',
 	'grouppage-bigexport' => 'To be used in wikitext inside double square brackets, that is, as a link to a descriptive page. Do not alter or translate "<code>{<nowiki />{ns:project}}:</code>".
 
 Big export user has a right to: {{int:right-override-export-depth}}',
+	'grouppage-rollbacker' => '{{Identical|Rollback}}',
 	'group-Global_rollback' => '{{Identical|Rollback}}',
 	'group-Global_rollback-member' => '{{Identical|Rollback}}',
 	'grouppage-steward' => '{{Global grouppage}}',
@@ -448,6 +451,9 @@ $messages['ar'] = array(
  */
 $messages['arc'] = array(
 	'sitesupport' => 'ܕܒܘܚ ܠܢ',
+	'group-uploader-member' => 'ܡܣܩܢܐ',
+	'grouppage-import' => '{{ns:project}}:ܡܥܠܢ̈ܐ',
+	'grouppage-uploader' => '{{ns:project}}:ܡܣܩܢ̈ܐ',
 );
 
 /** Araucanian (Mapudungun)
@@ -668,6 +674,26 @@ $messages['bcl'] = array(
 $messages['be'] = array(
 	'sitesupport' => 'Ахвяраванні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
+	'grouppage-abusefilter' => '{{ns:project}}:Abuse filter editors',
+	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
+	'grouppage-autopatroller' => '{{ns:project}}:Autopatrollers',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autoreviewers',
+	'grouppage-bigexport' => '{{ns:project}}:Big exporters',
+	'grouppage-founder' => '{{ns:project}}:Founders',
+	'grouppage-import' => '{{ns:project}}:Importers',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
+	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki importers',
+	'grouppage-uploader' => '{{ns:project}}:Uploaders',
+	'grouppage-inactive' => '{{ns:project}}:Inactive users',
+	'wikimedia-copyright' => 'Тэкст даступны на ўмовах ліцэнзіі <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>;
+таксама могуць дзейнічаць дадатковыя ўмовы.
+Падрабязней гл. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Умовы карыстання</a>.',
+	'wikimedia-copyrightwarning' => "Замацоўваючы гэта, вы згаджаецеся беззваротна выпусціць свой уклад на ўмовах ліцэнзій [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [http://www.gnu.org/copyleft/fdl.html GFDL].
+Вы згаджаецеся на адзначэнне вашага аўтарства пры паўторным выкарыстанні гэтай старонкі, у мінімальным аб'ёме гіпер-спасылкі або адрасу URL гэтай старонкі, у якую вы робіце ўклад.
+Падрабязней гл. [http://wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].",
+	'wikimedia-editpage-tos-summary' => 'Калі вы не жадаеце, каб ваш тэкст свабодна правіўся і распаўсюджваўся, не ўкладвайце яго сюды.
+Калі вы самі не пісалі гэтага тэксту, ён мусіць быць даступным на ўмовах, якія сумяшчальныя з [http://wikimediafoundation.org/wiki/Terms_of_Use Умовамі карыстання], а вы мусіце даць згоду на ўсе наступныя змяненні ліцэнзійных патрабаванняў, якія маюць дачыненне да гэтага тэксту.',
 );
 
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
@@ -1848,7 +1874,9 @@ $messages['fa'] = array(
 	'group-Staff-member' => 'عضو پرسنل',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => 'برنامه‌نویس',
-	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان به صورت غیر قابل فسخ تحت مجوزهای [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید و موافقت می‌کنید که مصرف‌کنندگان ثانوی،  دست‌کم از طریق گذاشتن ابرپیوند  یا درج نشانی  صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند. برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را مطالعه فرمایید.',
+	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
+شما موافقت می‌کنید که مصرف‌کنندگان ثانوی، دست‌کم از طریق گذاشتن ابرپیوند یا درج نشانی صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند.
+برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
 );
 
 /** Fulah (Fulfulde) */
@@ -1870,39 +1898,42 @@ $messages['fi'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fi',
 	'sitesupport' => 'Lahjoitukset',
 	'tooltip-n-sitesupport' => 'Tue meitä',
+	'group-abusefilter' => 'väärinkäyttösuodattimen muokkaajat',
 	'group-accountcreator' => 'käyttäjätunnusten luojat',
 	'group-autopatroller' => 'automaattisesti tarkastavat',
+	'group-autoreviewer' => 'automaattiset arvioivat',
+	'group-bigexport' => 'Suuret viejät',
+	'group-confirmed' => 'Hyväksytyt käyttäjät',
 	'group-founder' => 'perustajat',
 	'group-import' => 'sivujen tuojat',
 	'group-ipblock-exempt' => 'IP-estoista vapautetut',
 	'group-rollbacker' => 'palauttajat',
 	'group-transwiki' => 'toisesta wikistä sivujen tuojat',
 	'group-uploader' => 'tiedostojen lähettäjät',
-	'group-bigexport' => 'Suuret viejät',
-	'group-abusefilter' => 'väärinkäyttösuodattimen muokkaajat',
-	'group-autoreviewer' => 'automaattiset arvioivat',
+	'group-abusefilter-member' => 'väärinkäyttösuodattimen muokkaaja',
 	'group-accountcreator-member' => 'käyttäjätunnusten luoja',
 	'group-autopatroller-member' => 'automaattisesti tarkastava',
+	'group-autoreviewer-member' => 'automaattisesti arvioiva',
+	'group-bigexport-member' => 'suuri viejä',
+	'group-confirmed-member' => 'hyväksytty käyttäjä',
 	'group-founder-member' => 'perustaja',
 	'group-import-member' => 'sivujen tuoja',
 	'group-ipblock-exempt-member' => 'IP-estosta vapautettu',
 	'group-rollbacker-member' => 'palauttaja',
 	'group-transwiki-member' => 'toisesta wikistä sivujen tuoja',
 	'group-uploader-member' => 'tiedostojen lähettäjä',
-	'group-bigexport-member' => 'suuri viejä',
-	'group-abusefilter-member' => 'väärinkäyttösuodattimen muokkaaja',
-	'group-autoreviewer-member' => 'automaattisesti arvioiva',
+	'grouppage-abusefilter' => '{{ns:project}}:Väärinkäyttösuodattimen muokkaajat',
 	'grouppage-accountcreator' => '{{ns:project}}:Käyttäjätunnusten luojat',
 	'grouppage-autopatroller' => '{{ns:project}}:Automaattisesti tarkastavat',
+	'grouppage-autoreviewer' => '{{ns:project}}:Automaattisesti arvioivat',
+	'grouppage-bigexport' => '{{ns:project}}:Suuret viejät',
+	'grouppage-confirmed' => '{{ns:project}}:Hyväksytyt käyttäjät',
 	'grouppage-founder' => '{{ns:project}}:Perustajat',
 	'grouppage-import' => '{{ns:project}}:Sivujen tuojat',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-estoista vapautetut',
 	'grouppage-rollbacker' => '{{ns:project}}:Palauttajat',
 	'grouppage-transwiki' => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
 	'grouppage-uploader' => '{{ns:project}}:Tiedostojen lähettäjät',
-	'grouppage-bigexport' => '{{ns:project}}:Suuret viejät',
-	'grouppage-abusefilter' => '{{ns:project}}:Väärinkäyttösuodattimen muokkaajat',
-	'grouppage-autoreviewer' => '{{ns:project}}:Automaattisesti arvioivat',
 	'group-steward' => 'ylivalvojat',
 	'group-sysadmin' => 'järjestelmän ylläpitäjät',
 	'group-Global_bot' => 'globaalit botit',
@@ -1921,7 +1952,7 @@ $messages['fi'] = array(
 	'group-inactive' => 'Epäaktiiviset käyttäjät',
 	'group-inactive-member' => 'epäaktiivinen käyttäjä',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
-	'wikimedia-copyright' => 'Teksti on saatavilla <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">käyttöehdot</a>.',
+	'wikimedia-copyright' => 'Teksti on saatavilla <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="http://wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
 	'wikimedia-copyrightwarning' => 'Tallentamalla hyväksyt julkaiset muokkauksesi peruuttamattomasti [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [http://www.gnu.org/copyleft/fdl.html GFDL-lisensseillä]. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [http://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikimedia-editpage-tos-summary' => 'Jos et halua kirjoitustasi muiden muokattavaksi ja levitettäväksi, älä tallenna sitä tänne. Jos et kirjoittanut tätä itse, tekstin tulee olla saatavilla [http://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtojen] mukaisin ehdoin ja hyväksyt asiaankuuluvien lisenssivaatimusten noudattamisen.',
 );
@@ -2612,10 +2643,40 @@ $messages['hif-latn'] = array(
 /** Hiligaynon (Ilonggo)
  * @author Jose77
  * @author Kguirnela
+ * @author Tagimata
  */
 $messages['hil'] = array(
+	'wikimediamessages-desc' => 'ang ginatukoy nga mensahe sang Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Donasyon',
 	'tooltip-n-sitesupport' => 'Sakdaga kami',
+	'group-abusefilter' => 'Abusar sala editor',
+	'group-accountcreator' => 'Mga Gahimo Akawnt',
+	'group-autopatroller' => 'Mga AutoBantay',
+	'group-autoreviewer' => 'Autorebyuwer',
+	'group-bigexport' => 'Mga Dagkong eksporter',
+	'group-founder' => 'Mga Nagpatukod',
+	'group-import' => 'Mga Nagakuha sa Guha',
+	'group-ipblock-exempt' => 'IP eksempted harangan',
+	'group-rollbacker' => 'Mga Ginabalik',
+	'group-transwiki' => 'Mga Transwiki nga Gakuha sa guha',
+	'group-uploader' => 'Mga gapang-upload',
+	'group-accountcreator-member' => 'nagapanghimo account',
+	'group-founder-member' => 'nagpatukod',
+	'group-ipblock-exempt-member' => 'IP eksemptado harang',
+	'group-Ombudsmen' => 'Mga Ombudsman',
+	'group-Staff' => 'Mga Gabulig',
+	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'gabulig',
+	'group-coder' => 'Koders',
+	'group-coder-member' => 'koder',
+	'wikimedia-copyright' => 'Ang teksto ay pwede mo makit-an sa idalum sang <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+nanga-dugang nga kasulatan pwede man pagabatunon. Palihog lang bisita sa<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> para sa madamu nga detalye.',
+	'wikimedia-copyrightwarning' => 'Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] kag ang [http://www.gnu.org/copyleft/fdl.html GFDL].
+Nagapasugot ka nga kilalanon sa mga nagagamit liwat, sa pinaka kubos, nga nagapamaagi sa hyperlink o URL sa pahina nga gina kontribyut mo.
+Palihog lang bisita sa [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para sa madamu nga detalye.',
+	'wikimedia-editpage-tos-summary' => 'Kung indi mo gusto nga ang imo gina sulat ma islan kag palaptahon sa imo pagkinagusto, indi pag ipadala diri.
+Kung indi kag nagsulat sini sa imo kaugalingon, kilanlan nga para ina sa tanan nga naga sunod upod sa [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], kag naga sugot ka nga magpati sa lisensyang kilanlanon.',
 );
 
 /** Croatian (Hrvatski)
@@ -3181,21 +3242,33 @@ $messages['jv'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Panggalangan_dana',
 	'sitesupport' => 'Nyumbang dana',
 	'tooltip-n-sitesupport' => 'Sokongen kita',
+	'group-abusefilter' => 'Panyunting saringan salah-guna',
 	'group-accountcreator' => 'Sing gawé akun',
+	'group-autopatroller' => 'Patroli otomatis',
+	'group-autoreviewer' => 'Pamriksa otomatis',
+	'group-bigexport' => 'Èksportir gedhé',
 	'group-founder' => 'Pendhiri',
 	'group-import' => 'Importir',
 	'group-ipblock-exempt' => 'Pambébasan saka pamblokiran IP',
 	'group-rollbacker' => 'Sing mbalèkaké révisi',
 	'group-transwiki' => 'Importir transwiki',
 	'group-uploader' => 'Pamunggah',
+	'group-abusefilter-member' => 'panyunting saringan salah-guna',
 	'group-accountcreator-member' => 'Sing gawé akun',
+	'group-autopatroller-member' => 'patroli otomatis',
+	'group-autoreviewer-member' => 'pamriksa otomatis',
+	'group-bigexport-member' => 'èksportir gedhé',
 	'group-founder-member' => 'Pandhiri',
 	'group-import-member' => 'importir',
 	'group-ipblock-exempt-member' => 'Pambébasan saka pamblokiran IP',
 	'group-rollbacker-member' => 'Sing mbalèkaké révisi',
 	'group-transwiki-member' => 'importir transwiki',
 	'group-uploader-member' => 'pamunggah',
+	'grouppage-abusefilter' => '{{ns:project}}:Panyunting saringan salah-guna',
 	'grouppage-accountcreator' => '{{ns:project}}:Sing gawé akun',
+	'grouppage-autopatroller' => '{{ns:project}}:Patroli otomatis',
+	'grouppage-autoreviewer' => '{{ns:project}}:Pamriksa otomatis',
+	'grouppage-bigexport' => '{{ns:project}}:Èksportir gedhé',
 	'grouppage-founder' => '{{ns:project}}:Pandhiri',
 	'grouppage-import' => '{{ns:project}}:Importir',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Pambébasan saka pamblokiran IP',
@@ -3207,11 +3280,13 @@ $messages['jv'] = array(
 	'group-Global_bot' => 'Bot global',
 	'group-Global_rollback' => 'Sing mbalèkaké révisi global',
 	'group-Ombudsmen' => 'Ombudsman',
+	'group-Staff' => 'Staf',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator sistem',
 	'group-Global_bot-member' => 'bot global',
 	'group-Global_rollback-member' => 'Sing mbalèkaké révisi global',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Staff-member' => 'staf',
 	'grouppage-steward' => 'm:Stewards',
 	'grouppage-sysadmin' => 'm:System administrators',
 	'grouppage-Global_bot' => 'm:Global bot',
@@ -3220,6 +3295,9 @@ $messages['jv'] = array(
 	'group-coder' => 'Programer',
 	'group-coder-member' => 'programer',
 	'grouppage-coder' => 'Project:Programer',
+	'group-inactive' => 'Panganggo ora aktif',
+	'group-inactive-member' => 'panganggo ora aktif',
+	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
 );
 
 /** Georgian (ქართული)
@@ -3484,37 +3562,39 @@ $messages['ksh'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spende',
 	'sitesupport' => 'Spende',
 	'tooltip-n-sitesupport' => 'Donn uns Ungerstötze!',
+	'group-abusefilter' => 'Meßbruchsfelter-Baaß',
 	'group-accountcreator' => 'Metmaacher-Maachere',
 	'group-autopatroller' => 'Sellver-Nohloorer',
+	'group-autoreviewer' => 'Automattesch Nohkiker',
+	'group-bigexport' => 'Jroß-Expotöre',
 	'group-founder' => 'Jröndere',
 	'group-import' => 'Emportöre',
 	'group-ipblock-exempt' => 'IP-Jruppe-Sperre-Ußnahme',
 	'group-rollbacker' => 'Zeröcknemmere',
 	'group-transwiki' => 'Transwiki-Emportöre',
 	'group-uploader' => 'Huhlaader',
-	'group-bigexport' => 'Jroß-Expotöre',
-	'group-abusefilter' => 'Meßbruchsfelter-Baaß',
+	'group-abusefilter-member' => 'Meßbruchsfelter-Baaß',
 	'group-accountcreator-member' => 'Metmaacher-Maacher',
 	'group-autopatroller-member' => 'Sellver-Nohloorer',
+	'group-autoreviewer-member' => 'Automattesch Nohkiker',
+	'group-bigexport-member' => 'Jroß-Expotör',
 	'group-founder-member' => 'Jrönder',
 	'group-import-member' => 'Emportör',
 	'group-ipblock-exempt-member' => 'IP-Jruppe-Sperre-Ußnahm',
 	'group-rollbacker-member' => 'Zeröcknemmer',
 	'group-transwiki-member' => 'Transwiki-Emportör',
 	'group-uploader-member' => 'Huhlaader',
-	'group-bigexport-member' => 'Jroß-Expotör',
-	'group-abusefilter-member' => 'Meßbruchsfelter-Baaß',
+	'grouppage-abusefilter' => '{{ns:project}}:Meßbruchsfelter-Baaß',
 	'grouppage-accountcreator' => '{{ns:project}}:Metmaacher-Maacher',
 	'grouppage-autopatroller' => '{{ns:project}}:Sellver-Nohloorer',
+	'grouppage-autoreviewer' => '{{ns:project}}:{{MediaWiki:Group-autoreviewer}}',
+	'grouppage-bigexport' => '{{ns:project}}:Jroß-Expotöre',
 	'grouppage-founder' => '{{ns:project}}:Jrönder',
 	'grouppage-import' => '{{ns:project}}:Emportör',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Jruppe-Sperre-Ußnahm',
 	'grouppage-rollbacker' => '{{ns:project}}:Zeröcknemmer',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Emportör',
 	'grouppage-uploader' => '{{ns:project}}:Huhlaader',
-	'grouppage-bigexport' => '{{ns:project}}:Jroß-Expotöre',
-	'grouppage-abusefilter' => '{{ns:project}}:Meßbruchsfelter-Baaß',
-	'grouppage-autoreviewer' => '{{ns:project}}:{{MediaWiki:Group-autoreviewer}}',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Wiki-Köbesse',
 	'group-Global_bot' => 'Bots för all Wikis',
@@ -5933,6 +6013,7 @@ $messages['ta'] = array(
 );
 
 /** Telugu (తెలుగు)
+ * @author Kiranmayee
  * @author Mpradeep
  * @author Ravichandra
  * @author Veeven
@@ -5945,13 +6026,16 @@ $messages['te'] = array(
 	'group-founder' => 'వ్యవస్థాపకులు',
 	'group-import' => 'దిగుమతిదార్లు',
 	'group-ipblock-exempt' => 'ఐపీ నిరోధపు మినహాయింపులు',
+	'group-rollbacker' => 'రద్దుచేసినవారు',
 	'group-uploader' => 'ఎగుమతిదార్లు',
 	'group-accountcreator-member' => 'ఖాతా సృష్టికర్త',
 	'group-import-member' => 'దిగుమతిదారు',
 	'group-ipblock-exempt-member' => 'ఐపీ నిరోధపు మినహాయింపు',
+	'group-rollbacker-member' => 'రద్దుచేసినవారు',
 	'grouppage-accountcreator' => '{{ns:project}}:ఖాతా సృష్టికర్తలు',
 	'grouppage-import' => '{{ns:project}}:దిగుమతిదార్లు',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ఐపీ నిరోధపు మినహాయింపు',
+	'grouppage-rollbacker' => '{{ns:project}}:రద్దుచేసినవారు',
 	'grouppage-uploader' => '{{ns:project}}:ఎగుమతిదార్లు',
 	'group-steward' => 'స్టీవార్డులు',
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
@@ -6596,12 +6680,72 @@ $messages['vro'] = array(
 );
 
 /** Walloon (Walon)
+ * @author Lucyin
  * @author Srtxg
  */
 $messages['wa'] = array(
+	'wikimediamessages-desc' => 'Messaedjes rén k\' pol waibe "Wikimedia"',
 	'sitesupport' => 'Ecwårlaedje',
+	'tooltip-n-sitesupport' => 'Sotnez nos',
+	'group-abusefilter' => "Candjeus d' passetes",
+	'group-accountcreator' => "Ahiveus d' contes",
+	'group-autopatroller' => 'Robots naxheus',
+	'group-autoreviewer' => 'Coridjreces otomatikes',
+	'group-bigexport' => "Grands epoirteus d' pådjes",
+	'group-founder' => 'Askepieus do Wiki e-n inglès',
+	'group-import' => 'Ristitcheus',
+	'group-ipblock-exempt' => 'IP nén rboutåve',
+	'group-rollbacker' => 'Disfijheus',
+	'group-transwiki' => 'Ricopieus inte les wikis',
+	'group-uploader' => 'Eberweteus',
+	'group-abusefilter-member' => 'Ricandjeu(se) des passetes',
+	'group-accountcreator-member' => "Ahiveu d' contes",
+	'group-autopatroller-member' => 'Robot naxheu',
+	'group-autoreviewer-member' => 'Coridjrece otomatike',
+	'group-bigexport-member' => 'Grand(e) epoirteu(se) di pådjes',
+	'group-founder-member' => 'Askepieu',
+	'group-import-member' => 'Ristitcheu(se)',
+	'group-ipblock-exempt-member' => 'IP nén rboutåve',
+	'group-rollbacker-member' => 'Ridisfijheu(se)',
+	'group-transwiki-member' => "Ricopieu(se) d' on wiki a l' ôte",
+	'group-uploader-member' => 'Eberweteu(se)',
+	'grouppage-abusefilter' => '{{ns:project}}:Ricandjeus des passetes',
+	'grouppage-accountcreator' => '{{ns:project}}:Manaedjeus',
+	'grouppage-autopatroller' => '{{ns:project}}:Robots naxheus',
+	'grouppage-autoreviewer' => '{{ns:project}}:Ricoridjreces otomatikes',
+	'grouppage-bigexport' => "{{ns:project}}:Grands epoirteus d' pådjes",
+	'grouppage-founder' => '{{ns:project}}:Mwaisse-manaedjeus',
+	'grouppage-import' => "{{ns:project}}:Apoirteus d' pådjes",
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP nén rboutåve',
+	'grouppage-rollbacker' => '{{ns:project}}:Ridisfijheus',
+	'grouppage-transwiki' => "{{ns:project}}:Apoirteus d' pådjes d' èn ôte wiki",
+	'grouppage-uploader' => '{{ns:project}}:Eberweteus',
 	'group-steward' => 'Mwaisse-manaedjeus tot avå',
+	'group-sysadmin' => 'Manaedjeus',
+	'group-Global_bot' => 'Programeus totavå',
+	'group-Global_rollback' => 'Ridisfijheus totavå',
+	'group-Ombudsmen' => 'Arindjeus des bidons',
+	'group-Staff' => 'Eployîs',
 	'group-steward-member' => 'mwaisse-manaedjeu tot avå',
+	'group-sysadmin-member' => 'Manaedjeu(se)',
+	'group-Global_bot-member' => 'Programeu(se) totavå',
+	'group-Global_rollback-member' => 'Ridisfijheu(se) totavå',
+	'group-Ombudsmen-member' => 'Arindjeu(se) des bidons',
+	'group-Staff-member' => 'Eployî, eployeye',
+	'group-coder' => "Fijheus d' côdes",
+	'group-coder-member' => 'Fijheu(se) di côdes',
+	'group-inactive' => "Uzeu ki n' boutèt nén",
+	'group-inactive-member' => "Uzeu(se) ki n' boute nén",
+	'grouppage-inactive' => "{{ns:project}}:Uzeus ki n' boutnut nén",
+	'wikimedia-copyright' => "Les tecses polèt esse ricopyîs dizo l' [http://creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons''\" atribucion pårtaedje a l’ idintike 3.0]\".
+Loukîz les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
+	'wikimedia-copyrightwarning' => "Si vos clitchîz so «Schaper l' pådje», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;
+[http://creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [http://www.gnu.org/copyleft/fdl.html GFDL]. 
+Et esse sifwaitmint d' acoird d’ esse ricnoxhou (-owe) come sicrijheu(se) di ces racsegnes la, pol moens pa ene hårdêye ou èn URL aviè l’ årtike ki vos avoz scrît ou ki vos î avoz bodjî. 
+Loukîz les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
+	'wikimedia-editpage-tos-summary' => "Si vos n' vôrîz nén, télfeye, ki vos scrijhaedjes fouxhénxhe ricandjîs, et spårdous totavå, adon, n' elzès metoz nén droci. 
+Tant k' ås tecses ki n' serént nén da vosse, po les riscrire cial, i dvèt esse ricopiåves sorlon les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d' eployaedje håynêyes vaici]. 
+Eto seroz vos d' acoird po shuve totes les clawes di cisse licince la.",
 );
 
 /** Waray (Winaray)
