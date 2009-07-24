@@ -471,6 +471,7 @@ $messages['arz'] = array(
 	'group-autopatroller' => 'اوتوباترولارز',
 	'group-autoreviewer' => 'اوتوريفيورات',
 	'group-bigexport' => 'المصدرين الكبار',
+	'group-confirmed' => 'يوزرات متأكدين',
 	'group-founder' => 'مؤسسين',
 	'group-import' => 'مستوردين',
 	'group-ipblock-exempt' => 'مستثنيين من منع الااى بى',
@@ -481,6 +482,7 @@ $messages['arz'] = array(
 	'group-autopatroller-member' => 'اوتوباترولار',
 	'group-autoreviewer-member' => 'مراجع اوتوماتيكى',
 	'group-bigexport-member' => 'مصدر كبير',
+	'group-confirmed-member' => 'يوزر متأكد',
 	'group-founder-member' => 'مؤسس',
 	'group-import-member' => 'مستورد',
 	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى',
@@ -491,6 +493,7 @@ $messages['arz'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:اوتوباترولارز',
 	'grouppage-autoreviewer' => '{{ns:project}}:مراجعين اوتوماتيكيين',
 	'grouppage-bigexport' => '{{ns:project}}:مصدرين كبار',
+	'grouppage-confirmed' => '{{ns:project}}:يوزرات متأكدين',
 	'grouppage-founder' => '{{ns:project}}:مؤسسين',
 	'grouppage-import' => '{{ns:project}}:مستوردين',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الااى بى',
@@ -522,7 +525,8 @@ $messages['arz'] = array(
 بص على <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
 	'ikimedia-copyrightwarning' => 'بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [http://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [http://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
 أنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.',
-	'ikimedia-editpage-tos-summary' => 'من فضلك لاحظ ان كل المساهمات فى {{SITENAME}} بتتنشر حسب شروط ترخيص $2 (بص على $1 علشان تعرف  تفاصيل اكتر), لو مش عايز كتابتك تتعدل او تتوزع من غير مقابل و بدون اذنك ، ما تحطهاش هنا. .لو أنك ماكتبتش كتابتك بنفسك، فيجب يكون متوفر تحت شروط متوافقة مع [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام]، وأنت توافق على اتباع أى متطلبات ترخيص متعلقة',
+	'ikimedia-editpage-tos-summary' => 'لو ماكنتش عايز كتاباتك تتعدل و تتوزع بحريه ، لو سمحت ما تحطهاش هنا.
+لو ما كنتش انتا اللى كات الكلام دا بنفسك, فلازم يكون متوفر تحت شروط متوافقه مع[http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستعمال] ، و انك بتوافق انك تلتزم متطلبات ترخيص ليها علاقه..',
 );
 
 /** Assamese (অসমীয়া)
@@ -1626,6 +1630,7 @@ Vi konsentas esti agnoskita de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo
 );
 
 /** Spanish (Español)
+ * @author AlimanRuna
  * @author Ascánder
  * @author Crazymadlover
  * @author Dferg
@@ -3269,6 +3274,7 @@ $messages['jv'] = array(
 
 /** Georgian (ქართული)
  * @author Alsandro
+ * @author David1010
  * @author Malafaya
  * @author Sopho
  * @author Temuri rajavi
@@ -3285,6 +3291,7 @@ $messages['ka'] = array(
 	'group-autopatroller' => 'ავტომეპატრულები',
 	'group-autoreviewer' => 'ავტომხილველები',
 	'group-bigexport' => 'დიდი ექსპორტორები',
+	'group-confirmed' => 'დადასტურებული მომხმარებლები',
 	'group-founder' => 'დამაარსებლები',
 	'group-import' => 'იმპორტირებე',
 	'group-ipblock-exempt' => 'IP-ბლოკირებების გამონაკლისები',
@@ -3295,6 +3302,7 @@ $messages['ka'] = array(
 	'group-autopatroller-member' => 'ავტომოპატრულე',
 	'group-autoreviewer-member' => 'ავტომხილველი',
 	'group-bigexport-member' => 'დიდი ექსპორტორი',
+	'group-confirmed-member' => 'დადასტურებული მომხმარებელი',
 	'group-founder-member' => 'დამაარსებელი',
 	'group-import-member' => 'იმპორტორი',
 	'group-ipblock-exempt-member' => 'IP ბლოკირების გამონაკლისები',
@@ -3305,6 +3313,7 @@ $messages['ka'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:ავტომეპატრულე',
 	'grouppage-autoreviewer' => '{{ns:project}}:ავტომხილველები',
 	'grouppage-bigexport' => '{{ns:project}}:დიდი ექსპორტიორები',
+	'grouppage-confirmed' => '{{ns:project}}:დადასტურებული მომხმარებლები',
 	'grouppage-founder' => '{{ns:project}}:დამაარსებლები',
 	'grouppage-import' => '{{ns:project}}:იმპორტიორები',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-დაბლოკვების გამონაკლისები',
@@ -3630,6 +3639,7 @@ $messages['lb'] = array(
 	'group-abusefilter' => 'Editeure vu Mëssbrauchsfilteren',
 	'group-accountcreator' => 'Benotzer déi Benotzerkonten uleeën däerfen',
 	'group-autopatroller' => 'Benotzer déi selwer iwwerkucken',
+	'group-bigexport' => 'Grouss Exportateuren',
 	'group-confirmed' => 'Confirméiert Benotzer',
 	'group-founder' => 'Grënner',
 	'group-import' => 'Importateuren',
@@ -3648,6 +3658,7 @@ $messages['lb'] = array(
 	'group-transwiki-member' => 'Transwiki-Importateur',
 	'grouppage-abusefilter' => '{{ns:project}}:Editeure vu Mëssbrauchsfilteren',
 	'grouppage-accountcreator' => '{{ns:project}}:Benotzer déi Benotzerkonten uleeën däerfen',
+	'grouppage-bigexport' => '{{ns:project}}:Grouss Exportateuren',
 	'grouppage-confirmed' => '{{ns:project}}:Confirméiert Benotzer',
 	'grouppage-founder' => '{{ns:project}}:Grënner',
 	'grouppage-import' => '{{ns:project}}:Importateuren',
@@ -4509,6 +4520,7 @@ $messages['nn'] = array(
 	'group-autopatroller' => 'Automatisk godkjende bidrag',
 	'group-autoreviewer' => 'Automatiske granskarar',
 	'group-bigexport' => 'Store eksportørar',
+	'group-confirmed' => 'Stadfesta brukarar',
 	'group-founder' => 'Grunnleggarar',
 	'group-import' => 'Importørar',
 	'group-ipblock-exempt' => 'Unntak frå IP-blokkering',
@@ -4519,6 +4531,7 @@ $messages['nn'] = array(
 	'group-autopatroller-member' => 'automatisk godkjende bidrag',
 	'group-autoreviewer-member' => 'automeldar',
 	'group-bigexport-member' => 'stor eksportør',
+	'group-confirmed-member' => 'stadfesta brukar',
 	'group-founder-member' => 'grunnleggar',
 	'group-import-member' => 'importør',
 	'group-ipblock-exempt-member' => 'Unteke frå IP-blokkering',
@@ -4529,6 +4542,7 @@ $messages['nn'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:Automatisk godkjende bidrag',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske granskarar',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
+	'grouppage-confirmed' => '{{ns:project}}:Stadfeste brukarar',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
 	'grouppage-import' => '{{ns:project}}:Importørar',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
@@ -5060,6 +5074,14 @@ $messages['qu'] = array(
 	'group-Staff-member' => "llamk'aqninkuna",
 	'group-coder' => 'Wakichi qillqaqkuna',
 	'group-coder-member' => 'wakichi qillqaq',
+	'ikimedia-copyright' => 'Kay qillqataqa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> nisqapi ch\'uyanchasqa saqillaykamam chaskinki;
+yapasqa phatakunachá kanqaku.
+<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Llamk\'apuypaq phatakuna</a> p\'anqapi qhaway astawan willasunaykipaq.',
+	'ikimedia-copyrightwarning' => "Kay qillqata waqaychaspaykiqa, llamk'asqaykikunata mana kutinalla [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] nisqa saqillayman, [http://www.gnu.org/copyleft/fdl.html GFDL] nisqa saqillaymanpas saqimpunki.
+Arí ninki musuq llamk'apuqkunap qillqasqaykimanta willaspan mast'arinanman, llikapi tiyaypura llamk'apusqayki p'anqaman t'inkimuqwan, chaytaq lliwmanta aswan pisi.
+[http://wikimediafoundation.org/wiki/Terms_of_Use Llamk'apuypaq phatakuna] p'anqapi astawan willasunaykipaq qhaway.",
+	'ikimedia-editpage-tos-summary' => "Llamk'asqaykikunata huk runakunap allinchayninta qispilla mast'ariyninta mana munaspaykiqa, ama kayman qillqamuychu.
+Qamtaq kayta mana qillqarqaptiykiqa, kay qillqa [http://wikimediafoundation.org/wiki/Terms_of_Use llamk'apuypaq phatakuna] nisqapi ch'uyanchasqakama saqillasqa kananmi, qampataq chaypi ima saqillana phata kaqkunaman arí ninaykim.",
 );
 
 /** Tarifit (Tarifit)
@@ -6180,7 +6202,7 @@ $messages['tr'] = array(
 	'group-Global_bot' => 'Küresel botlar',
 	'group-Global_rollback' => 'Küresel geri döndürücüler',
 	'group-Ombudsmen' => 'Bağımsız hakemler',
-	'group-Staff' => 'Hizmetli',
+	'group-Staff' => 'Görevli',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'Sistem yöneticisi',
 	'group-Global_bot-member' => 'küresel bot',
