@@ -1030,7 +1030,7 @@ $messages['ca'] = array(
 	'group-inactive-member' => 'usuari inactiu',
 	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
 	'wikimedia-copyright' => 'El text està disponible sota la <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
-Vegeu les <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">condicions d\'ús</a> per a més informació.',
+Vegeu les <a href="http://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
 	'wikimedia-copyrightwarning' => "Quan deseu, esteu acceptant alliberar irrevocablement la vostra contribució sota la [http://creativecommons.org/licenses/by-sa/3.0/deed.ca Llicència de Creative Commons Reconeixement/Compartir-Igual 3.0] i la [http://www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu ser atribuït, com a mínim, a través d'un hiperenllaç o URL a la pàgina on esteu contribuint.
 Vegeu les [http://wikimediafoundation.org/wiki/Terms_of_Use condicons d'ús] per a més informació.",
@@ -3454,6 +3454,7 @@ $messages['km'] = array(
 	'group-coder-member' => 'អ្នកសរសេរកូដ',
 	'group-inactive' => 'ក្រុម​អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
 	'group-inactive-member' => 'អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
+	'grouppage-inactive' => '{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម',
 );
 
 /** Kannada (ಕನ್ನಡ)
@@ -3653,7 +3654,7 @@ $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/lb',
 	'sitesupport' => 'Donatiounen',
-	'tooltip-n-sitesupport' => 'Ënnerstetzt eis',
+	'tooltip-n-sitesupport' => 'Ënnerstëtzt eis',
 	'group-abusefilter' => 'Editeure vu Mëssbrauchsfilteren',
 	'group-accountcreator' => 'Benotzer déi Benotzerkonten uleeën däerfen',
 	'group-autopatroller' => 'Benotzer déi selwer iwwerkucken',
@@ -4082,10 +4083,14 @@ $messages['mk'] = array(
  * @author לערי ריינהארט
  */
 $messages['ml'] = array(
+	'wikimediamessages-desc' => 'വിക്കിമീഡിയയുമായി ബന്ധപ്പെട്ട സന്ദേശങ്ങള്‍',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ml',
 	'sitesupport' => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
+	'group-accountcreator' => 'അക്കൗണ്ട് സ്രഷ്ടാക്കള്‍',
 	'group-steward' => 'സ്റ്റ്യൂവാര്‍ഡുകള്‍',
+	'group-Global_bot' => 'ആഗോള യന്ത്രങ്ങള്‍',
+	'group-steward-member' => 'സ്റ്റ്യൂവാര്‍ഡ്',
 	'wikimedia-copyright' => 'ഈ താള്‍ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമണ്‍സ് ആട്രിബ്യൂഷന്‍/ഷെയര്‍-എലൈക്ക് പകര്‍പ്പവകാശ നിയമത്തിനു കീഴില്‍</a> ലഭ്യമാണ്. കൂടുതല്‍ നിബന്ധനകള്‍ ചിലപ്പോള്‍ ഉണ്ടാവാം. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">നിബന്ധനാ പ്രമാണം</a> കാണുക.',
 	'wikimedia-copyrightwarning' => 'സേവ് ചെയ്യുന്നതിനു മുന്‍പ്, നിങ്ങള്‍ എഴുതിച്ചേര്‍ത്തത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമണ്‍സ്/ഷെയര്‍ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എല്‍.] എന്നീ അനുമതിപത്രങ്ങള്‍ പ്രകാരം പിന്നീട് മാറ്റാന്‍ പറ്റാത്തവിധം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം. നിങ്ങള്‍ മാറ്റങ്ങള്‍ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവര്‍, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പര്‍ലിങ്കോ യു.ആര്‍.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നല്‍കുമെന്നും മനസിലാക്കിയിരിക്കണം. 
 കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗിക്കാനുള്ള നിബന്ധനകള്‍] കാണുക.',
@@ -4454,6 +4459,7 @@ $messages['new'] = array(
 
 /** Dutch (Nederlands)
  * @author Mwpnl
+ * @author Niels
  * @author Pahles
  * @author SPQRobin
  * @author Siebrand
@@ -4520,7 +4526,7 @@ $messages['nl'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inactieve gebruikers',
 	'wikimedia-copyright' => 'De tekst is beschikbaar onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamsvermelding/Gelijk delen</a>.
 Het is mogelijk dat aanvullende voorwaarden van toepassing zijn.
-Zie de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Algemene Voorwaarden</a> voor meer informatie.',
+Zie de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Gebruiksvoorwaarden</a> voor meer informatie.',
 	'wikimedia-copyrightwarning' => 'Door uw bewerking op te slaan, gaat u akkoord met het onherroepelijk vrijgeven van uw bijdrage onder de licentie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamsvermelding/Gelijk delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL].
 U gaat ermee akkoord door hergebruikers minimaal genoemd te worden via een hyperlink of URL naar de pagina waaraan u bijdraagt.
 Zie de [http://wikimediafoundation.org/wiki/Terms_of_Use Algemene Voorwaarden] voor meer informatie.',
