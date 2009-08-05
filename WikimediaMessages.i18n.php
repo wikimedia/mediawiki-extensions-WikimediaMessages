@@ -2833,7 +2833,9 @@ $messages['hu'] = array(
 	'group-abusefilter' => 'vandálszűrő-szerkesztők',
 	'group-accountcreator' => 'fióklétrehozók',
 	'group-autopatroller' => 'automatikus járőrök',
+	'group-autoreviewer' => 'automatikusan megtekintők',
 	'group-bigexport' => 'nagy mennyiségben exportálók',
+	'group-confirmed' => 'megerősített szerkesztők',
 	'group-founder' => 'alapítók',
 	'group-import' => 'importálók',
 	'group-ipblock-exempt' => 'IP-blokkok alól mentesülők',
@@ -2842,7 +2844,9 @@ $messages['hu'] = array(
 	'group-abusefilter-member' => 'vandálszűrő-szerkesztő',
 	'group-accountcreator-member' => 'fióklétrehozó',
 	'group-autopatroller-member' => 'automatikus járőr',
+	'group-autoreviewer-member' => 'automatikusan megtekintő',
 	'group-bigexport-member' => 'nagy mennyiségben exportáló',
+	'group-confirmed-member' => 'megerősített szerkesztő',
 	'group-founder-member' => 'alapító',
 	'group-import-member' => 'importáló',
 	'group-ipblock-exempt-member' => 'IP-blokkok alól mentesülő',
@@ -2851,7 +2855,9 @@ $messages['hu'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:Vandálszűrő-szerkesztők',
 	'grouppage-accountcreator' => '{{ns:project}}:Fióklétrehozók',
 	'grouppage-autopatroller' => '{{ns:project}}:Automatikus járőrök',
+	'grouppage-autoreviewer' => '{{ns:project}}:Automatikusan megtekintők',
 	'grouppage-bigexport' => '{{ns:project}}:Nagy mennyiségben exportálók',
+	'grouppage-confirmed' => '{{ns:project}}:Megerősített szerkesztők',
 	'grouppage-founder' => '{{ns:project}}:Alapítók',
 	'grouppage-import' => '{{ns:project}}:Importálók',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Mentesülés az IP-blokkok alól',
@@ -3082,6 +3088,7 @@ $messages['is'] = array(
  * @author Melos
  * @author Nemo bis
  * @author Pietrodn
+ * @author Stefano-c
  */
 $messages['it'] = array(
 	'wikimediamessages-desc' => 'Messaggi specifici di Wikimedia',
@@ -3092,6 +3099,7 @@ $messages['it'] = array(
 	'group-accountcreator' => 'Creatori di account',
 	'group-autopatroller' => 'Autopatroller',
 	'group-bigexport' => 'Esportatori in blocco',
+	'group-confirmed' => 'Utenti confermati',
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Importatori',
 	'group-ipblock-exempt' => 'esente dal blocco IP',
@@ -3101,6 +3109,7 @@ $messages['it'] = array(
 	'group-accountcreator-member' => 'creatore di account',
 	'group-autopatroller-member' => 'autopatroller',
 	'group-bigexport-member' => 'esportatore in blocco',
+	'group-confirmed-member' => 'utente confermato',
 	'group-founder-member' => 'fondatore',
 	'group-import-member' => 'importatore',
 	'group-ipblock-exempt-member' => 'esente dal blocco IP',
