@@ -372,6 +372,7 @@ $messages['ang'] = array(
 );
 
 /** Arabic (العربية)
+ * @author Ciphers
  * @author Meno25
  */
 $messages['ar'] = array(
@@ -384,6 +385,7 @@ $messages['ar'] = array(
 	'group-autopatroller' => 'مراجعون تلقائيون',
 	'group-autoreviewer' => 'مراجعون تلقائيون',
 	'group-bigexport' => 'مصدرون كبار',
+	'group-confirmed' => 'مستخدمون مؤكدون',
 	'group-founder' => 'مؤسسون',
 	'group-import' => 'مستوردون',
 	'group-ipblock-exempt' => 'مستثنون من منع الأيبي',
@@ -394,6 +396,7 @@ $messages['ar'] = array(
 	'group-autopatroller-member' => 'مراجع تلقائي',
 	'group-autoreviewer-member' => 'مراجع تلقائي',
 	'group-bigexport-member' => 'مصدر كبير',
+	'group-confirmed-member' => 'مستخدم مؤكد',
 	'group-founder-member' => 'مؤسس',
 	'group-import-member' => 'مستورد',
 	'group-ipblock-exempt-member' => 'مستثنى من منع الأيبي',
@@ -404,6 +407,7 @@ $messages['ar'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:مراجعون تلقائيون',
 	'grouppage-autoreviewer' => '{{ns:project}}:مراجع تلقائي',
 	'grouppage-bigexport' => '{{ns:project}}:مصدرون كبار',
+	'grouppage-confirmed' => '{{ns:project}}:مستخدمون مؤكدون',
 	'grouppage-founder' => '{{ns:project}}:مؤسسون',
 	'grouppage-import' => '{{ns:project}}:مستوردون',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الأيبي',
@@ -1719,16 +1723,24 @@ $messages['et'] = array(
 	'group-autopatroller' => 'Automaatsed patrullijad',
 	'group-founder' => 'Asutajad',
 	'group-import' => 'Importijad',
+	'group-ipblock-exempt' => 'IP-aadressi blokeerimise erandid',
+	'group-rollbacker' => 'Tühistajad',
 	'group-autopatroller-member' => 'automaatne patrullija',
 	'group-founder-member' => 'asutaja',
 	'group-import-member' => 'importija',
+	'group-rollbacker-member' => 'tühistaja',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-aadressi blokeerimise erandid',
 	'group-steward' => 'Stjuuardid',
 	'group-sysadmin' => 'Süsteemiülemad',
 	'group-Global_bot' => 'Globaalsed robotid',
+	'group-Global_rollback' => 'Globaalsed tühistajad',
+	'group-Ombudsmen' => 'Õigusvahemehed',
 	'group-Staff' => 'Koosseis',
 	'group-steward-member' => 'stjuuard',
 	'group-sysadmin-member' => 'süsteemiülem',
 	'group-Global_bot-member' => 'globaalne robot',
+	'group-Global_rollback-member' => 'globaalne tühistaja',
+	'group-Ombudsmen-member' => 'õigusvahemees',
 	'group-Staff-member' => 'koosseisu liige',
 	'wikimedia-copyright' => 'Tekst on kasutatav <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsentsi tingimustel;
 sellele võivad lisanduda täiendavad tingimused.
@@ -3249,6 +3261,7 @@ $messages['jv'] = array(
 	'group-autopatroller' => 'Patroli otomatis',
 	'group-autoreviewer' => 'Pamriksa otomatis',
 	'group-bigexport' => 'Èksportir gedhé',
+	'group-confirmed' => 'Panganggo wis dikonfirmasi',
 	'group-founder' => 'Pendhiri',
 	'group-import' => 'Importir',
 	'group-ipblock-exempt' => 'Pambébasan saka pamblokiran IP',
@@ -3259,6 +3272,7 @@ $messages['jv'] = array(
 	'group-autopatroller-member' => 'patroli otomatis',
 	'group-autoreviewer-member' => 'pamriksa otomatis',
 	'group-bigexport-member' => 'èksportir gedhé',
+	'group-confirmed-member' => 'panganggo wis dikonfirmasi',
 	'group-founder-member' => 'Pandhiri',
 	'group-import-member' => 'importir',
 	'group-ipblock-exempt-member' => 'Pambébasan saka pamblokiran IP',
@@ -3269,6 +3283,7 @@ $messages['jv'] = array(
 	'grouppage-autopatroller' => '{{ns:project}}:Patroli otomatis',
 	'grouppage-autoreviewer' => '{{ns:project}}:Pamriksa otomatis',
 	'grouppage-bigexport' => '{{ns:project}}:Èksportir gedhé',
+	'grouppage-confirmed' => '{{ns:project}}:Panganggo wis dikonfirmasi',
 	'grouppage-founder' => '{{ns:project}}:Pandhiri',
 	'grouppage-import' => '{{ns:project}}:Importir',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Pambébasan saka pamblokiran IP',
@@ -3297,6 +3312,10 @@ $messages['jv'] = array(
 	'group-inactive' => 'Panganggo ora aktif',
 	'group-inactive-member' => 'panganggo ora aktif',
 	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
+	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="http://creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
+	'wikimedia-copyrightwarning' => 'Kanthi nge-klik tombol simpen, panjenengan sarujuk nglepasaken kontribusi panjenengan salajengipun wonten ing saandhaping [http://creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] lan [http://www.gnu.org/copyleft/fdl.html GFDL]. Panjenengan sarujuk dipun-paringi krédit déning panganggé sanès, sakbotenipun, lumantar pranala utawi URL dhumateng kaca ingkang panjenengan kontribusèkaken. Pirsani [http://wikimediafoundation.org/wiki/Terms_of_Use Katentuan Pangginaan] supados langkung gamblang.',
+	'wikimedia-editpage-tos-summary' => 'Manawi panjenengan boten ngersakaken seratan panjenengan bakal dipunsuntig lan dipunsebar malih manawi dipunkersakaken, sampun ngantos ngirim seratan ing ngriki.
+Manawi punika sanès seratan panjenengan piyambak, seratan punika kedah kasediakaken wonten ing saandhaping [http://wikimediafoundation.org/wiki/Terms_of_Use Katentuan pangginaan], lan panjenengan sarujuk manut dhumateng sadaya persaratan lisènsi ingkang kagandhèng.',
 );
 
 /** Georgian (ქართული)
