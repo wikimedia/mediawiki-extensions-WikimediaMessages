@@ -888,6 +888,7 @@ $messages['br'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'Roadoù',
 	'tooltip-n-sitesupport' => "Harpit ac'hanomp",
+	'group-abusefilter' => 'Aozerioù siloù dinoazhañ',
 	'group-accountcreator' => 'Krouerien kontoù',
 	'group-founder' => 'Diazezourien',
 	'group-import' => 'Enporzhier',
@@ -1518,6 +1519,7 @@ $messages['el'] = array(
 	'group-autopatroller' => 'Αυτόματοι περίπολοι',
 	'group-autoreviewer' => 'Αυτοελεγκτές',
 	'group-bigexport' => 'Μεγάλοι εξαγωγείς',
+	'group-confirmed' => 'Eπιβεβαιωμένοι χρήστες',
 	'group-founder' => 'Ιδρυτές',
 	'group-import' => 'Εισαγωγείς',
 	'group-ipblock-exempt' => 'Απαλλαγές από φραγή IP',
@@ -1528,6 +1530,7 @@ $messages['el'] = array(
 	'group-autopatroller-member' => 'αυτόματη περίπολος',
 	'group-autoreviewer-member' => 'αυτοελεγκτής',
 	'group-bigexport-member' => 'Μεγάλος εξαγωγέας',
+	'group-confirmed-member' => 'επιβεβαιωμένος χρήστης',
 	'group-founder-member' => 'Ιδρυτής',
 	'group-import-member' => 'εισαγωγέας',
 	'group-ipblock-exempt-member' => 'απαλλαγή από φραγή IP',
@@ -2041,7 +2044,7 @@ $messages['fr'] = array(
 	'group-inactive' => 'Utilisateurs inactifs',
 	'group-inactive-member' => 'utilisateur inactif',
 	'grouppage-inactive' => '{{ns:project}}:Utilisateurs inactifs',
-	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="http://creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons paternité - partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">conditions d’utilisation</a> pour plus de détails.',
+	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité - partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="http://wikimediafoundation.org/wiki/conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
 	'wikimedia-copyrightwarning' => 'En cliquant sur « publier », vous acceptez de placer irrévocablement votre contribution sous [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution partage à l’identique 3.0] et [http://www.gnu.org/copyleft/fdl.html GFDL]. Vous acceptez d’être crédité par les ré-utilisateurs au minimum via un hyperlien ou une URL vers l’article sur lequel vous contribuez. Voyez les [http://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation] pour plus de détails.',
 	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [http://wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
 );
@@ -2835,6 +2838,7 @@ $messages['ht'] = array(
 
 /** Hungarian (Magyar)
  * @author Dani
+ * @author Glanthor Reviol
  * @author Tgr
  */
 $messages['hu'] = array(
@@ -2895,7 +2899,7 @@ $messages['hu'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inaktív szerkesztők',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'A lap szövege <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
-	'wikimedia-copyrightwarning' => 'A szöveg elküldésével visszavonhatatlan engedélyt adsz annak felhasználására a [http://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [http://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási felételekben].',
+	'wikimedia-copyrightwarning' => 'A szöveg elküldésével visszavonhatatlan engedélyt adsz annak felhasználására a [http://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [http://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'wikimedia-editpage-tos-summary' => 'Ha nem akarod, hogy az írásodat könyörtelenül átszerkesszék vagy tetszés szerint terjesszék, ne küldd be! Ha nem te írtad, a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekkel] összeférő engedéllyel kell rendelkezned a beküldésére, és be kell tartanod az összes releváns licenckövetelményt.',
 );
 
@@ -4279,8 +4283,14 @@ $messages['mt'] = array(
 	'group-founder' => 'Fundaturi',
 	'group-import' => 'Importaturi',
 	'group-ipblock-exempt' => 'eżenzjonijiet tal-blokki tal-IP',
+	'group-bigexport-member' => 'esportatur kbir',
+	'group-confirmed-member' => 'utent konfermat',
+	'group-founder-member' => 'fundatur',
+	'group-import-member' => 'importatur',
 	'grouppage-founder' => '{{ns:project}}:Fundaturi',
 	'grouppage-import' => '{{ns:project}}:Importaturi',
+	'group-steward' => 'Stwetti',
+	'group-sysadmin' => 'Amministraturi tas-sistema',
 	'group-Global_bot' => 'Bots globali',
 	'group-Ombudsmen' => 'Ombudsmen',
 	'group-Staff' => 'Uffiċjal',
@@ -4295,10 +4305,10 @@ $messages['mt'] = array(
 	'wikimedia-copyright' => 'It-test huwa disponibbli taħt il-<a href="http://creativecommons.org/licenses/by-sa/3.0/">Liċenzja Creative Commons Attribution/Share-Alike</a>;
 termini addizjonali jistgħu japplikaw.
 Ara t-<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a> għal aktar dettalji.',
-	'wikimedia-copyrightwarning' => '<span class="plainlinks">Billi ssalva l-paġna, int tkun qed taqbel li tirrilaxxa rrevokabilment il-kontribuzzjoni tiegħek taħt il-liċenzja [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u l-[http://www.gnu.org/copyleft/fdl.html GFDL].
-Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta\' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi fuq.
-Ara t-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta\' użu] għal aktar dettalji.</span>',
-	'wikimedia-editpage-tos-summary' => '<span class="plainlinks">Jekk ma tridx li l-ktiba tiegħek tiġi modifikata jew ridistribwita skont dak mixtieq, allura ddaħħalhiex hawnhekk. Jekk inti ma ktibx din il-ktiba, din trid tkun disponibbli taħt it-termini konsistenti mat-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta\' użu], u trid taċċetta li ssegwi r-rekwiżiti kollha ta\' liċenzja.</span>',
+	'wikimedia-copyrightwarning' => "Billi ssalva l-paġna, int tkun qed taqbel li tirrilaxxa rrevokabilment il-kontribuzzjoni tiegħek taħt il-liċenzja [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u l-[http://www.gnu.org/copyleft/fdl.html GFDL].
+Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi fuq.
+Ara t-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu] għal aktar dettalji.",
+	'wikimedia-editpage-tos-summary' => "Jekk ma tridx li l-ktiba tiegħek tiġi modifikata jew ridistribwita skont dak mixtieq, allura ddaħħalhiex hawnhekk. Jekk inti ma ktibx din il-ktiba, din trid tkun disponibbli taħt it-termini konsistenti mat-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu], u trid taċċetta li ssegwi r-rekwiżiti kollha ta' liċenzja.",
 );
 
 /** Mirandese (Mirandés)
