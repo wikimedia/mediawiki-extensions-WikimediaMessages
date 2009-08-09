@@ -69,7 +69,7 @@ $messages['en'] = array(
 
 	'group-steward'         => 'Stewards',
 	'group-sysadmin'        => 'System administrators',
-	'group-Editinterface'   => 'Edit interface',
+	'group-Editinterface'   => 'Interface editors',
 	'group-Global_bot'      => 'Global bots',
 	'group-Global_rollback' => 'Global rollbackers',
 	'group-Ombudsmen'       => 'Ombudsmen',
@@ -77,7 +77,7 @@ $messages['en'] = array(
 
 	'group-steward-member'         => 'steward',
 	'group-sysadmin-member'        => 'system administrator',
-	'group-Editinterface-member'   => 'edit interface',
+	'group-Editinterface-member'   => 'interface editor',
 	'group-Global_bot-member'      => 'global bot',
 	'group-Global_rollback-member' => 'global rollbacker',
 	'group-Ombudsmen-member'       => 'ombudsman',
