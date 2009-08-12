@@ -4316,6 +4316,11 @@ $messages['ml'] = array(
 $messages['mn'] = array(
 	'sitesupport' => 'Хандив',
 	'tooltip-n-sitesupport' => 'Биднийг дэмжээрэй',
+	'group-rollbacker' => 'Буцаагчид',
+	'group-rollbacker-member' => 'буцаагч',
+	'grouppage-rollbacker' => '{{ns:project}}:Буцаагчид',
+	'group-Global_rollback' => 'Глобал буцаагчид',
+	'group-Global_rollback-member' => 'глобал буцаагч',
 );
 
 /** Moldavian (Молдовеняскэ)
@@ -6393,6 +6398,7 @@ $messages['te'] = array(
 	'sitesupport' => 'విరాళములు',
 	'tooltip-n-sitesupport' => 'మాకు తోడ్పడండి',
 	'group-accountcreator' => 'ఖాతా తయారీదార్లు',
+	'group-bigexport' => 'పెద్ద ఎగుమతిదారులు',
 	'group-confirmed' => 'నిర్థారిత వాడుకరులు',
 	'group-founder' => 'వ్యవస్థాపకులు',
 	'group-import' => 'దిగుమతిదార్లు',
