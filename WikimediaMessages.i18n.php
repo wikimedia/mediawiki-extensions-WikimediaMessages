@@ -2604,6 +2604,7 @@ $messages['haw'] = array(
 /** Hebrew (עברית)
  * @author Rotem Liss
  * @author Rotemliss
+ * @author YaronSh
  */
 $messages['he'] = array(
 	'wikimediamessages-desc' => 'הודעות המיוחדות לוויקימדיה',
@@ -2645,12 +2646,14 @@ $messages['he'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:מייבא בין-אתרי',
 	'group-steward' => 'דיילים',
 	'group-sysadmin' => 'מנהלי מערכת',
+	'group-Editinterface' => 'עורכי מנשקים',
 	'group-Global_bot' => 'בוטים גלובליים',
 	'group-Global_rollback' => 'משחזרים גלובליים',
 	'group-Ombudsmen' => 'נציבי תלונות הציבור',
 	'group-Staff' => 'אנשי צוות',
 	'group-steward-member' => 'דייל',
 	'group-sysadmin-member' => 'מנהל מערכת',
+	'group-Editinterface-member' => 'עורך מנשקים',
 	'group-Global_bot-member' => 'בוט גלובלי',
 	'group-Global_rollback-member' => 'משחזר גלובלי',
 	'group-Ombudsmen-member' => 'נציב תלונות הציבור',
@@ -4521,8 +4524,19 @@ $messages['my'] = array(
 $messages['myv'] = array(
 	'sitesupport' => 'Лезксйармаконь максома',
 	'tooltip-n-sitesupport' => 'Макста миненек нежедематарка',
+	'group-confirmed' => 'Кемекстань сёрмадыцят',
 	'group-founder' => 'Лувонь путыйть',
+	'group-confirmed-member' => 'кемекстань сёрмадыця',
+	'group-founder-member' => 'лувонь путый',
+	'group-import-member' => 'тевень совавтый',
+	'grouppage-confirmed' => '{{ns:project}}:Кемекстань сёрмадыцят',
+	'grouppage-founder' => '{{ns:project}}:Лувонь путыйть',
+	'grouppage-import' => '{{ns:project}}:Тевень совавтыйть',
+	'group-steward' => 'Туросторт',
 	'group-sysadmin' => 'Системань администраторт',
+	'group-Editinterface' => 'Интерчамань витнийть-петнийть',
+	'group-steward-member' => 'туростор',
+	'group-Editinterface-member' => 'интерчамань витний-петний',
 );
 
 /** Mazanderani (مَزِروني)
@@ -6776,6 +6790,7 @@ $messages['ug-latn'] = array(
 );
 
 /** Ukrainian (Українська)
+ * @author A1
  * @author AS
  * @author Ahonc
  * @author Ickis
@@ -6821,12 +6836,14 @@ $messages['uk'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-імпортери',
 	'group-steward' => 'Стюарди',
 	'group-sysadmin' => 'Системні адміністратори',
+	'group-Editinterface' => 'Редактори інтерфейсу',
 	'group-Global_bot' => 'Глобальні боти',
 	'group-Global_rollback' => 'Глобальні відкочувачі',
 	'group-Ombudsmen' => 'Омбудсмени',
 	'group-Staff' => 'Співробітники',
 	'group-steward-member' => 'стюард',
 	'group-sysadmin-member' => 'системний адміністратор',
+	'group-Editinterface-member' => 'редактор інтерфейсу',
 	'group-Global_bot-member' => 'глобальний бот',
 	'group-Global_rollback-member' => 'глобальний відкочувач',
 	'group-Ombudsmen-member' => 'омбудсмен',
