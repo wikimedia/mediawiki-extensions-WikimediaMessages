@@ -3707,6 +3707,7 @@ $messages['ko'] = array(
 	'group-Staff' => '임원',
 	'group-steward-member' => '사무장',
 	'group-sysadmin-member' => '시스템 관리자',
+	'group-Editinterface-member' => '인터페이스 에디터',
 	'group-Global_bot-member' => '글로벌 봇',
 	'group-Global_rollback-member' => '글로벌 롤배커',
 	'group-Ombudsmen-member' => '옴부즈맨',
@@ -4294,6 +4295,7 @@ $messages['mk'] = array(
  * @author Anoopan
  * @author Junaidpv
  * @author Meno25
+ * @author ShajiA
  * @author Shijualex
  * @author Vssun
  * @author לערי ריינהארט
@@ -4304,6 +4306,7 @@ $messages['ml'] = array(
 	'sitesupport' => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
 	'group-accountcreator' => 'അക്കൗണ്ട് സ്രഷ്ടാക്കള്‍',
+	'group-founder' => 'സ്ഥാപകര്‍',
 	'group-steward' => 'സ്റ്റ്യൂവാര്‍ഡുകള്‍',
 	'group-Global_bot' => 'ആഗോള യന്ത്രങ്ങള്‍',
 	'group-steward-member' => 'സ്റ്റ്യൂവാര്‍ഡ്',
@@ -6412,6 +6415,8 @@ $messages['te'] = array(
 	'sitesupport' => 'విరాళములు',
 	'tooltip-n-sitesupport' => 'మాకు తోడ్పడండి',
 	'group-accountcreator' => 'ఖాతా తయారీదార్లు',
+	'group-autopatroller' => 'ఆటోపాట్రోలర్స్',
+	'group-autoreviewer' => 'ఆటోరివ్యూవర్స్',
 	'group-bigexport' => 'పెద్ద ఎగుమతిదారులు',
 	'group-confirmed' => 'నిర్థారిత వాడుకరులు',
 	'group-founder' => 'వ్యవస్థాపకులు',
@@ -6420,6 +6425,8 @@ $messages['te'] = array(
 	'group-rollbacker' => 'రద్దుచేసినవారు',
 	'group-transwiki' => 'ట్రాన్స్ వికీ దిగుమతిదారులు',
 	'group-accountcreator-member' => 'ఖాతా సృష్టికర్త',
+	'group-autopatroller-member' => 'ఆటోపాట్రోలర్',
+	'group-autoreviewer-member' => 'ఆటోరివ్యూవర్',
 	'group-bigexport-member' => 'పెద్ద ఎగుమతిదారుడు',
 	'group-confirmed-member' => 'నిర్ధారించబడిన వాడుకరి',
 	'group-founder-member' => 'వ్యవస్థాపకుడు',
@@ -6428,6 +6435,7 @@ $messages['te'] = array(
 	'group-rollbacker-member' => 'రద్దుచేసినవారు',
 	'group-transwiki-member' => 'ట్రాన్స్ వికీ దిగుమతిదారుడు',
 	'grouppage-accountcreator' => '{{ns:project}}:ఖాతా సృష్టికర్తలు',
+	'grouppage-autoreviewer' => '{{ns:project|ప్రాజెక్టు}}: ఆటోరివ్యూవర్స్',
 	'grouppage-bigexport' => '{{ns:project}}:పెద్ద ఎగుమతిదారులు',
 	'grouppage-confirmed' => '{{ns:project}}:నిర్థారించబడిన వాడుకరులు',
 	'grouppage-founder' => '{{ns:project}}:వ్యవస్థాపకులు',
@@ -6442,6 +6450,7 @@ $messages['te'] = array(
 	'group-Ombudsmen' => 'అంబుడ్స్మెన్',
 	'group-Staff' => 'సిబ్బంది',
 	'group-steward-member' => 'స్టీవార్డు',
+	'group-sysadmin-member' => 'నిర్వహణాధికారి',
 	'group-Global_bot-member' => 'విశ్వ బాటు',
 	'group-Global_rollback-member' => 'విశ్వ వెనకకి మళ్లింపుదారు',
 	'group-Ombudsmen-member' => 'అంబుడ్స్మన్',
@@ -6702,11 +6711,13 @@ $messages['ts'] = array(
 );
 
 /** Tatar (Cyrillic) (Tatarça/Татарча (Cyrillic))
+ * @author Rinatus
  * @author Ерней
  */
 $messages['tt-cyrl'] = array(
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
+	'group-inactive' => 'Актив булмаган катнашучылар',
 );
 
 /** Tatar (Latin) (Tatarça/Татарча (Latin)) */
@@ -6914,12 +6925,14 @@ $messages['vec'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Inportadori transwiki',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Aministradori de sistema',
+	'group-Editinterface' => "Editori de l'interfacia",
 	'group-Global_bot' => 'Bot globali',
 	'group-Global_rollback' => 'Ripristinadori globali',
 	'group-Ombudsmen' => 'Ombudsman',
 	'group-Staff' => 'Staff',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'aministrador de sistema',
+	'group-Editinterface-member' => "editor de l'interfacia",
 	'group-Global_bot-member' => 'bot globale',
 	'group-Global_rollback-member' => 'ripristinador globale',
 	'group-Ombudsmen-member' => 'ombudsman',
