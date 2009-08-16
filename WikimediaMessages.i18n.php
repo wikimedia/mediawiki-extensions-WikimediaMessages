@@ -1120,12 +1120,13 @@ $messages['chr'] = array(
 
 /** Sorani (Arabic script) (‫کوردی (عەرەبی)‬)
  * @author Asoxor
+ * @author Ferhad y
  * @author Marmzok
  * @author رزگار
  */
 $messages['ckb-arab'] = array(
 	'wikimediamessages-desc' => 'پەیامە تایبەتەکانی ویکی‌مێدیا',
-	'sitesupport' => 'یارمەتی‌دان',
+	'sitesupport' => 'پشتیوانی لە ویکیپیدیا',
 	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',
 	'group-accountcreator' => 'دروست‌کەری هەژمارە',
 	'group-accountcreator-member' => 'درووست‌که‌ری هه‌ژماره‌',
@@ -6639,6 +6640,7 @@ $messages['tpi'] = array(
 /** Turkish (Türkçe)
  * @author Joseph
  * @author Karduelis
+ * @author Metal Militia
  */
 $messages['tr'] = array(
 	'wikimediamessages-desc' => 'Vikimedya özel mesajları',
@@ -6680,6 +6682,7 @@ $messages['tr'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Vikilerarası içe aktarıcılar',
 	'group-steward' => 'Kâhyalar',
 	'group-sysadmin' => 'Sistem yöneticileri',
+	'group-Editinterface' => 'Arayüzey editörleri',
 	'group-Global_bot' => 'Küresel botlar',
 	'group-Global_rollback' => 'Küresel geri döndürücüler',
 	'group-Ombudsmen' => 'Bağımsız hakemler',
@@ -6696,7 +6699,7 @@ $messages['tr'] = array(
 	'group-coder' => 'Kodlayıcılar',
 	'group-coder-member' => 'Kodlayıcı',
 	'group-inactive' => 'Etkin olmayan kullanıcılar',
-	'group-inactive-member' => 'etkin olmayan kullanıcı',
+	'group-inactive-member' => 'Etkin olmayan kullanıcı',
 	'grouppage-inactive' => '{{ns:project}}:Etkin olmayan kullanıcılar',
 	'shared-repo-name-shared' => 'Vikipedi Commons',
 	'wikimedia-copyright' => 'Metin <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakın.',
@@ -7378,7 +7381,7 @@ $messages['zh-hans'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活跃的用户',
 	'shared-repo-name-shared' => '维基共享资源',
 	'wikimedia-copyright' => '本站的全部文字在<a class="internal" href="{{localurle:Wikipedia:CC-by-sa-3.0协议文本}}" title="Wikipedia:CC-by-sa-3.0协议文本">知识共享 署名-相同方式共享 3.0协议</a>之条款下提供，附加条款亦可能应用。（请参阅<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>）<br />
-Wikipedia&reg;和维基百科标志是<a href="http://wikimediafoundation.org">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />维基媒体基金会是在美国佛罗里达州登记的501(c)(3)<a href="http://wikimediafoundation.org/wiki/%E8%B5%84%E5%8A%A9%E7%9A%84%E5%85%8D%E7%A8%8E%E6%94%BF%E7%AD%96">免税</a>、非营利、慈善机构。<br />',
+Wikipedia&reg;和维基百科标志是<a href="http://wikimediafoundation.org">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />维基媒体基金会是在美国佛罗里达州登记的501（c）（3）<a href="http://wikimediafoundation.org/wiki/%E8%B5%84%E5%8A%A9%E7%9A%84%E5%85%8D%E7%A8%8E%E6%94%BF%E7%AD%96">免税</a>、非营利、慈善机构。<br />',
 	'wikimedia-copyrightwarning' => "点击'''{{int:savearticle}}'''按钮以后，就表示您同意依據[[Wikipedia:CC-by-sa-3.0协议文本|'''CC-by-sa-3.0''']]和[[Wikipedia:GNU自由文档许可证文本|'''GFDL''']]不可逆轉地释出貢獻。如您不欲文章被其它用户编辑或转载，请勿提交。您的贡献内容一经提交，其他人在引用您的贡献内容时，即须通过超级链接或其它形式进行署名，参见我们的[[wmf:Terms of Use|使用条款]]。",
 	'wikimedia-editpage-tos-summary' => '请勿提交任何阁下不欲予人编辑或重新发布的内容。当提交非由阁下编写的内容时，请确保这些内容的版权与[[wmf:Terms_of_Use|使用条款]]一致，及阁下同意遵行一切相关的版权条款。',
 );
