@@ -240,6 +240,9 @@ $messages['af'] = array(
 	'grouppage-steward' => '{{ns:project}}:Waarde',
 	'group-coder' => 'Programmeerders',
 	'group-coder-member' => 'programmeerder',
+	'group-inactive' => 'Onaktiewe gebruikers',
+	'group-inactive-member' => 'onaktiewe gebruiker',
+	'grouppage-inactive' => '{{ns:project}}:Onaktiewe gebruikers',
 );
 
 /** Gheg Albanian (Gegë)
@@ -464,7 +467,10 @@ $messages['ar'] = array(
  */
 $messages['arc'] = array(
 	'sitesupport' => 'ܕܒܘܚ ܠܢ',
+	'group-founder-member' => 'ܫܬܐܣܢܐ',
+	'grouppage-founder' => '{{ns:project}}:ܫܬܐܣܢ̈ܐ',
 	'grouppage-import' => '{{ns:project}}:ܡܥܠܢ̈ܐ',
+	'group-sysadmin' => 'ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ',
 );
 
 /** Araucanian (Mapudungun)
@@ -4026,6 +4032,7 @@ $messages['lij'] = array(
 $messages['lmo'] = array(
 	'sitesupport' => 'Dunazziun',
 	'tooltip-n-sitesupport' => 'Dàss una man',
+	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [http://wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
 );
 
 /** Lingala (Lingála) */
@@ -6073,7 +6080,7 @@ $messages['sq'] = array(
 	'group-coder-member' => 'kodues',
 );
 
-/** Serbian Cyrillic ekavian (ћирилица)
+/** Serbian Cyrillic ekavian (Српски (ћирилица))
  * @author Millosh
  * @author Red Baron
  * @author Михајло Анђелковић
@@ -6116,7 +6123,7 @@ $messages['sr-ec'] = array(
 	'group-inactive-member' => 'неактиван корисник',
 );
 
-/** latinica (latinica)
+/** Serbian Latin ekavian (Srpski (latinica))
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -6728,7 +6735,7 @@ $messages['ts'] = array(
 	'tooltip-n-sitesupport' => 'Hi seketeli',
 );
 
-/** Tatar (Cyrillic) (Tatarça/Татарча (Cyrillic))
+/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
  * @author Rinatus
  * @author Ерней
  */
@@ -6738,7 +6745,7 @@ $messages['tt-cyrl'] = array(
 	'group-inactive' => 'Актив булмаган катнашучылар',
 );
 
-/** Tatar (Latin) (Tatarça/Татарча (Latin)) */
+/** Tatar (Latin) (Татарча/Tatarça (Latin)) */
 $messages['tt-latn'] = array(
 	'sitesupport' => 'Ximäyäçegä',
 );
