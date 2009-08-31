@@ -4229,6 +4229,13 @@ $messages['mg'] = array(
 	'group-inactive-member' => 'mpikambana tsy miasa',
 );
 
+/** Eastern Mari (Олык Марий)
+ * @author Amdf
+ */
+$messages['mhr'] = array(
+	'sitesupport' => 'Надыр',
+);
+
 /** Maori (Māori) */
 $messages['mi'] = array(
 	'sitesupport' => 'Koha',
@@ -5121,7 +5128,7 @@ $messages['pl'] = array(
 	'group-accountcreator-member' => 'twórca kont',
 	'group-autopatroller-member' => 'patrolujący automatycznie',
 	'group-autoreviewer-member' => 'automatycznie przeglądający',
-	'group-bigexport-member' => 'Masowy eksporter',
+	'group-bigexport-member' => 'masowy eksporter',
 	'group-confirmed-member' => 'zatwierdzony użytkownik',
 	'group-founder-member' => 'założyciel',
 	'group-import-member' => 'importer',
@@ -5157,7 +5164,7 @@ $messages['pl'] = array(
 	'group-coder' => 'Programiści',
 	'group-coder-member' => 'programista',
 	'group-inactive' => 'Użytkownicy nieaktywni',
-	'group-inactive-member' => 'Użytkownik nieaktywny',
+	'group-inactive-member' => 'użytkownik nieaktywny',
 	'grouppage-inactive' => '{{ns:project}}:Użytkownicy nieaktywni',
 	'wikimedia-copyright' => 'Tekst udostępniany na <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
 Zobacz szczegółowe informacje o <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystania</a>.',
