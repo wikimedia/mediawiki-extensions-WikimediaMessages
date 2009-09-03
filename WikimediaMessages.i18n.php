@@ -4699,8 +4699,12 @@ $messages['nds-nl'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/nds-nl',
 	'sitesupport' => 'Financiële steun',
 	'tooltip-n-sitesupport' => 'Gef oons geald',
+	'group-abusefilter' => 'misbruukfilterredacteuren',
 	'group-accountcreator' => 'gebrukeranmakers',
 	'group-autopatroller' => 'autopatrollers',
+	'group-autoreviewer' => 'auto-eindredactie',
+	'group-bigexport' => 'grote uutvoerders',
+	'group-confirmed' => 'bevestigen gebrukers',
 	'group-founder' => 'grondlegers',
 	'group-import' => 'invoerders',
 	'group-ipblock-exempt' => 'uutzunderingen van IP-adresblokkeringen',
@@ -4708,6 +4712,7 @@ $messages['nds-nl'] = array(
 	'group-transwiki' => 'transwiki-invoerders',
 	'group-accountcreator-member' => 'gebrukeranmaker',
 	'group-autopatroller-member' => 'autopatroller',
+	'group-confirmed-member' => 'bevestigen gebruker',
 	'group-founder-member' => 'grondleger',
 	'group-import-member' => 'invoerder',
 	'group-ipblock-exempt-member' => 'uutzundering van IP-adresblokkeringen',
@@ -5242,6 +5247,7 @@ $messages['ps'] = array(
  * @author Capmo
  * @author Crazymadlover
  * @author David0811
+ * @author Giro720
  * @author Lijealso
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
@@ -5286,12 +5292,14 @@ $messages['pt'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administradores de sistema',
+	'group-Editinterface' => 'Editores de interface',
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_rollback' => 'Revertedores globais',
 	'group-Ombudsmen' => 'Mediadores',
 	'group-Staff' => 'Pessoal',
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'administrador de sistema',
+	'group-Editinterface-member' => 'editor de interface',
 	'group-Global_bot-member' => 'robô global',
 	'group-Global_rollback-member' => 'reversor global',
 	'group-Ombudsmen-member' => 'mediador',
