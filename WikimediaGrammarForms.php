@@ -388,22 +388,27 @@ $wgGrammarForms['fi'] = array(
 	'genitive' => array(
 		'Wikiuutiset' => 'Wikiuutisten',
 		'Wikisitaatit' => 'Wikisitaattien',
+		'Wikimedia Suomi' => 'Wikimedia Suomen',
 	),
 	'partitive' => array(
 		'Wikiuutiset' => 'Wikiuutisia',
 		'Wikisitaatit' => 'Wikisitaatteja',
+		'Wikimedia Suomi' => 'Wikimedia Suomea',
 	),
 	'elative' => array(
 		'Wikiuutiset' => 'Wikiuutisista',
 		'Wikisitaatit' => 'Wikisitaateista',
+		'Wikimedia Suomi' => 'Wikimedia Suomesta',
 	),
 	'inessive' => array(
 		'Wikiuutiset' => 'Wikiuutisissa',
 		'Wikisitaatit' => 'Wikisitaateissa',
+		'Wikimedia Suomi' => 'Wikimedia Suomessa',
 	),
 	'illative' => array(
 		'Wikiuutiset' => 'Wikiuutisiin',
 		'Wikisitaatit' => 'Wikisitaatteihin',
+		'Wikimedia Suomi' => 'Wikimedia Suomeen',
 	),
 ); # fi
 
