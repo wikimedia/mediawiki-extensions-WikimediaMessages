@@ -864,6 +864,7 @@ $messages['bn'] = array(
 	'tooltip-n-sitesupport' => 'আমাদের সহায়তা করুন',
 	'group-accountcreator' => 'অ্যাকাউন্ট তৈরি করেন যারা',
 	'group-autopatroller' => 'স্বয়ংক্রীয়-পর্যবেক্ষকবৃন্দ',
+	'group-confirmed' => 'নিশ্চিতকৃত ব্যবহারকারী',
 	'group-founder' => 'উদ্যোক্তা',
 	'group-import' => 'আমদানীকারক',
 	'group-ipblock-exempt' => 'আইপি নিষেধাজ্ঞা রহিতকরণ',
@@ -877,12 +878,8 @@ $messages['bn'] = array(
 	'group-ipblock-exempt-member' => 'আইপি নিষেধাজ্ঞা রহিত',
 	'group-rollbacker-member' => 'রোলব্যাকার',
 	'group-transwiki-member' => 'ট্রান্সউইকি ইম্পোর্টার',
-	'grouppage-accountcreator' => '{{ns:project}}:হিসাব সৃষ্টিকারীগণ
-
-যারা ব্যবহারকারী হিসাব তৈরী করে।',
-	'grouppage-autopatroller' => '{{ns:project}}:স্বয়ংক্রীয় পর্যবেক্ষকগণ
-
-যারা গোষ্ঠীসমূহের পৃষ্ঠাগুলো পর্যবেক্ষন করে।',
+	'grouppage-accountcreator' => '{{ns:project}}:একাউন্ট সৃষ্টিকারীগণ',
+	'grouppage-autopatroller' => '{{ns:project}}:স্বয়ংক্রীয় পরীক্ষকগণ',
 	'grouppage-confirmed' => '{{ns:project}}:নিশ্চিতকৃত ব্যবহারকারীরা',
 	'grouppage-founder' => '{{ns:project}}:প্রতিষ্ঠাতাগণ',
 	'grouppage-import' => '{{ns:project}}:ইম্পোর্টারগণ',
@@ -908,6 +905,9 @@ $messages['bn'] = array(
 	'group-inactive' => 'নিস্ক্রিয় ব্যবহারকারী',
 	'group-inactive-member' => 'নিস্ক্রিয় ব্যবহারকারী',
 	'grouppage-inactive' => '{{ns:project}}:নিস্ক্রিয় ব্যবহারকারীগণ',
+	'wikimedia-copyright' => 'লেখাগুলো <a href="http://creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
+এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
+ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
 );
 
 /** Tibetan (བོད་ཡིག) */
