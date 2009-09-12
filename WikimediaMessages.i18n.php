@@ -2094,6 +2094,7 @@ $messages['fo'] = array(
 /** French (Français)
  * @author Crochet.david
  * @author Grondin
+ * @author Guillom
  * @author IAlex
  * @author Kropotkine 113
  * @author Meno25
@@ -2118,7 +2119,7 @@ $messages['fr'] = array(
 	'group-confirmed' => 'Utilisateurs confirmés',
 	'group-founder' => 'Fondateurs',
 	'group-import' => 'Importateurs',
-	'group-ipblock-exempt' => 'Exemptions de blocage d’IP',
+	'group-ipblock-exempt' => 'Exemptés de blocage d’IP',
 	'group-rollbacker' => 'Révocateurs',
 	'group-transwiki' => 'Importateurs transwiki',
 	'group-abusefilter-member' => 'modificateur de filtre antiabus',
@@ -2129,7 +2130,7 @@ $messages['fr'] = array(
 	'group-confirmed-member' => 'utilisateur confirmé',
 	'group-founder-member' => 'Fondateur',
 	'group-import-member' => 'Importateur',
-	'group-ipblock-exempt-member' => 'Exemption de blocage d’IP',
+	'group-ipblock-exempt-member' => 'Exempté de blocage d’IP',
 	'group-rollbacker-member' => 'Révocateur',
 	'group-transwiki-member' => 'Importateur transwiki',
 	'grouppage-abusefilter' => '{{ns:project}}:Modificateurs de filtre antiabus',
@@ -7061,12 +7062,14 @@ $messages['vep'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Importörad Transwikišpäi',
 	'group-steward' => 'Stüardad',
 	'group-sysadmin' => 'Sisteman administratorad',
+	'group-Editinterface' => 'Interfeisan redaktorad',
 	'group-Global_bot' => 'Globaližed botad',
 	'group-Global_rollback' => 'Globaližed endištajad',
 	'group-Ombudsmen' => 'Ombudsmenad',
 	'group-Staff' => 'projektan radnikad',
 	'group-steward-member' => 'stüard',
 	'group-sysadmin-member' => 'sisteman administratorad',
+	'group-Editinterface-member' => 'interfeisan redaktor',
 	'group-Global_bot-member' => 'globaline bot',
 	'group-Global_rollback-member' => 'globaline endištai',
 	'group-Ombudsmen-member' => 'ombudsmen',
