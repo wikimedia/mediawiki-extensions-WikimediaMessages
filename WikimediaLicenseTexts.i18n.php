@@ -54,6 +54,39 @@ $messages['qqq'] = array(
 	'wm-license-cc-conditions-attribution-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/deed.en on how this is used.",
 );
 
+/** Afrikaans (Afrikaans)
+ * @author Naudefj
+ */
+$messages['af'] = array(
+	'wm-license-cc-free' => 'U is vry:',
+);
+
+/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+ * @author EugeneZelenko
+ * @author Jim-by
+ */
+$messages['be-tarask'] = array(
+	'wikimedialicensetexts-desc' => 'Ліцэнзійныя паведамленьні фундацыі «Вікімэдыя»',
+	'wm-license-cc-wiki-link' => 'w:be-tarask:Creative Commons',
+	'wm-license-cc-attribution' => 'Указаньне аўтарства',
+	'wm-license-cc-by-1.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-free' => 'Вы можаце свабодна:',
+	'wm-license-cc-free-to-share-header' => 'дзяліцца',
+	'wm-license-cc-free-to-share-text' => 'капіяваць, распаўсюджваць і перадаваць гэты твор',
+	'wm-license-cc-free-to-remix-header' => 'ствараць вытворныя творы',
+	'wm-license-cc-free-to-remix-text' => 'адаптаваць твор',
+	'wm-license-cc-conditions' => 'Пры выкананьні наступных умоваў:',
+	'wm-license-cc-conditions-attribution-header' => 'указаньне аўтарства',
+	'wm-license-cc-conditions-share_alike-header' => 'распаўсюджваць на тых жа ўмовах',
+);
+
 /** Lower Sorbian (Dolnoserbski)
  * @author Michawiki
  */
@@ -86,6 +119,7 @@ $messages['dsb'] = array(
  * @author Omnipaedista
  */
 $messages['el'] = array(
+	'wm-license-cc-wiki-link' => 'w:el:Creative Commons',
 	'wm-license-cc-attribution' => 'Απόδοση',
 	'wm-license-cc-free' => 'Είστε ελεύθερος:',
 	'wm-license-cc-conditions-attribution-header' => 'απόδοση',
@@ -127,12 +161,40 @@ $messages['fr'] = array(
 	'wm-license-cc-free' => 'Vous êtes libre :',
 	'wm-license-cc-free-to-share-header' => 'de partager',
 	'wm-license-cc-free-to-share-text' => 'de copier, distribuer et transmettre cette œuvre',
+	'wm-license-cc-free-to-remix-header' => "d'adapter",
 	'wm-license-cc-free-to-remix-text' => "d'adapter cette œuvre",
 	'wm-license-cc-conditions' => 'Sous les conditions suivantes :',
 	'wm-license-cc-conditions-attribution-header' => 'attribution',
 	'wm-license-cc-conditions-attribution-text' => "Vous devez attribuer cette œuvre avec la manière spécifiée par l'auteur ou le concédant (mais pas dans un sens qui suggère qu'ils vous approuvent ou qu'ils approuvent l'utilisation de cette œuvre).",
 	'wm-license-cc-conditions-share_alike-header' => "partage à l'identique",
 	'wm-license-cc-conditions-share_alike-text' => "Si vous modifiez, transformez, ou vous basez sur cette œuvre, vous devez distribuer l'œuvre résultante sous la même licence ou une licence similaire à celle-ci.",
+);
+
+/** Galician (Galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'wikimedialicensetexts-desc' => 'Mensaxes de licenza da Wikimedia',
+	'wm-license-cc-wiki-link' => 'w:gl:Creative Commons',
+	'wm-license-cc-attribution' => 'Recoñecemento',
+	'wm-license-cc-by-1.0-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en recoñecemento xenérico 1.0]',
+	'wm-license-cc-by-2.0-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en recoñecemento xenérico 2.0]',
+	'wm-license-cc-by-2.5-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en recoñecemento xenérico 2.5]',
+	'wm-license-cc-by-3.0-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en recoñecemento 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en recoñecemento compartir igual xenérico 1.0]',
+	'wm-license-cc-by-sa-2.0-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en recoñecemento compartir igual xenérico 2.0]',
+	'wm-license-cc-by-sa-2.5-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en recoñecemento compartir igual xenérico 2.5]',
+	'wm-license-cc-by-sa-3.0-text' => 'Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en recoñecemento compartir igual 1.0 Unported]',
+	'wm-license-cc-free' => 'Vostede é libre de:',
+	'wm-license-cc-free-to-share-header' => 'compartir',
+	'wm-license-cc-free-to-share-text' => 'copiar, distribuír e difundir a obra',
+	'wm-license-cc-free-to-remix-header' => 'facer obras derivadas',
+	'wm-license-cc-free-to-remix-text' => 'adaptar a obra',
+	'wm-license-cc-conditions' => 'Baixo as seguintes condicións:',
+	'wm-license-cc-conditions-attribution-header' => 'recoñecemento',
+	'wm-license-cc-conditions-attribution-text' => 'Debe recoñecer a obra do xeito especificado polo autor ou o que lle pon a licenza (pero non de maneira que suxira que ten o seu apoio ou apoian o uso que fan da súa obra).',
+	'wm-license-cc-conditions-share_alike-header' => 'compartir igual',
+	'wm-license-cc-conditions-share_alike-text' => 'Se altera, transforma ou se basea nesta obra, poderá distribuír a obra resultante baixo a mesma licenza ou unha semellante a esta.',
 );
 
 /** Swiss German (Alemannisch)
@@ -159,6 +221,7 @@ $messages['gsw'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'Namennännig',
 	'wm-license-cc-conditions-attribution-text' => 'Du muesch dr Name nänne in däre Art un Wyys, wie s dr Autor oder Lizänzgeber spezifiziert het (aber nit uf e Art, wu verlangt, ass si Dii oder Dyy Gebruch vum Wärch unterstitze un guetheiße).',
 	'wm-license-cc-conditions-share_alike-header' => 'Wytergab unter glyche Bedingige',
+	'wm-license-cc-conditions-share_alike-text' => 'Wänn du des Wärch veränderesch, umwandlesch oder druf ufböusch, no derfsch s Ergebnis nume unter dr glyche Lizänz vereffetlige wie des.',
 );
 
 /** Upper Sorbian (Hornjoserbsce)
@@ -186,6 +249,60 @@ $messages['hsb'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Dyrbiš dźěło na wašnje připokazać, kotrež je awtor abo licencowar podał (ale nic na wašnje, kotrež da tukać, zo wón tebje abo twoje wužiwanje dźěła schwala).',
 	'wm-license-cc-conditions-share_alike-header' => 'dźělić',
 	'wm-license-cc-conditions-share_alike-text' => 'Jeli tute dźěło měnješ, přetworjuješ abo na njo natwarješ, móžeš hotowe dźěło jenož pod samsnej abo podobnej licencu kaž tuta rozšěrić.',
+);
+
+/** Hungarian (Magyar)
+ * @author Dani
+ */
+$messages['hu'] = array(
+	'wikimedialicensetexts-desc' => 'A Wikimedia licencszövegei',
+	'wm-license-cc-wiki-link' => 'w:hu:Creative Commons',
+	'wm-license-cc-attribution' => 'Nevezd meg!',
+	'wm-license-cc-by-1.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Nevezd meg! 1.0 Generic] licenc alapján használható fel.',
+	'wm-license-cc-by-2.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Nevezd meg! 2.0 Generic] licenc alapján használható fel.',
+	'wm-license-cc-by-2.5-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Nevezd meg! 2.5 Generic] licenc alapján használható fel.',
+	'wm-license-cc-by-3.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Nevezd meg! 3.0 Unported] licenc alapján használható fel.',
+	'wm-license-cc-by-sa-1.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Nevezd meg! – Így add tovább! 1.0 Generic] licenc alapján használható fel.',
+	'wm-license-cc-by-sa-2.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Nevezd meg! – Így add tovább! 2.0 Generic] licenc alapján használható fel.',
+	'wm-license-cc-by-sa-2.5-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Nevezd meg! – Így add tovább! 2.5 Generic] licenc alapján használható fel.',
+	'wm-license-cc-by-sa-3.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Nevezd meg! – Így add tovább! 3.0 Unported] licenc alapján használható fel.',
+	'wm-license-cc-free' => 'A következőket teheted a művel:',
+	'wm-license-cc-free-to-share-header' => 'megoszthatod',
+	'wm-license-cc-free-to-share-text' => 'szabadon másolhatod, terjesztheted, bemutathatod és előadhatod a művet',
+	'wm-license-cc-free-to-remix-header' => 'feldolgozhatod',
+	'wm-license-cc-free-to-remix-text' => 'származékos műveket hozhatsz létre',
+	'wm-license-cc-conditions' => 'Az alábbi feltételekkel:',
+	'wm-license-cc-conditions-attribution-header' => 'Nevezd meg!',
+	'wm-license-cc-conditions-attribution-text' => 'A szerző vagy a jogosult által meghatározott módon fel kell tüntetned a műhöz kapcsolódó információkat (pl. a szerző nevét vagy álnevét, a Mű címét).',
+	'wm-license-cc-conditions-share_alike-header' => 'Így add tovább!',
+	'wm-license-cc-conditions-share_alike-text' => 'Ha megváltoztatod, átalakítod, feldolgozod ezt a művet, az így létrejött alkotást csak a jelenlegivel megegyező licenc alatt terjesztheted.',
+);
+
+/** Italian (Italiano)
+ * @author Darth Kule
+ */
+$messages['it'] = array(
+	'wikimedialicensetexts-desc' => 'Messaggi della licenza Wikimedia',
+	'wm-license-cc-wiki-link' => 'w:it:Creative Commons',
+	'wm-license-cc-attribution' => 'Attribuzione',
+	'wm-license-cc-by-1.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribuzione 1.0 Generico]',
+	'wm-license-cc-by-2.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribuzione 2.0 Generico]',
+	'wm-license-cc-by-2.5-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribuzione 2.5 Generico]',
+	'wm-license-cc-by-3.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribuzione 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribuzione-Condividi allo stesso modo 1.0 Generico]',
+	'wm-license-cc-by-sa-2.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribuzione-Condividi allo stesso modo 2.0 Generico]',
+	'wm-license-cc-by-sa-2.5-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribuzione-Condividi allo stesso modo 2.5 Generico]',
+	'wm-license-cc-by-sa-3.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribuzione-Condividi allo stesso modo 3.0 Unported]',
+	'wm-license-cc-free' => 'Tu sei libero:',
+	'wm-license-cc-free-to-share-header' => 'di condividere',
+	'wm-license-cc-free-to-share-text' => "di copiare, distribuire e trasmettere quest'opera",
+	'wm-license-cc-free-to-remix-header' => 'di modificare',
+	'wm-license-cc-free-to-remix-text' => "di adattare l'opera",
+	'wm-license-cc-conditions' => 'Alle seguenti condizioni:',
+	'wm-license-cc-conditions-attribution-header' => 'attribuzione',
+	'wm-license-cc-conditions-attribution-text' => "Devi attribuire la paternità dell'opera nei modi indicati dall'autore o da chi ti ha dato l'opera in licenza e in modo tale da non suggerire che essi avallino te o il modo in cui tu usi l'opera.",
+	'wm-license-cc-conditions-share_alike-header' => 'condividi allo stesso modo',
+	'wm-license-cc-conditions-share_alike-text' => "Se alteri, trasformi o sviluppi quest'opera puoi distribuire l'opera risultante solo con la stessa licenza o una simile a questa.",
 );
 
 /** Japanese (日本語)
@@ -219,13 +336,27 @@ $messages['ja'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
+	'wikimedialicensetexts-desc' => 'De Wikimedia Shteftong ier lizänzbetrocke Täxboushtein',
 	'wm-license-cc-wiki-link' => 'w:ksh:Creative Commons',
+	'wm-license-cc-attribution' => 'Namensnännong',
+	'wm-license-cc-by-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, Version 1.0, alljemein]“.',
+	'wm-license-cc-by-2.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, Version 2.0, alljemein]“.',
+	'wm-license-cc-by-2.5-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, Version 2.5, alljemein]“.',
+	'wm-license-cc-by-3.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, nit potteet]“.',
+	'wm-license-cc-by-sa-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, alljemein]“.',
+	'wm-license-cc-by-sa-2.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.0, alljemein]“.',
+	'wm-license-cc-by-sa-2.5-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, alljemein]“.',
+	'wm-license-cc-by-sa-3.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.en {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, nit potteet]“.',
 	'wm-license-cc-free' => 'Ühr hat de Freiheit:',
 	'wm-license-cc-free-to-share-header' => 'dat Werk aan Andere wigger ze jävvee',
 	'wm-license-cc-free-to-share-text' => 'dat Werrek zu koppeere, ze verdeijle, un ze övverdraare',
 	'wm-license-cc-free-to-remix-header' => 'et neu affzemesche',
 	'wm-license-cc-free-to-remix-text' => 'dat Werk aanzepaße udder zeräsch ze maache',
 	'wm-license-cc-conditions' => 'Onger dä Bedengung(e) dat:',
+	'wm-license-cc-conditions-attribution-header' => 'Namensnännong',
+	'wm-license-cc-conditions-attribution-text' => "De moß däm singe Name nänne en dä Aat, wi dää, dä et aanjevange hät, udder dää, dä de Rääschte jez hät, dat faßjelaat hät, ävver nit op en Aat, di mer esu vershtonn künnt, wi wann dää Desch, udder Dinge Jebruch, dän_De vun däm Werrek mähß, joot'heiße udder aan'äkänne dät.",
+	'wm-license-cc-conditions-share_alike-header' => 'Wiggerjävve onger derselleve Bedengunge',
+	'wm-license-cc-conditions-share_alike-text' => 'Wann De dat Werk aanpaß, ömwandels, Der  zeräsch mähß, udder drop opbouß, dann darrefs De dat, wat derbei eruß kütt, bloß onger derselleve Bedengunge, undder jannz ähnlesche Bedengunge wigger jävve, wi di Lizänz hee.',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -248,14 +379,14 @@ $messages['nl'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licentieberichten',
 	'wm-license-cc-wiki-link' => 'w:nl:Creative Commons',
 	'wm-license-cc-attribution' => 'Naamsvermelding',
-	'wm-license-cc-by-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/1.0/deed.en Naamsvermelding 1.0 Generiek]',
-	'wm-license-cc-by-2.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/2.0/deed.en Naamsvermelding 2.0 Generiek]',
-	'wm-license-cc-by-2.5-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/2.5/deed.en Naamsvermelding 2.5 Generiek]',
-	'wm-license-cc-by-3.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/3.0/deed.en Naamsvermelding 3.0 Generiek]',
-	'wm-license-cc-by-sa-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/1.0/deed.en Naamsvermelding-Gelijk delen 1.0 Generiek]',
-	'wm-license-cc-by-sa-2.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.0/deed.en Naamsvermelding-Gelijk delen 2.0 Generiek]',
-	'wm-license-cc-by-sa-2.5-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.2/deed.en Naamsvermelding-Gelijk delen 2.5 Generiek]',
-	'wm-license-cc-by-sa-3.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/3.0/deed.en Naamsvermelding-Gelijk delen 3.0 Generiek]',
+	'wm-license-cc-by-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/1.0/deed.en Naamsvermelding 1.0 Unported]',
+	'wm-license-cc-by-2.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/2.0/deed.en Naamsvermelding 2.0 Unported]',
+	'wm-license-cc-by-2.5-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/2.5/deed.en Naamsvermelding 2.5 Unported]',
+	'wm-license-cc-by-3.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/3.0/deed.en Naamsvermelding 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/1.0/deed.en Naamsvermelding-Gelijk delen 1.0 Unported]',
+	'wm-license-cc-by-sa-2.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.0/deed.en Naamsvermelding-Gelijk delen 2.0 Unported]',
+	'wm-license-cc-by-sa-2.5-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.2/deed.en Naamsvermelding-Gelijk delen 2.5 Unported]',
+	'wm-license-cc-by-sa-3.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/3.0/deed.en Naamsvermelding-Gelijk delen 3.0 Unported]',
 	'wm-license-cc-free' => 'De gebruiker mag:',
 	'wm-license-cc-free-to-share-header' => 'Delen',
 	'wm-license-cc-free-to-share-text' => 'het werk kopiëren, verspreiden en doorgeven',
@@ -273,6 +404,34 @@ $messages['nl'] = array(
  */
 $messages['pt-br'] = array(
 	'wikimedialicensetexts-desc' => 'Mensagens de licença da Wikimedia',
+	'wm-license-cc-conditions' => 'Sob as seguintes condições:',
+);
+
+/** Russian (Русский)
+ * @author Александр Сигачёв
+ */
+$messages['ru'] = array(
+	'wikimedialicensetexts-desc' => 'Лицензионное сообщение Викимедиа',
+	'wm-license-cc-wiki-link' => 'w:ru:Creative Commons',
+	'wm-license-cc-attribution' => 'Указание авторства',
+	'wm-license-cc-by-1.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-free' => 'Вы можете свободно:',
+	'wm-license-cc-free-to-share-header' => 'делиться произведением',
+	'wm-license-cc-free-to-share-text' => 'копировать, распространять и передавать данное произведение.',
+	'wm-license-cc-free-to-remix-header' => 'создавать производные',
+	'wm-license-cc-free-to-remix-text' => 'переделывать данное произведение',
+	'wm-license-cc-conditions' => 'При соблюдении следующих условий:',
+	'wm-license-cc-conditions-attribution-header' => 'указание авторства',
+	'wm-license-cc-conditions-attribution-text' => 'Вы должны указывать авторство (источник) данного произведения в виде, установленном автором или лицензиаром (но ни в коем случае не таким образом, который наводит на мысль, что автор поддерживает вас или ваше использование данного произведения).',
+	'wm-license-cc-conditions-share_alike-header' => 'распространение на тех же условиях',
+	'wm-license-cc-conditions-share_alike-text' => 'Если вы изменяете, преобразуете или создаёте иную производную работу на основании этого произведения, вы можете распространять полученное в результате произведение только на условиях такой же или совместимой лицензии.',
 );
 
 /** Slovak (Slovenčina)
