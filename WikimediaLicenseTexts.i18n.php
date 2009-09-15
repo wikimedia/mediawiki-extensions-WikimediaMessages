@@ -84,6 +84,7 @@ $messages['be-tarask'] = array(
 	'wm-license-cc-free-to-remix-text' => 'адаптаваць твор',
 	'wm-license-cc-conditions' => 'Пры выкананьні наступных умоваў:',
 	'wm-license-cc-conditions-attribution-header' => 'указаньне аўтарства',
+	'wm-license-cc-conditions-attribution-text' => 'Вы павінны пазначаць аўтарства працы ў выглядзе, які патрабуецца аўтарам альбо выдаўцом (але так, каб не стварыўся выгляд, што яны падтрымліваюць Вас альбо выкарыстаньне гэтага твору Вамі).',
 	'wm-license-cc-conditions-share_alike-header' => 'распаўсюджваць на тых жа ўмовах',
 );
 
@@ -119,10 +120,17 @@ $messages['dsb'] = array(
  * @author Omnipaedista
  */
 $messages['el'] = array(
+	'wikimedialicensetexts-desc' => 'Μηνύματα αδειών του Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:el:Creative Commons',
 	'wm-license-cc-attribution' => 'Απόδοση',
 	'wm-license-cc-free' => 'Είστε ελεύθερος:',
+	'wm-license-cc-free-to-share-header' => 'καταμερισμός',
+	'wm-license-cc-free-to-share-text' => 'αντιγραφή, διανομή και με μετάδοση του έργου',
+	'wm-license-cc-free-to-remix-header' => 'προσαρμογή',
+	'wm-license-cc-free-to-remix-text' => 'προσαρμογή του έργου',
+	'wm-license-cc-conditions' => 'Υπό τις εξής προϋποθέσεις:',
 	'wm-license-cc-conditions-attribution-header' => 'απόδοση',
+	'wm-license-cc-conditions-share_alike-header' => 'παρόμοιος καταμερισμός',
 );
 
 /** Spanish (Español)
@@ -131,16 +139,24 @@ $messages['el'] = array(
 $messages['es'] = array(
 	'wm-license-cc-attribution' => 'Atribución',
 	'wm-license-cc-free' => 'Eres libre:',
+	'wm-license-cc-free-to-share-header' => 'para compartir',
+	'wm-license-cc-free-to-share-text' => 'para copiar, distribuir y transmitir el trabajo',
+	'wm-license-cc-free-to-remix-text' => 'para adaptar el trabajo',
+	'wm-license-cc-conditions' => 'Bajo las siguientes condiciones',
 	'wm-license-cc-conditions-attribution-header' => 'atribución',
 );
 
 /** Basque (Euskara)
  * @author An13sa
+ * @author Unai Fdz. de Betoño
  */
 $messages['eu'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia lizentzien mezuak',
 	'wm-license-cc-wiki-link' => 'w:eu:Creative Commons',
+	'wm-license-cc-attribution' => 'Aitorpena',
 	'wm-license-cc-free' => 'Askea zara:',
 	'wm-license-cc-conditions' => 'Ondorengo baldintzen pean:',
+	'wm-license-cc-conditions-share_alike-header' => 'berdin partekatu',
 );
 
 /** French (Français)
