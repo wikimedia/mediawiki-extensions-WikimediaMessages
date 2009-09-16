@@ -86,6 +86,7 @@ $messages['be-tarask'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'указаньне аўтарства',
 	'wm-license-cc-conditions-attribution-text' => 'Вы павінны пазначаць аўтарства працы ў выглядзе, які патрабуецца аўтарам альбо выдаўцом (але так, каб не стварыўся выгляд, што яны падтрымліваюць Вас альбо выкарыстаньне гэтага твору Вамі).',
 	'wm-license-cc-conditions-share_alike-header' => 'распаўсюджваць на тых жа ўмовах',
+	'wm-license-cc-conditions-share_alike-text' => 'Калі Вы зьмяняеце альбо ствараеце іншы твор заснаваны на гэтым, Вы можаце распаўсюджваць выніковы твор толькі на ўмовах такой жа альбо сумяшчальнай ліцэнзіі.',
 );
 
 /** Lower Sorbian (Dolnoserbski)
@@ -413,6 +414,33 @@ $messages['nl'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'De gebruiker dient bij het werk de door de maker of de licentiegever aangegeven naam te vermelden (maar niet zodanig dat de indruk gewekt wordt dat zij daarmee instemmen met uw werk of uw gebruik van het werk).',
 	'wm-license-cc-conditions-share_alike-header' => 'Gelijk delen',
 	'wm-license-cc-conditions-share_alike-text' => 'Indien de gebruiker het werk bewerkt kan het daaruit ontstane werk uitsluitend worden verspreid krachtens dezelfde licentie als de onderhavige licentie, een gelijksoortige of een compatible licentie.',
+);
+
+/** Occitan (Occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'wikimedialicensetexts-desc' => 'Messatges de las licéncias de Wikimedia',
+	'wm-license-cc-wiki-link' => 'w:oc:Creative Commons',
+	'wm-license-cc-attribution' => 'Atribucion',
+	'wm-license-cc-by-1.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en licéncia generica atribucion 1.0]',
+	'wm-license-cc-by-2.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en licéncia generica atribucion 2.0]',
+	'wm-license-cc-by-2.5-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en licéncia generica atribucion 2.5]',
+	'wm-license-cc-by-3.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en licéncia generica atribucion 3.0]',
+	'wm-license-cc-by-sa-1.0-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en licéncia generica atribucion-partiment a l'identic 1.0]",
+	'wm-license-cc-by-sa-2.0-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en licéncia generica atribucion-partiment a l'identic 2.0]",
+	'wm-license-cc-by-sa-2.5-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en licéncia generica atribucion-partiment a l'identic 2.5]",
+	'wm-license-cc-by-sa-3.0-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en licéncia generica atribucion-partiment a l'identic 3.0]",
+	'wm-license-cc-free' => 'Sètz liure :',
+	'wm-license-cc-free-to-share-header' => 'de partejar',
+	'wm-license-cc-free-to-share-text' => 'de copiar, distribuir e transmetre aquesta òbra',
+	'wm-license-cc-free-to-remix-header' => "d'adaptar",
+	'wm-license-cc-free-to-remix-text' => "d'adaptar aquesta òbra",
+	'wm-license-cc-conditions' => 'Jos las condicions seguentas :',
+	'wm-license-cc-conditions-attribution-header' => 'atribucion',
+	'wm-license-cc-conditions-attribution-text' => "Vos cal atribuir aquesta òbra amb lo biais especificat per l'autor o lo concedent (mas pas dins un sens que suggerís que vos apròvan o qu'apròvan l'utilizacion d'aquesta òbra).",
+	'wm-license-cc-conditions-share_alike-header' => "partiment a l'identic",
+	'wm-license-cc-conditions-share_alike-text' => "Se modificatz, transformatz, o vos basatz sus aquesta òbra, vos cal distribuir l'òbra resultanta jos la meteissa licéncia o una licéncia similara a aquesta.",
 );
 
 /** Brazilian Portuguese (Português do Brasil)

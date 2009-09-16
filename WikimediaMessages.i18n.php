@@ -1958,6 +1958,7 @@ $messages['fa'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fa',
 	'sitesupport' => 'کمک مالی',
 	'tooltip-n-sitesupport' => 'حمایت از ما',
+	'group-abusefilter' => 'ویرایشگران پالایهٔ خرابکاری',
 	'group-accountcreator' => 'سازندگان حساب کاربری',
 	'group-autopatroller' => 'گشت‌زنان خودکار',
 	'group-founder' => 'بنیان‌گذاران',
@@ -1965,6 +1966,7 @@ $messages['fa'] = array(
 	'group-ipblock-exempt' => 'استثناهای قطع دسترسی نشانی اینترنتی',
 	'group-rollbacker' => 'واگردانی‌کنندگان',
 	'group-transwiki' => 'واردکنندگان تراویکی',
+	'group-abusefilter-member' => 'ویرایشگر پالایهٔ خرابکاری',
 	'group-accountcreator-member' => 'ایجادکنندهٔ حساب کاربری',
 	'group-autopatroller-member' => 'گشت‌زن خودکار',
 	'group-founder-member' => 'بنیان‌گذار',
@@ -1993,6 +1995,8 @@ $messages['fa'] = array(
 	'group-Staff-member' => 'عضو پرسنل',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => 'برنامه‌نویس',
+	'group-inactive' => 'کاربران غیرفعال',
+	'group-inactive-member' => 'کاربر غیرفعال',
 	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما موافقت می‌کنید که مصرف‌کنندگان ثانوی، دست‌کم از طریق گذاشتن ابرپیوند یا درج نشانی صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند.
 برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
