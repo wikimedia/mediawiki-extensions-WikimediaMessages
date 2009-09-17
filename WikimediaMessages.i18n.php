@@ -1951,6 +1951,7 @@ $messages['ext'] = array(
 
 /** Persian (فارسی)
  * @author Huji
+ * @author Ladsgroup
  * @author Mardetanha
  */
 $messages['fa'] = array(
@@ -1961,6 +1962,7 @@ $messages['fa'] = array(
 	'group-abusefilter' => 'ویرایشگران پالایهٔ خرابکاری',
 	'group-accountcreator' => 'سازندگان حساب کاربری',
 	'group-autopatroller' => 'گشت‌زنان خودکار',
+	'group-confirmed' => 'کاربران تائیدشده',
 	'group-founder' => 'بنیان‌گذاران',
 	'group-import' => 'واردکنندگان',
 	'group-ipblock-exempt' => 'استثناهای قطع دسترسی نشانی اینترنتی',
@@ -1969,6 +1971,7 @@ $messages['fa'] = array(
 	'group-abusefilter-member' => 'ویرایشگر پالایهٔ خرابکاری',
 	'group-accountcreator-member' => 'ایجادکنندهٔ حساب کاربری',
 	'group-autopatroller-member' => 'گشت‌زن خودکار',
+	'group-confirmed-member' => 'کاربران تائید شده',
 	'group-founder-member' => 'بنیان‌گذار',
 	'group-import-member' => 'واردکننده',
 	'group-ipblock-exempt-member' => 'استثنای قطع دسترسی نشانی اینترنتی',
@@ -1997,6 +2000,7 @@ $messages['fa'] = array(
 	'group-coder-member' => 'برنامه‌نویس',
 	'group-inactive' => 'کاربران غیرفعال',
 	'group-inactive-member' => 'کاربر غیرفعال',
+	'grouppage-inactive' => '{{ns:project}}:کاربران غیرفعال',
 	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما موافقت می‌کنید که مصرف‌کنندگان ثانوی، دست‌کم از طریق گذاشتن ابرپیوند یا درج نشانی صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند.
 برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
@@ -7083,7 +7087,7 @@ $messages['vep'] = array(
 	'wikimediamessages-desc' => 'WikiMedial kävutadud specifižed tedotused',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Tehta_rahalahj',
 	'sitesupport' => 'Rahalahjad',
-	'tooltip-n-sitesupport' => 'Tugekat meid',
+	'tooltip-n-sitesupport' => "Pid'oitelgat meid",
 	'group-abusefilter' => "Abidočendan fil'tran redaktorad",
 	'group-accountcreator' => 'Registrirujad',
 	'group-autopatroller' => 'Avtomatižešti patruliruidud',
