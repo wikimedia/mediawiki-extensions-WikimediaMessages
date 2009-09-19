@@ -59,6 +59,9 @@ $messages['qqq'] = array(
  * @author Naudefj
  */
 $messages['af'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia-lisensieboodskappe',
+	'wm-license-cc-wiki-link' => 'w:af:Creative Commons',
+	'wm-license-cc-attribution' => 'Naamsvermelding',
 	'wm-license-cc-free' => 'U is vry:',
 );
 
@@ -107,6 +110,24 @@ $messages['be-tarask'] = array(
  */
 $messages['bg'] = array(
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
+);
+
+/** Breton (Brezhoneg)
+ * @author Fulup
+ */
+$messages['br'] = array(
+	'wikimedialicensetexts-desc' => 'Kemennadennoù aotre implijout Wikimedia',
+	'wm-license-cc-wiki-link' => 'w:br:Creative Commons',
+	'wm-license-cc-attribution' => 'Deroadenn',
+	'wm-license-cc-free' => 'Gallout a rit :',
+	'wm-license-cc-free-to-share-header' => 'eskemm',
+	'wm-license-cc-free-to-share-text' => 'eilañ, skignañ ha treuzkas an oberenn-mañ',
+	'wm-license-cc-free-to-remix-header' => 'kemmañ',
+	'wm-license-cc-conditions' => 'diouzh ma heuilhit kement-mañ :',
+	'wm-license-cc-conditions-attribution-header' => 'deroadenn',
+	'wm-license-cc-conditions-attribution-text' => "Rankout a rit dereiñ an oberenn-mañ diouzh an doare resisaet gant an aozer pe an hini en deus roet an aotre (met hep reiñ da grediñ ez oc'h bet aprouet ganto pe ez eo aprouet ganto implij an oberenn-mañ).",
+	'wm-license-cc-conditions-share_alike-header' => 'eskemmañ rik-ha-rik',
+	'wm-license-cc-conditions-share_alike-text' => "Ma tegasit kemmoù, ma treuzfurmit pe ma savit un dra bennak diwar an oberenn-mañ e rankit skignañ an oberenn krouet ganeoc'h dindan an hevelep aotre implijout pe un aotre implijout kar-tost da hemañ.",
 );
 
 /** Bosnian (Bosanski)
@@ -404,10 +425,10 @@ $messages['hsb'] = array(
 	'wikimedialicensetexts-desc' => 'Licencne zdźělenki Wikimedije',
 	'wm-license-cc-wiki-link' => 'w:hsb:Cresative Commons',
 	'wm-license-cc-attribution' => 'Připokazanje',
-	'wm-license-cc-by-1.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] licencowana',
+	'wm-license-cc-by-1.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.hsb Attribution 1.0 Generic] licencowana',
 	'wm-license-cc-by-2.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic] licencowana',
 	'wm-license-cc-by-2.5-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic] licencowana',
-	'wm-license-cc-by-3.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported] licencowana',
+	'wm-license-cc-by-3.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.hsb Attribution 3.0 Unported] licencowana',
 	'wm-license-cc-by-sa-1.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic] licencowana',
 	'wm-license-cc-by-sa-2.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic] licencowana',
 	'wm-license-cc-by-sa-2.5-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic] licencowana',
@@ -432,10 +453,10 @@ $messages['hu'] = array(
 	'wikimedialicensetexts-desc' => 'A Wikimedia licencszövegei',
 	'wm-license-cc-wiki-link' => 'w:hu:Creative Commons',
 	'wm-license-cc-attribution' => 'Nevezd meg!',
-	'wm-license-cc-by-1.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Nevezd meg! 1.0 Generic] licenc alapján használható fel.',
-	'wm-license-cc-by-2.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Nevezd meg! 2.0 Generic] licenc alapján használható fel.',
-	'wm-license-cc-by-2.5-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Nevezd meg! 2.5 Generic] licenc alapján használható fel.',
-	'wm-license-cc-by-3.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Nevezd meg! 3.0 Unported] licenc alapján használható fel.',
+	'wm-license-cc-by-1.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.hu Nevezd meg! 1.0 Általános] licenc alapján használható fel.',
+	'wm-license-cc-by-2.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.hu Nevezd meg! 2.0 Általános] licenc alapján használható fel.',
+	'wm-license-cc-by-2.5-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.hu Nevezd meg! 2.5 Általános] licenc alapján használható fel.',
+	'wm-license-cc-by-3.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.hu Nevezd meg! 3.0 Unported] licenc alapján használható fel.',
 	'wm-license-cc-by-sa-1.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Nevezd meg! – Így add tovább! 1.0 Generic] licenc alapján használható fel.',
 	'wm-license-cc-by-sa-2.0-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Nevezd meg! – Így add tovább! 2.0 Generic] licenc alapján használható fel.',
 	'wm-license-cc-by-sa-2.5-text' => 'Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Nevezd meg! – Így add tovább! 2.5 Generic] licenc alapján használható fel.',
