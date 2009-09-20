@@ -80,15 +80,16 @@ $messages['ar'] = array(
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
  * @author EugeneZelenko
  * @author Jim-by
+ * @author Zedlik
  */
 $messages['be-tarask'] = array(
 	'wikimedialicensetexts-desc' => 'Ліцэнзійныя паведамленьні фундацыі «Вікімэдыя»',
 	'wm-license-cc-wiki-link' => 'w:be-tarask:Creative Commons',
 	'wm-license-cc-attribution' => 'Указаньне аўтарства',
-	'wm-license-cc-by-1.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
+	'wm-license-cc-by-1.0-text' => 'Гэты файл ліцэнзаваны згодна ўмоваў ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
 	'wm-license-cc-by-2.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
 	'wm-license-cc-by-2.5-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
-	'wm-license-cc-by-3.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-3.0-text' => 'Гэты файл ліцэнзаваны згодна ўмоваў ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
 	'wm-license-cc-by-sa-1.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
 	'wm-license-cc-by-sa-2.0-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
 	'wm-license-cc-by-sa-2.5-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
@@ -480,6 +481,24 @@ $messages['ia'] = array(
 	'wikimedialicensetexts-desc' => 'Messages de licentia de Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:ia:Creative Commons',
 	'wm-license-cc-attribution' => 'Attribution',
+	'wm-license-cc-by-1.0-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.0-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.5-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-3.0-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-1.0-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-2.0-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-2.5-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-3.0-text' => 'Iste file es sub licentia [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-free' => 'Tu es libere:',
+	'wm-license-cc-free-to-share-header' => 'de condivider',
+	'wm-license-cc-free-to-share-text' => 'de copiar, distribuer e transmitter le obra',
+	'wm-license-cc-free-to-remix-header' => 'de remixar',
+	'wm-license-cc-free-to-remix-text' => 'de adaptar le obra',
+	'wm-license-cc-conditions' => 'Sub le sequente conditiones:',
+	'wm-license-cc-conditions-attribution-header' => 'attribution',
+	'wm-license-cc-conditions-attribution-text' => 'Tu debe attribuer le obra del maniera specificate per le autor o licentiator (ma non de alcun modo que suggere que illes approba te o tu uso del obra).',
+	'wm-license-cc-conditions-share_alike-header' => 'condivider equalmente',
+	'wm-license-cc-conditions-share_alike-text' => 'Si tu altera, transforma o disveloppa iste obra, tu pote distribuer le obra resultante solmente sub le mesme licentia o un similar a iste.',
 );
 
 /** Indonesian (Bahasa Indonesia)
@@ -586,11 +605,14 @@ $messages['ksh'] = array(
 $messages['lb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia Lizenz Messagen',
 	'wm-license-cc-wiki-link' => 'w:lb:Creative Commons',
+	'wm-license-cc-attribution' => 'Attributioun',
 	'wm-license-cc-free' => 'Dir kënnt:',
 	'wm-license-cc-free-to-share-header' => 'ze deelen',
 	'wm-license-cc-free-to-share-text' => "D'Wierk ze kopéieren, ze verdeelen a weiderzeginn",
 	'wm-license-cc-free-to-remix-text' => "d'Wierk z'adaptéieren",
 	'wm-license-cc-conditions' => 'Ënner dëse Konditiounen:',
+	'wm-license-cc-conditions-attribution-header' => 'Attributioun',
+	'wm-license-cc-conditions-share_alike-text' => 'Wann dir dëst Wierk ännert, transforméiert oder dorop opbaut, kënnt dir dat Wierk wat daraus entsteet ënner derselweschter oder enger ähnlecher Lizenz, wéi dëser, verdeelen.',
 );
 
 /** Lithuanian (Lietuvių)
@@ -713,6 +735,13 @@ $messages['pt-br'] = array(
  */
 $messages['ro'] = array(
 	'wm-license-cc-wiki-link' => 'w:ro:Creative Commons',
+);
+
+/** Tarandíne (Tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'wm-license-cc-free' => 'Tu si libbere:',
 );
 
 /** Russian (Русский)
