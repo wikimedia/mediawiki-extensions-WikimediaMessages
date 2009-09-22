@@ -4946,12 +4946,14 @@ $messages['nn'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
 	'group-steward' => 'Stewardar',
 	'group-sysadmin' => 'Systemadministratorar',
+	'group-Editinterface' => 'Brukargrensesnitt endringar',
 	'group-Global_bot' => 'Globale robotar',
 	'group-Global_rollback' => 'Globale attenderullarar',
 	'group-Ombudsmen' => 'Ombodsmenn',
 	'group-Staff' => 'Personale',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'systemadministrator',
+	'group-Editinterface-member' => 'brukargrensesnitt endring',
 	'group-Global_bot-member' => 'global robot',
 	'group-Global_rollback-member' => 'global attenderullar',
 	'group-Ombudsmen-member' => 'ombodsmann',
@@ -5902,6 +5904,9 @@ $messages['scn'] = array(
 	'group-inactive' => 'Utenti inattivi',
 	'group-inactive-member' => 'utenti inattivu',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
+	'wikimedia-copyright' => 'Lu testu è dispunibbili sutta la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;
+si pònnu applicàrisi àutri cunnizzioni.
+Talìa li <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">cunnizzioni di usu</a> pi li dittagli.',
 );
 
 /** Scots (Scots)
@@ -5944,10 +5949,13 @@ $messages['sei'] = array(
 );
 
 /** Tachelhit (Tašlḥiyt)
+ * @author Dalinanir
  * @author Zanatos
  */
 $messages['shi'] = array(
-	'tooltip-n-sitesupport' => 'ɛawn anɣ',
+	'sitesupport' => 'Aws',
+	'tooltip-n-sitesupport' => 'Awsaɣ',
+	'group-import' => 'Willi di tawin',
 );
 
 /** Sinhala (සිංහල)
