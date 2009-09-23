@@ -473,8 +473,8 @@ $messages['ar'] = array(
 	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="http://creativecommons.org/licenses/by-sa/3.0/">رخصة المُشاع المُبدع نسبة المُصنّف إلى مؤلفه - المشاركة على قدم المساواة</a>.
 قد تنطبق بنود إضافية أخرى.
 انظر <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
-	'wikimedia-copyrightwarning' => 'بحفظ الصفحة، فأنت توافق على إصدار مساهمتك بلا رجعة تحت [http://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعي العزو/المشاركة بالمثل 3.0] و [http://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
-أنت توافق على أن يتم الإشارة لك بواسطة معيدي الاستخدام، على الأقل، من خلال وصلة فائقة أو مسار إلى الصفحة التي تساهم فيها.
+	'wikimedia-copyrightwarning' => 'بحفظ الصفحة، فأنت توافق على إصدار مساهمتك بلا رجعة تحت [http://creativecommons.org/licenses/by-sa/3.0/ رخصة المشاع المبدع نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة] و[http://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
+أنت توافق على أن يشير إليك معيدو الاستخدام على الأقل عبر وصلة فائقة أو مسار إلى الصفحة التي تساهم فيها.
 انظر [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.',
 	'wikimedia-editpage-tos-summary' => 'لو أنك لا تريد لكتابتك أن تعدل ويعاد توزيعها، فلا ترسلها هنا.
 لو أنك لم تكتب هذا بنفسك، فيجب أن يكون متوفرا تحت شروط متوافقة مع [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام]، وأنت توافق على اتباع أي متطلبات ترخيص متعلقة.',
@@ -3598,12 +3598,14 @@ $messages['ka'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-ს იმპორტორები',
 	'group-steward' => 'სტიუარდები',
 	'group-sysadmin' => 'სისტემური ადმინისტრატორები',
+	'group-Editinterface' => 'ინტერფეისის რედაქტორები',
 	'group-Global_bot' => 'გლობალური ბოტები',
 	'group-Global_rollback' => 'გლობალური გამმაუქმებლები',
 	'group-Ombudsmen' => 'ომბუცმენები',
 	'group-Staff' => 'თანამშრომლები',
 	'group-steward-member' => 'სტიუარდი',
 	'group-sysadmin-member' => 'სისტემური ადმინისტრატორი',
+	'group-Editinterface-member' => 'ინტერფეისის რედაქტორი',
 	'group-Global_bot-member' => 'გლობალური ბოტი',
 	'group-Global_rollback-member' => 'გლობალური გამმაუქმებელი',
 	'group-Ombudsmen-member' => 'ობუცმენი',
@@ -4596,6 +4598,9 @@ $messages['mt'] = array(
 	'group-confirmed-member' => 'utent konfermat',
 	'group-founder-member' => 'fundatur',
 	'group-import-member' => 'importatur',
+	'group-ipblock-exempt-member' => 'eżenti mill-blokk IP',
+	'group-rollbacker-member' => 'rollbacker',
+	'group-transwiki-member' => 'importatur transwiki',
 	'grouppage-founder' => '{{ns:project}}:Fundaturi',
 	'grouppage-import' => '{{ns:project}}:Importaturi',
 	'group-steward' => 'Stwetti',

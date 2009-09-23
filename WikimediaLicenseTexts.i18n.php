@@ -666,10 +666,14 @@ $messages['nl'] = array(
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+ * @author Gunnernett
  * @author Multichill
  */
 $messages['nn'] = array(
+	'wikimedialicensetexts-desc' => 'Meldingar knytt til Wikimedia-lisensiering',
 	'wm-license-cc-wiki-link' => 'w:nn:Creative Commons',
+	'wm-license-cc-free-to-share-header' => 'til å dela',
+	'wm-license-cc-conditions' => 'Med dei fylgjande vilkåra:',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
@@ -864,9 +868,30 @@ $messages['uk'] = array(
 );
 
 /** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
  * @author Multichill
  */
 $messages['vi'] = array(
+	'wikimedialicensetexts-desc' => 'Thông điệp giấy phép Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:vi:Creative Commons',
+	'wm-license-cc-attribution' => 'Ghi công',
+	'wm-license-cc-by-1.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Ghi công 1.0 Chung]',
+	'wm-license-cc-by-2.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Ghi công 2.0 Chung]',
+	'wm-license-cc-by-2.5-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Ghi công 2.5 Chung]',
+	'wm-license-cc-by-3.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Ghi công 3.0 Chưa chuyển đổi]',
+	'wm-license-cc-by-sa-1.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Ghi công–Chia sẻ tương tự 1.0 Chung]',
+	'wm-license-cc-by-sa-2.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Ghi công–Chia sẻ tương tự 2.0 Chung]',
+	'wm-license-cc-by-sa-2.5-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Ghi công–Chia sẻ tương tự 2.5 Chung]',
+	'wm-license-cc-by-sa-3.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Ghi công–Chia sẻ tương tự 3.0 Chưa chuyển đổi]',
+	'wm-license-cc-free' => 'Bạn được tự do:',
+	'wm-license-cc-free-to-share-header' => 'chia sẻ',
+	'wm-license-cc-free-to-share-text' => 'sao chép, phân phối và chuyển giao tác phẩm',
+	'wm-license-cc-free-to-remix-header' => 'pha trộn',
+	'wm-license-cc-free-to-remix-text' => 'để chuyển thể tác phẩm',
+	'wm-license-cc-conditions' => 'Theo các điều kiện sau:',
+	'wm-license-cc-conditions-attribution-header' => 'ghi công',
+	'wm-license-cc-conditions-attribution-text' => 'Bạn phải ghi công tác phẩm theo cách tác giả hoặc người cấp phép bản quyền quy định (nhưng không phải cách hàm ý họ chứng thực bạn hoặc việc sử dụng tác phẩm của bạn).',
+	'wm-license-cc-conditions-share_alike-header' => 'chia sẻ tương tự',
+	'wm-license-cc-conditions-share_alike-text' => 'Nếu bạn thay thế, biến đổi, hoặc làm tác phẩm khác dựa trên tác phẩm này, bạn chỉ được phân phối tác phẩm mới tạo ra với một giấy phép y hệt, tương tự hoặc tương thích.',
 );
 
