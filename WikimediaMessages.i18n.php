@@ -4145,6 +4145,7 @@ $messages['loz'] = array(
 );
 
 /** Lithuanian (Lietuvių)
+ * @author Homo
  * @author Hugo.arg
  * @author Matasg
  * @author Vpovilaitis
@@ -4159,6 +4160,7 @@ $messages['lt'] = array(
 	'group-autopatroller' => 'Autopatruliai',
 	'group-autoreviewer' => 'Autoperžiūrėtojai',
 	'group-bigexport' => 'Didieji eksportuotojai',
+	'group-confirmed' => 'Patvirtinti naudotojai',
 	'group-founder' => 'Įkūrėjai',
 	'group-import' => 'Importuotojai',
 	'group-ipblock-exempt' => 'IP blokavimo išimtys',
@@ -4188,12 +4190,14 @@ $messages['lt'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importuotojai',
 	'group-steward' => 'Ūkvedžiai',
 	'group-sysadmin' => 'Sistemos administratoriai',
+	'group-Editinterface' => 'Sąsajos redaktoriai',
 	'group-Global_bot' => 'Globalūs botai',
 	'group-Global_rollback' => 'Visuotiniai keitimų grąžintojai',
 	'group-Ombudsmen' => 'Ombudsmenai',
 	'group-Staff' => 'Darbuotojai',
 	'group-steward-member' => 'ūkvedys',
 	'group-sysadmin-member' => 'sistemos administratorius',
+	'group-Editinterface-member' => 'sąsajos redaktorius',
 	'group-Global_bot-member' => 'visuotinis botas',
 	'group-Global_rollback-member' => 'visuotinis keitimų grąžintojas',
 	'group-Ombudsmen-member' => 'ombudsmenas',
