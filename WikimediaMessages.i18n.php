@@ -2230,14 +2230,14 @@ $messages['frp'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Importators entèrvouiqui',
 	'group-steward' => 'Stevârds',
 	'group-sysadmin' => 'Administrators sistèmo',
-	'group-Global_bot' => 'Bots globals',
-	'group-Global_rollback' => 'Rèvoquiors globals',
+	'group-Global_bot' => 'Bots globâls',
+	'group-Global_rollback' => 'Rèvoquiors globâls',
 	'group-Ombudsmen' => 'Mèdiators',
 	'group-Staff' => 'Gens',
 	'group-steward-member' => 'Stevârd',
 	'group-sysadmin-member' => 'Administrator sistèmo',
-	'group-Global_bot-member' => 'Bot global',
-	'group-Global_rollback-member' => 'Rèvoquior global',
+	'group-Global_bot-member' => 'Bot globâl',
+	'group-Global_rollback-member' => 'Rèvoquior globâl',
 	'group-Ombudsmen-member' => 'Mèdiator',
 	'group-Staff-member' => 'Membro a les gens',
 	'grouppage-steward' => 'm:Stewards',
@@ -4419,6 +4419,7 @@ $messages['mk'] = array(
  * @author Anoopan
  * @author Junaidpv
  * @author Meno25
+ * @author Praveenp
  * @author ShajiA
  * @author Shijualex
  * @author Vssun
@@ -4434,6 +4435,10 @@ $messages['ml'] = array(
 	'group-steward' => 'സ്റ്റ്യൂവാര്‍ഡുകള്‍',
 	'group-Global_bot' => 'ആഗോള യന്ത്രങ്ങള്‍',
 	'group-steward-member' => 'സ്റ്റ്യൂവാര്‍ഡ്',
+	'group-Global_bot-member' => 'ആഗോള ബോട്ട്',
+	'group-inactive' => 'സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
+	'group-inactive-member' => 'സജീവമല്ലാത്ത ഉപയോക്താവ്',
+	'grouppage-inactive' => '{{ns:project}}:സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
 	'wikimedia-copyright' => 'ഈ താള്‍ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമണ്‍സ് ആട്രിബ്യൂഷന്‍/ഷെയര്‍-എലൈക്ക് പകര്‍പ്പവകാശ നിയമത്തിനു കീഴില്‍</a> ലഭ്യമാണ്. കൂടുതല്‍ നിബന്ധനകള്‍ ചിലപ്പോള്‍ ഉണ്ടാവാം. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">നിബന്ധനാ പ്രമാണം</a> കാണുക.',
 	'wikimedia-copyrightwarning' => 'സേവ് ചെയ്യുന്നതിനു മുന്‍പ്, നിങ്ങള്‍ എഴുതിച്ചേര്‍ത്തത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമണ്‍സ്/ഷെയര്‍ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എല്‍.] എന്നീ അനുമതിപത്രങ്ങള്‍ പ്രകാരം പിന്നീട് മാറ്റാന്‍ പറ്റാത്തവിധം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം. നിങ്ങള്‍ മാറ്റങ്ങള്‍ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവര്‍, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പര്‍ലിങ്കോ യു.ആര്‍.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നല്‍കുമെന്നും മനസിലാക്കിയിരിക്കണം. 
 കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗിക്കാനുള്ള നിബന്ധനകള്‍] കാണുക.',

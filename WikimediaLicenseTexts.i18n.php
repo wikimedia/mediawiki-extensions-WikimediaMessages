@@ -264,6 +264,7 @@ $messages['eo'] = array(
  * @author Multichill
  */
 $messages['es'] = array(
+	'wikimedialicensetexts-desc' => 'Mensajes de licencia Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:es:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribución',
 	'wm-license-cc-free' => 'Eres libre:',
@@ -283,6 +284,7 @@ $messages['et'] = array(
 
 /** Basque (Euskara)
  * @author An13sa
+ * @author Kobazulo
  * @author Unai Fdz. de Betoño
  */
 $messages['eu'] = array(
@@ -290,7 +292,12 @@ $messages['eu'] = array(
 	'wm-license-cc-wiki-link' => 'w:eu:Creative Commons',
 	'wm-license-cc-attribution' => 'Aitorpena',
 	'wm-license-cc-free' => 'Askea zara:',
+	'wm-license-cc-free-to-share-header' => 'partekatzeko',
+	'wm-license-cc-free-to-share-text' => 'lana kopiatzeko, banatzeko eta bidaltzeko',
+	'wm-license-cc-free-to-remix-header' => 'birnahasteko',
+	'wm-license-cc-free-to-remix-text' => 'lana moldatzeko',
 	'wm-license-cc-conditions' => 'Ondorengo baldintzen pean:',
+	'wm-license-cc-conditions-attribution-header' => 'eskuduntza',
 	'wm-license-cc-conditions-share_alike-header' => 'berdin partekatu',
 );
 
@@ -672,7 +679,10 @@ $messages['nl'] = array(
 $messages['nn'] = array(
 	'wikimedialicensetexts-desc' => 'Meldingar knytt til Wikimedia-lisensiering',
 	'wm-license-cc-wiki-link' => 'w:nn:Creative Commons',
+	'wm-license-cc-free' => 'Du står fritt til å:',
 	'wm-license-cc-free-to-share-header' => 'til å dela',
+	'wm-license-cc-free-to-share-text' => 'til å kopiera, distibuera og overføra arbeidet',
+	'wm-license-cc-free-to-remix-text' => 'til å endra verket',
 	'wm-license-cc-conditions' => 'Med dei fylgjande vilkåra:',
 );
 
