@@ -5811,6 +5811,7 @@ $messages['sah'] = array(
 	'group-abusefilter' => 'Омсо сиидэтин эрэдээктэрдэрэ',
 	'group-accountcreator' => 'Кыттааччылар ааттарын айааччылар/бигэргэтээччилэр',
 	'group-autopatroller' => 'Аптамаатынан ботуруулланааччылар',
+	'group-autoreviewer' => 'Аптамаатынан бигэргэтиллэр',
 	'group-bigexport' => 'Улахан экспортёрдар',
 	'group-confirmed' => 'Бигэргэммит кыттааччылар',
 	'group-founder' => 'Тэрийээччилэр',
@@ -5821,6 +5822,7 @@ $messages['sah'] = array(
 	'group-abusefilter-member' => 'омсо сиидэтин эрэдээктэрэ',
 	'group-accountcreator-member' => 'Кыттаачылар ааттарын бигэргэтээччи/оҥорооччу',
 	'group-autopatroller-member' => 'аптамаатынан ботуруулланааччы',
+	'group-autoreviewer-member' => 'аптамаатынан бигэргэнэр',
 	'group-bigexport-member' => 'улахан экспортёр',
 	'group-confirmed-member' => 'бигэргэммит кыттааччы',
 	'group-founder-member' => 'Тэрийээччи',
@@ -5831,6 +5833,7 @@ $messages['sah'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:Омсо сиидэтин эрэдээктэрдэрэ',
 	'grouppage-accountcreator' => '{{ns:project}}:Кыттааччылар ааттарын бигэргэтээччилэр/айааччылар',
 	'grouppage-autopatroller' => '{{ns:project}}:Аптамаатынан ботуруулланааччылар',
+	'grouppage-autoreviewer' => '{{ns:project}}:Аптамаатынан бигэргэнэр',
 	'grouppage-bigexport' => '{{ns:project}}:Улахан экспортёрдар',
 	'grouppage-confirmed' => '{{ns:project}}:Бигэргэммит кыттааччылар',
 	'grouppage-founder' => '{{ns:project}}:Тэрийээччилэр',
@@ -7405,7 +7408,8 @@ $messages['yi'] = array(
  * @author Demmy
  */
 $messages['yo'] = array(
-	'sitesupport' => 'Se ẹ̀bùn owó',
+	'sitesupport' => 'Ṣe ìgbọ̀wọ́',
+	'tooltip-n-sitesupport' => 'Tíwálẹ́yìn',
 );
 
 /** Yue (粵語) */

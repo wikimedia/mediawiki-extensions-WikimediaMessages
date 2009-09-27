@@ -789,15 +789,16 @@ $messages['ru'] = array(
 /** Slovak (Slovenčina)
  * @author Helix84
  * @author Multichill
+ * @author Rudko
  */
 $messages['sk'] = array(
 	'wikimedialicensetexts-desc' => 'Správy licencií Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:sk:Creative Commons',
 	'wm-license-cc-attribution' => 'Attribution',
-	'wm-license-cc-by-1.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
+	'wm-license-cc-by-1.0-text' => 'Tento súbor podlieha [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] licencii',
 	'wm-license-cc-by-2.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
 	'wm-license-cc-by-2.5-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
-	'wm-license-cc-by-3.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-3.0-text' => 'Tento súbor podlieha [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] licencii',
 	'wm-license-cc-by-sa-1.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
 	'wm-license-cc-by-sa-2.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
 	'wm-license-cc-by-sa-2.5-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
