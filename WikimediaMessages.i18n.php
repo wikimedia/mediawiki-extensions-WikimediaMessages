@@ -1110,9 +1110,9 @@ $messages['ca'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
 	'wikimedia-copyright' => 'El text està disponible sota la <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
 Vegeu les <a href="http://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
-	'wikimedia-copyrightwarning' => "Quan deseu, esteu acceptant alliberar irrevocablement la vostra contribució sota la [http://creativecommons.org/licenses/by-sa/3.0/deed.ca Llicència de Creative Commons Reconeixement/Compartir-Igual 3.0] i la [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => "Quan deseu, esteu acceptant alliberar irrevocablement la vostra contribució sota la [http://creativecommons.org/licenses/by-sa/3.0/deed.ca Llicència de Creative Commons Reconeixement i Compartir-Igual 3.0] i la [http://www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu ser atribuït, com a mínim, a través d'un hiperenllaç o URL a la pàgina on esteu contribuint.
-Vegeu les [http://wikimediafoundation.org/wiki/Terms_of_Use condicons d'ús] per a més informació.",
+Vegeu les [http://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs condicions d'ús] per a més informació.",
 	'wikimedia-editpage-tos-summary' => "Si no voleu que el vostre text sigui editat i redistribuït a voluntat, llavors no el lliureu aquí.
 Si no l'heu escrit vós mateix, ha d'estar disponible sota termes compatibles amb les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d'ús], i accepteu seguir tots els requisits de la llicència.",
 );
@@ -3305,11 +3305,13 @@ Videz <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado
 
 /** Icelandic (Íslenska)
  * @author S.Örvarr.S
+ * @author Spacebirdy
  * @author לערי ריינהארט
  */
 $messages['is'] = array(
 	'sitesupport' => 'Fjárframlög',
 	'tooltip-n-sitesupport' => 'Fjárframlagssíða',
+	'group-autoreviewer' => 'Sjálfritdómarar',
 	'group-Staff' => 'Starfsfólk',
 	'group-Staff-member' => 'Starfsmaður',
 );
