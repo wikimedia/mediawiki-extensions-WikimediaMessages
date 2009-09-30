@@ -267,12 +267,22 @@ $messages['es'] = array(
 	'wikimedialicensetexts-desc' => 'Mensajes de licencia Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:es:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribución',
+	'wm-license-cc-by-1.0-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by/1.0 Genérica de Atribución 1.0] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.0-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by/2.0 Genérica de Atribución 2.0] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.5-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by/2.5 Genérica de Atribución 2.5] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-3.0-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by-sa/3.0 no portado de Atribución 3.0] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-1.0-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by-sa/1.0 Genérica de Atribución - compartición de similares 1.0] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-2.0-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by-sa/2.0 Genérica de Atribución - compartición de similares 2.0] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-2.5-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by-sa/2.5 Genérica de Atribución - compartición de similares 2.5] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-3.0-text' => 'Este archivo está licenciado bajo licencia [http://creativecommons.org/licenses/by-sa/3.0 Genérica de Atribución - compartición de similares 3.0] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-free' => 'Eres libre:',
 	'wm-license-cc-free-to-share-header' => 'para compartir',
 	'wm-license-cc-free-to-share-text' => 'para copiar, distribuir y transmitir el trabajo',
+	'wm-license-cc-free-to-remix-header' => 'a remezclar',
 	'wm-license-cc-free-to-remix-text' => 'para adaptar el trabajo',
 	'wm-license-cc-conditions' => 'Bajo las siguientes condiciones',
 	'wm-license-cc-conditions-attribution-header' => 'atribución',
+	'wm-license-cc-conditions-share_alike-header' => 'compartir similar',
 );
 
 /** Estonian (Eesti)
@@ -413,8 +423,10 @@ $messages['gsw'] = array(
 
 /** Hebrew (עברית)
  * @author Multichill
+ * @author YaronSh
  */
 $messages['he'] = array(
+	'wikimedialicensetexts-desc' => 'הודעות הרישוי של ויקימדיה',
 	'wm-license-cc-wiki-link' => 'w:he:Creative Commons',
 );
 
@@ -620,6 +632,7 @@ $messages['lb'] = array(
 	'wm-license-cc-free-to-remix-text' => "d'Wierk z'adaptéieren",
 	'wm-license-cc-conditions' => 'Ënner dëse Konditiounen:',
 	'wm-license-cc-conditions-attribution-header' => 'Attributioun',
+	'wm-license-cc-conditions-share_alike-header' => 'ënner de selwëschte Bedingunge weiderginn',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann dir dëst Wierk ännert, transforméiert oder dorop opbaut, kënnt dir dat Wierk wat daraus entsteet ënner derselweschter oder enger ähnlecher Lizenz, wéi dëser, verdeelen.',
 );
 
