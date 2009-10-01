@@ -743,11 +743,18 @@ $messages['pl'] = array(
 
 /** Portuguese (Português)
  * @author Giro720
+ * @author Lijealso
  * @author Multichill
  */
 $messages['pt'] = array(
 	'wm-license-cc-wiki-link' => 'w:pt:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribuição',
+	'wm-license-cc-free' => 'É livre para:',
+	'wm-license-cc-free-to-share-header' => 'para partilhar',
+	'wm-license-cc-free-to-share-text' => 'para copiar, distribuir e transmitir o trabalho',
+	'wm-license-cc-free-to-remix-text' => 'para adaptar a obra',
+	'wm-license-cc-conditions' => 'De acordo com as seguintes condições:',
+	'wm-license-cc-conditions-attribution-header' => 'atribuição',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -889,6 +896,14 @@ $messages['tr'] = array(
  */
 $messages['uk'] = array(
 	'wm-license-cc-wiki-link' => 'w:uk:Creative Commons',
+);
+
+/** Vèneto (Vèneto)
+ * @author Vajotwo
+ */
+$messages['vec'] = array(
+	'wm-license-cc-attribution' => 'Atribusion',
+	'wm-license-cc-free' => 'Ti sì libaro:',
 );
 
 /** Vietnamese (Tiếng Việt)

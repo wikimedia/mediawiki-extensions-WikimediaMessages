@@ -4444,6 +4444,8 @@ $messages['ml'] = array(
 	'wikimedia-copyright' => 'ഈ താള്‍ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമണ്‍സ് ആട്രിബ്യൂഷന്‍/ഷെയര്‍-എലൈക്ക് പകര്‍പ്പവകാശ നിയമത്തിനു കീഴില്‍</a> ലഭ്യമാണ്. കൂടുതല്‍ നിബന്ധനകള്‍ ചിലപ്പോള്‍ ഉണ്ടാവാം. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">നിബന്ധനാ പ്രമാണം</a> കാണുക.',
 	'wikimedia-copyrightwarning' => 'സേവ് ചെയ്യുന്നതിനു മുന്‍പ്, നിങ്ങള്‍ എഴുതിച്ചേര്‍ത്തത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമണ്‍സ്/ഷെയര്‍ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എല്‍.] എന്നീ അനുമതിപത്രങ്ങള്‍ പ്രകാരം പിന്നീട് മാറ്റാന്‍ പറ്റാത്തവിധം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം. നിങ്ങള്‍ മാറ്റങ്ങള്‍ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവര്‍, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പര്‍ലിങ്കോ യു.ആര്‍.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നല്‍കുമെന്നും മനസിലാക്കിയിരിക്കണം. 
 കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗിക്കാനുള്ള നിബന്ധനകള്‍] കാണുക.',
+	'wikimedia-editpage-tos-summary' => 'താങ്കളുടെ എഴുത്ത് തിരുത്തുകയും പുനർവിതരണം ചെയ്യുന്നതും അനുവദിക്കാനാകില്ലങ്കിൽ, അത് ഇവിടെ സമർപ്പിക്കാതിരിക്കുക.
+ഇത് താങ്കൾ തന്നെ എഴുതിയതല്ലങ്കിൽ, നിർബന്ധമായും [http://wikimediafoundation.org/wiki/Terms_of_Use നിബന്ധനാ പ്രമാണത്തിനു] വിധേയമായി ലഭ്യമായിരിക്കണം, ഒപ്പം ബന്ധപ്പെട്ട അനുമതികൾ താങ്കൾ അംഗീകരിക്കേണ്ടതുമാണ്.',
 );
 
 /** Mongolian (Монгол)
@@ -5920,12 +5922,19 @@ $messages['scn'] = array(
 	'group-Staff-member' => 'Cumpunenti dû staff',
 	'grouppage-steward' => 'm:Stewards',
 	'grouppage-sysadmin' => 'm:System administrators',
+	'group-coder' => 'Cudificatura',
+	'group-coder-member' => 'cudificaturi',
 	'group-inactive' => 'Utenti inattivi',
 	'group-inactive-member' => 'utenti inattivu',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Lu testu è dispunibbili sutta la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;
 si pònnu applicàrisi àutri cunnizzioni.
 Talìa li <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">cunnizzioni di usu</a> pi li dittagli.',
+	'wikimedia-copyrightwarning' => "Sarvannu, siti d'accordu di rènniri dispunìbbili lu vostru cuntribbutu sutta la [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e la [http://www.gnu.org/copyleft/fdl.html GFDL].
+Siti d'accordu puru ca àutri riutilizzatura b'accreditanu lu vostru travagghiu, cu lu liami o cu na URL â pàggina â quali stai cuntribbuennu.
+Talia lu [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sapìrinni cchiossai.",
+	'wikimedia-editpage-tos-summary' => "Siddu nun vuoi ca lu tò scrittu nun è canciatu e ridistrubuitu a vuluntà, allura nun lu suttamettiri ccà.
+Siddu nun lu scrivistu tu, havi a essiri dispunibbili a cunnizzioni ca arrispetta li [http://wikimediafoundation.org/wiki/Terms_of_Use Termini di Usu], e ca tu si d'accordu di rispittari li riquisiti di licenza.",
 );
 
 /** Scots (Scots)
