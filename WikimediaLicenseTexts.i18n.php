@@ -327,6 +327,7 @@ $messages['fi'] = array(
 
 /** French (Français)
  * @author IAlex
+ * @author Jean-Frédéric
  * @author Peter17
  */
 $messages['fr'] = array(
@@ -334,13 +335,13 @@ $messages['fr'] = array(
 	'wm-license-cc-wiki-link' => 'w:fr:Creative Commons',
 	'wm-license-cc-attribution' => 'Attribution',
 	'wm-license-cc-by-1.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr paternité 1.0 générique]',
-	'wm-license-cc-by-2.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en licence générique attribution 2.0]',
-	'wm-license-cc-by-2.5-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en licence générique attribution 2.5]',
+	'wm-license-cc-by-2.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.fr paternité 2.0 générique]',
+	'wm-license-cc-by-2.5-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.fr paternité 2.5 générique]',
 	'wm-license-cc-by-3.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.fr paternité 3.0 unported]',
-	'wm-license-cc-by-sa-1.0-text' => "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en licence générique attribution-partage à l'identique 1.0]",
-	'wm-license-cc-by-sa-2.0-text' => "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en licence générique attribution-partage à l'identique 2.0]",
-	'wm-license-cc-by-sa-2.5-text' => "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en licence générique attribution-partage à l'identique 2.5]",
-	'wm-license-cc-by-sa-3.0-text' => "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en licence générique attribution-partage à l'identique 3.0]",
+	'wm-license-cc-by-sa-1.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.fr paternité-partage des conditions initiales à l’identique 1.0 générique]',
+	'wm-license-cc-by-sa-2.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.fr paternité-partage des conditions initiales à l’identique 2.0 générique]',
+	'wm-license-cc-by-sa-2.5-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.fr paternité-partage des conditions initiales à l’identique 2.0 générique]',
+	'wm-license-cc-by-sa-3.0-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr paternité-partage des conditions initiales à l’identique 2.0 unported]',
 	'wm-license-cc-free' => 'Vous êtes libre :',
 	'wm-license-cc-free-to-share-header' => 'de partager',
 	'wm-license-cc-free-to-share-text' => 'de copier, distribuer et transmettre cette œuvre',
