@@ -3121,9 +3121,14 @@ $messages['hu'] = array(
 
 /** Armenian (Հայերեն)
  * @author Teak
+ * @author Xelgen
  */
 $messages['hy'] = array(
 	'sitesupport' => 'Դրամական նվիրատվություն',
+	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> արտոնագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրմասնությունների համար այցելեք՝ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
+	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշելով էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [http://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
+Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
+Այցելեք [http://wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններ] մանրամասնությունների համար։',
 );
 
 /** Interlingua (Interlingua)
