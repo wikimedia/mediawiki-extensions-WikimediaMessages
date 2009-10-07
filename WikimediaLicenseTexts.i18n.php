@@ -652,10 +652,14 @@ $messages['ml'] = array(
 );
 
 /** Malay (Bahasa Melayu)
+ * @author Aurora
  * @author Multichill
  */
 $messages['ms'] = array(
 	'wm-license-cc-wiki-link' => 'w:ms:Creative Commons',
+	'wm-license-cc-by-1.0-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/1.0/deed.ms Pengiktirafan 1.0 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.0-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/2.0/deed.ms Pengiktirafan 2.0 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.5-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/2.5/deed.ms Pengiktirafan 2.5 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 );
 
 /** Dutch (Nederlands)
@@ -715,10 +719,10 @@ $messages['oc'] = array(
 	'wikimedialicensetexts-desc' => 'Messatges de las licéncias de Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:oc:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribucion',
-	'wm-license-cc-by-1.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en licéncia generica atribucion 1.0]',
+	'wm-license-cc-by-1.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr paternitat 1.0 generica]',
 	'wm-license-cc-by-2.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en licéncia generica atribucion 2.0]',
 	'wm-license-cc-by-2.5-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en licéncia generica atribucion 2.5]',
-	'wm-license-cc-by-3.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en licéncia generica atribucion 3.0]',
+	'wm-license-cc-by-3.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.fr paternitat 3.0 unported]',
 	'wm-license-cc-by-sa-1.0-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en licéncia generica atribucion-partiment a l'identic 1.0]",
 	'wm-license-cc-by-sa-2.0-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en licéncia generica atribucion-partiment a l'identic 2.0]",
 	'wm-license-cc-by-sa-2.5-text' => "Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en licéncia generica atribucion-partiment a l'identic 2.5]",
