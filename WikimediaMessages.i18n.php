@@ -1484,11 +1484,12 @@ Falls Sie den Text nicht selber verfasst haben, muss er unter den [http://wikime
 );
 
 /** Zazaki (Zazaki)
+ * @author Aspar
  * @author Mirzali
  * @author Xoser
  */
 $messages['diq'] = array(
-	'sitesupport' => 'Beğş',
+	'sitesupport' => 'Bexş',
 	'group-founder' => 'Naroyan',
 	'group-Staff' => 'Emegdari',
 	'group-Staff-member' => 'Emegdar',
