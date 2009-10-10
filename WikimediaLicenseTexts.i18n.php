@@ -584,10 +584,12 @@ $messages['ja'] = array(
 );
 
 /** Korean (한국어)
+ * @author Kwj2772
  * @author Multichill
  */
 $messages['ko'] = array(
 	'wm-license-cc-wiki-link' => 'w:ko:크리에이티브 커먼즈',
+	'wm-license-cc-attribution' => '저작자표시',
 );
 
 /** Ripoarisch (Ripoarisch)
