@@ -1458,6 +1458,7 @@ $messages['de'] = array(
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
 	'group-abusefilter' => 'Missbrauchsfilter-Bearbeiter',
 	'group-accountcreator' => 'Benutzerkonten-Ersteller',
+	'group-autopatrolled' => 'Automatische Kontrollierer',
 	'group-autopatroller' => 'Automatische Prüfer',
 	'group-autoreviewer' => 'Automatische Nachprüfer',
 	'group-bigexport' => 'Großexporteure',
@@ -1470,7 +1471,7 @@ $messages['de'] = array(
 	'group-transwiki' => 'Transwiki-Importeure',
 	'group-abusefilter-member' => 'Missbrauchsfilter-Bearbeiter',
 	'group-accountcreator-member' => 'Benutzerkonten-Ersteller',
-	'group-autopatrolled-member' => 'Automatischer Prüfer',
+	'group-autopatrolled-member' => 'Automatischer Kontrollierer',
 	'group-autopatroller-member' => 'Automatischer Prüfer',
 	'group-autoreviewer-member' => 'Automatischer Nachprüfer',
 	'group-bigexport-member' => 'Großexporteur',
@@ -1483,7 +1484,7 @@ $messages['de'] = array(
 	'group-transwiki-member' => 'Transwiki-Importeur',
 	'grouppage-abusefilter' => '{{ns:project}}:Missbrauchsfilter-Bearbeiter',
 	'grouppage-accountcreator' => '{{ns:project}}:Benutzerkonten-Ersteller',
-	'grouppage-autopatrolled' => '{{ns:project}}:Automatische Prüfer',
+	'grouppage-autopatrolled' => '{{ns:project}}:Automatische Kontrollierer',
 	'grouppage-autopatroller' => '{{ns:project}}:Automatische Prüfer',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatische Nachprüfer',
 	'grouppage-bigexport' => '{{ns:project}}:Großexporteure',
@@ -4687,11 +4688,13 @@ $messages['ml'] = array(
 	'group-Editinterface' => 'ദൃശ്യരൂപം തിരുത്തുന്നവർ',
 	'group-Global_bot' => 'ആഗോള യന്ത്രങ്ങള്‍',
 	'group-Ombudsmen' => 'ഓംബുഡ്സ്‌‌മാൻ',
+	'group-Staff' => 'ഉദ്യോഗസ്ഥർ',
 	'group-steward-member' => 'സ്റ്റ്യൂവാര്‍ഡ്',
 	'group-sysadmin-member' => 'സിസ്റ്റം കാര്യനിർവാഹകൻ',
 	'group-Editinterface-member' => 'ദൃശ്യരൂപം തിരുത്തുന്നയാൾ',
 	'group-Global_bot-member' => 'ആഗോള ബോട്ട്',
 	'group-Ombudsmen-member' => 'ഓംബുഡ്സ്‌‌മാൻ',
+	'group-Staff-member' => 'ഉദ്യോഗസ്ഥ(ൻ)',
 	'group-inactive' => 'സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
 	'group-inactive-member' => 'സജീവമല്ലാത്ത ഉപയോക്താവ്',
 	'grouppage-inactive' => '{{ns:project}}:സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
@@ -6763,6 +6766,7 @@ $messages['su'] = array(
  * @author Lejonel
  * @author M.M.S.
  * @author Najami
+ * @author Per
  * @author Rotsee
  * @author Sannab
  */
@@ -6777,6 +6781,7 @@ $messages['sv'] = array(
 	'group-autoreviewer' => 'Automatiska granskare',
 	'group-bigexport' => 'Stora exporterare',
 	'group-confirmed' => 'Bekräftade användare',
+	'group-flood' => 'Bot användare',
 	'group-founder' => 'Grundare',
 	'group-import' => 'Importörer',
 	'group-ipblock-exempt' => 'Undantagna från IP-blockering',
@@ -6790,6 +6795,7 @@ $messages['sv'] = array(
 	'group-autoreviewer-member' => 'automatisk granskare',
 	'group-bigexport-member' => 'stor exporterare',
 	'group-confirmed-member' => 'bekräftad användare',
+	'group-flood-member' => 'bot användare',
 	'group-founder-member' => 'grundare',
 	'group-import-member' => 'importör',
 	'group-ipblock-exempt-member' => 'undantagen från IP-blockering',
@@ -6803,6 +6809,7 @@ $messages['sv'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiska granskare',
 	'grouppage-bigexport' => '{{ns:project}}:Stora exporterare',
 	'grouppage-confirmed' => '{{ns:project}}:Bekräftade användare',
+	'grouppage-flood' => '{{ns:project}}:Bot användare',
 	'grouppage-founder' => '{{ns:project}}:Grundare',
 	'grouppage-import' => '{{ns:project}}:Importörer',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Undantagna från IP-blockering',
@@ -7758,8 +7765,10 @@ $messages['xh'] = array(
 /** Mingrelian (მარგალური)
  * @author Alsandro
  * @author Dato deutschland
+ * @author Lika2672
  */
 $messages['xmf'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/ka',
 	'sitesupport' => 'აზარა',
 	'tooltip-n-sitesupport' => 'ხუჯ დომკინით',
 );
