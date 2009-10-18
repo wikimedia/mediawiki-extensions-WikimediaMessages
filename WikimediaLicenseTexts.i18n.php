@@ -68,13 +68,30 @@ $messages['af'] = array(
 /** Arabic (العربية)
  * @author Meno25
  * @author Multichill
+ * @author OsamaK
  */
 $messages['ar'] = array(
-	'wm-license-cc-wiki-link' => 'w:ar:مشاع إبداعي',
-	'wm-license-cc-free' => 'أنت حر:',
+	'wikimedialicensetexts-desc' => 'رسائل ترخيص ويكيميديا',
+	'wm-license-cc-wiki-link' => 'w:ar:مشاع مبدع',
+	'wm-license-cc-attribution' => 'عزو',
+	'wm-license-cc-by-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/deed.en نسبة المنصف إلى مؤلفه 1.0 العامة]',
+	'wm-license-cc-by-2.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/deed.en نسبة المنصف إلى مؤلفه 2.0 العامة]',
+	'wm-license-cc-by-2.5-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/deed.en نسبة المنصف إلى مؤلفه 2.5 العامة]',
+	'wm-license-cc-by-3.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/deed.en نسبة المنصف إلى مؤلفه 3.0 العامة]',
+	'wm-license-cc-by-sa-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 العامة]',
+	'wm-license-cc-by-sa-2.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 العامة]',
+	'wm-license-cc-by-sa-2.5-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 العامة]',
+	'wm-license-cc-by-sa-3.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 3.0 العامة]',
+	'wm-license-cc-free' => 'لك مطلق الحرية:',
 	'wm-license-cc-free-to-share-header' => 'في المشاركة',
+	'wm-license-cc-free-to-share-text' => 'في نسخ وتوزيع وبث العمل',
+	'wm-license-cc-free-to-remix-header' => 'في التعديل',
+	'wm-license-cc-free-to-remix-text' => 'في تكييف العمل',
+	'wm-license-cc-conditions' => 'تحت الشروط التالية:',
 	'wm-license-cc-conditions-attribution-header' => 'العزو',
+	'wm-license-cc-conditions-attribution-text' => 'يجب عليك أن تنسب العمل بالطريقة التي يحددها المؤلف أو المرخص (ولكن ليس بأي يشكل يمكن أن يوحي بتأييده لك أو لاستخدامك لعمله).',
 	'wm-license-cc-conditions-share_alike-header' => 'مشاركة بالمثل',
+	'wm-license-cc-conditions-share_alike-text' => 'إذا عدلت أو غيرت أو بنيت على هذا العمل، فلا يحق لك توزيع العمل الناتج إلى تحت نفس الرخصة أو رخصة مشابهة لها.',
 );
 
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
@@ -522,10 +539,16 @@ $messages['ia'] = array(
 );
 
 /** Indonesian (Bahasa Indonesia)
+ * @author Irwangatot
  * @author Multichill
  */
 $messages['id'] = array(
+	'wikimedialicensetexts-desc' => 'Pesan lisensi Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:id:Creative Commons',
+	'wm-license-cc-attribution' => 'Atribut',
+	'wm-license-cc-free' => 'Anda bebas untuk:',
+	'wm-license-cc-free-to-share-header' => 'untuk di bagi',
+	'wm-license-cc-conditions' => 'Dibawah kondisi berikut:',
 );
 
 /** Italian (Italiano)
