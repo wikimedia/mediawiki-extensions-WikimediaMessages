@@ -900,6 +900,17 @@ $messages['ta'] = array(
 	'wm-license-cc-wiki-link' => 'w:ta:கிரியேட்டிவ் காமன்ஸ்',
 );
 
+/** Telugu (తెలుగు)
+ * @author Veeven
+ */
+$messages['te'] = array(
+	'wikimedialicensetexts-desc' => 'వికీమీడియా లైసెన్సు సందేశాలు',
+	'wm-license-cc-free' => 'మీరు స్వేచ్ఛగా:',
+	'wm-license-cc-free-to-share-header' => 'పంచుకోవచ్చు',
+	'wm-license-cc-free-to-share-text' => 'ఈ కృతిని కాపీ చేసుకోవచ్చు, పంపిణీ మరియు ప్రసారం చేయవచ్చు',
+	'wm-license-cc-conditions' => 'ఈ క్రింది షరతుల మీద:',
+);
+
 /** Thai (ไทย)
  * @author Multichill
  */
