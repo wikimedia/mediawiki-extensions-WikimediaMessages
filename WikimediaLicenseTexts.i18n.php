@@ -546,8 +546,18 @@ $messages['id'] = array(
 	'wikimedialicensetexts-desc' => 'Pesan lisensi Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:id:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribut',
+	'wm-license-cc-by-1.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.id Attribution 1,0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.eid Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.id Attribution 2.5 Generik]',
+	'wm-license-cc-by-3.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.id Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.id Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.id Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.id Attribution-Share Alike 3.0 Unported]',
 	'wm-license-cc-free' => 'Anda bebas untuk:',
 	'wm-license-cc-free-to-share-header' => 'untuk di bagi',
+	'wm-license-cc-free-to-share-text' => 'untuk menyalin, menyebarkan dan mengirimkan pekerjaan',
+	'wm-license-cc-free-to-remix-header' => 'untuk mencampur',
 	'wm-license-cc-conditions' => 'Dibawah kondisi berikut:',
 );
 
