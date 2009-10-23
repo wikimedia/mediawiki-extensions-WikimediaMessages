@@ -1522,22 +1522,23 @@ $messages['de'] = array(
 	'group-inactive-member' => 'Inaktiver Benutzer',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
 	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
-Siehe die <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> für Details.',
+Details sind den <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> zu entnehmen.',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
-Siehe die [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] für Details.',
+Details sind den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] zu entnehmen.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
 Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 );
 
 /** German (formal address) (Deutsch (Sie-Form))
  * @author Raimond Spekking
+ * @author Umherirrender
  */
 $messages['de-formal'] = array(
 	'tooltip-n-sitesupport' => 'Unterstützen Sie uns',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzieren Sie Ihre Bearbeitung unwiderruflich unter die [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Sie stimmen zu, dass eine Weiterverwendung mindestens durch durch einen Hyperlink oder einer URL zur Seite, die Sie bearbeiten, erfolgen darf.
-Siehe die [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] für Details.',
+Details sind den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] zu entnehmen.',
 	'wikimedia-editpage-tos-summary' => 'Wenn Sie nicht möchten, dass Ihr Text weiterbearbeitet und weiterverbreitet wird, dann speichern Sie ihn nicht.
 Falls Sie den Text nicht selber verfasst haben, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und Sie stimmen zu, notwendigen Lizenzanforderungen zu folgen.',
 );
@@ -5605,9 +5606,75 @@ Zobacz szczegółowe informacje o <a href="http://wikimediafoundation.org/wiki/T
 	'wikimedia-editpage-tos-summary' => 'Jeśli nie chcesz, aby Twój tekst mógł być dowolnie zmieniany przez każdego oraz rozpowszechniany bez ograniczeń, nie umieszczaj go tutaj. Jeśli tekst nie został napisany przez Ciebie samodzielnie, musi on być dostępny na zasadach zgodnych z [http://wikimediafoundation.org/wiki/Terms_of_Use warunkami wykorzystania] oraz musisz zgodzić się na wszystkie istotne wymogi licencyjne.',
 );
 
-/** Piedmontese (Piemontèis) */
+/** Piedmontese (Piemontèis)
+ * @author Borichèt
+ * @author Bèrto 'd Sèra
+ */
 $messages['pms'] = array(
+	'wikimediamessages-desc' => 'Mëssagi specìfich ëd Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/pms',
 	'sitesupport' => 'Oferte',
+	'tooltip-n-sitesupport' => 'Giutene',
+	'group-abusefilter' => 'Modificator dij filtragi anti-abus',
+	'group-accountcreator' => 'Creator ëd cont',
+	'group-autopatrolled' => 'Patoje automàtiche',
+	'group-autopatroller' => 'Patojador automàtich',
+	'group-autoreviewer' => 'Riletor automàtich',
+	'group-bigexport' => 'Grand esportator',
+	'group-confirmed' => 'Utent confermà',
+	'group-flood' => "Utent ch'a deuvro dij trigomiro",
+	'group-founder' => 'Fondador',
+	'group-import' => 'Amportator',
+	'group-ipblock-exempt' => "Esension ëd blocagi d'IP",
+	'group-patroller' => 'Gent ëd patoja',
+	'group-rollbacker' => 'Ripristinator',
+	'group-transwiki' => 'Amportator transwiki',
+	'group-abusefilter-member' => 'Modificator ëd filtragi anti-abus',
+	'group-accountcreator-member' => 'Creator ëd cont',
+	'group-autopatrolled-member' => 'Patojador automàtich',
+	'group-autopatroller-member' => 'Patojador automàtich',
+	'group-autoreviewer-member' => 'Riletor automàtich',
+	'group-bigexport-member' => 'Grand esportator',
+	'group-confirmed-member' => 'Utent confermà',
+	'group-flood-member' => "Utent ch'a deuvro dij trigomiro",
+	'group-founder-member' => 'Fondador',
+	'group-import-member' => 'Amportator',
+	'group-ipblock-exempt-member' => "Esentà dai blocagi d'IP",
+	'group-patroller-member' => 'ëd patoja',
+	'group-rollbacker-member' => 'Ripristinator',
+	'group-transwiki-member' => 'Amportator transwiki',
+	'grouppage-abusefilter' => '{{ns:project}}:Modificator dij filtragi anti-abus',
+	'grouppage-accountcreator' => '{{ns:project}}:Creator ëd cont',
+	'grouppage-autopatrolled' => '{{ns:project}}:Patojador automàtich',
+	'grouppage-autopatroller' => '{{ns:project}}:Patojador automàtich',
+	'grouppage-autoreviewer' => '{{ns:project}}:Riletor automàtich',
+	'grouppage-bigexport' => '{{ns:project}}:Grand esportator',
+	'grouppage-confirmed' => '{{ns:project}}:Utent confermà',
+	'grouppage-flood' => "{{ns:project}}:Utent ch'a deuvro dij trigomiro",
+	'grouppage-founder' => '{{ns:project}}:Fondador',
+	'grouppage-import' => '{{ns:project}}:Amportator',
+	'grouppage-ipblock-exempt' => "{{ns:project}}:Esension dai blocagi d'IP",
+	'grouppage-rollbacker' => '{{ns:project}}:Ripristinator',
+	'grouppage-transwiki' => '{{ns:project}}:Amportator transwiki',
+	'group-steward' => 'Vigilant',
+	'group-sysadmin' => 'Aministrator ëd sistema',
+	'group-Editinterface' => "Modificator dl'antërfassa",
+	'group-Global_bot' => 'Trigomiro globaj',
+	'group-Global_rollback' => 'Ripristinator globaj',
+	'group-Ombudsmen' => 'Mediator',
+	'group-Staff' => 'Përsonal',
+	'group-steward-member' => 'Vigilant',
+	'group-sysadmin-member' => 'Aministrator ëd sistema',
+	'group-Editinterface-member' => "Modificator dl'antërfassa",
+	'group-Global_bot-member' => 'Trigomiro global',
+	'group-Global_rollback-member' => 'Ripristinator global',
+	'group-Ombudsmen-member' => 'Mediator',
+	'group-Staff-member' => 'mèmber dël përsonal',
+	'group-coder' => 'Codificator',
+	'group-coder-member' => 'codificator',
+	'group-inactive' => 'Utent inativ',
+	'group-inactive-member' => 'utent inativ',
+	'grouppage-inactive' => '{{ns:project}}:Utent inativ',
 );
 
 /** Pontic (Ποντιακά)
