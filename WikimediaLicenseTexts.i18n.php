@@ -679,6 +679,33 @@ $messages['lt'] = array(
 	'wm-license-cc-wiki-link' => 'w:lt:Creative Commons',
 );
 
+/** Macedonian (Македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'wikimedialicensetexts-desc' => 'Пораки за лиценците на Викимедија',
+	'wm-license-cc-wiki-link' => 'w:mk:Creative Commons',
+	'wm-license-cc-attribution' => 'Наведи извор',
+	'wm-license-cc-by-1.0-text' => 'Оваа податотека е лиценцирана со [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.mk Наведи извор 1.0 Нелокализирана лиценца]',
+	'wm-license-cc-by-2.0-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.mk Наведи извор 2.0 Нелокализирана лиценца]',
+	'wm-license-cc-by-2.5-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.mk Наведи извор 2.5 Нелокализирана лиценца]',
+	'wm-license-cc-by-3.0-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.mk Наведи извор 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.mk Наведи извор-Сподели под исти услови 1.0 Нелокализирана лиценца]',
+	'wm-license-cc-by-sa-2.0-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.mk Наведи извор-Сподели под исти услови 2.0 Нелокализирана лиценца]',
+	'wm-license-cc-by-sa-2.5-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.mk Наведи извор-Сподели под исти услови 2.5 Нелокализирана лиценца]',
+	'wm-license-cc-by-sa-3.0-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.mk Наведи извор-Сподели под исти услови 3.0 Unported]',
+	'wm-license-cc-free' => 'Можете:',
+	'wm-license-cc-free-to-share-header' => 'да споделите',
+	'wm-license-cc-free-to-share-text' => 'да умножувате, дистрибуирате, јавно да го прикажувате или јавно дигитално да го прикажувате делото',
+	'wm-license-cc-free-to-remix-header' => 'да преработувате',
+	'wm-license-cc-free-to-remix-text' => 'да преработувате',
+	'wm-license-cc-conditions' => 'Под следните услови:',
+	'wm-license-cc-conditions-attribution-header' => 'наведи извор',
+	'wm-license-cc-conditions-attribution-text' => 'Морате да го наведете делото на начин определен од авторот или лицензорот (но не на начин кој сугерира дека тој ве застапува или ја застапува употребата на делото.)',
+	'wm-license-cc-conditions-share_alike-header' => 'сподели под исти услови',
+	'wm-license-cc-conditions-share_alike-text' => 'Ако го измените или преобразите делото, или пак ако основате друго дело на него, добиеното дело можете да го дистрибуирате само под иста или слична лиценца на оваа.',
+);
+
 /** Malayalam (മലയാളം)
  * @author Multichill
  */

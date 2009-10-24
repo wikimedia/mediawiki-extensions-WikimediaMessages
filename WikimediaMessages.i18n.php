@@ -4595,14 +4595,17 @@ $messages['mi'] = array(
  */
 $messages['mk'] = array(
 	'wikimediamessages-desc' => 'Пораки кои се однесуваат на Викимедија',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/mk?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Донации',
 	'tooltip-n-sitesupport' => 'Поддржете нè',
 	'group-abusefilter' => 'Уредници на филтерот на злоупотреба',
 	'group-accountcreator' => 'Создавачи на сметки',
+	'group-autopatrolled' => 'Автопатролери',
 	'group-autopatroller' => 'Автоматски патролирани',
 	'group-autoreviewer' => 'Автооценувачи',
 	'group-bigexport' => 'Големи извозници',
 	'group-confirmed' => 'Потврдени корисници',
+	'group-flood' => 'Корисници-ботови',
 	'group-founder' => 'Основачи',
 	'group-import' => 'Увезувачи',
 	'group-ipblock-exempt' => 'IP блок исклучоци',
@@ -4616,6 +4619,7 @@ $messages['mk'] = array(
 	'group-autoreviewer-member' => 'автооценувач',
 	'group-bigexport-member' => 'голем извозник',
 	'group-confirmed-member' => 'потврден корисник',
+	'group-flood-member' => 'корисник-бот',
 	'group-founder-member' => 'основач',
 	'group-import-member' => 'увозник',
 	'group-ipblock-exempt-member' => 'IP блок исклучок',
@@ -4629,6 +4633,7 @@ $messages['mk'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Автооценувачи',
 	'grouppage-bigexport' => '{{ns:project}}:Големи извозници',
 	'grouppage-confirmed' => '{{ns:project}}:Потврдени корисници',
+	'grouppage-flood' => '{{ns:project}}:Корисници-ботови',
 	'grouppage-founder' => '{{ns:project}}:Основачи',
 	'grouppage-import' => '{{ns:project}}:Увезувачи',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP блок исклучок',
@@ -4659,10 +4664,10 @@ $messages['mk'] = array(
 	'group-inactive' => 'Неактивни корисници',
 	'group-inactive-member' => 'неактивен корисник',
 	'grouppage-inactive' => '{{ns:project}}:Нективни корисници',
-	'wikimedia-copyright' => 'Текстот е достапен под условите на <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.mk">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.mk">Creative Commons Наведи извор/Сподели под исти услови</a>;
 можат да важат и дополнителни услови.
 Видете ги <a href="http://wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0">условите на употреба</a> за детали.',
-	'wikimedia-copyrightwarning' => 'Со зачувувањето на страницата Вие неотповикливо се согласувате дека ги објавувате Вашите придонеси под условите на [http://creativecommons.org/licenses/by-sa/3.0/deed.mk Creative Commons Attribution/Share-Alike License 3.0] и на [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Со зачувувањето на страницата Вие неотповикливо се согласувате дека ги објавувате Вашите придонеси под условите на лиценцата [http://creativecommons.org/licenses/by-sa/3.0/deed.mk Creative Commons Наведи извор/Сподели под исти услови 3.0] и на [http://www.gnu.org/copyleft/fdl.html GFDL].
 Вие се согласувате да добиете заслуга од наредните употребувачи на оваа содржина најмалку преку хиперврска или URL до страницата на која придонесувате. 
 Видете ги [http://wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0 условите на употреба] за детали.',
 	'wikimedia-editpage-tos-summary' => 'Ако не сакате Вашиот текст да биде уредуван и дистрибуиран во секое време, тогаш не го поднесувајте овде.
@@ -5609,6 +5614,7 @@ Zobacz szczegółowe informacje o <a href="http://wikimediafoundation.org/wiki/T
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Bèrto 'd Sèra
+ * @author Dragonòt
  */
 $messages['pms'] = array(
 	'wikimediamessages-desc' => 'Mëssagi specìfich ëd Wikimedia',
@@ -5675,6 +5681,13 @@ $messages['pms'] = array(
 	'group-inactive' => 'Utent inativ',
 	'group-inactive-member' => 'utent inativ',
 	'grouppage-inactive' => '{{ns:project}}:Utent inativ',
+	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+as peul giontesse condission adissionaj.
+Varda <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
+	'wikimedia-copyrightwarning' => "An salvand, it ses d'acòrdi ëd lassé irevocabilment toa contribussion sota la [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e la [http://www.gnu.org/copyleft/fdl.html GFDL].
+It ses d'acòrdi d'esse credità dai riutilisador, almanch, con n'anliura o n'URL a la pàgina dont it l'has contribuì.
+Varda ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] për ij detaj.",
+	'wikimedia-editpage-tos-summary' => "S'it veule pa che tò scrit a sia modificà e redistribuì a volontà, alora butlo pa sì. S'it l'has pa scrivulo da sol, a deuv esse disponìbil sota condission consistente con ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], e it ses d'acòrdi con tùit ij requisì arlevant ëd licensa.",
 );
 
 /** Pontic (Ποντιακά)
@@ -7530,6 +7543,7 @@ $messages['vec'] = array(
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'group-abusefilter' => 'Gestori filtri anti abusi',
 	'group-accountcreator' => 'Creatori de account',
+	'group-autopatrolled' => 'Patujadori automatici',
 	'group-autopatroller' => 'Patujadori automàteghi',
 	'group-autoreviewer' => 'Autoreviewer',
 	'group-bigexport' => 'Grando esportador',
@@ -7538,6 +7552,7 @@ $messages['vec'] = array(
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Inportadori',
 	'group-ipblock-exempt' => "Esenzioni dal bloco de l'IP",
+	'group-patroller' => 'Patujadori',
 	'group-rollbacker' => 'Ripristinadori',
 	'group-transwiki' => 'Inportadori transwiki',
 	'group-abusefilter-member' => 'gestor filtri anti abusi',
@@ -7551,6 +7566,7 @@ $messages['vec'] = array(
 	'group-founder-member' => 'Fondator',
 	'group-import-member' => 'Inportador',
 	'group-ipblock-exempt-member' => 'esente dal bloco IP',
+	'group-patroller-member' => 'patujador',
 	'group-rollbacker-member' => 'ripristinador',
 	'group-transwiki-member' => 'Inportador transwiki',
 	'grouppage-abusefilter' => '{{ns:project}}:Gestori filtri anti abusi',
