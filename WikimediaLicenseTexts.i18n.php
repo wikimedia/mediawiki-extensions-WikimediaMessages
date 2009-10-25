@@ -279,6 +279,7 @@ $messages['eo'] = array(
 /** Spanish (Español)
  * @author Crazymadlover
  * @author Multichill
+ * @author Translationista
  */
 $messages['es'] = array(
 	'wikimedialicensetexts-desc' => 'Mensajes de licencia Wikimedia',
@@ -300,6 +301,7 @@ $messages['es'] = array(
 	'wm-license-cc-conditions' => 'Bajo las siguientes condiciones',
 	'wm-license-cc-conditions-attribution-header' => 'atribución',
 	'wm-license-cc-conditions-share_alike-header' => 'compartir similar',
+	'wm-license-cc-conditions-share_alike-text' => 'En caso de alterar, transformar o ampliar este trabajo, deberá distribuir el trabajo resultante sólo bajo la misma licencia o una similar.',
 );
 
 /** Estonian (Eesti)
@@ -668,6 +670,7 @@ $messages['lb'] = array(
 	'wm-license-cc-free-to-remix-text' => "d'Wierk z'adaptéieren",
 	'wm-license-cc-conditions' => 'Ënner dëse Konditiounen:',
 	'wm-license-cc-conditions-attribution-header' => 'Attributioun',
+	'wm-license-cc-conditions-attribution-text' => 'Dir musst den Numm vum Auteur respektiv de esetzer vun de Rechter esou uginn wéi den dat wënscht (awer net esou datt et esou ausgesäit wé wann deen Iech oder Äer Benotzung vu sengem Wierk ënnerstetze géif).',
 	'wm-license-cc-conditions-share_alike-header' => 'ënner de selwëschte Bedingunge weiderginn',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann dir dëst Wierk ännert, transforméiert oder dorop opbaut, kënnt dir dat Wierk wat daraus entsteet ënner derselweschter oder enger ähnlecher Lizenz, wéi dëser, verdeelen.',
 );

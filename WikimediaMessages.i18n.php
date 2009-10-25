@@ -1616,7 +1616,7 @@ $messages['diq'] = array(
 	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
 	'wikimedia-copyrightwarning' => 'eke şıma pel qeyd bıkeri mışoreyê şıma pê [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u [http://www.gnu.org/copyleft/fdl.html GFDL]yi lisans biyaye hesibiyeno u mışoreyê şıma tepiya nêçariyeno. Karberê bini zi eşkeni mışoreyê şıma re pê gıreyê url bıresi u eşkeni cewab bıde şıma. qey teferruati bıewnê: [http://wikimediafoundation.org/wiki/ Kullanım Koşullarına].',
 	'wikimedia-editpage-tos-summary' => 'eke şıma qayil niyê nuşteyê şıma bıvuriyo ya zi vıla nêbiyo tiya ra meşawê.
-eke no metn şıma nênuşt, bınusê u nuştış de şıma gani[http://wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
+eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[http://wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
 );
 
 /** Lower Sorbian (Dolnoserbski)
