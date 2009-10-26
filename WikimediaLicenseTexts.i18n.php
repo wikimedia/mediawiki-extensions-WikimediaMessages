@@ -300,6 +300,7 @@ $messages['es'] = array(
 	'wm-license-cc-free-to-remix-text' => 'para adaptar el trabajo',
 	'wm-license-cc-conditions' => 'Bajo las siguientes condiciones',
 	'wm-license-cc-conditions-attribution-header' => 'atribución',
+	'wm-license-cc-conditions-attribution-text' => 'Debes atribuir el trabajo de la manera especificada por el autor o persona que lo haya licenciado (pero no de manera que sugiera que estas personas te respaldan o respaldan el uso que hagas del trabajo).',
 	'wm-license-cc-conditions-share_alike-header' => 'compartir similar',
 	'wm-license-cc-conditions-share_alike-text' => 'En caso de alterar, transformar o ampliar este trabajo, deberá distribuir el trabajo resultante sólo bajo la misma licencia o una similar.',
 );
@@ -809,6 +810,20 @@ $messages['oc'] = array(
  */
 $messages['pl'] = array(
 	'wm-license-cc-wiki-link' => 'w:pl:Creative Commons',
+);
+
+/** Piedmontese (Piemontèis)
+ * @author Borichèt
+ */
+$messages['pms'] = array(
+	'wikimedialicensetexts-desc' => 'Mëssagi dle license ëd Wikimedia',
+	'wm-license-cc-wiki-link' => 'w:pms:Creative Commons',
+	'wm-license-cc-attribution' => 'Atribussion',
+	'wm-license-cc-by-1.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Atribussion 1.0 genérica]",
+	'wm-license-cc-by-2.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Atribussion 2.0 genérica]",
+	'wm-license-cc-by-2.5-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Atribussion 2.5 genérica]",
+	'wm-license-cc-by-3.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Atribussion 3.0 unported]",
+	'wm-license-cc-by-sa-1.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Atribussion-partagi ugual 1.0 genérich]",
 );
 
 /** Portuguese (Português)

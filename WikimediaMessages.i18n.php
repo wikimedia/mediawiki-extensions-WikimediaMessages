@@ -1889,6 +1889,7 @@ Vi konsentas esti agnoskata de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo
  * @author Locos epraix
  * @author Platonides
  * @author Sanbec
+ * @author Translationista
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes específicos de Wikimedia',
@@ -1897,10 +1898,12 @@ $messages['es'] = array(
 	'tooltip-n-sitesupport' => 'Apóyenos',
 	'group-abusefilter' => 'Editores de filtro de abuso',
 	'group-accountcreator' => 'Creadores de cuentas',
+	'group-autopatrolled' => 'Autopatrulleros',
 	'group-autopatroller' => 'Autopatrulleros',
 	'group-autoreviewer' => 'Autorrevisores',
 	'group-bigexport' => 'Grandes exportadores',
 	'group-confirmed' => 'Usuarios confirmados',
+	'group-flood' => 'Punt. media',
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
 	'group-ipblock-exempt' => 'Exentos de bloqueo a IP',
@@ -1914,6 +1917,7 @@ $messages['es'] = array(
 	'group-autoreviewer-member' => 'autorrevisor',
 	'group-bigexport-member' => 'gran exportador',
 	'group-confirmed-member' => 'Usuario confirmado',
+	'group-flood-member' => 'usuario de bot',
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
 	'group-ipblock-exempt-member' => 'Exento de bloqueo IP',
@@ -1927,6 +1931,7 @@ $messages['es'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorrevisores',
 	'grouppage-bigexport' => '{{ns:project}}:Grandes exportadores',
 	'grouppage-confirmed' => '{{ns:project}}:Usuarios confirmados',
+	'grouppage-flood' => '{{ns:project}}:Usuarios de bot',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
 	'grouppage-import' => '{{ns:project}}:Importadores',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exento de bloqueo a IP',
@@ -3317,6 +3322,8 @@ $messages['hy'] = array(
 	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [http://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
 Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
 Ծանոթացեք [http://wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։',
+	'wikimedia-editpage-tos-summary' => 'Եթե դուք չեք ցանկանում, որ ձեր գրածը ազատորեն խմբագրվի և տարածվի բոլոր ցանկացողների կողմից, ապա մի ավելացրեք այն այստեղ։
+Եթե ավելացվող նյութի հեղինակը անձամբ դուք չեք, ապա նյութը պարտադիր պետք է համապատասխանի [http://wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններում] նկարագրած արտոնագրային պահանջներին, և դուք համաձայնվում եք հետևել արտոնագրում ներկայացված բոլոր պահանջներին։',
 );
 
 /** Interlingua (Interlingua)
@@ -5682,12 +5689,12 @@ $messages['pms'] = array(
 	'group-inactive-member' => 'utent inativ',
 	'grouppage-inactive' => '{{ns:project}}:Utent inativ',
 	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
-as peul giontesse condission adissionaj.
+as peulo giontesse condission adissionaj.
 Varda <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
 	'wikimedia-copyrightwarning' => "An salvand, it ses d'acòrdi ëd lassé irevocabilment toa contribussion sota la [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e la [http://www.gnu.org/copyleft/fdl.html GFDL].
 It ses d'acòrdi d'esse credità dai riutilisador, almanch, con n'anliura o n'URL a la pàgina dont it l'has contribuì.
 Varda ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] për ij detaj.",
-	'wikimedia-editpage-tos-summary' => "S'it veule pa che tò scrit a sia modificà e redistribuì a volontà, alora butlo pa sì. S'it l'has pa scrivulo da sol, a deuv esse disponìbil sota condission consistente con ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], e it ses d'acòrdi con tùit ij requisì arlevant ëd licensa.",
+	'wikimedia-editpage-tos-summary' => "S'it veule pa che tò scrit a sia modificà e redistribuì a volontà, alora butlo pa sì. S'it l'has pa scrivulo da sol, a deuv esse disponìbil sota condission consistente con ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], e it ses d'acòrdi con tùit ij requisì aplicàbij dla licensa.",
 );
 
 /** Pontic (Ποντιακά)
