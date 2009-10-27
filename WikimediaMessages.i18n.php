@@ -135,6 +135,7 @@ If you did not write this yourself, it must be available under terms consistent 
  * @author Siebrand
  * @author Sp5uhe
  * @author Tagimata
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc}}',
@@ -163,7 +164,10 @@ Big export user has a right to: {{int:right-override-export-depth}}',
 	'group-inactive' => '{{Identical|Inactive user}}',
 	'group-inactive-member' => '{{Identical|Inactive user}}',
 	'grouppage-inactive' => '{{Identical|Inactive user}}',
-	'wikimedia-copyright' => 'This message is displayed on the site footer and is for the new licensing policy.',
+	'wikimedia-copyright' => '{{Identical/Wikimedia-licensing}}
+This message is displayed on the site footer and is for the new licensing policy.',
+	'wikimedia-copyrightwarning' => '{{Identical/Wikimedia-licensing}}',
+	'wikimedia-editpage-tos-summary' => '{{Identical/Wikimedia-licensing}}',
 );
 
 /** Säggssch (Säggssch)
@@ -978,6 +982,7 @@ $messages['br'] = array(
 	'group-accountcreator' => 'Krouerien kontoù',
 	'group-bigexport' => 'Ezporzhierien vras',
 	'group-confirmed' => 'Implijerien kadarnaet',
+	'group-flood' => 'Implijerien botoù',
 	'group-founder' => 'Diazezourien',
 	'group-import' => 'Enporzhierien',
 	'group-ipblock-exempt' => "Nemedennoù bloc'hadoù IP",
@@ -986,12 +991,15 @@ $messages['br'] = array(
 	'group-accountcreator-member' => 'Krouer kontoù',
 	'group-bigexport-member' => 'ezporzhier bras',
 	'group-confirmed-member' => 'implijer kadarnaet',
+	'group-flood-member' => 'implijer botoù',
 	'group-founder-member' => 'Diazezer',
 	'group-import-member' => 'Enporzhier',
 	'group-ipblock-exempt-member' => "Nemedenn bloc'had IP",
 	'group-rollbacker-member' => 'Assaver',
 	'group-transwiki-member' => 'Enporzhier treuzwiki',
 	'grouppage-accountcreator' => '{{ns:project}}: Krouerien kontoù',
+	'grouppage-bigexport' => '{{ns:project}}: Ezporzhierien vras',
+	'grouppage-flood' => '{{ns:project}}: implijer botoù',
 	'grouppage-founder' => '{{ns:project}}:Diazezerien',
 	'grouppage-import' => '{{ns:project}}:Enporzherien',
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Nemedenn bloc'had IP",
@@ -1002,6 +1010,7 @@ $messages['br'] = array(
 	'group-Global_bot' => 'Botoù hollek',
 	'group-Ombudsmen' => 'Hanterourien',
 	'group-Staff' => 'skipailh',
+	'group-sysadmin-member' => 'Merour ar reizhiad',
 	'group-Editinterface-member' => 'aozer an etrefas',
 	'group-Global_bot-member' => 'bot hollek',
 	'group-Ombudsmen-member' => 'hanterour',
@@ -1447,6 +1456,7 @@ $messages['da'] = array(
  * @author Church of emacs
  * @author Khaledelmansoury
  * @author Melancholie
+ * @author Merlissimo
  * @author Metalhead64
  * @author Pill
  * @author Purodha
@@ -1522,12 +1532,12 @@ $messages['de'] = array(
 	'group-inactive-member' => 'Inaktiver Benutzer',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
 	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
-Details sind den <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Nutzungsbedingungen</a> zu entnehmen.',
+Details sind den <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> zu entnehmen.',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
-Details sind den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] zu entnehmen.',
+Details sind den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen  Nutzungsbedingungen] zu entnehmen.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
-Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
+Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 );
 
 /** German (formal address) (Deutsch (Sie-Form))
@@ -1538,9 +1548,9 @@ $messages['de-formal'] = array(
 	'tooltip-n-sitesupport' => 'Unterstützen Sie uns',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzieren Sie Ihre Bearbeitung unwiderruflich unter die [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Sie stimmen zu, dass eine Weiterverwendung mindestens durch durch einen Hyperlink oder einer URL zur Seite, die Sie bearbeiten, erfolgen darf.
-Details sind den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] zu entnehmen.',
+Details sind den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] zu entnehmen.',
 	'wikimedia-editpage-tos-summary' => 'Wenn Sie nicht möchten, dass Ihr Text weiterbearbeitet und weiterverbreitet wird, dann speichern Sie ihn nicht.
-Falls Sie den Text nicht selber verfasst haben, muss er unter den [http://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] verfügbar sein und Sie stimmen zu, notwendigen Lizenzanforderungen zu folgen.',
+Falls Sie den Text nicht selber verfasst haben, muss er unter den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und Sie stimmen zu, notwendigen Lizenzanforderungen zu folgen.',
 );
 
 /** Zazaki (Zazaki)
@@ -4076,6 +4086,7 @@ $messages['krj'] = array(
 );
 
 /** Ripoarisch (Ripoarisch)
+ * @author Merlissimo
  * @author Purodha
  * @author Απεργός
  */
@@ -4146,9 +4157,9 @@ $messages['ksh'] = array(
 	'group-inactive-member' => 'Metmaacher, dä nix deiht',
 	'grouppage-inactive' => '{{ns:project}}:{{int:group-inactive}}',
 	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
-	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="http://creativecommons.org/licenses/by-sa/3.0/">Lizänz: <i lang="en">Creative Commons Attribution/Share-Alike</i></a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
-	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [http://creativecommons.org/licenses/by-sa/3.0/ Lizänz <i lang="en">Creative Commons Attribution/Share-Alike</i> 3.0] un de [http://www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [http://wikimediafoundation.org/wiki/Terms_of_Use Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
-	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [http://wikimediafoundation.org/wiki/Terms_of_Use Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
+	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">Lizänz: <i lang="de">Creative Commons Attribution/Share-Alike</i></a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
+	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [http://creativecommons.org/licenses/by-sa/3.0/deed.de Lizänz <i lang="de">Creative Commons Attribution/Share-Alike</i> 3.0] un de [http://www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
+	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 );
 
 /** Kurdish (Latin) (Kurdî / كوردی (Latin)) */

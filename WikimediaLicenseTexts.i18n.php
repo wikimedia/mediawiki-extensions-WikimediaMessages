@@ -141,6 +141,7 @@ $messages['br'] = array(
 	'wm-license-cc-free-to-share-header' => 'eskemm',
 	'wm-license-cc-free-to-share-text' => 'eilañ, skignañ ha treuzkas an oberenn-mañ',
 	'wm-license-cc-free-to-remix-header' => 'kemmañ',
+	'wm-license-cc-free-to-remix-text' => 'azasaat an oberenn-mañ',
 	'wm-license-cc-conditions' => 'diouzh ma heuilhit kement-mañ :',
 	'wm-license-cc-conditions-attribution-header' => 'deroadenn',
 	'wm-license-cc-conditions-attribution-text' => "Rankout a rit dereiñ an oberenn-mañ diouzh an doare resisaet gant an aozer pe an hini en deus roet an aotre (met hep reiñ da grediñ ez oc'h bet aprouet ganto pe ez eo aprouet ganto implij an oberenn-mañ).",
@@ -824,6 +825,19 @@ $messages['pms'] = array(
 	'wm-license-cc-by-2.5-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Atribussion 2.5 genérica]",
 	'wm-license-cc-by-3.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Atribussion 3.0 unported]",
 	'wm-license-cc-by-sa-1.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Atribussion-partagi ugual 1.0 genérich]",
+	'wm-license-cc-by-sa-2.0-text' => "Cost archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Atribussion-Partagi ugual 2.0 genérich]",
+	'wm-license-cc-by-sa-2.5-text' => "Cost archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Atribution-Partagi ugual 2.5 genérich]",
+	'wm-license-cc-by-sa-3.0-text' => "Cost archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Atribution-Partagi ugual 3.0 unported]",
+	'wm-license-cc-free' => "Chiel a l'é lìber:",
+	'wm-license-cc-free-to-share-header' => 'ëd partagé',
+	'wm-license-cc-free-to-share-text' => 'ëd copié, distribuì e fé giré cost travaj',
+	'wm-license-cc-free-to-remix-header' => 'ëd riorganisé',
+	'wm-license-cc-free-to-remix-text' => "d'adaté ël travaj",
+	'wm-license-cc-conditions' => 'Sota le condission sì-dapress:',
+	'wm-license-cc-conditions-attribution-header' => 'atribussion',
+	'wm-license-cc-conditions-attribution-text' => "A dev atribuì ël travaj ant la manera specificà da l'autor o da chi a lo conced (ma pa ëd na fasson ch'a sugerissa che costi-sì a apreuvo chiel o sò usage d'ës travaj)",
+	'wm-license-cc-conditions-share_alike-header' => 'partagi ugual',
+	'wm-license-cc-conditions-share_alike-text' => "Se chiel a modìfica, a cangia, o as basa ansima a 's travaj, a peul distribuì l'euvra ch'a na arzulta mach sota l'istessa licensa o a na licensa ch'a jë smija.",
 );
 
 /** Portuguese (Português)
