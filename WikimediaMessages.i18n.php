@@ -141,7 +141,9 @@ $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc}}',
 	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
 {{doc-important|Only change the link if it has a translation!|([http://wikimediafoundation.org/wiki/Special:Prefixindex/Donate/ check])}}',
-	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.",
+	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.
+
+{{Identical|Donate}}",
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
 	'group-accountcreator' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]]. See also {{msg|group-accountcreator-member}}.',
 	'group-bigexport' => 'Big export user has a right to: {{int:right-override-export-depth}}',
@@ -7374,12 +7376,14 @@ $messages['ts'] = array(
 
 /** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
  * @author Rinatus
+ * @author Timming
  * @author Ерней
  */
 $messages['tt-cyrl'] = array(
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
 	'group-inactive' => 'Актив булмаган катнашучылар',
+	'wikimedia-copyrightwarning' => "Үзгәртүләрне саклаган вакытта, сез аларның [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] һәм [http://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча публикацияләвенә риза буласыз. Бу битне кулланганда, сезгә иң киме гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз. Тулырак мәгълүмат өчен [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] битен карагыз.",
 );
 
 /** Tatar (Latin) (Татарча/Tatarça (Latin)) */
