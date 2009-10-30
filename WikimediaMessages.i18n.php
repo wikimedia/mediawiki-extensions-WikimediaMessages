@@ -974,6 +974,7 @@ $messages['bqi'] = array(
 
 /** Breton (Brezhoneg)
  * @author Fulup
+ * @author Y-M D
  * @author לערי ריינהארט
  */
 $messages['br'] = array(
@@ -1012,6 +1013,7 @@ $messages['br'] = array(
 	'group-Global_bot' => 'Botoù hollek',
 	'group-Ombudsmen' => 'Hanterourien',
 	'group-Staff' => 'skipailh',
+	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'Merour ar reizhiad',
 	'group-Editinterface-member' => 'aozer an etrefas',
 	'group-Global_bot-member' => 'bot hollek',
@@ -1238,14 +1240,24 @@ $messages['co'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
-/** Crimean Turkish (Latin) (Qırımtatarca (Latin)) */
+/** Crimean Turkish (Latin) (Qırımtatarca (Latin))
+ * @author Don Alessandro
+ */
 $messages['crh-latn'] = array(
 	'sitesupport' => 'Bağışlar',
+	'wikimedia-copyrightwarning' => 'Saifeni saqlap, yazğanıñıznıñ keri qaytalmaz şekilde [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [http://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre derc etilgenini qabul eteceksiñiz. Bu saifedeki malümatnı bundan soñ qullanacaqlarnıñ qoşqan isseñiz aqqında bare bu saifege bağlantı berip bildirecegi yeterli olacağını da qabul eteceksiñiz. Daa tafsilâtlı malümat içün [http://wikimediafoundation.org/wiki/ Qullanuv Şartlarını] baqıñız.',
+	'wikimedia-editpage-tos-summary' => 'Eger yazğan metinleriñizni er bir adam serbestçe deñiştirip ve tarqatıp olacağını istemeseñiz, olarnı mında yerleştirmeñiz.
+Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan olsa, şu metinniñ yerleştirilüvi [http://wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]na uyğun olmalı, ve siz litsenziyanıñ bütün kerekli talaplarınen razı olmalısıñız.',
 );
 
-/** Crimean Turkish (Cyrillic) (Qırımtatarca (Cyrillic)) */
+/** Crimean Turkish (Cyrillic) (Qırımtatarca (Cyrillic))
+ * @author Don Alessandro
+ */
 $messages['crh-cyrl'] = array(
 	'sitesupport' => 'Багъышлар',
+	'wikimedia-copyrightwarning' => 'Саифени сакълап, язгъанынъызнынъ кери къайталмаз шекильде [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ве [http://www.gnu.org/copyleft/fdl.html GFDL] лицензияларынынъ шартларына коре дердж этильгенини къабул этеджексинъиз. Бу саифедеки малюматны бундан сонъ къулланаджакъларнынъ къошкъан иссенъиз акъкъында баре бу саифеге багъланты берип бильдиреджеги етерли оладжагъыны да къабул этеджексинъиз. Даа тафсилятлы малюмат ичюн [http://wikimediafoundation.org/wiki/ Къулланув Шартларыны] бакъынъыз.',
+	'wikimedia-editpage-tos-summary' => 'Эгер язгъан метинлеринъизни эр бир адам сербестче денъиштирип ве таркъатып оладжагъыны истемесенъиз, оларны мында ерлештирменъиз.
+Эгер ерлештирмеге истеген метнинъизни сиз дегиль де, башкъа бир адам язгъан олса, шу метиннинъ ерлештирилюви [http://wikimediafoundation.org/wiki/Terms_of_Use Къулланув Шартлары]на уйгъун олмалы, ве сиз лицензиянынъ бутюн керекли талапларынен разы олмалысынъыз.',
 );
 
 /** Czech (Česky)
@@ -1534,10 +1546,10 @@ $messages['de'] = array(
 	'group-inactive-member' => 'Inaktiver Benutzer',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
 	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
-Details sind den <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> zu entnehmen.',
+Einzelheiten sind in den <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrieben.',
 	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
-Details sind den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen  Nutzungsbedingungen] zu entnehmen.',
+Einzelheiten sind in den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] beschrieben.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
 Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 );
@@ -4710,22 +4722,28 @@ $messages['ml'] = array(
 	'sitesupport' => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
 	'group-accountcreator' => 'അക്കൗണ്ട് സ്രഷ്ടാക്കള്‍',
+	'group-bigexport' => 'മഹാ കയറ്റുമതിക്കാർ',
 	'group-confirmed' => 'സ്ഥിരീകരിച്ച ഉപയോക്താക്കൾ',
 	'group-flood' => 'ബോട്ട് ഉപയോക്താക്കൾ',
 	'group-founder' => 'സ്ഥാപകര്‍',
 	'group-import' => 'ഇറക്കുമതിക്കാർ',
+	'group-ipblock-exempt' => 'ഐ.പി. തടയൽ ഒഴിവാക്കലുകൾ',
 	'group-patroller' => 'റോന്തു ചുറ്റുന്നവര്‍',
 	'group-accountcreator-member' => 'അംഗത്വ സ്രഷ്ടാവ്',
+	'group-bigexport-member' => 'മഹാ കയറ്റുമതിയാൾ',
 	'group-confirmed-member' => 'സ്ഥിരീകരിച്ച ഉപയോക്താവ്',
 	'group-flood-member' => 'ബോട്ട് ഉപയോക്താക്കൾ',
 	'group-founder-member' => 'സ്ഥാപകർ',
 	'group-import-member' => 'ഇറക്കുമതിക്കാർ',
+	'group-ipblock-exempt-member' => 'ഐ.പി. തടയൽ ഒഴിവാക്കൽ',
 	'group-patroller-member' => 'റോന്തു ചുറ്റുന്നവര്‍',
 	'grouppage-accountcreator' => '{{ns:project}}:അംഗത്വ സ്രഷ്ടാക്കൾ',
+	'grouppage-bigexport' => '{{ns:project}}:മഹാ കയറ്റുമതിക്കാർ',
 	'grouppage-confirmed' => '{{ns:project}}:സ്ഥിരീകരിച്ച ഉപയോക്താക്കൾ',
 	'grouppage-flood' => '{{ns:project}}:ബോട്ട് ഉപയോക്താക്കൾ',
 	'grouppage-founder' => '{{ns:project}}:സ്ഥാപകർ',
 	'grouppage-import' => '{{ns:project}}:ഇറക്കുമതിക്കാർ',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:ഐ.പി. തടയൽ ഒഴിവാക്കൽ',
 	'group-steward' => 'സ്റ്റ്യൂവാര്‍ഡുകള്‍',
 	'group-sysadmin' => 'സിസ്റ്റം കാര്യനിർവാഹകർ',
 	'group-Editinterface' => 'ദൃശ്യരൂപം തിരുത്തുന്നവർ',
@@ -5084,7 +5102,7 @@ $messages['nds'] = array(
 $messages['nds-nl'] = array(
 	'wikimediamessages-desc' => 'Systeemteksen veur Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/nds-nl',
-	'sitesupport' => 'Financiële steun',
+	'sitesupport' => 'Geld geven',
 	'tooltip-n-sitesupport' => 'Gef oons geald',
 	'group-abusefilter' => 'misbruukfilterredacteuren',
 	'group-accountcreator' => 'gebrukeranmakers',
@@ -5747,6 +5765,7 @@ $messages['ps'] = array(
  * @author Crazymadlover
  * @author David0811
  * @author Giro720
+ * @author Hamilton Abreu
  * @author Lijealso
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
@@ -5758,10 +5777,12 @@ $messages['pt'] = array(
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'group-abusefilter' => 'Editores de filtros de abuso',
 	'group-accountcreator' => 'Criadores de contas',
+	'group-autopatrolled' => 'Auto-patrulhadores',
 	'group-autopatroller' => 'Auto-patrulhadores',
 	'group-autoreviewer' => 'Autocríticos',
 	'group-bigexport' => 'Grandes exportadores',
 	'group-confirmed' => 'Utilizadores confirmados',
+	'group-flood' => 'Utilizadores robô',
 	'group-founder' => 'Fundadores',
 	'group-import' => 'Importadores',
 	'group-ipblock-exempt' => 'IPs não bloqueados',
@@ -5774,7 +5795,7 @@ $messages['pt'] = array(
 	'group-autopatroller-member' => 'auto-patrulhador',
 	'group-autoreviewer-member' => 'autocrítico',
 	'group-bigexport-member' => 'grande exportador',
-	'group-confirmed-member' => 'usuário confirmado',
+	'group-confirmed-member' => 'utilizador confirmado',
 	'group-founder-member' => 'fundador',
 	'group-import-member' => 'importador',
 	'group-ipblock-exempt-member' => 'IPs não bloqueados',
@@ -7706,10 +7727,12 @@ $messages['vi'] = array(
 	'tooltip-n-sitesupport' => 'Hãy hỗ trợ chúng tôi',
 	'group-abusefilter' => 'Người sửa bộ lọc lạm dụng',
 	'group-accountcreator' => 'Người mở tài khoản',
+	'group-autopatrolled' => 'Người tự đánh dấu tuần tra',
 	'group-autopatroller' => 'Tuần tra viên tự động',
 	'group-autoreviewer' => 'Người tự duyệt',
 	'group-bigexport' => 'Thành viên được phép xuất nhiều trang',
 	'group-confirmed' => 'Thành viên được xác nhận',
+	'group-flood' => 'Người dùng bot',
 	'group-founder' => 'Nhà sáng lập',
 	'group-import' => 'Người nhập trang',
 	'group-ipblock-exempt' => 'Người được miễn cấm IP',
@@ -7723,6 +7746,7 @@ $messages['vi'] = array(
 	'group-autoreviewer-member' => 'người tự duyệt',
 	'group-bigexport-member' => 'xuất nhiều trang',
 	'group-confirmed-member' => 'thành viên được xác nhận',
+	'group-flood-member' => 'người dùng bot',
 	'group-founder-member' => 'Nhà sáng lập',
 	'group-import-member' => 'Người nhập trang',
 	'group-ipblock-exempt-member' => 'Người được miễn cấm IP',
@@ -7736,6 +7760,7 @@ $messages['vi'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Người tự duyệt',
 	'grouppage-bigexport' => '{{ns:project}}:Thành viên được phép xuất nhiều trang',
 	'grouppage-confirmed' => '{{ns:project}}:Thành viên được xác nhận',
+	'grouppage-flood' => '{{ns:project}}:Người dùng bot',
 	'grouppage-founder' => '{{ns:project}}:Nhà sáng lập',
 	'grouppage-import' => '{{ns:project}}:Người nhập trang',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Người được miễn cấm IP',
