@@ -1008,6 +1008,7 @@ $messages['br'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Nemedenn bloc'had IP",
 	'grouppage-rollbacker' => '{{ns:project}}:Assaverien',
 	'grouppage-transwiki' => '{{ns:project}}:Enporzherien treuzwiki',
+	'group-steward' => 'Stewarded',
 	'group-sysadmin' => 'Merourien ar reizhiad',
 	'group-Editinterface' => 'Aozañ etrefas',
 	'group-Global_bot' => 'Botoù hollek',
@@ -1024,6 +1025,14 @@ $messages['br'] = array(
 	'group-inactive' => 'Implijerien dioberiant',
 	'group-inactive-member' => 'implijer dioberiant',
 	'grouppage-inactive' => '{{ns:project}}:Implijerien dioberiant',
+	'wikimedia-copyright' => 'Gallout a reer implijout an testennoù zo dindan <a href="http://creativecommons.org/licenses/by-sa/3.0/">an Aotre Implijout Creative Commons Dereiñ/Kenrannañ</a>;
+divizoù ouzhpenn a c\'hall bezañ ivez.
+Gwelet an <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Doreoù Implijout</a> evit gouzout hiroc\'h.',
+	'wikimedia-copyrightwarning' => "Dre glikañ war enrollañ ec'h asantit enskrivañ da viken ho tegasadennoù dindan [http://creativecommons.org/licenses/by-sa/3.0/ an Aotre implijout Creative Commons Dereiñ/Kenrannañ 3.0] hag ar [http://www.gnu.org/copyleft/fdl.html GFDL].
+Degemer a rit ma vo, da nebeutañ, lakaet war ho kont dre ur gourliamm pe un URL ar bajenn hoc'h eus kemeret perzh enni.
+Gwelet [http://wikimediafoundation.org/wiki/Terms_of_Use an Doareoù Implijout] evit gouzout hiroc'h.",
+	'wikimedia-editpage-tos-summary' => "Ma nac'hit e vefe kemmet ha skignet ho skridoù d'ar seizh avel, neuze eo arabat deoc'h kemer perzh amañ.
+Mar n'int ket bet skrivet ganeoc'h war-eeun, gwiriit mat e c'haller ober ganto diouzh termenoù a glot gant an [http://wikimediafoundation.org/wiki/Terms_of_Use Doareoù Implijout], hag ec'h asantit ober diouzh divizoù leun an Aotre Implijout.",
 );
 
 /** Bosnian (Bosanski)
@@ -4394,8 +4403,12 @@ $messages['lij'] = array(
  * @author Dakrismeno
  */
 $messages['lmo'] = array(
-	'sitesupport' => 'Dunazziun',
+	'wikimediamessages-desc' => 'Messagg specifegh de Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/lmo',
+	'sitesupport' => 'Dunazión',
 	'tooltip-n-sitesupport' => 'Dàss una man',
+	'group-abusefilter' => 'Mudificadur di filter anti-abüs',
+	'group-accountcreator' => 'Creadur di cünt',
 	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [http://wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
 );
 
@@ -5106,22 +5119,27 @@ $messages['nds-nl'] = array(
 	'tooltip-n-sitesupport' => 'Gef oons geald',
 	'group-abusefilter' => 'misbruukfilterredacteuren',
 	'group-accountcreator' => 'gebrukeranmakers',
+	'group-autopatrolled' => 'autematische contreleurs',
 	'group-autopatroller' => 'autopatrollers',
 	'group-autoreviewer' => 'auto-eindredactie',
 	'group-bigexport' => 'grote uutvoerders',
 	'group-confirmed' => 'bevestigen gebrukers',
+	'group-flood' => 'botgebrukers',
 	'group-founder' => 'grondlegers',
 	'group-import' => 'invoerders',
 	'group-ipblock-exempt' => 'uutzunderingen van IP-adresblokkeringen',
+	'group-patroller' => 'contreleurs',
 	'group-rollbacker' => 'weerummedreiers',
 	'group-transwiki' => 'transwiki-invoerders',
 	'group-accountcreator-member' => 'gebrukeranmaker',
 	'group-autopatrolled-member' => 'autopatroller',
 	'group-autopatroller-member' => 'autopatroller',
 	'group-confirmed-member' => 'bevestigen gebruker',
+	'group-flood-member' => 'botgebruker',
 	'group-founder-member' => 'grondleger',
 	'group-import-member' => 'invoerder',
 	'group-ipblock-exempt-member' => 'uutzundering van IP-adresblokkeringen',
+	'group-patroller-member' => 'contreleur',
 	'group-rollbacker-member' => 'weerummedreier',
 	'group-transwiki-member' => 'transwiki-invoerder',
 	'grouppage-accountcreator' => '{{ns:project}}:Gebrukeranmakers',
@@ -5146,14 +5164,16 @@ $messages['nds-nl'] = array(
 	'group-Staff-member' => 'staflid',
 	'group-coder' => 'progremmeurs',
 	'group-coder-member' => 'progremmeur',
-	'wikimedia-copyright' => 'De tekse ku-j naolezen onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>.
-\'t Kan ween dat nog meer veurweerden van toepassing bin.
-Bekiek de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Algemene Veurweerden</a> veur meer infermasie.',
+	'group-inactive' => 'inactieve gebrukers',
+	'group-inactive-member' => 'inactieve gebruker',
+	'grouppage-inactive' => '{{ns:project}}:Inactieve gebrukers',
+	'wikimedia-copyright' => 'De tekse ku-j naolezen onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>; \'t kan ween dat nog meer veurweerden van toepassing bin.
+Bekiek de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">algemene veurweerden</a> veur meer infermasie.',
 	'wikimedia-copyrightwarning' => "A-j disse bewarking opslaon, dan stem je in mit 't vriegeven van joew biedrage onder de licentie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL], dit ku-w neet weerummedreien.
 Je stemmen dermee in deur hergebrukers op z'n mins eneumd te wonnen via een verwiezing naor de pagina waor je an biedragen.
-Bekiek de [http://wikimediafoundation.org/wiki/Terms_of_Use Algemene Veurweerden] veur meer infermasie.",
-	'wikimedia-editpage-tos-summary' => "A-j neet willen dat joew biedrage bewark of verspreit wonnen, slao 't dan neet op.
-A-j de tekse neet zelf eschreven hemmen, dan mut de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_Use Algemene Veurweerden] en stem je in mit alle rillevante licentieveurweerden.",
+Bekiek de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] veur meer infermasie.",
+	'wikimedia-editpage-tos-summary' => "A-j neet willen dat joew biedrage bewark of verspreid wönnen, slao 't dan neet op.
+A-j de tekse neet zelf eschreven hemmen, dan mut de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] en stem je in mit alle rillevante licentieveurweerden.",
 );
 
 /** Nepali (नेपाली) */
