@@ -544,6 +544,7 @@ $messages['ia'] = array(
 
 /** Indonesian (Bahasa Indonesia)
  * @author Irwangatot
+ * @author IvanLanin
  * @author Multichill
  */
 $messages['id'] = array(
@@ -562,7 +563,12 @@ $messages['id'] = array(
 	'wm-license-cc-free-to-share-header' => 'untuk di bagi',
 	'wm-license-cc-free-to-share-text' => 'untuk menyalin, menyebarkan dan mengirimkan pekerjaan',
 	'wm-license-cc-free-to-remix-header' => 'untuk mencampur',
+	'wm-license-cc-free-to-remix-text' => 'untuk mengadaptasi karya',
 	'wm-license-cc-conditions' => 'Dibawah kondisi berikut:',
+	'wm-license-cc-conditions-attribution-header' => 'atribusi',
+	'wm-license-cc-conditions-attribution-text' => 'Anda harus mengatribusi karya dengan cara yang ditentukan oleh pengarang atau pemberi lisensi (tapi tidak dengan cara apapun yang mengesankan bahwa mereka mendorong Anda atau penggunaan Anda terhadap karya).',
+	'wm-license-cc-conditions-share_alike-header' => 'berbagi serupa',
+	'wm-license-cc-conditions-share_alike-text' => 'Jika Anda mengubah, mentranformasikan, atau membuat atas dasar karya ini, Anda dapat mendistribusikan karya yang dihasilkan hanya di bawah lisensi yang sama atau mirip dengan lisensi ini.',
 );
 
 /** Italian (Italiano)
@@ -682,6 +688,15 @@ $messages['lb'] = array(
  */
 $messages['lt'] = array(
 	'wm-license-cc-wiki-link' => 'w:lt:Creative Commons',
+);
+
+/** Malagasy (Malagasy)
+ * @author Jagwar
+ */
+$messages['mg'] = array(
+	'wm-license-cc-free' => 'Azonao am-palalahana:',
+	'wm-license-cc-free-to-share-header' => 'ny mizara',
+	'wm-license-cc-free-to-share-text' => "ny mandika, mizara sy manome ity vokatr'asa ity",
 );
 
 /** Macedonian (Македонски)
