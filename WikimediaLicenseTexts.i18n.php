@@ -450,6 +450,14 @@ $messages['gsw'] = array(
 $messages['he'] = array(
 	'wikimedialicensetexts-desc' => 'הודעות הרישוי של ויקימדיה',
 	'wm-license-cc-wiki-link' => 'w:he:Creative Commons',
+	'wm-license-cc-attribution' => 'יחוס',
+	'wm-license-cc-free' => 'הנכם רשאים:',
+	'wm-license-cc-free-to-share-header' => 'לשתף',
+	'wm-license-cc-free-to-share-text' => 'להעתיק, להפיץ ולהעביר את העבודה',
+	'wm-license-cc-free-to-remix-header' => 'לערבב בין עבודות',
+	'wm-license-cc-free-to-remix-text' => 'להתאים את העבודה',
+	'wm-license-cc-conditions' => 'תחת התנאים הבאים:',
+	'wm-license-cc-conditions-attribution-header' => 'יחוס',
 );
 
 /** Croatian (Hrvatski)
