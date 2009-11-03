@@ -458,6 +458,7 @@ $messages['he'] = array(
 	'wm-license-cc-free-to-remix-text' => 'להתאים את העבודה',
 	'wm-license-cc-conditions' => 'תחת התנאים הבאים:',
 	'wm-license-cc-conditions-attribution-header' => 'יחוס',
+	'wm-license-cc-conditions-share_alike-header' => 'שיתוף דומה',
 );
 
 /** Croatian (Hrvatski)
@@ -980,9 +981,11 @@ $messages['sr'] = array(
 
 /** Swedish (Svenska)
  * @author Multichill
+ * @author Poxnar
  */
 $messages['sv'] = array(
 	'wm-license-cc-wiki-link' => 'w:sv:Creative Commons',
+	'wm-license-cc-free' => 'Du får:',
 );
 
 /** Tamil (தமிழ்)
