@@ -445,19 +445,20 @@ $messages['gsw'] = array(
 
 /** Hebrew (עברית)
  * @author Multichill
+ * @author Rotemliss
  * @author YaronSh
  */
 $messages['he'] = array(
 	'wikimedialicensetexts-desc' => 'הודעות הרישוי של ויקימדיה',
 	'wm-license-cc-wiki-link' => 'w:he:Creative Commons',
-	'wm-license-cc-attribution' => 'יחוס',
+	'wm-license-cc-attribution' => 'ייחוס',
 	'wm-license-cc-free' => 'הנכם רשאים:',
 	'wm-license-cc-free-to-share-header' => 'לשתף',
 	'wm-license-cc-free-to-share-text' => 'להעתיק, להפיץ ולהעביר את העבודה',
 	'wm-license-cc-free-to-remix-header' => 'לערבב בין עבודות',
 	'wm-license-cc-free-to-remix-text' => 'להתאים את העבודה',
 	'wm-license-cc-conditions' => 'תחת התנאים הבאים:',
-	'wm-license-cc-conditions-attribution-header' => 'יחוס',
+	'wm-license-cc-conditions-attribution-header' => 'ייחוס',
 	'wm-license-cc-conditions-share_alike-header' => 'שיתוף דומה',
 );
 
@@ -866,12 +867,22 @@ $messages['pms'] = array(
 
 /** Portuguese (Português)
  * @author Giro720
+ * @author Hamilton Abreu
  * @author Lijealso
  * @author Multichill
  */
 $messages['pt'] = array(
+	'wikimedialicensetexts-desc' => 'Mensagens de licenciamento Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:pt:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribuição',
+	'wm-license-cc-by-1.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by/2.0/deed.pt Atribuição 2.0 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-2.5-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by/2.5/deed.pt Atribuição 2.5 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-3.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by/3.0/deed.pt Atribuição 3.0 Unported] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-1.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/1.0/deed.pt Atribuição-Compartilhamento pela mesma Licença 1.0 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-2.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/2.0/deed.pt Atribuição-Compartilhamento pela mesma Licença 2.0 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-2.5-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/2.5/deed.pt Atribuição-Compartilhamento pela mesma Licença 2.5 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-by-sa-3.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/3.0/deed.pt Atribuição-Compartilhamento pela mesma Licença 3.0 Unported] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-free' => 'É livre para:',
 	'wm-license-cc-free-to-share-header' => 'para partilhar',
 	'wm-license-cc-free-to-share-text' => 'para copiar, distribuir e transmitir o trabalho',
