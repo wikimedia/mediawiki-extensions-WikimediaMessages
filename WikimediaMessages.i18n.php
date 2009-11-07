@@ -4206,7 +4206,7 @@ $messages['ku-latn'] = array(
 	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
 );
 
-/** Cornish (Kernewek)
+/** Cornish (Kernowek)
  * @author Malafaya
  */
 $messages['kw'] = array(
@@ -5065,7 +5065,7 @@ $messages['myv'] = array(
 	'group-Editinterface-member' => 'интерчамань витний-петний',
 );
 
-/** Mazanderani (مَزِروني)
+/** Mazanderani (مازِرونی)
  * @author Spacebirdy
  */
 $messages['mzn'] = array(
@@ -6535,6 +6535,7 @@ $messages['shi'] = array(
  */
 $messages['si'] = array(
 	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂී පණිවුඩයන්',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
 	'sitesupport' => 'පරිත්‍යාග',
 	'tooltip-n-sitesupport' => 'අප හට අනුග්‍රහ සපයන්න',
 	'group-accountcreator' => 'ගිණුම් තතනන්නන්',
@@ -6951,12 +6952,14 @@ $messages['su'] = array(
 	'group-founder' => 'Nu ngadegkeun',
 	'group-import' => 'Importir',
 	'group-ipblock-exempt' => 'Peungpeuk kajaba IP',
+	'group-patroller' => 'Nu ngaronda',
 	'group-rollbacker' => 'Malikeun révisi',
 	'group-transwiki' => 'Importir transwiki',
 	'group-accountcreator-member' => 'nu nyieun rekening',
 	'group-founder-member' => 'nu ngadegkeun',
 	'group-import-member' => 'importir',
 	'group-ipblock-exempt-member' => 'Peungpeuk kajaba IP',
+	'group-patroller-member' => 'Nu ngaronda',
 	'group-rollbacker-member' => 'Malikeun révisi',
 	'group-transwiki-member' => 'importir transwiki',
 	'grouppage-accountcreator' => '{{ns:project}}:Nu nyieun rekening',

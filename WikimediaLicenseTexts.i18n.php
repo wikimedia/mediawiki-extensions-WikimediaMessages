@@ -883,12 +883,16 @@ $messages['pt'] = array(
 	'wm-license-cc-by-sa-2.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/2.0/deed.pt Atribuição-Compartilhamento pela mesma Licença 2.0 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-by-sa-2.5-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/2.5/deed.pt Atribuição-Compartilhamento pela mesma Licença 2.5 Genérica] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-by-sa-3.0-text' => 'Este ficheiro é disponibilizado nos termos da licença [http://creativecommons.org/licenses/by-sa/3.0/deed.pt Atribuição-Compartilhamento pela mesma Licença 3.0 Unported] do [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
-	'wm-license-cc-free' => 'É livre para:',
-	'wm-license-cc-free-to-share-header' => 'para partilhar',
-	'wm-license-cc-free-to-share-text' => 'para copiar, distribuir e transmitir o trabalho',
-	'wm-license-cc-free-to-remix-text' => 'para adaptar a obra',
+	'wm-license-cc-free' => 'É livre:',
+	'wm-license-cc-free-to-share-header' => 'de partilhar',
+	'wm-license-cc-free-to-share-text' => 'copiar, distribuir e transmitir a obra',
+	'wm-license-cc-free-to-remix-header' => 'de recombinar',
+	'wm-license-cc-free-to-remix-text' => 'criar obras derivadas',
 	'wm-license-cc-conditions' => 'De acordo com as seguintes condições:',
 	'wm-license-cc-conditions-attribution-header' => 'atribuição',
+	'wm-license-cc-conditions-attribution-text' => 'A obra tem de ser atribuída da forma especificada pelo seu autor ou pela entidade licenciadora (sem qualquer sugestão de que estes o apoiam ou subscrevem o seu uso da obra).',
+	'wm-license-cc-conditions-share_alike-header' => 'partilha semelhante',
+	'wm-license-cc-conditions-share_alike-text' => 'Se alterar, transformar ou ampliar esta obra, pode distribuir a obra resultante somente sob a mesma licença ou licença semelhante.',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
