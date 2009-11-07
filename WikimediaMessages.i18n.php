@@ -994,6 +994,7 @@ $messages['br'] = array(
 	'group-patroller' => 'Patrouilherien',
 	'group-rollbacker' => 'Assaverien',
 	'group-transwiki' => 'Enporzherien treuzwiki',
+	'group-abusefilter-member' => 'aozer ar siloù a-enep ar gwallimplij',
 	'group-accountcreator-member' => 'Krouer kontoù',
 	'group-bigexport-member' => 'ezporzhier bras',
 	'group-confirmed-member' => 'implijer kadarnaet',
@@ -1004,8 +1005,10 @@ $messages['br'] = array(
 	'group-patroller-member' => 'patrouilher',
 	'group-rollbacker-member' => 'Assaver',
 	'group-transwiki-member' => 'Enporzhier treuzwiki',
+	'grouppage-abusefilter' => '{{ns:project}}:Aozer ar siloù a-enep ar gwallimplij',
 	'grouppage-accountcreator' => '{{ns:project}}: Krouerien kontoù',
 	'grouppage-bigexport' => '{{ns:project}}: Ezporzhierien vras',
+	'grouppage-confirmed' => '{{ns:project}}:Implijerien bet kadarnaet ent emgefre',
 	'grouppage-flood' => '{{ns:project}}: implijer botoù',
 	'grouppage-founder' => '{{ns:project}}:Diazezerien',
 	'grouppage-import' => '{{ns:project}}:Enporzherien',
@@ -4915,14 +4918,17 @@ $messages['mr'] = array(
  */
 $messages['ms'] = array(
 	'wikimediamessages-desc' => 'Pesanan-pesanan Wikimedia',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/ms?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Derma',
 	'tooltip-n-sitesupport' => 'Derma',
 	'group-abusefilter' => 'Penyunting penapis salah laku',
 	'group-accountcreator' => 'Pencipta akaun',
-	'group-autopatroller' => 'Autoperonda',
+	'group-autopatrolled' => 'Peronda automatik',
+	'group-autopatroller' => 'Peronda automatik',
 	'group-autoreviewer' => 'Pemeriksaautomatik',
 	'group-bigexport' => 'Pengeksport besar',
 	'group-confirmed' => 'Pengguna sah',
+	'group-flood' => 'Pengguna bot',
 	'group-founder' => 'Pengasas',
 	'group-import' => 'Pengimport',
 	'group-ipblock-exempt' => 'Pengecualian sekatan IP',
@@ -4936,6 +4942,7 @@ $messages['ms'] = array(
 	'group-autoreviewer-member' => 'pemeriksaautomatik',
 	'group-bigexport-member' => 'pengeksport besar',
 	'group-confirmed-member' => 'Pengguna sah',
+	'group-flood-member' => 'pengguna bot',
 	'group-founder-member' => 'Pengasas',
 	'group-import-member' => 'Pengimport',
 	'group-ipblock-exempt-member' => 'Pengecualian sekatan IP',
@@ -4949,6 +4956,7 @@ $messages['ms'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Pemeriksaautomatik',
 	'grouppage-bigexport' => '{{ns:project}}:Pengeksport besar',
 	'grouppage-confirmed' => '{{ns:project}}:Pengguna sah',
+	'grouppage-flood' => '{{ns:project}}:Pengguna bot',
 	'grouppage-founder' => '{{ns:project}}:Pengasas',
 	'grouppage-import' => '{{ns:project}}:Pengimport',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Pengecualian sekatan IP',
@@ -4956,12 +4964,14 @@ $messages['ms'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Pengimport rentas wiki',
 	'group-steward' => 'Pengelola',
 	'group-sysadmin' => 'Pentadbir sistem',
+	'group-Editinterface' => 'Penyunting antara muka',
 	'group-Global_bot' => 'Bot sejagat',
 	'group-Global_rollback' => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen' => 'Ombudsman',
 	'group-Staff' => 'Kakitangan',
 	'group-steward-member' => 'Pengelola',
 	'group-sysadmin-member' => 'pentadbir sistem',
+	'group-Editinterface-member' => 'penyunting antara muka',
 	'group-Global_bot-member' => 'Bot sejagat',
 	'group-Global_rollback-member' => 'Pengundur suntingan sejagat',
 	'group-Ombudsmen-member' => 'Ombudsman',
@@ -5834,6 +5844,7 @@ $messages['ps'] = array(
  * @author David0811
  * @author Giro720
  * @author Hamilton Abreu
+ * @author Heldergeovane
  * @author Lijealso
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
@@ -5904,9 +5915,13 @@ $messages['pt'] = array(
 	'group-inactive' => 'Utilizadores inativos',
 	'group-inactive-member' => 'Utilizador inativo',
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inativos',
-	'wikimedia-copyright' => 'O texto está disponível sob a licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; condições adicionais podem-se aplicar. Veja <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para detalhes.',
-	'wikimedia-copyrightwarning' => 'Ao gravar/salvar uma página, você está irrevogavelmente a libertar as suas contribuições sob as licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL]. Você concorda em ser creditado por reutilizadores, no mínimo, através de uma hiperligação ou de um URL para a página que está a contribuir. Veja [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para detalhes.',
-	'wikimedia-editpage-tos-summary' => 'Se você não quiser que a sua escrita seja editada e redistribuída, por favor, não a submeta aqui. Se você não escreveu este conteúdo, ele deverá estar disponível segundo condições consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer requerimentos de licenciamento relevantes.',
+	'wikimedia-copyright' => 'O texto está disponível sob a licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+condições adicionais podem-se aplicar.
+Veja <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para detalhes.',
+	'wikimedia-copyrightwarning' => 'Ao gravar a página, você está irrevogavelmente a libertar as suas contribuições sob as licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
+Você concorda em ser creditado por reutilizadores, no mínimo, através de uma hiperligação ou de um URL para a página que está a contribuir. Veja [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para detalhes.',
+	'wikimedia-editpage-tos-summary' => 'Se você não quiser que a sua escrita seja editada e redistribuída, por favor, não a submeta aqui.
+Se você não escreveu este conteúdo, ele deverá estar disponível segundo condições consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer requerimentos de licenciamento relevantes.',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -5978,7 +5993,9 @@ $messages['pt-br'] = array(
 	'group-inactive' => 'Utilizadores inativos',
 	'group-inactive-member' => 'Utilizador inativo',
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inativos',
-	'wikimedia-copyright' => 'O texto está disponível sob a licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; condições adicionais podem-se aplicar. Veja <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para detalhes.',
+	'wikimedia-copyright' => 'O texto está disponível sob a licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+condições adicionais podem-se aplicar.
+Veja <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para detalhes.',
 	'wikimedia-copyrightwarning' => 'Ao salvar, você concorda irrevogavelmente a liberar as suas contribuições sob as licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL]. Você concorda em ser creditado por reutilizadores, no mínimo, através de uma hiperligação ou URL para a página na qual está contribuindo. Veja [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para detalhes.',
 	'wikimedia-editpage-tos-summary' => 'Se você quer que a sua escrita seja editada e redistribuída, por favor, não a submeta aqui. Se você não escreveu este conteúdo, ele deverá estar disponível segundo condições consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer requerimentos de licenciamento relevantes.',
 );
@@ -8151,7 +8168,7 @@ $messages['zh-hans'] = array(
 	'tooltip-n-sitesupport' => '资助我们',
 	'group-abusefilter' => '防滥用过滤器编辑者',
 	'group-accountcreator' => '账户创建员',
-	'group-autopatrolled' => '自動巡查',
+	'group-autopatrolled' => '自动巡查员',
 	'group-autopatroller' => '自动巡查员',
 	'group-autoreviewer' => '自动覆查员',
 	'group-bigexport' => '大量导出者',

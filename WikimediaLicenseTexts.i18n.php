@@ -748,6 +748,7 @@ $messages['ml'] = array(
  * @author Multichill
  */
 $messages['ms'] = array(
+	'wikimedialicensetexts-desc' => 'Pesanan lesen Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:ms:Creative Commons',
 	'wm-license-cc-by-1.0-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/1.0/deed.ms Pengiktirafan 1.0 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-by-2.0-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/2.0/deed.ms Pengiktirafan 2.0 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
