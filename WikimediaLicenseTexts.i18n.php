@@ -130,6 +130,18 @@ $messages['bg'] = array(
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
 );
 
+/** Bengali (বাংলা)
+ * @author Bellayet
+ */
+$messages['bn'] = array(
+	'wikimedialicensetexts-desc' => 'উইকিমিডিয়া লাইসেন্স বার্তা',
+	'wm-license-cc-free' => 'আপনি যা স্বাধীনভাবে করতে পারেন:',
+	'wm-license-cc-free-to-share-header' => 'বন্টন করতে পারেন',
+	'wm-license-cc-free-to-share-text' => 'এ কাজটি অনুলিপি, বিতরণ এবং প্রেরণ করতে পারেন',
+	'wm-license-cc-free-to-remix-header' => 'পুনঃমিশ্রণ করতে পারেন',
+	'wm-license-cc-conditions' => 'নিম্নের শর্তাবলীর ভিত্তিতে:',
+);
+
 /** Breton (Brezhoneg)
  * @author Fulup
  */
@@ -1045,8 +1057,10 @@ $messages['tr'] = array(
 
 /** Ukrainian (Українська)
  * @author Multichill
+ * @author Prima klasy4na
  */
 $messages['uk'] = array(
+	'wikimedialicensetexts-desc' => 'Ліцензійні повідомлення Вікімедіа',
 	'wm-license-cc-wiki-link' => 'w:uk:Creative Commons',
 );
 

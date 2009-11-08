@@ -994,7 +994,7 @@ $messages['br'] = array(
 	'group-patroller' => 'Patrouilherien',
 	'group-rollbacker' => 'Assaverien',
 	'group-transwiki' => 'Enporzherien treuzwiki',
-	'group-abusefilter-member' => 'aozer ar siloù a-enep ar gwallimplij',
+	'group-abusefilter-member' => 'aozer siloù a-enep ar gwallimplij',
 	'group-accountcreator-member' => 'Krouer kontoù',
 	'group-bigexport-member' => 'ezporzhier bras',
 	'group-confirmed-member' => 'implijer kadarnaet',
@@ -1005,10 +1005,10 @@ $messages['br'] = array(
 	'group-patroller-member' => 'patrouilher',
 	'group-rollbacker-member' => 'Assaver',
 	'group-transwiki-member' => 'Enporzhier treuzwiki',
-	'grouppage-abusefilter' => '{{ns:project}}:Aozer ar siloù a-enep ar gwallimplij',
+	'grouppage-abusefilter' => '{{ns:project}}:Aozerien siloù a-enep ar gwallimplij',
 	'grouppage-accountcreator' => '{{ns:project}}: Krouerien kontoù',
 	'grouppage-bigexport' => '{{ns:project}}: Ezporzhierien vras',
-	'grouppage-confirmed' => '{{ns:project}}:Implijerien bet kadarnaet ent emgefre',
+	'grouppage-confirmed' => '{{ns:project}}:Implijerien bet kadarnaet',
 	'grouppage-flood' => '{{ns:project}}: implijer botoù',
 	'grouppage-founder' => '{{ns:project}}:Diazezerien',
 	'grouppage-import' => '{{ns:project}}:Enporzherien',
@@ -7592,6 +7592,7 @@ $messages['ug-latn'] = array(
  * @author Ahonc
  * @author Ickis
  * @author NickK
+ * @author Prima klasy4na
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Повідомлення, характерні для Вікімедіа',
@@ -7605,6 +7606,7 @@ $messages['uk'] = array(
 	'group-autoreviewer' => 'Авторедактори',
 	'group-bigexport' => 'Крупні експортери',
 	'group-confirmed' => 'Підтверджені користувачі',
+	'group-flood' => 'Бот-користувачі',
 	'group-founder' => 'Засновники',
 	'group-import' => 'Імпортери',
 	'group-ipblock-exempt' => 'Виключення з IP-блокувань',
@@ -7618,6 +7620,7 @@ $messages['uk'] = array(
 	'group-autoreviewer-member' => 'авторедактор',
 	'group-bigexport-member' => 'крупний експортер',
 	'group-confirmed-member' => 'підтверджений користувач',
+	'group-flood-member' => 'бот-користувач',
 	'group-founder-member' => 'засновник',
 	'group-import-member' => 'імпортер',
 	'group-ipblock-exempt-member' => 'виключення з IP-блокування',
@@ -7631,6 +7634,7 @@ $messages['uk'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Авторедактори',
 	'grouppage-bigexport' => '{{ns:project}}:Крупні експортери',
 	'grouppage-confirmed' => '{{ns:project}}:Підтверджені користувачі',
+	'grouppage-flood' => '{{ns:project}}:Бот-користувачі',
 	'grouppage-founder' => '{{ns:project}}:Засновники',
 	'grouppage-import' => '{{ns:project}}:Імпортери',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Виключення з IP-блокування',
@@ -7921,6 +7925,14 @@ $messages['vo'] = array(
 $messages['vro'] = array(
 	'sitesupport' => 'Tugõminõ',
 	'tooltip-n-sitesupport' => 'Tukõq mi tüüd',
+	'wikimedia-copyright' => 'Teksti või pruukiq <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsendsi tingimüisi perrä;
+mõnikõrd või päält taa või ollaq ka muid tingimüisi.
+Taa kotsilõ kaeq täpsämbähe <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia pruukmistingimüisist</a>.',
+	'wikimedia-copyrightwarning' => 'Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [http://www.gnu.org/copyleft/fdl.html GFDL-litsendsi] perrä.
+Olõt nõun, et su autorisolõmist näüdätäs vähämbält võrgoaadrõsi vai lingiga seo lehe pääle, midä sa parhilla toimõndat.
+Täpsämbähe kaeq taa kotsilõ [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia pruukmistingimüisist].',
+	'wikimedia-editpage-tos-summary' => 'Kui sa taha-ai, et su kirotõdut halõstamalda toimõndõdas ja uma ärqnägemise perrä tarvitõdas, sis pästku-ui taad siiäq.  
+Ku sa kiroda-as taad teksti esiq, sis piät taa tarvitaminõ vastama [http://wikimediafoundation.org/wiki/Terms_of_Use pruukmistingimüisile] ja sul om kohustus täütäq sääl näüdätüid litsendsinõudmiisi.',
 );
 
 /** Walloon (Walon)
@@ -8065,6 +8077,8 @@ $messages['yi'] = array(
 	'wikimedia-copyrightwarning' => 'מיטן אויפהיטן, זענט איר מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons צושרייבן/טייל-גלייך ליצענץ 3.0] און דעם [http://www.gnu.org/copyleft/fdl.html GFDL].
 איר שטימט צו אז ווידער-באניצער זאלן קרעדיטירן, לכל הפחות, דורך א היפערלינק אדער URL צום בלאט צו וואס איר ביישטייערט.
 זעט די [http://wikimediafoundation.org/wiki/Terms_of_Use תנאים פון באניץ] פאר פרטים.',
+	'wikimedia-editpage-tos-summary' => "אז איר ווילט נישט מ'זאל רעדאקטירן און פארשפרייטן דיין שרייבארבעט ווייטער, זאלט איר זי נישט איינגעבן דא.
+אויב איר האט דאס נישט אליין געשריבן, מוז עס זיין פֿאראן אונטער [http://wikimediafoundation.org/wiki/Terms_of_Use ניצבאדינגען], און איר זענט מסכים צו פֿאלגן די שייכדיגן פאדערונגען פונעם ליצענץ.",
 );
 
 /** Yoruba (Yorùbá)
