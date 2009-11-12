@@ -807,6 +807,7 @@ $messages['nn'] = array(
 	'wm-license-cc-free-to-share-text' => 'til å kopiera, distibuera og overføra arbeidet',
 	'wm-license-cc-free-to-remix-text' => 'til å endra verket',
 	'wm-license-cc-conditions' => 'Med dei fylgjande vilkåra:',
+	'wm-license-cc-conditions-share_alike-text' => 'Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du distribuera resultatet berre under den same eller liknande lisensen som denne.',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
