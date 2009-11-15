@@ -124,10 +124,12 @@ $messages['be-tarask'] = array(
 );
 
 /** Bulgarian (Български)
+ * @author DCLXVI
  * @author Multichill
  */
 $messages['bg'] = array(
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
+	'wm-license-cc-free' => 'Можете свободно:',
 );
 
 /** Bengali (বাংলা)
@@ -811,10 +813,23 @@ $messages['nn'] = array(
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Finnrind
  * @author Multichill
  */
 $messages['no'] = array(
+	'wikimedialicensetexts-desc' => 'Meldinger knyttet til Wikimedialisenser',
 	'wm-license-cc-wiki-link' => 'w:no:Creative Commons',
+	'wm-license-cc-attribution' => 'navngivelse',
+	'wm-license-cc-by-1.0-text' => 'Denne filene er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.no Navngivelse 1.0 Generisk]-lisensen',
+	'wm-license-cc-by-2.0-text' => 'Denne filene er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.no Navngivelse 2.0 Generisk]-lisensen',
+	'wm-license-cc-by-2.5-text' => 'Denne filene er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.no Navngivelse 2.5 Generisk]-lisensen',
+	'wm-license-cc-free' => 'Du står fritt:',
+	'wm-license-cc-free-to-share-header' => 'til å dele',
+	'wm-license-cc-free-to-share-text' => 'til å kopiere, distribuere og overføre verket',
+	'wm-license-cc-free-to-remix-header' => 'til å blande',
+	'wm-license-cc-free-to-remix-text' => 'til å endre verket',
+	'wm-license-cc-conditions' => 'Under de følgende betingelsene:',
+	'wm-license-cc-conditions-attribution-header' => 'navngivelse',
 );
 
 /** Occitan (Occitan)
