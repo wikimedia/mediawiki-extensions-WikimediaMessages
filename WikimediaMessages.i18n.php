@@ -867,7 +867,9 @@ $messages['bg'] = array(
 	'group-autopatroller-member' => 'Автопатрульор',
 	'group-founder-member' => 'Основател',
 	'group-patroller-member' => 'Патрульор',
+	'group-trusted-member' => 'доверен потребител',
 	'grouppage-founder' => '{{ns:project}}:Основатели',
+	'grouppage-trusted' => '{{ns:project}}:Доверени потребители',
 	'group-steward' => 'Стюарди',
 	'group-sysadmin' => 'Системни администратори',
 	'group-Global_bot' => 'Глобални ботове',
@@ -4828,7 +4830,7 @@ $messages['ml'] = array(
 	'sitesupport' => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
 	'group-abusefilter' => 'ദുരുപയോഗ അരിപ്പ തിരുത്തുന്നവർ',
-	'group-accountcreator' => 'അക്കൗണ്ട് സ്രഷ്ടാക്കള്‍',
+	'group-accountcreator' => 'അംഗത്വ സ്രഷ്ടാക്കള്‍',
 	'group-autopatrolled' => 'സ്വതവേ റോന്തുചുറ്റുന്നവർ',
 	'group-autopatroller' => 'സ്വതവേ റോന്തുചുറ്റുന്നവർ',
 	'group-autoreviewer' => 'സ്വതവേ സംശോധകർ',
@@ -4890,6 +4892,7 @@ $messages['ml'] = array(
 	'group-inactive' => 'സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
 	'group-inactive-member' => 'സജീവമല്ലാത്ത ഉപയോക്താവ്',
 	'grouppage-inactive' => '{{ns:project}}:സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
+	'shared-repo-name-shared' => 'വിക്കിമീഡിയ കോമൺസ്',
 	'wikimedia-copyright' => 'ഈ താള്‍ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമണ്‍സ് ആട്രിബ്യൂഷന്‍/ഷെയര്‍-എലൈക്ക് പകര്‍പ്പവകാശ നിയമത്തിനു കീഴില്‍</a> ലഭ്യമാണ്. കൂടുതല്‍ നിബന്ധനകള്‍ ചിലപ്പോള്‍ ഉണ്ടാവാം. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">നിബന്ധനാ പ്രമാണം</a> കാണുക.',
 	'wikimedia-copyrightwarning' => 'സേവ് ചെയ്യുന്നതിനു മുന്‍പ്, നിങ്ങള്‍ എഴുതിച്ചേര്‍ത്തത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമണ്‍സ്/ഷെയര്‍ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എല്‍.] എന്നീ അനുമതിപത്രങ്ങള്‍ പ്രകാരം പിന്നീട് മാറ്റാന്‍ പറ്റാത്തവിധം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം. നിങ്ങള്‍ മാറ്റങ്ങള്‍ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവര്‍, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പര്‍ലിങ്കോ യു.ആര്‍.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നല്‍കുമെന്നും മനസിലാക്കിയിരിക്കണം. 
 കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗിക്കാനുള്ള നിബന്ധനകള്‍] കാണുക.',
@@ -5456,6 +5459,7 @@ $messages['nn'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
 	'grouppage-rollbacker' => '{{ns:project}}:Attenderullarar',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
+	'grouppage-trusted' => '{{ns:project}}:Brukarar til å stola på',
 	'group-steward' => 'Stewardar',
 	'group-sysadmin' => 'Systemadministratorar',
 	'group-Editinterface' => 'Brukargrensesnitt endringar',
@@ -6023,6 +6027,7 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
  * @author Eduardo.mps
  * @author Everton137
  * @author Heldergeovane
+ * @author Sir Lestaty de Lioncourt
  */
 $messages['pt-br'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
@@ -6089,7 +6094,7 @@ $messages['pt-br'] = array(
 condições adicionais podem-se aplicar.
 Veja <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para detalhes.',
 	'wikimedia-copyrightwarning' => 'Ao salvar, você concorda irrevogavelmente a liberar as suas contribuições sob as licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL]. Você concorda em ser creditado por reutilizadores, no mínimo, através de uma hiperligação ou URL para a página na qual está contribuindo. Veja [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para detalhes.',
-	'wikimedia-editpage-tos-summary' => 'Se você quer que a sua escrita seja editada e redistribuída, por favor, não a submeta aqui. Se você não escreveu este conteúdo, ele deverá estar disponível segundo condições consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer requerimentos de licenciamento relevantes.',
+	'wikimedia-editpage-tos-summary' => 'Se você não quer que a sua escrita seja editada e redistribuída, por favor, não a submeta aqui. Se você não escreveu este conteúdo, ele deverá estar disponível segundo condições consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer requerimentos de licenciamento relevantes.',
 );
 
 /** Quechua (Runa Simi)
@@ -7343,6 +7348,7 @@ $messages['te'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ఐపీ నిరోధపు మినహాయింపు',
 	'grouppage-rollbacker' => '{{ns:project}}:రద్దుచేసినవారు',
 	'grouppage-transwiki' => '{{ns:project}}:ట్రాన్స్ వికీ దిగుమతిదార్లు',
+	'grouppage-trusted' => '{{ns:project}}:విశ్వసనీయ వాడుకరులు',
 	'group-steward' => 'స్టీవార్డులు',
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
 	'group-Editinterface' => 'ఇంటర్ఫేస్ ఎడిటర్లు',

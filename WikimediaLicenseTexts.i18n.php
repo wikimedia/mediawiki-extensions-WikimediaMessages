@@ -804,11 +804,13 @@ $messages['nl'] = array(
 $messages['nn'] = array(
 	'wikimedialicensetexts-desc' => 'Meldingar knytt til Wikimedia-lisensiering',
 	'wm-license-cc-wiki-link' => 'w:nn:Creative Commons',
+	'wm-license-cc-attribution' => 'Namngjeving',
 	'wm-license-cc-free' => 'Du står fritt til å:',
 	'wm-license-cc-free-to-share-header' => 'til å dela',
 	'wm-license-cc-free-to-share-text' => 'til å kopiera, distibuera og overføra arbeidet',
 	'wm-license-cc-free-to-remix-text' => 'til å endra verket',
 	'wm-license-cc-conditions' => 'Med dei fylgjande vilkåra:',
+	'wm-license-cc-conditions-attribution-header' => 'namngjeving',
 	'wm-license-cc-conditions-share_alike-text' => 'Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du distribuera resultatet berre under den same eller liknande lisensen som denne.',
 );
 
