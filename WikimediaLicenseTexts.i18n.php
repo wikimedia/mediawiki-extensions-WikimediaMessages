@@ -808,6 +808,7 @@ $messages['nn'] = array(
 	'wm-license-cc-free' => 'Du står fritt til å:',
 	'wm-license-cc-free-to-share-header' => 'til å dela',
 	'wm-license-cc-free-to-share-text' => 'til å kopiera, distibuera og overføra arbeidet',
+	'wm-license-cc-free-to-remix-header' => 'til å blanda',
 	'wm-license-cc-free-to-remix-text' => 'til å endra verket',
 	'wm-license-cc-conditions' => 'Med dei fylgjande vilkåra:',
 	'wm-license-cc-conditions-attribution-header' => 'namngjeving',
@@ -973,6 +974,33 @@ $messages['ru'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Вы должны указывать авторство (источник) данного произведения в виде, установленном автором или лицензиаром (но ни в коем случае не таким образом, который наводит на мысль, что автор поддерживает вас или ваше использование данного произведения).',
 	'wm-license-cc-conditions-share_alike-header' => 'распространение на тех же условиях',
 	'wm-license-cc-conditions-share_alike-text' => 'Если вы изменяете, преобразуете или создаёте иную производную работу на основании этого произведения, вы можете распространять полученное в результате произведение только на условиях такой же или совместимой лицензии.',
+);
+
+/** Sinhala (සිංහල)
+ * @author Calcey
+ */
+$messages['si'] = array(
+	'wikimedialicensetexts-desc' => 'විකි මීඩියා බලපත්‍ර පණිවුඩ',
+	'wm-license-cc-wiki-link' => 'w:en:නිර්මාණශීලී පොදුවූවන්',
+	'wm-license-cc-attribution' => 'ආරෝපණය',
+	'wm-license-cc-by-1.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-by-2.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-by-2.5-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-by-3.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-by-sa-1.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic] බලපත්‍රය යටකත් අවසර ලබා ඇත.',
+	'wm-license-cc-by-sa-2.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-by-sa-2.5-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-by-sa-3.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
+	'wm-license-cc-free' => 'ඔබ නිදහස්:',
+	'wm-license-cc-free-to-share-header' => 'බෙදාහදා ගැනීමට',
+	'wm-license-cc-free-to-share-text' => 'කාර්යය පිටපත් කිරීමට,බෙදා හැරීමට සහ සම්ප්‍රේෂණය කිරීමට',
+	'wm-license-cc-free-to-remix-header' => 'නැවත සංකලනය කිරීමට',
+	'wm-license-cc-free-to-remix-text' => 'කාර්යයට අනුවර්තනය වීමට',
+	'wm-license-cc-conditions' => 'පහත කොන්දේසි යටතේ:',
+	'wm-license-cc-conditions-attribution-header' => 'ආරෝපණය',
+	'wm-license-cc-conditions-attribution-text' => 'කතෘ හෝ බලපත්‍රදායකයා නිරූපනය කර ඇති ආකාරයට ඔබ විසින් කාර්යය ආරෝපණය කළ යුතුයි.(නමුත් ඔබ හෝ කාර්යයයේදී ඔබේ භාවිතය ඔවුන් විසින් අනුමත කරන බව හඟවන කිසිම ආකාරයකින් නොවේ.)',
+	'wm-license-cc-conditions-share_alike-header' => 'සමානව බෙදාහදා ගැනීම',
+	'wm-license-cc-conditions-share_alike-text' => 'ඔබ වෙනස් කිරීම,පරිණාමනය කිරීම හෝ මෙම කාර්යය මත ගොඩනැගීම සිදු කරයි නම්,ඔබ ඵලිත කාර්යය බෙදා හරිනු ලබන්නේ මෙයට සමාන වූ බලපත්‍රයක් යටතේය.',
 );
 
 /** Slovak (Slovenčina)

@@ -1015,6 +1015,7 @@ $messages['br'] = array(
 	'group-patroller-member' => 'patrouilher',
 	'group-rollbacker-member' => 'Assaver',
 	'group-transwiki-member' => 'Enporzhier treuzwiki',
+	'group-trusted-member' => 'implijer a fiziañs',
 	'grouppage-abusefilter' => '{{ns:project}}:Aozerien siloù a-enep ar gwallimplij',
 	'grouppage-accountcreator' => '{{ns:project}}: Krouerien kontoù',
 	'grouppage-bigexport' => '{{ns:project}}: Ezporzhierien vras',
@@ -3608,7 +3609,9 @@ $messages['io'] = array(
 	'sitesupport' => 'Donacaji',
 	'tooltip-n-sitesupport' => 'Suportez ni',
 	'group-accountcreator' => 'Konto-kreanti',
+	'group-founder' => 'Fondinti',
 	'group-rollbacker' => 'Retrorulanti',
+	'grouppage-founder' => '{{ns:project}}:Fondinti',
 	'group-sysadmin' => 'Sistemo-administranti',
 	'wikimedia-copyright' => 'La kontenajo esas sub la <a href="http://creativecommons.org/licenses/by-sa/3.0/"><i>Creative Commons Attribution/Share-Alike License</i></a>;
 suplementala reguli forsan aplikesas.
@@ -5457,6 +5460,7 @@ $messages['nn'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske granskarar',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
 	'grouppage-confirmed' => '{{ns:project}}:Stadfeste brukarar',
+	'grouppage-flood' => '{{ns:project}}:Bot-brukarar',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
 	'grouppage-import' => '{{ns:project}}:Importørar',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
