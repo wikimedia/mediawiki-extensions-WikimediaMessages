@@ -192,12 +192,6 @@ $messages['test'] = array(
 	'tooltip-n-sitesupport' => 'x',
 );
 
-/** Dalecarlian (Övdalską) */
-$messages['dlc'] = array(
-	'sitesupport' => 'Stjaintja',
-	'tooltip-n-sitesupport' => 'Styða {{SITENAME}}',
-);
-
 /** Behase Mentawei (Behase Mentawei)
  * @author Päge bintën
  */
@@ -1004,6 +998,7 @@ $messages['br'] = array(
 	'group-patroller' => 'Patrouilherien',
 	'group-rollbacker' => 'Assaverien',
 	'group-transwiki' => 'Enporzherien treuzwiki',
+	'group-trusted' => 'Implijerien a fiziañs',
 	'group-abusefilter-member' => 'aozer siloù a-enep ar gwallimplij',
 	'group-accountcreator-member' => 'Krouer kontoù',
 	'group-bigexport-member' => 'ezporzhier bras',
