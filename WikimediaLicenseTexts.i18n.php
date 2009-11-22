@@ -946,7 +946,10 @@ $messages['ro'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'wm-license-cc-attribution' => 'Attribbuzione',
 	'wm-license-cc-free' => 'Tu si libbere:',
+	'wm-license-cc-free-to-share-header' => 'da spartere',
+	'wm-license-cc-free-to-remix-header' => 'da misckà',
 );
 
 /** Russian (Русский)
