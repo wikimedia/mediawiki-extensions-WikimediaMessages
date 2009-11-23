@@ -1256,7 +1256,7 @@ $messages['ckb-arab'] = array(
 	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، بە بێگەڕانەوە قەبووڵ دەکەی کە بەشدارییەکەت لەژێر [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
 قەبووڵ دەکەی، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەن بەکارھێنەرانی تر ناوتان لێببەن.
 سەیری [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکەن بۆ وردەکارییەکان.',
-	'wikimedia-editpage-tos-summary' => 'ئەگەر ناتەوێ نووسراوەکەت بە ئارەزوو دەستکاری بکرێ و تێکبدرێت، لەگرە پێشکەشی مەکە.
+	'wikimedia-editpage-tos-summary' => 'ئەگەر ناتەوێ نووسراوەکەت بە ئارەزوو دەستکاری بکرێ و تێکبدرێت، لێرە پێشکەشی مەکە.
 ئەگەر خۆت ئەمەت نەنووسیوە، ئەشێ لە ژێر [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان لە ویکیمیدیا] لە بەردەست دا بێت و قەبووڵ ئەکەیت کە لە ھەر پێداویستییەکی پەیوەندی‌‌داری لایسەنس پەیڕەوی بکەی.',
 );
 
@@ -1311,6 +1311,7 @@ $messages['cs'] = array(
 	'group-ipblock-exempt' => 'Nepodléhající blokování IP adres',
 	'group-rollbacker' => 'Revertovatelé',
 	'group-transwiki' => 'Transwiki importéři',
+	'group-trusted' => 'Důvěryhodní uživatelé',
 	'group-abusefilter-member' => 'správce filtrů zneužívání',
 	'group-accountcreator-member' => 'zakladatel účtů',
 	'group-autopatrolled-member' => 'strážce',
@@ -1324,6 +1325,7 @@ $messages['cs'] = array(
 	'group-ipblock-exempt-member' => 'nepodléhající blokování IP adres',
 	'group-rollbacker-member' => 'revertovatel',
 	'group-transwiki-member' => 'transwiki importér',
+	'group-trusted-member' => 'důvěryhodný uživatel',
 	'grouppage-abusefilter' => '{{ns:project}}:Správci filtrů zneužívání',
 	'grouppage-accountcreator' => '{{ns:project}}:Zakladatelé účtů',
 	'grouppage-autopatrolled' => '{{ns:project}}:Strážci',
@@ -1337,6 +1339,7 @@ $messages['cs'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Výjimky z blokování IP adres',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertovatelé',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéři',
+	'grouppage-trusted' => '{{ns:project}}:Důvěryhodní uživatelé',
 	'group-steward' => 'Stevardi',
 	'group-sysadmin' => 'Správcové serveru',
 	'group-Editinterface' => 'Editoři uživatelského rozhraní',
@@ -3799,7 +3802,7 @@ $messages['ja'] = array(
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="http://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
-	'wikimedia-copyrightwarning' => '保存すると、あなたは自身の投稿を[http://creativecommons.org/licenses/by-sa/3.0/deed.ja クリエイティブ・コモンズ 表示-継承ライセンス 3.0] かつ [http://www.gnu.org/copyleft/fdl.html GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたは再利用者によって、最低でもあなたが投稿しているページへのハイパーリンクか URL を通して、クレジット表示されることに同意したとみなされます。詳細は[http://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]を参照してください。',
+	'wikimedia-copyrightwarning' => '保存すると、あなたは自身の投稿を[http://creativecommons.org/licenses/by-sa/3.0/deed.ja クリエイティブ・コモンズ 表示-継承ライセンス 3.0] ならびに [http://www.gnu.org/copyleft/fdl.html GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたは再利用者によって、最低でもあなたが投稿しているページへのハイパーリンクか URL を通して、クレジット表示されることに同意したとみなされます。詳細は[http://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]を参照してください。',
 	'wikimedia-editpage-tos-summary' => 'もしあなたが自身の文章を勝手に編集や再配布してほしくないのなら、ここに投稿しないでください。文章があなた自身で書いたものでない場合、その文章はこの[http://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]と整合する条件のもとで利用可能である必要があります。また、その場合、あなたは全ての関係するライセンス要件に従うことに同意しなければなりません。',
 );
 

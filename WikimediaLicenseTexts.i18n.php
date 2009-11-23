@@ -865,9 +865,30 @@ $messages['oc'] = array(
 
 /** Polish (Polski)
  * @author Multichill
+ * @author Yarl
  */
 $messages['pl'] = array(
+	'wikimedialicensetexts-desc' => 'Teksty licencji Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:pl:Creative Commons',
+	'wm-license-cc-attribution' => 'Uznanie autorstwa',
+	'wm-license-cc-by-1.0-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.pl Uznanie autorstwa 1.0]',
+	'wm-license-cc-by-2.0-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.pl Uznanie autorstwa 2.0]',
+	'wm-license-cc-by-2.5-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.pl Uznanie autorstwa 2.5]',
+	'wm-license-cc-by-3.0-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.pl Uznanie autorstwa 3.0]',
+	'wm-license-cc-by-sa-1.0-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.pl Uznanie autorstwa – Na tych samych warunkach 1.0]',
+	'wm-license-cc-by-sa-2.0-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.pl Uznanie autorstwa – Na tych samych warunkach 2.0]',
+	'wm-license-cc-by-sa-2.5-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.pl Uznanie autorstwa – Na tych samych warunkach 2.5]',
+	'wm-license-cc-by-sa-3.0-text' => 'Ten plik udostępniony jest na licencji [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.pl Uznanie autorstwa – Na tych samych warunkach 3.0]',
+	'wm-license-cc-free' => 'Wolno:',
+	'wm-license-cc-free-to-share-header' => 'dzielić się',
+	'wm-license-cc-free-to-share-text' => 'kopiować, rozpowszechniać, odtwarzać i wykonywać utwór',
+	'wm-license-cc-free-to-remix-header' => 'modyfikować',
+	'wm-license-cc-free-to-remix-text' => 'tworzyć utwory zależne',
+	'wm-license-cc-conditions' => 'Na następujących warunkach:',
+	'wm-license-cc-conditions-attribution-header' => 'uznanie autorstwa',
+	'wm-license-cc-conditions-attribution-text' => 'Utwór należy oznaczyć w sposób określony przez Twórcę lub Licencjodawcę.',
+	'wm-license-cc-conditions-share_alike-header' => 'na tych samych warunkach',
+	'wm-license-cc-conditions-share_alike-text' => 'Jeśli zmienia się lub przekształca niniejszy utwór, lub tworzy inny na jego podstawie, można rozpowszechniać powstały w ten sposób nowy utwór tylko na podstawie takiej samej licencji.',
 );
 
 /** Piedmontese (Piemontèis)
