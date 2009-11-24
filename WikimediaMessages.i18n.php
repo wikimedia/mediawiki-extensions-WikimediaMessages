@@ -1510,6 +1510,7 @@ $messages['da'] = array(
 /** German (Deutsch)
  * @author Church of emacs
  * @author Khaledelmansoury
+ * @author MF-Warburg
  * @author Melancholie
  * @author Merlissimo
  * @author Metalhead64
@@ -1539,6 +1540,7 @@ $messages['de'] = array(
 	'group-patroller' => 'Kontrolleure',
 	'group-rollbacker' => 'Zurücksetzer',
 	'group-transwiki' => 'Transwiki-Importeure',
+	'group-trusted' => 'Vertrauenswürdige Benutzer',
 	'group-abusefilter-member' => 'Missbrauchsfilter-Bearbeiter',
 	'group-accountcreator-member' => 'Benutzerkonten-Ersteller',
 	'group-autopatrolled-member' => 'Automatischer Kontrollierer',
@@ -1553,6 +1555,7 @@ $messages['de'] = array(
 	'group-patroller-member' => 'Kontrolleur',
 	'group-rollbacker-member' => 'Zurücksetzer',
 	'group-transwiki-member' => 'Transwiki-Importeur',
+	'group-trusted-member' => 'Vertrauenswürdiger Benutzer',
 	'grouppage-abusefilter' => '{{ns:project}}:Missbrauchsfilter-Bearbeiter',
 	'grouppage-accountcreator' => '{{ns:project}}:Benutzerkonten-Ersteller',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatische Kontrollierer',
@@ -1566,6 +1569,7 @@ $messages['de'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperre-Ausnahme',
 	'grouppage-rollbacker' => '{{ns:project}}:Zurücksetzer',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeure',
+	'grouppage-trusted' => '{{ns:project}}:Vertrauenswürdige Benutzer',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Systemadministratoren',
 	'group-Editinterface' => 'Benutzeroberflächenbearbeiter',
