@@ -4841,6 +4841,7 @@ $messages['mk'] = array(
  * @author Junaidpv
  * @author Meno25
  * @author Praveenp
+ * @author Sadik Khalid
  * @author ShajiA
  * @author Shijualex
  * @author Vssun
@@ -4915,7 +4916,7 @@ $messages['ml'] = array(
 	'group-inactive-member' => 'സജീവമല്ലാത്ത ഉപയോക്താവ്',
 	'grouppage-inactive' => '{{ns:project}}:സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
 	'shared-repo-name-shared' => 'വിക്കിമീഡിയ കോമൺസ്',
-	'wikimedia-copyright' => 'ഈ താള്‍ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമണ്‍സ് ആട്രിബ്യൂഷന്‍/ഷെയര്‍-എലൈക്ക് പകര്‍പ്പവകാശ നിയമത്തിനു കീഴില്‍</a> ലഭ്യമാണ്. കൂടുതല്‍ നിബന്ധനകള്‍ ചിലപ്പോള്‍ ഉണ്ടാവാം. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">നിബന്ധനാ പ്രമാണം</a> കാണുക.',
+	'wikimedia-copyright' => 'വിവരങ്ങള്‍ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമണ്‍സ് ആട്രിബ്യൂഷന്‍/ഷെയര്‍-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നല്‍കുക)‍</a> പ്രകാരം ലഭ്യമാണ്; ഇനിയും മേല്‍ നിബന്ധനകള്‍ ഉണ്ടായേക്കാം. കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ഉപയോഗനിബന്ധകള്‍</a> കാണുക.',
 	'wikimedia-copyrightwarning' => 'സേവ് ചെയ്യുന്നതിനു മുന്‍പ്, നിങ്ങള്‍ എഴുതിച്ചേര്‍ത്തത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമണ്‍സ്/ഷെയര്‍ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എല്‍.] എന്നീ അനുമതിപത്രങ്ങള്‍ പ്രകാരം പിന്നീട് മാറ്റാന്‍ പറ്റാത്തവിധം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം. നിങ്ങള്‍ മാറ്റങ്ങള്‍ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവര്‍, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പര്‍ലിങ്കോ യു.ആര്‍.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നല്‍കുമെന്നും മനസിലാക്കിയിരിക്കണം. 
 കൂടുതല്‍ വിവരങ്ങള്‍ക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗിക്കാനുള്ള നിബന്ധനകള്‍] കാണുക.',
 	'wikimedia-editpage-tos-summary' => 'താങ്കളുടെ എഴുത്ത് തിരുത്തുകയും പുനർവിതരണം ചെയ്യുന്നതും അനുവദിക്കാനാകില്ലങ്കിൽ, അത് ഇവിടെ സമർപ്പിക്കാതിരിക്കുക.
@@ -6519,6 +6520,7 @@ $messages['sah'] = array(
 	'group-ipblock-exempt-member' => 'IP-та хааччахтаммат кыттааччы',
 	'group-rollbacker-member' => 'Төннөрөөччү',
 	'group-transwiki-member' => 'transwiki`ттан импортааччы',
+	'group-trusted-member' => 'итэҕэтиилээх кыттааччы',
 	'grouppage-abusefilter' => '{{ns:project}}:Омсо сиидэтин эрэдээктэрдэрэ',
 	'grouppage-accountcreator' => '{{ns:project}}:Кыттааччылар ааттарын бигэргэтээччилэр/айааччылар',
 	'grouppage-autopatrolled' => '{{ns:project}}:Аптамаатынан ботуруулланааччылар',
@@ -7351,6 +7353,7 @@ $messages['te'] = array(
 	'group-patroller' => 'పర్యవేక్షకులు',
 	'group-rollbacker' => 'రద్దుచేసినవారు',
 	'group-transwiki' => 'ట్రాన్స్ వికీ దిగుమతిదారులు',
+	'group-trusted' => 'విశ్వసనీయ వాడుకరులు',
 	'group-accountcreator-member' => 'ఖాతా సృష్టికర్త',
 	'group-autopatrolled-member' => 'ఆటోపాట్రోలర్',
 	'group-autopatroller-member' => 'ఆటోపాట్రోలర్',
