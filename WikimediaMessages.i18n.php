@@ -206,6 +206,13 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
+/** Laz (Laz)
+ * @author Bombola
+ */
+$messages['lzz'] = array(
+	'tooltip-n-sitesupport' => 'Mxuci momçit',
+);
+
 /** Achinese (Acèh)
  * @author Andri.h
  */
@@ -1904,6 +1911,7 @@ $messages['eo'] = array(
 	'group-patroller' => 'Patrolantoj',
 	'group-rollbacker' => 'Restarigantoj',
 	'group-transwiki' => 'Importintoj de Transvikio',
+	'group-trusted' => 'Fidelaj uzantoj',
 	'group-abusefilter-member' => 'redaktanto de misuzadaj filtriloj',
 	'group-accountcreator-member' => 'Kreinto de konto',
 	'group-autopatrolled-member' => 'Aŭtomata patrolanto',
@@ -1918,6 +1926,7 @@ $messages['eo'] = array(
 	'group-patroller-member' => 'Patrolanto',
 	'group-rollbacker-member' => 'Restariganto',
 	'group-transwiki-member' => 'Transvikia importanto',
+	'group-trusted-member' => 'fidela uzanto',
 	'grouppage-abusefilter' => '{{ns:project}}:Redaktantoj de misuzadaj filtriloj',
 	'grouppage-accountcreator' => '{{ns:project}}:Kreintoj de kontoj',
 	'grouppage-autopatrolled' => '{{ns:project}}:Aŭtomataj patrolantoj',
