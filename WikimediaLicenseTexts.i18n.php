@@ -1170,3 +1170,10 @@ $messages['vi'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Nếu bạn thay thế, biến đổi, hoặc làm tác phẩm khác dựa trên tác phẩm này, bạn chỉ được phân phối tác phẩm mới tạo ra với một giấy phép y hệt, tương tự hoặc tương thích.',
 );
 
+/** Yiddish (ייִדיש)
+ * @author פוילישער
+ */
+$messages['yi'] = array(
+	'wm-license-cc-free' => 'איר מעגט:',
+);
+
