@@ -3916,6 +3916,7 @@ Manawi punika sanès seratan panjenengan piyambak, seratan punika kedah kasediak
 
 /** Georgian (ქართული)
  * @author Alsandro
+ * @author BRUTE
  * @author David1010
  * @author Malafaya
  * @author Sopho
@@ -3930,15 +3931,19 @@ $messages['ka'] = array(
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
 	'group-abusefilter' => 'ბოროტად გამოყენების ფილტრის მეპატრულე',
 	'group-accountcreator' => 'ანგარიში შემქმნელები',
+	'group-autopatrolled' => 'ავტოპატრულიორები',
 	'group-autopatroller' => 'ავტომეპატრულები',
 	'group-autoreviewer' => 'ავტომხილველები',
 	'group-bigexport' => 'დიდი ექსპორტორები',
 	'group-confirmed' => 'დადასტურებული მომხმარებლები',
+	'group-flood' => 'მომხმარებელი-ბოტები',
 	'group-founder' => 'დამაარსებლები',
 	'group-import' => 'იმპორტირებე',
 	'group-ipblock-exempt' => 'IP-ბლოკირებების გამონაკლისები',
+	'group-patroller' => 'პატროლიორები',
 	'group-rollbacker' => 'გაუქმებლები',
 	'group-transwiki' => 'Transwiki-ს იმპორტორები',
+	'group-trusted' => 'სანდო მომხმარებლები',
 	'group-abusefilter-member' => 'ბოროტად გამოყენებსის ფილტრის რედაქტორი',
 	'group-accountcreator-member' => 'ანგარიშის შემქმნელები',
 	'group-autopatrolled-member' => 'ავტომოპატრულე',
@@ -3946,11 +3951,14 @@ $messages['ka'] = array(
 	'group-autoreviewer-member' => 'ავტომხილველი',
 	'group-bigexport-member' => 'დიდი ექსპორტორი',
 	'group-confirmed-member' => 'დადასტურებული მომხმარებელი',
+	'group-flood-member' => 'მომხმარებელი-ბოტი',
 	'group-founder-member' => 'დამაარსებელი',
 	'group-import-member' => 'იმპორტორი',
 	'group-ipblock-exempt-member' => 'IP ბლოკირების გამონაკლისები',
+	'group-patroller-member' => 'პატროლიორი',
 	'group-rollbacker-member' => 'გამაუქმებელი',
 	'group-transwiki-member' => 'Transwiki-ს იმპორტორი',
+	'group-trusted-member' => 'სანდო მომხმარებელი',
 	'grouppage-abusefilter' => '{{ns:project}}:ბოროტად გამოყენების ფილტრის რედაქტორები',
 	'grouppage-accountcreator' => '{{ns:project}}:ანგარიშების შემქმნელები',
 	'grouppage-autopatrolled' => '{{ns:project}}:ავტომეპატრულე',
@@ -3958,11 +3966,13 @@ $messages['ka'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:ავტომხილველები',
 	'grouppage-bigexport' => '{{ns:project}}:დიდი ექსპორტიორები',
 	'grouppage-confirmed' => '{{ns:project}}:დადასტურებული მომხმარებლები',
+	'grouppage-flood' => '{{ns:project}}:მომხმარებელი-ბოტები',
 	'grouppage-founder' => '{{ns:project}}:დამაარსებლები',
 	'grouppage-import' => '{{ns:project}}:იმპორტიორები',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-დაბლოკვების გამონაკლისები',
 	'grouppage-rollbacker' => '{{ns:project}}:გამმაუქმებლები',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-ს იმპორტორები',
+	'grouppage-trusted' => '{{ns:project}}:სანდო მომხმარებლები',
 	'group-steward' => 'სტიუარდები',
 	'group-sysadmin' => 'სისტემური ადმინისტრატორები',
 	'group-Editinterface' => 'ინტერფეისის რედაქტორები',
@@ -5646,6 +5656,7 @@ $messages['oc'] = array(
 	'group-patroller' => 'Patrolhaires',
 	'group-rollbacker' => 'Revocaires',
 	'group-transwiki' => 'Importaires Transwiki',
+	'group-trusted' => 'Utilizaires de fisança',
 	'group-abusefilter-member' => "modificator dels filtres d'abuses",
 	'group-accountcreator-member' => 'Creator de comptes',
 	'group-autopatrolled-member' => 'Patrolhador automatic',
@@ -5660,6 +5671,7 @@ $messages['oc'] = array(
 	'group-patroller-member' => 'Patrolhaire',
 	'group-rollbacker-member' => 'Revocaire',
 	'group-transwiki-member' => 'Importaire Transwiki',
+	'group-trusted-member' => 'utilizaire de fisança',
 	'grouppage-abusefilter' => "{{ns:project}}:Modificators dels filtres d'abuses",
 	'grouppage-accountcreator' => '{{ns:project}}:Creators de comptes',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolhadors automatics',
@@ -5673,6 +5685,7 @@ $messages['oc'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exempcion de blòt IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Revocaires',
 	'grouppage-transwiki' => '{{ns:project}}:Importaires Transwiki',
+	'grouppage-trusted' => '{{ns:project}}:Utilizaire de fisança',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administrators del sistèma',
 	'group-Editinterface' => "Modificators de l'interfàcia",
@@ -7420,6 +7433,9 @@ $messages['te'] = array(
 	'group-inactive' => 'అచేతన వాడుకరులు',
 	'group-inactive-member' => 'అచేతన వాడుకరి',
 	'grouppage-inactive' => '{{ns:project}}:అచేతన వాడుకరులు',
+	'wikimedia-copyright' => 'పాఠ్యం <a href="http://creativecommons.org/licenses/by-sa/3.0/">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు</a> క్రింద లభ్యం;
+అదనపు షరతులు వర్తించవచ్చు.
+మరిన్ని వివరాలకు <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">వాడుక నియమాల</a>ను చూడండి.',
 	'wikimedia-editpage-tos-summary' => 'మీ రచనలను వేరొకరు మార్చకూడదు, పంచిపెట్టకూడదు అని మీరు అనుకుంటే, మీ రచనలను ఇక్కడ సమర్పించవద్దు. ఈ రచనకు మీరు స్వంతదారులు కాకపోతే ఇది [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] క్రింద ఇది సమర్పించబడి ఉండాలి. అలానే, సంబంధించిన లైసెన్స్ షరతులకు మీరు ఒప్పుకోవాలి.',
 );
 
