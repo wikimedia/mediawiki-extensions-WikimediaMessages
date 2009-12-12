@@ -3931,7 +3931,7 @@ $messages['ka'] = array(
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
 	'group-abusefilter' => 'ბოროტად გამოყენების ფილტრის მეპატრულე',
 	'group-accountcreator' => 'ანგარიში შემქმნელები',
-	'group-autopatrolled' => 'ავტოპატრულიორები',
+	'group-autopatrolled' => 'ავტოპატრულები',
 	'group-autopatroller' => 'ავტომეპატრულები',
 	'group-autoreviewer' => 'ავტომხილველები',
 	'group-bigexport' => 'დიდი ექსპორტორები',
@@ -3940,7 +3940,7 @@ $messages['ka'] = array(
 	'group-founder' => 'დამაარსებლები',
 	'group-import' => 'იმპორტირებე',
 	'group-ipblock-exempt' => 'IP-ბლოკირებების გამონაკლისები',
-	'group-patroller' => 'პატროლიორები',
+	'group-patroller' => 'პატრულები',
 	'group-rollbacker' => 'გაუქმებლები',
 	'group-transwiki' => 'Transwiki-ს იმპორტორები',
 	'group-trusted' => 'სანდო მომხმარებლები',
@@ -4205,6 +4205,13 @@ $messages['ko'] = array(
 	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">이용 규약</a>을 참고하십시오.',
 	'wikimedia-copyrightwarning' => '문서를 편집할 때 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 이 저작물의 기여자가 저작자라는 사실을 표시해야 하며, 적어도 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]을 참고하십시오.',
 	'wikimedia-editpage-tos-summary' => '작성한 문서가 편집되거나 배포되는 것을 원하지 않는다면, 저장하지 마십시오. 이 글을 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 데 동의해야 합니다.',
+);
+
+/** Karachay-Balkar (Къарачай-Малкъар)
+ * @author Iltever
+ */
+$messages['krc'] = array(
+	'group-bigexport' => 'Уллу экспортёрла',
 );
 
 /** Kinaray-a (Kinaray-a)
