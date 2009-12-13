@@ -384,6 +384,43 @@ $wgGrammarForms['dsb'] = array(
 	),
 ); # dsb
 
+$wgGrammarForms['et'] = array(
+	'genitive' => array(
+		'Vikisõnastik'  => 'Vikisõnastiku',
+		'Vikitekstid'   => 'Vikitekstide',
+		'Vikitsitaadid' => 'Vikitsitaatide',
+		'Vikiõpikud'    => 'Vikiõpikute',
+	),
+	'partitive' => array(
+		'Vikipeedia'    => 'Vikipeediat',
+		'Vikisõnastik'  => 'Vikisõnastikku',
+		'Vikitekstid'   => 'Vikitekste',
+		'Vikitsitaadid' => 'Vikitsitaate',
+		'Vikiõpikud'    => 'Vikiõpikuid',
+	),
+	'illative' => array(
+		'Vikipeedia'    => 'Vikipeediasse',
+		'Vikisõnastik'  => 'Vikisõnastikku',
+		'Vikitekstid'   => 'Vikitekstidesse',
+		'Vikitsitaadid' => 'Vikitsitaatidesse',
+		'Vikiõpikud'    => 'Vikiõpikutesse',
+	),
+	'inessive' => array(
+		'Vikipeedia'    => 'Vikipeedias',
+		'Vikisõnastik'  => 'Vikisõnastikus',
+		'Vikitekstid'   => 'Vikitekstides',
+		'Vikitsitaadid' => 'Vikitsitaatides',
+		'Vikiõpikud'    => 'Vikiõpikutes',
+	),
+	'elative' => array(
+		'Vikipeedia'    => 'Vikipeediast',
+		'Vikisõnastik'  => 'Vikisõnastikust',
+		'Vikitekstid'   => 'Vikitekstidest',
+		'Vikitsitaadid' => 'Vikitsitaatidest',
+		'Vikiõpikud'    => 'Vikiõpikutest',
+	),
+); # et
+
 $wgGrammarForms['fi'] = array(
 	'genitive' => array(
 		'Wikiuutiset' => 'Wikiuutisten',
