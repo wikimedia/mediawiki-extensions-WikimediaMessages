@@ -168,6 +168,7 @@ $messages['br'] = array(
  */
 $messages['bs'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia poruke licence',
+	'wm-license-cc-by-1.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 generičkoj] licenci',
 	'wm-license-cc-free' => 'Slobodni ste:',
 	'wm-license-cc-free-to-share-text' => 'da kopirate, distributirate i prenosite djelo',
 	'wm-license-cc-conditions' => 'Pod slijedećim uslovima:',
