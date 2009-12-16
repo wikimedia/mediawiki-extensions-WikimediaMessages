@@ -1087,12 +1087,32 @@ $messages['sr'] = array(
 );
 
 /** Swedish (Svenska)
+ * @author Boivie
  * @author Multichill
  * @author Poxnar
  */
 $messages['sv'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia licensmeddelanden',
 	'wm-license-cc-wiki-link' => 'w:sv:Creative Commons',
-	'wm-license-cc-free' => 'Du får:',
+	'wm-license-cc-attribution' => 'Erkännande',
+	'wm-license-cc-by-1.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.sv Erkännande 1.0 Generisk]',
+	'wm-license-cc-by-2.0-text' => 'Denna fil är licensierad under licensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.sv Erkännande 2.0 Generisk]',
+	'wm-license-cc-by-2.5-text' => 'Denna fil är licensierad under licensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.sv Erkännande 2.5 Generisk]',
+	'wm-license-cc-by-3.0-text' => 'Denna fil är licensierad under licensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.sv Erkännande 3.0 Generisk]',
+	'wm-license-cc-by-sa-1.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.sv Erkännande-Dela Lika 1.0 Generisk]',
+	'wm-license-cc-by-sa-2.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.sv Erkännande-Dela Lika 2.0 Generisk]',
+	'wm-license-cc-by-sa-2.5-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.sv Erkännande-Dela Lika 2.5 Generisk]',
+	'wm-license-cc-by-sa-3.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.sv Erkännande-Dela Lika 3.0 Generisk]',
+	'wm-license-cc-free' => 'Du är fri:',
+	'wm-license-cc-free-to-share-header' => 'att dela',
+	'wm-license-cc-free-to-share-text' => 'att kopiera, distribuera och sända verket',
+	'wm-license-cc-free-to-remix-header' => 'att remixa',
+	'wm-license-cc-free-to-remix-text' => 'att skapa bearbetningar',
+	'wm-license-cc-conditions' => 'På följande villkor:',
+	'wm-license-cc-conditions-attribution-header' => 'erkännande',
+	'wm-license-cc-conditions-attribution-text' => 'Du måste ange upphovsmannen och/eller licensgivaren på det sätt de anger (men inte på ett sätt som antyder att de godkänt eller rekommenderar din använding av verket).',
+	'wm-license-cc-conditions-share_alike-header' => 'dela lika',
+	'wm-license-cc-conditions-share_alike-text' => 'Om du ändrar, bearbetar eller bygger vidare på verket får du endast distribuera resultatet under samma licens, en liknande licens eller en licens som är kompatibel med denna licens.',
 );
 
 /** Tamil (தமிழ்)

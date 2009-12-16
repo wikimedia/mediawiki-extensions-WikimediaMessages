@@ -6534,6 +6534,7 @@ $messages['sah'] = array(
 	'tooltip-n-sitesupport' => 'Өйөбүл',
 	'group-abusefilter' => 'Омсо сиидэтин эрэдээктэрдэрэ',
 	'group-accountcreator' => 'Кыттааччылар ааттарын айааччылар/бигэргэтээччилэр',
+	'group-autopatrolled' => 'Аптамаатынан ботуруулланааччылар',
 	'group-autopatroller' => 'Аптамаатынан ботуруулланааччылар',
 	'group-autoreviewer' => 'Аптамаатынан бигэргэтиллэр',
 	'group-bigexport' => 'Улахан экспортёрдар',
