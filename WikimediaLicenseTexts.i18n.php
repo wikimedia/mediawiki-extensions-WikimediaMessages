@@ -323,9 +323,11 @@ $messages['es'] = array(
 
 /** Estonian (Eesti)
  * @author Multichill
+ * @author Pikne
  */
 $messages['et'] = array(
 	'wm-license-cc-wiki-link' => 'w:et:Creative Commons',
+	'wm-license-cc-attribution' => 'Omistamine',
 );
 
 /** Basque (Euskara)
@@ -1084,6 +1086,33 @@ $messages['sq'] = array(
  */
 $messages['sr'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
+);
+
+/** Seeltersk (Seeltersk)
+ * @author Pyt
+ */
+$messages['stq'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia-Lizenztexte',
+	'wm-license-cc-wiki-link' => 'w:stq:Creative Commons',
+	'wm-license-cc-attribution' => 'Noomenaamenge',
+	'wm-license-cc-by-1.0-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/1.0/deed.de Noomenaamenge 1.0 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-2.0-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/deed.de Noomenaamenge 2.0 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-2.5-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/deed.de Noomenaamenge 2.5 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-3.0-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/deed.de Noomenaamenge 3.0 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-sa-1.0-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/1.0/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 1.0 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-sa-2.0-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/2.0/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 2.0 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-sa-2.5-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/2.5/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 2.5 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-by-sa-3.0-text' => 'Disse Doatäi is unner ju [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/3.0/deed.de Noomenaamenge-Fäärereeken unner glieke Bedingengen 3.0 US-amerikanisk (nit portierd)] lizenzierd.',
+	'wm-license-cc-free' => 'Du duurst:',
+	'wm-license-cc-free-to-share-header' => 'meedeele',
+	'wm-license-cc-free-to-share-text' => 'dät Wierk ferfuuulfoooldigje, ferspreede un eepentelk tougängelk moakje',
+	'wm-license-cc-free-to-remix-header' => 'näi kombinierje',
+	'wm-license-cc-free-to-remix-text' => 'Annerengen un Beoarbaidengen fon dät Wierk moakje',
+	'wm-license-cc-conditions' => 'Tou do foulgjende Bedingengen:',
+	'wm-license-cc-conditions-attribution-header' => 'Noomenaamenge',
+	'wm-license-cc-conditions-attribution-text' => 'Du moast dän Noome fon dän Autor/Gjuchtienhääber in ju fon him fäästlaide Wiese naame (oawers nit so, dät et so uutsjucht, as wüül hie die of dien Ferweendenge fon dät Wierk unnerstutsje).',
+	'wm-license-cc-conditions-share_alike-header' => 'Fäärereeken unner glieke Bedingengen',
+	'wm-license-cc-conditions-share_alike-text' => 'Wan du dät lizenzierde Wierk blw. dän lizenzierde Inhoold beoarbaidest, annerst of in ne uur Wiese ärkanboar as Gruundloage foar dät oaine Schafjen ferwoanst, duurst du do deertruch näi äntsteene Wierke blw. Inhoolde bloot unner Ferweendenge fon Lizenzbedingengen fäärereeke, do mäd do fon dissen Lizenzferdraach identisk, fergliekboar of kompatibel sunt.',
 );
 
 /** Swedish (Svenska)

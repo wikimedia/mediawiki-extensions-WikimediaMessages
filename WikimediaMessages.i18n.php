@@ -3435,7 +3435,7 @@ $messages['hu'] = array(
  */
 $messages['hy'] = array(
 	'sitesupport' => 'Դրամական նվիրատվություն',
-	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> արտոնագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրմասնությունների համար այցելեք՝ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
+	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> արտոնագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
 	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [http://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
 Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
 Ծանոթացեք [http://wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։',
@@ -7184,6 +7184,11 @@ $messages['stq'] = array(
 	'group-inactive' => 'Inaktive Benutsere',
 	'group-inactive-member' => 'Inaktiven Benutser',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutsere',
+	'wikimedia-copyright' => 'Die Text is unner ju Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verföigboar; Bedingengen uurhoop konnen anweendboar weese.
+Eenpeldhaide sunt in do <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutsengsbedingengen</a> beschrieuwen.',
+	'wikimedia-copyrightwarning' => 'Mäd dät Spiekerjen lizenzierst du dien Beoarbaidenge sunner dät du dät touräächtraale koast unner ju [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] un ju [http://www.gnu.org/copyleft/fdl.html GFDL].
+Du stimst tou, dät ne Fääreferweendenge ap minste truch n Hyperlink of ne URL tou ju Siede, ju du beoarbaidest, geböäre duur.
+Eenpeldhaide sunt in do [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] beschrieuwen.',
 	'wikimedia-editpage-tos-summary' => 'Wan du nit moatest, dät dien Text fäärebeoarbaided un fääre fersprat wäd, dan spieker ju nit.
 Fals du dän Text nit sälwen ferfoated hääst, mout er unner do 
 [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] ferföichboar weese un du stimst tou, noodweendige Lizenzanfoarderengen tou foulgjen.',
@@ -8521,7 +8526,7 @@ $messages['zh-hant'] = array(
 	'tooltip-n-sitesupport' => '資助我們',
 	'group-abusefilter' => '濫用過瀘器編輯者',
 	'group-accountcreator' => '賬戶創建員',
-	'group-autopatroller' => '自動巡視員',
+	'group-autopatroller' => '巡查豁免者',
 	'group-autoreviewer' => '自動覆查員',
 	'group-bigexport' => '大量匯出者',
 	'group-confirmed' => '已確認用戶',
@@ -8533,8 +8538,8 @@ $messages['zh-hant'] = array(
 	'group-transwiki' => '跨維基匯入者',
 	'group-abusefilter-member' => '濫用過濾器編輯者',
 	'group-accountcreator-member' => '賬戶創建員',
-	'group-autopatrolled-member' => '自動巡視員',
-	'group-autopatroller-member' => '自動巡視員',
+	'group-autopatrolled-member' => '巡查豁免者',
+	'group-autopatroller-member' => '巡查豁免者',
 	'group-autoreviewer-member' => '自動覆查員',
 	'group-bigexport-member' => '大量匯出者',
 	'group-confirmed-member' => '已確認用戶',
@@ -8546,8 +8551,8 @@ $messages['zh-hant'] = array(
 	'group-transwiki-member' => '跨維基匯入者',
 	'grouppage-abusefilter' => '{{ns:project}}:濫用過濾器編輯者',
 	'grouppage-accountcreator' => '{{ns:project}}:賬戶創建員',
-	'grouppage-autopatrolled' => '{{ns:project}}:自動巡視員',
-	'grouppage-autopatroller' => '{{ns:project}}:自動巡視員',
+	'grouppage-autopatrolled' => '{{ns:project}}:巡查豁免權',
+	'grouppage-autopatroller' => '{{ns:project}}:巡查豁免權',
 	'grouppage-autoreviewer' => '{{ns:project}}:自動覆查員',
 	'grouppage-bigexport' => '{{ns:project}}:大量匯出者',
 	'grouppage-confirmed' => '{{ns:project}}:已確認用戶',
