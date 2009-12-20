@@ -146,11 +146,20 @@ $messages['bn'] = array(
 
 /** Breton (Brezhoneg)
  * @author Fulup
+ * @author Y-M D
  */
 $messages['br'] = array(
 	'wikimedialicensetexts-desc' => 'Kemennadennoù aotre implijout Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:br:Creative Commons',
 	'wm-license-cc-attribution' => 'Deroadenn',
+	'wm-license-cc-by-1.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr Attribution 1.0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]',
 	'wm-license-cc-free' => 'Gallout a rit :',
 	'wm-license-cc-free-to-share-header' => 'eskemm',
 	'wm-license-cc-free-to-share-text' => 'eilañ, skignañ ha treuzkas an oberenn-mañ',
@@ -829,6 +838,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Finnrind
  * @author Multichill
+ * @author Nghtwlkr
  */
 $messages['no'] = array(
 	'wikimedialicensetexts-desc' => 'Meldinger knyttet til Wikimedialisenser',
@@ -837,6 +847,11 @@ $messages['no'] = array(
 	'wm-license-cc-by-1.0-text' => 'Denne filene er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.no Navngivelse 1.0 Generisk]-lisensen',
 	'wm-license-cc-by-2.0-text' => 'Denne filene er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.no Navngivelse 2.0 Generisk]-lisensen',
 	'wm-license-cc-by-2.5-text' => 'Denne filene er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.no Navngivelse 2.5 Generisk]-lisensen',
+	'wm-license-cc-by-3.0-text' => 'Denne filen er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.no Navngivelse 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.no Navngivelse-Del på samme vilkår 1.0 Generisk]',
+	'wm-license-cc-by-sa-2.0-text' => 'Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.no Navngivelse-Del på samme vilkår 2.0 Generisk]',
+	'wm-license-cc-by-sa-2.5-text' => 'Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.no Navngivelse-Del på samme vilkår 2.5 Generisk]',
+	'wm-license-cc-by-sa-3.0-text' => 'Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.no Navngivelse-Del på samme vilkår 3.0 Unported]',
 	'wm-license-cc-free' => 'Du står fritt:',
 	'wm-license-cc-free-to-share-header' => 'til å dele',
 	'wm-license-cc-free-to-share-text' => 'til å kopiere, distribuere og overføre verket',
