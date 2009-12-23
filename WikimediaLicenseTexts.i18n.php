@@ -205,10 +205,31 @@ $messages['cv'] = array(
 );
 
 /** Danish (Dansk)
+ * @author EPO
  * @author Multichill
  */
 $messages['da'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia licenstekster',
 	'wm-license-cc-wiki-link' => 'w:da:Creative Commons',
+	'wm-license-cc-attribution' => 'Navngivelse',
+	'wm-license-cc-by-1.0-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Navngivelse 1.0 Generisk]-licensen',
+	'wm-license-cc-by-2.0-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.da Navngivelse 2.0 Generisk]-licensen',
+	'wm-license-cc-by-2.5-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.da Navngivelse 2.5 Generisk]-licensen',
+	'wm-license-cc-by-3.0-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.da Navngivelse 3.0 Unported]-licensen',
+	'wm-license-cc-by-sa-1.0-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.da Navngivelse – Del på samme vilkår 1.0 Generisk]-licensen',
+	'wm-license-cc-by-sa-2.0-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.da Navngivelse – Del på samme vilkår 2.0 Generisk]-licensen',
+	'wm-license-cc-by-sa-2.5-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.da Navngivelse – Del på samme vilkår 2.5 Generisk]-licensen',
+	'wm-license-cc-by-sa-3.0-text' => 'Denne fil er licenseret under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.da Navngivelse – Del på samme vilkår 3.0 Unported]-licensen',
+	'wm-license-cc-free' => 'Du har frihed til:',
+	'wm-license-cc-free-to-share-header' => 'til at dele',
+	'wm-license-cc-free-to-share-text' => 'til at fremstille eksemplarer og gøre værket tilgængeligt for almenheden',
+	'wm-license-cc-free-to-remix-header' => 'til at fremstille bearbejdede værker',
+	'wm-license-cc-free-to-remix-text' => 'til at fremstille bearbejdede værker',
+	'wm-license-cc-conditions' => 'På følgende vilkår:',
+	'wm-license-cc-conditions-attribution-header' => 'navngivelse',
+	'wm-license-cc-conditions-attribution-text' => 'Du skal kreditere værket på den måde, der er angivet af rettighedshaveren og licensgiveren.',
+	'wm-license-cc-conditions-share_alike-header' => 'del på samme vilkår',
+	'wm-license-cc-conditions-share_alike-text' => 'Hvis du bearbejder, herunder ændrer og tilpasser, dette værk, herunder også med kommercielt sigte, skal du licensere det nye værk under tilsvarende vilkår.',
 );
 
 /** German (Deutsch)
@@ -279,11 +300,20 @@ $messages['dsb'] = array(
 /** Greek (Ελληνικά)
  * @author Crazymadlover
  * @author Omnipaedista
+ * @author ZaDiak
  */
 $messages['el'] = array(
 	'wikimedialicensetexts-desc' => 'Μηνύματα αδειών του Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:el:Creative Commons',
 	'wm-license-cc-attribution' => 'Απόδοση',
+	'wm-license-cc-by-1.0-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] άδεια',
+	'wm-license-cc-by-2.0-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic] άδεια',
+	'wm-license-cc-by-2.5-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic] άδεια',
+	'wm-license-cc-by-3.0-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Generic] άδεια',
+	'wm-license-cc-by-sa-1.0-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic] άδεια',
+	'wm-license-cc-by-sa-2.0-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic] άδεια',
+	'wm-license-cc-by-sa-2.5-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic] άδεια',
+	'wm-license-cc-by-sa-3.0-text' => 'Το αρχείο είναι αδειοδοτημένο κάτω από την [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Generic] άδεια',
 	'wm-license-cc-free' => 'Είστε ελεύθερος:',
 	'wm-license-cc-free-to-share-header' => 'καταμερισμός',
 	'wm-license-cc-free-to-share-text' => 'αντιγραφή, διανομή και με μετάδοση του έργου',
@@ -367,9 +397,23 @@ $messages['fa'] = array(
 
 /** Finnish (Suomi)
  * @author Multichill
+ * @author Str4nd
  */
 $messages['fi'] = array(
 	'wm-license-cc-wiki-link' => 'w:fi:Creative Commons',
+	'wm-license-cc-attribution' => 'Nimeä',
+	'wm-license-cc-by-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fi Nimeä 1.0 Raakaversio] -lisenssillä',
+	'wm-license-cc-by-2.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.fi Nimeä 2.0 Raakaversio] -lisenssillä',
+	'wm-license-cc-by-2.5-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.fi Nimeä 2.5 Raakaversio] -lisenssillä',
+	'wm-license-cc-by-3.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.fi Nimeä 3.0 Muokkaamaton] -lisenssillä',
+	'wm-license-cc-by-sa-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.fi Nimeä-Tarttuva 1.0 Raakaversio] -lisenssillä',
+	'wm-license-cc-by-sa-2.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.fi Nimeä-Tarttuva 2.0 Raakaversio] -lisenssillä',
+	'wm-license-cc-by-sa-2.5-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.fi Nimeä-Tarttuva 2.5 Raakaversio] -lisenssillä',
+	'wm-license-cc-by-sa-3.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fi Nimeä-Tarttuva 3.0 Muokkaamaton] -lisenssillä',
+	'wm-license-cc-free' => 'Voit:',
+	'wm-license-cc-free-to-share-header' => 'jakaa',
+	'wm-license-cc-free-to-share-text' => 'kopioida, levittää ja esittää teosta',
+	'wm-license-cc-free-to-remix-text' => 'valmistaa muutettuja teoksia',
 );
 
 /** French (Français)
@@ -780,6 +824,7 @@ $messages['ml'] = array(
 /** Malay (Bahasa Melayu)
  * @author Aurora
  * @author Multichill
+ * @author Yosri
  */
 $messages['ms'] = array(
 	'wikimedialicensetexts-desc' => 'Pesanan lesen Wikimedia',
@@ -787,6 +832,15 @@ $messages['ms'] = array(
 	'wm-license-cc-by-1.0-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/1.0/deed.ms Pengiktirafan 1.0 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-by-2.0-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/2.0/deed.ms Pengiktirafan 2.0 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
 	'wm-license-cc-by-2.5-text' => 'Fail ini dilesenkan di bawah lesen [http://creativecommons.org/licenses/by/2.5/deed.ms Pengiktirafan 2.5 Umum] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]',
+	'wm-license-cc-free' => 'Anda adalah bebas:',
+	'wm-license-cc-free-to-share-header' => 'untuk berkongsi',
+	'wm-license-cc-free-to-share-text' => 'untuk menyalin , menyebar dan memindah hasil kerja',
+	'wm-license-cc-free-to-remix-header' => 'untuk mencampur',
+	'wm-license-cc-free-to-remix-text' => 'untuk menyesuaikan hasil kerja',
+	'wm-license-cc-conditions' => 'Di bawah syarat berikut:',
+	'wm-license-cc-conditions-attribution-text' => 'Anda perlu akui kerja dalam bentuk yang dikhususkan oleh pengarang atau pelesen (tetapi tidak dalam cara yang mencadangkan mereka mengesahkan anda atau pengunaan anda bagi kerja tersebut).',
+	'wm-license-cc-conditions-share_alike-header' => 'perkongsian bersama',
+	'wm-license-cc-conditions-share_alike-text' => 'Jika anda ubah, tukar, atau menambah hasil kerja ini, anda boleh menyebarkan hasil kerja itu di bawah lesen yang sama atau serupa dengan lesen asal.',
 );
 
 /** Dutch (Nederlands)
@@ -859,6 +913,9 @@ $messages['no'] = array(
 	'wm-license-cc-free-to-remix-text' => 'til å endre verket',
 	'wm-license-cc-conditions' => 'Under de følgende betingelsene:',
 	'wm-license-cc-conditions-attribution-header' => 'navngivelse',
+	'wm-license-cc-conditions-attribution-text' => 'Du må kreditere verket på den måte som er spesifisert av forfatteren eller lisensgiveren (men ikke på en måte som antyder at de påtegnet deg eller din bruk av verket).',
+	'wm-license-cc-conditions-share_alike-header' => 'del på samme vilkår',
+	'wm-license-cc-conditions-share_alike-text' => 'Dersom du endrer, bearbeider eller bygger på dette verket, kan du kun distribuere resultatet under den samme eller en lignende lisens som denne.',
 );
 
 /** Occitan (Occitan)
@@ -983,10 +1040,21 @@ $messages['pt-br'] = array(
 );
 
 /** Romanian (Română)
+ * @author Firilacroco
+ * @author KlaudiuMihaila
  * @author Multichill
  */
 $messages['ro'] = array(
 	'wm-license-cc-wiki-link' => 'w:ro:Creative Commons',
+	'wm-license-cc-attribution' => 'Atribuire',
+	'wm-license-cc-free' => 'Sunteţi liber:',
+	'wm-license-cc-free-to-share-header' => 'partajezi cu alţii',
+	'wm-license-cc-free-to-share-text' => 'să copiaţi, să distribuiţi şi să transmiteţi lucrarea',
+	'wm-license-cc-free-to-remix-header' => 'adaptare',
+	'wm-license-cc-free-to-remix-text' => 'să adaptaţi lucrarea',
+	'wm-license-cc-conditions' => 'Sub următoarele condiţii:',
+	'wm-license-cc-conditions-attribution-header' => 'atribuire',
+	'wm-license-cc-conditions-share_alike-header' => 'partajare cu alţii fără modificări',
 );
 
 /** Tarandíne (Tarandíne)
@@ -1193,9 +1261,21 @@ $messages['tl'] = array(
 
 /** Turkish (Türkçe)
  * @author Multichill
+ * @author Vito Genovese
  */
 $messages['tr'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia lisans mesajları',
 	'wm-license-cc-wiki-link' => 'w:tr:Creative Commons',
+	'wm-license-cc-attribution' => 'Atıf',
+	'wm-license-cc-free' => 'Şu seçeneklerde özgürsünüz:',
+	'wm-license-cc-free-to-share-header' => 'paylaşım',
+	'wm-license-cc-free-to-share-text' => 'eser paylaşımı, dağıtımı ve iletimi',
+	'wm-license-cc-free-to-remix-text' => 'eser adaptasyonu',
+	'wm-license-cc-conditions' => 'Aşağıdaki koşullar geçerli olacaktır:',
+	'wm-license-cc-conditions-attribution-header' => 'atıf',
+	'wm-license-cc-conditions-attribution-text' => 'Esere yazar veya lisans sahibi tarafından belirtilen (ancak sizi ya da eseri kullanımınızı desteklediklerini ileri sürmeyecek bir) şekilde atıfta bulunmalısınız.',
+	'wm-license-cc-conditions-share_alike-header' => 'benzer paylaşım',
+	'wm-license-cc-conditions-share_alike-text' => 'Bu eseri değiştirmeniz, dönüştürmeniz ya da bu eseri temel alan başka bir eser oluşturmanız halinde, ortaya çıkan eser için sadece bu veya buna benzer bir lisansı kullanma imkanınız bulunmaktadır.',
 );
 
 /** Ukrainian (Українська)
@@ -1247,6 +1327,8 @@ $messages['vi'] = array(
  * @author פוילישער
  */
 $messages['yi'] = array(
+	'wikimedialicensetexts-desc' => 'וויקימעדיע ליצענץ מעלדונגען',
+	'wm-license-cc-wiki-link' => 'w:yi:Creative Commons',
 	'wm-license-cc-free' => 'איר מעגט:',
 );
 
