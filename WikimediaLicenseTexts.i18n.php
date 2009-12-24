@@ -191,10 +191,31 @@ $messages['ca'] = array(
 );
 
 /** Czech (Česky)
+ * @author Matěj Grabovský
  * @author Multichill
  */
 $messages['cs'] = array(
+	'wikimedialicensetexts-desc' => 'Zprávy licencí Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:cs:Creative Commons',
+	'wm-license-cc-attribution' => 'Attribution',
+	'wm-license-cc-by-1.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-free' => 'Můžete svobodně:',
+	'wm-license-cc-free-to-share-header' => 'sdílet',
+	'wm-license-cc-free-to-share-text' => 'kopírovat, distribuovat a přenášet dílo',
+	'wm-license-cc-free-to-remix-header' => 'měnit',
+	'wm-license-cc-free-to-remix-text' => 'adaptovat dílo',
+	'wm-license-cc-conditions' => 'Za následujících podmínek:',
+	'wm-license-cc-conditions-attribution-header' => 'uznání autorství',
+	'wm-license-cc-conditions-attribution-text' => 'Musíte uvést autorství práce způsobem, jakým to požaduje autor nebo držitel licence (ale ne žádným jiným způsobem, který by naznačoval, že podporují vás nebo vaše využití díla).',
+	'wm-license-cc-conditions-share_alike-header' => 'měnit za stejných podmínek',
+	'wm-license-cc-conditions-share_alike-text' => 'Pokud toto dílo změníte, převedete do jiné podoby nebo použijte jako základ jiného díla, můžete výsledné odvozené dílo šířit pouze pod stejnou nebo podobnou licencí jako je tato.',
 );
 
 /** Chuvash (Чӑвашла)
@@ -1061,10 +1082,27 @@ $messages['ro'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'wikimedialicensetexts-desc' => "Messagge d'a licenze de UicchiMedia",
+	'wm-license-cc-wiki-link' => 'w:roa-tara:Creatività comune',
 	'wm-license-cc-attribution' => 'Attribbuzione',
+	'wm-license-cc-by-1.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] licenze",
+	'wm-license-cc-by-2.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic] licenze",
+	'wm-license-cc-by-2.5-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic] licenze",
+	'wm-license-cc-by-3.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported] licenze",
+	'wm-license-cc-by-sa-1.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic] licenze",
+	'wm-license-cc-by-sa-2.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic] licenze",
+	'wm-license-cc-by-sa-2.5-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic] licenze",
+	'wm-license-cc-by-sa-3.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] licenze",
 	'wm-license-cc-free' => 'Tu si libbere:',
 	'wm-license-cc-free-to-share-header' => 'da spartere',
+	'wm-license-cc-free-to-share-text' => "pe copià, distribbuì e trasmettere 'a fatìe",
 	'wm-license-cc-free-to-remix-header' => 'da misckà',
+	'wm-license-cc-free-to-remix-text' => "pe adattà a 'a fatìe",
+	'wm-license-cc-conditions' => 'Sotte a le condiziune seguende:',
+	'wm-license-cc-conditions-attribution-header' => 'attribbuzione',
+	'wm-license-cc-conditions-attribution-text' => "Tu à attribbuì 'a fatìe jndr'à le mode specificate da l'autore o 'u licenziatarie (ma in nisciune mode ca suggeriscene lore ha futtè lore o l'use tue d'a fatìe).",
+	'wm-license-cc-conditions-share_alike-header' => 'condivide cose simile',
+	'wm-license-cc-conditions-share_alike-text' => "Ce tu cange, trasforme o costruisce sus a sta fatìe, tu puè destribbuì 'a fatìe ca ne iesse dore sule sotte a 'a stessa licenze o simile a queste.",
 );
 
 /** Russian (Русский)
