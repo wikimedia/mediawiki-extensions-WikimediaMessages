@@ -552,16 +552,19 @@ $messages['arz'] = array(
 	'tooltip-n-sitesupport' => 'ساندنا',
 	'group-abusefilter' => 'معدلين فيلتر الاساءه',
 	'group-accountcreator' => 'مؤسسين الحسابات',
+	'group-autopatrolled' => 'مراجعين أوتوماتيكى',
 	'group-autopatroller' => 'اوتوباترولارز',
 	'group-autoreviewer' => 'اوتوريفيورات',
 	'group-bigexport' => 'المصدرين الكبار',
 	'group-confirmed' => 'يوزرات متأكدين',
+	'group-flood' => 'يوزرز بوت',
 	'group-founder' => 'مؤسسين',
 	'group-import' => 'مستوردين',
 	'group-ipblock-exempt' => 'مستثنيين من منع الااى بى',
 	'group-patroller' => 'مراجعون',
 	'group-rollbacker' => 'مسترجعين',
 	'group-transwiki' => 'مستوردين عبر الويكى',
+	'group-trusted' => 'مستخدمين موثوقين',
 	'group-abusefilter-member' => 'محرر فيلتر الاساءه',
 	'group-accountcreator-member' => 'مؤسس حساب',
 	'group-autopatrolled-member' => 'اوتوباترولار',
@@ -569,12 +572,14 @@ $messages['arz'] = array(
 	'group-autoreviewer-member' => 'مراجع اوتوماتيكى',
 	'group-bigexport-member' => 'مصدر كبير',
 	'group-confirmed-member' => 'يوزر متأكد',
+	'group-flood-member' => 'يوزر بوت',
 	'group-founder-member' => 'مؤسس',
 	'group-import-member' => 'مستورد',
 	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى',
 	'group-patroller-member' => 'مراجع',
 	'group-rollbacker-member' => 'مسترجع',
 	'group-transwiki-member' => 'مستورد عبر الويكى',
+	'group-trusted-member' => 'مستخدم موثوق',
 	'grouppage-abusefilter' => '{{ns:project}}:محررين فيلتر الاساءه',
 	'grouppage-accountcreator' => '{{ns:project}}:منشئين الحسابات',
 	'grouppage-autopatrolled' => '{{ns:project}}:اوتوباترولارز',
@@ -589,12 +594,14 @@ $messages['arz'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:مستوردين عبر الويكى',
 	'group-steward' => 'مضيفين',
 	'group-sysadmin' => 'اداريين النظام',
+	'group-Editinterface' => 'محررين الواجهه',
 	'group-Global_bot' => 'بوتات عامه',
 	'group-Global_rollback' => 'مسترجعين عامين',
 	'group-Ombudsmen' => 'اومبادزمين',
 	'group-Staff' => 'مشرفون',
 	'group-steward-member' => 'مضيف',
 	'group-sysadmin-member' => 'ادارى نظام',
+	'group-Editinterface-member' => 'محرر الواجهه',
 	'group-Global_bot-member' => 'بوت عام',
 	'group-Global_rollback-member' => 'مسترجع عام',
 	'group-Ombudsmen-member' => 'اومبدادزمان',
@@ -869,6 +876,7 @@ $messages['be-tarask'] = array(
  * @author DCLXVI
  * @author Meno25
  * @author Spiritia
+ * @author Turin
  */
 $messages['bg'] = array(
 	'wikimediamessages-desc' => 'Съобщения, специфични за Уикимедия',
@@ -889,10 +897,12 @@ $messages['bg'] = array(
 	'grouppage-trusted' => '{{ns:project}}:Доверени потребители',
 	'group-steward' => 'Стюарди',
 	'group-sysadmin' => 'Системни администратори',
+	'group-Editinterface' => 'Редактори на интерфейса',
 	'group-Global_bot' => 'Глобални ботове',
 	'group-Ombudsmen' => 'Омбудсмани',
 	'group-steward-member' => 'Стюард',
 	'group-sysadmin-member' => 'системен администратор',
+	'group-Editinterface-member' => 'редактор на интерфейса',
 	'group-Global_bot-member' => 'глобален бот',
 	'group-Ombudsmen-member' => 'омбудсман',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
@@ -4187,12 +4197,14 @@ If you did not write this yourself, it must be available under terms consistent 
 );
 
 /** Kannada (ಕನ್ನಡ)
+ * @author Nayvik
  * @author Shushruth
  * @author לערי ריינהארט
  */
 $messages['kn'] = array(
 	'sitesupport' => 'ದೇಣಿಗೆ',
 	'tooltip-n-sitesupport' => 'ನಮ್ಮನ್ನು ಬೆಂಬಲಿಸಿ',
+	'group-founder-member' => 'ಸಂಸ್ಥಾಪಕ',
 );
 
 /** Korean (한국어)
@@ -4264,9 +4276,9 @@ $messages['ko'] = array(
 	'group-inactive-member' => '활동하지 않는 사용자',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자',
 	'shared-repo-name-shared' => '위키미디어 공용',
-	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">이용 규약</a>을 참고하십시오.',
-	'wikimedia-copyrightwarning' => '문서를 편집할 때 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 이 저작물의 기여자가 저작자라는 사실을 표시해야 하며, 적어도 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]을 참고하십시오.',
-	'wikimedia-editpage-tos-summary' => '작성한 문서가 편집되거나 배포되는 것을 원하지 않는다면, 저장하지 마십시오. 이 글을 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/Terms_of_Use 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 데 동의해야 합니다.',
+	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD">이용 규약</a>을 참고하십시오.',
+	'wikimedia-copyrightwarning' => '문서를 편집할 때 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 이 저작물의 기여자가 저작자라는 사실을 표시해야 하며, 적어도 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]을 참고하십시오.',
+	'wikimedia-editpage-tos-summary' => '만약, 현재 작성하고 있는 문서가 다른 사람에 의해 자유롭게 편집/배포되길 원하지 않는다면 저장 버튼을 누르지 말아 주세요. 이 문서를 자신이 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 것에 동의해야 합니다.',
 );
 
 /** Karachay-Balkar (Къарачай-Малкъар)
@@ -7677,30 +7689,37 @@ $messages['tk'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Haýyr-sawahatlar',
 	'tooltip-n-sitesupport' => 'Bizi goldaň',
+	'group-abusefilter' => 'Erbet ulanmak filtr redaktorlary',
 	'group-accountcreator' => 'Hasap döredijiler',
 	'group-autopatrolled' => 'Awtopatrullar',
 	'group-autopatroller' => 'Awtopatrullar',
-	'group-autoreviewer' => 'Awtogözegçi',
+	'group-autoreviewer' => 'Awto gözden geçirijiler',
 	'group-bigexport' => 'Iri eksportirleýjiler',
 	'group-confirmed' => 'Tassyklanylan ulanyjylar',
 	'group-flood' => 'Bot ulanyjylary',
 	'group-founder' => 'Esaslandyryjylar',
 	'group-import' => 'Importirleýjiler',
+	'group-ipblock-exempt' => 'IP blokirleme daş tutmalary',
 	'group-patroller' => 'Patrullar',
+	'group-rollbacker' => 'Öňki katdyna getirijiler',
 	'group-transwiki' => 'Wikiara importirleýjiler',
 	'group-trusted' => 'Ynamdar ulanyjylar',
+	'group-abusefilter-member' => 'erbet ulanmak filtr redaktory',
 	'group-accountcreator-member' => 'hasap dörediji',
 	'group-autopatrolled-member' => 'awtopatrullar',
 	'group-autopatroller-member' => 'awtopatrullar',
-	'group-autoreviewer-member' => 'awtogözegçi',
+	'group-autoreviewer-member' => 'awto gözden geçiriji',
 	'group-bigexport-member' => 'iri eksportirleýji',
 	'group-confirmed-member' => 'tassyklanylan ulanyjy',
 	'group-flood-member' => 'bot ulanyjysy',
 	'group-founder-member' => 'esaslandyryjy',
 	'group-import-member' => 'importirleýji',
+	'group-ipblock-exempt-member' => 'IP blokirleme daş tutmasy',
 	'group-patroller-member' => 'patrul',
+	'group-rollbacker-member' => 'öňki katdyna getiriji',
 	'group-transwiki-member' => 'wikiara importirleýjisi',
 	'group-trusted-member' => 'ynamdar ulanyjy',
+	'grouppage-abusefilter' => '{{ns:project}}:Erbet ulanmak filtr redaktorlary',
 	'grouppage-accountcreator' => '{{ns:project}}:Hasap döredijiler',
 	'grouppage-autopatrolled' => '{{ns:project}}:Awtopatrullar',
 	'grouppage-autopatroller' => '{{ns:project}}:Awtopatrullar',
@@ -7710,18 +7729,22 @@ $messages['tk'] = array(
 	'grouppage-flood' => '{{ns:project}}:Bot ulanyjylary',
 	'grouppage-founder' => '{{ns:project}}:Esaslandyryjylar',
 	'grouppage-import' => '{{ns:project}}:Importirleýjiler',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blokirleme daş tutmasy',
+	'grouppage-rollbacker' => '{{ns:project}}:Öňki katdyna getirijiler',
 	'grouppage-transwiki' => '{{ns:project}}:Wikiara importirleýjiler',
 	'grouppage-trusted' => '{{ns:project}}:Ynamdar ulanyjylar',
 	'group-steward' => 'Stýuardlar',
 	'group-sysadmin' => 'Ulgam administratorlary',
 	'group-Editinterface' => 'Interfeýs redaktorlary',
 	'group-Global_bot' => 'Global botlar',
+	'group-Global_rollback' => 'Global öňki katdyna getirijiler',
 	'group-Ombudsmen' => 'Ombudsmenler',
 	'group-Staff' => 'Işgärler',
 	'group-steward-member' => 'stýuard',
 	'group-sysadmin-member' => 'ulgam administratory',
 	'group-Editinterface-member' => 'interfeýs redaktory',
 	'group-Global_bot-member' => 'global bot',
+	'group-Global_rollback-member' => 'global öňki katdyna getiriji',
 	'group-Ombudsmen-member' => 'ombudsmen',
 	'group-Staff-member' => 'işgär',
 	'group-coder' => 'Kodirleýjiler',
@@ -8686,12 +8709,13 @@ $messages['zh-hans'] = array(
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Alexsh
  * @author KaiesTse
+ * @author Mark85296341
  * @author William915
  * @author Wong128hk
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
-	'wikimediamessages-desc' => '維基媒體特定信息',
+	'wikimediamessages-desc' => '維基媒體特定訊息',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/{{urlencode:資助}}',
 	'sitesupport' => '贊助',
 	'tooltip-n-sitesupport' => '資助我們',

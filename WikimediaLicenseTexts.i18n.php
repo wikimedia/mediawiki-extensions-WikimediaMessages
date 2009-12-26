@@ -73,7 +73,7 @@ $messages['af'] = array(
 $messages['ar'] = array(
 	'wikimedialicensetexts-desc' => 'رسائل ترخيص ويكيميديا',
 	'wm-license-cc-wiki-link' => 'w:ar:مشاع مبدع',
-	'wm-license-cc-attribution' => 'عزو',
+	'wm-license-cc-attribution' => 'نسبة المصنف إلى مؤلفه',
 	'wm-license-cc-by-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/deed.en نسبة المنصف إلى مؤلفه 1.0 العامة]',
 	'wm-license-cc-by-2.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/deed.en نسبة المنصف إلى مؤلفه 2.0 العامة]',
 	'wm-license-cc-by-2.5-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/deed.en نسبة المنصف إلى مؤلفه 2.5 العامة]',
@@ -88,10 +88,23 @@ $messages['ar'] = array(
 	'wm-license-cc-free-to-remix-header' => 'في التعديل',
 	'wm-license-cc-free-to-remix-text' => 'في تكييف العمل',
 	'wm-license-cc-conditions' => 'تحت الشروط التالية:',
-	'wm-license-cc-conditions-attribution-header' => 'العزو',
+	'wm-license-cc-conditions-attribution-header' => 'نسبة المصنف إلى مؤلفه',
 	'wm-license-cc-conditions-attribution-text' => 'يجب عليك أن تنسب العمل بالطريقة التي يحددها المؤلف أو المرخص (ولكن ليس بأي يشكل يمكن أن يوحي بتأييده لك أو لاستخدامك لعمله).',
-	'wm-license-cc-conditions-share_alike-header' => 'مشاركة بالمثل',
+	'wm-license-cc-conditions-share_alike-header' => 'المشاركة على قدم المساواة',
 	'wm-license-cc-conditions-share_alike-text' => 'إذا عدلت أو غيرت أو بنيت على هذا العمل، فلا يحق لك توزيع العمل الناتج إلى تحت نفس الرخصة أو رخصة مشابهة لها.',
+);
+
+/** Egyptian Spoken Arabic (مصرى)
+ * @author Meno25
+ */
+$messages['arz'] = array(
+	'wikimedialicensetexts-desc' => 'رسايل ترخيص ويكيميديا',
+	'wm-license-cc-attribution' => 'نسبه ل',
+	'wm-license-cc-free' => 'إنت حر:',
+	'wm-license-cc-free-to-share-header' => 'فى المشاركه',
+	'wm-license-cc-free-to-remix-header' => 'إنك تمزج',
+	'wm-license-cc-conditions-attribution-header' => 'نسبه ل',
+	'wm-license-cc-conditions-share_alike-header' => 'مشاركه زي',
 );
 
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
@@ -421,6 +434,7 @@ $messages['fa'] = array(
  * @author Str4nd
  */
 $messages['fi'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedian lisenssiviestit.',
 	'wm-license-cc-wiki-link' => 'w:fi:Creative Commons',
 	'wm-license-cc-attribution' => 'Nimeä',
 	'wm-license-cc-by-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fi Nimeä 1.0 Raakaversio] -lisenssillä',
@@ -434,7 +448,10 @@ $messages['fi'] = array(
 	'wm-license-cc-free' => 'Voit:',
 	'wm-license-cc-free-to-share-header' => 'jakaa',
 	'wm-license-cc-free-to-share-text' => 'kopioida, levittää ja esittää teosta',
+	'wm-license-cc-free-to-remix-header' => 'remiksata',
 	'wm-license-cc-free-to-remix-text' => 'valmistaa muutettuja teoksia',
+	'wm-license-cc-conditions' => 'Seuraavilla ehdoilla:',
+	'wm-license-cc-conditions-share_alike-header' => 'tarttuva',
 );
 
 /** French (Français)
@@ -1106,6 +1123,7 @@ $messages['roa-tara'] = array(
 );
 
 /** Russian (Русский)
+ * @author Aleksandrit
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -1114,12 +1132,12 @@ $messages['ru'] = array(
 	'wm-license-cc-attribution' => 'Указание авторства',
 	'wm-license-cc-by-1.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic]',
 	'wm-license-cc-by-2.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic]',
-	'wm-license-cc-by-2.5-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
-	'wm-license-cc-by-3.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
+	'wm-license-cc-by-2.5-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported]',
 	'wm-license-cc-by-sa-1.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic]',
-	'wm-license-cc-by-sa-2.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
-	'wm-license-cc-by-sa-2.5-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
-	'wm-license-cc-by-sa-3.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-by-sa-2.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Этот файл лицензирован на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported]',
 	'wm-license-cc-free' => 'Вы можете свободно:',
 	'wm-license-cc-free-to-share-header' => 'делиться произведением',
 	'wm-license-cc-free-to-share-text' => 'копировать, распространять и передавать данное произведение.',
@@ -1317,12 +1335,32 @@ $messages['tr'] = array(
 );
 
 /** Ukrainian (Українська)
+ * @author Aleksandrit
  * @author Multichill
  * @author Prima klasy4na
  */
 $messages['uk'] = array(
 	'wikimedialicensetexts-desc' => 'Ліцензійні повідомлення Вікімедіа',
 	'wm-license-cc-wiki-link' => 'w:uk:Creative Commons',
+	'wm-license-cc-attribution' => 'Зазначення авторства',
+	'wm-license-cc-by-1.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-free' => 'Ви можете вільно:',
+	'wm-license-cc-free-to-share-header' => 'ділитися твором',
+	'wm-license-cc-free-to-share-text' => 'копіювати, поширювати і передавати твір',
+	'wm-license-cc-free-to-remix-header' => 'створювати похідні',
+	'wm-license-cc-free-to-remix-text' => 'переробляти цей твір',
+	'wm-license-cc-conditions' => 'При дотриманні наступних умов:',
+	'wm-license-cc-conditions-attribution-header' => 'зазначення авторства',
+	'wm-license-cc-conditions-attribution-text' => 'Ви повинні вказувати авторство (джерело) цього твору у вигляді, встановленому автором або ліцензіаром (але ні в якому разі не таким чином, що наводить на думку, що автор підтримує вас чи ваше використання цього твору).',
+	'wm-license-cc-conditions-share_alike-header' => 'поширення на тих же умовах',
+	'wm-license-cc-conditions-share_alike-text' => 'Якщо ви змінюєте, перетворюєте або створюєте іншу похідну роботу на основі цього твору, ви можете поширювати отриманий в результаті твір тільки на умовах такої ж або сумісної ліцензії.',
 );
 
 /** Vèneto (Vèneto)
