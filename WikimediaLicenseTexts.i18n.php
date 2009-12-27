@@ -205,20 +205,21 @@ $messages['ca'] = array(
 
 /** Czech (Česky)
  * @author Matěj Grabovský
+ * @author Mormegil
  * @author Multichill
  */
 $messages['cs'] = array(
 	'wikimedialicensetexts-desc' => 'Zprávy licencí Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:cs:Creative Commons',
-	'wm-license-cc-attribution' => 'Attribution',
-	'wm-license-cc-by-1.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
-	'wm-license-cc-by-2.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic]',
-	'wm-license-cc-by-2.5-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic]',
-	'wm-license-cc-by-3.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported]',
-	'wm-license-cc-by-sa-1.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.en Attribution-Share Alike 1.0 Generic]',
-	'wm-license-cc-by-sa-2.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 Generic]',
-	'wm-license-cc-by-sa-2.5-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]',
-	'wm-license-cc-by-sa-3.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-attribution' => 'Uveďte autora',
+	'wm-license-cc-by-1.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.cs Uveďte autora 1.0 Generic]',
+	'wm-license-cc-by-2.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.cs Uveďte autora 2.0 Generic]',
+	'wm-license-cc-by-2.5-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.cs Uveďte autora 2.5 Generic]',
+	'wm-license-cc-by-3.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.cs Uveďte autora 3.0 Unported]',
+	'wm-license-cc-by-sa-1.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.cs Uveďte autora-Zachovejte licenci 1.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.cs Uveďte autora-Zachovejte licenci 2.0 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.cs Uveďte autora-Zachovejte licenci 2.5 Generic]',
+	'wm-license-cc-by-sa-3.0-text' => 'Tento soubor podléhá licenci [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.cs Uveďte autora-Zachovejte licenci 3.0 Unported]',
 	'wm-license-cc-free' => 'Můžete svobodně:',
 	'wm-license-cc-free-to-share-header' => 'sdílet',
 	'wm-license-cc-free-to-share-text' => 'kopírovat, distribuovat a přenášet dílo',
@@ -226,8 +227,8 @@ $messages['cs'] = array(
 	'wm-license-cc-free-to-remix-text' => 'adaptovat dílo',
 	'wm-license-cc-conditions' => 'Za následujících podmínek:',
 	'wm-license-cc-conditions-attribution-header' => 'uznání autorství',
-	'wm-license-cc-conditions-attribution-text' => 'Musíte uvést autorství práce způsobem, jakým to požaduje autor nebo držitel licence (ale ne žádným jiným způsobem, který by naznačoval, že podporují vás nebo vaše využití díla).',
-	'wm-license-cc-conditions-share_alike-header' => 'měnit za stejných podmínek',
+	'wm-license-cc-conditions-attribution-text' => 'Musíte uvést autorství práce způsobem, jakým to požaduje autor nebo držitel licence (ale ne způsobem, který by naznačoval, že podporují vás nebo vaše využití díla).',
+	'wm-license-cc-conditions-share_alike-header' => 'zachování licence',
 	'wm-license-cc-conditions-share_alike-text' => 'Pokud toto dílo změníte, převedete do jiné podoby nebo použijte jako základ jiného díla, můžete výsledné odvozené dílo šířit pouze pod stejnou nebo podobnou licencí jako je tato.',
 );
 
@@ -432,6 +433,7 @@ $messages['fa'] = array(
 /** Finnish (Suomi)
  * @author Multichill
  * @author Str4nd
+ * @author ZeiP
  */
 $messages['fi'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedian lisenssiviestit.',
@@ -451,7 +453,10 @@ $messages['fi'] = array(
 	'wm-license-cc-free-to-remix-header' => 'remiksata',
 	'wm-license-cc-free-to-remix-text' => 'valmistaa muutettuja teoksia',
 	'wm-license-cc-conditions' => 'Seuraavilla ehdoilla:',
+	'wm-license-cc-conditions-attribution-header' => 'nimeäminen',
+	'wm-license-cc-conditions-attribution-text' => 'Sinun tulee nimetä työ tekijän tai lisensoijan määräämällä tavalla (mutta ei sellaisella tavalla, joka vihjaa että he tukevat sinua tai työnsä käyttöä).',
 	'wm-license-cc-conditions-share_alike-header' => 'tarttuva',
+	'wm-license-cc-conditions-share_alike-text' => 'Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain tällä tai tämän kaltaisella lisenssillä.',
 );
 
 /** French (Français)
@@ -854,9 +859,12 @@ $messages['mk'] = array(
 
 /** Malayalam (മലയാളം)
  * @author Multichill
+ * @author Praveenp
  */
 $messages['ml'] = array(
+	'wikimedialicensetexts-desc' => 'വിക്കിമീഡിയ അനുമതി സന്ദേശങ്ങൾ',
 	'wm-license-cc-wiki-link' => 'w:ml:ക്രിയേറ്റീവ് കോമണ്‍സ്',
+	'wm-license-cc-free' => 'താങ്കൾക്കുള്ള സ്വാതന്ത്ര്യങ്ങൾ:',
 );
 
 /** Malay (Bahasa Melayu)
