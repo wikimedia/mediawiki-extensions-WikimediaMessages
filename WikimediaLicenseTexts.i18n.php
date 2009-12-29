@@ -198,9 +198,11 @@ $messages['bs'] = array(
 
 /** Catalan (Català)
  * @author Multichill
+ * @author Solde
  */
 $messages['ca'] = array(
 	'wm-license-cc-wiki-link' => 'w:ca:Creative Commons',
+	'wm-license-cc-free-to-share-header' => 'per a compartir',
 );
 
 /** Czech (Česky)

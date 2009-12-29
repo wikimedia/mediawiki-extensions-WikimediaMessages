@@ -267,7 +267,7 @@ $messages['af'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uitgesonderdes van IP-adresblokkades',
 	'grouppage-rollbacker' => '{{ns:project}}:Terugrollers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
-	'grouppage-trusted' => '{ns:project}}:Vertroude gebruikers',
+	'grouppage-trusted' => '{{ns:project}}:Vertroude gebruikers',
 	'group-steward' => 'Waarde',
 	'group-sysadmin' => 'Stelseladministrateurs',
 	'group-Editinterface' => 'Koppelvlakontwerpers',
@@ -883,29 +883,40 @@ $messages['bg'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bg',
 	'sitesupport' => 'Дарения',
 	'tooltip-n-sitesupport' => 'Подкрепете ни',
+	'group-abusefilter' => 'Редактори на защитни филтри',
 	'group-autopatrolled' => 'Автопатрули',
 	'group-autopatroller' => 'Автопатрульори',
+	'group-bigexport' => 'Големи износители',
 	'group-confirmed' => 'Потвърдени потребители',
 	'group-founder' => 'Основатели',
+	'group-import' => 'Вносители',
 	'group-patroller' => 'Патрульори',
 	'group-trusted' => 'Доверени потребители',
+	'group-abusefilter-member' => 'редактор на защитен филтър',
 	'group-autopatrolled-member' => 'Автопатрульор',
 	'group-autopatroller-member' => 'Автопатрульор',
+	'group-bigexport-member' => 'голям износител',
 	'group-founder-member' => 'Основател',
+	'group-import-member' => 'вносител',
 	'group-patroller-member' => 'Патрульор',
 	'group-trusted-member' => 'доверен потребител',
+	'grouppage-abusefilter' => '{{ns:project}}: Редактори на защитни филтри',
+	'grouppage-bigexport' => '{{ns:project}}: Големи износители',
 	'grouppage-founder' => '{{ns:project}}:Основатели',
+	'grouppage-import' => '{{ns:project}}:Вносители',
 	'grouppage-trusted' => '{{ns:project}}:Доверени потребители',
 	'group-steward' => 'Стюарди',
 	'group-sysadmin' => 'Системни администратори',
 	'group-Editinterface' => 'Редактори на интерфейса',
 	'group-Global_bot' => 'Глобални ботове',
 	'group-Ombudsmen' => 'Омбудсмани',
+	'group-Staff' => 'Персонал',
 	'group-steward-member' => 'Стюард',
 	'group-sysadmin-member' => 'системен администратор',
 	'group-Editinterface-member' => 'редактор на интерфейса',
 	'group-Global_bot-member' => 'глобален бот',
 	'group-Ombudsmen-member' => 'омбудсман',
+	'group-Staff-member' => 'персонал',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-coder' => 'Програмисти',
 	'group-coder-member' => 'програмист',
@@ -1204,18 +1215,22 @@ $messages['ca'] = array(
 	'group-accountcreator-member' => 'Creador de comptes',
 	'group-bigexport-member' => 'Gran exportador',
 	'group-confirmed-member' => 'Usuari confirmat',
+	'group-flood-member' => 'bot',
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
 	'group-ipblock-exempt-member' => "Exempt del bloqueig d'IP",
 	'group-rollbacker-member' => 'Revertidor ràpid',
 	'group-transwiki-member' => 'Importador transwiki',
+	'group-trusted-member' => 'usuari verificat',
 	'grouppage-accountcreator' => '{{ns:project}}:Creadors de comptes',
 	'grouppage-bigexport' => '{{ns:project}}:Grans exportadors',
+	'grouppage-flood' => '{{ns:project}}:Bots',
 	'grouppage-founder' => '{{ns:project}}:Fundadors',
 	'grouppage-import' => '{{ns:project}}:Importadors',
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Exempts del bloqueig d'IP",
 	'grouppage-rollbacker' => '{{ns:project}}:Revertidors ràpids',
 	'grouppage-transwiki' => '{{ns:project}}:Importadors transwiki',
+	'grouppage-trusted' => '{{ns:project}}:Usuaris verificats',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Administradors del sistema',
 	'group-Editinterface' => 'Editors de la interfície',
@@ -4160,6 +4175,13 @@ $messages['kab'] = array(
 	'group-founder' => 'Imeskar imenza',
 	'grouppage-founder' => '{{ns:project}}:Imeskar Imenza',
 	'group-Staff-member' => 'Amaslad (membre) n terbaεt',
+);
+
+/** Kirmanjki (Kırmancki)
+ * @author Mirzali
+ */
+$messages['kiu'] = array(
+	'sitesupport' => 'Beğş',
 );
 
 /** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
@@ -7754,6 +7776,7 @@ $messages['th'] = array(
 	'group-autopatroller-member' => 'ผู้ตรวจการอัติโนมัติ',
 	'group-autoreviewer-member' => 'ผู้ตรวจสอบอัติโนมัติ',
 	'group-confirmed-member' => 'ผู้ใช่ที่ยืนยันแล้ว',
+	'group-flood-member' => 'ผู้ใช้ที่เป็นบอต',
 	'group-founder-member' => 'ผู้ก่อตั้ง',
 	'group-ipblock-exempt-member' => 'หมายเลขไอพีที่ยกเว้นจากการระงับ',
 	'group-patroller-member' => 'ผู้ตรวจการ',
@@ -7779,6 +7802,7 @@ $messages['th'] = array(
 	'group-Staff-member' => 'ทีมงาน',
 	'group-inactive' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ',
 	'group-inactive-member' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ',
+	'grouppage-inactive' => '{{ns:project}}:ผู้ใช้ไม่ประจำ',
 	'wikimedia-copyright' => 'ตัวอักษรนี้อยู่ภายใต้<a href="http://creativecommons.org/licenses/by-sa/3.0/">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>;
 และอาจจะมีข้อเพิ่มเติมอื่นๆ
 กรุณาดู<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">สิทธิ์การใช้งาน</a>สำหรับรายละเอียดเพิ่มเติม',
@@ -7858,6 +7882,10 @@ $messages['tk'] = array(
 	'group-inactive' => 'Işjeň däl ulanyjylar',
 	'group-inactive-member' => 'işjeň däl ulanyjy',
 	'grouppage-inactive' => '{{ns:project}}:Işjeň däl ulanyjylar',
+	'wikimedia-copyright' => 'Tekst <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Ulanyş şertleri</a>ne serediň.',
+	'wikimedia-copyrightwarning' => 'Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] we [http://www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [http://wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň.',
+	'wikimedia-editpage-tos-summary' => 'Eger işiňiziň arkaýyn redaktirlenmegini ýa-da paýlanylmagyny islemeýän bolsaňyz, onda bu ýere tabşyrmaň.  
+Eger muny özüňiz ýazmadyk bolsaňyz, onda ol [http://wikimediafoundation.org/wiki/Terms_of_Use Ulanyş şertlerine] laýyk gelmelidir. Siz haýsydyr bir degişli lisenziýa talabyny berjaý etmäge ylalaşýarsyňyz.',
 );
 
 /** Tagalog (Tagalog)
