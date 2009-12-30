@@ -202,7 +202,9 @@ $messages['bs'] = array(
  */
 $messages['ca'] = array(
 	'wm-license-cc-wiki-link' => 'w:ca:Creative Commons',
+	'wm-license-cc-free' => 'Ets lliure:',
 	'wm-license-cc-free-to-share-header' => 'per a compartir',
+	'wm-license-cc-free-to-remix-text' => 'per adaptar la feina',
 );
 
 /** Czech (Česky)
@@ -363,9 +365,29 @@ $messages['el'] = array(
 
 /** Esperanto (Esperanto)
  * @author Multichill
+ * @author Yekrats
  */
 $messages['eo'] = array(
+	'wikimedialicensetexts-desc' => 'Mesaĝoj por Wikimedia-permesiloj',
 	'wm-license-cc-wiki-link' => 'w:eo:Creative Commons',
+	'wm-license-cc-attribution' => 'Atribuado',
+	'wm-license-cc-by-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/deed.eo Atribuado 1.0 Ĝenerala] permesilo',
+	'wm-license-cc-by-2.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/deed.eo Atribuada 2.0 Ĝenerala] permesilo',
+	'wm-license-cc-by-2.5-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/deed.eo Atribuada 2.5 Ĝenerala] permesilo',
+	'wm-license-cc-by-3.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/deed.eo Atribuada 3.0 Neadaptita] permesilo',
+	'wm-license-cc-by-sa-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/deed.eo Atribuada Samkondiĉa 1.0 Ĝenerala] permesilo',
+	'wm-license-cc-by-sa-2.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/deed.eo Atribuada Samkondiĉa 2.0 Ĝenerala] permesilo',
+	'wm-license-cc-by-sa-2.5-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.5/deed.eo Atribuada Samkondiĉa 2.5 Ĝenerala] permesilo',
+	'wm-license-cc-by-sa-3.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/deed.eo Atribuada Samkondiĉa 1.0 Neadaptita] permesilo',
+	'wm-license-cc-free' => 'Vi rajtas:',
+	'wm-license-cc-free-to-share-header' => 'kunhavigi',
+	'wm-license-cc-free-to-share-text' => 'kopii, distribui, kaj publikigi la verkon',
+	'wm-license-cc-free-to-remix-header' => 'refarigi',
+	'wm-license-cc-free-to-remix-text' => 'adapti la verkon',
+	'wm-license-cc-conditions' => 'Sub la jenaj kondiĉoj:',
+	'wm-license-cc-conditions-attribution-header' => 'atribuado',
+	'wm-license-cc-conditions-share_alike-header' => 'samkondiĉa',
+	'wm-license-cc-conditions-share_alike-text' => 'Se vi modifas, transformas, aŭ kreas devenaĵon bazitan de ĉi tiu verko, vi rajtas distribui la rezultan verkon nur laŭ la sama aŭ simila permisilo al ĉi tiu.',
 );
 
 /** Spanish (Español)
@@ -1084,7 +1106,12 @@ $messages['pt'] = array(
  */
 $messages['pt-br'] = array(
 	'wikimedialicensetexts-desc' => 'Mensagens de licença da Wikimedia',
+	'wm-license-cc-attribution' => 'Atribuição',
+	'wm-license-cc-free' => 'Você é livre:',
+	'wm-license-cc-free-to-share-header' => 'para compartilhar',
+	'wm-license-cc-free-to-share-text' => 'copiar, distribuir e transmitir a obra',
 	'wm-license-cc-conditions' => 'Sob as seguintes condições:',
+	'wm-license-cc-conditions-attribution-header' => 'atribuição',
 );
 
 /** Romanian (Română)
