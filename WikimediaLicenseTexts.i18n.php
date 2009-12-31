@@ -1354,15 +1354,18 @@ $messages['tl'] = array(
 
 /** Turkish (Türkçe)
  * @author Multichill
+ * @author Universal Life
  * @author Vito Genovese
  */
 $messages['tr'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia lisans mesajları',
 	'wm-license-cc-wiki-link' => 'w:tr:Creative Commons',
 	'wm-license-cc-attribution' => 'Atıf',
+	'wm-license-cc-by-1.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.tr Atıf 1.0 Genel] lisansı ile lisanslanmıştır',
 	'wm-license-cc-free' => 'Şu seçeneklerde özgürsünüz:',
 	'wm-license-cc-free-to-share-header' => 'paylaşım',
 	'wm-license-cc-free-to-share-text' => 'eser paylaşımı, dağıtımı ve iletimi',
+	'wm-license-cc-free-to-remix-header' => 'içeriği değiştirip uyarlayabilirsiniz',
 	'wm-license-cc-free-to-remix-text' => 'eser adaptasyonu',
 	'wm-license-cc-conditions' => 'Aşağıdaki koşullar geçerli olacaktır:',
 	'wm-license-cc-conditions-attribution-header' => 'atıf',
