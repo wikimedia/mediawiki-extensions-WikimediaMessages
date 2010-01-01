@@ -1345,6 +1345,13 @@ $messages['th'] = array(
 	'wm-license-cc-wiki-link' => 'w:th:ครีเอทีฟคอมมอนส์',
 );
 
+/** Turkmen (Türkmençe)
+ * @author Hanberke
+ */
+$messages['tk'] = array(
+	'wm-license-cc-attribution' => 'Aýratynlyk',
+);
+
 /** Tagalog (Tagalog)
  * @author Multichill
  */
@@ -1362,6 +1369,13 @@ $messages['tr'] = array(
 	'wm-license-cc-wiki-link' => 'w:tr:Creative Commons',
 	'wm-license-cc-attribution' => 'Atıf',
 	'wm-license-cc-by-1.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.tr Atıf 1.0 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-2.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.tr Atıf 2.0 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-2.5-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.tr Atıf 2.5 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-3.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.tr Atıf 3.0 Uluslararası] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-sa-1.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.tr Atıf-Benzer Paylaşım 1.0 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-sa-2.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.tr Atıf-Benzer Paylaşım 2.0 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-sa-2.5-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.tr Atıf-Benzer Paylaşım 2.5 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-sa-3.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.tr Atıf-Benzer Paylaşım 3.0 Uluslararası] lisansı ile lisanslanmıştır',
 	'wm-license-cc-free' => 'Şu seçeneklerde özgürsünüz:',
 	'wm-license-cc-free-to-share-header' => 'paylaşım',
 	'wm-license-cc-free-to-share-text' => 'eser paylaşımı, dağıtımı ve iletimi',
