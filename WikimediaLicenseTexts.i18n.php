@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Internationalisation file for extension Wikimedia Messages - message group Wikimedia License Texts
  *
