@@ -2108,7 +2108,7 @@ $messages['es'] = array(
 	'group-Global_rollback' => 'Reversores globales',
 	'group-Ombudsmen' => 'Defensores de la comunidad',
 	'group-Staff' => 'Staff',
-	'group-steward-member' => 'Steward',
+	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Editinterface-member' => 'editor de interfaz',
 	'group-Global_bot-member' => 'bot global',
@@ -8546,7 +8546,7 @@ $messages['vro'] = array(
 	'sitesupport' => 'Tugõminõ',
 	'tooltip-n-sitesupport' => 'Tukõq mi tüüd',
 	'wikimedia-copyright' => 'Teksti või pruukiq <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsendsi tingimüisi perrä;
-mõnikõrd või päält taa või ollaq ka muid tingimüisi.
+mõnikõrd või päält taa ollaq ka muid tingimüisi.
 Taa kotsilõ kaeq täpsämbähe <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia pruukmistingimüisist</a>.',
 	'wikimedia-copyrightwarning' => 'Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [http://www.gnu.org/copyleft/fdl.html GFDL-litsendsi] perrä.
 Olõt nõun, et su autorisolõmist näüdätäs vähämbält võrgoaadrõsi vai lingiga seo lehe pääle, midä sa parhilla toimõndat.
