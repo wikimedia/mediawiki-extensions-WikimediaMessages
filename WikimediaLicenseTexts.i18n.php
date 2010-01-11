@@ -192,6 +192,14 @@ $messages['arz'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'مشاركه زي',
 );
 
+/** Assamese (অসমীয়া)
+ * @author Chaipau
+ */
+$messages['as'] = array(
+	'wikimedialicensetexts-desc' => 'ৱিকিমিডিয়া লাইচেঞ্চ বাৰ্তা',
+	'wm-license-cc-free' => 'আপুনি এই স্বাধীনভাবে কৰিব পাৰে:',
+);
+
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
  * @author EugeneZelenko
  * @author Jim-by
@@ -255,6 +263,9 @@ $messages['be-tarask'] = array(
 	'wm-license-cc-by-sa-2.0-nl-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.0 згодна заканадаўства Нідэрляндаў].',
 	'wm-license-cc-by-sa-2.0-tw-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.0 згодна заканадаўства Тайваня].',
 	'wm-license-cc-by-sa-2.0-uk-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.0 згодна заканадаўства Вялікабрытаніі (Ангельшчыны і Валіі)].',
+	'wm-license-cc-by-sa-2.1-au-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/deed.en з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.1 згодна заканадаўства Аўстраліі].',
+	'wm-license-cc-by-sa-2.1-es-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.en з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.1 згодна заканадаўства Гішпаніі].',
+	'wm-license-cc-by-sa-2.1-jp-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.1 згодна заканадаўства Японіі].',
 	'wm-license-cc-by-sa-2.5-text' => 'Гэты файл ліцэнзаваны згодна ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic]',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.5 згодна заканадаўства Аргентыны].',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 2.5 згодна заканадаўства Аўстраліі].',
@@ -289,6 +300,7 @@ $messages['be-tarask'] = array(
 	'wm-license-cc-by-sa-3.0-rs-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/rs/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 3.0 згодна заканадаўства Сэрбіі].',
 	'wm-license-cc-by-sa-3.0-tw-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 3.0 згодна заканадаўства Тайваня].',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/ з пазначэньнем аўтарства, на гэткіх жа ўмовах вэрсіі 3.0 згодна заканадаўства Злучаных Штатаў Амэрыкі].',
+	'wm-license-cc-sa-1.0-text' => 'Гэты файл распаўсюджваецца на ўмовах ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/deed.en на гэткіх жа ўмовах вэрсіі 1.0].',
 	'wm-license-cc-free' => 'Вы можаце свабодна:',
 	'wm-license-cc-free-to-share-header' => 'дзяліцца',
 	'wm-license-cc-free-to-share-text' => 'капіяваць, распаўсюджваць і перадаваць гэты твор',
@@ -436,7 +448,11 @@ $messages['br'] = array(
 	'wm-license-cc-wiki-link' => 'w:br:Creative Commons',
 	'wm-license-cc-attribution' => 'Deroadenn',
 	'wm-license-cc-by-1.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr Attribution 1.0 Generic]',
+	'wm-license-cc-by-1.0-nl-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.en Tadelezh 1.0 Izelvroioù].',
 	'wm-license-cc-by-2.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic]',
+	'wm-license-cc-by-2.0-at-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.en Tadelezh 2.0 Aostria]',
+	'wm-license-cc-by-2.0-be-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.en Tadelezh 2.0 Belgia]',
+	'wm-license-cc-by-2.0-br-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.en Tadelezh 2.0 Brazil].',
 	'wm-license-cc-by-2.5-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic]',
 	'wm-license-cc-by-3.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported]',
 	'wm-license-cc-by-sa-1.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic]',
@@ -473,6 +489,9 @@ $messages['bs'] = array(
 	'wm-license-cc-by-2.0-it-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/2.0/it/ Attribution 2.0 Italija].',
 	'wm-license-cc-by-2.0-kr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/2.0/kr/ Attribution 2.0 Koreja].',
 	'wm-license-cc-by-2.0-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/2.0/nl/ Attribution 2.0 Holandija].',
+	'wm-license-cc-by-2.5-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 generičkom] licencom.',
+	'wm-license-cc-by-2.5-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/2.5/au/deed.en Attribution 2.5 Australija].',
+	'wm-license-cc-by-2.5-bg-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/2.5/bg/deed.en Attribution 2.5 Bugarska].',
 	'wm-license-cc-free' => 'Slobodni ste:',
 	'wm-license-cc-free-to-share-text' => 'da kopirate, distributirate i prenosite djelo',
 	'wm-license-cc-conditions' => 'Pod slijedećim uslovima:',
@@ -1788,6 +1807,13 @@ $messages['he'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'שיתוף דומה',
 );
 
+/** Fiji Hindi (Latin) (Fiji Hindi (Latin))
+ * @author Thakurji
+ */
+$messages['hif-latn'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia licence ke baare me sandes',
+);
+
 /** Croatian (Hrvatski)
  * @author Multichill
  * @author Suradnik13
@@ -2559,6 +2585,7 @@ $messages['mk'] = array(
 $messages['ml'] = array(
 	'wikimedialicensetexts-desc' => 'വിക്കിമീഡിയ അനുമതി സന്ദേശങ്ങൾ',
 	'wm-license-cc-wiki-link' => 'w:ml:ക്രിയേറ്റീവ് കോമണ്‍സ്',
+	'wm-license-cc-attribution' => 'കടപ്പാട്',
 	'wm-license-cc-by-1.0-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/1.0/ ആട്രിബ്യൂഷൻ 1.0 സാമാന്യ] അനുമതി പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
 	'wm-license-cc-by-1.0-nl-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/1.0/nl/ ആട്രിബ്യൂഷൻ 1.0 നെതർലൻഡ്സ്] അനുമതി പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
 	'wm-license-cc-by-2.0-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/2.0/ ആട്രിബ്യൂഷൻ 2.0 സാമാന്യ] അനുമതി പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
@@ -2638,14 +2665,28 @@ $messages['ml'] = array(
 	'wm-license-cc-by-sa-2.5-se-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/se/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 സ്വീഡൻ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
 	'wm-license-cc-by-sa-2.5-si-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/si/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 സ്ലൊവേന്യ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
 	'wm-license-cc-by-sa-2.5-tw-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/tw/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 തായ്‌‌വാൻ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 അൺപോർട്ടട്] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-at-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/at/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 ഓസ്ട്രിയ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-de-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/de/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 ജർമ്മനി] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-es-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/es/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 സ്പെയിൻ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-gr-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/gr/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 ഗ്രീസ്] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-nl-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/nl/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 നെതർലൻഡ്സ്] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-no-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/no/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 നോർവേ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-nz-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/nz/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 ന്യൂസീലന്റ്] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-ro-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/ro/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 റൊമേനിയ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-rs-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/rs/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 സെർബിയ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-tw-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/tw/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 തായ്‌‌വാൻ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-by-sa-3.0-us-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/us/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 അമേരിക്കൻ ഐക്യനാടുകൾ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
+	'wm-license-cc-sa-1.0-text' => 'ഈ പ്രമാണം [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/sa/1.0/deed.en ഷെയർ എലൈക് 1.0 സാമാന്യ] അനുവാദപത്ര പ്രകാരം അനുമതി നൽകപ്പെട്ടതാണ്.',
 	'wm-license-cc-free' => 'താങ്കൾക്കുള്ള സ്വാതന്ത്ര്യങ്ങൾ:',
-	'wm-license-cc-free-to-share-header' => 'പങ്ക് വെയ്ക്കാൻ',
+	'wm-license-cc-free-to-share-header' => 'പങ്ക് വെയ്ക്കൽ',
 	'wm-license-cc-free-to-share-text' => 'കൃതി പകർത്താനും, വിതരണം ചെയ്യാനും, പ്രസരിപ്പിക്കാനും',
-	'wm-license-cc-free-to-remix-header' => 'പുനഃമിശ്രണം ചെയ്യാൻ',
+	'wm-license-cc-free-to-remix-header' => 'പുനഃമിശ്രണം ചെയ്യൽ',
 	'wm-license-cc-free-to-remix-text' => 'കൃതി അനുയുക്തമാക്കാൻ',
-	'wm-license-cc-conditions' => 'താഴെ പറയുന്ന ഉപാധികളാൽ:',
-	'wm-license-cc-conditions-attribution-header' => 'ഗുണസേവനം',
-	'wm-license-cc-conditions-share_alike-header' => 'ഒരുപോലെ പങ്ക് വെയ്ക്കാൻ',
+	'wm-license-cc-conditions' => 'താഴെ പറയുന്ന ഉപാധികൾ പാലിക്കുക:',
+	'wm-license-cc-conditions-attribution-header' => 'കടപ്പാട്',
+	'wm-license-cc-conditions-attribution-text' => 'രചയിതാവോ അനുമതിയുള്ളയാളോ വ്യക്തമാക്കിയിട്ടുള്ള വിധത്തിൽ കൃതിയ്ക്കുള്ള കടപ്പാട് താങ്കൾ നൽകിയിരിക്കണം (പക്ഷേ അത് അവർ താങ്കളേയോ താങ്കളുടെ ഉപയോഗത്തേയോ അടിച്ചേൽപ്പിച്ചതു പോലെയാവരുത്).',
+	'wm-license-cc-conditions-share_alike-header' => 'ഇതു പോലെ പങ്ക് വെയ്ക്കുക',
 	'wm-license-cc-conditions-share_alike-text' => 'ഈ കൃതിയിൽ മാറ്റം വരുത്തിയോ, രൂപാന്തരണം വരുത്തിയോ, ഇതടിസ്ഥാനമാക്കിയോ ഉണ്ടാക്കുന്ന കൃതി ഈ അനുമതിയിലോ ഇതുപോലുള്ള അനുമതിയിലോ മാത്രമേ വിതരണം ചെയ്യാവൂ.',
 );
 
@@ -3777,6 +3818,16 @@ $messages['tk'] = array(
 	'wm-license-cc-by-sa-3.0-tw-text' => 'Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.en Attribution-Share Alike 3.0 Taiwan] lisenziýasyna laýyklykda lisenzirlenendir.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.en Attribution-Share Alike 3.0 ABŞ] lisenziýasyna laýyklykda lisenzirlenendir.',
 	'wm-license-cc-sa-1.0-text' => 'Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0 deed.en Share Alike 1.0 Generic] lisenziýasyna laýyklykda lisenzirlenendir.',
+	'wm-license-cc-free' => 'Siz erkin:',
+	'wm-license-cc-free-to-share-header' => 'paýlaşyň',
+	'wm-license-cc-free-to-share-text' => 'iş göçüriň, paýlaň we gowşuryň',
+	'wm-license-cc-free-to-remix-header' => 'goşuşdyryp dörediň',
+	'wm-license-cc-free-to-remix-text' => 'iş adaptirläň',
+	'wm-license-cc-conditions' => 'Aşakdaky şertlere laýyklykda:',
+	'wm-license-cc-conditions-attribution-header' => 'salgylanma',
+	'wm-license-cc-conditions-attribution-text' => 'Esere awtor ýa-da lisenziýa eýesi tarapyndan görkezilen (ýöne sizi ýa-da eseri ulanmaklygyňyzy goldaýandyklaryny öňe sürmeýän) görnüşde salgylanmalydyr.',
+	'wm-license-cc-conditions-share_alike-header' => 'meňzeş paýlaşma',
+	'wm-license-cc-conditions-share_alike-text' => 'Bu eseri üýtgeden, öwüren ýa-da bu esere esaslanýan başga bir eser döreden ýagdaýyňyzda, emele gelen eser üçin diňe  şu ýa-da şuňa meňzeş lisenziýany ulanmak arkaly paýlap bilersiňiz.',
 );
 
 /** Tagalog (Tagalog)
