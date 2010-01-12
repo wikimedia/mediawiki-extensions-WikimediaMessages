@@ -2483,6 +2483,7 @@ $messages['fo'] = array(
  * @author Crochet.david
  * @author Grondin
  * @author Guillom
+ * @author Hercule
  * @author IAlex
  * @author Jean-Frédéric
  * @author Kropotkine 113
@@ -2511,7 +2512,7 @@ $messages['fr'] = array(
 	'group-flood' => 'Dresseurs de bot',
 	'group-founder' => 'Fondateurs',
 	'group-import' => 'Importateurs',
-	'group-ipblock-exempt' => 'Exemptés de blocage d’IP',
+	'group-ipblock-exempt' => "Exemptés de blocage d'IP",
 	'group-patroller' => 'Patrouilleurs',
 	'group-rollbacker' => 'Révocateurs',
 	'group-transwiki' => 'Importateurs transwiki',
@@ -2526,7 +2527,7 @@ $messages['fr'] = array(
 	'group-flood-member' => 'dresseurs de bot',
 	'group-founder-member' => 'Fondateur',
 	'group-import-member' => 'Importateur',
-	'group-ipblock-exempt-member' => 'Exempté de blocage d’IP',
+	'group-ipblock-exempt-member' => "Exempté de blocage d'IP",
 	'group-patroller-member' => 'Patrouilleur',
 	'group-rollbacker-member' => 'Révocateur',
 	'group-transwiki-member' => 'Importateur transwiki',
