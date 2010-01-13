@@ -8135,6 +8135,7 @@ $messages['tt-cyrl'] = array(
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
 	'group-inactive' => 'Актив булмаган катнашучылар',
+	'wikimedia-copyright' => 'Текст <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясе астында бирелә, аерым очракларда өстәмә шартлар эшләргә мөмкин. Өстәмә мәгълүмат өчен <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Куллану шартларын</a> карагыз.',
 	'wikimedia-copyrightwarning' => "Үзгәртүләрне саклаган вакытта, сез аларның [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] һәм [http://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча публикацияләвенә риза буласыз. Бу битне кулланганда, сезгә иң киме гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз. Тулырак мәгълүмат өчен [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] битен карагыз.",
 );
 
