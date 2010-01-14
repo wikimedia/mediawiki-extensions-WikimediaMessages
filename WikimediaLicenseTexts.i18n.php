@@ -520,6 +520,24 @@ $messages['bs'] = array(
 	'wm-license-cc-by-sa-2.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.en Attribution-Share Alike 2.0 generičkom] licencom.',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/at/deed.en Attribution-Share Alike 2.0 Austrija].',
 	'wm-license-cc-by-sa-2.0-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/au/deed.en Attribution-Share Alike 2.0 Australija].',
+	'wm-license-cc-by-sa-2.0-be-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/be/deed.en Attribution-Share Alike 2.0 Belgija].',
+	'wm-license-cc-by-sa-2.0-br-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/br/deed.en Attribution-Share Alike 2.0 Brazil].',
+	'wm-license-cc-by-sa-2.0-ca-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/ca/deed.en Attribution-Share Alike 2.0 Kanada].',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/cl/deed.en Attribution-Share Alike 2.0 Čile].',
+	'wm-license-cc-by-sa-2.0-de-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/de/deed.en Attribution-Share Alike 2.0 Njemačka].',
+	'wm-license-cc-by-sa-2.0-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/es/deed.en Attribution-Share Alike 2.0 Španija].',
+	'wm-license-cc-by-sa-2.0-fr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.en Attribution-Share Alike 2.0 Francuska].',
+	'wm-license-cc-by-sa-2.0-it-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/it/deed.en Attribution-Share Alike 2.0 Italija].',
+	'wm-license-cc-by-sa-2.0-kr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.en Attribution-Share Alike 2.0 Koreja].',
+	'wm-license-cc-by-sa-2.0-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.en Attribution-Share Alike 2.0 Holandija].',
+	'wm-license-cc-by-sa-2.0-tw-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.en Attribution-Share Alike 2.0 Tajvan].',
+	'wm-license-cc-by-sa-2.0-uk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.en Attribution-Share Alike 2.0 UK: Engleska i Vels].',
+	'wm-license-cc-by-sa-2.1-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.1/au/deed.en Attribution-Share Alike 2.1 Australija].',
+	'wm-license-cc-by-sa-2.1-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.1/es/deed.en Attribution-Share Alike 2.1 Španija].',
+	'wm-license-cc-by-sa-2.1-jp-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en Attribution-Share Alike 2.1 Japan].',
+	'wm-license-cc-by-sa-2.5-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 generičkom] licencom.',
+	'wm-license-cc-by-sa-2.5-ar-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.en Attribution-Share Alike 2.5 Argentina].',
+	'wm-license-cc-by-sa-2.5-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/au/deed.en Attribution-Share Alike 2.5 Australija].',
 	'wm-license-cc-free' => 'Slobodni ste:',
 	'wm-license-cc-free-to-share-header' => 'da dijelite',
 	'wm-license-cc-free-to-share-text' => 'da kopirate, distributirate i prenosite djelo',
@@ -4085,6 +4103,7 @@ $messages['tr'] = array(
 );
 
 /** Ukrainian (Українська)
+ * @author Ahonc
  * @author Aleksandrit
  * @author Multichill
  * @author Prima klasy4na
@@ -4106,7 +4125,7 @@ $messages['uk'] = array(
 	'wm-license-cc-free-to-share-text' => 'копіювати, поширювати і передавати твір',
 	'wm-license-cc-free-to-remix-header' => 'створювати похідні',
 	'wm-license-cc-free-to-remix-text' => 'переробляти цей твір',
-	'wm-license-cc-conditions' => 'При дотриманні наступних умов:',
+	'wm-license-cc-conditions' => 'При дотриманні таких умов:',
 	'wm-license-cc-conditions-attribution-header' => 'зазначення авторства',
 	'wm-license-cc-conditions-attribution-text' => 'Ви повинні вказувати авторство (джерело) цього твору у вигляді, встановленому автором або ліцензіаром (але ні в якому разі не таким чином, що наводить на думку, що автор підтримує вас чи ваше використання цього твору).',
 	'wm-license-cc-conditions-share_alike-header' => 'поширення на тих же умовах',
