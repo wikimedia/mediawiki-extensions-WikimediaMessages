@@ -4264,6 +4264,15 @@ $messages['kk-latn'] = array(
 	'sitesupport' => 'Demewşilik',
 );
 
+/** Kalaallisut (Kalaallisut)
+ * @author Qaqqalik
+ */
+$messages['kl'] = array(
+	'wikimedia-copyright' => 'Allatat ilaatinneqarput <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-ip ataani;
+piumasaqaatit atuutinneqarsinnaapput.
+Takuuk <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Atugassatut piumasaqaatit</a> paasissutissaanerusut.',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Kiensvay
  * @author Lovekhmer

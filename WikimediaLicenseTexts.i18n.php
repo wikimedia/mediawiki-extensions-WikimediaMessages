@@ -538,6 +538,14 @@ $messages['bs'] = array(
 	'wm-license-cc-by-sa-2.5-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 generičkom] licencom.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.en Attribution-Share Alike 2.5 Argentina].',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/au/deed.en Attribution-Share Alike 2.5 Australija].',
+	'wm-license-cc-by-sa-2.5-bg-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.en Attribution-Share Alike 2.5 Bugarska].',
+	'wm-license-cc-by-sa-2.5-br-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/br/deed.en Attribution-Share Alike 2.5 Brazil].',
+	'wm-license-cc-by-sa-2.5-ca-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ca/deed.en Attribution-Share Alike 2.5 Kanada].',
+	'wm-license-cc-by-sa-2.5-ch-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ch/deed.en Attribution-Share Alike 2.5 Švicarska].',
+	'wm-license-cc-by-sa-2.5-cn-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/cn/deed.en Attribution-Share Alike 2.5 Narodna Republika Kina].',
+	'wm-license-cc-by-sa-2.5-dk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/dk/deed.en Attribution-Share Alike 2.5 Danska].',
+	'wm-license-cc-by-sa-2.5-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/es/deed.en Attribution-Share Alike 2.5 Španija].',
+	'wm-license-cc-by-sa-2.5-hu-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/hu/deed.en Attribution-Share Alike 2.5 Mađarska].',
 	'wm-license-cc-free' => 'Slobodni ste:',
 	'wm-license-cc-free-to-share-header' => 'da dijelite',
 	'wm-license-cc-free-to-share-text' => 'da kopirate, distributirate i prenosite djelo',
@@ -545,6 +553,7 @@ $messages['bs'] = array(
 	'wm-license-cc-free-to-remix-text' => 'da prilagodite djelo',
 	'wm-license-cc-conditions' => 'Pod slijedećim uslovima:',
 	'wm-license-cc-conditions-attribution-header' => 'pripisivanje',
+	'wm-license-cc-conditions-attribution-text' => 'Morate nasloviti rad na način kako je to odredio autor ili osoba koja posjeduje licencu (ali ne na način koji sugeriše da su oni vama potvrdili ili odobrili korištenje rada).',
 	'wm-license-cc-conditions-share_alike-text' => 'Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod istom ili sličnom licencom poput ove.',
 );
 
@@ -1248,8 +1257,8 @@ $messages['eo'] = array(
 /** Spanish (Español)
  * @author Crazymadlover
  * @author Multichill
- * @author Translationista
  * @author Platonides
+ * @author Translationista
  */
 $messages['es'] = array(
 	'wikimedialicensetexts-desc' => 'Mensajes de licencia Wikimedia',
@@ -1555,7 +1564,7 @@ $messages['fr'] = array(
 	'wm-license-cc-by-sa-1.0-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.fr paternité – partage des conditions initiales à l’identique 1.0 générique]',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.fr Paternité – Partage des Conditions Initiales à l’Identique 1.0 Finlande].',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.fr Paternité – Partage des Conditions Initiales à l’Identique 1.0 Pays-Bas].',
-	'wm-license-cc-by-sa-2.0-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.fr paternité-partage des conditions initiales à l’identique 2.0 générique]',
+	'wm-license-cc-by-sa-2.0-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.fr Paternité – partage des conditions initiales à l’identique 2.0 générique]',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.fr Paternité – Partage des Conditions Initiales à l’Identique 2.0 Autriche].',
 	'wm-license-cc-by-sa-2.0-au-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.fr Paternité – Partage des Conditions Initiales à l’Identique 2.0 Australie].',
 	'wm-license-cc-by-sa-2.0-be-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/be/deed.fr Paternité – Partage des Conditions Initiales à l’Identique 2.0 Belgique].',
@@ -2496,6 +2505,7 @@ $messages['ksh'] = array(
  * @author Les Meloures
  * @author Multichill
  * @author Robby
+ * @author Zinneke
  */
 $messages['lb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia Lizenz Messagen',
@@ -2602,7 +2612,7 @@ $messages['lb'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'Attributioun',
 	'wm-license-cc-conditions-attribution-text' => 'Dir musst den Numm vum Auteur respektiv vum Besëtzer vun de Rechter esou ugi wéi deen dat wënscht (awer net esou datt et ausgesäit wéi wann deen Iech oder Äre Gebrauch vu sengem Wierk ënnerstëtze géif).',
 	'wm-license-cc-conditions-share_alike-header' => 'ënner deselwechte Bedingunge weiderginn',
-	'wm-license-cc-conditions-share_alike-text' => 'Wann dir dëst Wierk ännert, transforméiert oder dorop opbaut, kënnt dir dat Wierk, dat doraus entsteet ënner derselwechter Lizenz, oder ënner enger déi hir gläicht, verdeelen.',
+	'wm-license-cc-conditions-share_alike-text' => 'Wann dir dëst Wierk ännert, transforméiert oder dorop opbaut, dierft dir dat Wierk, dat doraus entsteet, nëmmen ënner derselwechter Lizenz wéi déi hei, oder ënner enger déi hir gläicht, verbreeden.',
 );
 
 /** Lithuanian (Lietuvių)
@@ -3300,8 +3310,28 @@ $messages['pms'] = array(
 	'wm-license-cc-by-2.0-de-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.en Atribussion 2.0 Almagna].",
 	'wm-license-cc-by-2.0-es-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.en Atribussion 2.0 Spagna].",
 	'wm-license-cc-by-2.0-fr-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.en Atribussion 2.0 Fransa].",
+	'wm-license-cc-by-2.0-it-text' => "Cost archivi a l'é licensià sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.en Atribussion 2.0 Italia].",
+	'wm-license-cc-by-2.0-kr-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/deed.en Atribussion 2.0 Corea].",
+	'wm-license-cc-by-2.0-nl-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.en Atribussion 2.0 Pais Bass].",
 	'wm-license-cc-by-2.5-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Atribussion 2.5 genérica]",
+	'wm-license-cc-by-2.5-au-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.en Atribussion 2.5 Australia].",
+	'wm-license-cc-by-2.5-bg-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.en Atribussion 2.5 Bulgarìa].",
+	'wm-license-cc-by-2.5-br-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.en Atribussion 2.5 Brasil].",
+	'wm-license-cc-by-2.5-cn-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.en Atribussion 2.5 Cin-a].",
+	'wm-license-cc-by-2.5-dk-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.en Atribussion 2.5 Danimarca].",
+	'wm-license-cc-by-2.5-es-text' => "Cost archivi-sì a l'é licensià sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.en Atribussion 2.5 Spagna].",
+	'wm-license-cc-by-2.5-in-text' => "Cost archvi-sì a l'é smonù sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.en Atribussion 2.5 India].",
+	'wm-license-cc-by-2.5-it-text' => "Cost archivi-sì a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.en Atribussion 2.5 Italia].",
+	'wm-license-cc-by-2.5-my-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/deed.en Atribussion 2.5 Malaysia].",
+	'wm-license-cc-by-2.5-nl-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/deed.en Atribussion 2.5 Pais bass].",
+	'wm-license-cc-by-2.5-pe-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/deed.en Atribussion 2.5 Perù].",
+	'wm-license-cc-by-2.5-pl-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/deed.en Atribussion 2.5 Polònia].",
+	'wm-license-cc-by-2.5-se-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.en Atribussion 2.5 Svessia].",
 	'wm-license-cc-by-3.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Atribussion 3.0 unported]",
+	'wm-license-cc-by-3.0-at-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.en Atribussion 3.0 Àustria].",
+	'wm-license-cc-by-3.0-de-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.en Atribussion 3.0 Almagna].",
+	'wm-license-cc-by-3.0-gr-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/deed.en Atribution 3.0 Grecia].",
+	'wm-license-cc-by-3.0-nl-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/deed.en Atribussion 3.0 Pais Bass].",
 	'wm-license-cc-by-sa-1.0-text' => "Cost'archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Atribussion-partagi ugual 1.0 genérich]",
 	'wm-license-cc-by-sa-2.0-text' => "Cost archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Atribussion-Partagi ugual 2.0 genérich]",
 	'wm-license-cc-by-sa-2.5-text' => "Cost archivi a l'é sota licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Atribution-Partagi ugual 2.5 genérich]",
@@ -3650,6 +3680,18 @@ $messages['ru'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Если вы изменяете, преобразуете или создаёте иную производную работу на основании этого произведения, вы можете распространять полученное в результате произведение только на условиях такой же или совместимой лицензии.',
 );
 
+/** Yakut (Саха тыла)
+ * @author HalanTul
+ */
+$messages['sah'] = array(
+	'wikimedialicensetexts-desc' => 'Викимедиа лицензиятын биллэриилэрэ',
+	'wm-license-cc-wiki-link' => 'w:sah:Creative Commons',
+	'wm-license-cc-attribution' => 'Ааптарын ыйыылара',
+	'wm-license-cc-by-1.0-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-1.0-nl-text' => 'бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.0-be-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium] лицензия усулуобуйатынан туһаныллар.',
+);
+
 /** Sinhala (සිංහල)
  * @author Calcey
  */
@@ -3723,7 +3765,23 @@ $messages['sk'] = array(
 	'wm-license-cc-by-3.0-rs-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.en Attribution 3.0 Serbia].',
 	'wm-license-cc-by-3.0-us-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.en Attribution 3.0 United States].',
 	'wm-license-cc-by-sa-1.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic]',
+	'wm-license-cc-by-sa-1.0-fi-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.en Attribution-Share Alike 1.0 Finland].',
+	'wm-license-cc-by-sa-1.0-nl-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.en Attribution-Share Alike 1.0 Netherlands].',
 	'wm-license-cc-by-sa-2.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.0-at-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.en Attribution-Share Alike 2.0 Austria].',
+	'wm-license-cc-by-sa-2.0-au-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.en Attribution-Share Alike 2.0 Australia].',
+	'wm-license-cc-by-sa-2.0-be-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/be/deed.en Attribution-Share Alike 2.0 Belgium].',
+	'wm-license-cc-by-sa-2.0-br-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/br/deed.en Attribution-Share Alike 2.0 Brazil].',
+	'wm-license-cc-by-sa-2.0-ca-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ca/deed.en Attribution-Share Alike 2.0 Canada].',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/cl/deed.en Attribution-Share Alike 2.0 Chile].',
+	'wm-license-cc-by-sa-2.0-de-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.en Attribution-Share Alike 2.0 Germany].',
+	'wm-license-cc-by-sa-2.0-es-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/es/deed.en Attribution-Share Alike 2.0 Spain].',
+	'wm-license-cc-by-sa-2.0-fr-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.en Attribution-Share Alike 2.0 France].',
+	'wm-license-cc-by-sa-2.0-it-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/it/deed.en Attribution-Share Alike 2.0 Italy].',
+	'wm-license-cc-by-sa-2.0-kr-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.en Attribution-Share Alike 2.0 Korea].',
+	'wm-license-cc-by-sa-2.0-nl-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.en Attribution-Share Alike 2.0 Netherlands].',
+	'wm-license-cc-by-sa-2.0-tw-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.en Attribution-Share Alike 2.0 Taiwan].',
+	'wm-license-cc-by-sa-2.0-uk-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.en Attribution-Share Alike 2.0 UK: England & Wales].',
 	'wm-license-cc-by-sa-2.5-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic]',
 	'wm-license-cc-by-sa-3.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported]',
 	'wm-license-cc-free' => 'Môžete slobodne:',
