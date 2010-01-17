@@ -3570,7 +3570,7 @@ $messages['hu'] = array(
 	'group-patroller' => 'járőrök',
 	'group-rollbacker' => 'visszaállítók',
 	'group-transwiki' => 'wikiközi importálók',
-	'group-trusted' => 'megbízható felhasználók',
+	'group-trusted' => 'megerősített szerkesztők',
 	'group-abusefilter-member' => 'vandálszűrő-szerkesztő',
 	'group-accountcreator-member' => 'fióklétrehozó',
 	'group-autopatrolled-member' => 'automatikus járőr',
@@ -3582,7 +3582,7 @@ $messages['hu'] = array(
 	'group-founder-member' => 'alapító',
 	'group-import-member' => 'importáló',
 	'group-ipblock-exempt-member' => 'IP-blokkok alól mentesülő',
-	'group-patroller-member' => 'FV-járőr',
+	'group-patroller-member' => 'járőr',
 	'group-rollbacker-member' => 'visszaállító',
 	'group-transwiki-member' => 'wikiközi importáló',
 	'group-trusted-member' => 'megbízható felhasználó',
@@ -4331,8 +4331,8 @@ $messages['km'] = array(
 	'group-inactive' => 'ក្រុម​អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
 	'group-inactive-member' => 'អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
 	'grouppage-inactive' => '{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម',
-	'wikimedia-copyright' => 'អត្ថបទ​នេះ​អាចរកបាន ក្រោម​[http://creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ណ Creative Commons Attribution/Share-Alike]។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
-សូមមើល [http://wikimediafoundation.org/wiki/Terms_of_Use/ លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់] សម្រាប់​ព័ត៌មានលម្អិត​។',
+	'wikimedia-copyright' => 'អត្ថបទ​នេះ​ត្រូវបានផ្ដល់ក្រោមអាជ្ញាបណ្ឌ<a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>​។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
+សូមមើល <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់</a> សម្រាប់​ព័ត៌មានលម្អិត​។',
 	'wikimedia-copyrightwarning' => 'តាមរយៈ​ការរក្សាទុកនេះ អ្នកយល់ព្រមដោយឥតកែប្រែក្នុងការ​ដាក់បញ្ចូល​ការរួមចំណែក​របស់អ្នក ឲ្យស្ថិតក្រោម​​[http://creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ណ​ 3.0 នៃ Creative Commons Attribution/Share-Alike] និង[http://www.gnu.org/copyleft/fdl.html អាជ្ញាបណ្ណ​ GFDL].
 អ្នកយល់ព្រមក្នុងការដែលត្រូវបានទទួលស្គាល់ដោយអ្នកប្រើប្រាស់ដទៃទៀត យ៉ាងហោចណាស់តាមរយៈតំណបណ្ដាញ ឬ URL ទៅកាន់ទំព័រដែលអ្នកបានចូលរួមចំណែក​។
 សូមមើល [http://wikimediafoundation.org/wiki/Terms_of_Use/ លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់] សម្រាប់​ព័ត៌មានលម្អិត​។',
@@ -7480,6 +7480,7 @@ $messages['su'] = array(
  * @author Per
  * @author Rotsee
  * @author Sannab
+ * @author Sertion
  */
 $messages['sv'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-specifika meddelanden',
@@ -7556,7 +7557,7 @@ $messages['sv'] = array(
 Du går med på att bli krediterat av återanvändare med minst en hyperlänk eller URL till sidan du bidrar till.
 Se [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] för mer upplysningar.',
 	'wikimedia-editpage-tos-summary' => 'Om du inte vill att det du skriver ska bli redigerat och återanvänt ska du inte spara det här.
-Om du inte själv skrev det här, så måste det vara tillgängligt under villkor som är i överensstämmelse med [http://wikimediafoundation.org/wiki/Terms_of_Use Användarvillkoren], och du bekräftar att uppfylla alla relevanta licenskrav.',
+Om du inte själv skrev texten, så måste det vara tillgängligt under villkor som är i överensstämmelse med [http://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren], du bekräftar att du uppfyller alla relevanta licenskrav.',
 );
 
 /** Swahili (Kiswahili)
