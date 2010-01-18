@@ -8330,7 +8330,7 @@ $messages['uz'] = array(
  */
 $messages['vec'] = array(
 	'wikimediamessages-desc' => 'Messagi specifici de Wikimedia',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/vec',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donasion',
 	'sitesupport' => 'Donassion',
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'group-abusefilter' => 'Gestori filtri anti abusi',
