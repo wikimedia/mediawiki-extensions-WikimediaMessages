@@ -384,6 +384,7 @@ $messages['af'] = array(
 	'wm-license-cc-wiki-link' => 'w:af:Creative Commons',
 	'wm-license-cc-attribution' => 'Naamsvermelding',
 	'wm-license-cc-free' => 'U is vry:',
+	'wm-license-information-table-summary' => "'n Gestandaardiseerde tabel wat volledige inligting oor die lêer bevat, inklusief die beskrywing van wat dit wys, hoe dit gemaak is, kopiereg status en die bron.",
 	'wm-license-information-description' => 'Beskrywing',
 	'wm-license-information-source' => 'Bron',
 	'wm-license-information-date' => 'Datum',
@@ -394,6 +395,7 @@ $messages['af'] = array(
 );
 
 /** Arabic (العربية)
+ * @author Diaa abdelmoneim
  * @author Meno25
  * @author Multichill
  * @author OsamaK
@@ -403,18 +405,28 @@ $messages['ar'] = array(
 	'wm-license-cc-wiki-link' => 'w:ar:مشاع مبدع',
 	'wm-license-cc-attribution' => 'نسبة المصنف إلى مؤلفه',
 	'wm-license-cc-by-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/ نسبة المصنف إلى مؤلفه 1.0 العامة]',
+	'wm-license-cc-by-1.0-fi-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/fi/ نسبة المصنف إلى مؤلفه 1.0 الفنلندية]',
+	'wm-license-cc-by-1.0-il-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/il/ نسبة المصنف إلى مؤلفه 1.0 الاسرائيلية]',
 	'wm-license-cc-by-1.0-nl-text' => 'الملف مُرخّص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/nl/ نسبة المصنف إلى مؤلفه 1.0 الهولندية].',
 	'wm-license-cc-by-2.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/ نسبة المصنف إلى مؤلفه 2.0 العامة]',
 	'wm-license-cc-by-2.0-at-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/at/ نسبة المصنف إلى مؤلفه 2.0 النمساوية]',
+	'wm-license-cc-by-2.0-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/au/ نسبة المصنف إلى مؤلفه 2.5 استراليا]',
 	'wm-license-cc-by-2.0-be-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/be/ نسبة المصنف إلى مؤلفه 2.0 البلجيكية].',
 	'wm-license-cc-by-2.0-br-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/br/ نسبة المصنف إلى مؤلفه 2.0 البرازيلية].',
+	'wm-license-cc-by-2.0-ca-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/ca/ نسبة المصنف إلى مؤلفه 2.0 الكندية].',
 	'wm-license-cc-by-2.0-cl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/cl/ نسبة المصنف إلى مؤلفه 2.0 التشيلية].',
 	'wm-license-cc-by-2.0-de-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/de/ نسبة المصنف إلى مؤلفه 2.0 الألمانية].',
 	'wm-license-cc-by-2.0-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/es/ نسبة المصنف إلى مؤلفه 2.0 الإسبانية]',
 	'wm-license-cc-by-2.0-fr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/fr/ نسبة المصنف إلى مؤلفه 2.0 الفرنسية]',
+	'wm-license-cc-by-2.0-hr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/hr/ نسبة المصنف إلى مؤلفه 2.0 الكرواتية].',
 	'wm-license-cc-by-2.0-it-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/it/ نسبة المصنف إلى مؤلفه 2.0 الإيطالية]',
+	'wm-license-cc-by-2.0-jp-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/jp/ نسبة المصنف إلى مؤلفه 2.0 االيابانية]',
 	'wm-license-cc-by-2.0-kr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/kr/ نسبة المصنف إلى مؤلفه 2.0 الكورية]',
 	'wm-license-cc-by-2.0-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/nl/ نسبة المصنف إلى مؤلفه 2.0 الهولندية]',
+	'wm-license-cc-by-2.0-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/pl/ نسبة المصنف إلى مؤلفه 2.0 البولندية].',
+	'wm-license-cc-by-2.0-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/tw/ نسبة المصنف إلى مؤلفه 2.0 التايوانية].',
+	'wm-license-cc-by-2.0-uk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/uk/ نسبة المصنف إلى مؤلفه 2.0 المملكة المتحدة : انكلترا وويلز].',
+	'wm-license-cc-by-2.0-za-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.0/za/ نسبة المصنف إلى مؤلفه 2.0 جنوب أفريقيا].',
 	'wm-license-cc-by-2.5-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/ نسبة المصنف إلى مؤلفه 2.5 العامة]',
 	'wm-license-cc-by-2.5-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/at/ نسبة المصنف إلى مؤلفه 2.5 النمساوية]',
 	'wm-license-cc-by-2.5-bg-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/bg/ نسبة المصنف إلى مؤلفه 2.5 البلغارية].',
@@ -4264,7 +4276,7 @@ $messages['nl'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'De gebruiker dient bij het werk de door de maker of de licentiegever aangegeven naam te vermelden (maar niet zodanig dat de indruk gewekt wordt dat zij daarmee instemmen met uw werk of uw gebruik van het werk).',
 	'wm-license-cc-conditions-share_alike-header' => 'Gelijk delen',
 	'wm-license-cc-conditions-share_alike-text' => 'Indien de gebruiker het werk bewerkt kan het daaruit ontstane werk uitsluitend worden verspreid krachtens dezelfde licentie als de onderhavige licentie, een gelijksoortige of een compatible licentie.',
-	'wm-license-information-table-summary' => 'Een gestandaardiseerde tabel met alle informatie over een bestand, inclusief de beschrijving van wat er te zien is, hoe het is gemaakt, de copyright status en de bron.',
+	'wm-license-information-table-summary' => 'Een gestandaardiseerde tabel met alle informatie over een bestand, inclusief de beschrijving van wat er te zien is, hoe het is gemaakt, de auteursrechtenstatus en de bron.',
 	'wm-license-information-description' => 'Beschrijving',
 	'wm-license-information-source' => 'Bron',
 	'wm-license-information-date' => 'Datum',
@@ -4274,10 +4286,10 @@ $messages['nl'] = array(
 	'wm-license-information-permission-reusing-text' => 'Hergebruik van dit bestand',
 	'wm-license-information-permission-see-below' => 'Zie onder.',
 	'wm-license-information-other-versions' => 'Andere versies',
-	'wm-license-self-one-license' => 'Ik, de auteursrechthebbende van dit werk, geef deze media vrij onder de volgende licentie:',
-	'wm-license-self-one-license-with-author' => '$1, de auteursrechthebbende van dit werk, geeft deze media vrij onder de volgende licentie:',
-	'wm-license-self-multiple-licenses' => 'Ik, de auteursrechthebbende van dit werk, geef deze media vrij onder de volgende licenties:',
-	'wm-license-self-multiple-licenses-with-author' => '$1, de auteursrechthebbende van dit werk, geeft deze media vrij onder de volgende licenties:',
+	'wm-license-self-one-license' => 'Ik, de auteursrechthebbende van dit werk, maak het hierbij onder de volgende licentie beschikbaar:',
+	'wm-license-self-one-license-with-author' => '$1, de auteursrechthebbende van dit werk, maakt het hierbij onder de volgende licentie beschikbaar:',
+	'wm-license-self-multiple-licenses' => 'Ik, de auteursrechthebbende van dit werk, maak het hierbij onder de volgende licenties beschikbaar:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, de auteursrechthebbende van dit werk, maakt het hierbij onder de volgende licenties beschikbaar:',
 	'wm-license-self-multiple-licenses-select' => 'U mag zelf één van de licenties kiezen.',
 );
 
