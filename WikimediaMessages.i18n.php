@@ -3383,8 +3383,8 @@ Kung indi kag nagsulat sini sa imo kaugalingon, kilanlan nga para ina sa tanan n
 /** Croatian (Hrvatski)
  * @author CERminator
  * @author Dalibor Bosits
+ * @author Ex13
  * @author SpeedyGonsales
- * @author Suradnik13
  */
 $messages['hr'] = array(
 	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
