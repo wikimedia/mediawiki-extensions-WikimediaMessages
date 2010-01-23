@@ -5981,8 +5981,11 @@ Lon me ing [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para 
  * @author Xqt
  */
 $messages['pdc'] = array(
+	'group-flood' => 'Waddefresser',
 	'group-founder' => 'Grinder',
+	'group-flood-member' => 'Waddefresser',
 	'group-founder-member' => 'Grinder',
+	'grouppage-flood' => '{{ns:project}}:Waddefresser',
 	'grouppage-founder' => '{{ns:project}}:Grinder',
 	'group-steward' => 'Stewards',
 	'group-Global_bot' => 'Globale Bots',
