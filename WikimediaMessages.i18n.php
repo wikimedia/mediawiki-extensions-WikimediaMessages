@@ -3865,6 +3865,7 @@ $messages['is'] = array(
  * @author Darth Kule
  * @author Melos
  * @author Nemo bis
+ * @author OrbiliusMagister
  * @author Pietrodn
  * @author Stefano-c
  */
@@ -3887,6 +3888,7 @@ $messages['it'] = array(
 	'group-patroller' => 'Patrollatori',
 	'group-rollbacker' => 'Rollbacker',
 	'group-transwiki' => 'Importatori transwiki',
+	'group-trusted' => 'Utente fidato',
 	'group-abusefilter-member' => 'gestore filtri anti abusi',
 	'group-accountcreator-member' => 'creatore di account',
 	'group-autopatrolled-member' => 'autopatroller',
@@ -3894,6 +3896,7 @@ $messages['it'] = array(
 	'group-autoreviewer-member' => 'autorevisore',
 	'group-bigexport-member' => 'esportatore in blocco',
 	'group-confirmed-member' => 'utente confermato',
+	'group-flood-member' => 'Utente bot',
 	'group-founder-member' => 'fondatore',
 	'group-import-member' => 'importatore',
 	'group-ipblock-exempt-member' => 'esente dal blocco IP',
@@ -3908,11 +3911,13 @@ $messages['it'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorevisori',
 	'grouppage-bigexport' => '{{ns:project}}:Esportatori in blocco',
 	'grouppage-confirmed' => '{{ns:project}}:Utenti confermati',
+	'grouppage-flood' => '{{ns:project}}:Utenti bot',
 	'grouppage-founder' => '{{ns:project}}:Founders',
 	'grouppage-import' => '{{ns:project}}:Importatori',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dal blocco IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki' => '{{ns:project}}:Importatori transwiki',
+	'grouppage-trusted' => '{{ns:project}}:utenti fidati',
 	'group-steward' => 'Steward',
 	'group-sysadmin' => 'Amministratori di sistema',
 	'group-Editinterface' => "Editori dell'interfaccia",
@@ -8318,9 +8323,23 @@ $messages['uk'] = array(
 Якщо ви не є автором цього тексту, він повинен бути доступний на умовах, сумісних із [http://wikimediafoundation.org/wiki/Умови_використання умовами використання], і ви погоджуєтесь дотримуватись усіх відповідних ліцензійних вимог.',
 );
 
-/** Urdu (اردو) */
+/** Urdu (اردو)
+ * @author محبوب عالم
+ */
 $messages['ur'] = array(
+	'wikimediamessages-desc' => 'ویکیمیڈیا معیّن پیغامات',
 	'sitesupport' => 'رابطہ',
+	'tooltip-n-sitesupport' => 'معاونت کیجئے',
+	'group-accountcreator' => 'کھاتہ سازان',
+	'group-founder' => 'بانیان',
+	'group-import-member' => 'برآمدکار',
+	'group-trusted-member' => 'معتمد صارف',
+	'group-sysadmin' => 'منتظمینِ نظام',
+	'group-Editinterface' => 'مدیرانِ سطح البین',
+	'group-sysadmin-member' => 'منتظمِ نظام',
+	'group-Staff-member' => 'عملہ',
+	'group-inactive' => 'غیرفعال صارفین',
+	'group-inactive-member' => 'غیرفعال صارف',
 );
 
 /** Uzbek (O'zbek) */
