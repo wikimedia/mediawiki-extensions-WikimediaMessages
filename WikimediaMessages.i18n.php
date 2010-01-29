@@ -31,6 +31,7 @@ $messages['en'] = array(
 	# Wikimedia specific usergroups
 	'group-abusefilter'           => 'Abuse filter editors',
 	'group-accountcreator'        => 'Account creators',
+	'group-arbcom'                => 'Arbitration committee members',
 	'group-autopatrolled'         => 'Autopatrollers',
 	'group-autopatroller'         => 'Autopatrollers',
 	'group-autoreviewer'          => 'Autoreviewers',
@@ -47,6 +48,7 @@ $messages['en'] = array(
 
 	'group-abusefilter-member'    => 'abuse filter editor',
 	'group-accountcreator-member' => 'account creator',
+	'group-arbcom-member'         => 'arbitration committee member',
 	'group-autopatrolled-member'  => 'autopatroller',
 	'group-autopatroller-member'  => 'autopatroller',
 	'group-autoreviewer-member'   => 'autoreviewer',
@@ -63,6 +65,7 @@ $messages['en'] = array(
 
 	'grouppage-abusefilter'    => '{{ns:project}}:Abuse filter editors',
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
+	'grouppage-arbcom'         => '{{ns:project}}:Arbitration committee members',
 	'grouppage-autopatrolled'  => '{{ns:project}}:Autopatrollers',
 	'grouppage-autopatroller'  => '{{ns:project}}:Autopatrollers',
 	'grouppage-autoreviewer'   => '{{ns:project}}:Autoreviewers',
