@@ -3973,6 +3973,7 @@ $messages['it'] = array(
  * @author JtFuruhata
  * @author Meno25
  * @author Suisui
+ * @author Whym
  * @author 青子守歌
  */
 $messages['ja'] = array(
@@ -3982,6 +3983,7 @@ $messages['ja'] = array(
 	'tooltip-n-sitesupport' => 'ご支援ください',
 	'group-abusefilter' => '不正利用フィルター編集者',
 	'group-accountcreator' => 'アカウント作成権限保持者',
+	'group-arbcom' => '調停委員会のメンバー',
 	'group-autopatrolled' => '自動パトローラー',
 	'group-autopatroller' => '自動パトロール権限保持者',
 	'group-autoreviewer' => '自動査読者',
@@ -3997,6 +3999,7 @@ $messages['ja'] = array(
 	'group-trusted' => '信任を得た利用者',
 	'group-abusefilter-member' => '不正利用フィルター編集者',
 	'group-accountcreator-member' => 'アカウント作成権限保持者',
+	'group-arbcom-member' => '調停委員会のメンバー',
 	'group-autopatrolled-member' => '自動パトロール権限保持者',
 	'group-autopatroller-member' => '自動パトロール権限保持者',
 	'group-autoreviewer-member' => '自動査読者',
@@ -4012,6 +4015,7 @@ $messages['ja'] = array(
 	'group-trusted-member' => '信任を得た利用者',
 	'grouppage-abusefilter' => '{{ns:project}}:不正利用フィルター編集者',
 	'grouppage-accountcreator' => '{{ns:project}}:アカウント作成権限保持者',
+	'grouppage-arbcom' => '{{ns:project}}:調停委員会のメンバー',
 	'grouppage-autopatrolled' => '{{ns:project}}:自動パトロール権限保持者',
 	'grouppage-autopatroller' => '{{ns:project}}:自動パトロール権限保持者',
 	'grouppage-autoreviewer' => '{{ns:project}}:自動査読者',
@@ -6069,6 +6073,7 @@ $messages['pl'] = array(
 	'tooltip-n-sitesupport' => 'Pomóż nam',
 	'group-abusefilter' => 'Operatorzy filtru nadużyć',
 	'group-accountcreator' => 'Tworzący konta',
+	'group-arbcom' => 'Członkowie Komitetu Arbitrażowego',
 	'group-autopatrolled' => 'Patrolujący automatycznie',
 	'group-autopatroller' => 'Patrolujący automatycznie',
 	'group-autoreviewer' => 'Automatycznie przeglądający',
@@ -6084,6 +6089,7 @@ $messages['pl'] = array(
 	'group-trusted' => 'Zaufani użytkownicy',
 	'group-abusefilter-member' => 'operator filtru nadużyć',
 	'group-accountcreator-member' => 'twórca kont',
+	'group-arbcom-member' => 'członek Komitetu Arbitrażowego',
 	'group-autopatrolled-member' => 'patrolujący automatycznie',
 	'group-autopatroller-member' => 'patrolujący automatycznie',
 	'group-autoreviewer-member' => 'automatycznie przeglądający',
@@ -6099,6 +6105,7 @@ $messages['pl'] = array(
 	'group-trusted-member' => 'zaufany użytkownik',
 	'grouppage-abusefilter' => '{{ns:project}}:Operatorzy filtru nadużyć',
 	'grouppage-accountcreator' => '{{ns:project}}:Twórcy kont',
+	'grouppage-arbcom' => '{{ns:project}}:Członkowie Komitetu Arbitrażowego',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolujący automatycznie',
 	'grouppage-autopatroller' => '{{ns:project}}:Patrolujący automatycznie',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatycznie przeglądający',
