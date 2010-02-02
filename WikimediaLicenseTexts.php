@@ -19,4 +19,4 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'wikimedialicensetexts-desc',
 );
 
-$wgExtensionMessagesFiles['WikimediaLicenseTexts'] = $dir . '/WikimediaLicenseTexts.i18n.php';
+$wgExtensionMessagesFiles['WikimediaLicenseTexts'] = dirname(__FILE__) . '/WikimediaLicenseTexts.i18n.php';
