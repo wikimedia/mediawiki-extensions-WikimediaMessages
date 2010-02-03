@@ -3535,6 +3535,19 @@ $messages['id'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Jika Anda mengubah, mentranformasikan, atau membuat atas dasar karya ini, Anda dapat mendistribusikan karya yang dihasilkan hanya di bawah lisensi yang sama atau mirip dengan lisensi ini.',
 );
 
+/** Igbo (Igbo)
+ * @author Ukabia
+ */
+$messages['ig'] = array(
+	'wm-license-cc-free' => 'I wepulara nóru:',
+	'wm-license-cc-free-to-share-header' => 'i nye',
+	'wm-license-cc-free-to-remix-header' => 'i dowaria',
+	'wm-license-information-source' => 'Ébé o shị',
+	'wm-license-information-date' => 'Aka',
+	'wm-license-information-author' => 'Onye déré',
+	'wm-license-information-permission-see-below' => 'Lé na àlà.',
+);
+
 /** Icelandic (Íslenska) */
 $messages['is'] = array(
 	'wm-license-information-description' => 'Lýsing',
@@ -3590,6 +3603,7 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Fryed-peach
+ * @author Hijiri
  * @author Hosiryuhosi
  * @author Multichill
  * @author Whym
@@ -3621,6 +3635,7 @@ $messages['ja'] = array(
 	'wm-license-cc-by-2.0-tw-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.0/tw/deed.ja 表示 2.0 台湾]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-2.0-uk-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.0/uk/deed.ja 表示 2.0 イングランド＆ウェールズ（英）]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-2.0-za-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.0/za/deed.ja 表示 2.0 南アフリカ]ライセンスのもとに利用を許諾されています。',
+	'wm-license-cc-by-2.1-au-text' => 'このファイルは、[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.1/au/deed.ja アトリビューション 2.1 オーストラリア]ライセンスに基づいて利用が許諾されます。',
 	'wm-license-cc-by-2.5-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.5/deed.ja 表示 2.5 一般]ライセンスのもとに利用を許諾されています',
 	'wm-license-cc-by-2.5-au-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.5/au/deed.ja 表示 2.5 オーストリア]ライセンスのもとに利用を許諾されています',
 	'wm-license-cc-by-2.5-bg-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/by/2.5/bg/deed.ja 表示 2.5 ブルガリア]ライセンスのもとに利用を許諾されています',
@@ -7372,8 +7387,11 @@ $messages['yi'] = array(
 
 /** Yue (粵語)
  * @author Castelobranco
+ * @author Horacewai2
  */
 $messages['yue'] = array(
+	'wikimedialicensetexts-desc' => '維基媒體版權信息',
+	'wm-license-cc-wiki-link' => 'w:en:Creative Commons',
 	'wm-license-cc-by-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/deed.eo Atribuite 1.0 Ĝenerala] permesilo.',
 	'wm-license-cc-by-1.0-nl-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/nl/deed.eo Atribuite 1.0 Nederlando] permesilo.',
 	'wm-license-cc-by-2.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/deed.eo Atribuite 2.0 Ĝenerala] permesilo.',
@@ -7458,6 +7476,8 @@ $messages['yue'] = array(
 	'wm-license-cc-by-sa-3.0-rs-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/rs/deed.eo Atribuite-Samkondiĉe 3.0 Serbujo] permesilo.',
 	'wm-license-cc-by-sa-3.0-tw-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.eo Atribuite-Samkondiĉe 3.0 Tajvano] permesilo.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.eo Atribuite-Samkondiĉe 3.0 Usono] permesilo.',
+	'wm-license-cc-free' => '你可以：',
+	'wm-license-cc-free-to-share-header' => '去分享',
 );
 
 /** Simplified Chinese (‪中文(简体)‬) */

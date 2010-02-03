@@ -3829,6 +3829,23 @@ $messages['ie'] = array(
 	'sitesupport' => 'Donationes',
 );
 
+/** Igbo (Igbo)
+ * @author Ukabia
+ */
+$messages['ig'] = array(
+	'sitesupport' => 'Nyeturuanyi ihe',
+	'tooltip-n-sitesupport' => 'Nye anyi ike',
+	'group-flood' => 'Ndi na ji bot',
+	'group-founder' => 'Ndi buzọr',
+	'group-import' => 'Ndi na wete ihe',
+	'group-flood-member' => 'onye na ji bot emé ihe',
+	'group-founder-member' => 'onye buzọr',
+	'group-import-member' => 'onye na wete ihe',
+	'group-patroller-member' => 'onye na léfuru ihe anyà',
+	'group-rollbacker-member' => 'onye-na-fifie-azú',
+	'group-Staff-member' => 'ndi na rüoru nga',
+);
+
 /** Eastern Canadian (Unified Canadian Aboriginal Syllabics) (ᐃᓄᒃᑎᑐᑦ) */
 $messages['ike-cans'] = array(
 	'sitesupport' => 'ᑐᓐᓂᖅᑯᓯᐊᑦ ᑮᓇᐅᔭᐃᑦ',
@@ -4589,10 +4606,11 @@ $messages['la'] = array(
 );
 
 /** Ladino (Ladino)
+ * @author Universal Life
  * @author לערי ריינהארט
  */
 $messages['lad'] = array(
-	'sitesupport' => 'Donasiones',
+	'sitesupport' => 'Donaciones',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -7546,6 +7564,7 @@ $messages['sv'] = array(
 	'tooltip-n-sitesupport' => 'Stöd oss',
 	'group-abusefilter' => 'Redigerare av missbruksfilter',
 	'group-accountcreator' => 'Kontoskapare',
+	'group-arbcom' => 'Medlemmar av förlikningskommitte',
 	'group-autopatrolled' => 'Autopatrullerare',
 	'group-autopatroller' => 'Autopatrullerare',
 	'group-autoreviewer' => 'Automatiska granskare',
@@ -7561,6 +7580,7 @@ $messages['sv'] = array(
 	'group-trusted' => 'Betrodda användare',
 	'group-abusefilter-member' => 'redigerare av missbruksfilter',
 	'group-accountcreator-member' => 'kontoskapare',
+	'group-arbcom-member' => 'medlem av förlikningskommitte',
 	'group-autopatrolled-member' => 'autopatrullerare',
 	'group-autopatroller-member' => 'autopatrullerare',
 	'group-autoreviewer-member' => 'automatisk granskare',
@@ -7576,6 +7596,7 @@ $messages['sv'] = array(
 	'group-trusted-member' => 'betrodd användare',
 	'grouppage-abusefilter' => '{{ns:project}}:Redigerare av missbruksfilter',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoskapare',
+	'grouppage-arbcom' => '{{ns:project}}:Förlikningskommittemedlemmar',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrullerare',
 	'grouppage-autopatroller' => '{{ns:project}}:Autopatrullerare',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiska granskare',
