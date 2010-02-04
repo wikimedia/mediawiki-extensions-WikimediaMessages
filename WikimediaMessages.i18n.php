@@ -4810,6 +4810,17 @@ $messages['lmo'] = array(
 	'tooltip-n-sitesupport' => 'Dàss una man',
 	'group-abusefilter' => 'Mudificadur di filter anti-abüs',
 	'group-accountcreator' => 'Creadur di cünt',
+	'group-arbcom' => "Member del cumitaa d'arbitragg",
+	'group-autopatrolled' => 'Autopatrollers',
+	'group-autopatroller' => 'Autopatrollers',
+	'group-autoreviewer' => 'Revisur autumategh',
+	'group-bigexport' => 'Gran espurtadur',
+	'group-confirmed' => 'Druvadur cunfermaa',
+	'group-flood' => 'Druvadur de Bot',
+	'group-founder' => 'Fundadur',
+	'group-import' => 'Impurtadur',
+	'group-ipblock-exempt' => "Esenzión dal bloch de l'IP",
+	'group-patroller' => 'Gent de rónda',
 	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [http://wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
 );
 
@@ -5927,6 +5938,7 @@ $messages['nso'] = array(
 
 /** Occitan (Occitan)
  * @author Cedric31
+ * @author Jfblanc
  */
 $messages['oc'] = array(
 	'wikimediamessages-desc' => 'Messatges especifics de Wikimedia',
@@ -5935,6 +5947,7 @@ $messages['oc'] = array(
 	'tooltip-n-sitesupport' => 'Sostenètz lo projècte',
 	'group-abusefilter' => "Modificators dels filtres d'abuses",
 	'group-accountcreator' => 'Creators de comptes',
+	'group-arbcom' => "de sòcis del comitat d'arbitratge",
 	'group-autopatrolled' => 'Patrolhas automaticas',
 	'group-autopatroller' => 'Patrolhadors automatics',
 	'group-autoreviewer' => 'Revisadors automatics',
@@ -5950,6 +5963,7 @@ $messages['oc'] = array(
 	'group-trusted' => 'Utilizaires de fisança',
 	'group-abusefilter-member' => "modificator dels filtres d'abuses",
 	'group-accountcreator-member' => 'Creator de comptes',
+	'group-arbcom-member' => "sòci del comitat d'archivatge",
 	'group-autopatrolled-member' => 'Patrolhador automatic',
 	'group-autopatroller-member' => 'Patrolhador automatic',
 	'group-autoreviewer-member' => 'revisador automatic',
@@ -5965,6 +5979,7 @@ $messages['oc'] = array(
 	'group-trusted-member' => 'utilizaire de fisança',
 	'grouppage-abusefilter' => "{{ns:project}}:Modificators dels filtres d'abuses",
 	'grouppage-accountcreator' => '{{ns:project}}:Creators de comptes',
+	'grouppage-arbcom' => "{{ns:project}}:de sòcis del comitat d'arbitratge",
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolhadors automatics',
 	'grouppage-autopatroller' => '{{ns:project}}:Patrolhadors automatics',
 	'grouppage-autoreviewer' => '{{ns:project}}:Revisador automatic',
@@ -7026,6 +7041,7 @@ $messages['shi'] = array(
 
 /** Sinhala (සිංහල)
  * @author Calcey
+ * @author චතුනි අලහප්පෙරුම
  * @author නන්දිමිතුරු
  */
 $messages['si'] = array(
@@ -7035,6 +7051,7 @@ $messages['si'] = array(
 	'tooltip-n-sitesupport' => 'අප හට අනුග්‍රහ සපයන්න',
 	'group-abusefilter' => 'පෙරහන් සැකසුම් අනිසි භාවිතය',
 	'group-accountcreator' => 'ගිණුම් තනන්නන්',
+	'group-arbcom' => 'සමථ කමිටු සාමාජීකයන්',
 	'group-autopatrolled' => 'ස්වයං මුර සංචාරකයන්',
 	'group-autopatroller' => 'ස්වයං මුර සංචාරකයන්',
 	'group-autoreviewer' => 'ස්වයං විචාරකයන්',
@@ -7050,6 +7067,7 @@ $messages['si'] = array(
 	'group-trusted' => 'විශ්වාසනීය පරිශීලකයන්',
 	'group-abusefilter-member' => 'පෙරහන් සැකසුම වැරදි භාවිතය',
 	'group-accountcreator-member' => 'ගිණුම් තනන්නා',
+	'group-arbcom-member' => 'සමථ කමිටු සාමාජීකයා',
 	'group-autopatrolled-member' => 'ස්වයං මුර සංචාරකයා',
 	'group-autopatroller-member' => 'ස්වයං මුර සංචාරකයා',
 	'group-autoreviewer-member' => 'ස්වයං විචාරකයා',
@@ -7065,6 +7083,7 @@ $messages['si'] = array(
 	'group-trusted-member' => 'විශ්වාසනීය පරිශීලකයා',
 	'grouppage-abusefilter' => '{{ns:project}}:පෙරහන් සකසන වැරදි භාවිතය',
 	'grouppage-accountcreator' => '{{ns:project}}:ගිණුම් තනන්නන්',
+	'grouppage-arbcom' => '{{ns:project}}:සමථ කමිටු සාමාජීකයන්',
 	'grouppage-autopatrolled' => '{{ns:project}}:ස්වයං මුර සංචාරකයන්',
 	'grouppage-autopatroller' => '{{ns:project}}:ස්වයං මුර සංචාරකයන්',
 	'grouppage-autoreviewer' => '{{ns:project}}:ස්වයං විචාරකයන්',
@@ -8430,6 +8449,7 @@ $messages['vec'] = array(
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'group-abusefilter' => 'Gestori filtri anti abusi',
 	'group-accountcreator' => 'Creatori de account',
+	'group-arbcom' => 'Menbri del comitato de arbitrato',
 	'group-autopatrolled' => 'Patujadori automatici',
 	'group-autopatroller' => 'Patujadori automàteghi',
 	'group-autoreviewer' => 'Autoreviewer',
@@ -8445,6 +8465,7 @@ $messages['vec'] = array(
 	'group-trusted' => 'Utenti de cui fidarse',
 	'group-abusefilter-member' => 'gestor filtri anti abusi',
 	'group-accountcreator-member' => 'Creator de account',
+	'group-arbcom-member' => 'menbro del comitato de arbitrato',
 	'group-autopatrolled-member' => 'patujador automàtego',
 	'group-autopatroller-member' => 'patujador automàtego',
 	'group-autoreviewer-member' => 'autoreviewer',
@@ -8460,6 +8481,7 @@ $messages['vec'] = array(
 	'group-trusted-member' => 'utente de cui fidarse',
 	'grouppage-abusefilter' => '{{ns:project}}:Gestori filtri anti abusi',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de account',
+	'grouppage-arbcom' => '{{ns:project}}:Menbri del comitato de arbitrato',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patujadori automàteghi',
 	'grouppage-autopatroller' => '{{ns:project}}:Patujadori automàteghi',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autoreviewer',
