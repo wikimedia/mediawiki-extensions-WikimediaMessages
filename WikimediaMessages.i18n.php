@@ -893,6 +893,7 @@ $messages['bg'] = array(
 	'tooltip-n-sitesupport' => 'Подкрепете ни',
 	'group-abusefilter' => 'Редактори на филтъра срещу злоупотреби',
 	'group-accountcreator' => 'Създатели на сметки',
+	'group-arbcom' => 'Членове на арбитражната комисия',
 	'group-autopatrolled' => 'Автопатрули',
 	'group-autopatroller' => 'Автопатрульори',
 	'group-autoreviewer' => 'Авторецензенти',
@@ -908,6 +909,7 @@ $messages['bg'] = array(
 	'group-trusted' => 'Доверени потребители',
 	'group-abusefilter-member' => 'редактор на филтъра срещу злоупотреби',
 	'group-accountcreator-member' => 'създател на сметки',
+	'group-arbcom-member' => 'член на арбитражната комисия',
 	'group-autopatrolled-member' => 'Автопатрульор',
 	'group-autopatroller-member' => 'Автопатрульор',
 	'group-autoreviewer-member' => 'авторецензент',
@@ -923,6 +925,7 @@ $messages['bg'] = array(
 	'group-trusted-member' => 'доверен потребител',
 	'grouppage-abusefilter' => '{{ns:project}}: Редактори на филтъра срещу злоупотреби',
 	'grouppage-accountcreator' => '{{ns:project}}:Създатели на сметки',
+	'grouppage-arbcom' => '{{ns:project}}:Членове на арбитражната комисия',
 	'grouppage-autopatrolled' => '{{ns:project}}:Автопатрули',
 	'grouppage-autopatroller' => '{{ns:project}}:Автопатрули',
 	'grouppage-autoreviewer' => '{{ns:project}}:Авторецензенти',
@@ -1459,7 +1462,7 @@ $messages['cs'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Neaktivní uživatelé',
 	'wikimedia-copyright' => 'Text je dostupný pod <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.cs">licencí Creative Commons Uveďte autora&nbsp;– Zachovejte licenci</a>, případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="http://wikimediafoundation.org/wiki/Podmínky_užití">Podmínky užití</a>.',
 	'wikimedia-copyrightwarning' => 'Uložením svůj příspěvek neodvolatelně uvolňujete pod licencemi [http://creativecommons.org/licenses/by-sa/3.0/deed.cs Creative Commons Uveďte autora&nbsp;– Zachovejte licenci&nbsp;3.0] a&nbsp;[http://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, aby další uživatelé vaše autorství uváděli alespoň formou hypertextového odkazu nebo adresy na stránku, do které přispíváte. Podrobnosti naleznete v&nbsp;[http://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkách užití].',
-	'wikimedia-editpage-tos-summary' => 'Pokud si nepřejete, aby váš příspěvek byl nemilosrdně upravován a&nbsp;volně šířen, pak ho sem neukládejte. Pokud nejste autorem textu, musí být dostupný za podmínek slučitelných s&nbsp;našimi [http://wikimediafoundation.org/wiki/Terms_of_Use Podmínkami užití] a&nbsp;vy souhlasíte se všemi příslušnými licenčními požadavky.',
+	'wikimedia-editpage-tos-summary' => 'Pokud si nepřejete, aby váš příspěvek byl nemilosrdně upravován a&nbsp;volně šířen, pak ho sem neukládejte. Pokud nejste autorem textu, musí být dostupný za podmínek slučitelných s&nbsp;našimi [http://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a&nbsp;vy souhlasíte se všemi příslušnými licenčními požadavky.',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
