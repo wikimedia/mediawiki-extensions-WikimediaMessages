@@ -6859,6 +6859,7 @@ $messages['sv'] = array(
 	'wm-license-cc-by-sa-3.0-us-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.sv Erkännande-Dela Lika 3.0 Förenta Staterna] licens.',
 	'wm-license-cc-sa-1.0-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/deed.sv Dela Lika 1.0 Generisk] licens.',
 	'wm-license-cc-zero-text' => 'Denna fil har gjorts tillgänglig under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.sv CC0 deklarering].',
+	'wm-license-cc-zero-explanation' => 'Personen som kopplade ett verk till detta dokument har tillägnat arbetet till Allmänheten genom att, i den utsträckning som tillåts lag, avstå från alla hans eller hennes rättigheter till verket i hela världen som han eller hon skulle haft för verket enligt upphovsrätten och alla relaterade eller närliggande juridiska rättigheter. Verk under CC0 kräver inte inte erkännande. Vid citering av verket, ska du inte förutsätta godkännande från upphovsmannen.',
 	'wm-license-cc-free' => 'Du är fri:',
 	'wm-license-cc-free-to-share-header' => 'att dela',
 	'wm-license-cc-free-to-share-text' => 'att kopiera, distribuera och sända verket',

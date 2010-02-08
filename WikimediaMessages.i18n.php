@@ -236,6 +236,7 @@ $messages['af'] = array(
 	'tooltip-n-sitesupport' => 'Ondersteun ons',
 	'group-abusefilter' => 'misbruikfilter-redakteurs',
 	'group-accountcreator' => 'Gebruikersrekening-skeppers',
+	'group-arbcom' => 'Arbitrasie komiteelede',
 	'group-bigexport' => 'Groot eksporteurs',
 	'group-confirmed' => 'bevestigde gebruikers',
 	'group-flood' => 'botgebruikers',
