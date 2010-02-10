@@ -1924,7 +1924,27 @@ $messages['el'] = array(
 	'wm-license-cc-by-sa-2.0-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 2.0 Γενική]',
 	'wm-license-cc-by-sa-2.5-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 2.5 Γενική]',
 	'wm-license-cc-by-sa-3.0-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 3.0 Μη εισαγόμενη]',
+	'wm-license-cc-by-sa-3.0-at-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Αυστρία]',
+	'wm-license-cc-by-sa-3.0-cz-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Τσεχική Δημοκρατία]',
+	'wm-license-cc-by-sa-3.0-de-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Γερμανία]',
+	'wm-license-cc-by-sa-3.0-es-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ισπανία]',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ελλάδα]',
+	'wm-license-cc-by-sa-3.0-gt-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gt/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Γουατεμάλα]',
+	'wm-license-cc-by-sa-3.0-hk-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hk/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Χονγκ Κονγκ]',
+	'wm-license-cc-by-sa-3.0-hr-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hr/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Κροατία]',
+	'wm-license-cc-by-sa-3.0-lu-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/lu/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Λουξεμβούργο]',
+	'wm-license-cc-by-sa-3.0-nl-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nl/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ολλανδία]',
+	'wm-license-cc-by-sa-3.0-no-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/no/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Νορβηγία]',
+	'wm-license-cc-by-sa-3.0-nz-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nz/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Νέα Ζηλανδία]',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Φιλιππίνες]',
+	'wm-license-cc-by-sa-3.0-pl-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pl/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Πολωνία]',
+	'wm-license-cc-by-sa-3.0-pr-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pr/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Πουέρτο Ρίκο]',
+	'wm-license-cc-by-sa-3.0-ro-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ro/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ρουμανία]',
+	'wm-license-cc-by-sa-3.0-rs-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/rs/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Σερβία]',
+	'wm-license-cc-by-sa-3.0-sg-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/sg/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Σιγκαπούρη]',
+	'wm-license-cc-by-sa-3.0-th-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/th/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ταϊλάνδη]',
+	'wm-license-cc-by-sa-3.0-tw-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ταϊβάν]',
+	'wm-license-cc-by-sa-3.0-us-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ηνωμένες Πολιτείες Αμερικής]',
 	'wm-license-cc-zero-explanation' => 'Ο άνθρωπος που συσχέτισε ένα έργο με αυτό το έγγραφο έχει αφιερώσει αυτό το έργο στα Κοινά παραιτούμενος από όλα τα δικαιώματά του σε αυτό το έργο παγκοσμίως υπό τη νομοθεσία των πνευματικών δικαιωμάτων και όλα τα σχετικά ή παρεμφερή νόμιμα δικαιώματα που είχε στο έργο, σε εύρος που νόμος ορίζει. Έργα υπό την CC0 δεν χρειάζονται απόδοση. Όταν παραθέτετε το έργο, δε χρειάζεται να υπαινιχθείτε έγκριση από το συγγραφέα.',
 	'wm-license-cc-free' => 'Είστε ελεύθερος:',
 	'wm-license-cc-free-to-share-header' => 'να μοιραστείτε',
@@ -2071,6 +2091,8 @@ $messages['eo'] = array(
 	'wm-license-information-permission' => 'Permeso',
 	'wm-license-information-permission-see-below' => 'Vidu sube.',
 	'wm-license-information-other-versions' => 'Ceteraj versioj',
+	'wm-license-self-multiple-licenses' => 'Mi, la aŭtorrajta posedanto de ĉi tiu verko, ja publikigis ĝin sub la jenaj permisiloj:',
+	'wm-license-self-multiple-licenses-select' => 'Vi povas elekti la permesilon preferatan.',
 );
 
 /** Spanish (Español)
@@ -2136,13 +2158,22 @@ $messages['es'] = array(
 	'wm-license-cc-by-2.5-scotland-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by-sa/2.5/scotland/deed.es Reconocimiento-Compartir bajo la misma licencia 2.5 Escocia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-2.5-se-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.es Reconocimiento 2.5 Suecia].',
 	'wm-license-cc-by-2.5-si-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/2.5/si/deed.es Reconocimiento 2.5 Eslovenia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-2.5-tw-text' => 'Este archivo está autorizado bajo licencia [http://creativecommons.org/licenses/by/2.5/tw/deed.es Attribution 2.5 Taiwan] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-2.5-za-text' => 'Este archivo está autorizado bajo licencia [http://creativecommons.org/licenses/by/2.5/za/deed.es Reconocimiento 2.5 Suráfrica] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-3.0-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.es no portada de Atribución 3.0].',
 	'wm-license-cc-by-3.0-at-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.es Reconocimiento 3.0 Austria].',
+	'wm-license-cc-by-3.0-cz-text' => 'Este archivo está autorizado bajo licencia [http://creativecommons.org/licenses/by/3.0/cz/deed.es Reconocimiento 3.0 República Checa] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-3.0-de-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.es Reconocimiento 3.0 Alemania].',
 	'wm-license-cc-by-3.0-es-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.es Reconocimiento 3.0 España].',
 	'wm-license-cc-by-3.0-gr-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/deed.es Reconocimiento 3.0 Grecia].',
+	'wm-license-cc-by-3.0-gt-text' => 'Este archivo está autorizado bajo licencia [ http://creativecommons.org/licenses/by/3.0/gu/deed.es Reconocimiento 3.0 Guatemala] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-3.0-hr-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/hr/deed.es Reconocimiento 2.0 Croacia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-3.0-hk-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/hk/deed.es Reconocimiento 3.0 Hong Kong] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-3.0-lu-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/lu/deed.es Reconocimiento 3.0 Luxemburgo] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-3.0-nl-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/deed.es Reconocimiento 3.0 Holanda].',
+	'wm-license-cc-by-3.0-no-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/no/deed.es Reconocimiento 3.0 Noruega] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-3.0-nz-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/deed.es Reconocimiento 3.0 Nueva Zelanda].',
+	'wm-license-cc-by-3.0-ph-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/phdeed.es Reconocimiento 3.0 Filipinas] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-3.0-ro-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/deed.es Reconocimiento 3.0 Rumanía].',
 	'wm-license-cc-by-3.0-rs-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.es Reconocimiento 3.0 Serbia].',
 	'wm-license-cc-by-3.0-us-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.es Reconocimiento 3.0 Estados Unidos].',
@@ -7694,6 +7725,13 @@ $messages['vi'] = array(
 	'wm-license-self-multiple-licenses' => 'Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:',
 	'wm-license-self-multiple-licenses-select' => 'Bạn có thể tùy ý lựa chọn giấy phép.',
+);
+
+/** Mingrelian (მარგალური)
+ * @author Lika2672
+ */
+$messages['xmf'] = array(
+	'wm-license-cc-wiki-link' => 'w:en:Creative Commons',
 );
 
 /** Yiddish (ייִדיש)
