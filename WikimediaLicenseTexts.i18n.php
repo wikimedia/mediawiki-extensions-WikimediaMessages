@@ -2501,6 +2501,7 @@ $messages['fa'] = array(
 );
 
 /** Finnish (Suomi)
+ * @author Centerlink
  * @author Multichill
  * @author Str4nd
  * @author ZeiP
@@ -2617,6 +2618,7 @@ $messages['fi'] = array(
 	'wm-license-information-author' => 'Tekijä',
 	'wm-license-information-permission' => 'Käyttöoikeus',
 	'wm-license-information-permission-reusing-link' => 'Commons:Sisällön käyttö Wikimedian ulkopuolella',
+	'wm-license-information-permission-reusing-text' => 'Tätä tiedostoa käytetään uudelleen',
 	'wm-license-information-permission-see-below' => 'Katso alapuolelle.',
 	'wm-license-information-other-versions' => 'Muut versiot',
 	'wm-license-self-multiple-licenses-select' => 'Voit valita yllä olevista lisensseistä sen, jota haluat käyttää.',
@@ -2821,10 +2823,16 @@ $messages['fr'] = array(
 );
 
 /** Friulian (Furlan)
+ * @author Klenje
  * @author Multichill
  */
 $messages['fur'] = array(
 	'wm-license-cc-wiki-link' => 'w:fur:Creative Commons',
+	'wm-license-information-description' => 'Descrizion',
+	'wm-license-information-date' => 'Date',
+	'wm-license-information-author' => 'Autôr',
+	'wm-license-information-permission' => 'Permès',
+	'wm-license-information-other-versions' => 'Altris versions',
 );
 
 /** Western Frisian (Frysk)
