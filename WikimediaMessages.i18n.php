@@ -4419,6 +4419,7 @@ $messages['ko'] = array(
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'group-abusefilter' => '어뷰즈 필터 편집자',
 	'group-accountcreator' => '계정 생성자',
+	'group-arbcom' => '중재위원',
 	'group-autopatroller' => '자동 검토',
 	'group-bigexport' => '대량 문서 익스포터',
 	'group-confirmed' => '자동 인증된 사용자',
@@ -4429,6 +4430,7 @@ $messages['ko'] = array(
 	'group-transwiki' => '트랜스위키 임포터',
 	'group-abusefilter-member' => '어뷰즈 필터 편집자',
 	'group-accountcreator-member' => '계정 생성자',
+	'group-arbcom-member' => '중재위원',
 	'group-autopatrolled-member' => '자동 검토자',
 	'group-autopatroller-member' => '자동 검토자',
 	'group-bigexport-member' => '대량 문서 익스포터',
@@ -4440,6 +4442,7 @@ $messages['ko'] = array(
 	'group-transwiki-member' => '트랜스위키 임포터',
 	'grouppage-abusefilter' => '{{ns:project}}:권한 남용 감시 편집자',
 	'grouppage-accountcreator' => '{{ns:project}}:계정 생성자',
+	'grouppage-arbcom' => '{{ns:project}}:중재위원',
 	'grouppage-autopatrolled' => '{{ns:project}}:자동 검토자',
 	'grouppage-autopatroller' => '{{ns:project}}:자동 검토자',
 	'grouppage-bigexport' => '{{ns:project}}:대용량 문서 전파자',
@@ -5462,6 +5465,9 @@ Ara t-[http://wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu] għal 
 $messages['mwl'] = array(
 	'sitesupport' => 'Donaçones',
 	'tooltip-n-sitesupport' => 'Ajuda-mos',
+	'wikimedia-copyright' => 'Este testo ye çponeblizado ne ls termos de la lhicença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+puode star sujeito a cundiçones adecionales.
+Consulta las <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Cundiçones de Uso</a> pa mais detailhes.',
 );
 
 /** Burmese (မြန်မာဘာသာ)
@@ -6319,6 +6325,7 @@ $messages['pt'] = array(
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'group-abusefilter' => 'Editores de filtros de abuso',
 	'group-accountcreator' => 'Criadores de contas',
+	'group-arbcom' => 'Membros da comissão de arbitragem',
 	'group-autopatrolled' => 'Autopatrulhadores',
 	'group-autopatroller' => 'Autopatrulhadores',
 	'group-autoreviewer' => 'Autocríticos',
@@ -6334,6 +6341,7 @@ $messages['pt'] = array(
 	'group-trusted' => 'Utilizadores de confiança',
 	'group-abusefilter-member' => 'editor de filtros de abuso',
 	'group-accountcreator-member' => 'criador de contas',
+	'group-arbcom-member' => 'membro da comissão de arbitragem',
 	'group-autopatrolled-member' => 'autopatrulhador',
 	'group-autopatroller-member' => 'autopatrulhador',
 	'group-autoreviewer-member' => 'autocrítico',
@@ -6349,6 +6357,7 @@ $messages['pt'] = array(
 	'group-trusted-member' => 'utilizador de confiança',
 	'grouppage-abusefilter' => '{{ns:project}}:Editores de filtros de abuso',
 	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
+	'grouppage-arbcom' => '{{ns:project}}:Membros da comissão de arbitragem',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrulhadores',
 	'grouppage-autopatroller' => '{{ns:project}}:Autopatrulhadores',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autocríticos',
