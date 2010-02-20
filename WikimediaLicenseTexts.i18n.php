@@ -1109,9 +1109,12 @@ $messages['ca'] = array(
 	'wm-license-cc-wiki-link' => 'w:ca:Creative Commons',
 	'wm-license-cc-attribution' => 'Reconeixement',
 	'wm-license-cc-by-1.0-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.ca Reconeixement 1.0 Genèrica].',
+	'wm-license-cc-by-1.0-fi-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.ca Reconeixement 1.0 Finlàndia].',
+	'wm-license-cc-by-1.0-il-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.ca Reconeixement 1.0 Israel].',
 	'wm-license-cc-by-1.0-nl-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.ca Reconeixement 1.0 Holanda].',
 	'wm-license-cc-by-2.0-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.ca Reconeixement 2.0 Genèrica].',
 	'wm-license-cc-by-2.0-at-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.ca Reconeixement 2.0 Àustria].',
+	'wm-license-cc-by-2.0-au-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.ca Reconeixement 2.0 Austràlia].',
 	'wm-license-cc-by-2.0-be-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.ca Reconeixement 2.0 Bèlgica].',
 	'wm-license-cc-by-2.0-br-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.ca Reconeixement 2.0 Brasil].',
 	'wm-license-cc-by-2.0-cl-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.ca Reconeixement 2.0 Xile].',
@@ -2112,6 +2115,7 @@ $messages['eo'] = array(
 
 /** Spanish (Español)
  * @author Crazymadlover
+ * @author Dferg
  * @author Locos epraix
  * @author Multichill
  * @author Platonides
@@ -2190,8 +2194,10 @@ $messages['es'] = array(
 	'wm-license-cc-by-3.0-nz-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/deed.es Reconocimiento 3.0 Nueva Zelanda].',
 	'wm-license-cc-by-3.0-ph-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/phdeed.es Reconocimiento 3.0 Filipinas] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-3.0-pl-text' => 'Este archivo está autorizado bajo la licencia [http://creativecommons.org/licenses/by/3.0/pl/deed.es Reconocimiento 3.0 Polonia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-3.0-pr-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/deed.es Atribución 3.0 Puerto Rico].',
 	'wm-license-cc-by-3.0-ro-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/deed.es Reconocimiento 3.0 Rumanía].',
 	'wm-license-cc-by-3.0-rs-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.es Reconocimiento 3.0 Serbia].',
+	'wm-license-cc-by-3.0-sg-text' => 'Este fichero está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/sg/deed.en Atribución 3.0 Singapur].',
 	'wm-license-cc-by-3.0-us-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.es Reconocimiento 3.0 Estados Unidos].',
 	'wm-license-cc-by-sa-1.0-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.es Genérica de Atribución/Compartir-Igual 1.0].',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]][http://creativecommons.org/licenses/by-sa/1.0/fi/deed.es Reconocimiento-Compartir bajo la misma licencia 1.0 Finlandia].',
@@ -5045,6 +5051,13 @@ $messages['nds'] = array(
 	'wm-license-information-permission-see-below' => 'Kiek ünnen.',
 	'wm-license-information-other-versions' => 'Annere Versionen',
 	'wm-license-self-multiple-licenses-select' => 'Du kannst di de Lizenz utsöken, de di opbest gefallt.',
+);
+
+/** Nedersaksisch (Nedersaksisch)
+ * @author Krinkle
+ */
+$messages['nds-nl'] = array(
+	'wm-license-cc-wiki-link' => 'w:nds-nl:Creative Commons',
 );
 
 /** Dutch (Nederlands)

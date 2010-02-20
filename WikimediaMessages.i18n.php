@@ -233,7 +233,7 @@ $messages['af'] = array(
 	'group-bigexport' => 'Groot eksporteurs',
 	'group-confirmed' => 'bevestigde gebruikers',
 	'group-flood' => 'botgebruikers',
-	'group-founder' => 'Grondleggers',
+	'group-founder' => 'Stigters',
 	'group-import' => 'Importeurders',
 	'group-ipblock-exempt' => 'uitgesonderdes van IP-adresblokkades',
 	'group-patroller' => 'Kontroleurs',
@@ -245,7 +245,7 @@ $messages['af'] = array(
 	'group-bigexport-member' => 'groot eksporteur',
 	'group-confirmed-member' => 'bevestigde gebruiker',
 	'group-flood-member' => 'botgebruiker',
-	'group-founder-member' => 'Grondlegger',
+	'group-founder-member' => 'Stigter',
 	'group-import-member' => 'Importeurder',
 	'group-ipblock-exempt-member' => 'uitgesonder van IP-adresblokkades',
 	'group-patroller-member' => 'Kontroleur',
@@ -2070,6 +2070,7 @@ Vi konsentas esti agnoskata de reuzantoj almenaŭ per ligilo aŭ URL al la paĝo
  * @author Crazymadlover
  * @author Dferg
  * @author Locos epraix
+ * @author Manuelt15
  * @author Platonides
  * @author Sanbec
  * @author Translationista
@@ -2107,7 +2108,7 @@ $messages['es'] = array(
 	'group-founder-member' => 'Fundador',
 	'group-import-member' => 'Importador',
 	'group-ipblock-exempt-member' => 'Exento de bloqueo IP',
-	'group-patroller-member' => 'patrulleros',
+	'group-patroller-member' => 'verificador',
 	'group-rollbacker-member' => 'Reversor',
 	'group-transwiki-member' => 'Importador transwiki',
 	'group-trusted-member' => 'usuario confiable',
@@ -2127,7 +2128,7 @@ $messages['es'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
 	'grouppage-trusted' => '{{ns:project}}:Usuarios confiables',
 	'group-steward' => 'Stewards',
-	'group-sysadmin' => 'administradores del sistema',
+	'group-sysadmin' => 'Administradores del sistema',
 	'group-Editinterface' => 'Editores de interfaz',
 	'group-Global_bot' => 'bots globales',
 	'group-Global_rollback' => 'Reversores globales',
@@ -2137,9 +2138,9 @@ $messages['es'] = array(
 	'group-sysadmin-member' => 'administrador del sistema',
 	'group-Editinterface-member' => 'editor de interfaz',
 	'group-Global_bot-member' => 'bot global',
-	'group-Global_rollback-member' => 'Reversor global',
+	'group-Global_rollback-member' => 'reversor global',
 	'group-Ombudsmen-member' => 'defensor de la comunidad',
-	'group-Staff-member' => 'Miembro del staff',
+	'group-Staff-member' => 'miembro del staff',
 	'group-coder' => 'Programadores',
 	'group-coder-member' => 'programador',
 	'group-inactive' => 'Usuarios inactivos',
@@ -4485,7 +4486,15 @@ $messages['ko'] = array(
  * @author Iltever
  */
 $messages['krc'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate',
+	'sitesupport' => 'Садакъа',
+	'tooltip-n-sitesupport' => 'Бизге болушугъуз',
+	'group-autopatrolled' => 'Автопатруль этилиниучюле',
+	'group-autopatroller' => 'Автопатруль этилиниучюле',
 	'group-bigexport' => 'Уллу экспортёрла',
+	'group-flood-member' => 'бот къошулуучула',
+	'group-import-member' => 'импортчу',
+	'group-transwiki-member' => 'Викиле арасы импорт этиучю',
 );
 
 /** Kinaray-a (Kinaray-a)
