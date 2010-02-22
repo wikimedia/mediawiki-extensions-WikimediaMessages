@@ -15,7 +15,6 @@ $wgExtensionCredits['other'][] = array(
 	'name'           => 'WikimediaLicenseTexts',
 	'url'            => 'http://www.mediawiki.org/wiki/Extension:WikimediaMessages',
 	'author'         => array( 'Multichill', 'Siebrand Mazeland' ),
-	'description'    => 'Wikimedia license texts',
 	'descriptionmsg' => 'wikimedialicensetexts-desc',
 );
 
