@@ -1999,11 +1999,14 @@ $messages['eo'] = array(
 	'wm-license-cc-attribution' => 'Atribuado',
 	'wm-license-cc-by-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/deed.eo Atribuado 1.0 Ĝenerala] permesilo',
 	'wm-license-cc-by-1.0-fi-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/1.0/fi/deed.eo Atribuite 1.0 Finnujo].',
+	'wm-license-cc-by-1.0-il-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/1.0/il/deed.eo Atribuite 1.0 Israelo].',
 	'wm-license-cc-by-1.0-nl-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/nl/deed.eo Atribuite 1.0 Nederlando] permesilo.',
 	'wm-license-cc-by-2.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/deed.eo Atribuada 2.0 Ĝenerala] permesilo',
 	'wm-license-cc-by-2.0-at-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/at/deed.eo Atribuite 2.0 Aŭstrio] permesilo.',
+	'wm-license-cc-by-2.0-au-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/2.0/au/deed.eo Atribuite 2.0 Aŭstralio].',
 	'wm-license-cc-by-2.0-be-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/be/deed.eo Atribuite 2.0 Belgio] permesilo.',
 	'wm-license-cc-by-2.0-br-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/br/deed.eo Atribuite 2.0 Brazilo] permesilo.',
+	'wm-license-cc-by-2.0-ca-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/2.0/ca/deed.eo Atribuite 2.0 Kanado].',
 	'wm-license-cc-by-2.0-cl-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/cl/deed.eo Atribuite 2.0 Ĉilio] permesilo.',
 	'wm-license-cc-by-2.0-de-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/de/deed.eo Atribuite 2.0 Germanujo] permesilo',
 	'wm-license-cc-by-2.0-es-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/es/deed.eo Atribuite 2.0 Hispanujo] permesilo',
@@ -2109,6 +2112,7 @@ $messages['eo'] = array(
 	'wm-license-information-permission-reusing-text' => 'Reuzante ĉi tiun dosieron',
 	'wm-license-information-permission-see-below' => 'Vidu sube.',
 	'wm-license-information-other-versions' => 'Ceteraj versioj',
+	'wm-license-self-one-license' => 'Mi, la posedanto de la aŭtorrajto de ĉi tiu verko, ja publikigas ĝin sub per la jena permesilo:',
 	'wm-license-self-multiple-licenses' => 'Mi, la aŭtorrajta posedanto de ĉi tiu verko, ja publikigis ĝin sub la jenaj permisiloj:',
 	'wm-license-self-multiple-licenses-select' => 'Vi povas elekti la permesilon preferatan.',
 );
@@ -7619,6 +7623,13 @@ $messages['vec'] = array(
 	'wm-license-self-multiple-licenses' => "Mi, che detegno el dirito d'autor su sta opera, la pùblico qua soto le seguenti license:",
 	'wm-license-self-multiple-licenses-with-author' => "$1, che el detien el dirito d'autor su sta opera, el la pùblica qua soto le seguenti license:",
 	'wm-license-self-multiple-licenses-select' => 'Te poli indicar la licensa che te preferissi.',
+);
+
+/** Veps (Vepsan kel')
+ * @author Игорь Бродский
+ */
+$messages['vep'] = array(
+	'wm-license-cc-attribution' => 'Avtoran nimi',
 );
 
 /** Vietnamese (Tiếng Việt)

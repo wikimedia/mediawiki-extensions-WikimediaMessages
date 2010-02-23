@@ -6405,7 +6405,7 @@ $messages['pt'] = array(
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 pode estar sujeito a condições adicionais.
 Consulte as <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para mais detalhes.',
-	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/deed.pt Creative Commons Atribuição-Compartilhamento pela mesma Licença 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de uma hiperligação ou URL para a página em que está a contribuir. Consulte as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para mais detalhes.',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
 Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer condições de licenciamento relevantes.',
@@ -8566,9 +8566,11 @@ $messages['vep'] = array(
 	'group-autoreviewer' => 'avtomatižed arvostelijad',
 	'group-bigexport' => 'Järedad eksportörad',
 	'group-confirmed' => 'vahvištoittud kävutajad',
+	'group-flood' => 'Botad-kävutajad',
 	'group-founder' => 'Alusenpanijad',
 	'group-import' => 'Importörad',
 	'group-ipblock-exempt' => 'Erindad IP-blokiruindoišpäi',
+	'group-patroller' => 'Patrulirujad',
 	'group-rollbacker' => 'Endištajad',
 	'group-transwiki' => 'Importörad Transwikišpäi',
 	'group-abusefilter-member' => "pahan kävutamižen fil'tr",
@@ -8581,6 +8583,7 @@ $messages['vep'] = array(
 	'group-founder-member' => 'alusenpanii',
 	'group-import-member' => 'importör',
 	'group-ipblock-exempt-member' => 'Erind IP-blokiruindoišpäi',
+	'group-patroller-member' => 'patrulirui',
 	'group-rollbacker-member' => 'endištai',
 	'group-transwiki-member' => 'importör Transwikišpäi',
 	'grouppage-abusefilter' => "{{ns:project}}:Abidoičendan fil'tran redaktorad",
