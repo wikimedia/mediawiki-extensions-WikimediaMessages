@@ -827,6 +827,10 @@ $messages['bg'] = array(
 	'wm-license-information-permission' => 'Права',
 	'wm-license-information-permission-see-below' => 'вж. по-долу',
 	'wm-license-information-other-versions' => 'други версии',
+	'wm-license-self-one-license' => 'Аз, носителят на авторските права над тази творба, я публикувам тук под следния лиценз:',
+	'wm-license-self-one-license-with-author' => '$1, носителят на авторските права над тази творба, я публикува тук под следния лиценз:',
+	'wm-license-self-multiple-licenses' => 'Аз, носителят на авторските права над тази творба, я публикувам тук под следните лицензи:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, носителят на авторските права над тази творба, я публикува тук под следните лицензи:',
 	'wm-license-self-multiple-licenses-select' => 'Можете да изберете лиценз по Ваш избор.',
 );
 

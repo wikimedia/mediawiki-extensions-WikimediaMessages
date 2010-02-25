@@ -801,7 +801,7 @@ $messages['be'] = array(
  */
 $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
-	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/be-tarask',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Ахвяраваньні',
 	'sitesupport' => 'Ахвяраваньні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
 	'group-abusefilter' => 'Рэдактары фільтру злоўжываньняў',
