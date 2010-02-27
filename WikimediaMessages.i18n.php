@@ -1128,7 +1128,7 @@ $messages['br'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Implijerien dioberiant',
 	'wikimedia-copyright' => 'Gallout a reer implijout an testennoù zo dindan <a href="http://creativecommons.org/licenses/by-sa/3.0/">an Aotre Implijout Creative Commons Dereiñ/Kenrannañ</a>;
 divizoù ouzhpenn a c\'hall bezañ ivez.
-Gwelet an <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Doreoù Implijout</a> evit gouzout hiroc\'h.',
+Gwelet an <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Doareoù Implijout</a> evit gouzout hiroc\'h.',
 	'wikimedia-copyrightwarning' => "Dre glikañ war enrollañ ec'h asantit enskrivañ da viken ho tegasadennoù dindan [http://creativecommons.org/licenses/by-sa/3.0/ an Aotre implijout Creative Commons Dereiñ/Kenrannañ 3.0] hag ar [http://www.gnu.org/copyleft/fdl.html GFDL].
 Degemer a rit ma vo, da nebeutañ, lakaet war ho kont dre ur gourliamm pe un URL ar bajenn hoc'h eus kemeret perzh enni.
 Gwelet [http://wikimediafoundation.org/wiki/Terms_of_Use an Doareoù Implijout] evit gouzout hiroc'h.",
@@ -6315,7 +6315,7 @@ $messages['ps'] = array(
 	'group-Staff-member' => 'د املې غړی',
 	'group-inactive' => 'ناچارنده کارنان',
 	'group-inactive-member' => 'ناچارنده کارن',
-	'wikimedia-editpage-tos-summary' => 'که چېرته تاسې نه غواړۍ چې ستاسو په ليکنو کې خپلسري بدلون، سمون او بياخپرونه وشي، نو دلته يې مه خپروۍ. که چېرته تاسې دا متن پخپله نه وي ليکلی، نو پکار ده چې ستاسې دا مېنځپانګه [http://wikimediafoundation.org/wiki/Terms_of_Use د کارولو دريځ] سره سمه وي او تاسې هم د اړونده لايسنس غوښتنې منلې وي.',
+	'wikimedia-editpage-tos-summary' => 'که چېرته تاسې نه غواړۍ چې ستاسې په ليکنو کې خپلسري بدلون، سمون او بياخپرونه وشي، نو دلته يې مه خپروۍ. که چېرته تاسې دا متن پخپله نه وي ليکلی، نو پکار ده چې ستاسې دا مېنځپانګه [http://wikimediafoundation.org/wiki/Terms_of_Use د کارولو دريځ] سره سمه وي او تاسې هم د اړونده لايسنس غوښتنې منلې وي.',
 );
 
 /** Portuguese (Português)
