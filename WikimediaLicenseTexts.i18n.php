@@ -443,11 +443,17 @@ $messages['af'] = array(
 	'wm-license-information-permission-reusing-text' => 'Hergebruik van die lêer',
 	'wm-license-information-permission-see-below' => 'Sien onder.',
 	'wm-license-information-other-versions' => 'Ander weergawes',
+	'wm-license-own-work' => 'eie werk',
 	'wm-license-self-one-license' => 'Ek, die outeursreghouer van hierdie werk, publiseer dit onder die volgende lisensie:',
 	'wm-license-self-one-license-with-author' => '$1, die outeursreghouer van hierdie werk, publiseer dit onder die volgende lisensie:',
 	'wm-license-self-multiple-licenses' => 'Ek, die outeursreghouer van hierdie werk, publiseer dit onder die volgende lisensie:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, die outeursreghouer van hierdie werk, publiseer dit onder die volgende lisensie:',
 	'wm-license-self-multiple-licenses-select' => 'U kan die lisensie van u keuse kies.',
+);
+
+/** Aragonese (Aragonés) */
+$messages['an'] = array(
+	'wm-license-own-work' => 'Treballo de qui la cargó',
 );
 
 /** Old English (Anglo-Saxon) */
@@ -548,6 +554,7 @@ $messages['ar'] = array(
 	'wm-license-information-permission-see-below' => 'انظر أدناه.',
 	'wm-license-information-other-versions' => 'إصدارات أخرى',
 	'wm-license-lgpl-wiki-link' => 'w:ar:رخصة جنو العمومية الصغرى',
+	'wm-license-own-work' => 'عمل شخصي',
 	'wm-license-self-multiple-licenses-select' => 'لك أن تختار الرخصة التي تناسبك.',
 );
 
@@ -578,6 +585,7 @@ $messages['ast'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ast:Software llibre',
 	'wm-license-gfdl-wiki-link' => 'w:ast:GNU FDL',
 	'wm-license-gpl-wiki-link' => 'w:ast:GNU General Public License',
+	'wm-license-own-work' => 'Trabayu propiu',
 );
 
 /** Azerbaijani (Azərbaycan) */
@@ -797,6 +805,7 @@ $messages['be-tarask'] = array(
 	'wm-license-information-permission-reusing-text' => 'Паўторнае выкарыстаньне гэтага файла',
 	'wm-license-information-permission-see-below' => 'Глядзіце ніжэй.',
 	'wm-license-information-other-versions' => 'Іншыя вэрсіі',
+	'wm-license-own-work' => 'Уласны твор',
 	'wm-license-self-one-license' => 'Я, уладальнік аўтарскіх правоў на гэтую працу, дабравольна публікую яе згодна ўмоваў наступнай ліцэнзіі:',
 	'wm-license-self-one-license-with-author' => '$1, уладальнік аўтарскіх правоў на гэтую працу, дабравольна публікуе яе згодна ўмоваў наступнай ліцэнзіі:',
 	'wm-license-self-multiple-licenses' => 'Я, уладальнік аўтарскіх правоў на гэту працу, дабравольна публікую яе згодна ўмоваў наступных ліцэнзіяў:',
@@ -932,6 +941,7 @@ $messages['bg'] = array(
 	'wm-license-information-permission' => 'Права',
 	'wm-license-information-permission-see-below' => 'вж. по-долу',
 	'wm-license-information-other-versions' => 'други версии',
+	'wm-license-own-work' => 'Собствена творба',
 	'wm-license-self-one-license' => 'Аз, носителят на авторските права над тази творба, я публикувам тук под следния лиценз:',
 	'wm-license-self-one-license-with-author' => '$1, носителят на авторските права над тази творба, я публикува тук под следния лиценз:',
 	'wm-license-self-multiple-licenses' => 'Аз, носителят на авторските права над тази творба, я публикувам тук под следните лицензи:',
@@ -1217,6 +1227,7 @@ $messages['bs'] = array(
 	'wm-license-information-permission-reusing-text' => 'Naknadno korištenje ove datoteke',
 	'wm-license-information-permission-see-below' => 'Vidi ispod.',
 	'wm-license-information-other-versions' => 'Ostale verzije',
+	'wm-license-own-work' => 'Vlastito djelo',
 );
 
 /** Catalan (Català)
@@ -1351,6 +1362,7 @@ $messages['ca'] = array(
 	'wm-license-information-permission-see-below' => 'Vegeu més avall',
 	'wm-license-information-other-versions' => 'Altres versions',
 	'wm-license-lgpl-wiki-link' => 'w:ca:LGPL',
+	'wm-license-own-work' => 'Treball propi',
 	'wm-license-self-multiple-licenses-select' => 'Podeu seleccionar la llicència que vulgueu.',
 );
 
@@ -1768,6 +1780,7 @@ $messages['da'] = array(
 	'wm-license-information-table-summary' => 'En standardiseret skema giver fuldstændige oplysninger om den fil, herunder beskrivelse, hvad det viser, og hvordan det blev gjort, information om ophavsret og kilde.',
 	'wm-license-information-description' => 'Beskrivelse',
 	'wm-license-information-description-missing' => "Denne fil har ingen '''beskrivelse''' og kan mangle andre oplysninger.",
+	'wm-license-information-description-missing-request' => 'Giv venligst en meningsfyldt beskrivelse af denne fil.',
 	'wm-license-information-source' => 'Kilde',
 	'wm-license-information-source-missing' => "Denne fil mangler information om dets '''kilder'''.",
 	'wm-license-information-source-missing-request' => 'Rediger denne fils beskrivelse og angiv en kilde.',
@@ -1800,32 +1813,56 @@ $messages['de'] = array(
 	'wm-license-cc-attribution' => 'Namensnennung',
 	'wm-license-cc-by-1.0-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/1.0/deed.de Namensnennung 1.0 US-amerikanisch (nicht portiert)] lizenziert.',
 	'wm-license-cc-by-1.0-fi-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/1.0/fi/deed.de Namensnennung 1.0 Finnland] lizenziert.',
+	'wm-license-cc-by-1.0-il-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/1.0/il/deed.de Namensnennung 1.0 Israel] lizenziert.',
 	'wm-license-cc-by-1.0-nl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/1.0/nl/deed.de Namensnennung 1.0 Niederlande] lizenziert.',
 	'wm-license-cc-by-2.0-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/deed.de Namensnennung 2.0 US-amerikanisch (nicht portiert)] lizenziert.',
 	'wm-license-cc-by-2.0-at-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/at/deed.de Namensnennung 2.0 Österreich] lizenziert.',
+	'wm-license-cc-by-2.0-au-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/au/deed.de Namensnennung 2.0 Australien] lizenziert.',
 	'wm-license-cc-by-2.0-be-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/be/deed.de Namensnennung 2.0 Belgien] lizenziert.',
 	'wm-license-cc-by-2.0-br-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/br/deed.de Namensnennung 2.0 Brasilien] lizenziert.',
+	'wm-license-cc-by-2.0-ca-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/ca/deed.de Namensnennung 2.0 Kanada] lizenziert.',
 	'wm-license-cc-by-2.0-cl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/deed.de Namensnennung 2.0 Chile] lizenziert.',
 	'wm-license-cc-by-2.0-de-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/de/deed.de Namensnennung 2.0 Deutschland] lizenziert.',
 	'wm-license-cc-by-2.0-es-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/es/deed.de Namensnennung 2.0 Spanien] lizenziert.',
 	'wm-license-cc-by-2.0-fr-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/fr/deed.de Namensnennung 2.0 Frankreich] lizenziert.',
+	'wm-license-cc-by-2.0-hr-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/hr/deed.de Namensnennung 2.0 Kroatien] lizenziert.',
 	'wm-license-cc-by-2.0-it-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/it/deed.de Namensnennung 2.0 Italien] lizenziert.',
+	'wm-license-cc-by-2.0-jp-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/jp/deed.de Namensnennung 2.0 Japan] lizenziert.',
 	'wm-license-cc-by-2.0-kr-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/kr/deed.de Namensnennung 2.0 Korea] lizenziert.',
 	'wm-license-cc-by-2.0-nl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/nl/deed.de Namensnennung 2.0 Niederlande] lizenziert.',
+	'wm-license-cc-by-2.0-pl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/pl/deed.de Namensnennung 2.0 Polen] lizenziert.',
+	'wm-license-cc-by-2.0-tw-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/tw/deed.de Namensnennung 2.0 Taiwan] lizenziert.',
+	'wm-license-cc-by-2.0-uk-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/uk/deed.de Namensnennung 2.0 UK: England & Wales] lizenziert.',
+	'wm-license-cc-by-2.0-za-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.0/za/deed.de Namensnennung 2.0 Südafrika] lizenziert.',
+	'wm-license-cc-by-2.1-au-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.1/au/deed.de Namensnennung 2.1 Australien] lizenziert.',
+	'wm-license-cc-by-2.1-es-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.1/es/deed.de Namensnennung 2.1 Spanien] lizenziert.',
+	'wm-license-cc-by-2.1-jp-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.1/jp/deed.de Namensnennung 2.1 Japan] lizenziert.',
 	'wm-license-cc-by-2.5-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/deed.de Namensnennung 2.5 US-amerikanisch (nicht portiert)] lizenziert.',
 	'wm-license-cc-by-2.5-au-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/au/deed.de Namensnennung 2.5 Australien] lizenziert.',
 	'wm-license-cc-by-2.5-bg-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/bg/deed.de Namensnennung 2.5 Bulgarien] lizenziert.',
 	'wm-license-cc-by-2.5-br-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/br/deed.de Namensnennung 2.5 Brasilien] lizenziert.',
+	'wm-license-cc-by-2.5-ca-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/ca/deed.de Namensnennung 2.5 Kanada] lizenziert.',
+	'wm-license-cc-by-2.5-ch-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/ch/deed.de Namensnennung 2.5 Schweiz] lizenziert.',
 	'wm-license-cc-by-2.5-cn-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/cn/deed.de Namensnennung 2.5 Volksrepublik China] lizenziert.',
+	'wm-license-cc-by-2.5-co-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/co/deed.de Namensnennung 2.5 Kolumbien] lizenziert.',
 	'wm-license-cc-by-2.5-dk-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/dk/deed.de Namensnennung 2.5Dänemark] lizenziert.',
 	'wm-license-cc-by-2.5-es-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/es/deed.de Namensnennung 2.5 Spanien] lizenziert.',
+	'wm-license-cc-by-2.5-hr-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/hr/deed.de Namensnennung 2.5 Kroatien] lizenziert.',
+	'wm-license-cc-by-2.5-hu-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/hu/deed.de Namensnennung 2.5 Ungarn] lizenziert.',
+	'wm-license-cc-by-2.5-il-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/il/deed.de Namensnennung 2.5 Israel] lizenziert.',
 	'wm-license-cc-by-2.5-in-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/in/deed.de Namensnennung 2.5 Indien] lizenziert.',
 	'wm-license-cc-by-2.5-it-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/it/deed.de Namensnennung 2.5 Italien] lizenziert.',
+	'wm-license-cc-by-2.5-mk-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/mk/deed.de Namensnennung 2.5 Mazedonien] lizenziert.',
+	'wm-license-cc-by-2.5-mt-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/mt/deed.de Namensnennung 2.5 Malta] lizenziert.',
+	'wm-license-cc-by-2.5-mx-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/mx/deed.de Namensnennung 2.5 Mexiko] lizenziert.',
 	'wm-license-cc-by-2.5-my-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/my/deed.de Namensnennung 2.5 Malaysia] lizenziert.',
 	'wm-license-cc-by-2.5-nl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/nl/deed.de Namensnennung 2.5 Niederlande] lizenziert.',
 	'wm-license-cc-by-2.5-pe-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/pe/deed.de Namensnennung 2.5 Peru] lizenziert.',
 	'wm-license-cc-by-2.5-pl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/pl/deed.de Namensnennung 2.5 Polen] lizenziert.',
+	'wm-license-cc-by-2.5-pt-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/pt/deed.de Namensnennung 2.5 Portugal] lizenziert.',
+	'wm-license-cc-by-2.5-scotland-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/scotland/deed.de Namensnennung 2.5 Schottland] lizenziert.',
 	'wm-license-cc-by-2.5-se-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/se/deed.de Namensnennung 2.5 Schweden] lizenziert.',
+	'wm-license-cc-by-2.5-si-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/si/deed.de Namensnennung 2.5 Slowenien] lizenziert.',
 	'wm-license-cc-by-3.0-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/deed.de Namensnennung 3.0 Unported] lizenziert.',
 	'wm-license-cc-by-3.0-at-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/at/deed.de Namensnennung 3.0 Österreich] lizenziert.',
 	'wm-license-cc-by-3.0-de-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/de/deed.de Namensnennung 3.0 Deutschland] lizenziert.',
@@ -1924,6 +1961,7 @@ Wenn du etwas davon weißt oder Zugang zu solchen Informationen hast, füge dies
 	'wm-license-information-permission-see-below' => 'Siehe unten',
 	'wm-license-information-other-versions' => 'Andere Versionen',
 	'wm-license-lgpl-wiki-link' => 'w:de:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Eigene Arbeit',
 	'wm-license-self-one-license' => 'Ich, der Urheber dieses Werkes, veröffentliche es unter der folgenden Lizenz:',
 	'wm-license-self-multiple-licenses' => 'Ich, der Urheberrechtsinhaber dieses Werkes, veröffentliche es hiermit unter der folgenden Lizenz:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, der Urheberrechtsinhaber dieses Werkes, veröffentlicht es hiermit unter der folgenden Lizenz:',
@@ -2246,6 +2284,7 @@ $messages['el'] = array(
 	'wm-license-information-permission-reusing-text' => 'Επαναχρησιμοποίηση αυτού του αρχείου',
 	'wm-license-information-permission-see-below' => 'Δείτε παρακάτω',
 	'wm-license-information-other-versions' => 'άλλες εκδόσεις',
+	'wm-license-own-work' => 'Έργο αυτού που το ανεβάζει',
 	'wm-license-self-one-license' => 'Εγώ, ο κάτοχος των πνευματικών δικαιωμάτων αυτού του έργου, το δημοσιεύω δια του παρώντος υπό την εξής άδεια χρήσης:',
 	'wm-license-self-one-license-with-author' => '$1, ο κάτοχος των πνευματικών δικαιωμάτων αυτού του έργου, το δημοσιεύει δια του παρώντος υπό την εξής άδεια χρήσης:',
 	'wm-license-self-multiple-licenses' => 'Εγώ, ο κάτοχος των πνευματικών δικαιωμάτων αυτού του έργου, το δημοσιεύω δια του παρώντος υπό τις εξής άδειες χρήσης:',
@@ -2386,6 +2425,7 @@ $messages['eo'] = array(
 	'wm-license-information-permission-reusing-text' => 'Reuzante ĉi tiun dosieron',
 	'wm-license-information-permission-see-below' => 'Vidu sube.',
 	'wm-license-information-other-versions' => 'Ceteraj versioj',
+	'wm-license-own-work' => 'Propra verko',
 	'wm-license-self-one-license' => 'Mi, la posedanto de la aŭtorrajto de ĉi tiu verko, ja publikigas ĝin sub per la jena permesilo:',
 	'wm-license-self-multiple-licenses' => 'Mi, la aŭtorrajta posedanto de ĉi tiu verko, ja publikigis ĝin sub la jenaj permisiloj:',
 	'wm-license-self-multiple-licenses-select' => 'Vi povas elekti la permesilon preferatan.',
@@ -2571,6 +2611,7 @@ $messages['es'] = array(
 	'wm-license-information-permission-see-below' => 'Mirar abajo.',
 	'wm-license-information-other-versions' => 'Otras versiones',
 	'wm-license-lgpl-wiki-link' => 'w:es:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Trabajo propio',
 	'wm-license-self-one-license' => 'Yo, titular de los derechos de autor de esta obra, la publico en los términos de la siguiente licencia:',
 	'wm-license-self-one-license-with-author' => '$1, titular de los derechos de autor de esta obra, la publica en los términos de la siguiente licencia:',
 	'wm-license-self-multiple-licenses' => 'Yo, titular de los derechos de autor de esta obra, la publico en los términos de las siguientes licencias:',
@@ -2772,6 +2813,7 @@ $messages['et'] = array(
 	'wm-license-information-permission-see-below' => 'Vaata allpool.',
 	'wm-license-information-other-versions' => 'Teised versioonid',
 	'wm-license-lgpl-wiki-link' => 'w:et:GNU Vähem Üldine Avalik Litsents',
+	'wm-license-own-work' => 'Üleslaadija oma töö',
 	'wm-license-self-one-license' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgneva litsentsi all:',
 	'wm-license-self-one-license-with-author' => '$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgneva litsentsi all:',
 	'wm-license-self-multiple-licenses' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgnevate litsentside all:',
@@ -2810,6 +2852,7 @@ $messages['eu'] = array(
 	'wm-license-information-permission-see-below' => 'Azpian ikusi.',
 	'wm-license-information-other-versions' => 'Beste bertsioak',
 	'wm-license-lgpl-wiki-link' => 'w:eu:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Norberak egina',
 	'wm-license-self-multiple-licenses-select' => 'Nahiago duzun lizentzia erabil dezakezu.',
 );
 
@@ -2847,6 +2890,7 @@ $messages['fa'] = array(
 	'wm-license-information-permission-see-below' => 'پایین را نگاه کنید.',
 	'wm-license-information-other-versions' => 'دیگر نسخه‌ها',
 	'wm-license-lgpl-wiki-link' => 'w:fa:ال‌جی‌پی‌ال',
+	'wm-license-own-work' => 'اثر شخصی',
 	'wm-license-self-multiple-licenses-select' => 'شما اجازه دارید مجوز خود را انتخاب انتخاب کنید.',
 );
 
@@ -2980,6 +3024,7 @@ $messages['fi'] = array(
 	'wm-license-information-permission-see-below' => 'Katso alapuolelle.',
 	'wm-license-information-other-versions' => 'Muut versiot',
 	'wm-license-lgpl-wiki-link' => 'w:fi:GNU LGPL',
+	'wm-license-own-work' => 'Oma teos',
 	'wm-license-self-multiple-licenses-select' => 'Voit valita yllä olevista lisensseistä sen, jota haluat käyttää.',
 );
 
@@ -3262,6 +3307,7 @@ $messages['fy'] = array(
 	'wm-license-information-permission' => 'Tastimming',
 	'wm-license-information-permission-see-below' => 'Sjoch ûnder.',
 	'wm-license-information-other-versions' => 'Oare ferzjes',
+	'wm-license-own-work' => 'Eigen wurk',
 );
 
 /** Irish (Gaeilge) */
@@ -3280,6 +3326,7 @@ $messages['ga'] = array(
 	'wm-license-information-permission' => 'Ceadúnas',
 	'wm-license-information-permission-see-below' => 'Féach thíos',
 	'wm-license-information-other-versions' => 'Leaganacha eile',
+	'wm-license-own-work' => 'Obair féin',
 	'wm-license-self-multiple-licenses-select' => 'Is féidir leat a roghnú an ceadúnas do rogha',
 );
 
@@ -3681,6 +3728,8 @@ $messages['gsw'] = array(
 	'wm-license-information-permission-reusing-text' => 'Wyternutzig vu däre Datei',
 	'wm-license-information-permission-see-below' => 'Lueg unte.',
 	'wm-license-information-other-versions' => 'Anderi Versione',
+	'wm-license-lgpl-wiki-link' => 'w:als:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Eigeni Arbet',
 	'wm-license-self-one-license' => 'Ich haa s Urheberrächt an däm Wärch un vereffetlig s dodermit unter däre Lizänz:',
 	'wm-license-self-one-license-with-author' => '$1, dr Urheber vu däm Wärch, vereffetligt s dodermit unter däre Lizänz:',
 	'wm-license-self-multiple-licenses' => 'Ich haa s Urheberrächt an däm Wärch un vereffetlig s dodermit unter däne Lizänze:',
@@ -3733,6 +3782,7 @@ $messages['he'] = array(
 	'wm-license-information-permission' => 'אישורים והיתרים',
 	'wm-license-information-permission-see-below' => 'ראו להלן',
 	'wm-license-information-other-versions' => 'גרסאות אחרות',
+	'wm-license-own-work' => 'נוצר על ידי מעלה היצירה',
 	'wm-license-self-multiple-licenses-select' => 'הנכם מוזמנים לבחור את הרישיון הרצוי בעיניך.',
 );
 
@@ -3765,6 +3815,7 @@ $messages['hr'] = array(
 	'wm-license-information-permission' => 'Dopuštenje',
 	'wm-license-information-permission-see-below' => 'vidi dolje',
 	'wm-license-information-other-versions' => 'Ostale inačice',
+	'wm-license-own-work' => 'Vlastito djelo postavljača',
 	'wm-license-self-multiple-licenses-select' => 'Možete odabrati licenciju prema vašem izboru.',
 );
 
@@ -3998,6 +4049,7 @@ $messages['hu'] = array(
 	'wm-license-information-permission-see-below' => 'Lásd lent.',
 	'wm-license-information-other-versions' => 'Más változatok',
 	'wm-license-lgpl-wiki-link' => 'w:hu:GNU Lesser General Public License',
+	'wm-license-own-work' => 'A feltöltő saját munkája',
 	'wm-license-self-multiple-licenses-select' => 'A mű a fenti licencek bármelyike szerint felhasználható.',
 );
 
@@ -4019,6 +4071,7 @@ $messages['hy'] = array(
 	'wm-license-information-permission' => 'Իրավունքներ',
 	'wm-license-information-permission-see-below' => 'Տես տակը',
 	'wm-license-information-other-versions' => 'Այլ մեկնակերպներ',
+	'wm-license-own-work' => 'Բեռնողի սեփական աշխատանք',
 );
 
 /** Interlingua (Interlingua)
@@ -4274,6 +4327,7 @@ $messages['id'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:id:Lisensi Dokumentasi Bebas GNU',
 	'wm-license-gpl-wiki-link' => 'w:id:Lisensi Publik Umum GNU',
 	'wm-license-lgpl-wiki-link' => 'w:id:LGPL',
+	'wm-license-own-work' => 'Karya sendiri',
 );
 
 /** Igbo (Igbo)
@@ -4370,6 +4424,7 @@ $messages['it'] = array(
 	'wm-license-information-permission-see-below' => 'Vedi sotto.',
 	'wm-license-information-other-versions' => 'Altre versioni',
 	'wm-license-lgpl-wiki-link' => 'w:it:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Opera propria',
 	'wm-license-self-multiple-licenses-select' => 'Puoi scegliere la licenza che preferisci.',
 );
 
@@ -4548,7 +4603,7 @@ $messages['ja'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.ja 継承 1.0 オランダ]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-sa-2.0-jp-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.ja 継承 2.0 日本]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-zero-text' => 'このファイルは、[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [http://creativecommons.org/publicdomain/zero/1.0/deed.ja CC0 放棄]のもとで利用可能なように作成されました。',
-	'wm-license-cc-zero-explanation' => 'この文書に添付された作品に関連付けられた人は、その作品を、彼または彼女が、その作品に対して、著作権法またはその他の全ての関連・近隣法によるあらゆる権利を、法令が許す範囲内で全世界的に放棄しています。CC0で利用可能な作品は、表示（帰属）を必要としません。あなたがその作品を参照するときは、著者による保証があるように書いてはいけません。',
+	'wm-license-cc-zero-explanation' => 'この文書の作成に関わった人は、その編集内容に対する、著作権法またはその他の全ての関連・近隣法におけるあらゆる権利を、法令が許す範囲内で、全世界的に放棄し、その編集内容をクリエイティブ・コモンズに提供しています。CC0で利用可能な作品は、表示（帰属）を必要としません。あなたがその作品を参照するときは、その作品が著作者により価値や正確性に対して保証されているかのように書いてはいけません。',
 	'wm-license-cc-free' => 'あなたは以下の条件に従う場合に限り、自由に',
 	'wm-license-cc-free-to-share-header' => '共有',
 	'wm-license-cc-free-to-share-text' => '本作品を複製、頒布、展示、実演することができます。',
@@ -4819,6 +4874,7 @@ $messages['km'] = array(
 	'wm-license-information-permission' => 'ការ​អនុញ្ញាត',
 	'wm-license-information-permission-see-below' => 'សូម​មើល​ខាង​ក្រោម។',
 	'wm-license-information-other-versions' => 'ទំរង់​ផ្សេង​ទៀត',
+	'wm-license-own-work' => 'ការងារផ្ទាល់របស់អ្នកអាប់ឡូដ',
 );
 
 /** Korean (한국어)
@@ -5011,6 +5067,7 @@ $messages['ko'] = array(
 	'wm-license-information-permission-see-below' => '아래 참조',
 	'wm-license-information-other-versions' => '다른 버전',
 	'wm-license-lgpl-wiki-link' => 'w:ko:GNU 약소 일반 공중 사용 허가서',
+	'wm-license-own-work' => '자작',
 	'wm-license-self-one-license' => '나는 아래 작품의 저작권자로서, 이 저작물을 다음과 같은 라이선스로 배포합니다:',
 	'wm-license-self-one-license-with-author' => '$1은(는) 아래 작품의 저작권자로서, 해당 저작물을 다음과 같은 라이선스로 배포합니다:',
 	'wm-license-self-multiple-licenses' => '{{MediaWiki:wm-license-self-one-license/ko}}',
@@ -5076,6 +5133,11 @@ $messages['ksh'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'Wiggerjävve onger derselleve Bedengunge',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann De dat Werk aanpaß, ömwandels, Der  zeräsch mähß, udder drop opbouß, dann darrefs De dat, wat derbei eruß kütt, bloß onger derselleve Bedengunge, undder jannz ähnlesche Bedengunge wigger jävve, wi di Lizänz hee.',
 	'wm-license-gfdl-wiki-link' => 'w:ksh:GNU Lizännz för n fräĳe Dokementazjon',
+);
+
+/** Latin (Latina) */
+$messages['la'] = array(
+	'wm-license-own-work' => 'Opus proprium',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -5310,6 +5372,7 @@ $messages['lt'] = array(
 	'wm-license-information-permission-see-below' => 'Žiūrėkite žemiau.',
 	'wm-license-information-other-versions' => 'Kitos versijos',
 	'wm-license-lgpl-wiki-link' => 'w:lt:LGPL',
+	'wm-license-own-work' => 'Mano darbas',
 	'wm-license-self-multiple-licenses-select' => 'Galite pasirinkti, kurią licenciją norite naudoti.',
 );
 
@@ -5318,6 +5381,7 @@ $messages['lv'] = array(
 	'wm-license-free-software-wiki-link' => 'w:lv:Brīvā programmatūra',
 	'wm-license-gfdl-wiki-link' => 'w:lv:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:lv:GNU Vispārējā publiskā licence',
+	'wm-license-own-work' => 'Paša darbs',
 );
 
 /** Basa Banyumasan (Basa Banyumasan) */
@@ -5624,7 +5688,7 @@ $messages['ml'] = array(
 	'wm-license-cc-by-2.5-tw-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/2.1/tw/ ആട്രിബ്യൂഷൻ 2.5 തായ്‌‌വാൻ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-2.5-za-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/2.1/za/ ആട്രിബ്യൂഷൻ 2.5 ദക്ഷിണാഫ്രിക്ക] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-3.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/3.0/ ആട്രിബ്യൂഷൻ 3.0 അൺപോർട്ടഡ്] അനുവാദപത്ര പ്രകാരമാണ്.',
-	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] ആട്രിബ്യൂഷൻ [http://creativecommons.org/licenses/by/3.0/deed.en 3.0 അൺപോർട്ടട്], [http://creativecommons.org/licenses/by/2.5/deed.en 2.5 സാമാന്യ], [http://creativecommons.org/licenses/by/2.0/deed.en 2.0 സാമാന്യ] ഒപ്പം [http://creativecommons.org/licenses/by/1.0/deed.en 1.0 സാമാന്യ] അനുവാദപത്രങ്ങൾ പ്രകാരമാണ്.',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] ആട്രിബ്യൂഷൻ [http://creativecommons.org/licenses/by/3.0/ 3.0 അൺപോർട്ടട്], [http://creativecommons.org/licenses/by/2.5/ 2.5 സാമാന്യ], [http://creativecommons.org/licenses/by/2.0/ 2.0 സാമാന്യ] ഒപ്പം [http://creativecommons.org/licenses/by/1.0/ 1.0 സാമാന്യ] അനുവാദപത്രങ്ങൾ പ്രകാരമാണ്.',
 	'wm-license-cc-by-3.0-at-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/3.0/at/ ആട്രിബ്യൂഷൻ 3.0 ഓസ്ട്രിയ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-3.0-cz-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]]  [http://creativecommons.org/licenses/by/3.0/cz/ ആട്രിബ്യൂഷൻ 3.0 ചെക്ക് റിപ്പബ്ലിക്ക്] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-3.0-de-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by/3.0/de/ ആട്രിബ്യൂഷൻ 3.0 ജർമ്മനി] അനുവാദപത്ര പ്രകാരമാണ്.',
@@ -5673,7 +5737,7 @@ $messages['ml'] = array(
 	'wm-license-cc-by-sa-2.1-es-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.1/es/  ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.1 സ്പെയിൻ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.1/jp/  ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.1 ജപ്പാൻ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-2.5-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 സാമാന്യ] അനുവാദപത്ര പ്രകാരമാണ്.',
-	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് [http://creativecommons.org/licenses/by-sa/2.5/deed.en 2.5 സാമാന്യ], [http://creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 സാമാന്യ] ഒപ്പം [http://creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 സാമാന്യ] അനുവാദപത്രങ്ങൾ പ്രകാരമാണ്.',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 സാമാന്യ], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 സാമാന്യ] ഒപ്പം [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 സാമാന്യ] അനുവാദപത്രങ്ങൾ പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/ar/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 അർജന്റീന] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-2.5-au-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/au/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 ഓസ്ട്രേലിയ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/bg/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 ബൾഗേറിയ] അനുവാദപത്ര പ്രകാരമാണ്.',
@@ -5703,7 +5767,7 @@ $messages['ml'] = array(
 	'wm-license-cc-by-sa-2.5-tw-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/2.5/tw/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 2.5 തായ്‌‌വാൻ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-2.5-za-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]]  [http://creativecommons.org/licenses/by-sa/2.5/za/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക്ക് 2.5 ദക്ഷിണാഫ്രിക്ക] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-3.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 അൺപോർട്ടട്] അനുവാദപത്ര പ്രകാരമാണ്.',
-	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് [http://creativecommons.org/licenses/by-sa/3.0/deed.en 3.0 അൺപോർട്ടട്], [http://creativecommons.org/licenses/by-sa/2.5/deed.en 2.5 സാമാന്യ], [http://creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 സാമാന്യ] ഒപ്പം [http://creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 സാമാന്യ] അനുവാദപത്രങ്ങൾ പ്രകാരമാണ്.',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് [http://creativecommons.org/licenses/by-sa/3.0/ 3.0 അൺപോർട്ടട്], [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 സാമാന്യ], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 സാമാന്യ] ഒപ്പം [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 സാമാന്യ] അനുവാദപത്രങ്ങൾ പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/at/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 ഓസ്ട്രിയ] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]]  [http://creativecommons.org/licenses/by-sa/3.0/cz/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക്ക് 3.0 ചെക്ക് റിപ്പബ്ലിക്ക്] അനുവാദപത്ര പ്രകാരമാണ്.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'ഈ പ്രമാണത്തിന് അനുമതി നൽകപ്പെട്ടിരിക്കുന്നത് [[{{int:wm-license-cc-wiki-link}}|ക്രിയേറ്റീവ് കോമൺസ്]] [http://creativecommons.org/licenses/by-sa/3.0/de/ ആട്രിബ്യൂഷൻ-ഷെയർ എലൈക് 3.0 ജർമ്മനി] അനുവാദപത്ര പ്രകാരമാണ്.',
@@ -5741,6 +5805,8 @@ $messages['ml'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'രചയിതാവോ അനുമതിയുള്ളയാളോ വ്യക്തമാക്കിയിട്ടുള്ള വിധത്തിൽ കൃതിയ്ക്കുള്ള കടപ്പാട് താങ്കൾ നൽകിയിരിക്കണം (പക്ഷേ അത് അവർ താങ്കളേയോ താങ്കളുടെ ഉപയോഗത്തേയോ അടിച്ചേൽപ്പിച്ചതു പോലെയാവരുത്).',
 	'wm-license-cc-conditions-share_alike-header' => 'ഇതു പോലെ പങ്ക് വെയ്ക്കുക',
 	'wm-license-cc-conditions-share_alike-text' => 'ഈ കൃതിയിൽ മാറ്റം വരുത്തിയോ, രൂപാന്തരണം വരുത്തിയോ, ഇതടിസ്ഥാനമാക്കിയോ ഉണ്ടാക്കുന്ന കൃതി ഈ അനുമതിയിലോ ഇതുപോലുള്ള അനുമതിയിലോ മാത്രമേ വിതരണം ചെയ്യാവൂ.',
+	'wm-license-cecill-text' => 'ഈ സൃഷ്ടി [[{{int:wm-license-free-software-wiki-link}}|സ്വതന്ത്ര സോഫ്റ്റ്‌‌വേറാണ്]]; താങ്കൾക്കിത് [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] അനുമതിയിൽ പറഞ്ഞിരിക്കുന്ന പ്രകാരം പുനർവിതരണം ചെയ്യാനും മാറ്റങ്ങൾ വരുത്താനും സാധിക്കുന്നതാണ്. CeCILL അനുവാദപത്രത്തിന്റെ നിബന്ധനകൾ താങ്കൾക്ക് [{{int:wm-license-cecill-full-link}} www.cecill.info] എന്നതിൽ ലഭ്യമാണ്.',
+	'wm-license-fal-text' => "പകർപ്പവകാശരഹിതം: ഈ കലാസൃഷ്ടി സ്വതന്ത്രമാണ്; '''[[{{int:wm-license-fal-wiki-link}}|സ്വതന്ത്ര കലാസൃഷ്ടി അനുവാദപത്രം]]''' പ്രകാരം താങ്കൾക്കിത് പുനർവിതരണം ചെയ്യാനോ ഒപ്പം/അല്ലെങ്കിൽ മാറ്റംവരുത്താനോ സാധിക്കുന്നതാണ്. ഈ അനുവാദപത്രത്തിന്റെ പകർപ്പ്മാതൃക [{{int:wm-license-fal-full-link}} പകർപ്പവകാശരഹിത സമീപന സൈറ്റിലും] അതുപോലെ മറ്റ് സൈറ്റുകളിലും കണ്ടെത്താവുന്നതാണ്.",
 	'wm-license-fsf-wiki-link' => 'w:ml:സ്വതന്ത്ര സോഫ്‌റ്റ്‌വെയർ സമിതി',
 	'wm-license-free-software-wiki-link' => 'w:ml:സ്വതന്ത്ര സോഫ്റ്റ്‌വെയർ',
 	'wm-license-gfdl-1.2-and-later' => "[[{{int:wm-license-gfdl-fsf-link}}|സ്വതന്ത്ര സോഫ്റ്റ്‌‌വേർ സമിതി]] പ്രസിദ്ധീകരിച്ചിട്ടുള്ള '''[[{{int:wm-license-gfdl-wiki-link}}|ഗ്നു സ്വതന്ത്ര പ്രമാണ അനുവാദപത്രം]]''' പതിപ്പ് 1.2 അല്ലെങ്കിൽ പുതിയ പതിപ്പുകൾ പ്രകാരം; മാറ്റമില്ലാത്ത ഭാഗങ്ങളില്ലാതെ, മുൻചട്ടയിലെ എഴുത്തുകൾ ഇല്ലാതെ, പിൻചട്ടയിലെ എഴുത്തുകൾ ഇല്ലാതെ പകർത്താനും, വിതരണം ചെയ്യാനും ഒപ്പം/അല്ലെങ്കിൽ ഈ പ്രമാണത്തിൽ മാറ്റം വരുത്തുവാനും ഉള്ള അവകാശങ്ങൾ നൽകുന്നു. ''[[{{int:wm-license-gfdl-full-1.2-link}}|ഗ്നു സ്വതന്ത്ര പ്രമാണ അനുവാദപത്രം]]'' എന്ന തലക്കെട്ടിലുള്ള ഭാഗത്ത് അനുവാദപത്രത്തിന്റെ ഒരു പകർപ്പ് ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.",
@@ -5864,6 +5930,7 @@ $messages['nds'] = array(
 	'wm-license-information-permission-reusing-text' => 'Disse Datei annerwegens bruken',
 	'wm-license-information-permission-see-below' => 'Kiek ünnen.',
 	'wm-license-information-other-versions' => 'Annere Versionen',
+	'wm-license-own-work' => 'Egen Wark',
 	'wm-license-self-multiple-licenses-select' => 'Du kannst di de Lizenz utsöken, de di opbest gefallt.',
 );
 
@@ -5873,6 +5940,7 @@ $messages['nds'] = array(
 $messages['nds-nl'] = array(
 	'wm-license-cc-wiki-link' => 'w:nds-nl:Creative Commons',
 	'wm-license-gfdl-wiki-link' => "w:nds-nl:GNU-licentie veur vri'je dokementäsie",
+	'wm-license-own-work' => 'Eigen waark',
 );
 
 /** Nepali (नेपाली) */
@@ -5948,7 +6016,7 @@ Heruitgave, afgeleide werken, commercieel gebruik en alle andere vormen van gebr
 	'wm-license-cc-by-2.5-tw-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/2.5/tw/deed.nl Naamsvermelding 2.5 Taiwan]',
 	'wm-license-cc-by-2.5-za-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/2.5/za/deed.nl Naamsvermelding 2.5 Zuid-Afrika]',
 	'wm-license-cc-by-3.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/3.0/deed.nl Naamsvermelding 3.0 Unported]',
-	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licenties Naamsvermelding [http://creativecommons.org/licenses/by/3.0/deed.nl 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.nl 2.5 Algemeen], [http://creativecommons.org/licenses/by/2.0/deed.en 2.0 Algemeen] en [http://creativecommons.org/licenses/by/1.0/deed.nl 1.0 Algemeen].',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licenties Naamsvermelding [http://creativecommons.org/licenses/by/3.0/deed.nl 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.nl 2.5 Algemeen], [http://creativecommons.org/licenses/by/2.0/ 2.0 Algemeen] en [http://creativecommons.org/licenses/by/1.0/deed.nl 1.0 Algemeen].',
 	'wm-license-cc-by-3.0-at-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/3.0/at/deed.nl Naamsvermelding 3.0 Oostenrijk]',
 	'wm-license-cc-by-3.0-cz-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/3.0/cz/deed.nl Naamsvermelding 3.0 Tsjechië]',
 	'wm-license-cc-by-3.0-de-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by/3.0/de/deed.nl Naamsvermelding 3.0 Duitsland]',
@@ -5997,7 +6065,7 @@ Heruitgave, afgeleide werken, commercieel gebruik en alle andere vormen van gebr
 	'wm-license-cc-by-sa-2.1-es-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.1/es/deed.nl Naamsvermelding-Gelijk delen 2.1 Spanje].',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.nl Naamsvermelding-Gelijk delen 2.1 Japan].',
 	'wm-license-cc-by-sa-2.5-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.5/deed.nl Naamsvermelding-Gelijk delen 2.5 Unported]',
-	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licenties Naamsvermelding-Gelijk delen [http://creativecommons.org/licenses/by-sa/2.5/deed.nl 2.5 Algemeen], [http://creativecommons.org/licenses/by-sa/2.0/deed.nl 2.0 Algemeen] en [http://creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 Algemeen].',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licenties Naamsvermelding-Gelijk delen [http://creativecommons.org/licenses/by-sa/2.5/deed.nl 2.5 Algemeen], [http://creativecommons.org/licenses/by-sa/2.0/deed.nl 2.0 Algemeen] en [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Algemeen].',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.nl Naamsvermelding-Gelijk delen 2.5 Argentinië]',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.5/au/deed.nl Naamsvermelding-Gelijk delen 2.5 Australië]',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'Dit bestand is gelicenseerd onder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-licentie [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.nl Naamsvermelding-Gelijk delen 2.5 Bulgarije]',
@@ -6418,6 +6486,7 @@ $messages['oc'] = array(
 	'wm-license-free-software-wiki-link' => 'w:oc:Logicial liure',
 	'wm-license-gfdl-wiki-link' => 'w:oc:Licéncia de documentacion liura GNU',
 	'wm-license-information-permission-reusing-link' => 'Commons:Reütilizacion de contengut en defòra de Wikimedia',
+	'wm-license-own-work' => 'Trabalh personal',
 	'wm-license-self-multiple-licenses-select' => 'Podètz causir la licéncia que volètz.',
 );
 
@@ -6427,6 +6496,11 @@ $messages['oc'] = array(
 $messages['pdc'] = array(
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Schreiwer',
+);
+
+/** Plautdietsch (Plautdietsch) */
+$messages['pdt'] = array(
+	'wm-license-own-work' => 'Ejen Woakj',
 );
 
 /** Polish (Polski)
@@ -6630,6 +6704,7 @@ $messages['pl'] = array(
 	'wm-license-information-permission-see-below' => 'patrz poniżej.',
 	'wm-license-information-other-versions' => 'Inne wersje',
 	'wm-license-lgpl-wiki-link' => 'w:pl:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Praca własna',
 	'wm-license-self-one-license' => 'Ja, właściciel praw autorskich do tego dzieła, udostępniam je na poniższej licencji',
 	'wm-license-self-one-license-with-author' => '$1 – właściciel praw autorskich do tego dzieła, udostępnia je na poniższej licencji',
 	'wm-license-self-multiple-licenses' => 'Ja, właściciel praw autorskich do tego dzieła, udostępniam je na poniższych licencjach',
@@ -7047,6 +7122,7 @@ $messages['pt'] = array(
 	'wm-license-information-permission-see-below' => 'ver abaixo.',
 	'wm-license-information-other-versions' => 'Outras versões',
 	'wm-license-lgpl-wiki-link' => 'w:pt:LGPL',
+	'wm-license-own-work' => 'Trabalho próprio',
 	'wm-license-self-one-license' => 'Eu, titular dos direitos de autor desta obra, publico-a nos termos da seguinte licença:',
 	'wm-license-self-one-license-with-author' => '$1, titular dos direitos de autor desta obra, publica-a nos termos da seguinte licença:',
 	'wm-license-self-multiple-licenses' => 'Eu, titular dos direitos de autor desta obra, publico-a nos termos das seguintes licenças:',
@@ -7067,6 +7143,7 @@ $messages['pt-br'] = array(
 	'wm-license-cc-conditions' => 'Sob as seguintes condições:',
 	'wm-license-cc-conditions-attribution-header' => 'atribuição',
 	'wm-license-information-table-summary' => "É importante inserir nos arquivos (imagens, sons...) carregados uma ficha informativa ''standard''. A ficha inclui a descrição do que é mostrado no arquivo e como foi este foi feito, bem como informações sobre direitos autorais (''copyright'') e fonte.",
+	'wm-license-own-work' => 'Trabalho próprio pelo carregador',
 	'wm-license-self-multiple-licenses-select' => 'Você pode escolher a licença que quiser.',
 );
 
@@ -7105,6 +7182,7 @@ $messages['ro'] = array(
 	'wm-license-information-permission' => 'Permisiune',
 	'wm-license-information-permission-see-below' => 'Vedeţi mai jos.',
 	'wm-license-information-other-versions' => 'Alte versiuni',
+	'wm-license-own-work' => 'Operă proprie',
 	'wm-license-self-multiple-licenses-select' => 'Puteţi alege licenţa după cum doriţi.',
 );
 
@@ -7136,7 +7214,7 @@ $messages['roa-tara'] = array(
 	'wm-license-cc-by-2.0-nl-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/ Attribution 2.0 Olanda].",
 	'wm-license-cc-by-2.0-pl-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/ Attribution 2.0 Pulonie].",
 	'wm-license-cc-by-2.0-tw-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/ Attribution 2.0 Taiwan].",
-	'wm-license-cc-by-2.0-uk-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.en Attribution 2.0 Regne Aunìte: Inghilterre e Galles].",
+	'wm-license-cc-by-2.0-uk-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/ Attribution 2.0 Regne Aunìte: Inghilterre e Galles].",
 	'wm-license-cc-by-2.0-za-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/ Attribution 2.0 Sud Africa].",
 	'wm-license-cc-by-2.1-au-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/ Attribution 2.1 Australia].",
 	'wm-license-cc-by-2.1-es-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/ Attribution 2.1 Spagne].",
@@ -7170,7 +7248,7 @@ $messages['roa-tara'] = array(
 	'wm-license-cc-by-2.5-tw-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5 Taiwan].",
 	'wm-license-cc-by-2.5-za-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 Sud Africa].",
 	'wm-license-cc-by-3.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] licenze",
-	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [http://creativecommons.org/licenses/by/3.0/deed.en 3.0 Non reportate], [http://creativecommons.org/licenses/by/2.5/deed.en 2.5 Generiche], [http://creativecommons.org/licenses/by/2.0/deed.en 2.0 Generiche] e [http://creativecommons.org/licenses/by/1.0/deed.en 1.0 Generiche].",
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [http://creativecommons.org/licenses/by/3.0/ 3.0 Non reportate], [http://creativecommons.org/licenses/by/2.5/ 2.5 Generiche], [http://creativecommons.org/licenses/by/2.0/ 2.0 Generiche] e [http://creativecommons.org/licenses/by/1.0/ 1.0 Generiche].",
 	'wm-license-cc-by-3.0-at-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austria].",
 	'wm-license-cc-by-3.0-cz-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0 Repubbleche Ceche].",
 	'wm-license-cc-by-3.0-de-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/ Attribution 3.0 Germania].",
@@ -7469,6 +7547,7 @@ $messages['ru'] = array(
 	'wm-license-information-permission-see-below' => 'См. ниже',
 	'wm-license-information-other-versions' => 'Другие версии',
 	'wm-license-lgpl-wiki-link' => 'w:ru:GNU Lesser General Public License',
+	'wm-license-own-work' => 'собственная работа',
 	'wm-license-self-one-license' => 'Я, владелец авторских прав на это произведение, добровольно публикую его на условиях следующей лицензии:',
 	'wm-license-self-one-license-with-author' => '$1, владелец авторских прав на это произведение, добровольно публикует его на условиях следующей лицензии:',
 	'wm-license-self-multiple-licenses' => 'Я, владелец авторских прав на это произведение, добровольно публикую его на условиях следующих лицензий:',
@@ -7730,6 +7809,7 @@ $messages['si'] = array(
 	'wm-license-information-permission-see-below' => 'පහත බලන්න.',
 	'wm-license-information-other-versions' => 'අනෙකුත් අනුවාදයන්',
 	'wm-license-lgpl-wiki-link' => 'w:si:LGPL',
+	'wm-license-own-work' => 'උඩුගතකරන්නාගේ ස්වකීය නිර්මාණයකි',
 	'wm-license-self-one-license' => 'මෙම කෘතියෙහි හිමිකම් අයිතීන් දරන්නා වන මම,පහත වරපත යටතේ එය ප්‍රකාශයට පත් කරමි:',
 	'wm-license-self-one-license-with-author' => 'මෙම කෘතියෙහි හිමිකම් අයිතීන් දරන්නා වන $1 නමැති මම,  පහත වරපත යටතේ එය ප්‍රකාශයට පත් කරමි:',
 	'wm-license-self-multiple-licenses' => 'I, මෙම කාර්යයේ ප්‍රකාශන අයිතිය දරන්නා,පහත බලපත්‍රය යටතේ එය ප්‍රකාශයට පත් කරනු ලබයි:',
@@ -7866,6 +7946,7 @@ $messages['sk'] = array(
 	'wm-license-information-permission-see-below' => 'pozri nižšie',
 	'wm-license-information-other-versions' => 'Ďalšie verzie',
 	'wm-license-lgpl-wiki-link' => 'w:sk:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Vlastné dielo',
 	'wm-license-self-multiple-licenses-select' => 'Môžete si zvoliť ľubovolnú z&nbsp;týchto licencií.',
 );
 
@@ -7885,6 +7966,7 @@ $messages['sl'] = array(
 	'wm-license-information-permission' => 'Dovoljenje',
 	'wm-license-information-permission-see-below' => 'glej spodaj',
 	'wm-license-information-other-versions' => 'Druge različice',
+	'wm-license-own-work' => 'Lastno delo',
 	'wm-license-self-multiple-licenses-select' => 'Izberete lahko dovoljenje po vaši izbiri.',
 );
 
@@ -8096,6 +8178,7 @@ $messages['sv'] = array(
 	'wm-license-information-permission-see-below' => 'Se nedan.',
 	'wm-license-information-other-versions' => 'Andra versioner',
 	'wm-license-lgpl-wiki-link' => 'w:sv:GNU Lesser General Public License',
+	'wm-license-own-work' => 'Eget arbete',
 	'wm-license-self-one-license' => 'Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
 	'wm-license-self-one-license-with-author' => '$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
 	'wm-license-self-multiple-licenses' => 'Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licenser:',
@@ -8203,6 +8286,7 @@ $messages['th'] = array(
 	'wm-license-information-permission-see-below' => 'ดูด้านล่าง',
 	'wm-license-information-other-versions' => 'เวอร์ชันอื่น',
 	'wm-license-lgpl-wiki-link' => 'w:th:สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู',
+	'wm-license-own-work' => 'งานของผู้อัปโหลดเอง',
 	'wm-license-self-multiple-licenses-select' => 'คุณสามารถเลือกเงื่อนไขลิขสิทธิ์ที่คุณต้องการได้',
 );
 
@@ -8326,6 +8410,7 @@ $messages['tl'] = array(
 	'wm-license-free-software-wiki-link' => 'w:tl:Malayang software',
 	'wm-license-gfdl-wiki-link' => 'w:tl:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:tl:GNU General Public License',
+	'wm-license-own-work' => 'Sariling gawa',
 );
 
 /** Turkish (Türkçe)
@@ -8521,6 +8606,7 @@ $messages['tr'] = array(
 	'wm-license-information-permission-reusing-text' => 'Bu dosyanın tekrar kullanımı',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Diğer sürümler',
+	'wm-license-own-work' => 'Yükleyenin kendi çalışması',
 	'wm-license-self-one-license' => 'Ben, bu işin telif sahibi, burada işi aşağıdaki lisans altında yayımlıyorum:',
 	'wm-license-self-one-license-with-author' => '$1, bu işin telif sahibi, burada işi aşağıdaki lisans altında yayımlıyor:',
 	'wm-license-self-multiple-licenses' => 'Ben, bu işin telif sahibi, burada işi aşağıdaki lisanslar altında yayımlıyorum:',
@@ -8901,6 +8987,7 @@ $messages['vi'] = array(
 	'wm-license-information-permission-reusing-text' => 'Dùng lại tập tin',
 	'wm-license-information-permission-see-below' => 'xem ở dưới',
 	'wm-license-information-other-versions' => 'Phiên bản khác',
+	'wm-license-own-work' => 'Tác phẩm do chính người tải lên tạo ra',
 	'wm-license-self-one-license' => 'Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:',
 	'wm-license-self-one-license-with-author' => '$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:',
 	'wm-license-self-multiple-licenses' => 'Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:',
@@ -8941,6 +9028,9 @@ $messages['yi'] = array(
 	'wm-license-cc-free-to-share-header' => 'באַטייליקן',
 	'wm-license-gfdl-wiki-link' => 'w:yi:GNU פרייע דאקומענטאציע ליצענץ',
 	'wm-license-information-source' => 'מקור',
+	'wm-license-information-date' => 'דאַטע',
+	'wm-license-information-author' => 'מחבר',
+	'wm-license-information-permission' => 'דערלויבעניש',
 );
 
 /** Yue (粵語)
@@ -9053,6 +9143,7 @@ $messages['zh-hans'] = array(
 	'wm-license-information-permission' => '授权协议',
 	'wm-license-information-permission-see-below' => '见下方。',
 	'wm-license-information-other-versions' => '其他版本',
+	'wm-license-own-work' => '上传者自己的作品',
 	'wm-license-self-multiple-licenses-select' => '你可以选择你想要的授权协议。',
 );
 
@@ -9071,6 +9162,7 @@ $messages['zh-hant'] = array(
 	'wm-license-information-permission-reusing-link' => 'Commons:在其他地方使用Wikimedia的圖片',
 	'wm-license-information-permission-see-below' => '如下。',
 	'wm-license-information-other-versions' => '其他版本',
+	'wm-license-own-work' => '上載者自己的作品',
 	'wm-license-self-multiple-licenses-select' => '您可以選擇您需要的協議使用。',
 );
 
