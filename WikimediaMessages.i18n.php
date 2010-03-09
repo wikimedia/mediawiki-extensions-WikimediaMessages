@@ -818,6 +818,7 @@ $messages['be-tarask'] = array(
 	'group-flood' => 'Робаты',
 	'group-founder' => 'Фундатары',
 	'group-import' => 'Імпартэры',
+	'group-interface_editors' => 'Рэдактары інтэрфэйса',
 	'group-ipblock-exempt' => 'Выключэньні з блякаваньняў ІР-адрасоў',
 	'group-patroller' => 'Патруліруючыя',
 	'group-rollbacker' => 'Адкатвальнікі',
@@ -834,6 +835,7 @@ $messages['be-tarask'] = array(
 	'group-flood-member' => 'робаты',
 	'group-founder-member' => 'фундатар',
 	'group-import-member' => 'імпартэр',
+	'group-interface_editors-member' => 'рэдактар інтэрфэйса',
 	'group-ipblock-exempt-member' => 'выключэньне з блякаваньняў ІР-адрасоў',
 	'group-patroller-member' => 'патруліруючы',
 	'group-rollbacker-member' => 'адкатвальнік',
@@ -850,6 +852,7 @@ $messages['be-tarask'] = array(
 	'grouppage-flood' => '{{ns:project}}:Робаты',
 	'grouppage-founder' => '{{ns:project}}:Фундатары',
 	'grouppage-import' => '{{ns:project}}:Імпартэры',
+	'grouppage-interface_editors' => '{{ns:project}}:Рэдактары інтэрфэйса',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Выключэньні з блякаваньняў ІР-адрасоў',
 	'grouppage-rollbacker' => '{{ns:project}}:Адкатвальнікі',
 	'grouppage-transwiki' => '{{ns:project}}:Імпартэры зь іншых вікі',
@@ -3094,6 +3097,7 @@ $messages['gsw'] = array(
 	'group-flood' => 'Botbenutzer',
 	'group-founder' => 'Grinder',
 	'group-import' => 'Importeur',
+	'group-interface_editors' => 'Benutzeroberflechine-Bearbeiter',
 	'group-ipblock-exempt' => 'IP-Sperri-Usnahme',
 	'group-patroller' => 'Fäldhieter',
 	'group-rollbacker' => 'Zrucksetzer',
@@ -3110,6 +3114,7 @@ $messages['gsw'] = array(
 	'group-flood-member' => 'Botbenutzer',
 	'group-founder-member' => 'Grinder',
 	'group-import-member' => 'Importeur',
+	'group-interface_editors-member' => 'Benutzeroberflechine-Bearbeiter',
 	'group-ipblock-exempt-member' => 'IP-Sperri-Usnahm',
 	'group-patroller-member' => 'Fäldhieter',
 	'group-rollbacker-member' => 'Zrucksetzer',
@@ -3126,6 +3131,7 @@ $messages['gsw'] = array(
 	'grouppage-flood' => '{{ns:project}}:Botbenutzer',
 	'grouppage-founder' => '{{ns:project}}:Grinder',
 	'grouppage-import' => '{{ns:project}}:Importeur',
+	'grouppage-interface_editors' => '{{ns:project}}:Benutzeroberflechine-Bearbeiter',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperri-Usnahm',
 	'grouppage-rollbacker' => '{{ns:project}}:Zrucksetzer',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeur',
@@ -6442,13 +6448,13 @@ $messages['pt'] = array(
 	'group-inactive' => 'Utilizadores inactivos',
 	'group-inactive-member' => 'utilizador inactivo',
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inactivos',
-	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons Atribuição-Compartilhamento pela mesma Licença</a>;
 pode estar sujeito a condições adicionais.
-Consulte as <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Condições de Uso</a> para mais detalhes.',
+Consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a> para mais detalhes.',
 	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/deed.pt Creative Commons Atribuição-Compartilhamento pela mesma Licença 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de uma hiperligação ou URL para a página em que está a contribuir. Consulte as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para mais detalhes.',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
-Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer condições de licenciamento relevantes.',
+Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e você concorda em seguir quaisquer condições de licenciamento relevantes.',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
