@@ -438,6 +438,7 @@ $messages['ang'] = array(
  * @author Ciphers
  * @author Meno25
  * @author OsamaK
+ * @author ترجمان05
  */
 $messages['ar'] = array(
 	'wikimediamessages-desc' => 'رسائل خاصة بويكيميديا',
@@ -455,6 +456,7 @@ $messages['ar'] = array(
 	'group-flood' => 'مستخدمو البوت',
 	'group-founder' => 'مؤسسون',
 	'group-import' => 'مستوردون',
+	'group-interface_editors' => 'محرّرو الواجهة',
 	'group-ipblock-exempt' => 'مستثنون من منع الأيبي',
 	'group-patroller' => 'مراجعون',
 	'group-rollbacker' => 'مسترجعون',
@@ -471,6 +473,7 @@ $messages['ar'] = array(
 	'group-flood-member' => 'مستخدمو البوت',
 	'group-founder-member' => 'مؤسس',
 	'group-import-member' => 'مستورد',
+	'group-interface_editors-member' => 'محرّر الواجهة',
 	'group-ipblock-exempt-member' => 'مستثنى من منع الأيبي',
 	'group-patroller-member' => 'مراجع',
 	'group-rollbacker-member' => 'مسترجع',
@@ -487,6 +490,7 @@ $messages['ar'] = array(
 	'grouppage-flood' => '{{ns:project}}:مستخدمو البوت',
 	'grouppage-founder' => '{{ns:project}}:مؤسسون',
 	'grouppage-import' => '{{ns:project}}:مستوردون',
+	'grouppage-interface_editors' => '{{ns:project}}:محرّرو الواجهة',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الأيبي',
 	'grouppage-rollbacker' => '{{ns:project}}:مسترجعون',
 	'grouppage-transwiki' => '{{ns:project}}:مستوردون عبر الويكي',
@@ -4629,11 +4633,13 @@ $messages['ku-latn'] = array(
 	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
 );
 
-/** Cornish (Kernowek)
+/** Cornish (Kernewek)
  * @author Malafaya
+ * @author Nicky.ker
  */
 $messages['kw'] = array(
 	'sitesupport' => 'Riansow',
+	'wikimedia-copyright' => 'Kavadow yw an tekst yn-dann an <a href="http://creativecommons.org/licenses/by-sa/3.0/">Kummyas Creative Commons Attribution/Share-Alike</a>; termynyow keworransel a alja bos omvyskys. Gwelewgh <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
 );
 
 /** Kirghiz (Кыргызча) */
@@ -8261,6 +8267,7 @@ $messages['tr'] = array(
 	'group-flood' => 'Bot kullanıcıları',
 	'group-founder' => 'Kurucular',
 	'group-import' => 'İçe aktarıcılar',
+	'group-interface_editors' => 'Arayüz editörleri',
 	'group-ipblock-exempt' => 'IP engelleme muafiyetleri',
 	'group-patroller' => 'Devriyeler',
 	'group-rollbacker' => 'Geri döndürücüler',
@@ -8277,6 +8284,7 @@ $messages['tr'] = array(
 	'group-flood-member' => 'bot kullanıcıları',
 	'group-founder-member' => 'Kurucu',
 	'group-import-member' => 'İçe aktarıcı',
+	'group-interface_editors-member' => 'arayüz editörü',
 	'group-ipblock-exempt-member' => 'IP engelleme muafı',
 	'group-patroller-member' => 'Devriye',
 	'group-rollbacker-member' => 'Geri döndürücü',
@@ -8293,6 +8301,7 @@ $messages['tr'] = array(
 	'grouppage-flood' => '{{ns:project}}:Bot kullanıcıları',
 	'grouppage-founder' => '{{ns:project}}:Kurucular',
 	'grouppage-import' => '{{ns:project}}:İçe aktarıcılar',
+	'grouppage-interface_editors' => '{{ns:project}}:Arayüz editörleri',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP engelleme muafiyeti',
 	'grouppage-rollbacker' => '{{ns:project}}:Geri döndürücüler',
 	'grouppage-transwiki' => '{{ns:project}}:Vikilerarası içe aktarıcılar',
