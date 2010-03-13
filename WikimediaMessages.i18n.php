@@ -1923,6 +1923,7 @@ Ne menye wò ŋutɔ ye ŋlɔ nusiawo o la, ekema ele be mɔɖeɖewo si ku ɖe wo
  * @author Crazymadlover
  * @author Dead3y3
  * @author Geraki
+ * @author Lou
  * @author Omnipaedista
  * @author ZaDiak
  * @author Απεργός
@@ -1934,6 +1935,7 @@ $messages['el'] = array(
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
 	'group-abusefilter' => 'Τροποποιητές φίλτρων καταχρήσεων',
 	'group-accountcreator' => 'Δημιουργοί λογαριασμών',
+	'group-arbcom' => 'Μέλη της επιτροπής διαιτησίας',
 	'group-autopatrolled' => 'Αυτοεπιτηρητές',
 	'group-autopatroller' => 'Αυτόματοι περίπολοι',
 	'group-autoreviewer' => 'Αυτοελεγκτές',
@@ -1942,6 +1944,7 @@ $messages['el'] = array(
 	'group-flood' => 'Χρήστες bot',
 	'group-founder' => 'Ιδρυτές',
 	'group-import' => 'Εισαγωγείς',
+	'group-interface_editors' => 'Επεξεργαστές της διεπαφής',
 	'group-ipblock-exempt' => 'Απαλλαγές από φραγή IP',
 	'group-patroller' => 'Περιπολητές',
 	'group-rollbacker' => 'Αναιρέτες',
@@ -1949,6 +1952,7 @@ $messages['el'] = array(
 	'group-trusted' => 'Έμπιστοι χρήστες',
 	'group-abusefilter-member' => 'τροποποιητής φίλτρων καταχρήσεων',
 	'group-accountcreator-member' => 'δημιουργός λογαριασμού',
+	'group-arbcom-member' => 'μέλος της επιτροπής διαιτησίας',
 	'group-autopatrolled-member' => 'αυτόματη περίπολος',
 	'group-autopatroller-member' => 'αυτόματη περίπολος',
 	'group-autoreviewer-member' => 'αυτοελεγκτής',
@@ -1957,21 +1961,24 @@ $messages['el'] = array(
 	'group-flood-member' => 'χρήστης bot',
 	'group-founder-member' => 'Ιδρυτής',
 	'group-import-member' => 'εισαγωγέας',
-	'group-ipblock-exempt-member' => 'απαλλαγή από φραγή IP',
+	'group-interface_editors-member' => 'επεξεργαστής της διεπαφής',
+	'group-ipblock-exempt-member' => 'Απαλλαγή από φραγή IP',
 	'group-patroller-member' => 'περιπολητής',
 	'group-rollbacker-member' => 'αναιρέτης',
 	'group-transwiki-member' => 'εισαγωγέας transwiki',
 	'group-trusted-member' => 'έμπιστος χρήστης',
 	'grouppage-abusefilter' => '{{ns:project}}:Τροποποιητές φίλτρων καταχρήσεων',
 	'grouppage-accountcreator' => '{{ns:project}}:Δημιουργοί λογαριασμών',
+	'grouppage-arbcom' => '{{ns:project}}:Μέλη της επιτροπής διαιτησίας',
 	'grouppage-autopatrolled' => '{{ns:project}}:Αυτόματοι περίπολοι',
-	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματοι περίπολοι',
+	'grouppage-autopatroller' => '{{ns:project}}:Αυτόματος περιπολητής',
 	'grouppage-autoreviewer' => '{{ns:project}}:Αυτοελεγκτές',
 	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι εξαγωγείς',
 	'grouppage-confirmed' => '{{ns:project}}:Επιβεβαιωμένοι χρήστες',
 	'grouppage-flood' => '{{ns:project}}:Χρήστες bot',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
 	'grouppage-import' => '{{ns:project}}:Εισαγωγείς',
+	'grouppage-interface_editors' => '{{ns:project}}:Επεξεργαστές της διεπαφής',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
 	'grouppage-rollbacker' => '{{ns:project}}:Αναιρέτες',
 	'grouppage-transwiki' => '{{ns:project}}:Εισαγωγείς Transwiki',
@@ -5320,8 +5327,11 @@ $messages['mn'] = array(
 	'group-rollbacker' => 'Буцаагчид',
 	'group-rollbacker-member' => 'буцаагч',
 	'grouppage-rollbacker' => '{{ns:project}}:Буцаагчид',
+	'group-steward' => 'Үйлчлэгчид',
 	'group-Global_rollback' => 'Глобал буцаагчид',
+	'group-steward-member' => 'үйлчлэгч',
 	'group-Global_rollback-member' => 'глобал буцаагч',
+	'grouppage-steward' => 'm:Stewards',
 );
 
 /** Moldavian (Молдовеняскэ)
