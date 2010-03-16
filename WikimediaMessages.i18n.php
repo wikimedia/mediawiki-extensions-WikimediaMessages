@@ -90,6 +90,7 @@ $messages['en'] = array(
 	'group-editinterface'   => 'Interface editors',
 	'group-Global_bot'      => 'Global bots',
 	'group-Global_rollback' => 'Global rollbackers',
+	'group-Global_sysops'   => 'Global sysop',
 	'group-Ombudsmen'       => 'Ombudsmen',
 	'group-Staff'           => 'Staffs',
 
@@ -98,6 +99,7 @@ $messages['en'] = array(
 	'group-editinterface-member'   => 'interface editor',
 	'group-Global_bot-member'      => 'global bot',
 	'group-Global_rollback-member' => 'global rollbacker',
+	'group-Global_sysops-member'   => 'global sysop',
 	'group-Ombudsmen-member'       => 'ombudsman',
 	'group-Staff-member'           => 'staff',
 
@@ -105,6 +107,7 @@ $messages['en'] = array(
 	'grouppage-sysadmin'        => 'm:System administrators', # only translate this message to other languages if you have to change it
 	'grouppage-Global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
 	'grouppage-Global_rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
+	'grouppage-Global_sysops'   => 'm:Global sysops', # only translate this message to other languages if you have to change it
 	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
 	'grouppage-Staff'           => 'Foundation:Staff', # only translate this message to other languages if you have to change it
 
