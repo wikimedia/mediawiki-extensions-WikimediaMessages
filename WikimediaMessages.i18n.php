@@ -90,7 +90,7 @@ $messages['en'] = array(
 	'group-editinterface'   => 'Interface editors',
 	'group-Global_bot'      => 'Global bots',
 	'group-Global_rollback' => 'Global rollbackers',
-	'group-Global_sysops'   => 'Global sysop',
+	'group-Global_sysops'   => 'Global sysops',
 	'group-Ombudsmen'       => 'Ombudsmen',
 	'group-Staff'           => 'Staffs',
 
