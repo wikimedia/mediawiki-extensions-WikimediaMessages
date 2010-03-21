@@ -2123,7 +2123,6 @@ $messages['de-formal'] = array(
  */
 $messages['diq'] = array(
 	'wikimedialicensetexts-desc' => 'Mesacê lisansê wikimedya',
-	'wm-license-cc-wiki-link' => 'w:en:Creative Commons',
 	'wm-license-cc-attribution' => 'Gırêdayış',
 	'wm-license-cc-by-1.0-text' => 'Ena dosya bınê lisansê [[{{int:wm-license-cc-wiki-link}}|Şarê Afernayoği]] [http://creativecommons.org/licenses/by/1.0/ Gırêdayış 1.0 Bınge] de lisans biya.',
 	'wm-license-cc-by-1.0-fi-text' => 'Ena dosya binê [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] de lisans biya.',
@@ -7940,7 +7939,6 @@ $messages['sco'] = array(
  */
 $messages['si'] = array(
 	'wikimedialicensetexts-desc' => 'විකි මීඩියා බලපත්‍ර පණිවුඩ',
-	'wm-license-cc-wiki-link' => 'w:en:නිර්මාණශීලී පොදුවූවන්',
 	'wm-license-cc-attribution' => 'ආරෝපණය',
 	'wm-license-cc-by-1.0-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
 	'wm-license-cc-by-1.0-fi-text' => 'මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [http://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] බලපත්‍රය යටතේ අවසර ලබා ඇත.',
