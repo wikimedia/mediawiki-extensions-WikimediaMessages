@@ -2822,6 +2822,7 @@ $messages['et'] = array(
 	'wm-license-cc-by-2.5-tw-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Taiwani litsentsi [http://creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5] alla.',
 	'wm-license-cc-by-2.5-za-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Lõuna-Aafrika Vabariigi litsentsi [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5] alla.',
 	'wm-license-cc-by-3.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] litsentsi [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] alla.',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] litsentside Attribution [http://creativecommons.org/licenses/by/3.0/ 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/ 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/ 2.0 Generic] ja [http://creativecommons.org/licenses/by/1.0/ 1.0 Generic] alla.',
 	'wm-license-cc-by-3.0-at-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Austria litsentsi [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0] alla.',
 	'wm-license-cc-by-3.0-cz-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Tšehhi litsentsi [http://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0] alla.',
 	'wm-license-cc-by-3.0-de-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Saksa litsentsi [http://creativecommons.org/licenses/by/3.0/de/ Attribution 3.0] alla.',
@@ -2870,6 +2871,7 @@ $messages['et'] = array(
 	'wm-license-cc-by-sa-2.1-es-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Hispaania litsentsi [http://creativecommons.org/licenses/by-sa/2.1/es/ Attribution-Share Alike 2.1] alla.',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Jaapani litsentsi [http://creativecommons.org/licenses/by-sa/2.1/jp/ Attribution-Share Alike 2.1] alla.',
 	'wm-license-cc-by-sa-2.5-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] litsentsi [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic] alla.',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] litsentside Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] ja [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Generic] alla.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Argentina litsentsi [http://creativecommons.org/licenses/by-sa/2.5/ar/ Attribution-Share Alike 2.5] alla.',
 	'wm-license-cc-by-sa-2.5-au-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Austraalia litsentsi [http://creativecommons.org/licenses/by-sa/2.5/au/ Attribution-Share Alike 2.5] alla.',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Bulgaaria litsentsi [http://creativecommons.org/licenses/by-sa/2.5/bg/ Attribution-Share Alike 2.5] alla.',
@@ -2899,6 +2901,7 @@ $messages['et'] = array(
 	'wm-license-cc-by-sa-2.5-tw-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Taiwani litsentsi [http://creativecommons.org/licenses/by-sa/2.5/tw/ Attribution-Share Alike 2.5] alla.',
 	'wm-license-cc-by-sa-2.5-za-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Lõuna-Aafrika Vabariigi litsentsi [http://creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share Alike 2.5] alla.',
 	'wm-license-cc-by-sa-3.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] litsentsi [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] alla.',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] litsentside Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/ 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] ja [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Generic] alla.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Austria litsentsi [http://creativecommons.org/licenses/by-sa/3.0/at/ Attribution-Share Alike 3.0] alla.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Tšehhi litsentsi [http://creativecommons.org/licenses/by-sa/3.0/cz/ Attribution-Share Alike 3.0] alla.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Saksa litsentsi [http://creativecommons.org/licenses/by-sa/3.0/de/ Attribution-Share Alike 3.0] alla.',
@@ -2935,6 +2938,7 @@ $messages['et'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Pead viitama teosele autori või litsentsiandja määratud tingimustel, aga mitte nii nagu nad toetaks sind või seda, et sina teost kasutad.',
 	'wm-license-cc-conditions-share_alike-header' => 'sarnaselt jagamine',
 	'wm-license-cc-conditions-share_alike-text' => 'Kui lood selle teose põhjal teisendi, tohid tulemuseks olevat teost levitada ainult samasuguse või sarnase litsenti all.',
+	'wm-license-cecill-text' => 'See teos on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-is seatud tingimustele. Litsentsi CeCILL tingimused on leitavad võrguaadressil [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fal-text' => 'See kunstiteos on vaba. Sa võid vastavalt [[{{int:wm-license-fal-wiki-link}}|Vaba Kunsti Litsentsis]] seatud tingimustele seda taaslevitada ja/või selle põhjal teisendeid luua.<br />
 Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin].',
 	'wm-license-fal-wiki-link' => 'w:et:Vaba Kunsti Litsents',
@@ -2945,6 +2949,7 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-gfdl-1.3-and-later' => "Luba on antud selle dokumendi kopeerimiseks, avaldamiseks ja/või muutmiseks '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Vaba Dokumentatsiooni Litsentsi]]''' versiooni 1.3 või hilisema [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] avaldatud versiooni tingimustel; muutumatute osadeta, esikaane tekstideta ja tagakaane tekstideta. Sellest loast on lisatud koopia leheküljel pealkirjaga \"[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]\".",
 	'wm-license-gfdl-1.3-only' => "Luba on antud selle dokumendi kopeerimiseks, avaldamiseks ja/või muutmiseks [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] avaldatud '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Vaba Dokumentatsiooni Litsentsi]]''' versiooni 1.3 tingimustel; muutumatute osadeta, esikaane tekstideta ja tagakaane tekstideta. Sellest loast on lisatud koopia leheküljel pealkirjaga \"[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]\".",
 	'wm-license-gfdl-wiki-link' => 'w:et:GNU FDL',
+	'wm-license-gpl-text' => "See teos on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] avaldatud '''[[{{int:wm-license-gpl-wiki-link}}|GNU Üldise Avaliku Litsentsi]]''' versioonis 2 või hilisemas seatud tingimustele. Seda teost levitatakse lootuses, et see on kasulik, aga '''igasuguse tagatiseta''', ka kaudse tagatiseta teose '''turustatavuse''' või '''müügikõlblikkuse''' kohta. Üksikasjad leiad [{{int:wm-license-gpl-2-full-link}} GNU Üldise Avaliku Litsentsi versioonidest 2] ja [{{int:wm-license-gpl-3-full-link}} 3].",
 	'wm-license-gpl-wiki-link' => 'w:et:GNU GPL',
 	'wm-license-information-table-summary' => 'Standardiseeritud tabel faili kohta käiva informatsiooniga, sisaldades endas kirjeldust, kuidas see tehtud on, märget autoriõiguste kohta ja allikat.',
 	'wm-license-information-description' => 'Kirjeldus',
@@ -2960,6 +2965,7 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-information-permission-reusing-text' => 'Faili uuesti kasutamine',
 	'wm-license-information-permission-see-below' => 'Vaata allpool.',
 	'wm-license-information-other-versions' => 'Teised versioonid',
+	'wm-license-lgpl-text' => "See teek on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] avaldatud '''[[{{int:wm-license-lgpl-wiki-link}}|GNU  Vähem Üldise Avaliku Litsentsi]]''' versioonis 2.1 või (sinu valikul) hilisemas seatud tingimustele. Seda teeki levitatakse lootuses, et see on kasulik, aga '''igasuguse tagatiseta''', ka kaudse tagatiseta teose '''turustatavuse''' või '''müügikõlblikkuse''' kohta. Üksikasjad leiad [{{int:wm-license-lgpl-2.1-full-link}} GNU Vähem Üldise Avaliku Litsentsi versioonidest 2.1] ja [{{int:wm-license-lgpl-3-full-link}} 3].",
 	'wm-license-lgpl-wiki-link' => 'w:et:GNU Vähem Üldine Avalik Litsents',
 	'wm-license-original-upload-log' => 'Esialgne üleslaadimislogi',
 	'wm-license-own-work' => 'Üleslaadija oma töö',
@@ -4097,6 +4103,7 @@ $messages['hsb'] = array(
 	'wm-license-information-permission' => 'Dowolenje',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Druhe wersije tuteje dataje',
+	'wm-license-self-multiple-licenses-select' => 'Móžeš licencu swojeje wólby wubrać.',
 );
 
 /** Hungarian (Magyar)
@@ -7432,18 +7439,42 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (Português do Brasil)
+ * @author BrunaaAa
  * @author Hamilton Abreu
  * @author Luckas Blade
  */
 $messages['pt-br'] = array(
 	'wikimedialicensetexts-desc' => 'Mensagens de licença da Wikimedia',
+	'wm-license-attribution-with-author-text' => "O dono dos direitos autorais desse arquivo, $1, permite a qualquer um usá-lo '''em qualquer propósito, provido que''' o dono dos direitos autorais seja propriamente atribuído. Redistribuição, trabalho derivado, uso comercial, e todos os outros usos são permitidos.",
+	'wm-license-attribution-without-author-text' => "O dono dos direitos autorais desse arquivo, permite a qualquer um usá-lo em '''qualquer propósito, provido que''' o dono dos direitos autorais seja propriamente atribuído. Redistribuição, trabalho derivado, uso comercial, e todos os outros usos são permitidos.",
 	'wm-license-cc-attribution' => 'Atribuição',
+	'wm-license-cc-by-1.0-text' => 'O arquivo está licenciado nos direitos autorais de tipo:  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]], [http://creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica]',
 	'wm-license-cc-free' => 'Você é livre:',
 	'wm-license-cc-free-to-share-header' => 'para compartilhar',
 	'wm-license-cc-free-to-share-text' => 'copiar, distribuir e transmitir a obra',
+	'wm-license-cc-free-to-remix-header' => 'para remixar',
+	'wm-license-cc-free-to-remix-text' => 'para adaptar o trabalho',
 	'wm-license-cc-conditions' => 'Sob as seguintes condições:',
 	'wm-license-cc-conditions-attribution-header' => 'atribuição',
+	'wm-license-cc-conditions-attribution-text' => 'Você deve atribuir o trabalho da forma especificada pelo autor ou licenciante (mas não na forma em que sugira que eles endossam você ou seu uso do trabalho).',
+	'wm-license-cc-conditions-share_alike-header' => 'compartilhar igualmente',
+	'wm-license-cc-conditions-share_alike-text' => 'Se você alterar, transformar, ou ampliar esta obra, você deve distribuir o trabalho resultante apenas sob a licensa similar ou igual a essa.',
+	'wm-license-cecill-text' => 'Esse trabalho é um [[{{int:wm-license-free-software-wiki-link}}|software gratuito]]; você pode redistribuí-lo, ou modificá-lo sob os termos de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Os termos da licença CeCILL estao disponíveis em [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-information-table-summary' => "É importante inserir nos arquivos (imagens, sons...) carregados uma ficha informativa ''standard''. A ficha inclui a descrição do que é mostrado no arquivo e como foi este foi feito, bem como informações sobre direitos autorais (''copyright'') e fonte.",
+	'wm-license-information-description' => 'Descrição',
+	'wm-license-information-description-missing' => "Este arquivo não tem '''descrição''', e pode ter outras informações faltando.",
+	'wm-license-information-description-missing-request' => 'Por favor, providencie uma descrição deste arquivo.',
+	'wm-license-information-source' => 'Fonte',
+	'wm-license-information-source-missing' => 'Este arquivo n contém informações sobre sua fonte.',
+	'wm-license-information-source-missing-request' => 'Por favor, edite a descrição deste arquivo e acrescente sua fonte.',
+	'wm-license-information-date' => 'Data',
+	'wm-license-information-author' => 'Autor',
+	'wm-license-information-author-missing' => "Este arquivo está sem a informação sobre seu '''autor'''",
+	'wm-license-information-permission' => 'Permissão',
+	'wm-license-information-permission-reusing-text' => 'Reutilizando este arquivo',
+	'wm-license-information-permission-see-below' => 'Veja abaixo.',
+	'wm-license-information-other-versions' => 'Outras versões',
+	'wm-license-original-upload-log' => 'Registro de upload original',
 	'wm-license-own-work' => 'Trabalho próprio pelo carregador',
 	'wm-license-self-multiple-licenses-select' => 'Você pode escolher a licença que quiser.',
 );
