@@ -2326,6 +2326,9 @@ $messages['dsb'] = array(
 	'wm-license-information-permission' => 'Dowolenje',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Druge wersije toś teje dataje',
+	'wm-license-original-upload-log' => 'Originalny protokol nagraśow',
+	'wm-license-own-work' => 'Swójske źěło',
+	'wm-license-self-multiple-licenses-select' => 'Móžoš licencu swójeje wólby wubraś.',
 );
 
 /** Greek (Ελληνικά)
@@ -2749,6 +2752,7 @@ $messages['es'] = array(
 	'wm-license-information-permission-see-below' => 'Mirar abajo.',
 	'wm-license-information-other-versions' => 'Otras versiones',
 	'wm-license-lgpl-wiki-link' => 'w:es:GNU Lesser General Public License',
+	'wm-license-original-upload-log' => 'Registro original de carga',
 	'wm-license-own-work' => 'Trabajo propio',
 	'wm-license-self-one-license' => 'Yo, titular de los derechos de autor de esta obra, la publico en los términos de la siguiente licencia:',
 	'wm-license-self-one-license-with-author' => '$1, titular de los derechos de autor de esta obra, la publica en los términos de la siguiente licencia:',
@@ -3740,11 +3744,12 @@ $messages['gl'] = array(
 	'wm-license-fal-wiki-link' => 'w:en:Free Art license',
 	'wm-license-fsf-wiki-link' => 'w:gl:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:gl:Software libre',
-	'wm-license-gfdl-1.2-and-later' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|Licenza de documentación libre GNU]]''', versión 1.2 ou calquera outra que posteriormente publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
-	'wm-license-gfdl-1.2-only' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|Licenza de documentación libre GNU]]''', versión 1.2 que publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
-	'wm-license-gfdl-1.3-and-later' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|Licenza de documentación libre GNU]]''', versión 1.3 ou calquera outra que posteriormente publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
-	'wm-license-gfdl-1.3-only' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|Licenza de documentación libre GNU]]''', versión 1.3 que publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-and-later' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|licenza de documentación libre GNU]]''', versión 1.2 ou calquera outra que posteriormente publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|licenza de documentación libre GNU]]''', versión 1.2 que publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-and-later' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|licenza de documentación libre GNU]]''', versión 1.3 ou calquera outra que posteriormente publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Autorízase a copia, distribución e/ou modificación deste documento baixo os termos da '''[[{{int:wm-license-gfdl-wiki-link}}|licenza de documentación libre GNU]]''', versión 1.3 que publique a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen seccións invariables, textos de portada, nin textos de contraportada. Inclúese unha copia da devandita licenza na sección titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:gl:Licenza de Documentación Libre de GNU',
+	'wm-license-gpl-text' => "Esta obra é [[{{int:wm-license-free-software-wiki-link}}|software libre]]; podes redistribuíla e/ou modificala segundo os termos da '''[[{{int:wm-license-gpl-wiki-link}}|licenza pública xeral GNU]]''' publicada pola [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], versión 2 ou calquera outra posterior. Esta obra distribúese coa esperanza de que poida ser útil, pero '''sen ningunha garantía'''; nin sequera a garantía implícita de '''comercialización''' ou '''adecuación a unha finalidade específica'''. Olla a [{{int:wm-license-gpl-2-full-link}} versión 2] e mais a [{{int:wm-license-gpl-3-full-link}} versión 3 da licenza pública xeral GNU] para obter máis detalles.",
 	'wm-license-gpl-wiki-link' => 'w:gl:GNU General Public License',
 	'wm-license-information-table-summary' => 'Unha táboa estandarizada que proporciona información completa sobre o ficheiro, incluíndo a descrición do que mostra e como se fixo, o estado dos dereitos de autor e a orixe.',
 	'wm-license-information-description' => 'Descrición',
@@ -3760,6 +3765,7 @@ $messages['gl'] = array(
 	'wm-license-information-permission-reusing-text' => 'Reuso deste ficheiro',
 	'wm-license-information-permission-see-below' => 'Véxase embaixo.',
 	'wm-license-information-other-versions' => 'Outras versións',
+	'wm-license-lgpl-text' => "Esta libraría é [[{{int:wm-license-free-software-wiki-link}}|software libre]]; podes redistribuíla e/ou modificala segundo os termos da '''[[{{int:wm-license-lgpl-wiki-link}}|licenza pública xeral limitada GNU]]''' publicada pola [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], versión 2.1 ou calquera outra posterior. Esta libraría distribúese coa esperanza de que poida ser útil, pero '''sen ningunha garantía'''; nin sequera a garantía implícita de '''comercialización''' ou '''adecuación a unha finalidade específica'''. Olla a [{{int:wm-license-lgpl-2.1-full-link}} versión 2.1] e mais a [{{int:wm-license-lgpl-3-full-link}} versión 3 da licenza pública xeral limitada GNU] para obter máis detalles.",
 	'wm-license-lgpl-wiki-link' => 'w:en:GNU Lesser General Public License',
 	'wm-license-original-upload-log' => 'Rexistro de cargas orixinal',
 	'wm-license-own-work' => 'Obra propia',
@@ -4103,6 +4109,8 @@ $messages['hsb'] = array(
 	'wm-license-information-permission' => 'Dowolenje',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Druhe wersije tuteje dataje',
+	'wm-license-original-upload-log' => 'Originalny protokol nahraćow',
+	'wm-license-own-work' => 'Swójske dźěło',
 	'wm-license-self-multiple-licenses-select' => 'Móžeš licencu swojeje wólby wubrać.',
 );
 
@@ -6504,6 +6512,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Finnrind
  * @author Jon Harald Søby
+ * @author Laaknor
  * @author Multichill
  * @author Nghtwlkr
  * @author Simny
@@ -6705,6 +6714,7 @@ $messages['no'] = array(
 	'wm-license-information-permission-see-below' => 'Se under.',
 	'wm-license-information-other-versions' => 'Andre versjoner',
 	'wm-license-lgpl-wiki-link' => 'w:no:GNU Lesser General Public License',
+	'wm-license-original-upload-log' => 'Orginal opplastningslogg',
 	'wm-license-own-work' => 'Eget verk',
 	'wm-license-self-one-license' => 'Jeg, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisens:',
 	'wm-license-self-one-license-with-author' => '$1, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisens:',
