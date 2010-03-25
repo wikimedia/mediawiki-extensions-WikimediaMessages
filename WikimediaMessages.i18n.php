@@ -2575,7 +2575,7 @@ $messages['fr'] = array(
 	'tooltip-n-sitesupport' => 'Aidez-nous',
 	'group-abusefilter' => 'Modificateurs de filtre antiabus',
 	'group-accountcreator' => 'Créateurs de comptes',
-	'group-arbcom' => "Membres du comité d'arbitrage",
+	'group-arbcom' => 'Membres du comité d’arbitrage',
 	'group-autopatrolled' => 'Patrouilles automatiques',
 	'group-autoreviewer' => 'Relecteurs automatiques',
 	'group-bigexport' => 'Grands exportateurs',
@@ -2648,7 +2648,7 @@ $messages['fr'] = array(
 	'group-inactive-member' => 'utilisateur inactif',
 	'grouppage-inactive' => '{{ns:project}}:Utilisateurs inactifs',
 	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité - partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="http://wikimediafoundation.org/wiki/conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
-	'wikimedia-copyrightwarning' => 'En cliquant sur « publier », vous acceptez de placer irrévocablement votre contribution sous [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution partage à l’identique 3.0] et [http://www.gnu.org/copyleft/fdl.html GFDL]. Vous acceptez d’être crédité par les ré-utilisateurs au minimum via un hyperlien ou une URL vers l’article auquel vous contribuez. Voyez les [http://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation] pour plus de détails.',
+	'wikimedia-copyrightwarning' => 'En cliquant sur « {{int:savearticle}} », vous acceptez de placer irrévocablement votre contribution sous [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution partage à l’identique 3.0] et [http://www.gnu.org/copyleft/fdl.html GFDL]. Vous acceptez d’être crédité par les ré-utilisateurs au minimum via un hyperlien ou une URL vers l’article auquel vous contribuez. Voyez les [http://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation] pour plus de détails.',
 	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [http://wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
 );
 
