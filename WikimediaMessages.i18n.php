@@ -712,9 +712,15 @@ $messages['az'] = array(
 	'sitesupport' => 'Bağışlar',
 );
 
-/** Bashkir (Башҡорт) */
+/** Bashkir (Башҡорт)
+ * @author Comp1089
+ */
 $messages['ba'] = array(
 	'sitesupport' => 'Ярҙам итеү',
+	'group-flood' => 'Боттар',
+	'group-import' => 'Импортёрҙар',
+	'group-Global_bot' => 'Глобаль боттары',
+	'group-inactive' => 'Әүҙемлекһеҙ ҡатнашыусылар',
 );
 
 /** Samogitian (Žemaitėška)
@@ -910,7 +916,6 @@ $messages['bg'] = array(
 	'group-accountcreator' => 'Създатели на сметки',
 	'group-arbcom' => 'Членове на арбитражната комисия',
 	'group-autopatrolled' => 'Автопатрули',
-	'group-autopatroller' => 'Автопатрульори',
 	'group-autoreviewer' => 'Авторецензенти',
 	'group-bigexport' => 'Големи износители',
 	'group-confirmed' => 'Потвърдени потребители',
@@ -926,7 +931,6 @@ $messages['bg'] = array(
 	'group-accountcreator-member' => 'създател на сметки',
 	'group-arbcom-member' => 'член на арбитражната комисия',
 	'group-autopatrolled-member' => 'Автопатрульор',
-	'group-autopatroller-member' => 'Автопатрульор',
 	'group-autoreviewer-member' => 'авторецензент',
 	'group-bigexport-member' => 'голям износител',
 	'group-confirmed-member' => 'потвърден потребител',
@@ -942,7 +946,6 @@ $messages['bg'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Създатели на сметки',
 	'grouppage-arbcom' => '{{ns:project}}:Членове на арбитражната комисия',
 	'grouppage-autopatrolled' => '{{ns:project}}:Автопатрули',
-	'grouppage-autopatroller' => '{{ns:project}}:Автопатрули',
 	'grouppage-autoreviewer' => '{{ns:project}}:Авторецензенти',
 	'grouppage-bigexport' => '{{ns:project}}: Големи износители',
 	'grouppage-confirmed' => '{{ns:project}}:Потвърдени потребители',
@@ -958,6 +961,7 @@ $messages['bg'] = array(
 	'group-editinterface' => 'Редактори на интерфейса',
 	'group-Global_bot' => 'Глобални ботове',
 	'group-Global_rollback' => 'Глобални изпълнители на отмени',
+	'group-Global_sysops' => 'Глобални администратори',
 	'group-Ombudsmen' => 'Омбудсмани',
 	'group-Staff' => 'Персонал',
 	'group-steward-member' => 'Стюард',
@@ -965,6 +969,7 @@ $messages['bg'] = array(
 	'group-editinterface-member' => 'редактор на интерфейса',
 	'group-Global_bot-member' => 'глобален бот',
 	'group-Global_rollback-member' => 'глобален изпълнител на отмени',
+	'group-Global_sysops-member' => 'глобален администратор',
 	'group-Ombudsmen-member' => 'омбудсман',
 	'group-Staff-member' => 'персонал',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
@@ -1136,6 +1141,7 @@ $messages['br'] = array(
 	'group-editinterface' => 'Aozañ etrefas',
 	'group-Global_bot' => 'Botoù hollek',
 	'group-Global_rollback' => 'Digargerien hollek',
+	'group-Global_sysops' => 'Merourien hollek',
 	'group-Ombudsmen' => 'Hanterourien',
 	'group-Staff' => 'skipailh',
 	'group-steward-member' => 'Steward',
@@ -1143,6 +1149,7 @@ $messages['br'] = array(
 	'group-editinterface-member' => 'aozer an etrefas',
 	'group-Global_bot-member' => 'bot hollek',
 	'group-Global_rollback-member' => 'digargerien hollek',
+	'group-Global_sysops-member' => 'merour hollek',
 	'group-Ombudsmen-member' => 'hanterour',
 	'group-Staff-member' => "Ezel eus ar c'hoskor",
 	'group-coder' => 'Koderien',
@@ -2556,6 +2563,7 @@ $messages['fo'] = array(
 
 /** French (Français)
  * @author Crochet.david
+ * @author Fulup
  * @author Grondin
  * @author Guillom
  * @author Hercule
@@ -2633,7 +2641,7 @@ $messages['fr'] = array(
 	'group-editinterface' => 'Modificateurs de l’interface',
 	'group-Global_bot' => 'Bots globaux',
 	'group-Global_rollback' => 'Révocateurs globaux',
-	'group-Global_sysops' => 'Administrateurs globaux',
+	'group-Global_sysops' => 'Merourien hollek',
 	'group-Ombudsmen' => 'Médiateurs',
 	'group-Staff' => 'Personnel',
 	'group-steward-member' => 'steward',
@@ -3494,13 +3502,16 @@ $messages['hr'] = array(
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'group-abusefilter' => 'Urednici filtra zloporaba',
 	'group-accountcreator' => 'Otvaratelji računa',
-	'group-autopatroller' => 'Automatski patrolirani',
+	'group-arbcom' => 'Članovi arbitražnog odbora',
+	'group-autopatrolled' => 'Automatski patrolirani',
 	'group-autoreviewer' => 'Samoocjenjivači',
 	'group-bigexport' => 'Veliki izvoznici',
 	'group-confirmed' => 'Potvrđeni suradnici',
+	'group-editprotected' => 'Uređivači zaštićenih stranica',
 	'group-flood' => 'Botovi',
 	'group-founder' => 'Osnivači',
 	'group-import' => 'Unositelji',
+	'group-interface_editors' => 'Uređivači sučelja',
 	'group-ipblock-exempt' => 'IP blok iznimke',
 	'group-patroller' => 'Patroleri',
 	'group-rollbacker' => 'Uklonitelji',
@@ -3508,14 +3519,16 @@ $messages['hr'] = array(
 	'group-trusted' => 'Suradnici od povjerenja',
 	'group-abusefilter-member' => 'urednik filtra zloporaba',
 	'group-accountcreator-member' => 'otvaratelj računa',
+	'group-arbcom-member' => 'član arbitražnog odbora',
 	'group-autopatrolled-member' => 'automatski patroliran',
-	'group-autopatroller-member' => 'automatski patroliran',
 	'group-autoreviewer-member' => 'samoocjenjivač',
 	'group-bigexport-member' => 'veliki izvoznik',
 	'group-confirmed-member' => 'potvrđeni suradnik',
+	'group-editprotected-member' => 'uređivač zaštićenih stranica',
 	'group-flood-member' => 'bot',
 	'group-founder-member' => 'osnivač',
 	'group-import-member' => 'unositelj',
+	'group-interface_editors-member' => 'uređivač sučelja',
 	'group-ipblock-exempt-member' => 'IP blok iznimka',
 	'group-patroller-member' => 'Patroler',
 	'group-rollbacker-member' => 'uklonitelj',
@@ -3523,14 +3536,16 @@ $messages['hr'] = array(
 	'group-trusted-member' => 'suradnik od povjerenja',
 	'grouppage-abusefilter' => '{{ns:project}}:Urednici filtra zloporaba',
 	'grouppage-accountcreator' => '{{ns:project}}:Otvaratelji računa',
+	'grouppage-arbcom' => '{{ns:project}}:Članovi arbitražnog odbora',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatski patrolirani',
-	'grouppage-autopatroller' => '{{ns:project}}:Automatski patrolirani',
 	'grouppage-autoreviewer' => '{{ns:project}}:Samoocjenjivači',
 	'grouppage-bigexport' => '{{ns:project}}:Veliki izvoznici',
 	'grouppage-confirmed' => '{{ns:project}}:Potvrđeni suradnici',
+	'grouppage-editprotected' => '{{ns:project}}:Uređivači zaštićenih stranica',
 	'grouppage-flood' => '{{ns:project}}:Botovi',
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
 	'grouppage-import' => '{{ns:project}}:Unositelji',
+	'grouppage-interface_editors' => '{{ns:project}}:Uređivači sučelja',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blok iznimka',
 	'grouppage-rollbacker' => '{{ns:project}}:Uklonitelji',
 	'grouppage-transwiki' => '{{ns:project}}:Međuwiki unositelji',
@@ -3540,6 +3555,7 @@ $messages['hr'] = array(
 	'group-editinterface' => 'Uređivači sučelja',
 	'group-Global_bot' => 'Globalni bot',
 	'group-Global_rollback' => 'Globalni uklonitelji',
+	'group-Global_sysops' => 'Globalni administratori',
 	'group-Ombudsmen' => 'Ombudsman',
 	'group-Staff' => 'Osoblje',
 	'group-steward-member' => 'Stjuard',
@@ -3547,6 +3563,7 @@ $messages['hr'] = array(
 	'group-editinterface-member' => 'urednik sučelja',
 	'group-Global_bot-member' => 'globalni bot',
 	'group-Global_rollback-member' => 'globalni uklonitelj',
+	'group-Global_sysops-member' => 'globalni administrator',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'group-Staff-member' => 'član osoblja',
 	'grouppage-steward' => '{{ns:project}}:Stjuardi',
@@ -7778,6 +7795,7 @@ $messages['su'] = array(
 );
 
 /** Swedish (Svenska)
+ * @author Ainali
  * @author Boivie
  * @author Fluff
  * @author Jon Harald Søby
@@ -7798,7 +7816,6 @@ $messages['sv'] = array(
 	'group-accountcreator' => 'Kontoskapare',
 	'group-arbcom' => 'Medlemmar av förlikningskommitte',
 	'group-autopatrolled' => 'Autopatrullerare',
-	'group-autopatroller' => 'Autopatrullerare',
 	'group-autoreviewer' => 'Automatiska granskare',
 	'group-bigexport' => 'Stora exporterare',
 	'group-confirmed' => 'Bekräftade användare',
@@ -7814,7 +7831,6 @@ $messages['sv'] = array(
 	'group-accountcreator-member' => 'kontoskapare',
 	'group-arbcom-member' => 'medlem av förlikningskommitte',
 	'group-autopatrolled-member' => 'autopatrullerare',
-	'group-autopatroller-member' => 'autopatrullerare',
 	'group-autoreviewer-member' => 'automatisk granskare',
 	'group-bigexport-member' => 'stor exporterare',
 	'group-confirmed-member' => 'bekräftad användare',
@@ -7830,7 +7846,6 @@ $messages['sv'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoskapare',
 	'grouppage-arbcom' => '{{ns:project}}:Förlikningskommittemedlemmar',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrullerare',
-	'grouppage-autopatroller' => '{{ns:project}}:Autopatrullerare',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiska granskare',
 	'grouppage-bigexport' => '{{ns:project}}:Stora exporterare',
 	'grouppage-confirmed' => '{{ns:project}}:Bekräftade användare',
@@ -7846,6 +7861,7 @@ $messages['sv'] = array(
 	'group-editinterface' => 'Gränssnitts-redigeringar',
 	'group-Global_bot' => 'Globala robotar',
 	'group-Global_rollback' => 'Globala tillbakarullare',
+	'group-Global_sysops' => 'Globala administratörer',
 	'group-Ombudsmen' => 'Ombudsmän',
 	'group-Staff' => 'Personal',
 	'group-steward-member' => 'steward',
@@ -7853,6 +7869,7 @@ $messages['sv'] = array(
 	'group-editinterface-member' => 'gränssnitts-redigering',
 	'group-Global_bot-member' => 'global robot',
 	'group-Global_rollback-member' => 'global tillbakarullare',
+	'group-Global_sysops-member' => 'global administratör',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'group-Staff-member' => 'personal',
 	'grouppage-steward' => 'm:Stewards/nb',

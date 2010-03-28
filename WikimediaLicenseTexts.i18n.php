@@ -2480,6 +2480,8 @@ $messages['eo'] = array(
 	'wm-license-cc-by-2.5-au-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/au/deed.eo Atribuite 2.0 Aŭstralio] permesilo',
 	'wm-license-cc-by-2.5-bg-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/bg/deed.eo Atribuite 2.0 Bulgarujo] permesilo',
 	'wm-license-cc-by-2.5-br-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/br/deed.eo Atribuite 2.0 Brazilo] permesilo',
+	'wm-license-cc-by-2.5-ca-text' => 'Ĉi tiu dosiero estas permesita sub la permisilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/ca/deed.eo Atribuite 2.5 Kanado].',
+	'wm-license-cc-by-2.5-ch-text' => 'Ĉi tiu dosiero estas permesita sub la permisilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/ch/deed.eo Atribuite 2.5 Svislando].',
 	'wm-license-cc-by-2.5-cn-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/cn/deed.eo Atribuite 2.0 Ĉinujo] permesilo',
 	'wm-license-cc-by-2.5-dk-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/dk/deed.eo Atribuite 2.0 Danujo] permesilo',
 	'wm-license-cc-by-2.5-es-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/es/deed.eo Atribuite 2.0 Hispanujo] permesilo',
@@ -2568,6 +2570,7 @@ $messages['eo'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Vi devas atribui la verkon en la maniero volita de la aŭtoro aŭ rajto-propanto (sed ne iamaniere sugestante ke ili subtenas vin aŭ vian uzon de la verko).',
 	'wm-license-cc-conditions-share_alike-header' => 'samkondiĉa',
 	'wm-license-cc-conditions-share_alike-text' => 'Se vi modifas, transformas, aŭ kreas devenaĵon bazitan de ĉi tiu verko, vi rajtas distribui la rezultan verkon nur laŭ la sama aŭ simila permisilo al ĉi tiu.',
+	'wm-license-fal-text' => "Rajtocedo (\"Copyleft\"): Ĉi tiu verko de arto estas libera; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la reguloj de la '''[[{{int:wm-license-fal-wiki-link}}|Permisilo por Libera Arto]]'''. Vi trovos specimenon de ĉi tiu permisilo en la [{{int:wm-license-fal-full-link}} retejo Copyleft] kaj ankaŭ aliaj retejoj.",
 	'wm-license-fsf-wiki-link' => 'w:eo:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:eo:Libera programaro',
 	'wm-license-gfdl-wiki-link' => 'w:eo:GFDL',
@@ -4130,6 +4133,7 @@ $messages['hif-latn'] = array(
  * @author Multichill
  */
 $messages['hr'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedijine licenčne poruke',
 	'wm-license-cc-wiki-link' => 'w:hr:Creative Commons',
 	'wm-license-cc-attribution' => 'Pripisivanje',
 	'wm-license-fsf-wiki-link' => 'w:hr:Zaklada za slobodan softver',
@@ -6791,7 +6795,7 @@ $messages['no'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Du må kreditere verket på den måte som er spesifisert av forfatteren eller lisensgiveren (men ikke på en måte som antyder at de påtegnet deg eller din bruk av verket).',
 	'wm-license-cc-conditions-share_alike-header' => 'del på samme vilkår',
 	'wm-license-cc-conditions-share_alike-text' => 'Dersom du endrer, bearbeider eller bygger på dette verket, kan du kun distribuere resultatet under den samme eller en lignende lisens som denne.',
-	'wm-license-cecill-text' => 'Dette arbeidet er [[int:wm-license-free-software-wiki-link}}|fri programvare]]; du kan redistribuere det eller endre under etter vilkårene i [[{{int:wm-license-cecill-wiki-link|CeCILL]]. Vilkårene i lisensen er tilgjengelig på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-cecill-text' => 'Dette arbeidet er [[{{int:wm-license-free-software-wiki-link}}|fri programvare]]; du kan redistribuere eller endre det under vilkårene i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkårene i CeCILL-lisensen er tilgjengelig på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fsf-wiki-link' => 'w:no:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:no:Fri programvare',
 	'wm-license-gfdl-wiki-link' => 'w:no:GNU fri dokumentasjonslisens',
@@ -8484,6 +8488,7 @@ $messages['su'] = array(
 );
 
 /** Swedish (Svenska)
+ * @author Ainali
  * @author Boivie
  * @author Multichill
  * @author Per
@@ -8658,7 +8663,11 @@ $messages['sv'] = array(
 	'wm-license-gpl-wiki-link' => 'w:sv:GNU General Public License',
 	'wm-license-information-table-summary' => 'En standarmall för att ge komplett information om en fil, såsom en bildbeskrivning, upphovsrättsstatus, osv.',
 	'wm-license-information-description' => 'Beskrivning',
+	'wm-license-information-description-missing' => "Den här filen har ingen '''beskrivning''', och kan sakna annan information.",
+	'wm-license-information-description-missing-request' => 'Ange en meningsfull beskrivning av denna fil.',
 	'wm-license-information-source' => 'Källa',
+	'wm-license-information-source-missing' => "Denna fil saknar information om '''källa'''.",
+	'wm-license-information-source-missing-request' => 'Redigera denna fils beskrivning och ange en källa.',
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Skapare',
 	'wm-license-information-author-missing' => "Denna media '''saknar information''' om dess '''skapare'''.",
