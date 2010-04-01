@@ -6514,7 +6514,6 @@ $messages['pt'] = array(
 	'group-accountcreator' => 'Criadores de contas',
 	'group-arbcom' => 'Membros da comissão de arbitragem',
 	'group-autopatrolled' => 'Autopatrulhadores',
-	'group-autopatroller' => 'Autopatrulhadores',
 	'group-autoreviewer' => 'Autocríticos',
 	'group-bigexport' => 'Grandes exportadores',
 	'group-confirmed' => 'Utilizadores confirmados',
@@ -6532,7 +6531,6 @@ $messages['pt'] = array(
 	'group-accountcreator-member' => 'criador de contas',
 	'group-arbcom-member' => 'membro da comissão de arbitragem',
 	'group-autopatrolled-member' => 'autopatrulhador',
-	'group-autopatroller-member' => 'autopatrulhador',
 	'group-autoreviewer-member' => 'autocrítico',
 	'group-bigexport-member' => 'grande exportador',
 	'group-confirmed-member' => 'utilizador confirmado',
@@ -6550,7 +6548,6 @@ $messages['pt'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
 	'grouppage-arbcom' => '{{ns:project}}:Membros da comissão de arbitragem',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrulhadores',
-	'grouppage-autopatroller' => '{{ns:project}}:Autopatrulhadores',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autocríticos',
 	'grouppage-bigexport' => '{{ns:project}}:Grandes exportadores',
 	'grouppage-confirmed' => '{{ns:project}}:Utilizadores confirmados',
@@ -6589,7 +6586,7 @@ $messages['pt'] = array(
 pode estar sujeito a condições adicionais.
 Consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a> para mais detalhes.',
 	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
-Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de uma hiperligação ou URL para a página em que está a contribuir. Consulte as [http://wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] para mais detalhes.',
+Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de uma hiperligação ou URL para a página em que está a contribuir. Consulte as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] para mais detalhes.',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
 Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e você concorda em seguir quaisquer condições de licenciamento relevantes.',
 );
