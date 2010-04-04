@@ -215,6 +215,13 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
+/** Abkhazian (Аҧсуа)
+ * @author Temuri rajavi
+ */
+$messages['ab'] = array(
+	'sitesupport' => 'Ацхыраара зылшо',
+);
+
 /** Achinese (Acèh)
  * @author Andri.h
  */
@@ -6859,7 +6866,7 @@ $messages['ro'] = array(
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator de sistem',
 	'group-editinterface-member' => 'editori de interfaţă',
-	'group-Global_bot-member' => 'robot global',
+	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'revocator global',
 	'group-Global_sysops-member' => 'Administrator global',
 	'group-Ombudsmen-member' => 'mijlocitor independent',
