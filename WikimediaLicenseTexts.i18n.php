@@ -1288,11 +1288,13 @@ $messages['bs'] = array(
 /** Catalan (Català)
  * @author Aleator
  * @author Multichill
+ * @author Paucabot
  * @author Solde
  * @author Vriullop
  */
 $messages['ca'] = array(
 	'wikimedialicensetexts-desc' => 'Missatges de llicència de Wikimedia',
+	'wm-license-attribution-with-author-text' => "El titular dels drets d'autor d'aquest arxiu, $1, permet que qualsevol pugui usar-lo '''per a qualsevol propòsit, sempre que''' el titular dels drets d'autor sigui reconegut correctament. La redistribució, les obres derivades, l'ús comercial, i qualsevol altre ús està permès.",
 	'wm-license-cc-wiki-link' => 'w:ca:Creative Commons',
 	'wm-license-cc-attribution' => 'Reconeixement',
 	'wm-license-cc-by-1.0-text' => 'Aquest fitxer està disponible sota la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.ca Reconeixement 1.0 Genèrica].',
@@ -1419,6 +1421,10 @@ $messages['ca'] = array(
 	'wm-license-information-other-versions' => 'Altres versions',
 	'wm-license-lgpl-wiki-link' => 'w:ca:LGPL',
 	'wm-license-own-work' => 'Treball propi',
+	'wm-license-self-one-license' => "Jo, el titular dels drets d'autor d'aquest treball, el public sota la següent llicència:",
+	'wm-license-self-one-license-with-author' => "$1, el titular dels drets d'autor d'aquest treball, el public sota la següent llicència:",
+	'wm-license-self-multiple-licenses' => "Jo, el titular dels drets d'autor d'aquest treball, el public sota les següents llicències:",
+	'wm-license-self-multiple-licenses-with-author' => "$1, el titular dels drets d'autor d'aquest treball, el public sota les següents llicències:",
 	'wm-license-self-multiple-licenses-select' => 'Podeu seleccionar la llicència que vulgueu.',
 );
 
@@ -4983,6 +4989,15 @@ $messages['it'] = array(
 	'wm-license-cc-by-2.5-mk-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/deed.it Attribuzione 2.5 Macedonia]',
 	'wm-license-cc-by-2.5-mt-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/deed.it Attribuzione 2.5 Malta].',
 	'wm-license-cc-by-2.5-mx-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/deed.it Attribuzione 2.5 Messico]',
+	'wm-license-cc-by-2.5-my-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/deed.it Attribuzione 2.5 Malesia]',
+	'wm-license-cc-by-2.5-nl-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/deed.it Attribuzione 2.5 Paesi Bassi].',
+	'wm-license-cc-by-2.5-pe-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/deed.it Attribuzione 2.5 Perù].',
+	'wm-license-cc-by-2.5-pl-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/deed.it Attribuzione 2.5 Polonia].',
+	'wm-license-cc-by-2.5-pt-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/deed.it Attribuzione 2.5 Portogallo].',
+	'wm-license-cc-by-2.5-scotland-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.it Attribuzione 2.5 UK: Scozia]',
+	'wm-license-cc-by-2.5-se-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.it Attribuzione 2.5 Svezia].',
+	'wm-license-cc-by-2.5-si-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/deed.it Attribuzione 2.5 Slovenia].',
+	'wm-license-cc-by-2.5-tw-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.it Attribuzione 2.5 Taiwan]',
 	'wm-license-cc-by-3.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.it Attribuzione 3.0 Unported]',
 	'wm-license-cc-by-sa-1.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.it Attribuzione-Condividi allo stesso modo 1.0 Generico]',
 	'wm-license-cc-by-sa-2.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.it Attribuzione-Condividi allo stesso modo 2.0 Generico]',
