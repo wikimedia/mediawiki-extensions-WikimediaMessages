@@ -2137,7 +2137,7 @@ $messages['eo'] = array(
 	'wikimedia-copyright' => 'La teksto disponas sub la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Permesilo Commons Attribution/Share-Alike</a>; eble aldonaj kondiĉoj aplikeblas. Vidu <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">rajtojn de uzado</a> por detaloj.',
 	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime eldoni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. 
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtojn de Uzado] por detaloj.',
-	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verko estu redaktata kaj redistruita laŭvole, tiam ne enigu ĝin ĉi tie. Se vi ne verkis ĝin mem, ĝi devas esti havebla kun rajtoj kiuj ne kontraŭas al la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj vi konsentas sekvi ĉiujn ĉi-temajn permesilajn devigojn.',
+	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verko estu redaktata kaj redistribuata laŭvole, tiam ne enigu ĝin ĉi tie. Se vi ne verkis ĝin mem, ĝi devas esti havebla kun rajtoj kiuj ne kontraŭas al la [http://wikimediafoundation.org/wiki/Terms_of_Use Kondiĉoj de Uzado], kaj vi konsentas sekvi ĉiujn ĉi-temajn permesilajn devigojn.',
 );
 
 /** Spanish (Español)
@@ -2773,6 +2773,14 @@ Vos accèptâd d’étre crèditâ per los rèutilisators u muens avouéc un lim
 Vêde les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo] por més de dètalys.',
 	'wikimedia-editpage-tos-summary' => 'Se vos voléd pas que voutros ècrits seyont changiês et rebalyês a volontât, adonc los volyéd pas sometre ique.
 Se vos los éd pas ècrits vos-mémo, dêvont étre disponiblos desot des condicions compatibles avouéc les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo], et pués vos accèptâd de siuvre totes les ègzigences de la licence.',
+);
+
+/** Northern Frisian (Frasch)
+ * @author Pyt
+ */
+$messages['frr'] = array(
+	'wikimedia-copyright' => 'Di täkst stoont uner e lisäns <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> tu rädj; betängelse haanetu koone önjwiinjbor weese.
+Änkelthäide san önj da <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">njütingsbetängelse</a> beschraawen.',
 );
 
 /** Friulian (Furlan)
@@ -7725,7 +7733,6 @@ $messages['stq'] = array(
 	'group-abusefilter' => 'Misbruukssieuwe-Beoarbaidere',
 	'group-accountcreator' => 'Benutserkonten-Moakere',
 	'group-autopatrolled' => 'Automatiske Kontrollierdere',
-	'group-autopatroller' => 'Automatiske Wröigere',
 	'group-autoreviewer' => 'Autowröigere',
 	'group-bigexport' => 'Grootexporteure',
 	'group-confirmed' => 'Bestäätigede Benutsere',
@@ -7740,7 +7747,6 @@ $messages['stq'] = array(
 	'group-abusefilter-member' => 'Misbruukssieuwe-Beoarbaider',
 	'group-accountcreator-member' => 'Benutserkonten-Moaker',
 	'group-autopatrolled-member' => 'Automatisken Wröiger',
-	'group-autopatroller-member' => 'Automatisken Wröiger',
 	'group-autoreviewer-member' => 'Automatisken Wröiger',
 	'group-bigexport-member' => 'Grootexporteur',
 	'group-confirmed-member' => 'Bestäätigeden Benutser',
@@ -7755,7 +7761,6 @@ $messages['stq'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:Misbruukssieuwe-Beoarbaidere',
 	'grouppage-accountcreator' => '{{ns:project}}:Benutserkonten-Moakere',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatiske Wröigere',
-	'grouppage-autopatroller' => '{{ns:project}}:Automatiske Wröigere',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske Wröigere',
 	'grouppage-bigexport' => '{{ns:project}}:Grootexporteure',
 	'grouppage-confirmed' => '{{ns:project}}:Bestäätigede Benutsere',
@@ -7786,7 +7791,7 @@ $messages['stq'] = array(
 	'group-inactive' => 'Inaktive Benutsere',
 	'group-inactive-member' => 'Inaktiven Benutser',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutsere',
-	'wikimedia-copyright' => 'Die Text is unner ju Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verföigboar; Bedingengen uurhoop konnen anweendboar weese.
+	'wikimedia-copyright' => 'Die Text is unner ju Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> ferföigboar; Bedingengen uurhoop konnen anweendboar weese.
 Eenpeldhaide sunt in do <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutsengsbedingengen</a> beschrieuwen.',
 	'wikimedia-copyrightwarning' => 'Mäd dät Spiekerjen lizenzierst du dien Beoarbaidenge sunner dät du dät touräächtraale koast unner ju [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] un ju [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimst tou, dät ne Fääreferweendenge ap minste truch n Hyperlink of ne URL tou ju Siede, ju du beoarbaidest, geböäre duur.

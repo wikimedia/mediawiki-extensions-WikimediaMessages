@@ -2447,6 +2447,7 @@ $messages['el'] = array(
 
 /** Esperanto (Esperanto)
  * @author Castelobranco
+ * @author Marcos
  * @author Multichill
  * @author Yekrats
  * @author Ziko
@@ -2638,9 +2639,9 @@ $messages['eo'] = array(
 	'wm-license-gfdl-1.3-and-later' => "Estas permesite kopii, disdoni kaj/aŭ redakti ĉi tiun dokumenton, sen senŝanĝaj sekcioj, sen antaŭkovrilaj kaj sen dorskovrilaj tekstoj, laŭ la kondiĉoj de la '''[[{{int:wm-license-gfdl-wiki-link}}|Permesilo GNU por Liberaj Dokumentoj]]''', Versio 1.3 aŭ ajna pli nova versio eldonita de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen Senŝanĝaj Sekcioj, Antaŭovrilaj Tekstoj aŭ Malantaŭkovrilaj Tekstoj. Kopio de la permesilo estas inkluzivita en la sekcio titolita ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Estas permesite kopii, disdoni kaj/aŭ redakti ĉi tiun dokumenton, sen senŝanĝaj sekcioj, sen antaŭkovrilaj kaj sen dorskovrilaj tekstoj, laŭ la kondiĉoj de la '''[[{{int:wm-license-gfdl-wiki-link}}|Permesilo GNU por Liberaj Dokumentoj]]''', nur Versio 1.3 versio eldonita de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen Senŝanĝaj Sekcioj, Antaŭovrilaj Tekstoj aŭ Malantaŭkovrilaj Tekstoj. Kopio de la permesilo estas inkluzivita en la sekcio titolita ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:eo:GFDL',
-	'wm-license-gpl-text' => "Ĉi tiu verko estas [[{{int:wm-license-free-software-wiki-link}}|libera softvaro]]; vi rajtas ĝin redistribui kaj/aŭ modifi laŭ la kondiĉoj de la '''[[{{int:wm-license-gpl-wiki-link}}|GNU Ĝenerala Publika Licenco]]''' en ties eldono de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; per aŭ versiono 2 de la Licenco, aŭ iu posta versio. Ĉi tiu verko estas distribuita kun la espero ke ĝi estos utila, sed '''sen ia ajn garantio'''; eĉ sen la implikita garantio de '''surmerkatebleco''' aŭ '''taŭgeco por ia specifa celo'''. Vidu [{{int:wm-license-gpl-2-full-link}} version 2] kaj [{{int:wm-license-gpl-3-full-link}} version 3 de la GNU Ĝenerala Publika Licenco] por pluaj detaloj.",
+	'wm-license-gpl-text' => "Ĉi tiu verko estas [[{{int:wm-license-free-software-wiki-link}}|libera programo]]; vi rajtas ĝin redistribui kaj/aŭ modifi laŭ la kondiĉoj de la '''[[{{int:wm-license-gpl-wiki-link}}|Ĝenerala Publika Permesilo GNU]]''' en ties eldono de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; per aŭ versiono 2 de la permesilo, aŭ iu posta versio. Ĉi tiu verko estas distribuita kun la espero ke ĝi estos utila, sed '''sen ia ajn garantio'''; eĉ sen la implicita garantio de '''surmerkatigebleco''' aŭ '''taŭgeco por ia specifa celo'''. Vidu [{{int:wm-license-gpl-2-full-link}} version 2] kaj [{{int:wm-license-gpl-3-full-link}} version 3 de la Ĝenerala Publika Permesilo GNU] por pluaj detaloj.",
 	'wm-license-gpl-wiki-link' => 'w:eo:GPL',
-	'wm-license-information-table-summary' => 'Standardigita tabelo, liveranta plenan informaron pri la dosiero kaj la prezentita subjekto, pri la prezenta maniero, stato de la aŭtorrajtoj kaj pri la dosier-fonto.',
+	'wm-license-information-table-summary' => 'Normigita tabelo, liveranta plenan informaron pri la dosiero kaj la prezentita subjekto, pri la prezenta maniero, stato de la aŭtorrajtoj kaj pri la dosier-fonto.',
 	'wm-license-information-description' => 'Priskribo',
 	'wm-license-information-description-missing' => "La dosiero havas neniun '''priskribon''' kaj eble mankas ankaŭ aliaj informoj.",
 	'wm-license-information-description-missing-request' => 'Bonvolu liveri taŭgan priskribon de la dosiero.',
@@ -2649,12 +2650,12 @@ $messages['eo'] = array(
 	'wm-license-information-source-missing-request' => 'Bonvolu plibonigi la priskribon kaj liveri fontindikon.',
 	'wm-license-information-date' => 'Dato',
 	'wm-license-information-author' => 'Aŭtoro',
-	'wm-license-information-author-missing' => "La dosiero malhavas informojn pri '''aŭtoro.'''",
+	'wm-license-information-author-missing' => "Al la dosiero mankas informoj pri '''aŭtoro.'''",
 	'wm-license-information-permission' => 'Permeso',
 	'wm-license-information-permission-reusing-text' => 'Reuzante ĉi tiun dosieron',
 	'wm-license-information-permission-see-below' => 'Vidu sube.',
 	'wm-license-information-other-versions' => 'Ceteraj versioj',
-	'wm-license-lgpl-text' => "Ĉi tiu biblioteko estas [[{{int:wm-license-free-software-wiki-link}}|libera softvaro]]; vi rajtas ĝin redistribui kaj/aŭ modifi laŭ la kondiĉoj de la '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Ĝenerala Publika Licenco]]''' en ties eldono de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; per aŭ versiono 2.1 de la Licenco, aŭ (laŭ via volo) iu posta versio. Ĉi tiu biblioteko estas distribuita kun la espero ke ĝi estos utila, sed '''sen ia ajn garantio'''; eĉ sen la implikita garantio de '''surmerkatebleco''' aŭ '''taŭgeco por ia specifa celo'''. Vidu [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] kaj [{{int:wm-license-lgpl-3-full-link}} version 3 de la GNU Ĝenerala Publika Licenco] por pluaj detaloj.",
+	'wm-license-lgpl-text' => "Ĉi tiu biblioteko estas [[{{int:wm-license-free-software-wiki-link}}|libera programaro]]; vi rajtas ĝin redistribui kaj/aŭ modifi laŭ la kondiĉoj de la '''[[{{int:wm-license-lgpl-wiki-link}}|Ĝenerala Publika Permesilo GNU]]''' en ties eldono de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; per aŭ versiono 2.1 de la permesilo, aŭ (laŭ via volo) iu posta versio. Ĉi tiu biblioteko estas distribuita kun la espero ke ĝi estos utila, sed '''sen ia ajn garantio'''; eĉ sen la implicita garantio de '''surmerkatigebleco''' aŭ '''taŭgeco por ia specifa celo'''. Vidu [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] kaj [{{int:wm-license-lgpl-3-full-link}} version 3 de la Ĝenerala Publika Permesilo GNU] por pluaj detaloj.",
 	'wm-license-original-upload-log' => 'Originala alŝutada protokolo',
 	'wm-license-own-work' => 'Propra verko',
 	'wm-license-self-one-license' => 'Mi, la posedanto de la aŭtorrajto de ĉi tiu verko, ja publikigas ĝin sub per la jena permesilo:',
@@ -4998,9 +4999,41 @@ $messages['it'] = array(
 	'wm-license-cc-by-2.5-se-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.it Attribuzione 2.5 Svezia].',
 	'wm-license-cc-by-2.5-si-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/deed.it Attribuzione 2.5 Slovenia].',
 	'wm-license-cc-by-2.5-tw-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.it Attribuzione 2.5 Taiwan]',
+	'wm-license-cc-by-2.5-za-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/deed.it Attribuzione 2.5 Sudafrica]',
 	'wm-license-cc-by-3.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.it Attribuzione 3.0 Unported]',
+	'wm-license-cc-by-3.0-at-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.it Attribuzione 3.0 Austria]',
+	'wm-license-cc-by-3.0-cz-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/deed.it Attribuzione 3.0 Repubblica Ceca].',
+	'wm-license-cc-by-3.0-de-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.it Attribuzione 3.0 Germania].',
+	'wm-license-cc-by-3.0-es-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.it Attribuzione 3.0 Spagna].',
+	'wm-license-cc-by-3.0-gr-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/deed.it Attribuzione 3.0 Grecia].',
+	'wm-license-cc-by-3.0-gt-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gt/deed.it Attribuzione 3.0 Guatemala].',
+	'wm-license-cc-by-3.0-hr-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/deed.it Attribuzione 3.0 Croazia].',
+	'wm-license-cc-by-3.0-hk-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hk/deed.it Attribuzione 3.0 Hong Kong].',
+	'wm-license-cc-by-3.0-lu-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/lu/deed.it Attribuzione 3.0 Lussemburgo].',
+	'wm-license-cc-by-3.0-nl-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/deed.it Attribuzione 3.0 Paesi Bassi].',
+	'wm-license-cc-by-3.0-no-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/deed.it Attribuzione 3.0 Norvegia].',
+	'wm-license-cc-by-3.0-nz-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/deed.it Attribuzione 3.0 Nuova Zelanda].',
+	'wm-license-cc-by-3.0-ph-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ph/deed.it Attribuzione 3.0 Filippine].',
+	'wm-license-cc-by-3.0-pl-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pl/deed.it Attribuzione 3.0 Polonia].',
+	'wm-license-cc-by-3.0-pr-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/deed.it Attribuzione 3.0 Porto Rico]',
+	'wm-license-cc-by-3.0-ro-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/deed.it Attribuzione 3.0 Romania].',
+	'wm-license-cc-by-3.0-rs-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.it Attribuzione 3.0 Serbia].',
+	'wm-license-cc-by-3.0-sg-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/sg/deed.it Attribuzione 3.0 Singapore].',
+	'wm-license-cc-by-3.0-th-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/th/deed.it Attribuzione 3.0 Thailandia].',
+	'wm-license-cc-by-3.0-tw-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/deed.it Attribuzione 3.0 Taiwan].',
+	'wm-license-cc-by-3.0-us-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.it Attribuzione 3.0 Stati Uniti].',
 	'wm-license-cc-by-sa-1.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.it Attribuzione-Condividi allo stesso modo 1.0 Generico]',
+	'wm-license-cc-by-sa-1.0-fi-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.it Attribuzione-Condividi allo stesso modo 1.0 Finlandia].',
+	'wm-license-cc-by-sa-1.0-il-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/il/deed.it Attribuzione-Condividi allo stesso modo 1.0 Israele].',
+	'wm-license-cc-by-sa-1.0-nl-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.it Attribuzione-Condividi allo stesso modo 1.0 Paesi Bassi].',
 	'wm-license-cc-by-sa-2.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.it Attribuzione-Condividi allo stesso modo 2.0 Generico]',
+	'wm-license-cc-by-sa-2.0-at-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.it Attribuzione-Condividi allo stesso modo 2.0 Austria].',
+	'wm-license-cc-by-sa-2.0-au-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.it Attribuzione-Condividi allo stesso modo 2.0 Australia]',
+	'wm-license-cc-by-sa-2.0-be-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/be/deed.it Attribuzione-Condividi allo stesso modo 2.0 Belgio].',
+	'wm-license-cc-by-sa-2.0-br-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/br/deed.it Attribuzione-Condividi allo stesso modo 2.0 Brasile].',
+	'wm-license-cc-by-sa-2.0-ca-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ca/deed.en Attribuzione-Condividi allo stesso modo 2.0 Canada].',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/cl/deed.it Attribuzione-Condividi allo stesso modo 2.0 Cile].',
+	'wm-license-cc-by-sa-2.0-de-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.it Attribuzione-Condividi allo stesso modo 2.0 Germania].',
 	'wm-license-cc-by-sa-2.5-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.it Attribuzione-Condividi allo stesso modo 2.5 Generico]',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Questo file è licenziato in base ai termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.it Attribuzione-Condividi allo stesso modo 2.5 Argentina]',
 	'wm-license-cc-by-sa-3.0-text' => 'Questo file è sotto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.it Attribuzione-Condividi allo stesso modo 3.0 Unported]',
@@ -6662,6 +6695,7 @@ $messages['ml'] = array(
 	'wm-license-information-permission-reusing-text' => 'ഈ പ്രമാണത്തിന്റെ പുനരുപയോഗം',
 	'wm-license-information-permission-see-below' => 'താഴെ കാണുക.',
 	'wm-license-information-other-versions' => 'മറ്റു പതിപ്പുകൾ',
+	'wm-license-lgpl-text' => "ഈ ലൈബ്രറി [[{{int:wm-license-free-software-wiki-link}}|സ്വതന്ത്ര സോഫ്റ്റ്‌‌വേറാണ്]]; [[{{int:wm-license-fsf-wiki-link}}|സ്വതന്ത്ര സോഫ്റ്റ്‌‌വേർ സമിതി]] പ്രസിദ്ധീകരിച്ചിട്ടുള്ള '''[[{{int:wm-license-lgpl-wiki-link}}|ഗ്നു ലഘു സാർവ്വജനിക അനുവാദപത്രം]]''' പതിപ്പ് 2 അല്ലെങ്കിൽ പുതിയ പതിപ്പുകൾ പ്രകാരം (താങ്കളുടെ ഇച്ഛാനുസരണം) താങ്കൾക്കിത് പുനർവിതരണം ചെയ്യാൻ ഒപ്പം/അല്ലെങ്കിൽ മാറ്റം വരുത്താൻ കഴിയുന്നതാണ്. ഈ സൃഷ്ടി ഉപകാരപ്രദമാകുമെന്ന വിശ്വാസത്തിലാണ് വിതരണം ചെയ്യുന്നത്, പക്ഷേ യാതൊരു '''ഗുണമേന്മ ഉത്തരവാദിത്വവും വഹിക്കുന്നില്ല''';  '''വ്യാപാരയോഗ്യം''' എന്നോ '''പ്രത്യേക ഉപയോഗത്തിനനുയോജ്യം''' എന്നോ ഉള്ള യാതൊരു ഗുണമേന്മ ഉത്തരവാദിത്വവും ഉൾപ്പെടുന്നില്ല. കൂടുതൽ വിവരങ്ങൾക്ക് ഗ്നു ലഘു സാർവ്വജനിക അനുവാദപത്രത്തിന്റെ [{{int:wm-license-lgpl-2.1-full-link}} പതിപ്പ് 2.1], [{{int:wm-license-lgpl-3-full-link}} പതിപ്പ് 3] എന്നിവ കാണുക.",
 	'wm-license-original-upload-log' => 'യഥാർത്ഥ അപ്‌‌ലോഡ് രേഖ',
 	'wm-license-own-work' => 'സ്വന്തം സൃഷ്ടി',
 	'wm-license-self-one-license' => 'ഈ സൃഷ്ടിയുടെ പകർപ്പാവകാശ ഉടമസ്ഥനായ ഞാൻ, താഴെ പറയുന്ന അനുമതിയിൽ ഇത് ഇതിനാൽ പ്രസിദ്ധീകരിക്കുന്നു:',
@@ -8047,13 +8081,14 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (Português do Brasil)
  * @author BrunaaAa
+ * @author Capmo
  * @author Hamilton Abreu
  * @author Luckas Blade
  */
 $messages['pt-br'] = array(
 	'wikimedialicensetexts-desc' => 'Mensagens de licença da Wikimedia',
-	'wm-license-attribution-with-author-text' => "O dono dos direitos autorais desse arquivo, $1, permite a qualquer um usá-lo '''em qualquer propósito, provido que''' o dono dos direitos autorais seja propriamente atribuído. Redistribuição, trabalho derivado, uso comercial, e todos os outros usos são permitidos.",
-	'wm-license-attribution-without-author-text' => "O dono dos direitos autorais desse arquivo, permite a qualquer um usá-lo em '''qualquer propósito, provido que''' o dono dos direitos autorais seja propriamente atribuído. Redistribuição, trabalho derivado, uso comercial, e todos os outros usos são permitidos.",
+	'wm-license-attribution-with-author-text' => "O detentor dos direitos de autor deste arquivo, $1, autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
+	'wm-license-attribution-without-author-text' => "O detentor dos direitos de autor deste arquivo autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
 	'wm-license-cc-attribution' => 'Atribuição',
 	'wm-license-cc-by-1.0-text' => 'O arquivo está licenciado nos direitos autorais de tipo:  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]], [http://creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica]',
 	'wm-license-cc-free' => 'Você é livre:',
