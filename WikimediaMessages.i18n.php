@@ -1382,9 +1382,9 @@ $messages['ckb-arab'] = array(
 	'group-inactive' => 'بەکارهێنەرانی ناچالاک',
 	'group-inactive-member' => 'بەکارهێنەری ناچالاک',
 	'grouppage-inactive' => '{{ns:project}}: بەکارهێنەرانی ناچالاک',
-	'wikimedia-copyright' => 'دەقەکە لەژێر <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لەبەردەست‌دا یە؛
-لەوانەیە مەرجی تریش پێ زیاد ببێ.
-سەیری <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">مەرجەکان بەکارھێنان</a> بکە بۆ وردەکارییەکان.',
+	'wikimedia-copyright' => 'دەقەکە لەژێر <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛<br />
+لەوانەیە مەرجی تریشی پێ زیاد ببێ.<br />
+سەیری <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.',
 	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، بە بێگەڕانەوە قەبووڵ دەکەی کە بەشدارییەکەت لەژێر [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
 قەبووڵ دەکەی، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەن بەکارھێنەرانی تر ناوتان لێببەن.
 سەیری [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکەن بۆ وردەکارییەکان.',
@@ -4338,10 +4338,12 @@ $messages['ka'] = array(
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
 	'group-abusefilter' => 'ბოროტად გამოყენების ფილტრის მეპატრულე',
 	'group-accountcreator' => 'ანგარიში შემქმნელები',
+	'group-arbcom' => 'საარბიტრჟო კომიტეტის წევრები',
 	'group-autopatrolled' => 'ავტოპატრულები',
 	'group-autoreviewer' => 'ავტომხილველები',
 	'group-bigexport' => 'დიდი ექსპორტორები',
 	'group-confirmed' => 'დადასტურებული მომხმარებლები',
+	'group-editprotected' => 'დაცული გვერდების რედაქტორები',
 	'group-flood' => 'მომხმარებელი-ბოტები',
 	'group-founder' => 'დამაარსებლები',
 	'group-import' => 'იმპორტირებე',
@@ -4353,13 +4355,16 @@ $messages['ka'] = array(
 	'group-trusted' => 'სანდო მომხმარებლები',
 	'group-abusefilter-member' => 'ბოროტად გამოყენებსის ფილტრის რედაქტორი',
 	'group-accountcreator-member' => 'ანგარიშის შემქმნელები',
+	'group-arbcom-member' => 'საარბიტრაჟო კომიტეტის წევრი',
 	'group-autopatrolled-member' => 'ავტომოპატრულე',
 	'group-autoreviewer-member' => 'ავტომხილველი',
 	'group-bigexport-member' => 'დიდი ექსპორტორი',
 	'group-confirmed-member' => 'დადასტურებული მომხმარებელი',
+	'group-editprotected-member' => 'დაცული გვერდების რედაქტორი',
 	'group-flood-member' => 'მომხმარებელი-ბოტი',
 	'group-founder-member' => 'დამაარსებელი',
 	'group-import-member' => 'იმპორტორი',
+	'group-interface_editors-member' => 'ინტერფეისის რედაქტორი',
 	'group-ipblock-exempt-member' => 'IP ბლოკირების გამონაკლისები',
 	'group-patroller-member' => 'პატროლიორი',
 	'group-rollbacker-member' => 'გამაუქმებელი',
@@ -4367,13 +4372,16 @@ $messages['ka'] = array(
 	'group-trusted-member' => 'სანდო მომხმარებელი',
 	'grouppage-abusefilter' => '{{ns:project}}:ბოროტად გამოყენების ფილტრის რედაქტორები',
 	'grouppage-accountcreator' => '{{ns:project}}:ანგარიშების შემქმნელები',
+	'grouppage-arbcom' => '{{ns:project}}:საარბიტრაჟო კომიტეტის წევრები',
 	'grouppage-autopatrolled' => '{{ns:project}}:ავტომეპატრულე',
 	'grouppage-autoreviewer' => '{{ns:project}}:ავტომხილველები',
 	'grouppage-bigexport' => '{{ns:project}}:დიდი ექსპორტიორები',
 	'grouppage-confirmed' => '{{ns:project}}:დადასტურებული მომხმარებლები',
+	'grouppage-editprotected' => '{{ns:project}}:დაცული გვერდების რედაქტორები',
 	'grouppage-flood' => '{{ns:project}}:მომხმარებელი-ბოტები',
 	'grouppage-founder' => '{{ns:project}}:დამაარსებლები',
 	'grouppage-import' => '{{ns:project}}:იმპორტიორები',
+	'grouppage-interface_editors' => '{{ns:project}}:ინტერფეისის რედაქტორები',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-დაბლოკვების გამონაკლისები',
 	'grouppage-rollbacker' => '{{ns:project}}:გამმაუქმებლები',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-ს იმპორტორები',
@@ -4400,16 +4408,9 @@ $messages['ka'] = array(
 	'group-inactive-member' => 'არააქტიური მომხმარებელი',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
-	'wikimedia-copyrightwarning' => '<table width="95%" class="mw-alerte" id="cpwarn" style="clear:both; padding:2px; background-color:#FFE4E1; border-color: #700050; color: #700050;">
- <tr>
-  <td style="text-align:center">[[Image:AnimatedStop.gif|55px|ავტორის გაფრთხილება|link=]]</td>
-  <td>
-<b><span style="font-size:115%;">→ ნუ გადმოწერთ ტექსტს აქ სხვა ვებსაიტიდან </span></b>: პატივი ეცით [[ვიკიპედია:საავტორო უფლებები|საავტორო უფლებებს]] ([[დახმარება:რეპუბლიკაცია|დახმარება]]);<br />
+	'wikimedia-copyrightwarning' => '<span style="font-size:115%;">→ ნუ გადმოწერთ ტექსტს აქ სხვა ვებსაიტიდან </span></b>: პატივი ეცით [[ვიკიპედია:საავტორო უფლებები|საავტორო უფლებებს]] ([[დახმარება:რეპუბლიკაცია|დახმარება]]);<br />
 <b><span style="font-size:115%;">→ მიუთითეთ თქვენს ინფორმაციას გადამოწმებადი წყაროები </span></b>: [[ვიკიპედია:გადამოწმებადობა|გადამოწმებადობა]] ([[დახმარება:წყაროს მითითება|დახმარება]]).
-<p style="font-size:90%" align="center">ღილაკზე « \'\'\'გვერდის შენახვა\'\'\' » დაწკაპუნებით, თქვენ თანახმა ხართ შეუქცევად განათავსოთ თქვენი წვლილი [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike (ვერსია 3.0)] და [http://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით. თქვენ ასევე თანახმა ხართ, რომ სხვა მომხმარებელთა მიერ თქვენს მიერ შეცვლილი გვერდის გამოყენებისას თქვენი წვლილი დამოწმდება მინიმუმ ჰიპერბმულის ან URL-ის მეშვეობით. იხილეთ ასევე [http://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების პირობები] დამატებითი ინფორმაციისთვის.</p>
-  </td>
- </tr>
-</table>',
+<p style="font-size:90%" align="center">ღილაკზე « \'\'\'გვერდის შენახვა\'\'\' » დაწკაპუნებით, თქვენ თანახმა ხართ შეუქცევად განათავსოთ თქვენი წვლილი [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike (ვერსია 3.0)] და [http://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით. თქვენ ასევე თანახმა ხართ, რომ სხვა მომხმარებელთა მიერ თქვენს მიერ შეცვლილი გვერდის გამოყენებისას თქვენი წვლილი დამოწმდება მინიმუმ ჰიპერბმულის ან URL-ის მეშვეობით. იხილეთ ასევე [http://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების პირობები] დამატებითი ინფორმაციისთვის.</p>',
 	'wikimedia-editpage-tos-summary' => '<div style="border: 1px solid #aaa;margin: 1em 0;padding: 0 0.4em 0 0.4em;">
 თუ არ გსურთ, რომ თქვენი ნაწერი თავისუფლად გავრცელდეს და ჩასწორდეს, აქ მას ნუ შემოიტანთ. თუ ეს ტექსტი თქვენი დაწერილი არ არის, იგი უნდა აკმაყოფილებდეს [http://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], ხოლო თქვენ თანახმა ხართ დაემორჩილოთ ნებისმიერ დაკავშირებულ სალიცენზიო მოთხოვნას.
 </div>',
