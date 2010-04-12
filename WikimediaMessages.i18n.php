@@ -7090,6 +7090,19 @@ $messages['ru'] = array(
 Если вы не являетесь автором размещаемого текста, то он должен быть доступен на условиях, совместимых с [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условиями использования], и вы соглашаетесь следовать всем соответствующим требованиям лицензии.',
 );
 
+/** Rusyn (русиньскый язык)
+ * @author Gazeb
+ */
+$messages['rue'] = array(
+	'tooltip-n-sitesupport' => 'Підпорьте нас',
+	'group-autoreviewer' => 'Авторедакторы',
+	'group-confirmed' => 'Підтверджены хоснователї',
+	'group-flood' => 'Бот-хоснователї',
+	'group-import' => 'Імпортеры',
+	'group-interface_editors' => 'Редакторы інтерфейсу',
+	'group-bigexport-member' => 'велікоекспортер',
+);
+
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
  * @author Кумулај Маркус
  * @author Макѕе
