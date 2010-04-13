@@ -3213,6 +3213,7 @@ $messages['eu'] = array(
 	'wm-license-information-author' => 'Egilea',
 	'wm-license-information-author-missing' => "Fitxategi honi '''egile'''ari buruzko informazioa falta zaio.",
 	'wm-license-information-permission' => 'Lizentzia',
+	'wm-license-information-permission-reusing-text' => 'Fitxategi hau berrerabiltzen',
 	'wm-license-information-permission-see-below' => 'Azpian ikusi.',
 	'wm-license-information-other-versions' => 'Beste bertsioak',
 	'wm-license-lgpl-wiki-link' => 'w:eu:GNU Lesser General Public License',
