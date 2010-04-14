@@ -456,9 +456,18 @@ $messages['an'] = array(
 	'wm-license-own-work' => 'Treballo de qui la cargó',
 );
 
-/** Old English (Anglo-Saxon) */
+/** Old English (Anglo-Saxon)
+ * @author Wōdenhelm
+ */
 $messages['ang'] = array(
+	'wm-license-cc-attribution' => 'Hlīȝdōm',
 	'wm-license-gfdl-wiki-link' => 'w:ang:GNU Frēo Ȝeƿritȝelīefung',
+	'wm-license-information-source' => 'Fruma',
+	'wm-license-information-source-missing' => "Þis fīl ne hæfþ '''fruman''' cȳþþe.",
+	'wm-license-information-date' => 'Dæȝ',
+	'wm-license-information-author' => 'Bōcend',
+	'wm-license-information-permission' => 'Þafung',
+	'wm-license-information-permission-see-below' => 'Sēo under.',
 );
 
 /** Arabic (العربية)
@@ -541,6 +550,7 @@ $messages['ar'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ar:برمجيات حرة',
 	'wm-license-gfdl-wiki-link' => 'w:ar:رخصة جنو للوثائق الحرة',
 	'wm-license-gpl-wiki-link' => 'w:ar:رخصة جنو العمومية',
+	'wm-license-information-table-summary' => 'جدول موحد لتوفير معلومات كاملة عن الملف ، بما في ذلك وصف ما يظهر ، وكيف انشئ، وضع حقوق المؤلف والمصدر.',
 	'wm-license-information-description' => 'الوصف',
 	'wm-license-information-description-missing' => "هذه الوسائط لا يوجد لها '''{{ #if: {{{1|}}} | {{{1}}} | وصفا }}'''، و قد تفتقر إلى معلومات أخرى.",
 	'wm-license-information-description-missing-request' => 'أجهزة الإعلام يجب أن يكون عندها خلاصة لإخبار الآخرين عن المحتوى ، مؤلف ، مصدر ، و التاريخ إذا كان بالإمكان. إذا كنت تعرف أو عندك وصولا إلى مثل هذه المعلومات ، رجاءا أضفها إلى صفحة الصّورة.',
@@ -551,6 +561,8 @@ $messages['ar'] = array(
 	'wm-license-information-author' => 'المؤلف',
 	'wm-license-information-author-missing' => "هذه الوسائط تفتقر إلى معلومات '''المؤلف'''.",
 	'wm-license-information-permission' => 'الترخيص',
+	'wm-license-information-permission-reusing-link' => 'كومونز: إعادة استخدام المحتوى خارج يكيميديا',
+	'wm-license-information-permission-reusing-text' => 'إعادة استخدام هذا الملف',
 	'wm-license-information-permission-see-below' => 'انظر أدناه.',
 	'wm-license-information-other-versions' => 'إصدارات أخرى',
 	'wm-license-lgpl-wiki-link' => 'w:ar:رخصة جنو العمومية الصغرى',

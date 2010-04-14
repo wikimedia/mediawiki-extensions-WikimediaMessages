@@ -439,9 +439,52 @@ Mire-se [http://wikimediafoundation.org/wiki/Terms_of_Use l'alcuerdo de utilizaz
 	'wikimedia-editpage-tos-summary' => "Si no deseya que os suyos escritos sigan editatos y redistribuyitos librement, alabez no los alze aquí. Si o testo no lo ha escrito busté, ha d'estar disponible baixo as condizions espezificadas en [http://wikimediafoundation.org/wiki/Terms_of_Use as condizions d'utilizazión] y busté azeuta seguir cualsiquier requesta que li siga desichita en relazión á las lizenzias.",
 );
 
-/** Old English (Anglo-Saxon) */
+/** Old English (Anglo-Saxon)
+ * @author Wōdenhelm
+ */
 $messages['ang'] = array(
-	'sitesupport' => 'Gieldgiefa',
+	'wikimediamessages-desc' => 'Rihtƿikiȝemyndes ȝeƿritu',
+	'sitesupport' => 'Ȝieldȝiefan',
+	'group-autopatrolled' => 'Selffremmende ƿeardas',
+	'group-autoreviewer' => 'Selffremmende dēmendas',
+	'group-bigexport' => 'Grēat ūtsenderas',
+	'group-editprotected' => 'Borgena sīdena ādihteras',
+	'group-flood' => 'Searuþrælisc brūcendas',
+	'group-founder' => 'Onstelleras',
+	'group-import' => 'Inbringeras',
+	'group-interface_editors' => 'Ānsīene ādihtendas',
+	'group-patroller' => 'Ƿeardmenn',
+	'group-transwiki' => 'Ȝeondƿiki inbringeras',
+	'group-trusted' => 'Betrēoƿede brūcendas',
+	'group-autopatrolled-member' => 'selffremmende ƿeard',
+	'group-autoreviewer-member' => 'selffremmende dēmend',
+	'group-bigexport-member' => 'grēat ūtsendere',
+	'group-editprotected-member' => 'Borgen sīde ādihtend',
+	'group-flood-member' => 'searuþrælisc brūcend',
+	'group-founder-member' => 'onstellere',
+	'group-import-member' => 'inbringere',
+	'group-interface_editors-member' => 'ānsīene ādihtend',
+	'group-patroller-member' => 'ƿeard',
+	'group-transwiki-member' => 'ȝeondƿiki inbringere',
+	'group-trusted-member' => 'betrēoƿed brūcend',
+	'grouppage-flood' => '{{ns:project}}:Searuþrælisc brūcendas',
+	'grouppage-founder' => '{{ns:project}}:Onstelleras',
+	'grouppage-import' => '{{ns:project}}:Inbringeras',
+	'grouppage-transwiki' => '{{ns:project}}:Ȝeondƿikian inbringeras',
+	'grouppage-trusted' => '{{ns:project}}:Betrēoƿede brūcendas',
+	'group-steward' => 'Stiȝƿeardas',
+	'group-sysadmin' => 'Endebyrdnesse tōþeȝnas',
+	'group-editinterface' => 'Ānsīene ādihteras',
+	'group-Global_bot' => 'Ƿorulde searuþralas',
+	'group-Global_sysops' => 'Ƿorulde beƿitendas',
+	'group-steward-member' => 'stiȝƿeard',
+	'group-sysadmin-member' => 'endebyrdnesse tōþeȝn',
+	'group-editinterface-member' => 'ānsīene ādihtend',
+	'group-Global_bot-member' => 'ƿorulde searuþræl',
+	'group-Global_sysops-member' => 'ƿorulde betƿitend',
+	'group-inactive' => 'Sleace brūcendas',
+	'group-inactive-member' => 'sleac brūcend',
+	'grouppage-inactive' => '{{ns:project}}:Sleace brūcendas',
 );
 
 /** Arabic (العربية)
