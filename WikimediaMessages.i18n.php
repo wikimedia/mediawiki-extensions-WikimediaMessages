@@ -771,7 +771,9 @@ $messages['ba'] = array(
 	'sitesupport' => 'Ярҙам итеү',
 	'group-flood' => 'Боттар',
 	'group-import' => 'Импортёрҙар',
+	'group-steward' => 'Стюардтар',
 	'group-Global_bot' => 'Глобаль боттары',
+	'group-Global_sysops-member' => 'глобаль хәкиме',
 	'group-inactive' => 'Әүҙемлекһеҙ ҡатнашыусылар',
 );
 
@@ -1035,6 +1037,15 @@ $messages['bg'] = array(
 За подробности вижте [http://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].',
 	'wikimedia-editpage-tos-summary' => 'Ако не желаете материалът ви да бъде редактиран и разпространяван без ограничения, тогава не го поставяйте тук.
 Ако материалът не е написан лично от вас, то за да остане тук, трябва да е съвместим с [http://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване], и вие да сте съгласни да изпълните всички евентуално приложими лицензионни изисквания.',
+);
+
+/** Bihari (भोजपुरी)
+ * @author Ganesh
+ */
+$messages['bh'] = array(
+	'sitesupport' => 'दान करीं',
+	'tooltip-n-sitesupport' => 'हमनी के सहयोग करीं',
+	'group-accountcreator' => 'खाता बनावे वाला',
 );
 
 /** Bambara (Bamanankan) */

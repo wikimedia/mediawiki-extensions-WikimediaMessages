@@ -605,6 +605,13 @@ $messages['az'] = array(
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
 );
 
+/** Bashkir (Башҡорт)
+ * @author Comp1089
+ */
+$messages['ba'] = array(
+	'wm-license-cc-attribution' => 'Авторлыҡ күренеүе',
+);
+
 /** Bavarian (Boarisch) */
 $messages['bar'] = array(
 	'wm-license-fsf-wiki-link' => 'w:bar:Free Software Foundation',
@@ -1079,7 +1086,7 @@ $messages['br'] = array(
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/ Deroadenn-Share Alike 1.0 Finland].',
 	'wm-license-cc-by-sa-1.0-il-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Deroadenn-Share Alike 2.0 Hollek]',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/ Deroadenn-Share Alike 1.0 Izelvroioù].',
-	'wm-license-cc-by-sa-2.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 Generic]',
+	'wm-license-cc-by-sa-2.0-text' => 'Emañ ar restr-mañ dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Deroadenn-Kenrannañ 2.0 Hollek]',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/ Deroadenn-Share Alike 2.0 Aostria].',
 	'wm-license-cc-by-sa-2.0-au-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/au/ Deroadenn-Share Alike 2.0 Aostralia].',
 	'wm-license-cc-by-sa-2.0-be-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/be/ Deroadenn-Share Alike 2.0 Belgia].',
@@ -1101,7 +1108,7 @@ $messages['br'] = array(
 	'wm-license-cc-by-sa-2.1-au-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/ Deroadenn-Share Alike 2.1 Aostralia].',
 	'wm-license-cc-by-sa-2.1-es-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/ Deroadenn-Share Alike 2.1 Spagn].',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/ Deroadenn-Share Alike 2.1 Japan].',
-	'wm-license-cc-by-sa-2.5-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Generic]',
+	'wm-license-cc-by-sa-2.5-text' => 'Emañ ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Deroadenn-Kenrannañ 2.5 Hollek]',
 	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Deroadenn-Share Alike [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 Hollek], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Hollek] hag [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Hollek].',
 	'wm-license-cc-by-sa-2.5-ar-text' => "Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/ Attribution-Share Alike 2.5 Arc'hantina].",
 	'wm-license-cc-by-sa-2.5-au-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/ Deroadenn-Share Alike 2.5 Aostralia].',
@@ -1131,7 +1138,7 @@ $messages['br'] = array(
 	'wm-license-cc-by-sa-2.5-si-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/si/ Deroadenn-Share Alike 2.5 Slovenia].',
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/ Deroadenn-Share Alike 2.5 Taiwan].',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/ Deroadenn-Share Alike 2.5 Suafrika].',
-	'wm-license-cc-by-sa-3.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-by-sa-3.0-text' => 'Emañ ar restr-mañ dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Deroadenn-Kenrannañ 3.0 Unported]',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Deroadenn-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/ 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 Hollek], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Hollek] hag [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Hollek].',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/ Deroadenn-Share Alike 3.0 Aostria].',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Ar restr-mañ a zo dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/ Deroadenn-Share Alike 3.0 Republik Tchek].',
@@ -9626,18 +9633,26 @@ $messages['ta'] = array(
  */
 $messages['te'] = array(
 	'wikimedialicensetexts-desc' => 'వికీమీడియా లైసెన్సు సందేశాలు',
+	'wm-license-attribution-with-author-text' => "కాపీహక్కుదారునికి సరైన శ్రేయస్సునిస్తూ ఈ దస్త్రాన్ని '''ఏ ఉద్దేశానికైనా''' ఉపయోగించుకునేందుకు ఈ దస్త్రం యొక్క కాపీహక్కుదారు, $1, ఎవరికైనా అనుమతిస్తున్నారు.
+పునఃపంపిణీ, వ్యుత్పన్న కృతులు, వాణిజ్యపరమైన వాడుకలు, మరియు ఇతర వాడుకలు అనుమతించబడతాయి.",
+	'wm-license-attribution-without-author-text' => "కాపీహక్కుదారునికి సరైన శ్రేయస్సునిస్తూ ఈ దస్త్రాన్ని '''ఏ ఉద్దేశానికైనా''' ఉపయోగించుకునేందుకు ఈ దస్త్రం యొక్క కాపీహక్కుదారు ఎవరికైనా అనుమతిస్తున్నారు.
+పునఃపంపిణీ, వ్యుత్పన్న కృతులు, వాణిజ్యపరమైన వాడుకలు, మరియు ఇతర వాడుకలు అనుమతించబడతాయి.",
 	'wm-license-cc-attribution' => 'ఆపాదింపు',
 	'wm-license-cc-by-1.0-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/ అట్రిబ్యూషన్ 1.0 జెనరిక్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-1.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ 1.0 నెదర్లాండ్స్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-free' => 'మీరు స్వేచ్ఛగా:',
 	'wm-license-cc-free-to-share-header' => 'పంచుకోవచ్చు',
 	'wm-license-cc-free-to-share-text' => 'ఈ కృతిని కాపీ చేసుకోవచ్చు, పంపిణీ మరియు ప్రసారం చేయవచ్చు',
+	'wm-license-cc-free-to-remix-text' => 'కృతిని అనుకరించడానికి',
 	'wm-license-cc-conditions' => 'ఈ క్రింది షరతుల మీద:',
+	'wm-license-cc-conditions-attribution-header' => 'ఆపాదింపు',
+	'wm-license-cc-conditions-attribution-text' => 'రచయిత లేదా లైసెన్సరు పేర్కొన్న పద్ధతిలో (కానీ మిమ్మల్ని లేదా ఈ కృతి యొక్క మీ వాడుకని వారు మద్ధతిస్తున్నట్టు సూచించే పద్ధతిలో కాకుండా) కృతి యొక్క శ్రేయస్సుని వారికి ఆపాదించాలి.',
 	'wm-license-cc-conditions-share_alike-header' => 'ఇలానే పంచుకోవాలి',
 	'wm-license-cc-conditions-share_alike-text' => 'మీరు ఈ కృతిని మారిస్తే, అనుకరిస్తే, లేదా మెరుగుపరిస్తే, తత్ఫలిత కృతిని ఈ లైసెన్సు లేదా ఇలాంటి లైసెన్సు క్రింద మాత్రమే పంపిణీ చేయాలి.',
 	'wm-license-gfdl-wiki-link' => 'w:te:GNU Free Documentation License',
 	'wm-license-information-description' => 'వివరణ',
 	'wm-license-information-description-missing' => "ఈ దస్త్రానికి '''వివరణ''' లేదు, మరియు ఇతర సమాచారం కూడా లేకపోవచ్చు.",
+	'wm-license-information-description-missing-request' => 'దయచేసి ఈ దస్త్రానికై అర్ధవంతమైన వివరణని ఇవ్వండి.',
 	'wm-license-information-source' => 'మూలం',
 	'wm-license-information-source-missing' => "ఈ దస్త్రానికి '''మూలం''' గురించిన సమాచారం లేదు.",
 	'wm-license-information-source-missing-request' => 'దయచేసి ఈ దస్త్రపు వివరణని మార్చి మూలాన్ని ఇవ్వండి.',
