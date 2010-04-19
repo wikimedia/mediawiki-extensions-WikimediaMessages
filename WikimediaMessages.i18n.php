@@ -8628,13 +8628,28 @@ $messages['ts'] = array(
  * @author Rinatus
  * @author Timming
  * @author Ерней
+ * @author Рашат Якупов
  */
 $messages['tt-cyrl'] = array(
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
+	'group-patroller-member' => 'тикшерүче',
+	'group-trusted-member' => 'ышанычлы кулланучы',
+	'grouppage-flood' => '{{ns:project}}:Кулланучы-ботлар',
+	'grouppage-founder' => '{{ns:project}}:Нигезчеләр',
+	'grouppage-import' => '{{ns:project}}:Импортчылар',
+	'grouppage-interface_editors' => '{{ns:project}}:Интерфейс тәрҗемәчеләре',
+	'group-steward' => 'Стюардлар',
+	'group-sysadmin' => 'Система идарәчеләре',
+	'group-editinterface' => 'Интерфейс тәрҗемәчеләре',
+	'group-Global_bot' => 'Глобаль ботлар',
+	'group-steward-member' => 'стюард',
+	'group-sysadmin-member' => 'система идарәчесе',
 	'group-inactive' => 'Актив булмаган катнашучылар',
 	'wikimedia-copyright' => 'Текст <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясе астында бирелә, аерым очракларда өстәмә шартлар эшләргә мөмкин. Өстәмә мәгълүмат өчен <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Куллану шартларын</a> карагыз.',
 	'wikimedia-copyrightwarning' => "Үзгәртүләрне саклаган вакытта, сез аларның [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] һәм [http://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча публикацияләвенә риза буласыз. Бу битне кулланганда, сезгә иң киме гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз. Тулырак мәгълүмат өчен [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] битен карагыз.",
+	'wikimedia-editpage-tos-summary' => 'Сез текстларыгыз ирекле рәвештә төзәтелүенне һәм теләгәннәр тарафыннан таратылуынны теләмәсәгез, аларны монда урнаштырмагыз.
+Сез язган текстның авторы булмасагыз, текст [http://wikimediafoundation.org/wiki/Terms_of_Use/ Куллану шартлары] белән килешкән шартларга туры килергә тиеш, һәм Сез лицензиянең таләпләренә буйсынырга килешәсез.',
 );
 
 /** Tatar (Latin) (Татарча/Tatarça (Latin)) */
@@ -8653,10 +8668,15 @@ $messages['tyv'] = array(
 );
 
 /** Udmurt (Удмурт)
+ * @author Kaganer
  * @author ОйЛ
  */
 $messages['udm'] = array(
 	'sitesupport' => 'Проектлы юрттон',
+	'wikimedia-copyrightwarning' => "!!Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] но [http://www.gnu.org/copyleft/fdl.html GFDL]. 
+Тыро-быдогес со сярысь лыдӟе [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожъяса, тӥ асьтэлэн автор правоостылэсь куштӥськоды.",
+	'wikimedia-editpage-tos-summary' => 'Тӥлесьтыд татчы кельтэм тесктъёстэс котькудӥз адямилэн тупатыны но вӧлмытыны правоен ванен тӥ соглаш ӧвӧл ке, татчы номыр эн гожъялэ! 
+Мукет адямилэсь текстсэ тытчы пыртэмды ке потэ, [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиослы] но лицензиослэн условиоссылы тупамзэ чакласа возе!',
 );
 
 /** Uighur (Uyghurche‎ / ئۇيغۇرچە) */
