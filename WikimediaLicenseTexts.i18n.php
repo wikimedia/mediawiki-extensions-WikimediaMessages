@@ -1195,6 +1195,7 @@ $messages['br'] = array(
 	'wm-license-information-permission-see-below' => 'Gwelet dindan.',
 	'wm-license-information-other-versions' => 'Stummoù arall',
 	'wm-license-lgpl-wiki-link' => 'w:br:Aotre-implijout Publik Hollek bevennet GNU',
+	'wm-license-original-upload-log' => 'Marilh orin ar pellgargadurioù',
 	'wm-license-own-work' => "Ho labour deoc'h",
 	'wm-license-self-multiple-licenses-select' => "Gallout a rit diuzañ an aotre-implijout a fell deoc'h.",
 );
