@@ -3956,6 +3956,7 @@ $messages['ia'] = array(
  * @author Bennylin
  * @author Irwangatot
  * @author IvanLanin
+ * @author Kenrick95
  * @author Rex
  */
 $messages['id'] = array(
@@ -3965,8 +3966,8 @@ $messages['id'] = array(
 	'tooltip-n-sitesupport' => 'Dukung kami',
 	'group-abusefilter' => 'Editor filter penyalahgunaan',
 	'group-accountcreator' => 'Pembuat akun',
+	'group-arbcom' => 'Anggota komite arbitrase',
 	'group-autopatrolled' => 'Otomatisterpatroli',
-	'group-autopatroller' => 'Patroli otomatis',
 	'group-autoreviewer' => 'Autotinjau',
 	'group-bigexport' => 'Eksportir besar',
 	'group-confirmed' => 'Pengguna terkonfirmasi',
@@ -3980,8 +3981,8 @@ $messages['id'] = array(
 	'group-trusted' => 'Pengguna tepercaya',
 	'group-abusefilter-member' => 'editor filter penyalahgunaan',
 	'group-accountcreator-member' => 'Pembuat akun',
+	'group-arbcom-member' => 'anggota komite arbitrase',
 	'group-autopatrolled-member' => 'patroli otomatis',
-	'group-autopatroller-member' => 'patroli otomatis',
 	'group-autoreviewer-member' => 'autotinjau',
 	'group-bigexport-member' => 'eksportir besar',
 	'group-confirmed-member' => 'pengguna terkonfirmasi',
@@ -3996,7 +3997,6 @@ $messages['id'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:Editor filter penyalahgunaan',
 	'grouppage-accountcreator' => '{{ns:project}}:Pembuat akun',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patroli otomatis',
-	'grouppage-autopatroller' => '{{ns:project}}:Patroli otomatis',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autotinjau',
 	'grouppage-bigexport' => '{{ns:project}}:Eksportir besar',
 	'grouppage-confirmed' => '{{ns:project}}:Pengguna terkonfirmasi',
@@ -4012,6 +4012,7 @@ $messages['id'] = array(
 	'group-editinterface' => 'Penyunting antarmuka',
 	'group-Global_bot' => 'Bot global',
 	'group-Global_rollback' => 'Pengembali revisi global',
+	'group-Global_sysops' => 'Opsis global',
 	'group-Ombudsmen' => 'Ombudsman',
 	'group-Staff' => 'Staf',
 	'group-steward-member' => 'Steward',
@@ -4019,6 +4020,7 @@ $messages['id'] = array(
 	'group-editinterface-member' => 'penyunting antarmuka',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'Pengembali revisi global',
+	'group-Global_sysops-member' => 'opsis global',
 	'group-Ombudsmen-member' => 'Ombudsman',
 	'group-Staff-member' => 'Anggota staf',
 	'grouppage-steward' => 'm:Stewards/id',
@@ -5182,6 +5184,9 @@ $messages['lv'] = array(
 	'wikimediamessages-desc' => 'Wikimedia raksturīgi paziņojumi',
 	'sitesupport' => 'Ziedojumi',
 	'tooltip-n-sitesupport' => 'Atbalsti mūs',
+	'group-flood' => 'Botu lietotāji',
+	'group-import' => 'Importētāji',
+	'group-transwiki' => 'Transwiki importētāji',
 	'grouppage-import' => '{{ns:project}}:Importētāji',
 	'group-inactive' => 'Neaktīvi lietotāji',
 	'group-inactive-member' => 'neaktīvs lietotājs',

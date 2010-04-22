@@ -4476,7 +4476,16 @@ $messages['hsb'] = array(
 	'wm-license-cc-wiki-link' => 'w:hsb:Cresative Commons',
 	'wm-license-cc-attribution' => 'Připokazanje',
 	'wm-license-cc-by-1.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.hsb Attribution 1.0 Generic] licencowana',
+	'wm-license-cc-by-1.0-fi-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.de Namensnennung 1.0 Finska] licencowana.',
+	'wm-license-cc-by-1.0-il-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.de Namensnennung 1.0 Israel] licencowana.',
+	'wm-license-cc-by-1.0-nl-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.de Namensnennung 1.0 Nižozemska] licencowana.',
 	'wm-license-cc-by-2.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] licencowana',
+	'wm-license-cc-by-2.0-at-text' => 'Dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.de Namensnennung 2.0 Awstriska] licencowana.',
+	'wm-license-cc-by-2.0-au-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.de Namensnennung 2.0 Awstralska] licencowana.',
+	'wm-license-cc-by-2.0-be-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.de Namensnennung 2.0 Belgiska] licencowana.',
+	'wm-license-cc-by-2.0-br-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.de Namensnennung 2.0 Brazilska] licencowana.',
+	'wm-license-cc-by-2.0-ca-text' => 'tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.de Namensnennung 2.0 Kanada] licencowana.',
+	'wm-license-cc-by-2.0-cl-text' => 'tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.de Namensnennung 2.0 Chile] licencowana.',
 	'wm-license-cc-by-2.5-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic] licencowana',
 	'wm-license-cc-by-3.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.hsb Attribution 3.0 Unported] licencowana',
 	'wm-license-cc-by-sa-1.0-text' => 'Tuta dataja je pod licencu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic] licencowana',
@@ -4494,14 +4503,24 @@ $messages['hsb'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'dźělić',
 	'wm-license-cc-conditions-share_alike-text' => 'Jeli tute dźěło měnješ, přetworjuješ abo na njo natwarješ, móžeš hotowe dźěło jenož pod samsnej abo podobnej licencu kaž tuta rozšěrić.',
 	'wm-license-information-description' => 'Wopis',
+	'wm-license-information-description-missing' => "Tuta dataja nima '''wopisanje''' a pobrachuja snano tež druhe informacije.",
+	'wm-license-information-description-missing-request' => 'Prošu podaj zmysłapołne wopisanje tuteje dataje.',
 	'wm-license-information-source' => 'Žórło',
+	'wm-license-information-source-missing' => "Tuta dataja nima informacije wo '''žórle'''.",
+	'wm-license-information-source-missing-request' => 'Prošu změń wopisanje tuteje dataje a podaj žórło.',
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Awtor',
+	'wm-license-information-author-missing' => "Tuta dataja nima informacije wo '''awtorje'''.",
 	'wm-license-information-permission' => 'Dowolenje',
+	'wm-license-information-permission-reusing-text' => 'Dalewužiwanje tuteje dataje',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Druhe wersije tuteje dataje',
 	'wm-license-original-upload-log' => 'Originalny protokol nahraćow',
 	'wm-license-own-work' => 'Swójske dźěło',
+	'wm-license-self-one-license' => 'Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacej licencu:',
+	'wm-license-self-one-license-with-author' => '$1, awtor tutoho dźěła, wozjewja jo z tym pod slědowacu licencu:',
+	'wm-license-self-multiple-licenses' => 'Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacymi licencami:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, awtor tutoho dźěła, wozjewja jo z tym pod slědowacymi licencami:',
 	'wm-license-self-multiple-licenses-select' => 'Móžeš licencu swojeje wólby wubrać.',
 );
 
@@ -4949,6 +4968,7 @@ $messages['ia'] = array(
 /** Indonesian (Bahasa Indonesia)
  * @author Irwangatot
  * @author IvanLanin
+ * @author Kenrick95
  * @author Multichill
  */
 $messages['id'] = array(
@@ -4977,8 +4997,20 @@ $messages['id'] = array(
 	'wm-license-free-software-wiki-link' => 'w:id:Perangkat lunak bebas',
 	'wm-license-gfdl-wiki-link' => 'w:id:Lisensi Dokumentasi Bebas GNU',
 	'wm-license-gpl-wiki-link' => 'w:id:Lisensi Publik Umum GNU',
+	'wm-license-information-description' => 'Deskripsi',
+	'wm-license-information-description-missing' => "Berkas ini tidak memiliki '''deskripsi''', dan mungkin kurang informasi lain.",
+	'wm-license-information-description-missing-request' => 'Harap memberikan deskripsi yang berarti dari berkas ini.',
+	'wm-license-information-source' => 'Sumber',
+	'wm-license-information-source-missing' => "Berkas ini kurang informasi '''sumber'''.",
+	'wm-license-information-source-missing-request' => 'Harap sunting dekripsi berkas ini dan tuliskan sumbernya.',
+	'wm-license-information-date' => 'Tanggal',
+	'wm-license-information-author' => 'Pembuat',
+	'wm-license-information-author-missing' => "Berkas ini kurang informasi '''pembuat'''.",
+	'wm-license-information-permission-see-below' => 'Lihat di bawah',
+	'wm-license-information-other-versions' => 'Versi lainnya',
 	'wm-license-lgpl-wiki-link' => 'w:id:LGPL',
 	'wm-license-own-work' => 'Karya sendiri',
+	'wm-license-self-multiple-licenses-select' => 'Anda dapat memilih lisensi pilihan Anda.',
 );
 
 /** Igbo (Igbo)
