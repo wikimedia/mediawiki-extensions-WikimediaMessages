@@ -25,6 +25,9 @@ $messages['en'] = array(
 ** helppage|help
 ** sitesupport-url|sitesupport', # do not translate or duplicate this message to other languages
 
+	# Message used by multiple extensions (StoryBoard and ContributionReporting)
+	'specialpages-group-contribution' => 'Contribution/Fundraiser',
+
 	# Per http://lists.wikimedia.org/pipermail/wikitech-l/2008-September/039454.html
 	'robots.txt'  => '# Lines here will be added to the global robots.txt', # do not translate or duplicate this message to other languages
 
