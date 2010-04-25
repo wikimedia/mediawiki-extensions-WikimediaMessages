@@ -239,6 +239,8 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'wikimedialicensetexts-desc' => '{{desc}}',
+	'wm-license-attribution-with-author-text' => 'You can peek at [[Commons:Template:Attribution]] for the current translations',
+	'wm-license-attribution-without-author-text' => 'You can peek at [[Commons:Template:Attribution]] for the current translations',
 	'wm-license-cc-wiki-link' => 'An interwiki link that will work within Wikimedia projects and lead to a wiki page (most probably in a Wikipedia) in your language providing more information about Creative Commons licenses.',
 	'wm-license-cc-by-1.0-text' => '{{CreativeCommonsLicense|by|1.0}}',
 	'wm-license-cc-by-1.0-fi-text' => '{{CreativeCommonsLicense|by|1.0|fi}}',
@@ -394,6 +396,9 @@ $messages['qqq'] = array(
 	'wm-license-cc-by-sa-3.0-tw-text' => '{{CreativeCommonsLicense|by-sa|3.0|tw}}',
 	'wm-license-cc-by-sa-3.0-us-text' => '{{CreativeCommonsLicense|by-sa|3.0|us}}',
 	'wm-license-cc-sa-1.0-text' => '{{CreativeCommonsLicense|by|1.0}}',
+	'wm-license-cc-sa-1.0-fi-text' => '{{CreativeCommonsLicense|sa|1.0|fi}}',
+	'wm-license-cc-sa-1.0-nl-text' => '{{CreativeCommonsLicense|sa|1.0|nl}}',
+	'wm-license-cc-sa-2.0-jp-text' => '{{CreativeCommonsLicense|sa|1.0|jp}}',
 	'wm-license-cc-free' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-free-to-share-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-free-to-share-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
@@ -404,7 +409,17 @@ $messages['qqq'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'See http://creativecommons.org/licenses/by/3.0/ on how this is used.',
 	'wm-license-cc-conditions-share_alike-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-conditions-share_alike-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
+	'wm-license-cecill-text' => 'You can peek at [[Commons:Template:CeCILL]] for the current translations',
+	'wm-license-fal-text' => 'You can peek at [[Commons:Template:FAL]] for the current translations',
+	'wm-license-fsf-wiki-link' => 'Link to the Wikipedia article about the [[Wikipedia:Free Software Foundation|Free Software Foundation]].',
+	'wm-license-free-software-wiki-link' => 'Link to the article about Free software. This is an optional message so please only translate it if the article actually exists.',
+	'wm-license-gfdl-1.2-and-later' => 'You can peek at [[Commons:Template:GFDL]] for the current translations',
+	'wm-license-gfdl-1.2-only' => 'You can peek at [[Commons:Template:GFDL-1.2]] for the current translations.',
+	'wm-license-gfdl-wiki-link' => 'Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation License|GNU Free Documentation License]]',
+	'wm-license-gpl-text' => 'You can peek at [[Commons:Template:GPL]] for the current translations',
 	'wm-license-information-permission-reusing-link' => 'Please only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.',
+	'wm-license-lgpl-text' => 'You can peek at [[Commons:Template:LGPL]] for the current translations',
+	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]]',
 	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
 	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
 	'wm-license-self-multiple-licenses' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
@@ -451,12 +466,18 @@ $messages['af'] = array(
 	'wm-license-self-multiple-licenses-select' => 'U kan die lisensie van u keuse kies.',
 );
 
+/** Tosk (Tosk) */
+$messages['als'] = array(
+	'wm-license-gfdl-wiki-link' => 'w:als:GNU-Lizenz für freie Dokumentation',
+	'wm-license-own-work' => 'Eigeni Arbet vo dem wo d Datei uffeladet',
+);
+
 /** Aragonese (Aragonés) */
 $messages['an'] = array(
 	'wm-license-own-work' => 'Treballo de qui la cargó',
 );
 
-/** Old English (Anglo-Saxon)
+/** Old English (Ænglisc)
  * @author Wōdenhelm
  */
 $messages['ang'] = array(
@@ -844,6 +865,11 @@ $messages['be-tarask'] = array(
 	'wm-license-self-multiple-licenses' => 'Я, уладальнік аўтарскіх правоў на гэту працу, дабравольна публікую яе згодна ўмоваў наступных ліцэнзіяў:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, уладальнік аўтарскіх правоў на гэтую працу, дабравольна публікуе яе згодна ўмоваў наступных ліцэнзіяў:',
 	'wm-license-self-multiple-licenses-select' => 'Вы можаце абраць любую ліцэнзію на ваш погляд.',
+);
+
+/** Беларуская (тарашкевіца) (Беларуская (тарашкевіца)) */
+$messages['be-x-old'] = array(
+	'wm-license-gfdl-wiki-link' => 'w:be-x-old:GNU Free Documentation License',
 );
 
 /** Bulgarian (Български)
@@ -1517,6 +1543,11 @@ $messages['ca'] = array(
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
 $messages['cdo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:cdo:GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng',
+);
+
+/** Sorani (Soranî / کوردی) */
+$messages['ckb'] = array(
+	'wm-license-free-software-wiki-link' => 'w:ckb:نەرمەکاڵا خۆڕاییەکان',
 );
 
 /** Czech (Česky)
@@ -2529,6 +2560,13 @@ $messages['el'] = array(
 	'wm-license-self-multiple-licenses' => 'Εγώ, ο κάτοχος των πνευματικών δικαιωμάτων αυτού του έργου, το δημοσιεύω δια του παρώντος υπό τις εξής άδειες χρήσης:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, ο κάτοχος των πνευματικών δικαιωμάτων αυτού του έργου, το δημοσιεύει δια του παρώντος υπό τις εξής άδειες χρήσης:',
 	'wm-license-self-multiple-licenses-select' => 'Μπορείτε να επιλέξετε την άδεια της προτίμησής σας.',
+);
+
+/** British English (British English)
+ * @author Reedy
+ */
+$messages['en-gb'] = array(
+	'wm-license-information-table-summary' => 'A standardised table providing complete information about the file, including description of what it shows and how it was made, copyright status and source.',
 );
 
 /** Esperanto (Esperanto)
@@ -6012,7 +6050,7 @@ $messages['krc'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'авторлукъну чертиу',
 );
 
-/** Ripoarisch (Ripoarisch)
+/** Colognian (Ripoarisch)
  * @author Multichill
  * @author Purodha
  */
@@ -6039,6 +6077,11 @@ $messages['ksh'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'Wiggerjävve onger derselleve Bedengunge',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann De dat Werk aanpaß, ömwandels, Der  zeräsch mähß, udder drop opbouß, dann darrefs De dat, wat derbei eruß kütt, bloß onger derselleve Bedengunge, undder jannz ähnlesche Bedengunge wigger jävve, wi di Lizänz hee.',
 	'wm-license-gfdl-wiki-link' => 'w:ksh:GNU Lizännz för n fräĳe Dokementazjon',
+);
+
+/** Kurdish (Kurdî) */
+$messages['ku'] = array(
+	'wm-license-free-software-wiki-link' => 'w:ku:Nermalava azad',
 );
 
 /** Latin (Latina) */
@@ -9074,6 +9117,14 @@ $messages['si'] = array(
 	'wm-license-self-multiple-licenses-select' => 'ඔබට අභිමත වරපත ඔබ විසින් තෝරාගත හැක.',
 );
 
+/** Simple English (Simple English) */
+$messages['simple'] = array(
+	'wm-license-fsf-wiki-link' => 'w:simple:Free Software Foundation',
+	'wm-license-free-software-wiki-link' => 'w:simple:Free software',
+	'wm-license-gfdl-wiki-link' => 'w:simple:GNU Free Documentation License',
+	'wm-license-gpl-wiki-link' => 'w:simple:General Public License',
+);
+
 /** Slovak (Slovenčina)
  * @author Helix84
  * @author Multichill
@@ -9426,6 +9477,10 @@ $messages['sq'] = array(
  */
 $messages['sr'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
+	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
+	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
+	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
+	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
 	'wm-license-information-description' => 'Опис',
 	'wm-license-information-source' => 'Извор',
 	'wm-license-information-date' => 'Датум',
@@ -9433,6 +9488,7 @@ $messages['sr'] = array(
 	'wm-license-information-permission' => 'Дозвола',
 	'wm-license-information-permission-see-below' => 'Види доле.',
 	'wm-license-information-other-versions' => 'Остале верзије',
+	'wm-license-own-work' => 'Сопствено дело',
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
@@ -9747,6 +9803,11 @@ $messages['te'] = array(
 	'wm-license-self-multiple-licenses' => 'నేను, ఈ కృతి యొక్క కాపీహక్కుదారుని, దీన్ని ఇందుమూలముగా ఈ లైసెన్సుల క్రింద ప్రచురిస్తున్నాను:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, ఈ కృతి యొక్క కాపీహక్కుదారుని, దీన్ని ఇందుమూలముగా ఈ క్రింది లైసెన్సుల క్రింద ప్రచురిస్తున్నారు:',
 	'wm-license-self-multiple-licenses-select' => 'పైవాటిలో మీకు నచ్చిన లైసెన్సునుతో ఈ కృతిని వాడుకోవచ్చు.',
+);
+
+/** Tajik (Тоҷикӣ) */
+$messages['tg'] = array(
+	'wm-license-free-software-wiki-link' => 'w:tg:Барномаҳои озод',
 );
 
 /** Thai (ไทย)
@@ -10115,6 +10176,11 @@ $messages['tr'] = array(
 	'wm-license-self-multiple-licenses' => 'Ben, bu işin telif sahibi, burada işi aşağıdaki lisanslar altında yayımlıyorum:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, bu işin telif sahibi, burada işi aşağıdaki lisanslar altında yayımlıyor:',
 	'wm-license-self-multiple-licenses-select' => 'İstediğiniz lisansı seçebilirsiniz.',
+);
+
+/** Tatar (Татарча/Tatarça) */
+$messages['tt'] = array(
+	'wm-license-gfdl-wiki-link' => 'w:tt:GNU/İrekle İstälek Röxsätnämäse',
 );
 
 /** Ukrainian (Українська)
@@ -10652,6 +10718,21 @@ $messages['yue'] = array(
 	'wm-license-self-one-license' => '我，呢份作品嘅作者，決定用以下許可發佈呢件作品：',
 );
 
+/** Chinese (中文) */
+$messages['zh'] = array(
+	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
+	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
+	'wm-license-gfdl-wiki-link' => 'w:zh:GNU自由文档许可证',
+	'wm-license-gpl-wiki-link' => 'w:zh:GNU通用公共许可证',
+	'wm-license-lgpl-wiki-link' => 'w:zh:GNU宽通用公共许可证',
+	'wm-license-own-work' => '上传者自己的作品',
+);
+
+/** Classical Chinese (文言) */
+$messages['zh-classical'] = array(
+	'wm-license-gfdl-wiki-link' => 'w:zh-classical:革奴自由文檔許可協議',
+);
+
 /** Simplified Chinese (‪中文(简体)‬) */
 $messages['zh-hans'] = array(
 	'wm-license-information-table-summary' => '提供本文件完整信息的标准表格，包括本文件的展示内容和制作方法的描述，著作权状况和来源。',
@@ -10690,14 +10771,31 @@ $messages['zh-hant'] = array(
 	'wm-license-self-multiple-licenses-select' => '您可以選擇您需要的協議使用。',
 );
 
+/** Bân-lâm-gú (Bân-lâm-gú) */
+$messages['zh-min-nan'] = array(
+	'wm-license-free-software-wiki-link' => 'w:zh-min-nan:Chū-iû nńg-thé',
+	'wm-license-gfdl-wiki-link' => 'w:zh-min-nan:GNU Chū-iû Bûn-kiāⁿ Hí-khó-su',
+);
+
 /** Chinese (Taiwan) (‪中文(台灣)‬) */
 $messages['zh-tw'] = array(
 	'wm-license-information-description' => '描述',
+	'wm-license-information-description-missing' => "這個檔案沒有'''{{ #if: {{{1|}}} | {{{1}}} | 描述 }}'''，並可能缺少其它資訊。",
+	'wm-license-information-description-missing-request' => '體案應該包含內容、作者、來源等資訊以方便他人了解，並儘可能帶有日期。如果你知道或得到了這些資訊，請添加到本頁。',
 	'wm-license-information-source' => '來源',
 	'wm-license-information-date' => '日期',
 	'wm-license-information-author' => '作者',
+	'wm-license-information-author-missing' => "本檔案缺乏'''作者'''訊息。",
 	'wm-license-information-permission' => '許可協議',
 	'wm-license-information-permission-see-below' => '如下。',
 	'wm-license-information-other-versions' => '其他版本',
+	'wm-license-own-work' => '上傳者自己的作品',
+);
+
+/** Cantonese (粵語) */
+$messages['zh-yue'] = array(
+	'wm-license-fsf-wiki-link' => 'w:zh-yue:自由軟件基金會',
+	'wm-license-free-software-wiki-link' => 'w:zh-yue:自由軟件',
+	'wm-license-gfdl-wiki-link' => 'w:zh-yue:GFDL',
 );
 
