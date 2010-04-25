@@ -382,11 +382,10 @@ $messages['am'] = array(
 $messages['an'] = array(
 	'wikimediamessages-desc' => 'Mensaches espezificos de Wikimedia',
 	'sitesupport-url' => 'Project:Donazions',
-	'sitesupport' => 'Donazions',
+	'sitesupport' => 'Donativos',
 	'tooltip-n-sitesupport' => 'Refirme o procheuto',
 	'group-abusefilter' => "Editors de filtro d'abuso",
 	'group-accountcreator' => 'Creyadors de cuentas',
-	'group-autopatroller' => 'Autopatrullers',
 	'group-autoreviewer' => 'Autorebisadors',
 	'group-bigexport' => 'Grans esportadors',
 	'group-founder' => 'Fundadors',
@@ -397,7 +396,6 @@ $messages['an'] = array(
 	'group-abusefilter-member' => "editor de filtro d'abuso",
 	'group-accountcreator-member' => 'Creyador de cuenta',
 	'group-autopatrolled-member' => 'autopatrullero',
-	'group-autopatroller-member' => 'autopatrullero',
 	'group-autoreviewer-member' => 'autorebisador',
 	'group-bigexport-member' => 'gran esportador',
 	'group-founder-member' => 'Fundador',
@@ -408,7 +406,6 @@ $messages['an'] = array(
 	'grouppage-abusefilter' => "{{ns:project}}:Editors de filtro d'abuso",
 	'grouppage-accountcreator' => '{{ns:project}}:Creyadors de cuenta',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrullers',
-	'grouppage-autopatroller' => '{{ns:project}}:Autopatrullers',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorrebisadors',
 	'grouppage-bigexport' => '{{ns:project}}:Grans esportadors',
 	'grouppage-founder' => '{{ns:project}}:Fundadors',
@@ -1736,6 +1733,7 @@ $messages['de'] = array(
 	'group-autoreviewer' => 'Automatische Nachprüfer',
 	'group-bigexport' => 'Großexporteure',
 	'group-confirmed' => 'Bestätigte Benutzer',
+	'group-editprotected' => 'Bearbeiter von geschützen Seiten',
 	'group-flood' => 'Botbenutzer',
 	'group-founder' => 'Gründer',
 	'group-import' => 'Importeure',
@@ -1752,6 +1750,7 @@ $messages['de'] = array(
 	'group-autoreviewer-member' => 'Automatischer Nachprüfer',
 	'group-bigexport-member' => 'Großexporteur',
 	'group-confirmed-member' => 'Bestätigter Benutzer',
+	'group-editprotected-member' => 'Bearbeiter von geschützen Seiten',
 	'group-flood-member' => 'Botbenutzer',
 	'group-founder-member' => 'Gründer',
 	'group-import-member' => 'Importeur',
@@ -1768,6 +1767,7 @@ $messages['de'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatische Nachprüfer',
 	'grouppage-bigexport' => '{{ns:project}}:Großexporteure',
 	'grouppage-confirmed' => '{{ns:project}}:Bestätigte Benutzer',
+	'grouppage-editprotected' => '{{ns:project}}:Bearbeiter von geschützen Seiten',
 	'grouppage-flood' => '{{ns:project}}:Botbenutzer',
 	'grouppage-founder' => '{{ns:project}}:Gründer',
 	'grouppage-import' => '{{ns:project}}:Importeure',
@@ -6704,7 +6704,7 @@ Consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Con
 	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de um link ou URL para a página em que está a contribuir. Consulte as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] para mais detalhes.',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
-Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e você concorda em seguir quaisquer condições de licenciamento relevantes.',
+Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e concorda em seguir quaisquer condições de licenciamento relevantes.',
 );
 
 /** Brazilian Portuguese (Português do Brasil)

@@ -7075,11 +7075,42 @@ $messages['nds'] = array(
 
 /** Nedersaksisch (Nedersaksisch)
  * @author Krinkle
+ * @author Servien
  */
 $messages['nds-nl'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia-licentieberichen',
 	'wm-license-cc-wiki-link' => 'w:nds-nl:Creative Commons',
+	'wm-license-cc-attribution' => 'Naamvermelding',
+	'wm-license-cc-by-1.0-text' => 'Dit bestaand steet onder de licentie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.nl Naamvermelding 1.0 laand onbekend]',
+	'wm-license-cc-by-1.0-fi-text' => 'Dit bestaand steet onder de licentie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.nl Naamvermelding 1.0 Finlaand]',
+	'wm-license-cc-by-1.0-nl-text' => 'Dit bestaand steet onder de licentie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.nl Naamvermelding 1.0 Nederlaand]',
 	'wm-license-gfdl-wiki-link' => "w:nds-nl:GNU-licentie veur vri'je dokementäsie",
+	'wm-license-information-description' => 'Beschrieving',
+	'wm-license-information-description-missing' => "Dit bestaand hef gien '''beschrieving''' en meschien steet der oek nog aandere infermasie neet bie.",
+	'wm-license-information-description-missing-request' => 'Geef een dudelijke beschrieving van dit bestaand.',
+	'wm-license-information-source' => 'Bron',
+	'wm-license-information-source-missing' => "Dit bestaand geef gien infermasie over de '''bron'''.",
+	'wm-license-information-source-missing-request' => 'Pas de bestaansbeschrieving an en zet de bron derbie.',
+	'wm-license-information-date' => 'Daotum',
+	'wm-license-information-author' => 'Auteur',
+	'wm-license-information-author-missing' => "Dit bestaand geef gien infermasie over de '''auteur'''",
+	'wm-license-information-permission' => 'Toestemming',
+	'wm-license-information-permission-reusing-text' => 'Hergebruuk van dit bestaand',
+	'wm-license-information-permission-see-below' => 'Kiek hieronder.',
+	'wm-license-information-other-versions' => 'Aandere versies',
+	'wm-license-lgpl-text' => "Disse biebeltheek is [[{{int:wm-license-free-software-wiki-link}}|vrieje pregremmetuur]];
+je maggen 't heruutgeven en/of anpassen in overeenkoms mit de veurweerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zoas uut-egeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].
+De geldende versie is 2.1 van de licentie, of (naor keuze) een aandere laotere versie.
+Disse biebeltheek wönnen verspreid in de hoop dat 't bruukbaor is, mar '''zonder enige gerantie''';
+zelfs zonder de onuut-espreuken gerantie dat e 't '''goed dut''' of da-j 't '''goed veur een bepaold doel kunnen gebruken'''.
+Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer infermasie.",
+	'wm-license-original-upload-log' => 'Oorspronkelijk bestaanstoevoegingslogboek',
 	'wm-license-own-work' => 'Eigen waark',
+	'wm-license-self-one-license' => "Ik, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licentie beschikbaor:",
+	'wm-license-self-one-license-with-author' => "$1, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licentie beschikbaor:",
+	'wm-license-self-multiple-licenses' => "Ik, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licentie beschikbaor:",
+	'wm-license-self-multiple-licenses-with-author' => "$1, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licenties beschikbaor:",
+	'wm-license-self-multiple-licenses-select' => 'Je maggen zelf één van de licenties uutkiezen.',
 );
 
 /** Nepali (नेपाली) */
@@ -9684,9 +9715,11 @@ $messages['te'] = array(
 	'wm-license-cc-by-1.0-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/ అట్రిబ్యూషన్ 1.0 జెనరిక్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-1.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ 1.0 నెదర్లాండ్స్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-2.0-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/2.0/ ఆపాదింపు 2.0 సాధారణ] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-zero-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 వెయివర్] క్రింద లభ్యం.',
 	'wm-license-cc-free' => 'మీరు స్వేచ్ఛగా:',
 	'wm-license-cc-free-to-share-header' => 'పంచుకోవచ్చు',
 	'wm-license-cc-free-to-share-text' => 'ఈ కృతిని కాపీ చేసుకోవచ్చు, పంపిణీ మరియు ప్రసారం చేయవచ్చు',
+	'wm-license-cc-free-to-remix-header' => 'రీమిక్స్ చేయవచ్చు',
 	'wm-license-cc-free-to-remix-text' => 'కృతిని అనుకరించవచ్చు',
 	'wm-license-cc-conditions' => 'ఈ క్రింది షరతుల మీద:',
 	'wm-license-cc-conditions-attribution-header' => 'ఆపాదింపు',
