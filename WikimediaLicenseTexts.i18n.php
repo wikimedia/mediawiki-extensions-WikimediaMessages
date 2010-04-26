@@ -5798,6 +5798,13 @@ $messages['km'] = array(
 	'wm-license-own-work' => 'ការងារផ្ទាល់របស់អ្នកអាប់ឡូដ',
 );
 
+/** Kannada (ಕನ್ನಡ)
+ * @author Nayvik
+ */
+$messages['kn'] = array(
+	'wm-license-information-date' => 'ದಿನಾಂಕ',
+);
+
 /** Korean (한국어)
  * @author Kwj2772
  * @author Multichill
