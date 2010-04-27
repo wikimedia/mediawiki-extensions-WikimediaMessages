@@ -5044,6 +5044,7 @@ $messages['id'] = array(
 	'wm-license-information-date' => 'Tanggal',
 	'wm-license-information-author' => 'Pembuat',
 	'wm-license-information-author-missing' => "Berkas ini kurang informasi '''pembuat'''.",
+	'wm-license-information-permission' => 'Lisensi',
 	'wm-license-information-permission-reusing-text' => 'Menggunakan kembali berkas ini',
 	'wm-license-information-permission-see-below' => 'Lihat di bawah',
 	'wm-license-information-other-versions' => 'Versi lainnya',
