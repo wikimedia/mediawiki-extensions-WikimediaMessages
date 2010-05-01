@@ -1317,6 +1317,7 @@ Ako ovo niste napisali lično, ove izmjene moraju biti dostupne pod uslovima u s
  * @author Paucabot
  * @author SMP
  * @author Solde
+ * @author Toniher
  * @author Vriullop
  */
 $messages['ca'] = array(
@@ -1342,6 +1343,7 @@ $messages['ca'] = array(
 	'group-flood-member' => 'usuari-bot',
 	'group-founder-member' => 'fundador',
 	'group-import-member' => 'importador',
+	'group-interface_editors-member' => 'editor de la interfície',
 	'group-ipblock-exempt-member' => "exempt del bloqueig d'IP",
 	'group-rollbacker-member' => 'revertidor ràpid',
 	'group-transwiki-member' => 'importador transwiki',
@@ -1830,7 +1832,7 @@ $messages['diq'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/tr',
 	'sitesupport' => 'Bexşi',
 	'tooltip-n-sitesupport' => 'paşt bıde ma',
-	'specialpages-group-contribution' => 'Destek dayoğan/Pere berz kerdoğ',
+	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
 	'group-abusefilter' => 'serkarê filtreyê suistimali',
 	'group-accountcreator' => 'vıraştoxê hesabi',
 	'group-autopatrolled' => 'Oto-kontroloğî',
