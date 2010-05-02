@@ -8411,13 +8411,14 @@ $messages['pt'] = array(
  * @author Capmo
  * @author Hamilton Abreu
  * @author Luckas Blade
+ * @author 555
  */
 $messages['pt-br'] = array(
-	'wikimedialicensetexts-desc' => 'Mensagens de licença da Wikimedia',
-	'wm-license-attribution-with-author-text' => "O detentor dos direitos de autor deste arquivo, $1, autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
-	'wm-license-attribution-without-author-text' => "O detentor dos direitos de autor deste arquivo autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
+	'wikimedialicensetexts-desc' => 'Mensagens de licenciamento Wikimedia',
+	'wm-license-attribution-with-author-text' => "O detentor dos direitos autorais deste arquivo, $1, autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
+	'wm-license-attribution-without-author-text' => "O detentor dos direitos autorais deste arquivo autoriza o seu uso por qualquer pessoa, '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
 	'wm-license-cc-attribution' => 'Atribuição',
-	'wm-license-cc-by-1.0-text' => 'O arquivo está licenciado nos direitos autorais de tipo:  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]], [http://creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica]',
+	'wm-license-cc-by-1.0-text' => 'Este arquivo está disponibilizado sob a licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]], [http://creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica]',
 	'wm-license-cc-free' => 'Você é livre:',
 	'wm-license-cc-free-to-share-header' => 'para compartilhar',
 	'wm-license-cc-free-to-share-text' => 'copiar, distribuir e transmitir a obra',
