@@ -988,6 +988,7 @@ $messages['bg'] = array(
 	'wm-license-free-software-wiki-link' => 'w:bg:Свободен софтуер',
 	'wm-license-gfdl-wiki-link' => 'w:bg:Лиценз за свободна документация на ГНУ',
 	'wm-license-gpl-wiki-link' => 'w:bg:GNU General Public License',
+	'wm-license-information-table-summary' => 'Стандартизирана таблица, предоставяща пълна информация за файла, включително описание на изображението, авторскоправен статут и източник.',
 	'wm-license-information-description' => 'Описание',
 	'wm-license-information-description-missing' => "Тази картинка '''няма {{ #if: {{{1|}}} | {{{1}}} | описание }}''', а може би и друга необходима информация.",
 	'wm-license-information-description-missing-request' => 'Всеки медиен файл трябва да има описание какво представлява, кой е авторът, източникът и дата по възможност. Ако знаете тази информация, моля добавете я.',
@@ -1000,6 +1001,7 @@ $messages['bg'] = array(
 	'wm-license-information-permission' => 'Права',
 	'wm-license-information-permission-see-below' => 'вж. по-долу',
 	'wm-license-information-other-versions' => 'други версии',
+	'wm-license-original-upload-log' => 'Дневник на оригиналното качване',
 	'wm-license-own-work' => 'Собствена творба',
 	'wm-license-self-one-license' => 'Аз, носителят на авторските права над тази творба, я публикувам тук под следния лиценз:',
 	'wm-license-self-one-license-with-author' => '$1, носителят на авторските права над тази творба, я публикува тук под следния лиценз:',
@@ -1020,6 +1022,18 @@ $messages['bn'] = array(
 	'wm-license-cc-conditions' => 'নিম্নের শর্তাবলীর ভিত্তিতে:',
 	'wm-license-free-software-wiki-link' => 'w:bn:ফ্রি সফ্টওয়্যার',
 	'wm-license-gfdl-wiki-link' => 'w:bn:গনু ফ্রি ডকুমেন্টেশান লাইসেন্স',
+	'wm-license-information-description' => 'বর্ণনা',
+	'wm-license-information-description-missing-request' => 'অনুগ্রহ করে এ ফাইলের একটি অর্থবহ বর্ণনা দিন।',
+	'wm-license-information-source' => 'উৎস',
+	'wm-license-information-date' => 'তারিখ',
+	'wm-license-information-author' => 'লেখক',
+	'wm-license-information-author-missing' => "এ ফাইলে '''লেখক''' এর তথ্যের অভাব রয়েছে।",
+	'wm-license-information-permission' => 'অনুমতি',
+	'wm-license-information-permission-reusing-text' => 'এ ফাইলের পুনঃব্যবহার',
+	'wm-license-information-permission-see-below' => 'নিচে দেখুন।',
+	'wm-license-information-other-versions' => 'অন্যান্য সংস্করণ',
+	'wm-license-original-upload-log' => 'মূল আপলোড লগ',
+	'wm-license-own-work' => 'নিজের কাজ',
 );
 
 /** Breton (Brezhoneg)
@@ -2003,6 +2017,7 @@ $messages['da'] = array(
 /** German (Deutsch)
  * @author ChrisiPK
  * @author CygnusOlor
+ * @author Kghbln
  * @author Metalhead64
  * @author Multichill
  * @author The Evil IP address
@@ -2175,6 +2190,7 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-cc-sa-1.0-nl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/sa/1.0/nl/deed.de Weitergabe unter gleichen Bedingungen 1.0 Niederlande] lizenziert.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/sa/2.0/jp/deed.de Weitergabe unter gleichen Bedingungen 2.0 Japan] lizenziert.',
 	'wm-license-cc-zero-text' => 'Diese Datei wird zur Verfügung gestellt unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.de CC0 Verzicht auf das Copyright].',
+	'wm-license-cc-zero-explanation' => 'Die Person, die dieses Protokoll mit einem Werk verknüpft hat, übergibt dieses der Gemeinfreiheit, indem sie somit alle Urheberrechte und damit verbundenen weiteren Rechte an ihm, im Rahmen der weltweit jeweils geltenden gesetzlichen Bestimmungen, aufgibt. Bei Werken, die mit dem Protokoll CC0 verknüpft sind, muss der Urheber/Rechteinhaber nicht genannt werden. Sofern dies erfolgt, hat es in einer Weise zu geschehen, die den Eindruck ausschließt, er würde die Verwendung des Werkes unterstützen.',
 	'wm-license-cc-free' => 'Du darfst:',
 	'wm-license-cc-free-to-share-header' => 'verbreiten',
 	'wm-license-cc-free-to-share-text' => 'das Werk vervielfältigen, verbreiten und öffentlich zugänglich machen',
@@ -2200,6 +2216,8 @@ Der vollständige Lizenztext ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.2-l
 Der vollständige Lizenztext ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
 	'wm-license-gfdl-1.3-and-later' => "Es ist erlaubt, die Datei unter den Bedingungen der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz für freie  Dokumentation]]''', Version 1.3 oder einer späteren Version, veröffentlicht von der [[{{int:wm-license-fsf-wiki-link}}|Free Software  Foundation]], zu kopieren, zu verbreiten und/oder zu modifizieren; es gibt keine unveränderlichen Abschnitte, keinen vorderen und keinen hinteren Umschlagtext.
 Der vollständige Lizenztext ist im Kapitel  ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
+	'wm-license-gfdl-1.3-only' => "Es ist erlaubt, die Datei unter den Bedingungen der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz für freie  Dokumentation]]''', Version 1.3, veröffentlicht von der [[{{int:wm-license-fsf-wiki-link}}|Free Software  Foundation]], zu kopieren, zu verbreiten und/oder zu modifizieren; es gibt keine unveränderlichen Abschnitte, keinen vorderen und keinen hinteren Umschlagtext.
+Der vollständige Lizenztext ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
 	'wm-license-gfdl-wiki-link' => 'w:de:GNU-Lizenz für freie Dokumentation',
 	'wm-license-gpl-text' => "Dieses Werk ist [[{{int:wm-license-free-software-wiki-link}}|freie Software]]; sie darf weiterverteilt und/oder verändert werden unter der  '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''', wie sie von der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] veröffentlicht wurde; dazu gelten die Bestimmungen der Version 2 oder einer späteren Version.
 Dieses Werk wurde in der Hoffnung veröffentlicht, dass sie sich als nützlich erweisen könnte, jedoch '''ohne Garantie'''; auch ohne implizierter Garantie der '''Marktgängigkeit''' oder der '''Eignung zu einem bestimmten Zweck'''.
