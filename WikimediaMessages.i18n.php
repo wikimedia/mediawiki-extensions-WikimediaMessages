@@ -233,8 +233,10 @@ $messages['ab'] = array(
 
 /** Achinese (Acèh)
  * @author Andri.h
+ * @author Si Gam Acèh
  */
 $messages['ace'] = array(
+	'sitesupport' => 'Meuripè',
 	'tooltip-n-sitesupport' => 'Dukông kamoë',
 );
 
