@@ -2021,6 +2021,7 @@ $messages['da'] = array(
  * @author Metalhead64
  * @author Multichill
  * @author The Evil IP address
+ * @author Umherirrender
  */
 $messages['de'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia-Lizenztexte',
@@ -2190,7 +2191,7 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-cc-sa-1.0-nl-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/sa/1.0/nl/deed.de Weitergabe unter gleichen Bedingungen 1.0 Niederlande] lizenziert.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/sa/2.0/jp/deed.de Weitergabe unter gleichen Bedingungen 2.0 Japan] lizenziert.',
 	'wm-license-cc-zero-text' => 'Diese Datei wird zur Verfügung gestellt unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.de CC0 Verzicht auf das Copyright].',
-	'wm-license-cc-zero-explanation' => 'Die Person, die dieses Protokoll mit einem Werk verknüpft hat, übergibt dieses der Gemeinfreiheit, indem sie somit alle Urheberrechte und damit verbundenen weiteren Rechte an ihm, im Rahmen der weltweit jeweils geltenden gesetzlichen Bestimmungen, aufgibt. Bei Werken, die mit dem Protokoll CC0 verknüpft sind, muss der Urheber/Rechteinhaber nicht genannt werden. Sofern dies erfolgt, hat es in einer Weise zu geschehen, die den Eindruck ausschließt, er würde die Verwendung des Werkes unterstützen.',
+	'wm-license-cc-zero-explanation' => 'Die Person, die das Werk mit diesem Dokument verbunden hat, übergibt dieses weltweit der Gemeinfreiheit, indem sie alle Urheberrechte und damit verbundenen weiteren Rechte – im Rahmen der jeweils geltenden gesetzlichen Bestimmungen – aufgibt. Bei der Nutzung von Werken unter CC0 muss der Urheber/Rechteinhaber nicht genannt werden. Sofern die Nennung dennoch erfolgt, hat es in einer Weise zu geschehen, die den Eindruck ausschließt, er würde die Nutzung des Werkes unterstützen.',
 	'wm-license-cc-free' => 'Du darfst:',
 	'wm-license-cc-free-to-share-header' => 'verbreiten',
 	'wm-license-cc-free-to-share-text' => 'das Werk vervielfältigen, verbreiten und öffentlich zugänglich machen',
