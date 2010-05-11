@@ -1803,6 +1803,7 @@ $messages['cy'] = array(
 
 /** Danish (Dansk)
  * @author EPO
+ * @author Emilkris33
  * @author MGA73
  * @author Multichill
  * @author Sarrus
@@ -1974,6 +1975,7 @@ $messages['da'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.da Del på samme vilkår 1.0 Nederlandene]-licensen.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.da Del på samme vilkår 2.0 Japan]-licensen.',
 	'wm-license-cc-zero-text' => 'Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.da CC0 1.0 Universal].',
+	'wm-license-cc-zero-explanation' => 'Personen, der har forbundet et værk med dette dokument er dedikeret arbejdet til Commons ved at give afkald alle hans eller hendes rettigheder til værket på verdensplan under loven om ophavsret og alle relaterede eller beslægtede juridiske rettigheder han eller hun havde i værket, i det omfang tilladte ved lov. Værker under CC0 kræver ikke anerkendelse for værket. Ved citering af arbejdet, skal du ikke have godkendelse fra forfatteren.',
 	'wm-license-cc-free' => 'Du har frihed til:',
 	'wm-license-cc-free-to-share-header' => 'til at dele',
 	'wm-license-cc-free-to-share-text' => 'til at fremstille eksemplarer og gøre værket tilgængeligt for almenheden',
@@ -1984,10 +1986,12 @@ $messages['da'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Du skal kreditere værket på den måde, der er angivet af rettighedshaveren og licensgiveren.',
 	'wm-license-cc-conditions-share_alike-header' => 'del på samme vilkår',
 	'wm-license-cc-conditions-share_alike-text' => 'Hvis du bearbejder, herunder ændrer og tilpasser, dette værk, herunder også med kommercielt sigte, skal du licensere det nye værk under tilsvarende vilkår.',
+	'wm-license-cecill-text' => 'Dette værk er [[{{int:wm-license-free-software-wiki-link}}|gratis software]]; og du kan redistribuere det eller ændre det ifølge reglerne i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkårene for CeCILL licens er til rådighed på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fal-text' => "Copyleft: Dette kunstværk er gratis, og du kan redistribuere det og/eller ændre det i henhold til bestemmelserne i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du kan finde et eksemplar af denne licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude sitet] såvel som på andre websteder.",
 	'wm-license-fal-wiki-link' => 'w:da:Free Art license',
 	'wm-license-fsf-wiki-link' => 'w:da:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:da:Fri software',
+	'wm-license-gfdl-1.2-and-later' => "Tilladelse er givet til at kopiere, distribuere og/eller ændre dette dokument under betingelserne i ''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 eller enhver senere version udgivet af [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; uden et invariant afsnit, forsidetekster, og ingen bagsidetekst. En kopi af licensen er inkluderet i afsnittet ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:da:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:da:GNU General Public License',
 	'wm-license-information-table-summary' => 'En standardiseret skema giver fuldstændige oplysninger om den fil, herunder beskrivelse, hvad det viser, og hvordan det blev gjort, information om ophavsret og kilde.',
@@ -3409,6 +3413,7 @@ $messages['fa'] = array(
  * @author Centerlink
  * @author Crt
  * @author Multichill
+ * @author Nike
  * @author Str4nd
  * @author ZeiP
  */
@@ -3536,6 +3541,7 @@ $messages['fi'] = array(
 	'wm-license-information-permission-see-below' => 'Katso alapuolelle.',
 	'wm-license-information-other-versions' => 'Muut versiot',
 	'wm-license-lgpl-wiki-link' => 'w:fi:GNU LGPL',
+	'wm-license-original-upload-log' => 'Alkuperäinen tallennusloki',
 	'wm-license-own-work' => 'Oma teos',
 	'wm-license-self-multiple-licenses-select' => 'Voit valita yllä olevista lisensseistä sen, jota haluat käyttää.',
 );
@@ -9817,6 +9823,7 @@ $messages['sv'] = array(
 	'wm-license-information-permission-see-below' => 'Se nedan.',
 	'wm-license-information-other-versions' => 'Andra versioner',
 	'wm-license-lgpl-wiki-link' => 'w:sv:GNU Lesser General Public License',
+	'wm-license-original-upload-log' => 'Ursprunglig uppladdningslogg',
 	'wm-license-own-work' => 'Eget arbete',
 	'wm-license-self-one-license' => 'Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
 	'wm-license-self-one-license-with-author' => '$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
@@ -9873,6 +9880,8 @@ $messages['te'] = array(
 పునఃపంపిణీ, వ్యుత్పన్న కృతులు, వాణిజ్యపరమైన వాడుకలు, మరియు ఇతర వాడుకలు అనుమతించబడతాయి.",
 	'wm-license-cc-attribution' => 'ఆపాదింపు',
 	'wm-license-cc-by-1.0-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/ అట్రిబ్యూషన్ 1.0 జెనరిక్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
+	'wm-license-cc-by-1.0-fi-text' => 'ఈ ఫైలు [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland] కింద లైసెన్సు చేయబడి ఉంది',
+	'wm-license-cc-by-1.0-il-text' => 'ఈ ఫైలు [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 ఇజ్రాయెల్] కింద లైసెన్సు చేయబడి ఉంది',
 	'wm-license-cc-by-1.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ 1.0 నెదర్లాండ్స్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-2.0-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/2.0/ ఆపాదింపు 2.0 సాధారణ] లైసెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-zero-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 వెయివర్] క్రింద లభ్యం.',
@@ -10837,8 +10846,12 @@ $messages['zh-classical'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:zh-classical:革奴自由文檔許可協議',
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文(简体)‬)
+ * @author Shizhao
+ */
 $messages['zh-hans'] = array(
+	'wm-license-cc-attribution' => '署名',
+	'wm-license-cc-by-sa-2.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/2.0/deed.en 署名-相同方式共享 2.0 未本地化版本]许可协议授权。',
 	'wm-license-information-table-summary' => '提供本文件完整信息的标准表格，包括本文件的展示内容和制作方法的描述，著作权状况和来源。',
 	'wm-license-information-description' => '描述',
 	'wm-license-information-description-missing' => "本文件没有'''{{ #if: {{{1|}}} | {{{1}}} | 描述 }}'''，并可能缺少其它信息。",
