@@ -7757,11 +7757,13 @@ $messages['no'] = array(
 
 /** Occitan (Occitan)
  * @author Cedric31
+ * @author Jfblanc
  * @author Multichill
  */
 $messages['oc'] = array(
 	'wikimedialicensetexts-desc' => 'Messatges de las licéncias de Wikimedia',
 	'wm-license-attribution-with-author-text' => "Lo proprietari dels dreches d'autor d'aqueste fichièr, $1, autoriza a quina persona que siá de l'utilizar '''per quina intencion que siá, amb la condicion''' que lo titular dels dreches d'autor siá atribuít corrèctament. La redistribucion, la realizacion de trabalhs derivats, l'emplec comercial e autre tipe d'emplecs es permés.",
+	'wm-license-attribution-without-author-text' => "Lo titular dels dreches d'autor d'aquel fichièr permet a cadun de l'utilizar '''per quina intencion que siá, provist que''' lo titular dels dreches d'autor siá mençonat corrèctament. La redistribucion, las òbras derivadas, l'usatge comercial e quin autre usatge que siá son permés.",
 	'wm-license-cc-wiki-link' => 'w:oc:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribucion',
 	'wm-license-cc-by-1.0-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr paternitat 1.0 generica]',
@@ -7780,8 +7782,12 @@ $messages['oc'] = array(
 	'wm-license-cc-by-2.0-fr-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.fr paternitat 2.0 França].',
 	'wm-license-cc-by-2.0-hr-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/hr/2.0/br/deed.fr paternitat 2.0 Croàcia].',
 	'wm-license-cc-by-2.0-it-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.fr paternitat 2.0 Itàlia].',
+	'wm-license-cc-by-2.0-jp-text' => 'Aquel fichièr es disponible jos la licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.Can Reconeissença 2.0 pel Japon].',
 	'wm-license-cc-by-2.0-kr-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fr paternitat 2.0 Corèa].',
 	'wm-license-cc-by-2.0-nl-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.fr paternitat 2.0 Païses Basses].',
+	'wm-license-cc-by-2.0-tw-text' => 'Aquel fichièr es disponible jos la licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.Can Reconeissença 2.0 per Taiwan].',
+	'wm-license-cc-by-2.0-uk-text' => 'Aquel fichièr es disponible jos la licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.Can Reconeissença 2.0 per Anglatèrra e lo País de Galas].',
+	'wm-license-cc-by-2.0-za-text' => 'Aquel fichièr es disponible jos la licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.Can Reconeissença 2.0 per Africa del Sud].',
 	'wm-license-cc-by-2.5-text' => 'Aqueste fichièr es jos licéncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ licéncia generica atribucion 2.5]',
 	'wm-license-cc-by-2.5-au-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.fr Paternitat 2.5 Austràlia].',
 	'wm-license-cc-by-2.5-bg-text' => 'Aqueste fichièr es disponible segon los tèrmes de la [[{{int:wm-license-cc-wiki-link}}|licéncia Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.fr Paternitat 2.5 Bulgaria].',
@@ -8505,11 +8511,12 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (Português do Brasil)
+ * @author 555
  * @author BrunaaAa
  * @author Capmo
+ * @author Giro720
  * @author Hamilton Abreu
  * @author Luckas Blade
- * @author 555
  */
 $messages['pt-br'] = array(
 	'wikimedialicensetexts-desc' => 'Mensagens de licenciamento Wikimedia',
@@ -8517,6 +8524,18 @@ $messages['pt-br'] = array(
 	'wm-license-attribution-without-author-text' => "O detentor dos direitos autorais deste arquivo autoriza o seu uso por qualquer pessoa, '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
 	'wm-license-cc-attribution' => 'Atribuição',
 	'wm-license-cc-by-1.0-text' => 'Este arquivo está disponibilizado sob a licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]], [http://creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica]',
+	'wm-license-cc-by-1.0-fi-text' => 'A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.pt Atribuição 1.0 Finlândia].',
+	'wm-license-cc-by-1.0-il-text' => 'A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.pt Atribuição 1.0 Israel].',
+	'wm-license-cc-by-1.0-nl-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.pt Atribuição 1.0 Holanda].',
+	'wm-license-cc-by-2.0-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.pt Atribuição 2.0 Genérica].',
+	'wm-license-cc-by-2.0-at-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.pt Atribuição 2.0 Áustria].',
+	'wm-license-cc-by-2.0-au-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.pt Atribuição 2.0 Austrália].',
+	'wm-license-cc-by-2.0-be-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.pt Atribuição 2.0 Bélgica].',
+	'wm-license-cc-by-2.0-br-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.pt Atribuição 2.0 Brasil].',
+	'wm-license-cc-by-2.0-ca-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.pt Atribuição 2.0 Canadá].',
+	'wm-license-cc-by-2.0-cl-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.pt Atribuição 2.0 Chile].',
+	'wm-license-cc-by-2.0-de-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.pt Atribuição 2.0 Alemanha].',
+	'wm-license-cc-by-2.0-es-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.pt Atribuição 2.0 Espanha].',
 	'wm-license-cc-free' => 'Você é livre:',
 	'wm-license-cc-free-to-share-header' => 'para compartilhar',
 	'wm-license-cc-free-to-share-text' => 'copiar, distribuir e transmitir a obra',
