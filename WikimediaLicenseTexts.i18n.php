@@ -1042,7 +1042,7 @@ $messages['bn'] = array(
  * @author Y-M D
  */
 $messages['br'] = array(
-	'wikimedialicensetexts-desc' => 'Kemennadennoù aotre implijout Wikimedia',
+	'wikimedialicensetexts-desc' => 'Kemennadennoù aotreoù-implijout Wikimedia',
 	'wm-license-cc-wiki-link' => 'w:br:Creative Commons',
 	'wm-license-cc-attribution' => 'Deroadenn',
 	'wm-license-cc-by-1.0-text' => 'Emañ ar restr-mañ dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Deroadenn 1.0 Hollek].',
@@ -1215,7 +1215,7 @@ $messages['br'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'deroadenn',
 	'wm-license-cc-conditions-attribution-text' => "Rankout a rit dereiñ an oberenn-mañ diouzh an doare resisaet gant an aozer pe an hini en deus roet an aotre (met hep reiñ da grediñ ez oc'h bet aprouet ganto pe ez eo aprouet ganto implij an oberenn-mañ).",
 	'wm-license-cc-conditions-share_alike-header' => 'eskemmañ rik-ha-rik',
-	'wm-license-cc-conditions-share_alike-text' => "Ma tegasit kemmoù, ma treuzfurmit pe ma savit un dra bennak diwar an oberenn-mañ e rankit skignañ an oberenn krouet ganeoc'h dindan an hevelep aotre implijout pe un aotre implijout kar-tost da hemañ.",
+	'wm-license-cc-conditions-share_alike-text' => "Ma tegasit kemmoù, ma treuzfurmit pe ma savit un dra bennak diwar an oberenn-mañ e rankit skignañ an oberenn krouet ganeoc'h dindan an hevelep aotre-implijout pe un aotre-implijout kar-tost da hemañ.",
 	'wm-license-fal-wiki-link' => 'w:br:Aotre-implijout Arz Frank',
 	'wm-license-fsf-wiki-link' => 'w:br:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:br:Poellad frank',
@@ -6858,10 +6858,10 @@ $messages['mk'] = array(
 	'wm-license-gpl-wiki-link' => 'w:mk:Општа јавна лиценца на ГНУ',
 	'wm-license-information-table-summary' => 'Стандардизирана табела што дава целосни информации за датотеката, односно опис на тоа што прикажува датотеката и како била направена, статус на авторските права и извор.',
 	'wm-license-information-description' => 'Опис',
-	'wm-license-information-description-missing' => "На овој медиум му недостасува '''опис''', а со тоа можеби и други информации.",
+	'wm-license-information-description-missing' => "На оваа податотека ѝ недостасува '''опис''', а со тоа можеби и други информации.",
 	'wm-license-information-description-missing-request' => 'Ве молиме внесете содржаен опис за податотеката.',
 	'wm-license-information-source' => 'Извор',
-	'wm-license-information-source-missing' => "Овој медиум нема информации за '''извор'''.",
+	'wm-license-information-source-missing' => "Оваа медија нема информации за '''извор'''.",
 	'wm-license-information-source-missing-request' => 'Ве молиме наведете извор во описот на податотеката.',
 	'wm-license-information-date' => 'Датум',
 	'wm-license-information-author' => 'Автор',
@@ -9261,7 +9261,7 @@ $messages['simple'] = array(
  */
 $messages['sk'] = array(
 	'wikimedialicensetexts-desc' => 'Správy licencií Wikimedia',
-	'wm-license-attribution-with-author-text' => "Držiteľ autorských práv tohto súboru, \$ 1, umožňuje komukoľvek používať ho '''na akýkoľvek účel, za predpokladu, že''' bude správne označený držiteľ autorských práv. Redistribúcia, tvorba odvodených diel, komerčné využitie a všetky ďalšie použitia sú povolené.",
+	'wm-license-attribution-with-author-text' => "Držiteľ autorských práv tohto súboru, $1, umožňuje komukoľvek používať ho '''na akýkoľvek účel, za predpokladu, že''' bude správne označený držiteľ autorských práv. Redistribúcia, tvorba odvodených diel, komerčné využitie a všetky ďalšie použitia sú povolené.",
 	'wm-license-attribution-without-author-text' => "Držiteľ autorských práv tohto súboru umožňuje komukoľvek používať ho '''na akýkoľvek účel, za predpokladu, že''' bude správne označený držiteľ autorských práv. Redistribúcia, tvorba odvodených diel, komerčné využitie a všetky ďalšie použitia sú povolené.",
 	'wm-license-cc-wiki-link' => 'w:sk:Creative Commons',
 	'wm-license-cc-attribution' => 'Attribution',
@@ -9382,10 +9382,16 @@ $messages['sk'] = array(
 	'wm-license-information-author' => 'Autor',
 	'wm-license-information-author-missing' => "Tomuto súboru chýbajú informácie o '''autorovi'''.",
 	'wm-license-information-permission' => 'Povolenie',
+	'wm-license-information-permission-reusing-text' => 'Využívanie tohto súboru',
 	'wm-license-information-permission-see-below' => 'pozri nižšie',
 	'wm-license-information-other-versions' => 'Ďalšie verzie',
 	'wm-license-lgpl-wiki-link' => 'w:sk:GNU Lesser General Public License',
+	'wm-license-original-upload-log' => 'Pôvodný záznam nahrávaní',
 	'wm-license-own-work' => 'Vlastné dielo',
+	'wm-license-self-one-license' => 'Ja, držiteľ autorských práv k tomuto dielu ho týmto zverejňujem za podmienok nasledovnej licencie:',
+	'wm-license-self-one-license-with-author' => '$1, držiteľ autorských práv k tomuto dielu ho týmto zverejňuje za podmienok nasledovnej licencie:',
+	'wm-license-self-multiple-licenses' => 'Ja, držiteľ autorských práv k tomuto dielu ho týmto zverejňujem za podmienok nasledovných licencií:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, držiteľ autorských práv k tomuto dielu ho týmto zverejňuje za podmienok nasledovných licencií:',
 	'wm-license-self-multiple-licenses-select' => 'Môžete si zvoliť ľubovolnú z&nbsp;týchto licencií.',
 );
 
