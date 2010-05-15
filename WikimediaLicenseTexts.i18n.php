@@ -880,6 +880,8 @@ $messages['be-x-old'] = array(
  */
 $messages['bg'] = array(
 	'wikimedialicensetexts-desc' => 'Лицензни съобщения на Уикимедия',
+	'wm-license-attribution-with-author-text' => "Притежателят на авторските права на този файл, $1, позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
+	'wm-license-attribution-without-author-text' => "Притежателят на авторските права на този файл позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
 	'wm-license-cc-attribution' => 'Признание',
 	'wm-license-cc-by-1.0-text' => 'Този файл е лицензиран под [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [http://creativecommons.org/licenses/by/1.0/deed.bg Attribution 1.0 Generic] лиценз.',
@@ -9035,8 +9037,40 @@ $messages['sah'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:sah:GFDL',
 );
 
-/** Sardinian (Sardu) */
+/** Sardinian (Sardu)
+ * @author Andria
+ */
 $messages['sc'] = array(
+	'wikimedialicensetexts-desc' => 'Messàgios de sa licèntzia de Wikimedia',
+	'wm-license-cc-attribution' => 'Atributzione',
+	'wm-license-cc-by-1.0-text' => 'Custu file est a suta sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.it Atributzione 1.0 Genèricu]',
+	'wm-license-cc-by-1.0-fi-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.it Atributzione 1.0 Finlàndia]',
+	'wm-license-cc-by-1.0-il-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.en Atributzione 1.0 Israele].',
+	'wm-license-cc-by-1.0-nl-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.en Atributzione 1.0 Netherlands].',
+	'wm-license-cc-by-2.0-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.en Atributzione 2.0 Genèricu].',
+	'wm-license-cc-by-2.0-at-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.en Atributzione 2.0 Àustria].',
+	'wm-license-cc-by-2.0-au-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.en Atributzione 2.0 Austràlia].',
+	'wm-license-cc-by-2.0-be-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.en Atributzione 2.0 Bèlgiu].',
+	'wm-license-cc-by-2.0-br-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.en Atributzione 2.0 Brasile].',
+	'wm-license-cc-by-2.0-ca-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.en Atributzione 2.0 Cànada].',
+	'wm-license-cc-by-2.0-cl-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.en Atributzione 2.0 Tzile].',
+	'wm-license-cc-by-2.0-de-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.en Atributzione 2.0 Germània].',
+	'wm-license-cc-by-2.0-es-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.en Atributzione 2.0 Spagna].',
+	'wm-license-cc-by-2.0-fr-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.en Atributzione 2.0 Frantza].',
+	'wm-license-cc-by-2.0-hr-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/deed.en Atributzione 2.0 Croàtzia].',
+	'wm-license-cc-by-2.0-it-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.en Atributzione 2.0 Itàlia].',
+	'wm-license-cc-by-2.0-jp-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.en Atributzione 2.0 Giapone].',
+	'wm-license-cc-by-2.0-kr-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/deed.en Atributzione 2.0 Korea].',
+	'wm-license-cc-by-2.0-nl-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.en Atributzione 2.0 Netherlands].',
+	'wm-license-cc-by-2.0-pl-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/deed.en Atributzione 2.0 Polònia].',
+	'wm-license-cc-by-2.0-tw-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.en Atributzione 2.0 Taiwan].',
+	'wm-license-cc-by-2.0-uk-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.en Atributzione 2.0 Inghilterra & Galles].',
+	'wm-license-cc-by-2.0-za-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.en Atributzione 2.0 Sud Àfrica].',
+	'wm-license-cc-by-2.1-au-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.en Atributzione 2.1 Austràlia]',
+	'wm-license-cc-by-2.1-es-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.en Atributzione 2.1 Spagna].',
+	'wm-license-cc-by-2.1-jp-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.en Atributzione 2.1 Giapone].',
+	'wm-license-cc-by-2.5-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.en Atributzione 2.5 Genèricu].',
+	'wm-license-cc-by-2.5-au-text' => 'Custu file est licentziadu in base a is tèrmines de sa licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.en Atributzione 2.5 Austràlia].',
 	'wm-license-gfdl-wiki-link' => 'w:sc:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:sc:Lissentzia GPL',
 );
@@ -9662,12 +9696,17 @@ $messages['su'] = array(
 /** Swedish (Svenska)
  * @author Ainali
  * @author Boivie
+ * @author Dafer45
  * @author Multichill
  * @author Per
  * @author Poxnar
  */
 $messages['sv'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licensmeddelanden',
+	'wm-license-attribution-with-author-text' => "Upphovsrättsinnehavaren till denna fil, $1, tillåter vem som helst att använda den '''i valfritt syfte, förutsatt att''' lämplig hänvisning till upphovsrättsinnehavaren ges.
+Vidaredistribution, redigering av verk, kommersiell användning, och all övrig användning är tillåten.",
+	'wm-license-attribution-without-author-text' => "Upphovsrättsinnehavaren till denna fil tillåter vem som helst att använda den '''i valfritt syfte, förutsatt att''' lämplig hänvisning till upphovsrättsinnehavaren ges.
+Vidaredistribution, redigering av verk, kommersiell användning, och all övrig användning är tillåten.",
 	'wm-license-cc-wiki-link' => 'w:sv:Creative Commons',
 	'wm-license-cc-attribution' => 'Erkännande',
 	'wm-license-cc-by-1.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.sv Erkännande 1.0 Generisk]',
@@ -9804,19 +9843,32 @@ $messages['sv'] = array(
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.sv Erkännande-Dela Lika 2.5 Taiwan] licens.',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/deed.sv Erkännande-Dela Lika 2.5 Sydafrika] licens.',
 	'wm-license-cc-by-sa-3.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.sv Erkännande-Dela Lika 3.0 Generisk]',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/deed.sv 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.sv 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.sv 2.0 Generic] och [http://creativecommons.org/licenses/by-sa/1.0/deed.sv 1.0 Generic] licenserna.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.sv Erkännande-Dela Lika 3.0 Österrike] licens.',
+	'wm-license-cc-by-sa-3.0-cz-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.sv Erkännande-Dela Lika 3.0 Tjeckien] licensen.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.sv Erkännande-Dela Lika 3.0 Tyskland] licens.',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.sv Erkännande-Dela Lika 3.0 Spanien] licens.',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.sv Erkännande-Dela Lika 3.0 Grekland] licens.',
+	'wm-license-cc-by-sa-3.0-gt-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gt/deed.sv Erkännande-Dela Lika 3.0 Guatemala] licensen.',
+	'wm-license-cc-by-sa-3.0-hk-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hk/deed.sv Erkännande-Dela Lika 3.0 Hong Kong] licensen.',
+	'wm-license-cc-by-sa-3.0-hr-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hr/deed.sv Erkännande-Dela Lika 3.0 Kroatien] licensen.',
+	'wm-license-cc-by-sa-3.0-lu-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/lu/deed.sv Erkännande-Dela Lika 3.0 Luxemburg] licensen.',
 	'wm-license-cc-by-sa-3.0-nl-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nl/deed.sv Erkännande-Dela Lika 3.0 Nederländerna] licens.',
 	'wm-license-cc-by-sa-3.0-no-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/no/deed.sv Erkännande-Dela Lika 3.0 Norge] licens.',
 	'wm-license-cc-by-sa-3.0-nz-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nz/deed.sv Erkännande-Dela Lika 3.0 Nya Zeeland] licens.',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/deed.sv Erkännande-Dela Lika 3.0 Filippinerna] licensen.',
+	'wm-license-cc-by-sa-3.0-pl-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pl/deed.sv Erkännande-Dela Lika 3.0 Polen] licensen.',
+	'wm-license-cc-by-sa-3.0-pr-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pr/deed.sv Erkännande-Dela Lika 3.0 Puerto Rico] licensen.',
 	'wm-license-cc-by-sa-3.0-ro-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ro/deed.sv Erkännande-Dela Lika 3.0 Rumänien] licens.',
 	'wm-license-cc-by-sa-3.0-rs-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/rs/deed.sv Erkännande-Dela Lika 3.0 Serbien] licens.',
+	'wm-license-cc-by-sa-3.0-sg-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/sg/deed.sv Erkännande-Dela Lika 3.0 Singapore] licensen.',
+	'wm-license-cc-by-sa-3.0-th-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/th/deed.sv Erkännande-Dela lika 3.0 Thailand] licensen.',
 	'wm-license-cc-by-sa-3.0-tw-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.sv Erkännande-Dela Lika 3.0 Taiwan] licens.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.sv Erkännande-Dela Lika 3.0 Förenta Staterna] licens.',
 	'wm-license-cc-sa-1.0-text' => 'Den här filen har släppts med en [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/deed.sv Dela Lika 1.0 Generisk] licens.',
 	'wm-license-cc-sa-1.0-fi-text' => 'Denna fil är licensierad under licensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.sv Dela Lika 1.0 Finland].',
+	'wm-license-cc-sa-1.0-nl-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.sv Dela Lika 1.0 Nederländerna] licensen.',
+	'wm-license-cc-sa-2.0-jp-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.sv Dela Lika 2.0 Japan] licensen.',
 	'wm-license-cc-zero-text' => 'Denna fil har gjorts tillgänglig under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.sv CC0 deklarering].',
 	'wm-license-cc-zero-explanation' => 'Personen som kopplade ett verk till detta dokument har tillägnat arbetet till Allmänheten genom att, i den utsträckning som tillåts lag, avstå från alla hans eller hennes rättigheter till verket i hela världen som han eller hon skulle haft för verket enligt upphovsrätten och alla relaterade eller närliggande juridiska rättigheter. Verk under CC0 kräver inte inte erkännande. Vid citering av verket, ska du inte förutsätta godkännande från upphovsmannen.',
 	'wm-license-cc-free' => 'Du är fri:',
@@ -10895,9 +10947,11 @@ $messages['zh-hans'] = array(
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
+ * @author Horacewai2
  * @author Multichill
  */
 $messages['zh-hant'] = array(
+	'wikimedialicensetexts-desc' => '維基媒體條款信息',
 	'wm-license-information-description' => '描述',
 	'wm-license-information-description-missing' => "這個媒體沒有'''{{ #if: {{{1|}}} | {{{1}}} | 描述 }}'''，並可能缺少其它信息。",
 	'wm-license-information-description-missing-request' => '媒體應該包含內容、作者、來源等信息讓他人進行瞭解，並儘可能帶有日期。如果你知道或得到了這些信息，請添加到圖像頁。',
