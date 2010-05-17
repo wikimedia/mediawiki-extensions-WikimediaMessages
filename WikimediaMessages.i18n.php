@@ -2120,6 +2120,7 @@ $messages['eml'] = array(
  * @author Airon90
  * @author Marcos
  * @author Michawiki
+ * @author Petrus Adamus
  * @author Tlustulimu
  * @author Yekrats
  * @author Ziko
@@ -2201,7 +2202,8 @@ $messages['eo'] = array(
 	'group-inactive' => 'Neaktivaj uzantoj',
 	'group-inactive-member' => 'neaktiva uzanto',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
-	'wikimedia-copyright' => 'La teksto disponeblas laŭ la <a href="http://creativecommons.org/licenses/by-sa/3.0/">Permesilo Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj kondiĉoj aplikeblas. Vidu <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">rajtojn de uzado</a> por detaloj.',
+	'wikimedia-copyright' => 'La teksto disponeblas laŭ la permesilo <a href="http://creativecommons.org/licenses/by-sa/3.0/">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.
+Vidu la <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> por detaloj.',
 	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime eldoni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. 
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtojn de Uzado] por detaloj.',
 	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verko estu redaktata kaj redistribuata laŭvole, tiam ne enigu ĝin ĉi tie. Se vi ne verkis ĝin mem, ĝi devas esti havebla kun rajtoj kiuj ne kontraŭas al la [http://wikimediafoundation.org/wiki/Terms_of_Use Kondiĉoj de Uzado], kaj vi konsentas sekvi ĉiujn ĉi-temajn permesilajn devigojn.',
@@ -7283,10 +7285,12 @@ $messages['sah'] = array(
 );
 
 /** Sardinian (Sardu)
+ * @author Andria
  * @author Marzedu
  */
 $messages['sc'] = array(
 	'sitesupport' => 'Donaduras',
+	'tooltip-n-sitesupport' => 'Suporta·nos',
 	'group-steward' => 'Stewards',
 );
 
@@ -9434,6 +9438,7 @@ $messages['zh-hans'] = array(
 
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Alexsh
+ * @author Horacewai2
  * @author KaiesTse
  * @author Mark85296341
  * @author William915
@@ -9448,13 +9453,16 @@ $messages['zh-hant'] = array(
 	'specialpages-group-contribution' => '貢獻/募捐者',
 	'group-abusefilter' => '濫用過瀘器編輯者',
 	'group-accountcreator' => '賬戶創建員',
+	'group-arbcom' => '仲裁委員會成員',
 	'group-autopatrolled' => '自動巡查員',
 	'group-autoreviewer' => '巡查豁免者',
 	'group-bigexport' => '大量匯出者',
 	'group-confirmed' => '確認用戶',
+	'group-editprotected' => '已保護的頁面編者',
 	'group-flood' => '機器人用户',
 	'group-founder' => '創辦人',
 	'group-import' => '匯入者',
+	'group-interface_editors' => '界面編輯者',
 	'group-ipblock-exempt' => 'IP查封例外者',
 	'group-patroller' => '巡邏員',
 	'group-rollbacker' => '回退員',
@@ -9462,13 +9470,16 @@ $messages['zh-hant'] = array(
 	'group-trusted' => '受信任的用戶',
 	'group-abusefilter-member' => '濫用過濾器編輯者',
 	'group-accountcreator-member' => '賬戶創建員',
+	'group-arbcom-member' => '仲裁委員會委員',
 	'group-autopatrolled-member' => '巡查豁免者',
 	'group-autoreviewer-member' => '巡查豁免者',
 	'group-bigexport-member' => '大量匯出者',
 	'group-confirmed-member' => '確認用戶',
+	'group-editprotected-member' => '受保護的頁面編輯者',
 	'group-flood-member' => '機器人用户',
 	'group-founder-member' => '創辦人',
 	'group-import-member' => '匯入者',
+	'group-interface_editors-member' => '界面編輯者',
 	'group-ipblock-exempt-member' => 'IP查封例外',
 	'group-patroller-member' => '巡邏員',
 	'group-rollbacker-member' => '回退員',
@@ -9476,13 +9487,16 @@ $messages['zh-hant'] = array(
 	'group-trusted-member' => '受信任的用戶',
 	'grouppage-abusefilter' => '{{ns:project}}:濫用過濾器編輯者',
 	'grouppage-accountcreator' => '{{ns:project}}:賬戶創建員',
+	'grouppage-arbcom' => '{{ns:project}}:仲裁委員會成員',
 	'grouppage-autopatrolled' => '{{ns:project}}:巡查豁免權',
 	'grouppage-autoreviewer' => '{{ns:project}}:巡查豁免權',
 	'grouppage-bigexport' => '{{ns:project}}:大量匯出者',
 	'grouppage-confirmed' => '{{ns:project}}:已確認用戶',
+	'grouppage-editprotected' => '{{ns:project}}:被保護頁面編者',
 	'grouppage-flood' => '{{ns:project}}:機器人',
 	'grouppage-founder' => '{{ns:project}}:創辦人',
 	'grouppage-import' => '{{ns:project}}:匯入者',
+	'grouppage-interface_editors' => '{{ns:project}}:介面編輯者',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
 	'grouppage-rollbacker' => '{{ns:project}}:反轉者',
 	'grouppage-transwiki' => '{{ns:project}}:跨維基匯入者',
@@ -9492,6 +9506,7 @@ $messages['zh-hant'] = array(
 	'group-editinterface' => '界面編輯者',
 	'group-Global_bot' => '全域機器人',
 	'group-Global_rollback' => '全域反轉者',
+	'group-Global_sysops' => '全域管理員',
 	'group-Ombudsmen' => '申訴專員',
 	'group-Staff' => '內部成員',
 	'group-steward-member' => '監管員',
@@ -9499,6 +9514,7 @@ $messages['zh-hant'] = array(
 	'group-editinterface-member' => '界面編輯者',
 	'group-Global_bot-member' => '全域機器人',
 	'group-Global_rollback-member' => '全域反轉者',
+	'group-Global_sysops-member' => '全域管理員',
 	'group-Ombudsmen-member' => '申訴專員',
 	'group-Staff-member' => '成員',
 	'group-coder' => '程式編輯者',
