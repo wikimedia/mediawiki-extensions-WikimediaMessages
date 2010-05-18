@@ -472,8 +472,18 @@ $messages['als'] = array(
 	'wm-license-own-work' => 'Eigeni Arbet vo dem wo d Datei uffeladet',
 );
 
+/** Amharic (አማርኛ) */
+$messages['am'] = array(
+	'wm-license-information-description' => 'ማጠቃለያ',
+	'wm-license-information-source' => 'መነሻ፦',
+);
+
 /** Aragonese (Aragonés) */
 $messages['an'] = array(
+	'wm-license-information-description' => 'Descripzión',
+	'wm-license-information-source' => 'Fuent',
+	'wm-license-information-date' => 'Calendata',
+	'wm-license-information-author' => 'Autor',
 	'wm-license-own-work' => 'Treballo de qui la cargó',
 );
 
@@ -483,6 +493,7 @@ $messages['an'] = array(
 $messages['ang'] = array(
 	'wm-license-cc-attribution' => 'Hlīȝdōm',
 	'wm-license-gfdl-wiki-link' => 'w:ang:GNU Frēo Ȝeƿritȝelīefung',
+	'wm-license-information-description' => 'Tōƿritennes',
 	'wm-license-information-source' => 'Fruma',
 	'wm-license-information-source-missing' => "Þis fīl ne hæfþ '''fruman''' cȳþþe.",
 	'wm-license-information-date' => 'Dæȝ',
@@ -591,6 +602,11 @@ $messages['ar'] = array(
 	'wm-license-self-multiple-licenses-select' => 'لك أن تختار الرخصة التي تناسبك.',
 );
 
+/** Aramaic (ܐܪܡܝܐ) */
+$messages['arc'] = array(
+	'wm-license-information-source' => 'ܥܩܪܐ',
+);
+
 /** Egyptian Spoken Arabic (مصرى)
  * @author Meno25
  */
@@ -602,6 +618,10 @@ $messages['arz'] = array(
 	'wm-license-cc-free-to-remix-header' => 'إنك تمزج',
 	'wm-license-cc-conditions-attribution-header' => 'نسبه ل',
 	'wm-license-cc-conditions-share_alike-header' => 'مشاركه زي',
+	'wm-license-information-description' => 'وصف',
+	'wm-license-information-source' => 'مصدر',
+	'wm-license-information-date' => 'تاريخ',
+	'wm-license-information-author' => 'مؤلف',
 );
 
 /** Assamese (অসমীয়া)
@@ -610,6 +630,7 @@ $messages['arz'] = array(
 $messages['as'] = array(
 	'wikimedialicensetexts-desc' => 'ৱিকিমিডিয়া লাইচেঞ্চ বাৰ্তা',
 	'wm-license-cc-free' => 'আপুনি এই স্বাধীনভাবে কৰিব পাৰে:',
+	'wm-license-information-description' => 'বিৱৰণ',
 );
 
 /** Asturian (Asturianu) */
@@ -618,12 +639,26 @@ $messages['ast'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ast:Software llibre',
 	'wm-license-gfdl-wiki-link' => 'w:ast:GNU FDL',
 	'wm-license-gpl-wiki-link' => 'w:ast:GNU General Public License',
+	'wm-license-information-description' => 'Descripción',
+	'wm-license-information-source' => 'Fonte',
 	'wm-license-own-work' => 'Trabayu propiu',
 );
 
-/** Azerbaijani (Azərbaycan) */
+/** Kotava (Kotava) */
+$messages['avk'] = array(
+	'wm-license-information-description' => 'Pimtara',
+	'wm-license-information-source' => 'Klita',
+);
+
+/** Aymara (Aymar aru) */
+$messages['ay'] = array(
+	'wm-license-information-description' => 'Uñt’ayawi',
+);
+
+/** Azerbaijani (Azərbaycanca) */
 $messages['az'] = array(
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
+	'wm-license-information-source' => 'Mənbə',
 );
 
 /** Bashkir (Башҡорт)
@@ -631,6 +666,8 @@ $messages['az'] = array(
  */
 $messages['ba'] = array(
 	'wm-license-cc-attribution' => 'Авторлыҡ күренеүе',
+	'wm-license-information-description' => 'Тасуирлау',
+	'wm-license-information-source' => 'Сығанаҡ',
 );
 
 /** Bavarian (Boarisch) */
@@ -641,10 +678,30 @@ $messages['bar'] = array(
 	'wm-license-information-author-missing' => "Diesa Datei fehln Angåbn zum '''Autor'''.",
 );
 
+/** Samogitian (Žemaitėška) */
+$messages['bat-smg'] = array(
+	'wm-license-information-description' => 'Aprašīms',
+);
+
+/** Southern Balochi (بلوچی مکرانی) */
+$messages['bcc'] = array(
+	'wm-license-information-description' => 'توضیح',
+	'wm-license-information-source' => 'منبع',
+	'wm-license-information-date' => 'تاریح',
+	'wm-license-information-author' => 'نویسوک',
+);
+
+/** Bikol Central (Bikol Central) */
+$messages['bcl'] = array(
+	'wm-license-information-description' => 'Deskripsión',
+);
+
 /** Belarusian (Беларуская) */
 $messages['be'] = array(
 	'wm-license-fsf-wiki-link' => 'w:be:Фонд Свабоднага праграмнага забеспячэння',
 	'wm-license-gfdl-wiki-link' => 'w:be:GNU Free Documentation License',
+	'wm-license-information-description' => 'Апісанне',
+	'wm-license-information-source' => 'Крыніца',
 );
 
 /** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
@@ -1036,6 +1093,11 @@ $messages['bn'] = array(
 	'wm-license-information-other-versions' => 'অন্যান্য সংস্করণ',
 	'wm-license-original-upload-log' => 'মূল আপলোড লগ',
 	'wm-license-own-work' => 'নিজের কাজ',
+);
+
+/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
+$messages['bpy'] = array(
+	'wm-license-information-source' => 'উৎস',
 );
 
 /** Breton (Brezhoneg)
@@ -1559,11 +1621,30 @@ $messages['ca'] = array(
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
 $messages['cdo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:cdo:GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng',
+	'wm-license-information-source' => 'Lài-nguòng',
 );
 
 /** Sorani (Soranî / کوردی) */
 $messages['ckb'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ckb:نەرمەکاڵا خۆڕاییەکان',
+);
+
+/** Sorani (Arabic script) (‫کوردی (عەرەبی)‬) */
+$messages['ckb-arab'] = array(
+	'wm-license-information-description' => 'پەسن',
+	'wm-license-information-source' => 'سەرچاوە',
+);
+
+/** Crimean Turkish (Latin) (Qırımtatarca (Latin)) */
+$messages['crh-latn'] = array(
+	'wm-license-information-description' => 'Tasvir',
+	'wm-license-information-source' => 'Menba',
+);
+
+/** Crimean Turkish (Cyrillic) (Qırımtatarca (Cyrillic)) */
+$messages['crh-cyrl'] = array(
+	'wm-license-information-description' => 'Тасвир',
+	'wm-license-information-source' => 'Менба',
 );
 
 /** Czech (Česky)
@@ -1788,6 +1869,7 @@ $messages['cs'] = array(
 /** Kashubian (Kaszëbsczi) */
 $messages['csb'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:csb:GNU Free Documentation License',
+	'wm-license-information-source' => 'Zdrój',
 );
 
 /** Chuvash (Чӑвашла)
@@ -1795,12 +1877,16 @@ $messages['csb'] = array(
  */
 $messages['cv'] = array(
 	'wm-license-cc-wiki-link' => 'w:cv:Creative Commons',
+	'wm-license-information-description' => 'Ăнлантаркăч',
+	'wm-license-information-source' => 'Çăлкуç',
 );
 
 /** Welsh (Cymraeg) */
 $messages['cy'] = array(
 	'wm-license-fsf-wiki-link' => 'w:cy:Free Software Foundation',
 	'wm-license-gpl-wiki-link' => 'w:cy:Trwydded Gyhoeddus Gyffredinol GNU',
+	'wm-license-information-description' => 'Disgrifiad',
+	'wm-license-information-source' => 'Ffynhonnell',
 );
 
 /** Danish (Dansk)
@@ -2446,6 +2532,9 @@ $messages['diq'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Ti gani çime/qeynakê ena gure ya zi hebat bide (feqat yin nieşken ti ra destek bide).',
 	'wm-license-cc-conditions-share_alike-header' => 'ze pay bike',
 	'wm-license-cc-conditions-share_alike-text' => 'Eka ti wazena ena gure/dosya bivurne, ti gani bine eyni lisansi de gure/dosya xo vila bike.',
+	'wm-license-information-source' => 'Çımey',
+	'wm-license-information-date' => 'Wext',
+	'wm-license-information-author' => 'Nuştekar',
 );
 
 /** Lower Sorbian (Dolnoserbski)
@@ -2484,6 +2573,16 @@ $messages['dsb'] = array(
 	'wm-license-original-upload-log' => 'Originalny protokol nagraśow',
 	'wm-license-own-work' => 'Swójske źěło',
 	'wm-license-self-multiple-licenses-select' => 'Móžoš licencu swójeje wólby wubraś.',
+);
+
+/** Divehi (ދިވެހިބަސް) */
+$messages['dv'] = array(
+	'wm-license-information-source' => 'މަސްދަރު',
+);
+
+/** Ewe (Eʋegbe) */
+$messages['ee'] = array(
+	'wm-license-information-date' => 'Ŋkeke',
 );
 
 /** Greek (Ελληνικά)
@@ -2662,7 +2761,7 @@ $messages['eo'] = array(
 	'wm-license-cc-by-2.5-si-text' => 'Ĉi tiu dosiero estas permesigita sub permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/si/deed.eo Atribuite 2.5 Slovenio].',
 	'wm-license-cc-by-2.5-tw-text' => 'Ĉi tiu dosiero estas permesigita sub permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/tw/deed.eo Atribuite 2.5 Tajvano].',
 	'wm-license-cc-by-2.5-za-text' => 'Ĉi tiu dosiero estas permesigita sub permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.5/za/deed.eo Atribuite 2.5 Sud-Afriko].',
-	'wm-license-cc-by-3.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/deed.eo Atribuada 3.0 Neadaptita] permesilo',
+	'wm-license-cc-by-3.0-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/deed.eo Atribuite 3.0 Neadaptita].',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub permesiloj [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] Atribuite [http://creativecommons.org/licenses/by/3.0/ 3.0 Neadaptita], [http://creativecommons.org/licenses/by/2.5/ 2.5 Ĝenerala], [http://creativecommons.org/licenses/by/2.0/deed.eo 2.0 Ĝenerala] kaj [http://creativecommons.org/licenses/by/1.0/deed.eo 1.0 Ĝenerala].',
 	'wm-license-cc-by-3.0-at-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/at/deed.eo Atribuite 3.0 Aŭstrujo] permesilo.',
 	'wm-license-cc-by-3.0-cz-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/cz/deed.eo Atribuite 3.0 Ĉeĥujo].',
@@ -2745,7 +2844,7 @@ $messages['eo'] = array(
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Ĉi tiu dosiero estas permesita per la permesiloj [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] Atribuite-Samkondiĉe [http://creativecommons.org/licenses/by-sa/3.0/deed.eo 3.0 Neadaptita], [http://creativecommons.org/licenses/by-sa/2.5/deed.eo 2.5 Ĝenerala], [http://creativecommons.org/licenses/by-sa/2.0/deed.eo 2.0 Ĝenerala] and [http://creativecommons.org/licenses/by-sa/1.0/deed.eo 1.0 Ĝenerala].',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.eo Atribuite-Samkondiĉe 3.0 Aŭstrujo] permesilo.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.eo Atribuite-Samkondiĉe 3.0 Ĉeĥujo].',
-	'wm-license-cc-by-sa-3.0-de-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.eo Atribuite-Samkondiĉe 3.0 Germanujo] permesilo.',
+	'wm-license-cc-by-sa-3.0-de-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.eo Atribuite-Samkondiĉe 3.0 Germanujo].',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.eo Atribuite-Samkondiĉe 3.0 Hispanujo] permesilo.',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.eo Atribuite-Samkondiĉe 3.0 Grekujo] permesilo.',
 	'wm-license-cc-by-sa-3.0-gt-text' => 'Ĉi tiu dosiero estas permesigita per permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/3.0/gt/deed.eo Atribuite-Samkondiĉe 3.0 Gvatemalo].',
@@ -3376,8 +3475,10 @@ $messages['eu'] = array(
 
 /** Extremaduran (Estremeñu) */
 $messages['ext'] = array(
+	'wm-license-information-description' => 'Descrición',
 	'wm-license-information-description-missing' => "Esta imahin nu tiini una '''descrición''' u le farta enhormación emportanti.",
 	'wm-license-information-description-missing-request' => 'Las imahin tiinin que tenel un sumáriu pa enhormal al tentu el su conteniu, el su autol, el su orihin, i la su fecha si huera posibri. Si conoci u tiini acesu a esta enhormación, pol favol, dali al palilleru.',
+	'wm-license-information-source' => 'Coigu huenti',
 );
 
 /** Persian (فارسی)
@@ -3809,6 +3910,10 @@ $messages['frp'] = array(
 	'wm-license-cc-by-2.0-au-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.fr patèrnitât 2.0 Ôstralie].',
 	'wm-license-cc-by-2.0-be-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.fr patèrnitât 2.0 Bèlg·ique].',
 	'wm-license-cc-by-2.0-br-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fr patèrnitât 2.0 Brèsil].',
+	'wm-license-information-description' => 'Dèscripcion',
+	'wm-license-information-source' => 'Sôrsa',
+	'wm-license-information-date' => 'Dâta',
+	'wm-license-information-author' => 'Ôtor',
 );
 
 /** Friulian (Furlan)
@@ -3818,6 +3923,7 @@ $messages['frp'] = array(
 $messages['fur'] = array(
 	'wm-license-cc-wiki-link' => 'w:fur:Creative Commons',
 	'wm-license-information-description' => 'Descrizion',
+	'wm-license-information-source' => 'Surzint',
 	'wm-license-information-date' => 'Date',
 	'wm-license-information-author' => 'Autôr',
 	'wm-license-information-permission' => 'Permès',
@@ -3884,6 +3990,18 @@ $messages['ga'] = array(
 	'wm-license-self-multiple-licenses' => 'Is mise sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:',
 	'wm-license-self-multiple-licenses-with-author' => 'Is mise $1, sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:',
 	'wm-license-self-multiple-licenses-select' => 'Is féidir leat a roghnú an ceadúnas do rogha',
+);
+
+/** Simplified Gan script (赣语(简体)) */
+$messages['gan-hans'] = array(
+	'wm-license-information-description' => '简话',
+	'wm-license-information-source' => '来源',
+);
+
+/** Traditional Gan script (贛語(繁體)) */
+$messages['gan-hant'] = array(
+	'wm-license-information-description' => '簡話',
+	'wm-license-information-source' => '來源',
 );
 
 /** Galician (Galego)
@@ -4102,6 +4220,14 @@ $messages['gl'] = array(
 	'wm-license-self-multiple-licenses' => 'Eu, como posuidor dos dereitos de autor desta obra, pola presente publícoa baixo as seguintes licenzas:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, como posuidor dos dereitos de autor desta obra, pola presente publícaa baixo as seguintes licenzas:',
 	'wm-license-self-multiple-licenses-select' => 'Pode seleccionar a licenza que desexe.',
+);
+
+/** Ancient Greek (Ἀρχαία ἑλληνικὴ) */
+$messages['grc'] = array(
+	'wm-license-information-description' => 'Περιγραφή',
+	'wm-license-information-source' => 'Πηγή',
+	'wm-license-information-date' => 'Ἡμερομηνία',
+	'wm-license-information-author' => 'Δημιουργός',
 );
 
 /** Swiss German (Alemannisch)
@@ -4326,11 +4452,20 @@ $messages['gsw'] = array(
 $messages['gu'] = array(
 	'wm-license-free-software-wiki-link' => 'w:gu:ફ્રી સૉફ્ટવૅર',
 	'wm-license-gfdl-wiki-link' => 'w:gu:GFDL',
+	'wm-license-information-source' => 'સ્ત્રોત',
 );
 
 /** Manx (Gaelg) */
 $messages['gv'] = array(
 	'wm-license-free-software-wiki-link' => 'w:gv:Cooid vog heyr',
+	'wm-license-information-description' => 'Coontey',
+	'wm-license-information-source' => 'Bun',
+);
+
+/** Hakka (Hak-kâ-fa) */
+$messages['hak'] = array(
+	'wm-license-information-description' => 'Mèu-sut',
+	'wm-license-information-source' => 'Lòi-ngièn',
 );
 
 /** Hebrew (עברית)
@@ -4371,11 +4506,18 @@ $messages['he'] = array(
 	'wm-license-self-multiple-licenses-select' => 'הנכם מוזמנים לבחור את הרישיון הרצוי בעיניך.',
 );
 
+/** Hindi (हिन्दी) */
+$messages['hi'] = array(
+	'wm-license-information-description' => 'ज़ानकारी',
+	'wm-license-information-source' => 'स्रोत',
+);
+
 /** Fiji Hindi (Latin) (Fiji Hindi (Latin))
  * @author Thakurji
  */
 $messages['hif-latn'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licence ke baare me sandes',
+	'wm-license-information-description' => 'Baare me',
 );
 
 /** Croatian (Hrvatski)
@@ -5177,11 +5319,16 @@ $messages['ilo'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ilo:Nawaya a software',
 	'wm-license-gfdl-wiki-link' => 'w:ilo:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:ilo:GPL',
+	'wm-license-information-description' => 'Deskripsion',
+	'wm-license-information-source' => 'Taudan',
 );
 
 /** Ido (Ido) */
 $messages['io'] = array(
 	'wm-license-free-software-wiki-link' => 'w:io:Libera programaro',
+	'wm-license-information-source' => 'Fonto',
+	'wm-license-information-date' => 'Dato',
+	'wm-license-information-author' => 'Autoro',
 );
 
 /** Icelandic (Íslenska) */
@@ -5653,6 +5800,10 @@ $messages['ja'] = array(
 $messages['jv'] = array(
 	'wikimedialicensetexts-desc' => 'Pesan lisènsi Wikimedia',
 	'wm-license-gfdl-wiki-link' => 'w:jv:GFDL',
+	'wm-license-information-description' => 'Dèskripsi',
+	'wm-license-information-source' => 'Sumber',
+	'wm-license-information-date' => 'Tanggal',
+	'wm-license-information-author' => 'Pangarang',
 );
 
 /** Georgian (ქართული)
@@ -5871,6 +6022,39 @@ $messages['ka'] = array(
 	'wm-license-self-multiple-licenses-select' => 'თქვენ შეგიძლიათ აირჩიოთ ლიცენზია.',
 );
 
+/** Kara-Kalpak (Qaraqalpaqsha) */
+$messages['kaa'] = array(
+	'wm-license-information-source' => 'Fayl deregi',
+);
+
+/** Kabyle (Taqbaylit) */
+$messages['kab'] = array(
+	'wm-license-information-description' => 'Aglam',
+);
+
+/** Kirmanjki (Kırmancki) */
+$messages['kiu'] = array(
+	'wm-license-information-source' => 'Çıme',
+);
+
+/** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
+$messages['kk-arab'] = array(
+	'wm-license-information-description' => 'سىيپاتتاماسى',
+	'wm-license-information-source' => 'قاينار كوزى',
+);
+
+/** Kazakh (Cyrillic) (Қазақша (Cyrillic)) */
+$messages['kk-cyrl'] = array(
+	'wm-license-information-description' => 'Сипаттамасы',
+	'wm-license-information-source' => 'Қайнар көзі',
+);
+
+/** Kazakh (Latin) (Қазақша (Latin)) */
+$messages['kk-latn'] = array(
+	'wm-license-information-description' => 'Sïpattaması',
+	'wm-license-information-source' => 'Qaýnar közi',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author គីមស៊្រុន
  */
@@ -5914,7 +6098,10 @@ $messages['km'] = array(
  * @author Nayvik
  */
 $messages['kn'] = array(
+	'wm-license-information-description' => 'ವಿವರ',
+	'wm-license-information-source' => 'ಆಕರ',
 	'wm-license-information-date' => 'ದಿನಾಂಕ',
+	'wm-license-information-author' => 'ಕರ್ತೃ',
 );
 
 /** Korean (한국어)
@@ -6167,6 +6354,8 @@ $messages['krc'] = array(
 	'wm-license-cc-free-to-remix-text' => 'тюрлендирирге бу чыгъарманы',
 	'wm-license-cc-conditions' => 'Бу келишимледен чыкъмагъанлай:',
 	'wm-license-cc-conditions-attribution-header' => 'авторлукъну чертиу',
+	'wm-license-information-description' => 'Ачыкълау',
+	'wm-license-information-source' => 'Къайнакъ',
 );
 
 /** Colognian (Ripoarisch)
@@ -6196,6 +6385,8 @@ $messages['ksh'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'Wiggerjävve onger derselleve Bedengunge',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann De dat Werk aanpaß, ömwandels, Der  zeräsch mähß, udder drop opbouß, dann darrefs De dat, wat derbei eruß kütt, bloß onger derselleve Bedengunge, undder jannz ähnlesche Bedengunge wigger jävve, wi di Lizänz hee.',
 	'wm-license-gfdl-wiki-link' => 'w:ksh:GNU Lizännz för n fräĳe Dokementazjon',
+	'wm-license-information-source' => 'Quell',
+	'wm-license-information-date' => 'Dattum',
 );
 
 /** Kurdish (Kurdî) */
@@ -6203,8 +6394,21 @@ $messages['ku'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ku:Nermalava azad',
 );
 
+/** Kurdish (Latin) (Kurdî (Latin)) */
+$messages['ku-latn'] = array(
+	'wm-license-information-description' => 'Wesif',
+	'wm-license-information-source' => 'Çavkanî',
+);
+
+/** Cornish (Kernewek) */
+$messages['kw'] = array(
+	'wm-license-information-source' => 'Pennfenten',
+);
+
 /** Latin (Latina) */
 $messages['la'] = array(
+	'wm-license-information-description' => 'Descriptio',
+	'wm-license-information-source' => 'Fons',
 	'wm-license-own-work' => 'Opus proprium',
 );
 
@@ -6416,9 +6620,22 @@ $messages['lb'] = array(
 	'wm-license-self-multiple-licenses-select' => "Dir kënnt d'Lizenz vun Ärer Wiel eraussichen.",
 );
 
+/** Lingua Franca Nova (Lingua Franca Nova) */
+$messages['lfn'] = array(
+	'wm-license-information-author' => 'Autor',
+);
+
 /** Limburgish (Limburgs) */
 $messages['li'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:li:GNU Free Documentation License',
+	'wm-license-information-description' => 'Besjrieving',
+	'wm-license-information-source' => 'Brón',
+	'wm-license-information-date' => 'Datum',
+);
+
+/** Líguru (Líguru) */
+$messages['lij'] = array(
+	'wm-license-information-source' => 'Reixe',
 );
 
 /** Lumbaart (Lumbaart) */
@@ -6645,17 +6862,35 @@ $messages['lt'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Galite pasirinkti, kurią licenciją norite naudoti.',
 );
 
+/** Latgalian (Latgaļu) */
+$messages['ltg'] = array(
+	'wm-license-information-description' => 'Aproksts',
+);
+
 /** Latvian (Latviešu) */
 $messages['lv'] = array(
 	'wm-license-free-software-wiki-link' => 'w:lv:Brīvā programmatūra',
 	'wm-license-gfdl-wiki-link' => 'w:lv:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:lv:GNU Vispārējā publiskā licence',
+	'wm-license-information-description' => 'Apraksts',
+	'wm-license-information-source' => 'Izejas kods',
 	'wm-license-own-work' => 'Paša darbs',
+);
+
+/** Literary Chinese (文言) */
+$messages['lzh'] = array(
+	'wm-license-information-description' => '述',
 );
 
 /** Basa Banyumasan (Basa Banyumasan) */
 $messages['map-bms'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:map-bms:Lisénsi Dokuméntasi Bébas GNU',
+);
+
+/** Moksha (Мокшень) */
+$messages['mdf'] = array(
+	'wm-license-information-description' => 'Информацие',
+	'wm-license-information-source' => 'Лисьма',
 );
 
 /** Malagasy (Malagasy)
@@ -6666,6 +6901,8 @@ $messages['mg'] = array(
 	'wm-license-cc-free-to-share-header' => 'ny mizara',
 	'wm-license-cc-free-to-share-text' => "ny mandika, mizara sy manome ity vokatr'asa ity",
 	'wm-license-free-software-wiki-link' => 'w:mg:Rindrankajy malalaka',
+	'wm-license-information-description' => 'Fanoritana',
+	'wm-license-information-source' => 'Loharano',
 );
 
 /** Maori (Māori) */
@@ -7113,12 +7350,15 @@ $messages['ml'] = array(
 $messages['mn'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:mn:ГНУ чөлөөт баримт бичгийн лиценз',
 	'wm-license-gpl-wiki-link' => 'w:mn:GNU GPL',
+	'wm-license-information-source' => 'Эх үүсвэр',
 );
 
 /** Marathi (मराठी) */
 $messages['mr'] = array(
 	'wm-license-free-software-wiki-link' => 'w:mr:मुक्त सॉफ्टवेअर',
 	'wm-license-gfdl-wiki-link' => 'w:mr:GNU Free Documentation License',
+	'wm-license-information-description' => 'वर्णन',
+	'wm-license-information-source' => 'स्रोत',
 );
 
 /** Malay (Bahasa Melayu)
@@ -7145,6 +7385,10 @@ $messages['ms'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ms:Perisian bebas',
 	'wm-license-gfdl-wiki-link' => 'w:ms:Lesen Dokumentasi Bebas GNU',
 	'wm-license-gpl-wiki-link' => 'w:ms:Lesen Awam Am GNU',
+	'wm-license-information-description' => 'Huraian',
+	'wm-license-information-source' => 'Sumber',
+	'wm-license-information-date' => 'Tarikh',
+	'wm-license-information-author' => 'Pengarang',
 	'wm-license-lgpl-wiki-link' => 'w:ms:Lesen Awam Am Lemah GNU',
 );
 
@@ -7171,10 +7415,17 @@ $messages['mt'] = array(
 	'wm-license-own-work' => 'Opra proprja',
 );
 
+/** Mirandese (Mirandés) */
+$messages['mwl'] = array(
+	'wm-license-information-description' => 'Çcriçon',
+	'wm-license-information-source' => 'Fuonte',
+);
+
 /** Erzya (Эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
+	'wm-license-information-description' => 'Чарькодевтемгакс',
 	'wm-license-information-source' => 'Лисьмапрязо',
 	'wm-license-information-source-missing' => 'Те файланть арась информация лисьмапрядонзо',
 	'wm-license-information-date' => 'Чы-ков',
@@ -7183,6 +7434,16 @@ $messages['myv'] = array(
 	'wm-license-information-permission-reusing-text' => 'Те файланть одов тевс нолдамозо',
 	'wm-license-information-permission-see-below' => 'Вант седе ало.',
 	'wm-license-information-other-versions' => 'Лият версият',
+);
+
+/** Nahuatl (Nāhuatl) */
+$messages['nah'] = array(
+	'wm-license-information-source' => 'Īhuīcpa',
+);
+
+/** Min Nan Chinese (Bân-lâm-gú) */
+$messages['nan'] = array(
+	'wm-license-information-description' => 'Soat-bêng',
 );
 
 /** Low German (Plattdüütsch)
@@ -7277,6 +7538,8 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 
 /** Nepali (नेपाली) */
 $messages['ne'] = array(
+	'wm-license-information-description' => 'वर्णन',
+	'wm-license-information-source' => 'स्रोत',
 	'wm-license-information-author-missing' => "यो मिडियामा '''रचयिता''' जानकारी छैन ।",
 );
 
@@ -7766,6 +8029,16 @@ $messages['no'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Du kan velge lisens etter eget valg.',
 );
 
+/** Novial (Novial) */
+$messages['nov'] = array(
+	'wm-license-information-description' => 'Deskriptione',
+);
+
+/** Northern Sotho (Sesotho sa Leboa) */
+$messages['nso'] = array(
+	'wm-license-information-source' => 'Mothopo',
+);
+
 /** Occitan (Occitan)
  * @author Cedric31
  * @author Jfblanc
@@ -7830,9 +8103,34 @@ $messages['oc'] = array(
 	'wm-license-fsf-wiki-link' => 'w:oc:Fondacion pel logicial liure',
 	'wm-license-free-software-wiki-link' => 'w:oc:Logicial liure',
 	'wm-license-gfdl-wiki-link' => 'w:oc:Licéncia de documentacion liura GNU',
+	'wm-license-information-description' => 'Descripcion',
+	'wm-license-information-source' => 'Font',
+	'wm-license-information-date' => 'Data',
+	'wm-license-information-author' => 'Autor',
 	'wm-license-information-permission-reusing-link' => 'Commons:Reütilizacion de contengut en defòra de Wikimedia',
 	'wm-license-own-work' => 'Trabalh personal',
 	'wm-license-self-multiple-licenses-select' => 'Podètz causir la licéncia que volètz.',
+);
+
+/** Ossetic (Иронау) */
+$messages['os'] = array(
+	'wm-license-information-date' => 'Датæ',
+);
+
+/** Punjabi (ਪੰਜਾਬੀ) */
+$messages['pa'] = array(
+	'wm-license-information-description' => 'ਵੇਰਵਾ',
+	'wm-license-information-source' => 'ਸੋਰਸ',
+);
+
+/** Pangasinan (Pangasinan) */
+$messages['pag'] = array(
+	'wm-license-information-source' => 'Pinanlapuan',
+);
+
+/** Pampanga (Kapampangan) */
+$messages['pam'] = array(
+	'wm-license-information-source' => 'Pikuanan',
 );
 
 /** Deitsch (Deitsch)
@@ -8289,11 +8587,31 @@ $messages['pms'] = array(
 	'wm-license-self-multiple-licenses-select' => "It peule selessioné la licensa ch'it veule.",
 );
 
+/** Western Punjabi (پنجابی) */
+$messages['pnb'] = array(
+	'wm-license-information-description' => 'تفصیل',
+	'wm-license-information-source' => 'ذریعہ',
+);
+
+/** Pontic (Ποντιακά) */
+$messages['pnt'] = array(
+	'wm-license-information-description' => 'Σχόλιον',
+	'wm-license-information-source' => 'Πηγήν',
+);
+
+/** Prussian (Prūsiskan) */
+$messages['prg'] = array(
+	'wm-license-information-description' => 'Ebpeisāsenis',
+	'wm-license-information-source' => 'Aps',
+);
+
 /** Pashto (پښتو)
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
 	'wm-license-cc-wiki-link' => 'w:ps:کريېټيو کامانز',
+	'wm-license-information-description' => 'څرګندونه',
+	'wm-license-information-source' => 'سرچينه',
 	'wm-license-information-date' => 'نېټه',
 	'wm-license-information-author' => 'ليکوال',
 );
@@ -8584,6 +8902,18 @@ $messages['pt-br'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Você pode escolher a licença que quiser.',
 );
 
+/** Quechua (Runa Simi) */
+$messages['qu'] = array(
+	'wm-license-information-description' => "T'iktuna",
+	'wm-license-information-source' => 'Pukyu',
+);
+
+/** Romansh (Rumantsch) */
+$messages['rm'] = array(
+	'wm-license-information-description' => 'Descripziun',
+	'wm-license-information-source' => 'Funtauna',
+);
+
 /** Romani (Romani) */
 $messages['rmy'] = array(
 	'wm-license-free-software-wiki-link' => 'w:rmy:Mesto software',
@@ -8775,6 +9105,10 @@ $messages['roa-tara'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'condivide cose simile',
 	'wm-license-cc-conditions-share_alike-text' => "Ce tu cange, trasforme o costruisce sus a sta fatìe, tu puè destribbuì 'a fatìe ca ne iesse dore sule sotte a 'a stessa licenze o simile a queste.",
 	'wm-license-gfdl-wiki-link' => 'w:roa-tara:GNU Free Documentation License',
+	'wm-license-information-description' => 'Descrizione',
+	'wm-license-information-source' => 'Sorgende',
+	'wm-license-information-date' => 'Date',
+	'wm-license-information-author' => 'Autore',
 );
 
 /** Russian (Русский)
@@ -9003,6 +9337,12 @@ $messages['ru'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Вы можете выбрать любую из этих лицензий.',
 );
 
+/** Rusyn (русиньскый язык) */
+$messages['rue'] = array(
+	'wm-license-information-description' => 'Опис',
+	'wm-license-information-source' => 'Джерело',
+);
+
 /** Yakut (Саха тыла)
  * @author HalanTul
  */
@@ -9040,15 +9380,26 @@ $messages['sah'] = array(
 	'wm-license-cc-by-2.5-au-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/ Attribution 2.5 Australia] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-bg-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/ Attribution 2.5 Bulgaria] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-br-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/ Attribution 2.5 Brazil] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-ca-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/ Attribution 2.5 Canada] лицензиянан тарҕанар.',
+	'wm-license-cc-by-2.5-ch-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/ Attribution 2.5 Switzerland] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-cn-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/ Attribution 2.5 China Mainland] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-co-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/ Attribution 2.5 Colombia] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-dk-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/ Attribution 2.5 Denmark] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-es-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/ Attribution 2.5 Spain] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-hr-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/ Attribution 2.5 Croatia] лицензиянан тарҕанар.',
+	'wm-license-cc-by-2.5-hu-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/ Attribution 2.5 Hungary] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-il-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/ Attribution 2.5 Israel] лицензиянан тарҕанар.',
 	'wm-license-cc-by-2.5-in-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/ Attribution 2.5 India] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-it-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/ Attribution 2.5 Italy] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-mk-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/ Attribution 2.5 Macedonia] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-mt-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/ Attribution 2.5 Malta] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-mx-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/ Attribution 2.5 Mexico] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-my-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/ Attribution 2.5 Malaysia] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-nl-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/ Attribution 2.5 Netherlands] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-pe-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/ Attribution 2.5 Peru] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-pl-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/ Attribution 2.5 Poland] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-pt-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/ Attribution 2.5 Portugal] лицензия усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-2.5-scotland-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/ Attribution 2.5 UK: Scotland] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-2.5-se-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/ Attribution 2.5 Sweden] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-3.0-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-3.0-at-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austria] лицензия усулуобуйатынан туһаныллар.',
@@ -9058,6 +9409,10 @@ $messages['sah'] = array(
 	'wm-license-cc-by-3.0-nz-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/ Attribution 3.0 New Zealand] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-3.0-ro-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/ Attribution 3.0 Romania] лицензия усулуобуйатынан туһаныллар.',
 	'wm-license-gfdl-wiki-link' => 'w:sah:GFDL',
+	'wm-license-information-description' => 'Быһаарыыта',
+	'wm-license-information-source' => 'Хантан ылыллыбыта',
+	'wm-license-information-date' => 'Күнэ-дьыла',
+	'wm-license-information-author' => 'Ааптар',
 );
 
 /** Sardinian (Sardu)
@@ -9242,11 +9597,33 @@ $messages['sc'] = array(
 /** Sicilian (Sicilianu) */
 $messages['scn'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:scn:GNU Licenza Lìbbira di Ducumentazzioni',
+	'wm-license-information-description' => 'Discrizzioni',
+	'wm-license-information-source' => 'Fonti',
+	'wm-license-information-date' => 'Data',
+	'wm-license-information-author' => 'Auturi',
 );
 
 /** Scots (Scots) */
 $messages['sco'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:sco:GFDL',
+	'wm-license-information-source' => 'Soorce',
+);
+
+/** Sassaresu (Sassaresu) */
+$messages['sdc'] = array(
+	'wm-license-information-description' => 'Deschrizioni',
+	'wm-license-information-source' => 'Orìgini',
+);
+
+/** Northern Sami (Sámegiella) */
+$messages['se'] = array(
+	'wm-license-information-description' => 'Govvádus',
+);
+
+/** Cmique Itom (Cmique Itom) */
+$messages['sei'] = array(
+	'wm-license-information-description' => 'Discripcion',
+	'wm-license-information-source' => 'Sourcenam',
 );
 
 /** Sinhala (සිංහල)
@@ -9790,6 +10167,12 @@ $messages['sl'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Izberete lahko dovoljenje po vaši izbiri.',
 );
 
+/** Lower Silesian (Schläsch) */
+$messages['sli'] = array(
+	'wm-license-information-description' => 'Beschreibung',
+	'wm-license-information-source' => 'Quelle',
+);
+
 /** Albanian (Shqip)
  * @author Multichill
  */
@@ -9825,6 +10208,27 @@ $messages['sr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
+/** Serbian Cyrillic ekavian (Српски (ћирилица)) */
+$messages['sr-ec'] = array(
+	'wm-license-information-description' => 'Опис слике',
+	'wm-license-information-source' => 'Извор',
+	'wm-license-information-date' => 'Датум',
+	'wm-license-information-author' => 'Аутор',
+);
+
+/** Serbian Latin ekavian (Srpski (latinica)) */
+$messages['sr-el'] = array(
+	'wm-license-information-description' => 'Opis slike',
+	'wm-license-information-source' => 'Izvor',
+	'wm-license-information-date' => 'Datum',
+	'wm-license-information-author' => 'Autor',
+);
+
+/** Sranan Tongo (Sranantongo) */
+$messages['srn'] = array(
+	'wm-license-information-description' => 'Infrumasi',
+);
+
 /** Seeltersk (Seeltersk)
  * @author Pyt
  */
@@ -9850,11 +10254,17 @@ $messages['stq'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Du moast dän Noome fon dän Autor/Gjuchtienhääber in ju fon him fäästlaide Wiese naame (oawers nit so, dät et so uutsjucht, as wüül hie die of dien Ferweendenge fon dät Wierk unnerstutsje).',
 	'wm-license-cc-conditions-share_alike-header' => 'Fäärereeken unner glieke Bedingengen',
 	'wm-license-cc-conditions-share_alike-text' => 'Wan du dät lizenzierde Wierk blw. dän lizenzierde Inhoold beoarbaidest, annerst of in ne uur Wiese ärkanboar as Gruundloage foar dät oaine Schafjen ferwoanst, duurst du do deertruch näi äntsteene Wierke blw. Inhoolde bloot unner Ferweendenge fon Lizenzbedingengen fäärereeke, do mäd do fon dissen Lizenzferdraach identisk, fergliekboar of kompatibel sunt.',
+	'wm-license-information-description' => 'Beschrieuwenge',
+	'wm-license-information-source' => 'Wälle',
+	'wm-license-information-date' => 'Doatum',
+	'wm-license-information-author' => 'Autor',
 );
 
 /** Sundanese (Basa Sunda) */
 $messages['su'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:su:Lisénsi Dokumén Bébas GNU',
+	'wm-license-information-description' => 'Pedaran',
+	'wm-license-information-source' => 'Sumber',
 );
 
 /** Swedish (Svenska)
@@ -10045,6 +10455,8 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-cc-conditions-attribution-text' => 'Du måste ange upphovsmannen och/eller licensgivaren på det sätt de anger (men inte på ett sätt som antyder att de godkänt eller rekommenderar din använding av verket).',
 	'wm-license-cc-conditions-share_alike-header' => 'dela lika',
 	'wm-license-cc-conditions-share_alike-text' => 'Om du ändrar, bearbetar eller bygger vidare på verket får du endast distribuera resultatet under samma licens, en liknande licens eller en licens som är kompatibel med denna licens.',
+	'wm-license-cecill-text' => 'Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri mjukvara]]; du kan vidaredistribuera och modifiera det enligt villkoren i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkoren i CeCILL licensen finns på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-fal-text' => "Copyleft: Detta konstverk är fritt; du kan vidaredistribuera det och/eller modifiera det enligt villkoren i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du hittar ett exemplar av denna licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude site], såväl som på andra sidor.",
 	'wm-license-fsf-wiki-link' => 'w:sv:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:sv:Fri programvara',
 	'wm-license-gfdl-wiki-link' => 'w:sv:GNU Free Documentation License',
@@ -10077,6 +10489,8 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 $messages['sw'] = array(
 	'wm-license-fsf-wiki-link' => 'w:sw:Shirika la Bidhaa Pepe Huru',
 	'wm-license-gfdl-wiki-link' => 'w:sw:GNU Free Documentation License',
+	'wm-license-information-description' => 'Maelezo',
+	'wm-license-information-source' => 'Chanzo',
 );
 
 /** Silesian (Ślůnski) */
@@ -10159,9 +10573,31 @@ $messages['te'] = array(
 	'wm-license-self-multiple-licenses-select' => 'పైవాటిలో మీకు నచ్చిన లైసెన్సునుతో ఈ కృతిని వాడుకోవచ్చు.',
 );
 
+/** Tetum (Tetun) */
+$messages['tet'] = array(
+	'wm-license-information-date' => 'Tempu',
+	'wm-license-information-author' => 'Autór',
+);
+
 /** Tajik (Тоҷикӣ) */
 $messages['tg'] = array(
 	'wm-license-free-software-wiki-link' => 'w:tg:Барномаҳои озод',
+);
+
+/** Tajik (Cyrillic) (Тоҷикӣ (Cyrillic)) */
+$messages['tg-cyrl'] = array(
+	'wm-license-information-description' => 'Тавсифот',
+	'wm-license-information-source' => 'Манбаъ',
+	'wm-license-information-date' => 'Сана',
+	'wm-license-information-author' => 'Муаллиф',
+);
+
+/** Tajik (Latin) (Тоҷикӣ (Latin)) */
+$messages['tg-latn'] = array(
+	'wm-license-information-description' => 'Tavsifot',
+	'wm-license-information-source' => "Manba'",
+	'wm-license-information-date' => 'Sana',
+	'wm-license-information-author' => 'Muallif',
 );
 
 /** Thai (ไทย)
@@ -10309,6 +10745,10 @@ $messages['tk'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Esere awtor ýa-da lisenziýa eýesi tarapyndan görkezilen (ýöne sizi ýa-da eseri ulanmaklygyňyzy goldaýandyklaryny öňe sürmeýän) görnüşde salgylanmalydyr.',
 	'wm-license-cc-conditions-share_alike-header' => 'meňzeş paýlaşma',
 	'wm-license-cc-conditions-share_alike-text' => 'Bu eseri üýtgeden, öwüren ýa-da bu esere esaslanýan başga bir eser döreden ýagdaýyňyzda, emele gelen eser üçin diňe  şu ýa-da şuňa meňzeş lisenziýany ulanmak arkaly paýlap bilersiňiz.',
+	'wm-license-information-description' => 'Düşündiriş',
+	'wm-license-information-source' => 'Çeşme',
+	'wm-license-information-date' => 'Sene',
+	'wm-license-information-author' => 'Awtor',
 );
 
 /** Tagalog (Tagalog)
@@ -10320,7 +10760,17 @@ $messages['tl'] = array(
 	'wm-license-free-software-wiki-link' => 'w:tl:Malayang software',
 	'wm-license-gfdl-wiki-link' => 'w:tl:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:tl:GNU General Public License',
+	'wm-license-information-description' => 'Paglalarawan',
+	'wm-license-information-source' => 'Pinagmulan',
+	'wm-license-information-date' => 'Petsa',
+	'wm-license-information-author' => 'May-akda',
 	'wm-license-own-work' => 'Sariling gawa',
+);
+
+/** Tonga (lea faka-Tonga) */
+$messages['to'] = array(
+	'wm-license-information-description' => 'Fakamahino',
+	'wm-license-information-source' => 'Tupunga',
 );
 
 /** Turkish (Türkçe)
@@ -10537,6 +10987,22 @@ $messages['tt'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:tt:GNU/İrekle İstälek Röxsätnämäse',
 );
 
+/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic)) */
+$messages['tt-cyrl'] = array(
+	'wm-license-information-description' => 'Тасвир',
+);
+
+/** Tatar (Latin) (Татарча/Tatarça (Latin)) */
+$messages['tt-latn'] = array(
+	'wm-license-information-source' => 'Çığanaq',
+);
+
+/** Tuvinian (Тыва дыл) */
+$messages['tyv'] = array(
+	'wm-license-information-description' => 'Тодарадып бижээни',
+	'wm-license-information-source' => 'Эгези',
+);
+
 /** Ukrainian (Українська)
  * @author AS
  * @author Ahonc
@@ -10720,6 +11186,10 @@ $messages['vec'] = array(
  */
 $messages['vep'] = array(
 	'wm-license-cc-attribution' => 'Avtoran nimi',
+	'wm-license-information-description' => 'Ümbrikirjutand',
+	'wm-license-information-source' => 'Purde',
+	'wm-license-information-date' => 'Dat',
+	'wm-license-information-author' => 'Avtor',
 );
 
 /** Vietnamese (Tiếng Việt)
@@ -10917,6 +11387,7 @@ $messages['vi'] = array(
 	'wm-license-information-permission-reusing-text' => 'Dùng lại tập tin',
 	'wm-license-information-permission-see-below' => 'xem ở dưới',
 	'wm-license-information-other-versions' => 'Phiên bản khác',
+	'wm-license-original-upload-log' => 'Nhật trình tải lên đầu tiên',
 	'wm-license-own-work' => 'Tác phẩm do chính người tải lên tạo ra',
 	'wm-license-self-one-license' => 'Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:',
 	'wm-license-self-one-license-with-author' => '$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:',
@@ -10930,15 +11401,43 @@ $messages['vls'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:vls:GFDL',
 );
 
+/** Volapük (Volapük) */
+$messages['vo'] = array(
+	'wm-license-information-description' => 'Bepenam',
+	'wm-license-information-source' => 'Fon',
+	'wm-license-information-date' => 'Dät',
+	'wm-license-information-author' => 'Lautan',
+);
+
+/** Võro (Võro) */
+$messages['vro'] = array(
+	'wm-license-information-description' => 'Seletüs',
+);
+
 /** Walloon (Walon) */
 $messages['wa'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:wa:Licince di libe documintåcion di GNU',
+	'wm-license-information-description' => 'Discrijhaedje',
+	'wm-license-information-source' => 'Sourdant',
+);
+
+/** Wolof (Wolof) */
+$messages['wo'] = array(
+	'wm-license-information-description' => 'Faramfacce',
+	'wm-license-information-source' => 'Gongikuwaay',
 );
 
 /** Wu (吴语) */
 $messages['wuu'] = array(
 	'wm-license-free-software-wiki-link' => 'w:wuu:自由軟件',
 	'wm-license-gfdl-wiki-link' => 'w:wuu:GNU自由文档许可证文本',
+	'wm-license-information-description' => '描述',
+	'wm-license-information-source' => '来源',
+);
+
+/** Kalmyk (Хальмг) */
+$messages['xal'] = array(
+	'wm-license-information-description' => 'Тодлҗ бичлһн',
 );
 
 /** Mingrelian (მარგალური)
@@ -10957,10 +11456,17 @@ $messages['yi'] = array(
 	'wm-license-cc-free' => 'איר מעגט:',
 	'wm-license-cc-free-to-share-header' => 'באַטייליקן',
 	'wm-license-gfdl-wiki-link' => 'w:yi:GNU פרייע דאקומענטאציע ליצענץ',
+	'wm-license-information-description' => 'באַשרײַבונג',
 	'wm-license-information-source' => 'מקור',
 	'wm-license-information-date' => 'דאַטע',
 	'wm-license-information-author' => 'מחבר',
 	'wm-license-information-permission' => 'דערלויבעניש',
+);
+
+/** Yoruba (Yorùbá) */
+$messages['yo'] = array(
+	'wm-license-information-description' => 'Ìjúwe',
+	'wm-license-information-source' => 'Orísun',
 );
 
 /** Cantonese (粵語)
@@ -11072,6 +11578,11 @@ $messages['yue'] = array(
 	'wm-license-self-one-license' => '我，呢份作品嘅作者，決定用以下許可發佈呢件作品：',
 );
 
+/** Zeeuws (Zeêuws) */
+$messages['zea'] = array(
+	'wm-license-information-source' => 'Bron',
+);
+
 /** Chinese (中文) */
 $messages['zh'] = array(
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
@@ -11174,5 +11685,10 @@ $messages['zh-yue'] = array(
 	'wm-license-fsf-wiki-link' => 'w:zh-yue:自由軟件基金會',
 	'wm-license-free-software-wiki-link' => 'w:zh-yue:自由軟件',
 	'wm-license-gfdl-wiki-link' => 'w:zh-yue:GFDL',
+);
+
+/** Zulu (isiZulu) */
+$messages['zu'] = array(
+	'wm-license-information-source' => 'Umthombo',
 );
 
