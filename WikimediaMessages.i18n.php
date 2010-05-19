@@ -1726,6 +1726,7 @@ $messages['da'] = array(
 
 /** German (Deutsch)
  * @author Church of emacs
+ * @author Kghbln
  * @author Khaledelmansoury
  * @author MF-Warburg
  * @author Melancholie
@@ -1752,6 +1753,7 @@ $messages['de'] = array(
 	'group-bigexport' => 'Großexporteure',
 	'group-confirmed' => 'Bestätigte Benutzer',
 	'group-editprotected' => 'Bearbeiter von geschützen Seiten',
+	'group-filemover' => 'Dateiverschieber',
 	'group-flood' => 'Botbenutzer',
 	'group-founder' => 'Gründer',
 	'group-import' => 'Importeure',
@@ -1769,6 +1771,7 @@ $messages['de'] = array(
 	'group-bigexport-member' => 'Großexporteur',
 	'group-confirmed-member' => 'Bestätigter Benutzer',
 	'group-editprotected-member' => 'Bearbeiter von geschützen Seiten',
+	'group-filemover-member' => 'Dateiverschieber',
 	'group-flood-member' => 'Botbenutzer',
 	'group-founder-member' => 'Gründer',
 	'group-import-member' => 'Importeur',
@@ -1786,6 +1789,7 @@ $messages['de'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Großexporteure',
 	'grouppage-confirmed' => '{{ns:project}}:Bestätigte Benutzer',
 	'grouppage-editprotected' => '{{ns:project}}:Bearbeiter von geschützen Seiten',
+	'grouppage-filemover' => '{{ns:project}}:Dateiverschieber',
 	'grouppage-flood' => '{{ns:project}}:Botbenutzer',
 	'grouppage-founder' => '{{ns:project}}:Gründer',
 	'grouppage-import' => '{{ns:project}}:Importeure',
@@ -4256,6 +4260,7 @@ $messages['ja'] = array(
 	'group-bigexport' => '大規模エクスポート権限保持者',
 	'group-confirmed' => '承認された利用者',
 	'group-editprotected' => '保護されたページ編集者',
+	'group-filemover' => 'ファイル移動者',
 	'group-flood' => 'ボット利用者',
 	'group-founder' => '創設者',
 	'group-import' => 'インポート権限保持者',
@@ -4273,6 +4278,7 @@ $messages['ja'] = array(
 	'group-bigexport-member' => '大規模エクスポート権限保持者',
 	'group-confirmed-member' => '承認された利用者',
 	'group-editprotected-member' => '保護されたページ編集者',
+	'group-filemover-member' => 'ファイル移動者',
 	'group-flood-member' => 'ボット利用者',
 	'group-founder-member' => '創設者',
 	'group-import-member' => 'インポート権限保持者',
@@ -4290,6 +4296,7 @@ $messages['ja'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:大規模エクスポート権限保持者',
 	'grouppage-confirmed' => '{{ns:project}}:承認された利用者',
 	'grouppage-editprotected' => '{{ns:project}}:保護されたページ編集者',
+	'grouppage-filemover' => '{{ns:project}}:ファイル移動者',
 	'grouppage-flood' => '{{ns:project}}:ボット利用者',
 	'grouppage-founder' => '{{ns:project}}:創設者',
 	'grouppage-import' => '{{ns:project}}:インポート権限保持者',
@@ -6934,7 +6941,7 @@ $messages['rmy'] = array(
 $messages['ro'] = array(
 	'wikimediamessages-desc' => 'Mesaje specifice Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/ro?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
-	'sitesupport' => 'Donaţii',
+	'sitesupport' => 'Donații',
 	'tooltip-n-sitesupport' => 'Sprijină-ne',
 	'group-abusefilter' => 'Editori filtru abuz',
 	'group-accountcreator' => 'Creatori de conturi',
@@ -6942,11 +6949,11 @@ $messages['ro'] = array(
 	'group-autopatrolled' => 'Patrule automate',
 	'group-autoreviewer' => 'Autorecenzori',
 	'group-bigexport' => 'Exportatori mari',
-	'group-confirmed' => 'Utilizatori confirmaţi',
+	'group-confirmed' => 'Utilizatori confirmați',
 	'group-flood' => 'Utilizatori robot',
 	'group-founder' => 'Fondatori',
 	'group-import' => 'Importatori',
-	'group-ipblock-exempt' => 'Excepţie blocare IP',
+	'group-ipblock-exempt' => 'Excepție blocare IP',
 	'group-patroller' => 'Patrule',
 	'group-rollbacker' => 'Revocatori',
 	'group-transwiki' => 'Importatori între wiki',
@@ -6960,17 +6967,17 @@ $messages['ro'] = array(
 	'group-flood-member' => 'utilizatori robot',
 	'group-founder-member' => 'Fondator',
 	'group-import-member' => 'importator',
-	'group-ipblock-exempt-member' => 'excepţie blocare IP',
+	'group-ipblock-exempt-member' => 'excepție blocare IP',
 	'group-patroller-member' => 'patrulă',
 	'group-rollbacker-member' => 'revocator',
 	'group-transwiki-member' => 'importator între wiki',
 	'group-trusted-member' => 'utilizatori de încredere',
 	'grouppage-abusefilter' => '{{ns:project}}:Editori ai filtrului abuz',
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de conturi',
-	'grouppage-autopatrolled' => '{{ns:project}}:Patrulatori automaţi',
+	'grouppage-autopatrolled' => '{{ns:project}}:Patrulatori automați',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorecenzori',
 	'grouppage-bigexport' => '{{ns:project}}:Mari exportatori',
-	'grouppage-confirmed' => '{{ns:project}}:Utilizatori confirmaţi',
+	'grouppage-confirmed' => '{{ns:project}}:Utilizatori confirmați',
 	'grouppage-flood' => '{{ns:project}}:Utilizatori robot',
 	'grouppage-founder' => '{{ns:project}}:Fondatori',
 	'grouppage-import' => '{{ns:project}}:Importatori',
@@ -6980,15 +6987,15 @@ $messages['ro'] = array(
 	'grouppage-trusted' => '{{ns:project}}: Utilizatori de încredere',
 	'group-steward' => 'Stewarzi',
 	'group-sysadmin' => 'Administratori de sistem',
-	'group-editinterface' => 'Editori de interfaţă',
-	'group-Global_bot' => 'Roboţi globali',
+	'group-editinterface' => 'Editori de interfață',
+	'group-Global_bot' => 'Roboți globali',
 	'group-Global_rollback' => 'Revocatori globali',
 	'group-Global_sysops' => 'Administratori globali',
 	'group-Ombudsmen' => 'Mijlocitor independent',
-	'group-Staff' => 'Angajaţi',
+	'group-Staff' => 'Angajați',
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator de sistem',
-	'group-editinterface-member' => 'editori de interfaţă',
+	'group-editinterface-member' => 'editori de interfață',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'revocator global',
 	'group-Global_sysops-member' => 'Administrator global',
@@ -6999,14 +7006,14 @@ $messages['ro'] = array(
 	'group-inactive' => 'Utilizatori inactivi',
 	'group-inactive-member' => 'utilizator inactiv',
 	'grouppage-inactive' => '{{ns:project}}:Utilizatori inactivi',
-	'wikimedia-copyright' => 'Acest text este disponibil sub licenţa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Atribuire-Distribuire în condiţii identice</a>;
+	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Atribuire-Distribuire în condiții identice</a>;
 termeni suplimentari se pot aplica.
-Vedeţi <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a> pentru detalii.',
-	'wikimedia-copyrightwarning' => 'Salvând, sunteţi de acord să eliberaţi irevocabil contribuţia dumneavoastră sub licenţele [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiţii identice 3.0] şi [http://www.gnu.org/copyleft/fdl.html GFDL].
-Sunteţi de acord să fiţi creditat de către reutilizator, cel puţin, printr-o hiperlegătură sau URL către pagina la care contribuiţi.
-Vedeţi [http://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] pentru detalii.',
-	'wikimedia-editpage-tos-summary' => 'Dacă nu doriţi ca textul dumneavoastră să fie modificat şi redistribuit, atunci nu îl trimiteţi aici.
-Dacă nu l-aţi scris dumneavoastră, acesta trebuie să fie disponibil în concordanţă cu [http://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare], şi sunteţi de acord să urmaţi orice altă cerinţă de licenţiere.',
+Vedeți <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a> pentru detalii.',
+	'wikimedia-copyrightwarning' => 'Salvând, sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [http://www.gnu.org/copyleft/fdl.html GFDL].
+Sunteți de acord să fiți creditat de către reutilizator, cel puțin, printr-o hiperlegătură sau URL către pagina la care contribuiți.
+Vedeți [http://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] pentru detalii.',
+	'wikimedia-editpage-tos-summary' => 'Dacă nu doriți ca textul dumneavoastră să fie modificat și redistribuit, atunci nu îl trimiteți aici.
+Dacă nu l-ați scris dumneavoastră, acesta trebuie să fie disponibil în concordanță cu [http://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare], și sunteți de acord să urmați orice altă cerință de licențiere.',
 );
 
 /** Aromanian (Armãneashce)
@@ -7125,6 +7132,7 @@ $messages['ru'] = array(
 	'group-bigexport' => 'Крупные экспортёры',
 	'group-confirmed' => 'Подтверждённые участники',
 	'group-editprotected' => 'Редакторы защищённой страницы',
+	'group-filemover' => 'Переименовывающие файлы',
 	'group-flood' => 'Участники-боты',
 	'group-founder' => 'Основатели',
 	'group-import' => 'Импортирующие',
@@ -7142,6 +7150,7 @@ $messages['ru'] = array(
 	'group-bigexport-member' => 'крупный экспортёр',
 	'group-confirmed-member' => 'подтверждённый участник',
 	'group-editprotected-member' => 'редактор защищённых страниц',
+	'group-filemover-member' => 'переименовывающий файлы',
 	'group-flood-member' => 'участники-боты',
 	'group-founder-member' => 'основатель',
 	'group-import-member' => 'импортирующий',
@@ -7159,6 +7168,7 @@ $messages['ru'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Крупные экспортёры',
 	'grouppage-confirmed' => '{{ns:project}}:Подтверждённые участники',
 	'grouppage-editprotected' => '{{ns:project}}:Редакторы защищённых страниц',
+	'grouppage-filemover' => '{{ns:project}}:Переименовывающие файлы',
 	'grouppage-flood' => '{{ns:project}}:Участники-боты',
 	'grouppage-founder' => '{{ns:project}}:Основатели',
 	'grouppage-import' => '{{ns:project}}:Импортирующие',
@@ -7608,6 +7618,7 @@ $messages['sl'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/sl?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Denarni prispevki',
 	'tooltip-n-sitesupport' => 'Podprite nas',
+	'specialpages-group-contribution' => 'Prispevek/Zbiralec sredstev',
 	'group-abusefilter' => 'Uredniki filtrov zlorabe',
 	'group-accountcreator' => 'Ustvarjalci računov',
 	'group-arbcom' => 'Člani arbitražnega odbora',
@@ -7616,6 +7627,7 @@ $messages['sl'] = array(
 	'group-bigexport' => 'Veliki izvozniki',
 	'group-confirmed' => 'Potrjeni uporabniki',
 	'group-editprotected' => 'Urejevalci zaščitenih strani',
+	'group-filemover' => 'Prestavljalci datotek',
 	'group-flood' => 'Uporabniki boti',
 	'group-founder' => 'Ustanovitelji',
 	'group-import' => 'Uvozniki',
@@ -7633,6 +7645,7 @@ $messages['sl'] = array(
 	'group-bigexport-member' => 'velik izvoznik',
 	'group-confirmed-member' => 'potrjen uporabnik',
 	'group-editprotected-member' => 'urejevalci zaščitenih strani',
+	'group-filemover-member' => 'prestavljalec datotek',
 	'group-flood-member' => 'uporabnik bot',
 	'group-founder-member' => 'ustanovitelj',
 	'group-import-member' => 'uvoznik',
@@ -7650,6 +7663,7 @@ $messages['sl'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Veliki izvozniki',
 	'grouppage-confirmed' => '{{ns:project}}:Potrjeni uporabniki',
 	'grouppage-editprotected' => '{{ns:project}}:Urejevalci zaščitenih strani',
+	'grouppage-filemover' => '{{ns:project}}:Prestavljalec datotek',
 	'grouppage-flood' => '{{ns:project}}:Uporabniki boti',
 	'grouppage-founder' => '{{ns:project}}:Ustanovitelji',
 	'grouppage-import' => '{{ns:project}}:Uvozniki',
