@@ -3987,6 +3987,7 @@ $messages['ia'] = array(
 	'group-interface_editors' => 'Redactores del interfacie',
 	'group-ipblock-exempt' => 'Exemptiones de blocos IP',
 	'group-patroller' => 'Patruliatores',
+	'group-researcher' => 'Recercatores',
 	'group-rollbacker' => 'Revertitores',
 	'group-transwiki' => 'Importatores transwiki',
 	'group-trusted' => 'Usatores de confidentia',
@@ -4005,6 +4006,7 @@ $messages['ia'] = array(
 	'group-interface_editors-member' => 'redactor del interfacie',
 	'group-ipblock-exempt-member' => 'Exemption de bloco IP',
 	'group-patroller-member' => 'patruliator',
+	'group-researcher-member' => 'recercator',
 	'group-rollbacker-member' => 'revertitor',
 	'group-transwiki-member' => 'importator transwiki',
 	'group-trusted-member' => 'usator de confidentia',
@@ -4022,6 +4024,7 @@ $messages['ia'] = array(
 	'grouppage-import' => '{{ns:project}}:Importatores',
 	'grouppage-interface_editors' => '{{ns:project}}:Redactores del interfacie',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de blocos IP',
+	'grouppage-researcher' => '{{ns:project}}:Recercator',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertitores',
 	'grouppage-transwiki' => '{{ns:project}}:Importatores transwiki',
 	'grouppage-trusted' => '{{ns:project}}:Usatores de confidentia',
@@ -4331,6 +4334,7 @@ $messages['ja'] = array(
 	'group-interface_editors' => 'インターフェイス編集者',
 	'group-ipblock-exempt' => 'IPブロック適用除外者',
 	'group-patroller' => 'パトローラー',
+	'group-researcher' => '調査人',
 	'group-rollbacker' => 'ロールバック権限保持者',
 	'group-transwiki' => 'トランスウィキ・インポート権限保持者',
 	'group-trusted' => '信任を得た利用者',
@@ -4349,6 +4353,7 @@ $messages['ja'] = array(
 	'group-interface_editors-member' => 'インターフェイス編集者',
 	'group-ipblock-exempt-member' => 'IPブロック適用除外者',
 	'group-patroller-member' => 'パトローラー',
+	'group-researcher-member' => '調査人',
 	'group-rollbacker-member' => 'ロールバック権限保持者',
 	'group-transwiki-member' => 'トランスウィキ・インポート権限保持者',
 	'group-trusted-member' => '信任を得た利用者',
@@ -4366,6 +4371,7 @@ $messages['ja'] = array(
 	'grouppage-import' => '{{ns:project}}:インポート権限保持者',
 	'grouppage-interface_editors' => '{{ns:project}}:インターフェイス編集者',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IPブロック適用除外',
+	'grouppage-researcher' => '{{ns:project}}:調査人',
 	'grouppage-rollbacker' => '{{ns:project}}:ロールバック権限保持者',
 	'grouppage-transwiki' => '{{ns:project}}:トランスウィキ・インポート権限保持者',
 	'grouppage-trusted' => '{{ns:project}}:信任を得た利用者',
@@ -6065,12 +6071,14 @@ $messages['nl'] = array(
 	'group-bigexport' => 'grote exporteurs',
 	'group-confirmed' => 'bevestigde gebruikers',
 	'group-editprotected' => "bewerkers van beveiligde pagina's",
+	'group-filemover' => 'bestandshernoemers',
 	'group-flood' => 'botgebruikers',
 	'group-founder' => 'grondleggers',
 	'group-import' => 'importeurs',
 	'group-interface_editors' => 'interfacebewerkers',
 	'group-ipblock-exempt' => 'uitgezonderden van IP-adresblokkades',
 	'group-patroller' => 'Controleurs',
+	'group-researcher' => 'onderzoekers',
 	'group-rollbacker' => 'terugdraaiers',
 	'group-transwiki' => 'transwiki-importeurs',
 	'group-trusted' => 'vertrouwde gebruikers',
@@ -6082,12 +6090,14 @@ $messages['nl'] = array(
 	'group-bigexport-member' => 'grote exporteur',
 	'group-confirmed-member' => 'bevestigde gebruiker',
 	'group-editprotected-member' => "bewerker van beveiligde pagina's",
+	'group-filemover-member' => 'bestandshernoemer',
 	'group-flood-member' => 'botgebruiker',
 	'group-founder-member' => 'grondlegger',
 	'group-import-member' => 'importeur',
 	'group-interface_editors-member' => 'interfacebewerker',
 	'group-ipblock-exempt-member' => 'uitgezonderde van IP-adresblokkades',
 	'group-patroller-member' => 'Controleur',
+	'group-researcher-member' => 'onderzoeker',
 	'group-rollbacker-member' => 'terugdraaier',
 	'group-transwiki-member' => 'transwiki-importeur',
 	'group-trusted-member' => 'vertrouwde gebruiker',
@@ -6099,11 +6109,13 @@ $messages['nl'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Grote exporteurs',
 	'grouppage-confirmed' => '{{ns:project}}:Bevestigde gebruikers',
 	'grouppage-editprotected' => "{{ns:project}}:Bewerkers van beveiligde pagina's",
+	'grouppage-filemover' => '{{ns:project}}:Bestandshernoemers',
 	'grouppage-flood' => '{{ns:project}}:Botgebruikers',
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
 	'grouppage-import' => '{{ns:project}}:Importeurs',
 	'grouppage-interface_editors' => '{{ns:project}}:Interfacebewerkers',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uitgezonderden van IP-adresblokkades',
+	'grouppage-researcher' => '{{ns:project}}:Onderzoekers',
 	'grouppage-rollbacker' => '{{ns:project}}:Terugdraaiers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
 	'grouppage-trusted' => '{{ns:project}}:Vertrouwde gebruikers',
@@ -7188,6 +7200,7 @@ Vide pure [http://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] 
  * @author Ahonc
  * @author Aleksandrit
  * @author AlexSm
+ * @author Crazymadlover
  * @author Ferrer
  * @author Flrn
  * @author HalanTul
@@ -7254,7 +7267,7 @@ $messages['ru'] = array(
 	'grouppage-import' => '{{ns:project}}:Импортирующие',
 	'grouppage-interface_editors' => '{{ns:project}}:Редакторы интерфейса',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Исключение из IP-блокировок',
-	'grouppage-researcher' => '({{ns:project}}:Исследователь',
+	'grouppage-researcher' => '{{ns:project}}:Исследователь',
 	'grouppage-rollbacker' => '{{ns:project}}:Откатывающие',
 	'grouppage-transwiki' => '{{ns:project}}:Межвики-импортирующие',
 	'grouppage-trusted' => '{{ns:project}}:Доверенные участники',
@@ -9120,6 +9133,7 @@ Kacu mugažo: <a href="http://wikimediafoundation.org/wiki/Käyttöehdot">käytt
 
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
+ * @author Trần Nguyễn Minh Huy
  * @author Vinhtantran
  * @author לערי ריינהארט
  */
@@ -9187,6 +9201,7 @@ $messages['vi'] = array(
 	'group-editinterface' => 'Sửa giao diện',
 	'group-Global_bot' => 'Robot toàn cầu',
 	'group-Global_rollback' => 'Thành viên lùi sửa toàn cầu',
+	'group-Global_sysops' => 'Bảo quản viên toàn hệ thống',
 	'group-Ombudsmen' => 'Thanh tra viên',
 	'group-Staff' => 'Nhân viên',
 	'group-steward-member' => 'Tiếp viên',
@@ -9194,6 +9209,7 @@ $messages['vi'] = array(
 	'group-editinterface-member' => 'sửa giao diện',
 	'group-Global_bot-member' => 'robot toàn cầu',
 	'group-Global_rollback-member' => 'người lùi sửa toàn cầu',
+	'group-Global_sysops-member' => 'bảo quản viên toàn hệ thống',
 	'group-Ombudsmen-member' => 'thanh tra viên',
 	'group-Staff-member' => 'Nhân viên',
 	'grouppage-Global_bot' => 'm:Bot policy/vi#Bot toàn cầu',
@@ -9609,6 +9625,7 @@ $messages['zh-hant'] = array(
 	'group-interface_editors' => '界面編輯者',
 	'group-ipblock-exempt' => 'IP查封例外者',
 	'group-patroller' => '巡邏員',
+	'group-researcher' => '研究人員',
 	'group-rollbacker' => '回退員',
 	'group-transwiki' => '跨維基匯入者',
 	'group-trusted' => '受信任的用戶',
@@ -9627,6 +9644,7 @@ $messages['zh-hant'] = array(
 	'group-interface_editors-member' => '界面編輯者',
 	'group-ipblock-exempt-member' => 'IP查封例外',
 	'group-patroller-member' => '巡邏員',
+	'group-researcher-member' => '研究員',
 	'group-rollbacker-member' => '回退員',
 	'group-transwiki-member' => '跨維基匯入者',
 	'group-trusted-member' => '受信任的用戶',
@@ -9644,6 +9662,7 @@ $messages['zh-hant'] = array(
 	'grouppage-import' => '{{ns:project}}:匯入者',
 	'grouppage-interface_editors' => '{{ns:project}}:介面編輯者',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP查封例外',
+	'grouppage-researcher' => '{{ns:project}}:研究人員',
 	'grouppage-rollbacker' => '{{ns:project}}:反轉者',
 	'grouppage-transwiki' => '{{ns:project}}:跨維基匯入者',
 	'grouppage-trusted' => '{{ns:project}}:受信任的用戶',
