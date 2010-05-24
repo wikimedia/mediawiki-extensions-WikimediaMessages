@@ -2555,7 +2555,7 @@ Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm
 Lesser GNU General Public License] für weitere Details.",
 	'wm-license-lgpl-wiki-link' => 'w:de:GNU Lesser General Public License',
 	'wm-license-original-upload-log' => 'Ursprüngliches Datei-Logbuch',
-	'wm-license-own-work' => 'Eigene Arbeit',
+	'wm-license-own-work' => 'Eigenes Werk',
 	'wm-license-self-one-license' => 'Ich, der Urheber dieses Werkes, veröffentliche es unter der folgenden Lizenz:',
 	'wm-license-self-one-license-with-author' => '$1, der Nutzungsrechtsinhaber dieses Werkes, veröffentlicht es hiermit unter der folgenden Lizenz:',
 	'wm-license-self-multiple-licenses' => 'Ich, der Urheberrechtsinhaber dieses Werkes, veröffentliche es hiermit unter der folgenden Lizenz:',
