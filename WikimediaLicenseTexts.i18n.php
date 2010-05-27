@@ -5473,6 +5473,7 @@ $messages['ia'] = array(
 );
 
 /** Indonesian (Bahasa Indonesia)
+ * @author Bennylin
  * @author Irwangatot
  * @author IvanLanin
  * @author Kenrick95
@@ -5497,7 +5498,7 @@ $messages['id'] = array(
 	'wm-license-cc-free-to-remix-text' => 'untuk mengadaptasi karya',
 	'wm-license-cc-conditions' => 'Dibawah kondisi berikut:',
 	'wm-license-cc-conditions-attribution-header' => 'atribusi',
-	'wm-license-cc-conditions-attribution-text' => 'Anda harus mengatribusi karya dengan cara yang ditentukan oleh pengarang atau pemberi lisensi (tapi tidak dengan cara apapun yang mengesankan bahwa mereka mendorong Anda atau penggunaan Anda terhadap karya).',
+	'wm-license-cc-conditions-attribution-text' => 'Anda harus mengatribusi karya dengan cara yang ditentukan oleh pengarang atau pemberi lisensi (tapi tidak dengan cara apa pun yang mengesankan bahwa mereka mendorong Anda atau penggunaan Anda terhadap karya).',
 	'wm-license-cc-conditions-share_alike-header' => 'berbagi serupa',
 	'wm-license-cc-conditions-share_alike-text' => 'Jika Anda mengubah, mentranformasikan, atau membuat atas dasar karya ini, Anda dapat mendistribusikan karya yang dihasilkan hanya di bawah lisensi yang sama atau mirip dengan lisensi ini.',
 	'wm-license-fsf-wiki-link' => 'w:id:Yayasan Perangkat Lunak Bebas',
@@ -7132,6 +7133,7 @@ $messages['mg'] = array(
 	'wm-license-free-software-wiki-link' => 'w:mg:Rindrankajy malalaka',
 	'wm-license-information-description' => 'Fanoritana',
 	'wm-license-information-source' => 'Loharano',
+	'wm-license-information-date' => 'Daty',
 );
 
 /** Maori (Māori) */
@@ -9204,16 +9206,16 @@ $messages['ro'] = array(
 	'wm-license-cc-free-to-remix-header' => 'să adaptați',
 	'wm-license-cc-free-to-remix-text' => 'aveți dreptul de a adapta opera',
 	'wm-license-cc-conditions' => 'În următoarele condiții:',
-	'wm-license-cc-conditions-attribution-header' => 'atribuire',
+	'wm-license-cc-conditions-attribution-header' => 'atribuind',
 	'wm-license-cc-conditions-attribution-text' => 'Trebuie să atribuți opera în maniera specificată de autor sau licenţiator (dar sub nicio formă care ar sugera faptul că aceştia v-ar susţine sau ar aproba folosirea de către dumneavoastră a operei).',
-	'wm-license-cc-conditions-share_alike-header' => 'partajare în condiţii identice',
+	'wm-license-cc-conditions-share_alike-header' => 'partajând în condiții identice',
 	'wm-license-cc-conditions-share_alike-text' => 'Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.',
 	'wm-license-fsf-wiki-link' => 'w:ro:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:ro:Software liber',
 	'wm-license-gpl-wiki-link' => 'w:ro:Licența Publică Generală GNU',
 	'wm-license-information-table-summary' => 'Un format standardizat ce oferă informații complete despre fișier, incluzând descrierea conținutului fișierului și detalii despre modul în care a fost efectuat, statutul drepturilor de autor și sursa.',
 	'wm-license-information-description' => 'Descriere',
-	'wm-license-information-description-missing' => "Acest fișier nu are '''{{ #if: {{{1|}}} | {{{1}}} | descriere }}''' și s-ar putea să îi lipsească și alte informații.",
+	'wm-license-information-description-missing' => "Acest fișier nu are '''{{ #if: {{{1|}}} | {{{1}}} | descriere }}''', putându-i lipsi și alte informații.",
 	'wm-license-information-description-missing-request' => 'Fișierele media ar trebui să aibă o scurtă descriere în care să fie precizate conținutul, autorul, sursa și data creării, acolo unde este posibil. Dacă știți sau puteți afla aceste informații, vă rugăm să le adăugați în pagina fișierului.',
 	'wm-license-information-source' => 'Sursă',
 	'wm-license-information-source-missing' => "Acestui fișier îi lipsesc informațiile despre '''sursă'''.",
