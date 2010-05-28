@@ -7097,8 +7097,11 @@ $messages['ltg'] = array(
 	'wm-license-information-description' => 'Aproksts',
 );
 
-/** Latvian (Latviešu) */
+/** Latvian (Latviešu)
+ * @author GreenZeb
+ */
 $messages['lv'] = array(
+	'wikimedialicensetexts-desc' => 'Vikipēdijas licenču ziņojumi',
 	'wm-license-free-software-wiki-link' => 'w:lv:Brīvā programmatūra',
 	'wm-license-gfdl-wiki-link' => 'w:lv:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:lv:GNU Vispārējā publiskā licence',

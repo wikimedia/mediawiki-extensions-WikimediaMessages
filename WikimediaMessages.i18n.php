@@ -2599,6 +2599,7 @@ $messages['ext'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Ebraminio
  * @author Huji
  * @author Ladsgroup
  * @author Mardetanha
@@ -2650,9 +2651,15 @@ $messages['fa'] = array(
 	'group-inactive' => 'کاربران غیرفعال',
 	'group-inactive-member' => 'کاربر غیرفعال',
 	'grouppage-inactive' => '{{ns:project}}:کاربران غیرفعال',
+	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="http://fa.wikipedia.org/wiki/ویکی‌پدیا:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">مجوز Creative Commons Attribution/Share-Alike</a> در دسترس است؛
+برای جزئیات بیشتر <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.
+
+ویکی‌پدیا® یک علامت تجاری بنیاد ویکی‌مدیا است.',
 	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما موافقت می‌کنید که مصرف‌کنندگان ثانوی، دست‌کم از طریق گذاشتن ابرپیوند یا درج نشانی صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند.
 برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
+	'wikimedia-editpage-tos-summary' => 'لطفاً توجه داشته باشید که فرض می‌شود کلیهٔ مشارکت‌های شما در {{SITENAME}} تحت اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر می‌شوند. شما موافقت می‌کنید تا سایرین با پیونددادن به صفحه‌ای که در آن مشارکت داشته‌اید از شما یاد کنند. برای جزئیات بیشتر لطفاً [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را بخوانید.<br>
+اگر نمی‌خواهید نوشته‌هایتان ویرایش شده و به دلخواه توزیع شود، اینجا نفرستیدشان. همینطور شما دارید به ما قول می‌دهید که خودتان این را نوشته‌اید، یا آن را از یک منبع آزاد با مالکیت عمومی یا مشابه آن برداشته‌اید. <strong>کارهای دارای حق انحصاری تکثیر (copyright) را بی‌اجازه نفرستید!</strong>',
 );
 
 /** Fulah (Fulfulde) */
