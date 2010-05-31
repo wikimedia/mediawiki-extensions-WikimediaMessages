@@ -9320,7 +9320,7 @@ $messages['ro'] = array(
 	'wm-license-cc-free-to-remix-text' => 'aveți dreptul de a adapta opera',
 	'wm-license-cc-conditions' => 'În următoarele condiții:',
 	'wm-license-cc-conditions-attribution-header' => 'atribuind',
-	'wm-license-cc-conditions-attribution-text' => 'Trebuie să atribuți opera în maniera specificată de autor sau licenţiator (dar sub nicio formă care ar sugera faptul că aceştia v-ar susţine sau ar aproba folosirea de către dumneavoastră a operei).',
+	'wm-license-cc-conditions-attribution-text' => 'Trebuie să atribuiți opera în maniera specificată de autor sau licențiator (dar sub nicio formă care ar sugera faptul că aceștia v-ar susține sau ar aproba folosirea de către dumneavoastră a operei).',
 	'wm-license-cc-conditions-share_alike-header' => 'partajând în condiții identice',
 	'wm-license-cc-conditions-share_alike-text' => 'Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.',
 	'wm-license-fsf-wiki-link' => 'w:ro:Free Software Foundation',
@@ -11999,8 +11999,12 @@ $messages['zea'] = array(
 	'wm-license-information-source' => 'Bron',
 );
 
-/** Chinese (中文) */
+/** Chinese (中文)
+ * @author Shizhao
+ */
 $messages['zh'] = array(
+	'wm-license-attribution-with-author-text' => '#REDIRECT[[MediaWiki:Wm-license-attribution-with-author-text/zh-hans]]',
+	'wm-license-cc-by-sa-2.0-text' => '#REDIRECT[[MediaWiki:Wm-license-cc-by-sa-2.0-text/zh]]',
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
 	'wm-license-gfdl-wiki-link' => 'w:zh:GNU自由文档许可证',
