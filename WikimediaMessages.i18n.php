@@ -5378,6 +5378,7 @@ Jei šio darbo neparašėte Jūs, jis turi būti suderinamas su [http://wikimedi
 );
 
 /** Latvian (Latviešu)
+ * @author GreenZeb
  * @author Papuass
  * @author Xil
  * @author Yyy
@@ -5386,10 +5387,12 @@ $messages['lv'] = array(
 	'wikimediamessages-desc' => 'Wikimedia raksturīgi paziņojumi',
 	'sitesupport' => 'Ziedojumi',
 	'tooltip-n-sitesupport' => 'Atbalsti mūs',
+	'group-accountcreator' => 'Kontu veidotāji',
 	'group-flood' => 'Botu lietotāji',
 	'group-import' => 'Importētāji',
-	'group-transwiki' => 'Transwiki importētāji',
+	'group-transwiki' => 'Transviki importētāji',
 	'grouppage-import' => '{{ns:project}}:Importētāji',
+	'group-steward' => 'Sistēmas pārvaldnieki',
 	'group-inactive' => 'Neaktīvi lietotāji',
 	'group-inactive-member' => 'neaktīvs lietotājs',
 	'grouppage-inactive' => '{{ns:project}}:Neaktīvi lietotāji',
