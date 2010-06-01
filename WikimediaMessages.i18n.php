@@ -5393,6 +5393,7 @@ $messages['lv'] = array(
 	'group-transwiki' => 'Transviki importētāji',
 	'grouppage-import' => '{{ns:project}}:Importētāji',
 	'group-steward' => 'Sistēmas pārvaldnieki',
+	'grouppage-steward' => '{{ns:project}}:Sistēmas pārvaldnieki',
 	'group-inactive' => 'Neaktīvi lietotāji',
 	'group-inactive-member' => 'neaktīvs lietotājs',
 	'grouppage-inactive' => '{{ns:project}}:Neaktīvi lietotāji',
@@ -6765,6 +6766,7 @@ $messages['pms'] = array(
 	'group-interface_editors' => "Modificator ëd l'antërfassa",
 	'group-ipblock-exempt' => "Esension ëd blocagi d'IP",
 	'group-patroller' => 'Gent ëd patoja',
+	'group-researcher' => 'Arsercador',
 	'group-rollbacker' => 'Ripristinator',
 	'group-transwiki' => 'Amportator transwiki',
 	'group-trusted' => 'Utent sicur',
@@ -6776,12 +6778,14 @@ $messages['pms'] = array(
 	'group-bigexport-member' => 'Grand esportator',
 	'group-confirmed-member' => 'Utent confermà',
 	'group-editprotected-member' => 'editor ëd pàgine protegiùe',
+	'group-filemover-member' => "tramudador d'archivi",
 	'group-flood-member' => "Utent ch'a deuvro dij trigomiro",
 	'group-founder-member' => 'Fondador',
 	'group-import-member' => 'Amportator',
 	'group-interface_editors-member' => "modificator ëd l'antërfassa",
 	'group-ipblock-exempt-member' => "Esentà dai blocagi d'IP",
 	'group-patroller-member' => 'ëd patoja',
+	'group-researcher-member' => 'arsercador',
 	'group-rollbacker-member' => 'Ripristinator',
 	'group-transwiki-member' => 'Amportator transwiki',
 	'group-trusted-member' => 'utent sicur',
@@ -6793,11 +6797,13 @@ $messages['pms'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Grand esportator',
 	'grouppage-confirmed' => '{{ns:project}}:Utent confermà',
 	'grouppage-editprotected' => '{{ns:project}}:Editor ëd pàgine protegiùe',
+	'grouppage-filemover' => "{{ns:project}}:Tramudador d'archivi",
 	'grouppage-flood' => "{{ns:project}}:Utent ch'a deuvro dij trigomiro",
 	'grouppage-founder' => '{{ns:project}}:Fondador',
 	'grouppage-import' => '{{ns:project}}:Amportator',
 	'grouppage-interface_editors' => "{{ns:project}}:Modificator ëd l'antërfassa",
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Esension dai blocagi d'IP",
+	'grouppage-researcher' => '{{ns:project}}:Arsercador',
 	'grouppage-rollbacker' => '{{ns:project}}:Ripristinator',
 	'grouppage-transwiki' => '{{ns:project}}:Amportator transwiki',
 	'grouppage-trusted' => '{{ns:project}}:Utent sicur',
@@ -9612,6 +9618,7 @@ $messages['wuu'] = array(
  */
 $messages['xal'] = array(
 	'sitesupport' => 'Өгх',
+	'wikimedia-copyright' => 'Бичг <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> зөвшлтин болзани орлһта, зәрм бәәдлт дәкәд болзан йоста бәәдг. Тодрхаһар <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Эдллһнә болзан</a> хәләтн.',
 );
 
 /** Xhosa (isiXhosa) */
