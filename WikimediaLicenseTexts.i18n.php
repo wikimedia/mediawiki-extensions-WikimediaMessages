@@ -7233,6 +7233,7 @@ $messages['lv'] = array(
 	'wm-license-information-description' => 'Apraksts',
 	'wm-license-information-source' => 'Izejas kods',
 	'wm-license-own-work' => 'Paša darbs',
+	'wm-license-self-one-license-with-author' => '$1, šī attēla autors, labprātīgi nodod to sabiedrības lietošanā.',
 );
 
 /** Literary Chinese (文言) */
