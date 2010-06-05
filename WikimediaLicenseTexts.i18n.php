@@ -5353,7 +5353,12 @@ $messages['hu'] = array(
 	'wm-license-information-permission-see-below' => 'Lásd lent.',
 	'wm-license-information-other-versions' => 'Más változatok',
 	'wm-license-lgpl-wiki-link' => 'w:hu:GNU Lesser General Public License',
+	'wm-license-original-upload-log' => 'Eredeti feltöltési napló',
 	'wm-license-own-work' => 'A feltöltő saját munkája',
+	'wm-license-self-one-license' => 'Én, e mű szerzője a művemet az alábbi licenc alatt teszem közzé:',
+	'wm-license-self-one-license-with-author' => '$1, e mű szerzője a művét az alábbi licenc alatt teszi közzé:',
+	'wm-license-self-multiple-licenses' => 'Én, e mű szerzője a művemet az alábbi licencek alatt teszem közzé:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, e mű szerzője a művét az alábbi licencek alatt teszi közzé:',
 	'wm-license-self-multiple-licenses-select' => 'A mű a fenti licencek bármelyike szerint felhasználható.',
 );
 
