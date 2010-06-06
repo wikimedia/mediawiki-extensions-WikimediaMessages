@@ -3,7 +3,8 @@ if (!defined('MEDIAWIKI')) die();
 /**
  * An extension that adds Wikimedia specific functionality
  *
- * @addtogroup Extensions
+ * @file
+ * @ingroup Extensions
  *
  * @copyright Copyright © 2008-2009, Tim Starling
  * @copyright Copyright © 2009, Siebrand Mazeland, Multichill

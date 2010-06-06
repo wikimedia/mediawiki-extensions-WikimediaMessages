@@ -2,7 +2,8 @@
 /**
  * Internationalisation file for extension Wikimedia Messages
  *
- * @addtogroup Extensions
+ * @file
+ * @ingroup Extensions
  * @comment TODO:
  * @comment + Remove current events and community portal from the default sidebar
  * @comment + and add those messages to here

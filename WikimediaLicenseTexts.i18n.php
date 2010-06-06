@@ -2,7 +2,8 @@
 /**
  * Internationalisation file for extension Wikimedia Messages - message group Wikimedia License Texts
  *
- * @addtogroup Extensions
+ * @file
+ * @ingroup Extensions
  */
 
 $messages = array();
