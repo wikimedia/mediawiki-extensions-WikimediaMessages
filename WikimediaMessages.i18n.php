@@ -8496,6 +8496,7 @@ $messages['te'] = array(
 	'group-interface_editors-member' => 'అంతర్ముఖి లేఖిని',
 	'group-ipblock-exempt-member' => 'ఐపీ నిరోధపు మినహాయింపు',
 	'group-patroller-member' => 'పర్యవేక్షకుడు',
+	'group-researcher-member' => 'పరిశోధకుడు',
 	'group-rollbacker-member' => 'రద్దుచేసినవారు',
 	'group-transwiki-member' => 'ట్రాన్స్ వికీ దిగుమతిదారుడు',
 	'group-trusted-member' => 'విశ్వసనీయ వాడుకరి',
