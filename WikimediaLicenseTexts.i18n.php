@@ -2005,6 +2005,13 @@ $messages['cdo'] = array(
 	'wm-license-information-source' => 'Lài-nguòng',
 );
 
+/** Chechen (Нохчийн)
+ * @author Sasan700
+ */
+$messages['ce'] = array(
+	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
+);
+
 /** Sorani (Soranî / کوردی) */
 $messages['ckb'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ckb:نەرمەکاڵا خۆڕاییەکان',
@@ -5717,12 +5724,17 @@ $messages['ilo'] = array(
 	'wm-license-information-source' => 'Taudan',
 );
 
-/** Ido (Ido) */
+/** Ido (Ido)
+ * @author Malafaya
+ */
 $messages['io'] = array(
 	'wm-license-free-software-wiki-link' => 'w:io:Libera programaro',
 	'wm-license-information-source' => 'Fonto',
 	'wm-license-information-date' => 'Dato',
 	'wm-license-information-author' => 'Autoro',
+	'wm-license-information-permission-see-below' => 'Videz infre.',
+	'wm-license-information-other-versions' => 'Altra versioni',
+	'wm-license-own-work' => 'Propra verko',
 );
 
 /** Icelandic (Íslenska) */
@@ -7026,12 +7038,17 @@ $messages['lfn'] = array(
 	'wm-license-information-author' => 'Autor',
 );
 
-/** Limburgish (Limburgs) */
+/** Limburgish (Limburgs)
+ * @author Pahles
+ */
 $messages['li'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:li:GNU Free Documentation License',
 	'wm-license-information-description' => 'Besjrieving',
 	'wm-license-information-source' => 'Brón',
 	'wm-license-information-date' => 'Datum',
+	'wm-license-information-permission' => 'Permissie',
+	'wm-license-information-permission-reusing-text' => 'Hergebroek van dit besjtandj',
+	'wm-license-information-other-versions' => 'Anger versies',
 );
 
 /** Líguru (Líguru) */
@@ -9282,6 +9299,31 @@ $messages['pt-br'] = array(
 	'wm-license-cc-by-2.0-es-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.pt Atribuição 2.0 Espanha].',
 	'wm-license-cc-by-2.0-fr-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.pt Atribuição 2.0 França].',
 	'wm-license-cc-by-2.0-hr-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/deed.pt Atribuição 2.0 Croácia].',
+	'wm-license-cc-by-2.0-it-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.pt Atribuição 2.0 Itália].',
+	'wm-license-cc-by-2.0-jp-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.pt Atribuição 2.0 Japão].',
+	'wm-license-cc-by-2.0-kr-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/deed.pt Atribuição 2.0 Coreia].',
+	'wm-license-cc-by-2.0-nl-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.pt Atribuição 2.0 Holanda].',
+	'wm-license-cc-by-2.0-pl-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/deed.pt Atribuição 2.0 Polônia].',
+	'wm-license-cc-by-2.0-tw-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.pt Atribuição 2.0 Taiwan].',
+	'wm-license-cc-by-2.0-uk-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.pt Atribuição 2.0 Reino Unido: Inglaterra e País de Gales].',
+	'wm-license-cc-by-2.0-za-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.pt Atribuição 2.0 África do Sul].',
+	'wm-license-cc-by-2.1-au-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.pt Atribuição 2.1 Austrália].',
+	'wm-license-cc-by-2.1-es-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.pt Atribuição 2.1 Espanha].',
+	'wm-license-cc-by-2.1-jp-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.pt Atribuição 2.1 Japão].',
+	'wm-license-cc-by-2.5-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.pt Atribuição 2.5 Genérica].',
+	'wm-license-cc-by-2.5-au-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.pt Atribuição 2.5 Austrália].',
+	'wm-license-cc-by-2.5-bg-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.pt Atribuição 2.5 Bulgária].',
+	'wm-license-cc-by-2.5-br-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.pt Atribuição 2.5 Brasil].',
+	'wm-license-cc-by-2.5-ca-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/deed.pt Atribuição 2.5 Canadá].',
+	'wm-license-cc-by-2.5-cn-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.pt Atribuição 2.5 China].',
+	'wm-license-cc-by-2.5-co-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/deed.pt Atribuição 2.5 Colômbia].',
+	'wm-license-cc-by-2.5-dk-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.pt Atribuição 2.5 Dinamarca].',
+	'wm-license-cc-by-2.5-es-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.pt Atribuição 2.5 Espanha].',
+	'wm-license-cc-by-2.5-hr-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.pt Atribuição 2.5 Croácia].',
+	'wm-license-cc-by-2.5-hu-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/deed.pt Atribuição 2.5 Hungria].',
+	'wm-license-cc-by-2.5-il-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.pt Atribuição 2.5 Israel].',
+	'wm-license-cc-by-2.5-in-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.pt Atribuição 2.5 Índia].',
+	'wm-license-cc-by-2.5-it-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.pt Atribuição 2.5 Itália].',
 	'wm-license-cc-free' => 'Você é livre:',
 	'wm-license-cc-free-to-share-header' => 'para compartilhar',
 	'wm-license-cc-free-to-share-text' => 'copiar, distribuir e transmitir a obra',

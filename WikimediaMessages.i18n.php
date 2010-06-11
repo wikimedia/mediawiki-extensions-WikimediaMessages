@@ -1485,9 +1485,12 @@ $messages['cdo'] = array(
 	'sitesupport' => 'Dà̤-giŏng',
 );
 
-/** Chechen (Нохчийн) */
+/** Chechen (Нохчийн)
+ * @author Sasan700
+ */
 $messages['ce'] = array(
 	'sitesupport' => 'Сайтан сагIа',
+	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 );
 
 /** Cebuano (Cebuano)
@@ -6286,9 +6289,9 @@ $messages['nl'] = array(
 	'group-inactive' => 'inactieve gebruikers',
 	'group-inactive-member' => 'inactieve gebruiker',
 	'grouppage-inactive' => '{{ns:project}}:Inactieve gebruikers',
-	'wikimedia-copyright' => 'De tekst is beschikbaar onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamsvermelding/Gelijk delen</a>.
-Het is mogelijk dat aanvullende voorwaarden van toepassing zijn.
-Zie de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Gebruiksvoorwaarden</a> voor meer informatie.',
+	'wikimedia-copyright' => 'De tekst is beschikbaar onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.nl">Creative Commons Naamsvermelding-Gelijk delen</a>.
+Er kunnen aanvullende voorwaarden van toepassing zijn.
+Zie de <a href="http://wikimediafoundation.org/wiki/Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor meer informatie.',
 	'wikimedia-copyrightwarning' => 'Door uw bewerking op te slaan, gaat u akkoord met het onherroepelijk vrijgeven van uw bijdrage onder de licentie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamsvermelding/Gelijk delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL].
 U gaat ermee akkoord door hergebruikers minimaal genoemd te worden via een hyperlink of URL naar de pagina waaraan u bijdraagt.
 Zie de [http://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden] voor meer informatie.',
