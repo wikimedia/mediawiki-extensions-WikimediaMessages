@@ -235,6 +235,7 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Fryed-peach
+ * @author Jean-Frédéric
  * @author Multichill
  * @author Siebrand
  */
@@ -424,6 +425,7 @@ $messages['qqq'] = array(
 	'wm-license-gfdl-1.2-only' => 'You can peek at [[Commons:Template:GFDL-1.2]] for the current translations.',
 	'wm-license-gfdl-wiki-link' => 'Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation License|GNU Free Documentation License]]',
 	'wm-license-gpl-text' => 'You can peek at [[Commons:Template:GPL]] for the current translations',
+	'wm-license-information-description-missing' => 'This message is used on Wikimedia Commons, on [[:commons:Template:Description missing]]',
 	'wm-license-information-permission-reusing-link' => 'Please only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.',
 	'wm-license-lgpl-text' => 'You can peek at [[Commons:Template:LGPL]] for the current translations',
 	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]]',
@@ -4301,8 +4303,8 @@ Vous trouverez un exemplaire de cette Licence sur le [{{int:wm-license-fal-full-
 	'wm-license-information-other-versions' => 'Autres versions',
 	'wm-license-lgpl-text' => "Ce document est un [[{{int:wm-license-free-software-wiki-link}}|logiciel libre]] ; vous pouvez le redistribuer ou le modifier selon les termes de la '''[[{{int:wm-license-lgpl-wiki-link}}|licence publique générale limitée GNU]]''', tels que publiés par la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] soit la version 2.1 de cette licence ou (à votre choix) toute version ultérieure. Cette bibliothèque est distribuée dans l’espoir qu’elle sera utile, mais '''sans aucune garantie''' ; sans même les garanties de '''commercialisabilité''' ou '''d’adéquation à un besoin particulier'''. Voyez la [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] et la [{{int:wm-license-lgpl-3-full-link}} version 3 de la GNU Lesser General Public License] pour plus de détails.",
 	'wm-license-lgpl-wiki-link' => 'w:fr:Licence publique générale limitée GNU',
-	'wm-license-original-upload-log' => 'Journal original des téléversements',
-	'wm-license-own-work' => 'Propre œuvre',
+	'wm-license-original-upload-log' => 'Journal des téléversements d’origine',
+	'wm-license-own-work' => 'Travail personnel',
 	'wm-license-self-one-license' => 'En tant que détenteur du droit d’auteur, je publie cette œuvre sous la licence suivante :',
 	'wm-license-self-one-license-with-author' => '$1, le détenteur des droits sur cette œuvre, la publie sous la licence suivante :',
 	'wm-license-self-multiple-licenses' => 'En tant que détenteur du droit d’auteur, je publie cette œuvre sous les licences suivantes :',
