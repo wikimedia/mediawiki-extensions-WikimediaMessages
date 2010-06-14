@@ -3922,6 +3922,10 @@ $messages['fa'] = array(
 	'wm-license-information-other-versions' => 'دیگر نسخه‌ها',
 	'wm-license-lgpl-wiki-link' => 'w:fa:ال‌جی‌پی‌ال',
 	'wm-license-own-work' => 'اثر شخصی',
+	'wm-license-self-one-license' => 'من، صاحب حقوق قانونی این اثر، بدینوسیله این اثر را تحث اجازه‌نامه ذیل منتشر می‌کنم:',
+	'wm-license-self-one-license-with-author' => '$ 1 من، صاحب حقوق قانونی این اثر، بدینوسیله این اثر را تحث اجازه‌نامه ذیل منتشر می‌کنم:',
+	'wm-license-self-multiple-licenses' => 'من، صاحب حقوق قانونی این اثر، بدینوسیله این اثر را تحث اجازه‌نامه ذیل منتشر می‌کنم:',
+	'wm-license-self-multiple-licenses-with-author' => '$1 من، صاحب حقوق قانونی این اثر، بدینوسیله این اثر را تحث اجازه‌نامه ذیل منتشر می‌کنم:',
 	'wm-license-self-multiple-licenses-select' => 'شما اجازه دارید مجوز خود را انتخاب انتخاب کنید.',
 );
 
