@@ -3122,7 +3122,7 @@ $messages['eo'] = array(
 	'wm-license-cc-by-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/deed.eo Atribuado 1.0 Ĝenerala] permesilo',
 	'wm-license-cc-by-1.0-fi-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/1.0/fi/deed.eo Atribuite 1.0 Finnujo].',
 	'wm-license-cc-by-1.0-il-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/1.0/il/deed.eo Atribuite 1.0 Israelo].',
-	'wm-license-cc-by-1.0-nl-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/nl/deed.eo Atribuite 1.0 Nederlando] permesilo.',
+	'wm-license-cc-by-1.0-nl-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/1.0/nl/deed.eo Atribuite 1.0 Nederlando].',
 	'wm-license-cc-by-2.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/deed.eo Atribuada 2.0 Ĝenerala] permesilo',
 	'wm-license-cc-by-2.0-at-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/2.0/at/deed.eo Atribuite 2.0 Aŭstrio] permesilo.',
 	'wm-license-cc-by-2.0-au-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] permesilo [http://creativecommons.org/licenses/by/2.0/au/deed.eo Atribuite 2.0 Aŭstralio].',
@@ -4087,6 +4087,7 @@ $messages['fo'] = array(
 
 /** French (Français)
  * @author Cedric31
+ * @author Dodoïste
  * @author Grondin
  * @author Guillom
  * @author IAlex
@@ -4180,7 +4181,7 @@ $messages['fr'] = array(
 	'wm-license-cc-by-3.0-us-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.fr Paternité 3.0 États-Unis].',
 	'wm-license-cc-by-sa-1.0-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.fr Paternité – Partage des conditions initiales à l’identique 1.0 générique]',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.fr Paternité – Partage des conditions initiales à l’identique 1.0 Finlande].',
-	'wm-license-cc-by-sa-1.0-il-text' => 'Ce fichier est sous la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/il/deed.fr Paternité – Partage des conditions initiales à l’identique 1.0 Israël]',
+	'wm-license-cc-by-sa-1.0-il-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/il/deed.fr Paternité – Partage des conditions initiales à l’identique 1.0 Israël]',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.fr Paternité – Partage des conditions initiales à l’identique 1.0 Pays-Bas].',
 	'wm-license-cc-by-sa-2.0-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 générique]',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Autriche].',
@@ -4194,13 +4195,13 @@ $messages['fr'] = array(
 	'wm-license-cc-by-sa-2.0-fr-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 France].',
 	'wm-license-cc-by-sa-2.0-hr-text' => 'Ce fichier est sous la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/hr/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Croatie].',
 	'wm-license-cc-by-sa-2.0-it-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/it/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Italie].',
-	'wm-license-cc-by-sa-2.0-jp-text' => 'Ce fichier est sous la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.fr  Paternité – Partage des conditions initiales à l’identique 2.0 Japon].',
+	'wm-license-cc-by-sa-2.0-jp-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.fr  Paternité – Partage des conditions initiales à l’identique 2.0 Japon].',
 	'wm-license-cc-by-sa-2.0-kr-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Corée].',
 	'wm-license-cc-by-sa-2.0-nl-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Pays-Bas].',
-	'wm-license-cc-by-sa-2.0-pl-text' => 'The fichier est sous la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Pologne].',
+	'wm-license-cc-by-sa-2.0-pl-text' => 'The fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Pologne].',
 	'wm-license-cc-by-sa-2.0-tw-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Taïwan].',
 	'wm-license-cc-by-sa-2.0-uk-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Royaume-Uni : Angleterre et Pays de Galles].',
-	'wm-license-cc-by-sa-2.0-za-text' => 'The fichier est sous la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Afrique du Sud].',
+	'wm-license-cc-by-sa-2.0-za-text' => 'The fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Afrique du Sud].',
 	'wm-license-cc-by-sa-2.1-au-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/deed.fr Paternité – Partage des conditions initiales à l’identique 2.1 Australie]',
 	'wm-license-cc-by-sa-2.1-es-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.fr Paternité – Partage des conditions initiales à l’identique 2.1 Espagne]',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.fr Paternité – Partage des conditions initiales à l’identique 2.1 Japon]',
@@ -4213,7 +4214,7 @@ $messages['fr'] = array(
 	'wm-license-cc-by-sa-2.5-ca-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ca/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Canada].',
 	'wm-license-cc-by-sa-2.5-ch-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ch/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Suisse].',
 	'wm-license-cc-by-sa-2.5-cn-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/cn/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Chine].',
-	'wm-license-cc-by-sa-2.5-co-text' => 'Ce fichier est sous la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/co/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Colombie].',
+	'wm-license-cc-by-sa-2.5-co-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/co/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Colombie].',
 	'wm-license-cc-by-sa-2.5-dk-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/dk/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Danemark].',
 	'wm-license-cc-by-sa-2.5-es-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/es/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Espagne].',
 	'wm-license-cc-by-sa-2.5-hr-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hr/deed.fr Paternité – Partage des conditions initiales à l’identique 2.5 Croatie].',
@@ -4894,11 +4895,15 @@ $messages['hak'] = array(
  * @author Multichill
  * @author Rotemliss
  * @author YaronSh
+ * @author ערן
  */
 $messages['he'] = array(
 	'wikimedialicensetexts-desc' => 'הודעות הרישוי של ויקימדיה',
 	'wm-license-cc-wiki-link' => 'w:he:Creative Commons',
 	'wm-license-cc-attribution' => 'ייחוס',
+	'wm-license-cc-by-1.0-text' => 'קובץ זה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic].',
+	'wm-license-cc-by-1.0-fi-text' => 'קובץ זה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.en ייחוס 1.0 פינלנד].',
+	'wm-license-cc-by-1.0-il-text' => 'קובץ זה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.en ייחוס 1.0 ישראל].',
 	'wm-license-cc-free' => 'הנכם רשאים:',
 	'wm-license-cc-free-to-share-header' => 'לשתף',
 	'wm-license-cc-free-to-share-text' => 'להעתיק, להפיץ ולהעביר את העבודה',
@@ -4907,6 +4912,7 @@ $messages['he'] = array(
 	'wm-license-cc-conditions' => 'תחת התנאים הבאים:',
 	'wm-license-cc-conditions-attribution-header' => 'ייחוס',
 	'wm-license-cc-conditions-share_alike-header' => 'שיתוף דומה',
+	'wm-license-cc-conditions-share_alike-text' => 'יצירות המבוססות על עבודה זו או המשנות אותה, ניתן להפיצן אך ורק תחת רישיון זהה או תואם לרישיון זה.',
 	'wm-license-fsf-wiki-link' => 'w:he:המוסד לתוכנה חופשית',
 	'wm-license-free-software-wiki-link' => 'w:he:תוכנה חופשית',
 	'wm-license-gfdl-wiki-link' => 'w:he:הרישיון לשימוש חופשי במסמכים של גנו',
@@ -4924,7 +4930,12 @@ $messages['he'] = array(
 	'wm-license-information-permission' => 'אישורים והיתרים',
 	'wm-license-information-permission-see-below' => 'ראו להלן',
 	'wm-license-information-other-versions' => 'גרסאות אחרות',
+	'wm-license-original-upload-log' => 'יומן העלאה מקורי',
 	'wm-license-own-work' => 'נוצר על ידי מעלה היצירה',
+	'wm-license-self-one-license' => 'אני, בעל זכויות היוצרים על עבודה זו, מפרסם בזאת את העבודה תחת הרישיון הבא:',
+	'wm-license-self-one-license-with-author' => '$1, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיון הבא:',
+	'wm-license-self-multiple-licenses' => 'אני, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיונות הבאים:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיונות הבאים:',
 	'wm-license-self-multiple-licenses-select' => 'הנכם מוזמנים לבחור את הרישיון הרצוי בעיניך.',
 );
 
@@ -9091,10 +9102,18 @@ $messages['prg'] = array(
  */
 $messages['ps'] = array(
 	'wm-license-cc-wiki-link' => 'w:ps:کريېټيو کامانز',
+	'wm-license-cc-by-1.0-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
+	'wm-license-cc-by-1.0-fi-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 فېنلاند] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
+	'wm-license-cc-by-1.0-il-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 اسراييل] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
+	'wm-license-cc-by-1.0-nl-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 نېدرلاند] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
+	'wm-license-cc-by-2.0-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
+	'wm-license-cc-by-2.0-at-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 اتريش] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
+	'wm-license-cc-sa-2.0-jp-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 جاپان] اجازتليک له مخې د لاسرسي لپاره پرته ده.',
 	'wm-license-information-description' => 'څرګندونه',
 	'wm-license-information-source' => 'سرچينه',
 	'wm-license-information-date' => 'نېټه',
 	'wm-license-information-author' => 'ليکوال',
+	'wm-license-information-permission' => 'اجازه',
 	'wm-license-information-permission-see-below' => 'لاندې وګورۍ.',
 	'wm-license-information-other-versions' => 'نورې بڼې',
 	'wm-license-own-work' => 'شخصي اثر',
