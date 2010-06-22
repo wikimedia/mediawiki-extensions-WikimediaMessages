@@ -9342,7 +9342,7 @@ $messages['pt'] = array(
 	'wm-license-information-table-summary' => 'Uma tabela padronizada que fornece informação completa sobre o ficheiro, incluindo uma descrição do conteúdo e de como foi criado, direitos de autor e a fonte.',
 	'wm-license-information-description' => 'Descrição',
 	'wm-license-information-description-missing' => "Este ficheiro não tem uma '''descrição''' e pode faltar-lhe outras informações.",
-	'wm-license-information-description-missing-request' => 'Fornece uma descrição apropriada deste ficheiro.',
+	'wm-license-information-description-missing-request' => 'Forneça uma descrição apropriada deste ficheiro.',
 	'wm-license-information-source' => 'Fonte',
 	'wm-license-information-source-missing' => "Este ficheiro não possui informação sobre a sua '''origem'''.",
 	'wm-license-information-source-missing-request' => 'Por favor edite a descrição deste ficheiro e indique a fonte do trabalho.',
@@ -9601,6 +9601,7 @@ $messages['rmy'] = array(
 /** Romanian (Română)
  * @author Firilacroco
  * @author KlaudiuMihaila
+ * @author Memo18
  * @author Minisarm
  * @author Multichill
  * @author Strainu
@@ -9642,6 +9643,23 @@ $messages['ro'] = array(
 	'wm-license-cc-by-2.5-bg-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.ro Atribuire 2.5 Bulgaria].',
 	'wm-license-cc-by-2.5-br-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.ro Atribuire 2.5 Brazilia].',
 	'wm-license-cc-by-2.5-ca-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/deed.ro Atribuire 2.5 Canada].',
+	'wm-license-cc-by-2.5-ch-text' => 'Aceste fişier este licenţiat sub licenţa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/deed.en Attribution 2.5 Switzerland]',
+	'wm-license-cc-by-2.5-cn-text' => 'Aceste fişier este licenţiat sub licenţa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.en Attribution 2.5 China Mainland].',
+	'wm-license-cc-by-2.5-co-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/deed.en Attribution 2.5 Colombia].',
+	'wm-license-cc-by-2.5-dk-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.en Attribution 2.5 Denmark].',
+	'wm-license-cc-by-2.5-es-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.en Attribution 2.5 Spain].',
+	'wm-license-cc-by-2.5-hr-text' => 'Aceste fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.en Attribution 2.5 Croatia].',
+	'wm-license-cc-by-2.5-hu-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/deed.en Attribution 2.5 Hungary].',
+	'wm-license-cc-by-2.5-il-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.en Attribution 2.5 Israel].',
+	'wm-license-cc-by-2.5-in-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.en Attribution 2.5 India].',
+	'wm-license-cc-by-2.5-it-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.en Attribution 2.5 Italy].',
+	'wm-license-cc-by-2.5-mk-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/deed.en Attribution 2.5 Macedonia].',
+	'wm-license-cc-by-2.5-mt-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/deed.en Attribution 2.5 Malta].',
+	'wm-license-cc-by-2.5-mx-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/deed.en Attribution 2.5 Mexico].',
+	'wm-license-cc-by-2.5-my-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/deed.en Attribution 2.5 Malaysia].',
+	'wm-license-cc-by-2.5-nl-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/deed.en Attribution 2.5 Netherlands].',
+	'wm-license-cc-by-2.5-pe-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/deed.en Attribution 2.5 Peru].',
+	'wm-license-cc-by-2.5-pl-text' => 'Acest fişier este licenţiat sub [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/deed.en Attribution 2.5 Poland].',
 	'wm-license-cc-free' => 'Sunteți liber:',
 	'wm-license-cc-free-to-share-header' => 'să partajați cu alții',
 	'wm-license-cc-free-to-share-text' => 'aveți dreptul de a copia, distribui și transmite opera',
