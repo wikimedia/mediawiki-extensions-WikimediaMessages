@@ -4005,6 +4005,8 @@ $messages['hu'] = array(
 	'group-autoreviewer' => 'automatikusan megtekintők',
 	'group-bigexport' => 'nagy mennyiségben exportálók',
 	'group-confirmed' => 'megerősített szerkesztők',
+	'group-editprotected' => 'Védettlap-szerkesztők',
+	'group-filemover' => 'Fájlátnevezők',
 	'group-flood' => 'Bot felhasználók',
 	'group-founder' => 'alapítók',
 	'group-import' => 'importálók',
@@ -4037,11 +4039,14 @@ $messages['hu'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatikusan megtekintők',
 	'grouppage-bigexport' => '{{ns:project}}:Nagy mennyiségben exportálók',
 	'grouppage-confirmed' => '{{ns:project}}:Megerősített szerkesztők',
+	'grouppage-editprotected' => '{{ns:project}}:Védettlap-szerkesztők',
+	'grouppage-filemover' => '{{ns:project}}:Fájlátnevezők',
 	'grouppage-flood' => '{{ns:project}}:Bot felhasználók',
 	'grouppage-founder' => '{{ns:project}}:Alapítók',
 	'grouppage-import' => '{{ns:project}}:Importálók',
 	'grouppage-interface_editors' => '{{ns:project}}:Felületszerkesztők',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Mentesülés az IP-blokkok alól',
+	'grouppage-researcher' => '{{ns:project}}:Kutatók',
 	'grouppage-rollbacker' => '{{ns:project}}:Visszaállítók',
 	'grouppage-transwiki' => '{{ns:project}}:Wikiközi importálók',
 	'grouppage-trusted' => '{{ns:project}}:megbízható felhasználók',
@@ -7248,13 +7253,14 @@ $messages['rmy'] = array(
  * @author KlaudiuMihaila
  * @author Laurap
  * @author Mihai
+ * @author Minisarm
  * @author Misterr
  */
 $messages['ro'] = array(
 	'wikimediamessages-desc' => 'Mesaje specifice Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/ro?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
-	'sitesupport' => 'Donează',
-	'tooltip-n-sitesupport' => 'Susţineţi-ne',
+	'sitesupport' => 'Donații',
+	'tooltip-n-sitesupport' => 'Sprijiniţi-ne',
 	'specialpages-group-contribution' => 'Donație / Colectare de fonduri',
 	'group-abusefilter' => 'Editori filtru abuz',
 	'group-accountcreator' => 'Creatori de conturi',
@@ -7325,7 +7331,7 @@ $messages['ro'] = array(
 	'group-editinterface-member' => 'editori de interfață',
 	'group-Global_bot-member' => 'Bot global',
 	'group-Global_rollback-member' => 'revocator global',
-	'group-Global_sysops-member' => 'Admin sysop global',
+	'group-Global_sysops-member' => 'Administrator global',
 	'group-Ombudsmen-member' => 'mijlocitor independent',
 	'group-Staff-member' => 'angajat',
 	'group-coder' => 'Codificatori',
@@ -7333,9 +7339,9 @@ $messages['ro'] = array(
 	'group-inactive' => 'Utilizatori inactivi',
 	'group-inactive-member' => 'utilizator inactiv',
 	'grouppage-inactive' => '{{ns:project}}:Utilizatori inactivi',
-	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Atribuire-Distribuire în condiții identice</a>;
-termeni suplimentari se pot aplica.
-Vedeți <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a> pentru detalii.',
+	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
+pot exista și clauze suplimentare.
+Vedeți detalii la <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a>.',
 	'wikimedia-copyrightwarning' => 'Salvând, sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [http://www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord să fiți creditat de către reutilizator, cel puțin, printr-o hiperlegătură sau URL către pagina la care contribuiți.
 Vedeți [http://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] pentru detalii.',
@@ -7541,15 +7547,31 @@ $messages['ru'] = array(
  * @author Gazeb
  */
 $messages['rue'] = array(
+	'wikimediamessages-desc' => 'Повідомлїня, характерістічны про Вікімедію',
+	'sitesupport' => 'Підпорте нас',
 	'tooltip-n-sitesupport' => 'Підпорьте нас',
+	'specialpages-group-contribution' => 'Приспевкы/фінанцованя',
+	'group-accountcreator' => 'Створювачі конт',
+	'group-arbcom' => 'Члены арбітражного комітету',
 	'group-autoreviewer' => 'Авторедакторы',
+	'group-bigexport' => 'Велікоекспортеры',
 	'group-confirmed' => 'Підтверджены хоснователї',
 	'group-flood' => 'Бот-хоснователї',
 	'group-import' => 'Імпортеры',
 	'group-interface_editors' => 'Редакторы інтерфейсу',
+	'group-transwiki' => 'Transwiki-імпортеры',
+	'group-trusted' => 'Довірны хоснователї',
+	'group-accountcreator-member' => 'створювач конт',
+	'group-arbcom-member' => 'член арбітражного комітету',
 	'group-bigexport-member' => 'велікоекспортер',
+	'group-confirmed-member' => 'підтвердженый хоснователь',
+	'group-flood-member' => 'бот-хоснователь',
+	'group-interface_editors-member' => 'редактор інтерфейсу',
+	'group-transwiki-member' => 'Transwiki-імпортер',
+	'group-trusted-member' => 'довірный хоснователь',
 	'grouppage-abusefilter' => '{{ns:project}}:Редакторы філтра знеужываня',
 	'grouppage-accountcreator' => '{{ns:project}}:Закладателї конт',
+	'grouppage-arbcom' => '{{ns:project}}:Члены арбітражного комітету',
 	'grouppage-autoreviewer' => '{{ns:project}}:Авторедакторы',
 	'grouppage-bigexport' => '{{ns:project}}:Великоекспортеры',
 	'grouppage-confirmed' => '{{ns:project}}:Підтверджены хоснователї',
@@ -7562,6 +7584,9 @@ $messages['rue'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-імпортеры',
 	'grouppage-trusted' => '{{ns:project}}:Довірны хоснователї',
 	'group-steward' => 'Стеварды',
+	'group-sysadmin' => 'Сістемовы адміністраторы',
+	'group-editinterface' => 'Редакторы інтерфейсу',
+	'group-Global_bot' => 'Ґлобалны боты',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
@@ -8597,6 +8622,7 @@ $messages['te'] = array(
 	'group-import' => 'దిగుమతిదార్లు',
 	'group-ipblock-exempt' => 'ఐపీ నిరోధపు మినహాయింపులు',
 	'group-patroller' => 'పర్యవేక్షకులు',
+	'group-researcher' => 'పరిశోధకులు',
 	'group-rollbacker' => 'రద్దుచేసినవారు',
 	'group-transwiki' => 'ట్రాన్స్ వికీ దిగుమతిదారులు',
 	'group-trusted' => 'విశ్వసనీయ వాడుకరులు',
@@ -8628,6 +8654,7 @@ $messages['te'] = array(
 	'grouppage-founder' => '{{ns:project}}:వ్యవస్థాపకులు',
 	'grouppage-import' => '{{ns:project}}:దిగుమతిదార్లు',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ఐపీ నిరోధపు మినహాయింపు',
+	'grouppage-researcher' => '{{ns:project}}:పరిశోధకులు',
 	'grouppage-rollbacker' => '{{ns:project}}:రద్దుచేసినవారు',
 	'grouppage-transwiki' => '{{ns:project}}:ట్రాన్స్ వికీ దిగుమతిదార్లు',
 	'grouppage-trusted' => '{{ns:project}}:విశ్వసనీయ వాడుకరులు',
