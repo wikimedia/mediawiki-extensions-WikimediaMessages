@@ -9677,6 +9677,12 @@ $messages['ro'] = array(
 	'wm-license-cc-by-2.5-nl-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/ cu atribuire 2.5 Țările de Jos].',
 	'wm-license-cc-by-2.5-pe-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/ cu atribuire 2.5 Peru].',
 	'wm-license-cc-by-2.5-pl-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/ cu atribuire 2.5 Polonia].',
+	'wm-license-cc-by-2.5-pt-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/deed.ro cu atribuire 2.5 Portugalia].',
+	'wm-license-cc-by-2.5-scotland-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.ro cu atribuire 2.5 Regatul Unit: Scoția].',
+	'wm-license-cc-by-2.5-se-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.ro cu atribuire 2.5 Suedia].',
+	'wm-license-cc-by-2.5-si-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/deed.ro cu atribuire 2.5 Slovenia].',
+	'wm-license-cc-by-2.5-tw-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.ro cu atribuire 2.5 Taiwan].',
+	'wm-license-cc-by-2.5-za-text' => 'Acest fișier este disponibil sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/deed.ro cu atribuire 2.5 Africa de Sud].',
 	'wm-license-cc-zero-explanation' => 'Persoana care a asociat o operă cu acest document o oferă tuturor, renunțînd la toate drepturile asupra operei, în toată lumea, atît în ce privește drepturile de autor cît și orice alte drepturi juridice conexe pe care le avea asupra operei, în măsura permisă de lege.  Operele sub licența CC0 nu necesită atribuire. Orice referire la operă trebuie făcută fără a sugera acordul autorului.',
 	'wm-license-cc-free' => 'Sunteți liber:',
 	'wm-license-cc-free-to-share-header' => 'să partajați cu alții',
@@ -10098,10 +10104,21 @@ $messages['ru'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Вы можете выбрать любую из этих лицензий.',
 );
 
-/** Rusyn (русиньскый язык) */
+/** Rusyn (русиньскый язык)
+ * @author Gazeb
+ */
 $messages['rue'] = array(
+	'wikimedialicensetexts-desc' => 'Ліценчны повідомлїня Вікімедіа',
+	'wm-license-cc-by-1.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.rue Уведьте автора 1.0 Generic]',
+	'wm-license-cc-by-1.0-fi-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.rue Уведьте автора 1.0 Фіньско] .',
+	'wm-license-cc-by-1.0-il-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.rue Уведьте автора 1.0 Ізраіль]',
+	'wm-license-cc-by-1.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.rue Уведьте автора 1.0 Голандія]',
 	'wm-license-information-description' => 'Опис',
 	'wm-license-information-source' => 'Джерело',
+	'wm-license-information-date' => 'Датум',
+	'wm-license-information-author' => 'Автор',
+	'wm-license-information-permission' => 'Права',
+	'wm-license-information-other-versions' => 'Іншы верзії',
 );
 
 /** Yakut (Саха тыла)
@@ -10989,11 +11006,18 @@ $messages['sl'] = array(
 	'wm-license-free-software-wiki-link' => 'w:sl:Prosto programje',
 	'wm-license-gfdl-wiki-link' => 'w:sl:Dovoljenje GNU za rabo proste dokumentacije',
 	'wm-license-gpl-wiki-link' => 'w:sl:GNU General Public License',
+	'wm-license-information-table-summary' => 'Standardizirana razpredelnica, ki nudi popolne informacije o datoteki, vključno z opisom kaj prikazuje in kako je bila narejena, stanjem avtorskih pravic in izvorom.',
 	'wm-license-information-description' => 'Opis',
+	'wm-license-information-description-missing' => "Ta datoteka nima '''opisa''', manjkajo pa ji morda tudi druge informacije.",
+	'wm-license-information-description-missing-request' => 'Prosimo, navedite smiseln opis te datoteke.',
 	'wm-license-information-source' => 'Vir',
+	'wm-license-information-source-missing' => "Tej datoteki manjka informacija o '''izvoru'''.",
+	'wm-license-information-source-missing-request' => 'Prosimo, uredite opis te datoteke in navedite vir.',
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Avtor',
+	'wm-license-information-author-missing' => "Tej datoteki manjka informacija o '''avtorju'''.",
 	'wm-license-information-permission' => 'Dovoljenje',
+	'wm-license-information-permission-reusing-text' => 'Ponovna uporaba te datoteke',
 	'wm-license-information-permission-see-below' => 'glej spodaj',
 	'wm-license-information-other-versions' => 'Druge različice',
 	'wm-license-original-upload-log' => 'Izvirni dnevnik nalaganja',
