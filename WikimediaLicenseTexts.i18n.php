@@ -8050,6 +8050,7 @@ $messages['ne'] = array(
 );
 
 /** Dutch (Nederlands)
+ * @author Krinkle
  * @author McDutchie
  * @author Multichill
  * @author Siebrand
@@ -8276,7 +8277,7 @@ Deze bibliotheek wordt gedistribueerd in de hoop dat deze bruikbaar is, maar '''
 zelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid voor een bepaald doel'''.
 Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] voor meer details.",
 	'wm-license-lgpl-wiki-link' => 'w:nl:GNU Lesser General Public License',
-	'wm-license-original-upload-log' => 'Originele uploadlogboek',
+	'wm-license-original-upload-log' => 'Origineel uploadlogboek',
 	'wm-license-own-work' => 'Eigen werk',
 	'wm-license-self-one-license' => 'Ik, de auteursrechthebbende van dit werk, maak het hierbij onder de volgende licentie beschikbaar:',
 	'wm-license-self-one-license-with-author' => '$1, de auteursrechthebbende van dit werk, maakt het hierbij onder de volgende licentie beschikbaar:',
@@ -10260,6 +10261,7 @@ $messages['sah'] = array(
 	'wm-license-cc-by-sa-2.5-pt-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pt/ Attribution-Share Alike 2.5 Portugal] усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-sa-2.5-scotland-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/scotland/ Attribution-Share Alike 2.5 UK: Scotland] усулуобуйатынан туһаныллар.',
 	'wm-license-cc-by-sa-2.5-se-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/se/ Attribution-Share Alike 2.5 Sweden] усулуобуйатынан туһаныллар.',
+	'wm-license-cc-by-sa-2.5-si-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/si/deed.en Attribution-Share Alike 2.5 Slovenia] усулуобуйатынан туһаныллар.',
 	'wm-license-gfdl-wiki-link' => 'w:sah:GFDL',
 	'wm-license-information-description' => 'Быһаарыыта',
 	'wm-license-information-source' => 'Хантан ылыллыбыта',
