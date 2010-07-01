@@ -234,6 +234,14 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
+/** Bahasa Banjar (Bahasa Banjar)
+ * @author Ezagren
+ */
+$messages['bjn'] = array(
+	'group-abusefilter' => 'Editor filter panyalahgunaan',
+	'group-bigexport' => 'Ikspurtir ganal',
+);
+
 /** Abkhazian (Аҧсуа)
  * @author Temuri rajavi
  */
