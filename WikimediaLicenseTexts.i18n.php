@@ -5734,7 +5734,10 @@ $messages['id'] = array(
 	'wm-license-cc-wiki-link' => 'w:id:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribut',
 	'wm-license-cc-by-1.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.id Attribution 1,0 Generic]',
-	'wm-license-cc-by-2.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.eid Attribution 2.0 Generic]',
+	'wm-license-cc-by-1.0-fi-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.id Atribusi 1.0 Finlandia]',
+	'wm-license-cc-by-1.0-il-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.id Atribusi 1.0 Israel]',
+	'wm-license-cc-by-1.0-nl-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.id Atribusi 1.0 Belanda]',
+	'wm-license-cc-by-2.0-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.id Atribusi 2.0 Generik]',
 	'wm-license-cc-by-2.5-text' => 'berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.id Attribution 2.5 Generik]',
 	'wm-license-cc-by-3.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported]',
 	'wm-license-cc-by-sa-1.0-text' => 'Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.id Attribution-Share Alike 1.0 Generic]',
@@ -12561,8 +12564,17 @@ $messages['yi'] = array(
 	'wm-license-information-permission' => 'דערלויבעניש',
 );
 
-/** Yoruba (Yorùbá) */
+/** Yoruba (Yorùbá)
+ * @author Demmy
+ */
 $messages['yo'] = array(
+	'wm-license-cc-free' => 'Ẹ ní ààyè:',
+	'wm-license-cc-free-to-share-header' => 'láti pín pẹ̀lú ẹlòmíràn',
+	'wm-license-cc-free-to-share-text' => 'láti ṣàwòkọ, pínkiri àti ṣàgbéká iṣẹ́ náà',
+	'wm-license-cc-free-to-remix-header' => 'láti túndàpọ̀',
+	'wm-license-cc-free-to-remix-text' => 'láti mulò mọ́ iṣẹ́ míràn',
+	'wm-license-cc-conditions' => 'Lábẹ́ àwọn àdéhùn wọ̀nyí:',
+	'wm-license-cc-conditions-attribution-header' => 'ìdárúkọ',
 	'wm-license-information-description' => 'Ìjúwe',
 	'wm-license-information-source' => 'Orísun',
 );
