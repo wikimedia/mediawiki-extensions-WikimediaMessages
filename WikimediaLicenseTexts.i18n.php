@@ -1696,6 +1696,10 @@ $messages['br'] = array(
 	'wm-license-lgpl-wiki-link' => 'w:br:Aotre-implijout Publik Hollek bevennet GNU',
 	'wm-license-original-upload-log' => 'Marilh orin ar pellgargadurioù',
 	'wm-license-own-work' => "Ho labour deoc'h",
+	'wm-license-self-one-license' => "Evel perc'henn eus ar gwirioù oberour, e embannan an oberenn-mañ dindan an aotre-implijout da-heul :",
+	'wm-license-self-one-license-with-author' => "$1, evel perc'henn eus ar gwirioù oberour, e embannan an oberenn-mañ dindan an aotre-implijout da-heul :",
+	'wm-license-self-multiple-licenses' => "Evel perc'henn eus ar gwirioù oberour, e embannan an oberenn-mañ dindan an aotreoù-implijout da-heul :",
+	'wm-license-self-multiple-licenses-with-author' => "$1, evel perc'henn eus ar gwirioù oberour, e embannan an oberenn-mañ dindan an aotreoù-implijout da-heul :",
 	'wm-license-self-multiple-licenses-select' => "Gallout a rit diuzañ an aotre-implijout a fell deoc'h.",
 );
 
@@ -2974,6 +2978,7 @@ $messages['diq'] = array(
 	'wm-license-information-permission-reusing-text' => 'Reyna sixulnayise ena dosya',
 	'wm-license-information-permission-see-below' => 'Cer bivine.',
 	'wm-license-information-other-versions' => 'Versiyonane binan',
+	'wm-license-lgpl-text' => "Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedava ya]]; ti eşkena ena dosya vila bike, ya zi vurne bine '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' ke cap bie pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ya versiyonê lisansê 2.1, ya zi versiyonê evelan (keyfe ti zani). Ma umid keni insallah ena vila kerdis herkes re feyda dano, '''ne yew garanti'''; belki hem zi pe yew '''ticari''' ya zi '''ser yew amacê sexsi'''. [{{int:wm-license-lgpl-2.1-full-link}} Versiyonê 2.1] bivini u [{{int:wm-license-gpl-3-full-link}} versiyonşê 3 ê GNU General Public License] de zaf detayan est ê.",
 	'wm-license-original-upload-log' => 'Loge bar kerdise bini',
 	'wm-license-own-work' => 'Virastisa mina',
 	'wm-license-self-one-license' => 'Ez, ke ena dosya viraste, bine ena lisans ser cap kena:',
