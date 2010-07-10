@@ -11050,10 +11050,12 @@ $messages['sli'] = array(
 );
 
 /** Albanian (Shqip)
+ * @author Mikullovci11
  * @author Multichill
  */
 $messages['sq'] = array(
 	'wm-license-cc-wiki-link' => 'w:sq:Creative Commons',
+	'wm-license-cc-attribution' => 'Atributim',
 	'wm-license-free-software-wiki-link' => 'w:sq:Program kompjuterik i lirë',
 	'wm-license-information-description' => 'Përshkrimi',
 	'wm-license-information-source' => 'Burimi',
