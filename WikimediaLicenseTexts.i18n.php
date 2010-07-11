@@ -2293,8 +2293,11 @@ $messages['cv'] = array(
 	'wm-license-information-source' => 'Çăлкуç',
 );
 
-/** Welsh (Cymraeg) */
+/** Welsh (Cymraeg)
+ * @author Lloffiwr
+ */
 $messages['cy'] = array(
+	'wikimedialicensetexts-desc' => 'Negeseuon trwyddedau Wikimedia',
 	'wm-license-fsf-wiki-link' => 'w:cy:Free Software Foundation',
 	'wm-license-gpl-wiki-link' => 'w:cy:Trwydded Gyhoeddus Gyffredinol GNU',
 	'wm-license-information-description' => 'Disgrifiad',
