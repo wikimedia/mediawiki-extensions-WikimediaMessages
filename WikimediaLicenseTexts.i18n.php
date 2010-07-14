@@ -1498,10 +1498,13 @@ $messages['bpy'] = array(
 /** Breton (Brezhoneg)
  * @author Fohanno
  * @author Fulup
+ * @author Kouign-amann
  * @author Y-M D
  */
 $messages['br'] = array(
 	'wikimedialicensetexts-desc' => 'Kemennadennoù aotreoù-implijout Wikimedia',
+	'wm-license-attribution-with-author-text' => "Reiñ a ra d'an holl piaouer gwirioù ar restr-mañ, $1, an aotre da implijout anezhañ '''evit kement mennad, mard''' eo meneget mat anv piaouer ar gwirioù. Aotreet eo addalc'hen, kemm, impjij kenwerzhel hag an holl implijoù all ar restr.",
+	'wm-license-attribution-without-author-text' => "Reiñ a ra d'an holl piaouer gwirioù ar restr-mañ, an aotre da implijout anezhañ '''evit kement mennad, mard''' eo meneget mat anv piaouer ar gwirioù. Aotreet eo addalc'hen, kemm, impjij kenwerzhel hag an holl implijoù all ar restr.",
 	'wm-license-cc-wiki-link' => 'w:br:Creative Commons',
 	'wm-license-cc-attribution' => 'Deroadenn',
 	'wm-license-cc-by-1.0-text' => 'Emañ ar restr-mañ dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Deroadenn 1.0 Hollek].',
@@ -8115,6 +8118,13 @@ $messages['mt'] = array(
 	'wm-license-cc-wiki-link' => 'w:mt:Creative Commons',
 	'wm-license-cc-attribution' => 'Attribuzzjoni',
 	'wm-license-cc-by-1.0-text' => 'Dan il-fajl huwa liċenzjat taħt il-liċenzja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.it Attribuzzjoni 1.0 Ġeneriku]',
+	'wm-license-cc-free' => 'Inti ħieles:',
+	'wm-license-cc-free-to-share-header' => 'li taqsam',
+	'wm-license-cc-free-to-share-text' => 'li tikkopja, tiddistribwixxi u tittrażmetti din l-opra',
+	'wm-license-cc-free-to-remix-header' => 'li timmodifika',
+	'wm-license-cc-free-to-remix-text' => 'li tadatta l-biċċa xogħol',
+	'wm-license-cc-conditions' => 'Taħt il-kundizzjonijiet segwenti:',
+	'wm-license-cc-conditions-attribution-header' => 'attribuzzjoni',
 	'wm-license-free-software-wiki-link' => 'w:mt:Softwer ħieles',
 	'wm-license-information-description' => 'Deskrizzjoni',
 	'wm-license-information-source' => 'Sors',
@@ -10325,16 +10335,23 @@ $messages['ru'] = array(
  */
 $messages['rue'] = array(
 	'wikimedialicensetexts-desc' => 'Ліценчны повідомлїня Вікімедіа',
+	'wm-license-cc-attribution' => 'Уведьте автора',
 	'wm-license-cc-by-1.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.rue Уведьте автора 1.0 Generic]',
 	'wm-license-cc-by-1.0-fi-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.rue Уведьте автора 1.0 Фіньско] .',
 	'wm-license-cc-by-1.0-il-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.rue Уведьте автора 1.0 Ізраіль]',
 	'wm-license-cc-by-1.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.rue Уведьте автора 1.0 Голандія]',
+	'wm-license-cc-free' => 'Можете слободно:',
+	'wm-license-cc-conditions-attribution-header' => 'узнаня авторства',
 	'wm-license-information-description' => 'Опис',
 	'wm-license-information-source' => 'Джерело',
+	'wm-license-information-source-missing' => "Тому файлу хыбить інформація о '''джерелу'''.",
 	'wm-license-information-date' => 'Датум',
 	'wm-license-information-author' => 'Автор',
+	'wm-license-information-author-missing' => "Тому файлу хыбить інформація о '''авторови'''.",
 	'wm-license-information-permission' => 'Права',
+	'wm-license-information-permission-see-below' => 'Видь ниже',
 	'wm-license-information-other-versions' => 'Іншы верзії',
+	'wm-license-own-work' => 'Властна робота',
 );
 
 /** Yakut (Саха тыла)
