@@ -2309,6 +2309,7 @@ $messages['eml'] = array(
 
 /** Esperanto (Esperanto)
  * @author Airon90
+ * @author ArnoLagrange
  * @author Marcos
  * @author Michawiki
  * @author Petrus Adamus
@@ -2335,7 +2336,7 @@ $messages['eo'] = array(
 	'group-founder' => 'Fondintoj',
 	'group-import' => 'Importantoj',
 	'group-interface_editors' => 'Interfacaj redaktantoj',
-	'group-ipblock-exempt' => 'Sendevigoj por IP-forbaroj',
+	'group-ipblock-exempt' => 'Ne submetita al IP-forbaro',
 	'group-patroller' => 'Patrolantoj',
 	'group-researcher' => 'Esplorantoj de forigitaĵoj',
 	'group-rollbacker' => 'Restarigantoj',
@@ -2354,7 +2355,7 @@ $messages['eo'] = array(
 	'group-founder-member' => 'Fondinto',
 	'group-import-member' => 'Importanto',
 	'group-interface_editors-member' => 'interfaca redaktanto',
-	'group-ipblock-exempt-member' => 'maldeviga de IP-forbaro',
+	'group-ipblock-exempt-member' => 'Ne submetita al IP-forbaro',
 	'group-patroller-member' => 'Patrolanto',
 	'group-researcher-member' => 'esploranto de forigitaĵoj',
 	'group-rollbacker-member' => 'Restariganto',
@@ -7015,13 +7016,17 @@ $messages['ps'] = array(
 	'group-filemover' => 'دوتنې لېږدونکي',
 	'group-flood' => 'د روباټ کارنان',
 	'group-founder' => 'بنسټګران',
+	'group-interface_editors' => 'د کتنمل سمونګران',
 	'group-accountcreator-member' => 'کارن-حساب جوړونکی',
 	'group-flood-member' => 'د روباټ کارن',
 	'group-founder-member' => 'بنسټګر',
+	'group-interface_editors-member' => 'د کتنمل سمونګر',
 	'grouppage-accountcreator' => '{{ns:project}}:کارن-حساب جوړونکي',
 	'grouppage-flood' => '{{ns:project}}:د روباټ کارنان',
 	'grouppage-founder' => '{{ns:project}}:بنسټګر',
+	'grouppage-interface_editors' => '{{ns:project}}:د کتنمل سمونګران',
 	'group-sysadmin' => 'د غونډال پازوالان',
+	'group-editinterface' => 'د کتنمل سمونګران',
 	'group-Global_sysops' => 'نړېوال پازوالان',
 	'group-Staff' => 'امله',
 	'group-sysadmin-member' => 'د غونډال پازوال',
