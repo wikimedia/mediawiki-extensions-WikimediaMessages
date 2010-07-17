@@ -1823,6 +1823,7 @@ $messages['da'] = array(
 	'group-autopatrolled-member' => 'autopatruljant',
 	'group-bigexport-member' => 'masse-eksportører',
 	'group-confirmed-member' => 'bekræftet bruger',
+	'group-editprotected-member' => 'redaktør af beskyttet side',
 	'group-filemover-member' => 'filflytter',
 	'group-flood-member' => 'bot-bruger',
 	'group-founder-member' => 'Grundlægger',
@@ -1838,9 +1839,11 @@ $messages['da'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruljanter',
 	'grouppage-bigexport' => '{{ns:project}}:Storeksportører',
 	'grouppage-confirmed' => '{{ns:project}}:Bekræftede brugere',
+	'grouppage-flood' => '{{ns:project}}:Botbrugere',
 	'grouppage-founder' => '{{ns:project}}:Grundlæggere',
 	'grouppage-import' => '{{ns:project}}:Importører',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-blokeringsundtagelser',
+	'grouppage-researcher' => '{{ns:project}}:Forskere',
 	'grouppage-rollbacker' => '{{ns:project}}:Tilbagerullere',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importører',
 	'group-steward' => 'Forvaltere',
@@ -3085,7 +3088,7 @@ $messages['frp'] = array(
 	'group-inactive-member' => 'Utilisator que fât ren du tot',
 	'grouppage-inactive' => '{{ns:project}}:Utilisators que font ren du tot',
 	'wikimedia-copyright' => 'Los tèxtos sont disponiblos desot <a href="http://creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;
-d’ôtres condicions pôvont s’aplicar.
+d’ôtres condicions sè pôvont aplicar.
 Vêde les <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">condicions d’usâjo</a> por més de dètalys.',
 	'wikimedia-copyrightwarning' => 'En cliquent dessus « Sôvar ceta pâge », vos accèptâd de placiér por de bon voutra contribucion desot [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions] et [http://www.gnu.org/copyleft/fdl.html licence de documentacion abada GNU (GFDL)].
 Vos accèptâd d’étre crèditâ per los rèutilisators u muens avouéc un lim hipèrtèxto ou ben una URL de vers la pâge sur laquinta vos contribuâd.
@@ -4245,6 +4248,7 @@ $messages['ia'] = array(
 
 /** Indonesian (Bahasa Indonesia)
  * @author Bennylin
+ * @author Farras
  * @author Irwangatot
  * @author IvanLanin
  * @author Kenrick95
@@ -4263,11 +4267,15 @@ $messages['id'] = array(
 	'group-autoreviewer' => 'Autotinjau',
 	'group-bigexport' => 'Eksportir besar',
 	'group-confirmed' => 'Pengguna terkonfirmasi',
+	'group-editprotected' => 'Penyunting halaman yang terlindungi',
+	'group-filemover' => 'Pemindah berkas',
 	'group-flood' => 'Pengguna bot',
 	'group-founder' => 'Pendiri',
 	'group-import' => 'Importir',
+	'group-interface_editors' => 'Penyunting antarmuka',
 	'group-ipblock-exempt' => 'Pengecualian pemblokiran IP',
 	'group-patroller' => 'Pematroli',
+	'group-researcher' => 'Peneliti',
 	'group-rollbacker' => 'Pengembali revisi',
 	'group-transwiki' => 'Importir transwiki',
 	'group-trusted' => 'Pengguna tepercaya',
@@ -4278,24 +4286,33 @@ $messages['id'] = array(
 	'group-autoreviewer-member' => 'autotinjau',
 	'group-bigexport-member' => 'eksportir besar',
 	'group-confirmed-member' => 'pengguna terkonfirmasi',
+	'group-editprotected-member' => 'penyunting halaman terlindungi',
+	'group-filemover-member' => 'pemindah berkas',
 	'group-flood-member' => 'pengguna bot',
 	'group-founder-member' => 'Pendiri',
 	'group-import-member' => 'Importir',
+	'group-interface_editors-member' => 'penyunting antarmuka',
 	'group-ipblock-exempt-member' => 'Pengecualian pemblokiran IP',
 	'group-patroller-member' => 'Pematroli',
+	'group-researcher-member' => 'peneliti',
 	'group-rollbacker-member' => 'Pengembali revisi',
 	'group-transwiki-member' => 'Importir transwiki',
 	'group-trusted-member' => 'pengguna tepercaya',
 	'grouppage-abusefilter' => '{{ns:project}}:Editor filter penyalahgunaan',
 	'grouppage-accountcreator' => '{{ns:project}}:Pembuat akun',
+	'grouppage-arbcom' => '{{ns:project}}:Anggota komite arbitrasi',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patroli otomatis',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autotinjau',
 	'grouppage-bigexport' => '{{ns:project}}:Eksportir besar',
 	'grouppage-confirmed' => '{{ns:project}}:Pengguna terkonfirmasi',
+	'grouppage-editprotected' => '{{ns:project}}:Penyunting halaman terlindungi',
+	'grouppage-filemover' => '{{ns:project}}:Pemindah berkas',
 	'grouppage-flood' => '{{ns:project}}:Pengguna bot',
 	'grouppage-founder' => '{{ns:project}}:Pendiri',
 	'grouppage-import' => '{{ns:project}}:Importir',
+	'grouppage-interface_editors' => '{{ns:project}}:Penyunting antarmuka',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Pengecualian pemblokiran IP',
+	'grouppage-researcher' => '{{ns:project}}:Peneliti',
 	'grouppage-rollbacker' => '{{ns:project}}:Pengembali revisi',
 	'grouppage-transwiki' => '{{ns:project}}:Importir transwiki',
 	'grouppage-trusted' => '{{ns:project}}:Pengguna tepercaya',
