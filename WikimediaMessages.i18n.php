@@ -5298,8 +5298,8 @@ $messages['lb'] = array(
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
 	'group-inactive-member' => 'net aktive Benotzer',
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
-	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizens</a>; zousätzlech Bedingunge kënnen applicabel sinn.
-Kuckt <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Notzungsbedingungen</a> fir méi Detailer.',
+	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
+Kuckt <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
 	'wikimedia-copyrightwarning' => "Wann Dir ofspäichert, sidd Dir domat d'accord fir Äre Beitrag ënnert der [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [http://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
 Dir sidd d'accord datt Dir vun deenen déi dëst weiderbenotzen, mindestens, duerch en Hyperlink oder URL op déi Säit op däer Dir matschafft honoréiert gitt.
 Kuckt d'[http://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] fir méi Detailer.",
