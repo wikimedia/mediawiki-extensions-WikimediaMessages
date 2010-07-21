@@ -41,9 +41,10 @@ function efWikimediaEditPageCopyrightWarning( $title, &$msg ) {
 	return true;
 }
 
-function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
+function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link, &$forContent ) {
 	if( $type != 'history' ) {
 		$msg = 'wikimedia-copyright';
+		$forContent = false;
 	}
 	return true;
 }
