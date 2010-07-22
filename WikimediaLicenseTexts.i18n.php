@@ -9653,6 +9653,7 @@ $messages['pms'] = array(
 	'wm-license-information-other-versions' => 'Àutre version',
 	'wm-license-lgpl-text' => "Ës document-sì a l'é [[{{int:wm-license-free-software-wiki-link}}|programa lìber]]; a peul ridistribuilo e/o modifichelo sota ij termo ëd la '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Licensa pùblica general limità]]''' com publicà da la [[{{int:wm-license-fsf-wiki-link}}|Fondassion për ij programa lìber]]; version 2.1 ëd la Licensa, o (a sò giudissi) qualsëssìa version pi neuva. Ës document a l'é distribuì ant la speransa ch'a sia ùtil, ma '''sensa gnun-a garansìa'''; sensa gnanca la garansìa ëd '''comerciabilità''' o ëd '''servissi për un but particolar'''. Vardé [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] e [{{int:wm-license-lgpl-3-full-link}} version 3 ëd la GNU Licensa pùblica general limità] për savèjne ëd pi.",
 	'wm-license-lgpl-wiki-link' => 'w:en:GNU Licensa pùblica general limità',
+	'wm-license-licensing-update-text' => "Sta tichëtta ëd licensa a l'é stàita giontà a cost archivi com part ëd la [[{{int:wm-license-licensing-update-wiki-link}}|modìfica ëd licensa]] ëd GFDL.",
 	'wm-license-original-upload-log' => 'Registr ëd la caria original',
 	'wm-license-own-work' => 'Travaj pròpi',
 	'wm-license-self-one-license' => "Mi, padron dij drit d'autor dë sto travaj-sì, i lo pùblico ambelessì sota la licensa sì-sota:",
@@ -13655,6 +13656,7 @@ $messages['zh-hans'] = array(
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
+ * @author Frankou
  * @author Horacewai2
  * @author Multichill
  */
@@ -13839,8 +13841,8 @@ $messages['zh-hant'] = array(
 	'wm-license-fal-text' => "Copyleft：本藝術作品是自由的。你可據'''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''（自由藝術授權協議）的條款再發行和/或修改它。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude網站]或其他網站找到該協議的樣本。",
 	'wm-license-gfdl-1.2-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權協議]]'''1.2版或任一後續版本條款，複製、分發和/或修改本文件。協議副本包含在題為[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]的部分中。",
 	'wm-license-gfdl-1.2-only' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權協議]]'''1.2版條款，複製、分發和/或修改本文件。協議副本包含在題為''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''的部分中。",
-	'wm-license-gfdl-1.3-and-later' => "你被授權遵循[[{{int:wm-license-gdfl-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權協議]]'''1.3版或任一後續版本條款，複製、分發和/或修改本文件。協議副本包含在題為[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]的部分中。",
-	'wm-license-gfdl-1.3-only' => "你被授權遵循[[{{int:wm-license-gdfl-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權協議]]'''1.3版本條款 (不包括後續條款)，複製、分發和/或修改本文件。協議副本包含在題為[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]的部分中。",
+	'wm-license-gfdl-1.3-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權協議]]'''1.3版或任一後續版本條款，複製、分發和/或修改本文件。協議副本包含在標題為[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]的部分中。",
+	'wm-license-gfdl-1.3-only' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權協議]]'''1.3版本條款 (不包括後續條款)，複製、分發和/或修改本文件。協議副本包含在標題為[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]的部分中。",
 	'wm-license-gpl-text' => "本作品為[[{{int:wm-license-free-software-wiki-link}}|自由軟件]]；您可依據[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]所發表的'''[[{{int:wm-license-gpl-wiki-link}}|GNU通用公共許可證]]'''，就本作品再為發布與／或修改；無論您依據的是本授權的第二版或（您自行選擇的）任一日後發行的版本。本作品是基於使用目的而加以發布，然而'''不負任何擔保責任'''；亦無對'''適售性'''或'''特定目的適用性'''所為的默示性擔保。詳情請參照GNU通用公共許可證[{{int:wm-license-gpl-2-full-link}} 第二版]和[{{int:wm-license-gpl-3-full-link}} 第三版]。",
 	'wm-license-information-table-summary' => '提供本文件完整信息的標準表格，包括本文件的展示內容和製作方法的描述，著作權狀況和來源。',
 	'wm-license-information-description' => '描述',
@@ -13858,6 +13860,7 @@ $messages['zh-hant'] = array(
 	'wm-license-information-permission-see-below' => '如下。',
 	'wm-license-information-other-versions' => '其他版本',
 	'wm-license-lgpl-text' => "本作品為[[{{int:wm-license-free-software-wiki-link}}|自由軟件]]；您可依據[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]所發表的 '''[[{{int:wm-license-lgpl-wiki-link}}|GNU寬通用公共許可證]]'''，就本作品再為發布與／或修改；無論您依據的是本許可證的2.1版或（您自行選擇的）任一日後發行的版本。本作品是基於使用目的而加以發布，然而'''不負任何擔保責任'''；亦無對'''適售性 '''或'''特定目的適用性'''所為的默示性擔保。詳情請參照GNU寬通用公共許可證[{{int:wm-license-lgpl-2.1-full-link}} 2.1版]和[{{int:wm-license-lgpl-3-full-link}} 第3版]。",
+	'wm-license-licensing-update-text' => '這個許可標籤被添加到這個文件GFDL協議的一部分[[{{int:wm-license-licensing-update-wiki-link}}|更新協議]]。',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/zh-hant',
 	'wm-license-original-upload-log' => '原始上傳日誌',
 	'wm-license-own-work' => '上載者自己的作品',
