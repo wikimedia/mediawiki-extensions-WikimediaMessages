@@ -9997,10 +9997,14 @@ $messages['yi'] = array(
  * @author Demmy
  */
 $messages['yo'] = array(
+	'wikimediamessages-desc' => 'Àwọn ìránṣẹ́ Wikimedia nìkan',
 	'sitesupport' => 'Ṣe ìgbọ̀wọ́',
 	'tooltip-n-sitesupport' => 'Tíwálẹ́yìn',
 	'wikimedia-copyright' => 'Gbogbo ìkọ wà lábẹ́ <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn tún wà.
 Ẹ wo <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.',
+	'wikimedia-copyrightwarning' => 'Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] àti [http://www.gnu.org/copyleft/fdl.html GFDL].
+Ẹ gbà kí àwọn olùtúnlò míràn, o kéréjù pelú ìjápò tàbí URL sí ojúewé tí ẹ ṣàfikún sí, pe kí wọn ó dárúkọ yín.
+Ẹ wo [http://wikimediafoundation.org/wiki/Terms_of_Use Àwọn Ọ̀rọ̀ Àdéhùn Ìlò] fún ẹ̀kúnrẹ́rẹ́.',
 );
 
 /** Cantonese (粵語)

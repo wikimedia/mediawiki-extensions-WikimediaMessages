@@ -904,7 +904,9 @@ $messages['ba'] = array(
 	'wm-license-information-source' => 'Сығанаҡ',
 );
 
-/** Bavarian (Boarisch) */
+/** Bavarian (Boarisch)
+ * @author Multichill
+ */
 $messages['bar'] = array(
 	'wm-license-fsf-wiki-link' => 'w:bar:Free Software Foundation',
 	'wm-license-information-table-summary' => 'A standardisierte Tabelln mit vollständige Informationa zua dea Datei, a Beschreibung, was sie zoagt und wia und vo wem sie erstellt worn is, Urhebarechtsinformationa und Quelln.',
@@ -912,6 +914,7 @@ $messages['bar'] = array(
 	'wm-license-information-description-missing' => "Des Bild håt koa '''Beschreibung''' oda es fehln wichtige Informationa.",
 	'wm-license-information-description-missing-request' => "Bilder solltn a Zusammenfassung hom, die andere Leit üba Inhålt, Quelle und wenns geht ubas Datum informiern. Wenn du etwas davo woaßt oda Zugang zu solchn Informationa host, füge 's bitteschön zua Bildbeschreibungsseitn dahinzu.",
 	'wm-license-information-source' => 'Quelle',
+	'wm-license-information-source-missing' => "Die Datei håt koane '''Quelln'''.",
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Urheba',
 	'wm-license-information-author-missing' => "Diesa Datei fehln Angåbn zum '''Autor'''.",
@@ -3160,6 +3163,8 @@ $messages['el'] = array(
 	'wm-license-information-description-missing' => "Αυτό το αρχείο δεν έχει '''περιγραφή''', και μπορεί να του λείπουν κι άλλες πληροφορίες.",
 	'wm-license-information-description-missing-request' => 'Παρακαλούμε προσθέστε μια επεξηγηματική περιγραφή του αρχείου.',
 	'wm-license-information-source' => 'Πηγή',
+	'wm-license-information-source-missing' => "Αυτό το αρχείο δεν έχει πληροφορίες σχετικά με την '''πηγή''' του. Παρακαλούμε, προσθέστε τις απαραίτητες πληροφορίες για την προέλευσή του στη σελίδα περιγραφής του.",
+	'wm-license-information-source-missing-request' => "'''Αρχεία χωρίς πληροφορίες για την πηγή τους υπάρχει περίπτωση να διαγραφούν.'''",
 	'wm-license-information-date' => 'Ημερομηνία',
 	'wm-license-information-author' => 'Δημιουργός',
 	'wm-license-information-author-missing' => "Αυτό το αρχείο δεν έχει πληροφορίες σχετικά με το '''δημιουργό''' του. Παρακαλούμε, προσθέστε τις σχετικές πληροφορίες στη σελίδα περιγραφής του αρχείου.",
@@ -3957,6 +3962,7 @@ $messages['eu'] = array(
 	'wm-license-information-description-missing-request' => 'Mesedez eskaini ezazu fitxategiaren deskribapen argigarri bat.',
 	'wm-license-information-source' => 'Jatorria',
 	'wm-license-information-source-missing' => "Fitxategiak ez du '''jatorriaren''' inguruko informaziorik.",
+	'wm-license-information-source-missing-request' => 'Mesedez aldatu deskribapena eta gehitu iturri bat.',
 	'wm-license-information-date' => 'Data',
 	'wm-license-information-author' => 'Egilea',
 	'wm-license-information-author-missing' => "Fitxategi honi '''egile'''ari buruzko informazioa falta zaio.",
@@ -5313,6 +5319,7 @@ $messages['hsb'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Dyrbiš dźěło na wašnje připokazać, kotrež je awtor abo licencowar podał (ale nic na wašnje, kotrež da tukać, zo wón tebje abo twoje wužiwanje dźěła schwala).',
 	'wm-license-cc-conditions-share_alike-header' => 'dźělić',
 	'wm-license-cc-conditions-share_alike-text' => 'Jeli tute dźěło měnješ, přetworjuješ abo na njo natwarješ, móžeš hotowe dźěło jenož pod samsnej abo podobnej licencu kaž tuta rozšěrić.',
+	'wm-license-information-table-summary' => 'standardizowana tabela, kotraž dospołne informacije wo dataji dodawa, inkluziwnje wopisanje wo tym, štož pokazuje a kak je so wutworiła, status awtorskeho prawa a žórło.',
 	'wm-license-information-description' => 'Wopis',
 	'wm-license-information-description-missing' => "Tuta dataja nima '''wopisanje''' a pobrachuja snano tež druhe informacije.",
 	'wm-license-information-description-missing-request' => 'Prošu podaj zmysłapołne wopisanje tuteje dataje.',
@@ -5326,6 +5333,7 @@ $messages['hsb'] = array(
 	'wm-license-information-permission-reusing-text' => 'Dalewužiwanje tuteje dataje',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Druhe wersije tuteje dataje',
+	'wm-license-licensing-update-text' => 'Tuta licencna marka je so tutej dataji jako dźěl [[{{int:wm-license-licensing-update-wiki-link}}|licencneje aktualizacije]] přidała.',
 	'wm-license-original-upload-log' => 'Originalny protokol nahraćow',
 	'wm-license-own-work' => 'Swójske dźěło',
 	'wm-license-self-one-license' => 'Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacej licencu:',
@@ -5540,7 +5548,9 @@ $messages['hu'] = array(
 	'wm-license-self-multiple-licenses-select' => 'A mű a fenti licencek bármelyike szerint felhasználható.',
 );
 
-/** Armenian (Հայերեն) */
+/** Armenian (Հայերեն)
+ * @author Multichill
+ */
 $messages['hy'] = array(
 	'wm-license-fal-wiki-link' => 'w:hy:Ազատ արվեստ արտոնագիր',
 	'wm-license-fsf-wiki-link' => 'w:hy:Ազատ ծրագրային ապահովման հիմնադրամ',
@@ -5560,6 +5570,11 @@ $messages['hy'] = array(
 	'wm-license-information-other-versions' => 'Այլ մեկնակերպներ',
 	'wm-license-licensing-update-text' => 'Այս լիցենզավորվածության հատկանիշը ավելացված է տվյալ ֆայլին որպես GFDL [[{{int:wm-license-licensing-update-wiki-link}}|լիցենզիայի բարեփոխում]]:',
 	'wm-license-own-work' => 'Բեռնողի սեփական աշխատանք',
+	'wm-license-self-one-license' => 'Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիայի պայմաններով',
+	'wm-license-self-one-license-with-author' => '$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիայի պայմաններով',
+	'wm-license-self-multiple-licenses' => 'Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիաների պայմաններով',
+	'wm-license-self-multiple-licenses-with-author' => '$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիաների պայմաններով',
+	'wm-license-self-multiple-licenses-select' => 'Դուք կարող եք ընտրել յուրաքանչուրը այս լիցենզիաներից.',
 );
 
 /** Interlingua (Interlingua)
@@ -12069,12 +12084,16 @@ $messages['tg-latn'] = array(
 );
 
 /** Thai (ไทย)
+ * @author Harley Hartwell
  * @author Horus
  * @author Multichill
  */
 $messages['th'] = array(
 	'wikimedialicensetexts-desc' => 'ข้อความสัญญาอนุญาตวิกิมีเดีย',
+	'wm-license-attribution-with-author-text' => "$1 ซึ่งเป็นผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไปใช้'''",
+	'wm-license-attribution-without-author-text' => "ผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไป ใช้'''",
 	'wm-license-cc-wiki-link' => 'w:th:ครีเอทีฟคอมมอนส์',
+	'wm-license-cc-attribution' => 'การแสดงที่มา',
 	'wm-license-cc-free' => 'คุณมีเสรีภาพ :',
 	'wm-license-cc-free-to-share-header' => 'ที่จะแบ่งปัน',
 	'wm-license-cc-free-to-share-text' => 'ที่จะทำสำเนา แจกจ่าย และส่งงานดังกล่าวต่อไป',
@@ -12089,20 +12108,30 @@ $messages['th'] = array(
 	'wm-license-free-software-wiki-link' => 'w:th:ซอฟต์แวร์เสรี',
 	'wm-license-gfdl-wiki-link' => 'w:th:สัญญาอนุญาตเอกสารเสรีของกนู',
 	'wm-license-gpl-wiki-link' => 'w:th:สัญญาอนุญาตสาธารณะทั่วไปของกนู',
+	'wm-license-information-table-summary' => 'ตารางมาตรฐาน สำหรับให้ข้อมูลทั้งหมดเกี่ยวกับไฟล์ เช่น สิ่งที่อยู่ในภาพ วิธีการสร้างสรรค์งาน แหล่งที่มาและสถานะลิขสิทธิ์',
 	'wm-license-information-description' => 'คำอธิบายภาพ',
 	'wm-license-information-description-missing' => "ภาพหรือสื่อนี้ขาด'''คำอธิบาย'''ภาพหรือสื่อ และอาจขาดข้อมูลอื่น ๆ ด้วย",
 	'wm-license-information-description-missing-request' => 'กรุณาช่วยเพิ่มคำอธิบายที่มีความหมายชัดเจนลงบนภาพหรือสื่อนี้',
 	'wm-license-information-source' => 'แหล่งที่มา',
+	'wm-license-information-source-missing' => "ภาพหรือสื่อนี้ไม่ได้ระบุ'''แหล่งที่มา'''",
+	'wm-license-information-source-missing-request' => 'กรุณาแก้ไขคำอธิบายภาพหรือสื่อนี้ และระบุแหล่งที่มาให้ชัดเจน',
 	'wm-license-information-date' => 'วันที่สร้างสรรค์',
 	'wm-license-information-author' => 'ผู้สร้างสรรค์',
-	'wm-license-information-author-missing' => "ภาพหรือสื่อนี้ขาดข้อมูลเกี่ยวกับ '''ผู้สร้างสรรค์ผลงาน'''<br />กรุณาแก้ไขภาพหรือสื่อนี้และระบุผู้สร้างสรรค์ผลงานให้ชัดเจน",
+	'wm-license-information-author-missing' => "ภาพหรือสื่อนี้ขาดข้อมูลเกี่ยวกับ '''ผู้สร้างสรรค์ผลงาน'''",
 	'wm-license-information-permission' => 'สัญญาอนุญาต',
+	'wm-license-information-permission-reusing-text' => 'การนำไฟล์นี้ไปใช้',
 	'wm-license-information-permission-see-below' => 'ดูด้านล่าง',
 	'wm-license-information-other-versions' => 'เวอร์ชันอื่น',
+	'wm-license-lgpl-text' => "ไำลบรารีนี้เป็น [[{{int:wm-license-free-software-wiki-link}}|ซอฟต์แวร์เสรี]] คุณสามารถแจกจ่าย ทำซ้ำ และดัดแปลงแก้ไขได้ภายใต้เงื่อนไขของ '''[[{{int:wm-license-lgpl-wiki-link}}|สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู]] (GNU Lesser General Public License)''' ตามที่เผยแพร่โดย [[{{int:wm-license-fsf-wiki-link}}|มูลนิธิซอฟต์แวร์เสรี]] ในรุ่น 2.1 หรือรุ่นใด ๆ ที่ใหม่กว่านี้ตามที่คุณเลือก แม้ว่าผลงานนี้มีการแจกจ่ายโดยหวังว่าจะเป็นประโยชน์ต่อไป แต่จะไม่มีการรับประกันใด ๆ ทั้งสิ้น รวมถึง '''การรับประกันเพื่อการค้า''' หรือ '''การรับประกันอย่างเหมาะสมสำหรับวัตถุประสงค์เฉพาะ''' ดูเพิ่มที่ ข้อความในสัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู [{{int:wm-license-lgpl-2.1-full-link}} รุ่น 2.1] และ [{{int:wm-license-lgpl-3-full-link}} รุ่น 3]",
 	'wm-license-lgpl-wiki-link' => 'w:th:สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู',
 	'wm-license-licensing-update-text' => 'ป้ายแสดงสถานะลิขสิทธิ์นี้ถูกเพิ่มเพื่อให้เป็นไปตาม[[{{int:wm-license-licensing-update-wiki-link}}|การเปลี่ยนแปลงสัญญาอนุญาตของมูลนิธิวิกิมีเดีย]] จาก GFDL ไปยัง GFDL ควบคู่กับ CC-BY-SA 3.0',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/th',
+	'wm-license-original-upload-log' => 'บันทึกการอัพโหลด',
 	'wm-license-own-work' => 'งานของผู้อัปโหลดเอง',
+	'wm-license-self-one-license' => 'ข้าพเจ้า ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้',
+	'wm-license-self-one-license-with-author' => '$1 ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้',
+	'wm-license-self-multiple-licenses' => 'ข้าพเจ้า ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้',
+	'wm-license-self-multiple-licenses-with-author' => '$1 ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้  อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้',
 	'wm-license-self-multiple-licenses-select' => 'คุณสามารถเลือกเงื่อนไขลิขสิทธิ์ที่คุณต้องการได้',
 );
 
@@ -12879,6 +12908,7 @@ $messages['uk'] = array(
 	'wm-license-information-permission-see-below' => 'див. нижче',
 	'wm-license-information-other-versions' => 'Інші версії',
 	'wm-license-lgpl-wiki-link' => 'w:uk:GNU Lesser General Public License',
+	'wm-license-licensing-update-text' => 'Цей шаблон ліцензування був доданий до файлу в рамках [[{{int:wm-license-licensing-update-wiki-link}}|оновлення ліцензії]] GFDL.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/uk',
 	'wm-license-original-upload-log' => 'Оригінальний журнал завантажень',
 	'wm-license-own-work' => 'Власна робота',
@@ -13299,6 +13329,47 @@ $messages['yi'] = array(
  * @author Demmy
  */
 $messages['yo'] = array(
+	'wm-license-attribution-with-author-text' => 'Ẹni tó ni ẹ̀tọ́ àwòkọ fáìlì yìí, $1, gba ẹnikẹ́ni ní ààyè láti lòó fún ohunkóhun, lábẹ́ àdéhùn pé ẹni tó ni ẹ̀tọ́ àwòkọ yìí yíò jẹ́ dídálórúkọ bóbáṣẹyẹ. Ìtúnpínkiri, àtúnṣe sí, ìlò fún títà, àti gbogbo ọ̀nà ìlò mìràn jẹ́ gbígbà ní ààyè.',
+	'wm-license-attribution-without-author-text' => 'Ẹni tó ni ẹ̀tọ́ àwòkọ fáìlì yìí gba ẹnikẹ́ni ní ààyè láti lòó fún ohunkóhun, lábẹ́ àdéhùn pé ẹni tó ni ẹ̀tọ́ àwòkọ yìí yíò jẹ́ dídálórúkọ bóbáṣẹyẹ. Ìtúnpínkiri, àtúnṣe sí, ìlò fún títà, àti gbogbo ọ̀nà ìlò mìràn jẹ́ gbígbà ní ààyè.',
+	'wm-license-cc-attribution' => 'Ìdálórúkọ',
+	'wm-license-cc-by-1.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/1.0/deed.en Ìdálórúkọ 1.0 Gbogbogbò].',
+	'wm-license-cc-by-1.0-fi-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/1.0/fi/deed.en Ìdálórúkọ 1.0 Fínlándì].',
+	'wm-license-cc-by-1.0-il-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/1.0/il/deed.en Ìdálórúkọ 1.0 Ísráẹ́lì].',
+	'wm-license-cc-by-2.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/deed.en Ìdálórúkọ 2.0 Gbogbogbò].',
+	'wm-license-cc-by-2.0-be-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/be/deed.en Ìdálórúkọ 2.0 Bẹ́ljíọ̀m].',
+	'wm-license-cc-by-2.0-br-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/br/deed.en Ìdálórúkọ 2.0 Brasil].',
+	'wm-license-cc-by-2.0-ca-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/ca/deed.en Ìdálórúkọ 2.0 Kánádà].',
+	'wm-license-cc-by-2.0-de-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/de/deed.en Ìdálórúkọ 2.0 Jẹ́mánì].',
+	'wm-license-cc-by-2.0-es-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/es/deed.en Ìdálórúkọ 2.0 Spéìn].',
+	'wm-license-cc-by-2.0-hr-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/hr/deed.en Ìdálórúkọ 2.0 Kroatíà].',
+	'wm-license-cc-by-2.0-it-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/it/deed.en Ìdálórúkọ 2.0 Itálíà].',
+	'wm-license-cc-by-2.0-kr-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/kr/deed.en Ìdálórúkọ 2.0 Kòréà].',
+	'wm-license-cc-by-2.0-uk-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/uk/deed.en Ìdálórúkọ 2.0 Ilẹ̀ọba Onípíparapọ̀: Ilẹ̀gẹ̀ẹ́sì & Wélsì].',
+	'wm-license-cc-by-2.1-es-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.1/es/deed.en Ìdálórúkọ 2.1 Spéìn].',
+	'wm-license-cc-by-2.5-br-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.5/br/deed.en Ìdálórúkọ 2.5 Brasil].',
+	'wm-license-cc-by-2.5-co-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.5/co/deed.en Ìdálórúkọ 2.5 Kòlómbìà].',
+	'wm-license-cc-by-2.5-za-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by/2.0/br/za/deed.en Ìdálórúkọ 2.5 Gúúsù Áfríkà].',
+	'wm-license-cc-by-sa-1.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by-sa/1.0/deed.en Ìdálórúkọ-Share Alike 1.0 Gbogbogbò].',
+	'wm-license-cc-by-sa-2.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/licenses/by-sa/2.0/deed.en Ìdálórúkọ-Share Alike 2.0 Gbogbogbò].',
 	'wm-license-cc-free' => 'Ẹ ní ààyè:',
 	'wm-license-cc-free-to-share-header' => 'láti pín pẹ̀lú ẹlòmíràn',
 	'wm-license-cc-free-to-share-text' => 'láti ṣàwòkọ, pínkiri àti ṣàgbéká iṣẹ́ náà',
