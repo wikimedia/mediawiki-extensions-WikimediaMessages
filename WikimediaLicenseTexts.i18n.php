@@ -229,9 +229,9 @@ $messages['en'] = array(
 	'wm-license-original-upload-log' => 'Original upload log',
 	'wm-license-own-work' => 'Own work',
 	'wm-license-self-one-license' => 'I, the copyright holder of this work, hereby publish it under the following license:',
-	'wm-license-self-one-license-with-author' => '$1, the copyright holder of this work, hereby publish it under the following license:',
+	'wm-license-self-one-license-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following license:',
 	'wm-license-self-multiple-licenses' => 'I, the copyright holder of this work, hereby publish it under the following licenses:',
-	'wm-license-self-multiple-licenses-with-author' => '$1, the copyright holder of this work, hereby publish it under the following licenses:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licenses:',
 	'wm-license-self-multiple-licenses-select' => 'You may select the license of your choice.',
 );
 
