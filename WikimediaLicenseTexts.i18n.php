@@ -3818,7 +3818,7 @@ $messages['et'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'omistamine',
 	'wm-license-cc-conditions-attribution-text' => 'Pead viitama teosele autori või litsentsiandja määratud tingimustel, aga mitte nii nagu nad toetaks sind või seda, et sina teost kasutad.',
 	'wm-license-cc-conditions-share_alike-header' => 'sarnaselt jagamine',
-	'wm-license-cc-conditions-share_alike-text' => 'Kui lood selle teose põhjal teisendi, tohid tulemuseks olevat teost levitada ainult samasuguse või sarnase litsenti all.',
+	'wm-license-cc-conditions-share_alike-text' => 'Kui lood selle teose põhjal teisendi, tohid tulemuseks olevat teost levitada ainult samasuguse või sarnase litsentsi all.',
 	'wm-license-cecill-text' => 'See teos on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-is seatud tingimustele. Litsentsi CeCILL tingimused on leitavad võrguaadressil [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fal-text' => 'See kunstiteos on vaba. Sa võid vastavalt [[{{int:wm-license-fal-wiki-link}}|Vaba Kunsti Litsentsis]] seatud tingimustele seda taaslevitada ja/või selle põhjal teisendeid luua.<br />
 Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin].',
@@ -3989,6 +3989,7 @@ $messages['ext'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Ebraminio
  * @author Huji
  * @author Mardetanha
  * @author Multichill
@@ -3997,6 +3998,24 @@ $messages['fa'] = array(
 	'wikimedialicensetexts-desc' => 'پیام های ویکیمدیا در ارتباط با گواهینامه',
 	'wm-license-cc-wiki-link' => 'w:fa:کرییتیو کامانز',
 	'wm-license-cc-attribution' => 'مجوز',
+	'wm-license-cc-by-1.0-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] منتشر شده‌است.',
+	'wm-license-cc-by-1.0-fi-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] منتشر شده‌است',
+	'wm-license-cc-by-1.0-il-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] منتشر شده‌است.',
+	'wm-license-cc-by-1.0-nl-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-at-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-au-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/au/ Attribution 2.0 Australia] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-be-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-br-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/br/ Attribution 2.0 Brazil] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-ca-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/ca/ Attribution 2.0 Canada] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-cl-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/cl/ Attribution 2.0 Chile] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-de-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/de/ Attribution 2.0 Germany] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-es-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/es/ Attribution 2.0 Spain] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-fr-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/fr/ Attribution 2.0 France] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-hr-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/hr/ Attribution 2.0 Croatia] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-it-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/it/ Attribution 2.0 Italy] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-jp-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/jp/ Attribution 2.0 Japan] منتشر شده‌است.',
+	'wm-license-cc-by-2.0-kr-text' => 'این پرونده با اجازه‌نامه [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/2.0/kr/ Attribution 2.0 Korea] منتشر شده‌است.',
 	'wm-license-cc-free' => 'شما اجازه دارید :',
 	'wm-license-cc-conditions' => 'تحت شرایط زیر :',
 	'wm-license-fsf-wiki-link' => 'w:fa:بنیاد نرم‌افزارهای آزاد',
@@ -4958,6 +4977,7 @@ $messages['gsw'] = array(
 	'wm-license-information-other-versions' => 'Anderi Versione',
 	'wm-license-lgpl-text' => "Die Bibliotek isch [[{{int:wm-license-free-software-wiki-link}}|freji Software]]; Du chasch si wyterverbeite un/oder abändere unter dr Bedingige vu dr '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public-Lizänz]]''' wie si vereffentligt isch vu dr [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; Version 2.1 vu dr Lizänz oder (no Dyyre Wahl) e speteri Version. Die Bibliotek isch verbreitet wore in dr Hoffnig, ass si nitzlig isch, aber s bstoht '''kei Gwährleischtig''' nit uusdricklig un nit implizit, au nit di implizit Gwährleischtig ass si '''märtgängig''' isch oder '''cha brucht wäre fir e bstimmte Zwäck'''. Lueg d [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] un d [{{int:wm-license-lgpl-3-full-link}} Version 3 vu dr GNU Lesser General Public-Lizänz] fir meh Informatione.",
 	'wm-license-lgpl-wiki-link' => 'w:als:GNU Lesser General Public License',
+	'wm-license-licensing-update-text' => 'Die Lizänzmarkierig isch wäg em GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizänzupdate]] zuegfiegt wore.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/gsw',
 	'wm-license-original-upload-log' => 'Orginal Logbuech vu uffegladene Datei',
 	'wm-license-own-work' => 'Eigeni Arbet',
@@ -5918,7 +5938,7 @@ $messages['id'] = array(
 	'wm-license-cc-by-sa-2.1-es-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.id Atribusi-Berbagi Serupa 2.1 Spanyol].',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.id Atribusi-Berbagi Serupa 2.1 Jepang].',
 	'wm-license-cc-by-sa-2.5-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.id Atribusi-Berbagi Serupa 2.5 Generik]',
-	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribusi-Berbagi Serupa [http://creativecommons.org/licenses/by-sa/2.5/deed.id 2.5 Generik], [http://creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 Generik] dan [http://creativecommons.org/licenses/by-sa/1.0/deed.id 1.0 Generik].',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribusi-Berbagi Serupa [http://creativecommons.org/licenses/by-sa/2.5/deed.id 2.5 Generik], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generik] dan [http://creativecommons.org/licenses/by-sa/1.0/deed.id 1.0 Generik].',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.id Atribusi-Berbagi Serupa 2.5 Argentina].',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.id Atribusi-Berbagi Serupa 2.5 Australia].',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.id Atribusi-Berbagi Serupa 2.5 Bulgaria].',
@@ -7429,9 +7449,9 @@ Heroetgave, aafgeleide wèrke, kommärsiejeel gebroek en al anger vorme van gebr
 	'wm-license-cc-by-2.5-si-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/ Attribution 2.5 Slowenië] lisensje.',
 	'wm-license-cc-by-2.5-tw-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5 Teiwan] lisensje.',
 	'wm-license-cc-by-2.5-za-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 Zuud-Afrika] lisensje.',
-	'wm-license-cc-by-3.0-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported] lisensje.',
-	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Attribution 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.en 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed.en 2.0 Generic] enne [http://creativecommons.org/licenses/by/1.0/deed.en 1.0 Generic]  lisensje.',
-	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/deed.en 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.en 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 Generic] enne [http://creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 Generic] lisensje.',
+	'wm-license-cc-by-3.0-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] lisensje.',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/ 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/ 2.0 Generic] enne [http://creativecommons.org/licenses/by/1.0/ 1.0 Generic]  lisensje.',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Dit bestandj steit gelicenseerdj óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/ 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] enne [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 Generic] lisensje.',
 	'wm-license-cc-zero-text' => 'Dit bestandj is besjikber óngere [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 waiver].',
 	'wm-license-cc-zero-explanation' => "De persoon dae e wèrk veurzuut van dees licensje stèlt dit wèrk besjikbaar ane 't publieke domein door, veur zewied dit wettelik is toegestange, aafstandj te doon van al zien rèchte op 't wèrk in de zin van 't auteursrech en al anger aanverwenj of neburig rechte die d'r op 't wèrk haet. Wèrke ónger 'n CC0-licensje broeke gein naamsvermelding. Wen 't wèrk vermeld wört den mót 't neet implicere det dit bevestig is doren auteur.",
 	'wm-license-cc-free' => 'De maags:',
@@ -13336,43 +13356,43 @@ $messages['yo'] = array(
 	'wm-license-attribution-without-author-text' => 'Ẹni tó ni ẹ̀tọ́ àwòkọ fáìlì yìí gba ẹnikẹ́ni ní ààyè láti lòó fún ohunkóhun, lábẹ́ àdéhùn pé ẹni tó ni ẹ̀tọ́ àwòkọ yìí yíò jẹ́ dídálórúkọ bóbáṣẹyẹ. Ìtúnpínkiri, àtúnṣe sí, ìlò fún títà, àti gbogbo ọ̀nà ìlò mìràn jẹ́ gbígbà ní ààyè.',
 	'wm-license-cc-attribution' => 'Ìdálórúkọ',
 	'wm-license-cc-by-1.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/1.0/deed.en Ìdálórúkọ 1.0 Gbogbogbò].',
+[http://creativecommons.org/licenses/by/1.0/ Ìdálórúkọ 1.0 Gbogbogbò].',
 	'wm-license-cc-by-1.0-fi-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/1.0/fi/deed.en Ìdálórúkọ 1.0 Fínlándì].',
+[http://creativecommons.org/licenses/by/1.0/fi/ Ìdálórúkọ 1.0 Fínlándì].',
 	'wm-license-cc-by-1.0-il-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/1.0/il/deed.en Ìdálórúkọ 1.0 Ísráẹ́lì].',
+[http://creativecommons.org/licenses/by/1.0/il/ Ìdálórúkọ 1.0 Ísráẹ́lì].',
 	'wm-license-cc-by-2.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/deed.en Ìdálórúkọ 2.0 Gbogbogbò].',
+[http://creativecommons.org/licenses/by/2.0/ Ìdálórúkọ 2.0 Gbogbogbò].',
 	'wm-license-cc-by-2.0-be-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/be/deed.en Ìdálórúkọ 2.0 Bẹ́ljíọ̀m].',
+[http://creativecommons.org/licenses/by/2.0/be/ Ìdálórúkọ 2.0 Bẹ́ljíọ̀m].',
 	'wm-license-cc-by-2.0-br-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/br/deed.en Ìdálórúkọ 2.0 Brasil].',
+[http://creativecommons.org/licenses/by/2.0/br/ Ìdálórúkọ 2.0 Brasil].',
 	'wm-license-cc-by-2.0-ca-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/ca/deed.en Ìdálórúkọ 2.0 Kánádà].',
+[http://creativecommons.org/licenses/by/2.0/ca/ Ìdálórúkọ 2.0 Kánádà].',
 	'wm-license-cc-by-2.0-de-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/de/deed.en Ìdálórúkọ 2.0 Jẹ́mánì].',
+[http://creativecommons.org/licenses/by/2.0/de/ Ìdálórúkọ 2.0 Jẹ́mánì].',
 	'wm-license-cc-by-2.0-es-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/es/deed.en Ìdálórúkọ 2.0 Spéìn].',
+[http://creativecommons.org/licenses/by/2.0/es/ Ìdálórúkọ 2.0 Spéìn].',
 	'wm-license-cc-by-2.0-hr-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/hr/deed.en Ìdálórúkọ 2.0 Kroatíà].',
+[http://creativecommons.org/licenses/by/2.0/hr/ Ìdálórúkọ 2.0 Kroatíà].',
 	'wm-license-cc-by-2.0-it-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/it/deed.en Ìdálórúkọ 2.0 Itálíà].',
+[http://creativecommons.org/licenses/by/2.0/it/ Ìdálórúkọ 2.0 Itálíà].',
 	'wm-license-cc-by-2.0-kr-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/kr/deed.en Ìdálórúkọ 2.0 Kòréà].',
+[http://creativecommons.org/licenses/by/2.0/kr/ Ìdálórúkọ 2.0 Kòréà].',
 	'wm-license-cc-by-2.0-uk-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/uk/deed.en Ìdálórúkọ 2.0 Ilẹ̀ọba Onípíparapọ̀: Ilẹ̀gẹ̀ẹ́sì & Wélsì].',
+[http://creativecommons.org/licenses/by/2.0/uk/ Ìdálórúkọ 2.0 Ilẹ̀ọba Onípíparapọ̀: Ilẹ̀gẹ̀ẹ́sì & Wélsì].',
 	'wm-license-cc-by-2.1-es-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.1/es/deed.en Ìdálórúkọ 2.1 Spéìn].',
+[http://creativecommons.org/licenses/by/2.1/es/ Ìdálórúkọ 2.1 Spéìn].',
 	'wm-license-cc-by-2.5-br-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.5/br/deed.en Ìdálórúkọ 2.5 Brasil].',
+[http://creativecommons.org/licenses/by/2.5/br/ Ìdálórúkọ 2.5 Brasil].',
 	'wm-license-cc-by-2.5-co-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.5/co/deed.en Ìdálórúkọ 2.5 Kòlómbìà].',
+[http://creativecommons.org/licenses/by/2.5/co/ Ìdálórúkọ 2.5 Kòlómbìà].',
 	'wm-license-cc-by-2.5-za-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by/2.0/br/za/deed.en Ìdálórúkọ 2.5 Gúúsù Áfríkà].',
+[http://creativecommons.org/licenses/by/2.0/br/za/ Ìdálórúkọ 2.5 Gúúsù Áfríkà].',
 	'wm-license-cc-by-sa-1.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by-sa/1.0/deed.en Ìdálórúkọ-Share Alike 1.0 Gbogbogbò].',
+[http://creativecommons.org/licenses/by-sa/1.0/ Ìdálórúkọ-Share Alike 1.0 Gbogbogbò].',
 	'wm-license-cc-by-sa-2.0-text' => 'Fáìlì yìí wà lábẹ́ ìwé àṣẹ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
-[http://creativecommons.org/licenses/by-sa/2.0/deed.en Ìdálórúkọ-Share Alike 2.0 Gbogbogbò].',
+[http://creativecommons.org/licenses/by-sa/2.0/ Ìdálórúkọ-Share Alike 2.0 Gbogbogbò].',
 	'wm-license-cc-free' => 'Ẹ ní ààyè:',
 	'wm-license-cc-free-to-share-header' => 'láti pín pẹ̀lú ẹlòmíràn',
 	'wm-license-cc-free-to-share-text' => 'láti ṣàwòkọ, pínkiri àti ṣàgbéká iṣẹ́ náà',
@@ -13382,7 +13402,10 @@ $messages['yo'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'ìdárúkọ',
 	'wm-license-information-description' => 'Ìjúwe',
 	'wm-license-information-source' => 'Orísun',
-	'wm-license-licensing-update-text' => 'This licensing tag was added to this file as part of the GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licensing update]].',
+	'wm-license-information-date' => 'Ọjọ́ọdún',
+	'wm-license-information-author' => 'Olùdákọ',
+	'wm-license-information-permission' => 'Ìyọ̀nda',
+	'wm-license-licensing-update-text' => 'Àlẹ̀mọ́ ìwé àṣẹ yìí jẹ́ lílẹ̀mọ́ fáìlí yìí gẹ́gẹ́ bíi apá GFDL [[{{int:wm-license-licensing-update-wiki-link}}|ìṣọdọ̀tun ìwé àṣẹ]].',
 );
 
 /** Cantonese (粵語)

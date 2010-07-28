@@ -234,14 +234,6 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
-/** Bahasa Banjar (Bahasa Banjar)
- * @author Ezagren
- */
-$messages['bjn'] = array(
-	'group-abusefilter' => 'Editor filter panyalahgunaan',
-	'group-bigexport' => 'Ikspurtir ganal',
-);
-
 /** Abkhazian (Аҧсуа)
  * @author Temuri rajavi
  */
@@ -1132,6 +1124,14 @@ $messages['bh'] = array(
 	'group-accountcreator' => 'खाता बनावे वाला',
 );
 
+/** Bahasa Banjar (Bahasa Banjar)
+ * @author Ezagren
+ */
+$messages['bjn'] = array(
+	'group-abusefilter' => 'Editor filter panyalahgunaan',
+	'group-bigexport' => 'Ikspurtir ganal',
+);
+
 /** Bambara (Bamanankan) */
 $messages['bm'] = array(
 	'sitesupport' => 'Banumanke',
@@ -1749,9 +1749,13 @@ $messages['cy'] = array(
 	'group-ipblock-exempt-member' => 'Wedi eithrio rhag bod ei gyfeiriad IP yn cael ei flocio',
 	'group-patroller-member' => 'patrolwr',
 	'group-researcher-member' => 'ymchwilydd',
+	'group-rollbacker-member' => 'Gwrthdroiwr',
 	'group-transwiki-member' => 'mewnforwr trawswici',
 	'group-trusted-member' => 'defnyddiwr dibynadwy',
+	'grouppage-abusefilter' => '{{ns:project}}:Golygwyr hidlo camdriniaeth',
 	'grouppage-accountcreator' => '{{ns:project}}:Gwneuthurwyr cyfrifon',
+	'grouppage-arbcom' => '{{ns:project}}:Aelodau pwyllgor cyflafareddu',
+	'grouppage-autopatrolled' => 'Awto-batrolwyr',
 	'grouppage-confirmed' => "{{ns:project}}:Defnyddwyr wedi'u cadarnhau",
 	'grouppage-filemover' => '{{ns:project}}:Symudwyr ffeiliau',
 	'grouppage-flood' => '{{ns:project}}:Defnyddwyr bot',
@@ -2601,11 +2605,11 @@ $messages['et'] = array(
 	'wikimedia-copyright' => 'Tekst on kasutatav <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsentsi tingimustel;
 sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimusi</a>.',
-	'wikimedia-copyrightwarning' => 'Salvestamisega annate te nõusoleku oma kaastöö pöördumatuks avaldamiseks [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ning [http://www.gnu.org/copyleft/fdl.html GFDL-litsentside] alusel.
-Te nõustute, et Teie autorlusele osutatakse vähemalt veebiaadressi või lingiga lehele, millele Te praegu kaastööd teete.
-Täpsemalt vaadake [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia kasutamistingimusi].',
-	'wikimedia-editpage-tos-summary' => 'Kui te ei soovi, et teie kirjutatut halastamatult redigeeritakse ja oma äranägemise järgi kasutatakse, siis ärge seda siia salvestage. 
-Kui Te ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [http://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustes] toodud nõuetele ning te kohustute täitma vastavaid litsentsi tingimusi.',
+	'wikimedia-copyrightwarning' => 'Salvestamisega annad nõusoleku oma kaastöö pöördumatuks avaldamiseks [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [http://www.gnu.org/copyleft/fdl.html GFDL-litsentside] alusel.
+Nõustud, et sinu autorlusele osutatakse vähemalt veebiaadressi või lingiga lehele, millele kaastööd teed.
+Täpsemalt vaata [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia kasutamistingimustest].',
+	'wikimedia-editpage-tos-summary' => 'Kui sa ei soovi, et sinu kirjutatut halastamatult redigeeritakse ja oma äranägemise järgi kasutatakse, siis ära seda siia salvesta. 
+Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [http://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustes] toodud nõuetele ja sa kohustud täitma vastavaid litsentsi tingimusi.',
 );
 
 /** Basque (Euskara)
@@ -7453,9 +7457,9 @@ $messages['ro'] = array(
 	'group-steward-member' => 'steward',
 	'group-sysadmin-member' => 'administrator de sistem',
 	'group-editinterface-member' => 'editori de interfață',
-	'group-Global_bot-member' => 'Bot global',
+	'group-Global_bot-member' => 'robot global',
 	'group-Global_rollback-member' => 'revocator global',
-	'group-Global_sysops-member' => 'Administrator global',
+	'group-Global_sysops-member' => 'administrator global',
 	'group-Ombudsmen-member' => 'mijlocitor independent',
 	'group-Staff-member' => 'angajat',
 	'group-coder' => 'Codificatori',
