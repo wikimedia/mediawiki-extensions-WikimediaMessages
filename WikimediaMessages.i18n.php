@@ -1698,6 +1698,8 @@ $messages['cs'] = array(
  */
 $messages['cu'] = array(
 	'sitesupport' => 'даꙗ́ниꙗ',
+	'wikimedia-copyright' => 'по́дъ прощє́ниѥмь <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьса́но ѥ́стъ · доплънитєл҄ьнꙑ оустановлєниꙗ тако жє могѫтъ бꙑти ⁙
+Ꙁьри́ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/cu">по́льꙃєваниꙗ оуставъ</a> пльна расъмощрѥ́ниꙗ дѣл̑ьма́',
 );
 
 /** Chuvash (Чӑвашла)

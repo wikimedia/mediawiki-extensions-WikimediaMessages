@@ -5152,6 +5152,7 @@ $messages['hak'] = array(
 );
 
 /** Hebrew (עברית)
+ * @author Amire80
  * @author Multichill
  * @author Rotemliss
  * @author YaronSh
@@ -5159,11 +5160,33 @@ $messages['hak'] = array(
  */
 $messages['he'] = array(
 	'wikimedialicensetexts-desc' => 'הודעות הרישוי של ויקימדיה',
+	'wm-license-attribution-with-author-text' => 'בעל זכויות היוצרים לקובץ הזה, $1, מאשר לכולם להשתמש בו לכל מטרה, בתנאי שניתן לבעל הזכויות קרדיט נאות. הפצה, יצירות נגזרות, שימושים מסחריים וכל שימוש אחר מותרים.',
+	'wm-license-attribution-without-author-text' => "בעל זכויות היוצרים לקובץ הזה מאשר לכולם להשתמש בו '''לכל מטרה, בתנאי''' שניתן לבעל הזכויות קרדיט נאות. הפצה, יצירות נגזרות, שימושים מסחריים וכל שימוש אחר מותרים.",
 	'wm-license-cc-wiki-link' => 'w:he:Creative Commons',
 	'wm-license-cc-attribution' => 'ייחוס',
 	'wm-license-cc-by-1.0-text' => 'קובץ זה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.he ייחוס 1.0 כללי].',
 	'wm-license-cc-by-1.0-fi-text' => 'קובץ זה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.he ייחוס 1.0 פינלנד].',
 	'wm-license-cc-by-1.0-il-text' => 'קובץ זה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.he ייחוס 1.0 ישראל].',
+	'wm-license-cc-by-1.0-nl-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/1.0/nl/deed.en ייחוס 1.0 הולנד]',
+	'wm-license-cc-by-2.0-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/deed.en ייחוס 2.0 כללי]',
+	'wm-license-cc-by-2.0-at-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/at/deed.en ייחוס 2.0 אוסטריה]',
+	'wm-license-cc-by-2.0-au-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/au/deed.en ייחוס 2.0 אוסטרליה]',
+	'wm-license-cc-by-2.0-be-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/be/deed.en ייחוס 2.0 בלגיה]',
+	'wm-license-cc-by-2.0-br-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/br/deed.en ייחוס 2.0 ברזיל]',
+	'wm-license-cc-by-2.0-ca-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/ca/deed.en ייחוס 2.0 קנדה]',
+	'wm-license-cc-by-2.0-cl-text' => "הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/cl/deed.en ייחוס 2.0 צ'ילה]",
+	'wm-license-cc-by-2.0-de-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/de/deed.en ייחוס 2.0 גרמניה]',
+	'wm-license-cc-by-2.0-es-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/es/deed.en ייחוס 2.0 ספרד]',
+	'wm-license-cc-by-2.0-fr-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/fr/deed.en ייחוס 2.0 צרפת]',
+	'wm-license-cc-by-2.0-hr-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/hr/deed.en ייחוס 2.0 קרואטיה]',
+	'wm-license-cc-by-2.0-it-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/it/deed.en ייחוס 2.0 איטליה]',
+	'wm-license-cc-by-2.0-jp-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/חפ/deed.en ייחוס 2.0 יפן]',
+	'wm-license-cc-by-2.0-kr-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/kr/deed.en ייחוס 2.0 קוֹרֵאָה]',
+	'wm-license-cc-by-2.0-nl-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/nl/deed.en ייחוס 2.0 הולנד]',
+	'wm-license-cc-by-2.0-pl-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/pl/deed.en ייחוס 2.0 פולין]',
+	'wm-license-cc-by-2.0-tw-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/tw/deed.en ייחוס 2.0 טאיוואן]',
+	'wm-license-cc-by-2.0-uk-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/uk/deed.en ייחוס 2.0 הממלכה המאוחדת: אנגליה וויילס]',
+	'wm-license-cc-by-2.0-za-text' => 'הקובץ הזה מופיע תחת רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [http://creativecommons.org/licenses/by/2.0/za/deed.en ייחוס 2.0 דרום אפריקה]',
 	'wm-license-cc-free' => 'הנכם רשאים:',
 	'wm-license-cc-free-to-share-header' => 'לשתף',
 	'wm-license-cc-free-to-share-text' => 'להעתיק, להפיץ ולהעביר את העבודה',
@@ -13830,12 +13853,12 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-sa-2.5-tw-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/2.5/tw/deed.zh 署名-相同方式共享 2.5 台湾]许可协议授权。',
 	'wm-license-cc-by-sa-2.5-za-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/2.5/za/deed.zh 署名-相同方式共享 2.5 南非]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/deed.zh 署名-相同方式共享 3.0 Unported]许可协议授权。',
-	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]]姓名标示及相同方式共享[http://creativecommons.org/licenses/by-sa/3.0/ 3.0], [http://creativecommons.org/licenses/by-sa/2.5/ 2.5通用], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0通用] 及[http://creativecommons.org/licenses/by-sa/1.0/ 1.0通用]条款下发布。',
-	'wm-license-cc-by-sa-3.0-at-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]] [http://creativecommons.org/licenses/by-sa/3.0/at/ 署名-相同方式共享 2.0 澳大利亚]之下发布。',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]署名-相同方式共享  [http://creativecommons.org/licenses/by/3.0/deed.zh 3.0 Unported]，[http://creativecommons.org/licenses/by/2.5/deed.zh 2.5 未本地化版本]，[http://creativecommons.org/licenses/by/2.0/deed.zh 2.0 未本地化版本]和[http://creativecommons.org/licenses/by/1.0/deed.zh 1.0 未本地化版本]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-at-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/at/deed.zh 署名-相同方式共享 3.0 奥地利]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-cz-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/2.0/cl/deed.zh 署名-相同方式共享 3.0 智利]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-de-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/de/deed.zh 署名-相同方式共享 2.0 德国]许可协议授权。',
-	'wm-license-cc-by-sa-3.0-es-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.zh 署名-相同方式共享 3.0 西班牙]之下发布。',
-	'wm-license-cc-by-sa-3.0-gr-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.zh 署名-相同方式共享 3.0 希腊]之下发布。',
+	'wm-license-cc-by-sa-3.0-es-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/es/deed.zh 署名-相同方式共享 3.0 西班牙]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-gr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/gr/deed.zh 署名-相同方式共享 3.0 希腊]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-gt-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]] [http://creativecommons.org/licenses/by-sa/3.0/gt/deed.zh 署名-相同方式共享 3.0 Guatemala]之下发布。',
 	'wm-license-cc-by-sa-3.0-hk-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]] [http://creativecommons.org/licenses/by-sa/3.0/hk/deed.zh 署名-相同方式共享 3.0香港]条款之下发布。',
 	'wm-license-cc-by-sa-3.0-hr-text' => '此档案在[[{{int:wm-license-cc-wiki-link}}|共享创意]] [http://creativecommons.org/licenses/by-sa/3.0/hr/deed.zh 署名-相同方式共享 3.0克罗好亚]条款之下发布。',
@@ -13897,7 +13920,7 @@ $messages['zh-hans'] = array(
 	'wm-license-self-one-license-with-author' => '$1，本作品著作权持有人，自此以下列授权协议发表本作品:',
 	'wm-license-self-multiple-licenses' => '我，本作品著作权持有人，自此以下列授权协议发表本作品:',
 	'wm-license-self-multiple-licenses-with-author' => '$1，本作品著作权持有人，自此以下列授权协议发表本作品:',
-	'wm-license-self-multiple-licenses-select' => '你可以选择你想要的授权协议。',
+	'wm-license-self-multiple-licenses-select' => '你可以选择你需要的授权协议。',
 );
 
 /** Traditional Chinese (‪中文(繁體)‬)
