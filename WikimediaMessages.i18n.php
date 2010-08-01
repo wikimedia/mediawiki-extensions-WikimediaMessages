@@ -1545,7 +1545,7 @@ $messages['chr'] = array(
  * @author Marmzok
  * @author رزگار
  */
-$messages['ckb-arab'] = array(
+$messages['ckb'] = array(
 	'wikimediamessages-desc' => 'پەیامە تایبەتەکانی ویکیمیدیا',
 	'sitesupport' => 'پشتیوانی لە ویکیپیدیا',
 	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',

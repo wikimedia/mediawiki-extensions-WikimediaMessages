@@ -2074,7 +2074,7 @@ $messages['ckb'] = array(
 );
 
 /** Sorani (Arabic script) (‫کوردی (عەرەبی)‬) */
-$messages['ckb-arab'] = array(
+$messages['ckb'] = array(
 	'wm-license-information-description' => 'پەسن',
 	'wm-license-information-source' => 'سەرچاوە',
 );
