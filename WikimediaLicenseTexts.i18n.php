@@ -2068,11 +2068,6 @@ $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
 );
 
-/** Sorani (Soranî / کوردی) */
-$messages['ckb'] = array(
-	'wm-license-free-software-wiki-link' => 'w:ckb:نەرمەکاڵا خۆڕاییەکان',
-);
-
 /** Sorani (Arabic script) (‫کوردی (عەرەبی)‬) */
 $messages['ckb'] = array(
 	'wm-license-information-description' => 'پەسن',
