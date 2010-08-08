@@ -737,10 +737,13 @@ $messages['ang'] = array(
  * @author Meno25
  * @author Multichill
  * @author OsamaK
+ * @author Samer
  * @author ترجمان05
  */
 $messages['ar'] = array(
 	'wikimedialicensetexts-desc' => 'رسائل ترخيص ويكيميديا',
+	'wm-license-attribution-with-author-text' => "حامل حقوق هذا الملف $1 يسمح لأي كان باستخدامه '''لأي غرض، بشرط''' نسبة المصنف إلى حامل الحقوق. إعادة التوزيع، والأعمال المشتقة، والاستعمال التجاري، وجميع الاستعمالات الأخرى مسموح بها.",
+	'wm-license-attribution-without-author-text' => "حامل حقوق هذا الملف يسمح لأي كان باستخدامه '''لأي غرض، بشرط''' نسبة المصنف إلى حامل الحقوق. إعادة التوزيع، والأعمال المشتقة، والاستعمال التجاري، وجميع الاستعمالات الأخرى مسموح بها.",
 	'wm-license-cc-wiki-link' => 'w:ar:مشاع مبدع',
 	'wm-license-cc-attribution' => 'نسبة المصنف إلى مؤلفه',
 	'wm-license-cc-by-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/1.0/ نسبة المصنف إلى مؤلفه 1.0 العامة]',
@@ -792,6 +795,9 @@ $messages['ar'] = array(
 	'wm-license-cc-by-2.5-pe-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pe/ نسبة المصنف إلى مؤلفه 2.5 البيروية].',
 	'wm-license-cc-by-2.5-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pl/ نسبة المصنف إلى مؤلفه 2.5 البولندية].',
 	'wm-license-cc-by-2.5-se-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/se/ نسبة المصنف إلى مؤلفه 2.5 السويدية].',
+	'wm-license-cc-by-2.5-si-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/si/deed.en نسبة المصنف إلى مؤلفه 2.5 السلوفانية].',
+	'wm-license-cc-by-2.5-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/tw/deed.en نسبة المصنف إلى مؤلفه 2.5 التايوانية].',
+	'wm-license-cc-by-2.5-za-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/za/deed.en Attribution 2.5 جنوب الأفريقية].',
 	'wm-license-cc-by-3.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ نسبة المصنف إلى مؤلفه 3.0 العامة]',
 	'wm-license-cc-by-3.0-at-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/at/ نسبة المصنف إلى مؤلفه 3.0 النمساوية]',
 	'wm-license-cc-by-sa-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 العامة]',
@@ -7229,7 +7235,7 @@ $messages['ka'] = array(
 	'wm-license-own-work' => 'პირადი ნამუშევარი',
 	'wm-license-self-one-license' => 'მე, ამ ნამუშევარზე საავტორო უფლებების მფლობელი, ვაქვეყნებ მას შემდეგი ლიცენზიით:',
 	'wm-license-self-one-license-with-author' => '$1, ამ ნამუშევარზე საავტორო უფლებების მფლობელი, ვაქვეყნებ მას შემდეგი ლიცენზიით:',
-	'wm-license-self-multiple-licenses' => 'მე, ამ ნაწარმოებზე საავტორო უფლებების მფლობელი, საკუთარი სურვილით ვავრყნებ მას შემდეგი ლიცენზიით:',
+	'wm-license-self-multiple-licenses' => 'მე, ამ ნაწარმოებზე საავტორო უფლებების მფლობელი, საკუთარი სურვილით ვაქვეყნებ მას შემდეგი ლიცენზიით:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, ამ ნამუშევარზე საავტორო უფლებების მფლობელი, ვაქვეყნებ მას შემდეგი ლიცენზიით:',
 	'wm-license-self-multiple-licenses-select' => 'თქვენ შეგიძლიათ აირჩიოთ ლიცენზია.',
 );
