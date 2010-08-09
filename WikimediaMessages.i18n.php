@@ -1298,7 +1298,7 @@ $messages['br'] = array(
 	'group-filemover-member' => 'adenver restr',
 	'group-flood-member' => 'implijer botoù',
 	'group-founder-member' => 'Diazezer',
-	'group-Image-reviewer-member' => 'Gwirier skeudenn',
+	'group-Image-reviewer-member' => 'gwirier skeudenn',
 	'group-import-member' => 'Enporzhier',
 	'group-interface_editors-member' => 'aozer an etrefas',
 	'group-ipblock-exempt-member' => "Nemedenn bloc'had IP",
@@ -1322,7 +1322,7 @@ $messages['br'] = array(
 	'grouppage-import' => '{{ns:project}}:Enporzherien',
 	'grouppage-interface_editors' => '{{ns:project}}:Aozerien an etrefas',
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Nemedenn bloc'had IP",
-	'grouppage-OTRS-member' => '{{ns:project}}:Izili OTRS',
+	'grouppage-OTRS-member' => '{{ns:project}}: Izili OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Klaskerien',
 	'grouppage-rollbacker' => '{{ns:project}}:Assaverien',
 	'grouppage-transwiki' => '{{ns:project}}:Enporzherien treuzwiki',
@@ -4544,6 +4544,7 @@ $messages['is'] = array(
 /** Italian (Italiano)
  * @author Annayram
  * @author Aushulz
+ * @author Blaisorblade
  * @author BrokenArrow
  * @author Brownout
  * @author Darth Kule
@@ -4606,7 +4607,7 @@ $messages['it'] = array(
 	'grouppage-founder' => '{{ns:project}}:Founders',
 	'grouppage-import' => '{{ns:project}}:Importatori',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dal blocco IP',
-	'grouppage-researcher' => '((Ns: project)): Ricercatori',
+	'grouppage-researcher' => '{{ns:project}}:Ricercatori',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki' => '{{ns:project}}:Importatori transwiki',
 	'grouppage-trusted' => '{{ns:project}}:utenti fidati',
@@ -5569,7 +5570,7 @@ $messages['lmo'] = array(
 	'group-import' => 'Impurtadur',
 	'group-ipblock-exempt' => "Esenzión dal bloch de l'IP",
 	'group-patroller' => 'Gent de rónda',
-	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [http://wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
+	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br /> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [http://wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
 );
 
 /** Lingala (Lingála) */

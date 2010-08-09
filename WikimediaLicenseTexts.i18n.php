@@ -7835,6 +7835,7 @@ $messages['lb'] = array(
 	'wm-license-information-permission-reusing-text' => 'Dëse Fichier nach eng kéier benotzen',
 	'wm-license-information-permission-see-below' => 'Kuckt ënnendrënner.',
 	'wm-license-information-other-versions' => 'Aner Versiounen',
+	'wm-license-licensing-update-text' => 'Dës Lizenz-Markéierung gouf bäi dëse Fichier derbäigesat als Deel vun der GFDL [[{{int:wm-license-licensing-update-wiki-link}}|Lizenz-Aktualisatioun]].',
 	'wm-license-original-upload-log' => 'Original-Logbuch vum Eroplueden',
 	'wm-license-own-work' => 'Eegent Wierk',
 	'wm-license-self-one-license' => 'Ech, de Besëtzer vum Copyright vun dësem Wierk, publizéieren et heimat ënnert dëser Lizenz:',
