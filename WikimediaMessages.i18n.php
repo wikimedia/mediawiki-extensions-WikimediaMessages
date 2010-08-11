@@ -1394,6 +1394,7 @@ $messages['bs'] = array(
 	'group-import' => 'Uvoznici',
 	'group-interface_editors' => 'Urednici sučelja',
 	'group-ipblock-exempt' => 'Izuzeci IP blokada',
+	'group-OTRS-member' => 'Članovi OTRS',
 	'group-patroller' => 'Patroleri',
 	'group-researcher' => 'Istraživači',
 	'group-rollbacker' => 'Povratioci',
@@ -1413,6 +1414,7 @@ $messages['bs'] = array(
 	'group-import-member' => 'uvoznik',
 	'group-interface_editors-member' => 'urednik sučelja',
 	'group-ipblock-exempt-member' => 'Izuzeci IP blokada',
+	'group-OTRS-member-member' => 'Član OTRS',
 	'group-patroller-member' => 'patroler',
 	'group-researcher-member' => 'istraživač',
 	'group-rollbacker-member' => 'povratioc',
@@ -7360,6 +7362,7 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
  * @author Eduardo.mps
  * @author Everton137
  * @author Giro720
+ * @author GoEThe
  * @author Heldergeovane
  * @author Luckas Blade
  * @author Sir Lestaty de Lioncourt
@@ -7381,9 +7384,11 @@ $messages['pt-br'] = array(
 	'group-filemover' => 'Deslocadores de ficheiros',
 	'group-flood' => 'Usuários bot',
 	'group-founder' => 'Fundadores',
+	'group-Image-reviewer' => 'Revisores de imagem',
 	'group-import' => 'Importadores',
 	'group-interface_editors' => 'Editores de interface',
 	'group-ipblock-exempt' => 'IPs não bloqueados',
+	'group-OTRS-member' => 'Membros do OTRS',
 	'group-patroller' => 'Patrulhadores',
 	'group-researcher' => 'Pesquisadores',
 	'group-rollbacker' => 'Reversores',
@@ -7400,9 +7405,11 @@ $messages['pt-br'] = array(
 	'group-filemover-member' => 'deslocador de ficheiros',
 	'group-flood-member' => 'usuário bot',
 	'group-founder-member' => 'Fundador',
+	'group-Image-reviewer-member' => 'revisor de imagem',
 	'group-import-member' => 'Importador',
 	'group-interface_editors-member' => 'editor de interface',
 	'group-ipblock-exempt-member' => 'IP não bloqueado',
+	'group-OTRS-member-member' => 'membro do OTRS',
 	'group-patroller-member' => 'Patrulhador',
 	'group-researcher-member' => 'pesquisador',
 	'group-rollbacker-member' => 'reversor',
@@ -7419,9 +7426,11 @@ $messages['pt-br'] = array(
 	'grouppage-filemover' => '{{ns:project}}:Deslocadores de ficheiros',
 	'grouppage-flood' => '{{ns:project}}: Usuários bot',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Revisores de imagem',
 	'grouppage-import' => '{{ns:project}}:Importadores',
 	'grouppage-interface_editors' => '{{ns:project}}: Editores de interface',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP não bloqueado',
+	'grouppage-OTRS-member' => '{{ns:project}}:Membros do OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Pesquisador',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertedores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
