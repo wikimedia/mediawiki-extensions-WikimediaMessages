@@ -2077,8 +2077,9 @@ $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
 );
 
-/** Sorani (Arabic script) (‫کوردی (عەرەبی)‬) */
+/** Sorani (کوردی) */
 $messages['ckb'] = array(
+	'wm-license-free-software-wiki-link' => 'w:ckb:نەرمەکاڵا خۆڕاییەکان',
 	'wm-license-information-description' => 'پەسن',
 	'wm-license-information-source' => 'سەرچاوە',
 );
@@ -2962,6 +2963,7 @@ $messages['de-formal'] = array(
 	'wm-license-cc-free' => 'Sie dürfen:',
 	'wm-license-cc-conditions-attribution-text' => 'Sie müssen den Namen des Autors/Rechteinhabers in der von ihm festgelegten Weise nennen (aber nicht so, dass es so aussieht, als würde er Sie oder Ihre Verwendung des Werks unterstützen).',
 	'wm-license-cc-conditions-share_alike-text' => 'Wenn Sie das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeiten, abwandeln oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwenden, dürfen Sie die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben, die mit denen dieses Lizenzvertrages identisch, vergleichbar oder kompatibel sind.',
+	'wm-license-licensing-update-text' => 'Diese Lizenzmarkierung wurde auf Grund des GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizenzupdates]] hinzugefügt.',
 	'wm-license-self-multiple-licenses-select' => 'Sie dürfen es unter einer der obigen Lizenzen Ihrer Wahl verwenden.',
 );
 
@@ -3334,10 +3336,17 @@ $messages['el'] = array(
 );
 
 /** British English (British English)
+ * @author Lcawte
+ * @author Multichill
  * @author Reedy
  */
 $messages['en-gb'] = array(
+	'wm-license-cc-zero-explanation' => 'The person who associated a work with this document has dedicated the work to the Commons by waiving all of his or her rights to the work worldwide under copyright law and all related or neighbouring legal rights he or she had in the work, to the extent allowable by law. Works under CC0 do not require attribution. When citing the work, you should not imply endorsement by the author.',
 	'wm-license-information-table-summary' => 'A standardised table providing complete information about the file, including description of what it shows and how it was made, copyright status and source.',
+	'wm-license-self-one-license-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licence:',
+	'wm-license-self-multiple-licenses' => 'I, the copyright holder of this work, hereby publish it under the following licences:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licences:',
+	'wm-license-self-multiple-licenses-select' => 'You may select the licence of your choice.',
 );
 
 /** Esperanto (Esperanto)
@@ -4745,10 +4754,27 @@ $messages['frp'] = array(
 	'wm-license-cc-by-2.0-au-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.fr patèrnitât 2.0 Ôstralie].',
 	'wm-license-cc-by-2.0-be-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.fr patèrnitât 2.0 Bèlg·ique].',
 	'wm-license-cc-by-2.0-br-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fr patèrnitât 2.0 Brèsil].',
+	'wm-license-cc-free' => 'Vos éte abado :',
+	'wm-license-cc-free-to-share-header' => 'de partagiér',
+	'wm-license-cc-free-to-share-text' => 'de copiyér, distribuar et transmetre cela ôvra',
+	'wm-license-cc-free-to-remix-header' => 'd’adaptar',
+	'wm-license-cc-free-to-remix-text' => 'de changiér cela ôvra',
+	'wm-license-cc-conditions' => 'Desot cetes condicions :',
+	'wm-license-cc-conditions-attribution-header' => 'patèrnitât',
+	'wm-license-cc-conditions-share_alike-header' => 'partâjo a l’identico',
 	'wm-license-information-description' => 'Dèscripcion',
+	'wm-license-information-description-missing' => "Ceti fichiér at gins de '''dèscripcion''', et pués pôt mancar d’ôtres enformacions.",
 	'wm-license-information-source' => 'Sôrsa',
+	'wm-license-information-source-missing-request' => 'Volyéd changiér la dèscripcion de ceti fichiér et pués balyér una sôrsa.',
 	'wm-license-information-date' => 'Dâta',
 	'wm-license-information-author' => 'Ôtor',
+	'wm-license-information-permission' => 'Pèrmission',
+	'wm-license-information-permission-reusing-text' => 'Reusâjo de cél fichiér',
+	'wm-license-information-permission-see-below' => 'Vêde ce-desot.',
+	'wm-license-information-other-versions' => 'Ôtres vèrsions',
+	'wm-license-original-upload-log' => 'Jornal des tèlèchargements d’origina',
+	'wm-license-own-work' => 'Ôvra a sè',
+	'wm-license-self-multiple-licenses-select' => 'Vos pouede chouèsir una licence quinta que seye.',
 );
 
 /** Friulian (Furlan)
@@ -12170,6 +12196,10 @@ $messages['sr'] = array(
 	'wm-license-information-permission-see-below' => 'Види доле.',
 	'wm-license-information-other-versions' => 'Остале верзије',
 	'wm-license-own-work' => 'Сопствено дело',
+	'wm-license-self-one-license' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:',
+	'wm-license-self-one-license-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:',
+	'wm-license-self-multiple-licenses' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећим лиценцама:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећим лиценцама:',
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
@@ -13267,6 +13297,7 @@ $messages['tyv'] = array(
  * @author Multichill
  * @author NickK
  * @author Prima klasy4na
+ * @author Riwnodennyk
  */
 $messages['uk'] = array(
 	'wikimedialicensetexts-desc' => 'Ліцензійні повідомлення Вікімедіа',
@@ -13445,6 +13476,7 @@ $messages['uk'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Ви повинні вказувати авторство (джерело) цього твору у вигляді, встановленому автором або ліцензіаром (але ні в якому разі не таким чином, що наводить на думку, що автор підтримує вас чи ваше використання цього твору).',
 	'wm-license-cc-conditions-share_alike-header' => 'поширення на тих же умовах',
 	'wm-license-cc-conditions-share_alike-text' => 'Якщо ви змінюєте, перетворюєте або створюєте іншу похідну роботу на основі цього твору, ви можете поширювати отриманий в результаті твір тільки на умовах такої ж або сумісної ліцензії.',
+	'wm-license-cecill-text' => 'Ця робота є [[{{int:wm-license-free-software-wiki-link}}|вільним програмним забезпеченням]]; Ви можете поширювати або ж змінювати її згідно з положеннями [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. З умовами ліцензії CeCILL можна ознайомитися на [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fsf-wiki-link' => 'w:uk:Фонд вільного програмного забезпечення',
 	'wm-license-free-software-wiki-link' => 'w:uk:Вільне програмне забезпечення',
 	'wm-license-gfdl-wiki-link' => 'w:uk:GNU Free Documentation License',

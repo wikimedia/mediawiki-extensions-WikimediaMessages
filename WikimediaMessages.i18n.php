@@ -1178,6 +1178,7 @@ $messages['bn'] = array(
 	'group-accountcreator' => 'অ্যাকাউন্ট তৈরি করেন যারা',
 	'group-autopatrolled' => 'স্বয়ংক্রীয় পর্যবেক্ষক',
 	'group-confirmed' => 'নিশ্চিতকৃত ব্যবহারকারী',
+	'group-editprotected' => 'সুরক্ষিত পাতা সম্পাদক',
 	'group-flood' => 'বট ব্যবহারকারী',
 	'group-founder' => 'উদ্যোক্তা',
 	'group-import' => 'আমদানীকারক',
@@ -1191,6 +1192,7 @@ $messages['bn'] = array(
 	'group-accountcreator-member' => 'অ্যাকাউন্ট তৈরি করেন যিনি',
 	'group-autopatrolled-member' => 'স্বয়ংক্রীয় পর্যবেক্ষক',
 	'group-confirmed-member' => 'নিশ্চিতকৃত ব্যবহারকারী',
+	'group-editprotected-member' => 'সুরক্ষিত পাতা সম্পাদক',
 	'group-flood-member' => 'বট ব্যবহারকারী',
 	'group-founder-member' => 'প্রতিষ্ঠাতা',
 	'group-import-member' => 'ইম্পোর্টার',
@@ -1204,6 +1206,7 @@ $messages['bn'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:একাউন্ট সৃষ্টিকারীগণ',
 	'grouppage-autopatrolled' => '{{ns:project}}:স্বয়ংক্রীয় পরীক্ষকগণ',
 	'grouppage-confirmed' => '{{ns:project}}:নিশ্চিতকৃত ব্যবহারকারীরা',
+	'grouppage-editprotected' => '{{ns:project}}:সুরক্ষিত পাতা সম্পাদক',
 	'grouppage-flood' => '{{ns:project}}:বট ব্যবহারকারী',
 	'grouppage-founder' => '{{ns:project}}:প্রতিষ্ঠাতাগণ',
 	'grouppage-import' => '{{ns:project}}:ইম্পোর্টারগণ',
@@ -1575,7 +1578,7 @@ $messages['chr'] = array(
 	'sitesupport' => 'ᎠᎵᏍᎪᎸᏙᏗ',
 );
 
-/** Sorani (Arabic script) (‫کوردی (عەرەبی)‬)
+/** Sorani (کوردی)
  * @author Asoxor
  * @author Ferhad y
  * @author Marmzok
@@ -3115,42 +3118,63 @@ $messages['frp'] = array(
 	'specialpages-group-contribution' => 'Contribucions / levâ de fonds',
 	'group-abusefilter' => 'Changiors de filtro d’abus',
 	'group-accountcreator' => 'Crèators de comptos',
+	'group-arbcom' => 'Membros du comitât d’arbitrâjo',
 	'group-autopatrolled' => 'Patrolyors ôtomaticos',
 	'group-autoreviewer' => 'Rèvisors ôtomaticos',
 	'group-bigexport' => 'Grants èxportators',
 	'group-confirmed' => 'Utilisators confirmâs',
+	'group-editprotected' => 'Èditors de pâges protègiês',
+	'group-filemover' => 'Renomors de fichiérs',
 	'group-flood' => 'Drèciors de bot',
 	'group-founder' => 'Fondators',
+	'group-Image-reviewer' => 'Controlors d’émâges',
 	'group-import' => 'Importators',
+	'group-interface_editors' => 'Èditors de l’entèrface',
 	'group-ipblock-exempt' => 'Ègzencions de blocâjo d’adrèce IP',
+	'group-OTRS-member' => 'Membros OTRS',
 	'group-patroller' => 'Patrolyors',
+	'group-researcher' => 'Chèrchiors',
 	'group-rollbacker' => 'Rèvoquiors',
 	'group-transwiki' => 'Importators entèrvouiqui',
 	'group-trusted' => 'Utilisators de fiance',
 	'group-abusefilter-member' => 'Changior de filtro d’abus',
 	'group-accountcreator-member' => 'Crèator de comptos',
+	'group-arbcom-member' => 'Membro du comitât d’arbitrâjo',
 	'group-autopatrolled-member' => 'Patrolyor ôtomatico',
 	'group-autoreviewer-member' => 'Rèvisor ôtomatico',
 	'group-bigexport-member' => 'Grant èxportator',
 	'group-confirmed-member' => 'Utilisator confirmâ',
+	'group-editprotected-member' => 'Èditor de pâges protègiês',
+	'group-filemover-member' => 'Renomor de fichiérs',
 	'group-flood-member' => 'Drècior de bot',
 	'group-founder-member' => 'Fondator',
+	'group-Image-reviewer-member' => 'Controlor d’émâges',
 	'group-import-member' => 'Importator',
+	'group-interface_editors-member' => 'Èditor de l’entèrface',
 	'group-ipblock-exempt-member' => 'Ègzencion de blocâjo d’adrèce IP',
+	'group-OTRS-member-member' => 'Membro OTRS',
 	'group-patroller-member' => 'Patrolyor',
+	'group-researcher-member' => 'Chèrchior',
 	'group-rollbacker-member' => 'Rèvoquior',
 	'group-transwiki-member' => 'Importator entèrvouiqui',
 	'group-trusted-member' => 'Utilisator de fiance',
 	'grouppage-abusefilter' => '{{ns:project}}:Changiors de filtro d’abus',
 	'grouppage-accountcreator' => '{{ns:project}}:Crèators de comptos',
+	'grouppage-arbcom' => '{{ns:project}}:Membros du comitât d’arbitrâjo',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolyors ôtomaticos',
 	'grouppage-autoreviewer' => '{{ns:project}}:Rèvisors ôtomaticos',
 	'grouppage-bigexport' => '{{ns:project}}:Grants èxportators',
 	'grouppage-confirmed' => '{{ns:project}}:Utilisators confirmâs',
+	'grouppage-editprotected' => '{{ns:project}}:Èditors de pâges protègiês',
+	'grouppage-filemover' => '{{ns:project}}:Renomors de fichiérs',
 	'grouppage-flood' => '{{ns:project}}:Drèciors de bot',
 	'grouppage-founder' => '{{ns:project}}:Fondators',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Controlors d’émâges',
 	'grouppage-import' => '{{ns:project}}:Importators',
+	'grouppage-interface_editors' => '{{ns:project}}:Èditors de l’entèrface',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Ègzencion de blocâjo d’adrèce IP',
+	'grouppage-OTRS-member' => '{{ns:project}}:Membros OTRS',
+	'grouppage-researcher' => '{{ns:project}}:Chèrchiors',
 	'grouppage-rollbacker' => '{{ns:project}}:Rèvoquiors',
 	'grouppage-transwiki' => '{{ns:project}}:Importators entèrvouiqui',
 	'grouppage-trusted' => '{{ns:project}}:Utilisators de fiance',
@@ -3159,6 +3183,7 @@ $messages['frp'] = array(
 	'group-editinterface' => 'Changiors de l’entèrface',
 	'group-Global_bot' => 'Bots globâls',
 	'group-Global_rollback' => 'Rèvoquiors globâls',
+	'group-Global_sysops' => 'Administrators globâls',
 	'group-Ombudsmen' => 'Mèdiators',
 	'group-Staff' => 'Gens',
 	'group-steward-member' => 'Stevârd',
@@ -3166,6 +3191,7 @@ $messages['frp'] = array(
 	'group-editinterface-member' => 'Changior de l’entèrface',
 	'group-Global_bot-member' => 'Bot globâl',
 	'group-Global_rollback-member' => 'Rèvoquior globâl',
+	'group-Global_sysops-member' => 'Administrator globâl',
 	'group-Ombudsmen-member' => 'Mèdiator',
 	'group-Staff-member' => 'Membro a les gens',
 	'group-coder' => 'Codiors',
@@ -3597,9 +3623,11 @@ $messages['gsw'] = array(
 	'group-filemover' => 'Dateiverschieber',
 	'group-flood' => 'Botbenutzer',
 	'group-founder' => 'Grinder',
+	'group-Image-reviewer' => 'Dateipriefer',
 	'group-import' => 'Importeur',
 	'group-interface_editors' => 'Benutzeroberflechine-Bearbeiter',
 	'group-ipblock-exempt' => 'IP-Sperri-Usnahme',
+	'group-OTRS-member' => 'OTRS-Mitglider',
 	'group-patroller' => 'Fäldhieter',
 	'group-researcher' => 'Untersuecher',
 	'group-rollbacker' => 'Zrucksetzer',
@@ -3616,9 +3644,11 @@ $messages['gsw'] = array(
 	'group-filemover-member' => 'Dateiverschieber',
 	'group-flood-member' => 'Botbenutzer',
 	'group-founder-member' => 'Grinder',
+	'group-Image-reviewer-member' => 'Dateipriefer',
 	'group-import-member' => 'Importeur',
 	'group-interface_editors-member' => 'Benutzeroberflechine-Bearbeiter',
 	'group-ipblock-exempt-member' => 'IP-Sperri-Usnahm',
+	'group-OTRS-member-member' => 'OTRS-Mitglid',
 	'group-patroller-member' => 'Fäldhieter',
 	'group-researcher-member' => 'Untersuecher',
 	'group-rollbacker-member' => 'Zrucksetzer',
@@ -3635,9 +3665,11 @@ $messages['gsw'] = array(
 	'grouppage-filemover' => '{{ns:project}}:Dateiverschieber',
 	'grouppage-flood' => '{{ns:project}}:Botbenutzer',
 	'grouppage-founder' => '{{ns:project}}:Grinder',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Dateipriefer',
 	'grouppage-import' => '{{ns:project}}:Importeur',
 	'grouppage-interface_editors' => '{{ns:project}}:Benutzeroberflechine-Bearbeiter',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperri-Usnahm',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS-Mitglider',
 	'grouppage-researcher' => '{{ns:project}}:Untersuecher',
 	'grouppage-rollbacker' => '{{ns:project}}:Zrucksetzer',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeur',
@@ -5162,7 +5194,7 @@ $messages['ko'] = array(
 	'grouppage-filemover' => '{{ns:project}}:파일 이름 변경',
 	'grouppage-flood' => '{{ns:project}}:봇 사용자',
 	'grouppage-founder' => '{{ns:project}}:설립자',
-	'grouppage-Image-reviewer' => '{{ns:project:}}:이미지 리뷰어',
+	'grouppage-Image-reviewer' => '{{ns:project}}:이미지 리뷰어',
 	'grouppage-import' => '{{ns:project}}:임포터',
 	'grouppage-interface_editors' => '{{ns:project}}:인터페이스 편집자',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP 차단 면제',
@@ -9571,7 +9603,7 @@ $messages['udm'] = array(
 Мукет адямилэсь текстсэ тытчы пыртэмды ке потэ, [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиослы] но лицензиослэн условиоссылы тупамзэ чакласа возе!',
 );
 
-/** Uighur (Uyghurche‎ / ئۇيغۇرچە) */
+/** Uighur (ئۇيغۇرچە / Uyghurche‎) */
 $messages['ug'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
@@ -9655,7 +9687,7 @@ $messages['ug-arab'] = array(
 	'grouppage-inactive' => '{{ns:project}}:پاسسىپ ئىشلەتكۈچىلەر',
 );
 
-/** Uighur (Latin) (Uyghurche‎ / ئۇيغۇرچە (Latin)) */
+/** Uighur (Latin) (ئۇيغۇرچە / Uyghurche‎ (Latin)) */
 $messages['ug-latn'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
@@ -9667,6 +9699,7 @@ $messages['ug-latn'] = array(
  * @author Ickis
  * @author NickK
  * @author Prima klasy4na
+ * @author Riwnodennyk
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Повідомлення, характерні для Вікімедіа',
@@ -9689,6 +9722,7 @@ $messages['uk'] = array(
 	'group-import' => 'Імпортери',
 	'group-interface_editors' => 'Редактори інтерфейсу',
 	'group-ipblock-exempt' => 'Виключення з IP-блокувань',
+	'group-OTRS-member' => 'Члени OTRS',
 	'group-patroller' => 'Патрульні',
 	'group-researcher' => 'Дослідники',
 	'group-rollbacker' => 'Відкочувачі',
@@ -9709,6 +9743,7 @@ $messages['uk'] = array(
 	'group-import-member' => 'імпортер',
 	'group-interface_editors-member' => 'редактор інтерфейсу',
 	'group-ipblock-exempt-member' => 'виключення з IP-блокування',
+	'group-OTRS-member-member' => 'Член OTRS',
 	'group-patroller-member' => 'патрульний',
 	'group-researcher-member' => 'дослідник',
 	'group-rollbacker-member' => 'відкочувач',
@@ -9729,6 +9764,7 @@ $messages['uk'] = array(
 	'grouppage-import' => '{{ns:project}}:Імпортери',
 	'grouppage-interface_editors' => '{{ns:project}}:Редактори інтерфейсу',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Виключення з IP-блокування',
+	'grouppage-OTRS-member' => '{{ns:project}}:Члени OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Дослідники',
 	'grouppage-rollbacker' => '{{ns:project}}:Відкочувачі',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-імпортери',
