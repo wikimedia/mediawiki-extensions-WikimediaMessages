@@ -6699,6 +6699,7 @@ Als uw bewerking niet door uzelf is geschreven, dan moet uw toevoeging beschikba
  * @author Gunnernett
  * @author Harald Khan
  * @author Jon Harald Søby
+ * @author Ranveig
  */
 $messages['nn'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke meldingar',
@@ -6725,14 +6726,14 @@ $messages['nn'] = array(
 	'group-autopatrolled-member' => 'automatisk godkjende bidrag',
 	'group-autoreviewer-member' => 'automeldar',
 	'group-bigexport-member' => 'stor eksportør',
-	'group-confirmed-member' => 'stadfesta brukar',
+	'group-confirmed-member' => 'Stadfesta brukar',
 	'group-flood-member' => 'bot-brukar',
 	'group-founder-member' => 'grunnleggar',
-	'group-import-member' => 'importør',
-	'group-ipblock-exempt-member' => 'Unteke frå IP-blokkering',
+	'group-import-member' => 'Importør',
+	'group-ipblock-exempt-member' => 'Unnateke frå IP-blokkering',
 	'group-patroller-member' => 'endringsvaktar',
 	'group-rollbacker-member' => 'attenderullar',
-	'group-transwiki-member' => 'transwiki-importør',
+	'group-transwiki-member' => 'Transwiki-importør',
 	'group-trusted-member' => 'brukar til å stola på',
 	'grouppage-abusefilter' => '{{ns:project}}:Redigerarar av misbruksfilteret',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
@@ -6754,7 +6755,7 @@ $messages['nn'] = array(
 	'group-Global_rollback' => 'Globale attenderullarar',
 	'group-Ombudsmen' => 'Ombodsmenn',
 	'group-Staff' => 'Personale',
-	'group-steward-member' => 'steward',
+	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'systemadministrator',
 	'group-editinterface-member' => 'brukargrensesnitt endring',
 	'group-Global_bot-member' => 'global robot',
@@ -6772,7 +6773,7 @@ $messages['nn'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
 	'wikimedia-copyright' => 'Innhaldet er tilgjengeleg under <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-alike License</a>; ytterlegare vilkår kan gjelda. Sjå <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
 	'wikimedia-copyrightwarning' => 'Når du lagrar gjev du ugjenkalleleg løyve til å gje ut ditt bidrag under [http://creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Namngjeving-Del på same vilkår 3.0] og [http://www.gnu.org/copyleft/fdl.html GFDL]. Du går òg med på å verta oppgjeven som ein opphavsperson av gjenbrukarar, som eit minimum, gjennom ei hyperlenke eller URL til artikkelen du var med på å utarbeida. Sjå [http://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra] for fleire opplysingar.',
-	'wikimedia-editpage-tos-summary' => 'Ynskjer du ikkje at verket ditt vert redigert og redistribuert, skal du ikkje lagra det her. Har du ikkje sjølv skrive det, skal det vera tilgjengeleg under vilkåra i samsvar med [http://wikimediafoundation.org/wiki/Terms_of_Use Bruksvilkåra], og du stadfestar å fylgja alle relevante lisenskrav.',
+	'wikimedia-editpage-tos-summary' => 'Ynskjer du ikkje at verket ditt skal verta redigert og redistribuert, skal du ikkje lagra det her. Har du ikkje sjølv skrive det, skal det vera tilgjengeleg under vilkåra i samsvar med [http://wikimediafoundation.org/wiki/Terms_of_Use Bruksvilkåra], og du stadfestar å fylgja alle relevante lisenskrav.',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
@@ -7323,6 +7324,7 @@ $messages['ps'] = array(
  * @author Lijealso
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
+ * @author Waldir
  */
 $messages['pt'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
@@ -7345,7 +7347,7 @@ $messages['pt'] = array(
 	'group-import' => 'Importadores',
 	'group-interface_editors' => 'Editores da interface',
 	'group-ipblock-exempt' => 'Isenções de bloqueio IP',
-	'group-OTRS-member' => 'Membros OTRS',
+	'group-OTRS-member' => 'Membros do OTRS',
 	'group-patroller' => 'Patrulhadores',
 	'group-researcher' => 'Investigadores',
 	'group-rollbacker' => 'Reversores',
@@ -7366,7 +7368,7 @@ $messages['pt'] = array(
 	'group-import-member' => 'importador',
 	'group-interface_editors-member' => 'editor da interface',
 	'group-ipblock-exempt-member' => 'isento de bloqueio IP',
-	'group-OTRS-member-member' => 'membro OTRS',
+	'group-OTRS-member-member' => 'membro do OTRS',
 	'group-patroller-member' => 'patrulhador',
 	'group-researcher-member' => 'investigador',
 	'group-rollbacker-member' => 'reversor',
@@ -7387,7 +7389,7 @@ $messages['pt'] = array(
 	'grouppage-import' => '{{ns:project}}:Importadores',
 	'grouppage-interface_editors' => '{{ns:project}}:Editores da interface',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Isenção de bloqueio IP',
-	'grouppage-OTRS-member' => '{{ns:project}}:Membros OTRS',
+	'grouppage-OTRS-member' => '{{ns:project}}:Membros do OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Investigador',
 	'grouppage-rollbacker' => '{{ns:project}}:Reversores',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
@@ -8546,7 +8548,7 @@ $messages['sr-ec'] = array(
 	'group-autoreviewer' => 'Аутоматски прегледани',
 	'group-bigexport' => 'Велики извозници',
 	'group-confirmed' => 'Потврђени корисници',
-	'group-editprotected' => 'Уредници заштићених страна',
+	'group-editprotected' => 'Уредници заштићених страница',
 	'group-filemover' => 'Премештачи фајлова',
 	'group-flood' => 'Ботовски корисници',
 	'group-founder' => 'оснивачи',
@@ -8564,7 +8566,7 @@ $messages['sr-ec'] = array(
 	'group-autoreviewer-member' => 'аутоматски прегледан',
 	'group-bigexport-member' => 'велики извозник',
 	'group-confirmed-member' => 'Потврђен корисник',
-	'group-editprotected-member' => 'уредник заштићених страна',
+	'group-editprotected-member' => 'уредник заштићених страница',
 	'group-filemover-member' => 'премештач фајлова',
 	'group-flood-member' => 'ботовски корисник',
 	'group-founder-member' => 'оснивач',
@@ -8582,7 +8584,7 @@ $messages['sr-ec'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Аутоматски прегледани',
 	'grouppage-bigexport' => '{{ns:project}}:Велики извозници',
 	'grouppage-confirmed' => '{{ns:project}}:Потврђени корисници',
-	'grouppage-editprotected' => '{{ns:project}}:Уредници заштићених страна',
+	'grouppage-editprotected' => '{{ns:project}}:Уредници заштићених страница',
 	'grouppage-filemover' => '{{ns:project}}:Премештачи фајлова',
 	'grouppage-flood' => '{{ns:project}}:Ботовски корисници',
 	'grouppage-founder' => '{{ns:project}}:Оснивачи',
