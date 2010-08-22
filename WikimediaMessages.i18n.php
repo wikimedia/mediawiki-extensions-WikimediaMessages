@@ -1262,7 +1262,7 @@ $messages['bn'] = array(
 	'wikimedia-copyright' => 'লেখাগুলো <a href="http://creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
 এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
  <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
-	'wikimedia-copyrightwarning' => 'সংরক্ষণের মাধ্যমে, আপনি এই বিষয়ে একমত হচ্ছেন যে, আপনার অবদান, ক্রিয়েটিভ কমন্স [http://creativecommons.org/licenses/by-sa/3.0/ অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্স ৩.০] এবং [http://www.gnu.org/copyleft/fdl.html গনু ফ্রি ডকুমেন্টেশন লাইসেন্স (জিএফডিএল)] -এর আওতাভুক্ত। এছাড়া আরও একমত হচ্ছেন যে, এটি অন্য কোথাও যেভাবেই ব্যবহৃত হোক না কেন, আপনার অবদানের স্বীকৃতি দিতে হবে, তা পাতার হাইপারলিঙ্ক বা ইউআরএল উল্লেখ করে হতে পারে। [http://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীতে] বিস্তারিত দেখুন।',
+	'wikimedia-copyrightwarning' => 'সংরক্ষণের মাধ্যমে, আপনি এই বিষয়ে সম্মত হচ্ছেন যে, আপনার অবদান, ক্রিয়েটিভ কমন্স [http://creativecommons.org/licenses/by-sa/3.0/ অ্যাট্রিবিউশন/শেয়ার-অ্যালাইক লাইসেন্স ৩.০] এবং [http://www.gnu.org/copyleft/fdl.html গনু ফ্রি ডকুমেন্টেশন লাইসেন্স (জিএফডিএল)] -এর আওতাভুক্ত। এছাড়া আরও সম্মত হচ্ছেন যে, এটি অন্য কোথাও যেভাবেই ব্যবহৃত হোক না কেন, আপনার অবদানের স্বীকৃতি দিতে হবে, তা পাতার হাইপারলিঙ্ক বা ইউআরএল উল্লেখ করে হতে পারে। [http://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীতে] বিস্তারিত দেখুন।',
 	'wikimedia-editpage-tos-summary' => 'আপনি যদি না চান যে অন্য যে কোন ব্যক্তি ইচ্ছাপূর্বক আপনার লেখা সম্পাদনা করুক বা যথেচ্ছা বিতরণ করুক, সেক্ষেত্রে সেটি এখানে দাখিল করবেন না। আপনি যদি নিজে এই রচনা না করে থাকেন, সেক্ষেত্রে এই [http://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সঙ্গে সঙ্গতিপূর্ণ কোনো শর্তাবলী অনুযায়ী সেটি লভ্য হতে হবে, এবং আপনি এতদ্বারা প্রয়োজনানুরূপ অনুবন্ধী স্বত্ব পালনে সম্মতি জানাচ্ছেন।',
 );
 
@@ -3265,10 +3265,12 @@ Vêde les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâj
 Se vos los éd pas ècrits vos-mémo, dêvont étre disponiblos desot des condicions compatibles avouéc les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo], et pués vos accèptâd de siuvre totes les ègzigences de la licence.',
 );
 
-/** Northern Frisian (Frasch)
+/** Northern Frisian (Nordfriisk)
+ * @author Murma174
  * @author Pyt
  */
 $messages['frr'] = array(
+	'sitesupport' => 'Stipe',
 	'wikimedia-copyright' => 'Di täkst stoont uner e lisäns <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> tu rädj; betängelse haanetu koone önjwiinjbor weese.
 Änkelthäide san önj da <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">njütingsbetängelse</a> beschraawen.',
 );
@@ -6841,6 +6843,7 @@ $messages['no'] = array(
 	'group-filemover' => 'Filflyttere',
 	'group-flood' => 'bot-brukere',
 	'group-founder' => 'Grunnleggere',
+	'group-Image-reviewer' => 'Bildekontrollører',
 	'group-import' => 'Importører',
 	'group-interface_editors' => 'Bidragsytere til grensesnitt',
 	'group-ipblock-exempt' => 'Untatte fra IP-blokkering',
@@ -6861,6 +6864,7 @@ $messages['no'] = array(
 	'group-filemover-member' => 'filflytter',
 	'group-flood-member' => 'bot-bruker',
 	'group-founder-member' => 'Grunnlegger',
+	'group-Image-reviewer-member' => 'bildekontrollør',
 	'group-import-member' => 'Importør',
 	'group-interface_editors-member' => 'bidragsyter til grensesnitt',
 	'group-ipblock-exempt-member' => 'Unttatt fra IP-blokkering',
@@ -6881,6 +6885,7 @@ $messages['no'] = array(
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
 	'grouppage-flood' => '{{ns:project}}:Bot-brukere',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggere',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Bildekontrollører',
 	'grouppage-import' => '{{ns:project}}:Importører',
 	'grouppage-interface_editors' => '{{ns:project}}:Bidragsytere til grensesnitt',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unntatte fra IP-blokkering',
@@ -9277,6 +9282,7 @@ $messages['tg-latn'] = array(
 );
 
 /** Thai (ไทย)
+ * @author Horus
  * @author Manop
  * @author Mopza
  * @author Octahedron80
@@ -9300,6 +9306,7 @@ $messages['th'] = array(
 	'group-ipblock-exempt' => 'การยกเว้นการระงับหมายเลขไอพี',
 	'group-patroller' => 'ผู้ตรวจการ',
 	'group-rollbacker' => 'ผู้ย้อนสถานะ',
+	'group-transwiki' => 'ผู้นำเข้าข้ามวิกิ',
 	'group-trusted' => 'ผู้ใช้ที่เชื่อถือได้',
 	'group-accountcreator-member' => 'ผู้สร้างบัญชีผู้ใช้',
 	'group-autopatrolled-member' => 'ผู้ตรวจการอัติโนมัติ',
@@ -9307,6 +9314,7 @@ $messages['th'] = array(
 	'group-confirmed-member' => 'ผู้ใช่ที่ยืนยันแล้ว',
 	'group-flood-member' => 'ผู้ใช้ที่เป็นบอต',
 	'group-founder-member' => 'ผู้ก่อตั้ง',
+	'group-import-member' => 'ผู้นำเข้า',
 	'group-ipblock-exempt-member' => 'หมายเลขไอพีที่ยกเว้นจากการระงับ',
 	'group-patroller-member' => 'ผู้ตรวจการ',
 	'group-rollbacker-member' => 'ผู้ย้อนสถานะ',
@@ -9318,7 +9326,10 @@ $messages['th'] = array(
 	'grouppage-confirmed' => '{{ns:project}}:ผู้ใช้ที่ยืนยันแล้ว',
 	'grouppage-flood' => '{{ns:project}}:ผู้ใช้ที่เป็นบอต',
 	'grouppage-founder' => '{{ns:project}}:ผู้ร่วมก่อตั้ง',
+	'grouppage-import' => '{{ns:project}}:ผู้นำเข้า',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:การยกเว้นการระงับหมายเลขไอพี',
 	'grouppage-rollbacker' => '{{ns:project}}:ผู้ย้อนสถานะ',
+	'grouppage-transwiki' => '{{ns:project}}:ผู้นำเข้าข้ามวิกิ',
 	'grouppage-trusted' => '{{ns:project}}:ผู้ใช้ที่เชื่อถือได้',
 	'group-steward' => 'ผู้ดูแลโครงการ',
 	'group-sysadmin' => 'ผู้ดูแลระบบ',
@@ -9334,6 +9345,9 @@ $messages['th'] = array(
 	'wikimedia-copyright' => 'ตัวอักษรนี้อยู่ภายใต้<a href="http://creativecommons.org/licenses/by-sa/3.0/">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>;
 และอาจจะมีข้อเพิ่มเติมอื่นๆ
 กรุณาดู<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">สิทธิ์การใช้งาน</a>สำหรับรายละเอียดเพิ่มเติม',
+	'wikimedia-copyrightwarning' => 'เมื่อคุณบันทึก คุณยินยอมที่จะให้การเขียนของคุณอยู่ภายใต้[http://creativecommons.org/licenses/by-sa/3.0/ สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0] และ [http://www.gnu.org/copyleft/fdl.html GFDL] อย่างแก้คืนไม่ได้ 
+คุณยินยอมที่จะได้รับเครดิตจากผู้ที่นำข้อมูลของคุณไปใช้ อย่างน้อยที่สุด ผ่านทางไฮเปอร์ลิงก์หรือยูอาร์แอลเชื่อมโยงมายังหน้าที่คุณได้มีส่วนเขียนนี้
+โปรดศึกษา[http://wikimediafoundation.org/wiki/Terms_of_Use เงื่อนไขการใช้งาน]',
 	'wikimedia-editpage-tos-summary' => 'ถ้าคุณไม่ต้องการให้งานเขียนของคุณถูกแก้ไขแม้แต่นิดเดียว กรุณาอย่าส่งงานเขียนที่นี่
 ถ้าคุณไม่ได้เขียนงานนี้ด้วยตัวคุณเอง งานเขียนต้องสามารถอยู่ภายใต้ [http://wikimediafoundation.org/wiki/Terms_of_Use สิทธิ์การใช้] และคุณต้องยินดีกระทำตามควมต้องการของสัญญาอนุญาตทั้งหมด',
 );

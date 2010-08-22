@@ -1356,9 +1356,13 @@ $messages['bg'] = array(
 
 /** Bengali (বাংলা)
  * @author Bellayet
+ * @author Prometheus.pyrphoros
  */
 $messages['bn'] = array(
 	'wikimedialicensetexts-desc' => 'উইকিমিডিয়া লাইসেন্স বার্তা',
+	'wm-license-attribution-with-author-text' => "এই ফাইলের স্বত্বাধিকারী, $1, যে কোন ব্যক্তিকে ''' যেকোনো উপলক্ষে''' এটি ব্যবহার করার অধিকার দিচ্ছেন, এই '''শর্তসাপেক্ষে''' যে,  স্বত্বাধিকারীকে সম্যকভাবে স্বীকৃতিপ্রদান করা হবে। পুনঃবিতরণ, অনুকৃতি, ব্যবসায়িক প্রয়োগ এবং অনান্য সকল উপলক্ষে ব্যবহারের অধিকার দেওয়া হচ্ছে।",
+	'wm-license-attribution-without-author-text' => "এই ফাইলের স্বত্বাধিকারী যে কোন ব্যক্তিকে '''যেকোনো উপলক্ষে''' এটি ব্যবহার করার অধিকার দিচ্ছেন, এই '''শর্তসাপেক্ষে''' যে,  স্বত্বাধিকারীকে সম্যকভাবে স্বীকৃতিপ্রদান করা হবে। পুনঃবিতরণ, অনুকৃতি, ব্যবসায়িক প্রয়োগ এবং অনান্য সকল উপলক্ষে ব্যবহারের অধিকার দেওয়া হচ্ছে।",
+	'wm-license-cc-attribution' => 'স্বীকৃতিপ্রদান',
 	'wm-license-cc-by-1.0-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] লাইসেন্সের আওতায় লাইসেন্সকৃত।',
 	'wm-license-cc-by-1.0-fi-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] লাইসেন্সের আওতায় লাইসেন্সকৃত।',
 	'wm-license-cc-by-1.0-il-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] লাইসেন্সের আওতায় লাইসেন্সকৃত।',
@@ -1519,6 +1523,7 @@ $messages['bn'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 Finland] লাইসেন্সের আওতায় লাইসেন্সকৃত।',
 	'wm-license-cc-sa-1.0-nl-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.en Share Alike 1.0 Netherlands] লাইসেন্সের আওতায় লাইসেন্সকৃত।',
 	'wm-license-cc-sa-2.0-jp-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japan] লাইসেন্সের আওতায় লাইসেন্সকৃত।',
+	'wm-license-cc-zero-text' => 'এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমনস]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 waiver]-এর ভিত্তিতে লভ্য।',
 	'wm-license-cc-free' => 'আপনি যা স্বাধীনভাবে করতে পারেন:',
 	'wm-license-cc-free-to-share-header' => 'বন্টন করতে পারেন',
 	'wm-license-cc-free-to-share-text' => 'এ কাজটি অনুলিপি, বিতরণ এবং প্রেরণ করতে পারেন',
@@ -1832,6 +1837,7 @@ $messages['bs'] = array(
 	'wm-license-cc-by-2.5-tw-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.en Attribution 2.5 Tajvan].',
 	'wm-license-cc-by-2.5-za-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licenci [http://creativecommons.org/licenses/by/2.5/za/deed.en Attribution 2.5 Južnoafrička Republika].',
 	'wm-license-cc-by-3.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0] neportiranom licencom.',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [http://creativecommons.org/licenses/by/3.0/deed.en 3.0 neportovanom], [http://creativecommons.org/licenses/by/2.5/deed.en 2.5 generičkom], [http://creativecommons.org/licenses/by/2.0/deed.en 2.0 generičkom] i [http://creativecommons.org/licenses/by/1.0/deed.en 1.0 generičkom] licencom.',
 	'wm-license-cc-by-3.0-at-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austrija].',
 	'wm-license-cc-by-3.0-cz-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/cz/deed.en Attribution 3.0 Češka Republika].',
 	'wm-license-cc-by-3.0-de-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/de/ Attribution 3.0 Njemačka].',
@@ -4893,15 +4899,27 @@ $messages['frp'] = array(
 	'wikimedialicensetexts-desc' => 'Mèssâjos de les licences de Wikimedia.',
 	'wm-license-cc-wiki-link' => 'w:frp:Creative Commons',
 	'wm-license-cc-attribution' => 'Atribucion',
-	'wm-license-cc-by-1.0-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr patèrnitât 1.0 g·ènèrica].',
-	'wm-license-cc-by-1.0-fi-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.fr patèrnitât 1.0 Finlande].',
-	'wm-license-cc-by-1.0-il-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.fr patèrnitât 1.0 Israèl].',
-	'wm-license-cc-by-1.0-nl-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.fr patèrnitât 1.0 Payis-Bâs].',
-	'wm-license-cc-by-2.0-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.fr patèrnitât 2.0 g·ènèrica].',
-	'wm-license-cc-by-2.0-at-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.fr patèrnitât 2.0 Ôtrich·e].',
-	'wm-license-cc-by-2.0-au-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.fr patèrnitât 2.0 Ôstralie].',
-	'wm-license-cc-by-2.0-be-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.fr patèrnitât 2.0 Bèlg·ique].',
-	'wm-license-cc-by-2.0-br-text' => 'Ceti fichiér est disponiblo desot [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fr patèrnitât 2.0 Brèsil].',
+	'wm-license-cc-by-1.0-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr patèrnitât 1.0 g·ènèrica].',
+	'wm-license-cc-by-1.0-fi-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.fr patèrnitât 1.0 Finlande].',
+	'wm-license-cc-by-1.0-il-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.fr patèrnitât 1.0 Israèl].',
+	'wm-license-cc-by-1.0-nl-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.fr patèrnitât 1.0 Payis-Bâs].',
+	'wm-license-cc-by-2.0-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.fr patèrnitât 2.0 g·ènèrica].',
+	'wm-license-cc-by-2.0-at-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.fr patèrnitât 2.0 Ôtrich·e].',
+	'wm-license-cc-by-2.0-au-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.fr patèrnitât 2.0 Ôstralie].',
+	'wm-license-cc-by-2.0-be-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.fr patèrnitât 2.0 Bèlg·ique].',
+	'wm-license-cc-by-2.0-br-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fr patèrnitât 2.0 Brèsil].',
+	'wm-license-cc-by-2.0-ca-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.fr patèrnitât 2.0 Canada].',
+	'wm-license-cc-by-2.0-cl-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.fr patèrnitât 2.0 Ch·ili].',
+	'wm-license-cc-by-2.0-de-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.fr patèrnitât 2.0 Alemagnes].',
+	'wm-license-cc-by-2.0-es-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.fr patèrnitât 2.0 Èspagne].',
+	'wm-license-cc-by-2.0-fr-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.fr patèrnitât 2.0 France].',
+	'wm-license-cc-by-2.0-hr-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/deed.fr patèrnitât 2.0 Croacie].',
+	'wm-license-cc-by-2.0-it-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.fr patèrnitât 2.0 Étalie].',
+	'wm-license-cc-by-2.0-jp-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.fr patèrnitât 2.0 J·apon].',
+	'wm-license-cc-by-2.0-kr-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fr patèrnitât 2.0 Corê].',
+	'wm-license-cc-by-2.0-nl-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.fr patèrnitât 2.0 Payis-Bâs].',
+	'wm-license-cc-by-2.0-pl-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/deed.fr patèrnitât 2.0 Pologne].',
+	'wm-license-cc-by-2.0-tw-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.fr patèrnitât 2.0 Tayivan].',
 	'wm-license-cc-free' => 'Vos éte abado :',
 	'wm-license-cc-free-to-share-header' => 'de partagiér',
 	'wm-license-cc-free-to-share-text' => 'de copiyér, distribuar et transmetre cela ôvra',
@@ -13147,10 +13165,11 @@ $messages['th'] = array(
 	'wm-license-attribution-without-author-text' => "ผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไป ใช้'''",
 	'wm-license-cc-wiki-link' => 'w:th:ครีเอทีฟคอมมอนส์',
 	'wm-license-cc-attribution' => 'การแสดงที่มา',
-	'wm-license-cc-by-1.0-text' => 'ภาพหรือสื่อนี้อยู่ภายใต้สัญญาอนุญาต [[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] รุ่น [http://creativecommons.org/licenses/by/1.0/deed.th แสดงที่มา 1.0 ทั่วไป] (Attribution 1.0 Generic)',
+	'wm-license-cc-by-1.0-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] รุ่น [http://creativecommons.org/licenses/by/1.0/deed.th แสดงที่มา 1.0 ทั่วไป]',
 	'wm-license-cc-by-1.0-fi-text' => 'ภาพหรือสื่อนี้อยู่ภายใต้สัญญาอนุญาต [[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] รุ่น [http://creativecommons.org/licenses/by/1.0/fi/deed.th แสดงที่มา 1.0 ฟินแลนด์] (Attribution 1.0 Finland)',
 	'wm-license-cc-by-1.0-il-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [http://creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 1.0 ของประเทศอิสราเอล]',
 	'wm-license-cc-by-1.0-nl-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [http://creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 1.0 ของประเทศเนเธอร์แลนด์]',
+	'wm-license-cc-by-2.0-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] รุ่น [http://creativecommons.org/licenses/by/1.0/deed.th แสดงที่มา 2.0 ทั่วไป]',
 	'wm-license-cc-by-2.0-at-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [http://creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.0 ของประเทศออสเตรีย]',
 	'wm-license-cc-by-2.0-au-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [http://creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.0 ของประเทศออสเตรเลีย]',
 	'wm-license-cc-by-2.0-be-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [http://creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.0 ของประเทศเบลเยียม]',
@@ -14386,8 +14405,11 @@ $messages['vls'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:vls:GFDL',
 );
 
-/** Volapük (Volapük) */
+/** Volapük (Volapük)
+ * @author Malafaya
+ */
 $messages['vo'] = array(
+	'wm-license-cc-free' => 'Binol libik:',
 	'wm-license-information-description' => 'Bepenam',
 	'wm-license-information-source' => 'Fon',
 	'wm-license-information-date' => 'Dät',
