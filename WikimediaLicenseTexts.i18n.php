@@ -806,12 +806,16 @@ $messages['ar'] = array(
 	'wm-license-cc-by-2.5-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/nl/ نسبة المصنف إلى مؤلفه 2.5 الهولندية].',
 	'wm-license-cc-by-2.5-pe-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pe/ نسبة المصنف إلى مؤلفه 2.5 البيروية].',
 	'wm-license-cc-by-2.5-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pl/ نسبة المصنف إلى مؤلفه 2.5 البولندية].',
+	'wm-license-cc-by-2.5-pt-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pt/deed.en نسبة المصنف إلى مؤلفه 2.5 البرتغالية].',
+	'wm-license-cc-by-2.5-scotland-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.en نسبة المصنف إلى مؤلفه2.5 المملكة المتحدة: اسكوتلندا] .',
 	'wm-license-cc-by-2.5-se-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/se/ نسبة المصنف إلى مؤلفه 2.5 السويدية].',
 	'wm-license-cc-by-2.5-si-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/si/ نسبة المصنف إلى مؤلفه 2.5 السلوفانية].',
 	'wm-license-cc-by-2.5-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/tw/ نسبة المصنف إلى مؤلفه 2.5 التايوانية].',
 	'wm-license-cc-by-2.5-za-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 جنوب الأفريقية].',
 	'wm-license-cc-by-3.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ نسبة المصنف إلى مؤلفه 3.0 العامة]',
 	'wm-license-cc-by-3.0-at-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/at/ نسبة المصنف إلى مؤلفه 3.0 النمساوية]',
+	'wm-license-cc-by-3.0-cz-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/cz/deed.en نسبة المصنف إلى مؤلفه 3.0 الجمهورية التشيكية].',
+	'wm-license-cc-by-3.0-de-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/de/deed.en نسبة المصنف إلى مؤلفه 3.0 الألمانية].',
 	'wm-license-cc-by-sa-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 العامة]',
 	'wm-license-cc-by-sa-2.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 العامة]',
 	'wm-license-cc-by-sa-2.0-at-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/at/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 النمساوية]',
@@ -970,10 +974,11 @@ $messages['bcl'] = array(
 
 /** Belarusian (Беларуская)
  * @author Diebuche
+ * @author Yury Tarasievich
  */
 $messages['be'] = array(
 	'wm-license-fsf-wiki-link' => 'w:be:Фонд Свабоднага праграмнага забеспячэння',
-	'wm-license-gfdl-1.2-and-later' => "Дазваляецца капіяваць, распаўсюджваць і/або мадыфікаваць дадзены дакумэнт на ўмовах '''[[{{int:wm-license-gfdl-wiki-link}}|ліцэнзіі GNU FDL вэрсіі]]''' 1.2 або больш позьняй, выдадзенай [[{{int:wm-license-fsf-wiki-link}}|Фундацыяй вольнага праграмнага забесьпячэньня]], без нязьменных разьдзелаў, бяз тэкстаў, якія разьмешчаныя на першай і апошняй вокладцы. Копія ліцэнзіі знаходзіцца ў разьдзеле ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-and-later' => "Дазваляецца капіраваць, распаўсюджваць і(або) мадыфікаваць гэты дакумент на ўмовах '''[[{{int:wm-license-gfdl-wiki-link}}|ліцэнзіі GNU FDL версіі]]''' 1.2 або навейшай, выдадзенай [[{{int:wm-license-fsf-wiki-link}}|Фондам свабоднага праграмнага забеспячэння]]; без Нязменных раздзелаў, без тэкстаў Вокладак. Копія ліцэнзіі ёсць у раздзеле ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:be:GNU Free Documentation License',
 	'wm-license-information-description' => 'Апісанне',
 	'wm-license-information-source' => 'Крыніца',
@@ -9554,8 +9559,12 @@ $messages['myv'] = array(
 	'wm-license-information-other-versions' => 'Лият версият',
 );
 
-/** Nahuatl (Nāhuatl) */
+/** Nahuatl (Nāhuatl)
+ * @author Ricardo gs
+ */
 $messages['nah'] = array(
+	'wm-license-cc-by-1.0-text' => 'Inīn zāzanilli tlatēctli tlani in [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.nah Achcauh Tlaīxcoyantiliztli 1.0]  tēmācāhualiztli.',
+	'wm-license-cc-by-1.0-fi-text' => 'Inīn zāzanilli tlatēctli tlani in [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.nah Tlaīxcoyantiliztli 1.0 Fintlālpan] tēmācāhualiztli.',
 	'wm-license-information-source' => 'Īhuīcpa',
 );
 
@@ -12207,6 +12216,7 @@ $messages['sh'] = array(
 
 /** Sinhala (සිංහල)
  * @author Calcey
+ * @author Pasanbhathiya2
  * @author චතුනි අලහප්පෙරුම
  */
 $messages['si'] = array(
@@ -12384,15 +12394,22 @@ $messages['si'] = array(
 	'wm-license-free-software-wiki-link' => 'w:si:නිදහස් මෘදුකාංග',
 	'wm-license-information-table-summary' => 'එය පෙන්වන්නේ කුමක්ද හා නිමැවුනේ කෙසේද, එහි හිමිකම් තත්ත්වයන් හා මූලාශ්‍රයන් යන දේ ගැන විස්තරයන්ද ඇතුළුව,ගොනුව පිළිබඳ පූර්ණ තොරතුරු සපයන ප්‍රමිතිගත වගුවකි.',
 	'wm-license-information-description' => 'විස්තරය',
+	'wm-license-information-description-missing' => 'මෙම ගොනුවට අදාල විස්තරයක් නොමැති වන අතර, වෙනත් තොරතුරුද, නොමැති විය හැක.',
+	'wm-license-information-description-missing-request' => 'කරුණාකර මෙම ගොනුවට අර්ථවත් විස්තරයක් සපයන්න',
 	'wm-license-information-source' => 'මූලාශ්‍රය',
+	'wm-license-information-source-missing' => 'මෙම ගොනුවේ, මූලාශ්‍ර තොරතුරු ඇතුළත් නොවේ',
+	'wm-license-information-source-missing-request' => 'කරුණාකර මෙම ගොනුවේ විස්තරය සංස්කරණය කර මූලාශ්‍රයක් සපයන්න',
 	'wm-license-information-date' => 'දිනය',
 	'wm-license-information-author' => 'කතෘ',
+	'wm-license-information-author-missing' => 'මෙම ගොනුවේ, කතෘ තොරතුරු ඇතුළත් නොවේ',
 	'wm-license-information-permission' => 'අවසරය',
 	'wm-license-information-permission-reusing-text' => 'මෙම ගොනුව නැවත භාවිතා කරමින්',
 	'wm-license-information-permission-see-below' => 'පහත බලන්න.',
 	'wm-license-information-other-versions' => 'අනෙකුත් අනුවාදයන්',
 	'wm-license-lgpl-wiki-link' => 'w:si:LGPL',
 	'wm-license-own-work' => 'උඩුගතකරන්නාගේ ස්වකීය නිර්මාණයකි',
+	'wm-license-pd-author-not-legally-possible' => 'සමහර රටවල මෙය අනීතික විය හැකිය. එසේ වුවහොත්;',
+	'wm-license-pd-author-self-any-purpose' => 'මම කිසිදු කොන්දේසියකින් තොරව,ඕනෑම අයෙකුට ඕනෑම කාර්යයක් සඳහා මෙය, නීතිමය බාධාවක් නොමැති වනතුරු, භාවිතා කිරීමේ අයිතිය ලබාදෙමි.',
 	'wm-license-self-one-license' => 'මෙම කෘතියෙහි හිමිකම් අයිතීන් දරන්නා වන මම,පහත වරපත යටතේ එය ප්‍රකාශයට පත් කරමි:',
 	'wm-license-self-one-license-with-author' => 'මෙම කෘතියෙහි හිමිකම් අයිතීන් දරන්නා වන $1 නමැති මම,  පහත වරපත යටතේ එය ප්‍රකාශයට පත් කරමි:',
 	'wm-license-self-multiple-licenses' => 'I, මෙම කාර්යයේ ප්‍රකාශන අයිතිය දරන්නා,පහත බලපත්‍රය යටතේ එය ප්‍රකාශයට පත් කරනු ලබයි:',
@@ -13212,7 +13229,7 @@ $messages['te'] = array(
 	'wm-license-cc-by-2.5-hu-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపదింపు ౨.౫ హుంగరీ] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-2.5-il-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ ఇస్రాయిల్] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-2.5-in-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ ఇండియా] యందు అనుమతిన్చాబడినది.',
-	'wm-license-cc-by-2.5-it-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ ఇటలీ] యందు అనుమతిన్చాబడినది.',
+	'wm-license-cc-by-2.5-it-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/2.5/it/ ఆపాదింపు 2.5 ఇటలీ] లైనెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-by-2.5-mk-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ మాసిడోనియా] యందు అనుమతిన్చాబడినది.',
 	'wm-license-cc-by-2.5-mt-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ మాల్టా] యందు అనుమతిన్చాబడినది.',
 	'wm-license-cc-by-2.5-mx-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ మెక్షికొ] యందు అనుమతిన్చాబడినది.',
@@ -13225,7 +13242,7 @@ $messages['te'] = array(
 	'wm-license-cc-by-2.5-se-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ స్వీడెన్] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-2.5-si-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ స్లోవీనియా] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-2.5-tw-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౨.౫ తైవాన్] యందు అనుమతించబడినది.',
-	'wm-license-cc-by-2.5-za-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపదింపు ౨.౫ దక్షిణ ఆఫ్రికా]అనుమతి.',
+	'wm-license-cc-by-2.5-za-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by/2.5/za/ ఆపాదింపు 2.5 దక్షిణ ఆఫ్రికా] లైసెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-by-3.0-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ ఆన్-పోర్టెడ్] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'ఈ ఫైలు అనుపతి [[{{int:wm-license-cc-wiki-link}}|సాదారణ సృజనత్మకము]] ఆపాదించు [http://creativecommons.org/licenses/by/3.0/ ౩.౦ అం-పోర్టెడ్], [http://creativecommons.org/licenses/by/2.5/ 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/ 2.0 Generic] and [http://creativecommons.org/licenses/by/1.0/ 1.0 Generic] license.',
 	'wm-license-cc-by-3.0-at-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ ఆస్ట్రియా] యందు అనుమతించబడినది.',

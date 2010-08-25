@@ -8255,6 +8255,7 @@ $messages['shi'] = array(
 
 /** Sinhala (සිංහල)
  * @author Calcey
+ * @author Pasanbhathiya2
  * @author චතුනි අලහප්පෙරුම
  * @author නන්දිමිතුරු
  * @author බිඟුවා
@@ -8318,6 +8319,7 @@ $messages['si'] = array(
 	'group-editinterface' => 'අතුරු මුහුණත් සකසන',
 	'group-Global_bot' => 'ගෝලීය රොබෝවරුන්',
 	'group-Global_rollback' => 'ගෝලීය පසුපෙරළන්නන්',
+	'group-Global_sysops' => 'ගෝලීය පද්ධති පරිපාලකවරුන්',
 	'group-Ombudsmen' => 'දුග්ගන්නාරාළවරුන්',
 	'group-Staff' => 'සේවක මඩුල්ල',
 	'group-steward-member' => 'භාරකරු',
@@ -8325,6 +8327,7 @@ $messages['si'] = array(
 	'group-editinterface-member' => 'අතුරු මුහුණත් සකසනය',
 	'group-Global_bot-member' => 'ගෝලීය රොබෝවරයා',
 	'group-Global_rollback-member' => 'ගෝලීය පසුපෙරළන්නා',
+	'group-Global_sysops-member' => 'ගෝලීය පද්ධති පරිපාලක',
 	'group-Ombudsmen-member' => 'දුග්ගන්නාරාළ',
 	'group-Staff-member' => 'සේවක මණ්ඩල සාමාජිකයා',
 	'grouppage-steward' => 'm:භාරකරුවන්',
@@ -9673,11 +9676,31 @@ $messages['ts'] = array(
  * @author Rinatus
  * @author Timming
  * @author Ерней
+ * @author Ильнар
  * @author Рашат Якупов
  */
 $messages['tt-cyrl'] = array(
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Сделать_пожертвование',
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
+	'specialpages-group-contribution' => 'Иганә/Ярдәм җыю',
+	'group-abusefilter' => 'Усаллык белән эш итүчеләрне тикшерүче мөхәррирләр',
+	'group-accountcreator' => 'Хисап язмасы төзүчеләр',
+	'group-arbcom' => 'Арбитраж шурасы әгъзаләре',
+	'group-autopatrolled' => 'Автотикшерүчеләр',
+	'group-autoreviewer' => 'Алдан караучылар',
+	'group-bigexport' => 'Зур экспортерлар',
+	'group-confirmed' => 'Расланган кулланучылар',
+	'group-editprotected' => 'Якланган битнең мөхәррирләре',
+	'group-filemover' => 'Исеме алмаштырулы битләр',
+	'group-flood' => 'Ботлар',
+	'group-founder' => 'Нигез салучылар',
+	'group-Image-reviewer' => 'Рәсемнәрне тикшерүчеләр',
+	'group-import' => 'Импортлаучы кулланучылар',
+	'group-interface_editors' => 'Интерфейс мөхәррирләре',
+	'group-ipblock-exempt' => 'IP-кысылган кулланучылар',
+	'group-OTRS-member' => 'OTRS әгъзалары',
+	'group-patroller' => 'Тикшерүче',
 	'group-patroller-member' => 'тикшерүче',
 	'group-trusted-member' => 'ышанычлы кулланучы',
 	'grouppage-flood' => '{{ns:project}}:Кулланучы-ботлар',
