@@ -6959,6 +6959,7 @@ $messages['is'] = array(
  * @author Beta16
  * @author Civvì
  * @author Darth Kule
+ * @author Gianfranco
  * @author Multichill
  * @author OrbiliusMagister
  * @author Trixt
@@ -7177,6 +7178,7 @@ $messages['it'] = array(
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/it',
 	'wm-license-original-upload-log' => "Log originale dell'upload",
 	'wm-license-own-work' => 'Opera propria',
+	'wm-license-pd-author-self-text' => "Io, detentore dei diritti d'autore su questo lavoro, rilascio questo lavoro nel '''[[{{int:wm-license-pd-wiki-link}}|Pubblico Dominio]]'''. Ciò a valersi in tutto il Mondo.",
 	'wm-license-pd-author-not-legally-possible' => 'In alcuni paesi questo potrebbe non essere legalmente possibile. In tal caso:',
 	'wm-license-pd-wiki-link' => 'w:it:Pubblico dominio',
 	'wm-license-self-one-license' => "Io, detentore del copyright su quest'opera, dichiaro di pubblicarla con la seguente licenza:",
@@ -11980,6 +11982,8 @@ $messages['sah'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 Finland] усулуобуйатынан туһаныллар.',
 	'wm-license-cc-sa-1.0-nl-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.en Share Alike 1.0 Netherlands] усулуобуйатынан туһаныллар.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japan] усулуобуйатынан туһаныллар.',
+	'wm-license-cc-zero-text' => 'Бу билэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/ CC0 waiver] усулуобуйатынан тарҕатыллар.',
+	'wm-license-cc-zero-explanation' => 'Бу айымньыны айбыт дьон айымньыларын бар дьоҥҥо бэлэхтээбиттэр, ол аата аан дойду үрдүнэн бу айымньыга туох баар бэйэлэрин бырааптарыттан аккаастаммыттар (ааптар быраабын сокуоннарын иһинэн уонна сокуону утарбат буоллаҕына). CC0 усулуобуйатынан таһаарыллыбыт айымньы ааптар аатын этэри ирдээбэт. Айымньыны хатылыыр, быһаҕаһын туһанар буоллаххына ааптар көҥүлүн ылар наадата суох.',
 	'wm-license-cc-free' => 'Эн көҥүл:',
 	'wm-license-cc-free-to-share-header' => 'айымньыны тарҕатыаххын сөп',
 	'wm-license-cc-free-to-share-text' => 'төгүллүөххүн, тарҕатыаххын уонна кимиэхэ эмэ биэриэххин сөп.',
@@ -11987,6 +11991,9 @@ $messages['sah'] = array(
 	'wm-license-cc-free-to-remix-text' => 'уларытыаххын сөп',
 	'wm-license-cc-conditions' => 'Бу усулуобуйалары тутуһуохтааххын:',
 	'wm-license-cc-conditions-attribution-header' => 'ааптарын ыйыахтааххын',
+	'wm-license-cc-conditions-attribution-text' => 'Ааптар эбэтэр лиссиэнсийэни бас билээччи аатын (айымньы хантан ылыллыбытын) хайаан да кини эппитин курдук этиэхтээххит (ол гынан баран ол сигэҕит кини эһигини өйүүрүн курдук көстүө суохтаах).',
+	'wm-license-cc-conditions-share_alike-header' => 'эмиэ оннук усулуобуйаҕа тарҕатыллар',
+	'wm-license-cc-conditions-share_alike-text' => 'Өскө бу айымньыны уларытар эбэтэр кини олоҕор атын айымньыны айар буоллаххытына, ол саҥа айымньыны бу айымньы лиссиэнсийэтинэн эбэтэр онно сөп түбэһэр лиссиэнсийэннэн тарҕатыахтааххыт.',
 	'wm-license-gfdl-wiki-link' => 'w:sah:GFDL',
 	'wm-license-information-description' => 'Быһаарыыта',
 	'wm-license-information-source' => 'Хантан ылыллыбыта',
