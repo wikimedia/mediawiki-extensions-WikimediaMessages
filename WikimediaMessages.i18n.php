@@ -181,6 +181,7 @@ $messages['qqq'] = array(
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
 	'group-accountcreator' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]]. See also {{msg|group-accountcreator-member}}.',
 	'group-bigexport' => 'Big export user has a right to: {{int:right-override-export-depth}}',
+	'group-eliminator' => 'Usergroup introduced for ptwiki ([http://pt.wikipedia.org/wiki/Especial:Lista_de_privil%C3%A9gios_de_grupos Especial:Lista de privilégios de grupos], [https://bugzilla.wikimedia.org/show_bug.cgi?id=24623 Bug 24623])',
 	'group-founder' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/founder]] (used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]). See also {{msg|group-founder-member}}.
 {{Identical|Founder}}',
 	'group-researcher' => "From [[wikipedia:Wikipedia:Researcher#Researcher]]
@@ -2823,6 +2824,7 @@ $messages['ext'] = array(
  * @author Huji
  * @author Ladsgroup
  * @author Mardetanha
+ * @author Sahim
  * @author Wayiran
  */
 $messages['fa'] = array(
@@ -2839,6 +2841,7 @@ $messages['fa'] = array(
 	'group-bigexport' => 'خارج‌کنندگان بزرگ',
 	'group-confirmed' => 'کاربران تائیدشده',
 	'group-editprotected' => 'ویرایش‌گران صفحات محافظت‌شده',
+	'group-eliminator' => 'برطرف‌کننده‌ها',
 	'group-filemover' => 'انتقال‌دهنده پرونده',
 	'group-flood' => 'کاربران ربات',
 	'group-founder' => 'بنیان‌گذاران',
@@ -2860,6 +2863,7 @@ $messages['fa'] = array(
 	'group-bigexport-member' => 'بزرگ برون‌بر',
 	'group-confirmed-member' => 'کاربران تائیدشده',
 	'group-editprotected-member' => 'ویرایش‌گر صفحهٔ محافظت‌شده',
+	'group-eliminator-member' => 'برطرف‌کننده',
 	'group-filemover-member' => 'انتقال‌دهنده پرونده',
 	'group-flood-member' => 'کاربر ربات',
 	'group-founder-member' => 'بنیان‌گذار',
@@ -2881,6 +2885,7 @@ $messages['fa'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:بزرگ خارج‌کنندگان',
 	'grouppage-confirmed' => '{{ns:project}}:کاربران تاییدشده',
 	'grouppage-editprotected' => '{{ns:project}}:ویرایش‌گران صفحات محفاظت‌شده',
+	'grouppage-eliminator' => '{{ns:project}}: برطرف‌کننده',
 	'grouppage-filemover' => '{{ns:project}}: انتقال‌دهندگان پرونده',
 	'grouppage-flood' => '{{ns:project}}: کاربران ربات',
 	'grouppage-founder' => '{{ns:project}}:بنیان‌گذاران',
@@ -6007,6 +6012,7 @@ $messages['mk'] = array(
 	'group-bigexport' => 'Големи извозници',
 	'group-confirmed' => 'Потврдени корисници',
 	'group-editprotected' => 'Заштитени уредувачи на страници',
+	'group-eliminator' => 'Отстранувачи',
 	'group-filemover' => 'Преместувачи на податотеки',
 	'group-flood' => 'Корисници-ботови',
 	'group-founder' => 'Основачи',
@@ -6028,6 +6034,7 @@ $messages['mk'] = array(
 	'group-bigexport-member' => 'голем извозник',
 	'group-confirmed-member' => 'потврден корисник',
 	'group-editprotected-member' => 'заштитен уредувач на страници',
+	'group-eliminator-member' => 'отстранувач',
 	'group-filemover-member' => 'преместувач на податотеки',
 	'group-flood-member' => 'корисник-бот',
 	'group-founder-member' => 'основач',
@@ -6049,6 +6056,7 @@ $messages['mk'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Големи извозници',
 	'grouppage-confirmed' => '{{ns:project}}:Потврдени корисници',
 	'grouppage-editprotected' => '{{ns:project}}:Заштитени уредувачи на страници',
+	'grouppage-eliminator' => '{{ns:project}}:Отстранувач',
 	'grouppage-filemover' => '{{ns:project}}:Преместувачи на податотеки',
 	'grouppage-flood' => '{{ns:project}}:Корисници-ботови',
 	'grouppage-founder' => '{{ns:project}}:Основачи',
@@ -6656,6 +6664,7 @@ $messages['nl'] = array(
 	'group-bigexport' => 'grote exporteurs',
 	'group-confirmed' => 'bevestigde gebruikers',
 	'group-editprotected' => "bewerkers van beveiligde pagina's",
+	'group-eliminator' => 'opruimers',
 	'group-filemover' => 'bestandshernoemers',
 	'group-flood' => 'botgebruikers',
 	'group-founder' => 'grondleggers',
@@ -6677,6 +6686,7 @@ $messages['nl'] = array(
 	'group-bigexport-member' => 'grote exporteur',
 	'group-confirmed-member' => 'bevestigde gebruiker',
 	'group-editprotected-member' => "bewerker van beveiligde pagina's",
+	'group-eliminator-member' => 'opruimer',
 	'group-filemover-member' => 'bestandshernoemer',
 	'group-flood-member' => 'botgebruiker',
 	'group-founder-member' => 'grondlegger',
@@ -6698,6 +6708,7 @@ $messages['nl'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Grote exporteurs',
 	'grouppage-confirmed' => '{{ns:project}}:Bevestigde gebruikers',
 	'grouppage-editprotected' => "{{ns:project}}:Bewerkers van beveiligde pagina's",
+	'grouppage-eliminator' => '{{ns:project}}:Opruimer',
 	'grouppage-filemover' => '{{ns:project}}:Bestandshernoemers',
 	'grouppage-flood' => '{{ns:project}}:Botgebruikers',
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
@@ -7888,6 +7899,7 @@ Vide pure [http://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] 
  * @author HalanTul
  * @author Illusion
  * @author Lockal
+ * @author MaxSem
  * @author Putnik
  * @author Александр Сигачёв
  */
@@ -7905,6 +7917,7 @@ $messages['ru'] = array(
 	'group-bigexport' => 'Крупные экспортёры',
 	'group-confirmed' => 'Подтверждённые участники',
 	'group-editprotected' => 'Редакторы защищённой страницы',
+	'group-eliminator' => 'Удаляющие',
 	'group-filemover' => 'Переименовывающие файлы',
 	'group-flood' => 'Участники-боты',
 	'group-founder' => 'Основатели',
@@ -7926,6 +7939,7 @@ $messages['ru'] = array(
 	'group-bigexport-member' => 'крупный экспортёр',
 	'group-confirmed-member' => 'подтверждённый участник',
 	'group-editprotected-member' => 'редактор защищённых страниц',
+	'group-eliminator-member' => 'удаляющий',
 	'group-filemover-member' => 'переименовывающий файлы',
 	'group-flood-member' => 'участники-боты',
 	'group-founder-member' => 'основатель',
@@ -7947,6 +7961,7 @@ $messages['ru'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Крупные экспортёры',
 	'grouppage-confirmed' => '{{ns:project}}:Подтверждённые участники',
 	'grouppage-editprotected' => '{{ns:project}}:Редакторы защищённых страниц',
+	'grouppage-eliminator' => '{{ns:project}}:Удаляющие',
 	'grouppage-filemover' => '{{ns:project}}:Переименовывающие файлы',
 	'grouppage-flood' => '{{ns:project}}:Участники-боты',
 	'grouppage-founder' => '{{ns:project}}:Основатели',
