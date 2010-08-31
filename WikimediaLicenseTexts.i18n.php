@@ -446,15 +446,6 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 	'wm-license-self-multiple-licenses-with-author' => 'This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
 );
 
-/** Minangkabau (Baso Minangkabau)
- * @author VoteITP
- */
-$messages['min'] = array(
-	'wikimedialicensetexts-desc' => 'Pasan izin Wikimedia',
-	'wm-license-attribution-with-author-text' => "Pemegang hak cipta berkas ko, $1, maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
-	'wm-license-attribution-without-author-text' => "Pemegang hak cipta berkas ko maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
-);
-
 /** Afrikaans (Afrikaans)
  * @author Diebuche
  * @author Multichill
@@ -9032,6 +9023,15 @@ $messages['mi'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:mi:GNU FDL',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author VoteITP
+ */
+$messages['min'] = array(
+	'wikimedialicensetexts-desc' => 'Pasan izin Wikimedia',
+	'wm-license-attribution-with-author-text' => "Pemegang hak cipta berkas ko, $1, maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
+	'wm-license-attribution-without-author-text' => "Pemegang hak cipta berkas ko maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
+);
+
 /** Macedonian (Македонски)
  * @author Bjankuloski06
  */
@@ -9676,9 +9676,13 @@ $messages['myv'] = array(
  * @author Ricardo gs
  */
 $messages['nah'] = array(
+	'wikimedialicensetexts-desc' => 'Huiquimedia tēmācāhualiztli tītlantlahtōlli',
 	'wm-license-cc-by-1.0-text' => 'Inīn zāzanilli tlatēctli tlani in [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.nah Achcauh Tlaīxcoyantiliztli 1.0]  tēmācāhualiztli.',
 	'wm-license-cc-by-1.0-fi-text' => 'Inīn zāzanilli tlatēctli tlani in [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.nah Tlaīxcoyantiliztli 1.0 Fintlālpan] tēmācāhualiztli.',
+	'wm-license-cc-free' => 'Tihuelitiz:',
 	'wm-license-information-source' => 'Īhuīcpa',
+	'wm-license-information-permission-see-below' => 'Xuquitta tlani.',
+	'wm-license-own-work' => 'Nonehhuiyān notlachīhual',
 );
 
 /** Min Nan Chinese (Bân-lâm-gú) */
