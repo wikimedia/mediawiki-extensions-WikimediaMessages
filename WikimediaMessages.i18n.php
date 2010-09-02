@@ -7709,6 +7709,7 @@ $messages['qu'] = array(
 	'group-editinterface' => "Uyapurata llamk'apuy",
 	'group-Global_bot' => 'Sapsi rurana antachakuna',
 	'group-Global_rollback' => 'Sapsi kutichiqkuna',
+	'group-Global_sysops' => 'Sapsi kamachiqkuna',
 	'group-Ombudsmen' => 'Ayllu amachaqkuna',
 	'group-Staff' => "Llamk'aqninkuna",
 	'group-steward-member' => 'steward',
@@ -8549,6 +8550,7 @@ $messages['sl'] = array(
 	'group-bigexport' => 'Veliki izvozniki',
 	'group-confirmed' => 'Potrjeni uporabniki',
 	'group-editprotected' => 'Urejevalci zaščitenih strani',
+	'group-eliminator' => 'Uničevalci',
 	'group-filemover' => 'Prestavljalci datotek',
 	'group-flood' => 'Uporabniki boti',
 	'group-founder' => 'Ustanovitelji',
@@ -8570,6 +8572,7 @@ $messages['sl'] = array(
 	'group-bigexport-member' => 'velik izvoznik',
 	'group-confirmed-member' => 'potrjen uporabnik',
 	'group-editprotected-member' => 'urejevalci zaščitenih strani',
+	'group-eliminator-member' => 'uničevalec',
 	'group-filemover-member' => 'prestavljalec datotek',
 	'group-flood-member' => 'uporabnik bot',
 	'group-founder-member' => 'ustanovitelj',
@@ -8591,6 +8594,7 @@ $messages['sl'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Veliki izvozniki',
 	'grouppage-confirmed' => '{{ns:project}}:Potrjeni uporabniki',
 	'grouppage-editprotected' => '{{ns:project}}:Urejevalci zaščitenih strani',
+	'grouppage-eliminator' => '{{ns:project}}:Uničevalec',
 	'grouppage-filemover' => '{{ns:project}}:Prestavljalec datotek',
 	'grouppage-flood' => '{{ns:project}}:Uporabniki boti',
 	'grouppage-founder' => '{{ns:project}}:Ustanovitelji',
@@ -9963,6 +9967,7 @@ $messages['ug-latn'] = array(
  * @author A1
  * @author AS
  * @author Ahonc
+ * @author Alex Khimich
  * @author Ickis
  * @author NickK
  * @author Prima klasy4na
@@ -9982,6 +9987,7 @@ $messages['uk'] = array(
 	'group-bigexport' => 'Крупні експортери',
 	'group-confirmed' => 'Підтверджені користувачі',
 	'group-editprotected' => 'Редактори захищених сторінок',
+	'group-eliminator' => 'Вилучальники',
 	'group-filemover' => 'Перейменувальники файлів',
 	'group-flood' => 'Бот-користувачі',
 	'group-founder' => 'Засновники',
@@ -10003,6 +10009,7 @@ $messages['uk'] = array(
 	'group-bigexport-member' => 'крупний експортер',
 	'group-confirmed-member' => 'підтверджений користувач',
 	'group-editprotected-member' => 'редактор захищених сторінок',
+	'group-eliminator-member' => 'вилучальник',
 	'group-filemover-member' => 'перейменувальник файлів',
 	'group-flood-member' => 'бот-користувач',
 	'group-founder-member' => 'засновник',
@@ -10024,6 +10031,7 @@ $messages['uk'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Крупні експортери',
 	'grouppage-confirmed' => '{{ns:project}}:Підтверджені користувачі',
 	'grouppage-editprotected' => '{{ns:project}}:Редактори захищених сторінок',
+	'grouppage-eliminator' => '{{ns:project}}:Вилучальники',
 	'grouppage-filemover' => '{{ns:project}}:Перейменувальники файлів',
 	'grouppage-flood' => '{{ns:project}}:Бот-користувачі',
 	'grouppage-founder' => '{{ns:project}}:Засновники',

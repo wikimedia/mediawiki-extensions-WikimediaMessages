@@ -1622,7 +1622,7 @@ $messages['bpy'] = array(
 $messages['br'] = array(
 	'wikimedialicensetexts-desc' => 'Kemennadennoù aotreoù-implijout Wikimedia',
 	'wm-license-attribution-with-author-text' => "Reiñ a ra d'an holl, piaouer gwirioù ar restr-mañ, $1, an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
-	'wm-license-attribution-without-author-text' => "Reiñ a ra d'an holl, piaouer gwirioù ar restr-mañ, $1, an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
+	'wm-license-attribution-without-author-text' => "Piaouer gwirioù ar restr-mañ a ro d'an holl an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
 	'wm-license-cc-wiki-link' => 'w:br:Creative Commons',
 	'wm-license-cc-attribution' => 'Deroadenn',
 	'wm-license-cc-by-1.0-text' => 'Emañ ar restr-mañ dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Deroadenn 1.0 Hollek].',
@@ -11413,10 +11413,19 @@ $messages['pt-br'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Você pode escolher a licença que quiser.',
 );
 
-/** Quechua (Runa Simi) */
+/** Quechua (Runa Simi)
+ * @author AlimanRuna
+ */
 $messages['qu'] = array(
 	'wm-license-information-description' => "T'iktuna",
 	'wm-license-information-source' => 'Pukyu',
+	'wm-license-information-date' => "P'unchaw",
+	'wm-license-information-author' => 'Ruraq',
+	'wm-license-information-author-missing' => "Kay willañiqip '''ruraqninmanta''' willaykuna manam kanchu.",
+	'wm-license-information-permission' => 'Saqillay',
+	'wm-license-information-permission-reusing-text' => "Kay willañiqita musuqmanta llamk'achiy",
+	'wm-license-information-permission-see-below' => 'Kay qatiqpi qhaway.',
+	'wm-license-information-other-versions' => 'Huk musuqchasqakuna',
 );
 
 /** Romansh (Rumantsch) */
