@@ -806,70 +806,70 @@ $messages['ar'] = array(
 	'wm-license-cc-by-2.5-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/nl/ نسبة المصنف إلى مؤلفه 2.5 الهولندية].',
 	'wm-license-cc-by-2.5-pe-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pe/ نسبة المصنف إلى مؤلفه 2.5 البيروية].',
 	'wm-license-cc-by-2.5-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pl/ نسبة المصنف إلى مؤلفه 2.5 البولندية].',
-	'wm-license-cc-by-2.5-pt-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pt/deed.en نسبة المصنف إلى مؤلفه 2.5 البرتغالية].',
-	'wm-license-cc-by-2.5-scotland-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.en نسبة المصنف إلى مؤلفه2.5 المملكة المتحدة: اسكوتلندا] .',
+	'wm-license-cc-by-2.5-pt-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/pt/ نسبة المصنف إلى مؤلفه 2.5 البرتغالية].',
+	'wm-license-cc-by-2.5-scotland-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/scotland/ نسبة المصنف إلى مؤلفه2.5 المملكة المتحدة: اسكوتلندا] .',
 	'wm-license-cc-by-2.5-se-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/se/ نسبة المصنف إلى مؤلفه 2.5 السويدية].',
 	'wm-license-cc-by-2.5-si-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/si/ نسبة المصنف إلى مؤلفه 2.5 السلوفانية].',
 	'wm-license-cc-by-2.5-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/tw/ نسبة المصنف إلى مؤلفه 2.5 التايوانية].',
 	'wm-license-cc-by-2.5-za-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 جنوب الأفريقية].',
 	'wm-license-cc-by-3.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ نسبة المصنف إلى مؤلفه 3.0 العامة]',
 	'wm-license-cc-by-3.0-at-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/at/ نسبة المصنف إلى مؤلفه 3.0 النمساوية]',
-	'wm-license-cc-by-3.0-cz-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/cz/deed.en نسبة المصنف إلى مؤلفه 3.0 الجمهورية التشيكية].',
-	'wm-license-cc-by-3.0-de-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/de/deed.en نسبة المصنف إلى مؤلفه 3.0 الألمانية].',
-	'wm-license-cc-by-3.0-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/es/deed.en نسبة المصنف إلى مؤلفه 2.0 الإسبانية].',
-	'wm-license-cc-by-3.0-gr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/gr/deed.en نسبة المصنف إلى مؤلفه 2.0 اليونانية].',
-	'wm-license-cc-by-3.0-gt-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/gt/deed.en نسبة المصنف إلى مؤلفه 3.0 الغواتيمالية].',
-	'wm-license-cc-by-3.0-hr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/hr/deed.en نسبة المصنف إلى مؤلفه 3.0 الكرواتية].',
-	'wm-license-cc-by-3.0-hk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/hk/deed.en نسبة المصنف إلى مؤلفه 3.0 هونغ كونغ].',
-	'wm-license-cc-by-3.0-lu-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/lu/deed.en نسبة المصنف إلى مؤلفه 3.0 لوكسمبورغ].',
-	'wm-license-cc-by-3.0-nl-text' => 'الملف مُرخّص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/nl/deed.en نسبة المصنف إلى مؤلفه 3.0 الهولندية].',
-	'wm-license-cc-by-3.0-no-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/no/deed.en نسبة المصنف إلى مؤلفه 3.0 النرويجية].',
-	'wm-license-cc-by-3.0-nz-text' => 'الملف مُرخّص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/nz/deed.en نسبة المصنف إلى مؤلفه 3.0 النيوزلندية].',
-	'wm-license-cc-by-3.0-ph-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ph/deed.en نسبة المصنف إلى مؤلفه 2.0 الفلبينية].',
-	'wm-license-cc-by-3.0-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/pl/deed.en نسبة المصنف إلى مؤلفه 3.0 البولندية].',
-	'wm-license-cc-by-3.0-pr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/pr/deed.en نسبة المصنف إلى مؤلفه 3.0 في بويرتو ريكو].',
-	'wm-license-cc-by-3.0-ro-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ro/deed.en نسبة المصنف إلى مؤلفه 3.0 الرومانية].',
-	'wm-license-cc-by-3.0-rs-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/rs/deed.en نسبة المصنف إلى مؤلفه 3.0 الصربية]',
-	'wm-license-cc-by-3.0-sg-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/sg/deed.en نسبة المصنف إلى مؤلفه 3.0 السنغافورية]',
-	'wm-license-cc-by-3.0-th-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/th/deed.en نسبة المصنف إلى مؤلفه 3.0 التايلاندية].',
-	'wm-license-cc-by-3.0-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/tw/deed.en نسبة المصنف إلى مؤلفه 3.0 التايوانية].',
-	'wm-license-cc-by-3.0-us-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/us/deed.en نسبة المصنف إلى مؤلفه 3.0 الولايات المتحدة].',
+	'wm-license-cc-by-3.0-cz-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/cz/ نسبة المصنف إلى مؤلفه 3.0 الجمهورية التشيكية].',
+	'wm-license-cc-by-3.0-de-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/de/ نسبة المصنف إلى مؤلفه 3.0 الألمانية].',
+	'wm-license-cc-by-3.0-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/es/ نسبة المصنف إلى مؤلفه 2.0 الإسبانية].',
+	'wm-license-cc-by-3.0-gr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/gr/ نسبة المصنف إلى مؤلفه 2.0 اليونانية].',
+	'wm-license-cc-by-3.0-gt-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/gt/ نسبة المصنف إلى مؤلفه 3.0 الغواتيمالية].',
+	'wm-license-cc-by-3.0-hr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/hr/ نسبة المصنف إلى مؤلفه 3.0 الكرواتية].',
+	'wm-license-cc-by-3.0-hk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/hk/ نسبة المصنف إلى مؤلفه 3.0 هونغ كونغ].',
+	'wm-license-cc-by-3.0-lu-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/lu/ نسبة المصنف إلى مؤلفه 3.0 لوكسمبورغ].',
+	'wm-license-cc-by-3.0-nl-text' => 'الملف مُرخّص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/nl/ نسبة المصنف إلى مؤلفه 3.0 الهولندية].',
+	'wm-license-cc-by-3.0-no-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/no/ نسبة المصنف إلى مؤلفه 3.0 النرويجية].',
+	'wm-license-cc-by-3.0-nz-text' => 'الملف مُرخّص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/nz/ نسبة المصنف إلى مؤلفه 3.0 النيوزلندية].',
+	'wm-license-cc-by-3.0-ph-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ph/ نسبة المصنف إلى مؤلفه 2.0 الفلبينية].',
+	'wm-license-cc-by-3.0-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/pl/ نسبة المصنف إلى مؤلفه 3.0 البولندية].',
+	'wm-license-cc-by-3.0-pr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/pr/ نسبة المصنف إلى مؤلفه 3.0 في بويرتو ريكو].',
+	'wm-license-cc-by-3.0-ro-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ro/ نسبة المصنف إلى مؤلفه 3.0 الرومانية].',
+	'wm-license-cc-by-3.0-rs-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/rs/ نسبة المصنف إلى مؤلفه 3.0 الصربية]',
+	'wm-license-cc-by-3.0-sg-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/sg/ نسبة المصنف إلى مؤلفه 3.0 السنغافورية]',
+	'wm-license-cc-by-3.0-th-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/th/ نسبة المصنف إلى مؤلفه 3.0 التايلاندية].',
+	'wm-license-cc-by-3.0-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/tw/ نسبة المصنف إلى مؤلفه 3.0 التايوانية].',
+	'wm-license-cc-by-3.0-us-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/us/ نسبة المصنف إلى مؤلفه 3.0 الولايات المتحدة].',
 	'wm-license-cc-by-sa-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 العامة]',
-	'wm-license-cc-by-sa-1.0-fi-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 الفنلندية]',
-	'wm-license-cc-by-sa-1.0-il-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 الإسرائيلية]',
-	'wm-license-cc-by-sa-1.0-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 الهولندية]',
+	'wm-license-cc-by-sa-1.0-fi-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/fi/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 الفنلندية]',
+	'wm-license-cc-by-sa-1.0-il-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/fi/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 الإسرائيلية]',
+	'wm-license-cc-by-sa-1.0-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/nl/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 الهولندية]',
 	'wm-license-cc-by-sa-2.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 العامة]',
 	'wm-license-cc-by-sa-2.0-at-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/at/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 النمساوية]',
-	'wm-license-cc-by-sa-2.0-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الأسترالية]',
+	'wm-license-cc-by-sa-2.0-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/au/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الأسترالية]',
 	'wm-license-cc-by-sa-2.0-be-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 البلجيكية]',
-	'wm-license-cc-by-sa-2.0-br-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/br/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 البرازيلية]',
-	'wm-license-cc-by-sa-2.0-ca-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/ca/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الكندية]',
-	'wm-license-cc-by-sa-2.0-cl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/cl/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 التشيلية]',
-	'wm-license-cc-by-sa-2.0-de-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الألمانية]',
-	'wm-license-cc-by-sa-2.0-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/es/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الإسبانية]',
-	'wm-license-cc-by-sa-2.0-fr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الفرنسية]',
-	'wm-license-cc-by-sa-2.0-hr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/hr/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الكرواتية]',
-	'wm-license-cc-by-sa-2.0-it-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/it/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الإيطالية]',
-	'wm-license-cc-by-sa-2.0-jp-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 اليابانية]',
-	'wm-license-cc-by-sa-2.0-kr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الكورية]',
-	'wm-license-cc-by-sa-2.0-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الهولندية]',
-	'wm-license-cc-by-sa-2.0-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 البولندية]',
-	'wm-license-cc-by-sa-2.0-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 التايوانية]',
-	'wm-license-cc-by-sa-2.0-uk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 المملكة المتحدة]',
-	'wm-license-cc-by-sa-2.0-za-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 جنوب أفريقيا]',
-	'wm-license-cc-by-sa-2.1-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa//2.1/au/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة /2.1 الأسترالية]',
-	'wm-license-cc-by-sa-2.1-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa//2.1/es/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.1 الإسبانية]',
-	'wm-license-cc-by-sa-2.1-jp-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa//2.1/jp/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة /2.1 اليابانية]',
+	'wm-license-cc-by-sa-2.0-br-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/br/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 البرازيلية]',
+	'wm-license-cc-by-sa-2.0-ca-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/ca/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الكندية]',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/cl/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 التشيلية]',
+	'wm-license-cc-by-sa-2.0-de-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/de/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الألمانية]',
+	'wm-license-cc-by-sa-2.0-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/es/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الإسبانية]',
+	'wm-license-cc-by-sa-2.0-fr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/fr/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الفرنسية]',
+	'wm-license-cc-by-sa-2.0-hr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/hr/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الكرواتية]',
+	'wm-license-cc-by-sa-2.0-it-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/it/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الإيطالية]',
+	'wm-license-cc-by-sa-2.0-jp-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/jp/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 اليابانية]',
+	'wm-license-cc-by-sa-2.0-kr-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/kr/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الكورية]',
+	'wm-license-cc-by-sa-2.0-nl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/nl/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الهولندية]',
+	'wm-license-cc-by-sa-2.0-pl-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/pl/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 البولندية]',
+	'wm-license-cc-by-sa-2.0-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/tw/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 التايوانية]',
+	'wm-license-cc-by-sa-2.0-uk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/nl/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 المملكة المتحدة]',
+	'wm-license-cc-by-sa-2.0-za-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.0/za/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 جنوب أفريقيا]',
+	'wm-license-cc-by-sa-2.1-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa//2.1/au/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة /2.1 الأسترالية]',
+	'wm-license-cc-by-sa-2.1-es-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa//2.1/es/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.1 الإسبانية]',
+	'wm-license-cc-by-sa-2.1-jp-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa//2.1/jp/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة /2.1 اليابانية]',
 	'wm-license-cc-by-sa-2.5-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 العامة]',
-	'wm-license-cc-by-sa-2.5-ar-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الأرجنتينية]',
-	'wm-license-cc-by-sa-2.5-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الأسترالية]',
-	'wm-license-cc-by-sa-2.5-bg-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 البلغارية]',
-	'wm-license-cc-by-sa-2.5-br-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/br/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 البرازيلية]',
-	'wm-license-cc-by-sa-2.5-ca-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ca/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الكندية]',
-	'wm-license-cc-by-sa-2.5-ch-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ch/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 السويسرية]',
-	'wm-license-cc-by-sa-2.5-cn-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/cn/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الصينية]',
-	'wm-license-cc-by-sa-2.5-co-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/co/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الكولومبية]',
-	'wm-license-cc-by-sa-2.5-dk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/dk/deed.en نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الدنماركية]',
+	'wm-license-cc-by-sa-2.5-ar-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ar/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.0 الأرجنتينية]',
+	'wm-license-cc-by-sa-2.5-au-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/au/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الأسترالية]',
+	'wm-license-cc-by-sa-2.5-bg-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/bg/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 البلغارية]',
+	'wm-license-cc-by-sa-2.5-br-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/br/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 البرازيلية]',
+	'wm-license-cc-by-sa-2.5-ca-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ca/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الكندية]',
+	'wm-license-cc-by-sa-2.5-ch-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/ch/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 السويسرية]',
+	'wm-license-cc-by-sa-2.5-cn-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/cn/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الصينية]',
+	'wm-license-cc-by-sa-2.5-co-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/co/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الكولومبية]',
+	'wm-license-cc-by-sa-2.5-dk-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/2.5/dk/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 الدنماركية]',
 	'wm-license-cc-by-sa-3.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/3.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 3.0 العامة]',
 	'wm-license-cc-free' => 'لك مطلق الحرية:',
 	'wm-license-cc-free-to-share-header' => 'في المشاركة',
@@ -1897,27 +1897,27 @@ $messages['bs'] = array(
 	'wm-license-cc-by-3.0-at-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austrija].',
 	'wm-license-cc-by-3.0-cz-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0 Češka Republika].',
 	'wm-license-cc-by-3.0-de-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/de/ Attribution 3.0 Njemačka].',
-	'wm-license-cc-by-3.0-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/es/deed.en Attribution 3.0 Španija].',
+	'wm-license-cc-by-3.0-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/es/ Attribution 3.0 Španija].',
 	'wm-license-cc-by-3.0-gr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/gr/ Attribution 3.0 Grčka].',
-	'wm-license-cc-by-3.0-gt-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/gt/deed.en Attribution 3.0 Gvatemala].',
-	'wm-license-cc-by-3.0-hr-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/deed.en Attribution 3.0 Hrvatska].',
-	'wm-license-cc-by-3.0-hk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/hk/deed.en Attribution 3.0 Hong Kong].',
-	'wm-license-cc-by-3.0-lu-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/lu/deed.en Attribution 3.0 Luksemburg].',
+	'wm-license-cc-by-3.0-gt-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/gt/ Attribution 3.0 Gvatemala].',
+	'wm-license-cc-by-3.0-hr-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/ Attribution 3.0 Hrvatska].',
+	'wm-license-cc-by-3.0-hk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/hk/ Attribution 3.0 Hong Kong].',
+	'wm-license-cc-by-3.0-lu-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/lu/ Attribution 3.0 Luksemburg].',
 	'wm-license-cc-by-3.0-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/nl/ Attribution 3.0 Holandija].',
-	'wm-license-cc-by-3.0-no-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/no/deed.en Attribution 3.0 Norveška].',
+	'wm-license-cc-by-3.0-no-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/no/ Attribution 3.0 Norveška].',
 	'wm-license-cc-by-3.0-nz-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/nz/ Attribution 3.0 Novi Zeland].',
-	'wm-license-cc-by-3.0-ph-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/ph/deed.en Attribution 3.0 Filipini].',
-	'wm-license-cc-by-3.0-pl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/pl/deed.en Attribution 3.0 Poljska].',
-	'wm-license-cc-by-3.0-pr-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/deed.en Attribution 3.0 Portoriko].',
+	'wm-license-cc-by-3.0-ph-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/ph/ Attribution 3.0 Filipini].',
+	'wm-license-cc-by-3.0-pl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/pl/ Attribution 3.0 Poljska].',
+	'wm-license-cc-by-3.0-pr-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/ Attribution 3.0 Portoriko].',
 	'wm-license-cc-by-3.0-ro-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/ro/ Attribution 3.0 Rumunija].',
 	'wm-license-cc-by-3.0-rs-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/rs/ Attribution 3.0 Srbija].',
-	'wm-license-cc-by-3.0-sg-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/sg/deed.en Attribution 3.0 Singapur].',
-	'wm-license-cc-by-3.0-th-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/th/deed.en Attribution 3.0 Tajland].',
-	'wm-license-cc-by-3.0-tw-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/deed.en Attribution 3.0 Tajvan].',
+	'wm-license-cc-by-3.0-sg-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/sg/ Attribution 3.0 Singapur].',
+	'wm-license-cc-by-3.0-th-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/th/ Attribution 3.0 Tajland].',
+	'wm-license-cc-by-3.0-tw-text' => 'Ova datoteka je licencirana pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/ Attribution 3.0 Tajvan].',
 	'wm-license-cc-by-3.0-us-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by/3.0/us/ Attribution 3.0 Sjedinjene Američke Države].',
 	'wm-license-cc-by-sa-1.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 generičkom] licencom.',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/1.0/fi/ Attribution-Share Alike 1.0 Finska].',
-	'wm-license-cc-by-sa-1.0-il-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/1.0/il/deed.en Attribution-Share Alike 1.0 Izrael].',
+	'wm-license-cc-by-sa-1.0-il-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/1.0/il/ Attribution-Share Alike 1.0 Izrael].',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/1.0/nl/ Attribution-Share Alike 1.0 Holandija].',
 	'wm-license-cc-by-sa-2.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ Attribution-Share Alike 2.0 generičkom] licencom.',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/at/ Attribution-Share Alike 2.0 Austrija].',
@@ -1929,20 +1929,20 @@ $messages['bs'] = array(
 	'wm-license-cc-by-sa-2.0-de-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/de/ Attribution-Share Alike 2.0 Njemačka].',
 	'wm-license-cc-by-sa-2.0-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/es/ Attribution-Share Alike 2.0 Španija].',
 	'wm-license-cc-by-sa-2.0-fr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/fr/ Attribution-Share Alike 2.0 Francuska].',
-	'wm-license-cc-by-sa-2.0-hr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/hr/deed.en Attribution-Share Alike 2.0 Hrvatska].',
+	'wm-license-cc-by-sa-2.0-hr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/hr/ Attribution-Share Alike 2.0 Hrvatska].',
 	'wm-license-cc-by-sa-2.0-it-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/it/ Attribution-Share Alike 2.0 Italija].',
-	'wm-license-cc-by-sa-2.0-jp-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.en Attribution-Share Alike 2.0 Japan].',
+	'wm-license-cc-by-sa-2.0-jp-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/jp/ Attribution-Share Alike 2.0 Japan].',
 	'wm-license-cc-by-sa-2.0-kr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/kr/ Attribution-Share Alike 2.0 Koreja].',
 	'wm-license-cc-by-sa-2.0-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/nl/ Attribution-Share Alike 2.0 Holandija].',
-	'wm-license-cc-by-sa-2.0-pl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.en Attribution-Share Alike 2.0 Poljska].',
+	'wm-license-cc-by-sa-2.0-pl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/pl/ Attribution-Share Alike 2.0 Poljska].',
 	'wm-license-cc-by-sa-2.0-tw-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/tw/ Attribution-Share Alike 2.0 Tajvan].',
 	'wm-license-cc-by-sa-2.0-uk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/uk/ Attribution-Share Alike 2.0 UK: Engleska i Vels].',
-	'wm-license-cc-by-sa-2.0-za-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/za/deed.en Attribution-Share Alike 2.0 Južnoafrička republika].',
+	'wm-license-cc-by-sa-2.0-za-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.0/za/ Attribution-Share Alike 2.0 Južnoafrička republika].',
 	'wm-license-cc-by-sa-2.1-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.1/au/ Attribution-Share Alike 2.1 Australija].',
 	'wm-license-cc-by-sa-2.1-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.1/es/ Attribution-Share Alike 2.1 Španija].',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.1/jp/ Attribution-Share Alike 2.1 Japan].',
 	'wm-license-cc-by-sa-2.5-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 generičkom] licencom.',
-	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/2.5/deed.en 2.5 generičkom], [http://creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 generičkom] i [http://creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 generičkom] licencom.',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/2.5/ 2.5 generičkom], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0 generičkom] i [http://creativecommons.org/licenses/by-sa/1.0/ 1.0 generičkom] licencom.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ar/ Attribution-Share Alike 2.5 Argentina].',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/au/ Attribution-Share Alike 2.5 Australija].',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/bg/ Attribution-Share Alike 2.5 Bugarska].',
@@ -1950,21 +1950,28 @@ $messages['bs'] = array(
 	'wm-license-cc-by-sa-2.5-ca-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ca/ Attribution-Share Alike 2.5 Kanada].',
 	'wm-license-cc-by-sa-2.5-ch-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/ch/ Attribution-Share Alike 2.5 Švicarska].',
 	'wm-license-cc-by-sa-2.5-cn-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/cn/ Attribution-Share Alike 2.5 Narodna Republika Kina].',
-	'wm-license-cc-by-sa-2.5-co-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/co/deed.en Attribution-Share Alike 2.5 Kolumbija].',
+	'wm-license-cc-by-sa-2.5-co-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/co/ Attribution-Share Alike 2.5 Kolumbija].',
 	'wm-license-cc-by-sa-2.5-dk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/dk/ Attribution-Share Alike 2.5 Danska].',
 	'wm-license-cc-by-sa-2.5-es-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/es/ Attribution-Share Alike 2.5 Španija].',
-	'wm-license-cc-by-sa-2.5-hr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/hr/deed.en Attribution-Share Alike 2.5 Hrvatska].',
+	'wm-license-cc-by-sa-2.5-hr-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/hr/ Attribution-Share Alike 2.5 Hrvatska].',
 	'wm-license-cc-by-sa-2.5-hu-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/hu/ Attribution-Share Alike 2.5 Mađarska].',
-	'wm-license-cc-by-sa-2.5-il-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/il/deed.en Attribution-Share Alike 2.5 Izrael].',
-	'wm-license-cc-by-sa-2.5-in-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/in/deed.en Attribution-Share Alike 2.5 Indija].',
-	'wm-license-cc-by-sa-2.5-it-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/it/deed.en Attribution-Share Alike 2.5 Italija].',
-	'wm-license-cc-by-sa-2.5-mk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/mk/deed.en Attribution-Share Alike 2.5 Makedonija].',
-	'wm-license-cc-by-sa-2.5-mt-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/mt/deed.en Attribution-Share Alike 2.5 Malta].',
-	'wm-license-cc-by-sa-2.5-mx-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/mx/deed.en Attribution-Share Alike 2.5 Meksiko].',
-	'wm-license-cc-by-sa-2.5-my-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/my/deed.en Attribution-Share Alike 2.5 Malezija].',
-	'wm-license-cc-by-sa-2.5-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/nl/deed.en Attribution-Share Alike 2.5 Holandija].',
-	'wm-license-cc-by-sa-2.5-pe-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/pe/deed.en Attribution-Share Alike 2.5 Peru].',
-	'wm-license-cc-by-sa-2.5-pl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/pl/deed.en Attribution-Share Alike 2.5 Poljska].',
+	'wm-license-cc-by-sa-2.5-il-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/il/ Attribution-Share Alike 2.5 Izrael].',
+	'wm-license-cc-by-sa-2.5-in-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/in/ Attribution-Share Alike 2.5 Indija].',
+	'wm-license-cc-by-sa-2.5-it-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/it/ Attribution-Share Alike 2.5 Italija].',
+	'wm-license-cc-by-sa-2.5-mk-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/mk/ Attribution-Share Alike 2.5 Makedonija].',
+	'wm-license-cc-by-sa-2.5-mt-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/mt/ Attribution-Share Alike 2.5 Malta].',
+	'wm-license-cc-by-sa-2.5-mx-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/mx/ Attribution-Share Alike 2.5 Meksiko].',
+	'wm-license-cc-by-sa-2.5-my-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/my/ Attribution-Share Alike 2.5 Malezija].',
+	'wm-license-cc-by-sa-2.5-nl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/nl/ Attribution-Share Alike 2.5 Holandija].',
+	'wm-license-cc-by-sa-2.5-pe-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/pe/ Attribution-Share Alike 2.5 Peru].',
+	'wm-license-cc-by-sa-2.5-pl-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/pl/ Attribution-Share Alike 2.5 Poljska].',
+	'wm-license-cc-by-sa-2.5-pt-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/pt/deed.en Attribution-Share Alike 2.5 Portugal].',
+	'wm-license-cc-by-sa-2.5-scotland-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/scotland/deed.en Attribution-Share Alike 2.5 UK: Škotska].',
+	'wm-license-cc-by-sa-2.5-se-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/se/deed.en Attribution-Share Alike 2.5 Švedska].',
+	'wm-license-cc-by-sa-2.5-si-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/si/deed.en Attribution-Share Alike 2.5 Slovenija].',
+	'wm-license-cc-by-sa-2.5-tw-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.en Attribution-Share Alike 2.5 Tajvan].',
+	'wm-license-cc-by-sa-2.5-za-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] licencom [http://creativecommons.org/licenses/by-sa/2.5/za/deed.en Attribution-Share Alike 2.5 Južnoafrička republika].',
+	'wm-license-cc-by-sa-3.0-text' => 'Ova datoteka je licencirana pod [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 neportiranom] licencom.',
 	'wm-license-cc-free' => 'Slobodni ste:',
 	'wm-license-cc-free-to-share-header' => 'da dijelite',
 	'wm-license-cc-free-to-share-text' => 'da kopirate, distributirate i prenosite djelo',
@@ -6886,6 +6893,7 @@ $messages['id'] = array(
 );
 
 /** Igbo (Igbo)
+ * @author Diebuche
  * @author Ukabia
  */
 $messages['ig'] = array(
@@ -7026,6 +7034,7 @@ $messages['ig'] = array(
 	'wm-license-cc-free-to-remix-header' => 'i dowaria',
 	'wm-license-cc-conditions-attribution-header' => 'í-kpó-áhà',
 	'wm-license-cc-conditions-share_alike-header' => 'gbásàa kà',
+	'wm-license-gfdl-1.2-and-later' => "Í nwèrèíkí jé, gbạsáa na/ma í mezí akwukwo nka na okpúrù íwú '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Ákwúkwó Íwú nke Owéré]]''', Nké 1.2 ma nke íchè ndi [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; wéfùtàrà; na adighi nkejị di íchẹ, adighi édé nke Ihú-Ihü Ákwúkwó, na adighi Ázú-Ihü Ákwúkwó. Ákwúkwó iwu hé jéré jé di na nkeji kpóró ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Ákwúkwó Íwú nke Owéré]]\".",
 	'wm-license-gfdl-wiki-link' => 'w:ig:GNU Free Documentation License',
 	'wm-license-information-description' => 'Nkówá',
 	'wm-license-information-source' => 'Mkpọlógwù',
@@ -7049,10 +7058,12 @@ $messages['ilo'] = array(
 );
 
 /** Ido (Ido)
+ * @author Diebuche
  * @author Malafaya
  */
 $messages['io'] = array(
 	'wm-license-free-software-wiki-link' => 'w:io:Libera programaro',
+	'wm-license-gfdl-1.2-and-later' => "On darfas kopiigar, distributar ed/od altrigar ica dokumento segun la kondicioni di '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  quale esas mencionita en la versiono 1.2 od en irga plu posa versiono, qua esas publikigita da [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; En la dokumento ne darfas esas ne-altrigita parti ed olu ne darfas esar kom texto di frontala o dopala pagino di libro o ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-information-source' => 'Fonto',
 	'wm-license-information-date' => 'Dato',
 	'wm-license-information-author' => 'Autoro',
@@ -7061,10 +7072,13 @@ $messages['io'] = array(
 	'wm-license-own-work' => 'Propra verko',
 );
 
-/** Icelandic (Íslenska) */
+/** Icelandic (Íslenska)
+ * @author Diebuche
+ */
 $messages['is'] = array(
 	'wm-license-fsf-wiki-link' => 'w:is:Frjálsa hugbúnaðarstofnunin',
 	'wm-license-free-software-wiki-link' => 'w:is:Frjáls hugbúnaður',
+	'wm-license-gfdl-1.2-and-later' => "Gefið er leyfi til að afrita, dreifa og/eða breyta þessu skjali samkvæmt Frjálsa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  útgáfu 1.2 eða nýrri, sem gefið er út af Frjálsu hugbúnaðarstofnuninni með engum breytingum þar á.",
 	'wm-license-gfdl-wiki-link' => 'w:is:Frjálsa GNU-handbókarleyfið',
 	'wm-license-information-description' => 'Lýsing',
 	'wm-license-information-source' => 'Uppruni',
@@ -7079,6 +7093,7 @@ $messages['is'] = array(
  * @author Beta16
  * @author Civvì
  * @author Darth Kule
+ * @author Diebuche
  * @author Gianfranco
  * @author Multichill
  * @author OrbiliusMagister
@@ -7270,7 +7285,7 @@ $messages['it'] = array(
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/it',
 	'wm-license-fsf-wiki-link' => 'w:it:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:it:Software libero',
-	'wm-license-gfdl-1.2-and-later' => "È permesso copiare, distribuire e/o modificare questo documento in base ai termini della '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versione 1.2 o successive pubblicata dalla [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Una copia della licenza è inclusa nella sezione intitolata ''[[{{int:wm-license-gfdl-full-1.2-link}}|\"Testo della GNU Free Documentation License\"]]''.",
+	'wm-license-gfdl-1.2-and-later' => "È permesso copiare, distribuire e/o modificare questo documento in base ai termini della '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versione 1.2 o successive pubblicata dalla [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Una copia della licenza è inclusa nella sezione intitolata ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo della GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "È permesso copiare, distribuire e/o modificare questo documento in base ai termini della licenza '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', solo versione 1.2, come pubblicata dalla [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza sezioni non modificabili, nessun testo copertina, e nessun testo di retro copertina. Una copia della licenza è inclusa nella sezione intitolata ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-and-later' => "È permesso copiare, distribuire e/o modificare questo documento in base ai termini della '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versione 1.3 o successive pubblicata dalla [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Una copia della licenza è inclusa nella sezione intitolata ''[[{{int:wm-license-gfdl-full-1.3-link}}|\"Testo della GNU Free Documentation License\"]]''.",
 	'wm-license-gfdl-1.3-only' => "È permesso copiare, distribuire e/o modificare questo documento in base ai termini della licenza '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', solo versione 1.3, come pubblicata dalla [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza sezioni non modificabili, nessun testo copertina, e nessun testo di retro copertina. Una copia della licenza è inclusa nella sezione intitolata ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
@@ -8185,8 +8200,11 @@ $messages['kw'] = array(
 	'wm-license-information-source' => 'Pennfenten',
 );
 
-/** Latin (Latina) */
+/** Latin (Latina)
+ * @author Diebuche
+ */
 $messages['la'] = array(
+	'wm-license-gfdl-1.2-and-later' => "Licet hoc documentum exscribere vel distribuere vel demutare sub '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Liberarum Litterarum Licentiae]]''' conditionibus in editione 1.2 aut in ulla editione recentiori a [[{{int:wm-license-fsf-wiki-link}}|Fundatione Liberarum Programmationis Partium]] publicata; praeterquam Sectiones Immutabiles et Verba Involucra Adversa et Aversa. Licentiae exemplar praesto est in sectione intitulata ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-information-description' => 'Descriptio',
 	'wm-license-information-source' => 'Fons',
 	'wm-license-own-work' => 'Opus proprium',
@@ -8377,6 +8395,7 @@ $messages['lb'] = array(
 	'wm-license-cecill-text' => "Dës Aarbecht ass [[{{int:wm-license-free-software-wiki-link}}|fräi Software]]; dir kënnt se weiderverdeelen oder se veränneren ënner de Bedingunge vun der [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. D'Bedingunge vun der CeCILL-Lizenz sinn op [{{int:wm-license-cecill-full-link}} www.cecill.info] disponibel.",
 	'wm-license-fsf-wiki-link' => 'w:lb:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:lb:Fräi Software',
+	'wm-license-gfdl-1.2-and-later' => "Et ass erlaabt, dëse Fichier ënnert de Bedingunge vun der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fir fräi Dokumentatioun]]''', an der Versioun 1.2 oder enger spéiderer Versioun, verëffentlecht vun der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], ze kopéieren, ze verbreeden an/oder zu modifizéieren, ouni onverännerlech Abschnitter, Ëmschlagtext virdrun, Ëmschlagtext hannendrun. De komplette Lizenztext ass am Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz fi fräi Dokumentatioun]]'' ze gesinn.",
 	'wm-license-gfdl-wiki-link' => 'w:lb:GNU Free Documentation License',
 	'wm-license-information-table-summary' => "Eng standardiséiert Tabell mat der kompletter Informatioun iwwert de Fichier, inklusiv Beschreiwung vun deem wat gewise gëtt a wéi et gemaach gouf, de Copyright-Status an d'Quell.",
 	'wm-license-information-description' => 'Beschreiwung',
@@ -9003,8 +9022,12 @@ $messages['lv'] = array(
 	'wm-license-self-one-license-with-author' => '$1, šī attēla autors, labprātīgi nodod to sabiedrības lietošanā.',
 );
 
-/** Literary Chinese (文言) */
+/** Literary Chinese (文言)
+ * @author Diebuche
+ */
 $messages['lzh'] = array(
+	'wm-license-gfdl-1.2-and-later' => "眾皆可在自由軟體基金會（[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];）所刊之'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文檔協議證書]]'''1.2或之後版本規限下，抄、刊及／或修此圖，無他限。
+遵守免責聲明。",
 	'wm-license-information-description' => '述',
 );
 
@@ -9529,6 +9552,7 @@ $messages['mr'] = array(
 
 /** Malay (Bahasa Melayu)
  * @author Aurora
+ * @author Diebuche
  * @author Multichill
  * @author Yosri
  */
@@ -9549,6 +9573,7 @@ $messages['ms'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Jika anda ubah, tukar, atau menambah hasil kerja ini, anda boleh menyebarkan hasil kerja itu di bawah lesen yang sama atau serupa dengan lesen asal.',
 	'wm-license-fsf-wiki-link' => 'w:ms:Yayasan Perisian Bebas',
 	'wm-license-free-software-wiki-link' => 'w:ms:Perisian bebas',
+	'wm-license-gfdl-1.2-and-later' => "Kebenaran diberikan untuk menyalin, mengedar dan/atau mengubah dokumen ini di bawah syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lesen Dokumentasi Bebas GNU]]''', versi 1.2 atau mana-mana versi selepas ini, yang diterbitkan oleh [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; dengan tiada seksyen yang berbeza, tiada teks depan dan teks belakang. Salinan lesen ini boleh didapati dalam seksyen yang bertajuk ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lesen Dokumentasi Bebas GNU]]\".",
 	'wm-license-gfdl-wiki-link' => 'w:ms:Lesen Dokumentasi Bebas GNU',
 	'wm-license-gpl-wiki-link' => 'w:ms:Lesen Awam Am GNU',
 	'wm-license-information-description' => 'Huraian',
@@ -9561,6 +9586,7 @@ $messages['ms'] = array(
 
 /** Maltese (Malti)
  * @author Chrisportelli
+ * @author Diebuche
  */
 $messages['mt'] = array(
 	'wikimedialicensetexts-desc' => 'Messaġġi tal-liċenzja Wikimedia',
@@ -9667,6 +9693,7 @@ $messages['mt'] = array(
 	'wm-license-cc-conditions' => 'Taħt il-kundizzjonijiet segwenti:',
 	'wm-license-cc-conditions-attribution-header' => 'attribuzzjoni',
 	'wm-license-free-software-wiki-link' => 'w:mt:Softwer ħieles',
+	'wm-license-gfdl-1.2-and-later' => "Huwa permess li tikkopja, tiddistribwixxi u/jew timmodifika dan id-dokument abbażi tat-termini tal-'''[[{{int:wm-license-gfdl-wiki-link}}|Liċenzja ta' Dokumentazzjoni Ħielsa tal-GNU]]''', Verżjoni 1.2 jew kwalunkwe verżjoni oħra pubblikata mill-[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; mingħajr ebda sezzjoni non-modifikabbli, mingħajr test tal-faċċata u mingħajr test tal-qoxra. Kopja tal-liċenzja hi inkluża fis-sezzjoni intitolata ''[[{{int:wm-license-gfdl-full-1.2-link}}|Test tal-Liċenzja ta' Dokumentazzjoni Ħielsa tal-GNU]]\".",
 	'wm-license-information-description' => 'Deskrizzjoni',
 	'wm-license-information-source' => 'Sors',
 	'wm-license-information-source-missing' => "L-informazzjoni fuq is-'''sors''' ta' dan il-fajl multimedjali huma nieqsa.",
@@ -9720,7 +9747,15 @@ $messages['nan'] = array(
 	'wm-license-information-description' => 'Soat-bêng',
 );
 
+/** Neapolitan (Nnapulitano)
+ * @author Diebuche
+ */
+$messages['nap'] = array(
+	'wm-license-gfdl-1.2-and-later' => "Chistu documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Na copia d' 'a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d' 'a GNU Free Documentation License]]''.",
+);
+
 /** Low German (Plattdüütsch)
+ * @author Diebuche
  * @author Multichill
  * @author Slomox
  */
@@ -9751,6 +9786,7 @@ $messages['nds'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Du musst den Naam von’n Autor oder von’n Lizenzgever in de von em fastleggte Wies nömen (aver nich so, dat dat utsüht, as wenn he di oder dien Gebruuk von dat Wark ünnerstütten deit).',
 	'wm-license-cc-conditions-share_alike-header' => 'egaal wiedergeven',
 	'wm-license-cc-conditions-share_alike-text' => 'Wenn du dit Wark ännerst, afwannelst oder in en egen Wark inboost, dröffst du dat ne’e Wark, dat dor bi rutkummt, man ünner desülve Lizenz oder een, de so temlich dat sülve is, rutgeven.',
+	'wm-license-gfdl-1.2-and-later' => "Ünner de Maatgaven vun de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU free Lizenz för Dokumentatschoon]]''', Version 1.2 oder en latere Version, rutgeven vun de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];, dröffst du disse Datei koperen, wiedergeven un/oder ännern. Dat gifft kene unverännerlichen Afsneed un keen Ümslagtext vörn oder achtern. Der vollständige Lizenztext ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
 	'wm-license-gfdl-wiki-link' => 'w:nds:GNU-FDL',
 	'wm-license-information-table-summary' => 'En Tabell mit allens wichtige över de Datei, mit en Text, de ehr beschrifft, wokeen ehr maakt hett un wo he dat daan hett, Infos to dat Copyright un to den Born.',
 	'wm-license-information-description' => 'Beschrievung',
@@ -10067,6 +10103,7 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+ * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
  * @author Multichill
@@ -10086,6 +10123,7 @@ $messages['nn'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'del på same vilkår',
 	'wm-license-cc-conditions-share_alike-text' => 'Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du berre distribuera resultatet under ein lik eller liknande lisens.',
 	'wm-license-fsf-wiki-link' => 'w:nn:Free Software Foundation',
+	'wm-license-gfdl-1.2-and-later' => "Det tillates at dette dokumentet kopieres, distribueres og/eller modifiseres under retningslinjene som beskrevet i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU fri dokumentasjonslisens]]''', versjon 1.2 eller hvilken som helst senere utgave utgitt av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; med alle seksjoner, uten noen forsidetekster og baksidetekster.",
 	'wm-license-gfdl-wiki-link' => 'w:nn:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:nn:GNU General Public License',
 	'wm-license-information-table-summary' => 'Ein standardisert tabell som gjev komplett informasjon om fila, inkludert skildringa av kva ho syner og koss ho vart laga, opphavsrettsstoda og kjelda.',
@@ -10113,6 +10151,7 @@ $messages['nn'] = array(
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Diebuche
  * @author Finnrind
  * @author Jon Harald Søby
  * @author Laaknor
@@ -10302,6 +10341,7 @@ $messages['no'] = array(
 	'wm-license-fal-text' => "Copyleft: Dette kunstverket er fritt; du kan videredistribuere det og/eller endre det i henhold til vilkårene i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du vil finne et eksemplar av denne lisensen på [{{int:wm-license-fal-full-link}} Copyleft Attitude-nettstedet] og på andre nettsteder.",
 	'wm-license-fsf-wiki-link' => 'w:no:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:no:Fri programvare',
+	'wm-license-gfdl-1.2-and-later' => "Det tillates at dette dokumentet kopieres, distribueres og/eller modifiseres under retningslinjene som beskrevet i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU fri dokumentasjonslisens]]''', versjon 1.2 eller hvilken som helst senere utgave utgitt av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; med alle seksjoner, uten noen forsidetekster og baksidetekster.",
 	'wm-license-gfdl-wiki-link' => 'w:no:GNU fri dokumentasjonslisens',
 	'wm-license-gpl-wiki-link' => 'w:no:GNU General Public License',
 	'wm-license-information-table-summary' => 'En standardisert tabell som gir komplett informasjon om filen, inkludert informasjon om hva den visrt, hvordan den ble skapt, opphavsrett og kilde.',
@@ -10343,6 +10383,7 @@ $messages['nso'] = array(
 
 /** Occitan (Occitan)
  * @author Cedric31
+ * @author Diebuche
  * @author Jfblanc
  * @author Multichill
  */
@@ -10410,6 +10451,7 @@ $messages['oc'] = array(
 	'wm-license-cc-conditions-share_alike-text' => "Se modificatz, transformatz, o vos basatz sus aquesta òbra, vos cal distribuir l'òbra resultanta jos la meteissa licéncia o una licéncia similara a aquesta.",
 	'wm-license-fsf-wiki-link' => 'w:oc:Fondacion pel logicial liure',
 	'wm-license-free-software-wiki-link' => 'w:oc:Logicial liure',
+	'wm-license-gfdl-1.2-and-later' => "Avètz la permission de copiar, distribuir e/o modificar aqueste document segon los tèrmes de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licéncia de documentacion liura GNU]]''', version 1.2 o mai recenta publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sens seccions inalterablas, sens tèxte de primièra pagina de cobèrtura e sens tèxte de darrièra pagina de cobèrtura.",
 	'wm-license-gfdl-wiki-link' => 'w:oc:Licéncia de documentacion liura GNU',
 	'wm-license-information-description' => 'Descripcion',
 	'wm-license-information-source' => 'Font',
@@ -11417,6 +11459,12 @@ $messages['pt-br'] = array(
  * @author AlimanRuna
  */
 $messages['qu'] = array(
+	'wm-license-cc-free' => 'Qispilla rurarillay:',
+	'wm-license-cc-free-to-share-header' => 'rakinakuy',
+	'wm-license-cc-free-to-share-text' => "iskaychay, mast'ariy, maymanpas kachay kay rurasqata",
+	'wm-license-cc-free-to-remix-header' => 'musuqmanta chaqruy',
+	'wm-license-cc-free-to-remix-text' => 'rurasqata tupayay',
+	'wm-license-cc-conditions' => 'Kay phatakuna tukuptinqa:',
 	'wm-license-information-description' => "T'iktuna",
 	'wm-license-information-source' => 'Pukyu',
 	'wm-license-information-date' => "P'unchaw",
@@ -11426,6 +11474,8 @@ $messages['qu'] = array(
 	'wm-license-information-permission-reusing-text' => "Kay willañiqita musuqmanta llamk'achiy",
 	'wm-license-information-permission-see-below' => 'Kay qatiqpi qhaway.',
 	'wm-license-information-other-versions' => 'Huk musuqchasqakuna',
+	'wm-license-original-upload-log' => "Qallariy churkuy hallch'a",
+	'wm-license-own-work' => 'Kikinpa rurasqan',
 );
 
 /** Romansh (Rumantsch) */
@@ -11525,6 +11575,7 @@ $messages['ro'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.',
 	'wm-license-fsf-wiki-link' => 'w:ro:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:ro:Software liber',
+	'wm-license-gfdl-1.2-and-later' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', versiunea 1.2 fie orice altă versiune ulterioară publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gpl-wiki-link' => 'w:ro:Licența Publică Generală GNU',
 	'wm-license-information-table-summary' => 'Un format standardizat ce oferă informații complete despre fișier, incluzând descrierea conținutului fișierului și detalii despre modul în care a fost efectuat, statutul drepturilor de autor și sursa.',
 	'wm-license-information-description' => 'Descriere',
@@ -11949,11 +12000,64 @@ $messages['ru'] = array(
  */
 $messages['rue'] = array(
 	'wikimedialicensetexts-desc' => 'Ліценчны повідомлїня Вікімедіа',
+	'wm-license-attribution-with-author-text' => "Властник авторьскых прав на тот файл, $1, доволює  ёго хоснованя хоцькому '''про хоцьякый ціль, за подмінкы''', же є властник прав правилно зазначеный. Далше шырїня, творба одводженых дїл, комерчне хоснованя і вшыткы далшы хоснованя суть доволены.",
+	'wm-license-attribution-without-author-text' => "Властник авторьскых прав на тот файл, доволює  ёго хоснованя хоцькому '''про хоцьякый ціль, за подмінкы''', же є властник прав правилно зазначеный. Далше шырїня, творба одводженых дїл, комерчне хоснованя і вшыткы далшы хоснованя суть доволены.",
 	'wm-license-cc-attribution' => 'Уведьте автора',
 	'wm-license-cc-by-1.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.rue Уведьте автора 1.0 Generic]',
 	'wm-license-cc-by-1.0-fi-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.rue Уведьте автора 1.0 Фіньско] .',
 	'wm-license-cc-by-1.0-il-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.rue Уведьте автора 1.0 Ізраіль]',
 	'wm-license-cc-by-1.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.rue Уведьте автора 1.0 Голандія]',
+	'wm-license-cc-by-2.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.rue Уведьте автора 2.0 Generic]',
+	'wm-license-cc-by-2.0-at-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.rue Уведьте автора 2.0 Австрія]',
+	'wm-license-cc-by-2.0-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.rue Уведьте автора 2.0 Австралія]',
+	'wm-license-cc-by-2.0-be-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.rue Уведьте автора 2.0 Белґія]',
+	'wm-license-cc-by-2.0-br-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.rue Уведьте автора 2.0 Бразілія]',
+	'wm-license-cc-by-2.0-ca-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.rue Уведьте автора 2.0 Канада]',
+	'wm-license-cc-by-2.0-cl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.rue Уведьте автора 2.0 Чіле]',
+	'wm-license-cc-by-2.0-de-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.rue Уведьте автора 2.0 Нїмецько]',
+	'wm-license-cc-by-2.0-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.rue Уведьте автора 2.0 Іспанія]',
+	'wm-license-cc-by-2.0-fr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.rue Уведьте автора 2.0 Франція]',
+	'wm-license-cc-by-2.0-hr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/deed.rue Уведьте автора 2.0 Хорватьско]',
+	'wm-license-cc-by-2.0-it-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.rue Уведьте автора 2.0 Італія]',
+	'wm-license-cc-by-2.0-jp-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.rue Уведьте автора 2.0 Японія]',
+	'wm-license-cc-by-2.0-kr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/deed.rue Уведьте автора 2.0 Корея]',
+	'wm-license-cc-by-2.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.rue Уведьте автора 2.0 Голандія]',
+	'wm-license-cc-by-2.0-pl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/deed.rue Уведьте автора 2.0 Польско]',
+	'wm-license-cc-by-2.0-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.rue Уведьте автора 2.0 Тайван]',
+	'wm-license-cc-by-2.0-uk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.rue Уведьте автора 2.0 Анґліцько і Валес]',
+	'wm-license-cc-by-2.0-za-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.rue Уведьте автора 2.0 Южна Африка]',
+	'wm-license-cc-by-2.1-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.rue Уведьте автора 2.1 Австралія]',
+	'wm-license-cc-by-2.1-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.rue Уведьте автора 2.1 Іспанія]',
+	'wm-license-cc-by-2.1-jp-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.rue Уведьте автора 2.1 Японія]',
+	'wm-license-cc-by-2.5-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.rue Уведьте автора 2.5 Generic]',
+	'wm-license-cc-by-2.5-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.rue Уведьте автора 2.5 Австралія]',
+	'wm-license-cc-by-2.5-bg-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.rue Уведьте автора 2.5 Белґія]',
+	'wm-license-cc-by-2.5-br-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.rue Уведьте автора 2.5 Бразілія]',
+	'wm-license-cc-by-2.5-ca-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/deed.rue Уведьте автора 2.5 Канада]',
+	'wm-license-cc-by-2.5-ch-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/deed.rue Уведьте автора 2.5 Швайцарія]',
+	'wm-license-cc-by-2.5-cn-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.rue Уведьте автора 2.5 Кітай]',
+	'wm-license-cc-by-2.5-co-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/deed.rue Уведьте автора 2.5 Колумбія]',
+	'wm-license-cc-by-2.5-dk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.rue Уведьте автора 2.5 Даньско]',
+	'wm-license-cc-by-2.5-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.rue Уведьте автора 2.5 Іспанія]',
+	'wm-license-cc-by-2.5-hr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.rue Уведьте автора 2.5 Хорватьско]',
+	'wm-license-cc-by-2.5-hu-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/deed.rue Уведьте автора 2.5 Мадярьско]',
+	'wm-license-cc-by-2.5-il-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.rue Уведьте автора 2.5 Ізраіль]',
+	'wm-license-cc-by-2.5-in-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.rue Уведьте автора 2.5 Індія]',
+	'wm-license-cc-by-2.5-it-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.rue Уведьте автора 2.5 Італія]',
+	'wm-license-cc-by-2.5-mk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/deed.rue Уведьте автора 2.5 Македонія]',
+	'wm-license-cc-by-2.5-mt-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/deed.rue Уведьте автора 2.5 Малта]',
+	'wm-license-cc-by-2.5-mx-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/deed.rue Уведьте автора 2.5 Мексіко]',
+	'wm-license-cc-by-2.5-my-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/deed.rue Уведьте автора 2.5 Малайзія]',
+	'wm-license-cc-by-2.5-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/deed.rue Уведьте автора 2.5 Голандія]',
+	'wm-license-cc-by-2.5-pe-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/deed.rue Уведьте автора 2.5 Перу]',
+	'wm-license-cc-by-2.5-pl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/deed.rue Уведьте автора 2.5 Польско]',
+	'wm-license-cc-by-2.5-pt-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/deed.rue Уведьте автора 2.5 Портуґалія]',
+	'wm-license-cc-by-2.5-scotland-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.rue Уведьте автора 2.5 УК Шкотьско]',
+	'wm-license-cc-by-2.5-se-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.rue Уведьте автора 2.5 Шведьско]',
+	'wm-license-cc-by-2.5-si-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/deed.rue Уведьте автора 2.5 Словіньско]',
+	'wm-license-cc-by-2.5-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.rue Уведьте автора 2.5 Тайван]',
+	'wm-license-cc-by-2.5-za-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/deed.rue Уведьте автора 2.5 Южна Африка]',
+	'wm-license-cc-by-3.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.rue Уведьте автора 3.0 Unported]',
 	'wm-license-cc-free' => 'Можете слободно:',
 	'wm-license-cc-conditions-attribution-header' => 'узнаня авторства',
 	'wm-license-information-description' => 'Опис',
@@ -12599,12 +12703,12 @@ $messages['sk'] = array(
 	'wm-license-cc-wiki-link' => 'w:sk:Creative Commons',
 	'wm-license-cc-attribution' => 'Attribution',
 	'wm-license-cc-by-1.0-text' => 'Tento súbor podlieha [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] licencii',
-	'wm-license-cc-by-1.0-fi-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]  [http://creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland].',
-	'wm-license-cc-by-1.0-il-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]  [http://creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel].',
+	'wm-license-cc-by-1.0-fi-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]  [http://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland].',
+	'wm-license-cc-by-1.0-il-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]  [http://creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel].',
 	'wm-license-cc-by-1.0-nl-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands].',
 	'wm-license-cc-by-2.0-text' => 'Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic]',
 	'wm-license-cc-by-2.0-at-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria].',
-	'wm-license-cc-by-2.0-au-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.en Attribution 2.0 Australia].',
+	'wm-license-cc-by-2.0-au-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/ Attribution 2.0 Australia].',
 	'wm-license-cc-by-2.0-be-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium].',
 	'wm-license-cc-by-2.0-br-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/ Attribution 2.0 Brazil].',
 	'wm-license-cc-by-2.0-cl-text' => 'Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/ Attribution 2.0 Chile].',
