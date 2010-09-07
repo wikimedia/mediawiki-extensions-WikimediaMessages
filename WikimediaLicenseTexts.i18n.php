@@ -1798,7 +1798,7 @@ $messages['br'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'eskemmañ rik-ha-rik',
 	'wm-license-cc-conditions-share_alike-text' => "Ma tegasit kemmoù, ma treuzfurmit pe ma savit un dra bennak diwar an oberenn-mañ e rankit skignañ an oberenn krouet ganeoc'h dindan an hevelep aotre-implijout pe un aotre-implijout kar-tost da hemañ.",
 	'wm-license-cecill-text' => "An oberenn-mañ zo ur  [[{{int:wm-license-free-software-wiki-link}}|meziant frank]]; galloud a c'heller adimplijout pe kemm anezhañ dindan aotreoù ar [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. An destenn eus an aotre-implijout CeCILL zo amañ: [{{int:wm-license-cecill-full-link}} www.cecill.info].",
-	'wm-license-fal-text' => "Copyleft: An oberenn-mañ zo frank; gallout a c'helloc'h addasparzhañ pe/ha kemm anezhi hervez an '''[[{{int:wm-license-fal-wiki-link}}|Aotre-implijout Arz Frank]]'''. Kavout a reot ur skouerenn eus an aotre-implijout-mañ e [{{int:wm-license-fal-full-link}} lec'hienn Copyleft Attitude] hag e lec'hiennoù all ivez.",
+	'wm-license-fal-text' => "Copyleft : An oberenn-mañ zo frank; gallout a c'helloc'h addasparzhañ pe/ha kemm anezhi hervez an '''[[{{int:wm-license-fal-wiki-link}}|Aotre-implijout Arz Frank]]'''. Kavout a reot ur skouerenn eus an aotre-implijout-mañ e [{{int:wm-license-fal-full-link}} lec'hienn Copyleft Attitude] hag e lec'hiennoù all ivez.",
 	'wm-license-fal-wiki-link' => 'w:br:Aotre-implijout Arz Frank',
 	'wm-license-fsf-wiki-link' => 'w:br:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:br:Poellad frank',
@@ -1830,7 +1830,7 @@ $messages['br'] = array(
 	'wm-license-own-work' => 'Labour hiniennel',
 	'wm-license-pd-author-self-text' => "Me, perc'henn war gwirioù an oberenn-mañ, a lak anezhi en '''[[{{int:wm-license-pd-wiki-link}}|domani foran]]'''. Talvezout a ra kement-mañ evit ar bed a-bezh.",
 	'wm-license-pd-author-with-author-text' => "An oberenn-mañ zo bet lakaet en '''[[{{int:wm-license-pd-wiki-link}}|domani foran]]''' gant e oberour, '''$1'''. Talvezout a ra kement-mañ evit ar bed a-bez.",
-	'wm-license-pd-author-not-legally-possible' => "E broioù 'zo n'eo ket posubl ez-lezennel; en degouezh-mañ:",
+	'wm-license-pd-author-not-legally-possible' => "E broioù 'zo n'eo ket posubl ez-lezennel; en degouezh-mañ :",
 	'wm-license-pd-author-self-any-purpose' => "Aotreiñ a ran da neb ar gwir da implijout an oberenn-mañ '''evit n'eus forzh peseurt amkan''', hep diviz ebet, nemet hini al lezenn.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 a aotre da neb ar gwir da implijout an oberenn-mañ '''evit n'eus forzh peseurt amkan''', hep diviz ebet, nemet hini al lezenn.",
 	'wm-license-self-one-license' => "Evel perc'henn eus ar gwirioù oberour, e embannan an oberenn-mañ dindan an aotre-implijout da-heul :",
@@ -2031,7 +2031,9 @@ $messages['bs'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Dozvoljeno je kopirati, distribuirati i/ili mijenjati ovaj članak pod uslovima navedenim u '''[[{{int:wm-license-gfdl-wiki-link}}|GNU licenci za slobodnu dokumentaciju]]''', verzija 1.2 ili kasnijom verzijom izdatom od [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez nepromjenljivih dijelova, te bez sadržaja na naslovnoj i zadnjoj strani. Kopija licence se nalazi pod poglavljem ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "Dozvoljeno je kopirati, distribuirati i/ili mijenjati ovaj dokument pod uslovima navedenim u '''[[{{int:wm-license-gfdl-wiki-link}}|GNU licenci za slobodnu dokumentaciju]]''', samo verzija 1.2 objavljenoj od strane [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez nepromjenljivih dijelova, te bez sadržaja na naslovnoj i zadnjoj strani. Kopija licence se nalazi pod poglavljem ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-and-later' => "Dozvoljeno je kopirati, distribuirati i/ili mijenjati ovaj dokument pod uslovima navedenim u '''[[{{int:wm-license-gfdl-wiki-link}}|GNU licenci za slobodnu dokumentaciju]]''', verzija 1.3 ili kasnijom verzijom izdatom od [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez nepromjenljivih dijelova, te bez sadržaja na naslovnoj i zadnjoj strani. Kopija licence se nalazi pod poglavljem ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Dozvoljeno je kopirati, distribuirati i/ili mijenjati ovaj dokument pod uslovima navedenim u '''[[{{int:wm-license-gfdl-wiki-link}}|GNU licenci za slobodnu dokumentaciju]]''', samo verzija 1.3 objavljenoj od strane [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez nepromjenljivih dijelova, te bez sadržaja na naslovnoj i zadnjoj strani. Kopija licence se nalazi pod poglavljem ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:bs:GNU licenca za slobodnu dokumentaciju',
+	'wm-license-gpl-text' => "Ovaj rad je [[{{int:wm-license-free-software-wiki-link}}|slobodni softver]]; možete ga redistribuirati i/ili mijenjati pod uslovima '''[[{{int:wm-license-gpl-wiki-link}}|GNU Opće javne licence]]''' koju je objavila [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bilo verziju 2 Licence, bilo neku kasniju. Ovaj rad je distribuiran u nadi da će biti koristan, ali '''bez ikakve garancije'''; čak i bez posredne garancije '''utrživosti''' ili '''da odgovara za određenu namjenu'''. Pogledajte [{{int:wm-license-gpl-2-full-link}} verziju 2] i [{{int:wm-license-gpl-3-full-link}} verziju 3 GNU Opće javne licence] za više detalja.",
 	'wm-license-gpl-wiki-link' => 'w:bs:GNU General Public License',
 	'wm-license-information-table-summary' => 'Standardizirana tabela daje sve informacije o datoteci, uključujući opis o tome šta prikazuje, kako je napravljena, status autorskog prava i izvor.',
 	'wm-license-information-description' => 'Opis',
@@ -2047,9 +2049,20 @@ $messages['bs'] = array(
 	'wm-license-information-permission-reusing-text' => 'Naknadno korištenje ove datoteke',
 	'wm-license-information-permission-see-below' => 'Vidi ispod.',
 	'wm-license-information-other-versions' => 'Ostale verzije',
+	'wm-license-lgpl-text' => "Ova biblioteka je [[{{int:wm-license-free-software-wiki-link}}|slobodni softver]]; možete ga redistribuirati i/ili mijenjati pod uslovima '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser Opće javne licence]]''' koju je objavila [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bilo verziju 2.1 Licence, bilo (po vašem izboru) neku kasniju. Ova biblioteka je distribuirana u nadi da će biti koristan, ali '''bez ikakve garancije'''; čak i bez posredne garancije '''utrživosti''' ili '''da odgovara za određenu namjenu'''. Pogledajte [{{int:wm-license-lgpl-2.1-full-link}} verziju 2.1] i [{{int:wm-license-lgpl-3-full-link}} verziju 3 GNU Lesser Opće javne licence] za više detalja.",
+	'wm-license-licensing-update-text' => 'Ova oznaka licence je dodana na ovu datoteku kao dio GFDL [[{{int:wm-license-licensing-update-wiki-link}}|ažuriranja licence]].',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/bs',
+	'wm-license-original-upload-log' => 'Originalni zapisnik postavljanja',
 	'wm-license-own-work' => 'Vlastito djelo',
+	'wm-license-pd-author-self-text' => "Ja, vlasnik autorskog prava ovog djela, objavljujem ovaj rad u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]'''. Ovo se primjenjuje u cijelom svijetu.",
+	'wm-license-pd-author-with-author-text' => "Ovaj rad je objavljen u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]''' od strane autora '''$1'''. Ovo se primjenjuje širom svijeta.",
+	'wm-license-pd-author-not-legally-possible' => 'U nekim državama ovo zakonski nije moguće; u tom slučaju:',
+	'wm-license-pd-author-self-any-purpose' => "Ja dopuštam svima pravo korištenja ovog rada '''u bilo koju svrhu''', bez ikakvih uslova, osim ako su takvi uslovi zakonski neophodni.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 dopušta svima pravo korištenja ovog rada '''u bilo koju svrhu''', bez ikakvih uslova, osim ako su takvi uslovi zakonski neophodni.",
 	'wm-license-pd-wiki-link' => 'w:bs:Javno vlasništvo',
+	'wm-license-self-one-license' => 'Ja, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećom licencom:',
+	'wm-license-self-one-license-with-author' => '$1, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećom licencom:',
+	'wm-license-self-multiple-licenses' => 'Ja, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećim licencama:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećim licencama:',
 	'wm-license-self-multiple-licenses-select' => 'Možete odabrati licencu po vašem izboru.',
 );
@@ -13470,12 +13483,18 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-self-multiple-licenses-select' => 'Du får själv välja den licens du vill använda.',
 );
 
-/** Swahili (Kiswahili) */
+/** Swahili (Kiswahili)
+ * @author Ikiwaner
+ */
 $messages['sw'] = array(
 	'wm-license-fsf-wiki-link' => 'w:sw:Shirika la Bidhaa Pepe Huru',
 	'wm-license-gfdl-wiki-link' => 'w:sw:GNU Free Documentation License',
 	'wm-license-information-description' => 'Maelezo',
 	'wm-license-information-source' => 'Chanzo',
+	'wm-license-information-date' => 'Tarehe',
+	'wm-license-information-author' => 'Mwandishi',
+	'wm-license-information-permission' => 'Ruhusa',
+	'wm-license-own-work' => 'Kazi yangu',
 );
 
 /** Silesian (Ślůnski) */
