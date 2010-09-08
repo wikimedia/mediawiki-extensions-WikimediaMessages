@@ -13494,6 +13494,8 @@ $messages['sw'] = array(
 	'wm-license-information-date' => 'Tarehe',
 	'wm-license-information-author' => 'Mwandishi',
 	'wm-license-information-permission' => 'Ruhusa',
+	'wm-license-information-permission-see-below' => 'Angalia hapa chini.',
+	'wm-license-information-other-versions' => 'Matoleo mengine',
 	'wm-license-own-work' => 'Kazi yangu',
 );
 
