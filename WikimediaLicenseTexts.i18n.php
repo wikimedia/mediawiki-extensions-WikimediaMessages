@@ -14947,11 +14947,14 @@ $messages['vro'] = array(
 	'wm-license-information-description' => 'Seletüs',
 );
 
-/** Walloon (Walon) */
+/** Walloon (Walon)
+ * @author Lucyin
+ */
 $messages['wa'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:wa:Licince di libe documintåcion di GNU',
 	'wm-license-information-description' => 'Discrijhaedje',
 	'wm-license-information-source' => 'Sourdant',
+	'wm-license-own-work' => 'Prôpe ovraedje',
 );
 
 /** Wolof (Wolof) */
