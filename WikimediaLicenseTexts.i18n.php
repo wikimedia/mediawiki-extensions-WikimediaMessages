@@ -4283,6 +4283,11 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-licensing-update-text' => 'See litsentsimärgis lisati sellele failile GFDL-i [[{{int:wm-license-licensing-update-wiki-link}}|litsentsimisuuenduse]] raames.',
 	'wm-license-original-upload-log' => 'Esialgne üleslaadimislogi',
 	'wm-license-own-work' => 'Üleslaadija oma töö',
+	'wm-license-pd-author-self-text' => "Selle teose autoriõiguste valdajana annan käesolevaga teose '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''. See kehtib üleilmselt.",
+	'wm-license-pd-author-with-author-text' => "Autor '''$1''' on andnud selle teose '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''. See kehtib üleilmselt.",
+	'wm-license-pd-author-not-legally-possible' => 'Kui see pole mõnes riigis õiguslikult võimalik:',
+	'wm-license-pd-author-self-any-purpose' => "Annan kõigile õiguse seda teost kasutada '''ükskõik mille jaoks''', ilma ühegi tingimuseta, kui seadus neid just ei sea.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 annab kõigile õiguse seda teost kasutada '''ükskõik mille jaoks''', ilma ühegi tingimuseta, kui seadus neid just ei sea.",
 	'wm-license-self-one-license' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgneva litsentsi all:',
 	'wm-license-self-one-license-with-author' => '$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgneva litsentsi all:',
 	'wm-license-self-multiple-licenses' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgnevate litsentside all:',
@@ -7915,6 +7920,12 @@ $messages['km'] = array(
 	'wm-license-cc-by-2.5-br-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/ Attribution 2.5 Brazil]',
 	'wm-license-cc-by-2.5-cn-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/ Attribution 2.5 China Mainland]',
 	'wm-license-cc-by-2.5-dk-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/ Attribution 2.5 Denmark]',
+	'wm-license-cc-free' => 'អ្នកមានសិទ្ធិ៖',
+	'wm-license-cc-free-to-share-header' => 'ចែករំលែក',
+	'wm-license-cc-free-to-share-text' => 'ថតចំលងនិងចែកចាយស្នាដៃនេះ',
+	'wm-license-cc-free-to-remix-header' => 'កែច្នៃ',
+	'wm-license-cc-free-to-remix-text' => 'កែច្នៃយកទៅប្រើ',
+	'wm-license-cc-conditions' => 'ក្រោមលក្ខខណ្ឌដូចតទៅនេះ៖',
 	'wm-license-information-description' => 'ការ​ពិពណ៌នា',
 	'wm-license-information-description-missing' => "មេឌា​នេះ​មិន​មាន​'''ការពិពណ៌នា'''ទេ និង ប្រហែល​ជា​ខ្វះ​ព័ត៌មាន​ដទៃទៀត។",
 	'wm-license-information-description-missing-request' => 'សូម​ផ្តល់​នូវ​ការ​ពិពណ៌នា​ដ៏​មាន​អត្ថន័យ​ដល់​មេឌា​ហ្វាល់នេះ។',
@@ -11842,6 +11853,7 @@ $messages['roa-tara'] = array(
  * @author MaxSem
  * @author Multichill
  * @author Rubin
+ * @author TarzanASG
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -11904,7 +11916,7 @@ $messages['ru'] = array(
 	'wm-license-cc-by-2.5-si-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/ Attribution 2.5 Slovenia].',
 	'wm-license-cc-by-2.5-tw-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5 Taiwan].',
 	'wm-license-cc-by-2.5-za-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 South Africa].',
-	'wm-license-cc-by-3.0-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported]',
+	'wm-license-cc-by-3.0-text' => 'Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] ([http://ru.wikisource.org/wiki/Creative_Commons_Attribution_3.0_Unported русский текст])',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Этот файл доступен на условиях лицензий [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution  [http://creativecommons.org/licenses/by/3.0/deed 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed 2.0 Generic] и [http://creativecommons.org/licenses/by/1.0/deed 1.0 Generic].',
 	'wm-license-cc-by-3.0-at-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austria].',
 	'wm-license-cc-by-3.0-cz-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0 Czech Republic].',
@@ -11983,7 +11995,7 @@ $messages['ru'] = array(
 	'wm-license-cc-by-sa-2.5-si-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Slovenia].',
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ Attribution-Share Alike 2.5 Taiwan].',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share Alike 2.5 South Africa].',
-	'wm-license-cc-by-sa-3.0-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-by-sa-3.0-text' => 'Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] ([http://ru.wikisource.org/wiki/Creative_Commons_Attribution-ShareAlike_3.0_Unported русский текст])',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Этот файл доступен на условиях лицензий [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/deed 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed 2.0 Generic] и [http://creativecommons.org/licenses/by-sa/1.0/deed 1.0 Generic].',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Austria].',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/ Attribution-Share Alike 3.0 Czech Republic].',
@@ -14329,9 +14341,22 @@ $messages['tt'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:tt:GNU/İrekle İstälek Röxsätnämäse',
 );
 
-/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic)) */
+/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+ * @author Ильнар
+ */
 $messages['tt-cyrl'] = array(
+	'wikimedialicensetexts-desc' => ' Викимедианең лицензия турындагы җәбәрләре',
 	'wm-license-information-description' => 'Тасвир',
+	'wm-license-information-source' => 'Чыганагы',
+	'wm-license-information-source-missing' => 'Бирелгән медиа-файлда "чыганак" турында мәгълүмат бирелми.',
+	'wm-license-information-source-missing-request' => 'Зинһар, бу файлның тасвирламасын үзгәртегез һәм чыганагын күрсәтегез.',
+	'wm-license-information-date' => 'Вакыт',
+	'wm-license-information-author' => 'Автор',
+	'wm-license-information-author-missing' => 'Бирелгән мәгълүматта "авторлык" турында хәбәр бирелми.',
+	'wm-license-information-permission' => 'Рөхсәт',
+	'wm-license-information-permission-reusing-text' => 'Бу файлны кабат куллану',
+	'wm-license-information-permission-see-below' => 'Астан карагыз.',
+	'wm-license-information-other-versions' => 'Башка юрамалар',
 );
 
 /** Tatar (Latin) (Татарча/Tatarça (Latin)) */
