@@ -2972,6 +2972,7 @@ $messages['da'] = array(
  * @author ChrisiPK
  * @author CygnusOlor
  * @author Kghbln
+ * @author Kwj2772
  * @author Metalhead64
  * @author Multichill
  * @author The Evil IP address
@@ -3119,7 +3120,7 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.de Namensnennung-Weitergabe unter gleichen Bedingungen 2.5 Taiwan] lizenziert.',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/2.5/za/deed.de Namensnennung-Weitergabe unter gleichen Bedingungen 2.5 SÜdafrika] lizenziert.',
 	'wm-license-cc-by-sa-3.0-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/3.0/deed.de Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Unported] lizenziert.',
-	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Diese Datei ist unter den [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenzen Namensnennung-Weitergabe unter gleichen Bedingungen  [http://creativecommons.org/licenses/by-sa/2.5/deed.de 3.0 nicht portiert], [http://creativecommons.org/licenses/by-sa/2.5/deed.de 2.5 generisch], [http://creativecommons.org/licenses/by-sa/2.0/deed.de 2.0 generisch] und [http://creativecommons.org/licenses/by-sa/1.0/deed.de 1.0 generisch] lizenziert.',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Diese Datei ist unter den [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenzen Namensnennung-Weitergabe unter gleichen Bedingungen  [http://creativecommons.org/licenses/by-sa/3.0/deed.de 3.0 nicht portiert], [http://creativecommons.org/licenses/by-sa/2.5/deed.de 2.5 generisch], [http://creativecommons.org/licenses/by-sa/2.0/deed.de 2.0 generisch] und [http://creativecommons.org/licenses/by-sa/1.0/deed.de 1.0 generisch] lizenziert.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/3.0/at/deed.de Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Österreich] lizenziert.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.de Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Tschechische Republik] lizenziert.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by-sa/3.0/de/deed.de Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland] lizenziert.',
@@ -14346,6 +14347,9 @@ $messages['tt'] = array(
  */
 $messages['tt-cyrl'] = array(
 	'wikimedialicensetexts-desc' => ' Викимедианең лицензия турындагы җәбәрләре',
+	'wm-license-cc-attribution' => 'Авторлыкны күрсәтү',
+	'wm-license-cc-free' => 'Сез ирекле рәвештә:',
+	'wm-license-cc-free-to-share-header' => 'файл белән уртаклаша аласыз',
 	'wm-license-information-description' => 'Тасвир',
 	'wm-license-information-source' => 'Чыганагы',
 	'wm-license-information-source-missing' => 'Бирелгән медиа-файлда "чыганак" турында мәгълүмат бирелми.',
