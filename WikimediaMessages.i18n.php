@@ -7986,6 +7986,7 @@ Vide pure [http://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] 
  * @author Lockal
  * @author MaxSem
  * @author Putnik
+ * @author TarzanASG
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -8082,8 +8083,8 @@ $messages['ru'] = array(
 	'group-inactive-member' => 'неактивный участник',
 	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
 	'shared-repo-name-shared' => 'Викисклада',
-	'wikimedia-copyright' => 'Текст доступен на условиях лицензии <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
-	'wikimedia-copyrightwarning' => 'Сохраняя свои изменения, вы соглашаетесь на их неотзывную публикацию на условиях лицензий [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] и [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы соглашаетесь, что при использовании страницы, в которую вы вносили изменения, на вас будут ссылаться, как минимум, посредством гиперссылки или URL на соответствующую страницу. Подробнее см. [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования].',
+	'wikimedia-copyright' => 'Текст доступен по <a href="http://creativecommons.org/licenses/by-sa/3.0/">лицензии Creative Commons Attribution/Share-Alike</a> ([http://ru.wikisource.org/wiki/Creative_Commons_Attribution-ShareAlike_3.0_Unported русский текст]), в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
+	'wikimedia-copyrightwarning' => 'Сохраняя свои изменения, вы соглашаетесь на их неотзывную публикацию по лицензиям [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] ([http://ru.wikisource.org/wiki/Creative_Commons_Attribution-ShareAlike_3.0_Unported русский текст]) и [http://www.gnu.org/copyleft/fdl.html GFDL] ([http://ru.wikisource.org/wiki/GNU_FDL русский текст]). Вы соглашаетесь, что при использовании страницы, в которую вы вносили изменения, на вас будут ссылаться, как минимум, посредством гиперссылки или URL на соответствующую страницу. Подробнее см. [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования].',
 	'wikimedia-editpage-tos-summary' => 'Если вы не хотите, чтобы ваши тексты свободно редактировались и распространялись любым желающим, не помещайте их сюда.
 Если вы не являетесь автором размещаемого текста, то он должен быть доступен на условиях, совместимых с [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условиями использования], и вы соглашаетесь следовать всем соответствующим требованиям лицензии.',
 );
@@ -9826,6 +9827,7 @@ $messages['ts'] = array(
  * @author Рашат Якупов
  */
 $messages['tt-cyrl'] = array(
+	'wikimediamessages-desc' => 'Викимедиа өчен шәхси булган хатлар',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Сделать_пожертвование',
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
@@ -9838,6 +9840,7 @@ $messages['tt-cyrl'] = array(
 	'group-bigexport' => 'Зур экспортерлар',
 	'group-confirmed' => 'Расланган кулланучылар',
 	'group-editprotected' => 'Якланган битнең мөхәррирләре',
+	'group-eliminator' => 'Бетерүчеләр',
 	'group-filemover' => 'Исеме алмаштырулы битләр',
 	'group-flood' => 'Ботлар',
 	'group-founder' => 'Нигез салучылар',
@@ -9847,6 +9850,10 @@ $messages['tt-cyrl'] = array(
 	'group-ipblock-exempt' => 'IP-кысылган кулланучылар',
 	'group-OTRS-member' => 'OTRS әгъзалары',
 	'group-patroller' => 'Тикшерүче',
+	'group-researcher' => 'Тәҗрибә ясаучылар',
+	'group-rollbacker' => 'Кире кайтаручылар',
+	'group-transwiki' => 'Викиара-күчерүчеләр',
+	'group-trusted' => 'Ышанычлы кулланучылар',
 	'group-patroller-member' => 'тикшерүче',
 	'group-trusted-member' => 'ышанычлы кулланучы',
 	'grouppage-flood' => '{{ns:project}}:Кулланучы-ботлар',
