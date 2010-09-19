@@ -4193,7 +4193,7 @@ $messages['hr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni suradnici',
 	'wikimedia-copyright' => 'Tekst je dostupan pod licencijom <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Imenovanje/Dijeli pod istim uvjetima</a>; dodatni uvjeti se mogu primjenjivati. Pogledajte <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Uvjete korištenja</a> za detalje.',
 	'wikimedia-copyrightwarning' => 'Pritiskom na "sačuvaj stranicu", neopozivo ste suglasni da svoje doprinose dajte pod uvjetima iz licencije [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [http://www.gnu.org/copyleft/fdl.html GFDL]. Slažete se da ćete biti naznačeni kao autor od strane korisnika najmanje preko poveznice ili URL-a na stranicu na kojoj ste doprinosili. Pogledajte [http://wikimediafoundation.org/wiki/Terms_of_Use Uvjete korištenja] za detalje.',
-	'wikimedia-editpage-tos-summary' => 'Ukoliko ne želite da se vaš tekst nemilosrdno uređuje i slobodno raspačava, nemojte ga slati ovdje. Ako ovo niste sami napisali, tada ovaj tekst mora biti dostupan pod uvjetima koji su u skladu s [http://wikimediafoundation.org/wiki/Terms_of_Use Uvjetima korištenja], a vi se suglasni da slijedite sve odgovarajuće uvjete licenciranja.',
+	'wikimedia-editpage-tos-summary' => 'Ukoliko ne želite da se vaš tekst nemilosrdno uređuje i slobodno raspačava, nemojte ga slati ovamo. Ako ovo niste sami napisali, tada ovaj tekst mora biti dostupan pod uvjetima koji su u skladu s [http://wikimediafoundation.org/wiki/Terms_of_Use Uvjetima korištenja], a vi se suglasni da slijedite sve odgovarajuće uvjete licenciranja.',
 );
 
 /** Upper Sorbian (Hornjoserbsce)
@@ -5290,6 +5290,7 @@ $messages['ko'] = array(
 	'group-bigexport' => '대량 문서 익스포터',
 	'group-confirmed' => '자동 인증된 사용자',
 	'group-editprotected' => '보호된 문서 편집자',
+	'group-eliminator' => '삭제자',
 	'group-filemover' => '파일 이름 변경자',
 	'group-flood' => '봇 사용자',
 	'group-founder' => '설립자',
@@ -5311,6 +5312,7 @@ $messages['ko'] = array(
 	'group-bigexport-member' => '대량 문서 익스포터',
 	'group-confirmed-member' => '자동 인증된 사용자',
 	'group-editprotected-member' => '보호된 문서 편집자',
+	'group-eliminator-member' => '삭제자',
 	'group-filemover-member' => '파일 이름 변경자',
 	'group-flood-member' => '봇 사용자',
 	'group-founder-member' => '설립자',
@@ -5332,6 +5334,7 @@ $messages['ko'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:대용량 문서 전파자',
 	'grouppage-confirmed' => '{{ns:project}}:자동 인증된 사용자',
 	'grouppage-editprotected' => '{{ns:project}}:보호된 문서 편집자',
+	'grouppage-eliminator' => '{{ns:project}}:삭제자',
 	'grouppage-filemover' => '{{ns:project}}:파일 이름 변경',
 	'grouppage-flood' => '{{ns:project}}:봇 사용자',
 	'grouppage-founder' => '{{ns:project}}:설립자',

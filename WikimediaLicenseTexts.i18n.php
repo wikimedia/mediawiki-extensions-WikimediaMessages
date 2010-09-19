@@ -8143,6 +8143,7 @@ $messages['ko'] = array(
 CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.info]에서 볼 수 있습니다.',
 	'wm-license-fal-text' => "카피레프트: 이 예술 작품은 '''[[{{int:wm-license-fal-wiki-link}}|프리 아트 라이센스]]'''의 조건 하에 자유롭게 사용, 재배포, 수정할 수 있습니다.
 라이선스 규약은 [{{int:wm-license-fal-full-link}} Copyleft Attitude 사이트]에서 볼 수 있습니다.",
+	'wm-license-fal-wiki-link' => 'w:ko:프리 아트 라이선스',
 	'wm-license-fsf-wiki-link' => 'w:ko:자유 소프트웨어 재단',
 	'wm-license-free-software-wiki-link' => 'w:ko:자유 소프트웨어',
 	'wm-license-gfdl-1.2-and-later' => "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU 자유 문서 사용 허가서]]''' 1.2판 또는 [[{{int:wm-license-fsf-wiki-link}}|자유 소프트웨어 재단]]에서 발행한 이후 판의 규정에 따라 본 문서를 복제하거나 개작 및 배포할 수 있습니다. 본 문서에는 변경 불가 부분이 없으며, 앞 표지 구절과 뒷 표지 구절도 없습니다. 본 사용 허가서의 전체 내용은 [[{{int:wm-license-gfdl-full-1.2-link}}|GNU 자유 문서 사용 허가서]] 부분에 포함되어 있습니다.",
