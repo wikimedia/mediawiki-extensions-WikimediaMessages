@@ -8262,9 +8262,13 @@ $messages['ksh'] = array(
 	'wm-license-information-date' => 'Dattum',
 );
 
-/** Kurdish (Kurdî) */
+/** Kurdish (Kurdî)
+ * @author Diebuche
+ */
 $messages['ku'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ku:Nermalava azad',
+	'wm-license-gfdl-1.2-and-later' => "Ev wêneya di bin '''[[{{int:wm-license-gfdl-wiki-link}}|lîsensa GNU ji tiştên azad ra]]''' hate barkirin.
+Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên azad ra, versiyon 1.2 ya versiyonekê kevintir, belavkirin ji [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.",
 );
 
 /** Kurdish (Latin) (Kurdî (Latin)) */
@@ -12084,7 +12088,7 @@ $messages['ru'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Вы можете выбрать любую из этих лицензий.',
 );
 
-/** Rusyn (русиньскый язык)
+/** Rusyn (Русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
@@ -12778,6 +12782,7 @@ $messages['simple'] = array(
 	'wm-license-free-software-wiki-link' => 'w:simple:Free software',
 	'wm-license-gfdl-wiki-link' => 'w:simple:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:simple:General Public License',
+	'wm-license-pd-wiki-link' => 'w:simple:Public domain',
 );
 
 /** Slovak (Slovenčina)
@@ -13179,6 +13184,7 @@ $messages['sr'] = array(
 	'wm-license-information-permission-see-below' => 'Види доле.',
 	'wm-license-information-other-versions' => 'Остале верзије',
 	'wm-license-own-work' => 'Сопствено дело',
+	'wm-license-pd-wiki-link' => 'w:sr:Јавно власништво',
 	'wm-license-self-one-license' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:',
 	'wm-license-self-one-license-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:',
 	'wm-license-self-multiple-licenses' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећим лиценцама:',
@@ -15329,6 +15335,7 @@ $messages['zh'] = array(
 	'wm-license-gpl-wiki-link' => 'w:zh:GNU通用公共许可证',
 	'wm-license-lgpl-wiki-link' => 'w:zh:GNU宽通用公共许可证',
 	'wm-license-own-work' => '上传者自己的作品',
+	'wm-license-pd-wiki-link' => 'w:zh:公有领域',
 );
 
 /** Classical Chinese (文言) */
