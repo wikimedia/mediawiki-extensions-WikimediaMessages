@@ -2954,6 +2954,7 @@ $messages['fa'] = array(
 	'group-inactive' => 'کاربران غیرفعال',
 	'group-inactive-member' => 'کاربر غیرفعال',
 	'grouppage-inactive' => '{{ns:project}}:کاربران غیرفعال',
+	'shared-repo-name-shared' => 'ویکی‌انبار',
 	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="http://creativecommons.org/licenses/by-sa/3.0/">مجوز Creative Commons Attribution/Share-Alike </a> در دسترس است؛ قوانین اضافه‌ای نیز ممکن است اعمال شوند.
 برای جزئیات بیشتر <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.',
 	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
