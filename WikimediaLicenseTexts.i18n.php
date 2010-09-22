@@ -10229,12 +10229,17 @@ $messages['nn'] = array(
 	'wm-license-information-other-versions' => 'Andre versjonar',
 	'wm-license-original-upload-log' => 'Opphavleg opplastingslogg',
 	'wm-license-own-work' => 'Eige arbeid',
+	'wm-license-pd-author-self-text' => "Eg, opphavsrettshaldaren til dette verket, frigjev dette verket til '''[[{{int:wm-license-pd-wiki-link}}|ålmenta]]'''. Dette gjeld over heile verda.",
+	'wm-license-pd-author-with-author-text' => "Dette verket er vorte frigjeve til '''[[{{int:wm-license-pd-wiki-link}}|ålmenta]]''' av opphavspersonen, '''$1'''. Dette gjeld over heile verda.",
+	'wm-license-pd-author-not-legally-possible' => 'I sume land er dette kan henda ikkje mogleg ifylgje lovene. Om dette er stoda, so:',
+	'wm-license-pd-author-self-any-purpose' => "Eg gjev kven som helst rettane til å nytta dette verket '''for kva som helst føremål''' og utan vilkår, med mindre vilkår er kravde ifylgje lova.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 gjev kven som helst rettane til å nytta dette verket '''for kva som helst føremål''' og utan vilkår, med mindre vilkår er kravde ifylgje lova.",
 	'wm-license-pd-wiki-link' => 'w:nn:Offentleg eigedom',
 	'wm-license-self-one-license' => 'Eg, opphavspersonen til dette verket, publiserer det hermed under følgjande lisens:',
 	'wm-license-self-one-license-with-author' => '$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisens:',
 	'wm-license-self-multiple-licenses' => 'Eg, opphavspersonen til dette verket, publiserer det hermed under følgjande lisensar:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisensar:',
-	'wm-license-self-multiple-licenses-select' => 'Du kan velgje den lisensen du sjølv tykkjer er best.',
+	'wm-license-self-multiple-licenses-select' => 'Du kan velje den lisensen du sjølv tykkjer er best.',
 );
 
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
@@ -13507,8 +13512,10 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
  * @author Ikiwaner
  */
 $messages['sw'] = array(
-	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 generiska].',
+	'wm-license-cc-attribution' => 'Sifa',
+	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [http://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].',
 	'wm-license-cc-free' => 'Maana yake:',
+	'wm-license-cc-conditions-attribution-header' => 'sifa',
 	'wm-license-fsf-wiki-link' => 'w:sw:Shirika la Bidhaa Pepe Huru',
 	'wm-license-gfdl-1.2-and-later' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.2 au toleo lolote lile la baadaye ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.2 tu ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
