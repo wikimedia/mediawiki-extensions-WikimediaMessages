@@ -13510,11 +13510,12 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 
 /** Swahili (Kiswahili)
  * @author Ikiwaner
+ * @author Muddyb Blast Producer
  */
 $messages['sw'] = array(
 	'wm-license-cc-attribution' => 'Sifa',
 	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [http://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].',
-	'wm-license-cc-free' => 'Maana yake:',
+	'wm-license-cc-free' => 'Uko huru:',
 	'wm-license-cc-conditions-attribution-header' => 'sifa',
 	'wm-license-fsf-wiki-link' => 'w:sw:Shirika la Bidhaa Pepe Huru',
 	'wm-license-gfdl-1.2-and-later' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.2 au toleo lolote lile la baadaye ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
