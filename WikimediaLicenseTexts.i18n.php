@@ -13547,6 +13547,7 @@ $messages['szl'] = array(
 
 /** Tamil (தமிழ்)
  * @author Multichill
+ * @author TRYPPN
  */
 $messages['ta'] = array(
 	'wm-license-cc-wiki-link' => 'w:ta:கிரியேட்டிவ் காமன்ஸ்',
@@ -13556,7 +13557,7 @@ $messages['ta'] = array(
 	'wm-license-gpl-wiki-link' => 'w:ta:க்னூ பொதுமக்கள் உரிமம்',
 	'wm-license-information-description' => 'வர்ணனை',
 	'wm-license-information-source' => 'ஆதாரம்',
-	'wm-license-information-date' => 'நாள்',
+	'wm-license-information-date' => 'தேதி',
 	'wm-license-information-author' => 'பங்களிப்பாளர்',
 	'wm-license-information-permission' => 'அனுமதி',
 	'wm-license-information-permission-see-below' => 'கீழுள்ள அறிவிப்பைக் காணவும்.',
