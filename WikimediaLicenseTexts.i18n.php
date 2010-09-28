@@ -5064,7 +5064,7 @@ Vous trouverez un exemplaire de cette Licence sur le [{{int:wm-license-fal-full-
 $messages['frp'] = array(
 	'wikimedialicensetexts-desc' => 'Mèssâjos de les licences de Wikimedia.',
 	'wm-license-cc-wiki-link' => 'w:frp:Creative Commons',
-	'wm-license-cc-attribution' => 'Atribucion',
+	'wm-license-cc-attribution' => 'Patèrnitât',
 	'wm-license-cc-by-1.0-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.fr patèrnitât 1.0 g·ènèrica].',
 	'wm-license-cc-by-1.0-fi-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.fr patèrnitât 1.0 Finlande].',
 	'wm-license-cc-by-1.0-il-text' => 'Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by/1.0/il/deed.fr patèrnitât 1.0 Israèl].',
