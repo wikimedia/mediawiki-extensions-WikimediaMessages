@@ -1609,10 +1609,17 @@ $messages['ce'] = array(
 
 /** Cebuano (Cebuano)
  * @author Abastillas
+ * @author Jordz
  */
 $messages['ceb'] = array(
 	'sitesupport' => 'Mga donasyon',
 	'tooltip-n-sitesupport' => 'Tabangi kami',
+	'wikimedia-copyright' => 'Ang teksto puyde magamit ubos sa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; puyde madugangan ang mga termino.
+Tan-awa ang <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Mga Termino sa Paggamit</a> para sa mga detalye.',
+	'wikimedia-copyrightwarning' => 'Sa pagtipig, miuyon ka sa di-mabawi nga pagpagawas sa imong kontribusyon ubos sa [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ug sa [http://www.gnu.org/copyleft/fdl.html GFDL].
+Miuyon ka nga tagaan og kredito sa mga re-user, sa minimum, pinaagi sa hyperlink o URL ngadto sa panid nga imo gitampohan.
+Tan-awa ang [http://wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit] para sa mga detalye.',
+	'wikimedia-editpage-tos-summary' => 'Kon dili nimo gusto nga ang imong sinulat mausab ug maapod-apod, nan ayaw isumiter dinhi. Kon dili ikaw mismo ang nagsulat niini, kinahanglan magamit kini ubos sa mga termino nga susama sa [http://wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit], ug miuyon ka nga mosunod sa bisan unsang gikinahanglang lisensiya nga angayan.',
 );
 
 /** Chamorro (Chamoru)
