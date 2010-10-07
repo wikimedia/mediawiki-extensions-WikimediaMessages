@@ -3178,8 +3178,7 @@ Der vollständige Lizenztext ist auf der Seite ''[[{{int:wm-license-gfdl-full-1.
 	'wm-license-gfdl-wiki-link' => 'w:de:GNU-Lizenz für freie Dokumentation',
 	'wm-license-gpl-text' => "Dieses Werk ist [[{{int:wm-license-free-software-wiki-link}}|freie Software]]; sie darf weiterverteilt und/oder verändert werden unter der  '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''', wie sie von der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] veröffentlicht wurde; dazu gelten die Bestimmungen der Version 2 oder einer späteren Version.
 Dieses Werk wurde in der Hoffnung veröffentlicht, dass sie sich als nützlich erweisen könnte, jedoch '''ohne Garantie'''; auch ohne implizierter Garantie der '''Marktgängigkeit''' oder der '''Eignung zu einem bestimmten Zweck'''.
-Siehe dazu die  [{{int:wm-license-gpl-2-full-link}} Version 2] und [{{int:wm-license-gpl-3-full-link}} Version 3 der 
-GNU General Public License] für weitere Details.",
+Siehe dazu die  [{{int:wm-license-gpl-2-full-link}} Version 2] und [{{int:wm-license-gpl-3-full-link}} Version 3 der GNU General Public License] für weitere Details.",
 	'wm-license-gpl-wiki-link' => 'w:de:GNU General Public License',
 	'wm-license-information-table-summary' => 'Eine standardisierte Tabelle mit vollständigen Informationen zu der Datei, eine Beschreibung, was sie zeigt und wie und von wem sie erstellt wurde, Urheberrechtsinformationen und Quellen.',
 	'wm-license-information-description' => 'Beschreibung',
@@ -3706,11 +3705,11 @@ $messages['eo'] = array(
 	'wm-license-cc-by-3.0-th-text' => 'Ĉi tiu dosiero estas permesigita sub permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/th/deed.eo Atribuite 3.0 Tajlando].',
 	'wm-license-cc-by-3.0-tw-text' => 'Ĉi tiu dosiero estas permesigita sub permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/tw/deed.eo Atribuite 3.0 Tajvano].',
 	'wm-license-cc-by-3.0-us-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by/3.0/us/deed.eo Atribuite 3.0 Usono] permesilo.',
-	'wm-license-cc-by-sa-1.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/deed.eo Atribuada Samkondiĉa 1.0 Ĝenerala] permesilo',
+	'wm-license-cc-by-sa-1.0-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/deed.eo Atribuite-Samkondiĉe 1.0 Ĝenerala].',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.eo Atribuite-Samkondiĉe 1.0 Suomujo].',
 	'wm-license-cc-by-sa-1.0-il-text' => 'Ĉi tiu dosiero estas permesigita sub permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/il/deed.eo Atribuite-Samkondiĉe 1.0 Israelo].',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.eo Atribuite-Samkondiĉe 1.0 Nederlando] permesilo.',
-	'wm-license-cc-by-sa-2.0-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/deed.eo Atribuada Samkondiĉa 2.0 Ĝenerala] permesilo',
+	'wm-license-cc-by-sa-2.0-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/deed.eo Atribuite-Samkondiĉe 2.0 Ĝenerala].',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.eo Atribuite-Samkondiĉe 2.0 Aŭstrujo] permesilo.',
 	'wm-license-cc-by-sa-2.0-au-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.eo Atribuite-Samkondiĉe 2.0 Aŭstralio] permesilo.',
 	'wm-license-cc-by-sa-2.0-be-text' => 'Ĉi tiu dosiero estas permesigita sub [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/by-sa/2.0/be/deed.eo Atribuite-Samkondiĉe 2.0 Belgujo] permesilo.',
@@ -14783,6 +14782,8 @@ $messages['vec'] = array(
 	'wm-license-information-permission-see-below' => 'Varda qua soto.',
 	'wm-license-information-other-versions' => 'Altre version',
 	'wm-license-licensing-update-text' => "Sto tag de copyright lo gavemo zontà ne l'ànbito de l'[[{{int:wm-license-licensing-update-wiki-link}}|ajornamento de la licensa]] dei progeti Wikimedia.",
+	'wm-license-original-upload-log' => 'Registro original del caricamento',
+	'wm-license-own-work' => 'Opera propria',
 	'wm-license-self-one-license' => "Mi, che detegno el dirito d'autor su sta opera, la pùblico qua soto la seguente licensa:",
 	'wm-license-self-one-license-with-author' => "$1, che el detien el dirito d'autor su sta opera, el la pùblica qua soto la seguente licensa:",
 	'wm-license-self-multiple-licenses' => "Mi, che detegno el dirito d'autor su sta opera, la pùblico qua soto le seguenti license:",
