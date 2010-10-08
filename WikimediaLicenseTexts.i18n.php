@@ -2321,6 +2321,7 @@ $messages['crh-cyrl'] = array(
 );
 
 /** Czech (Česky)
+ * @author Juan de Vojníkov
  * @author Matěj Grabovský
  * @author Mormegil
  * @author Multichill
@@ -2525,6 +2526,7 @@ $messages['cs'] = array(
 	'wm-license-information-author' => 'Autor',
 	'wm-license-information-author-missing' => "Tomuto souboru chybějí informace o '''autorovi'''.",
 	'wm-license-information-permission' => 'Svolení',
+	'wm-license-information-permission-reusing-link' => 'Commons:Používání obsahu mimo projekty Wikimedia',
 	'wm-license-information-permission-reusing-text' => 'Užití tohoto souboru',
 	'wm-license-information-permission-see-below' => 'viz níže',
 	'wm-license-information-other-versions' => 'Další verze',
