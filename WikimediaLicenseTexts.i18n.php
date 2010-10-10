@@ -245,6 +245,7 @@ $messages['en'] = array(
  * @author Fryed-peach
  * @author Jean-Frédéric
  * @author Multichill
+ * @author SMP
  * @author Siebrand
  */
 $messages['qqq'] = array(
@@ -357,7 +358,7 @@ $messages['qqq'] = array(
 	'wm-license-cc-by-sa-2.1-es-text' => '{{CreativeCommonsLicense|by-sa|2.0|es}}',
 	'wm-license-cc-by-sa-2.1-jp-text' => '{{CreativeCommonsLicense|by-sa|2.0|jp}}',
 	'wm-license-cc-by-sa-2.5-text' => '{{CreativeCommonsLicense|by-sa|2.5}}',
-	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => "This is a combination of a couple Creative Commons Attribution-Share Alike templates. See [[:Common:Template:Cc-by-sa-2.5,2.0,1.0]] for how it's used.",
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => "This is a combination of a couple Creative Commons Attribution-Share Alike templates. See [[:Commons:Template:Cc-by-sa-2.5,2.0,1.0]] for how it's used.",
 	'wm-license-cc-by-sa-2.5-ar-text' => '{{CreativeCommonsLicense|by-sa|2.5|ar}}',
 	'wm-license-cc-by-sa-2.5-au-text' => '{{CreativeCommonsLicense|by-sa|2.5|au}}',
 	'wm-license-cc-by-sa-2.5-bg-text' => '{{CreativeCommonsLicense|by-sa|2.5|bg}}',
@@ -2072,6 +2073,7 @@ $messages['bs'] = array(
  * @author Diebuche
  * @author Multichill
  * @author Paucabot
+ * @author SMP
  * @author Solde
  * @author Vriullop
  */
@@ -2185,6 +2187,7 @@ $messages['ca'] = array(
 	'wm-license-cc-by-sa-2.1-es-text' => 'Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.ca Reconeixement i Compartir Igual 2.1 Espanya].',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.ca Reconeixement i Compartir Igual 2.1 Japó].',
 	'wm-license-cc-by-sa-2.5-text' => 'Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.ca Reconeixement i Compartir Igual 2.5 Genèrica].',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Aquest fitxer està llicenciat sota les llicències de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Reconeixement - CompartirIgual [http://creativecommons.org/licenses/by-sa/2.5/deed.ca 2.5 Genèrica], [http://creativecommons.org/licenses/by-sa/2.0/deed.ca 2.0 Genèrica] i [http://creativecommons.org/licenses/by-sa/1.0/deed.ca 1.0 Genèrica].',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.ca Reconeixement i Compartir Igual 2.5 Argentina].',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.ca Reconeixement i Compartir Igual 2.5 Austràlia].',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.ca Reconeixement i Compartir Igual 2.5 Bulgària].',
@@ -2241,6 +2244,7 @@ $messages['ca'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.ca Compartir Igual 1.0 Països Baixos].',
 	'wm-license-cc-sa-2.0-jp-text' => 'Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.ca Compartir Igual 2.0 Japó].',
 	'wm-license-cc-zero-text' => 'Aquest fitxer està disponible segons la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.ca renúncia CC0].',
+	'wm-license-cc-zero-explanation' => "La persona que ha associat un treball amb aquest document ha dedicat l'obra a la comunitat, renunciant en tot el món a tots els seus drets de copyright i a tots els drets legals relacionats que tenia en l'obra, en la mesura permesa per la llei. Les obres sota CC0 no requereixen l'atribució. En citar l'obra no podeu implicar cap mena de suport al vostre ús per part de l'autor.",
 	'wm-license-cc-free' => 'Sou lliure de:',
 	'wm-license-cc-free-to-share-header' => 'compartir',
 	'wm-license-cc-free-to-share-text' => "copiar, distribuir i comunicar públicament l'obra",
@@ -2251,9 +2255,14 @@ $messages['ca'] = array(
 	'wm-license-cc-conditions-attribution-text' => "Heu d'atribuir els crèdits de l'obra de la manera especificada per l'autor o titular (però no d'una manera que suggereixi que us donen suport o rebeu suport per l'ús que en feu).",
 	'wm-license-cc-conditions-share_alike-header' => 'compartir igual',
 	'wm-license-cc-conditions-share_alike-text' => "Si transformeu o modifiqueu aquesta obra per generar-ne una derivada, només podreu distribuir l'obra resultant amb la mateixa llicència, una de similar o una de compatible.",
+	'wm-license-cecill-text' => 'Aquest treball és [[{{int:wm-license-free-software-wiki-link}}|programari lliure]]. Podeu redistribuir-lo o modificar-lo sota els termes de la llicència [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Aquest termes estan disponibles a [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-fal-text' => "Copyleft: Aquesta és una obra d'art lliure: Podeu redistribuir-la i modificar-la sota els termes de la '''[[{{int:wm-license-fal-wiki-link}}|Llicència d'Art Lliure]]'''. Trobareu una còpia d'aquesta llicència al [{{int:wm-license-fal-full-link}} web Copyleft Attitude], així com en altres llocs web.",
 	'wm-license-fsf-wiki-link' => 'w:ca:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:ca:Programari lliure',
-	'wm-license-gfdl-1.2-and-later' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]]''' versió 1.2 o qualsevol altra que posteriorment publiqui la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-and-later' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]]''' versió 1.2 o qualsevol altra versió posterior que publiqui la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]] versió 1.2''', publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-and-later' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]]''' versió 1.3 o qualsevol altra versió posterior que publiqui la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]] versió 1.3''', publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:ca:Llicència de documentació lliure de GNU',
 	'wm-license-gpl-wiki-link' => 'w:ca:GPL',
 	'wm-license-information-table-summary' => "Una taula estandarditzada subministrant informació completa sobre el fitxer, incloent la descripció del que mostra i com es va fer, l'estat dels drets d'autor i la font.",
@@ -13540,6 +13549,11 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-licensing-update-text' => 'Detta licenstillägg var tillagt till denna fil som en del av GFDL:s [[{{int:wm-license-licensing-update-wiki-link}}|licensuppdatering]].',
 	'wm-license-original-upload-log' => 'Ursprunglig uppladdningslogg',
 	'wm-license-own-work' => 'Eget arbete',
+	'wm-license-pd-author-self-text' => "Jag, upphovsrättshavaren till detta verk, släpper detta arbete i'''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''. Detta gäller globalt.",
+	'wm-license-pd-author-with-author-text' => "Detta arbete har gjorts tillgänglig som'''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' av dess skapare,'''$1'''. Detta gäller globalt.",
+	'wm-license-pd-author-not-legally-possible' => 'I vissa länder kan detta inte vara juridiskt möjligt; i så fall:',
+	'wm-license-pd-author-self-any-purpose' => "Jag ger härmed envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
+	'wm-license-pd-author-with-author-any-purpose' => "1\$ ger envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
 	'wm-license-pd-wiki-link' => 'w:sv:Public domain',
 	'wm-license-self-one-license' => 'Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
 	'wm-license-self-one-license-with-author' => '$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
