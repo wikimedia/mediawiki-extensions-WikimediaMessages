@@ -13625,6 +13625,7 @@ $messages['ta'] = array(
 	'wm-license-information-permission' => 'அனுமதி',
 	'wm-license-information-permission-see-below' => 'கீழுள்ள அறிவிப்பைக் காணவும்.',
 	'wm-license-information-other-versions' => 'ஒத்தக்கோப்பு',
+	'wm-license-own-work' => 'சொந்த முயற்சி',
 );
 
 /** Telugu (తెలుగు)
