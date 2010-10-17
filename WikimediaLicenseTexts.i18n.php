@@ -1412,6 +1412,7 @@ $messages['bg'] = array(
 
 /** Bengali (বাংলা)
  * @author Bellayet
+ * @author Diebuche
  * @author Prometheus.pyrphoros
  */
 $messages['bn'] = array(
@@ -1587,6 +1588,7 @@ $messages['bn'] = array(
 	'wm-license-cc-conditions' => 'নিম্নের শর্তাবলীর ভিত্তিতে:',
 	'wm-license-cc-conditions-attribution-header' => 'স্বীকৃতিপ্রদান',
 	'wm-license-free-software-wiki-link' => 'w:bn:ফ্রি সফ্টওয়্যার',
+	'wm-license-gfdl-1.2-and-later' => "[[{{int:wm-license-fsf-wiki-link}}|ফ্রি সফটওয়ার ফাউন্ডেশন]] দ্বারা প্রকাশিত '''[[{{int:wm-license-gfdl-wiki-link}}|গ্নু মুক্ত দলিলিকরণ অনুমতিনামা]]''', সংস্করণ ১.২ বা তার পরবর্তীদেখুন: ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:bn:গনু ফ্রি ডকুমেন্টেশান লাইসেন্স',
 	'wm-license-information-description' => 'বর্ণনা',
 	'wm-license-information-description-missing-request' => 'অনুগ্রহ করে এ ফাইলের একটি অর্থবহ বর্ণনা দিন।',
@@ -1609,8 +1611,11 @@ $messages['bn'] = array(
 	'wm-license-self-multiple-licenses-select' => 'আপনি আপনার পছন্দসই লাইসেন্স নির্বাচন করতে পারেন।',
 );
 
-/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
+/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী)
+ * @author Diebuche
+ */
 $messages['bpy'] = array(
+	'wm-license-gfdl-1.2-and-later' => "এরে ডকুমেন্ট এহানর নকল করানি, বিলানি বারো বদালানির য়্যাথাং থাইল তলর শর্তর মাতুঙে '''[[{{int:wm-license-gfdl-wiki-link}}|GNU মাগানা ডকুমেন্টেশনর লাইসেন্স]]''', ভার্সন ১.২ নাইলেউ অহার যে কোন গজর ভার্সন আহান, যেহান ফঙকরিসিতা ফ্রি সফটৱ্যার শিংলুপ-এ; এহানর কোন তঙালপা সেকশন নেই, মুঙর মলাটে মেয়েক নেই, পিছর মলাটে মেয়েক নেই। লাইসেন্সর কপি আহান য়ৌকরানি অইল  ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' এ নাঙে।",
 	'wm-license-information-source' => 'উৎস',
 );
 
@@ -3846,8 +3851,14 @@ $messages['eo'] = array(
 	'wm-license-information-permission-see-below' => 'Vidu sube.',
 	'wm-license-information-other-versions' => 'Ceteraj versioj',
 	'wm-license-lgpl-text' => "Ĉi tiu biblioteko estas [[{{int:wm-license-free-software-wiki-link}}|libera programaro]]; vi rajtas ĝin redistribui kaj/aŭ modifi laŭ la kondiĉoj de la '''[[{{int:wm-license-lgpl-wiki-link}}|Ĝenerala Publika Permesilo GNU]]''' en ties eldono de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; per aŭ versiono 2.1 de la permesilo, aŭ (laŭ via volo) iu posta versio. Ĉi tiu biblioteko estas distribuita kun la espero ke ĝi estos utila, sed '''sen ia ajn garantio'''; eĉ sen la implicita garantio de '''surmerkatigebleco''' aŭ '''taŭgeco por ia specifa celo'''. Vidu [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] kaj [{{int:wm-license-lgpl-3-full-link}} version 3 de la Ĝenerala Publika Permesilo GNU] por pluaj detaloj.",
+	'wm-license-licensing-update-text' => 'La permisilo-etikedo estis aldonita al ĉi tiu dosiero kiel parto de la GFDL [[{{int:wm-license-licensing-update-wiki-link}}|permisilo-ĝisdatigo]].',
 	'wm-license-original-upload-log' => 'Originala alŝutada protokolo',
 	'wm-license-own-work' => 'Propra verko',
+	'wm-license-pd-author-self-text' => "Mi, la posedanto de la kopirajto de ĉi tiu verko, liberigis ĉi tiun verko en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''. Aplikas mondvaste.",
+	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita en la '''[[{{int:wm-license-pd-wiki-link}}|publikan domajno]]''' de ties aŭtoro, '''$1'''. Aplikas mondvaste.",
+	'wm-license-pd-author-not-legally-possible' => 'Se kelkaj landoj ĉi tiel ne laŭleĝe eblas; tiukaze:',
+	'wm-license-pd-author-self-any-purpose' => "Mi donas al iu la rajto uzi ĉi tiun verkon '''por ia ajn uzo''', sen kondiĉoj, krom se tiuj kondiĉoj deviĝas per leĝo.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 donas al iu ajn la rajton uzi ĉi tiun verkon '''por iu ajn uzo''', sen kondiĉoj, krom se tiuj kondiĉoj deviĝas per leĝo.",
 	'wm-license-pd-wiki-link' => 'w:eo:Publika havaĵo',
 	'wm-license-self-one-license' => 'Mi, la posedanto de la aŭtorrajto de ĉi tiu verko, ja publikigas ĝin sub per la jena permesilo:',
 	'wm-license-self-one-license-with-author' => '$1, la posedanto de la kopirajto, ja eldonis ĝin sub la jena permesilo:',
@@ -4685,6 +4696,7 @@ $messages['fa'] = array(
  * @author Diebuche
  * @author Multichill
  * @author Nike
+ * @author Olli
  * @author Str4nd
  * @author ZeiP
  */
@@ -4700,40 +4712,80 @@ $messages['fi'] = array(
 	'wm-license-cc-by-1.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.fi Nimeä 1.0 Hollanti] -lisenssillä.',
 	'wm-license-cc-by-2.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.fi Nimeä 2.0 Raakaversio] -lisenssillä.',
 	'wm-license-cc-by-2.0-at-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.fi Nimeä 2.0 Itävalta] -lisenssillä.',
+	'wm-license-cc-by-2.0-au-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.fi Attribution 2.0 Australia] lisenssin alaisena.',
 	'wm-license-cc-by-2.0-be-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/be/deed.fi Nimeä 2.0 Belgia] -lisenssillä.',
 	'wm-license-cc-by-2.0-br-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/br/deed.fi Nimeä 2.0 Brasilia] -lisenssillä.',
+	'wm-license-cc-by-2.0-ca-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ca/deed.fi Attribution 2.0 Canada] lisenssin alaisena.',
 	'wm-license-cc-by-2.0-cl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/cl/deed.fi Nimeä 2.0 Chile] -lisenssillä.',
 	'wm-license-cc-by-2.0-de-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/de/deed.fi Nimeä 2.0 Saksa] -lisenssillä.',
 	'wm-license-cc-by-2.0-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/es/deed.fi Nimeä 2.0 Espanja] -lisenssillä.',
 	'wm-license-cc-by-2.0-fr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/deed.fi Nimeä 2.0 Ranska] -lisenssillä.',
+	'wm-license-cc-by-2.0-hr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/deed.fi Attribution 2.0 Croatia] -lisenssin alaisena.',
 	'wm-license-cc-by-2.0-it-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/deed.fi Nimeä 2.0 Italia] -lisenssillä.',
+	'wm-license-cc-by-2.0-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/jp/deed.fi Attribution 2.0 Japan] lisenssin alaisena.',
 	'wm-license-cc-by-2.0-kr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/kr/deed.fi Nimeä 2.0 Korea] -lisenssillä.',
 	'wm-license-cc-by-2.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/nl/deed.fi Nimeä 2.0 Hollanti] -lisenssillä.',
+	'wm-license-cc-by-2.0-pl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/pl/deed.fi Attribution 2.0 Poland] -lisenssin alaisena.',
+	'wm-license-cc-by-2.0-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.fi Attribution 2.0 Taiwan] -lisenssin alaisena.',
+	'wm-license-cc-by-2.0-uk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.fi Attribution 2.0 UK: England & Wales] -lisenssin alaisena.',
+	'wm-license-cc-by-2.0-za-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.fi Attribution 2.0 South Africa] -lisenssin alaisena.',
+	'wm-license-cc-by-2.1-au-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.fi Attribution 2.1 Australia] -lisenssin alaisena.',
+	'wm-license-cc-by-2.1-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.fi Attribution 2.1 Spain] -lisenssin alaisena.',
+	'wm-license-cc-by-2.1-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.fi Attribution 2.1 Japan] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.fi Nimeä 2.5 Raakaversio] -lisenssillä.',
 	'wm-license-cc-by-2.5-au-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.fi Nimeä 2.5 Australia] -lisenssillä.',
 	'wm-license-cc-by-2.5-bg-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.fi Nimeä 2.5 Bulgaria] -lisenssillä.',
 	'wm-license-cc-by-2.5-br-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.fi Nimeä 2.5 Brasilia] -lisenssillä.',
+	'wm-license-cc-by-2.5-ca-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/deed.fi Attribution 2.5 Canada] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-ch-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/deed.fi Attribution 2.5 Switzerland] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-cn-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.fi Nimeä 2.5 Kiina] -lisenssillä.',
+	'wm-license-cc-by-2.5-co-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/co/deed.fi Attribution 2.5 Colombia] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-dk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.fi Nimeä 2.5 Tanska] -lisenssillä.',
 	'wm-license-cc-by-2.5-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.fi Nimeä 2.5 Espanja] -lisenssillä.',
+	'wm-license-cc-by-2.5-hr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.fi Attribution 2.5 Croatia] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-hu-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hu/deed.fi Attribution 2.5 Hungary] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-il-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.fi Attribution 2.5 Israel] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-in-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.fi Nimeä 2.5 Intia] -lisenssillä.',
 	'wm-license-cc-by-2.5-it-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.fi Nimeä 2.5 Italia] -lisenssillä.',
+	'wm-license-cc-by-2.5-mk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/deed.fi Attribution 2.5 Macedonia] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-mt-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mt/deed.fi Attribution 2.5 Malta] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-mx-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mx/deed.fi Attribution 2.5 Mexico] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-my-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/my/deed.fi Nimeä 2.5 Malesia] -lisenssillä.',
 	'wm-license-cc-by-2.5-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/nl/deed.fi Nimeä 2.5 Hollanti] -lisenssillä.',
 	'wm-license-cc-by-2.5-pe-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pe/deed.fi Nimeä 2.5 Peru] -lisenssillä.',
 	'wm-license-cc-by-2.5-pl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pl/deed.fi Nimeä 2.5 Puola] -lisenssillä.',
+	'wm-license-cc-by-2.5-pt-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/pt/deed.fi Attribution 2.5 Portugal] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-scotland-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/scotland/deed.fi Attribution 2.5 UK: Scotland] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-se-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/se/deed.fi Nimeä 2.5 Ruotsi] -lisenssillä.',
+	'wm-license-cc-by-2.5-si-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/deed.fi Attribution 2.5 Slovenia] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.fi Attribution 2.5 Taiwan] -lisenssin alaisena.',
+	'wm-license-cc-by-2.5-za-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/deed.fi Attribution 2.5 South Africa] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.fi Nimeä 3.0 Muokkaamaton] -lisenssillä.',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [http://creativecommons.org/licenses/by/3.0/deed.fi 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.fi 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed.fi 2.0 Generic] ja [http://creativecommons.org/licenses/by/1.0/deed.fi 1.0 Generic] -lisenssien alaisena.',
 	'wm-license-cc-by-3.0-at-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.fi Nimeä 3.0 Itävalta] -lisenssillä.',
+	'wm-license-cc-by-3.0-cz-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/deed.fi Attribution 3.0 Czech Republic] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-de-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.fi Nimeä 3.0 Saksa] -lisenssillä.',
+	'wm-license-cc-by-3.0-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.fi Attribution 3.0 Spain] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-gr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/deed.fi Nimeä 3.0 Kreikka] -lisenssillä.',
+	'wm-license-cc-by-3.0-gt-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gt/deed.fi Attribution 3.0 Guatemala] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-hr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/deed.fi Attribution 3.0 Croatia] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-hk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hk/deed.fi Attribution 3.0 Hong Kong] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-lu-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/lu/deed.fi Attribution 3.0 Luxembourg] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/deed.fi Nimeä 3.0 Hollanti] -lisenssillä.',
+	'wm-license-cc-by-3.0-no-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/deed.fi Attribution 3.0 Norway] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-nz-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/deed.fi Nimeä 3.0 Uusi-Seelanti] -lisenssillä.',
+	'wm-license-cc-by-3.0-ph-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ph/deed.fi Attribution 3.0 Philippines] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-pl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pl/deed.fi Attribution 3.0 Poland] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-pr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/deed.fi Attribution 3.0 Puerto Rico] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-ro-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/deed.fi Nimeä 3.0 Romania] -lisenssillä.',
 	'wm-license-cc-by-3.0-rs-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.fi Nimeä 3.0 Serbia] -lisenssillä.',
+	'wm-license-cc-by-3.0-sg-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/sg/deed.fi Attribution 3.0 Singapore] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-th-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/th/deed.fi Attribution 3.0 Thailand] -lisenssin alaisena.',
+	'wm-license-cc-by-3.0-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/deed.fi Attribution 3.0 Taiwan] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-us-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.fi Nimeä 3.0 Yhdysvallat] -lisenssillä.',
 	'wm-license-cc-by-sa-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.fi Nimeä-Tarttuva 1.0 Raakaversio] -lisenssillä.',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.fi Nimeä-Tarttuva 1.0 Suomi] -lisenssillä.',
+	'wm-license-cc-by-sa-1.0-il-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/il/deed.fi Attribution-Share Alike 1.0 Israel] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.fi Nimeä-Tarttuva 1.0 Hollanti] -lisenssillä.',
 	'wm-license-cc-by-sa-2.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.fi Nimeä-Tarttuva 2.0 Raakaversio] -lisenssillä.',
 	'wm-license-cc-by-sa-2.0-at-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.fi Nimeä-Tarttuva 2.0 Itävalta] -lisenssillä.',
@@ -4745,15 +4797,20 @@ $messages['fi'] = array(
 	'wm-license-cc-by-sa-2.0-de-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.fi Nimeä-Tarttuva 2.0 Saksa] -lisenssillä.',
 	'wm-license-cc-by-sa-2.0-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/es/deed.fi Nimeä-Tarttuva 2.0 Espanja] -lisenssillä.',
 	'wm-license-cc-by-sa-2.0-fr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.fi Nimeä-Tarttuva 2.0 Ranska] -lisenssillä.',
+	'wm-license-cc-by-sa-2.0-hr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/hr/deed.fi Attribution-Share Alike 2.0 Croatia] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.0-it-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/it/deed.fi Nimeä-Tarttuva 2.0 Italia] -lisenssillä.',
+	'wm-license-cc-by-sa-2.0-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.fi Attribution-Share Alike 2.0 Japan] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.0-kr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.fi Nimeä-Tarttuva 2.0 Korea] -lisenssillä.',
 	'wm-license-cc-by-sa-2.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.fi Nimeä-Tarttuva 2.0 Hollanti] -lisenssillä.',
+	'wm-license-cc-by-sa-2.0-pl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.fi Attribution-Share Alike 2.0 Poland] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.0-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.fi Nimeä-Tarttuva 2.0 Taiwan] -lisenssillä.',
 	'wm-license-cc-by-sa-2.0-uk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.fi Nimeä-Tarttuva 2.0 Englanti ja Wales] -lisenssillä.',
+	'wm-license-cc-by-sa-2.0-za-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.fi Attribution-Share Alike 2.0 South Africa] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.1-au-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/deed.fi Nimeä-Tarttuva 2.1 Australia] -lisenssillä.',
 	'wm-license-cc-by-sa-2.1-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.fi Nimeä-Tarttuva 2.1 Espanja] -lisenssillä.',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.fi Nimeä-Tarttuva 2.1 Japani] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.fi Nimeä-Tarttuva 2.5 Raakaversio] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/2.5/deed.fi 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.fi 2.0 Generic] ja [http://creativecommons.org/licenses/by-sa/1.0/deed.fi 1.0 Generic] -lisenssien alaisena.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.fi Nimeä-Tarttuva 2.5 Argentina] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.fi Nimeä-Tarttuva 2.5 Australia] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.fi Nimeä-Tarttuva 2.5 Bulgaria] -lisenssillä.',
@@ -4761,33 +4818,56 @@ $messages['fi'] = array(
 	'wm-license-cc-by-sa-2.5-ca-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ca/deed.fi Nimeä-Tarttuva 2.5 Kanada] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-ch-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ch/deed.fi Nimeä-Tarttuva 2.5 Sveitsi] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-cn-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/cn/deed.fi Nimeä-Tarttuva 2.5 Kiina] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-co-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/co/deed.fi Attribution-Share Alike 2.5 Colombia] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.5-dk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/dk/deed.fi Nimeä-Tarttuva 2.5 Tanska] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/es/deed.fi Nimeä-Tarttuva 2.5 Espanja] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-hr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hr/deed.fi Attribution-Share Alike 2.5 Croatia] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.5-hu-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hu/deed.fi Nimeä-Tarttuva 2.5 Unkari] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-il-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/il/deed.fi Attribution-Share Alike 2.5 Israel] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.5-in-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/in/deed.fi Nimeä-Tarttuva 2.5 Intia] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-it-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/it/deed.fi Nimeä-Tarttuva 2.5 Italia] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-mk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mk/deed.fi Attribution-Share Alike 2.5 Macedonia] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-2.5-mt-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mt/deed.fi Attribution-Share Alike 2.5 Malta] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.5-mx-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mx/deed.fi Nimeä-Tarttuva 2.5 Meksiko] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-my-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/my/deed.fi Nimeä-Tarttuva 2.5 Malesia] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/nl/deed.fi Nimeä-Tarttuva 2.5 Hollanti] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-pe-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pe/deed.fi Attribution-Share Alike 2.5 Peru] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-2.5-pl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pl/deed.fi Nimeä-Tarttuva 2.5 Puola] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-pt-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pt/deed.fi Nimeä-Tarttuva 2.5 Portugali] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-scotland-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/scotland/deed.fi Nimeä-Tarttuva 2.5 Iso-Britannia: Skotlanti] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-se-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/se/deed.fi Nimeä-Tarttuva 2.5 Ruotsi] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-si-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/si/deed.fi Nimeä-Tarttuva 2.5 Slovenia] -lisenssillä.',
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.fi Nimeä-Tarttuva 2.5 Taiwan] -lisenssillä.',
+	'wm-license-cc-by-sa-2.5-za-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/deed.fi Attribution-Share Alike 2.5 South Africa] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-3.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fi Nimeä-Tarttuva 3.0 Muokkaamaton] -lisenssillä.',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/deed.fi 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.fi 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.fi 2.0 Generic] ja [http://creativecommons.org/licenses/by-sa/1.0/deed.fi 1.0 Generic] -lisenssien alaisena.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.fi Nimeä-Tarttuva 3.0 Itävalta] -lisenssillä.',
+	'wm-license-cc-by-sa-3.0-cz-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.fi Attribution-Share Alike 3.0 Czech Republic] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.fi Nimeä-Tarttuva 3.0 Saksa] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.fi Nimeä-Tarttuva 3.0 Espanja] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.fi Nimeä-Tarttuva 3.0 Kreikka] -lisenssillä.',
+	'wm-license-cc-by-sa-3.0-gt-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gt/deed.fi Attribution-Share Alike 3.0 Guatemala] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-3.0-hk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hk/deed.fi Attribution-Share Alike 3.0 Hong Kong] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-3.0-hr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hr/deed.fi Attribution-Share Alike 3.0 Croatia] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-3.0-lu-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/lu/deed.fi Attribution-Share Alike 3.0 Luxembourg] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-3.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nl/deed.fi Nimeä-Tarttuva 3.0 Hollanti] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-no-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/no/deed.fi Nimeä-Tarttuva 3.0 Norja] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-nz-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nz/deed.fi Nimeä-Tarttuva 3.0 Uusi-Seelanti] -lisenssillä.',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/deed.fi Attribution-Share Alike 3.0 Philippines] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-3.0-pl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pl/deed.fi Attribution-Share Alike 3.0 Poland] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-3.0-pr-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pr/deed.fi Attribution-Share Alike 3.0 Puerto Rico] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-3.0-ro-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ro/deed.fi Nimeä-Tarttuva 3.0 Romania] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-rs-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/rs/deed.fi Nimeä-Tarttuva 3.0 Serbia] -lisenssillä.',
+	'wm-license-cc-by-sa-3.0-sg-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/sg/deed.fi Attribution-Share Alike 3.0 Singapore] -lisenssin alaisena.',
+	'wm-license-cc-by-sa-3.0-th-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/th/deed.fi Attribution-Share Alike 3.0 Thailand] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-3.0-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.fi Nimeä-Tarttuva 3.0 Taiwan] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.fi Nimeä-Tarttuva 3.0 Yhdysvallat] -lisenssillä.',
 	'wm-license-cc-sa-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/deed.fi Tarttuva 1.0 Raakaversio] -lisenssillä.',
+	'wm-license-cc-sa-1.0-fi-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.fi Share Alike 1.0 Finland] -lisenssin alaisena.',
+	'wm-license-cc-sa-1.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.fi Share Alike 1.0 Netherlands] -lisenssin alaisena.',
+	'wm-license-cc-sa-2.0-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.fi Share Alike 2.0 Japan] -lisenssin alaisena.',
+	'wm-license-cc-zero-text' => 'Tämä tiedosto on tehty saataville [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 vapaasti].',
+	'wm-license-cc-zero-explanation' => 'Henkilö, joka on lisensoinut työnsä tämän dokumentin perusteella, on luovuttanut työn Commonsin käyttöön luovuttamalla kaikki oikeutensa työhön maailmanlaajuisen tekijänoikeuslain mukaan sekä kaikki kuuluvat oikeudet, joita hänellä oli työhön, niin laajasti, kuin laki sallii. Työt, jotka on lisensoitu  CC0-lisenssin alaiseksi eivät vaadi nimeämistä. Kun lainaat työtä, sinun ei pidä ilmoittaa tekijää.',
 	'wm-license-cc-free' => 'Voit:',
 	'wm-license-cc-free-to-share-header' => 'jakaa',
 	'wm-license-cc-free-to-share-text' => 'kopioida, levittää ja esittää teosta',
@@ -4798,12 +4878,19 @@ $messages['fi'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Sinun tulee nimetä työ tekijän tai lisensoijan määräämällä tavalla (mutta ei sellaisella tavalla, joka vihjaa että he tukevat sinua tai työnsä käyttöä).',
 	'wm-license-cc-conditions-share_alike-header' => 'tarttuva',
 	'wm-license-cc-conditions-share_alike-text' => 'Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain tällä tai tämän kaltaisella lisenssillä.',
+	'wm-license-cecill-text' => 'Tämä teos on osa [[{{int:wm-license-free-software-wiki-link}}|vapaata ohjelmistoa]]. Voit levittää tai muuttaa sitä [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-lisenssin ehtojen mukaisesti. CeCILL-lisenssin ehdot ovat saatavilla osoitteessa [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:fi:CeCILL',
+	'wm-license-fal-text' => "Vapaa tekijänoikeuksista: Tämä työ on vapaata; voit levittää ja/tai muuttaa sitä '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' -lisenssin alaisena. Löydät esimerkin tästä lisenssistä [{{int:wm-license-fal-full-link}} Copyleft Attitude -sivulta].",
 	'wm-license-fsf-wiki-link' => 'w:fi:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:fi:Vapaa ohjelmisto',
-	'wm-license-gfdl-1.2-and-later' => "Tätä dokumenttia saa kopioida, levittää ja/tai muokata '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation Licensen]]''' ehtojen mukaisesti, kuten mainittu versiossa 1.2 tai missä tahansa myöhemmässä versiossa, jonka [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] on julkaissut; dokumenttiin ei sovelleta muuttumattomien osioiden, eikä etu- tai takakannen tekstin ehtoja.",
+	'wm-license-gfdl-1.2-and-later' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' -lisenssin version 1.2 tai myöhemmän ehtojen alaisena, jotka on julkaistu [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] puolesta; ei koske muuttumattomia kohtia, ei etukannen tekstejä eikä kirjankannen tekstejä. Kopio tästä lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' versio 1.2 alaisena vain [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]in julkaisemana; lukuunottamatta muuttumattomia kohtia, etukannen tekstejä, ja takakannen tekstejä. Kopio tästä lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-and-later' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.3 tai myöhemmän ehtojen alaisena, jonka [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] on julkaissut; lukuun ottamatta muuttumattomia kohtia, etukannen tekstejä, sekä takakannen tekstejä. Kopio lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.3 ehtojen alaisena, vain [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] julkaisemana; lukuun ottamatta muuttumattomia kohtia, etukannen tekstejä, sekä takakannen tekstejä. Kopio lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:fi:GNU Free Documentation License',
+	'wm-license-gpl-text' => "Tämä työ on [[{{int:wm-license-free-software-wiki-link}}|vapaata ohjelmistoa]]; voit välittää sitä ja/tai muuttaa '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' -lisenssin alaisena, jonka on julkaissut [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; joko versiota 2 lisenssistä tai uudempaa. Työ on levityksessä sitä varten, että se olisi hyödyllinen, mutta '''ilman mitään takuuta'''; ei minkäänlaista takuuta. Katso [{{int:wm-license-gpl-2-full-link}} versio 2] ja [{{int:wm-license-gpl-3-full-link}} versio 3 GNU General Public License -lisenssistä] saadaksesi lisätietoja.",
 	'wm-license-gpl-wiki-link' => 'w:fi:GNU GPL',
+	'wm-license-information-table-summary' => 'Taulukko antaa täydet tiedot tiedostosta, sisältäen kuvauksen siitä, mitä se näyttää ja kuinka se on tehty, sekä tiedon tekijänoikeustilasta ja lähteestä.',
 	'wm-license-information-description' => 'Kuvaus',
 	'wm-license-information-description-missing' => "Tämän tiedoston tiedoista puuttuu '''kuvaus'''.",
 	'wm-license-information-description-missing-request' => 'Tiedoston tietoihin tulisi [{{fullurl:{{FULLPAGENAME}}|action=edit}} lisätä] kuvaus. Muista, että hakukoneet etsivät tekstin perusteella, eivät pikseleiden.',
@@ -4818,10 +4905,17 @@ $messages['fi'] = array(
 	'wm-license-information-permission-reusing-text' => 'Tätä tiedostoa käytetään uudelleen',
 	'wm-license-information-permission-see-below' => 'Katso alapuolelle.',
 	'wm-license-information-other-versions' => 'Muut versiot',
+	'wm-license-lgpl-text' => "Tämä kirjasto on [[{{int:wm-license-free-software-wiki-link}}|vapaata ohjelmistoa]]. Voit levittää sitä ja/tai muuttaa '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' -lisenssin alaisena, jonka on julkaissut [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; joko versiota 2.1 lisenssistä tai mitä tahansa muuta versiota. Tätä kirjastoa levitetään sen takia, että siitä olisi hyötyä jollekin, mutta ilman '''minkäänlaista takuuta'''; ei minkäänlaista. Lisätietoja lisenssistä on sivuilla [{{int:wm-license-lgpl-2.1-full-link}} versio 2.1] ja [{{int:wm-license-lgpl-3-full-link}} versio 3 GNU Lesser General Public License -lisenssistä].",
 	'wm-license-lgpl-wiki-link' => 'w:fi:GNU LGPL',
+	'wm-license-licensing-update-text' => 'Lisensointimerkintä lisätiin tähän tiedostoon osana GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|lisensointipäivitystä]].',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/fi',
 	'wm-license-original-upload-log' => 'Alkuperäinen tallennusloki',
 	'wm-license-own-work' => 'Oma teos',
+	'wm-license-pd-author-self-text' => "Minä, tämän tiedoston tekijänoikeudellinen omistaja, julkaisen tämän työn '''[[{{int:wm-license-pd-wiki-link}}|public domain]]iin'''. Tämä on voimassa maailmanlaajuisesti.",
+	'wm-license-pd-author-with-author-text' => "Tämä työ on julkaistu '''[[{{int:wm-license-pd-wiki-link}}|public domain]]iin''' sen tekijän, '''$1''', puolesta. Tämä on voimassa maailmanlaajuisesti.",
+	'wm-license-pd-author-not-legally-possible' => 'Joissakin maissa tämä ei välttämättä ole mahdollista laillisesti. Jos näin on:',
+	'wm-license-pd-author-self-any-purpose' => "Annan kenelle tahansa oikeuden käyttää tätä työtä '''mihin tahansa tarkoitukseen''', ilman mitään ehtoja, paitsi jos laki vaatii ehtoja.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 antaa kenelle tahansa oikeuden käyttää tätä työtä '''mihin tahansa tarkoitukseen''', ilman mitään ehtoja, paitsi jos laki vaatii ehtoja.",
 	'wm-license-pd-wiki-link' => 'w:fi:Public domain',
 	'wm-license-self-one-license' => 'Minä, tämän teoksen tekijä, julkaisen täten tämän teoksen seuraavalla lisenssillä:',
 	'wm-license-self-one-license-with-author' => '$1, tämän teoksen tekijä, julkaisee täten tämän teoksen seuraavalla lisenssillä:',
@@ -5845,6 +5939,7 @@ $messages['hak'] = array(
 
 /** Hebrew (עברית)
  * @author Amire80
+ * @author Diebuche
  * @author Multichill
  * @author Rotemliss
  * @author YaronSh
@@ -5893,6 +5988,7 @@ $messages['he'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'יצירות המבוססות על עבודה זו או המשנות אותה, ניתן להפיצן אך ורק תחת רישיון זהה או תואם לרישיון זה.',
 	'wm-license-fsf-wiki-link' => 'w:he:המוסד לתוכנה חופשית',
 	'wm-license-free-software-wiki-link' => 'w:he:תוכנה חופשית',
+	'wm-license-gfdl-1.2-and-later' => 'הרשות מוענקת להעתיק, להפיץ ו/או לשנות את המסמך הזה , תחת תנאי רשיון ה-GNU לשימוש חופשי במסמכים, גרסה 1.2 או כל גרסה מאוחרת יותר שתפורסם על ידי המוסד לתוכנה חופשית; ללא סעיפים קבועים, ללא פסקאות עטיפה קדמית וללא פסקאות עטיפה אחורית.',
 	'wm-license-gfdl-wiki-link' => 'w:he:הרישיון לשימוש חופשי במסמכים של גנו',
 	'wm-license-gpl-wiki-link' => 'w:he:הרישיון הציבורי הכללי של גנו',
 	'wm-license-information-table-summary' => 'טבלה סטנדרטית לתיאור קובץ, לתיאור מה הוא מציג, מה מקורו, תאריך יצירתו, יוצרו ואישורים.',
@@ -5911,6 +6007,7 @@ $messages['he'] = array(
 	'wm-license-licensing-update-text' => 'תבנית רישוי זו הוספה לקובץ כחלק מ [[{{int:wm-license-licensing-update-wiki-link}}|עדכון הרישיון]] של GFDL.',
 	'wm-license-original-upload-log' => 'יומן העלאה מקורי',
 	'wm-license-own-work' => 'נוצר על ידי מעלה היצירה',
+	'wm-license-pd-author-not-legally-possible' => 'יש מדינות שבהן הדבר אינו אפשרי על פי חוק, אם כך:',
 	'wm-license-pd-wiki-link' => 'w:he:רשות הציבור',
 	'wm-license-self-one-license' => 'אני, בעל זכויות היוצרים על עבודה זו, מפרסם בזאת את העבודה תחת הרישיון הבא:',
 	'wm-license-self-one-license-with-author' => '$1, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיון הבא:',
@@ -6500,12 +6597,14 @@ $messages['hu'] = array(
 );
 
 /** Armenian (Հայերեն)
+ * @author Diebuche
  * @author Multichill
  */
 $messages['hy'] = array(
 	'wm-license-fal-wiki-link' => 'w:hy:Ազատ արվեստ արտոնագիր',
 	'wm-license-fsf-wiki-link' => 'w:hy:Ազատ ծրագրային ապահովման հիմնադրամ',
 	'wm-license-free-software-wiki-link' => 'w:hy:Ազատ ծրագրային ապահովում',
+	'wm-license-gfdl-1.2-and-later' => "Այս վավերագրման պատճենահանման, տարածման և/կամ ձևափոխման թույլատվություն կամ '''[[{{int:wm-license-gfdl-wiki-link}}|լիցենսիայի GNU FDL]]''' պայմաններով 1.2 մեկնակերպի կամ ավելի ուշ, հրատարակված [[{{int:wm-license-fsf-wiki-link}}|Ազատ ծրագրային ապահովության հիմնադրամում]], առանց անփոփոխելի հատվածների, առանց բնագիրների, որոնք տեղադրված են առաջին և վերջին շապիկներում: Լիցենզիայի պատճեն գտնվում է ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' հատվածում:",
 	'wm-license-gfdl-wiki-link' => 'w:hy:GNU Free Documentation License',
 	'wm-license-information-description' => 'Նկարագրում',
 	'wm-license-information-description-missing' => "Այս պատկերի '''{{ #if: {{{1|}}} | {{{1}}} | նկարագրումը }}''' բացակայում է, կարող են նաև բացակայել ուրիշ տեղեկություններ:",
@@ -8501,6 +8600,7 @@ $messages['lb'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'ënner deselwechte Bedingunge weiderginn',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann dir dëst Wierk ännert, transforméiert oder dorop opbaut, dierft dir dat Wierk, dat doraus entsteet, nëmmen ënner derselwechter Lizenz wéi déi hei, oder ënner enger déi hir gläicht, verbreeden.',
 	'wm-license-cecill-text' => "Dës Aarbecht ass [[{{int:wm-license-free-software-wiki-link}}|fräi Software]]; dir kënnt se weiderverdeelen oder se veränneren ënner de Bedingunge vun der [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. D'Bedingunge vun der CeCILL-Lizenz sinn op [{{int:wm-license-cecill-full-link}} www.cecill.info] disponibel.",
+	'wm-license-fal-text' => "Copyleft: Dëst Wierk ass fräi; Dir kënnt et weiderverdeelen an/oder et modifizéieren ënnert de Bedingunge vun der ''[[{{int:wm-license-fal-wiki-link}}|Fräier Konscht Lizenz]]'''. Dir fannt en Exemplaire vun dëser Lizenz op dem [{{int:wm-license-fal-full-link}} Copyleft Attitude Site] genee esou wéi op anere Siten.",
 	'wm-license-fsf-wiki-link' => 'w:lb:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:lb:Fräi Software',
 	'wm-license-gfdl-1.2-and-later' => "Et ass erlaabt, dëse Fichier ënnert de Bedingunge vun der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fir fräi Dokumentatioun]]''', an der Versioun 1.2 oder enger spéiderer Versioun, verëffentlecht vun der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], ze kopéieren, ze verbreeden an/oder zu modifizéieren, ouni onverännerlech Abschnitter, Ëmschlagtext virdrun, Ëmschlagtext hannendrun. De komplette Lizenztext ass am Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz fir fräi Dokumentatioun]]'' ze gesinn.",
@@ -8522,6 +8622,7 @@ $messages['lb'] = array(
 	'wm-license-licensing-update-text' => 'Dës Lizenz-Markéierung gouf bäi dëse Fichier derbäigesat als Deel vun der GFDL [[{{int:wm-license-licensing-update-wiki-link}}|Lizenz-Aktualisatioun]].',
 	'wm-license-original-upload-log' => 'Original-Logbuch vum Eroplueden',
 	'wm-license-own-work' => 'Eegent Wierk',
+	'wm-license-pd-author-with-author-text' => "Dëst Wierk gouf vu sengen Auteuren, '''$1''' an de '''[[{{int:wm-license-pd-wiki-link}}|Public-Domain]]''' gesat. Dëst gëllt weltwäit.",
 	'wm-license-pd-author-not-legally-possible' => 'An eenzelne Länner ass dat legal net méiglech; an deem Fall:',
 	'wm-license-pd-wiki-link' => 'w:lb:Domaine public',
 	'wm-license-self-one-license' => 'Ech, de Besëtzer vum Copyright vun dësem Wierk, publizéieren et heimat ënnert dëser Lizenz:',
@@ -12327,8 +12428,120 @@ $messages['rue'] = array(
 	'wm-license-cc-by-2.5-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/deed.rue Уведьте автора 2.5 Тайван]',
 	'wm-license-cc-by-2.5-za-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/deed.rue Уведьте автора 2.5 Южна Африка]',
 	'wm-license-cc-by-3.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.rue Уведьте автора 3.0 Unported]',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Тот файл є ліценцованый  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] зазначте автора [http://creativecommons.org/licenses/by/3.0/deed.cs 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.rue 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed.cs 2.0 Generic] і [http://creativecommons.org/licenses/by/1.0/deed.rue 1.0 Generic].',
+	'wm-license-cc-by-3.0-at-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.rue Зазначте  автора 3.0 Австрія]',
+	'wm-license-cc-by-3.0-cz-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/deed.rue Зазначте автора 3.0 Чехы]',
+	'wm-license-cc-by-3.0-de-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.rue Зазначте автора 3.0 Нїмецько]',
+	'wm-license-cc-by-3.0-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.rue Зазбачте автора 3.0 Іспанія]',
+	'wm-license-cc-by-3.0-gr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gr/deed.rue Зазначте автора 3.0 Ґреція]',
+	'wm-license-cc-by-3.0-gt-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/gt/deed.rue Зазначте  автора 3.0 Ґватемала]',
+	'wm-license-cc-by-3.0-hr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hr/deed.rue Зазначте автора 3.0 Хорватьско]',
+	'wm-license-cc-by-3.0-hk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/hk/deed.rue Зазначте автора 3.0 Гонконґ]',
+	'wm-license-cc-by-3.0-lu-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/lu/deed.rue Зазначте  автора 3.0 Луксембурско]',
+	'wm-license-cc-by-3.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/deed.rue Зазначте автора 3.0 Голандія]',
+	'wm-license-cc-by-3.0-no-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/deed.rue Зазначте автора 3.0 Норьско]',
+	'wm-license-cc-by-3.0-nz-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/deed.rue Зазначте автора 3.0 Нова Зеландія]',
+	'wm-license-cc-by-3.0-ph-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ph/deed.rue Зазбачте автора 3.0 Філіпіны]',
+	'wm-license-cc-by-3.0-pl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pl/deed.rue Зазначте автора 3.0 Польско]',
+	'wm-license-cc-by-3.0-pr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/pr/deed.rue Зазначте автора 3.0 Порторіко]',
+	'wm-license-cc-by-3.0-ro-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ro/deed.rue Зазначте автора 3.0 Румунія]',
+	'wm-license-cc-by-3.0-rs-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/rs/deed.rue Зазначте автора 3.0 Сербія]',
+	'wm-license-cc-by-3.0-sg-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/sg/deed.rue Зазначте автора 3.0 Сінґапур]',
+	'wm-license-cc-by-3.0-th-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/deed.rue Зазначте автора 3.0 Тайван]',
+	'wm-license-cc-by-3.0-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/tw/deed.rue Зазначте автора 3.0 Тайван]',
+	'wm-license-cc-by-3.0-us-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/us/deed.rue Зазначте автора 3.0 Споєны штаты америцькы]',
+	'wm-license-cc-by-sa-1.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/deed.rue Зазначте автора-заховайте ліценцію 1.0 Generic]',
+	'wm-license-cc-by-sa-1.0-fi-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/fi/deed.rue Зазначте автора-заховайте ліценцію 1.0 Фіньско]',
+	'wm-license-cc-by-sa-1.0-il-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/il/deed.rue Зазначте автора-заховайте ліценцію 1.0 Ізраіль]',
+	'wm-license-cc-by-sa-1.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/1.0/nl/deed.rue Зазначте автора-заховайте ліценцію 1.0 Голандія]',
+	'wm-license-cc-by-sa-2.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/deed.rue Зазначте автора-заховайте ліценцію 2.0 Generic]',
+	'wm-license-cc-by-sa-2.0-at-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/at/deed.rue Зазначте автора-заховайте ліценцію 2.0 Австрія]',
+	'wm-license-cc-by-sa-2.0-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/au/deed.rue Зазначте автора-заховайте ліценцію 2.0 Австралія]',
+	'wm-license-cc-by-sa-2.0-be-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/be/deed.rue Зазначте автора-заховайте ліценцію 2.0 Белґія]',
+	'wm-license-cc-by-sa-2.0-br-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/br/deed.rue Зазначте автора-заховайте ліценцію 2.0 Бразілія]',
+	'wm-license-cc-by-sa-2.0-ca-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/ca/deed.rue Зазначте автора-заховайте ліценцію 2.0 Канада]',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/cl/deed.rue Зазначте автора-заховайте ліценцію 2.0 Чіле]',
+	'wm-license-cc-by-sa-2.0-de-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.rue Зазначте автора-заховайте ліценцію 2.0 Нїмецько]',
+	'wm-license-cc-by-sa-2.0-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/es/deed.rue Зазначте автора-заховайте ліценцію 2.0 Іспанія]',
+	'wm-license-cc-by-sa-2.0-fr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/fr/deed.rue Зазначте автора-заховайте ліценцію 2.0 Франція]',
+	'wm-license-cc-by-sa-2.0-hr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/hr/deed.rue Зазначте автора-заховайте ліценцію 2.0 Хорватія]',
+	'wm-license-cc-by-sa-2.0-it-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/it/deed.rue Зазначте автора-заховайте ліценцію 2.0 Італія]',
+	'wm-license-cc-by-sa-2.0-jp-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.rue Зазначте автора-заховайте ліценцію 2.0 Японія]',
+	'wm-license-cc-by-sa-2.0-kr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.rue Зазначте автора-заховайте ліценцію 2.0 Корея]',
+	'wm-license-cc-by-sa-2.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.rue Зазначте автора-заховайте ліценцію 2.0 Голандія]',
+	'wm-license-cc-by-sa-2.0-pl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.rue Зазначте автора-заховайте ліценцію 2.0 Польско]',
+	'wm-license-cc-by-sa-2.0-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.rue Зазначте автора-заховайте ліценцію 2.0 Тайван]',
+	'wm-license-cc-by-sa-2.0-uk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.rue Зазначте автора-заховайте ліценцію 2.0 Анґліцько і Валес]',
+	'wm-license-cc-by-sa-2.0-za-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.rue Зазначте автора-заховайте ліценцію 2.0 Южна Африка]',
+	'wm-license-cc-by-sa-2.1-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/deed.rue Зазначте автора-заховайте ліценцію 2.1 Австралія]',
+	'wm-license-cc-by-sa-2.1-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.rue Зазначте автора-заховайте ліценцію 2.1 Іспанія]',
+	'wm-license-cc-by-sa-2.1-jp-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.rue Зазначте автора-заховайте ліценцію 2.1 Японія]',
+	'wm-license-cc-by-sa-2.5-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.rue Зазначте автора-заховайте ліценцію 2.5 Generic]',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Тот файл є ліценцованый  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] зазначте автора-заховайте ліценцію [http://creativecommons.org/licenses/by-sa/2.5/deed.rue 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.rue 2.0 Generic] і [http://creativecommons.org/licenses/by-sa/1.0/deed.rue 1.0 Generic].',
+	'wm-license-cc-by-sa-2.5-ar-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.rue Зазначте автора-заховайте ліценцію 2.5 Арґентіна]',
+	'wm-license-cc-by-sa-2.5-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.rue Зазначте автора-заховайте ліценцію 2.5 Австралія]',
+	'wm-license-cc-by-sa-2.5-bg-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.rue Зазначте автора-заховайте ліценцію 2.5 Булгарія]',
+	'wm-license-cc-by-sa-2.5-br-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/br/deed.rue Зазначте автора-заховайте ліценцію 2.5 Бразілія]',
+	'wm-license-cc-by-sa-2.5-ca-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ca/deed.rue Зазначте автора-заховайте ліценцію 2.5 Канада]',
+	'wm-license-cc-by-sa-2.5-ch-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ch/deed.rue Зазначте автора-заховайте ліценцію 2.5 Швайцарія]',
+	'wm-license-cc-by-sa-2.5-cn-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/cn/deed.rue Зазначте автора-заховайте ліценцію 2.5 Кітай]',
+	'wm-license-cc-by-sa-2.5-co-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/co/deed.rue Зазначте автора-заховайте ліценцію 2.5 Колумбія]',
+	'wm-license-cc-by-sa-2.5-dk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/dk/deed.rue Зазначте автора-заховайте ліценцію 2.5 Даньско]',
+	'wm-license-cc-by-sa-2.5-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/es/deed.rue Зазначте автора-заховайте ліценцію 2.5 Іспанія]',
+	'wm-license-cc-by-sa-2.5-hr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hr/deed.rue Зазначте автора-заховайте ліценцію 2.5 Хорватія]',
+	'wm-license-cc-by-sa-2.5-hu-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/hu/deed.rue Зазначте автора-заховайте ліценцію 2.5 Мадярско]',
+	'wm-license-cc-by-sa-2.5-il-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/il/deed.rue Зазначте автора-заховайте ліценцію 2.5 Ізраіль]',
+	'wm-license-cc-by-sa-2.5-in-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/in/deed.rue Зазначте автора-заховайте ліценцію 2.5 Індія]',
+	'wm-license-cc-by-sa-2.5-it-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/it/deed.rue Зазначте автора-заховайте ліценцію 2.5 Італія]',
+	'wm-license-cc-by-sa-2.5-mk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mk/deed.rue Зазначте автора-заховайте ліценцію 2.5 Македонія]',
+	'wm-license-cc-by-sa-2.5-mt-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mt/deed.rue Зазначте автора-заховайте ліценцію 2.5 Малта]',
+	'wm-license-cc-by-sa-2.5-mx-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/mx/deed.rue Зазначте автора-заховайте ліценцію 2.5 Мексіко]',
+	'wm-license-cc-by-sa-2.5-my-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/my/deed.rue Зазначте автора-заховайте ліценцію 2.5 Малайзія]',
+	'wm-license-cc-by-sa-2.5-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/nl/deed.rue Зазначте автора-заховайте ліценцію 2.5 Голандія]',
+	'wm-license-cc-by-sa-2.5-pe-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pe/deed.rue Зазначте автора-заховайте ліценцію 2.5 Перу]',
+	'wm-license-cc-by-sa-2.5-pl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pl/deed.rue Зазначте автора-заховайте ліценцію 2.5 Польско]',
+	'wm-license-cc-by-sa-2.5-pt-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/pt/deed.rue Зазначте автора-заховайте ліценцію 2.5 Портуґалія]',
+	'wm-license-cc-by-sa-2.5-scotland-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/scotland/deed.rue Зазначте автора-заховайте ліценцію 2.5 Шкотьско]',
+	'wm-license-cc-by-sa-2.5-se-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/se/deed.rue Зазначте автора-заховайте ліценцію 2.5 Швеція]',
+	'wm-license-cc-by-sa-2.5-si-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/si/deed.rue Зазначте автора-заховайте ліценцію 2.5 Словіньско]',
+	'wm-license-cc-by-sa-2.5-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.rue Зазначте автора-заховайте ліценцію 2.5 Тайван]',
+	'wm-license-cc-by-sa-2.5-za-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/deed.rue Зазначте автора-заховайте ліценцію 2.5 Южна Африка]',
+	'wm-license-cc-by-sa-3.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.rue Зазначте автора-Заховайте ліценцію 3.0 Unported]',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Тот файл є ліценцованый  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] зазначте автора [http://creativecommons.org/licenses/by-sa/3.0/deed.cs 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.rue 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.rue 2.0 Generic] і [http://creativecommons.org/licenses/by-sa/1.0/deed.rue 1.0 Generic].',
+	'wm-license-cc-by-sa-3.0-at-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.rue Зазначте автора-заховайте ліценцію 3.0 Австрія]',
+	'wm-license-cc-by-sa-3.0-cz-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/cz/deed.rue Зазначте автора-заховайте ліценцію 2.0 Чехы]',
+	'wm-license-cc-by-sa-3.0-de-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.rue Зазначте автора-заховайте ліценцію 3.0 Нїмецько]',
+	'wm-license-cc-by-sa-3.0-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.rue Зазначте автора-заховайте ліценцію 3.0 Іспанія]',
+	'wm-license-cc-by-sa-3.0-gr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.rue Зазначте автора-заховайте ліценцію 3.0 Ґреція]',
+	'wm-license-cc-by-sa-3.0-gt-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gt/deed.rue Зазначте автора-заховайте ліценцію 3.0 Ґватемала]',
+	'wm-license-cc-by-sa-3.0-hk-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hk/deed.rue Зазначте автора-заховайте ліценцію 3.0 Гонконґ]',
+	'wm-license-cc-by-sa-3.0-hr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/hr/deed.rue Зазначте автора-заховайте ліценцію 3.0 Хорватія]',
+	'wm-license-cc-by-sa-3.0-lu-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/lu/deed.rue Зазначте автора-заховайте ліценцію 3.0 Луксембурско]',
+	'wm-license-cc-by-sa-3.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nl/deed.rue Зазначте автора-заховайте ліценцію 3.0 Голандія]',
+	'wm-license-cc-by-sa-3.0-no-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/no/deed.rue Зазначте автора-заховайте ліценцію 3.0 Норьско]',
+	'wm-license-cc-by-sa-3.0-nz-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nz/deed.rue Зазначте автора-заховайте ліценцію 3.0 Нова Зеландія]',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/deed.rue Зазначте автора-заховайте ліценцію 3.0 Філіпіны]',
+	'wm-license-cc-by-sa-3.0-pl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pl/deed.rue Зазначте автора-заховайте ліценцію 3.0 Польско]',
+	'wm-license-cc-by-sa-3.0-pr-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pr/deed.rue Зазначте автора-заховайте ліценцію 3.0 Порторіко]',
+	'wm-license-cc-by-sa-3.0-ro-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ro/deed.rue Зазначте автора-заховайте ліценцію 3.0 Румунія]',
+	'wm-license-cc-by-sa-3.0-rs-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/rs/deed.rue Зазначте автора-заховайте ліценцію 3.0 Сербія]',
+	'wm-license-cc-by-sa-3.0-sg-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/sg/deed.rue Зазначте автора-заховайте ліценцію 3.0 Сінґапур]',
+	'wm-license-cc-by-sa-3.0-th-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/th/deed.rue Зазначте автора-заховайте ліценцію 2.0 Тгайско]',
+	'wm-license-cc-by-sa-3.0-tw-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/tw/deed.rue Зазначте автора-заховайте ліценцію 3.0 Тайван]',
+	'wm-license-cc-by-sa-3.0-us-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/us/deed.rue Зазначте автора-заховайте ліценцію 3.0 США]',
+	'wm-license-cc-sa-1.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/deed.rue Заховайте ліценцію 1.0 Generic]',
+	'wm-license-cc-sa-1.0-fi-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.rue Заховайте ліценцію 1.0 Фіньско] .',
+	'wm-license-cc-sa-1.0-nl-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.rue Заховайте ліценцію 1.0 Голандія] .',
+	'wm-license-cc-sa-2.0-jp-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/fi/deed.rue Заховайте ліценцію 2.0 Японія] .',
+	'wm-license-cc-zero-text' => 'Автор ся вздав прав про тот файл подля [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/zero/1.0/deed.rue CC0].',
 	'wm-license-cc-free' => 'Можете слободно:',
+	'wm-license-cc-free-to-share-header' => 'здїляти',
+	'wm-license-cc-free-to-share-text' => 'копіровати, росшырёвати ці педедавати дїло',
+	'wm-license-cc-free-to-remix-header' => 'модіфіковати',
+	'wm-license-cc-free-to-remix-text' => 'адаптовати дїло',
+	'wm-license-cc-conditions' => 'За наступных подмінок:',
 	'wm-license-cc-conditions-attribution-header' => 'узнаня авторства',
+	'wm-license-cc-conditions-share_alike-header' => 'захованя ліценції',
 	'wm-license-information-description' => 'Опис',
 	'wm-license-information-source' => 'Джерело',
 	'wm-license-information-source-missing' => "Тому файлу хыбить інформація о '''джерелу'''.",
@@ -12962,6 +13175,7 @@ $messages['simple'] = array(
 );
 
 /** Slovak (Slovenčina)
+ * @author Diebuche
  * @author Helix84
  * @author Multichill
  * @author Rudko
@@ -13079,6 +13293,7 @@ $messages['sk'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Ak toto dielo zmeníte, prevediete do inej formy alebo použijete ako základ iného diela, môžete výsledné odvodené dielo šíriť iba pod rovnakou alebo podobnou licenciou ako je táto.',
 	'wm-license-fsf-wiki-link' => 'w:sk:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:sk:Slobodný softvér',
+	'wm-license-gfdl-1.2-and-later' => "Bolo udelené povolenie kopírovať, širiť a/alebo meniť tento dokument za podmienok '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', verzie 1.2 alebo ktorejkoľvek neskoršej verzie publikovanej  [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez Nemenných častí, bez Textov na prednej obálke a bez Textov na zadnej obálke. Kópia tejto licencie je zahrnutá v časti nazvanej ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sk:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:sk:GNU General Public License',
 	'wm-license-information-table-summary' => 'Štandardizovaná tabuľka poskytujúca úplnú sadu informácií o súbore vrátane popisu predmetu, ktorý je zachytený, a spôsobu zachytenia, stavu autorských práv a zdroji, z ktorého súbor pochádza.',
@@ -13109,6 +13324,7 @@ $messages['sk'] = array(
 
 /** Slovenian (Slovenščina)
  * @author Dbc334
+ * @author Diebuche
  * @author Multichill
  */
 $messages['sl'] = array(
@@ -13287,6 +13503,7 @@ $messages['sl'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'deljenje pod enakimi pogoji',
 	'wm-license-cc-conditions-share_alike-text' => 'Če spremenite, pretvorite ali gradite na tem delu, lahko takšno predelavo dela distribuirate samo pod isto, podobno ali kompatibilno licenco.',
 	'wm-license-free-software-wiki-link' => 'w:sl:Prosto programje',
+	'wm-license-gfdl-1.2-and-later' => "To gradivo je dovoljeno kopirati, razširjati in/ali spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Dovoljenja za rabo proste dokumentacije GNU]]''', različica 1.2 ali katera koli poznejša, ki jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil.",
 	'wm-license-gfdl-wiki-link' => 'w:sl:Dovoljenje GNU za rabo proste dokumentacije',
 	'wm-license-gpl-wiki-link' => 'w:sl:GNU General Public License',
 	'wm-license-information-table-summary' => 'Standardizirana razpredelnica, ki nudi popolne informacije o datoteki, vključno z opisom kaj prikazuje in kako je bila narejena, stanjem avtorskih pravic in izvorom.',
@@ -13326,6 +13543,7 @@ $messages['sli'] = array(
 );
 
 /** Albanian (Shqip)
+ * @author Diebuche
  * @author Mikullovci11
  * @author Multichill
  */
@@ -13333,6 +13551,7 @@ $messages['sq'] = array(
 	'wm-license-cc-wiki-link' => 'w:sq:Creative Commons',
 	'wm-license-cc-attribution' => 'Atributim',
 	'wm-license-free-software-wiki-link' => 'w:sq:Program kompjuterik i lirë',
+	'wm-license-gfdl-1.2-and-later' => "Ju jepet leja për ta kopjuar, shpërndarë dhe/ose ndryshuar këtë dokument sipas kushteve të '''[[{{int:wm-license-gfdl-wiki-link}}|Licencës GNU për Dokumentim të Lirë]]''', versioni 1.2 ose çdo version të mëpasshëm të publikuar nga [[{{int:wm-license-fsf-wiki-link}}|Fondacioni Free Software]]; pa Seksione të Pandryshueshme, pa Tekste Kapakësh të Përparmë, dhe pa Tekste Kapakësh të Pasmë, të dhëna. Një kopje e kësaj license është përfshirë në seksionin e titulluar ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-information-description' => 'Përshkrimi',
 	'wm-license-information-source' => 'Burimi',
 	'wm-license-information-date' => 'Data',
@@ -13456,6 +13675,7 @@ $messages['su'] = array(
 /** Swedish (Svenska)
  * @author Ainali
  * @author Boivie
+ * @author Cohan
  * @author Dafer45
  * @author Multichill
  * @author Per
@@ -13675,7 +13895,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-pd-author-with-author-text' => "Detta arbete har gjorts tillgänglig som'''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' av dess skapare,'''$1'''. Detta gäller globalt.",
 	'wm-license-pd-author-not-legally-possible' => 'I vissa länder kan detta inte vara juridiskt möjligt; i så fall:',
 	'wm-license-pd-author-self-any-purpose' => "Jag ger härmed envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
-	'wm-license-pd-author-with-author-any-purpose' => "1\$ ger envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 ger envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
 	'wm-license-pd-wiki-link' => 'w:sv:Public domain',
 	'wm-license-self-one-license' => 'Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
 	'wm-license-self-one-license-with-author' => '$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
@@ -13831,7 +14051,23 @@ $messages['te'] = array(
 	'wm-license-cc-by-3.0-th-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ తైలాండ్] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-3.0-tw-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ తైవాన్] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-3.0-us-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [http://creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ యునైటెడ్ స్టేట్స్] యందు అనుమతించబడినది.',
+	'wm-license-cc-by-sa-3.0-no-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/no/deed.en అపాదింపు-యథాతథ పంచుకోలు 3.0 నార్వే] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-nz-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/nz/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 న్యూజీలాండ్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/ph/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 ఫిలిప్పీన్స్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-pl-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/pl/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 పోలాండ్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-pr-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/pr/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 పోర్టో రికో] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-ro-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/ro/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 రొమేనియా] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-rs-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/rs/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 సెర్బియా] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-sg-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/sg/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 సింగపూర్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-th-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/th/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 థాయిలాండ్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-tw-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/tw/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 తైవాన్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-by-sa-3.0-us-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/by-sa/3.0/us/ ఆపాదింపు-యథాతథ పంచుకోలు 3.0 అమెరికా సంయుక్త రాష్ట్రాలు] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-sa-1.0-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/sa/1.0/ యథాతథ పంచుకోలు 1.0 సాథారణం] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-sa-1.0-fi-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/sa/1.0/fi/ యథాతథ పంచుకోలు 1.0 ఫిన్లాండ్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-sa-1.0-nl-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/sa/1.0/nl/ యథాతథ పంచుకోలు 1.0 నెదర్లాండ్స్] లైసెన్సు క్రింద లభ్యం.',
+	'wm-license-cc-sa-2.0-jp-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/licenses/sa/2.0/jp/ యథాతథ పంచుకోలు 2.0 జపాన్] లైసెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-zero-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 వెయివర్] క్రింద లభ్యం.',
+	'wm-license-cc-zero-explanation' => 'ఈ కృతితో సంబంధమున్న వ్యక్తి తనకు ప్రపంచవ్యాప్తంగా కాపీహక్కుల చట్టం క్రింద ఈ కృతిపై ఉన్న అన్ని హక్కులని మరియు ఈ కృతిలో తనకి ఉన్న సంబంధిత న్యాయపరమైన హక్కులని, చట్టం అనుమతించిన మేరకు, వదులుకుని ఈ కృతిని కామన్స్‌కి అంకితమిచ్చారు. CC0 క్రింద ఉన్న కృతులకు ఆపాందింపు అవసరం లేదు. కృతిని ఉటంకించేప్పుడు, కృతికర్త యొక్క ఆమోదాన్ని మీరు అంతర్నిహితంగా సూచించకూడదు.',
 	'wm-license-cc-free' => 'మీరు స్వేచ్ఛగా:',
 	'wm-license-cc-free-to-share-header' => 'పంచుకోవచ్చు',
 	'wm-license-cc-free-to-share-text' => 'ఈ కృతిని కాపీ చేసుకోవచ్చు, పంపిణీ మరియు ప్రసారం చేయవచ్చు',
@@ -13842,6 +14078,8 @@ $messages['te'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'రచయిత లేదా లైసెన్సరు పేర్కొన్న పద్ధతిలో (కానీ మిమ్మల్ని లేదా ఈ కృతి యొక్క మీ వాడుకని వారు మద్ధతిస్తున్నట్టు సూచించే పద్ధతిలో కాకుండా) కృతి యొక్క శ్రేయస్సుని వారికి ఆపాదించాలి.',
 	'wm-license-cc-conditions-share_alike-header' => 'ఇలానే పంచుకోవాలి',
 	'wm-license-cc-conditions-share_alike-text' => 'మీరు ఈ కృతిని మారిస్తే, అనుకరిస్తే, లేదా మెరుగుపరిస్తే, తత్ఫలిత కృతిని ఈ లైసెన్సు లేదా ఇలాంటి లైసెన్సు క్రింద మాత్రమే పంపిణీ చేయాలి.',
+	'wm-license-cecill-text' => 'ఈ కృతి [[{{int:wm-license-free-software-wiki-link}}|స్వేచ్ఛా మృదూపకరణం]]; [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] నియమాలకు లోబడి మీరు దీన్ని పునఃపంపిణీ చేయవచ్చు లేదా మార్చుకోవచ్చు. CeCILL లైసెన్సు యొక్క నియమాలు [{{int:wm-license-cecill-full-link}} www.cecill.info] వద్ద లభ్యమవుతాయి.',
+	'wm-license-fal-text' => "కాపీలెఫ్ట్: ఇది స్వేచ్ఛా కృతి; దీన్ని మీరు '''[[{{int:wm-license-fal-wiki-link}}|స్వేచ్ఛా కళ లైసెన్సు]]''' నియామాలకు లోబడి పునఃపంపిణీ చేయవచ్చు మరియు/లేదా మార్చుకోవచ్చు. ఈ లైసెన్సు యొక్క ప్రతిని [{{int:wm-license-fal-full-link}} కాపీలెఫ్ట్ అట్టిట్యూడ్ సైటు] లోనూ మరియు ఇతర సైట్లలోనూ చూడవచ్చు.",
 	'wm-license-gfdl-wiki-link' => 'w:te:GNU Free Documentation License',
 	'wm-license-information-description' => 'వివరణ',
 	'wm-license-information-description-missing' => "ఈ దస్త్రానికి '''వివరణ''' లేదు, మరియు ఇతర సమాచారం కూడా లేకపోవచ్చు.",
@@ -13858,7 +14096,11 @@ $messages['te'] = array(
 	'wm-license-information-other-versions' => 'ఇతర కూర్పులు',
 	'wm-license-original-upload-log' => 'అసలు ఎక్కింపుల చిట్టా',
 	'wm-license-own-work' => 'స్వంత కృతి',
+	'wm-license-pd-author-self-text' => "నేను, ఈ కృతి యొక్క కాపీహక్కుదారుని, ఈ కృతిని '''[[{{int:wm-license-pd-wiki-link}}|సార్వజనీనం]]'''గా  విడుదల చేస్తున్నాను. ఇది ప్రపంచవ్యాప్తంగా వర్తిస్తుంది.",
+	'wm-license-pd-author-with-author-text' => "ఈ కృతిని కృతికర్త, '''$1''', '''[[{{int:wm-license-pd-wiki-link}}|సార్వజనీనం]]'''గా విడుదల చేసారు. ఇది ప్రపంచవ్యాప్తంగా వర్తిస్తుంది.",
 	'wm-license-pd-author-not-legally-possible' => 'కొన్ని దేశాల్లో ఇది చట్టబద్ధంగా సాధ్యంకాకపోవచ్చు; అయితే:',
+	'wm-license-pd-author-self-any-purpose' => "ఈ కృతిని ఎటువంటి షరతులు లేకుండా, అట్టి షరతులు చట్టం వల్ల తప్పనిసరి అయితే తప్ప, '''ఏ ఉద్దేశానికైనా'' ఉపయోగించుకునే హక్కును ఎవరికైనా నేను ప్రదానం చేస్తున్నాను.",
+	'wm-license-pd-author-with-author-any-purpose' => "ఈ కృతిని ఎటువంటి షరతులు లేకుండా, అట్టి షరతులు చట్టం వల్ల తప్పనిసరి అయితే తప్ప, '''ఏ ఉద్దేశానికైనా'' ఉపయోగించుకునే హక్కును ఎవరికైనా $1 ప్రదానం చేస్తున్నారు.",
 	'wm-license-self-one-license' => 'నేను, ఈ కృతి యొక్క కాపీహక్కుదారుని, దీన్ని ఈ లైసెన్సు క్రింద ఇందుమూలముగా ప్రచురిస్తున్నాను:',
 	'wm-license-self-one-license-with-author' => '$1, ఈ కృతి యొక్క కాపీహక్కుదారు, దీన్ని ఇందుమూలముగా ఈ లైసెన్సు క్రింద ప్రచురిస్తున్నారు:',
 	'wm-license-self-multiple-licenses' => 'నేను, ఈ కృతి యొక్క కాపీహక్కుదారుని, దీన్ని ఇందుమూలముగా ఈ లైసెన్సుల క్రింద ప్రచురిస్తున్నాను:',
@@ -14586,6 +14828,7 @@ $messages['tyv'] = array(
  * @author Ahonc
  * @author Aleksandrit
  * @author Arturyatsko
+ * @author Diebuche
  * @author Multichill
  * @author NickK
  * @author Prima klasy4na
@@ -14774,6 +15017,7 @@ $messages['uk'] = array(
 Ви можете знайти умови цієї ліцензії на сайті [{{int:wm-license-fal-full-link}} Copyleft Attitude site], а також на інших сайтах.",
 	'wm-license-fsf-wiki-link' => 'w:uk:Фонд вільного програмного забезпечення',
 	'wm-license-free-software-wiki-link' => 'w:uk:Вільне програмне забезпечення',
+	'wm-license-gfdl-1.2-and-later' => "Дозволяється копіювати, розповсюджувати та/або модифікувати цей документ на умовах '''[[{{int:wm-license-gfdl-wiki-link}}|ліцензії GNU FDL]]''' версії 1.2 або більш пізньої, виданої [[{{int:wm-license-fsf-wiki-link}}|Фондом вільного програмного забезпечення]], без незмінних розділів, без текстів, які розміщені на першій та останній обкладинці. Копія ліцензії знаходиться у розділі ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:uk:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:uk:GNU General Public License',
 	'wm-license-information-table-summary' => 'Стандартизована таблиця, що містить повну інформацію про файл, включаючи опис того, що зображено, яким способом було зроблено, стан авторських прав та джерело.',
@@ -14808,9 +15052,13 @@ $messages['uk'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Ви можете обрати ліцензію на ваш розсуд.',
 );
 
-/** Urdu (اردو) */
+/** Urdu (اردو)
+ * @author Diebuche
+ */
 $messages['ur'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ur:آزاد مصنع‌لطیف',
+	'wm-license-gfdl-1.2-and-later' => 'آپکو جی این یو آزاد مسوداتی اجازہ کے تحت اس دستاویز کو نقل، تقسیم اور/ یا ترمیم کی اجازت دی جاتی ہے۔
+اس ضابطہ کی نقل جی این یو آزاد مسوداتی اجازہ کے عنوان سے میسر ہے۔',
 	'wm-license-gfdl-wiki-link' => 'w:ur:جی این یو آزاد مسوداتی اجازہ',
 );
 
@@ -14879,6 +15127,7 @@ $messages['vec'] = array(
 	'wm-license-cc-by-2.5-tw-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/ Atribusion 2.5 Taiwan]',
 	'wm-license-cc-by-2.5-za-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/ Atribusion 2.5 Sudafrica]',
 	'wm-license-cc-by-3.0-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.en Atribusion 3.0 Unported]',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Sto file el xe soto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribuzion [http://creativecommons.org/licenses/by/3.0/deed.it 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.it 2.5 Generico], [http://creativecommons.org/licenses/by/2.0/deed.it 2.0 Generico] e [http://creativecommons.org/licenses/by/1.0/deed.it 1.0 Generico]',
 	'wm-license-cc-by-3.0-at-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Atribusion 3.0 Austria]',
 	'wm-license-cc-by-3.0-cz-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/ Atribusion 3.0 Republica Ceca]',
 	'wm-license-cc-by-3.0-de-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/ Atribusion 3.0 Germania]',
@@ -14927,6 +15176,7 @@ $messages['vec'] = array(
 	'wm-license-cc-by-sa-2.1-es-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.en Atribusion-Condividi a lo stesso modo 2.1 Spagna].',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en Atribusion-Condividi a lo stesso modo 2.1 Giapon].',
 	'wm-license-cc-by-sa-2.5-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/deed.en Atribusion-Condividi a lo stesso modo 2.5 Generico].',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Sto file el xe soto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribuzion-Condividi alo stesso modo [http://creativecommons.org/licenses/by-sa/2.5/deed.it 2.5 Generico], [http://creativecommons.org/licenses/by-sa/2.0/deed.it 2.0 Generico] e [http://creativecommons.org/licenses/by-sa/1.0/deed.it 1.0 Generico]',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/ar/deed.en Atribusion-Condividi a lo stesso modo 2.5 Arzentina].',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/au/deed.en Atribusion-Condividi a lo stesso modo 2.5 Australia].',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/bg/deed.en Atribusion-Condividi a lo stesso modo 2.5 Bulgaria].',
@@ -14956,6 +15206,7 @@ $messages['vec'] = array(
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/deed.en Atribusion-Condividi a lo stesso modo 2.5 Taiwan].',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/deed.en Atribusion-Condividi a lo stesso modo 2.5 Sudafrica].',
 	'wm-license-cc-by-sa-3.0-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.en Atribusion-Condividi a lo stesso modo 3.0 Generico].',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Sto file el xe soto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribuzion-Condividi alo stesso modo [http://creativecommons.org/licenses/by-sa/3.0/deed.it 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.it 2.5 Generico], [http://creativecommons.org/licenses/by-sa/2.0/deed.it 2.0 Generico] e [http://creativecommons.org/licenses/by-sa/1.0/deed.it 1.0 Generico]',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.en Atribusion-Condividi a lo stesso modo 3.0 Austria].',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.en Atribusion-Condividi a lo stesso modo 3.0 Republica Ceca].',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.en Atribusion-Condividi a lo stesso modo 3.0 Germania].',
@@ -14981,6 +15232,8 @@ $messages['vec'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.en Atribusion-Condividi a lo stesso modo 1.0 Finlandia].',
 	'wm-license-cc-sa-1.0-nl-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.en Atribusion-Condividi alo stesso modo 1.0 Paesi Bassi]',
 	'wm-license-cc-sa-2.0-jp-text' => 'Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.en Atribusion-Condividi a lo stesso modo 2.0 Giapon].',
+	'wm-license-cc-zero-text' => 'Sto file el xe reso disponibile nei termini de la rinuncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.it CC0 1.0 Universal].',
+	'wm-license-cc-zero-explanation' => "La persona che gà associà un'opera co sto documento la gà dedicà el laoro a Commons rinunciando a tuti i so diriti in tuto el mondo e par quanto parmesso da la lege, a tuti i so diriti d'autor su l'opera e a tuti i diriti conessi o altri diriti simili che la podesse verghe su l'opera. Par le opere rilassià soto CC0 no ghe vole atribussion. Quando te citi l'opera, no te devi lassar intendar in nessun modo che l'autor originario el sia d'acordo con ti o el to utilizo de l'opera.",
 	'wm-license-cc-free' => 'Ti sì libaro:',
 	'wm-license-cc-free-to-share-header' => 'de condivìdar',
 	'wm-license-cc-free-to-share-text' => 'de copiar, distribuir e trasmétar sta opera',
@@ -14991,7 +15244,14 @@ $messages['vec'] = array(
 	'wm-license-cc-conditions-attribution-text' => "Te ghè da atribuir la paternità de l'opera nei modi indicà de l'autor o da chi te gà dato l'opera in licensa, e in modo tale da no sugerir che lori i sia d'acordo con ti o col modo in cui te dòpari l'opera.",
 	'wm-license-cc-conditions-share_alike-header' => 'condividi al stesso modo',
 	'wm-license-cc-conditions-share_alike-text' => 'Se te àlteri, trasformi, o te costruissi qualcosa da sta opera, te poli distribuir el laoro risultante solo soto la stessa licensa o una che ghe someja.',
+	'wm-license-cecill-text' => "St'opera la xe [[{{int:wm-license-free-software-wiki-link}}|software libaro]], se pole redistribuirlo o modificarlo secondo i termini de la [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. I termini de la licensa CeCILL i se cata presso [{{int:wm-license-cecill-full-link}} www.cecill.info].",
+	'wm-license-fal-text' => "Copyleft: sta opera d'arte la xe libara, te poli ridistribuirla e/o modificarla secondo i termini de la '''[[{{int:wm-license-fal-wiki-link}}|Licensa de Arte Libera]]'''. Te cati un esempio de sta licensa sul [{{int:wm-license-fal-full-link}} sito Copyleft Attitude site] così come su altri siti.",
+	'wm-license-gfdl-1.2-and-later' => "Te poli copiare, distribuire e/o modificare sto documento in base ai termini de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versione 1.2 o sucessive publicà da la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa alcuna sezione non modificabile, sensa testo de copertina e sensa testo de quarta de copertina. Na copia de la licenza la xe inclusa ne la sezione intitolà ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo de la GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "Te poli copiare, distribuire e/o modificare sto documento in base ai termini de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', solo versione 1.2 publicà da la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa alcuna sezione non modificabile, sensa testo de copertina e sensa testo de quarta de copertina. Na copia de la licenza la xe inclusa ne la sezione intitolà ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo de la GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-and-later' => "Te poli copiare, distribuire e/o modificare sto documento in base ai termini de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versione 1.3 o sucessive publicà da la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa alcuna sezione non modificabile, sensa testo de copertina e sensa testo de quarta de copertina. Na copia de la licenza la xe inclusa ne la sezione intitolà ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo de la GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Te poli copiare, distribuire e/o modificare sto documento in base ai termini de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', solo versione 1.3 publicà da la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa alcuna sezione non modificabile, sensa testo de copertina e sensa testo de quarta de copertina. Na copia de la licenza la xe inclusa ne la sezione intitolà ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo de la GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:vec:GNU Free Documentation License',
+	'wm-license-gpl-text' => "Sto lavoro el xe considerà [[{{int:wm-license-free-software-wiki-link}}|software libaro]]; te poli redistribuirlo e/o modificarlo soto le condizion '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' così come publicà da la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sia essa la version 2 de la licenza, o (a to scelta) qualsiasi version sucessiva. Sto laoro el vien distribuìo ne la speransa che el sia utile, ma '''sensa nissuna garansia'''; gnanca con la garansia di '''viabilità sul mercato''' o de '''apropriatezza par un particolare fine'''. Par magiori detagli, varda el testo originale in inglese de la [{{int:wm-license-gpl-2.-full-link}} versione 2] e de la [{{int:wm-license-gpl-3-full-link}} version 3 de la GNU Lesser General Public License].",
 	'wm-license-information-table-summary' => 'Na tabèla standardixà che fornisse tute le informassion sul file, conpresa la descrission de cossa el mostra e come el xe stà otegnùo, el stato del copyright e la proveniensa.',
 	'wm-license-information-description' => 'Descrission',
 	'wm-license-information-description-missing' => "A sto file multimedial a ghe manca na '''descrission''', e magari anca qualche altra informassion.",
@@ -15006,6 +15266,7 @@ $messages['vec'] = array(
 	'wm-license-information-permission-reusing-text' => 'Ridoparar sto file',
 	'wm-license-information-permission-see-below' => 'Varda qua soto.',
 	'wm-license-information-other-versions' => 'Altre version',
+	'wm-license-lgpl-text' => "Sto lavoro el xe considerà [[{{int:wm-license-free-software-wiki-link}}|software libaro]]; te poli redistribuirlo e/o modificarlo soto le condizion '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' così come publicà da la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sia essa la version 2.1 de la licenza, o (a to scelta) qualsiasi version sucessiva. Sto laoro el vien distribuìo ne la speransa che el sia utile, ma '''sensa nissuna garansia'''; gnanca con la garansia di '''viabilità sul mercato''' o de '''apropriatezza par un particolare fine'''. Par magiori detagli, varda el testo originale in inglese de la [{{int:wm-license-gpl-2.1-full-link}} versione 2] e de la [{{int:wm-license-gpl-3-full-link}} version 3 de la GNU Lesser General Public License].",
 	'wm-license-licensing-update-text' => "Sto tag de copyright lo gavemo zontà ne l'ànbito de l'[[{{int:wm-license-licensing-update-wiki-link}}|ajornamento de la licensa]] dei progeti Wikimedia.",
 	'wm-license-original-upload-log' => 'Registro original del caricamento',
 	'wm-license-own-work' => 'Opera propria',
@@ -15039,6 +15300,8 @@ $messages['vep'] = array(
  */
 $messages['vi'] = array(
 	'wikimedialicensetexts-desc' => 'Thông điệp giấy phép Wikimedia',
+	'wm-license-attribution-with-author-text' => "Người giữ bản quyền tập tin này, $1, cho phép mọi người dùng nó cho '''mọi mục đích, miễn là''' phải ghi công hợp lý cho người giữ bản quyền. Được phép tái phân phối, tạo ra tác phẩm phái sinh, sử dụng cho mục đích thương mại, và tất cả các hình thức sử dụng khác.",
+	'wm-license-attribution-without-author-text' => "Người giữ bản quyền tập tin này cho phép mọi người dùng nó cho '''mọi mục đích, miễn là''' phải ghi công hợp lý cho người giữ bản quyền. Được phép tái phân phối, tạo ra tác phẩm phái sinh, sử dụng cho mục đích thương mại, và tất cả các hình thức sử dụng khác.",
 	'wm-license-cc-wiki-link' => 'w:vi:Creative Commons',
 	'wm-license-cc-attribution' => 'Ghi công',
 	'wm-license-cc-by-1.0-text' => 'Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.vi Ghi công 1.0 Chung].',
@@ -15214,6 +15477,7 @@ $messages['vi'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'chia sẻ tương tự',
 	'wm-license-cc-conditions-share_alike-text' => 'Nếu bạn thay thế, biến đổi, hoặc làm tác phẩm khác dựa trên tác phẩm này, bạn chỉ được phân phối tác phẩm mới tạo ra với một giấy phép y hệt, tương tự hoặc tương thích.',
 	'wm-license-cecill-text' => 'Tác phẩm này là [[{{int:wm-license-free-software-wiki-link}}|phần mềm tự do]]; bạn có phép tái phân phối hoặc sửa đổi nó dưới những điều khoản của [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Những điều khoản của giấy phép CeCILL có sẵn tại [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-fal-text' => "Copyleft: Công trình nghệ thuật này là miễn phí; bạn được tự do tái phân phối và/hoặc sửa đổi nó dưới những điều kiện của '''[[{{int:wm-license-fal-wiki-link}}|Giấy phép Nghệ thuật Tự do]]'''. Có thể đọc nguyên văn giấy phép này tại [{{int:wm-license-fal-full-link}} trang Copyleft Attitude] và những trang khác.",
 	'wm-license-free-software-wiki-link' => 'w:vi:Phần mềm tự do',
 	'wm-license-gfdl-1.2-and-later' => "Bạn có quyền sao chép, sử dụng và/hoặc sửa đổi Tài liệu này theo những điều khoản được quy định trong '''[[{{int:wm-license-gfdl-wiki-link}}|Giấy phép Tài liệu Tự do GNU]]''', phiên bản 1.2 hoặc các phiên bản mới hơn được [[{{int:wm-license-fsf-wiki-link}}|Quỹ Phần mềm Tự do]] quy định; ngoại trừ những phần không được sửa đổi, bìa trước và bìa sau. Bạn có thể xem giấy phép nói trên ở phần \"[[{{int:wm-license-gfdl-full-1.2-link}}|Giấy phép Tài liệu Tự do GNU]]\".",
 	'wm-license-gfdl-1.2-only' => "Bạn có quyền sao chép, sử dụng và/hoặc sửa đổi Tài liệu này theo những điều khoản được quy định trong '''[[{{int:wm-license-gfdl-wiki-link}}|Giấy phép Tài liệu Tự do GNU]]''', phiên bản 1.2 được [[{{int:wm-license-fsf-wiki-link}}|Quỹ Phần mềm Tự do]] quy định, chứ không phải phiên bản nào khác; ngoại trừ những phần không được sửa đổi, bìa trước và bìa sau. Bạn có thể xem giấy phép nói trên ở phần \"[[{{int:wm-license-gfdl-full-1.2-link}}|Giấy phép Tài liệu Tự do GNU]]\".",
@@ -15260,10 +15524,12 @@ $messages['vls'] = array(
 );
 
 /** Volapük (Volapük)
+ * @author Diebuche
  * @author Malafaya
  */
 $messages['vo'] = array(
 	'wm-license-cc-free' => 'Binol libik:',
+	'wm-license-gfdl-1.2-and-later' => "Däl pagevon ad kopiedön, seagivön e/u votükön dokümi at ma '''[[{{int:wm-license-gfdl-wiki-link}}|Dälazöt ad Dokümam Libik: GNU]]''', Fomam 1.2 u nulikum fa [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] (Stitod: Nünömaprograms libik); nen diläds nevotükovik, nen vödems tegapada balid, e leigo nen vödems tegapada lätik.",
 	'wm-license-information-description' => 'Bepenam',
 	'wm-license-information-source' => 'Fon',
 	'wm-license-information-date' => 'Dät',
@@ -15329,6 +15595,7 @@ $messages['yi'] = array(
 
 /** Yoruba (Yorùbá)
  * @author Demmy
+ * @author Diebuche
  */
 $messages['yo'] = array(
 	'wm-license-attribution-with-author-text' => 'Ẹni tó ni ẹ̀tọ́ àwòkọ fáìlì yìí, $1, gba ẹnikẹ́ni ní ààyè láti lòó fún ohunkóhun, lábẹ́ àdéhùn pé ẹni tó ni ẹ̀tọ́ àwòkọ yìí yíò jẹ́ dídálórúkọ bóbáṣẹyẹ. Ìtúnpínkiri, àtúnṣe sí, ìlò fún títà, àti gbogbo ọ̀nà ìlò mìràn jẹ́ gbígbà ní ààyè.',
@@ -15480,6 +15747,7 @@ $messages['yo'] = array(
 	'wm-license-cc-free-to-remix-text' => 'láti mulò mọ́ iṣẹ́ míràn',
 	'wm-license-cc-conditions' => 'Lábẹ́ àwọn àdéhùn wọ̀nyí:',
 	'wm-license-cc-conditions-attribution-header' => 'ìdárúkọ',
+	'wm-license-gfdl-1.2-and-later' => "Ìyọ̀nda wà láti ṣe àwòkọ, láti pinkakiri ati/tabi s'atunse iwe yi l'abe awon oro '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 tabi itejade ojowaju lat'owo [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; laisi Ese Tikoyipada, laisi Oro-iwe Niwaju, ati laisi Oro-iwe Leyin. Adako iwe-aye je sisopo mo apa ti akole re je ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-information-description' => 'Ìjúwe',
 	'wm-license-information-source' => 'Orísun',
 	'wm-license-information-date' => 'Ọjọ́ọdún',
