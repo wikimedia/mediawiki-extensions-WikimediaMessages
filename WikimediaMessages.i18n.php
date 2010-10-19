@@ -4766,6 +4766,7 @@ $messages['is'] = array(
  * @author BrokenArrow
  * @author Brownout
  * @author Darth Kule
+ * @author F. Cosoleto
  * @author Gianfranco
  * @author Melos
  * @author Nemo bis
@@ -4828,6 +4829,7 @@ $messages['it'] = array(
 	'grouppage-founder' => '{{ns:project}}:Founders',
 	'grouppage-import' => '{{ns:project}}:Importatori',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dal blocco IP',
+	'grouppage-OTRS-member' => '{{ns:project}}: Membri OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Ricercatori',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki' => '{{ns:project}}:Importatori transwiki',
