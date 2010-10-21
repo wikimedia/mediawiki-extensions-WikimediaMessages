@@ -5965,10 +5965,15 @@ $messages['lv'] = array(
 	'tooltip-n-sitesupport' => 'Atbalsti mūs',
 	'group-accountcreator' => 'Kontu veidotāji',
 	'group-flood' => 'Botu lietotāji',
+	'group-founder' => 'Dibinātāji',
 	'group-import' => 'Importētāji',
 	'group-transwiki' => 'Transviki importētāji',
+	'group-founder-member' => 'dibinātājs',
+	'group-import-member' => 'importētājs',
 	'grouppage-import' => '{{ns:project}}:Importētāji',
 	'group-steward' => 'Sistēmas pārvaldnieki',
+	'group-sysadmin' => 'Sistēmas administratori',
+	'group-Staff' => 'Personāls',
 	'grouppage-steward' => '{{ns:project}}:Sistēmas pārvaldnieki',
 	'group-inactive' => 'Neaktīvi lietotāji',
 	'group-inactive-member' => 'neaktīvs lietotājs',
@@ -8156,8 +8161,8 @@ $messages['ru'] = array(
 	'group-inactive-member' => 'неактивный участник',
 	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
 	'shared-repo-name-shared' => 'Викисклада',
-	'wikimedia-copyright' => 'Текст доступен на условиях лицензии <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
-	'wikimedia-copyrightwarning' => 'Сохраняя свои изменения, вы соглашаетесь на их неотзывную публикацию на условиях лицензий [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] и [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы соглашаетесь, что при использовании страницы, в которую вы вносили изменения, на вас будут ссылаться, как минимум, посредством гиперссылки или URL на соответствующую страницу. Подробнее см. [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования].',
+	'wikimedia-copyright' => 'Текст доступен по <a href="http://creativecommons.org/licenses/by-sa/3.0/">лицензии Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
+	'wikimedia-copyrightwarning' => 'Сохраняя свои изменения, вы соглашаетесь на их неотзывную публикацию по лицензиям [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] и [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы соглашаетесь, что при использовании страницы, в которую вы вносили изменения, на вас будут ссылаться, как минимум, посредством гиперссылки или URL на соответствующую страницу. Подробнее см. [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования].',
 	'wikimedia-editpage-tos-summary' => 'Если вы не хотите, чтобы ваши тексты свободно редактировались и распространялись любым желающим, не помещайте их сюда.
 Если вы не являетесь автором размещаемого текста, то он должен быть доступен на условиях, совместимых с [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условиями использования], и вы соглашаетесь следовать всем соответствующим требованиям лицензии.',
 );
@@ -9688,6 +9693,7 @@ $messages['tk'] = array(
 	'group-editinterface' => 'Interfeýs redaktorlary',
 	'group-Global_bot' => 'Global botlar',
 	'group-Global_rollback' => 'Global öňki katdyna getirijiler',
+	'group-Global_sysops' => 'Global administratorlar',
 	'group-Ombudsmen' => 'Ombudsmenler',
 	'group-Staff' => 'Işgärler',
 	'group-steward-member' => 'stýuard',
@@ -9695,6 +9701,7 @@ $messages['tk'] = array(
 	'group-editinterface-member' => 'interfeýs redaktory',
 	'group-Global_bot-member' => 'global bot',
 	'group-Global_rollback-member' => 'global öňki katdyna getiriji',
+	'group-Global_sysops-member' => 'global administrator',
 	'group-Ombudsmen-member' => 'ombudsmen',
 	'group-Staff-member' => 'işgär',
 	'group-coder' => 'Kodirleýjiler',
@@ -10789,8 +10796,11 @@ $messages['yi'] = array(
  */
 $messages['yo'] = array(
 	'wikimediamessages-desc' => 'Àwọn ìránṣẹ́ Wikimedia nìkan',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Ṣe ìgbọ̀wọ́',
 	'tooltip-n-sitesupport' => 'Tíwálẹ́yìn',
+	'group-sysadmin' => 'Àwọn olùmójútó sístẹ́mù',
+	'group-sysadmin-member' => 'olùmójútó sístẹ́mù',
 	'wikimedia-copyright' => 'Gbogbo ìkọ wà lábẹ́ <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn tún wà.
 Ẹ wo <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.',
 	'wikimedia-copyrightwarning' => 'Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] àti [http://www.gnu.org/copyleft/fdl.html GFDL].
