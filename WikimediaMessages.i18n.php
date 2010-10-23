@@ -880,7 +880,7 @@ Oazlhaiten san in de <a href="http://wikimediafoundation.org/wiki/Nutzungsbeding
  * @author Hugo.arg
  * @author Zordsdavini
  */
-$messages['bat-smg'] = array(
+$messages['sgs'] = array(
 	'sitesupport' => 'Pagelba',
 	'group-steward' => 'Gaspaduorē',
 	'group-sysadmin' => 'Sėstėmas admėnėstratuorē',

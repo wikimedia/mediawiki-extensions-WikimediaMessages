@@ -1011,7 +1011,7 @@ $messages['bar'] = array(
 );
 
 /** Samogitian (Žemaitėška) */
-$messages['bat-smg'] = array(
+$messages['sgs'] = array(
 	'wm-license-information-description' => 'Aprašīms',
 );
 
