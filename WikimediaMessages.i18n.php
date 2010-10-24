@@ -876,18 +876,6 @@ $messages['bar'] = array(
 Oazlhaiten san in de <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrim.',
 );
 
-/** Samogitian (Žemaitėška)
- * @author Hugo.arg
- * @author Zordsdavini
- */
-$messages['sgs'] = array(
-	'sitesupport' => 'Pagelba',
-	'group-steward' => 'Gaspaduorē',
-	'group-sysadmin' => 'Sėstėmas admėnėstratuorē',
-	'group-Global_bot' => 'Gluobalūs buotā',
-	'group-Global_bot-member' => 'gluobalus buots',
-);
-
 /** Southern Balochi (بلوچی مکرانی)
  * @author Mostafadaneshvar
  */
@@ -3884,6 +3872,7 @@ $messages['haw'] = array(
 );
 
 /** Hebrew (עברית)
+ * @author Amire80
  * @author Rotem Liss
  * @author Rotemliss
  * @author YaronSh
@@ -3903,6 +3892,7 @@ $messages['he'] = array(
 	'group-bigexport' => 'מבצעי ייצוא גדול',
 	'group-confirmed' => 'משתמשים מאומתים',
 	'group-editprotected' => 'עורכי דפים מוגנים',
+	'group-eliminator' => 'מוחקים',
 	'group-filemover' => 'מעבירי קבצים',
 	'group-flood' => 'משתמשי בוט',
 	'group-founder' => 'מייסדים',
@@ -3910,6 +3900,7 @@ $messages['he'] = array(
 	'group-import' => 'מייבאים',
 	'group-interface_editors' => 'עורכי ממשק',
 	'group-ipblock-exempt' => 'חסיני חסימות IP',
+	'group-OTRS-member' => 'חברי OTRS',
 	'group-patroller' => 'בודקי עריכות',
 	'group-researcher' => 'עורכי מחקרים',
 	'group-rollbacker' => 'משחזרים',
@@ -3923,6 +3914,7 @@ $messages['he'] = array(
 	'group-bigexport-member' => 'מבצע ייצוא גדול',
 	'group-confirmed-member' => 'משתמש מאומת',
 	'group-editprotected-member' => 'עורך דפים מוגנים',
+	'group-eliminator-member' => 'מוחק',
 	'group-filemover-member' => 'מעביר קבצים',
 	'group-flood-member' => 'משתמש בוט',
 	'group-founder-member' => 'מייסד',
@@ -3930,6 +3922,7 @@ $messages['he'] = array(
 	'group-import-member' => 'מייבא',
 	'group-interface_editors-member' => 'עורך ממשק',
 	'group-ipblock-exempt-member' => 'חסין חסימות IP',
+	'group-OTRS-member-member' => 'חבר OTRS',
 	'group-patroller-member' => 'בודק עריכות',
 	'group-researcher-member' => 'עורך מחקר',
 	'group-rollbacker-member' => 'משחזר',
@@ -3943,6 +3936,7 @@ $messages['he'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:מבצע ייצוא גדול',
 	'grouppage-confirmed' => '{{ns:project}}:משתמש מאומת',
 	'grouppage-editprotected' => '{{ns:project}}:עורך דפים מוגנים',
+	'grouppage-eliminator' => '{{ns:project}}:מוחק',
 	'grouppage-filemover' => '{{ns:project}}:מעביר קבצים',
 	'grouppage-flood' => '{{ns:project}}:משתמש בוט',
 	'grouppage-founder' => '{{ns:project}}:מייסד',
@@ -3950,6 +3944,7 @@ $messages['he'] = array(
 	'grouppage-import' => '{{ns:project}}:מייבא',
 	'grouppage-interface_editors' => '{{ns:project}}:עורך ממשק',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:חסין חסימות IP',
+	'grouppage-OTRS-member' => '{{ns:project}}:חברי OTRS',
 	'grouppage-researcher' => '{{ns:project}}:עורך מחקר',
 	'grouppage-rollbacker' => '{{ns:project}}:משחזר',
 	'grouppage-transwiki' => '{{ns:project}}:מייבא בין-אתרי',
@@ -8489,6 +8484,18 @@ $messages['se'] = array(
 $messages['sei'] = array(
 	'sitesupport' => 'Donación',
 	'tooltip-n-sitesupport' => 'Donacíonhuíiitl',
+);
+
+/** Samogitian (Žemaitėška)
+ * @author Hugo.arg
+ * @author Zordsdavini
+ */
+$messages['sgs'] = array(
+	'sitesupport' => 'Pagelba',
+	'group-steward' => 'Gaspaduorē',
+	'group-sysadmin' => 'Sėstėmas admėnėstratuorē',
+	'group-Global_bot' => 'Gluobalūs buotā',
+	'group-Global_bot-member' => 'gluobalus buots',
 );
 
 /** Tachelhit (Tašlḥiyt)
