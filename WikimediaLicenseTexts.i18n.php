@@ -14377,7 +14377,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-licensing-update-text' => 'Detta licenstillägg var tillagt till denna fil som en del av GFDL:s [[{{int:wm-license-licensing-update-wiki-link}}|licensuppdatering]].',
 	'wm-license-original-upload-log' => 'Ursprunglig uppladdningslogg',
 	'wm-license-own-work' => 'Eget arbete',
-	'wm-license-pd-author-self-text' => "Jag, upphovsrättshavaren till detta verk, släpper detta arbete i'''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''. Detta gäller globalt.",
+	'wm-license-pd-author-self-text' => "Jag, upphovsrättshavaren till detta verk, släpper detta arbete i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''. Detta gäller globalt.",
 	'wm-license-pd-author-with-author-text' => "Detta arbete har gjorts tillgänglig som'''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' av dess skapare,'''$1'''. Detta gäller globalt.",
 	'wm-license-pd-author-not-legally-possible' => 'I vissa länder kan detta inte vara juridiskt möjligt; i så fall:',
 	'wm-license-pd-author-self-any-purpose' => "Jag ger härmed envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",

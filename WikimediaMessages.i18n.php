@@ -6426,6 +6426,13 @@ $messages['mr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीय सदस्य',
 );
 
+/** Hill Mari (Кырык мары)
+ * @author Amdf
+ */
+$messages['mrj'] = array(
+	'wikimedia-copyright' => 'Текст <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензи</a> семӹнь анжыкталтеш, кӓнгӓш моло келеш гӹнь, вес условивлӓ шотыш нӓлмӹ лит. Шукыракым пӓлен нӓлӓш <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">«Кычылтмы условивлӓм»</a> анжалда.',
+);
+
 /** Malay (Bahasa Melayu)
  * @author Aurora
  * @author Aviator
