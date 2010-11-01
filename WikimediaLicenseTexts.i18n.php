@@ -923,9 +923,11 @@ $messages['ar'] = array(
 	'wm-license-self-multiple-licenses-select' => 'لك أن تختار الرخصة التي تناسبك.',
 );
 
-/** Aramaic (ܐܪܡܝܐ) */
+/** Aramaic (ܐܪܡܝܐ)
+ * @author Michaelovic
+ */
 $messages['arc'] = array(
-	'wm-license-information-source' => 'ܥܩܪܐ',
+	'wm-license-information-source' => 'ܡܒܘܥܐ',
 );
 
 /** Egyptian Spoken Arabic (مصرى)
@@ -2157,6 +2159,7 @@ $messages['bs'] = array(
 /** Catalan (Català)
  * @author Aleator
  * @author Diebuche
+ * @author Martorell
  * @author Multichill
  * @author Paucabot
  * @author SMP
@@ -2329,8 +2332,8 @@ $messages['ca'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.ca Compartir Igual 1.0 Finlàndia].',
 	'wm-license-cc-sa-1.0-nl-text' => 'Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.ca Compartir Igual 1.0 Països Baixos].',
 	'wm-license-cc-sa-2.0-jp-text' => 'Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.ca Compartir Igual 2.0 Japó].',
-	'wm-license-cc-zero-text' => 'Aquest fitxer està disponible segons la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.ca renúncia CC0].',
-	'wm-license-cc-zero-explanation' => "La persona que ha associat un treball amb aquest document ha dedicat l'obra a la comunitat, renunciant en tot el món a tots els seus drets de copyright i a tots els drets legals relacionats que tenia en l'obra, en la mesura permesa per la llei. Les obres sota CC0 no requereixen l'atribució. En citar l'obra no podeu implicar cap mena de suport al vostre ús per part de l'autor.",
+	'wm-license-cc-zero-text' => "L'ús d'aquest fitxer és regulat sota les condicions de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] de  [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 lliurament al domini públic universal].",
+	'wm-license-cc-zero-explanation' => "La persona que ha associat un treball amb aquest document ha dedicat l'obra [[{{int:wm-license-pd-wiki-link}}|domini públic]], renunciant en tot el món a tots els seus drets de copyright i a tots els drets legals relacionats que tenia en l'obra, en la mesura permesa per la llei. Les obres sota CC0 no requereixen l'atribució. En citar l'obra no podeu implicar cap mena de suport al vostre ús per part de l'autor.",
 	'wm-license-cc-free' => 'Sou lliure de:',
 	'wm-license-cc-free-to-share-header' => 'compartir',
 	'wm-license-cc-free-to-share-text' => "copiar, distribuir i comunicar públicament l'obra",
@@ -2347,6 +2350,7 @@ $messages['ca'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ca:Programari lliure',
 	'wm-license-gfdl-1.2-and-later' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]]''' versió 1.2 o qualsevol altra versió posterior que publiqui la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]] versió 1.2''', publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;només',
 	'wm-license-gfdl-1.3-and-later' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]]''' versió 1.3 o qualsevol altra versió posterior que publiqui la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]] versió 1.3''', publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:ca:Llicència de documentació lliure de GNU',
@@ -2363,8 +2367,10 @@ $messages['ca'] = array(
 	'wm-license-information-author' => 'Autor',
 	'wm-license-information-author-missing' => "Aquest fitxer manca d'informació de l''''autor'''.",
 	'wm-license-information-permission' => 'Permís',
+	'wm-license-information-permission-reusing-text' => "S'està reutilitzant aquest fitxer",
 	'wm-license-information-permission-see-below' => 'Vegeu més avall',
 	'wm-license-information-other-versions' => 'Altres versions',
+	'wm-license-lgpl-text' => "Aquesta biblioteca constitueix un [[{{int:wm-license-free-software-wiki-link}}|programari lliure]], podeu redistribuir-lo i/o modificar-lo sota els termes de la '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Llicència Pública General Menor]]''' publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], bé la versió 2.1 de la llicència, o bé (si ho preferiu) qualsevol versió posterior. Aquesta biblioteca es distribueix amb l'esperança que siga d'utilitat, però '''sense cap mena de garantia''', i sense la garantia implícita de '''comercialització''' o '''idoneïtat per a propòsits particulars'''. Vegeu la [{{int:wm-llicència LGPL-2.1-full-link}} versió 2.1] i la [{{int: wm-llicència LGPL-3-full-link}} versió 3 de la GNU Llicència Pública General Menor] per a més detalls.",
 	'wm-license-lgpl-wiki-link' => 'w:ca:LGPL',
 	'wm-license-licensing-update-text' => "Aquest avís de llicència s'ha afegit a aquest fitxer d'acord amb l'[[{{int:wm-license-licensing-update-wiki-link}}|actualització de la llicència GFDL]].",
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/ca',
@@ -12457,6 +12463,7 @@ $messages['roa-tara'] = array(
 	'wm-license-information-permission-see-below' => 'Vide sotte.',
 	'wm-license-information-other-versions' => 'Otre versiune',
 	'wm-license-own-work' => 'Fatije proprie',
+	'wm-license-self-multiple-licenses-select' => "Tu puè scacchià 'a licenze ca vuè.",
 );
 
 /** Russian (Русский)
