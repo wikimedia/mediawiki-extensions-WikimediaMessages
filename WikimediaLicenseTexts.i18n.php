@@ -9104,6 +9104,7 @@ De veurwaerh van de CeCILL-licentie zeen besjikbaar op [{{int:wm-license-cecill-
 De kins e veurbeildj van de licentie vinjen op de [{{int:wm-license-fal-full-link}} website van Copyleft Attitude] zouch op anger websites.",
 	'wm-license-gfdl-1.2-and-later' => "Toesteumming wert verleend veur t kopiëre, verspreide en/of wiezige van dit document onger de veurwaerd van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie veur vrieje documentatie]]''', versie 1.2 of einige latere versie es gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonger Invariant Sections, zonger Front-Cover Texts, en zonger Back-Cover Texts. n kopie van de licentie is opgenomme in de sectie ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-licentie veur vrieje documentatie]]''.",
 	'wm-license-gfdl-1.2-only' => "Toestömming wuuertj verleend veur t kopiëre, verspreide en/of wiezige van dit document onger de veurwaerd van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie veur vriej documentatie]]''', allein versie 1.2 es gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonger Invariant Sections, zonfger Front-Cover Texts, en zonfer Back-Cover Texts. Een kopie van de licentie is opgenommen in de sectie ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-licentie väör vrie documentatie]]''.",
+	'wm-license-gfdl-1.2-only-header' => 'allein&nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "Toustömming weurt verliend väör 't kopiëre, verspreie en/of wiezige van dèt document oonder de veurweerde vaan de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie väör vrij documentatie]]''', versie 1.3 of edig later versie aals gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zoonder Invariant Sections, zoonder Front-Cover Texts, en zoonder Back-Cover Texts. 'n Kopie vaan de licentie is opgenome in de sectie ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-licentie vuur vrij documentatie]]''.",
 	'wm-license-gfdl-1.3-only' => "TawstÖmming weëdt verliend vòr 't kopiëre, verspreide en/of weizige van dit document onger de vòrweerde van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie vò vrie documentatie]]''', allieën versie 1.3 as gepubliceerd dòr de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonger Invariant Sections, zonger Front-Cover Texts, en zonger Back-Cover Texts. ein kopie van de licentie is opgenoame in de sectie ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-licentie vòr vrie documentatie]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:li:GNU Free Documentation License',
@@ -16259,7 +16260,10 @@ $messages['yi'] = array(
 	'wm-license-information-date' => 'דאַטע',
 	'wm-license-information-author' => 'מחבר',
 	'wm-license-information-permission' => 'דערלויבעניש',
+	'wm-license-information-permission-reusing-text' => 'ווײַטערניצן די דאָזיגע טעקע',
 	'wm-license-information-permission-see-below' => 'זעט אונטן',
+	'wm-license-information-other-versions' => 'אַנדערע ווערסיעס',
+	'wm-license-own-work' => 'אייגענע אַרבעט',
 );
 
 /** Yoruba (Yorùbá)
