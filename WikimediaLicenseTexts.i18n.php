@@ -3724,7 +3724,7 @@ $messages['el'] = array(
  * @author Reedy
  */
 $messages['en-gb'] = array(
-	'wm-license-cc-zero-explanation' => 'The person who associated a work with this document has dedicated the work to the Commons by waiving all of his or her rights to the work worldwide under copyright law and all related or neighbouring legal rights he or she had in the work, to the extent allowable by law. Works under CC0 do not require attribution. When citing the work, you should not imply endorsement by the author.',
+	'wm-license-cc-zero-explanation' => 'The person who associated a work with this deed has dedicated the work to the [[{{int:wm-license-pd-wiki-link}}|public domain]] by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighbouring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.',
 	'wm-license-information-table-summary' => 'A standardised table providing complete information about the file, including description of what it shows and how it was made, copyright status and source.',
 	'wm-license-self-one-license-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licence:',
 	'wm-license-self-multiple-licenses' => 'I, the copyright holder of this work, hereby publish it under the following licences:',
@@ -6845,7 +6845,7 @@ $messages['hu'] = array(
 	'wm-license-information-other-versions' => 'Más változatok',
 	'wm-license-lgpl-text' => "Ez a függvénykönyvtár [[{{int:wm-license-free-software-wiki-link}}|szabad szoftver]]; terjeszthető illetve módosítható a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] által kiadott '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' dokumentumában leírtak; akár a licenc 2.1-es, akár (tetszőleges) későbbi változata szerint. Ez a program abban a reményben kerül közreadásra, hogy hasznos lesz, de '''minden egyéb garancia nélkül''', az '''eladhatóságra''' vagy '''valamely célra való alkalmazhatóságra''' való származtatott garanciát is beleértve. További részleteket a [{{int:wm-license-lgpl-2.1-full-link}} GNU Lesser General Public License 2.1-es] és [{{int:wm-license-lgpl-3-full-link}} 3-as változata] tartalmaz.",
 	'wm-license-lgpl-wiki-link' => 'w:hu:GNU Lesser General Public License',
-	'wm-license-licensing-update-text' => 'Ez a licenc a GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licencújítás]] során került a fájlra.',
+	'wm-license-licensing-update-text' => 'Ez a licenc a GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licenccsere]] során került a fájlra.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/hu',
 	'wm-license-original-upload-log' => 'Eredeti feltöltési napló',
 	'wm-license-own-work' => 'A feltöltő saját munkája',
@@ -14351,7 +14351,8 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-cc-sa-1.0-fi-text' => 'Denna fil är licensierad under licensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.sv Dela Lika 1.0 Finland].',
 	'wm-license-cc-sa-1.0-nl-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.sv Dela Lika 1.0 Nederländerna] licensen.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.sv Dela Lika 2.0 Japan] licensen.',
-	'wm-license-cc-zero-text' => 'Denna fil har gjorts tillgänglig under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.sv CC0 deklarering].',
+	'wm-license-cc-zero-text' => 'Denna fil har gjorts tillgänglig under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]
+[http://creativecommons.org/publicdomain/zero/1.0/deed.sv CC0 1.0 Universal Public Domain Dedication].',
 	'wm-license-cc-zero-explanation' => 'Personen som kopplade ett verk till detta dokument har tillägnat arbetet till [[{{int:wm-license-pd-wiki-link}}|Allmänheten]] genom att, i den utsträckning som tillåts lag, avstå från alla hans eller hennes rättigheter till verket i hela världen som han eller hon skulle haft för verket enligt upphovsrätten och alla relaterade eller närliggande juridiska rättigheter. Verk under CC0 kräver inte inte erkännande. Vid citering av verket, ska du inte förutsätta godkännande från upphovsmannen.',
 	'wm-license-cc-free' => 'Du är fri:',
 	'wm-license-cc-free-to-share-header' => 'att dela',
@@ -14369,6 +14370,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-free-software-wiki-link' => 'w:sv:Fri programvara',
 	'wm-license-gfdl-1.2-and-later' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 eller senare version publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 endast som publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;endast',
 	'wm-license-gfdl-1.3-and-later' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 eller senare publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 endast som publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sv:GNU Free Documentation License',
