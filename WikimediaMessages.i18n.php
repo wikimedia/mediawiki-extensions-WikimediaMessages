@@ -2768,6 +2768,7 @@ $messages['eu'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Dohaintzak',
 	'sitesupport' => 'Dohaintzak',
 	'tooltip-n-sitesupport' => 'Lagundu gaitzazu',
+	'specialpages-group-contribution' => 'Dohaintzaren egilea',
 	'group-abusefilter' => 'Abusu-iragazkien editoreak',
 	'group-accountcreator' => 'Kontu sortzailea',
 	'group-arbcom' => 'Tartekaritza-taldearen kideak',
@@ -2776,12 +2777,17 @@ $messages['eu'] = array(
 	'group-bigexport' => 'Esportatzaile handiak',
 	'group-confirmed' => 'Egiaztatutako erabiltzaileak',
 	'group-editprotected' => 'Babestutako orrien editoreak',
+	'group-eliminator' => 'Ezabatzaileak',
+	'group-filemover' => 'Fitxategi mugitzaileak',
 	'group-flood' => 'Bot erabiltzaileak',
 	'group-founder' => 'Fundatzaileak',
+	'group-Image-reviewer' => 'Irudi berrikusleak',
 	'group-import' => 'Inportatzaileak',
 	'group-interface_editors' => 'Interfazeko editoreak',
 	'group-ipblock-exempt' => 'IP blokeo salbuespenak',
+	'group-OTRS-member' => 'OTRS kideak',
 	'group-patroller' => 'Patruilariak',
+	'group-researcher' => 'Ikertzaileak',
 	'group-rollbacker' => 'Desegin dezakete',
 	'group-transwiki' => 'Transwiki inportatzaileak',
 	'group-trusted' => 'Konfiantzazko lankideak',
@@ -2793,12 +2799,15 @@ $messages['eu'] = array(
 	'group-bigexport-member' => 'esportatzaile handia',
 	'group-confirmed-member' => 'egiaztatutako erabiltzailea',
 	'group-editprotected-member' => 'babestutako orrien editorea',
+	'group-eliminator-member' => 'ezabatzailea',
 	'group-filemover-member' => 'fitxategi mugitzaileak',
 	'group-flood-member' => 'bot erabiltzaileak',
 	'group-founder-member' => 'fundatzailea',
+	'group-Image-reviewer-member' => 'irudi berrikuslea',
 	'group-import-member' => 'inportatzailea',
 	'group-interface_editors-member' => 'interfazeko editorea',
 	'group-ipblock-exempt-member' => 'IP blokeo salbuespena',
+	'group-OTRS-member-member' => 'OTRS kidea',
 	'group-patroller-member' => 'patruilaria',
 	'group-researcher-member' => 'ikertzailea',
 	'group-rollbacker-member' => 'desegin dezake',
@@ -2808,16 +2817,19 @@ $messages['eu'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Kontu sortzaileak',
 	'grouppage-arbcom' => '{{ns:project}}:Tartekaritza-taldeko kideak',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruilariak',
-	'grouppage-autoreviewer' => '{{ns:project}}:Aztertzaile automatikoak',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autopatruilariak',
 	'grouppage-bigexport' => '{{ns:project}}:Esportatzaile handiak',
 	'grouppage-confirmed' => '{{ns:project}}:Egiaztatutako erabiltzaileak',
 	'grouppage-editprotected' => '{{ns:project}}:Babestutako orrien editoreak',
+	'grouppage-eliminator' => '{{ns:project}}:Ezabatzaileak',
 	'grouppage-filemover' => '{{ns:project}}:Fitxategi mugitzaileak',
 	'grouppage-flood' => '{{ns:project}}:Bot lankideak',
 	'grouppage-founder' => '{{ns:project}}:Fundatzaileak',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Irudi berrikusleak',
 	'grouppage-import' => '{{ns:project}}:Inportatzaileak',
 	'grouppage-interface_editors' => '{{ns:project}}:Interfazeko editoreak',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blokeo salbuespenak',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS kideak',
 	'grouppage-researcher' => '{{ns:project}}:Ikertzaileak',
 	'grouppage-rollbacker' => '{{ns:project}}:Desegin dezakete',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki inportatzaileak',
@@ -10179,9 +10191,11 @@ $messages['tt-cyrl'] = array(
 Сез язган текстның авторы булмасагыз, текст [http://wikimediafoundation.org/wiki/Terms_of_Use/ Куллану шартлары] белән килешкән шартларга туры килергә тиеш, һәм Сез лицензиянең таләпләренә буйсынырга килешәсез.',
 );
 
-/** Tatar (Latin) (Татарча/Tatarça (Latin)) */
+/** Tatar (Latin) (Татарча/Tatarça (Latin))
+ * @author Don Alessandro
+ */
 $messages['tt-latn'] = array(
-	'sitesupport' => 'Ximäyäçegä',
+	'sitesupport' => 'İğänä',
 );
 
 /** Tahitian (Reo Mā`ohi) */

@@ -4136,8 +4136,8 @@ $messages['es'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Este archivo está autorizado bajo licencia [http://creativecommons.org/licenses/by-sa/3.0/fi/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Finlandia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-sa-1.0-nl-text' => 'Este archivo está autorizado bajo licencia [http://creativecommons.org/licenses/by-sa/3.0/nl/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Holanda] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-sa-2.0-jp-text' => 'Este archivo está autorizado bajo licencia [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.es Reconocimiento-Compartir bajo la misma licencia 2.0 Japón] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
-	'wm-license-cc-zero-text' => 'Este archivo está disponible bajo la la renuncia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.es CC0].',
-	'wm-license-cc-zero-explanation' => 'La persona que ha asociado una obra a este documento lo dedica a Creative Commons mediante la cesión mundial de sus derechos bajo la ley de derechos de autor y todos los derechos legales adyacentes propios de dicha, en el ámbito permitido por ley. Las obras bajo licencia CCO no requieren reconocimiento. Al citar la obra, no se requiere aprobación del autor.',
+	'wm-license-cc-zero-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Dedicación de Dominio Público [http://creativecommons.org/publicdomain/zero/1.0/deed.es CC0 1.0 Universal].',
+	'wm-license-cc-zero-explanation' => 'La persona que ha asociado una obra a este documento lo dedica al [[{{int:wm-license-pd-wiki-link}}|dominio público]] mediante la cesión mundial de sus derechos bajo la ley de derechos de autor y todos los derechos legales adyacentes propios de dicha, en el ámbito permitido por ley. Puedes copiar, modificar, distribuir y reproducir el trabajo, incluso con objetivos comerciales, sin pedir aprobación del autor.',
 	'wm-license-cc-free' => 'Eres libre:',
 	'wm-license-cc-free-to-share-header' => 'para compartir',
 	'wm-license-cc-free-to-share-text' => 'para copiar, distribuir y transmitir el trabajo',
@@ -15476,9 +15476,11 @@ $messages['tt-cyrl'] = array(
 	'wm-license-information-other-versions' => 'Башка юрамалар',
 );
 
-/** Tatar (Latin) (Татарча/Tatarça (Latin)) */
+/** Tatar (Latin) (Татарча/Tatarça (Latin))
+ * @author Don Alessandro
+ */
 $messages['tt-latn'] = array(
-	'wm-license-information-source' => 'Çığanaq',
+	'wm-license-information-source' => 'Çığanağı',
 );
 
 /** Tuvinian (Тыва дыл) */
