@@ -10087,6 +10087,7 @@ $messages['ts'] = array(
 );
 
 /** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+ * @author Don Alessandro
  * @author Rinatus
  * @author Timming
  * @author Ерней
@@ -10186,7 +10187,7 @@ $messages['tt-cyrl'] = array(
 	'group-inactive-member' => 'актив булмаган кулланучы',
 	'grouppage-inactive' => '{{ns:project}}:Актив булмаган кулланучылар',
 	'wikimedia-copyright' => 'Текст <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясе астында бирелә, аерым очракларда өстәмә шартлар эшләргә мөмкин. Өстәмә мәгълүмат өчен <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Куллану шартларын</a> карагыз.',
-	'wikimedia-copyrightwarning' => "Үзгәртүләрне саклаган вакытта, сез аларның [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] һәм [http://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча публикацияләвенә риза буласыз. Бу битне кулланганда, сезгә иң киме гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз. Тулырак мәгълүмат өчен [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] битен карагыз.",
+	'wikimedia-copyrightwarning' => "Үзгәртүләрне саклаган вакытта, сез аларның [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] һәм [http://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча публикацияләвенә риза буласыз. Бу битне кулланганда, сезгә иң киме гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз. Тулырак мәгълүмат өчен [http://wikimediafoundation.org/wiki/Terms_of_Use Куллану шартлары] битен карагыз.",
 	'wikimedia-editpage-tos-summary' => 'Сез текстларыгыз ирекле рәвештә төзәтелүенне һәм теләгәннәр тарафыннан таратылуынны теләмәсәгез, аларны монда урнаштырмагыз.
 Сез язган текстның авторы булмасагыз, текст [http://wikimediafoundation.org/wiki/Terms_of_Use/ Куллану шартлары] белән килешкән шартларга туры килергә тиеш, һәм Сез лицензиянең таләпләренә буйсынырга килешәсез.',
 );
@@ -10196,6 +10197,10 @@ $messages['tt-cyrl'] = array(
  */
 $messages['tt-latn'] = array(
 	'sitesupport' => 'İğänä',
+	'wikimedia-copyright' => 'Tekst <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziäse astında birelä, ayırım oçraqlarda östämä şartlar eşlärgä mömkin. Östämä mäğlümat öçen <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ru">Qullanu şartların</a> qarağız.',
+	'wikimedia-copyrightwarning' => "Üzgärtülärne saqlağan waqıtta, sez alarnıñ [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] häm [http://www.gnu.org/copyleft/fdl.html GFDL] litsenziäläre taläpläre buyınça publikatsiäläwenä riza bulasız. Bu bitne qullanğanda, sezgä iñ kime gipersıltama yäki bit URL'ı aşa sıltama quyıluğa riza bulasız. Tulıraq mäğlümat öçen [http://wikimediafoundation.org/wiki/Terms_of_Use Qullanu şartları] biten qarağız.",
+	'wikimedia-editpage-tos-summary' => 'Sez tekstlarığız irekle räweştä tözätelüenne häm telägännär tarafınnan taratıluınnı telämäsägez, alarnı monda urnaştırmağız.
+Sez yazğan tekstnıñ avtorı bulmasağız, tekst [http://wikimediafoundation.org/wiki/Terms_of_Use/ Qullanu şartları] belän kileşkän şartlarğa turı kilergä tieş, häm Sez litsenziäneñ taläplärenä buysınırğa kileşäsez.',
 );
 
 /** Tahitian (Reo Mā`ohi) */
