@@ -3088,6 +3088,7 @@ $messages['da'] = array(
  * @author Als-Holder
  * @author ChrisiPK
  * @author CygnusOlor
+ * @author Guillom
  * @author Kghbln
  * @author Kwj2772
  * @author Metalhead64
@@ -3158,7 +3159,7 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-cc-by-2.5-tw-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/tw/deed.de Namensnennung 2.5 Taiwan] lizenziert.',
 	'wm-license-cc-by-2.5-za-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/2.5/za/deed.de Namensnennung 2.5 Südafrika] lizenziert.',
 	'wm-license-cc-by-3.0-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/deed.de Namensnennung 3.0 Unported] lizenziert.',
-	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Diese Datei wird unter den [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenzen [http://creativecommons.org/licenses/by/3.0/deed.de Namensnennung 3.0 nicht portiert], [http://creativecommons.org/licenses/by/2.5/deed.de Namensnennung 2.5 generisch], [http://creativecommons.org/licenses/by/2.0/deed.de Namensnennung 2.0 generisch] sowie [http:// creativecommons.org/licenses/by/1.0/deed.de Namensnennung 1.0 generisch] lizenziert.',
+	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Diese Datei wird unter den [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenzen [http://creativecommons.org/licenses/by/3.0/deed.de Namensnennung 3.0 nicht portiert], [http://creativecommons.org/licenses/by/2.5/deed.de Namensnennung 2.5 generisch], [http://creativecommons.org/licenses/by/2.0/deed.de Namensnennung 2.0 generisch] sowie [http://creativecommons.org/licenses/by/1.0/deed.de Namensnennung 1.0 generisch] lizenziert.',
 	'wm-license-cc-by-3.0-at-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/at/deed.de Namensnennung 3.0 Österreich] lizenziert.',
 	'wm-license-cc-by-3.0-cz-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/cz/deed.de Namensnennung 3.0 Tschechische Republik] lizenziert.',
 	'wm-license-cc-by-3.0-de-text' => 'Diese Datei ist unter der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]-Lizenz [http://creativecommons.org/licenses/by/3.0/de/deed.de Namensnennung 3.0 Deutschland] lizenziert.',
@@ -3737,6 +3738,7 @@ $messages['en-gb'] = array(
  * @author Marcos
  * @author Multichill
  * @author Petrus Adamus
+ * @author ThomasPusch
  * @author Yekrats
  * @author Ziko
  */
@@ -3949,9 +3951,9 @@ $messages['eo'] = array(
 	'wm-license-licensing-update-text' => 'La permisilo-etikedo estis aldonita al ĉi tiu dosiero kiel parto de la GFDL [[{{int:wm-license-licensing-update-wiki-link}}|permisilo-ĝisdatigo]].',
 	'wm-license-original-upload-log' => 'Originala alŝutada protokolo',
 	'wm-license-own-work' => 'Propra verko',
-	'wm-license-pd-author-self-text' => "Mi, la posedanto de la kopirajto de ĉi tiu verko, liberigis ĉi tiun verko en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''. Aplikas mondvaste.",
-	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita en la '''[[{{int:wm-license-pd-wiki-link}}|publikan domajno]]''' de ties aŭtoro, '''$1'''. Aplikas mondvaste.",
-	'wm-license-pd-author-not-legally-possible' => 'Se kelkaj landoj ĉi tiel ne laŭleĝe eblas; tiukaze:',
+	'wm-license-pd-author-self-text' => "Mi, la posedanto de la kopirajto de ĉi tiu verko, liberigis ĉi tiun verkon kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]'''. Tio aplikatas mondvaste.",
+	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]''' de ties aŭtoro, '''$1'''. Tio aplikatas mondvaste.",
+	'wm-license-pd-author-not-legally-possible' => 'En iuj landoj tio povas esti laŭleĝe neebla; en tiu kazo:',
 	'wm-license-pd-author-self-any-purpose' => 'Mi rajtigas ĉiun ajn uzi ĉi tiun verkon por ajna celo, sen iuj ajn kondiĉoj, krom se tiuj kondiĉoj estas postulataj per leĝo.',
 	'wm-license-pd-author-with-author-any-purpose' => "$1 donas al iu ajn la rajton uzi ĉi tiun verkon '''por iu ajn uzo''', sen kondiĉoj, krom se tiuj kondiĉoj deviĝas per leĝo.",
 	'wm-license-pd-wiki-link' => 'w:eo:Publika havaĵo',
