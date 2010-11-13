@@ -5011,6 +5011,7 @@ $messages['fa'] = array(
  * @author Nike
  * @author Olli
  * @author Str4nd
+ * @author Trixt
  * @author ZeiP
  */
 $messages['fi'] = array(
@@ -5188,7 +5189,7 @@ $messages['fi'] = array(
 	'wm-license-cc-free-to-remix-text' => 'valmistaa muutettuja teoksia',
 	'wm-license-cc-conditions' => 'Seuraavilla ehdoilla:',
 	'wm-license-cc-conditions-attribution-header' => 'nimeäminen',
-	'wm-license-cc-conditions-attribution-text' => 'Sinun tulee nimetä työ tekijän tai lisensoijan määräämällä tavalla (mutta ei sellaisella tavalla, joka vihjaa että he tukevat sinua tai työnsä käyttöä).',
+	'wm-license-cc-conditions-attribution-text' => 'Teoksen tekijä on ilmoitettava siten kuin tekijä tai teoksen lisensoija on sen määrännyt (mutta ei siten että ilmoitus viittaisi lisenssinantajan tukevan lisenssinsaajaa tai Teoksen käyttötapaa)',
 	'wm-license-cc-conditions-share_alike-header' => 'tarttuva',
 	'wm-license-cc-conditions-share_alike-text' => 'Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain tällä tai tämän kaltaisella lisenssillä.',
 	'wm-license-cecill-text' => 'Tämä teos on osa [[{{int:wm-license-free-software-wiki-link}}|vapaata ohjelmistoa]]. Voit levittää tai muuttaa sitä [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-lisenssin ehtojen mukaisesti. CeCILL-lisenssin ehdot ovat saatavilla osoitteessa [{{int:wm-license-cecill-full-link}} www.cecill.info].',
@@ -15653,7 +15654,7 @@ Lisansın bir kopyası, \"'''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür
 	'wm-license-information-author-missing' => "Bu dosyanın '''yazar''' bilgisine ihtiyacı vardır.",
 	'wm-license-information-permission' => 'İzin',
 	'wm-license-information-permission-reusing-text' => 'Bu dosyanın tekrar kullanımı',
-	'wm-license-information-permission-see-below' => 'See below.',
+	'wm-license-information-permission-see-below' => 'Alta bakınız.',
 	'wm-license-information-other-versions' => 'Diğer sürümler',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/tr',
 	'wm-license-original-upload-log' => 'Orijinal yükleme günlüğü',
