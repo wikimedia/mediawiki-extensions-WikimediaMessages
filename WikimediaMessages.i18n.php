@@ -3445,7 +3445,7 @@ Se vos los éd pas ècrits vos-mémo, dêvont étre disponiblos desot des condic
 $messages['frr'] = array(
 	'wikimediamessages-desc' => 'Wikimedia tisangen',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spenden',
-	'sitesupport' => 'Stöön',
+	'sitesupport' => 'Stipe',
 	'tooltip-n-sitesupport' => 'Stööne üs',
 	'specialpages-group-contribution' => 'Bidrach',
 	'group-abusefilter' => 'Masbrük-filter bewerkern',
