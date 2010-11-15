@@ -2976,7 +2976,7 @@ $messages['fa'] = array(
 	'wikimediamessages-desc' => 'پیغام‌های مخصوص ویکی‌مدیا',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/fa',
 	'sitesupport' => 'کمک مالی',
-	'tooltip-n-sitesupport' => 'حمایت از ما',
+	'tooltip-n-sitesupport' => 'حمایتمان کنید',
 	'specialpages-group-contribution' => 'مشارکت‌ها/جمع‌آوری کمک',
 	'group-abusefilter' => 'ویرایشگران پالایهٔ خرابکاری',
 	'group-accountcreator' => 'سازندگان حساب کاربری',
@@ -7765,7 +7765,7 @@ $messages['pt'] = array(
 	'group-patroller' => 'Patrulhadores',
 	'group-researcher' => 'Investigadores',
 	'group-rollbacker' => 'Reversores',
-	'group-transwiki' => 'Importadores Transwiki',
+	'group-transwiki' => 'Importadores transwiki',
 	'group-trusted' => 'Utilizadores de confiança',
 	'group-abusefilter-member' => 'editor de filtros de abuso',
 	'group-accountcreator-member' => 'criador de contas',
@@ -7850,6 +7850,7 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
  * @author Everton137
  * @author Giro720
  * @author GoEThe
+ * @author Helder.wiki
  * @author Heldergeovane
  * @author Luckas Blade
  * @author Sir Lestaty de Lioncourt
@@ -7880,7 +7881,7 @@ $messages['pt-br'] = array(
 	'group-patroller' => 'Patrulhadores',
 	'group-researcher' => 'Pesquisadores',
 	'group-rollbacker' => 'Reversores',
-	'group-transwiki' => 'Importadores Transwiki',
+	'group-transwiki' => 'Importadores transwiki',
 	'group-trusted' => 'Usuários confiáveis',
 	'group-abusefilter-member' => 'editores de filtros de abuso',
 	'group-accountcreator-member' => 'Criador de contas',
@@ -8486,7 +8487,7 @@ $messages['rue'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактівны хоснователї',
 	'wikimedia-copyright' => 'Текст є доступный під<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых подмінок. Детайлы найдете на сторінцї <a href="http://wikimediafoundation.org/wiki/Подмінкы_схоснованя">Подмінкы схоснованя</a>.',
 	'wikimedia-copyrightwarning' => 'Уложінём ваш приспевок неодволательно увольнюєте під ліценціями [http://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Заховайте ліценцію&nbsp;3.0] і&nbsp;[http://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[http://wikimediafoundation.org/wiki/Подмінкы_хоснованя подмінках хоснованя].',
-	'wikimedia-editpage-tos-summary' => 'кідь собі не желате, жебы ваш приспевок быв немилосердно управляный і&nbsp;вольно шыреный, пак го ту не укладайте. покы не сьте автором тексту, мусить быти доступный за подмінок злучітельных з&nbsp;nнашыма [http://wikimediafoundation.org/wiki/Подмнікы_хоснованя подмінками хоснованя] і&nbsp;вы согласите із вшыткыма прислушныма ліценчныма пожадавками.',
+	'wikimedia-editpage-tos-summary' => 'Кідь собі не желате, жебы ваш приспевок быв немилосердно управляный і&nbsp;вольно шыреный, пак го ту не укладайте. Покы не сьте автором тексту, мусить быти доступный за подмінок злучітельных з&nbsp;нашыма [http://wikimediafoundation.org/wiki/Подмнікы_хоснованя подмінками хоснованя] і&nbsp;вы сугласите із вшыткыма прислушныма ліценчныма пожадавками.',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
