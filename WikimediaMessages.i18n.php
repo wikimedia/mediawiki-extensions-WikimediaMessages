@@ -2852,6 +2852,7 @@ Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [h
  * @author Joxemai
  * @author Theklan
  * @author Unai Fdz. de Betoño
+ * @author Xabier Armendaritz
  */
 $messages['eu'] = array(
 	'wikimediamessages-desc' => 'Wikimediaren mezu espezifikoak',
@@ -2945,12 +2946,12 @@ $messages['eu'] = array(
 	'group-inactive' => 'Erabiltzaile ez-aktiboak',
 	'group-inactive-member' => 'erabiltzaile ez-aktiboa',
 	'grouppage-inactive' => '{{ns:project}}:Erabiltzaile ez-aktiboak',
-	'wikimedia-copyright' => 'Testua <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu/Partekatu Lizentziapean</a> erabil daiteke;
-klausula gehigarriak aplikatu daitezke.
-Xehetasunetarako, ikus <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Erabilera-baldintzak</a>.',
-	'wikimedia-copyrightwarning' => 'Aldaketak gordez, zure ekarpena [http://creativecommons.org/licenses/by-sa/3.0/deed.eu Creative Commons Aitortu/Partekatu 3.0] eta [http://www.gnu.org/copyleft/fdl.html GFDL] lizentzien pean modu ezeztaezinean laga egiten duzula onartzen duzu.
+	'wikimedia-copyright' => 'Testua <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin lizentziari</a> jarraituz erabil daiteke;
+baliteke beste klausularen batzuk ere aplikatu behar izatea.
+Xehetasunetarako, ikus <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
+	'wikimedia-copyrightwarning' => 'Aldaketak gordez, zure ekarpena [http://creativecommons.org/licenses/by-sa/3.0/deed.eu Creative Commons Aitortu-PartekatuBerdin 3.0] eta [http://www.gnu.org/copyleft/fdl.html GFDL] lizentziei jarraituz modu ezeztaezinean laga duzula onartzen duzu.
 Aldatu duzun orrialdera doan hiperlotura edo URL baten bidez, gutxienez, aitortua izatea onartzen duzu.
-Xehetasunetarako, ikus [http://wikimediafoundation.org/wiki/Terms_of_Use Erabilera-baldintzak].',
+Xehetasunetarako, ikus [http://wikimediafoundation.org/wiki/Terms_of_Use erabilera-baldintzak].',
 	'wikimedia-editpage-tos-summary' => 'Zure ekarpena nahi den bezala aldatua eta birbanatua izan dadin ez baduzu nahi, orduan ez gorde.
 Ekarpena ez baduzu zuk zeuk idatzi, [http://wikimediafoundation.org/wiki/Terms_of_Use Erabilera-baldintzetan] zehazten diren kondizioetan eskuragarri egon beharko du, eta edozein lizentzia-eskakizun garrantzitsu betetzea onartuko duzu.',
 );
