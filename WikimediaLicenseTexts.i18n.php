@@ -1243,9 +1243,12 @@ $messages['bcl'] = array(
 
 /** Belarusian (Беларуская)
  * @author Diebuche
+ * @author TarzanASG
  * @author Yury Tarasievich
  */
 $messages['be'] = array(
+	'wm-license-cc-by-3.0-text' => 'Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.be Attribution 3.0 Unported]',
+	'wm-license-cc-by-sa-3.0-text' => 'Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.be Attribution-Share Alike 3.0 Unported]',
 	'wm-license-fsf-wiki-link' => 'w:be:Фонд Свабоднага праграмнага забеспячэння',
 	'wm-license-gfdl-1.2-and-later' => "Дазваляецца капіраваць, распаўсюджваць і(або) мадыфікаваць гэты дакумент на ўмовах '''[[{{int:wm-license-gfdl-wiki-link}}|ліцэнзіі GNU FDL версіі]]''' 1.2 або навейшай, выдадзенай [[{{int:wm-license-fsf-wiki-link}}|Фондам свабоднага праграмнага забеспячэння]]; без Нязменных раздзелаў, без тэкстаў Вокладак. Копія ліцэнзіі ёсць у раздзеле ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:be:GNU Free Documentation License',
@@ -3063,6 +3066,11 @@ $messages['cy'] = array(
 	'wm-license-gpl-wiki-link' => 'w:cy:Trwydded Gyhoeddus Gyffredinol GNU',
 	'wm-license-information-description' => 'Disgrifiad',
 	'wm-license-information-source' => 'Ffynhonnell',
+	'wm-license-information-date' => 'Dyddiad',
+	'wm-license-information-author' => 'Awdur',
+	'wm-license-information-permission' => 'Caniatâd',
+	'wm-license-information-permission-see-below' => 'Gweler isod.',
+	'wm-license-information-other-versions' => 'Diwygiadau eraill',
 );
 
 /** Danish (Dansk)
@@ -8230,7 +8238,7 @@ $messages['ja'] = array(
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/ja',
 	'wm-license-original-upload-log' => '元のアップロードログ',
 	'wm-license-own-work' => '投稿者自身による作品',
-	'wm-license-pd-author-self-text' => "この作品の著作権者である私は、この作品を'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''として提供します。また、これは、全世界的に適用されます。",
+	'wm-license-pd-author-self-text' => "この作品の著作権者である私は、この作品を'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''として著作権を放棄し提供します。これは、全世界的に適用されます。",
 	'wm-license-pd-author-with-author-text' => "この作品は、その作者である'''$1'''により、'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''として公開されました。これは、全世界的に適用されています。",
 	'wm-license-pd-author-not-legally-possible' => 'これは、一部の国では、法的に可能でない場合があります。その場合：',
 	'wm-license-pd-author-self-any-purpose' => "私は、法により必要とされている条件を除き、いかなる条件も課すことなく、'''あらゆる目的'''のためにこの作品を使用する権利をあらゆる人に与えます。",
@@ -8839,6 +8847,8 @@ $messages['krc'] = array(
 	'wm-license-cc-by-2.0-fr-text' => 'Бу файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/fr/ Attribution 2.0 France] лицензияны хайырландырады.',
 	'wm-license-cc-by-2.0-hr-text' => 'Бу файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/hr/ Attribution 2.0 Croatia] лицензияны хайырландырады.',
 	'wm-license-cc-by-2.0-it-text' => 'Бу файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/it/ Attribution 2.0 Italy] лицензияны хайырландырады.',
+	'wm-license-cc-by-3.0-text' => 'Бу файл, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.ru Attribution 3.0 Unported] лицензияны шартларында бериледи',
+	'wm-license-cc-by-sa-3.0-text' => 'Бу файл, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] лицензияны шартларында бериледи',
 	'wm-license-cc-free' => 'Сизни эркин мадарыгъыз барды:',
 	'wm-license-cc-free-to-share-header' => 'башхалагъа берирге',
 	'wm-license-cc-free-to-share-text' => 'копия этерге, джаяргъа эм берирге бу чыгъарманы',
@@ -12756,7 +12766,7 @@ $messages['ru'] = array(
 	'wm-license-cc-by-2.5-si-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/si/ Attribution 2.5 Slovenia].',
 	'wm-license-cc-by-2.5-tw-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5 Taiwan].',
 	'wm-license-cc-by-2.5-za-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 South Africa].',
-	'wm-license-cc-by-3.0-text' => 'Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported]',
+	'wm-license-cc-by-3.0-text' => 'Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.ru Attribution 3.0 Unported]',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Этот файл доступен на условиях лицензий [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution  [http://creativecommons.org/licenses/by/3.0/deed 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed 2.0 Generic] и [http://creativecommons.org/licenses/by/1.0/deed 1.0 Generic].',
 	'wm-license-cc-by-3.0-at-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Austria].',
 	'wm-license-cc-by-3.0-cz-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0 Czech Republic].',
@@ -12835,7 +12845,7 @@ $messages['ru'] = array(
 	'wm-license-cc-by-sa-2.5-si-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/si/ Attribution-Share Alike 2.5 Slovenia].',
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/tw/ Attribution-Share Alike 2.5 Taiwan].',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share Alike 2.5 South Africa].',
-	'wm-license-cc-by-sa-3.0-text' => 'Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported]',
+	'wm-license-cc-by-sa-3.0-text' => 'Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Этот файл доступен на условиях лицензий [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/deed 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed 2.0 Generic] и [http://creativecommons.org/licenses/by-sa/1.0/deed 1.0 Generic].',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/ Attribution-Share Alike 3.0 Austria].',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Этот файл доступен на условиях лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/ Attribution-Share Alike 3.0 Czech Republic].',
