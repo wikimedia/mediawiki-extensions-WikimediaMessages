@@ -3061,6 +3061,14 @@ $messages['cv'] = array(
  */
 $messages['cy'] = array(
 	'wikimedialicensetexts-desc' => 'Negeseuon trwyddedau Wikimedia',
+	'wm-license-cc-attribution' => 'Cydnabyddiaeth',
+	'wm-license-cc-free' => "Mae'n rhydd i chi:",
+	'wm-license-cc-free-to-share-header' => 'ledaenu',
+	'wm-license-cc-free-to-share-text' => "gallwch gopïo, dosbarthu a throsglwyddo'r gwaith",
+	'wm-license-cc-free-to-remix-header' => 'ailwampio',
+	'wm-license-cc-free-to-remix-text' => "gallwch addasu'r gwaith",
+	'wm-license-cc-conditions' => 'Ar yr amodau canlynol:',
+	'wm-license-cc-conditions-attribution-header' => 'cydnabyddiaeth',
 	'wm-license-fsf-wiki-link' => 'w:cy:Free Software Foundation',
 	'wm-license-gfdl-1.2-and-later' => "Caniateir caniatâd i gopïo, dosbarthu a/neu olygu'r ddogfen hon dan delerau '''[[{{int:wm-license-gfdl-wiki-link}}|Trwydded Ddogfennaeth Rydd GNU]]''', Fersiwn 1.2 neu unrhyw fersiwn ar ôl Fersiwn 1.2 a gyhoeddwyd gan y [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; yn cynnwys dim Adrannau Di-syfl, dim Testunau Clawr Blaen, a dim Testunau Clawr Cefn. Cynhwysir copi o'r drwydded hon yn yr adran ''[[{{int:wm-license-gfdl-full-1.2-link}}|Trwydded Ddogfennaeth Rydd GNU]]\".",
 	'wm-license-gpl-wiki-link' => 'w:cy:Trwydded Gyhoeddus Gyffredinol GNU',
