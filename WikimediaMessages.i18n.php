@@ -6317,6 +6317,7 @@ $messages['mg'] = array(
 	'group-inactive' => 'mpikambana tsy miasa',
 	'group-inactive-member' => 'mpikambana tsy miasa',
 	'grouppage-inactive' => '{{ns:project}}:Mpikambana tsy manova',
+	'wikimedia-copyright' => 'Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">Creative Commons Attribution/Share-Alike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href="http://wikimediafoundation.org/wiki/Fepetram-pampiasana">fepetram-pampiasana</a> ho an\'ny antsipirihany.',
 );
 
 /** Eastern Mari (Олык Марий)
@@ -6425,7 +6426,7 @@ $messages['mk'] = array(
 	'group-Ombudsmen-member' => 'правозастапник',
 	'group-Staff-member' => 'член на персонал',
 	'grouppage-steward' => 'm:Стјуарди',
-	'grouppage-sysadmin' => 'm:Систем администратори',
+	'grouppage-sysadmin' => 'm:Системски администратори',
 	'grouppage-Global_rollback' => 'm:Глобално враќање',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
 	'group-coder' => 'Програмери',
@@ -6434,6 +6435,7 @@ $messages['mk'] = array(
 	'group-inactive' => 'Неактивни корисници',
 	'group-inactive-member' => 'неактивен корисник',
 	'grouppage-inactive' => '{{ns:project}}:Нективни корисници',
+	'shared-repo-name-shared' => 'Заедничката Ризница',
 	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.mk">Creative Commons Наведи извор/Сподели под исти услови</a>;
 може да важат и дополнителни услови.
 За повеќе информации, погледајте ги <a href="http://wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0">Условите на употреба</a>.',
