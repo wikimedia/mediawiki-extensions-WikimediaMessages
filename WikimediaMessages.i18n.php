@@ -2439,6 +2439,7 @@ Ne menye wò ŋutɔ ye ŋlɔ nusiawo o la, ekema ele be mɔɖeɖewo si ku ɖe wo
  * @author Crazymadlover
  * @author Dead3y3
  * @author Geraki
+ * @author Glavkos
  * @author Lou
  * @author Omnipaedista
  * @author ZaDiak
@@ -2474,6 +2475,7 @@ $messages['el'] = array(
 	'group-autoreviewer-member' => 'αυτοελεγκτής',
 	'group-bigexport-member' => 'Μεγάλος εξαγωγέας',
 	'group-confirmed-member' => 'επιβεβαιωμένος χρήστης',
+	'group-filemover-member' => 'μετακινητής αρχείου',
 	'group-flood-member' => 'χρήστης bot',
 	'group-founder-member' => 'Ιδρυτής',
 	'group-import-member' => 'εισαγωγέας',
