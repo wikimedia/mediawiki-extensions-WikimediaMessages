@@ -354,6 +354,7 @@ $messages['af'] = array(
 	'group-inactive' => 'Onaktiewe gebruikers',
 	'group-inactive-member' => 'onaktiewe gebruiker',
 	'grouppage-inactive' => '{{ns:project}}:Onaktiewe gebruikers',
+	'wikimedia-copyright' => "Die teks is beskikbaar onder die <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a> lisensie. Dit is moontlik dat aanvullende voorwaardes van toepassing is. Sien die <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
 );
 
 /** Gheg Albanian (Gegë)
