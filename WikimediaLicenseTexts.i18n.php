@@ -1030,11 +1030,16 @@ $messages['az'] = array(
 /** Bashkir (Башҡорт)
  * @author Assele
  * @author Comp1089
+ * @author Рустам Нурыев
  */
 $messages['ba'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедианың рөхсәтнамә хәбәрҙәре',
 	'wm-license-attribution-with-author-text' => "Был файлға авторлыҡ хоҡуҡтары эйәһе, $1, һәр кемгә уны '''ниндәй маҡсаттарҙа булһа ла, әгәр''' авторлыҡ хоҡуҡтары эйәһе тураһында мәғлүмәт һаҡланһа, ҡулланырға рөхсәт итә. Был файлды таратыу, уның нигеҙендә сығарылма эштәр булдырыу, шулай уҡ һатыу өсөн һәм башҡа маҡсаттар өсөн ҡулланыу рөхсәт ителә.",
 	'wm-license-attribution-without-author-text' => "Был файлға авторлыҡ хоҡуҡтары эйәһе һәр кемгә уны '''ниндәй маҡсаттарҙа булһа ла, әгәр''' авторлыҡ хоҡуҡтары эйәһе тураһында мәғлүмәт һаҡланһа, ҡулланырға рөхсәт итә. Был файлды таратыу, уның нигеҙендә сығарылма эштәр булдырыу, шулай уҡ һатыу өсөн һәм башҡа маҡсаттар өсөн ҡулланыу рөхсәт ителә.",
+	'wm-license-book-language' => 'Тел',
+	'wm-license-book-publisher' => 'Нәшриәт',
+	'wm-license-book-title' => 'Исеме',
+	'wm-license-book-translator' => 'Тәржемәсе',
 	'wm-license-cc-attribution' => 'Авторлыҡ күренеүе',
 	'wm-license-cc-by-1.0-text' => 'Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.en Авторлыҡ күренеүе 1.0 Дөйөм] рөхсәтнамәһе шарттарында рөсхәт ителә.',
 	'wm-license-cc-by-1.0-fi-text' => 'Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.en Авторлыҡ күренеүе 1.0 Финляндия] рөхсәтнамәһе шарттарында рөсхәт ителә.',
