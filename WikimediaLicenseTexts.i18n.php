@@ -7599,6 +7599,7 @@ $messages['hu'] = array(
 );
 
 /** Armenian (Հայերեն)
+ * @author Chaojoker
  * @author Diebuche
  * @author Multichill
  */
@@ -7624,6 +7625,7 @@ $messages['hy'] = array(
 	'wm-license-information-author' => 'Հեղինակ',
 	'wm-license-information-author-missing' => "Այս նյութում նշված չեն '''հեղինակին''' վերաբերվող տեղեկություները։",
 	'wm-license-information-permission' => 'Իրավունքներ',
+	'wm-license-information-permission-reusing-text' => 'Ֆայլի վերաօգտագործումը',
 	'wm-license-information-permission-see-below' => 'Տես տակը',
 	'wm-license-information-other-versions' => 'Այլ մեկնակերպներ',
 	'wm-license-licensing-update-text' => 'Այս լիցենզավորվածության հատկանիշը ավելացված է տվյալ ֆայլին որպես GFDL [[{{int:wm-license-licensing-update-wiki-link}}|լիցենզիայի բարեփոխում]]:',
@@ -9561,11 +9563,13 @@ $messages['lb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia Lizenz Messagen',
 	'wm-license-book-edition' => 'Editioun',
 	'wm-license-book-editor' => 'Editeur',
+	'wm-license-book-illustrator' => 'Illustrator',
 	'wm-license-book-language' => 'Sprooch',
 	'wm-license-book-page-overview' => 'Säiteniwwersiicht',
 	'wm-license-book-place-of-publication' => 'Plaz vun der Publikatioun',
 	'wm-license-book-printer' => 'Drécker',
 	'wm-license-book-publisher' => 'Editeur',
+	'wm-license-book-series-title' => 'Collectioun',
 	'wm-license-book-start-this-book' => 'Dëst Buch ufänken',
 	'wm-license-book-subtitle' => 'Ënnertitel',
 	'wm-license-book-title' => 'Titel',
@@ -9753,6 +9757,7 @@ $messages['lb'] = array(
 	'wm-license-creator-location-of-birth' => 'Plaz vun der Gebuert',
 	'wm-license-creator-location-of-birth-and-death' => 'Gebuerts-/Doudesplaz',
 	'wm-license-creator-work-period' => 'Wierkungsperiod',
+	'wm-license-creator-work-location' => "Plaz wou d'Wierk gemaach gouf",
 	'wm-license-fal-text' => "Copyleft: Dëst Wierk ass fräi; Dir kënnt et weiderverdeelen an/oder et modifizéieren ënnert de Bedingunge vun der ''[[{{int:wm-license-fal-wiki-link}}|Fräier Konscht Lizenz]]'''. Dir fannt en Exemplaire vun dëser Lizenz op dem [{{int:wm-license-fal-full-link}} Copyleft Attitude Site] genee esou wéi op anere Siten.",
 	'wm-license-fsf-wiki-link' => 'w:lb:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:lb:Fräi Software',
@@ -16633,6 +16638,11 @@ $messages['tr'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Esere yazar veya lisans sahibi tarafından belirtilen (ancak sizi ya da eseri kullanımınızı desteklediklerini ileri sürmeyecek bir) şekilde atıfta bulunmalısınız.',
 	'wm-license-cc-conditions-share_alike-header' => 'benzer paylaşım',
 	'wm-license-cc-conditions-share_alike-text' => 'Bu eseri değiştirmeniz, dönüştürmeniz ya da bu eseri temel alan başka bir eser oluşturmanız halinde, ortaya çıkan eser için sadece bu veya buna benzer bir lisansı kullanma imkanınız bulunmaktadır.',
+	'wm-license-creator-description' => 'Açıklama',
+	'wm-license-creator-date-of-birth' => 'Doğum tarihi',
+	'wm-license-creator-date-of-birth-and-death' => 'Doğum/ölüm tarihi',
+	'wm-license-creator-location-of-birth' => 'Doğum yeri',
+	'wm-license-creator-location-of-birth-and-death' => 'Doğum/ölüm yeri',
 	'wm-license-fal-wiki-link' => 'w:tr:Özgür Sanat lisansı',
 	'wm-license-fsf-wiki-link' => 'w:tr:Özgür Yazılım Vakfı',
 	'wm-license-free-software-wiki-link' => 'w:tr:Özgür yazılım',
