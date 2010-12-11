@@ -3811,8 +3811,7 @@ Wenn du etwas davon weißt oder Zugang zu solchen Informationen hast, füge dies
 	'wm-license-information-other-versions' => 'Andere Versionen',
 	'wm-license-lgpl-text' => "Diese Bibliothek ist [[{{int:wm-license-free-software-wiki-link}}|freie Software]]; sie darf weiterverteilt und/oder verändert werden unter der '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''', wie sie von der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] veröffentlicht wurde; dazu gelten die Bestimmungen der Version 2.1 oder (nach Wahl) einer späteren Version.
 Diese Bibliothek wurde in der Hoffnung veröffentlicht, dass sie sich als nützlich erweisen könnte, jedoch '''ohne Garantie'''; auch ohne implizierter Garantie der '''Marktgängigkeit''' oder der '''Eignung zu einem bestimmten Zweck'''.
-Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm-license-lgpl-3-full-link}} Version 3 der 
-Lesser GNU General Public License] für weitere Details.",
+Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm-license-lgpl-3-full-link}} Version 3 der Lesser GNU General Public License] für weitere Details.",
 	'wm-license-lgpl-wiki-link' => 'w:de:GNU Lesser General Public License',
 	'wm-license-licensing-update-text' => 'Diese Lizenzmarkierung wurde auf Grund der GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizenzaktualisierung]] hinzugefügt.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/de',
@@ -14012,6 +14011,7 @@ $messages['rue'] = array(
 	'wm-license-cc-by-3.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.rue Уведьте автора 3.0 Unported]',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Тот файл є ліценцованый  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] зазначте автора [http://creativecommons.org/licenses/by/3.0/deed.cs 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.rue 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed.cs 2.0 Generic] і [http://creativecommons.org/licenses/by/1.0/deed.rue 1.0 Generic].',
 	'wm-license-cc-by-3.0-at-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.rue Зазначте  автора 3.0 Австрія]',
+	'wm-license-cc-by-3.0-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/au/deed.rue Уведьте автора 3.0 Австралія]',
 	'wm-license-cc-by-3.0-cz-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/deed.rue Зазначте автора 3.0 Чехы]',
 	'wm-license-cc-by-3.0-de-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.rue Зазначте автора 3.0 Нїмецько]',
 	'wm-license-cc-by-3.0-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.rue Зазбачте автора 3.0 Іспанія]',
@@ -14091,6 +14091,7 @@ $messages['rue'] = array(
 	'wm-license-cc-by-sa-3.0-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.rue Зазначте автора-Заховайте ліценцію 3.0 Unported]',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Тот файл є ліценцованый  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] зазначте автора [http://creativecommons.org/licenses/by-sa/3.0/deed.cs 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.rue 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.rue 2.0 Generic] і [http://creativecommons.org/licenses/by-sa/1.0/deed.rue 1.0 Generic].',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.rue Зазначте автора-заховайте ліценцію 3.0 Австрія]',
+	'wm-license-cc-by-sa-3.0-au-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/au/deed.rue Зазначте автора-заховайте ліценцію 3.0 Австралія]',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/cz/deed.rue Зазначте автора-заховайте ліценцію 2.0 Чехы]',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.rue Зазначте автора-заховайте ліценцію 3.0 Нїмецько]',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Тот файл є ліценцованый під [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.rue Зазначте автора-заховайте ліценцію 3.0 Іспанія]',
@@ -14127,6 +14128,7 @@ $messages['rue'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Мусите увесту авторстві такым способом, якым то пожадує автор або ліценсор (але не такым способом, котрый бы назначовав, же підпорують вас або ваше схоснованя дїла)',
 	'wm-license-cc-conditions-share_alike-header' => 'захованя ліценції',
 	'wm-license-cc-conditions-share_alike-text' => 'Кідь тото дїло зміните, переведете до іншой подобы або схоснуєте як основу далшого дїла, можете дїло в резултатї шырити лем під тов самов подобов або подобнов ліценціов як є тота.',
+	'wm-license-cc-pd-mark-text' => 'Тот файл быв ідентіфікованый як ослободженый од вшыткых знамых обмеджінь, включаючі вшыткы повязаных і ближных прав.',
 	'wm-license-cecill-text' => 'Тото дїло є [[{{int:wm-license-free-software-wiki-link}}|слободный софтвер]]; можете го управляти лем за подмінок ліценції [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Текст ліценції CeCILL є доступный на [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Алтернатівны імена',
 	'wm-license-creator-description' => 'Опис',

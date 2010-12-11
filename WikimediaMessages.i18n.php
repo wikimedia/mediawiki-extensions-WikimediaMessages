@@ -1779,14 +1779,14 @@ $messages['ckb'] = array(
 	'group-inactive' => 'بەکارهێنەرانی ناچالاک',
 	'group-inactive-member' => 'بەکارهێنەری ناچالاک',
 	'grouppage-inactive' => '{{ns:project}}: بەکارهێنەرانی ناچالاک',
-	'wikimedia-copyright' => 'دەقەکە لەژێر <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛<br />
-لەوانەیە مەرجی تریشی پێ زیاد ببێ.<br />
+	'wikimedia-copyright' => 'دەق لەژێر <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛
+لەوانەیە مەرجی تریشی پێ زیاد ببێ.
 سەیری <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.',
-	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، بە بێگەڕانەوە قەبووڵ دەکەی کە بەشدارییەکەت لەژێر [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
-قەبووڵ دەکەی، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەن بەکارھێنەرانی تر ناوتان لێببەن.
-سەیری [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکەن بۆ وردەکارییەکان.',
-	'wikimedia-editpage-tos-summary' => 'ئەگەر ناتەوێ نووسراوەکەت بە ئارەزوو دەستکاری بکرێ و تێکبدرێت، لێرە پێشکەشی مەکە.
-ئەگەر خۆت ئەمەت نەنووسیوە، ئەشێ لە ژێر [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان لە ویکیمیدیا] لە بەردەست دا بێت و قەبووڵ ئەکەیت کە لە ھەر پێداویستییەکی پەیوەندی‌‌داری لایسەنس پەیڕەوی بکەی.',
+	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
+قەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.
+سەیری [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.',
+	'wikimedia-editpage-tos-summary' => 'ئەگەر ناتەوێ نووسراوەکەت بە ئارەزوو دەستکاری بکرێت و تێکبدرێت، لێرە دایمەنێ.
+ئەگەر خۆت ئەمەت نەنووسیوە، دەبێ دڵنیا بیت کە لەژێر [http://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان]دا لە بەردەستدایە و قەبووڵ دەکەیت کە پەیڕەوی بکەیت لە ھەموو ویستەمەنییە مۆڵەتنامەیییە پەیوەندی‌‌دارەکان.',
 );
 
 /** Corsican (Corsu) */
