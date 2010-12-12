@@ -11274,6 +11274,7 @@ $messages['zea'] = array(
 /** Simplified Chinese (‪中文(简体)‬)
  * @author Bencmq
  * @author Gaoxuewei
+ * @author Hydra
  * @author Jimmy xu wrk
  * @author KaiesTse
  * @author PhiLiP
@@ -11296,6 +11297,7 @@ $messages['zh-hans'] = array(
 	'group-bigexport' => '大量导出者',
 	'group-confirmed' => '已确认用户',
 	'group-editprotected' => '受保护页面编辑者',
+	'group-eliminator' => '液滴',
 	'group-filemover' => '文件移动员',
 	'group-flood' => '机器人用户',
 	'group-founder' => '创办人',
@@ -11317,6 +11319,7 @@ $messages['zh-hans'] = array(
 	'group-bigexport-member' => '大量导出者',
 	'group-confirmed-member' => '已确认用户',
 	'group-editprotected-member' => '受保护页面编辑者',
+	'group-eliminator-member' => '液滴人',
 	'group-filemover-member' => '文件移动员',
 	'group-flood-member' => '机器人用户',
 	'group-founder-member' => '创办人',
@@ -11338,6 +11341,7 @@ $messages['zh-hans'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:大量导出者',
 	'grouppage-confirmed' => '{{ns:project}}:已确认用户',
 	'grouppage-editprotected' => '{{ns:project}}:受保护页面编辑者',
+	'grouppage-eliminator' => '{{ns:project}}：液滴人',
 	'grouppage-filemover' => '{{ns:project}}:文件移动员',
 	'grouppage-flood' => '{{ns:project}}:机器人用户',
 	'grouppage-founder' => '{{ns:project}}:创办人',

@@ -18010,6 +18010,7 @@ $messages['zh-classical'] = array(
 );
 
 /** Simplified Chinese (‪中文(简体)‬)
+ * @author Hydra
  * @author Multichill
  * @author Mys 721tx
  * @author Shizhao
@@ -18208,7 +18209,9 @@ $messages['zh-hans'] = array(
 	'wm-license-cecill-text' => '本作品为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]。你可据[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]的条款传播或修改本作品。[{{int:wm-license-cecill-full-link}} www.cecill.info]网站提供CeCILL许可协议条款。',
 	'wm-license-creator-alternative-names' => '别名',
 	'wm-license-creator-description' => '描述',
+	'wm-license-creator-date-of-birth' => '出生日期',
 	'wm-license-creator-date-of-birth-and-death' => '出生日期',
+	'wm-license-creator-location-of-birth' => '出生地点',
 	'wm-license-creator-location-of-birth-and-death' => '出生（逝世）地点',
 	'wm-license-creator-work-period' => '作品年代',
 	'wm-license-creator-work-location' => '创作地点',
