@@ -10788,6 +10788,7 @@ $messages['mk'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Морате да го наведете делото на начин определен од авторот или лицензорот (но не на начин кој сугерира дека тој ве застапува или ја застапува употребата на делото.)',
 	'wm-license-cc-conditions-share_alike-header' => 'сподели под исти услови',
 	'wm-license-cc-conditions-share_alike-text' => 'Ако го измените или преобразите делото, или пак ако основате друго дело на него, добиеното дело можете да го дистрибуирате само под иста или слична лиценца на оваа.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.mk',
 	'wm-license-cc-pd-mark-text' => 'Утврдено е дека оваа податотека не е ограничена со авторски права, вклучувајќи ги сите сродни и соседни права.',
 	'wm-license-cecill-text' => 'Ова дело е [[{{int:wm-license-free-software-wiki-link}}|слободна програмска опрема]]; можете да го редистрибуирате или менувате под условите на лиценцата [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Овие услови ќе ги најдете на [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:mk:CeCILL',
