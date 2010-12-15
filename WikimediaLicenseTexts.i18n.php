@@ -9379,6 +9379,7 @@ $messages['ko'] = array(
 	'wm-license-cc-by-3.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by/3.0/deed.ko 저작자표시 3.0 Unported] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] 저작자표시 [http://creativecommons.org/licenses/by/3.0/deed.ko 3.0], [http://creativecommons.org/licenses/by/2.5/deed.ko 2.5], [http://creativecommons.org/licenses/by/2.0/deed.ko 2.0], [http://creativecommons.org/licenses/by/1.0/deed.ko 1.0] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-at-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by/3.0/at/deed.ko 저작자표시 3.0 오스트리아] 라이선스로 배포됩니다.',
+	'wm-license-cc-by-3.0-au-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by/3.0/au/deed.ko 저작자표시 3.0 오스트레일리아] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-cz-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by/3.0/cz/deed.ko 저작자표시 3.0 체코] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-de-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by/3.0/de/deed.ko 저작자표시 3.0 독일] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-es-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by/3.0/es/deed.ko 저작자표시 3.0 스페인] 라이선스로 배포됩니다.',
@@ -9458,6 +9459,7 @@ $messages['ko'] = array(
 	'wm-license-cc-by-sa-3.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 저작자표시-동일조건변경허락 3.0 Unported] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] 저작자표시-동일조건변경허락 [http://creativecommons.org/licenses/by-sa/3.0/ 3.0], [http://creativecommons.org/licenses/by/2.5/deed.ko 2.5], [http://creativecommons.org/licenses/by/2.0/deed.ko 2.0], [http://creativecommons.org/licenses/by/1.0/deed.ko 1.0] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-at-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.ko 저작자표시-동일조건변경허락 3.0 오스트리아] 라이선스로 배포됩니다.',
+	'wm-license-cc-by-sa-3.0-au-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by-sa/3.0/au/deed.ko 저작자표시-동일조건변경허락 3.0 오스트레일리아] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-cz-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.ko 저작자표시-동일조건변경허락 3.0 체코] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-de-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.ko 저작자표시-동일조건변경허락 3.0 독일] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-es-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.ko 저작자표시-동일조건변경허락 3.0 스페인] 라이선스로 배포됩니다.',
@@ -14659,6 +14661,7 @@ $messages['sh'] = array(
 /** Sinhala (සිංහල)
  * @author Calcey
  * @author Pasanbhathiya2
+ * @author Thameera123
  * @author චතුනි අලහප්පෙරුම
  */
 $messages['si'] = array(
@@ -14832,6 +14835,7 @@ $messages['si'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'කතෘ හෝ බලපත්‍රදායකයා නිරූපනය කර ඇති ආකාරයට ඔබ විසින් කාර්යය ආරෝපණය කළ යුතුයි.(නමුත් ඔබ හෝ කාර්යයයේදී ඔබේ භාවිතය ඔවුන් විසින් අනුමත කරන බව හඟවන කිසිම ආකාරයකින් නොවේ.)',
 	'wm-license-cc-conditions-share_alike-header' => 'සමානව බෙදාහදා ගැනීම',
 	'wm-license-cc-conditions-share_alike-text' => 'ඔබ වෙනස් කිරීම,පරිණාමනය කිරීම හෝ මෙම කාර්යය මත ගොඩනැගීම සිදු කරයි නම්,ඔබ ඵලිත කාර්යය බෙදා හරිනු ලබන්නේ මෙයට සමාන වූ බලපත්‍රයක් යටතේය.',
+	'wm-license-creator-date-of-birth-and-death' => 'උපන්දිනය',
 	'wm-license-fsf-wiki-link' => 'w:si:නිදහස් මෘදුකාංග පදනම',
 	'wm-license-free-software-wiki-link' => 'w:si:නිදහස් මෘදුකාංග',
 	'wm-license-information-table-summary' => 'එය පෙන්වන්නේ කුමක්ද හා නිමැවුනේ කෙසේද, එහි හිමිකම් තත්ත්වයන් හා මූලාශ්‍රයන් යන දේ ගැන විස්තරයන්ද ඇතුළුව,ගොනුව පිළිබඳ පූර්ණ තොරතුරු සපයන ප්‍රමිතිගත වගුවකි.',
