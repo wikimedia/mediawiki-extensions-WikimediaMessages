@@ -778,14 +778,15 @@ $messages['arz'] = array(
 );
 
 /** Assamese (অসমীয়া)
+ * @author Chaipau
  * @author Psneog
  * @author Rajuonline
  */
 $messages['as'] = array(
 	'sitesupport' => 'দান-বৰঙনি',
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
-	'group-Staff' => 'কর্মীবৃন্দ',
-	'group-Staff-member' => 'কর্মচাৰী',
+	'group-Staff' => 'কৰ্মীবৃন্দ',
+	'group-Staff-member' => 'কৰ্মচাৰী',
 );
 
 /** Asturian (Asturianu)
@@ -9154,6 +9155,7 @@ $messages['so'] = array(
 
 /** Albanian (Shqip)
  * @author Dori
+ * @author Mikullovci11
  * @author Puntori
  */
 $messages['sq'] = array(
@@ -9165,8 +9167,11 @@ $messages['sq'] = array(
 	'group-founder-member' => 'themelues',
 	'group-import-member' => 'importues',
 	'group-steward' => 'Përgjegjës',
+	'group-sysadmin' => 'Sistemi administrativ',
+	'group-Global_bot' => 'Robotet global',
 	'group-Staff' => 'Stafi',
 	'group-steward-member' => 'Përgjegjës',
+	'group-Global_bot-member' => 'robot global',
 	'group-Staff-member' => 'anëtar i stafit',
 	'group-coder' => 'Koduesit',
 	'group-coder-member' => 'kodues',
