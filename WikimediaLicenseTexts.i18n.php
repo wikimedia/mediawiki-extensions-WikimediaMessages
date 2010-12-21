@@ -2855,6 +2855,7 @@ $messages['crh-cyrl'] = array(
 
 /** Czech (Česky)
  * @author Juan de Vojníkov
+ * @author Krinkle
  * @author Matěj Grabovský
  * @author Mormegil
  * @author Multichill
@@ -3054,6 +3055,7 @@ $messages['cs'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Musíte uvést autorství práce způsobem, jakým to požaduje autor nebo držitel licence (ale ne způsobem, který by naznačoval, že podporují vás nebo vaše využití díla).',
 	'wm-license-cc-conditions-share_alike-header' => 'zachování licence',
 	'wm-license-cc-conditions-share_alike-text' => 'Pokud toto dílo změníte, převedete do jiné podoby nebo použijte jako základ jiného díla, můžete výsledné odvozené dílo šířit pouze pod stejnou nebo podobnou licencí jako je tato.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.cs',
 	'wm-license-cc-pd-mark-text' => 'Bylo zjištěno, že u tohoto souboru nejsou známa žádná omezení daná autorským právem a právy s ním souvisejícími.',
 	'wm-license-cecill-text' => 'Toto dílo je [[{{int:wm-license-free-software-wiki-link}}|svobodný software]]; můžete je upravovat za podmínek licence [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Text licence CeCILL je dostupný na [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Pseudonym',
@@ -3584,6 +3586,7 @@ $messages['da'] = array(
  * @author CygnusOlor
  * @author Guillom
  * @author Kghbln
+ * @author Krinkle
  * @author Kwj2772
  * @author Metalhead64
  * @author Multichill
@@ -3787,6 +3790,7 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-cc-conditions-attribution-text' => 'Du musst den Namen des Autors/Rechteinhabers in der von ihm festgelegten Weise nennen (aber nicht so, dass es so aussieht, als würde er dich oder deine Verwendung des Werks unterstützen).',
 	'wm-license-cc-conditions-share_alike-header' => 'Weitergabe unter gleichen Bedingungen',
 	'wm-license-cc-conditions-share_alike-text' => 'Wenn du das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeitest, abwandelst oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwendest, darfst du die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben, die mit denen dieses Lizenzvertrages identisch, vergleichbar oder kompatibel sind.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.de',
 	'wm-license-cc-pd-mark-text' => 'Diese Datei wurde als bar jeglicher bekannter Einschränkungen des Urheberrechts, einschließlich verbundener und benachbarter Rechte erkannt.',
 	'wm-license-cecill-text' => 'Dieses Werk ist [[{{int:wm-license-free-software-wiki-link}}|freie Software]]; es darf unter den Bedingungen der [[{{int:wm-license-cecill-wiki-link}}|CeCILL-Lizenz]] weitergeben oder modifiziert werden.
 Die Bedingungen der CeCILL-Lizenz sind verfügbar unter [{{int:wm-license-cecill-full-link}} www.cecill.info].',
@@ -4520,6 +4524,7 @@ $messages['eo'] = array(
 /** Spanish (Español)
  * @author Crazymadlover
  * @author Dferg
+ * @author Krinkle
  * @author Locos epraix
  * @author Multichill
  * @author Platonides
@@ -4721,7 +4726,8 @@ $messages['es'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Debes atribuir el trabajo de la manera especificada por el autor o persona que lo haya licenciado (pero no de manera que sugiera que estas personas te respaldan o respaldan el uso que hagas del trabajo).',
 	'wm-license-cc-conditions-share_alike-header' => 'compartir similar',
 	'wm-license-cc-conditions-share_alike-text' => 'En caso de alterar, transformar o ampliar este trabajo, deberá distribuir el trabajo resultante sólo bajo la misma licencia o una similar.',
-	'wm-license-cc-pd-mark-text' => 'Este archivo ha sido identificado como libre de restricciones conocidas bajo la Ley de derechos de autor, incluidos todos los derechos conexos y vecinos.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.es',
+	'wm-license-cc-pd-mark-text' => 'Esta obra ha sido identificada como libre de las restricciones conocidas en virtud del derecho de autor, incluyendo todos los derechos conexos.',
 	'wm-license-cecill-text' => 'Esta obra es [[{{int:wm-license-free-software-wiki-link}}|software libre]]; puede ser redistribuida o modificada según los términos de la licencia [[{{int:wm-license-cecill-wiki-link}}|CeCILL]].El texto de esta licencia puede ser consultado en [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:es:CeCILL',
 	'wm-license-creator-alternative-names' => 'Otros nombres',
@@ -8487,6 +8493,7 @@ $messages['is'] = array(
  * @author Darth Kule
  * @author Diebuche
  * @author Gianfranco
+ * @author Krinkle
  * @author Multichill
  * @author OrbiliusMagister
  * @author Trixt
@@ -8686,6 +8693,7 @@ $messages['it'] = array(
 	'wm-license-cc-conditions-attribution-text' => "Devi attribuire la paternità dell'opera nei modi indicati dall'autore o da chi ti ha dato l'opera in licenza e in modo tale da non suggerire che essi avallino te o il modo in cui tu usi l'opera.",
 	'wm-license-cc-conditions-share_alike-header' => 'condividi allo stesso modo',
 	'wm-license-cc-conditions-share_alike-text' => "Se alteri, trasformi o sviluppi quest'opera puoi distribuire l'opera risultante solo con la stessa licenza o una simile a questa.",
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.it',
 	'wm-license-cecill-text' => "Quest'opera è [[{{int:wm-license-free-software-wiki-link}}|software libero]], è possibile redistribuirlo o modificarlo secondo i termini della [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. I termini della licenza CeCILL sono disponibili presso [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	'wm-license-cecill-wiki-link' => 'w:it:CeCILL',
 	'wm-license-creator-alternative-names' => 'Altri nomi',
@@ -12718,6 +12726,7 @@ $messages['ps'] = array(
  * @author GTNS
  * @author Giro720
  * @author Hamilton Abreu
+ * @author Krinkle
  * @author Lijealso
  * @author Multichill
  */
@@ -12916,6 +12925,7 @@ $messages['pt'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Tem de atribuir a autoria da obra, da forma especificada pelo seu autor ou licenciante (mas não de forma a sugerir que estes o apoiam ou subscrevem o seu uso da obra).',
 	'wm-license-cc-conditions-share_alike-header' => 'partilha nos termos da mesma licença',
 	'wm-license-cc-conditions-share_alike-text' => 'Se alterar, transformar ou ampliar esta obra, só pode distribuir a obra resultante licenciando-a com a mesma licença ou com uma licença semelhante a esta.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.pt',
 	'wm-license-cc-pd-mark-text' => 'Este ficheiro foi identificado como livre de restrições conhecidas devidas a direitos de autor, incluindo todos os direitos conexos.',
 	'wm-license-cecill-text' => 'Esta obra é [[{{int:wm-license-free-software-wiki-link}}|software livre]]; pode redistribui-la ou modificá-la nos termos da licença [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Os termos da licença CeCILL estão disponíveis em [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Nomes alternativos',
@@ -13297,6 +13307,7 @@ $messages['rmy'] = array(
  * @author Cin
  * @author Firilacroco
  * @author KlaudiuMihaila
+ * @author Krinkle
  * @author Memo18
  * @author Minisarm
  * @author Multichill
@@ -13480,6 +13491,7 @@ $messages['ro'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Trebuie să atribuiți opera în maniera specificată de autor sau licențiator (dar sub nicio formă care ar sugera faptul că aceștia v-ar susține sau ar aproba folosirea de către dumneavoastră a operei).',
 	'wm-license-cc-conditions-share_alike-header' => 'partajând în condiții identice',
 	'wm-license-cc-conditions-share_alike-text' => 'Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.ro',
 	'wm-license-creator-alternative-names' => 'Nume alternative',
 	'wm-license-creator-description' => 'Descriere',
 	'wm-license-creator-date-of-birth' => 'Data nașterii',
@@ -13719,6 +13731,7 @@ $messages['roa-tara'] = array(
 /** Russian (Русский)
  * @author Aleksandrit
  * @author Kaganer
+ * @author Krinkle
  * @author Lockal
  * @author MaxSem
  * @author Multichill
@@ -13921,6 +13934,7 @@ $messages['ru'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Вы должны указывать авторство (источник) данного произведения в виде, установленном автором или лицензиаром (но ни в коем случае не таким образом, который наводит на мысль, что автор поддерживает вас или ваше использование данного произведения).',
 	'wm-license-cc-conditions-share_alike-header' => 'распространение на тех же условиях',
 	'wm-license-cc-conditions-share_alike-text' => 'Если вы изменяете, преобразуете или создаёте иную производную работу на основании этого произведения, вы можете распространять полученное в результате произведение только на условиях такой же или совместимой лицензии.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.ru',
 	'wm-license-cc-pd-mark-text' => 'Этот файл был определён как свободный от известных ограничений авторского права, а также связанных и смежных прав.',
 	'wm-license-cecill-text' => 'Это произведение является [[{{int:wm-license-free-software-wiki-link}}|свободным программным обеспечением]]; вы можете распространять и изменять его в соответствии с условиями [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Условия лицензии CeCILL доступны на сайте [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:ru:CeCILL',
@@ -15740,6 +15754,7 @@ $messages['su'] = array(
  * @author Boivie
  * @author Cohan
  * @author Dafer45
+ * @author Krinkle
  * @author Multichill
  * @author Nghtwlkr
  * @author Per
@@ -15926,6 +15941,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-cc-conditions-attribution-text' => 'Du måste ange upphovsmannen och/eller licensgivaren på det sätt de anger (men inte på ett sätt som antyder att de godkänt eller rekommenderar din använding av verket).',
 	'wm-license-cc-conditions-share_alike-header' => 'dela lika',
 	'wm-license-cc-conditions-share_alike-text' => 'Om du ändrar, bearbetar eller bygger vidare på verket får du endast distribuera resultatet under samma licens, en liknande licens eller en licens som är kompatibel med denna licens.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.sv',
 	'wm-license-cecill-text' => 'Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri mjukvara]]; du kan vidaredistribuera och modifiera det enligt villkoren i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkoren i CeCILL licensen finns på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fal-text' => "Copyleft: Detta konstverk är fritt; du kan vidaredistribuera det och/eller modifiera det enligt villkoren i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du hittar ett exemplar av denna licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude site], såväl som på andra sidor.",
 	'wm-license-fsf-wiki-link' => 'w:sv:Free Software Foundation',
