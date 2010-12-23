@@ -1366,9 +1366,13 @@ $messages['bn'] = array(
 এই লেখা যদি আপনার রচিত না হয়, তা অবশ্যই এই [http://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সঙ্গে সঙ্গতিপূর্ণ কোনো শর্তাবলী অনুযায়ী ব্যবহারযোগ্য হতে হবে, এবং আপনি এতদ্বারা সম্পর্কিত যেকোন লাইসেন্সের শর্তাবলী পালনে সম্মতি জানাচ্ছেন।',
 );
 
-/** Tibetan (བོད་ཡིག) */
+/** Tibetan (བོད་ཡིག)
+ * @author Freeyak
+ */
 $messages['bo'] = array(
 	'sitesupport' => 'ཞལ་འདེབས།',
+	'tooltip-n-sitesupport' => 'ང་ཚོར་རོགས་སྐྱོར།',
+	'group-founder-member' => 'གསར་གཏོད་བྱེད་མཁན།',
 );
 
 /** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
