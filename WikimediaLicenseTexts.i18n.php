@@ -11512,6 +11512,7 @@ $messages['ne'] = array(
  * @author Krinkle
  * @author McDutchie
  * @author Multichill
+ * @author Paul B
  * @author Romaine
  * @author Siebrand
  */
@@ -11773,7 +11774,7 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 	'wm-license-pd-author-self-text' => "Ik, de auteursrechthebbende van dit werk, geef dit werk vrij in het '''[[{{int:wm-license-pd-wiki-link}}|publieke domein]]'''. Dit is wereldwijd van toepassing.",
 	'wm-license-pd-author-with-author-text' => "Dit werk vrijgegeven in het '''[[{{int:wm-license-pd-wiki-link}}|publieke domein]]''' door de auteur, '''$1'''. Dit is wereldwijd van toepassing.",
 	'wm-license-pd-author-not-legally-possible' => 'In sommige landen is dit wettelijk niet mogelijk; in die gevallen geldt:',
-	'wm-license-pd-author-self-any-purpose' => "Ik sta iedereen toe dit werk '''voor enig welk doel''' te gebruiken, zonder enige voorwaarden, tenzij zulke voorwaarden door de wet worden voorgeschreven.",
+	'wm-license-pd-author-self-any-purpose' => "Ik sta iedereen toe dit werk '''voor eender welk doel''' te gebruiken, zonder enige voorwaarden, tenzij zulke voorwaarden door de wet worden voorgeschreven.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 staat iedereen toe dit werk '''voor enig welk doel''' te gebruiken, zonder enige voorwaarden, tenzij zulke voorwaarden door de wet worden voorgeschreven.",
 	'wm-license-pd-wiki-link' => 'w:nl:Publiek domein',
 	'wm-license-self-one-license' => 'Ik, de auteursrechthebbende van dit werk, maak het hierbij onder de volgende licentie beschikbaar:',
