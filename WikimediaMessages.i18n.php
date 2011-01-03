@@ -32,6 +32,12 @@ $messages['en'] = array(
 	# Per http://lists.wikimedia.org/pipermail/wikitech-l/2008-September/039454.html
 	'robots.txt'  => '# Lines here will be added to the global robots.txt', # do not translate or duplicate this message to other languages
 
+	# Wikimedia specific extra namespaces
+	'nstab-creator'     => 'Creator', # Wikimedia Commons
+	'nstab-institution' => 'Institution', # Wikimedia Commons
+	'nstab-sequence'    => 'Sequence', # Wikimedia Commons
+	'nstab-timedtext'   => 'TimedText', # Wikimedia Commons
+
 	# Wikimedia specific usergroups
 	'group-abusefilter'           => 'Abuse filter editors',
 	'group-accountcreator'        => 'Account creators',
@@ -179,6 +185,10 @@ $messages['qqq'] = array(
 
 {{Identical|Donate}}",
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
+	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([http://commons.wikimedia.org/wiki/Creator:Heinrich_Hoerle Example])',
+	'nstab-institution' => 'Text on the tab of pages in the "Institution" namespace on Wikimedia Commons ([http://commons.wikimedia.org/wiki/Institution:Wallraf-Richartz-Museum Example])',
+	'nstab-sequence' => 'Text on the tab of pages in the "Sequence" namespace on Wikimedia Commons ([http://commons.wikimedia.org/wiki/Sequence:Cats Example])',
+	'nstab-timedtext' => 'Text on the tab of pages in the "TimedText" namespace on Wikimedia Commons ([http://commons.wikimedia.org/wiki/TimedText:Edit_Button.ogv.en.srt Example])',
 	'group-accountcreator' => 'A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]]. See also {{msg|group-accountcreator-member}}.',
 	'group-bigexport' => 'Big export user has a right to: {{int:right-override-export-depth}}',
 	'group-eliminator' => 'Usergroup introduced for ptwiki ([http://pt.wikipedia.org/wiki/Especial:Lista_de_privil%C3%A9gios_de_grupos Especial:Lista de privilégios de grupos], [https://bugzilla.wikimedia.org/show_bug.cgi?id=24623 Bug 24623])',
