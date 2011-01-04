@@ -4481,7 +4481,7 @@ $messages['eo'] = array(
 	'wm-license-cc-sa-2.0-jp-text' => 'Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.eo Samkondiĉe 2.0 Japanujo].',
 	'wm-license-cc-zero-text' => 'Ĉi tiu dosiero estas disponebla laŭ la [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] 
 [http://creativecommons.org/publicdomain/zero/1.0/deed.eo CC0 1.0 Universala Publikaĵiga Dediĉo].',
-	'wm-license-cc-zero-explanation' => 'La homo kiu asociis verkon kun ĉi tiu faro dediĉis la verkon al la [[{{int:wm-license-pd-wiki-link}}|publika domajno]] forlasante ĉiujn de liaj aŭ ŝiaj rajtoj al la verko mondvaste sub kopirajta leĝo inkluzivante ĉiujn rilatajn aŭ najbarajn rajtojn permesitajn de leĝo. Oni povas kopii, modifi, distribui kaj ludi laverkon, ja por komercaj kialoj, ĉiuj sen petante permeson.',
+	'wm-license-cc-zero-explanation' => 'La homo kiu asociis verkon kun ĉi tiu faro dediĉis la verkon kiel [[{{int:wm-license-pd-wiki-link}}|publikaĵon]] forlasante ĉiujn de liaj aŭ ŝiaj rajtoj al la verko mondvaste sub aŭtorrajta leĝo inkluzivante ĉiujn rilatajn aŭ najbarajn rajtojn permesitajn de leĝo. Oni povas kopii, modifi, distribui kaj ludi laverkon, ja por komercaj kialoj, ĉiuj sen petante permeson.',
 	'wm-license-cc-free' => 'Vi rajtas:',
 	'wm-license-cc-free-to-share-header' => 'kunhavigi',
 	'wm-license-cc-free-to-share-text' => 'kopii, distribui kaj publikigi la verkon',
@@ -15759,6 +15759,7 @@ $messages['sq'] = array(
 	'wm-license-information-permission' => 'Leja',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Versione tjera',
+	'wm-license-own-work' => 'E bërë vet',
 	'wm-license-pd-wiki-link' => 'w:sq:Domen publik',
 );
 
@@ -15789,6 +15790,7 @@ $messages['sr'] = array(
 );
 
 /** Serbian Cyrillic ekavian (Српски (ћирилица))
+ * @author Rancher
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -15797,7 +15799,7 @@ $messages['sr-ec'] = array(
 	'wm-license-cc-free-to-share-header' => 'да распрострањујете',
 	'wm-license-cc-free-to-remix-text' => 'да прилагођавате рад',
 	'wm-license-cc-conditions' => 'Под следећим условима:',
-	'wm-license-information-description' => 'Опис слике',
+	'wm-license-information-description' => 'Опис',
 	'wm-license-information-source' => 'Извор',
 	'wm-license-information-source-missing' => "Овом фајли недостаје информација о '''извору'''.",
 	'wm-license-information-date' => 'Датум',
@@ -17942,6 +17944,7 @@ $messages['vi'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Bạn phải ghi công tác phẩm theo cách tác giả hoặc người cấp phép bản quyền quy định (nhưng không phải cách hàm ý họ chứng thực bạn hoặc việc sử dụng tác phẩm của bạn).',
 	'wm-license-cc-conditions-share_alike-header' => 'chia sẻ tương tự',
 	'wm-license-cc-conditions-share_alike-text' => 'Nếu bạn thay thế, biến đổi, hoặc làm tác phẩm khác dựa trên tác phẩm này, bạn chỉ được phân phối tác phẩm mới tạo ra với một giấy phép y hệt, tương tự hoặc tương thích.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.vi',
 	'wm-license-cc-pd-mark-text' => 'Tập tin này đã được đánh dấu là không bị hạn chế dưới luật bản quyền, kể cả tất cả những quyền liên quan và lần cận.',
 	'wm-license-cecill-text' => 'Tác phẩm này là [[{{int:wm-license-free-software-wiki-link}}|phần mềm tự do]]; bạn có phép tái phân phối hoặc sửa đổi nó dưới những điều khoản của [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Những điều khoản của giấy phép CeCILL có sẵn tại [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Tên khác',
