@@ -2596,6 +2596,7 @@ $messages['eml'] = array(
  * @author ArnoLagrange
  * @author Marcos
  * @author Michawiki
+ * @author Mihxil
  * @author Petrus Adamus
  * @author Tlustulimu
  * @author Yekrats
@@ -2607,6 +2608,9 @@ $messages['eo'] = array(
 	'sitesupport' => 'Donaci',
 	'tooltip-n-sitesupport' => 'Subteni nin per mono',
 	'specialpages-group-contribution' => 'Kontribuoj/Monkolekto',
+	'nstab-creator' => 'Kreinto',
+	'nstab-institution' => 'Institucio',
+	'nstab-sequence' => 'Sinsekvo',
 	'group-abusefilter' => 'Redaktantoj de misuzadaj filtriloj',
 	'group-accountcreator' => 'Kreintoj de kontoj',
 	'group-arbcom' => 'Komitatano de arbitracia komitato',
@@ -6562,6 +6566,10 @@ $messages['ml'] = array(
 	'sitesupport' => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
 	'specialpages-group-contribution' => 'സംഭാവനകൾ/ഫണ്ട്‌‌റെയ്സർ',
+	'nstab-creator' => 'സ്രഷ്ടാവ്',
+	'nstab-institution' => 'സ്ഥാപനം',
+	'nstab-sequence' => 'ശ്രേണി',
+	'nstab-timedtext' => 'സമയരേഖ',
 	'group-abusefilter' => 'ദുരുപയോഗ അരിപ്പ തിരുത്തുന്നവർ',
 	'group-accountcreator' => 'അംഗത്വ സ്രഷ്ടാക്കൾ',
 	'group-arbcom' => 'മദ്ധ്യസ്ഥ സമിതി അംഗങ്ങൾ',
@@ -7977,6 +7985,9 @@ $messages['pt-br'] = array(
 	'sitesupport' => 'Doações',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'specialpages-group-contribution' => 'Contribuições/Angariação de fundos',
+	'nstab-creator' => 'Criador',
+	'nstab-institution' => 'Instituição',
+	'nstab-sequence' => 'Sequência',
 	'group-abusefilter' => 'Editores de filtros de abuso',
 	'group-accountcreator' => 'Criadores de contas',
 	'group-arbcom' => 'Membros do comitê de arbitragrem',
@@ -10657,6 +10668,7 @@ $messages['ug-latn'] = array(
  * @author NickK
  * @author Prima klasy4na
  * @author Riwnodennyk
+ * @author Тест
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Повідомлення, характерні для Вікімедіа',
@@ -10664,6 +10676,7 @@ $messages['uk'] = array(
 	'sitesupport' => 'Пожертвування',
 	'tooltip-n-sitesupport' => 'Підтримайте проект',
 	'specialpages-group-contribution' => 'Пожертвування/Збір коштів',
+	'nstab-creator' => 'Автор',
 	'group-abusefilter' => 'Редактори фільтра зловживань',
 	'group-accountcreator' => 'Створювачі облікових записів',
 	'group-arbcom' => 'Члени арбітражного комітету',
@@ -11388,6 +11401,10 @@ $messages['zh-hans'] = array(
 	'sitesupport' => '资助',
 	'tooltip-n-sitesupport' => '资助我们',
 	'specialpages-group-contribution' => '贡献/募捐者',
+	'nstab-creator' => '创建者',
+	'nstab-institution' => '机构',
+	'nstab-sequence' => '序列',
+	'nstab-timedtext' => '时间文字',
 	'group-abusefilter' => '防滥用过滤器编辑者',
 	'group-accountcreator' => '账户创建员',
 	'group-arbcom' => '仲裁委员会成员',

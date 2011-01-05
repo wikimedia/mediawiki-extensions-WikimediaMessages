@@ -4290,6 +4290,7 @@ $messages['en-gb'] = array(
 /** Esperanto (Esperanto)
  * @author Castelobranco
  * @author Marcos
+ * @author Mihxil
  * @author Multichill
  * @author Petrus Adamus
  * @author ThomasPusch
@@ -4492,6 +4493,7 @@ $messages['eo'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Vi devas atribui la verkon en la maniero specifita de la aŭtoro aŭ permesinto (sed ne en kielo supoziganta, ke ili subtenas vin, vian laboron aŭ verkon).',
 	'wm-license-cc-conditions-share_alike-header' => 'samkondiĉe',
 	'wm-license-cc-conditions-share_alike-text' => 'Se vi aliigas la verkon, transformas ĝin aŭ kreas devenaĵon bazitan sur ĝi, vi rajtas distribui la rezultan verkon nur laŭ la sama aŭ kongrua permesilo kompare kun ĉi tiu.',
+	'wm-license-cc-pd-mark-text' => 'Estis konkludite ke uzon de ĉi tiu dosiero limigas neniu konata kopirajta leĝo, kio inkluzivas ĉiujn rilatajn kaj apudajn rajtojn.',
 	'wm-license-cecill-text' => 'Ĉi tiu verko estas [[{{int:wm-license-free-software-wiki-link}}|libera programo]]; vi povas redistribui aŭ modifi ĝin laŭ la kondiĉoj de la permesilo [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. La kondiĉoj de la permesilo CeCILL estas videblaj en [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Alternativaj nomoj',
 	'wm-license-creator-description' => 'Priskribo',
@@ -4499,7 +4501,9 @@ $messages['eo'] = array(
 	'wm-license-creator-date-of-birth-and-death' => 'Dato de naskiĝo/morto',
 	'wm-license-creator-location-of-birth' => 'Loko de naskiĝo',
 	'wm-license-creator-location-of-birth-and-death' => 'Loko de naskiĝo/morto',
+	'wm-license-creator-work-period' => 'Laborperiodo',
 	'wm-license-creator-work-location' => 'Loko de laboro',
+	'wm-license-creator-linkback' => 'Ligo reen al ŝablono por informskatolo pri kreinto.',
 	'wm-license-fal-text' => "Rajtocedo (\"Copyleft\"): Ĉi tiu verko de arto estas libera; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la reguloj de la '''[[{{int:wm-license-fal-wiki-link}}|Permesilo por Libera Arto]]'''. Vi trovos specimenon de ĉi tiu permesilo en la [{{int:wm-license-fal-full-link}} retejo Rajtocedo] kaj ankaŭ aliaj retejoj.",
 	'wm-license-fsf-wiki-link' => 'w:eo:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:eo:Libera programaro',
@@ -12676,8 +12680,8 @@ $messages['pms'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.en Atribussion-Partagi ugual 1.0 Finlandia].",
 	'wm-license-cc-sa-1.0-nl-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.en Atribussion-Partagi ugual 1.0 Pais Bass].",
 	'wm-license-cc-sa-2.0-jp-text' => "Cost archivi a l'é smonù sota la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.en Atribussion-Partagi ugual 2.0 Giapon].",
-	'wm-license-cc-zero-text' => "Cost archivi a l'é smonù sota la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication].",
-	'wm-license-cc-zero-explanation' => "La përson-a ch'a l'ha associà un travaj con sto document-sì a l'ha smonù ël travaj al [[{{int:wm-license-pd-wiki-link}}|pùblich domini]] an arnonsiand a tùit ij sò drit an sël travaj ant ël mond sota la lege dij drit d'autor, comprèis ij relativ o vzin drit, për l'estension përmëttùa da la lèj. It peule copié, modifiché, distribuì e fé e travaj, ëdcò për but comersiaj, tut sensa ciamé përmess.",
+	'wm-license-cc-zero-text' => "Cost archivi a l'é smonù sota la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 cadò universal ëd domini pùblich].",
+	'wm-license-cc-zero-explanation' => "La përson-a ch'a l'ha associà un travaj con sto document-sì a l'ha smonù ël travaj al [[{{int:wm-license-pd-wiki-link}}|pùblich domini]] an arnonsiand a tùit ij sò drit an sël travaj ant ël mond sota la lege dij drit d'autor, comprèis ij drit relativ o amparentà, për l'estension përmëttùa da la lèj. A peul copié, modifiché, distribuì e fé ël travaj, ëdcò con dij but comersiaj, tut sensa ciamé ël përmess.",
 	'wm-license-cc-free' => "Chiel a l'é lìber:",
 	'wm-license-cc-free-to-share-header' => 'ëd partagé',
 	'wm-license-cc-free-to-share-text' => 'ëd copié, distribuì e fé giré cost travaj',
