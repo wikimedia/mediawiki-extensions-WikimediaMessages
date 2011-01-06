@@ -1523,6 +1523,10 @@ $messages['bs'] = array(
 	'sitesupport' => 'Donacije',
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'specialpages-group-contribution' => 'Doprinosi/donacije',
+	'nstab-creator' => 'Izrađivač',
+	'nstab-institution' => 'Ustanova',
+	'nstab-sequence' => 'Niz',
+	'nstab-timedtext' => 'VremenskiTekst',
 	'group-abusefilter' => 'Uređivači filtera zloupotrebe',
 	'group-accountcreator' => 'Kreatori računa',
 	'group-arbcom' => 'Članovi komiteta za arbitriranje',
@@ -8653,6 +8657,9 @@ $messages['sah'] = array(
 	'sitesupport' => 'Бу сири өйөө',
 	'tooltip-n-sitesupport' => 'Өйөбүл',
 	'specialpages-group-contribution' => 'Сиэртибэлээһин/Үп хомуйуу',
+	'nstab-creator' => 'Ааптар',
+	'nstab-institution' => 'Тэрилтэ',
+	'nstab-sequence' => 'Утум',
 	'group-abusefilter' => 'Омсо сиидэтин эрэдээктэрдэрэ',
 	'group-accountcreator' => 'Кыттааччылар ааттарын айааччылар/бигэргэтээччилэр',
 	'group-arbcom' => 'Арбитраж кэмитиэтин чилиэннэрэ',
@@ -9778,6 +9785,7 @@ Uobejzdrzij blank dokłodne informacyje uo <a href="http://wikimediafoundation.o
 
 /** Tamil (தமிழ்)
  * @author Mayooranathan
+ * @author Sodabottle
  * @author TRYPPN
  * @author Trengarasu
  */
@@ -9799,6 +9807,11 @@ $messages['ta'] = array(
 	'group-Staff-member' => 'பணியாளர்',
 	'group-inactive' => 'பங்களிக்காத பயனர்கள்',
 	'group-inactive-member' => 'பங்களிக்காத பயனர்',
+	'wikimedia-copyrightwarning' => 'இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] மற்றும் [http://www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.
+
+இந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள். 
+
+விவரங்களுக்கு, [http://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.',
 );
 
 /** Telugu (తెలుగు)
