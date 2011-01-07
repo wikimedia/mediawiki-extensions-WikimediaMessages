@@ -7116,6 +7116,10 @@ $messages['nl'] = array(
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Ondersteun ons financieel',
 	'specialpages-group-contribution' => 'Giften/Fondsenwervingsactie',
+	'nstab-creator' => 'Auteur',
+	'nstab-institution' => 'Instelling',
+	'nstab-sequence' => 'Volgorde',
+	'nstab-timedtext' => 'Ondertitel',
 	'group-abusefilter' => 'misbruikfilterredacteuren',
 	'group-accountcreator' => 'gebruikersaanmakers',
 	'group-arbcom' => 'arbitragecommissieleden',
@@ -9812,6 +9816,7 @@ $messages['ta'] = array(
 இந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள். 
 
 விவரங்களுக்கு, [http://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.',
+	'wikimedia-editpage-tos-summary' => 'உங்கள் படைப்புகளை பிறர் மாற்றம் செய்வதிலும் மறுபயன்பாடு செய்வதிலும் உங்களுக்கு விருப்பம் இல்லையெனில் இங்கு அவற்றை சேமிக்க வேண்டாம். இது நீங்கள் எழுதியதில்லையெனில், இது விக்கிமீடியா அறக்கட்டளையின் [http://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளுக்கு] உட்பட்டதாக இருக்க வேண்டும். மேலும் இங்கு இதனை சேமிக்கும் பொழுது இதற்கு ஏற்ற பதிப்புரிமை விதிமுறைகளைப் பின்பற்ற ஒப்புக் கொள்கிறீர்கள் என்பதை நினைவில் கொள்ளுங்கள்.',
 );
 
 /** Telugu (తెలుగు)
