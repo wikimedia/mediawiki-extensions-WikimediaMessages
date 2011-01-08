@@ -9061,15 +9061,27 @@ $messages['jv'] = array(
 
 /** Georgian (ქართული)
  * @author BRUTE
+ * @author Dawid Deutschland
  * @author გიორგიმელა
  */
 $messages['ka'] = array(
 	'wikimedialicensetexts-desc' => 'ვიკიმედიის სალიცენზიო შეტყობინებები',
 	'wm-license-attribution-with-author-text' => "ამ ნამუშევრის მფლობელი, $1, ნებას აძლევს ყველას გამოიყენოს იგი  '''ნებისმიერი მიზნით იმ პირობით''', თუ მფლობელი მოხსენიებული იქნება. ნამუშევრის გავრცელება, გადაცემა და კომერციული გამოყენება დაშვებულია.",
 	'wm-license-attribution-without-author-text' => "ამ ნამუშევრის ავტორი უფლებას იძლევა მოცემული გამოსახულება გავრცელდეს '''ნებისმიერი მიზნით''' (მათ შორის კომერციული), თუ ნამუშევრის მფლობელი მოხსენიებული იქნება.",
+	'wm-license-book-edition' => 'გამოცემა',
+	'wm-license-book-editor' => 'რედაქტორი',
+	'wm-license-book-illustrator' => 'ილუსტრატორი',
 	'wm-license-book-language' => 'ენა',
+	'wm-license-book-page-overview' => 'გვერდის მიმოხილვა',
 	'wm-license-book-place-of-publication' => 'გამოცემის ადგილი',
 	'wm-license-book-publisher' => 'გამომქვეყნებელი',
+	'wm-license-book-series-title' => 'სერიის დასახელება',
+	'wm-license-book-start-this-book' => 'გახსენი ეს წიგნი',
+	'wm-license-book-subtitle' => 'ქვესათაური',
+	'wm-license-book-title' => 'სათაური',
+	'wm-license-book-translator' => 'მთარგმნელი',
+	'wm-license-book-volume' => 'ნაწილი',
+	'wm-license-book-year-of-publication' => 'გამოქვეყნების წელი',
 	'wm-license-cc-wiki-link' => 'w:en:Creative Commons',
 	'wm-license-cc-attribution' => 'ავტორის მითითება',
 	'wm-license-cc-by-1.0-text' => 'ეს ნამუშევარი ვრცელდება [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] ლიცენზიით.',
@@ -9249,6 +9261,10 @@ $messages['ka'] = array(
 	'wm-license-creator-description' => 'აღწერილობა',
 	'wm-license-creator-date-of-birth' => 'დაბადების თარიღი',
 	'wm-license-creator-date-of-birth-and-death' => 'დაბადების/გარდაცვალების თარიღი',
+	'wm-license-creator-location-of-birth' => 'დაბადების ადგილი',
+	'wm-license-creator-location-of-birth-and-death' => 'დაბადების/გარდაცვალების ადგილი',
+	'wm-license-creator-work-period' => 'მოქმედების დრო',
+	'wm-license-creator-work-location' => 'მოქმედების ადგილი',
 	'wm-license-fal-text' => "კოპილეფტი. ეს არის ხელოვნების თავისუფალი ნაშრომი; თქვენ შეგიძლიათ გაავრცელოთ და/ან შეცვალოთ იგი  '''[[{{int:wm-license-fal-wiki-link}}|Free Art ლიცენზიის]]''' პირობების თანახმად.
 ამ ლიცენზიის პირობების იხილეთ [{{int:wm-license-fal-full-link}} Copyleft Attitude]-ზე, და ასევე სხვა საიტებზეც.",
 	'wm-license-gfdl-1.2-and-later' => "თქვენ შეგიძიათ გაავრცელოთ ან შეცვალოთ დოკუმენტი '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation ლიცენზიის]]'''  1.2 ან უფრო გვიანდელი ვერსიის პირობების თანახმად, რომელიც გამოქვეყნებულია [[{{int:wm-license-fsf-wiki-link}}|თავისუფალი პროგრამული უზრუნველყოფის ფონდის მიერ]], შეუცვლელი განყოფილებების გარეშე, პირველ და ბოლო გვერდებზე განთავსებულ ტექსტებზე. ლიცენზიის ასლი არის განთავსებული   განყოფილებაში სახელად ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
@@ -16720,6 +16736,7 @@ $messages['tk'] = array(
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  * @author Multichill
+ * @author Sky Harbor
  */
 $messages['tl'] = array(
 	'wikimedialicensetexts-desc' => 'Mga mensaheng panglisensya ng Wikimedia',
@@ -16796,7 +16813,7 @@ $messages['tl'] = array(
 	'wm-license-cc-by-3.0-nl-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nl/ Atribusyon 3.0 Olanda].',
 	'wm-license-cc-by-3.0-no-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/ Atribusyon 3.0 Noruwega].',
 	'wm-license-cc-by-3.0-nz-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Bagong Selanda].',
-	'wm-license-cc-by-3.0-ph-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Pilipinas].',
+	'wm-license-cc-by-3.0-ph-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ph/ Atribusyon 3.0 Pilipinas].',
 	'wm-license-cc-by-3.0-pl-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Polonya].',
 	'wm-license-cc-by-3.0-pr-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Porto Riko].',
 	'wm-license-cc-by-3.0-ro-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Romanya].',
@@ -16875,7 +16892,7 @@ $messages['tl'] = array(
 	'wm-license-cc-by-sa-3.0-nl-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/nl/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Olanda].',
 	'wm-license-cc-by-sa-3.0-no-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/no/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Noruwega].',
 	'wm-license-cc-by-sa-3.0-nz-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/nz/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Bagong Selanda].',
-	'wm-license-cc-by-sa-3.0-ph-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Pilipinas].',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ph/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Pilipinas].',
 	'wm-license-cc-by-sa-3.0-pl-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pl/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Polonya].',
 	'wm-license-cc-by-sa-3.0-pr-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/pr/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Porto Riko].',
 	'wm-license-cc-by-sa-3.0-ro-text' => 'Ang talaksang ito ay nakalisensya sa ilalim ng lisensyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ro/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Romanya].',

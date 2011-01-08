@@ -5181,6 +5181,8 @@ $messages['ja'] = array(
 	'specialpages-group-contribution' => '寄付/資金調達',
 	'nstab-creator' => '作者',
 	'nstab-institution' => '施設',
+	'nstab-sequence' => 'シークエンス',
+	'nstab-timedtext' => '字幕',
 	'group-abusefilter' => '不正利用フィルター編集者',
 	'group-accountcreator' => 'アカウント作成者',
 	'group-arbcom' => '裁定委員会委員',
@@ -5366,6 +5368,7 @@ Manawi punika sanès seratan panjenengan piyambak, seratan punika kedah kasediak
  * @author Alsandro
  * @author BRUTE
  * @author David1010
+ * @author Dawid Deutschland
  * @author Malafaya
  * @author Sopho
  * @author Temuri rajavi
@@ -5378,6 +5381,7 @@ $messages['ka'] = array(
 	'sitesupport' => 'შეწირულობები',
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
 	'specialpages-group-contribution' => 'წვლილი / ფონდრაიზერი',
+	'nstab-creator' => 'შემქმნელი',
 	'group-abusefilter' => 'ბოროტად გამოყენების ფილტრის მეპატრულე',
 	'group-accountcreator' => 'ანგარიში შემქმნელები',
 	'group-arbcom' => 'საარბიტრჟო კომიტეტის წევრები',
