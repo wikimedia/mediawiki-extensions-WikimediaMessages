@@ -1744,7 +1744,9 @@ $messages['cdo'] = array(
  * @author Sasan700
  */
 $messages['ce'] = array(
-	'sitesupport' => 'Сайтан сагIа',
+	'sitesupport' => 'ГIо',
+	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
+	'group-confirmed' => 'Тlелаьцболу декъашхой',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 );
 
@@ -2934,6 +2936,8 @@ $messages['eu'] = array(
 	'sitesupport' => 'Dohaintzak',
 	'tooltip-n-sitesupport' => 'Lagundu gaitzazu',
 	'specialpages-group-contribution' => 'Dohaintzaren egilea',
+	'nstab-creator' => 'Sortzailea',
+	'nstab-sequence' => 'Sekuentzia',
 	'group-abusefilter' => 'Abusu-iragazkien editoreak',
 	'group-accountcreator' => 'Kontu sortzailea',
 	'group-arbcom' => 'Tartekaritza-taldearen kideak',
@@ -7888,6 +7892,10 @@ $messages['pt'] = array(
 	'sitesupport' => 'Donativos',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'specialpages-group-contribution' => 'Contribuições/Angariação de fundos',
+	'nstab-creator' => 'Criador',
+	'nstab-institution' => 'Instituição',
+	'nstab-sequence' => 'Sequência',
+	'nstab-timedtext' => 'Legendagem',
 	'group-abusefilter' => 'Editores de filtros de abuso',
 	'group-accountcreator' => 'Criadores de contas',
 	'group-arbcom' => 'Membros da comissão de arbitragem',
