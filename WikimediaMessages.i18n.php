@@ -8015,6 +8015,7 @@ $messages['pt-br'] = array(
 	'nstab-creator' => 'Criador',
 	'nstab-institution' => 'Instituição',
 	'nstab-sequence' => 'Sequência',
+	'nstab-timedtext' => 'Legendagem',
 	'group-abusefilter' => 'Editores de filtros de abuso',
 	'group-accountcreator' => 'Criadores de contas',
 	'group-arbcom' => 'Membros do comitê de arbitragrem',
