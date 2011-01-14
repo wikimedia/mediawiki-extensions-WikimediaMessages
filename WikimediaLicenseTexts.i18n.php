@@ -15908,6 +15908,7 @@ $messages['su'] = array(
  * @author Nghtwlkr
  * @author Per
  * @author Poxnar
+ * @author Tobulos1
  */
 $messages['sv'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licensmeddelanden',
@@ -15915,6 +15916,11 @@ $messages['sv'] = array(
 Vidaredistribution, redigering av verk, kommersiell användning, och all övrig användning är tillåten.",
 	'wm-license-attribution-without-author-text' => "Upphovsrättsinnehavaren till denna fil tillåter vem som helst att använda den '''i valfritt syfte, förutsatt att''' lämplig hänvisning till upphovsrättsinnehavaren ges.
 Vidaredistribution, redigering av verk, kommersiell användning, och all övrig användning är tillåten.",
+	'wm-license-book-illustrator' => 'Illustratör',
+	'wm-license-book-language' => 'Språk',
+	'wm-license-book-printer' => 'Tryckare',
+	'wm-license-book-publisher' => 'Utgivare',
+	'wm-license-book-volume' => 'Volym',
 	'wm-license-cc-wiki-link' => 'w:sv:Creative Commons',
 	'wm-license-cc-attribution' => 'Erkännande',
 	'wm-license-cc-by-1.0-text' => 'Denna fil är licensierad under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.sv Erkännande 1.0 Generisk]',
@@ -16092,6 +16098,9 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-cc-conditions-share_alike-text' => 'Om du ändrar, bearbetar eller bygger vidare på verket får du endast distribuera resultatet under samma licens, en liknande licens eller en licens som är kompatibel med denna licens.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.sv',
 	'wm-license-cecill-text' => 'Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri mjukvara]]; du kan vidaredistribuera och modifiera det enligt villkoren i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkoren i CeCILL licensen finns på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-creator-description' => 'Beskrivning',
+	'wm-license-creator-date-of-birth' => 'Födelsedatum',
+	'wm-license-creator-location-of-birth' => 'Födelsestad',
 	'wm-license-fal-text' => "Copyleft: Detta konstverk är fritt; du kan vidaredistribuera det och/eller modifiera det enligt villkoren i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du hittar ett exemplar av denna licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude site], såväl som på andra sidor.",
 	'wm-license-fsf-wiki-link' => 'w:sv:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:sv:Fri programvara',
