@@ -16985,6 +16985,8 @@ $messages['to'] = array(
  */
 $messages['tr'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia lisans mesajları',
+	'wm-license-book-edition' => 'Baskı',
+	'wm-license-book-editor' => 'Editör',
 	'wm-license-book-illustrator' => 'Çizer',
 	'wm-license-book-language' => 'Dil',
 	'wm-license-book-page-overview' => 'Sayfaya genel bakış',
@@ -16992,6 +16994,7 @@ $messages['tr'] = array(
 	'wm-license-book-printer' => 'Yazıcı',
 	'wm-license-book-publisher' => 'Yayımcı',
 	'wm-license-book-series-title' => 'Dizi başlığı',
+	'wm-license-book-start-this-book' => 'Bu kitaba başla',
 	'wm-license-book-subtitle' => 'Altbaşlık',
 	'wm-license-book-title' => 'Başlık',
 	'wm-license-book-translator' => 'Çevirmen',
@@ -17170,11 +17173,13 @@ $messages['tr'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Esere yazar veya lisans sahibi tarafından belirtilen (ancak sizi ya da eseri kullanımınızı desteklediklerini ileri sürmeyecek bir) şekilde atıfta bulunmalısınız.',
 	'wm-license-cc-conditions-share_alike-header' => 'benzer paylaşım',
 	'wm-license-cc-conditions-share_alike-text' => 'Bu eseri değiştirmeniz, dönüştürmeniz ya da bu eseri temel alan başka bir eser oluşturmanız halinde, ortaya çıkan eser için sadece bu veya buna benzer bir lisansı kullanma imkanınız bulunmaktadır.',
+	'wm-license-creator-alternative-names' => 'İsim seçenekleri',
 	'wm-license-creator-description' => 'Açıklama',
 	'wm-license-creator-date-of-birth' => 'Doğum tarihi',
 	'wm-license-creator-date-of-birth-and-death' => 'Doğum/ölüm tarihi',
 	'wm-license-creator-location-of-birth' => 'Doğum yeri',
 	'wm-license-creator-location-of-birth-and-death' => 'Doğum/ölüm yeri',
+	'wm-license-creator-work-location' => 'İş konumu',
 	'wm-license-fal-wiki-link' => 'w:tr:Özgür Sanat lisansı',
 	'wm-license-fsf-wiki-link' => 'w:tr:Özgür Yazılım Vakfı',
 	'wm-license-free-software-wiki-link' => 'w:tr:Özgür yazılım',
@@ -18673,12 +18678,21 @@ $messages['zh-hans'] = array(
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Frankou
  * @author Horacewai2
+ * @author Mark85296341
  * @author Multichill
  */
 $messages['zh-hant'] = array(
 	'wikimedialicensetexts-desc' => '維基媒體條款信息',
 	'wm-license-attribution-with-author-text' => '此檔案的版權持有者，$1，允許任何人以任何目的使用本檔案，重作、發佈衍生作品、甚至用至商業用途，以及其他用途都是允許的。',
 	'wm-license-attribution-without-author-text' => '本檔案的版權持有者允許任何人以任何目的使用本檔案，包括發佈衍生作品，商業用途或其他用途。',
+	'wm-license-book-edition' => '版本',
+	'wm-license-book-editor' => '編輯',
+	'wm-license-book-language' => '語言',
+	'wm-license-book-page-overview' => '頁面總覽',
+	'wm-license-book-subtitle' => '副標題',
+	'wm-license-book-title' => '標題',
+	'wm-license-book-translator' => '翻譯',
+	'wm-license-book-year-of-publication' => '出版年',
 	'wm-license-cc-attribution' => '署名',
 	'wm-license-cc-by-1.0-text' => '此檔案在[[{{int:wm-license-cc-wiki-link}}|共享創意]] [http://creativecommons.org/licenses/by/1.0/deed.zh Attribution 1.0署名通用]條款下發佈。',
 	'wm-license-cc-by-1.0-fi-text' => '此檔案在[[{{int:wm-license-cc-wiki-link}}|共享創意]] [http://creativecommons.org/licenses/by/1.0/fi/deed.zh 1.0署名 (芬蘭)]條款下發佈。',
