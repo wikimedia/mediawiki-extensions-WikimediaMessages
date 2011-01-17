@@ -1051,7 +1051,7 @@ $messages['be'] = array(
 Калі вы самі не пісалі гэтага тэксту, ён мусіць быць даступным на ўмовах, якія сумяшчальныя з [http://wikimediafoundation.org/wiki/Terms_of_Use Умовамі карыстання], а вы мусіце даць згоду на ўсе наступныя змяненні ліцэнзійных патрабаванняў, якія маюць дачыненне да гэтага тэксту.',
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author Cesco
  * @author EugeneZelenko
  * @author Jim-by
@@ -1065,6 +1065,10 @@ $messages['be-tarask'] = array(
 	'sitesupport' => 'Ахвяраваньні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
 	'specialpages-group-contribution' => 'Ахвяраваньні/Збор сродкаў',
+	'nstab-creator' => 'Аўтар',
+	'nstab-institution' => 'Установа',
+	'nstab-sequence' => 'Пасьлядоўнасьць',
+	'nstab-timedtext' => 'Сынхронны тэкст',
 	'group-abusefilter' => 'Рэдактары фільтру злоўжываньняў',
 	'group-accountcreator' => 'Стваральнікі рахункаў',
 	'group-arbcom' => 'Чальцы арбітражнага камітэту',
@@ -1746,7 +1750,15 @@ $messages['cdo'] = array(
 $messages['ce'] = array(
 	'sitesupport' => 'ГIо',
 	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
+	'group-accountcreator' => 'Дlавазвалар кхуллурш',
 	'group-confirmed' => 'Тlелаьцболу декъашхой',
+	'group-flood' => 'Декъашхой-шаболххой',
+	'group-ipblock-exempt' => 'IP-сацор юкъарадоккху',
+	'group-flood-member' => 'декъашхой-шаболххой',
+	'grouppage-accountcreator' => '{{ns:project}}:Дlавазвалар кхуллурш',
+	'grouppage-flood' => '{{ns:project}}:Декъашхой-шаболххой',
+	'group-Global_bot' => 'Масхьара шаболххой',
+	'group-Global_bot-member' => 'масхьара шаболххо',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 );
 
@@ -11566,7 +11578,7 @@ $messages['zh-hant'] = array(
 	'nstab-creator' => '建立者',
 	'nstab-institution' => '機構',
 	'group-abusefilter' => '濫用過瀘器編輯者',
-	'group-accountcreator' => '賬戶創建員',
+	'group-accountcreator' => '帳號建立者',
 	'group-arbcom' => '仲裁委員會成員',
 	'group-autopatrolled' => '自動巡查員',
 	'group-autoreviewer' => '巡查豁免者',
@@ -11579,13 +11591,13 @@ $messages['zh-hant'] = array(
 	'group-import' => '匯入者',
 	'group-interface_editors' => '界面編輯者',
 	'group-ipblock-exempt' => 'IP查封例外者',
-	'group-patroller' => '巡邏員',
+	'group-patroller' => '巡查員',
 	'group-researcher' => '研究人員',
 	'group-rollbacker' => '回退員',
 	'group-transwiki' => '跨維基匯入者',
 	'group-trusted' => '受信任的用戶',
 	'group-abusefilter-member' => '濫用過濾器編輯者',
-	'group-accountcreator-member' => '賬戶創建員',
+	'group-accountcreator-member' => '帳號建立者',
 	'group-arbcom-member' => '仲裁委員會委員',
 	'group-autopatrolled-member' => '巡查豁免者',
 	'group-autoreviewer-member' => '巡查豁免者',
@@ -11598,7 +11610,7 @@ $messages['zh-hant'] = array(
 	'group-import-member' => '匯入者',
 	'group-interface_editors-member' => '界面編輯者',
 	'group-ipblock-exempt-member' => 'IP查封例外',
-	'group-patroller-member' => '巡邏員',
+	'group-patroller-member' => '巡查員',
 	'group-researcher-member' => '研究員',
 	'group-rollbacker-member' => '回退員',
 	'group-transwiki-member' => '跨維基匯入者',
