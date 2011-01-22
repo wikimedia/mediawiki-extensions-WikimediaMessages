@@ -865,7 +865,7 @@ $messages['az'] = array(
 	'sitesupport' => 'Bağışlar',
 );
 
-/** Bashkir (Башҡорт)
+/** Bashkir (Башҡортса)
  * @author Assele
  * @author Comp1089
  */
@@ -2276,7 +2276,7 @@ Einzelheiten sind in den [http://wikimediafoundation.org/wiki/Nutzungsbedingunge
 Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 );
 
-/** German (formal address) (Deutsch (Sie-Form))
+/** German (formal address) (‪Deutsch (Sie-Form)‬)
  * @author Raimond Spekking
  * @author Umherirrender
  */
@@ -3073,6 +3073,7 @@ $messages['ext'] = array(
  * @author Huji
  * @author Ladsgroup
  * @author Mardetanha
+ * @author Mjbmr
  * @author Sahim
  * @author Wayiran
  */
@@ -3099,7 +3100,7 @@ $messages['fa'] = array(
 	'group-interface_editors' => 'ویرایش‌گران رابط',
 	'group-ipblock-exempt' => 'استثناهای قطع دسترسی آی‌پی',
 	'group-OTRS-member' => 'اعضای OTRS',
-	'group-patroller' => 'نگهبانان',
+	'group-patroller' => 'گشت‌زنان',
 	'group-researcher' => 'پژوهشگران',
 	'group-rollbacker' => 'واگردانان',
 	'group-transwiki' => 'واردکنندگان تراویکی',
@@ -3121,7 +3122,7 @@ $messages['fa'] = array(
 	'group-interface_editors-member' => 'ویرایش‌گر رابط',
 	'group-ipblock-exempt-member' => 'استثنای قطع دسترسی آی‌پی',
 	'group-OTRS-member-member' => 'عضو OTRS',
-	'group-patroller-member' => 'نگهبان',
+	'group-patroller-member' => 'گشت‌زن',
 	'group-researcher-member' => 'پژوهشگر',
 	'group-rollbacker-member' => 'واگردان',
 	'group-transwiki-member' => 'واردکنندهٔ تراویکی',
@@ -3731,7 +3732,7 @@ $messages['gan'] = array(
 	'tooltip-n-sitesupport' => '資援偶嗰俚',
 );
 
-/** Simplified Gan script (赣语(简体))
+/** Simplified Gan script (‪赣语(简体)‬)
  * @author Liangent
  */
 $messages['gan-hans'] = array(
@@ -3789,7 +3790,7 @@ $messages['gan-hans'] = array(
 要系个不系倷自简写𠮶文字𠮶话，佢一定要同[http://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]相合，跟得倷要同意任何相关𠮶发牌条件。',
 );
 
-/** Traditional Gan script (贛語(繁體))
+/** Traditional Gan script (‪贛語(繁體)‬)
  * @author Symane
  */
 $messages['gan-hant'] = array(
@@ -5882,7 +5883,7 @@ $messages['ku-latn'] = array(
 	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
 );
 
-/** Cornish (Kernewek)
+/** Cornish (Kernowek)
  * @author Kw-Moon
  * @author Malafaya
  * @author Nicky.ker
@@ -7616,7 +7617,7 @@ $messages['pdt'] = array(
 	'tooltip-n-sitesupport' => 'Unjastett onns',
 );
 
-/** Pfälzisch (Pfälzisch)
+/** Pälzisch (Pälzisch)
  * @author SPS
  */
 $messages['pfl'] = array(
@@ -9333,7 +9334,7 @@ $messages['sq'] = array(
 	'group-coder-member' => 'kodues',
 );
 
-/** Serbian Cyrillic ekavian (Српски (ћирилица))
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Millosh
  * @author Red Baron
  * @author Жељко Тодоровић
@@ -9415,7 +9416,7 @@ $messages['sr-ec'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивни корисници',
 );
 
-/** Serbian Latin ekavian (Srpski (latinica))
+/** Serbian Latin ekavian (‪Srpski (latinica)‬)
  * @author Michaello
  * @author Жељко Тодоровић
  */
@@ -11288,6 +11289,7 @@ $messages['xh'] = array(
 /** Mingrelian (მარგალური)
  * @author Alsandro
  * @author Dato deutschland
+ * @author Dawid Deutschland
  * @author Lika2672
  */
 $messages['xmf'] = array(
@@ -11369,6 +11371,7 @@ $messages['yo'] = array(
 
 /** Cantonese (粵語)
  * @author Horacewai2
+ * @author Waihorace
  */
 $messages['yue'] = array(
 	'wikimediamessages-desc' => 'Wikimedia特定訊息',

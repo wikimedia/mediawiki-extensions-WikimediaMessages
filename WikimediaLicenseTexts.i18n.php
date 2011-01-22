@@ -1053,7 +1053,7 @@ $messages['az'] = array(
 	'wm-license-information-source' => 'Mənbə',
 );
 
-/** Bashkir (Башҡорт)
+/** Bashkir (Башҡортса)
  * @author Assele
  * @author Comp1089
  * @author Рустам Нурыев
@@ -1349,7 +1349,7 @@ $messages['be'] = array(
 	'wm-license-information-source' => 'Крыніца',
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -1603,7 +1603,7 @@ $messages['be-tarask'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Вы можаце абраць любую ліцэнзію на ваш погляд.',
 );
 
-/** Беларуская (тарашкевіца) (Беларуская (тарашкевіца)) */
+/** ‪Беларуская (тарашкевіца)‬ (‪Беларуская (тарашкевіца)‬) */
 $messages['be-x-old'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:be-x-old:GNU Free Documentation License',
 );
@@ -3909,7 +3909,7 @@ Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm
 	'wm-license-self-multiple-licenses-select' => 'Du darfst es unter einer der obigen Lizenzen deiner Wahl verwenden.',
 );
 
-/** German (formal address) (Deutsch (Sie-Form))
+/** German (formal address) (‪Deutsch (Sie-Form)‬)
  * @author ChrisiPK
  */
 $messages['de-formal'] = array(
@@ -6319,13 +6319,13 @@ $messages['ga'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Is féidir leat a roghnú an ceadúnas do rogha',
 );
 
-/** Simplified Gan script (赣语(简体)) */
+/** Simplified Gan script (‪赣语(简体)‬) */
 $messages['gan-hans'] = array(
 	'wm-license-information-description' => '简话',
 	'wm-license-information-source' => '来源',
 );
 
-/** Traditional Gan script (贛語(繁體)) */
+/** Traditional Gan script (‪贛語(繁體)‬) */
 $messages['gan-hant'] = array(
 	'wm-license-information-description' => '簡話',
 	'wm-license-information-source' => '來源',
@@ -9777,7 +9777,7 @@ $messages['ku-latn'] = array(
 	'wm-license-information-source' => 'Çavkanî',
 );
 
-/** Cornish (Kernewek) */
+/** Cornish (Kernowek) */
 $messages['kw'] = array(
 	'wm-license-information-source' => 'Pennfenten',
 );
@@ -15829,6 +15829,12 @@ $messages['sq'] = array(
  */
 $messages['sr'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
+	'wm-license-creator-alternative-names' => 'Псеудоними',
+	'wm-license-creator-description' => 'Опис',
+	'wm-license-creator-date-of-birth-and-death' => 'Датум рођења/смрти',
+	'wm-license-creator-location-of-birth-and-death' => 'Место рођења/смрти',
+	'wm-license-creator-work-period' => 'Време рада',
+	'wm-license-creator-work-location' => 'Место рада',
 	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
 	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
 	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.",
@@ -15850,7 +15856,7 @@ $messages['sr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
-/** Serbian Cyrillic ekavian (Српски (ћирилица))
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -15873,7 +15879,7 @@ $messages['sr-ec'] = array(
 	'wm-license-own-work' => 'Сопствено дело',
 );
 
-/** Serbian Latin ekavian (Srpski (latinica)) */
+/** Serbian Latin ekavian (‪Srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
 	'wm-license-cc-free' => 'Slobodni ste:',
@@ -18353,6 +18359,7 @@ $messages['yo'] = array(
  * @author Castelobranco
  * @author Horacewai2
  * @author Petrus Adamus
+ * @author Waihorace
  */
 $messages['yue'] = array(
 	'wikimedialicensetexts-desc' => '維基媒體版權信息',
@@ -18465,6 +18472,7 @@ $messages['zea'] = array(
 );
 
 /** Chinese (中文)
+ * @author Diebuche
  * @author Shizhao
  */
 $messages['zh'] = array(
@@ -18472,6 +18480,7 @@ $messages['zh'] = array(
 	'wm-license-cc-by-sa-2.0-text' => '#REDIRECT[[MediaWiki:Wm-license-cc-by-sa-2.0-text/zh]]',
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
+	'wm-license-gfdl-1.2-and-later' => "你被授权遵循自由软件基金会发行的无固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版或任一后续版本条款，复制、分发和/或修改本文件。协议副本包含在题为“ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU自由文件授权协议文本”的部分中]]''。",
 	'wm-license-gfdl-wiki-link' => 'w:zh:GNU自由文档许可证',
 	'wm-license-gpl-wiki-link' => 'w:zh:GNU通用公共许可证',
 	'wm-license-lgpl-wiki-link' => 'w:zh:GNU宽通用公共许可证',
