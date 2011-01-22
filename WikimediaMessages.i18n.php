@@ -1760,6 +1760,10 @@ $messages['ce'] = array(
 	'group-Global_bot' => 'Масхьара шаболххой',
 	'group-Global_bot-member' => 'масхьара шаболххо',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
+	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [http://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [http://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
+Мадарра хьажа. [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].',
+	'wikimedia-editpage-tos-summary' => 'Нагахьсан хьуна ца лаахь, кхечара хьай йозанаш маьрша хийцамаш беш лелада а даржош массанхьа, ма тохийша уьш кху чу.
+Нагахьсан хьо чутоьхначу йозан да вацахь, иза хила деза схьаэца йиш йолучу хьолехь, догlуш оцу [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронашца] а, хьо реза волуш массо бакъойаларна дехаран ларца лела.',
 );
 
 /** Cebuano (Cebuano)
@@ -1864,6 +1868,8 @@ $messages['cs'] = array(
 	'sitesupport' => 'Podpořte nás',
 	'tooltip-n-sitesupport' => 'Podpořte nás',
 	'specialpages-group-contribution' => 'Příspěvky/financování',
+	'nstab-creator' => 'Autor',
+	'nstab-institution' => 'Instituce',
 	'group-abusefilter' => 'Správci filtrů zneužívání',
 	'group-accountcreator' => 'Zakladatelé účtů',
 	'group-arbcom' => 'Členové arbitrážního výboru',
@@ -2065,6 +2071,7 @@ Os nad chi ysgrifennodd y cyfraniad hwn, rhaid iddo fod ar gael ar delerau sy'n 
  * @author Jon Harald Søby
  * @author Kaare
  * @author Masz
+ * @author Peter Alberti
  * @author Sarrus
  */
 $messages['da'] = array(
@@ -2083,6 +2090,7 @@ $messages['da'] = array(
 	'group-founder' => 'Grundlæggere',
 	'group-import' => 'Importører',
 	'group-ipblock-exempt' => 'IP-blokeringsundtagelser',
+	'group-OTRS-member' => 'OTRS-medlemmer',
 	'group-patroller' => 'Patruljanter',
 	'group-researcher' => 'Forskere',
 	'group-rollbacker' => 'Tilbagerullere',
@@ -2099,6 +2107,7 @@ $messages['da'] = array(
 	'group-founder-member' => 'Grundlægger',
 	'group-import-member' => 'Importør',
 	'group-ipblock-exempt-member' => 'IP-blokeringsundtagelse',
+	'group-OTRS-member-member' => 'OTRS-medlem',
 	'group-patroller-member' => 'patruljant',
 	'group-researcher-member' => 'forsker',
 	'group-rollbacker-member' => 'Tilbageruller',
