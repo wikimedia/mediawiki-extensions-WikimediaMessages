@@ -4600,7 +4600,7 @@ $messages['eo'] = array(
 	'wm-license-own-work' => 'Propra verko',
 	'wm-license-pd-author-self-text' => "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, liberigas tiun tutmonde kiel '''[[{{int:wm-license-pd-wiki-link}}|publikaĵon]]'''.",
 	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]''' de ties aŭtoro, '''$1'''. Tio aplikatas mondvaste.",
-	'wm-license-pd-author-not-legally-possible' => 'En iuj landoj tio povas esti laŭleĝe neebla; en tiu kazo:',
+	'wm-license-pd-author-not-legally-possible' => 'En iuj landoj tio povas esti laŭleĝe neebla; en tiu okazo:',
 	'wm-license-pd-author-self-any-purpose' => 'Mi rajtigas ĉiun ajn uzi ĉi tiun verkon por ajna celo, sen iuj ajn kondiĉoj, krom se tiuj kondiĉoj estas postulataj per leĝo.',
 	'wm-license-pd-author-with-author-any-purpose' => "$1 donas al iu ajn la rajton uzi ĉi tiun verkon '''por iu ajn uzo''', sen kondiĉoj, krom se tiuj kondiĉoj deviĝas per leĝo.",
 	'wm-license-pd-wiki-link' => 'w:eo:Publika havaĵo',
@@ -5817,6 +5817,7 @@ $messages['fo'] = array(
  * @author Peter17
  * @author Urhixidur
  * @author Verdy p
+ * @author Zetud
  */
 $messages['fr'] = array(
 	'wikimedialicensetexts-desc' => 'Messages des licences de Wikimedia',
@@ -5936,10 +5937,10 @@ $messages['fr'] = array(
 	'wm-license-cc-by-sa-2.0-jp-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/jp/deed.fr  Paternité – Partage des conditions initiales à l’identique 2.0 Japon].',
 	'wm-license-cc-by-sa-2.0-kr-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/kr/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Corée].',
 	'wm-license-cc-by-sa-2.0-nl-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/nl/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Pays-Bas].',
-	'wm-license-cc-by-sa-2.0-pl-text' => 'The fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Pologne].',
+	'wm-license-cc-by-sa-2.0-pl-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/pl/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Pologne].',
 	'wm-license-cc-by-sa-2.0-tw-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/tw/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Taïwan].',
 	'wm-license-cc-by-sa-2.0-uk-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/uk/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Royaume-Uni : Angleterre et Pays de Galles].',
-	'wm-license-cc-by-sa-2.0-za-text' => 'The fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Afrique du Sud].',
+	'wm-license-cc-by-sa-2.0-za-text' => 'Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/za/deed.fr Paternité – Partage des conditions initiales à l’identique 2.0 Afrique du Sud].',
 	'wm-license-cc-by-sa-2.1-au-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/au/deed.fr Paternité – Partage des conditions initiales à l’identique 2.1 Australie]',
 	'wm-license-cc-by-sa-2.1-es-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/es/deed.fr Paternité – Partage des conditions initiales à l’identique 2.1 Espagne]',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.1/jp/deed.fr Paternité – Partage des conditions initiales à l’identique 2.1 Japon]',
@@ -14145,7 +14146,7 @@ $messages['ru'] = array(
 	'wm-license-pd-author-with-author-text' => "Это произведение было передано в '''[[{{int:wm-license-pd-wiki-link}}|общественное достояние]]''' своим автором, '''$1'''. Действует по всему миру.",
 	'wm-license-pd-author-not-legally-possible' => 'В некоторых странах это не может быть возможно юридически, в таком случае:',
 	'wm-license-pd-author-self-any-purpose' => "Я даю право кому угодно использовать данное произведение '''в любых целях''' без каких-либо условий, за исключением таких условий, которые требуются по закону.",
-	'wm-license-pd-author-with-author-any-purpose' => "$1 разрешил каждому использовать данное произведение '''для любых целей''', без каких-либо условий, если только такие условия не требуются по закону.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 предоставил любому право использовать данное произведение '''в любых целях''', без каких-либо условий, если только такие условия не требуются по закону.",
 	'wm-license-pd-wiki-link' => 'w:ru:Общественное достояние',
 	'wm-license-self-one-license' => 'Я, владелец авторских прав на это произведение, добровольно публикую его на условиях следующей лицензии:',
 	'wm-license-self-one-license-with-author' => '$1, владелец авторских прав на это произведение, добровольно публикует его на условиях следующей лицензии:',
