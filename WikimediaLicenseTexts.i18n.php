@@ -15660,6 +15660,7 @@ $messages['sq'] = array(
 	'wm-license-book-editor' => 'Redaktor',
 	'wm-license-book-illustrator' => 'Illustrator',
 	'wm-license-book-language' => 'Gjuha',
+	'wm-license-book-printer' => 'Printeri',
 	'wm-license-book-publisher' => 'Botues',
 	'wm-license-book-series-title' => 'Titulli',
 	'wm-license-book-title' => 'Titulli',
