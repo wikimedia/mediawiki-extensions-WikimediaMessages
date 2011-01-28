@@ -8117,9 +8117,9 @@ $messages['ia'] = array(
 	'wm-license-pd-author-with-author-any-purpose' => "$1 concede a omnes le derecto de usar iste obra '''pro non importa qual fin''', sin conditiones, a minus que tal conditiones sia requirite per lege.",
 	'wm-license-pd-wiki-link' => 'w:ia:Dominio public',
 	'wm-license-self-one-license' => 'Qua possessor del derectos de autor, io publica le presente obra sub le sequente licentia:',
-	'wm-license-self-one-license-with-author' => 'Qua possessor del derectos de autor, $1 publica le presente obra sub le sequente licentia:',
+	'wm-license-self-one-license-with-author' => '$1, le possessor del derectos de autor de iste obra, lo publica sub le sequente licentia:',
 	'wm-license-self-multiple-licenses' => 'Qua possessor del derectos de autor, io publica le presente obra sub le sequente licentias:',
-	'wm-license-self-multiple-licenses-with-author' => 'Qua possessor del derectos de autor, $1 publica le presente obra sub le sequente licentias:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, le possessor del derectos de autor de iste obra, lo publica sub le sequente licentias:',
 	'wm-license-self-multiple-licenses-select' => 'Tu pote seliger le licentia de tu preferentia.',
 );
 
