@@ -1047,10 +1047,13 @@ $messages['ay'] = array(
 	'wm-license-information-description' => 'Uñt’ayawi',
 );
 
-/** Azerbaijani (Azərbaycanca) */
+/** Azerbaijani (Azərbaycanca)
+ * @author PPerviz
+ */
 $messages['az'] = array(
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
 	'wm-license-information-source' => 'Mənbə',
+	'wm-license-information-author' => 'Müəllif',
 );
 
 /** Bashkir (Башҡортса)
@@ -4212,6 +4215,7 @@ $messages['el'] = array(
 	'wm-license-book-illustrator' => 'Εικονογράφος',
 	'wm-license-book-language' => 'Γλώσσα',
 	'wm-license-book-page-overview' => 'Επισκόπηση σελίδας',
+	'wm-license-book-place-of-publication' => 'Τόπος της δημοσιεύσης',
 	'wm-license-book-printer' => 'Εκτυπωτής',
 	'wm-license-book-publisher' => 'Εκδότης',
 	'wm-license-book-series-title' => 'Τίτλος σειράς',
@@ -4253,15 +4257,15 @@ $messages['el'] = array(
 	'wm-license-cc-by-2.5-au-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.el Αναφορά προέλευσης 2.5 Αυστραλία]',
 	'wm-license-cc-by-2.5-bg-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.el Αναφορά προέλευσης 2.5 Βουλγαρία]',
 	'wm-license-cc-by-2.5-br-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.el Αναφορά προέλευσης 2.5 Βραζιλία]',
-	'wm-license-cc-by-2.5-ca-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] Attribution http://creativecommons.org/licenses/by/2.5/ca/deed.en [Attribution 2.5 Καναδά]',
+	'wm-license-cc-by-2.5-ca-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ca/deed.en Attribution 2.5 Καναδά]',
 	'wm-license-cc-by-2.5-ch-text' => 'Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ch/deed.el Αναφορά προέλευσης 2.5 Ελβετία]',
-	'wm-license-cc-by-2.5-cn-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/cn/deed.en Attribution 2.5 Κίνα].',
-	'wm-license-cc-by-2.5-co-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] Attribution http://creativecommons.org/licenses/by/2.5/bg/deed.en [Attribution 2.5 Κολομβία]',
-	'wm-license-cc-by-2.5-dk-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.en Attribution 2.5 Δανία].',
-	'wm-license-cc-by-2.5-es-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-linkf}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.en Attribution 2.5 Ισπανία].',
-	'wm-license-cc-by-2.5-hr-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.en Attribution 2.5 Κροατία].',
-	'wm-license-cc-by-2.5-hu-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] Attribution http://creativecommons.org/licenses/by/2.5/hu/deed.en [Attribution 2.5 Ουγγαρία]',
-	'wm-license-cc-by-2.5-il-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.en Attribution 2.5 Ισραήλ].',
+	'wm-license-cc-by-2.5-cn-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] Attribution http://creativecommons.org/licenses/by/2.5/cn/deed.en  Attribution 2.5 Ηπειρωτική Κίνα] άδεια.',
+	'wm-license-cc-by-2.5-co-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] Attribution http://creativecommons.org/licenses/by/2.5/bg/deed.en  Attribution 2.5 Κολομβία]',
+	'wm-license-cc-by-2.5-dk-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/dk/deed.en Attribution 2.5 Δανία].',
+	'wm-license-cc-by-2.5-es-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-linkf}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/es/deed.en Attribution 2.5 Ισπανία].',
+	'wm-license-cc-by-2.5-hr-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια  [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/hr/deed.en Attribution 2.5 Κροατία].',
+	'wm-license-cc-by-2.5-hu-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}} | Creative Commons]] Attribution http://creativecommons.org/licenses/by/2.5/hu/deed.en Attribution 2.5 Ουγγαρία]',
+	'wm-license-cc-by-2.5-il-text' => 'Αυτό το αρχείο διανέμεται υπό την άδεια  [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/il/deed.en Attribution 2.5 Ισραήλ].',
 	'wm-license-cc-by-2.5-in-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/in/deed.en Attribution 2.5 Ινδία].',
 	'wm-license-cc-by-2.5-it-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-link}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/it/deed.en Attribution 2.5 Ιταλίας].',
 	'wm-license-cc-by-2.5-mk-text' => 'Αυτό το αρχείο έχει αδειοδοτηθεί από την [[{{int:wm-license-cc-wiki-σύνδεση}} |Άδεια Creative Commons]] [http://creativecommons.org/licenses/by/2.5/mk/deed.en Attribution 2.5 Fyrom].',
@@ -4311,6 +4315,7 @@ $messages['el'] = array(
 	'wm-license-creator-description' => 'Περιγραφή',
 	'wm-license-creator-date-of-birth' => 'Ημερομηνία γέννησης',
 	'wm-license-creator-date-of-birth-and-death' => 'Ημερομηνία γέννησης/θανάτου',
+	'wm-license-creator-location-of-birth' => 'Τόπος γέννησης',
 	'wm-license-creator-location-of-birth-and-death' => 'Τόπος γέννησης/θανάτου',
 	'wm-license-creator-work-period' => 'Περίοδος δράσης',
 	'wm-license-creator-work-location' => 'Τόπος δράσης',
@@ -4569,7 +4574,7 @@ $messages['eo'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Vi devas atribui la verkon en la maniero specifita de la aŭtoro aŭ permesinto (sed ne en kielo supoziganta, ke ili subtenas vin, vian laboron aŭ verkon).',
 	'wm-license-cc-conditions-share_alike-header' => 'samkondiĉe',
 	'wm-license-cc-conditions-share_alike-text' => 'Se vi aliigas la verkon, transformas ĝin aŭ kreas devenaĵon bazitan sur ĝi, vi rajtas distribui la rezultan verkon nur laŭ la sama aŭ kongrua permesilo kompare kun ĉi tiu.',
-	'wm-license-cc-pd-mark-text' => 'Estis konkludite ke uzon de ĉi tiu dosiero limigas neniu konata kopirajta leĝo, kio inkluzivas ĉiujn rilatajn kaj apudajn rajtojn.',
+	'wm-license-cc-pd-mark-text' => 'Estis konkludite ke uzon de ĉi tiu dosiero limigas neniu konata aŭtorrajta leĝo, kio inkluzivas ĉiujn rilatajn kaj apudajn rajtojn.',
 	'wm-license-cecill-text' => 'Ĉi tiu verko estas [[{{int:wm-license-free-software-wiki-link}}|libera programo]]; vi povas redistribui aŭ modifi ĝin laŭ la kondiĉoj de la permesilo [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. La kondiĉoj de la permesilo CeCILL estas videblaj en [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Alternativaj nomoj',
 	'wm-license-creator-description' => 'Priskribo',
@@ -13716,6 +13721,11 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'wikimedialicensetexts-desc' => "Messagge d'a licenze de UicchiMedia",
+	'wm-license-book-language' => 'Lènghe',
+	'wm-license-book-title' => 'Titele',
+	'wm-license-book-translator' => 'Traduttore',
+	'wm-license-book-volume' => 'Volume',
+	'wm-license-book-year-of-publication' => "Anne d'a pubblecazione",
 	'wm-license-cc-wiki-link' => 'w:roa-tara:Creatività comune',
 	'wm-license-cc-attribution' => 'Attribbuzione',
 	'wm-license-cc-by-1.0-text' => "Stu file jè licenziate sotte 'a [[{{int:wm-license-cc-wiki-link}}|Creatività comune]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] licenze",
