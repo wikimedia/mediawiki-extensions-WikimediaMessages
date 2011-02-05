@@ -9422,6 +9422,15 @@ $messages['kk-latn'] = array(
  */
 $messages['km'] = array(
 	'wikimedialicensetexts-desc' => 'សារអាជ្ញាបណ្ឌវិគីមេឌា',
+	'wm-license-book-illustrator' => 'វិចិត្រករ',
+	'wm-license-book-language' => 'ភាសា',
+	'wm-license-book-printer' => 'ក្រុមហ៊ុនបោះពុម្ភ',
+	'wm-license-book-publisher' => 'ក្រុមហ៊ុនផ្សព្វផ្យាយ',
+	'wm-license-book-subtitle' => 'ចំណងជើងរង',
+	'wm-license-book-title' => 'ចំណងជើង',
+	'wm-license-book-translator' => 'អ្នកបកប្រែ',
+	'wm-license-book-year-of-publication' => 'ឆ្នាំបោះពុម្ភ',
+	'wm-license-cc-attribution' => 'ភាពជាម្ចាស់កម្មសិទ្ធ',
 	'wm-license-cc-by-1.0-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0 Attribution 1.0 Generic]',
 	'wm-license-cc-by-1.0-nl-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands]',
 	'wm-license-cc-by-2.0-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic]',
@@ -12354,6 +12363,7 @@ $messages['pdt'] = array(
 );
 
 /** Polish (Polski)
+ * @author Equadus
  * @author Fizykaa
  * @author Leinad
  * @author Multichill
@@ -12572,7 +12582,7 @@ $messages['pl'] = array(
 	'wm-license-fsf-wiki-link' => 'w:pl:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:pl:Free software',
 	'wm-license-gfdl-1.2-and-later' => "Udziela się zgody na kopiowanie, rozpowszechnianie oraz modyfikowanie tego dokumentu zgodnie z warunkami '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Licencji Wolnej Dokumentacji]]''', w wersji 1.2 lub nowszej opublikowanej przez [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez niezmiennych sekcji, bez treści umieszczonych na frontowej lub tylnej stronie okładki. Kopia licencji załączona jest w sekcji zatytułowanej ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Licencja Wolnej Dokumentacji]]''.",
-	'wm-license-gfdl-1.2-only' => "Udziela się zgody na kopiowanie, rozpowszechnianie oraz modyfikowanie tego dokumentu zgodnie z warunkami'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Licencji Wolnej Dokumentacji]]''', wyłącznie w wersji 1.2 opublikowanej przez [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez niezmiennych sekcji, bez treści umieszczonych na frontowej lub tylnej stronie okładki. Kopia licencji załączona jest w sekcji zatytułowanej ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Licencja Wolnej Dokumentacji]]''.",
+	'wm-license-gfdl-1.2-only' => "Udziela się zgody na kopiowanie, rozpowszechnianie oraz modyfikowanie tego dokumentu zgodnie z warunkami '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Licencji Wolnej Dokumentacji]]''', wyłącznie w wersji 1.2 opublikowanej przez [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez niezmiennych sekcji, bez treści umieszczonych na frontowej lub tylnej stronie okładki. Kopia licencji załączona jest w sekcji zatytułowanej ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Licencja Wolnej Dokumentacji]]''.",
 	'wm-license-gfdl-1.2-only-header' => 'wyłącznie&nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "Udziela się zgody na kopiowanie, rozpowszechnianie oraz modyfikowanie tego dokumentu zgodnie z warunkami'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Licencji Wolnej Dokumentacji]]''', w wersji 1.3 lub nowszej opublikowanej przez [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez niezmiennych sekcji, bez treści umieszczonych na frontowej lub tylnej stronie okładki. Kopia licencji załączona jest w sekcji zatytułowanej ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Licencja Wolnej Dokumentacji]]''.",
 	'wm-license-gfdl-1.3-only' => "Udziela się zgody na kopiowanie, rozpowszechnianie oraz modyfikowanie tego dokumentu zgodnie z warunkami'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Licencji Wolnej Dokumentacji]]''', wyłącznie w wersji 1.3 opublikowanej przez [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez niezmiennych sekcji, bez treści umieszczonych na frontowej lub tylnej stronie okładki. Kopia licencji załączona jest w sekcji zatytułowanej ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Licencja Wolnej Dokumentacji]]''.",
