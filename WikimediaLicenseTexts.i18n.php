@@ -9828,8 +9828,15 @@ $messages['ku'] = array(
 Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên azad ra, versiyon 1.2 ya versiyonekê kevintir, belavkirin ji [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.",
 );
 
-/** Kurdish (Latin) (Kurdî (Latin)) */
+/** Kurdish (Latin) (Kurdî (Latin))
+ * @author George Animal
+ */
 $messages['ku-latn'] = array(
+	'wm-license-book-language' => 'Ziman',
+	'wm-license-book-subtitle' => 'Binnav',
+	'wm-license-book-title' => 'Sernav',
+	'wm-license-book-translator' => 'Wergêr',
+	'wm-license-cc-by-sa-2.0-de-text' => 'Ev dosye di bin lîsansa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/2.0/de/deed.en Attribution-Share Alike 2.0 Germany] de ye.',
 	'wm-license-information-description' => 'Wesif',
 	'wm-license-information-source' => 'Çavkanî',
 );

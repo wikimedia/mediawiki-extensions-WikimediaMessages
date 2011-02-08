@@ -5946,9 +5946,12 @@ $messages['ksh'] = array(
 	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 );
 
-/** Kurdish (Latin) (Kurdî (Latin)) */
+/** Kurdish (Latin) (Kurdî (Latin))
+ * @author George Animal
+ */
 $messages['ku-latn'] = array(
 	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
+	'group-Global_bot-member' => "bot'ê global",
 );
 
 /** Cornish (Kernowek)
