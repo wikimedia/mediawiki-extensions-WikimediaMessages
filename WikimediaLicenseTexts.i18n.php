@@ -9428,6 +9428,7 @@ $messages['km'] = array(
 	'wm-license-book-printer' => 'ក្រុមហ៊ុនបោះពុម្ភ',
 	'wm-license-book-publisher' => 'ក្រុមហ៊ុនផ្សព្វផ្យាយ',
 	'wm-license-book-series-title' => 'ឈ្មោះស៊េរី',
+	'wm-license-book-start-this-book' => 'ចាប់ផ្ដើមសៀវភៅនេះ',
 	'wm-license-book-subtitle' => 'ចំណងជើងរង',
 	'wm-license-book-title' => 'ចំណងជើង',
 	'wm-license-book-translator' => 'អ្នកបកប្រែ',
