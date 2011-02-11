@@ -1341,6 +1341,7 @@ $messages['bcl'] = array(
  * @author Diebuche
  * @author TarzanASG
  * @author Yury Tarasievich
+ * @author Тест
  */
 $messages['be'] = array(
 	'wm-license-cc-by-3.0-text' => 'Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.be Attribution 3.0 Unported]',
@@ -1350,6 +1351,8 @@ $messages['be'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:be:GNU Free Documentation License',
 	'wm-license-information-description' => 'Апісанне',
 	'wm-license-information-source' => 'Крыніца',
+	'wm-license-information-author' => 'Аўтар',
+	'wm-license-self-one-license' => 'Я, уладальнік аўтарскіх правоў на гэты твор, добраахвотна публікую яго на ўмовах наступнай ліцэнзіі:',
 );
 
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)

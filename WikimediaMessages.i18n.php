@@ -866,9 +866,12 @@ $messages['ay'] = array(
 	'sitesupport' => 'Ramañanaka',
 );
 
-/** Azerbaijani (Azərbaycanca) */
+/** Azerbaijani (Azərbaycanca)
+ * @author PPerviz
+ */
 $messages['az'] = array(
 	'sitesupport' => 'Bağışlar',
+	'group-steward' => 'Stüardlar',
 );
 
 /** Bashkir (Башҡортса)
