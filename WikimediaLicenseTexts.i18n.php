@@ -3352,6 +3352,7 @@ $messages['cy'] = array(
 	'wm-license-attribution-without-author-text' => "Mae deiliad hawlfraint y ffeil hon yn caniatáu i unrhyw un ei defnyddio '''i unrhyw bwrpas, ar yr amod bod''' deiliad yr hawlfraint yn cael ei gydnabod yn iawn. Mae ailddosbarthu, gwaith deilliadol, defnydd masnachol, a phob defnydd arall yn cael ei ganiatáu.",
 	'wm-license-book-edition' => 'Argraffiad',
 	'wm-license-book-editor' => 'Golygydd',
+	'wm-license-book-illustrator' => 'Darlunydd',
 	'wm-license-book-language' => 'Iaith',
 	'wm-license-book-place-of-publication' => 'Man cyhoeddi',
 	'wm-license-book-printer' => 'Argraffydd',
@@ -3386,6 +3387,9 @@ $messages['cy'] = array(
 	'wm-license-information-permission' => 'Caniatâd',
 	'wm-license-information-permission-see-below' => 'Gweler isod.',
 	'wm-license-information-other-versions' => 'Diwygiadau eraill',
+	'wm-license-own-work' => 'Gwaith yr uwchlwythwr',
+	'wm-license-self-one-license' => "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
+	'wm-license-self-multiple-licenses-select' => 'Gallwch ddewis y drwydded y mynnwch.',
 );
 
 /** Danish (Dansk)
@@ -9689,6 +9693,7 @@ $messages['ko'] = array(
 	'wm-license-cc-conditions-attribution-text' => '저작자나 이용허락자가 정한 방법으로 저작물의 원저작자를 표시하여야 합니다. (그러나 귀하나 귀하의 저작물을 추천하는 의미로 표시되어서는 안됩니다.)',
 	'wm-license-cc-conditions-share_alike-header' => '동일조건변경허락',
 	'wm-license-cc-conditions-share_alike-text' => '이 저작물을 개작, 가공, 변형한 이차적 저작물은 이 라이선스와 같거나 호환 가능한 라이선스로만 배포하여야 합니다.',
+	'wm-license-cc-pd-mark-text' => '이 파일은 저작권법상에서의 알려진 제한 사항(모든 관련된 권리와 저작인접권을 포함)이 없는 것으로 간주되었습니다.',
 	'wm-license-cecill-text' => '이 저작물은 [[{{int:wm-license-free-software-wiki-link}}|자유 소프트웨어]]로 [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]에 재배포하거나 수정할 수 있습니다.
 CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.info]에서 볼 수 있습니다.',
 	'wm-license-creator-alternative-names' => '다른 이름',
@@ -16313,6 +16318,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
  * @author Muddyb Blast Producer
  */
 $messages['sw'] = array(
+	'wm-license-book-illustrator' => 'Mchoraji',
 	'wm-license-cc-attribution' => 'Sifa',
 	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [http://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].',
 	'wm-license-cc-free' => 'Uko huru:',
@@ -16331,6 +16337,7 @@ $messages['sw'] = array(
 	'wm-license-information-permission-see-below' => 'Angalia hapa chini.',
 	'wm-license-information-other-versions' => 'Matoleo mengine',
 	'wm-license-own-work' => 'Kazi yangu',
+	'wm-license-self-multiple-licenses-select' => 'Unaweza kuchagua leseni unazoziona vyema.',
 );
 
 /** Silesian (Ślůnski) */

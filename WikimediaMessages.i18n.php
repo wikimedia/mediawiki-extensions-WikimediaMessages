@@ -2015,6 +2015,7 @@ $messages['cy'] = array(
 	'nstab-creator' => 'Gwneuthurwr',
 	'nstab-institution' => 'Sefydliad',
 	'nstab-sequence' => 'Dilyniant',
+	'nstab-timedtext' => 'Is-deitlau',
 	'group-abusefilter' => 'Golygyddion hidlo camdriniaeth',
 	'group-accountcreator' => 'Gwneuthurwyr cyfrifon',
 	'group-arbcom' => "Aelodau'r pwyllgor cyflafareddu",
@@ -9539,6 +9540,7 @@ Shikoni <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Pë
 
 /** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Millosh
+ * @author Rancher
  * @author Red Baron
  * @author Жељко Тодоровић
  * @author Михајло Анђелковић
@@ -9606,12 +9608,15 @@ $messages['sr-ec'] = array(
 	'group-Global_bot' => 'Глобални ботови',
 	'group-Global_rollback' => 'Глобални враћачи',
 	'group-Global_sysops' => 'Глобални администратори',
+	'group-Staff' => 'Уредништво',
 	'group-steward-member' => 'Стјуард',
 	'group-sysadmin-member' => 'системски администратор',
 	'group-editinterface-member' => 'уредник интерфејса',
 	'group-Global_bot-member' => 'глобални бот',
 	'group-Global_rollback-member' => 'глобални враћач',
 	'group-Global_sysops-member' => 'глобални администратор',
+	'group-Staff-member' => 'уредништво',
+	'grouppage-Staff' => 'Задужбина:Уредништво',
 	'group-coder' => 'Кодери',
 	'group-coder-member' => 'кодер',
 	'group-inactive' => 'Неактивни корисници',
