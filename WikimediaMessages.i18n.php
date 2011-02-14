@@ -6823,8 +6823,8 @@ $messages['ml'] = array(
 	'wikimedia-copyright' => 'വിവരങ്ങൾ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നൽകുക)</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
 	'wikimedia-copyrightwarning' => 'താങ്കൾ എഴുതിച്ചേർത്തത് സേവ് ചെയ്യുമ്പോൾ, പ്രസ്തുത എഴുത്ത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമൺസ്/ഷെയർ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എൽ.] എന്നീ അനുമതിപത്രങ്ങൾ പ്രകാരം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം, ഈ അനുമതികൾ പിന്നീട് മാറ്റാൻ കഴിയുന്നതല്ല. താങ്കൾ മാറ്റങ്ങൾ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവർ, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പർലിങ്കോ യു.ആർ.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നൽകുമെന്നും മനസ്സിലാക്കിയിരിക്കണം. 
 കൂടുതൽ വിവരങ്ങൾക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] കാണുക.',
-	'wikimedia-editpage-tos-summary' => 'താങ്കളുടെ എഴുത്ത് തിരുത്തുകയും പുനർവിതരണം ചെയ്യുന്നതും അനുവദിക്കാനാകില്ലങ്കിൽ, അത് ഇവിടെ സമർപ്പിക്കാതിരിക്കുക.
-ഇത് താങ്കൾ തന്നെ എഴുതിയതല്ലങ്കിൽ, നിർബന്ധമായും [http://wikimediafoundation.org/wiki/Terms_of_Use നിബന്ധനാ പ്രമാണത്തിനു] വിധേയമായി ലഭ്യമായിരിക്കണം, ഒപ്പം ബന്ധപ്പെട്ട അനുമതികൾ താങ്കൾ അംഗീകരിക്കേണ്ടതുമാണ്.',
+	'wikimedia-editpage-tos-summary' => 'താങ്കളുടെ എഴുത്ത് തിരുത്തുന്നതും പുനർവിതരണം ചെയ്യുന്നതും അനുവദിക്കാനാകില്ലെങ്കിൽ, അത് ഇവിടെ സമർപ്പിക്കാതിരിക്കുക.
+ഇത് താങ്കൾ തന്നെ എഴുതിയതല്ലങ്കിൽ, നിർബന്ധമായും [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗ നിബന്ധനകളുമായി] പൊരുത്തപ്പെടുന്ന വിധത്തിൽ ലഭ്യമായതായിരിക്കണം, ഒപ്പം ബന്ധപ്പെട്ട ഉപയോഗാനുമതികൾ താങ്കൾ അംഗീകരിക്കേണ്ടതുമാണ്.',
 );
 
 /** Mongolian (Монгол)
@@ -9469,6 +9469,7 @@ $messages['so'] = array(
 /** Albanian (Shqip)
  * @author Dori
  * @author Mikullovci11
+ * @author Olsi
  * @author Puntori
  */
 $messages['sq'] = array(
@@ -9522,6 +9523,7 @@ $messages['sq'] = array(
 	'group-Staff' => 'Stafi',
 	'group-steward-member' => 'Përgjegjës',
 	'group-sysadmin-member' => 'administratori i sistemit',
+	'group-editinterface-member' => 'redaktor interface',
 	'group-Global_bot-member' => 'roboti globale',
 	'group-Global_rollback-member' => 'Rikthejuës globale',
 	'group-Global_sysops-member' => 'Administrator globale',
