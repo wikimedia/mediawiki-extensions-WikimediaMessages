@@ -18793,9 +18793,9 @@ $messages['zh-hans'] = array(
 公共領域貢獻宣告]发行。',
 	'wm-license-cc-zero-explanation' => '以本文件发行本作品的关联人，已在法律允许的范围内，依据各国著作权法在全世界放弃其对本作品所拥有的著作权及所有相关相似的法律权利，并已将本作品贡献至[[{{int:wm-license-pd-wiki-link}}|公有领域]]。你可以复制、修改、分发和表演该作品，用于任何商业用途，所有这些都不需要再次授权。',
 	'wm-license-cc-free' => '您可以自由：',
-	'wm-license-cc-free-to-share-header' => '',
+	'wm-license-cc-free-to-share-header' => '分享',
 	'wm-license-cc-free-to-share-text' => '复制、发行、展览、表演、放映、广播或通过信息网络传播本作品',
-	'wm-license-cc-free-to-remix-header' => '',
+	'wm-license-cc-free-to-remix-header' => '重新修改',
 	'wm-license-cc-free-to-remix-text' => '创作演绎作品',
 	'wm-license-cc-conditions' => '惟须遵守下列条件：',
 	'wm-license-cc-conditions-attribution-header' => '署名',
@@ -19073,7 +19073,7 @@ $messages['zh-hant'] = array(
 	'wm-license-information-table-summary' => '提供該檔案完整資訊的標準表格，包括該檔案的展示內容和製作方法的描述，著作權狀況和來源。',
 	'wm-license-information-description' => '描述',
 	'wm-license-information-description-missing' => "這個媒體沒有'''{{ #if: {{{1|}}} | {{{1}}} | 描述 }}'''，並可能缺少其他資訊。",
-	'wm-license-information-description-missing-request' => '媒體應該包含內容、作者、來源等描述讓他人進行了解，並儘可能帶有日期。如果你知道或得到了這些資訊，請新增到圖像頁。',
+	'wm-license-information-description-missing-request' => '請提供該檔案的詳細描述。',
 	'wm-license-information-source' => '來源',
 	'wm-license-information-source-missing' => "此檔案缺少'''來源'''資訊。",
 	'wm-license-information-source-missing-request' => '請編輯該檔案的描述頁以提供出處。',
@@ -19106,21 +19106,6 @@ $messages['zh-hant'] = array(
 $messages['zh-min-nan'] = array(
 	'wm-license-free-software-wiki-link' => 'w:zh-min-nan:Chū-iû nńg-thé',
 	'wm-license-gfdl-wiki-link' => 'w:zh-min-nan:GNU Chū-iû Bûn-kiāⁿ Hí-khó-su',
-);
-
-/** Chinese (Taiwan) (‪中文(台灣)‬) */
-$messages['zh-tw'] = array(
-	'wm-license-information-description' => '描述',
-	'wm-license-information-description-missing' => "這個檔案沒有'''{{ #if: {{{1|}}} | {{{1}}} | 描述 }}'''，並可能缺少其它資訊。",
-	'wm-license-information-description-missing-request' => '體案應該包含內容、作者、來源等資訊以方便他人了解，並儘可能帶有日期。如果你知道或得到了這些資訊，請添加到本頁。',
-	'wm-license-information-source' => '來源',
-	'wm-license-information-date' => '日期',
-	'wm-license-information-author' => '作者',
-	'wm-license-information-author-missing' => "本檔案缺乏'''作者'''訊息。",
-	'wm-license-information-permission' => '許可協議',
-	'wm-license-information-permission-see-below' => '如下。',
-	'wm-license-information-other-versions' => '其他版本',
-	'wm-license-own-work' => '上傳者自己的作品',
 );
 
 /** Cantonese (粵語) */
