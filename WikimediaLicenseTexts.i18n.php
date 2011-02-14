@@ -18789,8 +18789,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/sa/1.0/fl/deed.zh 相同方式共享 1.0 芬兰]许可协议授权。',
 	'wm-license-cc-sa-1.0-nl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/sa/1.0/nl/deed.zh 相同方式共享 1.0 荷兰]许可协议授权。',
 	'wm-license-cc-sa-2.0-jp-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/sa/2.0/jp/deed.zh 相同方式共享 2.0 日本]许可协议授权。',
-	'wm-license-cc-zero-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/publicdomain/zero/1.0/deed.zh CC0 1.0 通用
-公共領域貢獻宣告]发行。',
+	'wm-license-cc-zero-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/publicdomain/zero/1.0/deed.zh CC0 1.0 通用公有领域贡献宣告]发行。',
 	'wm-license-cc-zero-explanation' => '以本文件发行本作品的关联人，已在法律允许的范围内，依据各国著作权法在全世界放弃其对本作品所拥有的著作权及所有相关相似的法律权利，并已将本作品贡献至[[{{int:wm-license-pd-wiki-link}}|公有领域]]。你可以复制、修改、分发和表演该作品，用于任何商业用途，所有这些都不需要再次授权。',
 	'wm-license-cc-free' => '您可以自由：',
 	'wm-license-cc-free-to-share-header' => '分享',
