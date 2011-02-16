@@ -59,7 +59,6 @@ $messages['en'] = array(
 	'group-patroller'             => 'Patrollers',
 	'group-researcher'            => 'Researchers',
 	'group-rollbacker'            => 'Rollbackers',
-	'group-svnadmins'             => 'SVN administrators',
 	'group-transwiki'             => 'Transwiki importers',
 	'group-trusted'               => 'Trusted users',
 
@@ -83,7 +82,6 @@ $messages['en'] = array(
 	'group-patroller-member'      => 'patroller',
 	'group-researcher-member'     => 'researcher',
 	'group-rollbacker-member'     => 'rollbacker',
-	'group-svnadmins-member'      => 'SVN administrator',
 	'group-transwiki-member'      => 'transwiki importer',
 	'group-trusted-member'        => 'trusted user',
 
@@ -106,7 +104,6 @@ $messages['en'] = array(
 	'grouppage-OTRS-member'    => '{{ns:project}}:OTRS members',
 	'grouppage-researcher'     => '{{ns:project}}:Researchers',
 	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
-	'grouppage-svnadmins'      => '{{ns:project}}:SVN administrators',
 	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
 	'grouppage-trusted'        => '{{ns:project}}:Trusted users',
 
