@@ -5992,6 +5992,7 @@ $messages['ksh'] = array(
  */
 $messages['ku-latn'] = array(
 	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
+	'group-Global_bot' => "Bot'ên global",
 	'group-Global_bot-member' => "bot'ê global",
 );
 
