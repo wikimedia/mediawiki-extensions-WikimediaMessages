@@ -682,7 +682,7 @@ $messages['ar'] = array(
 	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="http://creativecommons.org/licenses/by-sa/3.0/">رخصة المُشاع المُبدع نسبة المُصنّف إلى مؤلفه - المشاركة على قدم المساواة</a>.
 قد تنطبق بنود أخرى أيضًا.
 انظر <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
-	'wikimedia-copyrightwarning' => 'بحفظ الصفحة، فأنت توافق على إصدار مساهمتك بلا رجعة تحت [http://creativecommons.org/licenses/by-sa/3.0/ رخصة المشاع المبدع نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة] و[http://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
+	'wikimedia-copyrightwarning' => 'بحفظ الصفحة، فأنت توافق على إصدار مساهمتك بلا رجعة تحت [http://creativecommons.org/licenses/by-sa/3.0/ رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[http://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
 أنت توافق على أن يشير إليك معيدو الاستخدام على الأقل عبر وصلة فائقة أو مسار إلى الصفحة التي تساهم فيها.
 انظر [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.',
 	'wikimedia-editpage-tos-summary' => 'لو أنك لا تريد لكتابتك أن تعدل ويعاد توزيعها، فلا ترسلها هنا.
@@ -2598,7 +2598,6 @@ $messages['el'] = array(
 	'group-patroller' => 'Περιπολητές',
 	'group-researcher' => 'Ερευνητές',
 	'group-rollbacker' => 'Αναιρέτες',
-	'group-svnadmins' => 'διαχειριστές SVN',
 	'group-transwiki' => 'Εισαγωγείς Transwiki',
 	'group-trusted' => 'Έμπιστοι χρήστες',
 	'group-abusefilter-member' => 'τροποποιητής φίλτρων καταχρήσεων',
@@ -2611,9 +2610,11 @@ $messages['el'] = array(
 	'group-filemover-member' => 'μετακινητής αρχείου',
 	'group-flood-member' => 'χρήστης bot',
 	'group-founder-member' => 'Ιδρυτής',
+	'group-Image-reviewer-member' => 'εξεταστής εικόνας',
 	'group-import-member' => 'εισαγωγέας',
 	'group-interface_editors-member' => 'επεξεργαστής της διεπαφής',
 	'group-ipblock-exempt-member' => 'Απαλλαγή από φραγή IP',
+	'group-OTRS-member-member' => 'μέλος OTRS',
 	'group-patroller-member' => 'περιπολητής',
 	'group-researcher-member' => 'ερευνητής',
 	'group-rollbacker-member' => 'αναιρέτης',
@@ -2626,11 +2627,14 @@ $messages['el'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Αυτοελεγκτές',
 	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι εξαγωγείς',
 	'grouppage-confirmed' => '{{ns:project}}:Επιβεβαιωμένοι χρήστες',
+	'grouppage-editprotected' => '{{ns:project}}: Προστατευμένη σελίδα από συντάκτες',
 	'grouppage-flood' => '{{ns:project}}:Χρήστες bot',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Εξεταστές εικόνας',
 	'grouppage-import' => '{{ns:project}}:Εισαγωγείς',
 	'grouppage-interface_editors' => '{{ns:project}}:Επεξεργαστές της διεπαφής',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
+	'grouppage-OTRS-member' => '{{ns:project}}: OTRS μέλη',
 	'grouppage-researcher' => '{{ns:project}}:Ερευνητές',
 	'grouppage-rollbacker' => '{{ns:project}}:Αναιρέτες',
 	'grouppage-transwiki' => '{{ns:project}}:Εισαγωγείς Transwiki',
