@@ -2652,7 +2652,7 @@ $messages['el'] = array(
 	'group-Global_bot' => 'Καθολικά bots',
 	'group-Global_rollback' => 'Καθολικοί rollbackers',
 	'group-Global_sysops' => 'Καθολικοί διαχειριστές',
-	'group-Ombudsmen' => 'Συνήγοροι του πολίτη',
+	'group-Ombudsmen' => 'Διαμεσολαβήτες',
 	'group-Staff' => 'Προσωπικό',
 	'group-steward-member' => 'επίτροπος',
 	'group-sysadmin-member' => 'διαχειριστής συστήματος',
@@ -8150,7 +8150,7 @@ $messages['pt'] = array(
 	'group-inactive' => 'Utilizadores inactivos',
 	'group-inactive-member' => 'utilizador inactivo',
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inactivos',
-	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/deep.pt">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
+	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
 Consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a> para mais detalhes.',
 	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
