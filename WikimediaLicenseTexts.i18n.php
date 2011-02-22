@@ -7695,6 +7695,7 @@ $messages['hsb'] = array(
 	'wm-license-licensing-update-text' => 'Tuta licencna marka je so tutej dataji jako dźěl [[{{int:wm-license-licensing-update-wiki-link}}|licencneje aktualizacije]] přidała.',
 	'wm-license-original-upload-log' => 'Originalny protokol nahraćow',
 	'wm-license-own-work' => 'Swójske dźěło',
+	'wm-license-pd-author-not-legally-possible' => 'W někotrych krajach je to snano prawnisce njemóžno; jeli tomu tak je:',
 	'wm-license-self-one-license' => 'Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacej licencu:',
 	'wm-license-self-one-license-with-author' => '$1, awtor tutoho dźěła, wozjewja jo z tym pod slědowacu licencu:',
 	'wm-license-self-multiple-licenses' => 'Ja, awtor tutoho dźěła, wozjewjam jo z tym pod slědowacymi licencami:',
