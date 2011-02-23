@@ -5680,6 +5680,7 @@ $messages['fa'] = array(
  * @author Olli
  * @author Str4nd
  * @author Trixt
+ * @author Wix
  * @author ZeiP
  */
 $messages['fi'] = array(
@@ -5688,6 +5689,7 @@ $messages['fi'] = array(
 	'wm-license-attribution-without-author-text' => "Tämän teoksen tekijänoikeuksien haltija sallii teoksen käytön '''mihin tahansa tarkoitukseen, edellyttäen että''' tekijänoikeuksien haltija on asianmukaisesti mainittu. Uudelleenjakelu, muokkaus, kaupallinen käyttö ja muu käyttö on sallittua.",
 	'wm-license-book-edition' => 'Painos',
 	'wm-license-book-editor' => 'Muokkaaja',
+	'wm-license-book-illustrator' => 'Kuvittaja',
 	'wm-license-book-language' => 'Kieli',
 	'wm-license-book-page-overview' => 'Sivun yleiskatsaus',
 	'wm-license-book-place-of-publication' => 'Julkaisupaikka',
@@ -5725,7 +5727,7 @@ $messages['fi'] = array(
 	'wm-license-cc-by-2.0-tw-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/tw/deed.fi Attribution 2.0 Taiwan] -lisenssin alaisena.',
 	'wm-license-cc-by-2.0-uk-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/uk/deed.fi Attribution 2.0 UK: England & Wales] -lisenssin alaisena.',
 	'wm-license-cc-by-2.0-za-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/za/deed.fi Attribution 2.0 South Africa] -lisenssin alaisena.',
-	'wm-license-cc-by-2.1-au-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.fi Attribution 2.1 Australia] -lisenssin alaisena.',
+	'wm-license-cc-by-2.1-au-text' => 'Tämä tiedosto on lisensoitu lisenssillä <span class="plainlinks">[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/au/deed.fi Nimeä 2.1 Australia]</span>.',
 	'wm-license-cc-by-2.1-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.fi Attribution 2.1 Spain] -lisenssin alaisena.',
 	'wm-license-cc-by-2.1-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.fi Attribution 2.1 Japan] -lisenssin alaisena.',
 	'wm-license-cc-by-2.5-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.fi Nimeä 2.5 Raakaversio] -lisenssillä.',
@@ -5759,6 +5761,7 @@ $messages['fi'] = array(
 	'wm-license-cc-by-3.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/deed.fi Nimeä 3.0 Muokkaamaton] -lisenssillä.',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [http://creativecommons.org/licenses/by/3.0/deed.fi 3.0 Unported], [http://creativecommons.org/licenses/by/2.5/deed.fi 2.5 Generic], [http://creativecommons.org/licenses/by/2.0/deed.fi 2.0 Generic] ja [http://creativecommons.org/licenses/by/1.0/deed.fi 1.0 Generic] -lisenssien alaisena.',
 	'wm-license-cc-by-3.0-at-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.fi Nimeä 3.0 Itävalta] -lisenssillä.',
+	'wm-license-cc-by-3.0-au-text' => 'Tämä tiedosto on lisensoitu lisenssillä <span class="plainlinks">[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/au/deed.fi Nimeä 3.0 Australia]</span>.',
 	'wm-license-cc-by-3.0-cz-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/deed.fi Attribution 3.0 Czech Republic] -lisenssin alaisena.',
 	'wm-license-cc-by-3.0-de-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.fi Nimeä 3.0 Saksa] -lisenssillä.',
 	'wm-license-cc-by-3.0-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/es/deed.fi Attribution 3.0 Spain] -lisenssin alaisena.',
@@ -5838,6 +5841,7 @@ $messages['fi'] = array(
 	'wm-license-cc-by-sa-3.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fi Nimeä-Tarttuva 3.0 Muokkaamaton] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [http://creativecommons.org/licenses/by-sa/3.0/deed.fi 3.0 Unported], [http://creativecommons.org/licenses/by-sa/2.5/deed.fi 2.5 Generic], [http://creativecommons.org/licenses/by-sa/2.0/deed.fi 2.0 Generic] ja [http://creativecommons.org/licenses/by-sa/1.0/deed.fi 1.0 Generic] -lisenssien alaisena.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.fi Nimeä-Tarttuva 3.0 Itävalta] -lisenssillä.',
+	'wm-license-cc-by-sa-3.0-au-text' => 'Tämä tiedosto on lisensoitu lisenssillä <span class="plainlinks">[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/au/deed.fi Nimeä-Tarttuva 3.0 Australia]</span>.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.fi Attribution-Share Alike 3.0 Czech Republic] -lisenssin alaisena.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.fi Nimeä-Tarttuva 3.0 Saksa] -lisenssillä.',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.fi Nimeä-Tarttuva 3.0 Espanja] -lisenssillä.',
@@ -5862,8 +5866,8 @@ $messages['fi'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/fi/deed.fi Share Alike 1.0 Finland] -lisenssin alaisena.',
 	'wm-license-cc-sa-1.0-nl-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/deed.fi Share Alike 1.0 Netherlands] -lisenssin alaisena.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/deed.fi Share Alike 2.0 Japan] -lisenssin alaisena.',
-	'wm-license-cc-zero-text' => 'Tämä tiedosto on tehty saataville [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.en CC0 vapaasti].',
-	'wm-license-cc-zero-explanation' => 'Henkilö, joka on lisensoinut työnsä tämän dokumentin perusteella, on luovuttanut työn Commonsin käyttöön luovuttamalla kaikki oikeutensa työhön maailmanlaajuisen tekijänoikeuslain mukaan sekä kaikki kuuluvat oikeudet, joita hänellä oli työhön, niin laajasti, kuin laki sallii. Työt, jotka on lisensoitu  CC0-lisenssin alaiseksi eivät vaadi nimeämistä. Kun lainaat työtä, sinun ei pidä ilmoittaa tekijää.',
+	'wm-license-cc-zero-text' => 'Tämä teos on saatettu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/publicdomain/zero/1.0/deed.fi CC0 1.0 Universal Public Domain Dedicationin] alaisuuteen.',
+	'wm-license-cc-zero-explanation' => "Tämän teoksen tekijänoikeuksien haltija on lisensoinut teoksensa dokumentin perusteella ja näin ollen '''[[{{int:wm-license-pd-wiki-link}}|luovuttanut teoksen vapaaseen käyttöön]]''' luovuttamalla maailmanlaajuisesti kaikki tekijänoikeuslaissa säädetyt oikeutensa, mukaanlukien lähioikeudet, niin laajasti kuin laki sallii. '''Saat kopioida, muunnella, levittää ja esittää teosta''', myös ansiotarkoituksessa, '''ilman että sinun tarvitsee kysyä mihinkään lupaa''' teoksen tekijänoikeuksien haltijalta. Käytettäessä teosta sinun ei tarvitse nimetä tekijää asiakirjan mukaan. Huomaa, että moraaliset oikeudet saattavat kuitenkin vaatia tekijän nimeämisen.",
 	'wm-license-cc-free' => 'Voit:',
 	'wm-license-cc-free-to-share-header' => 'jakaa',
 	'wm-license-cc-free-to-share-text' => 'kopioida, levittää ja esittää teosta',
@@ -5874,6 +5878,7 @@ $messages['fi'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Teoksen tekijä on ilmoitettava siten kuin tekijä tai teoksen lisensoija on sen määrännyt (mutta ei siten että ilmoitus viittaisi lisenssinantajan tukevan lisenssinsaajaa tai Teoksen käyttötapaa)',
 	'wm-license-cc-conditions-share_alike-header' => 'tarttuva',
 	'wm-license-cc-conditions-share_alike-text' => 'Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain tällä tai tämän kaltaisella lisenssillä.',
+	'wm-license-cc-pd-mark-text' => 'Tämä teos on vapaa tunnetuista tekijänoikeuslain mukaisista rajoituksista, mukaanlukien lähioikeuksista.',
 	'wm-license-cecill-text' => 'Tämä teos on osa [[{{int:wm-license-free-software-wiki-link}}|vapaata ohjelmistoa]]. Voit levittää tai muuttaa sitä [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-lisenssin ehtojen mukaisesti. CeCILL-lisenssin ehdot ovat saatavilla osoitteessa [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:fi:CeCILL',
 	'wm-license-creator-alternative-names' => 'Muut nimet',
@@ -5884,11 +5889,13 @@ $messages['fi'] = array(
 	'wm-license-creator-location-of-birth-and-death' => 'Syntymä-/kuolinpaikka',
 	'wm-license-creator-work-period' => 'Työskentelyaika',
 	'wm-license-creator-work-location' => 'Työskentelypaikka',
+	'wm-license-creator-linkback' => 'Linkki takaisin mallineeseen Creator infobox',
 	'wm-license-fal-text' => "Vapaa tekijänoikeuksista: Tämä työ on vapaata; voit levittää ja/tai muuttaa sitä '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' -lisenssin alaisena. Löydät esimerkin tästä lisenssistä [{{int:wm-license-fal-full-link}} Copyleft Attitude -sivulta].",
 	'wm-license-fsf-wiki-link' => 'w:fi:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:fi:Vapaa ohjelmisto',
 	'wm-license-gfdl-1.2-and-later' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' -lisenssin version 1.2 tai myöhemmän ehtojen alaisena, jotka on julkaistu [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] puolesta; ei koske muuttumattomia kohtia, ei etukannen tekstejä eikä kirjankannen tekstejä. Kopio tästä lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' versio 1.2 alaisena vain [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]in julkaisemana; lukuunottamatta muuttumattomia kohtia, etukannen tekstejä, ja takakannen tekstejä. Kopio tästä lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only-header' => 'Vain&nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.3 tai myöhemmän ehtojen alaisena, jonka [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] on julkaissut; lukuun ottamatta muuttumattomia kohtia, etukannen tekstejä, sekä takakannen tekstejä. Kopio lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.3 ehtojen alaisena, vain [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] julkaisemana; lukuun ottamatta muuttumattomia kohtia, etukannen tekstejä, sekä takakannen tekstejä. Kopio lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:fi:GNU Free Documentation License',
@@ -9915,6 +9922,10 @@ $messages['krc'] = array(
  */
 $messages['ksh'] = array(
 	'wikimedialicensetexts-desc' => 'De Wikimedia Shteftong ier lizänzbetrocke Täxboushtein',
+	'wm-license-attribution-with-author-text' => "Der Urhäver vun dä Dattei heiß $1 un löht jederein di Dattei '''op jeede Aat verwände un nozze, met dä Bedengung''' dat derbei op en aanjemmeße Aad un Wies op der Urhävver henjewiise weed.
+Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß sin zohjelohße.",
+	'wm-license-attribution-without-author-text' => "Der Urhäver vun dä Dattei löht jederein di Dattei '''op jeede Aat verwände un nozze, met dä Bedengung''' dat derbei op en aanjemmeße Aad un Wies op der Urhävver henjewiise weed.
+Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß sin zohjelohße.",
 	'wm-license-cc-wiki-link' => 'w:ksh:Creative Commons',
 	'wm-license-cc-attribution' => 'Namensnännong',
 	'wm-license-cc-by-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/deed.de {{int:wm-license-cc-conditions-attribution-header}}, Version 1.0, alljemein]“.',

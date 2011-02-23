@@ -5280,6 +5280,7 @@ $messages['it'] = array(
  * @author Fryed-peach
  * @author Hosiryuhosi
  * @author JtFuruhata
+ * @author Marine-Blue
  * @author Meno25
  * @author Ohgi
  * @author Suisui
@@ -5311,13 +5312,12 @@ $messages['ja'] = array(
 	'group-founder' => '創設者',
 	'group-Image-reviewer' => '画像査読者',
 	'group-import' => 'インポート担当者',
-	'group-interface_editors' => 'インターフェイス編集者',
+	'group-interface_editors' => 'インターフェース編集者',
 	'group-ipblock-exempt' => 'IPブロック適用除外者',
 	'group-OTRS-member' => 'OTRSメンバー',
 	'group-patroller' => '巡回者',
 	'group-researcher' => '調査者',
 	'group-rollbacker' => '巻き戻し者',
-	'group-svnadmins' => 'SVN管理者',
 	'group-transwiki' => 'ウィキ間インポート担当者',
 	'group-trusted' => '信頼された利用者',
 	'group-abusefilter-member' => '不正利用フィルター編集者',
@@ -5334,13 +5334,12 @@ $messages['ja'] = array(
 	'group-founder-member' => '創設者',
 	'group-Image-reviewer-member' => '画像査読者',
 	'group-import-member' => 'インポート担当者',
-	'group-interface_editors-member' => 'インターフェイス編集者',
+	'group-interface_editors-member' => 'インターフェース編集者',
 	'group-ipblock-exempt-member' => 'IPブロック適用除外者',
 	'group-OTRS-member-member' => 'OTRSメンバー',
 	'group-patroller-member' => '巡回者',
 	'group-researcher-member' => '調査者',
 	'group-rollbacker-member' => '巻き戻し者',
-	'group-svnadmins-member' => 'SVN管理者',
 	'group-transwiki-member' => 'ウィキ間インポート担当者',
 	'group-trusted-member' => '信頼された利用者',
 	'grouppage-abusefilter' => '{{ns:project}}:不正利用フィルター編集者',
@@ -5362,7 +5361,6 @@ $messages['ja'] = array(
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRSメンバー',
 	'grouppage-researcher' => '{{ns:project}}:調査者',
 	'grouppage-rollbacker' => '{{ns:project}}:巻き戻し者',
-	'grouppage-svnadmins' => '{{ns:project}}:SVN管理者',
 	'grouppage-transwiki' => '{{ns:project}}:ウィキ間インポート担当者',
 	'grouppage-trusted' => '{{ns:project}}:信頼された利用者',
 	'group-steward' => 'スチュワード',
