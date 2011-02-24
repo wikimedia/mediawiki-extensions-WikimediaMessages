@@ -3391,7 +3391,12 @@ $messages['cy'] = array(
 	'wm-license-information-permission-see-below' => 'Gweler isod.',
 	'wm-license-information-other-versions' => 'Diwygiadau eraill',
 	'wm-license-own-work' => 'Gwaith yr uwchlwythwr',
+	'wm-license-pd-author-self-text' => "Yr wyf fi, deiliad hawlfraint y gwaith hwn, yn ei ryddhau i'r '''[[{{int:wm-license-pd-wiki-link}}|parth cyhoeddus]]''', a hynny'n fyd-eang.",
+	'wm-license-pd-author-not-legally-possible' => 'Hwyrach nad yw hyn yn bosib yn ôl cyfraith rhai gwledydd; os felly:',
 	'wm-license-self-one-license' => "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
+	'wm-license-self-one-license-with-author' => "Mae $1, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
+	'wm-license-self-multiple-licenses' => "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r trwyddedau a ganlyn:",
+	'wm-license-self-multiple-licenses-with-author' => "Mae $1, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r trwyddedau a ganlyn:",
 	'wm-license-self-multiple-licenses-select' => 'Gallwch ddewis y drwydded y mynnwch.',
 );
 
