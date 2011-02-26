@@ -273,6 +273,7 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Fryed-peach
  * @author Jean-Frédéric
+ * @author Lloffiwr
  * @author Multichill
  * @author SMP
  * @author Siebrand
@@ -470,6 +471,7 @@ $messages['qqq'] = array(
 	'wm-license-licensing-update-text' => 'This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].',
 	'wm-license-licensing-update-wiki-link' => '{{optional}}
 Translate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.',
+	'wm-license-original-upload-log' => 'Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [http://commons.wikimedia.org/wiki/File:Inkscape_logo_2.svg example].',
 	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]]',
 	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
 	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
@@ -1627,6 +1629,8 @@ $messages['bg'] = array(
 	'wikimedialicensetexts-desc' => 'Лицензни съобщения на Уикимедия',
 	'wm-license-attribution-with-author-text' => "Притежателят на авторските права на този файл, $1, позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
 	'wm-license-attribution-without-author-text' => "Притежателят на авторските права на този файл позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
+	'wm-license-book-language' => 'Език',
+	'wm-license-book-translator' => 'Преводач',
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
 	'wm-license-cc-attribution' => 'Признание',
 	'wm-license-cc-by-1.0-text' => 'Този файл е лицензиран под [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [http://creativecommons.org/licenses/by/1.0/deed.bg Attribution 1.0 Generic] лиценз.',
@@ -3390,6 +3394,7 @@ $messages['cy'] = array(
 	'wm-license-information-permission' => 'Caniatâd',
 	'wm-license-information-permission-see-below' => 'Gweler isod.',
 	'wm-license-information-other-versions' => 'Diwygiadau eraill',
+	'wm-license-original-upload-log' => 'Cofnod lòg yr uwchlwythiad gwreiddiol',
 	'wm-license-own-work' => 'Gwaith yr uwchlwythwr',
 	'wm-license-pd-author-self-text' => "Yr wyf fi, deiliad hawlfraint y gwaith hwn, yn ei ryddhau i'r '''[[{{int:wm-license-pd-wiki-link}}|parth cyhoeddus]]''', a hynny'n fyd-eang.",
 	'wm-license-pd-author-not-legally-possible' => 'Hwyrach nad yw hyn yn bosib yn ôl cyfraith rhai gwledydd; os felly:',
@@ -16563,6 +16568,7 @@ $messages['sw'] = array(
 	'wm-license-information-permission' => 'Ruhusa',
 	'wm-license-information-permission-see-below' => 'Angalia hapa chini.',
 	'wm-license-information-other-versions' => 'Matoleo mengine',
+	'wm-license-original-upload-log' => 'Kumbukumbu ya upakizaji wa asili',
 	'wm-license-own-work' => 'Kazi yangu',
 	'wm-license-self-multiple-licenses-select' => 'Unaweza kuchagua leseni unazoziona vyema.',
 );
