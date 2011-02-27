@@ -7488,6 +7488,7 @@ $messages['no'] = array(
 	'nstab-creator' => 'Opprettet av',
 	'nstab-institution' => 'Institusjon',
 	'nstab-sequence' => 'Rekkefølge',
+	'nstab-timedtext' => 'Tidsbestemt tekst',
 	'group-abusefilter' => 'Redaktører av misbruksfilteret',
 	'group-accountcreator' => 'Kontoopprettere',
 	'group-arbcom' => 'Meglingskomitémedlemmer',
