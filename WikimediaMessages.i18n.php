@@ -869,6 +869,9 @@ $messages['ay'] = array(
 $messages['az'] = array(
 	'sitesupport' => 'Bağışlar',
 	'group-steward' => 'Stüardlar',
+	'wikimedia-copyright' => 'Mətn <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisenziyası</a> altındadır;
+əlavə şərtlər tətbiq oluna bilər.
+Ətraflı məlumat üçün <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
 );
 
 /** Bashkir (Башҡортса)
