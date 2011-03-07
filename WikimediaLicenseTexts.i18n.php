@@ -3364,6 +3364,7 @@ $messages['cy'] = array(
 	'wm-license-book-place-of-publication' => 'Man cyhoeddi',
 	'wm-license-book-printer' => 'Argraffydd',
 	'wm-license-book-publisher' => 'Cyhoeddwr',
+	'wm-license-book-series-title' => 'Teitl y gyfres',
 	'wm-license-book-subtitle' => 'Isdeitl',
 	'wm-license-book-title' => 'Teitl',
 	'wm-license-book-translator' => 'Cyfieithydd',
@@ -3377,6 +3378,7 @@ $messages['cy'] = array(
 	'wm-license-cc-free-to-remix-text' => "gallwch addasu'r gwaith",
 	'wm-license-cc-conditions' => 'Ar yr amodau canlynol:',
 	'wm-license-cc-conditions-attribution-header' => 'cydnabyddiaeth',
+	'wm-license-creator-alternative-names' => 'Enwau eraill',
 	'wm-license-creator-description' => 'Disgrifiad',
 	'wm-license-creator-date-of-birth' => 'Dyddiad geni',
 	'wm-license-creator-date-of-birth-and-death' => 'Dyddiad geni/marw',
@@ -3392,11 +3394,13 @@ $messages['cy'] = array(
 	'wm-license-information-date' => 'Dyddiad',
 	'wm-license-information-author' => 'Awdur',
 	'wm-license-information-permission' => 'Caniatâd',
+	'wm-license-information-permission-reusing-text' => "Ailddefnyddio'r ffeil hon",
 	'wm-license-information-permission-see-below' => 'Gweler isod.',
 	'wm-license-information-other-versions' => 'Diwygiadau eraill',
 	'wm-license-original-upload-log' => 'Cofnod lòg yr uwchlwythiad gwreiddiol',
 	'wm-license-own-work' => 'Gwaith yr uwchlwythwr',
 	'wm-license-pd-author-self-text' => "Yr wyf fi, deiliad hawlfraint y gwaith hwn, yn ei ryddhau i'r '''[[{{int:wm-license-pd-wiki-link}}|parth cyhoeddus]]''', a hynny'n fyd-eang.",
+	'wm-license-pd-author-with-author-text' => "Cafodd y gwaith hwn ei ryddhau i'r '''[[{{int:wm-license-pd-wiki-link}}|parth cyhoeddus]]''' gan ei awdur, '''$1'''. Mae hyn yn weithredol ledled y byd.",
 	'wm-license-pd-author-not-legally-possible' => 'Hwyrach nad yw hyn yn bosib yn ôl cyfraith rhai gwledydd; os felly:',
 	'wm-license-self-one-license' => "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
 	'wm-license-self-one-license-with-author' => "Mae $1, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
@@ -10009,10 +10013,10 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-cc-by-2.5-za-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/za/ met {{int:wm-license-cc-conditions-attribution-header}}, Version 2.5, Södaffrika]“.',
 	'wm-license-cc-by-3.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, nit potteet]“.',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänze:
-„[http://creativecommons.org/licenses/by-sa/3.0/at/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, nit poteet]“ un 
-„[http://creativecommons.org/licenses/by-sa/2.5/at/ met {{int:wm-license-cc-conditions-attribution-header}} Version 2.5, alljemein]“ un 
-„[http://creativecommons.org/licenses/by-sa/2.0/at/ met {{int:wm-license-cc-conditions-attribution-header}} Version 2.0, alljemein]“ un 
-„[http://creativecommons.org/licenses/by-sa/1.0/at/ met {{int:wm-license-cc-conditions-attribution-header}} Version 1.0, alljemein]“.',
+„[http://creativecommons.org/licenses/by/3.0/ met {{int:wm-license-cc-conditions-attribution-header}}, Version 3.0, nit poteet]“ un 
+„[http://creativecommons.org/licenses/by/2.5/ met {{int:wm-license-cc-conditions-attribution-header}}, Version 2.5, alljemein]“ un 
+„[http://creativecommons.org/licenses/by/2.0/ met {{int:wm-license-cc-conditions-attribution-header}}, Version 2.0, alljemein]“ un 
+„[http://creativecommons.org/licenses/by/1.0/ met {{int:wm-license-cc-conditions-attribution-header}}, Version 1.0, alljemein]“.',
 	'wm-license-cc-by-3.0-at-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/at/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, Öösterisch]“.',
 	'wm-license-cc-by-3.0-au-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/au/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, Austraalije]“.',
 	'wm-license-cc-by-3.0-cz-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/cz/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, de Tschäschei]“.',
@@ -10034,7 +10038,7 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-cc-by-3.0-sg-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/sg/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, Singjapuer]“.',
 	'wm-license-cc-by-3.0-th-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/th/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, Tailand]“.',
 	'wm-license-cc-by-3.0-tw-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/tw/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, Taiwan]“.',
-	'wm-license-cc-by-3.0-us-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/us/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, USA]“.',
+	'wm-license-cc-by-3.0-us-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/3.0/us/ met {{int:wm-license-cc-conditions-attribution-header}} Version 3.0, de USA]“.',
 	'wm-license-cc-by-sa-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/1.0/ met {{int:wm-license-cc-conditions-attribution-header}} un {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, alljemein]“.',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/1.0/fi met {{int:wm-license-cc-conditions-attribution-header}} un {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, Finnland]“.',
 	'wm-license-cc-by-sa-1.0-il-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/1.0/il met {{int:wm-license-cc-conditions-attribution-header}} un {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, Ißraäl]“.',
@@ -10062,6 +10066,10 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-cc-by-sa-2.1-es-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.1/es/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.1, Schpaanije]“.',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.1/jp/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.1, Jaapan]“.',
 	'wm-license-cc-by-sa-2.5-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, alljemein]“.',
+	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänze:
+„[http://creativecommons.org/licenses/by-sa/2.5/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 2.5, alljemein]“ un 
+„[http://creativecommons.org/licenses/by-sa/2.0/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 2.0, alljemein]“ un 
+„[http://creativecommons.org/licenses/by-sa/1.0/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 1.0, alljemein]“.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/ar/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Arjentiinije]“.',
 	'wm-license-cc-by-sa-2.5-au-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/au/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Austraalije]“.',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/bg/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Bulljaarije]“.',
@@ -10085,7 +10093,44 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-cc-by-sa-2.5-pe-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/pe/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Perru]“.',
 	'wm-license-cc-by-sa-2.5-pl-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/pl/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Poole]“.',
 	'wm-license-cc-by-sa-2.5-pt-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/pt/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Pochtojall]“.',
+	'wm-license-cc-by-sa-2.5-scotland-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/scotland/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Jruußbretannje: Schottland]“.',
+	'wm-license-cc-by-sa-2.5-se-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/se/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Schweede]“.',
+	'wm-license-cc-by-sa-2.5-si-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/si/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, ẞloveenije]“.',
+	'wm-license-cc-by-sa-2.5-tw-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/tw/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Taiwan]“.',
+	'wm-license-cc-by-sa-2.5-za-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz „[http://creativecommons.org/licenses/by-sa/2.5/za/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.5, Söd_Affrika]“.',
 	'wm-license-cc-by-sa-3.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, nit potteet]“.',
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänze:
+„[http://creativecommons.org/licenses/by-sa/3.0/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 3.0, nit poteet]“ un 
+„[http://creativecommons.org/licenses/by-sa/2.5/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 2.5, alljemein]“ un 
+„[http://creativecommons.org/licenses/by-sa/2.0/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 2.0, alljemein]“ un 
+„[http://creativecommons.org/licenses/by-sa/1.0/ met {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}} Version 1.0, alljemein]“.',
+	'wm-license-cc-by-sa-3.0-at-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/at/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Öösterish]“.',
+	'wm-license-cc-by-sa-3.0-au-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/au/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Austraalije]“.',
+	'wm-license-cc-by-sa-3.0-cz-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/cz/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, de Tschäschei]“.',
+	'wm-license-cc-by-sa-3.0-de-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/de/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Dütschland]“.',
+	'wm-license-cc-by-sa-3.0-es-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/es/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Schpaanije]“.',
+	'wm-license-cc-by-sa-3.0-gr-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/gr/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Jriescheland]“.',
+	'wm-license-cc-by-sa-3.0-gt-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/gt/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Juatemala]“.',
+	'wm-license-cc-by-sa-3.0-hk-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/hk/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Hongkong]“.',
+	'wm-license-cc-by-sa-3.0-hr-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/hr/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Kroaazije]“.',
+	'wm-license-cc-by-sa-3.0-lu-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/lu/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Luxembursch]“.',
+	'wm-license-cc-by-sa-3.0-nl-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/nl/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, de Nederläng]“.',
+	'wm-license-cc-by-sa-3.0-no-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/no/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Norrweeje]“.',
+	'wm-license-cc-by-sa-3.0-nz-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/nz/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Neuseeland]“.',
+	'wm-license-cc-by-sa-3.0-ph-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/ph/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Fillipiine]“.',
+	'wm-license-cc-by-sa-3.0-pl-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/pl/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Poole]“.',
+	'wm-license-cc-by-sa-3.0-pr-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/aupr {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Pochtoriko]“.',
+	'wm-license-cc-by-sa-3.0-ro-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/ro/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Romäänije]“.',
+	'wm-license-cc-by-sa-3.0-rs-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/rs/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Särbije]“.',
+	'wm-license-cc-by-sa-3.0-sg-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/sg/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Singjapuer]“.',
+	'wm-license-cc-by-sa-3.0-th-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/th/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Tailand]“.',
+	'wm-license-cc-by-sa-3.0-tw-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/tw/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, Taiwan]“.',
+	'wm-license-cc-by-sa-3.0-us-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/by-sa/3.0/us/ {{int:wm-license-cc-conditions-attribution-header}}, un {{int:wm-license-cc-conditions-share_alike-header}}, Version 3.0, de USA]“.',
+	'wm-license-cc-sa-1.0-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/sa/1.0/ {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, alljemein]“.',
+	'wm-license-cc-sa-1.0-fi-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/sa/1.0/fi/ {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, Finnland]“.',
+	'wm-license-cc-sa-1.0-nl-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/sa/1.0/nl/ {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, de Nederläng]“.',
+	'wm-license-cc-sa-2.0-jp-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/sa/2.0/jp/ {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.0, Japan]“.',
+	'wm-license-cc-zero-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/publicdomain/zero/1.0/ CC0, Version 1.0, Freijabe för de Allmende (<i lang="en">Universal Public Domain Dedication</i>)]“.',
 	'wm-license-cc-free' => 'Ühr hat de Freiheit:',
 	'wm-license-cc-free-to-share-header' => 'dat Werk aan Andere wigger ze jävvee',
 	'wm-license-cc-free-to-share-text' => 'dat Werrek zu koppeere, ze verdeijle, un ze övverdraare',
@@ -10096,15 +10141,40 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-cc-conditions-attribution-text' => "De moß däm singe Name nänne en dä Aat, wi dää, dä et aanjevange hät, udder dää, dä de Rääschte jez hät, dat faßjelaat hät, ävver nit op en Aat, di mer esu vershtonn künnt, wi wann dää Desch, udder Dinge Jebruch, dän_De vun däm Werrek mähß, joot'heiße udder aan'äkänne dät.",
 	'wm-license-cc-conditions-share_alike-header' => 'Wiggerjävve onger derselleve Bedengunge',
 	'wm-license-cc-conditions-share_alike-text' => 'Wann De dat Werk aanpaß, ömwandels, Der  zeräsch mähß, udder drop opbouß, dann darrefs De dat, wat derbei eruß kütt, bloß onger derselleve Bedengunge, undder jannz ähnlesche Bedengunge wigger jävve, wi di Lizänz hee.',
+	'wm-license-cc-pd-mark-text' => 'Vun heh dä Dattei wood faßjeshtallt, dat se kein Beschrängkunge hät, die sesch uss_em Urhävverrääsch udder ähnlijje udder verwandte Rääschde äjävve.',
+	'wm-license-cecill-text' => 'Dat Werrek heh es e [[{{int:wm-license-free-software-wiki-link}}|frei Projramm (<i lang="en">free software</i>)]] un Do kanns et wiggerjävve udder verändere noh dä Bedengunge vun de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. De Rääjelonge vun de CeCILL Lizänz schtonn op dä Sigg <code lang="en">[{{int:wm-license-cecill-full-link}} www.cecill.info]</code>.',
+	'wm-license-cecill-wiki-link' => 'w:de:CeCILL',
+	'wm-license-cecill-full-link' => 'http://www.cecill.info/licences/Licence_CeCILL_V2-fr.html',
 	'wm-license-creator-alternative-names' => 'Ander Name, Künßlername',
+	'wm-license-creator-description' => 'Beschrevve',
 	'wm-license-creator-date-of-birth' => 'Jebootsdach',
 	'wm-license-creator-date-of-birth-and-death' => 'Jebootsdaach un Duudesdaach',
 	'wm-license-creator-location-of-birth' => 'Plaz vun de Jeburt',
 	'wm-license-creator-location-of-birth-and-death' => 'Plaz vun de Jeburt udder vum Dud',
 	'wm-license-creator-work-period' => 'Arbeitszick',
 	'wm-license-creator-work-location' => 'Plaz vum Wirke',
+	'wm-license-creator-linkback' => 'Ene Lengk op di Schabloon mem Kaste met de Enfommazjuhne vum Aanlääjer',
+	'wm-license-fal-text' => '<i lang="en">Copyleft</i>:
+Heh dat Kunßwärk es frei, un De kanns_et wigger jävve un och ändere onger dä Bedenonge vun dä \'\'\'<i lang="en">[[{{int:wm-license-fal-wiki-link}}|Free Art License]]</i>\'\'\' (dä freie Kunß Lizänz) 
+E Beishpell för di Lizanz kanns De nohlässe op dä <i lang="en">[{{int:wm-license-fal-full-link}} Copyleft Attitude site]</i> un och aan andere shtälle.',
+	'wm-license-fal-wiki-link' => 'w:de:Lizenz Freie Kunst',
+	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/de',
+	'wm-license-fsf-wiki-link' => 'w:de:Free Software Foundation',
+	'wm-license-free-software-wiki-link' => 'w:ksh:Frei Projramme',
+	'wm-license-gfdl-1.2-and-later' => 'Do darfs heh dat Dokemänt kopeere un wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gdfl-wiki-link}}|GNU Free Documentation License]]</i>\'\'\' (dä freije Lizänz för Dokemäntazjuhne vun dä GNU) en dä Version 1.2 udder ene neuere Version, wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) met kein onveränderlesch Afschnedde, keine Täx om Ömschlaach un Boochdäckel.
+En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschreff <i lang="en">[{{int:wm-license-gfdl-1.2-full-link}} GNU Free Documentation License]</i>.',
+	'wm-license-gfdl-1.2-only' => 'Do darfs heh dat Dokemänt kopeere un wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gdfl-wiki-link}}|GNU Free Documentation License]]</i>\'\'\' (dä freije Lizänz för Dokemäntazjuhne vun dä GNU) bloß en dä Version 1.2, wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) met kein onveränderlesch Afschnedde, keine Täx om Ömschlaach un Boochdäckel.
+En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschreff <i lang="en">[{{int:wm-license-gfdl-1.2-full-link}} GNU Free Documentation License]</i>.',
 	'wm-license-gfdl-1.2-only-header' => 'Bloß&nbsp;1.2',
+	'wm-license-gfdl-1.3-and-later' => 'Do darfs heh dat Dokemänt kopeere un wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gdfl-wiki-link}}|GNU Free Documentation License]]</i>\'\'\' (dä freije Lizänz för Dokemäntazjuhne vun dä GNU) en dä Version 1.3 udder ene neuere Version, wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) met kein onveränderlesch Afschnedde, keine Täx om Ömschlaach un Boochdäckel.
+En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschreff <i lang="en">[{{int:wm-license-gfdl-1.3-full-link}} GNU Free Documentation License]</i>.',
+	'wm-license-gfdl-1.3-only' => 'Do darfs heh dat Dokemänt kopeere un wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gdfl-wiki-link}}|GNU Free Documentation License]]</i>\'\'\' (dä freije Lizänz för Dokemäntazjuhne vun dä GNU) bloß en dä Version 1.3, wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) met kein onveränderlesch Afschnedde, keine Täx om Ömschlaach un Boochdäckel.
+En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschreff <i lang="en">[{{int:wm-license-gfdl-1.3-full-link}} GNU Free Documentation License]</i>.',
 	'wm-license-gfdl-wiki-link' => 'w:ksh:GNU Lizännz för n fräĳe Dokementazjon',
+	'wm-license-gpl-text' => 'Heh dat Wärrek es [[{{int:wm-license-free-software-wiki-link}}|e frei Projramm (<i lang="en">free software</i>)]] un De kanns se wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]</i>\'\'\' (dä alljemeine öffentlesche Lizänz vun dä GNU) wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) entweeder en dä Versin 2 udder jeede neuere Version.
+Heh dat Projramm udder Pakätt weed wigger jejovve en dä Hoffnung, dat et ze bruche es, ävver der ohne jeede Jarranti, dat se ze verkoufe udder för öhßjät ze bruche es.
+Loor Der de [{{int:wm-license-gpl-2-full-link}} version 2.1] un de [{{int:wm-license-gpl-3-full-link}} version 3 vun de <i lang="en">GNU General Public License</i>] aan, wann De_t jenouer weße wells.',
+	'wm-license-gpl-wiki-link' => 'w:ksh:GNU General Public License',
 	'wm-license-information-table-summary' => 'En einheitlijje Tabäll met dä kumplätte Enfommazjuhne övver di Dattei, doh dren es och beschrevve, wat se zeisch un wi se jemaat woode es, de Quälle, un et Urhävverräsch.',
 	'wm-license-information-description' => 'Zosammefassung',
 	'wm-license-information-description-missing' => "Bei heh dä Dattei es kein '''Zosammefassung''' jemaat woode.",
@@ -10119,6 +10189,10 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-information-permission-reusing-text' => 'Di Dattei och anderswo bruche',
 	'wm-license-information-permission-see-below' => 'Süsch onge.',
 	'wm-license-information-other-versions' => 'Ander Versione',
+	'wm-license-lgpl-text' => 'Heh di Projramm_Biplijotheek es [[{{int:wm-license-free-software-wiki-link}}|frei (<i lang="en">free software</i>)]] un De kanns se wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]</i>\'\'\' (dä nit jans_esu alljemeine öffentlesche Lizänz vun dä GNU) wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) entweeder en dä Versin 2.1 udder jeede neuere Version, wi_eet Der jefällt.
+Heh di Projramm_Biplijotheek weed wigger jejovve en dä Hoffnung, dat se ze bruche es, ävver der ohne jeede Jarranti, dat se ze verkoufe udder för öhßjät ze bruche es.
+Loor Der de [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] un de [{{int:wm-license-lgpl-3-full-link}} version 3 vun de <i lang="en">GNU Lesser General Public License</i>] aan, wann De_t jenouer weße wells.',
+	'wm-license-lgpl-wiki-link' => 'w:ksh:GNU Lesser General Public License',
 	'wm-license-licensing-update-text' => 'Heh dä Lizänz_Täx_Boushtein kohm bei dä [[{{int:wm-license-licensing-update-wiki-link}}|Neufassung vun der <i lang="en">GDFL</i>]] dobei.',
 	'wm-license-original-upload-log' => 'Ojinaal_Enndraach em Logbooch vum Huhlaade',
 	'wm-license-own-work' => 'Eije Werk',
@@ -10128,6 +10202,7 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-pd-author-self-any-purpose' => "Vun mir kritt jeederein dat Rääsch heh dat Wärk '''för jeede Zwäck ze verwände''', der ohne Bedengunge, ußer dänne, di et Jesäz vörschriev.",
 	'wm-license-pd-author-with-author-any-purpose' => "{{GENDER:$1|Vum|Vum|Vum Metmaacher|Vun dä|Vum}} $1 kritt jeederein dat Rääsch heh dat Wärk '''för jeede Zwäck ze verwände''', ohne Bedengunge, ußer dänne, di et Jesäz vörschriev.
 ",
+	'wm-license-pd-wiki-link' => 'w:ksh:Allmände',
 	'wm-license-self-one-license' => 'Esh han et Urhävverääsch vun däm Wärk, un maachen dat Wärk öffentlesch unger dä Lizänz:',
 	'wm-license-self-one-license-with-author' => '{{GENDER:$1|Dä|Et|Dä Metmaacher|De|Dat}} $1 hät et Urhävverääsch vun däm Wärk, un määt dat Wärk öffentlesch unger dä Lizänz:
 ',
@@ -16679,10 +16754,12 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
  */
 $messages['sw'] = array(
 	'wm-license-book-illustrator' => 'Mchoraji',
+	'wm-license-book-series-title' => 'Jina la mfululizo',
 	'wm-license-cc-attribution' => 'Sifa',
 	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [http://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].',
 	'wm-license-cc-free' => 'Uko huru:',
 	'wm-license-cc-conditions-attribution-header' => 'sifa',
+	'wm-license-creator-alternative-names' => 'Majina mbadala',
 	'wm-license-fsf-wiki-link' => 'w:sw:Shirika la Bidhaa Pepe Huru',
 	'wm-license-gfdl-1.2-and-later' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.2 au toleo lolote lile la baadaye ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.2 tu ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
