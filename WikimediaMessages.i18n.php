@@ -116,7 +116,7 @@ $messages['en'] = array(
 	'group-Global_rollback' => 'Global rollbackers',
 	'group-Global_sysops'   => 'Global sysops',
 	'group-Ombudsmen'       => 'Ombudsmen',
-	'group-Staff'           => 'Staffs',
+	'group-Staff'           => 'Staff',
 
 	'group-steward-member'         => 'steward',
 	'group-sysadmin-member'        => 'system administrator',
