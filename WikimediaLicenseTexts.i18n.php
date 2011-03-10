@@ -16491,6 +16491,7 @@ $messages['su'] = array(
  * @author Cohan
  * @author Dafer45
  * @author Krinkle
+ * @author Lokal Profil
  * @author Multichill
  * @author Nghtwlkr
  * @author Per
@@ -16706,7 +16707,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-creator-location-of-birth-and-death' => 'Födelseort/dödsort',
 	'wm-license-creator-work-period' => 'Arbetsperiod',
 	'wm-license-creator-work-location' => 'Arbetsort',
-	'wm-license-creator-linkback' => 'Länk tillbaka till mallen Creator infobox',
+	'wm-license-creator-linkback' => 'Länk tillbaka till mallen skaparfaktamallen',
 	'wm-license-fal-text' => "Copyleft: Detta konstverk är fritt; du kan vidaredistribuera det och/eller modifiera det enligt villkoren i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du hittar ett exemplar av denna licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude site], såväl som på andra sidor.",
 	'wm-license-fsf-wiki-link' => 'w:sv:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:sv:Fri programvara',
