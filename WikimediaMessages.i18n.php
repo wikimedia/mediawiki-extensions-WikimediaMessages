@@ -1212,6 +1212,7 @@ $messages['bg'] = array(
 	'group-import-member' => 'вносител',
 	'group-interface_editors-member' => 'редактор на интерфейса',
 	'group-ipblock-exempt-member' => 'Изключение от блокирането по IP адрес',
+	'group-OTRS-member-member' => 'член на OTRS',
 	'group-patroller-member' => 'Патрульор',
 	'group-rollbacker-member' => 'изпълнител на отмени',
 	'group-transwiki-member' => 'Transwiki вносител',

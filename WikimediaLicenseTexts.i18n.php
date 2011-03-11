@@ -1631,6 +1631,7 @@ $messages['bg'] = array(
 	'wm-license-attribution-without-author-text' => "Притежателят на авторските права на този файл позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
 	'wm-license-book-language' => 'Език',
 	'wm-license-book-translator' => 'Преводач',
+	'wm-license-book-year-of-publication' => 'Година на публикуване',
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
 	'wm-license-cc-attribution' => 'Признание',
 	'wm-license-cc-by-1.0-text' => 'Този файл е лицензиран под [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [http://creativecommons.org/licenses/by/1.0/deed.bg Attribution 1.0 Generic] лиценз.',
@@ -3365,6 +3366,7 @@ $messages['cy'] = array(
 	'wm-license-book-printer' => 'Argraffydd',
 	'wm-license-book-publisher' => 'Cyhoeddwr',
 	'wm-license-book-series-title' => 'Teitl y gyfres',
+	'wm-license-book-start-this-book' => "Dechrau'r Llyfr",
 	'wm-license-book-subtitle' => 'Isdeitl',
 	'wm-license-book-title' => 'Teitl',
 	'wm-license-book-translator' => 'Cyfieithydd',
@@ -16497,6 +16499,7 @@ $messages['su'] = array(
  * @author Per
  * @author Poxnar
  * @author Tobulos1
+ * @author WikiPhoenix
  */
 $messages['sv'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licensmeddelanden',
@@ -16717,7 +16720,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-gfdl-1.3-and-later' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 eller senare publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 endast som publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sv:GNU Free Documentation License',
-	'wm-license-gpl-text' => "Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2 av licensen, eller någon senare version. Detta arbete distribueras i hopp om att det ska vara användbart, men'''utan någon garanti''', även utan underförstådd garanti om'''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-gpl-2-full-link}} version 2] och [{{int:wm-license-gpl-3-full-link}} version 3 av GNU General Public License] för mer information.",
+	'wm-license-gpl-text' => "Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2 av licensen, eller någon senare version. Detta arbete distribueras i hopp om att det ska vara användbart, men '''utan någon garanti''', även utan underförstådd garanti om '''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-gpl-2-full-link}} version 2] och [{{int:wm-license-gpl-3-full-link}} version 3 av GNU General Public License] för mer information.",
 	'wm-license-gpl-wiki-link' => 'w:sv:GNU General Public License',
 	'wm-license-information-table-summary' => 'En standarmall för att ge komplett information om en fil, såsom en bildbeskrivning, upphovsrättsstatus, osv.',
 	'wm-license-information-description' => 'Beskrivning',
@@ -16733,7 +16736,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 	'wm-license-information-permission-reusing-text' => 'Återanvändning av denna fil',
 	'wm-license-information-permission-see-below' => 'Se nedan.',
 	'wm-license-information-other-versions' => 'Andra versioner',
-	'wm-license-lgpl-text' => "Detta bibliotek är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2.1 av licensen, eller (om du vill) någon senare version. Detta bibliotek distribueras i hopp om att det ska vara användbart, men'''utan någon garanti''', även utan underförstådd garanti om'''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] och [{{int:wm-license-lgpl-3-full-link}} version 3 av GNU Lesser General Public License] för mer information.",
+	'wm-license-lgpl-text' => "Detta bibliotek är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2.1 av licensen, eller (om du vill) någon senare version. Detta bibliotek distribueras i hopp om att det ska vara användbart, men '''utan någon garanti''', även utan underförstådd garanti om '''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] och [{{int:wm-license-lgpl-3-full-link}} version 3 av GNU Lesser General Public License] för mer information.",
 	'wm-license-lgpl-wiki-link' => 'w:sv:GNU Lesser General Public License',
 	'wm-license-licensing-update-text' => 'Detta licenstillägg var tillagt till denna fil som en del av GFDL:s [[{{int:wm-license-licensing-update-wiki-link}}|licensuppdatering]].',
 	'wm-license-original-upload-log' => 'Ursprunglig uppladdningslogg',
@@ -16759,6 +16762,7 @@ Vidaredistribution, redigering av verk, kommersiell användning, och all övrig 
 $messages['sw'] = array(
 	'wm-license-book-illustrator' => 'Mchoraji',
 	'wm-license-book-series-title' => 'Jina la mfululizo',
+	'wm-license-book-start-this-book' => 'Anzisha kitabu hiki',
 	'wm-license-cc-attribution' => 'Sifa',
 	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [http://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].',
 	'wm-license-cc-free' => 'Uko huru:',
