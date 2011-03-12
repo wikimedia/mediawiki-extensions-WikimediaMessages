@@ -17079,6 +17079,7 @@ $messages['tg-latn'] = array(
  * @author Harley Hartwell
  * @author Horus
  * @author Multichill
+ * @author Octahedron80
  * @author Passawuth
  */
 $messages['th'] = array(
@@ -17162,7 +17163,7 @@ $messages['th'] = array(
 	'wm-license-information-permission-reusing-text' => 'การนำไฟล์นี้ไปใช้',
 	'wm-license-information-permission-see-below' => 'ดูด้านล่าง',
 	'wm-license-information-other-versions' => 'เวอร์ชันอื่น',
-	'wm-license-lgpl-text' => "ไำลบรารีนี้เป็น [[{{int:wm-license-free-software-wiki-link}}|ซอฟต์แวร์เสรี]] คุณสามารถแจกจ่าย ทำซ้ำ และดัดแปลงแก้ไขได้ภายใต้เงื่อนไขของ '''[[{{int:wm-license-lgpl-wiki-link}}|สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู]] (GNU Lesser General Public License)''' ตามที่เผยแพร่โดย [[{{int:wm-license-fsf-wiki-link}}|มูลนิธิซอฟต์แวร์เสรี]] ในรุ่น 2.1 หรือรุ่นใด ๆ ที่ใหม่กว่านี้ตามที่คุณเลือก แม้ว่าผลงานนี้มีการแจกจ่ายโดยหวังว่าจะเป็นประโยชน์ต่อไป แต่จะไม่มีการรับประกันใด ๆ ทั้งสิ้น รวมถึง '''การรับประกันเพื่อการค้า''' หรือ '''การรับประกันอย่างเหมาะสมสำหรับวัตถุประสงค์เฉพาะ''' ดูเพิ่มที่ ข้อความในสัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู [{{int:wm-license-lgpl-2.1-full-link}} รุ่น 2.1] และ [{{int:wm-license-lgpl-3-full-link}} รุ่น 3]",
+	'wm-license-lgpl-text' => "ไลบรารีนี้เป็น [[{{int:wm-license-free-software-wiki-link}}|ซอฟต์แวร์เสรี]] คุณสามารถแจกจ่าย ทำซ้ำ และดัดแปลงแก้ไขได้ภายใต้เงื่อนไขของ '''[[{{int:wm-license-lgpl-wiki-link}}|สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู]] (GNU Lesser General Public License)''' ตามที่เผยแพร่โดย [[{{int:wm-license-fsf-wiki-link}}|มูลนิธิซอฟต์แวร์เสรี]] ในรุ่น 2.1 หรือรุ่นใด ๆ ที่ใหม่กว่านี้ตามที่คุณเลือก แม้ว่าผลงานนี้มีการแจกจ่ายโดยหวังว่าจะเป็นประโยชน์ต่อไป แต่จะไม่มีการรับประกันใด ๆ ทั้งสิ้น รวมถึง '''การรับประกันเพื่อการค้า''' หรือ '''การรับประกันอย่างเหมาะสมสำหรับวัตถุประสงค์เฉพาะ''' ดูเพิ่มที่ ข้อความในสัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู [{{int:wm-license-lgpl-2.1-full-link}} รุ่น 2.1] และ [{{int:wm-license-lgpl-3-full-link}} รุ่น 3]",
 	'wm-license-lgpl-wiki-link' => 'w:th:สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู',
 	'wm-license-licensing-update-text' => 'ป้ายแสดงสถานะลิขสิทธิ์นี้ถูกเพิ่มเพื่อให้เป็นไปตาม[[{{int:wm-license-licensing-update-wiki-link}}|การเปลี่ยนแปลงสัญญาอนุญาตของมูลนิธิวิกิมีเดีย]] จาก GFDL ไปยัง GFDL ควบคู่กับ CC-BY-SA 3.0',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/th',
