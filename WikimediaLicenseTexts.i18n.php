@@ -275,6 +275,8 @@ $messages['en'] = array(
  * @author Jean-Frédéric
  * @author Lloffiwr
  * @author Multichill
+ * @author Nike
+ * @author Purodha
  * @author SMP
  * @author Siebrand
  */
@@ -341,6 +343,7 @@ $messages['qqq'] = array(
 	'wm-license-cc-by-3.0-text' => '{{CreativeCommonsLicense|by|3.0}}',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => "This is a combination of all Creative Commons attribution templates. See [[:Common:Template:Cc-by-3.0,2.5,2.0,1.0]] for how it's used.",
 	'wm-license-cc-by-3.0-at-text' => '{{CreativeCommonsLicense|by|3.0|at}}',
+	'wm-license-cc-by-3.0-au-text' => '{{CreativeCommonsLicense|by|3.0|au}}',
 	'wm-license-cc-by-3.0-cz-text' => '{{CreativeCommonsLicense|by|3.0|cz}}',
 	'wm-license-cc-by-3.0-de-text' => '{{CreativeCommonsLicense|by|3.0|de}}',
 	'wm-license-cc-by-3.0-es-text' => '{{CreativeCommonsLicense|by|3.0|es}}',
@@ -420,6 +423,7 @@ $messages['qqq'] = array(
 	'wm-license-cc-by-sa-3.0-text' => '{{CreativeCommonsLicense|by-sa|3.0}}',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => "This is a combination of all Creative Commons Attribution-Share Alike templates. See [[:Common:Template:Cc-by-sa-3.0,2.5,2.0,1.0]] for how it's used.",
 	'wm-license-cc-by-sa-3.0-at-text' => '{{CreativeCommonsLicense|by-sa|3.0|at}}',
+	'wm-license-cc-by-sa-3.0-au-text' => '{{CreativeCommonsLicense|by-sa|3.0|au}}',
 	'wm-license-cc-by-sa-3.0-cz-text' => '{{CreativeCommonsLicense|by-sa|3.0|cz}}',
 	'wm-license-cc-by-sa-3.0-de-text' => '{{CreativeCommonsLicense|by-sa|3.0|de}}',
 	'wm-license-cc-by-sa-3.0-es-text' => '{{CreativeCommonsLicense|by-sa|3.0|es}}',
@@ -445,7 +449,7 @@ $messages['qqq'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => '{{CreativeCommonsLicense|sa|1.0|nl}}',
 	'wm-license-cc-sa-2.0-jp-text' => '{{CreativeCommonsLicense|sa|1.0|jp}}',
 	'wm-license-cc-zero-text' => 'This is the first line of [[:Commons:Template:Cc-zero]]',
-	'wm-license-cc-zero-explanation' => 'This is the second line of [[:Commons:Template:Cc-zero]] explaining the license',
+	'wm-license-cc-zero-explanation' => "This is the second line of [[:Commons:Template:Cc-zero]] explaining the license. Here, a deed is ''a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it'' (Google define: deed)",
 	'wm-license-cc-free' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-free-to-share-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-free-to-share-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
@@ -1629,7 +1633,11 @@ $messages['bg'] = array(
 	'wikimedialicensetexts-desc' => 'Лицензни съобщения на Уикимедия',
 	'wm-license-attribution-with-author-text' => "Притежателят на авторските права на този файл, $1, позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
 	'wm-license-attribution-without-author-text' => "Притежателят на авторските права на този файл позволява на всекиго да използва файла за '''всякакви цели при условие, че''' му е оказано съответното признание. Разпространяването, производните работи, комерсиалната и всякаква друга употреба са изрично разрешени.",
+	'wm-license-book-edition' => 'Издание',
+	'wm-license-book-editor' => 'Редактор',
 	'wm-license-book-language' => 'Език',
+	'wm-license-book-subtitle' => 'Подзаглавие',
+	'wm-license-book-title' => 'Заглавие',
 	'wm-license-book-translator' => 'Преводач',
 	'wm-license-book-year-of-publication' => 'Година на публикуване',
 	'wm-license-cc-wiki-link' => 'w:bg:Криейтив Комънс',
@@ -10135,6 +10143,7 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-cc-sa-1.0-nl-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/sa/1.0/nl/ {{int:wm-license-cc-conditions-share_alike-header}}, Version 1.0, de Nederläng]“.',
 	'wm-license-cc-sa-2.0-jp-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/licenses/sa/2.0/jp/ {{int:wm-license-cc-conditions-share_alike-header}}, Version 2.0, Japan]“.',
 	'wm-license-cc-zero-text' => 'He di Dattei es ze han under dä Bedengonge vun de<i lang="en"> [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]</i> ier Lizänz met „[http://creativecommons.org/publicdomain/zero/1.0/ CC0, Version 1.0, Freijabe för de Allmende (<i lang="en">Universal Public Domain Dedication</i>)]“.',
+	'wm-license-cc-zero-explanation' => 'Di Päson, di e Wärk met heh däm offizjälle jesäzlejje ongerschrevve un besiejelte Dokumändt för de Övverdraarung vun Rääschte un Besez zosamme jebraat hät, hät dat Wärk en de [[{{int:wm-license-pd-wiki-link}}|Allmende (<i lang="en">public domain</i>) udder Jemeinfreiheit]] jejovve. Domet deiht se op all iehr Rääschte verzichte, di öhnzwoh op de Wält nohm Urhävverrääsch hät, un och op alle ähnlejje Rääschde, un di Rääschde, di domet zosamme hange donn. Dat määt di esu wigg, wi et de Jesäze zohlohße. Do kanns dat Wärk kopeere, ändere, wiggerjävve un verdeile, un opföhre, och för Jäld, un dat all, der ohne dröm froore ze möße.',
 	'wm-license-cc-free' => 'Ühr hat de Freiheit:',
 	'wm-license-cc-free-to-share-header' => 'dat Werk aan Andere wigger ze jävvee',
 	'wm-license-cc-free-to-share-text' => 'dat Werrek zu koppeere, ze verdeijle, un ze övverdraare',
