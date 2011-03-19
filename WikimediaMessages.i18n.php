@@ -7080,11 +7080,15 @@ $messages['na'] = array(
 
 /** Nahuatl (Nāhuatl)
  * @author Fluence
+ * @author Teòtlalili
  */
 $messages['nah'] = array(
 	'sitesupport' => 'Tēyocatiliztli',
-	'tooltip-n-sitesupport' => 'Xitēchtēpalēhuia',
+	'tooltip-n-sitesupport' => 'Xitèchmopalèwilìkàn',
 	'group-founder-member' => 'Chīhualōni',
+	'grouppage-eliminator' => '{{ns:project}}:Tlaìxpôpolowàni',
+	'grouppage-filemover' => '{{ns:project}}:Tlaèwalîkuàniàni',
+	'grouppage-flood' => '{{ns:project}}:Tlatepostekitkàuhtekìuhtiànimë',
 	'group-Staff' => 'Olōlli',
 	'group-Staff-member' => 'Olōllācatl',
 );
@@ -11069,6 +11073,7 @@ $messages['uz'] = array(
 
 /** Vèneto (Vèneto)
  * @author Candalua
+ * @author Vajotwo
  */
 $messages['vec'] = array(
 	'wikimediamessages-desc' => 'Messagi specifici de Wikimedia',
@@ -11162,7 +11167,7 @@ $messages['vec'] = array(
 	'group-inactive' => 'Utenti inativi',
 	'group-inactive-member' => 'utente inativo',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inativi',
-	'wikimedia-copyright' => 'El testo el xe disponibile soto la <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.it">licensa Creative Commons Attribution/Share-Alike</a>; a questa podarìa zontarse ulteriori condizioni. Varda le <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> par tuti i detagli.',
+	'wikimedia-copyright' => 'El testo xè disponibiłe secondo ła <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.it">licenxa Creative Commons Atribuxion-Condividi a ło steso modo</a>; e poe aplicarse ulteriori condixion. Varda łe <a class=\'internal\' href="/wiki/Wikipedia:Copyright#Condixion_d.27uxo">condixion d\'uxo</a> par i detaji. Wikipedia® xè on marchio rejistrà de ła <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>',
 	'wikimedia-copyrightwarning' => "Salvando, te acèti in maniera irevocabile de rilassiar el to contributo soto le license [http://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribution/Share-Alike 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL]. Te acèti anca che i riutilizadori te lo atribuìssa almanco mediante un colegamento ipertestuale o un URL a la pagina a cui te ghè contribuìo. Consulta le [http://wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso] par tuti i detagli.",
 	'wikimedia-editpage-tos-summary' => "Se no te voli che el to testo el possa vegner modificà e ridistribuìo a volontà, alora no sta inserirlo qua. Se no te lo ghè scrito ti, el ga da èssar disponibile a condizioni conpatibili co le [http://wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e te acèti de seguir tuti i requisiti de licensa.",
 );
