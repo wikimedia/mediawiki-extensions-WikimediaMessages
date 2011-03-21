@@ -1232,6 +1232,7 @@ $messages['bg'] = array(
 	'grouppage-import' => '{{ns:project}}:Вносители',
 	'grouppage-interface_editors' => '{{ns:project}}:Редактори на интерфейса',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Изключения от блокирането по IP адрес',
+	'grouppage-researcher' => '{{ns:project}}:Изследователи',
 	'grouppage-rollbacker' => '{{ns:project}}:Изпълнители на отмени',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki вносители',
 	'grouppage-trusted' => '{{ns:project}}:Доверени потребители',
@@ -2787,6 +2788,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Ascánder
  * @author Crazymadlover
  * @author Dferg
+ * @author Fitoschido
  * @author Locos epraix
  * @author Manuelt15
  * @author Platonides
@@ -2799,6 +2801,9 @@ $messages['es'] = array(
 	'sitesupport' => 'Donaciones',
 	'tooltip-n-sitesupport' => 'Apóyenos',
 	'specialpages-group-contribution' => 'Contribución/Recaudación de fondos',
+	'nstab-creator' => 'Creador',
+	'nstab-institution' => 'Institución',
+	'nstab-sequence' => 'Secuencia',
 	'group-abusefilter' => 'Editores de filtro de abuso',
 	'group-accountcreator' => 'Creadores de cuentas',
 	'group-arbcom' => 'Miembros del comité de arbitraje',
@@ -9705,7 +9710,7 @@ $messages['st'] = array(
  * @author Pyt
  */
 $messages['stq'] = array(
-	'wikimediamessages-desc' => 'Wikimediaspezifiske Systemättergjuchten',
+	'wikimediamessages-desc' => 'Wikimediaspezifiske Systemättergjuchte',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spändje',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unnerstutse uus',
