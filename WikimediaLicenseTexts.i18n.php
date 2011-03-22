@@ -11723,6 +11723,7 @@ $messages['mr'] = array(
 );
 
 /** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
  * @author Aurora
  * @author Diebuche
  * @author Multichill
@@ -11754,6 +11755,7 @@ $messages['ms'] = array(
 	'wm-license-information-author' => 'Pengarang',
 	'wm-license-lgpl-wiki-link' => 'w:ms:Lesen Awam Am Lemah GNU',
 	'wm-license-pd-wiki-link' => 'w:ms:Domain awam',
+	'wm-license-self-one-license' => 'Dengan ini, saya selaku pemegang hak cipta karya ini, menerbitkannya di bawah lesen yang berikut:',
 );
 
 /** Maltese (Malti)
