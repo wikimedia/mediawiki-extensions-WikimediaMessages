@@ -6283,9 +6283,11 @@ $messages['lmo'] = array(
 	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br /> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [http://wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
 );
 
-/** Lingala (Lingála) */
+/** Lingala (Lingála)
+ * @author Moyogo
+ */
 $messages['ln'] = array(
-	'sitesupport' => 'Kofutela',
+	'sitesupport' => 'Lisungi na misɔlɔ',
 );
 
 /** Lao (ລາວ)
@@ -8468,6 +8470,10 @@ $messages['roa-tara'] = array(
 	'sitesupport' => 'Done',
 	'tooltip-n-sitesupport' => 'Aiutene',
 	'specialpages-group-contribution' => 'Condrebbute/Raccolte de le funne',
+	'nstab-creator' => 'Ccrejatore',
+	'nstab-institution' => 'Istituzione',
+	'nstab-sequence' => 'Sequenze',
+	'nstab-timedtext' => 'Teste Temporizzate',
 	'group-abusefilter' => "Cangiatore de le filtre d'abbuse",
 	'group-accountcreator' => 'Ccrejature de cunde utinde',
 	'group-arbcom' => "Membre d'u collegge arbitrale",
