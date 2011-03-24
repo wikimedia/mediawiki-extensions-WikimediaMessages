@@ -1057,9 +1057,21 @@ $messages['ay'] = array(
  * @author PPerviz
  */
 $messages['az'] = array(
+	'wm-license-cc-by-1.0-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.az Attribution 1.0 Generic] lisenziyası altında yayımlanır.',
+	'wm-license-cc-by-1.0-fi-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  Finlandiya] lisenziyası altında yayımlanır.',
+	'wm-license-cc-by-1.0-il-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  İsrail] lisenziyası altında yayımlanır.',
+	'wm-license-cc-by-1.0-nl-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  Niderland] lisenziyası altında yayımlanır.',
+	'wm-license-cc-by-2.0-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/deed.az Attribution 2.0 Generic] lisenziyası altında yayımlanır.',
+	'wm-license-cc-by-2.0-at-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.az Attribution 2.0 Avstriya] lisenziyası altında yayımlanır.',
+	'wm-license-cc-by-2.0-au-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.az Attribution 2.0 Avstraliya] lisenziyası altında yayımlanır.',
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
 	'wm-license-information-source' => 'Mənbə',
+	'wm-license-information-date' => 'Tarix',
 	'wm-license-information-author' => 'Müəllif',
+	'wm-license-information-permission' => 'İcazə',
+	'wm-license-information-permission-see-below' => 'Aşağıya baxın.',
+	'wm-license-information-other-versions' => 'Digər versiyalar',
+	'wm-license-own-work' => 'Yükləyənin öz işi',
 );
 
 /** Bashkir (Башҡортса)
@@ -14160,7 +14172,7 @@ $messages['ro'] = array(
 	'wm-license-own-work' => 'Operă proprie',
 	'wm-license-pd-author-self-text' => "Eu, deținătorul drepturilor de autor ale acestei opere, o eliberez '''[[{{int:wm-license-pd-wiki-link}}|domeniului public]]'''. Aceasta se aplică în întreaga lume.",
 	'wm-license-pd-author-with-author-text' => "Această operă a fost eliberată '''[[{{int:wm-license-pd-wiki-link}}|domeniului public]]''' de către autorul său, '''$1'''. Aceasta se aplică în întreaga lume.",
-	'wm-license-pd-author-not-legally-possible' => 'În unele țări există posibilitatea ca acest lucru să nu fie legal posibil; în acest caz:',
+	'wm-license-pd-author-not-legally-possible' => 'În anumite țări există posibilitatea ca acest lucru să nu fie legal posibil; în acest caz:',
 	'wm-license-pd-author-self-any-purpose' => "permit oricui să utilizeze această operă '''în orice scop''', fără nicio condiție, atâta timp cât asemenea condiții nu sunt cerute de lege.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 permite oricui să utilizeze această operă '''în orice scop''', fără nicio condiție, atâta timp cât asemenea condiții nu sunt cerute de lege.",
 	'wm-license-pd-wiki-link' => 'w:ro:Domeniul public',
