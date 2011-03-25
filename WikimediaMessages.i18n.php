@@ -4497,6 +4497,7 @@ Kung indi kag nagsulat sini sa imo kaugalingon, kilanlan nga para ina sa tanan n
 );
 
 /** Croatian (Hrvatski)
+ * @author Anton008
  * @author CERminator
  * @author Dalibor Bosits
  * @author Ex13
@@ -4509,6 +4510,9 @@ $messages['hr'] = array(
 	'sitesupport' => 'Novčani prilozi',
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'specialpages-group-contribution' => 'Doprinosi/Prikupljanje',
+	'nstab-creator' => 'Tvorac',
+	'nstab-institution' => 'Institucija',
+	'nstab-sequence' => 'Slijed',
 	'group-abusefilter' => 'Urednici filtra zloporaba',
 	'group-accountcreator' => 'Otvaratelji računa',
 	'group-arbcom' => 'Članovi arbitražnog odbora',
