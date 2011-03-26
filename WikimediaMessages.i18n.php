@@ -6685,8 +6685,8 @@ $messages['mk'] = array(
 	'group-inactive-member' => 'неактивен корисник',
 	'grouppage-inactive' => '{{ns:project}}:Нективни корисници',
 	'shared-repo-name-shared' => 'Заедничката Ризница',
-	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>;
-може да важат и дополнителни услови.
+	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.
+Може да важат и дополнителни услови.
 Повеќе информации ќе најдете на страницата <a href="http://wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0">Услови на употреба</a>.',
 	'wikimedia-copyrightwarning' => 'Зачувувајќи ги Вашите измени, неотповикливо се согласувате дека ги објавувате Вашите придонеси под условите на лиценцата [http://creativecommons.org/licenses/by-sa/3.0/deed.mk Криејтив комонс НаведиИзвор-СподелиПодИстиУслови 3.0] и на [http://www.gnu.org/copyleft/fdl.html ГЛСД].
 Се согласувате да добиете заслуга при користењето на оваа сорджина со тоа што ќе Ве наведат барем со хиперврска или URL-адреса до страницата на која придонесувате. 

@@ -8960,6 +8960,7 @@ $messages['it'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'condividi allo stesso modo',
 	'wm-license-cc-conditions-share_alike-text' => "Se alteri, trasformi o sviluppi quest'opera puoi distribuire l'opera risultante solo con la stessa licenza o una simile a questa.",
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.it',
+	'wm-license-cc-pd-mark-text' => 'Questo file è stato identificato come libero da restrizioni conosciute riguardanti le leggi sul copyright, compresi tutti i diritti correlati e vicini.',
 	'wm-license-cecill-text' => "Quest'opera è [[{{int:wm-license-free-software-wiki-link}}|software libero]], è possibile redistribuirlo o modificarlo secondo i termini della [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. I termini della licenza CeCILL sono disponibili presso [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	'wm-license-cecill-wiki-link' => 'w:it:CeCILL',
 	'wm-license-creator-alternative-names' => 'Altri nomi',
