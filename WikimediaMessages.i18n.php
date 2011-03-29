@@ -6400,6 +6400,13 @@ Norėdami sužinoti daugiau, žiūrėkite [http://wikimediafoundation.org/wiki/T
 Jei šio darbo neparašėte Jūs, jis turi būti suderinamas su [http://wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygomis]; Jūs sutinkate vykdyti visus svarbius licencijavimo reikalavimus.',
 );
 
+/** Latgalian (Latgaļu)
+ * @author Dark Eagle
+ */
+$messages['ltg'] = array(
+	'sitesupport' => 'Pazīdi',
+);
+
 /** Latvian (Latviešu)
  * @author GreenZeb
  * @author Papuass
