@@ -5305,6 +5305,7 @@ $messages['eu'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia lizentzien mezuak',
 	'wm-license-book-edition' => 'Edizioa',
 	'wm-license-book-editor' => 'Edizio zuzendaria',
+	'wm-license-book-illustrator' => 'Marrazkilaria',
 	'wm-license-book-language' => 'Hizkuntza',
 	'wm-license-book-place-of-publication' => 'Argitaratze hiria',
 	'wm-license-book-printer' => 'Inprimatzailea',
