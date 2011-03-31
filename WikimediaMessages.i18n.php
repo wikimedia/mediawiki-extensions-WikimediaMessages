@@ -4513,6 +4513,7 @@ $messages['hr'] = array(
 	'nstab-creator' => 'Tvorac',
 	'nstab-institution' => 'Institucija',
 	'nstab-sequence' => 'Slijed',
+	'nstab-timedtext' => 'TimedText',
 	'group-abusefilter' => 'Urednici filtra zloporaba',
 	'group-accountcreator' => 'Otvaratelji računa',
 	'group-arbcom' => 'Članovi arbitražnog odbora',
