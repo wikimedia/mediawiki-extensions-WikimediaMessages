@@ -4006,6 +4006,7 @@ $messages['gl'] = array(
 	'group-Global_sysops-member' => 'administrador global',
 	'group-Ombudsmen-member' => 'comisario',
 	'group-Staff-member' => 'membro',
+	'grouppage-steward' => '{{ns:project}}:Stewards',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => 'codificador',
 	'group-inactive' => 'Usuarios inactivos',
