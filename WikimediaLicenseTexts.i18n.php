@@ -2910,11 +2910,32 @@ $messages['ceb'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Gitugot ang pagkopya, pag-apud-apod o/ug pag-usab ning maong dokumento ubos sa mga termino sa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 o mas bag-ong bersiyon nga gimantala sa [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; nga walay Invariant Sections, walay Front-Cover Texts, ug walay Back-Cover Texts. Ang kopya sa lisensiya gilakip sa bahin nga giulohang ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 );
 
-/** Sorani (کوردی) */
+/** Sorani (کوردی)
+ * @author Asoxor
+ */
 $messages['ckb'] = array(
+	'wm-license-cc-free' => 'تۆ ئازادی:',
+	'wm-license-creator-date-of-birth' => 'ڕێکەوتی لەدایکبوون',
+	'wm-license-creator-date-of-birth-and-death' => 'ڕێکەوتی لەدایکبوون/مردن',
+	'wm-license-creator-location-of-birth' => 'شوێنی لەدایکبوون',
+	'wm-license-creator-work-location' => 'شوێنی بەرھەم',
 	'wm-license-free-software-wiki-link' => 'w:ckb:نەرمەکاڵا خۆڕاییەکان',
 	'wm-license-information-description' => 'پەسن',
 	'wm-license-information-source' => 'سەرچاوە',
+	'wm-license-information-source-missing' => "ئەم پەڕگەیە کەم و کۆڕیی زانیاریی '''سەرچاوە'''ی ھەیە.",
+	'wm-license-information-date' => 'ڕێکەوت',
+	'wm-license-information-author' => 'بەرھەمھێنەر',
+	'wm-license-information-author-missing' => "ئەم پەڕگەیە کەم و کۆڕیی زانیاریی '''بەرھەمھێنەر'''ی ھەیە.",
+	'wm-license-information-permission-reusing-text' => 'بەکارھێنانەوەی ئەم پەڕگەیە',
+	'wm-license-information-permission-see-below' => 'خوارەوە ببینە.',
+	'wm-license-information-other-versions' => 'وەشانەکانی تر',
+	'wm-license-pd-author-self-text' => "من، هەڵگری مافی خاوەنێتی ئەم بەرھەمە، ئەم بەرھەمە بڵاودەکەمەوە بۆ '''[[{{int:wm-license-pd-wiki-link}}|پاوانی گشتی (public domain)]]'''. ئەم مافە بۆ سەرانسەری جیھانە.",
+	'wm-license-pd-author-with-author-text' => "ئەم بەرھەمە بەدەستی بەرھەمھێنەرەکەی '''$1'''، بڵاوکراوەتەوە بۆ '''[[{{int:wm-license-pd-wiki-link}}|پاوانی گشتی (public domain)]]'''. ئەم مافە بۆ سەرانسەری جیھانە.",
+	'wm-license-self-one-license' => 'من، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیەدا بڵاوی دەکەمەوە:',
+	'wm-license-self-one-license-with-author' => '$1، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیەدا بڵاوی دەکاتەوە:',
+	'wm-license-self-multiple-licenses' => 'من، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیانەدا بڵاوی دەکەمەوە:',
+	'wm-license-self-multiple-licenses-with-author' => '$1، ھەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، لەژێر ئەم مۆڵەتنامەیانەدا بڵاوی دەکاتەوە:',
+	'wm-license-self-multiple-licenses-select' => 'دەتوانی مۆڵەتنامەی دڵخوازت ھەڵبژێریت.',
 );
 
 /** Crimean Turkish (Latin) (Qırımtatarca (Latin)) */
