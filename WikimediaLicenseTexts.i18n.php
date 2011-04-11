@@ -12336,7 +12336,7 @@ Heruitgave, afgeleide werken, commercieel gebruik en alle andere vormen van gebr
 	'wm-license-cecill-text' => 'Dit werk is [[{{int:wm-license-free-software-wiki-link}}|vrije software]]; u mag het heruitgeven of wijzigen onder de voorwaarden van de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]].
 De voorwaarden van de CeCILL-licentie zijn beschikbaar op [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:nl:CeCILL',
-	'wm-license-creator-alternative-names' => 'Alternatieve namen <!-- Aliassen? -->',
+	'wm-license-creator-alternative-names' => 'Aliassen',
 	'wm-license-creator-description' => 'Beschrijving',
 	'wm-license-creator-date-of-birth' => 'Geboortedatum',
 	'wm-license-creator-date-of-birth-and-death' => 'Geboorte- en sterfdatum',
@@ -12344,7 +12344,7 @@ De voorwaarden van de CeCILL-licentie zijn beschikbaar op [{{int:wm-license-ceci
 	'wm-license-creator-location-of-birth-and-death' => 'Geboorte- en sterfplaats',
 	'wm-license-creator-work-period' => 'Actieve periode',
 	'wm-license-creator-work-location' => 'Werklocatie',
-	'wm-license-creator-linkback' => 'Link naar dit kunstenaar-sjabloon',
+	'wm-license-creator-linkback' => 'Verwijzing naar dit kunstenaarsjabloon',
 	'wm-license-fal-text' => "Copyleft: dit kunstwerk is vrij; u mag het heruitgeven en/of wijzigen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-fal-wiki-link}}|Free Art-licentie]]'''.
 U kunt een voorbeeld van de licentie vinden op de [{{int:wm-license-fal-full-link}} website van Copyleft Attitude] als ook op andere websites.",
 	'wm-license-fal-wiki-link' => 'w:nl:Vrije kunst licentie',
@@ -12385,7 +12385,7 @@ Deze bibliotheek wordt gedistribueerd in de hoop dat deze bruikbaar is, maar '''
 zelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid voor een bepaald doel'''.
 Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] voor meer details.",
 	'wm-license-lgpl-wiki-link' => 'w:nl:GNU Lesser General Public License',
-	'wm-license-licensing-update-text' => 'Deze licentie-tag werd toegevoegd aan dit bestand in verband met de GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licentie-update]].',
+	'wm-license-licensing-update-text' => 'Deze licentietag is toegevoegd aan dit bestand in verband met de GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licentie-update]].',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/nl',
 	'wm-license-original-upload-log' => 'Origineel uploadlogboek',
 	'wm-license-own-work' => 'Eigen werk',
