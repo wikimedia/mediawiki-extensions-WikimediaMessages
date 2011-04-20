@@ -9011,10 +9011,18 @@ Siddu nun lu scrivistu tu, havi a essiri dispunibbili a cunnizzioni ca arrispett
 );
 
 /** Scots (Scots)
+ * @author Avicennasis
  * @author OchAyeTheNoo
  */
 $messages['sco'] = array(
 	'sitesupport' => 'Propines',
+	'group-flood' => 'Bot uisers',
+	'group-rollbacker' => 'Rowbackers',
+	'group-confirmed-member' => 'confirmed uiser',
+	'group-flood-member' => 'bot uiser',
+	'group-rollbacker-member' => 'rowbacker',
+	'group-inactive' => 'Inactive uisers',
+	'group-inactive-member' => 'inactive uisers',
 );
 
 /** Sindhi (سنڌي)
