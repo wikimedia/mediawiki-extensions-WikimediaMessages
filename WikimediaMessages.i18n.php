@@ -865,10 +865,27 @@ $messages['ay'] = array(
 
 /** Azerbaijani (Azərbaycanca)
  * @author PPerviz
+ * @author Vugar 1981
  */
 $messages['az'] = array(
 	'sitesupport' => 'Bağışlar',
+	'nstab-creator' => 'Yaradıcı',
+	'group-arbcom' => 'Arbitraj Komitəsinin üzvləri',
+	'group-patroller' => 'Patrullar',
+	'group-flood-member' => 'bot istifadəçi',
+	'group-founder-member' => 'Bani',
+	'group-ipblock-exempt-member' => 'IP blokundan azad olma',
+	'grouppage-founder' => 'Banilər',
+	'grouppage-ipblock-exempt' => 'IP blokundan azad olma',
 	'group-steward' => 'Stüardlar',
+	'group-Ombudsmen' => 'Ombudsman',
+	'group-steward-member' => 'stüard',
+	'group-sysadmin-member' => 'Sistem idarəçisi',
+	'group-Global_bot-member' => 'Qlobal bot',
+	'group-Global_sysops-member' => 'global idarəçi',
+	'group-inactive' => 'Qeyri-aktiv istifadəçilər',
+	'group-inactive-member' => 'qeyri-aktiv istifadəçi',
+	'grouppage-inactive' => 'Qeyri-aktiv istifadəçilər',
 	'wikimedia-copyright' => 'Mətn <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisenziyası</a> altındadır;
 əlavə şərtlər tətbiq oluna bilər.
 Ətraflı məlumat üçün <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
