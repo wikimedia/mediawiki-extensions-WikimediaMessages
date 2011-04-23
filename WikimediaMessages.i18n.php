@@ -598,6 +598,7 @@ $messages['ar'] = array(
 	'sitesupport' => 'تبرع',
 	'tooltip-n-sitesupport' => 'ادعمنا',
 	'specialpages-group-contribution' => 'المساهمات/جمع التبرعات',
+	'nstab-creator' => 'المنشئ',
 	'group-abusefilter' => 'معدلو مرشحات الإساءة',
 	'group-accountcreator' => 'منشئو الحسابات',
 	'group-arbcom' => 'أعضاء لجنة التحكيم',

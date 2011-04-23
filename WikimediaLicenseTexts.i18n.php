@@ -1054,9 +1054,18 @@ $messages['ay'] = array(
 );
 
 /** Azerbaijani (Azərbaycanca)
+ * @author Cekli829
  * @author PPerviz
  */
 $messages['az'] = array(
+	'wm-license-book-edition' => 'Nəşr',
+	'wm-license-book-editor' => 'Redaktor',
+	'wm-license-book-illustrator' => 'İllüstrator',
+	'wm-license-book-language' => 'Dil',
+	'wm-license-book-printer' => 'Printer',
+	'wm-license-book-title' => 'Başlıq',
+	'wm-license-book-translator' => 'Tərcüməçi',
+	'wm-license-book-year-of-publication' => 'Nəşr ili',
 	'wm-license-cc-by-1.0-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.az Attribution 1.0 Generic] lisenziyası altında yayımlanır.',
 	'wm-license-cc-by-1.0-fi-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  Finlandiya] lisenziyası altında yayımlanır.',
 	'wm-license-cc-by-1.0-il-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  İsrail] lisenziyası altında yayımlanır.',
@@ -1065,6 +1074,7 @@ $messages['az'] = array(
 	'wm-license-cc-by-2.0-at-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/at/deed.az Attribution 2.0 Avstriya] lisenziyası altında yayımlanır.',
 	'wm-license-cc-by-2.0-au-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.0/au/deed.az Attribution 2.0 Avstraliya] lisenziyası altında yayımlanır.',
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
+	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;yalnız',
 	'wm-license-information-source' => 'Mənbə',
 	'wm-license-information-date' => 'Tarix',
 	'wm-license-information-author' => 'Müəllif',
@@ -13361,6 +13371,8 @@ $messages['prg'] = array(
  */
 $messages['ps'] = array(
 	'wikimedialicensetexts-desc' => 'د ويکيمېډيا د منښتليک پيغامونه',
+	'wm-license-book-language' => 'ژبه',
+	'wm-license-book-title' => 'سرليک',
 	'wm-license-cc-wiki-link' => 'w:ps:کريېټيو کامانز',
 	'wm-license-cc-by-1.0-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
 	'wm-license-cc-by-1.0-fi-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [http://creativecommons.org/licenses/by/1.0/ Attribution 1.0 فېنلاند] اجازتليک له مخې ستاسې لاسرسي لپاره پرته ده.',
