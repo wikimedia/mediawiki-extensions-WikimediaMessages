@@ -865,6 +865,7 @@ $messages['ay'] = array(
 );
 
 /** Azerbaijani (Azərbaycanca)
+ * @author Cekli829
  * @author PPerviz
  * @author Vugar 1981
  */
@@ -879,11 +880,15 @@ $messages['az'] = array(
 	'grouppage-founder' => 'Banilər',
 	'grouppage-ipblock-exempt' => 'IP blokundan azad olma',
 	'group-steward' => 'Stüardlar',
+	'group-Global_bot' => 'Qlobal bot',
+	'group-Global_sysops' => 'Qlobal idarəçi',
 	'group-Ombudsmen' => 'Ombudsman',
 	'group-steward-member' => 'stüard',
 	'group-sysadmin-member' => 'Sistem idarəçisi',
+	'group-editinterface-member' => 'interfeys redaktoru',
 	'group-Global_bot-member' => 'Qlobal bot',
 	'group-Global_sysops-member' => 'global idarəçi',
+	'group-Ombudsmen-member' => 'ombudsman',
 	'group-inactive' => 'Qeyri-aktiv istifadəçilər',
 	'group-inactive-member' => 'qeyri-aktiv istifadəçi',
 	'grouppage-inactive' => 'Qeyri-aktiv istifadəçilər',
