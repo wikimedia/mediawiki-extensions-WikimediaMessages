@@ -1056,6 +1056,7 @@ $messages['ay'] = array(
 /** Azerbaijani (Azərbaycanca)
  * @author Cekli829
  * @author PPerviz
+ * @author Vago
  * @author Vugar 1981
  */
 $messages['az'] = array(
@@ -1075,6 +1076,7 @@ $messages['az'] = array(
 	'wm-license-book-translator' => 'Tərcüməçi',
 	'wm-license-book-volume' => 'Cild',
 	'wm-license-book-year-of-publication' => 'Nəşr ili',
+	'wm-license-cc-wiki-link' => 'w:en:Creative Commons',
 	'wm-license-cc-attribution' => 'İstinad',
 	'wm-license-cc-by-1.0-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.az Attribution 1.0 Generic] lisenziyası altında yayımlanır.',
 	'wm-license-cc-by-1.0-fi-text' => 'Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  Finlandiya] lisenziyası altında yayımlanır.',
@@ -1210,6 +1212,7 @@ il',
 	'wm-license-cc-free-to-remix-text' => 'əsər adaptasiyası',
 	'wm-license-cc-conditions-attribution-header' => 'İstinad',
 	'wm-license-cc-conditions-share_alike-header' => 'bənzər paylaşma',
+	'wm-license-cecill-wiki-link' => 'w:en:CeCILL',
 	'wm-license-creator-alternative-names' => 'Alternativ adlar',
 	'wm-license-creator-description' => 'Açıqlama',
 	'wm-license-creator-date-of-birth' => 'Təvəllüdü',
@@ -1218,6 +1221,7 @@ il',
 	'wm-license-creator-location-of-birth-and-death' => 'Doğum/ölüm yeri',
 	'wm-license-creator-work-period' => 'Yaradıcılıq illəri',
 	'wm-license-creator-work-location' => 'Yaradıcılıq məkanı',
+	'wm-license-fal-wiki-link' => 'w:en:Free Art license',
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;yalnız',
 	'wm-license-information-description' => 'Açıqlama',

@@ -867,6 +867,7 @@ $messages['ay'] = array(
 /** Azerbaijani (Azərbaycanca)
  * @author Cekli829
  * @author PPerviz
+ * @author Vago
  * @author Vugar 1981
  */
 $messages['az'] = array(
@@ -881,6 +882,7 @@ $messages['az'] = array(
 	'group-OTRS-member' => 'OTRS üzvləri',
 	'group-patroller' => 'Patrullar',
 	'group-autopatrolled-member' => 'avtopatrul',
+	'group-eliminator-member' => 'eliminator',
 	'group-flood-member' => 'bot istifadəçi',
 	'group-founder-member' => 'Bani',
 	'group-ipblock-exempt-member' => 'IP blokundan azad olma',
@@ -899,9 +901,14 @@ $messages['az'] = array(
 	'group-Global_bot-member' => 'Qlobal bot',
 	'group-Global_sysops-member' => 'global idarəçi',
 	'group-Ombudsmen-member' => 'ombudsman',
+	'grouppage-steward' => 'm:Stüardlar',
+	'grouppage-sysadmin' => 'm:Sistem idarəçisiləri',
+	'grouppage-Global_bot' => 'm:Qlobal bot',
+	'grouppage-Global_sysops' => 'Qlobal idarəçilər',
 	'group-inactive' => 'Qeyri-aktiv istifadəçilər',
 	'group-inactive-member' => 'qeyri-aktiv istifadəçi',
 	'grouppage-inactive' => '{{ns:project}}:Qeyri-aktiv istifadəçilər',
+	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'Mətn <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisenziyası</a> altındadır;
 əlavə şərtlər tətbiq oluna bilər.
 Ətraflı məlumat üçün <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
@@ -7719,9 +7726,13 @@ $messages['oc'] = array(
 
 /** Oriya (ଓଡ଼ିଆ)
  * @author Jose77
+ * @author Psubhashish
  */
 $messages['or'] = array(
 	'sitesupport' => 'ଦାନ',
+	'wikimedia-copyrightwarning' => 'ଏହାକୁ ସାଇତିବା ପରେ ଆପଣ ନିଜ ତିଆରି ଲେଖା/ଅନ୍ୟକିଛିକୁ [http://creativecommons.org/licenses/by-sa/3.0/ କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ୩.୦] ଓ [http://www.gnu.org/copyleft/fdl.html GFDL] ଲାଇସେନ୍ସରେ ବିତରଣ କରିଯାଇପାରିବ ବୋଲି ଅନୁମତି ଦେଲେ ।
+ଆପଣ ମଧ୍ୟ ଏହାକୁ ଆଉଥରେ ବ୍ୟବହାର କରିବାକୁ ରାଜିହେଲେ ଯେଉଁଥିରେ ହୁଏତ ଆପଣଙ୍କ ନାଆଁ ରହି ନପାରେ, କେବଳ URL/ହାଇପରଲିଙ୍କ ରହିପାରେ ।
+ଅଧିକ ଜାଣିବା ପାଇଁ [http://wikimediafoundation.org/wiki/Terms_of_Use ବ୍ୟବହାର ପ୍ରଣାଳୀ] ଦେଖନ୍ତୁ ।',
 );
 
 /** Ossetic (Иронау)
