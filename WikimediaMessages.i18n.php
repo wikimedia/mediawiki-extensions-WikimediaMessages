@@ -8073,6 +8073,7 @@ $messages['ps'] = array(
 	'wikimediamessages-desc' => 'د ويکيمېډيا ځانګړي پيغامونه',
 	'sitesupport' => 'بسپنې',
 	'tooltip-n-sitesupport' => 'زموږ ملاتړ وکړی',
+	'nstab-creator' => 'جوړونکی',
 	'group-accountcreator' => 'کارن-حساب جوړونکي',
 	'group-filemover' => 'دوتنې لېږدونکي',
 	'group-flood' => 'د روباټ کارنان',
