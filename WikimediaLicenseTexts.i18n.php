@@ -13575,7 +13575,7 @@ $messages['prg'] = array(
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
-	'wikimedialicensetexts-desc' => 'د ويکيمېډيا د منښتليک پيغامونه',
+	'wikimedialicensetexts-desc' => 'د ويکيرسنۍ د منښتليک پيغامونه',
 	'wm-license-book-editor' => 'سمونګر',
 	'wm-license-book-language' => 'ژبه',
 	'wm-license-book-publisher' => 'خپرونکی',

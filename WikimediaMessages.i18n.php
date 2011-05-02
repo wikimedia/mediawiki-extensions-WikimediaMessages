@@ -2059,7 +2059,7 @@ $messages['cs'] = array(
  * @author ОйЛ
  */
 $messages['cu'] = array(
-	'sitesupport' => 'даꙗ́ниꙗ',
+	'sitesupport' => 'даꙗниꙗ',
 	'wikimedia-copyright' => 'по́дъ прощє́ниѥмь <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьса́но ѥ́стъ · доплънитєл҄ьнꙑ оустановлєниꙗ тако жє могѫтъ бꙑти ⁙
 Ꙁьри́ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/cu">по́льꙃєваниꙗ оуставъ</a> пльна расъмощрѥ́ниꙗ дѣл̑ьма́',
 );
@@ -6136,7 +6136,7 @@ $messages['lb'] = array(
 	'group-abusefilter-member' => 'Editeur vum Mëssbrauchsfilter',
 	'group-accountcreator-member' => 'Benotzer dee Benotzerkonten uleeën däerf',
 	'group-arbcom-member' => "Member vum Comité d'arbitrage",
-	'group-autopatrolled-member' => 'Benotzer deen automatesch iwwerkuckt',
+	'group-autopatrolled-member' => 'Benotzer deen automatesch nokuckt',
 	'group-autoreviewer-member' => 'Benotzer deen automatesch nokuckt',
 	'group-bigexport-member' => 'groussen Exportateur',
 	'group-confirmed-member' => 'Confirméierte Benotzer',
