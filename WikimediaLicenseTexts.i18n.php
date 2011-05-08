@@ -3650,6 +3650,7 @@ $messages['cy'] = array(
  * @author Emilkris33
  * @author MGA73
  * @author Multichill
+ * @author Peter Alberti
  * @author Sarrus
  */
 $messages['da'] = array(
@@ -3881,7 +3882,7 @@ $messages['da'] = array(
 	'wm-license-information-author' => 'Rettighedshaver',
 	'wm-license-information-author-missing' => 'Denne fil mangler information om dets rettighedsindehaver.',
 	'wm-license-information-permission' => 'Tilladelse',
-	'wm-license-information-permission-reusing-text' => 'Genbruger denne fil',
+	'wm-license-information-permission-reusing-text' => 'Genbrug af denne fil',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Andre versioner',
 	'wm-license-lgpl-text' => "Dette bibliotek er [[{{int:wm-license-free-software-wiki-link}}|fri software]]; du kan videredistribuere det og/eller ændre det under betingelserne i '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' som er udgivet af [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; enten version 2.1 af licensen, eller (efter dit ønske) enhver senere version. Dette bibliotek er distribueret i håb om at det vil være nyttigt, men '''uden nogen form for garanti''', uden selv de underforståede garantier '''salgbarhed''' eller '''egnethed til et bestemt formål'''. Se [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] og [{{int:wm-license-lgpl-3-full-link}} version 3 af licensen GNU Lesser General Public License] for flere detaljer.",
