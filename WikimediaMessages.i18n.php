@@ -8214,9 +8214,9 @@ $messages['pt'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inactivos',
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
-Consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a> para mais detalhes.',
-	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
-Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de um link ou URL para a página em que está a contribuir. Consulte as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] para mais detalhes.',
+Para mais detalhes, consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
+	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/deed.pt Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)] e [http://www.gnu.org/copyleft/fdl.html GFDL].
+Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de um link ou URL para a página em que está a contribuir. Para mais detalhes, consulte as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso].',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
 Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e concorda em seguir quaisquer condições de licenciamento relevantes.',
 );
