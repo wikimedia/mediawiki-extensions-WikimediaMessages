@@ -3572,7 +3572,7 @@ $messages['cu'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/1.0/nl/ Share Alike 1.0 Netherlands] положєно ѥ́стъ',
 	'wm-license-cc-sa-2.0-jp-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/sa/2.0/jp/ Share Alike 2.0 Japan] положєно ѥ́стъ',
 	'wm-license-cc-free' => 'тꙑ можєши :',
-	'wm-license-information-author' => 'творь́ць',
+	'wm-license-information-author' => 'творьць',
 );
 
 /** Chuvash (Чӑвашла)
@@ -5208,6 +5208,7 @@ $messages['es'] = array(
 	'wm-license-creator-location-of-birth-and-death' => 'Lugar de nacimiento/de la muerte',
 	'wm-license-creator-work-period' => 'Período de trabajo',
 	'wm-license-creator-work-location' => 'Lugares de trabajo',
+	'wm-license-creator-linkback' => 'Volver a la plantilla de Creador de fichas',
 	'wm-license-fal-text' => "Copyleft: esta obra de arte es libre; puedes redistribuírla y modificarla de acuerdo con los términos de la '''[[{{int:wm-license-fal-wiki-link}}|licencia de arte libre]]'''. Encontrarás un ejemplar de esta licencia en la [{{int:wm-license-fal-full-link}} página del Copyleft Attitude], así como también en otras páginas.",
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/es',
 	'wm-license-fsf-wiki-link' => 'w:es:Free Software Foundation',

@@ -2060,8 +2060,8 @@ $messages['cs'] = array(
  */
 $messages['cu'] = array(
 	'sitesupport' => 'даꙗниꙗ',
-	'wikimedia-copyright' => 'по́дъ прощє́ниѥмь <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьса́но ѥ́стъ · доплънитєл҄ьнꙑ оустановлєниꙗ тако жє могѫтъ бꙑти ⁙
-Ꙁьри́ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/cu">по́льꙃєваниꙗ оуставъ</a> пльна расъмощрѥ́ниꙗ дѣл̑ьма́',
+	'wikimedia-copyright' => 'подъ прощєниѥмь <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙
+Ꙁьри <a href="http://wikimediafoundation.org/wiki/Terms_of_Use/cu">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма',
 );
 
 /** Chuvash (Чӑвашла)
@@ -2875,6 +2875,7 @@ $messages['es'] = array(
 	'nstab-creator' => 'Creador',
 	'nstab-institution' => 'Institución',
 	'nstab-sequence' => 'Secuencia',
+	'nstab-timedtext' => 'TimedText',
 	'group-abusefilter' => 'Editores de filtro de abuso',
 	'group-accountcreator' => 'Creadores de cuentas',
 	'group-arbcom' => 'Miembros del comité de arbitraje',
@@ -8345,6 +8346,7 @@ $messages['qu'] = array(
 	'wikimediamessages-desc' => 'Wikimedia sapaq willaykuna',
 	'sitesupport' => 'Qarana',
 	'tooltip-n-sitesupport' => 'Yanapawayku',
+	'nstab-creator' => 'Kamariq',
 	'group-abusefilter' => "Millay ruray suysuna llamk'apuqkuna",
 	'group-accountcreator' => 'Rakiquna kamariqkuna',
 	'group-autoreviewer' => 'Kikin llanchiqkuna',
@@ -8353,19 +8355,26 @@ $messages['qu'] = array(
 	'group-founder' => 'Kamariqkuna',
 	'group-import' => 'Hawamanta chaskiqkuna',
 	'group-ipblock-exempt' => "IP hark'aymanta qispisqakuna",
+	'group-patroller' => 'Patrullaqkuna',
+	'group-researcher' => "K'uskiykuqkuna",
 	'group-rollbacker' => 'Kutichiqkuna',
 	'group-transwiki' => 'Wikipura hawamanta chaskiqkuna',
+	'group-trusted' => 'Sunqullisqa ruraqkuna',
 	'group-abusefilter-member' => "millay ruray suysuna llamk'apuq",
 	'group-accountcreator-member' => 'rakiquna kamariq',
 	'group-autopatrolled-member' => 'kikinmanta patrullaq',
 	'group-autoreviewer-member' => 'kikin llanchiq',
 	'group-bigexport-member' => 'hatun hawaman quq',
 	'group-confirmed-member' => 'rakiqunayuq ruraq',
+	'group-filemover-member' => 'willañiqi astaq',
 	'group-founder-member' => 'kamariq',
 	'group-import-member' => 'hawamanta chaskiq',
 	'group-ipblock-exempt-member' => "IP hark'aymanta qispisqa",
+	'group-patroller-member' => 'patrullaq',
+	'group-researcher-member' => "k'uskiykuq",
 	'group-rollbacker-member' => 'kutichiq',
 	'group-transwiki-member' => 'wikipura hawamanta chaskiq',
+	'group-trusted-member' => 'sunqullisqa ruraq',
 	'grouppage-abusefilter' => "{{ns:project}}:Millay ruray suysuna llamk'apuqkuna",
 	'grouppage-accountcreator' => '{{ns:project}}:Rakiquna kamariqkuna',
 	'grouppage-autopatrolled' => '{{ns:project}}:Kikinmanta patrullaqkuna',
@@ -8390,6 +8399,7 @@ $messages['qu'] = array(
 	'group-editinterface-member' => "uyapurata llamk'apuy",
 	'group-Global_bot-member' => 'sapsi rurana antacha',
 	'group-Global_rollback-member' => 'sapsi kutichiq',
+	'group-Global_sysops-member' => 'sapsi kamachiq',
 	'group-Ombudsmen-member' => 'ayllu amachaq',
 	'group-Staff-member' => "llamk'aqninkuna",
 	'group-coder' => 'Wakichi qillqaqkuna',
@@ -9166,7 +9176,9 @@ $messages['shi'] = array(
  * @author Pasanbhathiya2
  * @author චතුනි අලහප්පෙරුම
  * @author නන්දිමිතුරු
+ * @author පසිඳු කාවින්ද
  * @author බිඟුවා
+ * @author ශ්වෙත
  */
 $messages['si'] = array(
 	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂී පණිවුඩයන්',
@@ -9269,12 +9281,14 @@ $messages['si'] = array(
 	'group-inactive' => 'අක්‍රීය පරිශීලකයන්',
 	'group-inactive-member' => 'අක්‍රීය පරිශීලකයා',
 	'grouppage-inactive' => '{{ns:project}}:අක්‍රීය පරිශීලකයන්',
-	'wikimedia-copyright' => 'පෙළ <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;යටතේ ලබා ගත හැක.අමතර කොන්දේසි භාවිතා විය හැක.
-වැඩි විස්තර සඳහා <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> බලන්න.',
-	'wikimedia-copyrightwarning' => 'සුරැකීමෙන්, [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] සහ  [http://www.gnu.org/copyleft/fdl.html GFDL].
-යටතේ ඔබේ දායකත්වය යළි වෙනස් කළ නොහැකි ලෙස නිකුත් කිරීමට ඔබ එකඟ වේ.ඔබ දායකත්වය සපයන පිටුවට අධි-සබැඳුම් හෝ URL තුළින්,අවමයේදී,ප්‍රති-පරිශීලකයන් විසින් බැර කරනු ලැබීමට ඔබ එකඟ වේ.වැඩි විස්තර සඳහා [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] බලන්න.',
+	'wikimedia-copyright' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/"> නිර්මාණාත්මක පොදු පැවරීම (ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්‍යුෂන්)/සම-හවුල (ෂෙයාර්-අලයික්) වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
+අමතර කොන්දේසි අදාළ විය හැක. 
+විස්තර සඳහා <a href=\'http://wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
+	'wikimedia-copyrightwarning' => 'සුරැකීමෙන්, ඔබගේ දායකත්වය අවලංගු කළ නොහැකි [http://creativecommons.org/licenses/by-sa/3.0/ නිර්මාණාත්මක පොදුජන ගුණනාමය/කොටස්කාර-සමානව බලපත්‍ර 3.0] සහ [http://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිකුත් කිරීමකට එකග වෙයි.
+තවද ඔබ විසින් දායකත්වය සපයන පිටුවට අධි-සබැඳුම් හෝ URL තුළින්,අවමයේදී,ප්‍රති-පරිශීලකයන් විසින් බැර කරනු ලැබීමට ඔබ එකඟ වේ.
+විස්තර සඳහා [http://wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] බලන්න.',
 	'wikimedia-editpage-tos-summary' => 'ඔබගේ ලේඛනය කැමැත්ත පරිදි සංස්කරණය කිරීමට හෝ යළි වෙනස් විදියකින් බෙදා හැරීමට ඔබට අවශ්‍ය නොවේ නම්,එය මෙහි යොමු නොකරන්න.
-මෙය ඔබ විසින්ම ලියනු නොලැබුවේනම්,එය [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] සමඟ අනුරූප කොන්දේසි යටතේ ලබා ගත හැකිවිය යුතු අතර,ඕනෑම අදාළ බලපත්‍රදායක අවශ්‍යතාවයක් අනුගමනය කිරීමට ඔබ එකඟ වෙයි.',
+මෙය ඔබ විසින්ම ලියනු නොලැබුවේනම්,එය [http://wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] සමඟ අනුරූප කොන්දේසි යටතේ ලබා ගත හැකිවිය යුතු අතර,ඕනෑම අදාළ බලපත්‍රදායක අවශ්‍යතාවයක් අනුගමනය කිරීමට ඔබ එකඟ වෙයි.',
 );
 
 /** Slovak (Slovenčina)
