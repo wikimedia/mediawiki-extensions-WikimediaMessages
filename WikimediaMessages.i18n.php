@@ -6713,7 +6713,7 @@ $messages['mk'] = array(
 	'group-Image-reviewer-member' => 'проверувач на слики',
 	'group-import-member' => 'увозник',
 	'group-interface_editors-member' => 'уредник на посредникот',
-	'group-ipblock-exempt-member' => 'IP блок исклучок',
+	'group-ipblock-exempt-member' => 'Исклучок од IP-блокирање',
 	'group-OTRS-member-member' => 'член на OTRS',
 	'group-patroller-member' => 'патролер',
 	'group-researcher-member' => 'истражувач',
@@ -6735,7 +6735,7 @@ $messages['mk'] = array(
 	'grouppage-Image-reviewer' => '{{ns:project}}:Проверувачи на слики',
 	'grouppage-import' => '{{ns:project}}:Увoзници',
 	'grouppage-interface_editors' => '{{ns:project}}:Уредници на посредникот',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:IP блок исклучок',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Исклучок од IP-блокирање',
 	'grouppage-OTRS-member' => '{{ns:project}}:Членови на OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Истражувач',
 	'grouppage-rollbacker' => '{{ns:project}}:Враќачи',
@@ -9281,7 +9281,7 @@ $messages['si'] = array(
 	'group-inactive' => 'අක්‍රීය පරිශීලකයන්',
 	'group-inactive-member' => 'අක්‍රීය පරිශීලකයා',
 	'grouppage-inactive' => '{{ns:project}}:අක්‍රීය පරිශීලකයන්',
-	'wikimedia-copyright' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/"> නිර්මාණාත්මක පොදු පැවරීම (ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්‍යුෂන්)/සම-හවුල (ෂෙයාර්-අලයික්) වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
+	'wikimedia-copyright' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/"> නිර්මාණාත්මක පොදු දේපල(ක්‍රියේටිව් කොමන්ස්) ආරෝපණය(ඇට්‍රිබ්‍යුෂන්)/එයාකාර-හවුලෙහි භාවිතය(ෂෙයාර්-අලයික්) වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
 අමතර කොන්දේසි අදාළ විය හැක. 
 විස්තර සඳහා <a href=\'http://wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
 	'wikimedia-copyrightwarning' => 'සුරැකීමෙන්, ඔබගේ දායකත්වය අවලංගු කළ නොහැකි [http://creativecommons.org/licenses/by-sa/3.0/ නිර්මාණාත්මක පොදුජන ගුණනාමය/කොටස්කාර-සමානව බලපත්‍ර 3.0] සහ [http://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිකුත් කිරීමකට එකග වෙයි.
