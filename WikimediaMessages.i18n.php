@@ -10201,6 +10201,7 @@ Uobejzdrzij blank dokłodne informacyje uo <a href="http://wikimediafoundation.o
 $messages['ta'] = array(
 	'sitesupport' => 'நன்கொடை',
 	'tooltip-n-sitesupport' => 'நன்கொடைகளை வழங்குங்கள்',
+	'group-accountcreator' => 'பயனர் கணக்கு உருவாக்குவோர்',
 	'group-filemover' => 'கோப்பை நகர்த்துபவர்கள்',
 	'group-flood' => 'தானியங்கி பயனர்கள்',
 	'group-founder' => 'நிறுவனர்கள்',
