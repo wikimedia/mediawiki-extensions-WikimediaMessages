@@ -3062,10 +3062,10 @@ $messages['et'] = array(
 	'group-inactive' => 'Passiivsed kasutajad',
 	'group-inactive-member' => 'passiivne kasutaja',
 	'grouppage-inactive' => '{{ns:project}}:Ebaaktiivsed kasutajad',
-	'wikimedia-copyright' => 'Tekst on kasutatav <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsentsi tingimustel;
+	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
 sellele võivad lisanduda täiendavad tingimused.
-Täpsemalt vaata <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimusi</a>.',
-	'wikimedia-copyrightwarning' => 'Salvestamisega annad nõusoleku oma kaastöö pöördumatuks avaldamiseks [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [http://www.gnu.org/copyleft/fdl.html GFDL-litsentside] alusel.
+Täpsemalt vaata <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
+	'wikimedia-copyrightwarning' => 'Salvestamisega annad nõusoleku oma kaastöö pöördumatuks avaldamiseks Creative Commonsi litsentsi [http://creativecommons.org/licenses/by-sa/3.0/deed.et "Autorile viitamine + jagamine samadel tingimustel 3.0"] ja [http://www.gnu.org/copyleft/fdl.html GFDL-litsentsi] alusel.
 Nõustud, et sinu autorlusele osutatakse vähemalt veebiaadressi või lingiga lehele, millele kaastööd teed.
 Täpsemalt vaata [http://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia kasutamistingimustest].',
 	'wikimedia-editpage-tos-summary' => 'Kui sa ei soovi, et sinu kirjutatut halastamatult redigeeritakse ja oma äranägemise järgi kasutatakse, siis ära seda siia salvesta. 
