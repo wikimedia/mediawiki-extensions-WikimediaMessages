@@ -672,6 +672,8 @@ $messages['ar'] = array(
 	'group-Staff-member' => 'عضو من المشرفين',
 	'grouppage-steward' => 'm:Stewards/ar',
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
+	'grouppage-Global_sysops' => 'm:Global sysops/ar',
+	'grouppage-Ombudsmen' => 'm:Ombudsman commission/ar',
 	'grouppage-Staff' => 'Foundation:الطاقم',
 	'group-coder' => 'مكودون',
 	'group-coder-member' => 'مكود',
@@ -2847,7 +2849,7 @@ $messages['eo'] = array(
 	'group-inactive' => 'Neaktivaj uzantoj',
 	'group-inactive-member' => 'neaktiva uzanto',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
-	'wikimedia-copyright' => 'La teksto disponeblas laŭ la permesilo <a href="http://creativecommons.org/licenses/by-sa/3.0/">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.
+	'wikimedia-copyright' => 'La teksto disponeblas laŭ la permesilo <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.eo">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.
 Vidu la <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> por detaloj.',
 	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas senlime eldoni vian kontribuon laŭ la [http://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [http://www.gnu.org/copyleft/fdl.html GFDL]. 
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita. Vidu la [http://wikimediafoundation.org/wiki/Terms_of_Use Rajtojn de Uzado] por detaloj.',
