@@ -1397,7 +1397,7 @@ $messages['bn'] = array(
 	'group-abusefilter-member' => 'অপব্যবহার ফিল্টার সম্পাদক',
 	'group-accountcreator-member' => 'অ্যাকাউন্ট স্রষ্টা',
 	'group-arbcom-member' => 'আর্বিট্রেশন কমিটি সদস্য',
-	'group-autopatrolled-member' => 'স্বয়ংক্রীয় পর্যবেক্ষক',
+	'group-autopatrolled-member' => 'স্বয়ংক্রিয় পরীক্ষক',
 	'group-autoreviewer-member' => 'স্বয়ংক্রিয়-পর্যালোচক',
 	'group-bigexport-member' => 'বহু-পাতা-রপ্তানিকারক',
 	'group-confirmed-member' => 'নিশ্চিতকৃত ব্যবহারকারী',
@@ -1419,7 +1419,7 @@ $messages['bn'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:অপব্যবহার ফিল্টার সম্পাদক',
 	'grouppage-accountcreator' => '{{ns:project}}:অ্যাকাউন্ট সৃষ্টিকারী',
 	'grouppage-arbcom' => '{{ns:project}}:আর্বিট্রেশন কমিটি সদস্য',
-	'grouppage-autopatrolled' => '{{ns:project}}:স্বয়ংক্রীয় পরীক্ষকগণ',
+	'grouppage-autopatrolled' => '{{ns:project}}:স্বয়ংক্রিয় পরীক্ষণ',
 	'grouppage-autoreviewer' => '{{ns:project}}:স্বয়ংক্রিয়-পর্যালোচক',
 	'grouppage-bigexport' => '{{ns:project}}:বহু-পাতা-রপ্তানিকারক',
 	'grouppage-confirmed' => '{{ns:project}}:নিশ্চিতকৃত ব্যবহারকারীরা',
@@ -10435,6 +10435,7 @@ $messages['tg-latn'] = array(
 
 /** Thai (ไทย)
  * @author Horus
+ * @author Korrawit
  * @author Manop
  * @author Mopza
  * @author Octahedron80
@@ -10449,8 +10450,8 @@ $messages['th'] = array(
 	'specialpages-group-contribution' => 'การบริจาค/ระดมทุน',
 	'group-abusefilter' => 'บรรณาธิการกลั่นกรองการใช้ที่ไม่เหมาะสม',
 	'group-accountcreator' => 'ผู้สร้างบัญชีผู้ใช้',
-	'group-autopatrolled' => 'ผู้ตรวจการอัติโนมัติ',
-	'group-autoreviewer' => 'ผู้ตรวจสอบอัติโนมัติ',
+	'group-autopatrolled' => 'ผู้ตรวจการอัตโนมัติ',
+	'group-autoreviewer' => 'ผู้ตรวจสอบอัตโนมัติ',
 	'group-confirmed' => 'ผู้ใช้ที่ยืนยันแล้ว',
 	'group-flood' => 'ผู้ใช้ที่เป็นบอต',
 	'group-founder' => 'ผู้ก่อตั้ง',
@@ -10461,9 +10462,9 @@ $messages['th'] = array(
 	'group-transwiki' => 'ผู้นำเข้าข้ามวิกิ',
 	'group-trusted' => 'ผู้ใช้ที่เชื่อถือได้',
 	'group-accountcreator-member' => 'ผู้สร้างบัญชีผู้ใช้',
-	'group-autopatrolled-member' => 'ผู้ตรวจการอัติโนมัติ',
-	'group-autoreviewer-member' => 'ผู้ตรวจสอบอัติโนมัติ',
-	'group-confirmed-member' => 'ผู้ใช่ที่ยืนยันแล้ว',
+	'group-autopatrolled-member' => 'ผู้ตรวจการอัตโนมัติ',
+	'group-autoreviewer-member' => 'ผู้ตรวจสอบอัตโนมัติ',
+	'group-confirmed-member' => 'ผู้ใช้ที่ยืนยันแล้ว',
 	'group-flood-member' => 'ผู้ใช้ที่เป็นบอต',
 	'group-founder-member' => 'ผู้ก่อตั้ง',
 	'group-import-member' => 'ผู้นำเข้า',
@@ -10473,8 +10474,8 @@ $messages['th'] = array(
 	'group-trusted-member' => 'ผู้ใช้ที่เชื่อถือได้',
 	'grouppage-abusefilter' => '{{ns:project}}:บรรณาธิการกลั่นกรองการใช้ที่ไม่ถูกต้อง',
 	'grouppage-accountcreator' => '{{ns:project}}:ผู้สร้างบัญชีผู้ใช้',
-	'grouppage-autopatrolled' => '{{ns:project}}:ผู้ตรวจการอัติโนมัติ',
-	'grouppage-autoreviewer' => '{{ns:project}}:ผู้ตรวจสอบอัติโนมัติ',
+	'grouppage-autopatrolled' => '{{ns:project}}:ผู้ตรวจการอัตโนมัติ',
+	'grouppage-autoreviewer' => '{{ns:project}}:ผู้ตรวจสอบอัตโนมัติ',
 	'grouppage-confirmed' => '{{ns:project}}:ผู้ใช้ที่ยืนยันแล้ว',
 	'grouppage-flood' => '{{ns:project}}:ผู้ใช้ที่เป็นบอต',
 	'grouppage-founder' => '{{ns:project}}:ผู้ร่วมก่อตั้ง',
