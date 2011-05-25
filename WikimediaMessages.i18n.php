@@ -9208,6 +9208,7 @@ $messages['shi'] = array(
  * @author Budhajeewa
  * @author Calcey
  * @author Pasanbhathiya2
+ * @author Singhalawap
  * @author චතුනි අලහප්පෙරුම
  * @author නන්දිමිතුරු
  * @author පසිඳු කාවින්ද
@@ -9315,10 +9316,10 @@ $messages['si'] = array(
 	'group-inactive' => 'අක්‍රීය පරිශීලකයන්',
 	'group-inactive-member' => 'අක්‍රීය පරිශීලකයා',
 	'grouppage-inactive' => '{{ns:project}}:අක්‍රීය පරිශීලකයන්',
-	'wikimedia-copyright' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/"> නිර්මාණාත්මක පොදු දේපල(ක්‍රියේටිව් කොමන්ස්) ආරෝපණය(ඇට්‍රිබ්‍යුෂන්)/එයාකාර-හවුලෙහි භාවිතය(ෂෙයාර්-අලයික්) වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
+	'wikimedia-copyright' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
 අමතර කොන්දේසි අදාළ විය හැක. 
 විස්තර සඳහා <a href=\'http://wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
-	'wikimedia-copyrightwarning' => 'සුරැකීමෙන්, ඔබගේ දායකත්වය අවලංගු කළ නොහැකි [http://creativecommons.org/licenses/by-sa/3.0/ නිර්මාණාත්මක පොදුජන ගුණනාමය/කොටස්කාර-සමානව බලපත්‍ර 3.0] සහ [http://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිකුත් කිරීමකට එකග වෙයි.
+	'wikimedia-copyrightwarning' => 'සුරැකීම මගින් ඔබගේ දායකත්වය, අවලංගු කළ නොහැකි [http://creativecommons.org/licenses/by-sa/3.0/ ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් බලපත්‍ර 3.0] සහ [http://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිකුත් කිරීමකට එකග වෙයි.
 තවද ඔබ විසින් දායකත්වය සපයන පිටුවට අධි-සබැඳුම් හෝ URL තුළින්,අවමයේදී,ප්‍රති-පරිශීලකයන් විසින් බැර කරනු ලැබීමට ඔබ එකඟ වේ.
 විස්තර සඳහා [http://wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] බලන්න.',
 	'wikimedia-editpage-tos-summary' => 'ඔබගේ ලේඛනය කැමැත්ත පරිදි සංස්කරණය කිරීමට හෝ යළි වෙනස් විදියකින් බෙදා හැරීමට ඔබට අවශ්‍ය නොවේ නම්,එය මෙහි යොමු නොකරන්න.
