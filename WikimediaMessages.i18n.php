@@ -1442,7 +1442,7 @@ $messages['bn'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:আইপি নিষেধাজ্ঞা রহিত',
 	'grouppage-OTRS-member' => '{{ns:project}}:ওটিআরএস সদস্য',
 	'grouppage-researcher' => '{{ns:project}}:গবেষক',
-	'grouppage-rollbacker' => '{{ns:project}}:রোলব্যাকার',
+	'grouppage-rollbacker' => '{{ns:project}}:রোলব্যাক',
 	'grouppage-transwiki' => '{{ns:project}}:ট্রান্সউইকি আমদানিকারক',
 	'grouppage-trusted' => '{{ns:project}}:আস্থাভাজন ব্যবহারকারী',
 	'group-steward' => 'স্টুয়ার্ড',
@@ -2278,7 +2278,7 @@ $messages['da'] = array(
  * @author Απεργός
  */
 $messages['de'] = array(
-	'wikimediamessages-desc' => 'Spezifische Systemnachrichten für Projekte der Wikimedia Foundation',
+	'wikimediamessages-desc' => 'Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
