@@ -3589,6 +3589,10 @@ $messages['frp'] = array(
 	'sitesupport' => 'Balyér',
 	'tooltip-n-sitesupport' => 'Édiéd-nos !',
 	'specialpages-group-contribution' => 'Contribucions / levâ de fonds',
+	'nstab-creator' => 'Crèator',
+	'nstab-institution' => 'Enstitucion',
+	'nstab-sequence' => 'Sèquence',
+	'nstab-timedtext' => 'TèxtoSincronisâ',
 	'group-abusefilter' => 'Changiors de filtro d’abus',
 	'group-accountcreator' => 'Crèators de comptos',
 	'group-arbcom' => 'Membros du comitât d’arbitrâjo',
@@ -6403,6 +6407,7 @@ $messages['loz'] = array(
 );
 
 /** Lithuanian (Lietuvių)
+ * @author Eitvys200
  * @author Homo
  * @author Hugo.arg
  * @author Matasg
@@ -6414,6 +6419,7 @@ $messages['lt'] = array(
 	'sitesupport' => 'Parama',
 	'tooltip-n-sitesupport' => 'Palaikymas',
 	'specialpages-group-contribution' => 'Įnašas/Remėjas',
+	'nstab-creator' => 'Kūrėjas',
 	'group-abusefilter' => 'Piktnaudžiavimo filtrų redaktoriai',
 	'group-accountcreator' => 'Paskyrų kūrėjai',
 	'group-arbcom' => 'Arbitražo komiteto nariai',
@@ -6441,11 +6447,13 @@ $messages['lt'] = array(
 	'group-bigexport-member' => 'didieji eksportuotojai',
 	'group-confirmed-member' => 'patvirtintas naudotojas',
 	'group-editprotected-member' => 'Apsaugotų puslapių redaktorius',
+	'group-flood-member' => 'Robotas',
 	'group-founder-member' => 'įkūrėjai',
 	'group-import-member' => 'įkėlėjas',
 	'group-ipblock-exempt-member' => 'atleistasis nuo IP blokavimo',
 	'group-rollbacker-member' => 'atmesti',
 	'group-transwiki-member' => 'transwiki įkėlėjai',
+	'group-trusted-member' => 'patikimas vartotojas',
 	'grouppage-abusefilter' => '{{ns:project}}:Piktnaudžiavimo filtrų redaktorius',
 	'grouppage-accountcreator' => '{{ns:project}}:Sąskaitų kūrėjai',
 	'grouppage-arbcom' => '{{ns:project}}:Arbitražo komiteto nariai',
@@ -6522,10 +6530,10 @@ $messages['lv'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Neaktīvi lietotāji',
 	'wikimedia-copyright' => 'Teksts ir pieejams saskaņā ar <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenci</a>;
 var pastāvēt papildus ierobežojumi.
-Plašākai informācijai skatīt <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Pielietošanas noteikumus</a>.',
+Plašākai informācijai skatīt <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Lietošanas noteikumus</a>.',
 	'wikimedia-copyrightwarning' => 'Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [http://www.gnu.org/copyleft/fdl.html GFDL] licenci.
 Jūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.
-Plašākai informācijai skatīt [http://wikimediafoundation.org/wiki/Terms_of_Use Pielietošanas noteikumus].',
+Plašākai informācijai skatīt [http://wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].',
 	'wikimedia-editpage-tos-summary' => 'Ja jūs nevēlaties, lai jūsu rakstīto labo un izplata bez ierobežojumiem, neiesniedziet to šeit.
 Ja šo tekstu nerakstījāt jūs, tam ir jābūt pieejamam ar nosacījumiem, kas saskan ar [http://wikimediafoundation.org/wiki/Terms_of_Use pielietošanas noteikumiem] un jūs piekrītat izpildīt visas saistošās licencēšanas prasības.',
 );
