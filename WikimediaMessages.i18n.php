@@ -8614,7 +8614,7 @@ Dacă nu l-ați scris dumneavoastră, acesta trebuie să fie disponibil în conc
 /** Aromanian (Armãneashce)
  * @author Hakka
  */
-$messages['roa-rup'] = array(
+$messages['rup'] = array(
 	'sitesupport' => 'Donatsiur',
 );
 
