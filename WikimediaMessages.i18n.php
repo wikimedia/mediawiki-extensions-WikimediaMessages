@@ -6119,7 +6119,7 @@ $messages['lad'] = array(
 $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/lb',
-	'sitesupport' => 'Donatiounen',
+	'sitesupport' => 'Maacht en Don',
 	'tooltip-n-sitesupport' => 'Ënnerstëtzt eis',
 	'specialpages-group-contribution' => 'Donen/Quêteur',
 	'nstab-creator' => 'Createur',
@@ -8611,13 +8611,6 @@ Vedeți [http://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare]
 Dacă nu l-ați scris dumneavoastră, acesta trebuie să fie disponibil în concordanță cu [http://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare], și sunteți de acord să urmați orice altă cerință de licențiere.',
 );
 
-/** Aromanian (Armãneashce)
- * @author Hakka
- */
-$messages['rup'] = array(
-	'sitesupport' => 'Donatsiur',
-);
-
 /** Tarandíne (Tarandíne)
  * @author Joetaras
  * @author Reder
@@ -8949,6 +8942,13 @@ $messages['rue'] = array(
 	'wikimedia-copyright' => 'Текст є доступный під <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых подмінок. Детайлы найдете на сторінцї <a href="http://wikimediafoundation.org/wiki/Подмінкы_схоснованя">Подмінкы схоснованя</a>.',
 	'wikimedia-copyrightwarning' => 'Уложінём ваш приспевок неодволательно увольнюєте під ліценціями [http://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Заховайте ліценцію&nbsp;3.0] і&nbsp;[http://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[http://wikimediafoundation.org/wiki/Подмінкы_хоснованя подмінках хоснованя].',
 	'wikimedia-editpage-tos-summary' => 'Кідь собі не желате, жебы ваш приспевок быв немилосердно управляный і&nbsp;вольно шыреный, пак го ту не укладайте. Покы не сьте автором тексту, мусить быти доступный за подмінок злучітельных з&nbsp;нашыма [http://wikimediafoundation.org/wiki/Подмнікы_хоснованя подмінками хоснованя] і&nbsp;вы сугласите із вшыткыма прислушныма ліценчныма пожадавками.',
+);
+
+/** Aromanian (Armãneashce)
+ * @author Hakka
+ */
+$messages['rup'] = array(
+	'sitesupport' => 'Donatsiur',
 );
 
 /** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
