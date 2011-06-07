@@ -587,6 +587,7 @@ $messages['ang'] = array(
 );
 
 /** Arabic (العربية)
+ * @author Aiman titi
  * @author Ciphers
  * @author Meno25
  * @author OsamaK
@@ -599,7 +600,9 @@ $messages['ar'] = array(
 	'tooltip-n-sitesupport' => 'ادعمنا',
 	'specialpages-group-contribution' => 'المساهمات/جمع التبرعات',
 	'nstab-creator' => 'المنشئ',
+	'nstab-institution' => 'مؤسسة',
 	'nstab-sequence' => 'تتابع',
+	'nstab-timedtext' => 'توقيت النص',
 	'group-abusefilter' => 'معدلو مرشحات الإساءة',
 	'group-accountcreator' => 'منشئو الحسابات',
 	'group-arbcom' => 'أعضاء لجنة التحكيم',
@@ -608,6 +611,7 @@ $messages['ar'] = array(
 	'group-bigexport' => 'مصدرون كبار',
 	'group-confirmed' => 'مستخدمون مؤكدون',
 	'group-editprotected' => 'معدلو الصفحات المحمية',
+	'group-eliminator' => 'المحررون',
 	'group-filemover' => 'ناقلو الملف',
 	'group-flood' => 'مستخدمو البوت',
 	'group-founder' => 'مؤسسون',
@@ -629,6 +633,7 @@ $messages['ar'] = array(
 	'group-bigexport-member' => 'مصدر كبير',
 	'group-confirmed-member' => 'مستخدم مؤكد',
 	'group-editprotected-member' => 'معدل الصفحات المحمية',
+	'group-eliminator-member' => 'محرر',
 	'group-filemover-member' => 'ناقل ملفات',
 	'group-flood-member' => 'مستخدمو البوت',
 	'group-founder-member' => 'مؤسس',
@@ -650,6 +655,7 @@ $messages['ar'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:مصدرون كبار',
 	'grouppage-confirmed' => '{{ns:project}}:مستخدمون مؤكدون',
 	'grouppage-editprotected' => '{{ns:project}}:معدلو الصفحات المحمية',
+	'grouppage-eliminator' => '{{ns:project}}:محرر',
 	'grouppage-filemover' => '{{ns:project}}:ناقلو الملفات',
 	'grouppage-flood' => '{{ns:project}}:مستخدمو البوت',
 	'grouppage-founder' => '{{ns:project}}:مؤسسون',
