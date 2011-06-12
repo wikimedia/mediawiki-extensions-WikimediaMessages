@@ -1307,7 +1307,7 @@ il',
 	'wm-license-cc-conditions-share_alike-header' => 'bənzər paylaşma',
 	'wm-license-cecill-wiki-link' => 'w:en:CeCILL',
 	'wm-license-creator-alternative-names' => 'Alternativ adlar',
-	'wm-license-creator-description' => 'Açıqlama',
+	'wm-license-creator-description' => 'İzah',
 	'wm-license-creator-date-of-birth' => 'Təvəllüdü',
 	'wm-license-creator-date-of-birth-and-death' => 'Doğum/ölüm tarixi',
 	'wm-license-creator-location-of-birth' => 'Doğum yeri',
@@ -1317,7 +1317,7 @@ il',
 	'wm-license-fal-wiki-link' => 'w:en:Free Art license',
 	'wm-license-free-software-wiki-link' => 'w:az:Azad proqram təminatı',
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;yalnız',
-	'wm-license-information-description' => 'Açıqlama',
+	'wm-license-information-description' => 'İzah',
 	'wm-license-information-source' => 'Mənbə',
 	'wm-license-information-date' => 'Tarix',
 	'wm-license-information-author' => 'Müəllif',
@@ -14810,6 +14810,7 @@ $messages['roa-tara'] = array(
  * @author Rubin
  * @author TarzanASG
  * @author Александр Сигачёв
+ * @author Тест
  */
 $messages['ru'] = array(
 	'wikimedialicensetexts-desc' => 'Лицензионные сообщения Викимедиа',
@@ -15030,7 +15031,7 @@ $messages['ru'] = array(
 	'wm-license-gfdl-1.3-and-later' => "Разрешается копировать, распространять и/или изменять этот документ в соответствии с условиями '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' версии 1.3 или более поздней, опубликованной [[{{int:wm-license-fsf-wiki-link}}|Фондом свободного программного обеспечения]], без неизменяемых разделов, без текстов, помещаемых на первой и последней обложке. Копия лицензии включена в раздел, озаглавленный ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Разрешается копировать, распространять и/или изменять этот документ в соответствии с условиями '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' версии 1.3 (только этой версии), опубликованной [[{{int:wm-license-fsf-wiki-link}}|Фондом свободного программного обеспечения]], без неизменяемых разделов, без текстов, помещаемых на первой и последней обложке. Копия лицензии включена в раздел, озаглавленный ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:ru:GNU FDL',
-	'wm-license-gpl-text' => "Это произведение является [[{{int:wm-license-free-software-wiki-link}}|свободным программным обеспечение]]; вы можете распространять и/или изменять его в соответствии с условиями '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''', опубликованной [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], версии 2 или более поздней.  Данное произведение распространяется в надежде на то, что оно будет полезным, но '''без какой-либо гарантии'''; в том числе, без подразумеваемых гарантий '''товарной пригодности''' или '''пригодности для конкретных целей'''. Подробнее см. [{{int:wm-license-gpl-2-full-link}} версию 2] и [{{int:wm-license-gpl-3-full-link}} версию 3 условий GNU General Public License].",
+	'wm-license-gpl-text' => "Это произведение является [[{{int:wm-license-free-software-wiki-link}}|свободным программным обеспечением]]; вы можете распространять и/или изменять его в соответствии с условиями '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''', опубликованной [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], версии 2 или более поздней.  Данное произведение распространяется в надежде на то, что оно будет полезным, но '''без какой-либо гарантии'''; в том числе, без подразумеваемых гарантий '''товарной пригодности''' или '''пригодности для конкретных целей'''. Подробнее см. [{{int:wm-license-gpl-2-full-link}} версию 2] и [{{int:wm-license-gpl-3-full-link}} версию 3 условий GNU General Public License].",
 	'wm-license-gpl-wiki-link' => 'w:ru:GNU General Public License',
 	'wm-license-information-table-summary' => 'Стандартизированная таблица, содержащая полную информацию о файле, включая описание того, что изображено, каким образом было создано, сведения об авторских правах и источнике.',
 	'wm-license-information-description' => 'Описание',
