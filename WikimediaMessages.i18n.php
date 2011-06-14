@@ -6088,7 +6088,7 @@ $messages['ku-latn'] = array(
  */
 $messages['kw'] = array(
 	'sitesupport' => 'Riansow',
-	'wikimedia-copyright' => 'Cavadow yw an text yn-dann an <a href="http://creativecommons.org/licenses/by-sa/3.0/">Cummyas Creative Commons Attribution/Share-Alike</a>; termynyow keworransel a alja bos omvyskys. Gwelewgh <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
+	'wikimedia-copyright' => 'Kavadow yw an tekst en-dadn an <a href="http://creativecommons.org/licenses/by-sa/3.0/">Kubmyas Creative Commons Attribution/Share-Alike</a>; termynyow keworransel a alja bos omvyskys. Gwelowgh <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow a Dhevnydh</a> rag manylyon.',
 );
 
 /** Kirghiz (Кыргызча) */
