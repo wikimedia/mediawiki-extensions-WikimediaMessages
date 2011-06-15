@@ -10581,9 +10581,14 @@ $messages['ku-latn'] = array(
 	'wm-license-information-source' => 'Çavkanî',
 );
 
-/** Cornish (Kernowek) */
+/** Cornish (Kernowek)
+ * @author Kw-Moon
+ */
 $messages['kw'] = array(
 	'wm-license-information-source' => 'Pennfenten',
+	'wm-license-information-author' => 'Awtour',
+	'wm-license-information-permission' => 'Kubmyas',
+	'wm-license-information-permission-reusing-text' => 'Dasusya an restren-ma',
 );
 
 /** Latin (Latina)
