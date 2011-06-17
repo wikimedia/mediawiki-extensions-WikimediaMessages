@@ -4370,7 +4370,7 @@ $messages['he'] = array(
 	'group-interface_editors' => 'עורכי ממשק',
 	'group-ipblock-exempt' => 'חסיני חסימות IP',
 	'group-OTRS-member' => 'חברי OTRS',
-	'group-patroller' => 'מנטרי עריכות',
+	'group-patroller' => 'מנטרים',
 	'group-researcher' => 'עורכי מחקרים',
 	'group-rollbacker' => 'משחזרים',
 	'group-transwiki' => 'מייבאים בין־אתריים',
@@ -4379,7 +4379,7 @@ $messages['he'] = array(
 	'group-accountcreator-member' => 'יוצר חשבונות',
 	'group-arbcom-member' => 'חבר ועדת הבוררות',
 	'group-autopatrolled-member' => 'בדוק עריכות אוטומטית',
-	'group-autoreviewer-member' => 'בוחן עריכות אוטומטית',
+	'group-autoreviewer-member' => 'סוקר עריכות אוטומטית',
 	'group-bigexport-member' => 'מבצע ייצוא גדול',
 	'group-confirmed-member' => 'משתמש מאומת',
 	'group-editprotected-member' => 'עורך דפים מוגנים',
@@ -4392,7 +4392,7 @@ $messages['he'] = array(
 	'group-interface_editors-member' => 'עורך ממשק',
 	'group-ipblock-exempt-member' => 'חסין חסימות IP',
 	'group-OTRS-member-member' => 'חבר OTRS',
-	'group-patroller-member' => 'מנטר עריכות',
+	'group-patroller-member' => 'מנטר',
 	'group-researcher-member' => 'עורך מחקר',
 	'group-rollbacker-member' => 'משחזר',
 	'group-transwiki-member' => 'מייבא בין־אתרי',
@@ -6088,7 +6088,11 @@ $messages['ku-latn'] = array(
  */
 $messages['kw'] = array(
 	'sitesupport' => 'Riansow',
-	'wikimedia-copyright' => 'Kavadow yw an tekst en-dadn an <a href="http://creativecommons.org/licenses/by-sa/3.0/">Kubmyas Creative Commons Attribution/Share-Alike</a>; termynyow keworransel a alja bos omvyskys. Gwelowgh <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow a Dhevnydh</a> rag manylyon.',
+	'tooltip-n-sitesupport' => 'Gwrewgh agan skoodhya',
+	'group-sysadmin' => 'Menystroryon an system',
+	'wikimedia-copyright' => 'Kavadow yw an tekst en-dadn <a href="http://creativecommons.org/licenses/by-sa/3.0/">Kubmyas Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alja bos omvyskys. Gwelowgh an <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
+	'wikimedia-editpage-tos-summary' => "Mar nag yw da genowgh agas ober dhe vos chanjya ha dasdyllys dre vodh, na wrewgh y witha obma.
+Mar nag yw hebma skrifys genowgh hwi agas honen, res yw dhodho bos en-dadn termynyow kebmys ha'n [http://wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha hwi a wra akordya dhe sewya neb gorholethow lecyansa longus.",
 );
 
 /** Kirghiz (Кыргызча) */
@@ -11456,7 +11460,7 @@ $messages['vi'] = array(
 	'group-eliminator' => 'Người xóa trang',
 	'group-filemover' => 'Người đổi tên tập tin',
 	'group-flood' => 'Người dùng bot',
-	'group-founder' => 'Nhà sáng lập',
+	'group-founder' => 'Sáng lập viên',
 	'group-Image-reviewer' => 'Người duyệt hình',
 	'group-import' => 'Người nhập trang',
 	'group-interface_editors' => 'Người sửa giao diện',
