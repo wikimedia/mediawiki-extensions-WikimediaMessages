@@ -7207,9 +7207,12 @@ $messages['na'] = array(
  * @author Teòtlalili
  */
 $messages['nah'] = array(
+	'wikimediamessages-desc' => 'San Wikimedia ìtlanawatiliswàn',
 	'sitesupport' => 'Tēyocatiliztli',
 	'tooltip-n-sitesupport' => 'Xitèchmopalèwilìkàn',
-	'group-founder-member' => 'Chīhualōni',
+	'group-patroller' => 'Tlapîpiànimë',
+	'group-filemover-member' => 'Tlaèwalîkuaniàni',
+	'group-founder-member' => 'Tlatzìntiàni',
 	'grouppage-eliminator' => '{{ns:project}}:Tlaìxpôpolowàni',
 	'grouppage-filemover' => '{{ns:project}}:Tlaèwalîkuàniàni',
 	'grouppage-flood' => '{{ns:project}}:Tlatepostekitkàuhtekìuhtiànimë',
