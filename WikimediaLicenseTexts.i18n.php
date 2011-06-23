@@ -12763,6 +12763,7 @@ $messages['nn'] = array(
  * @author Diebuche
  * @author Finnrind
  * @author Jon Harald Søby
+ * @author Kjetil r
  * @author Laaknor
  * @author Multichill
  * @author Nghtwlkr
@@ -12960,7 +12961,7 @@ $messages['no'] = array(
 	'wm-license-cc-free-to-remix-text' => 'til å endre verket',
 	'wm-license-cc-conditions' => 'Under de følgende betingelsene:',
 	'wm-license-cc-conditions-attribution-header' => 'navngivelse',
-	'wm-license-cc-conditions-attribution-text' => 'Du må kreditere verket på den måte som er spesifisert av forfatteren eller lisensgiveren (men ikke på en måte som antyder at de påtegnet deg eller din bruk av verket).',
+	'wm-license-cc-conditions-attribution-text' => 'Du skal navngi opphavspersonen og/eller lisensgiveren på den måte som disse angir (men ikke på en måte som indikerer at disse har godkjent eller anbefaler deg eller din bruk av verket).',
 	'wm-license-cc-conditions-share_alike-header' => 'del på samme vilkår',
 	'wm-license-cc-conditions-share_alike-text' => 'Dersom du endrer, bearbeider eller bygger på dette verket, kan du kun distribuere resultatet under den samme eller en lignende lisens som denne.',
 	'wm-license-cc-pd-mark-text' => 'Denne filen har blitt identifisert til å være fri for kjente restriksjoner under lov om opphavsrett, inkludert alle relaterte og nærstående rettigheter.',
