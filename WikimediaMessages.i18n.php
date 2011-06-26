@@ -1278,6 +1278,7 @@ $messages['bg'] = array(
 	'group-import' => 'Вносители',
 	'group-interface_editors' => 'Редактори на интерфейса',
 	'group-ipblock-exempt' => 'Изключения от блокирането по IP адрес',
+	'group-OTRS-member' => 'OTRS членове',
 	'group-patroller' => 'Патрульори',
 	'group-researcher' => 'Изследователи',
 	'group-rollbacker' => 'Изпълнителни на отмени',
