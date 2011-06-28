@@ -5212,10 +5212,11 @@ $messages['ilo'] = array(
 );
 
 /** Ingush (ГІалгІай Ğalğaj)
+ * @author Amire80
  * @author Tagir
  */
 $messages['inh'] = array(
-	'sitesupport' => 'СагIа',
+	'sitesupport' => 'СагӀа',
 );
 
 /** Ido (Ido)
