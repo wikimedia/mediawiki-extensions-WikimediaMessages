@@ -6093,7 +6093,7 @@ $messages['kw'] = array(
 	'tooltip-n-sitesupport' => 'Gwrewgh agan scoodhya',
 	'group-sysadmin' => 'Menystroryon an system',
 	'wikimedia-copyright' => 'Cavadow ew an text en-dadn <a href="http://creativecommons.org/licenses/by-sa/3.0/">Cubmyas Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alja bos omvyskys. Gwelowgh an <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
-	'wikimedia-editpage-tos-summary' => "Mar nag ew da genowgh agas ober dhe vos chanjya ha dasdyllys dre vodh, na wrewgh y witha obma.
+	'wikimedia-editpage-tos-summary' => "Mar nag ew da genowgh agas ober dhe vos chanjys ha dasdyllys dre vodh, na wrewgh y witha obma.
 Mar nag ew hebma scrifys genowgh whi agas honen, res ew dhodho bos en-dadn termynyow kebmys ha'n [http://wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha whi a wra acordya dhe sewya neb gorholethow lecyansa longus.",
 );
 

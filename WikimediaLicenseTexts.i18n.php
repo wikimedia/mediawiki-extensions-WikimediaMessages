@@ -3948,7 +3948,7 @@ $messages['da'] = array(
 	'wm-license-information-description-missing' => "Denne fil har ingen '''beskrivelse''' og kan mangle andre oplysninger.",
 	'wm-license-information-description-missing-request' => 'Giv venligst en meningsfyldt beskrivelse af denne fil.',
 	'wm-license-information-source' => 'Kilde',
-	'wm-license-information-source-missing' => "Denne fil mangler information om dets '''kilder'''.",
+	'wm-license-information-source-missing' => "Denne fil mangler information om dens '''kilder'''.",
 	'wm-license-information-source-missing-request' => 'Rediger denne fils beskrivelse og angiv en kilde.',
 	'wm-license-information-date' => 'Dato',
 	'wm-license-information-author' => 'Rettighedshaver',
@@ -13917,7 +13917,7 @@ $messages['pt'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'partilha nos termos da mesma licença',
 	'wm-license-cc-conditions-share_alike-text' => 'Se alterar, transformar ou ampliar esta obra, só pode distribuir a obra resultante licenciando-a com a mesma licença ou com uma licença semelhante a esta.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.pt',
-	'wm-license-cc-pd-mark-text' => 'Este ficheiro foi identificado como isento de restrições conhecidas devidas a direitos de autor, incluindo todos os direitos conexos.',
+	'wm-license-cc-pd-mark-text' => 'Este ficheiro foi considerado livre de restrições conhecidas devidas a direitos de autor, incluindo todos os direitos conexos.',
 	'wm-license-cecill-text' => 'Esta obra é [[{{int:wm-license-free-software-wiki-link}}|software livre]]; pode redistribui-la ou modificá-la nos termos da licença [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Os termos da licença CeCILL estão disponíveis em [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Nomes alternativos',
 	'wm-license-creator-description' => 'Descrição',
@@ -19659,6 +19659,7 @@ $messages['zh-classical'] = array(
 );
 
 /** Simplified Chinese (‪中文(简体)‬)
+ * @author Bencmq
  * @author Hydra
  * @author Multichill
  * @author Mys 721tx
@@ -19899,7 +19900,7 @@ $messages['zh-hans'] = array(
 	'wm-license-pd-author-self-text' => "我，本作品著作权持有人，在'''[[{{int:wm-license-pd-wiki-link}}|公共领域]]'''向全世界发表本作品。",
 	'wm-license-pd-author-with-author-text' => "本作品已由其作者'''$1'''在'''[[{{int:wm-license-pd-wiki-link}}|公共领域]]'''向全世界发表。",
 	'wm-license-pd-author-not-legally-possible' => '在某些国家这可能不合法。如果这样：',
-	'wm-license-pd-author-self-any-purpose' => "授予任何人有权使用这项工作'''为任何目的'''，不受任何的条件除非该等条件所需的法律。",
+	'wm-license-pd-author-self-any-purpose' => "授予任何人有权'''为任何目的'''使用这项作品，不受任何的条件限制，除非该等条件是法律所规定必须的。",
 	'wm-license-pd-author-with-author-any-purpose' => "$1授予任何人有权使用这项工作 '''为任何目的'''，不受任何的条件除非该等条件所需的法律。",
 	'wm-license-self-one-license' => '我，本作品著作权持有人，自此以下列授权协议发表本作品：',
 	'wm-license-self-one-license-with-author' => '$1，本作品著作权持有人，自此以下列授权协议发表本作品：',
