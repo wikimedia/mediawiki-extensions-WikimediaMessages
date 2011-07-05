@@ -13971,7 +13971,7 @@ $messages['pt'] = array(
 	'wm-license-self-one-license-with-author' => '$1, titular dos direitos de autor desta obra, publica-a com a seguinte licença:',
 	'wm-license-self-multiple-licenses' => 'Eu, titular dos direitos de autor desta obra, publico-a com as seguintes licenças:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, titular dos direitos de autor desta obra, publica-a com as seguintes licenças:',
-	'wm-license-self-multiple-licenses-select' => 'Pode escolher a licença que prefere.',
+	'wm-license-self-multiple-licenses-select' => 'Pode escolher a licença que quiser.',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
