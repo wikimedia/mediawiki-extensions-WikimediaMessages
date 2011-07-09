@@ -2195,6 +2195,8 @@ $messages['da'] = array(
 	'sitesupport' => 'Donationer',
 	'tooltip-n-sitesupport' => 'Støt os',
 	'specialpages-group-contribution' => 'Bidrag/Indsamling',
+	'nstab-creator' => 'Ophavsmand',
+	'nstab-institution' => 'Institution',
 	'group-abusefilter' => 'Operatører af misbrugsfilteret',
 	'group-accountcreator' => 'Kontooprettere',
 	'group-autopatrolled' => 'Autopatruljerede',
@@ -11990,9 +11992,7 @@ $messages['zh-hans'] = array(
 	'group-inactive-member' => '不活跃用户',
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
 	'shared-repo-name-shared' => '维基共享资源',
-	'wikimedia-copyright' => '本网站全部文字内容采用<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享署名-相同方式共享许可协议</a>授权，
-附加条款可能应用。
-详情请见<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
+	'wikimedia-copyright' => '本网站全部文字内容采用<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
 	'wikimedia-copyrightwarning' => '一旦保存，就表示你同意采用[http://creativecommons.org/licenses/by-sa/3.0/ 知识共享署名-相同方式共享 3.0许可协议]和[http://www.gnu.org/copyleft/fdl.html GFDL]不可逆地发表你的贡献。
 你同意再使用者至少以超链接或URL的形式将你贡献的页面记入名下。
 详情请见[http://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]。',
