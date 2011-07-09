@@ -20,6 +20,7 @@ $messages['en'] = array(
 	'wm-license-artwork-object-history' => 'Object history',
 	'wm-license-artwork-credit-line' => 'Credit line',
 	'wm-license-artwork-references' => 'References',
+	'wm-license-artwork-inscriptions' => 'Inscriptions',
 	'wm-license-artwork-notes' => 'Notes',
 	'wm-license-artwork-id' => 'Accession number',
 	'wm-license-artwork-source' => 'Source/Photographer',
