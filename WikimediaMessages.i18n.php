@@ -2116,6 +2116,7 @@ $messages['cy'] = array(
 	'group-import' => 'Mewnforwyr',
 	'group-interface_editors' => 'Golygyddion y rhyngwyneb',
 	'group-ipblock-exempt' => 'Wedi eithrio rhag bod eu cyfeiriadau IP yn cael eu blocio',
+	'group-OTRS-member' => 'Aelodau o OTRS',
 	'group-patroller' => 'Patrolwyr',
 	'group-researcher' => 'Ymchwilwyr',
 	'group-transwiki' => 'Mewnforwyr trawswici',
@@ -2134,6 +2135,7 @@ $messages['cy'] = array(
 	'group-import-member' => 'mewnforwr',
 	'group-interface_editors-member' => 'golygydd y rhyngwyneb',
 	'group-ipblock-exempt-member' => 'Wedi eithrio rhag bod ei gyfeiriad IP yn cael ei flocio',
+	'group-OTRS-member-member' => 'Aelod o OTRS',
 	'group-patroller-member' => 'patrolwr',
 	'group-researcher-member' => 'ymchwilydd',
 	'group-rollbacker-member' => 'Gwrthdroiwr',
@@ -5256,6 +5258,7 @@ $messages['is'] = array(
 /** Italian (Italiano)
  * @author Annayram
  * @author Aushulz
+ * @author Beta16
  * @author Blaisorblade
  * @author BrokenArrow
  * @author Brownout
@@ -5277,6 +5280,7 @@ $messages['it'] = array(
 	'specialpages-group-contribution' => 'Donazioni/Raccolta fondi',
 	'group-abusefilter' => 'Gestori filtri anti abusi',
 	'group-accountcreator' => 'Creatori di account',
+	'group-arbcom' => 'Membro del comitato di arbritato',
 	'group-autopatrolled' => 'Autopatrollatori',
 	'group-autoreviewer' => 'Autorevisori',
 	'group-bigexport' => 'Esportatori in blocco',
@@ -7403,7 +7407,7 @@ $messages['nl'] = array(
 	'group-interface_editors' => 'interfacebewerkers',
 	'group-ipblock-exempt' => 'uitgezonderden van IP-adresblokkades',
 	'group-OTRS-member' => 'OTRS-leden',
-	'group-patroller' => 'Controleurs',
+	'group-patroller' => 'controleurs',
 	'group-researcher' => 'onderzoekers',
 	'group-rollbacker' => 'terugdraaiers',
 	'group-transwiki' => 'transwiki-importeurs',
@@ -7425,7 +7429,7 @@ $messages['nl'] = array(
 	'group-interface_editors-member' => 'interfacebewerker',
 	'group-ipblock-exempt-member' => 'uitgezonderde van IP-adresblokkades',
 	'group-OTRS-member-member' => 'OTRS-lid',
-	'group-patroller-member' => 'Controleur',
+	'group-patroller-member' => 'controleur',
 	'group-researcher-member' => 'onderzoeker',
 	'group-rollbacker-member' => 'terugdraaier',
 	'group-transwiki-member' => 'transwiki-importeur',
