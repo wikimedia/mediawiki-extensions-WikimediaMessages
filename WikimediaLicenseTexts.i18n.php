@@ -17923,31 +17923,34 @@ $messages['sr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
- * @author Rancher
- * @author Михајло Анђелковић
- */
-$messages['sr-ec'] = array(
-	'wikimedialicensetexts-desc' => 'Викимедијине поруке за лиценце',
-	'wm-license-cc-free' => 'Слободни сте:',
-	'wm-license-cc-free-to-share-header' => 'да распрострањујете',
-	'wm-license-cc-free-to-remix-text' => 'да прилагођавате рад',
-	'wm-license-cc-conditions' => 'Под следећим условима:',
-	'wm-license-information-description' => 'Опис',
-	'wm-license-information-source' => 'Извор',
-	'wm-license-information-source-missing' => "Овом фајли недостаје информација о '''извору'''.",
-	'wm-license-information-date' => 'Датум',
-	'wm-license-information-author' => 'Аутор',
-	'wm-license-information-author-missing' => "Овом фајлу фали информација о '''аутору'''.",
-	'wm-license-information-permission' => 'Дозвола',
-	'wm-license-information-permission-reusing-text' => 'Поновно коришћење овог фајла',
-	'wm-license-information-permission-see-below' => 'Види испод.',
-	'wm-license-information-other-versions' => 'Друге верзије',
-	'wm-license-own-work' => 'Сопствено дело',
-);
-
 /** Serbian Latin ekavian (‪Srpski (latinica)‬) */
 $messages['sr-el'] = array(
+	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
+	'wm-license-creator-alternative-names' => 'Псеудоними',
+	'wm-license-creator-description' => 'Опис',
+	'wm-license-creator-date-of-birth-and-death' => 'Датум рођења/смрти',
+	'wm-license-creator-location-of-birth-and-death' => 'Место рођења/смрти',
+	'wm-license-creator-work-period' => 'Време рада',
+	'wm-license-creator-work-location' => 'Место рада',
+	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
+	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
+	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.",
+	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
+	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
+	'wm-license-information-description' => 'Опис',
+	'wm-license-information-source' => 'Извор',
+	'wm-license-information-date' => 'Датум',
+	'wm-license-information-author' => 'Аутор',
+	'wm-license-information-permission' => 'Дозвола',
+	'wm-license-information-permission-see-below' => 'Види доле.',
+	'wm-license-information-other-versions' => 'Остале верзије',
+	'wm-license-own-work' => 'Сопствено дело',
+	'wm-license-pd-wiki-link' => 'w:sr:Јавно власништво',
+	'wm-license-self-one-license' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:',
+	'wm-license-self-one-license-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:',
+	'wm-license-self-multiple-licenses' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећим лиценцама:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећим лиценцама:',
+	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
 	'wm-license-cc-free' => 'Slobodni ste:',
 	'wm-license-cc-free-to-share-header' => 'da rasprostranjujete',
