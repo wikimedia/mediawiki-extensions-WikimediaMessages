@@ -37,7 +37,7 @@ function wfSetupWikimediaMessages() {
 }
 
 function efWikimediaEditPageCopyrightWarning( $title, &$msg ) {
-	$msg = 'wikimedia-copyrightwarning';
+	$msg = array( 'wikimedia-copyrightwarning' );
 	return true;
 }
 
