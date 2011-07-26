@@ -13295,39 +13295,39 @@ $messages['nds'] = array(
  * @author Servien
  */
 $messages['nds-nl'] = array(
-	'wikimedialicensetexts-desc' => 'Wikimedia-licentieberichen',
+	'wikimedialicensetexts-desc' => 'Wikimedia-lisensieberichten',
 	'wm-license-cc-wiki-link' => 'w:nds-nl:Creative Commons',
 	'wm-license-cc-attribution' => 'Naamvermelding',
-	'wm-license-cc-by-1.0-text' => 'Dit bestaand steet onder de licentie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.nl Naamvermelding 1.0 laand onbekend]',
-	'wm-license-cc-by-1.0-fi-text' => 'Dit bestaand steet onder de licentie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.nl Naamvermelding 1.0 Finlaand]',
-	'wm-license-cc-by-1.0-nl-text' => 'Dit bestaand steet onder de licentie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.nl Naamvermelding 1.0 Nederlaand]',
-	'wm-license-gfdl-wiki-link' => "w:nds-nl:GNU-licentie veur vri'je dokementäsie",
+	'wm-license-cc-by-1.0-text' => 'Dit bestaand steet onder de lisensie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/deed.nl Naamvermelding 1.0 laand onbekend]',
+	'wm-license-cc-by-1.0-fi-text' => 'Dit bestaand steet onder de lisensie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/fi/deed.nl Naamvermelding 1.0 Finlaand]',
+	'wm-license-cc-by-1.0-nl-text' => 'Dit bestaand steet onder de lisensie [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/1.0/nl/deed.nl Naamvermelding 1.0 Nederlaand]',
+	'wm-license-gfdl-wiki-link' => "w:nds-nl:GNU-lisensie veur vri'je dokementäsie",
 	'wm-license-information-description' => 'Beschrieving',
-	'wm-license-information-description-missing' => "Dit bestaand hef gien '''beschrieving''' en meschien steet der oek nog aandere infermasie neet bie.",
-	'wm-license-information-description-missing-request' => 'Geef een dudelijke beschrieving van dit bestaand.',
+	'wm-license-information-description-missing' => "Dit bestaand hef gien '''beschrieving''' en misschien steet der oek nog aandere informasie niet bie.",
+	'wm-license-information-description-missing-request' => 'Geef een dudelike beschrieving van dit bestaand.',
 	'wm-license-information-source' => 'Bron',
-	'wm-license-information-source-missing' => "Dit bestaand geef gien infermasie over de '''bron'''.",
-	'wm-license-information-source-missing-request' => 'Pas de bestaansbeschrieving an en zet de bron derbie.',
+	'wm-license-information-source-missing' => "Dit bestaand geef gien informasie over de '''bron'''.",
+	'wm-license-information-source-missing-request' => 'Pas de bestaandsbeschrieving an en zet de bron derbie.',
 	'wm-license-information-date' => 'Daotum',
 	'wm-license-information-author' => 'Auteur',
-	'wm-license-information-author-missing' => "Dit bestaand geef gien infermasie over de '''auteur'''",
+	'wm-license-information-author-missing' => "Dit bestaand geef gien informasie over de '''auteur'''",
 	'wm-license-information-permission' => 'Toestemming',
 	'wm-license-information-permission-reusing-text' => 'Hergebruuk van dit bestaand',
 	'wm-license-information-permission-see-below' => 'Kiek hieronder.',
 	'wm-license-information-other-versions' => 'Aandere versies',
-	'wm-license-lgpl-text' => "Disse biebeltheek is [[{{int:wm-license-free-software-wiki-link}}|vrieje pregremmetuur]];
-je maggen 't heruutgeven en/of anpassen in overeenkoms mit de veurweerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zoas uut-egeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].
-De geldende versie is 2.1 van de licentie, of (naor keuze) een aandere laotere versie.
-Disse biebeltheek wönnen verspreid in de hoop dat 't bruukbaor is, mar '''zonder enige gerantie''';
-zelfs zonder de onuut-espreuken gerantie dat e 't '''goed dut''' of da-j 't '''goed veur een bepaold doel kunnen gebruken'''.
-Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer infermasie.",
-	'wm-license-original-upload-log' => 'Oorspronkelijk bestaanstoevoegingslogboek',
+	'wm-license-lgpl-text' => "Disse biebeltheek is [[{{int:wm-license-free-software-wiki-link}}|vrieje programmatuur]];
+je maggen t heruutgeven en/of anpassen in overeenkomst mit de veurweerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zo as uutegeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].
+De geldende versie is 2.1 van de lisensie, of (naor keuze) een aandere laotere versie.
+Disse biebeltheek wörden verspreid in de hoop dat t bruukbaor is, mer '''zonder enige garansie''';
+zelfs zonder de onuutespreuken garansie dat e t '''goed döt''' of da'j t '''goed veur een bepaold doel kunnen gebruken'''.
+Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer informasie.",
+	'wm-license-original-upload-log' => 'Oorspronkelik logboek mit nieje bestaanden',
 	'wm-license-own-work' => 'Eigen waark',
-	'wm-license-self-one-license' => "Ik, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licentie beschikbaor:",
-	'wm-license-self-one-license-with-author' => "$1, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licentie beschikbaor:",
-	'wm-license-self-multiple-licenses' => "Ik, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licentie beschikbaor:",
-	'wm-license-self-multiple-licenses-with-author' => "$1, de auteursrechhouwer van dit wark, maak 't hierbie onder de volgende licenties beschikbaor:",
-	'wm-license-self-multiple-licenses-select' => 'Je maggen zelf één van de licenties uutkiezen.',
+	'wm-license-self-one-license' => 'Ik, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensie beschikbaor:',
+	'wm-license-self-one-license-with-author' => '$1, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensie beschikbaor:',
+	'wm-license-self-multiple-licenses' => 'Ik, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensie beschikbaor:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensies beschikbaor:',
+	'wm-license-self-multiple-licenses-select' => 'Je maggen zelf één van de lisensies uutkiezen.',
 );
 
 /** Nepali (नेपाली) */
@@ -21123,7 +21123,7 @@ $messages['zh-hans'] = array(
 	'wm-license-licensing-update-text' => '本授权标签已作为GFDL[[{{int:wm-license-licensing-update-wiki-link}}|授权更新]]部分添加至本文件。',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/zh-hans',
 	'wm-license-original-upload-log' => '原始上传日志',
-	'wm-license-own-work' => '自有作品',
+	'wm-license-own-work' => '自己的作品',
 	'wm-license-pd-author-self-text' => "我，本作品著作权持有人，在'''[[{{int:wm-license-pd-wiki-link}}|公共领域]]'''向全世界发表本作品。",
 	'wm-license-pd-author-with-author-text' => "本作品已由其作者'''$1'''在'''[[{{int:wm-license-pd-wiki-link}}|公共领域]]'''向全世界发表。",
 	'wm-license-pd-author-not-legally-possible' => '在某些国家这可能不合法。如果这样：',
