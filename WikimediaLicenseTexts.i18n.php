@@ -11181,6 +11181,7 @@ $messages['lb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia Lizenz Messagen',
 	'wm-license-artwork-artist' => 'Kënschtler',
 	'wm-license-artwork-title' => 'Titel',
+	'wm-license-artwork-medium' => 'Material/Technik',
 	'wm-license-artwork-dimensions' => 'Dimensiounen',
 	'wm-license-artwork-references' => 'Referenzen',
 	'wm-license-artwork-inscriptions' => 'Opschrëften',
