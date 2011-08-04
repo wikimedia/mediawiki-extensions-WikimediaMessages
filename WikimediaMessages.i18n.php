@@ -4600,6 +4600,7 @@ Kung indi kag nagsulat sini sa imo kaugalingon, kilanlan nga para ina sa tanan n
  * @author Dalibor Bosits
  * @author Ex13
  * @author Excaliboor
+ * @author Roberta F.
  * @author SpeedyGonsales
  */
 $messages['hr'] = array(
@@ -4701,7 +4702,7 @@ $messages['hr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni suradnici',
 	'wikimedia-copyright' => 'Tekst je dostupan pod licencijom <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Imenovanje/Dijeli pod istim uvjetima</a>; dodatni uvjeti se mogu primjenjivati. Pogledajte <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Uvjete korištenja</a> za detalje.',
 	'wikimedia-copyrightwarning' => 'Pritiskom na "sačuvaj stranicu", neopozivo ste suglasni da svoje doprinose dajte pod uvjetima iz licencije [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [http://www.gnu.org/copyleft/fdl.html GFDL]. Slažete se da ćete biti naznačeni kao autor od strane korisnika najmanje preko poveznice ili URL-a na stranicu na kojoj ste doprinosili. Pogledajte [http://wikimediafoundation.org/wiki/Terms_of_Use Uvjete korištenja] za detalje.',
-	'wikimedia-editpage-tos-summary' => 'Ukoliko ne želite da se vaš tekst nemilosrdno uređuje i slobodno raspačava, nemojte ga slati ovamo. Ako ovo niste sami napisali, tada ovaj tekst mora biti dostupan pod uvjetima koji su u skladu s [http://wikimediafoundation.org/wiki/Terms_of_Use Uvjetima korištenja], a vi se suglasni da slijedite sve odgovarajuće uvjete licenciranja.',
+	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se vaš tekst nemilosrdno uređuje i slobodno raspačava, nemojte ga slati ovamo. Ako ovo niste sami napisali, tada ovaj tekst mora biti dostupan pod uvjetima koji su u skladu s [http://wikimediafoundation.org/wiki/Uvjeti_uporabe Uvjetima uporabe], a vi se suglasni da slijedite sve odgovarajuće uvjete licenciranja.',
 );
 
 /** Upper Sorbian (Hornjoserbsce)
@@ -5170,14 +5171,14 @@ $messages['ig'] = array(
 	'sitesupport' => 'Nyeturuanyi ihe',
 	'tooltip-n-sitesupport' => 'Nye anyi ike',
 	'group-confirmed' => "Ézíbóté ọ'bànifé",
-	'group-filemover' => 'Ndi npáfù ákwúkwó orunotu',
+	'group-filemover' => 'Ndi npáfù usòrò',
 	'group-flood' => 'Ndi ne ji bot',
 	'group-founder' => 'Ndi buzọr',
 	'group-import' => 'Ndi na wete ihe',
 	'group-researcher' => 'Ndi-nchékàsí-ọmúmú',
 	'group-rollbacker' => "Ọ'fifie-nà-àzú",
 	'group-confirmed-member' => "ézíbóté ọ'bànifé",
-	'group-filemover-member' => 'onye npáfù ákwúkwó orunotu',
+	'group-filemover-member' => 'onye npáfù usòrò',
 	'group-flood-member' => 'onye na ji bot emé ihe',
 	'group-founder-member' => 'onye buzọr',
 	'group-import-member' => 'onye na wete ihe',
@@ -5185,7 +5186,7 @@ $messages['ig'] = array(
 	'group-researcher-member' => 'onye-nchékàsí-ọmúmú',
 	'group-rollbacker-member' => "ọ'fifie-nà-àzú",
 	'group-trusted-member' => "ọ'bànifé nchèkwube",
-	'grouppage-filemover' => '{{ns:project}}:Ndi mpáfù ákwúkwó orunotu',
+	'grouppage-filemover' => '{{ns:project}}:Ndi mpáfù usòrò',
 	'grouppage-flood' => "{{ns:project}}:Ọ'bànifé bot",
 	'grouppage-founder' => '{{ns:project}}:Ndi mbídó',
 	'grouppage-trusted' => "{{ns:project}}:Ọ'bànifé nchèkwube",
@@ -7376,6 +7377,7 @@ $messages['nds-nl'] = array(
 	'group-Global_rollback-member' => 'globale weerummedreier',
 	'group-Ombudsmen-member' => 'ombudsman',
 	'group-Staff-member' => 'staflid',
+	'grouppage-steward' => '{{ns:project}}:Rechtenbeheerder',
 	'group-coder' => 'programmeurs',
 	'group-coder-member' => 'programmeur',
 	'group-inactive' => 'inaktieve gebrukers',
@@ -7384,10 +7386,10 @@ $messages['nds-nl'] = array(
 	'wikimedia-copyright' => 'De tekste ku\'j naolezen onder de lisensie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>; t kan ween dat nog meer veurweerden van toepassing bin.
 Bekiek de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">algemene veurweerden</a> veur meer informasie.',
 	'wikimedia-copyrightwarning' => "Deur disse bewarking op te slaon, stem je in mit t vriegeven van joew biedrage onder de lisensie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL], dit ku'w niet weerummedreien.
-Je stemmen dermee in deur hergebrukers op z'n mins eneumd te wörden via een verwiezing naor de pagina waor je an biedragen.
+Je stemmen dermee in deur hergebrukers op z'n minst eneumd te wörden via n verwiezing naor de pagina waor je an biedragen.
 Bekiek de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] veur meer informasie.",
 	'wikimedia-editpage-tos-summary' => "A'j niet willen dat joew biedrage bewark of verspreid wörden, slao t dan niet op.
-A'j de tekste niet zelf eschreven hebben, dan möt de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] en stem je in mit alle relevante lisensieveurweerden.",
+A'j de tekste niet zelf eschreven hebben, dan mut de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] en stem je in mit alle relevante lisensieveurweerden.",
 );
 
 /** Nepali (नेपाली) */
@@ -7830,7 +7832,7 @@ $messages['or'] = array(
 	'wikimedia-copyrightwarning' => 'ଏହାକୁ ସାଇତିବା ପରେ ଆପଣ ନିଜ ତିଆରି ଲେଖା/ଅନ୍ୟକିଛିକୁ [http://creativecommons.org/licenses/by-sa/3.0/ କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ୩.୦] ଓ [http://www.gnu.org/copyleft/fdl.html GFDL] ଲାଇସେନ୍ସରେ ବିତରଣ କରିଯାଇପାରିବ ବୋଲି ଅନୁମତି ଦେଲେ ।
 ଆପଣ ମଧ୍ୟ ଏହାକୁ ଆଉଥରେ ବ୍ୟବହାର କରିବାକୁ ରାଜିହେଲେ ଯେଉଁଥିରେ ହୁଏତ ଆପଣଙ୍କ ନାଆଁ ରହି ନପାରେ, କେବଳ URL/ହାଇପରଲିଙ୍କ ରହିପାରେ ।
 ଅଧିକ ଜାଣିବା ପାଇଁ [http://wikimediafoundation.org/wiki/Terms_of_Use ବ୍ୟବହାର ପ୍ରଣାଳୀ] ଦେଖନ୍ତୁ ।',
-	'wikimedia-editpage-tos-summary' => 'ଯଦି ଆପଣ ନିଜ ଲେଖାକୁ ଆଉ କେହି ବଦଳାଇବା ବା ଆଉଥରେ ବାଣ୍ଟିବା ଚାହୁଁନାହାନ୍ତି ତ୍ବେ ଏଠାରେ ତାହା ଲେଖନ୍ତୁ ନାହିଁ ।
+	'wikimedia-editpage-tos-summary' => 'ଯଦି ଆପଣ ନିଜ ଲେଖାକୁ ଆଉ କେହି ବଦଳାଇବା ବା ଆଉଥରେ ବାଣ୍ଟିବା ଚାହୁଁନାହାନ୍ତି ତେବେ ଏଠାରେ ତାହା ଲେଖନ୍ତୁ ନାହିଁ ।
 ଯଦି ଆପଣ ନିଜେ ଏହା ଲେଖି ନାହାନ୍ତି ତେବେ ତେବେ ଏହା ନିହାତି [http://wikimediafoundation.org/wiki/Terms_of_Use ଉଇକିମିଡ଼ିଆର ନିୟମ] ଭିତରେ ଆସିବ, ଆଉ ଆପଣ ସବୁ ଲାଇସେନ୍ସର ଦରକାରୀ ସର୍ତ୍ତକୁ ମଣିବାକୁ ରାଜିହୋଇଛନ୍ତି ।',
 );
 
