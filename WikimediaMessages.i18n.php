@@ -7384,12 +7384,12 @@ $messages['nds-nl'] = array(
 	'group-inactive-member' => 'inaktieve gebruker',
 	'grouppage-inactive' => '{{ns:project}}:Inaktieve gebrukers',
 	'wikimedia-copyright' => 'De tekste ku\'j naolezen onder de lisensie <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>; t kan ween dat nog meer veurweerden van toepassing bin.
-Bekiek de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">algemene veurweerden</a> veur meer informasie.',
+Bekiek de <a href="http://wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
 	'wikimedia-copyrightwarning' => "Deur disse bewarking op te slaon, stem je in mit t vriegeven van joew biedrage onder de lisensie [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [http://www.gnu.org/copyleft/fdl.html GFDL], dit ku'w niet weerummedreien.
 Je stemmen dermee in deur hergebrukers op z'n minst eneumd te wörden via n verwiezing naor de pagina waor je an biedragen.
-Bekiek de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] veur meer informasie.",
+Bekiek de [http://wikimediafoundation.org/wiki/Terms_of_use algemene veurweerden] veur meer informasie.",
 	'wikimedia-editpage-tos-summary' => "A'j niet willen dat joew biedrage bewark of verspreid wörden, slao t dan niet op.
-A'j de tekste niet zelf eschreven hebben, dan mut de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_Use algemene veurweerden] en stem je in mit alle relevante lisensieveurweerden.",
+A'j de tekste niet zelf eschreven hebben, dan mut de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_use algemene veurweerden] en stem je in mit alle relevante lisensieveurweerden.",
 );
 
 /** Nepali (नेपाली) */

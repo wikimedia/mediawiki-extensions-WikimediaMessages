@@ -20909,6 +20909,7 @@ $messages['zh-classical'] = array(
  * @author Hydra
  * @author Multichill
  * @author Mys 721tx
+ * @author PhiLiP
  * @author Shizhao
  * @author Xiaomingyan
  */
@@ -20917,6 +20918,7 @@ $messages['zh-hans'] = array(
 	'wm-license-attribution-with-author-text' => "本文件的著作权持有人$1，允许任何人在正确地'''提供'''著作权持有人署名的前提下'''以任何目的'''使用本文件。你被授权传播本文件、创作演绎作品，将本文件用于商业用途和其它用途。",
 	'wm-license-attribution-without-author-text' => "本文件的著作权持有人，允许任何人在正确地'''提供'''著作权持有人署名的前提下'''以任何目的'''使用本文件。你被授权传播本文件、创作演绎作品，将本文件用于商业用途和其它用途。",
 	'wm-license-artwork-artist' => '美术家',
+	'wm-license-artwork-title' => '标题',
 	'wm-license-artwork-medium' => '艺术手法',
 	'wm-license-artwork-dimensions' => '尺寸',
 	'wm-license-artwork-current-location' => '收藏地点',
@@ -20970,6 +20972,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-2.1-es-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.1/es/deed.zh 署名 2.1 西班牙]许可协议授权。',
 	'wm-license-cc-by-2.1-jp-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.1/jp/deed.zh 署名 2.1 日本]许可协议授权。',
 	'wm-license-cc-by-2.5-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.5/deed.zh 署名 2.5 未本地化版本]许可协议授权。',
+	'wm-license-cc-by-2.5-ar-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.5/hr/deed.zh 署名 2.5 阿根廷]许可协议授权。',
 	'wm-license-cc-by-2.5-au-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.5/au/deed.zh 署名 2.5 澳大利亚]许可协议授权。',
 	'wm-license-cc-by-2.5-bg-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.5/bg/deed.zh 署名 2.5 保加利亚]许可协议授权。',
 	'wm-license-cc-by-2.5-br-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/2.5/br/deed.zh 署名 2.5 巴西]许可协议授权。',
@@ -21001,13 +21004,19 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]署名 [http://creativecommons.org/licenses/by/3.0/deed.zh 3.0 Unported]，[http://creativecommons.org/licenses/by/2.5/deed.zh 2.5 未本地化版本]，[http://creativecommons.org/licenses/by/2.0/deed.zh 2.0 未本地化版本]和[http://creativecommons.org/licenses/by/1.0/deed.zh 1.0 未本地化版本]许可协议授权。',
 	'wm-license-cc-by-3.0-at-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/at/deed.zh 署名 3.0 奥地利]许可协议授权。',
 	'wm-license-cc-by-3.0-au-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/au/deed.zh 署名 3.0 澳大利亚]许可协议授权。',
+	'wm-license-cc-by-3.0-br-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/br/deed.zh 署名 3.0 巴西]许可协议授权。',
+	'wm-license-cc-by-3.0-cl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/th/deed.zh 署名 3.0 智利]许可协议授权。',
+	'wm-license-cc-by-3.0-cr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/pr/deed.zh 署名 3.0 哥斯达黎加]许可协议授权。',
 	'wm-license-cc-by-3.0-cz-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/cz/deed.zh 署名 3.0 捷克共和国]许可协议授权。',
 	'wm-license-cc-by-3.0-de-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/de/deed.zh 署名 3.0 德国]许可协议授权。',
+	'wm-license-cc-by-3.0-ec-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/es/deed.zh 署名 3.0 厄瓜多尔]许可协议授权。',
+	'wm-license-cc-by-3.0-ee-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/at/deed.zh 署名 3.0 爱沙尼亚]许可协议授权。',
 	'wm-license-cc-by-3.0-es-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/es/deed.zh 署名 3.0 西班牙]许可协议授权。',
 	'wm-license-cc-by-3.0-gr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/gr/deed.zh 署名 3.0 希腊]许可协议授权。',
 	'wm-license-cc-by-3.0-gt-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/gt/deed.zh 署名 3.0 Guatemala]许可协议授权。',
 	'wm-license-cc-by-3.0-hr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/hr/deed.zh 署名 3.0 克罗地亚]许可协议授权。',
 	'wm-license-cc-by-3.0-hk-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/hk/deed.zh 署名 3.0 香港]许可协议授权。',
+	'wm-license-cc-by-3.0-it-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/it/deed.zh 署名 3.0 意大利]许可协议授权。',
 	'wm-license-cc-by-3.0-lu-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/lu/deed.zh 署名 3.0 卢森堡]许可协议授权。',
 	'wm-license-cc-by-3.0-nl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/nl/deed.zh 署名 3.0 荷兰]许可协议授权。',
 	'wm-license-cc-by-3.0-no-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by/3.0/no/deed.zh 署名 3.0 挪威]许可协议授权。',
@@ -21081,13 +21090,19 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]署名-相同方式共享  [http://creativecommons.org/licenses/by/3.0/deed.zh 3.0 Unported]，[http://creativecommons.org/licenses/by/2.5/deed.zh 2.5 未本地化版本]，[http://creativecommons.org/licenses/by/2.0/deed.zh 2.0 未本地化版本]和[http://creativecommons.org/licenses/by/1.0/deed.zh 1.0 未本地化版本]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-at-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/at/deed.zh 署名-相同方式共享 3.0 奥地利]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-au-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/au/deed.zh 署名-相同方式共享 3.0 澳大利亚]许可协议授权',
+	'wm-license-cc-by-sa-3.0-br-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/br/deed.zh 署名-相同方式共享 3.0 巴西]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-cl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/th/deed.zh 署名-相同方式共享 3.0 智利]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-cr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/pr/deed.zh 署名-相同方式共享 3.0 哥斯达黎加]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-cz-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/cz/deed.zh 署名-相同方式共享 3.0 捷克共和国]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-de-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/de/deed.zh 署名-相同方式共享 3.0 德国]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-ec-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/es/deed.zh 署名-相同方式共享 3.0 厄瓜多尔]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-ee-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/at/deed.zh 署名-相同方式共享 3.0 爱沙尼亚]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-es-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/es/deed.zh 署名-相同方式共享 3.0 西班牙]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-gr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/gr/deed.zh 署名-相同方式共享 3.0 希腊]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-gt-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/gt/deed.zh 署名-相同方式共享 3.0 Guatemala]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-hk-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/hk/deed.zh 署名-相同方式共享 3.0 香港]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-hr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/hr/deed.zh 署名-相同方式共享 3.0 克罗地亚]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-it-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/it/deed.zh 署名-相同方式共享 3.0 意大利]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-lu-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/lu/deed.zh 署名-相同方式共享 3.0 卢森堡]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-nl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/nl/deed.zh 署名-相同方式共享 3.0 荷兰]许可协议授权。',
 	'wm-license-cc-by-sa-3.0-no-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/no/deed.zh 署名-相同方式共享 3.0 挪威]许可协议授权。',
