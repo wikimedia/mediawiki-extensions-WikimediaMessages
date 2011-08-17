@@ -11212,6 +11212,7 @@ $messages['lb'] = array(
 	'wm-license-artwork-title' => 'Titel',
 	'wm-license-artwork-medium' => 'Material/Technik',
 	'wm-license-artwork-dimensions' => 'Dimensiounen',
+	'wm-license-artwork-current-location' => 'Aktuell Plaz',
 	'wm-license-artwork-references' => 'Referenzen',
 	'wm-license-artwork-inscriptions' => 'Opschrëften',
 	'wm-license-artwork-source' => 'Quell/Fotograf',
