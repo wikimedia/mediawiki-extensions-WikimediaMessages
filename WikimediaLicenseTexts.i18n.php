@@ -14091,7 +14091,7 @@ $messages['oc'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Podètz causir la licéncia que volètz.',
 );
 
-/** Ossetic (Иронау) */
+/** Ossetic (Ирон) */
 $messages['os'] = array(
 	'wm-license-information-date' => 'Датæ',
 );
@@ -15432,6 +15432,7 @@ $messages['ro'] = array(
 	'wm-license-cc-by-2.1-es-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/es/deed.ro Atribuire 2.1 Spania].',
 	'wm-license-cc-by-2.1-jp-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.1/jp/deed.ro Atribuire 2.1 Japonia].',
 	'wm-license-cc-by-2.5-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/deed.ro Atribuire 2.5 Generică].',
+	'wm-license-cc-by-2.5-ar-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/ar/deed.ro Atribuire 2.5 Argentina].',
 	'wm-license-cc-by-2.5-au-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/au/deed.ro Atribuire 2.5 Australia].',
 	'wm-license-cc-by-2.5-bg-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/bg/deed.ro Atribuire 2.5 Bulgaria].',
 	'wm-license-cc-by-2.5-br-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/2.5/br/deed.ro Atribuire 2.5 Brazilia].',
@@ -15463,7 +15464,9 @@ $messages['ro'] = array(
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribuire [http://creativecommons.org/licenses/by/3.0/deed.ro 3.0 Neadaptată], [http://creativecommons.org/licenses/by/2.5/deed.ro 2.5 Generică], [http://creativecommons.org/licenses/by/2.0/deed.ro 2.0 Generică] și [http://creativecommons.org/licenses/by/1.0/deed.ro 1.0 Generică].',
 	'wm-license-cc-by-3.0-at-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/at/deed.ro Atribuire 3.0 Austria].',
 	'wm-license-cc-by-3.0-au-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/au/deed.ro Atribuire 3.0 Australia].',
+	'wm-license-cc-by-3.0-br-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/br/deed.ro Atribuire 3.0 Brazilia].',
 	'wm-license-cc-by-3.0-cl-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cl/deed.ro Atribuire 3.0 Chile].',
+	'wm-license-cc-by-3.0-cr-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cr/deed.ro Atribuire 3.0 Costa Rica].',
 	'wm-license-cc-by-3.0-cz-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/cz/deed.ro Atribuire 3.0 Cehia].',
 	'wm-license-cc-by-3.0-de-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/de/deed.ro Atribuire 3.0 Germania].',
 	'wm-license-cc-by-3.0-ec-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by/3.0/ec/deed.ro Atribuire 3.0 Ecuador].',
@@ -15547,9 +15550,12 @@ $messages['ro'] = array(
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribuire și distribuire în condiții identice [http://creativecommons.org/licenses/by-sa/3.0/deed.ro 3.0 Neadaptată], [http://creativecommons.org/licenses/by-sa/2.5/deed.ro 2.5 Generică], [http://creativecommons.org/licenses/by-sa/2.0/deed.ro 2.0 Generică] și [http://creativecommons.org/licenses/by-sa/1.0/deed.ro 1.0 Generică].',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/at/deed.ro Atribuire și distribuire în condiții identice 3.0 Austria].',
 	'wm-license-cc-by-sa-3.0-au-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/au/deed.ro Atribuire și distribuire în condiții identice 3.0 Australia].',
+	'wm-license-cc-by-sa-3.0-br-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/br/deed.ro Atribuire și distribuire în condiții identice 3.0 Brazilia].',
 	'wm-license-cc-by-sa-3.0-cl-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cl/deed.ro Atribuire și distribuire în condiții identice 3.0 Chile].',
+	'wm-license-cc-by-sa-3.0-cr-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cr/deed.ro Atribuire și distribuire în condiții identice 3.0 Costa Rica].',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/cz/deed.ro Atribuire și distribuire în condiții identice 3.0 Cehia].',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/de/deed.ro Atribuire și distribuire în condiții identice 3.0 Germania].',
+	'wm-license-cc-by-sa-3.0-ec-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ec/deed.ro Atribuire și distribuire în condiții identice 3.0 Ecuador].',
 	'wm-license-cc-by-sa-3.0-ee-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/ee/deed.ro Atribuire și distribuire în condiții identice 3.0 Estonia].',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/es/deed.ro Atribuire și distribuire în condiții identice 3.0 Spania].',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/gr/deed.ro Atribuire și distribuire în condiții identice 3.0 Grecia].',
@@ -15587,6 +15593,8 @@ $messages['ro'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'partajând în condiții identice',
 	'wm-license-cc-conditions-share_alike-text' => 'Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.ro',
+	'wm-license-cc-pd-mark-text' => 'Acest fișier a fost identificat ca fiind liber de orice restricții cunoscute privind legea drepturilor de autor, inclusiv toate drepturile conexe sau înrudite.',
+	'wm-license-cecill-text' => 'Această operă provine dintr-un [[{{int:wm-license-free-software-wiki-link}}|software gratuit]]; o puteți redistribui sau modifica sub termenii licenței [[{{int:wm-license-cecill-wiki-link}}|CeCILL]], disponibili la [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Nume alternative',
 	'wm-license-creator-description' => 'Descriere',
 	'wm-license-creator-date-of-birth' => 'Data nașterii',
@@ -15596,10 +15604,14 @@ $messages['ro'] = array(
 	'wm-license-creator-work-period' => 'Perioada de lucru',
 	'wm-license-creator-work-location' => 'Locul de lucru',
 	'wm-license-creator-linkback' => 'Înapoi către infocaseta creatorului',
+	'wm-license-fal-text' => "Copyleft: această operă de artă este liberă; o puteți redistribui sau modifica în acord cu termenii '''[[{{int:wm-license-fal-wiki-link}}|Licenței de Artă Liberă]]'''. Veți găsi un exemplar al acestei licențe pe [{{int:wm-license-fal-full-link}} site-ul Copyleft Attitude], precum și pe alte site-uri.",
 	'wm-license-fsf-wiki-link' => 'w:ro:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:ro:Software liber',
 	'wm-license-gfdl-1.2-and-later' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', versiunea 1.2 fie orice altă versiune ulterioară publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', doar versiunea 1.2 publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;doar',
+	'wm-license-gfdl-1.3-and-later' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', versiunea 1.3 fie orice altă versiune ulterioară publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', doar versiunea 1.3 publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gpl-wiki-link' => 'w:ro:Licența Publică Generală GNU',
 	'wm-license-information-table-summary' => 'Un format standardizat ce oferă informații complete despre fișier, incluzând descrierea conținutului fișierului și detalii despre modul în care a fost efectuat, statutul drepturilor de autor și sursa.',
 	'wm-license-information-description' => 'Descriere',
@@ -16417,7 +16429,7 @@ $messages['rue'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете собі зволити хоць-яку з тых ліценцій.',
 );
 
-/** Yakut (Саха тыла)
+/** Sakha (Саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
@@ -17982,9 +17994,37 @@ $messages['sr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+ * @author Rancher
+ * @author Михајло Анђелковић
+ */
+$messages['sr-ec'] = array(
+	'wikimedialicensetexts-desc' => 'Викимедијине поруке за лиценце',
+	'wm-license-cc-free' => 'Слободни сте:',
+	'wm-license-cc-free-to-share-header' => 'да распрострањујете',
+	'wm-license-cc-free-to-remix-text' => 'да прилагођавате рад',
+	'wm-license-cc-conditions' => 'Под следећим условима:',
+	'wm-license-information-description' => 'Опис',
+	'wm-license-information-source' => 'Извор',
+	'wm-license-information-source-missing' => "Овом фајли недостаје информација о '''извору'''.",
+	'wm-license-information-date' => 'Датум',
+	'wm-license-information-author' => 'Аутор',
+	'wm-license-information-author-missing' => "Овом фајлу фали информација о '''аутору'''.",
+	'wm-license-information-permission' => 'Дозвола',
+	'wm-license-information-permission-reusing-text' => 'Поновно коришћење овог фајла',
+	'wm-license-information-permission-see-below' => 'Види испод.',
+	'wm-license-information-other-versions' => 'Друге верзије',
+	'wm-license-own-work' => 'Сопствено дело',
+);
+
 /** Serbian Latin ekavian (‪Srpski (latinica)‬) */
 $messages['sr-el'] = array(
+	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
+	'wm-license-cc-free' => 'Slobodni ste:',
+	'wm-license-cc-free-to-share-header' => 'da rasprostranjujete',
+	'wm-license-cc-free-to-remix-text' => 'da prilagođavate rad',
+	'wm-license-cc-conditions' => 'Pod sledećim uslovima:',
 	'wm-license-creator-alternative-names' => 'Псеудоними',
 	'wm-license-creator-description' => 'Опис',
 	'wm-license-creator-date-of-birth-and-death' => 'Датум рођења/смрти',
@@ -17996,25 +18036,6 @@ $messages['sr-el'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.",
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
-	'wm-license-information-description' => 'Опис',
-	'wm-license-information-source' => 'Извор',
-	'wm-license-information-date' => 'Датум',
-	'wm-license-information-author' => 'Аутор',
-	'wm-license-information-permission' => 'Дозвола',
-	'wm-license-information-permission-see-below' => 'Види доле.',
-	'wm-license-information-other-versions' => 'Остале верзије',
-	'wm-license-own-work' => 'Сопствено дело',
-	'wm-license-pd-wiki-link' => 'w:sr:Јавно власништво',
-	'wm-license-self-one-license' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:',
-	'wm-license-self-one-license-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:',
-	'wm-license-self-multiple-licenses' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећим лиценцама:',
-	'wm-license-self-multiple-licenses-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећим лиценцама:',
-	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
-	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
-	'wm-license-cc-free' => 'Slobodni ste:',
-	'wm-license-cc-free-to-share-header' => 'da rasprostranjujete',
-	'wm-license-cc-free-to-remix-text' => 'da prilagođavate rad',
-	'wm-license-cc-conditions' => 'Pod sledećim uslovima:',
 	'wm-license-information-description' => 'Opis slike',
 	'wm-license-information-source' => 'Izvor',
 	'wm-license-information-source-missing' => "Ovom fajli nedostaje informacija o '''izvoru'''.",
@@ -18026,6 +18047,12 @@ $messages['sr-el'] = array(
 	'wm-license-information-permission-see-below' => 'Vidi ispod.',
 	'wm-license-information-other-versions' => 'Druge verzije',
 	'wm-license-own-work' => 'Sopstveno delo',
+	'wm-license-pd-wiki-link' => 'w:sr:Јавно власништво',
+	'wm-license-self-one-license' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:',
+	'wm-license-self-one-license-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:',
+	'wm-license-self-multiple-licenses' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећим лиценцама:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећим лиценцама:',
+	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
 /** Sranan Tongo (Sranantongo) */
@@ -19256,7 +19283,7 @@ na isinusukong pangbuong-mundo ang lahat ng kanyang mga karapatan sa akda sa ila
 	'wm-license-self-multiple-licenses-select' => 'Maaari kang pumili ng lisensyang nais mo.',
 );
 
-/** Tonga (lea faka-Tonga) */
+/** Tongan (lea faka-Tonga) */
 $messages['to'] = array(
 	'wm-license-information-description' => 'Fakamahino',
 	'wm-license-information-source' => 'Tupunga',
@@ -20883,12 +20910,15 @@ $messages['zea'] = array(
 );
 
 /** Chinese (中文)
+ * @author B1mbo
  * @author Diebuche
+ * @author Mormegil
  * @author Shizhao
  */
 $messages['zh'] = array(
 	'wm-license-attribution-with-author-text' => '#REDIRECT[[MediaWiki:Wm-license-attribution-with-author-text/zh-hans]]',
-	'wm-license-cc-by-sa-2.0-text' => '#REDIRECT[[MediaWiki:Wm-license-cc-by-sa-2.0-text/zh]]',
+	'wm-license-cc-by-sa-2.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/2.0/deed.zh 署名-相同方式共享 2.0 未本地化版本]许可协议授权。',
+	'wm-license-cc-by-sa-3.0-cl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][http://creativecommons.org/licenses/by-sa/3.0/cl/deed.zh 署名-相同方式共享 3.0 智利]许可协议授权。',
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
 	'wm-license-gfdl-1.2-and-later' => "你被授权遵循自由软件基金会发行的无固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版或任一后续版本条款，复制、分发和/或修改本文件。协议副本包含在题为“ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU自由文件授权协议文本”的部分中]]''。",

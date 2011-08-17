@@ -1361,6 +1361,15 @@ $messages['bh'] = array(
 	'group-accountcreator' => 'खाता बनावे वाला',
 );
 
+/** Bhojpuri (भोजपुरी)
+ * @author Ganesh
+ */
+$messages['bho'] = array(
+	'sitesupport' => 'दान करीं',
+	'tooltip-n-sitesupport' => 'हमनी के सहयोग करीं',
+	'group-accountcreator' => 'खाता बनावे वाला',
+);
+
 /** Bahasa Banjar (Bahasa Banjar)
  * @author Ezagren
  */
@@ -5202,7 +5211,7 @@ Lé [http://wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe] ma
 Ó bú nà Í dégị ihe á na onwé gí, o gị dị na okpúrù ihe nkwenye di na ọma na [http://wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe], na Í kwèrè Í só akwụkwọ íwu nkeowulà di mkpà.',
 );
 
-/** Eastern Canadian (Unified Canadian Aboriginal Syllabics) (ᐃᓄᒃᑎᑐᑦ) */
+/** Eastern Canadian (Aboriginal syllabics) (ᐃᓄᒃᑎᑐᑦ) */
 $messages['ike-cans'] = array(
 	'sitesupport' => 'ᑐᓐᓂᖅᑯᓯᐊᑦ ᑮᓇᐅᔭᐃᑦ',
 );
@@ -7836,7 +7845,7 @@ $messages['or'] = array(
 ଯଦି ଆପଣ ନିଜେ ଏହା ଲେଖି ନାହାନ୍ତି ତେବେ ତେବେ ଏହା ନିହାତି [http://wikimediafoundation.org/wiki/Terms_of_Use ଉଇକିମିଡ଼ିଆର ନିୟମ] ଭିତରେ ଆସିବ, ଆଉ ଆପଣ ସବୁ ଲାଇସେନ୍ସର ଦରକାରୀ ସର୍ତ୍ତକୁ ମଣିବାକୁ ରାଜିହୋଇଛନ୍ତି ।',
 );
 
-/** Ossetic (Иронау)
+/** Ossetic (Ирон)
  * @author Amikeco
  */
 $messages['os'] = array(
@@ -9023,7 +9032,7 @@ $messages['ruq-latn'] = array(
 	'tooltip-n-sitesupport' => 'Supora-nostre',
 );
 
-/** Yakut (Саха тыла)
+/** Sakha (Саха тыла)
  * @author Bert Jickty
  * @author HalanTul
  */
@@ -10801,7 +10810,7 @@ $messages['tn'] = array(
 	'sitesupport' => 'Dimpho',
 );
 
-/** Tonga (lea faka-Tonga) */
+/** Tongan (lea faka-Tonga) */
 $messages['to'] = array(
 	'sitesupport' => 'Ngaahi meʻa ʻofa',
 	'group-steward' => 'Kau setuate',
