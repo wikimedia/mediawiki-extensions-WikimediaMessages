@@ -5068,6 +5068,7 @@ $messages['en-gb'] = array(
 );
 
 /** Esperanto (Esperanto)
+ * @author AVRS
  * @author Castelobranco
  * @author Marcos
  * @author Mihxil
@@ -5321,7 +5322,7 @@ $messages['eo'] = array(
 	'wm-license-original-upload-log' => 'Originala alŝutada protokolo',
 	'wm-license-own-work' => 'Propra verko',
 	'wm-license-pd-author-self-text' => "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, liberigas tiun tutmonde kiel '''[[{{int:wm-license-pd-wiki-link}}|publikaĵon]]'''.",
-	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]''' de ties aŭtoro, '''$1'''. Tio aplikatas mondvaste.",
+	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]''' de ties aŭtoro, '''$1'''. Tio aplikatas tutmonde.",
 	'wm-license-pd-author-not-legally-possible' => 'En iuj landoj tio povas esti laŭleĝe neebla; en tiu okazo:',
 	'wm-license-pd-author-self-any-purpose' => 'Mi rajtigas ĉiun ajn uzi ĉi tiun verkon por ajna celo, sen iuj ajn kondiĉoj, krom se tiuj kondiĉoj estas postulataj per leĝo.',
 	'wm-license-pd-author-with-author-any-purpose' => "$1 donas al iu ajn la rajton uzi ĉi tiun verkon '''por iu ajn uzo''', sen kondiĉoj, krom se tiuj kondiĉoj deviĝas per leĝo.",
