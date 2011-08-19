@@ -11216,6 +11216,7 @@ $messages['lb'] = array(
 	'wm-license-artwork-current-location' => 'Aktuell Plaz',
 	'wm-license-artwork-references' => 'Referenzen',
 	'wm-license-artwork-inscriptions' => 'Opschrëften',
+	'wm-license-artwork-id' => 'Zougangsnummer',
 	'wm-license-artwork-source' => 'Quell/Fotograf',
 	'wm-license-book-edition' => 'Editioun',
 	'wm-license-book-editor' => 'Editeur',
