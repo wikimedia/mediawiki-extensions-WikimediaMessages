@@ -8140,6 +8140,41 @@ Varda ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] për ij
 	'wikimedia-editpage-tos-summary' => "S'it veule pa che tò scrit a sia modificà e redistribuì a volontà, alora butlo pa sì. S'it l'has pa scrivulo da sol, a deuv esse disponìbil sota condission consistente con ij [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], e it ses d'acòrdi con tùit ij requisì aplicàbij dla licensa.",
 );
 
+/** Western Punjabi (پنجابی)
+ * @author Khalid Mahmood
+ */
+$messages['pnb'] = array(
+	'group-steward' => 'سٹیورڈز',
+	'group-sysadmin' => 'پربندھ چلان والے',
+	'group-editinterface' => 'وکھالہ لکھاری',
+	'group-Global_bot' => 'گلوبل بوٹس',
+	'group-Global_rollback' => 'گلوبل رولبیکرز',
+	'group-Global_sysops' => 'گلوبل مکھیے',
+	'group-Ombudsmen' => 'اومبڈزمن',
+	'group-Staff' => 'سٹاف',
+	'group-steward-member' => 'سٹیورڈ',
+	'group-sysadmin-member' => 'پربندھ چلان والے',
+	'group-editinterface-member' => 'وکھالہ لکھاری',
+	'group-Global_bot-member' => 'گلوبل بوٹ',
+	'group-Global_rollback-member' => 'گلوبل رولبیکرز',
+	'group-Global_sysops-member' => 'گلوبل پربندھ چلانوالے',
+	'group-Ombudsmen-member' => 'اومبڈزمن',
+	'group-Staff-member' => 'سٹاف',
+	'group-coder' => 'کوڈرز',
+	'group-coder-member' => 'کوڈر',
+	'group-inactive' => 'نکمے ورتاوے',
+	'group-inactive-member' => 'ویلا ورتاوہ',
+	'grouppage-inactive' => '{{ns:project}}:ویلے ورتن آلے',
+	'wikimedia-copyright' => 'Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
+	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [http://www.gnu.org/copyleft/fdl.html GFDL].
+You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.
+See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
+	'wikimedia-editpage-tos-summary' => 'اگر تسی اے چاندے او کے تواڈی لکھائی نوں چھیڑیا یا دوجیاں تھاواں تے نا لایا جاۓ تے ایتھے نا لکھو۔
+اگر تسی اے آپے نئیں لکھیا تے فیر اس لکھائی نوں [http://wikimediafoundation.org/wiki/Terms_of_Use ورتن دیاں شرطاں]، ایناں شرطاں نوں پورا کرنا چائیدا اے۔ تسی وی باقی ساریاں لائسنس آلے کم پورے کرن دی حامی پرو۔',
+);
+
 /** Pontic (Ποντιακά)
  * @author Sinopeus
  */
