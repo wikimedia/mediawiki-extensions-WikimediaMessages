@@ -14677,8 +14677,39 @@ $messages['pms'] = array(
 	'wm-license-self-multiple-licenses-select' => "It peule selessioné la licensa ch'it veule.",
 );
 
-/** Western Punjabi (پنجابی) */
+/** Western Punjabi (پنجابی)
+ * @author Khalid Mahmood
+ */
 $messages['pnb'] = array(
+	'wikimedialicensetexts-desc' => 'وکیمیڈیا لائیسنس سنیعہ',
+	'wm-license-artwork-artist' => 'آرٹسٹ',
+	'wm-license-artwork-title' => 'سرخی',
+	'wm-license-artwork-medium' => 'میڈیم',
+	'wm-license-artwork-dimensions' => 'ڈائمنشن',
+	'wm-license-artwork-current-location' => 'ہن والی تھاں',
+	'wm-license-artwork-object-history' => 'اوبجیکٹ رکارڈ',
+	'wm-license-artwork-credit-line' => 'کریڈٹ لائن',
+	'wm-license-artwork-references' => 'اتے پتے',
+	'wm-license-artwork-inscriptions' => 'اندرلکھت',
+	'wm-license-artwork-notes' => 'نوٹس',
+	'wm-license-artwork-id' => 'ملن نمبر',
+	'wm-license-artwork-source' => 'ذریعہ/فوٹوگرافر',
+	'wm-license-book-edition' => 'ایڈیشن',
+	'wm-license-book-editor' => 'ایڈیٹر',
+	'wm-license-book-illustrator' => 'دسن والا',
+	'wm-license-book-language' => 'بولی',
+	'wm-license-book-page-overview' => 'صفہ ویکھنا',
+	'wm-license-book-place-of-publication' => 'چھپن تھاں',
+	'wm-license-book-printer' => 'پرنٹر',
+	'wm-license-book-publisher' => 'چھاپن والا',
+	'wm-license-book-series-title' => 'سلسلے دی سرخی',
+	'wm-license-book-start-this-book' => 'اے کتاب کھولو',
+	'wm-license-book-subtitle' => 'نکی سرخی',
+	'wm-license-book-title' => 'سرخی',
+	'wm-license-book-translator' => 'پنجابی چ التھن والا',
+	'wm-license-book-volume' => 'والیوم',
+	'wm-license-book-year-of-publication' => 'چھپن ورہ',
+	'wm-license-cc-attribution' => 'کس دے ناں',
 	'wm-license-information-description' => 'تفصیل',
 	'wm-license-information-source' => 'ذریعہ',
 );
