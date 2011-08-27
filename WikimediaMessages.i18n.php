@@ -8169,6 +8169,7 @@ $messages['pnb'] = array(
 	'group-founder-member' => 'نیو رکھن والا',
 	'group-Image-reviewer-member' => 'مورت دا وکھالہ کرن والہ',
 	'group-import-member' => 'لیان والا',
+	'group-researcher-member' => 'کھوجی',
 	'group-steward' => 'سٹیورڈز',
 	'group-sysadmin' => 'پربندھ چلان والے',
 	'group-editinterface' => 'وکھالہ لکھاری',
