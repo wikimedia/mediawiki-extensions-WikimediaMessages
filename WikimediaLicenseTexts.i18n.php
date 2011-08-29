@@ -8536,13 +8536,16 @@ $messages['hsb'] = array(
  * @author Dani
  * @author Diebuche
  * @author Glanthor Reviol
+ * @author Jarekt
+ * @author Misibacsi
  * @author Multichill
  */
 $messages['hu'] = array(
 	'wikimedialicensetexts-desc' => 'A Wikimedia licencszövegei',
 	'wm-license-attribution-with-author-text' => "A fájl szerzői jogainak tulajdonosa, $1 engedélyezi a mű '''bármilyen céllal''' történő használatát '''azzal a feltétellel''', hogy a szerzői jog tulajdonosa megfelelően fel van tüntetve. Az újraterjesztés, származékos művek, kereskedelmi és bármilyen egyéb célú használat megengedett.",
 	'wm-license-attribution-without-author-text' => "A fájl szerzői jogainak tulajdonosa engedélyezi a mű '''bármilyen céllal''' történő használatát '''azzal a feltétellel''', hogy a szerzői jog tulajdonosa megfelelően fel van tüntetve. Az újraterjesztés, származékos művek, kereskedelmi és bármilyen egyéb célú használat megengedett.",
-	'wm-license-artwork-artist' => 'Festő',
+	'wm-license-artwork-artist' => 'Művész',
+	'wm-license-artwork-title' => 'Mű címe',
 	'wm-license-artwork-medium' => 'Technika',
 	'wm-license-artwork-dimensions' => 'Méretei',
 	'wm-license-artwork-current-location' => 'Jelenlegi helye',
@@ -8550,6 +8553,7 @@ $messages['hu'] = array(
 	'wm-license-artwork-credit-line' => 'Származás',
 	'wm-license-artwork-references' => 'Forráshivatkozás',
 	'wm-license-artwork-inscriptions' => 'Feliratok',
+	'wm-license-artwork-notes' => 'Megjegyzés',
 	'wm-license-artwork-id' => 'Leltári szám',
 	'wm-license-artwork-source' => 'Forrás/fényképész',
 	'wm-license-book-edition' => 'Kiadás',
@@ -11227,6 +11231,7 @@ $messages['lb'] = array(
 	'wm-license-artwork-current-location' => 'Aktuell Plaz',
 	'wm-license-artwork-references' => 'Referenzen',
 	'wm-license-artwork-inscriptions' => 'Opschrëften',
+	'wm-license-artwork-notes' => 'Notizen',
 	'wm-license-artwork-id' => 'Zougangsnummer',
 	'wm-license-artwork-source' => 'Quell/Fotograf',
 	'wm-license-book-edition' => 'Editioun',

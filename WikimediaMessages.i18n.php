@@ -2208,6 +2208,7 @@ $messages['da'] = array(
 	'specialpages-group-contribution' => 'Bidrag/Indsamling',
 	'nstab-creator' => 'Ophavsmand',
 	'nstab-institution' => 'Institution',
+	'nstab-sequence' => 'Sekvens',
 	'group-abusefilter' => 'Operatører af misbrugsfilteret',
 	'group-accountcreator' => 'Kontooprettere',
 	'group-autopatrolled' => 'Autopatruljerede',
