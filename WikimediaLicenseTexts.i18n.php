@@ -886,6 +886,7 @@ $messages['ang'] = array(
  * @author Multichill
  * @author OsamaK
  * @author Samer
+ * @author Zack wadghiri
  * @author ترجمان05
  */
 $messages['ar'] = array(
@@ -1003,7 +1004,7 @@ $messages['ar'] = array(
 	'wm-license-cc-by-3.0-ro-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/ro/ نسبة المصنف إلى مؤلفه 3.0 الرومانية].',
 	'wm-license-cc-by-3.0-rs-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/rs/ نسبة المصنف إلى مؤلفه 3.0 الصربية]',
 	'wm-license-cc-by-3.0-sg-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/sg/ نسبة المصنف إلى مؤلفه 3.0 السنغافورية]',
-	'wm-license-cc-by-3.0-th-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/th/ نسبة المصنف إلى مؤلفه 3.0 التايلاندية].',
+	'wm-license-cc-by-3.0-th-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/th/ نسبة المصنف إلى مؤلفه 3.0 التايلندية].',
 	'wm-license-cc-by-3.0-tw-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/tw/ نسبة المصنف إلى مؤلفه 3.0 التايوانية].',
 	'wm-license-cc-by-3.0-us-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by/3.0/us/ نسبة المصنف إلى مؤلفه 3.0 الولايات المتحدة].',
 	'wm-license-cc-by-sa-1.0-text' => 'هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [http://creativecommons.org/licenses/by-sa/1.0/ نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 1.0 العامة]',
