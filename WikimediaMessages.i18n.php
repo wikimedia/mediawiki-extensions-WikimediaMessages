@@ -1951,7 +1951,7 @@ $messages['co'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
-/** Crimean Turkish (Latin) (Qırımtatarca (Latin))
+/** Crimean Turkish (Latin script) (‪Qırımtatarca (Latin)‬)
  * @author Don Alessandro
  */
 $messages['crh-latn'] = array(
@@ -1962,7 +1962,7 @@ $messages['crh-latn'] = array(
 Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan olsa, şu metinniñ yerleştirilüvi [http://wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]na uyğun olmalı, ve siz litsenziyanıñ bütün kerekli talaplarınen razı olmalısıñız.',
 );
 
-/** Crimean Turkish (Cyrillic) (Qırımtatarca (Cyrillic))
+/** Crimean Turkish (Cyrillic script) (‪Къырымтатарджа (Кирилл)‬)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
@@ -4514,7 +4514,7 @@ $messages['hi'] = array(
 	'group-Staff-member' => 'स्टाफ़ सदस्य',
 );
 
-/** Fiji Hindi (Latin) (Fiji Hindi (Latin))
+/** Fiji Hindi (Latin script) (Fiji Hindi)
  * @author Girmitya
  * @author Thakurji
  */
@@ -5717,12 +5717,19 @@ $messages['kiu'] = array(
 	'sitesupport' => 'Beğş',
 );
 
+/** Kazakh (Қазақша)
+ * @author PPerviz
+ */
+$messages['kk'] = array(
+	'grouppage-accountcreator' => '{{ns:project}}:Аккаунт жасаушылар',
+);
+
 /** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
 $messages['kk-arab'] = array(
 	'sitesupport' => 'دەمەۋشىلىك',
 );
 
-/** Kazakh (Cyrillic) (Қазақша (Cyrillic))
+/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬)
  * @author AlefZet
  * @author GaiJin
  */
@@ -5736,7 +5743,7 @@ $messages['kk-cyrl'] = array(
 	'group-Staff-member' => 'Басқарма мүшесі',
 );
 
-/** Kazakh (Latin) (Қазақша (Latin)) */
+/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'sitesupport' => 'Demewşilik',
 );
@@ -6091,7 +6098,7 @@ $messages['ksh'] = array(
 	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 );
 
-/** Kurdish (Latin) (Kurdî (Latin))
+/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -9076,7 +9083,7 @@ $messages['rup'] = array(
 	'sitesupport' => 'Donatsiur',
 );
 
-/** Megleno-Romanian (Cyrillic) (Vlăheşte (Cyrillic))
+/** Megleno-Romanian (Cyrillic script) (Влахесте)
  * @author Кумулај Маркус
  * @author Макѕе
  */
@@ -9085,7 +9092,7 @@ $messages['ruq-cyrl'] = array(
 	'tooltip-n-sitesupport' => 'Супора-ностре',
 );
 
-/** Megleno-Romanian (Latin) (Vlăheşte (Latin))
+/** Megleno-Romanian (Latin script) (Vlăheşte)
  * @author Кумулај Маркус
  * @author Макѕе
  */
@@ -9828,7 +9835,7 @@ Shikoni <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Pë
 	'wikimedia-editpage-tos-summary' => 'Nëse ju nuk dëshironi që shkrimet tuaja të redaktohen dhe rishpërndahen, atëherë mos i jepni këtu. Nëse ju nuk e keni shkruar këtë vetë, ajo duhet të jetë në dispozicion sipas kushteve në përputhje me [http://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e Përdorimit], dhe ju pranoni të ndiqni çdo kërkesë të licensimit përkatës.',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Millosh
  * @author Rancher
  * @author Red Baron
@@ -9914,7 +9921,7 @@ $messages['sr-ec'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивни корисници',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
  * @author Жељко Тодоровић
  */
@@ -10489,7 +10496,7 @@ $messages['tet'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward sira',
 );
 
-/** Tajik (Cyrillic) (Тоҷикӣ (Cyrillic))
+/** Tajik (Cyrillic script) (Тоҷикӣ)
  * @author Ibrahim
  * @author לערי ריינהארט
  */
@@ -10533,7 +10540,7 @@ $messages['tg-cyrl'] = array(
 	'group-inactive-member' => 'корбарони ғайрифаъол',
 );
 
-/** Tajik (Latin) (Тоҷикӣ (Latin))
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -11009,7 +11016,7 @@ $messages['ts'] = array(
 	'tooltip-n-sitesupport' => 'Hi seketeli',
 );
 
-/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+/** Tatar (Cyrillic script) (Татарча)
  * @author Don Alessandro
  * @author Rinatus
  * @author Timming
@@ -11120,7 +11127,7 @@ $messages['tt-cyrl'] = array(
 Сез язган текстның авторы булмасагыз, текст [http://wikimediafoundation.org/wiki/Terms_of_Use/ Куллану шартлары] белән килешкән шартларга туры килергә тиеш, һәм Сез лицензиянең таләпләренә буйсынырга килешәсез.',
 );
 
-/** Tatar (Latin) (Татарча/Tatarça (Latin))
+/** Tatar (Latin script) (Tatarça)
  * @author Don Alessandro
  */
 $messages['tt-latn'] = array(
@@ -11237,7 +11244,7 @@ $messages['ug-arab'] = array(
 	'grouppage-inactive' => '{{ns:project}}:پاسسىپ ئىشلەتكۈچىلەر',
 );
 
-/** Uighur (Latin) (ئۇيغۇرچە / Uyghurche‎ (Latin)) */
+/** Uighur (Latin script) (Uyghurche‎) */
 $messages['ug-latn'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
