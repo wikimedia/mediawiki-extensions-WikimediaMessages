@@ -2213,6 +2213,7 @@ $messages['da'] = array(
 	'nstab-creator' => 'Ophavsmand',
 	'nstab-institution' => 'Institution',
 	'nstab-sequence' => 'Sekvens',
+	'nstab-timedtext' => 'Undertekst',
 	'group-abusefilter' => 'Operatører af misbrugsfilteret',
 	'group-accountcreator' => 'Kontooprettere',
 	'group-autopatrolled' => 'Autopatruljerede',
@@ -2251,10 +2252,12 @@ $messages['da'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruljerede',
 	'grouppage-bigexport' => '{{ns:project}}:Storeksportører',
 	'grouppage-confirmed' => '{{ns:project}}:Bekræftede brugere',
+	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
 	'grouppage-flood' => '{{ns:project}}:Botbrugere',
 	'grouppage-founder' => '{{ns:project}}:Grundlæggere',
 	'grouppage-import' => '{{ns:project}}:Importører',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-blokeringsundtagelser',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS-medlemmer',
 	'grouppage-researcher' => '{{ns:project}}:Forskere',
 	'grouppage-rollbacker' => '{{ns:project}}:Tilbagerullere',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importører',
@@ -5736,6 +5739,7 @@ $messages['kk-arab'] = array(
 /** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬)
  * @author AlefZet
  * @author GaiJin
+ * @author Kaztrans
  */
 $messages['kk-cyrl'] = array(
 	'sitesupport' => 'Демеушілік',
@@ -5746,6 +5750,77 @@ $messages['kk-cyrl'] = array(
 	'group-Staff' => 'Басқарма',
 	'group-sysadmin-member' => 'жүйе әкімшісі',
 	'group-Staff-member' => 'Басқарма мүшесі',
+	'wikimedia-copyrightwarning' => '<div id="plainlinks" style="background: #fafff9; margin-top:1px;border:1px solid darkgreen;padding:3px; font-size: 97%">
+<span style="border-bottom:1px dotted gray; cursor:help" title="Өңдеу терезесіне кірістіру үшін таңбаны не белгілемені шертіңіз">Тез орнату:</span> 
+<span style="font-size:1.3em">&nbsp;<charinsert>«+»</charinsert>
+&nbsp;<charinsert>„+“</charinsert>
+&nbsp;<charinsert>—</charinsert></span>
+<span style="font-size: 150%">&nbsp;<charinsert>·</charinsert></span>
+<span style="font-size: 110%">&nbsp;<charinsert>&#123;{+}}</charinsert>
+&nbsp;<charinsert>{{{+}}}</charinsert>
+&nbsp;<charinsert>[[+]]</charinsert>
+&nbsp;<charinsert>[+]</charinsert>
+&nbsp;<charinsert><nowiki>[[</nowiki>|+]]</charinsert>
+&nbsp;<charinsert>&#123;{+|}}</charinsert></span>
+&nbsp;<charinsert><nowiki>&</nowiki>nbsp;</charinsert>
+&nbsp;<charinsert><nowiki>#АЙДАУ [[</nowiki>+]]</charinsert>
+&nbsp;<charinsert>[[Санат:+]]</charinsert>
+&nbsp;<charinsert>&#123;{DEFAULTSORT:+}}</charinsert>
+&nbsp;<charinsert>[[Қатысушы:+]]</charinsert>
+&nbsp;<charinsert>&#123;{u|+}}</charinsert>
+&nbsp;<charinsert>__NOTOC__ __TOC__ __FORCETOC__</charinsert>
+&nbsp;<charinsert>&#123;{commons|+}} &#123;{commonscat|+}}</charinsert>
+&nbsp;<charinsert>[[en:+]] [[ru:+]]</charinsert>
+
+Тегтер:
+&nbsp;<charinsert><>+</></charinsert>
+&nbsp;<charinsert><nowiki><!-- + --></nowiki></charinsert>&nbsp;&nbsp;·
+&nbsp;<charinsert><u>+</u></charinsert>
+&nbsp;<charinsert><s>+</s></charinsert>
+&nbsp;<charinsert><tt>+</tt></charinsert>
+&nbsp;<charinsert><blockquote>+</blockquote></charinsert>
+&nbsp;<charinsert><math>~+</math></charinsert>
+&nbsp;<charinsert><code>+</code></charinsert>
+&nbsp;<charinsert><pre>+</pre></charinsert>&nbsp;&nbsp;·
+&nbsp;<charinsert><includeonly>+</includeonly></charinsert>
+&nbsp;<charinsert>noinclude>+</noinclude></charinsert>
+
+Бөлімдер:
+&nbsp;<charinsert><nowiki>== Түсініктемелер ==</nowiki></charinsert>&nbsp;&nbsp;·
+&nbsp;<charinsert><nowiki>== Пайдаланған әдебиет ==&#10;<references/></nowiki></charinsert>&nbsp;&nbsp;·
+&nbsp;<charinsert><nowiki>== Тағы қараңыз ==</nowiki></charinsert>&nbsp;&nbsp;·
+&nbsp;<charinsert><nowiki>== Сыртқы сілтемелер ==</nowiki></charinsert>
+
+Үлгілер:
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{бастама}}</nowiki></charinsert></span> 
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{уики}}</nowiki></charinsert></span>&nbsp;&nbsp;·
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{айрық}}</nowiki></charinsert></span>
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{мағына|+}}</nowiki></charinsert></span>&nbsp;&nbsp;·
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{жедел жою|+}}</nowiki></charinsert></span>&nbsp;&nbsp;·
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{main|+}}</nowiki></charinsert></span>
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{cat main}}</nowiki></charinsert></span>&nbsp;&nbsp;·
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{clear}}</nowiki></charinsert></span> 
+&nbsp;<charinsert>&#123;{tl|+}}</charinsert>&nbsp;&nbsp;·
+&nbsp;<charinsert>&#123;{ref-en}}</charinsert>
+&nbsp;<charinsert>&#123;{ref-ru}}</charinsert>
+&nbsp;<charinsert>&#123;{reflist}}</charinsert>&nbsp;&nbsp;·
+&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{start citation}}+&#123;{end citation|қайнары=}}</nowiki></charinsert></span>&nbsp;&nbsp;·
+&nbsp;<charinsert>&#123;{lang-la|+}}</charinsert>
+&nbsp;<charinsert>&#123;{lang-el|+}}</charinsert>
+&nbsp;<charinsert>&#123;{lang-ar|+}}</charinsert>
+&nbsp;<charinsert>&#123;{lang-en|+}}</charinsert>
+&nbsp;<charinsert>&#123;{lang-ru|+}}</charinsert>
+
+Таңбалар:<span style="font-size: 110%">
+&nbsp;<charinsert>– — ‘+’ “+” ~ # @ § ¶ № • · ← ↖ ↑ ↗ → ↘ ↓ ↙ ↔ ↕ ¡ ¿ \\ ½ ¼ ¾ ≈ ≠ ±  − × ÷ ° ^ ¹ ² ³ € £ ¥ $ ¢ † © ® ™</charinsert></span>
+
+Грек:<span style="font-size: 110%">
+&nbsp;<charinsert> Α α Β β Γ γ Δ δ Ε ε Ζ ζ Η η Θ θ Ι Ϊ ι ϊ Κ κ Λ λ Μ μ Ν ν Ξ ξ Ο ο Π π Ρ ρ Σ σ ς Τ τ Υ Ϋ υ ϋ Φ φ Χ χ Ψ ψ Ω ω </charinsert></span>
+&nbsp;&nbsp;Қазақ:<span style="font-size: 110%">
+&nbsp;<charinsert> Ә ә І і Ң ң Ғ ғ Ү ү Ұ ұ Қ қ Ө ө Һ һ </charinsert></span>
+</div>
+\'\'\'[[Уикипедия:Авторлық құқықтар|Авторлық құқықтарын]]\'\'\' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны [[Уикипедия:Сынаушылық|талаптарға сай]] болуы керек. \'\'«Бетті сақта!»\'\' батырмасын басқаныңыз — үлесіңізді [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [http://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
+[http://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].',
 );
 
 /** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
@@ -6461,6 +6536,7 @@ $messages['lt'] = array(
 	'tooltip-n-sitesupport' => 'Palaikymas',
 	'specialpages-group-contribution' => 'Įnašas/Remėjas',
 	'nstab-creator' => 'Kūrėjas',
+	'nstab-institution' => 'Įstaiga',
 	'group-abusefilter' => 'Piktnaudžiavimo filtrų redaktoriai',
 	'group-accountcreator' => 'Paskyrų kūrėjai',
 	'group-arbcom' => 'Arbitražo komiteto nariai',
@@ -7845,10 +7921,14 @@ $messages['oc'] = array(
 
 /** Oriya (ଓଡ଼ିଆ)
  * @author Jose77
+ * @author Odisha1
  * @author Psubhashish
  */
 $messages['or'] = array(
 	'sitesupport' => 'ଦାନ',
+	'nstab-creator' => 'ସ୍ରଷ୍ଟା',
+	'nstab-sequence' => 'ଅନୁକ୍ରମ',
+	'group-sysadmin' => 'ତନ୍ତ୍ର ପ୍ରଶାସକ',
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="http://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
 ଅଧିକ ଜାଣିବା ପାଇଁ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
