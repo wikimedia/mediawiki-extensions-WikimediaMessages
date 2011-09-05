@@ -3006,8 +3006,8 @@ Véase <a href="http://wikimediafoundation.org/wiki/Términos_de_Uso">los térmi
 	'wikimedia-copyrightwarning' => 'Guardando el texto, acepta ceder de manera irrevocable sus contribuciones bajo la [http://creativecommons.org/licenses/by-sa/3.0/deed.es Licencia Creative Commons Atribución/Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Usted acepta a ser citado, como mínimo, por medio de un hipervínculo o URL a la página donde ha contribuido.
 Véase los [http://wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] para más detalles.',
-	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad, entonces no los guarde aquí.
-Si usted no escribió el texto, este debe estar disponible bajo las condiciones especificadas en los [http://wikimediafoundation.org/wiki/Términos_de_Uso términos de uso], y usted acepta seguir cualquier requerimiento relacionado a las licencias.',
+	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí.
+Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [http://wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
 );
 
 /** Estonian (Eesti)
@@ -7331,9 +7331,10 @@ $messages['myv'] = array(
 
 /** Mazanderani (مازِرونی)
  * @author Spacebirdy
+ * @author محک
  */
 $messages['mzn'] = array(
-	'sitesupport' => 'پیلی کایر',
+	'sitesupport' => 'پیل هدائن',
 );
 
 /** Nauru (Dorerin Naoero) */
