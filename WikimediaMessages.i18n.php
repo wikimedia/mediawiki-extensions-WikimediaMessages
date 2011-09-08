@@ -7492,9 +7492,39 @@ Bekiek de [http://wikimediafoundation.org/wiki/Terms_of_use algemene veurweerden
 A'j de tekste niet zelf eschreven hebben, dan mut de biedrage beschikbaor ween onder de [http://wikimediafoundation.org/wiki/Terms_of_use algemene veurweerden] en stem je in mit alle relevante lisensieveurweerden.",
 );
 
-/** Nepali (नेपाली) */
+/** Nepali (नेपाली)
+ * @author सरोज कुमार ढकाल
+ */
 $messages['ne'] = array(
 	'sitesupport' => 'चन्दा',
+	'tooltip-n-sitesupport' => 'हामीलाई समर्थन गर्नुहोस् \\',
+	'nstab-creator' => 'सर्जक',
+	'nstab-institution' => 'संस्था',
+	'nstab-sequence' => 'क्रममा',
+	'nstab-timedtext' => 'समयबद्ध पाठ',
+	'group-accountcreator' => 'खाता खोल्नेहरु',
+	'group-autopatrolled' => 'स्वत गस्तीगर्नेहरु',
+	'group-autoreviewer' => 'स्वत: पुनरावलोकन गर्नेहरु',
+	'group-bigexport' => 'ठूला निर्यातकर्ताहरु',
+	'group-confirmed' => 'निश्चित गरिएका प्रयोगकर्ता',
+	'group-editprotected' => 'सुरक्षित पृष्ठ सम्पादकहरु',
+	'group-eliminator' => 'हटउनेहरु',
+	'group-filemover' => 'फाइल सार्नेहरु',
+	'group-flood' => 'बोट प्रयोगकर्ताहरु',
+	'group-founder' => 'संस्थापनकर्ताहरु',
+	'group-Image-reviewer' => 'तस्बिर पुनरावलोकनकर्ताहरु',
+	'group-import' => 'आयातकर्ताहरु',
+	'group-interface_editors' => 'अन्तरमोहडा सम्पादकहरु',
+	'group-ipblock-exempt' => 'IP रोक माफीहरु',
+	'group-patroller' => 'गस्तीकर्ताहरु',
+	'group-researcher' => 'खोजकर्ताहरु',
+	'group-rollbacker' => 'पूर्वरुपमा पर्काउनेहरु',
+	'group-transwiki' => 'ट्रान्स विकि आयातकर्ताहरु',
+	'group-trusted' => 'विश्वाशीला प्रयोगकर्ताहरु',
+	'group-coder' => 'कोडलेख्ने व्यक्तिहरु',
+	'group-coder-member' => 'कोडलेख्ने व्यक्ति',
+	'group-inactive' => 'निश्कृय प्रयोगकर्ताहरु',
+	'group-inactive-member' => 'निश्कृय प्रयोगकर्ता',
 );
 
 /** Newari (नेपाल भाषा)
