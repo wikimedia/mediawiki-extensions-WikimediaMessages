@@ -891,7 +891,7 @@ $messages['ay'] = array(
  * @author Vugar 1981
  */
 $messages['az'] = array(
-	'sitesupport' => 'Bağışlar',
+	'sitesupport' => 'Maddi kömək',
 	'nstab-creator' => 'Yaradıcı',
 	'group-arbcom' => 'Arbitraj Komitəsinin üzvləri',
 	'group-autopatrolled' => 'Avtopatrullar',
@@ -1269,6 +1269,8 @@ $messages['bg'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/bg',
 	'sitesupport' => 'Дарения',
 	'tooltip-n-sitesupport' => 'Подкрепете ни',
+	'nstab-creator' => 'Създател',
+	'nstab-institution' => 'Институция',
 	'group-abusefilter' => 'Редактори на филтъра срещу злоупотреби',
 	'group-accountcreator' => 'Създатели на сметки',
 	'group-arbcom' => 'Членове на арбитражната комисия',
@@ -3006,8 +3008,7 @@ Véase <a href="http://wikimediafoundation.org/wiki/Términos_de_Uso">los térmi
 	'wikimedia-copyrightwarning' => 'Guardando el texto, acepta ceder de manera irrevocable sus contribuciones bajo la [http://creativecommons.org/licenses/by-sa/3.0/deed.es Licencia Creative Commons Atribución/Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Usted acepta a ser citado, como mínimo, por medio de un hipervínculo o URL a la página donde ha contribuido.
 Véase los [http://wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] para más detalles.',
-	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí.
-Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [http://wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
+	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí. Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [http://wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
 );
 
 /** Estonian (Eesti)
@@ -5750,77 +5751,8 @@ $messages['kk-cyrl'] = array(
 	'group-Staff' => 'Басқарма',
 	'group-sysadmin-member' => 'жүйе әкімшісі',
 	'group-Staff-member' => 'Басқарма мүшесі',
-	'wikimedia-copyrightwarning' => '<div id="plainlinks" style="background: #fafff9; margin-top:1px;border:1px solid darkgreen;padding:3px; font-size: 97%">
-<span style="border-bottom:1px dotted gray; cursor:help" title="Өңдеу терезесіне кірістіру үшін таңбаны не белгілемені шертіңіз">Тез орнату:</span> 
-<span style="font-size:1.3em">&nbsp;<charinsert>«+»</charinsert>
-&nbsp;<charinsert>„+“</charinsert>
-&nbsp;<charinsert>—</charinsert></span>
-<span style="font-size: 150%">&nbsp;<charinsert>·</charinsert></span>
-<span style="font-size: 110%">&nbsp;<charinsert>&#123;{+}}</charinsert>
-&nbsp;<charinsert>{{{+}}}</charinsert>
-&nbsp;<charinsert>[[+]]</charinsert>
-&nbsp;<charinsert>[+]</charinsert>
-&nbsp;<charinsert><nowiki>[[</nowiki>|+]]</charinsert>
-&nbsp;<charinsert>&#123;{+|}}</charinsert></span>
-&nbsp;<charinsert><nowiki>&</nowiki>nbsp;</charinsert>
-&nbsp;<charinsert><nowiki>#АЙДАУ [[</nowiki>+]]</charinsert>
-&nbsp;<charinsert>[[Санат:+]]</charinsert>
-&nbsp;<charinsert>&#123;{DEFAULTSORT:+}}</charinsert>
-&nbsp;<charinsert>[[Қатысушы:+]]</charinsert>
-&nbsp;<charinsert>&#123;{u|+}}</charinsert>
-&nbsp;<charinsert>__NOTOC__ __TOC__ __FORCETOC__</charinsert>
-&nbsp;<charinsert>&#123;{commons|+}} &#123;{commonscat|+}}</charinsert>
-&nbsp;<charinsert>[[en:+]] [[ru:+]]</charinsert>
-
-Тегтер:
-&nbsp;<charinsert><>+</></charinsert>
-&nbsp;<charinsert><nowiki><!-- + --></nowiki></charinsert>&nbsp;&nbsp;·
-&nbsp;<charinsert><u>+</u></charinsert>
-&nbsp;<charinsert><s>+</s></charinsert>
-&nbsp;<charinsert><tt>+</tt></charinsert>
-&nbsp;<charinsert><blockquote>+</blockquote></charinsert>
-&nbsp;<charinsert><math>~+</math></charinsert>
-&nbsp;<charinsert><code>+</code></charinsert>
-&nbsp;<charinsert><pre>+</pre></charinsert>&nbsp;&nbsp;·
-&nbsp;<charinsert><includeonly>+</includeonly></charinsert>
-&nbsp;<charinsert>noinclude>+</noinclude></charinsert>
-
-Бөлімдер:
-&nbsp;<charinsert><nowiki>== Түсініктемелер ==</nowiki></charinsert>&nbsp;&nbsp;·
-&nbsp;<charinsert><nowiki>== Пайдаланған әдебиет ==&#10;<references/></nowiki></charinsert>&nbsp;&nbsp;·
-&nbsp;<charinsert><nowiki>== Тағы қараңыз ==</nowiki></charinsert>&nbsp;&nbsp;·
-&nbsp;<charinsert><nowiki>== Сыртқы сілтемелер ==</nowiki></charinsert>
-
-Үлгілер:
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{бастама}}</nowiki></charinsert></span> 
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{уики}}</nowiki></charinsert></span>&nbsp;&nbsp;·
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{айрық}}</nowiki></charinsert></span>
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{мағына|+}}</nowiki></charinsert></span>&nbsp;&nbsp;·
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{жедел жою|+}}</nowiki></charinsert></span>&nbsp;&nbsp;·
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{main|+}}</nowiki></charinsert></span>
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{cat main}}</nowiki></charinsert></span>&nbsp;&nbsp;·
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{clear}}</nowiki></charinsert></span> 
-&nbsp;<charinsert>&#123;{tl|+}}</charinsert>&nbsp;&nbsp;·
-&nbsp;<charinsert>&#123;{ref-en}}</charinsert>
-&nbsp;<charinsert>&#123;{ref-ru}}</charinsert>
-&nbsp;<charinsert>&#123;{reflist}}</charinsert>&nbsp;&nbsp;·
-&nbsp;<span style="white-space:nowrap"><charinsert><nowiki>&#123;{start citation}}+&#123;{end citation|қайнары=}}</nowiki></charinsert></span>&nbsp;&nbsp;·
-&nbsp;<charinsert>&#123;{lang-la|+}}</charinsert>
-&nbsp;<charinsert>&#123;{lang-el|+}}</charinsert>
-&nbsp;<charinsert>&#123;{lang-ar|+}}</charinsert>
-&nbsp;<charinsert>&#123;{lang-en|+}}</charinsert>
-&nbsp;<charinsert>&#123;{lang-ru|+}}</charinsert>
-
-Таңбалар:<span style="font-size: 110%">
-&nbsp;<charinsert>– — ‘+’ “+” ~ # @ § ¶ № • · ← ↖ ↑ ↗ → ↘ ↓ ↙ ↔ ↕ ¡ ¿ \\ ½ ¼ ¾ ≈ ≠ ±  − × ÷ ° ^ ¹ ² ³ € £ ¥ $ ¢ † © ® ™</charinsert></span>
-
-Грек:<span style="font-size: 110%">
-&nbsp;<charinsert> Α α Β β Γ γ Δ δ Ε ε Ζ ζ Η η Θ θ Ι Ϊ ι ϊ Κ κ Λ λ Μ μ Ν ν Ξ ξ Ο ο Π π Ρ ρ Σ σ ς Τ τ Υ Ϋ υ ϋ Φ φ Χ χ Ψ ψ Ω ω </charinsert></span>
-&nbsp;&nbsp;Қазақ:<span style="font-size: 110%">
-&nbsp;<charinsert> Ә ә І і Ң ң Ғ ғ Ү ү Ұ ұ Қ қ Ө ө Һ һ </charinsert></span>
-</div>
-\'\'\'[[Уикипедия:Авторлық құқықтар|Авторлық құқықтарын]]\'\'\' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны [[Уикипедия:Сынаушылық|талаптарға сай]] болуы керек. \'\'«Бетті сақта!»\'\' батырмасын басқаныңыз — үлесіңізді [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [http://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
-[http://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].',
+	'wikimedia-copyrightwarning' => "'''[[Уикипедия:Авторлық құқықтар|Авторлық құқықтарын]]''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны [[Уикипедия:Сынаушылық|талаптарға сай]] болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [http://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
+[http://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].",
 );
 
 /** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
@@ -7327,6 +7259,7 @@ $messages['myv'] = array(
 	'group-editinterface' => 'Интерчамань витнийть-петнийть',
 	'group-steward-member' => 'туростор',
 	'group-editinterface-member' => 'интерчамань витний-петний',
+	'grouppage-steward' => 'm:Туросторт',
 );
 
 /** Mazanderani (مازِرونی)
@@ -8976,6 +8909,7 @@ Vide pure [http://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] 
  * @author Aleksandrit
  * @author AlexSm
  * @author Crazymadlover
+ * @author Dim Grits
  * @author Ferrer
  * @author Flrn
  * @author HalanTul
@@ -9078,8 +9012,15 @@ $messages['ru'] = array(
 	'group-Ombudsmen-member' => 'омбудсмен',
 	'group-Staff-member' => 'сотрудник',
 	'grouppage-steward' => 'm:Stewards/ru',
+	'grouppage-sysadmin' => 'm:System administrators',
+	'grouppage-Global_bot' => 'm:Global bot',
+	'grouppage-Global_rollback' => 'm:Global rollback',
+	'grouppage-Global_sysops' => 'm:Global sysops',
+	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
+	'grouppage-Staff' => 'Foundation:Staff',
 	'group-coder' => 'Программисты',
 	'group-coder-member' => 'программист',
+	'grouppage-coder' => 'Project:Coder',
 	'group-inactive' => 'Неактивные участники',
 	'group-inactive-member' => 'неактивный участник',
 	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
@@ -11373,6 +11314,7 @@ $messages['ug-latn'] = array(
  * @author AS
  * @author Ahonc
  * @author Alex Khimich
+ * @author Dim Grits
  * @author Ickis
  * @author NickK
  * @author Prima klasy4na
@@ -11471,8 +11413,15 @@ $messages['uk'] = array(
 	'group-Ombudsmen-member' => 'омбудсмен',
 	'group-Staff-member' => 'співробітник',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
+	'grouppage-sysadmin' => 'm:System administrators',
+	'grouppage-Global_bot' => 'm:Global bot',
+	'grouppage-Global_rollback' => 'm:Global rollback',
+	'grouppage-Global_sysops' => 'm:Global sysops',
+	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
+	'grouppage-Staff' => 'Foundation:Staff',
 	'group-coder' => 'Програмісти',
 	'group-coder-member' => 'програміст',
+	'grouppage-coder' => 'Project:Coder',
 	'group-inactive' => 'Неактивні користувачі',
 	'group-inactive-member' => 'неактивний користувач',
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
