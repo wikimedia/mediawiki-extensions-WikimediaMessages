@@ -2242,6 +2242,7 @@ $messages['da'] = array(
 	'group-flood-member' => 'bot-bruger',
 	'group-founder-member' => 'Grundlægger',
 	'group-import-member' => 'Importør',
+	'group-interface_editors-member' => 'brugerfladeændrer',
 	'group-ipblock-exempt-member' => 'IP-blokeringsundtagelse',
 	'group-OTRS-member-member' => 'OTRS-medlem',
 	'group-patroller-member' => 'patruljant',
@@ -2258,6 +2259,7 @@ $messages['da'] = array(
 	'grouppage-flood' => '{{ns:project}}:Botbrugere',
 	'grouppage-founder' => '{{ns:project}}:Grundlæggere',
 	'grouppage-import' => '{{ns:project}}:Importører',
+	'grouppage-interface_editors' => '{{ns:project}}:Brugerfladeændrere',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-blokeringsundtagelser',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS-medlemmer',
 	'grouppage-researcher' => '{{ns:project}}:Forskere',
@@ -7426,11 +7428,12 @@ A'j de tekste niet zelf eschreven hebben, dan mut de biedrage beschikbaor ween o
 );
 
 /** Nepali (नेपाली)
+ * @author Bhawani Gautam
  * @author सरोज कुमार ढकाल
  */
 $messages['ne'] = array(
 	'sitesupport' => 'चन्दा',
-	'tooltip-n-sitesupport' => 'हामीलाई समर्थन गर्नुहोस् \\',
+	'tooltip-n-sitesupport' => 'हामीलाई समर्थन गर्नुहोस्',
 	'nstab-creator' => 'सर्जक',
 	'nstab-institution' => 'संस्था',
 	'nstab-sequence' => 'क्रममा',
@@ -7441,23 +7444,23 @@ $messages['ne'] = array(
 	'group-bigexport' => 'ठूला निर्यातकर्ताहरु',
 	'group-confirmed' => 'निश्चित गरिएका प्रयोगकर्ता',
 	'group-editprotected' => 'सुरक्षित पृष्ठ सम्पादकहरु',
-	'group-eliminator' => 'हटउनेहरु',
+	'group-eliminator' => 'हटाउनेहरु',
 	'group-filemover' => 'फाइल सार्नेहरु',
 	'group-flood' => 'बोट प्रयोगकर्ताहरु',
-	'group-founder' => 'संस्थापनकर्ताहरु',
+	'group-founder' => 'संस्थापकहरु',
 	'group-Image-reviewer' => 'तस्बिर पुनरावलोकनकर्ताहरु',
 	'group-import' => 'आयातकर्ताहरु',
 	'group-interface_editors' => 'अन्तरमोहडा सम्पादकहरु',
 	'group-ipblock-exempt' => 'IP रोक माफीहरु',
 	'group-patroller' => 'गस्तीकर्ताहरु',
 	'group-researcher' => 'खोजकर्ताहरु',
-	'group-rollbacker' => 'पूर्वरुपमा पर्काउनेहरु',
+	'group-rollbacker' => 'पूर्वरुपमा फर्काउनेहरु',
 	'group-transwiki' => 'ट्रान्स विकि आयातकर्ताहरु',
-	'group-trusted' => 'विश्वाशीला प्रयोगकर्ताहरु',
+	'group-trusted' => 'विश्वसनीय प्रयोगकर्ताहरु',
 	'group-coder' => 'कोडलेख्ने व्यक्तिहरु',
 	'group-coder-member' => 'कोडलेख्ने व्यक्ति',
-	'group-inactive' => 'निश्कृय प्रयोगकर्ताहरु',
-	'group-inactive-member' => 'निश्कृय प्रयोगकर्ता',
+	'group-inactive' => 'निष्क्रिय प्रयोगकर्ताहरु',
+	'group-inactive-member' => 'निष्क्रिय प्रयोगकर्ता',
 );
 
 /** Newari (नेपाल भाषा)
@@ -7891,6 +7894,7 @@ $messages['oc'] = array(
 $messages['or'] = array(
 	'sitesupport' => 'ଦାନ',
 	'nstab-creator' => 'ସ୍ରଷ୍ଟା',
+	'nstab-institution' => 'ପ୍ରତିଷ୍ଠାନ',
 	'nstab-sequence' => 'ଅନୁକ୍ରମ',
 	'group-sysadmin' => 'ସିସ୍ଟମ ପରିଛା',
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="http://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
