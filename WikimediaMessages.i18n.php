@@ -7896,7 +7896,7 @@ $messages['or'] = array(
 	'nstab-creator' => 'ସ୍ରଷ୍ଟା',
 	'nstab-institution' => 'ପ୍ରତିଷ୍ଠାନ',
 	'nstab-sequence' => 'ଅନୁକ୍ରମ',
-	'group-sysadmin' => 'ସିସ୍ଟମ ପରିଛା',
+	'group-sysadmin' => 'ସିଷ୍ଟମ ପରିଛା',
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="http://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
 ଅଧିକ ଜାଣିବା ପାଇଁ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
