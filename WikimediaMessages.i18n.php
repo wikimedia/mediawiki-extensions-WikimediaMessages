@@ -7896,6 +7896,9 @@ $messages['or'] = array(
 	'nstab-creator' => 'ସ୍ରଷ୍ଟା',
 	'nstab-institution' => 'ପ୍ରତିଷ୍ଠାନ',
 	'nstab-sequence' => 'ଅନୁକ୍ରମ',
+	'group-rollbacker' => 'ରୋଲବ୍ୟାକରସମୂହ',
+	'group-rollbacker-member' => 'ରୋଲବ୍ୟାକର',
+	'grouppage-rollbacker' => '{{ns:project}}:ରୋଲବ୍ୟାକରସମୂହ',
 	'group-sysadmin' => 'ସିଷ୍ଟମ ପରିଛା',
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="http://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
