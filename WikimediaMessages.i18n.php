@@ -7896,6 +7896,8 @@ $messages['oc'] = array(
  * @author Psubhashish
  */
 $messages['or'] = array(
+	'wikimediamessages-desc' => 'ଉଇକିମିଡ଼ିଆ ନିର୍ଦ୍ଦିଷ୍ଟ ସନ୍ଦେଶ',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'ଦାନ',
 	'tooltip-n-sitesupport' => 'ଆମ୍ଭଙ୍କୁ ସଜହୋଗ କରନ୍ତୁ',
 	'specialpages-group-contribution' => 'ଦାତା/ଅର୍ଥ ସଙ୍ଗ୍ରହକାରୀ',
@@ -7947,6 +7949,18 @@ $messages['or'] = array(
 	'group-rollbacker-member' => 'ରୋଲବ୍ୟାକର',
 	'group-transwiki-member' => 'ଭିତରଉଇକି ଆମଦାନୀକାର',
 	'group-trusted-member' => 'ଭରସାଯୋଗ୍ୟ ସଭ୍ୟ',
+	'grouppage-abusefilter' => '{{ns:project}}:ଅବ୍ୟବହାର ଛଣା ସମ୍ପାଦକଗଣ',
+	'grouppage-accountcreator' => '{{ns:project}}:ଖାତା ଗଢ଼ାଳି',
+	'grouppage-arbcom' => '{{ns:project}}:ମଧ୍ୟସ୍ଥତା ସମିତି ସଭ୍ୟଗଣ',
+	'grouppage-autopatrolled' => '{{ns:project}}:ଛାଏଁ ପହରାଦାରଗଣ',
+	'grouppage-autoreviewer' => '{{ns:project}}:ଛାଏଁ ସମାଲୋଚକଗଣ',
+	'grouppage-bigexport' => '{{ns:project}}:ବଡ଼ ରପ୍ତାନୀକାର',
+	'grouppage-confirmed' => '{{ns:project}}:ଥୟ କରା ସଭ୍ୟ',
+	'grouppage-editprotected' => '{{ns:project}}:କିଳାଯାଇଥିବା ପୃଷ୍ଠା ସମ୍ପାଦକଗଣ',
+	'grouppage-eliminator' => '{{ns:project}}:ଚୟନକାର',
+	'grouppage-filemover' => '{{ns:project}}:ଘୁଞ୍ଚାଇବା ଲୋକେ',
+	'grouppage-flood' => '{{ns:project}}:ସ୍ଵୟଂଚାଳିତ ସଭ୍ୟଗଣ',
+	'grouppage-founder' => '{{ns:project}}:ସଂସ୍ଥାପକ',
 	'grouppage-rollbacker' => '{{ns:project}}:ରୋଲବ୍ୟାକରସମୂହ',
 	'group-sysadmin' => 'ସିଷ୍ଟମ ପରିଛା',
 	'group-Staff' => 'କର୍ମଚାରି',
