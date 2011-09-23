@@ -3245,6 +3245,7 @@ $messages['ext'] = array(
  * @author Mjbmr
  * @author Sahim
  * @author Wayiran
+ * @author ZxxZxxZ
  */
 $messages['fa'] = array(
 	'wikimediamessages-desc' => 'پیغام‌های مخصوص ویکی‌مدیا',
@@ -3320,7 +3321,7 @@ $messages['fa'] = array(
 	'grouppage-researcher' => '{{ns:project}}:پژوهشگرها',
 	'grouppage-rollbacker' => '{{ns:project}}:واگردانان',
 	'grouppage-transwiki' => '{{ns:project}}:واردکنندگان تراویکی',
-	'grouppage-trusted' => '{{ns:project}}:کاربرهای تأیید شده',
+	'grouppage-trusted' => '{{ns:project}}:کاربران تأییدشده',
 	'group-steward' => 'ویکیبدان',
 	'group-sysadmin' => 'مدیران سامانه',
 	'group-editinterface' => 'ویرایش‌گران رابط',
@@ -3345,11 +3346,11 @@ $messages['fa'] = array(
 	'shared-repo-name-shared' => 'ویکی‌انبار',
 	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="http://creativecommons.org/licenses/by-sa/3.0/">مجوز Creative Commons Attribution/Share-Alike </a> در دسترس است؛ قوانین اضافه‌ای نیز ممکن است اعمال شوند.
 برای جزئیات بیشتر <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.',
-	'wikimedia-copyrightwarning' => 'با ذخیره‌سازی شما قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
+	'wikimedia-copyrightwarning' => 'شما با ذخیره‌کردن قبول می‌کنید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [http://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما موافقت می‌کنید که مصرف‌کنندگان ثانوی، دست‌کم از طریق گذاشتن ابرپیوند یا درج نشانی صفحه‌ای که در آن مشارکت می‌کنید، از شما یاد کنند.
-برای دیدن جزئیات [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
-	'wikimedia-editpage-tos-summary' => 'اگر نمی‌خواهید که نوشته شما آزادانه ویرایش یا منتشر شود، لطفاً آن را در اینجا ارسال نکنید.
-اگر شما متنی را خود ننوشته‌اید، باید این متن مطابق اجازه‌نامه‌ای که با [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] سازگاری دارد موجود باشد، و شما با تبعیت از هر گونه موارد قید شده در اجازه‌نامه‌های مرتبط موافق باشید.',
+برای جزئیات بیشتر [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
+	'wikimedia-editpage-tos-summary' => 'اگر نمی‌خواهید نوشتهٔ شما آزادانه ویرایش یا منتشر شود، لطفاً آن را اینجا ارسال نکنید.
+اگر متنی را خودتان ننوشته‌اید، باید این متن مطابق اجازه‌نامه‌ای که با [http://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] سازگاری دارد موجود باشد، و شما با تبعیت از هر گونه موارد قید شده در اجازه‌نامه‌های مرتبط موافق باشید.',
 );
 
 /** Fulah (Fulfulde) */
@@ -7963,6 +7964,7 @@ $messages['or'] = array(
 	'grouppage-founder' => '{{ns:project}}:ସଂସ୍ଥାପକ',
 	'grouppage-rollbacker' => '{{ns:project}}:ରୋଲବ୍ୟାକରସମୂହ',
 	'group-sysadmin' => 'ସିଷ୍ଟମ ପରିଛା',
+	'group-editinterface' => 'ଇଣ୍ଟରଫେସ ସମ୍ପାଦକଗଣ',
 	'group-Staff' => 'କର୍ମଚାରି',
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="http://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
