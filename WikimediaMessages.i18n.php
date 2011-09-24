@@ -6307,6 +6307,10 @@ $messages['li'] = array(
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Óngersteun ós financieel',
 	'specialpages-group-contribution' => 'Gifte/Fónswèrvingsaksie',
+	'nstab-creator' => 'Sjriever',
+	'nstab-institution' => 'Insjtèlling',
+	'nstab-sequence' => 'Volgorde',
+	'nstab-timedtext' => 'Óngertitel',
 	'group-abusefilter' => 'misbroekfilterredaktäörs',
 	'group-accountcreator' => 'Gebroekeraanmakers',
 	'group-arbcom' => 'Arbitraasjkommisjelede',
@@ -7892,6 +7896,7 @@ $messages['oc'] = array(
 );
 
 /** Oriya (ଓଡ଼ିଆ)
+ * @author Ansumang
  * @author Jose77
  * @author Odisha1
  * @author Psubhashish
@@ -7962,10 +7967,25 @@ $messages['or'] = array(
 	'grouppage-filemover' => '{{ns:project}}:ଘୁଞ୍ଚାଇବା ଲୋକେ',
 	'grouppage-flood' => '{{ns:project}}:ସ୍ଵୟଂଚାଳିତ ସଭ୍ୟଗଣ',
 	'grouppage-founder' => '{{ns:project}}:ସଂସ୍ଥାପକ',
+	'grouppage-import' => '{{ns:project}}:ଆୟାତକାରୀ',
+	'grouppage-interface_editors' => '{{ns:project}}:ଇନ୍ଟରଫେସ ସମ୍ପାଦନକାରୀ',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP ଅଟକ ଛାଡ଼',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS ସଦସ୍ୟ',
+	'grouppage-researcher' => '{{ns:project}}:ଗବେଷଣାକାରୀ',
 	'grouppage-rollbacker' => '{{ns:project}}:ରୋଲବ୍ୟାକରସମୂହ',
+	'grouppage-transwiki' => '{{ns:project}}:ଟ୍ରାନ୍ସଉଇକି ଆୟାତକାରୀ',
+	'grouppage-trusted' => '{{ns:project}}:ଭରସାଯୋଗ୍ୟ ସଦସ୍ୟ',
+	'group-steward' => 'ଷ୍ଟିୱାର୍ଡ୍ସ',
 	'group-sysadmin' => 'ସିଷ୍ଟମ ପରିଛା',
 	'group-editinterface' => 'ଇଣ୍ଟରଫେସ ସମ୍ପାଦକଗଣ',
 	'group-Staff' => 'କର୍ମଚାରି',
+	'group-steward-member' => 'ଷ୍ଟିୱାର୍ଡ',
+	'group-sysadmin-member' => 'ସିଷ୍ଟମ ପରିଛା',
+	'group-editinterface-member' => 'ଇଣ୍ଟରଫେସ ସମ୍ପାଦକ',
+	'group-Staff-member' => 'କର୍ମଚାରି',
+	'group-inactive' => 'ଅଚଳ ସଭ୍ୟଗଣ',
+	'group-inactive-member' => 'ଅଚଳ ସଭ୍ୟ',
+	'grouppage-inactive' => '{{ns:project}}:ଅଚଳ ସଦସ୍ୟଗଣ',
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="http://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
 ଅଧିକ ଜାଣିବା ପାଇଁ <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
