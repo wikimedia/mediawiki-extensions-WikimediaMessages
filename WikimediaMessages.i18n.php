@@ -2413,7 +2413,7 @@ $messages['de'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
 	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
 Einzelheiten sind in den <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrieben.',
-	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der [http://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzierst du deine Bearbeitung unwiderruflich unter der Lizenz [http://creativecommons.org/licenses/by-sa/3.0/deed.de Creative Commons „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder einer URL zur Seite, die du bearbeitest, erfolgen darf.
 Einzelheiten sind in den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] beschrieben.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
@@ -2421,12 +2421,13 @@ Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimedi
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
+ * @author Kghbln
  * @author Raimond Spekking
  * @author Umherirrender
  */
 $messages['de-formal'] = array(
 	'tooltip-n-sitesupport' => 'Unterstützen Sie uns',
-	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzieren Sie Ihre Bearbeitung unwiderruflich unter die [http://creativecommons.org/licenses/by-sa/3.0/ „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Mit dem Speichern lizenzieren Sie Ihre Bearbeitung unwiderruflich unter die Lizenz [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [http://www.gnu.org/copyleft/fdl.html GFDL].
 Sie stimmen zu, dass eine Weiterverwendung mindestens durch durch einen Hyperlink oder einer URL zur Seite, die Sie bearbeiten, erfolgen darf.
 Details sind den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] zu entnehmen.',
 	'wikimedia-editpage-tos-summary' => 'Wenn Sie nicht möchten, dass Ihr Text weiterbearbeitet und weiterverbreitet wird, dann speichern Sie ihn nicht.
