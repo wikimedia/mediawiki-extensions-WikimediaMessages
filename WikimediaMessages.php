@@ -27,7 +27,7 @@ include_once ( $dir .'WikimediaGrammarForms.php' );
 
 function wfSetupWikimediaMessages() {
 	global $wgRightsUrl, $wgHooks;
-	if( $wgRightsUrl == 'http://creativecommons.org/licenses/by-sa/3.0/' ) {
+	if( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 		// Override with Wikimedia's site-specific copyright message defaults
 		// with the CC/GFDL semi-dual license fun!
 		$wgHooks['SkinCopyrightFooter'][] = 'efWikimediaSkinCopyrightFooter';
