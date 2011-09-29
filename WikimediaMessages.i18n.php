@@ -5752,6 +5752,7 @@ $messages['kk-arab'] = array(
  */
 $messages['kk-cyrl'] = array(
 	'sitesupport' => 'Демеушілік',
+	'tooltip-n-sitesupport' => 'Демеу беріңіз',
 	'group-import' => 'Сырттан алушылар',
 	'group-import-member' => 'сырттан алушы',
 	'grouppage-accountcreator' => '{{ns:project}}:Тіркелгі жасаушылар',
