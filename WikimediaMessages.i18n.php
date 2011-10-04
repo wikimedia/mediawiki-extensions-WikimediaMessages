@@ -821,6 +821,8 @@ $messages['as'] = array(
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
 	'group-Staff' => 'কৰ্মীবৃন্দ',
 	'group-Staff-member' => 'কৰ্মচাৰী',
+	'group-inactive' => 'নিস্ক্ৰিয় সদস্যসকল',
+	'group-inactive-member' => 'নিস্ক্ৰিয় সদস্য',
 );
 
 /** Asturian (Asturianu)
