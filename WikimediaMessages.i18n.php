@@ -158,6 +158,9 @@ You agree to be credited by re-users, at minimum, through a hyperlink or URL to 
 See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
 	'wikimedia-editpage-tos-summary' => 'If you do not want your writing to be edited and redistributed at will, then do not submit it here.
 If you did not write this yourself, it must be available under terms consistent with the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.',
+
+	# Custom message for enwiki to stop from deleting the mainpage
+	'cant-delete-main-page' => "You can't delete or move the main page.",
 );
 
 /** Message documentation (Message documentation)
