@@ -2423,6 +2423,7 @@ Du stimmst zu, dass eine Weiterverwendung mindestens durch einen Hyperlink oder 
 Einzelheiten sind in den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] beschrieben.',
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
 Falls du den Text nicht selbst verfasst hast, muss er unter den [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
+	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
@@ -3492,6 +3493,7 @@ $messages['fo'] = array(
 /** French (Français)
  * @author Crochet.david
  * @author Fulup
+ * @author Gomoko
  * @author Grondin
  * @author Guillom
  * @author Hercule
@@ -3612,6 +3614,7 @@ $messages['fr'] = array(
 	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité - partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="http://wikimediafoundation.org/wiki/conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
 	'wikimedia-copyrightwarning' => 'En cliquant sur « {{int:savearticle}} », vous acceptez de placer irrévocablement votre contribution sous [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution partage à l’identique 3.0] et [http://www.gnu.org/copyleft/fdl.html GFDL]. Vous acceptez d’être crédité par les ré-utilisateurs au minimum via un hyperlien ou une URL vers l’article auquel vous contribuez. Voyez les [http://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation] pour plus de détails.',
 	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [http://wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
+	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 );
 
 /** Cajun French (Français cadien)
@@ -4147,6 +4150,7 @@ $messages['gl'] = array(
 	'wikimedia-copyright' => 'Todo o texto está dispoñible baixo a <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.gl">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pódense aplicar termos adicionais. Consulte os <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">termos de uso</a> para obter máis información.',
 	'wikimedia-copyrightwarning' => 'Ao gardar acepta liberar irrevogablemente a súa contribución baixo a [http://creativecommons.org/licenses/by-sa/3.0/deed.gl licenza Creative Commons recoñecemento compartir igual 3.0] e a [http://www.gnu.org/copyleft/fdl.html GFDL]. Está de acordo en acreditar a reutilización por parte doutros, como mínimo, por medio dunha hiperligazón ou URL ao artigo ao que está contribuíndo. Consulte os [http://wikimediafoundation.org/wiki/Terms_of_Use termos de uso] para obter máis información.',
 	'wikimedia-editpage-tos-summary' => 'Se non quere que o seu texto sexa editado e redistribuído, non o envíe. Se non escribiu isto, este texto debería estar dispoñible baixo termos compatibles cos [http://wikimediafoundation.org/wiki/Terms_of_Use termos de uso] e vostede debe estar de acordo en seguir todas as esixencias das licenzas.',
+	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
 );
 
 /** Gilaki (گیلکی)
@@ -6126,6 +6130,7 @@ $messages['ksh'] = array(
 	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">Lizänz: <i lang="de">Creative Commons Attribution/Share-Alike</i></a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="http://wikimediafoundation.org/wiki/Nutzungsbedingungen">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
 	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [http://creativecommons.org/licenses/by-sa/3.0/deed.de Lizänz <i lang="de">Creative Commons Attribution/Share-Alike</i> 3.0] un de [http://www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
 	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [http://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
+	'cant-delete-main-page' => 'Do kanns de Houpsigg nit ümdäufe udder fott schmieße.',
 );
 
 /** Kurdish (Latin script) (‪Kurdî (latînî)‬)
@@ -6868,6 +6873,7 @@ $messages['mk'] = array(
 Повеќе информации ќе добиете на страницата [http://wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0 Услови на употреба].',
 	'wikimedia-editpage-tos-summary' => 'Доколку не сакате Вашиот текст да биде слободно уредуван и распространуван, тогаш не поднесувајте го овде.
 Ако Вие не сте автор на текстов, тогаш тој мора да биде достапен под услови складни на [http://wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0 Условите на употреба], а Вие се согласувате дека ќе се придржувате до сите услови за лиценцирање.',
+	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 );
 
 /** Malayalam (മലയാളം)
@@ -7181,6 +7187,7 @@ Anda bersetuju untuk dikreditkan oleh pengguna semula, secara minimum, melalui p
 Lihat [http://wikimediafoundation.org/wiki/Terms_of_Use Terma Penggunaan] untuk perincian.',
 	'wikimedia-editpage-tos-summary' => 'Jika anda tidak mahu tulisan anda disunting dan diedarkan secara bebas oleh orang lain, maka jangan kirimkannya di sini.
 Jika anda tidak menulisnya sendiri, ia mestilah dapat diperolehi di bawah syarat yang sejajar dengan [http://wikimediafoundation.org/wiki/Terms_of_Use Terma Penggunaan], dan anda bersetuju mengikuti sebarang keperluan pelesenan yang berkaitan.',
+	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
 );
 
 /** Maltese (Malti)
@@ -8419,6 +8426,7 @@ You agree to be credited by re-users, at minimum, through a hyperlink or URL to 
 See the [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
 	'wikimedia-editpage-tos-summary' => 'اگر تسی اے چاندے او کے تواڈی لکھائی نوں چھیڑیا یا دوجیاں تھاواں تے نا لایا جاۓ تے ایتھے نا لکھو۔
 اگر تسی اے آپے نئیں لکھیا تے فیر اس لکھائی نوں [http://wikimediafoundation.org/wiki/Terms_of_Use ورتن دیاں شرطاں]، ایناں شرطاں نوں پورا کرنا چائیدا اے۔ تسی وی باقی ساریاں لائسنس آلے کم پورے کرن دی حامی پرو۔',
+	'cant-delete-main-page' => 'تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او',
 );
 
 /** Pontic (Ποντιακά)
@@ -8852,7 +8860,7 @@ $messages['rmy'] = array(
  * @author Strainu
  */
 $messages['ro'] = array(
-	'wikimediamessages-desc' => 'Mesaje specifice Wikimedia',
+	'wikimediamessages-desc' => 'Mesaje specifice Wikimediei',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/ro?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Donații',
 	'tooltip-n-sitesupport' => 'Sprijiniți-ne',
@@ -8955,6 +8963,7 @@ Sunteți de acord să fiți creditat de către reutilizator, cel puțin, printr-
 Vedeți [http://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] pentru detalii.',
 	'wikimedia-editpage-tos-summary' => 'Dacă nu doriți ca textul dumneavoastră să fie modificat și redistribuit, atunci nu îl trimiteți aici.
 Dacă nu l-ați scris dumneavoastră, acesta trebuie să fie disponibil în concordanță cu [http://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare], și sunteți de acord să urmați orice altă cerință de licențiere.',
+	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 );
 
 /** Tarandíne (Tarandíne)
@@ -9191,6 +9200,7 @@ $messages['ru'] = array(
 	'wikimedia-copyrightwarning' => 'Сохраняя свои изменения, вы соглашаетесь на их неотзывную публикацию по лицензиям [http://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] и [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы соглашаетесь, что при использовании страницы, в которую вы вносили изменения, на вас будут ссылаться, как минимум, посредством гиперссылки или URL на соответствующую страницу. Подробнее см. [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования].',
 	'wikimedia-editpage-tos-summary' => 'Если вы не хотите, чтобы ваши тексты свободно редактировались и распространялись любым желающим, не помещайте их сюда.
 Если вы не являетесь автором размещаемого текста, то он должен быть доступен на условиях, совместимых с [http://wikimediafoundation.org/wiki/Terms_of_Use/ru Условиями использования], и вы соглашаетесь следовать всем соответствующим требованиям лицензии.',
+	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 );
 
 /** Rusyn (Русиньскый)
@@ -9911,6 +9921,7 @@ Strinjate se, da se, ob morebitni ponovni uporabi prispevka, navede vsaj povezav
 Glej [http://wikimediafoundation.org/wiki/Terms_of_Use Pogoje uporabe] za podrobnosti.',
 	'wikimedia-editpage-tos-summary' => 'Če ne želite, da so vaši prispevki kadarkoli preurejeni ali redistribuirani, ga ne prispevajte. 
 Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [http://wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe]. Poleg tega s shranjevanjem potrjujete, da upoštevate vse zahteve licence izvirne objave.',
+	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 );
 
 /** Lower Silesian (Schläsch)
@@ -11894,6 +11905,7 @@ $messages['vi'] = array(
 	'wikimedia-copyright' => 'Văn bản được phát hành theo <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.vi">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>; có thể áp dụng điều khoản bổ sung. Xem <a href="http://wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi">Điều khoản Sử dụng</a> để biết thêm chi tiết.',
 	'wikimedia-copyrightwarning' => 'Với việc lưu trang, bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [http://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [http://www.gnu.org/copyleft/fdl.html GFDL]. Bạn đồng ý được ghi công bởi những người tái sử dụng, ở mức tối thiểu là thông qua một siêu liên kết hoặc URL đến trang bạn đang đóng góp vào. Xem [http://wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi Điều khoản Sử dụng] để biết thêm chi tiết.',
 	'wikimedia-editpage-tos-summary' => 'Nếu không muốn những gì bạn viết bị tùy ý chỉnh sửa và tái phân phối, xin đừng đăng nó ở đây. Nếu nội dung đưa vào không phải do chính bạn viết ra, nội dung đó phải được phát hành theo những điều khoản nhất quán với [http://wikimediafoundation.org/wiki/Terms_of_Use Điều khoản Sử dụng], và bạn đồng ý tuân theo các yêu cầu cấp phép bản quyền thích hợp.',
+	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 );
 
 /** Volapük (Volapük)
