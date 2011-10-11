@@ -135,6 +135,12 @@ $messages['en'] = array(
 	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
 	'grouppage-Staff'           => 'Foundation:Staff', # only translate this message to other languages if you have to change it
 
+	# meta.wikimedia.org specific user group
+
+	'group-translationadmin'        => 'Translation administrators',
+	'group-translationadmin-member' => '{{GENDER:$1|translation administrator}}',
+	'grouppage-translationadmin'    => '{{ns:project}}:Translation administrators', # only translate this message to other languages if you have to change it
+
 	# mediawiki.org specific user group
 
 	'group-coder'        => 'Coders',
