@@ -701,6 +701,7 @@ $messages['ang'] = array(
 
 /** Arabic (العربية)
  * @author Aiman titi
+ * @author AwamerT
  * @author Ciphers
  * @author Meno25
  * @author OsamaK
@@ -748,14 +749,14 @@ $messages['ar'] = array(
 	'group-editprotected-member' => 'معدل الصفحات المحمية',
 	'group-eliminator-member' => 'محرر',
 	'group-filemover-member' => 'ناقل ملفات',
-	'group-flood-member' => 'مستخدمو البوت',
+	'group-flood-member' => 'مستخدم البوت',
 	'group-founder-member' => 'مؤسس',
 	'group-Image-reviewer-member' => 'مراجع صور',
 	'group-import-member' => 'مستورد',
 	'group-interface_editors-member' => 'محرّر الواجهة',
 	'group-ipblock-exempt-member' => 'مستثنى من منع الأيبي',
 	'group-OTRS-member-member' => 'عضو أو تي آر إس',
-	'group-patroller-member' => 'مراجع',
+	'group-patroller-member' => 'مدقق',
 	'group-researcher-member' => 'باحث',
 	'group-rollbacker-member' => 'مسترجع',
 	'group-transwiki-member' => 'مستورد عبر الويكي',
@@ -802,11 +803,14 @@ $messages['ar'] = array(
 	'grouppage-Global_sysops' => 'm:Global sysops/ar',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/ar',
 	'grouppage-Staff' => 'Foundation:الطاقم',
+	'group-translationadmin' => 'إداريو الترجمة',
+	'group-translationadmin-member' => '{{GENDER:$1 |إداري الترجمة}}',
+	'grouppage-translationadmin' => '{{ns:project}}: إداريو الترجمة',
 	'group-coder' => 'مكودون',
-	'group-coder-member' => 'مكود',
+	'group-coder-member' => '{{GENDER:$1|مشفر بيانات}}',
 	'grouppage-coder' => 'Project:مكود',
 	'group-inactive' => 'مستخدمون غير نشطين',
-	'group-inactive-member' => 'مستخدم غير نشط',
+	'group-inactive-member' => '{{GENDER:$1|مستخدم غير نشط}}',
 	'grouppage-inactive' => '{{ns:project}}:مستخدمون غير نشطين',
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
 	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="http://creativecommons.org/licenses/by-sa/3.0/">رخصة المُشاع المُبدع نسبة المُصنّف إلى مؤلفه - المشاركة على قدم المساواة</a>.
@@ -817,6 +821,7 @@ $messages['ar'] = array(
 انظر [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.',
 	'wikimedia-editpage-tos-summary' => 'لو أنك لا تريد لكتابتك أن تعدل ويعاد توزيعها، فلا ترسلها هنا.
 لو أنك لم تكتب هذا بنفسك، فيجب أن يكون متوفرا تحت شروط متوافقة مع [http://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام]، وأنت توافق على اتباع أي متطلبات ترخيص متعلقة.',
+	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -6012,8 +6017,9 @@ $messages['kk-cyrl'] = array(
 	'group-Staff' => 'Басқарма',
 	'group-sysadmin-member' => 'жүйе әкімшісі',
 	'group-Staff-member' => 'Басқарма мүшесі',
-	'wikimedia-copyrightwarning' => "'''[[Уикипедия:Авторлық құқықтар|Авторлық құқықтарын]]''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны [[Уикипедия:Сынаушылық|талаптарға сай]] болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [http://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
+	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [http://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
 [http://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].",
+	'wikimedia-editpage-tos-summary' => 'Егер сіз басқалар тарапынан жазуыңыздың түзетілуін не еркін көшірілуін қаламасаңыз, жазуыңызды мында ұсынбауыңыз жөн. Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [http://wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
 /** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
@@ -6511,8 +6517,8 @@ $messages['lb'] = array(
 	'group-Ombudsmen' => 'Ombudsmänner',
 	'group-Staff' => 'Mataarbechter',
 	'group-steward-member' => '{{GENDER:$1|Steward}}',
-	'group-sysadmin-member' => 'Systemadministrateur',
-	'group-editinterface-member' => 'Interface änneren',
+	'group-sysadmin-member' => '{{GENDER:$1|System-Administrateur|System-Administratrice}}',
+	'group-editinterface-member' => '{{GENDER:$1|Benotzer déi den Interface ännere kënnen}}',
 	'group-Global_bot-member' => '{{GENDER:$1|Globale Bot}}',
 	'group-Global_rollback-member' => 'Globalen Zrécksetzer',
 	'group-Global_sysops-member' => '{{GENDER:$1|Globalen Administrateur|Global Administratrice}}',
