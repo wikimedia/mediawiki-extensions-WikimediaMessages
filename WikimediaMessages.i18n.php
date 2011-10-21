@@ -1437,10 +1437,11 @@ $messages['be-tarask'] = array(
 	'group-Staff-member' => 'супрацоўнік',
 	'group-translationadmin' => 'Адміністратары перакладаў',
 	'group-translationadmin-member' => '{{GENDER:$1|адміністратар перакладаў|адміністратарка перакладаў}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Адміністратары перакладаў',
 	'group-coder' => 'Праграмісты',
-	'group-coder-member' => 'праграміст',
+	'group-coder-member' => '{{GENDER:$1|праграміст|праграмістка}}',
 	'group-inactive' => 'Неактыўныя ўдзельнікі',
-	'group-inactive-member' => 'неактыўны ўдзельнік',
+	'group-inactive-member' => '{{GENDER:$1|неактыўны ўдзельнік|неактыўная ўдзельніца}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактыўныя ўдзельнікі',
 	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="http://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="http://wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
 	'wikimedia-copyrightwarning' => 'Захоўваючы свае зьмены, Вы пагаджаецеся на іх апублікаваньне згодна ўмоваў ліцэнзіяў [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што іншыя пры выкарыстаньні гэтага матэрыялу будуць спасылацца на Вашае аўтарства як мінімум праз гіпэрспасылку на старонку, якую Вы рэдагавалі. Падрабязнасьці глядзіце ва [http://wikimediafoundation.org/wiki/Умовы_выкарыстаньня ўмовах выкарыстаньня].',
@@ -9605,9 +9606,9 @@ $messages['rue'] = array(
 	'group-inactive' => 'Неактівны хоснователї',
 	'group-inactive-member' => 'неактівный хоснователь',
 	'grouppage-inactive' => '{{ns:project}}:Неактівны хоснователї',
-	'wikimedia-copyright' => 'Текст є доступный під <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых подмінок. Детайлы найдете на сторінцї <a href="http://wikimediafoundation.org/wiki/Подмінкы_схоснованя">Подмінкы схоснованя</a>.',
-	'wikimedia-copyrightwarning' => 'Уложінём ваш приспевок неодволательно увольнюєте під ліценціями [http://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Заховайте ліценцію&nbsp;3.0] і&nbsp;[http://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[http://wikimediafoundation.org/wiki/Подмінкы_хоснованя подмінках хоснованя].',
-	'wikimedia-editpage-tos-summary' => 'Кідь собі не желате, жебы ваш приспевок быв немилосердно управляный і&nbsp;вольно шыреный, пак го ту не укладайте. Покы не сьте автором тексту, мусить быти доступный за подмінок злучітельных з&nbsp;нашыма [http://wikimediafoundation.org/wiki/Подмнікы_хоснованя подмінками хоснованя] і&nbsp;вы сугласите із вшыткыма прислушныма ліценчныма пожадавками.',
+	'wikimedia-copyright' => 'Текст є доступный під <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href="http://wikimediafoundation.org/wiki/Условія_схоснованя">Условія схоснованя</a>.',
+	'wikimedia-copyrightwarning' => 'Уложінём ваш приспевок неодволательно увольнюєте під ліценціями [http://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Заховайте ліценцію&nbsp;3.0] і&nbsp;[http://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[http://wikimediafoundation.org/wiki/Условія_хоснованя условіях ьоснованя].',
+	'wikimedia-editpage-tos-summary' => 'Кідь собі не желате, жебы ваш приспевок быв немилосердно управляный і&nbsp;вольно шыреный, пак го ту не укладайте. Покы не сьте автором тексту, мусить быти доступный за подмінок злучітельных з&nbsp;нашыма [http://wikimediafoundation.org/wiki/Условія_хоснованя условіями хоснованя] і&nbsp;вы сугласите із вшыткыма прислушныма ліценчныма пожадавками.',
 );
 
 /** Aromanian (Armãneashce)
