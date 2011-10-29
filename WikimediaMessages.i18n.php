@@ -7024,7 +7024,7 @@ $messages['mi'] = array(
 $messages['mk'] = array(
 	'wikimediamessages-desc' => 'Пораки кои се однесуваат на Викимедија',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/mk',
-	'sitesupport' => 'Донации',
+	'sitesupport' => 'Дарување',
 	'tooltip-n-sitesupport' => 'Поддржете нè',
 	'specialpages-group-contribution' => 'Придонеси/Обезб. средства',
 	'nstab-creator' => 'Творец',
@@ -12497,10 +12497,10 @@ $messages['yo'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Ṣe ìgbọ̀wọ́',
 	'tooltip-n-sitesupport' => 'Tíwálẹ́yìn',
-	'group-flood-member' => 'oníṣe bot',
+	'group-flood-member' => '{{GENDER:$1|oníṣe bot}}',
 	'grouppage-founder' => '{{ns:project}}:Àwọn olùdásílẹ̀',
 	'group-sysadmin' => 'Àwọn olùmójútó sístẹ́mù',
-	'group-sysadmin-member' => 'olùmójútó sístẹ́mù',
+	'group-sysadmin-member' => '{{GENDER:$1|olùmójútó sístẹ́mù}}',
 	'wikimedia-copyright' => 'Gbogbo ìkọ wà lábẹ́ <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn tún wà.
 Ẹ wo <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.',
 	'wikimedia-copyrightwarning' => 'Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] àti [http://www.gnu.org/copyleft/fdl.html GFDL].
