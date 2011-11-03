@@ -3083,7 +3083,7 @@ $messages['eo'] = array(
 	'group-abusefilter-member' => '{{GENDER:$1|redaktanto de misuzadaj filtriloj|redaktantino de misuzadaj filtriloj}}',
 	'group-accountcreator-member' => '{{GENDER:$1|Kreanto de kontoj|Kreantino de kontoj}}',
 	'group-arbcom-member' => '{{GENDER:$1|komitatano de arbitracia komitato|komitatanino de arbitracia komitato}}',
-	'group-autopatrolled-member' => 'Aŭtomata patrolanto',
+	'group-autopatrolled-member' => '{{GENDER:$1|Aŭtomata patrolanto|Aŭtomata patrolantino}}',
 	'group-autoreviewer-member' => 'aŭtomata kontrolanto',
 	'group-bigexport-member' => 'granda eksportanto',
 	'group-confirmed-member' => 'konfirmita uzanto',
@@ -3093,7 +3093,7 @@ $messages['eo'] = array(
 	'group-flood-member' => 'robot-uzantoj',
 	'group-founder-member' => 'Fondinto',
 	'group-Image-reviewer-member' => '{{GENDER:$1|bilda kontrolanto|bilda kontrolantino|bilda kontrolanto}}',
-	'group-import-member' => 'Importanto',
+	'group-import-member' => '{{GENDER:$1|Importanto|Importantino}}',
 	'group-interface_editors-member' => 'interfaca redaktanto',
 	'group-ipblock-exempt-member' => 'Ne submetita al IP-forbaro',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS-ano|OTRS-anino|OTRS-ano}}',
@@ -5102,6 +5102,9 @@ $messages['hsb'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|globalny administrator|globalna administratorka}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsnik|ombudsnica}}',
 	'group-Staff-member' => 'sobudźěłaćerjo',
+	'group-translationadmin' => 'Přełožowanscy administratorojo',
+	'group-translationadmin-member' => '{{GENDER:$1|přełožowanski administrator|přełožowanska administratorka}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Přełožowanscy administratorojo',
 	'group-coder' => 'Programowarjo',
 	'group-coder-member' => '{{GENDER:$1|programowar|programowarka}}',
 	'group-inactive' => 'Njeaktiwni wužiwarjo',
@@ -5112,6 +5115,7 @@ $messages['hsb'] = array(
 Sy přezjedny, zo dalši wužiwarjo stronu, kotruž sy přinošował, znajmjeńša přez wotkaz abo URL připóznawaja. 
 Hlej [http://wikimediafoundation.org/wiki/Terms_of_Use wužiwanske wuměnjenja] za podrobnosće.',
 	'wikimedia-editpage-tos-summary' => 'Jeli nochceš, zo so twój tekst po dobrozdaću wobdźěłuje a rozdźěluje, da njewozjew jón tu. Jeli njejsy jón sam spisał, dyrbi pod wuměnjenjemi k dispoziciji stać, kotrež su přezjedne z [http://wikimediafoundation.org/wiki/Terms_of_Use wužiwanskimi wuměnjenjemi] a přihłosuješ so po wotpowědnych licencnych žadanjach měć.',
+	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -8704,7 +8708,7 @@ $messages['pnb'] = array(
 	'group-researcher-member' => 'کھوجی',
 	'group-rollbacker-member' => 'پچھے کرن والے',
 	'group-transwiki-member' => 'ٹرانسوکی امپورٹر',
-	'group-trusted-member' => 'اعتباری ورتن والے',
+	'group-trusted-member' => 'عتباری ورتن والے',
 	'grouppage-abusefilter' => '{{این ایس:ویونت}}:گند نتارا کرن والے',
 	'grouppage-accountcreator' => '{{این ایس:ویونت}}:کھاتہ بنان والے',
 	'grouppage-arbcom' => '{{این ایس:ویونت}}:صلح کراؤ کمیٹی دا سنگی',
