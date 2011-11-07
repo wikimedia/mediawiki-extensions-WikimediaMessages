@@ -3858,7 +3858,7 @@ $messages['fr'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utilisateur inactif|utilisatrice inactive}}',
 	'grouppage-inactive' => '{{ns:project}}:Utilisateurs inactifs',
 	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité - partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="//wikimediafoundation.org/wiki/conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
-	'wikimedia-copyrightwarning' => 'En cliquant sur « {{int:savearticle}} », vous acceptez de placer irrévocablement votre contribution sous [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution partage à l’identique 3.0] et [http://www.gnu.org/copyleft/fdl.html GFDL]. Vous acceptez d’être crédité par les ré-utilisateurs au minimum via un hyperlien ou une URL vers l’article auquel vous contribuez. Voyez les [http://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation] pour plus de détails.',
+	'wikimedia-copyrightwarning' => 'En cliquant sur « {{int:savearticle}} », vous acceptez les [http://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution partage à l’identique 3.0] et [http://www.gnu.org/copyleft/fdl.html GFDL]. Pour la licence Creative Commons, vous acceptez d’être crédité par les ré-utilisateurs au minimum via un hyperlien ou une URL.',
 	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [http://wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 );
@@ -6415,7 +6415,7 @@ $messages['ksh'] = array(
 	'grouppage-Global_rollback' => 'm:Global rollback/ksh',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/ksh',
 	'group-coder' => 'Projrammierer',
-	'group-coder-member' => '{{GENDER:$1|Projrammierer|Projrammierer|Projrammierer|Projrammiereren|Projrammierer}}',
+	'group-coder-member' => '{{GENDER:$1|Projrammierer|Projrammiererėn|Projrammierer|Projrammiererėn|Projrammierer}}',
 	'grouppage-coder' => 'Project:Projrammierer',
 	'group-inactive' => 'Metmaacher, die nix donn',
 	'group-inactive-member' => '{{GENDER:$1|Metmaacher, dä nix deiht|Metmaacheren, di nix deiht|Metmaacher, dä nix deiht|Metmaacheren, di nix deiht|Metmaacher, dä nix deiht}}',
@@ -9409,9 +9409,8 @@ $messages['roa-tara'] = array(
 	'wikimedia-copyright' => "'U teste ète disponibbile sotte 'a <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\"> licenze ''Creative Commons Attribution/Condivide a 'u stesse mode</a>;
 termine addizionale pò essere applicate.
 Vide <a href=\"http://wikimediafoundation.org/wiki/Terms_of_Use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
-	'wikimedia-copyrightwarning' => "Reggistranne, tu ste accette irrevocabbilmende de relassà 'u condrebbute tue sotte le licenze [http://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribbuzzione-Condivide a 'u stesse mode 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
-Ste dice pure ca accette ca le utinde ca volene cu ausane le condrebbute tue, mettane almene 'nu collegamende ipertestuale o 'na URL a 'a pàgene addò tu è condrebbuite.
-Vide pure [http://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] pe cchiù 'mbormaziune.",
+	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [http://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 Licenze] e [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'wikimedia-editpage-tos-summary' => "Ce non ge vuè ca 'u teste pò essere cangiate o redistribbuite a mundone, allore 'u sè ce stè no 'u sce mettènne aqquà. Ce non ge l'è scritte tu, allore addà essere disponibbile cu condiziune combatibbele cu le [http://wikimediafoundation.org/wiki/Terms_of_Use condiziune d'ause] e accette pure tutte le requisite de licenze.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 );
