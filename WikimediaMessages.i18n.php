@@ -1459,7 +1459,7 @@ $messages['be-tarask'] = array(
 	'group-inactive-member' => '{{GENDER:$1|неактыўны ўдзельнік|неактыўная ўдзельніца}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактыўныя ўдзельнікі',
 	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="http://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="http://wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
-	'wikimedia-copyrightwarning' => 'Захоўваючы свае зьмены, Вы пагаджаецеся на іх апублікаваньне згодна ўмоваў ліцэнзіяў [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што іншыя пры выкарыстаньні гэтага матэрыялу будуць спасылацца на Вашае аўтарства як мінімум праз гіпэрспасылку на старонку, якую Вы рэдагавалі. Падрабязнасьці глядзіце ва [http://wikimediafoundation.org/wiki/Умовы_выкарыстаньня ўмовах выкарыстаньня].',
+	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [http://wikimediafoundation.org/wiki/Terms_of_use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [http://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Калі Вы не жадаеце, каб Вашыя тэксты вольна рэдагаваліся і распаўсюджваліся, не зьмяшчайце іх сюды. Калі Вы не зьяўляецеся аўтарам гэтага тэксту, то ён павінен быць даступны на ўмовах сумяшчальных з [http://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], і Вы згодны прытрымлівацца ўсім патрабаваньням ліцэнзіяў.',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 );
@@ -3360,7 +3360,7 @@ $messages['et'] = array(
 	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
 sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
-	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [http://wikimediafoundation.org/wiki/Terms_of_use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks Creative Commonsi litsentsi [http://creativecommons.org/licenses/by-sa/3.0/deed.et "Autorile viitamine + jagamine samadel tingimustel 3.0"] ja [http://www.gnu.org/copyleft/fdl.html GFDL-litsentsi] alusel.
+	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [http://wikimediafoundation.org/wiki/Terms_of_use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [http://creativecommons.org/licenses/by-sa/3.0/deed.et CC-BY-SA 3.0] ja [http://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikimedia-editpage-tos-summary' => 'Kui sa ei soovi, et sinu kirjutatut halastamatult redigeeritakse ja oma äranägemise järgi kasutatakse, siis ära seda siia salvesta. 
 Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [http://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustes] toodud nõuetele ja sa kohustud täitma vastavaid litsentsi tingimusi.',
@@ -3470,9 +3470,8 @@ $messages['eu'] = array(
 	'wikimedia-copyright' => 'Testua <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin lizentziari</a> jarraituz erabil daiteke;
 baliteke beste klausularen batzuk ere aplikatu behar izatea.
 Xehetasunetarako, ikus <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
-	'wikimedia-copyrightwarning' => 'Aldaketak gordez, zure ekarpena [http://creativecommons.org/licenses/by-sa/3.0/deed.eu Creative Commons Aitortu-PartekatuBerdin 3.0] eta [http://www.gnu.org/copyleft/fdl.html GFDL] lizentziei jarraituz modu ezeztaezinean laga duzula onartzen duzu.
-Aldatu duzun orrialdera doan hiperlotura edo URL baten bidez, gutxienez, aitortua izatea onartzen duzu.
-Xehetasunetarako, ikus [http://wikimediafoundation.org/wiki/Terms_of_Use erabilera-baldintzak].',
+	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [http://wikimediafoundation.org/wiki/Terms_of_use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Aitortu-PartekatuBerdin 3.0] eta [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] lizentziekin plazaratzea.
+Onartzen duzu hiperlotura bat edo URL bat aski dela aitortza hori egiteko, Creative Commons lizentziari jarraituz.',
 	'wikimedia-editpage-tos-summary' => 'Zure ekarpena nahi den bezala aldatua eta birbanatua izan dadin ez baduzu nahi, orduan ez gorde.
 Ekarpena ez baduzu zuk zeuk idatzi, [http://wikimediafoundation.org/wiki/Terms_of_Use Erabilera-baldintzetan] zehazten diren kondizioetan eskuragarri egon beharko du, eta edozein lizentzia-eskakizun garrantzitsu betetzea onartuko duzu.',
 );
@@ -9975,9 +9974,9 @@ $messages['si'] = array(
 	'group-accountcreator-member' => 'ගිණුම් තනන්නා',
 	'group-arbcom-member' => 'සමථ කමිටු සාමාජීකයා',
 	'group-autopatrolled-member' => '{{GENDER:$1|ස්වයං මුර සංචාරකයා}}',
-	'group-autoreviewer-member' => '{{GENDER:$1|ස්වයං විචාරකයා}}',
+	'group-autoreviewer-member' => '{{GENDER:$1|ස්වයංක්‍රීය විචාරක}}',
 	'group-bigexport-member' => '{{GENDER:$1|විශාල නිර්යාතකරු}}',
-	'group-confirmed-member' => '{{GENDER:$1|තහවුරු කරනු ලැබූ පරිශීලක}}',
+	'group-confirmed-member' => '{{GENDER:$1|තහවුරුකල පරිශීලක}}',
 	'group-editprotected-member' => '{{GENDER:$1|සුරැකි පිටු සංස්කාරක}}',
 	'group-eliminator-member' => '{{GENDER:$1|ඉවත්කුරුව}}',
 	'group-filemover-member' => '{{GENDER:$1|ගොනු චාලක}}',
@@ -9985,14 +9984,14 @@ $messages['si'] = array(
 	'group-founder-member' => '{{GENDER:$1|ප්‍රාරම්භක}}',
 	'group-Image-reviewer-member' => '{{GENDER:$1|රූ විචාරක}}',
 	'group-import-member' => '{{GENDER:$1|ආයාතකරු}}',
-	'group-interface_editors-member' => '{{GENDER:$1|අතුරු මුහුණත් සකසනය}}',
-	'group-ipblock-exempt-member' => '{{GENDER:$1|අන්තර්ජාල වාරණ විවර්ජනය}}',
+	'group-interface_editors-member' => '{{GENDER:$1|අතුරු-මුහුණත් සකසනය}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|IP වාරණ විවර්ජනය}}',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS සාමාජික}}',
-	'group-patroller-member' => '{{GENDER:$1|මුර සංචාරකයා}}',
-	'group-researcher-member' => '{{GENDER:$1|පර්යේෂකයා}}',
-	'group-rollbacker-member' => '{{GENDER:$1|පසුපෙරළන්නා}}',
-	'group-transwiki-member' => '{{GENDER:$1|අන්තර්විකි ආයාතකරු}}',
-	'group-trusted-member' => '{{GENDER:$1|විශ්වාසනීය පරිශීලකයා}}',
+	'group-patroller-member' => '{{GENDER:$1|මුර-සංචාරක}}',
+	'group-researcher-member' => '{{GENDER:$1|පර්යේෂක}}',
+	'group-rollbacker-member' => '{{GENDER:$1|ආපසුපෙරළන්නා}}',
+	'group-transwiki-member' => '{{GENDER:$1|අන්තර්විකි ආනයනකරු}}',
+	'group-trusted-member' => '{{GENDER:$1|විශ්වසනීය පරිශීලක}}',
 	'grouppage-abusefilter' => '{{ns:project}}:පෙරහන් සකසන වැරදි භාවිතය',
 	'grouppage-accountcreator' => '{{ns:project}}:ගිණුම් තනන්නන්',
 	'grouppage-arbcom' => '{{ns:project}}:සමථ කමිටු සාමාජීකයන්',
@@ -10023,11 +10022,11 @@ $messages['si'] = array(
 	'group-Ombudsmen' => 'දුග්ගන්නාරාළවරුන්',
 	'group-Staff' => 'සේවක මඩුල්ල',
 	'group-steward-member' => '{{GENDER:$1|භාරකරු}}',
-	'group-sysadmin-member' => '{{GENDER:$1|පද්ධති පරිපාලකවරයා}}',
-	'group-editinterface-member' => '{{GENDER:$1|අතුරු මුහුණත් සකසනය}}',
-	'group-Global_bot-member' => '{{GENDER:$1|ගෝලීය රොබෝවරයා}}',
-	'group-Global_rollback-member' => '{{GENDER:$1|ගෝලීය පසුපෙරළන්නා}}',
-	'group-Global_sysops-member' => '{{GENDER:$1|ගෝලීය පද්ධති පරිපාලක}}',
+	'group-sysadmin-member' => '{{GENDER:$1|පද්ධති පරිපාලක}}',
+	'group-editinterface-member' => '{{GENDER:$1|අතුරු-මුහුණත් සංස්කාරක}}',
+	'group-Global_bot-member' => '{{GENDER:$1|සියළු විකිමීඩියා ව්‍යාපෘති සඳහා රොබෝ}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|සියළු විකිමීඩියා ව්‍යාපෘති සඳහා ආපසුපෙරළන්නා}}',
+	'group-Global_sysops-member' => '{{GENDER:$1|සියළු විකිමීඩියා ව්‍යාපෘති සඳහා පද්ධති ක්‍රියාකරු}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|දුක්ගන්නා රාළ}}',
 	'group-Staff-member' => 'සේවක මණ්ඩල සාමාජිකයා',
 	'grouppage-steward' => 'm:භාරකරුවන්',
@@ -10035,13 +10034,13 @@ $messages['si'] = array(
 	'grouppage-Global_rollback' => 'm:ගෝලීය පසුපෙරළීම',
 	'grouppage-Ombudsmen' => 'm:දුග්ගන්නාරාළ කොමිසම',
 	'group-translationadmin' => 'පර්වර්තන පරිපාලකවරයා',
-	'group-translationadmin-member' => '{{GENDER:$1|පර්වර්තන පරිපාලකවරයා}}',
-	'grouppage-translationadmin' => '{{ns:project}}:පර්වර්තන පරිපාලකවරයා',
+	'group-translationadmin-member' => '{{GENDER:$1|පරිවර්තන පරිපාලක}}',
+	'grouppage-translationadmin' => '{{ns:project}}:පර්වර්තන පරිපාලකයන්',
 	'group-coder' => 'කේතකරුවන්',
 	'group-coder-member' => '{{GENDER:$1|කේතකරු}}',
 	'grouppage-coder' => 'Project:කේතකරු',
 	'group-inactive' => 'අක්‍රීය පරිශීලකයන්',
-	'group-inactive-member' => '{{GENDER:$1|අක්‍රීය පරිශීලකයා}}',
+	'group-inactive-member' => '{{GENDER:$1|අක්‍රීය පරිශීලක}}',
 	'grouppage-inactive' => '{{ns:project}}:අක්‍රීය පරිශීලකයන්',
 	'wikimedia-copyright' => '<a href="http://creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
 අමතර කොන්දේසි අදාළ විය හැක. 
@@ -10051,7 +10050,7 @@ $messages['si'] = array(
 විස්තර සඳහා [http://wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] බලන්න.',
 	'wikimedia-editpage-tos-summary' => 'ඔබගේ ලේඛනය කැමැත්ත පරිදි සංස්කරණය කිරීමට හෝ යළි වෙනස් විදියකින් බෙදා හැරීමට ඔබට අවශ්‍ය නොවේ නම්,එය මෙහි යොමු නොකරන්න.
 මෙය ඔබ විසින්ම ලියනු නොලැබුවේනම්,එය [http://wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] සමඟ අනුරූප කොන්දේසි යටතේ ලබා ගත හැකිවිය යුතු අතර,ඕනෑම අදාළ බලපත්‍රදායක අවශ්‍යතාවයක් අනුගමනය කිරීමට ඔබ එකඟ වෙයි.',
-	'cant-delete-main-page' => 'ඔබට මුල් පිටුව මැකීමට හෝ ගෙනයාමට නොහැක.',
+	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
 );
 
 /** Slovak (Slovenčina)
