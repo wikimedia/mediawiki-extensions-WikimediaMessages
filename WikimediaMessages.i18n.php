@@ -2879,9 +2879,8 @@ $messages['dsb'] = array(
 	'group-inactive-member' => '{{GENDER:$1|njeaktiwny wužywaŕ|njeaktiwna wužywarka}}',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwne wužywarje',
 	'wikimedia-copyright' => 'Tekst stoj pód <a href="http://creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Wužywańske wuměnjenja</a> za drobnostki.',
-	'wikimedia-copyrightwarning' => 'Ze składowanim definitiwnje stajiš swój pśinosk pód [http://creativecommons.org/licenses/by-sa/3.0/ licencu Creative Commons Attribution/Share-Alike 3.0] a [http://www.gnu.org/copyleft/fdl.html GFDL].
-Sy wobjadny, až dalšne wužywarje bok, kótaryž sy pśinosował, nanejmjenjej pśez wótkaz abo URL pśipóznawaju.
-Glědaj [http://wikimediafoundation.org/wiki/Terms_of_Use wužywańske wuměnjenja] za drobnostki.',
+	'wikimedia-copyrightwarning' => 'Pśez kliknjenje na tłocašk "{{int:savearticle}}" pśigłosujoš [http://wikimediafoundation.org/wiki/Terms_of_use wužywańskim wuměnjenjam] a wugronijoš definitiwnje swóju wobjadnosć, až stajijoš swój pśinosk pód licency [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] a [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Pśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Jolic njocoš, až se twój tekst wobźěłujo a rozdźělujo pó dobrozdaśu, njewózjaw jen how.
 Jolic njejsy to sam spisał, musy pód wuměnjenjami k dispoziciji staś, kótarež makaju se z [http://wikimediafoundation.org/wiki/Terms_of_Use wužywańskimi wuměnjenjami], a pśigłosujoš se wótpowědnych licencnych pominanjow źaržaś.',
 );
@@ -5558,6 +5557,7 @@ Videz <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado
 
 /** Icelandic (Íslenska)
  * @author S.Örvarr.S
+ * @author Snævar
  * @author Spacebirdy
  * @author לערי ריינהארט
  */
@@ -5565,6 +5565,7 @@ $messages['is'] = array(
 	'sitesupport' => 'Fjárframlög',
 	'tooltip-n-sitesupport' => 'Fjárframlagssíða',
 	'group-autoreviewer' => 'Sjálfritdómarar',
+	'group-Global_bot' => 'Altæk vélmenni',
 	'group-Staff' => 'Starfsfólk',
 	'group-Staff-member' => 'Starfsmaður',
 );
