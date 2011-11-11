@@ -1837,9 +1837,9 @@ $messages['br'] = array(
 	'wikimedia-copyright' => 'Gallout a reer implijout an testennoù zo dindan <a href="http://creativecommons.org/licenses/by-sa/3.0/">an Aotre-Implijout Creative Commons Dereiñ/Kenrannañ</a>;
 divizoù ouzhpenn a c\'hall bezañ ivez.
 Gwelet an <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Doareoù Implijout</a> evit gouzout hiroc\'h.',
-	'wikimedia-copyrightwarning' => "Dre glikañ war enrollañ ec'h asantit enskrivañ da viken ho tegasadennoù dindan [http://creativecommons.org/licenses/by-sa/3.0/ an Aotre-implijout Creative Commons Dereiñ/Kenrannañ 3.0] hag ar [http://www.gnu.org/copyleft/fdl.html GFDL].
-Degemer a rit ma vo, da nebeutañ, lakaet war ho kont dre ur gourliamm pe un URL ar bajenn hoc'h eus kemeret perzh enni.
-Gwelet [http://wikimediafoundation.org/wiki/Terms_of_Use an Doareoù Implijout] evit gouzout hiroc'h.",
+	'wikimedia-copyrightwarning' => "Dre glikañ war ar bouton \"{{int:savearticle}}\" ec'h asantit [http://wikimediafoundation.org/wiki/Terms_of_use d'an Termenoù Implij] hag emaoc'h a-du da enskrivañ da viken ho tegasadennoù dindan 
+[http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License an aotre-implijout CC-BY-SA 3.0] hag ar [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]
+A-du emaoc'h ez eo trawalc'h deoc'h bezañ meneget dre ur gourliamm pe un URL, dindan an aotre-implijout Creative Commons Dereiñ.",
 	'wikimedia-editpage-tos-summary' => "Ma nac'hit e vefe kemmet ha skignet ho skridoù d'ar seizh avel, neuze eo arabat deoc'h kemer perzh amañ.
 Mar n'int ket bet skrivet ganeoc'h war-eeun, gwiriit mat e c'haller ober ganto diouzh termenoù a glot gant an [http://wikimediafoundation.org/wiki/Terms_of_Use Doareoù Implijout], hag ec'h asantit ober diouzh divizoù leun an Aotre-Implijout.",
 	'cant-delete-main-page' => "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
@@ -7090,7 +7090,7 @@ $messages['mk'] = array(
 	'group-autoreviewer' => 'Автооценувачи',
 	'group-bigexport' => 'Големи извозници',
 	'group-confirmed' => 'Потврдени корисници',
-	'group-editprotected' => 'Заштитени уредувачи на страници',
+	'group-editprotected' => 'Заштитени уредници на страници',
 	'group-eliminator' => 'Отстранувачи',
 	'group-filemover' => 'Преместувачи на податотеки',
 	'group-flood' => 'Корисници-ботови',
@@ -7134,7 +7134,7 @@ $messages['mk'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Автооценувачи',
 	'grouppage-bigexport' => '{{ns:project}}:Големи извозници',
 	'grouppage-confirmed' => '{{ns:project}}:Потврдени корисници',
-	'grouppage-editprotected' => '{{ns:project}}:Заштитени уредувачи на страници',
+	'grouppage-editprotected' => '{{ns:project}}:Заштитени уредници на страници',
 	'grouppage-eliminator' => '{{ns:project}}:Отстранувач',
 	'grouppage-filemover' => '{{ns:project}}:Преместувачи на податотеки',
 	'grouppage-flood' => '{{ns:project}}:Корисници-ботови',
@@ -7302,8 +7302,7 @@ $messages['ml'] = array(
 	'grouppage-inactive' => '{{ns:project}}:സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
 	'shared-repo-name-shared' => 'വിക്കിമീഡിയ കോമൺസ്',
 	'wikimedia-copyright' => 'വിവരങ്ങൾ <a href="http://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നൽകുക)</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
-	'wikimedia-copyrightwarning' => 'താങ്കൾ എഴുതിച്ചേർത്തത് സേവ് ചെയ്യുമ്പോൾ, പ്രസ്തുത എഴുത്ത് [http://creativecommons.org/licenses/by-sa/3.0/ ക്രിയേറ്റീവ് കോമൺസ്/ഷെയർ എലൈക് 3.0], [http://www.gnu.org/copyleft/fdl.html ജി.എഫ്.ഡി.എൽ.] എന്നീ അനുമതിപത്രങ്ങൾ പ്രകാരം വിതരണം ചെയ്യുന്നതിനായി അംഗീകരിച്ചിരിക്കണം, ഈ അനുമതികൾ പിന്നീട് മാറ്റാൻ കഴിയുന്നതല്ല. താങ്കൾ മാറ്റങ്ങൾ വരുത്തിയ താളിനെ പുനരുപയോഗിക്കുന്നവർ, കുറഞ്ഞ പക്ഷം അതിലേക്ക് ഒരു ഹൈപ്പർലിങ്കോ യു.ആർ.എല്ലോ ഉപയോഗിച്ച് കടപ്പാട് നൽകുമെന്നും മനസ്സിലാക്കിയിരിക്കണം. 
-കൂടുതൽ വിവരങ്ങൾക്ക് [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] കാണുക.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [http://wikimediafoundation.org/wiki/Terms_of_use ഉപയോഗ നിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ പിന്നീട് മാറ്റാനാവാത്ത [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [http://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്കോ യൂ.ആർ.എല്ലോ മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'wikimedia-editpage-tos-summary' => 'താങ്കളുടെ എഴുത്ത് തിരുത്തുന്നതും പുനർവിതരണം ചെയ്യുന്നതും അനുവദിക്കാനാകില്ലെങ്കിൽ, അത് ഇവിടെ സമർപ്പിക്കാതിരിക്കുക.
 ഇത് താങ്കൾ തന്നെ എഴുതിയതല്ലങ്കിൽ, നിർബന്ധമായും [http://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗ നിബന്ധനകളുമായി] പൊരുത്തപ്പെടുന്ന വിധത്തിൽ ലഭ്യമായതായിരിക്കണം, ഒപ്പം ബന്ധപ്പെട്ട ഉപയോഗാനുമതികൾ താങ്കൾ അംഗീകരിക്കേണ്ടതുമാണ്.',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
