@@ -8399,16 +8399,16 @@ Lon me ing [http://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para 
 $messages['pdc'] = array(
 	'group-flood' => 'Waddefresser',
 	'group-founder' => 'Grinder',
-	'group-flood-member' => 'Waddefresser',
-	'group-founder-member' => 'Grinder',
+	'group-flood-member' => '{{GENDER:$1|Yuuser vun em Waddefresser}}',
+	'group-founder-member' => '{{GENDER:$1|Grinder}}',
 	'grouppage-flood' => '{{ns:project}}:Waddefresser',
 	'grouppage-founder' => '{{ns:project}}:Grinder',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'System-Verwalter',
 	'group-Global_bot' => 'Globale Bots',
-	'group-steward-member' => 'Steward',
-	'group-sysadmin-member' => 'System-Verwalter',
-	'group-Global_bot-member' => 'Globaler Bot',
+	'group-steward-member' => '{{GENDER:$1|Steward}}',
+	'group-sysadmin-member' => '{{GENDER:$1|System-Verwalter}}',
+	'group-Global_bot-member' => '{{GENDER:$1|Globaler Waddefresser}}',
 );
 
 /** Plautdietsch (Plautdietsch)
@@ -8730,8 +8730,8 @@ $messages['pnb'] = array(
 	'grouppage-flood' => '{{این ایس:ویونت}}:بوٹ ورتن والے',
 	'grouppage-founder' => '{{این ایس:ویونت}}:نیو رکھن والے',
 	'grouppage-Image-reviewer' => '{{این ایس:ویونت}}:مورت جانچن والے',
-	'grouppage-import' => '{{این ایس:ویونت}}:لیان والے',
-	'grouppage-interface_editors' => '{{این ایس:ویونت}}:انٹرفیس لکھاری',
+	'grouppage-import' => '{{ns:project}}:لیان والے',
+	'grouppage-interface_editors' => '{{ns:project}}:انٹرفیس لکھاری',
 	'grouppage-ipblock-exempt' => '{{این ایس:ویونت}}:آئی پی روک بچت',
 	'grouppage-OTRS-member' => '{{این ایس:ویونت}}:اوٹیآرایس سنگی',
 	'grouppage-researcher' => '{{این ایس:ویونت}}:کھوجی',
