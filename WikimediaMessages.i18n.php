@@ -5125,6 +5125,7 @@ $messages['ht'] = array(
 /** Hungarian (Magyar)
  * @author Bdamokos
  * @author Dani
+ * @author Dj
  * @author Glanthor Reviol
  * @author Tgr
  */
@@ -5226,7 +5227,7 @@ $messages['hu'] = array(
 	'group-inactive-member' => 'inaktív szerkesztő',
 	'grouppage-inactive' => '{{ns:project}}:Inaktív szerkesztők',
 	'wikimedia-copyright' => 'A lap szövege <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
-	'wikimedia-copyrightwarning' => 'A szöveg elküldésével visszavonhatatlan engedélyt adsz annak felhasználására a [http://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [http://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
+	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [http://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [http://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'wikimedia-editpage-tos-summary' => 'Ha nem akarod, hogy az írásodat könyörtelenül átszerkesszék vagy tetszés szerint terjesszék, ne küldd be! Ha nem te írtad, a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekkel] összeférő engedéllyel kell rendelkezned a beküldésére, és be kell tartanod az összes releváns licenckövetelményt.',
 );
 
@@ -6364,7 +6365,7 @@ $messages['ksh'] = array(
 	'group-rollbacker' => 'Zeröcknemmere',
 	'group-transwiki' => 'Transwiki-Emportöre',
 	'group-trusted' => '{{int:Group-trusted-member}}',
-	'group-abusefilter-member' => 'Meßbruchsfelter-Baaß',
+	'group-abusefilter-member' => '{{GENDER:$1|Baaß vum Meßbruchsfelter}}',
 	'group-accountcreator-member' => 'Metmaacher-Maacher',
 	'group-arbcom-member' => 'Schiedsmann udder -frau',
 	'group-autopatrolled-member' => 'Sellver-Nohloorer',
@@ -6418,7 +6419,7 @@ $messages['ksh'] = array(
 	'group-steward-member' => 'Steward',
 	'group-sysadmin-member' => 'Wiki-Köbes',
 	'group-editinterface-member' => 'Engerfäjßbeärbeider',
-	'group-Global_bot-member' => 'Bot för all Wikis',
+	'group-Global_bot-member' => '{{GENDER:$1|Bot för all Wikis}}',
 	'group-Global_rollback-member' => 'Zeröcknämmer för all Wikis',
 	'group-Global_sysops-member' => 'jlobale Wiki-Köbes',
 	'group-Ombudsmen-member' => 'Vermeddeler',
@@ -6427,6 +6428,9 @@ $messages['ksh'] = array(
 	'grouppage-Global_bot' => 'm:Global bot/ksh',
 	'grouppage-Global_rollback' => 'm:Global rollback/ksh',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/ksh',
+	'group-translationadmin' => 'Övversäzongsverwalldere',
+	'group-translationadmin-member' => '{{GENDER:$1Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Övversäzongsverwalldere',
 	'group-coder' => 'Projrammierer',
 	'group-coder-member' => '{{GENDER:$1|Projrammierer|Projrammiererėn|Projrammierer|Projrammiererėn|Projrammierer}}',
 	'grouppage-coder' => 'Project:Projrammierer',
