@@ -6282,6 +6282,8 @@ $messages['ko'] = array(
 	'group-Staff-member' => '임원',
 	'grouppage-steward' => 'm:Stewards/ko',
 	'group-translationadmin' => '번역 관리자',
+	'group-translationadmin-member' => '{{GENDER:$1|번역 관리자}}',
+	'grouppage-translationadmin' => '{{ns:project}}:번역 관리자',
 	'group-coder' => '코더',
 	'group-coder-member' => '코더',
 	'group-inactive' => '활동하지 않는 사용자',
@@ -6291,6 +6293,7 @@ $messages['ko'] = array(
 	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD">이용 규약</a>을 참고하십시오.',
 	'wikimedia-copyrightwarning' => '문서를 편집할 때 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 이 저작물의 기여자가 저작자라는 사실을 표시해야 하며, 적어도 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]을 참고하십시오.',
 	'wikimedia-editpage-tos-summary' => '만약, 현재 작성하고 있는 문서가 다른 사람에 의해 자유롭게 편집/배포되길 원하지 않는다면 저장 버튼을 누르지 말아 주세요. 이 문서를 자신이 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 것에 동의해야 합니다.',
+	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
 );
 
 /** Karachay-Balkar (Къарачай-Малкъар)
@@ -6596,9 +6599,8 @@ $messages['lb'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
 	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
 Kuckt <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
-	'wikimedia-copyrightwarning' => "Wann Dir ofspäichert, sidd Dir domat d'accord fir Äre Beitrag ënnert der [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [http://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
-Dir sidd d'accord datt Dir vun deenen déi dëst weiderbenotzen, mindestens, duerch en Hyperlink oder URL op déi Säit op där Dir matschafft honoréiert gitt.
-Kuckt d'[http://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] fir méi Detailer.",
+	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir domat mat de [http://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [http://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
+Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Ärt Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
 	'wikimedia-editpage-tos-summary' => "Wann Dir net wëllt datt Ären Text vun Anere verännert a weiderverdeelt gëtt, da späichert en net hei of. Wann Dir dëst net selwer geschriwwen hutt, da muss et ënnert Konditiounen déi am Aklang mat [http://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingunge] sinn and Dir musst domat averstane sinn fir all Ufuederunge vun der Lizenz z'erfëllen.",
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 );
@@ -6728,8 +6730,8 @@ $messages['li'] = array(
 	'wikimedia-copyright' => 'De teks is besjikbaar ónger de <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naomsvermelding/Geliek Deile</a> licentie.
 \'t Is mäögelik dat aanvöllende veurwaarde van toepassing zeen.
 Betrach de <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Algemein Veurwaarde</a> veur mie informatie.',
-	'wikimedia-copyrightwarning' => "Door dees bewirking op te sjlaon, geis doe akkoord mit 't ónherropelik vriegaeve van dien biedrage ónger de [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Noamsvermelding/Geliek Deile licentie] en de [http://www.gnu.org/copyleft/fdl.html GFDL].
-Doe geis demit akkoord door hergebroekers minimaal geneump te waere via 'ne hyperlink of URL nao de pagina woe-aans diech biedreugs. Betrach de [http://wikimediafoundation.org/wiki/Terms_of_Use Algemein Veurwaarde] veur mie informatie.",
+	'wikimedia-copyrightwarning' => 'Door dees bewirking op te sjlaon mit "{{int:savearticle}}", geis doe akkoord mit de [http://wikimediafoundation.org/wiki/Gebruiksvoorwaarden gebroeks veurwaerd] en \'t ónherropelik vriegaeve van dien biedrage ónger de [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Noamsvermelding/Geliek Deile licentie] en de [http://www.gnu.org/copyleft/fdl.html GFDL].
+Doe geis demit akkoord door hergebroekers minimaal geneump te waere via \'ne hyperlink of URL nao de pagina woe-aans diech biedreugs.',
 	'wikimedia-editpage-tos-summary' => 'Es doe neet wils dat dien biedraag bewirk of gedistribueerd wird, moos doe ze neet opsjlaon.
 Es dien bewirking neet door dichzelf gesjreve is, moot de biedraag besjikbaar zien ónger condities die consistent zien mit de [http://wikimediafoundation.org/wiki/Terms_of_Use Algemein Veurwaarde] en geis doe akkoord mit alle relevante licentieveurwaarde.',
 	'cant-delete-main-page' => "Doe kans 't veurblaad neet wösje of verplaatsje.",
