@@ -1060,6 +1060,11 @@ $messages['ast'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'wikimedia-copyright' => 'El testu ta disponible baxo la <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.es">Llicencia Creative Commons Reconocimientu/Compartir-Igual 3.0</a>; puen aplicase otres cláusules más.
 Llee <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">los términos d\'usu</a> pa más detalles.',
+	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [http://wikimediafoundation.org/wiki/Terms_of_use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License llicencia CC-BY-SA 3.0] y la [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
+	'wikimedia-editpage-tos-summary' => "Si nun desees que los testos s'editen y redistribuyan a voluntá, entós nun los unvies equí.
+Si esti escritu nun ye tuyu, tien de tar disponible baxo condiciones compatibles colos [http://wikimediafoundation.org/wiki/Terms_of_Use términos d'usu] y aceutes cumplir cualesquier requerimientu rellacionáu cola llicencia.",
+	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 );
 
 /** Avaric (Авар) */
@@ -4389,7 +4394,7 @@ $messages['gl'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|administrador|administradora}} global',
 	'group-Ombudsmen-member' => '{{GENDER:$1|comisario|comisaria}}',
 	'group-Staff-member' => 'membro',
-	'grouppage-steward' => '{{ns:project}}:Stewards',
+	'grouppage-steward' => 'm:Stewards',
 	'group-translationadmin' => 'Administradores de tradución',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador|administradora}} de tradución',
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de tradución',
@@ -6068,7 +6073,8 @@ $messages['kk-cyrl'] = array(
 	'group-Staff-member' => 'Басқарма мүшесі',
 	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [http://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [http://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
 [http://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].",
-	'wikimedia-editpage-tos-summary' => 'Егер сіз басқалар тарапынан жазуыңыздың түзетілуін не еркін көшірілуін қаламасаңыз, жазуыңызды мында ұсынбауыңыз жөн. Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [http://wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
+	'wikimedia-editpage-tos-summary' => 'Егер сіз басқалар тарапынан жазуыңыздың түзетілуін не еркін көшірілуін қаламасаңыз, жазуыңызды мында ұсынбауыңыз жөн.
+Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [http://wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
 /** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
@@ -6286,13 +6292,14 @@ $messages['ko'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|번역 관리자}}',
 	'grouppage-translationadmin' => '{{ns:project}}:번역 관리자',
 	'group-coder' => '코더',
-	'group-coder-member' => '코더',
+	'group-coder-member' => '{{GENDER:$1|코더}}',
 	'group-inactive' => '활동하지 않는 사용자',
-	'group-inactive-member' => '활동하지 않는 사용자',
+	'group-inactive-member' => '{{GENDER:$1|활동하지 않는 사용자}}',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자',
 	'shared-repo-name-shared' => '위키미디어 공용',
 	'wikimedia-copyright' => '모든 문서는 <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD">이용 규약</a>을 참고하십시오.',
-	'wikimedia-copyrightwarning' => '문서를 편집할 때 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 자유 소프트웨어 재단이 작성한 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하여야 합니다. 이 저작물의 사용자는 이 저작물의 기여자가 저작자라는 사실을 표시해야 하며, 적어도 기여한 저작물이 있는 URL이나 하이퍼링크를 표시해야 합니다. 자세한 내용은 [http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]을 참고하십시오.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [http://wikimediafoundation.org/wiki/Terms_of_use 이용 규약]에 동의하며, 당신의 기여를 영구히 [http://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 [http://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
+크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'wikimedia-editpage-tos-summary' => '만약, 현재 작성하고 있는 문서가 다른 사람에 의해 자유롭게 편집/배포되길 원하지 않는다면 저장 버튼을 누르지 말아 주세요. 이 문서를 자신이 직접 작성한 것이 아니라면 [http://wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 것에 동의해야 합니다.',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
 );
@@ -8723,27 +8730,27 @@ $messages['pnb'] = array(
 	'group-rollbacker-member' => 'پچھے کرن والے',
 	'group-transwiki-member' => 'ٹرانسوکی امپورٹر',
 	'group-trusted-member' => 'عتباری ورتن والے',
-	'grouppage-abusefilter' => '{{این ایس:ویونت}}:گند نتارا کرن والے',
-	'grouppage-accountcreator' => '{{این ایس:ویونت}}:کھاتہ بنان والے',
-	'grouppage-arbcom' => '{{این ایس:ویونت}}:صلح کراؤ کمیٹی دا سنگی',
-	'grouppage-autopatrolled' => '{{این ایس:ویونت}}:آپ گشت کرن والا',
-	'grouppage-autoreviewer' => '{{این ایس:ویونت}}:آپ ویکھن والا',
-	'grouppage-bigexport' => '{{این ایس:ویونت}}:وڈے پیجن والے',
-	'grouppage-confirmed' => '{{این ایس:ویونت}}:پکے ورتن والے',
-	'grouppage-editprotected' => '{{این ایس:ویونت}}:بچاۓ صفیاں دے لکھاری',
-	'grouppage-eliminator' => '{{این ایس:ویونت}}:مکان والا',
-	'grouppage-filemover' => '{{این ایس:ویونت}}:فائل پلٹن والے',
-	'grouppage-flood' => '{{این ایس:ویونت}}:بوٹ ورتن والے',
-	'grouppage-founder' => '{{این ایس:ویونت}}:نیو رکھن والے',
-	'grouppage-Image-reviewer' => '{{این ایس:ویونت}}:مورت جانچن والے',
+	'grouppage-abusefilter' => '{{ns:project}}:گند نتارا کرن والے',
+	'grouppage-accountcreator' => '{{ns:project}}:کھاتہ بنان والے',
+	'grouppage-arbcom' => '{{ns:project}}:صلح کراؤ کمیٹی دا سنگی',
+	'grouppage-autopatrolled' => '{{ns:project}}:آپ گشت کرن والا',
+	'grouppage-autoreviewer' => '{{ns:project}}:آپ ویکھن والا',
+	'grouppage-bigexport' => '{{ns:project}}:وڈے پیجن والے',
+	'grouppage-confirmed' => '{{ns:project}}:پکے ورتن والے',
+	'grouppage-editprotected' => '{{ns:project}}:بچاۓ صفیاں دے لکھاری',
+	'grouppage-eliminator' => '{{ns:project}}:مکان والا',
+	'grouppage-filemover' => '{{ns:project}}:فائل پلٹن والے',
+	'grouppage-flood' => '{{ns:project}}:بوٹ ورتن والے',
+	'grouppage-founder' => '{{ns:project}}:نیو رکھن والے',
+	'grouppage-Image-reviewer' => '{{ns:project}}:مورت جانچن والے',
 	'grouppage-import' => '{{ns:project}}:لیان والے',
 	'grouppage-interface_editors' => '{{ns:project}}:انٹرفیس لکھاری',
-	'grouppage-ipblock-exempt' => '{{این ایس:ویونت}}:آئی پی روک بچت',
-	'grouppage-OTRS-member' => '{{این ایس:ویونت}}:اوٹیآرایس سنگی',
-	'grouppage-researcher' => '{{این ایس:ویونت}}:کھوجی',
-	'grouppage-rollbacker' => '{{این ایس:ویونت}}:واپس کرن والے',
-	'grouppage-transwiki' => '{{این ایس:ویونت}}:ٹرانسوکی لیان والے',
-	'grouppage-trusted' => '{{این ایس:ویونت}}:اعتباری ورتن والے',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:آئی پی روک بچت',
+	'grouppage-OTRS-member' => '{{ns:project}}:اوٹیآرایس سنگی',
+	'grouppage-researcher' => '{{ns:project}}:کھوجی',
+	'grouppage-rollbacker' => '{{ns:project}}:واپس کرن والے',
+	'grouppage-transwiki' => '{{ns:project}}:ٹرانسوکی لیان والے',
+	'grouppage-trusted' => '{{ns:project}}:اعتباری ورتن والے',
 	'group-steward' => 'سٹیورڈز',
 	'group-sysadmin' => 'پربندھ چلان والے',
 	'group-editinterface' => 'وکھالہ لکھاری',
@@ -8762,7 +8769,7 @@ $messages['pnb'] = array(
 	'group-Staff-member' => 'سٹاف',
 	'group-translationadmin' => 'بولی وٹاندرے مکھۓ',
 	'group-translationadmin-member' => '{{جنس:$1|بولی وٹاندرا مکھیا}}',
-	'grouppage-translationadmin' => '{{ns:ویونت}}:بولی وٹاندرا مکھیا',
+	'grouppage-translationadmin' => '{{ns:project}}:بولی وٹاندرا مکھیا',
 	'group-coder' => 'کوڈرز',
 	'group-coder-member' => '{{جنس:$1|کوڈر}}',
 	'group-inactive' => 'نکمے ورتاوے',
@@ -8835,6 +8842,7 @@ $messages['ps'] = array(
  * @author Giro720
  * @author Hamilton Abreu
  * @author Heldergeovane
+ * @author João Sousa
  * @author Lijealso
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
@@ -8892,8 +8900,8 @@ $messages['pt'] = array(
 	'group-patroller-member' => '{{GENDER:$1|patrulhador|patrulhadora}}',
 	'group-researcher-member' => '{{GENDER:$1|investigador|investigadora}}',
 	'group-rollbacker-member' => '{{GENDER:$1|reversor|reversora}}',
-	'group-transwiki-member' => 'importador transwiki',
-	'group-trusted-member' => 'utilizador de confiança',
+	'group-transwiki-member' => '{{GENDER:$1|importador|importadora}} transwiki',
+	'group-trusted-member' => '{{GENDER:$1|utilizador|utilizadora}} de confiança',
 	'grouppage-abusefilter' => '{{ns:project}}:Editores de filtros de abuso',
 	'grouppage-accountcreator' => '{{ns:project}}:Criadores de contas',
 	'grouppage-arbcom' => '{{ns:project}}:Membros da comissão de arbitragem',
@@ -8924,26 +8932,30 @@ $messages['pt'] = array(
 	'group-Ombudsmen' => 'Mediadores',
 	'group-Staff' => 'Pessoal',
 	'group-steward-member' => 'assistente',
-	'group-sysadmin-member' => 'administrador de sistema',
-	'group-editinterface-member' => 'editor de interface',
+	'group-sysadmin-member' => '{{GENDER:$1|administrador|administradora}} do sistema',
+	'group-editinterface-member' => '{{GENDER:$1|editor|editora}} da interface',
 	'group-Global_bot-member' => 'robô global',
-	'group-Global_rollback-member' => 'reversor global',
-	'group-Global_sysops-member' => 'administrador global',
-	'group-Ombudsmen-member' => 'mediador',
+	'group-Global_rollback-member' => '{{GENDER:$1|reversor|reversora}} global',
+	'group-Global_sysops-member' => '{{GENDER:$1|administrador|administradora}} global',
+	'group-Ombudsmen-member' => '{{GENDER:$1|mediador|mediadora}}',
 	'group-Staff-member' => 'membro do pessoal',
 	'grouppage-steward' => 'm:Stewards/pt',
+	'group-translationadmin' => 'Administradores de tradução',
+	'group-translationadmin-member' => '{{GENDER:$1|administrador de tradução|administradora de tradução}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Administradores de tradução',
 	'group-coder' => 'Programadores',
-	'group-coder-member' => 'programador',
+	'group-coder-member' => '{{GENDER:$1|programador|programadora}}',
 	'group-inactive' => 'Utilizadores inactivos',
-	'group-inactive-member' => 'utilizador inactivo',
+	'group-inactive-member' => '{{GENDER:$1|utilizador inativo|utilizadora inativa}}',
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inactivos',
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="http://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
-	'wikimedia-copyrightwarning' => 'Ao gravar a página, concorda em publicar irrevogavelmente as suas contribuições nos termos das licenças [http://creativecommons.org/licenses/by-sa/3.0/deed.pt Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)] e [http://www.gnu.org/copyleft/fdl.html GFDL].
-Concorda também que lhe seja atribuída a respectiva autoria por utilizadores da obra, no mínimo, na forma de um link ou URL para a página em que está a contribuir. Para mais detalhes, consulte as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso].',
+	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}" você aceita as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso], e aceita de modo irrevogável liberar as suas contribuições sob as licenças [http://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [http://www.gnu.org/copyleft/fdl.html GFDL].
+Concorda também que uma hiperligação ou URL constitui atribuição bastante sob a licença Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
 Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [http://wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e concorda em seguir quaisquer condições de licenciamento relevantes.',
+	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
 );
 
 /** Brazilian Portuguese (Português do Brasil)
@@ -9303,6 +9315,9 @@ $messages['ro'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|administrator global}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|mijlocitor independent|mijlocitoare independentă}}',
 	'group-Staff-member' => 'angajat',
+	'group-translationadmin' => 'Administratori de traducere',
+	'group-translationadmin-member' => '{{GENDER:$1|administrator de traducere}}',
+	'grouppage-translationadmin' => '{{ns:project}}: Administratori de traducere',
 	'group-coder' => 'Codificatori',
 	'group-coder-member' => '{{GENDER:$1|codificator|codificatoare}}',
 	'group-inactive' => 'Utilizatori inactivi',
@@ -10783,6 +10798,7 @@ $messages['su'] = array(
  * @author Sannab
  * @author Sertion
  * @author Tobulos1
+ * @author Warrakkk
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
@@ -10887,9 +10903,8 @@ $messages['sv'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv användare}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
 	'wikimedia-copyright' => 'Text är tillgänglig under <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
-	'wikimedia-copyrightwarning' => 'Genom att spara släpper du oåterkalleligen dina bidrag under [http://creativecommons.org/licenses/by-sa/3.0/deed.sv Creative Commons-licensen Erkännande-Dela Lika 3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
-Du går med på att bli krediterad av återanvändare med minst en hyperlänk eller URL till sidan du bidrar till.
-Se [http://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] för mer upplysningar.',
+	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [http://wikimediafoundation.org/wiki/Terms_of_use användarvillkoren] och samtycker oåterkalleligen till att frigöra ditt bidrag enligt licenserna [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA-3.0] och [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Du accepterar att en hyperlänk eller URL tillräcklig tillskrivning under Creative Commons license.',
 	'wikimedia-editpage-tos-summary' => 'Om du inte vill att det du skriver ska bli redigerat och återanvänt ska du inte spara det här.
 Om du inte själv skrev texten, så måste det vara tillgängligt under villkor som är i överensstämmelse med [http://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren], du bekräftar att du uppfyller alla relevanta licenskrav.',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
