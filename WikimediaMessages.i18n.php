@@ -3979,9 +3979,8 @@ $messages['frp'] = array(
 	'wikimedia-copyright' => 'Los tèxtos sont disponiblos desot <a href="http://creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;
 d’ôtres condicions sè pôvont aplicar.
 Vêde les <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">condicions d’usâjo</a> por més de dètalys.',
-	'wikimedia-copyrightwarning' => 'En cliquent dessus « Sôvar ceta pâge », vos accèptâd de placiér por de bon voutra contribucion desot [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions] et [http://www.gnu.org/copyleft/fdl.html licence de documentacion abada GNU (GFDL)].
-Vos accèptâd d’étre crèditâ per los rèutilisators u muens avouéc un lim hipèrtèxto ou ben una URL de vers la pâge sur laquinta vos contribuâd.
-Vêde les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo] por més de dètalys.',
+	'wikimedia-copyrightwarning' => 'En cliquent dessus « {{int:savearticle}} », vos accèptâd les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo] et pués vos accèptâd de placiér por de bon voutra contribucion desot [http://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions 3.0] et [http://www.gnu.org/copyleft/fdl.html licence de documentacion abada GNU (GFDL)].
+Por la licence Creative Commons, vos accèptâd d’étre crèditâ per los rèutilisators u muens avouéc un lim hipèrtèxto ou ben una URL de vers la pâge sur laquinta vos contribuâd.',
 	'wikimedia-editpage-tos-summary' => 'Se vos voléd pas que voutros ècrits seyont changiês et rebalyês a volontât, adonc los volyéd pas sometre ique.
 Se vos los éd pas ècrits vos-mémo, dêvont étre disponiblos desot des condicions compatibles avouéc les [http://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo], et pués vos accèptâd de siuvre totes les ègzigences de la licence.',
 	'cant-delete-main-page' => 'Vos pouede pas suprimar ou ben dèplaciér la pâge principâla.',
@@ -5176,7 +5175,7 @@ $messages['hu'] = array(
 	'group-editprotected-member' => 'védett lap szerkesztő',
 	'group-eliminator-member' => 'felszámoló',
 	'group-filemover-member' => 'fájlátnevező',
-	'group-flood-member' => 'bot felhasználók',
+	'group-flood-member' => 'bot felhasználó',
 	'group-founder-member' => 'alapító',
 	'group-Image-reviewer-member' => 'képellenőrző',
 	'group-import-member' => 'importáló',
@@ -5226,6 +5225,9 @@ $messages['hu'] = array(
 	'group-Ombudsmen-member' => 'ombudsman',
 	'group-Staff-member' => 'személyzeti tag',
 	'grouppage-steward' => '{{ns:project}}:Helytartók',
+	'group-translationadmin' => 'Fordítási adminisztrátorok',
+	'group-translationadmin-member' => 'fordítási administrátor',
+	'grouppage-translationadmin' => '{{ns:project}}:Fordítási adminisztrátorok',
 	'group-coder' => 'programozók',
 	'group-coder-member' => 'programozó',
 	'group-inactive' => 'inaktív szerkesztők',
@@ -5234,6 +5236,7 @@ $messages['hu'] = array(
 	'wikimedia-copyright' => 'A lap szövege <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
 	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [http://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [http://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'wikimedia-editpage-tos-summary' => 'Ha nem akarod, hogy az írásodat könyörtelenül átszerkesszék vagy tetszés szerint terjesszék, ne küldd be! Ha nem te írtad, a [http://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekkel] összeférő engedéllyel kell rendelkezned a beküldésére, és be kell tartanod az összes releváns licenckövetelményt.',
+	'cant-delete-main-page' => 'Nem törölheted vagy nevezheted át a főoldalt.',
 );
 
 /** Armenian (Հայերեն)
@@ -10464,7 +10467,7 @@ $messages['sr-ec'] = array(
 	'nstab-creator' => 'Творац',
 	'nstab-institution' => 'Установа',
 	'nstab-sequence' => 'Низ',
-	'nstab-timedtext' => 'Усаглашен текст',
+	'nstab-timedtext' => 'Усклађен текст',
 	'group-abusefilter' => 'Уредници филтера против злоупотребе',
 	'group-accountcreator' => 'Ствараоци налога',
 	'group-arbcom' => 'Чланови Арбитражног одбора',
