@@ -5573,9 +5573,20 @@ Videz <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado
 $messages['is'] = array(
 	'sitesupport' => 'Fjárframlög',
 	'tooltip-n-sitesupport' => 'Fjárframlagssíða',
+	'group-accountcreator' => 'Aðgangs stofnendur',
 	'group-autoreviewer' => 'Sjálfritdómarar',
+	'group-import' => 'Innflutningsaðilar',
+	'group-transwiki' => 'Altækir innflutningsaðilar',
+	'group-accountcreator-member' => '{{GENDER:$1|aðgangs stofnandi}}',
+	'group-import-member' => '{{GENDER:$1|innflutningsaðili}}',
+	'group-transwiki-member' => '{{GENDER:$1|altækur innflutningsaðili}}',
+	'grouppage-accountcreator' => '{{ns:project}}:Aðgangs stofnendur',
+	'grouppage-import' => '{{ns:project}}:Innflutningsaðilar',
+	'grouppage-transwiki' => '{{ns:project}}:Altækir innflutningsaðilar',
+	'group-steward' => 'Ráðsmenn',
 	'group-Global_bot' => 'Altæk vélmenni',
 	'group-Staff' => 'Starfsfólk',
+	'group-steward-member' => '{{GENDER:$1|Ráðsmaður|Ráðskona}}',
 	'group-Staff-member' => 'Starfsmaður',
 );
 
