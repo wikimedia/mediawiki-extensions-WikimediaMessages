@@ -208,6 +208,7 @@ A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/acc
 	'group-autoreviewer' => '{{doc-group|autoreviewer}}',
 	'group-bigexport' => '{{doc-group|bigexport}}
 Big export user has a right to: {{int:right-override-export-depth}}',
+	'group-botadmin' => '{{doc-group|botadmin}}',
 	'group-confirmed' => '{{doc-group|confirmed}}',
 	'group-editprotected' => '{{doc-group|editprotected}}',
 	'group-eliminator' => '{{doc-group|eliminator}}
@@ -237,6 +238,7 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'group-autoreviewer-member' => '{{doc-group|autoreviewer|member}}',
 	'group-bigexport-member' => '{{doc-group|bigexport|member}}
 Big export user has a right to: {{int:Right-override-export-depth}}',
+	'group-botadmin-member' => '{{doc-group|botadmin|member}}',
 	'group-confirmed-member' => '{{doc-group|confirmed|member}}',
 	'group-editprotected-member' => '{{doc-group|editprotected|member}}',
 	'group-eliminator-member' => '{{doc-group|eliminator|member}}',
@@ -265,6 +267,7 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'grouppage-autoreviewer' => '{{doc-group|autoreviewer|page}}',
 	'grouppage-bigexport' => '{{doc-group|bigexport|page}}
 Big export user has a right to: {{int:right-override-export-depth}}',
+	'grouppage-botadmin' => '{{doc-group|botadmin|page}}',
 	'grouppage-confirmed' => '{{doc-group|confirmed|page}}',
 	'grouppage-editprotected' => '{{doc-group|editprotected|page}}',
 	'grouppage-eliminator' => '{{doc-group|eliminator|page}}',
@@ -317,25 +320,10 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'grouppage-Ombudsmen' => '{{optional}}
 {{doc-group|Ombudsmen|page}}
 {{Global grouppage}}',
-	'group-translationadmin' => 'User group name.
-
-Related messages:
-* {{msg-mw|Group-translationadmin}}
-* {{msg-mw|Group-translationadmin-member}}
-* {{msg-mw|Grouppage-translationadmin}}',
-	'group-translationadmin-member' => 'Name of a group member of the group "Translation administrators". Parameters:
-* $1 is the subject\'s user name used for GENDER.
-
-Related messages:
-* {{msg-mw|Group-translationadmin}}
-* {{msg-mw|Group-translationadmin-member}}
-* {{msg-mw|Grouppage-translationadmin}}',
-	'grouppage-translationadmin' => "{{doc-important|Do not translate \"{{ns:project}}\".}} Page name for documentation for the user group '''Translation administrators'''.
-
-Related messages:
-* {{msg-mw|Group-translationadmin}}
-* {{msg-mw|Group-translationadmin-member}}
-* {{msg-mw|Grouppage-translationadmin}}",
+	'grouppage-Staff' => '{{optional}}',
+	'group-translationadmin' => '{{doc-group|translationadmin}}',
+	'group-translationadmin-member' => '{{doc-group|translationadmin|member}}',
+	'grouppage-translationadmin' => '{{doc-group|translationadmin|page}}',
 	'group-coder' => '{{doc-group|coder}}',
 	'group-coder-member' => '{{doc-group|coder|member}}',
 	'grouppage-coder' => '{{optional}}
@@ -3835,7 +3823,7 @@ $messages['fr'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrouilleurs automatiques',
 	'grouppage-autoreviewer' => '{{ns:project}}:Relecteurs automatiques',
 	'grouppage-bigexport' => '{{ns:project}}:Grands exportateurs',
-	'grouppage-botadmin' => '{{ns:project}} :  Bots avec droits d’administrateur',
+	'grouppage-botadmin' => '{{ns:project}}: Robots avec droits d’administrateur',
 	'grouppage-confirmed' => '{{ns:project}}:Utilisateurs confirmés',
 	'grouppage-editprotected' => '{{ns:project}}:Éditeurs de pages protégées',
 	'grouppage-eliminator' => '{{ns:project}}:Éliminateur',
@@ -8515,6 +8503,7 @@ $messages['pih'] = array(
  * @author Nux
  * @author Sp5uhe
  * @author ToSter
+ * @author Woytecr
  */
 $messages['pl'] = array(
 	'wikimediamessages-desc' => 'Komunikaty unikalne dla projektów Wikimedia',
@@ -8532,6 +8521,7 @@ $messages['pl'] = array(
 	'group-autopatrolled' => 'Patrolujący automatycznie',
 	'group-autoreviewer' => 'Automatycznie przeglądający',
 	'group-bigexport' => 'Masowi eksporterzy',
+	'group-botadmin' => 'Boty z prawami administratora',
 	'group-confirmed' => 'Zatwierdzeni użytkownicy',
 	'group-editprotected' => 'Redaktorzy zabezpieczonych stron',
 	'group-eliminator' => 'Sprzątacze',
@@ -8554,6 +8544,7 @@ $messages['pl'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|patrolujący|patrolująca}} automatycznie',
 	'group-autoreviewer-member' => 'automatycznie {{GENDER:$1|przeglądający|przeglądająca}}',
 	'group-bigexport-member' => '{{GENDER:$1|masowy eksporter|masowa eksporterka}}',
+	'group-botadmin-member' => '{{GENDER:$1|bot z uprawnieniami administratora}}',
 	'group-confirmed-member' => '{{GENDER:$1|zatwierdzony użytkownik|zatwierdzona użytkowniczka}}',
 	'group-editprotected-member' => '{{GENDER:$1|redaktor|redaktorka}} zabezpieczonych stron',
 	'group-eliminator-member' => '{{GENDER:$1|sprzątacz|sprzątaczka}}',
@@ -8576,6 +8567,7 @@ $messages['pl'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolujący automatycznie',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatycznie przeglądający',
 	'grouppage-bigexport' => '{{ns:project}}:Masowi eksporterzy',
+	'grouppage-botadmin' => '{{ns:project}}:Boty z prawami administratora',
 	'grouppage-confirmed' => '{{ns:project}}:Zatwierdzeni użytkownicy',
 	'grouppage-editprotected' => '{{ns:project}}:Redaktorzy zabezpieczonych stron',
 	'grouppage-eliminator' => '{{ns:project}}:Sprzątacz',
@@ -9300,6 +9292,7 @@ $messages['ro'] = array(
 	'group-autopatrolled' => 'Patrule automate',
 	'group-autoreviewer' => 'Autorecenzenți',
 	'group-bigexport' => 'Exportatori mari',
+	'group-botadmin' => 'Roboți cu drepturi de administrator',
 	'group-confirmed' => 'Utilizatori confirmați',
 	'group-editprotected' => 'Editori de pagini protejate',
 	'group-eliminator' => 'Eliminatori',
@@ -9322,6 +9315,7 @@ $messages['ro'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|patrulă automată}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|autorecenzent|autorecenzentă}}',
 	'group-bigexport-member' => '{{GENDER:$1|mare exportator|mare exportatoare}}',
+	'group-botadmin-member' => '{{GENDER:$1|robot cu drepturi de administrator}}',
 	'group-confirmed-member' => '{{GENDER:$1|utilizator confirmat|utilizatoare confirmată}}',
 	'group-editprotected-member' => '{{GENDER:$1|editor de pagini protejate|editoare de pagini protejate}}',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator|eliminatoare}}',
@@ -9344,6 +9338,7 @@ $messages['ro'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrulatori automați',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorecenzenți',
 	'grouppage-bigexport' => '{{ns:project}}:Mari exportatori',
+	'grouppage-botadmin' => '{{ns:project}}:Roboți cu drepturi de administratori',
 	'grouppage-confirmed' => '{{ns:project}}:Utilizatori confirmați',
 	'grouppage-editprotected' => '{{ns:project}}:Editori de pagini protejate',
 	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
@@ -10357,7 +10352,7 @@ $messages['sl'] = array(
 	'group-inactive' => 'Neaktivni uporabniki',
 	'group-inactive-member' => '{{GENDER:$1|nedejaven uporabnik|nedejavna uporabnica}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni uporabniki',
-	'shared-repo-name-shared' => 'Wikimedijine Zbirke',
+	'shared-repo-name-shared' => 'Wikimedijina Zbirka',
 	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">dovoljenjem Creative Commons 
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; dodatni pogoji se lahko uveljavljajo. Glej <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoje uporabe</a> za podrobnosti.',
 	'wikimedia-copyrightwarning' => 'S klikom na gumb »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka v skladu z dovoljenjema [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] in [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
@@ -12304,6 +12299,7 @@ $messages['vi'] = array(
 	'group-autopatrolled' => 'Người tự đánh dấu tuần tra',
 	'group-autoreviewer' => 'Người tự duyệt',
 	'group-bigexport' => 'Thành viên được phép xuất nhiều trang',
+	'group-botadmin' => 'Bot có quyền bảo quản viên',
 	'group-confirmed' => 'Thành viên được xác nhận',
 	'group-editprotected' => 'Người sửa trang bị khóa',
 	'group-eliminator' => 'Người xóa trang',
@@ -12326,6 +12322,7 @@ $messages['vi'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1}}tuần tra viên tự động',
 	'group-autoreviewer-member' => '{{GENDER:$1}}người tự duyệt',
 	'group-bigexport-member' => '{{GENDER:$1}}thành viên xuất nhiều trang',
+	'group-botadmin-member' => '{{GENDER:$1}}bot có quyền bảo quản viên',
 	'group-confirmed-member' => '{{GENDER:$1}}thành viên được xác nhận',
 	'group-editprotected-member' => '{{GENDER:$1}}người sửa trang bị khóa',
 	'group-eliminator-member' => '{{GENDER:$1}}người xóa trang',
@@ -12348,6 +12345,7 @@ $messages['vi'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Tuần tra viên tự động',
 	'grouppage-autoreviewer' => '{{ns:project}}:Người tự duyệt',
 	'grouppage-bigexport' => '{{ns:project}}:Thành viên được phép xuất nhiều trang',
+	'grouppage-botadmin' => '{{ns:project}}:Bot có quyền bảo quản viên',
 	'grouppage-confirmed' => '{{ns:project}}:Thành viên được xác nhận',
 	'grouppage-editprotected' => '{{ns:project}}:Người sửa trang bị khóa',
 	'grouppage-eliminator' => '{{ns:project}}:Người xóa trang',
