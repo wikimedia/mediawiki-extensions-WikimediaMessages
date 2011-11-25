@@ -2669,7 +2669,7 @@ $messages['de'] = array(
 	'group-inactive' => 'Inaktive Benutzer',
 	'group-inactive-member' => '{{GENDER:$1|Inaktiver Benutzer|Inaktive Benutzerin}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
-	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können anwendbar sein.
+	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können gelten.
 Einzelheiten sind in den <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrieben.',
 	'wikimedia-copyrightwarning' => 'Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der Creative-Commons-Lizenz, ausreichend ist.',
@@ -7270,6 +7270,7 @@ $messages['ml'] = array(
 	'group-autopatrolled' => 'സ്വതേ റോന്തുചുറ്റുന്നവർ',
 	'group-autoreviewer' => 'സ്വതേ സംശോധകർ',
 	'group-bigexport' => 'മഹാ കയറ്റുമതിക്കാർ',
+	'group-botadmin' => 'കാര്യനിർവാഹക അവകാശങ്ങളുള്ള യന്ത്രങ്ങൾ',
 	'group-confirmed' => 'സ്ഥിരീകരിച്ച ഉപയോക്താക്കൾ',
 	'group-editprotected' => 'സംരക്ഷിത താളുകൾ തിരുത്തുന്നവർ',
 	'group-eliminator' => 'തിരസ്കർത്താക്കൾ',
@@ -7292,6 +7293,7 @@ $messages['ml'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|സ്വതേ റോന്തുചുറ്റുന്നയാൾ}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|സ്വതേ സംശോധനം ചെയ്യുന്നയാൾ}}',
 	'group-bigexport-member' => '{{GENDER:$1|മഹാ കയറ്റുമതി ചെയ്യുന്നയാൾ}}',
+	'group-botadmin-member' => '{{GENDER:$1|കാര്യനിർവാഹക അനുമതികളുള്ള യന്ത്രം}}',
 	'group-confirmed-member' => '{{GENDER:$1|സ്ഥിരീകരിച്ച ഉപയോക്താവ്}}',
 	'group-editprotected-member' => '{{GENDER:$1|സംരക്ഷിത താളുകൾ തിരുത്തുന്നവർ}}',
 	'group-eliminator-member' => '{{GENDER:$1|തിരസ്കർത്താവ്}}',
