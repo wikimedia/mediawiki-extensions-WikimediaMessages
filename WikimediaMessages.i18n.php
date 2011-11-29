@@ -3492,6 +3492,7 @@ $messages['ext'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Baqeri
  * @author Ebraminio
  * @author Huji
  * @author Ladsgroup
@@ -3517,6 +3518,7 @@ $messages['fa'] = array(
 	'group-autopatrolled' => 'گشت‌زنان خودکار',
 	'group-autoreviewer' => 'بازبین‌گران خودکار',
 	'group-bigexport' => 'خارج‌کنندگان بزرگ',
+	'group-botadmin' => 'ربات‌های دارای دسترسی مدیریت',
 	'group-confirmed' => 'کاربران تائیدشده',
 	'group-editprotected' => 'ویرایش‌گران صفحات محافظت‌شده',
 	'group-eliminator' => 'برطرف‌کننده‌ها',
@@ -3539,6 +3541,7 @@ $messages['fa'] = array(
 	'group-autopatrolled-member' => 'گشت‌زن خودکار',
 	'group-autoreviewer-member' => 'بازبین‌گر خودکار',
 	'group-bigexport-member' => 'بزرگ برون‌بر',
+	'group-botadmin-member' => '{{GENDER:$1|ربات‌های دارای دسترسی مدیریت}}',
 	'group-confirmed-member' => 'کاربران تائیدشده',
 	'group-editprotected-member' => 'ویرایش‌گر صفحهٔ محافظت‌شده',
 	'group-eliminator-member' => 'برطرف‌کننده',
@@ -3561,6 +3564,7 @@ $messages['fa'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:گشت‌زنان خودکار',
 	'grouppage-autoreviewer' => '{{ns:project}}:خودبازبین‌گرها',
 	'grouppage-bigexport' => '{{ns:project}}:بزرگ خارج‌کنندگان',
+	'grouppage-botadmin' => '{{ns:project}}:ربات‌های دارای دسترسی مدیریت',
 	'grouppage-confirmed' => '{{ns:project}}:کاربران تاییدشده',
 	'grouppage-editprotected' => '{{ns:project}}:ویرایش‌گران صفحات محفاظت‌شده',
 	'grouppage-eliminator' => '{{ns:project}}: برطرف‌کننده',
@@ -3592,6 +3596,7 @@ $messages['fa'] = array(
 	'group-Global_sysops-member' => 'مدیران سراسری',
 	'group-Ombudsmen-member' => 'دادآور',
 	'group-Staff-member' => 'عضو پرسنل',
+	'group-translationadmin' => 'مدیران ترجمه',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => 'برنامه‌نویس',
 	'group-inactive' => 'کاربران غیرفعال',
@@ -5802,7 +5807,7 @@ $messages['ja'] = array(
 	'group-researcher-member' => '{{GENDER:$1|研究者}}',
 	'group-rollbacker-member' => '{{GENDER:$1|巻き戻し者}}',
 	'group-transwiki-member' => '{{GENDER:$1|ウィキ間インポート担当者}}',
-	'group-trusted-member' => '信頼された利用者',
+	'group-trusted-member' => '{{GENDER:$1|信頼された利用者}}',
 	'grouppage-abusefilter' => '{{ns:project}}:不正利用フィルター編集者',
 	'grouppage-accountcreator' => '{{ns:project}}:アカウント作成者',
 	'grouppage-arbcom' => '{{ns:project}}:裁定委員会委員',
@@ -5834,12 +5839,12 @@ $messages['ja'] = array(
 	'group-Ombudsmen' => 'オンブズマン',
 	'group-Staff' => 'スタッフ',
 	'group-steward-member' => '{{GENDER:$1|スチュワード}}',
-	'group-sysadmin-member' => 'システム管理者',
-	'group-editinterface-member' => 'インタフェース編集者',
+	'group-sysadmin-member' => '{{GENDER:$1|システム管理者}}',
+	'group-editinterface-member' => '{{GENDER:$1|インタフェース編集者}}',
 	'group-Global_bot-member' => '{{GENDER:$1|グローバルボット}}',
 	'group-Global_rollback-member' => '{{GENDER:$1|グローバル巻き戻し者}}',
-	'group-Global_sysops-member' => 'グローバル管理者',
-	'group-Ombudsmen-member' => 'オンブズマン',
+	'group-Global_sysops-member' => '{{GENDER:$1|グローバル管理者}}',
+	'group-Ombudsmen-member' => '{{GENDER:$1|オンブズマン}}',
 	'group-Staff-member' => 'スタッフ',
 	'grouppage-steward' => 'm:Stewards/ja',
 	'group-translationadmin' => '翻訳管理者',
@@ -7411,6 +7416,7 @@ $messages['mo'] = array(
 /** Marathi (मराठी)
  * @author Kaustubh
  * @author Mahitgar
+ * @author Rahuldeshmukh101
  */
 $messages['mr'] = array(
 	'wikimediamessages-desc' => 'विकिमीडियाबद्दलचे विशीष्ट संदेश',
@@ -7420,10 +7426,12 @@ $messages['mr'] = array(
 	'group-abusefilter' => 'दुरूपयोग गाळ्णी संपादक',
 	'group-accountcreator' => 'खाते विकसक',
 	'group-bigexport' => 'मोठे निर्यातक',
+	'group-flood' => 'सांकाम्या खाते',
 	'group-founder' => 'संस्थापक',
 	'group-import' => 'आयातदार',
 	'group-ipblock-exempt' => 'अंकपत्ता प्रतिबंधन सूट',
 	'group-patroller' => 'निरीक्षक',
+	'group-researcher' => 'संशोधक',
 	'group-rollbacker' => 'द्रूतमाघारकार',
 	'group-transwiki' => 'आंतरविकि आयातदार',
 	'group-abusefilter-member' => 'दुरूपयोग गाळणी संपादक',
@@ -7440,6 +7448,7 @@ $messages['mr'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:खाते विकसक',
 	'grouppage-autopatrolled' => '{{ns:project}}:स्वयंचलीतगस्तदार',
 	'grouppage-bigexport' => '{{ns:project}}:मोठे निर्यातक',
+	'grouppage-flood' => '{{ns:project}}:सांगकाम्या सदस्य',
 	'grouppage-founder' => '{{ns:project}}:संस्थापक',
 	'grouppage-import' => '{{ns:project}}:आयातदार',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:अंकपत्ता प्रतिबंधन अपवाद',
