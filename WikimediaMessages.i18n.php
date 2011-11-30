@@ -3162,6 +3162,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Crazymadlover
  * @author Dferg
  * @author Fitoschido
+ * @author Gustronico
  * @author Locos epraix
  * @author Manuelt15
  * @author Platonides
@@ -3184,6 +3185,7 @@ $messages['es'] = array(
 	'group-autopatrolled' => 'Autopatrulleros',
 	'group-autoreviewer' => 'Autorrevisores',
 	'group-bigexport' => 'Grandes exportadores',
+	'group-botadmin' => 'Bots con derechos de administrador',
 	'group-confirmed' => 'Usuarios confirmados',
 	'group-editprotected' => 'Editores de páginas protegidas',
 	'group-eliminator' => 'Eliminadores',
@@ -3206,6 +3208,7 @@ $messages['es'] = array(
 	'group-autopatrolled-member' => 'autopatrullero',
 	'group-autoreviewer-member' => 'autorrevisor',
 	'group-bigexport-member' => 'gran exportador',
+	'group-botadmin-member' => 'Bot con derechos de administrador',
 	'group-confirmed-member' => 'usuario confirmado',
 	'group-editprotected-member' => 'editor de páginas protegidas',
 	'group-eliminator-member' => 'eliminador',
@@ -3228,6 +3231,7 @@ $messages['es'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrulleros',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorrevisores',
 	'grouppage-bigexport' => '{{ns:project}}:Grandes exportadores',
+	'grouppage-botadmin' => '{{ns:project}}:Bots con derechos de administrador',
 	'grouppage-confirmed' => '{{ns:project}}:Usuarios confirmados',
 	'grouppage-editprotected' => '{{ns:project}}:Editores de páginas protegidas',
 	'grouppage-eliminator' => '{{ns:project}}:Eliminador',
@@ -3565,7 +3569,7 @@ $messages['fa'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:خودبازبین‌گرها',
 	'grouppage-bigexport' => '{{ns:project}}:بزرگ خارج‌کنندگان',
 	'grouppage-botadmin' => '{{ns:project}}:ربات‌های دارای دسترسی مدیریت',
-	'grouppage-confirmed' => '{{ns:project}}:کاربران تاییدشده',
+	'grouppage-confirmed' => '{{ns:project}}:کاربران تأییدشده',
 	'grouppage-editprotected' => '{{ns:project}}:ویرایش‌گران صفحات محفاظت‌شده',
 	'grouppage-eliminator' => '{{ns:project}}: برطرف‌کننده',
 	'grouppage-filemover' => '{{ns:project}}: انتقال‌دهندگان پرونده',
@@ -3610,6 +3614,7 @@ $messages['fa'] = array(
 برای جزئیات بیشتر [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را ببینید.',
 	'wikimedia-editpage-tos-summary' => 'اگر نمی‌خواهید نوشتهٔ شما آزادانه ویرایش یا منتشر شود، لطفاً آن را اینجا ارسال نکنید.
 اگر متنی را خودتان ننوشته‌اید، باید این متن مطابق اجازه‌نامه‌ای که با [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] سازگاری دارد موجود باشد، و شما با تبعیت از هر گونه موارد قید شده در اجازه‌نامه‌های مرتبط موافق باشید.',
+	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
 );
 
 /** Fulah (Fulfulde) */
@@ -5736,6 +5741,7 @@ $messages['it'] = array(
 	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
 	'wikimedia-copyrightwarning' => "Salvando, accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti che i riutilizzatori te lo attribuiscano almeno mediante un collegamento ipertestuale o un URL alla pagina a cui hai contribuito. Consulta le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso] per i dettagli.",
 	'wikimedia-editpage-tos-summary' => "Se non desideri che il tuo testo possa essere modificato e ridistribuito a volontà, allora non inserirlo qui. Se non l'hai scritto tu, deve essere disponibile a condizioni compatibili con le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e accetti di seguire tutti i requisiti di licenza.",
+	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 );
 
 /** Japanese (日本語)
@@ -7342,6 +7348,7 @@ $messages['ml'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:സ്വതേ റോന്തുചുറ്റുന്നവർ',
 	'grouppage-autoreviewer' => '{{ns:project}}:സ്വതേ സംശോധനം ചെയ്യുന്നവർ',
 	'grouppage-bigexport' => '{{ns:project}}:മഹാ കയറ്റുമതിക്കാർ',
+	'grouppage-botadmin' => '{{ns:project}}:കാര്യനിർവാഹക അവകാശങ്ങളുള്ള യന്ത്രങ്ങൾ',
 	'grouppage-confirmed' => '{{ns:project}}:സ്ഥിരീകരിച്ച ഉപയോക്താക്കൾ',
 	'grouppage-editprotected' => '{{ns:project}}:സംരക്ഷിത താൾ തിരുത്തുന്നവർ',
 	'grouppage-eliminator' => '{{ns:project}}:തിരസ്കർത്താവ്',
@@ -7414,6 +7421,7 @@ $messages['mo'] = array(
 );
 
 /** Marathi (मराठी)
+ * @author Kaajawa
  * @author Kaustubh
  * @author Mahitgar
  * @author Rahuldeshmukh101
@@ -7442,7 +7450,7 @@ $messages['mr'] = array(
 	'group-import-member' => 'आयातदार',
 	'group-ipblock-exempt-member' => 'अंकपत्ता प्रतिबंधन सूट',
 	'group-patroller-member' => 'निरीक्षक',
-	'group-rollbacker-member' => 'द्रूतमाघारकार',
+	'group-rollbacker-member' => 'द्रुतमाघारकार',
 	'group-transwiki-member' => 'आंतरविकि आयातदार',
 	'grouppage-abusefilter' => '{{ns:project}}:दुरूपयोग गाळणी संपादक',
 	'grouppage-accountcreator' => '{{ns:project}}:खाते विकसक',
@@ -7466,11 +7474,15 @@ $messages['mr'] = array(
 	'group-Global_rollback-member' => 'वैश्विक द्रूतमाघारकार',
 	'group-Ombudsmen-member' => 'लोकआयूक्त',
 	'group-Staff-member' => 'स्टाफ सदस्य',
+	'group-translationadmin' => 'भाषांतर प्रचालक',
+	'group-translationadmin-member' => '{{GENDER:$1|भाषांतर प्रचालक }}',
+	'grouppage-translationadmin' => '{{ns:project}}: भाषांतर प्रचालक',
 	'group-coder' => 'संहिता(कोडर्स)',
 	'group-coder-member' => 'संहिता(कोडर)',
 	'group-inactive' => 'निष्क्रीय सदस्य',
 	'group-inactive-member' => 'निष्क्रीय सदस्य',
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीय सदस्य',
+	'cant-delete-main-page' => 'आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत',
 );
 
 /** Hill Mari (Кырык мары)
