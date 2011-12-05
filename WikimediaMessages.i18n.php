@@ -838,6 +838,9 @@ $messages['arc'] = array(
 	'grouppage-founder' => '{{ns:project}}:ܫܬܐܣܢ̈ܐ',
 	'grouppage-import' => '{{ns:project}}:ܡܥܠܢ̈ܐ',
 	'group-sysadmin' => 'ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ',
+	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
+ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
+ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
 );
 
 /** Araucanian (Mapudungun)
@@ -1752,6 +1755,7 @@ $messages['br'] = array(
 	'group-autopatrolled' => 'Patrouilherien emgefre',
 	'group-autoreviewer' => 'Adlennerioù emgefre',
 	'group-bigexport' => 'Ezporzhierien vras',
+	'group-botadmin' => 'Robotoù dezho gwirioù merañ',
 	'group-confirmed' => 'Implijerien kadarnaet',
 	'group-editprotected' => 'Embannerien pennadoù gwarezet',
 	'group-eliminator' => 'Raskerien',
@@ -1774,6 +1778,7 @@ $messages['br'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|patrouilher|patrouilherez}} emgefre',
 	'group-autoreviewer-member' => '{{GENDER:$1|adlenner|adlennerez}} emgefre',
 	'group-bigexport-member' => '{{GENDER:$1|ezporzhier bras|ezporzhierez vras}}',
+	'group-botadmin-member' => '{{GENDER:$1|robot gant gwirioù merañ}}',
 	'group-confirmed-member' => '{{GENDER:$1|implijer|implijerez}} bet kadarnaet ent emgefre',
 	'group-editprotected-member' => '{{GENDER:$1|aozer|aozerez}} pajennoù gwarezet',
 	'group-eliminator-member' => '{{GENDER:$1|rasker|raskerez}}',
@@ -1796,6 +1801,7 @@ $messages['br'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrouilherien emgefre',
 	'grouppage-autoreviewer' => '{{ns:project}}:Adlennerioù emgefre',
 	'grouppage-bigexport' => '{{ns:project}}: Ezporzhierien vras',
+	'grouppage-botadmin' => '{{ns:project}}: Robotoù dezho gwirioù merañ',
 	'grouppage-confirmed' => '{{ns:project}}:Implijerien bet kadarnaet',
 	'grouppage-editprotected' => '{{ns:project}}: Embannerien pennadoù gwarezet',
 	'grouppage-eliminator' => '{{ns:project}}:Rasker',
@@ -3211,7 +3217,7 @@ $messages['es'] = array(
 	'group-autopatrolled-member' => 'autopatrullero',
 	'group-autoreviewer-member' => 'autorrevisor',
 	'group-bigexport-member' => 'gran exportador',
-	'group-botadmin-member' => 'Bot con derechos de administrador',
+	'group-botadmin-member' => '{{GENDER:$1|Bot con derechos de administrador}}',
 	'group-confirmed-member' => 'usuario confirmado',
 	'group-editprotected-member' => 'editor de páginas protegidas',
 	'group-eliminator-member' => 'eliminador',
