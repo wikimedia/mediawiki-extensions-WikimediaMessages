@@ -14,7 +14,7 @@ if (!defined('MEDIAWIKI')) die();
 $wgExtensionCredits['other'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'WikimediaLicenseTexts',
-	'url'            => 'http://www.mediawiki.org/wiki/Extension:WikimediaMessages',
+	'url'            => 'https://www.mediawiki.org/wiki/Extension:WikimediaMessages',
 	'author'         => array( 'Multichill', 'Siebrand Mazeland' ),
 	'descriptionmsg' => 'wikimedialicensetexts-desc',
 );
