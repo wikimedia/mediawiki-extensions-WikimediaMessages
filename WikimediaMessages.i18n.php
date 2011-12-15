@@ -840,7 +840,7 @@ $messages['ar'] = array(
  */
 $messages['arc'] = array(
 	'sitesupport' => 'ܕܒܘܚ ܠܢ',
-	'group-founder-member' => 'ܫܬܐܣܢܐ',
+	'group-founder-member' => '{{GENDER:$1|ܫܬܐܣܢܐ|ܫܬܐܣܢܬܐ}}',
 	'grouppage-founder' => '{{ns:project}}:ܫܬܐܣܢ̈ܐ',
 	'grouppage-import' => '{{ns:project}}:ܡܥܠܢ̈ܐ',
 	'group-sysadmin' => 'ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ',
@@ -3199,6 +3199,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author AlimanRuna
  * @author Ascánder
  * @author Crazymadlover
+ * @author Cvmontuy
  * @author Dferg
  * @author Fitoschido
  * @author Gustronico
@@ -3310,9 +3311,9 @@ $messages['es'] = array(
 	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
 cláusulas adicionales pueden aplicar.
 Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">los términos de uso</a> para más detalles.',
-	'wikimedia-copyrightwarning' => 'Guardando el texto, acepta ceder de manera irrevocable sus contribuciones bajo la [//creativecommons.org/licenses/by-sa/3.0/deed.es Licencia Creative Commons Atribución/Compartir-Igual 3.0] y la [//www.gnu.org/copyleft/fdl.html licencia GFDL].
-Usted acepta a ser citado, como mínimo, por medio de un hipervínculo o URL a la página donde ha contribuido.
-Véase los [//wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] para más detalles.',
+	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
+Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido. 
+Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
 	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí. Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [//wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
 );
 
