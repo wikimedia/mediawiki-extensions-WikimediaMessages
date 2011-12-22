@@ -3517,9 +3517,9 @@ $messages['eu'] = array(
 	'group-inactive' => 'Erabiltzaile ez-aktiboak',
 	'group-inactive-member' => 'erabiltzaile ez-aktiboa',
 	'grouppage-inactive' => '{{ns:project}}:Erabiltzaile ez-aktiboak',
-	'wikimedia-copyright' => 'Testua <a href="//creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin lizentziari</a> jarraituz erabil daiteke;
+	'wikimedia-copyright' => 'Testua <a href="//creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin 3.0 lizentziari</a> jarraituz erabil daiteke;
 baliteke beste klausularen batzuk ere aplikatu behar izatea.
-Xehetasunetarako, ikus <a href="//wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
+Xehetasunen berri izateko, ikus <a href="//wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
 	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [//wikimediafoundation.org/wiki/Terms_of_use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Aitortu-PartekatuBerdin 3.0] eta [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] lizentziekin plazaratzea.
 Onartzen duzu hiperlotura bat edo URL bat aski dela aitortza hori egiteko, Creative Commons lizentziari jarraituz.',
 	'wikimedia-editpage-tos-summary' => 'Zure ekarpena nahi den bezala aldatua eta birbanatua izan dadin ez baduzu nahi, orduan ez gorde.
@@ -6739,7 +6739,7 @@ $messages['lb'] = array(
 	'group-abusefilter-member' => 'Editeur vum Mëssbrauchsfilter',
 	'group-accountcreator-member' => '{{GENDER:$1|Benotzer dee Benotzerkonten uleeën däerf}}',
 	'group-arbcom-member' => "{{GENDER:$1|Member vum Comité d'Arbitrage}}",
-	'group-autopatrolled-member' => 'Benotzer deen automatesch nokuckt',
+	'group-autopatrolled-member' => '{{GENDER:$1|automatesche Kontroller|automatesch Kontrollesch}}',
 	'group-autoreviewer-member' => 'Benotzer deen automatesch nokuckt',
 	'group-bigexport-member' => 'groussen Exportateur',
 	'group-botadmin-member' => '{{GENDER:$1|Botte mat Administrateurs-Rechter}}',
