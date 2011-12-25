@@ -8370,7 +8370,7 @@ $messages['nn'] = array(
  * @author Nghtwlkr
  * @author Stigmj
  */
-$messages['no'] = array(
+$messages['nb'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke beskjeder',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/nb',
 	'sitesupport' => 'Donasjoner',
