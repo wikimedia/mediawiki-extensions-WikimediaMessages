@@ -3863,7 +3863,7 @@ $messages['fi'] = array(
 	'group-inactive-member' => '{{GENDER:$1|epäaktiivinen käyttäjä}}',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
-	'wikimedia-copyrightwarning' => 'Tallentaessasi osoitat hyväksyväsi muokkauksesi pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien ehdoin]. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
+	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikimedia-editpage-tos-summary' => 'Jos et halua kirjoitustasi muiden muokattavaksi ja levitettäväksi, älä tallenna sitä tänne. Jos et kirjoittanut tätä itse, tekstin tulee olla saatavilla [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehtojen] mukaisin ehdoin ja hyväksyt asiaankuuluvien lisenssivaatimusten noudattamisen.',
 	'cant-delete-main-page' => 'Pääsivua ei voi poistaa tai siirtää.',
 );
@@ -5780,12 +5780,34 @@ $messages['ike-cans'] = array(
 );
 
 /** Iloko (Ilokano)
+ * @author Lam-ang
  * @author Saluyot
  * @author לערי ריינהארט
  */
 $messages['ilo'] = array(
+	'wikimediamessages-desc' => 'Dagiti nainaganan a mensahe ti Wikimedia',
 	'sitesupport' => 'Donasion',
 	'tooltip-n-sitesupport' => 'Suportarandakami',
+	'nstab-creator' => 'Nangaramid',
+	'nstab-timedtext' => 'Naorasan a teksto',
+	'group-abusefilter' => 'Dagiti agur-unos ti sagat ti panag-abuso',
+	'group-accountcreator' => 'Dagiti agararamid ti pakabilangan',
+	'group-autopatrolled' => 'Dagiti automatiko nga agpatrulia',
+	'group-confirmed' => 'Dagiti napasingkedan nga agar-aramat',
+	'group-editprotected' => 'Dagiti agur-unos ti napasingkedan a panid',
+	'group-Ex_Administrator' => 'Dagiti administrador idi',
+	'group-filemover' => 'Dagiti makaiyalis nga agar-aramat',
+	'group-flood' => 'Dagiti agar-aramat a bot',
+	'group-founder' => 'Dagiti nagipatakder',
+	'group-OTRS-member' => 'Kameng dagiti OTRS',
+	'group-patroller' => 'Dagiti agpatpattrulia',
+	'group-steward-member' => '{{GENDER:$1|mayordormo}}',
+	'group-sysadmin-member' => '{{GENDER:$1|administrador ti sistema}}',
+	'group-editinterface-member' => '{{GENDER:$1|agur-urnos ti interface}}',
+	'group-Global_bot-member' => '{{GENDER:$1|sangalubongan a bot}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|sangalubongan nga agisubsubli}}',
+	'group-Global_sysops-member' => '{{GENDER:$1|sangalubongan a  sysop}}',
+	'cant-delete-main-page' => 'Saan mo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 );
 
 /** Ingush (ГІалгІай Ğalğaj)
@@ -7995,12 +8017,12 @@ $messages['mt'] = array(
 	'group-researcher' => 'Riċerkaturi',
 	'group-transwiki' => 'Importaturi transwiki',
 	'group-trusted' => 'Utenti fdati',
-	'group-abusefilter-member' => 'editur tal-filtru tal-abbuż',
-	'group-accountcreator-member' => 'kreatur tal-kontijiet',
-	'group-arbcom-member' => 'membru tal-kumitat tal-arbitraġġ',
-	'group-bigexport-member' => 'esportatur kbir',
+	'group-abusefilter-member' => '{{GENDER:$1|editur tal-filtru tal-abbuż|editriċi tal-filtru tal-abbuż|editur tal-filtru tal-abbuż}}',
+	'group-accountcreator-member' => '{{GENDER:$1|kreatur tal-kontijiet|kreatriċi tal-kontijiet|kreatur tal-kontijiet}}',
+	'group-arbcom-member' => '{{GENDER:$1|membru tal-kumitat tal-arbitraġġ}}',
+	'group-bigexport-member' => '{{GENDER:$1|esportatur kbir|esportatriċi kbir|esportatur kbir}}',
 	'group-confirmed-member' => 'utent konfermat',
-	'group-founder-member' => 'fundatur',
+	'group-founder-member' => '{{GENDER:$1|fundatur|fundatriċi|fundatur}}',
 	'group-import-member' => 'importatur',
 	'group-ipblock-exempt-member' => 'eżenti mill-imblokk tal-IP',
 	'group-rollbacker-member' => 'rollbacker',
@@ -8941,7 +8963,7 @@ $messages['pl'] = array(
 	'group-confirmed' => 'Zatwierdzeni użytkownicy',
 	'group-editprotected' => 'Redaktorzy zabezpieczonych stron',
 	'group-Ex_Administrator' => 'Byli administratorzy',
-	'group-Ex_Bureaucrat' => 'Byli urzędnicy',
+	'group-Ex_Bureaucrat' => 'Byli biurokraci',
 	'group-eliminator' => 'Sprzątacze',
 	'group-filemover' => 'Przenoszący pliki',
 	'group-flood' => 'Użytkownicy o ukrytej aktywności',
@@ -8967,7 +8989,7 @@ $messages['pl'] = array(
 	'group-editprotected-member' => '{{GENDER:$1|redaktor|redaktorka}} zabezpieczonych stron',
 	'group-eliminator-member' => '{{GENDER:$1|sprzątacz|sprzątaczka}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|były administrator}}',
-	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|były urzędnik|była urzędniczka}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|były biurokrata|była biurokratka}}',
 	'group-filemover-member' => '{{GENDER:$1|przenoszący|przenosząca}} pliki',
 	'group-flood-member' => '{{GENDER:$1|użytkownik|użytkowniczka}} o ukrytej aktywności',
 	'group-founder-member' => '{{GENDER:$1|założyciel|założycielka}}',
@@ -8992,7 +9014,7 @@ $messages['pl'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redaktorzy zabezpieczonych stron',
 	'grouppage-eliminator' => '{{ns:project}}:Sprzątacz',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:Były administrator',
-	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Byli urzędnicy',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Byli biurokraci',
 	'grouppage-filemover' => '{{ns:project}}:Przenoszący pliki',
 	'grouppage-flood' => '{{ns:project}}:Użytkownicy o ukrytej aktywności',
 	'grouppage-founder' => '{{ns:project}}:Założyciele',
@@ -10531,8 +10553,11 @@ $messages['si'] = array(
 	'group-autopatrolled' => 'ස්වයං මුර සංචාරකයන්',
 	'group-autoreviewer' => 'ස්වයං විචාරකයන්',
 	'group-bigexport' => 'විශාල නිර්යාතකරුවන්',
+	'group-botadmin' => 'පරිපාලක හිමිකම් සහිත රොබෝවරු',
 	'group-confirmed' => 'තහවුරු කරනු ලැබූ පරිශීලකයන්',
 	'group-editprotected' => 'සුරැකි පිටු සංස්කාරකවරුන්',
+	'group-Ex_Administrator' => 'Ex පරිපාලකවරු',
+	'group-Ex_Bureaucrat' => 'Ex නිලබලධාරියෝ',
 	'group-eliminator' => 'ඉවත්කුරු',
 	'group-filemover' => 'ගොනු චාලකයින්',
 	'group-flood' => 'Bot පරිශීලකයන්',
@@ -10547,15 +10572,18 @@ $messages['si'] = array(
 	'group-rollbacker' => 'පසුපෙරළන්නන්',
 	'group-transwiki' => 'අන්තර්විකී ආයාතකරුවන්',
 	'group-trusted' => 'විශ්වාසනීය පරිශීලකයන්',
-	'group-abusefilter-member' => 'පෙරහන් සැකසුම වැරදි භාවිතය',
-	'group-accountcreator-member' => 'ගිණුම් තනන්නා',
-	'group-arbcom-member' => 'සමථ කමිටු සාමාජීකයා',
+	'group-abusefilter-member' => '{{GENDER:$1|අපයෙදුම් පෙරහන් සංස්කාරකය}}',
+	'group-accountcreator-member' => '{{GENDER:$1|ගිණුම් තනන්නා}}',
+	'group-arbcom-member' => '{{GENDER:$1|සමථ කමිටු සාමාජීකයා}}',
 	'group-autopatrolled-member' => '{{GENDER:$1|ස්වයං මුර සංචාරකයා}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|ස්වයංක්‍රීය විචාරක}}',
 	'group-bigexport-member' => '{{GENDER:$1|විශාල නිර්යාතකරු}}',
+	'group-botadmin-member' => '{{GENDER:$1|පරිපාලක හිමිකම් සහිත රොබෝවරයා}}',
 	'group-confirmed-member' => '{{GENDER:$1|තහවුරුකල පරිශීලක}}',
 	'group-editprotected-member' => '{{GENDER:$1|සුරැකි පිටු සංස්කාරක}}',
 	'group-eliminator-member' => '{{GENDER:$1|ඉවත්කුරුව}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|ex පරිපාලකවරයා}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|ex නිලබලධාරියා}}',
 	'group-filemover-member' => '{{GENDER:$1|ගොනු චාලක}}',
 	'group-flood-member' => '{{GENDER:$1|රොබෝවරයා}}',
 	'group-founder-member' => '{{GENDER:$1|ප්‍රාරම්භක}}',
@@ -10575,9 +10603,12 @@ $messages['si'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:ස්වයං මුර සංචාරකයන්',
 	'grouppage-autoreviewer' => '{{ns:project}}:ස්වයං විචාරකයන්',
 	'grouppage-bigexport' => '{{ns:project}}:විශාල නිර්යාතකරුවන්',
+	'grouppage-botadmin' => '{{ns:project}}:පරිපාලක හිමිකම් සහිත රොබෝවරු',
 	'grouppage-confirmed' => '{{ns:project}}:තහවුරු කරන ලද පරිශීලකයන්',
 	'grouppage-editprotected' => '{{ns:project}}:සුරැකි පිටු සංස්කාරක',
 	'grouppage-eliminator' => '{{ns:project}}:ඉවත්කුරුව',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Ex පරිපාලකවරු',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Ex නිලබලධාරියෝ',
 	'grouppage-filemover' => '{{ns:project}}:ගොනු චාලක',
 	'grouppage-flood' => '{{ns:project}}:Bot පරිශීලකයන්',
 	'grouppage-founder' => '{{ns:project}}:ප්‍රාරම්භකයන්',
@@ -10622,9 +10653,8 @@ $messages['si'] = array(
 	'wikimedia-copyright' => '<a href="//creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
 අමතර කොන්දේසි අදාළ විය හැක. 
 විස්තර සඳහා <a href=\'//wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
-	'wikimedia-copyrightwarning' => 'සුරැකීම මගින් ඔබගේ දායකත්වය, අවලංගු කළ නොහැකි [//creativecommons.org/licenses/by-sa/3.0/ ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් බලපත්‍ර 3.0] සහ [//www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිකුත් කිරීමකට එකග වෙයි.
-තවද ඔබ විසින් දායකත්වය සපයන පිටුවට අධි-සබැඳුම් හෝ URL තුළින්,අවමයේදී,ප්‍රති-පරිශීලකයන් විසින් බැර කරනු ලැබීමට ඔබ එකඟ වේ.
-විස්තර සඳහා [//wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] බලන්න.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] සහ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
+මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
 	'wikimedia-editpage-tos-summary' => 'ඔබගේ ලේඛනය කැමැත්ත පරිදි සංස්කරණය කිරීමට හෝ යළි වෙනස් විදියකින් බෙදා හැරීමට ඔබට අවශ්‍ය නොවේ නම්,එය මෙහි යොමු නොකරන්න.
 මෙය ඔබ විසින්ම ලියනු නොලැබුවේනම්,එය [//wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] සමඟ අනුරූප කොන්දේසි යටතේ ලබා ගත හැකිවිය යුතු අතර,ඕනෑම අදාළ බලපත්‍රදායක අවශ්‍යතාවයක් අනුගමනය කිරීමට ඔබ එකඟ වෙයි.',
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
@@ -11603,6 +11633,7 @@ Uobejzdrzij blank dokłodne informacyje uo <a href="//wikimediafoundation.org/wi
 
 /** Tamil (தமிழ்)
  * @author Mayooranathan
+ * @author Shanmugamp7
  * @author Sodabottle
  * @author TRYPPN
  * @author Trengarasu
@@ -11622,6 +11653,7 @@ $messages['ta'] = array(
 	'group-founder-member' => 'நிறுவனர்',
 	'group-researcher-member' => 'ஆய்வாளர்',
 	'group-trusted-member' => 'நம்பத்தகுந்த பயனர்',
+	'group-sysadmin' => 'அமைப்பின் நிர்வாகிகள்',
 	'group-Staff' => 'பணியாளர்கள்',
 	'group-Staff-member' => 'பணியாளர்',
 	'group-inactive' => 'பங்களிக்காத பயனர்கள்',
