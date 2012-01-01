@@ -2800,7 +2800,7 @@ $messages['diq'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:ixracatkero gırd',
 	'grouppage-confirmed' => '{{ns:project}}:karbero tesdiq biyayeyi',
 	'grouppage-editprotected' => '{{ns:project}}:Nustekaranê pelanê ke kilit biyo',
-	'grouppage-filemover' => '{{ns:project}}:Berdoxê dosyayi',
+	'grouppage-filemover' => '{{ns:project}}:Hewadarê Dosya',
 	'grouppage-flood' => '{{ns:project}}:karberê boti',
 	'grouppage-founder' => '{{ns:project}}:ronayoxi',
 	'grouppage-import' => '{{ns:project}}:kırıştoxê zerre kerdışi',
@@ -4851,7 +4851,7 @@ $messages['he'] = array(
 	'group-abusefilter' => 'עורכי מסנן ההשחתה',
 	'group-accountcreator' => 'יוצרי חשבונות',
 	'group-arbcom' => 'חברי ועדת הבוררות',
-	'group-autopatrolled' => 'מנטרים אוטומטית',
+	'group-autopatrolled' => 'בדוקי עריכות אוטומטית',
 	'group-autoreviewer' => 'בוחני עריכות אוטומטית',
 	'group-bigexport' => 'מבצעי ייצוא גדול',
 	'group-botadmin' => 'בוטים עם הרשאות מפעיל',
@@ -4876,7 +4876,7 @@ $messages['he'] = array(
 	'group-abusefilter-member' => '{{GENDER:$1|עורך|עורכת}} מסנן ההשחתה',
 	'group-accountcreator-member' => '{{GENDER:$1|יוצר|יוצרת}} חשבונות',
 	'group-arbcom-member' => '{{GENDER:$1|חבר|חברת}} ועדת הבוררות',
-	'group-autopatrolled-member' => '{{GENDER:$1|מנטר|מנטרת}} אוטומטית',
+	'group-autopatrolled-member' => '{{GENDER:$1|בדיקת עריכות אוטומטית}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|סוקר|סוקרת}} עריכות אוטומטית',
 	'group-bigexport-member' => '{{GENDER:$1|מבצע|מבצעת}} ייצוא גדול',
 	'group-botadmin-member' => '{{GENDER:$1|בוט עם הרשאות מפעיל}}',
@@ -4901,7 +4901,7 @@ $messages['he'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:עורך מסנן ההשחתה',
 	'grouppage-accountcreator' => '{{ns:project}}:יוצר חשבונות',
 	'grouppage-arbcom' => '{{ns:project}}:חבר ועדת הבוררות',
-	'grouppage-autopatrolled' => '{{ns:project}}:מנטר אוטומטית',
+	'grouppage-autopatrolled' => '{{ns:project}}:בדוק עריכות אוטומטית',
 	'grouppage-autoreviewer' => '{{ns:project}}:בוחן עריכות אוטומטית',
 	'grouppage-bigexport' => '{{ns:project}}:מבצע ייצוא גדול',
 	'grouppage-botadmin' => '{{ns:project}}:בוטים עם הרשאות מפעיל',
@@ -4982,11 +4982,13 @@ $messages['hi'] = array(
 	'group-filemover' => 'फ़ाइल मूवर्स',
 	'group-flood' => 'बट सदस्य',
 	'group-founder' => 'संस्थापक',
+	'group-Image-reviewer' => 'चित्र समीक्षक',
 	'group-import' => 'आयातक',
 	'group-interface_editor' => 'इंटरफेस संपादक',
 	'group-ipblock-exempt' => 'आईपी अवरोध मुक्त',
 	'group-OTRS-member' => 'OTRS सदस्य',
 	'group-patroller' => 'निरीक्षक',
+	'group-researcher' => 'अनुसंधानकर्ता',
 	'group-rollbacker' => 'वापस पुरानी स्थिति में लाने वाले',
 	'group-transwiki' => 'विकियों के बीच आयात करने वाले',
 	'group-trusted' => 'विश्वसनीय सदस्य',
@@ -4999,8 +5001,10 @@ $messages['hi'] = array(
 	'group-editprotected-member' => '{{GENDER:$1|सुरक्षित पृष्ठ संपादक}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|पूर्व प्रबंधक}}',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|पूर्व प्रशासक}}',
+	'group-filemover-member' => '{{GENDER:$1|फ़ाइल मुवर}}',
 	'group-flood-member' => '{{GENDER:$1|बट सदस्य}}',
 	'group-founder-member' => '{{GENDER:$1|संस्थापक}}',
+	'group-Image-reviewer-member' => '{{GENDER:$1|चित्र समीक्षक}}',
 	'group-import-member' => 'आयातक',
 	'group-interface_editor-member' => '{{GENDER:$1|इंटरफ़ेस संपादक}}',
 	'group-ipblock-exempt-member' => 'आईपी पता अवरोध मुक्त',
@@ -5021,6 +5025,7 @@ $messages['hi'] = array(
 	'grouppage-import' => '{{ns:project}}:आयातक',
 	'grouppage-interface_editor' => '{{ns:project}}:इंटरफेस संपादक',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:आईपी अवरोध मुक्त',
+	'grouppage-researcher' => '{{ns:project}}:अनुसंधानकर्ता',
 	'grouppage-rollbacker' => '{{ns:project}}:वापस पुरानी स्थिति पर लाने वाले',
 	'grouppage-transwiki' => '{{ns:project}}:अंतर-विकि आयातक',
 	'grouppage-trusted' => '{{ns:project}}:विश्वसनीय सदस्य',
@@ -5032,6 +5037,7 @@ $messages['hi'] = array(
 	'group-Global_sysops' => 'वैश्विक प्रबन्धक',
 	'group-Ombudsmen' => 'लोक आयुक्त',
 	'group-Staff' => 'कर्मचारी',
+	'group-steward-member' => '{{GENDER:$1|सटीवर्ड}}',
 	'group-sysadmin-member' => '{{GENDER:$1|सिष्टम प्रबन्धक}}',
 	'group-editinterface-member' => '{{GENDER:$1|इंटरफेस संपादक}}',
 	'group-Global_bot-member' => '{{GENDER:$1|वैश्विक बट}}',
@@ -11148,6 +11154,7 @@ Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdori
 );
 
 /** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+ * @author FriedrickMILBarbarossa
  * @author Millosh
  * @author Rancher
  * @author Red Baron
@@ -11274,12 +11281,14 @@ $messages['sr-ec'] = array(
 	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
 додатни услови се могу применити.
 Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
-	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате [//wikimediafoundation.org/wiki/Услови коришћења?uselang=sr-ec услове коришћења] и неопозиво се слажете да објавите своје доприносе под условима лиценце [//sr.wikipedia.org/wiki/Википедија:Текст лиценце Кријејтив комонс Ауторство-Делити под истим условима 3.0 Unported?uselang=sr-ec CC-BY-SA 3.0] и [//sr.wikipedia.org/wiki/Википедија:Текст ГНУ-ове лиценце за слободну документацију?uselang=sr-ec ГЛСД].
+	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију ГЛСД]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
+	'wikimedia-editpage-tos-summary' => 'Ако не желите да се Ваш рад мења и расподељује без ограничења, не шаљите га овде. Ако га нисте сами написали, онда он мора да буде доступан под условима који су у складу са <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use условима коришћења], а Ви сте сугласни да следите одговарајуће услове лиценцирања.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 );
 
 /** Serbian (Latin script) (‪Srpski (latinica)‬)
+ * @author FriedrickMILBarbarossa
  * @author Michaello
  * @author Жељко Тодоровић
  */
@@ -11391,6 +11400,9 @@ $messages['sr-el'] = array(
 	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="//creativecommons.org/licenses/by-sa/3.0/">Krijejtiv komons Autorstvo-Deliti pod istim uslovima</a>;
 dodatni uslovi se mogu primeniti.
 Pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
+	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GLSD]</span>.
+Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
+	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se Vaš rad menja i raspodeljuje bez ograničenja, ne šaljite ga ovde. Ako ga niste sami napisali, onda on mora da bude dostupan pod uslovima koji su u skladu sa <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use uslovima korišćenja], a Vi ste suglasni da sledite odgovarajuće uslove licenciranja.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
 );
 
