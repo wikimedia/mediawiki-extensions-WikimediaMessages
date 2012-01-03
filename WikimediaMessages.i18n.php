@@ -399,6 +399,7 @@ $messages['ace'] = array(
  * @author Naudefj
  * @author SPQRobin
  * @author Spacebirdy
+ * @author පසිඳු කාවින්ද
  */
 $messages['af'] = array(
 	'wikimediamessages-desc' => 'Wikimedia spesifieke boodskappe',
@@ -493,6 +494,7 @@ $messages['af'] = array(
 	'group-inactive-member' => 'onaktiewe gebruiker',
 	'grouppage-inactive' => '{{ns:project}}:Onaktiewe gebruikers',
 	'wikimedia-copyright' => "Die teks is beskikbaar onder die <a href='//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a> lisensie. Dit is moontlik dat aanvullende voorwaardes van toepassing is. Sien die <a href='//wikimediafoundation.org/wiki/Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
+	'cant-delete-main-page' => 'Jy kan nie verwyder of skuif die hoofblad.',
 );
 
 /** Gheg Albanian (Gegë)
@@ -4979,6 +4981,7 @@ $messages['hi'] = array(
 	'group-editprotected' => 'सुरक्षित पृष्ठ संपादकों',
 	'group-Ex_Administrator' => 'पूर्व प्रबंधक',
 	'group-Ex_Bureaucrat' => 'पूर्व प्रशासक',
+	'group-eliminator' => 'निरसक',
 	'group-filemover' => 'फ़ाइल मूवर्स',
 	'group-flood' => 'बट सदस्य',
 	'group-founder' => 'संस्थापक',
@@ -4999,6 +5002,7 @@ $messages['hi'] = array(
 	'group-bigexport-member' => 'बड़ा निर्यातक',
 	'group-confirmed-member' => 'पुष्ट सदस्य',
 	'group-editprotected-member' => '{{GENDER:$1|सुरक्षित पृष्ठ संपादक}}',
+	'group-eliminator-member' => '{{GENDER:$1|निरसक}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|पूर्व प्रबंधक}}',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|पूर्व प्रशासक}}',
 	'group-filemover-member' => '{{GENDER:$1|फ़ाइल मुवर}}',
@@ -5020,6 +5024,10 @@ $messages['hi'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:स्वचालित समीक्षक',
 	'grouppage-bigexport' => '{{ns:project}}:बड़े निर्यातक',
 	'grouppage-confirmed' => '{{ns:project}}:पुष्ट सदस्य',
+	'grouppage-eliminator' => '{{ns:project}}:निरसक',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:पूर्व प्रबन्धक',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:पूर्व प्रशासक',
+	'grouppage-filemover' => '{{ns:project}}:छबि मूवर्स',
 	'grouppage-flood' => '{{ns:project}}:बट सदस्य',
 	'grouppage-founder' => '{{ns:project}}:संस्थापक',
 	'grouppage-import' => '{{ns:project}}:आयातक',
@@ -11283,7 +11291,8 @@ $messages['sr-ec'] = array(
 Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију ГЛСД]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
-	'wikimedia-editpage-tos-summary' => 'Ако не желите да се Ваш рад мења и расподељује без ограничења, не шаљите га овде. Ако га нисте сами написали, онда он мора да буде доступан под условима који су у складу са <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use условима коришћења], а Ви сте сугласни да следите одговарајуће услове лиценцирања.',
+	'wikimedia-editpage-tos-summary' => 'Ако не желите да се ваш текст слободно мења и расподељује, онда га не шаљите овде.
+Ако га нисте сами написали, онда он мора да буде доступан под условима који су у складу са <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use условима коришћења], а ви се слажете да ћете се придржавати свих услова лиценцирања.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 );
 
@@ -11767,11 +11776,17 @@ Uobejzdrzij blank dokłodne informacyje uo <a href="//wikimediafoundation.org/wi
 $messages['ta'] = array(
 	'sitesupport' => 'நன்கொடை',
 	'tooltip-n-sitesupport' => 'நன்கொடைகளை வழங்குங்கள்',
+	'nstab-sequence' => 'வரிசை',
+	'nstab-timedtext' => 'நேரமிட்ட உரை',
 	'group-accountcreator' => 'பயனர் கணக்கு உருவாக்குவோர்',
+	'group-confirmed' => 'உறுதிசெய்யப்பட்ட பயனர்கள்',
+	'group-editprotected' => 'காக்கப்பட்ட பக்கத்தை திருத்துபவர்கள்',
 	'group-Ex_Administrator' => 'முன்னால் நிர்வாகிகள்',
 	'group-filemover' => 'கோப்பை நகர்த்துபவர்கள்',
 	'group-flood' => 'தானியங்கி பயனர்கள்',
 	'group-founder' => 'நிறுவனர்கள்',
+	'group-Image-reviewer' => 'பட பரிசீலனையாளர்கள்',
+	'group-import' => 'இறக்குமதியாளர்கள்',
 	'group-OTRS-member' => 'OTRS உறுப்பினர்கள்',
 	'group-trusted' => 'நம்பத்தகுந்த பயனர்கள்',
 	'group-accountcreator-member' => 'கணக்கை உருவாக்குவோர்',
@@ -13317,6 +13332,7 @@ $messages['yi'] = array(
 	'group-Image-reviewer' => 'בילד רעצענזענטן',
 	'group-import' => 'אימפארטירערס',
 	'group-interface_editor' => 'באַניצער איבערפֿלאַך רעדאַקטירער',
+	'group-OTRS-member' => 'OTRS מיטגלידער',
 	'group-patroller' => 'פאטראלירער',
 	'group-researcher' => 'פֿארשער',
 	'group-rollbacker' => 'צוריקדרייער',
@@ -13332,12 +13348,15 @@ $messages['yi'] = array(
 	'group-confirmed-member' => '{{GENDER:$1|באַשטעטיגטער באַניצער| באַשטעטיגטע באַניצערין}}',
 	'group-editprotected-member' => '{{GENDER:$1|רעדאַקטירער פֿון באַשיצטע בלעטער}}',
 	'group-eliminator-member' => '{{GENDER:$1| אויסמעקער| אויסמעקערין}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|געוועזענער סיסאפ|געוועזענע סיסאפ}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|געוועזענער ביוראקראַט|געוועזענע ביוראקראַט}}',
 	'group-filemover-member' => 'טעקע {{GENDER:$1|אַריבערפֿירער|אַריבערפֿירערין}}',
 	'group-flood-member' => '{{GENDER:$1|באט באַניצער}}',
 	'group-founder-member' => '{{GENDER:$1|גרינדער}}',
 	'group-Image-reviewer-member' => '{{GENDER:$1| בילד רעצענזענט}}',
 	'group-import-member' => '{{GENDER:$1| אימפארטירער| אימפארטירערין}}',
 	'group-interface_editor-member' => '{{GENDER:$1|באניצער איבערפלאך רעדאקטירער}}',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS מיטגליד}}',
 	'group-patroller-member' => '{{GENDER:$1|פאטראלירער|פאטראלירערין}}',
 	'group-researcher-member' => '{{GENDER:$1|פֿארשער|פֿארשערין}}',
 	'group-rollbacker-member' => '{{GENDER:$1|צוריקדרייער|צוריקדרייערין}}',
@@ -13359,6 +13378,7 @@ $messages['yi'] = array(
 	'grouppage-Image-reviewer' => '{{ns:project}}:בילדער רעצענזענטן',
 	'grouppage-import' => '{{ns:project}}:אימפארטירערס',
 	'grouppage-interface_editor' => '{{ns:project}}:באניצער איבערפלאך רעדאקטירער',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS מיטגלידער',
 	'grouppage-researcher' => '{{ns:project}}:פֿארשערס',
 	'grouppage-rollbacker' => '{{ns:project}}:צוריקדרייער',
 	'grouppage-transwiki' => '{{ns:project}}:אריבערוויקי אימפארטירער',
