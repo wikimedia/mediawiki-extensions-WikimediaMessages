@@ -5847,7 +5847,7 @@ $messages['ilo'] = array(
 	'group-confirmed' => 'Dagiti napasingkedan nga agar-aramat',
 	'group-editprotected' => 'Dagiti agur-unos ti napasingkedan a panid',
 	'group-Ex_Administrator' => 'Dagiti administrador idi',
-	'group-Ex_Bureaucrat' => 'Dagiti bureaucrats idi',
+	'group-Ex_Bureaucrat' => 'Dagiti burokrata idi',
 	'group-eliminator' => 'Dagiti agik-ikkat',
 	'group-filemover' => 'Dagiti makaiyalis nga agar-aramat',
 	'group-flood' => 'Dagiti agar-aramat a bot',
@@ -5873,7 +5873,7 @@ $messages['ilo'] = array(
 	'group-editprotected-member' => '{{GENDER:$1|agur-urnos ti nasalakniban a panid}}',
 	'group-eliminator-member' => '{{GENDER:$1|agik-ikkat}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|administrador idi}}',
-	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|bureaucrat idi}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|burokrata idi}}',
 	'group-filemover-member' => '{{GENDER:$1|agiyal-alis ti papeles}}',
 	'group-flood-member' => '{{GENDER:$1|bot nga agar-aramat}}',
 	'group-founder-member' => '{{GENDER:$1|nagipatakder}}',
@@ -5898,7 +5898,7 @@ $messages['ilo'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Dagiti agur-urnos ti nasalakniban a panid',
 	'grouppage-eliminator' => '{{ns:project}}:Agik-ikkat',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:Dagiti administrador idi',
-	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Dagiti bureaucrats idi',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Dagiti burokrata idi',
 	'grouppage-filemover' => '{{ns:project}}:Dagiti agiyal-alis ti papeles',
 	'grouppage-flood' => '{{ns:project}}:Dagiti bot nga agar-aramat',
 	'grouppage-founder' => '{{ns:project}}:Dagiti nagipatakder',
@@ -9080,6 +9080,7 @@ $messages['pih'] = array(
  * @author Meno25
  * @author Nux
  * @author Olgak85
+ * @author Saper
  * @author Sp5uhe
  * @author ToSter
  * @author Woytecr
@@ -9194,9 +9195,9 @@ $messages['pl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|użytkownik nieaktywny|użytkowniczka nieaktywna}}',
 	'grouppage-inactive' => '{{ns:project}}:Użytkownicy nieaktywni',
 	'wikimedia-copyright' => 'Tekst udostępniany na <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
-Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystania</a>.',
-	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu w licencję [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [//wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystania].',
-	'wikimedia-editpage-tos-summary' => 'Jeśli nie chcesz, aby Twój tekst mógł być dowolnie zmieniany przez każdego oraz rozpowszechniany bez ograniczeń, nie umieszczaj go tutaj. Jeśli tekst nie został napisany przez Ciebie samodzielnie, musi on być dostępny na zasadach zgodnych z [//wikimediafoundation.org/wiki/Terms_of_Use warunkami wykorzystania] oraz musisz zgodzić się na wszystkie istotne wymogi licencyjne.',
+Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.',
+	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu w licencję [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [//wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
+	'wikimedia-editpage-tos-summary' => 'Jeśli nie chcesz, aby Twój tekst mógł być dowolnie zmieniany przez każdego oraz rozpowszechniany bez ograniczeń, nie umieszczaj go tutaj. Jeśli tekst nie został napisany przez Ciebie samodzielnie, musi on być dostępny na zasadach zgodnych z [//wikimediafoundation.org/wiki/Warunki_korzystania warunkami wykorzystania] oraz musisz zgodzić się na wszystkie istotne wymogi licencyjne.',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 );
 
@@ -11067,6 +11068,7 @@ $messages['so'] = array(
 );
 
 /** Albanian (Shqip)
+ * @author Dasius
  * @author Dori
  * @author Mikullovci11
  * @author Olsi
@@ -11076,27 +11078,30 @@ $messages['sq'] = array(
 	'wikimediamessages-desc' => 'Mesazhet specifike të Wikimedia-s',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Dhurime',
-	'tooltip-n-sitesupport' => 'Na përmbajë',
-	'specialpages-group-contribution' => 'Kontibut/Fundraiser',
+	'tooltip-n-sitesupport' => 'Na mbështet',
+	'specialpages-group-contribution' => 'Kontibutet/Mbledhja e fondeve',
 	'nstab-creator' => 'Krijues',
 	'nstab-institution' => 'Institucion',
 	'nstab-sequence' => 'Sekuencë',
-	'nstab-timedtext' => 'TimedText',
-	'group-abusefilter' => 'Abuzoni redaktorët filtër',
-	'group-accountcreator' => 'Krijuesit e kontove',
+	'nstab-timedtext' => 'Tekst me datë',
+	'group-abusefilter' => 'Filtër abuzim redaktues',
+	'group-accountcreator' => 'Krijuesit e llogarive',
 	'group-arbcom' => 'Anëtarët e komisionit të arbitrazhit',
-	'group-autopatrolled' => 'Patrolluesit automatik',
-	'group-autoreviewer' => 'Rishikuesit automatik',
+	'group-autopatrolled' => 'Patrullat automatike',
+	'group-autoreviewer' => 'Inspektor automatik',
 	'group-bigexport' => 'Eksportuesit e mëdhenj',
-	'group-confirmed' => 'Përdoruesit e konfirmuar',
-	'group-editprotected' => 'Redaktorët që mbrojnë faqet',
-	'group-eliminator' => 'Eleminiesit',
-	'group-filemover' => 'Lëvizësit e skedve',
+	'group-botadmin' => 'Robotë web-i me të drejta administratori',
+	'group-confirmed' => 'Përdoruesit e vërtetuar',
+	'group-editprotected' => 'Redaktorët e faqeve të mbrojtura',
+	'group-Ex_Administrator' => 'Ish-administratorë',
+	'group-Ex_Bureaucrat' => 'Ish-burokratë',
+	'group-eliminator' => 'Asgjesuesit',
+	'group-filemover' => 'Zhvendosësit e skedave',
 	'group-flood' => 'Përdoruesit robotë',
 	'group-founder' => 'Themeluesit',
-	'group-Image-reviewer' => 'Rishikues figurash',
+	'group-Image-reviewer' => 'Inspektorët e figurave',
 	'group-import' => 'Importuesit',
-	'group-interface_editor' => 'Redaktues ndërfaqesh',
+	'group-interface_editor' => 'Redaktuesit e shabllonit të faqes të përdoruesit',
 	'group-ipblock-exempt' => 'Përjashtimet për bllokimin e IP-ve',
 	'group-OTRS-member' => 'Anëtarët OTRS',
 	'group-patroller' => 'Patrolluesit',
