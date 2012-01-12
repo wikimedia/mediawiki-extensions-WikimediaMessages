@@ -7970,6 +7970,7 @@ $messages['mr'] = array(
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Chapters/mr',
 	'sitesupport' => 'दान',
 	'tooltip-n-sitesupport' => 'आम्हाला पाठबळ द्या',
+	'specialpages-group-contribution' => 'योगदान/निधी उभारणी',
 	'nstab-creator' => 'निर्माता',
 	'nstab-institution' => 'संस्था',
 	'nstab-sequence' => 'क्रम',
