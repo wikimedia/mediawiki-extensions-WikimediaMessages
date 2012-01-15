@@ -11511,7 +11511,8 @@ dodatni uslovi se mogu primeniti.
 Pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
 	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GLSD]</span>.
 Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
-	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se Vaš rad menja i raspodeljuje bez ograničenja, ne šaljite ga ovde. Ako ga niste sami napisali, onda on mora da bude dostupan pod uslovima koji su u skladu sa <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use uslovima korišćenja], a Vi ste suglasni da sledite odgovarajuće uslove licenciranja.',
+	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se vaš tekst slobodno menja i raspodeljuje, onda ga ne šaljite ovde.
+Ako ga niste sami napisali, onda on mora da bude dostupan pod uslovima koji su u skladu sa <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_use uslovima korišćenja], a vi se slažete da ćete se pridržavati svih uslova licenciranja.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
 );
 
