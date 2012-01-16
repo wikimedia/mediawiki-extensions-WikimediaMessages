@@ -9956,6 +9956,13 @@ Qamtaq kayta mana qillqarqaptiykiqa, kay qillqa [//wikimediafoundation.org/wiki/
 	'cant-delete-main-page' => "Qhapaq p'anqataqa manam qulluyta icha astayta atinkichu.",
 );
 
+/** Runa shimi (Runa shimi)
+ * @author Sylvain2803
+ */
+$messages['qug'] = array(
+	'sitesupport' => 'Kullkita karana',
+);
+
 /** Tarifit (Tarifit)
  * @author Agzennay
  */
