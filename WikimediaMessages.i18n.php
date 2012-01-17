@@ -7964,6 +7964,7 @@ $messages['mo'] = array(
  * @author Kaajawa
  * @author Kaustubh
  * @author Mahitgar
+ * @author Mvkulkarni23
  * @author Rahuldeshmukh101
  */
 $messages['mr'] = array(
@@ -8074,8 +8075,7 @@ $messages['mr'] = array(
 	'group-inactive' => 'निष्क्रीय सदस्य',
 	'group-inactive-member' => '{{GENDER:$1|निष्क्रीय सदस्य}}',
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीय सदस्य',
-	'wikimedia-editpage-tos-summary' => '!!जर तुम्हाला तुमचे लिखाण इतरांकडून संपादित आणि प्रसारित होण्याची इच्छा नसेल, तर ते येथे दाखल करू नका.
-If you did not write this yourself, it must be available under terms consistent with the [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.',
+	'wikimedia-editpage-tos-summary' => 'जर तुम्हाला तुमचे लिखाण इतरांकडून संपादित आणि प्रसारित होण्याची इच्छा नसेल, तर ते येथे दाखल करू नका.',
 	'cant-delete-main-page' => 'आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत',
 );
 
