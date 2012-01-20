@@ -1571,8 +1571,11 @@ $messages['bg'] = array(
 	'group-autopatrolled' => 'Автопатрули',
 	'group-autoreviewer' => 'Авторецензенти',
 	'group-bigexport' => 'Големи износители',
+	'group-botadmin' => 'Ботове с права на администратор',
 	'group-confirmed' => 'Потвърдени потребители',
 	'group-editprotected' => 'Редактори на защитени страници',
+	'group-Ex_Administrator' => 'Бивши администратори',
+	'group-Ex_Bureaucrat' => 'Бивши бюрократи',
 	'group-flood' => 'Оператори на бот',
 	'group-founder' => 'Основатели',
 	'group-import' => 'Вносители',
@@ -1628,7 +1631,7 @@ $messages['bg'] = array(
 	'group-Global_sysops' => 'Глобални администратори',
 	'group-Ombudsmen' => 'Омбудсмани',
 	'group-Staff' => 'Персонал',
-	'group-steward-member' => 'Стюард',
+	'group-steward-member' => '{{GENDER:$1|стюард}}',
 	'group-sysadmin-member' => 'системен администратор',
 	'group-editinterface-member' => 'редактор на интерфейса',
 	'group-Global_bot-member' => 'глобален бот',
@@ -1638,7 +1641,7 @@ $messages['bg'] = array(
 	'group-Staff-member' => 'персонал',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-coder' => 'Програмисти',
-	'group-coder-member' => 'програмист',
+	'group-coder-member' => '{{GENDER:$1|програмист}}',
 	'group-inactive' => 'Неактивни потребители',
 	'group-inactive-member' => 'неактивен потребител',
 	'grouppage-inactive' => '{{ns:project}}:Неактивни потребители',
@@ -1650,6 +1653,7 @@ $messages['bg'] = array(
 За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].',
 	'wikimedia-editpage-tos-summary' => 'Ако не желаете материалът ви да бъде редактиран и разпространяван без ограничения, тогава не го поставяйте тук.
 Ако материалът не е написан лично от вас, то за да остане тук, трябва да е съвместим с [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване], и вие да сте съгласни да изпълните всички евентуално приложими лицензионни изисквания.',
+	'cant-delete-main-page' => 'Не можете да изтривате или премествате Началната страница.',
 );
 
 /** Bihari (भोजपुरी)
