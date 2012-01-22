@@ -7192,8 +7192,8 @@ $messages['lb'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
 	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
 Kuckt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
-	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir domat mat de [//wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [//www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
-Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Ärt Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
+	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [//wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [//www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
+Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
 	'wikimedia-editpage-tos-summary' => "Wann Dir net wëllt datt Ären Text vun Anere verännert a weiderverdeelt gëtt, da späichert en net hei of. Wann Dir dëst net selwer geschriwwen hutt, da muss et ënnert Konditiounen déi am Aklang mat [//wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingunge] sinn and Dir musst domat averstane sinn fir all Ufuederunge vun der Lizenz z'erfëllen.",
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 );
@@ -8593,12 +8593,12 @@ $messages['nds-nl'] = array(
 	'group-inactive' => 'inaktieve gebrukers',
 	'group-inactive-member' => 'inaktieve gebruker',
 	'grouppage-inactive' => '{{ns:project}}:Inaktieve gebrukers',
-	'wikimedia-copyright' => 'De tekste ku\'j naolezen onder de lisensie <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>; t kan ween dat nog meer veurweerden van toepassing bin.
+	'wikimedia-copyright' => 'De tekste is beschikbaor onder de lisensie <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>. 
+t Kan ween dat nog meer veurweerden van toepassing bin.
 Bekiek de <a href="//wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
-	'wikimedia-copyrightwarning' => "Deur disse bewarking op te slaon, stem je in mit t vriegeven van joew biedrage onder de lisensie [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [//www.gnu.org/copyleft/fdl.html GFDL], dit ku'w niet weerummedreien.
-Je stemmen dermee in deur hergebrukers op z'n minst eneumd te wörden via n verwiezing naor de pagina waor je an biedragen.
-Bekiek de [//wikimediafoundation.org/wiki/Terms_of_use algemene veurweerden] veur meer informasie.",
-	'wikimedia-editpage-tos-summary' => "A'j niet willen dat joew biedrage bewark of verspreid wörden, slao t dan niet op.
+	'wikimedia-copyrightwarning' => 'Deur op de knoppe "{{int:savearticle}}" te klikken, stem je in mit de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [//www.gnu.org/copyleft/fdl.html GFDL].
+Je stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon.',
+	'wikimedia-editpage-tos-summary' => "A'j niet willen dat joew biedrage bewarkt of verspreid wörden, slao t dan niet op.
 A'j de tekste niet zelf eschreven hebben, dan mut de biedrage beschikbaor ween onder de [//wikimediafoundation.org/wiki/Terms_of_use algemene veurweerden] en stem je in mit alle relevante lisensieveurweerden.",
 );
 
@@ -9640,9 +9640,12 @@ $messages['pt'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|auto-patrulhador|auto-patrulhadora}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|auto-revisor|auto-revisora}}',
 	'group-bigexport-member' => '{{GENDER:$1|grande exportador|grande exportadora}}',
+	'group-botadmin-member' => '{{GENDER:$1|robô com direitos de administrador}}',
 	'group-confirmed-member' => '{{GENDER:$1|utilizador confirmado|utilizadora confirmada}}',
 	'group-editprotected-member' => '{{GENDER:$1|editor de páginas protegidas|editora de páginas protegidas}}',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|ex-administrador|ex-administradora}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|ex-burocrata}}',
 	'group-filemover-member' => '{{GENDER:$1|deslocador de ficheiros|deslocadora de ficheiros}}',
 	'group-flood-member' => '{{GENDER:$1|utilizador robô|utilizadora robô}}',
 	'group-founder-member' => '{{GENDER:$1|fundador|fundadora}}',
@@ -9662,9 +9665,12 @@ $messages['pt'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrulhadores',
 	'grouppage-autoreviewer' => '{{ns:project}}:Auto-revisores',
 	'grouppage-bigexport' => '{{ns:project}}:Grandes exportadores',
+	'grouppage-botadmin' => '{{ns:project}}: Robôs com direitos de administrador',
 	'grouppage-confirmed' => '{{ns:project}}:Utilizadores confirmados',
 	'grouppage-editprotected' => '{{ns:project}}:Editores de páginas protegidas',
 	'grouppage-eliminator' => '{{ns:project}}:Eliminador',
+	'grouppage-Ex_Administrator' => '{{ns:project}}: Ex-administradores',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}: Ex-burocratas',
 	'grouppage-filemover' => '{{ns:project}}:Deslocadores de ficheiros',
 	'grouppage-flood' => '{{ns:project}}:Utilizadores robô',
 	'grouppage-founder' => '{{ns:project}}:Fundadores',
@@ -9769,7 +9775,7 @@ $messages['pt-br'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|autopatrulhador|autopatrulhadora}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|autorrevisor|autorrevisora}}',
 	'group-bigexport-member' => 'grande {{GENDER:$1|exportador|exportadora}}',
-	'group-botadmin-member' => '{{GENDER:$1|Robô com direitos de administrador}}',
+	'group-botadmin-member' => '{{GENDER:$1|robô com direitos de administrador}}',
 	'group-confirmed-member' => '{{GENDER:$1|usuário confirmado|usuária confirmada}}',
 	'group-editprotected-member' => '{{GENDER:$1|editor|editora}} de página protegida',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
