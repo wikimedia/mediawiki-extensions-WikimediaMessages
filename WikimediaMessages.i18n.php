@@ -11805,8 +11805,8 @@ $messages['sv'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv användare}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
 	'wikimedia-copyright' => 'Text är tillgänglig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
-	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [//wikimediafoundation.org/wiki/Terms_of_use användarvillkoren] och samtycker oåterkalleligen till att frigöra ditt bidrag enligt licenserna [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA-3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
-Du accepterar att en hyperlänk eller URL tillräcklig tillskrivning under Creative Commons license.',
+	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [//wikimediafoundation.org/wiki/Terms_of_use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA-3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikimedia-editpage-tos-summary' => 'Om du inte vill att det du skriver ska bli redigerat och återanvänt ska du inte spara det här.
 Om du inte själv skrev texten, så måste det vara tillgängligt under villkor som är i överensstämmelse med [//wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren], du bekräftar att du uppfyller alla relevanta licenskrav.',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
