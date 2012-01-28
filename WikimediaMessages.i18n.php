@@ -2930,8 +2930,11 @@ $messages['dsb'] = array(
 	'group-autopatrolled' => 'Awtomatiske doglědowarje',
 	'group-autoreviewer' => 'Awtomatiske kontrolery',
 	'group-bigexport' => 'Wjelikoeksportery',
+	'group-botadmin' => 'Boty z pšawami administratora',
 	'group-confirmed' => 'Wobkšuśone wužywarje',
 	'group-editprotected' => 'Wobźěłarje šćitanych bokow',
+	'group-Ex_Administrator' => 'Něgajšne administratory',
+	'group-Ex_Bureaucrat' => 'Něgjašne běrokraty',
 	'group-eliminator' => 'Lašowarje',
 	'group-filemover' => 'Pśesuwarje datajow',
 	'group-flood' => 'Botowe wužywarje',
@@ -2952,9 +2955,12 @@ $messages['dsb'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|awtomatiski doglědowaŕ|awtomatiska doglědowarka}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|awtomatiski kontroler|awtomatiska kontrolerka}}',
 	'group-bigexport-member' => '{{GENDER:$1|wjelikoeksporter|wjelikoeksporterka}}',
+	'group-botadmin-member' => '{{GENDER:$1|bot z pšawami administratora}}',
 	'group-confirmed-member' => '{{GENDER:$1|wobkšuśony wužywaŕ|wobkšuśona wužywarka}}',
 	'group-editprotected-member' => '{{GENDER:$1|wobźěłaŕ|wobźěłarka}} šćitanych bokow',
 	'group-eliminator-member' => '{{GENDER:$1|lašowaŕ|lašowarka}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|něgajšny administrator|něgajšna administratorka}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|něgajšny běrokrat|něgajšna běrokratka}}',
 	'group-filemover-member' => '{{GENDER:$1|pśesuwaŕ|pśesuwarka}} datajow',
 	'group-flood-member' => '{{GENDER:$1|botowy wužywaŕ|botowa wužywarka}}',
 	'group-founder-member' => '{{GENDER:$1|załožaŕ|załožarka}}',
@@ -2974,9 +2980,12 @@ $messages['dsb'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatiske doglědowarje',
 	'grouppage-autoreviewer' => '{{ns:project}}:Awotomatiske kontrolery',
 	'grouppage-bigexport' => '{{ns:project}}:Wjelikoeksportery',
+	'grouppage-botadmin' => '{{ns:project}}:Boty z pšawami administratora',
 	'grouppage-confirmed' => '{{ns:project}}:Wobkšuśone wužywarje',
 	'grouppage-editprotected' => '{{ns:project}}:Wobźěłarje šćitanych bokow',
 	'grouppage-eliminator' => '{{ns:project}}:Lašowaŕ',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Něgajšne administratory',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Něgajšne běrokraty',
 	'grouppage-filemover' => '{{ns:project}}:Pśesuwarje datajow',
 	'grouppage-flood' => '{{ns:project}}:Botowe wužywarje',
 	'grouppage-founder' => '{{ns:project}}:Załožarje',
@@ -3005,6 +3014,9 @@ $messages['dsb'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|globalny administrator|globalna administratorka}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsnik|ombudsnica}}',
 	'group-Staff-member' => 'sobuźěłaśerje',
+	'group-translationadmin' => 'Pśełožowańske administratory',
+	'group-translationadmin-member' => '{{GENDER:$1|pśełožowaski administrator|pśełožowańska administratorka}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Pśełožowańke administratory',
 	'group-coder' => 'Programěrarje',
 	'group-coder-member' => '{{GENDER:$1|programěraŕ|programěrarka}}',
 	'group-inactive' => 'Njeaktiwne wužywarje',
@@ -3015,6 +3027,7 @@ $messages['dsb'] = array(
 Pśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Jolic njocoš, až se twój tekst wobźěłujo a rozdźělujo pó dobrozdaśu, njewózjaw jen how.
 Jolic njejsy to sam spisał, musy pód wuměnjenjami k dispoziciji staś, kótarež makaju se z [//wikimediafoundation.org/wiki/Terms_of_Use wužywańskimi wuměnjenjami], a pśigłosujoš se wótpowědnych licencnych pominanjow źaržaś.',
+	'cant-delete-main-page' => 'Njamóžoš głowny bok wulašowaś abo pśesunuś.',
 );
 
 /** Divehi (ދިވެހިބަސް) */
@@ -7186,7 +7199,7 @@ $messages['lb'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|Iwwersetzungsadministrateur|Iwwersetzungsadministratrice}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Iwwersetzungs-Administrateuren',
 	'group-coder' => 'Programméierer',
-	'group-coder-member' => 'Programméierer',
+	'group-coder-member' => '{{GENDER:$1|Programméierer}}',
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
 	'group-inactive-member' => '{{GENDER:$1|net aktive Benotzer}}',
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
@@ -9598,6 +9611,7 @@ $messages['ps'] = array(
  * @author Heldergeovane
  * @author João Sousa
  * @author Lijealso
+ * @author Luckas Blade
  * @author Malafaya
  * @author Sir Lestaty de Lioncourt
  * @author Waldir
@@ -9618,8 +9632,11 @@ $messages['pt'] = array(
 	'group-autopatrolled' => 'Autopatrulhadores',
 	'group-autoreviewer' => 'Auto-revisores',
 	'group-bigexport' => 'Grandes exportadores',
+	'group-botadmin' => 'Robôs com direitos de administrador',
 	'group-confirmed' => 'Utilizadores confirmados',
 	'group-editprotected' => 'Editores de páginas protegidas',
+	'group-Ex_Administrator' => 'Ex-administradores',
+	'group-Ex_Bureaucrat' => 'Ex-burocratas',
 	'group-eliminator' => 'Eliminadores',
 	'group-filemover' => 'Deslocadores de ficheiros',
 	'group-flood' => 'Utilizadores robô',
@@ -9691,7 +9708,7 @@ $messages['pt'] = array(
 	'group-Global_sysops' => 'Administradores globais',
 	'group-Ombudsmen' => 'Mediadores',
 	'group-Staff' => 'Pessoal',
-	'group-steward-member' => 'assistente',
+	'group-steward-member' => '{{GENDER:$1|Steward}}',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador|administradora}} do sistema',
 	'group-editinterface-member' => '{{GENDER:$1|editor|editora}} da interface',
 	'group-Global_bot-member' => 'robô global',
