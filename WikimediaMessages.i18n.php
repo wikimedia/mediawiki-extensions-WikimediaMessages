@@ -832,7 +832,7 @@ $messages['ar'] = array(
 	'group-flood-member' => '{{GENDER:$1|مستخدم بوت}}',
 	'group-founder-member' => '{{GENDER:$1|مؤسس|مؤسسة}}',
 	'group-Image-reviewer-member' => '{{GENDER:$1|مراجع صور|مراجعة صور}}',
-	'group-import-member' => 'مستورد',
+	'group-import-member' => '{{GENDER:$1|مستورد|مستوردة}}',
 	'group-interface_editor-member' => 'محرّر الواجهة',
 	'group-ipblock-exempt-member' => 'مستثنى من منع الأيبي',
 	'group-OTRS-member-member' => 'عضو أو تي آر إس',
@@ -870,7 +870,7 @@ $messages['ar'] = array(
 	'group-Global_sysops' => 'مديرو نظام عامون',
 	'group-Ombudsmen' => 'أومبدسمين',
 	'group-Staff' => 'مشرفون',
-	'group-steward-member' => 'مضيف',
+	'group-steward-member' => '{{GENDER:$1|مضيف|مضيفة}}',
 	'group-sysadmin-member' => 'إداري نظام',
 	'group-editinterface-member' => 'محرر واجهة',
 	'group-Global_bot-member' => 'بوت عام',
@@ -4887,11 +4887,25 @@ $messages['gsw'] = array(
 /** Gujarati (ગુજરાતી)
  * @author Aksi great
  * @author Dsvyas
+ * @author KartikMistry
  * @author לערי ריינהארט
  */
 $messages['gu'] = array(
 	'sitesupport' => 'દાન',
 	'tooltip-n-sitesupport' => 'અમારું સમર્થન કરો',
+	'nstab-institution' => 'સંસ્થા',
+	'group-trusted' => 'વિશ્વાસુ સભ્યો',
+	'group-sysadmin' => 'સિસ્ટમ સંચાલકો',
+	'group-sysadmin-member' => '{{GENDER:$1|સિસ્ટમ સંચાલક}}',
+	'group-translationadmin' => 'ભાષાંતર સંચાલકો',
+	'group-translationadmin-member' => '{{GENDER:$1|ભાષાંતર સંચાલક}}',
+	'grouppage-translationadmin' => '{{ns:project}}:ભાષાંતર સંચાલકો',
+	'group-coder' => 'કોડર્સ',
+	'group-coder-member' => '{{GENDER:$1|કોડર}}',
+	'group-inactive' => 'અસક્રિય સભ્યો',
+	'group-inactive-member' => '{{GENDER:$1|અસક્રિય સભ્ય}}',
+	'grouppage-inactive' => '{{ns:project}}:અસક્રિય સભ્યો',
+	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
 );
 
 /** Manx (Gaelg)
