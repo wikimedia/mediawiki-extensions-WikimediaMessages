@@ -5000,6 +5000,11 @@ $messages['gu'] = array(
 	'group-inactive' => 'અસક્રિય સભ્યો',
 	'group-inactive-member' => '{{GENDER:$1|અસક્રિય સભ્ય}}',
 	'grouppage-inactive' => '{{ns:project}}:અસક્રિય સભ્યો',
+	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+હેઠળ ઉપલબ્ધ છે વધારાની શરતો લાગુ છે.
+વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
+	'wikimedia-editpage-tos-summary' => 'જો તમે તમરા લેખનમં કાંઈ ફેરફાર કરે, મઠારે, ઍવું ન ઈચ્છતા હોવ તો અહીં તેને પ્રસિદ્ધ ન કરશો.
+જો તમે તેને જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] ની શરતોને અધીન  હોવું જોઈએ.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
 );
 
@@ -6035,7 +6040,7 @@ $messages['ilo'] = array(
 	'nstab-creator' => 'Nangaramid',
 	'nstab-institution' => 'Patakder',
 	'nstab-sequence' => 'Panagsarsaruno',
-	'nstab-timedtext' => 'Naorasan a teksto',
+	'nstab-timedtext' => 'Naorasan a testo',
 	'group-abusefilter' => 'Dagiti agur-unos ti sagat ti panag-abuso',
 	'group-accountcreator' => 'Dagiti agararamid ti pakabilangan',
 	'group-arbcom' => 'Dagiti kameng ti pagkappian a pagtitinongan',
