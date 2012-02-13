@@ -5004,6 +5004,8 @@ $messages['gu'] = array(
 	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 હેઠળ ઉપલબ્ધ છે વધારાની શરતો લાગુ છે.
 વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરી, તમે [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], and you irrevocably agree to release your contribution under the [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] અને [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ની નિતી નિયમસાથે સહેમત થાવ છો.
+તમે સહેમત છો કે ક્રીએટીવ કોમન્સ લાઈસેન્સ હેઠળ hyperlink કે URL એ પૂરતું યશમાન છે',
 	'wikimedia-editpage-tos-summary' => 'જો તમે તમરા લેખનમં કાંઈ ફેરફાર કરે, મઠારે, ઍવું ન ઈચ્છતા હોવ તો અહીં તેને પ્રસિદ્ધ ન કરશો.
 જો તમે તેને જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] ની શરતોને અધીન  હોવું જોઈએ.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
@@ -6756,9 +6758,10 @@ $messages['kk-arab'] = array(
 $messages['kk-cyrl'] = array(
 	'sitesupport' => 'Демеушілік',
 	'tooltip-n-sitesupport' => 'Демеу беріңіз',
+	'group-accountcreator' => 'Аккаунт жасаушылар',
 	'group-import' => 'Сырттан алушылар',
 	'group-import-member' => 'сырттан алушы',
-	'grouppage-accountcreator' => '{{ns:project}}:Тіркелгі жасаушылар',
+	'grouppage-accountcreator' => '{{ns:project}}:Аккаунт жасаушылар',
 	'group-sysadmin' => 'Жүйе әкімшілері',
 	'group-Staff' => 'Басқарма',
 	'group-sysadmin-member' => 'жүйе әкімшісі',
@@ -9853,7 +9856,7 @@ $messages['pt'] = array(
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
 	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}" você aceita as [//wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso], e aceita de modo irrevogável liberar as suas contribuições sob as licenças [//creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
-Concorda também que uma hiperligação ou URL constitui atribuição bastante sob a licença Creative Commons.',
+Concorda também que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, por favor, não o submeta aqui.
 Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [//wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e concorda em seguir quaisquer condições de licenciamento relevantes.',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
@@ -12062,11 +12065,20 @@ $messages['ta'] = array(
 	'group-OTRS-member' => 'OTRS உறுப்பினர்கள்',
 	'group-trusted' => 'நம்பத்தகுந்த பயனர்கள்',
 	'group-accountcreator-member' => 'கணக்கை உருவாக்குவோர்',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|முன்னாள் நிர்வாகி}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|முன்னாள் அதிகாரிகள்}}',
 	'group-filemover-member' => '{{GENDER:$1|கோப்பை நகர்த்துபவர்}}',
 	'group-flood-member' => '{{GENDER:$1|தானியங்கி பயனர்}}',
-	'group-founder-member' => 'நிறுவனர்',
+	'group-founder-member' => '{{GENDER:$1|நிறுவனர்}}',
+	'group-Image-reviewer-member' => '{{GENDER:$1|பட பரிசீலனையாளர்}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|ஐபி தடை விதிவிலக்கு}}',
 	'group-researcher-member' => 'ஆய்வாளர்',
 	'group-trusted-member' => 'நம்பத்தகுந்த பயனர்',
+	'grouppage-filemover' => '{{ns:project}}:  கோப்பு நகர்த்துபவர்கள்',
+	'grouppage-flood' => '{{ns:project}}:தானியங்கி பயனர்கள்',
+	'grouppage-founder' => '{{ns:project}}:நிறுவனர்கள்',
+	'grouppage-Image-reviewer' => '{{ns:project}}:பட பரிசீலனையாளர்கள்',
+	'grouppage-ipblock-exempt' => '{{ns:project}}: ஐபி தடை விலக்கு',
 	'group-sysadmin' => 'அமைப்பின் நிர்வாகிகள்',
 	'group-Global_bot' => 'உலகளவிய தானியங்கிகள்',
 	'group-Staff' => 'பணியாளர்கள்',
