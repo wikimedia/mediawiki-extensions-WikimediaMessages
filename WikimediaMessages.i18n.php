@@ -3116,9 +3116,9 @@ $messages['el'] = array(
 	'group-rollbacker' => 'Αναιρέτες',
 	'group-transwiki' => 'Εισαγωγείς Transwiki',
 	'group-trusted' => 'Έμπιστοι χρήστες',
-	'group-abusefilter-member' => 'τροποποιητής φίλτρων καταχρήσεων',
-	'group-accountcreator-member' => 'δημιουργός λογαριασμού',
-	'group-arbcom-member' => 'μέλος της επιτροπής διαιτησίας',
+	'group-abusefilter-member' => '{{GENDER:$1|επεξεργαστής φίλτρων κατάχρησης}}',
+	'group-accountcreator-member' => '{{GENDER:$1|δημιουργός λογαριασμού}}',
+	'group-arbcom-member' => '{{GENDER:$1|μέλος επιτροπής διαιτησίας}}',
 	'group-autopatrolled-member' => 'αυτόματη περίπολος',
 	'group-autoreviewer-member' => 'αυτοελεγκτής',
 	'group-bigexport-member' => 'Μεγάλος εξαγωγέας',
@@ -5006,8 +5006,8 @@ $messages['gu'] = array(
 વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરી, તમે [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], and you irrevocably agree to release your contribution under the [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] અને [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ની નિતી નિયમસાથે સહેમત થાવ છો.
 તમે સહેમત છો કે ક્રીએટીવ કોમન્સ લાઈસેન્સ હેઠળ hyperlink કે URL એ પૂરતું યશમાન છે',
-	'wikimedia-editpage-tos-summary' => 'જો તમે તમરા લેખનમં કાંઈ ફેરફાર કરે, મઠારે, ઍવું ન ઈચ્છતા હોવ તો અહીં તેને પ્રસિદ્ધ ન કરશો.
-જો તમે તેને જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] ની શરતોને અધીન  હોવું જોઈએ.',
+	'wikimedia-editpage-tos-summary' => 'જો તમે ચાહતા ના હોવ કે તમારા લખાણમાં કોઈ ફેરફાર કરે અને પોતાની મરજી પ્રમાણે અન્યત્ર વહેંચે તો અહીં યોગદાન કરશો નહી.
+જો તમે આ લખાણ જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ]ની શરતોને અધીન  હોવું જોઈએ અને તમે તેને સંલગ્ન કોઈપણ પરવાનાઓની આવશ્યકતાઓનું પાલન કરવા માટે સહમત હોવા જોઈએ.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
 );
 
@@ -6798,11 +6798,17 @@ $messages['km'] = array(
 	'sitesupport-url' => 'Project:ទំព័រគាំទ្រ',
 	'sitesupport' => 'វិភាគទាន',
 	'tooltip-n-sitesupport' => 'គាំទ្រ​យើងខ្ញុំ',
+	'specialpages-group-contribution' => 'ការបរិច្ចាគនិងការប្រមូលមូលនិធិ',
+	'nstab-creator' => 'ស្ថាបនិក',
+	'nstab-institution' => 'ស្ថាប័ន',
 	'group-abusefilter' => 'កម្មវិធី​កែ​សម្រួល​តម្រងការបំពានច្បាប់',
 	'group-accountcreator' => 'អ្នកបង្កើតគណនី',
 	'group-autoreviewer' => 'ក្រុម​អ្នកត្រួតពិនិត្យឡើងវិញដោយ​ស្វ័យប្រវត្តិ​',
 	'group-bigexport' => 'ក្រុម​អ្នកនាំចេញ​ធំ​',
+	'group-botadmin' => 'រូបយន្តដែលមានសិទ្ធិស្មើអភិបាល',
 	'group-confirmed' => 'អ្នកប្រើប្រាស់ទាំងឡាយ​ដែលត្រូវបាន​ទទួលស្គាល់',
+	'group-editprotected' => 'អ្នកកែប្រែទំព័រដែលត្រូវបានការពារ',
+	'group-Ex_Administrator' => 'អតីតអភិបាល',
 	'group-founder' => 'ស្ថាបនិក',
 	'group-import' => 'អ្នកនាំចូល',
 	'group-patroller' => 'អ្នកតាមដាន',
