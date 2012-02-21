@@ -3012,6 +3012,13 @@ $messages['cy'] = array(
 	'wm-license-cc-by-2.1-es-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.1/es/deed.en Attribution 2.1 Sbaen].",
 	'wm-license-cc-by-2.1-jp-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.1/jp/deed.en Attribution 2.1 Japan].",
 	'wm-license-cc-by-2.5-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/deed.en Attribution 2.5 Generic].",
+	'wm-license-cc-by-2.5-ar-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/ar/deed.en Attribution 2.5 yr Ariannin].",
+	'wm-license-cc-by-2.5-au-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/au/deed.en Attribution 2.5 Awstralia].",
+	'wm-license-cc-by-2.5-bg-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/bg/deed.en Attribution 2.5 Bwlgaria].",
+	'wm-license-cc-by-2.5-br-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/br/deed.en Attribution 2.5 Brasil].",
+	'wm-license-cc-by-2.5-ca-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/ca/deed.en Attribution 2.5 Canada].",
+	'wm-license-cc-by-2.5-ch-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/ch/deed.en Attribution 2.5 y Swistir].",
+	'wm-license-cc-by-2.5-cn-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/cn/deed.en Attribution 2.5 Tir Mawr Tseina].",
 	'wm-license-cc-sa-1.0-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/deed.en Share Alike 1.0 Generic].",
 	'wm-license-cc-sa-1.0-fi-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 y Ffindir].",
 	'wm-license-cc-sa-1.0-nl-text' => "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.en Share Alike 1.0 Yr Iseldiroedd].",
@@ -3024,6 +3031,8 @@ $messages['cy'] = array(
 	'wm-license-cc-free-to-remix-text' => "gallwch addasu'r gwaith",
 	'wm-license-cc-conditions' => 'Ar yr amodau canlynol:',
 	'wm-license-cc-conditions-attribution-header' => 'cydnabyddiaeth',
+	'wm-license-cc-conditions-attribution-text' => "Mae'n rhaid i chi dadogi'r gwaith hwn yn y modd a benwyd gan yr awdur neu'r trwyddewr (ond heb awgrymu o gwbl eu bod yn eich cymeradwyo chi na'ch defnydd o'r gwaith).",
+	'wm-license-cc-conditions-share_alike-header' => 'rhannu ar dermau tebyg',
 );
 
 /** Danish (Dansk)
