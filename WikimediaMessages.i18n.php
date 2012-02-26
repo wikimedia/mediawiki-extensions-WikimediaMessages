@@ -228,10 +228,10 @@ A specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/fou
 {{Identical|Founder}}',
 	'group-Image-reviewer' => '{{doc-group|Image-reviewer}}',
 	'group-import' => '{{doc-group|import}}',
-	'group-interface_editor' => '{{doc-group|interface editors}}',
+	'group-interface_editor' => '{{doc-group|interface editor}}',
 	'group-ipblock-exempt' => '{{doc-group|ipblock-exempt}}',
 	'group-OTRS-member' => '{{doc-group|OTRS-member}}',
-	'group-patroller' => '{{doc-group|patroller}}',
+	'group-patroller' => '{{doc-group|patroller|prefix=wmf-}}',
 	'group-researcher' => "{{doc-group|researcher}}
 From [[wikipedia:Wikipedia:Researcher#Researcher]]
 The 'researcher' group was created in April 2010 to allow individuals explicitly approved by the Wikimedia Foundation to search deleted pages and view deleted history entries without their associated text.",
@@ -259,10 +259,10 @@ used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]
 {{Identical|Founder}}',
 	'group-Image-reviewer-member' => '{{doc-group|Image-reviewer|member}}',
 	'group-import-member' => '{{doc-group|import|member}}',
-	'group-interface_editor-member' => '{{doc-group|interface editors|member}}',
+	'group-interface_editor-member' => '{{doc-group|interface editor|member}}',
 	'group-ipblock-exempt-member' => '{{doc-group|ipblock-exempt|member}}',
 	'group-OTRS-member-member' => '{{doc-group|OTRS-member|member}}',
-	'group-patroller-member' => '{{doc-group|patroller|member}}',
+	'group-patroller-member' => '{{doc-group|patroller|member|prefix=wmf-}}',
 	'group-researcher-member' => "{{doc-group|researcher|member}}
 From [[wikipedia:Wikipedia:Researcher#Researcher]]
 The 'researcher' group was created in April 2010 to allow individuals explicitly approved by the Wikimedia Foundation to search deleted pages and view deleted history entries without their associated text.",
@@ -288,7 +288,7 @@ Big export user has a right to: {{int:right-override-export-depth}}',
 	'grouppage-founder' => '{{doc-group|founder|page}}',
 	'grouppage-Image-reviewer' => '{{doc-group|Image-reviewer|page}}',
 	'grouppage-import' => '{{doc-group|import|page}}',
-	'grouppage-interface_editor' => '{{doc-group|interface editors|page}}',
+	'grouppage-interface_editor' => '{{doc-group|interface editor|page}}',
 	'grouppage-ipblock-exempt' => '{{doc-group|ipblock-exempt|page}}',
 	'grouppage-OTRS-member' => '{{doc-group|OTRS-member|page}}',
 	'grouppage-researcher' => "{{doc-group|researcher|page}}
@@ -306,6 +306,7 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 {{Identical|Rollback}}',
 	'group-Global_sysops' => '{{doc-group|Global sysops}}',
 	'group-Ombudsmen' => '{{doc-group|Ombudsmen}}',
+	'group-Staff' => '{{doc-group|Staff|prefix=wmf-}}',
 	'group-steward-member' => '{{doc-group|steward|member}}',
 	'group-sysadmin-member' => '{{doc-group|sysadmin|member}}',
 	'group-editinterface-member' => '{{doc-group|editinterface|member}}',
@@ -314,6 +315,7 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 {{Identical|Rollback}}',
 	'group-Global_sysops-member' => '{{doc-group|Global sysops|member}}',
 	'group-Ombudsmen-member' => '{{doc-group|Ombudsmen|member}}',
+	'group-Staff-member' => '{{doc-group|Staff|member|prefix=wmf-}}',
 	'grouppage-steward' => '{{optional}}
 {{doc-group|steward|page}}
 {{Global grouppage}}',
@@ -332,7 +334,8 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'grouppage-Ombudsmen' => '{{optional}}
 {{doc-group|Ombudsmen|page}}
 {{Global grouppage}}',
-	'grouppage-Staff' => '{{optional}}',
+	'grouppage-Staff' => '{{optional}}
+{{doc-group|Staff|page|prefix=wmf-}}',
 	'group-translationadmin' => '{{doc-group|translationadmin}}',
 	'group-translationadmin-member' => '{{doc-group|translationadmin|member}}',
 	'grouppage-translationadmin' => '{{doc-group|translationadmin|page}}',
@@ -2790,7 +2793,7 @@ $messages['de'] = array(
 	'group-Global_rollback-member' => '{{GENDER:$1|Globaler Zurücksetzer|Globale Zurücksetzerin}}',
 	'group-Global_sysops-member' => '{{GENDER:$1|Globaler Administrator|Globale Administratorin}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|Ombudsperson}}',
-	'group-Staff-member' => 'Mitarbeiter',
+	'group-Staff-member' => '{{GENDER:$1|Mitarbeiter|Mitarbeiterin}}',
 	'grouppage-steward' => 'm:Stewards/de',
 	'grouppage-Global_rollback' => 'm:Global rollback/de',
 	'grouppage-Global_sysops' => 'm:Global sysops/de',
@@ -9249,6 +9252,7 @@ $messages['or'] = array(
 
 /** Ossetic (Ирон)
  * @author Amikeco
+ * @author Bouron
  */
 $messages['os'] = array(
 	'sitesupport' => 'Мысайнаг',
@@ -9256,6 +9260,7 @@ $messages['os'] = array(
 	'group-founder' => 'Бындурæвæрджытæ',
 	'group-founder-member' => 'бындурæвæрæг',
 	'grouppage-founder' => '{{ns:project}}:Бындурæвæрджытæ',
+	'shared-repo-name-shared' => 'Викикъæбиц',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
