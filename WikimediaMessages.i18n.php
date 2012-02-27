@@ -9675,7 +9675,7 @@ $messages['pnb'] = array(
 	'group-coder' => 'کوڈرز',
 	'group-coder-member' => '{{جنس:$1|کوڈر}}',
 	'group-inactive' => 'نکمے ورتاوے',
-	'group-inactive-member' => 'ویلا ورتاوہ',
+	'group-inactive-member' => '{{GENDER:$1|ویلا ورتن والا}}',
 	'grouppage-inactive' => '{{ns:project}}:ویلے ورتن آلے',
 	'wikimedia-copyright' => 'Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
@@ -13143,7 +13143,7 @@ $messages['uk'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
 	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
-	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтесь на їх невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови вказання URL-адреси на сторінку, яку ви редагували. Детальніше див. [//wikimediafoundation.org/wiki/Умови_використання умови використання].',
+	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [//wikimediafoundation.org/wiki/Terms_of_use умовами використання], а також на невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikimedia-editpage-tos-summary' => 'Якщо ви не бажаєте, щоб ваші тексти вільно редагувалися і розповсюджувалися будь-ким, не поміщайте їх сюди.
 Якщо ви не є автором цього тексту, він повинен бути доступний на умовах, сумісних із [//wikimediafoundation.org/wiki/Умови_використання умовами використання], і ви погоджуєтесь дотримуватись усіх відповідних ліцензійних вимог.',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
