@@ -6287,6 +6287,7 @@ $messages['pdt'] = array(
 );
 
 /** Polish (Polski)
+ * @author BeginaFelicysym
  * @author Equadus
  * @author Fizykaa
  * @author Leinad
@@ -6375,9 +6376,15 @@ $messages['pl'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'W niektórych krajach może nie być to prawnie możliwe, jeśli tak, to:',
 	'wm-license-pd-author-self-any-purpose' => "Zapewniam każdemu prawo do użycia tej pracy '''w dowolnym celu''', bez żadnych ograniczeń, chyba że te ograniczenia są wymagane przez prawo.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 zapewnia każdemu prawo do użycia tej pracy '''w dowolnym celu''', bez żadnych ograniczeń, chyba że te ograniczenia są wymagane przez prawo.",
+	'wm-license-pd-usgov-fema-text' => "Ten plik jest jest wynikiem działań pracownika [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]], pozyskanych lub wykonanych w trakcie pełnienia jego obowiązków służbowych. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|praca]]  [[{{int:wm-license-pd-usgov-wiki-link}}|władz federalnych USA]], plik jest '''[[{{int:wm-license-pd-wiki-link}}|własnością publiczną]]'''.",
+	'wm-license-pd-usgov-military-text' => "Ten plik jest dziełem pracownika [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|wojska U.S.]] lub [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Departamentu Obrony]], pozyskanym lub wykonanych w trakcie pełnienia obowiązków służbowych danej osoby. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|praca]] [[{{int:wm-license-pd-usgov-wiki-link}}|władz federalnych USA]], plik jest '''[[{{int:wm-license-pd-wiki-link}}|własnością publiczną]]'' '.",
+	'wm-license-pd-usgov-military-air-force-text' => "Ten plik jest dziełem lotnika lub pracownika [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|U.S. Air Force]], pozyskanych lub wykonanych w trakcie pełnienia jego obowiązków służbowych. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|praca]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|władz federalnych USA]], plik jest '''[[{{int:wm-license-pd-wiki-link}}|własnością publiczną]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:pl:United States Air Force',
+	'wm-license-pd-usgov-military-army-text' => "Ten plik jest dziełem żołnierza lub pracownika [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Armii U.S.]], pozyskanych lub wykonanych w trakcie pełnienia jego obowiązków służbowych. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|praca]] [[{{int:wm-license-pd-usgov-wiki-link}}||władz federalnych USA]], plik jest '''[[{{int:wm-license-pd-wiki-link}}|własnością publiczną]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:pl:United States Army',
+	'wm-license-pd-usgov-military-navy-text' => "Ten plik jest dziełem marynarza lub pracownika [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Marynarki U.S.]], pozyskanych lub wykonanych w trakcie pełnienia jego obowiązków służbowych. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|praca]] [[{{int:wm-license-pd-usgov-wiki-link}}|władz federalnych USA]], plik jest '''[[{{int:wm-license-pd-wiki-link}}|własnością publiczną]]'''.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:pl:United States Navy',
+	'wm-license-pd-usgov-noaa-text' => "Ten plik jest jest wynikiem działań pracownika [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], pozyskanych lub wykonanych w trakcie pełnienia jego obowiązków służbowych. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|praca]] [[{{int:wm-license-pd-usgov-wiki-link}}|władz federalnych USA]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|własnością publiczną]]'''.",
 	'wm-license-pd-wiki-link' => 'w:pl:Domena publiczna',
 	'wm-license-self-one-license' => 'Ja, właściciel praw autorskich do tego dzieła, udostępniam je na poniższej licencji',
 	'wm-license-self-one-license-with-author' => '$1 – właściciel praw autorskich do tego dzieła, udostępnia je na poniższej licencji',
