@@ -7208,12 +7208,12 @@ $messages['ku-latn'] = array(
  * @author Nicky.ker
  */
 $messages['kw'] = array(
-	'sitesupport' => 'Rianjow',
+	'sitesupport' => 'Riansow',
 	'tooltip-n-sitesupport' => 'Gwrewgh agan scoodhya',
 	'group-sysadmin' => 'Menystroryon an system',
-	'wikimedia-copyright' => 'Cavadow ew an text en-dadn <a href="//creativecommons.org/licenses/by-sa/3.0/">Cubmyas Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alja bos omvyskys. Gwelowgh an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
-	'wikimedia-editpage-tos-summary' => "Mar nag ew da genowgh agas ober dhe vos chanjys ha dasdyllys dre vodh, na wrewgh y witha obma.
-Mar nag ew hebma scrifys genowgh whi agas honen, res ew dhodho bos en-dadn termynyow kebmys ha'n [//wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha whi a wra acordya dhe sewya neb gorholethow lecyansa longus.",
+	'wikimedia-copyright' => 'Cavadow yw an text en-dadn <a href="//creativecommons.org/licenses/by-sa/3.0/">Cubmyas Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alja bos omvyskys. Gwelowgh an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
+	'wikimedia-editpage-tos-summary' => "Mar nyns yw da genowgh bos agas ober chanjys ha dasdyllys dre vodh, na wrewgh y witha obma.
+Mar nyns yw hebma scrifys genowgh whi agas honen, res yw y vos cavadow en-dadn termynyow kebmys ha'n [//wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha whi a wra acordya dhe sewya neb gorholethow lecyansa longus.",
 );
 
 /** Kirghiz (Кыргызча) */
