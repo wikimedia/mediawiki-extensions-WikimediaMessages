@@ -2451,6 +2451,8 @@ $messages['cu'] = array(
 	'sitesupport' => 'даꙗниꙗ',
 	'wikimedia-copyright' => 'подъ прощєниѥмь <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙
 Ꙁьри <a href="//wikimediafoundation.org/wiki/Terms_of_Use/cu">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма',
+	'wikimedia-copyrightwarning' => 'ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тъ бѫди съгласьнъ съ [//wikimediafoundation.org/wiki/Terms_of_use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєнии [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ⁙
+съгласьнь бѫди бо съвѧꙁь (URL) добро оукаꙁаниѥ творьца прощєниꙗ Creative Commons дѣлꙗ ѥстъ',
 );
 
 /** Chuvash (Чӑвашла)
@@ -6895,13 +6897,16 @@ If you did not write this yourself, it must be available under terms consistent 
 /** Kannada (ಕನ್ನಡ)
  * @author Nayvik
  * @author Shushruth
+ * @author VASANTH S.N.
  * @author לערי ריינהארט
  */
 $messages['kn'] = array(
 	'sitesupport' => 'ದೇಣಿಗೆ',
 	'tooltip-n-sitesupport' => 'ನಮ್ಮನ್ನು ಬೆಂಬಲಿಸಿ',
+	'nstab-creator' => 'ಸೃಷ್ಟಿಕರ್ತ',
 	'group-founder' => 'ಸಂಸ್ಥಾಪಕರು',
 	'group-founder-member' => 'ಸಂಸ್ಥಾಪಕ',
+	'grouppage-confirmed' => '{{ns:project}}:ಸ್ವಧೃಡೀಕೃತ ಬಳಕೆದಾರರು',
 	'group-Staff-member' => 'ಸಿಬ್ಬಂದಿ',
 	'group-inactive' => 'ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು',
 	'group-inactive-member' => 'ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯ',
