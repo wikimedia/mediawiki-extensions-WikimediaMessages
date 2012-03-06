@@ -2497,6 +2497,7 @@ $messages['ext'] = array(
  * @author Reza1615
  * @author Sahim
  * @author Wayiran
+ * @author ZxxZxxZ
  */
 $messages['fa'] = array(
 	'wikimedialicensetexts-desc' => 'پیام‌های ویکی‌مدیا در ارتباط با گواهینامه',
@@ -2578,6 +2579,7 @@ $messages['fa'] = array(
 	'wm-license-pd-usgov-wiki-link' => 'w:fa:نظام فدرالی ایالات متحده آمریکا',
 	'wm-license-pd-usgov-fema-text' => "این پرونده حاصل کار یکی از کارکنان [[{{int:wm-license-pd-usgov-fema-wiki-link}}|آژانس مدیریت بحران فدرال]] است، و در طول فعالیت‌های رسمی یک فرد گرفته یا ایجاد شده است. به عنوان [[{{int:wm-license-pd-usgov-work-wiki-link}}|محصولی]] از [[{{int:wm-license-pd-usgov-wiki-link}}|دولت فدرال ایالات متحده]]، این پرونده در '''[[{{int:wm-license-pd-wiki-link}}|مالکیت عمومی]]''' است.",
 	'wm-license-pd-usgov-military-text' => "این پرونده حاصل کار یکی از کارکنان [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|ارتش ایالات متحده]] یا [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|وزارت دفاع ایالات متحده]] است، و در طول فعالیت‌های رسمی یک فرد گرفته یا ایجاد شده است. به عنوان [[{{int:wm-license-pd-usgov-work-wiki-link}}|محصولی]] از [[{{int:wm-license-pd-usgov-wiki-link}}|دولت فدرال ایالات متحده]]، این پرونده در '''[[{{int:wm-license-pd-wiki-link}}|مالکیت عمومی]]''' است.",
+	'wm-license-pd-usgov-military-dod-wiki-link' => 'w:fa:وزارت دفاع ایالات متحده آمریکا',
 	'wm-license-pd-usgov-military-air-force-text' => "این پرونده حاصل کار یکی از کارکنان [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|نیروی هوایی ایالات متحده]] است، و در طول فعالیت‌های رسمی یک فرد گرفته یا ایجاد شده است. به عنوان [[{{int:wm-license-pd-usgov-work-wiki-link}}|محصولی]] از [[{{int:wm-license-pd-usgov-wiki-link}}|دولت فدرال ایالات متحده]]، این پرونده در '''[[{{int:wm-license-pd-wiki-link}}|مالکیت عمومی]]''' است.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:fa:نیروی هوایی ایالات متحده آمریکا',
 	'wm-license-pd-usgov-military-army-text' => "این پرونده حاصل کار یکی از کارکنان [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|ارتش ایالات متحده]] است، و در طول فعالیت‌های رسمی یک فرد گرفته یا ایجاد شده است. به عنوان [[{{int:wm-license-pd-usgov-work-wiki-link}}|محصولی]] از [[{{int:wm-license-pd-usgov-wiki-link}}|دولت فدرال ایالات متحده]]، این پرونده در '''[[{{int:wm-license-pd-wiki-link}}|مالکیت عمومی]]''' است.",
@@ -4421,6 +4423,7 @@ $messages['ka'] = array(
 	'wm-license-artwork-artist' => 'შემსრულებელი',
 	'wm-license-artwork-title' => 'სათაური',
 	'wm-license-artwork-dimensions' => 'ზომები',
+	'wm-license-artwork-current-location' => 'ამჟამინდელი მდებარეობა',
 	'wm-license-book-edition' => 'გამოცემა',
 	'wm-license-book-editor' => 'რედაქტორი',
 	'wm-license-book-illustrator' => 'ილუსტრატორი',
@@ -5047,6 +5050,12 @@ Zuuch [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lg
 	'wm-license-pd-author-not-legally-possible' => 'In sommig len is dit wettelik neet meugelek; in die gevalle gelt:',
 	'wm-license-pd-author-self-any-purpose' => "Ich staon ederein toe dit wirk '''veur ènnig doel''' te broeke, zónger ènnig veurwaerj, behauve zölk veurwaerj dóre wet waere veurgesjreve.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 stit ederein toe dit werk '''veur enig welk doel''' te gebroeke, zonger einige veurwaardes, tenzij zulke voorwaardes doore wet waere veurgesjreve.",
+	'wm-license-pd-usgov-fema-text' => "Dit bestandj is 't wèrk van 'ne mitwèrker vanne [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]], genómmen of gemaak tiejes de officieel take van dae persoon. Es [[{{int:wm-license-pd-usgov-work-wiki-link}}|wèrk]] vanne [[{{int:wm-license-pd-usgov-wiki-link}}|Amerikaanse federaal euverheid]] is 't bestandj in 't '''[[{{int:wm-license-pd-wiki-link}}|publiek domein]]'''.",
+	'wm-license-pd-usgov-military-text' => "Dit bestandj is 't wèrk van 'ne mitwèrker vanne [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|U.S. military]] of [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Department of Defense]], genómmen of gemaak tiejes de officieel take van dae persoon. Es [[{{int:wm-license-pd-usgov-work-wiki-link}}|wèrk]] vanne [[{{int:wm-license-pd-usgov-wiki-link}}|Amerikaanse federaal euverheid]] is 't bestandj in 't '''[[{{int:wm-license-pd-wiki-link}}|publiek domein]]'''.",
+	'wm-license-pd-usgov-military-air-force-text' => "Dit bestandj is 't wèrk van 'ne piloot of 'ne mitwèrker vanne [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|U.S. Air Force]], genómmen of gemaak tiejes de officieel take van dae persoon. Es [[{{int:wm-license-pd-usgov-work-wiki-link}}|wèrk]] vanne [[{{int:wm-license-pd-usgov-wiki-link}}|Amerikaanse federaal euverheid]] is 't bestandj in 't '''[[{{int:wm-license-pd-wiki-link}}|publiek domein]]'''.",
+	'wm-license-pd-usgov-military-army-text' => "Dit bestandj is 't wèrk van 'ne soldaot of 'ne mitwèrker vanne [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|U.S. Army]], genómmen of gemaak tiejes de officieel take van dae persoon. Es [[{{int:wm-license-pd-usgov-work-wiki-link}}|wèrk]] vanne [[{{int:wm-license-pd-usgov-wiki-link}}|Amerikaanse federaal euverheid]] is 't bestandj in 't '''[[{{int:wm-license-pd-wiki-link}}|publiek domein]]'''.",
+	'wm-license-pd-usgov-military-navy-text' => "Dit bestandj is 't wèrk van 'ne matroos of 'ne mitwèrker vanne [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|U.S. Navy]], genómmen of gemaak tiejes de officieel take van dae persoon. Es [[{{int:wm-license-pd-usgov-work-wiki-link}}|wèrk]] vanne [[{{int:wm-license-pd-usgov-wiki-link}}|Amerikaanse federaal euverheid]] is 't bestandj in 't '''[[{{int:wm-license-pd-wiki-link}}|publiek domein]]'''.",
+	'wm-license-pd-usgov-noaa-text' => "Dit bestandj is 't wèrk van 'ne mitwèrker vanne [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], genómmen of gemaak tiejes de officieel take van dae persoon. Es [[{{int:wm-license-pd-usgov-work-wiki-link}}|wèrk]] vanne [[{{int:wm-license-pd-usgov-wiki-link}}|Amerikaanse federaal euverheid]] is 't bestandj in 't '''[[{{int:wm-license-pd-wiki-link}}|publiek domein]]'''.",
 	'wm-license-pd-wiki-link' => 'w:li:Publiek domein',
 	'wm-license-self-one-license' => "Ich, de copyrighthauwer van dit wirk, maak 't hiebie ónger óngerstaonde licentie besjikbaar:",
 	'wm-license-self-one-license-with-author' => "$1, de copyrechhaajer hievan, brink 't hiebie ónger dees licensje oet:",
