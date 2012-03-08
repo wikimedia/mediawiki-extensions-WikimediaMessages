@@ -8118,6 +8118,7 @@ $messages['szl'] = array(
 );
 
 /** Tamil (தமிழ்)
+ * @author Aswn
  * @author Multichill
  * @author Shanmugamp7
  * @author TRYPPN
@@ -8161,6 +8162,7 @@ $messages['ta'] = array(
 	'wm-license-creator-work-location' => 'வேலைக்கான இடம்',
 	'wm-license-fsf-wiki-link' => 'w:ta:கட்டற்ற மென்பொருள் இயக்கம்',
 	'wm-license-free-software-wiki-link' => 'w:ta:கட்டற்ற மென்பொருள்',
+	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;மட்டுமே',
 	'wm-license-gfdl-wiki-link' => 'w:ta:குனூ தளையறு ஆவண உரிமம்',
 	'wm-license-gpl-wiki-link' => 'w:ta:க்னூ பொதுமக்கள் உரிமம்',
 	'wm-license-information-description' => 'விளக்கம்',
