@@ -4424,6 +4424,7 @@ $messages['ka'] = array(
 	'wm-license-artwork-title' => 'სათაური',
 	'wm-license-artwork-dimensions' => 'ზომები',
 	'wm-license-artwork-current-location' => 'ამჟამინდელი მდებარეობა',
+	'wm-license-artwork-references' => 'სქოლიო',
 	'wm-license-book-edition' => 'გამოცემა',
 	'wm-license-book-editor' => 'რედაქტორი',
 	'wm-license-book-illustrator' => 'ილუსტრატორი',
