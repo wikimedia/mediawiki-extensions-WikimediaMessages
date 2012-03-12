@@ -3873,6 +3873,7 @@ $messages['ff'] = array(
  * @author Nedergard
  * @author Nike
  * @author Olli
+ * @author Pxos
  * @author Silvonen
  * @author Str4nd
  * @author Tarmo
@@ -3892,7 +3893,7 @@ $messages['fi'] = array(
 	'group-accountcreator' => 'käyttäjätunnusten luojat',
 	'group-arbcom' => 'välityslautakunnan jäsenet',
 	'group-autopatrolled' => 'automaattisesti tarkastavat',
-	'group-autoreviewer' => 'automaattiset arvioivat',
+	'group-autoreviewer' => 'automaattiseulojat',
 	'group-bigexport' => 'suuret viejät',
 	'group-botadmin' => 'botit, joilla on ylläpitäjän oikeudet',
 	'group-confirmed' => 'hyväksytyt käyttäjät',
@@ -3917,7 +3918,7 @@ $messages['fi'] = array(
 	'group-accountcreator-member' => '{{GENDER:$1|käyttäjätunnusten luoja}}',
 	'group-arbcom-member' => '{{GENDER:$1|välityslautakunnan jäsen}}',
 	'group-autopatrolled-member' => '{{GENDER:$1|automaattisesti tarkastava}}',
-	'group-autoreviewer-member' => '{{GENDER:$1|automaattisesti arvioiva}}',
+	'group-autoreviewer-member' => '{{GENDER:$1|automaattiseuloja}}',
 	'group-bigexport-member' => '{{GENDER:$1|suuri viejä}}',
 	'group-botadmin-member' => '{{GENDER:$1|botti, jolla on ylläpitäjän oikeudet}}',
 	'group-confirmed-member' => '{{GENDER:$1|hyväksytty käyttäjä}}',
@@ -3942,7 +3943,7 @@ $messages['fi'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Käyttäjätunnusten luojat',
 	'grouppage-arbcom' => '{{ns:project}}:Välityslautakunnan jäsenet',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automaattisesti tarkastavat',
-	'grouppage-autoreviewer' => '{{ns:project}}:Automaattisesti arvioivat',
+	'grouppage-autoreviewer' => '{{ns:project}}:Automaattiseulojat',
 	'grouppage-bigexport' => '{{ns:project}}:Suuret viejät',
 	'grouppage-botadmin' => '{{ns:project}}:Botit, joilla on ylläpitäjän oikeudet',
 	'grouppage-confirmed' => '{{ns:project}}:Hyväksytyt käyttäjät',
@@ -3963,22 +3964,23 @@ $messages['fi'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
 	'grouppage-trusted' => '{{ns:project}}:Luotetut käyttäjät',
 	'group-steward' => 'ylivalvojat',
-	'group-sysadmin' => 'järjestelmän ylläpitäjät',
+	'group-sysadmin' => 'palvelinjärjestelmän ylläpitäjät',
 	'group-editinterface' => 'käyttöliittymän muokkaajat',
 	'group-Global_bot' => 'globaalit botit',
 	'group-Global_rollback' => 'globaalit palauttajat',
 	'group-Global_sysops' => 'globaalit ylläpitäjät',
-	'group-Ombudsmen' => 'edustajat',
-	'group-Staff' => 'projektin ylläpitäjät',
+	'group-Ombudsmen' => 'tietosuojavalvojat',
+	'group-Staff' => 'Wikimedian henkilökunta',
 	'group-steward-member' => '{{GENDER:$1|ylivalvoja}}',
-	'group-sysadmin-member' => '{{GENDER:$1|järjestelmän ylläpitäjä}}',
+	'group-sysadmin-member' => '{{GENDER:$1|palvelinjärjestelmän ylläpitäjä}}',
 	'group-editinterface-member' => '{{GENDER:$1|käyttöliittymän muokkaaja}}',
-	'group-Global_bot-member' => '{{GENDER:$1|yleisbotti}}',
-	'group-Global_rollback-member' => '{{GENDER:$1|yleispalauttaja}}',
-	'group-Global_sysops-member' => '{{GENDER:$1|yleinen ylläpitäjä}}',
-	'group-Ombudsmen-member' => '{{GENDER:$1|edustaja}}',
-	'group-Staff-member' => 'projektin ylläpitäjä',
+	'group-Global_bot-member' => '{{GENDER:$1|globaali botti}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|globaali palauttaja}}',
+	'group-Global_sysops-member' => '{{GENDER:$1|globaali ylläpitäjä}}',
+	'group-Ombudsmen-member' => '{{GENDER:$1|tietosuojavalvoja}}',
+	'group-Staff-member' => '{{GENDER:$1|Wikimedian henkilökunta}}',
 	'grouppage-steward' => 'm:Stewards/fi',
+	'grouppage-Staff' => 'Säätiö:Henkilökunta',
 	'group-translationadmin' => 'käännösylläpitäjät',
 	'group-translationadmin-member' => '{{GENDER:$1|käännösylläpitäjä}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Käännösylläpitäjät',
@@ -12104,6 +12106,7 @@ Uobejzdrzij blank dokłodne informacyje uo <a href="//wikimediafoundation.org/wi
 
 /** Tamil (தமிழ்)
  * @author Aswn
+ * @author Karthi.dr
  * @author Mayooranathan
  * @author Shanmugamp7
  * @author Sodabottle
@@ -12156,6 +12159,7 @@ $messages['ta'] = array(
 
 விவரங்களுக்கு, [//wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.',
 	'wikimedia-editpage-tos-summary' => 'உங்கள் படைப்புகளை பிறர் மாற்றம் செய்வதிலும் மறுபயன்பாடு செய்வதிலும் உங்களுக்கு விருப்பம் இல்லையெனில் இங்கு அவற்றை சேமிக்க வேண்டாம். இது நீங்கள் எழுதியதில்லையெனில், இது விக்கிமீடியா அறக்கட்டளையின் [//wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளுக்கு] உட்பட்டதாக இருக்க வேண்டும். மேலும் இங்கு இதனை சேமிக்கும் பொழுது இதற்கு ஏற்ற பதிப்புரிமை விதிமுறைகளைப் பின்பற்ற ஒப்புக் கொள்கிறீர்கள் என்பதை நினைவில் கொள்ளுங்கள்.',
+	'cant-delete-main-page' => 'முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது.',
 );
 
 /** Telugu (తెలుగు)

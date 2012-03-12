@@ -14829,6 +14829,7 @@ $messages['sw'] = array(
 );
 
 /** Tamil (தமிழ்)
+ * @author Karthi.dr
  * @author Multichill
  * @author Shanmugamp7
  * @author TRYPPN
@@ -14862,6 +14863,7 @@ $messages['ta'] = array(
 	'wm-license-cc-by-2.0-za-text' => 'இந்த கோப்பு  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது.உரிமம்  [//creativecommons.org/licenses/by/2.0/za/deed.ta Attribution 2.0 South Africa] .',
 	'wm-license-cc-by-2.1-au-text' => 'இந்த கோப்பு [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது.உரிமம் [//creativecommons.org/licenses/by/2.1/au/deed.ta Attribution 2.1 Australia] .',
 	'wm-license-cc-by-2.1-es-text' => 'இந்த கோப்பு  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது. [//creativecommons.org/licenses/by/2.1/es/deed.ta Attribution 2.1 Spain] உரிமம்.',
+	'wm-license-cc-by-2.1-jp-text' => '[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.1/jp/deed.en Attribution 2.1 Japan]  உரிமத்தின் கீழ் இக்கோப்பு உரிமமளிக்கப்படுகிறது.',
 	'wm-license-cc-free' => 'நீங்கள் சுதந்திரமாக இருக்கிறீர்கள்:',
 	'wm-license-cc-free-to-share-header' => 'பகிர்ந்து கொள்ள',
 );
