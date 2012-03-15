@@ -222,6 +222,13 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 * {{msg-mw|wm-license-self-one-license-with-author}}',
 );
 
+/** Ṫuroyo (Ṫuroyo)
+ * @author Ariyo
+ */
+$messages['tru'] = array(
+	'wm-license-book-language' => 'Leşono',
+);
+
 /** Afrikaans (Afrikaans)
  * @author Diebuche
  * @author Multichill
@@ -7710,6 +7717,8 @@ $messages['sl'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'V nekaterih državah to morda ni pravno mogoče; če je tako:',
 	'wm-license-pd-author-self-any-purpose' => "dajem vsakomur brezpogojno (z izjemo pogojev, ki jih določa zakonodaja) pravico, da gradivo uporablja '''za kakršen koli namen'''.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 daje vsakomur brezpogojno (z izjemo pogojev, ki jih določa zakonodaja) pravico, da gradivo uporablja '''za kakršen koli namen'''.",
+	'wm-license-pd-usgov-fema-text' => "Datoteka je delo zaposlenega v [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Zvezni agenciji za posredovanje v nesrečah]]. Morda je bila narejena v sklopu uradnih dolžnosti te osebe. Kot [[{{int:wm-license-pd-usgov-work-wiki-link}}|delo]] [[{{int:wm-license-pd-usgov-wiki-link}}|ameriške zvezne vlade]] je datoteka v '''[[{{int:wm-license-pd-wiki-link}}|javni lasti]]'''.",
+	'wm-license-pd-usgov-military-text' => "Datoteka je delo osebe, zaposlene v [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|ameriški vojski]] ali na [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Ministrstvu za obrambo]]. Narejena je bila v sklopu uradnih dolžnosti. Kot [[{{int:wm-license-pd-usgov-work-wiki-link}}|delo]] [[{{int:wm-license-pd-usgov-wiki-link}}|ameriške zvezne vlade]] je datoteka v '''[[{{int:wm-license-pd-wiki-link}}|javni lasti]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:sl:Vojno letalstvo Združenih držav Amerike',
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:sl:Kopenska vojska Združenih držav Amerike',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:sl:Vojna mornarica Združenih držav Amerike',
