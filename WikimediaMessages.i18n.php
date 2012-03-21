@@ -5037,8 +5037,8 @@ $messages['gu'] = array(
 	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 હેઠળ ઉપલબ્ધ છે વધારાની શરતો લાગુ છે.
 વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરી, તમે [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], and you irrevocably agree to release your contribution under the [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] અને [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ની નિતી નિયમસાથે સહેમત થાવ છો.
-તમે સહેમત છો કે ક્રીએટીવ કોમન્સ લાઈસેન્સ હેઠળ hyperlink કે URL એ પૂરતું યશમાન છે',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 પરવાના] તથા [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો. 
+તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
 	'wikimedia-editpage-tos-summary' => 'જો તમે ચાહતા ના હોવ કે તમારા લખાણમાં કોઈ ફેરફાર કરે અને પોતાની મરજી પ્રમાણે અન્યત્ર વહેંચે તો અહીં યોગદાન કરશો નહી.
 જો તમે આ લખાણ જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ]ની શરતોને અધીન  હોવું જોઈએ અને તમે તેને સંલગ્ન કોઈપણ પરવાનાઓની આવશ્યકતાઓનું પાલન કરવા માટે સહમત હોવા જોઈએ.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
