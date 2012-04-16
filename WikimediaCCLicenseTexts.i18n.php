@@ -15480,6 +15480,7 @@ na isinusukong pangbuong-mundo ang lahat ng kanyang mga karapatan sa akda sa ila
 );
 
 /** Turkish (Türkçe)
+ * @author Bilalokms
  * @author Emperyan
  * @author Joseph
  * @author Khutuck
@@ -15517,6 +15518,7 @@ $messages['tr'] = array(
 	'wm-license-cc-by-2.1-es-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.1/es/ Atıf 2.1 İspanya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-2.1-jp-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.1/jp/ Atıf 2.1 Japonya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-2.5-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/deed.tr Atıf 2.5 Genel] lisansı ile lisanslanmıştır',
+	'wm-license-cc-by-2.5-ar-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/ar/deed.en Atıf 2.5 Arjantin] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-2.5-au-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/au/ Atıf 2.5 Avustralya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-2.5-bg-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/bg/ Atıf 2.5 Bulgaristan] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-2.5-br-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/br/ Atıf 2.5 Brezilya] lisansı ile lisanslanmıştır.',
@@ -15547,13 +15549,20 @@ $messages['tr'] = array(
 	'wm-license-cc-by-3.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.tr Atıf 3.0 Uluslararası] lisansı ile lisanslanmıştır',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Bu dosya [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atıf [//creativecommons.org/licenses/by/3.0/deed.tr 3.0 Aktarılmamış], [//creativecommons.org/licenses/by/2.5/deed.tr 2.5 Genel], [//creativecommons.org/licenses/by/2.0/deed.tr 2.0 Genel] ve [//creativecommons.org/licenses/by/1.0/deed.tr 1.0 Genel] lisansları ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-at-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/at/ Attribution Atıf 3.0 Avusturya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-au-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/au/deed.en Atıf 3.0 Avustralya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-br-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/br/deed.en Atıf 3.0 Brezilya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-cl-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/cl/ Atıf 3.0 Şili] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-cr-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/cr/deed.en Atıf 3.0 Kosta Rika] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-cz-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/cz/deed.tr Atıf 3.0 Çek Cumhuriyeti] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-de-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/de/ Atıf 3.0 Almanya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-ec-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/ec/deed.en Atıf 3.0 Ekvador] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-ee-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/ee/ Atıf 3.0 Estonya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-es-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/es/deed.tr Atıf 3.0 İspanya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-gr-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/gr/ Atıf 3.0 Yunanistan] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-gt-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/gt/deed.tr Atıf 3.0 Guatemala] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-hr-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/hr/deed.tr Atıf 3.0 Hırvatistan] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-hk-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/hk/deed.tr Atıf 3.0 Hong Kong] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-3.0-it-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/it/deed.en Atıf 3.0 İtalya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-lu-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/lu/deed.tr Atıf 3.0 Lüksemburg] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-nl-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/nl/ Atıf 3.0 Hollanda] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-3.0-no-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/no/deed.tr Atıf 3.0 Norveç] lisansı ile lisanslanmıştır.',
@@ -15626,13 +15635,20 @@ $messages['tr'] = array(
 	'wm-license-cc-by-sa-3.0-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.tr Atıf-Benzer Paylaşım 3.0 Uluslararası] lisansı ile lisanslanmıştır',
 	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Bu dosya [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atıf-Benzer Paylaşım [//creativecommons.org/licenses/by-sa/3.0/ 3.0 Aktarılmamış], [//creativecommons.org/licenses/by-sa/2.5/deed.tr 2.5 Genel], [//creativecommons.org/licenses/by-sa/2.0/deed.tr 2.0 Genel] ve [//creativecommons.org/licenses/by-sa/1.0/deed.tr 1.0 Genel] lisansları ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-at-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/at/ Atıf-Benzer Paylaşım 3.0 Avusturya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-au-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/au/deed.en Atıf-Benzer Paylaşım 3.0 Avustralya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-br-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/br/deed.en Atıf-Benzer Paylaşım 3.0 Brezilya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-cl-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/cl/deed.en Atıf-Benzer Paylaşım 3.0 Şili] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-cr-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/3.0/cr/deed.en Atıf-Benzer Paylaşım 3.0 Kosta Rika] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/cz/deed.tr Atıf-Benzer Paylaşım 3.0 Çek Cumhuriyeti] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/de/ Atıf-Benzer Paylaşım 3.0 Almanya] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-ec-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ec/deed.en Atıf-Benzer Paylaşım 3.0 Ekvador] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-ee-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ee/deed.en Atıf-Benzer Paylaşım 3.0 Estonya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-es-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/es/ Atıf-Benzer Paylaşım 3.0 İspanya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/gr/ Atıf-Benzer Paylaşım 3.0 Yunanistan] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-gt-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/gt/deed.tr Atıf-Benzer Paylaşım 3.0 Guatemala] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-hk-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/hk/deed.tr Atıf-Benzer Paylaşım 3.0 Hong Kong] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-hr-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/hr/deed.tr Atıf-Benzer Paylaşım 3.0 Hırvatistan] lisansı ile lisanslanmıştır.',
+	'wm-license-cc-by-sa-3.0-it-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/it/deed.en Atıf-Benzer Paylaşım 3.0 İtalya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-lu-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/lu/deed.tr Atıf-Benzer Paylaşım 3.0 Lüksemburg] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-nl-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/nl/ Atıf-Benzer Paylaşım 3.0 Hollanda] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-by-sa-3.0-no-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/no/ Atıf-Benzer Paylaşım 3.0 Norveç] lisansı ile lisanslanmıştır.',

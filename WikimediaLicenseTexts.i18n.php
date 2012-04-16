@@ -1918,6 +1918,7 @@ $messages['de-formal'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Erdemaslancan
  * @author Mirzali
  * @author Multichill
  * @author Xoser
@@ -1926,6 +1927,21 @@ $messages['diq'] = array(
 	'wikimedialicensetexts-desc' => 'Mesacê lisansê wikimedya',
 	'wm-license-attribution-with-author-text' => 'Wahirê ena dosya, $1, destur dano ke herkes ena dosya "her ci ser kullanmis bike, feqat" gani wahir rê referans bide. Vila kerdis, reyna virstis, ticari u kullanisê hemi ra destur est ê.',
 	'wm-license-attribution-without-author-text' => 'Wahirê ena dosya destur dano ke herkes ena dosya "her ci ser kullanmis bike, feqat" gani wahir rê referans bide. Vila kerdis, reyna virstis, ticari u kullanisê hemi ra destur est ê.',
+	'wm-license-artwork-artist' => 'Senetkar',
+	'wm-license-artwork-title' => 'Sername',
+	'wm-license-artwork-medium' => 'Miyanên',
+	'wm-license-artwork-dimensions' => 'Ebati',
+	'wm-license-artwork-notes' => 'Noti',
+	'wm-license-book-edition' => 'Pıloxne',
+	'wm-license-book-editor' => 'Vurner',
+	'wm-license-book-language' => 'Zuwan',
+	'wm-license-book-printer' => 'Nusnewan',
+	'wm-license-book-publisher' => 'Vılakar',
+	'wm-license-book-series-title' => 'Sernuştey rati',
+	'wm-license-book-subtitle' => 'Sernuştey bıni',
+	'wm-license-book-title' => 'Sername',
+	'wm-license-book-translator' => 'Açarner',
+	'wm-license-book-volume' => 'Vanga',
 	'wm-license-cecill-text' => 'Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedeva ya]]; ti eşkena ena dosya vila bike ya zi vurne [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Sartanê lisansê CeCILL itiya de este [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-fal-text' => "Copyleft: Ena dosya bedeva ya; ti eşkena ena dosya vila bike ya zi vurne bine '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ti eskena sartanê lisansê itiya de [{{int:wm-license-fal-full-link}} Copyleft Attitude site] u siteyane binan de bivine.",
 	'wm-license-gfdl-1.2-and-later' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2 ya zi versiyonane ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
@@ -6120,7 +6136,7 @@ $messages['nn'] = array(
 	'wm-license-information-description' => 'Skildring',
 	'wm-license-information-description-missing' => "Denne fila har ikkje noka '''skildring''', og manglar kan henda annan informasjon i tillegg.",
 	'wm-license-information-description-missing-request' => 'Gje fila ei meiningsfull skildring.',
-	'wm-license-information-source' => 'Kjelda',
+	'wm-license-information-source' => 'Kjelde',
 	'wm-license-information-source-missing' => "Denne fila manglar '''kjeldeinformasjon'''.",
 	'wm-license-information-source-missing-request' => 'Endra filskildringa hennar og oppgje kjelda.',
 	'wm-license-information-date' => 'Dato',
@@ -6313,6 +6329,16 @@ $messages['pdc'] = array(
 /** Plautdietsch (Plautdietsch) */
 $messages['pdt'] = array(
 	'wm-license-own-work' => 'Ejen Woakj',
+);
+
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'wm-license-artwork-artist' => 'Kinschdla',
+	'wm-license-book-language' => 'Schbrooch',
+	'wm-license-book-translator' => 'Iwasedza',
+	'wm-license-information-source' => 'Qwell',
 );
 
 /** Polish (Polski)
