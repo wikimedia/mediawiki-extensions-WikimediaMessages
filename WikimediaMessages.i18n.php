@@ -6434,6 +6434,7 @@ $messages['it'] = array(
  * @author Marine-Blue
  * @author Meno25
  * @author Ohgi
+ * @author Shirayuki
  * @author Suisui
  * @author W.CC
  * @author Whym
@@ -6545,6 +6546,7 @@ $messages['ja'] = array(
 	'grouppage-translationadmin' => '{{ns:project}}:翻訳管理者',
 	'group-coder' => 'コーダー',
 	'group-coder-member' => '{{GENDER:$1|コーダー}}',
+	'grouppage-coder' => 'Project:コーダー',
 	'group-inactive' => '活動停止中の利用者',
 	'group-inactive-member' => '{{GENDER:$1|活動停止中の利用者}}',
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
@@ -9072,7 +9074,8 @@ $messages['nn'] = array(
 	'group-inactive-member' => 'ikkje aktiv brukar',
 	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
 	'wikimedia-copyright' => 'Innhaldet er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-alike License</a>; ytterlegare vilkår kan gjelda. Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
-	'wikimedia-copyrightwarning' => 'Når du lagrar gjev du ugjenkalleleg løyve til å gje ut ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Namngjeving-Del på same vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du går òg med på å verta oppgjeven som ein opphavsperson av gjenbrukarar, som eit minimum, gjennom ei hyperlenke eller URL til artikkelen du var med på å utarbeida. Sjå [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra] for fleire opplysingar.',
+	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkåra], og du gjev endeleg samtykke til å gjeva ut bidraget ditt under lisensane [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 	'wikimedia-editpage-tos-summary' => 'Ynskjer du ikkje at verket ditt skal verta endra og redistribuert, skal du ikkje lagra det her. Har du ikkje sjølv skrive det, skal det vera tilgjengeleg under vilkåra i samsvar med [//wikimediafoundation.org/wiki/Terms_of_Use Bruksvilkåra], og du stadfestar å fylgja alle relevante lisenskrav.',
 );
 
@@ -12306,7 +12309,7 @@ $messages['te'] = array(
 	'group-coder' => 'కోడర్లు',
 	'group-coder-member' => '{{GENDER:$1|సంకేతాలు రాసే వారు}}',
 	'group-inactive' => 'అచేతన వాడుకరులు',
-	'group-inactive-member' => '{{GENDER:$1|అచేతన వినియోగదారుడు}}',
+	'group-inactive-member' => '{{GENDER:$1|అచేతన వాడుకరి}}',
 	'grouppage-inactive' => '{{ns:project}}:అచేతన వాడుకరులు',
 	'wikimedia-copyright' => 'పాఠ్యం <a href="//creativecommons.org/licenses/by-sa/3.0/">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు</a> క్రింద లభ్యం;
 అదనపు షరతులు వర్తించవచ్చు.
