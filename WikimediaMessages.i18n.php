@@ -1580,6 +1580,7 @@ $messages['be-tarask'] = array(
 /** Bulgarian (Български)
  * @author Borislav
  * @author DCLXVI
+ * @author Ivanko
  * @author Meno25
  * @author Spiritia
  * @author Stanqo
@@ -1672,9 +1673,9 @@ $messages['bg'] = array(
 	'group-inactive' => 'Неактивни потребители',
 	'group-inactive-member' => 'неактивен потребител',
 	'grouppage-inactive' => '{{ns:project}}:Неактивни потребители',
-	'wikimedia-copyright' => 'Текстът е достъпен при условията на лиценза <a href="//creativecommons.org/licenses/by-sa/3.0/">Криейтив Комънс Признание — Споделяне на споделеното 3.0</a>;
-в сила може да има и допълнителни условия.
-За подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use/bg">Условията за ползване</a>.',
+	'wikimedia-copyright' => 'Текстът е достъпен под лиценза <a href="//creativecommons.org/licenses/by-sa/3.0/deed.bg">Creative Commons Признание-Споделяне на споделеното</a>;
+може да са приложени допълнителни условия.
+За подробности вижте <a href="//wikimediafoundation.org/wiki/Условия_за_ползване">Условия за ползване</a>.',
 	'wikimedia-copyrightwarning' => 'Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [//creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [//www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].
 Съгласявате се минималното признание на авторството ви, при ползване на материала от други потребители, да става с хипервръзка към страницата, към която допринасяте.
 За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].',
@@ -2372,7 +2373,7 @@ $messages['cs'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|automatický strážce|automatická strážkyně|automatický strážce}}',
 	'group-autoreviewer-member' => '{{GENDER:$1|autokontrolor|autokontrolorka|autokontrolor}}',
 	'group-bigexport-member' => '{{GENDER:$1|velkoexportér|velkoexportérka|velkoexportér}}',
-	'group-botadmin-member' => '{{GENDER:$1|bot se správcovskými právy}}',
+	'group-botadmin-member' => '{{GENDER:$1|bot|botka|bot}} se správcovskými právy',
 	'group-confirmed-member' => '{{GENDER:$1|schválený uživatel|schválená uživatelka|schválený uživatel}}',
 	'group-editprotected-member' => '{{GENDER:$1|editor|editorka|editor}} zamčených stránek',
 	'group-eliminator-member' => '{{GENDER:$1|eliminátor|eliminátorka|eliminátor}}',
@@ -2426,7 +2427,7 @@ $messages['cs'] = array(
 	'group-steward-member' => '{{GENDER:$1|stevard|stevardka|stevard}}',
 	'group-sysadmin-member' => '{{GENDER:$1|správce|správkyně|správce}} serveru',
 	'group-editinterface-member' => '{{GENDER:$1|editor|editorka|editor}} uživatelského rozhraní',
-	'group-Global_bot-member' => '{{GENDER:$1|globální bot}}',
+	'group-Global_bot-member' => 'globální {{GENDER:$1|bot|botka|bot}}',
 	'group-Global_rollback-member' => 'globální {{GENDER:$1|revertovatel|revertovatelka|revertovatel}}',
 	'group-Global_sysops-member' => 'globální {{GENDER:$1|správce|správkyně|správce}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsman|ombudsmanka}}',
