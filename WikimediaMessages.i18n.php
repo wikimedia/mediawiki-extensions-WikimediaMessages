@@ -6468,7 +6468,7 @@ $messages['ja'] = array(
 	'group-founder' => '創設者',
 	'group-Image-reviewer' => '画像査読者',
 	'group-import' => 'インポート担当者',
-	'group-interface_editor' => 'インターフェース編集者',
+	'group-interface_editor' => 'インターフェイス編集者',
 	'group-ipblock-exempt' => 'IPブロック適用除外者',
 	'group-OTRS-member' => 'OTRSメンバー',
 	'group-patroller' => '巡回者',
@@ -6493,7 +6493,7 @@ $messages['ja'] = array(
 	'group-founder-member' => '{{GENDER:$1|創設者}}',
 	'group-Image-reviewer-member' => '{{GENDER:$1|画像査読者}}',
 	'group-import-member' => '{{GENDER:$1|インポート担当者}}',
-	'group-interface_editor-member' => '{{GENDER:$1|インターフェース編集者}}',
+	'group-interface_editor-member' => '{{GENDER:$1|インターフェイス編集者}}',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|IPブロック適用除外者}}',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRSメンバー}}',
 	'group-patroller-member' => '{{GENDER:$1|巡回者}}',
@@ -6527,7 +6527,7 @@ $messages['ja'] = array(
 	'grouppage-trusted' => '{{ns:project}}:信頼された利用者',
 	'group-steward' => 'スチュワード',
 	'group-sysadmin' => 'システム管理者',
-	'group-editinterface' => 'インタフェース編集者',
+	'group-editinterface' => 'インターフェイス編集者',
 	'group-Global_bot' => 'グローバルボット',
 	'group-Global_rollback' => 'グローバル巻き戻し者',
 	'group-Global_sysops' => 'グローバル管理者',
@@ -6535,7 +6535,7 @@ $messages['ja'] = array(
 	'group-Staff' => 'スタッフ',
 	'group-steward-member' => '{{GENDER:$1|スチュワード}}',
 	'group-sysadmin-member' => '{{GENDER:$1|システム管理者}}',
-	'group-editinterface-member' => '{{GENDER:$1|インタフェース編集者}}',
+	'group-editinterface-member' => '{{GENDER:$1|インターフェイス編集者}}',
 	'group-Global_bot-member' => '{{GENDER:$1|グローバルボット}}',
 	'group-Global_rollback-member' => '{{GENDER:$1|グローバル巻き戻し者}}',
 	'group-Global_sysops-member' => '{{GENDER:$1|グローバル管理者}}',
@@ -6556,7 +6556,7 @@ $messages['ja'] = array(
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンを押すと、あなたは[//wikimediafoundation.org/wiki/利用規約 利用規約]に同意し、自身の投稿を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分なものであると同意したことになります。',
 	'wikimedia-editpage-tos-summary' => 'もしあなたが自身の文章を勝手に編集や再配布してほしくないのなら、ここに投稿しないでください。
 文章があなた自身で書いたものではない場合、その文章はこの[//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]と整合する条件のもとで利用可能である必要があります。また、その場合、あなたは全ての関係するライセンス要件に従うことに同意しなければなりません。',
-	'cant-delete-main-page' => 'あなたはメインページを削除、もしくは移動することができません。',
+	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 );
 
 /** Lojban (Lojban)
