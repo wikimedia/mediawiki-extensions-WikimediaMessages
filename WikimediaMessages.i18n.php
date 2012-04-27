@@ -8041,11 +8041,11 @@ $messages['mk'] = array(
 	'shared-repo-name-shared' => 'Заедничката Ризница',
 	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.
 Може да важат и дополнителни услови.
-Повеќе информации ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0">Услови на употреба</a>.',
+Повеќе информации ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Услови_на_употреба">Услови на употреба</a>.',
 	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [//wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License?uselang=mk CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'wikimedia-editpage-tos-summary' => 'Доколку не сакате Вашиот текст да биде слободно уредуван и распространуван, тогаш не поднесувајте го овде.
-Ако Вие не сте автор на текстов, тогаш тој мора да биде достапен под услови складни на [//wikimediafoundation.org/wiki/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8_%D0%BD%D0%B0_%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B0 Условите на употреба], а Вие се согласувате дека ќе се придржувате до сите услови за лиценцирање.',
+Ако Вие не сте автор на текстов, тогаш тој мора да биде достапен под услови складни на [//wikimediafoundation.org/wiki/Услови_на_употреба Условите на употреба], а Вие се согласувате дека ќе се придржувате до сите услови за лиценцирање.',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 );
 
