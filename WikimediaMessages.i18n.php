@@ -1708,6 +1708,10 @@ $messages['bho'] = array(
 $messages['bjn'] = array(
 	'group-abusefilter' => 'Editor filter panyalahgunaan',
 	'group-bigexport' => 'Ikspurtir ganal',
+	'wikimedia-copyrightwarning' => 'Lawan mangaklik picikan "{{int:savearticle}}", Pian hakun haja kapada [//wikimediafoundation.org/wiki/Terms_of_use Katantuan mamakai], wan Pian satarusnya malapas sumbangan Pian--kada kawa dijumput lagi-- di bawah [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisansi CC-BY-SA 3.0] wan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Pian hakun haja kalu sabuting tautan atawa URL cukup manaliakan di bawah lisénsi Creative Commons.',
+	'wikimedia-editpage-tos-summary' => 'Amun Pian kada handak tulisan Pian dibabak wan disalurakan mun handak, kada usah mangirim tulisan Pian di sia.
+Amun Pian kada manulis ngini surangan, ngini musti ada di bawah katantuan nang sasuai awan [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan Mamakai], wan Pian hakun haja maumpati lisénsi nang diparluakan.',
 );
 
 /** Bambara (Bamanankan) */
