@@ -2017,6 +2017,10 @@ $messages['diq'] = array(
  */
 $messages['dsb'] = array(
 	'wikimedialicensetexts-desc' => 'Licencne powěźeńki Wikimedije',
+	'wm-license-artwork-title' => 'Titel',
+	'wm-license-artwork-current-location' => 'Aktualne městno',
+	'wm-license-artwork-inscriptions' => 'Napise',
+	'wm-license-book-language' => 'Rěc',
 	'wm-license-information-description' => 'Wopis',
 	'wm-license-information-source' => 'Žrědło',
 	'wm-license-information-date' => 'Datum',
