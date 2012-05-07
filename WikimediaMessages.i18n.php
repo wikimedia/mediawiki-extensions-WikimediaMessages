@@ -6849,6 +6849,7 @@ $messages['kk-arab'] = array(
 
 /** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬)
  * @author AlefZet
+ * @author Daniyar
  * @author GaiJin
  * @author Kaztrans
  */
@@ -6858,7 +6859,7 @@ $messages['kk-cyrl'] = array(
 	'group-accountcreator' => 'Аккаунт жасаушылар',
 	'group-import' => 'Сырттан алушылар',
 	'group-import-member' => 'сырттан алушы',
-	'grouppage-accountcreator' => '{{ns:project}}:Аккаунт жасаушылар',
+	'grouppage-accountcreator' => '{{ns:project}}:Тіркелгі жасаушылар',
 	'group-sysadmin' => 'Жүйе әкімшілері',
 	'group-Staff' => 'Басқарма',
 	'group-sysadmin-member' => 'жүйе әкімшісі',
