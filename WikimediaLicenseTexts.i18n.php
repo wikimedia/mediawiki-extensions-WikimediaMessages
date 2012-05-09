@@ -3276,6 +3276,7 @@ $messages['gsw'] = array(
 );
 
 /** Gujarati (ગુજરાતી)
+ * @author Ashok modhvadia
  * @author Dsvyas
  * @author KartikMistry
  * @author Sushant savla
@@ -3334,7 +3335,7 @@ $messages['gu'] = array(
 	'wm-license-information-description' => 'વર્ણન',
 	'wm-license-information-description-missing' => "આ ફાઈલમાં '''વર્ણન''' નથી, અને કદાચ બીજી માહિતી ખૂટે છે.",
 	'wm-license-information-description-missing-request' => 'મહેરબાની કરી આ ફાઈલ માટે અર્થપૂર્ણ વર્ણન પૂરું પાડો.',
-	'wm-license-information-source' => 'સ્ત્રોત',
+	'wm-license-information-source' => 'સ્રોત',
 	'wm-license-information-source-missing' => "આ ફાઈલમાં '''સ્ત્રોત''' માહિતી ખૂટે છે.",
 	'wm-license-information-source-missing-request' => 'આ ફાઈલાના વર્ણનમાં ફેરફાર કરો અને સ્ત્રોત વિષે માહિતી આપો.',
 	'wm-license-information-date' => 'તારીખ',
