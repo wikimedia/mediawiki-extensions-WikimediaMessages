@@ -1621,12 +1621,20 @@ $messages['cs'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'V některých zemích to není podle zákona možné; v takovém případě:',
 	'wm-license-pd-author-self-any-purpose' => "Poskytuji komukoli právo užívat toto dílo '''za libovolným účelem''', a to bezpodmínečně s výjimkou podmínek vyžadovaných zákonem.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 poskytuje komukoli právo užívat toto dílo '''za libovolným účelem''', a to bezpodmínečně s výjimkou podmínek vyžadovaných zákonem.",
-	'wm-license-pd-usgov-fema-text' => "Tento soubor je dílem zaměstnance ''[[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]]'', který pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
-	'wm-license-pd-usgov-military-text' => "Tento obrázek je dílem zaměstnance [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|ozbrojených sil]] nebo [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Ministerstva obrany]] Spojených států amerických, který pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
-	'wm-license-pd-usgov-military-air-force-text' => "Tento soubor je dílem letce nebo zaměstnance [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Letectva Spojených států amerických]], který pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
+	'wm-license-pd-usgov-wiki-link' => 'w:cs:Federální vláda Spojených států amerických',
+	'wm-license-pd-usgov-fema-text' => "Tento soubor je dílem zaměstnance ''[[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]]'', které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
+	'wm-license-pd-usgov-fema-wiki-link' => 'w:cs:Federal Emergency Management Agency',
+	'wm-license-pd-usgov-military-text' => "Tento obrázek je dílem zaměstnance [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|ozbrojených sil]] nebo [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Ministerstva obrany]] Spojených států amerických, které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
+	'wm-license-pd-usgov-military-armed-forces-wiki-link' => 'w:cs:Ozbrojené síly Spojených států amerických',
+	'wm-license-pd-usgov-military-dod-wiki-link' => 'w:cs:Ministerstvo obrany Spojených států amerických',
+	'wm-license-pd-usgov-military-air-force-text' => "Tento soubor je dílem letce nebo zaměstnance [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Letectva Spojených států amerických]], které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:cs:Letectvo Spojených států amerických',
+	'wm-license-pd-usgov-military-army-text' => "Tento soubor je dílem vojáka nebo zaměstnance [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Armády Spojených států amerických]], které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:cs:Armáda Spojených států amerických',
+	'wm-license-pd-usgov-military-navy-text' => "Tento soubor je dílem námořníka nebo zaměstnance [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Námořnictva Spojených států amerických]], které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:cs:Námořnictvo Spojených států amerických',
+	'wm-license-pd-usgov-noaa-text' => "Tento soubor je dílem zaměstnance ''[[{{int:wm-license-pd-usgov-noaa-wiki-link}}|amerického Národního úřadu pro oceán a atmosféru]]'', které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
+	'wm-license-pd-usgov-noaa-wiki-link' => 'w:cs:Národní úřad pro oceán a atmosféru',
 	'wm-license-pd-wiki-link' => 'w:cs:Volné dílo',
 	'wm-license-self-one-license' => 'Já, držitel autorských práv k tomuto dílu, ho tímto zveřejňuji za podmínek následující licence:',
 	'wm-license-self-one-license-with-author' => '$1, držitel autorských práv k tomuto dílu, ho tímto zveřejňuje za podmínek následující licence:',
@@ -2163,6 +2171,7 @@ $messages['en-gb'] = array(
 
 /** Esperanto (Esperanto)
  * @author AVRS
+ * @author Blahma
  * @author Castelobranco
  * @author Marcos
  * @author Mihxil
@@ -2242,7 +2251,7 @@ $messages['eo'] = array(
 	'wm-license-licensing-update-text' => 'Ĉi tiu permesila etikedo estis aldonita al la dosiero kiel parto de la [[{{int:wm-license-licensing-update-wiki-link}}|permesila aktualigo]] por GFDL.',
 	'wm-license-original-upload-log' => 'Originala alŝutada protokolo',
 	'wm-license-own-work' => 'Propra verko',
-	'wm-license-pd-author-self-text' => "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, liberigas tiun tutmonde kiel '''[[{{int:wm-license-pd-wiki-link}}|publikaĵon]]'''.",
+	'wm-license-pd-author-self-text' => "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, liberigas tiun tutmonde kiel '''[[{{int:wm-license-pd-wiki-link}}|publikan havaĵon]]'''.",
 	'wm-license-pd-author-with-author-text' => "Ĉi tiu verko estis liberigita kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]''' de ties aŭtoro, '''$1'''. Tio aplikatas tutmonde.",
 	'wm-license-pd-author-not-legally-possible' => 'En iuj landoj tio povas esti laŭleĝe neebla; en tiu okazo:',
 	'wm-license-pd-author-self-any-purpose' => 'Mi rajtigas ĉiun ajn uzi ĉi tiun verkon por ajna celo, sen iuj ajn kondiĉoj, krom se tiuj kondiĉoj estas postulataj per leĝo.',
@@ -2573,7 +2582,7 @@ $messages['fa'] = array(
 	'wm-license-artwork-medium' => 'تکنیک/سبک',
 	'wm-license-artwork-dimensions' => 'ابعاد',
 	'wm-license-artwork-current-location' => 'مکان کنونی',
-	'wm-license-artwork-object-history' => 'تاریخ شئ',
+	'wm-license-artwork-object-history' => 'تاریخ شیء',
 	'wm-license-artwork-credit-line' => 'خط اعتبار',
 	'wm-license-artwork-references' => 'منابع',
 	'wm-license-artwork-inscriptions' => 'کتیبه',
@@ -2601,7 +2610,7 @@ $messages['fa'] = array(
 	'wm-license-creator-date-of-birth' => 'زاد روز',
 	'wm-license-creator-date-of-birth-and-death' => 'تاریخ تولد/درگذشت',
 	'wm-license-creator-location-of-birth' => 'زادگاه',
-	'wm-license-creator-location-of-birth-and-death' => 'محل تولد/درگذشت',
+	'wm-license-creator-location-of-birth-and-death' => 'محل تولد/مرگ',
 	'wm-license-creator-work-period' => 'دوره کار',
 	'wm-license-creator-work-location' => 'محل کار',
 	'wm-license-creator-linkback' => 'پیوند بازگشت به خالق الگوی جعبه اطلاعاتی',
@@ -2616,19 +2625,19 @@ $messages['fa'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:fa:مجوز مستندات آزاد گنو',
 	'wm-license-gpl-text' => "این اثر یک [[{{int:wm-license-free-software-wiki-link}}|نرم‌افزار آزاد]] است؛ شما می‌توانید آن را تحت شرایط '''[[{{int:wm-license-gpl-wiki-link}}|مجوز مستندات آزاد گنو]]''' به همان شکلی که توسط مجوز نسخهٔ ۲ یا نسخه‌های بعدتر [[{{int:wm-license-fsf-wiki-link}}|بنیاد نرم‌افزار آزاد]] منتشر شده، بازتوزیع کرده و/یا تغییر دهید. این اثر با امید به اینکه سودمند باشد توزیع می‌شود، اما '''بدون هرگونه ضمانت'''؛ بدون حتی ضمانت تلویحی بر تضمین '''تجارت‌پذیری''' یا '''تناسب برای مقصودی مشخص'''. برای جزئیات بیشتر [{{int:wm-license-gpl-2-full-link}} نسخهٔ ۲] و [{{int:wm-license-gpl-3-full-link}} نسخهٔ ۳ مجوز عمومی همگانی گنو] را ببینید.",
 	'wm-license-gpl-wiki-link' => 'w:fa:اجازه‌نامه عمومی همگانی گنو',
-	'wm-license-information-table-summary' => 'یک جدول استاندارد که اطلاعات کافی برای پرونده را فراهم می‌کنم ،این اطلاعات شامل مواردی نظیر اینکه  این پرونده چه چیزی را نشان می‌دهد و یا این پرونده چگونه ایجاد شده و شرایط منبع و کپی‌رایت است.',
+	'wm-license-information-table-summary' => 'جدولی استانداردسازی‌شده که اطلاعاتی پیرامون پرونده ازجمله توضیحی پیرامون آنچه نمایش می‌دهد و نحوهٔ ایجاد آن و وضعیت حق تکثیر و منبع.',
 	'wm-license-information-description' => 'توضیح',
 	'wm-license-information-description-missing' => "این تصویر اطلاعاتی راجع به '''{{ #if: {{{1|}}} | {{{1}}} | توضیحات }}''' ندارد، و ممکن است فاقد اطلاعت دیگر باشد.",
-	'wm-license-information-description-missing-request' => 'تصاویر باید دارای اطلاعات مختصری در محتوا، پدیآور، منبع و تاریخ در صورت امکان داشته باشد. اگر شما اطلاعاتی راجع به موارد فوق دارید و یا می‌تواندی کسب کنید، لطفاً آنرا به صفحه تصویر اضافه کنید.',
+	'wm-license-information-description-missing-request' => 'لطفاً توضیحات مرتبطی پیرامون این تصویر ارائه دهید.',
 	'wm-license-information-source' => 'منبع',
 	'wm-license-information-source-missing' => "این پرونده فاقد اطلاعاتی در مورد '''منبع''' آن است.",
 	'wm-license-information-source-missing-request' => 'لطفاً قسمت توضیحات پرونده را برای افزودن منبع ویرایش کنید.',
 	'wm-license-information-date' => 'تاریخ',
 	'wm-license-information-author' => 'پدیدآور',
-	'wm-license-information-author-missing' => "این پرونده فاقد اطلاعاتی در مورد '''خالق''' آن است.",
+	'wm-license-information-author-missing' => "این پرونده فاقد اطلاعاتی در مورد '''پدیدآور''' آن است.",
 	'wm-license-information-permission' => 'اجازه‌نامه',
 	'wm-license-information-permission-reusing-text' => 'استفادهٔ مجدد از این پرونده',
-	'wm-license-information-permission-see-below' => 'پایین را نگاه کنید.',
+	'wm-license-information-permission-see-below' => 'پایین را ببینید.',
 	'wm-license-information-other-versions' => 'دیگر نسخه‌ها',
 	'wm-license-lgpl-text' => "این کتابخانه [[{{int:wm-license-free-software-wiki-link}}|نرم‌افزار آزاد]] است؛ شما می‌توانید آن را تحت '''[[{{int:wm-license-lgpl-wiki-link}}|مجوز ال‌جی‌پی‌ال]]''' که [[{{int:wm-license-fsf-wiki-link}}|بنیاد نرم‌افزارهای آزاد]] آن را منتشر کرده، باز توزیع یا ویرایش کنید؛ یا تحت مجوز نسخهٔ ۲٫۱ آن، یا (بنا به انتخاب) نسخه‌های بعدی. این کتابخانه منتشر شده به امید اینکه مفید واقع شود اما '''بدون هیچ ضمانتی'''؛  بدون هیچگونه ضمانتی ضمنی برای '''تجاری بودن''' یا '''یا متناسب برای هدف خاصی بودن'''. برای یافتن جزئیات بیشتر، [{{int:wm-license-lgpl-2.1-full-link}} نسخهٔ ۲٫۱] و [{{int:wm-license-lgpl-3-full-link}} نسخهٔ ۳ مجوز ال‌جی‌پی‌ال] را مشاهده کنید.",
 	'wm-license-lgpl-wiki-link' => 'w:fa:ال‌جی‌پی‌ال',
@@ -2657,7 +2666,7 @@ $messages['fa'] = array(
 	'wm-license-self-one-license-with-author' => '$1، صاحب حقوق قانونی این اثر، به این وسیله آن را تحت اجازه‌نامهٔ زیر منتشر می‌کند:',
 	'wm-license-self-multiple-licenses' => 'من، صاحب حقوق قانونی این اثر، به این وسیله این اثر را تحث اجازه‌نامه‌های ذیل منتشر می‌کنم:',
 	'wm-license-self-multiple-licenses-with-author' => '$1، صاحب حقوق قانونی این اثر، به این وسیله این اثر را تحث اجازه‌نامه‌های ذیل منتشر می‌کند:',
-	'wm-license-self-multiple-licenses-select' => 'شما می‌توانید مجوز دلخواه خود را برگزینید.',
+	'wm-license-self-multiple-licenses-select' => 'می‌توانید مجوز دلخواه خود را برگزینید.',
 );
 
 /** Finnish (Suomi)
@@ -4494,9 +4503,16 @@ $messages['ka'] = array(
 	'wm-license-attribution-without-author-text' => "ამ ნამუშევრის ავტორი უფლებას იძლევა მოცემული გამოსახულება გავრცელდეს '''ნებისმიერი მიზნით''' (მათ შორის კომერციული), თუ ნამუშევრის მფლობელი მოხსენიებული იქნება.",
 	'wm-license-artwork-artist' => 'შემსრულებელი',
 	'wm-license-artwork-title' => 'სათაური',
+	'wm-license-artwork-medium' => 'საშუალო',
 	'wm-license-artwork-dimensions' => 'ზომები',
 	'wm-license-artwork-current-location' => 'ამჟამინდელი მდებარეობა',
+	'wm-license-artwork-object-history' => 'ობიექტის ისტორია',
+	'wm-license-artwork-credit-line' => 'დამატებითი ინფორმაცია',
 	'wm-license-artwork-references' => 'სქოლიო',
+	'wm-license-artwork-inscriptions' => 'დამწერლობები',
+	'wm-license-artwork-notes' => 'შენიშვნები',
+	'wm-license-artwork-id' => 'საინვენტარო ნომერი',
+	'wm-license-artwork-source' => 'წყარო/ფოტოგრაფი',
 	'wm-license-book-edition' => 'გამოცემა',
 	'wm-license-book-editor' => 'რედაქტორი',
 	'wm-license-book-illustrator' => 'ილუსტრატორი',
@@ -4521,6 +4537,7 @@ $messages['ka'] = array(
 	'wm-license-creator-location-of-birth-and-death' => 'დაბადების/გარდაცვალების ადგილი',
 	'wm-license-creator-work-period' => 'მოქმედების დრო',
 	'wm-license-creator-work-location' => 'მოქმედების ადგილი',
+	'wm-license-creator-linkback' => 'უკუბმული შემქმნელის ინფოდაფის თარგზე',
 	'wm-license-fal-text' => "კოპილეფტი. ეს არის ხელოვნების თავისუფალი ნაშრომი; თქვენ შეგიძლიათ გაავრცელოთ და/ან შეცვალოთ იგი  '''[[{{int:wm-license-fal-wiki-link}}|Free Art ლიცენზიის]]''' პირობების თანახმად.
 ამ ლიცენზიის პირობების იხილეთ [{{int:wm-license-fal-full-link}} Copyleft Attitude]-ზე, და ასევე სხვა საიტებზეც.",
 	'wm-license-gfdl-1.2-and-later' => "თქვენ შეგიძიათ გაავრცელოთ ან შეცვალოთ დოკუმენტი '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation ლიცენზიის]]'''  1.2 ან უფრო გვიანდელი ვერსიის პირობების თანახმად, რომელიც გამოქვეყნებულია [[{{int:wm-license-fsf-wiki-link}}|თავისუფალი პროგრამული უზრუნველყოფის ფონდის მიერ]], შეუცვლელი განყოფილებების გარეშე, პირველ და ბოლო გვერდებზე განთავსებულ ტექსტებზე. ლიცენზიის ასლი არის განთავსებული   განყოფილებაში სახელად ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
@@ -4545,10 +4562,23 @@ $messages['ka'] = array(
 	'wm-license-information-permission-reusing-text' => 'ფაილის მეორეული გამოყენება',
 	'wm-license-information-permission-see-below' => 'იხ. ქვემოთ',
 	'wm-license-information-other-versions' => 'სხვა ვერსიები',
+	'wm-license-lgpl-text' => "ეს ბიბლიოთეკა წარმოადგენს [[{{int:wm-license-free-software-wiki-link}}|თავისუფალ პროგრამულ უზრუნველყოფას]]; თქვენ შეგიძლიათ გაავრცელოთ იგი, ან შეცვალოთ '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]'''-ის პირობების თანახმად, გამოქვეყნებულია [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]-ის მიერ, ვერსია 2.1 ან (თქვენი სურვილისამებრ) უფრო ახალი. ეს ბიბლიოთეკა ვრცელდება იმ იმედით, რომ იგი იქნება საჭირო, მაგრამ '''ყოველგვარი გარანტიის გარეშე'''; მათ შორის '''merchantability''' ან '''fitness for a particular purpose''' გარანტიების გარეშე. დეტალურად იხილეთ [{{int:wm-license-lgpl-2.1-full-link}} ვერსია 2.1] და [{{int:wm-license-lgpl-3-full-link}} ვერსია 3 GNU General Public ლიცენზიის პირობები].",
 	'wm-license-lgpl-wiki-link' => 'w:ka:GNU Lesser General Public License',
+	'wm-license-licensing-update-text' => 'ეს ლიცენზირების ნიშანი დაემატა ამ ფაილს, როგორც GFDL [[{{int:wm-license-licensing-update-wiki-link}}|ლიცენზიის განახლების]] ნაწილი.',
 	'wm-license-original-upload-log' => 'ატვირთვის ჟურნალი',
 	'wm-license-own-work' => 'პირადი ნამუშევარი',
+	'wm-license-pd-author-self-text' => "მე, ამ ნამუშევრის საავტორო უფლების მფლობელი, გადავცემ მას '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''. ეს უფლება ვრცელდება მთელი მსოფლიოს მასშტაბით.",
+	'wm-license-pd-author-with-author-text' => "ეს ნამუშევარი მისი ავტორის  '''$1''' მიერ გადაცემულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''. ეს მოქმედებს მთელი მსოფლიოს მასშტაბით.",
+	'wm-license-pd-author-not-legally-possible' => 'ზოგიერთ ქვეყანაში ეს შეიძლება იურიდიულად შეუძლებელი იყოს, ასეთ შემთხვევაში:',
+	'wm-license-pd-author-self-any-purpose' => "მე ვაძლევ უფლებას ნებისმიერს, რათა გამოიყენონ ეს ნამუშევარი '''ნებისმიერი მიზნით''', ყოველგვარი წინაპირობის გარეშე, გარდა კანონით გათვალისწინებული შემთხვევებისა.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 უფლება მისცა ნებისმიერს, რათა გამოიყენონ ეს ნამუშევარი '''ნებისმიერი მიზნით''', ყოველგვარი წინაპირობის გარეშე, თუ რაიმე პირობა კანონის მიერ არ არის მოთხოვნილი.",
+	'wm-license-pd-usgov-fema-text' => "ეს ფაილი არის [[{{int:wm-license-pd-usgov-fema-wiki-link}}|საგანგებო სიტუაციების ფედერალური სააგენტოს]] თანამშრომლის, გადაღებული ან შექმნილი მათ მიერ სამსახურეობრივი მოვალეობის შესრულების დროს. წარმოადგენს [[{{int:wm-license-pd-usgov-wiki-link}}|აშშ-ის ფედერალური მთავრობის]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|ნამუშევარს]], ეს ფაილი განთავსებულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''.",
+	'wm-license-pd-usgov-military-text' => "ეს არის [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|აშშ-ის შეიარაღებული ძალების]] ან [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|თავდაცვის დეპარტამენტის]] თანამშრომლის მიერ, გადაღებული ან შექმნილი მათ მიერ სამსახურეობრივი მოვალეობის შესრულების დროს. წარმოადგენს [[{{int:wm-license-pd-usgov-wiki-link}}|აშშ-ის ფედერალური მთავრობის]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|ნამუშევარს]], ეს ფაილი განთავსებულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''.",
+	'wm-license-pd-usgov-military-air-force-text' => "ეს ფაილი არის [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|აშშ-ის სამხედრო-საჰაერო ძალების]] მფრინავის, გადაღებული ან შექმნილი მათ მიერ სამსახურეობრივი მოვალეობის შესრულების დროს. წარმოადგენს [[{{int:wm-license-pd-usgov-wiki-link}}|აშშ-ის ფედერალური მთავრობის]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|ნამუშევარს]], ეს ფაილი განთავსებულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:ka:აშშ-ის სამხედრო-საჰაერო ძალები',
+	'wm-license-pd-usgov-military-army-text' => "ეს ფაილი არის [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|აშშ-ის არმიის]] ჯარისკაცის, გადაღებული ან შექმნილი მათ მიერ სამსახურეობრივი მოვალეობის შესრულების დროს. წარმოადგენს [[{{int:wm-license-pd-usgov-wiki-link}}|აშშ-ის ფედერალური მთავრობის]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|ნამუშევარს]], ეს ფაილი განთავსებულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''.",
+	'wm-license-pd-usgov-military-navy-text' => "ეს ფაილი არის [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|აშშ-ის სამხედრო-საზღვაო ძალების]] მეზღვაურის, გადაღებული ან შექმნილი მათ მიერ სამსახურეობრივი მოვალეობის შესრულების დროს. წარმოადგენს [[{{int:wm-license-pd-usgov-wiki-link}}|აშშ-ის ფედერალური მთავრობის]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|ნამუშევარს]], ეს ფაილი განთავსებულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''.",
+	'wm-license-pd-usgov-noaa-text' => "ეს ფაილი არის [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|აშშ-ის ოკეანური და ატმოსფერული კვლევების ეროვნული სააგენტოს]], გადაღებული ან შექმნილი მათ მიერ სამსახურეობრივი მოვალეობის შესრულების დროს. წარმოადგენს [[{{int:wm-license-pd-usgov-wiki-link}}|აშშ-ის ფედერალური მთავრობის]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|ნამუშევარს]], ეს ფაილი განთავსებულია '''[[{{int:wm-license-pd-wiki-link}}|საზოგადოებრივ დომენში]]'''.",
 	'wm-license-pd-wiki-link' => 'w:ka:საყოველთაო საკუთრება',
 	'wm-license-self-one-license' => 'მე, ამ ნამუშევარზე საავტორო უფლებების მფლობელი, ვაქვეყნებ მას შემდეგი ლიცენზიით:',
 	'wm-license-self-one-license-with-author' => '$1, ამ ნამუშევარზე საავტორო უფლებების მფლობელი, ვაქვეყნებ მას შემდეგი ლიცენზიით:',
@@ -4924,11 +4954,12 @@ $messages['ku-latn'] = array(
 
 /** Cornish (Kernowek)
  * @author Kw-Moon
+ * @author Nrowe
  */
 $messages['kw'] = array(
 	'wm-license-information-source' => 'Pednfenten',
 	'wm-license-information-author' => 'Awtour',
-	'wm-license-information-permission' => 'Cubmyas',
+	'wm-license-information-permission' => 'Kubmyas',
 	'wm-license-information-permission-reusing-text' => 'Dasusya an restren-ma',
 );
 
@@ -6026,6 +6057,7 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 );
 
 /** Nepali (नेपाली)
+ * @author Bhawani Gautam
  * @author सरोज कुमार ढकाल
  */
 $messages['ne'] = array(
@@ -6034,7 +6066,7 @@ $messages['ne'] = array(
 	'wm-license-information-date' => 'मिति',
 	'wm-license-information-author' => 'लेखक',
 	'wm-license-information-author-missing' => "यो मिडियामा '''रचयिता''' जानकारी छैन ।",
-	'wm-license-information-permission' => 'अनिमतीहरु',
+	'wm-license-information-permission' => 'अनुमति',
 	'wm-license-information-permission-reusing-text' => 'यो फाइल पुनप्रयोग गर्न',
 	'wm-license-information-permission-see-below' => 'तल हेर्नुहोस् ।',
 	'wm-license-information-other-versions' => 'अरु संस्करणहरु',
@@ -6342,9 +6374,12 @@ $messages['or'] = array(
 	'wm-license-self-multiple-licenses-select' => 'ଆପଣ ନିଜ ପସନ୍ଦର ଲାଇସେନ୍ସ ବାଛିପାରିବେ ।',
 );
 
-/** Ossetic (Ирон) */
+/** Ossetic (Ирон)
+ * @author Bouron
+ */
 $messages['os'] = array(
 	'wm-license-information-date' => 'Датæ',
+	'wm-license-own-work' => 'Хи куыст',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ) */
@@ -8136,7 +8171,7 @@ Vidaredistribution, redigering av verk, kommersiell användning och all övrig a
 	'wm-license-gfdl-1.3-and-later' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 eller senare publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 endast som publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sv:GNU Free Documentation License',
-	'wm-license-gpl-text' => "Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2 av licensen, eller någon senare version. Detta arbete distribueras i hopp om att det ska vara användbart, men '''utan någon garanti''', även utan underförstådd garanti om '''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-gpl-2-full-link}} version 2] och [{{int:wm-license-gpl-3-full-link}} version 3 av GNU General Public License] för mer information.",
+	'wm-license-gpl-text' => "Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2 av licensen, eller någon senare version. Detta verk distribueras i hopp om att det ska vara användbart, men '''utan någon garanti''', även utan underförstådd garanti om '''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-gpl-2-full-link}} version 2] och [{{int:wm-license-gpl-3-full-link}} version 3 av GNU General Public License] för mer information.",
 	'wm-license-gpl-wiki-link' => 'w:sv:GNU General Public License',
 	'wm-license-information-table-summary' => 'En standarmall för att ge komplett information om en fil, såsom en bildbeskrivning, upphovsrättsstatus, osv.',
 	'wm-license-information-description' => 'Beskrivning',
@@ -8157,15 +8192,25 @@ Vidaredistribution, redigering av verk, kommersiell användning och all övrig a
 	'wm-license-licensing-update-text' => 'Detta licenstillägg lades till till denna fil som en del av GFDL:s [[{{int:wm-license-licensing-update-wiki-link}}|licensuppdatering]].',
 	'wm-license-original-upload-log' => 'Ursprunglig uppladdningslogg',
 	'wm-license-own-work' => 'Eget arbete',
-	'wm-license-pd-author-self-text' => "Jag, upphovsrättsinnehavaren till detta verk, släpper detta arbete i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''. Detta gäller globalt.",
-	'wm-license-pd-author-with-author-text' => "Detta arbete har gjorts tillgänglig som '''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' av dess skapare, '''$1'''. Detta gäller globalt.",
+	'wm-license-pd-author-self-text' => "Jag, upphovsrättsinnehavaren till detta verk, släpper detta verk i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''. Detta gäller globalt.",
+	'wm-license-pd-author-with-author-text' => "Detta verk har gjorts tillgänglig som '''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' av dess skapare, '''$1'''. Detta gäller globalt.",
 	'wm-license-pd-author-not-legally-possible' => 'I vissa länder kan detta inte vara juridiskt möjligt; i så fall:',
 	'wm-license-pd-author-self-any-purpose' => "Jag ger härmed envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 ger envar rätten att använda detta verk '''för alla ändamål''', utan några villkor, förutom villkor som lagen ställer.",
 	'wm-license-pd-usgov-wiki-link' => 'w:sv:USA:s federala regering',
+	'wm-license-pd-usgov-fema-text' => "Denna fil är ett verk av en anställd vid [[{{int:wm-license-pd-usgov-fema-wiki-link}}|USA:s Federal Emergency Management Agency]], taget eller skapat inom ramen för personens tjänsteutövning. I egenskap av ett [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s federala regering]], är filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
+	'wm-license-pd-usgov-fema-wiki-link' => 'w:sv:Federal Emergency Management Agency',
+	'wm-license-pd-usgov-military-text' => "Denna fil är ett verk av en anställd vid [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|USA:s väpnade styrkor]] eller [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|USA:s försvarsdepartement]], taget eller skapat inom ramen för personens tjänsteutövning. I egenskap av ett [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s federala regering]], är filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
+	'wm-license-pd-usgov-military-armed-forces-wiki-link' => 'w:sv:USA:s väpnade styrkor',
+	'wm-license-pd-usgov-military-dod-wiki-link' => 'w:sv:USA:s försvarsdepartement',
+	'wm-license-pd-usgov-military-air-force-text' => "Denna fil är ett verk av en flygare eller anställd vid [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|USA:s flygvapen]], taget eller skapat inom ramen för personens tjänsteutövning. I egenskap av ett [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s federala regering]], är filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:sv:USA:s flygvapen',
+	'wm-license-pd-usgov-military-army-text' => "Denna fil är ett verk av en soldat eller anställd vid [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|USA:s armé]], taget eller skapat inom ramen för personens tjänsteutövning. I egenskap av ett [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s federala regering]], är filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:sv:USA:s armé',
+	'wm-license-pd-usgov-military-navy-text' => "Denna fil är ett verk av en sjöman eller anställd vid [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|USA:s flotta]], taget eller skapat inom ramen för personens tjänsteutövning. I egenskap av ett [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s federala regering]], är filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:sv:USA:s flotta',
+	'wm-license-pd-usgov-noaa-text' => "Denna fil är ett verk av en anställd vid [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|USA:s National Oceanic and Atmospheric Administration]], taget eller skapat inom ramen för personens tjänsteutövning. I egenskap av ett [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s federala regering]], är filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
+	'wm-license-pd-usgov-noaa-wiki-link' => 'w:sv:National Oceanic and Atmospheric Administration',
 	'wm-license-pd-wiki-link' => 'w:sv:Public domain',
 	'wm-license-self-one-license' => 'Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
 	'wm-license-self-one-license-with-author' => '$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:',
@@ -8363,7 +8408,7 @@ $messages['tg-cyrl'] = array(
 	'wm-license-information-author' => 'Муаллиф',
 );
 
-/** Tajik (Latin script) (tojikī) */
+/** Tajik (Latin script) (Tojikī) */
 $messages['tg-latn'] = array(
 	'wm-license-information-description' => 'Tavsifot',
 	'wm-license-information-source' => "Manba'",
@@ -8869,7 +8914,7 @@ $messages['vec'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Te poli indicar la licensa che te preferissi.',
 );
 
-/** Veps (Vepsän kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(

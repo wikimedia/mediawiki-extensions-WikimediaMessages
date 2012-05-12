@@ -387,7 +387,7 @@ $messages['niu'] = array(
 	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
-/** Abkhazian (Аҧсуа)
+/** Abkhazian (Аҧсшәа)
  * @author Temuri rajavi
  */
 $messages['ab'] = array(
@@ -3248,7 +3248,7 @@ $messages['el'] = array(
 	'group-inactive-member' => 'Ανενεργός χρήστης',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="//creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ'ελάχιστο, μέσω ενός υπερσύνδεσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.",
+	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.",
 	'wikimedia-editpage-tos-summary' => 'Αν δεν θέλετε το κείμενό σας να υποστεί επεξεργασία και να αναδιανεμηθεί κατά βούληση, τότε μην το καταχωρείτε εδώ. Αν δεν το γράψατε ο ίδιος, τότε πρέπει να είναι διαθέσιμο υπό όρους σύμφωνους με τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε να ακολουθήσετε οποιεσδήποτε απαιτήσεις αδειοδότησης.',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 );
@@ -4423,9 +4423,9 @@ $messages['frr'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|globaal administraator}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsmaan}}',
 	'group-Staff-member' => 'Mäwerker',
-	'group-translationadmin' => 'Auersaatangs administratooren',
-	'group-translationadmin-member' => '{{GENDER:$1|auersaatangs administraator}}',
-	'grouppage-translationadmin' => '{{ns:project}}:Auersaatangs administratooren',
+	'group-translationadmin' => 'Auersaatang administratooren',
+	'group-translationadmin-member' => '{{GENDER:$1|auersaatang administraator}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Auersaatang administratooren',
 	'group-coder' => 'Programiarern',
 	'group-coder-member' => '{{GENDER:$1|programiarer}}',
 	'group-inactive' => 'Ünaktiif brükern',
@@ -4433,9 +4433,9 @@ $messages['frr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ünaktiif brükern',
 	'wikimedia-copyright' => 'Di tekst stäänt oner\'t lisens <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a>; diar kön uk noch ööder reegeln tääl.
 Luke am enkelthaiden uun a <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">reegeln för\'t brüken</a>.',
-	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [//wikimediafoundation.org/wiki/Terms_of_use reegeln för\'t brüken] iinferstenen an dääst din werk frei oner det [//frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [//frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [//wikimediafoundation.org/wiki/Terms_of_use brüker-reegeln] iinferstenen an dääst din werk frei oner det [//frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [//frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
-	'wikimedia-editpage-tos-summary' => "Wan dü ei wel, dat dan tekst faan öödern brükt woort, do spiikre ham EI.
+	'wikimedia-editpage-tos-summary' => "Wan dü EI wel, dat dan tekst faan öödern brükt woort, do seekre ham EI.
 Wan dü di tekst ei salew skrewen heest, do stäänt hi oober likes oner a [//wikimediafoundation.org/wiki/Nutzungsbedingungen reegeln för't brüken] an dü stemest tu, dat dü a reegeln iinhäälst.",
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
 );
@@ -6235,7 +6235,7 @@ No saan a sika ti nagisurat iti daytoy, masapul a magun-od babaen ti naisakup a 
 	'cant-delete-main-page' => 'Saan mo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 );
 
-/** Ingush (ГІалгІай Ğalğaj)
+/** Ingush (ГӀалгӀай)
  * @author Amire80
  * @author Tagir
  */
@@ -6792,7 +6792,8 @@ $messages['ka'] = array(
 	'group-inactive-member' => '{{GENDER:$1|არააქტიური მომხმარებელი}}',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
-	'wikimedia-copyrightwarning' => "შესწორების შენახვით, თქვენ ეთანხმებით თქვენი ნაშრომის პუბლიკაციას [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] და [//www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით. თქვენ ასევე თანხმდებით მასზე, რომ იმ გვერდის გამოყენებისას, რომელშიც თქვენ შესწორება შეიტანეთ, თქვენ იქნებით ნახსენები როგორც მინიმუმ შესაბამისი ბმულით ან URL-ით შესაბამის გვერდზე. დამატებითი ინფორმაციის მისაღებად იხილეთ [//wikimediafoundation.org/wiki/Terms_of_Use გამოყენების პირობები] ''(ინგლ.)''.",
+	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [//wikimediafoundation.org/wiki/Terms_of_use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] და [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ლიცენზიებით.
+თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
 	'wikimedia-editpage-tos-summary' => '<div style="border: 1px solid #aaa;margin: 1em 0;padding: 0 0.4em 0 0.4em;">
 თუ არ გსურთ, რომ თქვენი ნაწერი თავისუფლად გავრცელდეს და ჩასწორდეს, აქ მას ნუ შემოიტანთ. თუ ეს ტექსტი თქვენი დაწერილი არ არის, იგი უნდა აკმაყოფილებდეს [//wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], ხოლო თქვენ თანახმა ხართ დაემორჩილოთ ნებისმიერ დაკავშირებულ სალიცენზიო მოთხოვნას.
 </div>',
@@ -7282,14 +7283,15 @@ $messages['ku-latn'] = array(
  * @author Kw-Moon
  * @author Malafaya
  * @author Nicky.ker
+ * @author Nrowe
  */
 $messages['kw'] = array(
 	'sitesupport' => 'Riansow',
-	'tooltip-n-sitesupport' => 'Gwrewgh agan scoodhya',
+	'tooltip-n-sitesupport' => 'Gwrewgh agan skoodhya',
 	'group-sysadmin' => 'Menystroryon an system',
-	'wikimedia-copyright' => 'Cavadow yw an text en-dadn <a href="//creativecommons.org/licenses/by-sa/3.0/">Cubmyas Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alja bos omvyskys. Gwelowgh an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
+	'wikimedia-copyright' => 'Kavadow yw an tekst en-dadn <a href="//creativecommons.org/licenses/by-sa/3.0/">Kubmyas Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alsa bos omvyskys. Gwelowgh an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
 	'wikimedia-editpage-tos-summary' => "Mar nyns yw da genowgh bos agas ober chanjys ha dasdyllys dre vodh, na wrewgh y witha obma.
-Mar nyns yw hebma scrifys genowgh whi agas honen, res yw y vos cavadow en-dadn termynyow kebmys ha'n [//wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha whi a wra acordya dhe sewya neb gorholethow lecyansa longus.",
+Mar nyns yw hebma skrifys genowgh hwi agas honen, res yw y vos kavadow en-dadn termynyow kebmys ha'n [//wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha hwi a wra akordya dhe sewya neb gorholethow lecyansa longus.",
 );
 
 /** Kirghiz (Кыргызча) */
@@ -7971,7 +7973,7 @@ $messages['mk'] = array(
 	'group-patroller' => 'Патролери',
 	'group-researcher' => 'Истражувачи',
 	'group-rollbacker' => 'Враќачи',
-	'group-transwiki' => 'Меѓувики увoзници',
+	'group-transwiki' => 'Прекувики-увoзници',
 	'group-trusted' => 'Докажани корисници',
 	'group-abusefilter-member' => '{{GENDER:$1|уредник на филтерот за за злоупотреби}}',
 	'group-accountcreator-member' => '{{GENDER:$1|создавач на сметки}}',
@@ -7996,7 +7998,7 @@ $messages['mk'] = array(
 	'group-patroller-member' => '{{GENDER:$1|патролер}}',
 	'group-researcher-member' => '{{GENDER:$1|истражувач}}',
 	'group-rollbacker-member' => '{{GENDER:$1|враќач}}',
-	'group-transwiki-member' => '{{GENDER:$1|меѓувики-увозник}}',
+	'group-transwiki-member' => '{{GENDER:$1|прекувики-увозник}}',
 	'group-trusted-member' => '{{GENDER:$1|докажан корисник}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Уредници на филтер на злоупотреби',
 	'grouppage-accountcreator' => '{{ns:project}}:Создавачи на сметки',
@@ -8020,7 +8022,7 @@ $messages['mk'] = array(
 	'grouppage-OTRS-member' => '{{ns:project}}:Членови на OTRS',
 	'grouppage-researcher' => '{{ns:project}}:Истражувач',
 	'grouppage-rollbacker' => '{{ns:project}}:Враќачи',
-	'grouppage-transwiki' => '{{ns:project}}:Меѓувики увoзници',
+	'grouppage-transwiki' => '{{ns:project}}:Прекувики увoзници',
 	'grouppage-trusted' => '{{ns:project}}:Докажани корисници',
 	'group-steward' => 'Стјуарди',
 	'group-sysadmin' => 'Систем администратори',
@@ -12405,7 +12407,7 @@ $messages['tg-cyrl'] = array(
 	'group-inactive-member' => 'корбарони ғайрифаъол',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -13134,7 +13136,7 @@ $messages['ug-arab'] = array(
 	'grouppage-inactive' => '{{ns:project}}:پاسسىپ ئىشلەتكۈچىلەر',
 );
 
-/** Uyghur (Latin script) (Uyghurche‎) */
+/** Uyghur (Latin script) (Uyghurche) */
 $messages['ug-latn'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
@@ -13294,7 +13296,7 @@ $messages['ur'] = array(
 	'group-inactive-member' => 'غیرفعال صارف',
 );
 
-/** Uzbek (O'zbek) */
+/** Uzbek (Oʻzbek) */
 $messages['uz'] = array(
 	'sitesupport' => "Loyihaga ko'mak",
 );
@@ -13401,7 +13403,7 @@ $messages['vec'] = array(
 	'wikimedia-editpage-tos-summary' => "Se no te voli che el to testo el possa vegner modificà e ridistribuìo a volontà, alora no sta inserirlo qua. Se no te lo ghè scrito ti, el ga da èssar disponibile a condizioni conpatibili co le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e te acèti de seguir tuti i requisiti de licensa.",
 );
 
-/** Veps (Vepsän kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
@@ -13713,7 +13715,7 @@ Eto seroz vos d' acoird po shuve totes les clawes di cisse licince la.",
  */
 $messages['war'] = array(
 	'sitesupport' => 'Mga Donasyon',
-	'group-accountcreator' => 'Mga manhihimo hin akawnt',
+	'group-accountcreator' => 'Mga maghirimo hin akawnt',
 	'group-import' => 'Mga man-aambit',
 	'group-transwiki' => 'Mga man-aambit hin transwiki',
 	'group-steward' => 'Mga tinapuran',

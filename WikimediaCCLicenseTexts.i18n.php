@@ -9801,8 +9801,8 @@ $messages['mk'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/deed.mk Сподели пос исти услови 1.0 Финска].',
 	'wm-license-cc-sa-1.0-nl-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.mk Сподели пос исти услови 1.0 Холандија].',
 	'wm-license-cc-sa-2.0-jp-text' => 'Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/deed.mk Сподели пос исти услови 2.0 Јапонија].',
-	'wm-license-cc-zero-text' => 'Оваа податотека е достапна под лиценцата [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en Универзално посветување на јавниот домен].',
-	'wm-license-cc-zero-explanation' => 'Лицето поврзано со делото со овој документ го има посветено истото на [[{{int:wm-license-pd-wiki-link}}|јавниот домен]], откажувајќи се од сите права на тоа дело за цел свет, под законот за авторско право и поврзани или сродни законски права што ги имало на тоа дело, дотолку колку што е дозволено со закон. Делата под CC0 не бараат припишување (наведување автор и/или извор). Кога го наведувате делото, наводот не треба да подразбира било каква поддршка од авторот.',
+	'wm-license-cc-zero-text' => 'Оваа податотека е достапна под лиценцата [[{{int:wm-license-cc-wiki-link}}|Криејтив комонс]] [//creativecommons.org/publicdomain/zero/1.0/deed.mk Универзално предавање во јавна сопственост].',
+	'wm-license-cc-zero-explanation' => 'Лицето поврзано со делото со овој документ го има предадено истото во [[{{int:wm-license-pd-wiki-link}}|јавна сопственост]], откажувајќи се од сите права на тоа дело за цел свет, под законот за авторско право и поврзани или сродни законски права што ги имало на тоа дело, дотолку колку што е дозволено со закон. Делата под CC0 не бараат припишување (наведување автор и/или извор). Кога го наведувате делото, наводот не треба да подразбира било каква поддршка од авторот.',
 	'wm-license-cc-free' => 'Можете:',
 	'wm-license-cc-free-to-share-header' => 'да споделите',
 	'wm-license-cc-free-to-share-text' => 'да го умножувате, распространувате и емитувате делото',
@@ -16078,7 +16078,7 @@ $messages['vec'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Se te àlteri, trasformi, o te costruissi qualcosa da sta opera, te poli distribuir el laoro risultante solo soto la stessa licensa o una che ghe someja.',
 );
 
-/** Veps (Vepsän kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
