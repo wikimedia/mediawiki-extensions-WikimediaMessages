@@ -6343,6 +6343,7 @@ $messages['it'] = array(
 	'nstab-creator' => 'Creatore',
 	'nstab-institution' => 'Istituzione',
 	'nstab-sequence' => 'Sequenza',
+	'nstab-timedtext' => 'Sottotitoli',
 	'group-abusefilter' => 'Modificatori dei filtri anti abusi',
 	'group-accountcreator' => 'Creatori di utenze',
 	'group-arbcom' => 'Commissione arbitrale',
@@ -6445,7 +6446,7 @@ $messages['it'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utente inattivo|utente inattiva|utente inattivo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
-	'wikimedia-copyrightwarning' => "Salvando, accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti che i riutilizzatori te lo attribuiscano almeno mediante un collegamento ipertestuale o un URL alla pagina a cui hai contribuito. Consulta le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso] per i dettagli.",
+	'wikimedia-copyrightwarning' => 'Facendo click sul bottone "{{int:savearticle}}", accetti le [//wikimediafoundation.org/wiki/Terms_of_use Condizioni d\'uso], ed accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Accetti inoltre che un collegamento ipertestuale o un URL sia sufficiente per l\'attribuzione in base alla licenza Creative Commons.',
 	'wikimedia-editpage-tos-summary' => "Se non desideri che il tuo testo possa essere modificato e ridistribuito a volontà, allora non inserirlo qui. Se non l'hai scritto tu, deve essere disponibile a condizioni compatibili con le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e accetti di seguire tutti i requisiti di licenza.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 );
