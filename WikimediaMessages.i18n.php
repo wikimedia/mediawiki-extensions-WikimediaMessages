@@ -844,7 +844,7 @@ $messages['ar'] = array(
 	'group-Image-reviewer-member' => '{{GENDER:$1|مراجع صور|مراجعة صور}}',
 	'group-import-member' => '{{GENDER:$1|مستورد|مستوردة}}',
 	'group-interface_editor-member' => '{{GENDER:$1|محرر الواجهة}}',
-	'group-ipblock-exempt-member' => '{{GENDER:$1|حظر آيبي مسثنى}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|مستثنى من حظر الآيبي}}',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS عضو}}',
 	'group-patroller-member' => '{{GENDER:$1|مدقق}}',
 	'group-researcher-member' => '{{GENDER:$1|باحث|باحثة}}',
@@ -6446,7 +6446,7 @@ $messages['it'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utente inattivo|utente inattiva|utente inattivo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
-	'wikimedia-copyrightwarning' => 'Facendo click sul bottone "{{int:savearticle}}", accetti le [//wikimediafoundation.org/wiki/Terms_of_use Condizioni d\'uso], ed accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Accetti inoltre che un collegamento ipertestuale o un URL sia sufficiente per l\'attribuzione in base alla licenza Creative Commons.',
+	'wikimedia-copyrightwarning' => "Facendo click sul bottone \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], ed accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o un URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'wikimedia-editpage-tos-summary' => "Se non desideri che il tuo testo possa essere modificato e ridistribuito a volontà, allora non inserirlo qui. Se non l'hai scritto tu, deve essere disponibile a condizioni compatibili con le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e accetti di seguire tutti i requisiti di licenza.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 );
@@ -6997,6 +6997,7 @@ $messages['kn'] = array(
  * @author Kwj2772
  * @author ToePeu
  * @author Yknok29
+ * @author 관인생략
  */
 $messages['ko'] = array(
 	'wikimediamessages-desc' => '위키미디어 전용 메시지',
@@ -7015,7 +7016,7 @@ $messages['ko'] = array(
 	'group-autoreviewer' => '자동 검토원',
 	'group-bigexport' => '대량 문서 익스포터',
 	'group-botadmin' => '관리자 권한을 가진 봇',
-	'group-confirmed' => '자동 인증된 사용자',
+	'group-confirmed' => '인증된 사용자',
 	'group-editprotected' => '보호된 문서 편집자',
 	'group-Ex_Administrator' => '전직 관리자',
 	'group-Ex_Bureaucrat' => '전직 사무관',
@@ -7040,7 +7041,7 @@ $messages['ko'] = array(
 	'group-autoreviewer-member' => '{{GENDER:$1|자동 검토원}}',
 	'group-bigexport-member' => '{{GENDER:$1|대량 문서 익스포터}}',
 	'group-botadmin-member' => '{{GENDER:$1|관리자 권한을 가진 봇}}',
-	'group-confirmed-member' => '{{GENDER:$1|자동 인증된 사용자}}',
+	'group-confirmed-member' => '{{GENDER:$1|인증된 사용자}}',
 	'group-editprotected-member' => '{{GENDER:$1|보호된 문서 편집자}}',
 	'group-eliminator-member' => '{{GENDER:$1|삭제자}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|전직 관리자}}',
@@ -7065,7 +7066,7 @@ $messages['ko'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:자동 검토원',
 	'grouppage-bigexport' => '{{ns:project}}:대용량 문서 전파자',
 	'grouppage-botadmin' => '{{ns:project}}:관리자 권한을 가진 봇',
-	'grouppage-confirmed' => '{{ns:project}}:자동 인증된 사용자',
+	'grouppage-confirmed' => '{{ns:project}}:인증된 사용자',
 	'grouppage-editprotected' => '{{ns:project}}:보호된 문서 편집자',
 	'grouppage-eliminator' => '{{ns:project}}:삭제자',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:전직 관리자',
@@ -7742,6 +7743,22 @@ Jei šio darbo neparašėte Jūs, jis turi būti suderinamas su [//wikimediafoun
  */
 $messages['ltg'] = array(
 	'sitesupport' => 'Pazīdi',
+);
+
+/** Lushai (Mizo ţawng)
+ * @author RMizo
+ */
+$messages['lus'] = array(
+	'wikimediamessages-desc' => 'Wikipedia thuthawn bîkte',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport' => 'Vẹhbúr',
+	'tooltip-n-sitesupport' => 'Min chhawmdäwl ve rawh le',
+	'specialpages-group-contribution' => 'Thawhlawm/Vehbúr khawn',
+	'nstab-creator' => 'Buatsaihtu',
+	'nstab-institution' => 'Páwl',
+	'nstab-sequence' => 'Inzuidàn',
+	'nstab-timedtext' => 'TimedText',
+	'group-translationadmin' => 'Lehlinna roreltute',
 );
 
 /** Latvian (Latviešu)
@@ -8577,11 +8594,13 @@ $messages['myv'] = array(
 );
 
 /** Mazanderani (مازِرونی)
+ * @author Mehdi
  * @author Spacebirdy
  * @author محک
  */
 $messages['mzn'] = array(
 	'sitesupport' => 'پیل هدائن',
+	'wikimedia-copyright' => "کل نوشتارون <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>موجوز Creative Commons Attribution/Share-Alike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
 );
 
 /** Nauru (Dorerin Naoero) */

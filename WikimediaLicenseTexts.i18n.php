@@ -1977,7 +1977,9 @@ $messages['diq'] = array(
 	'wm-license-artwork-title' => 'Sername',
 	'wm-license-artwork-medium' => 'Miyanên',
 	'wm-license-artwork-dimensions' => 'Ebati',
+	'wm-license-artwork-references' => 'Çımey',
 	'wm-license-artwork-notes' => 'Noti',
+	'wm-license-artwork-source' => 'Çıme/Fotrafkar',
 	'wm-license-book-edition' => 'Pıloxne',
 	'wm-license-book-editor' => 'Vurner',
 	'wm-license-book-language' => 'Zıwan',
@@ -1989,6 +1991,10 @@ $messages['diq'] = array(
 	'wm-license-book-translator' => 'Açarner',
 	'wm-license-book-volume' => 'Vanga',
 	'wm-license-cecill-text' => 'Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedeva ya]]; ti eşkena ena dosya vila bike ya zi vurne [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Sartanê lisansê CeCILL itiya de este [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-creator-date-of-birth' => 'Tarixê biyayışi',
+	'wm-license-creator-date-of-birth-and-death' => 'Tarixê biyayışi/merdışi',
+	'wm-license-creator-location-of-birth' => 'Cayê biyayışi',
+	'wm-license-creator-location-of-birth-and-death' => 'Cayê biyayışi/merdışi',
 	'wm-license-fal-text' => "Copyleft: Ena dosya bedeva ya; ti eşkena ena dosya vila bike ya zi vurne bine '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ti eskena sartanê lisansê itiya de [{{int:wm-license-fal-full-link}} Copyleft Attitude site] u siteyane binan de bivine.",
 	'wm-license-gfdl-1.2-and-later' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2 ya zi versiyonane ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
 	'wm-license-gfdl-1.2-only' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2  ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
@@ -4349,9 +4355,15 @@ $messages['it'] = array(
 	'wm-license-pd-author-self-any-purpose' => "Garantisco a chiunque il diritto di utilizzare quest'opera '''per qualsiasi scopo''', senza alcuna condizione, a meno che tali condizioni siano richieste dalla legge.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 garantisce a chiunque il diritto di utilizzare quest'opera '''per qualsiasi scopo''', senza alcuna condizione, a meno che tali condizioni siano richieste dalla legge.",
 	'wm-license-pd-usgov-wiki-link' => "w:it:Governo federale degli Stati Uniti d'America",
+	'wm-license-pd-usgov-fema-text' => "Questo file è un'opera di un dipendente della [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
+	'wm-license-pd-usgov-military-text' => "Questo file è un'opera di un dipendente delle [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|forze armate statunitense]] o del [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Dipartimento della Difesa]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
+	'wm-license-pd-usgov-military-air-force-text' => "Questo file è un'opera di un aviatore o di un dipendente dell'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|aeronautica militare statunitense]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:it:United States Air Force',
+	'wm-license-pd-usgov-military-army-text' => "Questo file è un'opera di un soldato o di un dipendente dell'[[{{int:wm-license-pd-usgov-military-army-wiki-link}}|esercito statunitense]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:it:United States Army',
+	'wm-license-pd-usgov-military-navy-text' => "Questo file è un'opera di un marinaio o di un dipendente della [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|marina militare statunitense]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:it:United States Navy',
+	'wm-license-pd-usgov-noaa-text' => "Questo file è un'opera di un dipendente della [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
 	'wm-license-pd-wiki-link' => 'w:it:Pubblico dominio',
 	'wm-license-self-one-license' => "Io, detentore del copyright su quest'opera, dichiaro di pubblicarla con la seguente licenza:",
 	'wm-license-self-one-license-with-author' => "$1, detentore del copyright su quest'opera, dichiara di pubblicarla con la seguente licenza:",
@@ -8589,6 +8601,7 @@ $messages['to'] = array(
 
 /** Turkish (Türkçe)
  * @author Emperyan
+ * @author Incelemeelemani
  * @author Joseph
  * @author Khutuck
  * @author Multichill
@@ -8632,6 +8645,7 @@ $messages['tr'] = array(
 	'wm-license-creator-location-of-birth-and-death' => 'Doğum/ölüm yeri',
 	'wm-license-creator-work-period' => 'Çalışma süresi',
 	'wm-license-creator-work-location' => 'İş konumu',
+	'wm-license-fal-text' => "Telif müsaadesi: Bu eser ücretsiz olmakla birlikte, '''[[{{int:wm-license-fal-wiki-link}}|Özgür Sanat Lisansı]]''' şartlarına göre bu eseri dağıtabilir ve/veya değiştirebilirsiniz. Bu lisansın bir örneğine ve nasıl kullanılacağına [{{int:wm-license-fal-full-link}} telif müsaadesi veren] siteden ulaşabilirsiniz.",
 	'wm-license-fal-wiki-link' => 'w:tr:Özgür Sanat lisansı',
 	'wm-license-fsf-wiki-link' => 'w:tr:Özgür Yazılım Vakfı',
 	'wm-license-free-software-wiki-link' => 'w:tr:Özgür yazılım',
