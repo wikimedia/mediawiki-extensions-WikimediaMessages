@@ -7274,11 +7274,17 @@ $messages['ksh'] = array(
 
 /** Kurdish (Latin script) (‪Kurdî (latînî)‬)
  * @author George Animal
+ * @author Ghybu
  */
 $messages['ku-latn'] = array(
 	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
 	'group-Global_bot' => "Bot'ên global",
 	'group-Global_bot-member' => "bot'ê global",
+	'wikimedia-copyright' => 'Nivîsar di bin lîsansa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> de derbasdar e;
+heke tiştên din werin xwestin dikarin lê bên zêdekirin.
+Ji bo hûragahiyan li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mercên Bikaranînê</a> binêre.',
+	'wikimedia-editpage-tos-summary' => 'Heke tu naxwazî nivîsa te di dahatûyê de were guhertin û belavkirin, naxwe li vir nenivîse.
+Heke te bixwe ev nenivîsandibe, divê ev li gorî mercên derbasdar ên [//wikimediafoundation.org/wiki/Terms_of_Use Mercên Bikaranînê] be, û divê tu pêdiviyên lîsanskirinê bipejirînî.',
 );
 
 /** Cornish (Kernowek)
