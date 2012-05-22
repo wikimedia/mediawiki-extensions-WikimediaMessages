@@ -15481,6 +15481,7 @@ na isinusukong pangbuong-mundo ang lahat ng kanyang mga karapatan sa akda sa ila
 /** Turkish (Türkçe)
  * @author Bilalokms
  * @author Emperyan
+ * @author Incelemeelemani
  * @author Joseph
  * @author Khutuck
  * @author Multichill
@@ -15666,6 +15667,7 @@ $messages['tr'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.tr Benzer Paylaşım 1.0 Hollanda] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Bu dosya, [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/deed.tr Benzer Paylaşım 2.0 Japonya] lisansı ile lisanslanmıştır.',
 	'wm-license-cc-zero-text' => 'Bu dosya [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.tr Evrensel Kamu Malı İthafı] altındadır.',
+	'wm-license-cc-zero-explanation' => 'Bu çalışmayı oluşturan kişi bu senet ile eser hakkında tüm dünya çapında telif hakkı yasaları kapsamında, yasalar tarafından izin verilen ölçülerde ve diğer benzer tüm haklarından feragat etmiş ve [[{{int:wm-license-pd-wiki-link}}|kamu malı]] olarak nitelendirmiştir. Siz bu çalışmayı ve eseri hiç bir izin almadan ticari amaçlar da dahil olmak üzere kopyalayabilir, değiştirebilir ve serbestçe dağıtabilirsiniz.',
 	'wm-license-cc-free' => 'Şu seçeneklerde özgürsünüz:',
 	'wm-license-cc-free-to-share-header' => 'paylaşım',
 	'wm-license-cc-free-to-share-text' => 'eser paylaşımı, dağıtımı ve iletimi',
@@ -15676,6 +15678,7 @@ $messages['tr'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Esere yazar veya lisans sahibi tarafından belirtilen (ancak sizi ya da eseri kullanımınızı desteklediklerini ileri sürmeyecek bir) şekilde atıfta bulunmalısınız.',
 	'wm-license-cc-conditions-share_alike-header' => 'benzer paylaşım',
 	'wm-license-cc-conditions-share_alike-text' => 'Bu eseri değiştirmeniz, dönüştürmeniz ya da bu eseri temel alan başka bir eser oluşturmanız halinde, ortaya çıkan eser için sadece bu veya buna benzer bir lisansı kullanma imkanınız bulunmaktadır.',
+	'wm-license-cc-pd-mark-text' => 'Bu dosya ve ilgili diğer hakları da dahil olmak üzere telif hakkı kapsamında bilinen tüm kısıtlamalar, serbest lisans olarak belirlenmiştir.',
 );
 
 /** Tatar (Cyrillic script) (Татарча)
