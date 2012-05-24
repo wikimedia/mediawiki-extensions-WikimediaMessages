@@ -8610,6 +8610,8 @@ $messages['to'] = array(
  */
 $messages['tr'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia lisans mesajları',
+	'wm-license-attribution-with-author-text' => "Bu dosyanın telif hakkı sahibi, $1, telif hakkına uygun şekilde atıfta bulunmak koşuluyla herkese '''herhangi bir amaç için''' bu çalışmayı kullanmak üzere izin vermiştir.",
+	'wm-license-attribution-without-author-text' => "Bu dosyanın telif hakkı sahibi, telif hakkına uygun şekilde atıfta bulunmak koşuluyla herkese '''herhangi bir amaç için''' bu çalışmayı kullanmak üzere izin vermiştir.",
 	'wm-license-artwork-artist' => 'Sanatçı/Yapan',
 	'wm-license-artwork-title' => 'Başlık',
 	'wm-license-artwork-medium' => 'Ortam',
@@ -8645,6 +8647,7 @@ $messages['tr'] = array(
 	'wm-license-creator-location-of-birth-and-death' => 'Doğum/ölüm yeri',
 	'wm-license-creator-work-period' => 'Çalışma süresi',
 	'wm-license-creator-work-location' => 'İş konumu',
+	'wm-license-creator-linkback' => 'Oluşturan bilgi kutusu şablonuna bağlantı',
 	'wm-license-fal-text' => "Telif müsaadesi: Bu eser ücretsiz olmakla birlikte, '''[[{{int:wm-license-fal-wiki-link}}|Özgür Sanat Lisansı]]''' şartlarına göre bu eseri dağıtabilir ve/veya değiştirebilirsiniz. Bu lisansın bir örneğine ve nasıl kullanılacağına [{{int:wm-license-fal-full-link}} telif müsaadesi veren] siteden ulaşabilirsiniz.",
 	'wm-license-fal-wiki-link' => 'w:tr:Özgür Sanat lisansı',
 	'wm-license-fsf-wiki-link' => 'w:tr:Özgür Yazılım Vakfı',
@@ -8654,8 +8657,12 @@ $messages['tr'] = array(
 :* değişmeyen bölümler, ön kapak metni ve arka kapak metni olmaksızın,
 kopyalanması, dağıtılması ve/veya değiştirilmesine izin verilmiştir.
 Lisansın bir kopyası, \"'''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]'''\" başlıklı bölümde yer almaktadır.",
+	'wm-license-gfdl-1.2-only' => "Bu belge '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''' şartları altında, sürüm sadece 1.2 olarak [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından dağıtım ve/veya değiştirme hakkı izni vermektedir; genellikle  eserlerin değişmeyen bölümleri, ön kapak metni ve arka kapak metni ile birlikte kullanılır. Lisansın bir kopyasına ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]'' sayfasından ulaşabilirsiniz.",
 	'wm-license-gfdl-1.2-only-header' => 'sadece&nbsp;1.2',
+	'wm-license-gfdl-1.3-and-later' => "Bu belge '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''' şartları altında, sürüm 1.3 veya sonraki sürümlerine uygun olarak [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından dağıtım ve/veya değiştirme hakkı izni vermektedir; genellikle  eserlerin değişmeyen bölümleri, ön kapak metni ve arka kapak metni ile birlikte kullanılır. Lisansın bir kopyasına ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Özgür Belgeleme Lisansı]]'' sayfasından ulaşabilirsiniz.",
+	'wm-license-gfdl-1.3-only' => "Bu belge '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''' şartları altında, sürüm sadece 1.3 olarak [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından dağıtım ve/veya değiştirme hakkı izni vermektedir; genellikle  eserlerin değişmeyen bölümleri, ön kapak metni ve arka kapak metni ile birlikte kullanılır. Lisansın bir kopyasına ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Özgür Belgeleme Lisansı]]'' sayfasından ulaşabilirsiniz.",
 	'wm-license-gfdl-wiki-link' => 'w:tr:GNU Özgür Belgeleme Lisansı',
+	'wm-license-gpl-text' => "Bu çalışma bir [[{{int:wm-license-free-software-wiki-link}}|özgür yazılımdır]]; [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından yayınlanan '''[[{{int:wm-license-gpl-wiki-link}}|GNU Genel Kamu Lisansı]]''' altında veya sürüm 2 lisansı ya da sonraki herhangi bir lisan sürümü uyarınca; bu çalışmayı dağıtabilir ve/veya değiştirebilirsiniz. Bu çalışma faydalı olacağı ümidiyle, ancak belirli bir amaç için '''uygunluk''' veya '''ticari''' bir amaç dahil olmak üzere '''herhangi bir garanti''' verilmeden dağıtılmıştır. Detaylı bilgi için [{{int:wm-license-gpl-2-full-link}} sürüm 2] ve [{{int:wm-license-gpl-3-full-link}} GNU Gene Kamu Lisansı sürüm 3] sayfalarına bakabilirsiniz.",
 	'wm-license-gpl-wiki-link' => 'w:tr:GNU Genel Kamu Lisansı',
 	'wm-license-information-table-summary' => 'Dosya hakkında tüm bilgileri sağlayan, ne gösterdiğini ve nasıl yapıldığını gösteren, telif durumunu ve kaynağını içeren, ölçün bir tablo',
 	'wm-license-information-description' => 'Tanım',
