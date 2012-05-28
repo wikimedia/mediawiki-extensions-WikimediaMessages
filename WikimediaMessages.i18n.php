@@ -2877,7 +2877,7 @@ Falls Sie den Text nicht selber verfasst haben, muss er unter den [//wikimediafo
 $messages['diq'] = array(
 	'wikimediamessages-desc' => 'mesajê xususi yê wikimedyayi',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/tr',
-	'sitesupport' => 'Bexşi',
+	'sitesupport' => 'Bêci',
 	'tooltip-n-sitesupport' => 'paşt bıde ma',
 	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
 	'nstab-creator' => 'Vıraştoğ',
