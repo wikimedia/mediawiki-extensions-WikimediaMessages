@@ -9490,6 +9490,53 @@ $messages['lt'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Jei perdirbsite, redaguosite ar atkursite šį darbą, jį galėsite platinti tik su tokia pačia ar panašia į šią licencija.',
 );
 
+/** Lushai (Mizo ţawng)
+ * @author RMizo
+ */
+$messages['lus'] = array(
+	'wm-license-cc-attribution' => 'Insawilanna',
+	'wm-license-cc-by-1.0-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.en Insawilanna 1.0 tlángláwn] phalphung hmanga tlangzarh a ni.',
+	'wm-license-cc-by-1.0-fi-text' => 'He taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.en Insawilanna 1.0 Finram] phalphung hmanga tlangzarh a ni.',
+	'wm-license-cc-by-1.0-il-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.en Insawilanna 1.0 Isarel] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-1.0-nl-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/deed.en Insawilanna 1.0 Ramhniam] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-text' => 'Hë taksa hi  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/deed.en Insawilanna 2.0 tlángláwn] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-at-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/deed.en Insawilanna 2.0 Austriaram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-au-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/au/deed.en Insawilanna 2.0 Australiaram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-be-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/be/deed.en Insawilanna 2.0 Belziamram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-br-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/br/deed.en Insawilanna 2.0 Brazilram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-ca-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ca/deed.en Insawilanna 2.0 Kanadaram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-cl-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/cl/deed.en Insawilanna 2.0 Chileram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-de-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/de/deed.en Insawilanna 2.0 Zermanram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-es-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/es/deed.en Insawilanna 2.0 Sipeinram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-2.0-fr-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/fr/deed.en Insawilanna 2.0 Ferênram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-3.0-de-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/de/deed.en Insawilanna 3.0 Zermanram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-1.0-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/deed.en Insawilanna- Anpuia chhuahchhàwnna 1.0 tlángláwn] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-1.0-fi-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/fi/deed.en Insawilanna-Anpuia chhuahchhàwnna 1.0 Finram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-1.0-il-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/il/deed.en Insawilanna- Anpuia chhuahchhàwnna 1.0 Isarel] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-1.0-nl-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/nl/deed.en Insawilanna-Anpuia chhuahchhàwnna 1.0 Ramhniam] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 tlángláwn] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-at-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/at/deed.en Insawilanna- Anpuia chhuahchhàwnna 1.0 Austriaram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-au-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/au/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Australiaram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-be-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/be/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Belziamram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-br-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/br/deed.en Insawilanna- Anpuia chhuahchhàwnna 1.0 Brazilram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-ca-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/ca/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Kanadaram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/cl/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Chileram ] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-de-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/de/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Zermanram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-es-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/es/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Sipeinram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-by-sa-2.0-fr-text' => 'Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/fr/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Ferênram] phalphung hmanga tlángzarh a ni.',
+	'wm-license-cc-free' => "Hê'ngte hi ti tùrin zalenna i nei:",
+	'wm-license-cc-free-to-share-header' => 'ṭawmpui',
+	'wm-license-cc-free-to-share-text' => 'hë kutchhuak lâkchhàwn, thehdarh leh thawn kual',
+	'wm-license-cc-free-to-remix-header' => 'tihdanglam',
+	'wm-license-cc-free-to-remix-text' => 'hë kutchhuak her danglam',
+	'wm-license-cc-conditions' => 'Hêng dànte zàwm hian:',
+	'wm-license-cc-conditions-attribution-header' => 'insawilanna',
+	'wm-license-cc-conditions-attribution-text' => 'Hë kutchhuak buatsaihtu emaw tlángzarhtuina a phût ang thlapa amah sawilan (i hnathawh emaw nangmah emaw an pawmpuiin an thláwp che ti zawnga ngaih theih hauh lohvin a ni thung tùr a ni)',
+	'wm-license-cc-conditions-share_alike-header' => 'anpuia chhuahchhàwn',
+	'wm-license-cc-conditions-share_alike-text' => 'Hë kutchhuak hi i tidanglam emaw, thlâk danglam emaw, amah ringa kutchhuak dang i buatsaih ve emaw a nih chuan hë kutchhuak tlángzarh phalphung ang chiah hian i kutchhuak chu i tlángzarh chhäwng ve tùr a ni.',
+	'wm-license-cc-pd-mark-text' => 'Hë taksa hi chhuahchhàwnna phalphung leh khuahkhirhna dàn dang rëng rëng lakah a fihlïm nia hriat a ni.',
+);
+
 /** Latvian (Latviešu)
  * @author GreenZeb
  * @author Papuass
