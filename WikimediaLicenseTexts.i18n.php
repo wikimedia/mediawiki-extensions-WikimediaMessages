@@ -596,15 +596,44 @@ $messages['arz'] = array(
 );
 
 /** Assamese (অসমীয়া)
+ * @author Bishnu Saikia
  * @author Chaipau
  */
 $messages['as'] = array(
 	'wikimedialicensetexts-desc' => 'ৱিকিমিডিয়া লাইচেঞ্চ বাৰ্তা',
+	'wm-license-attribution-with-author-text' => "এই ফাইলৰ স্বত্বাধিকাৰী, \$1, যিকোনো ব্যক্তিকে '''যিকোনো উদ্দেশ্যে''' এইটো ব্যৱহাৰ কৰাৰ অনুমতি এই '''চৰ্তসাপেক্ষে''' দিছে যে,  \"স্বত্বাধিকাৰীজনক সম্যকভাবে স্বীকৃতিপ্ৰদান কৰা হ’ব\"। পুনঃবিতৰণ, অনুকৃতি, বাণিজ্যিক প্ৰয়োগ আৰু অনান্য সকলো ধৰনৰ ব্যৱহাৰৰ অনুমতি দিয়া হৈছে।",
+	'wm-license-artwork-artist' => 'শিল্পী',
+	'wm-license-artwork-title' => 'শীৰ্ষক',
+	'wm-license-artwork-medium' => 'মধ্যম',
+	'wm-license-artwork-dimensions' => 'আকাৰ',
+	'wm-license-artwork-current-location' => 'বৰ্তমানৰ স্থিতি',
+	'wm-license-artwork-credit-line' => 'স্বীকৃতি ৰেখা',
+	'wm-license-artwork-references' => 'তথ্যসংগ্ৰহ',
+	'wm-license-artwork-notes' => 'টোকা',
+	'wm-license-artwork-source' => 'উৎস/আলোকচিত্ৰশিল্পী',
+	'wm-license-book-edition' => 'সংস্কৰণ',
+	'wm-license-book-editor' => 'সম্পাদক',
+	'wm-license-book-language' => 'ভাষা',
+	'wm-license-book-page-overview' => 'পৃষ্ঠাৰ সাৰাংশ',
+	'wm-license-book-place-of-publication' => 'প্ৰকাশৰ স্থান',
+	'wm-license-book-printer' => 'প্ৰিণ্টাৰ',
+	'wm-license-book-publisher' => 'প্ৰকাশক',
+	'wm-license-book-series-title' => 'ধাৰাবাহিকৰ শিৰোনাম',
+	'wm-license-book-start-this-book' => 'কিতাপখন আৰম্ভ কৰক',
+	'wm-license-book-subtitle' => 'উপশিৰোনাম',
+	'wm-license-book-title' => 'শীৰ্ষক',
+	'wm-license-book-translator' => 'অনুবাদক',
+	'wm-license-book-volume' => 'আয়তন',
+	'wm-license-book-year-of-publication' => 'প্ৰকাশৰ বৰ্ষ',
+	'wm-license-creator-alternative-names' => 'বিকল্প নাম',
 	'wm-license-creator-description' => 'বিৱৰ্ণ',
 	'wm-license-creator-date-of-birth' => 'জন্ম তাৰিখ',
 	'wm-license-creator-date-of-birth-and-death' => 'জন্ম/মৃত্যু তাৰিখ',
 	'wm-license-creator-location-of-birth' => 'জন্মস্থান',
 	'wm-license-creator-location-of-birth-and-death' => 'জন্ম/মৃত্যু স্থান',
+	'wm-license-creator-work-period' => 'কৰ্মকাল',
+	'wm-license-creator-work-location' => 'কৰ্মস্থল',
+	'wm-license-gfdl-1.2-only-header' => 'কেৱল মাত্ৰ&nbsp;১.২',
 	'wm-license-information-description' => 'বিৱৰণ',
 	'wm-license-information-description-missing-request' => 'অনুগ্ৰহ কৰি এই ফাইলৰ এটা অৰ্থপূৰ্ণ বিৱৰণ দিয়ক ।',
 	'wm-license-information-source' => 'উৎস',
@@ -615,6 +644,7 @@ $messages['as'] = array(
 	'wm-license-information-permission' => 'অনুমতি',
 	'wm-license-information-permission-see-below' => 'তলত চাওক',
 	'wm-license-information-other-versions' => 'অন্যান্য সংস্কৰণ',
+	'wm-license-original-upload-log' => 'মূল আপলোড ল’গ',
 	'wm-license-own-work' => 'নিজা কাৰ্য্য',
 );
 
@@ -5051,7 +5081,7 @@ $messages['lb'] = array(
 	'wm-license-information-author' => 'Auteur',
 	'wm-license-information-author-missing' => "D'Informatioun iwwert den '''Auteur''' vun dësem Fichier feelt.",
 	'wm-license-information-permission' => 'Erlaabnes',
-	'wm-license-information-permission-reusing-text' => 'Dëse Fichier nach eng kéier benotzen',
+	'wm-license-information-permission-reusing-text' => 'Dëse Fichier nach eng Kéier benotzen',
 	'wm-license-information-permission-see-below' => 'Kuckt ënnendrënner.',
 	'wm-license-information-other-versions' => 'Aner Versiounen',
 	'wm-license-licensing-update-text' => 'Dës Lizenz-Markéierung gouf bäi dëse Fichier derbäigesat als Deel vun der GFDL [[{{int:wm-license-licensing-update-wiki-link}}|Lizenz-Aktualisatioun]].',
