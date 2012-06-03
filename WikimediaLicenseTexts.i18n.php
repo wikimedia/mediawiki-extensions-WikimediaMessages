@@ -602,14 +602,17 @@ $messages['arz'] = array(
 $messages['as'] = array(
 	'wikimedialicensetexts-desc' => 'ৱিকিমিডিয়া লাইচেঞ্চ বাৰ্তা',
 	'wm-license-attribution-with-author-text' => "এই ফাইলৰ স্বত্বাধিকাৰী, \$1, যিকোনো ব্যক্তিকে '''যিকোনো উদ্দেশ্যে''' এইটো ব্যৱহাৰ কৰাৰ অনুমতি এই '''চৰ্তসাপেক্ষে''' দিছে যে,  \"স্বত্বাধিকাৰীজনক সম্যকভাবে স্বীকৃতিপ্ৰদান কৰা হ’ব\"। পুনঃবিতৰণ, অনুকৃতি, বাণিজ্যিক প্ৰয়োগ আৰু অনান্য সকলো ধৰনৰ ব্যৱহাৰৰ অনুমতি দিয়া হৈছে।",
+	'wm-license-attribution-without-author-text' => "এই ফাইলৰ স্বত্বাধিকাৰী, \$1, যিকোনো ব্যক্তিকে '''যিকোনো উদ্দেশ্যে''' এইটো ব্যৱহাৰ কৰাৰ অনুমতি এই '''চৰ্তসাপেক্ষে''' দিছে যে,  \"স্বত্বাধিকাৰীজনক সম্যকভাবে স্বীকৃতিপ্ৰদান কৰা হ’ব\"। পুনঃবিতৰণ, অনুকৃতি, বাণিজ্যিক প্ৰয়োগ আৰু অনান্য সকলো ধৰনৰ ব্যৱহাৰৰ অনুমতি দিয়া হৈছে।",
 	'wm-license-artwork-artist' => 'শিল্পী',
 	'wm-license-artwork-title' => 'শীৰ্ষক',
 	'wm-license-artwork-medium' => 'মধ্যম',
 	'wm-license-artwork-dimensions' => 'আকাৰ',
 	'wm-license-artwork-current-location' => 'বৰ্তমানৰ স্থিতি',
+	'wm-license-artwork-object-history' => 'ফাইলৰ ইতিহাস',
 	'wm-license-artwork-credit-line' => 'স্বীকৃতি ৰেখা',
 	'wm-license-artwork-references' => 'তথ্যসংগ্ৰহ',
 	'wm-license-artwork-notes' => 'টোকা',
+	'wm-license-artwork-id' => 'সংযোজন সংখ্যা',
 	'wm-license-artwork-source' => 'উৎস/আলোকচিত্ৰশিল্পী',
 	'wm-license-book-edition' => 'সংস্কৰণ',
 	'wm-license-book-editor' => 'সম্পাদক',
@@ -625,6 +628,7 @@ $messages['as'] = array(
 	'wm-license-book-translator' => 'অনুবাদক',
 	'wm-license-book-volume' => 'আয়তন',
 	'wm-license-book-year-of-publication' => 'প্ৰকাশৰ বৰ্ষ',
+	'wm-license-cecill-text' => 'একই কামটো এটা [[{{int:wm-license-free-software-wiki-link}}|মুক্ত ছফ্টৱেৰ]]; আপুনি [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] অনুজ্ঞাপত্ৰৰ আওতাত এইটোক পুনবিতৰণ বা পৰিবৰ্তন কৰিব পাৰে। CeCILL অনুজ্ঞাপত্ৰৰ চৰ্তসমূহ [{{int:wm-license-cecill-full-link}} www.cecill.info] ঠিকনাত পাব।',
 	'wm-license-creator-alternative-names' => 'বিকল্প নাম',
 	'wm-license-creator-description' => 'বিৱৰ্ণ',
 	'wm-license-creator-date-of-birth' => 'জন্ম তাৰিখ',
@@ -635,13 +639,16 @@ $messages['as'] = array(
 	'wm-license-creator-work-location' => 'কৰ্মস্থল',
 	'wm-license-gfdl-1.2-only-header' => 'কেৱল মাত্ৰ&nbsp;১.২',
 	'wm-license-information-description' => 'বিৱৰণ',
+	'wm-license-information-description-missing' => "এই ফাইলৰ কোনো '''বিৱৰণ''' নাই, আৰু সম্ভৱত অন্যান্য তথ্যসমূহৰো অভাৱ আছে।",
 	'wm-license-information-description-missing-request' => 'অনুগ্ৰহ কৰি এই ফাইলৰ এটা অৰ্থপূৰ্ণ বিৱৰণ দিয়ক ।',
 	'wm-license-information-source' => 'উৎস',
 	'wm-license-information-source-missing' => "এই ফাইলৰ '''উৎসৰ''' বিষয়ে কোনো তথ্য নাই ।",
+	'wm-license-information-source-missing-request' => 'অনুগ্ৰহ কৰি ফাইলৰ বিৱৰণ সম্পাদনা কৰক আৰু ইয়াৰ উৎস প্ৰদান কৰক।',
 	'wm-license-information-date' => 'তাৰিখ',
 	'wm-license-information-author' => 'লেখক',
 	'wm-license-information-author-missing' => "এই ফাইলৰ '''লেখকৰ''' বিষয়ে কোনো তথ্য নাই ।",
 	'wm-license-information-permission' => 'অনুমতি',
+	'wm-license-information-permission-reusing-text' => 'এই ফাইলৰ পুনঃব্যৱহাৰ',
 	'wm-license-information-permission-see-below' => 'তলত চাওক',
 	'wm-license-information-other-versions' => 'অন্যান্য সংস্কৰণ',
 	'wm-license-original-upload-log' => 'মূল আপলোড ল’গ',
@@ -4735,6 +4742,7 @@ $messages['kn'] = array(
  * @author Klutzy
  * @author Kwj2772
  * @author Multichill
+ * @author 아라
  */
 $messages['ko'] = array(
 	'wikimedialicensetexts-desc' => '위키미디어용 라이선스 메시지',
@@ -4779,7 +4787,7 @@ CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.in
 	'wm-license-creator-work-period' => '작업 시기',
 	'wm-license-creator-work-location' => '작업 공간',
 	'wm-license-creator-linkback' => '작가 정보 틀로 돌아가기',
-	'wm-license-fal-text' => "카피레프트: 이 예술 작품은 '''[[{{int:wm-license-fal-wiki-link}}|프리 아트 라이센스]]'''의 조건 하에 자유롭게 사용, 재배포, 수정할 수 있습니다.
+	'wm-license-fal-text' => "카피레프트: 이 예술 작품은 '''[[{{int:wm-license-fal-wiki-link}}|프리 아트 라이선스]]'''의 조건 하에 자유롭게 사용, 재배포, 수정할 수 있습니다.
 라이선스 규약은 [{{int:wm-license-fal-full-link}} Copyleft Attitude 사이트]에서 볼 수 있습니다.",
 	'wm-license-fal-wiki-link' => 'w:ko:프리 아트 라이선스',
 	'wm-license-fsf-wiki-link' => 'w:ko:자유 소프트웨어 재단',
