@@ -653,6 +653,7 @@ $messages['as'] = array(
 	'wm-license-information-other-versions' => 'অন্যান্য সংস্কৰণ',
 	'wm-license-original-upload-log' => 'মূল আপলোড ল’গ',
 	'wm-license-own-work' => 'নিজা কাৰ্য্য',
+	'wm-license-self-multiple-licenses-select' => 'আপুনি আপোনাৰ পছন্দ অনুসৰি অনুজ্ঞাপত্ৰৰ নিৰ্বাচন কৰিব পাৰে।',
 );
 
 /** Asturian (Asturianu)
@@ -2014,6 +2015,7 @@ $messages['diq'] = array(
 	'wm-license-artwork-title' => 'Sername',
 	'wm-license-artwork-medium' => 'Miyanên',
 	'wm-license-artwork-dimensions' => 'Ebati',
+	'wm-license-artwork-current-location' => 'Caye cı',
 	'wm-license-artwork-references' => 'Çımey',
 	'wm-license-artwork-notes' => 'Noti',
 	'wm-license-artwork-source' => 'Çıme/Fotrafkar',
@@ -2023,18 +2025,23 @@ $messages['diq'] = array(
 	'wm-license-book-printer' => 'Nusnewan',
 	'wm-license-book-publisher' => 'Vılakar',
 	'wm-license-book-series-title' => 'Sernuştey rati',
+	'wm-license-book-start-this-book' => 'Nê kıtabi rê pêke',
 	'wm-license-book-subtitle' => 'Sernuştey bıni',
 	'wm-license-book-title' => 'Sername',
 	'wm-license-book-translator' => 'Açarner',
 	'wm-license-book-volume' => 'Vanga',
 	'wm-license-cecill-text' => 'Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedeva ya]]; ti eşkena ena dosya vila bike ya zi vurne [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Sartanê lisansê CeCILL itiya de este [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-creator-description' => 'Şınasiyen',
 	'wm-license-creator-date-of-birth' => 'Tarixê biyayışi',
 	'wm-license-creator-date-of-birth-and-death' => 'Tarixê biyayışi/merdışi',
 	'wm-license-creator-location-of-birth' => 'Cayê biyayışi',
 	'wm-license-creator-location-of-birth-and-death' => 'Cayê biyayışi/merdışi',
+	'wm-license-creator-work-period' => 'Demê gurweynayışi',
+	'wm-license-creator-work-location' => 'Heruna gurweynayışi',
 	'wm-license-fal-text' => "Copyleft: Ena dosya bedeva ya; ti eşkena ena dosya vila bike ya zi vurne bine '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ti eskena sartanê lisansê itiya de [{{int:wm-license-fal-full-link}} Copyleft Attitude site] u siteyane binan de bivine.",
 	'wm-license-gfdl-1.2-and-later' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2 ya zi versiyonane ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
 	'wm-license-gfdl-1.2-only' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2  ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
+	'wm-license-gfdl-1.2-only-header' => 'On ke &nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.3 ya zi versiyonane ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]'' est ê.",
 	'wm-license-gfdl-1.3-only' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.3  ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]'' est ê.",
 	'wm-license-gpl-text' => "Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedava ya]]; ti eşkena ena dosya vila bike, ya zi vurne bine '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' ke cap bie pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ya versiyonê lisansê 2, ya zi versiyonê evelan. Ma umid keni insallah ena vila kerdis herkes re feyda dano, '''ne yew garanti'''; belki hem zi pe yew '''ticari''' ya zi '''ser yew amacê sexsi'''. [{{int:wm-license-gpl-2-full-link}} Versiyonê 2] bivini u [{{int:wm-license-gpl-3-full-link}} versiyonşê 3 ê GNU General Public License] de zaf detayan est ê.",
@@ -6244,7 +6251,7 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 	'wm-license-self-multiple-licenses-select' => 'U mag zelf één van de licenties kiezen.',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
@@ -6264,7 +6271,7 @@ $messages['nn'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Det tillates at dette dokumentet kopieres, distribueres og/eller modifiseres under retningslinjene som beskrevet i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU fri dokumentasjonslisens]]''', versjon 1.2 eller hvilken som helst senere utgave utgitt av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; med alle seksjoner, uten noen forsidetekster og baksidetekster.",
 	'wm-license-gfdl-wiki-link' => 'w:nn:GNU Free Documentation License',
 	'wm-license-gpl-wiki-link' => 'w:nn:GNU General Public License',
-	'wm-license-information-table-summary' => 'Ein standardisert tabell som gjev komplett informasjon om fila, inkludert skildringa av kva ho syner og koss ho vart laga, opphavsrettsstoda og kjelda.',
+	'wm-license-information-table-summary' => 'Ein standardisert tabell som gjev komplett informasjon om fila, inkludert skildringa av kva ho syner og korleis ho vart laga, opphavsrettsstoda og kjelda.',
 	'wm-license-information-description' => 'Skildring',
 	'wm-license-information-description-missing' => "Denne fila har ikkje noka '''skildring''', og manglar kan henda annan informasjon i tillegg.",
 	'wm-license-information-description-missing-request' => 'Gje fila ei meiningsfull skildring.',

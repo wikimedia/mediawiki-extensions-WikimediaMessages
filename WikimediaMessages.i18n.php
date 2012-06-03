@@ -1031,13 +1031,17 @@ $messages['arz'] = array(
  * @author Rajuonline
  */
 $messages['as'] = array(
+	'wikimediamessages-desc' => 'ৱিকিমিডিয়া নিৰ্ধাৰিত বাৰ্তা',
 	'sitesupport' => 'দান-বৰঙনি',
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
 	'nstab-creator' => 'সৃষ্টিকৰ্তা',
 	'nstab-institution' => 'প্ৰতিষ্ঠান',
+	'group-abusefilter' => 'অপব্যৱহাৰ ফিল্টাৰ সম্পাদক',
 	'group-accountcreator' => "একাউণ্ট সৃষ্টি কৰা হ'ল",
+	'group-arbcom' => 'আৰ্বিট্ৰেছন কমিটি সদস্য',
 	'group-autopatrolled' => 'স্বয়ংক্ৰিয় পৰীক্ষক',
 	'group-autoreviewer' => 'স্বয়ংক্ৰিয় পৰ্যালোচক',
+	'group-bigexport' => 'বহু-পৃষ্ঠা-ৰপ্তানিকৰ্তাসকল',
 	'group-confirmed' => 'স্বয়ংনিশ্চিত সদস্যসকল',
 	'group-editprotected' => 'সুৰক্ষিত পৃষ্ঠা সম্পাদক',
 	'group-Ex_Administrator' => 'প্ৰাক্তন প্ৰশাসক',
@@ -6381,7 +6385,7 @@ Videz <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado</a> 
 	'wikimedia-copyrightwarning' => "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [//creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License 3.0''] e la [//www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [//wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali.",
 );
 
-/** Icelandic (Íslenska)
+/** Icelandic (íslenska)
  * @author Nemo bis
  * @author S.Örvarr.S
  * @author Snævar
