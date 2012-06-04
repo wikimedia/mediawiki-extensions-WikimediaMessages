@@ -1036,10 +1036,16 @@ $messages['arz'] = array(
 );
 
 /** Assamese (অসমীয়া)
+ * @author Bishnu Saikia
  * @author Chaipau
  */
 $messages['as'] = array(
-	'wm-license-cc-free' => 'আপুনি এই স্বাধীনভাবে কৰিব পাৰে:',
+	'wm-license-cc-attribution' => 'স্বীকৃতিপ্ৰদান',
+	'wm-license-cc-by-1.0-text' => 'এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] অনুজ্ঞাপত্ৰৰ আওতাত আছে।',
+	'wm-license-cc-by-1.0-fi-text' => 'এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] অনুজ্ঞাপত্ৰৰ অধীনত আছে।',
+	'wm-license-cc-free' => 'আপুনি স্বাধীনভাবে কৰিব পাৰে:',
+	'wm-license-cc-free-to-share-header' => 'বিতৰণ কৰিব পাৰে',
+	'wm-license-cc-conditions-attribution-header' => 'স্বীকৃতিপ্ৰদান',
 );
 
 /** Azerbaijani (Azərbaycanca)

@@ -653,6 +653,10 @@ $messages['as'] = array(
 	'wm-license-information-other-versions' => 'অন্যান্য সংস্কৰণ',
 	'wm-license-original-upload-log' => 'মূল আপলোড ল’গ',
 	'wm-license-own-work' => 'নিজা কাৰ্য্য',
+	'wm-license-self-one-license' => 'ম‍ই, এই কামৰ স্বত্বাধিকাৰী, ইয়াৰ দ্বাৰা ম‍ই এই কামক তলত বৰ্ননা দিয়া অনুজ্ঞাপত্ৰৰ অধীনত প্ৰকাশ কৰিলো:',
+	'wm-license-self-one-license-with-author' => '$1, এই কামৰ স্বত্বাধিকাৰী, ইয়াৰ দ্বাৰা এই কামক তলত বৰ্ননা দিয়া অনুজ্ঞাপত্ৰৰ অধীনত প্ৰকাশ কৰা হ’ল',
+	'wm-license-self-multiple-licenses' => 'ম‍ই, এই কামৰ স্বত্বাধিকাৰী, ইয়াৰ দ্বাৰা ম‍ই এই কামক তলত বৰ্ননা দিয়া অনুজ্ঞাপত্ৰৰ অধীনত প্ৰকাশ কৰিলো:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, এই কামৰ স্বত্বাধিকাৰী, ইয়াৰ দ্বাৰা এই কামক তলত বৰ্ননা দিয়া অনুজ্ঞাপত্ৰৰ অধীনত প্ৰকাশ কৰা হ’ল',
 	'wm-license-self-multiple-licenses-select' => 'আপুনি আপোনাৰ পছন্দ অনুসৰি অনুজ্ঞাপত্ৰৰ নিৰ্বাচন কৰিব পাৰে।',
 );
 
