@@ -6705,8 +6705,8 @@ $messages['ja'] = array(
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンを押すと、あなたは[//wikimediafoundation.org/wiki/利用規約 利用規約]に同意し、自身の投稿を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分なものであると同意したことになります。',
-	'wikimedia-editpage-tos-summary' => 'もしあなたが自身の文章を勝手に編集や再配布してほしくないのなら、ここに投稿しないでください。
-文章があなた自身で書いたものではない場合、その文章はこの[//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]と整合する条件のもとで利用可能である必要があります。また、その場合、あなたは全ての関係するライセンス要件に従うことに同意しなければなりません。',
+	'wikimedia-editpage-tos-summary' => 'あなたが自身の文章を勝手に編集や再配布してほしくない場合は、ここに投稿しないでください。
+あなた自身が書いた文章ではない場合、その文章はこの[//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]と整合する条件のもとで利用できる必要があります。また、その場合、あなたはすべての関係するライセンス要件に従うことに同意しなければなりません。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 );
 
