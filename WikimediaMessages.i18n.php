@@ -175,6 +175,8 @@ If you did not write this yourself, it must be available under terms consistent 
 
 	# Custom message for enwiki to stop from deleting the mainpage
 	'cant-delete-main-page' => 'You cannot delete or move the main page.',
+
+	'wikimedia-translationnotifications-signup-legal' => 'You agree that by providing the Wikimedia Foundation with this information we may contact you regarding translations or other topics related to the Wikimedia movement we think may be of interest to you. You agree your data may be stored in the United States of America and is subject to our [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy].',
 );
 
 /** Message documentation (Message documentation)
@@ -356,6 +358,7 @@ This message is displayed on the site footer and is for the new licensing policy
 
 {{Identical/Wikimedia-licensing}}',
 	'wikimedia-editpage-tos-summary' => '{{Identical/Wikimedia-licensing}}',
+	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 );
 
 /** Säggssch (Säggssch)
