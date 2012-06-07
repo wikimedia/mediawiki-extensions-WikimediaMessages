@@ -1843,6 +1843,7 @@ $messages['bm'] = array(
 /** Bengali (বাংলা)
  * @author Abdullah Harun Jewel
  * @author Bellayet
+ * @author Nasir8891
  * @author Prometheus.pyrphoros
  * @author Wikitanvir
  * @author Zaheen
@@ -1855,14 +1856,18 @@ $messages['bn'] = array(
 	'specialpages-group-contribution' => 'অবদান/তহবিল সংগ্রাহক',
 	'nstab-creator' => 'নির্মাতা',
 	'nstab-institution' => 'প্রতিষ্ঠান',
+	'nstab-sequence' => 'ক্রম',
 	'group-abusefilter' => 'অপব্যবহার ফিল্টার সম্পাদক',
 	'group-accountcreator' => 'অ্যাকাউন্ট স্রষ্টা',
 	'group-arbcom' => 'আর্বিট্রেশন কমিটি সদস্য',
 	'group-autopatrolled' => 'স্বয়ংক্রিয় পরীক্ষক',
 	'group-autoreviewer' => 'স্বয়ংক্রিয় পর্যালোচক',
 	'group-bigexport' => 'বহু-পাতা-রপ্তানিকারক',
+	'group-botadmin' => 'প্রশাসকের ক্ষমতা সম্পন্ন বট',
 	'group-confirmed' => 'নিশ্চিতকৃত ব্যবহারকারী',
 	'group-editprotected' => 'সুরক্ষিত পাতা সম্পাদক',
+	'group-Ex_Administrator' => 'পূর্বের প্রশাসকগণ',
+	'group-Ex_Bureaucrat' => 'পূর্বের বুরোক্র্যটগণ',
 	'group-eliminator' => 'এলিমিনাটর',
 	'group-filemover' => 'ফাইল অপসারক',
 	'group-flood' => 'বট ব্যবহারকারী',
@@ -1877,37 +1882,43 @@ $messages['bn'] = array(
 	'group-rollbacker' => 'রোলব্যাকার',
 	'group-transwiki' => 'ট্রান্সউইকি আমদানিকারক',
 	'group-trusted' => 'আস্থাভাজন ব্যবহারকারী',
-	'group-abusefilter-member' => 'অপব্যবহার ফিল্টার সম্পাদক',
-	'group-accountcreator-member' => 'অ্যাকাউন্ট স্রষ্টা',
-	'group-arbcom-member' => 'আর্বিট্রেশন কমিটি সদস্য',
-	'group-autopatrolled-member' => 'স্বয়ংক্রিয় পরীক্ষক',
-	'group-autoreviewer-member' => 'স্বয়ংক্রিয়-পর্যালোচক',
-	'group-bigexport-member' => 'বহু-পাতা-রপ্তানিকারক',
-	'group-confirmed-member' => 'নিশ্চিতকৃত ব্যবহারকারী',
-	'group-editprotected-member' => 'সুরক্ষিত পাতা সম্পাদক',
-	'group-eliminator-member' => 'এলিমিনাটর',
-	'group-filemover-member' => 'ফাইল অপসারক',
-	'group-flood-member' => 'বট ব্যবহারকারী',
-	'group-founder-member' => 'প্রতিষ্ঠাতা',
-	'group-Image-reviewer-member' => 'চিত্র পর্যালোচক',
-	'group-import-member' => 'ইম্পোর্টার',
-	'group-interface_editor-member' => 'ইন্টারফেস সম্পাদক',
-	'group-ipblock-exempt-member' => 'আইপি নিষেধাজ্ঞা রহিত',
-	'group-OTRS-member-member' => 'OTRS সদস্য',
-	'group-patroller-member' => 'পর্যবেক্ষক',
-	'group-researcher-member' => 'গবেষক',
-	'group-rollbacker-member' => 'রোলব্যাকার',
-	'group-transwiki-member' => 'ট্রান্সউইকি ইম্পোর্টার',
-	'group-trusted-member' => 'বিশ্বস্ত ব্যবহারকারী',
+	'group-abusefilter-member' => '{{GENDER:$1|অপব্যবহার ফিল্টার সম্পাদক}}',
+	'group-accountcreator-member' => '{{GENDER:$1|অ্যাকাউন্ট স্রষ্টা}}',
+	'group-arbcom-member' => '{{GENDER:$1|আর্বিট্রেশন কমিটি সদস্য}}',
+	'group-autopatrolled-member' => '{{GENDER:$1|স্বয়ংক্রিয় পরীক্ষক}}',
+	'group-autoreviewer-member' => '{{GENDER:$1|স্বয়ংক্রিয়-পর্যালোচক}}',
+	'group-bigexport-member' => '{{GENDER:$1|বহু-পাতা-রপ্তানিকারক}}',
+	'group-botadmin-member' => '{{GENDER:$1|প্রশাসকের ক্ষমতা সম্পন্ন বট}}',
+	'group-confirmed-member' => '{{GENDER:$1|নিশ্চিতকৃত ব্যবহারকারী}}',
+	'group-editprotected-member' => '{{GENDER:$1|সুরক্ষিত পাতা সম্পাদক}}',
+	'group-eliminator-member' => '{{GENDER:$1|এলিমিনাটর}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|পূর্বের প্রশাসকগণ}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|পূর্বের বুরোক্র্যটগণ}}',
+	'group-filemover-member' => '{{GENDER:$1|ফাইল মুভার}}',
+	'group-flood-member' => '{{GENDER:$1|ব্যবহারকারী বট}}',
+	'group-founder-member' => '{{GENDER:$1|প্রতিষ্ঠাতা}}',
+	'group-Image-reviewer-member' => '{{GENDER:$1|চিত্র পর্যালোচক}}',
+	'group-import-member' => '{{GENDER:$1|ইম্পোর্টার}}',
+	'group-interface_editor-member' => '{{GENDER:$1|ইন্টারফেস সম্পাদক}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|আইপি নিষেধাজ্ঞা রহিত}}',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS সদস্য}}',
+	'group-patroller-member' => '{{GENDER:$1|পর্যবেক্ষক}}',
+	'group-researcher-member' => '{{GENDER:$1|গবেষক}}',
+	'group-rollbacker-member' => '{{GENDER:$1|রোলব্যাকার}}',
+	'group-transwiki-member' => '{{GENDER:$1|ট্রান্সউইকি ইম্পোর্টার}}',
+	'group-trusted-member' => '{{GENDER:$1|বিশ্বস্ত ব্যবহারকারী}}',
 	'grouppage-abusefilter' => '{{ns:project}}:অপব্যবহার ফিল্টার সম্পাদক',
 	'grouppage-accountcreator' => '{{ns:project}}:অ্যাকাউন্ট সৃষ্টিকারী',
 	'grouppage-arbcom' => '{{ns:project}}:আর্বিট্রেশন কমিটি সদস্য',
 	'grouppage-autopatrolled' => '{{ns:project}}:স্বয়ংক্রিয় পরীক্ষণ',
 	'grouppage-autoreviewer' => '{{ns:project}}:স্বয়ংক্রিয়-পর্যালোচক',
 	'grouppage-bigexport' => '{{ns:project}}:বহু-পাতা-রপ্তানিকারক',
+	'grouppage-botadmin' => '{{ns:project}}:প্রশাসকের ক্ষমতা সম্পন্ন বট',
 	'grouppage-confirmed' => '{{ns:project}}:নিশ্চিতকৃত ব্যবহারকারীরা',
 	'grouppage-editprotected' => '{{ns:project}}:সুরক্ষিত পাতা সম্পাদক',
 	'grouppage-eliminator' => '{{ns:project}}:এলিমিনাটর',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:পূর্বের প্রশাসকগণ',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:পূর্বের বুরোক্র্যটগণ',
 	'grouppage-filemover' => '{{ns:project}}:ফাইল অপসারক',
 	'grouppage-flood' => '{{ns:project}}:বট ব্যবহারকারী',
 	'grouppage-founder' => '{{ns:project}}:প্রতিষ্ঠাতাগণ',
@@ -1928,26 +1939,30 @@ $messages['bn'] = array(
 	'group-Global_sysops' => 'গ্লোবাল প্রশাসক',
 	'group-Ombudsmen' => 'ন্যায়পাল',
 	'group-Staff' => 'কর্মচারি',
-	'group-steward-member' => 'স্টুয়ার্ড',
-	'group-sysadmin-member' => 'সিস্টেম প্রশাসক',
-	'group-editinterface-member' => 'ইন্টারফেস সম্পাদক',
-	'group-Global_bot-member' => 'গ্লোবাল বট',
-	'group-Global_rollback-member' => 'গ্লোবাল রোলব্যাকার',
-	'group-Global_sysops-member' => 'গ্লোবাল প্রশাসক',
-	'group-Ombudsmen-member' => 'ন্যায়পাল সদস্য',
+	'group-steward-member' => '{{GENDER:$1|স্টুয়ার্ড}}',
+	'group-sysadmin-member' => '{{GENDER:$1|সিস্টেম প্রশাসক}}',
+	'group-editinterface-member' => '{{GENDER:$1|ইন্টারফেস সম্পাদক}}',
+	'group-Global_bot-member' => '{{GENDER:$1|গ্লোবাল বট}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|গ্লোবাল রোলব্যাকার}}',
+	'group-Global_sysops-member' => '{{GENDER:$1|গ্লোবাল প্রশাসক}}',
+	'group-Ombudsmen-member' => '{{GENDER:$1|ন্যায়পাল সদস্য}}',
 	'group-Staff-member' => 'কর্মচারি',
 	'group-translationadmin' => 'অনুবাদ প্রশাসক',
+	'group-translationadmin-member' => '{{GENDER:$1|অনুবাদ প্রশাসক}}',
+	'grouppage-translationadmin' => '{{ns:project}}:অনুবাদ প্রশাসক',
 	'group-coder' => 'কোডার',
-	'group-coder-member' => 'কোডার',
+	'group-coder-member' => '{{GENDER:$1|কোডার}}',
 	'group-inactive' => 'নিস্ক্রিয় ব্যবহারকারী',
-	'group-inactive-member' => 'নিস্ক্রিয় ব্যবহারকারী',
+	'group-inactive-member' => '{{GENDER:$1|নিস্ক্রিয় ব্যবহারকারী}}',
 	'grouppage-inactive' => '{{ns:project}}:নিস্ক্রিয় ব্যবহারকারী',
 	'wikimedia-copyright' => 'লেখাগুলো <a href="//creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
 এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
  <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
-	'wikimedia-copyrightwarning' => 'সংরক্ষণের মাধ্যমে, আপনি এই বিষয়ে সম্মত হচ্ছেন যে, আপনার অবদান, ক্রিয়েটিভ কমন্স [//creativecommons.org/licenses/by-sa/3.0/ অ্যাট্রিবিউশন/শেয়ার-অ্যালাইক লাইসেন্স ৩.০] এবং [//www.gnu.org/copyleft/fdl.html গনু ফ্রি ডকুমেন্টেশন লাইসেন্স (জিএফডিএল)] -এর আওতাভুক্ত। এছাড়া আরও সম্মত হচ্ছেন যে, এটি অন্য কোথাও যেভাবেই ব্যবহৃত হোক না কেন, আপনার অবদানের স্বীকৃতি দিতে হবে, তা পাতার হাইপারলিঙ্ক বা ইউআরএল উল্লেখ করে হতে পারে। [//wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীতে] বিস্তারিত দেখুন।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [//wikimediafoundation.org/wiki/Terms_of_use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] এবং [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
+আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
 	'wikimedia-editpage-tos-summary' => 'অন্য কোন ব্যক্তি আপনার লেখা সম্পাদনা করুক বা যথেচ্ছা বিতরণ করুক, যদি তা না চান তাহলে আপনার লেখা এখানে দাখিল করবেন না।
 এই লেখা যদি আপনার রচিত না হয়, তা অবশ্যই এই [//wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সঙ্গে সঙ্গতিপূর্ণ কোনো শর্তাবলী অনুযায়ী ব্যবহারযোগ্য হতে হবে, এবং আপনি এতদ্বারা সম্পর্কিত যেকোন লাইসেন্সের শর্তাবলী পালনে সম্মতি জানাচ্ছেন।',
+	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
 );
 
 /** Tibetan (བོད་ཡིག)
@@ -2958,6 +2973,7 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 	'wikimedia-editpage-tos-summary' => 'Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.
 Falls du den Text nicht selbst verfasst hast, muss er unter den [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
+	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
@@ -2972,6 +2988,7 @@ $messages['de-formal'] = array(
 Sie stimmen zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der Creative-Commons-Lizenz, ausreichend ist.',
 	'wikimedia-editpage-tos-summary' => 'Wenn Sie nicht möchten, dass Ihr Text weiterbearbeitet und weiterverbreitet wird, dann speichern Sie ihn nicht.
 Falls Sie den Text nicht selber verfasst haben, muss er unter den [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und Sie stimmen zu, notwendigen Lizenzanforderungen zu folgen.',
+	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmen Sie zu, dass die Wikimedia Foundation Sie bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für Sie von Interesse sind. Sie stimmen zudem zu, dass Ihre Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 );
 
 /** Zazaki (Zazaki)
@@ -3507,7 +3524,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
 	'cant-delete-main-page' => 'Vi ne povas forigi aŭ movi la ĉefpaĝo.',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author AlimanRuna
  * @author Armando-Martin
  * @author Ascánder
@@ -3641,6 +3658,7 @@ Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la p
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
 	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí. Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [//wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
 	'cant-delete-main-page' => 'No se puede borrar ni mover la página principal.',
+	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 );
 
 /** Estonian (Eesti)
@@ -4171,7 +4189,7 @@ $messages['fo'] = array(
 	'grouppage-steward' => '{{ns:project}}:Ternur',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author DavidL
  * @author Fulup
@@ -4189,6 +4207,7 @@ $messages['fo'] = array(
  * @author Quentinv57
  * @author Seb35
  * @author Sherbrooke
+ * @author Srtxg
  * @author Urhixidur
  * @author Verdy p
  * @author Yekrats
@@ -4261,7 +4280,7 @@ $messages['fr'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrouilleurs automatiques',
 	'grouppage-autoreviewer' => '{{ns:project}}:Relecteurs automatiques',
 	'grouppage-bigexport' => '{{ns:project}}:Grands exportateurs',
-	'grouppage-botadmin' => '{{ns:project}}: Robots avec droits d’administrateur',
+	'grouppage-botadmin' => '{{ns:project}}:Robots avec droits d’administrateur',
 	'grouppage-confirmed' => '{{ns:project}}:Utilisateurs confirmés',
 	'grouppage-editprotected' => '{{ns:project}}:Éditeurs de pages protégées',
 	'grouppage-eliminator' => '{{ns:project}}:Éliminateur',
@@ -6694,7 +6713,7 @@ $messages['ja'] = array(
 	'group-Global_rollback-member' => '{{GENDER:$1|グローバル巻き戻し者}}',
 	'group-Global_sysops-member' => '{{GENDER:$1|グローバル管理者}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|オンブズマン}}',
-	'group-Staff-member' => 'スタッフ',
+	'group-Staff-member' => '{{GENDER:$1|スタッフ}}',
 	'grouppage-steward' => 'm:Stewards/ja',
 	'group-translationadmin' => '翻訳管理者',
 	'group-translationadmin-member' => '{{GENDER:$1|翻訳管理者}}',
@@ -7723,6 +7742,7 @@ Doe geis demit akkoord door hergebroekers minimaal geneump te waere via \'ne hyp
 	'wikimedia-editpage-tos-summary' => 'Es doe neet wils dat dien biedraag bewirk of gedistribueerd wird, moos doe ze neet opsjlaon.
 Es dien bewirking neet door dichzelf gesjreve is, moot de biedraag besjikbaar zien ónger condities die consistent zien mit de [//wikimediafoundation.org/wiki/Terms_of_Use Algemein Veurwaarde] en geis doe akkoord mit alle relevante licentieveurwaarde.',
 	'cant-delete-main-page' => "Doe kans 't veurblaad neet wösje of verplaatsje.",
+	'wikimedia-translationnotifications-signup-legal' => "Door dees gegaeves besjikbaar te stèlle ane Wikimedia Foundation, geufs se ós toestömming óm kóntak mit dich op te naeme euver vertalinge en anger óngerwirpe gerelateerdj ane Wikimediabewaeging wovan weer dinke det ze dien interesse höbbe. Doe stöms in mit 't opslaon van dien gegaeves inne VS en det dien gegaeves ónger ós [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] valle.",
 );
 
 /** Ligure (Ligure)
@@ -9182,6 +9202,7 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 	'wikimedia-editpage-tos-summary' => 'Als u niet wilt dat uw bijdrage bewerkt of gedistribueerd wordt, sla deze dan niet op.
 Als uw bewerking niet door uzelf is geschreven, dan moet uw toevoeging beschikbaar zijn onder condities die consistent zijn met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u akkoord met alle relevante licentievoorwaarden.',
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
+	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 );
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
@@ -13309,11 +13330,12 @@ $messages['ug-latn'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author A1
  * @author AS
  * @author Ahonc
  * @author Alex Khimich
+ * @author Base
  * @author Dim Grits
  * @author Ickis
  * @author NickK
@@ -13812,7 +13834,7 @@ Täpsämbähe kaeq taa kotsilõ [//wikimediafoundation.org/wiki/Terms_of_Use Wik
 Ku sa kiroda-as taad teksti esiq, sis piät taa tarvitaminõ vastama [//wikimediafoundation.org/wiki/Terms_of_Use pruukmistingimüisile] ja sul om kohustus täütäq sääl näüdätüid litsendsinõudmiisi.',
 );
 
-/** Walloon (Walon)
+/** Walloon (walon)
  * @author Lucyin
  * @author Srtxg
  */
@@ -13820,20 +13842,29 @@ $messages['wa'] = array(
 	'wikimediamessages-desc' => 'Messaedjes rén k\' pol waibe "Wikimedia"',
 	'sitesupport' => 'Ecwårlaedje',
 	'tooltip-n-sitesupport' => 'Sotnez nos',
-	'group-abusefilter' => "Candjeus d' passetes",
+	'group-abusefilter' => 'Ricandjeus des passetes',
 	'group-accountcreator' => "Ahiveus d' contes",
+	'group-autopatrolled' => 'Robots naxheus',
 	'group-autoreviewer' => 'Coridjreces otomatikes',
 	'group-bigexport' => "Grands epoirteus d' pådjes",
+	'group-botadmin' => "Robots avou des droets d' manaedjeu",
+	'group-confirmed' => 'Uzeus confirmés',
+	'group-editprotected' => "Candjeus d' pådjes protedjeyes",
+	'group-eliminator' => 'Elimineus',
 	'group-founder' => 'Askepieus do Wiki e-n inglès',
 	'group-import' => 'Ristitcheus',
 	'group-ipblock-exempt' => 'IP nén rboutåve',
 	'group-rollbacker' => 'Disfijheus',
 	'group-transwiki' => 'Ricopieus inte les wikis',
-	'group-abusefilter-member' => 'Ricandjeu(se) des passetes',
+	'group-abusefilter-member' => "{{GENDER:$1|ricandjeu d'|ricandjeuse di}} passetes",
 	'group-accountcreator-member' => "Ahiveu d' contes",
-	'group-autopatrolled-member' => 'Robot naxheu',
-	'group-autoreviewer-member' => 'Coridjrece otomatike',
-	'group-bigexport-member' => 'Grand(e) epoirteu(se) di pådjes',
+	'group-autopatrolled-member' => '{{GENDER:$1|robot naxheu|robote naxheuse}}',
+	'group-autoreviewer-member' => '{{GENDER:$1||}}coridjrece otomatike',
+	'group-bigexport-member' => "{{GENDER:$1|grand epoirteu d'|grande epoirteuse di}} pådjes",
+	'group-botadmin-member' => "{{GENDER:$1|robot avou des droets d' manaedjeu|robote avou des droets d' manaedjeuse}}",
+	'group-confirmed-member' => '{{GENDER:$1|useu confirmé|uzeuse confirmêye}}',
+	'group-editprotected-member' => "{{GENDER:$1|candjeu d'|candjeuse di}} pådjes protedjeyes",
+	'group-eliminator-member' => '{{GENDER:$1|elimineu|elimineuse}}',
 	'group-founder-member' => 'Askepieu',
 	'group-import-member' => 'Ristitcheu(se)',
 	'group-ipblock-exempt-member' => 'IP nén rboutåve',
@@ -13842,8 +13873,12 @@ $messages['wa'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:Ricandjeus des passetes',
 	'grouppage-accountcreator' => '{{ns:project}}:Manaedjeus',
 	'grouppage-autopatrolled' => '{{ns:project}}:Robots naxheus',
-	'grouppage-autoreviewer' => '{{ns:project}}:Ricoridjreces otomatikes',
+	'grouppage-autoreviewer' => '{{ns:project}}:Coridjreces otomatikes',
 	'grouppage-bigexport' => "{{ns:project}}:Grands epoirteus d' pådjes",
+	'grouppage-botadmin' => "{{ns:project}}:Robots avou droets d' manaedjeus",
+	'grouppage-confirmed' => '{{ns:project}}:Uzeus confirmés',
+	'grouppage-editprotected' => "{{ns:project}}:Candjeus d' pådjes protedjeyes",
+	'grouppage-eliminator' => '{{ns:project}}:Elimineus',
 	'grouppage-founder' => '{{ns:project}}:Mwaisse-manaedjeus',
 	'grouppage-import' => "{{ns:project}}:Apoirteus d' pådjes",
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP nén rboutåve',
@@ -13853,28 +13888,30 @@ $messages['wa'] = array(
 	'group-sysadmin' => 'Manaedjeus',
 	'group-Global_bot' => 'Programeus totavå',
 	'group-Global_rollback' => 'Ridisfijheus totavå',
+	'group-Global_sysops' => 'Manaedjeus totavå',
 	'group-Ombudsmen' => 'Arindjeus des bidons',
 	'group-Staff' => 'Eployîs',
 	'group-steward-member' => 'mwaisse-manaedjeu tot avå',
 	'group-sysadmin-member' => 'Manaedjeu(se)',
-	'group-Global_bot-member' => 'Programeu(se) totavå',
-	'group-Global_rollback-member' => 'Ridisfijheu(se) totavå',
-	'group-Ombudsmen-member' => 'Arindjeu(se) des bidons',
+	'group-Global_bot-member' => '{{GENDER:$1|programeu|programeuse}} totavå',
+	'group-Global_rollback-member' => '{{GENDER:$1|ridisfijheu|ridisfijheuse}} totavå',
+	'group-Global_sysops-member' => '{{GENDER:$1|manaedjeu|manaedjeuse}} totavå',
+	'group-Ombudsmen-member' => '{{GENDER:$1|arindjeu|arindjeuse}} des bidons',
 	'group-Staff-member' => 'Eployî, eployeye',
 	'group-coder' => "Fijheus d' côdes",
-	'group-coder-member' => 'Fijheu(se) di côdes',
-	'group-inactive' => "Uzeu ki n' boutèt nén",
-	'group-inactive-member' => "Uzeu(se) ki n' boute nén",
+	'group-coder-member' => '{{GENDER:$1|fijheu|fijheuse}} di côdes',
+	'group-inactive' => "Uzeus ki n' boutèt nén",
+	'group-inactive-member' => "{{GENDER:$1|uzeu|uzeuse}} ki n' boute nén",
 	'grouppage-inactive' => "{{ns:project}}:Uzeus ki n' boutnut nén",
-	'wikimedia-copyright' => "Les tecses polèt esse ricopyîs dizo l' [//creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons''\" atribucion pårtaedje a l’ idintike 3.0]\".
-Loukîz les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
-	'wikimedia-copyrightwarning' => "Si vos clitchîz so «Schaper l' pådje», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;
-[//creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [//www.gnu.org/copyleft/fdl.html GFDL]. 
+	'wikimedia-copyright' => 'Les tecses sont disponibes dizo l\' <a href="//creativecommons.org/licenses/by-sa/3.0/">licince "\'\'Creative Commons\'\'" atribucion pårtaedje a l’ idintike</a>.
+Loukîz les <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condicions d’ eployaedje</a> po saveur les ca et les ma.',
+	'wikimedia-copyrightwarning' => "Si vos clitchîz so «{{int:savearticle}}», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;[//creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [//www.gnu.org/copyleft/fdl.html GFDL]. 
 Et esse sifwaitmint d' acoird d’ esse ricnoxhou (-owe) come sicrijheu(se) di ces racsegnes la, pol moens pa ene hårdêye ou èn URL aviè l’ årtike ki vos avoz scrît ou ki vos î avoz bodjî. 
 Loukîz les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
 	'wikimedia-editpage-tos-summary' => "Si vos n' vôrîz nén, télfeye, ki vos scrijhaedjes fouxhénxhe ricandjîs, et spårdous totavå, adon, n' elzès metoz nén droci. 
 Tant k' ås tecses ki n' serént nén da vosse, po les riscrire cial, i dvèt esse ricopiåves sorlon les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d' eployaedje håynêyes vaici]. 
 Eto seroz vos d' acoird po shuve totes les clawes di cisse licince la.",
+	'cant-delete-main-page' => "Vos n' poloz nén disfacer ou displaecî l' mwaisse pådje.",
 );
 
 /** Waray (Winaray)
