@@ -2021,12 +2021,19 @@ $messages['diq'] = array(
 	'wm-license-artwork-medium' => 'Miyanên',
 	'wm-license-artwork-dimensions' => 'Ebati',
 	'wm-license-artwork-current-location' => 'Caye cı',
+	'wm-license-artwork-object-history' => 'Ravêrdiya nesni',
+	'wm-license-artwork-credit-line' => 'Weziyetê grotışi',
 	'wm-license-artwork-references' => 'Çımey',
+	'wm-license-artwork-inscriptions' => 'Şınasiyen',
 	'wm-license-artwork-notes' => 'Noti',
+	'wm-license-artwork-id' => 'Nımreyê dekewtışi',
 	'wm-license-artwork-source' => 'Çıme/Fotrafkar',
 	'wm-license-book-edition' => 'Pıloxne',
 	'wm-license-book-editor' => 'Vurner',
+	'wm-license-book-illustrator' => 'Xizer',
 	'wm-license-book-language' => 'Zıwan',
+	'wm-license-book-page-overview' => 'Pela weynayış',
+	'wm-license-book-place-of-publication' => 'Heruna Pêseroke',
 	'wm-license-book-printer' => 'Nusnewan',
 	'wm-license-book-publisher' => 'Vılakar',
 	'wm-license-book-series-title' => 'Sernuştey rati',
@@ -2035,7 +2042,9 @@ $messages['diq'] = array(
 	'wm-license-book-title' => 'Sername',
 	'wm-license-book-translator' => 'Açarner',
 	'wm-license-book-volume' => 'Vanga',
+	'wm-license-book-year-of-publication' => 'Pêserokê serre',
 	'wm-license-cecill-text' => 'Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedeva ya]]; ti eşkena ena dosya vila bike ya zi vurne [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Sartanê lisansê CeCILL itiya de este [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-creator-alternative-names' => 'Weçenegê namen',
 	'wm-license-creator-description' => 'Şınasiyen',
 	'wm-license-creator-date-of-birth' => 'Tarixê biyayışi',
 	'wm-license-creator-date-of-birth-and-death' => 'Tarixê biyayışi/merdışi',
@@ -2043,6 +2052,7 @@ $messages['diq'] = array(
 	'wm-license-creator-location-of-birth-and-death' => 'Cayê biyayışi/merdışi',
 	'wm-license-creator-work-period' => 'Demê gurweynayışi',
 	'wm-license-creator-work-location' => 'Heruna gurweynayışi',
+	'wm-license-creator-linkback' => 'Dora zanışiye şabloni ke vıraziyaya ayre gre',
 	'wm-license-fal-text' => "Copyleft: Ena dosya bedeva ya; ti eşkena ena dosya vila bike ya zi vurne bine '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ti eskena sartanê lisansê itiya de [{{int:wm-license-fal-full-link}} Copyleft Attitude site] u siteyane binan de bivine.",
 	'wm-license-gfdl-1.2-and-later' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2 ya zi versiyonane ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
 	'wm-license-gfdl-1.2-only' => "Ti eşkêna ena dosya kopya bike, vile bike, ya zi vurne binê '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versiyon 1.2  ke cap biye pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pê nê Invariant Sections, nê Front-Cover Texts u nê Back-Cover Texts. You kismê kopya bine ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' est ê.",
@@ -4430,6 +4440,7 @@ $messages['it'] = array(
  * @author Multichill
  * @author Naohiro19
  * @author Schu
+ * @author Shirayuki
  * @author Whym
  * @author 柑橘類
  * @author 青子守歌
@@ -4465,7 +4476,7 @@ $messages['ja'] = array(
 	'wm-license-book-translator' => '翻訳者',
 	'wm-license-book-volume' => '冊数',
 	'wm-license-book-year-of-publication' => '出版年',
-	'wm-license-cecill-text' => 'この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]の規約にもどづき、この作品を再配布、改変することができます。CeCILLライセンスの規約は、[{{int:wm-license-cecill-full-link}} www.cecill.info]をご覧下さい。',
+	'wm-license-cecill-text' => 'この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]の規約にもどづき、この作品を再配布、改変することができます。CeCILLライセンスの規約は、[{{int:wm-license-cecill-full-link}} www.cecill.info]をご覧ください。',
 	'wm-license-cecill-wiki-link' => 'w:ja:CeCILL',
 	'wm-license-creator-alternative-names' => '別名',
 	'wm-license-creator-description' => '説明',
@@ -4486,7 +4497,7 @@ $messages['ja'] = array(
 	'wm-license-gfdl-1.3-and-later' => "この文書は、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]発行の'''[[{{int:wm-license-gfdl-wiki-link}}|GNUフリー文書利用許諾書]] (GNU Free Documentation License)''' 1.3またはそれ以降のバージョンの規約にもとづき、複製や再配布、改変が許可されます。不可変更部分、表紙、背表紙はありません。このライセンスの複製は、''[[{{int:wm-license-gfdl-full-1.3-link}}|GNUフリー文書利用許諾書]]''という章に含まれています。",
 	'wm-license-gfdl-1.3-only' => "この文書は、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]発行の'''[[{{int:wm-license-gfdl-wiki-link}}|GNUフリー文書利用許諾書]] (GNU Free Documentation License)''' バージョン1.3のみの規約にもとづき、複製や再配布、改変が許可されます。不可変更部分、表紙、背表紙はありません。このライセンスの複製は、''[[{{int:wm-license-gfdl-full-1.3-link}}|GNUフリー文書利用許諾書]]''という章に含まれています。",
 	'wm-license-gfdl-wiki-link' => 'w:ja:GNU Free Documentation License',
-	'wm-license-gpl-text' => "この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]の発行する'''[[{{int:wm-license-gpl-wiki-link}}|GNU 一般公衆利用許諾書]] (GNU General Public License)'''（バージョン2、またはそれ以降のライセンス）の規約にもとづき、このライブラリの再配布や改変をすることができます。この作品は、有用であることを期待して配布されていますが、'''商用'''あるいは'''特定の目的'''に適するかどうかも含めて、暗黙的にも、'''一切保証されません'''。詳しくは、[{{int:wm-license-gpl-2-full-link}} バージョン2]と[{{int:wm-license-gpl-3-full-link}} バージョン3のGNU 一般公衆利用許諾書]をご覧下さい。",
+	'wm-license-gpl-text' => "この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]の発行する'''[[{{int:wm-license-gpl-wiki-link}}|GNU 一般公衆利用許諾書]] (GNU General Public License)'''（バージョン2、またはそれ以降のライセンス）の規約にもとづき、このライブラリの再配布や改変をすることができます。この作品は、有用であることを期待して配布されていますが、'''商用'''あるいは'''特定の目的'''に適するかどうかも含めて、暗黙的にも、'''一切保証されません'''。詳しくは、[{{int:wm-license-gpl-2-full-link}} バージョン2]と[{{int:wm-license-gpl-3-full-link}} バージョン3のGNU 一般公衆利用許諾書]をご覧ください。",
 	'wm-license-gpl-wiki-link' => 'w:ja:GNU General Public License',
 	'wm-license-information-table-summary' => '標準的な表は、このファイルが何を表わし、どのように作成されたか、著作権状態や出典などの、このファイルについての完全な情報を提供します。',
 	'wm-license-information-description' => '概要',
@@ -4503,7 +4514,7 @@ $messages['ja'] = array(
 	'wm-license-information-permission-reusing-text' => 'ファイルの再利用',
 	'wm-license-information-permission-see-below' => '下記を参照。',
 	'wm-license-information-other-versions' => '他のバージョン',
-	'wm-license-lgpl-text' => "このライブラリは[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]の発行する'''[[{{int:wm-license-lgpl-wiki-link}}|GNU 劣等一般公衆利用許諾書]] (GNU Lesser General Public License)'''（バージョン2.1、またはそれ以降のライセンス）の規約にもとづき、このライブラリの再配布や改変をすることができます。この作品は、有用であることを期待して配布されていますが、'''商用'''あるいは'''特定の目的'''に適するかどうかも含めて、暗黙的にも、'''一切保証されません'''。詳しくは、[{{int:wm-license-lgpl-2.1-full-link}} バージョン2.1]と[{{int:wm-license-lgpl-3-full-link}} バージョン3のGNU 劣等一般公衆利用許諾書]をご覧下さい。",
+	'wm-license-lgpl-text' => "このライブラリは[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]の発行する'''[[{{int:wm-license-lgpl-wiki-link}}|GNU 劣等一般公衆利用許諾書]] (GNU Lesser General Public License)'''（バージョン2.1、またはそれ以降のライセンス）の規約にもとづき、このライブラリの再配布や改変をすることができます。この作品は、有用であることを期待して配布されていますが、'''商用'''あるいは'''特定の目的'''に適するかどうかも含めて、暗黙的にも、'''一切保証されません'''。詳しくは、[{{int:wm-license-lgpl-2.1-full-link}} バージョン2.1]と[{{int:wm-license-lgpl-3-full-link}} バージョン3のGNU 劣等一般公衆利用許諾書]をご覧ください。",
 	'wm-license-lgpl-wiki-link' => 'w:ja:GNU Lesser General Public License',
 	'wm-license-licensing-update-text' => 'このライセンスのテンプレートは、GFDLの[[{{int:wm-license-licensing-update-wiki-link}}|ライセンス・アップデート]]によりこのファイルに追加されたものです。',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/ja',
@@ -4511,7 +4522,7 @@ $messages['ja'] = array(
 	'wm-license-own-work' => '投稿者自身による作品',
 	'wm-license-pd-author-self-text' => "この作品の著作権者である私は、この作品を'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''として著作権を放棄し提供します。これは、全世界的に適用されます。",
 	'wm-license-pd-author-with-author-text' => "この作品は、その作者である'''$1'''により、'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''として公開されました。これは、全世界的に適用されています。",
-	'wm-license-pd-author-not-legally-possible' => 'これは、一部の国では、法的に可能でない場合があります。その場合：',
+	'wm-license-pd-author-not-legally-possible' => '一部の国では、これが法的に可能ではない場合があります。その場合：',
 	'wm-license-pd-author-self-any-purpose' => "私は、法により必要とされている条件を除き、いかなる条件も課すことなく、'''あらゆる目的'''のためにこの作品を使用する権利をあらゆる人に与えます。",
 	'wm-license-pd-author-with-author-any-purpose' => "$1は、いかなる条件も課すことなく、ただし法により必要とされている条件のみを必要とし、この作品を'''あらゆる目的'''のために使用する権利を、あらゆる人に与えています。",
 	'wm-license-pd-usgov-wiki-link' => 'w:ja:アメリカ合衆国連邦政府',
@@ -4997,6 +5008,7 @@ Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên aza
  * @author Gomada
  */
 $messages['ku-latn'] = array(
+	'wm-license-artwork-title' => 'Sernav',
 	'wm-license-book-language' => 'Ziman',
 	'wm-license-book-subtitle' => 'Binnav',
 	'wm-license-book-title' => 'Sernav',
@@ -5010,7 +5022,7 @@ $messages['ku-latn'] = array(
 	'wm-license-information-author-missing' => "Agahiya '''xwediyê''' vê pelê kêm e.",
 	'wm-license-information-permission' => 'Destûr',
 	'wm-license-information-permission-see-below' => 'Li jêr binêre.',
-	'wm-license-information-other-versions' => 'Versiyonên din',
+	'wm-license-information-other-versions' => 'Guhertoyên din',
 	'wm-license-own-work' => 'Min çêkir',
 );
 
@@ -9198,6 +9210,7 @@ $messages['wa'] = array(
 	'wm-license-information-permission-see-below' => 'Loukîz pus bas.',
 	'wm-license-information-other-versions' => 'Ôtès modêyes',
 	'wm-license-own-work' => 'Prôpe ovraedje',
+	'wm-license-self-one-license-with-author' => "$1, li ci k' a les abondroets so ciste ouve, l' eplaide dizo l' licinse shuvante:",
 	'wm-license-self-multiple-licenses-select' => "Voz ploz tchoezi l' licince ki vos vloz eployî.",
 );
 
@@ -9377,7 +9390,7 @@ $messages['zh-classical'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:zh-classical:吉恩游自由文檔許可協議',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Bencmq
  * @author Hydra
  * @author Multichill
@@ -9426,7 +9439,7 @@ $messages['zh-hans'] = array(
 	'wm-license-creator-location-of-birth-and-death' => '出生/去世地点',
 	'wm-license-creator-work-period' => '工作时期',
 	'wm-license-creator-work-location' => '工作地点',
-	'wm-license-creator-linkback' => '查看创作者信息模板',
+	'wm-license-creator-linkback' => '查看该创作者的信息框模板',
 	'wm-license-fal-text' => "非营利著作权：本艺术作品是自由的，你可以依据'''[[{{int:wm-license-fal-wiki-link}}|自由艺术作品授权协议]]'''的条款传播和/或修改本艺术作品。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude网站]或其他网站找到该协议的样本。",
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',

@@ -1058,6 +1058,7 @@ $messages['as'] = array(
 	'group-Image-reviewer' => 'চিত্র পৰ্যালোচক',
 	'group-import' => 'আমদানীকৰ্তা',
 	'group-interface_editor' => 'ইন্টাৰফেছ সম্পাদক',
+	'group-ipblock-exempt' => 'আইপি নিষেধাজ্ঞা ৰহিত',
 	'group-OTRS-member' => 'OTRS সদস্য',
 	'group-patroller' => 'পৰ্যবেক্ষক',
 	'group-researcher' => 'গৱেষক',
@@ -2467,7 +2468,7 @@ $messages['crh-cyrl'] = array(
 Эгер ерлештирмеге истеген метнинъизни сиз дегиль де, башкъа бир адам язгъан олса, шу метиннинъ ерлештирилюви [//wikimediafoundation.org/wiki/Terms_of_Use Къулланув Шартлары]на уйгъун олмалы, ве сиз лицензиянынъ бутюн керекли талапларынен разы олмалысынъыз.',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Danny B.
  * @author Li-sung
  * @author Matěj Grabovský
@@ -2586,6 +2587,7 @@ $messages['cs'] = array(
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [//creativecommons.org/licenses/by-sa/3.0/deed.cs Creative Commons Uveďte autora&nbsp;– Zachovejte licenci&nbsp;3.0] a&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Pokud si nepřejete, aby váš příspěvek byl nemilosrdně upravován a&nbsp;volně šířen, pak ho sem neukládejte. Pokud nejste autorem textu, musí být dostupný za podmínek slučitelných s&nbsp;našimi [//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a&nbsp;vy souhlasíte se všemi příslušnými licenčními požadavky.',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
+	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
 );
 
 /** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -3109,6 +3111,7 @@ $messages['diq'] = array(
 	'wikimedia-copyrightwarning' => 'Eke şıma "{{int:savearticle}}" mışoreyê şıma pê  [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u [//www.gnu.org/copyleft/fdl.html GFDL]yi lisans biyaye hesibiyeno u mışoreyê şıma tepiya nêçariyeno. Karberê bini zi eşkeni mışoreyê şıma re pê gıreyê url bıresi u eşkeni cewab bıde şıma. qey teferruati bewni rê: [//wikimediafoundation.org/wiki/ Hususe rastnustısi].',
 	'wikimedia-editpage-tos-summary' => 'eke şıma qayil niyê nuşteyê şıma bıvuriyo ya zi vıla nêbiyo tiya ra meşawê.
 eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[//wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
+	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 );
 
 /** Lower Sorbian (Dolnoserbski)
@@ -4331,6 +4334,7 @@ Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">con
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [//wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
+	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 );
 
 /** Cajun French (Français cadien)
@@ -4905,6 +4909,7 @@ $messages['gl'] = array(
 Acepta que unha hiperligazón ou URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Se non quere que o seu texto sexa editado e redistribuído, non o envíe. Se non escribiu isto, este texto debería estar dispoñible baixo termos compatibles cos [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e vostede debe estar de acordo en seguir todas as esixencias das licenzas.',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
+	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
 );
 
 /** Gilaki (گیلکی)
@@ -5972,7 +5977,7 @@ $messages['hy'] = array(
 Եթե ավելացվող նյութի հեղինակը անձամբ դուք չեք, ապա նյութը պարտադիր պետք է համապատասխանի [//wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններում] նկարագրած արտոնագրային պահանջներին, և դուք համաձայնվում եք հետևել արտոնագրում ներկայացված բոլոր պահանջներին։',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author Malafaya
  * @author McDutchie
  */
@@ -6090,6 +6095,7 @@ $messages['ia'] = array(
 Tu accepta que un hyperligamine o URL suffice como attribution sub le licentia Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Si tu non vole que tu scripto sia modificate e redistribuite a voluntate, alora non submitte lo hic. Si tu non es le autor de isto, le contribution debe ja esser disponibile sub conditiones compatibile con le [//wikimediafoundation.org/wiki/Terms_of_Use Conditiones de uso], e tu consenti a obedir a omne relevante requisitos de licentia.',
 	'cant-delete-main-page' => 'Non es possibile deler o renominar le pagina principal.',
+	'wikimedia-translationnotifications-signup-legal' => 'Per fornir iste information al Fundation Wikimedia tu accepta que nos pote contactar te concernente traductiones o altere themas associate al movimento Wikimedia le quales nos pensa que pote esser de interesse a te. Tu accepta que tu datos pote esser immagazinate in le Statos Unite de America e es subjecte a nostre [https://wikimediafoundation.org/wiki/Privacy_policy politica de confidentialitate].',
 );
 
 /** Indonesian (Bahasa Indonesia)
@@ -6465,7 +6471,7 @@ Ef þú hefur ekki skrifað textann sjálfur, þá þarf hann að vera laus undi
 	'cant-delete-main-page' => 'Þú getur ekki eytt eða fært forsíðuna.',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Annayram
  * @author Aushulz
  * @author Beta16
@@ -6597,6 +6603,7 @@ $messages['it'] = array(
 	'wikimedia-copyrightwarning' => "Facendo click sul bottone \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], ed accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o un URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'wikimedia-editpage-tos-summary' => "Se non desideri che il tuo testo possa essere modificato e ridistribuito a volontà, allora non inserirlo qui. Se non l'hai scritto tu, deve essere disponibile a condizioni compatibili con le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e accetti di seguire tutti i requisiti di licenza.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
+	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 );
 
 /** Japanese (日本語)
@@ -8109,7 +8116,7 @@ $messages['mi'] = array(
 	'sitesupport' => 'Koha',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  * @author Brainmachine
  * @author Brest
@@ -8240,6 +8247,7 @@ $messages['mk'] = array(
 	'wikimedia-editpage-tos-summary' => 'Доколку не сакате Вашиот текст да биде слободно уредуван и распространуван, тогаш не поднесувајте го овде.
 Ако Вие не сте автор на текстов, тогаш тој мора да биде достапен под услови складни на [//wikimediafoundation.org/wiki/Услови_на_употреба Условите на употреба], а Вие се согласувате дека ќе се придржувате до сите услови за лиценцирање.',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
+	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 );
 
 /** Malayalam (മലയാളം)
@@ -8650,6 +8658,7 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
 	'wikimedia-editpage-tos-summary' => 'Jika anda tidak mahu tulisan anda disunting dan diedarkan secara bebas oleh orang lain, maka jangan kirimkannya di sini.
 Jika anda tidak menulisnya sendiri, ia mestilah dapat diperolehi di bawah syarat yang sejajar dengan [//wikimediafoundation.org/wiki/Terms_of_Use Terma Penggunaan], dan anda bersetuju mengikuti sebarang keperluan pelesenan yang berkaitan.',
 	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
+	'wikimedia-translationnotifications-signup-legal' => 'Anda bersetuju bahawa dengan memberikan maklumat ini kepada Yayasan Wikimedia, kami boleh menghubungi awak berkenaan terjemahan atau perihal-perihal lain yang berkenaan dengan gerakan  Wikimedia yang kami berpendapat mempunyai kaitan dengan anda. Anda bersetuju bahawa data anda boleh disimpan di Amerika Syarikat dan tertakluk kepada [https://wikimediafoundation.org/wiki/Privacy_policy dasar privasi] kami.',
 );
 
 /** Maltese (Malti)
@@ -13789,6 +13798,7 @@ $messages['vi'] = array(
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Nếu không muốn những gì bạn viết bị tùy ý chỉnh sửa và tái phân phối, xin đừng đăng nó ở đây. Nếu nội dung đưa vào không phải do chính bạn viết ra, nội dung đó phải được phát hành theo những điều khoản nhất quán với [//wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi Điều khoản Sử dụng], và bạn đồng ý tuân theo các yêu cầu cấp phép bản quyền thích hợp.',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
+	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 );
 
 /** Volapük (Volapük)
@@ -13850,11 +13860,14 @@ $messages['wa'] = array(
 	'group-botadmin' => "Robots avou des droets d' manaedjeu",
 	'group-confirmed' => 'Uzeus confirmés',
 	'group-editprotected' => "Candjeus d' pådjes protedjeyes",
+	'group-Ex_Administrator' => 'Vîs manaedjeus',
+	'group-Ex_Bureaucrat' => 'Vîs mwaisse-manaedjeus',
 	'group-eliminator' => 'Elimineus',
-	'group-founder' => 'Askepieus do Wiki e-n inglès',
+	'group-filemover' => "Displaeceus d' fitchîs",
+	'group-founder' => 'Askepieus do Wiki',
 	'group-import' => 'Ristitcheus',
 	'group-ipblock-exempt' => 'IP nén rboutåve',
-	'group-rollbacker' => 'Disfijheus',
+	'group-rollbacker' => 'Ridisfijheus',
 	'group-transwiki' => 'Ricopieus inte les wikis',
 	'group-abusefilter-member' => "{{GENDER:$1|ricandjeu d'|ricandjeuse di}} passetes",
 	'group-accountcreator-member' => "Ahiveu d' contes",
@@ -13865,10 +13878,12 @@ $messages['wa'] = array(
 	'group-confirmed-member' => '{{GENDER:$1|useu confirmé|uzeuse confirmêye}}',
 	'group-editprotected-member' => "{{GENDER:$1|candjeu d'|candjeuse di}} pådjes protedjeyes",
 	'group-eliminator-member' => '{{GENDER:$1|elimineu|elimineuse}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|vî manaedjeu|viye manaedjresse}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|vî mwaisse-manaedjeu|viye mwaisse-manaedjresse}}',
 	'group-founder-member' => 'Askepieu',
 	'group-import-member' => 'Ristitcheu(se)',
 	'group-ipblock-exempt-member' => 'IP nén rboutåve',
-	'group-rollbacker-member' => 'Ridisfijheu(se)',
+	'group-rollbacker-member' => '{{GENDER:$1|ridisfijheu|ridisfijheuse}}',
 	'group-transwiki-member' => "Ricopieu(se) d' on wiki a l' ôte",
 	'grouppage-abusefilter' => '{{ns:project}}:Ricandjeus des passetes',
 	'grouppage-accountcreator' => '{{ns:project}}:Manaedjeus',
@@ -13879,7 +13894,10 @@ $messages['wa'] = array(
 	'grouppage-confirmed' => '{{ns:project}}:Uzeus confirmés',
 	'grouppage-editprotected' => "{{ns:project}}:Candjeus d' pådjes protedjeyes",
 	'grouppage-eliminator' => '{{ns:project}}:Elimineus',
-	'grouppage-founder' => '{{ns:project}}:Mwaisse-manaedjeus',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Vîs manaedjeus',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Vîs mwaisse-manaedjeus',
+	'grouppage-filemover' => "{{ns:project}}:Displaeceus d' fitchîs",
+	'grouppage-founder' => '{{ns:project}}:Askepieus',
 	'grouppage-import' => "{{ns:project}}:Apoirteus d' pådjes",
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP nén rboutåve',
 	'grouppage-rollbacker' => '{{ns:project}}:Ridisfijheus',
@@ -13922,6 +13940,7 @@ $messages['war'] = array(
 	'sitesupport' => 'Mga Donasyon',
 	'group-accountcreator' => 'Mga maghirimo hin akawnt',
 	'group-import' => 'Mga man-aambit',
+	'group-ipblock-exempt' => 'Mga IP nga pinabaliwaray an pagpugong',
 	'group-transwiki' => 'Mga man-aambit hin transwiki',
 	'group-steward' => 'Mga tinapuran',
 );
