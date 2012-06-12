@@ -1696,6 +1696,7 @@ $messages['be-tarask'] = array(
 	'wikimedia-editpage-tos-summary' => 'Калі Вы не жадаеце, каб Вашыя тэксты вольна рэдагаваліся і распаўсюджваліся, не зьмяшчайце іх сюды.
 Калі Вы не зьяўляецеся аўтарам гэтага тэксту, то ён павінен быць даступны на ўмовах, сумяшчальных з [//wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], і Вы згодныя прытрымлівацца ўсіх патрабаваньняў ліцэнзіяў.',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
+	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 );
 
 /** Bulgarian (Български)
@@ -9860,6 +9861,7 @@ Varda <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> pë
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
 	'wikimedia-editpage-tos-summary' => "S'it veule pa che tò scrit a sia modificà e redistribuì a volontà, alora butlo pa sì. S'it l'has pa scrivulo da sol, a deuv esse disponìbil sota condission consistente con ij [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], e it ses d'acòrdi con tùit ij requisì aplicàbij dla licensa.",
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
+	'wikimedia-translationnotifications-signup-legal' => "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij dò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Privacy_policy régole ëd confidensialità].",
 );
 
 /** Western Punjabi (پنجابی)
@@ -13784,6 +13786,7 @@ $messages['vi'] = array(
 	'group-Ombudsmen-member' => '{{GENDER:$1}}thanh tra viên',
 	'group-Staff-member' => 'Nhân viên',
 	'grouppage-Global_bot' => 'm:Bot policy/vi#Bot toàn cầu',
+	'grouppage-Global_rollback' => 'm:Global rollback/vi',
 	'grouppage-Global_sysops' => 'm:Global sysops/vi',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/vi',
 	'group-translationadmin' => 'Bảo quản viên bản dịch',
