@@ -5005,6 +5005,7 @@ Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên aza
 
 /** Kurdish (Latin script) (‪Kurdî (latînî)‬)
  * @author George Animal
+ * @author Ghybu
  * @author Gomada
  */
 $messages['ku-latn'] = array(
@@ -5014,6 +5015,8 @@ $messages['ku-latn'] = array(
 	'wm-license-book-title' => 'Sernav',
 	'wm-license-book-translator' => 'Wergêr',
 	'wm-license-creator-description' => 'Danasîn',
+	'wm-license-gfdl-1.2-and-later' => "Ev wêne di bin '''[[{{int:wm-license-gfdl-wiki-link}}|lîsansa belgekirina azad a GNU]]''' hate barkirin.
+Kopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, versiyona 1.2 versiyoneke kevintirîn a belavkirinê ya ji bo [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.",
 	'wm-license-information-description' => 'Danasîn',
 	'wm-license-information-source' => 'Çavkanî',
 	'wm-license-information-source-missing' => "Agahiya '''çavkaniya''' vê pelê kêm e.",

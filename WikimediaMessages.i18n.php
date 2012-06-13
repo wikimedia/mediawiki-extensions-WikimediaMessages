@@ -1381,6 +1381,7 @@ $messages['az'] = array(
  * @author Assele
  * @author Comp1089
  * @author Haqmar
+ * @author ҒатаУлла
  */
 $messages['ba'] = array(
 	'wikimediamessages-desc' => 'Викимедиа өсөн махсус хәбәрҙәр',
@@ -1477,9 +1478,10 @@ $messages['ba'] = array(
 	'group-editinterface-member' => '{{GENDER:$1|арайөҙ мөхәррире}}',
 	'group-Global_bot-member' => '{{GENDER:$1|глобаль бот}}',
 	'group-Global_rollback-member' => '{{GENDER:$1|глобаль кире ҡайтарыусы}}',
-	'group-Global_sysops-member' => 'дөйөм хәким',
-	'group-Ombudsmen-member' => 'омбудсмен',
+	'group-Global_sysops-member' => '{{GENDER:$1|дөйөм хәким}}',
+	'group-Ombudsmen-member' => '{{GENDER:$1|омбудсмен}}',
 	'group-Staff-member' => 'эшмәкәр',
+	'group-translationadmin' => 'Тәржәмә хакимдары',
 	'group-coder' => 'Программистар',
 	'group-coder-member' => 'программист',
 	'group-inactive' => 'Әүҙем булмаған ҡатнашыусылар',
@@ -7435,7 +7437,7 @@ $messages['ksh'] = array(
  * @author Ghybu
  */
 $messages['ku-latn'] = array(
-	'sitesupport' => 'Ji bo Weqfa Wikimedia Beş',
+	'sitesupport' => 'Bexş bike',
 	'group-Global_bot' => "Bot'ên global",
 	'group-Global_bot-member' => "bot'ê global",
 	'wikimedia-copyright' => 'Nivîsar di bin lîsansa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> de derbasdar e;
