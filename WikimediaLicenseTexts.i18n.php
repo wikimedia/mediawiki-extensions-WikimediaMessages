@@ -661,7 +661,7 @@ $messages['as'] = array(
 	'wm-license-self-multiple-licenses-select' => 'আপুনি আপোনাৰ পছন্দ অনুসৰি অনুজ্ঞাপত্ৰৰ নিৰ্বাচন কৰিব পাৰে।',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Diebuche
  * @author Xuacu
  */
@@ -765,7 +765,7 @@ $messages['ay'] = array(
 	'wm-license-information-description' => 'Uñt’ayawi',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  * @author PPerviz
  * @author Vago
@@ -941,7 +941,7 @@ $messages['bcl'] = array(
 	'wm-license-information-description' => 'Deskripsión',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Diebuche
  * @author TarzanASG
  * @author Yury Tarasievich
@@ -1060,7 +1060,7 @@ $messages['be-x-old'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:be-x-old:GNU Free Documentation License',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  * @author Diebuche
  * @author Multichill
@@ -1218,7 +1218,7 @@ $messages['bn'] = array(
 	'wm-license-self-multiple-licenses-select' => 'আপনি আপনার পছন্দসই লাইসেন্স নির্বাচন করতে পারেন।',
 );
 
-/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী)
+/** Bishnupria Manipuri (বিষ্ণুপ্রিয়া মণিপুরী)
  * @author Diebuche
  */
 $messages['bpy'] = array(
@@ -1226,7 +1226,7 @@ $messages['bpy'] = array(
 	'wm-license-information-source' => 'উৎস',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Diebuche
  * @author Fohanno
  * @author Fulup
@@ -1325,7 +1325,7 @@ $messages['br'] = array(
 	'wm-license-self-multiple-licenses-select' => "Gallout a rit diuzañ an aotre-implijout a fell deoc'h.",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  * @author Diebuche
  * @author Multichill
@@ -1405,7 +1405,7 @@ $messages['bs'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Možete odabrati licencu po vašem izboru.',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  * @author B1mbo
  * @author Diebuche
@@ -1527,7 +1527,7 @@ $messages['ceb'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Gitugot ang pagkopya, pag-apud-apod o/ug pag-usab ning maong dokumento ubos sa mga termino sa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 o mas bag-ong bersiyon nga gimantala sa [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; nga walay Invariant Sections, walay Front-Cover Texts, ug walay Back-Cover Texts. Ang kopya sa lisensiya gilakip sa bahin nga giulohang ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author Asoxor
  */
 $messages['ckb'] = array(
@@ -1578,7 +1578,7 @@ $messages['crh-cyrl'] = array(
 	'wm-license-information-source' => 'Менба',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Juan de Vojníkov
  * @author Krinkle
  * @author Matěj Grabovský
@@ -1772,7 +1772,7 @@ $messages['cy'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Gallwch ddewis y drwydded y mynnwch.',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author B1mbo
  * @author EPO
  * @author Emilkris33
@@ -2111,7 +2111,7 @@ $messages['dv'] = array(
 	'wm-license-information-source' => 'މަސްދަރު',
 );
 
-/** Ewe (Eʋegbe) */
+/** Ewe (eʋegbe) */
 $messages['ee'] = array(
 	'wm-license-information-date' => 'Ŋkeke',
 );
@@ -2331,7 +2331,7 @@ $messages['eo'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Vi povas elekti la permesilon preferatan.',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  * @author B1mbo
  * @author Crazymadlover
@@ -2443,7 +2443,7 @@ $messages['es'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Ud. puede utilizar la licencia que prefiera.',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Multichill
  * @author Pikne
  * @author Quibik
@@ -2541,7 +2541,7 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-self-multiple-licenses-select' => 'Sa võid valida endale sobiva litsentsi.',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Diebuche
  * @author Joxemai
@@ -2618,7 +2618,7 @@ $messages['eu'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Nahiago duzun lizentzia erabil dezakezu.',
 );
 
-/** Extremaduran (Estremeñu) */
+/** Extremaduran (estremeñu) */
 $messages['ext'] = array(
 	'wm-license-information-description' => 'Descrición',
 	'wm-license-information-description-missing' => "Esta imahin nu tiini una '''descrición''' u le farta enhormación emportanti.",
@@ -2734,7 +2734,7 @@ $messages['fa'] = array(
 	'wm-license-self-multiple-licenses-select' => 'می‌توانید مجوز دلخواه خود را برگزینید.',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Centerlink
  * @author Crt
  * @author Diebuche
@@ -2837,13 +2837,13 @@ $messages['fi'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Voit valita yllä olevista lisensseistä sen, jota haluat käyttää.',
 );
 
-/** Faroese (Føroyskt) */
+/** Faroese (føroyskt) */
 $messages['fo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:fo:GNU Free Documentation License',
 	'wm-license-pd-wiki-link' => 'w:fo:Almenn ogn',
 );
 
-/** French (Français)
+/** French (français)
  * @author Aadri
  * @author B1mbo
  * @author Cedric31
@@ -2962,7 +2962,7 @@ Vous trouverez un exemplaire de cette Licence sur le [{{int:wm-license-fal-full-
 	'wm-license-self-multiple-licenses-select' => 'Vous pouvez choisir l’une de ces licences.',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -3061,7 +3061,7 @@ $messages['frr'] = array(
 	'wm-license-own-work' => 'Aanj werk',
 );
 
-/** Friulian (Furlan)
+/** Friulian (furlan)
  * @author Klenje
  * @author Multichill
  */
@@ -3134,13 +3134,13 @@ $messages['ga'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Is féidir leat a roghnú an ceadúnas do rogha',
 );
 
-/** Simplified Gan script (‪赣语(简体)‬) */
+/** Simplified Gan script (‪赣语（简体）‬) */
 $messages['gan-hans'] = array(
 	'wm-license-information-description' => '简话',
 	'wm-license-information-source' => '来源',
 );
 
-/** Traditional Gan script (‪贛語(繁體)‬) */
+/** Traditional Gan script (‪贛語（繁體）‬) */
 $messages['gan-hant'] = array(
 	'wm-license-information-description' => '簡話',
 	'wm-license-information-source' => '來源',
@@ -3631,7 +3631,7 @@ $messages['hif-latn'] = array(
 	'wm-license-information-description' => 'Baare me',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Ex13
  * @author Excaliboor
  * @author Multichill
@@ -3787,7 +3787,7 @@ $messages['hsb'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Móžeš licencu swojeje wólby wubrać.',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Diebuche
  * @author Dj
@@ -3931,7 +3931,7 @@ $messages['hy'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Դուք կարող եք ընտրել յուրաքանչուրը այս լիցենզիաներից.',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  * @author Multichill
  */
@@ -4300,7 +4300,7 @@ $messages['io'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Puoi scegliere la licenza che preferisci.',
 );
 
-/** Icelandic (Íslenska)
+/** Icelandic (íslenska)
  * @author Diebuche
  */
 $messages['is'] = array(
@@ -4317,7 +4317,7 @@ $messages['is'] = array(
 	'wm-license-information-other-versions' => 'Aðrar útgáfur',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Aushulz
  * @author B1mbo
  * @author Beta16
@@ -5029,7 +5029,7 @@ Kopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, ver
 	'wm-license-own-work' => 'Min çêkir',
 );
 
-/** Cornish (Kernowek)
+/** Cornish (kernowek)
  * @author Kw-Moon
  * @author Nrowe
  */
@@ -5250,13 +5250,13 @@ $messages['lij'] = array(
 	'wm-license-information-source' => 'Reixe',
 );
 
-/** Lumbaart (Lumbaart) */
+/** lumbaart (lumbaart) */
 $messages['lmo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:lmo:Licenza da ducümentazziun líbera GNU',
 	'wm-license-gpl-wiki-link' => 'w:lmo:GPL',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  * @author Garas
  * @author Matasg
@@ -5346,12 +5346,12 @@ $messages['lt'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Galite pasirinkti, kurią licenciją norite naudoti.',
 );
 
-/** Latgalian (Latgaļu) */
+/** Latgalian (latgaļu) */
 $messages['ltg'] = array(
 	'wm-license-information-description' => 'Aproksts',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author GreenZeb
  * @author Papuass
  * @author Xil
@@ -5447,7 +5447,7 @@ $messages['min'] = array(
 	'wm-license-attribution-without-author-text' => "Pemegang hak cipta berkas ko maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -5649,7 +5649,7 @@ $messages['ml'] = array(
 	'wm-license-self-multiple-licenses-select' => 'താങ്കൾക്ക് താങ്കളുടെ ഇച്ഛാനുസരണം അനുമതി തിരഞ്ഞെടുക്കാം.',
 );
 
-/** Mongolian (Монгол) */
+/** Mongolian (монгол) */
 $messages['mn'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:mn:ГНУ чөлөөт баримт бичгийн лиценз',
 	'wm-license-gpl-wiki-link' => 'w:mn:GNU GPL',
@@ -6322,7 +6322,7 @@ $messages['nn'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Du kan velje den lisensen du sjølv tykkjer er best.',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬) */
+/** Norwegian (bokmål)‬ (‪norsk (bokmål)‬) */
 $messages['no'] = array(
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:no:United States Air Force',
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:no:United States Army',
@@ -6339,7 +6339,7 @@ $messages['nso'] = array(
 	'wm-license-information-source' => 'Mothopo',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Boulaur
  * @author Cedric31
  * @author Diebuche
@@ -6503,7 +6503,7 @@ $messages['pfl'] = array(
 	'wm-license-information-source' => 'Qwell',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  * @author Equadus
  * @author Fizykaa
@@ -6845,7 +6845,7 @@ $messages['ps'] = array(
 	'wm-license-own-work' => 'شخصي اثر',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author B1mbo
  * @author Capmo
  * @author GTNS
@@ -6946,7 +6946,7 @@ $messages['pt'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Pode escolher a licença que quiser.',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author 555
  * @author Andronimo
  * @author BrunaaAa
@@ -7092,7 +7092,7 @@ $messages['qu'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Munasqayki saqillayta akllariy.',
 );
 
-/** Romansh (Rumantsch) */
+/** Romansh (rumantsch) */
 $messages['rm'] = array(
 	'wm-license-information-description' => 'Descripziun',
 	'wm-license-information-source' => 'Funtauna',
@@ -7103,7 +7103,7 @@ $messages['rmy'] = array(
 	'wm-license-free-software-wiki-link' => 'w:rmy:Mesto software',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author AdiJapan
  * @author Cin
  * @author Firilacroco
@@ -7199,7 +7199,7 @@ $messages['ro'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Puteți alege licența pe care o doriți.',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  * @author Reder
  */
@@ -7282,7 +7282,7 @@ $messages['roa-tara'] = array(
 	'wm-license-self-multiple-licenses-select' => "Tu puè scacchià 'a licenze ca vuè.",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Aleksandrit
  * @author B1mbo
  * @author Dim Grits
@@ -7492,7 +7492,7 @@ $messages['sa'] = array(
 	'wm-license-information-author' => 'लेखक',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
@@ -7564,7 +7564,7 @@ $messages['sah'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Бу лиссиэнсийэлэртэн ханныгын баҕарар талыаххын сөп.',
 );
 
-/** Sardinian (Sardu)
+/** Sardinian (sardu)
  * @author Andria
  */
 $messages['sc'] = array(
@@ -7581,7 +7581,7 @@ $messages['sc'] = array(
 	'wm-license-own-work' => 'Traballu pròpriu',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Aushulz
  */
 $messages['scn'] = array(
@@ -7610,7 +7610,7 @@ $messages['sdc'] = array(
 	'wm-license-information-source' => 'Orìgini',
 );
 
-/** Northern Sami (Sámegiella) */
+/** Northern Sami (sámegiella) */
 $messages['se'] = array(
 	'wm-license-information-description' => 'Govvádus',
 );
@@ -7626,7 +7626,7 @@ $messages['sgs'] = array(
 	'wm-license-information-description' => 'Aprašīms',
 );
 
-/** Serbo-Croatian (Srpskohrvatski) */
+/** Serbo-Croatian (srpskohrvatski / српскохрватски) */
 $messages['sh'] = array(
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:sh:Ratno zrakoplovstvo Sjedinjenih Država',
 	'wm-license-pd-wiki-link' => 'w:sh:Javno vlasništvo',
@@ -7737,7 +7737,7 @@ $messages['simple'] = array(
 	'wm-license-pd-wiki-link' => 'w:simple:Public domain',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Diebuche
  * @author Helix84
  * @author Jkjk
@@ -7826,7 +7826,7 @@ $messages['sk'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Môžete si zvoliť ľubovolnú z&nbsp;týchto licencií.',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  * @author Diebuche
  * @author Eleassar
@@ -7930,7 +7930,7 @@ $messages['sli'] = array(
 	'wm-license-information-source' => 'Quelle',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Diebuche
  * @author Mikullovci11
  * @author Multichill
@@ -8036,7 +8036,7 @@ $messages['sr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -8116,7 +8116,7 @@ $messages['sr-ec'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Изаберите лиценцу по вашем избору.',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
 	'wm-license-cecill-wiki-link' => 'w:sr:CeCILL',
@@ -8180,7 +8180,7 @@ $messages['su'] = array(
 	'wm-license-information-source' => 'Sumber',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Ainali
  * @author B1mbo
  * @author Boivie
@@ -8466,7 +8466,7 @@ $messages['te'] = array(
 	'wm-license-self-multiple-licenses-select' => 'పైవాటిలో మీకు నచ్చిన లైసెన్సునుతో ఈ కృతిని వాడుకోవచ్చు.',
 );
 
-/** Tetum (Tetun) */
+/** Tetum (tetun) */
 $messages['tet'] = array(
 	'wm-license-information-date' => 'Tempu',
 	'wm-license-information-author' => 'Autór',
@@ -8477,7 +8477,7 @@ $messages['tg'] = array(
 	'wm-license-free-software-wiki-link' => 'w:tg:Барномаҳои озод',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ) */
+/** Tajik (Cyrillic script) (тоҷикӣ) */
 $messages['tg-cyrl'] = array(
 	'wm-license-information-description' => 'Тавсифот',
 	'wm-license-information-source' => 'Манбаъ',
@@ -8485,7 +8485,7 @@ $messages['tg-cyrl'] = array(
 	'wm-license-information-author' => 'Муаллиф',
 );
 
-/** Tajik (Latin script) (Tojikī) */
+/** Tajik (Latin script) (tojikī) */
 $messages['tg-latn'] = array(
 	'wm-license-information-description' => 'Tavsifot',
 	'wm-license-information-source' => "Manba'",
@@ -8777,7 +8777,7 @@ $messages['tt'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:tt:GNU/İrekle İstälek Röxsätnämäse',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -8795,7 +8795,7 @@ $messages['tt-cyrl'] = array(
 	'wm-license-information-other-versions' => 'Башка юрамалар',
 );
 
-/** Tatar (Latin script) (Tatarça)
+/** Tatar (Latin script) (tatarça)
  * @author Don Alessandro
  */
 $messages['tt-latn'] = array(
@@ -8808,7 +8808,7 @@ $messages['tyv'] = array(
 	'wm-license-information-source' => 'Эгези',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author AS
  * @author Ahonc
  * @author Aleksandrit
@@ -8938,7 +8938,7 @@ $messages['ur'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:ur:جی این یو آزاد مسوداتی اجازہ',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  * @author Vajotwo
  */
@@ -9487,7 +9487,7 @@ $messages['zh-hans'] = array(
 	'wm-license-self-multiple-licenses-select' => '你可以选择你需要的授权协议。',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Anakmalaysia
  * @author Frankou
  * @author Horacewai2

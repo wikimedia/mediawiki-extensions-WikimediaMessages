@@ -936,7 +936,7 @@ $messages['arc'] = array(
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
 );
 
-/** Araucanian (Mapudungun)
+/** Araucanian (mapudungun)
  * @author Lin linao
  */
 $messages['arn'] = array(
@@ -1144,7 +1144,7 @@ $messages['as'] = array(
 	'cant-delete-main-page' => 'মূল পৃষ্ঠাখন আপুনি বিলোপ বা স্থানান্তৰ কৰিব নোৱাৰে',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Esbardu
  * @author Nemo bis
  * @author Xuacu
@@ -1285,7 +1285,7 @@ $messages['ay'] = array(
 	'sitesupport' => 'Ramañanaka',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  * @author PPerviz
  * @author Vago
@@ -1549,7 +1549,7 @@ $messages['bcl'] = array(
 	'tooltip-n-sitesupport' => 'Suportaran kami',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author TarzanASG
  * @author Yury Tarasievich
  */
@@ -1701,7 +1701,7 @@ $messages['be-tarask'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author Borislav
  * @author DCLXVI
  * @author Ivanko
@@ -1839,7 +1839,7 @@ Pian hakun haja kalu sabuting tautan atawa URL cukup manaliakan di bawah liséns
 Amun Pian kada manulis ngini surangan, ngini musti ada di bawah katantuan nang sasuai awan [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan Mamakai], wan Pian hakun haja maumpati lisénsi nang diparluakan.',
 );
 
-/** Bambara (Bamanankan) */
+/** Bambara (bamanankan) */
 $messages['bm'] = array(
 	'sitesupport' => 'Banumanke',
 );
@@ -1978,7 +1978,7 @@ $messages['bo'] = array(
 	'group-founder-member' => 'གསར་གཏོད་བྱེད་མཁན།',
 );
 
-/** Bishnupria Manipuri (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী) */
+/** Bishnupria Manipuri (বিষ্ণুপ্রিয়া মণিপুরী) */
 $messages['bpy'] = array(
 	'sitesupport' => 'দান দেনা',
 );
@@ -1993,7 +1993,7 @@ $messages['bqi'] = array(
 	'tooltip-n-sitesupport' => 'حمایت زه ایما',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fohanno
  * @author Fulup
  * @author Gwendal
@@ -2120,7 +2120,7 @@ Mar n'int ket bet skrivet ganeoc'h war-eeun, gwiriit mat e c'haller ober ganto d
 	'cant-delete-main-page' => "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  * @author Demicx
  * @author Kal-El
@@ -2234,7 +2234,7 @@ Za dalje detalje pogledajte [//wikimediafoundation.org/wiki/Terms_of_Use Pravila
 Ako ovo niste napisali lično, ove izmjene moraju biti dostupne pod uslovima u skladu sa [//wikimediafoundation.org/wiki/Terms_of_Use Pravilima korištenja], i slažete se da će te slijediti sve relevantne licencne zahtjeve.',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  * @author El libre
  * @author Gemmaa
@@ -2410,7 +2410,7 @@ $messages['chr'] = array(
 	'sitesupport' => 'ᎠᎵᏍᎪᎸᏙᏗ',
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author Asoxor
  * @author Ferhad y
  * @author Marmzok
@@ -2442,7 +2442,7 @@ $messages['ckb'] = array(
 ئەگەر خۆت ئەمەت نەنووسیوە، دەبێ دڵنیا بیت کە لەژێر [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان]دا لە بەردەستدایە و قەبووڵ دەکەیت کە پەیڕەوی بکەیت لە ھەموو ویستەمەنییە مۆڵەتنامەیییە پەیوەندی‌‌دارەکان.',
 );
 
-/** Corsican (Corsu) */
+/** Corsican (corsu) */
 $messages['co'] = array(
 	'sitesupport' => 'Dunazione',
 	'group-steward' => 'Steward',
@@ -2724,7 +2724,7 @@ Os nad chi ysgrifennodd y cyfraniad hwn, rhaid iddo fod ar gael ar delerau sy'n 
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Froztbyte
  * @author Jon Harald Søby
  * @author Kaare
@@ -3252,7 +3252,7 @@ $messages['dz'] = array(
 	'tooltip-n-sitesupport' => 'ང་བཅས་ལུ་རྒྱབ་སྐྱོར་འབད།',
 );
 
-/** Ewe (Eʋegbe)
+/** Ewe (eʋegbe)
  * @author Natsubee
  */
 $messages['ee'] = array(
@@ -3398,7 +3398,7 @@ $messages['el'] = array(
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 );
 
-/** Emiliano-Romagnolo (Emiliàn e rumagnòl) */
+/** Emiliano-Romagnolo (emiliàn e rumagnòl) */
 $messages['eml'] = array(
 	'sitesupport' => 'Donaziòun',
 );
@@ -3667,7 +3667,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Avjoska
  * @author KalmerE.
  * @author Ker
@@ -3791,7 +3791,7 @@ Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [/
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Joxemai
  * @author Nemo bis
@@ -3904,7 +3904,7 @@ Onartzen duzu hiperlotura bat edo URL bat aski dela aitortza hori egiteko, Creat
 Ekarpena ez baduzu zuk zeuk idatzi, [//wikimediafoundation.org/wiki/Terms_of_Use Erabilera-baldintzetan] zehazten diren kondizioetan eskuragarri egon beharko du, eta edozein lizentzia-eskakizun garrantzitsu betetzea onartuko duzu.',
 );
 
-/** Extremaduran (Estremeñu)
+/** Extremaduran (estremeñu)
  * @author Better
  */
 $messages['ext'] = array(
@@ -4050,7 +4050,7 @@ $messages['ff'] = array(
 	'sitesupport' => 'Dokkal',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Agony
  * @author Cimon Avaro
  * @author Crt
@@ -4185,7 +4185,7 @@ $messages['fj'] = array(
 	'sitesupport' => 'Soli',
 );
 
-/** Faroese (Føroyskt)
+/** Faroese (føroyskt)
  * @author Spacebirdy
  */
 $messages['fo'] = array(
@@ -4340,14 +4340,14 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 );
 
-/** Cajun French (Français cadien)
+/** Cajun French (français cadien)
  * @author JeanVoisin
  */
 $messages['frc'] = array(
 	'sitesupport' => "Donner de l'argent",
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -4590,7 +4590,7 @@ Wan dü di tekst ei salew skrewen heest, do stäänt hi oober likes oner a [//wi
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
 );
 
-/** Friulian (Furlan)
+/** Friulian (furlan)
  * @author Klenje
  */
 $messages['fur'] = array(
@@ -4670,7 +4670,7 @@ $messages['gan'] = array(
 	'tooltip-n-sitesupport' => '資援偶嗰俚',
 );
 
-/** Simplified Gan script (‪赣语(简体)‬)
+/** Simplified Gan script (‪赣语（简体）‬)
  * @author Liangent
  */
 $messages['gan-hans'] = array(
@@ -4728,7 +4728,7 @@ $messages['gan-hans'] = array(
 要系个不系倷自简写𠮶文字𠮶话，佢一定要同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]相合，跟得倷要同意任何相关𠮶发牌条件。',
 );
 
-/** Traditional Gan script (‪贛語(繁體)‬)
+/** Traditional Gan script (‪贛語（繁體）‬)
  * @author Nemo bis
  * @author Symane
  */
@@ -5604,7 +5604,7 @@ Palihog lang bisita sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use
 Kung indi kag nagsulat sini sa imo kaugalingon, kilanlan nga para ina sa tanan nga naga sunod upod sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], kag naga sugot ka nga magpati sa lisensyang kilanlanon.',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Anton008
  * @author Bugoslav
  * @author CERminator
@@ -5844,7 +5844,7 @@ $messages['ht'] = array(
 	'tooltip-n-sitesupport' => 'Soutni pwojè a',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Bdamokos
  * @author Dani
  * @author Dj
@@ -6749,7 +6749,7 @@ $messages['jbo'] = array(
 	'sitesupport' => 'jdini sidju',
 );
 
-/** Jutish (Jysk)
+/** Jutish (jysk)
  * @author Ælsån
  */
 $messages['jut'] = array(
@@ -7036,7 +7036,7 @@ $messages['kk-latn'] = array(
 	'sitesupport' => 'Demewşilik',
 );
 
-/** Kalaallisut (Kalaallisut)
+/** Kalaallisut (kalaallisut)
  * @author Qaqqalik
  */
 $messages['kl'] = array(
@@ -7447,7 +7447,7 @@ Ji bo hûragahiyan li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Merc
 Heke te bixwe ev nenivîsandibe, divê ev li gorî mercên derbasdar ên [//wikimediafoundation.org/wiki/Terms_of_Use Mercên Bikaranînê] be, û divê tu pêdiviyên lîsanskirinê bipejirînî.',
 );
 
-/** Cornish (Kernowek)
+/** Cornish (kernowek)
  * @author Kw-Moon
  * @author Malafaya
  * @author Nicky.ker
@@ -7763,7 +7763,7 @@ $messages['lij'] = array(
 	'tooltip-n-sitesupport' => 'Agiûttine',
 );
 
-/** Lumbaart (Lumbaart)
+/** lumbaart (lumbaart)
  * @author Dakrismeno
  */
 $messages['lmo'] = array(
@@ -7786,7 +7786,7 @@ $messages['lmo'] = array(
 	'wikimedia-editpage-tos-summary' => "Se te vör mía che 'l to test 'l sia mudifegaa o redistribüii a vuluntà, alura metel mía chì denter.<br /> Se te l'è no scrivüü tì medesim, 'l gh'ha de vess dispunibil suta di cundizión che i henn cumpatibil cun i [//wikimediafoundation.org/wiki/Terms_of_Use cundizión d'usagg], e t'see d'acordi d'andà adree a tüt i requisii de la licenza.",
 );
 
-/** Lingala (Lingála)
+/** Lingala (lingála)
  * @author Moyogo
  */
 $messages['ln'] = array(
@@ -7813,7 +7813,7 @@ $messages['loz'] = array(
 	'tooltip-n-sitesupport' => 'Sepotisize',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  * @author Homo
  * @author Hugo.arg
@@ -7905,7 +7905,7 @@ Norėdami sužinoti daugiau, žiūrėkite [//wikimediafoundation.org/wiki/Terms_
 Jei šio darbo neparašėte Jūs, jis turi būti suderinamas su [//wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygomis]; Jūs sutinkate vykdyti visus svarbius licencijavimo reikalavimus.',
 );
 
-/** Latgalian (Latgaļu)
+/** Latgalian (latgaļu)
  * @author Dark Eagle
  */
 $messages['ltg'] = array(
@@ -7928,7 +7928,7 @@ $messages['lus'] = array(
 	'group-translationadmin' => 'Lehlinna roreltute',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author GreenZeb
  * @author Papuass
  * @author Xil
@@ -8381,7 +8381,7 @@ $messages['ml'] = array(
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
 );
 
-/** Mongolian (Монгол)
+/** Mongolian (монгол)
  * @author Chinneeb
  * @author לערי ריינהארט
  */
@@ -8398,7 +8398,7 @@ $messages['mn'] = array(
 	'grouppage-steward' => 'm:Stewards',
 );
 
-/** Moldavian (Молдовеняскэ)
+/** Moldavian (молдовеняскэ)
  * @author Node ue
  */
 $messages['mo'] = array(
@@ -9217,7 +9217,7 @@ Als uw bewerking niet door uzelf is geschreven, dan moet uw toevoeging beschikba
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Frokor
  * @author Gunnernett
  * @author Harald Khan
@@ -9317,7 +9317,7 @@ $messages['nso'] = array(
 	'tooltip-n-sitesupport' => 'Re thekge',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  * @author Jfblanc
  * @author McDutchie
@@ -9614,7 +9614,7 @@ $messages['pih'] = array(
 	'sitesupport' => 'Doenaiishun',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Beau
  * @author Derbeth
  * @author Leinad
@@ -10049,7 +10049,7 @@ $messages['ps'] = array(
 	'wikimedia-editpage-tos-summary' => 'که چېرته تاسې نه غواړۍ چې ستاسې په ليکنو کې خپلسري بدلون، سمون او بياخپرونه وشي، نو دلته يې مه خپروۍ. که چېرته تاسې دا متن پخپله نه وي ليکلی، نو پکار ده چې ستاسې دا مېنځپانګه [//wikimediafoundation.org/wiki/Terms_of_Use د کارولو دريځ] سره سمه وي او تاسې هم د اړونده لايسنس غوښتنې منلې وي.',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author 555
  * @author Capmo
  * @author Crazymadlover
@@ -10183,7 +10183,7 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author 555
  * @author BrunaaAa
  * @author Capmo
@@ -10452,7 +10452,7 @@ $messages['rif'] = array(
 	'tooltip-n-sitesupport' => 'Ɛawn-anɣ',
 );
 
-/** Romansh (Rumantsch)
+/** Romansh (rumantsch)
  * @author Gion-andri
  */
 $messages['rm'] = array(
@@ -10471,7 +10471,7 @@ $messages['rmy'] = array(
 	'grouppage-steward' => '{{ns:project}}:Stewardurya',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author AdiJapan
  * @author Cin
  * @author Emily
@@ -10601,7 +10601,7 @@ Dacă nu l-ați scris dumneavoastră, acesta trebuie să fie disponibil în conc
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  * @author Nemo bis
  * @author Reder
@@ -10723,7 +10723,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ahonc
  * @author Aleksandrit
  * @author AlexSm
@@ -10995,7 +10995,7 @@ $messages['ruq-latn'] = array(
 	'tooltip-n-sitesupport' => 'Supora-nostre',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author Bert Jickty
  * @author HalanTul
  */
@@ -11101,7 +11101,7 @@ $messages['sah'] = array(
 Угар тиэкиһиҥ ааптара буолбатах буоллаххына, ол тиэкис бу лицензия көрдөбүллэригэр сөп түбэһиэхтээх:[//wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] ону таһынан лицензия көрдөбүллэрин толоруом диэн бэйэҥ сөбүлэһэҕин.',
 );
 
-/** Sardinian (Sardu)
+/** Sardinian (sardu)
  * @author Andria
  * @author Marzedu
  */
@@ -11116,7 +11116,7 @@ Acunsentis ca is re-usuàrios ti ddu ant a atribuire a su mancu cun unu ligàmin
 Si non dd'as scritu tue etotu, depet èsser disponìbile a cunditziones cantepare is [//wikimediafoundation.org/wiki/Terms_of_Use cunditziones de impreu], e atzetas de sighire totu is rekisidos de sa licèntzia.",
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Gmelfi
  * @author Melos
  * @author Santu
@@ -11208,7 +11208,7 @@ $messages['sdc'] = array(
 	'tooltip-n-sitesupport' => 'Supporthazi',
 );
 
-/** Northern Sami (Sámegiella)
+/** Northern Sami (sámegiella)
  * @author Skuolfi
  */
 $messages['se'] = array(
@@ -11381,7 +11381,7 @@ $messages['si'] = array(
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  * @author Rudko
  * @author Απεργός
@@ -11487,7 +11487,7 @@ $messages['sk'] = array(
 	'wikimedia-editpage-tos-summary' => 'Ak nesúhlasíte s tým, že váš príspevok môže byť ľubovoľne upravovaný a šírený, nezverejňujte ho tu. Ak ste tento text nenapísali sami, musí byť dostupný za podmienok v súlade s [//wikimediafoundation.org/wiki/Terms_of_Use Podmienkami použitia] a musíte dodržiavať všetky súvisiace licenčné požiadavky.',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  * @author Nemo bis
  * @author Smihael
@@ -11647,7 +11647,7 @@ $messages['so'] = array(
 	'tooltip-n-sitesupport' => 'Nacaawi',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Dasius
  * @author Dori
  * @author Mikullovci11
@@ -11759,7 +11759,7 @@ Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdori
 	'wikimedia-editpage-tos-summary' => 'Nëse ju nuk dëshironi që shkrimet tuaja të redaktohen dhe rishpërndahen, atëherë mos i jepni këtu. Nëse ju nuk e keni shkruar këtë vetë, ajo duhet të jetë në dispozicion sipas kushteve në përputhje me [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e Përdorimit], dhe ju pranoni të ndiqni çdo kërkesë të licensimit përkatës.',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author FriedrickMILBarbarossa
  * @author Millosh
  * @author Rancher
@@ -11894,7 +11894,7 @@ $messages['sr-ec'] = array(
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author FriedrickMILBarbarossa
  * @author Michaello
  * @author Жељко Тодоровић
@@ -12151,7 +12151,7 @@ $messages['su'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Ainali
  * @author Boivie
  * @author Cohan
@@ -12554,7 +12554,7 @@ $messages['te'] = array(
 	'cant-delete-main-page' => 'మీరు ప్రధాన పేజీని కదిలించలేరు, తొలగించలేరు',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -12565,7 +12565,7 @@ $messages['tet'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward sira',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  * @author לערי ריינהארט
  */
@@ -12609,7 +12609,7 @@ $messages['tg-cyrl'] = array(
 	'group-inactive-member' => 'корбарони ғайрифаъол',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -13097,7 +13097,7 @@ $messages['ts'] = array(
 	'tooltip-n-sitesupport' => 'Hi seketeli',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Don Alessandro
  * @author Rinatus
  * @author Timming
@@ -13221,7 +13221,7 @@ $messages['tt-cyrl'] = array(
 	'cant-delete-main-page' => 'Сез баш битнең исемен яисә аны бетерә алмыйсыз.',
 );
 
-/** Tatar (Latin script) (Tatarça)
+/** Tatar (Latin script) (tatarça)
  * @author Don Alessandro
  */
 $messages['tt-latn'] = array(
@@ -13499,12 +13499,12 @@ $messages['ur'] = array(
 	'group-inactive-member' => 'غیرفعال صارف',
 );
 
-/** Uzbek (Oʻzbek) */
+/** Uzbek (Oʻzbekcha) */
 $messages['uz'] = array(
 	'sitesupport' => "Loyihaga ko'mak",
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  * @author GatoSelvadego
  * @author Vajotwo
@@ -14212,7 +14212,7 @@ $messages['zea'] = array(
 	'sitesupport' => 'Donaoties',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Anakmalaysia
  * @author Bencmq
  * @author Gaoxuewei
@@ -14344,7 +14344,7 @@ $messages['zh-hans'] = array(
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Alexsh
  * @author Anakmalaysia
  * @author Horacewai2

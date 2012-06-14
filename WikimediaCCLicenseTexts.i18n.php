@@ -1048,7 +1048,7 @@ $messages['as'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'স্বীকৃতিপ্ৰদান',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  * @author PPerviz
  * @author Vago
@@ -1416,7 +1416,7 @@ $messages['ba'] = array(
 	'wm-license-cc-pd-mark-text' => 'Был файл билдәле авторлыҡ хоҡуҡтары, шулай уҡ бәйле һәм йәнәш хоҡуҡтар сикләүҙәренән азат, тип билдәләнгән.',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Diebuche
  * @author TarzanASG
  * @author Yury Tarasievich
@@ -1626,7 +1626,7 @@ $messages['be-tarask'] = array(
 	'wm-license-cc-pd-mark-text' => 'Гэты файл быў ідэнтыфікаваны як вольны ад вядомых абмежаваньняў аўтарскага права, а таксама ўсіх сумежных правоў.',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  * @author Diebuche
  * @author Multichill
@@ -2009,7 +2009,7 @@ $messages['bn'] = array(
 	'wm-license-cc-pd-mark-text' => 'এই ফাইলটির কোনো কপিরাইট আইনের আওতায় জানা সকল বাধানিষেধ মুক্ত বলে চিহ্নিত হয়েছে, যার মধ্যে সম্পর্কিত সকল স্বত্ব ও নেইবারিং সত্ত্ব সংযুক্ত।',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Diebuche
  * @author Fohanno
  * @author Fulup
@@ -2210,7 +2210,7 @@ $messages['br'] = array(
 	'wm-license-cc-pd-mark-text' => 'Rummet eo bet ar restr-mañ e-touez ar restroù hep strishadurioù implij anavezet evit ar pezh a sell ouzh ar gwirioù aozer, ha kement-se evit an holl wirioù kar ha stag.',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  * @author Diebuche
  * @author Multichill
@@ -2396,7 +2396,7 @@ $messages['bs'] = array(
 	'wm-license-cc-pd-mark-text' => 'Ova datoteka je identificirana kao slobodna od poznatih ograničenja po zakonu o autorskim pravima, uključujući sva povezana i srodna prava.',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  * @author B1mbo
  * @author Diebuche
@@ -2601,7 +2601,7 @@ $messages['ca'] = array(
 	'wm-license-cc-pd-mark-text' => "Aquest fitxer està identificat com a lliure de de restriccions conegudes sota la llei de drets d'autor, inclosos els drets veïns.",
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author Asoxor
  */
 $messages['ckb'] = array(
@@ -2609,7 +2609,7 @@ $messages['ckb'] = array(
 	'wm-license-cc-free-to-share-text' => 'بۆ کۆپی کردن، دابەشکردن و دەستبەدەست ناردنی',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Juan de Vojníkov
  * @author Krinkle
  * @author Matěj Grabovský
@@ -3041,7 +3041,7 @@ $messages['cy'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'rhannu ar dermau tebyg',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author B1mbo
  * @author EPO
  * @author Emilkris33
@@ -4093,7 +4093,7 @@ $messages['eo'] = array(
 	'wm-license-cc-pd-mark-text' => 'Estis konkludite ke uzon de ĉi tiu dosiero limigas neniu konata aŭtorrajta leĝo, kio inkluzivas ĉiujn rilatajn kaj apudajn rajtojn.',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  * @author B1mbo
  * @author Crazymadlover
@@ -4301,7 +4301,7 @@ $messages['es'] = array(
 	'wm-license-cc-pd-mark-text' => 'Esta obra ha sido identificada como libre de las restricciones conocidas en virtud del derecho de autor, incluyendo todos los derechos conexos.',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Multichill
  * @author Pikne
  * @author Quibik
@@ -4499,7 +4499,7 @@ $messages['et'] = array(
 	'wm-license-cc-pd-mark-text' => 'Seda faili peetakse autoriõigusseadusest ning kõigist seonduvatest ja ligidastest õigustest tulenevalt teadaolevatest piirangutest vabaks.',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  * @author Diebuche
  * @author Joxemai
@@ -4800,7 +4800,7 @@ $messages['fa'] = array(
 	'wm-license-cc-pd-mark-text' => 'این پرونده تحت قانون حق تکثیر محدودیت آزاد منتشر شده که شامل تمامی حقوق مربوطه و حقوق نزدیک به آن می‌شود.',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Centerlink
  * @author Crt
  * @author Diebuche
@@ -5006,7 +5006,7 @@ $messages['fi'] = array(
 	'wm-license-cc-pd-mark-text' => 'Tämä teos on vapaa tunnetuista tekijänoikeuslain mukaisista rajoituksista, mukaanlukien lähioikeuksista.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Aadri
  * @author B1mbo
  * @author Cedric31
@@ -5217,7 +5217,7 @@ $messages['fr'] = array(
 	'wm-license-cc-pd-mark-text' => 'Ce fichier a été identifié comme étant exempt de restrictions connues liées au droit d’auteur, y compris tous les droits connexes et voisins.',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -5414,7 +5414,7 @@ $messages['frp'] = array(
 	'wm-license-cc-pd-mark-text' => 'Cél fichiér at étâ identifiâ coment étent ègzent de rèstriccions cognues liyês u drêt d’ôtor, tôs los drêts associyês et vesins avouéc.',
 );
 
-/** Friulian (Furlan)
+/** Friulian (furlan)
  * @author Klenje
  * @author Multichill
  */
@@ -6430,7 +6430,7 @@ $messages['hi'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'शेआर एलाइक',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Ex13
  * @author Excaliboor
  * @author Multichill
@@ -6719,7 +6719,7 @@ $messages['hsb'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Jeli tute dźěło měnješ, přetworjuješ abo na njo natwarješ, móžeš hotowe dźěło jenož pod samsnej abo podobnej licencu kaž tuta rozšěrić.',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Diebuche
  * @author Dj
@@ -6922,7 +6922,7 @@ $messages['hu'] = array(
 	'wm-license-cc-pd-mark-text' => 'Megállapították, hogy ez a fájl mentes mindenféle szerzői jogi korlátozástól, beleérve az összes kapcsolódó és hozzátartozó jogot.',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  * @author Multichill
  */
@@ -7664,7 +7664,7 @@ $messages['io'] = array(
 	'wm-license-cc-pd-mark-text' => "Questo file è stato riconosciuto come libero da restrizioni di cui si abbia contezza ai sensi della normativa sul diritto d'autore, inclusi tutti i diritti annessi e connessi.",
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Aushulz
  * @author B1mbo
  * @author Beta16
@@ -9298,7 +9298,7 @@ $messages['li'] = array(
 	'wm-license-cc-pd-mark-text' => "Van dit bestandj is vasgesteld det t'r gein bekindje sjrieversaansprake op ruste, inbegrepe van anger kórtbie rechte.",
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  * @author Garas
  * @author Matasg
@@ -9543,7 +9543,7 @@ $messages['lus'] = array(
 	'wm-license-cc-pd-mark-text' => 'Hë taksa hi chhuahchhàwnna phalphung leh khuahkhirhna dàn dang rëng rëng lakah a fihlïm nia hriat a ni.',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author GreenZeb
  * @author Papuass
  * @author Xil
@@ -9684,7 +9684,7 @@ $messages['mg'] = array(
 	'wm-license-cc-conditions-attribution-text' => "Tsy maintsy omenao ny anaran'ny mpamoron'ny (na ny tompon'ilay vokatrasa) nanome anao alàlana mangala-tahaka na manova amin'ny fomba nolazainy (fa tsy amin'ny fomban'ny hoe nanohana anao izy na manaiky ny fampiasanao an'ilay vokatr'asany)",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -11139,7 +11139,7 @@ $messages['nl'] = array(
 	'wm-license-cc-pd-mark-text' => 'Van dit bestand is vastgesteld dat er geen bekende auteursrechtaanspraken op rusten, alle aanverwante en naburige rechten daarbij inbegrepen.',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
@@ -11161,7 +11161,7 @@ $messages['nn'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du berre distribuera resultatet under ein lik eller liknande lisens.',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Boulaur
  * @author Cedric31
  * @author Diebuche
@@ -11426,7 +11426,7 @@ $messages['or'] = array(
 	'wm-license-cc-pd-mark-text' => 'ଏହି ଫାଇଲଟିକୁ ସବୁ ସମ୍ଭନ୍ଧିତ ଓ ପାଖାପାଖି ନୀତି ଅନୁସାଅରେ ସତ୍ଵାଧିକାର ନୀତି ଅନୁସାରେ ସମସ୍ତ କଟକଣାରୁ କୋହଳ କରାଯାଇଛି ।',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Equadus
  * @author Fizykaa
  * @author Leinad
@@ -12062,7 +12062,7 @@ $messages['ps'] = array(
 	'wm-license-cc-conditions-attribution-header' => 'اړوندېدنه',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author B1mbo
  * @author Capmo
  * @author GTNS
@@ -12266,7 +12266,7 @@ $messages['pt'] = array(
 	'wm-license-cc-pd-mark-text' => 'Este ficheiro foi considerado livre de restrições conhecidas devidas a direitos de autor, incluindo todos os direitos conexos.',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author 555
  * @author Andronimo
  * @author BrunaaAa
@@ -12494,7 +12494,7 @@ $messages['qu'] = array(
 	'wm-license-cc-conditions-share_alike-text' => "Kay rurasqata hukchaspayki wakinchaspayki icha paymanta musuqta ruraspaykiqa, musuq rurasqaykita kikillan icha payman kaqlla saqillayllawanmi mast'arinkiman.",
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author AdiJapan
  * @author Cin
  * @author Firilacroco
@@ -12699,7 +12699,7 @@ $messages['ro'] = array(
 	'wm-license-cc-pd-mark-text' => 'Acest fișier a fost identificat ca fiind liber de orice restricții cunoscute privind legea drepturilor de autor, inclusiv toate drepturile conexe sau înrudite.',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  * @author Reder
  */
@@ -12896,7 +12896,7 @@ $messages['roa-tara'] = array(
 	'wm-license-cc-pd-mark-text' => "Stu file ha state idendificate cumme libbere da restriziune de canoscenze sotte legge d'u copyright, ingludenne tutte le deritte collegate e vecine.",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Aleksandrit
  * @author B1mbo
  * @author Dim Grits
@@ -13300,7 +13300,7 @@ $messages['rue'] = array(
 	'wm-license-cc-pd-mark-text' => 'Тот файл быв ідентіфікованый як ослободженый од вшыткых знамых обмеджінь, включаючі вшыткы повязаных і ближных прав.',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
@@ -13483,7 +13483,7 @@ $messages['sah'] = array(
 	'wm-license-cc-pd-mark-text' => 'Бу билэ ааптар быраабын биллэр хааччахтааһыннара уонна кинини кытта ситимнээх бырааптар хааччахтааһыннара суох курдук билиниллибит.',
 );
 
-/** Sardinian (Sardu)
+/** Sardinian (sardu)
  * @author Andria
  */
 $messages['sc'] = array(
@@ -13857,7 +13857,7 @@ $messages['si'] = array(
 	'wm-license-cc-pd-mark-text' => 'මෙම ගොනුව ප්‍රතිරූපණ හිමිකම් අයිතියෙන්, වෙනත් සියළුම ආශ්‍රිත හෝ ආසන්න අයිතියන් ඇතුළුව,  දන්නා සියළු සීමා කිරීම්වලින් නිදහස් බව හඳුනාගෙන ඇත.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Diebuche
  * @author Helix84
  * @author Jkjk
@@ -14044,7 +14044,7 @@ $messages['sk'] = array(
 	'wm-license-cc-pd-mark-text' => 'Tento súbor bol identifikovaný, že nemá žiadne známe obmedzenia vyplývajúce z autorského zákona vrátane všetkých súvisiacich a susedných práv.',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  * @author Diebuche
  * @author Multichill
@@ -14242,7 +14242,7 @@ $messages['sl'] = array(
 	'wm-license-cc-pd-mark-text' => 'Datoteka je bila spoznana kot prosta omejitev po avtorskem pravu, vključno z vsemi povezanimi in sorodnimi pravicami.',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Diebuche
  * @author Mikullovci11
  * @author Multichill
@@ -14435,7 +14435,7 @@ $messages['sr'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -14632,7 +14632,7 @@ $messages['sr-ec'] = array(
 	'wm-license-cc-pd-mark-text' => 'Утврђено је да ова датотека није ограничена у погледу ауторских права, укључујући и сва сродна и суседна права.',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
 	'wm-license-cc-free' => 'Slobodni ste:',
@@ -14669,7 +14669,7 @@ $messages['stq'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Wan du dät lizenzierde Wierk blw. dän lizenzierde Inhoold beoarbaidest, annerst of in ne uur Wiese ärkanboar as Gruundloage foar dät oaine Schafjen ferwoanst, duurst du do deertruch näi äntsteene Wierke blw. Inhoolde bloot unner Ferweendenge fon Lizenzbedingengen fäärereeke, do mäd do fon dissen Lizenzferdraach identisk, fergliekboar of kompatibel sunt.',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Ainali
  * @author B1mbo
  * @author Boivie
@@ -15745,7 +15745,7 @@ $messages['tr'] = array(
 	'wm-license-cc-pd-mark-text' => 'Bu dosya ve ilgili diğer hakları da dahil olmak üzere telif hakkı kapsamında bilinen tüm kısıtlamalar, serbest lisans olarak belirlenmiştir.',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -15754,7 +15754,7 @@ $messages['tt-cyrl'] = array(
 	'wm-license-cc-free-to-share-header' => 'файл белән уртаклаша аласыз',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author AS
  * @author Ahonc
  * @author Aleksandrit
@@ -15964,7 +15964,7 @@ $messages['uk'] = array(
 	'wm-license-cc-pd-mark-text' => "Цей файл визнано вільним від відомих обмежень з боку закону про авторські права, включаючи всі пов'язані і суміжні права.",
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  * @author Vajotwo
  */
@@ -16788,7 +16788,7 @@ $messages['zh'] = array(
 	'wm-license-cc-by-sa-3.0-cl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][//creativecommons.org/licenses/by-sa/3.0/cl/deed.zh 署名-相同方式共享 3.0 智利]许可协议授权。',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Bencmq
  * @author Hydra
  * @author Multichill
@@ -16990,7 +16990,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-pd-mark-text' => '本文件已被确认为免除已知的著作权法限制（包括所有相关权利）。',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Anakmalaysia
  * @author Frankou
  * @author Horacewai2
