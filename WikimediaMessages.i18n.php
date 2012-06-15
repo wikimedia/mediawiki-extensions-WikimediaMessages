@@ -5395,6 +5395,7 @@ $messages['he'] = array(
 	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use/he תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'אם אינכם רוצים שעריכתכם תיערך ותופץ מחדש, אל תפרסמו אותה כאן. אם לא כתבתם אותה בעצמכם, היא חייבת להיות זמינה בתנאים התואמים ל[//wikimediafoundation.org/wiki/Terms_of_Use/he תנאי השימוש], והנכם מסכימים לפעול לפי כל דרישות הרישוי הרלוונטיות.',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
+	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
 );
 
 /** Hindi (हिन्दी)
