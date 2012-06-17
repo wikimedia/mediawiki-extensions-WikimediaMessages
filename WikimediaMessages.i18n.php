@@ -1065,6 +1065,7 @@ $messages['as'] = array(
 	'group-rollbacker' => 'ৰোলবেকাৰ',
 	'group-transwiki' => 'ট্ৰেন্সৱিকি আমদানিকৰ্তা',
 	'group-trusted' => 'বিশ্বাসযোগ্য ব্যৱহাৰকাৰী',
+	'group-abusefilter-member' => '{{GENDER:$1|অপব্যৱহাৰ ফিল্টাৰ সম্পাদক}}',
 	'group-accountcreator-member' => '{{GENDER:$1|একাউণ্ট স্ৰষ্টা}}',
 	'group-arbcom-member' => '{{GENDER:$1|আৰ্বিট্ৰেছন কমিটি সদস্য}}',
 	'group-autopatrolled-member' => '{{GENDER:$1|স্বয়ংক্ৰিয় পৰীক্ষক}}',
@@ -1134,6 +1135,7 @@ $messages['as'] = array(
 	'grouppage-translationadmin' => '{{ns:project}}:অনুবাদ প্ৰশাসকবৃন্দ',
 	'group-coder' => 'কোডাৰ',
 	'group-coder-member' => '{{GENDER:$1|কোডাৰ}}',
+	'grouppage-coder' => 'প্ৰকল্প:কোডাৰ',
 	'group-inactive' => 'নিস্ক্ৰিয় সদস্যসকল',
 	'group-inactive-member' => '{{GENDER:$1|নিষ্ক্ৰিয় সদস্য}}',
 	'grouppage-inactive' => '{{ns:project}}:নিস্ক্ৰিয় ব্যৱহাৰকাৰী',
@@ -4672,6 +4674,7 @@ $messages['gan'] = array(
 
 /** Simplified Gan script (‪赣语（简体）‬)
  * @author Liangent
+ * @author Xiaomingyan
  */
 $messages['gan-hans'] = array(
 	'wikimediamessages-desc' => 'Wikimedia𠮶特定讯息',
@@ -4707,13 +4710,13 @@ $messages['gan-hans'] = array(
 	'group-Global_bot' => '全域机器人',
 	'group-Global_rollback' => '全域返退员',
 	'group-Ombudsmen' => '申诉专员',
-	'group-Staff' => '成员',
+	'group-Staff' => '职员',
 	'group-steward-member' => '执行员',
 	'group-sysadmin-member' => '系统管理员',
 	'group-Global_bot-member' => '全域机器人',
 	'group-Global_rollback-member' => '全域返退员',
 	'group-Ombudsmen-member' => '申诉专员',
-	'group-Staff-member' => '成员',
+	'group-Staff-member' => '{{GENDER:$1|职员}}',
 	'group-coder' => '编码员',
 	'group-coder-member' => '编码员',
 	'group-inactive' => '不活跃𠮶用户',
@@ -7980,13 +7983,16 @@ Plašākai informācijai skatīt [//wikimediafoundation.org/wiki/Terms_of_Use Li
 Ja šo tekstu nerakstījāt jūs, tam ir jābūt pieejamam ar nosacījumiem, kas saskan ar [//wikimediafoundation.org/wiki/Terms_of_Use pielietošanas noteikumiem] un jūs piekrītat izpildīt visas saistošās licencēšanas prasības.',
 );
 
-/** Literary Chinese (文言) */
+/** Literary Chinese (文言)
+ * @author Justincheng12345
+ */
 $messages['lzh'] = array(
 	'wikimediamessages-desc' => '維基媒體特集',
 	'sitesupport' => '捐助集',
 	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
 	'wikimedia-copyright' => '凡我維基之文，悉為<a href="//creativecommons.org/licenses/by-sa/3.0/">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。
 請閱<a href="//wikimediafoundation.org/wiki/Terms_of_Use">全文</a>，以得其詳。',
+	'wikimedia-copyrightwarning' => '《維基大典》，奉《[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意]》、《革奴自由文檔》授權以行，增修刪改，皆無異議。惟所取用，務請引據。',
 );
 
 /** Lazuri (Lazuri)
@@ -8380,6 +8386,7 @@ $messages['ml'] = array(
 	'wikimedia-editpage-tos-summary' => 'താങ്കളുടെ എഴുത്ത് തിരുത്തുന്നതും പുനർവിതരണം ചെയ്യുന്നതും അനുവദിക്കാനാകില്ലെങ്കിൽ, അത് ഇവിടെ സമർപ്പിക്കാതിരിക്കുക.
 ഇത് താങ്കൾ തന്നെ എഴുതിയതല്ലങ്കിൽ, നിർബന്ധമായും [//wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗ നിബന്ധനകളുമായി] പൊരുത്തപ്പെടുന്ന വിധത്തിൽ ലഭ്യമായതായിരിക്കണം, ഒപ്പം ബന്ധപ്പെട്ട ഉപയോഗാനുമതികൾ താങ്കൾ അംഗീകരിക്കേണ്ടതുമാണ്.',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
+	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
 );
 
 /** Mongolian (монгол)
