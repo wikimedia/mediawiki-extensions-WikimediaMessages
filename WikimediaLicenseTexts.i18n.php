@@ -4607,8 +4607,8 @@ $messages['ka'] = array(
 	'wm-license-creator-date-of-birth-and-death' => 'დაბადების/გარდაცვალების თარიღი',
 	'wm-license-creator-location-of-birth' => 'დაბადების ადგილი',
 	'wm-license-creator-location-of-birth-and-death' => 'დაბადების/გარდაცვალების ადგილი',
-	'wm-license-creator-work-period' => 'მოქმედების დრო',
-	'wm-license-creator-work-location' => 'მოქმედების ადგილი',
+	'wm-license-creator-work-period' => 'მოღვაწეობის პერიოდი',
+	'wm-license-creator-work-location' => 'მოღვაწეობის ადგილი',
 	'wm-license-creator-linkback' => 'უკუბმული შემქმნელის ინფოდაფის თარგზე',
 	'wm-license-fal-text' => "კოპილეფტი. ეს არის ხელოვნების თავისუფალი ნაშრომი; თქვენ შეგიძლიათ გაავრცელოთ და/ან შეცვალოთ იგი  '''[[{{int:wm-license-fal-wiki-link}}|Free Art ლიცენზიის]]''' პირობების თანახმად.
 ამ ლიცენზიის პირობების იხილეთ [{{int:wm-license-fal-full-link}} Copyleft Attitude]-ზე, და ასევე სხვა საიტებზეც.",
