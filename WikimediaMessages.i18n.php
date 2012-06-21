@@ -3021,7 +3021,7 @@ $messages['diq'] = array(
 	'group-autoreviewer' => 'oto-rexnekeri',
 	'group-bigexport' => 'ixracatkero gırd',
 	'group-botadmin' => 'botê heqandê admina',
-	'group-confirmed' => 'karbero tesdiq biyaye',
+	'group-confirmed' => 'Karberi araşteni',
 	'group-editprotected' => 'Nustekaranê pelanê ke kilit biyo',
 	'group-Ex_Administrator' => 'Hızmetkarê verêni',
 	'group-Ex_Bureaucrat' => 'Burokratê verêni',
@@ -3046,7 +3046,7 @@ $messages['diq'] = array(
 	'group-autoreviewer-member' => '{{GENDER:$1|oto-rexneker}}',
 	'group-bigexport-member' => '{{GENDER:$1|ixracatkero gırd}}',
 	'group-botadmin-member' => '{{GENDER:$1|botê heqandê admina}}',
-	'group-confirmed-member' => '{{GENDER:$1|karbero tesdiq biyaye}}',
+	'group-confirmed-member' => '{{GENDER:$1|karberi araşteni}}',
 	'group-editprotected-member' => '{{GENDER:$1|editorê pelandê stara}}',
 	'group-eliminator-member' => '{{GENDER:$1|besterner}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|admino verên}}',
@@ -3071,7 +3071,7 @@ $messages['diq'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:Oto-rexneker',
 	'grouppage-bigexport' => '{{ns:project}}:ixracatkero gırd',
 	'grouppage-botadmin' => '{{ns:project}}:botê heqandê admina',
-	'grouppage-confirmed' => '{{ns:project}}:karbero tesdiq biyayeyi',
+	'grouppage-confirmed' => '{{ns:project}}:karberê ke biye araşt',
 	'grouppage-editprotected' => '{{ns:project}}:Nustekaranê pelanê ke kilit biyo',
 	'grouppage-eliminator' => '{{ns:project}}:besterner',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:admino verên',
@@ -4590,6 +4590,7 @@ Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer 
 	'wikimedia-editpage-tos-summary' => "Wan dü EI wel, dat dan tekst faan öödern brükt woort, do seekre ham EI.
 Wan dü di tekst ei salew skrewen heest, do stäänt hi oober likes oner a [//wikimediafoundation.org/wiki/Nutzungsbedingungen reegeln för't brüken] an dü stemest tu, dat dü a reegeln iinhäälst.",
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
+	'wikimedia-translationnotifications-signup-legal' => 'Dü stemest tu, dat at Wikimedia Foundation mä di kontakt apnem mut. Dü stemest tu, dat din dooten uun Ameerikoo efter üüs bestemangen tu [https://wikimediafoundation.org/wiki/Privacy_policy dootenseekerhaid] seekert wurd mut.',
 );
 
 /** Friulian (furlan)
@@ -7466,9 +7467,11 @@ $messages['kw'] = array(
 Mar nyns yw hebma skrifys genowgh hwi agas honen, res yw y vos kavadow en-dadn termynyow kebmys ha'n [//wikimediafoundation.org/wiki/Terms_of_Use termynyow devnydh], ha hwi a wra akordya dhe sewya neb gorholethow lecyansa longus.",
 );
 
-/** Kirghiz (Кыргызча) */
+/** Kirghiz (Кыргызча)
+ * @author Chorobek
+ */
 $messages['ky'] = array(
-	'sitesupport' => 'Демөөр',
+	'sitesupport' => 'Колдоо',
 );
 
 /** Latin (Latina)
