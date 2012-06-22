@@ -7472,6 +7472,9 @@ Mar nyns yw hebma skrifys genowgh hwi agas honen, res yw y vos kavadow en-dadn t
  */
 $messages['ky'] = array(
 	'sitesupport' => 'Колдоо',
+	'tooltip-n-sitesupport' => 'Бизди колдоңуз',
+	'specialpages-group-contribution' => 'Каражат чогултуу',
+	'nstab-creator' => 'Автор',
 );
 
 /** Latin (Latina)

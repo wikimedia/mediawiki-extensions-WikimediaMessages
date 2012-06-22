@@ -5040,6 +5040,37 @@ $messages['kw'] = array(
 	'wm-license-information-permission-reusing-text' => 'Dasusya an restren-ma',
 );
 
+/** Kirghiz (Кыргызча)
+ * @author Chorobek
+ */
+$messages['ky'] = array(
+	'wikimedialicensetexts-desc' => 'Уикимедианын лицензиялык билдирүүсү',
+	'wm-license-attribution-with-author-text' => 'Бул файлдын автордук укук ээси, $1, автордук укук ээси тууралуу маалыматты сактоо "шартын аткарса, каалаган максатта" кимге болбосун колдонууга уруксат берет. Бул файлды жайылтуу, анын негизинде башка чыгармаларды жаратуу, ошондой эле коммерциялык жана башка максаттарда колдонууга уруксат берилет.',
+	'wm-license-attribution-without-author-text' => 'Бул файлдын автордук укук ээси анын автордук укук ээси тууралуу маалыматты сактоо "шартын аткарса, каалаган максатта" кимге болбосун колдонууга уруксат берет. Бул файлды жайылтуу, анын негизинде башка чыгармаларды жаратуу, ошондой эле коммерциялык жана башка максаттарда колдонууга уруксат берилет.',
+	'wm-license-artwork-artist' => 'Автор',
+	'wm-license-artwork-title' => 'Аталышы',
+	'wm-license-artwork-medium' => 'Техника',
+	'wm-license-artwork-dimensions' => 'Өлчөмдөрү',
+	'wm-license-artwork-current-location' => 'Азыркы орду',
+	'wm-license-artwork-object-history' => 'Ээлик кылуу тарыхы',
+	'wm-license-artwork-credit-line' => 'Кошумча маалымат',
+	'wm-license-artwork-references' => 'Шилтемелер',
+	'wm-license-artwork-inscriptions' => 'Сыртындагы жазуулар',
+	'wm-license-artwork-notes' => 'Эскертмелер',
+	'wm-license-artwork-id' => 'Каттоо номуру',
+	'wm-license-artwork-source' => 'Кайнар/Сүрөтчү',
+	'wm-license-book-edition' => 'Басылышы',
+	'wm-license-book-editor' => 'Редактор',
+	'wm-license-book-illustrator' => 'Кооздогон',
+	'wm-license-book-language' => 'Тили',
+	'wm-license-book-page-overview' => 'Барактын кыскача баяндамасы',
+	'wm-license-book-place-of-publication' => 'Чыккан жери',
+	'wm-license-book-printer' => 'Басмакана',
+	'wm-license-book-publisher' => 'Басмакана',
+	'wm-license-book-series-title' => 'Алкактын аталышы',
+	'wm-license-book-start-this-book' => 'Ушул китепти оку',
+);
+
 /** Latin (Latina)
  * @author Diebuche
  */
@@ -9451,7 +9482,7 @@ $messages['zh-hans'] = array(
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
 	'wm-license-gfdl-1.2-and-later' => "你已被授权依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的无固定段落及封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版或任意后续版本的条款，复制、传播和/或修改本文件。该协议的副本请见“[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]”。",
 	'wm-license-gfdl-1.2-only' => "你已被授权依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的无固定段落及封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版的条款，复制、传播和/或修改本文件。该协议的副本请见“[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]”。",
-	'wm-license-gfdl-1.2-only-header' => '仅&nbsp;1.2版',
+	'wm-license-gfdl-1.2-only-header' => '仅1.2版',
 	'wm-license-gfdl-1.3-and-later' => "你已被授权依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的无固定段落及封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.3版或任意后续版本的条款，复制、传播和/或修改本文件。该协议的副本请见“[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]”。",
 	'wm-license-gfdl-1.3-only' => "你已被授权依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的无固定段落及封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.3版的条款，复制、传播和/或修改本文件。该协议的副本请见“[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]”。",
 	'wm-license-gpl-text' => "本作品为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]，你可以依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的'''[[{{int:wm-license-gpl-wiki-link}}|GNU公众授权协议]]'''第2版或任意后续版本的条款，传播和/或修改本作品。本作品发表时预期有用，但对此'''无任何保证'''，亦无隐含的'''可以销售'''或'''适合特定目的'''的保证。详情请见[{{int:wm-license-gpl-2-full-link}} GNU公众授权协议第2版]和[{{int:wm-license-gpl-3-full-link}} 第3版]。",
