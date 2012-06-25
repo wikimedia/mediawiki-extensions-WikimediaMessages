@@ -14488,6 +14488,7 @@ $messages['zh-hant'] = array(
 你同意超鏈接或URL足以作為創作共享協議的署名。',
 	'wikimedia-editpage-tos-summary' => '請勿提交任何閣下不欲予人編輯或重新發布的內容。當提交非由閣下編寫的內容時，請確保這些內容的版權狀態合乎[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，閣下同意遵行一切相關的版權條款。',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
+	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)
