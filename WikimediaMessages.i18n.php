@@ -2864,7 +2864,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
  * @author Απεργός
  */
 $messages['de'] = array(
-	'wikimediamessages-desc' => "Ermöglicht spezifische Systemnachrichten für Projekte der ''Wikimedia Foundation''",
+	'wikimediamessages-desc' => 'Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation',
 	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Spenden',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
@@ -2915,7 +2915,7 @@ $messages['de'] = array(
 	'group-founder-member' => '{{GENDER:$1|Gründer}}',
 	'group-Image-reviewer-member' => '{{GENDER:$1|Dateiprüfer|Dateiprüferin}}',
 	'group-import-member' => '{{GENDER:$1|Importeur|Importeurin}}',
-	'group-interface_editor-member' => '{{GENDER:$1|Benutzeroberflächenbearbeiter|Benutzeroberflächenbearbeiterin}}',
+	'group-interface_editor-member' => '{{GENDER:$1|Benutzeroberflächen-Bearbeiter|Benutzeroberflächen-Bearbeiterin}}',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|IP-Sperren-Ausgenommener|IP-Sperren-Ausgenommene}}',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS-Mitglied}}',
 	'group-patroller-member' => '{{GENDER:$1|Kontrolleur|Kontrolleurin}}',
@@ -2949,7 +2949,7 @@ $messages['de'] = array(
 	'grouppage-trusted' => '{{ns:project}}:Vertrauenswürdige Benutzer',
 	'group-steward' => 'Stewards',
 	'group-sysadmin' => 'Systemadministratoren',
-	'group-editinterface' => 'Benutzeroberflächenbearbeiter',
+	'group-editinterface' => 'Benutzeroberflächen-Bearbeiter',
 	'group-Global_bot' => 'Globale Bots',
 	'group-Global_rollback' => 'Globale Zurücksetzer',
 	'group-Global_sysops' => 'Globale Administratoren',
@@ -2957,7 +2957,7 @@ $messages['de'] = array(
 	'group-Staff' => 'Mitarbeiter',
 	'group-steward-member' => '{{GENDER:$1|Steward}}',
 	'group-sysadmin-member' => '{{GENDER:$1|Systemadministrator|Systemadministratorin}}',
-	'group-editinterface-member' => '{{GENDER:$1|Benutzeroberflächenbearbeiter|Benutzeroberflächenbearbeiterin}}',
+	'group-editinterface-member' => '{{GENDER:$1|Benutzeroberflächen-Bearbeiter|Benutzeroberflächen-Bearbeiterin}}',
 	'group-Global_bot-member' => '{{GENDER:$1|Globaler Bot}}',
 	'group-Global_rollback-member' => '{{GENDER:$1|Globaler Zurücksetzer|Globale Zurücksetzerin}}',
 	'group-Global_sysops-member' => '{{GENDER:$1|Globaler Administrator|Globale Administratorin}}',
