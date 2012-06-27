@@ -1269,6 +1269,7 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 	'wikimedia-editpage-tos-summary' => "Si nun desees que los testos s'editen y redistribuyan a voluntá, entós nun los unvies equí.
 Si esti escritu nun ye tuyu, tien de tar disponible baxo condiciones compatibles colos [//wikimediafoundation.org/wiki/Terms_of_Use términos d'usu] y aceutes cumplir cualesquier requerimientu rellacionáu cola llicencia.",
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
+	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 );
 
 /** Avaric (Авар) */
@@ -5724,7 +5725,7 @@ $messages['hr'] = array(
 	'cant-delete-main-page' => 'Nemate ovlast brisati i/ili premještati glavnu stranicu.',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  * @author Nemo bis
  */
@@ -5841,6 +5842,7 @@ $messages['hsb'] = array(
 Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Jeli nochceš, zo so twój tekst po dobrozdaću wobdźěłuje a rozdźěluje, da njewozjew jón tu. Jeli njejsy jón sam spisał, dyrbi pod wuměnjenjemi k dispoziciji stać, kotrež su přezjedne z [//wikimediafoundation.org/wiki/Terms_of_Use wužiwanskimi wuměnjenjemi] a přihłosuješ so po wotpowědnych licencnych žadanjach měć.',
 	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
+	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian foundation zwoliš do toho, zo móžemy so nastupajo překožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stupić. Zwoliš do toho, zo twoje daty so w Zjednocenych statow Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłach priwatnosće].',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -10615,6 +10617,7 @@ Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă 
 	'wikimedia-editpage-tos-summary' => 'Dacă nu doriți ca textul dumneavoastră să fie modificat și redistribuit, atunci nu îl trimiteți aici.
 Dacă nu l-ați scris dumneavoastră, acesta trebuie să fie disponibil în concordanță cu [//wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare], și sunteți de acord să urmați orice altă cerință de licențiere.',
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
+	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
 );
 
 /** tarandíne (tarandíne)
