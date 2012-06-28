@@ -100,6 +100,21 @@ $messages['nl'] = array(
 	'wikimedialabsmessages-desc' => 'Systeemberichten voor Wikimedia Labs',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'wikimedialabsmessages-desc' => 'Mga mensahe ng Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Mga repositoryong Gerrit ng Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Mga repositoryong Gerrit ng Tuluy-tuloy na Integrasyon ng Wikimedia',
+	'gerrittools-repogroup-mediawiki' => 'Mga repositoryong Gerrit ng MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Mga repositoryong Gerrit ng dugtong ng MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Mga repositoryong Gerrit ng MediaWiki Tool',
+	'gerrittools-repogroup-operations' => 'Mga repositoryong Gerrit ng mga Operasyon ng Wikimedia',
+	'gerrittools-repogroup-test' => 'Mga repositoryong Gerrit na pangsubok',
+	'gerrittools-repogroup-wikimedia' => 'Mga repositoryong Gerrit ng Wikimedia',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */
