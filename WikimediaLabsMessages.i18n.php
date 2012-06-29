@@ -37,7 +37,7 @@ $messages['qqq'] = array(
  * @author Kghbln
  */
 $messages['de'] = array(
-	'wikimedialabsmessages-desc' => "Ermöglicht spezifische Systemnachrichten für 'Wikimedia Labs'",
+	'wikimedialabsmessages-desc' => 'Ermöglicht spezifische Systemnachrichten für Wikimedia Labs',
 	'gerrittools-repogroup-analytics' => 'Gerrit-Repositorien für Wikimedia Analytics',
 	'gerrittools-repogroup-integration' => 'Gerrit-Repositorien für Wikimedia Continuous Integration',
 	'gerrittools-repogroup-mediawiki' => 'Gerrit-Repositorien für MediaWiki',
@@ -46,6 +46,21 @@ $messages['de'] = array(
 	'gerrittools-repogroup-operations' => 'Gerrit-Repositorien für Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Gerrit-Repositorien für Test',
 	'gerrittools-repogroup-wikimedia' => 'Gerrit-Repositorien für Wikimedia',
+);
+
+/** Spanish (español)
+ * @author Mr.Ajedrez
+ */
+$messages['es'] = array(
+	'wikimedialabsmessages-desc' => 'Mensajes de Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Repositorios de Gerrit de Wikimedia Analytic',
+	'gerrittools-repogroup-integration' => 'Repositorio de Gerrit de Wikimedia Continous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Repositorios de Gerrit de MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Repositorios de Gerrit de extensiones MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios de Gerrit de herramientas de MediaWiki',
+	'gerrittools-repogroup-operations' => 'Repositorios de Gerrit de Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Repositorios de Gerrit de prueba',
+	'gerrittools-repogroup-wikimedia' => 'Repositorios de Gerrit de Wikimedia',
 );
 
 /** Galician (galego)
@@ -98,6 +113,14 @@ $messages['mk'] = array(
  */
 $messages['nl'] = array(
 	'wikimedialabsmessages-desc' => 'Systeemberichten voor Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Gerritrepositories voor Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Gerritrepositories voor Wikimedia Continuous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Gerritrepositories voor MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Gerritrepositories voor MediaWiki-uitbreidingen',
+	'gerrittools-repogroup-mediawiki/tools' => 'Gerritrepositories voor MediaWikihulpmiddelen',
+	'gerrittools-repogroup-operations' => 'Gerritrepositories voor Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Gerritrepositories voor Test',
+	'gerrittools-repogroup-wikimedia' => 'Gerritrepositories voor Wikimedia',
 );
 
 /** Tagalog (Tagalog)
