@@ -10,27 +10,27 @@ $messages = array();
 
 $messages['en'] = array(
 	'wikimedialabsmessages-desc' => 'Wikimedia Labs messages',
-	'gerrittools-repogroup-analytics' => 'Wikimedia Analytics Gerrit repostories',
-	'gerrittools-repogroup-integration' => 'Wikimedia Continuous Integration Gerrit repostories',
-	'gerrittools-repogroup-mediawiki' => 'MediaWiki Gerrit repostories',
-	'gerrittools-repogroup-mediawiki/extensions' => 'MediaWiki extension Gerrit repostories',
-	'gerrittools-repogroup-mediawiki/tools' => 'MediaWiki Tool Gerrit repostories',
-	'gerrittools-repogroup-operations' => 'Wikimedia Operations Gerrit repostories',
-	'gerrittools-repogroup-test' => 'Test Gerrit repostories',
-	'gerrittools-repogroup-wikimedia' => 'Wikimedia Gerrit repostories',
+	'gerrittools-repogroup-analytics' => 'Wikimedia Analytics Gerrit repositories',
+	'gerrittools-repogroup-integration' => 'Wikimedia Continuous Integration Gerrit repositories',
+	'gerrittools-repogroup-mediawiki' => 'MediaWiki Gerrit repositories',
+	'gerrittools-repogroup-mediawiki/extensions' => 'MediaWiki extension Gerrit repositories',
+	'gerrittools-repogroup-mediawiki/tools' => 'MediaWiki Tool Gerrit repositories',
+	'gerrittools-repogroup-operations' => 'Wikimedia Operations Gerrit repositories',
+	'gerrittools-repogroup-test' => 'Test Gerrit repositories',
+	'gerrittools-repogroup-wikimedia' => 'Wikimedia Gerrit repositories',
 );
 
 /** Message documentation (Message documentation) */
 $messages['qqq'] = array(
 	'wikimedialabsmessages-desc' => '{{desc}}',
-	'gerrittools-repogroup-analytics' => 'Gerrit repostories for Wikimedia Analytic projects',
-	'gerrittools-repogroup-integration' => 'Gerrit repostories for Wikimedia Continuous Integration projects',
-	'gerrittools-repogroup-mediawiki' => 'Gerrit repostories for MediaWiki projects',
-	'gerrittools-repogroup-mediawiki/extensions' => 'Gerrit repostories for MediaWiki extensions',
-	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit repostories for MediaWiki tools',
-	'gerrittools-repogroup-operations' => 'Gerrit repostories for Wikimedia Operations',
-	'gerrittools-repogroup-test' => 'Gerrit repostories for testing',
-	'gerrittools-repogroup-wikimedia' => 'Gerrit repostories for Wikimedia projects',
+	'gerrittools-repogroup-analytics' => 'Gerrit repositories for Wikimedia Analytic projects',
+	'gerrittools-repogroup-integration' => 'Gerrit repositories for Wikimedia Continuous Integration projects',
+	'gerrittools-repogroup-mediawiki' => 'Gerrit repositories for MediaWiki projects',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Gerrit repositories for MediaWiki extensions',
+	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit repositories for MediaWiki tools',
+	'gerrittools-repogroup-operations' => 'Gerrit repositories for Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Gerrit repositories for testing',
+	'gerrittools-repogroup-wikimedia' => 'Gerrit repositories for Wikimedia projects',
 );
 
 /** German (Deutsch)
