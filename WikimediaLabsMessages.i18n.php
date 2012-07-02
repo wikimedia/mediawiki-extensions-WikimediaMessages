@@ -33,6 +33,21 @@ $messages['qqq'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Gerrit repositories for Wikimedia projects',
 );
 
+/** Breton (brezhoneg)
+ * @author Fulup
+ */
+$messages['br'] = array(
+	'wikimedialabsmessages-desc' => 'Kemennadennoù Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => "Kavlec'hioù Wikimedia Analytics Gerrit",
+	'gerrittools-repogroup-integration' => "Kavlec'hioù Wikimedia Continuous Integration Gerrit",
+	'gerrittools-repogroup-mediawiki' => "Kavlec'hioù MediaWiki Gerrit",
+	'gerrittools-repogroup-mediawiki/extensions' => "Kavlec'hioù MediaWiki extension Gerrit",
+	'gerrittools-repogroup-mediawiki/tools' => "Kavlec'hioù MediaWiki Tool Gerrit",
+	'gerrittools-repogroup-operations' => "Kavlec'hioù Wikimedia Operations Gerrit",
+	'gerrittools-repogroup-test' => "Kavlec'hioù Test Gerrit",
+	'gerrittools-repogroup-wikimedia' => "Kavlec'hioù Wikimedia Gerrit",
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */
@@ -63,6 +78,21 @@ $messages['es'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Repositorios de Gerrit de Wikimedia',
 );
 
+/** French (français)
+ * @author Boniface
+ */
+$messages['fr'] = array(
+	'wikimedialabsmessages-desc' => 'Messages de Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Dépôts de Wikimedia Analytics Gerrit',
+	'gerrittools-repogroup-integration' => 'Dépôts de Wikimedia Continuous Integration Gerrit',
+	'gerrittools-repogroup-mediawiki' => 'Dépôts de MediaWiki Gerrit',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Dépôts de MediaWiki extension Gerrit',
+	'gerrittools-repogroup-mediawiki/tools' => 'Dépôts de MediaWiki Tool Gerrit',
+	'gerrittools-repogroup-operations' => 'Dépôts de Wikimedia Operations Gerrit',
+	'gerrittools-repogroup-test' => 'Dépôts de Test Gerrit',
+	'gerrittools-repogroup-wikimedia' => 'Dépôts de Wikimedia Gerrit',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
@@ -91,6 +121,25 @@ $messages['it'] = array(
 	'gerrittools-repogroup-operations' => 'Repository di Wikimedia Operations Gerrit',
 	'gerrittools-repogroup-test' => 'Repository di Test Gerrit',
 	'gerrittools-repogroup-wikimedia' => 'Repository di Wikimedia Gerrit',
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'gerrittools-repogroup-analytics' => 'ウィキメディア アナリティクス Gerrit リポジトリ',
+	'gerrittools-repogroup-mediawiki' => 'MediaWiki Gerrit リポジトリ',
+	'gerrittools-repogroup-mediawiki/extensions' => 'MediaWiki 拡張機能 Gerrit リポジトリ',
+	'gerrittools-repogroup-mediawiki/tools' => 'MediaWiki ツール Gerrit リポジトリ',
+	'gerrittools-repogroup-test' => 'テスト Gerrit リポジトリ',
+	'gerrittools-repogroup-wikimedia' => 'ウィキメディア Gerrit リポジトリ',
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'wikimedialabsmessages-desc' => 'Wikimedia Labs Messagen',
 );
 
 /** Macedonian (македонски)

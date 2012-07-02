@@ -185,6 +185,7 @@ If you did not write this yourself, it must be available under terms consistent 
  * @author Fryed-peach
  * @author IAlex
  * @author Jon Harald Søby
+ * @author Lloffiwr
  * @author Meno25
  * @author Nemo bis
  * @author Purodha
@@ -263,7 +264,9 @@ used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]
 	'group-import-member' => '{{doc-group|import|member}}',
 	'group-interface_editor-member' => '{{doc-group|interface editor|member}}',
 	'group-ipblock-exempt-member' => '{{doc-group|ipblock-exempt|member}}',
-	'group-OTRS-member-member' => '{{doc-group|OTRS-member|member}}',
+	'group-OTRS-member-member' => '{{doc-group|OTRS-member|member}}
+
+The initial letter of messages of this type is usually lowercase.',
 	'group-patroller-member' => '{{doc-group|patroller|member|prefix=wmf-}}',
 	'group-researcher-member' => "{{doc-group|researcher|member}}
 From [[wikipedia:Wikipedia:Researcher#Researcher]]
@@ -2637,8 +2640,11 @@ $messages['cy'] = array(
 	'group-autopatrolled' => 'Awto-batrolwyr',
 	'group-autoreviewer' => 'Awto-adolygyddion',
 	'group-bigexport' => 'Allforwyr mawr',
+	'group-botadmin' => 'Botiaid a chanddynt alluoedd gweinyddu',
 	'group-confirmed' => "Defnyddwyr wedi'u cadarnhau",
 	'group-editprotected' => "Golygyddion tudalennau wedi'u diogelu",
+	'group-Ex_Administrator' => 'Cyn-weinyddwyr',
+	'group-Ex_Bureaucrat' => 'Cyn-fiwrocratiaid',
 	'group-eliminator' => 'Dilëwyr',
 	'group-filemover' => 'Symudwyr ffeiliau',
 	'group-flood' => 'Defnyddwyr bot',
@@ -2659,20 +2665,23 @@ $messages['cy'] = array(
 	'group-autopatrolled-member' => 'awto-batrolwyr',
 	'group-autoreviewer-member' => 'awto-adolygyddion',
 	'group-bigexport-member' => 'allforiwr mawr',
+	'group-botadmin-member' => 'Bot a chanddo alluoedd gweinyddu',
 	'group-confirmed-member' => 'defnyddiwr wedi ei gadarnhau',
 	'group-editprotected-member' => "golygydd tudalennau wedi'u diogelu",
 	'group-eliminator-member' => 'dilëwr',
+	'group-Ex_Administrator-member' => 'cyn-weinyddwr',
+	'group-Ex_Bureaucrat-member' => 'cyn-fiwrocrat',
 	'group-filemover-member' => 'symudwr ffeiliau',
 	'group-flood-member' => 'defnyddiwr bot',
 	'group-founder-member' => 'sefydlydd',
 	'group-Image-reviewer-member' => 'adolygydd delweddau',
 	'group-import-member' => 'mewnforwr',
 	'group-interface_editor-member' => 'golygydd y rhyngwyneb',
-	'group-ipblock-exempt-member' => 'Wedi eithrio rhag bod ei gyfeiriad IP yn cael ei flocio',
-	'group-OTRS-member-member' => 'Aelod o OTRS',
+	'group-ipblock-exempt-member' => 'ymhlith y rhai sydd wedi eithrio rhag bod eu cyfeiriadau IP yn cael eu blocio',
+	'group-OTRS-member-member' => 'aelod o OTRS',
 	'group-patroller-member' => 'patrolwr',
 	'group-researcher-member' => 'ymchwilydd',
-	'group-rollbacker-member' => 'Gwrthdroiwr',
+	'group-rollbacker-member' => 'gwrthdroiwr',
 	'group-transwiki-member' => 'mewnforwr trawswici',
 	'group-trusted-member' => 'defnyddiwr dibynadwy',
 	'grouppage-abusefilter' => '{{ns:project}}:Golygwyr hidlo camdriniaeth',
@@ -2681,9 +2690,12 @@ $messages['cy'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Awto-batrolwyr',
 	'grouppage-autoreviewer' => '{{ns:project}}:Awto-adolygyddion',
 	'grouppage-bigexport' => '{{ns:project}}:Allforwyr mawr',
+	'grouppage-botadmin' => '{{ns:project}}:Botiaid a chanddynt alluoedd gweinyddu',
 	'grouppage-confirmed' => "{{ns:project}}:Defnyddwyr wedi'u cadarnhau",
 	'grouppage-editprotected' => "{{ns:project}}:Golygyddion tudalennau wedi'u diogelu",
 	'grouppage-eliminator' => '{{ns:project}}:Dilëwr',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Cyn-weinyddwyr',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Cyn-fiwrocratiaid',
 	'grouppage-filemover' => '{{ns:project}}:Symudwyr ffeiliau',
 	'grouppage-flood' => '{{ns:project}}:Defnyddwyr bot',
 	'grouppage-founder' => '{{ns:project}}:Sefydlwyr',
@@ -2708,11 +2720,14 @@ $messages['cy'] = array(
 	'group-sysadmin-member' => 'gweinyddwr y system',
 	'group-editinterface-member' => 'golygydd y rhyngwyneb',
 	'group-Global_bot-member' => 'bot cydwici',
-	'group-Global_rollback-member' => 'Gwrthdroiwr cydwici',
+	'group-Global_rollback-member' => 'gwrthdroiwr cydwici',
 	'group-Global_sysops-member' => 'gweinyddwr cydwici',
 	'group-Ombudsmen-member' => 'ombwdsmon',
 	'group-Staff-member' => "aelod o'r staff",
 	'grouppage-Staff' => 'Y Sefydliad:Staff',
+	'group-translationadmin' => 'Gweinyddwyr y cyfieithiadau',
+	'group-translationadmin-member' => 'gweinyddwr y cyfieithiadau',
+	'grouppage-translationadmin' => '{{ns:project}}:Gweinyddwyr y cyfieithiadau',
 	'group-coder' => 'Codyddion',
 	'group-coder-member' => 'codydd',
 	'group-inactive' => 'Defnyddwyr segur',
@@ -2727,6 +2742,7 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
 	'wikimedia-editpage-tos-summary' => "Os nad ydych am weld eich cyfraniad yn cael ei olygu a'i ail-ddefnyddio gan rywun-rywun, yna gwell peidio â chyfrannu yma.
 Os nad chi ysgrifennodd y cyfraniad hwn, rhaid iddo fod ar gael ar delerau sy'n gyson â [//wikimediafoundation.org/wiki/Terms_of_Use Thelerau Defnyddio'r Drwydded], ac rydych yn cytuno i ddilyn unrhyw ofynion y drwydded berthnasol.",
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
+	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 );
 
 /** Danish (dansk)
@@ -11230,11 +11246,13 @@ $messages['sdc'] = array(
 );
 
 /** Northern Sami (sámegiella)
+ * @author Jeblad
  * @author Skuolfi
  */
 $messages['se'] = array(
 	'sitesupport' => 'Skeaŋkkat',
 	'tooltip-n-sitesupport' => 'Doarrjo siidduid doaimma',
+	'group-import' => 'Sisafievrrideaddjit',
 );
 
 /** Cmique Itom (Cmique Itom)
