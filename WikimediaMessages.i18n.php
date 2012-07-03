@@ -5144,6 +5144,7 @@ Du stimmsch zue, dass e Hyperlink oder e URL zue dr Syte fir di notwändig Zuesc
 
 /** Gujarati (ગુજરાતી)
  * @author Aksi great
+ * @author Ashok modhvadia
  * @author Dsvyas
  * @author KartikMistry
  * @author Nemo bis
@@ -5168,7 +5169,7 @@ $messages['gu'] = array(
 	'group-bigexport' => 'મોટાં નિકાસકારો',
 	'group-botadmin' => 'પ્રબંધકીય હક્કો ધરાવતા બૉટ',
 	'group-confirmed' => 'મંજૂર સભ્યો',
-	'group-editprotected' => 'સંરક્ષીત પૃષ્ઠના સંપાદકો',
+	'group-editprotected' => 'સંરક્ષિત પૃષ્ઠના સંપાદકો',
 	'group-Ex_Administrator' => 'પૂર્વ પ્રબંધકો',
 	'group-Ex_Bureaucrat' => 'સેવાતીત વહીવટ કર્તા',
 	'group-eliminator' => 'નાશકો',
@@ -5193,7 +5194,7 @@ $messages['gu'] = array(
 	'group-bigexport-member' => '{{GENDER:$1|મોટો નિકાસક}}',
 	'group-botadmin-member' => '{{GENDER:$1|વ્યવસ્થાપક હક્ક ધરાવતું બોટ}}',
 	'group-confirmed-member' => '{{GENDER:$1|મંજૂર સભ્ય}}',
-	'group-editprotected-member' => '{{GENDER:$1|સુરક્ષીત પૃષ્ઠ સંપાદક}}',
+	'group-editprotected-member' => '{{GENDER:$1|સુરક્ષિત પૃષ્ઠ સંપાદક}}',
 	'group-eliminator-member' => '{{GENDER:$1|નાશક}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|પૂર્વ પ્રબંધક}}',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|પૂર્વ વહીવટી}}',
