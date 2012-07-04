@@ -108,6 +108,21 @@ $messages['gl'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Repositorios Gerrit da Wikimedia',
 );
 
+/** Interlingua (interlingua)
+ * @author McDutchie
+ */
+$messages['ia'] = array(
+	'wikimedialabsmessages-desc' => 'Messages de Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Repositorios Gerrit de Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Repositorios Gerrit de Wikimedia Continuous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Repositorios Gerrit de MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Repositorios Gerrit del extensiones de MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios Gerrit del instrumentos de MediaWiki',
+	'gerrittools-repogroup-operations' => 'Repositorios Gerrit de Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Repositorios Gerrit de test',
+	'gerrittools-repogroup-wikimedia' => 'Repositorios Gerrit de Wikimedia',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
