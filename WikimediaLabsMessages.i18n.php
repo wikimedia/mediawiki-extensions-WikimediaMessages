@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 /**
  * Internationalisation file for extension Wikimedia Labs Messages
@@ -18,7 +17,6 @@ $messages['en'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'MediaWiki Tool Gerrit repositories',
 	'gerrittools-repogroup-operations' => 'Wikimedia Operations Gerrit repositories',
 	'gerrittools-repogroup-test' => 'Test Gerrit repositories',
-	'gerrittools-repogroup-translatewiki' => 'Translatewiki.net Gerrit repostories',
 	'gerrittools-repogroup-wikimedia' => 'Wikimedia Gerrit repositories',
 );
 
@@ -32,7 +30,6 @@ $messages['qqq'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit repositories for MediaWiki tools',
 	'gerrittools-repogroup-operations' => 'Gerrit repositories for Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Gerrit repositories for testing',
-	'gerrittools-repogroup-translatewiki' => 'Gerrit repostories for Translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Gerrit repositories for Wikimedia projects',
 );
 
@@ -212,3 +209,4 @@ $messages['vi'] = array(
 	'wikimedialabsmessages-desc' => 'Thông điệp Wikimedia Labs',
 	'gerrittools-repogroup-analytics' => 'Kho Gerrit của Wikimedia Analytics',
 );
+
