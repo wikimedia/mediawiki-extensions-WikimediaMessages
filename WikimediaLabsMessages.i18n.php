@@ -62,6 +62,7 @@ $messages['de'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit-Repositorien für MediaWiki-Hilfsprogramme',
 	'gerrittools-repogroup-operations' => 'Gerrit-Repositorien für Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Gerrit-Repositorien für Test',
+	'gerrittools-repogroup-translatewiki' => 'Gerrit-Repositorien für translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Gerrit-Repositorien für Wikimedia',
 );
 
@@ -107,6 +108,7 @@ $messages['gl'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios Gerrit das ferramentas de MediaWiki',
 	'gerrittools-repogroup-operations' => 'Repositorios Gerrit da Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Repositorios Gerrit de probas',
+	'gerrittools-repogroup-translatewiki' => 'Repositorios Gerrit de translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Repositorios Gerrit da Wikimedia',
 );
 
@@ -122,6 +124,7 @@ $messages['ia'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios Gerrit del instrumentos de MediaWiki',
 	'gerrittools-repogroup-operations' => 'Repositorios Gerrit de Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Repositorios Gerrit de test',
+	'gerrittools-repogroup-translatewiki' => 'Repositorios Gerrit de translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Repositorios Gerrit de Wikimedia',
 );
 
@@ -187,6 +190,13 @@ $messages['nl'] = array(
 	'gerrittools-repogroup-operations' => 'Gerritrepositories voor Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Gerritrepositories voor Test',
 	'gerrittools-repogroup-wikimedia' => 'Gerritrepositories voor Wikimedia',
+);
+
+/** Polish (polski)
+ * @author Woytecr
+ */
+$messages['pl'] = array(
+	'wikimedialabsmessages-desc' => 'Komunikaty Wikimedia Labs',
 );
 
 /** Tagalog (Tagalog)
