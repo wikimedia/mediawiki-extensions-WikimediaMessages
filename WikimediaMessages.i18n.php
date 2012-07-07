@@ -7443,6 +7443,7 @@ $messages['ksh'] = array(
 	'grouppage-steward' => 'm:Stewards/ksh',
 	'grouppage-Global_bot' => 'm:Global bot/ksh',
 	'grouppage-Global_rollback' => 'm:Global rollback/ksh',
+	'grouppage-Global_sysops' => 'm:Global sysops/ksh',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/ksh',
 	'group-translationadmin' => 'Övversäzongsverwalldere',
 	'group-translationadmin-member' => '{{GENDER:$1Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder}}',
@@ -7458,6 +7459,7 @@ $messages['ksh'] = array(
 	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [//creativecommons.org/licenses/by-sa/3.0/deed.de Lizänz <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße, Version 3.0] un de [//www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [//wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
 	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [//wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 	'cant-delete-main-page' => 'Do kanns de Houpsigg nit ömdäufe udder fott schmieße.',
+	'wikimedia-translationnotifications-signup-legal' => 'Do bes enverstande domet, dat de Wikkimeedija Schteftong met Der en ene Kumtak trädde darref wääje Ding Övversäzonge udder ander Saache, di met dä Wikkimeedia-Bewääjong ze donn han, woh mer vun meint, dat di för Desch interßant sin künnte. Do bes enverschtande, dat Daate övver Desch en der Vereineschte Schtaate vun Ammärrika faßjehallde wääde künne un onger der Schteftong ier [https://wikimediafoundation.org/wiki/Privacy_policy Rääjelle för pevaate Daate] schtonn. Wann De domet nit enverschtande bes, donn heh nix enjävve.',
 );
 
 /** Kurdish (Latin script) (‪Kurdî (latînî)‬)

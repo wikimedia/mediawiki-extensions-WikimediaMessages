@@ -67,6 +67,7 @@ $messages['de'] = array(
 );
 
 /** Spanish (español)
+ * @author Armando-Martin
  * @author Mr.Ajedrez
  */
 $messages['es'] = array(
@@ -78,6 +79,7 @@ $messages['es'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios de Gerrit de herramientas de MediaWiki',
 	'gerrittools-repogroup-operations' => 'Repositorios de Gerrit de Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Repositorios de Gerrit de prueba',
+	'gerrittools-repogroup-translatewiki' => 'Repositorios Gerrit de translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Repositorios de Gerrit de Wikimedia',
 );
 
@@ -140,6 +142,7 @@ $messages['it'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Repository di MediaWiki Tool Gerrit',
 	'gerrittools-repogroup-operations' => 'Repository di Wikimedia Operations Gerrit',
 	'gerrittools-repogroup-test' => 'Repository di Test Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Repository di Translatewiki.net Gerrit',
 	'gerrittools-repogroup-wikimedia' => 'Repository di Wikimedia Gerrit',
 );
 
@@ -174,6 +177,7 @@ $messages['mk'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit-складишта за МедијаВики Алатки',
 	'gerrittools-repogroup-operations' => 'Gerrit-складишта за Викимедиините операции',
 	'gerrittools-repogroup-test' => 'Gerrit-складишта за проби',
+	'gerrittools-repogroup-translatewiki' => 'Gerrit-складишта за Translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Gerrit-складишта за Викимедија',
 );
 
@@ -211,6 +215,7 @@ $messages['tl'] = array(
 	'gerrittools-repogroup-mediawiki/tools' => 'Mga repositoryong Gerrit ng MediaWiki Tool',
 	'gerrittools-repogroup-operations' => 'Mga repositoryong Gerrit ng mga Operasyon ng Wikimedia',
 	'gerrittools-repogroup-test' => 'Mga repositoryong Gerrit na pangsubok',
+	'gerrittools-repogroup-translatewiki' => 'Mga repositoryong Gerrit ng Translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Mga repositoryong Gerrit ng Wikimedia',
 );
 
