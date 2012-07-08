@@ -4303,6 +4303,7 @@ $messages['io'] = array(
 
 /** Icelandic (íslenska)
  * @author Diebuche
+ * @author Spacebirdy
  */
 $messages['is'] = array(
 	'wm-license-fsf-wiki-link' => 'w:is:Frjálsa hugbúnaðarstofnunin',
@@ -4316,6 +4317,7 @@ $messages['is'] = array(
 	'wm-license-information-permission' => 'Réttindi',
 	'wm-license-information-permission-see-below' => 'See below.',
 	'wm-license-information-other-versions' => 'Aðrar útgáfur',
+	'wm-license-own-work' => 'eigin skrá',
 );
 
 /** Italian (italiano)
@@ -4339,7 +4341,7 @@ $messages['it'] = array(
 	'wm-license-attribution-without-author-text' => "Il detentore del copyright di questo file permette a chiunque di utilizzarlo '''per qualsiasi scopo, a condizione che''' il detentore del copyright venga riconosciuto come tale. Sono consentiti la redistribuzione, la modifica, l'uso commerciale ed ogni altro utilizzo.",
 	'wm-license-artwork-artist' => 'Artista',
 	'wm-license-artwork-title' => 'Titolo',
-	'wm-license-artwork-medium' => 'Tecnica',
+	'wm-license-artwork-medium' => 'Tecnica/materiale',
 	'wm-license-artwork-dimensions' => 'Dimensioni',
 	'wm-license-artwork-current-location' => 'Ubicazione attuale',
 	'wm-license-artwork-object-history' => 'Provenienza',
