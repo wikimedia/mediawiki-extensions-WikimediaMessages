@@ -934,9 +934,12 @@ $messages['arc'] = array(
 	'grouppage-founder' => '{{ns:project}}:ܫܬܐܣܢ̈ܐ',
 	'grouppage-import' => '{{ns:project}}:ܡܥܠܢ̈ܐ',
 	'group-sysadmin' => 'ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ',
+	'group-inactive' => 'ܡܦܠܚܢ̈ܐ ܠܐ ܙܪ̈ܝܙܐ',
 	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
 ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
+	'wikimedia-copyrightwarning' => 'ܒܕܝܫܐ ܥܠ ܦܪܡܝܬܐ ܕ "{{int:savearticle}}"، ܬܫܬܘܕܝ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܕܠܐ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܦܣܣܘܬܐ ܕGNU ܕܐܫܛܪܘܬܐ ܚܐܪܬܐ].
+ܐܫܬܘܕܝ ܐܢܬ ܕܡܬܡܠܝܢܬܐ ܐܝܬܝܗ ܒܝܬܝܘܬܐ ܕܐܣܘܪܐ ܡܫܥܠܝܐ  ܐܘ ܫܒܝܠܐ ܕܦܐܬܐ ܬܚܝܬ ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ.',
 );
 
 /** Araucanian (mapudungun)
