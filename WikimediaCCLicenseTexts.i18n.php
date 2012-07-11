@@ -8281,6 +8281,7 @@ $messages['ka'] = array(
 /** Khmer (ភាសាខ្មែរ)
  * @author Multichill
  * @author គីមស៊្រុន
+ * @author វ័ណថារិទ្ធ
  */
 $messages['km'] = array(
 	'wm-license-cc-attribution' => 'ភាពជាម្ចាស់កម្មសិទ្ធ',
@@ -8465,6 +8466,7 @@ $messages['km'] = array(
 	'wm-license-cc-free-to-remix-header' => 'កែច្នៃ',
 	'wm-license-cc-free-to-remix-text' => 'កែច្នៃយកទៅប្រើ',
 	'wm-license-cc-conditions' => 'ក្រោមលក្ខខណ្ឌដូចតទៅនេះ៖',
+	'wm-license-cc-conditions-attribution-header' => 'ភាពជាម្ចាស់កម្មសិទ្ធ',
 );
 
 /** Korean (한국어)
