@@ -615,7 +615,7 @@ $messages['aln'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Nëse keni ndryshuar, transformuar, apo ndërtimin e kësaj pune, ju mund të shpërndani punën rezultuar vetëm nën licencën njëjta ose të ngjashme me këtë.',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Diebuche
  * @author Juanpabl
  */
@@ -1218,7 +1218,7 @@ il',
 	'wm-license-cc-conditions-share_alike-header' => 'bənzər paylaşma',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  * @author Comp1089
  * @author Haqmar
@@ -1427,7 +1427,7 @@ $messages['be'] = array(
 	'wm-license-cc-by-sa-3.0-text' => 'Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.be Attribution-Share Alike 3.0 Unported]',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -2811,7 +2811,7 @@ $messages['cs'] = array(
 	'wm-license-cc-pd-mark-text' => 'Bylo zjištěno, že u tohoto souboru nejsou známa žádná omezení daná autorským právem a právy s ním souvisejícími.',
 );
 
-/** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
@@ -3651,7 +3651,7 @@ $messages['diq'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Eka ti wazena ena gure/dosya bivurne, ti gani bine eyni lisansi de gure/dosya xo vila bike.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  * @author Multichill
  */
@@ -5450,7 +5450,7 @@ $messages['ga'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Má athraíonn tú nó síneann tú amach an saothar seo, ní féidir é a dháileadh ach amhaín faoin gceadúnas céanna nó ceann cosúil leis an gceann seo.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -6617,7 +6617,7 @@ $messages['hr'] = array(
 	'wm-license-cc-pd-mark-text' => 'Ova datoteka je identificirana kao slobodna od poznatih ograničenja po zakonu o autorskim pravima, uključujući sva povezana i srodna prava.',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  * @author Multichill
  */
@@ -8668,7 +8668,7 @@ $messages['ko'] = array(
 	'wm-license-cc-pd-mark-text' => '이 파일은 저작권법상에서의 알려진 제한 사항(모든 관련된 권리와 저작인접권을 포함)이 없는 것으로 간주되었습니다.',
 );
 
-/** Karachay-Balkar (Къарачай-Малкъар)
+/** Karachay-Balkar (къарачай-малкъар)
  * @author Iltever
  */
 $messages['krc'] = array(
@@ -10713,7 +10713,7 @@ $messages['nah'] = array(
 	'wm-license-cc-free' => 'Tihuelitiz:',
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Diebuche
  * @author Event
  * @author Finnrind
@@ -13118,7 +13118,7 @@ $messages['ru'] = array(
 	'wm-license-cc-pd-mark-text' => 'Этот файл был определён как свободный от известных ограничений авторского права, а также связанных и смежных прав.',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
@@ -16169,7 +16169,7 @@ $messages['vec'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Se te àlteri, trasformi, o te costruissi qualcosa da sta opera, te poli distribuir el laoro risultante solo soto la stessa licensa o una che ghe someja.',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(

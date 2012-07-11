@@ -622,7 +622,7 @@ $messages['am'] = array(
 	'group-founder-member' => 'መስራች',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  * @author Nemo bis
  */
@@ -1278,7 +1278,7 @@ Si esti escritu nun ye tuyu, tien de tar disponible baxo condiciones compatibles
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 );
 
-/** Avaric (Авар) */
+/** Avaric (авар) */
 $messages['av'] = array(
 	'sitesupport' => 'Садакъа',
 );
@@ -1388,7 +1388,7 @@ $messages['az'] = array(
 Ətraflı məlumat üçün <a href="//wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  * @author Comp1089
  * @author Haqmar
@@ -1588,7 +1588,7 @@ $messages['be'] = array(
 Калі вы самі не пісалі гэтага тэксту, ён мусіць быць даступным на ўмовах, якія сумяшчальныя з [//wikimediafoundation.org/wiki/Terms_of_Use Умовамі карыстання], а вы мусіце даць згоду на ўсе наступныя змяненні ліцэнзійных патрабаванняў, якія маюць дачыненне да гэтага тэксту.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Cesco
  * @author EugeneZelenko
  * @author Jim-by
@@ -2371,7 +2371,7 @@ $messages['cdo'] = array(
 	'sitesupport' => 'Dà̤-giŏng',
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -2460,7 +2460,7 @@ $messages['co'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
-/** Crimean Turkish (Latin script) (‪Qırımtatarca (Latin)‬)
+/** Crimean Turkish (Latin script) (‪qırımtatarca (Latin)‬)
  * @author Don Alessandro
  */
 $messages['crh-latn'] = array(
@@ -2471,7 +2471,7 @@ $messages['crh-latn'] = array(
 Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan olsa, şu metinniñ yerleştirilüvi [//wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]na uyğun olmalı, ve siz litsenziyanıñ bütün kerekli talaplarınen razı olmalısıñız.',
 );
 
-/** Crimean Turkish (Cyrillic script) (‪Къырымтатарджа (Кирилл)‬)
+/** Crimean Turkish (Cyrillic script) (‪къырымтатарджа (Кирилл)‬)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
@@ -2604,7 +2604,7 @@ $messages['cs'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
 );
 
-/** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author Nemo bis
  * @author ОйЛ
  */
@@ -3141,7 +3141,7 @@ eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[//wikimediafou
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  * @author Nemo bis
  * @author Pe7er
@@ -4818,7 +4818,7 @@ $messages['gd'] = array(
 	'sitesupport' => 'Tabhartasan',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Meno25
  * @author Toliño
@@ -7037,7 +7037,7 @@ $messages['kk-arab'] = array(
 	'sitesupport' => 'دەمەۋشىلىك',
 );
 
-/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬)
+/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬)
  * @author AlefZet
  * @author Daniyar
  * @author GaiJin
@@ -7060,7 +7060,7 @@ $messages['kk-cyrl'] = array(
 Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [//wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
-/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'sitesupport' => 'Demewşilik',
 );
@@ -7307,7 +7307,7 @@ $messages['ko'] = array(
 	'wikimedia-translationnotifications-signup-legal' => '당신은 이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 당신의 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
 );
 
-/** Karachay-Balkar (Къарачай-Малкъар)
+/** Karachay-Balkar (къарачай-малкъар)
  * @author Iltever
  */
 $messages['krc'] = array(
@@ -8050,7 +8050,7 @@ $messages['map-bms'] = array(
 	'sitesupport' => 'Sumbang dana',
 );
 
-/** Moksha (Мокшень)
+/** Moksha (мокшень)
  * @author Kranch
  * @author Numulunj pilgae
  */
@@ -8148,7 +8148,7 @@ $messages['mg'] = array(
 	'wikimedia-copyright' => 'Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">Creative Commons Attribution/Share-Alike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href="//wikimediafoundation.org/wiki/Fepetram-pampiasana">fepetram-pampiasana</a> ho an\'ny antsipirihany.',
 );
 
-/** Eastern Mari (Олык Марий)
+/** Eastern Mari (олык марий)
  * @author Amdf
  */
 $messages['mhr'] = array(
@@ -8566,7 +8566,7 @@ $messages['mr'] = array(
 	'cant-delete-main-page' => 'आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत',
 );
 
-/** Hill Mari (Кырык мары)
+/** Hill Mari (кырык мары)
  * @author Amdf
  */
 $messages['mrj'] = array(
@@ -8784,7 +8784,7 @@ $messages['my'] = array(
 	'tooltip-n-sitesupport' => 'အားပေးပါ',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  * @author Sura
  */
@@ -8853,9 +8853,9 @@ $messages['nap'] = array(
 	'sitesupport' => 'Donazzione',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
+ * @author Event
  * @author Finnrind
- * @author Jon Harald Søby
  * @author Laaknor
  * @author Nghtwlkr
  * @author Stigmj
@@ -8876,8 +8876,11 @@ $messages['nb'] = array(
 	'group-autopatrolled' => 'autopatrollere',
 	'group-autoreviewer' => 'Autogranskede',
 	'group-bigexport' => 'Stor eksport',
+	'group-botadmin' => 'Roboter med administratorrettigheter',
 	'group-confirmed' => 'Bekreftede brukere',
 	'group-editprotected' => 'Redaktører av beskyttede sider',
+	'group-Ex_Administrator' => 'Tidligere administratorer',
+	'group-Ex_Bureaucrat' => 'Tidligere byråkrater',
 	'group-eliminator' => 'Eliminatorer',
 	'group-filemover' => 'Filflyttere',
 	'group-flood' => 'bot-brukere',
@@ -8885,44 +8888,50 @@ $messages['nb'] = array(
 	'group-Image-reviewer' => 'Bildekontrollører',
 	'group-import' => 'Importører',
 	'group-interface_editor' => 'Bidragsytere til grensesnitt',
-	'group-ipblock-exempt' => 'Untatte fra IP-blokkering',
+	'group-ipblock-exempt' => 'Unntatte fra IP-blokkering',
 	'group-OTRS-member' => 'OTRS-medlemmer',
 	'group-patroller' => 'Patruljører',
 	'group-researcher' => 'Forskere',
 	'group-rollbacker' => 'Tilbakestillere',
 	'group-transwiki' => 'Transwiki-importører',
 	'group-trusted' => 'Betrodde brukere',
-	'group-abusefilter-member' => 'redaktør av misbruksfilteret',
-	'group-accountcreator-member' => 'Kontooppretter',
-	'group-arbcom-member' => 'Meglingskomitémedlem',
-	'group-autopatrolled-member' => 'selvpatruljør',
-	'group-autoreviewer-member' => 'autogransket',
-	'group-bigexport-member' => 'stor eksportør',
-	'group-confirmed-member' => 'bekreftet bruker',
-	'group-editprotected-member' => 'redaktør av beskyttet side',
-	'group-eliminator-member' => 'eliminator',
-	'group-filemover-member' => 'filflytter',
-	'group-flood-member' => 'bot-bruker',
-	'group-founder-member' => 'Grunnlegger',
-	'group-Image-reviewer-member' => 'bildekontrollør',
-	'group-import-member' => 'Importør',
-	'group-interface_editor-member' => 'bidragsyter til grensesnitt',
-	'group-ipblock-exempt-member' => 'Unttatt fra IP-blokkering',
-	'group-OTRS-member-member' => 'OTRS-medlem',
-	'group-patroller-member' => 'patruljør',
-	'group-researcher-member' => 'forsker',
-	'group-rollbacker-member' => 'Tilbakestiller',
-	'group-transwiki-member' => 'Transwiki-importør',
-	'group-trusted-member' => 'betrodd bruker',
+	'group-abusefilter-member' => '{{GENDER:$1|redaktør for misbruksfilteret}}',
+	'group-accountcreator-member' => '{{GENDER:$1|kontooppretter}}',
+	'group-arbcom-member' => '{{GENDER:$1|medlem av forlikskomiteen}}',
+	'group-autopatrolled-member' => '{{GENDER:$1|selvpatruljør}}',
+	'group-autoreviewer-member' => '{{GENDER:$1|selvreviderer}}',
+	'group-bigexport-member' => '{{GENDER:$1|stor eksportør}}',
+	'group-botadmin-member' => '{{GENDER:$1|robot med administratorrettigheter}}',
+	'group-confirmed-member' => '{{GENDER:$1|bekreftet bruker}}',
+	'group-editprotected-member' => '{{GENDER:$1|redaktør av beskyttede sider}}',
+	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|tidligere administrator}}',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|tidligere byråkrat}}',
+	'group-filemover-member' => '{{GENDER:$1|filflytter}}',
+	'group-flood-member' => '{{GENDER:$1|robotbruker}}',
+	'group-founder-member' => '{{GENDER:$1|grunnlegger}}',
+	'group-Image-reviewer-member' => '{{GENDER:$1|bildereviderer}}',
+	'group-import-member' => '{{GENDER:$1|importør}}',
+	'group-interface_editor-member' => '{{GENDER:$1|grensesnittredakør}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|unntatt fra IP-blokkering}}',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS-medlem}}',
+	'group-patroller-member' => '{{GENDER:$1|patruljør}}',
+	'group-researcher-member' => '{{GENDER:$1|forsker}}',
+	'group-rollbacker-member' => '{{GENDER:$1|tilbakestiller}}',
+	'group-transwiki-member' => '{{GENDER:$1|transwikiimportør}}',
+	'group-trusted-member' => '{{GENDER:$1|betrodd bruker}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Redaktører av misbruksfilteret',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettere',
 	'grouppage-arbcom' => '{{ns:project}}:Meglingskomitémedlemmer',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patruljering',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatisk gransket',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportører',
+	'grouppage-botadmin' => '{{ns:project}}:Roboter med administratorrettigheter',
 	'grouppage-confirmed' => '{{ns:project}}:Bekreftede brukere',
 	'grouppage-editprotected' => '{{ns:project}}:Redaktører av beskyttede sider',
 	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Tidligere administratorer',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Tidligere byråkrater',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
 	'grouppage-flood' => '{{ns:project}}:Bot-brukere',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggere',
@@ -8943,24 +8952,28 @@ $messages['nb'] = array(
 	'group-Global_sysops' => 'Global sysop',
 	'group-Ombudsmen' => 'Ombudsmenn',
 	'group-Staff' => 'Ansatte',
-	'group-steward-member' => 'forvalter',
-	'group-sysadmin-member' => 'systemadministrator',
-	'group-editinterface-member' => 'grensesnittredigerer',
-	'group-Global_bot-member' => 'global robot',
-	'group-Global_rollback-member' => 'global tilbakestiller',
-	'group-Global_sysops-member' => 'global sysop',
-	'group-Ombudsmen-member' => 'ombudsmann',
+	'group-steward-member' => '{{GENDER:$1|forvalter}}',
+	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
+	'group-editinterface-member' => '{{GENDER:$1|grensesnittredaktør}}',
+	'group-Global_bot-member' => '{{GENDER:$1|global robot}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|global tilbakestiller}}',
+	'group-Global_sysops-member' => '{{GENDER:$1|global administrator}}',
+	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsmann}}',
 	'group-Staff-member' => 'ansatt',
 	'grouppage-steward' => 'm:Stewards/nb',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
+	'group-translationadmin' => 'Oversettelsesadministratorer',
+	'group-translationadmin-member' => '{{GENDER:$1|oversettelsesadministrator}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Oversettelsesadministratorer',
 	'group-coder' => 'Kodere',
-	'group-coder-member' => 'koder',
+	'group-coder-member' => '{{GENDER:$1|programmerer}}',
 	'group-inactive' => 'Inaktive brukere',
-	'group-inactive-member' => 'inaktiv bruker',
+	'group-inactive-member' => '{{GENDER:$1|inaktiv bruker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
 	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
 	'wikimedia-copyrightwarning' => 'Når du lagrer innvilger du ugjenkallelig å gi ut ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du går også med på å bli angitt som en opphavsperson av gjenbrukere, som et minimum, gjennom en hyperlenke eller URL til artikkelen du bidro til. Se [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene] for flere opplysninger.',
 	'wikimedia-editpage-tos-summary' => 'Ønsker du ikke at verket ditt blir redigert og redistribuert, skal du ikke lagre det her. Har du ikke selv skrevet det, skal det være tilgjengelig under betingelsene i overensstemmelse med [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og du bekrefter å følge alle relevante lisenskrav.',
+	'cant-delete-main-page' => 'Du kan ikke slette eller flytte hovedsiden.',
 );
 
 /** Low German (Plattdüütsch)
@@ -10908,7 +10921,7 @@ $messages['ru'] = array(
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  * @author Krinkle
  */
@@ -11269,7 +11282,7 @@ $messages['sei'] = array(
 	'tooltip-n-sitesupport' => 'Donacíonhuíiitl',
 );
 
-/** Samogitian (Žemaitėška)
+/** Samogitian (žemaitėška)
  * @author Hugo.arg
  * @author Zordsdavini
  */
@@ -12370,7 +12383,7 @@ Tazama maelezo zaidi ya [//wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya 
 Ikiwa hukuandika mchango huu mwenyewe, lazima upatikane chini ya matakwa yanayolingana na [//wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji] yanayotumika hapa, na unakubali kufuata matakwa yeyote ya leseni yake.',
 );
 
-/** Silesian (Ślůnski)
+/** Silesian (ślůnski)
  * @author Herr Kriss
  * @author Lajsikonik
  */
@@ -13282,12 +13295,12 @@ $messages['ty'] = array(
 	'sitesupport' => 'Pūpū i te ō',
 );
 
-/** Tuvinian (Тыва дыл) */
+/** Tuvinian (тыва дыл) */
 $messages['tyv'] = array(
 	'sitesupport' => 'Белектер',
 );
 
-/** Udmurt (Удмурт)
+/** Udmurt (удмурт)
  * @author Kaganer
  * @author ОйЛ
  */
@@ -13544,7 +13557,7 @@ $messages['ur'] = array(
 	'group-inactive-member' => 'غیرفعال صارف',
 );
 
-/** Uzbek (Oʻzbekcha) */
+/** Uzbek (oʻzbekcha) */
 $messages['uz'] = array(
 	'sitesupport' => "Loyihaga ko'mak",
 );
@@ -13651,7 +13664,7 @@ $messages['vec'] = array(
 	'wikimedia-editpage-tos-summary' => "Se no te voli che el to testo el possa vegner modificà e ridistribuìo a volontà, alora no sta inserirlo qua. Se no te lo ghè scrito ti, el ga da èssar disponibile a condizioni conpatibili co le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e te acèti de seguir tuti i requisiti de licensa.",
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
@@ -14009,7 +14022,7 @@ $messages['wuu'] = array(
 	'sitesupport' => '捐款',
 );
 
-/** Kalmyk (Хальмг)
+/** Kalmyk (хальмг)
  * @author Huuchin
  */
 $messages['xal'] = array(

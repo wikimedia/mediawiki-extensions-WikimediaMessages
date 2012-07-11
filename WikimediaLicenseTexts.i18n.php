@@ -361,7 +361,7 @@ $messages['am'] = array(
 	'wm-license-information-source' => 'መነሻ፦',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Diebuche
  * @author Juanpabl
  */
@@ -824,7 +824,7 @@ $messages['az'] = array(
 	'wm-license-self-multiple-licenses-select' => 'İstədiyiniz lisenziyanı seçə bilərsiniz.',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  * @author Comp1089
  * @author Haqmar
@@ -959,7 +959,7 @@ $messages['be'] = array(
 	'wm-license-self-one-license' => 'Я, уладальнік аўтарскіх правоў на гэты твор, добраахвотна публікую яго на ўмовах наступнай ліцэнзіі:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -1514,7 +1514,7 @@ $messages['cdo'] = array(
 	'wm-license-information-source' => 'Lài-nguòng',
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -1567,13 +1567,13 @@ $messages['ckb'] = array(
 	'wm-license-self-multiple-licenses-select' => 'دەتوانی مۆڵەتنامەی دڵخوازت ھەڵبژێریت.',
 );
 
-/** Crimean Turkish (Latin script) (‪Qırımtatarca (Latin)‬) */
+/** Crimean Turkish (Latin script) (‪qırımtatarca (Latin)‬) */
 $messages['crh-latn'] = array(
 	'wm-license-information-description' => 'Tasvir',
 	'wm-license-information-source' => 'Menba',
 );
 
-/** Crimean Turkish (Cyrillic script) (‪Къырымтатарджа (Кирилл)‬) */
+/** Crimean Turkish (Cyrillic script) (‪къырымтатарджа (Кирилл)‬) */
 $messages['crh-cyrl'] = array(
 	'wm-license-information-description' => 'Тасвир',
 	'wm-license-information-source' => 'Менба',
@@ -1687,13 +1687,13 @@ $messages['cs'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Můžete si zvolit libovolnou z&nbsp;těchto licencí.',
 );
 
-/** Kashubian (Kaszëbsczi) */
+/** Kashubian (kaszëbsczi) */
 $messages['csb'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:csb:GNU Free Documentation License',
 	'wm-license-information-source' => 'Zdrój',
 );
 
-/** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
@@ -2085,7 +2085,7 @@ $messages['diq'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Ti eskena lisanse xo biwecini.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  * @author Multichill
  */
@@ -3147,7 +3147,7 @@ $messages['gan-hant'] = array(
 	'wm-license-information-source' => '來源',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -3720,7 +3720,7 @@ $messages['hr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Možete odabrati licenciju prema vašem izboru.',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  * @author Multichill
  */
@@ -4683,13 +4683,13 @@ $messages['kk-arab'] = array(
 	'wm-license-information-source' => 'قاينار كوزى',
 );
 
-/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬) */
+/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬) */
 $messages['kk-cyrl'] = array(
 	'wm-license-information-description' => 'Сипаттамасы',
 	'wm-license-information-source' => 'Қайнар көзі',
 );
 
-/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'wm-license-information-description' => 'Sïpattaması',
 	'wm-license-information-source' => 'Qaýnar közi',
@@ -4882,7 +4882,7 @@ $messages['koi'] = array(
 	'wm-license-own-work' => 'Аслам удж',
 );
 
-/** Karachay-Balkar (Къарачай-Малкъар)
+/** Karachay-Balkar (къарачай-малкъар)
  * @author Iltever
  */
 $messages['krc'] = array(
@@ -5443,7 +5443,7 @@ $messages['map-bms'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:map-bms:Lisénsi Dokuméntasi Bébas GNU',
 );
 
-/** Moksha (Мокшень) */
+/** Moksha (мокшень) */
 $messages['mdf'] = array(
 	'wm-license-information-description' => 'Информацие',
 	'wm-license-information-source' => 'Лисьма',
@@ -5920,7 +5920,7 @@ $messages['mwl'] = array(
 	'wm-license-information-source' => 'Fuonte',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -5968,7 +5968,8 @@ $messages['nap'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Chistu documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Na copia d' 'a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d' 'a GNU Free Documentation License]]''.",
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
+ * @author Danmichaelo
  * @author Diebuche
  * @author Event
  * @author Finnrind
@@ -6055,6 +6056,10 @@ $messages['nb'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'I enkelte land kan dette være juridisk umulig. I så fall:',
 	'wm-license-pd-author-self-any-purpose' => "Jeg gir hvem som helst retten til å bruke dette verket '''for ethvert formål''', uten noen vilkår, med mindre slike vilkår kreves ved lov.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 gir hvem som helst retten til å bruke dette verket '''for ethvert formål''', uten noen vilkår, med mindre slike vilkår kreves ved lov.",
+	'wm-license-pd-usgov-fema-text' => "Denne filen er et verk av en ansatt ved [[{{int:wm-license-pd-usgov-fema-wiki-link}}|USAs Federal Emergency Management Agency]], tatt eller skapt innenfor rammene for personens tjenesteutøving. I egenskap av å være et [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USAs føderale regjering]] er filen '''[[{{int:wm-license-pd-wiki-link}}|offentlig eiendom]]'''.",
+	'wm-license-pd-usgov-military-text' => "Denne filen er et verk av en ansatt ved [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|USAs væpnede styrker]] eller [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|USAs forsvarsdepartement]], tatt eller skapt innenfor rammene for personens tjenesteutøving. I egenskap av å være et [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USAs føderale regjering]] er filen '''[[{{int:wm-license-pd-wiki-link}}|offentlig eiendom]]'''.",
+	'wm-license-pd-usgov-military-air-force-text' => "Denne filen er et verk av en flyger eller ansatt ved [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|USAs flyvåpen]], tatt eller skapt innenfor rammene for personens tjenesteutøving. I egenskap av å være et [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USAs føderale regjering]] er filen '''[[{{int:wm-license-pd-wiki-link}}|offentlig eiendom]]'''.",
+	'wm-license-pd-usgov-military-army-text' => "Denna filen er et verk av en soldat eller ansatt ved [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|USAs armé]], tatt eller skapt innenfor rammene for personens tjenesteutøving. I egenskap av å være et [[{{int:wm-license-pd-usgov-work-wiki-link}}|verk]] av [[{{int:wm-license-pd-usgov-wiki-link}}|USAs føderale regjering]] er filen '''[[{{int:wm-license-pd-wiki-link}}|offentlig eiendom]]'''.",
 	'wm-license-pd-wiki-link' => 'w:no:Offentlig eiendom',
 	'wm-license-self-one-license' => 'Jeg, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisens:',
 	'wm-license-self-one-license-with-author' => '$1, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisens:',
@@ -7437,7 +7442,7 @@ $messages['ru'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Вы можете выбрать любую из этих лицензий.',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
@@ -7655,7 +7660,7 @@ $messages['sei'] = array(
 	'wm-license-information-source' => 'Sourcenam',
 );
 
-/** Samogitian (Žemaitėška) */
+/** Samogitian (žemaitėška) */
 $messages['sgs'] = array(
 	'wm-license-information-description' => 'Aprašīms',
 );
@@ -8359,7 +8364,7 @@ $messages['sw'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Unaweza kuchagua leseni unazoziona vyema.',
 );
 
-/** Silesian (Ślůnski) */
+/** Silesian (ślůnski) */
 $messages['szl'] = array(
 	'wm-license-gpl-wiki-link' => 'w:szl:GNU General Public License',
 	'wm-license-information-description' => 'Uopis',
@@ -8836,7 +8841,7 @@ $messages['tt-latn'] = array(
 	'wm-license-information-source' => 'Çığanağı',
 );
 
-/** Tuvinian (Тыва дыл) */
+/** Tuvinian (тыва дыл) */
 $messages['tyv'] = array(
 	'wm-license-information-description' => 'Тодарадып бижээни',
 	'wm-license-information-source' => 'Эгези',
@@ -9043,7 +9048,7 @@ $messages['vec'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Te poli indicar la licensa che te preferissi.',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
@@ -9269,7 +9274,7 @@ $messages['wuu'] = array(
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:wuu:美国空军',
 );
 
-/** Kalmyk (Хальмг) */
+/** Kalmyk (хальмг) */
 $messages['xal'] = array(
 	'wm-license-information-description' => 'Тодлҗ бичлһн',
 );
