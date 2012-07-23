@@ -845,7 +845,7 @@ $messages['ar'] = array(
 	'group-confirmed-member' => '{{GENDER:$1|مستخدم مؤكد|مستخدمة مؤكدة}}',
 	'group-editprotected-member' => '{{GENDER:$1|معدل صفحات محمي}}',
 	'group-eliminator-member' => 'محرر',
-	'group-Ex_Administrator-member' => '{{GENDER:$1|مدير سابق}}',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|إداري سابق|إدارية سابقة}}',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|بيروقراطي سابق}}',
 	'group-filemover-member' => '{{GENDER:$1|ناقل الملفات}}',
 	'group-flood-member' => '{{GENDER:$1|مستخدم بوت}}',
@@ -855,7 +855,7 @@ $messages['ar'] = array(
 	'group-interface_editor-member' => '{{GENDER:$1|محرر الواجهة}}',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|مستثنى من حظر الآيبي}}',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS عضو}}',
-	'group-patroller-member' => '{{GENDER:$1|مدقق}}',
+	'group-patroller-member' => '{{GENDER:$1|مدقق|مدققة}}',
 	'group-researcher-member' => '{{GENDER:$1|باحث|باحثة}}',
 	'group-rollbacker-member' => '{{GENDER:$1|مسترجع}}',
 	'group-transwiki-member' => '{{GENDER:$1|مستورد ويكي الترجمة}}',
@@ -899,7 +899,7 @@ $messages['ar'] = array(
 	'group-Global_rollback-member' => '{{GENDER:$1|مسترجع عام}}',
 	'group-Global_sysops-member' => '{{GENDER:$1|مدير نظام عام}}',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ديوان المظالم}}',
-	'group-Staff-member' => 'عضو من المشرفين',
+	'group-Staff-member' => '{{GENDER:$1|موظف|موظفة}}',
 	'grouppage-steward' => 'm:Stewards/ar',
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
 	'grouppage-Global_sysops' => 'm:Global sysops/ar',
@@ -1036,15 +1036,19 @@ $messages['arz'] = array(
  * @author Bishnu Saikia
  * @author Chaipau
  * @author Gitartha.bordoloi
+ * @author Nilamdyuti
  * @author Psneog
  * @author Rajuonline
  */
 $messages['as'] = array(
 	'wikimediamessages-desc' => 'ৱিকিমিডিয়া নিৰ্ধাৰিত বাৰ্তা',
+	'sitesupport-url' => 'http://wikimediafoundation.org/wiki/Donate/Now/hi?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'দান-বৰঙনি',
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
+	'specialpages-group-contribution' => 'অৱদান/তহবিল সংগ্রাহক',
 	'nstab-creator' => 'সৃষ্টিকৰ্তা',
 	'nstab-institution' => 'প্ৰতিষ্ঠান',
+	'nstab-sequence' => 'ক্রম',
 	'nstab-timedtext' => 'সাময়িক পাঠ্য',
 	'group-abusefilter' => 'অপব্যৱহাৰ ফিল্টাৰ সম্পাদক',
 	'group-accountcreator' => "একাউণ্ট সৃষ্টি কৰা হ'ল",
@@ -1152,6 +1156,7 @@ $messages['as'] = array(
 	'wikimedia-editpage-tos-summary' => 'আপোনাৰ এই লিখনি অন্য কোনো ব্যক্তিয়ে সম্পাদনা আৰু ইচ্ছানুসৰি বিতৰণ কৰাটো নিবিচাৰে, তেন্তে এইখন ইয়াত অন্তৰ্ভুক্ত নকৰিব।
 এই লিখনি যদি আপুনি লিখা নাই, তেন্তে এই [//wikimediafoundation.org/wiki/Terms_of_Use ব্যৱহাৰৰ চৰ্তসমূহৰ] লগত সঙ্গতিপূৰ্ণ কোনো চৰ্তাৱলী অনুযায়ী ব্যৱহাৰযোগ্য হ’ব পাৰে য’ত আপুনি এই সম্পৰ্কীয় যিকোনো অনুজ্ঞাপত্ৰৰ চৰ্তাৱলী পালন কৰাত সন্মতি প্ৰদান কৰিছে।',
 	'cant-delete-main-page' => 'মূল পৃষ্ঠাখন আপুনি বিলোপ বা স্থানান্তৰ কৰিব নোৱাৰে',
+	'wikimedia-translationnotifications-signup-legal' => 'আপুনি ৱিকিমিডিয়া সংগঠনক এই তথ্য প্ৰদান কৰি এই কথাত মান্তি হৈছে যে আমি আপোনাক অনুবাদ জড়িত অথবা আপুনি আগ্ৰহী হোৱা ৱিকিমিডিয়া গতিবিধিৰ সৈতে জড়িত অন্য বিষয়ৰ বাবে যোগাযোগ কৰিব পাৰো। আপুনি মান্তি যে আপোনাৰ তথ্য মাৰ্কিন যুক্তৰাষ্ট্ৰত সংৰক্ষণ কৰা হ’ব পাৰে আৰু আমাৰ [https://wikimediafoundation.org/wiki/Privacy_policy গোপনীয়তা নীতিৰ] অধীনত থাকিব।',
 );
 
 /** Asturian (asturianu)
@@ -1500,11 +1505,9 @@ $messages['ba'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Әүҙем булмаған ҡатнашыусылар',
 	'wikimedia-copyright' => 'Текст <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> рөхсәтнамәһе буйынса рөхсәт ителгән; өҫтәмә шарттар ҡулланыла ала.
 Тулыраҡ мәғлүмәт алыр өсөн, <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ҡулланыу шарттарын</a> ҡарағыҙ.',
-	'wikimedia-copyrightwarning' => 'Үҙгәртеүҙәрегеҙҙе һаҡлаған ваҡытта, һеҙ уларҙың [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] һәм [//www.gnu.org/copyleft/fdl.html GFDL] рөхсәтнамәләре шарттарына ярашлы ҡайтарыуһыҙ баҫтырып сығарылыуы менән ризалашаһығыҙ.
-Һеҙ, һеҙ үҙгәрткән бит ҡулланылған ваҡытта, һеҙгә кәмендә һылтанма аша йәки биттең URL адресы аша һылтанасаҡтары менән ризалашаһығыҙ.
-Тулыраҡ мәғлүмәт алыр өсөн, [//wikimediafoundation.org/wiki/Terms_of_Use Ҡулланыу шарттарын] ҡарағыҙ.',
-	'wikimedia-editpage-tos-summary' => 'Әгәр һеҙ үҙгәртеүҙәрегеҙҙең теләгән бер кеше тарафынан ирекле мөхәррирләнеүен һәм таратылыуын теләмәһәгеҙ, бында уларҙы ебәрмәгеҙ.
-Әгәр һеҙ был үҙгәртеүҙәрҙе үҙегеҙ яҙмаһағыҙ, улар [//wikimediafoundation.org/wiki/Terms_of_Use Ҡулланыу шарттарына] ярашлы рөхсәт ителгән булырға тейеш, һәм һеҙ рөхсәтнамәнең бөтә бәйле талаптарын үтәргә ризалашаһығыҙ.',
+	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' төймәһенә баҫып һеҙ [//wikimediafoundation.org/wiki/Terms_of_use ҡулланыу шарттары] менән килешәһегеҙ. Шулай уҡ, был мәғлүмәт [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларына ярашлы артабан ирекле таратылыуына ризалыҡ бирәһәгеҙ.  Creative Commons лицензияһының үтәлеү шарты булып, был мәғлүмәткә гиперһылтанма йәки бит URL'ы аша һылтанма ҡуйылыуын таныйһығыҙ.",
+	'wikimedia-editpage-tos-summary' => 'Һеҙ ижад иткән яҙмаларҙы башҡаларҙың үҙгәртеүен йәки ирекле рәүештә таратыуын тәләмәһәгеҙ, бында ҡуймағыҙ.
+Башҡа кешеләр ижад иткән яҙмаларҙы ҡуйғанда, уларҙың [//wikimediafoundation.org/wiki/Terms_of_Use Ҡулланыу шарттарына] ярашлы ирекле ҡулланыуҙа булыуы мотлаҡ, һәм һеҙ рөхсәтнамәнең бөтә талаптарын ҡабул итәһегеҙ була.',
 );
 
 /** Bavarian (Boarisch)
@@ -3139,6 +3142,7 @@ $messages['diq'] = array(
 	'wikimedia-editpage-tos-summary' => 'eke şıma qayil niyê nuşteyê şıma bıvuriyo ya zi vıla nêbiyo tiya ra meşawê.
 eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[//wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
+	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -3261,6 +3265,7 @@ Pśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Crea
 	'wikimedia-editpage-tos-summary' => 'Jolic njocoš, až se twój tekst wobźěłujo a rozdźělujo pó dobrozdaśu, njewózjaw jen how.
 Jolic njejsy to sam spisał, musy pód wuměnjenjami k dispoziciji staś, kótarež makaju se z [//wikimediafoundation.org/wiki/Terms_of_Use wužywańskimi wuměnjenjami], a pśigłosujoš se wótpowědnych licencnych pominanjow źaržaś.',
 	'cant-delete-main-page' => 'Njamóžoš głowny bok wulašowaś abo pśesunuś.',
+	'wikimedia-translationnotifications-signup-legal' => 'Pśez pśepowdawanje toś tych informacijow załožbje Wikimedian Foundation zwólijoš do togo, až móžomy se nastupajucy pśełožki abo druge temy, kótarež gibanje Wikimedije nastupaju, z tobu do zwiska stajiś. Zwólijoš do togo, až twóje daty składuju se w Zjadnośonych statach Ameriki a su pśedmjat našych [https://wikimediafoundation.org/wiki/Privacy_policy pšawidłow priwatnosći].',
 );
 
 /** Divehi (ދިވެހިބަސް) */
@@ -5862,7 +5867,7 @@ $messages['hsb'] = array(
 Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Jeli nochceš, zo so twój tekst po dobrozdaću wobdźěłuje a rozdźěluje, da njewozjew jón tu. Jeli njejsy jón sam spisał, dyrbi pod wuměnjenjemi k dispoziciji stać, kotrež su přezjedne z [//wikimediafoundation.org/wiki/Terms_of_Use wužiwanskimi wuměnjenjemi] a přihłosuješ so po wotpowědnych licencnych žadanjach měć.',
 	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
-	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian foundation zwoliš do toho, zo móžemy so nastupajo překožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stupić. Zwoliš do toho, zo twoje daty so w Zjednocenych statow Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłach priwatnosće].',
+	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian Foundation zwoliš do toho, zo móžemy so nastupajo přełožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stajić. Zwoliš do toho, zo twoje daty so w Zjednocenych statach Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłow priwatnosće].',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -7211,7 +7216,7 @@ $messages['ko'] = array(
 	'group-Ex_Administrator' => '전직 관리자',
 	'group-Ex_Bureaucrat' => '전직 사무관',
 	'group-eliminator' => '삭제자',
-	'group-filemover' => '파일 이름 변경자',
+	'group-filemover' => '파일 이동자',
 	'group-flood' => '봇 사용자',
 	'group-founder' => '설립자',
 	'group-Image-reviewer' => '이미지 리뷰어',
@@ -7221,7 +7226,7 @@ $messages['ko'] = array(
 	'group-OTRS-member' => 'OTRS 사용자',
 	'group-patroller' => '검토자',
 	'group-researcher' => '연구원',
-	'group-rollbacker' => '롤배커',
+	'group-rollbacker' => '되돌리기 기능 사용자',
 	'group-transwiki' => '트랜스위키 임포터',
 	'group-trusted' => '신뢰할수 있는 사용자',
 	'group-abusefilter-member' => '{{GENDER:$1|어뷰즈 필터 편집자}}',
@@ -7236,7 +7241,7 @@ $messages['ko'] = array(
 	'group-eliminator-member' => '{{GENDER:$1|삭제자}}',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|전직 관리자}}',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|전직 사무관}}',
-	'group-filemover-member' => '{{GENDER:$1|파일 이름 변경자}}',
+	'group-filemover-member' => '{{GENDER:$1|파일 이동자}}',
 	'group-flood-member' => '{{GENDER:$1|봇 사용자}}',
 	'group-founder-member' => '{{GENDER:$1|설립자}}',
 	'group-Image-reviewer-member' => '{{GENDER:$1|이미지 리뷰어}}',
@@ -7246,7 +7251,7 @@ $messages['ko'] = array(
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS 사용자}}',
 	'group-patroller-member' => '{{GENDER:$1|검토자}}',
 	'group-researcher-member' => '{{GENDER:$1|연구원}}',
-	'group-rollbacker-member' => '{{GENDER:$1|롤배커}}',
+	'group-rollbacker-member' => '{{GENDER:$1|되돌리기 기능 사용자}}',
 	'group-transwiki-member' => '{{GENDER:$1|트랜스위키 임포터}}',
 	'group-trusted-member' => '{{GENDER:$1|신뢰할수 있는 사용자}}',
 	'grouppage-abusefilter' => '{{ns:project}}:권한 남용 감시 편집자',
@@ -7261,7 +7266,7 @@ $messages['ko'] = array(
 	'grouppage-eliminator' => '{{ns:project}}:삭제자',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:전직 관리자',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:전직 사무관',
-	'grouppage-filemover' => '{{ns:project}}:파일 이름 변경',
+	'grouppage-filemover' => '{{ns:project}}:파일 이동자',
 	'grouppage-flood' => '{{ns:project}}:봇 사용자',
 	'grouppage-founder' => '{{ns:project}}:설립자',
 	'grouppage-Image-reviewer' => '{{ns:project}}:이미지 리뷰어',
@@ -7270,7 +7275,7 @@ $messages['ko'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP 차단 면제',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS 사용자',
 	'grouppage-researcher' => '{{ns:project}}:연구원',
-	'grouppage-rollbacker' => '{{ns:project}}:롤배커',
+	'grouppage-rollbacker' => '{{ns:project}}:되돌리기 기능 사용자',
 	'grouppage-transwiki' => '{{ns:project}}:트랜스위키 임포터',
 	'grouppage-trusted' => '{{ns:project}}:신뢰할수 있는 사용자',
 	'group-steward' => '사무장',
@@ -7891,7 +7896,7 @@ $messages['lt'] = array(
 	'group-autopatrolled-member' => 'autopatrulis',
 	'group-autoreviewer-member' => 'autoperžiūrėtojas',
 	'group-bigexport-member' => 'didieji eksportuotojai',
-	'group-confirmed-member' => 'patvirtintas naudotojas',
+	'group-confirmed-member' => '{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}',
 	'group-editprotected-member' => 'Apsaugotų puslapių redaktorius',
 	'group-flood-member' => 'Robotas',
 	'group-founder-member' => 'įkūrėjai',
@@ -7900,7 +7905,7 @@ $messages['lt'] = array(
 	'group-researcher-member' => 'tyrėjas',
 	'group-rollbacker-member' => 'atmesti',
 	'group-transwiki-member' => 'transwiki įkėlėjai',
-	'group-trusted-member' => 'patikimas vartotojas',
+	'group-trusted-member' => '{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Piktnaudžiavimo filtrų redaktorius',
 	'grouppage-accountcreator' => '{{ns:project}}:Sąskaitų kūrėjai',
 	'grouppage-arbcom' => '{{ns:project}}:Arbitražo komiteto nariai',
@@ -7932,7 +7937,7 @@ $messages['lt'] = array(
 	'group-coder' => 'Koduotojai',
 	'group-coder-member' => 'koduotojas',
 	'group-inactive' => 'Neaktyvūs naudotojai',
-	'group-inactive-member' => 'neaktyvus naudotojas',
+	'group-inactive-member' => '{{GENDER:$1|neaktyvus naudotojas|neaktyvi naudotoja}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktyvūs naudotojai',
 	'wikimedia-copyright' => 'Turinys pateikiamas pagal <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenciją</a>;
 gali galioti kitos nuostatos.
@@ -9559,7 +9564,7 @@ $messages['or'] = array(
 	'group-editinterface' => 'ଇଣ୍ଟରଫେସ ସମ୍ପାଦକଗଣ',
 	'group-Global_bot' => 'ଜଗତ ଆପେଆପେ ଚାଳିତ ସଭ୍ୟଗଣ',
 	'group-Global_rollback' => 'ଜଗତ ରୋଲବ୍ୟାକକାରୀ',
-	'group-Global_sysops' => 'ଜଗତ ପରିଛାଗଣ',
+	'group-Global_sysops' => 'ଜଗତ ପରିଚାଳକଗଣ',
 	'group-Ombudsmen' => 'ଅଭିଯୋଗ ବିଚାରକଗଣ',
 	'group-Staff' => 'କର୍ମଚାରି',
 	'group-steward-member' => '{{GENDER:$1|ଷ୍ଟିୱାର୍ଡ}}',
@@ -9571,9 +9576,9 @@ $messages['or'] = array(
 	'group-Ombudsmen-member' => '{{GENDER:$1|ଅଭିଯୋଗ ବିଚାରକ}}',
 	'group-Staff-member' => 'କର୍ମଚାରି',
 	'grouppage-Global_rollback' => 'm:ଜଗତସାରାର ପଛକୁ ଫେରାଇବା ଅଧିକାର',
-	'group-translationadmin' => 'ଅନୁବାଦ ପରିଛାଗଣ',
+	'group-translationadmin' => 'ଅନୁବାଦ ପରିଚାଳକଗଣ',
 	'group-translationadmin-member' => '{{GENDER:$1|ଅନୁବାଦ ପରିଚାଳକ}}',
-	'grouppage-translationadmin' => '{{ns:project}}:ଅନୁବାଦ ପରିଛାଗଣ',
+	'grouppage-translationadmin' => '{{ns:project}}:ଅନୁବାଦ ପରିଚାଳକଗଣ',
 	'group-coder' => 'କୋଡ଼ ଗଢ଼ାଳିଗଣ',
 	'group-coder-member' => '{{GENDER:$1|କୋଡ଼ ଗଢ଼ାଳି}}',
 	'grouppage-coder' => 'Project:କୋଡ଼ ଗଢ଼ାଳି',

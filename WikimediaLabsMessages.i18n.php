@@ -60,7 +60,8 @@ $messages['de'] = array(
 	'gerrittools-repogroup-analytics' => 'Gerrit-Repositorien für Wikimedia Analytics',
 	'gerrittools-repogroup-integration' => 'Gerrit-Repositorien für Wikimedia Continuous Integration',
 	'gerrittools-repogroup-mediawiki' => 'Gerrit-Repositorien für MediaWiki',
-	'gerrittools-repogroup-mediawiki/extensions' => 'Gerrit-Repositorien für MediaWiki-Softwareerweiterungen',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Gerrit-Repositorien für MediaWiki-Programmerweiterungen',
+	'gerrittools-repogroup-mediawiki/packages' => 'Gerrit-Repositorien für MediaWiki-Paketquellen',
 	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit-Repositorien für MediaWiki-Hilfsprogramme',
 	'gerrittools-repogroup-operations' => 'Gerrit-Repositorien für Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Gerrit-Repositorien für Test',
@@ -114,6 +115,13 @@ $messages['gl'] = array(
 	'gerrittools-repogroup-test' => 'Repositorios Gerrit de probas',
 	'gerrittools-repogroup-translatewiki' => 'Repositorios Gerrit de translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Repositorios Gerrit da Wikimedia',
+);
+
+/** Hebrew (עברית)
+ * @author Inkbug
+ */
+$messages['he'] = array(
+	'wikimedialabsmessages-desc' => 'הודעות מעבדות ויקימדיה',
 );
 
 /** Interlingua (interlingua)
