@@ -88,16 +88,20 @@ $messages['es'] = array(
 
 /** French (français)
  * @author Boniface
+ * @author Gomoko
+ * @author Wyz
  */
 $messages['fr'] = array(
 	'wikimedialabsmessages-desc' => 'Messages de Wikimedia Labs',
 	'gerrittools-repogroup-analytics' => 'Dépôts de Wikimedia Analytics Gerrit',
 	'gerrittools-repogroup-integration' => 'Dépôts de Wikimedia Continuous Integration Gerrit',
 	'gerrittools-repogroup-mediawiki' => 'Dépôts de MediaWiki Gerrit',
-	'gerrittools-repogroup-mediawiki/extensions' => 'Dépôts de MediaWiki extension Gerrit',
-	'gerrittools-repogroup-mediawiki/tools' => 'Dépôts de MediaWiki Tool Gerrit',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Dépôts Gerrit d’extension MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Dépôts Gerrit de paquet MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Dépôts Gerrit de MediaWiki Tool',
 	'gerrittools-repogroup-operations' => 'Dépôts de Wikimedia Operations Gerrit',
 	'gerrittools-repogroup-test' => 'Dépôts de Test Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Référentiels Gerrit de translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Dépôts de Wikimedia Gerrit',
 );
 

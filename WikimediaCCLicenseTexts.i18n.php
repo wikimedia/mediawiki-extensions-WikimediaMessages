@@ -7116,7 +7116,7 @@ $messages['ia'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Tu debe attribuer le obra del maniera specificate per le autor o licentiator (ma non de alcun modo que suggere que illes approba te o tu uso del obra).',
 	'wm-license-cc-conditions-share_alike-header' => 'divider equalmente',
 	'wm-license-cc-conditions-share_alike-text' => 'Si tu altera, transforma o disveloppa iste obra, tu pote distribuer le obra resultante solmente sub le mesme licentia o un similar a iste.',
-	'wm-license-cc-pd-mark-text' => 'Iste file ha essite identificate como esser libere de restrictiones cognoscite sub lege de copyright, includente tote le derectos connexe e vicin.',
+	'wm-license-cc-pd-mark-text' => 'Iste file ha essite identificate como essente libere de restrictiones cognoscite sub lege de copyright, incluse tote le derectos connexe e vicin.',
 );
 
 /** Indonesian (Bahasa Indonesia)
