@@ -1308,6 +1308,7 @@ $messages['ay'] = array(
  * @author Vugar 1981
  */
 $messages['az'] = array(
+	'sitesupport-url' => '//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=20120717SB001&uselang=az',
 	'sitesupport' => 'Maddi kömək',
 	'tooltip-n-sitesupport' => 'Bizə dəstək verin',
 	'nstab-creator' => 'Yaradıcı',
@@ -9160,7 +9161,7 @@ $messages['new'] = array(
  */
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Berichten voor Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Giften',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Giften?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Ondersteun ons financieel',
 	'specialpages-group-contribution' => 'Giften/Fondsenwervingsactie',
