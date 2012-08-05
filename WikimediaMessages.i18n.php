@@ -5551,6 +5551,7 @@ $messages['hi'] = array(
 );
 
 /** Fiji Hindi (Latin script) (Fiji Hindi)
+ * @author Brijlal
  * @author Girmitya
  * @author Thakurji
  */
@@ -5566,8 +5567,10 @@ $messages['hif-latn'] = array(
 	'grouppage-abusefilter' => '{{ns:project}}:Abuse filter ke badle waala',
 	'grouppage-bigexport' => '{{ns:project}}:Barraa exporter kare waala',
 	'group-inactive' => 'Sadasya jon ki abhi haali koi edit nai karis hai',
-	'group-inactive-member' => 'Sadasya jon ki abhi haali ekko edit nai karis hai',
+	'group-inactive-member' => '
+{{GENDER:$1|Sadasya jon ki abhi haali ekko edit nai karis hai}}',
 	'grouppage-inactive' => '{{ns:project}}:Sadasya jon ki abhi haali ekko edit nai karin hai',
+	'cant-delete-main-page' => 'Aap pahila pana ke mitae nai to hatae nai saktaa hae',
 );
 
 /** Hiligaynon (Ilonggo)

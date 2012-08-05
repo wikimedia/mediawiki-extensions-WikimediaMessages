@@ -204,9 +204,11 @@ $messages['nl'] = array(
 	'gerrittools-repogroup-integration' => 'Gerritrepositories voor Wikimedia Continuous Integration',
 	'gerrittools-repogroup-mediawiki' => 'Gerritrepositories voor MediaWiki',
 	'gerrittools-repogroup-mediawiki/extensions' => 'Gerritrepositories voor MediaWiki-uitbreidingen',
+	'gerrittools-repogroup-mediawiki/packages' => 'Gerritrepositories voor MediaWikipackages',
 	'gerrittools-repogroup-mediawiki/tools' => 'Gerritrepositories voor MediaWikihulpmiddelen',
 	'gerrittools-repogroup-operations' => 'Gerritrepositories voor Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Gerritrepositories voor Test',
+	'gerrittools-repogroup-translatewiki' => 'Gerritrepositories voor translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Gerritrepositories voor Wikimedia',
 );
 
