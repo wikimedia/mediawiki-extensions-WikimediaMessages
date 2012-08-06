@@ -3645,7 +3645,7 @@ $messages['diq'] = array(
 	'wm-license-cc-free-to-remix-header' => 'qe reyna mix kerdişi',
 	'wm-license-cc-free-to-remix-text' => 'qe kabul kerdişi gure',
 	'wm-license-cc-conditions' => 'bine enê şarti:',
-	'wm-license-cc-conditions-attribution-header' => 'attribusyon',
+	'wm-license-cc-conditions-attribution-header' => 'gırêdayış',
 	'wm-license-cc-conditions-attribution-text' => 'Ti gani çime/qeynakê ena gure ya zi hebat bide (feqat yin nieşken ti ra destek bide).',
 	'wm-license-cc-conditions-share_alike-header' => 'ze pay bike',
 	'wm-license-cc-conditions-share_alike-text' => 'Eka ti wazena ena gure/dosya bivurne, ti gani bine eyni lisansi de gure/dosya xo vila bike.',
@@ -15565,6 +15565,7 @@ na isinusukong pangbuong-mundo ang lahat ng kanyang mga karapatan sa akda sa ila
 	'wm-license-cc-conditions-attribution-text' => 'Dapat kang magpatungkol sa akda ayon sa pamamaraang tinukoy ng may-akda o tagapaglinsensya (subalit hindi sa paraang nagmumungkahing tinataguyod ka nila o ng paggamit mo ng akda).',
 	'wm-license-cc-conditions-share_alike-header' => 'pagpapamahaging magkatulad',
 	'wm-license-cc-conditions-share_alike-text' => 'Kapag iniba mo, binago, o nagsagawa sa akdang ito, maaari mong ipamahagi ang kinalabasang akda sa ilalim lamang ng katulad o kahalintulad na lisensyang ito.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.en',
 	'wm-license-cc-pd-mark-text' => 'Nakilala ang talaksan bilang malaya mula sa nalalamang mga paghahangga sa ilalim ng batas sa karapatang-ari, kasama ang lahat ng mga kaugnay at karatig na mga karapatan.',
 );
 
