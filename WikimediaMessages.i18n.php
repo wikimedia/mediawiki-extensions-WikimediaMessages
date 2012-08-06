@@ -39,110 +39,139 @@ $messages['en'] = array(
 	'nstab-timedtext'   => 'TimedText', # Wikimedia Commons
 
 	# Wikimedia specific usergroups
-	'group-abusefilter'           => 'Abuse filter editors',
-	'group-accountcreator'        => 'Account creators',
-	'group-arbcom'                => 'Arbitration committee members',
-	'group-autopatrolled'         => 'Autopatrollers',
-	'group-autoreviewer'          => 'Autoreviewers',
-	'group-bigexport'             => 'Big exporters',
-	'group-botadmin'              => 'Bots with administrator rights',
-	'group-confirmed'             => 'Confirmed users',
-	'group-editprotected'         => 'Protected page editors',
-	'group-Ex_Administrator'      => 'Ex administrators',
-	'group-Ex_Bureaucrat'         => 'Ex bureaucrats',
-	'group-eliminator'            => 'Eliminators',
-	'group-filemover'             => 'File movers',
-	'group-flood'                 => 'Bot users', // http://meta.wikimedia.org/wiki/Meta:Flood_flag
-	'group-founder'               => 'Founders',
-	'group-Image-reviewer'        => 'Image reviewers',
-	'group-import'                => 'Importers',
-	'group-interface_editor'      => 'Interface editors',
-	'group-ipblock-exempt'        => 'IP block exemptions',
-	'group-OTRS-member'           => 'OTRS members',
-	'group-patroller'             => 'Patrollers',
-	'group-researcher'            => 'Researchers',
-	'group-rollbacker'            => 'Rollbackers',
-	'group-transwiki'             => 'Transwiki importers',
-	'group-trusted'               => 'Trusted users',
-
-	'group-abusefilter-member'    => '{{GENDER:$1|abuse filter editor}}',
-	'group-accountcreator-member' => '{{GENDER:$1|account creator}}',
-	'group-arbcom-member'         => '{{GENDER:$1|arbitration committee member}}',
-	'group-autopatrolled-member'  => '{{GENDER:$1|autopatroller}}',
-	'group-autoreviewer-member'   => '{{GENDER:$1|autoreviewer}}',
-	'group-bigexport-member'      => '{{GENDER:$1|big exporter}}',
-	'group-botadmin-member'       => '{{GENDER:$1|bot with administrator rights}}',
-	'group-confirmed-member'      => '{{GENDER:$1|confirmed user}}',
-	'group-editprotected-member'  => '{{GENDER:$1|protected page editor}}',
-	'group-eliminator-member'     => '{{GENDER:$1|eliminator}}',
+	'group-Ex_Administrator'        => 'Ex administrators',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|ex administrator}}',
-	'group-Ex_Bureaucrat-member'  => '{{GENDER:$1|ex bureaucrat}}',
-	'group-filemover-member'      => '{{GENDER:$1|file mover}}',
-	'group-flood-member'          => '{{GENDER:$1|bot user}}',
-	'group-founder-member'        => '{{GENDER:$1|founder}}',
-	'group-Image-reviewer-member' => '{{GENDER:$1|image reviewer}}',
-	'group-import-member'         => '{{GENDER:$1|importer}}',
-	'group-interface_editor-member' => '{{GENDER:$1|interface editor}}',
-	'group-ipblock-exempt-member' => '{{GENDER:$1|IP block exempt}}',
-	'group-OTRS-member-member'    => '{{GENDER:$1|OTRS member}}',
-	'group-patroller-member'      => '{{GENDER:$1|patroller}}',
-	'group-researcher-member'     => '{{GENDER:$1|researcher}}',
-	'group-rollbacker-member'     => '{{GENDER:$1|rollbacker}}',
-	'group-transwiki-member'      => '{{GENDER:$1|transwiki importer}}',
-	'group-trusted-member'        => '{{GENDER:$1|trusted user}}',
+	'grouppage-Ex_Administrator'    => '{{ns:project}}:Ex administrators',
 
-	'grouppage-abusefilter'    => '{{ns:project}}:Abuse filter editors',
-	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
-	'grouppage-arbcom'         => '{{ns:project}}:Arbitration committee members',
-	'grouppage-autopatrolled'  => '{{ns:project}}:Autopatrollers',
-	'grouppage-autoreviewer'   => '{{ns:project}}:Autoreviewers',
-	'grouppage-bigexport'      => '{{ns:project}}:Big exporters',
-	'grouppage-botadmin'       => '{{ns:project}}:Bots with administrator rights',
-	'grouppage-confirmed'      => '{{ns:project}}:Confirmed users',
-	'grouppage-editprotected'  => '{{ns:project}}:Protected page editors',
-	'grouppage-eliminator'     => '{{ns:project}}:Eliminator',
-	'grouppage-Ex_Administrator' => '{{ns:project}}:Ex administrators',
-	'grouppage-Ex_Bureaucrat'  => '{{ns:project}}:Ex bureaucrats',
-	'grouppage-filemover'      => '{{ns:project}}:File movers',
-	'grouppage-flood'          => '{{ns:project}}:Bot users',
-	'grouppage-founder'        => '{{ns:project}}:Founders',
-	'grouppage-Image-reviewer' => '{{ns:project}}:Image reviewers',
-	'grouppage-import'         => '{{ns:project}}:Importers',
-	'grouppage-interface_editor' => '{{ns:project}}:Interface editors',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
+	'group-Ex_Bureaucrat'        => 'Ex bureaucrats',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|ex bureaucrat}}',
+	'grouppage-Ex_Bureaucrat'    => '{{ns:project}}:Ex bureaucrats',
+
+	'group-Image-reviewer'        => 'Image reviewers',
+	'group-Image-reviewer-member' => '{{GENDER:$1|image reviewer}}',
+	'grouppage-Image-reviewer'    => '{{ns:project}}:Image reviewers',
+
+	'group-OTRS-member'        => 'OTRS members',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS member}}',
 	'grouppage-OTRS-member'    => '{{ns:project}}:OTRS members',
-	'grouppage-researcher'     => '{{ns:project}}:Researchers',
-	'grouppage-rollbacker'     => '{{ns:project}}:Rollbackers',
-	'grouppage-transwiki'      => '{{ns:project}}:Transwiki importers',
-	'grouppage-trusted'        => '{{ns:project}}:Trusted users',
+
+	'group-abusefilter'        => 'Abuse filter editors',
+	'group-abusefilter-member' => '{{GENDER:$1|abuse filter editor}}',
+	'grouppage-abusefilter'    => '{{ns:project}}:Abuse filter editors',
+
+	'group-accountcreator'        => 'Account creators',
+	'group-accountcreator-member' => '{{GENDER:$1|account creator}}',
+	'grouppage-accountcreator'    => '{{ns:project}}:Account creators',
+
+	'group-arbcom'        => 'Arbitration committee members',
+	'group-arbcom-member' => '{{GENDER:$1|arbitration committee member}}',
+	'grouppage-arbcom'    => '{{ns:project}}:Arbitration committee members',
+
+	'group-autopatrolled'        => 'Autopatrollers',
+	'group-autopatrolled-member' => '{{GENDER:$1|autopatroller}}',
+	'grouppage-autopatrolled'    => '{{ns:project}}:Autopatrollers',
+
+	'group-autoreviewer'        => 'Autoreviewers',
+	'group-autoreviewer-member' => '{{GENDER:$1|autoreviewer}}',
+	'grouppage-autoreviewer'    => '{{ns:project}}:Autoreviewers',
+
+	'group-bigexport'        => 'Big exporters',
+	'group-bigexport-member' => '{{GENDER:$1|big exporter}}',
+	'grouppage-bigexport'    => '{{ns:project}}:Big exporters',
+
+	'group-botadmin'        => 'Bots with administrator rights',
+	'group-botadmin-member' => '{{GENDER:$1|bot with administrator rights}}',
+	'grouppage-botadmin'    => '{{ns:project}}:Bots with administrator rights',
+
+	'group-confirmed'        => 'Confirmed users',
+	'group-confirmed-member' => '{{GENDER:$1|confirmed user}}',
+	'grouppage-confirmed'    => '{{ns:project}}:Confirmed users',
+
+	'group-editprotected'        => 'Protected page editors',
+	'group-editprotected-member' => '{{GENDER:$1|protected page editor}}',
+	'grouppage-editprotected'    => '{{ns:project}}:Protected page editors',
+
+	'group-eliminator'        => 'Eliminators',
+	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
+	'grouppage-eliminator'    => '{{ns:project}}:Eliminator',
+
+	'group-filemover'        => 'File movers',
+	'group-filemover-member' => '{{GENDER:$1|file mover}}',
+	'grouppage-filemover'    => '{{ns:project}}:File movers',
+
+	'group-flood'        => 'Bot users', // http://meta.wikimedia.org/wiki/Meta:Flood_flag
+	'group-flood-member' => '{{GENDER:$1|bot user}}',
+	'grouppage-flood'    => '{{ns:project}}:Bot users',
+
+	'group-founder'        => 'Founders',
+	'group-founder-member' => '{{GENDER:$1|founder}}',
+	'grouppage-founder'    => '{{ns:project}}:Founders',
+
+	'group-import'        => 'Importers',
+	'group-import-member' => '{{GENDER:$1|importer}}',
+	'grouppage-import'    => '{{ns:project}}:Importers',
+
+	'group-interface_editor'        => 'Interface editors',
+	'group-interface_editor-member' => '{{GENDER:$1|interface editor}}',
+	'grouppage-interface_editor'    => '{{ns:project}}:Interface editors',
+
+	'group-ipblock-exempt'        => 'IP block exemptions',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|IP block exempt}}',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:IP block exemption',
+
+	'group-patroller'        => 'Patrollers',
+	'group-patroller-member' => '{{GENDER:$1|patroller}}',
+	'grouppage-patroller'    => '{{ns:project}}:Patrollers',
+
+	'group-researcher'        => 'Researchers',
+	'group-researcher-member' => '{{GENDER:$1|researcher}}',
+	'grouppage-researcher'    => '{{ns:project}}:Researchers',
+
+	'group-rollbacker'        => 'Rollbackers',
+	'group-rollbacker-member' => '{{GENDER:$1|rollbacker}}',
+	'grouppage-rollbacker'    => '{{ns:project}}:Rollbackers',
+
+	'group-transwiki'        => 'Transwiki importers',
+	'group-transwiki-member' => '{{GENDER:$1|transwiki importer}}',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki importers',
+
+	'group-trusted'        => 'Trusted users',
+	'group-trusted-member' => '{{GENDER:$1|trusted user}}',
+	'grouppage-trusted'    => '{{ns:project}}:Trusted users',
 
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
-	'group-steward'         => 'Stewards',
-	'group-sysadmin'        => 'System administrators',
-	'group-editinterface'   => 'Interface editors',
-	'group-Global_bot'      => 'Global bots',
-	'group-Global_rollback' => 'Global rollbackers',
-	'group-Global_sysops'   => 'Global sysops',
-	'group-Ombudsmen'       => 'Ombudsmen',
-	'group-Staff'           => 'Staff',
+	'group-Global_bot'        => 'Global bots',
+	'group-Global_bot-member' => '{{GENDER:$1|global bot}}',
+	'grouppage-Global_bot'    => 'm:Global bot', # only translate this message to other languages if you have to change it
 
-	'group-steward-member'         => '{{GENDER:$1|steward}}',
-	'group-sysadmin-member'        => '{{GENDER:$1|system administrator}}',
-	'group-editinterface-member'   => '{{GENDER:$1|interface editor}}',
-	'group-Global_bot-member'      => '{{GENDER:$1|global bot}}',
+	'group-Global_rollback'        => 'Global rollbackers',
 	'group-Global_rollback-member' => '{{GENDER:$1|global rollbacker}}',
-	'group-Global_sysops-member'   => '{{GENDER:$1|global sysop}}',
-	'group-Ombudsmen-member'       => '{{GENDER:$1|ombudsman}}',
-	'group-Staff-member'           => '{{GENDER:$1|staff}}',
+	'grouppage-Global_rollback'    => 'm:Global rollback', # only translate this message to other languages if you have to change it
 
-	'grouppage-steward'         => 'm:Stewards', # only translate this message to other languages if you have to change it
-	'grouppage-sysadmin'        => 'm:System administrators', # only translate this message to other languages if you have to change it
-	'grouppage-Global_bot'      => 'm:Global bot', # only translate this message to other languages if you have to change it
-	'grouppage-Global_rollback' => 'm:Global rollback', # only translate this message to other languages if you have to change it
-	'grouppage-Global_sysops'   => 'm:Global sysops', # only translate this message to other languages if you have to change it
-	'grouppage-Ombudsmen'       => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
-	'grouppage-Staff'           => 'Foundation:Staff', # only translate this message to other languages if you have to change it
+	'group-Global_sysops'        => 'Global sysops',
+	'group-Global_sysops-member' => '{{GENDER:$1|global sysop}}',
+	'grouppage-Global_sysops'    => 'm:Global sysops', # only translate this message to other languages if you have to change it
+
+	'group-Ombudsmen'        => 'Ombudsmen',
+	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsman}}',
+	'grouppage-Ombudsmen'    => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
+
+	'group-Staff'        => 'Staff',
+	'group-Staff-member' => '{{GENDER:$1|staff}}',
+	'grouppage-Staff'    => 'Foundation:Staff', # only translate this message to other languages if you have to change it
+
+	'group-editinterface'        => 'Interface editors',
+	'group-editinterface-member' => '{{GENDER:$1|interface editor}}',
+	'grouppage-editinterface'    => 'm:Editinterface', # only translate this message to other languages if you have to change it
+
+	'group-steward'        => 'Stewards',
+	'group-steward-member' => '{{GENDER:$1|steward}}',
+	'grouppage-steward'    => 'm:Stewards', # only translate this message to other languages if you have to change it
+
+	'group-sysadmin'        => 'System administrators',
+	'group-sysadmin-member' => '{{GENDER:$1|system administrator}}',
+	'grouppage-sysadmin'    => 'm:System administrators', # only translate this message to other languages if you have to change it
 
 	# meta.wikimedia.org specific user group
 
@@ -2127,7 +2156,7 @@ $messages['br'] = array(
 	'wikimedia-copyright' => 'Gallout a reer implijout an testennoù zo dindan <a href="//creativecommons.org/licenses/by-sa/3.0/">an Aotre-Implijout Creative Commons Dereiñ/Kenrannañ</a>;
 divizoù ouzhpenn a c\'hall bezañ ivez.
 Gwelet an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Doareoù Implijout</a> evit gouzout hiroc\'h.',
-	'wikimedia-copyrightwarning' => "Dre glikañ war ar bouton \"{{int:savearticle}}\" ec'h asantit [//wikimediafoundation.org/wiki/Terms_of_use d'an Termenoù Implij] hag emaoc'h a-du da enskrivañ da viken ho tegasadennoù dindan 
+	'wikimedia-copyrightwarning' => "Dre glikañ war ar bouton \"{{int:savearticle}}\" ec'h asantit [//wikimediafoundation.org/wiki/Terms_of_use d'an Termenoù Implij] hag emaoc'h a-du da enskrivañ da viken ho tegasadennoù dindan
 [//creativecommons.org/licenses/by-sa/3.0/ an aotre-implijout CC-BY-SA 3.0] hag ar [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]
 A-du emaoc'h ez eo trawalc'h deoc'h bezañ meneget dre ur gourliamm pe un URL, dindan an aotre-implijout Creative Commons Dereiñ.",
 	'wikimedia-editpage-tos-summary' => "Ma nac'hit e vefe kemmet ha skignet ho skridoù d'ar seizh avel, neuze eo arabat deoc'h kemer perzh amañ.
@@ -3554,7 +3583,7 @@ $messages['eo'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
 	'wikimedia-copyright' => 'La teksto disponeblas laŭ la permesilo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.eo">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.
 Vidu la <a href="//wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> por detaloj.',
-	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas al la [//wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [//creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [//www.gnu.org/copyleft/fdl.html GFDL]. 
+	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas al la [//wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [//creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [//www.gnu.org/copyleft/fdl.html GFDL].
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita.',
 	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verko estu redaktata kaj redistribuata laŭvole, tiam ne enigu ĝin ĉi tie. Se vi ne verkis ĝin mem, ĝi devas esti havebla kun rajtoj kiuj ne kontraŭas al la [//wikimediafoundation.org/wiki/Terms_of_Use Kondiĉoj de Uzado], kaj vi konsentas sekvi ĉiujn ĉi-temajn permesilajn devigojn.',
 	'cant-delete-main-page' => 'Vi ne povas forigi aŭ movi la ĉefpaĝo.',
@@ -3690,7 +3719,7 @@ $messages['es'] = array(
 cláusulas adicionales pueden aplicar.
 Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">los términos de uso</a> para más detalles.',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
-Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido. 
+Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
 	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí. Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [//wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
 	'cant-delete-main-page' => 'No se puede borrar ni mover la página principal.',
@@ -3816,7 +3845,7 @@ sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
 	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [//wikimediafoundation.org/wiki/Terms_of_use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [//creativecommons.org/licenses/by-sa/3.0/deed.et CC-BY-SA 3.0] ja [//www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
-	'wikimedia-editpage-tos-summary' => 'Kui sa ei soovi, et sinu kirjutatut halastamatult redigeeritakse ja oma äranägemise järgi kasutatakse, siis ära seda siia salvesta. 
+	'wikimedia-editpage-tos-summary' => 'Kui sa ei soovi, et sinu kirjutatut halastamatult redigeeritakse ja oma äranägemise järgi kasutatakse, siis ära seda siia salvesta.
 Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustes] toodud nõuetele ja sa kohustud täitma vastavaid litsentsi tingimusi.',
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
 	'wikimedia-translationnotifications-signup-legal' => 'Nõustud, et nende andmete Wikimedia Foundationile saatmise järel võime sinuga ühendust võtta seoses tõlgetega või muusse Wikimedia liikumisse puutuvaga, mis meie arvates sulle huvi võib pakkuda. Nõustud, et sinu andmeid tohib Ameerika Ühendriikides alles hoida ja et neid kasutatakse vastavalt meie [https://wikimediafoundation.org/wiki/Privacy_policy privaatsuspõhimõtetele].',
@@ -5272,7 +5301,7 @@ $messages['gu'] = array(
 	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 હેઠળ ઉપલબ્ધ છે વધારાની શરતો લાગુ છે.
 વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો. 
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
 તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
 	'wikimedia-editpage-tos-summary' => 'જો તમે ચાહતા ના હોવ કે તમારા લખાણમાં કોઈ ફેરફાર કરે અને પોતાની મરજી પ્રમાણે અન્યત્ર વહેંચે તો અહીં યોગદાન કરશો નહી.
 જો તમે આ લખાણ જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ]ની શરતોને અધીન  હોવું જોઈએ અને તમે તેને સંલગ્ન કોઈપણ પરવાનાઓની આવશ્યકતાઓનું પાલન કરવા માટે સહમત હોવા જોઈએ.',
@@ -6422,7 +6451,7 @@ $messages['ilo'] = array(
 	'wikimedia-copyright' => 'Ti teksto ket magun-od a babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 addan to  pay dagiti banag a maikapet.
 Kitaen ti <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> para kadagiti detalye.',
-	'wikimedia-copyrightwarning' => 'Babaen ti panag-takla ti "{{int:savearticle}}" a buton, agtulag ka [//wikimediafoundation.org/wiki/Terms_of_use Kadagiti sakup ti panag-usar], ken di mawaswas ka nga agtulag nga ibbatam dagiti parawad mo babaen 
+	'wikimedia-copyrightwarning' => 'Babaen ti panag-takla ti "{{int:savearticle}}" a buton, agtulag ka [//wikimediafoundation.org/wiki/Terms_of_use Kadagiti sakup ti panag-usar], ken di mawaswas ka nga agtulag nga ibbatam dagiti parawad mo babaen
 ti [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] ken ti
 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] .
 Agtulag ka nga ti maysa a hyperlink wenno URL ket umanayen a pammadayaw babaen ti Creative Commons a lisensia.',
@@ -7948,7 +7977,7 @@ $messages['lt'] = array(
 	'wikimedia-copyright' => 'Turinys pateikiamas pagal <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenciją</a>;
 gali galioti kitos nuostatos.
 Norėdami sužinoti daugiau, žiūrėkite <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Naudojimo sąlygas</a>.',
-	'wikimedia-copyrightwarning' => 'Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] ir [//www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas. 
+	'wikimedia-copyrightwarning' => 'Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] ir [//www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.
 Norėdami sužinoti daugiau, žiūrėkite [//wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygas]',
 	'wikimedia-editpage-tos-summary' => 'Jei nenorite, kad Jūsų darbas būtų nevaržomai redaguojamas ir platinamas, jo čia nepublikuokite.
 Jei šio darbo neparašėte Jūs, jis turi būti suderinamas su [//wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygomis]; Jūs sutinkate vykdyti visus svarbius licencijavimo reikalavimus.',
@@ -9099,7 +9128,7 @@ $messages['nds-nl'] = array(
 	'group-inactive' => 'inaktieve gebrukers',
 	'group-inactive-member' => '{{GENDER:$1|inaktieve gebruker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktieve gebrukers',
-	'wikimedia-copyright' => 'De tekste is beschikbaor onder de lisensie <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>. 
+	'wikimedia-copyright' => 'De tekste is beschikbaor onder de lisensie <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>.
 t Kan ween dat nog meer veurweerden van toepassing bin.
 Bekiek de <a href="//wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
 	'wikimedia-copyrightwarning' => 'Deur op de knoppe "{{int:savearticle}}" te klikken, stem je in mit de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [//www.gnu.org/copyleft/fdl.html GFDL].
@@ -11291,9 +11320,9 @@ $messages['sc'] = array(
 	'tooltip-n-sitesupport' => 'Acotza·nos',
 	'group-steward' => 'Stewards',
 	'wikimedia-copyright' => 'Su testu est disponìbile segundu sa <a href="//creativecommons.org/licenses/by-sa/3.0/">licèntzia Atributzione Creative Commons-Cundivide cantepare</a>; si podent aplicare prus cunditziones galu. Abbista is <a href="//wikimediafoundation.org/wiki/Terms_of_Use"> cunditziones de impreu</a> pro is particulares.',
-	'wikimedia-copyrightwarning' => 'Sarbende, acunsentis de non pòder prus retirare su contributu tuo lassadu de nou a suta is licèntzias [//creativecommons.org/licenses/by-sa/3.0/ Atributzione Creative Commons/Cundivide cantepare 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. 
+	'wikimedia-copyrightwarning' => 'Sarbende, acunsentis de non pòder prus retirare su contributu tuo lassadu de nou a suta is licèntzias [//creativecommons.org/licenses/by-sa/3.0/ Atributzione Creative Commons/Cundivide cantepare 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Acunsentis ca is re-usuàrios ti ddu ant a atribuire a su mancu cun unu ligàmine iper-testuale e unu URL a sa pàgina a sa cale as contribuidu. Abbista is [//wikimediafoundation.org/wiki/Terms_of_Use cunditziones de impreu] pro is particulares.',
-	'wikimedia-editpage-tos-summary' => "Si non tenes praxere ki su testu tuo siat acontzadu e re-distribuidu a cantu nd’andat, tando non ddu insertas inoghe. 
+	'wikimedia-editpage-tos-summary' => "Si non tenes praxere ki su testu tuo siat acontzadu e re-distribuidu a cantu nd’andat, tando non ddu insertas inoghe.
 Si non dd'as scritu tue etotu, depet èsser disponìbile a cunditziones cantepare is [//wikimediafoundation.org/wiki/Terms_of_Use cunditziones de impreu], e atzetas de sighire totu is rekisidos de sa licèntzia.",
 );
 
@@ -11554,8 +11583,8 @@ $messages['si'] = array(
 	'group-inactive' => 'අක්‍රීය පරිශීලකයන්',
 	'group-inactive-member' => '{{GENDER:$1|අක්‍රීය පරිශීලක}}',
 	'grouppage-inactive' => '{{ns:project}}:අක්‍රීය පරිශීලකයන්',
-	'wikimedia-copyright' => '<a href="//creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි; 
-අමතර කොන්දේසි අදාළ විය හැක. 
+	'wikimedia-copyright' => '<a href="//creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;
+අමතර කොන්දේසි අදාළ විය හැක.
 විස්තර සඳහා <a href=\'//wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
 මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
@@ -11785,11 +11814,11 @@ $messages['sl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|nedejaven uporabnik|nedejavna uporabnica}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni uporabniki',
 	'shared-repo-name-shared' => 'Wikimedijina Zbirka',
-	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">dovoljenjem Creative Commons 
+	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">dovoljenjem Creative Commons
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; dodatni pogoji se lahko uveljavljajo. Glej <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoje uporabe</a> za podrobnosti.',
 	'wikimedia-copyrightwarning' => 'S klikom na gumb »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka v skladu z dovoljenjema [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Strinjate se, da za priznanje avtorstva v skladu z dovoljenjem Creative Commons zadostuje povezava ali URL.',
-	'wikimedia-editpage-tos-summary' => 'Če ne želite, da so vaši prispevki kadarkoli preurejeni ali redistribuirani, ga ne prispevajte. 
+	'wikimedia-editpage-tos-summary' => 'Če ne želite, da so vaši prispevki kadarkoli preurejeni ali redistribuirani, ga ne prispevajte.
 Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [//wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe]. Poleg tega s shranjevanjem potrjujete, da upoštevate vse zahteve licence izvirne objave.',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 );
@@ -12286,7 +12315,7 @@ Eenpeldhaide sunt in do <a href="//wikimediafoundation.org/wiki/Nutzungsbedingun
 Du stimst tou, dät ne Fääreferweendenge ap minste truch n Hyperlink of ne URL tou ju Siede, ju du beoarbaidest, geböäre duur.
 Eenpeldhaide sunt in do [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] beschrieuwen.',
 	'wikimedia-editpage-tos-summary' => 'Wan du nit moatest, dät dien Text fäärebeoarbaided un fääre fersprat wäd, dan spieker ju nit.
-Fals du dän Text nit sälwen ferfoated hääst, mout er unner do 
+Fals du dän Text nit sälwen ferfoated hääst, mout er unner do
 [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] ferföichboar weese un du stimst tou, noodweendige Lizenzanfoarderengen tou foulgjen.',
 );
 
@@ -12606,7 +12635,7 @@ $messages['ta'] = array(
 	'group-inactive-member' => 'பங்களிக்காத பயனர்',
 	'wikimedia-copyrightwarning' => 'இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] மற்றும் [//www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.
 
-இந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள். 
+இந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள்.
 
 விவரங்களுக்கு, [//wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.',
 	'wikimedia-editpage-tos-summary' => 'உங்கள் படைப்புகளை பிறர் மாற்றம் செய்வதிலும் மறுபயன்பாடு செய்வதிலும் உங்களுக்கு விருப்பம் இல்லையெனில் இங்கு அவற்றை சேமிக்க வேண்டாம். இது நீங்கள் எழுதியதில்லையெனில், இது விக்கிமீடியா அறக்கட்டளையின் [//wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளுக்கு] உட்பட்டதாக இருக்க வேண்டும். மேலும் இங்கு இதனை சேமிக்கும் பொழுது இதற்கு ஏற்ற பதிப்புரிமை விதிமுறைகளைப் பின்பற்ற ஒப்புக் கொள்கிறீர்கள் என்பதை நினைவில் கொள்ளுங்கள்.',
@@ -12900,7 +12929,7 @@ $messages['th'] = array(
 	'wikimedia-copyright' => 'ตัวอักษรนี้อยู่ภายใต้<a href="//creativecommons.org/licenses/by-sa/3.0/">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>;
 และอาจจะมีข้อเพิ่มเติมอื่นๆ
 กรุณาดู<a href="//wikimediafoundation.org/wiki/Terms_of_Use">สิทธิ์การใช้งาน</a>สำหรับรายละเอียดเพิ่มเติม',
-	'wikimedia-copyrightwarning' => 'เมื่อคุณบันทึก คุณยินยอมที่จะให้การเขียนของคุณอยู่ภายใต้[//creativecommons.org/licenses/by-sa/3.0/ สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0] และ [//www.gnu.org/copyleft/fdl.html GFDL] อย่างแก้คืนไม่ได้ 
+	'wikimedia-copyrightwarning' => 'เมื่อคุณบันทึก คุณยินยอมที่จะให้การเขียนของคุณอยู่ภายใต้[//creativecommons.org/licenses/by-sa/3.0/ สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0] และ [//www.gnu.org/copyleft/fdl.html GFDL] อย่างแก้คืนไม่ได้
 คุณยินยอมที่จะได้รับเครดิตจากผู้ที่นำข้อมูลของคุณไปใช้ อย่างน้อยที่สุด ผ่านทางไฮเปอร์ลิงก์หรือยูอาร์แอลเชื่อมโยงมายังหน้าที่คุณได้มีส่วนเขียนนี้
 โปรดศึกษา[//wikimediafoundation.org/wiki/Terms_of_Use เงื่อนไขการใช้งาน]',
 	'wikimedia-editpage-tos-summary' => 'ถ้าคุณไม่ต้องการให้งานเขียนของคุณถูกแก้ไขแม้แต่นิดเดียว กรุณาอย่าส่งงานเขียนที่นี่
@@ -13005,7 +13034,7 @@ $messages['tk'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Işjeň däl ulanyjylar',
 	'wikimedia-copyright' => 'Tekst <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ulanyş şertleri</a>ne serediň.',
 	'wikimedia-copyrightwarning' => 'Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] we [//www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [//wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň.',
-	'wikimedia-editpage-tos-summary' => 'Eger işiňiziň arkaýyn redaktirlenmegini ýa-da paýlanylmagyny islemeýän bolsaňyz, onda bu ýere tabşyrmaň.  
+	'wikimedia-editpage-tos-summary' => 'Eger işiňiziň arkaýyn redaktirlenmegini ýa-da paýlanylmagyny islemeýän bolsaňyz, onda bu ýere tabşyrmaň.
 Eger muny özüňiz ýazmadyk bolsaňyz, onda ol [//wikimediafoundation.org/wiki/Terms_of_Use Ulanyş şertlerine] laýyk gelmelidir. Siz haýsydyr bir degişli lisenziýa talabyny berjaý etmäge ylalaşýarsyňyz.',
 );
 
@@ -13447,9 +13476,9 @@ $messages['tyv'] = array(
  */
 $messages['udm'] = array(
 	'sitesupport' => 'Проектлы юрттон',
-	'wikimedia-copyrightwarning' => "!!Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] но [//www.gnu.org/copyleft/fdl.html GFDL]. 
+	'wikimedia-copyrightwarning' => "!!Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] но [//www.gnu.org/copyleft/fdl.html GFDL].
 Тыро-быдогес со сярысь лыдӟе [//wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожъяса, тӥ асьтэлэн автор правоостылэсь куштӥськоды.",
-	'wikimedia-editpage-tos-summary' => 'Тӥлесьтыд татчы кельтэм тесктъёстэс котькудӥз адямилэн тупатыны но вӧлмытыны правоен ванен тӥ соглаш ӧвӧл ке, татчы номыр эн гожъялэ! 
+	'wikimedia-editpage-tos-summary' => 'Тӥлесьтыд татчы кельтэм тесктъёстэс котькудӥз адямилэн тупатыны но вӧлмытыны правоен ванен тӥ соглаш ӧвӧл ке, татчы номыр эн гожъялэ!
 Мукет адямилэсь текстсэ тытчы пыртэмды ке потэ, [//wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиослы] но лицензиослэн условиоссылы тупамзэ чакласа возе!',
 );
 
@@ -13876,7 +13905,7 @@ $messages['vep'] = array(
 	'group-inactive' => 'Kävutajad aktivižuseta',
 	'group-inactive-member' => '{{GENDER:$1|kävutai aktivižuseta}}',
 	'grouppage-inactive' => '{{ns:project}}:Kävutajad aktivižuseta',
-	'wikimedia-copyright' => 'Tekst sab sada <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid. 
+	'wikimedia-copyright' => 'Tekst sab sada <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid.
 Kacu mugažo: <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
 );
 
@@ -14044,7 +14073,7 @@ Taa kotsilõ kaeq täpsämbähe <a href="//wikimediafoundation.org/wiki/Terms_of
 	'wikimedia-copyrightwarning' => 'Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-litsendsi] perrä.
 Olõt nõun, et su autorisolõmist näüdätäs vähämbält võrgoaadrõsi vai lingiga seo lehe pääle, midä sa parhilla toimõndat.
 Täpsämbähe kaeq taa kotsilõ [//wikimediafoundation.org/wiki/Terms_of_Use Wikimedia pruukmistingimüisist].',
-	'wikimedia-editpage-tos-summary' => 'Kui sa taha-ai, et su kirotõdut halõstamalda toimõndõdas ja uma ärqnägemise perrä tarvitõdas, sis pästku-ui taad siiäq.  
+	'wikimedia-editpage-tos-summary' => 'Kui sa taha-ai, et su kirotõdut halõstamalda toimõndõdas ja uma ärqnägemise perrä tarvitõdas, sis pästku-ui taad siiäq.
 Ku sa kiroda-as taad teksti esiq, sis piät taa tarvitaminõ vastama [//wikimediafoundation.org/wiki/Terms_of_Use pruukmistingimüisile] ja sul om kohustus täütäq sääl näüdätüid litsendsinõudmiisi.',
 );
 
@@ -14129,11 +14158,11 @@ $messages['wa'] = array(
 	'grouppage-inactive' => "{{ns:project}}:Uzeus ki n' boutnut nén",
 	'wikimedia-copyright' => 'Les tecses sont disponibes dizo l\' <a href="//creativecommons.org/licenses/by-sa/3.0/">licince "\'\'Creative Commons\'\'" atribucion pårtaedje a l’ idintike</a>.
 Loukîz les <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condicions d’ eployaedje</a> po saveur les ca et les ma.',
-	'wikimedia-copyrightwarning' => "Si vos clitchîz so «{{int:savearticle}}», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;[//creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [//www.gnu.org/copyleft/fdl.html GFDL]. 
-Et esse sifwaitmint d' acoird d’ esse ricnoxhou (-owe) come sicrijheu(se) di ces racsegnes la, pol moens pa ene hårdêye ou èn URL aviè l’ årtike ki vos avoz scrît ou ki vos î avoz bodjî. 
+	'wikimedia-copyrightwarning' => "Si vos clitchîz so «{{int:savearticle}}», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;[//creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [//www.gnu.org/copyleft/fdl.html GFDL].
+Et esse sifwaitmint d' acoird d’ esse ricnoxhou (-owe) come sicrijheu(se) di ces racsegnes la, pol moens pa ene hårdêye ou èn URL aviè l’ årtike ki vos avoz scrît ou ki vos î avoz bodjî.
 Loukîz les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
-	'wikimedia-editpage-tos-summary' => "Si vos n' vôrîz nén, télfeye, ki vos scrijhaedjes fouxhénxhe ricandjîs, et spårdous totavå, adon, n' elzès metoz nén droci. 
-Tant k' ås tecses ki n' serént nén da vosse, po les riscrire cial, i dvèt esse ricopiåves sorlon les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d' eployaedje håynêyes vaici]. 
+	'wikimedia-editpage-tos-summary' => "Si vos n' vôrîz nén, télfeye, ki vos scrijhaedjes fouxhénxhe ricandjîs, et spårdous totavå, adon, n' elzès metoz nén droci.
+Tant k' ås tecses ki n' serént nén da vosse, po les riscrire cial, i dvèt esse ricopiåves sorlon les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d' eployaedje håynêyes vaici].
 Eto seroz vos d' acoird po shuve totes les clawes di cisse licince la.",
 	'cant-delete-main-page' => "Vos n' poloz nén disfacer ou displaecî l' mwaisse pådje.",
 );
