@@ -4798,7 +4798,7 @@ $messages['kn'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'wikimedialicensetexts-desc' => '위키미디어용 라이선스 메시지',
+	'wikimedialicensetexts-desc' => '위키미디어 라이선스 메시지',
 	'wm-license-attribution-with-author-text' => "이 파일의 저작권자인 $1은 저작권자를 명시하는 조건 하에 누구에게나 '''어떤 목적으로든지''' 제한없이 사용할 수 있도록 허용하였습니다. 재배포나 이차적 저작물 작성 및 상업적 이용 등이 허용됩니다.",
 	'wm-license-attribution-without-author-text' => "이 파일의 저작권자는 저작권자를 명시한다는 조건 하에 누구에게나 '''어떤 목적으로든지''' 사용할 수 있도록 허용합니다.
 이 저작물의 재배포나 이차적 저작물 작성 및 상업적 이용 등이 허용됩니다.",
@@ -4894,7 +4894,7 @@ CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.in
 	'wm-license-self-one-license-with-author' => '$1은(는) 아래 작품의 저작권자로서, 해당 저작물을 다음과 같은 라이선스로 배포합니다:',
 	'wm-license-self-multiple-licenses' => '나는 아래 작품의 저작권자로서, 이 저작물을 다음과 같은 라이선스로 배포합니다:',
 	'wm-license-self-multiple-licenses-with-author' => '$1 사용자는 아래 작품의 저작권자로서, 해당 저작물을 다음과 같은 라이선스로 배포합니다.',
-	'wm-license-self-multiple-licenses-select' => '</i>이 라이선스들 중에서 목적에 맞는 것을 선택하여 사용할 수 있습니다.<i>',
+	'wm-license-self-multiple-licenses-select' => '이 라이선스 중에서 목적에 맞는 것을 선택하여 사용할 수 있습니다.',
 );
 
 /** Komi-Permyak (Перем Коми)
