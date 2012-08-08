@@ -967,8 +967,10 @@ $messages['arc'] = array(
 	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
 ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
-	'wikimedia-copyrightwarning' => 'ܒܕܝܫܐ ܥܠ ܦܪܡܝܬܐ ܕ "{{int:savearticle}}"، ܬܫܬܘܕܝ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܕܠܐ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܦܣܣܘܬܐ ܕGNU ܕܐܫܛܪܘܬܐ ܚܐܪܬܐ].
+	'wikimedia-copyrightwarning' => 'ܟܕ ܕܫ ܐܢܬ ܥܠ ܦܪܡܝܬܐ ܕ "{{int:savearticle}}"، ܬܫܬܘܕܝ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܕܠܐ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܦܣܣܘܬܐ ܕGNU ܕܐܫܛܪܘܬܐ ܚܐܪܬܐ].
 ܐܫܬܘܕܝ ܐܢܬ ܕܡܬܡܠܝܢܬܐ ܐܝܬܝܗ ܒܝܬܝܘܬܐ ܕܐܣܘܪܐ ܡܫܥܠܝܐ  ܐܘ ܫܒܝܠܐ ܕܦܐܬܐ ܬܚܝܬ ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ.',
+	'wikimedia-editpage-tos-summary' => 'ܐܢ ܠܐ ܨܒܐ ܐܢܬ ܕܢܫܬܚܠܦ ܟܬܒܬܐ ܕܝܠܟ ܘܢܬܦܪܣ ܙܒܢ ܐܚܪܝܢ, ܠܐ ܬܦܪܘܣ ܠܗ ܗܪܟܐ.
+ܐܢ ܠܝܬ ܐܢܬ ܣܝܘܡܐ, ܟܬܒܬܐ ܕܝܠܟ ܘܠܐ ܕܬܐܘܐ ܥܡ [//wikimediafoundation.org/wiki/Terms_of_Use ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ], ܘܬܫܬܘܕܝ ܥܠ ܡܬܒܥܘ ܟܠ ܣܘܢܩܢ̈ܐ ܐܚܝܢܝ̈ܐ ܕܦܣܣܘܬܐ.',
 );
 
 /** Araucanian (mapudungun)
@@ -3678,6 +3680,7 @@ $messages['es'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exento de bloqueo a IP',
 	'group-patroller' => 'Patrulleros',
 	'group-patroller-member' => '{{GENDER:$1|patrullero|patrullera}}',
+	'grouppage-patroller' => '{{ns:project}}:Verificadores',
 	'group-researcher' => 'Investigadores',
 	'group-researcher-member' => '{{GENDER:$1|investigador|investigadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Investigador',
@@ -4607,6 +4610,7 @@ $messages['frr'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Sperd IP ütjnoomen',
 	'group-patroller' => 'Kontrolöören',
 	'group-patroller-member' => '{{GENDER:$1|kontrolöör}}',
+	'grouppage-patroller' => '{{ns:project}}:Kontrolöören',
 	'group-researcher' => 'Onersjükern',
 	'group-researcher-member' => '{{GENDER:$1|onersjüker}}',
 	'grouppage-researcher' => '{{ns:project}}:Onersjükern',
@@ -4934,6 +4938,7 @@ $messages['gl'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exención de bloqueo do enderezo IP',
 	'group-patroller' => 'Patrulleiros',
 	'group-patroller-member' => '{{GENDER:$1|patrulleiro|patrulleira}}',
+	'grouppage-patroller' => '{{ns:project}}:Patrulleiros',
 	'group-researcher' => 'Investigadores',
 	'group-researcher-member' => '{{GENDER:$1|investigador|investigadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Investigadores',
@@ -5863,6 +5868,7 @@ $messages['hsb'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Wuwzaće z blokowanja IP',
 	'group-patroller' => 'Dohladowarjo',
 	'group-patroller-member' => '{{GENDER:$1|dohladowar|dohladowarka}}',
+	'grouppage-patroller' => '{{ns:project}}:Dohladowarjo',
 	'group-researcher' => 'Slědźerjo',
 	'group-researcher-member' => '{{GENDER:$1|rešeršowar|rešeršowarka}}',
 	'grouppage-researcher' => '{{ns:project}}:Slědźer',
