@@ -861,6 +861,7 @@ $messages['ba'] = array(
 	'wm-license-artwork-artist' => 'Автор',
 	'wm-license-artwork-title' => 'Исем',
 	'wm-license-artwork-medium' => 'Мөхит',
+	'wm-license-artwork-dimensions' => 'Дәүмәлдәр',
 	'wm-license-artwork-current-location' => 'Хәҙерге урын',
 	'wm-license-artwork-references' => 'Һылтанмалар',
 	'wm-license-artwork-inscriptions' => 'Тасуирлама',
