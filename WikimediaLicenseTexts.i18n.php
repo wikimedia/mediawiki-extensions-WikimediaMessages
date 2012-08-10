@@ -4145,9 +4145,15 @@ $messages['id'] = array(
 	'wm-license-pd-author-self-any-purpose' => "Saya memberikan siapa pun hak untuk menggunakan karya ini '''untuk tujuan apa pun''', tanpa persyaratan apa pun, kecuali yang ditetapkan oleh hukum.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 memberikan siapa pun hak untuk menggunakan karya ini '''untuk tujuan apa pun''', tanpa persyaratan apa pun, kecuali yang ditetapkan oleh hukum.",
 	'wm-license-pd-usgov-wiki-link' => 'w:id:Pemerintah federal Amerika Serikat',
+	'wm-license-pd-usgov-fema-text' => "Berkas ini adalah karya seorang karyawan [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Badan Penanganan Keadaan Darurat Federal]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
+	'wm-license-pd-usgov-military-text' => "Berkas ini adalah karya seorang anggota [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|militer]] atau karyawan [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Departemen Pertahanan Amerika Serikat]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
+	'wm-license-pd-usgov-military-air-force-text' => "Berkas ini adalah karya seorang penerbang atau karyawan [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Angkatan Udara Amerika Serikat]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:id:Angkatan Udara Amerika Serikat',
+	'wm-license-pd-usgov-military-army-text' => "Berkas ini adalah karya seorang tentara atau karyawan [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Angkatan Darat Amerika Serikat]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:id:Angkatan Darat Amerika Serikat',
+	'wm-license-pd-usgov-military-navy-text' => "Berkas ini adalah karya seorang pelaut atau karyawan [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Angkatan Laut Amerika Serikat]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:id:Angkatan Laut Amerika Serikat',
+	'wm-license-pd-usgov-noaa-text' => "Berkas ini adalah karya seorang karyawan [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Badan Lautan dan Atmosfer Nasional Amerika Serikat]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
 	'wm-license-pd-wiki-link' => 'w:id:Domain publik',
 	'wm-license-self-one-license' => 'Saya, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah ketentuan berikut:',
 	'wm-license-self-one-license-with-author' => '$1, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah ketentuan berikut:',
@@ -5914,6 +5920,7 @@ $messages['ms'] = array(
  */
 $messages['mt'] = array(
 	'wikimedialicensetexts-desc' => 'Messaġġi tal-liċenzja Wikimedia',
+	'wm-license-attribution-with-author-text' => "Id-detentur tal-copyright ta' dan il-fajl, $1, iħalli lil kulħadd jużah '''għal kwalunkwe raġuni, bil-kundizzjoni li''' d-detentur tal-copyright huwa attribwit. Id-distribuzzjoni mill-ġdid, xogħol derivat, użu kummerċjali, u kwalunkwe użu ieħor huwa permess.",
 	'wm-license-artwork-artist' => 'Artist',
 	'wm-license-artwork-title' => 'Titlu',
 	'wm-license-artwork-medium' => 'Teknika',
@@ -5941,6 +5948,14 @@ $messages['mt'] = array(
 	'wm-license-book-translator' => 'Traduttur',
 	'wm-license-book-volume' => 'Volum',
 	'wm-license-book-year-of-publication' => "Sena ta' pubblikazzjoni",
+	'wm-license-creator-alternative-names' => 'Ismijiet oħra',
+	'wm-license-creator-description' => 'Deskrizzjoni',
+	'wm-license-creator-date-of-birth' => 'Data tat-twelid',
+	'wm-license-creator-date-of-birth-and-death' => 'Data tat-twelid/mewt',
+	'wm-license-creator-location-of-birth' => 'Post tat-twelid',
+	'wm-license-creator-location-of-birth-and-death' => 'Post tat-twelid/mewt',
+	'wm-license-creator-work-period' => "Perjodu ta' attività",
+	'wm-license-creator-work-location' => "Post ta' attività",
 	'wm-license-free-software-wiki-link' => 'w:mt:Softwer ħieles',
 	'wm-license-gfdl-1.2-and-later' => "Huwa permess li tikkopja, tiddistribwixxi u/jew timmodifika dan id-dokument abbażi tat-termini tal-'''[[{{int:wm-license-gfdl-wiki-link}}|Liċenzja ta' Dokumentazzjoni Ħielsa tal-GNU]]''', Verżjoni 1.2 jew kwalunkwe verżjoni oħra pubblikata mill-[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; mingħajr ebda sezzjoni non-modifikabbli, mingħajr test tal-faċċata u mingħajr test tal-qoxra. Kopja tal-liċenzja hi inkluża fis-sezzjoni intitolata ''[[{{int:wm-license-gfdl-full-1.2-link}}|Test tal-Liċenzja ta' Dokumentazzjoni Ħielsa tal-GNU]]\".",
 	'wm-license-information-description' => 'Deskrizzjoni',
@@ -8485,6 +8500,7 @@ $messages['szl'] = array(
 
 /** Tamil (தமிழ்)
  * @author Aswn
+ * @author Karthi.dr
  * @author Multichill
  * @author Shanmugamp7
  * @author TRYPPN
@@ -8532,9 +8548,12 @@ $messages['ta'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:ta:குனூ தளையறு ஆவண உரிமம்',
 	'wm-license-gpl-wiki-link' => 'w:ta:க்னூ பொதுமக்கள் உரிமம்',
 	'wm-license-information-description' => 'விளக்கம்',
+	'wm-license-information-description-missing-request' => 'அருள்கூர்ந்து இக்கோப்பிற்குப் பொருளுள்ள ஒரு விளக்கத்தைத் தரவும்.',
 	'wm-license-information-source' => 'மூலம்',
+	'wm-license-information-source-missing' => "இக்கோப்பின் '''மூலம்''' குறித்த தகவல்கள் இல்லை.",
 	'wm-license-information-date' => 'நாள்',
 	'wm-license-information-author' => 'பங்களிப்பாளர்',
+	'wm-license-information-author-missing' => "இக்கோப்பின் '''ஆக்குநர்''' குறித்த தகவல்கள் இல்லை.",
 	'wm-license-information-permission' => 'அனுமதி',
 	'wm-license-information-permission-see-below' => 'கீழுள்ள அறிவிப்பைக் காணவும்.',
 	'wm-license-information-other-versions' => 'ஒத்தக்கோப்பு',
