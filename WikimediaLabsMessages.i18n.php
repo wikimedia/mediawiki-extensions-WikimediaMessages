@@ -114,6 +114,7 @@ $messages['gl'] = array(
 	'gerrittools-repogroup-integration' => 'Repositorios Gerrit da Wikimedia Continuous Integration',
 	'gerrittools-repogroup-mediawiki' => 'Repositorios Gerrit de MediaWiki',
 	'gerrittools-repogroup-mediawiki/extensions' => 'Repositorios Gerrit das extensións de MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repositorios Gerrit do paquete de MediaWiki',
 	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios Gerrit das ferramentas de MediaWiki',
 	'gerrittools-repogroup-operations' => 'Repositorios Gerrit da Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Repositorios Gerrit de probas',
@@ -153,6 +154,7 @@ $messages['it'] = array(
 	'gerrittools-repogroup-integration' => 'Repository di Wikimedia Continuous Integration Gerrit',
 	'gerrittools-repogroup-mediawiki' => 'Repository di MediaWiki Gerrit',
 	'gerrittools-repogroup-mediawiki/extensions' => 'Repository di MediaWik extension Gerrit',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repository di MediaWiki package Gerrit',
 	'gerrittools-repogroup-mediawiki/tools' => 'Repository di MediaWiki Tool Gerrit',
 	'gerrittools-repogroup-operations' => 'Repository di Wikimedia Operations Gerrit',
 	'gerrittools-repogroup-test' => 'Repository di Test Gerrit',
@@ -172,6 +174,13 @@ $messages['ja'] = array(
 	'gerrittools-repogroup-wikimedia' => 'ウィキメディア Gerrit リポジトリ',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'wikimedialabsmessages-desc' => '위키미디어 실험실 메시지',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
@@ -188,6 +197,7 @@ $messages['mk'] = array(
 	'gerrittools-repogroup-integration' => 'Gerrit-складишта за постојана интеграција на МедијаВики',
 	'gerrittools-repogroup-mediawiki' => 'Gerrit-складишта за МедијаВики',
 	'gerrittools-repogroup-mediawiki/extensions' => 'Додаток за Gerrit-складишта за МедијаВики',
+	'gerrittools-repogroup-mediawiki/packages' => 'Gerrit-складишта за МедијаВики-пакет',
 	'gerrittools-repogroup-mediawiki/tools' => 'Gerrit-складишта за МедијаВики Алатки',
 	'gerrittools-repogroup-operations' => 'Gerrit-складишта за Викимедиините операции',
 	'gerrittools-repogroup-test' => 'Gerrit-складишта за проби',
@@ -228,6 +238,7 @@ $messages['tl'] = array(
 	'gerrittools-repogroup-integration' => 'Mga repositoryong Gerrit ng Tuluy-tuloy na Integrasyon ng Wikimedia',
 	'gerrittools-repogroup-mediawiki' => 'Mga repositoryong Gerrit ng MediaWiki',
 	'gerrittools-repogroup-mediawiki/extensions' => 'Mga repositoryong Gerrit ng dugtong ng MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Mga repositoryong Gerrit ng pakete ng MediaWiki',
 	'gerrittools-repogroup-mediawiki/tools' => 'Mga repositoryong Gerrit ng MediaWiki Tool',
 	'gerrittools-repogroup-operations' => 'Mga repositoryong Gerrit ng mga Operasyon ng Wikimedia',
 	'gerrittools-repogroup-test' => 'Mga repositoryong Gerrit na pangsubok',

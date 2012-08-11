@@ -222,7 +222,7 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 * {{msg-mw|wm-license-self-one-license-with-author}}',
 );
 
-/** Ṫuroyo (Ṫuroyo)
+/** Turoyo (Ṫuroyo)
  * @author Ariyo
  */
 $messages['tru'] = array(
