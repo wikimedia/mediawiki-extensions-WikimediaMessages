@@ -2355,6 +2355,8 @@ $messages['eo'] = array(
 	'wm-license-pd-usgov-military-air-force-text' => "Ĉi tiu dosiero estas verko de laboranto de la [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|usona aerarmeo]] dum ties oficialaj laboroj. Pro ĝi estas [[{{int:wm-license-pd-usgov-work-wiki-link}}|verko]] de la [[{{int:wm-license-pd-usgov-wiki-link}}|usona registaro]], la dosiero estas en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''.",
 	'wm-license-pd-usgov-military-army-text' => "Ĉi tiu dosiero estas verko de soldato aŭ laboranto de la [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|usona armeo]] dum ties oficialaj laboroj. Pro ĝi estas [[{{int:wm-license-pd-usgov-work-wiki-link}}|verko]] de la [[{{int:wm-license-pd-usgov-wiki-link}}|usona registaro]], la dosiero estas en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:eo:Usona terarmeo',
+	'wm-license-pd-usgov-military-navy-text' => "Ĉi tiu dosiero estas verko de maristo aŭ laboranto de la [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|usona mararmeo]] dum ties oficialaj laboroj. Pro ĝi estas [[{{int:wm-license-pd-usgov-work-wiki-link}}|verko]] de la [[{{int:wm-license-pd-usgov-wiki-link}}|usona registaro]], la dosiero estas en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''.",
+	'wm-license-pd-usgov-noaa-text' => "Ĉi tiu dosiero estas verko de laboranto de la [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Usona Oceana kaj Atmosfera Administracio (NOAA)]] dum ties oficialaj laboroj. Pro ĝi estas [[{{int:wm-license-pd-usgov-work-wiki-link}}|verko]] de la [[{{int:wm-license-pd-usgov-wiki-link}}|usona registaro]], la dosiero estas en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''.",
 	'wm-license-pd-wiki-link' => 'w:eo:Publika havaĵo',
 	'wm-license-self-one-license' => 'Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas tiun laŭ la jena permesilo:',
 	'wm-license-self-one-license-with-author' => '$1, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas tiun laŭ la jena permesilo:',
@@ -5965,6 +5967,7 @@ $messages['mt'] = array(
 	'wm-license-free-software-wiki-link' => 'w:mt:Softwer ħieles',
 	'wm-license-gfdl-1.2-and-later' => "Huwa permess li tikkopja, tiddistribwixxi u/jew timmodifika dan id-dokument abbażi tat-termini tal-'''[[{{int:wm-license-gfdl-wiki-link}}|Liċenzja ta' Dokumentazzjoni Ħielsa tal-GNU]]''', Verżjoni 1.2 jew kwalunkwe verżjoni oħra pubblikata mill-[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; mingħajr ebda sezzjoni non-modifikabbli, mingħajr test tal-faċċata u mingħajr test tal-qoxra. Kopja tal-liċenzja hi inkluża fis-sezzjoni intitolata ''[[{{int:wm-license-gfdl-full-1.2-link}}|Test tal-Liċenzja ta' Dokumentazzjoni Ħielsa tal-GNU]]\".",
 	'wm-license-information-description' => 'Deskrizzjoni',
+	'wm-license-information-description-missing' => "Dan il-fajl m'għandu l-ebda '''deskrizzjoni''', u jista' jonqsu informazzjoni oħra.",
 	'wm-license-information-source' => 'Sors',
 	'wm-license-information-source-missing' => "L-informazzjoni fuq is-'''sors''' ta' dan il-fajl multimedjali huma nieqsa.",
 	'wm-license-information-source-missing-request' => "Jekk jogħġbok immodifika din il-paġna ta' deskrizzjoni tal-fajl biex tipprovdi din l-informazzjoni.",
@@ -8511,8 +8514,10 @@ $messages['szl'] = array(
  * @author Shanmugamp7
  * @author TRYPPN
  * @author செல்வா
+ * @author மதனாஹரன்
  */
 $messages['ta'] = array(
+	'wikimedialicensetexts-desc' => 'விக்கிமீடியா உரிமச் செய்திகள்',
 	'wm-license-artwork-artist' => 'கலைஞர்/ஆக்குனர்',
 	'wm-license-artwork-title' => 'தலைப்பு',
 	'wm-license-artwork-medium' => 'நடுத்தரம்',
@@ -8557,14 +8562,21 @@ $messages['ta'] = array(
 	'wm-license-information-description-missing-request' => 'அருள்கூர்ந்து இக்கோப்பிற்குப் பொருளுள்ள ஒரு விளக்கத்தைத் தரவும்.',
 	'wm-license-information-source' => 'மூலம்',
 	'wm-license-information-source-missing' => "இக்கோப்பின் '''மூலம்''' குறித்த தகவல்கள் இல்லை.",
+	'wm-license-information-source-missing-request' => 'தயவு செய்து இக்கோப்பின் விபரிப்புத் தொகுத்து மூலமொன்றை வழங்கவும்.',
 	'wm-license-information-date' => 'நாள்',
 	'wm-license-information-author' => 'பங்களிப்பாளர்',
 	'wm-license-information-author-missing' => "இக்கோப்பின் '''ஆக்குநர்''' குறித்த தகவல்கள் இல்லை.",
 	'wm-license-information-permission' => 'அனுமதி',
+	'wm-license-information-permission-reusing-text' => 'இக்கோப்பை மீண்டும் பயன்படுத்துதல்',
 	'wm-license-information-permission-see-below' => 'கீழுள்ள அறிவிப்பைக் காணவும்.',
 	'wm-license-information-other-versions' => 'ஒத்தக்கோப்பு',
 	'wm-license-own-work' => 'சொந்த முயற்சி',
 	'wm-license-pd-usgov-wiki-link' => 'w:ta:ஐக்கிய அமெரிக்காவின் கூட்டரசு',
+	'wm-license-self-one-license' => 'இந்த ஆக்கத்தின் காப்புரிமையாளரான நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:',
+	'wm-license-self-one-license-with-author' => 'இந்த ஆக்கத்தின் காப்புரிமையாளரான $1 எனும் நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:',
+	'wm-license-self-multiple-licenses' => 'இந்த ஆக்கத்தின் காப்புரிமையாளரான நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:',
+	'wm-license-self-multiple-licenses-with-author' => 'இந்த ஆக்கத்தின் காப்புரிமையாளரான $1 எனும் நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:',
+	'wm-license-self-multiple-licenses-select' => 'நீங்கள் விரும்பும் உரிமத்தை தேர்ந்தெடுக்கலாம்.',
 );
 
 /** Telugu (తెలుగు)

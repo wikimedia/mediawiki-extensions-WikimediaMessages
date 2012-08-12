@@ -2289,6 +2289,7 @@ Ako ovo niste napisali lično, ove izmjene moraju biti dostupne pod uslovima u s
 
 /** Catalan (català)
  * @author Aleator
+ * @author Arnaugir
  * @author El libre
  * @author Gemmaa
  * @author Juanpabl
@@ -2310,6 +2311,12 @@ $messages['ca'] = array(
 	'nstab-institution' => 'Institució',
 	'nstab-sequence' => 'Seqüència',
 	'nstab-timedtext' => 'TimedText',
+	'group-Ex_Administrator' => 'Exadministradors',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|exadministrador}}',
+	'grouppage-Ex_Administrator' => '{{ns:project}}: exadministradors',
+	'group-Ex_Bureaucrat' => 'Exburòcrates',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|exburòcrata}}',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}: exburòcrates',
 	'group-Image-reviewer' => "Revisors d'imatges",
 	'group-Image-reviewer-member' => "{{GENDER:$1|revisor d'imatges|revisora d'imatges}}",
 	'grouppage-Image-reviewer' => "{{ns:project}}:Revisors d'imatges",
@@ -2334,6 +2341,9 @@ $messages['ca'] = array(
 	'group-bigexport' => 'Grans exportadors',
 	'group-bigexport-member' => 'gran {{GENDER:$1|exportador|exportadora}}',
 	'grouppage-bigexport' => '{{ns:project}}:Grans exportadors',
+	'group-botadmin' => "Bots amb drets d'administrador",
+	'group-botadmin-member' => "{{GENDER:$1|bot amb drets d'administrador}}",
+	'grouppage-botadmin' => "{{ns:project}}: Bots amb drets d'administrador",
 	'group-confirmed' => 'Usuaris confirmats',
 	'group-confirmed-member' => '{{GENDER:$1|usuari confirmat|usuària confirmada}}',
 	'grouppage-confirmed' => '{{ns:project}}:Usuaris confirmats',
@@ -2363,6 +2373,7 @@ $messages['ca'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Exempts del bloqueig d'IP",
 	'group-patroller' => 'Patrullers',
 	'group-patroller-member' => '{{GENDER:$1|patruller|patrullera}}',
+	'grouppage-patroller' => '{{ns:project}}: patrulladors',
 	'group-researcher' => 'Recercadors',
 	'group-researcher-member' => '{{GENDER:$1|recercador|recercadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Recercadors',
@@ -3600,6 +3611,7 @@ Vidu la <a href="//wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> p
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita.',
 	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verko estu redaktata kaj redistribuata laŭvole, tiam ne enigu ĝin ĉi tie. Se vi ne verkis ĝin mem, ĝi devas esti havebla kun rajtoj kiuj ne kontraŭas al la [//wikimediafoundation.org/wiki/Terms_of_Use Kondiĉoj de Uzado], kaj vi konsentas sekvi ĉiujn ĉi-temajn permesilajn devigojn.',
 	'cant-delete-main-page' => 'Vi ne povas forigi aŭ movi la ĉefpaĝo.',
+	'wikimedia-translationnotifications-signup-legal' => 'Donante ĉi tiun informon al la Fonduso Wikimedia, vi konsentas kontakti vin pri tradukoj aŭ aliaj temoj rilataj al la Wikimedia-movado, kiun ni konsideras esti interesa al vi. Vi konsentas ke via datumoj estos konservita en Usono kaj estas sub nia [https://wikimediafoundation.org/wiki/Privacy_policy regularo pri privateco].',
 );
 
 /** Spanish (español)
@@ -6864,6 +6876,7 @@ $messages['jut'] = array(
 
 /** Javanese (Basa Jawa)
  * @author Meursault2004
+ * @author NoiX180
  * @author Pras
  */
 $messages['jv'] = array(
@@ -6872,22 +6885,26 @@ $messages['jv'] = array(
 	'sitesupport' => 'Nyumbang dana',
 	'tooltip-n-sitesupport' => 'Sokongen kita',
 	'group-abusefilter' => 'Panyunting saringan salah-guna',
-	'group-abusefilter-member' => 'panyunting saringan salah-guna',
+	'group-abusefilter-member' => '{{GENDER:$1|panyunting saringan pangowah adat}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Panyunting saringan salah-guna',
 	'group-accountcreator' => 'Sing gawé akun',
-	'group-accountcreator-member' => 'Sing gawé akun',
+	'group-accountcreator-member' => '{{GENDER:$1|panggawé akun}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Sing gawé akun',
-	'group-autopatrolled-member' => 'patroli otomatis',
+	'group-autopatrolled-member' => '{{GENDER:$1|paronda otomatis}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patroli otomatis',
 	'group-autoreviewer' => 'Pamriksa otomatis',
 	'group-autoreviewer-member' => 'pamriksa otomatis',
 	'grouppage-autoreviewer' => '{{ns:project}}:Pamriksa otomatis',
 	'group-bigexport' => 'Èksportir gedhé',
-	'group-bigexport-member' => 'èksportir gedhé',
+	'group-bigexport-member' => '{{GENDER:$1|èksportir gedhé}}',
 	'grouppage-bigexport' => '{{ns:project}}:Èksportir gedhé',
+	'grouppage-botadmin' => '{{ns:project}}:Bot mawa hak pangurus',
 	'group-confirmed' => 'Panganggo wis dikonfirmasi',
-	'group-confirmed-member' => 'panganggo wis dikonfirmasi',
+	'group-confirmed-member' => '{{GENDER:$1|panganggo sing wis dipesthèkaké}}',
 	'grouppage-confirmed' => '{{ns:project}}:Panganggo wis dikonfirmasi',
+	'group-editprotected' => 'Panyunting kaca sing dijaga',
+	'group-editprotected-member' => '{{GENDER:$1|panyunting kaca sing dijaga}}',
+	'grouppage-editprotected' => '{{ns:project}}: Panyunting kaca sing dijaga',
 	'group-flood' => 'Para panganggo bot',
 	'group-flood-member' => 'panganggo bot',
 	'grouppage-flood' => '{{ns:project}}:Para panganggo bot',
@@ -8815,7 +8832,7 @@ $messages['mt'] = array(
 	'grouppage-import' => '{{ns:project}}:Importaturi',
 	'group-interface_editor' => 'Edituri tal-interfaċċa',
 	'group-ipblock-exempt' => 'eżenzjonijiet tal-blokki tal-IP',
-	'group-ipblock-exempt-member' => 'eżenti mill-imblokk tal-IP',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|eżenti mill-imblokk tal-IP}}',
 	'group-researcher' => 'Riċerkaturi',
 	'group-rollbacker-member' => 'rollbacker',
 	'group-transwiki' => 'Importaturi transwiki',
@@ -8845,6 +8862,7 @@ Ara t-<a href="//wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a
 Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi fuq.
 Ara t-[//wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu] għal aktar dettalji.",
 	'wikimedia-editpage-tos-summary' => "Jekk ma tridx li l-ktiba tiegħek tiġi modifikata jew ridistribwita skont dak mixtieq, allura ddaħħalhiex hawnhekk. Jekk inti ma ktibx din il-ktiba, din trid tkun disponibbli taħt it-termini konsistenti mat-[//wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu], u trid taċċetta li ssegwi r-rekwiżiti kollha ta' liċenzja.",
+	'cant-delete-main-page' => 'Ma tistax tħassar jew tmexxi l-paġna prinċipali.',
 );
 
 /** Mirandese (Mirandés)
@@ -10148,9 +10166,11 @@ $messages['ps'] = array(
 	'group-Image-reviewer' => 'د انځور مخکتونکي',
 	'group-OTRS-member' => 'د OTRS غړي',
 	'group-OTRS-member-member' => '{{GENDER:$1|د OTRS غړی}}',
+	'grouppage-OTRS-member' => '{{ns:project}}:د OTRS غړي',
 	'group-accountcreator' => 'کارن-حساب جوړونکي',
 	'group-accountcreator-member' => '{{GENDER:$1|ګڼون جوړونکی}}',
 	'grouppage-accountcreator' => '{{ns:project}}:کارن-حساب جوړونکي',
+	'group-confirmed-member' => '{{GENDER:$1|تاييد شوی کارن}}',
 	'grouppage-confirmed' => '{{ns:project}}:تاييد شوي کارنان',
 	'group-filemover' => 'دوتنې لېږدونکي',
 	'group-filemover-member' => '{{GENDER:$1|دوتنه لېږدونکی}}',
