@@ -2103,8 +2103,12 @@ $messages['diq'] = array(
 	'wm-license-information-permission-see-below' => 'Cer bivine.',
 	'wm-license-information-other-versions' => 'Versiyonane binan',
 	'wm-license-lgpl-text' => "Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedava ya]]; ti eşkena ena dosya vila bike, ya zi vurne bine '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' ke cap bie pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ya versiyonê lisansê 2.1, ya zi versiyonê evelan (keyfe ti zani). Ma umid keni insallah ena vila kerdis herkes re feyda dano, '''ne yew garanti'''; belki hem zi pe yew '''ticari''' ya zi '''ser yew amacê sexsi'''. [{{int:wm-license-lgpl-2.1-full-link}} Versiyonê 2.1] bivini u [{{int:wm-license-gpl-3-full-link}} versiyonşê 3 ê GNU General Public License] de zaf detayan est ê.",
+	'wm-license-licensing-update-text' => 'Na etiketa lsansi, Dosya dı yew letey GFDL Lisans kerdışi newekerdışi [[{{int:wm-license-licensing-update-wiki-link}}|bo deye debiyayo de]].',
 	'wm-license-original-upload-log' => 'Loge bar kerdise bini',
 	'wm-license-own-work' => 'Virastisa mina',
+	'wm-license-pd-author-self-text' => "Ez, Wêrê ena teliferê, nê kari '''[[{{int:wm-license-pd-wiki-link}}|Malê şari]]'''deye ezo heserena.  Dınya heme ca dı ravêreno.",
+	'wm-license-pd-author-with-author-text' => "Na karkerdış heta  nuskar de '''$1''' ra biya '''[[{{int:wm-license-pd-wiki-link}}|malê şari]]''' deye hesereyaya. Dınya heme ca dı ravêrena.",
+	'wm-license-pd-author-not-legally-possible' => 'Tay dewletan dı no kanuniyey heta mıkum nêbone; o haldı:',
 	'wm-license-self-one-license' => 'Ez, ke ena dosya viraste, bine ena lisans ser cap kena:',
 	'wm-license-self-one-license-with-author' => '$1, ke ena dosya viraste, bine ena lisans ser cap kena:',
 	'wm-license-self-multiple-licenses' => 'Ez, ke ena dosya viraste, bine ena lisansan ser cap kena:',
@@ -3660,10 +3664,12 @@ $messages['hi'] = array(
 );
 
 /** Fiji Hindi (Latin script) (Fiji Hindi)
+ * @author Karthi.dr
  * @author Thakurji
  */
 $messages['hif-latn'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licence ke baare me sandes',
+	'wm-license-book-language' => 'Bhasa',
 	'wm-license-information-description' => 'Baare me',
 );
 
@@ -5979,6 +5985,11 @@ $messages['mt'] = array(
 	'wm-license-information-permission-see-below' => 'Ara hawn taħt.',
 	'wm-license-information-other-versions' => 'Verżjonijiet oħra',
 	'wm-license-own-work' => 'Opra proprja',
+	'wm-license-self-one-license' => "Jiena, id-detentur tal-copyright ta' dan ix-xogħol, niddikjara li se nippubblikah taħt il-liċenzja segwenti:",
+	'wm-license-self-one-license-with-author' => "$1, id-detentur tal-copyright ta' dan ix-xogħol, jiddikjara li se jippubblikah taħt il-liċenzja segwenti:",
+	'wm-license-self-multiple-licenses' => "Jiena, id-detentur tal-copyright ta' dan ix-xogħol, niddikjara li se nippubblikah taħt il-liċenzji segwenti:",
+	'wm-license-self-multiple-licenses-with-author' => "$1, id-detentur tal-copyright ta' dan ix-xogħol, jiddikjara li se jippubblikah taħt il-liċenzji segwenti:",
+	'wm-license-self-multiple-licenses-select' => "Tista' tagħżel il-liċenzja li tippreferi.",
 );
 
 /** Mirandese (Mirandés) */
@@ -7266,7 +7277,7 @@ $messages['ro'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ro:Software liber',
 	'wm-license-gfdl-1.2-and-later' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', versiunea 1.2 fie orice altă versiune ulterioară publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', doar versiunea 1.2 publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
-	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;doar',
+	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;exclusiv',
 	'wm-license-gfdl-1.3-and-later' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', versiunea 1.3 fie orice altă versiune ulterioară publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.3-only' => "Se permite copierea, distribuirea și/sau modificarea acestui document conform termenilor '''[[{{int:wm-license-gfdl-wiki-link}}|Documentației de licență liberă GNU]]''', doar versiunea 1.3 publicată de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; fără părți neschimbabile, texte de pe coperte frontale și finale. O copie a acestei licențe este inclusă în secțiunea numită ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gpl-wiki-link' => 'w:ro:Licența Publică Generală GNU',
@@ -8278,6 +8289,9 @@ $messages['sr-ec'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'У неким земљама, ово није законски изводљиво. У том случају:',
 	'wm-license-pd-author-self-any-purpose' => "Дозвољавам свакоме да користи дело '''у било коју сврху''', без икаквих услова, осим ако такве услове не налаже закон.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 дозвољава свакоме да користи дело '''у било коју сврху''', без икаквих услова, осим ако такве услове не налаже закон.",
+	'wm-license-pd-usgov-wiki-link' => 'w:sr:Федерална влада САД',
+	'wm-license-pd-usgov-work-wiki-link' => 'w:sr:Статус ауторских права дела владе САД',
+	'wm-license-pd-usgov-fema-wiki-link' => 'w:sr:Федерална агенција за управљање ванредним ситуацијама',
 	'wm-license-pd-wiki-link' => 'w:sr:Јавно власништво',
 	'wm-license-self-one-license' => 'Ја, носилац ауторског права овог дела, објављујем исто под следећом лиценцом:',
 	'wm-license-self-one-license-with-author' => '$1, носилац ауторског права овог дела, објављује исто под следећом лиценцом:',
@@ -8571,6 +8585,7 @@ $messages['ta'] = array(
 	'wm-license-information-permission-see-below' => 'கீழுள்ள அறிவிப்பைக் காணவும்.',
 	'wm-license-information-other-versions' => 'ஒத்தக்கோப்பு',
 	'wm-license-own-work' => 'சொந்த முயற்சி',
+	'wm-license-pd-author-not-legally-possible' => 'சில நாடுகளில் இது சாத்தியமில்லாது போகலாம். அவ்வாறாயின் :',
 	'wm-license-pd-usgov-wiki-link' => 'w:ta:ஐக்கிய அமெரிக்காவின் கூட்டரசு',
 	'wm-license-self-one-license' => 'இந்த ஆக்கத்தின் காப்புரிமையாளரான நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:',
 	'wm-license-self-one-license-with-author' => 'இந்த ஆக்கத்தின் காப்புரிமையாளரான $1 எனும் நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:',
@@ -8931,7 +8946,7 @@ $messages['tr'] = array(
 :* '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''''nın 1.2 sürümü ya da '''[[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]]''' tarafından yayımlanmış daha yeni sürümlerindeki koşullara uygun şekilde ve
 :* değişmeyen bölümler, ön kapak metni ve arka kapak metni olmaksızın,
 kopyalanması, dağıtılması ve/veya değiştirilmesine izin verilmiştir.
-Lisansın bir kopyası, \"'''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]'''\" başlıklı bölümde yer almaktadır.",
+Lisansın bir kopyası, ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]'' başlıklı bölümde yer almaktadır.",
 	'wm-license-gfdl-1.2-only' => "Bu belge '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''' şartları altında, sürüm sadece 1.2 olarak [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından dağıtım ve/veya değiştirme hakkı izni vermektedir; genellikle  eserlerin değişmeyen bölümleri, ön kapak metni ve arka kapak metni ile birlikte kullanılır. Lisansın bir kopyasına ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]'' sayfasından ulaşabilirsiniz.",
 	'wm-license-gfdl-1.2-only-header' => 'sadece&nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "Bu belge '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''' şartları altında, sürüm 1.3 veya sonraki sürümlerine uygun olarak [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından dağıtım ve/veya değiştirme hakkı izni vermektedir; genellikle  eserlerin değişmeyen bölümleri, ön kapak metni ve arka kapak metni ile birlikte kullanılır. Lisansın bir kopyasına ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Özgür Belgeleme Lisansı]]'' sayfasından ulaşabilirsiniz.",

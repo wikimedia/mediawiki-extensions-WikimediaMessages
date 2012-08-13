@@ -11172,7 +11172,7 @@ $messages['nn'] = array(
 	'wm-license-cc-conditions' => 'Med dei fylgjande vilkåra:',
 	'wm-license-cc-conditions-attribution-header' => 'namngjeving',
 	'wm-license-cc-conditions-attribution-text' => 'Du lyt godskriva verket på den måten som opphavpersonen eller lisensgjevaren har oppgjeve (men ikkje på ein slik måte at det kan verka som om dei går gode for deg eller måten du nyttar verket på).',
-	'wm-license-cc-conditions-share_alike-header' => 'del på same vilkår',
+	'wm-license-cc-conditions-share_alike-header' => 'del på same vilkåra',
 	'wm-license-cc-conditions-share_alike-text' => 'Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du berre distribuera resultatet under ein lik eller liknande lisens.',
 );
 
@@ -14942,6 +14942,7 @@ $messages['ta'] = array(
 	'wm-license-cc-by-2.1-au-text' => 'இந்த கோப்பு [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது.உரிமம் [//creativecommons.org/licenses/by/2.1/au/deed.ta Attribution 2.1 Australia] .',
 	'wm-license-cc-by-2.1-es-text' => 'இந்த கோப்பு  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது. [//creativecommons.org/licenses/by/2.1/es/deed.ta Attribution 2.1 Spain] உரிமம்.',
 	'wm-license-cc-by-2.1-jp-text' => '[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.1/jp/deed.en Attribution 2.1 Japan]  உரிமத்தின் கீழ் இக்கோப்பு உரிமமளிக்கப்படுகிறது.',
+	'wm-license-cc-by-sa-2.0-cl-text' => 'இந்த கோப்பு [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது. [//creativecommons.org/licenses/by/2.0/it/deed.ta Attribution 2.0 Chile] உரிமம்.',
 	'wm-license-cc-free' => 'நீங்கள் சுதந்திரமாக இருக்கிறீர்கள்:',
 	'wm-license-cc-free-to-share-header' => 'பகிர்ந்து கொள்ள',
 );
