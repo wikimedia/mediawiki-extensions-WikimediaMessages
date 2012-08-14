@@ -216,6 +216,7 @@ If you did not write this yourself, it must be available under terms consistent 
  * @author Jon Harald Søby
  * @author Lloffiwr
  * @author Meno25
+ * @author Mormegil
  * @author Nemo bis
  * @author Purodha
  * @author Raymond
@@ -311,6 +312,7 @@ used exclusively for [[wikipedia:User:Jimbo Wales|Jimbo Wales]]
 	'grouppage-ipblock-exempt' => '{{doc-group|ipblock-exempt|page}}',
 	'group-patroller' => '{{doc-group|patroller|prefix=wmf-}}',
 	'group-patroller-member' => '{{doc-group|patroller|member|prefix=wmf-}}',
+	'grouppage-patroller' => '{{doc-group|patroller|page|prefix=wmf-}}',
 	'group-researcher' => "{{doc-group|researcher}}
 From [[wikipedia:Wikipedia:Researcher#Researcher]]
 The 'researcher' group was created in April 2010 to allow individuals explicitly approved by the Wikimedia Foundation to search deleted pages and view deleted history entries without their associated text.",
@@ -11171,8 +11173,8 @@ $messages['rue'] = array(
 	'group-inactive-member' => 'неактівный хоснователь',
 	'grouppage-inactive' => '{{ns:project}}:Неактівны хоснователї',
 	'wikimedia-copyright' => 'Текст є доступный під <a href="//creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href="//wikimediafoundation.org/wiki/Условія_схоснованя">Условія схоснованя</a>.',
-	'wikimedia-copyrightwarning' => 'Уложінём ваш приспевок неодволательно увольнюєте під ліценціями [//creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Заховайте ліценцію&nbsp;3.0] і&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[//wikimediafoundation.org/wiki/Условія_хоснованя условіях ьоснованя].',
-	'wikimedia-editpage-tos-summary' => 'Кідь собі не желате, жебы ваш приспевок быв немилосердно управляный і&nbsp;вольно шыреный, пак го ту не укладайте. Покы не сьте автором тексту, мусить быти доступный за подмінок злучітельных з&nbsp;нашыма [//wikimediafoundation.org/wiki/Условія_хоснованя условіями хоснованя] і&nbsp;вы сугласите із вшыткыма прислушныма ліценчныма пожадавками.',
+	'wikimedia-copyrightwarning' => 'Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [//creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[//wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].',
+	'wikimedia-editpage-tos-summary' => 'Кідь собі не желате, жебы ваш приспівок быв немилосердно управляный і&nbsp;вольно шыреный, пак го гев не укладайте. Покы не сьте автором тексту, мусить быти доступный за условій одповідным к&nbsp;нашым [//wikimediafoundation.org/wiki/Условія_хоснованя условіями хоснованя|условіям хоснованя] і&nbsp;вы згоден зо вшыткыма одповідныма ліценчныма пожадавками.',
 );
 
 /** Aromanian (Armãneashce)
@@ -12611,30 +12613,43 @@ Om du inte själv skrev texten, så måste det vara tillgängligt under villkor 
 );
 
 /** Swahili (Kiswahili)
+ * @author Kwisha
  * @author Lloffiwr
  * @author Malangali
  * @author לערי ריינהארט
  */
 $messages['sw'] = array(
+	'wikimediamessages-desc' => 'Jumbe maalum za Wikimedia',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Michango',
 	'tooltip-n-sitesupport' => 'Tuunge mkono',
+	'group-OTRS-member' => 'Wanachama wa OTRS',
 	'group-accountcreator' => 'Wanzilishaji wa akaunti',
 	'group-accountcreator-member' => 'mwanzilishaji wa akaunti',
 	'grouppage-accountcreator' => '{{ns:project}}:Wanzilishaji wa akaunti',
 	'group-confirmed' => 'Watumiaji waliothibitishwa',
 	'group-confirmed-member' => 'mtumiaji aliyethibitishwa',
 	'grouppage-confirmed' => '{{ns:project}}:Watumiaji waliothibitishwa',
+	'group-editprotected' => 'Wahariri wa kurasa zilizolindwa',
+	'group-flood' => 'Watumiaji wa boti',
 	'group-import' => 'Waingizaji',
 	'group-import-member' => 'mwingizaji',
 	'grouppage-import' => '{{ns:project}}:Waingizaji',
+	'group-interface_editor' => 'Wahariri wa kusano',
+	'group-interface_editor-member' => '{{GENDER:$1|mhariri wa kusano}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Wahariri wa kusano',
+	'group-researcher' => 'Watafiti',
 	'group-transwiki' => 'Waingizaji kati za wiki',
 	'group-transwiki-member' => 'mwingizaji kati za wiki',
 	'grouppage-transwiki' => '{{ns:project}}:Waingizaji kati za wiki',
+	'group-trusted' => 'Watumiaji walioaminika',
+	'group-Staff' => 'Wafanyikazi',
 	'group-editinterface' => 'Wahariri wa kusano',
 	'group-editinterface-member' => 'mhariri wa kusano',
 	'group-steward' => 'Wakadamu',
 	'group-steward-member' => 'mkadamu',
+	'group-sysadmin' => 'Wasimamizi wa mfumoi',
+	'group-translationadmin' => 'Wasimamizi wa tafsiri',
 	'group-inactive' => 'Watumiaji waliotulia',
 	'group-inactive-member' => 'mtumiaji aliyetulia',
 	'grouppage-inactive' => '{{ns:project}}:Watumiaji waliotulia',

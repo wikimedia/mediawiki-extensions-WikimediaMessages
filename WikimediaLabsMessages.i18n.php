@@ -205,6 +205,23 @@ $messages['mk'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Gerrit-складишта за Викимедија',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'wikimedialabsmessages-desc' => 'Pesanan Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Repositori Gerrit Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Repositori Gerrit Continuous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Repositori Gerrit MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Repositori Gerrit sambungan MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repositori Gerrit pakej MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Repositori Gerrit peralatan MediaWiki',
+	'gerrittools-repogroup-operations' => 'Repositori Gerrit operasi MediaWiki',
+	'gerrittools-repogroup-test' => 'Repositori Gerrit percubaan',
+	'gerrittools-repogroup-translatewiki' => 'Repositori Gerrit Translatewiki.net',
+	'gerrittools-repogroup-wikimedia' => 'Repositori Gerrit Wikimedia',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
