@@ -1978,6 +1978,7 @@ $messages['bn'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:আইপি নিষেধাজ্ঞা রহিত',
 	'group-patroller' => 'পর্যবেক্ষক',
 	'group-patroller-member' => '{{GENDER:$1|পর্যবেক্ষক}}',
+	'grouppage-patroller' => '{{ns:project}}:স্বয়ংক্রিয় পরীক্ষক',
 	'group-researcher' => 'গবেষক',
 	'group-researcher-member' => '{{GENDER:$1|গবেষক}}',
 	'grouppage-researcher' => '{{ns:project}}:গবেষক',
@@ -3888,6 +3889,7 @@ Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [/
  * @author Theklan
  * @author Unai Fdz. de Betoño
  * @author Xabier Armendaritz
+ * @author පසිඳු කාවින්ද
  */
 $messages['eu'] = array(
 	'wikimediamessages-desc' => 'Wikimediaren mezu espezifikoak',
@@ -3896,6 +3898,7 @@ $messages['eu'] = array(
 	'tooltip-n-sitesupport' => 'Lagundu gaitzazu',
 	'specialpages-group-contribution' => 'Dohaintzaren egilea',
 	'nstab-creator' => 'Egilea',
+	'nstab-institution' => 'Istituzioa',
 	'nstab-sequence' => 'Sekuentzia',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|administratzaile ohia}}',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|burokrata ohia}}',
@@ -6889,20 +6892,43 @@ $messages['jv'] = array(
 	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Panggalangan_dana',
 	'sitesupport' => 'Nyumbang dana',
 	'tooltip-n-sitesupport' => 'Sokongen kita',
+	'specialpages-group-contribution' => 'Kontribusi/Panggalang dana',
+	'nstab-creator' => 'Panyipta',
+	'nstab-institution' => 'Lembaga',
+	'nstab-sequence' => 'Urutan',
+	'nstab-timedtext' => 'TèksKawektu',
+	'group-Ex_Administrator' => 'Mantan pangurus',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|mantan pangurus}}',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Mantan pangurus',
+	'group-Ex_Bureaucrat' => 'Mantan birokrat',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|mantan birokrat}}',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Mantan birokrat',
+	'group-Image-reviewer' => 'Panilik gambar',
+	'group-Image-reviewer-member' => '{{GENDER:$1|panilik gambar}}',
+	'grouppage-Image-reviewer' => '{{ns:project}}:Panilik gambar',
+	'group-OTRS-member' => 'Anggota OTRS',
+	'group-OTRS-member-member' => '{{GENDER:$1|anggota OTRS}}',
+	'grouppage-OTRS-member' => '{{ns:project}}:anggota OTRS',
 	'group-abusefilter' => 'Panyunting saringan salah-guna',
 	'group-abusefilter-member' => '{{GENDER:$1|panyunting saringan pangowah adat}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Panyunting saringan salah-guna',
 	'group-accountcreator' => 'Sing gawé akun',
 	'group-accountcreator-member' => '{{GENDER:$1|panggawé akun}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Sing gawé akun',
+	'group-arbcom' => 'Anggota komité arbitrasi',
+	'group-arbcom-member' => '{{GENDER:$1|anggota komité arbitrasi}}',
+	'grouppage-arbcom' => '{{ns:project}}:Anggota komité arbitrasi',
+	'group-autopatrolled' => 'Paronda otomatis',
 	'group-autopatrolled-member' => '{{GENDER:$1|paronda otomatis}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patroli otomatis',
 	'group-autoreviewer' => 'Pamriksa otomatis',
-	'group-autoreviewer-member' => 'pamriksa otomatis',
+	'group-autoreviewer-member' => '{{GENDER:$1|panilik otomatis}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:Pamriksa otomatis',
 	'group-bigexport' => 'Èksportir gedhé',
 	'group-bigexport-member' => '{{GENDER:$1|èksportir gedhé}}',
 	'grouppage-bigexport' => '{{ns:project}}:Èksportir gedhé',
+	'group-botadmin' => 'Bot mawa hak pangurus',
+	'group-botadmin-member' => '{{GENDER:$1|bot mawa hak pangurus}}',
 	'grouppage-botadmin' => '{{ns:project}}:Bot mawa hak pangurus',
 	'group-confirmed' => 'Panganggo wis dikonfirmasi',
 	'group-confirmed-member' => '{{GENDER:$1|panganggo sing wis dipesthèkaké}}',
@@ -6910,51 +6936,75 @@ $messages['jv'] = array(
 	'group-editprotected' => 'Panyunting kaca sing dijaga',
 	'group-editprotected-member' => '{{GENDER:$1|panyunting kaca sing dijaga}}',
 	'grouppage-editprotected' => '{{ns:project}}: Panyunting kaca sing dijaga',
+	'group-eliminator' => 'Èliminator',
+	'group-eliminator-member' => '{{GENDER:$1|èliminator}}',
+	'grouppage-eliminator' => '{{ns:project}}:Èliminator',
+	'group-filemover' => 'Pamindhah berkas',
+	'group-filemover-member' => '{{GENDER:$1|pamindhah berkas}}',
+	'grouppage-filemover' => '{{ns:project}}:Pamindhah berkas',
 	'group-flood' => 'Para panganggo bot',
-	'group-flood-member' => 'panganggo bot',
+	'group-flood-member' => '{{GENDER:$1|Panganggo bot}}',
 	'grouppage-flood' => '{{ns:project}}:Para panganggo bot',
 	'group-founder' => 'Pendhiri',
-	'group-founder-member' => 'Pandhiri',
+	'group-founder-member' => '{{GENDER:$1|sing ngadegaké}}',
 	'grouppage-founder' => '{{ns:project}}:Pandhiri',
 	'group-import' => 'Importir',
-	'group-import-member' => 'importir',
+	'group-import-member' => '{{GENDER:$1|importir}}',
 	'grouppage-import' => '{{ns:project}}:Importir',
+	'group-interface_editor' => 'Panyunting antarmuka',
+	'group-interface_editor-member' => '{{GENDER:$1|panyunting antarmuka}}',
+	'grouppage-interface_editor' => '{{ns:project}}:Panyunting antarmuka',
 	'group-ipblock-exempt' => 'Pambébasan saka pamblokiran IP',
-	'group-ipblock-exempt-member' => 'Pambébasan saka pamblokiran IP',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|pamardikan blokiran IP}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Pambébasan saka pamblokiran IP',
+	'group-patroller' => 'Paronda',
+	'group-patroller-member' => '{{GENDER:$1|paronda}}',
+	'grouppage-patroller' => '{{ns:project}}:Paronda',
+	'group-researcher' => 'Panliti',
+	'group-researcher-member' => '{{GENDER:$1|panliti}}',
+	'grouppage-researcher' => '{{ns:project}}:Panliti',
 	'group-rollbacker' => 'Sing mbalèkaké révisi',
-	'group-rollbacker-member' => 'Sing mbalèkaké révisi',
+	'group-rollbacker-member' => '{{GENDER:$1|pambalik}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Sing mbalèkaké révisi',
 	'group-transwiki' => 'Importir transwiki',
-	'group-transwiki-member' => 'importir transwiki',
+	'group-transwiki-member' => '{{GENDER:$1|importir transwiki}}',
 	'grouppage-transwiki' => '{{ns:project}}:Importir transwiki',
+	'group-trusted' => 'Panganggo pitaya',
+	'group-trusted-member' => '{{GENDER:$1|Panganggo pitaya}}',
+	'grouppage-trusted' => '{{ns:project}}:Panganggo pitaya',
 	'group-Global_bot' => 'Bot global',
-	'group-Global_bot-member' => 'bot global',
+	'group-Global_bot-member' => '{{GENDER:$1|bot global}}',
 	'group-Global_rollback' => 'Sing mbalèkaké révisi global',
-	'group-Global_rollback-member' => 'Sing mbalèkaké révisi global',
+	'group-Global_rollback-member' => '{{GENDER:$1|pambalik global}}',
 	'grouppage-Global_rollback' => 'm:Global rollback',
+	'group-Global_sysops' => 'Opsis global',
+	'group-Global_sysops-member' => '{{GENDER:$1|opsis global}}',
 	'group-Ombudsmen' => 'Ombudsman',
-	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsman}}',
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
 	'group-Staff' => 'Staf',
 	'group-Staff-member' => 'staf',
 	'group-editinterface' => 'Panyunting adu-rai',
-	'group-editinterface-member' => 'panyunting adu-rai',
+	'group-editinterface-member' => '{{GENDER:$1|panyunting antarmuka}}',
 	'group-steward' => 'Steward',
-	'group-steward-member' => 'steward',
+	'group-steward-member' => '{{GENDER:$1|pramugara}}',
 	'group-sysadmin' => 'Administrator sistem',
-	'group-sysadmin-member' => 'administrator sistem',
+	'group-sysadmin-member' => '{{GENDER:$1|pangurus sistem}}',
 	'grouppage-sysadmin' => 'm:System administrators',
+	'group-translationadmin' => 'Pangurus terjemahan',
+	'group-translationadmin-member' => '{{GENDER:$1|pangurus terjemahan}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Pangurus terjemahan',
 	'group-coder' => 'Programer',
-	'group-coder-member' => 'programer',
+	'group-coder-member' => '{{GENDER:$1|ahli kodhé}}',
 	'grouppage-coder' => 'Project:Programer',
 	'group-inactive' => 'Panganggo ora aktif',
-	'group-inactive-member' => 'panganggo ora aktif',
+	'group-inactive-member' => '{{GENDER:$1|panganggo ora aktip}}',
 	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
 	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
 	'wikimedia-copyrightwarning' => 'Kanthi nge-klik tombol simpen, panjenengan sarujuk nglepasaken kontribusi panjenengan salajengipun wonten ing saandhaping [//creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] lan [//www.gnu.org/copyleft/fdl.html GFDL]. Panjenengan sarujuk dipun-paringi krédit déning panganggé sanès, sakbotenipun, lumantar pranala utawi URL dhumateng kaca ingkang panjenengan kontribusèkaken. Pirsani [//wikimediafoundation.org/wiki/Terms_of_Use Katentuan Pangginaan] supados langkung gamblang.',
 	'wikimedia-editpage-tos-summary' => 'Manawi panjenengan boten ngersakaken seratan panjenengan bakal dipunsuntig lan dipunsebar malih manawi dipunkersakaken, sampun ngantos ngirim seratan ing ngriki.
 Manawi punika sanès seratan panjenengan piyambak, seratan punika kedah kasediakaken wonten ing saandhaping [//wikimediafoundation.org/wiki/Terms_of_Use Katentuan pangginaan], lan panjenengan sarujuk manut dhumateng sadaya persaratan lisènsi ingkang kagandhèng.',
+	'cant-delete-main-page' => 'Sampéyan ora bisa mbusak utawa mindhahaké kaca utama.',
 );
 
 /** Georgian (ქართული)
@@ -8859,9 +8909,15 @@ $messages['mt'] = array(
 	'group-import-member' => '{{GENDER:$1|importatur}}',
 	'grouppage-import' => '{{ns:project}}:Importaturi',
 	'group-interface_editor' => 'Edituri tal-interfaċċa',
+	'group-interface_editor-member' => '{{GENDER:$1|editur tal-interfaċċa}}',
+	'grouppage-interface_editor' => '{{ns:project}}:Edituri tal-interfaċċa',
 	'group-ipblock-exempt' => 'eżenzjonijiet tal-blokki tal-IP',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|eżenti mill-imblokk tal-IP}}',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Eżenti mill-imblukkar tal-IP',
 	'group-researcher' => 'Riċerkaturi',
+	'group-researcher-member' => '{{GENDER:$1|riċerkatur|riċerkatriċi}}',
+	'grouppage-researcher' => '{{ns:project}}:Riċerkaturi',
+	'group-rollbacker' => 'Restawraturi',
 	'group-rollbacker-member' => '{{GENDER:$1|rollbacker}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'group-transwiki' => 'Importaturi transwiki',
@@ -8901,6 +8957,7 @@ Ara t-<a href="//wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a
 Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta\' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi abbażi tal-liċenzja Creative Commons.',
 	'wikimedia-editpage-tos-summary' => "Jekk ma tridx li l-ktiba tiegħek tiġi modifikata jew ridistribwita skont dak mixtieq, allura ddaħħalhiex hawnhekk. Jekk inti ma ktibx din il-ktiba, din trid tkun disponibbli taħt it-termini konsistenti mat-[//wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu], u trid taċċetta li ssegwi r-rekwiżiti kollha ta' liċenzja.",
 	'cant-delete-main-page' => 'Ma tistax tħassar jew tmexxi l-paġna prinċipali.',
+	'wikimedia-translationnotifications-signup-legal' => "Inti taqbel li billi tipprovid din l-informazzjoni lill-Fondazzjoni Wikimedia aħna nistgħu nikkuntatjawk rigward traduzzjonijiet jew suġġetti oħra relatati mal-moviment tal-Wikimedia li naħsbu li jistgħu jinteressawk. Inti taqbel li d-dejta tiegħek tista' tiġi miżmuma fl-Istati Uniti tal-Amerika u hi suġġetta għall-[https://wikimediafoundation.org/wiki/Privacy_policy politika tal-privatezza] tagħna.",
 );
 
 /** Mirandese (Mirandés)
@@ -9414,6 +9471,18 @@ Als uw bewerking niet door uzelf is geschreven, dan moet uw toevoeging beschikba
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 );
 
+/** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
+ * @author Siebrand
+ */
+$messages['nl-informal'] = array(
+	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, ga je akkoord met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en ga je onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [//nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
+Je gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
+	'wikimedia-editpage-tos-summary' => 'Als je niet wilt dat je bijdrage bewerkt of gedistribueerd wordt, sla deze dan niet op.
+Als je bewerking niet door jezelf is geschreven, dan moet je toevoeging beschikbaar zijn onder condities die consistent zijn met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en ga je akkoord met alle relevante licentievoorwaarden.',
+	'cant-delete-main-page' => 'Je kunt de hoofdpagina niet verwijderen of hernoemen.',
+	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geef je ons toestemming om contact met je op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze je interesse hebben. Je stemt in met het opslaan van je gegevens in de Verenigde Staten van Amerika en dat je gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
+);
+
 /** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Frokor
  * @author Gunnernett
@@ -9814,6 +9883,7 @@ $messages['pih'] = array(
 /** Polish (polski)
  * @author Beau
  * @author Derbeth
+ * @author Lazowik
  * @author Leinad
  * @author Meno25
  * @author Nux
@@ -9939,6 +10009,7 @@ Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunk
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu w licencję [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [//wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
 	'wikimedia-editpage-tos-summary' => 'Jeśli nie chcesz, aby Twój tekst mógł być dowolnie zmieniany przez każdego oraz rozpowszechniany bez ograniczeń, nie umieszczaj go tutaj. Jeśli tekst nie został napisany przez Ciebie samodzielnie, musi on być dostępny na zasadach zgodnych z [//wikimediafoundation.org/wiki/Warunki_korzystania warunkami wykorzystania] oraz musisz zgodzić się na wszystkie istotne wymogi licencyjne.',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
+	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
 );
 
 /** Piedmontese (Piemontèis)
@@ -11207,6 +11278,7 @@ $messages['ruq-latn'] = array(
  */
 $messages['sa'] = array(
 	'wikimediamessages-desc' => 'विकिमाध्यमस्य विशिष्टसन्देशाः',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'दानम्',
 	'tooltip-n-sitesupport' => 'साहाय्यं क्रियताम्',
 	'specialpages-group-contribution' => 'योगदानम्/निधिसङ्ग्राहकः',
@@ -11276,6 +11348,7 @@ $messages['sa'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ऐपि अवरोधमुक्तः',
 	'group-patroller' => 'निरीक्षकाः',
 	'group-patroller-member' => '{{GENDER:$1|निरीक्षकः}}',
+	'grouppage-patroller' => '{{ns:project}}:आरक्षकाः',
 	'group-researcher' => 'संशोधकाः',
 	'group-researcher-member' => '{{GENDER:$1|संशोधकः}}',
 	'grouppage-researcher' => '{{ns:project}}:संशोधकाः',
@@ -11312,6 +11385,9 @@ $messages['sa'] = array(
 	'group-inactive' => 'निष्क्रीयसदस्याः',
 	'group-inactive-member' => '{{GENDER:$1|निष्क्रिययोजकः}}',
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीयसदस्याः',
+	'wikimedia-copyright' => 'पाठ्यांशः अत्र उपलभ्यते<a href="//creativecommons.org/licenses/by-sa/3.0/">सर्जनसामान्यलक्षणम्/Share-Alike License</a>;
+अन्ये नियमाः आन्विताः भवेयुः ।
+दृश्यताम्<a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> अधिकविवरणाय ।',
 	'cant-delete-main-page' => 'मुख्यपृष्ठस्य विलोपनं चालनं वा अशक्यम् ।',
 );
 
@@ -12623,6 +12699,7 @@ $messages['sw'] = array(
 	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Michango',
 	'tooltip-n-sitesupport' => 'Tuunge mkono',
+	'nstab-institution' => 'Taasisi',
 	'group-OTRS-member' => 'Wanachama wa OTRS',
 	'group-accountcreator' => 'Wanzilishaji wa akaunti',
 	'group-accountcreator-member' => 'mwanzilishaji wa akaunti',
@@ -12645,11 +12722,13 @@ $messages['sw'] = array(
 	'group-trusted' => 'Watumiaji walioaminika',
 	'group-Staff' => 'Wafanyikazi',
 	'group-editinterface' => 'Wahariri wa kusano',
-	'group-editinterface-member' => 'mhariri wa kusano',
+	'group-editinterface-member' => '{{GENDER:$1|mhariri wa kusano}}',
 	'group-steward' => 'Wakadamu',
 	'group-steward-member' => 'mkadamu',
 	'group-sysadmin' => 'Wasimamizi wa mfumoi',
+	'group-sysadmin-member' => '{{GENDER:$1|msimamizi wa mfumo}}',
 	'group-translationadmin' => 'Wasimamizi wa tafsiri',
+	'group-translationadmin-member' => '{{GENDER:$1|msimamizi wa tafsiri}}',
 	'group-inactive' => 'Watumiaji waliotulia',
 	'group-inactive-member' => 'mtumiaji aliyetulia',
 	'grouppage-inactive' => '{{ns:project}}:Watumiaji waliotulia',

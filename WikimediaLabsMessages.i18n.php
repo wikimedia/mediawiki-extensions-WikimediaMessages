@@ -37,6 +37,13 @@ $messages['qqq'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Gerrit repositories for Wikimedia projects',
 );
 
+/** Arabic (العربية)
+ * @author Meno25
+ */
+$messages['ar'] = array(
+	'gerrittools-repogroup-test' => 'اختبار مستودعات جيريت',
+);
+
 /** Breton (brezhoneg)
  * @author Fulup
  */
@@ -103,6 +110,18 @@ $messages['fr'] = array(
 	'gerrittools-repogroup-test' => 'Dépôts de Test Gerrit',
 	'gerrittools-repogroup-translatewiki' => 'Référentiels Gerrit de translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Dépôts de Wikimedia Gerrit',
+);
+
+/** Franco-Provençal (arpetan)
+ * @author ChrisPtDe
+ */
+$messages['frp'] = array(
+	'wikimedialabsmessages-desc' => 'Mèssâjos de Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Dèpôts de Wikimedia Analytics Gerrit',
+	'gerrittools-repogroup-integration' => 'Dèpôts de Wikimedia Continuous Integration Gerrit',
+	'gerrittools-repogroup-mediawiki' => 'Dèpôts de MediaWiki Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Dèpôts Gerrit de translatewiki.net',
+	'gerrittools-repogroup-wikimedia' => 'Dèpôts de Wikimedia Gerrit',
 );
 
 /** Galician (galego)

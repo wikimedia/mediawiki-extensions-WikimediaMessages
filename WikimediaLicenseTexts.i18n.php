@@ -3134,18 +3134,22 @@ $messages['fy'] = array(
  * @author Diebuche
  * @author Multichill
  * @author Stifle
+ * @author පසිඳු කාවින්ද
  */
 $messages['ga'] = array(
 	'wikimedialicensetexts-desc' => 'Teachtaireachtaí cheadúnas Wikimedia',
 	'wm-license-attribution-with-author-text' => "Ceadaíonn sealbhóir cóipcheart an chomhaid seo, $1, úsáid a bhaint as '''i gcomhair aidhm ar bith''' má aimnítear sealbhóir an chóipchirt. Is féidir é a athroinnt, obair díorthach a dhéanamh de, agus úsáid tráchtála a bhaint as, agus tá gach úsáid eile ceadaithe freisin.",
 	'wm-license-attribution-without-author-text' => "Ceadaíonn sealbhóir cóipcheart an chomhaid seo úsáid a bhaint as '''i gcomhair aidhm ar bith''' má aimnítear sealbhóir an chóipchirt. Is féidir é a athroinnt, obair díorthach a dhéanamh de, agus úsáid tráchtála a bhaint as, agus tá gach úsáid eile ceadaithe freisin.",
 	'wm-license-artwork-artist' => 'Cumadóir',
+	'wm-license-artwork-title' => 'Teideal',
 	'wm-license-artwork-dimensions' => 'Toisí',
 	'wm-license-artwork-current-location' => 'Suíomh',
 	'wm-license-artwork-credit-line' => 'Fuarthas ó/Cnuasach',
 	'wm-license-artwork-references' => 'Tagairtí',
 	'wm-license-artwork-id' => 'Uimhir shealbú',
 	'wm-license-artwork-source' => 'Foinse/Grianghrafadóir',
+	'wm-license-book-language' => 'Teanga',
+	'wm-license-book-title' => 'Teideal',
 	'wm-license-fsf-wiki-link' => 'w:ga:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:ga:Bogearraí saora',
 	'wm-license-gfdl-1.2-and-later' => "Tugtar cead an doiciméad seo a chóipeáil, a dháil amach agus/nó a athrú de réir choinníollacha '''[[{{int:wm-license-gfdl-wiki-link}}|Cheadúnas GNU na nDoiciméad Saor]]''', Leagan 1.2 nó leagan ar bith níos nuaí a fhoilsítear ag an [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; gan Ranna Do-athraithe, gan Téacsanna an Chlúdaigh Tosaigh, gan Téacsanna an Chlúdaigh Deiridh.",
@@ -4564,7 +4568,7 @@ $messages['ja'] = array(
 	'wm-license-information-permission-reusing-link' => 'Commons:ウィキメディア内のコンテンツを外部で再利用する',
 	'wm-license-information-permission-reusing-text' => 'ファイルの再利用',
 	'wm-license-information-permission-see-below' => '下記を参照。',
-	'wm-license-information-other-versions' => '他のバージョン',
+	'wm-license-information-other-versions' => 'その他のバージョン',
 	'wm-license-lgpl-text' => "このライブラリは[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]の発行する'''[[{{int:wm-license-lgpl-wiki-link}}|GNU 劣等一般公衆利用許諾書]] (GNU Lesser General Public License)'''（バージョン2.1、またはそれ以降のライセンス）の規約に基づき、このライブラリを再配布および改変できます。この作品は、有用であることを期待して配布されていますが、'''商用'''あるいは'''特定の目的'''に適するかどうかも含めて、暗黙的にも、'''一切保証されません'''。詳しくは、[{{int:wm-license-lgpl-2.1-full-link}} バージョン2.1]と[{{int:wm-license-lgpl-3-full-link}} バージョン3のGNU 劣等一般公衆利用許諾書]をご覧ください。",
 	'wm-license-lgpl-wiki-link' => 'w:ja:GNU Lesser General Public License',
 	'wm-license-licensing-update-text' => 'このライセンスのテンプレートは、GFDLの[[{{int:wm-license-licensing-update-wiki-link}}|ライセンス・アップデート]]によりこのファイルに追加されたものです。',
@@ -4644,10 +4648,22 @@ $messages['jv'] = array(
 	'wm-license-creator-linkback' => 'Ubungaké manèh nèng templat kothak inpo Panyipta',
 	'wm-license-gfdl-wiki-link' => 'w:jv:GFDL',
 	'wm-license-information-description' => 'Dèskripsi',
+	'wm-license-information-description-missing' => "Berkas iki ora nduwé '''pawedharan''', lan mungkin kakurangan ipormasi liya.",
+	'wm-license-information-description-missing-request' => 'Mangga sumadhiyakaké pawedharan migunani kanggo berkas iki.',
 	'wm-license-information-source' => 'Sumber',
+	'wm-license-information-source-missing' => "Berkas iki kakurangan inpormasi '''sumber'''.",
+	'wm-license-information-source-missing-request' => 'Mangga sunting katrangan kaca iki lan sadhiyakaké sumber.',
 	'wm-license-information-date' => 'Tanggal',
 	'wm-license-information-author' => 'Pangarang',
+	'wm-license-information-author-missing' => "Berkas iki kakurangan inpormasi '''panganggit'''.",
+	'wm-license-information-permission' => 'Idin',
+	'wm-license-information-permission-reusing-text' => 'Anggo manèh berkasi iki',
+	'wm-license-information-permission-see-below' => 'Delok ngisor',
+	'wm-license-information-other-versions' => 'Vèrsi liya',
+	'wm-license-original-upload-log' => 'Log unggah asli',
+	'wm-license-own-work' => 'Karya dhéwé',
 	'wm-license-pd-wiki-link' => 'w:jv:Domain umum',
+	'wm-license-self-multiple-licenses-select' => 'Sampéyan olèh milih lisènsi Sampéyan.',
 );
 
 /** Georgian (ქართული)
@@ -6428,6 +6444,28 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 	'wm-license-self-multiple-licenses-select' => 'U mag zelf één van de licenties kiezen.',
 );
 
+/** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
+ * @author Siebrand
+ */
+$messages['nl-informal'] = array(
+	'wm-license-cecill-text' => 'Dit werk is [[{{int:wm-license-free-software-wiki-link}}|vrije software]]; je mag het heruitgeven of wijzigen onder de voorwaarden van de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]].
+De voorwaarden van de CeCILL-licentie zijn beschikbaar op [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-fal-text' => "Copyleft: dit kunstwerk is vrij; je mag het heruitgeven en/of wijzigen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-fal-wiki-link}}|Free Art-licentie]]'''.
+Je kunt een voorbeeld van de licentie vinden op de [{{int:wm-license-fal-full-link}} website van Copyleft Attitude] en op andere websites.",
+	'wm-license-gpl-text' => "Dit werk is [[{{int:wm-license-free-software-wiki-link}}|vrije software]];
+je mag de software heruitgeven en/of aanpassen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-gpl-wiki-link}}|GNU Lesser General Public License]]''' zoals gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].
+De geldende versie is 2 van de Licentie, of enige latere versie.
+Dit werk wordt gedistribueerd in de hoop dat het bruikbaar is, maar '''zonder enige garantie''';
+zelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid voor een bepaald doel'''.
+Zie [{{int:wm-license-gpl-2-full-link}} versie 2] en [{{int:wm-license-gpl-3-full-link}} versie 3 van de GNU General Public License] voor meer details.",
+	'wm-license-lgpl-text' => "Deze bibliotheek is [[{{int:wm-license-free-software-wiki-link}}|vrije software]];
+je mag deze heruitgeven en/of aanpassen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zoals gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].
+De geldende versie is 2.1 van de Licentie, of (naar uw keuze) enige latere versie.
+Deze bibliotheek wordt gedistribueerd in de hoop dat deze bruikbaar is, maar '''zonder enige garantie''';
+zelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid voor een bepaald doel'''.
+Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] voor meer details.",
+);
+
 /** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Diebuche
  * @author Gunnernett
@@ -7647,6 +7685,8 @@ $messages['rue'] = array(
  */
 $messages['sa'] = array(
 	'wikimedialicensetexts-desc' => 'विकिमीडिया-अनुमतिसन्देशाः',
+	'wm-license-attribution-with-author-text' => "अस्याः सञ्चिकायाः प्रतिकृतेः अधिकृत् $1 '''कस्मैचिदपि कारणाय''' अस्याः उपयोगं कर्तुम् अनुमतिं प्रदास्यति यदि तस्य योग्यः उल्लेखः भवेत् । पुनर्वितरणाय, औत्सर्गिककार्याय, वाणिज्यहेतवे, अन्यकारणेभ्यः अपि अस्याः उपयोगं कर्तुं शक्यते ।",
+	'wm-license-attribution-without-author-text' => "अस्याः सञ्चिकायाः प्रतिकृतेः अधिकृत् '''कस्मैचिदपि कारणाय''' अस्याः उपयोगं कर्तुम् अनुमतिं प्रदास्यति यदि तस्य योग्यः उल्लेखः भवेत् । पुनर्वितरणाय, औत्सर्गिककार्याय, वाणिज्यहेतवे, अन्यकारणेभ्यः अपि अस्याः उपयोगं कर्तुं शक्यते ।",
 	'wm-license-artwork-artist' => 'कलाविद्',
 	'wm-license-artwork-title' => 'शीर्षकम्',
 	'wm-license-artwork-medium' => 'माध्यमम्',
@@ -7674,6 +7714,7 @@ $messages['sa'] = array(
 	'wm-license-book-translator' => 'अनुवादकः',
 	'wm-license-book-volume' => 'खंडः',
 	'wm-license-book-year-of-publication' => 'प्रकाशनस्य वर्षम्',
+	'wm-license-cecill-text' => 'इदं कार्यं [[{{int:wm-license-free-software-wiki-link}}मुक्ततन्त्रांशयुतम्]]; अस्य पुनर्वितरणं परिवर्तनं वा कर्तुम् अर्हति यदि अयं [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] नियमः पाल्येत । अनुमतेः नियमाः अत्र उपलभ्यन्ते [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'विकल्पनाम',
 	'wm-license-creator-description' => 'वर्णनम्',
 	'wm-license-creator-date-of-birth' => 'जन्मतिथिः',
@@ -7683,6 +7724,7 @@ $messages['sa'] = array(
 	'wm-license-creator-work-period' => 'कार्यावधिः',
 	'wm-license-creator-work-location' => 'कार्यस्थानम्',
 	'wm-license-creator-linkback' => 'निर्मातुः सारमञ्जूषाप्राकृतिं प्रति पुनः सम्पर्कः',
+	'wm-license-fal-text' => "इदं कलाकार्यं निश्शुल्कम्; अस्य पुनर्वितरणं परिवर्तनं वा कर्तुम् अर्हति यदि अयं '''[[{{int:wm-license-fal-wiki-link}}|मुक्तकलानुमतिः]]''' नियमः पाल्येत । अस्याः अनुमतेः उदाहरणपत्रम् अत्र उपलभ्यन्ते [{{int:wm-license-fal-full-link}} कलास्वाम्यलक्षणक्षेत्रम्]",
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;मात्रम्',
 	'wm-license-information-table-summary' => 'सञ्चिका किं दर्शयति, कथं निर्मितं, कृतिस्वाम्यस्य स्थितिः, मूलम् इत्यादिभिः समग्रविवरणैः युक्तं दृष्टान्तरूपं कोष्टकमिदम् ।',
 	'wm-license-information-description' => 'वर्णनम्',
@@ -8527,6 +8569,7 @@ Vidaredistribution, redigering av verk, kommersiell användning och all övrig a
  * @author Muddyb Blast Producer
  */
 $messages['sw'] = array(
+	'wikimedialicensetexts-desc' => 'Jumba za leseni za Wikimedia',
 	'wm-license-artwork-title' => 'Jina',
 	'wm-license-book-edition' => 'Toleo',
 	'wm-license-book-editor' => 'Mhariri',
@@ -8540,6 +8583,7 @@ $messages['sw'] = array(
 	'wm-license-book-translator' => 'Mfasiri',
 	'wm-license-book-year-of-publication' => 'Mwaka wa kuchapishwa',
 	'wm-license-creator-alternative-names' => 'Majina mbadala',
+	'wm-license-creator-description' => 'Maelezo',
 	'wm-license-creator-date-of-birth' => 'Tarehe ya Kuzaliwa',
 	'wm-license-creator-date-of-birth-and-death' => 'Tarehe ya kuzaliwa/kufariki',
 	'wm-license-creator-location-of-birth' => 'Eneo la kuzaliwa',
@@ -8554,7 +8598,9 @@ $messages['sw'] = array(
 	'wm-license-gfdl-1.3-only' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.3 tu ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sw:GNU Free Documentation License',
 	'wm-license-information-description' => 'Maelezo',
+	'wm-license-information-description-missing' => "Faili haina '''maelezo''', na inaweza kuwa inakosa habari nyingine.",
 	'wm-license-information-source' => 'Chanzo',
+	'wm-license-information-source-missing' => "Faili inakosa habari ya '''chanzoi''' chake.",
 	'wm-license-information-date' => 'Tarehe',
 	'wm-license-information-author' => 'Mwandishi',
 	'wm-license-information-author-missing' => "Faili inakisa habari ya '''mwandishi'''.",
@@ -8564,6 +8610,7 @@ $messages['sw'] = array(
 	'wm-license-information-other-versions' => 'Matoleo mengine',
 	'wm-license-original-upload-log' => 'Kumbukumbu ya upakizaji wa asili',
 	'wm-license-own-work' => 'Kazi yangu',
+	'wm-license-pd-author-not-legally-possible' => 'Katika nchi zingine hii haiwezekani kisheria; kama ni hivyo:',
 	'wm-license-self-multiple-licenses-select' => 'Unaweza kuchagua leseni unazoziona vyema.',
 );
 
