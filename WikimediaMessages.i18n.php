@@ -7001,10 +7001,11 @@ $messages['jv'] = array(
 	'group-inactive-member' => '{{GENDER:$1|panganggo ora aktip}}',
 	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
 	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
-	'wikimedia-copyrightwarning' => 'Kanthi nge-klik tombol simpen, panjenengan sarujuk nglepasaken kontribusi panjenengan salajengipun wonten ing saandhaping [//creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] lan [//www.gnu.org/copyleft/fdl.html GFDL]. Panjenengan sarujuk dipun-paringi krédit déning panganggé sanès, sakbotenipun, lumantar pranala utawi URL dhumateng kaca ingkang panjenengan kontribusèkaken. Pirsani [//wikimediafoundation.org/wiki/Terms_of_Use Katentuan Pangginaan] supados langkung gamblang.',
+	'wikimedia-copyrightwarning' => 'Mawa ngeklik tombol "{{int:savearticle}}", Sampéyan ngiyakaké [//wikimediafoundation.org/wiki/Terms_of_use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisènsi CC-BY-SA 3.0] lan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.',
 	'wikimedia-editpage-tos-summary' => 'Manawi panjenengan boten ngersakaken seratan panjenengan bakal dipunsuntig lan dipunsebar malih manawi dipunkersakaken, sampun ngantos ngirim seratan ing ngriki.
 Manawi punika sanès seratan panjenengan piyambak, seratan punika kedah kasediakaken wonten ing saandhaping [//wikimediafoundation.org/wiki/Terms_of_Use Katentuan pangginaan], lan panjenengan sarujuk manut dhumateng sadaya persaratan lisènsi ingkang kagandhèng.',
 	'cant-delete-main-page' => 'Sampéyan ora bisa mbusak utawa mindhahaké kaca utama.',
+	'wikimedia-translationnotifications-signup-legal' => 'Sampéyan ngiyakaké yèn nyadhiyakaké Yayasan Wikipédia informasi iki awak dhéwé bisa ngubungi Sampéyan ngenani terjamahan utawa topik liya sing ana kaitané karo gerakan Wikimédia awak dhéwé kersa marang Sampéyan. Sampéyan ngiyakaké data Sampéyan disimpen nèng Amèrika Serikat lan dadi [https://wikimediafoundation.org/wiki/Privacy_policy kabijakan privasi] awak dhéwé.',
 );
 
 /** Georgian (ქართული)
@@ -7399,9 +7400,9 @@ $messages['ko'] = array(
 	'group-founder' => '설립자',
 	'group-founder-member' => '{{GENDER:$1|설립자}}',
 	'grouppage-founder' => '{{ns:project}}:설립자',
-	'group-import' => '임포터',
-	'group-import-member' => '{{GENDER:$1|임포터}}',
-	'grouppage-import' => '{{ns:project}}:임포터',
+	'group-import' => '가져오는자',
+	'group-import-member' => '{{GENDER:$1|가져오는자}}',
+	'grouppage-import' => '{{ns:project}}:가져오는자',
 	'group-interface_editor' => '인터페이스 편집자',
 	'group-interface_editor-member' => '{{GENDER:$1|인터페이스 편집자}}',
 	'grouppage-interface_editor' => '{{ns:project}}:인터페이스 편집자',
@@ -7417,9 +7418,9 @@ $messages['ko'] = array(
 	'group-rollbacker' => '되돌리기 기능 사용자',
 	'group-rollbacker-member' => '{{GENDER:$1|되돌리기 기능 사용자}}',
 	'grouppage-rollbacker' => '{{ns:project}}:되돌리기 기능 사용자',
-	'group-transwiki' => '트랜스위키 임포터',
-	'group-transwiki-member' => '{{GENDER:$1|트랜스위키 임포터}}',
-	'grouppage-transwiki' => '{{ns:project}}:트랜스위키 임포터',
+	'group-transwiki' => '트랜스위키 가져오는자',
+	'group-transwiki-member' => '{{GENDER:$1|트랜스위키 가져오는자}}',
+	'grouppage-transwiki' => '{{ns:project}}:트랜스위키 가져오는자',
 	'group-trusted' => '신뢰할수 있는 사용자',
 	'group-trusted-member' => '{{GENDER:$1|신뢰할수 있는 사용자}}',
 	'grouppage-trusted' => '{{ns:project}}:신뢰할수 있는 사용자',
@@ -13980,15 +13981,21 @@ $messages['uk'] = array(
 
 /** Urdu (اردو)
  * @author محبوب عالم
+ * @author පසිඳු කාවින්ද
  */
 $messages['ur'] = array(
 	'wikimediamessages-desc' => 'ویکیمیڈیا معیّن پیغامات',
 	'sitesupport' => 'رابطہ',
 	'tooltip-n-sitesupport' => 'معاونت کیجئے',
+	'nstab-creator' => 'خالق',
+	'nstab-institution' => 'ادارے',
 	'group-accountcreator' => 'کھاتہ سازان',
 	'group-founder' => 'بانیان',
 	'group-import-member' => 'برآمدکار',
+	'group-trusted' => 'قابل اعتماد صارفین',
 	'group-trusted-member' => 'معتمد صارف',
+	'group-Global_bot' => 'عالمی خودکار صارف',
+	'group-Staff' => 'سٹاف',
 	'group-Staff-member' => 'عملہ',
 	'group-editinterface' => 'مدیرانِ سطح البین',
 	'group-sysadmin' => 'منتظمینِ نظام',
