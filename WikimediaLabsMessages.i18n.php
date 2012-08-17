@@ -143,9 +143,18 @@ $messages['gl'] = array(
 
 /** Hebrew (עברית)
  * @author Inkbug
+ * @author ערן
  */
 $messages['he'] = array(
 	'wikimedialabsmessages-desc' => 'הודעות מעבדות ויקימדיה',
+	'gerrittools-repogroup-analytics' => 'משאבי גרריט אנליטיים של ויקימדיה',
+	'gerrittools-repogroup-integration' => 'משאבי גרריט לאינטגרציה מתמשכת של ויקימדיה',
+	'gerrittools-repogroup-mediawiki' => 'משאבי גרריט של  מדיה־ויקי',
+	'gerrittools-repogroup-mediawiki/extensions' => 'משאבי גרריט של הרחבות מדיה־ויקי',
+	'gerrittools-repogroup-mediawiki/tools' => 'משאבי גרריט של כלי מדיה־ויקי',
+	'gerrittools-repogroup-operations' => 'משאבי גרריט תפעוליים של ויקימדיה',
+	'gerrittools-repogroup-test' => 'משאבי גרריט לבדיקות',
+	'gerrittools-repogroup-wikimedia' => 'משאבי גרריט של ויקימדיה',
 );
 
 /** Interlingua (interlingua)

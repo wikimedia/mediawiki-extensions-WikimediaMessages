@@ -3280,6 +3280,7 @@ $messages['dsb'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Wuwześe z blokěrowanja IP',
 	'group-patroller' => 'Doglědowarje',
 	'group-patroller-member' => '{{GENDER:$1|doglědowaŕ|doglědowarka}}',
+	'grouppage-patroller' => '{{ns:project}}:Doglědowarje',
 	'group-researcher' => 'Rešeršěrowarje',
 	'group-researcher-member' => '{{GENDER:$1|rešeršěrowaŕ|rešeršěrowarka}}',
 	'grouppage-researcher' => '{{ns:project}}:Rešeršowarje',
@@ -11389,7 +11390,11 @@ $messages['sa'] = array(
 	'wikimedia-copyright' => 'पाठ्यांशः अत्र उपलभ्यते<a href="//creativecommons.org/licenses/by-sa/3.0/">सर्जनसामान्यलक्षणम्/Share-Alike License</a>;
 अन्ये नियमाः आन्विताः भवेयुः ।
 दृश्यताम्<a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> अधिकविवरणाय ।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" इत्यस्य पिञ्जस्य नोदनेन, इदं भवता अङ्गीक्रियते [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], अपि च अप्रत्यावर्त्यरूपेण भवतः योगदानस्य प्रकाशनाय अधोनिर्दिष्टनियमानुसारम् अङ्गीक्रियते [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] and the [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
+	'wikimedia-editpage-tos-summary' => 'भवतः लेखस्य इच्छानुसारं सम्पादनं पुनर्वितरणञ्च यदि भवता न अङ्गीक्रियेत, तर्हि अत्र न उपस्थाप्यताम् । एतत् भवता न लिखितञ्चेत्, इदम् अधोनिर्दिष्टनियमानुसारम् उपलभ्यते [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] अपि च सूक्तानुमति-अपेक्षाः भवता अङ्गीक्रियन्ते च ।',
 	'cant-delete-main-page' => 'मुख्यपृष्ठस्य विलोपनं चालनं वा अशक्यम् ।',
+	'wikimedia-translationnotifications-signup-legal' => 'विकीमाध्यमसंस्थायै अस्य विवरणस्य अर्पणेन भवान् इदम् अङ्गीकरोति यत् विकिमाध्यमान्दोलनसम्बद्धानाम् अनुवादविषये अन्येषु भवतः आसक्तिकरेषु विषयेषु वयं भवतः सम्पर्कं कर्तुम् अर्हामः इति । भवान् अङ्गीकरोति यत् भवतः विवरणम् अमेरिकासंयुक्तसंस्थाने रक्षितुं शक्यं यच्च [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy] नियमेन आन्वितं भवति इति ।',
 );
 
 /** Sakha (саха тыла)
@@ -13991,6 +13996,7 @@ $messages['ur'] = array(
 	'nstab-institution' => 'ادارے',
 	'group-accountcreator' => 'کھاتہ سازان',
 	'group-founder' => 'بانیان',
+	'group-import' => 'بینک',
 	'group-import-member' => 'برآمدکار',
 	'group-trusted' => 'قابل اعتماد صارفین',
 	'group-trusted-member' => 'معتمد صارف',
@@ -14002,6 +14008,7 @@ $messages['ur'] = array(
 	'group-sysadmin-member' => 'منتظمِ نظام',
 	'group-inactive' => 'غیرفعال صارفین',
 	'group-inactive-member' => 'غیرفعال صارف',
+	'cant-delete-main-page' => 'آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں.',
 );
 
 /** Uzbek (oʻzbekcha) */
