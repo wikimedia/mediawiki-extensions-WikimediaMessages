@@ -441,6 +441,9 @@ $messages['ab'] = array(
 $messages['ace'] = array(
 	'sitesupport' => 'Meuripè',
 	'tooltip-n-sitesupport' => 'Dukông kamoë',
+	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], ngön droëneuh ngön h\'an jeuët neupubateuë lé, akô keu neupeuteubiët teunuléh droëneuh di yup [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 Lisensi] ngön [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Droëneuh akô meunyö hyperlink atawa URL nakeuh neuhubông nyang sép di yup lisensi Creative Commons.',
+	'wikimedia-editpage-tos-summary' => "Meunyö droëneuh hana meuh'eut teunuléh droëneuh geuandam ngön geupeusipreuëk keulayi meunyö peureulèë, bèk neupeu'ét teunuléh droëneuh keunoë. Meunyö droëneuh hana neutuléh keudroë, teunuléh nyoë suwah/harôih na lam neuatô nyang akô ngön [//wikimediafoundation.org/wiki/Terms_of_Use Neuatô Neunguy], ngön droëneuh akô keu neuseutöt ban dum carat idin nyang patôt.",
 );
 
 /** Afrikaans (Afrikaans)
@@ -959,6 +962,7 @@ $messages['ar'] = array(
 
 /** Aramaic (ܐܪܡܝܐ)
  * @author Basharh
+ * @author Man2fly2002
  */
 $messages['arc'] = array(
 	'sitesupport' => 'ܕܒܘܚ ܠܢ',
@@ -970,8 +974,8 @@ $messages['arc'] = array(
 	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
 ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
-	'wikimedia-copyrightwarning' => 'ܟܕ ܕܫ ܐܢܬ ܥܠ ܦܪܡܝܬܐ ܕ "{{int:savearticle}}"، ܬܫܬܘܕܝ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܕܠܐ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܦܣܣܘܬܐ ܕGNU ܕܐܫܛܪܘܬܐ ܚܐܪܬܐ].
-ܐܫܬܘܕܝ ܐܢܬ ܕܡܬܡܠܝܢܬܐ ܐܝܬܝܗ ܒܝܬܝܘܬܐ ܕܐܣܘܪܐ ܡܫܥܠܝܐ  ܐܘ ܫܒܝܠܐ ܕܦܐܬܐ ܬܚܝܬ ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ.',
+	'wikimedia-copyrightwarning' => 'ܒܝܕ ܟܒܫܬܐ ܕܬܘܪܩܬܐ ܕ "{{int:savearticle}}"܀ ܐܘܝܘ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ ܒ[//creativecommons.org/licenses/by-sa/3.0/ Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] ܘ [//www.gnu.org/copyleft/fdl.html ܘܦܣܣܐ ܕ GNU ܕܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
+ܐܘܝܘ ܐܢܬ ܕܐܓܡܪ ܝܣܘܪܐ ܕ hyperlink ܐܘ URL ܬܚܘܬ ܦܣܣܐ ܕܓܘܐ ܕܒܪܘܝܘܬܐ.',
 	'wikimedia-editpage-tos-summary' => 'ܐܢ ܠܐ ܨܒܐ ܐܢܬ ܕܬܫܬܚܠܦ ܟܬܒܬܐ ܕܝܠܟ ܘܬܬܦܪܣ ܙܒܢ ܐܚܪܝܢ, ܠܐ ܬܦܪܘܣ ܠܗ ܗܪܟܐ.
 ܐܢ ܠܝܬ ܐܢܬ ܣܝܘܡܐ, ܟܬܒܬܐ ܕܝܠܟ ܘܠܐ ܕܬܐܘܐ ܥܡ [//wikimediafoundation.org/wiki/Terms_of_Use ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ], ܘܬܫܬܘܕܝ ܥܠ ܡܬܬܒܥܘ ܟܠ ܣܘܢܩܢ̈ܐ ܐܚܝܢܝ̈ܐ ܕܦܣܣܘܬܐ.',
 );
@@ -2129,6 +2133,7 @@ $messages['br'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Nemedenn bloc'had IP",
 	'group-patroller' => 'Patrouilherien',
 	'group-patroller-member' => '{{GENDER:$1|patrouilher|patrouilherez}}',
+	'grouppage-patroller' => '{{ns:project}}:Patrouilherien',
 	'group-researcher' => 'Klaskerien',
 	'group-researcher-member' => '{{GENDER:$1|klasker|klaskerez}}',
 	'grouppage-researcher' => '{{ns:project}}:Klaskerien',
@@ -3447,7 +3452,7 @@ $messages['el'] = array(
 	'group-researcher-member' => '{{GENDER:$1|ερευνητής|ερευνήτρια;}}',
 	'grouppage-researcher' => '{{ns:project}}:Ερευνητές',
 	'group-rollbacker' => 'Αναιρέτες',
-	'group-rollbacker-member' => 'αναιρέτης',
+	'group-rollbacker-member' => '{{GENDER:$1|αναιρέτης}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Αναιρέτες',
 	'group-transwiki' => 'Εισαγωγείς Transwiki',
 	'group-transwiki-member' => '{{GENDER:$1|εισαγωγέας transwiki}}',
@@ -3458,24 +3463,24 @@ $messages['el'] = array(
 	'group-Global_bot' => 'Καθολικά bots',
 	'group-Global_bot-member' => '{{GENDER:$1|καθολικό bot}}',
 	'group-Global_rollback' => 'Καθολικοί rollbackers',
-	'group-Global_rollback-member' => 'καθολικός rollbacker',
+	'group-Global_rollback-member' => '{{GENDER:$1|καθολικός αναιρέτης}}',
 	'group-Global_sysops' => 'Καθολικοί διαχειριστές',
 	'group-Global_sysops-member' => '{{GENDER:$1|καθολικός διαχειριστής}}',
 	'group-Ombudsmen' => 'Διαμεσολαβήτες',
-	'group-Ombudsmen-member' => 'συνήγορος του πολίτη',
+	'group-Ombudsmen-member' => '{{GENDER:$1|διαμεσολαβητής}}',
 	'group-Staff' => 'Προσωπικό',
 	'group-Staff-member' => 'Μέλος προσωπικού',
 	'group-editinterface' => 'Επεξεργασία της διεπαφής',
 	'group-editinterface-member' => 'επεξεργασία της διεπαφής',
 	'group-steward' => 'Επίτροποι',
-	'group-steward-member' => 'επίτροπος',
+	'group-steward-member' => '{{GENDER:$1|επίτροπος}}',
 	'group-sysadmin' => 'Διαχειριστές συστήματος',
-	'group-sysadmin-member' => 'διαχειριστής συστήματος',
+	'group-sysadmin-member' => '{{GENDER:$1|διαχειριστής συστήματος}}',
 	'group-translationadmin' => 'Διαχειριστές μετάφρασης',
 	'group-translationadmin-member' => '{{GENDER:$1|διαχειριστής μεταφράσεων}}',
 	'grouppage-translationadmin' => '{{ns:project}}: διαχειριστές μετάφρασης',
 	'group-coder' => 'Κωδικογράφοι',
-	'group-coder-member' => 'κωδικογράφος',
+	'group-coder-member' => '{{GENDER:$1|κωδικογράφος}}',
 	'group-inactive' => 'Ανενεργοί χρήστες',
 	'group-inactive-member' => '{{GENDER:$1|μη ενεργός χρήστης}}',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
@@ -11015,6 +11020,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
  * @author HalanTul
  * @author Illusion
  * @author Kaganer
+ * @author Kalan
  * @author Lockal
  * @author MaxSem
  * @author Putnik
@@ -11093,6 +11099,7 @@ $messages['ru'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Исключение из IP-блокировок',
 	'group-patroller' => 'Патрулирующие',
 	'group-patroller-member' => '{{GENDER:$1|патрулирующий|патрулирующая}}',
+	'grouppage-patroller' => '{{ns:project}}:Патрулирующие',
 	'group-researcher' => 'Исследователи',
 	'group-researcher-member' => '{{GENDER:$1|исследователь|исследовательница}}',
 	'grouppage-researcher' => '{{ns:project}}:Исследователь',
@@ -11143,6 +11150,7 @@ $messages['ru'] = array(
 	'wikimedia-editpage-tos-summary' => 'Если вы не хотите, чтобы ваши тексты свободно редактировались и распространялись любым желающим, не помещайте их сюда.
 Если вы не являетесь автором размещаемого текста, то он должен быть доступен на условиях, совместимых с [//wikimediafoundation.org/wiki/Terms_of_Use/ru Условиями использования], и вы соглашаетесь следовать всем соответствующим требованиям лицензии.',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
+	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 );
 
 /** Rusyn (русиньскый)
