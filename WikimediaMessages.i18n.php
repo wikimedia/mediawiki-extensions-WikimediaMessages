@@ -2302,6 +2302,7 @@ Ako ovo niste napisali lično, ove izmjene moraju biti dostupne pod uslovima u s
  * @author Gemmaa
  * @author Juanpabl
  * @author Martorell
+ * @author McDutchie
  * @author Nemo bis
  * @author Paucabot
  * @author SMP
@@ -2381,7 +2382,7 @@ $messages['ca'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Exempts del bloqueig d'IP",
 	'group-patroller' => 'Patrullers',
 	'group-patroller-member' => '{{GENDER:$1|patruller|patrullera}}',
-	'grouppage-patroller' => '{{ns:project}}: patrulladors',
+	'grouppage-patroller' => '{{ns:project}}:Patrulladors',
 	'group-researcher' => 'Recercadors',
 	'group-researcher-member' => '{{GENDER:$1|recercador|recercadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Recercadors',
@@ -6174,6 +6175,7 @@ $messages['ia'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exemption de blocos IP',
 	'group-patroller' => 'Patruliatores',
 	'group-patroller-member' => '{{GENDER:$1|patruliator|patruliatrice}}',
+	'grouppage-patroller' => '{{ns:project}}:Patruliatores',
 	'group-researcher' => 'Recercatores',
 	'group-researcher-member' => '{{GENDER:$1|recercator|recercatrice}}',
 	'grouppage-researcher' => '{{ns:project}}:Recercator',
@@ -9058,6 +9060,7 @@ $messages['nap'] = array(
 );
 
 /** Norwegian Bokmål (‪norsk (bokmål)‬)
+ * @author Danmichaelo
  * @author Event
  * @author Finnrind
  * @author Laaknor
@@ -9136,6 +9139,7 @@ $messages['nb'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unntatte fra IP-blokkering',
 	'group-patroller' => 'Patruljører',
 	'group-patroller-member' => '{{GENDER:$1|patruljør}}',
+	'grouppage-patroller' => '{{ns:project}}:Patruljører',
 	'group-researcher' => 'Forskere',
 	'group-researcher-member' => '{{GENDER:$1|forsker}}',
 	'grouppage-researcher' => '{{ns:project}}:Forskere',
@@ -9175,7 +9179,7 @@ $messages['nb'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
 	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
-	'wikimedia-copyrightwarning' => 'Når du lagrer innvilger du ugjenkallelig å gi ut ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du går også med på å bli angitt som en opphavsperson av gjenbrukere, som et minimum, gjennom en hyperlenke eller URL til artikkelen du bidro til. Se [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene] for flere opplysninger.',
+	'wikimedia-copyrightwarning' => 'Ved å trykke på "{{int:savearticle}}"-knappen, aksepterer du [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
 	'wikimedia-editpage-tos-summary' => 'Ønsker du ikke at verket ditt blir redigert og redistribuert, skal du ikke lagre det her. Har du ikke selv skrevet det, skal det være tilgjengelig under betingelsene i overensstemmelse med [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og du bekrefter å følge alle relevante lisenskrav.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte hovedsiden.',
 );

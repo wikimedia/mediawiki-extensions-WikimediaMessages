@@ -86,6 +86,7 @@ $messages['es'] = array(
 	'gerrittools-repogroup-integration' => 'Repositorio de Gerrit de Wikimedia Continous Integration',
 	'gerrittools-repogroup-mediawiki' => 'Repositorios de Gerrit de MediaWiki',
 	'gerrittools-repogroup-mediawiki/extensions' => 'Repositorios de Gerrit de extensiones MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repositorios Gerrit del paquete de MediaWiki',
 	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios de Gerrit de herramientas de MediaWiki',
 	'gerrittools-repogroup-operations' => 'Repositorios de Gerrit de Wikimedia Operations',
 	'gerrittools-repogroup-test' => 'Repositorios de Gerrit de prueba',
@@ -142,19 +143,22 @@ $messages['gl'] = array(
 );
 
 /** Hebrew (עברית)
+ * @author Amire80
  * @author Inkbug
  * @author ערן
  */
 $messages['he'] = array(
 	'wikimedialabsmessages-desc' => 'הודעות מעבדות ויקימדיה',
-	'gerrittools-repogroup-analytics' => 'משאבי גרריט אנליטיים של ויקימדיה',
-	'gerrittools-repogroup-integration' => 'משאבי גרריט לאינטגרציה מתמשכת של ויקימדיה',
-	'gerrittools-repogroup-mediawiki' => 'משאבי גרריט של  מדיה־ויקי',
-	'gerrittools-repogroup-mediawiki/extensions' => 'משאבי גרריט של הרחבות מדיה־ויקי',
-	'gerrittools-repogroup-mediawiki/tools' => 'משאבי גרריט של כלי מדיה־ויקי',
-	'gerrittools-repogroup-operations' => 'משאבי גרריט תפעוליים של ויקימדיה',
-	'gerrittools-repogroup-test' => 'משאבי גרריט לבדיקות',
-	'gerrittools-repogroup-wikimedia' => 'משאבי גרריט של ויקימדיה',
+	'gerrittools-repogroup-analytics' => 'מאגרי גריט של Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'מאגרי גריט לאינטגרציה מתמשכת של ויקימדיה',
+	'gerrittools-repogroup-mediawiki' => 'מאגרי גריט של מדיה־ויקי',
+	'gerrittools-repogroup-mediawiki/extensions' => 'מאגרי גריט של הרחבות מדיה־ויקי',
+	'gerrittools-repogroup-mediawiki/packages' => 'מאגרי גריט של חבילות מדיה־ויקי',
+	'gerrittools-repogroup-mediawiki/tools' => 'מאגרי גריט של כלי מדיה־ויקי',
+	'gerrittools-repogroup-operations' => 'מאגרי גריט של מחלקת התפעול של ויקימדיה',
+	'gerrittools-repogroup-test' => 'מאגרי גריט לבדיקות',
+	'gerrittools-repogroup-translatewiki' => 'מאגרי גריט של translatewiki.net',
+	'gerrittools-repogroup-wikimedia' => 'מאגרי גריט של ויקימדיה',
 );
 
 /** Interlingua (interlingua)
