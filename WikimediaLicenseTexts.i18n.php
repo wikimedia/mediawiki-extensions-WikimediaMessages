@@ -971,6 +971,7 @@ $messages['bcl'] = array(
 
 /** Belarusian (беларуская)
  * @author Diebuche
+ * @author Shirayuki
  * @author TarzanASG
  * @author Yury Tarasievich
  * @author Тест
@@ -982,6 +983,7 @@ $messages['be'] = array(
 	'wm-license-information-description' => 'Апісанне',
 	'wm-license-information-source' => 'Крыніца',
 	'wm-license-information-author' => 'Аўтар',
+	'wm-license-own-work' => 'Уласная праца',
 	'wm-license-pd-usgov-wiki-link' => 'w:be:Федэральны ўрад ЗША',
 	'wm-license-self-one-license' => 'Я, уладальнік аўтарскіх правоў на гэты твор, добраахвотна публікую яго на ўмовах наступнай ліцэнзіі:',
 );
