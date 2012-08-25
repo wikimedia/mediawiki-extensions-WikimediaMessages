@@ -8603,7 +8603,7 @@ Vidaredistribution, redigering av verk, kommersiell användning och all övrig a
  * @author Muddyb Blast Producer
  */
 $messages['sw'] = array(
-	'wikimedialicensetexts-desc' => 'Jumba za leseni za Wikimedia',
+	'wikimedialicensetexts-desc' => 'Jumbe za leseni za Wikimedia',
 	'wm-license-artwork-title' => 'Jina',
 	'wm-license-book-edition' => 'Toleo',
 	'wm-license-book-editor' => 'Mhariri',
@@ -8632,7 +8632,7 @@ $messages['sw'] = array(
 	'wm-license-gfdl-1.3-only' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.3 tu ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sw:GNU Free Documentation License',
 	'wm-license-information-description' => 'Maelezo',
-	'wm-license-information-description-missing' => "Faili haina '''maelezo''', na inaweza kuwa inakosa habari nyingine.",
+	'wm-license-information-description-missing' => "Faili halina '''maelezo''', na linaweza kuwa linakosa habari nyingine.",
 	'wm-license-information-source' => 'Chanzo',
 	'wm-license-information-source-missing' => "Faili inakosa habari ya '''chanzoi''' chake.",
 	'wm-license-information-date' => 'Tarehe',
