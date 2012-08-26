@@ -6835,6 +6835,7 @@ $messages['ja'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IPブロック適用除外',
 	'group-patroller' => '巡回者',
 	'group-patroller-member' => '{{GENDER:$1|巡回者}}',
+	'grouppage-patroller' => '{{ns:project}}:巡回者',
 	'group-researcher' => '調査者',
 	'group-researcher-member' => '{{GENDER:$1|研究者}}',
 	'grouppage-researcher' => '{{ns:project}}:調査者',
