@@ -2485,6 +2485,7 @@ $messages['chr'] = array(
 
 /** Sorani Kurdish (کوردی)
  * @author Asoxor
+ * @author Calak
  * @author Ferhad y
  * @author Marmzok
  * @author رزگار
@@ -2498,6 +2499,7 @@ $messages['ckb'] = array(
 	'group-flood' => 'بەکارھێنەرانی بۆت',
 	'group-flood-member' => 'بەکارھێنەری بۆت',
 	'group-founder-member' => 'دۆزەر',
+	'group-ipblock-exempt-member' => 'ھەڵاواردن لە بەربەستنی ئای پی',
 	'group-Staff' => 'کارمەندان',
 	'group-Staff-member' => 'کارمەند',
 	'group-sysadmin' => 'به‌ڕێوبه‌رانی سیسته‌م',
