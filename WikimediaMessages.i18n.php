@@ -9582,7 +9582,8 @@ $messages['nn'] = array(
 	'group-inactive' => 'Ikkje-aktive brukarar',
 	'group-inactive-member' => 'ikkje aktiv brukar',
 	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
-	'wikimedia-copyright' => 'Innhaldet er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-alike License</a>; ytterlegare vilkår kan gjelda. Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
+	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
+Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkåra], og du gjev endeleg samtykke til å gjeva ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 	'wikimedia-editpage-tos-summary' => 'Ynskjer du ikkje at verket ditt skal verta endra og redistribuert, skal du ikkje lagra det her. Har du ikkje sjølv skrive det, skal det vera tilgjengeleg under vilkåra i samsvar med [//wikimediafoundation.org/wiki/Terms_of_Use Bruksvilkåra], og du stadfestar å fylgja alle relevante lisenskrav.',
