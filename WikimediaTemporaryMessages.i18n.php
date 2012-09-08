@@ -20,12 +20,53 @@ $messages['qqq'] = array(
 Feel free to change the [[wikipedia:guillemet|guillemets]] (»«) to something customary for your language',
 );
 
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Далучайцеся да фатаконкурсу, каб дапамагчы Вікіпэдыі',
+	'wikimedia-wlm-app-banner2012-link' => "» Націсьніце тут для загрузкі бясплатнай '''Android-аплікацыі''' «",
+);
+
 /** German (Deutsch)
+ * @author Kghbln
  * @author Metalhead64
  */
 $messages['de'] = array(
-	'wikimedia-wlm-app-banner2012-header' => 'Trete dem Fotowettbewerb bei, der Wikipedia hilft.',
-	'wikimedia-wlm-app-banner2012-link' => 'Klicke hier für die kostenlose Android-App',
+	'wikimedia-wlm-app-banner2012-header' => 'Nimm am Fotowettbewerb teil, der Wikipedia hilft.',
+	'wikimedia-wlm-app-banner2012-link' => "» Klicke hier für die kostenlose '''Android-App''' «",
+);
+
+/** German (formal address) (‪Deutsch (Sie-Form)‬)
+ * @author Kghbln
+ */
+$messages['de-formal'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Nehmen sie am Fotowettbewerb teil, der Wikipedia hilft.',
+	'wikimedia-wlm-app-banner2012-link' => "» Klicken Sie hier für die kostenlose '''Android-App''' «",
+);
+
+/** Spanish (español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Participar en el concurso de fotografía que ayuda a Wikipedia',
+	'wikimedia-wlm-app-banner2012-link' => "» Haga clic aquí para la aplicaión gratuita para '''Android'''«",
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Wobdźěl so na fotowubědźowanju, kotrež Wikipediji pomha',
+	'wikimedia-wlm-app-banner2012-link' => "»Klikń tu za darmotny '''Android app'''«",
+);
+
+/** Italian (italiano)
+ * @author Darth Kule
+ */
+$messages['it'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Partecipa al concorso di fotografia che aiuta Wikipedia',
+	'wikimedia-wlm-app-banner2012-link' => "Fai clic qui per l'app gratuita per Android",
 );
 
 /** Macedonian (македонски)
