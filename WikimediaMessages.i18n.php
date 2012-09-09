@@ -7211,6 +7211,7 @@ $messages['kk-arab'] = array(
  * @author Kaztrans
  */
 $messages['kk-cyrl'] = array(
+	'sitesupport-url' => '//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=20120717SB001&uselang=kk',
 	'sitesupport' => 'Демеушілік',
 	'tooltip-n-sitesupport' => 'Демеу беріңіз',
 	'group-accountcreator' => 'Аккаунт жасаушылар',
