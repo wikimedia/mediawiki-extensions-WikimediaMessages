@@ -5290,10 +5290,10 @@ $messages['lb'] = array(
 	'wm-license-licensing-update-text' => 'Dës Lizenz-Markéierung gouf bäi dëse Fichier derbäigesat als Deel vun der GFDL [[{{int:wm-license-licensing-update-wiki-link}}|Lizenz-Aktualisatioun]].',
 	'wm-license-original-upload-log' => 'Original-Logbuch vum Eroplueden',
 	'wm-license-own-work' => 'Eegent Wierk',
-	'wm-license-pd-author-with-author-text' => "Dëst Wierk gouf vu sengen Auteuren, '''$1''' an de '''[[{{int:wm-license-pd-wiki-link}}|Public-Domain]]''' gesat. Dëst gëllt weltwäit.",
+	'wm-license-pd-author-with-author-text' => "Dëst Wierk gouf vu sengem Auteur, '''$1''' an de '''[[{{int:wm-license-pd-wiki-link}}|Public-Domain]]''' gesat. Dëst gëllt weltwäit.",
 	'wm-license-pd-author-not-legally-possible' => 'An eenzelne Länner ass dat legal net méiglech; an deem Fall:',
-	'wm-license-pd-author-self-any-purpose' => "Ech ginn heimat jidderengem d'Recht dëst Wierk '''fir all Zweck''' ze notzen, ouni iergendeng Conditioun, ausser de Conditiounen déi vum Gesetz verlaangt sinn.",
-	'wm-license-pd-author-with-author-any-purpose' => "$1 gëtt jidderengem d'Recht dëst Wierk '''fir all Zweck''' ze notzen, ouni iergendeng Conditioun, ausser de Conditiounen déi vum Gesetz verlaangt sinn.",
+	'wm-license-pd-author-self-any-purpose' => "Ech ginn heimat jidderengem d'Recht dëst Wierk '''fir all Zweck''' ze benotzen, ouni iergendeng Conditioun, ausser de Conditiounen déi vum Gesetz verlaangt sinn.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 gëtt jidderengem d'Recht dëst Wierk '''fir all Zweck''' ze benotzen, ouni iergendeng Conditioun, ausser de Conditiounen déi vum Gesetz verlaangt sinn.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:lb:United States Air Force',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:lb:United States Navy',
 	'wm-license-pd-wiki-link' => 'w:lb:Domaine public',
@@ -7060,6 +7060,7 @@ $messages['ps'] = array(
 	'wm-license-information-permission-see-below' => 'لاندې وګورۍ.',
 	'wm-license-information-other-versions' => 'نورې بڼې',
 	'wm-license-own-work' => 'شخصي اثر',
+	'wm-license-self-one-license' => 'زه، د دې اثر د خپرولو او لمېسلو خاوند، دا دوتنه د لاندې منښتليک پر بنسټ دلته خپروم:',
 );
 
 /** Portuguese (português)

@@ -12082,6 +12082,7 @@ $messages['ps'] = array(
 	'wm-license-cc-by-2.0-uk-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کريېټيف کامنز]] په منښتليک سمباله ده او [//creativecommons.org/licenses/by/2.0/it/ د 2.0 برتانيوي، انګلستاني او وېلزي] منښتليک اړونده خپرېږي.',
 	'wm-license-cc-by-2.0-za-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کريېټيف کامنز]] په منښتليک سمباله ده او [//creativecommons.org/licenses/by/2.0/it/ د 2.0 سوېل افريقايي] منښتليک اړونده خپرېږي.',
 	'wm-license-cc-by-2.5-au-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [//creativecommons.org/licenses/by/2.5/au/ Attribution 2.5 Australia] په منښتليک سمبال ده.',
+	'wm-license-cc-by-sa-3.0-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کريټيف کامنز]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] په منښتليک سمبال ده.',
 	'wm-license-cc-sa-2.0-jp-text' => 'دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېټيف کامنز]] [//creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 جاپان] په منښتليک سمبال ده.',
 	'wm-license-cc-free' => 'تاسې اجازه لرۍ چې:',
 	'wm-license-cc-free-to-share-header' => 'د شريکولو لپاره',

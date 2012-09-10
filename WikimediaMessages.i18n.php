@@ -10331,6 +10331,7 @@ $messages['ps'] = array(
 	'group-Staff-member' => 'د املې غړی',
 	'group-editinterface' => 'د کتنمل سمونګران',
 	'group-editinterface-member' => '{{GENDER:$1|د ليدنمخ سمونګر}}',
+	'group-steward' => 'کوربانه',
 	'group-sysadmin' => 'د غونډال پازوالان',
 	'group-sysadmin-member' => '{{GENDER:$1|د غونډال پازوال}}',
 	'group-translationadmin' => 'د ژباړې پازوالان',

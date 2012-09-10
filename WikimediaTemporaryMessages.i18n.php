@@ -69,6 +69,14 @@ $messages['it'] = array(
 	'wikimedia-wlm-app-banner2012-link' => "Fai clic qui per l'app gratuita per Android",
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'wikimedia-wlm-app-banner2012-header' => '위키백과에 도움이 되도록 사진 경연 대회에 참가하세요',
+	'wikimedia-wlm-app-banner2012-link' => "»무료 '''안드로이드 앱'''에 대해서는 여기를 클릭하세요«",
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
