@@ -53,6 +53,22 @@ $messages['es'] = array(
 	'wikimedia-wlm-app-banner2012-link' => "» Haga clic aquí para la aplicaión gratuita para '''Android'''«",
 );
 
+/** French (français)
+ * @author Tititou36
+ */
+$messages['fr'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Rejoignez le concours photo qui contribue à Wikipedia',
+	'wikimedia-wlm-app-banner2012-link' => "» Cliquez ici pour l'application Android gratuite «",
+);
+
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Participe no concurso fotográfico que axuda á Wikipedia',
+	'wikimedia-wlm-app-banner2012-link' => "»Prema aquí para a '''aplicación de Android''' gratuíta«",
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
