@@ -31,10 +31,11 @@ $messages['be-tarask'] = array(
 /** German (Deutsch)
  * @author Kghbln
  * @author Metalhead64
+ * @author Nipsky
  */
 $messages['de'] = array(
 	'wikimedia-wlm-app-banner2012-header' => 'Nimm am Fotowettbewerb teil, der Wikipedia hilft.',
-	'wikimedia-wlm-app-banner2012-link' => "» Klicke hier für die kostenlose '''Android-App''' «",
+	'wikimedia-wlm-app-banner2012-link' => "»Klicke hier für die kostenlose '''Android-App'''«",
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
@@ -42,7 +43,7 @@ $messages['de'] = array(
  */
 $messages['de-formal'] = array(
 	'wikimedia-wlm-app-banner2012-header' => 'Nehmen sie am Fotowettbewerb teil, der Wikipedia hilft.',
-	'wikimedia-wlm-app-banner2012-link' => "» Klicken Sie hier für die kostenlose '''Android-App''' «",
+	'wikimedia-wlm-app-banner2012-link' => "»Klicken Sie hier für die kostenlose '''Android-App'''«",
 );
 
 /** Spanish (español)
@@ -99,6 +100,22 @@ $messages['ko'] = array(
 $messages['mk'] = array(
 	'wikimedia-wlm-app-banner2012-header' => 'Приклучете се во фотографскиот конкурс што ѝ помага на Википедија',
 	'wikimedia-wlm-app-banner2012-link' => "»Стиснете тука за да добиете бесплатен '''прилог за Android'''«",
+);
+
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Sertai peraduan bergambar yang membantu Wikipedia',
+	'wikimedia-wlm-app-banner2012-link' => "»Klik di sini untuk '''app Android''' percuma«",
+);
+
+/** Polish (polski)
+ * @author BeginaFelicysym
+ */
+$messages['pl'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Weź udział w konkursie fotografii, wspomagając Wikipedię',
+	'wikimedia-wlm-app-banner2012-link' => "»Kliknij tutaj, aby pobrać bezpłatną '''aplikację na Androida'''«",
 );
 
 /** Tagalog (Tagalog)

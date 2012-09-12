@@ -1150,6 +1150,7 @@ $messages['as'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:আইপি নিষেধাজ্ঞা ৰহিত',
 	'group-patroller' => 'পৰ্যবেক্ষক',
 	'group-patroller-member' => '{{GENDER:$1|পৰ্যবেক্ষক}}',
+	'grouppage-patroller' => '{{ns:project}}:পৰ্যবেক্ষক',
 	'group-researcher' => 'গৱেষক',
 	'group-researcher-member' => '{{GENDER:$1|গৱেষক}}',
 	'grouppage-researcher' => '{{ns:project}}:গৱেষক',
