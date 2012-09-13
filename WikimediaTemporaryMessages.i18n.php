@@ -46,6 +46,14 @@ $messages['de-formal'] = array(
 	'wikimedia-wlm-app-banner2012-link' => "»Klicken Sie hier für die kostenlose '''Android-App'''«",
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Wobźěl se na fotowuběźowanju, kótarež pomaga Wikipediji',
+	'wikimedia-wlm-app-banner2012-link' => "»Klikni how za dermotny '''Android app'''«",
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */

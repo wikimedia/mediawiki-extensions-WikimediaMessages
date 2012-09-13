@@ -76,6 +76,13 @@ $messages['de'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Gerrit-Repositorien für Wikimedia',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'wikimedialabsmessages-desc' => 'Mesacê Wikimedia Labi',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  * @author Mr.Ajedrez
