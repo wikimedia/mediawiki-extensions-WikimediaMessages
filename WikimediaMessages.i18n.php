@@ -206,6 +206,9 @@ If you did not write this yourself, it must be available under terms consistent 
 	'cant-delete-main-page' => 'You cannot delete or move the main page.',
 
 	'wikimedia-translationnotifications-signup-legal' => 'You agree that by providing the Wikimedia Foundation with this information we may contact you regarding translations or other topics related to the Wikimedia movement we think may be of interest to you. You agree your data may be stored in the United States of America and is subject to our [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy].',
+
+	# Added by the WLM mobile app
+	'upload-more-photos-of-this-monument' => 'Upload more photos of this monument',
 );
 
 /** Message documentation (Message documentation)
@@ -394,6 +397,7 @@ This message is displayed on the site footer and is for the new licensing policy
 {{Identical/Wikimedia-licensing}}',
 	'wikimedia-editpage-tos-summary' => '{{Identical/Wikimedia-licensing}}',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
+	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 );
 
 /** Säggssch (Säggssch)
@@ -2427,6 +2431,7 @@ Està d'acord que un hiperenllaç o URL és suficient atribució sota la llicèn
 	'wikimedia-editpage-tos-summary' => "Si no voleu que el vostre text sigui modificat i redistribuït a voluntat, llavors no el lliureu aquí.
 Si l'escrit no és vostre, ha d'estar disponible sota termes compatibles amb les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d'ús], i accepteu seguir tots els requisits de la llicència.",
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
+	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
@@ -3764,6 +3769,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí. Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [//wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
 	'cant-delete-main-page' => 'No se puede borrar ni mover la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
+	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
 );
 
 /** Estonian (eesti)
@@ -4450,6 +4456,7 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [//wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
+	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
 );
 
 /** Cajun French (français cadien)
@@ -9491,6 +9498,7 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 Als uw bewerking niet door uzelf is geschreven, dan moet uw toevoeging beschikbaar zijn onder condities die consistent zijn met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u akkoord met alle relevante licentievoorwaarden.',
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
+	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 );
 
 /** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
