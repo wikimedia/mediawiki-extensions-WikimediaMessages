@@ -3076,6 +3076,7 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 Falls du den Text nicht selbst verfasst hast, muss er unter den [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
+	'upload-more-photos-of-this-monument' => 'Mehr Fotos von diesem Denkmal hochladen',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)

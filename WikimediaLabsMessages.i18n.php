@@ -218,6 +218,16 @@ $messages['ja'] = array(
  */
 $messages['ko'] = array(
 	'wikimedialabsmessages-desc' => '위키미디어 실험실 메시지',
+	'gerrittools-repogroup-analytics' => '위키미디어 분석 Gerrit 저장소',
+	'gerrittools-repogroup-integration' => '위키미디어 연속 통합 Gerrit 저장소',
+	'gerrittools-repogroup-mediawiki' => '미디어위키 Gerrit 저장소',
+	'gerrittools-repogroup-mediawiki/extensions' => '미디어위키 확장 기능 Gerrit 저장소',
+	'gerrittools-repogroup-mediawiki/packages' => '미디어위키 패키지 Gerrit 저장소',
+	'gerrittools-repogroup-mediawiki/tools' => '미디어위키 도구 Gerrit 저장소',
+	'gerrittools-repogroup-operations' => '위키미디어 운영 Gerrit 저장소',
+	'gerrittools-repogroup-test' => '테스트 Gerrit 저장소',
+	'gerrittools-repogroup-translatewiki' => 'Translatewiki.net Gerrit 저장소',
+	'gerrittools-repogroup-wikimedia' => '위키미디어 Gerrit 저장소',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
