@@ -3076,7 +3076,7 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 Falls du den Text nicht selbst verfasst hast, muss er unter den [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutzungsbedingungen] verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen.',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
-	'upload-more-photos-of-this-monument' => 'Mehr Fotos von diesem Denkmal hochladen',
+	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
 );
 
 /** German (formal address) (‪Deutsch (Sie-Form)‬)
@@ -5038,6 +5038,7 @@ Acepta que unha hiperligazón ou URL é recoñecemento abondo baixo a licenza Cr
 	'wikimedia-editpage-tos-summary' => 'Se non quere que o seu texto sexa editado e redistribuído, non o envíe. Se non escribiu isto, este texto debería estar dispoñible baixo termos compatibles cos [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e vostede debe estar de acordo en seguir todas as esixencias das licenzas.',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
+	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
 );
 
 /** Gilaki (گیلکی)
@@ -6757,6 +6758,7 @@ $messages['it'] = array(
 	'wikimedia-editpage-tos-summary' => "Se non desideri che il tuo testo possa essere modificato e ridistribuito a volontà, allora non inserirlo qui. Se non l'hai scritto tu, deve essere disponibile a condizioni compatibili con le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e accetti di seguire tutti i requisiti di licenza.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
+	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
 );
 
 /** Japanese (日本語)
@@ -6891,6 +6893,7 @@ $messages['ja'] = array(
 	'wikimedia-editpage-tos-summary' => 'あなたが自身の文章を勝手に編集や再配布してほしくない場合は、ここに投稿しないでください。
 あなた自身が書いた文章ではない場合、その文章はこの[//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]と整合する条件のもとで利用できる必要があります。また、その場合、あなたはすべての関係するライセンス要件に従うことに同意しなければなりません。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
+	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 );
 
 /** Lojban (Lojban)
@@ -8473,6 +8476,7 @@ $messages['mk'] = array(
 Ако Вие не сте автор на текстов, тогаш тој мора да биде достапен под услови складни на [//wikimediafoundation.org/wiki/Услови_на_употреба Условите на употреба], а Вие се согласувате дека ќе се придржувате до сите услови за лиценцирање.',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
+	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
 );
 
 /** Malayalam (മലയാളം)
@@ -8887,6 +8891,7 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
 Jika anda tidak menulisnya sendiri, ia mestilah dapat diperolehi di bawah syarat yang sejajar dengan [//wikimediafoundation.org/wiki/Terms_of_Use Terma Penggunaan], dan anda bersetuju mengikuti sebarang keperluan pelesenan yang berkaitan.',
 	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Anda bersetuju bahawa dengan memberikan maklumat ini kepada Yayasan Wikimedia, kami boleh menghubungi awak berkenaan terjemahan atau perihal-perihal lain yang berkenaan dengan gerakan  Wikimedia yang kami berpendapat mempunyai kaitan dengan anda. Anda bersetuju bahawa data anda boleh disimpan di Amerika Syarikat dan tertakluk kepada [https://wikimediafoundation.org/wiki/Privacy_policy dasar privasi] kami.',
+	'upload-more-photos-of-this-monument' => 'Muat naik lebih banyak gambar monumen ini',
 );
 
 /** Maltese (Malti)
