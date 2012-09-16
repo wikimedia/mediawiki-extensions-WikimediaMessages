@@ -230,6 +230,23 @@ $messages['ko'] = array(
 	'gerrittools-repogroup-wikimedia' => '위키미디어 Gerrit 저장소',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'wikimedialabsmessages-desc' => 'Täxte un Nohreeschte uß <i lang="en">Wikimedia Labs</i>.',
+	'gerrittools-repogroup-analytics' => '<i lang="en">Wikimedia Analytics Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-integration' => '<i lang="en">Wikimedia Continuous Integration Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-mediawiki' => '<i lang="en">MediaWiki Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-mediawiki/extensions' => '<i lang="en">MediaWiki extension Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-mediawiki/packages' => '<i lang="en">MediaWiki package Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-mediawiki/tools' => '<i lang="en">MediaWiki Tool Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-operations' => '<i lang="en">Wikimedia Operations Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-test' => '<i lang="en">Test Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-translatewiki' => '<i lang="en">Translatewiki.net Gerrit</i> sing Sammlong vun Datteije',
+	'gerrittools-repogroup-wikimedia' => '<i lang="en">Wikimedia Gerrit</i> sing Sammlong vun Datteije',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */

@@ -9602,7 +9602,8 @@ $messages['nn'] = array(
 Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkåra], og du gjev endeleg samtykke til å gjeva ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
-	'wikimedia-editpage-tos-summary' => 'Ynskjer du ikkje at verket ditt skal verta endra og redistribuert, skal du ikkje lagra det her. Har du ikkje sjølv skrive det, skal det vera tilgjengeleg under vilkåra i samsvar med [//wikimediafoundation.org/wiki/Terms_of_Use Bruksvilkåra], og du stadfestar å fylgja alle relevante lisenskrav.',
+	'wikimedia-editpage-tos-summary' => 'Ynskjer du ikkje at tekstbidraget ditt skal verta endra og redistribuert fritt, skal du ikkje lagra det her.
+Har du ikkje sjølv skrive det, skal det vera tilgjengeleg under vilkåra i samsvar med [//wikimediafoundation.org/wiki/Terms_of_Use Bruksvilkåra], og du stadfester å fylgja alle relevante lisenskrav.',
 );
 
 /** Novial (Novial)
@@ -12732,6 +12733,7 @@ Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i en
 	'wikimedia-editpage-tos-summary' => 'Om du inte vill att det du skriver ska bli redigerat och återanvänt ska du inte spara det här.
 Om du inte själv skrev texten, så måste det vara tillgängligt under villkor som är i överensstämmelse med [//wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren], du bekräftar att du uppfyller alla relevanta licenskrav.',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
+	'upload-more-photos-of-this-monument' => 'Ladda upp fler bilder på detta monument',
 );
 
 /** Swahili (Kiswahili)

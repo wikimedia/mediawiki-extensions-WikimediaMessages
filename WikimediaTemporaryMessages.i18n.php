@@ -14,6 +14,7 @@ $messages['en'] = array(
 	'wikimedia-wlm-app-banner2012-link' => '»Click here for the free \'\'\'Android app\'\'\'«',
 );
 
+/** Message documentation (Message documentation) */
 $messages['qqq'] = array(
 	'wikimedia-wlm-app-banner2012-header' => 'Used for the header of the banner to be displayed on WMF mobile sites for the duration of the [[commons:Commons:Wiki Loves Monuments|Wiki Loves Monuments]] contest',
 	'wikimedia-wlm-app-banner2012-link' => 'Used for the link text on the banner to be displayed on WMF mobile sites for the duration of the [[commons:Commons:Wiki Loves Monuments|Wiki Loves Monuments]] contest.
@@ -94,12 +95,28 @@ $messages['it'] = array(
 	'wikimedia-wlm-app-banner2012-link' => "Fai clic qui per l'app gratuita per Android",
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'wikimedia-wlm-app-banner2012-header' => '写真コンテストに参加することでウィキペディアを支援しましょう',
+	'wikimedia-wlm-app-banner2012-link' => "»無料の '''Android アプリ'''についてはここをクリック«",
+);
+
 /** Korean (한국어)
  * @author 아라
  */
 $messages['ko'] = array(
 	'wikimedia-wlm-app-banner2012-header' => '위키백과에 도움이 되도록 사진 경연 대회에 참가하세요',
 	'wikimedia-wlm-app-banner2012-link' => "»무료 '''안드로이드 앱'''에 대해서는 여기를 클릭하세요«",
+);
+
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Maach bei enem Fottmafierwätbewärb met, dä sä Wikkipeedija hellef.',
+	'wikimedia-wlm-app-banner2012-link' => 'E Projramm för <i lang="en">Android</i> wat nix koß.',
 );
 
 /** Macedonian (македонски)
