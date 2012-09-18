@@ -5525,6 +5525,7 @@ $messages['he'] = array(
 	'wikimedia-editpage-tos-summary' => 'אם אינכם רוצים שעריכתכם תיערך ותופץ מחדש, אל תפרסמו אותה כאן. אם לא כתבתם אותה בעצמכם, היא חייבת להיות זמינה בתנאים התואמים ל[//wikimediafoundation.org/wiki/Terms_of_Use/he תנאי השימוש], והנכם מסכימים לפעול לפי כל דרישות הרישוי הרלוונטיות.',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
+	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
 );
 
 /** Hindi (हिन्दी)
