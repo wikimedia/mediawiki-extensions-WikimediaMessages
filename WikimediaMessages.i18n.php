@@ -831,6 +831,7 @@ $messages['ang'] = array(
 );
 
 /** Arabic (العربية)
+ * @author Abanima
  * @author Aiman titi
  * @author AwamerT
  * @author Ciphers
@@ -907,7 +908,7 @@ $messages['ar'] = array(
 	'group-interface_editor-member' => '{{GENDER:$1|محرر الواجهة}}',
 	'grouppage-interface_editor' => '{{ns:project}}:محرّرو الواجهة',
 	'group-ipblock-exempt' => 'مستثنون من منع الأيبي',
-	'group-ipblock-exempt-member' => '{{GENDER:$1|مستثنى من حظر الآيبي}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|مستثنى|مستثناة}} من حظر الآيبي',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الأيبي',
 	'group-patroller' => 'مراجعون',
 	'group-patroller-member' => '{{GENDER:$1|مدقق|مدققة}}',
@@ -918,7 +919,7 @@ $messages['ar'] = array(
 	'group-rollbacker-member' => '{{GENDER:$1|مسترجع}}',
 	'grouppage-rollbacker' => '{{ns:project}}:مسترجعون',
 	'group-transwiki' => 'مستوردون عبر الويكي',
-	'group-transwiki-member' => '{{GENDER:$1|مستورد ويكي الترجمة}}',
+	'group-transwiki-member' => '{{GENDER:$1|مستورد|مستوردة}} عبر الويكي',
 	'grouppage-transwiki' => '{{ns:project}}:مستوردون عبر الويكي',
 	'group-trusted' => 'مستخدمون موثوقون',
 	'group-trusted-member' => '{{GENDER:$1|مستخدم موثوق}}',
@@ -978,8 +979,8 @@ $messages['arc'] = array(
 	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
 ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
-	'wikimedia-copyrightwarning' => 'ܒܝܕ ܟܒܫܬܐ ܕܬܘܪܩܬܐ ܕ "{{int:savearticle}}"܀ ܐܘܝܘ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ ܒ[//creativecommons.org/licenses/by-sa/3.0/ Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] ܘ [//www.gnu.org/copyleft/fdl.html ܘܦܣܣܐ ܕ GNU ܕܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
-ܐܘܝܘ ܐܢܬ ܕܐܓܡܪ ܝܣܘܪܐ ܕ hyperlink ܐܘ URL ܬܚܘܬ ܦܣܣܐ ܕܓܘܐ ܕܒܪܘܝܘܬܐ.',
+	'wikimedia-copyrightwarning' => 'ܟܕ ܕܫ ܐܢܬ ܥܠ ܦܪܡܝܬܐ ܕ "{{int:savearticle}}"، ܬܫܬܘܕܝ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܦܣܣܘܬܐ ܕGNU ܕܐܫܛܪܘܬܐ ܚܐܪܬܐ].
+ܐܫܬܘܕܝ ܐܢܬ ܕܡܬܡܠܝܢܬܐ ܐܝܬܝܗ ܒܝܬܝܘܬܐ ܕܐܣܘܪܐ ܡܫܥܠܝܐ  ܐܘ ܫܒܝܠܐ ܕܦܐܬܐ ܬܚܝܬ ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ.',
 	'wikimedia-editpage-tos-summary' => 'ܐܢ ܠܐ ܨܒܐ ܐܢܬ ܕܬܫܬܚܠܦ ܟܬܒܬܐ ܕܝܠܟ ܘܬܬܦܪܣ ܙܒܢ ܐܚܪܝܢ, ܠܐ ܬܦܪܘܣ ܠܗ ܗܪܟܐ.
 ܐܢ ܠܝܬ ܐܢܬ ܣܝܘܡܐ, ܟܬܒܬܐ ܕܝܠܟ ܘܠܐ ܕܬܐܘܐ ܥܡ [//wikimediafoundation.org/wiki/Terms_of_Use ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ], ܘܬܫܬܘܕܝ ܥܠ ܡܬܬܒܥܘ ܟܠ ܣܘܢܩܢ̈ܐ ܐܚܝܢܝ̈ܐ ܕܦܣܣܘܬܐ.',
 );
@@ -1614,6 +1615,7 @@ $messages['bcl'] = array(
 );
 
 /** Belarusian (беларуская)
+ * @author Platonides
  * @author TarzanASG
  * @author Yury Tarasievich
  */
@@ -1639,6 +1641,7 @@ $messages['be'] = array(
 Падрабязней гл. [//wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].",
 	'wikimedia-editpage-tos-summary' => 'Калі вы не жадаеце, каб ваш тэкст свабодна правіўся і распаўсюджваўся, не ўкладвайце яго сюды.
 Калі вы самі не пісалі гэтага тэксту, ён мусіць быць даступным на ўмовах, якія сумяшчальныя з [//wikimediafoundation.org/wiki/Terms_of_Use Умовамі карыстання], а вы мусіце даць згоду на ўсе наступныя змяненні ліцэнзійных патрабаванняў, якія маюць дачыненне да гэтага тэксту.',
+	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
 );
 
 /** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
@@ -3780,6 +3783,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
  * @author Ker
  * @author Oop
  * @author Pikne
+ * @author Platonides
  * @author WikedKentaur
  */
 $messages['et'] = array(
@@ -3898,6 +3902,7 @@ Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüp
 Kui sa ei kirjutanud seda teksti ise, siis peab see olema kasutatav vastavalt [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustes] toodud nõuetele ja sa kohustud täitma vastavaid litsentsi tingimusi.',
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
 	'wikimedia-translationnotifications-signup-legal' => 'Nõustud, et nende andmete Wikimedia Foundationile saatmise järel võime sinuga ühendust võtta seoses tõlgetega või muusse Wikimedia liikumisse puutuvaga, mis meie arvates sulle huvi võib pakkuda. Nõustud, et sinu andmeid tohib Ameerika Ühendriikides alles hoida ja et neid kasutatakse vastavalt meie [https://wikimediafoundation.org/wiki/Privacy_policy privaatsuspõhimõtetele].',
+	'upload-more-photos-of-this-monument' => 'Laadi üles veel pilte sellest mälestisest',
 );
 
 /** Basque (euskara)
@@ -11061,6 +11066,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
  * @author Kalan
  * @author Lockal
  * @author MaxSem
+ * @author Platonides
  * @author Putnik
  * @author TarzanASG
  * @author Александр Сигачёв
@@ -11189,6 +11195,7 @@ $messages['ru'] = array(
 Если вы не являетесь автором размещаемого текста, то он должен быть доступен на условиях, совместимых с [//wikimediafoundation.org/wiki/Terms_of_Use/ru Условиями использования], и вы соглашаетесь следовать всем соответствующим требованиям лицензии.',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
+	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
 );
 
 /** Rusyn (русиньскый)
@@ -13904,6 +13911,7 @@ $messages['ug-latn'] = array(
  * @author Ickis
  * @author Microcell
  * @author NickK
+ * @author Platonides
  * @author Prima klasy4na
  * @author Riwnodennyk
  * @author Тест
@@ -14031,6 +14039,7 @@ $messages['uk'] = array(
 	'wikimedia-editpage-tos-summary' => 'Якщо ви не бажаєте, щоб ваші тексти вільно редагувалися і розповсюджувалися будь-ким, не поміщайте їх сюди.
 Якщо ви не є автором цього тексту, він повинен бути доступний на умовах, сумісних із [//wikimediafoundation.org/wiki/Умови_використання умовами використання], і ви погоджуєтесь дотримуватись усіх відповідних ліцензійних вимог.',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
+	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
 );
 
 /** Urdu (اردو)

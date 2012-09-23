@@ -1978,8 +1978,8 @@ Der vollständige Text der Lizenz ist im Kapitel ''[[{{int:wm-license-gfdl-full-
 Der vollständige Text der Lizenz ist auf der Seite ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
 	'wm-license-gfdl-wiki-link' => 'w:de:GNU-Lizenz für freie Dokumentation',
 	'wm-license-gpl-text' => "Dieses Werk ist [[{{int:wm-license-free-software-wiki-link}}|freie Software]]; sie darf weiterverteilt und/oder verändert werden unter der  '''''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]],''''' wie sie von der [[{{int:wm-license-fsf-wiki-link}}|''Free Software Foundation'']] veröffentlicht wurde; dazu gelten die Bestimmungen der Version 2 oder einer späteren Version.
-Dieses Werk wurde in der Hoffnung veröffentlicht, dass sie sich als nützlich erweisen könnte, jedoch '''ohne Garantie;''' auch ohne implizierter Garantie der '''Marktgängigkeit''' oder der '''Eignung zu einem bestimmten Zweck.'''
-Siehe dazu die  [{{int:wm-license-gpl-2-full-link}} Version 2] und [{{int:wm-license-gpl-3-full-link}} Version 3 der ''GNU General Public License]'' für weitere Details.",
+Dieses Werk wurde in der Hoffnung veröffentlicht, dass es sich als nützlich erweisen könnte, jedoch '''ohne Garantie;''' auch ohne implizierter Garantie der '''Marktgängigkeit''' oder der '''Eignung zu einem bestimmten Zweck.'''
+Siehe dazu die  [{{int:wm-license-gpl-2-full-link}} Version 2] und [{{int:wm-license-gpl-3-full-link}} Version 3 der ''GNU General Public License]'' für weitere Einzelheiten.",
 	'wm-license-gpl-wiki-link' => 'w:de:GNU General Public License',
 	'wm-license-information-table-summary' => 'Eine standardisierte Tabelle mit vollständigen Informationen zu der Datei, eine Beschreibung, was sie zeigt und wie und von wem sie erstellt wurde, Urheberrechtsinformationen und Quellen.',
 	'wm-license-information-description' => 'Beschreibung',
@@ -1999,7 +1999,7 @@ Wenn du etwas davon weißt oder Zugang zu solchen Informationen hast, füge dies
 	'wm-license-information-other-versions' => 'Andere Versionen',
 	'wm-license-lgpl-text' => "Diese Bibliothek ist [[{{int:wm-license-free-software-wiki-link}}|freie Software]]; sie darf weiterverteilt und/oder verändert werden unter der '''''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]],''''' wie sie von der [[{{int:wm-license-fsf-wiki-link}}|''Free Software Foundation'']] veröffentlicht wurde; dazu gelten die Bestimmungen der Version 2.1 oder (nach Wahl) einer späteren Version.
 Diese Bibliothek wurde in der Hoffnung veröffentlicht, dass sie sich als nützlich erweisen könnte, jedoch '''ohne Garantie;''' auch ohne implizierter Garantie der '''Marktgängigkeit''' oder der '''Eignung zu einem bestimmten Zweck.'''
-Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm-license-lgpl-3-full-link}} Version 3 der ''Lesser GNU General Public License''] für weitere Details.",
+Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm-license-lgpl-3-full-link}} Version 3 der ''Lesser GNU General Public License''] für weitere Einzelheiten.",
 	'wm-license-lgpl-wiki-link' => 'w:de:GNU Lesser General Public License',
 	'wm-license-licensing-update-text' => 'Diese Lizenzmarkierung wurde auf Grund der GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizenzaktualisierung]] hinzugefügt.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/de',
