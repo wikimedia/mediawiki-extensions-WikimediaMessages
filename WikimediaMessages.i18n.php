@@ -173,6 +173,26 @@ $messages['en'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|system administrator}}',
 	'grouppage-sysadmin'    => 'm:System administrators', # only translate this message to other languages if you have to change it
 
+	'group-API_High_Limit_Requestor'        => 'API high limit requestors',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API high limit requestor}}',
+	'grouppage-API_High_Limit_Requestor'    => 'm:API high limit requestors', # only translate this message to other languages if you have to change it
+
+	'group-Indic_Bots'        => 'Indic bots',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indic bot}}',
+	'grouppage-Indic_Bots'    => 'm:Indic bots', # only translate this message to other languages if you have to change it
+
+	'group-New_wikis_importer'        => 'New wikis importers',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|new wikis importer}}',
+	'grouppage-New_wikis_importer'    => 'm:New wikis importers', # only translate this message to other languages if you have to change it
+
+	'group-global-ipblock-exempt'        => 'Global IP block exemptions',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|global IP block exempt}}',
+	'grouppage-global-ipblock-exempt'    => 'm:Global IP block exemptions', # only translate this message to other languages if you have to change it
+
+	'group-recursive-export'        => 'Recursive export',
+	'group-recursive-export-member' => '{{GENDER:$1|recursive exporter}}',
+	'grouppage-recursive-export'    => 'm:Recursive export', # only translate this message to other languages if you have to change it
+
 	# meta.wikimedia.org specific user group
 
 	'group-translationadmin'        => 'Translation administrators',
@@ -375,6 +395,31 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'group-sysadmin-member' => '{{doc-group|sysadmin|member}}',
 	'grouppage-sysadmin' => '{{optional}}
 {{doc-group|sysadmin|page}}
+{{Global grouppage}}',
+	'group-API_High_Limit_Requestor' => '{{doc-group|API_High_Limit_Requestor}}',
+	'group-API_High_Limit_Requestor-member' => '{{doc-group|API_High_Limit_Requestor|member}}',
+	'grouppage-API_High_Limit_Requestor' => '{{optional}}
+{{doc-group|API_High_Limit_Requestor|page}}
+{{Global grouppage}}',
+	'group-Indic_Bots' => '{{doc-group|Indic_Bots}}',
+	'group-Indic_Bots-member' => '{{doc-group|Indic_Bots|member}}',
+	'grouppage-Indic_Bots' => '{{optional}}
+{{doc-group|Indic_Bots|page}}
+{{Global grouppage}}',
+	'group-New_wikis_importer' => '{{doc-group|New_wikis_importer}}',
+	'group-New_wikis_importer-member' => '{{doc-group|New_wikis_importer|member}}',
+	'grouppage-New_wikis_importer' => '{{optional}}
+{{doc-group|New_wikis_importer|page}}
+{{Global grouppage}}',
+	'group-global-ipblock-exempt' => '{{doc-group|global-ipblock-exempt}}',
+	'group-global-ipblock-exempt-member' => '{{doc-group|global-ipblock-exempt|member}}',
+	'grouppage-global-ipblock-exempt' => '{{optional}}
+{{doc-group|global-ipblock-exempt|page}}
+{{Global grouppage}}',
+	'group-recursive-export' => '{{doc-group|recursive-export}}',
+	'group-recursive-export-member' => '{{doc-group|recursive-export|member}}',
+	'grouppage-recursive-export' => '{{optional}}
+{{doc-group|recursive-export|page}}
 {{Global grouppage}}',
 	'group-translationadmin' => '{{doc-group|translationadmin}}',
 	'group-translationadmin-member' => '{{doc-group|translationadmin|member}}',
