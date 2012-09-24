@@ -3108,11 +3108,22 @@ $messages['de'] = array(
 	'grouppage-steward' => 'm:Stewards/de',
 	'group-sysadmin' => 'Systemadministratoren',
 	'group-sysadmin-member' => '{{GENDER:$1|Systemadministrator|Systemadministratorin}}',
+	'group-API_High_Limit_Requestor' => 'Hohes-API-Limit-Benötigender',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Hohes-API-Limit-Benötigender|Hohes-API-Limit-Benötigende}}',
+	'group-Indic_Bots' => 'Bots für indische Sprachen',
+	'group-Indic_Bots-member' => '{{GENDER:$1|Bot für indische Sprachen}}',
+	'group-New_wikis_importer' => 'Neuwikiimporteure',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|Neuwikiimporteur|Neuwikiimporteurin}}',
+	'group-global-ipblock-exempt' => 'Globale IP-Sperren-Ausgenommene',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|Globaler IP-Sperren-Ausgenommener|Globale IP-Sperren-Ausgenommene}}',
+	'group-recursive-export' => 'Rekursive Exporteure',
+	'group-recursive-export-member' => '{{GENDER:$1|Rekursiver Exporteur|Rekursive Exporteurin}}',
 	'group-translationadmin' => 'Übersetzungsadministratoren',
 	'group-translationadmin-member' => '{{GENDER:$1|Übersetzungsadministrator|Übersetzungsadministratorin}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Übersetzungsadministratoren',
 	'group-coder' => 'Programmierer',
 	'group-coder-member' => '{{GENDER:$1|Programmierer|Programmiererin}}',
+	'grouppage-coder' => '{{ns:project}}:Programmierer',
 	'group-inactive' => 'Inaktive Benutzer',
 	'group-inactive-member' => '{{GENDER:$1|Inaktiver Benutzer|Inaktive Benutzerin}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
@@ -9177,8 +9188,8 @@ $messages['nb'] = array(
 	'group-arbcom' => 'Meglingskomitémedlemmer',
 	'group-arbcom-member' => '{{GENDER:$1|medlem av forlikskomiteen}}',
 	'grouppage-arbcom' => '{{ns:project}}:Meglingskomitémedlemmer',
-	'group-autopatrolled' => 'autopatrollere',
-	'group-autopatrolled-member' => '{{GENDER:$1|selvpatruljør}}',
+	'group-autopatrolled' => 'Autopatruljerte',
+	'group-autopatrolled-member' => '{{GENDER:$1|autopatruljør}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patruljering',
 	'group-autoreviewer' => 'Autogranskede',
 	'group-autoreviewer-member' => '{{GENDER:$1|selvreviderer}}',
@@ -14114,9 +14125,12 @@ $messages['ur'] = array(
 	'cant-delete-main-page' => 'آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں.',
 );
 
-/** Uzbek (oʻzbekcha) */
+/** Uzbek (oʻzbekcha)
+ * @author CoderSI
+ */
 $messages['uz'] = array(
 	'sitesupport' => "Loyihaga ko'mak",
+	'wikimedia-copyright' => 'Matn <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> bo\'yicha ommalashtiriladi, alohida holatlarda qo\'shimcha shartlar amal qilishi mumkin. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a> bilan batafsil tanishishingiz mumkin.',
 );
 
 /** vèneto (vèneto)
