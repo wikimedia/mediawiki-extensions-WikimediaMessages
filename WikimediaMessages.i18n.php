@@ -3708,6 +3708,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Manuelt15
  * @author Platonides
  * @author Sanbec
+ * @author Shirayuki
  * @author Translationista
  */
 $messages['es'] = array(
@@ -3813,6 +3814,17 @@ $messages['es'] = array(
 	'grouppage-steward' => 'm:Stewards/es',
 	'group-sysadmin' => 'Administradores del sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador|administradora}} del sistema',
+	'group-API_High_Limit_Requestor' => 'Solicitantes de alto límite de API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Solicitante de alto límite de API}}',
+	'grouppage-API_High_Limit_Requestor' => 'm:API high limit requestors',
+	'group-New_wikis_importer' => 'Nuevos importadores de wikis',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|nuevo importador de wikis}}',
+	'grouppage-New_wikis_importer' => 'm:New wikis importers',
+	'group-global-ipblock-exempt' => 'Exenciones de bloqueos IP globales',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|exento de bloqueo IP global}}',
+	'grouppage-global-ipblock-exempt' => 'm:Global IP block exemptions',
+	'group-recursive-export' => 'Exportación recursiva',
+	'group-recursive-export-member' => '{{GENDER:$1|exportador recursivo|exportadora recursiva}}',
 	'group-translationadmin' => 'Administradores de traducción',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador|administradora}} de traducción',
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de traducción',
@@ -6808,6 +6820,10 @@ $messages['it'] = array(
 	'grouppage-steward' => 'm:Stewards/it',
 	'group-sysadmin' => 'Amministratori di sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|amministratore di sistema|amministratrice di sistema|amministratore/trice di sistema}}',
+	'group-New_wikis_importer' => 'Importatori su nuovi wiki',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|importatore|importatrice|importatore/trice}} su nuovi wiki',
+	'group-global-ipblock-exempt' => 'Esenti dal blocco IP globale',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|esente dal blocco IP globale}}',
 	'group-translationadmin' => 'Amministratori delle traduzioni',
 	'group-translationadmin-member' => '{{GENDER:$1|amministratore delle traduzioni|amministratrice delle traduzioni|amministratore/trice delle traduzioni}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Amministratori delle traduzioni',
@@ -6847,7 +6863,7 @@ $messages['ja'] = array(
 	'specialpages-group-contribution' => '寄付/資金調達',
 	'nstab-creator' => '作者',
 	'nstab-institution' => '施設',
-	'nstab-sequence' => 'シークエンス',
+	'nstab-sequence' => 'シーケンス',
 	'nstab-timedtext' => '字幕',
 	'group-Ex_Administrator' => '元管理者',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|元管理者}}',
@@ -6941,6 +6957,21 @@ $messages['ja'] = array(
 	'grouppage-steward' => 'm:Stewards/ja',
 	'group-sysadmin' => 'システム管理者',
 	'group-sysadmin-member' => '{{GENDER:$1|システム管理者}}',
+	'group-API_High_Limit_Requestor' => 'API高頻度使用者',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API高頻度使用者}}',
+	'grouppage-API_High_Limit_Requestor' => 'm:API high limit requestors',
+	'group-Indic_Bots' => 'インドのボット',
+	'group-Indic_Bots-member' => '{{GENDER:$1|インドのボット}}',
+	'grouppage-Indic_Bots' => 'm:Indic bots',
+	'group-New_wikis_importer' => '新規ウィキインポート担当者',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|新規ウィキインポート担当者}}',
+	'grouppage-New_wikis_importer' => 'm:New wikis importers',
+	'group-global-ipblock-exempt' => 'グローバルIPブロック適用除外者',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|グローバルIPブロック適用除外者}}',
+	'grouppage-global-ipblock-exempt' => 'm:Global IP block exemptions',
+	'group-recursive-export' => '再帰的エクスポート担当者',
+	'group-recursive-export-member' => '{{GENDER:$1|再帰的エクスポート担当者}}',
+	'grouppage-recursive-export' => 'm:Recursive export',
 	'group-translationadmin' => '翻訳管理者',
 	'group-translationadmin-member' => '{{GENDER:$1|翻訳管理者}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻訳管理者',
@@ -8522,6 +8553,21 @@ $messages['mk'] = array(
 	'group-sysadmin' => 'Систем администратори',
 	'group-sysadmin-member' => '{{GENDER:$1|системски администратор}}',
 	'grouppage-sysadmin' => 'm:Системски администратори',
+	'group-API_High_Limit_Requestor' => 'Баратели на горни граници на API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|барател на горна граница на API}}',
+	'grouppage-API_High_Limit_Requestor' => 'm:API high limit requestors',
+	'group-Indic_Bots' => 'Индиски ботови',
+	'group-Indic_Bots-member' => '{{GENDER:$1|индиски бот}}',
+	'grouppage-Indic_Bots' => 'm:Indic bots',
+	'group-New_wikis_importer' => 'Увозници на нови викија',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|увозник на нови викија}}',
+	'grouppage-New_wikis_importer' => 'm:New wikis importers',
+	'group-global-ipblock-exempt' => 'Исклучоци од глобални IP-блокови',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|исклучок од глобален IP-блок}}',
+	'grouppage-global-ipblock-exempt' => 'm:Global IP block exemptions',
+	'group-recursive-export' => 'Повторлив извоз',
+	'group-recursive-export-member' => '{{GENDER:$1|повторлив извозник}}',
+	'grouppage-recursive-export' => 'm:Recursive export',
 	'group-translationadmin' => 'Преводни администратори',
 	'group-translationadmin-member' => '{{GENDER:$1|преводен администратор}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Преводни администратори',
@@ -8936,10 +8982,25 @@ $messages['ms'] = array(
 	'group-editinterface-member' => '{{GENDER:$1|penyunting antara muka}}',
 	'group-steward' => 'Pengelola',
 	'group-steward-member' => '{{GENDER:$1|pengelola}}',
-	'grouppage-steward' => 'm:Pengelola',
+	'grouppage-steward' => 'm:Stewards',
 	'group-sysadmin' => 'Pentadbir sistem',
 	'group-sysadmin-member' => '{{GENDER:$1|pentadbir sistem}}',
 	'grouppage-sysadmin' => 'm:Pentadbir sistem',
+	'group-API_High_Limit_Requestor' => 'Pemohon had tinggi API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|pemohon had tinggi API}}',
+	'grouppage-API_High_Limit_Requestor' => 'm:API high limit requestors',
+	'group-Indic_Bots' => 'Bot indik',
+	'group-Indic_Bots-member' => '{{GENDER:$1|bot indik}}',
+	'grouppage-Indic_Bots' => 'm:Indic bots',
+	'group-New_wikis_importer' => 'Pengimport wiki baru',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|pengimport wiki baru}}',
+	'grouppage-New_wikis_importer' => 'm:New wikis importers',
+	'group-global-ipblock-exempt' => 'Pengecualian sekatan IP sejagat',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|terkecuali dari sekatan IP sejagat}}',
+	'grouppage-global-ipblock-exempt' => 'm:Global IP block exemptions',
+	'group-recursive-export' => 'Eksport rekursif',
+	'group-recursive-export-member' => '{{GENDER:$1|pengeksport rekursif}}',
+	'grouppage-recursive-export' => 'm:Recursive export',
 	'group-translationadmin' => 'Pentadbir penterjemahan',
 	'group-translationadmin-member' => '{{GENDER:$1|pentadbir penterjemahan}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Pentadbir penterjemahan',
@@ -9149,7 +9210,7 @@ $messages['nap'] = array(
 	'sitesupport' => 'Donazzione',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Danmichaelo
  * @author Event
  * @author Finnrind
@@ -9585,7 +9646,7 @@ Als je bewerking niet door jezelf is geschreven, dan moet je toevoeging beschikb
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geef je ons toestemming om contact met je op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze je interesse hebben. Je stemt in met het opslaan van je gegevens in de Verenigde Staten van Amerika en dat je gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
  * @author Gunnernett
  * @author Harald Khan

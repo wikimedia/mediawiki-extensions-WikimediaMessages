@@ -306,10 +306,21 @@ $messages['nl'] = array(
 );
 
 /** Polish (polski)
+ * @author BeginaFelicysym
  * @author Woytecr
  */
 $messages['pl'] = array(
 	'wikimedialabsmessages-desc' => 'Komunikaty Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Repozytoria Analityczne Wikimedii Gerrit',
+	'gerrittools-repogroup-integration' => 'Repozytoria Ciągłej Integracji Wikimedii Gerrit',
+	'gerrittools-repogroup-mediawiki' => 'Repozytoria MediaWiki Gerrit',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Repozytoria rozszerzeń MediaWiki Gerrit',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repozytoria pakietów MediaWiki Gerrit',
+	'gerrittools-repogroup-mediawiki/tools' => 'Repozytoria Narzędzi MediaWiki Gerrit',
+	'gerrittools-repogroup-operations' => 'Repozytoria Operacyjne Wikimedii Gerrit',
+	'gerrittools-repogroup-test' => 'Repozytoria Testów Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Repozytoria Translatewiki.net Gerrit',
+	'gerrittools-repogroup-wikimedia' => 'Repozytoria Wikimedia Gerrit',
 );
 
 /** Tagalog (Tagalog)
