@@ -8417,22 +8417,54 @@ $messages['sr-ec'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Изаберите лиценцу по вашем избору.',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
+	'wm-license-artwork-artist' => 'Umetnik',
+	'wm-license-artwork-title' => 'Naslov',
+	'wm-license-artwork-medium' => 'Tehnika',
+	'wm-license-artwork-dimensions' => 'Dimenzije',
+	'wm-license-artwork-current-location' => 'Mesto',
+	'wm-license-artwork-object-history' => 'Istorija predmeta',
+	'wm-license-artwork-credit-line' => 'Poreklo',
+	'wm-license-artwork-references' => 'Navodi',
+	'wm-license-artwork-inscriptions' => 'Natpisi',
+	'wm-license-artwork-notes' => 'Beleške',
+	'wm-license-artwork-id' => 'Popisni broj',
+	'wm-license-artwork-source' => 'Izvor/fotograf',
+	'wm-license-book-edition' => 'Izdanje',
+	'wm-license-book-editor' => 'Urednik',
+	'wm-license-book-illustrator' => 'Ilustrator',
+	'wm-license-book-language' => 'Jezik',
+	'wm-license-book-page-overview' => 'Pregled stranice',
+	'wm-license-book-place-of-publication' => 'Mesto izdavanja',
+	'wm-license-book-printer' => 'Štamparija',
+	'wm-license-book-publisher' => 'Izdavač',
+	'wm-license-book-series-title' => 'Broj serije',
+	'wm-license-book-start-this-book' => 'Početak knjige',
+	'wm-license-book-subtitle' => 'Podnaslov',
+	'wm-license-book-title' => 'Naslov',
+	'wm-license-book-translator' => 'Prevodilac',
+	'wm-license-book-volume' => 'Tom',
+	'wm-license-book-year-of-publication' => 'Godina izdavanja',
+	'wm-license-cecill-text' => 'Ovo delo je [[{{int:wm-license-free-software-wiki-link}}|slobodan program]]; možete ga raspodeljivati ili menjati pod uslovima licence [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Ove uslove možete naći na adresi [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-cecill-wiki-link' => 'w:sr:CeCILL',
 	'wm-license-cecill-full-link' => 'http://www.cecill.info/licences/Licence_CeCILL_V2-en.html',
 	'wm-license-creator-alternative-names' => 'Псеудоними',
 	'wm-license-creator-description' => 'Опис',
+	'wm-license-creator-date-of-birth' => 'Datum rođenja',
 	'wm-license-creator-date-of-birth-and-death' => 'Датум рођења/смрти',
+	'wm-license-creator-location-of-birth' => 'Mesto rođenja',
 	'wm-license-creator-location-of-birth-and-death' => 'Место рођења/смрти',
 	'wm-license-creator-work-period' => 'Време рада',
 	'wm-license-creator-work-location' => 'Место рада',
+	'wm-license-creator-linkback' => 'Nazad na infokutiju',
 	'wm-license-fal-wiki-link' => 'w:sr:Licenca za slobodnu umetnost',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
 	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
 	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
 	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.",
+	'wm-license-gfdl-1.2-only-header' => 'samo &nbsp;1.2',
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
 	'wm-license-information-description' => 'Opis slike',
@@ -8448,7 +8480,16 @@ $messages['sr-el'] = array(
 	'wm-license-information-other-versions' => 'Druge verzije',
 	'wm-license-lgpl-wiki-link' => 'w:sr:GNU-ova manja opšta javna licenca',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/sr',
+	'wm-license-original-upload-log' => 'Izvorna istorija otpremanja',
 	'wm-license-own-work' => 'Sopstveno delo',
+	'wm-license-pd-author-self-text' => "Ja, nosilac autorskog prava ovog dela, predajem ga u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]'''. Ovo važi za ceo svet.",
+	'wm-license-pd-author-with-author-text' => "Ovo delo je predato u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]''' od njegovog autora, '''$1'''. Ovo važi za ceo svet.",
+	'wm-license-pd-author-not-legally-possible' => 'U nekim zemljama, ovo nije zakonski izvodljivo. U tom slučaju:',
+	'wm-license-pd-author-self-any-purpose' => "Dozvoljavam svakome da koristi delo '''u bilo koju svrhu''', bez ikakvih uslova, osim ako takve uslove ne nalaže zakon.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 dozvoljava svakome da koristi delo '''u bilo koju svrhu''', bez ikakvih uslova, osim ako takve uslove ne nalaže zakon.",
+	'wm-license-pd-usgov-wiki-link' => 'w:sr:Federalna vlada SAD',
+	'wm-license-pd-usgov-work-wiki-link' => 'w:sr:Status autorskih prava dela vlade SAD',
+	'wm-license-pd-usgov-fema-wiki-link' => 'w:sr:Federalna agencija za upravljanje vanrednim situacijama',
 	'wm-license-pd-wiki-link' => 'w:sr:Јавно власништво',
 	'wm-license-self-one-license' => 'Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:',
 	'wm-license-self-one-license-with-author' => '$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:',
@@ -9799,7 +9840,7 @@ $messages['zh-classical'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:zh-classical:吉恩游自由文檔許可協議',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Bencmq
  * @author Hydra
  * @author Multichill
@@ -9883,6 +9924,12 @@ $messages['zh-hans'] = array(
 	'wm-license-pd-author-not-legally-possible' => '有些国家这可能不合法，如果这样：',
 	'wm-license-pd-author-self-any-purpose' => "我无条件地授予任何人以'''任何目的'''使用本作品的权利，除非这些条件是法律规定所必需的。",
 	'wm-license-pd-author-with-author-any-purpose' => "$1无条件地授予任何人以'''任何目的'''使用本作品的权利，除非这些条件是法律规定所必需的。",
+	'wm-license-pd-usgov-fema-text' => "此档案是[[{{int:wm-license-pd-usgov-fema-wiki-link}}|联邦紧急事务管理署]]雇员在其公务其间的作品。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，此作品已列入'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。",
+	'wm-license-pd-usgov-military-text' => "这个作品是[[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|美国军队]]或[[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|国防部]]雇员在工作期间的作品。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，此作品属'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。",
+	'wm-license-pd-usgov-military-air-force-text' => "此作品是[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|美国空军]]雇员在工作期间的作品。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，此作品属'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。",
+	'wm-license-pd-usgov-military-army-text' => "此作品是[[{{int:wm-license-pd-usgov-military-army-wiki-link}}|美国军队]]士兵或雇员在工作期间的作品。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，此作品属'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。",
+	'wm-license-pd-usgov-military-navy-text' => "此作品乃[[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|美国陆军]]士兵或雇员在公务期间之作。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，此作品属'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。",
+	'wm-license-pd-usgov-noaa-text' => "此作品乃[[{{int:wm-license-pd-usgov-noaa-wiki-link}}|美国国家海洋和大气管理局]]雇员在公务期间之作。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，此作品属'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。",
 	'wm-license-self-one-license' => '我，本作品著作权持有人，自此以以下授权协议发表本作品：',
 	'wm-license-self-one-license-with-author' => '$1，本作品著作权持有人，自此以以下授权协议发表本作品：',
 	'wm-license-self-multiple-licenses' => '我，本作品著作权持有人，自此以以下授权协议发表本作品：',
@@ -9890,7 +9937,7 @@ $messages['zh-hans'] = array(
 	'wm-license-self-multiple-licenses-select' => '你可以选择你需要的授权协议。',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Anakmalaysia
  * @author Frankou
  * @author Horacewai2
@@ -9941,6 +9988,8 @@ $messages['zh-hant'] = array(
 	'wm-license-creator-work-location' => '創作地點',
 	'wm-license-creator-linkback' => '連結回建立者主資訊框模板',
 	'wm-license-fal-text' => "Copyleft：本藝術作品是自由的。你可據'''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''（自由藝術授權協議）的條款再發行和/或修改它。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude 網站]或其他網站找到該協議的樣本。",
+	'wm-license-fsf-wiki-link' => 'w:zh:自由軟件基金會',
+	'wm-license-free-software-wiki-link' => 'w:zh:自由軟件',
 	'wm-license-gfdl-1.2-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟體基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.2 版或任一後續版本條款，複製、分發和/或修改本檔案。協議副本包含在題為「[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]」的部分中。",
 	'wm-license-gfdl-1.2-only' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟體基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.2 版條款，複製、分發和/或修改本檔案。協議副本包含在題為「[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]」的部分中。",
 	'wm-license-gfdl-1.2-only-header' => '只限1.2',

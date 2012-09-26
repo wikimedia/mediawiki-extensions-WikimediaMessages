@@ -7479,9 +7479,9 @@ $messages['ko'] = array(
 	'group-Ex_Bureaucrat' => '전직 사무관',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|전직 사무관}}',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:전직 사무관',
-	'group-Image-reviewer' => '이미지 리뷰어',
-	'group-Image-reviewer-member' => '{{GENDER:$1|이미지 리뷰어}}',
-	'grouppage-Image-reviewer' => '{{ns:project}}:이미지 리뷰어',
+	'group-Image-reviewer' => '그림 평론가',
+	'group-Image-reviewer-member' => '{{GENDER:$1|그림 평론가}}',
+	'grouppage-Image-reviewer' => '{{ns:project}}:그림 평론가',
 	'group-OTRS-member' => 'OTRS 사용자',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS 사용자}}',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS 사용자',
@@ -7565,6 +7565,12 @@ $messages['ko'] = array(
 	'grouppage-steward' => 'm:Stewards/ko',
 	'group-sysadmin' => '시스템 관리자',
 	'group-sysadmin-member' => '{{GENDER:$1|시스템 관리자}}',
+	'group-API_High_Limit_Requestor' => 'API 고제한 요청자',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API 고제한 요청자}}',
+	'grouppage-API_High_Limit_Requestor' => 'm:API 고제한 요청자',
+	'group-New_wikis_importer' => '새 위키 가져오는자',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|새 위키 가져오는자}}',
+	'grouppage-New_wikis_importer' => 'm:새 위키 가져오는자',
 	'group-translationadmin' => '번역 관리자',
 	'group-translationadmin-member' => '{{GENDER:$1|번역 관리자}}',
 	'grouppage-translationadmin' => '{{ns:project}}:번역 관리자',
@@ -8703,6 +8709,9 @@ $messages['ml'] = array(
 	'group-steward-member' => '{{GENDER:$1|സ്റ്റ്യൂവാർഡ്}}',
 	'group-sysadmin' => 'സിസ്റ്റം കാര്യനിർവാഹകർ',
 	'group-sysadmin-member' => '{{GENDER:$1|സിസ്റ്റം കാര്യനിർവാഹകൻ|സിസ്റ്റം കാര്യനിർവാഹക}}',
+	'group-Indic_Bots' => 'ഇന്ത്യക്കായുള്ള യന്ത്രങ്ങൾ',
+	'group-Indic_Bots-member' => '{{GENDER:$1|ഇന്ത്യക്കായുള്ള യന്ത്രം}}',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|ആഗോളമായി ഐ.പി. തടയലിൽ നിന്ന് ഒഴിവാക്കപ്പെട്ടയാൾ}}',
 	'group-translationadmin' => 'പരിഭാഷാ കാര്യനിർവാഹകർ',
 	'group-translationadmin-member' => '{{GENDER:$1|പരിഭാഷാ കാര്യനിർവാഹകൻ|പരിഭാഷാ കാര്യനിർവാഹക}}',
 	'grouppage-translationadmin' => '{{ns:project}}:പരിഭാഷാ കാര്യനിർവാഹകർ',
@@ -12469,7 +12478,7 @@ $messages['sr-ec'] = array(
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author FriedrickMILBarbarossa
  * @author Michaello
  * @author Жељко Тодоровић
@@ -12484,6 +12493,12 @@ $messages['sr-el'] = array(
 	'nstab-institution' => 'Ustanova',
 	'nstab-sequence' => 'Niz',
 	'nstab-timedtext' => 'Usklađen tekst',
+	'group-Ex_Administrator' => 'Bivši administratori',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|bivši administrator|bivša administratorka|bivši administrator}}',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Bivši administratori',
+	'group-Ex_Bureaucrat' => 'Bivše birokrate',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|bivši birokrata|bivša birokratkinja|bivši birokrata}}',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Bivše birokrate',
 	'group-Image-reviewer' => 'Pregledači slika',
 	'group-Image-reviewer-member' => '{{GENDER:$1|pregledač slika|pregledačica slika|pregledač slika}}',
 	'grouppage-Image-reviewer' => '{{ns:project}}:Pregledači slika',
@@ -12508,6 +12523,9 @@ $messages['sr-el'] = array(
 	'group-bigexport' => 'Veliki izvoznici',
 	'group-bigexport-member' => '{{GENDER:$1|veliki izvoznik|velika izvoznica|veliki izvoznik}}',
 	'grouppage-bigexport' => '{{ns:project}}:Veliki izvoznici',
+	'group-botadmin' => 'Botovi s administratorskim pravima',
+	'group-botadmin-member' => '{{GENDER:$1|bot s administratorskim pravima}}',
+	'grouppage-botadmin' => '{{ns:project}}:Botovi s administratorskim pravima',
 	'group-confirmed' => 'Potvrđeni korisnici',
 	'group-confirmed-member' => '{{GENDER:$1|potvrđeni korisnik|potvrđena korisnica|potvrđeni korisnik}}',
 	'grouppage-confirmed' => '{{ns:project}}:Potvrđeni korisnici',
@@ -12536,7 +12554,7 @@ $messages['sr-el'] = array(
 	'group-ipblock-exempt-member' => '{{GENDER:$1|izuzetak od IP blokiranja}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Izuzetak od IP blokova',
 	'group-patroller' => 'Patroleri',
-	'group-patroller-member' => 'patroler',
+	'group-patroller-member' => '{{GENDER:$1|patroler|patrolerka|patroler}}',
 	'group-researcher' => 'Istraživači',
 	'group-researcher-member' => '{{GENDER:$1|istraživač|istraživačica|istraživač}}',
 	'grouppage-researcher' => '{{ns:project}}:Istraživači',
@@ -12572,6 +12590,9 @@ $messages['sr-el'] = array(
 	'group-sysadmin' => 'Sistemski administratori',
 	'group-sysadmin-member' => '{{GENDER:$1|sistemski administrator|sistemska administratorka|sistemski administrator}}',
 	'grouppage-sysadmin' => 'm:Sistemski administratori',
+	'group-translationadmin' => 'Prevodilački administratori',
+	'group-translationadmin-member' => '{{GENDER:$1|prevodilački administrator|prevodilačka administratorka|prevodilački administrator}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Prevodilački administratori',
 	'group-coder' => 'Koderi',
 	'group-coder-member' => '{{GENDER:$1|programer|programerka|programer}}',
 	'grouppage-coder' => 'Project:Programer',
@@ -14907,7 +14928,7 @@ $messages['zea'] = array(
 	'sitesupport' => 'Donaoties',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Anakmalaysia
  * @author Bencmq
  * @author Gaoxuewei
@@ -15038,9 +15059,10 @@ $messages['zh-hans'] = array(
 	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0许可协议]和[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]不可逆地发表你的贡献。你认同依据知识共享许可协议使用超链接或URL作为署名是充分的。',
 	'wikimedia-editpage-tos-summary' => '如果你不希望你编写的内容被编辑或传播，请勿在这里提交。如果这些内容不是你自己编写的，它们必须符合[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]的规定，并且你同意遵守任何相关授权协议的要求。',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
+	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Alexsh
  * @author Anakmalaysia
  * @author Horacewai2
@@ -15148,6 +15170,7 @@ $messages['zh-hant'] = array(
 	'group-Ombudsmen-member' => '{{GENDER:$1|申訴專員}}',
 	'group-Staff' => '內部成員',
 	'group-Staff-member' => '成員',
+	'grouppage-Staff' => 'Foundation:基金會職員',
 	'group-editinterface' => '介面編輯者',
 	'group-editinterface-member' => '{{GENDER:$1|界面編輯者}}',
 	'group-steward' => '監管員',
