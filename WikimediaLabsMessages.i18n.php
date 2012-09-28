@@ -307,20 +307,21 @@ $messages['nl'] = array(
 
 /** Polish (polski)
  * @author BeginaFelicysym
+ * @author Matma Rex
  * @author Woytecr
  */
 $messages['pl'] = array(
 	'wikimedialabsmessages-desc' => 'Komunikaty Wikimedia Labs',
-	'gerrittools-repogroup-analytics' => 'Repozytoria Analityczne Wikimedii Gerrit',
-	'gerrittools-repogroup-integration' => 'Repozytoria Ciągłej Integracji Wikimedii Gerrit',
-	'gerrittools-repogroup-mediawiki' => 'Repozytoria MediaWiki Gerrit',
-	'gerrittools-repogroup-mediawiki/extensions' => 'Repozytoria rozszerzeń MediaWiki Gerrit',
-	'gerrittools-repogroup-mediawiki/packages' => 'Repozytoria pakietów MediaWiki Gerrit',
-	'gerrittools-repogroup-mediawiki/tools' => 'Repozytoria Narzędzi MediaWiki Gerrit',
-	'gerrittools-repogroup-operations' => 'Repozytoria Operacyjne Wikimedii Gerrit',
-	'gerrittools-repogroup-test' => 'Repozytoria Testów Gerrit',
-	'gerrittools-repogroup-translatewiki' => 'Repozytoria Translatewiki.net Gerrit',
-	'gerrittools-repogroup-wikimedia' => 'Repozytoria Wikimedia Gerrit',
+	'gerrittools-repogroup-analytics' => 'Repozytoria gerrita: Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Repozytoria gerrita: Wikimedia Continuous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Repozytoria gerrita: MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Repozytoria gerrita: rozszerzenia MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repozytoria gerrita: paczki MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Repozytoria gerrita: narzędzia MediaWiki',
+	'gerrittools-repogroup-operations' => 'Repozytoria gerrita: Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Testowe repozytoria gerrita',
+	'gerrittools-repogroup-translatewiki' => 'Repozytoria gerrita: Translatewiki.net',
+	'gerrittools-repogroup-wikimedia' => 'Repozytoria gerrita: Wikimedia',
 );
 
 /** Tagalog (Tagalog)
