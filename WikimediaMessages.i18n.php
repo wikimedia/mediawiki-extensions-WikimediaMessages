@@ -1689,7 +1689,7 @@ $messages['be'] = array(
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Cesco
  * @author EugeneZelenko
  * @author Jim-by
@@ -1811,6 +1811,7 @@ $messages['be-tarask'] = array(
 Калі Вы не зьяўляецеся аўтарам гэтага тэксту, то ён павінен быць даступны на ўмовах, сумяшчальных з [//wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], і Вы згодныя прытрымлівацца ўсіх патрабаваньняў ліцэнзіяў.',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
+	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
 );
 
 /** Bulgarian (български)
@@ -6544,7 +6545,7 @@ $messages['ilo'] = array(
 	'grouppage-bigexport' => '{{ns:project}}:Dagiti dakkel nga agir-iruar',
 	'group-botadmin' => 'Dagiti bots nga addaan ti karbengan nga administrador',
 	'group-botadmin-member' => '{{GENDER:$1|bot nga addan ti administrador a karbengan}}',
-	'grouppage-botadmin' => '{{ns:project}}:Dagiti bots nga addaan ti karbengan nga administrador',
+	'grouppage-botadmin' => '{{ns:project}}:Dagiti bot nga addaan ti karbengan nga administrador',
 	'group-confirmed' => 'Dagiti napasingkedan nga agar-aramat',
 	'group-confirmed-member' => '{{GENDER:$1|napasingkedan nga agar-aramat}}',
 	'grouppage-confirmed' => '{{ns:project}}:Dagiti napasingkedan nga agar-aramat',
@@ -6574,6 +6575,7 @@ $messages['ilo'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP a saan a maserraan',
 	'group-patroller' => 'Dagiti agpatpattrulia',
 	'group-patroller-member' => '{{GENDER:$1|agpatpatrulia}}',
+	'grouppage-patroller' => '{{ns:project}}:Dagiti agpatpatrulia',
 	'group-researcher' => 'Dagiti agsuksukisok',
 	'group-researcher-member' => '{{GENDER:$1|agsuksukisok}}',
 	'grouppage-researcher' => '{{ns:project}}:Dagiti agsuksukisok',
@@ -6602,6 +6604,15 @@ $messages['ilo'] = array(
 	'group-steward-member' => '{{GENDER:$1|mayordormo}}',
 	'group-sysadmin' => 'Dagiti administrador ti sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador ti sistema}}',
+	'group-API_High_Limit_Requestor' => 'Dagiti agkidkidaw ti nangato ti patinggana nga API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Dagiti agkidkidaw ti nangato ti patinggana nga API}}',
+	'grouppage-API_High_Limit_Requestor' => 'm:Dagiti agkidkidaw ti nangato ti patinggana nga API',
+	'group-Indic_Bots' => 'Dagiti Indic a bot',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indic bot}}',
+	'group-New_wikis_importer' => 'Dagiti  agalala kadagiti baro a wiki',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|agalala kadagiti baro a wiki}}',
+	'group-global-ipblock-exempt' => 'Dagiti malaksid ti panagserra ti sangalubongan nga IP',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|malaksid ti sangalubongan a panagserra ti IP}}',
 	'group-translationadmin' => 'Dagiti administrador ti agipatpatarus',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador ti agipatpatarus}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Dagiti administrador ti agipatpatarus',
@@ -6610,16 +6621,18 @@ $messages['ilo'] = array(
 	'group-inactive' => 'Dagiti saan a nasiglat nga agar-aramat',
 	'group-inactive-member' => '{{GENDER:$1|saan a nasiglat nga agar-aramat}}',
 	'grouppage-inactive' => '{{ns:project}}:Dagiti saan a nasiglat nga agar-aramat',
-	'wikimedia-copyright' => 'Ti teksto ket magun-od a babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
-addan to  pay dagiti banag a maikapet.
-Kitaen ti <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> para kadagiti detalye.',
-	'wikimedia-copyrightwarning' => 'Babaen ti panag-takla ti "{{int:savearticle}}" a buton, agtulag ka [//wikimediafoundation.org/wiki/Terms_of_use Kadagiti sakup ti panag-usar], ken di mawaswas ka nga agtulag nga ibbatam dagiti parawad mo babaen
-ti [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] ken ti
+	'wikimedia-copyright' => 'Ti testo ket magun-od a babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensia ti Creative Commons Attribution/Share-Alike</a>;
+dagiti mainayon a termino ket mabalin pay a maipakat.
+Kitaen dagiti <a href="//wikimediafoundation.org/wiki/Terms_of_use">Termino ti panag-usar</a> para kadagiti salaysay.',
+	'wikimedia-copyrightwarning' => 'Babaen ti panag-takla ti "{{int:savearticle}}" a buton, agtulag ka [//wikimediafoundation.org/wiki/Terms_of_use Kadagiti termino ti panag-usar], ken di mawaswas ka nga agtulag nga ibbatam dagiti parawad mo babaen
+ti [//creativecommons.org/licenses/by-sa/3.0/ Lisensia ti CC-BY-SA 3.0] ken ti
 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] .
-Agtulag ka nga ti maysa a hyperlink wenno URL ket umanayen a pammadayaw babaen ti Creative Commons a lisensia.',
-	'wikimedia-editpage-tos-summary' => 'No saan mo a kayat dagiti maisursurat mo a maurnos ken maiwarwaras nga awan nakem, ngarud ket saan mo nga itulok ditoy.
-No saan a sika ti nagisurat iti daytoy, masapul a magun-od babaen ti naisakup a naitunos iti [//wikimediafoundation.org/wiki/Terms_of_Use Sakup ti panag-usar], ken agtulag ka a surotem ti ania man a maitutop kadagiti masasapul a lisensia.',
-	'cant-delete-main-page' => 'Saan mo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
+Agtulagka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
+	'wikimedia-editpage-tos-summary' => 'No saanmo a kayat a  dagiti maisursuratmo ket maurnos ken maiwarwaras nga awan nakem, ngarud ket saanmo nga itulok ditoy.
+No saan a sika ti nagisurat iti daytoy, masapul a magun-od babaen kadagiti termino a naitunos kadagiti [//wikimediafoundation.org/wiki/Terms_of_Use Termino ti panag-usar], ken agtulagka a surotem ti ania man a maitutop kadagiti masasapul a lisensia.',
+	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
+	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
+	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan ti daytoy a monumento',
 );
 
 /** Ingush (ГӀалгӀай)

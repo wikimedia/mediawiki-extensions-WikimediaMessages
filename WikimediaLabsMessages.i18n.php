@@ -44,6 +44,23 @@ $messages['ar'] = array(
 	'gerrittools-repogroup-test' => 'اختبار مستودعات جيريت',
 );
 
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'wikimedialabsmessages-desc' => 'Паведамленьні Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Сховішчы Gerrit: Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Сховішчы Gerrit: Wikimedia Continuous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Сховішчы Gerrit: MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Сховішчы Gerrit: пашырэньні MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Сховішчы Gerrit: пакеты MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Сховішчы Gerrit: прылады MediaWiki',
+	'gerrittools-repogroup-operations' => 'Сховішчы Gerrit: Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Тэставыя сховішчы Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Сховішчы Gerrit: Translatewiki.net',
+	'gerrittools-repogroup-wikimedia' => 'Сховішчы Gerrit: Wikimedia',
+);
+
 /** Breton (brezhoneg)
  * @author Fulup
  */
