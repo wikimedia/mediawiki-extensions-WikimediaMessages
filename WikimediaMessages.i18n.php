@@ -1030,7 +1030,7 @@ $messages['arc'] = array(
 ܐܢ ܠܝܬ ܐܢܬ ܣܝܘܡܐ, ܟܬܒܬܐ ܕܝܠܟ ܘܠܐ ܕܬܐܘܐ ܥܡ [//wikimediafoundation.org/wiki/Terms_of_Use ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ], ܘܬܫܬܘܕܝ ܥܠ ܡܬܬܒܥܘ ܟܠ ܣܘܢܩܢ̈ܐ ܐܚܝܢܝ̈ܐ ܕܦܣܣܘܬܐ.',
 );
 
-/** Araucanian (mapudungun)
+/** Mapuche (mapudungun)
  * @author Lin linao
  */
 $messages['arn'] = array(
@@ -2579,7 +2579,7 @@ $messages['co'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
-/** Crimean Turkish (Latin script) (‪qırımtatarca (Latin)‬)
+/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
  * @author Don Alessandro
  */
 $messages['crh-latn'] = array(
@@ -2590,7 +2590,7 @@ $messages['crh-latn'] = array(
 Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan olsa, şu metinniñ yerleştirilüvi [//wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]na uyğun olmalı, ve siz litsenziyanıñ bütün kerekli talaplarınen razı olmalısıñız.',
 );
 
-/** Crimean Turkish (Cyrillic script) (‪къырымтатарджа (Кирилл)‬)
+/** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
@@ -3139,7 +3139,19 @@ Falls du den Text nicht selbst verfasst hast, muss er unter den [//wikimediafoun
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** Swiss High German (Schweizer Hochdeutsch)
+ * @author Geitost
+ * @author Nemo bis
+ */
+$messages['de-ch'] = array(
+	'group-bigexport' => 'Grossexporteure',
+	'group-bigexport-member' => '{{GENDER:$1|Grossexporteur|Grossexporteurin}}',
+	'grouppage-bigexport' => '{{ns:project}}:Grossexporteure',
+	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäss der ''Creative-Commons''-Lizenz, ausreichend ist.",
+);
+
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  * @author Nemo bis
  * @author Raimond Spekking
@@ -4874,7 +4886,7 @@ $messages['gan'] = array(
 	'tooltip-n-sitesupport' => '資援偶嗰俚',
 );
 
-/** Simplified Gan script (‪赣语（简体）‬)
+/** Simplified Gan script (赣语（简体）‎)
  * @author Liangent
  * @author Xiaomingyan
  */
@@ -4933,7 +4945,7 @@ $messages['gan-hans'] = array(
 要系个不系倷自简写𠮶文字𠮶话，佢一定要同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]相合，跟得倷要同意任何相关𠮶发牌条件。',
 );
 
-/** Traditional Gan script (‪贛語（繁體）‬)
+/** Traditional Gan script (贛語（繁體）‎)
  * @author Nemo bis
  * @author Symane
  */
@@ -5592,6 +5604,12 @@ $messages['he'] = array(
 	'group-steward-member' => '{{GENDER:$1|דייל|דיילת}}',
 	'group-sysadmin' => 'מנהלי מערכת',
 	'group-sysadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} מערכת',
+	'group-API_High_Limit_Requestor' => 'שולחי בקשות API עם מגבלה גבוהה',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|שולח|שולחת}} בקשות API עם מגבלה גבוהה',
+	'group-Indic_Bots' => 'בוטים הודיים',
+	'group-Indic_Bots-member' => '{{GENDER:$1|בוט הודי}}',
+	'group-recursive-export' => 'מבצעי ייצוא רקורסיבי',
+	'group-recursive-export-member' => '{{GENDER:$1|מבצע|מבצעת}} ייצוא רקורסיבי',
 	'group-translationadmin' => 'מנהלי תרגום',
 	'group-translationadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} תרגום',
 	'grouppage-translationadmin' => '{{ns:project}}:מנהלי תרגום',
@@ -7324,12 +7342,12 @@ $messages['kk'] = array(
 	'wikimedia-editpage-tos-summary' => 'Егер сіз басқалар тарапынан жазуыңыздың түзетілуін не еркін көшірілуін қаламасаңыз, жазуыңызды мында ұсынбауыңыз жөн. Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [//wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
-/** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
 $messages['kk-arab'] = array(
 	'sitesupport' => 'دەمەۋشىلىك',
 );
 
-/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬)
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎)
  * @author AlefZet
  * @author Daniyar
  * @author GaiJin
@@ -7353,7 +7371,7 @@ $messages['kk-cyrl'] = array(
 Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [//wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
-/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎) */
 $messages['kk-latn'] = array(
 	'sitesupport' => 'Demewşilik',
 );
@@ -7773,7 +7791,7 @@ $messages['ksh'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Do bes enverstande domet, dat de Wikkimeedija Schteftong met Der en ene Kumtak trädde darref wääje Ding Övversäzonge udder ander Saache, di met dä Wikkimeedia-Bewääjong ze donn han, woh mer vun meint, dat di för Desch interßant sin künnte. Do bes enverschtande, dat Daate övver Desch en der Vereineschte Schtaate vun Ammärrika faßjehallde wääde künne un onger der Schteftong ier [https://wikimediafoundation.org/wiki/Privacy_policy Rääjelle för pevaate Daate] schtonn. Wann De domet nit enverschtande bes, donn heh nix enjävve.',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  * @author Ghybu
  */
@@ -9669,7 +9687,7 @@ Als uw bewerking niet door uzelf is geschreven, dan moet uw toevoeging beschikba
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 );
 
-/** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
+/** Nederlands (informeel)‎ (Nederlands (informeel)‎)
  * @author Siebrand
  */
 $messages['nl-informal'] = array(
@@ -12369,7 +12387,7 @@ Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdori
 	'wikimedia-editpage-tos-summary' => 'Nëse ju nuk dëshironi që shkrimet tuaja të redaktohen dhe rishpërndahen, atëherë mos i jepni këtu. Nëse ju nuk e keni shkruar këtë vetë, ajo duhet të jetë në dispozicion sipas kushteve në përputhje me [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e Përdorimit], dhe ju pranoni të ndiqni çdo kërkesë të licensimit përkatës.',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author FriedrickMILBarbarossa
  * @author Millosh
  * @author Rancher

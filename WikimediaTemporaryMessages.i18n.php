@@ -21,7 +21,7 @@ $messages['qqq'] = array(
 Feel free to change the [[wikipedia:guillemet|guillemets]] (»«) to something customary for your language',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Wizardist
  */
 $messages['be-tarask'] = array(
@@ -39,7 +39,7 @@ $messages['de'] = array(
 	'wikimedia-wlm-app-banner2012-link' => "»Klicke hier für die kostenlose '''Android-App'''«",
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  */
 $messages['de-formal'] = array(

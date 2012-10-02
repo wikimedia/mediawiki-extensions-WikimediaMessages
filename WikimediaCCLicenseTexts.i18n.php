@@ -1427,7 +1427,7 @@ $messages['be'] = array(
 	'wm-license-cc-by-sa-3.0-text' => 'Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.be Attribution-Share Alike 3.0 Unported]',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -3453,7 +3453,7 @@ $messages['de'] = array(
 	'wm-license-cc-pd-mark-text' => 'Diese Datei wurde als bar jeglicher bekannter Einschränkungen des Urheberrechts, einschließlich verbundener und benachbarter Rechte erkannt.',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author ChrisiPK
  */
 $messages['de-formal'] = array(
@@ -8934,7 +8934,7 @@ $messages['ksh'] = array(
 	'wm-license-cc-pd-mark-text' => 'Vun heh dä Dattei wood faßjeshtallt, dat se kein Beschrängkunge hät, die sesch uss_em Urhävverrääsch udder ähnlijje udder verwandte Rääschde äjävve.',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  * @author Gomada
  */
@@ -10739,7 +10739,7 @@ $messages['nah'] = array(
 	'wm-license-cc-free' => 'Tihuelitiz:',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Diebuche
  * @author Event
  * @author Finnrind
@@ -11178,7 +11178,7 @@ $messages['nl'] = array(
 	'wm-license-cc-pd-mark-text' => 'Van dit bestand is vastgesteld dat er geen bekende auteursrechtaanspraken op rusten, alle aanverwante en naburige rechten daarbij inbegrepen.',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
@@ -14476,7 +14476,7 @@ $messages['sr'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -17029,7 +17029,7 @@ $messages['zh'] = array(
 	'wm-license-cc-by-sa-3.0-cl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][//creativecommons.org/licenses/by-sa/3.0/cl/deed.zh 署名-相同方式共享 3.0 智利]许可协议授权。',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Bencmq
  * @author Hydra
  * @author Multichill

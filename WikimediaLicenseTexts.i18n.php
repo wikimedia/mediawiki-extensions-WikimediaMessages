@@ -988,7 +988,7 @@ $messages['be'] = array(
 	'wm-license-self-one-license' => 'Я, уладальнік аўтарскіх правоў на гэты твор, добраахвотна публікую яго на ўмовах наступнай ліцэнзіі:',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  * @author Wizardist
@@ -1596,13 +1596,13 @@ $messages['ckb'] = array(
 	'wm-license-self-multiple-licenses-select' => 'دەتوانی مۆڵەتنامەی دڵخوازت ھەڵبژێریت.',
 );
 
-/** Crimean Turkish (Latin script) (‪qırımtatarca (Latin)‬) */
+/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎) */
 $messages['crh-latn'] = array(
 	'wm-license-information-description' => 'Tasvir',
 	'wm-license-information-source' => 'Menba',
 );
 
-/** Crimean Turkish (Cyrillic script) (‪къырымтатарджа (Кирилл)‬) */
+/** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎) */
 $messages['crh-cyrl'] = array(
 	'wm-license-information-description' => 'Тасвир',
 	'wm-license-information-source' => 'Менба',
@@ -1610,6 +1610,7 @@ $messages['crh-cyrl'] = array(
 
 /** Czech (česky)
  * @author Juan de Vojníkov
+ * @author Juandev
  * @author Krinkle
  * @author Matěj Grabovský
  * @author Mormegil
@@ -2028,7 +2029,19 @@ Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm
 	'wm-license-self-multiple-licenses-select' => 'Du darfst es unter einer der obigen Lizenzen deiner Wahl verwenden.',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** Swiss High German (Schweizer Hochdeutsch)
+ * @author Geitost
+ */
+$messages['de-ch'] = array(
+	'wm-license-attribution-with-author-text' => "Der Urheberrechtsinhaber dieser Datei, $1, erlaubt es jedem, diese '''für jeden Zweck zu benutzen, vorausgesetzt, dass''' der Urheberrechtsinhaber ordnungsgemäss genannt wird. Weiterverbreitung, Abänderungen, kommerzielle Nutzung sowie jede andere Verwendung sind gestattet.",
+	'wm-license-artwork-dimensions' => 'Ausmasse',
+	'wm-license-gfdl-1.3-only' => "Es ist erlaubt, dieses Dokument gemäss den Bedingungen der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz für freie  Dokumentation]],''' Version 1.3, veröffentlicht von der ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]],'' zu kopieren, zu verbreiten und/oder zu modifizieren; es gibt keine unveränderlichen Abschnitte, keinen vorderen und keinen hinteren Umschlagtext.
+Der vollständige Text der Lizenz ist auf der Seite ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
+	'wm-license-information-description-missing-request' => 'Bilder sollten eine Zusammenfassung besitzen, die den Betrachter über Inhalt, Quelle und wenn möglich Datum informiert.
+Wenn du etwas davon weisst oder Zugang zu solchen Informationen hast, füge diese bitte der Bildbeschreibungsseite hinzu.',
+);
+
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author ChrisiPK
  */
 $messages['de-formal'] = array(
@@ -3179,13 +3192,13 @@ $messages['ga'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Is féidir leat a roghnú an ceadúnas do rogha',
 );
 
-/** Simplified Gan script (‪赣语（简体）‬) */
+/** Simplified Gan script (赣语（简体）‎) */
 $messages['gan-hans'] = array(
 	'wm-license-information-description' => '简话',
 	'wm-license-information-source' => '来源',
 );
 
-/** Traditional Gan script (‪贛語（繁體）‬) */
+/** Traditional Gan script (贛語（繁體）‎) */
 $messages['gan-hant'] = array(
 	'wm-license-information-description' => '簡話',
 	'wm-license-information-source' => '來源',
@@ -3495,7 +3508,7 @@ $messages['gv'] = array(
 	'wm-license-information-source' => 'Bun',
 );
 
-/** Hausa (هَوُسَ) */
+/** Hausa (Hausa) */
 $messages['ha'] = array(
 	'wm-license-information-permission' => 'Izini',
 );
@@ -4796,19 +4809,19 @@ $messages['kiu'] = array(
 	'wm-license-information-source' => 'Çıme',
 );
 
-/** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
 $messages['kk-arab'] = array(
 	'wm-license-information-description' => 'سىيپاتتاماسى',
 	'wm-license-information-source' => 'قاينار كوزى',
 );
 
-/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬) */
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎) */
 $messages['kk-cyrl'] = array(
 	'wm-license-information-description' => 'Сипаттамасы',
 	'wm-license-information-source' => 'Қайнар көзі',
 );
 
-/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎) */
 $messages['kk-latn'] = array(
 	'wm-license-information-description' => 'Sïpattaması',
 	'wm-license-information-source' => 'Qaýnar közi',
@@ -5140,7 +5153,7 @@ $messages['ku'] = array(
 Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên azad ra, versiyon 1.2 ya versiyonekê kevintir, belavkirin ji [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.",
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  * @author Ghybu
  * @author Gomada
@@ -6122,7 +6135,7 @@ $messages['nap'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Chistu documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Na copia d' 'a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d' 'a GNU Free Documentation License]]''.",
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Danmichaelo
  * @author Diebuche
  * @author Event
@@ -6466,7 +6479,7 @@ Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl
 	'wm-license-self-multiple-licenses-select' => 'U mag zelf één van de licenties kiezen.',
 );
 
-/** ‪Nederlands (informeel)‬ (‪Nederlands (informeel)‬)
+/** Nederlands (informeel)‎ (Nederlands (informeel)‎)
  * @author Siebrand
  */
 $messages['nl-informal'] = array(
@@ -6488,7 +6501,7 @@ zelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid v
 Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] voor meer details.",
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
@@ -8334,7 +8347,7 @@ $messages['sr'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Михајло Анђелковић
  */
