@@ -1024,8 +1024,8 @@ $messages['arc'] = array(
 	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
 ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
-	'wikimedia-copyrightwarning' => 'ܟܕ ܕܫ ܐܢܬ ܥܠ ܦܪܡܝܬܐ ܕ "{{int:savearticle}}"، ܬܫܬܘܕܝ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ] ܘܡܦܣܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܦܣܣܘܬܐ ܕGNU ܕܐܫܛܪܘܬܐ ܚܐܪܬܐ].
-ܐܫܬܘܕܝ ܐܢܬ ܕܡܬܡܠܝܢܬܐ ܐܝܬܝܗ ܒܝܬܝܘܬܐ ܕܐܣܘܪܐ ܡܫܥܠܝܐ  ܐܘ ܫܒܝܠܐ ܕܦܐܬܐ ܬܚܝܬ ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ.',
+	'wikimedia-copyrightwarning' => 'ܒܟܒܫܬܐ ܕܬܪܘܩܬܐ "{{int:savearticle}}" ܐܘܝܘ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܦܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ :ܢܣܒܬܐ-ܦܣܣܐ ܒܛܘܣܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܒܦܣܣܐ ܕGNU ܠܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
+ܐܘܝܘ ܐܢܬ ܕܫܘܡܠܝܬܝܠܗ̇ ܒܟܘܢܝܐ ܒܓܘ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ ܒܝܕ hyperlink ܐܘ URL.',
 	'wikimedia-editpage-tos-summary' => 'ܐܢ ܠܐ ܨܒܐ ܐܢܬ ܕܬܫܬܚܠܦ ܟܬܒܬܐ ܕܝܠܟ ܘܬܬܦܪܣ ܙܒܢ ܐܚܪܝܢ, ܠܐ ܬܦܪܘܣ ܠܗ ܗܪܟܐ.
 ܐܢ ܠܝܬ ܐܢܬ ܣܝܘܡܐ, ܟܬܒܬܐ ܕܝܠܟ ܘܠܐ ܕܬܐܘܐ ܥܡ [//wikimediafoundation.org/wiki/Terms_of_Use ܬܢܘܝ̈ ܕܡܬܚܫܚܢܘܬܐ], ܘܬܫܬܘܕܝ ܥܠ ܡܬܬܒܥܘ ܟܠ ܣܘܢܩܢ̈ܐ ܐܚܝܢܝ̈ܐ ܕܦܣܣܘܬܐ.',
 );
@@ -5117,6 +5117,14 @@ $messages['gl'] = array(
 	'grouppage-steward' => 'm:Stewards',
 	'group-sysadmin' => 'Administradores do sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador|administradora}} do sistema',
+	'group-API_High_Limit_Requestor' => 'Solicitantes do límite superior da API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|solicitante do límite superior da API}}',
+	'group-New_wikis_importer' => 'Importadores de novos wikis',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|importador|importadora}} de novos wikis',
+	'group-global-ipblock-exempt' => 'Exentos de bloqueo global do enderezo IP',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|exento|exenta}} de bloqueo global do enderezo IP',
+	'group-recursive-export' => 'Exportadores recursivos',
+	'group-recursive-export-member' => '{{GENDER:$1|exportador recursivo|exportadora recursiva}}',
 	'group-translationadmin' => 'Administradores de tradución',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador|administradora}} de tradución',
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de tradución',
@@ -9666,6 +9674,16 @@ $messages['nl'] = array(
 	'grouppage-steward' => 'm:Stewards/nl',
 	'group-sysadmin' => 'systeembeheerders',
 	'group-sysadmin-member' => '{{GENDER:$1|systeembeheerder}}',
+	'group-API_High_Limit_Requestor' => 'aanvragers voor hoge API-limieten',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|aanvrager voor hoge API-limiet}}',
+	'group-Indic_Bots' => 'bots uit India',
+	'group-Indic_Bots-member' => '{{GENDER:$1|bot uit India}}',
+	'group-New_wikis_importer' => "importeurs voor nieuwe wiki's",
+	'group-New_wikis_importer-member' => "{{GENDER:$1|importeur voor nieuwe wiki's}}",
+	'group-global-ipblock-exempt' => 'uitgezonderden van globale IP-adresblokkades',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|uitgezonderde van globale IP-adresblokkades}}',
+	'group-recursive-export' => 'recursief exporteurs',
+	'group-recursive-export-member' => '{{GENDER:$1|recursief exporteur}}',
 	'group-translationadmin' => 'Vertalingenbeheerders',
 	'group-translationadmin-member' => '{{GENDER:$1|vertalingenbeheerder}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Vertalingenbeheerders',
