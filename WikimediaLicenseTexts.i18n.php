@@ -2053,6 +2053,7 @@ $messages['de-formal'] = array(
  * @author Erdemaslancan
  * @author Mirzali
  * @author Multichill
+ * @author Olvörg
  * @author Xoser
  */
 $messages['diq'] = array(
@@ -2124,6 +2125,7 @@ $messages['diq'] = array(
 	'wm-license-pd-author-self-text' => "Ez, Wêrê ena teliferê, nê kari '''[[{{int:wm-license-pd-wiki-link}}|Malê şari]]'''deye ezo heserena.  Dınya heme ca dı ravêreno.",
 	'wm-license-pd-author-with-author-text' => "Na karkerdış heta  nuskar de '''$1''' ra biya '''[[{{int:wm-license-pd-wiki-link}}|malê şari]]''' deye hesereyaya. Dınya heme ca dı ravêrena.",
 	'wm-license-pd-author-not-legally-possible' => 'Tay dewletan dı no kanuniyey heta mıkum nêbone; o haldı:',
+	'wm-license-pd-usgov-noaa-text' => "Ena dosya yew karê aidê [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]] ra yew karbere, karber na dosya cayê bini ra gırewto ya zi karber na dosyay karê karberio xoyo resmi de kerdo.Zey [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]] ra [[{{int:wm-license-pd-usgov-work-wiki-link}}|kar]],na dosya inca '''[[{{int:wm-license-pd-wiki-link}}|malê cemaeti]]''' dero.",
 	'wm-license-self-one-license' => 'Ez, ke ena dosya viraste, bine ena lisans ser cap kena:',
 	'wm-license-self-one-license-with-author' => '$1, ke ena dosya viraste, bine ena lisans ser cap kena:',
 	'wm-license-self-multiple-licenses' => 'Ez, ke ena dosya viraste, bine ena lisansan ser cap kena:',
