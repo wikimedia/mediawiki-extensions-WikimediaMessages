@@ -203,7 +203,7 @@ $messages['en'] = array(
 
 	'group-coder'        => 'Coders',
 	'group-coder-member' => '{{GENDER:$1|coder}}',
-	'grouppage-coder'    => 'Project:Coder', # only translate this message to other languages if you have to change it
+	'grouppage-coder'    => '{{ns:project}}:Coder', # only translate this message to other languages if you have to change it
 
 	# Private and fishbowl wikis
 	'group-inactive'        => 'Inactive users',
