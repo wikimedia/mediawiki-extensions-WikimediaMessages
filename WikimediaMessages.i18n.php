@@ -3275,11 +3275,13 @@ $messages['diq'] = array(
 	'group-steward-member' => '{{GENDER:$1|kahya}}',
 	'group-sysadmin' => 'serkarê sistemi',
 	'group-sysadmin-member' => '{{GENDER:$1|adminê sistemi}}',
+	'group-API_High_Limit_Requestor' => 'API berz limit wazayış',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API limito berz wastış}}',
 	'group-Indic_Bots' => 'Hindik boti',
 	'group-Indic_Bots-member' => '{{GENDER:$1|hindik boto}}',
 	'group-New_wikis_importer' => 'Wikiya newi definayış',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|wikiya newi definayış}}',
+	'group-global-ipblock-exempt' => 'Global IP lıngeştış ra muafo',
 	'group-global-ipblock-exempt-member' => "{{GENDER:$1|mu'afiyetê ver-gırewtışê IPyi}}",
 	'group-recursive-export' => 'Teberdarê xo newekerden',
 	'group-recursive-export-member' => '{{GENDER:$1|teberdarê xo newekerden}}',
@@ -14283,6 +14285,9 @@ $messages['ur'] = array(
 $messages['uz'] = array(
 	'sitesupport' => "Loyihaga ko'mak",
 	'wikimedia-copyright' => 'Matn <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> bo\'yicha ommalashtiriladi, alohida holatlarda qo\'shimcha shartlar amal qilishi mumkin. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a> bilan batafsil tanishishingiz mumkin.',
+	'wikimedia-copyrightwarning' => "«{{int:savearticle}}» tugmasini bogan holda, siz [//wikimediafoundation.org/wiki/Terms_of_use foydalanish shartlariga] rozilik bildirasiz, shuningdek [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari bo'yicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Siz mos sahifa yoki uning URL-manziliga yo'llanmaning ko'rsatilishi Creative Commons litsenziyasi aniqlanishi shartlarining bajarilishi uchun etarlicha bo'lishiga rozilik bildirasiz.",
+	'wikimedia-editpage-tos-summary' => "Agar siz matnlaringiz ixtiyoriy xohlovchilar tomonidan erkin tahrirlanishi va tarqatilishini xohlamasangiz, ularni bu yerga joylashtirmang.
+Agar siz joylashtirilayotgan matnning muallifi bo'lmasangiz, u holda u [//wikimediafoundation.org/wiki/Terms_of_Use/ru Foydalanish shartlari]ga mos shartlarda ruxsat etilgan bo'lishi kerak, va siz ham litsenziyaning barcha mos talablariga amal qilishga rozilik bildirasiz.",
 );
 
 /** vèneto (vèneto)

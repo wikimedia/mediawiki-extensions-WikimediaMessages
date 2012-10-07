@@ -119,6 +119,14 @@ $messages['ksh'] = array(
 	'wikimedia-wlm-app-banner2012-link' => 'E Projramm för <i lang="en">Android</i> wat nix koß.',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'Bedeelegt Iech um Foto-Concours dee Wikipedia hëlleft',
+	'wikimedia-wlm-app-banner2012-link' => "»KLickt hei fir déi fräi '''Android App'''«",
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
