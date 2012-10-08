@@ -79,6 +79,14 @@ $messages['gl'] = array(
 	'wikimedia-wlm-app-banner2012-link' => "»Prema aquí para a '''aplicación de Android''' gratuíta«",
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'wikimedia-wlm-app-banner2012-header' => 'הצטרפו לתחרות הצילום שעוזרת לוויקיפדיה',
+	'wikimedia-wlm-app-banner2012-link' => "»לחצו כאן ל'''יישום אנדרואיד''' חופשי«",
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
