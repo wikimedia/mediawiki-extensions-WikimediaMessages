@@ -233,6 +233,7 @@ If you did not write this yourself, it must be available under terms consistent 
 
 /** Message documentation (Message documentation)
  * @author Aotake
+ * @author Crt
  * @author EugeneZelenko
  * @author Fryed-peach
  * @author IAlex
@@ -382,6 +383,7 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'group-Staff' => '{{doc-group|Staff|prefix=wmf-}}',
 	'group-Staff-member' => '{{doc-group|Staff|member|prefix=wmf-}}',
 	'grouppage-Staff' => '{{optional}}
+Please leave <code>Foundation:</code> untranslated.
 {{doc-group|Staff|page|prefix=wmf-}}',
 	'group-editinterface' => '{{doc-group|editinterface}}',
 	'group-editinterface-member' => '{{doc-group|editinterface|member}}',
@@ -1231,6 +1233,9 @@ $messages['as'] = array(
 	'group-steward-member' => '{{GENDER:$1|ষ্টুৱাৰ্ড}}',
 	'group-sysadmin' => 'চিষ্টেম প্ৰশাসক',
 	'group-sysadmin-member' => '{{GENDER:$1|চিষ্টেম প্ৰশাসক}}',
+	'group-Indic_Bots' => 'ইণ্ডিক বটসমূহ',
+	'group-New_wikis_importer' => 'নতুন ৱিকি আমদানিকৰ্তা',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|নতুন ৱিকি আমদানিকৰ্তা}}',
 	'group-translationadmin' => 'অনুবাদ প্ৰশাসকবৃন্দ',
 	'group-translationadmin-member' => '{{GENDER:$1|অনুবাদ প্ৰশাসকবৃন্দ}}',
 	'grouppage-translationadmin' => '{{ns:project}}:অনুবাদ প্ৰশাসকবৃন্দ',
@@ -4543,6 +4548,16 @@ $messages['fr'] = array(
 	'grouppage-steward' => 'm:Stewards/fr',
 	'group-sysadmin' => 'Administrateurs système',
 	'group-sysadmin-member' => '{{GENDER:$1|administrateur système}}',
+	'group-API_High_Limit_Requestor' => "Demandeurs de limite supérieure de l'API",
+	'group-API_High_Limit_Requestor-member' => "{{GENDER:$1|demandeur de limite supérieure de l'API}}",
+	'group-Indic_Bots' => 'Robots indicateurs',
+	'group-Indic_Bots-member' => '{{GENDER:$1|robot indicateur}}',
+	'group-New_wikis_importer' => 'Nouveaux importateurs de wikis',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|nouvel importateur de wikis}}',
+	'group-global-ipblock-exempt' => "Exceptions globales de blocage d'adresses IP",
+	'group-global-ipblock-exempt-member' => "{{GENDER:$1|exception globale de blocage d'adresse IP}}",
+	'group-recursive-export' => 'Exportation récursive',
+	'group-recursive-export-member' => '{{GENDER:$1|exporteur récursif}}',
 	'group-translationadmin' => 'Administrateurs de traduction',
 	'group-translationadmin-member' => 'administrat{{GENDER:$1|eur|rice}} de traduction',
 	'grouppage-translationadmin' => '{{ns:project}}:Translation administrators',
@@ -5624,6 +5639,10 @@ $messages['he'] = array(
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|שולח|שולחת}} בקשות API עם מגבלה גבוהה',
 	'group-Indic_Bots' => 'בוטים הודיים',
 	'group-Indic_Bots-member' => '{{GENDER:$1|בוט הודי}}',
+	'group-New_wikis_importer' => 'מייבאים לאתרי ויקי חדשים',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|מייבא|מייבאת}} לאתרי ויקי חדשים',
+	'group-global-ipblock-exempt' => 'פטורים מחסימת IP גלובלית',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|פטור|פטורה}} מחסימת IP גלובלית',
 	'group-recursive-export' => 'מבצעי ייצוא רקורסיבי',
 	'group-recursive-export-member' => '{{GENDER:$1|מבצע|מבצעת}} ייצוא רקורסיבי',
 	'group-translationadmin' => 'מנהלי תרגום',
