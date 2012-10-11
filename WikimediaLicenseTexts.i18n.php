@@ -8237,10 +8237,10 @@ $messages['sl'] = array(
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:sl:Vojna mornarica Združenih držav Amerike',
 	'wm-license-pd-usgov-noaa-text' => "Datoteka je delo zaposlenega v [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Ameriški zvezni upravi za oceane in podnebje]]. Morda je bila narejena v sklopu uradnih dolžnosti te osebe. Kot [[{{int:wm-license-pd-usgov-work-wiki-link}}|delo]] [[{{int:wm-license-pd-usgov-wiki-link}}|ameriške zvezne vlade]] je datoteka v '''[[{{int:wm-license-pd-wiki-link}}|javni lasti]]'''.",
 	'wm-license-pd-wiki-link' => 'w:sl:Javna last',
-	'wm-license-self-one-license' => 'Jaz, imetnik avtorskih pravic na tem delu, ga s tem objavljam z naslednjo licenco:',
+	'wm-license-self-one-license' => 'Jaz, imetnik avtorskih pravic na tem delu, ga objavljam pod naslednjo licenco:',
 	'wm-license-self-one-license-with-author' => '$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja z naslednjo licenco:',
 	'wm-license-self-multiple-licenses' => 'Jaz, nosilec avtorskih pravic tega dela, ga s tem izdajam pod naslednjimi dovoljenji:',
-	'wm-license-self-multiple-licenses-with-author' => '$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja z naslednjimi licencami:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja pod naslednjimi licencami:',
 	'wm-license-self-multiple-licenses-select' => 'Izberete lahko dovoljenje po vaši izbiri.',
 );
 

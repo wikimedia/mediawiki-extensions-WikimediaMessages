@@ -12164,6 +12164,7 @@ $messages['sk'] = array(
 
 /** Slovenian (slovenščina)
  * @author Dbc334
+ * @author Eleassar
  * @author Nemo bis
  * @author Smihael
  * @author Yerpo
@@ -12277,10 +12278,10 @@ $messages['sl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|nedejaven uporabnik|nedejavna uporabnica}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni uporabniki',
 	'shared-repo-name-shared' => 'Wikimedijina Zbirka',
-	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">dovoljenjem Creative Commons
-Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; dodatni pogoji se lahko uveljavljajo. Glej <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoje uporabe</a> za podrobnosti.',
-	'wikimedia-copyrightwarning' => 'S klikom na gumb »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka v skladu z dovoljenjema [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
-Strinjate se, da za priznanje avtorstva v skladu z dovoljenjem Creative Commons zadostuje povezava ali URL.',
+	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">licenco Creative Commons
+Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
+	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
 	'wikimedia-editpage-tos-summary' => 'Če ne želite, da so vaši prispevki kadarkoli preurejeni ali redistribuirani, ga ne prispevajte.
 Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [//wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe]. Poleg tega s shranjevanjem potrjujete, da upoštevate vse zahteve licence izvirne objave.',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
