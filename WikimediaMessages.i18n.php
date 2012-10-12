@@ -2717,6 +2717,10 @@ $messages['cs'] = array(
 	'group-steward-member' => '{{GENDER:$1|stevard|stevardka|stevard}}',
 	'group-sysadmin' => 'Správcové serveru',
 	'group-sysadmin-member' => '{{GENDER:$1|správce|správkyně|správce}} serveru',
+	'group-Indic_Bots' => 'Indičtí boti',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indický bot|indická botka}}',
+	'group-global-ipblock-exempt' => 'Globálně nepodléhající blokování IP adres',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|globálně nepodléhající blokování IP adres}}',
 	'group-translationadmin' => 'Správci překladů',
 	'group-translationadmin-member' => '{{GENDER:$1|správce|správkyně|správce}} překladů',
 	'grouppage-translationadmin' => '{{ns:project}}:Správci překladů',
@@ -2730,6 +2734,7 @@ $messages['cs'] = array(
 	'wikimedia-editpage-tos-summary' => 'Pokud si nepřejete, aby váš příspěvek byl nemilosrdně upravován a&nbsp;volně šířen, pak ho sem neukládejte. Pokud nejste autorem textu, musí být dostupný za podmínek slučitelných s&nbsp;našimi [//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a&nbsp;vy souhlasíte se všemi příslušnými licenčními požadavky.',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
+	'upload-more-photos-of-this-monument' => 'Načíst další fotografie této památky',
 );
 
 /** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -3299,7 +3304,10 @@ $messages['diq'] = array(
 	'group-inactive-member' => '{{GENDER:$1|Karbero qulxan}}',
 	'grouppage-inactive' => '{{ns:project}}:karber ê ke aktif niyê',
 	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="//wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
-	'wikimedia-copyrightwarning' => 'Eke şıma "{{int:savearticle}}" mışoreyê şıma pê  [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u [//www.gnu.org/copyleft/fdl.html GFDL]yi lisans biyaye hesibiyeno u mışoreyê şıma tepiya nêçariyeno. Karberê bini zi eşkeni mışoreyê şıma re pê gıreyê url bıresi u eşkeni cewab bıde şıma. qey teferruati bewni rê: [//wikimediafoundation.org/wiki/ Hususe rastnustısi].',
+	'wikimedia-copyrightwarning' => '{| style="border:1px solid forestgreen; margin-bottom: 1em" cellspacing="0" cellpadding="3" width="100%"
+| style="font: 100% verdana; color:black" align="center" bgcolor="DarkGoldenrod	" |
+Eke şıma "{{int:savearticle}}" mışoreyê şıma pê  [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u [//www.gnu.org/copyleft/fdl.html GFDL]yi lisans biyaye hesibiyeno u mışoreyê şıma tepiya nêçariyeno. Karberê bini zi eşkeni mışoreyê şıma re pê gıreyê url bıresi u eşkeni cewab bıde şıma. qey teferruati bewni rê: [//wikimediafoundation.org/wiki/ Hususe rastnustısi].
+|}',
 	'wikimedia-editpage-tos-summary' => 'eke şıma qayil niyê nuşteyê şıma bıvuriyo ya zi vıla nêbiyo tiya ra meşawê.
 eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[//wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
@@ -5326,6 +5334,7 @@ $messages['gsw'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperri-Usnahm',
 	'group-patroller' => 'Fäldhieter',
 	'group-patroller-member' => '{{GENDER:$1|Fäldhieter|Fäldhieteri}}',
+	'grouppage-patroller' => '{{ns:project}}:Priefer',
 	'group-researcher' => 'Untersuecher',
 	'group-researcher-member' => '{{GENDER:$1|Rechercheur|Rechercheuri}}',
 	'grouppage-researcher' => '{{ns:project}}:Untersuecher',
@@ -5354,6 +5363,16 @@ $messages['gsw'] = array(
 	'group-steward-member' => '{{GENDER:$1|Huusmeister|Huusmeisteri}}',
 	'group-sysadmin' => 'Syschtemadminischtratore',
 	'group-sysadmin-member' => '{{GENDER:$1|Systemadministrator|Systemadministratori}}',
+	'group-API_High_Limit_Requestor' => 'Hoch-API-Limit-Aafroger',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Hoch-API-Limit-Aafroger|Hoch-API-Limit-Aafroger}}',
+	'group-Indic_Bots' => 'Bot fir indischi Sproche',
+	'group-Indic_Bots-member' => '{{GENDER:$1|Bot fir indischi Sproche}}',
+	'group-New_wikis_importer' => 'Neiwikiimporteur',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|Neiwikiimporteur|Neiwikiimporteuri}}',
+	'group-global-ipblock-exempt' => 'Globali IP-Sperre-Uusgnummeni',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|Globali IP-Sperre-Uusgnummene|Globali IP-Sperre-Uusgnummeni}}',
+	'group-recursive-export' => 'Rekursivi Exporteur',
+	'group-recursive-export-member' => '{{GENDER:$1|Rekursive Exporteur|Rekursivi Exporteuri}}',
 	'group-translationadmin' => 'Übersetzigsammane',
 	'group-translationadmin-member' => '{{GENDER:$1|Übersetzigsamman|Übersetzigsamtsfrou}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Übersetzigsammane',
@@ -5367,6 +5386,8 @@ $messages['gsw'] = array(
 Du stimmsch zue, dass e Hyperlink oder e URL zue dr Syte fir di notwändig Zueschryybig, no dr ''Creative-Commons''-Lizänz, längt.",
 	'wikimedia-editpage-tos-summary' => 'Wänn du nit wit, ass des, was du gschribe hesch, vu andere bearbeitet un wyter verbreitet wird, no stell Dyy Byytrag nit do yyne. Wänn Du s nit sälber gschribe hesch, muess es verfiegbar syy unter Bedingige, wu zue dr [//wikimediafoundation.org/wiki/Terms_of_Use Nutzigsbedingige] passe, un Du stimmsch zue, ass Du alli erforderlige Lizänz-Aaforderige yyhaltsch.',
 	'cant-delete-main-page' => 'Du chasch d Houptsyte weder lösche noch verschiebe.',
+	'wikimedia-translationnotifications-signup-legal' => 'Mit Aagab vu däne Informatione stimmsch zue, d Wikimedia Foundation di zue Themene im Zämmehang mit Ibersetzige un andere Informatione zue Wikimedia derf kontaktiere, wu unsre Meinig no fir Di vu Interässi sin. Du stimmsch au zue, dass Dyni Date in dr Vereinigte Staate vu Amerika chenne gspycheret wäre un unsere [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzrichtlinie] unterlige.',
+	'upload-more-photos-of-this-monument' => 'Wyteri Foto vu däm Dänkmol uffelade',
 );
 
 /** Gujarati (ગુજરાતી)
