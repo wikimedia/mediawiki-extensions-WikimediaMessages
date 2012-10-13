@@ -39,6 +39,13 @@ $messages['gl'] = array(
 	'wikimediamessages-desc' => 'Mensaxes temporais específicas da Wikimedia',
 );
 
+/** Hebrew (עברית)
+ * @author Amire80
+ */
+$messages['he'] = array(
+	'wikimediamessages-desc' => 'הודעות זמניות ייחודיות לוויקימדיה',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */

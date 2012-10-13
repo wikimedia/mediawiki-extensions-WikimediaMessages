@@ -15143,7 +15143,7 @@ $messages['zh-hans'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封禁豁免者',
 	'group-patroller' => '巡查员',
 	'group-patroller-member' => '{{GENDER:$1|巡查员}}',
-	'grouppage-patroller' => '{{ns:project}}:巡逻员',
+	'grouppage-patroller' => '{{ns:project}}:巡查员',
 	'group-researcher' => '研究员',
 	'group-researcher-member' => '{{GENDER:$1|研究员}}',
 	'grouppage-researcher' => '{{ns:project}}:研究员',
@@ -15195,6 +15195,7 @@ $messages['zh-hans'] = array(
  * @author Anakmalaysia
  * @author Horacewai2
  * @author KaiesTse
+ * @author Liangent
  * @author Mark85296341
  * @author Nemo bis
  * @author Shirayuki
@@ -15275,7 +15276,7 @@ $messages['zh-hant'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP 查封例外者',
 	'group-patroller' => '巡查員',
 	'group-patroller-member' => '{{GENDER:$1|巡查員}}',
-	'grouppage-patroller' => '{{ns:project}}:巡邏員',
+	'grouppage-patroller' => '{{ns:project}}:巡查员',
 	'group-researcher' => '研究人員',
 	'group-researcher-member' => '{{GENDER:$1|研究人員}}',
 	'grouppage-researcher' => '{{ns:project}}:研究人員',
