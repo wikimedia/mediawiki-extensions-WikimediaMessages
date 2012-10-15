@@ -3304,10 +3304,8 @@ $messages['diq'] = array(
 	'group-inactive-member' => '{{GENDER:$1|Karbero qulxan}}',
 	'grouppage-inactive' => '{{ns:project}}:karber ê ke aktif niyê',
 	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="//wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
-	'wikimedia-copyrightwarning' => '{| style="border:1px solid forestgreen; margin-bottom: 1em" cellspacing="0" cellpadding="3" width="100%"
-| style="font: 100% verdana; color:black" align="center" bgcolor="DarkGoldenrod	" |
-Eke şıma "{{int:savearticle}}" mışoreyê şıma pê  [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u [//www.gnu.org/copyleft/fdl.html GFDL]yi lisans biyaye hesibiyeno u mışoreyê şıma tepiya nêçariyeno. Karberê bini zi eşkeni mışoreyê şıma re pê gıreyê url bıresi u eşkeni cewab bıde şıma. qey teferruati bewni rê: [//wikimediafoundation.org/wiki/ Hususe rastnustısi].
-|}',
+	'wikimedia-copyrightwarning' => "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [//wikimediafoundation.org/wiki/Terms_of_use Terms of use] qebul kenê, u şıma iştıraqê xoyo ke bınê [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] u  [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.
+Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, qebul kenê.",
 	'wikimedia-editpage-tos-summary' => 'eke şıma qayil niyê nuşteyê şıma bıvuriyo ya zi vıla nêbiyo tiya ra meşawê.
 eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[//wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
@@ -12303,8 +12301,8 @@ $messages['sl'] = array(
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
 	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
-	'wikimedia-editpage-tos-summary' => 'Če ne želite, da so vaši prispevki kadarkoli preurejeni ali redistribuirani, ga ne prispevajte.
-Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [//wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe]. Poleg tega s shranjevanjem potrjujete, da upoštevate vse zahteve licence izvirne objave.',
+	'wikimedia-editpage-tos-summary' => 'Če ne želite, da se vaše besedilo neovirano ureja in razširja, ga ne prispevajte.
+Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [//wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe], vi pa se strinjate z vsemi zahtevami licence izvorne objave.',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 );
 
