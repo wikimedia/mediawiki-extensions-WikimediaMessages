@@ -18,6 +18,13 @@ $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc}}',
 );
 
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'wikimediamessages-desc' => 'Часовыя паведамленьні для Вікімэдыі',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
