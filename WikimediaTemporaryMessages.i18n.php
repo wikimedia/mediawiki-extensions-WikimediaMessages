@@ -25,6 +25,13 @@ $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Часовыя паведамленьні для Вікімэдыі',
 );
 
+/** Danish (dansk)
+ * @author Kaare
+ */
+$messages['da'] = array(
+	'wikimediamessages-desc' => 'Wikimedia-specifikke midlertidige meddelelser',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
