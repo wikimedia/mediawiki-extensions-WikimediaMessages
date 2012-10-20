@@ -95,3 +95,10 @@ $messages['mk'] = array(
 	'wikimediamessages-desc' => 'Привремени пораки што се однесуваат на Викимедија',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
+);
+

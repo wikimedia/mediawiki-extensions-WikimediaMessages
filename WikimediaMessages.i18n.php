@@ -7805,6 +7805,7 @@ $messages['ksh'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Jruppe-Sperre-Ußnahm',
 	'group-patroller' => 'Patrullje',
 	'group-patroller-member' => '{{GENDER:$1|Patrullör|Patrullören|Patrullör|Patrullören|Patrullör}}',
+	'grouppage-patroller' => '{{ns:project}}:Patrullje',
 	'group-researcher' => 'Ongersöhker',
 	'group-researcher-member' => '{{GENDER:$1|Ongersöhker|Ongersöhkerėn|Ongersöhker|Ongersöhkerėn|Ongersöhker}}',
 	'grouppage-researcher' => '{{ns:project}}:Ongersöhker',
@@ -7812,8 +7813,8 @@ $messages['ksh'] = array(
 	'group-rollbacker-member' => '{{GENDER:$1|Zeröcknämmer|Zeröcknämmerėn|Zeröcknämmer|Zeröcknämmerėn|Zeröcknämmer}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Zeröcknemmer',
 	'group-transwiki' => 'Transwiki-Emportöre',
-	'group-transwiki-member' => '{{GENDER:$1|Transwiki-Emportör|Transwiki-Emportör|ėnTranswiki-Emportör|Transwiki-Emportörėn|Transwiki-Emportör}}',
-	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Emportör',
+	'group-transwiki-member' => '{{GENDER:$1|Transwiki-Empotör|Transwiki-Empotörėn|Transwiki-Empotör|Transwiki-Empotörėn|Transwiki-Empotör}}',
+	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Empotör',
 	'group-trusted' => '{{int:Group-trusted-member}}',
 	'group-trusted-member' => '{{GENDER:$1|Metmaacher|Metmaacherėn|Metmaacher|Metmaacherėn|Metmaacher}} met Vertroue',
 	'grouppage-trusted' => '{{ns:project}}:{{int:group-trusted}}',
@@ -7838,6 +7839,10 @@ $messages['ksh'] = array(
 	'grouppage-steward' => 'm:Stewards/ksh',
 	'group-sysadmin' => 'Wiki-Köbesse',
 	'group-sysadmin-member' => '{{GENDER:$1|Wiki-Köbes}}',
+	'group-Indic_Bots' => 'Endesche Bots',
+	'group-Indic_Bots-member' => '{{GENDER:$1|Endesche Bot}}',
+	'group-New_wikis_importer' => 'Neu Wiki Empottöre',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|Neu Wiki Emportör|Neu Wiki Emportörėn|Neu Wiki Emportör|Neu Wiki Emportörėn|Neu Wiki Emportör}}',
 	'group-translationadmin' => 'Övversäzongsverwalldere',
 	'group-translationadmin-member' => '{{GENDER:$1Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Övversäzongsverwalldere',
@@ -7853,6 +7858,7 @@ $messages['ksh'] = array(
 	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [//wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 	'cant-delete-main-page' => 'Do kanns de Houpsigg nit ömdäufe udder fott schmieße.',
 	'wikimedia-translationnotifications-signup-legal' => 'Do bes enverstande domet, dat de Wikkimeedija Schteftong met Der en ene Kumtak trädde darref wääje Ding Övversäzonge udder ander Saache, di met dä Wikkimeedia-Bewääjong ze donn han, woh mer vun meint, dat di för Desch interßant sin künnte. Do bes enverschtande, dat Daate övver Desch en der Vereineschte Schtaate vun Ammärrika faßjehallde wääde künne un onger der Schteftong ier [https://wikimediafoundation.org/wiki/Privacy_policy Rääjelle för pevaate Daate] schtonn. Wann De domet nit enverschtande bes, donn heh nix enjävve.',
+	'upload-more-photos-of-this-monument' => 'Donn mieh Fotos vun heh däm Dängkmohl huhlaade',
 );
 
 /** Kurdish (Latin script) (Kurdî (latînî)‎)
