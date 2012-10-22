@@ -13,7 +13,8 @@ $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific temporary messages',
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc}}',
 );
@@ -101,4 +102,3 @@ $messages['mk'] = array(
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
-

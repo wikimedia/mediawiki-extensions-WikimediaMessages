@@ -518,11 +518,11 @@ $messages['aln'] = array(
 	'wm-license-cc-by-3.0-th-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/th/ 3.0 Tajlandë] licencës.',
 	'wm-license-cc-by-3.0-tw-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/tw/ 3.0 Tajvan] licencës.',
 	'wm-license-cc-by-3.0-us-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/us/ 3.0 Shtetet e Bashkuara të] licencës.',
-	'wm-license-cc-by-sa-1.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/ [Attribution- Share njësoj Attribution 1.0 Generic] licencës.',
+	'wm-license-cc-by-sa-1.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/ [Attribution- Share njësoj Attribution 1.0 Generic] licencës.', # Fuzzy
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/fi/ Attribution-Share njësoj 1.0 Finlandë] licencës.',
 	'wm-license-cc-by-sa-1.0-il-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/il/ Attribution-Share njësoj Attribution 1.0 Izrael] licencës.',
 	'wm-license-cc-by-sa-1.0-nl-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/nl/ Attribution-Share njësoj Attribution 1.0 Hollandë] licencës.',
-	'wm-license-cc-by-sa-2.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/ [Attribution- Share njësoj 2.0 Generic] licencës.',
+	'wm-license-cc-by-sa-2.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/ [Attribution- Share njësoj 2.0 Generic] licencës.', # Fuzzy
 	'wm-license-cc-by-sa-2.0-at-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/at/ Attribution-Share njësoj 2.0 Austri] licencës.',
 	'wm-license-cc-by-sa-2.0-au-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/au/ Attribution-Share njësoj 2.0 Australi] licencës.',
 	'wm-license-cc-by-sa-2.0-be-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/be/ Attribution-Share njësoj 2.0 Belgjikë] licencës.',
@@ -544,7 +544,7 @@ $messages['aln'] = array(
 	'wm-license-cc-by-sa-2.1-au-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.1/au/ Attribution-Share njësoj 2,1 Australi] licencës.',
 	'wm-license-cc-by-sa-2.1-es-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.1/es/ Attribution-Share njësoj 2,1 Spanjë] licencës.',
 	'wm-license-cc-by-sa-2.1-jp-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.1/jp/ Attribution-Share njësoj 2,1 Japoni] licencës.',
-	'wm-license-cc-by-sa-2.5-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/ [Attribution- Share njësoj 2.5 Generic] licencës.',
+	'wm-license-cc-by-sa-2.5-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/ [Attribution- Share njësoj 2.5 Generic] licencës.', # Fuzzy
 	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share njësoj [//creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], [Generic http://creativecommons.org/licenses/by-sa/2.0/ 2.0] dhe [//creativecommons.org/licenses/by-sa/1.0/ Attribution 1.0 Generic] licencës.',
 	'wm-license-cc-by-sa-2.5-ar-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/ar/ Attribution-Share njësoj 2.5 Argjentinë] licencës.',
 	'wm-license-cc-by-sa-2.5-au-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/au/ Attribution-Share njësoj 2.5 Australi] licencës.',
@@ -574,8 +574,8 @@ $messages['aln'] = array(
 	'wm-license-cc-by-sa-2.5-si-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/si/ Attribution-Share njësoj 2.5 Slloveni] licencës.',
 	'wm-license-cc-by-sa-2.5-tw-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/tw/ Attribution-Share njësoj 2.5 Tajvan] licencës.',
 	'wm-license-cc-by-sa-2.5-za-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share njësoj 2.5 Afrika e Jugut] licencës.',
-	'wm-license-cc-by-sa-3.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ [Attribution- Share njësoj 3.0 licencës Unported].',
-	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share njësoj [//creativecommons.org/licenses/by-sa/3.0/deed . sq 3.0] Unported, [//creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] dhe [//creativecommons.org/licenses/by-sa/1.0/ Attribution 1.0 Generic] licencës.',
+	'wm-license-cc-by-sa-3.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ [Attribution- Share njësoj 3.0 licencës Unported].', # Fuzzy
+	'wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share njësoj [//creativecommons.org/licenses/by-sa/3.0/deed . sq 3.0] Unported, [//creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], http://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] dhe [//creativecommons.org/licenses/by-sa/1.0/ Attribution 1.0 Generic] licencës.', # Fuzzy
 	'wm-license-cc-by-sa-3.0-at-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/at/ Attribution-Share njësoj 3.0 Austri] licencës.',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/cz/ Attribution-Share njësoj 3.0 Republika Çeke] licencës.',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/de/ Attribution-Share njësoj 3.0 Gjermani] licencës.',
@@ -598,11 +598,11 @@ $messages['aln'] = array(
 	'wm-license-cc-by-sa-3.0-tw-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/tw/ Attribution-Share njësoj 3.0 Tajvan] licencës.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/us/ Attribution-Share njësoj 3.0 Shtetet e Bashkuara të] licencës.',
 	'wm-license-cc-sa-1.0-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons Share]] [//creativecommons.org/licenses/sa/1.0/deed.en njësoj Attribution 1.0 Generic] licencës.',
-	'wm-license-cc-sa-1.0-fi-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [//creativecommons.org/licenses/sa/1.0/fi/deed.en] [Share njësoj Attribution 1.0 Finlandë] licencës.',
-	'wm-license-cc-sa-1.0-nl-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [//creativecommons.org/licenses/sa/1.0/nl/deed.en] [Share njësoj Attribution 1.0 Hollandë] licencës.',
-	'wm-license-cc-sa-2.0-jp-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [//creativecommons.org/licenses/sa/2.0/jp/deed.en] [Share njësoj 2.0 Japoni] licencës.',
-	'wm-license-cc-zero-text' => 'Ky skedar është bërë në dispozicion nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons CC0]] [//creativecommons.org/publicdomain/zero/1.0/deed.en dokument i heqjes dorë] .',
-	'wm-license-cc-zero-explanation' => 'Personi i cili lidhur një punë me këtë dokument ka kushtuar të punojë për të Commons duke shmangur të gjitha të drejtat e tij apo të saj në të gjithë botën punojnë sipas ligjit të drejtën e autorit dhe të gjitha të lidhura ose të të drejtave fqinje ligjore që ai apo ajo e kishte në punë, në masën e lejuar me ligj. Punon me CC0 nuk kërkojnë pushtet. Kur duke përmendur punën, ju nuk duhet nënkuptuar përkrahje nga autori.',
+	'wm-license-cc-sa-1.0-fi-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [//creativecommons.org/licenses/sa/1.0/fi/deed.en] [Share njësoj Attribution 1.0 Finlandë] licencës.', # Fuzzy
+	'wm-license-cc-sa-1.0-nl-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [//creativecommons.org/licenses/sa/1.0/nl/deed.en] [Share njësoj Attribution 1.0 Hollandë] licencës.', # Fuzzy
+	'wm-license-cc-sa-2.0-jp-text' => 'Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [//creativecommons.org/licenses/sa/2.0/jp/deed.en] [Share njësoj 2.0 Japoni] licencës.', # Fuzzy
+	'wm-license-cc-zero-text' => 'Ky skedar është bërë në dispozicion nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons CC0]] [//creativecommons.org/publicdomain/zero/1.0/deed.en dokument i heqjes dorë] .', # Fuzzy
+	'wm-license-cc-zero-explanation' => 'Personi i cili lidhur një punë me këtë dokument ka kushtuar të punojë për të Commons duke shmangur të gjitha të drejtat e tij apo të saj në të gjithë botën punojnë sipas ligjit të drejtën e autorit dhe të gjitha të lidhura ose të të drejtave fqinje ligjore që ai apo ajo e kishte në punë, në masën e lejuar me ligj. Punon me CC0 nuk kërkojnë pushtet. Kur duke përmendur punën, ju nuk duhet nënkuptuar përkrahje nga autori.', # Fuzzy
 	'wm-license-cc-free' => 'Ju jeni të lirë:',
 	'wm-license-cc-free-to-share-header' => 'për të ndarë',
 	'wm-license-cc-free-to-share-text' => 'për kopjim, shpërndarje dhe përcjellë punën e',
@@ -8408,7 +8408,7 @@ $messages['km'] = array(
 	'wm-license-cc-by-sa-2.0-de-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/de/deed.en Attribution-Share Alike 2.0 Germany]។',
 	'wm-license-cc-by-sa-2.0-es-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/es/deed.en Attribution-Share Alike 2.0 Spain]។',
 	'wm-license-cc-by-sa-2.0-fr-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/fr/deed.en Attribution-Share Alike 2.0 France]។',
-	'wm-license-cc-by-sa-2.0-hr-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/hr/deed.en Attribution-Share Alike 2.0 Croatia។',
+	'wm-license-cc-by-sa-2.0-hr-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/hr/deed.en Attribution-Share Alike 2.0 Croatia។', # Fuzzy
 	'wm-license-cc-by-sa-2.0-it-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/it/deed.en Attribution-Share Alike 2.0 Italy]។',
 	'wm-license-cc-by-sa-2.0-jp-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/jp/deed.en Attribution-Share Alike 2.0 Japan]។',
 	'wm-license-cc-by-sa-2.0-kr-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/kr/deed.en Attribution-Share Alike 2.0 Korea]។',
@@ -8422,7 +8422,7 @@ $messages['km'] = array(
 	'wm-license-cc-by-sa-2.1-jp-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.1/jp/deed.en Attribution-Share Alike 2.1 Japan]។',
 	'wm-license-cc-by-sa-2.5-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/deed.en Attribution-Share Alike 2.5 Generic]។',
 	'wm-license-cc-by-sa-2.5-2.0-1.0-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [//creativecommons.org/licenses/by-sa/2.5/deed.en 2.5 Generic], [//creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 Generic] និង [//creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 Generic]។',
-	'wm-license-cc-by-sa-2.5-ar-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/ar/deed.en Attribution-Share Alike 2.5 Argentina។',
+	'wm-license-cc-by-sa-2.5-ar-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/ar/deed.en Attribution-Share Alike 2.5 Argentina។', # Fuzzy
 	'wm-license-cc-by-sa-2.5-au-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/au/deed.en Attribution-Share Alike 2.5 Australia]។',
 	'wm-license-cc-by-sa-2.5-bg-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/bg/deed.en Attribution-Share Alike 2.5 Bulgaria]។',
 	'wm-license-cc-by-sa-2.5-br-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/br/deed.en Attribution-Share Alike 2.5 Brazil]។',
@@ -9521,8 +9521,8 @@ $messages['lt'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Šiam failui taikoma [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 Finland] licencija.',
 	'wm-license-cc-sa-1.0-nl-text' => 'Šiam failui taikoma [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.en Share Alike 1.0 Netherlands] licencija.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Šiam failui taikoma [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japan] licencija.',
-	'wm-license-cc-zero-text' => 'Šis failas prieinamas pagal [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 autoriaus teisių atsisakymą].',
-	'wm-license-cc-zero-explanation' => 'Asmuo, kuris susiejo darbą su šiuo dokumentu, nusprendė darbą pateikti Commons, atsisakydamas visų savo autoriaus teisių į darbą visame pasaulyje bei visų susijusių ar gretutinių teisių, kurias jis ar ji turėjo, tiek, kiek leidžia įstatymas. Darbai pagal CC0 atsisakymą nereikalauja autoriaus paminėjimo. Kai darbas cituojamas (naudojamas kitur), neprivalote gauti autoriaus patvirtinimo.',
+	'wm-license-cc-zero-text' => 'Šis failas prieinamas pagal [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 autoriaus teisių atsisakymą].', # Fuzzy
+	'wm-license-cc-zero-explanation' => 'Asmuo, kuris susiejo darbą su šiuo dokumentu, nusprendė darbą pateikti Commons, atsisakydamas visų savo autoriaus teisių į darbą visame pasaulyje bei visų susijusių ar gretutinių teisių, kurias jis ar ji turėjo, tiek, kiek leidžia įstatymas. Darbai pagal CC0 atsisakymą nereikalauja autoriaus paminėjimo. Kai darbas cituojamas (naudojamas kitur), neprivalote gauti autoriaus patvirtinimo.', # Fuzzy
 	'wm-license-cc-free' => 'Jūs galite:',
 	'wm-license-cc-free-to-share-header' => 'dalintis',
 	'wm-license-cc-free-to-share-text' => 'kopijuoti, platinti bei persiųsti šį darbą',
@@ -12308,13 +12308,13 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author Andronimo
  * @author BrunaaAa
  * @author Capmo
  * @author Giro720
  * @author Hamilton Abreu
  * @author Luckas Blade
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'wm-license-cc-attribution' => 'Atribuição',
@@ -14674,7 +14674,8 @@ $messages['sr-ec'] = array(
 	'wm-license-cc-pd-mark-text' => 'Утврђено је да ова датотека није ограничена у погледу ауторских права, укључујући и сва сродна и суседна права.',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
 	'wm-license-cc-attribution' => 'Autorstvo',
@@ -15112,9 +15113,9 @@ $messages['sv'] = array(
  */
 $messages['sw'] = array(
 	'wm-license-cc-attribution' => 'Sifa',
-	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [//creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].',
+	'wm-license-cc-by-1.0-text' => 'Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [//creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].', # Fuzzy
 	'wm-license-cc-free' => 'Uko huru:',
-	'wm-license-cc-conditions-attribution-header' => 'sifa',
+	'wm-license-cc-conditions-attribution-header' => 'sifa', # Fuzzy
 );
 
 /** Tamil (தமிழ்)
@@ -15326,8 +15327,8 @@ $messages['te'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/sa/1.0/fi/ యథాతథ పంచుకోలు 1.0 ఫిన్లాండ్] లైసెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-sa-1.0-nl-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/sa/1.0/nl/ యథాతథ పంచుకోలు 1.0 నెదర్లాండ్స్] లైసెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-sa-2.0-jp-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/sa/2.0/jp/ యథాతథ పంచుకోలు 2.0 జపాన్] లైసెన్సు క్రింద లభ్యం.',
-	'wm-license-cc-zero-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 వెయివర్] క్రింద లభ్యం.',
-	'wm-license-cc-zero-explanation' => 'ఈ కృతితో సంబంధమున్న వ్యక్తి తనకు ప్రపంచవ్యాప్తంగా కాపీహక్కుల చట్టం క్రింద ఈ కృతిపై ఉన్న అన్ని హక్కులని మరియు ఈ కృతిలో తనకి ఉన్న సంబంధిత న్యాయపరమైన హక్కులని, చట్టం అనుమతించిన మేరకు, వదులుకుని ఈ కృతిని కామన్స్‌కి అంకితమిచ్చారు. CC0 క్రింద ఉన్న కృతులకు ఆపాందింపు అవసరం లేదు. కృతిని ఉటంకించేప్పుడు, కృతికర్త యొక్క ఆమోదాన్ని మీరు అంతర్నిహితంగా సూచించకూడదు.',
+	'wm-license-cc-zero-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 వెయివర్] క్రింద లభ్యం.', # Fuzzy
+	'wm-license-cc-zero-explanation' => 'ఈ కృతితో సంబంధమున్న వ్యక్తి తనకు ప్రపంచవ్యాప్తంగా కాపీహక్కుల చట్టం క్రింద ఈ కృతిపై ఉన్న అన్ని హక్కులని మరియు ఈ కృతిలో తనకి ఉన్న సంబంధిత న్యాయపరమైన హక్కులని, చట్టం అనుమతించిన మేరకు, వదులుకుని ఈ కృతిని కామన్స్‌కి అంకితమిచ్చారు. CC0 క్రింద ఉన్న కృతులకు ఆపాందింపు అవసరం లేదు. కృతిని ఉటంకించేప్పుడు, కృతికర్త యొక్క ఆమోదాన్ని మీరు అంతర్నిహితంగా సూచించకూడదు.', # Fuzzy
 	'wm-license-cc-free' => 'మీరు స్వేచ్ఛగా:',
 	'wm-license-cc-free-to-share-header' => 'పంచుకోవచ్చు',
 	'wm-license-cc-free-to-share-text' => 'ఈ కృతిని కాపీ చేసుకోవచ్చు, పంపిణీ మరియు ప్రసారం చేయవచ్చు',
@@ -15376,13 +15377,13 @@ $messages['th'] = array(
 	'wm-license-cc-by-2.1-au-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.1 ของประเทศออสเตรเลีย]',
 	'wm-license-cc-by-2.1-es-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.1 ของประเทศสเปน]',
 	'wm-license-cc-by-2.1-jp-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.1 ของประเทศญี่ปุ่น]q',
-	'wm-license-cc-by-2.5-au-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศออสเตรเลีย',
+	'wm-license-cc-by-2.5-au-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศออสเตรเลีย', # Fuzzy
 	'wm-license-cc-by-2.5-bg-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศบัลแกเรีย]',
 	'wm-license-cc-by-2.5-br-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศบราซิล]',
 	'wm-license-cc-by-2.5-ca-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศแคนาดา]',
 	'wm-license-cc-by-2.5-ch-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศสวิตเซอร์แลนด์]',
 	'wm-license-cc-by-2.5-cn-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศจีน]',
-	'wm-license-cc-by-2.5-co-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศโคลอมเบีย',
+	'wm-license-cc-by-2.5-co-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศโคลอมเบีย', # Fuzzy
 	'wm-license-cc-by-2.5-dk-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศเดนมาร์ก]',
 	'wm-license-cc-by-2.5-es-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศสเปน]',
 	'wm-license-cc-by-2.5-hr-text' => 'ไฟล์นี้อยู่ภายใต้สัญญาอนุญาต[[{{int:wm-license-cc-wiki-link}}|ครีเอทีฟคอมมอนส์]] [//creativecommons.org/licenses/by/1.0/il/ แบบแสดงที่มา 2.5 ของประเทศโครเอเชีย]',
@@ -17442,4 +17443,3 @@ $messages['zh-hk'] = array(
 	'wm-license-cc-by-3.0-hr-text' => '此檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]][//creativecommons.org/licenses/by/3.0/hr/deed.zh 署名 3.0 克羅地亞]許可協議授權。',
 	'wm-license-cc-by-sa-3.0-nz-text' => '此檔案在[[{{int:wm-license-cc-wiki-link}}|共享創意]] [//creativecommons.org/licenses/by-sa/3.0/nz/deed.zh 署名-相同方式共享 3.0 新西蘭]條款下發佈。',
 );
-

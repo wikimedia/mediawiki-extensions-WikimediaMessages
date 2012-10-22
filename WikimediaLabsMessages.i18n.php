@@ -22,7 +22,8 @@ $messages['en'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Wikimedia Gerrit repositories',
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'wikimedialabsmessages-desc' => '{{desc}}',
 	'gerrittools-repogroup-analytics' => 'Gerrit repositories for Wikimedia Analytic projects',
@@ -365,4 +366,3 @@ $messages['vi'] = array(
 	'wikimedialabsmessages-desc' => 'Thông điệp Wikimedia Labs',
 	'gerrittools-repogroup-analytics' => 'Kho Gerrit của Wikimedia Analytics',
 );
-

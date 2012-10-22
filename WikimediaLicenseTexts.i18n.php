@@ -199,8 +199,12 @@ Link to the article about Free software. This is an optional message so please o
 	'wm-license-gfdl-1.2-only-header' => 'The note you see on the right at [[:Commons:Template:GFDL-1.2]]. The non-breaking space is needed to keep is on one line.',
 	'wm-license-gfdl-wiki-link' => '{{optional}}
 Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation License|GNU Free Documentation License]]',
+	'wm-license-gfdl-full-1.2-link' => '{{notranslate}}',
+	'wm-license-gfdl-full-1.3-link' => '{{notranslate}}',
 	'wm-license-gpl-text' => 'You can peek at [[Commons:Template:GPL]] for the current translations',
 	'wm-license-gpl-wiki-link' => '{{optional}}',
+	'wm-license-gpl-2-full-link' => '{{notranslate}}',
+	'wm-license-gpl-3-full-link' => '{{notranslate}}',
 	'wm-license-information-description' => '{{Identical|Description}}',
 	'wm-license-information-description-missing' => 'This message is used on Wikimedia Commons, on [[:commons:Template:Description missing]]',
 	'wm-license-information-date' => '{{Identical|Date}}',
@@ -208,6 +212,8 @@ Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation Licen
 Please only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.',
 	'wm-license-lgpl-text' => 'You can peek at [[Commons:Template:LGPL]] for the current translations',
 	'wm-license-lgpl-wiki-link' => '{{optional}}',
+	'wm-license-lgpl-2.1-full-link' => '{{notranslate}}',
+	'wm-license-lgpl-3-full-link' => '{{notranslate}}',
 	'wm-license-licensing-update-text' => 'This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].',
 	'wm-license-licensing-update-wiki-link' => '{{optional}}
 Translate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.',
@@ -222,13 +228,6 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 * {{msg-mw|wm-license-self-multiple-licenses-with-author}}
 * {{msg-mw|wm-license-self-one-license}}
 * {{msg-mw|wm-license-self-one-license-with-author}}',
-);
-
-/** Turoyo (Ṫuroyo)
- * @author Ariyo
- */
-$messages['tru'] = array(
-	'wm-license-book-language' => 'Leşono',
 );
 
 /** Afrikaans (Afrikaans)
@@ -316,7 +315,7 @@ $messages['aln'] = array(
 	'wm-license-attribution-with-author-text' => "Copyright holder për këtë skedë, $1, lejon askënd që të përdorin atë '''për çfarëdo qëllimi, me kusht që''' copyright holder i atribuohet si duhet. Rishpërndarjen, punë prejardhur, qëllime komerciale, dhe të gjitha të përdorni të tjera është e lejuar.",
 	'wm-license-attribution-without-author-text' => "Copyright holder për këtë skedë lejon askënd që të përdorin atë '''për çfarëdo qëllimi, me kusht që''' copyright holder i atribuohet si duhet. Rishpërndarjen, punë prejardhur, qëllime komerciale, dhe të gjitha të përdorni të tjera është e lejuar.",
 	'wm-license-cecill-text' => "Kjo punë është [[{{int:wm-license-free-software-wiki-link}}|free software]], ju mund t'a rishpërndani ose ndryshoni atë sipas kushteve të [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Kushtet e licencës CeCILL janë në dispozicion në [{{int:wm-license-cecill-full-link}} www.cecill.info].",
-	'wm-license-fal-text' => "\"Copyleft\": Kjo puna e artit është e lirë, ju mund t'a rishpërndani dhe / ose ndryshoni atë sipas kushteve të int'''[[{{int:wm-license-fal-full-link}}|Free Arti License]] ' ''. Ju do të gjeni një mostër të kësaj licence në [{{int:wm-license-fal-wiki-link}} copyleft] Qëndrimi vend, si dhe në zona të tjera.",
+	'wm-license-fal-text' => "\"Copyleft\": Kjo puna e artit është e lirë, ju mund t'a rishpërndani dhe / ose ndryshoni atë sipas kushteve të int'''[[{{int:wm-license-fal-full-link}}|Free Arti License]] ' ''. Ju do të gjeni një mostër të kësaj licence në [{{int:wm-license-fal-wiki-link}} copyleft] Qëndrimi vend, si dhe në zona të tjera.", # Fuzzy
 	'wm-license-gfdl-1.2-and-later' => "Leje për kopjim, shpërndarje dhe / ose ndryshuar këtë dokument sipas kushteve të int'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1,2 ose cilitdo version të mëvonshëm botuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], pa Ndarje të Pandryshueshme, pa Front-Cover Tekste, dhe nuk Back-Cover Tekste. Një kopje e kësaj license është përfshirë në ndarjen e titulluar''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License ]]''.",
 	'wm-license-gfdl-1.2-only' => "Leje për kopjim, shpërndarje dhe / ose ndryshuar këtë dokument sipas kushteve të int'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License ]]''', Version 1,2 vetëm botuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], pa Ndarje të Pandryshueshme, nuk Tekste Front-Cover, dhe nuk Back-Cover Tekste. Një kopje e kësaj license është përfshirë në ndarjen e titulluar''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License ]]''.",
 	'wm-license-gfdl-1.3-and-later' => "Leje për kopjim, shpërndarje dhe / ose ndryshuar këtë dokument sipas kushteve të int'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License ]]''', Version 1,3 ose cilitdo version të mëvonshëm botuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], pa Ndarje të Pandryshueshme, no Front-Cover Tekste, dhe nuk Back-Cover Tekste. Një kopje e kësaj license është përfshirë në ndarjen e titulluar''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License ]]''.",
@@ -336,7 +335,7 @@ $messages['aln'] = array(
 	'wm-license-information-permission-reusing-text' => 'Ripërdorimin këtë fotografi',
 	'wm-license-information-permission-see-below' => 'Shih më poshtë.',
 	'wm-license-information-other-versions' => 'versione të tjera',
-	'wm-license-lgpl-text' => "Kjo bibliotekë është [[{{int:wm-license-free-software-wiki-link}}|free software]], ju mund t'a rishpërndani dhe / ose ndryshoni atë sipas kushteve të int'''[[{{int:wm-license-lgpl-wiki-link}}|Vogël Përgjithshme GNU Public License ]]''' botuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sipas versionit 2,1 të Liçencës, ose (sipas opinionit tuaj) çdo versioni të mëvonshëm. Kjo bibliotekë shpërndahet me shpresën që do të jenë të dobishme, por'''pa ndonjë garanci'''; pa as garancinë e shprehur të'''''tregtimit' ose'''përshtatje për një qëllim të caktuar'''. Shih [[{{int:wm-license-lgpl-2.1-full-link}} version 2,1] dhe [{{int:wm-license-lgpl-3-full-link}} versioni 3 i Vogël Përgjithshme GNU Public License ] për më shumë detaje.",
+	'wm-license-lgpl-text' => "Kjo bibliotekë është [[{{int:wm-license-free-software-wiki-link}}|free software]], ju mund t'a rishpërndani dhe / ose ndryshoni atë sipas kushteve të int'''[[{{int:wm-license-lgpl-wiki-link}}|Vogël Përgjithshme GNU Public License ]]''' botuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sipas versionit 2,1 të Liçencës, ose (sipas opinionit tuaj) çdo versioni të mëvonshëm. Kjo bibliotekë shpërndahet me shpresën që do të jenë të dobishme, por'''pa ndonjë garanci'''; pa as garancinë e shprehur të'''''tregtimit' ose'''përshtatje për një qëllim të caktuar'''. Shih [[{{int:wm-license-lgpl-2.1-full-link}} version 2,1] dhe [{{int:wm-license-lgpl-3-full-link}} versioni 3 i Vogël Përgjithshme GNU Public License ] për më shumë detaje.", # Fuzzy
 	'wm-license-original-upload-log' => 'Original upload log',
 	'wm-license-own-work' => 'punë vetanake',
 	'wm-license-self-one-license' => 'Unë, copyright holder e kësaj pune, me anë të kësaj publikoj atë nën licencën e mëposhtme:',
@@ -350,14 +349,15 @@ $messages['aln'] = array(
  * @author Multichill
  */
 $messages['als'] = array(
-	'wm-license-gfdl-1.2-and-later' => "Sälli Datei isch under de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz für freii Dokumentation]]''' veröffentligt worre. Mer darf d'Datei under de GNU-Lizänz für freii Dokumentation ihre Bedingige, Version 1.2 oder spöter, veröffentligt vo de ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]'' kopiere, verbreite und/oder verändere. Es hät keini unveränderlige Abschnitt, kei vordere Umschlagtekscht und kei hindere Umschlagtekscht.",
+	'wm-license-gfdl-1.2-and-later' => "Sälli Datei isch under de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz für freii Dokumentation]]''' veröffentligt worre. Mer darf d'Datei under de GNU-Lizänz für freii Dokumentation ihre Bedingige, Version 1.2 oder spöter, veröffentligt vo de ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]'' kopiere, verbreite und/oder verändere. Es hät keini unveränderlige Abschnitt, kei vordere Umschlagtekscht und kei hindere Umschlagtekscht.", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:als:GNU-Lizenz für freie Dokumentation',
 	'wm-license-licensing-update-text' => 'Die Lizänzmarkierig isch uffgrund vo de GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizänzaktualisierig]] züegfiegt worre.',
 	'wm-license-own-work' => 'Eigeni Arbet vo dem wo d Datei uffeladet',
 	'wm-license-pd-wiki-link' => 'w:als:Gemeinfreiheit',
 );
 
-/** Amharic (አማርኛ) */
+/** Amharic (አማርኛ)
+ */
 $messages['am'] = array(
 	'wm-license-information-description' => 'ማጠቃለያ',
 	'wm-license-information-source' => 'መነሻ፦',
@@ -421,6 +421,7 @@ $messages['an'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:en:Licencia de documentación libre de GNU',
 	'wm-license-gpl-text' => "Ista obra ye [[{{int:wm-license-free-software-wiki-link}}|software libre]]; Puet redistribuir-la y modificar-la d'alcuerdo con os termins d'a '''[[{{int:wm-license-gpl-wiki-link}}|Licencia Publica _Cheneral GNU]]''' publicada por a [[{{int:wm-license-fsf-wiki-link}}|Fundación ta o Software Libre]], versión 2 u qualsiquier atra posterior. Ista obra se distribuye con a esperanza que pueda estar util, pero '''sin garra guarencia'''; ni sisquiera a guarencia implicita de '''comercialización''' u '''adequación a una finalidat especifica'''. Visite a [{{int:wm-license-gpl-2-full-link}} versión 2] y a [{{int:wm-license-gpl-3-full-link}} versión 3 d'a Licencia Publica Cheneral GNU] ta obtener-ne mas detalles.",
 	'wm-license-gpl-wiki-link' => 'w:en:GNU Cheneral Public License',
+	'wm-license-gpl-3-full-link' => 'http://www.gnu.org/copyleft/gpl-3.0.html',
 	'wm-license-information-table-summary' => "Una tabla estandardizada con a información completa sobre o fichero, incluindo una descripción d'o que amuestra y cómo fue feito, o suyo estau de copyright y a suya fuent.",
 	'wm-license-information-description' => 'Descripción',
 	'wm-license-information-description-missing' => "Ista imachen no tiene garra '''descripción''' u le falta información esencial.",
@@ -447,12 +448,12 @@ $messages['an'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'En qualques países isto podría no ser legalment posible; si ixo ocurrise:',
 	'wm-license-pd-author-self-any-purpose' => "Atorgo a qualsiquier persona o dreito d'usar iste treballo '''ta qualsiquier proposito''', sin garra tipo de condición, fueras d'as que sían requiestas por a lei.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 atorga a qualsiquier persona o dreito d'usar iste treballo '''ta qualsiquier proposito''', sin garra condición, fueras d'as que sían requiestas por a lei.",
-	'wm-license-pd-usgov-fema-text' => "Iste fichero ye un treballo d'un emplegau d'a [[[{{int:wm-license-pd-usgov-fema-wiki-link}}|Achencia Federal de Chestión d'Emerchencias]], feito en o curso d'as suyas funcions oficials. Como tal [[{{int:wm-license-pd-usgov-wiki-link}}||treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno federal de los E.U.A.]], o fichero ye en o  '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.",
+	'wm-license-pd-usgov-fema-text' => "Iste fichero ye un treballo d'un emplegau d'a [[[{{int:wm-license-pd-usgov-fema-wiki-link}}|Achencia Federal de Chestión d'Emerchencias]], feito en o curso d'as suyas funcions oficials. Como tal [[{{int:wm-license-pd-usgov-wiki-link}}||treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno federal de los E.U.A.]], o fichero ye en o  '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.", # Fuzzy
 	'wm-license-pd-usgov-military-text' => "Iste fichero ye obra d'un [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|Militar estadounidense]] u un [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Treballador d'o departamento d'esfensa]], feito en o curso d'as suyas funcions oficials. Como tal [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno federal d'os E.U.A.]], o fichero ye en o '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.",
 	'wm-license-pd-usgov-military-air-force-text' => "Iste fichero ye obra d'un aviador u treballador d'a [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Fuerza Aeria d'os Estaus Unius d'América]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o no '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.",
-	'wm-license-pd-usgov-military-army-text' => "Iste fichero ye obra d'un soldau u treballador de l'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Exercito d'os Estaus Unius d'America]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.",
-	'wm-license-pd-usgov-military-navy-text' => "Iste fichero ye obra d'un marín u treballador de l'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Armada d'os Estaus Unius d'América]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o no '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.",
-	'wm-license-pd-usgov-noaa-text' => "Iste fichero ye obra d'un treballador de l'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Administración Nacional Ocianica y Atmosferica]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o no '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.",
+	'wm-license-pd-usgov-military-army-text' => "Iste fichero ye obra d'un soldau u treballador de l'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Exercito d'os Estaus Unius d'America]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.", # Fuzzy
+	'wm-license-pd-usgov-military-navy-text' => "Iste fichero ye obra d'un marín u treballador de l'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Armada d'os Estaus Unius d'América]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o no '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.", # Fuzzy
+	'wm-license-pd-usgov-noaa-text' => "Iste fichero ye obra d'un treballador de l'[[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Administración Nacional Ocianica y Atmosferica]], preso u feito en o curso d'os suyos quefers oficials. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|treballo]] d'o [[{{int:wm-license-pd-usgov-wiki-link}}|Gubierno Federal d'os E.U.A.]], o fichero ye en o no '''[[{{int:wm-license-pd-wiki-link}}|dominio publico]]'''.", # Fuzzy
 	'wm-license-pd-wiki-link' => 'w:an:Dominio publico',
 	'wm-license-self-one-license' => "Yo, o titular d'os dreitos d'autor d'ista obra, la publico en os termins d'a siguient licencia:",
 	'wm-license-self-one-license-with-author' => "$1, titular d'os dreitos d'autor d'ista obra, la publica en os termins d'a siguient licencia:",
@@ -781,13 +782,15 @@ $messages['ast'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Pues seleicionar la llicencia que prefieras.',
 );
 
-/** Kotava (Kotava) */
+/** Kotava (Kotava)
+ */
 $messages['avk'] = array(
 	'wm-license-information-description' => 'Pimtara',
 	'wm-license-information-source' => 'Klita',
 );
 
-/** Aymara (Aymar aru) */
+/** Aymara (Aymar aru)
+ */
 $messages['ay'] = array(
 	'wm-license-information-description' => 'Uñt’ayawi',
 );
@@ -956,7 +959,8 @@ Waunn du wos dodavoh woasst óder an Zuagaung zua sóicherne Informazióner host
 	'wm-license-pd-wiki-link' => 'w:bar:Gmoafreiheit',
 );
 
-/** Southern Balochi (بلوچی مکرانی) */
+/** Southern Balochi (بلوچی مکرانی)
+ */
 $messages['bcc'] = array(
 	'wm-license-information-description' => 'توضیح',
 	'wm-license-information-source' => 'منبع',
@@ -964,7 +968,8 @@ $messages['bcc'] = array(
 	'wm-license-information-author' => 'نویسوک',
 );
 
-/** Bikol Central (Bikol Central) */
+/** Bikol Central (Bikol Central)
+ */
 $messages['bcl'] = array(
 	'wm-license-information-description' => 'Deskripsión',
 );
@@ -1252,7 +1257,7 @@ $messages['bn'] = array(
  * @author Diebuche
  */
 $messages['bpy'] = array(
-	'wm-license-gfdl-1.2-and-later' => "এরে ডকুমেন্ট এহানর নকল করানি, বিলানি বারো বদালানির য়্যাথাং থাইল তলর শর্তর মাতুঙে '''[[{{int:wm-license-gfdl-wiki-link}}|GNU মাগানা ডকুমেন্টেশনর লাইসেন্স]]''', ভার্সন ১.২ নাইলেউ অহার যে কোন গজর ভার্সন আহান, যেহান ফঙকরিসিতা ফ্রি সফটৱ্যার শিংলুপ-এ; এহানর কোন তঙালপা সেকশন নেই, মুঙর মলাটে মেয়েক নেই, পিছর মলাটে মেয়েক নেই। লাইসেন্সর কপি আহান য়ৌকরানি অইল  ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' এ নাঙে।",
+	'wm-license-gfdl-1.2-and-later' => "এরে ডকুমেন্ট এহানর নকল করানি, বিলানি বারো বদালানির য়্যাথাং থাইল তলর শর্তর মাতুঙে '''[[{{int:wm-license-gfdl-wiki-link}}|GNU মাগানা ডকুমেন্টেশনর লাইসেন্স]]''', ভার্সন ১.২ নাইলেউ অহার যে কোন গজর ভার্সন আহান, যেহান ফঙকরিসিতা ফ্রি সফটৱ্যার শিংলুপ-এ; এহানর কোন তঙালপা সেকশন নেই, মুঙর মলাটে মেয়েক নেই, পিছর মলাটে মেয়েক নেই। লাইসেন্সর কপি আহান য়ৌকরানি অইল  ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' এ নাঙে।", # Fuzzy
 	'wm-license-information-source' => 'উৎস',
 );
 
@@ -1537,7 +1542,8 @@ $messages['ca'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Podeu seleccionar la llicència que vulgueu.',
 );
 
-/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ */
 $messages['cdo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:cdo:GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng',
 	'wm-license-information-source' => 'Lài-nguòng',
@@ -1596,16 +1602,18 @@ $messages['ckb'] = array(
 	'wm-license-self-multiple-licenses-select' => 'دەتوانی مۆڵەتنامەی دڵخوازت ھەڵبژێریت.',
 );
 
-/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎) */
-$messages['crh-latn'] = array(
-	'wm-license-information-description' => 'Tasvir',
-	'wm-license-information-source' => 'Menba',
-);
-
-/** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎) */
+/** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎)
+ */
 $messages['crh-cyrl'] = array(
 	'wm-license-information-description' => 'Тасвир',
 	'wm-license-information-source' => 'Менба',
+);
+
+/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
+ */
+$messages['crh-latn'] = array(
+	'wm-license-information-description' => 'Tasvir',
+	'wm-license-information-source' => 'Menba',
 );
 
 /** Czech (česky)
@@ -1717,7 +1725,8 @@ $messages['cs'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Můžete si zvolit libovolnou z&nbsp;těchto licencí.',
 );
 
-/** Kashubian (kaszëbsczi) */
+/** Kashubian (kaszëbsczi)
+ */
 $messages['csb'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:csb:GNU Free Documentation License',
 	'wm-license-information-source' => 'Zdrój',
@@ -2162,12 +2171,14 @@ $messages['dsb'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Móžoš licencu swójeje wólby wubraś.',
 );
 
-/** Divehi (ދިވެހިބަސް) */
+/** Divehi (ދިވެހިބަސް)
+ */
 $messages['dv'] = array(
 	'wm-license-information-source' => 'މަސްދަރު',
 );
 
-/** Ewe (eʋegbe) */
+/** Ewe (eʋegbe)
+ */
 $messages['ee'] = array(
 	'wm-license-information-date' => 'Ŋkeke',
 );
@@ -2680,7 +2691,8 @@ $messages['eu'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Nahiago duzun lizentzia erabil dezakezu.',
 );
 
-/** Extremaduran (estremeñu) */
+/** Extremaduran (estremeñu)
+ */
 $messages['ext'] = array(
 	'wm-license-information-description' => 'Descrición',
 	'wm-license-information-description-missing' => "Esta imahin nu tiini una '''descrición''' u le farta enhormación emportanti.",
@@ -2900,7 +2912,8 @@ $messages['fi'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Voit valita haluamasi lisenssin.',
 );
 
-/** Faroese (føroyskt) */
+/** Faroese (føroyskt)
+ */
 $messages['fo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:fo:GNU Free Documentation License',
 	'wm-license-pd-wiki-link' => 'w:fo:Almenn ogn',
@@ -3141,7 +3154,7 @@ $messages['fur'] = array(
  * @author Multichill
  */
 $messages['fy'] = array(
-	'wm-license-gfdl-1.2-and-later' => "Der wurdt tastimming jûn ta kopiearjen, fersprieden en/of wizigjen fan dit dokumint ûnder de betinksten fan de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-lisinsje foar iepen dokumintaasje]]''', ferzje 1.2, as eltse lettere ferzje útjûn troch de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sûnder Ynfariante Seksjes, sûnder Omkaftteksten foar de Foarkante en sûnder Omkaftteksten foar de Efterkante. In kopy fan de lisinsje is opnaam yn de seksje \"[[{{int:wm-license-gfdl-full-1.2-link}}|Text of the GNU Free Documentation License]]\".",
+	'wm-license-gfdl-1.2-and-later' => "Der wurdt tastimming jûn ta kopiearjen, fersprieden en/of wizigjen fan dit dokumint ûnder de betinksten fan de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-lisinsje foar iepen dokumintaasje]]''', ferzje 1.2, as eltse lettere ferzje útjûn troch de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sûnder Ynfariante Seksjes, sûnder Omkaftteksten foar de Foarkante en sûnder Omkaftteksten foar de Efterkante. In kopy fan de lisinsje is opnaam yn de seksje \"[[{{int:wm-license-gfdl-full-1.2-link}}|Text of the GNU Free Documentation License]]\".", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:fy:GNU/FDL',
 	'wm-license-information-description' => 'Beskriuwing',
 	'wm-license-information-source' => 'Boarne',
@@ -3176,7 +3189,7 @@ $messages['ga'] = array(
 	'wm-license-book-title' => 'Teideal',
 	'wm-license-fsf-wiki-link' => 'w:ga:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:ga:Bogearraí saora',
-	'wm-license-gfdl-1.2-and-later' => "Tugtar cead an doiciméad seo a chóipeáil, a dháil amach agus/nó a athrú de réir choinníollacha '''[[{{int:wm-license-gfdl-wiki-link}}|Cheadúnas GNU na nDoiciméad Saor]]''', Leagan 1.2 nó leagan ar bith níos nuaí a fhoilsítear ag an [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; gan Ranna Do-athraithe, gan Téacsanna an Chlúdaigh Tosaigh, gan Téacsanna an Chlúdaigh Deiridh.",
+	'wm-license-gfdl-1.2-and-later' => "Tugtar cead an doiciméad seo a chóipeáil, a dháil amach agus/nó a athrú de réir choinníollacha '''[[{{int:wm-license-gfdl-wiki-link}}|Cheadúnas GNU na nDoiciméad Saor]]''', Leagan 1.2 nó leagan ar bith níos nuaí a fhoilsítear ag an [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; gan Ranna Do-athraithe, gan Téacsanna an Chlúdaigh Tosaigh, gan Téacsanna an Chlúdaigh Deiridh.", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:ga:Ceadúnas GNU do Dhoiciméadú Saor',
 	'wm-license-information-table-summary' => 'Seo tábla caighdeánaithe a sholáthraíonn faisnéis iomlán maidir leis an comhad, lena n-áirítear cur síos ar cad a léiríonn sé agus conas a bhí déanta aige, stádas cóipchirt agus foinse.',
 	'wm-license-information-description' => 'Tuairisc',
@@ -3201,13 +3214,15 @@ $messages['ga'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Is féidir leat a roghnú an ceadúnas do rogha',
 );
 
-/** Simplified Gan script (赣语（简体）‎) */
+/** Simplified Gan script (赣语（简体）‎)
+ */
 $messages['gan-hans'] = array(
 	'wm-license-information-description' => '简话',
 	'wm-license-information-source' => '来源',
 );
 
-/** Traditional Gan script (贛語（繁體）‎) */
+/** Traditional Gan script (贛語（繁體）‎)
+ */
 $messages['gan-hant'] = array(
 	'wm-license-information-description' => '簡話',
 	'wm-license-information-source' => '來源',
@@ -3510,19 +3525,22 @@ $messages['gu'] = array(
 	'wm-license-self-multiple-licenses-select' => 'તમે તમારી પસંદગીનો પરવાનો પસંદ કરી શકો છો.',
 );
 
-/** Manx (Gaelg) */
+/** Manx (Gaelg)
+ */
 $messages['gv'] = array(
 	'wm-license-free-software-wiki-link' => 'w:gv:Cooid vog heyr',
 	'wm-license-information-description' => 'Coontey',
 	'wm-license-information-source' => 'Bun',
 );
 
-/** Hausa (Hausa) */
+/** Hausa (Hausa)
+ */
 $messages['ha'] = array(
 	'wm-license-information-permission' => 'Izini',
 );
 
-/** Hakka (Hak-kâ-fa) */
+/** Hakka (Hak-kâ-fa)
+ */
 $messages['hak'] = array(
 	'wm-license-information-description' => 'Mèu-sut',
 	'wm-license-information-source' => 'Lòi-ngièn',
@@ -3976,10 +3994,10 @@ $messages['hy'] = array(
 	'wm-license-fal-wiki-link' => 'w:hy:Ազատ արվեստ արտոնագիր',
 	'wm-license-fsf-wiki-link' => 'w:hy:Ազատ ծրագրային ապահովման հիմնադրամ',
 	'wm-license-free-software-wiki-link' => 'w:hy:Ազատ ծրագրային ապահովում',
-	'wm-license-gfdl-1.2-and-later' => "Այս վավերագրման պատճենահանման, տարածման և/կամ ձևափոխման թույլատվություն կամ '''[[{{int:wm-license-gfdl-wiki-link}}|լիցենսիայի GNU FDL]]''' պայմաններով 1.2 մեկնակերպի կամ ավելի ուշ, հրատարակված [[{{int:wm-license-fsf-wiki-link}}|Ազատ ծրագրային ապահովության հիմնադրամում]], առանց անփոփոխելի հատվածների, առանց բնագիրների, որոնք տեղադրված են առաջին և վերջին շապիկներում: Լիցենզիայի պատճեն գտնվում է ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' հատվածում:",
+	'wm-license-gfdl-1.2-and-later' => "Այս վավերագրման պատճենահանման, տարածման և/կամ ձևափոխման թույլատվություն կամ '''[[{{int:wm-license-gfdl-wiki-link}}|լիցենսիայի GNU FDL]]''' պայմաններով 1.2 մեկնակերպի կամ ավելի ուշ, հրատարակված [[{{int:wm-license-fsf-wiki-link}}|Ազատ ծրագրային ապահովության հիմնադրամում]], առանց անփոփոխելի հատվածների, առանց բնագիրների, որոնք տեղադրված են առաջին և վերջին շապիկներում: Լիցենզիայի պատճեն գտնվում է ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' հատվածում:", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:hy:GNU Free Documentation License',
 	'wm-license-information-description' => 'Նկարագրում',
-	'wm-license-information-description-missing' => "Այս պատկերի '''{{ #if: {{{1|}}} | {{{1}}} | նկարագրումը }}''' բացակայում է, կարող են նաև բացակայել ուրիշ տեղեկություններ:",
+	'wm-license-information-description-missing' => "Այս պատկերի '''{{ #if: {{{1|}}} | {{{1}}} | նկարագրումը }}''' բացակայում է, կարող են նաև բացակայել ուրիշ տեղեկություններ:", # Fuzzy
 	'wm-license-information-description-missing-request' => 'Խնդրում ենք այս նիշքի մասին իմաստալից նկարագրություն ներկայացնել։',
 	'wm-license-information-source' => 'Աղբյուր',
 	'wm-license-information-source-missing' => "Այս մեդիա-նիշքի '''աղբյուրի''' մասին տեղեկությունները պակասում են։",
@@ -3996,9 +4014,9 @@ $messages['hy'] = array(
 	'wm-license-pd-wiki-link' => 'w:hy:Հանրության սեփականություն',
 	'wm-license-self-one-license' => 'Ես, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում եմ հետևյալ արտոնագրի ներքո։',
 	'wm-license-self-one-license-with-author' => '$1, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում է հետևյալ արտոնագրի պայմաններով՝',
-	'wm-license-self-multiple-licenses' => 'Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիաների պայմաններով',
-	'wm-license-self-multiple-licenses-with-author' => '$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիաների պայմաններով',
-	'wm-license-self-multiple-licenses-select' => 'Դուք կարող եք ընտրել յուրաքանչուրը այս լիցենզիաներից.',
+	'wm-license-self-multiple-licenses' => 'Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիաների պայմաններով', # Fuzzy
+	'wm-license-self-multiple-licenses-with-author' => '$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիաների պայմաններով', # Fuzzy
+	'wm-license-self-multiple-licenses-select' => 'Դուք կարող եք ընտրել յուրաքանչուրը այս լիցենզիաներից.', # Fuzzy
 );
 
 /** Interlingua (interlingua)
@@ -4061,6 +4079,8 @@ $messages['ia'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:ia:Licentia GNU pro Documentation Libere',
 	'wm-license-gpl-text' => "Iste obra es [[{{int:wm-license-free-software-wiki-link}}|software libere]]; tu pote redistribuer lo e/o modificar lo sub le conditiones del '''[[{{int:wm-license-gpl-wiki-link}}|Licentia Public General de GNU]]''' como publicate per le [[{{int:wm-license-fsf-wiki-link}}|Fundation pro Software Libere]]; o le version 2 del Licentia, o un version plus recente. Iste obra es distribuite in le sperantia que illo sia utile, ma '''sin garantia'''; mesmo sin le garantia implicite de '''commerciabilitate''' o '''adequation a un scopo particular'''. Vide le [{{int:wm-license-gpl-2-full-link}} version 2] e le [{{int:wm-license-gpl-3-full-link}} version 3 del Licentia Public General de GNU] pro ulterior detalios.",
 	'wm-license-gpl-wiki-link' => 'w:ia:Licentia Public General de GNU',
+	'wm-license-gpl-2-full-link' => 'http://www.gnu.org/licenses/old-licenses/gpl-2.0.html',
+	'wm-license-gpl-3-full-link' => 'http://www.gnu.org/copyleft/gpl-3.0.html',
 	'wm-license-information-table-summary' => 'Un tabella standardisate con information complete super le file, como un description del contento e le processo de creation, le stato de copyright e le origine.',
 	'wm-license-information-description' => 'Description',
 	'wm-license-information-description-missing' => "Iste file non ha un '''description''', e forsan il manca altere informationes a illo.",
@@ -4077,6 +4097,8 @@ $messages['ia'] = array(
 	'wm-license-information-other-versions' => 'Altere versiones',
 	'wm-license-lgpl-text' => "Iste bibliotheca es [[{{int:wm-license-free-software-wiki-link}}|software libere]]; tu pote redistribuer lo e/o modificar lo sub le terminos del '''[[{{int:wm-license-lgpl-wiki-link}}|Licentia Public General Minor de GNU]]''' como publicate per le [[{{int:wm-license-fsf-wiki-link}}|Fundation pro Software Libere]]; o le version 2.1 del Licentia, o (si tu lo prefere) un version plus recente. Iste bibliotheca es distribuite in le sperantia que illo sia utile, ma '''sin garantia'''; mesmo sin le garantia implicite de '''commerciabilitate''' o '''adequation a un scopo particular'''. Vide le [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] e le [{{int:wm-license-lgpl-3-full-link}} version 3 del Licentia Public General Minor de GNU] pro ulterior detalios.",
 	'wm-license-lgpl-wiki-link' => 'w:ia:Licentia Public General Minor de GNU',
+	'wm-license-lgpl-2.1-full-link' => 'http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html',
+	'wm-license-lgpl-3-full-link' => 'http://www.gnu.org/licenses/lgpl.html',
 	'wm-license-licensing-update-text' => 'Iste etiquetta de licentia esseva addite a iste file como parte del [[{{int:wm-license-licensing-update-wiki-link}}|actualisation del licentia]] GFDL.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/ia',
 	'wm-license-original-upload-log' => 'Registro de incargamento original',
@@ -4383,7 +4405,7 @@ $messages['io'] = array(
 $messages['is'] = array(
 	'wm-license-fsf-wiki-link' => 'w:is:Frjálsa hugbúnaðarstofnunin',
 	'wm-license-free-software-wiki-link' => 'w:is:Frjáls hugbúnaður',
-	'wm-license-gfdl-1.2-and-later' => "Gefið er leyfi til að afrita, dreifa og/eða breyta þessu skjali samkvæmt Frjálsa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  útgáfu 1.2 eða nýrri, sem gefið er út af Frjálsu hugbúnaðarstofnuninni með engum breytingum þar á.",
+	'wm-license-gfdl-1.2-and-later' => "Gefið er leyfi til að afrita, dreifa og/eða breyta þessu skjali samkvæmt Frjálsa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  útgáfu 1.2 eða nýrri, sem gefið er út af Frjálsu hugbúnaðarstofnuninni með engum breytingum þar á.", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:is:Frjálsa GNU-handbókarleyfið',
 	'wm-license-information-description' => 'Lýsing',
 	'wm-license-information-source' => 'Uppruni',
@@ -4803,34 +4825,40 @@ $messages['ka'] = array(
 	'wm-license-self-multiple-licenses-select' => 'თქვენ შეგიძლიათ აირჩიოთ ლიცენზია.',
 );
 
-/** Kara-Kalpak (Qaraqalpaqsha) */
+/** Kara-Kalpak (Qaraqalpaqsha)
+ */
 $messages['kaa'] = array(
 	'wm-license-information-source' => 'Fayl deregi',
 );
 
-/** Kabyle (Taqbaylit) */
+/** Kabyle (Taqbaylit)
+ */
 $messages['kab'] = array(
 	'wm-license-information-description' => 'Aglam',
 );
 
-/** Kirmanjki (Kırmancki) */
+/** Kirmanjki (Kırmancki)
+ */
 $messages['kiu'] = array(
 	'wm-license-information-source' => 'Çıme',
 );
 
-/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏)
+ */
 $messages['kk-arab'] = array(
 	'wm-license-information-description' => 'سىيپاتتاماسى',
 	'wm-license-information-source' => 'قاينار كوزى',
 );
 
-/** Kazakh (Cyrillic script) (қазақша (кирил)‎) */
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎)
+ */
 $messages['kk-cyrl'] = array(
 	'wm-license-information-description' => 'Сипаттамасы',
 	'wm-license-information-source' => 'Қайнар көзі',
 );
 
-/** Kazakh (Latin script) (qazaqşa (latın)‎) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎)
+ */
 $messages['kk-latn'] = array(
 	'wm-license-information-description' => 'Sïpattaması',
 	'wm-license-information-source' => 'Qaýnar közi',
@@ -4871,7 +4899,7 @@ $messages['km'] = array(
 	'wm-license-book-translator' => 'អ្នកបកប្រែ',
 	'wm-license-book-volume' => 'ភាគ',
 	'wm-license-book-year-of-publication' => 'ឆ្នាំបោះពុម្ភ',
-	'wm-license-gfdl-1.2-and-later' => "រូបភាពនៃទំព័រនេះជាកម្មសិទ្ធិរបស់'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''។  Version 1.2 ឬក៏ខ្ពស់ជាងនេះត្រូវបានឧបត្ថមគាំទ្រដោយ មូលនិធិសូហ្វវែរដោយឥតគិតថ្លៃ ([[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]) ដែលមិនមានផ្នែកណាមួយរបស់ប្រភពដើមរួមទាំងអក្សរនៅលើគំរបមុខនិងខ្នង ត្រូវបានផ្លាស់ប្តូរទេ។ ចំពោះផ្នែកដែលមិនអាចផ្លាស់ប្តូរបាន សូមមើល[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]។",
+	'wm-license-gfdl-1.2-and-later' => "រូបភាពនៃទំព័រនេះជាកម្មសិទ្ធិរបស់'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''។  Version 1.2 ឬក៏ខ្ពស់ជាងនេះត្រូវបានឧបត្ថមគាំទ្រដោយ មូលនិធិសូហ្វវែរដោយឥតគិតថ្លៃ ([[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]) ដែលមិនមានផ្នែកណាមួយរបស់ប្រភពដើមរួមទាំងអក្សរនៅលើគំរបមុខនិងខ្នង ត្រូវបានផ្លាស់ប្តូរទេ។ ចំពោះផ្នែកដែលមិនអាចផ្លាស់ប្តូរបាន សូមមើល[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]។", # Fuzzy
 	'wm-license-information-description' => 'ការ​ពិពណ៌នា',
 	'wm-license-information-description-missing' => "មេឌា​នេះ​មិន​មាន​'''ការពិពណ៌នា'''ទេ និង ប្រហែល​ជា​ខ្វះ​ព័ត៌មាន​ដទៃទៀត។",
 	'wm-license-information-description-missing-request' => 'សូម​ផ្តល់​នូវ​ការ​ពិពណ៌នា​ដ៏​មាន​អត្ថន័យ​ដល់​មេឌា​ហ្វាល់នេះ។',
@@ -5098,10 +5126,14 @@ En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschre
 	'wm-license-gfdl-1.3-only' => 'Do darfs heh dat Dokemänt kopeere un wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]</i>\'\'\' (dä freije Lizänz för Dokemäntazjuhne vun dä GNU) bloß en dä Version 1.3, wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) met kein onveränderlesch Afschnedde, keine Täx om Ömschlaach un Boochdäckel.
 En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschreff <i lang="en">[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]</i>.',
 	'wm-license-gfdl-wiki-link' => 'w:ksh:GNU Lizännz för n fräĳe Dokementazjon',
+	'wm-license-gfdl-full-1.2-link' => 'Commons:GNU Free Documentation License 1.2',
+	'wm-license-gfdl-full-1.3-link' => 'Commons:GNU Free Documentation License 1.3',
 	'wm-license-gpl-text' => 'Heh dat Wärrek es [[{{int:wm-license-free-software-wiki-link}}|e frei Projramm (<i lang="en">free software</i>)]] un De kanns se wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]</i>\'\'\' (dä alljemeine öffentlesche Lizänz vun dä GNU) wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) entweeder en dä Versin 2 udder jeede neuere Version.
 Heh dat Projramm udder Pakätt weed wigger jejovve en dä Hoffnung, dat et ze bruche es, ävver der ohne jeede Jarranti, dat se ze verkoufe udder för öhßjät ze bruche es.
 Loor Der de [{{int:wm-license-gpl-2-full-link}} version 2.1] un de [{{int:wm-license-gpl-3-full-link}} version 3 vun de <i lang="en">GNU General Public License</i>] aan, wann De_t jenouer weße wells.',
 	'wm-license-gpl-wiki-link' => 'w:ksh:GNU General Public License',
+	'wm-license-gpl-2-full-link' => 'http://www.gnu.org/licenses/old-licenses/gpl-2.0.html',
+	'wm-license-gpl-3-full-link' => 'http://www.gnu.org/copyleft/gpl-3.0.html',
 	'wm-license-information-table-summary' => 'En einheitlijje Tabäll met dä kumplätte Enfommazjuhne övver di Dattei, doh dren es och beschrevve, wat se zeisch un wi se jemaat woode es, de Quälle, un et Urhävverräsch.',
 	'wm-license-information-description' => 'Zosammefassung',
 	'wm-license-information-description-missing' => "Bei heh dä Dattei es kein '''Zosammefassung''' jemaat woode.",
@@ -5146,10 +5178,10 @@ Loor Der de [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] un de [{{int:wm-
 	'wm-license-pd-wiki-link' => 'w:ksh:Allmände',
 	'wm-license-self-one-license' => 'Esh han et Urhävverääsch vun däm Wärk, un maachen dat Wärk öffentlesch unger dä Lizänz heh:',
 	'wm-license-self-one-license-with-author' => '{{GENDER:$1|Dä|Et|Dä Metmaacher|De|Dat}} $1 hät et Urhävverääsch vun däm Wärk, un määt dat Wärk öffentlesch unger dä Lizänz:
-',
+', # Fuzzy
 	'wm-license-self-multiple-licenses' => 'Esh han et Urhävverääsch vun däm Wärk, un maachen dat Wärk öffentlesch unger dä Lizänze heh:',
 	'wm-license-self-multiple-licenses-with-author' => '{{GENDER:$1|Dä|Et|Dä Metmaacher|De|Dat}} $1 hät et Urhävverääsch vun däm Wärk, un määt dat Wärk öffentlesch unger dä Lizänze:
-',
+', # Fuzzy
 	'wm-license-self-multiple-licenses-select' => 'Do kanns Der en Lizänz ußsöhke.',
 );
 
@@ -5175,7 +5207,7 @@ $messages['ku-latn'] = array(
 	'wm-license-book-translator' => 'Wergêr',
 	'wm-license-creator-description' => 'Danasîn',
 	'wm-license-gfdl-1.2-and-later' => "Ev wêne di bin '''[[{{int:wm-license-gfdl-wiki-link}}|lîsansa belgekirina azad a GNU]]''' hate barkirin.
-Kopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, versiyona 1.2 versiyoneke kevintirîn a belavkirinê ya ji bo [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.",
+Kopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, versiyona 1.2 versiyoneke kevintirîn a belavkirinê ya ji bo [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.", # Fuzzy
 	'wm-license-information-description' => 'Danasîn',
 	'wm-license-information-source' => 'Çavkanî',
 	'wm-license-information-source-missing' => "Agahiya '''çavkaniya''' vê pelê kêm e.",
@@ -5326,7 +5358,8 @@ $messages['lb'] = array(
 	'wm-license-self-multiple-licenses-select' => "Dir kënnt d'Lizenz vun Ärer Wiel eraussichen.",
 );
 
-/** Lingua Franca Nova (Lingua Franca Nova) */
+/** Lingua Franca Nova (Lingua Franca Nova)
+ */
 $messages['lfn'] = array(
 	'wm-license-information-author' => 'Autor',
 );
@@ -5435,12 +5468,14 @@ Zuuch [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lg
 	'wm-license-self-multiple-licenses-select' => 'De kens zelf de lisensje oetkeze.',
 );
 
-/** Ligure (Ligure) */
+/** Ligure (Ligure)
+ */
 $messages['lij'] = array(
 	'wm-license-information-source' => 'Reixe',
 );
 
-/** lumbaart (lumbaart) */
+/** lumbaart (lumbaart)
+ */
 $messages['lmo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:lmo:Licenza da ducümentazziun líbera GNU',
 	'wm-license-gpl-wiki-link' => 'w:lmo:GPL',
@@ -5536,7 +5571,8 @@ $messages['lt'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Galite pasirinkti, kurią licenciją norite naudoti.',
 );
 
-/** Latgalian (latgaļu) */
+/** Latgalian (latgaļu)
+ */
 $messages['ltg'] = array(
 	'wm-license-information-description' => 'Aproksts',
 );
@@ -5592,16 +5628,18 @@ $messages['lv'] = array(
  */
 $messages['lzh'] = array(
 	'wm-license-gfdl-1.2-and-later' => "眾皆可在自由軟體基金會（[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];）所刊之'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文檔協議證書]]'''1.2或之後版本規限下，抄、刊及／或修此圖，無他限。
-遵守免責聲明。",
+遵守免責聲明。", # Fuzzy
 	'wm-license-information-description' => '述',
 );
 
-/** Basa Banyumasan (Basa Banyumasan) */
+/** Basa Banyumasan (Basa Banyumasan)
+ */
 $messages['map-bms'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:map-bms:Lisénsi Dokuméntasi Bébas GNU',
 );
 
-/** Moksha (мокшень) */
+/** Moksha (мокшень)
+ */
 $messages['mdf'] = array(
 	'wm-license-information-description' => 'Информацие',
 	'wm-license-information-source' => 'Лисьма',
@@ -5625,7 +5663,8 @@ $messages['mg'] = array(
 	'wm-license-original-upload-log' => "Laogin'ny fampidirana loharano",
 );
 
-/** Maori (Māori) */
+/** Maori (Māori)
+ */
 $messages['mi'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:mi:GNU FDL',
 );
@@ -5841,7 +5880,8 @@ $messages['ml'] = array(
 	'wm-license-self-multiple-licenses-select' => 'താങ്കൾക്ക് താങ്കളുടെ ഇച്ഛാനുസരണം അനുമതി തിരഞ്ഞെടുക്കാം.',
 );
 
-/** Mongolian (монгол) */
+/** Mongolian (монгол)
+ */
 $messages['mn'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:mn:ГНУ чөлөөт баримт бичгийн лиценз',
 	'wm-license-gpl-wiki-link' => 'w:mn:GNU GPL',
@@ -6090,7 +6130,8 @@ $messages['mt'] = array(
 	'wm-license-self-multiple-licenses-select' => "Tista' tagħżel il-liċenzja li tippreferi.",
 );
 
-/** Mirandese (Mirandés) */
+/** Mirandese (Mirandés)
+ */
 $messages['mwl'] = array(
 	'wm-license-information-description' => 'Çcriçon',
 	'wm-license-information-source' => 'Fuonte',
@@ -6117,7 +6158,7 @@ $messages['myv'] = array(
  */
 $messages['mzn'] = array(
 	'wm-license-book-start-this-book' => 'شروع اینتا کتاب',
-	'wm-license-gfdl-1.2-and-later' => 'اجازهٔ کوپی، پخش یا تغییر این سند تحت شرایط [[:mzn:موجوز موستندات آزاد گنو|موجوز موستندات آزاد گنو]] (GFDL) هدائه بیّه. نوسخهٔ ۱٫۲ یا هر نوسخهٔ جدیدته که توسوط بونیاد نرم‌افزار آزاد مونتشر بیه، بدون بخش‌ئون ناموعتبر، بدون نوشتارئون روی جیلد و بدون نوشتارئون پوشت جلد. اتا کپی از این ایجازه نامه در قسمتی که با عونوان "[[Commons:GNU Free Documentation License|GNU Free Documentation License]]" موشخص بیه موجود هسته.',
+	'wm-license-gfdl-1.2-and-later' => 'اجازهٔ کوپی، پخش یا تغییر این سند تحت شرایط [[:mzn:موجوز موستندات آزاد گنو|موجوز موستندات آزاد گنو]] (GFDL) هدائه بیّه. نوسخهٔ ۱٫۲ یا هر نوسخهٔ جدیدته که توسوط بونیاد نرم‌افزار آزاد مونتشر بیه، بدون بخش‌ئون ناموعتبر، بدون نوشتارئون روی جیلد و بدون نوشتارئون پوشت جلد. اتا کپی از این ایجازه نامه در قسمتی که با عونوان "[[Commons:GNU Free Documentation License|GNU Free Documentation License]]" موشخص بیه موجود هسته.', # Fuzzy
 );
 
 /** Nahuatl (Nāhuatl)
@@ -6132,7 +6173,8 @@ $messages['nah'] = array(
 	'wm-license-own-work' => 'Nonehhuiyān notlachīhual',
 );
 
-/** Min Nan Chinese (Bân-lâm-gú) */
+/** Min Nan Chinese (Bân-lâm-gú)
+ */
 $messages['nan'] = array(
 	'wm-license-information-description' => 'Soat-bêng',
 );
@@ -6141,7 +6183,7 @@ $messages['nan'] = array(
  * @author Diebuche
  */
 $messages['nap'] = array(
-	'wm-license-gfdl-1.2-and-later' => "Chistu documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Na copia d' 'a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d' 'a GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-and-later' => "Chistu documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Na copia d' 'a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d' 'a GNU Free Documentation License]]''.", # Fuzzy
 );
 
 /** Norwegian Bokmål (norsk (bokmål)‎)
@@ -6289,7 +6331,7 @@ $messages['nds'] = array(
 	'wm-license-creator-work-period' => 'Tied vun dat Warken',
 	'wm-license-creator-work-location' => 'Oort vun dat Warken',
 	'wm-license-creator-linkback' => 'Na de Creator-Infovörlaag gahn',
-	'wm-license-gfdl-1.2-and-later' => "Ünner de Maatgaven vun de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU free Lizenz för Dokumentatschoon]]''', Version 1.2 oder en latere Version, rutgeven vun de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];, dröffst du disse Datei koperen, wiedergeven un/oder ännern. Dat gifft kene unverännerlichen Afsneed un keen Ümslagtext vörn oder achtern. Der vollständige Text der Lizenz ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
+	'wm-license-gfdl-1.2-and-later' => "Ünner de Maatgaven vun de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU free Lizenz för Dokumentatschoon]]''', Version 1.2 oder en latere Version, rutgeven vun de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];, dröffst du disse Datei koperen, wiedergeven un/oder ännern. Dat gifft kene unverännerlichen Afsneed un keen Ümslagtext vörn oder achtern. Der vollständige Text der Lizenz ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:nds:GNU-FDL',
 	'wm-license-information-table-summary' => 'En Tabell mit allens wichtige över de Datei, mit en Text, de ehr beschrifft, wokeen ehr maakt hett un wo he dat daan hett, Infos to dat Copyright un to den Born.',
 	'wm-license-information-description' => 'Beschrievung',
@@ -6306,8 +6348,8 @@ $messages['nds'] = array(
 	'wm-license-information-permission-see-below' => 'Kiek ünnen.',
 	'wm-license-information-other-versions' => 'Annere Versionen',
 	'wm-license-own-work' => 'Egen Wark',
-	'wm-license-pd-author-with-author-text' => 'Disse Datei is vun sien Autor, $1, as [[{{int:wm-license-pd-wiki-link}}|gemeenfree]] freegeven worrn. Dat gellt op de ganze Welt.',
-	'wm-license-pd-author-not-legally-possible' => 'Wenn dat na lokale Rechtslaag nich mööglich is, gellt:',
+	'wm-license-pd-author-with-author-text' => 'Disse Datei is vun sien Autor, $1, as [[{{int:wm-license-pd-wiki-link}}|gemeenfree]] freegeven worrn. Dat gellt op de ganze Welt.', # Fuzzy
+	'wm-license-pd-author-not-legally-possible' => 'Wenn dat na lokale Rechtslaag nich mööglich is, gellt:', # Fuzzy
 	'wm-license-self-one-license' => 'Ik, Autor vun disse Datei, geev ehr hiermit ünner disse Lizenz free:',
 	'wm-license-self-one-license-with-author' => '$1, Autor vun disse Datei, gifft ehr hiermit ünner disse Lizenz free:',
 	'wm-license-self-multiple-licenses' => 'Ik, Autor vun disse Datei, geev ehr hiermit ünner disse Lizenzen free:',
@@ -6568,12 +6610,14 @@ $messages['no'] = array(
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:no:United States Navy',
 );
 
-/** Novial (Novial) */
+/** Novial (Novial)
+ */
 $messages['nov'] = array(
 	'wm-license-information-description' => 'Deskriptione',
 );
 
-/** Northern Sotho (Sesotho sa Leboa) */
+/** Northern Sotho (Sesotho sa Leboa)
+ */
 $messages['nso'] = array(
 	'wm-license-information-source' => 'Mothopo',
 );
@@ -6591,7 +6635,7 @@ $messages['oc'] = array(
 	'wm-license-attribution-without-author-text' => "Lo titular dels dreches d'autor d'aquel fichièr permet a cadun de l'utilizar '''per quina intencion que siá, provist que''' lo titular dels dreches d'autor siá mençonat corrèctament. La redistribucion, las òbras derivadas, l'usatge comercial e quin autre usatge que siá son permés.",
 	'wm-license-fsf-wiki-link' => 'w:oc:Fondacion pel logicial liure',
 	'wm-license-free-software-wiki-link' => 'w:oc:Logicial liure',
-	'wm-license-gfdl-1.2-and-later' => "Avètz la permission de copiar, distribuir e/o modificar aqueste document segon los tèrmes de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licéncia de documentacion liura GNU]]''', version 1.2 o mai recenta publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sens seccions inalterablas, sens tèxte de primièra pagina de cobèrtura e sens tèxte de darrièra pagina de cobèrtura.",
+	'wm-license-gfdl-1.2-and-later' => "Avètz la permission de copiar, distribuir e/o modificar aqueste document segon los tèrmes de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licéncia de documentacion liura GNU]]''', version 1.2 o mai recenta publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sens seccions inalterablas, sens tèxte de primièra pagina de cobèrtura e sens tèxte de darrièra pagina de cobèrtura.", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:oc:Licéncia de documentacion liura GNU',
 	'wm-license-information-description' => 'Descripcion',
 	'wm-license-information-source' => 'Font',
@@ -6698,18 +6742,21 @@ $messages['os'] = array(
 	'wm-license-own-work' => 'Хи куыст',
 );
 
-/** Punjabi (ਪੰਜਾਬੀ) */
+/** Punjabi (ਪੰਜਾਬੀ)
+ */
 $messages['pa'] = array(
 	'wm-license-information-description' => 'ਵੇਰਵਾ',
 	'wm-license-information-source' => 'ਸੋਰਸ',
 );
 
-/** Pangasinan (Pangasinan) */
+/** Pangasinan (Pangasinan)
+ */
 $messages['pag'] = array(
 	'wm-license-information-source' => 'Pinanlapuan',
 );
 
-/** Pampanga (Kapampangan) */
+/** Pampanga (Kapampangan)
+ */
 $messages['pam'] = array(
 	'wm-license-information-source' => 'Pikuanan',
 );
@@ -6727,7 +6774,8 @@ $messages['pdc'] = array(
 	'wm-license-information-author' => 'Schreiwer',
 );
 
-/** Plautdietsch (Plautdietsch) */
+/** Plautdietsch (Plautdietsch)
+ */
 $messages['pdt'] = array(
 	'wm-license-own-work' => 'Ejen Woakj',
 );
@@ -6993,7 +7041,7 @@ $messages['pnb'] = array(
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;صرف',
 	'wm-license-gfdl-1.3-and-later' => "کاپی کرن، ونڈن تے بدلن دی ایس ڈوکومنٹ ل‏ی اجازت دتی جاندا اے ایناں '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3  شرطاں نال یا مگروں کسے وی چھپے ورین  [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] توں  بنا کسے انویرینٹ سیکشن دے، ناں فرنٹ کور لکھت تے ناں بیک کور لکھت دے۔ لسنس دی اک کاپی  سیکشن چ ہیگی اے  جیدا ناں اے ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''۔",
 	'wm-license-gfdl-1.3-only' => "کاپی کرن، ونڈن تے بدلن دی ایس ڈوکومنٹ ل‏ی اجازت دتی جاندا اے ایناں '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3  شرطاں نال صرف چھپے ورین  [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] توں  بنا کسے انویرینٹ سیکشن دے، ناں فرنٹ کور لکھت تے ناں بیک کور لکھت دے۔ لسنس دی اک کاپی  سیکشن چ ہیگی اے  جیدا ناں اے ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''۔",
-	'wm-license-gpl-text' => "اے کم [[{{int:wm-license-free-software-wiki-link}}|مفت سوفٹویر]] اے۔ تسیں اینوں ونڈ، یا بدل سکدے او ایس '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' شرط نال جیہڑی چھپی اے [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]؛ یا ورین 2 لسنس یا کوئی ہور ورین۔ ایہ کم ایس نغیت نال ونڈیا جاریا اے جے اے فیدامند ہووے گا بنا کسے وارنٹی دے۔ ویکھو  [{{int:wm-license-gpl-2-full-link}} version 2] and [{{int:wm-license-gpl-3-full-link}}  تے [{{int:wm-license-gpl-3-full-link}} version 3 of the GNU General Public License] ہور گلاں لئی۔",
+	'wm-license-gpl-text' => "اے کم [[{{int:wm-license-free-software-wiki-link}}|مفت سوفٹویر]] اے۔ تسیں اینوں ونڈ، یا بدل سکدے او ایس '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' شرط نال جیہڑی چھپی اے [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]؛ یا ورین 2 لسنس یا کوئی ہور ورین۔ ایہ کم ایس نغیت نال ونڈیا جاریا اے جے اے فیدامند ہووے گا بنا کسے وارنٹی دے۔ ویکھو  [{{int:wm-license-gpl-2-full-link}} version 2] and [{{int:wm-license-gpl-3-full-link}}  تے [{{int:wm-license-gpl-3-full-link}} version 3 of the GNU General Public License] ہور گلاں لئی۔", # Fuzzy
 	'wm-license-information-table-summary' => 'اک پوری تے ٹھیک ٹیبل جیدے چ فائل بارے دساں اے کی دسدی اے تے ایہ کنج بنائی گئی کاپی حق حالت تے سورس۔',
 	'wm-license-information-description' => 'تفصیل',
 	'wm-license-information-description-missing' => 'ایس فائل  ایدے بارے کوئی جانکاری نئیں دتی گئی تے لکدا اے جے ہور دساں وی پوریاں نئیں۔',
@@ -7027,13 +7075,15 @@ $messages['pnb'] = array(
 	'wm-license-self-multiple-licenses-select' => 'تسی اپنی مرضی دا لائسنس چن سکدے اوہ۔',
 );
 
-/** Pontic (Ποντιακά) */
+/** Pontic (Ποντιακά)
+ */
 $messages['pnt'] = array(
 	'wm-license-information-description' => 'Σχόλιον',
 	'wm-license-information-source' => 'Πηγήν',
 );
 
-/** Prussian (Prūsiskan) */
+/** Prussian (Prūsiskan)
+ */
 $messages['prg'] = array(
 	'wm-license-information-description' => 'Ebpeisāsenis',
 	'wm-license-information-source' => 'Aps',
@@ -7187,13 +7237,13 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author Andronimo
  * @author BrunaaAa
  * @author Capmo
  * @author Giro720
  * @author Hamilton Abreu
  * @author Luckas Blade
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'wikimedialicensetexts-desc' => 'Mensagens de licenciamento Wikimedia',
@@ -7332,13 +7382,15 @@ $messages['qu'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Munasqayki saqillayta akllariy.',
 );
 
-/** Romansh (rumantsch) */
+/** Romansh (rumantsch)
+ */
 $messages['rm'] = array(
 	'wm-license-information-description' => 'Descripziun',
 	'wm-license-information-source' => 'Funtauna',
 );
 
-/** Romani (Romani) */
+/** Romani (Romani)
+ */
 $messages['rmy'] = array(
 	'wm-license-free-software-wiki-link' => 'w:rmy:Mesto software',
 );
@@ -7918,35 +7970,41 @@ $messages['scn'] = array(
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:scn:Isercitu statunitenzi',
 );
 
-/** Scots (Scots) */
+/** Scots (Scots)
+ */
 $messages['sco'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:sco:GFDL',
 	'wm-license-information-source' => 'Soorce',
 );
 
-/** Sassaresu (Sassaresu) */
+/** Sassaresu (Sassaresu)
+ */
 $messages['sdc'] = array(
 	'wm-license-information-description' => 'Deschrizioni',
 	'wm-license-information-source' => 'Orìgini',
 );
 
-/** Northern Sami (sámegiella) */
+/** Northern Sami (sámegiella)
+ */
 $messages['se'] = array(
 	'wm-license-information-description' => 'Govvádus',
 );
 
-/** Cmique Itom (Cmique Itom) */
+/** Cmique Itom (Cmique Itom)
+ */
 $messages['sei'] = array(
 	'wm-license-information-description' => 'Discripcion',
 	'wm-license-information-source' => 'Sourcenam',
 );
 
-/** Samogitian (žemaitėška) */
+/** Samogitian (žemaitėška)
+ */
 $messages['sgs'] = array(
 	'wm-license-information-description' => 'Aprašīms',
 );
 
-/** Serbo-Croatian (srpskohrvatski / српскохрватски) */
+/** Serbo-Croatian (srpskohrvatski / српскохрватски)
+ */
 $messages['sh'] = array(
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:sh:Ratno zrakoplovstvo Sjedinjenih Država',
 	'wm-license-pd-wiki-link' => 'w:sh:Javno vlasništvo',
@@ -8200,9 +8258,9 @@ $messages['sl'] = array(
 	'wm-license-gfdl-1.2-only' => "To gradivo je dovoljeno kopirati, razširjati in/ali spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Licence GNU za rabo proste dokumentacije]]''', različica 1.2, samo kot jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil. Kopija licence je vključena v razdelek ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licenca GNU za rabo proste dokumentacije]]''.",
 	'wm-license-gfdl-1.2-only-header' => 'samo&nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "To gradivo je dovoljeno kopirati, razširjati in spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Licence GNU za rabo proste dokumentacije]]''', različica 1.3 ali katera koli poznejša, ki jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil. Kopija licence je vključena v razdelek ''[[{{int:wm-license-gfdl-full-1.3-link}}|Licenca GNU za rabo proste dokumentacije]]''.",
-	'wm-license-gfdl-1.3-only' => "To gradivo je dovoljeno kopirati, razširjati in spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Licence GNU za rabo proste dokumentacije]]''', različica 1.3, samo kot jo je objavila organizacija [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil. Kopija licence je vključena v razdelek ''[[{{int:wm-license-gfdl-full-1.3-link}}Licenca GNU za rabo proste dokumentacije]]''.",
+	'wm-license-gfdl-1.3-only' => "To gradivo je dovoljeno kopirati, razširjati in spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Licence GNU za rabo proste dokumentacije]]''', različica 1.3, samo kot jo je objavila organizacija [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil. Kopija licence je vključena v razdelek ''[[{{int:wm-license-gfdl-full-1.3-link}}Licenca GNU za rabo proste dokumentacije]]''.", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:sl:Dovoljenje GNU za rabo proste dokumentacije',
-	'wm-license-gpl-text' => "To delo spada med [[{{int:wm-license-free-software-wiki-link}}|prosto programje]]; lahko ga razširjate in spreminjate pod pogoji '''[[{{int:wm-license-gpl-wiki-link}}|Splošne javne licence GNU]]''' (GNU General Public License), kakršno je objavila organizacija [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] )bodisi različice 2 ali katere koli poznejše različice). To delo se razširja v upanju, da bo uporabno, vendar '''brez vsakršnega jamstva'''; tudi brez implicitnega jamstva '''cenovne vrednosti''' ali '''primernosti za določen namen'''. Podrobnosti navaja besedilo [{{int:wm-license-gpl-2-full-link}} različice 2] in [{{int:wm-license-gpl-3-full-link}} različice 3 Splošne javne licence GNU].",
+	'wm-license-gpl-text' => "To delo spada med [[{{int:wm-license-free-software-wiki-link}}|prosto programje]]; lahko ga razširjate in spreminjate pod pogoji '''[[{{int:wm-license-gpl-wiki-link}}|Splošne javne licence GNU]]''' (GNU General Public License), kakršno je objavila organizacija [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] )bodisi različice 2 ali katere koli poznejše različice). To delo se razširja v upanju, da bo uporabno, vendar '''brez vsakršnega jamstva'''; tudi brez implicitnega jamstva '''cenovne vrednosti''' ali '''primernosti za določen namen'''. Podrobnosti navaja besedilo [{{int:wm-license-gpl-2-full-link}} različice 2] in [{{int:wm-license-gpl-3-full-link}} različice 3 Splošne javne licence GNU].", # Fuzzy
 	'wm-license-gpl-wiki-link' => 'w:sl:GNU General Public License',
 	'wm-license-information-table-summary' => 'Standardizirana razpredelnica, ki nudi popolne informacije o datoteki, vključno z opisom kaj prikazuje in kako je bila narejena, stanjem avtorskih pravic in izvorom.',
 	'wm-license-information-description' => 'Opis',
@@ -8244,7 +8302,8 @@ $messages['sl'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Izberete lahko licenco po svoji izbiri.',
 );
 
-/** Lower Silesian (Schläsch) */
+/** Lower Silesian (Schläsch)
+ */
 $messages['sli'] = array(
 	'wm-license-information-description' => 'Beschreibung',
 	'wm-license-information-source' => 'Quelle',
@@ -8439,7 +8498,8 @@ $messages['sr-ec'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Изаберите лиценцу по вашем избору.',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
 	'wm-license-artwork-artist' => 'Umetnik',
@@ -8485,7 +8545,7 @@ $messages['sr-el'] = array(
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
 	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
 	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
-	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.",
+	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.", # Fuzzy
 	'wm-license-gfdl-1.2-only-header' => 'samo &nbsp;1.2',
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
@@ -8520,7 +8580,8 @@ $messages['sr-el'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
-/** Sranan Tongo (Sranantongo) */
+/** Sranan Tongo (Sranantongo)
+ */
 $messages['srn'] = array(
 	'wm-license-information-description' => 'Infrumasi',
 );
@@ -8537,7 +8598,8 @@ $messages['stq'] = array(
 	'wm-license-information-author' => 'Autor',
 );
 
-/** Sundanese (Basa Sunda) */
+/** Sundanese (Basa Sunda)
+ */
 $messages['su'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:su:Lisénsi Dokumén Bébas GNU',
 	'wm-license-information-description' => 'Pedaran',
@@ -8671,16 +8733,16 @@ $messages['sw'] = array(
 	'wm-license-artwork-title' => 'Jina',
 	'wm-license-book-edition' => 'Toleo',
 	'wm-license-book-editor' => 'Mhariri',
-	'wm-license-book-illustrator' => 'Mchoraji',
+	'wm-license-book-illustrator' => 'Mchoraji', # Fuzzy
 	'wm-license-book-language' => 'Lugha',
 	'wm-license-book-place-of-publication' => 'Mahali pa kuchapishwa',
 	'wm-license-book-publisher' => 'Mchapishaji',
-	'wm-license-book-series-title' => 'Jina la mfululizo',
-	'wm-license-book-start-this-book' => 'Mwanzo wa kitabu',
+	'wm-license-book-series-title' => 'Jina la mfululizo', # Fuzzy
+	'wm-license-book-start-this-book' => 'Mwanzo wa kitabu', # Fuzzy
 	'wm-license-book-title' => 'Kichwa',
 	'wm-license-book-translator' => 'Mfasiri',
 	'wm-license-book-year-of-publication' => 'Mwaka wa kuchapishwa',
-	'wm-license-creator-alternative-names' => 'Majina mbadala',
+	'wm-license-creator-alternative-names' => 'Majina mbadala', # Fuzzy
 	'wm-license-creator-description' => 'Maelezo',
 	'wm-license-creator-date-of-birth' => 'Tarehe ya Kuzaliwa',
 	'wm-license-creator-date-of-birth-and-death' => 'Tarehe ya kuzaliwa/kufariki',
@@ -8696,7 +8758,7 @@ $messages['sw'] = array(
 	'wm-license-gfdl-1.3-only' => "Ruhusa inakubalika kunakili, kusambaza na/au kurekebisha chini ya matakwa ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Toleo 1.3 tu ambalo litachapishwa na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lisilo na Sehemu Tofauti, lisilo na Maandishi-Kava-Kwa-Mbele, na lisilo na Maandishi-Kava-Kwa -Nyuma. Nakala ya hatimiliki inajumlishwa kwenye sehemu ilioitwa ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:sw:GNU Free Documentation License',
 	'wm-license-information-description' => 'Maelezo',
-	'wm-license-information-description-missing' => "Faili halina '''maelezo''', na linaweza kuwa linakosa habari nyingine.",
+	'wm-license-information-description-missing' => "Faili halina '''maelezo''', na linaweza kuwa linakosa habari nyingine.", # Fuzzy
 	'wm-license-information-source' => 'Chanzo',
 	'wm-license-information-source-missing' => "Faili inakosa habari ya '''chanzoi''' chake.",
 	'wm-license-information-date' => 'Tarehe',
@@ -8706,13 +8768,14 @@ $messages['sw'] = array(
 	'wm-license-information-permission-reusing-text' => 'Kutumia faili tena',
 	'wm-license-information-permission-see-below' => 'Angalia hapa chini.',
 	'wm-license-information-other-versions' => 'Matoleo mengine',
-	'wm-license-original-upload-log' => 'Kumbukumbu ya upakizaji wa asili',
+	'wm-license-original-upload-log' => 'Kumbukumbu ya upakizaji wa asili', # Fuzzy
 	'wm-license-own-work' => 'Kazi yangu',
 	'wm-license-pd-author-not-legally-possible' => 'Katika nchi zingine hii haiwezekani kisheria; kama ni hivyo:',
-	'wm-license-self-multiple-licenses-select' => 'Unaweza kuchagua leseni unazoziona vyema.',
+	'wm-license-self-multiple-licenses-select' => 'Unaweza kuchagua leseni unazoziona vyema.', # Fuzzy
 );
 
-/** Silesian (ślůnski) */
+/** Silesian (ślůnski)
+ */
 $messages['szl'] = array(
 	'wm-license-gpl-wiki-link' => 'w:szl:GNU General Public License',
 	'wm-license-information-description' => 'Uopis',
@@ -8834,7 +8897,7 @@ $messages['te'] = array(
 	'wm-license-creator-work-period' => 'కృతి కాలం',
 	'wm-license-creator-work-location' => 'కృతి ప్రాంతం',
 	'wm-license-fal-text' => "కాపీలెఫ్ట్: ఇది స్వేచ్ఛా కృతి; దీన్ని మీరు '''[[{{int:wm-license-fal-wiki-link}}|స్వేచ్ఛా కళ లైసెన్సు]]''' నియామాలకు లోబడి పునఃపంపిణీ చేయవచ్చు మరియు/లేదా మార్చుకోవచ్చు. ఈ లైసెన్సు యొక్క ప్రతిని [{{int:wm-license-fal-full-link}} కాపీలెఫ్ట్ అట్టిట్యూడ్ సైటు] లోనూ మరియు ఇతర సైట్లలోనూ చూడవచ్చు.",
-	'wm-license-gfdl-1.2-and-later' => "ఈ కృతి యొక్క కర్తనైన నేను, ఇక నుండీ ఈ కృతిని కాపీ చేసుకోవడానికి, పంచి పెట్టడానికి మరియు/లేదా మార్పులు-చేర్పులు చేసుకోవడానికి '''[[{{int:wm-license-gfdl-wiki-link}}|GFDL]]''', లైసెన్సు వెర్షను 1.2 లేదా దాని తరువాత [[{{int:wm-license-fsf-wiki-link}}|స్వేచ్చా సాఫ్టువేరు ఫౌండేషను]] విడుదలచేసే ఏ GFDL లైసెన్సు ద్వారానయినా అనుమతి ఇస్తున్నాను; ఈ కృతిలో మార్చకూడని బాగాలు లేవు, Front-Cover పాఠం లేదు, మరియు Back-Cover పాఠం లేదు. ఈ లైసెన్సు యొక్క పత్రం నఖలును \"[[{{int:wm-license-gfdl-full-1.2-link}}|జిన్‌యూ ఉచిత డాక్యుమెంటేషను లైసెన్సు]]\" అని పిలుస్తున్న విభాగంలో చేర్చారు.",
+	'wm-license-gfdl-1.2-and-later' => "ఈ కృతి యొక్క కర్తనైన నేను, ఇక నుండీ ఈ కృతిని కాపీ చేసుకోవడానికి, పంచి పెట్టడానికి మరియు/లేదా మార్పులు-చేర్పులు చేసుకోవడానికి '''[[{{int:wm-license-gfdl-wiki-link}}|GFDL]]''', లైసెన్సు వెర్షను 1.2 లేదా దాని తరువాత [[{{int:wm-license-fsf-wiki-link}}|స్వేచ్చా సాఫ్టువేరు ఫౌండేషను]] విడుదలచేసే ఏ GFDL లైసెన్సు ద్వారానయినా అనుమతి ఇస్తున్నాను; ఈ కృతిలో మార్చకూడని బాగాలు లేవు, Front-Cover పాఠం లేదు, మరియు Back-Cover పాఠం లేదు. ఈ లైసెన్సు యొక్క పత్రం నఖలును \"[[{{int:wm-license-gfdl-full-1.2-link}}|జిన్‌యూ ఉచిత డాక్యుమెంటేషను లైసెన్సు]]\" అని పిలుస్తున్న విభాగంలో చేర్చారు.", # Fuzzy
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;మాత్రమే',
 	'wm-license-gfdl-wiki-link' => 'w:te:GNU Free Documentation License',
 	'wm-license-information-table-summary' => 'దస్త్రం గురించి పూర్తి సమాచారాన్ని, అది ఏమి చూపిస్తుంది మరియు దాన్ని ఎలా తయారుచేసారు అన్న వివరణ, కాపీహక్కుల స్థితి మరియు మూలాలతో సహా, అందించే ఒక ప్రామాణిక పట్టిక.',
@@ -8867,7 +8930,8 @@ $messages['te'] = array(
 	'wm-license-self-multiple-licenses-select' => 'పైవాటిలో మీకు నచ్చిన లైసెన్సునుతో ఈ కృతిని వాడుకోవచ్చు.',
 );
 
-/** Tetum (tetun) */
+/** Tetum (tetun)
+ */
 $messages['tet'] = array(
 	'wm-license-information-date' => 'Tempu',
 	'wm-license-information-author' => 'Autór',
@@ -8878,7 +8942,8 @@ $messages['tg'] = array(
 	'wm-license-free-software-wiki-link' => 'w:tg:Барномаҳои озод',
 );
 
-/** Tajik (Cyrillic script) (тоҷикӣ) */
+/** Tajik (Cyrillic script) (тоҷикӣ)
+ */
 $messages['tg-cyrl'] = array(
 	'wm-license-information-description' => 'Тавсифот',
 	'wm-license-information-source' => 'Манбаъ',
@@ -8886,7 +8951,8 @@ $messages['tg-cyrl'] = array(
 	'wm-license-information-author' => 'Муаллиф',
 );
 
-/** Tajik (Latin script) (tojikī) */
+/** Tajik (Latin script) (tojikī)
+ */
 $messages['tg-latn'] = array(
 	'wm-license-information-description' => 'Tavsifot',
 	'wm-license-information-source' => "Manba'",
@@ -8920,7 +8986,7 @@ $messages['th'] = array(
 	'wm-license-creator-work-location' => 'สถานที่สร้างสรรค์งาน',
 	'wm-license-fsf-wiki-link' => 'w:th:มูลนิธิซอฟต์แวร์เสรี',
 	'wm-license-free-software-wiki-link' => 'w:th:ซอฟต์แวร์เสรี',
-	'wm-license-gfdl-1.2-and-later' => 'ผลงานชิ้นนี้อยู่ภายใต้การแจกจ่ายของสัญญาอนุญาตเอกสารเสรีของกนู หรือ [[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]] ซึ่งอนุญาตให้ทำการคัดลอก แจกจ่าย และ/หรือ แก้ไขเอกสารนี้ ภายใต้ข้อความของ GFDL รุ่น 1.3 หรือรุ่นใดๆ นับจากนี้  โดยไม่มีการแก้ไขส่วนใดๆ และไม่มีข้อความปกหน้าและปกหลัง ดูรายละเอียดที่ [[:th:วิกิพีเดีย:ข้อความปฏิเสธความรับผิดชอบ|ข้อปฏิเสธความรับผิดชอบ]]',
+	'wm-license-gfdl-1.2-and-later' => 'ผลงานชิ้นนี้อยู่ภายใต้การแจกจ่ายของสัญญาอนุญาตเอกสารเสรีของกนู หรือ [[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]] ซึ่งอนุญาตให้ทำการคัดลอก แจกจ่าย และ/หรือ แก้ไขเอกสารนี้ ภายใต้ข้อความของ GFDL รุ่น 1.3 หรือรุ่นใดๆ นับจากนี้  โดยไม่มีการแก้ไขส่วนใดๆ และไม่มีข้อความปกหน้าและปกหลัง ดูรายละเอียดที่ [[:th:วิกิพีเดีย:ข้อความปฏิเสธความรับผิดชอบ|ข้อปฏิเสธความรับผิดชอบ]]', # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:th:สัญญาอนุญาตเอกสารเสรีของกนู',
 	'wm-license-gpl-wiki-link' => 'w:th:สัญญาอนุญาตสาธารณะทั่วไปของกนู',
 	'wm-license-information-table-summary' => 'ตารางมาตรฐาน สำหรับให้ข้อมูลทั้งหมดเกี่ยวกับไฟล์ เช่น สิ่งที่อยู่ในภาพ วิธีการสร้างสรรค์งาน แหล่งที่มาและสถานะลิขสิทธิ์',
@@ -9085,7 +9151,8 @@ $messages['tl'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Maaari kang pumili ng lisensyang nais mo.',
 );
 
-/** Tongan (lea faka-Tonga) */
+/** Tongan (lea faka-Tonga)
+ */
 $messages['to'] = array(
 	'wm-license-information-description' => 'Fakamahino',
 	'wm-license-information-source' => 'Tupunga',
@@ -9199,6 +9266,13 @@ Lisansın bir kopyası, ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Be
 	'wm-license-self-multiple-licenses-select' => 'İstediğiniz lisansı seçebilirsiniz.',
 );
 
+/** Turoyo (Ṫuroyo)
+ * @author Ariyo
+ */
+$messages['tru'] = array(
+	'wm-license-book-language' => 'Leşono',
+);
+
 /** Tatar (Татарча/Tatarça) */
 $messages['tt'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:tt:GNU/İrekle İstälek Röxsätnämäse',
@@ -9229,7 +9303,8 @@ $messages['tt-latn'] = array(
 	'wm-license-information-source' => 'Çığanağı',
 );
 
-/** Tuvinian (тыва дыл) */
+/** Tuvinian (тыва дыл)
+ */
 $messages['tyv'] = array(
 	'wm-license-information-description' => 'Тодарадып бижээни',
 	'wm-license-information-source' => 'Эгези',
@@ -9390,7 +9465,7 @@ $messages['ur'] = array(
 	'wm-license-creator-work-location' => 'کام کی جگہ',
 	'wm-license-free-software-wiki-link' => 'w:ur:آزاد مصنع‌لطیف',
 	'wm-license-gfdl-1.2-and-later' => 'آپکو جی این یو آزاد مسوداتی اجازہ کے تحت اس دستاویز کو نقل، تقسیم اور/ یا ترمیم کی اجازت دی جاتی ہے۔
-اس ضابطہ کی نقل جی این یو آزاد مسوداتی اجازہ کے عنوان سے میسر ہے۔',
+اس ضابطہ کی نقل جی این یو آزاد مسوداتی اجازہ کے عنوان سے میسر ہے۔', # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:ur:جی این یو آزاد مسوداتی اجازہ',
 	'wm-license-information-description' => 'تفصیل',
 	'wm-license-information-source' => 'ماخذ',
@@ -9597,7 +9672,8 @@ $messages['vi'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Bạn có thể tùy ý lựa chọn giấy phép.',
 );
 
-/** West-Vlams (West-Vlams) */
+/** West-Vlams (West-Vlams)
+ */
 $messages['vls'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:vls:GFDL',
 );
@@ -9614,14 +9690,15 @@ $messages['vo'] = array(
 	'wm-license-artwork-references' => 'Jons',
 	'wm-license-artwork-id' => 'Numat jafida',
 	'wm-license-artwork-source' => 'Fonät/Fotografan',
-	'wm-license-gfdl-1.2-and-later' => "Däl pagevon ad kopiedön, seagivön e/u votükön dokümi at ma '''[[{{int:wm-license-gfdl-wiki-link}}|Dälazöt ad Dokümam Libik: GNU]]''', Fomam: 1.2 u nulikum fa el [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] (Stitod: Nünömaprograms libik); nen diläds nevotükovik, nen vödems tegapada balid, e leigo nen vödems tegapada lätik.",
+	'wm-license-gfdl-1.2-and-later' => "Däl pagevon ad kopiedön, seagivön e/u votükön dokümi at ma '''[[{{int:wm-license-gfdl-wiki-link}}|Dälazöt ad Dokümam Libik: GNU]]''', Fomam: 1.2 u nulikum fa el [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] (Stitod: Nünömaprograms libik); nen diläds nevotükovik, nen vödems tegapada balid, e leigo nen vödems tegapada lätik.", # Fuzzy
 	'wm-license-information-description' => 'Bepenam',
 	'wm-license-information-source' => 'Fon',
 	'wm-license-information-date' => 'Dät',
 	'wm-license-information-author' => 'Lautan',
 );
 
-/** Võro (Võro) */
+/** Võro (Võro)
+ */
 $messages['vro'] = array(
 	'wm-license-information-description' => 'Seletüs',
 );
@@ -9686,13 +9763,15 @@ $messages['wa'] = array(
 	'wm-license-self-multiple-licenses-select' => "Voz ploz tchoezi l' licince ki vos vloz eployî.",
 );
 
-/** Wolof (Wolof) */
+/** Wolof (Wolof)
+ */
 $messages['wo'] = array(
 	'wm-license-information-description' => 'Faramfacce',
 	'wm-license-information-source' => 'Gongikuwaay',
 );
 
-/** Wu (吴语) */
+/** Wu (吴语)
+ */
 $messages['wuu'] = array(
 	'wm-license-free-software-wiki-link' => 'w:wuu:自由軟件',
 	'wm-license-gfdl-wiki-link' => 'w:wuu:GNU自由文档许可证文本',
@@ -9701,7 +9780,8 @@ $messages['wuu'] = array(
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:wuu:美国空军',
 );
 
-/** Kalmyk (хальмг) */
+/** Kalmyk (хальмг)
+ */
 $messages['xal'] = array(
 	'wm-license-information-description' => 'Тодлҗ бичлһн',
 );
@@ -9826,7 +9906,8 @@ $messages['yue'] = array(
 	'wm-license-self-one-license' => '我，呢份作品嘅作者，決定用以下許可發佈呢件作品：',
 );
 
-/** Zeeuws (Zeêuws) */
+/** Zeeuws (Zeêuws)
+ */
 $messages['zea'] = array(
 	'wm-license-information-source' => 'Bron',
 );
@@ -10082,8 +10163,8 @@ $messages['zh-yue'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:zh-yue:GFDL',
 );
 
-/** Zulu (isiZulu) */
+/** Zulu (isiZulu)
+ */
 $messages['zu'] = array(
 	'wm-license-information-source' => 'Umthombo',
 );
-

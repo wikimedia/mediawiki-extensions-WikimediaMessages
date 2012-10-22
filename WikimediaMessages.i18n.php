@@ -259,6 +259,8 @@ $messages['qqq'] = array(
 
 {{Identical|Donate}}",
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
+	'sidebar' => '{{notranslate}}',
+	'robots.txt' => '{{notranslate}}',
 	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Creator:Heinrich_Hoerle Example])',
 	'nstab-institution' => 'Text on the tab of pages in the "Institution" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Institution:Wallraf-Richartz-Museum Example])',
 	'nstab-sequence' => 'Text on the tab of pages in the "Sequence" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Sequence:Cats Example])',
@@ -447,37 +449,6 @@ This message is displayed on the site footer and is for the new licensing policy
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 );
 
-/** Säggssch (Säggssch)
- * @author Thogo
- */
-$messages['sxu'] = array(
-	'sitesupport' => 'Schbändn',
-	'group-steward' => 'Schdewards',
-	'group-steward-member' => 'Schdeward',
-	'grouppage-steward' => '{{ns:project}}:Schdewards',
-);
-
-/** Test (site admin only) (Test (site admin only)) */
-$messages['test'] = array(
-	'sitesupport-url' => 'x',
-	'sitesupport' => 'x',
-	'tooltip-n-sitesupport' => 'x',
-);
-
-/** Behase Mentawei (Behase Mentawei)
- * @author Päge bintën
- */
-$messages['mwv'] = array(
-	'tooltip-n-sitesupport' => 'Dukung kami',
-);
-
-/** Niuean (ko e vagahau Niuē)
- * @author Jose77
- */
-$messages['niu'] = array(
-	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
-);
-
 /** Abkhazian (Аҧсшәа)
  * @author Temuri rajavi
  */
@@ -515,89 +486,89 @@ $messages['af'] = array(
 	'nstab-sequence' => 'Volgorde',
 	'nstab-timedtext' => 'Ondertitel',
 	'group-Image-reviewer' => 'Beeld-beoordelaars',
-	'group-Image-reviewer-member' => 'beeld-beoordelaar',
+	'group-Image-reviewer-member' => 'beeld-beoordelaar', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Beeld beoordelaars',
 	'group-OTRS-member' => 'OTRS-lede',
-	'group-OTRS-member-member' => 'OTRS-lid',
+	'group-OTRS-member-member' => 'OTRS-lid', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS-lede',
 	'group-abusefilter' => 'misbruikfilter-redakteurs',
-	'group-abusefilter-member' => 'misbruikfilter-redakteur',
+	'group-abusefilter-member' => 'misbruikfilter-redakteur', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Misbruikfilter-redakteurs',
 	'group-accountcreator' => 'Gebruikersrekening-skeppers',
-	'group-accountcreator-member' => 'gebruikersrekening-skepper',
+	'group-accountcreator-member' => 'gebruikersrekening-skepper', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Gebruikersrekening-skeppers',
 	'group-arbcom' => 'Arbitrasie komiteelede',
-	'group-arbcom-member' => 'arbitrasie komiteelid',
+	'group-arbcom-member' => 'arbitrasie komiteelid', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Arbitrasiekomiteelede',
 	'group-autopatrolled' => 'Autopatrollers',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrollers',
 	'group-autoreviewer' => 'Autoreviewers',
 	'group-bigexport' => 'Groot eksporteurs',
-	'group-bigexport-member' => 'groot eksporteur',
+	'group-bigexport-member' => 'groot eksporteur', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Groot eksporteurs',
 	'group-botadmin' => 'Bots met administrateur regte',
 	'group-confirmed' => 'bevestigde gebruikers',
-	'group-confirmed-member' => 'bevestigde gebruiker',
+	'group-confirmed-member' => 'bevestigde gebruiker', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Bevestigde gebruikers',
 	'group-editprotected' => 'Wysigers van beskermde bladsye',
-	'group-editprotected-member' => 'wysigers van beskermde bladsye',
+	'group-editprotected-member' => 'wysigers van beskermde bladsye', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Wysigers van beskermde bladsye',
 	'group-eliminator' => 'Opruimers',
-	'group-eliminator-member' => 'opruimer',
+	'group-eliminator-member' => 'opruimer', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Opruimer',
 	'group-filemover' => 'Lêerskuiwers',
-	'group-filemover-member' => 'lêerskuiwer',
+	'group-filemover-member' => 'lêerskuiwer', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Lêerskuiwers',
 	'group-flood' => 'botgebruikers',
-	'group-flood-member' => 'botgebruiker',
+	'group-flood-member' => 'botgebruiker', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Botgebruikers',
 	'group-founder' => 'Stigters',
-	'group-founder-member' => 'Stigter',
+	'group-founder-member' => 'Stigter', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Grondleggers',
 	'group-import' => 'Importeurders',
-	'group-import-member' => 'Importeurder',
+	'group-import-member' => 'Importeurder', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importeurders',
 	'group-interface_editor' => 'Koppelvlakontwerpers',
-	'group-interface_editor-member' => 'koppelvlakontwerper',
+	'group-interface_editor-member' => 'koppelvlakontwerper', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Koppelvlakontwerpers',
 	'group-ipblock-exempt' => 'uitgesonderdes van IP-adresblokkades',
-	'group-ipblock-exempt-member' => 'uitgesonder van IP-adresblokkades',
+	'group-ipblock-exempt-member' => 'uitgesonder van IP-adresblokkades', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uitgesonderdes van IP-adresblokkades',
 	'group-patroller' => 'Kontroleurs',
-	'group-patroller-member' => 'Kontroleur',
+	'group-patroller-member' => 'Kontroleur', # Fuzzy
 	'group-researcher' => 'Navorsers',
-	'group-researcher-member' => 'navorser',
+	'group-researcher-member' => 'navorser', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Navorsers',
 	'group-rollbacker' => 'Terugrollers',
-	'group-rollbacker-member' => 'terugroller',
+	'group-rollbacker-member' => 'terugroller', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Terugrollers',
 	'group-transwiki' => 'Transwiki-importeurs',
-	'group-transwiki-member' => 'transwiki-importeur',
+	'group-transwiki-member' => 'transwiki-importeur', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
 	'group-trusted' => 'Vertroude gebruikers',
-	'group-trusted-member' => 'vertroude gebruiker',
+	'group-trusted-member' => 'vertroude gebruiker', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Vertroude gebruikers',
 	'group-Global_bot' => 'Globale botte',
-	'group-Global_bot-member' => 'globale bot',
+	'group-Global_bot-member' => 'globale bot', # Fuzzy
 	'group-Global_rollback' => 'Globale terugrollers',
-	'group-Global_rollback-member' => 'globale terugroller',
+	'group-Global_rollback-member' => 'globale terugroller', # Fuzzy
 	'group-Global_sysops' => 'Globale beheerders',
-	'group-Global_sysops-member' => 'globale beheerder',
+	'group-Global_sysops-member' => 'globale beheerder', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsmanne',
-	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Ombudsmen-member' => 'ombudsman', # Fuzzy
 	'group-Staff' => 'Personeel',
 	'group-Staff-member' => 'Personeellid',
 	'group-editinterface' => 'Koppelvlakontwerpers',
-	'group-editinterface-member' => 'koppelvlak-redakteur',
+	'group-editinterface-member' => 'koppelvlak-redakteur', # Fuzzy
 	'group-steward' => 'Waarde',
-	'group-steward-member' => 'Waard',
+	'group-steward-member' => 'Waard', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Waarde',
 	'group-sysadmin' => 'Stelseladministrateurs',
-	'group-sysadmin-member' => 'Stelseladministrateur',
+	'group-sysadmin-member' => 'Stelseladministrateur', # Fuzzy
 	'group-coder' => 'Programmeerders',
-	'group-coder-member' => 'programmeerder',
+	'group-coder-member' => 'programmeerder', # Fuzzy
 	'group-inactive' => 'Onaktiewe gebruikers',
-	'group-inactive-member' => 'onaktiewe gebruiker',
+	'group-inactive-member' => 'onaktiewe gebruiker', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Onaktiewe gebruikers',
 	'wikimedia-copyright' => "Die teks is beskikbaar onder die <a href='//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a> lisensie. Dit is moontlik dat aanvullende voorwaardes van toepassing is. Sien die <a href='//wikimediafoundation.org/wiki/Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
 	'cant-delete-main-page' => 'Jy kan nie verwyder of skuif die hoofblad.',
@@ -615,85 +586,85 @@ $messages['aln'] = array(
 	'tooltip-n-sitesupport' => 'Përkrahnani',
 	'specialpages-group-contribution' => 'Kontributi/fundraiser',
 	'group-abusefilter' => 'Redaktuesit e filtrave të keqpërdorimit',
-	'group-abusefilter-member' => 'redaktues i filtrave të keqpërdorimit',
+	'group-abusefilter-member' => 'redaktues i filtrave të keqpërdorimit', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Redaktuesit e filtrave të keqpërdorimit',
 	'group-accountcreator' => 'Krijuesit e llogarive',
-	'group-accountcreator-member' => 'krijues i llogarisë',
+	'group-accountcreator-member' => 'krijues i llogarisë', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Krijues llogarish',
 	'group-arbcom' => 'Anëtarët e komisionit Arbitrazhi',
-	'group-arbcom-member' => 'komisioni arbitrazhi anëtar',
+	'group-arbcom-member' => 'komisioni arbitrazhi anëtar', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:anëtarët e komisionit arbitrazhit',
 	'group-autopatrolled' => 'Autopatrollers',
-	'group-autopatrolled-member' => 'autopatrulluesi',
+	'group-autopatrolled-member' => 'autopatrulluesi', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrullues',
 	'group-autoreviewer' => 'Autorishikuesit',
-	'group-autoreviewer-member' => 'autorishikues',
+	'group-autoreviewer-member' => 'autorishikues', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorishikuesit',
 	'group-bigexport' => 'Eksportuesit e mëdhêj',
-	'group-bigexport-member' => 'eksportues i madh',
+	'group-bigexport-member' => 'eksportues i madh', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Eksportuesit e mëdhêj',
 	'group-confirmed' => 'përdoruesit e konfirmuar',
-	'group-confirmed-member' => 'përdorues konfirmoi',
+	'group-confirmed-member' => 'përdorues konfirmoi', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:përdoruesit e konfirmoi',
 	'group-editprotected' => 'Redaktorët e mbrojtura faqe',
-	'group-editprotected-member' => 'mbrojtur redaktor faqe',
+	'group-editprotected-member' => 'mbrojtur redaktor faqe', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:redaktorët e mbrojtura faqe',
 	'group-filemover' => 'Levizesit File',
-	'group-filemover-member' => 'file forcë lëvizëse',
+	'group-filemover-member' => 'file forcë lëvizëse', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Levizesit File',
 	'group-flood' => 'përdoruesit Bot',
-	'group-flood-member' => 'përdorues bot',
+	'group-flood-member' => 'përdorues bot', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:përdoruesit Bot',
 	'group-founder' => 'Themeluesit',
-	'group-founder-member' => 'themelues',
+	'group-founder-member' => 'themelues', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Themeluesit',
 	'group-import' => 'Importuesit',
-	'group-import-member' => 'importues',
+	'group-import-member' => 'importues', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importuesit',
 	'group-interface_editor' => 'redaktorët Interface',
-	'group-interface_editor-member' => 'editor interface',
+	'group-interface_editor-member' => 'editor interface', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:redaktorët Interface',
 	'group-ipblock-exempt' => "Përjashtimet e bllokimeve të IP've",
-	'group-ipblock-exempt-member' => "përjashtim nga bllokimi i IP've",
+	'group-ipblock-exempt-member' => "përjashtim nga bllokimi i IP've", # Fuzzy
 	'grouppage-ipblock-exempt' => "{{ns:project}}:përjashtim prej bllokimit të IP've",
 	'group-patroller' => 'Patrollers',
-	'group-patroller-member' => 'patroller',
+	'group-patroller-member' => 'patroller', # Fuzzy
 	'group-rollbacker' => 'Mbrapakthyesit',
-	'group-rollbacker-member' => 'mbrapakthyes',
+	'group-rollbacker-member' => 'mbrapakthyes', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Mbrapakthyesit',
 	'group-transwiki' => 'Importuesit transwiki',
-	'group-transwiki-member' => 'importues transwiki',
+	'group-transwiki-member' => 'importues transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Importuesit transwiki',
 	'group-trusted' => 'përdoruesit e Besuar',
-	'group-trusted-member' => 'përdorues besuar',
+	'group-trusted-member' => 'përdorues besuar', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:përdoruesit e Besuar',
 	'group-Global_bot' => 'Botat global',
-	'group-Global_bot-member' => 'bot global',
+	'group-Global_bot-member' => 'bot global', # Fuzzy
 	'group-Global_rollback' => 'Mbrapakthyesit global',
-	'group-Global_rollback-member' => 'mbrapakthyes global',
+	'group-Global_rollback-member' => 'mbrapakthyes global', # Fuzzy
 	'group-Global_sysops' => 'sysops Global',
-	'group-Global_sysops-member' => 'sysop globale',
+	'group-Global_sysops-member' => 'sysop globale', # Fuzzy
 	'group-Ombudsmen' => 'Ombudspersonat',
-	'group-Ombudsmen-member' => 'ombudsperson',
+	'group-Ombudsmen-member' => 'ombudsperson', # Fuzzy
 	'group-Staff' => 'Staffi',
 	'group-Staff-member' => 'antar i staffit',
 	'group-editinterface' => 'redaktorët Interface',
-	'group-editinterface-member' => 'editor interface',
+	'group-editinterface-member' => 'editor interface', # Fuzzy
 	'group-steward' => 'Përcjellësit',
-	'group-steward-member' => 'përcjellës',
+	'group-steward-member' => 'përcjellës', # Fuzzy
 	'group-sysadmin' => 'Administruesit e sistemit',
-	'group-sysadmin-member' => 'administrues i sistemit',
+	'group-sysadmin-member' => 'administrues i sistemit', # Fuzzy
 	'group-coder' => 'Programerat',
-	'group-coder-member' => 'programer',
+	'group-coder-member' => 'programer', # Fuzzy
 	'group-inactive' => 'Përdoruesit joaktiv',
-	'group-inactive-member' => 'përdorues joaktiv',
+	'group-inactive-member' => 'përdorues joaktiv', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Përdoruesit joaktiv',
 	'wikimedia-copyright' => 'Ky tekst âsht vû në dispozicion nën licencën <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 mundet me pasë klauzola shtesë që vijnë në shprehje.
 Shih <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e përdorimit</a> për mâ shumë detaje.',
 	'wikimedia-copyrightwarning' => "Me t'regjistrue faqen, ju pajtoheni me lëshue kontributin tuej parevokueshëm nën [//creativecommons.org/licenses/by-sa/3.0/ Licencën Creative Commons Attribution/Share-Alike 3.0] dhe [//www.gnu.org/copyleft/fdl.html GFDL].
 Pajtoheni që ri-përdoruesit mujnë me shprehë mirënjohjen së paku përmjet nji vegze apo URL'je te faqja, në të cilën po kontribuoni.
-Shih [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.",
+Shih [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.", # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Nëse nuk doni që shkrimi juej me mujtë me u redaktue dhe ridistribuue arbitrarisht, mos postoni këtu.
 Nëse nuk e keni shkrue këtë shkrim vetë, duheni me u sigurue që ai âsht i disponueshëm nën kushtet që përmbahen në [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit], dhe me u pajtue për me iu përmbajtë tâna kërkesave të licencimit.',
 );
@@ -705,7 +676,7 @@ $messages['am'] = array(
 	'sitesupport' => 'መዋጮ ለመስጠት',
 	'tooltip-n-sitesupport' => 'የገንዘብ ስጦታ ለዊኪሜድያ ይስጡ',
 	'group-founder' => 'መስራች',
-	'group-founder-member' => 'መስራች',
+	'group-founder-member' => 'መስራች', # Fuzzy
 );
 
 /** Aragonese (aragonés)
@@ -836,44 +807,44 @@ $messages['ang'] = array(
 	'wikimediamessages-desc' => 'Rihtƿikiȝemyndes ȝeƿritu',
 	'sitesupport' => 'Ȝieldȝiefan',
 	'group-autopatrolled' => 'Selffremmende ƿeardas',
-	'group-autopatrolled-member' => 'selffremmende ƿeard',
+	'group-autopatrolled-member' => 'selffremmende ƿeard', # Fuzzy
 	'group-autoreviewer' => 'Selffremmende dēmendas',
-	'group-autoreviewer-member' => 'selffremmende dēmend',
+	'group-autoreviewer-member' => 'selffremmende dēmend', # Fuzzy
 	'group-bigexport' => 'Grēat ūtsenderas',
-	'group-bigexport-member' => 'grēat ūtsendere',
+	'group-bigexport-member' => 'grēat ūtsendere', # Fuzzy
 	'group-editprotected' => 'Borgena sīdena ādihteras',
-	'group-editprotected-member' => 'Borgen sīde ādihtend',
+	'group-editprotected-member' => 'Borgen sīde ādihtend', # Fuzzy
 	'group-flood' => 'Searuþrælisc brūcendas',
-	'group-flood-member' => 'searuþrælisc brūcend',
+	'group-flood-member' => 'searuþrælisc brūcend', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Searuþrælisc brūcendas',
 	'group-founder' => 'Onstelleras',
-	'group-founder-member' => 'onstellere',
+	'group-founder-member' => 'onstellere', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Onstelleras',
 	'group-import' => 'Inbringeras',
-	'group-import-member' => 'inbringere',
+	'group-import-member' => 'inbringere', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Inbringeras',
 	'group-interface_editor' => 'Ānsīene ādihtendas',
-	'group-interface_editor-member' => 'ānsīene ādihtend',
+	'group-interface_editor-member' => 'ānsīene ādihtend', # Fuzzy
 	'group-patroller' => 'Ƿeardmenn',
-	'group-patroller-member' => 'ƿeard',
+	'group-patroller-member' => 'ƿeard', # Fuzzy
 	'group-transwiki' => 'Ȝeondƿiki inbringeras',
-	'group-transwiki-member' => 'ȝeondƿiki inbringere',
+	'group-transwiki-member' => 'ȝeondƿiki inbringere', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Ȝeondƿikian inbringeras',
 	'group-trusted' => 'Betrēoƿede brūcendas',
-	'group-trusted-member' => 'betrēoƿed brūcend',
+	'group-trusted-member' => 'betrēoƿed brūcend', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Betrēoƿede brūcendas',
 	'group-Global_bot' => 'Ƿorulde searuþralas',
-	'group-Global_bot-member' => 'ƿorulde searuþræl',
+	'group-Global_bot-member' => 'ƿorulde searuþræl', # Fuzzy
 	'group-Global_sysops' => 'Ƿorulde beƿitendas',
-	'group-Global_sysops-member' => 'ƿorulde betƿitend',
+	'group-Global_sysops-member' => 'ƿorulde betƿitend', # Fuzzy
 	'group-editinterface' => 'Ānsīene ādihteras',
-	'group-editinterface-member' => 'ānsīene ādihtend',
+	'group-editinterface-member' => 'ānsīene ādihtend', # Fuzzy
 	'group-steward' => 'Stiȝƿeardas',
-	'group-steward-member' => 'stiȝƿeard',
+	'group-steward-member' => 'stiȝƿeard', # Fuzzy
 	'group-sysadmin' => 'Endebyrdnesse tōþeȝnas',
-	'group-sysadmin-member' => 'endebyrdnesse tōþeȝn',
+	'group-sysadmin-member' => 'endebyrdnesse tōþeȝn', # Fuzzy
 	'group-inactive' => 'Sleace brūcendas',
-	'group-inactive-member' => 'sleac brūcend',
+	'group-inactive-member' => 'sleac brūcend', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Sleace brūcendas',
 );
 
@@ -893,6 +864,7 @@ $messages['ar'] = array(
 	'sitesupport' => 'تبرع',
 	'tooltip-n-sitesupport' => 'ادعمنا',
 	'specialpages-group-contribution' => 'المساهمات/جمع التبرعات',
+	'robots.txt' => '# السطور هنا ستتم إضافتها إلى robots.txt العام',
 	'nstab-creator' => 'المنشئ',
 	'nstab-institution' => 'مؤسسة',
 	'nstab-sequence' => 'تتابع',
@@ -1052,74 +1024,75 @@ $messages['arz'] = array(
 	'sitesupport' => 'التبرعات',
 	'tooltip-n-sitesupport' => 'ساندنا',
 	'specialpages-group-contribution' => 'المساهمين/جامعين التبرعات',
+	'robots.txt' => '# السطور هنا ستتم إضافتها إلى robots.txt العام',
 	'group-abusefilter' => 'معدلين فيلتر الاساءه',
-	'group-abusefilter-member' => 'محرر فيلتر الاساءه',
+	'group-abusefilter-member' => 'محرر فيلتر الاساءه', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:محررين فيلتر الاساءه',
 	'group-accountcreator' => 'مؤسسين الحسابات',
-	'group-accountcreator-member' => 'مؤسس حساب',
+	'group-accountcreator-member' => 'مؤسس حساب', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:منشئين الحسابات',
 	'group-autopatrolled' => 'مراجعين أوتوماتيكى',
-	'group-autopatrolled-member' => 'اوتوباترولار',
+	'group-autopatrolled-member' => 'اوتوباترولار', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:اوتوباترولارز',
 	'group-autoreviewer' => 'اوتوريفيورات',
-	'group-autoreviewer-member' => 'مراجع اوتوماتيكى',
+	'group-autoreviewer-member' => 'مراجع اوتوماتيكى', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:مراجعين اوتوماتيكيين',
 	'group-bigexport' => 'المصدرين الكبار',
-	'group-bigexport-member' => 'مصدر كبير',
+	'group-bigexport-member' => 'مصدر كبير', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:مصدرين كبار',
 	'group-confirmed' => 'يوزرات متأكدين',
-	'group-confirmed-member' => 'يوزر متأكد',
+	'group-confirmed-member' => 'يوزر متأكد', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:يوزرات متأكدين',
 	'group-flood' => 'يوزرز بوت',
-	'group-flood-member' => 'يوزر بوت',
+	'group-flood-member' => 'يوزر بوت', # Fuzzy
 	'group-founder' => 'مؤسسين',
-	'group-founder-member' => 'مؤسس',
+	'group-founder-member' => 'مؤسس', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:مؤسسين',
 	'group-import' => 'مستوردين',
-	'group-import-member' => 'مستورد',
+	'group-import-member' => 'مستورد', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:مستوردين',
 	'group-ipblock-exempt' => 'مستثنيين من منع الااى بى',
-	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى',
+	'group-ipblock-exempt-member' => 'مستثنى من منع الاايبى', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء من منع الااى بى',
 	'group-patroller' => 'مراجعون',
-	'group-patroller-member' => 'مراجع',
+	'group-patroller-member' => 'مراجع', # Fuzzy
 	'group-rollbacker' => 'مسترجعين',
-	'group-rollbacker-member' => 'مسترجع',
+	'group-rollbacker-member' => 'مسترجع', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:مسترجعين',
 	'group-transwiki' => 'مستوردين عبر الويكى',
-	'group-transwiki-member' => 'مستورد عبر الويكى',
+	'group-transwiki-member' => 'مستورد عبر الويكى', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:مستوردين عبر الويكى',
 	'group-trusted' => 'مستخدمين موثوقين',
-	'group-trusted-member' => 'مستخدم موثوق',
+	'group-trusted-member' => 'مستخدم موثوق', # Fuzzy
 	'group-Global_bot' => 'بوتات عامه',
-	'group-Global_bot-member' => 'بوت عام',
+	'group-Global_bot-member' => 'بوت عام', # Fuzzy
 	'group-Global_rollback' => 'مسترجعين عامين',
-	'group-Global_rollback-member' => 'مسترجع عام',
+	'group-Global_rollback-member' => 'مسترجع عام', # Fuzzy
 	'grouppage-Global_rollback' => 'm:Global rollback/ar',
 	'group-Ombudsmen' => 'اومبادزمين',
-	'group-Ombudsmen-member' => 'اومبدادزمان',
+	'group-Ombudsmen-member' => 'اومبدادزمان', # Fuzzy
 	'group-Staff' => 'مشرفون',
 	'group-Staff-member' => 'عضو من المشرفين',
 	'grouppage-Staff' => 'Foundation:الطاقم',
 	'group-editinterface' => 'محررين الواجهه',
-	'group-editinterface-member' => 'محرر الواجهه',
+	'group-editinterface-member' => 'محرر الواجهه', # Fuzzy
 	'group-steward' => 'مضيفين',
-	'group-steward-member' => 'مضيف',
+	'group-steward-member' => 'مضيف', # Fuzzy
 	'grouppage-steward' => 'm:Stewards/ar',
 	'group-sysadmin' => 'اداريين النظام',
-	'group-sysadmin-member' => 'ادارى نظام',
+	'group-sysadmin-member' => 'ادارى نظام', # Fuzzy
 	'group-coder' => 'مكودون',
-	'group-coder-member' => 'مكود',
+	'group-coder-member' => 'مكود', # Fuzzy
 	'grouppage-coder' => '{{ns:project}}:مكود',
 	'group-inactive' => 'يوزرات مش ناشطين',
-	'group-inactive-member' => 'يوزر مش نشيط',
+	'group-inactive-member' => 'يوزر مش نشيط', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:يوزرات مش نشطين',
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
 	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="//creativecommons.org/licenses/by-sa/3.0/">رخصة التشارك الإبداع العزو/المشاركة بالمثل</a>;
 ممكن تطبيق شروط إضافية.
 بص على <a href="//wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
 	'wikimedia-copyrightwarning' => 'بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [//creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [//www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
-أنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.',
+أنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'لو ماكنتش عايز كتاباتك تتعدل و تتوزع بحريه ، لو سمحت ما تحطهاش هنا.
 لو ما كنتش انتا اللى كات الكلام دا بنفسك, فلازم يكون متوفر تحت شروط متوافقه مع[//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستعمال] ، و انك بتوافق انك تلتزم متطلبات ترخيص ليها علاقه..',
 );
@@ -1241,7 +1214,7 @@ $messages['as'] = array(
 	'grouppage-translationadmin' => '{{ns:project}}:অনুবাদ প্ৰশাসকবৃন্দ',
 	'group-coder' => 'কোডাৰ',
 	'group-coder-member' => '{{GENDER:$1|কোডাৰ}}',
-	'grouppage-coder' => '{{ns:project}}:কোডাৰ',
+	'grouppage-coder' => '{{ns:project}}:কোডাৰ', # Fuzzy
 	'group-inactive' => 'নিস্ক্ৰিয় সদস্যসকল',
 	'group-inactive-member' => '{{GENDER:$1|নিষ্ক্ৰিয় সদস্য}}',
 	'grouppage-inactive' => '{{ns:project}}:নিস্ক্ৰিয় ব্যৱহাৰকাৰী',
@@ -1379,7 +1352,8 @@ Si esti escritu nun ye tuyu, tien de tar disponible baxo condiciones compatibles
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 );
 
-/** Avaric (авар) */
+/** Avaric (авар)
+ */
 $messages['av'] = array(
 	'sitesupport' => 'Садакъа',
 );
@@ -1392,7 +1366,8 @@ $messages['avk'] = array(
 	'tooltip-n-sitesupport' => 'Va cin zobel !',
 );
 
-/** Aymara (Aymar aru) */
+/** Aymara (Aymar aru)
+ */
 $messages['ay'] = array(
 	'sitesupport' => 'Ramañanaka',
 );
@@ -1410,9 +1385,9 @@ $messages['az'] = array(
 	'nstab-creator' => 'Yaradıcı',
 	'group-Ex_Administrator' => 'Keçmiş idarəçilər',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|Keçmiş bürokrat}}',
-	'grouppage-Ex_Administrator' => '{{ns:layihə}}: Keçmiş idarəçilər',
+	'grouppage-Ex_Administrator' => '{{ns:layihə}}: Keçmiş idarəçilər', # Fuzzy
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|keçmiş bürokrat}}',
-	'grouppage-Ex_Bureaucrat' => '{{ns:layihə}}:Keçmiş bürokrat',
+	'grouppage-Ex_Bureaucrat' => '{{ns:layihə}}:Keçmiş bürokrat', # Fuzzy
 	'group-OTRS-member' => 'OTRS üzvləri',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS üzvü}}',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS üzvləri',
@@ -1426,13 +1401,13 @@ $messages['az'] = array(
 	'grouppage-autopatrolled' => '{{ns:project}}:Avtopatrullar',
 	'group-autoreviewer-member' => '{{GENDER:$1|autoreviewer}}',
 	'group-botadmin-member' => '{{GENDER:$1|idarəçi hüququna malik bot}}',
-	'grouppage-botadmin' => '{{ns:layihə}}:İdarəçi hüququ olan bot',
+	'grouppage-botadmin' => '{{ns:layihə}}:İdarəçi hüququ olan bot', # Fuzzy
 	'group-confirmed' => 'Təsdiqlənmiş istifadəçilər',
 	'group-confirmed-member' => '{{GENDER:$1|Təsdiqlənmiş istifadəçi}}',
-	'grouppage-confirmed' => '{{nslayihə}}:Təsdiqlənmiş istifadəçilər',
+	'grouppage-confirmed' => '{{nslayihə}}:Təsdiqlənmiş istifadəçilər', # Fuzzy
 	'group-editprotected' => 'Mühafizə olunmuş səhifə redaktorları',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:layihə}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:layihə}}:Eliminator', # Fuzzy
 	'group-filemover-member' => '{{GENDER:$1|file mover}}',
 	'group-flood' => 'Bot istifadəçilər',
 	'group-flood-member' => '{{GENDER:$1|bot}}',
@@ -1629,33 +1604,33 @@ $messages['bcc'] = array(
 	'sitesupport' => 'مدتان',
 	'tooltip-n-sitesupport' => 'ما را حمایت کنیت',
 	'group-accountcreator' => 'حساب شرکنوکان',
-	'group-accountcreator-member' => 'حساب شرکنوک',
+	'group-accountcreator-member' => 'حساب شرکنوک', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:حساب شرکنوکان',
 	'group-founder' => 'بنگیج کنوکان',
-	'group-founder-member' => 'بنگیج کنوک',
+	'group-founder-member' => 'بنگیج کنوک', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:بنگیج کنوکان',
 	'group-import' => 'وارد کنوکان',
-	'group-import-member' => 'واردکنوک',
+	'group-import-member' => 'واردکنوک', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:واردکنوکان',
 	'group-ipblock-exempt' => 'معافیت محدودیت آی پی',
-	'group-ipblock-exempt-member' => 'استثنای محدودیت آی پی',
+	'group-ipblock-exempt-member' => 'استثنای محدودیت آی پی', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:استثناء محدودیت آی پی',
 	'group-rollbacker' => 'عقب ترینوک',
-	'group-rollbacker-member' => 'ترینوک',
+	'group-rollbacker-member' => 'ترینوک', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:واردکنوکان',
 	'group-transwiki' => 'واردکنوکان بین‌ویکی',
-	'group-transwiki-member' => 'واردکنوک بین‌ویکی',
+	'group-transwiki-member' => 'واردکنوک بین‌ویکی', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:واردکنوکان بین ویکی',
 	'group-Global_bot' => 'رباتان سراسری',
-	'group-Global_bot-member' => 'ربات سراسری',
+	'group-Global_bot-member' => 'ربات سراسری', # Fuzzy
 	'group-Global_rollback' => 'ترینوک سراسری',
-	'group-Global_rollback-member' => 'ترینوک سراسری',
+	'group-Global_rollback-member' => 'ترینوک سراسری', # Fuzzy
 	'group-Staff' => 'کارمند',
 	'group-Staff-member' => 'عضو کارمند',
 	'group-steward' => 'نگهبانان',
-	'group-steward-member' => 'نگهبان',
+	'group-steward-member' => 'نگهبان', # Fuzzy
 	'group-sysadmin' => 'مدیران سیستم',
-	'group-sysadmin-member' => 'مدیر سیستم',
+	'group-sysadmin-member' => 'مدیر سیستم', # Fuzzy
 );
 
 /** Bikol Central (Bikol Central)
@@ -1690,7 +1665,7 @@ $messages['be'] = array(
 Падрабязней гл. <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Умовы карыстання</a>.',
 	'wikimedia-copyrightwarning' => "Замацоўваючы гэта, вы згаджаецеся беззваротна выпусціць свой уклад на ўмовах ліцэнзій [//creativecommons.org/licenses/by-sa/3.0/deed.be Creative Commons Attribution/Share-Alike License 3.0] і [//www.gnu.org/copyleft/fdl.html GFDL].
 Вы згаджаецеся на адзначэнне вашага аўтарства пры паўторным выкарыстанні гэтай старонкі, у мінімальным аб'ёме гіпер-спасылкі або адрасу URL гэтай старонкі, у якую вы робіце ўклад.
-Падрабязней гл. [//wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].",
+Падрабязней гл. [//wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].", # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Калі вы не жадаеце, каб ваш тэкст свабодна правіўся і распаўсюджваўся, не ўкладвайце яго сюды.
 Калі вы самі не пісалі гэтага тэксту, ён мусіць быць даступным на ўмовах, якія сумяшчальныя з [//wikimediafoundation.org/wiki/Terms_of_Use Умовамі карыстання], а вы мусіце даць згоду на ўсе наступныя змяненні ліцэнзійных патрабаванняў, якія маюць дачыненне да гэтага тэксту.',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
@@ -1840,89 +1815,89 @@ $messages['bg'] = array(
 	'group-Ex_Administrator' => 'Бивши администратори',
 	'group-Ex_Bureaucrat' => 'Бивши бюрократи',
 	'group-OTRS-member' => 'OTRS членове',
-	'group-OTRS-member-member' => 'член на OTRS',
+	'group-OTRS-member-member' => 'член на OTRS', # Fuzzy
 	'group-abusefilter' => 'Редактори на филтъра срещу злоупотреби',
-	'group-abusefilter-member' => 'редактор на филтъра срещу злоупотреби',
+	'group-abusefilter-member' => 'редактор на филтъра срещу злоупотреби', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}: Редактори на филтъра срещу злоупотреби',
 	'group-accountcreator' => 'Създатели на сметки',
-	'group-accountcreator-member' => 'създател на сметки',
+	'group-accountcreator-member' => 'създател на сметки', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Създатели на сметки',
 	'group-arbcom' => 'Членове на арбитражната комисия',
-	'group-arbcom-member' => 'член на арбитражната комисия',
+	'group-arbcom-member' => 'член на арбитражната комисия', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Членове на арбитражната комисия',
 	'group-autopatrolled' => 'Автопатрули',
-	'group-autopatrolled-member' => 'Автопатрульор',
+	'group-autopatrolled-member' => 'Автопатрульор', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Автопатрули',
 	'group-autoreviewer' => 'Авторецензенти',
-	'group-autoreviewer-member' => 'авторецензент',
+	'group-autoreviewer-member' => 'авторецензент', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Авторецензенти',
 	'group-bigexport' => 'Големи износители',
-	'group-bigexport-member' => 'голям износител',
+	'group-bigexport-member' => 'голям износител', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}: Големи износители',
 	'group-botadmin' => 'Ботове с права на администратор',
 	'group-confirmed' => 'Потвърдени потребители',
-	'group-confirmed-member' => 'потвърден потребител',
+	'group-confirmed-member' => 'потвърден потребител', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Потвърдени потребители',
 	'group-editprotected' => 'Редактори на защитени страници',
-	'group-editprotected-member' => 'редактор на защитени страници',
+	'group-editprotected-member' => 'редактор на защитени страници', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Редактори на защитени страници',
 	'group-flood' => 'Оператори на бот',
-	'group-flood-member' => 'бот оператор',
+	'group-flood-member' => 'бот оператор', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Бот оператори',
 	'group-founder' => 'Основатели',
-	'group-founder-member' => 'Основател',
+	'group-founder-member' => 'Основател', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Основатели',
 	'group-import' => 'Вносители',
-	'group-import-member' => 'вносител',
+	'group-import-member' => 'вносител', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Вносители',
 	'group-interface_editor' => 'Редактори на интерфейса',
-	'group-interface_editor-member' => 'редактор на интерфейса',
+	'group-interface_editor-member' => 'редактор на интерфейса', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Редактори на интерфейса',
 	'group-ipblock-exempt' => 'Изключения от блокирането по IP адрес',
-	'group-ipblock-exempt-member' => 'Изключение от блокирането по IP адрес',
+	'group-ipblock-exempt-member' => 'Изключение от блокирането по IP адрес', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Изключения от блокирането по IP адрес',
 	'group-patroller' => 'Патрульори',
-	'group-patroller-member' => 'Патрульор',
+	'group-patroller-member' => 'Патрульор', # Fuzzy
 	'group-researcher' => 'Изследователи',
-	'group-researcher-member' => 'изследовател',
+	'group-researcher-member' => 'изследовател', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Изследователи',
 	'group-rollbacker' => 'Изпълнителни на отмени',
-	'group-rollbacker-member' => 'изпълнител на отмени',
+	'group-rollbacker-member' => 'изпълнител на отмени', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Изпълнители на отмени',
 	'group-transwiki' => 'Transwiki вносители',
-	'group-transwiki-member' => 'Transwiki вносител',
+	'group-transwiki-member' => 'Transwiki вносител', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki вносители',
 	'group-trusted' => 'Доверени потребители',
-	'group-trusted-member' => 'доверен потребител',
+	'group-trusted-member' => 'доверен потребител', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Доверени потребители',
 	'group-Global_bot' => 'Глобални ботове',
-	'group-Global_bot-member' => 'глобален бот',
+	'group-Global_bot-member' => 'глобален бот', # Fuzzy
 	'group-Global_rollback' => 'Глобални изпълнители на отмени',
-	'group-Global_rollback-member' => 'глобален изпълнител на отмени',
+	'group-Global_rollback-member' => 'глобален изпълнител на отмени', # Fuzzy
 	'group-Global_sysops' => 'Глобални администратори',
-	'group-Global_sysops-member' => 'глобален администратор',
+	'group-Global_sysops-member' => 'глобален администратор', # Fuzzy
 	'group-Ombudsmen' => 'Омбудсмани',
-	'group-Ombudsmen-member' => 'омбудсман',
+	'group-Ombudsmen-member' => 'омбудсман', # Fuzzy
 	'group-Staff' => 'Персонал',
 	'group-Staff-member' => 'персонал',
 	'group-editinterface' => 'Редактори на интерфейса',
-	'group-editinterface-member' => 'редактор на интерфейса',
+	'group-editinterface-member' => 'редактор на интерфейса', # Fuzzy
 	'group-steward' => 'Стюарди',
 	'group-steward-member' => '{{GENDER:$1|стюард}}',
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-sysadmin' => 'Системни администратори',
-	'group-sysadmin-member' => 'системен администратор',
+	'group-sysadmin-member' => 'системен администратор', # Fuzzy
 	'group-coder' => 'Програмисти',
 	'group-coder-member' => '{{GENDER:$1|програмист}}',
 	'group-inactive' => 'Неактивни потребители',
-	'group-inactive-member' => 'неактивен потребител',
+	'group-inactive-member' => 'неактивен потребител', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Неактивни потребители',
 	'wikimedia-copyright' => 'Текстът е достъпен под лиценза <a href="//creativecommons.org/licenses/by-sa/3.0/deed.bg">Creative Commons Признание-Споделяне на споделеното</a>;
 може да са приложени допълнителни условия.
 За подробности вижте <a href="//wikimediafoundation.org/wiki/Условия_за_ползване">Условия за ползване</a>.',
 	'wikimedia-copyrightwarning' => 'Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [//creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [//www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].
 Съгласявате се минималното признание на авторството ви, при ползване на материала от други потребители, да става с хипервръзка към страницата, към която допринасяте.
-За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].',
+За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ако не желаете материалът ви да бъде редактиран и разпространяван без ограничения, тогава не го поставяйте тук.
 Ако материалът не е написан лично от вас, то за да остане тук, трябва да е съвместим с [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване], и вие да сте съгласни да изпълните всички евентуално приложими лицензионни изисквания.',
 	'cant-delete-main-page' => 'Не можете да изтривате или премествате Началната страница.',
@@ -1959,7 +1934,8 @@ Pian hakun haja kalu sabuting tautan atawa URL cukup manaliakan di bawah liséns
 Amun Pian kada manulis ngini surangan, ngini musti ada di bawah katantuan nang sasuai awan [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan Mamakai], wan Pian hakun haja maumpati lisénsi nang diparluakan.',
 );
 
-/** Bambara (bamanankan) */
+/** Bambara (bamanankan)
+ */
 $messages['bm'] = array(
 	'sitesupport' => 'Banumanke',
 );
@@ -2096,10 +2072,11 @@ $messages['bn'] = array(
 $messages['bo'] = array(
 	'sitesupport' => 'ཞལ་འདེབས།',
 	'tooltip-n-sitesupport' => 'ང་ཚོར་རོགས་སྐྱོར།',
-	'group-founder-member' => 'གསར་གཏོད་བྱེད་མཁན།',
+	'group-founder-member' => 'གསར་གཏོད་བྱེད་མཁན།', # Fuzzy
 );
 
-/** Bishnupria Manipuri (বিষ্ণুপ্রিয়া মণিপুরী) */
+/** Bishnupria Manipuri (বিষ্ণুপ্রিয়া মণিপুরী)
+ */
 $messages['bpy'] = array(
 	'sitesupport' => 'দান দেনা',
 );
@@ -2261,97 +2238,97 @@ $messages['bs'] = array(
 	'nstab-sequence' => 'Niz',
 	'nstab-timedtext' => 'VremenskiTekst',
 	'group-Image-reviewer' => 'Preglednici slika',
-	'group-Image-reviewer-member' => 'Preglednik slika',
+	'group-Image-reviewer-member' => 'Preglednik slika', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Preglednici slika',
 	'group-OTRS-member' => 'Članovi OTRS',
-	'group-OTRS-member-member' => 'Član OTRS',
+	'group-OTRS-member-member' => 'Član OTRS', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:Članovi OTRS',
 	'group-abusefilter' => 'Uređivači filtera zloupotrebe',
-	'group-abusefilter-member' => 'uređivač filtera zloupotrebe',
+	'group-abusefilter-member' => 'uređivač filtera zloupotrebe', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Uređivači filtera zloupotrebe',
 	'group-accountcreator' => 'Kreatori računa',
-	'group-accountcreator-member' => 'kreator računa',
+	'group-accountcreator-member' => 'kreator računa', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Kreatori računa',
 	'group-arbcom' => 'Članovi komiteta za arbitriranje',
-	'group-arbcom-member' => 'član komiteta za arbitriranje',
+	'group-arbcom-member' => 'član komiteta za arbitriranje', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Članovi Arbitracionog komiteta',
 	'group-autopatrolled' => 'Autopatroleri',
-	'group-autopatrolled-member' => 'automatski patroliran',
+	'group-autopatrolled-member' => 'automatski patroliran', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatski patroleri',
 	'group-autoreviewer' => 'Autonadzornici',
-	'group-autoreviewer-member' => 'autonadzornik',
+	'group-autoreviewer-member' => 'autonadzornik', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Autonadzornici',
 	'group-bigexport' => 'Veliki izvoznici',
-	'group-bigexport-member' => 'veliki izvoznik',
+	'group-bigexport-member' => 'veliki izvoznik', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Veliki izvoznici',
 	'group-confirmed' => 'Potvrđeni korisnici',
-	'group-confirmed-member' => 'potvrđeni korisnik',
+	'group-confirmed-member' => 'potvrđeni korisnik', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Potvrđeni korisnici',
 	'group-editprotected' => 'Urednici zaštićenih stranica',
-	'group-editprotected-member' => 'urednik zaštićene stranice',
+	'group-editprotected-member' => 'urednik zaštićene stranice', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Urednici zaštićenih stranica',
 	'group-eliminator' => 'Odstranjivači',
-	'group-eliminator-member' => 'odstranjivač',
+	'group-eliminator-member' => 'odstranjivač', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Odstranjivač',
 	'group-filemover' => 'Premještaju datoteke',
-	'group-filemover-member' => 'premješta datoteke',
+	'group-filemover-member' => 'premješta datoteke', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Premještanje datoteka',
 	'group-flood' => 'Bot korisnici',
-	'group-flood-member' => 'bot korisnici',
+	'group-flood-member' => 'bot korisnici', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Bot korisnici',
 	'group-founder' => 'Osnivači',
-	'group-founder-member' => 'osnivač',
+	'group-founder-member' => 'osnivač', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
 	'group-import' => 'Uvoznici',
-	'group-import-member' => 'uvoznik',
+	'group-import-member' => 'uvoznik', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Uvoznici',
 	'group-interface_editor' => 'Urednici sučelja',
-	'group-interface_editor-member' => 'urednik sučelja',
+	'group-interface_editor-member' => 'urednik sučelja', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Urednici sučelja',
 	'group-ipblock-exempt' => 'Izuzeci IP blokada',
-	'group-ipblock-exempt-member' => 'Izuzeci IP blokada',
+	'group-ipblock-exempt-member' => 'Izuzeci IP blokada', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Izuzeci IP blokada',
 	'group-patroller' => 'Patroleri',
-	'group-patroller-member' => 'patroler',
+	'group-patroller-member' => 'patroler', # Fuzzy
 	'group-researcher' => 'Istraživači',
-	'group-researcher-member' => 'istraživač',
+	'group-researcher-member' => 'istraživač', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Istraživači',
 	'group-rollbacker' => 'Povratioci',
-	'group-rollbacker-member' => 'povratioc',
+	'group-rollbacker-member' => 'povratioc', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Povratioci',
 	'group-transwiki' => 'Transwiki uvoznici',
-	'group-transwiki-member' => 'transwiki uvoznik',
+	'group-transwiki-member' => 'transwiki uvoznik', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki uvoznici',
 	'group-trusted' => 'Korisnici od povjerenja',
-	'group-trusted-member' => 'korisnik od povjerenja',
+	'group-trusted-member' => 'korisnik od povjerenja', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Korisnici od povjerenja',
 	'group-Global_bot' => 'Globalni botovi',
-	'group-Global_bot-member' => 'globalni bot',
+	'group-Global_bot-member' => 'globalni bot', # Fuzzy
 	'group-Global_rollback' => 'Globalni povratioci',
-	'group-Global_rollback-member' => 'globalni povratioc',
+	'group-Global_rollback-member' => 'globalni povratioc', # Fuzzy
 	'group-Global_sysops' => 'Globalni operateri sistema',
-	'group-Global_sysops-member' => 'Globalni operater sistema',
+	'group-Global_sysops-member' => 'Globalni operater sistema', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsmeni',
-	'group-Ombudsmen-member' => 'ombudsmen',
+	'group-Ombudsmen-member' => 'ombudsmen', # Fuzzy
 	'group-Staff' => 'Osoblje',
 	'group-Staff-member' => 'članovi osoblja',
 	'group-editinterface' => 'Urednici sučelja',
-	'group-editinterface-member' => 'urednik sučelja',
+	'group-editinterface-member' => 'urednik sučelja', # Fuzzy
 	'group-steward' => 'Stjuardi',
-	'group-steward-member' => 'stujard',
+	'group-steward-member' => 'stujard', # Fuzzy
 	'group-sysadmin' => 'Sistemski administratori',
-	'group-sysadmin-member' => 'sistemski administrator',
+	'group-sysadmin-member' => 'sistemski administrator', # Fuzzy
 	'group-coder' => 'Koderi',
-	'group-coder-member' => 'koder',
+	'group-coder-member' => 'koder', # Fuzzy
 	'group-inactive' => 'Neaktivni korisnici',
-	'group-inactive-member' => 'neaktivni korisnik',
+	'group-inactive-member' => 'neaktivni korisnik', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni korisnici',
 	'wikimedia-copyright' => 'Tekst je dostupan pod <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licencom</a>;
 dodatni uslovi se mogu primijeniti.
 Za detalje pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">uslove korištenja</a>.',
 	'wikimedia-copyrightwarning' => 'Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike licencom 3.0] i [//www.gnu.org/copyleft/fdl.html GFDL].
 Slažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.
-Za dalje detalje pogledajte [//wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].',
+Za dalje detalje pogledajte [//wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se Vaše izmjene i doprinos mijenjaju ili distribuiraju po želji, onda ih ne šaljite ovdje.
 Ako ovo niste napisali lično, ove izmjene moraju biti dostupne pod uslovima u skladu sa [//wikimediafoundation.org/wiki/Terms_of_Use Pravilima korištenja], i slažete se da će te slijediti sve relevantne licencne zahtjeve.',
 );
@@ -2490,7 +2467,8 @@ Si l'escrit no és vostre, ha d'estar disponible sota termes compatibles amb les
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 );
 
-/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ */
 $messages['cdo'] = array(
 	'sitesupport' => 'Dà̤-giŏng',
 );
@@ -2505,14 +2483,14 @@ $messages['ce'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:Дlавазвалар кхуллурш',
 	'group-confirmed' => 'Тlелаьцболу декъашхой',
 	'group-flood' => 'Декъашхой-шаболххой',
-	'group-flood-member' => 'декъашхой-шаболххой',
+	'group-flood-member' => 'декъашхой-шаболххой', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Декъашхой-шаболххой',
 	'group-ipblock-exempt' => 'IP-сацор юкъарадоккху',
 	'group-Global_bot' => 'Масхьара шаболххой',
-	'group-Global_bot-member' => 'масхьара шаболххо',
+	'group-Global_bot-member' => 'масхьара шаболххо', # Fuzzy
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [//www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
-Мадарра хьажа. [//wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].',
+Мадарра хьажа. [//wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Нагахьсан хьуна ца лаахь, кхечара хьай йозанаш маьрша хийцамаш беш лелада а даржош массанхьа, ма тохийша уьш кху чу.
 Нагахьсан хьо чутоьхначу йозан да вацахь, иза хила деза схьаэца йиш йолучу хьолехь, догlуш оцу [//wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронашца] а, хьо реза волуш массо бакъойаларна дехаран ларца лела.',
 );
@@ -2528,7 +2506,7 @@ $messages['ceb'] = array(
 Tan-awa ang <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mga Termino sa Paggamit</a> para sa mga detalye.',
 	'wikimedia-copyrightwarning' => 'Sa pagtipig, miuyon ka sa di-mabawi nga pagpagawas sa imong kontribusyon ubos sa [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ug sa [//www.gnu.org/copyleft/fdl.html GFDL].
 Miuyon ka nga tagaan og kredito sa mga re-user, sa minimum, pinaagi sa hyperlink o URL ngadto sa panid nga imo gitampohan.
-Tan-awa ang [//wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit] para sa mga detalye.',
+Tan-awa ang [//wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit] para sa mga detalye.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Kon dili nimo gusto nga ang imong sinulat mausab ug maapod-apod, nan ayaw isumiter dinhi. Kon dili ikaw mismo ang nagsulat niini, kinahanglan magamit kini ubos sa mga termino nga susama sa [//wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit], ug miuyon ka nga mosunod sa bisan unsang gikinahanglang lisensiya nga angayan.',
 );
 
@@ -2540,7 +2518,8 @@ $messages['ch'] = array(
 	'tooltip-n-sitesupport' => 'Supotta ham',
 );
 
-/** Cherokee (ᏣᎳᎩ) */
+/** Cherokee (ᏣᎳᎩ)
+ */
 $messages['chr'] = array(
 	'sitesupport' => 'ᎠᎵᏍᎪᎸᏙᏗ',
 );
@@ -2557,44 +2536,34 @@ $messages['ckb'] = array(
 	'sitesupport' => 'پاڵپشتی لە ویکیپیدیا',
 	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',
 	'group-accountcreator' => 'دروست‌کەری هەژمارە',
-	'group-accountcreator-member' => 'درووست‌که‌ری هه‌ژماره‌',
+	'group-accountcreator-member' => 'درووست‌که‌ری هه‌ژماره‌', # Fuzzy
 	'group-flood' => 'بەکارھێنەرانی بۆت',
-	'group-flood-member' => 'بەکارھێنەری بۆت',
-	'group-founder-member' => 'دۆزەر',
+	'group-flood-member' => 'بەکارھێنەری بۆت', # Fuzzy
+	'group-founder-member' => 'دۆزەر', # Fuzzy
 	'group-ipblock-exempt-member' => 'ھەڵاواردن لە بەربەستنی ئای پی',
 	'group-Staff' => 'کارمەندان',
 	'group-Staff-member' => 'کارمەند',
 	'group-sysadmin' => 'به‌ڕێوبه‌رانی سیسته‌م',
-	'group-sysadmin-member' => 'بەڕێوبەری سیستەم',
+	'group-sysadmin-member' => 'بەڕێوبەری سیستەم', # Fuzzy
 	'group-inactive' => 'بەکارهێنەرانی ناچالاک',
-	'group-inactive-member' => 'بەکارهێنەری ناچالاک',
+	'group-inactive-member' => 'بەکارهێنەری ناچالاک', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}: بەکارهێنەرانی ناچالاک',
 	'wikimedia-copyright' => 'دەق لەژێر <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛
 لەوانەیە مەرجی تریشی پێ زیاد ببێ.
 سەیری <a href="//wikimediafoundation.org/wiki/Terms_of_Use">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.',
 	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
 قەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.
-سەیری [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.',
+سەیری [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'ئەگەر ناتەوێ نووسراوەکەت بە ئارەزوو دەستکاری بکرێت و تێکبدرێت، لێرە دایمەنێ.
 ئەگەر خۆت ئەمەت نەنووسیوە، دەبێ دڵنیا بیت کە لەژێر [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان]دا لە بەردەستدایە و قەبووڵ دەکەیت کە پەیڕەوی بکەیت لە ھەموو ویستەمەنییە مۆڵەتنامەیییە پەیوەندی‌‌دارەکان.',
 );
 
-/** Corsican (corsu) */
+/** Corsican (corsu)
+ */
 $messages['co'] = array(
 	'sitesupport' => 'Dunazione',
 	'group-steward' => 'Steward',
 	'grouppage-steward' => '{{ns:project}}:Steward',
-);
-
-/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
- * @author Don Alessandro
- */
-$messages['crh-latn'] = array(
-	'sitesupport' => 'Bağışlar',
-	'wikimedia-copyright' => 'Metin <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Qullanuv Şartları</a>na baqıñız.',
-	'wikimedia-copyrightwarning' => 'Saifeni saqlap, yazğanıñıznıñ keri qaytalmaz şekilde [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre derc etilgenini qabul eteceksiñiz. Bu saifedeki malümatnı bundan soñ qullanacaqlarnıñ qoşqan isseñiz aqqında bare bu saifege bağlantı berip bildirecegi yeterli olacağını da qabul eteceksiñiz. Daa tafsilâtlı malümat içün [//wikimediafoundation.org/wiki/ Qullanuv Şartlarını] baqıñız.',
-	'wikimedia-editpage-tos-summary' => 'Eger yazğan metinleriñizni er bir adam serbestçe deñiştirip ve tarqatıp olacağını istemeseñiz, olarnı mında yerleştirmeñiz.
-Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan olsa, şu metinniñ yerleştirilüvi [//wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]na uyğun olmalı, ve siz litsenziyanıñ bütün kerekli talaplarınen razı olmalısıñız.',
 );
 
 /** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎)
@@ -2603,9 +2572,20 @@ Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan ol
 $messages['crh-cyrl'] = array(
 	'sitesupport' => 'Багъышлар',
 	'wikimedia-copyright' => 'Метин <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясынен берильген; базыда иляве шартлар къулланылып ола. Тафсилят ичюн <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Къулланув Шартлары</a>на бакъынъыз.',
-	'wikimedia-copyrightwarning' => 'Саифени сакълап, язгъанынъызнынъ кери къайталмаз шекильде [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ве [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларынынъ шартларына коре дердж этильгенини къабул этеджексинъиз. Бу саифедеки малюматны бундан сонъ къулланаджакъларнынъ къошкъан иссенъиз акъкъында баре бу саифеге багъланты берип бильдиреджеги етерли оладжагъыны да къабул этеджексинъиз. Даа тафсилятлы малюмат ичюн [//wikimediafoundation.org/wiki/ Къулланув Шартларыны] бакъынъыз.',
+	'wikimedia-copyrightwarning' => 'Саифени сакълап, язгъанынъызнынъ кери къайталмаз шекильде [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ве [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларынынъ шартларына коре дердж этильгенини къабул этеджексинъиз. Бу саифедеки малюматны бундан сонъ къулланаджакъларнынъ къошкъан иссенъиз акъкъында баре бу саифеге багъланты берип бильдиреджеги етерли оладжагъыны да къабул этеджексинъиз. Даа тафсилятлы малюмат ичюн [//wikimediafoundation.org/wiki/ Къулланув Шартларыны] бакъынъыз.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Эгер язгъан метинлеринъизни эр бир адам сербестче денъиштирип ве таркъатып оладжагъыны истемесенъиз, оларны мында ерлештирменъиз.
 Эгер ерлештирмеге истеген метнинъизни сиз дегиль де, башкъа бир адам язгъан олса, шу метиннинъ ерлештирилюви [//wikimediafoundation.org/wiki/Terms_of_Use Къулланув Шартлары]на уйгъун олмалы, ве сиз лицензиянынъ бутюн керекли талапларынен разы олмалысынъыз.',
+);
+
+/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
+ * @author Don Alessandro
+ */
+$messages['crh-latn'] = array(
+	'sitesupport' => 'Bağışlar',
+	'wikimedia-copyright' => 'Metin <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Qullanuv Şartları</a>na baqıñız.',
+	'wikimedia-copyrightwarning' => 'Saifeni saqlap, yazğanıñıznıñ keri qaytalmaz şekilde [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre derc etilgenini qabul eteceksiñiz. Bu saifedeki malümatnı bundan soñ qullanacaqlarnıñ qoşqan isseñiz aqqında bare bu saifege bağlantı berip bildirecegi yeterli olacağını da qabul eteceksiñiz. Daa tafsilâtlı malümat içün [//wikimediafoundation.org/wiki/ Qullanuv Şartlarını] baqıñız.', # Fuzzy
+	'wikimedia-editpage-tos-summary' => 'Eger yazğan metinleriñizni er bir adam serbestçe deñiştirip ve tarqatıp olacağını istemeseñiz, olarnı mında yerleştirmeñiz.
+Eger yerleştirmege istegen metniñizni siz degil de, başqa bir adam yazğan olsa, şu metinniñ yerleştirilüvi [//wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]na uyğun olmalı, ve siz litsenziyanıñ bütün kerekli talaplarınen razı olmalısıñız.',
 );
 
 /** Czech (česky)
@@ -3022,6 +3002,7 @@ $messages['de'] = array(
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
 	'specialpages-group-contribution' => 'Spenden/Fundraiser',
+	'robots.txt' => '# Zeilen hier werden zur globalen „robots.txt“ hinzugefügt',
 	'nstab-creator' => 'Urheber',
 	'nstab-institution' => 'Institution',
 	'nstab-sequence' => 'Sequenz',
@@ -3437,7 +3418,8 @@ Jolic njejsy to sam spisał, musy pód wuměnjenjami k dispoziciji staś, kótar
 	'wikimedia-translationnotifications-signup-legal' => 'Pśez pśepowdawanje toś tych informacijow załožbje Wikimedian Foundation zwólijoš do togo, až móžomy se nastupajucy pśełožki abo druge temy, kótarež gibanje Wikimedije nastupaju, z tobu do zwiska stajiś. Zwólijoš do togo, až twóje daty składuju se w Zjadnośonych statach Ameriki a su pśedmjat našych [https://wikimediafoundation.org/wiki/Privacy_policy pšawidłow priwatnosći].',
 );
 
-/** Divehi (ދިވެހިބަސް) */
+/** Divehi (ދިވެހިބަސް)
+ */
 $messages['dv'] = array(
 	'sitesupport' => 'ޚައިރާތުތައް',
 );
@@ -3458,12 +3440,12 @@ $messages['ee'] = array(
 	'sitesupport' => 'Wɔ nunana',
 	'tooltip-n-sitesupport' => 'Kpe ɖe mía ŋu',
 	'group-accountcreator' => 'Ŋkɔ ŋlɔlawo',
-	'group-accountcreator-member' => 'ŋkɔ ŋlɔla',
+	'group-accountcreator-member' => 'ŋkɔ ŋlɔla', # Fuzzy
 	'group-flood' => 'Bɔt zãlawo',
-	'group-flood-member' => 'bɔt zãla',
+	'group-flood-member' => 'bɔt zãla', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Bɔt zãlawo',
 	'group-founder' => 'Eɖolawo',
-	'group-founder-member' => 'eɖola',
+	'group-founder-member' => 'eɖola', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ne wò me di bena woa trɔ wò nuŋlɔŋlɔwo alo woa ma wo fãa o la, megaŋlɔe ɖe afisia o.<br />
 Ne menye wò ŋutɔ ye ŋlɔ nusiawo o la, ekema ele be mɔɖeɖewo si ku ɖe woŋu ne sɔ kple [//wikimediafoundation.org/wiki/Terms_of_Use Mɔɖeɖewo], eye wò lɔ̃ bena yeawɔ se siwo katã ku ɖe woŋu la dzi.',
 );
@@ -3514,13 +3496,13 @@ $messages['el'] = array(
 	'group-arbcom-member' => '{{GENDER:$1|μέλος επιτροπής διαιτησίας}}',
 	'grouppage-arbcom' => '{{ns:project}}:Μέλη της επιτροπής διαιτησίας',
 	'group-autopatrolled' => 'Αυτοεπιτηρητές',
-	'group-autopatrolled-member' => 'αυτόματη περίπολος',
+	'group-autopatrolled-member' => 'αυτόματη περίπολος', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Αυτόματοι περίπολοι',
 	'group-autoreviewer' => 'Αυτοελεγκτές',
-	'group-autoreviewer-member' => 'αυτοελεγκτής',
+	'group-autoreviewer-member' => 'αυτοελεγκτής', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Αυτοελεγκτές',
 	'group-bigexport' => 'Μεγάλοι εξαγωγείς',
-	'group-bigexport-member' => 'Μεγάλος εξαγωγέας',
+	'group-bigexport-member' => 'Μεγάλος εξαγωγέας', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι εξαγωγείς',
 	'group-botadmin' => 'Ρομπότ με δικαιώματα διαχειριστή',
 	'group-botadmin-member' => '{{GENDER:$1|bot με δικαιώματα διαχειριστή}}',
@@ -3529,13 +3511,13 @@ $messages['el'] = array(
 	'group-confirmed-member' => '{{GENDER:$1|επιβεβαιωμένος χρήστης}}',
 	'grouppage-confirmed' => '{{ns:project}}:Επιβεβαιωμένοι χρήστες',
 	'group-editprotected' => 'Σελίδα που προστατεύεται από συντάκτες',
-	'group-editprotected-member' => 'προστατευμένος επεξεργαστής σελίδας',
+	'group-editprotected-member' => 'προστατευμένος επεξεργαστής σελίδας', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}: Προστατευμένη σελίδα από συντάκτες',
 	'group-eliminator' => 'Εξολοθρευτές',
-	'group-eliminator-member' => 'Εξολοθρευτής',
+	'group-eliminator-member' => 'Εξολοθρευτής', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Εξολοθρευτής',
 	'group-filemover' => 'Μετακινητές αρχείου',
-	'group-filemover-member' => 'μετακινητής αρχείου',
+	'group-filemover-member' => 'μετακινητής αρχείου', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Μεταφορείς αρχείων',
 	'group-flood' => 'Χρήστες bot',
 	'group-flood-member' => '{{GENDER:$1|χρήστης bot}}',
@@ -3544,16 +3526,16 @@ $messages['el'] = array(
 	'group-founder-member' => '{{GENDER:$1|ιδρυτής}}',
 	'grouppage-founder' => '{{ns:project}}:Ιδρυτές',
 	'group-import' => 'Εισαγωγείς',
-	'group-import-member' => 'εισαγωγέας',
+	'group-import-member' => 'εισαγωγέας', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Εισαγωγείς',
 	'group-interface_editor' => 'Επεξεργαστές της διεπαφής',
-	'group-interface_editor-member' => 'επεξεργαστής της διεπαφής',
+	'group-interface_editor-member' => 'επεξεργαστής της διεπαφής', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Επεξεργαστές της διεπαφής',
 	'group-ipblock-exempt' => 'Απαλλαγές από φραγή IP',
-	'group-ipblock-exempt-member' => 'Απαλλαγή από φραγή IP',
+	'group-ipblock-exempt-member' => 'Απαλλαγή από φραγή IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμια αποκλεισμού των IP',
 	'group-patroller' => 'Περιπολητές',
-	'group-patroller-member' => 'περιπολητής',
+	'group-patroller-member' => 'περιπολητής', # Fuzzy
 	'group-researcher' => 'Ερευνητές',
 	'group-researcher-member' => '{{GENDER:$1|ερευνητής|ερευνήτρια;}}',
 	'grouppage-researcher' => '{{ns:project}}:Ερευνητές',
@@ -3577,7 +3559,7 @@ $messages['el'] = array(
 	'group-Staff' => 'Προσωπικό',
 	'group-Staff-member' => 'Μέλος προσωπικού',
 	'group-editinterface' => 'Επεξεργασία της διεπαφής',
-	'group-editinterface-member' => 'επεξεργασία της διεπαφής',
+	'group-editinterface-member' => 'επεξεργασία της διεπαφής', # Fuzzy
 	'group-steward' => 'Επίτροποι',
 	'group-steward-member' => '{{GENDER:$1|επίτροπος}}',
 	'group-sysadmin' => 'Διαχειριστές συστήματος',
@@ -3591,12 +3573,13 @@ $messages['el'] = array(
 	'group-inactive-member' => '{{GENDER:$1|μη ενεργός χρήστης}}',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="//creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.",
+	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Αν δεν θέλετε το κείμενό σας να υποστεί επεξεργασία και να αναδιανεμηθεί κατά βούληση, τότε μην το καταχωρείτε εδώ. Αν δεν το γράψατε ο ίδιος, τότε πρέπει να είναι διαθέσιμο υπό όρους σύμφωνους με τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε να ακολουθήσετε οποιεσδήποτε απαιτήσεις αδειοδότησης.',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 );
 
-/** Emiliano-Romagnolo (emiliàn e rumagnòl) */
+/** Emiliano-Romagnolo (emiliàn e rumagnòl)
+ */
 $messages['eml'] = array(
 	'sitesupport' => 'Donaziòun',
 );
@@ -4148,6 +4131,7 @@ $messages['ext'] = array(
  * @author Ladsgroup
  * @author Mardetanha
  * @author Mjbmr
+ * @author Reza1615
  * @author Sahim
  * @author Wayiran
  * @author ZxxZxxZ
@@ -4256,6 +4240,16 @@ $messages['fa'] = array(
 	'grouppage-steward' => 'm:Stewards/fa',
 	'group-sysadmin' => 'مدیران سامانه',
 	'group-sysadmin-member' => 'مدیر سامانه',
+	'group-API_High_Limit_Requestor' => 'محدودیت درخواست‌دهندگان ای‌پی‌آی',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|محدودیت درخواست‌دهندگان ای‌پی‌آی}}',
+	'group-Indic_Bots' => 'ربات‌های ایندیک',
+	'group-Indic_Bots-member' => '{{GENDER:$1|ربات ایندیک}}',
+	'group-New_wikis_importer' => 'واردکننده‌های ویکی جدید',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|واردکننده‌های ویکی جدید}}',
+	'group-global-ipblock-exempt' => 'آی‌پی‌های مستثی از قطع دسترسی سراسری',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|آی‌پی‌های مستثی از قطع دسترسی سراسری}}',
+	'group-recursive-export' => 'برون‌ریزی بازگشتی',
+	'group-recursive-export-member' => '{{GENDER:$1|برون‌ریزی بازگشتی}}',
 	'group-translationadmin' => 'مدیران ترجمه',
 	'group-translationadmin-member' => '{{GENDER:$1|مدیر ترجمه}}',
 	'grouppage-translationadmin' => '{{ns:project}}:مدیران ترجمه',
@@ -4272,9 +4266,12 @@ $messages['fa'] = array(
 	'wikimedia-editpage-tos-summary' => 'اگر نمی‌خواهید نوشتهٔ شما آزادانه ویرایش یا منتشر شود، لطفاً آن را اینجا ارسال نکنید.
 اگر متنی را خودتان ننوشته‌اید، باید این متن مطابق اجازه‌نامه‌ای که با [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] سازگاری دارد موجود باشد، و شما با تبعیت از هر گونه موارد قید شده در اجازه‌نامه‌های مرتبط موافق باشید.',
 	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
+	'wikimedia-translationnotifications-signup-legal' => 'شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید.شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما می‌باشند.',
+	'upload-more-photos-of-this-monument' => 'بارگذاری عکس‌های بیشتری از این بنای تاریخی',
 );
 
-/** Fulah (Fulfulde) */
+/** Fulah (Fulfulde)
+ */
 $messages['ff'] = array(
 	'sitesupport' => 'Dokkal',
 );
@@ -4411,7 +4408,8 @@ $messages['fi'] = array(
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 );
 
-/** Fijian (Na Vosa Vakaviti) */
+/** Fijian (Na Vosa Vakaviti)
+ */
 $messages['fj'] = array(
 	'sitesupport' => 'Soli',
 );
@@ -4422,7 +4420,7 @@ $messages['fj'] = array(
 $messages['fo'] = array(
 	'tooltip-n-sitesupport' => 'Stuðla okkum',
 	'group-steward' => 'Ternur',
-	'group-steward-member' => 'Terna',
+	'group-steward-member' => 'Terna', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Ternur',
 );
 
@@ -4844,7 +4842,7 @@ $messages['fur'] = array(
 	'sitesupport' => 'Doninus',
 	'tooltip-n-sitesupport' => 'Judinus',
 	'group-founder' => 'Fondadôrs',
-	'group-founder-member' => 'Fondadôr',
+	'group-founder-member' => 'Fondadôr', # Fuzzy
 );
 
 /** Western Frisian (Frysk)
@@ -4865,39 +4863,39 @@ $messages['ga'] = array(
 	'sitesupport' => 'Síntiúis',
 	'tooltip-n-sitesupport' => 'Tacaigh linn',
 	'group-accountcreator' => 'Cuntas cruthóirí',
-	'group-accountcreator-member' => 'cuntas cruthóir',
+	'group-accountcreator-member' => 'cuntas cruthóir', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Cuntas cruthóirí',
-	'group-autopatrolled-member' => 'uathphatrólóir',
+	'group-autopatrolled-member' => 'uathphatrólóir', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Uathphatrólóirí',
 	'group-founder' => 'Bunaitheoirí',
-	'group-founder-member' => 'bunaitheoir',
+	'group-founder-member' => 'bunaitheoir', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Bunaitheoirí',
 	'group-import' => 'Iompórtálaithe',
-	'group-import-member' => 'iompórtálaí',
+	'group-import-member' => 'iompórtálaí', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Iompórtálaithe',
 	'group-ipblock-exempt' => 'Díolúintí coisc IP',
-	'group-ipblock-exempt-member' => 'Díolúine coisc IP',
+	'group-ipblock-exempt-member' => 'Díolúine coisc IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Díolúine coisc IP',
 	'group-rollbacker' => 'Tar-rolltóirí',
-	'group-rollbacker-member' => 'tar-rolltóir',
+	'group-rollbacker-member' => 'tar-rolltóir', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Tar-rolltóirí',
 	'group-transwiki' => 'Iompórtálaithe traisvicí',
-	'group-transwiki-member' => 'iompórtálaí traisvicí',
+	'group-transwiki-member' => 'iompórtálaí traisvicí', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Iompórtálaithe traisvicí',
 	'group-Global_bot' => 'Róbónna domhanda',
-	'group-Global_bot-member' => 'róbó domhanda',
+	'group-Global_bot-member' => 'róbó domhanda', # Fuzzy
 	'group-Global_rollback' => 'Tar-rolltóirí domhanda',
-	'group-Global_rollback-member' => 'tar-rolltóir domhanda',
+	'group-Global_rollback-member' => 'tar-rolltóir domhanda', # Fuzzy
 	'group-Ombudsmen' => 'Daoine an Phobail',
-	'group-Ombudsmen-member' => 'Duine an Phobail',
+	'group-Ombudsmen-member' => 'Duine an Phobail', # Fuzzy
 	'group-Staff' => 'Foireann',
 	'group-Staff-member' => 'ball foirne',
 	'group-steward' => 'Maoir',
-	'group-steward-member' => 'maor',
+	'group-steward-member' => 'maor', # Fuzzy
 	'group-sysadmin' => 'Riarthóirí',
-	'group-sysadmin-member' => 'riarthóir',
+	'group-sysadmin-member' => 'riarthóir', # Fuzzy
 	'group-coder' => 'Códóirí',
-	'group-coder-member' => 'códóir',
+	'group-coder-member' => 'códóir', # Fuzzy
 	'shared-repo-name-shared' => 'an Cómhaoin Vicíméid',
 );
 
@@ -4927,45 +4925,45 @@ $messages['gan-hans'] = array(
 	'sitesupport' => '捐助',
 	'tooltip-n-sitesupport' => '支持我俚',
 	'group-abusefilter' => '滥用过滤器编者',
-	'group-abusefilter-member' => '滥用过滤器编者',
+	'group-abusefilter-member' => '滥用过滤器编者', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:滥用过滤器编者',
 	'group-accountcreator' => '开户专员',
-	'group-accountcreator-member' => '开户专员',
+	'group-accountcreator-member' => '开户专员', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:开户专员',
 	'group-bigexport' => '大量汇出者',
-	'group-bigexport-member' => '大量汇出者',
+	'group-bigexport-member' => '大量汇出者', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:大量汇出者',
 	'group-founder' => '创办者',
-	'group-founder-member' => '创办者',
+	'group-founder-member' => '创办者', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:创办者',
 	'group-import' => '汇入者',
-	'group-import-member' => '汇入者',
+	'group-import-member' => '汇入者', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:汇入者',
 	'group-ipblock-exempt' => 'IP封锁例外者',
-	'group-ipblock-exempt-member' => 'IP封锁例外',
+	'group-ipblock-exempt-member' => 'IP封锁例外', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封锁例外',
 	'group-rollbacker' => '返退员',
-	'group-rollbacker-member' => '返退员',
+	'group-rollbacker-member' => '返退员', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:返退员',
 	'group-transwiki' => 'Transwiki汇入者',
-	'group-transwiki-member' => 'Transwiki汇入者',
+	'group-transwiki-member' => 'Transwiki汇入者', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki汇入者',
 	'group-Global_bot' => '全域机器人',
-	'group-Global_bot-member' => '全域机器人',
+	'group-Global_bot-member' => '全域机器人', # Fuzzy
 	'group-Global_rollback' => '全域返退员',
-	'group-Global_rollback-member' => '全域返退员',
+	'group-Global_rollback-member' => '全域返退员', # Fuzzy
 	'group-Ombudsmen' => '申诉专员',
-	'group-Ombudsmen-member' => '申诉专员',
+	'group-Ombudsmen-member' => '申诉专员', # Fuzzy
 	'group-Staff' => '职员',
 	'group-Staff-member' => '{{GENDER:$1|职员}}',
 	'group-steward' => '执行员',
-	'group-steward-member' => '执行员',
+	'group-steward-member' => '执行员', # Fuzzy
 	'group-sysadmin' => '系统管理员',
-	'group-sysadmin-member' => '系统管理员',
+	'group-sysadmin-member' => '系统管理员', # Fuzzy
 	'group-coder' => '编码员',
-	'group-coder-member' => '编码员',
+	'group-coder-member' => '编码员', # Fuzzy
 	'group-inactive' => '不活跃𠮶用户',
-	'group-inactive-member' => '不活跃𠮶用户',
+	'group-inactive-member' => '不活跃𠮶用户', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:不活跃𠮶用户',
 	'wikimedia-copyright' => '个首𠮶所有文字系揸得<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>𠮶条款发布；可能会有附加𠮶条款。
 望吖<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>𠮶细节。',
@@ -4986,45 +4984,45 @@ $messages['gan-hant'] = array(
 	'sitesupport' => '捐助',
 	'tooltip-n-sitesupport' => '支持我俚',
 	'group-abusefilter' => '濫用過濾器編者',
-	'group-abusefilter-member' => '濫用過濾器編者',
+	'group-abusefilter-member' => '濫用過濾器編者', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:濫用過濾器編者',
 	'group-accountcreator' => '開戶專員',
-	'group-accountcreator-member' => '開戶專員',
+	'group-accountcreator-member' => '開戶專員', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:開戶專員',
 	'group-bigexport' => '大量匯出者',
-	'group-bigexport-member' => '大量匯出者',
+	'group-bigexport-member' => '大量匯出者', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:大量匯出者',
 	'group-founder' => '創辦者',
-	'group-founder-member' => '創辦者',
+	'group-founder-member' => '創辦者', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:創辦者',
 	'group-import' => '匯入者',
-	'group-import-member' => '匯入者',
+	'group-import-member' => '匯入者', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:匯入者',
 	'group-ipblock-exempt' => 'IP封鎖例外者',
-	'group-ipblock-exempt-member' => 'IP封鎖例外',
+	'group-ipblock-exempt-member' => 'IP封鎖例外', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封鎖例外',
 	'group-rollbacker' => '返退員',
-	'group-rollbacker-member' => '返退員',
+	'group-rollbacker-member' => '返退員', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:返退員',
 	'group-transwiki' => 'Transwiki匯入者',
-	'group-transwiki-member' => 'Transwiki匯入者',
+	'group-transwiki-member' => 'Transwiki匯入者', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki匯入者',
 	'group-Global_bot' => '全域機器人',
-	'group-Global_bot-member' => '全域機器人',
+	'group-Global_bot-member' => '全域機器人', # Fuzzy
 	'group-Global_rollback' => '全域返退員',
-	'group-Global_rollback-member' => '全域返退員',
+	'group-Global_rollback-member' => '全域返退員', # Fuzzy
 	'group-Ombudsmen' => '申訴專員',
-	'group-Ombudsmen-member' => '申訴專員',
+	'group-Ombudsmen-member' => '申訴專員', # Fuzzy
 	'group-Staff' => '成員',
 	'group-Staff-member' => '成員',
 	'group-steward' => '執行員',
-	'group-steward-member' => '執行員',
+	'group-steward-member' => '執行員', # Fuzzy
 	'group-sysadmin' => '系統管理員',
-	'group-sysadmin-member' => '系統管理員',
+	'group-sysadmin-member' => '系統管理員', # Fuzzy
 	'group-coder' => '編碼員',
-	'group-coder-member' => '編碼員',
+	'group-coder-member' => '編碼員', # Fuzzy
 	'group-inactive' => '不活躍嗰用戶',
-	'group-inactive-member' => '不活躍嗰用戶',
+	'group-inactive-member' => '不活躍嗰用戶', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:不活躍嗰用戶',
 	'wikimedia-copyright' => '箇首嗰所有文字係揸得<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嗰條款發佈；可能會有附加嗰條款。
 望吖<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嗰細節。',
@@ -5035,7 +5033,8 @@ $messages['gan-hant'] = array(
 若係箇不係汝自家寫嗰文字嗰話，佢坐定係要符合[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，跟到汝要同意所有相關嗰版權條件。',
 );
 
-/** Scottish Gaelic (Gàidhlig) */
+/** Scottish Gaelic (Gàidhlig)
+ */
 $messages['gd'] = array(
 	'sitesupport' => 'Tabhartasan',
 );
@@ -5182,7 +5181,8 @@ $messages['glk'] = array(
 	'sitesupport' => 'بال زئن',
 );
 
-/** Guarani (Avañe'ẽ) */
+/** Guarani (Avañe'ẽ)
+ */
 $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
@@ -5207,55 +5207,55 @@ $messages['grc'] = array(
 	'sitesupport' => 'Δῶρα',
 	'tooltip-n-sitesupport' => 'Τρέφειν ἡμᾶς',
 	'group-abusefilter' => 'Μεταγραφεῖς διηθητηρίων καταχρήσεων',
-	'group-abusefilter-member' => 'μεταγραφεύς διηθητηρίων καταχρήσεων',
+	'group-abusefilter-member' => 'μεταγραφεύς διηθητηρίων καταχρήσεων', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Μεταγραφεῖς διηθητηρίων καταχρήσεων',
 	'group-accountcreator' => 'Ποιηταὶ λογισμῶν',
-	'group-accountcreator-member' => 'ποιητὴς λογισμῶν',
+	'group-accountcreator-member' => 'ποιητὴς λογισμῶν', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Ποιηταὶ λογισμῶν',
-	'group-autopatrolled-member' => 'αὐτόματος περιπολητής',
+	'group-autopatrolled-member' => 'αὐτόματος περιπολητής', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Αὐτόματοι περιποληταί',
 	'group-autoreviewer' => 'Ἐπιθεωρηταὶ αὐτόματοι',
-	'group-autoreviewer-member' => 'αὐτόματος ἐπιθεωρητής',
+	'group-autoreviewer-member' => 'αὐτόματος ἐπιθεωρητής', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Αὐτόματοι ἐπιθεωρηταί',
 	'group-bigexport' => 'Μεγάλοι ἐξαγωγεῖς',
-	'group-bigexport-member' => 'μέγας ἐξαγωγεύς',
+	'group-bigexport-member' => 'μέγας ἐξαγωγεύς', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι ἐξαγωγεῖς',
 	'group-confirmed' => 'Ἐπιβεβαιωθέντες χρώμενοι',
-	'group-confirmed-member' => 'ἐπιβεβαιωθεὶς χρώμενος',
+	'group-confirmed-member' => 'ἐπιβεβαιωθεὶς χρώμενος', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Ἐπιβεβαιωθέντες χρώμενοι',
 	'group-founder' => 'Ἱδρυταί',
-	'group-founder-member' => 'ἱδρυτής',
+	'group-founder-member' => 'ἱδρυτής', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Ἱδρυταί',
 	'group-import' => 'Εἰσαγωγεῖς',
-	'group-import-member' => 'εἰσαγωγεύς',
+	'group-import-member' => 'εἰσαγωγεύς', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Εἰσαγωγεῖς',
 	'group-ipblock-exempt' => 'Ἀπαλλαγαὶ ὑπὸ φραγῆς τῆς IP',
-	'group-ipblock-exempt-member' => 'Ἀπαλλάσσειν ὑπὸ φραγῆς τῆς IP',
+	'group-ipblock-exempt-member' => 'Ἀπαλλάσσειν ὑπὸ φραγῆς τῆς IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Προνόμιον κλῄσεων IP',
 	'group-rollbacker' => 'Μεταστροφεῖς',
-	'group-rollbacker-member' => 'μεταστροφεύς',
+	'group-rollbacker-member' => 'μεταστροφεύς', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Μεταστροφεῖς',
 	'group-transwiki' => 'Ὑπερδιαβικι-εισαγωγεῖς',
-	'group-transwiki-member' => 'ὑπερδιαβικι-εισαγωγεύς',
+	'group-transwiki-member' => 'ὑπερδιαβικι-εισαγωγεύς', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Ὑπερδιαβικι-εισαγωγεῖς',
 	'group-Global_bot' => 'Καθολικὰ αὐτόματα',
-	'group-Global_bot-member' => 'καθολικὸν αὐτόματον',
+	'group-Global_bot-member' => 'καθολικὸν αὐτόματον', # Fuzzy
 	'group-Global_rollback' => 'Καθολικοί μεταστροφεῖς',
-	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς',
+	'group-Global_rollback-member' => 'καθολικὸς μεταστροφεύς', # Fuzzy
 	'group-Ombudsmen' => 'Δέκται διαμαρτυριῶν',
-	'group-Ombudsmen-member' => 'δέκτης διαμαρτυριῶν',
+	'group-Ombudsmen-member' => 'δέκτης διαμαρτυριῶν', # Fuzzy
 	'group-Staff' => 'Στελέχη',
 	'group-Staff-member' => 'στέλεχος',
 	'group-editinterface' => 'Διεπαφὴν μεταγράφειν',
-	'group-editinterface-member' => 'διεπαφὴν μεταγράφειν',
+	'group-editinterface-member' => 'διεπαφὴν μεταγράφειν', # Fuzzy
 	'group-steward' => 'Φροντισταί',
-	'group-steward-member' => 'φροντιστής',
+	'group-steward-member' => 'φροντιστής', # Fuzzy
 	'group-sysadmin' => 'Ἐπίτροποι συστήματος',
-	'group-sysadmin-member' => 'ἐπίτροπος συστήματος',
+	'group-sysadmin-member' => 'ἐπίτροπος συστήματος', # Fuzzy
 	'group-coder' => 'Κωδικεύοντες',
-	'group-coder-member' => 'κωδικεύς',
+	'group-coder-member' => 'κωδικεύς', # Fuzzy
 	'group-inactive' => 'Ἀνενεργοὶ χρώμενοι',
-	'group-inactive-member' => 'ἀνενεργὸς χρώμενος',
+	'group-inactive-member' => 'ἀνενεργὸς χρώμενος', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Ἀνενεργοὶ χρώμενοι',
 );
 
@@ -5544,7 +5544,7 @@ $messages['haw'] = array(
 	'sitesupport' => 'E lūlū mai',
 	'tooltip-n-sitesupport' => 'Kāko‘o mai',
 	'group-steward' => 'Nā kuene',
-	'group-steward-member' => 'Kuene',
+	'group-steward-member' => 'Kuene', # Fuzzy
 );
 
 /** Hebrew (עברית)
@@ -5727,16 +5727,16 @@ $messages['hi'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|स्व समीक्षक}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:स्वचालित निगरानी रखने वाले',
 	'group-autoreviewer' => 'स्वचालित समीक्षक',
-	'group-autoreviewer-member' => 'स्वचालित समीक्षक',
+	'group-autoreviewer-member' => 'स्वचालित समीक्षक', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:स्वचालित समीक्षक',
 	'group-bigexport' => 'बड़े निर्यातक',
-	'group-bigexport-member' => 'बड़ा निर्यातक',
+	'group-bigexport-member' => 'बड़ा निर्यातक', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:बड़े निर्यातक',
 	'group-botadmin' => 'बट, प्रबन्धक अधिकार के साथ',
 	'group-botadmin-member' => '{{GENDER:$1|बट प्रबन्धक अधिकार सहित}}',
 	'grouppage-botadmin' => '{{ns:project}}:बट प्रबन्धक अधिकार सहित',
 	'group-confirmed' => 'पुष्टट सदस्य',
-	'group-confirmed-member' => 'पुष्ट सदस्य',
+	'group-confirmed-member' => 'पुष्ट सदस्य', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:पुष्ट सदस्य',
 	'group-editprotected' => 'सुरक्षित पृष्ठ संपादकों',
 	'group-editprotected-member' => '{{GENDER:$1|सुरक्षित पृष्ठ संपादक}}',
@@ -5754,24 +5754,24 @@ $messages['hi'] = array(
 	'group-founder-member' => '{{GENDER:$1|संस्थापक}}',
 	'grouppage-founder' => '{{ns:project}}:संस्थापक',
 	'group-import' => 'आयातक',
-	'group-import-member' => 'आयातक',
+	'group-import-member' => 'आयातक', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:आयातक',
 	'group-interface_editor' => 'इंटरफेस संपादक',
 	'group-interface_editor-member' => '{{GENDER:$1|इंटरफ़ेस संपादक}}',
 	'grouppage-interface_editor' => '{{ns:project}}:इंटरफेस संपादक',
 	'group-ipblock-exempt' => 'आईपी अवरोध मुक्त',
-	'group-ipblock-exempt-member' => 'आईपी पता अवरोध मुक्त',
+	'group-ipblock-exempt-member' => 'आईपी पता अवरोध मुक्त', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:आईपी अवरोध मुक्त',
 	'group-patroller' => 'निरीक्षक',
-	'group-patroller-member' => 'निरीक्षक',
+	'group-patroller-member' => 'निरीक्षक', # Fuzzy
 	'group-researcher' => 'अनुसंधानकर्ता',
 	'group-researcher-member' => '{{GENDER:$1|अनुसंधानकर्ता}}',
 	'grouppage-researcher' => '{{ns:project}}:अनुसंधानकर्ता',
 	'group-rollbacker' => 'वापस पुरानी स्थिति में लाने वाले',
-	'group-rollbacker-member' => 'वापस पुरानी स्थिति पर लाने वाला',
+	'group-rollbacker-member' => 'वापस पुरानी स्थिति पर लाने वाला', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:वापस पुरानी स्थिति पर लाने वाले',
 	'group-transwiki' => 'विकियों के बीच आयात करने वाले',
-	'group-transwiki-member' => 'अंतर-विकि आयातक',
+	'group-transwiki-member' => 'अंतर-विकि आयातक', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:अंतर-विकि आयातक',
 	'group-trusted' => 'विश्वसनीय सदस्य',
 	'group-trusted-member' => '{{GENDER:$1|विश्वसनीय सदस्य}}',
@@ -5813,11 +5813,11 @@ $messages['hif-latn'] = array(
 	'sitesupport' => 'Daan',
 	'tooltip-n-sitesupport' => 'Ham log ke sahara do',
 	'group-abusefilter' => 'Abuse filter ke badle waala',
-	'group-abusefilter-member' => 'abuse filter ke badle waala',
+	'group-abusefilter-member' => 'abuse filter ke badle waala', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Abuse filter ke badle waala',
 	'group-accountcreator' => 'Account ke banae waala',
 	'group-bigexport' => 'Barraa exporters',
-	'group-bigexport-member' => 'barraa exporter',
+	'group-bigexport-member' => 'barraa exporter', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Barraa exporter kare waala',
 	'group-inactive' => 'Sadasya jon ki abhi haali koi edit nai karis hai',
 	'group-inactive-member' => '
@@ -5837,61 +5837,61 @@ $messages['hil'] = array(
 	'sitesupport' => 'Donasyon',
 	'tooltip-n-sitesupport' => 'Sakdaga kami',
 	'group-abusefilter' => 'Abusar sala editor',
-	'group-abusefilter-member' => 'abusar nga pagsala editor',
+	'group-abusefilter-member' => 'abusar nga pagsala editor', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Abusar manugsala nga mga editor',
 	'group-accountcreator' => 'Mga Gahimo Akawnt',
-	'group-accountcreator-member' => 'nagapanghimo account',
+	'group-accountcreator-member' => 'nagapanghimo account', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Mga gahimo Account',
-	'group-autopatrolled-member' => 'autobantay',
+	'group-autopatrolled-member' => 'autobantay', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Autobantay',
 	'group-autoreviewer' => 'Autorebyuwer',
-	'group-autoreviewer-member' => 'autorebyuwer',
+	'group-autoreviewer-member' => 'autorebyuwer', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorebyuwer',
 	'group-bigexport' => 'Mga Dagkong eksporter',
-	'group-bigexport-member' => 'daku nga gadala paguha',
+	'group-bigexport-member' => 'daku nga gadala paguha', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Daku nga mga gapaguha',
 	'group-confirmed' => 'Ginsugtan nga mga user',
-	'group-confirmed-member' => 'ginpasugtan nga user',
+	'group-confirmed-member' => 'ginpasugtan nga user', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Ginpasugtan nga mga user',
 	'group-founder' => 'Mga Nagpatukod',
-	'group-founder-member' => 'nagpatukod',
+	'group-founder-member' => 'nagpatukod', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Mga Nagpatukod',
 	'group-import' => 'Mga Nagakuha sa Guha',
-	'group-import-member' => 'gapasulod',
+	'group-import-member' => 'gapasulod', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Mga Gapasulod',
 	'group-ipblock-exempt' => 'IP eksempted harangan',
-	'group-ipblock-exempt-member' => 'IP eksemptado harang',
+	'group-ipblock-exempt-member' => 'IP eksemptado harang', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP harang eksempsiyon',
 	'group-rollbacker' => 'Mga Ginabalik',
-	'group-rollbacker-member' => 'manugbalik',
+	'group-rollbacker-member' => 'manugbalik', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Mga Manugbalik',
 	'group-transwiki' => 'Mga Transwiki nga Gakuha sa guha',
-	'group-transwiki-member' => 'transwiki gapasulod',
+	'group-transwiki-member' => 'transwiki gapasulod', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki nga mga gapasulod',
 	'group-Global_bot' => 'Kalibutan bots',
-	'group-Global_bot-member' => 'kalibutan bot',
+	'group-Global_bot-member' => 'kalibutan bot', # Fuzzy
 	'group-Global_rollback' => 'Kalibutan manugbalik',
-	'group-Global_rollback-member' => 'kalibutan manugbalik',
+	'group-Global_rollback-member' => 'kalibutan manugbalik', # Fuzzy
 	'group-Ombudsmen' => 'Mga Ombudsman',
-	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Ombudsmen-member' => 'ombudsman', # Fuzzy
 	'group-Staff' => 'Mga Gabulig',
 	'group-Staff-member' => 'gabulig',
 	'group-editinterface' => 'Mga ga-ilis sang interface',
-	'group-editinterface-member' => 'Mga ga-ilis sang interface',
+	'group-editinterface-member' => 'Mga ga-ilis sang interface', # Fuzzy
 	'group-steward' => 'Manugtago',
-	'group-steward-member' => 'manughalong',
+	'group-steward-member' => 'manughalong', # Fuzzy
 	'group-sysadmin' => 'Mga Sistema administrador',
-	'group-sysadmin-member' => 'sistema administrador',
+	'group-sysadmin-member' => 'sistema administrador', # Fuzzy
 	'group-coder' => 'Koders',
-	'group-coder-member' => 'koder',
+	'group-coder-member' => 'koder', # Fuzzy
 	'group-inactive' => 'Di-aktibo nga mga user',
-	'group-inactive-member' => 'di-aktibo nga user',
+	'group-inactive-member' => 'di-aktibo nga user', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Di-aktibo nga mga user',
 	'wikimedia-copyright' => 'Ang teksto ay pwede mo makit-an sa idalum sang <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 nanga-dugang nga kasulatan pwede man pagabatunon. Palihog lang bisita sa<a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> para sa madamu nga detalye.',
 	'wikimedia-copyrightwarning' => 'Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] kag ang [//www.gnu.org/copyleft/fdl.html GFDL].
 Nagapasugot ka nga kilalanon sa mga nagagamit liwat, sa pinaka kubos, nga nagapamaagi sa hyperlink o URL sa pahina nga gina kontribyut mo.
-Palihog lang bisita sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para sa madamu nga detalye.',
+Palihog lang bisita sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para sa madamu nga detalye.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Kung indi mo gusto nga ang imo gina sulat ma islan kag palaptahon sa imo pagkinagusto, indi pag ipadala diri.
 Kung indi kag nagsulat sini sa imo kaugalingon, kilanlan nga para ina sa tanan nga naga sunod upod sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], kag naga sugot ka nga magpati sa lisensyang kilanlanon.',
 );
@@ -5917,46 +5917,46 @@ $messages['hr'] = array(
 	'nstab-sequence' => 'Slijed',
 	'nstab-timedtext' => 'TimedText',
 	'group-Image-reviewer' => 'Recenzenti slika',
-	'group-Image-reviewer-member' => 'recenzent slika',
+	'group-Image-reviewer-member' => 'recenzent slika', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Recenzenti slika',
 	'group-OTRS-member' => 'OTRS članovi',
-	'group-OTRS-member-member' => 'OTRS član',
+	'group-OTRS-member-member' => 'OTRS član', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:Članovi OTRS-a',
 	'group-abusefilter' => 'Urednici filtra zloporaba',
-	'group-abusefilter-member' => 'urednik filtra zloporaba',
+	'group-abusefilter-member' => 'urednik filtra zloporaba', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Urednici filtra zloporaba',
 	'group-accountcreator' => 'Otvaratelji računa',
-	'group-accountcreator-member' => 'otvaratelj računa',
+	'group-accountcreator-member' => 'otvaratelj računa', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Otvaratelji računa',
 	'group-arbcom' => 'Članovi arbitražnog odbora',
-	'group-arbcom-member' => 'član arbitražnog odbora',
+	'group-arbcom-member' => 'član arbitražnog odbora', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Članovi arbitražnog odbora',
 	'group-autopatrolled' => 'Automatski patrolirani',
-	'group-autopatrolled-member' => 'automatski patroliran',
+	'group-autopatrolled-member' => 'automatski patroliran', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatski patrolirani',
 	'group-autoreviewer' => 'Samoocjenjivači',
-	'group-autoreviewer-member' => 'samoocjenjivač',
+	'group-autoreviewer-member' => 'samoocjenjivač', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Samoocjenjivači',
 	'group-bigexport' => 'Veliki izvoznici',
-	'group-bigexport-member' => 'veliki izvoznik',
+	'group-bigexport-member' => 'veliki izvoznik', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Veliki izvoznici',
 	'group-confirmed' => 'Potvrđeni suradnici',
-	'group-confirmed-member' => 'potvrđeni suradnik',
+	'group-confirmed-member' => 'potvrđeni suradnik', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Potvrđeni suradnici',
 	'group-editprotected' => 'Uređivači zaštićenih stranica',
-	'group-editprotected-member' => 'uređivač zaštićenih stranica',
+	'group-editprotected-member' => 'uređivač zaštićenih stranica', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Uređivači zaštićenih stranica',
 	'group-eliminator' => 'Uklonitelji',
-	'group-eliminator-member' => 'uklonitelj',
+	'group-eliminator-member' => 'uklonitelj', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Uklonitelj',
 	'group-filemover' => 'Premjestitelj datoteka',
-	'group-filemover-member' => 'premjestitelj datoteka',
+	'group-filemover-member' => 'premjestitelj datoteka', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Premjestitelj datoteka',
 	'group-flood' => 'Botovi',
-	'group-flood-member' => 'bot',
+	'group-flood-member' => 'bot', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Botovi',
 	'group-founder' => 'Osnivači',
-	'group-founder-member' => 'osnivač',
+	'group-founder-member' => 'osnivač', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Osnivači',
 	'group-import' => 'Unositelji',
 	'group-import-member' => '{{GENDER:$1|unositelj|unositeljica}}',
@@ -5965,46 +5965,46 @@ $messages['hr'] = array(
 	'group-interface_editor-member' => '{{GENDER:$1|uređivač sučelja|uređivačica sučelja}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Uređivači sučelja',
 	'group-ipblock-exempt' => 'IP blok iznimke',
-	'group-ipblock-exempt-member' => 'IP blok iznimka',
+	'group-ipblock-exempt-member' => 'IP blok iznimka', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blok iznimka',
 	'group-patroller' => 'Patroleri',
-	'group-patroller-member' => 'patroler',
+	'group-patroller-member' => 'patroler', # Fuzzy
 	'group-researcher' => 'Istraživači',
-	'group-researcher-member' => 'istraživač',
+	'group-researcher-member' => 'istraživač', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Istraživači',
 	'group-rollbacker' => 'Uklonitelji',
-	'group-rollbacker-member' => 'uklonitelj',
+	'group-rollbacker-member' => 'uklonitelj', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Uklonitelji',
 	'group-transwiki' => 'Međuwiki unositelji',
-	'group-transwiki-member' => 'međuwiki unositelj',
+	'group-transwiki-member' => 'međuwiki unositelj', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Međuwiki unositelji',
 	'group-trusted' => 'Suradnici od povjerenja',
-	'group-trusted-member' => 'povjerljivi suradnik',
+	'group-trusted-member' => 'povjerljivi suradnik', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Povjerljivi suradnici',
 	'group-Global_bot' => 'Globalni bot',
-	'group-Global_bot-member' => 'globalni bot',
+	'group-Global_bot-member' => 'globalni bot', # Fuzzy
 	'group-Global_rollback' => 'Globalni uklonitelji',
-	'group-Global_rollback-member' => 'globalni uklonitelj',
+	'group-Global_rollback-member' => 'globalni uklonitelj', # Fuzzy
 	'group-Global_sysops' => 'Globalni administratori',
-	'group-Global_sysops-member' => 'globalni administrator',
+	'group-Global_sysops-member' => 'globalni administrator', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsman',
-	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Ombudsmen-member' => 'ombudsman', # Fuzzy
 	'group-Staff' => 'Osoblje',
 	'group-Staff-member' => 'član osoblja',
 	'group-editinterface' => 'Uređivači sučelja',
-	'group-editinterface-member' => 'urednik sučelja',
+	'group-editinterface-member' => 'urednik sučelja', # Fuzzy
 	'group-steward' => 'Stjuardi',
-	'group-steward-member' => 'Stjuard',
+	'group-steward-member' => 'Stjuard', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Stjuardi',
 	'group-sysadmin' => 'Sistem administratori',
-	'group-sysadmin-member' => 'sistem administrator',
+	'group-sysadmin-member' => 'sistem administrator', # Fuzzy
 	'group-coder' => 'Programeri',
-	'group-coder-member' => 'programer',
+	'group-coder-member' => 'programer', # Fuzzy
 	'group-inactive' => 'Neaktivni suradnici',
-	'group-inactive-member' => 'neaktivni suradnik',
+	'group-inactive-member' => 'neaktivni suradnik', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni suradnici',
 	'wikimedia-copyright' => 'Tekst je dostupan pod licencijom <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Imenovanje/Dijeli pod istim uvjetima</a>; dodatni uvjeti se mogu primjenjivati. Pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Uvjete korištenja</a> za detalje.',
-	'wikimedia-copyrightwarning' => 'Pritiskom na "sačuvaj stranicu", neopozivo ste suglasni da svoje doprinose objavljujete pod uvjetima iz licencije [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [//www.gnu.org/copyleft/fdl.html GFDL]. Slažete se kako je poveznica ili URL dovoljna razina pripisivanja odnosno označivanja Vaših doprinosa na stranicama kojima ste pridonosili. Pogledajte [//wikimediafoundation.org/wiki/Uvjeti_uporabe Uvjete uporabe] za dodatne obavijesti.',
+	'wikimedia-copyrightwarning' => 'Pritiskom na "sačuvaj stranicu", neopozivo ste suglasni da svoje doprinose objavljujete pod uvjetima iz licencije [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [//www.gnu.org/copyleft/fdl.html GFDL]. Slažete se kako je poveznica ili URL dovoljna razina pripisivanja odnosno označivanja Vaših doprinosa na stranicama kojima ste pridonosili. Pogledajte [//wikimediafoundation.org/wiki/Uvjeti_uporabe Uvjete uporabe] za dodatne obavijesti.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ako ne želite da se vaš tekst nemilosrdno uređuje i slobodno raspačava, nemojte ga slati ovamo. Ako ovo niste sami napisali, tada ovaj tekst mora biti dostupan pod uvjetima koji su u skladu s [//wikimediafoundation.org/wiki/Uvjeti_uporabe Uvjetima uporabe], a vi se suglasni da slijedite sve odgovarajuće uvjete licenciranja.',
 	'cant-delete-main-page' => 'Nemate ovlast brisati i/ili premještati glavnu stranicu.',
 );
@@ -6270,7 +6270,7 @@ $messages['hy'] = array(
 	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> արտոնագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
 	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [//www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
 Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
-Ծանոթացեք [//wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։',
+Ծանոթացեք [//wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Եթե դուք չեք ցանկանում, որ ձեր գրածը ազատորեն խմբագրվի և տարածվի բոլոր ցանկացողների կողմից, ապա մի ավելացրեք այն այստեղ։
 Եթե ավելացվող նյութի հեղինակը անձամբ դուք չեք, ապա նյութը պարտադիր պետք է համապատասխանի [//wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններում] նկարագրած արտոնագրային պահանջներին, և դուք համաձայնվում եք հետևել արտոնագրում ներկայացված բոլոր պահանջներին։',
 );
@@ -6477,7 +6477,7 @@ $messages['id'] = array(
 	'group-ipblock-exempt-member' => '{{GENDER:$1|pengecualian pemblokiran IP}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Pengecualian pemblokiran IP',
 	'group-patroller' => 'Pematroli',
-	'group-patroller-member' => 'Pematroli',
+	'group-patroller-member' => 'Pematroli', # Fuzzy
 	'grouppage-patroller' => '{{ns:project}}:Pematroli',
 	'group-researcher' => 'Peneliti',
 	'group-researcher-member' => '{{GENDER:$1|peneliti}}',
@@ -6517,7 +6517,7 @@ $messages['id'] = array(
 	'group-inactive-member' => '{{GENDER:$1|pengguna tidak aktif}}',
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tidak aktif',
 	'wikimedia-copyright' => 'Teks tersedia di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
-	'wikimedia-copyrightwarning' => 'Dengan menekan tombol simpan, Anda setuju untuk melepas kontribusi Anda seterusnya di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] dan [//www.gnu.org/copyleft/fdl.html GFDL]. Anda setuju untuk diberi kredit oleh pengguna ulang, minimal, melalui pranala atau URL ke halaman yang Anda kontribusikan. Lihat [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Penggunaan] untuk lebih jelasnya.',
+	'wikimedia-copyrightwarning' => 'Dengan menekan tombol simpan, Anda setuju untuk melepas kontribusi Anda seterusnya di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] dan [//www.gnu.org/copyleft/fdl.html GFDL]. Anda setuju untuk diberi kredit oleh pengguna ulang, minimal, melalui pranala atau URL ke halaman yang Anda kontribusikan. Lihat [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Penggunaan] untuk lebih jelasnya.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Jika Anda tidak ingin tulisan Anda disunting dan didistribusikan ulang jika diinginkan, jangan kirimkan tulisan Anda ke sini. Jika Anda tidak menulisnya sendiri, tulisan ini harus tersedia dengan ketentuan yang sesuai dengan [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Penggunaan], dan Anda setuju untuk mengikuti semua persyaratan perizinan yang relevan.',
 	'cant-delete-main-page' => 'Anda tidak dapat menghapus atau memindahkan halaman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dengan memberikan informasi ini ke Yayasan Wikimedia, Anda setuju bahwa kami dapat menghubungi Anda terkait terjemahan atau topik lain yang berhubungan dengan gerakan Wikimedia yang kami anggap perlu untuk Anda ketahui. Anda setuju semua data Anda disimpan di Amerika Serikat dan mematuhi [https://wikimediafoundation.org/wiki/Privacy_policy kebijakan privasi] kami.',
@@ -6537,38 +6537,39 @@ $messages['ig'] = array(
 	'sitesupport' => 'Nyeturuanyi ihe',
 	'tooltip-n-sitesupport' => 'Nye anyi ike',
 	'group-confirmed' => "Ézíbóté ọ'bànifé",
-	'group-confirmed-member' => "ézíbóté ọ'bànifé",
+	'group-confirmed-member' => "ézíbóté ọ'bànifé", # Fuzzy
 	'group-filemover' => 'Ndi npáfù usòrò',
-	'group-filemover-member' => 'onye npáfù usòrò',
+	'group-filemover-member' => 'onye npáfù usòrò', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Ndi mpáfù usòrò',
 	'group-flood' => 'Ndi ne ji bot',
-	'group-flood-member' => 'onye na ji bot emé ihe',
+	'group-flood-member' => 'onye na ji bot emé ihe', # Fuzzy
 	'grouppage-flood' => "{{ns:project}}:Ọ'bànifé bot",
 	'group-founder' => 'Ndi buzọr',
-	'group-founder-member' => 'onye buzọr',
+	'group-founder-member' => 'onye buzọr', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Ndi mbídó',
 	'group-import' => 'Ndi na wete ihe',
-	'group-import-member' => 'onye na wete ihe',
-	'group-patroller-member' => 'onye na léfuru ihe anyà',
+	'group-import-member' => 'onye na wete ihe', # Fuzzy
+	'group-patroller-member' => 'onye na léfuru ihe anyà', # Fuzzy
 	'group-researcher' => 'Ndi-nchékàsí-ọmúmú',
-	'group-researcher-member' => 'onye-nchékàsí-ọmúmú',
+	'group-researcher-member' => 'onye-nchékàsí-ọmúmú', # Fuzzy
 	'group-rollbacker' => "Ọ'fifie-nà-àzú",
-	'group-rollbacker-member' => "ọ'fifie-nà-àzú",
-	'group-trusted-member' => "ọ'bànifé nchèkwube",
+	'group-rollbacker-member' => "ọ'fifie-nà-àzú", # Fuzzy
+	'group-trusted-member' => "ọ'bànifé nchèkwube", # Fuzzy
 	'grouppage-trusted' => "{{ns:project}}:Ọ'bànifé nchèkwube",
 	'group-Staff-member' => 'ndi na rüoru nga',
 	'group-steward' => "Ò'dózí",
-	'group-steward-member' => "ò'dózí",
+	'group-steward-member' => "ò'dózí", # Fuzzy
 	'wikimedia-copyright' => 'Édé nọr okpúrù <a href="//creativecommons.org/licenses/by-sa/3.0/">Mmẹ Òkike Tu ụta Ñkịtị</a>; ihe ejị ẹ kwenye nọr kwa.
 Lé <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Nkwenye maka Í me ihe</a> maka ihe ozor Í gi má.',
 	'wikimedia-copyrightwarning' => 'Na Í donyé, Í kwè na Í gi nyé ihe Í mèrè na nke I nweriki wefụ na okpúrù [//creativecommons.org/licenses/by-sa/3.0/ Mmẹ Òkike Tu ụta Ñkịtị/Gbásaa-Kà Édéíwu 3.0] na [//www.gnu.org/copyleft/fdl.html GFDL].
 Í kwèrè na ndi madu na rürü gi nye gi kpó áhà gi, na nke ntà há gí me, shí njikodo intanet ma URL Í gi ga ihü Í rürü nà.
-Lé [//wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe] maka ihe ozor Í gi má.',
+Lé [//wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe] maka ihe ozor Í gi má.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Mà íchórị kà ha rü na élú na Í gbásaa ihe Í dèrè na mbgèowula, é tìkwàlà ya ngạ.
 Ó bú nà Í dégị ihe á na onwé gí, o gị dị na okpúrù ihe nkwenye di na ọma na [//wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe], na Í kwèrè Í só akwụkwọ íwu nkeowulà di mkpà.',
 );
 
-/** Eastern Canadian (Aboriginal syllabics) (ᐃᓄᒃᑎᑐᑦ) */
+/** Eastern Canadian (Aboriginal syllabics) (ᐃᓄᒃᑎᑐᑦ)
+ */
 $messages['ike-cans'] = array(
 	'sitesupport' => 'ᑐᓐᓂᖅᑯᓯᐊᑦ ᑮᓇᐅᔭᐃᑦ',
 );
@@ -6735,7 +6736,7 @@ $messages['io'] = array(
 	'wikimedia-copyright' => 'La kontenajo esas sub la <a href="//creativecommons.org/licenses/by-sa/3.0/"><i>Creative Commons Attribution/Share-Alike License</i></a>;
 suplementala reguli forsan aplikesas.
 Videz <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado</a> por detali.',
-	'wikimedia-copyrightwarning' => "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [//creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License 3.0''] e la [//www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [//wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali.",
+	'wikimedia-copyrightwarning' => "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [//creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License 3.0''] e la [//www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [//wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali.", # Fuzzy
 );
 
 /** Icelandic (íslenska)
@@ -7406,7 +7407,8 @@ $messages['kk'] = array(
 	'wikimedia-editpage-tos-summary' => 'Егер сіз басқалар тарапынан жазуыңыздың түзетілуін не еркін көшірілуін қаламасаңыз, жазуыңызды мында ұсынбауыңыз жөн. Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [//wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
-/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏)
+ */
 $messages['kk-arab'] = array(
 	'sitesupport' => 'دەمەۋشىلىك',
 );
@@ -7424,18 +7426,19 @@ $messages['kk-cyrl'] = array(
 	'group-accountcreator' => 'Аккаунт жасаушылар',
 	'grouppage-accountcreator' => '{{ns:project}}:Тіркелгі жасаушылар',
 	'group-import' => 'Сырттан алушылар',
-	'group-import-member' => 'сырттан алушы',
+	'group-import-member' => 'сырттан алушы', # Fuzzy
 	'group-Staff' => 'Басқарма',
 	'group-Staff-member' => 'Басқарма мүшесі',
 	'group-sysadmin' => 'Жүйе әкімшілері',
-	'group-sysadmin-member' => 'жүйе әкімшісі',
+	'group-sysadmin-member' => 'жүйе әкімшісі', # Fuzzy
 	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [//www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
-[//wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].",
+[//wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].", # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Егер сіз басқалар тарапынан жазуыңыздың түзетілуін не еркін көшірілуін қаламасаңыз, жазуыңызды мында ұсынбауыңыз жөн.
 Егер сiз жазған мәтініңіздің авторы болмасаңыз, онда ол [//wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарына] лайықты болуы қажет және сiздің лицензиялаудың кез келген талаптарын орындауға келіскеніңіз болып табылады.',
 );
 
-/** Kazakh (Latin script) (qazaqşa (latın)‎) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎)
+ */
 $messages['kk-latn'] = array(
 	'sitesupport' => 'Demewşilik',
 );
@@ -7543,10 +7546,10 @@ $messages['kn'] = array(
 	'nstab-creator' => 'ಸೃಷ್ಟಿಕರ್ತ',
 	'grouppage-confirmed' => '{{ns:project}}:ಸ್ವಧೃಡೀಕೃತ ಬಳಕೆದಾರರು',
 	'group-founder' => 'ಸಂಸ್ಥಾಪಕರು',
-	'group-founder-member' => 'ಸಂಸ್ಥಾಪಕ',
+	'group-founder-member' => 'ಸಂಸ್ಥಾಪಕ', # Fuzzy
 	'group-Staff-member' => 'ಸಿಬ್ಬಂದಿ',
 	'group-inactive' => 'ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು',
-	'group-inactive-member' => 'ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯ',
+	'group-inactive-member' => 'ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯ', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು',
 );
 
@@ -7709,16 +7712,16 @@ $messages['krc'] = array(
 	'group-bigexport' => 'Уллу экспортёрла',
 	'group-confirmed' => 'Бегитилген къошулуучула',
 	'group-flood' => 'Къошулуучула-ботла',
-	'group-flood-member' => 'бот къошулуучула',
+	'group-flood-member' => 'бот къошулуучула', # Fuzzy
 	'group-import' => 'Импорт этиучюле',
-	'group-import-member' => 'импортчу',
+	'group-import-member' => 'импортчу', # Fuzzy
 	'group-ipblock-exempt' => 'IP-блоклаулагъа кирмегенле',
 	'group-transwiki' => 'Викиле арасы импорт этиучюле',
-	'group-transwiki-member' => 'Викиле арасы импорт этиучю',
+	'group-transwiki-member' => 'Викиле арасы импорт этиучю', # Fuzzy
 	'group-steward' => 'Стюардла',
 	'shared-repo-name-shared' => 'Викигёзен',
 	'wikimedia-copyright' => 'Текст, <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike лицензияны</a> шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Хайырланыу шартла</a>.',
-	'wikimedia-copyrightwarning' => 'Кесигизни тюрлендириулеригизни сакъласагъыз, [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [//www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [//wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].',
+	'wikimedia-copyrightwarning' => 'Кесигизни тюрлендириулеригизни сакъласагъыз, [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [//www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [//wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].', # Fuzzy
 );
 
 /** Kinaray-a (Kinaray-a)
@@ -7868,7 +7871,7 @@ $messages['ksh'] = array(
 $messages['ku-latn'] = array(
 	'sitesupport' => 'Bexş bike',
 	'group-Global_bot' => "Bot'ên global",
-	'group-Global_bot-member' => "bot'ê global",
+	'group-Global_bot-member' => "bot'ê global", # Fuzzy
 	'wikimedia-copyright' => 'Nivîsar di bin lîsansa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> de derbasdar e;
 heke tiştên din werin xwestin dikarin lê bên zêdekirin.
 Ji bo hûragahiyan li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mercên Bikaranînê</a> binêre.',
@@ -7950,7 +7953,7 @@ $messages['lb'] = array(
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS Member}}',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS Memberen',
 	'group-abusefilter' => 'Editeure vu Mëssbrauchsfilteren',
-	'group-abusefilter-member' => 'Editeur vum Mëssbrauchsfilter',
+	'group-abusefilter-member' => 'Editeur vum Mëssbrauchsfilter', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Editeure vu Mëssbrauchsfilteren',
 	'group-accountcreator' => 'Benotzer déi Benotzerkonten uleeën däerfen',
 	'group-accountcreator-member' => '{{GENDER:$1|Benotzer dee Benotzerkonten uleeën däerf}}',
@@ -7962,10 +7965,10 @@ $messages['lb'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|automatesche Kontroller|automatesch Kontrollesch}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatesch Préifer',
 	'group-autoreviewer' => 'Benotzer déi automatesch nokucken',
-	'group-autoreviewer-member' => 'Benotzer deen automatesch nokuckt',
+	'group-autoreviewer-member' => 'Benotzer deen automatesch nokuckt', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatesch Nopréifer',
 	'group-bigexport' => 'Grouss Exportateuren',
-	'group-bigexport-member' => 'groussen Exportateur',
+	'group-bigexport-member' => 'groussen Exportateur', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Grouss Exportateuren',
 	'group-botadmin' => 'Botte mat Adminstrateurs-Rechter',
 	'group-botadmin-member' => '{{GENDER:$1|Botte mat Administrateurs-Rechter}}',
@@ -7974,13 +7977,13 @@ $messages['lb'] = array(
 	'group-confirmed-member' => '{{GENDER:$1|Confirméierte Benotzer}}',
 	'grouppage-confirmed' => '{{ns:project}}:Confirméiert Benotzer',
 	'group-editprotected' => 'editeure vu gespaarte Säiten',
-	'group-editprotected-member' => 'Editeur vu gespaarte Säiten',
+	'group-editprotected-member' => 'Editeur vu gespaarte Säiten', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}: Editeure vu gespaarte Säiten',
 	'group-eliminator' => 'Eliminateuren',
 	'group-eliminator-member' => '{{GENDER:$1|Eliminateur}}',
 	'grouppage-eliminator' => '{{ns:project}}:Eliminateur',
 	'group-filemover' => 'Fichiersréckeler',
-	'group-filemover-member' => 'Fichiersréckeler',
+	'group-filemover-member' => 'Fichiersréckeler', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}: Fichiersréckeler',
 	'group-flood' => 'Benotzer mam Botstatus',
 	'group-flood-member' => '{{GENDER:$1|Benotzer mam Botstatus}}',
@@ -7992,7 +7995,7 @@ $messages['lb'] = array(
 	'group-import-member' => '{{GENDER:$1|Importateur|Importatrice}}',
 	'grouppage-import' => '{{ns:project}}:Importateuren',
 	'group-interface_editor' => 'Interface-Editeuren',
-	'group-interface_editor-member' => 'Interface-Editeur',
+	'group-interface_editor-member' => 'Interface-Editeur', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Interface-Editeuren',
 	'group-ipblock-exempt' => 'Ausnahme vun IP-Spären',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|Ausnam vun der IP-Spär}}',
@@ -8000,13 +8003,13 @@ $messages['lb'] = array(
 	'group-patroller' => 'Kontrolleren',
 	'group-patroller-member' => '{{GENDER:$1|Kontroller|Kontrollesch}}',
 	'group-researcher' => 'Nosicher',
-	'group-researcher-member' => 'Nosicher',
+	'group-researcher-member' => 'Nosicher', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}: Nosicher',
 	'group-rollbacker' => 'Zrécksetzer',
-	'group-rollbacker-member' => 'Zrécksetzer',
+	'group-rollbacker-member' => 'Zrécksetzer', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Zrécksetzer',
 	'group-transwiki' => 'Transwiki-Importateuren',
-	'group-transwiki-member' => 'Transwiki-Importateur',
+	'group-transwiki-member' => 'Transwiki-Importateur', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importateuren',
 	'group-trusted' => 'Erfuere Benotzer',
 	'group-trusted-member' => '{{GENDER:$1|erfuerene Benotzer}}',
@@ -8267,71 +8270,71 @@ $messages['lt'] = array(
 	'nstab-institution' => 'Įstaiga',
 	'nstab-sequence' => 'Seka',
 	'group-abusefilter' => 'Piktnaudžiavimo filtrų redaktoriai',
-	'group-abusefilter-member' => 'piktnaudžiavimo filtrų redaktorius',
+	'group-abusefilter-member' => 'piktnaudžiavimo filtrų redaktorius', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Piktnaudžiavimo filtrų redaktorius',
 	'group-accountcreator' => 'Paskyrų kūrėjai',
-	'group-accountcreator-member' => 'sąskaitų kūrėjai',
+	'group-accountcreator-member' => 'sąskaitų kūrėjai', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Sąskaitų kūrėjai',
 	'group-arbcom' => 'Arbitražo komiteto nariai',
-	'group-arbcom-member' => 'Arbitražo komiteto narys',
+	'group-arbcom-member' => 'Arbitražo komiteto narys', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Arbitražo komiteto nariai',
 	'group-autopatrolled' => 'Autopatruliai',
-	'group-autopatrolled-member' => 'autopatrulis',
+	'group-autopatrolled-member' => 'autopatrulis', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruliai',
 	'group-autoreviewer' => 'Autoperžiūrėtojai',
-	'group-autoreviewer-member' => 'autoperžiūrėtojas',
+	'group-autoreviewer-member' => 'autoperžiūrėtojas', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Autoperžiūrėtojai',
 	'group-bigexport' => 'Didieji eksportuotojai',
-	'group-bigexport-member' => 'didieji eksportuotojai',
+	'group-bigexport-member' => 'didieji eksportuotojai', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Didieji eksportuotojai',
 	'group-botadmin' => 'Robotai su administratorių teisėmis',
 	'group-confirmed' => 'Patvirtinti naudotojai',
 	'group-confirmed-member' => '{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}',
 	'grouppage-confirmed' => '{{ns:project}}:Patvirtinti naudotojai',
 	'group-editprotected' => 'Apsaugotų puslapių redaktoriai',
-	'group-editprotected-member' => 'Apsaugotų puslapių redaktorius',
+	'group-editprotected-member' => 'Apsaugotų puslapių redaktorius', # Fuzzy
 	'group-filemover' => 'Failų pervadintojai',
 	'group-flood' => 'Botų šeimininkai',
-	'group-flood-member' => 'Robotas',
+	'group-flood-member' => 'Robotas', # Fuzzy
 	'group-founder' => 'Įkūrėjai',
-	'group-founder-member' => 'įkūrėjai',
+	'group-founder-member' => 'įkūrėjai', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Įkūrėjai',
 	'group-import' => 'Importuotojai',
-	'group-import-member' => 'įkėlėjas',
+	'group-import-member' => 'įkėlėjas', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importuotojai',
 	'group-interface_editor' => 'Sąsajos redaktoriai',
 	'group-ipblock-exempt' => 'IP blokavimo išimtys',
-	'group-ipblock-exempt-member' => 'atleistasis nuo IP blokavimo',
+	'group-ipblock-exempt-member' => 'atleistasis nuo IP blokavimo', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Atleistasis nuo IP blokavimo',
 	'group-patroller' => 'Patruliai',
 	'group-researcher' => 'Tyrėjai',
-	'group-researcher-member' => 'tyrėjas',
+	'group-researcher-member' => 'tyrėjas', # Fuzzy
 	'group-rollbacker' => 'Atmetėjai',
-	'group-rollbacker-member' => 'atmesti',
+	'group-rollbacker-member' => 'atmesti', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Atmetėjai',
 	'group-transwiki' => 'Transwiki įkėlėjai',
-	'group-transwiki-member' => 'transwiki įkėlėjai',
+	'group-transwiki-member' => 'transwiki įkėlėjai', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importuotojai',
 	'group-trusted' => 'Patikėtiniai',
 	'group-trusted-member' => '{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}',
 	'group-Global_bot' => 'Globalūs botai',
-	'group-Global_bot-member' => 'visuotinis botas',
+	'group-Global_bot-member' => 'visuotinis botas', # Fuzzy
 	'group-Global_rollback' => 'Visuotiniai atmetėjai',
-	'group-Global_rollback-member' => 'visuotinis atmetėjas',
+	'group-Global_rollback-member' => 'visuotinis atmetėjas', # Fuzzy
 	'group-Global_sysops' => 'Visuotiniai administrotoriai',
-	'group-Global_sysops-member' => 'visuotinis administratorius',
+	'group-Global_sysops-member' => 'visuotinis administratorius', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsmenai',
-	'group-Ombudsmen-member' => 'ombudsmenas',
+	'group-Ombudsmen-member' => 'ombudsmenas', # Fuzzy
 	'group-Staff' => 'Darbuotojai',
 	'group-Staff-member' => 'Darbuotojas',
 	'group-editinterface' => 'Sąsajos redaktoriai',
-	'group-editinterface-member' => 'sąsajos redaktorius',
+	'group-editinterface-member' => 'sąsajos redaktorius', # Fuzzy
 	'group-steward' => 'Ūkvedžiai',
-	'group-steward-member' => 'ūkvedys',
+	'group-steward-member' => 'ūkvedys', # Fuzzy
 	'group-sysadmin' => 'Sistemos administratoriai',
-	'group-sysadmin-member' => 'sistemos administratorius',
+	'group-sysadmin-member' => 'sistemos administratorius', # Fuzzy
 	'group-coder' => 'Koduotojai',
-	'group-coder-member' => 'koduotojas',
+	'group-coder-member' => 'koduotojas', # Fuzzy
 	'group-inactive' => 'Neaktyvūs naudotojai',
 	'group-inactive-member' => '{{GENDER:$1|neaktyvus naudotojas|neaktyvi naudotoja}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktyvūs naudotojai',
@@ -8393,9 +8396,9 @@ $messages['lv'] = array(
 	'grouppage-filemover' => '{{ns:project}}:Failu pārvietotāji',
 	'group-flood' => 'Botu lietotāji',
 	'group-founder' => 'Dibinātāji',
-	'group-founder-member' => 'dibinātājs',
+	'group-founder-member' => 'dibinātājs', # Fuzzy
 	'group-import' => 'Importētāji',
-	'group-import-member' => 'importētājs',
+	'group-import-member' => 'importētājs', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importētāji',
 	'group-transwiki' => 'Transviki importētāji',
 	'group-trusted' => 'Uzticamie lietotāji',
@@ -8406,14 +8409,14 @@ $messages['lv'] = array(
 	'group-sysadmin' => 'Sistēmas administratori',
 	'group-coder' => 'Kodētāji',
 	'group-inactive' => 'Neaktīvi lietotāji',
-	'group-inactive-member' => 'neaktīvs lietotājs',
+	'group-inactive-member' => 'neaktīvs lietotājs', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktīvi lietotāji',
 	'wikimedia-copyright' => 'Teksts ir pieejams saskaņā ar <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenci</a>;
 var pastāvēt papildus ierobežojumi.
 Plašākai informācijai skatīt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Lietošanas noteikumus</a>.',
 	'wikimedia-copyrightwarning' => 'Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [//www.gnu.org/copyleft/fdl.html GFDL] licenci.
 Jūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.
-Plašākai informācijai skatīt [//wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].',
+Plašākai informācijai skatīt [//wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ja jūs nevēlaties, lai jūsu rakstīto labo un izplata bez ierobežojumiem, neiesniedziet to šeit.
 Ja šo tekstu nerakstījāt jūs, tam ir jābūt pieejamam ar nosacījumiem, kas saskan ar [//wikimediafoundation.org/wiki/Terms_of_Use pielietošanas noteikumiem] un jūs piekrītat izpildīt visas saistošās licencēšanas prasības.',
 );
@@ -8471,80 +8474,80 @@ $messages['mg'] = array(
 	'tooltip-n-sitesupport' => 'Ampio izahay',
 	'specialpages-group-contribution' => "Fandraisan'anjara/Fitetezana vola",
 	'group-abusefilter' => "Mpanova ''Abuse filter''",
-	'group-abusefilter-member' => 'Mpanova filtre antiabus',
+	'group-abusefilter-member' => 'Mpanova filtre antiabus', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:mpanova filtre antiabus',
 	'group-accountcreator' => 'Mpanokatra kaonty',
-	'group-accountcreator-member' => 'Mpamokatra kaonty',
+	'group-accountcreator-member' => 'Mpamokatra kaonty', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Mpamokatra kaonty',
-	'group-arbcom-member' => "mpikambana ao amin'ny kaomitian-arbitatra",
+	'group-arbcom-member' => "mpikambana ao amin'ny kaomitian-arbitatra", # Fuzzy
 	'grouppage-arbcom' => "{{ns:project}}:Mpikambana ao amin'ny kaomitian-arbitatra",
 	'group-autopatrolled' => 'Mpijery mandeha ho azy',
-	'group-autopatrolled-member' => 'Mpitsidika rôbô',
+	'group-autopatrolled-member' => 'Mpitsidika rôbô', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Rôbô Mpijery',
 	'group-autoreviewer' => 'Mpamaky',
-	'group-autoreviewer-member' => 'Mpamaky (rôbô)',
+	'group-autoreviewer-member' => 'Mpamaky (rôbô)', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Mpamaky mande hoazy',
 	'group-bigexport' => 'Mpamoaka be',
-	'group-bigexport-member' => 'mpamoaka be',
+	'group-bigexport-member' => 'mpamoaka be', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Mpamoaka be',
 	'group-confirmed' => 'Mpikambana voamarina',
-	'group-confirmed-member' => 'Mpikambana voamarina',
+	'group-confirmed-member' => 'Mpikambana voamarina', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Mpikambana voamarina',
 	'group-editprotected' => 'Mpanova pejy voaaro',
-	'group-editprotected-member' => 'mpanova pejy voaaro',
+	'group-editprotected-member' => 'mpanova pejy voaaro', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Mpanova pejy voaaro',
 	'group-filemover' => 'Mpanova anaran-drakitra',
-	'group-filemover-member' => 'mpanova anaran-drakitra',
+	'group-filemover-member' => 'mpanova anaran-drakitra', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Mpanova anaran-drakitra',
 	'group-flood' => 'Mpanao rôbô',
-	'group-flood-member' => 'mpanao rôbô',
+	'group-flood-member' => 'mpanao rôbô', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:mpanao rôbô',
 	'group-founder' => 'Mpamorina',
-	'group-founder-member' => 'Mpamorina',
+	'group-founder-member' => 'Mpamorina', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Mpamorina',
 	'group-import' => 'Mpanafatra',
-	'group-import-member' => 'Mpanafatra',
+	'group-import-member' => 'Mpanafatra', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Mpampiditra',
 	'group-interface_editor' => 'Mpanova ny rindrankajy',
-	'group-interface_editor-member' => 'mpanova ny rindrankajy',
+	'group-interface_editor-member' => 'mpanova ny rindrankajy', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Mpanova ny rindrankajy',
 	'group-ipblock-exempt' => "Tsy afaka sakanana amin'ny adiresy IP",
-	'group-ipblock-exempt-member' => "Mpikambana tsy afaka sakanana amin'ny IP-ny",
+	'group-ipblock-exempt-member' => "Mpikambana tsy afaka sakanana amin'ny IP-ny", # Fuzzy
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Tsy afaka sakanana amin'ny IP",
 	'group-patroller' => 'Mpitsidika',
-	'group-patroller-member' => 'Mpitsidika',
+	'group-patroller-member' => 'Mpitsidika', # Fuzzy
 	'group-researcher' => 'Mpikaroka',
-	'group-researcher-member' => 'mpikaroka',
+	'group-researcher-member' => 'mpikaroka', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:mpikaroka',
 	'group-rollbacker' => 'Mpamafa',
-	'group-rollbacker-member' => 'Mpamafa',
+	'group-rollbacker-member' => 'Mpamafa', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:mpamafa',
 	'group-transwiki' => 'Mpanafatra transwiki',
-	'group-transwiki-member' => 'Mpanafatra transwiki',
+	'group-transwiki-member' => 'Mpanafatra transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Mpampiditra transwiki',
 	'group-trusted' => 'Mpikambana azo antoka',
-	'group-trusted-member' => 'mpikambana azo antoka',
+	'group-trusted-member' => 'mpikambana azo antoka', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Mpikambana azo antoka',
 	'group-Global_bot' => "Rôbô amin'ny ankapobe ny wiki",
-	'group-Global_bot-member' => 'rôbô global',
+	'group-Global_bot-member' => 'rôbô global', # Fuzzy
 	'group-Global_rollback' => "Mpamafa amin'ny ankapobe ny wiki",
-	'group-Global_rollback-member' => 'mpamafa global',
+	'group-Global_rollback-member' => 'mpamafa global', # Fuzzy
 	'group-Global_sysops' => 'Mpandrindra global',
-	'group-Global_sysops-member' => 'mpandrindra global',
+	'group-Global_sysops-member' => 'mpandrindra global', # Fuzzy
 	'group-Ombudsmen' => 'Mediatora',
-	'group-Ombudsmen-member' => 'Mediatora',
+	'group-Ombudsmen-member' => 'Mediatora', # Fuzzy
 	'group-Staff' => 'Staff',
 	'group-Staff-member' => "mpikamban'ny Staff",
 	'group-editinterface' => 'Mpanova ny interface',
-	'group-editinterface-member' => 'mpanova ny interface',
+	'group-editinterface-member' => 'mpanova ny interface', # Fuzzy
 	'group-steward' => 'Steward',
-	'group-steward-member' => 'Mpiambona (steward)',
+	'group-steward-member' => 'Mpiambona (steward)', # Fuzzy
 	'group-sysadmin' => 'Mpandrindra ny sistema',
-	'group-sysadmin-member' => 'Mpandrindra ny Sistema',
+	'group-sysadmin-member' => 'Mpandrindra ny Sistema', # Fuzzy
 	'group-coder' => 'Mpanakaody',
-	'group-coder-member' => 'mpanakaody',
+	'group-coder-member' => 'mpanakaody', # Fuzzy
 	'group-inactive' => 'mpikambana tsy miasa',
-	'group-inactive-member' => 'mpikambana tsy miasa',
+	'group-inactive-member' => 'mpikambana tsy miasa', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Mpikambana tsy manova',
 	'wikimedia-copyright' => 'Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">Creative Commons Attribution/Share-Alike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href="//wikimediafoundation.org/wiki/Fepetram-pampiasana">fepetram-pampiasana</a> ho an\'ny antsipirihany.',
 );
@@ -8556,7 +8559,8 @@ $messages['mhr'] = array(
 	'sitesupport' => 'Надыр',
 );
 
-/** Maori (Māori) */
+/** Maori (Māori)
+ */
 $messages['mi'] = array(
 	'sitesupport' => 'Koha',
 );
@@ -8854,12 +8858,12 @@ $messages['mn'] = array(
 	'sitesupport' => 'Хандив',
 	'tooltip-n-sitesupport' => 'Биднийг дэмжээрэй',
 	'group-rollbacker' => 'Буцаагчид',
-	'group-rollbacker-member' => 'буцаагч',
+	'group-rollbacker-member' => 'буцаагч', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Буцаагчид',
 	'group-Global_rollback' => 'Глобал буцаагчид',
-	'group-Global_rollback-member' => 'глобал буцаагч',
+	'group-Global_rollback-member' => 'глобал буцаагч', # Fuzzy
 	'group-steward' => 'Үйлчлэгчид',
-	'group-steward-member' => 'үйлчлэгч',
+	'group-steward-member' => 'үйлчлэгч', # Fuzzy
 	'grouppage-steward' => 'm:Stewards',
 );
 
@@ -9257,6 +9261,13 @@ puode star sujeito a cundiçones adecionales.
 Consulta las <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Cundiçones de Uso</a> pa mais detailhes.',
 );
 
+/** Behase Mentawei (Behase Mentawei)
+ * @author Päge bintën
+ */
+$messages['mwv'] = array(
+	'tooltip-n-sitesupport' => 'Dukung kami',
+);
+
 /** Burmese (မြန်မာဘာသာ)
  * @author Hakka
  * @author Hintha
@@ -9274,17 +9285,17 @@ $messages['myv'] = array(
 	'sitesupport' => 'Лезксйармаконь максома',
 	'tooltip-n-sitesupport' => 'Макста миненек нежедематарка',
 	'group-confirmed' => 'Кемекстань сёрмадыцят',
-	'group-confirmed-member' => 'кемекстань сёрмадыця',
+	'group-confirmed-member' => 'кемекстань сёрмадыця', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Кемекстань сёрмадыцят',
 	'group-founder' => 'Лувонь путыйть',
-	'group-founder-member' => 'лувонь путый',
+	'group-founder-member' => 'лувонь путый', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Лувонь путыйть',
-	'group-import-member' => 'тевень совавтый',
+	'group-import-member' => 'тевень совавтый', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Тевень совавтыйть',
 	'group-editinterface' => 'Интерчамань витнийть-петнийть',
-	'group-editinterface-member' => 'интерчамань витний-петний',
+	'group-editinterface-member' => 'интерчамань витний-петний', # Fuzzy
 	'group-steward' => 'Туросторт',
-	'group-steward-member' => 'туростор',
+	'group-steward-member' => 'туростор', # Fuzzy
 	'grouppage-steward' => 'm:Туросторт',
 	'group-sysadmin' => 'Системань администраторт',
 );
@@ -9299,7 +9310,8 @@ $messages['mzn'] = array(
 	'wikimedia-copyright' => "کل نوشتارون <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>موجوز Creative Commons Attribution/Share-Alike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
 );
 
-/** Nauru (Dorerin Naoero) */
+/** Nauru (Dorerin Naoero)
+ */
 $messages['na'] = array(
 	'sitesupport' => 'Eadu a me',
 );
@@ -9323,7 +9335,8 @@ $messages['nah'] = array(
 	'group-Staff-member' => 'Olōllācatl',
 );
 
-/** Min Nan Chinese (Bân-lâm-gú) */
+/** Min Nan Chinese (Bân-lâm-gú)
+ */
 $messages['nan'] = array(
 	'sitesupport' => 'Kià-hù',
 );
@@ -9470,47 +9483,47 @@ $messages['nds'] = array(
 	'tooltip-n-sitesupport' => 'Ünnerstütt uns',
 	'specialpages-group-contribution' => 'Spennen/Fundraiser',
 	'group-abusefilter' => 'Missbruukfilter-Autorn',
-	'group-abusefilter-member' => 'Missbruukfilter-Autor',
+	'group-abusefilter-member' => 'Missbruukfilter-Autor', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Missbruukfilter-Autorn',
 	'group-accountcreator' => 'Brukerkonten-Opstellers',
-	'group-accountcreator-member' => 'Brukerkonten-Opsteller',
+	'group-accountcreator-member' => 'Brukerkonten-Opsteller', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Brukerkonten-Opstellers',
-	'group-autopatrolled-member' => 'Autopatroller',
+	'group-autopatrolled-member' => 'Autopatroller', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrollers',
 	'group-bigexport' => 'Grootexportörs',
-	'group-bigexport-member' => 'Grootexportör',
+	'group-bigexport-member' => 'Grootexportör', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Grootexportörs',
 	'group-founder' => 'Grünners',
-	'group-founder-member' => 'Grünner',
+	'group-founder-member' => 'Grünner', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Grünners',
 	'group-import' => 'Importörs',
-	'group-import-member' => 'Importör',
+	'group-import-member' => 'Importör', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importörs',
 	'group-ipblock-exempt' => 'IP-Sperr-Utnahmen',
-	'group-ipblock-exempt-member' => 'IP-Sperr-Utnahm',
+	'group-ipblock-exempt-member' => 'IP-Sperr-Utnahm', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Sperr-Utnahm',
 	'group-rollbacker' => 'Trüchsetters',
-	'group-rollbacker-member' => 'Trüchsetter',
+	'group-rollbacker-member' => 'Trüchsetter', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Trüchsetters',
 	'group-transwiki' => 'Transwiki-Importörs',
-	'group-transwiki-member' => 'Transwiki-Importör',
+	'group-transwiki-member' => 'Transwiki-Importör', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importörs',
 	'group-Global_bot' => 'Globale Bots',
-	'group-Global_bot-member' => 'Global Bot',
+	'group-Global_bot-member' => 'Global Bot', # Fuzzy
 	'group-Global_rollback' => 'Globale Trüchsetters',
-	'group-Global_rollback-member' => 'Global Trüchsetter',
+	'group-Global_rollback-member' => 'Global Trüchsetter', # Fuzzy
 	'group-Ombudsmen' => 'Ombudslüüd',
-	'group-Ombudsmen-member' => 'Ombudsmann',
+	'group-Ombudsmen-member' => 'Ombudsmann', # Fuzzy
 	'group-Staff' => 'Mitarbeiders',
 	'group-Staff-member' => 'Mitarbeider',
 	'group-steward' => 'Stewards',
-	'group-steward-member' => 'Steward',
+	'group-steward-member' => 'Steward', # Fuzzy
 	'group-sysadmin' => 'System-Administraters',
-	'group-sysadmin-member' => 'System-Administrater',
+	'group-sysadmin-member' => 'System-Administrater', # Fuzzy
 	'group-coder' => 'Programmerers',
-	'group-coder-member' => 'Programmerer',
+	'group-coder-member' => 'Programmerer', # Fuzzy
 	'group-inactive' => 'Inaktive Brukers',
-	'group-inactive-member' => 'Inaktiven Bruker',
+	'group-inactive-member' => 'Inaktiven Bruker', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Brukers',
 );
 
@@ -9546,7 +9559,7 @@ $messages['nds-nl'] = array(
 	'group-ipblock-exempt-member' => '{{GENDER:$1|uutzundering van IP-adresblokkeringen}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uutzunderingen van IP-adresblokkeringen',
 	'group-patroller' => 'kontroleurs',
-	'group-patroller-member' => 'kontroleur',
+	'group-patroller-member' => 'kontroleur', # Fuzzy
 	'group-rollbacker' => 'weerummedreiers',
 	'group-rollbacker-member' => '{{GENDER:$1|weerummedreier}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Weerummedreiers',
@@ -9612,9 +9625,9 @@ $messages['ne'] = array(
 	'group-transwiki' => 'ट्रान्स विकि आयातकर्ताहरु',
 	'group-trusted' => 'विश्वसनीय प्रयोगकर्ताहरु',
 	'group-coder' => 'कोडलेख्ने व्यक्तिहरु',
-	'group-coder-member' => 'कोडलेख्ने व्यक्ति',
+	'group-coder-member' => 'कोडलेख्ने व्यक्ति', # Fuzzy
 	'group-inactive' => 'निष्क्रिय प्रयोगकर्ताहरु',
-	'group-inactive-member' => 'निष्क्रिय प्रयोगकर्ता',
+	'group-inactive-member' => 'निष्क्रिय प्रयोगकर्ता', # Fuzzy
 );
 
 /** Newari (नेपाल भाषा)
@@ -9622,6 +9635,13 @@ $messages['ne'] = array(
  */
 $messages['new'] = array(
 	'sitesupport' => 'दान',
+);
+
+/** Niuean (ko e vagahau Niuē)
+ * @author Jose77
+ */
+$messages['niu'] = array(
+	'sitesupport' => 'Tupe fakalofa mo e lagomatai',
 );
 
 /** Dutch (Nederlands)
@@ -9797,68 +9817,68 @@ $messages['nn'] = array(
 	'tooltip-n-sitesupport' => 'Støtt oss',
 	'specialpages-group-contribution' => 'Bidrag/Innsamling',
 	'group-abusefilter' => 'Redigerarar av misbruksfilteret',
-	'group-abusefilter-member' => 'redigerar av misbruksfilteret',
+	'group-abusefilter-member' => 'redigerar av misbruksfilteret', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Redigerarar av misbruksfilteret',
 	'group-accountcreator' => 'Kontoopprettarar',
-	'group-accountcreator-member' => 'Kontoopprettar',
+	'group-accountcreator-member' => 'Kontoopprettar', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
 	'group-autopatrolled' => 'Autopatruljerte',
-	'group-autopatrolled-member' => 'Automatisk godkjende bidrag',
+	'group-autopatrolled-member' => 'Automatisk godkjende bidrag', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatisk godkjende bidrag',
 	'group-autoreviewer' => 'Autogranska',
-	'group-autoreviewer-member' => 'automeldar',
+	'group-autoreviewer-member' => 'automeldar', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske granskarar',
 	'group-bigexport' => 'Store eksportørar',
-	'group-bigexport-member' => 'stor eksportør',
+	'group-bigexport-member' => 'stor eksportør', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
 	'group-confirmed' => 'Stadfesta brukarar',
-	'group-confirmed-member' => 'Stadfesta brukar',
+	'group-confirmed-member' => 'Stadfesta brukar', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Stadfeste brukarar',
 	'group-flood' => 'Bot-brukarar',
-	'group-flood-member' => 'bot-brukar',
+	'group-flood-member' => 'bot-brukar', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Bot-brukarar',
 	'group-founder' => 'Grunnleggarar',
-	'group-founder-member' => 'grunnleggar',
+	'group-founder-member' => 'grunnleggar', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
 	'group-import' => 'Importørar',
-	'group-import-member' => 'Importør',
+	'group-import-member' => 'Importør', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importørar',
 	'group-ipblock-exempt' => 'Unntak frå IP-blokkering',
-	'group-ipblock-exempt-member' => 'Unnateke frå IP-blokkering',
+	'group-ipblock-exempt-member' => 'Unnateke frå IP-blokkering', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
 	'group-patroller' => 'Patruljørar',
 	'group-patroller-member' => '{{GENDER:$1|patruljør}}',
 	'group-rollbacker' => 'Attenderullarar',
-	'group-rollbacker-member' => 'attenderullar',
+	'group-rollbacker-member' => 'attenderullar', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Attenderullarar',
 	'group-transwiki' => 'Transwiki-importørar',
-	'group-transwiki-member' => 'Transwiki-importør',
+	'group-transwiki-member' => 'Transwiki-importør', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
 	'group-trusted' => 'Brukarar til å stola på',
-	'group-trusted-member' => 'brukar til å stola på',
+	'group-trusted-member' => 'brukar til å stola på', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Brukarar til å stola på',
 	'group-Global_bot' => 'Globale robotar',
-	'group-Global_bot-member' => 'global robot',
+	'group-Global_bot-member' => 'global robot', # Fuzzy
 	'group-Global_rollback' => 'Globale attenderullarar',
-	'group-Global_rollback-member' => 'global attenderullar',
+	'group-Global_rollback-member' => 'global attenderullar', # Fuzzy
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
 	'group-Ombudsmen' => 'Ombodsmenn',
-	'group-Ombudsmen-member' => 'ombodsmann',
+	'group-Ombudsmen-member' => 'ombodsmann', # Fuzzy
 	'group-Staff' => 'Personale',
 	'group-Staff-member' => 'personal',
 	'group-editinterface' => 'Brukargrensesnitt endringar',
-	'group-editinterface-member' => 'brukargrensesnitt endring',
+	'group-editinterface-member' => 'brukargrensesnitt endring', # Fuzzy
 	'group-steward' => 'Forvaltarar',
 	'group-steward-member' => '{{GENDER:$1|forvaltar}}',
 	'grouppage-steward' => 'm:Stewards/nn',
 	'group-sysadmin' => 'Systemadministratorar',
-	'group-sysadmin-member' => 'systemadministrator',
+	'group-sysadmin-member' => 'systemadministrator', # Fuzzy
 	'grouppage-sysadmin' => 'm:Systemadministratorar',
 	'group-coder' => 'Kodarar',
-	'group-coder-member' => 'kodar',
+	'group-coder-member' => 'kodar', # Fuzzy
 	'grouppage-coder' => '{{ns:project}}:Kodar',
 	'group-inactive' => 'Ikkje-aktive brukarar',
-	'group-inactive-member' => 'ikkje aktiv brukar',
+	'group-inactive-member' => 'ikkje aktiv brukar', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
 	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
 Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
@@ -9895,82 +9915,82 @@ $messages['oc'] = array(
 	'tooltip-n-sitesupport' => 'Sostenètz lo projècte',
 	'specialpages-group-contribution' => 'Contribucions / Levada de fonses',
 	'group-abusefilter' => "Modificators dels filtres d'abuses",
-	'group-abusefilter-member' => "modificator dels filtres d'abuses",
+	'group-abusefilter-member' => "modificator dels filtres d'abuses", # Fuzzy
 	'grouppage-abusefilter' => "{{ns:project}}:Modificators dels filtres d'abuses",
 	'group-accountcreator' => 'Creators de comptes',
-	'group-accountcreator-member' => 'Creator de comptes',
+	'group-accountcreator-member' => 'Creator de comptes', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Creators de comptes',
 	'group-arbcom' => "de sòcis del comitat d'arbitratge",
-	'group-arbcom-member' => "sòci del comitat d'arbitratge",
+	'group-arbcom-member' => "sòci del comitat d'arbitratge", # Fuzzy
 	'grouppage-arbcom' => "{{ns:project}}:de sòcis del comitat d'arbitratge",
 	'group-autopatrolled' => 'Patrolhas automaticas',
-	'group-autopatrolled-member' => 'Patrolhador automatic',
+	'group-autopatrolled-member' => 'Patrolhador automatic', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolhadors automatics',
 	'group-autoreviewer' => 'Revisadors automatics',
-	'group-autoreviewer-member' => 'revisador automatic',
+	'group-autoreviewer-member' => 'revisador automatic', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Revisador automatic',
 	'group-bigexport' => 'Grands exportaires',
-	'group-bigexport-member' => 'grand exportaire',
+	'group-bigexport-member' => 'grand exportaire', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Grands exportaires',
 	'group-confirmed' => 'Utilizaires confirmats',
-	'group-confirmed-member' => 'utilizaire confirmat',
+	'group-confirmed-member' => 'utilizaire confirmat', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Utilizaires confirmats',
 	'group-editprotected' => 'Editors de paginas protegidas',
-	'group-editprotected-member' => 'editor de paginas protegidas',
+	'group-editprotected-member' => 'editor de paginas protegidas', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Editors de paginas protegidas',
 	'group-filemover' => 'Renomenadors de fichièrs',
-	'group-filemover-member' => 'Renomenador de fichièrs',
+	'group-filemover-member' => 'Renomenador de fichièrs', # Fuzzy
 	'group-flood' => 'Dressaires de bòt',
-	'group-flood-member' => 'dressaires de bòt',
+	'group-flood-member' => 'dressaires de bòt', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Dressaires de bòt',
 	'group-founder' => 'Fondators',
-	'group-founder-member' => 'Fondator',
+	'group-founder-member' => 'Fondator', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Fondators',
 	'group-import' => 'Importaires',
-	'group-import-member' => 'Importaire',
+	'group-import-member' => 'Importaire', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importaires',
 	'group-interface_editor' => "Editors de l'interfàcia",
-	'group-interface_editor-member' => "editor de l'interfàcia",
+	'group-interface_editor-member' => "editor de l'interfàcia", # Fuzzy
 	'grouppage-interface_editor' => "{{ns:project}}:Editors de l'interfàcia",
 	'group-ipblock-exempt' => 'Exempcions de blòts IP',
-	'group-ipblock-exempt-member' => 'Exempcion de blòt IP',
+	'group-ipblock-exempt-member' => 'Exempcion de blòt IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Exempcion de blòt IP',
 	'group-patroller' => 'Patrolhaires',
-	'group-patroller-member' => 'Patrolhaire',
+	'group-patroller-member' => 'Patrolhaire', # Fuzzy
 	'group-researcher' => 'Cercaires',
-	'group-researcher-member' => 'Cercaire',
+	'group-researcher-member' => 'Cercaire', # Fuzzy
 	'group-rollbacker' => 'Revocaires',
-	'group-rollbacker-member' => 'Revocaire',
+	'group-rollbacker-member' => 'Revocaire', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Revocaires',
 	'group-transwiki' => 'Importaires Transwiki',
-	'group-transwiki-member' => 'Importaire Transwiki',
+	'group-transwiki-member' => 'Importaire Transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Importaires Transwiki',
 	'group-trusted' => 'Utilizaires de fisança',
-	'group-trusted-member' => 'utilizaire de fisança',
+	'group-trusted-member' => 'utilizaire de fisança', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Utilizaire de fisança',
 	'group-Global_bot' => 'Bòts globals',
-	'group-Global_bot-member' => 'Bòt global',
+	'group-Global_bot-member' => 'Bòt global', # Fuzzy
 	'group-Global_rollback' => 'Revocaires globals',
-	'group-Global_rollback-member' => 'Revocaire global',
+	'group-Global_rollback-member' => 'Revocaire global', # Fuzzy
 	'group-Global_sysops' => 'Administrators globals',
-	'group-Global_sysops-member' => 'administrator global',
+	'group-Global_sysops-member' => 'administrator global', # Fuzzy
 	'group-Ombudsmen' => 'Comissaris',
-	'group-Ombudsmen-member' => 'Comissari',
+	'group-Ombudsmen-member' => 'Comissari', # Fuzzy
 	'group-Staff' => 'Personal',
 	'group-Staff-member' => 'Membre del personal',
 	'group-editinterface' => "Modificators de l'interfàcia",
-	'group-editinterface-member' => "modificator de l'interfàcia",
+	'group-editinterface-member' => "modificator de l'interfàcia", # Fuzzy
 	'group-steward' => 'Stewards',
-	'group-steward-member' => 'Steward',
+	'group-steward-member' => 'Steward', # Fuzzy
 	'group-sysadmin' => 'Administrators del sistèma',
-	'group-sysadmin-member' => 'administrator del sistèma',
+	'group-sysadmin-member' => 'administrator del sistèma', # Fuzzy
 	'group-coder' => 'Encodaires',
-	'group-coder-member' => 'encodaire',
+	'group-coder-member' => 'encodaire', # Fuzzy
 	'group-inactive' => 'Utilizaires inactius',
-	'group-inactive-member' => 'Utilizaire inactiu',
+	'group-inactive-member' => 'Utilizaire inactiu', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}: Utilizaires inactius',
 	'wikimedia-copyright' => 'Los tèxtes son disponibles jos <a href="//creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons atribucion pertatge a l’identica</a> ; d’autres tèrmes se pòdon aplicar. Vejatz los <a href="//wikimediafoundation.org/wiki/Terms_of_Use">tèrmes d’utilizacion</a> per mai de detalhs.',
-	'wikimedia-copyrightwarning' => 'En clicant sus « publicar », acceptatz de plaçar irrevocablament vòstra contribucion jos [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons atribucion pertatge a l’identica 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Acceptatz d’èsser creditat al minimum via un iperligam o URL cap a l’article sul qual contribuissètz. Vejatz los [//wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion] per mai de detalhs.',
+	'wikimedia-copyrightwarning' => 'En clicant sus « publicar », acceptatz de plaçar irrevocablament vòstra contribucion jos [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons atribucion pertatge a l’identica 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Acceptatz d’èsser creditat al minimum via un iperligam o URL cap a l’article sul qual contribuissètz. Vejatz los [//wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion] per mai de detalhs.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Se volètz pas que vòstres escriches sián modificats e redistribuits a volontat, alara los sometatz pas ici. Se los avètz pas escriches vos-meteis, devon èsser disponibles jos de tèrmes compatibles amb los [//wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion], e acceptatz de seguir totas las exigéncias de la licéncia.',
 );
 
@@ -10109,17 +10129,19 @@ $messages['os'] = array(
 	'sitesupport' => 'Мысайнаг',
 	'tooltip-n-sitesupport' => 'Баххуыс нын кæн',
 	'group-founder' => 'Бындурæвæрджытæ',
-	'group-founder-member' => 'бындурæвæрæг',
+	'group-founder-member' => 'бындурæвæрæг', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Бындурæвæрджытæ',
 	'shared-repo-name-shared' => 'Викикъæбиц',
 );
 
-/** Punjabi (ਪੰਜਾਬੀ) */
+/** Punjabi (ਪੰਜਾਬੀ)
+ */
 $messages['pa'] = array(
 	'sitesupport' => 'ਦਾਨ',
 );
 
-/** Pangasinan (Pangasinan) */
+/** Pangasinan (Pangasinan)
+ */
 $messages['pag'] = array(
 	'sitesupport' => 'Donasyon',
 );
@@ -10132,7 +10154,7 @@ $messages['pam'] = array(
 	'tooltip-n-sitesupport' => 'Saupan yu kami',
 	'wikimedia-copyrightwarning' => "Nung mag-save ka, mamayun kang itabili me at e mu ne bawian ing kekang ambag king lalam ning [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ampo ning [//www.gnu.org/copyleft/fdl.html GFDL].
 Mamayun kang kilalanan da ka deng talagamit a gagamit pasibayu kaniti (''re-users''), king paralan a e kulang king pamangabit hyperlink o URL king bulung nung nu ka manambag.
-Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.",
+Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.", # Fuzzy
 );
 
 /** Deitsch (Deitsch)
@@ -10175,7 +10197,8 @@ $messages['pfl'] = array(
 	'grouppage-steward' => '{{ns:project}}:Steward',
 );
 
-/** Norfuk / Pitkern (Norfuk / Pitkern) */
+/** Norfuk / Pitkern (Norfuk / Pitkern)
+ */
 $messages['pih'] = array(
 	'sitesupport' => 'Doenaiishun',
 );
@@ -10502,7 +10525,7 @@ $messages['pnb'] = array(
 	'group-ipblock-exempt-member' => 'آئی پی روک بچتاں',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:آئی پی روک بچت',
 	'group-patroller' => 'گشت کرن والے',
-	'group-patroller-member' => 'گشت کرن والے',
+	'group-patroller-member' => 'گشت کرن والے', # Fuzzy
 	'group-researcher' => 'کھوجی',
 	'group-researcher-member' => 'کھوجی',
 	'grouppage-researcher' => '{{ns:project}}:کھوجی',
@@ -10544,7 +10567,7 @@ additional terms may apply.
 See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
 	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [//www.gnu.org/copyleft/fdl.html GFDL].
 You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.
-See the [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.',
+See the [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'اگر تسی اے چاندے او کے تواڈی لکھائی نوں چھیڑیا یا دوجیاں تھاواں تے نا لایا جاۓ تے ایتھے نا لکھو۔
 اگر تسی اے آپے نئیں لکھیا تے فیر اس لکھائی نوں [//wikimediafoundation.org/wiki/Terms_of_Use ورتن دیاں شرطاں]، ایناں شرطاں نوں پورا کرنا چائیدا اے۔ تسی وی باقی ساریاں لائسنس آلے کم پورے کرن دی حامی پرو۔',
 	'cant-delete-main-page' => 'تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او',
@@ -10557,7 +10580,7 @@ $messages['pnt'] = array(
 	'sitesupport' => 'Δωρεάς',
 	'tooltip-n-sitesupport' => 'Βοηθέστεν το έργον.',
 	'group-sysadmin' => 'Διαχειριστάδες συστηματί',
-	'group-sysadmin-member' => 'διαχειριστάς συστηματί',
+	'group-sysadmin-member' => 'διαχειριστάς συστηματί', # Fuzzy
 );
 
 /** Pashto (پښتو)
@@ -10625,7 +10648,6 @@ $messages['ps'] = array(
 );
 
 /** Portuguese (português)
- * @author 555
  * @author Capmo
  * @author Crazymadlover
  * @author David0811
@@ -10639,6 +10661,7 @@ $messages['ps'] = array(
  * @author SandroHc
  * @author Sir Lestaty de Lioncourt
  * @author Waldir
+ * @author 555
  */
 $messages['pt'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
@@ -10762,7 +10785,6 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author BrunaaAa
  * @author Capmo
  * @author Carla404
@@ -10777,6 +10799,7 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
  * @author Nemo bis
  * @author Rafael Vargas
  * @author Sir Lestaty de Lioncourt
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
@@ -11045,7 +11068,7 @@ $messages['rm'] = array(
 $messages['rmy'] = array(
 	'sitesupport' => 'Denimata',
 	'group-steward' => 'Stewardurya',
-	'group-steward-member' => 'Stewardo',
+	'group-steward-member' => 'Stewardo', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Stewardurya',
 );
 
@@ -11465,90 +11488,90 @@ $messages['rue'] = array(
 	'nstab-sequence' => 'Послїдовность',
 	'nstab-timedtext' => 'Субтитри',
 	'group-Image-reviewer' => 'Перевірникы образків',
-	'group-Image-reviewer-member' => 'перевірник образків',
+	'group-Image-reviewer-member' => 'перевірник образків', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Перевірникы образків',
 	'group-OTRS-member' => 'Члены OTRS',
-	'group-OTRS-member-member' => 'член OTRS',
+	'group-OTRS-member-member' => 'член OTRS', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:Члены OTRS',
 	'group-abusefilter' => 'Адміністраторы філтра знеужываня',
-	'group-abusefilter-member' => 'адміністратор філтра знеужываня',
+	'group-abusefilter-member' => 'адміністратор філтра знеужываня', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Редакторы філтра знеужываня',
 	'group-accountcreator' => 'Створювачі конт',
-	'group-accountcreator-member' => 'створювач конт',
+	'group-accountcreator-member' => 'створювач конт', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Закладателї конт',
 	'group-arbcom' => 'Члены арбітражного комітету',
-	'group-arbcom-member' => 'член арбітражного комітету',
+	'group-arbcom-member' => 'член арбітражного комітету', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Члены арбітражного комітету',
 	'group-autopatrolled' => 'Автопатролы',
-	'group-autopatrolled-member' => 'автопатрола',
+	'group-autopatrolled-member' => 'автопатрола', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Автопатрола',
 	'group-autoreviewer' => 'Авторедакторы',
-	'group-autoreviewer-member' => 'авторедактор',
+	'group-autoreviewer-member' => 'авторедактор', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Авторедакторы',
 	'group-bigexport' => 'Велікоекспортеры',
-	'group-bigexport-member' => 'велікоекспортер',
+	'group-bigexport-member' => 'велікоекспортер', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Великоекспортеры',
 	'group-confirmed' => 'Підтверджены хоснователї',
-	'group-confirmed-member' => 'підтвердженый хоснователь',
+	'group-confirmed-member' => 'підтвердженый хоснователь', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Підтверджены хоснователї',
 	'group-editprotected' => 'Редакторы замкнутых сторінок',
-	'group-editprotected-member' => 'редактор замкнутых сторінок',
+	'group-editprotected-member' => 'редактор замкнутых сторінок', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Редакторы замкнутых сторінок',
 	'group-eliminator' => 'Елімінаторы',
-	'group-eliminator-member' => 'елімінатор',
+	'group-eliminator-member' => 'елімінатор', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Елімінатор',
 	'group-filemover' => 'Переменовачі файлів',
-	'group-filemover-member' => 'переменовач файлів',
+	'group-filemover-member' => 'переменовач файлів', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Переменовачі файлів',
 	'group-flood' => 'Бот-хоснователї',
-	'group-flood-member' => 'бот-хоснователь',
+	'group-flood-member' => 'бот-хоснователь', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Бот-хоснователї',
 	'group-founder' => 'Основникы',
-	'group-founder-member' => 'закладатель',
+	'group-founder-member' => 'закладатель', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Закладателї',
 	'group-import' => 'Імпортеры',
-	'group-import-member' => 'імпортер',
+	'group-import-member' => 'імпортер', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Імпортеры',
 	'group-interface_editor' => 'Редакторы інтерфейсу',
-	'group-interface_editor-member' => 'редактор інтерфейсу',
+	'group-interface_editor-member' => 'редактор інтерфейсу', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Редакторы інтерфейсу',
 	'group-ipblock-exempt' => 'Выняткы з блокованя IP адрес',
-	'group-ipblock-exempt-member' => 'выняткок з блокованя IP адрес',
+	'group-ipblock-exempt-member' => 'выняткок з блокованя IP адрес', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Выняткы з блокованя IP адрес',
 	'group-patroller' => 'Патролы',
-	'group-patroller-member' => 'патрола',
+	'group-patroller-member' => 'патрола', # Fuzzy
 	'group-researcher' => 'Бадателї',
-	'group-researcher-member' => 'бадатель',
+	'group-researcher-member' => 'бадатель', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Бадателї',
 	'group-rollbacker' => 'Бадателї',
-	'group-rollbacker-member' => 'ревертователь',
+	'group-rollbacker-member' => 'ревертователь', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Ревертователї',
 	'group-transwiki' => 'Transwiki-імпортеры',
-	'group-transwiki-member' => 'Transwiki-імпортер',
+	'group-transwiki-member' => 'Transwiki-імпортер', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-імпортеры',
 	'group-trusted' => 'Довірны хоснователї',
-	'group-trusted-member' => 'довірный хоснователь',
+	'group-trusted-member' => 'довірный хоснователь', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Довірны хоснователї',
 	'group-Global_bot' => 'Ґлобалны боты',
-	'group-Global_bot-member' => 'ґлобалный бот',
+	'group-Global_bot-member' => 'ґлобалный бот', # Fuzzy
 	'group-Global_rollback' => 'Ґлобалны ревертователї',
-	'group-Global_rollback-member' => 'ґлобалный ревертователь',
+	'group-Global_rollback-member' => 'ґлобалный ревертователь', # Fuzzy
 	'group-Global_sysops' => 'Ґлобалны адміністраторы',
-	'group-Global_sysops-member' => 'ґлобалный адміністратор',
+	'group-Global_sysops-member' => 'ґлобалный адміністратор', # Fuzzy
 	'group-Ombudsmen' => 'Омбудсмены',
-	'group-Ombudsmen-member' => 'омбудсман',
+	'group-Ombudsmen-member' => 'омбудсман', # Fuzzy
 	'group-Staff' => 'Персонал',
 	'group-Staff-member' => 'член персоналу',
 	'group-editinterface' => 'Редакторы інтерфейсу',
-	'group-editinterface-member' => 'редактор інтерфейсу',
+	'group-editinterface-member' => 'редактор інтерфейсу', # Fuzzy
 	'group-steward' => 'Стеварды',
-	'group-steward-member' => 'стевард',
+	'group-steward-member' => 'стевард', # Fuzzy
 	'group-sysadmin' => 'Сістемовы адміністраторы',
-	'group-sysadmin-member' => 'сістемный адміністратор',
+	'group-sysadmin-member' => 'сістемный адміністратор', # Fuzzy
 	'group-coder' => 'Проґраматоры',
-	'group-coder-member' => 'проґраматор',
+	'group-coder-member' => 'проґраматор', # Fuzzy
 	'group-inactive' => 'Неактівны хоснователї',
-	'group-inactive-member' => 'неактівный хоснователь',
+	'group-inactive-member' => 'неактівный хоснователь', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Неактівны хоснователї',
 	'wikimedia-copyright' => 'Текст є доступный під <a href="//creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href="//wikimediafoundation.org/wiki/Условія_схоснованя">Условія схоснованя</a>.',
 	'wikimedia-copyrightwarning' => 'Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [//creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[//wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].',
@@ -11717,93 +11740,93 @@ $messages['sah'] = array(
 	'nstab-sequence' => 'Утум',
 	'nstab-timedtext' => 'Синхротиэкис',
 	'group-Image-reviewer' => 'Ойуулары тургутааччылар',
-	'group-Image-reviewer-member' => 'ойуулары тургутааччы',
+	'group-Image-reviewer-member' => 'ойуулары тургутааччы', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Ойуу тургутааччылар',
 	'group-OTRS-member' => 'OTRS чилиэннэрэ',
-	'group-OTRS-member-member' => 'OTRS чилиэнэ',
+	'group-OTRS-member-member' => 'OTRS чилиэнэ', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS чилиэннэрэ',
 	'group-abusefilter' => 'Омсо сиидэтин эрэдээктэрдэрэ',
-	'group-abusefilter-member' => 'омсо сиидэтин эрэдээктэрэ',
+	'group-abusefilter-member' => 'омсо сиидэтин эрэдээктэрэ', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Омсо сиидэтин эрэдээктэрдэрэ',
 	'group-accountcreator' => 'Кыттааччылар ааттарын айааччылар/бигэргэтээччилэр',
-	'group-accountcreator-member' => 'Кыттаачылар ааттарын бигэргэтээччи/оҥорооччу',
+	'group-accountcreator-member' => 'Кыттаачылар ааттарын бигэргэтээччи/оҥорооччу', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Кыттааччылар ааттарын бигэргэтээччилэр/айааччылар',
 	'group-arbcom' => 'Арбитраж кэмитиэтин чилиэннэрэ',
-	'group-arbcom-member' => 'арбитраж кэмитиэтин чилиэннэрэ',
+	'group-arbcom-member' => 'арбитраж кэмитиэтин чилиэннэрэ', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Арбитраж кэмитиэтин чилиэннэрэ',
 	'group-autopatrolled' => 'Аптамаатынан ботуруулланааччылар',
-	'group-autopatrolled-member' => 'аптамаатынан ботуруулланааччы',
+	'group-autopatrolled-member' => 'аптамаатынан ботуруулланааччы', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Аптамаатынан ботуруулланааччылар',
 	'group-autoreviewer' => 'Аптамаатынан бигэргэтиллэр',
-	'group-autoreviewer-member' => 'аптамаатынан бигэргэнэр',
+	'group-autoreviewer-member' => 'аптамаатынан бигэргэнэр', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Аптамаатынан бигэргэнэр',
 	'group-bigexport' => 'Улахан экспортёрдар',
-	'group-bigexport-member' => 'улахан экспортёр',
+	'group-bigexport-member' => 'улахан экспортёр', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Улахан экспортёрдар',
 	'group-confirmed' => 'Бигэргэммит кыттааччылар',
-	'group-confirmed-member' => 'бигэргэммит кыттааччы',
+	'group-confirmed-member' => 'бигэргэммит кыттааччы', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Бигэргэммит кыттааччылар',
 	'group-editprotected' => 'Көмүскэммит сирэйи уларытар кыахтаахтар:',
-	'group-editprotected-member' => 'көмүскэммит сирэйи уларытар кыахтаах киһи:',
+	'group-editprotected-member' => 'көмүскэммит сирэйи уларытар кыахтаах киһи:', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:көмүскэммит ыстатыйалар эрэдээктэрлэрэ',
 	'group-eliminator' => 'Сотооччулар',
-	'group-eliminator-member' => 'сотооччу',
+	'group-eliminator-member' => 'сотооччу', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Сотооччу',
 	'group-filemover' => 'Билэ аатын уларытааччылар',
-	'group-filemover-member' => 'билэ аатын уларытааччы',
+	'group-filemover-member' => 'билэ аатын уларытааччы', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Билэ аатын уларытааччылар',
 	'group-flood' => 'Робот кыттааччылар',
-	'group-flood-member' => 'кытааччы руобаттар',
+	'group-flood-member' => 'кытааччы руобаттар', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Кыттааччы руобаттар',
 	'group-founder' => 'Тэрийээччилэр',
-	'group-founder-member' => 'Тэрийээччи',
+	'group-founder-member' => 'Тэрийээччи', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Тэрийээччилэр',
 	'group-import' => 'Импортааччылар',
-	'group-import-member' => 'Импортааччы',
+	'group-import-member' => 'Импортааччы', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Импортааччылар',
 	'group-interface_editor' => 'Интерфейс эрэдээктэрдэрэ',
-	'group-interface_editor-member' => 'интерфейс эрэдээктэрэ',
+	'group-interface_editor-member' => 'интерфейс эрэдээктэрэ', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Интерфейс эрэдээктэрдэрэ',
 	'group-ipblock-exempt' => 'Хааччахтааһыҥҥа киирбэт IP-лаахтар',
-	'group-ipblock-exempt-member' => 'IP-та хааччахтаммат кыттааччы',
+	'group-ipblock-exempt-member' => 'IP-та хааччахтаммат кыттааччы', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-лара хааччахтаммат кыттааччылар',
 	'group-patroller' => 'Ботурууллар',
 	'group-patroller-member' => '{{GENDER:$1|ботуруул}}',
 	'group-researcher' => 'Чинчийээччилэр',
-	'group-researcher-member' => 'чинчийээччи',
+	'group-researcher-member' => 'чинчийээччи', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Чинчийэччилэр',
 	'group-rollbacker' => 'Төннөрөөччүлэр',
-	'group-rollbacker-member' => 'Төннөрөөччү',
+	'group-rollbacker-member' => 'Төннөрөөччү', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Төннөрөөччүлэр',
 	'group-transwiki' => 'Transwiki`ттан импортааччылар',
-	'group-transwiki-member' => 'transwiki`ттан импортааччы',
+	'group-transwiki-member' => 'transwiki`ттан импортааччы', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki`ттан көһөрөөччүлэр',
 	'group-trusted' => 'Итэҕэллээх кыттааччылар',
-	'group-trusted-member' => 'итэҕэтиилээх кыттааччы',
+	'group-trusted-member' => 'итэҕэтиилээх кыттааччы', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Итэҕэллээх кыттааччылар',
 	'group-Global_bot' => 'Бырайыактар ыккардынааҕы руобаттар',
-	'group-Global_bot-member' => 'бырайыактар ыккардынааҕы руобаттар',
+	'group-Global_bot-member' => 'бырайыактар ыккардынааҕы руобаттар', # Fuzzy
 	'group-Global_rollback' => 'Бырайыактар ыккардынааҕы төннөрөөччүлэр',
-	'group-Global_rollback-member' => 'бырайыактар ыккардынааҕы төннөрөөччүлэр',
+	'group-Global_rollback-member' => 'бырайыактар ыккардынааҕы төннөрөөччүлэр', # Fuzzy
 	'group-Global_sysops' => 'Аан дьаһабыллар',
-	'group-Global_sysops-member' => 'аан дьаһабыл',
+	'group-Global_sysops-member' => 'аан дьаһабыл', # Fuzzy
 	'group-Ombudsmen' => 'Омбудсменнар',
-	'group-Ombudsmen-member' => 'омбудсман',
+	'group-Ombudsmen-member' => 'омбудсман', # Fuzzy
 	'group-Staff' => 'Үлэһиттэр',
 	'group-Staff-member' => 'үлэһит',
 	'group-editinterface' => 'Интерфейс эрэдээктэрдэрэ',
 	'group-editinterface-member' => '{{GENDER:$1|интерфейс эрэдээктэрэ}}',
 	'group-steward' => 'Үстүйээрдэр',
-	'group-steward-member' => 'үстүйээрдэр',
+	'group-steward-member' => 'үстүйээрдэр', # Fuzzy
 	'group-sysadmin' => 'Тиһик (систиэмэ) дьаһабыллара',
-	'group-sysadmin-member' => 'дьаһабыл',
+	'group-sysadmin-member' => 'дьаһабыл', # Fuzzy
 	'group-coder' => 'Программистар',
-	'group-coder-member' => 'программист',
+	'group-coder-member' => 'программист', # Fuzzy
 	'group-inactive' => 'Көҕө суох кыттааччылар',
 	'group-inactive-member' => '{{GENDER:$1|көҕө суох кыттааччы}}',
 	'grouppage-inactive' => '{{ns:project}}:Көҕө суох кыттааччылар',
 	'wikimedia-copyright' => 'Тиэкис <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензия усулуобуйатынан тарҕанар, сорох түбэлтэҕэ эбии көрдөбүллэр баар буолуохтарын сөп. Сиһилии <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Туттуу усулуобуйатын</a> көр.',
-	'wikimedia-copyrightwarning' => 'Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] уонна [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларынан тарҕанарыгар сөбүлэҥҥин биэрэҕин, онтуҥ төннүбэт. Бу сирэйи атын дьон туһанар түгэннэригэр, эйиэхэ гипер сигэ эбэтэр URL көмөтүнэн сигэниэхтэрэ, ону кытта сөбүлэһэҕин. Сиһилии [//wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] көр.',
+	'wikimedia-copyrightwarning' => 'Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] уонна [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларынан тарҕанарыгар сөбүлэҥҥин биэрэҕин, онтуҥ төннүбэт. Бу сирэйи атын дьон туһанар түгэннэригэр, эйиэхэ гипер сигэ эбэтэр URL көмөтүнэн сигэниэхтэрэ, ону кытта сөбүлэһэҕин. Сиһилии [//wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] көр.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Эн тиэкистэриҥ көҥүл уларытыллыахтарын уонна ханнык баҕарар ньыманнан тарҕаныахтарын баҕарбат буоллаххына манна угума.
 Угар тиэкиһиҥ ааптара буолбатах буоллаххына, ол тиэкис бу лицензия көрдөбүллэригэр сөп түбэһиэхтээх:[//wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] ону таһынан лицензия көрдөбүллэрин толоруом диэн бэйэҥ сөбүлэһэҕин.',
 );
@@ -11836,50 +11859,50 @@ $messages['scn'] = array(
 	'tooltip-n-sitesupport' => 'Sustinìticci',
 	'group-abusefilter' => 'Gisturi di filtra anti abbusi',
 	'group-accountcreator' => 'Criatura di cunti',
-	'group-accountcreator-member' => 'Criaturi di cuntu',
+	'group-accountcreator-member' => 'Criaturi di cuntu', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Criatura di cunti',
 	'group-confirmed' => 'Utilizzatura cunfirmati',
 	'group-founder' => 'Funnatura',
-	'group-founder-member' => 'Funnaturi',
+	'group-founder-member' => 'Funnaturi', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Funnatura',
 	'group-import' => 'Mpurtatura',
-	'group-import-member' => 'Mpurtaturi',
+	'group-import-member' => 'Mpurtaturi', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Mpurtatura',
 	'group-ipblock-exempt' => 'Esenti dû bloccu IP',
-	'group-ipblock-exempt-member' => 'Esenti dû bloccu IP',
+	'group-ipblock-exempt-member' => 'Esenti dû bloccu IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Esenti dû bloccu IP',
 	'group-rollbacker' => 'Ripristinatura',
-	'group-rollbacker-member' => 'Ripristinaturi',
+	'group-rollbacker-member' => 'Ripristinaturi', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Ripristinatura',
 	'group-transwiki' => 'Mpurtaturi transwiki',
-	'group-transwiki-member' => 'Mpurtaturi transwiki',
+	'group-transwiki-member' => 'Mpurtaturi transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Mpurtatura transwiki',
 	'group-Global_bot' => 'Bot glubbali',
-	'group-Global_bot-member' => 'bot glubbali',
+	'group-Global_bot-member' => 'bot glubbali', # Fuzzy
 	'group-Global_rollback' => 'Ripristinatura glubbali',
-	'group-Global_rollback-member' => 'ripristinaturi glubbali',
+	'group-Global_rollback-member' => 'ripristinaturi glubbali', # Fuzzy
 	'group-Ombudsmen' => 'Difinsura civici',
-	'group-Ombudsmen-member' => 'difinsuri cìvicu',
+	'group-Ombudsmen-member' => 'difinsuri cìvicu', # Fuzzy
 	'group-Staff' => 'Staff',
 	'group-Staff-member' => 'Cumpunenti dû staff',
-	'group-editinterface-member' => 'Editori dâ interfaccia',
+	'group-editinterface-member' => 'Editori dâ interfaccia', # Fuzzy
 	'group-steward' => 'Stiùwart',
-	'group-steward-member' => 'Stiùwart',
+	'group-steward-member' => 'Stiùwart', # Fuzzy
 	'grouppage-steward' => 'm:Stewards',
 	'group-sysadmin' => 'Amministratura di sistema',
-	'group-sysadmin-member' => 'amministraturi di sistema',
+	'group-sysadmin-member' => 'amministraturi di sistema', # Fuzzy
 	'grouppage-sysadmin' => 'm:System administrators',
 	'group-coder' => 'Cudificatura',
-	'group-coder-member' => 'cudificaturi',
+	'group-coder-member' => 'cudificaturi', # Fuzzy
 	'group-inactive' => 'Utenti inattivi',
-	'group-inactive-member' => 'utenti inattivu',
+	'group-inactive-member' => 'utenti inattivu', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Lu testu è dispunibbili sutta la <a href="//creativecommons.org/licenses/by-sa/3.0/">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;
 si pònnu applicàrisi àutri cunnizzioni.
 Talìa li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">cunnizzioni di usu</a> pi li dittagli.',
 	'wikimedia-copyrightwarning' => "Sarvannu, siti d'accordu di rènniri dispunìbbili lu vostru cuntribbutu sutta la [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e la [//www.gnu.org/copyleft/fdl.html GFDL].
 Siti d'accordu puru ca àutri riutilizzatura b'accreditanu lu vostru travagghiu, cu lu liami o cu na URL â pàggina â quali stai cuntribbuennu.
-Talia lu [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sapìrinni cchiossai.",
+Talia lu [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sapìrinni cchiossai.", # Fuzzy
 	'wikimedia-editpage-tos-summary' => "Siddu nun vuoi ca lu tò scrittu nun è canciatu e ridistrubuitu a vuluntà, allura nun lu suttamettiri ccà.
 Siddu nun lu scrivistu tu, havi a essiri dispunibbili a cunnizzioni ca arrispetta li [//wikimediafoundation.org/wiki/Terms_of_Use Termini di Usu], e ca tu si d'accordu di rispittari li riquisiti di licenza.",
 );
@@ -11890,13 +11913,13 @@ Siddu nun lu scrivistu tu, havi a essiri dispunibbili a cunnizzioni ca arrispett
  */
 $messages['sco'] = array(
 	'sitesupport' => 'Propines',
-	'group-confirmed-member' => 'confirmed uiser',
+	'group-confirmed-member' => 'confirmed uiser', # Fuzzy
 	'group-flood' => 'Bot uisers',
-	'group-flood-member' => 'bot uiser',
+	'group-flood-member' => 'bot uiser', # Fuzzy
 	'group-rollbacker' => 'Rowbackers',
-	'group-rollbacker-member' => 'rowbacker',
+	'group-rollbacker-member' => 'rowbacker', # Fuzzy
 	'group-inactive' => 'Inactive uisers',
-	'group-inactive-member' => 'inactive uisers',
+	'group-inactive-member' => 'inactive uisers', # Fuzzy
 );
 
 /** Sindhi (سنڌي)
@@ -11940,7 +11963,7 @@ $messages['sei'] = array(
 $messages['sgs'] = array(
 	'sitesupport' => 'Pagelba',
 	'group-Global_bot' => 'Gluobalūs buotā',
-	'group-Global_bot-member' => 'gluobalus buots',
+	'group-Global_bot-member' => 'gluobalus buots', # Fuzzy
 	'group-steward' => 'Gaspaduorē',
 	'group-sysadmin' => 'Sėstėmas admėnėstratuorē',
 );
@@ -12107,93 +12130,93 @@ $messages['sk'] = array(
 	'nstab-sequence' => 'Poradie',
 	'nstab-timedtext' => 'ČasovanýText',
 	'group-Image-reviewer' => 'Kontrolóri obrázkov',
-	'group-Image-reviewer-member' => 'kontrolór obrázkov',
+	'group-Image-reviewer-member' => 'kontrolór obrázkov', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Kontrolóri obrázkov',
 	'group-OTRS-member' => 'Členovia OTRS',
 	'group-OTRS-member-member' => 'člen OTRS',
 	'grouppage-OTRS-member' => '{{ns:project}}:Členovia OTRS',
 	'group-abusefilter' => 'Redaktori filtrov zneužití',
-	'group-abusefilter-member' => 'redaktor filtrov zneužití',
+	'group-abusefilter-member' => 'redaktor filtrov zneužití', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Redaktori filtrov zneužití',
 	'group-accountcreator' => 'Tvorcovia účtov',
-	'group-accountcreator-member' => 'Tvorca účtu',
+	'group-accountcreator-member' => 'Tvorca účtu', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Tvorcovia účtov',
 	'group-arbcom' => 'Členovia arbitrážnej komisie',
-	'group-arbcom-member' => 'člen arbitrážnej komisie',
+	'group-arbcom-member' => 'člen arbitrážnej komisie', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Členovia arbitrážnej komisie',
 	'group-autopatrolled' => 'Automatickí strážcovia',
-	'group-autopatrolled-member' => 'strážca',
+	'group-autopatrolled-member' => 'strážca', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Strážcovia',
 	'group-autoreviewer' => 'Autokontrolóri',
-	'group-autoreviewer-member' => 'autokontrolór',
+	'group-autoreviewer-member' => 'autokontrolór', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Autokontrolóri',
 	'group-bigexport' => 'Hromadní exportéri',
-	'group-bigexport-member' => 'hromadní exportér',
+	'group-bigexport-member' => 'hromadní exportér', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Hromadní exportéri',
 	'group-confirmed' => 'Potvrdení používatelia',
-	'group-confirmed-member' => 'potvrdený používateľ',
+	'group-confirmed-member' => 'potvrdený používateľ', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Potvrdení používatelia',
 	'group-editprotected' => 'Radaktori chránených stránok',
-	'group-editprotected-member' => 'redaktor chránených stránok',
+	'group-editprotected-member' => 'redaktor chránených stránok', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Redaktori chránených stránok',
 	'group-eliminator' => 'Eliminátori',
-	'group-eliminator-member' => 'eliminátor',
+	'group-eliminator-member' => 'eliminátor', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Eliminátor',
 	'group-filemover' => 'Presúvači súborov',
-	'group-filemover-member' => 'presúvač súborov',
+	'group-filemover-member' => 'presúvač súborov', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Presúvači súborov',
 	'group-flood' => 'Robotickí používatelia',
-	'group-flood-member' => 'robotickí používatelia',
+	'group-flood-member' => 'robotickí používatelia', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Robotickí používatelia',
 	'group-founder' => 'Zakladatelia',
-	'group-founder-member' => 'Zakladateľ',
+	'group-founder-member' => 'Zakladateľ', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Zakladatelia',
 	'group-import' => 'Importéri',
-	'group-import-member' => 'Importér',
+	'group-import-member' => 'Importér', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importéri',
 	'group-interface_editor' => 'Redaktori rozhrania',
-	'group-interface_editor-member' => 'redaktor rozhrania',
+	'group-interface_editor-member' => 'redaktor rozhrania', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Redaktor rozhrania',
 	'group-ipblock-exempt' => 'Výnimky z blokovaní IP',
-	'group-ipblock-exempt-member' => 'Výnimka z blokovaní IP',
+	'group-ipblock-exempt-member' => 'Výnimka z blokovaní IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Výnimky z blokovaní IP',
 	'group-patroller' => 'Strážcovia',
-	'group-patroller-member' => 'Strážca',
+	'group-patroller-member' => 'Strážca', # Fuzzy
 	'group-researcher' => 'Výskumníci',
-	'group-researcher-member' => 'výskumník',
+	'group-researcher-member' => 'výskumník', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Výskumníci',
 	'group-rollbacker' => 'S právom rollback',
-	'group-rollbacker-member' => 'S právom rollback',
+	'group-rollbacker-member' => 'S právom rollback', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:S právom rollback',
 	'group-transwiki' => 'Transwiki importéri',
-	'group-transwiki-member' => 'Transwiki importér',
+	'group-transwiki-member' => 'Transwiki importér', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéri',
 	'group-trusted' => 'Dôveryhodní používatelia',
-	'group-trusted-member' => 'dôveryhodný používateľ',
+	'group-trusted-member' => 'dôveryhodný používateľ', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Dôveryhodní používatelia',
 	'group-Global_bot' => 'Globálni roboti',
-	'group-Global_bot-member' => 'Globálny robot',
+	'group-Global_bot-member' => 'Globálny robot', # Fuzzy
 	'group-Global_rollback' => 'Globálni rollbackeri',
-	'group-Global_rollback-member' => 'Globálny rollbacker',
+	'group-Global_rollback-member' => 'Globálny rollbacker', # Fuzzy
 	'group-Global_sysops' => 'Globálni správcovia',
-	'group-Global_sysops-member' => 'globálny správca',
+	'group-Global_sysops-member' => 'globálny správca', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsmani',
-	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Ombudsmen-member' => 'Ombudsman', # Fuzzy
 	'group-Staff' => 'Zamestnanci',
 	'group-Staff-member' => 'zamestnanec',
 	'group-editinterface' => 'Editori rozhrania',
-	'group-editinterface-member' => 'editor rozhrania',
+	'group-editinterface-member' => 'editor rozhrania', # Fuzzy
 	'group-steward' => 'Stewardi',
-	'group-steward-member' => 'Steward',
+	'group-steward-member' => 'Steward', # Fuzzy
 	'group-sysadmin' => 'Správcovia systému',
-	'group-sysadmin-member' => 'správca systému',
+	'group-sysadmin-member' => 'správca systému', # Fuzzy
 	'group-coder' => 'Kóderi',
-	'group-coder-member' => 'kóder',
+	'group-coder-member' => 'kóder', # Fuzzy
 	'group-inactive' => 'Neaktívni používatelia',
-	'group-inactive-member' => 'neaktívny používateľ',
+	'group-inactive-member' => 'neaktívny používateľ', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktívni používatelia',
 	'wikimedia-copyright' => 'Text je dostupný za podmienok <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.',
-	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [//wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].',
+	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [//wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ak nesúhlasíte s tým, že váš príspevok môže byť ľubovoľne upravovaný a šírený, nezverejňujte ho tu. Ak ste tento text nenapísali sami, musí byť dostupný za podmienok v súlade s [//wikimediafoundation.org/wiki/Terms_of_Use Podmienkami použitia] a musíte dodržiavať všetky súvisiace licenčné požiadavky.',
 );
 
@@ -12330,7 +12353,8 @@ $messages['sli'] = array(
 	'group-coder' => 'Programmierer',
 );
 
-/** Samoan (Gagana Samoa) */
+/** Samoan (Gagana Samoa)
+ */
 $messages['sm'] = array(
 	'sitesupport' => 'Meaalofa tupe',
 );
@@ -12339,8 +12363,8 @@ $messages['sm'] = array(
  * @author M.M.S.
  */
 $messages['sma'] = array(
-	'sitesupport' => 'Vedtedh beetnegh',
-	'tooltip-n-sitesupport' => '{{SITENAME}} dåarjedidh',
+	'sitesupport' => 'Vedtedh beetnegh', # Fuzzy
+	'tooltip-n-sitesupport' => '{{SITENAME}} dåarjedidh', # Fuzzy
 );
 
 /** Shona (chiShona)
@@ -12378,95 +12402,95 @@ $messages['sq'] = array(
 	'group-Ex_Administrator' => 'Ish-administratorë',
 	'group-Ex_Bureaucrat' => 'Ish-burokratë',
 	'group-Image-reviewer' => 'Inspektorët e figurave',
-	'group-Image-reviewer-member' => 'kontrollues e skedave',
+	'group-Image-reviewer-member' => 'kontrollues e skedave', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Kontrolluesit e skedave',
 	'group-OTRS-member' => 'Anëtarët OTRS',
-	'group-OTRS-member-member' => 'anëtarë OTRS',
+	'group-OTRS-member-member' => 'anëtarë OTRS', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:Anëtarët OTRS',
 	'group-abusefilter' => 'Filtër abuzim redaktues',
-	'group-abusefilter-member' => 'abuzoni redaktorët filtër',
+	'group-abusefilter-member' => 'abuzoni redaktorët filtër', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Abuzoni redaktorët filtër',
 	'group-accountcreator' => 'Krijuesit e llogarive',
-	'group-accountcreator-member' => 'krijues llogarish',
+	'group-accountcreator-member' => 'krijues llogarish', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Krijuesit për llogarit të reja',
 	'group-arbcom' => 'Anëtarët e komisionit të arbitrazhit',
-	'group-arbcom-member' => 'anëtar i komisionit të arbitrazhit',
+	'group-arbcom-member' => 'anëtar i komisionit të arbitrazhit', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Anëtarët e komisionit të arbitrazhit',
 	'group-autopatrolled' => 'Patrullat automatike',
-	'group-autopatrolled-member' => 'patrolluesit automatik',
+	'group-autopatrolled-member' => 'patrolluesit automatik', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Inspektoruesit automatik',
 	'group-autoreviewer' => 'Inspektor automatik',
-	'group-autoreviewer-member' => 'rishikuesit automatik',
+	'group-autoreviewer-member' => 'rishikuesit automatik', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Kontrolluesit automatik',
 	'group-bigexport' => 'Eksportuesit e mëdhenj',
-	'group-bigexport-member' => 'eksportues i madhë',
+	'group-bigexport-member' => 'eksportues i madhë', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Eksportuesit të mëdha',
 	'group-botadmin' => 'Robotë web-i me të drejta administratori',
 	'group-confirmed' => 'Përdoruesit e vërtetuar',
-	'group-confirmed-member' => 'përdorues e konfirmuar',
+	'group-confirmed-member' => 'përdorues e konfirmuar', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Përdoruesit e konfirmuar',
 	'group-editprotected' => 'Redaktorët e faqeve të mbrojtura',
-	'group-editprotected-member' => 'Redaktor për faqeve të mbrojtura',
+	'group-editprotected-member' => 'Redaktor për faqeve të mbrojtura', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Redaktoruesit për faqeve të mbrojtura',
 	'group-eliminator' => 'Asgjesuesit',
-	'group-eliminator-member' => 'eliminues',
+	'group-eliminator-member' => 'eliminues', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Eliminues',
 	'group-filemover' => 'Zhvendosësit e skedave',
-	'group-filemover-member' => 'levizues e skedave',
+	'group-filemover-member' => 'levizues e skedave', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Levizuesit e skedave',
 	'group-flood' => 'Përdoruesit robotë',
-	'group-flood-member' => 'përdorues robotike',
+	'group-flood-member' => 'përdorues robotike', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Përdoruesi robotë',
 	'group-founder' => 'Themeluesit',
-	'group-founder-member' => 'themelues',
+	'group-founder-member' => 'themelues', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Themelues',
 	'group-import' => 'Importuesit',
-	'group-import-member' => 'importues',
+	'group-import-member' => 'importues', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importues',
 	'group-interface_editor' => 'Redaktuesit e shabllonit të faqes të përdoruesit',
-	'group-interface_editor-member' => 'redaktues ndërfaqesh',
+	'group-interface_editor-member' => 'redaktues ndërfaqesh', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Redaktuesit e ndërfaqeve',
 	'group-ipblock-exempt' => 'Përjashtimet për bllokimin e IP-ve',
-	'group-ipblock-exempt-member' => 'bllokimit-IP e përjashtimuar',
+	'group-ipblock-exempt-member' => 'bllokimit-IP e përjashtimuar', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Përjashtim-E bllokimit-IP',
 	'group-patroller' => 'Patrolluesit',
-	'group-patroller-member' => 'inspektorues',
+	'group-patroller-member' => 'inspektorues', # Fuzzy
 	'group-researcher' => 'Hulumtuesit',
-	'group-researcher-member' => 'kërkues',
+	'group-researcher-member' => 'kërkues', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Kërkuesit',
 	'group-rollbacker' => 'Rikthyesit',
-	'group-rollbacker-member' => 'rikthejuës',
+	'group-rollbacker-member' => 'rikthejuës', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Rikthejuësit',
 	'group-transwiki' => 'Importuesit ndër-wiki',
-	'group-transwiki-member' => 'importues transwiki',
+	'group-transwiki-member' => 'importues transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Importuesit e transwiki-t',
 	'group-trusted' => 'Përdoruesit e besuar',
-	'group-trusted-member' => 'përdoruesi e besueshme',
+	'group-trusted-member' => 'përdoruesi e besueshme', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Përdoruesit të besueshme',
 	'group-Global_bot' => 'Robotet global',
-	'group-Global_bot-member' => 'roboti globale',
+	'group-Global_bot-member' => 'roboti globale', # Fuzzy
 	'group-Global_rollback' => 'Rikthejuës globale',
-	'group-Global_rollback-member' => 'Rikthejuës globale',
+	'group-Global_rollback-member' => 'Rikthejuës globale', # Fuzzy
 	'group-Global_sysops' => 'Administratori global',
-	'group-Global_sysops-member' => 'Administrator globale',
+	'group-Global_sysops-member' => 'Administrator globale', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsperson',
-	'group-Ombudsmen-member' => 'Ombudsperson',
+	'group-Ombudsmen-member' => 'Ombudsperson', # Fuzzy
 	'group-Staff' => 'Stafi',
 	'group-Staff-member' => 'anëtar i stafit',
 	'group-editinterface' => 'Redaktues ndërfaqesh',
-	'group-editinterface-member' => 'redaktor interface',
+	'group-editinterface-member' => 'redaktor interface', # Fuzzy
 	'group-steward' => 'Përgjegjës',
-	'group-steward-member' => 'Përgjegjës',
+	'group-steward-member' => 'Përgjegjës', # Fuzzy
 	'group-sysadmin' => 'Sistemi administrativ',
-	'group-sysadmin-member' => 'administratori i sistemit',
+	'group-sysadmin-member' => 'administratori i sistemit', # Fuzzy
 	'group-coder' => 'Koduesit',
-	'group-coder-member' => 'kodues',
+	'group-coder-member' => 'kodues', # Fuzzy
 	'group-inactive' => 'Përdorueset joaktiv',
-	'group-inactive-member' => 'Përdoruesi joaktiv',
+	'group-inactive-member' => 'Përdoruesi joaktiv', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Përdoruesit joaktiv',
 	'wikimedia-copyright' => 'Të gjitha materialet që gjenden në këtë faqë janë të mbrojtura nga <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>.
 Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdorimit</a> për më shumë informacione.',
-	'wikimedia-copyrightwarning' => 'Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] dhe [//www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.',
+	'wikimedia-copyrightwarning' => 'Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] dhe [//www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Nëse ju nuk dëshironi që shkrimet tuaja të redaktohen dhe rishpërndahen, atëherë mos i jepni këtu. Nëse ju nuk e keni shkruar këtë vetë, ajo duhet të jetë në dispozicion sipas kushteve në përputhje me [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e Përdorimit], dhe ju pranoni të ndiqni çdo kërkesë të licensimit përkatës.',
 );
 
@@ -12745,7 +12769,8 @@ $messages['srn'] = array(
 	'tooltip-n-sitesupport' => 'Gi wi wan finansi',
 );
 
-/** Southern Sotho (Sesotho) */
+/** Southern Sotho (Sesotho)
+ */
 $messages['st'] = array(
 	'sitesupport' => 'Dimpho',
 );
@@ -12760,71 +12785,71 @@ $messages['stq'] = array(
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unnerstutse uus',
 	'group-abusefilter' => 'Misbruukssieuwe-Beoarbaidere',
-	'group-abusefilter-member' => 'Misbruukssieuwe-Beoarbaider',
+	'group-abusefilter-member' => 'Misbruukssieuwe-Beoarbaider', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Misbruukssieuwe-Beoarbaidere',
 	'group-accountcreator' => 'Benutserkonten-Moakere',
-	'group-accountcreator-member' => 'Benutserkonten-Moaker',
+	'group-accountcreator-member' => 'Benutserkonten-Moaker', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Benutserkonten-Moakere',
 	'group-autopatrolled' => 'Automatiske Kontrollierdere',
-	'group-autopatrolled-member' => 'Automatisken Wröiger',
+	'group-autopatrolled-member' => 'Automatisken Wröiger', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatiske Wröigere',
 	'group-autoreviewer' => 'Autowröigere',
-	'group-autoreviewer-member' => 'Automatisken Wröiger',
+	'group-autoreviewer-member' => 'Automatisken Wröiger', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske Wröigere',
 	'group-bigexport' => 'Grootexporteure',
-	'group-bigexport-member' => 'Grootexporteur',
+	'group-bigexport-member' => 'Grootexporteur', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Grootexporteure',
 	'group-confirmed' => 'Bestäätigede Benutsere',
-	'group-confirmed-member' => 'Bestäätigeden Benutser',
+	'group-confirmed-member' => 'Bestäätigeden Benutser', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Bestäätigede Benutsere',
 	'group-flood' => 'Botbenutsere',
-	'group-flood-member' => 'Botbenutser',
+	'group-flood-member' => 'Botbenutser', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Botbenutsere',
 	'group-founder' => 'Gruundere',
-	'group-founder-member' => 'Gruunder',
+	'group-founder-member' => 'Gruunder', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Gruundere',
 	'group-import' => 'Importeur',
-	'group-import-member' => 'Importeur',
+	'group-import-member' => 'Importeur', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importeure',
 	'group-ipblock-exempt' => 'IP-Speere-Uutnoamen',
-	'group-ipblock-exempt-member' => 'IP-Speere-Uutnoame',
+	'group-ipblock-exempt-member' => 'IP-Speere-Uutnoame', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-Speere-Uutnoame',
 	'group-patroller' => 'Kontrolleure',
-	'group-patroller-member' => 'Kontrolleur',
+	'group-patroller-member' => 'Kontrolleur', # Fuzzy
 	'group-rollbacker' => 'Touräächsättere',
-	'group-rollbacker-member' => 'Touräächsätter',
+	'group-rollbacker-member' => 'Touräächsätter', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Touräächsättere',
 	'group-transwiki' => 'Transwiki-Importeure',
-	'group-transwiki-member' => 'Transwiki-Importeur',
+	'group-transwiki-member' => 'Transwiki-Importeur', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeure',
 	'group-trusted' => 'Fertjouenswöidige Benutsere',
-	'group-trusted-member' => 'Fertjouenswöidigen Benutser',
+	'group-trusted-member' => 'Fertjouenswöidigen Benutser', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Fertjouenswöidige Benutsere',
 	'group-Global_bot' => 'Globoale Bots',
-	'group-Global_bot-member' => 'Globoalen Bot',
+	'group-Global_bot-member' => 'Globoalen Bot', # Fuzzy
 	'group-Global_rollback' => 'Globoale Touräächsättere',
-	'group-Global_rollback-member' => 'Globoalen Touräächsätter',
+	'group-Global_rollback-member' => 'Globoalen Touräächsätter', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsljuude',
-	'group-Ombudsmen-member' => 'Ombudspersoon',
+	'group-Ombudsmen-member' => 'Ombudspersoon', # Fuzzy
 	'group-Staff' => 'Mee-Oarbaidere',
 	'group-Staff-member' => 'Mee-Oarbaider',
 	'group-editinterface' => 'Benutseruurflächenbeoarbaidere',
-	'group-editinterface-member' => 'Benutseruurflächenbeoarbaider',
+	'group-editinterface-member' => 'Benutseruurflächenbeoarbaider', # Fuzzy
 	'group-steward' => 'Stewarde',
-	'group-steward-member' => 'Steward',
+	'group-steward-member' => 'Steward', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Stewards',
 	'group-sysadmin' => 'Systemadministratore',
-	'group-sysadmin-member' => 'Systemadministrator',
+	'group-sysadmin-member' => 'Systemadministrator', # Fuzzy
 	'group-coder' => 'Programmierdere',
-	'group-coder-member' => 'Programmierder',
+	'group-coder-member' => 'Programmierder', # Fuzzy
 	'group-inactive' => 'Inaktive Benutsere',
-	'group-inactive-member' => 'Inaktiven Benutser',
+	'group-inactive-member' => 'Inaktiven Benutser', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutsere',
 	'wikimedia-copyright' => 'Die Text is unner ju Lizenz <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> ferföigboar; Bedingengen uurhoop konnen anweendboar weese.
 Eenpeldhaide sunt in do <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutsengsbedingengen</a> beschrieuwen.',
 	'wikimedia-copyrightwarning' => 'Mäd dät Spiekerjen lizenzierst du dien Beoarbaidenge sunner dät du dät touräächtraale koast unner ju [//creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] un ju [//www.gnu.org/copyleft/fdl.html GFDL].
 Du stimst tou, dät ne Fääreferweendenge ap minste truch n Hyperlink of ne URL tou ju Siede, ju du beoarbaidest, geböäre duur.
-Eenpeldhaide sunt in do [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] beschrieuwen.',
+Eenpeldhaide sunt in do [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] beschrieuwen.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Wan du nit moatest, dät dien Text fäärebeoarbaided un fääre fersprat wäd, dan spieker ju nit.
 Fals du dän Text nit sälwen ferfoated hääst, mout er unner do
 [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] ferföichboar weese un du stimst tou, noodweendige Lizenzanfoarderengen tou foulgjen.',
@@ -12840,38 +12865,38 @@ $messages['su'] = array(
 	'sitesupport' => 'Sumbangan',
 	'tooltip-n-sitesupport' => 'Bobotohan',
 	'group-accountcreator' => 'Nu nyieun rekening',
-	'group-accountcreator-member' => 'nu nyieun rekening',
+	'group-accountcreator-member' => 'nu nyieun rekening', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Nu nyieun rekening',
 	'group-founder' => 'Nu ngadegkeun',
-	'group-founder-member' => 'nu ngadegkeun',
+	'group-founder-member' => 'nu ngadegkeun', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Nu ngadegkeun',
 	'group-import' => 'Importir',
-	'group-import-member' => 'importir',
+	'group-import-member' => 'importir', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importir',
 	'group-ipblock-exempt' => 'Peungpeuk kajaba IP',
-	'group-ipblock-exempt-member' => 'Peungpeuk kajaba IP',
+	'group-ipblock-exempt-member' => 'Peungpeuk kajaba IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Peungpeuk kajaba IP',
 	'group-patroller' => 'Nu ngaronda',
-	'group-patroller-member' => 'Nu ngaronda',
+	'group-patroller-member' => 'Nu ngaronda', # Fuzzy
 	'group-rollbacker' => 'Malikeun révisi',
-	'group-rollbacker-member' => 'Malikeun révisi',
+	'group-rollbacker-member' => 'Malikeun révisi', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Malikeun révisi',
 	'group-transwiki' => 'Importir transwiki',
-	'group-transwiki-member' => 'importir transwiki',
+	'group-transwiki-member' => 'importir transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Importir transwiki',
 	'group-Global_bot' => 'Bot global',
-	'group-Global_bot-member' => 'bot global',
+	'group-Global_bot-member' => 'bot global', # Fuzzy
 	'group-Global_rollback' => 'Malikeun révisi global',
-	'group-Global_rollback-member' => 'Malikeun révisi global',
+	'group-Global_rollback-member' => 'Malikeun révisi global', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsman',
-	'group-Ombudsmen-member' => 'Ombudsman',
+	'group-Ombudsmen-member' => 'Ombudsman', # Fuzzy
 	'group-Staff' => 'Staf',
 	'group-Staff-member' => 'Anggota staf',
 	'group-steward' => 'Steward',
-	'group-steward-member' => 'steward',
+	'group-steward-member' => 'steward', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Steward',
 	'group-sysadmin' => 'Kuncén sistem',
-	'group-sysadmin-member' => 'kuncén sistem',
+	'group-sysadmin-member' => 'kuncén sistem', # Fuzzy
 );
 
 /** Swedish (svenska)
@@ -13027,43 +13052,53 @@ $messages['sw'] = array(
 	'nstab-institution' => 'Taasisi',
 	'group-OTRS-member' => 'Wanachama wa OTRS',
 	'group-accountcreator' => 'Wanzilishaji wa akaunti',
-	'group-accountcreator-member' => 'mwanzilishaji wa akaunti',
+	'group-accountcreator-member' => 'mwanzilishaji wa akaunti', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Wanzilishaji wa akaunti',
 	'group-confirmed' => 'Watumiaji waliothibitishwa',
-	'group-confirmed-member' => 'mtumiaji aliyethibitishwa',
+	'group-confirmed-member' => 'mtumiaji aliyethibitishwa', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Watumiaji waliothibitishwa',
 	'group-editprotected' => 'Wahariri wa kurasa zilizolindwa',
 	'group-flood' => 'Watumiaji wa boti',
 	'group-import' => 'Waingizaji',
-	'group-import-member' => 'mwingizaji',
+	'group-import-member' => 'mwingizaji', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Waingizaji',
 	'group-interface_editor' => 'Wahariri wa kusano',
 	'group-interface_editor-member' => '{{GENDER:$1|mhariri wa kusano}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Wahariri wa kusano',
 	'group-researcher' => 'Watafiti',
 	'group-transwiki' => 'Waingizaji kati za wiki',
-	'group-transwiki-member' => 'mwingizaji kati za wiki',
+	'group-transwiki-member' => 'mwingizaji kati za wiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Waingizaji kati za wiki',
 	'group-trusted' => 'Watumiaji walioaminika',
 	'group-Staff' => 'Wafanyikazi',
 	'group-editinterface' => 'Wahariri wa kusano',
 	'group-editinterface-member' => '{{GENDER:$1|mhariri wa kusano}}',
 	'group-steward' => 'Wakadamu',
-	'group-steward-member' => 'mkadamu',
+	'group-steward-member' => 'mkadamu', # Fuzzy
 	'group-sysadmin' => 'Wasimamizi wa mfumoi',
 	'group-sysadmin-member' => '{{GENDER:$1|msimamizi wa mfumo}}',
 	'group-translationadmin' => 'Wasimamizi wa tafsiri',
 	'group-translationadmin-member' => '{{GENDER:$1|msimamizi wa tafsiri}}',
 	'group-inactive' => 'Watumiaji waliotulia',
-	'group-inactive-member' => 'mtumiaji aliyetulia',
+	'group-inactive-member' => 'mtumiaji aliyetulia', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Watumiaji waliotulia',
 	'wikimedia-copyright' => 'Maandishi yanapatikana chini ya leseni ya <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; matakwa mengine yanaweza kutakiwa.
 Tazama maelezo zaidi ya <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Matakwa ya Utumiaji</a>.',
 	'wikimedia-copyrightwarning' => 'Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] pamoja na [//www.gnu.org/copyleft/fdl.html GFDL].
 Unakubali utambuliwe wakati maandishi haya yatumika na wengine, angalau kwa nia ya kiungo (hyperlink) au URL kwenye ukurasa uliouchangia.
-Tazama maelezo zaidi ya [//wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji].',
+Tazama maelezo zaidi ya [//wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Ikiwa hutaki maandashi yako yahaririwe na yatumike kwa hiari, basi usiyaweke hapa.
 Ikiwa hukuandika mchango huu mwenyewe, lazima upatikane chini ya matakwa yanayolingana na [//wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji] yanayotumika hapa, na unakubali kufuata matakwa yeyote ya leseni yake.',
+);
+
+/** Säggssch (Säggssch)
+ * @author Thogo
+ */
+$messages['sxu'] = array(
+	'sitesupport' => 'Schbändn',
+	'group-steward' => 'Schdewards',
+	'group-steward-member' => 'Schdeward', # Fuzzy
+	'grouppage-steward' => '{{ns:project}}:Schdewards',
 );
 
 /** Silesian (ślůnski)
@@ -13076,40 +13111,40 @@ $messages['szl'] = array(
 	'sitesupport' => 'Śćepa',
 	'tooltip-n-sitesupport' => 'Wspůmůž nas',
 	'group-accountcreator' => 'Tworzůncy kůnta',
-	'group-accountcreator-member' => 'twůrca kůnt',
+	'group-accountcreator-member' => 'twůrca kůnt', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Twůrcy kůnt',
-	'group-autopatrolled-member' => 'patrolujůncy autůmatyczńy',
+	'group-autopatrolled-member' => 'patrolujůncy autůmatyczńy', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Patrolujůncy autůmatyczńy',
 	'group-founder' => 'Zołożyćele',
-	'group-founder-member' => 'zołożyćel',
+	'group-founder-member' => 'zołożyćel', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Zołożyćele',
 	'group-import' => 'Importery',
-	'group-import-member' => 'importer',
+	'group-import-member' => 'importer', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importery',
 	'group-ipblock-exempt' => 'Uprowńyńi do logowańo śe s zawartych adresůw IP',
-	'group-ipblock-exempt-member' => 'uprowńůny do logowańo śe s zawartego adresa IP',
+	'group-ipblock-exempt-member' => 'uprowńůny do logowańo śe s zawartego adresa IP', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uprowńyńi do logowańo śe s zawartych adresůw IP',
 	'group-rollbacker' => 'Uprowńyńi do wycofywańo sprowjyń',
-	'group-rollbacker-member' => 'uprowńůny do wycofywańo sprowjyń',
+	'group-rollbacker-member' => 'uprowńůny do wycofywańo sprowjyń', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Uprowńyńi do wycofywańo sprowjyń',
 	'group-transwiki' => 'Importery transwiki',
-	'group-transwiki-member' => 'importer transwiki',
+	'group-transwiki-member' => 'importer transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Importery transwiki',
 	'group-Global_bot' => 'Boty globalne',
-	'group-Global_bot-member' => 'bot globalny',
+	'group-Global_bot-member' => 'bot globalny', # Fuzzy
 	'group-Global_rollback' => 'Globalńy uprowńyńi do wycofywańo sprowjyń',
-	'group-Global_rollback-member' => 'globalńy uprowńony do wycofywańo sprowjyń',
+	'group-Global_rollback-member' => 'globalńy uprowńony do wycofywańo sprowjyń', # Fuzzy
 	'group-Ombudsmen' => 'Rzeczńiki prow',
-	'group-Ombudsmen-member' => 'rzeczńik prow',
+	'group-Ombudsmen-member' => 'rzeczńik prow', # Fuzzy
 	'group-steward' => 'Stewardy',
-	'group-steward-member' => 'steward',
+	'group-steward-member' => 'steward', # Fuzzy
 	'group-sysadmin' => 'Admińistratory systymu',
-	'group-sysadmin-member' => 'admińistrator systyma',
+	'group-sysadmin-member' => 'admińistrator systyma', # Fuzzy
 	'group-coder' => 'Programisty',
-	'group-coder-member' => 'programista',
+	'group-coder-member' => 'programista', # Fuzzy
 	'wikimedia-copyright' => 'Tekst je udostympńany na <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pl">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.
 Uobejzdrzij blank dokłodne informacyje uo <a href="//wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystańo</a>.',
-	'wikimedia-copyrightwarning' => 'Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [//wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystańo].',
+	'wikimedia-copyrightwarning' => 'Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [//wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystańo].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Eli ńy chcesz, coby Twůj tekst můg być dowolńe půmjyńany uod kożdygo a tyż rozpowszechńany bez uograńiczeńůw, ńy wćepuj go sam. Jeli tekst ńy uostoł naszkryflany uod Ćebje samygo, muśi uůn być dostympny pode zasadůma zgodnymi ze [//wikimediafoundation.org/wiki/Terms_of_Use warunkami wykorzistańo] a muśisz dać zgoda na wszyjske istotne licencyjne wymogi.',
 );
 
@@ -13257,28 +13292,28 @@ $messages['te'] = array(
 	'group-Ex_Bureaucrat' => 'మాజీ ప్రభుత్వ అధికారులు',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:మాజీ ప్రభుత్వ అధికారులు',
 	'group-Image-reviewer' => 'చిత్రం పునర్విఘర్శకులు',
-	'group-Image-reviewer-member' => 'చిత్ర విమర్శకుడు',
+	'group-Image-reviewer-member' => 'చిత్ర విమర్శకుడు', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:చిత్రం పునర్విఘర్శకులు',
 	'group-OTRS-member' => 'OTRS సబ్యులు',
-	'group-OTRS-member-member' => 'ఓటిఅరఎస్ సభ్యుడు',
+	'group-OTRS-member-member' => 'ఓటిఅరఎస్ సభ్యుడు', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:ఓటిఅరఎస్ సభ్యులు',
 	'group-abusefilter' => 'దుర్వినియోగ వడపోతన కూర్పరులు',
-	'group-abusefilter-member' => 'దుర్వినియోగ వడపోతల కూర్పరి',
+	'group-abusefilter-member' => 'దుర్వినియోగ వడపోతల కూర్పరి', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:దుర్వినియోగ వడపోతల కూర్పరులు',
 	'group-accountcreator' => 'ఖాతా తయారీదార్లు',
-	'group-accountcreator-member' => 'ఖాతా సృష్టికర్త',
+	'group-accountcreator-member' => 'ఖాతా సృష్టికర్త', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:ఖాతా సృష్టికర్తలు',
 	'group-arbcom' => 'మధ్యస్థ సంగము సబ్యులు',
-	'group-arbcom-member' => 'మధ్యవర్తిత్వ సంఘ సభ్యులు',
+	'group-arbcom-member' => 'మధ్యవర్తిత్వ సంఘ సభ్యులు', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}: మధ్యవర్తిత్వ సంఘ సభ్యులు',
 	'group-autopatrolled' => 'స్వీయ-గస్తితిరుగేవారు',
-	'group-autopatrolled-member' => 'ఆటోపాట్రోలర్',
+	'group-autopatrolled-member' => 'ఆటోపాట్రోలర్', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}: స్వీయగస్తితిరుగువారు',
 	'group-autoreviewer' => 'ఆటోరివ్యూవర్స్',
-	'group-autoreviewer-member' => 'ఆటోరివ్యూవర్',
+	'group-autoreviewer-member' => 'ఆటోరివ్యూవర్', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}: ఆటోరివ్యూవర్స్',
 	'group-bigexport' => 'పెద్ద ఎగుమతిదారులు',
-	'group-bigexport-member' => 'పెద్ద ఎగుమతిదారుడు',
+	'group-bigexport-member' => 'పెద్ద ఎగుమతిదారుడు', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:పెద్ద ఎగుమతిదారులు',
 	'group-botadmin' => 'అధీకృత హక్కులు కలిగి ఉన్న యంత్ర భాష',
 	'group-botadmin-member' => '{{GENDER:$1|అధీకృత హక్కులు కలిగి ఉన్న యంత్ర భాష}}',
@@ -13287,27 +13322,27 @@ $messages['te'] = array(
 	'group-confirmed-member' => '{{GENDER:$1|నిర్ధారిత వాడుకరి}}',
 	'grouppage-confirmed' => '{{ns:project}}:నిర్ధారిత వాడుకరులు',
 	'group-editprotected' => 'రక్షించబడిన పుట సంపాదకులు',
-	'group-editprotected-member' => 'సంరక్షిత పుట కూర్పరి',
+	'group-editprotected-member' => 'సంరక్షిత పుట కూర్పరి', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}: రక్షించబడిన పేజి సంపాదకులు',
 	'group-eliminator' => 'నిర్మూలించేవారు',
 	'grouppage-eliminator' => '{{ns:project}}:నిర్మూలించేవారు',
 	'group-filemover' => 'ఫైల్ జరుపువారు',
-	'group-filemover-member' => 'ఫైల్ జరుపువారు',
+	'group-filemover-member' => 'ఫైల్ జరుపువారు', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:ఫైల్ జరిపెటివారు',
 	'group-flood' => 'బాటు వాడుకరులు',
-	'group-flood-member' => ' యంత్రభాష వినియోగదారులు',
+	'group-flood-member' => ' యంత్రభాష వినియోగదారులు', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:బాటు వాడుకరులు',
 	'group-founder' => 'వ్యవస్థాపకులు',
-	'group-founder-member' => 'వ్యవస్థాపకుడు',
+	'group-founder-member' => 'వ్యవస్థాపకుడు', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:వ్యవస్థాపకులు',
 	'group-import' => 'దిగుమతిదార్లు',
-	'group-import-member' => 'దిగుమతిదారు',
+	'group-import-member' => 'దిగుమతిదారు', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:దిగుమతిదార్లు',
 	'group-interface_editor' => 'ఇంటర్ఫేసు సంపాదకులు',
-	'group-interface_editor-member' => 'అంతర్ముఖి లేఖిని',
+	'group-interface_editor-member' => 'అంతర్ముఖి లేఖిని', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:ఇంటర్ఫేసు సంపాదకలు',
 	'group-ipblock-exempt' => 'ఐపీ నిరోధపు మినహాయింపులు',
-	'group-ipblock-exempt-member' => 'ఐపీ నిరోధపు మినహాయింపు',
+	'group-ipblock-exempt-member' => 'ఐపీ నిరోధపు మినహాయింపు', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ఐపీ నిరోధపు మినహాయింపు',
 	'group-patroller' => 'పర్యవేక్షకులు',
 	'group-patroller-member' => '{{GENDER:$1|పర్యవేక్షకుడు}}',
@@ -13318,7 +13353,7 @@ $messages['te'] = array(
 	'group-rollbacker-member' => '{{GENDER:$1|రద్దుచేయువారు}}',
 	'grouppage-rollbacker' => '{{ns:project}}:రద్దుచేసినవారు',
 	'group-transwiki' => 'ట్రాన్స్ వికీ దిగుమతిదారులు',
-	'group-transwiki-member' => 'ట్రాన్స్ వికీ దిగుమతిదారుడు',
+	'group-transwiki-member' => 'ట్రాన్స్ వికీ దిగుమతిదారుడు', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:ట్రాన్స్ వికీ దిగుమతిదార్లు',
 	'group-trusted' => 'విశ్వసనీయ వాడుకరులు',
 	'group-trusted-member' => '{{GENDER:$1|విశ్వసనీయ వినియోగదారుడు}}',
@@ -13326,17 +13361,17 @@ $messages['te'] = array(
 	'group-Global_bot' => 'సార్వత్రిక బాట్లు',
 	'group-Global_bot-member' => '{{GENDER:$1|విశ్వజనీన యంత్ర భాష}}',
 	'group-Global_rollback' => 'విశ్వ వెనకకి మళ్లింపుదారులు',
-	'group-Global_rollback-member' => 'విశ్వ వెనకకి మళ్లింపుదారు',
+	'group-Global_rollback-member' => 'విశ్వ వెనకకి మళ్లింపుదారు', # Fuzzy
 	'group-Global_sysops' => 'సార్వత్రిక నిర్వాహకులు',
 	'group-Global_sysops-member' => '{{GENDER:$1|సార్వత్రిక నిర్వాహకుడు|సార్వత్రిక నిర్వాహకురాలు}}',
 	'group-Ombudsmen' => 'అంబుడ్స్మెన్',
-	'group-Ombudsmen-member' => 'అంబుడ్స్మన్',
+	'group-Ombudsmen-member' => 'అంబుడ్స్మన్', # Fuzzy
 	'group-Staff' => 'సిబ్బంది',
 	'group-Staff-member' => 'సిబ్బంది',
 	'group-editinterface' => 'ఇంటర్ఫేస్ ఎడిటర్లు',
-	'group-editinterface-member' => 'ఇంటర్ఫేస్ ఎడిటరు',
+	'group-editinterface-member' => 'ఇంటర్ఫేస్ ఎడిటరు', # Fuzzy
 	'group-steward' => 'స్టీవార్డులు',
-	'group-steward-member' => 'స్టీవార్డు',
+	'group-steward-member' => 'స్టీవార్డు', # Fuzzy
 	'group-sysadmin' => 'వ్యవస్థ నిర్వాహకులు',
 	'group-sysadmin-member' => '{{GENDER:$1|వ్యవస్థ నిర్వహణాధికారి}}',
 	'group-translationadmin' => 'అనువాద నిర్వాహకులు',
@@ -13354,9 +13389,16 @@ $messages['te'] = array(
 
 కనీస స్థాయిలో మీరు పనిచేస్తున్న పేజీకి లింకు లేదా URL ఇవ్వడం ద్వారా దీన్ని వాడుకునేవారు మీకు శ్రేయస్సు నాపాదిస్తారు. ఇందుకు మీరు సమ్మతిస్తున్నారు.
 
-వివరాల కోసం [//wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.',
+వివరాల కోసం [//wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'మీ రచనలను వేరొకరు మార్చకూడదు, పంచిపెట్టకూడదు అని మీరు అనుకుంటే, మీ రచనలను ఇక్కడ సమర్పించవద్దు. ఈ రచనకు మీరు స్వంతదారులు కాకపోతే ఇది [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] క్రింద ఇది సమర్పించబడి ఉండాలి. అలానే, సంబంధించిన లైసెన్స్ షరతులకు మీరు ఒప్పుకోవాలి.',
 	'cant-delete-main-page' => 'మీరు ప్రధాన పేజీని కదిలించలేరు, తొలగించలేరు',
+);
+
+/** Test (site admin only) (Test (site admin only)) */
+$messages['test'] = array(
+	'sitesupport-url' => 'x',
+	'sitesupport' => 'x',
+	'tooltip-n-sitesupport' => 'x',
 );
 
 /** Tetum (tetun)
@@ -13379,39 +13421,39 @@ $messages['tg-cyrl'] = array(
 	'sitesupport' => 'Кӯмаки молӣ',
 	'tooltip-n-sitesupport' => 'Моро дастгири намоед',
 	'group-accountcreator' => 'Эҷодгарони ҳисоб',
-	'group-accountcreator-member' => 'эҷодкунандаи ҳисоб',
+	'group-accountcreator-member' => 'эҷодкунандаи ҳисоб', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Созандагони ҳисоби корбарӣ',
-	'group-autopatrolled-member' => 'гаштзани худкор',
+	'group-autopatrolled-member' => 'гаштзани худкор', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Гаштзанони худкор',
 	'group-founder' => 'Бунёдгузорон',
-	'group-founder-member' => 'асосгузор',
+	'group-founder-member' => 'асосгузор', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Асосгузорон',
 	'group-import' => 'Воридкунандагон',
-	'group-import-member' => 'воридкунанда',
+	'group-import-member' => 'воридкунанда', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Воридкунандагон',
 	'group-ipblock-exempt' => 'Истиснои қатъи дастрасии нишонаи IP',
-	'group-ipblock-exempt-member' => 'Истиснои қатъи дастрасии нишонаи интернетӣ',
+	'group-ipblock-exempt-member' => 'Истиснои қатъи дастрасии нишонаи интернетӣ', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Истиснои қатъи дастрасии нишонаи IP',
 	'group-rollbacker' => 'Вогардоникунандагон',
-	'group-rollbacker-member' => 'вогардоникунанда',
+	'group-rollbacker-member' => 'вогардоникунанда', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Вогардоникунандагон',
 	'group-transwiki' => 'Воридкунандагони трансвики',
-	'group-transwiki-member' => 'воридкунандаи трансвики',
+	'group-transwiki-member' => 'воридкунандаи трансвики', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Воридкунандагони трансвики',
 	'group-Global_bot' => 'Ботҳои саросарӣ',
-	'group-Global_bot-member' => 'боти саросарӣ',
+	'group-Global_bot-member' => 'боти саросарӣ', # Fuzzy
 	'group-Global_rollback' => 'Вогардоникунандагони саросарӣ',
-	'group-Global_rollback-member' => 'вогардоникунандаи саросарӣ',
+	'group-Global_rollback-member' => 'вогардоникунандаи саросарӣ', # Fuzzy
 	'group-Ombudsmen' => 'Додоварон',
-	'group-Ombudsmen-member' => 'додовар',
+	'group-Ombudsmen-member' => 'додовар', # Fuzzy
 	'group-steward' => 'Википедон',
-	'group-steward-member' => 'википед',
+	'group-steward-member' => 'википед', # Fuzzy
 	'group-sysadmin' => 'Мудирони систем',
-	'group-sysadmin-member' => 'мудири систем',
+	'group-sysadmin-member' => 'мудири систем', # Fuzzy
 	'group-coder' => 'барноманависон',
-	'group-coder-member' => 'барноманавис',
+	'group-coder-member' => 'барноманавис', # Fuzzy
 	'group-inactive' => 'Корбарони ғайрифаъол',
-	'group-inactive-member' => 'корбарони ғайрифаъол',
+	'group-inactive-member' => 'корбарони ғайрифаъол', # Fuzzy
 );
 
 /** Tajik (Latin script) (tojikī)
@@ -13422,39 +13464,39 @@ $messages['tg-latn'] = array(
 	'sitesupport' => 'Kūmaki molī',
 	'tooltip-n-sitesupport' => 'Moro dastgiri namoed',
 	'group-accountcreator' => 'Eçodgaroni hisob',
-	'group-accountcreator-member' => 'eçodkunandai hisob',
+	'group-accountcreator-member' => 'eçodkunandai hisob', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Sozandagoni hisobi korbarī',
-	'group-autopatrolled-member' => 'gaştzani xudkor',
+	'group-autopatrolled-member' => 'gaştzani xudkor', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Gaştzanoni xudkor',
 	'group-founder' => 'Bunjodguzoron',
-	'group-founder-member' => 'asosguzor',
+	'group-founder-member' => 'asosguzor', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Asosguzoron',
 	'group-import' => 'Voridkunandagon',
-	'group-import-member' => 'voridkunanda',
+	'group-import-member' => 'voridkunanda', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Voridkunandagon',
 	'group-ipblock-exempt' => "Istisnoi qat'i dastrasiji nişonai IP",
-	'group-ipblock-exempt-member' => "Istisnoi qat'i dastrasiji nişonai internetī",
+	'group-ipblock-exempt-member' => "Istisnoi qat'i dastrasiji nişonai internetī", # Fuzzy
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Istisnoi qat'i dastrasiji nişonai IP",
 	'group-rollbacker' => 'Vogardonikunandagon',
-	'group-rollbacker-member' => 'vogardonikunanda',
+	'group-rollbacker-member' => 'vogardonikunanda', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Vogardonikunandagon',
 	'group-transwiki' => 'Voridkunandagoni transviki',
-	'group-transwiki-member' => 'voridkunandai transviki',
+	'group-transwiki-member' => 'voridkunandai transviki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Voridkunandagoni transviki',
 	'group-Global_bot' => 'Bothoi sarosarī',
-	'group-Global_bot-member' => 'boti sarosarī',
+	'group-Global_bot-member' => 'boti sarosarī', # Fuzzy
 	'group-Global_rollback' => 'Vogardonikunandagoni sarosarī',
-	'group-Global_rollback-member' => 'vogardonikunandai sarosarī',
+	'group-Global_rollback-member' => 'vogardonikunandai sarosarī', # Fuzzy
 	'group-Ombudsmen' => 'Dodovaron',
-	'group-Ombudsmen-member' => 'dodovar',
+	'group-Ombudsmen-member' => 'dodovar', # Fuzzy
 	'group-steward' => 'Vikipedon',
-	'group-steward-member' => 'vikiped',
+	'group-steward-member' => 'vikiped', # Fuzzy
 	'group-sysadmin' => 'Mudironi sistem',
-	'group-sysadmin-member' => 'mudiri sistem',
+	'group-sysadmin-member' => 'mudiri sistem', # Fuzzy
 	'group-coder' => 'barnomanavison',
-	'group-coder-member' => 'barnomanavis',
+	'group-coder-member' => 'barnomanavis', # Fuzzy
 	'group-inactive' => "Korbaroni ƣajrifa'ol",
-	'group-inactive-member' => "korbaroni ƣajrifa'ol",
+	'group-inactive-member' => "korbaroni ƣajrifa'ol", # Fuzzy
 );
 
 /** Thai (ไทย)
@@ -13475,49 +13517,49 @@ $messages['th'] = array(
 	'group-abusefilter' => 'บรรณาธิการกลั่นกรองการใช้ที่ไม่เหมาะสม',
 	'grouppage-abusefilter' => '{{ns:project}}:บรรณาธิการกลั่นกรองการใช้ที่ไม่ถูกต้อง',
 	'group-accountcreator' => 'ผู้สร้างบัญชีผู้ใช้',
-	'group-accountcreator-member' => 'ผู้สร้างบัญชีผู้ใช้',
+	'group-accountcreator-member' => 'ผู้สร้างบัญชีผู้ใช้', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:ผู้สร้างบัญชีผู้ใช้',
 	'group-autopatrolled' => 'ผู้ตรวจการอัตโนมัติ',
-	'group-autopatrolled-member' => 'ผู้ตรวจการอัตโนมัติ',
+	'group-autopatrolled-member' => 'ผู้ตรวจการอัตโนมัติ', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:ผู้ตรวจการอัตโนมัติ',
 	'group-autoreviewer' => 'ผู้ตรวจสอบอัตโนมัติ',
-	'group-autoreviewer-member' => 'ผู้ตรวจสอบอัตโนมัติ',
+	'group-autoreviewer-member' => 'ผู้ตรวจสอบอัตโนมัติ', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:ผู้ตรวจสอบอัตโนมัติ',
 	'group-confirmed' => 'ผู้ใช้ที่ยืนยันแล้ว',
-	'group-confirmed-member' => 'ผู้ใช้ที่ยืนยันแล้ว',
+	'group-confirmed-member' => 'ผู้ใช้ที่ยืนยันแล้ว', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:ผู้ใช้ที่ยืนยันแล้ว',
 	'group-flood' => 'ผู้ใช้ที่เป็นบอต',
-	'group-flood-member' => 'ผู้ใช้ที่เป็นบอต',
+	'group-flood-member' => 'ผู้ใช้ที่เป็นบอต', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:ผู้ใช้ที่เป็นบอต',
 	'group-founder' => 'ผู้ก่อตั้ง',
-	'group-founder-member' => 'ผู้ก่อตั้ง',
+	'group-founder-member' => 'ผู้ก่อตั้ง', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:ผู้ร่วมก่อตั้ง',
 	'group-import' => 'ผู้นำเข้า',
-	'group-import-member' => 'ผู้นำเข้า',
+	'group-import-member' => 'ผู้นำเข้า', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:ผู้นำเข้า',
 	'group-ipblock-exempt' => 'การยกเว้นการระงับหมายเลขไอพี',
-	'group-ipblock-exempt-member' => 'หมายเลขไอพีที่ยกเว้นจากการระงับ',
+	'group-ipblock-exempt-member' => 'หมายเลขไอพีที่ยกเว้นจากการระงับ', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:การยกเว้นการระงับหมายเลขไอพี',
 	'group-patroller' => 'ผู้ตรวจการ',
-	'group-patroller-member' => 'ผู้ตรวจการ',
+	'group-patroller-member' => 'ผู้ตรวจการ', # Fuzzy
 	'group-rollbacker' => 'ผู้ย้อนสถานะ',
-	'group-rollbacker-member' => 'ผู้ย้อนสถานะ',
+	'group-rollbacker-member' => 'ผู้ย้อนสถานะ', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:ผู้ย้อนสถานะ',
 	'group-transwiki' => 'ผู้นำเข้าข้ามวิกิ',
 	'grouppage-transwiki' => '{{ns:project}}:ผู้นำเข้าข้ามวิกิ',
 	'group-trusted' => 'ผู้ใช้ที่เชื่อถือได้',
-	'group-trusted-member' => 'ผู้ใช้ที่เชื่อถือได้',
+	'group-trusted-member' => 'ผู้ใช้ที่เชื่อถือได้', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:ผู้ใช้ที่เชื่อถือได้',
 	'group-Ombudsmen' => 'ผู้ตรวจการ',
-	'group-Ombudsmen-member' => 'ผู้ตรวจการ',
+	'group-Ombudsmen-member' => 'ผู้ตรวจการ', # Fuzzy
 	'group-Staff' => 'ผู้แปล',
 	'group-Staff-member' => 'ทีมงาน',
 	'group-steward' => 'ผู้ดูแลโครงการ',
-	'group-steward-member' => 'ผู้ดูแลโครงการ',
+	'group-steward-member' => 'ผู้ดูแลโครงการ', # Fuzzy
 	'group-sysadmin' => 'ผู้ดูแลระบบ',
-	'group-sysadmin-member' => 'ผู้ดูแลระบบ',
+	'group-sysadmin-member' => 'ผู้ดูแลระบบ', # Fuzzy
 	'group-inactive' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ',
-	'group-inactive-member' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ',
+	'group-inactive-member' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:ผู้ใช้ไม่ประจำ',
 	'wikimedia-copyright' => 'ตัวอักษรนี้อยู่ภายใต้<a href="//creativecommons.org/licenses/by-sa/3.0/">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>;
 และอาจจะมีข้อเพิ่มเติมอื่นๆ
@@ -13540,93 +13582,93 @@ $messages['tk'] = array(
 	'tooltip-n-sitesupport' => 'Bizi goldaň',
 	'specialpages-group-contribution' => 'Goşantlar/Fond ýygnaýjy',
 	'group-Image-reviewer' => 'Şekil gözden geçirijiler',
-	'group-Image-reviewer-member' => 'şekil gözden geçiriji',
+	'group-Image-reviewer-member' => 'şekil gözden geçiriji', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Şekil gözden geçirijiler',
 	'group-OTRS-member' => 'OTRS agzalary',
-	'group-OTRS-member-member' => 'OTRS agzasy',
+	'group-OTRS-member-member' => 'OTRS agzasy', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS agzalary',
 	'group-abusefilter' => 'Erbet ulanmak filtr redaktorlary',
-	'group-abusefilter-member' => 'erbet ulanmak filtr redaktory',
+	'group-abusefilter-member' => 'erbet ulanmak filtr redaktory', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Erbet ulanmak filtr redaktorlary',
 	'group-accountcreator' => 'Hasap döredijiler',
-	'group-accountcreator-member' => 'hasap dörediji',
+	'group-accountcreator-member' => 'hasap dörediji', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Hasap döredijiler',
 	'group-arbcom' => 'Arbitraž komitetiniň agzalary',
-	'group-arbcom-member' => 'arbitraž komitetiniň agzasy',
+	'group-arbcom-member' => 'arbitraž komitetiniň agzasy', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Arbitraž komitetiniň agzalary',
 	'group-autopatrolled' => 'Awtopatrullar',
-	'group-autopatrolled-member' => 'awtopatrullar',
+	'group-autopatrolled-member' => 'awtopatrullar', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Awtopatrullar',
 	'group-autoreviewer' => 'Awto gözden geçirijiler',
-	'group-autoreviewer-member' => 'awto gözden geçiriji',
+	'group-autoreviewer-member' => 'awto gözden geçiriji', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Awtogözegçiler',
 	'group-bigexport' => 'Iri eksportirleýjiler',
-	'group-bigexport-member' => 'iri eksportirleýji',
+	'group-bigexport-member' => 'iri eksportirleýji', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Iri eksportirleýjiler',
 	'group-confirmed' => 'Tassyklanylan ulanyjylar',
-	'group-confirmed-member' => 'tassyklanylan ulanyjy',
+	'group-confirmed-member' => 'tassyklanylan ulanyjy', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Tassyklanylan ulanyjylar',
 	'group-editprotected' => 'Goragly sahypa redaktorlary',
-	'group-editprotected-member' => 'goragly sahypa redaktory',
+	'group-editprotected-member' => 'goragly sahypa redaktory', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Goragly sahypa redaktorlary',
 	'group-eliminator' => 'Aýryjylar',
-	'group-eliminator-member' => 'aýryjy',
+	'group-eliminator-member' => 'aýryjy', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Aýryjy',
 	'group-filemover' => 'Faýl geçirijiler',
-	'group-filemover-member' => 'faýl geçiriji',
+	'group-filemover-member' => 'faýl geçiriji', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Faýl geçirijiler',
 	'group-flood' => 'Bot ulanyjylary',
-	'group-flood-member' => 'bot ulanyjysy',
+	'group-flood-member' => 'bot ulanyjysy', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Bot ulanyjylary',
 	'group-founder' => 'Esaslandyryjylar',
-	'group-founder-member' => 'esaslandyryjy',
+	'group-founder-member' => 'esaslandyryjy', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Esaslandyryjylar',
 	'group-import' => 'Importirleýjiler',
-	'group-import-member' => 'importirleýji',
+	'group-import-member' => 'importirleýji', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Importirleýjiler',
 	'group-interface_editor' => 'Interfeýs redaktorlary',
-	'group-interface_editor-member' => 'interfeýs redaktory',
+	'group-interface_editor-member' => 'interfeýs redaktory', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Interfeýs redaktorlary',
 	'group-ipblock-exempt' => 'IP blokirleme daş tutmalary',
-	'group-ipblock-exempt-member' => 'IP blokirleme daş tutmasy',
+	'group-ipblock-exempt-member' => 'IP blokirleme daş tutmasy', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP blokirleme daş tutmasy',
 	'group-patroller' => 'Patrullar',
-	'group-patroller-member' => 'patrul',
+	'group-patroller-member' => 'patrul', # Fuzzy
 	'group-researcher' => 'Ylmy gözlegçiler',
-	'group-researcher-member' => 'ylmy gözlegçi',
+	'group-researcher-member' => 'ylmy gözlegçi', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Ylmy gözlegçiler',
 	'group-rollbacker' => 'Öňki katdyna getirijiler',
-	'group-rollbacker-member' => 'öňki katdyna getiriji',
+	'group-rollbacker-member' => 'öňki katdyna getiriji', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Öňki katdyna getirijiler',
 	'group-transwiki' => 'Wikiara importirleýjiler',
-	'group-transwiki-member' => 'wikiara importirleýjisi',
+	'group-transwiki-member' => 'wikiara importirleýjisi', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Wikiara importirleýjiler',
 	'group-trusted' => 'Ynamdar ulanyjylar',
-	'group-trusted-member' => 'ynamdar ulanyjy',
+	'group-trusted-member' => 'ynamdar ulanyjy', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Ynamdar ulanyjylar',
 	'group-Global_bot' => 'Global botlar',
-	'group-Global_bot-member' => 'global bot',
+	'group-Global_bot-member' => 'global bot', # Fuzzy
 	'group-Global_rollback' => 'Global öňki katdyna getirijiler',
-	'group-Global_rollback-member' => 'global öňki katdyna getiriji',
+	'group-Global_rollback-member' => 'global öňki katdyna getiriji', # Fuzzy
 	'group-Global_sysops' => 'Global administratorlar',
-	'group-Global_sysops-member' => 'global administrator',
+	'group-Global_sysops-member' => 'global administrator', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsmenler',
-	'group-Ombudsmen-member' => 'ombudsmen',
+	'group-Ombudsmen-member' => 'ombudsmen', # Fuzzy
 	'group-Staff' => 'Işgärler',
 	'group-Staff-member' => 'işgär',
 	'group-editinterface' => 'Interfeýs redaktorlary',
-	'group-editinterface-member' => 'interfeýs redaktory',
+	'group-editinterface-member' => 'interfeýs redaktory', # Fuzzy
 	'group-steward' => 'Stýuardlar',
-	'group-steward-member' => 'stýuard',
+	'group-steward-member' => 'stýuard', # Fuzzy
 	'group-sysadmin' => 'Ulgam administratorlary',
-	'group-sysadmin-member' => 'ulgam administratory',
+	'group-sysadmin-member' => 'ulgam administratory', # Fuzzy
 	'group-coder' => 'Kodirleýjiler',
-	'group-coder-member' => 'kodirleýji',
+	'group-coder-member' => 'kodirleýji', # Fuzzy
 	'group-inactive' => 'Işjeň däl ulanyjylar',
-	'group-inactive-member' => 'işjeň däl ulanyjy',
+	'group-inactive-member' => 'işjeň däl ulanyjy', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Işjeň däl ulanyjylar',
 	'wikimedia-copyright' => 'Tekst <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ulanyş şertleri</a>ne serediň.',
-	'wikimedia-copyrightwarning' => 'Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] we [//www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [//wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň.',
+	'wikimedia-copyrightwarning' => 'Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] we [//www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [//wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Eger işiňiziň arkaýyn redaktirlenmegini ýa-da paýlanylmagyny islemeýän bolsaňyz, onda bu ýere tabşyrmaň.
 Eger muny özüňiz ýazmadyk bolsaňyz, onda ol [//wikimediafoundation.org/wiki/Terms_of_Use Ulanyş şertlerine] laýyk gelmelidir. Siz haýsydyr bir degişli lisenziýa talabyny berjaý etmäge ylalaşýarsyňyz.',
 );
@@ -13771,14 +13813,16 @@ $messages['tn'] = array(
 	'sitesupport' => 'Dimpho',
 );
 
-/** Tongan (lea faka-Tonga) */
+/** Tongan (lea faka-Tonga)
+ */
 $messages['to'] = array(
 	'sitesupport' => 'Ngaahi meʻa ʻofa',
 	'group-steward' => 'Kau setuate',
-	'group-steward-member' => 'Setuate',
+	'group-steward-member' => 'Setuate', # Fuzzy
 );
 
-/** Toki Pona (Toki Pona) */
+/** Toki Pona (Toki Pona)
+ */
 $messages['tokipona'] = array(
 	'sitesupport' => 'o pana e mani',
 );
@@ -13904,9 +13948,9 @@ $messages['tr'] = array(
 	'group-inactive' => 'Etkin olmayan kullanıcılar',
 	'group-inactive-member' => '{{GENDER:$1|etkin olmayan kullanıcı}}',
 	'grouppage-inactive' => '{{ns:project}}:Etkin olmayan kullanıcılar',
-	'shared-repo-name-shared' => 'Vikipedi Commons',
+	'shared-repo-name-shared' => 'Vikipedi Commons', # Fuzzy
 	'wikimedia-copyright' => 'Metin <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakınız.',
-	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [//www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [//wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.',
+	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [//www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [//wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Eğer yazınızın istendiğinde değiştirilmesini ya da yeniden dağıtılmasını istemiyorsanız, burada göndermeyiniz.
 Eğer bunu siz yazmadıysanız, yazınız [//wikimediafoundation.org/wiki/Terms_of_Use Kullanım Koşulları] ile uyumlu şartlar altında olmalıdır, ve herhangi bir ilgili lisans gereksinimine uymayı kabul ediyorsunuz.',
 	'cant-delete-main-page' => 'Silemez veya ana sayfaya taşıyamazsın.',
@@ -14050,17 +14094,19 @@ $messages['tt-cyrl'] = array(
 $messages['tt-latn'] = array(
 	'sitesupport' => 'İğänä',
 	'wikimedia-copyright' => 'Tekst <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziäse astında birelä, ayırım oçraqlarda östämä şartlar eşlärgä mömkin. Östämä mäğlümat öçen <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Qullanu şartların</a> qarağız.',
-	'wikimedia-copyrightwarning' => "Üzgärtülärne saqlağan waqıtta, sez alarnıñ [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] häm [//www.gnu.org/copyleft/fdl.html GFDL] litsenziäläre taläpläre buyınça publikatsiäläwenä riza bulasız. Bu bitne qullanğanda, sezgä iñ kime gipersıltama yäki bit URL'ı aşa sıltama quyıluğa riza bulasız. Tulıraq mäğlümat öçen [//wikimediafoundation.org/wiki/Terms_of_Use Qullanu şartları] biten qarağız.",
+	'wikimedia-copyrightwarning' => "Üzgärtülärne saqlağan waqıtta, sez alarnıñ [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] häm [//www.gnu.org/copyleft/fdl.html GFDL] litsenziäläre taläpläre buyınça publikatsiäläwenä riza bulasız. Bu bitne qullanğanda, sezgä iñ kime gipersıltama yäki bit URL'ı aşa sıltama quyıluğa riza bulasız. Tulıraq mäğlümat öçen [//wikimediafoundation.org/wiki/Terms_of_Use Qullanu şartları] biten qarağız.", # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Sez tekstlarığız irekle räweştä tözätelüenne häm telägännär tarafınnan taratıluınnı telämäsägez, alarnı monda urnaştırmağız.
 Sez yazğan tekstnıñ avtorı bulmasağız, tekst [//wikimediafoundation.org/wiki/Terms_of_Use/ Qullanu şartları] belän kileşkän şartlarğa turı kilergä tieş, häm Sez litsenziäneñ taläplärenä buysınırğa kileşäsez.',
 );
 
-/** Tahitian (Reo Mā`ohi) */
+/** Tahitian (Reo Mā`ohi)
+ */
 $messages['ty'] = array(
 	'sitesupport' => 'Pūpū i te ō',
 );
 
-/** Tuvinian (тыва дыл) */
+/** Tuvinian (тыва дыл)
+ */
 $messages['tyv'] = array(
 	'sitesupport' => 'Белектер',
 );
@@ -14091,77 +14137,78 @@ $messages['ug-arab'] = array(
 	'tooltip-n-sitesupport' => 'بىزنى قوللاڭ',
 	'specialpages-group-contribution' => 'تۆھپە/ئىئانەچى',
 	'group-abusefilter' => 'سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى',
-	'group-abusefilter-member' => 'سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى',
+	'group-abusefilter-member' => 'سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى',
 	'group-accountcreator' => 'ھېسابات قۇرغۇچى',
-	'group-accountcreator-member' => 'ھېسابات قۇرغۇچى',
+	'group-accountcreator-member' => 'ھېسابات قۇرغۇچى', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}: ھېسابات قۇرغۇچى',
 	'group-arbcom' => 'كېسىم كومىتېتى ئەزاسى',
-	'group-arbcom-member' => 'كېسىم ھەيئەت ئەزاسى',
+	'group-arbcom-member' => 'كېسىم ھەيئەت ئەزاسى', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}: كېسىم ھەيئەت ئەزالىرى',
 	'group-autopatrolled' => 'ئۆزلۈكىدىن چارلىغۇچى',
-	'group-autopatrolled-member' => 'ئۆزلۈكىدىن چارلىغۇچى',
+	'group-autopatrolled-member' => 'ئۆزلۈكىدىن چارلىغۇچى', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:ئۆزلۈكىدىن چارلىغۇچى',
 	'group-autoreviewer' => 'ئۆزلۈكىدىن باھالىغۇچىلار',
-	'group-autoreviewer-member' => 'ئۆزلۈكىدىن باھالىغۇچى',
+	'group-autoreviewer-member' => 'ئۆزلۈكىدىن باھالىغۇچى', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:ئۆزلۈكىدىن باھالىغۇچى',
 	'group-bigexport' => 'كۆپ مىقداردا چىقارغۇچى',
-	'group-bigexport-member' => 'كۆپ مىقداردا چىقارغۇچى',
+	'group-bigexport-member' => 'كۆپ مىقداردا چىقارغۇچى', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:كۆپ مىقداردا ئەكىرگۈچى',
 	'group-confirmed' => 'جەزملەنگەن ئىشلەتكۈچىلەر',
-	'group-confirmed-member' => 'جەزملەنگەن ئىشلەتكۈچى',
+	'group-confirmed-member' => 'جەزملەنگەن ئىشلەتكۈچى', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:جەزملەنگەن ئىشلەتكۈچىلەر',
 	'group-editprotected' => 'قوغدالغان بەت تەھرىرلىرى',
-	'group-editprotected-member' => 'قوغدالغان بەت تەھرىرى',
+	'group-editprotected-member' => 'قوغدالغان بەت تەھرىرى', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}: قوغدالغان بەت تەھرىرلىگۇچىلەر',
 	'group-filemover' => 'ھۆججەت يۆتكىگۈچى',
-	'group-filemover-member' => 'ھۆججەت يۆتكىگۈچى',
+	'group-filemover-member' => 'ھۆججەت يۆتكىگۈچى', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}: ھۆججەت يۆتكىگۈچى',
 	'group-flood' => 'ماشىنا ئادەم ئىشلەتكۈچى',
-	'group-flood-member' => 'ماشىنا ئادەم ئىشلەتكۈچى',
+	'group-flood-member' => 'ماشىنا ئادەم ئىشلەتكۈچى', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:ماشىنا ئادەم ئىشلەتكۈچىلەر',
 	'group-founder' => 'ئاساس سالغۇچىلار',
-	'group-founder-member' => 'ئاساس سالغۇچىلار',
+	'group-founder-member' => 'ئاساس سالغۇچىلار', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:ئاساس سالغۇچىلار',
 	'group-import' => 'ئەكىرگۈچى',
-	'group-import-member' => 'ئەكىرگۈچى',
+	'group-import-member' => 'ئەكىرگۈچى', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:ئەكىرگۈچى',
 	'group-interface_editor' => 'ئارايۈز تەھرىرلىرى',
-	'group-interface_editor-member' => 'ئارايۈز تەھرىرى',
+	'group-interface_editor-member' => 'ئارايۈز تەھرىرى', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}: ئارايۈز تەھرىرلەر',
 	'group-ipblock-exempt' => 'IP چەكلەنمەيدىغانلار',
-	'group-ipblock-exempt-member' => 'IP چەكلەنمەيدىغانلار',
+	'group-ipblock-exempt-member' => 'IP چەكلەنمەيدىغانلار', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP چەكلەنمەيدىغانلار',
 	'group-patroller' => 'چارلىغۇچىلار',
-	'group-patroller-member' => 'چارلىغۇچى',
+	'group-patroller-member' => 'چارلىغۇچى', # Fuzzy
 	'group-researcher' => 'تەتقىقاتچىلار',
-	'group-researcher-member' => 'تەتقىقاتچى',
+	'group-researcher-member' => 'تەتقىقاتچى', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:ئەسلىگە قايتۇرغۇچىلار',
 	'group-rollbacker' => 'ئەسلىگە قايتۇرغۇچى',
-	'group-rollbacker-member' => 'ئەسلىگە قايتۇرغۇچى',
+	'group-rollbacker-member' => 'ئەسلىگە قايتۇرغۇچى', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:ئەسلىگە قايتۇرغۇچى',
 	'group-transwiki' => 'wiki ھالقىغان ئەكىرگۈچى',
-	'group-transwiki-member' => 'wiki ھالقىغان ئەكىرگۈچى',
+	'group-transwiki-member' => 'wiki ھالقىغان ئەكىرگۈچى', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:wiki ھالقىغان ئەكىرگۈچى',
 	'group-trusted' => 'ئىشەنچلىك ئىشلەتكۈچىلەر',
-	'group-trusted-member' => 'ئىشەنچلىك ئىشلەتكۈچى',
+	'group-trusted-member' => 'ئىشەنچلىك ئىشلەتكۈچى', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:ئىشەنچلىك ئىشلەتكۈچىلەر',
 	'group-Global_bot' => 'پۈتۈن دائىرىلىك ماشىنا ئادەم',
-	'group-Global_bot-member' => 'پۈتكۈل دائىرىلىك ماشىنا ئادەم',
+	'group-Global_bot-member' => 'پۈتكۈل دائىرىلىك ماشىنا ئادەم', # Fuzzy
 	'group-Global_rollback' => 'پۈتكۈل دائىرىلىك ئەسلىگە قايتۇرغۇچى',
-	'group-Global_rollback-member' => 'پۈتكۈل دائىرىلىك ئەسلىگە قايتۇرغۇچى',
+	'group-Global_rollback-member' => 'پۈتكۈل دائىرىلىك ئەسلىگە قايتۇرغۇچى', # Fuzzy
 	'group-editinterface' => 'ئارايۈز تەھرىرلىرى',
 	'group-steward' => 'تەشكىللىگۈچى',
 	'group-sysadmin' => 'سىستېما باشقۇرغۇچى',
-	'group-sysadmin-member' => 'سىستېما باشقۇرغۇچى',
+	'group-sysadmin-member' => 'سىستېما باشقۇرغۇچى', # Fuzzy
 	'group-coder' => 'پروگراممىچىلار',
-	'group-coder-member' => 'پروگراممىچى',
+	'group-coder-member' => 'پروگراممىچى', # Fuzzy
 	'group-inactive' => 'پاسسىپ ئىشلەتكۈچىلەر',
-	'group-inactive-member' => 'پاسسىپ ئىشلەتكۈچى',
+	'group-inactive-member' => 'پاسسىپ ئىشلەتكۈچى', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:پاسسىپ ئىشلەتكۈچىلەر',
 );
 
-/** Uyghur (Latin script) (Uyghurche) */
+/** Uyghur (Latin script) (Uyghurche)
+ */
 $messages['ug-latn'] = array(
 	'sitesupport' => 'Iana Toplash',
 );
@@ -14296,7 +14343,7 @@ $messages['uk'] = array(
 	'group-coder-member' => '{{GENDER:$1|програміст|програмістка}}',
 	'grouppage-coder' => '{{ns:project}}:Coder',
 	'group-inactive' => 'Неактивні користувачі',
-	'group-inactive-member' => 'неактивний користувач',
+	'group-inactive-member' => 'неактивний користувач', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
 	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
@@ -14320,17 +14367,17 @@ $messages['ur'] = array(
 	'group-accountcreator' => 'کھاتہ سازان',
 	'group-founder' => 'بانیان',
 	'group-import' => 'بینک',
-	'group-import-member' => 'برآمدکار',
+	'group-import-member' => 'برآمدکار', # Fuzzy
 	'group-trusted' => 'قابل اعتماد صارفین',
-	'group-trusted-member' => 'معتمد صارف',
+	'group-trusted-member' => 'معتمد صارف', # Fuzzy
 	'group-Global_bot' => 'عالمی خودکار صارف',
 	'group-Staff' => 'سٹاف',
 	'group-Staff-member' => 'عملہ',
 	'group-editinterface' => 'مدیرانِ سطح البین',
 	'group-sysadmin' => 'منتظمینِ نظام',
-	'group-sysadmin-member' => 'منتظمِ نظام',
+	'group-sysadmin-member' => 'منتظمِ نظام', # Fuzzy
 	'group-inactive' => 'غیرفعال صارفین',
-	'group-inactive-member' => 'غیرفعال صارف',
+	'group-inactive-member' => 'غیرفعال صارف', # Fuzzy
 	'cant-delete-main-page' => 'آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں.',
 );
 
@@ -14357,93 +14404,93 @@ $messages['vec'] = array(
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'specialpages-group-contribution' => 'Contributi/Racolta fondi',
 	'group-Image-reviewer' => 'Revisori de le imagini',
-	'group-Image-reviewer-member' => 'revisor de le imagini',
+	'group-Image-reviewer-member' => 'revisor de le imagini', # Fuzzy
 	'grouppage-Image-reviewer' => '{{ns:project}}:Revisori de le imagini',
 	'group-OTRS-member' => 'Utenti OTRS',
-	'group-OTRS-member-member' => 'utente OTRS',
+	'group-OTRS-member-member' => 'utente OTRS', # Fuzzy
 	'grouppage-OTRS-member' => '{{ns:project}}:Utenti OTRS',
 	'group-abusefilter' => 'Gestori filtri anti abusi',
-	'group-abusefilter-member' => 'gestor filtri anti abusi',
+	'group-abusefilter-member' => 'gestor filtri anti abusi', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Gestori filtri anti abusi',
 	'group-accountcreator' => 'Creatori de account',
-	'group-accountcreator-member' => 'Creator de account',
+	'group-accountcreator-member' => 'Creator de account', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Creatori de account',
 	'group-arbcom' => 'Menbri del comitato de arbitrato',
-	'group-arbcom-member' => 'menbro del comitato de arbitrato',
+	'group-arbcom-member' => 'menbro del comitato de arbitrato', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Menbri del comitato de arbitrato',
 	'group-autopatrolled' => 'Patujadori automatici',
-	'group-autopatrolled-member' => 'patujador automàtego',
+	'group-autopatrolled-member' => 'patujador automàtego', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:Patujadori automàteghi',
 	'group-autoreviewer' => 'Autoreviewer',
-	'group-autoreviewer-member' => 'autoreviewer',
+	'group-autoreviewer-member' => 'autoreviewer', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Autoreviewer',
 	'group-bigexport' => 'Grando esportador',
-	'group-bigexport-member' => 'grando esportador',
+	'group-bigexport-member' => 'grando esportador', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Grandi esportadori',
 	'group-confirmed' => 'Utenti confermà',
-	'group-confirmed-member' => 'utente confermà',
+	'group-confirmed-member' => 'utente confermà', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:Utenti confermà',
 	'group-editprotected' => 'Modificadori de pagine protete',
-	'group-editprotected-member' => 'modificador de pagine protete',
+	'group-editprotected-member' => 'modificador de pagine protete', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}:Modificadori de pagine protete',
 	'group-eliminator' => 'Eliminadori',
-	'group-eliminator-member' => 'eliminador',
+	'group-eliminator-member' => 'eliminador', # Fuzzy
 	'grouppage-eliminator' => '{{ns:project}}:Eliminador',
 	'group-filemover' => 'Spostadori de file',
-	'group-filemover-member' => 'spostador de file',
+	'group-filemover-member' => 'spostador de file', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Spostadori de file',
 	'group-flood' => 'Utenti bot',
-	'group-flood-member' => 'utenti bot',
+	'group-flood-member' => 'utenti bot', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Utenti bot',
 	'group-founder' => 'Fondatori',
-	'group-founder-member' => 'Fondator',
+	'group-founder-member' => 'Fondator', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Fondatori',
 	'group-import' => 'Inportadori',
-	'group-import-member' => 'Inportador',
+	'group-import-member' => 'Inportador', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Inportadori',
 	'group-interface_editor' => "Modificadori de l'interfacia",
-	'group-interface_editor-member' => "modificador de l'interfacia",
+	'group-interface_editor-member' => "modificador de l'interfacia", # Fuzzy
 	'grouppage-interface_editor' => "{{ns:project}}:Modificadori de l'interfacia",
 	'group-ipblock-exempt' => "Esenzioni dal bloco de l'IP",
-	'group-ipblock-exempt-member' => 'esente dal bloco IP',
+	'group-ipblock-exempt-member' => 'esente dal bloco IP', # Fuzzy
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Esenzion dal bloco de l'IP",
 	'group-patroller' => 'Patujadori',
-	'group-patroller-member' => 'patujador',
+	'group-patroller-member' => 'patujador', # Fuzzy
 	'group-researcher' => 'Risercadori',
-	'group-researcher-member' => 'risercador',
+	'group-researcher-member' => 'risercador', # Fuzzy
 	'grouppage-researcher' => '{{ns:project}}:Risercadori',
 	'group-rollbacker' => 'Ripristinadori',
-	'group-rollbacker-member' => 'ripristinador',
+	'group-rollbacker-member' => 'ripristinador', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Ripristinadori',
 	'group-transwiki' => 'Inportadori transwiki',
-	'group-transwiki-member' => 'Inportador transwiki',
+	'group-transwiki-member' => 'Inportador transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Inportadori transwiki',
 	'group-trusted' => 'Utenti de cui fidarse',
-	'group-trusted-member' => 'utente de cui fidarse',
+	'group-trusted-member' => 'utente de cui fidarse', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Utenti de cui fidarse',
 	'group-Global_bot' => 'Bot globali',
-	'group-Global_bot-member' => 'bot globale',
+	'group-Global_bot-member' => 'bot globale', # Fuzzy
 	'group-Global_rollback' => 'Ripristinadori globali',
-	'group-Global_rollback-member' => 'ripristinador globale',
+	'group-Global_rollback-member' => 'ripristinador globale', # Fuzzy
 	'group-Global_sysops' => 'Aministradori globali',
-	'group-Global_sysops-member' => 'aministrador globale',
+	'group-Global_sysops-member' => 'aministrador globale', # Fuzzy
 	'group-Ombudsmen' => 'Ombudsman',
-	'group-Ombudsmen-member' => 'ombudsman',
+	'group-Ombudsmen-member' => 'ombudsman', # Fuzzy
 	'group-Staff' => 'Staff',
 	'group-Staff-member' => 'Menbro del staff',
 	'group-editinterface' => "Editori de l'interfacia",
-	'group-editinterface-member' => "editor de l'interfacia",
+	'group-editinterface-member' => "editor de l'interfacia", # Fuzzy
 	'group-steward' => 'Steward',
-	'group-steward-member' => 'steward',
+	'group-steward-member' => 'steward', # Fuzzy
 	'group-sysadmin' => 'Aministradori de sistema',
-	'group-sysadmin-member' => 'aministrador de sistema',
+	'group-sysadmin-member' => 'aministrador de sistema', # Fuzzy
 	'group-coder' => 'Programatori',
-	'group-coder-member' => 'programator',
+	'group-coder-member' => 'programator', # Fuzzy
 	'group-inactive' => 'Utenti inativi',
-	'group-inactive-member' => 'utente inativo',
+	'group-inactive-member' => 'utente inativo', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Utenti inativi',
 	'wikimedia-copyright' => 'El testo el xè disponibiłe secondo ła <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licensa Creative Commons Atribusion-Condividi al steso modo</a>; e poe aplicarse ulteriori condision. Varda łe <a class=\'internal\' href="/wiki/Wikipedia:Copyright#Condixion_d.27uxo">condision d\'uxo</a> par i detaji. Wikipedia® xè on marchio rejistrà de ła <a href="//www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>',
-	'wikimedia-copyrightwarning' => "Salvando, te acèti in maniera irevocabile de rilassiar el to contributo soto le license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribution/Share-Alike 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te acèti anca che i riutilizadori te lo atribuìssa almanco mediante un colegamento ipertestuale o un URL a la pagina a cui te ghè contribuìo. Consulta le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso] par tuti i detagli.",
+	'wikimedia-copyrightwarning' => "Salvando, te acèti in maniera irevocabile de rilassiar el to contributo soto le license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribution/Share-Alike 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te acèti anca che i riutilizadori te lo atribuìssa almanco mediante un colegamento ipertestuale o un URL a la pagina a cui te ghè contribuìo. Consulta le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso] par tuti i detagli.", # Fuzzy
 	'wikimedia-editpage-tos-summary' => "Se no te voli che el to testo el possa vegner modificà e ridistribuìo a volontà, alora no sta inserirlo qua. Se no te lo ghè scrito ti, el ga da èssar disponibile a condizioni conpatibili co le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e te acèti de seguir tuti i requisiti de licensa.",
 );
 
@@ -14669,23 +14716,23 @@ $messages['vo'] = array(
 	'sitesupport' => 'Födagivots',
 	'tooltip-n-sitesupport' => 'Stütolös obsi',
 	'group-accountcreator' => 'Kalijafans',
-	'group-accountcreator-member' => 'kalijafan',
+	'group-accountcreator-member' => 'kalijafan', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:Kalijafans',
 	'group-founder' => 'Fünans',
-	'group-founder-member' => 'fünan',
+	'group-founder-member' => 'fünan', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Fünans',
 	'group-import' => 'Nüveigans',
-	'group-import-member' => 'nüveigan',
+	'group-import-member' => 'nüveigan', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Nüveigans',
 	'group-rollbacker' => 'Sädunans',
-	'group-rollbacker-member' => 'sädunan',
+	'group-rollbacker-member' => 'sädunan', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Sädunans',
-	'group-transwiki-member' => 'nüveigan vüvükik',
-	'group-Global_bot-member' => 'bot valöpik',
+	'group-transwiki-member' => 'nüveigan vüvükik', # Fuzzy
+	'group-Global_bot-member' => 'bot valöpik', # Fuzzy
 	'group-sysadmin' => 'Sitiguvans',
-	'group-sysadmin-member' => 'sitiguvan',
+	'group-sysadmin-member' => 'sitiguvan', # Fuzzy
 	'group-coder' => 'Kotans',
-	'group-coder-member' => 'kotan',
+	'group-coder-member' => 'kotan', # Fuzzy
 );
 
 /** Võro (Võro)
@@ -14699,7 +14746,7 @@ mõnikõrd või päält taa ollaq ka muid tingimüisi.
 Taa kotsilõ kaeq täpsämbähe <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia pruukmistingimüisist</a>.',
 	'wikimedia-copyrightwarning' => 'Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-litsendsi] perrä.
 Olõt nõun, et su autorisolõmist näüdätäs vähämbält võrgoaadrõsi vai lingiga seo lehe pääle, midä sa parhilla toimõndat.
-Täpsämbähe kaeq taa kotsilõ [//wikimediafoundation.org/wiki/Terms_of_Use Wikimedia pruukmistingimüisist].',
+Täpsämbähe kaeq taa kotsilõ [//wikimediafoundation.org/wiki/Terms_of_Use Wikimedia pruukmistingimüisist].', # Fuzzy
 	'wikimedia-editpage-tos-summary' => 'Kui sa taha-ai, et su kirotõdut halõstamalda toimõndõdas ja uma ärqnägemise perrä tarvitõdas, sis pästku-ui taad siiäq.
 Ku sa kiroda-as taad teksti esiq, sis piät taa tarvitaminõ vastama [//wikimediafoundation.org/wiki/Terms_of_Use pruukmistingimüisile] ja sul om kohustus täütäq sääl näüdätüid litsendsinõudmiisi.',
 );
@@ -14815,7 +14862,8 @@ $messages['wo'] = array(
 	'sitesupport' => 'Joxe ag ndimbal',
 );
 
-/** Wu (吴语) */
+/** Wu (吴语)
+ */
 $messages['wuu'] = array(
 	'sitesupport' => '捐款',
 );
@@ -14828,7 +14876,8 @@ $messages['xal'] = array(
 	'wikimedia-copyright' => 'Бичг <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> зөвшлтин болзани орлһта, зәрм бәәдлт дәкәд болзан йоста бәәдг. Тодрхаһар <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Эдллһнә болзан</a> хәләтн.',
 );
 
-/** Xhosa (isiXhosa) */
+/** Xhosa (isiXhosa)
+ */
 $messages['xh'] = array(
 	'sitesupport' => 'Amalizo',
 );
@@ -14976,7 +15025,7 @@ $messages['yo'] = array(
 Ẹ wo <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.',
 	'wikimedia-copyrightwarning' => 'Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] àti [//www.gnu.org/copyleft/fdl.html GFDL].
 Ẹ gbà kí àwọn olùtúnlò míràn, o kéréjù pelú ìjápò tàbí URL sí ojúewé tí ẹ ṣàfikún sí, pe kí wọn ó dárúkọ yín.
-Ẹ wo [//wikimediafoundation.org/wiki/Terms_of_Use Àwọn Ọ̀rọ̀ Àdéhùn Ìlò] fún ẹ̀kúnrẹ́rẹ́.',
+Ẹ wo [//wikimediafoundation.org/wiki/Terms_of_Use Àwọn Ọ̀rọ̀ Àdéhùn Ìlò] fún ẹ̀kúnrẹ́rẹ́.', # Fuzzy
 );
 
 /** Cantonese (粵語)
@@ -14989,76 +15038,76 @@ $messages['yue'] = array(
 	'sitesupport' => '慷慨解囊',
 	'tooltip-n-sitesupport' => '資持我哋',
 	'group-abusefilter' => '濫用過濾器編者',
-	'group-abusefilter-member' => '濫用過濾器編者',
+	'group-abusefilter-member' => '濫用過濾器編者', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:濫用過濾器編者',
 	'group-accountcreator' => '開戶專員',
-	'group-accountcreator-member' => '開戶專員',
+	'group-accountcreator-member' => '開戶專員', # Fuzzy
 	'grouppage-accountcreator' => '{{ns:project}}:開戶專員',
 	'group-autopatrolled' => '自動複查員',
-	'group-autopatrolled-member' => '自動巡查員',
+	'group-autopatrolled-member' => '自動巡查員', # Fuzzy
 	'grouppage-autopatrolled' => '{{ns:project}}:自動巡查員',
 	'group-autoreviewer' => '自動覆查者',
-	'group-autoreviewer-member' => '自動覆查者',
+	'group-autoreviewer-member' => '自動覆查者', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:自動覆查者',
 	'group-bigexport' => '大型倒出者',
-	'group-bigexport-member' => '大型倒出者',
+	'group-bigexport-member' => '大型倒出者', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:大型倒出者',
 	'group-confirmed' => '確認用戶',
-	'group-confirmed-member' => '確認用戶',
+	'group-confirmed-member' => '確認用戶', # Fuzzy
 	'grouppage-confirmed' => '{{ns:project}}:確認用戶',
 	'group-editprotected' => '保護頁面編者',
-	'group-editprotected-member' => '已保護頁面編者',
+	'group-editprotected-member' => '已保護頁面編者', # Fuzzy
 	'group-filemover' => '搬檔案者',
-	'group-filemover-member' => '搬檔案',
+	'group-filemover-member' => '搬檔案', # Fuzzy
 	'group-flood' => '機械人用戶',
-	'group-flood-member' => '機械人用戶',
+	'group-flood-member' => '機械人用戶', # Fuzzy
 	'group-founder' => '創辦人',
-	'group-founder-member' => '創辦人',
+	'group-founder-member' => '創辦人', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:創辦人',
 	'group-import' => '匯入者',
-	'group-import-member' => '匯入者',
+	'group-import-member' => '匯入者', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:匯入者',
 	'group-interface_editor' => '介面編者',
-	'group-interface_editor-member' => '界面編輯者',
+	'group-interface_editor-member' => '界面編輯者', # Fuzzy
 	'group-ipblock-exempt' => 'IP封鎖例外者',
-	'group-ipblock-exempt-member' => 'IP封鎖例外',
+	'group-ipblock-exempt-member' => 'IP封鎖例外', # Fuzzy
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封鎖例外',
 	'group-patroller' => '巡邏員',
-	'group-patroller-member' => '巡邏員',
+	'group-patroller-member' => '巡邏員', # Fuzzy
 	'group-researcher' => '研究者',
-	'group-researcher-member' => '研究者',
+	'group-researcher-member' => '研究者', # Fuzzy
 	'group-rollbacker' => '反轉者',
-	'group-rollbacker-member' => '反轉者',
+	'group-rollbacker-member' => '反轉者', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:反轉者',
 	'group-transwiki' => 'Transwiki匯入者',
-	'group-transwiki-member' => 'Transwiki匯入者',
+	'group-transwiki-member' => 'Transwiki匯入者', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki匯入者',
 	'group-trusted' => '可信戶',
 	'group-Global_bot' => '全域機械人',
-	'group-Global_bot-member' => '全域機械人',
+	'group-Global_bot-member' => '全域機械人', # Fuzzy
 	'group-Global_rollback' => '全域反轉者',
-	'group-Global_rollback-member' => '全域反轉者',
+	'group-Global_rollback-member' => '全域反轉者', # Fuzzy
 	'group-Global_sysops' => '全域管理員',
 	'group-Ombudsmen' => '申訴專員',
-	'group-Ombudsmen-member' => '申訴專員',
+	'group-Ombudsmen-member' => '申訴專員', # Fuzzy
 	'group-Staff' => '職員',
 	'group-Staff-member' => '職員',
 	'group-editinterface' => '界面編輯者',
-	'group-editinterface-member' => '界面編輯者',
+	'group-editinterface-member' => '界面編輯者', # Fuzzy
 	'group-steward' => '執行員',
-	'group-steward-member' => '執行員',
+	'group-steward-member' => '執行員', # Fuzzy
 	'group-sysadmin' => '系統管理員',
-	'group-sysadmin-member' => '系統管理員',
+	'group-sysadmin-member' => '系統管理員', # Fuzzy
 	'group-coder' => '編碼員',
-	'group-coder-member' => '編碼員',
+	'group-coder-member' => '編碼員', # Fuzzy
 	'group-inactive' => '唔活躍嘅用戶',
-	'group-inactive-member' => '唔活躍嘅用戶',
+	'group-inactive-member' => '唔活躍嘅用戶', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:唔活躍嘅用戶',
 	'wikimedia-copyright' => '呢度嘅所有文字係根據<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嘅條款發佈；可能會有附加嘅條款。
 睇吓<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嘅細節。',
 	'wikimedia-copyrightwarning' => '當保存嗰陣，你同意將你嘅貢獻喺[//creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[//www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。
 你同意加你個名畀再利用者，最少，經過嘅超連結或者網址到你貢獻嘅版。
-睇吓[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嘅細節。',
+睇吓[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嘅細節。', # Fuzzy
 	'wikimedia-editpage-tos-summary' => '如果你唔想將你寫嘅嘢畀人編輯同埋再發佈嘅話，噉就唔好響呢度遞交。
 唔果你唔係自己去寫呢篇嘢嘅話，佢一定要同[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]可以提供嘅情況之下提供，同埋你同意跟住任何有關嘅發牌條件。',
 );
@@ -15192,7 +15241,7 @@ $messages['zh-hans'] = array(
 	'grouppage-translationadmin' => '{{ns:project}}:翻译管理员',
 	'group-coder' => '程序员',
 	'group-coder-member' => '{{GENDER:$1|程序员}}',
-	'grouppage-coder' => '{{ns:project}}:程序员',
+	'grouppage-coder' => '{{ns:project}}:程序员', # Fuzzy
 	'group-inactive' => '不活跃用户',
 	'group-inactive-member' => '{{GENDER:$1|不活跃用户}}',
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
@@ -15352,4 +15401,3 @@ $messages['zh-hk'] = array(
 $messages['zu'] = array(
 	'sitesupport' => 'Izipho',
 );
-
