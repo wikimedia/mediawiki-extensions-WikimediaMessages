@@ -12299,6 +12299,7 @@ $messages['sl'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Izvzem blokade IP',
 	'group-patroller' => 'Nadzorniki',
 	'group-patroller-member' => '{{GENDER:$1|nadzornik|nadzornica}}',
+	'grouppage-patroller' => '{{ns:project}}:Nadzorniki',
 	'group-researcher' => 'Raziskovalci',
 	'group-researcher-member' => '{{GENDER:$1|raziskovalec|raziskovalka}}',
 	'grouppage-researcher' => '{{ns:project}}:Raziskovalci',
@@ -12343,6 +12344,7 @@ Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta 
 	'wikimedia-editpage-tos-summary' => 'Če ne želite, da se vaše besedilo neovirano ureja in razširja, ga ne prispevajte.
 Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [//wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe], vi pa se strinjate z vsemi zahtevami licence izvorne objave.',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
+	'upload-more-photos-of-this-monument' => 'Naložite več fotografij spomenika',
 );
 
 /** Lower Silesian (Schläsch)

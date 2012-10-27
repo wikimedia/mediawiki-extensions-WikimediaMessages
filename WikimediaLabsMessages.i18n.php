@@ -226,8 +226,10 @@ $messages['ja'] = array(
 	'gerrittools-repogroup-analytics' => 'ウィキメディア アナリティクス Gerrit リポジトリ',
 	'gerrittools-repogroup-mediawiki' => 'MediaWiki Gerrit リポジトリ',
 	'gerrittools-repogroup-mediawiki/extensions' => 'MediaWiki 拡張機能 Gerrit リポジトリ',
+	'gerrittools-repogroup-mediawiki/packages' => 'MediaWiki パッケージ Gerrit リポジトリ',
 	'gerrittools-repogroup-mediawiki/tools' => 'MediaWiki ツール Gerrit リポジトリ',
 	'gerrittools-repogroup-test' => 'テスト Gerrit リポジトリ',
+	'gerrittools-repogroup-translatewiki' => 'Translatewiki.net Gerrit リポジトリ',
 	'gerrittools-repogroup-wikimedia' => 'ウィキメディア Gerrit リポジトリ',
 );
 
