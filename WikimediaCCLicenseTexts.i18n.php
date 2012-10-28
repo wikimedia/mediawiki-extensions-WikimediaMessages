@@ -9535,7 +9535,7 @@ $messages['lt'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Jei perdirbsite, redaguosite ar atkursite šį darbą, jį galėsite platinti tik su tokia pačia ar panašia į šią licencija.',
 );
 
-/** Lushai (Mizo ţawng)
+/** Mizo (Mizo ţawng)
  * @author RMizo
  */
 $messages['lus'] = array(

@@ -421,7 +421,6 @@ $messages['an'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:en:Licencia de documentación libre de GNU',
 	'wm-license-gpl-text' => "Ista obra ye [[{{int:wm-license-free-software-wiki-link}}|software libre]]; Puet redistribuir-la y modificar-la d'alcuerdo con os termins d'a '''[[{{int:wm-license-gpl-wiki-link}}|Licencia Publica _Cheneral GNU]]''' publicada por a [[{{int:wm-license-fsf-wiki-link}}|Fundación ta o Software Libre]], versión 2 u qualsiquier atra posterior. Ista obra se distribuye con a esperanza que pueda estar util, pero '''sin garra guarencia'''; ni sisquiera a guarencia implicita de '''comercialización''' u '''adequación a una finalidat especifica'''. Visite a [{{int:wm-license-gpl-2-full-link}} versión 2] y a [{{int:wm-license-gpl-3-full-link}} versión 3 d'a Licencia Publica Cheneral GNU] ta obtener-ne mas detalles.",
 	'wm-license-gpl-wiki-link' => 'w:en:GNU Cheneral Public License',
-	'wm-license-gpl-3-full-link' => 'http://www.gnu.org/copyleft/gpl-3.0.html',
 	'wm-license-information-table-summary' => "Una tabla estandardizada con a información completa sobre o fichero, incluindo una descripción d'o que amuestra y cómo fue feito, o suyo estau de copyright y a suya fuent.",
 	'wm-license-information-description' => 'Descripción',
 	'wm-license-information-description-missing' => "Ista imachen no tiene garra '''descripción''' u le falta información esencial.",
@@ -585,6 +584,8 @@ $messages['ar'] = array(
 $messages['arc'] = array(
 	'wm-license-book-language' => 'ܠܫܢܐ',
 	'wm-license-information-source' => 'ܡܒܘܥܐ',
+	'wm-license-information-date' => 'ܣܝܩܘܡܐ',
+	'wm-license-information-author' => 'ܣܝܘܡܐ',
 );
 
 /** Egyptian Spoken Arabic (مصرى)
@@ -4079,8 +4080,6 @@ $messages['ia'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:ia:Licentia GNU pro Documentation Libere',
 	'wm-license-gpl-text' => "Iste obra es [[{{int:wm-license-free-software-wiki-link}}|software libere]]; tu pote redistribuer lo e/o modificar lo sub le conditiones del '''[[{{int:wm-license-gpl-wiki-link}}|Licentia Public General de GNU]]''' como publicate per le [[{{int:wm-license-fsf-wiki-link}}|Fundation pro Software Libere]]; o le version 2 del Licentia, o un version plus recente. Iste obra es distribuite in le sperantia que illo sia utile, ma '''sin garantia'''; mesmo sin le garantia implicite de '''commerciabilitate''' o '''adequation a un scopo particular'''. Vide le [{{int:wm-license-gpl-2-full-link}} version 2] e le [{{int:wm-license-gpl-3-full-link}} version 3 del Licentia Public General de GNU] pro ulterior detalios.",
 	'wm-license-gpl-wiki-link' => 'w:ia:Licentia Public General de GNU',
-	'wm-license-gpl-2-full-link' => 'http://www.gnu.org/licenses/old-licenses/gpl-2.0.html',
-	'wm-license-gpl-3-full-link' => 'http://www.gnu.org/copyleft/gpl-3.0.html',
 	'wm-license-information-table-summary' => 'Un tabella standardisate con information complete super le file, como un description del contento e le processo de creation, le stato de copyright e le origine.',
 	'wm-license-information-description' => 'Description',
 	'wm-license-information-description-missing' => "Iste file non ha un '''description''', e forsan il manca altere informationes a illo.",
@@ -4097,8 +4096,6 @@ $messages['ia'] = array(
 	'wm-license-information-other-versions' => 'Altere versiones',
 	'wm-license-lgpl-text' => "Iste bibliotheca es [[{{int:wm-license-free-software-wiki-link}}|software libere]]; tu pote redistribuer lo e/o modificar lo sub le terminos del '''[[{{int:wm-license-lgpl-wiki-link}}|Licentia Public General Minor de GNU]]''' como publicate per le [[{{int:wm-license-fsf-wiki-link}}|Fundation pro Software Libere]]; o le version 2.1 del Licentia, o (si tu lo prefere) un version plus recente. Iste bibliotheca es distribuite in le sperantia que illo sia utile, ma '''sin garantia'''; mesmo sin le garantia implicite de '''commerciabilitate''' o '''adequation a un scopo particular'''. Vide le [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] e le [{{int:wm-license-lgpl-3-full-link}} version 3 del Licentia Public General Minor de GNU] pro ulterior detalios.",
 	'wm-license-lgpl-wiki-link' => 'w:ia:Licentia Public General Minor de GNU',
-	'wm-license-lgpl-2.1-full-link' => 'http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html',
-	'wm-license-lgpl-3-full-link' => 'http://www.gnu.org/licenses/lgpl.html',
 	'wm-license-licensing-update-text' => 'Iste etiquetta de licentia esseva addite a iste file como parte del [[{{int:wm-license-licensing-update-wiki-link}}|actualisation del licentia]] GFDL.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/ia',
 	'wm-license-original-upload-log' => 'Registro de incargamento original',
@@ -5126,14 +5123,10 @@ En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschre
 	'wm-license-gfdl-1.3-only' => 'Do darfs heh dat Dokemänt kopeere un wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]</i>\'\'\' (dä freije Lizänz för Dokemäntazjuhne vun dä GNU) bloß en dä Version 1.3, wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) met kein onveränderlesch Afschnedde, keine Täx om Ömschlaach un Boochdäckel.
 En Kopie vun däm Täx vun dä Lizänz es en däm Afschned onger dä Övverschreff <i lang="en">[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]</i>.',
 	'wm-license-gfdl-wiki-link' => 'w:ksh:GNU Lizännz för n fräĳe Dokementazjon',
-	'wm-license-gfdl-full-1.2-link' => 'Commons:GNU Free Documentation License 1.2',
-	'wm-license-gfdl-full-1.3-link' => 'Commons:GNU Free Documentation License 1.3',
 	'wm-license-gpl-text' => 'Heh dat Wärrek es [[{{int:wm-license-free-software-wiki-link}}|e frei Projramm (<i lang="en">free software</i>)]] un De kanns se wigger jävve un och ändere onger dä Bedenonge vun dä su jenannte \'\'\'<i lang="en">[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]</i>\'\'\' (dä alljemeine öffentlesche Lizänz vun dä GNU) wi se veröffentlesch wood vun dä <i lang="en">[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]</i> (Shteftong för Frei Projramme) entweeder en dä Versin 2 udder jeede neuere Version.
 Heh dat Projramm udder Pakätt weed wigger jejovve en dä Hoffnung, dat et ze bruche es, ävver der ohne jeede Jarranti, dat se ze verkoufe udder för öhßjät ze bruche es.
 Loor Der de [{{int:wm-license-gpl-2-full-link}} version 2.1] un de [{{int:wm-license-gpl-3-full-link}} version 3 vun de <i lang="en">GNU General Public License</i>] aan, wann De_t jenouer weße wells.',
 	'wm-license-gpl-wiki-link' => 'w:ksh:GNU General Public License',
-	'wm-license-gpl-2-full-link' => 'http://www.gnu.org/licenses/old-licenses/gpl-2.0.html',
-	'wm-license-gpl-3-full-link' => 'http://www.gnu.org/copyleft/gpl-3.0.html',
 	'wm-license-information-table-summary' => 'En einheitlijje Tabäll met dä kumplätte Enfommazjuhne övver di Dattei, doh dren es och beschrevve, wat se zeisch un wi se jemaat woode es, de Quälle, un et Urhävverräsch.',
 	'wm-license-information-description' => 'Zosammefassung',
 	'wm-license-information-description-missing' => "Bei heh dä Dattei es kein '''Zosammefassung''' jemaat woode.",

@@ -864,7 +864,6 @@ $messages['ar'] = array(
 	'sitesupport' => 'تبرع',
 	'tooltip-n-sitesupport' => 'ادعمنا',
 	'specialpages-group-contribution' => 'المساهمات/جمع التبرعات',
-	'robots.txt' => '# السطور هنا ستتم إضافتها إلى robots.txt العام',
 	'nstab-creator' => 'المنشئ',
 	'nstab-institution' => 'مؤسسة',
 	'nstab-sequence' => 'تتابع',
@@ -1024,7 +1023,6 @@ $messages['arz'] = array(
 	'sitesupport' => 'التبرعات',
 	'tooltip-n-sitesupport' => 'ساندنا',
 	'specialpages-group-contribution' => 'المساهمين/جامعين التبرعات',
-	'robots.txt' => '# السطور هنا ستتم إضافتها إلى robots.txt العام',
 	'group-abusefilter' => 'معدلين فيلتر الاساءه',
 	'group-abusefilter-member' => 'محرر فيلتر الاساءه', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:محررين فيلتر الاساءه',
@@ -3002,7 +3000,6 @@ $messages['de'] = array(
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
 	'specialpages-group-contribution' => 'Spenden/Fundraiser',
-	'robots.txt' => '# Zeilen hier werden zur globalen „robots.txt“ hinzugefügt',
 	'nstab-creator' => 'Urheber',
 	'nstab-institution' => 'Institution',
 	'nstab-sequence' => 'Sequenz',
@@ -8354,7 +8351,7 @@ $messages['ltg'] = array(
 	'sitesupport' => 'Pazīdi',
 );
 
-/** Lushai (Mizo ţawng)
+/** Mizo (Mizo ţawng)
  * @author RMizo
  */
 $messages['lus'] = array(
