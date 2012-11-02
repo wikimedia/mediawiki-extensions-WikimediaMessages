@@ -102,3 +102,10 @@ $messages['mk'] = array(
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
+
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'wikimediamessages-desc' => 'Тимчасові повідомлення для Вікімедіа',
+);

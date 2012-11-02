@@ -361,6 +361,13 @@ $messages['tl'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Mga repositoryong Gerrit ng Wikimedia',
 );
 
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'wikimedialabsmessages-desc' => 'Повідомлення Wikimedia Labs',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */
