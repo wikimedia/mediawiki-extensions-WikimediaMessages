@@ -1303,6 +1303,7 @@ $messages['ast'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:exención de bloqueos IP',
 	'group-patroller' => 'Patrulleros',
 	'group-patroller-member' => '{{GENDER:$1|patrulleru|patrullera}}',
+	'grouppage-patroller' => '{{ns:project}}:Patrulleros',
 	'group-researcher' => 'Investigadores',
 	'group-researcher-member' => '{{GENDER:$1|investigador|investigadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Investigadores',
@@ -1332,6 +1333,16 @@ $messages['ast'] = array(
 	'grouppage-steward' => '{{ns:project}}:Stewards',
 	'group-sysadmin' => 'Alministradores del sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|alministrador|alministradora}} del sistema',
+	'group-API_High_Limit_Requestor' => 'Solicitantes de llimite altu de la API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Solicitante de llimite altu de la API}}',
+	'group-Indic_Bots' => 'Bots índicos',
+	'group-Indic_Bots-member' => '{{GENDER:$1|bot índicu}}',
+	'group-New_wikis_importer' => 'Importadores de wikis nueves',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|importador|importadora}} de wikis nueves',
+	'group-global-ipblock-exempt' => 'Acutaos de bloqueos IP globales',
+	'group-global-ipblock-exempt-member' => "{{GENDER:$1|acutáu|acutada}} de bloquéu global d'IP",
+	'group-recursive-export' => 'Esportación recurrente',
+	'group-recursive-export-member' => '{{GENDER:$1|esportador|esportadora}} recurrente',
 	'group-translationadmin' => 'Alministradores de traducción',
 	'group-translationadmin-member' => '{{GENDER:$1|alministrador|alministradora}} de traducción',
 	'grouppage-translationadmin' => '{{ns:project}}:Alministradores de traducción',
@@ -1348,6 +1359,7 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 Si esti escritu nun ye tuyu, tien de tar disponible baxo condiciones compatibles colos [//wikimediafoundation.org/wiki/Terms_of_Use términos d'usu] y aceutes cumplir cualesquier requerimientu rellacionáu cola llicencia.",
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
+	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
 );
 
 /** Avaric (авар)
