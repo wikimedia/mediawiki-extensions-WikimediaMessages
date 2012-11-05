@@ -47,6 +47,13 @@ $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes temporales específicos de Wikimedia',
 );
 
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'wikimediamessages-desc' => 'Messages temporaires spécifiques de Wikimédia',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
