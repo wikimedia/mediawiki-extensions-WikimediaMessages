@@ -9834,11 +9834,11 @@ $messages['nn'] = array(
 	'group-abusefilter-member' => 'redigerar av misbruksfilteret', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:Redigerarar av misbruksfilteret',
 	'group-accountcreator' => 'Kontoopprettarar',
-	'group-accountcreator-member' => 'Kontoopprettar', # Fuzzy
+	'group-accountcreator-member' => '{{GENDER:$1|kontoopprettar}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontoopprettarar',
-	'group-autopatrolled' => 'Autopatruljerte',
-	'group-autopatrolled-member' => 'Automatisk godkjende bidrag', # Fuzzy
-	'grouppage-autopatrolled' => '{{ns:project}}:Automatisk godkjende bidrag',
+	'group-autopatrolled' => 'Autopatruljørar',
+	'group-autopatrolled-member' => '{{GENDER:$1|autopatruljør}}',
+	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruljørar',
 	'group-autoreviewer' => 'Autogranska',
 	'group-autoreviewer-member' => 'automeldar', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske granskarar',
@@ -9846,7 +9846,7 @@ $messages['nn'] = array(
 	'group-bigexport-member' => 'stor eksportør', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
 	'group-confirmed' => 'Stadfesta brukarar',
-	'group-confirmed-member' => 'Stadfesta brukar', # Fuzzy
+	'group-confirmed-member' => '{{GENDER:$1|stadfesta brukar}}',
 	'grouppage-confirmed' => '{{ns:project}}:Stadfeste brukarar',
 	'group-flood' => 'Bot-brukarar',
 	'group-flood-member' => 'bot-brukar', # Fuzzy
@@ -9855,10 +9855,10 @@ $messages['nn'] = array(
 	'group-founder-member' => 'grunnleggar', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
 	'group-import' => 'Importørar',
-	'group-import-member' => 'Importør', # Fuzzy
+	'group-import-member' => '{{GENDER:$1|importør}}',
 	'grouppage-import' => '{{ns:project}}:Importørar',
 	'group-ipblock-exempt' => 'Unntak frå IP-blokkering',
-	'group-ipblock-exempt-member' => 'Unnateke frå IP-blokkering', # Fuzzy
+	'group-ipblock-exempt-member' => '{{GENDER:$1|unnateke frå IP-blokkering}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Unnatekne frå IP-blokkering',
 	'group-patroller' => 'Patruljørar',
 	'group-patroller-member' => '{{GENDER:$1|patruljør}}',
@@ -9866,7 +9866,7 @@ $messages['nn'] = array(
 	'group-rollbacker-member' => 'attenderullar', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Attenderullarar',
 	'group-transwiki' => 'Transwiki-importørar',
-	'group-transwiki-member' => 'Transwiki-importør', # Fuzzy
+	'group-transwiki-member' => '{{GENDER:$1|transwikiimportør}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
 	'group-trusted' => 'Brukarar til å stola på',
 	'group-trusted-member' => 'brukar til å stola på', # Fuzzy
@@ -14125,6 +14125,14 @@ $messages['ty'] = array(
  */
 $messages['tyv'] = array(
 	'sitesupport' => 'Белектер',
+);
+
+/** Central Atlas Tamazight (ⵜⴰⵎⴰⵣⵉⵖⵜ)
+ * @author Tifinaghes
+ */
+$messages['tzm'] = array(
+	'sitesupport' => 'ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ',
+	'shared-repo-name-shared' => 'ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ',
 );
 
 /** Udmurt (удмурт)

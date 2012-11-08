@@ -9303,6 +9303,17 @@ $messages['tyv'] = array(
 	'wm-license-information-source' => 'Эгези',
 );
 
+/** Central Atlas Tamazight (ⵜⴰⵎⴰⵣⵉⵖⵜ)
+ * @author Tifinaghes
+ */
+$messages['tzm'] = array(
+	'wm-license-artwork-artist' => 'ⴰⵏⴰⵥⵓⵔ',
+	'wm-license-artwork-title' => 'ⴰⵣⵡⵍ',
+	'wm-license-artwork-medium' => 'ⴰⵏⴰⵎⵎⴰⵙ',
+	'wm-license-book-title' => 'ⴰⵣⵡⵍ',
+	'wm-license-pd-wiki-link' => 'w:tzm:public domain',
+);
+
 /** Ukrainian (українська)
  * @author AS
  * @author Ahonc
