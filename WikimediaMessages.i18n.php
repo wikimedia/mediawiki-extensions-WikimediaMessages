@@ -14132,6 +14132,8 @@ $messages['tyv'] = array(
  */
 $messages['tzm'] = array(
 	'sitesupport' => 'ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ',
+	'group-OTRS-member' => 'ⵉⴳⵎⴰⵎⵏ OTRS',
+	'group-Indic_Bots' => 'Indic bots',
 	'shared-repo-name-shared' => 'ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ',
 );
 
