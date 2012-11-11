@@ -680,6 +680,7 @@ $messages['am'] = array(
 );
 
 /** Aragonese (aragonés)
+ * @author Dalton2
  * @author Juanpabl
  * @author Nemo bis
  */
@@ -715,7 +716,7 @@ $messages['an'] = array(
 	'group-arbcom-member' => "{{GENDER:$1|miembro d'o comité d'arbitrache}}",
 	'grouppage-arbcom' => "{{ns:project}}:Miembros d'o comité d'arbitrache",
 	'group-autopatrolled' => 'Autopatrullers',
-	'group-autopatrolled-member' => '{{GENDER:$1|autopatrullero|autopatrullera}}',
+	'group-autopatrolled-member' => '{{GENDER:$1|autoverificado|autoverificada}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrullers',
 	'group-autoreviewer' => 'Autorevisadors',
 	'group-autoreviewer-member' => '{{GENDER:$1|autorevisor|autorevisora}}',
@@ -3728,6 +3729,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Ascánder
  * @author Crazymadlover
  * @author Cvmontuy
+ * @author Dalton2
  * @author Dferg
  * @author Fitoschido
  * @author Gustronico
@@ -3770,9 +3772,9 @@ $messages['es'] = array(
 	'group-arbcom' => 'Miembros del comité de arbitraje',
 	'group-arbcom-member' => '{{GENDER:$1|miembro del comité de arbitraje}}',
 	'grouppage-arbcom' => '{{ns:project}}:Miembros del comité de arbitraje',
-	'group-autopatrolled' => 'Autopatrulleros',
-	'group-autopatrolled-member' => '{{GENDER:$1|autopatrullero|autopatrullera}}',
-	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrulleros',
+	'group-autopatrolled' => 'Autoverficados',
+	'group-autopatrolled-member' => '{{GENDER:$1|autoverificado|autoverificada}}',
+	'grouppage-autopatrolled' => '{{ns:project}}:Autoverificados',
 	'group-autoreviewer' => 'Autorrevisores',
 	'group-autoreviewer-member' => '{{GENDER:$1|autorrevisor|autorrevisora}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:Autorrevisores',
@@ -3864,8 +3866,8 @@ $messages['es'] = array(
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
-cláusulas adicionales pueden aplicar.
-Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">los términos de uso</a> para más detalles.',
+pueden aplicarse términos adicionales.
+Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de uso</a> para más detalles.',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
