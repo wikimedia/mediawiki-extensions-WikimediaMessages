@@ -1218,6 +1218,13 @@ il',
 	'wm-license-cc-conditions-share_alike-header' => 'bənzər paylaşma',
 );
 
+/** South Azerbaijani (South Azerbaijani)
+ * @author E THP
+ */
+$messages['azb'] = array(
+	'wm-license-cc-free-to-share-header' => 'بؤلۆشمک',
+);
+
 /** Bashkir (башҡортса)
  * @author Assele
  * @author Comp1089
