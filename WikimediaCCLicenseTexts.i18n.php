@@ -1218,7 +1218,7 @@ il',
 	'wm-license-cc-conditions-share_alike-header' => 'bənzər paylaşma',
 );
 
-/** South Azerbaijani (South Azerbaijani)
+/** تورکجه (تورکجه)
  * @author E THP
  */
 $messages['azb'] = array(
@@ -15999,6 +15999,13 @@ $messages['tt-cyrl'] = array(
 	'wm-license-cc-attribution' => 'Авторлыкны күрсәтү',
 	'wm-license-cc-free' => 'Сез ирекле рәвештә:',
 	'wm-license-cc-free-to-share-header' => 'файл белән уртаклаша аласыз',
+);
+
+/** Central Atlas Tamazight (ⵜⴰⵎⴰⵣⵉⵖⵜ)
+ * @author Tifinaghes
+ */
+$messages['tzm'] = array(
+	'wm-license-cc-attribution' => 'ⵓⵟⵟⵓⵏ',
 );
 
 /** Ukrainian (українська)
