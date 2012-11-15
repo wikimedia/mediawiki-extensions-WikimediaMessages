@@ -77,6 +77,13 @@ $messages['br'] = array(
 	'gerrittools-repogroup-wikimedia' => "Kavlec'hioù Wikimedia Gerrit",
 );
 
+/** Czech (česky)
+ * @author Mormegil
+ */
+$messages['cs'] = array(
+	'wikimedialabsmessages-desc' => 'Hlášení pro Wikimedia Labs',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */

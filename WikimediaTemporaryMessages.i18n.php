@@ -26,6 +26,13 @@ $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Часовыя паведамленьні для Вікімэдыі',
 );
 
+/** Czech (česky)
+ * @author Mormegil
+ */
+$messages['cs'] = array(
+	'wikimediamessages-desc' => 'Dočasná hlášení specifická pro projekty Wikimedia',
+);
+
 /** Danish (dansk)
  * @author Kaare
  */
