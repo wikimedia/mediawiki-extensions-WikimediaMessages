@@ -47,6 +47,13 @@ $messages['de'] = array(
 	'wikimediamessages-desc' => 'Wikimediaspezifische temporäre Nachrichten',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'wikimediamessages-desc' => 'Nachylne powěsći, kótarež su specifiske za Wikimediju',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */
@@ -79,7 +86,7 @@ $messages['he'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
-	'wikimediamessages-desc' => 'Nachwilne powěsće, kotrež zu specifiske za Wikimediju',
+	'wikimediamessages-desc' => 'Nachwilne powěsće, kotrež su specifiske za Wikimediju',
 );
 
 /** Italian (italiano)
