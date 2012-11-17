@@ -110,6 +110,13 @@ $messages['ko'] = array(
 	'wikimediamessages-desc' => '위키미디어 특정 임시 메시지',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'wikimediamessages-desc' => 'Spezifesch temporär Message vu Wikimedia',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

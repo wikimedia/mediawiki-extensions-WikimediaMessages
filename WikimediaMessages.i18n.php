@@ -3847,7 +3847,7 @@ $messages['es'] = array(
 	'group-API_High_Limit_Requestor' => 'Solicitantes de alto límite de API',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Solicitante de alto límite de API}}',
 	'grouppage-API_High_Limit_Requestor' => 'm:API high limit requestors',
-	'group-Indic_Bots' => 'Robots indicadores',
+	'group-Indic_Bots' => 'Robots hindúes',
 	'group-Indic_Bots-member' => '{{GENDER:$1|robot indicador}}',
 	'group-New_wikis_importer' => 'Nuevos importadores de wikis',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|nuevo importador de wikis}}',
@@ -3872,7 +3872,7 @@ Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de us
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
 	'wikimedia-editpage-tos-summary' => 'Si no desea que sus escritos sean editados y redistribuidos a voluntad entonces no los guarde aquí. Si usted no ha escrito el texto que está enviando éste debe estar disponible bajo las condiciones especificadas en los [//wikimediafoundation.org/wiki/Términos_de_Uso términos de uso] y usted acepta seguir cualquier requerimiento relacionado con las licencias que se le puedan exigir.',
-	'cant-delete-main-page' => 'No se puede borrar ni mover la página principal.',
+	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
 );
