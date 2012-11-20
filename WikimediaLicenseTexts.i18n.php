@@ -1815,6 +1815,7 @@ $messages['cy'] = array(
 
 /** Danish (dansk)
  * @author B1mbo
+ * @author Christian List
  * @author EPO
  * @author Emilkris33
  * @author Kaare
@@ -1825,8 +1826,8 @@ $messages['cy'] = array(
  */
 $messages['da'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia-licenstekster',
-	'wm-license-attribution-with-author-text' => "Denne fils ophavsretsindehaver, $1, tillader enhver at bruge filen til '''til ethvert formål, forudsat at''' ophavsretsindehaveren bliver korrekt krediteret. Gendistribution, afledte værker, kommerciel brug og alle andre anvendelser er tilladt.",
-	'wm-license-attribution-without-author-text' => "Indehaveren af ophavsretten til denne fil tillader enhver at anvende den '''for ethvert formål, under betingelse af, at''' rettighedshaveren krediteres som påkrævet. Videredistribution, bearbejdelser, kommerciel brug, og alle andre formål tillades.",
+	'wm-license-attribution-with-author-text' => "Indehaveren af ophavsretten til denne fil, $1, tillader enhver at bruge filen '''til ethvert formål, under betingelse af, at''' rettighedshaveren krediteres som påkrævet. Videredistribution, afledte værker, kommerciel brug og alle andre formål tillades.",
+	'wm-license-attribution-without-author-text' => "Indehaveren af ophavsretten til denne fil tillader enhver at bruge filen '''til ethvert formål, under betingelse af, at''' rettighedshaveren krediteres som påkrævet. Videredistribution, afledte værker, kommerciel brug og alle andre formål tillades.",
 	'wm-license-artwork-artist' => 'Kunstner',
 	'wm-license-artwork-title' => 'Titel',
 	'wm-license-artwork-medium' => 'Teknik',
@@ -1854,7 +1855,7 @@ $messages['da'] = array(
 	'wm-license-book-translator' => 'Oversætter',
 	'wm-license-book-volume' => 'Bind',
 	'wm-license-book-year-of-publication' => 'Udgivelsesår',
-	'wm-license-cecill-text' => 'Dette værk er [[{{int:wm-license-free-software-wiki-link}}|gratis software]]; og du kan redistribuere det eller ændre det ifølge reglerne i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkårene for CeCILL licens er til rådighed på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-cecill-text' => 'Dette værk er [[{{int:wm-license-free-software-wiki-link}}|fri software]]; og du kan videredistribuere det eller ændre det ifølge reglerne i [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Vilkårene for CeCILL licens er til rådighed på [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Alternative navne',
 	'wm-license-creator-description' => 'Beskrivelse',
 	'wm-license-creator-date-of-birth' => 'Fødselsdato',
@@ -1864,7 +1865,7 @@ $messages['da'] = array(
 	'wm-license-creator-work-period' => 'Arbejdsperiode',
 	'wm-license-creator-work-location' => 'Arbejdssted',
 	'wm-license-creator-linkback' => 'Link tilbage til Creator infobox-skabelon',
-	'wm-license-fal-text' => "Copyleft: Dette kunstværk er gratis, og du kan redistribuere det og/eller ændre det i henhold til bestemmelserne i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du kan finde et eksemplar af denne licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude sitet] såvel som på andre websteder.",
+	'wm-license-fal-text' => "Copyleft: Dette kunstværk er frit, og du kan redistribuere det og/eller ændre det i henhold til bestemmelserne i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du kan finde et eksemplar af denne licens på [{{int:wm-license-fal-full-link}} Copyleft Attitude sitet] såvel som på andre websteder.",
 	'wm-license-fal-wiki-link' => 'w:da:Free Art license',
 	'wm-license-fsf-wiki-link' => 'w:da:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:da:Fri software',
@@ -1901,9 +1902,11 @@ $messages['da'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'I nogle lande er dette ikke juridisk muligt. I så fald:',
 	'wm-license-pd-author-self-any-purpose' => "Jeg giver enhver ret til at anvende dette værk til '''ethvert formål''', uden nogen restriktioner, medmindre sådanne restriktioner er påkrævede ved lov.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 giver enhver ret til at anvende dette værk til '''ethvert formål''', uden nogen restriktioner, medmindre sådanne restriktioner er påkrævede ved lov.",
+	'wm-license-pd-usgov-military-dod-wiki-link' => 'w:da:Forsvarsministeriet (USA)',
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:da:United States Air Force',
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:da:United States Army',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:da:United States Navy',
+	'wm-license-pd-usgov-noaa-wiki-link' => 'w:da:National Oceanic and Atmospheric Administration',
 	'wm-license-pd-wiki-link' => 'w:da:Public domain',
 	'wm-license-self-one-license' => 'Jeg, dette værks ophavsretsindehaver, publicerer hermed værket under den følgende licens:',
 	'wm-license-self-one-license-with-author' => '$1, dette værks ophavsretsindehaver, udgiver hermed værket under den følgende licens:',
