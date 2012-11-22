@@ -3733,6 +3733,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Dferg
  * @author Fitoschido
  * @author Gustronico
+ * @author Hoo
  * @author Imre
  * @author Locos epraix
  * @author Manuelt15
@@ -3772,7 +3773,7 @@ $messages['es'] = array(
 	'group-arbcom' => 'Miembros del comité de arbitraje',
 	'group-arbcom-member' => '{{GENDER:$1|miembro del comité de arbitraje}}',
 	'grouppage-arbcom' => '{{ns:project}}:Miembros del comité de arbitraje',
-	'group-autopatrolled' => 'Autoverficados',
+	'group-autopatrolled' => 'Autoverificados',
 	'group-autopatrolled-member' => '{{GENDER:$1|autoverificado|autoverificada}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autoverificados',
 	'group-autoreviewer' => 'Autorrevisores',
@@ -14134,8 +14135,18 @@ $messages['tyv'] = array(
  */
 $messages['tzm'] = array(
 	'sitesupport' => 'ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ',
+	'nstab-institution' => 'ⵜⴰⵎⵙⴷⵓⵙⵜ',
 	'group-OTRS-member' => 'ⵉⴳⵎⴰⵎⵏ OTRS',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS ⴰⴳⵎⴰⵎ}}',
+	'grouppage-OTRS-member' => '{{ns:project}}:ⵉⴳⵎⴰⵎⵏ ⵏ OTRS',
+	'group-eliminator' => 'ⵉⵎⵙⴷⵔⴼⴰⵏ',
+	'group-founder-member' => '{{GENDER:$1|ⵜⴰⵎⵙⴷⵓⵙⵜ}}',
+	'group-researcher-member' => '{{GENDER:$1|ⴰⵎⵔⵣⵓ|ⵜⴰⵎⵔⵣⵓⵜ}}',
+	'grouppage-researcher' => '{{ns:project}}:ⵉⵎⵔⵣⵓⵜⵏ',
 	'group-Indic_Bots' => 'Indic bots',
+	'group-translationadmin' => 'ⵉⵏⵎⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ',
+	'group-translationadmin-member' => '{{GENDER:$1|ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ}}',
+	'grouppage-translationadmin' => '{{ns:project}}:ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ',
 	'shared-repo-name-shared' => 'ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ',
 );
 
