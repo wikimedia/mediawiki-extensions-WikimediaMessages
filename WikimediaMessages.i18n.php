@@ -7374,6 +7374,7 @@ $messages['ka'] = array(
 თუ არ გსურთ, რომ თქვენი ნაწერი თავისუფლად გავრცელდეს და ჩასწორდეს, აქ მას ნუ შემოიტანთ. თუ ეს ტექსტი თქვენი დაწერილი არ არის, იგი უნდა აკმაყოფილებდეს [//wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], ხოლო თქვენ თანახმა ხართ დაემორჩილოთ ნებისმიერ დაკავშირებულ სალიცენზიო მოთხოვნას.
 </div>',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
+	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
 );
 
 /** Kara-Kalpak (Qaraqalpaqsha)
@@ -14382,7 +14383,7 @@ $messages['uk'] = array(
 	'group-coder-member' => '{{GENDER:$1|програміст|програмістка}}',
 	'grouppage-coder' => '{{ns:project}}:Coder',
 	'group-inactive' => 'Неактивні користувачі',
-	'group-inactive-member' => 'неактивний користувач', # Fuzzy
+	'group-inactive-member' => '{{GENDER:$1|неактивний користувач|неактивна користувачка}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
 	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
