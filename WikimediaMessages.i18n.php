@@ -1823,6 +1823,7 @@ $messages['bg'] = array(
 	'tooltip-n-sitesupport' => 'Подкрепете ни',
 	'nstab-creator' => 'Създател',
 	'nstab-institution' => 'Институция',
+	'nstab-sequence' => 'Последователност',
 	'group-Ex_Administrator' => 'Бивши администратори',
 	'group-Ex_Bureaucrat' => 'Бивши бюрократи',
 	'group-OTRS-member' => 'OTRS членове',
@@ -1898,6 +1899,7 @@ $messages['bg'] = array(
 	'grouppage-steward' => '{{ns:project}}:Стюарди',
 	'group-sysadmin' => 'Системни администратори',
 	'group-sysadmin-member' => 'системен администратор', # Fuzzy
+	'group-recursive-export' => 'Рекурсивен износ',
 	'group-coder' => 'Програмисти',
 	'group-coder-member' => '{{GENDER:$1|програмист}}',
 	'group-inactive' => 'Неактивни потребители',
@@ -1912,6 +1914,7 @@ $messages['bg'] = array(
 	'wikimedia-editpage-tos-summary' => 'Ако не желаете материалът ви да бъде редактиран и разпространяван без ограничения, тогава не го поставяйте тук.
 Ако материалът не е написан лично от вас, то за да остане тук, трябва да е съвместим с [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване], и вие да сте съгласни да изпълните всички евентуално приложими лицензионни изисквания.',
 	'cant-delete-main-page' => 'Не можете да изтривате или премествате Началната страница.',
+	'upload-more-photos-of-this-monument' => 'Качете още снимки на този паметник',
 );
 
 /** Bihari (भोजपुरी)
@@ -3178,7 +3181,7 @@ Falls Sie den Text nicht selber verfasst haben, muss er unter den [//wikimediafo
 $messages['diq'] = array(
 	'wikimediamessages-desc' => 'mesajê xususi yê wikimedyayi',
 	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/tr',
-	'sitesupport' => 'Bêci',
+	'sitesupport' => 'Beğş',
 	'tooltip-n-sitesupport' => 'paşt bıde ma',
 	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
 	'nstab-creator' => 'Vıraştoğ',
