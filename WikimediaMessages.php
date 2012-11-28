@@ -33,7 +33,6 @@ function wfSetupWikimediaMessages() {
 		// with the CC/GFDL semi-dual license fun!
 		$wgHooks['SkinCopyrightFooter'][] = 'efWikimediaSkinCopyrightFooter';
 		$wgHooks['EditPageCopyrightWarning'][] = 'efWikimediaEditPageCopyrightWarning';
-		$wgHooks['EditPageTosSummary'][] = 'efWikimediaEditPageTosSummary';
 	}
 }
 
@@ -47,10 +46,5 @@ function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link, &$forCont
 		$msg = 'wikimedia-copyright';
 		$forContent = false;
 	}
-	return true;
-}
-
-function efWikimediaEditPageTosSummary( $title, &$msg ) {
-	$msg = 'wikimedia-editpage-tos-summary';
 	return true;
 }
