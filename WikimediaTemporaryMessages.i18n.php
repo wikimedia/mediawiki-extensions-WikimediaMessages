@@ -61,6 +61,13 @@ $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes temporales específicos de Wikimedia',
 );
 
+/** Finnish (suomi)
+ * @author Nedergard
+ */
+$messages['fi'] = array(
+	'wikimediamessages-desc' => 'Wikimedian väliaikaiset viestit',
+);
+
 /** French (français)
  * @author Gomoko
  */

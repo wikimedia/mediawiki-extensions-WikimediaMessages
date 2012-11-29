@@ -10171,10 +10171,13 @@ $messages['pag'] = array(
 
 /** Pampanga (Kapampangan)
  * @author Katimawan2005
+ * @author Val2397
  */
 $messages['pam'] = array(
 	'sitesupport' => 'Donasiun',
 	'tooltip-n-sitesupport' => 'Saupan yu kami',
+	'nstab-creator' => '↓Talalalang',
+	'group-accountcreator' => '↓Talalalang account',
 	'wikimedia-copyrightwarning' => "Nung mag-save ka, mamayun kang itabili me at e mu ne bawian ing kekang ambag king lalam ning [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ampo ning [//www.gnu.org/copyleft/fdl.html GFDL].
 Mamayun kang kilalanan da ka deng talagamit a gagamit pasibayu kaniti (''re-users''), king paralan a e kulang king pamangabit hyperlink o URL king bulung nung nu ka manambag.
 Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.", # Fuzzy
