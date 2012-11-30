@@ -8502,6 +8502,7 @@ $messages['km'] = array(
 
 /** Korean (한국어)
  * @author B1mbo
+ * @author ChongDae
  * @author Klutzy
  * @author Kwj2772
  * @author Multichill
@@ -8685,20 +8686,20 @@ $messages['ko'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/sa/1.0/fi/deed.ko 동일조건변경허락 1.0 핀란드] 라이선스로 배포됩니다.',
 	'wm-license-cc-sa-1.0-nl-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/sa/1.0/nl/deed.ko 동일조건변경허락 1.0 네덜란드] 라이선스로 배포됩니다.',
 	'wm-license-cc-sa-2.0-jp-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/sa/2.0/jp/deed.ko 동일조건변경허락 2.0 일본] 라이선스로 배포됩니다.',
-	'wm-license-cc-zero-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/publicdomain/zero/1.0/deed.ko CC0 1.0  Universal Public Domain Dedication]에 따라 이용할 수 있습니다.',
-	'wm-license-cc-zero-explanation' => '이 저작물의 저작권자가 이 규약을 통해 이 저작물을 [[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]으로 선언하였으며, 법적으로 규정된 한도 내에서 저작권법에 규정된 모든 권리와 저작인접권 및 저작물에 관련된 모든 법적 권리를 포기하였습니다. 당신은 이용 허락을 받지 않고 복제, 수정, 배포, 공연하거나, 영리적 목적으로 이용할 수 있습니다.',
-	'wm-license-cc-free' => '당신은 아래의 조건을 따르는 경우에 한하여 자유롭게',
-	'wm-license-cc-free-to-share-header' => '공유',
-	'wm-license-cc-free-to-share-text' => '복제, 배포, 공연, 전송할 수 있습니다.',
-	'wm-license-cc-free-to-remix-header' => '리믹스',
-	'wm-license-cc-free-to-remix-text' => '저작물을 개작할 수 있습니다.',
-	'wm-license-cc-conditions' => '다음 조건을 따라야 합니다:',
+	'wm-license-cc-zero-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/publicdomain/zero/1.0/deed.ko CC0 1.0 보편적 퍼블릭 도메인 귀속]에 따라 이용할 수 있습니다.',
+	'wm-license-cc-zero-explanation' => '저작물에 이 일반권리증서를 첨부한 자는 법이 정한 범위 내에서 저작인접권을 포함해 저작권법에 따라 전세계적으로 해당 저작물에 대해 자신이 갖는 일체의 권리를 포기함으로써 저작물을 [[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]으로 양도하였습니다. 저작권자의 허락을 구하지 않아도 이 저작물을 상업적인 목적을 포함 모든 목적으로 복사, 수정, 배포, 실연하실 수 있습니다.',
+	'wm-license-cc-free' => '이용자는 다음의 권리를 갖습니다:',
+	'wm-license-cc-free-to-share-header' => '공유 및 이용',
+	'wm-license-cc-free-to-share-text' => '저작물의 복제, 배포, 전시, 공연 및 공중송신.',
+	'wm-license-cc-free-to-remix-header' => '재창작',
+	'wm-license-cc-free-to-remix-text' => '저작물의 개작, 수정, 이차저작물 작성.',
+	'wm-license-cc-conditions' => '다음과 같은 조건을 따라야 합니다:',
 	'wm-license-cc-conditions-attribution-header' => '저작자표시',
-	'wm-license-cc-conditions-attribution-text' => '저작자나 이용허락자가 정한 방법으로 저작물의 원저작자를 표시하여야 합니다. (그러나 귀하나 귀하의 저작물을 추천하는 의미로 표시되어서는 안됩니다.)',
+	'wm-license-cc-conditions-attribution-text' => '저작자나 이용허락자가 정한 방법으로 저작물의 원저작자를 표시하여야 합니다(그러나 원저작자가 이용자나 이용자의 이용을 보증하거나 추천한다는 의미로 표시해서는 안됩니다).',
 	'wm-license-cc-conditions-share_alike-header' => '동일조건변경허락',
-	'wm-license-cc-conditions-share_alike-text' => '이 저작물을 개작, 가공, 변형한 이차적 저작물은 이 라이선스와 같거나 호환 가능한 라이선스로만 배포하여야 합니다.',
+	'wm-license-cc-conditions-share_alike-text' => '이 저작물을 이용하여 만든 2차저작물에는 본 라이선스와 동일하거나 유사한 라이선스를 적용해야 합니다.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.ko',
-	'wm-license-cc-pd-mark-text' => '이 파일은 저작권법상에서의 알려진 제한 사항(모든 관련된 권리와 저작인접권을 포함)이 없는 것으로 간주되었습니다.',
+	'wm-license-cc-pd-mark-text' => '이 저작물은 모든 저작인접권을 포함한 저작권법 하의 규제로부터 자유로운 것으로 확인되었습니다.',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
