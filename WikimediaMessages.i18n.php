@@ -1476,6 +1476,20 @@ $messages['az'] = array(
 Ətraflı məlumat üçün <a href="//wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
 );
 
+/** South Azerbaijani (تورکجه)
+ * @author Amir a57
+ */
+$messages['azb'] = array(
+	'sitesupport' => 'مادی کومک',
+	'tooltip-n-sitesupport' => 'بیزه دستک وئرین',
+	'specialpages-group-contribution' => 'مشارکت لر/کومک ییغما',
+	'nstab-creator' => 'یاردیچی',
+	'nstab-institution' => 'نهاد',
+	'nstab-sequence' => 'دالیسی',
+	'nstab-timedtext' => 'زمانلی متن',
+	'group-Ex_Administrator' => 'قاباق کی ایداره چیلر',
+);
+
 /** Bashkir (башҡортса)
  * @author Assele
  * @author Comp1089

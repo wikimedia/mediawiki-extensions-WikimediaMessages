@@ -854,6 +854,39 @@ $messages['az'] = array(
 	'wm-license-self-multiple-licenses-select' => 'İstədiyiniz lisenziyanı seçə bilərsiniz.',
 );
 
+/** South Azerbaijani (تورکجه)
+ * @author Amir a57
+ */
+$messages['azb'] = array(
+	'wm-license-artwork-artist' => 'آرتیست',
+	'wm-license-artwork-title' => 'باشلیق',
+	'wm-license-artwork-medium' => 'اورتا',
+	'wm-license-artwork-dimensions' => 'اؤلچولر',
+	'wm-license-artwork-current-location' => 'مکان',
+	'wm-license-artwork-object-history' => 'اوبیئکت تاریخی',
+	'wm-license-artwork-credit-line' => 'اعتبار خطی',
+	'wm-license-artwork-references' => 'قایناق',
+	'wm-license-artwork-inscriptions' => 'شرح',
+	'wm-license-artwork-notes' => 'قئیدلر',
+	'wm-license-artwork-id' => 'آی‌دی',
+	'wm-license-artwork-source' => 'منبع/عکاس',
+	'wm-license-book-edition' => 'نوسخه',
+	'wm-license-book-editor' => 'دَییشدیرن:',
+	'wm-license-book-illustrator' => 'تصویر ائدن',
+	'wm-license-book-language' => 'دیل',
+	'wm-license-book-page-overview' => 'صحیفه‌یه یئنی دن باخیش',
+	'wm-license-book-place-of-publication' => 'نشر (یایلما)یئری',
+	'wm-license-book-printer' => 'پیرینتر',
+	'wm-license-book-publisher' => 'یایمچی',
+	'wm-license-book-series-title' => 'مجموعه آدی',
+	'wm-license-book-start-this-book' => 'بو کیتابا باشلا',
+	'wm-license-book-subtitle' => 'آلت باشلیق',
+	'wm-license-book-title' => 'باشلیق',
+	'wm-license-book-translator' => 'ترجومه‌چی',
+	'wm-license-book-volume' => 'جیلد',
+	'wm-license-book-year-of-publication' => 'نشر (یایلما) ایلی',
+);
+
 /** Bashkir (башҡортса)
  * @author Assele
  * @author Comp1089
