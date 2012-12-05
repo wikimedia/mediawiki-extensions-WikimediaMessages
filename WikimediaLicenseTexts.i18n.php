@@ -885,6 +885,12 @@ $messages['azb'] = array(
 	'wm-license-book-translator' => 'ترجومه‌چی',
 	'wm-license-book-volume' => 'جیلد',
 	'wm-license-book-year-of-publication' => 'نشر (یایلما) ایلی',
+	'wm-license-gfdl-1.2-and-later' => "بو فایلین،
+: * '[[{{int:wm-license-gfdl-wiki-link}} | GNU Özgür Belgeleme Lisansı]]' نین 1.2 نوسخه سی و یا [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]]' 'ترفین‌دن درج داها یئنی سوروملئریندئکی شرط‌لره اویغون شکیلده و
+: * دییشمه‌ین حیسه‌لر، اؤن قاپاق متنی و آرخا قاپاق متنی اولما‌دان،
+کوپیالانماسی، پایلانماسی و / و یا دییشدیریلمه‌سینه ایجازه وئریلمیش‌دیر.
+لیسئنزیانین بیر کوپیاسی،' [[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]' باش‌لیق‌لی حیسه‌ده ایشتیراک ائتمکده‌دیر.", # Fuzzy
+	'wm-license-information-other-versions' => 'آیری نوسخه‌لر',
 );
 
 /** Bashkir (башҡортса)
@@ -3833,7 +3839,7 @@ $messages['hr'] = array(
 	'wm-license-original-upload-log' => 'Izvorna evidencija postavljanja',
 	'wm-license-own-work' => 'Vlastito djelo postavljača',
 	'wm-license-pd-author-self-text' => "Ja, nositelj autorskog prava za ovo djelo, prepuštam ovo djelo u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]'''. Ovo prepuštanje vrijedi za cijeli svijet.",
-	'wm-license-pd-author-with-author-text' => "Ovo djelo je izdano u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]''' od strane autora, '''$1'''. To vrijedi za cijeli svijet.",
+	'wm-license-pd-author-with-author-text' => "Ovo djelo je u '''[[{{int:wm-license-pd-wiki-link}}|javno vlasništvo]]''' izdao autor: '''$1'''. To vrijedi za cijeli svijet.",
 	'wm-license-pd-author-not-legally-possible' => 'U nekim državama to nije pravno moguće; ako je tako:',
 	'wm-license-pd-author-self-any-purpose' => "Dajem svima prava da koriste ovo djelo '''za bilo koju svrhu''', bez ikakvih uvjeta, osim ako takvi uvjeti nisu propisani zakonom.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 daje svima prava da koriste ovo djelo '''za bilo koju svrhu''', bez ikakvih uvjeta, osim ako takvi uvjeti nisu propisani zakonom.",
@@ -4971,6 +4977,7 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author B1mbo
+ * @author ChongDae
  * @author Klutzy
  * @author Kwj2772
  * @author Multichill
@@ -5048,7 +5055,7 @@ CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.in
 	'wm-license-information-other-versions' => '다른 버전',
 	'wm-license-lgpl-text' => "이 라이브러리는 [[{{int:wm-license-free-software-wiki-link}}|자유 소프트웨어]]입니다. 당신은 [[{{int:wm-license-fsf-wiki-link}}|자유 소프트웨어 재단]]이 발표한 '''[[{{int:wm-license-lgpl-wiki-link}}|GNU 약소 일반 공중 사용 허가서]]''' 2.1 버전이나 그 이후 버전에 따라 이 파일을 재배포하거나 수정할 수 있습니다. 이 라이브러리가 유용하게 사용될 수 있기를 바라지만 '''상용'''으로 사용되거나 '''특정 목적에 맞을 것'''이라는 것을 '''보증하지 않습니다'''. 자세한 내용은 GNU 약소 일반 공중 사용 허가서 [{{int:wm-license-lgpl-2.1-full-link}} 버전 2.1 전문]과 [{{int:wm-license-lgpl-3-full-link}} 버전 3 전문]을 참고하십시오.",
 	'wm-license-lgpl-wiki-link' => 'w:ko:GNU 약소 일반 공중 사용 허가서',
-	'wm-license-licensing-update-text' => '이 라이선스 틀은 GFDL [[{{int:wm-license-licensing-update-wiki-link}}|라이선스 변경]] 차원에서 이 파일에 추가되었습니다.',
+	'wm-license-licensing-update-text' => '이 라이선스 틀은 GFDL [[{{int:wm-license-licensing-update-wiki-link}}|라이선스 변경]]의 일부로 이 파일에 추가되었습니다.',
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/ko',
 	'wm-license-original-upload-log' => '기존 올리기 기록',
 	'wm-license-own-work' => '자작',
