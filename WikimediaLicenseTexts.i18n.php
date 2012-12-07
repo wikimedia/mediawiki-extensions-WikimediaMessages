@@ -862,7 +862,7 @@ $messages['azb'] = array(
 	'wm-license-artwork-title' => 'باشلیق',
 	'wm-license-artwork-medium' => 'اورتا',
 	'wm-license-artwork-dimensions' => 'اؤلچولر',
-	'wm-license-artwork-current-location' => 'مکان',
+	'wm-license-artwork-current-location' => 'ایندیکی یئری',
 	'wm-license-artwork-object-history' => 'اوبیئکت تاریخی',
 	'wm-license-artwork-credit-line' => 'اعتبار خطی',
 	'wm-license-artwork-references' => 'قایناق',
@@ -891,6 +891,7 @@ $messages['azb'] = array(
 کوپیالانماسی، پایلانماسی و / و یا دییشدیریلمه‌سینه ایجازه وئریلمیش‌دیر.
 لیسئنزیانین بیر کوپیاسی،' [[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]' باش‌لیق‌لی حیسه‌ده ایشتیراک ائتمکده‌دیر.", # Fuzzy
 	'wm-license-information-other-versions' => 'آیری نوسخه‌لر',
+	'wm-license-self-multiple-licenses-select' => 'ایستدیگینیز لیسئنزیانی سئچه بیلرسینیز.',
 );
 
 /** Bashkir (башҡортса)
