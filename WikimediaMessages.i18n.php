@@ -9446,8 +9446,8 @@ $messages['nb'] = array(
 	'group-filemover' => 'Filflyttere',
 	'group-filemover-member' => '{{GENDER:$1|filflytter}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
-	'group-flood' => 'bot-brukere',
-	'group-flood-member' => '{{GENDER:$1|robotbruker}}',
+	'group-flood' => 'Bot-brukere',
+	'group-flood-member' => '{{GENDER:$1|botbruker}}',
 	'grouppage-flood' => '{{ns:project}}:Bot-brukere',
 	'group-founder' => 'Grunnleggere',
 	'group-founder-member' => '{{GENDER:$1|grunnlegger}}',
@@ -9504,7 +9504,6 @@ $messages['nb'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
 	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
 	'wikimedia-copyrightwarning' => 'Ved å trykke på "{{int:savearticle}}"-knappen, aksepterer du [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
-	'wikimedia-editpage-tos-summary' => 'Ønsker du ikke at verket ditt blir redigert og redistribuert, skal du ikke lagre det her. Har du ikke selv skrevet det, skal det være tilgjengelig under betingelsene i overensstemmelse med [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og du bekrefter å følge alle relevante lisenskrav.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte hovedsiden.',
 );
 
