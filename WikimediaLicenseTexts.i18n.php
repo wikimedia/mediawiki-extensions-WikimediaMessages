@@ -5262,13 +5262,17 @@ Kopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, ver
 );
 
 /** Cornish (kernowek)
+ * @author Kernoweger
  * @author Kw-Moon
  * @author Nrowe
  */
 $messages['kw'] = array(
-	'wm-license-information-source' => 'Pednfenten',
+	'wm-license-information-description' => 'Descrifans',
+	'wm-license-information-source' => 'Pennfenten',
+	'wm-license-information-date' => 'Dedhyans',
 	'wm-license-information-author' => 'Awtour',
-	'wm-license-information-permission' => 'Kubmyas',
+	'wm-license-information-author-missing' => "Nyns eus dhe'n restren-ma kedhlow a-dro dhe'n '''awtour'''.",
+	'wm-license-information-permission' => 'Cummyas',
 	'wm-license-information-permission-reusing-text' => 'Dasusya an restren-ma',
 );
 
