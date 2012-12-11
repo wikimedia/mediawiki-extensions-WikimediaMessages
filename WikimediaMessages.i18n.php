@@ -7585,6 +7585,7 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Albamhandae
+ * @author ChongDae
  * @author Devunt
  * @author Ficell
  * @author FriedC
@@ -7628,9 +7629,9 @@ $messages['ko'] = array(
 	'group-arbcom' => '중재위원',
 	'group-arbcom-member' => '{{GENDER:$1|중재위원}}',
 	'grouppage-arbcom' => '{{ns:project}}:중재위원',
-	'group-autopatrolled' => '자동 검토자',
-	'group-autopatrolled-member' => '{{GENDER:$1|자동 검토자}}',
-	'grouppage-autopatrolled' => '{{ns:project}}:자동 검토자',
+	'group-autopatrolled' => '검토 면제자',
+	'group-autopatrolled-member' => '{{GENDER:$1|검토 면제자}}',
+	'grouppage-autopatrolled' => '{{ns:project}}:검토 면제자',
 	'group-autoreviewer' => '자동 검토원',
 	'group-autoreviewer-member' => '{{GENDER:$1|자동 검토원}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:자동 검토원',
@@ -7724,7 +7725,6 @@ $messages['ko'] = array(
 	'wikimedia-copyright' => '모든 문서는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="//wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD">이용 규약</a>을 참고하십시오.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
-	'wikimedia-editpage-tos-summary' => '만약, 현재 작성하고 있는 문서가 다른 사람에 의해 자유롭게 편집/배포되길 원하지 않는다면 저장 버튼을 누르지 말아 주세요. 이 문서를 자신이 직접 작성한 것이 아니라면 [//wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 따라 사용 가능해야 하며, 관련된 라이선스 조건에 따르는 것에 동의해야 합니다.',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
 	'wikimedia-translationnotifications-signup-legal' => '당신은 이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 당신의 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
