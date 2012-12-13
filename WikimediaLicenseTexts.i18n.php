@@ -858,6 +858,7 @@ $messages['az'] = array(
  * @author Amir a57
  */
 $messages['azb'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia لیسئنزیا ایسماریج‌لاری',
 	'wm-license-artwork-artist' => 'آرتیست',
 	'wm-license-artwork-title' => 'باشلیق',
 	'wm-license-artwork-medium' => 'اورتا',
@@ -885,12 +886,30 @@ $messages['azb'] = array(
 	'wm-license-book-translator' => 'ترجومه‌چی',
 	'wm-license-book-volume' => 'جیلد',
 	'wm-license-book-year-of-publication' => 'نشر (یایلما) ایلی',
+	'wm-license-creator-alternative-names' => 'آیری آدلار',
+	'wm-license-creator-description' => 'شرح',
+	'wm-license-creator-date-of-birth' => 'توللودو',
+	'wm-license-creator-date-of-birth-and-death' => 'دوغوم/اؤلوم تاریخی',
+	'wm-license-creator-location-of-birth' => 'دوغوم یئری',
+	'wm-license-creator-location-of-birth-and-death' => 'دوغوم/اؤلوم یئری',
+	'wm-license-creator-work-period' => 'یارادیجی‌لیق ایللری',
+	'wm-license-creator-work-location' => 'یارادیجی‌لیق مکانی',
 	'wm-license-gfdl-1.2-and-later' => "بو فایلین،
 : * '[[{{int:wm-license-gfdl-wiki-link}} | GNU Özgür Belgeleme Lisansı]]' نین 1.2 نوسخه سی و یا [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]]' 'ترفین‌دن درج داها یئنی سوروملئریندئکی شرط‌لره اویغون شکیلده و
 : * دییشمه‌ین حیسه‌لر، اؤن قاپاق متنی و آرخا قاپاق متنی اولما‌دان،
 کوپیالانماسی، پایلانماسی و / و یا دییشدیریلمه‌سینه ایجازه وئریلمیش‌دیر.
 لیسئنزیانین بیر کوپیاسی،' [[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]' باش‌لیق‌لی حیسه‌ده ایشتیراک ائتمکده‌دیر.", # Fuzzy
+	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;یالنیز',
+	'wm-license-information-description' => 'شرح',
+	'wm-license-information-source' => 'قایناق',
+	'wm-license-information-date' => 'تاریخ',
+	'wm-license-information-author' => 'یازار',
+	'wm-license-information-permission' => 'ایجازه',
+	'wm-license-information-permission-reusing-text' => 'فایلین تکرار ایستیفاده‌سی',
+	'wm-license-information-permission-see-below' => 'آشاغییا باخین.',
 	'wm-license-information-other-versions' => 'آیری نوسخه‌لر',
+	'wm-license-original-upload-log' => 'اورجینال یوکلمه گونده‌لیگی',
+	'wm-license-own-work' => 'یوکله‌یه‌نین اؤز ایشی',
 	'wm-license-self-multiple-licenses-select' => 'ایستدیگینیز لیسئنزیانی سئچه بیلرسینیز.',
 );
 

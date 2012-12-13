@@ -1486,6 +1486,78 @@ $messages['azb'] = array(
 	'nstab-sequence' => 'دالیسی',
 	'nstab-timedtext' => 'زمانلی متن',
 	'group-Ex_Administrator' => 'قاباق کی ایداره چیلر',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|گئچمیش ایداره چی}}',
+	'grouppage-Ex_Administrator' => '{{ns:layihə}}: گئچمیش ایداره چیلر', # Fuzzy
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|گئچمیش بوروکرات}}',
+	'grouppage-Ex_Bureaucrat' => '{{ns:layihə}}:گئچمیش بوروکرات', # Fuzzy
+	'group-OTRS-member' => 'OTRS اعضاسی',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS عضوو}}',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS عضولری',
+	'group-accountcreator-member' => '{{GENDER:$1|حساب یاردان}}',
+	'grouppage-accountcreator' => '{{ns:project}}:حساب یارادانلار',
+	'group-arbcom' => 'هیأت حکمیت اعضالاری',
+	'group-arbcom-member' => '{{GENDER:$1|هیأت حکمیت اعضالاری}}',
+	'grouppage-arbcom' => '{{ns:project}}:کمیتهٔ داوری عضولاری',
+	'group-autopatrolled' => 'اوتماتیک آختاران',
+	'group-autopatrolled-member' => '{{GENDER:$1|اوتماتیک آختاران}}',
+	'grouppage-autopatrolled' => '{{ns:project}}:اوتماتیک آختاران',
+	'group-autoreviewer-member' => '{{GENDER:$1|اوتماتیک یئنی دن باخان}}',
+	'group-botadmin-member' => '{{GENDER:$1|ایداره‌چی حقوقونا مالیک بوت}}',
+	'grouppage-botadmin' => '{{ns:projec}}:ایداره‌چی حقوقو اولان بوت', # Fuzzy
+	'group-confirmed' => 'تصدیقلنمیش ایستیفاده‌چی‌لر',
+	'group-confirmed-member' => '{{GENDER:$1|تصدیقلنمیش ایستیفاده‌چی‌لر}}',
+	'grouppage-confirmed' => '{{nslayihə}}:تصدیقلنمیش ایستیفاده‌چی‌لر', # Fuzzy
+	'group-editprotected' => 'محافظه اولونموش صحیفه دییشدیرچی لر',
+	'group-eliminator-member' => '{{GENDER:$1|ائلیمیناتور}}',
+	'grouppage-eliminator' => '{{ns:layihə}}:ائلیمیناتور', # Fuzzy
+	'group-filemover-member' => '{{GENDER:$1|فایل کوچوردن}}',
+	'group-flood-member' => '{{GENDER:$1|بوت}}',
+	'grouppage-flood' => '{{ns:project}}:بوت لار',
+	'group-founder' => 'بونیانین قویان لار',
+	'group-founder-member' => '{{GENDER:$1|بانی}}',
+	'grouppage-founder' => '{{ns:project}}:بانی لر',
+	'group-import' => 'ایچری گتیرنلر',
+	'grouppage-import' => '{{ns:project}}:ایچری گتیرنلر',
+	'group-interface_editor' => 'رابط دییشدیرچی لر',
+	'group-interface_editor-member' => '{{GENDER:$1|رابط دییشدیرچی لر}}',
+	'grouppage-interface_editor' => '{{ns:project}}: رابط دییشدیرچی لر',
+	'group-ipblock-exempt' => 'ای پی باغلانما‌دان آزاد اولما',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|ای پی باغلانما‌دان آزاد اولما}}',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:ای پی بلوکون‌دان آزاد اولما',
+	'group-patroller' => 'دولانان',
+	'group-patroller-member' => '{{GENDER:$1|دولان}}',
+	'grouppage-patroller' => '{{ns:project}}:دولانانلار',
+	'group-researcher' => 'آراشدیرچیلار',
+	'group-researcher-member' => '{{GENDER:$1|تدقیقاچیلار}}',
+	'grouppage-researcher' => '{{ns:project}}:آراشدیرماچیلار',
+	'group-rollbacker' => 'گئیترنلر',
+	'group-rollbacker-member' => '{{GENDER:$1|گئیترچی}}',
+	'grouppage-rollbacker' => '{{ns:project}}:گئیترچیلر',
+	'group-trusted-member' => '{{GENDER:$1|اینانلانمیش ایستفاده چی}}',
+	'grouppage-trusted' => '{{ns:project}}:اینانلانمیش ایستفاده چیلر',
+	'group-Global_bot' => 'سراسری بوت',
+	'group-Global_bot-member' => '{{GENDER:$1|سراسری بوت}}',
+	'group-Global_rollback' => 'سراسری دییشدیرچی لر',
+	'group-Global_rollback-member' => '{{GENDER:$1|سراسری گئیترچی}}',
+	'group-Global_sysops' => 'سراسری ایداره چی',
+	'group-Global_sysops-member' => '{{GENDER:$1|سراسرس ایداره چی}}',
+	'group-Ombudsmen' => 'اومبودسمان',
+	'group-Staff' => 'ایشچیلر',
+	'group-Staff-member' => '{{GENDER:$1|ایشچیلر عضوی}}',
+	'group-editinterface' => 'رابط دییشدیرچی لر',
+	'group-editinterface-member' => '{{GENDER:$1|رابط دییشدیرچی لر}}',
+	'group-steward' => 'ایستواردلار',
+	'group-steward-member' => '{{GENDER:$1|استورد}}',
+	'group-sysadmin' => 'سیستم ایداره چی لر',
+	'group-sysadmin-member' => '{{GENDER:$1|سیستم ایدارچی سی}}',
+	'group-coder' => 'کود یازانلار',
+	'group-coder-member' => '{{GENDER:$1|برنامه یازان}}',
+	'group-inactive' => 'غیر فعال ایستیفاده‌چی لر',
+	'group-inactive-member' => '{{GENDER:$1|غیر فعال ایستفاده چی لر}}',
+	'grouppage-inactive' => '{{ns:project}}:غیر فعال ایستفاده چی لر',
+	'wikimedia-copyright' => 'متن <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisenziyası</a>آلتیندا‌دیر؛
+علاوه شرط‌لر تطبیق اولونا بیلر.
+اطراف‌لی معلومات اوچون <a href="//wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> باخین.',
 );
 
 /** Bashkir (башҡортса)
@@ -1605,9 +1677,7 @@ $messages['ba'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Әүҙем булмаған ҡатнашыусылар',
 	'wikimedia-copyright' => 'Текст <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> рөхсәтнамәһе буйынса рөхсәт ителгән; өҫтәмә шарттар ҡулланыла ала.
 Тулыраҡ мәғлүмәт алыр өсөн, <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ҡулланыу шарттарын</a> ҡарағыҙ.',
-	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' төймәһенә баҫыу менән һеҙ [//wikimediafoundation.org/wiki/Terms_of_use ҡулланыу шарттарын] ҡабул итәһегеҙ. Шулай уҡ, был мәғлүмәттең [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларына ярашлы ирекле таратылыуына кире алып булмаған ризалыҡ бирәһәгеҙ.  Creative Commons лицензияһының үтәлеү шарты итеп, был мәғлүмәткә гиперһылтанма йәки URL адрес аша һылтанма ҡуйыуҙы таныйһығыҙ.",
-	'wikimedia-editpage-tos-summary' => 'Әгәр һеҙ, текстарығыҙҙың ирекле рәүештә мөхәррирләнеүен һәм таратылыуын теләмәһәгеҙ, бында ҡуймағыҙ.
-Ҡуйылған текстын авторы һеҙ булмаған ваҡытта, улар [//wikimediafoundation.org/wiki/Terms_of_Use Ҡулланыу шарттарына] ярашлы ирекле ҡулланыуҙа булырға тейеш һәм һеҙ рөхсәтнамәнең бөтә талаптарын ҡабул итәһегеҙ.',
+	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' төймәһенә баҫыу менән һеҙ [//wikimediafoundation.org/wiki/Terms_of_use ҡулланыу шарттарын] ҡабул итәһегеҙ. Шулай уҡ, был мәғлүмәттең [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [//www.gnu.org/copyleft/fdl.html GFDL] рөхсәтнамәләренә ярашлы ирекле таратылыуына кире алып булмаған ризалыҡ бирәһегеҙ.  Creative Commons рөхсәтнамәһенең үтәлеү шарты итеп, был мәғлүмәткә гиперһылтанма йәки URL адрес аша һылтанма ҡуйыуҙы таныйһығыҙ.",
 	'cant-delete-main-page' => 'Төп битте юя йәки күсерә алмайһығыҙ.',
 );
 
@@ -3527,7 +3597,7 @@ $messages['el'] = array(
 	'group-autoreviewer-member' => 'αυτοελεγκτής', # Fuzzy
 	'grouppage-autoreviewer' => '{{ns:project}}:Αυτοελεγκτές',
 	'group-bigexport' => 'Μεγάλοι εξαγωγείς',
-	'group-bigexport-member' => 'Μεγάλος εξαγωγέας', # Fuzzy
+	'group-bigexport-member' => '{{GENDER:$1|Μεγάλος|Μεγάλη}} εξαγωγέας',
 	'grouppage-bigexport' => '{{ns:project}}:Μεγάλοι εξαγωγείς',
 	'group-botadmin' => 'Ρομπότ με δικαιώματα διαχειριστή',
 	'group-botadmin-member' => '{{GENDER:$1|bot με δικαιώματα διαχειριστή}}',
@@ -3538,9 +3608,9 @@ $messages['el'] = array(
 	'group-editprotected' => 'Σελίδα που προστατεύεται από συντάκτες',
 	'group-editprotected-member' => 'προστατευμένος επεξεργαστής σελίδας', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}: Προστατευμένη σελίδα από συντάκτες',
-	'group-eliminator' => 'Εξολοθρευτές',
-	'group-eliminator-member' => 'Εξολοθρευτής', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Εξολοθρευτής',
+	'group-eliminator' => 'Εξαλείφοντες',
+	'group-eliminator-member' => 'Εξαλείφοντες',
+	'grouppage-eliminator' => '{{ns:project}}:Εξαλείφων',
 	'group-filemover' => 'Μετακινητές αρχείου',
 	'group-filemover-member' => 'μετακινητής αρχείου', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Μεταφορείς αρχείων',
@@ -3599,8 +3669,9 @@ $messages['el'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="//creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
-	'wikimedia-editpage-tos-summary' => 'Αν δεν θέλετε το κείμενό σας να υποστεί επεξεργασία και να αναδιανεμηθεί κατά βούληση, τότε μην το καταχωρείτε εδώ. Αν δεν το γράψατε ο ίδιος, τότε πρέπει να είναι διαθέσιμο υπό όρους σύμφωνους με τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε να ακολουθήσετε οποιεσδήποτε απαιτήσεις αδειοδότησης.',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
+	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
+	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
 );
 
 /** Emiliano-Romagnolo (emiliàn e rumagnòl)
@@ -6963,8 +7034,7 @@ $messages['it'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utente inattivo|utente inattiva|utente inattivo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
-	'wikimedia-copyrightwarning' => "Facendo click sul bottone \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], ed accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o un URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
-	'wikimedia-editpage-tos-summary' => "Se non desideri che il tuo testo possa essere modificato e ridistribuito a volontà, allora non inserirlo qui. Se non l'hai scritto tu, deve essere disponibile a condizioni compatibili con le [//wikimediafoundation.org/wiki/Terms_of_Use condizioni d'uso], e accetti di seguire tutti i requisiti di licenza.",
+	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
@@ -10191,6 +10261,15 @@ $messages['pam'] = array(
 	'wikimedia-copyrightwarning' => "Nung mag-save ka, mamayun kang itabili me at e mu ne bawian ing kekang ambag king lalam ning [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ampo ning [//www.gnu.org/copyleft/fdl.html GFDL].
 Mamayun kang kilalanan da ka deng talagamit a gagamit pasibayu kaniti (''re-users''), king paralan a e kulang king pamangabit hyperlink o URL king bulung nung nu ka manambag.
 Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.", # Fuzzy
+);
+
+/** Picard (Picard)
+ * @author Geoleplubo
+ */
+$messages['pcd'] = array(
+	'sitesupport' => 'Fouaire un présint',
+	'wikimedia-copyright' => 'Chés teskes sont disponibes dsous <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">licince Creative Commons patérnité – partage à l’idintique des condicions iniciales</a> ; d’eutes condicions peu\'te s’applitcher.
+Vir chés <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">condicions d’utilisacion</a> pour avoèr pus éd détails.',
 );
 
 /** Deitsch (Deitsch)
