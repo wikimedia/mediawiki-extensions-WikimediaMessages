@@ -230,6 +230,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 );
 
 /** Message documentation (Message documentation)
+ * @author Amire80
  * @author Aotake
  * @author Crt
  * @author EugeneZelenko
@@ -438,11 +439,10 @@ Please leave <code>Foundation:</code> untranslated.
 {{Identical|Inactive user}}',
 	'shared-repo-name-shared' => '{{optional}}',
 	'wikimedia-copyright' => '{{Identical/Wikimedia-licensing}}
-This message is displayed on the site footer and is for the new licensing policy.',
+This message is displayed in the site footer. It is the default licensing policy for most Wikimedia sites.',
 	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([http://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([http://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
 {{Identical/Wikimedia-licensing}}',
-	'wikimedia-editpage-tos-summary' => '{{Identical/Wikimedia-licensing}}',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 );
