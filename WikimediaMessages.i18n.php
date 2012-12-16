@@ -216,7 +216,11 @@ $messages['en'] = array(
 	# Copyright fun!
 	'wikimedia-copyright' => 'Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.',
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
+	'wikidata-copyright' => 'All structured data from the main and property namespace is available under the <a href="http://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
+text in the other namespaces is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> for details.',
 	'wikimedia-copyrightwarning' => 'By clicking the "{{int:savearticle}}" button, you agree to the [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], and you irrevocably agree to release your contribution under the [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] and the [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
 
@@ -442,6 +446,7 @@ Please leave <code>Foundation:</code> untranslated.
 	'shared-repo-name-shared' => '{{optional}}',
 	'wikimedia-copyright' => '{{Identical/Wikimedia-licensing}}
 This message is displayed in the site footer. It is the default licensing policy for most Wikimedia sites.',
+	'wikidata-copyright' => 'This message is displayed in the site footer. It is the special licensing policy for the Wikidata project.',
 	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([http://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([http://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
 {{Identical/Wikimedia-licensing}}',

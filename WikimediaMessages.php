@@ -21,7 +21,7 @@ $wgExtensionCredits['other'][] = array(
 
 $dir = dirname(__FILE__) . '/';
 $wgExtensionMessagesFiles['WikimediaMessages'] = $dir .'WikimediaMessages.i18n.php';
-$wgExtensionMessagesFiles['WikimediaTemporaryMessages'] = $dir .'WikimediaTemporaryMessages.i18n.php';
+$wgExtensionMessagesFiles['WikimediaTemporaryMessages'] = $dir . 'WikimediaTemporaryMessages.i18n.php';
 $wgExtensionFunctions[] = 'wfSetupWikimediaMessages';
 
 include_once ( $dir .'WikimediaGrammarForms.php' );
@@ -42,9 +42,17 @@ function efWikimediaEditPageCopyrightWarning( $title, &$msg ) {
 }
 
 function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link, &$forContent ) {
+	$siteMessageKey = 'wikimedia-copyright'; // the default
+
+	global $wgDBname;
+	if ( $wgDBname === 'wikidatawiki' ) {
+		$siteMessageKey = 'wikidata-copyright';
+	}
+
 	if( $type != 'history' ) {
-		$msg = 'wikimedia-copyright';
+		$msg = $siteMessageKey;
 		$forContent = false;
 	}
+
 	return true;
 }
