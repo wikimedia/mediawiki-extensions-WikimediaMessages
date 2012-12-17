@@ -131,6 +131,13 @@ $messages['mk'] = array(
 	'wikimediamessages-desc' => 'Привремени пораки што се однесуваат на Викимедија',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'wikimediamessages-desc' => 'Mesej sementara khusus Wikimedia',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */

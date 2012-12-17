@@ -1476,6 +1476,7 @@ $messages['az'] = array(
 
 /** South Azerbaijani (تورکجه)
  * @author Amir a57
+ * @author E THP
  * @author Mousa
  */
 $messages['azb'] = array(
@@ -1493,9 +1494,16 @@ $messages['azb'] = array(
 	'group-Ex_Bureaucrat' => 'قاباق بوروکراتلار',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|قاباق بوروکرات}}',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:قاباق بوروکراتلار',
+	'group-Image-reviewer' => 'عکس گؤزدن گئچیردنلر',
+	'group-Image-reviewer-member' => '{{GENDER:$1|عکس گؤزدن گئچیردن}}',
+	'grouppage-Image-reviewer' => '{{ns:project}}:عکس گؤزدن گئچیردنلر',
 	'group-OTRS-member' => 'OTRS عوضولری',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS عضوو}}',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS عضولری',
+	'group-abusefilter' => 'خارابکارلیق سۆزگَجی دَییشدیرنلر',
+	'group-abusefilter-member' => '{{GENDER:$1|خارابکارلیق سۆزگَجی دَییشدیرن}}',
+	'grouppage-abusefilter' => '{{ns:project}}:خارابکارلیق سۆزگَجی دَییشدیرنلر',
+	'group-accountcreator' => 'حساب یارادانلار',
 	'group-accountcreator-member' => '{{GENDER:$1|حساب یاردان}}',
 	'grouppage-accountcreator' => '{{ns:project}}:حساب یارادانلار',
 	'group-arbcom' => 'هیأت حکمیت عوضولری',
@@ -1504,7 +1512,11 @@ $messages['azb'] = array(
 	'group-autopatrolled' => 'اوتماتیک آختارانلار',
 	'group-autopatrolled-member' => '{{GENDER:$1|اوتوماتیک آختاران}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:اوتوماتیک آختارانلار',
+	'group-autoreviewer' => 'اوتوماتیک گؤزدن گئچیردنلر',
 	'group-autoreviewer-member' => '{{GENDER:$1|اوتوماتیک یئنی‌دن باخان}}',
+	'grouppage-autoreviewer' => '{{ns:project}}:اوتوماتیک گؤزدن گئچیردنلر',
+	'group-bigexport' => 'یئکه ائشیگه چیخاردانلار',
+	'group-bigexport-member' => '{{GENDER:$1|یئکه ائشیگه چیخاردان}}',
 	'group-botadmin-member' => '{{GENDER:$1|ایداره‌چی حقوقونا مالیک بوت}}',
 	'grouppage-botadmin' => '{{ns:projec}}:ایداره‌چی حقوقو اولان بوت', # Fuzzy
 	'group-confirmed' => 'دوغرولانمیش ایستیفاده‌چی‌لر',
@@ -1540,9 +1552,9 @@ $messages['azb'] = array(
 	'grouppage-trusted' => '{{ns:project}}:اینانلانمیش ایستفاده چیلر',
 	'group-Global_bot' => 'سراسری بوت',
 	'group-Global_bot-member' => '{{GENDER:$1|سراسری بوت}}',
-	'group-Global_rollback' => 'سراسری دییشدیرچی لر',
+	'group-Global_rollback' => 'سراسری دییشدیرچیلر',
 	'group-Global_rollback-member' => '{{GENDER:$1|سراسری گئیترچی}}',
-	'group-Global_sysops' => 'سراسری ایداره چی',
+	'group-Global_sysops' => 'سراسری ایداره‌چی',
 	'group-Global_sysops-member' => '{{GENDER:$1|سراسرس ایداره چی}}',
 	'group-Ombudsmen' => 'اومبودسمان',
 	'group-Staff' => 'ایشچیلر',
@@ -1555,9 +1567,9 @@ $messages['azb'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|سیستم ایداره‌چی‌سی}}',
 	'group-coder' => 'کود یازانلار',
 	'group-coder-member' => '{{GENDER:$1|برنامه یازان}}',
-	'group-inactive' => 'غیر فعال ایستیفاده‌چی لر',
-	'group-inactive-member' => '{{GENDER:$1|غیر فعال ایستفاده چی لر}}',
-	'grouppage-inactive' => '{{ns:project}}:غیر فعال ایستفاده چی لر',
+	'group-inactive' => 'غیر فعال ایستیفاده‌چی‌لر',
+	'group-inactive-member' => '{{GENDER:$1|غیر فعال ایستفاده‌چی‌لر}}',
+	'grouppage-inactive' => '{{ns:project}}:غیر فعال ایستفاده‌چی‌لر',
 	'wikimedia-copyright' => 'یازی <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike لیسانسی</a>آلتیندا‌دیر؛
 آرتیق شرط‌لر یاپیشدیریلا بیلر.
 داها مفصل بیلگیلر اوچون <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ایستیفاده شرطلرینه</a> باخین.',
@@ -5269,9 +5281,8 @@ $messages['gl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'wikimedia-copyright' => 'Todo o texto está dispoñible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pódense aplicar termos adicionais. Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl">termos de uso</a> para obter máis información.',
-	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
-Acepta que unha hiperligazón ou URL é recoñecemento abondo baixo a licenza Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Se non quere que o seu texto sexa editado e redistribuído, non o envíe. Se non escribiu isto, este texto debería estar dispoñible baixo termos compatibles cos [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e vostede debe estar de acordo en seguir todas as esixencias das licenzas.',
+	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
+Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
 	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
@@ -10238,6 +10249,11 @@ $messages['os'] = array(
 	'group-founder-member' => 'бындурæвæрæг', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Бындурæвæрджытæ',
 	'shared-repo-name-shared' => 'Викикъæбиц',
+	'wikimedia-copyright' => 'Текстæй ис гæнæн спайда кæнын <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензимæ</a> гæсгæ;
+гæнæн ис, æндæр домæнтæ дæр æм ис.
+Кæс <a href="//wikimediafoundation.org/wiki/Terms_of_use">пайда кæныны домæнтæ</a> фылдæр базонынæн.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" равзаргæйæ ды разы кæныс [//wikimediafoundation.org/wiki/Terms_of_use пайда кæныны домæнтимæ], æмæ ма [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] æмæ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензиты бын æнæраздæхгæ публикацийыл. Ды разы кæныс æрвитæн кæнæ URL æгъгъæд атрибуци кæй сты, ууыл.',
+	'cant-delete-main-page' => 'Дæ бон нæу сæйраг фарс схафын æви ахæссын.',
 );
 
 /** Punjabi (ਪੰਜਾਬੀ)

@@ -856,6 +856,7 @@ $messages['az'] = array(
 
 /** South Azerbaijani (تورکجه)
  * @author Amir a57
+ * @author E THP
  */
 $messages['azb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia لیسئنزیا ایسماریج‌لاری',
@@ -887,7 +888,7 @@ $messages['azb'] = array(
 	'wm-license-book-volume' => 'جیلد',
 	'wm-license-book-year-of-publication' => 'نشر (یایلما) ایلی',
 	'wm-license-creator-alternative-names' => 'آیری آدلار',
-	'wm-license-creator-description' => 'شرح',
+	'wm-license-creator-description' => 'آچیخلاما',
 	'wm-license-creator-date-of-birth' => 'توللودو',
 	'wm-license-creator-date-of-birth-and-death' => 'دوغوم/اؤلوم تاریخی',
 	'wm-license-creator-location-of-birth' => 'دوغوم یئری',
@@ -6802,8 +6803,24 @@ $messages['or'] = array(
  * @author Bouron
  */
 $messages['os'] = array(
+	'wm-license-artwork-artist' => 'Артист',
+	'wm-license-artwork-title' => 'Сæр',
+	'wm-license-book-language' => 'Æвзаг',
+	'wm-license-information-description' => 'Æмбарынгæнæн',
+	'wm-license-information-description-missing' => 'Ацы файлæн нæй æмбарынгæнæн, æмæ гæнæн ис æндæр информацийæ дæр цух у.',
+	'wm-license-information-description-missing-request' => 'Дæ хорзæхæй, бацамон рæстмæ æмбарынгæнæн ацы файлæн.',
+	'wm-license-information-source' => 'Равзæрæн',
+	'wm-license-information-source-missing' => "Ацы файл '''равзæрæны''' тыххæй информацийæ цух у.",
+	'wm-license-information-source-missing-request' => 'Дæ хорзæхæй, фæив ацы файлы æмбарынгæнæн æмæ бацамон равзæрæн.',
 	'wm-license-information-date' => 'Датæ',
+	'wm-license-information-author' => 'Сфæлдисæг',
+	'wm-license-information-author-missing' => "Ацы файл '''сфæлдисæгы''' тыххæй информацийæ цух у.",
+	'wm-license-information-permission' => 'Бар',
+	'wm-license-information-permission-reusing-text' => 'Ацы файлæй ног архайд',
+	'wm-license-information-permission-see-below' => 'Кæс дæлдæр.',
+	'wm-license-information-other-versions' => 'Æндæр фæлтæртæ',
 	'wm-license-own-work' => 'Хи куыст',
+	'wm-license-pd-author-self-text' => "Æз, ацы куысты сфæлдисæгы барты хицау, ацы куыст '''[[{{int:wm-license-pd-wiki-link}}|æхсæнадон фæллой]]''' кæнын. Ацы бар кусы æппæт дунейы.",
 );
 
 /** Punjabi (ਪੰਜਾਬੀ)
