@@ -1477,6 +1477,7 @@ $messages['az'] = array(
 /** South Azerbaijani (تورکجه)
  * @author Amir a57
  * @author E THP
+ * @author Ebrahimi-amir
  * @author Mousa
  */
 $messages['azb'] = array(
@@ -1571,8 +1572,8 @@ $messages['azb'] = array(
 	'group-inactive-member' => '{{GENDER:$1|غیر فعال ایستفاده‌چی‌لر}}',
 	'grouppage-inactive' => '{{ns:project}}:غیر فعال ایستفاده‌چی‌لر',
 	'wikimedia-copyright' => 'یازی <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike لیسانسی</a>آلتیندا‌دیر؛
-آرتیق شرط‌لر یاپیشدیریلا بیلر.
-داها مفصل بیلگیلر اوچون <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ایستیفاده شرطلرینه</a> باخین.',
+آرتیق شرط‌لر آرتیریلا بیلر.
+آرتیق بیلگیلر اوچون <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ایستیفاده شرطلرینه</a> باخین.',
 );
 
 /** Bashkir (башҡортса)
@@ -7156,12 +7157,16 @@ $messages['ja'] = array(
 	'grouppage-trusted' => '{{ns:project}}:信頼された利用者',
 	'group-Global_bot' => 'グローバルボット',
 	'group-Global_bot-member' => '{{GENDER:$1|グローバルボット}}',
+	'grouppage-Global_bot' => 'm:Global bot/ja',
 	'group-Global_rollback' => 'グローバル巻き戻し者',
 	'group-Global_rollback-member' => '{{GENDER:$1|グローバル巻き戻し者}}',
+	'grouppage-Global_rollback' => 'm:Global rollback/ja',
 	'group-Global_sysops' => 'グローバル管理者',
 	'group-Global_sysops-member' => '{{GENDER:$1|グローバル管理者}}',
+	'grouppage-Global_sysops' => 'm:Global sysops/ja',
 	'group-Ombudsmen' => 'オンブズマン',
 	'group-Ombudsmen-member' => '{{GENDER:$1|オンブズマン}}',
+	'grouppage-Ombudsmen' => 'm:Ombudsman commission/ja',
 	'group-Staff' => 'スタッフ',
 	'group-Staff-member' => '{{GENDER:$1|スタッフ}}',
 	'group-editinterface' => 'インターフェイス編集者',
@@ -7198,8 +7203,6 @@ $messages['ja'] = array(
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンを押すと、あなたは[//wikimediafoundation.org/wiki/利用規約 利用規約]に同意し、自身の投稿を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分なものであると同意したことになります。',
-	'wikimedia-editpage-tos-summary' => 'あなたが自身の文章を勝手に編集や再配布してほしくない場合は、ここに投稿しないでください。
-あなた自身が書いた文章ではない場合、その文章はこの[//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84 利用規約]と整合する条件のもとで利用できる必要があります。また、その場合、あなたはすべての関係するライセンス要件に従うことに同意しなければなりません。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 );
