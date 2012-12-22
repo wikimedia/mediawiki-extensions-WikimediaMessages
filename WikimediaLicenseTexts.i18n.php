@@ -9045,26 +9045,53 @@ $messages['tg-latn'] = array(
  * @author Harley Hartwell
  * @author Horus
  * @author Multichill
+ * @author Nullzero
  * @author Octahedron80
  * @author Passawuth
+ * @author TMo3289
  */
 $messages['th'] = array(
 	'wikimedialicensetexts-desc' => 'ข้อความสัญญาอนุญาตวิกิมีเดีย',
 	'wm-license-attribution-with-author-text' => "$1 ซึ่งเป็นผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไปใช้'''",
 	'wm-license-attribution-without-author-text' => "ผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไป ใช้'''",
 	'wm-license-artwork-artist' => 'ศิลปิน/ผู้สร้างสรรค์งาน',
+	'wm-license-artwork-title' => 'ชื่อเรื่อง',
+	'wm-license-artwork-medium' => 'สื่อที่เผยแพร่',
 	'wm-license-artwork-dimensions' => 'ขนาด',
 	'wm-license-artwork-current-location' => 'ตำแหน่งที่อยู่',
+	'wm-license-artwork-object-history' => 'ประวัติของวัตถุนี้',
 	'wm-license-artwork-credit-line' => 'การเข้าถือครอง',
 	'wm-license-artwork-references' => 'แหล่งอ้างอิง',
+	'wm-license-artwork-inscriptions' => 'คำจารึก หรือคำที่ปรากฏในเนื้องาน',
+	'wm-license-artwork-notes' => 'หมายเหตุ',
 	'wm-license-artwork-id' => 'รหัสการถึอครอง',
 	'wm-license-artwork-source' => 'ที่มา/ผู้ถ่ายภาพ',
+	'wm-license-book-edition' => 'รุ่น',
+	'wm-license-book-editor' => 'บรรณาธิการ',
+	'wm-license-book-illustrator' => 'ผู้วาดภาพประกอบ',
+	'wm-license-book-language' => 'ภาษา',
+	'wm-license-book-page-overview' => 'คำอธิบายหน้าโดยย่อ',
+	'wm-license-book-place-of-publication' => 'สถานที่จัดพิมพ์',
+	'wm-license-book-printer' => 'โรงพิมพ์',
+	'wm-license-book-publisher' => 'ผู้พิมพ์โฆษณา',
+	'wm-license-book-series-title' => 'ชื่อชุด',
+	'wm-license-book-start-this-book' => 'หน้าเริ่มต้นหนังสือเล่มนี้',
+	'wm-license-book-subtitle' => 'ชื่อเรื่องรอง',
+	'wm-license-book-title' => 'ชื่อเรื่อง',
+	'wm-license-book-translator' => 'ผู้แปล',
+	'wm-license-book-volume' => 'เล่มที่',
+	'wm-license-book-year-of-publication' => 'ปีที่พิมพ์',
+	'wm-license-cecill-text' => 'งานนี้เป็น [[{{int:wm-license-free-software-wiki-link}}|ซอฟต์แวร์เสรี]] ท่านสามารถแจกจ่ายหรือดัดแปลงงานดังกล่าวภายใต้เงื่อนไขของ [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] ซึ่งเงื่อนไขของสัญญาอนุญาต CeCILL สามารถค้นหาได้ที่ [{{int:wm-license-cecill-full-link}} www.cecill.info]',
 	'wm-license-creator-alternative-names' => 'ชื่ออื่น',
 	'wm-license-creator-description' => 'คำอธิบาย',
+	'wm-license-creator-date-of-birth' => 'วันเกิด',
 	'wm-license-creator-date-of-birth-and-death' => 'วันเกิด/วันเสียชีวิต',
+	'wm-license-creator-location-of-birth' => 'สถานที่เกิด',
 	'wm-license-creator-location-of-birth-and-death' => 'สถานที่เกิด/สถานที่เสียชีวิต',
 	'wm-license-creator-work-period' => 'ระยะเวลาสร้างสรรค์งาน',
 	'wm-license-creator-work-location' => 'สถานที่สร้างสรรค์งาน',
+	'wm-license-creator-linkback' => 'เชื่อมโยงกลับไปยังกล่องข้อมูลผู้สร้างสรรค์',
+	'wm-license-fal-text' => "กอปปีเลฟต์ (ลิขสิทธิ์เสรี): งานศิลปะนี้ไม่มีมูลค่า ท่านสามารถแจกจ่ายภายใต้เงื่อนไข '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' รายละเอียดเพิ่มเติมดูที่ [{{int:wm-license-fal-full-link}} Copyleft Attitude site]",
 	'wm-license-fsf-wiki-link' => 'w:th:มูลนิธิซอฟต์แวร์เสรี',
 	'wm-license-free-software-wiki-link' => 'w:th:ซอฟต์แวร์เสรี',
 	'wm-license-gfdl-1.2-and-later' => 'ผลงานชิ้นนี้อยู่ภายใต้การแจกจ่ายของสัญญาอนุญาตเอกสารเสรีของกนู หรือ [[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]] ซึ่งอนุญาตให้ทำการคัดลอก แจกจ่าย และ/หรือ แก้ไขเอกสารนี้ ภายใต้ข้อความของ GFDL รุ่น 1.3 หรือรุ่นใดๆ นับจากนี้  โดยไม่มีการแก้ไขส่วนใดๆ และไม่มีข้อความปกหน้าและปกหลัง ดูรายละเอียดที่ [[:th:วิกิพีเดีย:ข้อความปฏิเสธความรับผิดชอบ|ข้อปฏิเสธความรับผิดชอบ]]', # Fuzzy
@@ -9090,6 +9117,7 @@ $messages['th'] = array(
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/th',
 	'wm-license-original-upload-log' => 'บันทึกการอัพโหลด',
 	'wm-license-own-work' => 'งานของผู้อัปโหลดเอง',
+	'wm-license-pd-author-not-legally-possible' => 'ในบางประเทศ การกระทำดังกล่าวอาจไม่สามารถทำได้ตามกฎหมาย',
 	'wm-license-pd-wiki-link' => 'w:th:สาธารณสมบัติ',
 	'wm-license-self-one-license' => 'ข้าพเจ้า ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้',
 	'wm-license-self-one-license-with-author' => '$1 ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้',

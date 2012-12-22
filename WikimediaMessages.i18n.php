@@ -7202,7 +7202,7 @@ $messages['ja'] = array(
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
-	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンを押すと、あなたは[//wikimediafoundation.org/wiki/利用規約 利用規約]に同意し、自身の投稿を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] の下で公開することに同意したことになります。この公開は取り消せません。あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分なものであると同意したことになります。',
+	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンを押すと、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 );
@@ -14492,6 +14492,8 @@ $messages['uk'] = array(
 	'group-sysadmin' => 'Системні адміністратори',
 	'group-sysadmin-member' => 'системний адміністратор',
 	'grouppage-sysadmin' => 'm:System administrators',
+	'group-New_wikis_importer' => 'Імпортери нових вікі',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|імпортер нових вікі|імпортерка нових вікі}}',
 	'group-translationadmin' => 'Адміністратори перекладу',
 	'group-translationadmin-member' => '{{GENDER:$1|адміністратор перекладу|адміністраторка перекладу}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Адміністратори перекладу',
@@ -14504,8 +14506,6 @@ $messages['uk'] = array(
 	'shared-repo-name-shared' => 'Вікісховища',
 	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [//wikimediafoundation.org/wiki/Terms_of_use умовами використання], а також на невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
-	'wikimedia-editpage-tos-summary' => 'Якщо ви не бажаєте, щоб ваші тексти вільно редагувалися і розповсюджувалися будь-ким, не поміщайте їх сюди.
-Якщо ви не є автором цього тексту, він повинен бути доступний на умовах, сумісних із [//wikimediafoundation.org/wiki/Умови_використання умовами використання], і ви погоджуєтесь дотримуватись усіх відповідних ліцензійних вимог.',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
 );
