@@ -3808,6 +3808,8 @@ $messages['eo'] = array(
 	'group-steward-member' => '{{GENDER:$1|Stevardo|Stevardino}}',
 	'group-sysadmin' => 'Sistemaj administrantoj',
 	'group-sysadmin-member' => '{{GENDER:$1|sistema administranto|sistema administrantino}}',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indic-roboto}}',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|Grupano imuna de ĝenerala IP-forbaro|Grupanino imuna de ĝenerala IP-forbaro}}',
 	'group-translationadmin' => 'Tradukaj administrantoj',
 	'group-translationadmin-member' => '{{GENDER:$1|traduka administranto|traduka administrantino}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Tradukaj administrantoj',
@@ -3820,7 +3822,6 @@ $messages['eo'] = array(
 Vidu la <a href="//wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> por detaloj.',
 	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas al la [//wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [//creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [//www.gnu.org/copyleft/fdl.html GFDL].
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita.',
-	'wikimedia-editpage-tos-summary' => 'Se vi ne volas ke via verko estu redaktata kaj redistribuata laŭvole, tiam ne enigu ĝin ĉi tie. Se vi ne verkis ĝin mem, ĝi devas esti havebla kun rajtoj kiuj ne kontraŭas al la [//wikimediafoundation.org/wiki/Terms_of_Use Kondiĉoj de Uzado], kaj vi konsentas sekvi ĉiujn ĉi-temajn permesilajn devigojn.',
 	'cant-delete-main-page' => 'Vi ne povas forigi aŭ movi la ĉefpaĝo.',
 	'wikimedia-translationnotifications-signup-legal' => 'Donante ĉi tiun informon al la Fonduso Wikimedia, vi konsentas kontakti vin pri tradukoj aŭ aliaj temoj rilataj al la Wikimedia-movado, kiun ni konsideras esti interesa al vi. Vi konsentas ke via datumoj estos konservita en Usono kaj estas sub nia [https://wikimediafoundation.org/wiki/Privacy_policy regularo pri privateco].',
 );
@@ -10343,6 +10344,7 @@ $messages['pih'] = array(
  * @author Derbeth
  * @author Lazowik
  * @author Leinad
+ * @author Matma Rex
  * @author Meno25
  * @author Nux
  * @author Olgak85
@@ -10455,6 +10457,8 @@ $messages['pl'] = array(
 	'grouppage-steward' => 'm:Stewards/pl',
 	'group-sysadmin' => 'Administratorzy systemu',
 	'group-sysadmin-member' => '{{GENDER:$1|administrator|administratorka}} systemu',
+	'group-API_High_Limit_Requestor' => 'Użytkownicy z wysokimi limitami na żądania API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Użytkownik|Użytkowniczka}} z wysokimi limitami na żądania API',
 	'group-translationadmin' => 'Administratorzy tłumaczeń',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator|administratorka}} tłumaczeń',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratorzy tłumaczeń',
@@ -10468,6 +10472,7 @@ Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunk
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [//wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
+	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
 );
 
 /** Piedmontese (Piemontèis)
