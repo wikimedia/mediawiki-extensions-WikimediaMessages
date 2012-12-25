@@ -145,6 +145,13 @@ $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'wikimediamessages-desc' => 'Mëssagi temporani specìfich ëd Wikimedia',
+);
+
 /** Ukrainian (українська)
  * @author Base
  */

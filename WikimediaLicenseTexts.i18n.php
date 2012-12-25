@@ -857,6 +857,7 @@ $messages['az'] = array(
 /** South Azerbaijani (تورکجه)
  * @author Amir a57
  * @author E THP
+ * @author Mousa
  */
 $messages['azb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia لیسئنزیا ایسماریج‌لاری',
@@ -888,7 +889,7 @@ $messages['azb'] = array(
 	'wm-license-book-volume' => 'جیلد',
 	'wm-license-book-year-of-publication' => 'نشر (یایلما) ایلی',
 	'wm-license-creator-alternative-names' => 'آیری آدلار',
-	'wm-license-creator-description' => 'آچیخلاما',
+	'wm-license-creator-description' => 'آچیقلاما',
 	'wm-license-creator-date-of-birth' => 'توللودو',
 	'wm-license-creator-date-of-birth-and-death' => 'دوغوم/اؤلوم تاریخی',
 	'wm-license-creator-location-of-birth' => 'دوغوم یئری',
@@ -3157,11 +3158,11 @@ $messages['frp'] = array(
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal',
 	'wm-license-fsf-wiki-link' => 'w:fr:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:fr:Logiciel libre',
-	'wm-license-gfdl-1.2-and-later' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licence de documentacion libra GNU]]''', vèrsion 1.2 ou ben tota novèla vèrsion coment publeyê per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dens la sèccion avouéc lo titro ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licence de documentacion libra GNU]]''.",
-	'wm-license-gfdl-1.2-only' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licence de documentacion libra GNU]]''', ren que la vèrsion 1.2 coment publeyê per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dens la sèccion avouéc lo titro ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licence de documentacion libra GNU]]''.",
+	'wm-license-gfdl-1.2-and-later' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|licence de documentacion libra GNU]]''', vèrsion 1.2 ou ben tota novèla vèrsion coment publeyêye per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dedens la sèccion apelâye ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|licence de documentacion libra GNU]]''', ren que la vèrsion 1.2 coment publeyêye per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dedens la sèccion apelâye ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only-header' => 'ren&nbsp;que&nbsp;1.2',
-	'wm-license-gfdl-1.3-and-later' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licence de documentacion libra GNU]]''', vèrsion 1.3 ou ben tota novèla vèrsion coment publeyê per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dens la sèccion avouéc lo titro ''[[{{int:wm-license-gfdl-full-1.3-link}}|Licence de documentacion libra GNU]]''.",
-	'wm-license-gfdl-1.3-only' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licence de documentacion libra GNU]]''', ren que la vèrsion 1.3 coment publeyê per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dens la sèccion avouéc lo titro ''[[{{int:wm-license-gfdl-full-1.3-link}}|Licence de documentacion libra GNU]]''.",
+	'wm-license-gfdl-1.3-and-later' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|licence de documentacion libra GNU]]''', vèrsion 1.3 ou ben tota novèla vèrsion coment publeyêye per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dedens la sèccion apelâye ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Vos avéd la pèrmission de copiyér, distribuar et / ou changiér ceti document d’aprés los tèrmos de la '''[[{{int:wm-license-gfdl-wiki-link}}|licence de documentacion libra GNU]]''', ren que la vèrsion 1.3 coment publeyêye per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; sen sèccions pas chanjâbles, sen tèxto de premiére pâge de cuvèrta et sen tèxto de dèrriére pâge de cuvèrta. Un ègzemplèro de la licence est encllu dedens la sèccion apelâye ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:fr:Licence de documentation libre GNU',
 	'wm-license-gpl-text' => "Ceta ôvra est una [[{{int:wm-license-free-software-wiki-link}}|programeria libra]] ; vos la pouede tornar distribuar et / ou changiér d’aprés los tèrmos de la '''[[{{int:wm-license-gpl-wiki-link}}|Licence publica g·ènèrala GNU]]''' coment publeyê per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] ; seye la vèrsion 2 de la Licence, ou ben tota novèla vèrsion. Ceta ôvra est distribuâ dens l’èsperance que serat utila, mas '''sen gins de garantia''' ; sen mémo la garantia emplicita de '''comèrcialisacion''' ou ben d’'''adaptacion a un usâjo particuliér'''. Vêde la [{{int:wm-license-gpl-2-full-link}} vèrsion 2] et la [{{int:wm-license-gpl-3-full-link}} vèrsion 3 de la Licence publica g·ènèrala GNU] por més de dètalys.",
 	'wm-license-gpl-wiki-link' => 'w:fr:Licence publique générale GNU',
@@ -4299,9 +4300,9 @@ $messages['ig'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Í nwèrèíkí jé, gbạsáa na/ma í mezí akwukwo nka na okpúrù íwú '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Ákwúkwó Íwú nke Owéré]]''', Nké 1.2 ma nke íchè ndi [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; wéfùtàrà; na adighi nkejị di íchẹ, adighi édé nke Ihú-Ihü Ákwúkwó, na adighi Ázú-Ihü Ákwúkwó. Ákwúkwó iwu hé jéré jé di na nkeji kpóró ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Ákwúkwó Íwú nke Owéré]]\".",
 	'wm-license-gfdl-wiki-link' => 'w:ig:GNU Free Documentation License',
 	'wm-license-information-description' => 'Nkówá',
-	'wm-license-information-source' => 'Mkpọlógwù',
-	'wm-license-information-date' => 'Aka',
-	'wm-license-information-author' => 'Onye déré',
+	'wm-license-information-source' => 'Mkpọlọ́gwụ̀',
+	'wm-license-information-date' => 'Ǹgụ́ụ̀bọ̀chị̀',
+	'wm-license-information-author' => 'Odé ákwụ́kwọ́',
 	'wm-license-information-permission' => 'Ọdà',
 	'wm-license-information-permission-reusing-text' => 'Í jí kwá usòrò nke',
 	'wm-license-information-permission-see-below' => 'Lé na àlà.',
