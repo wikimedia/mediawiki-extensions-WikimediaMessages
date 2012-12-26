@@ -351,6 +351,23 @@ $messages['pl'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Repozytoria gerrita: Wikimedia',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'wikimedialabsmessages-desc' => 'Mëssagi Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Depòsit ëd Wikimedia Analytics Gerrit',
+	'gerrittools-repogroup-integration' => 'Depòsit ëd Wikimedia Continuous Integration Gerrit',
+	'gerrittools-repogroup-mediawiki' => 'Depòsit ëd MediaWiki Gerrit',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Depòsit ëd MediaWiki extension Gerrit',
+	'gerrittools-repogroup-mediawiki/packages' => 'Depòsit ëd MediaWiki package Gerrit',
+	'gerrittools-repogroup-mediawiki/tools' => 'Depòsit ëd MediaWiki Tool Gerrit',
+	'gerrittools-repogroup-operations' => 'Depòsit ëd Wikimedia Operations Gerrit',
+	'gerrittools-repogroup-test' => 'Depòsit ëd Test Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Depòsit ëd Translatewiki.net Gerrit',
+	'gerrittools-repogroup-wikimedia' => 'Depòsit ëd Wikimedia Gerrit',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */

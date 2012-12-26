@@ -10325,6 +10325,7 @@ $messages['mr'] = array(
  * @author Bennylin
  * @author Diebuche
  * @author Multichill
+ * @author Pizza1016
  * @author Yosri
  */
 $messages['ms'] = array(
@@ -10509,14 +10510,14 @@ $messages['ms'] = array(
 	'wm-license-cc-zero-explanation' => 'Pihak yang mengaitkan karya ini dengan surat ikatan ini telah mendedikasikan karya ini kepada [[{{int:wm-license-pd-wiki-link}}|domain awam]] dengan melepaskan segala haknya kepada karya ini di seluruh dunia di bawah undang-undang hak cipta, termasuk semua hak berkaitan dan berjiran, sejauh mana yang dibenarkan oleh undang-undang. Anda boleh menyalin, mengubah suai, mengedarkan dan mempersembahkan karya ini, termasuk untuk tujuan komersil, semuanya tanpa meminta kebenaran.',
 	'wm-license-cc-free' => 'Anda adalah bebas:',
 	'wm-license-cc-free-to-share-header' => 'untuk berkongsi',
-	'wm-license-cc-free-to-share-text' => 'untuk menyalin , menyebar dan memindah hasil kerja',
-	'wm-license-cc-free-to-remix-header' => 'untuk melakukan remix',
-	'wm-license-cc-free-to-remix-text' => 'untuk menyesuaikan hasil kerja',
+	'wm-license-cc-free-to-share-text' => 'untuk menyalin, mengedar dan memindah hasil kerja',
+	'wm-license-cc-free-to-remix-header' => 'untuk mencampur semula',
+	'wm-license-cc-free-to-remix-text' => 'untuk menyesuaikan karya',
 	'wm-license-cc-conditions' => 'Di bawah syarat berikut:',
 	'wm-license-cc-conditions-attribution-header' => 'pengiktirafan',
 	'wm-license-cc-conditions-attribution-text' => 'Anda perlu akui kerja dalam bentuk yang dikhususkan oleh pengarang atau pelesen (tetapi tidak dalam cara yang mencadangkan mereka mengesahkan anda atau pengunaan anda bagi kerja tersebut).',
 	'wm-license-cc-conditions-share_alike-header' => 'perkongsian bersama',
-	'wm-license-cc-conditions-share_alike-text' => 'Jika anda mengubah, menukar, atau menokok tambah hasil kerja ini, anda boleh menyebarkan hasil kerja itu di bawah lesen yang sama atau serupa dengan lesen asal.',
+	'wm-license-cc-conditions-share_alike-text' => 'Jika anda mengubah, menukar, atau menokok tambah karya ini, anda boleh menyebarkan hasil kerja itu di bawah lesen yang sama atau serupa dengan lesen ini sahaja.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.ms',
 	'wm-license-cc-pd-mark-text' => 'Fail ini telah dikenal pasti sebagai bebas daripada sekatan-sekatan yang dikenali mengikut undang-undang hak cipta, termasuk semua hak berkaitan dan berjiran.',
 );

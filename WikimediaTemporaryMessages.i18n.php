@@ -117,6 +117,13 @@ $messages['ko'] = array(
 	'wikimediamessages-desc' => '위키미디어 특정 임시 메시지',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'wikimediamessages-desc' => 'Nohreeschte met Zigge bloß för de Wikkipeedija.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
@@ -157,4 +164,11 @@ $messages['pms'] = array(
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Тимчасові повідомлення для Вікімедіа',
+);
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Hydra
+ */
+$messages['zh-hans'] = array(
+	'wikimediamessages-desc' => '维基媒体特定暂时性消息',
 );
