@@ -4405,6 +4405,7 @@ $messages['ff'] = array(
  * @author Stryn
  * @author Tarmo
  * @author Varusmies
+ * @author VezonThunder
  */
 $messages['fi'] = array(
 	'wikimediamessages-desc' => 'Wikimedian käyttämiä järjestelmäviestejä.',
@@ -4521,8 +4522,8 @@ $messages['fi'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
-	'wikimedia-editpage-tos-summary' => 'Jos et halua kirjoitustasi muiden muokattavaksi ja levitettäväksi, älä tallenna sitä tänne. Jos et kirjoittanut tätä itse, tekstin tulee olla saatavilla [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehtojen] mukaisin ehdoin ja hyväksyt asiaankuuluvien lisenssivaatimusten noudattamisen.',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
+	'upload-more-photos-of-this-monument' => 'Lataa lisää kuvia tästä monumentista',
 );
 
 /** Fijian (Na Vosa Vakaviti)
@@ -8022,12 +8023,15 @@ Mar nyns yw hebma skrifys genowgh hwi agas honen, res yw y vos kavadow en-dadn t
 
 /** Kirghiz (Кыргызча)
  * @author Chorobek
+ * @author Growingup
  */
 $messages['ky'] = array(
 	'sitesupport' => 'Колдоо',
 	'tooltip-n-sitesupport' => 'Бизди колдоңуз',
 	'specialpages-group-contribution' => 'Каражат чогултуу',
 	'nstab-creator' => 'Автор',
+	'group-Staff' => 'Эмгектештер',
+	'group-coder' => 'Прогрммалоочулар',
 );
 
 /** Latin (Latina)
@@ -12244,6 +12248,10 @@ $messages['si'] = array(
 	'group-sysadmin' => 'පද්ධති පරිපාලකයන්',
 	'group-sysadmin-member' => '{{GENDER:$1|පද්ධති පරිපාලක}}',
 	'grouppage-sysadmin' => 'm:පද්ධති පරිපාලකවරුන්',
+	'group-New_wikis_importer' => 'නව විකි ආයාතකරුවෝ',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|නව විකි ආයාතකරු}}',
+	'group-recursive-export' => 'ආවර්තනික නිර්යාත කෙරුම',
+	'group-recursive-export-member' => '{{GENDER:$1|ආවර්තනික නිර්යාතකරු}}',
 	'group-translationadmin' => 'පර්වර්තන පරිපාලකවරයා',
 	'group-translationadmin-member' => '{{GENDER:$1|පරිවර්තන පරිපාලක}}',
 	'grouppage-translationadmin' => '{{ns:project}}:පර්වර්තන පරිපාලකයන්',
@@ -12258,8 +12266,6 @@ $messages['si'] = array(
 විස්තර සඳහා <a href=\'//wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
 මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
-	'wikimedia-editpage-tos-summary' => 'ඔබගේ ලේඛනය කැමැත්ත පරිදි සංස්කරණය කිරීමට හෝ යළි වෙනස් විදියකින් බෙදා හැරීමට ඔබට අවශ්‍ය නොවේ නම්,එය මෙහි යොමු නොකරන්න.
-මෙය ඔබ විසින්ම ලියනු නොලැබුවේනම්,එය [//wikimediafoundation.org/wiki/Terms_of_Use පරිහරණයෙහි කොන්දේසි] සමඟ අනුරූප කොන්දේසි යටතේ ලබා ගත හැකිවිය යුතු අතර,ඕනෑම අදාළ බලපත්‍රදායක අවශ්‍යතාවයක් අනුගමනය කිරීමට ඔබ එකඟ වෙයි.',
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
 );
 

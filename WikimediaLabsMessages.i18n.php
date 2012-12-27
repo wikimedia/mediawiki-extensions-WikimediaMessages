@@ -368,6 +368,13 @@ $messages['pms'] = array(
 	'gerrittools-repogroup-wikimedia' => 'Depòsit ëd Wikimedia Gerrit',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'wikimedialabsmessages-desc' => 'විකිමීඩියා පරීක්ෂණාගාර පණිවුඩ',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */

@@ -219,6 +219,7 @@ Please only set a link here when a translated version of [[:Commons:Commons:Reus
 Translate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.',
 	'wm-license-original-upload-log' => 'Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [http://commons.wikimedia.org/wiki/File:Inkscape_logo_2.svg example].',
 	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]]',
+	'wm-license-pd-author-with-author-any-purpose' => "$1 is a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
 	'wm-license-pd-wiki-link' => '{{optional}}',
 	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
 	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
@@ -5299,6 +5300,7 @@ $messages['kw'] = array(
 
 /** Kirghiz (Кыргызча)
  * @author Chorobek
+ * @author Growingup
  */
 $messages['ky'] = array(
 	'wikimedialicensetexts-desc' => 'Уикимедианын лицензиялык билдирүүсү',
@@ -5326,6 +5328,12 @@ $messages['ky'] = array(
 	'wm-license-book-publisher' => 'Басмакана',
 	'wm-license-book-series-title' => 'Алкактын аталышы',
 	'wm-license-book-start-this-book' => 'Ушул китепти оку',
+	'wm-license-book-translator' => 'Котормочу',
+	'wm-license-creator-description' => 'Баяндама',
+	'wm-license-information-description' => 'Баяндама',
+	'wm-license-information-source' => 'Булак',
+	'wm-license-information-date' => 'Дата',
+	'wm-license-information-author' => 'Автор',
 );
 
 /** Latin (Latina)

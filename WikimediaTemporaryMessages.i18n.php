@@ -159,6 +159,13 @@ $messages['pms'] = array(
 	'wikimediamessages-desc' => 'Mëssagi temporani specìfich ëd Wikimedia',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂිත තාවකාලික පණිවුඩ',
+);
+
 /** Ukrainian (українська)
  * @author Base
  */
