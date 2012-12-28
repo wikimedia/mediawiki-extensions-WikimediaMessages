@@ -12248,8 +12248,13 @@ $messages['si'] = array(
 	'group-sysadmin' => 'පද්ධති පරිපාලකයන්',
 	'group-sysadmin-member' => '{{GENDER:$1|පද්ධති පරිපාලක}}',
 	'grouppage-sysadmin' => 'm:පද්ධති පරිපාලකවරුන්',
+	'group-API_High_Limit_Requestor' => 'API උච්ච සීමා අයදුම්කරුවෝ',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|උච්ච සීමා අයදුම්කරු}}',
+	'group-Indic_Bots' => 'අඟවන රොබෝවරු',
+	'group-Indic_Bots-member' => '{{GENDER:$1|අඟවන රොබෝ}}',
 	'group-New_wikis_importer' => 'නව විකි ආයාතකරුවෝ',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|නව විකි ආයාතකරු}}',
+	'group-global-ipblock-exempt' => 'ගෝලීය අයිපී ලිපින වාරණ විවර්ජන',
 	'group-recursive-export' => 'ආවර්තනික නිර්යාත කෙරුම',
 	'group-recursive-export-member' => '{{GENDER:$1|ආවර්තනික නිර්යාතකරු}}',
 	'group-translationadmin' => 'පර්වර්තන පරිපාලකවරයා',
@@ -12267,6 +12272,7 @@ $messages['si'] = array(
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
 මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
+	'upload-more-photos-of-this-monument' => 'මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න',
 );
 
 /** Slovak (slovenčina)

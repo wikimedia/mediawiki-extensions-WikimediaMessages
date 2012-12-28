@@ -373,6 +373,12 @@ $messages['pms'] = array(
  */
 $messages['si'] = array(
 	'wikimedialabsmessages-desc' => 'විකිමීඩියා පරීක්ෂණාගාර පණිවුඩ',
+	'gerrittools-repogroup-mediawiki' => 'මාධ්‍යවිකි Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-mediawiki/tools' => 'මාධ්‍යවිකි මෙවලම් Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-operations' => 'විකිමාධ්‍ය ක්‍රියාකාරීත්ව Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-test' => 'Gerrit කෝෂ්ඨාගාර පරික්ෂා කරන්න',
+	'gerrittools-repogroup-translatewiki' => 'Translatewiki.net Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-wikimedia' => 'විකිමාධ්‍ය Gerrit කෝෂ්ඨාගාර',
 );
 
 /** Tagalog (Tagalog)

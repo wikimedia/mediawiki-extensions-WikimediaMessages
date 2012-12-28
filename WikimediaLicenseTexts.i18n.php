@@ -5130,6 +5130,7 @@ $messages['krc'] = array(
 /** Colognian (Ripoarisch)
  * @author Multichill
  * @author Purodha
+ * @author Shirayuki
  */
 $messages['ksh'] = array(
 	'wikimedialicensetexts-desc' => 'De Wikimedia Shteftong ier lizänzbetrocke Täxboushtein',
@@ -5222,7 +5223,7 @@ Loor Der de [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] un de [{{int:wm-
 	'wm-license-pd-author-with-author-text' => "{{GENDER:\$1|Dä|Et|Dä Metmaacher|De|Dat}} \$1 hät et Urhävverääsch vun däm Wärk, un jit dat Wärk öffentlesch en de [[{{int:wm-license-pd-wiki-link}}|'''Allmende''' (<i lang=\"en\">public domain</i>)]], un dat jėlt op de janze Wält.",
 	'wm-license-pd-author-not-legally-possible' => 'En manche Staate künnt dat rääschtlesch nit müjjelesch sin. Wann dat esu es:',
 	'wm-license-pd-author-self-any-purpose' => "Vun mir kritt jeederein dat Rääsch heh dat Wärk '''för jeede Zwäck ze verwände''', der ohne Bedengunge, ußer dänne, di et Jesäz vörschriev.",
-	'wm-license-pd-author-with-author-any-purpose' => "{{GENDER:$1|Vum|Vum|Vum Metmaacher|Vun dä|Vum}} $1 kritt jeederein dat Rääsch heh dat Wärk '''för jeede Zwäck ze verwände''', ohne Bedengunge, ußer dänne, di et Jesäz vörschriev.",
+	'wm-license-pd-author-with-author-any-purpose' => "{{GENDER:$1|Vum|Vum|Vum Metmaacher|Vun dä|Vum}} $1 kritt jeederein dat Rääsch heh dat Wärk '''för jeede Zwäck ze verwände''', ohne Bedengunge, ußer dänne, di et Jesäz vörschriev.", # Fuzzy
 	'wm-license-pd-usgov-wiki-link' => 'w:de:Bundesregierung (Vereinigte Staaten)',
 	'wm-license-pd-usgov-work-wiki-link' => 'w:en:Copyright status of work by the U.S. government',
 	'wm-license-pd-usgov-fema-text' => "Heh di Dattei es e deenslesch Wärk us dä USA iere [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Bundesajentur för de Verwalldong vun Kattaßtroofe un Nudfäll]] (<i lang=\"en\">Federal Emergency Management Agency</i>) un es als e [[{{int:wm-license-pd-usgov-work-wiki-link}}|Wärk]] vun de [[{{int:wm-license-pd-usgov-wiki-link}}|amärrekaanesche Bundesrejierong]] automattesch en de '''[[{{int:wm-license-pd-wiki-link}}|Allmände]]'''.",
