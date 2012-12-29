@@ -12255,6 +12255,7 @@ $messages['si'] = array(
 	'group-New_wikis_importer' => 'නව විකි ආයාතකරුවෝ',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|නව විකි ආයාතකරු}}',
 	'group-global-ipblock-exempt' => 'ගෝලීය අයිපී ලිපින වාරණ විවර්ජන',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|ගෝලීය IP වාරණ විවර්ජනය}}',
 	'group-recursive-export' => 'ආවර්තනික නිර්යාත කෙරුම',
 	'group-recursive-export-member' => '{{GENDER:$1|ආවර්තනික නිර්යාතකරු}}',
 	'group-translationadmin' => 'පර්වර්තන පරිපාලකවරයා',

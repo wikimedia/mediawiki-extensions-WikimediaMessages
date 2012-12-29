@@ -373,7 +373,11 @@ $messages['pms'] = array(
  */
 $messages['si'] = array(
 	'wikimedialabsmessages-desc' => 'විකිමීඩියා පරීක්ෂණාගාර පණිවුඩ',
+	'gerrittools-repogroup-analytics' => 'විකිමාධ්‍ය විශ්ලේෂණ Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-integration' => 'විකිමාධ්‍ය සන්තතික අනුකලන Gerrit කෝෂ්ඨාගාර',
 	'gerrittools-repogroup-mediawiki' => 'මාධ්‍යවිකි Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-mediawiki/extensions' => 'මාධ්‍යවිකි ව්‍යාප්ති Gerrit කෝෂ්ඨාගාර',
+	'gerrittools-repogroup-mediawiki/packages' => 'මාධ්‍යවිකි පැකේජ Gerrit කෝෂ්ඨාගාර',
 	'gerrittools-repogroup-mediawiki/tools' => 'මාධ්‍යවිකි මෙවලම් Gerrit කෝෂ්ඨාගාර',
 	'gerrittools-repogroup-operations' => 'විකිමාධ්‍ය ක්‍රියාකාරීත්ව Gerrit කෝෂ්ඨාගාර',
 	'gerrittools-repogroup-test' => 'Gerrit කෝෂ්ඨාගාර පරික්ෂා කරන්න',
