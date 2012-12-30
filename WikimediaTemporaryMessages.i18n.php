@@ -173,6 +173,13 @@ $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Тимчасові повідомлення для Вікімедіа',
 );
 
+/** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
+ */
+$messages['vi'] = array(
+	'wikimediamessages-desc' => 'Các thông điệp tạm thời dành cho Wikimedia',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Hydra
  */

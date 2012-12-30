@@ -4523,7 +4523,7 @@ $messages['fi'] = array(
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
-	'upload-more-photos-of-this-monument' => 'Lataa lisää kuvia tästä monumentista',
+	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
 );
 
 /** Fijian (Na Vosa Vakaviti)
@@ -6057,8 +6057,8 @@ $messages['hr'] = array(
 	'group-arbcom' => 'Članovi arbitražnog odbora',
 	'group-arbcom-member' => 'član arbitražnog odbora', # Fuzzy
 	'grouppage-arbcom' => '{{ns:project}}:Članovi arbitražnog odbora',
-	'group-autopatrolled' => 'Automatski patrolirani',
-	'group-autopatrolled-member' => 'automatski patroliran', # Fuzzy
+	'group-autopatrolled' => 'automatski ophođeni',
+	'group-autopatrolled-member' => '{{GENDER:$1|automatski ophođen|automatski ophođena}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automatski patrolirani',
 	'group-autoreviewer' => 'Samoocjenjivači',
 	'group-autoreviewer-member' => 'samoocjenjivač', # Fuzzy
@@ -10595,6 +10595,16 @@ $messages['pms'] = array(
 	'group-steward-member' => '{{GENDER:$1|comess}}',
 	'group-sysadmin' => 'Aministrator ëd sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|aministrator ëd sistema}}',
+	'group-API_High_Limit_Requestor' => 'Ciamant dël lìmit pi àut dle API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Ciamant dël lìmit pi àut dle API}}',
+	'group-Indic_Bots' => 'Trigomiro indian',
+	'group-Indic_Bots-member' => '{{GENDER:$1|trigomiro indian}}',
+	'group-New_wikis_importer' => 'Importador dle wiki neuve',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|importador dle wiki neuve}}',
+	'group-global-ipblock-exempt' => 'Esension dij blòch IP globaj',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|esension dij blòch IP globaj}}',
+	'group-recursive-export' => 'Esportassion ricorsive',
+	'group-recursive-export-member' => '{{GENDER:$1|esportador ricorsiv}}',
 	'group-translationadmin' => 'Aministrator ëd tradussion',
 	'group-translationadmin-member' => '{{GENDER:$1|aministrator ëd tradussion}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Aministrator ëd tradussion',
@@ -10608,9 +10618,9 @@ as peulo giontesse condission adissionaj.
 Varda <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
 	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [//wikimediafoundation.org/wiki/Terms_of_use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
-	'wikimedia-editpage-tos-summary' => "S'it veule pa che tò scrit a sia modificà e redistribuì a volontà, alora butlo pa sì. S'it l'has pa scrivulo da sol, a deuv esse disponìbil sota condission consistente con ij [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], e it ses d'acòrdi con tùit ij requisì aplicàbij dla licensa.",
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
 	'wikimedia-translationnotifications-signup-legal' => "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij dò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Privacy_policy régole ëd confidensialità].",
+	'upload-more-photos-of-this-monument' => "Carié pi 'd fòto d'ës monument",
 );
 
 /** Western Punjabi (پنجابی)
