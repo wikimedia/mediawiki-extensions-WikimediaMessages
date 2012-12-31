@@ -14329,6 +14329,9 @@ $messages['ug-arab'] = array(
 	'sitesupport' => 'ئىئانە',
 	'tooltip-n-sitesupport' => 'بىزنى قوللاڭ',
 	'specialpages-group-contribution' => 'تۆھپە/ئىئانەچى',
+	'nstab-creator' => 'تۈزگۈچى',
+	'nstab-institution' => 'تارماق',
+	'nstab-sequence' => 'تەرتىپ',
 	'group-abusefilter' => 'سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى',
 	'group-abusefilter-member' => 'سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى', # Fuzzy
 	'grouppage-abusefilter' => '{{ns:project}}:سۈزگۈچتىن قالايمىقان پايدىلانغان تەھرىرلىگۈچى',
@@ -14398,6 +14401,7 @@ $messages['ug-arab'] = array(
 	'group-inactive' => 'پاسسىپ ئىشلەتكۈچىلەر',
 	'group-inactive-member' => 'پاسسىپ ئىشلەتكۈچى', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:پاسسىپ ئىشلەتكۈچىلەر',
+	'shared-repo-name-shared' => 'ۋىكى ۋاستە ھەمبەھىر',
 );
 
 /** Uyghur (Latin script) (Uyghurche)

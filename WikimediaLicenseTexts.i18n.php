@@ -6537,7 +6537,7 @@ De voorwaarden van de CeCILL-licentie zijn beschikbaar op [{{int:wm-license-ceci
 	'wm-license-creator-location-of-birth-and-death' => 'Geboorte- en sterfplaats',
 	'wm-license-creator-work-period' => 'Actieve periode',
 	'wm-license-creator-work-location' => 'Werklocatie',
-	'wm-license-creator-linkback' => 'Verwijzing naar dit kunstenaarsjabloon',
+	'wm-license-creator-linkback' => 'Koppeling naar dit kunstenaarsjabloon',
 	'wm-license-fal-text' => "Copyleft: dit kunstwerk is vrij; u mag het heruitgeven en/of wijzigen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-fal-wiki-link}}|Free Art-licentie]]'''.
 U kunt een voorbeeld van de licentie vinden op de [{{int:wm-license-fal-full-link}} website van Copyleft Attitude] als ook op andere websites.",
 	'wm-license-fal-wiki-link' => 'w:nl:Vrije kunst licentie',
@@ -9458,6 +9458,32 @@ $messages['tzm'] = array(
 	'wm-license-creator-work-location' => 'ⴰⴷⵖⴰⵔ ⵏ ⵜⵡⵓⵔⵉ',
 	'wm-license-information-date' => 'ⴰⴽⵓⴷ',
 	'wm-license-pd-wiki-link' => 'w:tzm:public domain',
+);
+
+/** Uyghur (Arabic script) (ئۇيغۇرچە)
+ * @author Sahran
+ */
+$messages['ug-arab'] = array(
+	'wm-license-artwork-artist' => 'سەنئەتكار',
+	'wm-license-artwork-title' => 'ماۋزۇ',
+	'wm-license-artwork-medium' => 'ئوتتۇراھال',
+	'wm-license-artwork-dimensions' => 'ئۆلچەم',
+	'wm-license-artwork-references' => 'نەقىل',
+	'wm-license-artwork-notes' => 'ئىزاھ',
+	'wm-license-book-edition' => 'نەشرى',
+	'wm-license-book-editor' => 'تەھرىرلىگۈچ',
+	'wm-license-book-language' => 'تىل',
+	'wm-license-book-printer' => 'پرىنتېر',
+	'wm-license-book-publisher' => 'تارقاتقۇچى',
+	'wm-license-book-subtitle' => 'قوشۇمچە ماۋزۇ',
+	'wm-license-book-title' => 'ماۋزۇ',
+	'wm-license-book-translator' => 'تەرجىمان',
+	'wm-license-book-volume' => 'ئاۋاز مىقدارى',
+	'wm-license-creator-description' => 'چۈشەندۈرۈش',
+	'wm-license-information-description' => 'چۈشەندۈرۈش',
+	'wm-license-information-source' => 'مەنبە',
+	'wm-license-information-date' => 'چېسلا',
+	'wm-license-information-author' => 'يازغۇچى',
 );
 
 /** Ukrainian (українська)
