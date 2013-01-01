@@ -245,6 +245,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
  * @author Raymond
  * @author SPQRobin
  * @author Seb35
+ * @author Shirayuki
  * @author Siebrand
  * @author Sp5uhe
  * @author Tagimata
@@ -388,7 +389,8 @@ Please leave <code>Foundation:</code> untranslated.
 {{doc-group|Staff|page|prefix=wmf-}}',
 	'group-editinterface' => '{{doc-group|editinterface}}',
 	'group-editinterface-member' => '{{doc-group|editinterface|member}}',
-	'grouppage-editinterface' => '{{doc-group|editinterface|page}}',
+	'grouppage-editinterface' => '{{doc-group|editinterface|page}}
+{{Global grouppage}}',
 	'group-steward' => '{{doc-group|steward}}',
 	'group-steward-member' => '{{doc-group|steward|member}}',
 	'grouppage-steward' => '{{optional}}
@@ -2647,18 +2649,21 @@ $messages['ckb'] = array(
 	'wikimediamessages-desc' => 'پەیامە تایبەتەکانی ویکیمیدیا',
 	'sitesupport' => 'پاڵپشتی لە ویکیپیدیا',
 	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',
+	'nstab-institution' => 'دامەزراوە',
 	'group-accountcreator' => 'دروست‌کەری هەژمارە',
-	'group-accountcreator-member' => 'درووست‌که‌ری هه‌ژماره‌', # Fuzzy
+	'group-accountcreator-member' => '{{GENDER:$1|دروستکەری ھەژمار}}',
 	'group-flood' => 'بەکارھێنەرانی بۆت',
 	'group-flood-member' => 'بەکارھێنەری بۆت', # Fuzzy
 	'group-founder-member' => 'دۆزەر', # Fuzzy
 	'group-ipblock-exempt-member' => 'ھەڵاواردن لە بەربەستنی ئای پی',
 	'group-Staff' => 'کارمەندان',
 	'group-Staff-member' => 'کارمەند',
+	'group-steward' => 'ستیواردەکان',
+	'group-steward-member' => '{{GENDER:$1|ستیوارد}}',
 	'group-sysadmin' => 'به‌ڕێوبه‌رانی سیسته‌م',
 	'group-sysadmin-member' => 'بەڕێوبەری سیستەم', # Fuzzy
 	'group-inactive' => 'بەکارهێنەرانی ناچالاک',
-	'group-inactive-member' => 'بەکارهێنەری ناچالاک', # Fuzzy
+	'group-inactive-member' => '{{GENDER:$1|بەکارھێنەری ناچالاک}}',
 	'grouppage-inactive' => '{{ns:project}}: بەکارهێنەرانی ناچالاک',
 	'wikimedia-copyright' => 'دەق لەژێر <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛
 لەوانەیە مەرجی تریشی پێ زیاد ببێ.
@@ -2666,8 +2671,6 @@ $messages['ckb'] = array(
 	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
 قەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.
 سەیری [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.', # Fuzzy
-	'wikimedia-editpage-tos-summary' => 'ئەگەر ناتەوێ نووسراوەکەت بە ئارەزوو دەستکاری بکرێت و تێکبدرێت، لێرە دایمەنێ.
-ئەگەر خۆت ئەمەت نەنووسیوە، دەبێ دڵنیا بیت کە لەژێر [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان]دا لە بەردەستدایە و قەبووڵ دەکەیت کە پەیڕەوی بکەیت لە ھەموو ویستەمەنییە مۆڵەتنامەیییە پەیوەندی‌‌دارەکان.',
 );
 
 /** Corsican (corsu)
@@ -7870,7 +7873,7 @@ $messages['ksh'] = array(
 	'tooltip-n-sitesupport' => 'Donn uns Ungerstötze!',
 	'specialpages-group-contribution' => 'Spendebeidrääsch',
 	'nstab-creator' => 'Urhävver',
-	'nstab-institution' => 'Enreeschdung',
+	'nstab-institution' => 'Enreeschdong',
 	'nstab-sequence' => 'Belderfolje',
 	'nstab-timedtext' => 'Ongertitele met Zigge',
 	'group-Ex_Administrator' => 'vörmohlijje Wiki-Köbesse',
@@ -7985,7 +7988,6 @@ $messages['ksh'] = array(
 	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
 	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">Lizänz: <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße</a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
 	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [//creativecommons.org/licenses/by-sa/3.0/deed.de Lizänz <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße, Version 3.0] un de [//www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [//wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
-	'wikimedia-editpage-tos-summary' => 'Wann De nit han wells, dat Dinge Tex ömjemodelt weed, un söns wohin verdeilt, dun en hee nit speichere. Wann De dä nit sellver jeschreve häs, moß_e onger Bedengunge ze han sin, di zo de [//wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge] paß, un Do shtemms zoh, alle nüüdeje un rellevante Saache ze follje un ze donn för di Lizänz.',
 	'cant-delete-main-page' => 'Do kanns de Houpsigg nit ömdäufe udder fott schmieße.',
 	'wikimedia-translationnotifications-signup-legal' => 'Do bes enverstande domet, dat de Wikkimeedija Schteftong met Der en ene Kumtak trädde darref wääje Ding Övversäzonge udder ander Saache, di met dä Wikkimeedia-Bewääjong ze donn han, woh mer vun meint, dat di för Desch interßant sin künnte. Do bes enverschtande, dat Daate övver Desch en der Vereineschte Schtaate vun Ammärrika faßjehallde wääde künne un onger der Schteftong ier [https://wikimediafoundation.org/wiki/Privacy_policy Rääjelle för pevaate Daate] schtonn. Wann De domet nit enverschtande bes, donn heh nix enjävve.',
 	'upload-more-photos-of-this-monument' => 'Donn mieh Fotos vun heh däm Dängkmohl huhlaade',
@@ -15329,6 +15331,7 @@ $messages['zea'] = array(
  * @author William915
  * @author Wmr89502270
  * @author Xiaomingyan
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定信息',
@@ -15443,8 +15446,7 @@ $messages['zh-hans'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
 	'shared-repo-name-shared' => '维基共享资源',
 	'wikimedia-copyright' => '本网站文字内容采用<a href="//creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
-	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0许可协议]和[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]不可逆地发表你的贡献。你认同依据知识共享许可协议使用超链接或URL作为署名是充分的。',
-	'wikimedia-editpage-tos-summary' => '如果你不希望你编写的内容被编辑或传播，请勿在这里提交。如果这些内容不是你自己编写的，它们必须符合[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]的规定，并且你同意遵守任何相关授权协议的要求。',
+	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地发表你的贡献。你认同使用超链接或URL足以作为知识共享许可协议的署名。',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 );
@@ -15462,6 +15464,7 @@ $messages['zh-hans'] = array(
  * @author William915
  * @author Wong128hk
  * @author Wrightbus
+ * @author Yfdyh000
  */
 $messages['zh-hant'] = array(
 	'wikimediamessages-desc' => '維基媒體特定訊息',
@@ -15575,9 +15578,8 @@ $messages['zh-hant'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活躍的用戶',
 	'shared-repo-name-shared' => '維基共享資源',
 	'wikimedia-copyright' => '本站的全部文字在<a "href="{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}"title="Wikipedia:CC-by-sa-3.0協議文本">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>）',
-	'wikimedia-copyrightwarning' => '一旦點擊“{{int:savearticle}}”按鈕，就表示你同意[//wikimediafoundation.org/wiki/Terms_of_use 使用條款]，並採用[//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0許可協議]和[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]不可逆地發表你的貢獻。
+	'wikimedia-copyrightwarning' => '一旦點擊“{{int:savearticle}}”按鈕，就表示你同意[//wikimediafoundation.org/wiki/Terms_of_use 使用條款]，並採用[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。
 你同意超鏈接或URL足以作為創作共享協議的署名。',
-	'wikimedia-editpage-tos-summary' => '請勿提交任何閣下不欲予人編輯或重新發布的內容。當提交非由閣下編寫的內容時，請確保這些內容的版權狀態合乎[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，閣下同意遵行一切相關的版權條款。',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 );

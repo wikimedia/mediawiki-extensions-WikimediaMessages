@@ -1632,10 +1632,15 @@ $messages['ceb'] = array(
 
 /** Sorani Kurdish (کوردی)
  * @author Asoxor
+ * @author Calak
  */
 $messages['ckb'] = array(
+	'wm-license-artwork-artist' => 'ھونەرمەند',
 	'wm-license-artwork-title' => 'سەرناو',
+	'wm-license-artwork-notes' => 'تێبینییەکان',
+	'wm-license-book-edition' => 'وەشان',
 	'wm-license-book-language' => 'زمان',
+	'wm-license-book-printer' => 'چاپکەر',
 	'wm-license-book-publisher' => 'بڵاوکار',
 	'wm-license-book-title' => 'سەرناو',
 	'wm-license-book-year-of-publication' => 'ساڵی بڵاوکردنەوە',
