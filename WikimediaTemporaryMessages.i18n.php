@@ -152,6 +152,13 @@ $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
 
+/** Polish (polski)
+ * @author Rezonansowy
+ */
+$messages['pl'] = array(
+	'wikimediamessages-desc' => 'Specjalne tymczasowe wiadomości Wikimedii',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Dragonòt
  */
