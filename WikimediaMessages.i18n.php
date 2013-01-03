@@ -11446,6 +11446,7 @@ $messages['roa-tara'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP senza blocche',
 	'group-patroller' => 'Condrollore',
 	'group-patroller-member' => '{{GENDER:$1|condrollore}}',
+	'grouppage-patroller' => '{{ns:project}}:Condrollore',
 	'group-researcher' => 'Recercature',
 	'group-researcher-member' => '{{GENDER:$1|recèrcatore}}',
 	'grouppage-researcher' => '{{ns:project}}:Ricercature',
@@ -11474,6 +11475,8 @@ $messages['roa-tara'] = array(
 	'group-steward-member' => '{{GENDER:$1|steward}}',
 	'group-sysadmin' => "Amministrature d'u sisteme",
 	'group-sysadmin-member' => '{{GENDER:$1|amministratore de sisteme}}',
+	'group-recursive-export' => 'Esportazione recorsive',
+	'group-recursive-export-member' => '{{GENDER:$1|esportatore recorsive}}',
 	'group-translationadmin' => 'Amministrature de le traduziune',
 	'group-translationadmin-member' => '{{GENDER:$1|amministratore de le traduziune}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Amministrature de le traduziune',
@@ -11487,8 +11490,8 @@ termine addizionale pò essere applicate.
 Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
-	'wikimedia-editpage-tos-summary' => "Ce non ge vuè ca 'u teste pò essere cangiate o redistribbuite a mundone, allore 'u sè ce stè no 'u sce mettènne aqquà. Ce non ge l'è scritte tu, allore addà essere disponibbile cu condiziune combatibbele cu le [//wikimediafoundation.org/wiki/Terms_of_Use condiziune d'ause] e accette pure tutte le requisite de licenze.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
+	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
 );
 
 /** Russian (русский)
