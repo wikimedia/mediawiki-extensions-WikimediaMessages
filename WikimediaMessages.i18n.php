@@ -2977,6 +2977,7 @@ Os nad chi ysgrifennodd y cyfraniad hwn, rhaid iddo fod ar gael ar delerau sy'n 
 );
 
 /** Danish (dansk)
+ * @author Christian List
  * @author Froztbyte
  * @author Jon Harald Søby
  * @author Kaare
@@ -3016,6 +3017,9 @@ $messages['da'] = array(
 	'group-autopatrolled' => 'Autopatruljerede',
 	'group-autopatrolled-member' => '{{GENDER:$1|autopatruljeret}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruljerede',
+	'group-autoreviewer' => 'Autopatruljanter',
+	'group-autoreviewer-member' => '{{GENDER:$1|autopatruljant}}',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autopatruljanter',
 	'group-bigexport' => 'Storeksportører',
 	'group-bigexport-member' => '{{GENDER:$1|storeksportør}}',
 	'grouppage-bigexport' => '{{ns:project}}:Storeksportører',
@@ -3028,6 +3032,9 @@ $messages['da'] = array(
 	'group-editprotected' => 'Brugere, der kan redigere beskyttede sider',
 	'group-editprotected-member' => '{{GENDER:$1|redaktør af beskyttede sider}}',
 	'grouppage-editprotected' => '{{ns:project}}:Brugere, der kan redigere beskyttede sider',
+	'group-eliminator' => 'Eliminatorer',
+	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
 	'group-filemover' => 'Filflyttere',
 	'group-filemover-member' => '{{GENDER:$1|filflytter}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
@@ -3048,6 +3055,7 @@ $messages['da'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP-blokeringsundtagelser',
 	'group-patroller' => 'Patruljanter',
 	'group-patroller-member' => '{{GENDER:$1|patruljant}}',
+	'grouppage-patroller' => '{{ns:project}}:Patruljanter',
 	'group-researcher' => 'Forskere',
 	'group-researcher-member' => '{{GENDER:$1|forsker}}',
 	'grouppage-researcher' => '{{ns:project}}:Forskere',
@@ -3081,16 +3089,16 @@ $messages['da'] = array(
 	'group-translationadmin' => 'Oversættelsesadministratorer',
 	'group-translationadmin-member' => '{{GENDER:$1|oversættelsesadministrator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Oversættelsesadministratorer',
-	'group-coder' => 'Kodere',
-	'group-coder-member' => '{{GENDER:$1|koder}}',
+	'group-coder' => 'Programmører',
+	'group-coder-member' => '{{GENDER:$1|programmør}}',
 	'group-inactive' => 'Inaktive brugere',
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruger}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
 	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [//wikimediafoundation.org/wiki/Terms_of_use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
-	'wikimedia-editpage-tos-summary' => 'Ønsker du ikke at dit værk redigeres og redistribueres efter forgodtbefindende, skal du ikke indsende det her. Har du ikke selv skrevet det, skal det være tilgængeligt under betingelser i overensstemmelse med [//wikimediafoundation.org/wiki/Terms_of_Use Brugsbetingelser], og du bekræfter at leve op til alle relevante licenskrav.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
+	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
 );
 
 /** German (Deutsch)
