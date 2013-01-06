@@ -41,10 +41,11 @@ $messages['da'] = array(
 );
 
 /** German (Deutsch)
+ * @author Kghbln
  * @author Metalhead64
  */
 $messages['de'] = array(
-	'wikimediamessages-desc' => 'Wikimediaspezifische temporäre Nachrichten',
+	'wikimediamessages-desc' => 'Ermöglicht Wikimedia-spezifische temporäre Nachrichten',
 );
 
 /** Lower Sorbian (dolnoserbski)
