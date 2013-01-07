@@ -352,19 +352,20 @@ $messages['pl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'wikimedialabsmessages-desc' => 'Mëssagi Wikimedia Labs',
+	'wikimedialabsmessages-desc' => 'Mëssagi ëd Wikimedia Labs',
 	'gerrittools-repogroup-analytics' => 'Depòsit ëd Wikimedia Analytics Gerrit',
 	'gerrittools-repogroup-integration' => 'Depòsit ëd Wikimedia Continuous Integration Gerrit',
 	'gerrittools-repogroup-mediawiki' => 'Depòsit ëd MediaWiki Gerrit',
-	'gerrittools-repogroup-mediawiki/extensions' => 'Depòsit ëd MediaWiki extension Gerrit',
-	'gerrittools-repogroup-mediawiki/packages' => 'Depòsit ëd MediaWiki package Gerrit',
-	'gerrittools-repogroup-mediawiki/tools' => 'Depòsit ëd MediaWiki Tool Gerrit',
+	'gerrittools-repogroup-mediawiki/extensions' => "Depòsit Gerrit d'estension MediaWiki",
+	'gerrittools-repogroup-mediawiki/packages' => 'Depòsit Gerrit ëd pachèt MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Depòsit Gerrit ëd MediaWiki Tool',
 	'gerrittools-repogroup-operations' => 'Depòsit ëd Wikimedia Operations Gerrit',
 	'gerrittools-repogroup-test' => 'Depòsit ëd Test Gerrit',
-	'gerrittools-repogroup-translatewiki' => 'Depòsit ëd Translatewiki.net Gerrit',
+	'gerrittools-repogroup-translatewiki' => 'Depòsit Gerrit ëd translatewiki.net',
 	'gerrittools-repogroup-wikimedia' => 'Depòsit ëd Wikimedia Gerrit',
 );
 

@@ -194,3 +194,10 @@ $messages['vi'] = array(
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定暂时性消息',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Simon Shek
+ */
+$messages['zh-hant'] = array(
+	'wikimediamessages-desc' => '維基媒體特定臨時消息',
+);
