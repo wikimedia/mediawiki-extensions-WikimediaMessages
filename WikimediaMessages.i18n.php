@@ -15222,8 +15222,10 @@ $messages['yi'] = array(
 	'nstab-timedtext' => 'צײַט־טעקסט',
 	'group-Ex_Administrator' => 'געוועזענע סיסאפן',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|געוועזענער סיסאפ|געוועזענע סיסאפ}}',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:געוועזענע ביוראקראטן',
 	'group-Ex_Bureaucrat' => 'געוועזענע ביוראקראטן',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|געוועזענער ביוראקראַט|געוועזענע ביוראקראַט}}',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:געוועזענע ביוראקראטן',
 	'group-Image-reviewer' => 'בילד רעצענזענטן',
 	'group-Image-reviewer-member' => '{{GENDER:$1| בילד רעצענזענט}}',
 	'grouppage-Image-reviewer' => '{{ns:project}}:בילדער רעצענזענטן',
@@ -15277,6 +15279,7 @@ $messages['yi'] = array(
 	'grouppage-interface_editor' => '{{ns:project}}:באניצער איבערפלאך רעדאקטירער',
 	'group-patroller' => 'פאטראלירער',
 	'group-patroller-member' => '{{GENDER:$1|פאטראלירער|פאטראלירערין}}',
+	'grouppage-patroller' => '{{ns:project}}:געוועזענע ביוראקראטן',
 	'group-researcher' => 'פֿארשער',
 	'group-researcher-member' => '{{GENDER:$1|פֿארשער|פֿארשערין}}',
 	'grouppage-researcher' => '{{ns:project}}:פֿארשערס',
@@ -15295,7 +15298,8 @@ $messages['yi'] = array(
 	'group-Global_rollback-member' => '{{GENDER:$1|גלאבאַלער צוריקדרייער| גלאבאַלע צוריקדרייער}}',
 	'group-Global_sysops' => 'גלאבאַלע סיסאָפּן',
 	'group-Global_sysops-member' => '{{GENDER:$1|גלאבאַלער סיסאָפּ|גלאבאַלע סיסאָפּ}}',
-	'group-Staff-member' => 'שטאַב',
+	'group-Staff' => 'שטאַב',
+	'group-Staff-member' => '{{GENDER:$1|שטאַב}}',
 	'group-editinterface' => 'באַניצער איבערפֿלאַך רעדאַקטירער',
 	'group-editinterface-member' => '{{GENDER:$1|באַניצער איבערפֿלאַך רעדאַקטירער}}',
 	'group-steward' => 'סטואַרדן',
@@ -15315,9 +15319,8 @@ $messages['yi'] = array(
 זעט <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאים פון באניצן</a> פֿאר פרטים.',
 	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [//wikimediafoundation.org/wiki/Terms_of_Use תנאים פון באניץ] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 איר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.',
-	'wikimedia-editpage-tos-summary' => "אז איר ווילט נישט מ'זאל רעדאקטירן און פארשפרייטן דיין שרייבארבעט ווייטער, זאלט איר זי נישט איינגעבן דא.
-אויב איר האט דאס נישט אליין געשריבן, מוז עס זיין פֿאראן אונטער [//wikimediafoundation.org/wiki/Terms_of_Use ניצבאדינגען], און איר זענט מסכים צו פֿאלגן די שייכדיגן פאדערונגען פונעם ליצענץ.",
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
+	'upload-more-photos-of-this-monument' => 'ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט',
 );
 
 /** Yoruba (Yorùbá)
