@@ -19,6 +19,13 @@ $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'wikimediamessages-desc' => 'Mensaxes temporales específicos de Wikimedia',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Wizardist
  */
