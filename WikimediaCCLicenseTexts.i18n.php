@@ -217,6 +217,7 @@ $messages['en'] = array(
  * @author Quibik
  * @author SMP
  * @author SPQRobin
+ * @author Shirayuki
  * @author Siebrand
  * @author Umherirrender
  */
@@ -408,7 +409,8 @@ An interwiki link that will work within Wikimedia projects and lead to a wiki pa
 	'wm-license-cc-free-to-remix-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-conditions' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-conditions-attribution-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
-	'wm-license-cc-conditions-attribution-text' => 'See http://creativecommons.org/licenses/by/3.0/ on how this is used.',
+	'wm-license-cc-conditions-attribution-text' => '{{doc-singularthey}}
+See http://creativecommons.org/licenses/by/3.0/ on how this is used.',
 	'wm-license-cc-conditions-share_alike-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-conditions-share_alike-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-pd-mark-link' => '{{optional}}',
