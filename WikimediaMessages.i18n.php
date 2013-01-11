@@ -7834,7 +7834,7 @@ $messages['ko'] = array(
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
-	'wikimedia-translationnotifications-signup-legal' => '당신은 이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 당신의 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
+	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
 );
 
@@ -10972,6 +10972,7 @@ Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos c
  * @author Nemo bis
  * @author Rafael Vargas
  * @author Sir Lestaty de Lioncourt
+ * @author Teles
  * @author 555
  */
 $messages['pt-br'] = array(
@@ -11041,7 +11042,7 @@ $messages['pt-br'] = array(
 	'group-interface_editor' => 'Editores de interface',
 	'group-interface_editor-member' => '{{GENDER:$1|editor|editora}} de interface',
 	'grouppage-interface_editor' => '{{ns:project}}: Editores de interface',
-	'group-ipblock-exempt' => 'IPs não bloqueados',
+	'group-ipblock-exempt' => 'Isenções de bloqueio IP',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|isento|isenta}} de bloqueio de  IP',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP não bloqueado',
 	'group-patroller' => 'Patrulhadores',
@@ -11087,7 +11088,6 @@ pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
 	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [//wikimediafoundation.org/wiki/Terms_of_use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [//creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Se você não quer que a sua escrita seja editada e redistribuída, por favor, não a submeta aqui. Se você não escreveu este conteúdo, ele deverá estar disponível segundo condições consistentes com as [//wikimediafoundation.org/wiki/Terms_of_Use Condições de Uso] e você concorda em seguir quaisquer requerimentos de licenciamento relevantes.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
 );
 
@@ -15677,7 +15677,7 @@ $messages['zh-hant'] = array(
 	'group-Ombudsmen' => '申訴專員',
 	'group-Ombudsmen-member' => '{{GENDER:$1|申訴專員}}',
 	'group-Staff' => '職員',
-	'group-Staff-member' => '職員', # Fuzzy
+	'group-Staff-member' => '{{GENDER:$1|職員}}',
 	'grouppage-Staff' => 'Foundation:職員',
 	'group-editinterface' => '界面編輯者',
 	'group-editinterface-member' => '{{GENDER:$1|界面編輯者}}',
