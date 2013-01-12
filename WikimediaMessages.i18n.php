@@ -258,7 +258,7 @@ $messages['qqq'] = array(
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.
 
 {{Identical|Donate}}",
-	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg|sitesupport}} link in the sidebar.',
+	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg-mw|sitesupport}} link in the sidebar.',
 	'sidebar' => '{{notranslate}}',
 	'robots.txt' => '{{notranslate}}',
 	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Creator:Heinrich_Hoerle Example])',
