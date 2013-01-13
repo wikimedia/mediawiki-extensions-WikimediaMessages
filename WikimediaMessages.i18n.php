@@ -1520,8 +1520,10 @@ $messages['azb'] = array(
 	'grouppage-autoreviewer' => '{{ns:project}}:اوتوماتیک گؤزدن گئچیردنلر',
 	'group-bigexport' => 'یئکه ائشیگه چیخاردانلار',
 	'group-bigexport-member' => '{{GENDER:$1|یئکه ائشیگه چیخاردان}}',
-	'group-botadmin-member' => '{{GENDER:$1|ایداره‌چی حقوقونا مالیک بوت}}',
-	'grouppage-botadmin' => '{{ns:projec}}:ایداره‌چی حقوقو اولان بوت', # Fuzzy
+	'grouppage-bigexport' => '{{ns:project}}:یئکه ائشیگه چیخاردانلار',
+	'group-botadmin' => 'ایداره‌چی حاقلاری اولان بوتلار',
+	'group-botadmin-member' => '{{GENDER:$1|ایداره‌چی حاقلاری اولان بوت}}',
+	'grouppage-botadmin' => '{{ns:project}}:ایداره‌چی حاقلاری اولان بوتلار',
 	'group-confirmed' => 'دوغرولانمیش ایستیفاده‌چی‌لر',
 	'group-confirmed-member' => '{{GENDER:$1|تصدیقلنمیش ایستیفاده‌چی}}',
 	'grouppage-confirmed' => '{{ns:project}}:دوغرولانمیش ایستیفاده‌چی‌لر',
@@ -1573,9 +1575,11 @@ $messages['azb'] = array(
 	'group-inactive' => 'غیر فعال ایستیفاده‌چی‌لر',
 	'group-inactive-member' => '{{GENDER:$1|غیر فعال ایستفاده‌چی‌لر}}',
 	'grouppage-inactive' => '{{ns:project}}:غیر فعال ایستفاده‌چی‌لر',
-	'wikimedia-copyright' => 'یازی <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike لیسانسی</a>آلتیندا‌دیر؛
-آرتیق شرط‌لر آرتیریلا بیلر.
+	'wikimedia-copyright' => 'یازی <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike لیسانسی</a> آلتیندا‌دیر؛
+آرتیق شرطلر آرتیریلا بیلر.
 آرتیق بیلگیلر اوچون <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ایستیفاده شرطلرینه</a> باخین.',
+	'cant-delete-main-page' => 'آنا صحیفه‌سینی سیلیب یا آپارا بیلنمزسینیز.',
+	'upload-more-photos-of-this-monument' => 'بو عابیده‌دن آرتیق شکیل‌لر یوکله',
 );
 
 /** Bashkir (башҡортса)
