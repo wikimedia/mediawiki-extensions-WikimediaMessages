@@ -11199,6 +11199,7 @@ $messages['nl'] = array(
 $messages['nn'] = array(
 	'wm-license-cc-wiki-link' => 'w:nn:Creative Commons',
 	'wm-license-cc-attribution' => 'Namngjeving',
+	'wm-license-cc-by-3.0-text' => 'Fila er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.en Namngjeving 3.0 Unported].',
 	'wm-license-cc-free' => 'Du står fritt til å:',
 	'wm-license-cc-free-to-share-header' => 'til å dela',
 	'wm-license-cc-free-to-share-text' => 'til å kopiera, distibuera og overføra arbeidet',

@@ -2001,6 +2001,7 @@ $messages['da'] = array(
  * @author B1mbo
  * @author ChrisiPK
  * @author CygnusOlor
+ * @author Didym
  * @author Geitost
  * @author Guillom
  * @author Kghbln
@@ -2103,8 +2104,8 @@ Siehe dazu die [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] und [{{int:wm
 	'wm-license-pd-author-self-text' => "Ich, der Urheberrechtsinhaber dieses Werkes, veröffentliche es als '''[[{{int:wm-license-pd-wiki-link}}|gemeinfrei]].''' Dies gilt weltweit.",
 	'wm-license-pd-author-with-author-text' => "Dieses Werk wurde von seinem Urheber '''$1''' als '''[[{{int:wm-license-pd-wiki-link}}|gemeinfrei]]''' veröffentlicht. Dies gilt weltweit.",
 	'wm-license-pd-author-not-legally-possible' => 'In manchen Staaten könnte dies rechtlich nicht möglich sein. Sofern dies der Fall ist:',
-	'wm-license-pd-author-self-any-purpose' => "Ich gewähre jedem das bedingungslose Recht, dieses Werk für '''jedweden Zweck''' zu nutzen, es sei denn Bedingungen sind gesetzlich erforderlich.",
-	'wm-license-pd-author-with-author-any-purpose' => "$1 gewährt jedem das bedingungslose Recht, dieses Werk für '''jedweden Zweck''' zu nutzen, es sei denn Bedingungen sind gesetzlich erforderlich.",
+	'wm-license-pd-author-self-any-purpose' => "Ich gewähre jedem das bedingungslose Recht, dieses Werk für '''jedweden Zweck''' zu nutzen, es sei denn, Bedingungen sind gesetzlich erforderlich.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 gewährt jedem das bedingungslose Recht, dieses Werk für '''jedweden Zweck''' zu nutzen, es sei denn, Bedingungen sind gesetzlich erforderlich.",
 	'wm-license-pd-usgov-wiki-link' => 'w:de:Bundesregierung (Vereinigte Staaten)',
 	'wm-license-pd-usgov-fema-text' => "Diese Datei ist ein Werk eines Mitglieds der ''[[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]],'' aufgenommen oder erstellt während der Ausführung seiner Dienstpflichten. Als [[{{int:wm-license-pd-usgov-work-wiki-link}}|Werk]] der [[{{int:wm-license-pd-usgov-wiki-link}}|US-ame­ri­ka­nischen Bundesregierung]] ist diese Datei '''[[{{int:wm-license-pd-wiki-link}}|gemeinfrei]].'''",
 	'wm-license-pd-usgov-military-text' => "Diese Datei ist ein Werk eines Mitglieds des [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|US-Militärs]] oder [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Verteidigungsministeriums der Vereinigten Staaten]], aufgenommen oder erstellt während der Ausführung seiner Dienstpflichten. Als [[{{int:wm-license-pd-usgov-work-wiki-link}}|Werk]] der [[{{int:wm-license-pd-usgov-wiki-link}}|US-Bundesregierung]] ist diese Datei '''[[{{int:wm-license-pd-wiki-link}}|gemeinfrei]]'''.",
@@ -6686,9 +6687,9 @@ $messages['nn'] = array(
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:nn:United States Army',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:nn:United States Navy',
 	'wm-license-pd-wiki-link' => 'w:nn:Offentleg eigedom',
-	'wm-license-self-one-license' => 'Eg, opphavspersonen til dette verket, publiserer det hermed under følgjande lisens:',
+	'wm-license-self-one-license' => 'Eg, opphavspersonen til verket, publiserer det hermed under denne lisensen:',
 	'wm-license-self-one-license-with-author' => '$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisens:',
-	'wm-license-self-multiple-licenses' => 'Eg, opphavspersonen til dette verket, publiserer det hermed under følgjande lisensar:',
+	'wm-license-self-multiple-licenses' => 'Eg, opphavspersonen til verket, publiserer det hermed under desse lisensane:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisensar:',
 	'wm-license-self-multiple-licenses-select' => 'Du kan velje den lisensen du sjølv tykkjer er best.',
 );
@@ -6743,6 +6744,7 @@ $messages['oc'] = array(
 
 /** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
+ * @author Jnanaranjan Sahu
  * @author Odisha1
  * @author Psubhashish
  */
@@ -6817,6 +6819,12 @@ $messages['or'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'କେତେକ ଦେଶରେ ଏହା ନ୍ୟାୟମତେ ଅନୁମୋଦିତ ହୋଇନପାରେ, ଯଦି ସେମିତି ହୁଏ:',
 	'wm-license-pd-author-self-any-purpose' => "ମୁଁ, ଯେ ପର୍ଯ୍ୟନ୍ତ ଆଇନରେ କିଛି ସର୍ତ୍ତ ଦରକାର ନ ପଡ଼େ ସେ ପର୍ଯ୍ୟନ୍ତ ସଭିଙ୍କୁ '''କୌଣସି ବି ଉଦ୍ଦେଶ୍ୟରେ''' ଏହ କାମଟିକୁ ନିସର୍ତ୍ତ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦେଉଛି ।",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 ଯେ ପର୍ଯ୍ୟନ୍ତ ଆଇନରେ କିଛି ସର୍ତ୍ତ ଦରକାର ନ ପଡ଼େ ସେ ପର୍ଯ୍ୟନ୍ତ ସଭିଙ୍କୁ '''କୌଣସି ବି ଉଦ୍ଦେଶ୍ୟରେ''' ଏହ କାମଟିକୁ ନିସର୍ତ୍ତ ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦେଉଛନ୍ତି ।",
+	'wm-license-pd-usgov-fema-text' => "ଏହି ଫାଇଲଟି [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]]ର ଜଣେ କର୍ମଚାରୀଙ୍କ କାମ, ଯାହାକି ସେହି କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟକାରୀ ସମୟ ମଧ୍ୟରେ କରାଯାଇଛି କିମ୍ବା ଅଣାଯାଇଛି ।[[{{int:wm-license-pd-usgov-wiki-link}}|ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ସରକାର]]ଙ୍କ [[{{int:wm-license-pd-usgov-work-wiki-link}}|କାମ]] ଅନୁଯାୟୀ, ଏହି ଫାଇଲଟି '''[[{{int:wm-license-pd-wiki-link}}|ଜନସାଧାରଣଙ୍କ ଅବଗତିରେ]]'''ରେ ରଖାଯାଇଛି ।",
+	'wm-license-pd-usgov-military-text' => "ଏହି ଫାଇଲଟି [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|U.S. military]]ର କିମ୍ବା [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Department of Defense]]ର ଜଣେ କର୍ମଚାରୀଙ୍କ କାମ, ଯାହାକି ସେହି କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟକାରୀ ସମୟ ମଧ୍ୟରେ କରାଯାଇଛି କିମ୍ବା ଅଣାଯାଇଛି ।[[{{int:wm-license-pd-usgov-wiki-link}}|ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ସରକାର]]ଙ୍କ [[{{int:wm-license-pd-usgov-work-wiki-link}}|କାମ]]ଅନୁଯାୟୀ, ଏହି ଫାଇଲଟି '''[[{{int:wm-license-pd-wiki-link}}|ଜନସାଧାରଣଙ୍କ ଅବଗତିରେ]]'''ରେ ରଖାଯାଇଛି ।",
+	'wm-license-pd-usgov-military-air-force-text' => "ଏହି ଫାଇଲଟି [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|U.S. Air Force]]ର ଜଣେ କର୍ମଚାରୀ କିମ୍ବା ଯନ୍ତ୍ରୀଙ୍କ କାମ, ଯାହାକି ସେହି କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟକାରୀ ସମୟ ମଧ୍ୟରେ କରାଯାଇଛି କିମ୍ବା ଅଣାଯାଇଛି ।[[{{int:wm-license-pd-usgov-wiki-link}}|ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ସରକାର]]ଙ୍କ [[{{int:wm-license-pd-usgov-work-wiki-link}}|କାମ]] ଅନୁଯାୟୀ, ଏହି ଫାଇଲଟି '''[[{{int:wm-license-pd-wiki-link}}|ଜନସାଧାରଣଙ୍କ ଅବଗତିରେ]]'''ରେ ଅଛି ।",
+	'wm-license-pd-usgov-military-army-text' => "ଏହି ଫାଇଲଟି [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|U.S. Army]]ର ଜଣେ କର୍ମଚାରୀ କିମ୍ବା ସୈନ୍ୟଙ୍କ କାମ, ଯାହାକି ସେହି କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟକାରୀ ସମୟ ମଧ୍ୟରେ କରାଯାଇଛି କିମ୍ବା ଅଣାଯାଇଛି ।[[{{int:wm-license-pd-usgov-wiki-link}}|ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ସରକାର]]ଙ୍କ [[{{int:wm-license-pd-usgov-work-wiki-link}}|କାମ]] ଅନୁଯାୟୀ, ଏହି ଫାଇଲଟି '''[[{{int:wm-license-pd-wiki-link}}|ଜନସାଧାରଣଙ୍କ ଅବଗତିରେ]]'''ରେ ରଖାଯାଇଛି ।",
+	'wm-license-pd-usgov-military-navy-text' => "ଏହି ଫାଇଲଟି [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|U.S. Navy]]ର ଜଣେ ନାବିକ କିମ୍ବା କର୍ମଚାରୀଙ୍କ କାମ, ଯାହାକି ସେହି କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟକାରୀ ସମୟ ମଧ୍ୟରେ କରାଯାଇଛି କିମ୍ବା ଅଣାଯାଇଛି ।[[{{int:wm-license-pd-usgov-wiki-link}}|ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ସରକାର]]ଙ୍କ [[{{int:wm-license-pd-usgov-work-wiki-link}}|କାମ]] ଅନୁଯାୟୀ, ଏହି ଫାଇଲଟି '''[[{{int:wm-license-pd-wiki-link}}|ଜନସାଧାରଣଙ୍କ ଅବଗତିରେ]]'''ରେ ରଖାଯାଇଛି ।",
+	'wm-license-pd-usgov-noaa-text' => "ଏହି ଫାଇଲଟି [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]]ର ଜଣେ କର୍ମଚାରୀଙ୍କ କାମ, ଯାହାକି ସେହି କର୍ମଚାରୀଙ୍କ କାର୍ଯ୍ୟକାରୀ ସମୟ ମଧ୍ୟରେ କରାଯାଇଛି କିମ୍ବା ଅଣାଯାଇଛି ।[[{{int:wm-license-pd-usgov-wiki-link}}|ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା ସରକାର]]ଙ୍କ [[{{int:wm-license-pd-usgov-work-wiki-link}}|କାମ]]  ଅନୁଯାୟୀ, ଏହି ଫାଇଲଟି '''[[{{int:wm-license-pd-wiki-link}}|ଜନସାଧାରଣଙ୍କ ଅବଗତିରେ]]'''ରେ ରଖାଯାଇଛି ।",
 	'wm-license-self-one-license' => 'ମୁଁ, ଏହି କାମର ସତ୍ଵାଧିକାରୀ, ଏଠାରେ ତଳଲିଖିତ ଲାଇସେନ୍ସ ଅଧୀନରେ ଏହାକୁ ପ୍ରକାଶ କଲି:',
 	'wm-license-self-one-license-with-author' => '$1, ଏହି କାମର ସତ୍ଵାଧିକାରୀ, ଏଠାରେ ତଳଲିଖିତ ଲାଇସେନ୍ସ ଅଧୀନରେ ଏହାକୁ ପ୍ରକାଶ କଲେ:',
 	'wm-license-self-multiple-licenses' => 'ମୁଁ, ଏହି କାମର ସତ୍ଵାଧିକାରୀ, ଏଠାରେ ତଳଲିଖିତ ଲାଇସେନ୍ସ ଅଧୀନରେ ଏହାକୁ ପ୍ରକାଶ କଲି:',

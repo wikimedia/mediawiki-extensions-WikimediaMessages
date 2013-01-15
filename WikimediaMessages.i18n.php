@@ -10142,6 +10142,7 @@ $messages['oc'] = array(
 
 /** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
+ * @author Jnanaranjan Sahu
  * @author Jose77
  * @author Nemo bis
  * @author Odisha1
@@ -10219,6 +10220,7 @@ $messages['or'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP ଅଟକ ଛାଡ଼',
 	'group-patroller' => 'ପହରାଦାର',
 	'group-patroller-member' => '{{GENDER:$1|ପହରାଦାର}}',
+	'grouppage-patroller' => '{{ns:project}}:ନିରୀକ୍ଷଣକାରୀ',
 	'group-researcher' => 'ଗବେଷକଗଣ',
 	'group-researcher-member' => '{{GENDER:$1|ଗବେଷକ}}',
 	'grouppage-researcher' => '{{ns:project}}:ଗବେଷଣାକାରୀ',
@@ -10248,6 +10250,16 @@ $messages['or'] = array(
 	'group-steward-member' => '{{GENDER:$1|ଷ୍ଟିୱାର୍ଡ}}',
 	'group-sysadmin' => 'ସିଷ୍ଟମ ପରିଚାଳକ',
 	'group-sysadmin-member' => '{{GENDER:$1|ସିଷ୍ଟମ ପରିଚାଳକ}}',
+	'group-API_High_Limit_Requestor' => 'ଉଚ୍ଚସୀମା ଅନୁରୋଧକାରୀ API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|ଉଚ୍ଚସୀମା ଅନୁରୋଧକାରୀ API }}',
+	'group-Indic_Bots' => 'ଇଣ୍ଡିକ ବଟ୍ସ',
+	'group-Indic_Bots-member' => '{{GENDER:$1|ଇଣ୍ଡିକ ବଟ}}',
+	'group-New_wikis_importer' => 'ନୂଆ ଉଇକିଗୁଡିକର ଆମଦାନୀ କର୍ତ୍ତା',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|ନୂଆ ଉଇକିଗୁଡିକର ଆମଦାନୀ କର୍ତ୍ତା}}',
+	'group-global-ipblock-exempt' => 'ଜାଗତିକ IP ଅଟକ ଛାଡକାରୀ',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|ଜାଗତିକ IP ଅଟକ ଛାଡକାରୀ}}',
+	'group-recursive-export' => 'ବାରମ୍ବାର ରପ୍ତାନି',
+	'group-recursive-export-member' => '{{GENDER:$1|ବାରମ୍ବାର ରପ୍ତାନି କର୍ତ୍ତା}}',
 	'group-translationadmin' => 'ଅନୁବାଦ ପରିଚାଳକଗଣ',
 	'group-translationadmin-member' => '{{GENDER:$1|ଅନୁବାଦ ପରିଚାଳକ}}',
 	'grouppage-translationadmin' => '{{ns:project}}:ଅନୁବାଦ ପରିଚାଳକଗଣ',
@@ -10262,9 +10274,9 @@ $messages['or'] = array(
 ଅଧିକ ଜାଣିବା ପାଇଁ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" ବୋତାମ ଚିପିବା ପରେ, ଆପଣ [//wikimediafoundation.org/wiki/Terms_of_use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ଆପଣ ସିଧାସଳଖ ଆପଣା ଅବଦାନ [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ୩.୦ ଲାଇସେନ୍ସ]ଓ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]ରେ ଦାନ କଲେ ।
 ଆପଣ ଏକ ହାଇପରଲିଙ୍କ ବା URL କ୍ରିଏଟିଭ କମନ୍ସ ଲାଇସେନ୍ସ ଅଧିନରେ ଦାନ କରିବାକୁ ରାଜି ହେଲେ ।',
-	'wikimedia-editpage-tos-summary' => 'ଯଦି ଆପଣ ନିଜ ଲେଖାକୁ ଆଉ କେହି ବଦଳାଇବା ବା ଆଉଥରେ ବାଣ୍ଟିବା ଚାହୁଁନାହାନ୍ତି ତେବେ ଏଠାରେ ତାହା ଲେଖନ୍ତୁ ନାହିଁ ।
-ଯଦି ଆପଣ ନିଜେ ଏହା ଲେଖି ନାହାନ୍ତି ତେବେ ତେବେ ଏହା ନିହାତି [//wikimediafoundation.org/wiki/Terms_of_Use ଉଇକିମିଡ଼ିଆର ନିୟମ] ଭିତରେ ଆସିବ, ଆଉ ଆପଣ ସବୁ ଲାଇସେନ୍ସର ଦରକାରୀ ସର୍ତ୍ତକୁ ମଣିବାକୁ ରାଜିହୋଇଛନ୍ତି ।',
 	'cant-delete-main-page' => 'ଆପଣ ପ୍ରଧାନ ପୃଷ୍ଠାଟିକୁ ଲିଭାଇ ବା ଘୁଞ୍ଚାଇ ପାରିବେ ନାହିଁ ।',
+	'wikimedia-translationnotifications-signup-legal' => 'ଉଇକିମେଡିଆ ସଙ୍ଗଠନକୁ ଏହି ତଥ୍ୟ ପ୍ରଦାନକରି ଆପଣ ଏଥିରେ ସହମତ ଯେ ଆମେ ଆପଣଙ୍କୁ ଅନୁବାଦ କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଉଇକିମେଡିଆ ଗତିବିଧି ପାଇଁ ଯୋଗାଯୋଗ କରିପାରୁ, ଆମେ ଭାବୁଛୁ ଆପଣଙ୍କୁ ଭଲ ଲାଗିବ । ଆପଣ ଏଥିରେ ମଧ୍ୟ ସହମତ ଯେ ଆପଣଙ୍କ ତଥ୍ୟ ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକାରେ ସାଇତା ହୋଇ ରହିବ ଏବଂ [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy] ସହ ବିଷୟ ଭୁକ୍ତ ହେବ ।',
+	'upload-more-photos-of-this-monument' => 'ଏହି କୀର୍ତ୍ତିରାଜିର ଆହୁରି ଅଧିକ ଛବି ଅପଲୋଡ କରିବେ',
 );
 
 /** Ossetic (Ирон)
