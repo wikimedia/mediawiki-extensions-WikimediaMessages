@@ -2270,6 +2270,7 @@ $messages['ee'] = array(
 );
 
 /** Greek (Ελληνικά)
+ * @author Badseed
  * @author Crazymadlover
  * @author Diebuche
  * @author Flyax
@@ -2290,7 +2291,7 @@ $messages['el'] = array(
 	'wm-license-artwork-medium' => 'Τεχνική',
 	'wm-license-artwork-dimensions' => 'Διαστάσεις',
 	'wm-license-artwork-current-location' => 'Σημερινή θέση',
-	'wm-license-artwork-object-history' => 'ΙΣτορικό αντικειμένου',
+	'wm-license-artwork-object-history' => 'Ιστορικό αντικειμένου',
 	'wm-license-artwork-credit-line' => 'Πιστωτική γραμμή',
 	'wm-license-artwork-references' => 'Παραπομπές',
 	'wm-license-artwork-inscriptions' => 'Επιγραφές',
@@ -9680,6 +9681,7 @@ $messages['ur'] = array(
 
 /** vèneto (vèneto)
  * @author Candalua
+ * @author GatoSelvadego
  * @author Vajotwo
  */
 $messages['vec'] = array(
@@ -9687,20 +9689,31 @@ $messages['vec'] = array(
 	'wm-license-attribution-with-author-text' => "El detentor del copyright de sto file, $1, el ghe parmete a chiunque de dopararlo '''par qualsiasi scopo, a condission che''' el detentore del copyright el vegna riconossùo come tale. Xe consentìa la redistribussion, le òpare derivàe, la modifica, l'uso comercial ed ogni altro uso.",
 	'wm-license-attribution-without-author-text' => "El detentor del copyright de sto file el ghe parmete a chiunque de dopararlo '''par qualsiasi scopo, a condission che''' el detentore del copyright el vegna riconossùo come tale. Xe consentìa la redistribussion, le òpare derivàe, la modifica, l'uso comercial ed ogni altro uso.",
 	'wm-license-artwork-artist' => 'Artista',
+	'wm-license-artwork-title' => 'Titoło',
 	'wm-license-artwork-medium' => 'Tènica',
 	'wm-license-artwork-dimensions' => 'Dimensioni',
 	'wm-license-artwork-current-location' => 'Dove el xe',
+	'wm-license-artwork-object-history' => 'Proveniensa',
 	'wm-license-artwork-credit-line' => 'Dati de aquisission',
 	'wm-license-artwork-references' => 'Riferimenti',
 	'wm-license-artwork-inscriptions' => 'Iscrission',
 	'wm-license-artwork-notes' => 'Note',
 	'wm-license-artwork-id' => 'Nùmaro de inventario',
 	'wm-license-artwork-source' => 'Fonte/Fotografo',
+	'wm-license-book-edition' => 'Edision',
+	'wm-license-book-editor' => 'Editor',
+	'wm-license-book-illustrator' => 'Ilustrador',
 	'wm-license-book-language' => 'Lengua',
 	'wm-license-book-page-overview' => 'Lista de le pagine',
 	'wm-license-book-place-of-publication' => 'Logo de publicassion',
+	'wm-license-book-printer' => 'Stanpador',
 	'wm-license-book-publisher' => 'Editor',
+	'wm-license-book-series-title' => 'Serie',
+	'wm-license-book-start-this-book' => 'Taca el libro',
+	'wm-license-book-subtitle' => 'Sototitoło',
 	'wm-license-book-title' => 'Titolo',
+	'wm-license-book-translator' => 'Tradutor',
+	'wm-license-book-volume' => 'Vołume',
 	'wm-license-book-year-of-publication' => 'Ano de publicassion',
 	'wm-license-cecill-text' => "St'opera la xe [[{{int:wm-license-free-software-wiki-link}}|software libaro]], se pole redistribuirlo o modificarlo secondo i termini de la [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. I termini de la licensa CeCILL i se cata presso [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	'wm-license-creator-alternative-names' => 'Altri nomi',
