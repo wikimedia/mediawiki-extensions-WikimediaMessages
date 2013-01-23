@@ -5311,6 +5311,10 @@ $messages['gl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'wikimedia-copyright' => 'Todo o texto está dispoñible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pódense aplicar termos adicionais. Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl">termos de uso</a> para obter máis información.',
+	'wikidata-copyright' => 'Todos os datos estruturados dos espazos de nomes principal e de propiedade están dispoñibles baixo a <a href="//creativecommons.org/publicdomain/zero/1.0/deed.gl" title="Definición da licenza Creative Commons CC0">licenza Creative Commons CC0</a>;
+o texto presente no resto de espazos de nomes está dispoñible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl" title="Definición da licenza Creative Commons recoñecemento compartir igual">licenza Creative Commons recoñecemento compartir igual</a>;
+pódense aplicar termos adicionais.
+Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl" title="Termos de uso da Fundación Wikimedia">termos de uso</a> para obter máis información.',
 	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
 Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
@@ -8854,10 +8858,12 @@ $messages['mk'] = array(
 	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.
 Може да важат и дополнителни услови.
 Повеќе информации ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Услови_на_употреба">Услови на употреба</a>.',
+	'wikidata-copyright' => 'Сите структурирани податоци од именските простори „главен“ и „својство“ се достапни под лиценцата <a href="//https://creativecommons.org/publicdomain/zero/1.0/deed.mk" title="Уредби на лиценцата Криејтив комонс CC0">Кријетив комонс CC0</a>;
+текстот и останатите именски простори се достапни под лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk" title="Уредби на лиценцата Криејтив комонс Наведи извор/Сподели под исти услови">Криејтив комонс Наведи извор/Сподели под исти услови</a>;
+може да важат и дополнителни услови.
+Повеќе ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Terms_of_Use/mk" title="Услови на употреба на Фондацијата Викимедија">Услови на употреба</a>.',
 	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [//wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [//creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
-	'wikimedia-editpage-tos-summary' => 'Доколку не сакате Вашиот текст да биде слободно уредуван и распространуван, тогаш не поднесувајте го овде.
-Ако Вие не сте автор на текстов, тогаш тој мора да биде достапен под услови складни на [//wikimediafoundation.org/wiki/Услови_на_употреба Условите на употреба], а Вие се согласувате дека ќе се придржувате до сите услови за лиценцирање.',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
