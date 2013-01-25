@@ -7841,8 +7841,14 @@ $messages['ko'] = array(
 	'group-inactive-member' => '{{GENDER:$1|활동하지 않는 사용자}}',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자',
 	'shared-repo-name-shared' => '위키미디어 공용',
-	'wikimedia-copyright' => '모든 문서는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a href="//wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD">이용 규약</a>을 참고하십시오.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/%EC%9D%B4%EC%9A%A9_%EA%B7%9C%EC%95%BD 이용 규약]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0]과 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
+	'wikimedia-copyright' => '모든 문서는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+추가적인 조건이 적용될 수 있습니다.
+자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use">이용 약관</a>을 참고하십시오.',
+	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="//creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼스 CC0 라이선스</a>에 따라 사용할 수 있고
+다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이디브 커먼스 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+추가적인 조건이 적용될 수 있습니다.
+자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/Terms_of_use 이용 약관]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
 	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
@@ -10929,7 +10935,7 @@ $messages['pt'] = array(
 	'group-interface_editor-member' => '{{GENDER:$1|editor da interface|editora da interface}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Editores da interface',
 	'group-ipblock-exempt' => 'Isenções de bloqueio IP',
-	'group-ipblock-exempt-member' => '{{GENDER:$1|isento de bloqueio IP|isenta de bloqueio IP}}',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|isento|isenta}} de bloqueio IP',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Isenção de bloqueio IP',
 	'group-patroller' => 'Patrulhadores',
 	'group-patroller-member' => '{{GENDER:$1|patrulhador|patrulhadora}}',
@@ -10977,8 +10983,6 @@ pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
 	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", aceita as [//wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso] e concorda de forma irrevogável em publicar as suas contribuições com as licenças [//creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que um link ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Se não quiser que o seu texto seja editado e redistribuído, não o submeta aqui, por favor.
-Se não é o autor do texto, o mesmo deverá ter sido publicado segundo termos consistentes com as [//wikimediafoundation.org/wiki/Condições_de_Uso Condições de Uso] e você concorda em seguir quaisquer condições de licenciamento relevantes.',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
 );
 
@@ -14461,6 +14465,7 @@ $messages['ug-latn'] = array(
  * @author Platonides
  * @author Prima klasy4na
  * @author Riwnodennyk
+ * @author Ата
  * @author Тест
  */
 $messages['uk'] = array(
@@ -14584,8 +14589,13 @@ $messages['uk'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
 	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
+	'wikidata-copyright' => 'Усі структуровані дані з основного простору назв і простору власності доступні під ліцензією <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
+текст інших просторів назв доступний під ліцензією <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
+можуть застосовуватись додаткові умови.
+Див. детальніше <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [//wikimediafoundation.org/wiki/Terms_of_use умовами використання], а також на невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
+	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
 );
 
