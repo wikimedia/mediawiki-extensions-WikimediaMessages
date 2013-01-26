@@ -463,14 +463,14 @@ $messages['ab'] = array(
 
 /** Achinese (Acèh)
  * @author Andri.h
+ * @author Nemo bis
  * @author Si Gam Acèh
  */
 $messages['ace'] = array(
 	'sitesupport' => 'Meuripè',
 	'tooltip-n-sitesupport' => 'Dukông kamoë',
-	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], ngön droëneuh ngön h\'an jeuët neupubateuë lé, akô keu neupeuteubiët teunuléh droëneuh di yup [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 Lisensi] ngön [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], ngön droëneuh ngön h\'an jeuët neupubateuë lé, akô keu neupeuteubiët teunuléh droëneuh di yup [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Lisensi] ngön [//www.gnu.org/copyleft/fdl.html GFDL].
 Droëneuh akô meunyö hyperlink atawa URL nakeuh neuhubông nyang sép di yup lisensi Creative Commons.',
-	'wikimedia-editpage-tos-summary' => "Meunyö droëneuh hana meuh'eut teunuléh droëneuh geuandam ngön geupeusipreuëk keulayi meunyö peureulèë, bèk neupeu'ét teunuléh droëneuh keunoë. Meunyö droëneuh hana neutuléh keudroë, teunuléh nyoë suwah/harôih na lam neuatô nyang akô ngön [//wikimediafoundation.org/wiki/Terms_of_Use Neuatô Neunguy], ngön droëneuh akô keu neuseutöt ban dum carat idin nyang patôt.",
 );
 
 /** Afrikaans (Afrikaans)
@@ -800,9 +800,8 @@ $messages['an'] = array(
 	'wikimedia-copyright' => 'O texto ye disponible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/">Licencia Creative Commons Atribución/Compartir-Igual</a>;
 talment sigan d\'aplicación clausulas adicionals.
 Mire-se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">os termins d\'uso</a> ta conoixer más detalles.',
-	'wikimedia-copyrightwarning' => "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [//wikimediafoundation.org/wiki/Terms_of_use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [//creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License Licencia GFDL].
+	'wikimedia-copyrightwarning' => "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [//wikimediafoundation.org/wiki/Terms_of_use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [//creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [//www.gnu.org/copyleft/fdl.html Licencia GFDL].
 Tamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribución suficient baixo a licencia Creative Commons.",
-	'wikimedia-editpage-tos-summary' => "Si no deseya que os suyos escritos sigan editatos y redistribuyitos librement, alavez no los alce aquí. Si o texto no lo ha escrito vusté, ha d'estar disponible baixo as condicions especificadas en [//wikimediafoundation.org/wiki/Terms_of_Use as condicions d'utilización] y vusté accepta seguir qualsiquier requesta que li siga desichita en relación a las licencias.",
 	'cant-delete-main-page' => 'No puede borrar ni mover a pachina prencipal.',
 );
 
@@ -1105,6 +1104,7 @@ $messages['arz'] = array(
  * @author Bishnu Saikia
  * @author Chaipau
  * @author Gitartha.bordoloi
+ * @author Nemo bis
  * @author Nilamdyuti
  * @author Psneog
  * @author Rajuonline
@@ -1226,7 +1226,7 @@ $messages['as'] = array(
 	'wikimedia-copyright' => 'লিখনিসমূহ<a href="//creativecommons.org/licenses/by-sa/3.0/">ক্ৰিয়েটিভ কমন্স এট্ৰিবিউশ্যন/শ্বেয়াৰ-এলাইক অনুজ্ঞাপত্ৰৰ</a> আওতাভুক্ত;
 ইয়াৰ লগত অনান্য পদ প্ৰযোজ্য হ’ব পাৰে।
  <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ব্যৱহাৰৰ চৰ্তাৱলীত</a> বিস্তাৰিত ভাবে চাওক।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বুটাম ক্লিক কৰি আপুনি [//wikimediafoundation.org/wiki/Terms_of_use ব্যৱহাৰৰ চৰ্ত্তসমূহত] সন্মতি প্ৰকাশ কৰিছে আৰু এই বিষয়ে সন্মত হৈছে যে আপোনাৰ বৰঙণি ক্ৰিয়েটিভ কমন্স [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA ৩.০ অনুজ্ঞাপত্ৰ] আৰু [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License জি.এফ.ডি.এল.]ৰ অধীনত মুকলি কৰা হ\'ব। আপুনি সন্মত হৈছে যে ক্ৰিয়েটিভ কমন্স লাইছেন্সৰ অধীনত এট্ৰিবিউছনৰ বাবে হাইপাৰলিঙ্ক বা ইউ.আৰ.এল. উল্লেখেই যথেষ্ট।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বুটাম ক্লিক কৰি আপুনি [//wikimediafoundation.org/wiki/Terms_of_use ব্যৱহাৰৰ চৰ্ত্তসমূহত] সন্মতি প্ৰকাশ কৰিছে আৰু এই বিষয়ে সন্মত হৈছে যে আপোনাৰ বৰঙণি ক্ৰিয়েটিভ কমন্স [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ৩.০ অনুজ্ঞাপত্ৰ] আৰু [//www.gnu.org/copyleft/fdl.html জি.এফ.ডি.এল.]ৰ অধীনত মুকলি কৰা হ\'ব। আপুনি সন্মত হৈছে যে ক্ৰিয়েটিভ কমন্স লাইছেন্সৰ অধীনত এট্ৰিবিউছনৰ বাবে হাইপাৰলিঙ্ক বা ইউ.আৰ.এল. উল্লেখেই যথেষ্ট।',
 	'cant-delete-main-page' => 'মূল পৃষ্ঠাখন আপুনি বিলোপ বা স্থানান্তৰ কৰিব নোৱাৰে',
 	'wikimedia-translationnotifications-signup-legal' => 'আপুনি ৱিকিমিডিয়া সংগঠনক এই তথ্য প্ৰদান কৰি এই কথাত মান্তি হৈছে যে আমি আপোনাক অনুবাদ জড়িত অথবা আপুনি আগ্ৰহী হোৱা ৱিকিমিডিয়া গতিবিধিৰ সৈতে জড়িত অন্য বিষয়ৰ বাবে যোগাযোগ কৰিব পাৰো। আপুনি মান্তি যে আপোনাৰ তথ্য মাৰ্কিন যুক্তৰাষ্ট্ৰত সংৰক্ষণ কৰা হ’ব পাৰে আৰু আমাৰ [https://wikimediafoundation.org/wiki/Privacy_policy গোপনীয়তা নীতিৰ] অধীনত থাকিব।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিচিহ্নৰ অধিক চিত্ৰ আপল’ড কৰক',
@@ -1359,7 +1359,7 @@ $messages['ast'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'wikimedia-copyright' => 'El testu ta disponible baxo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Llicencia Creative Commons Reconocimientu/Compartir-Igual 3.0</a>; puen aplicase otres cláusules más.
 Llee <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ast">los términos d\'usu</a> pa más detalles.',
-	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [//wikimediafoundation.org/wiki/Terms_of_use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [//creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [//wikimediafoundation.org/wiki/Terms_of_use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [//creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [//www.gnu.org/copyleft/fdl.html GFDL].
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
@@ -2047,10 +2047,8 @@ $messages['bho'] = array(
 $messages['bjn'] = array(
 	'group-abusefilter' => 'Editor filter panyalahgunaan',
 	'group-bigexport' => 'Ikspurtir ganal',
-	'wikimedia-copyrightwarning' => 'Lawan mangaklik picikan "{{int:savearticle}}", Pian hakun haja kapada [//wikimediafoundation.org/wiki/Terms_of_use Katantuan mamakai], wan Pian satarusnya malapas sumbangan Pian--kada kawa dijumput lagi-- di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lisansi CC-BY-SA 3.0] wan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Lawan mangaklik picikan "{{int:savearticle}}", Pian hakun haja kapada [//wikimediafoundation.org/wiki/Terms_of_use Katantuan mamakai], wan Pian satarusnya malapas sumbangan Pian--kada kawa dijumput lagi-- di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lisansi CC-BY-SA 3.0] wan [//www.gnu.org/copyleft/fdl.html GFDL].
 Pian hakun haja kalu sabuting tautan atawa URL cukup manaliakan di bawah lisénsi Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Amun Pian kada handak tulisan Pian dibabak wan disalurakan mun handak, kada usah mangirim tulisan Pian di sia.
-Amun Pian kada manulis ngini surangan, ngini musti ada di bawah katantuan nang sasuai awan [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan Mamakai], wan Pian hakun haja maumpati lisénsi nang diparluakan.',
 );
 
 /** Bambara (bamanankan)
@@ -2063,6 +2061,7 @@ $messages['bm'] = array(
  * @author Abdullah Harun Jewel
  * @author Bellayet
  * @author Nasir8891
+ * @author Nemo bis
  * @author Prometheus.pyrphoros
  * @author Wikitanvir
  * @author Zaheen
@@ -2178,10 +2177,8 @@ $messages['bn'] = array(
 	'wikimedia-copyright' => 'লেখাগুলো <a href="//creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
 এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
  <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [//wikimediafoundation.org/wiki/Terms_of_use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] এবং [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [//wikimediafoundation.org/wiki/Terms_of_use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [//www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
-	'wikimedia-editpage-tos-summary' => 'অন্য কোন ব্যক্তি আপনার লেখা সম্পাদনা করুক বা যথেচ্ছা বিতরণ করুক, যদি তা না চান তাহলে আপনার লেখা এখানে দাখিল করবেন না।
-এই লেখা যদি আপনার রচিত না হয়, তা অবশ্যই এই [//wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সঙ্গে সঙ্গতিপূর্ণ কোনো শর্তাবলী অনুযায়ী ব্যবহারযোগ্য হতে হবে, এবং আপনি এতদ্বারা সম্পর্কিত যেকোন লাইসেন্সের শর্তাবলী পালনে সম্মতি জানাচ্ছেন।',
 	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
 );
 
@@ -2331,10 +2328,8 @@ $messages['br'] = array(
 divizoù ouzhpenn a c\'hall bezañ ivez.
 Gwelet an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Doareoù Implijout</a> evit gouzout hiroc\'h.',
 	'wikimedia-copyrightwarning' => "Dre glikañ war ar bouton \"{{int:savearticle}}\" ec'h asantit [//wikimediafoundation.org/wiki/Terms_of_use d'an Termenoù Implij] hag emaoc'h a-du da enskrivañ da viken ho tegasadennoù dindan
-[//creativecommons.org/licenses/by-sa/3.0/ an aotre-implijout CC-BY-SA 3.0] hag ar [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]
+[//creativecommons.org/licenses/by-sa/3.0/ an aotre-implijout CC-BY-SA 3.0] hag ar [//www.gnu.org/copyleft/fdl.html GFDL]
 A-du emaoc'h ez eo trawalc'h deoc'h bezañ meneget dre ur gourliamm pe un URL, dindan an aotre-implijout Creative Commons Dereiñ.",
-	'wikimedia-editpage-tos-summary' => "Ma nac'hit e vefe kemmet ha skignet ho skridoù d'ar seizh avel, neuze eo arabat deoc'h kemer perzh amañ.
-Mar n'int ket bet skrivet ganeoc'h war-eeun, gwiriit mat e c'haller ober ganto diouzh termenoù a glot gant an [//wikimediafoundation.org/wiki/Terms_of_Use Doareoù Implijout], hag ec'h asantit ober diouzh divizoù leun an Aotre-Implijout.",
 	'cant-delete-main-page' => "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 );
 
@@ -2578,10 +2573,8 @@ $messages['ca'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
 	'wikimedia-copyright' => 'El text està disponible sota la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
 Vegeu les <a href="//wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
-	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [//wikimediafoundation.org/wiki/Terms_of_use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [//creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [//wikimediafoundation.org/wiki/Terms_of_use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [//creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [//www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
-	'wikimedia-editpage-tos-summary' => "Si no voleu que el vostre text sigui modificat i redistribuït a voluntat, llavors no el lliureu aquí.
-Si l'escrit no és vostre, ha d'estar disponible sota termes compatibles amb les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d'ús], i accepteu seguir tots els requisits de la llicència.",
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 );
@@ -2845,7 +2838,7 @@ $messages['cu'] = array(
 	'sitesupport' => 'даꙗниꙗ',
 	'wikimedia-copyright' => 'подъ прощєниѥмь <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙
 Ꙁьри <a href="//wikimediafoundation.org/wiki/Terms_of_Use/cu">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма',
-	'wikimedia-copyrightwarning' => 'ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тъ бѫди съгласьнъ съ [//wikimediafoundation.org/wiki/Terms_of_use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєнии [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ⁙
+	'wikimedia-copyrightwarning' => 'ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тъ бѫди съгласьнъ съ [//wikimediafoundation.org/wiki/Terms_of_use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєнии [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] и [//www.gnu.org/copyleft/fdl.html GFDL] ⁙
 съгласьнь бѫди бо съвѧꙁь (URL) добро оукаꙁаниѥ творьца прощєниꙗ Creative Commons дѣлꙗ ѥстъ',
 );
 
@@ -3100,7 +3093,7 @@ $messages['da'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruger}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
 	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
-	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [//wikimediafoundation.org/wiki/Terms_of_use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [//wikimediafoundation.org/wiki/Terms_of_use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [//www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
@@ -3292,6 +3285,7 @@ Falls Sie den Text nicht selber verfasst haben, muss er unter den [//wikimediafo
  * @author Aspar
  * @author Erdemaslancan
  * @author Mirzali
+ * @author Nemo bis
  * @author Xoser
  */
 $messages['diq'] = array(
@@ -3414,10 +3408,8 @@ $messages['diq'] = array(
 	'group-inactive-member' => '{{GENDER:$1|Karbero qulxan}}',
 	'grouppage-inactive' => '{{ns:project}}:karber ê ke aktif niyê',
 	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="//wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
-	'wikimedia-copyrightwarning' => "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [//wikimediafoundation.org/wiki/Terms_of_use Terms of use] qebul kenê, u şıma iştıraqê xoyo ke bınê [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] u  [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.
+	'wikimedia-copyrightwarning' => "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [//wikimediafoundation.org/wiki/Terms_of_use Terms of use] qebul kenê, u şıma iştıraqê xoyo ke bınê [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] u  [//www.gnu.org/copyleft/fdl.html GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.
 Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, qebul kenê.",
-	'wikimedia-editpage-tos-summary' => 'eke şıma qayil niyê nuşteyê şıma bıvuriyo ya zi vıla nêbiyo tiya ra meşawê.
-eke no metn şıma nênuşto, bınusê u nuştış de şıma gani[//wikimediafoundation.org/wiki/Terms_of_Use şertê karkerdışi] re diqqet bıkeri.',
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
 	'upload-more-photos-of-this-monument' => 'Na zıyarık  ra zewbi fotrafi barkerê',
@@ -3539,10 +3531,8 @@ $messages['dsb'] = array(
 	'group-inactive-member' => '{{GENDER:$1|njeaktiwny wužywaŕ|njeaktiwna wužywarka}}',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwne wužywarje',
 	'wikimedia-copyright' => 'Tekst stoj pód <a href="//creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wužywańske wuměnjenja</a> za drobnostki.',
-	'wikimedia-copyrightwarning' => 'Pśez kliknjenje na tłocašk "{{int:savearticle}}" pśigłosujoš [//wikimediafoundation.org/wiki/Terms_of_use wužywańskim wuměnjenjam] a wugronijoš definitiwnje swóju wobjadnosć, až stajijoš swój pśinosk pód licency [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Pśez kliknjenje na tłocašk "{{int:savearticle}}" pśigłosujoš [//wikimediafoundation.org/wiki/Terms_of_use wužywańskim wuměnjenjam] a wugronijoš definitiwnje swóju wobjadnosć, až stajijoš swój pśinosk pód licency [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL].
 Pśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Jolic njocoš, až se twój tekst wobźěłujo a rozdźělujo pó dobrozdaśu, njewózjaw jen how.
-Jolic njejsy to sam spisał, musy pód wuměnjenjami k dispoziciji staś, kótarež makaju se z [//wikimediafoundation.org/wiki/Terms_of_Use wužywańskimi wuměnjenjami], a pśigłosujoš se wótpowědnych licencnych pominanjow źaržaś.',
 	'cant-delete-main-page' => 'Njamóžoš głowny bok wulašowaś abo pśesunuś.',
 	'wikimedia-translationnotifications-signup-legal' => 'Pśez pśepowdawanje toś tych informacijow załožbje Wikimedian Foundation zwólijoš do togo, až móžomy se nastupajucy pśełožki abo druge temy, kótarež gibanje Wikimedije nastupaju, z tobu do zwiska stajiś. Zwólijoš do togo, až twóje daty składuju se w Zjadnośonych statach Ameriki a su pśedmjat našych [https://wikimediafoundation.org/wiki/Privacy_policy pšawidłow priwatnosći].',
 );
@@ -4242,10 +4232,8 @@ $messages['eu'] = array(
 	'wikimedia-copyright' => 'Testua <a href="//creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin 3.0 lizentziari</a> jarraituz erabil daiteke;
 baliteke beste klausularen batzuk ere aplikatu behar izatea.
 Xehetasunen berri izateko, ikus <a href="//wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
-	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [//wikimediafoundation.org/wiki/Terms_of_use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Aitortu-PartekatuBerdin 3.0] eta [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] lizentziekin plazaratzea.
+	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [//wikimediafoundation.org/wiki/Terms_of_use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Aitortu-PartekatuBerdin 3.0] eta [//www.gnu.org/copyleft/fdl.html GFDL] lizentziekin plazaratzea.
 Onartzen duzu hiperlotura bat edo URL bat aski dela aitortza hori egiteko, Creative Commons lizentziari jarraituz.',
-	'wikimedia-editpage-tos-summary' => 'Zure ekarpena nahi den bezala aldatua eta birbanatua izan dadin ez baduzu nahi, orduan ez gorde.
-Ekarpena ez baduzu zuk zeuk idatzi, [//wikimediafoundation.org/wiki/Terms_of_Use Erabilera-baldintzetan] zehazten diren kondizioetan eskuragarri egon beharko du, eta edozein lizentzia-eskakizun garrantzitsu betetzea onartuko duzu.',
 );
 
 /** Extremaduran (estremeñu)
@@ -4710,9 +4698,8 @@ $messages['fr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Utilisateurs inactifs',
 	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité – partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer.
 Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
-	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [//wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [//wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [//www.gnu.org/copyleft/fdl.html GFDL].
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
-	'wikimedia-editpage-tos-summary' => 'Si vous ne désirez pas que vos écrits soient modifiés et redistribués à volonté, alors ne les soumettez pas ici. Si vous ne les avez pas écrits vous-même, ils doivent être disponibles sous des termes compatibles avec les [//wikimediafoundation.org/wiki/Terms_of_Use termes d’utilisation], et vous acceptez de suivre toutes les exigences de la licence.',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
@@ -5171,11 +5158,9 @@ $messages['gan-hant'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活躍嗰用戶',
 	'wikimedia-copyright' => '箇首嗰所有文字係揸得<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嗰條款發佈；可能會有附加嗰條款。
 望吖<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嗰細節。',
-	'wikimedia-copyrightwarning' => '汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [//creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0] 同得 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 嗰條款內容發表。
+	'wikimedia-copyrightwarning' => '汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [//creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0] 同得 [//www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。
 汝同意別嗰用者編輯佢，至少，通過隻超連結或網址到汝嗰貢獻頁。
 望吖[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嗰細節。',
-	'wikimedia-editpage-tos-summary' => '若係汝不歡喜自家寫嗰文字拕人家編過或發佈嗰話，許就莫到箇首提交。
-若係箇不係汝自家寫嗰文字嗰話，佢坐定係要符合[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，跟到汝要同意所有相關嗰版權條件。',
 );
 
 /** Scottish Gaelic (Gàidhlig)
@@ -5660,10 +5645,8 @@ $messages['gu'] = array(
 	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 હેઠળ ઉપલબ્ધ છે વધારાની શરતો લાગુ છે.
 વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [//www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
 તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
-	'wikimedia-editpage-tos-summary' => 'જો તમે ચાહતા ના હોવ કે તમારા લખાણમાં કોઈ ફેરફાર કરે અને પોતાની મરજી પ્રમાણે અન્યત્ર વહેંચે તો અહીં યોગદાન કરશો નહી.
-જો તમે આ લખાણ જાતે ન લખ્યું હોય તો તે [//wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ]ની શરતોને અધીન  હોવું જોઈએ અને તમે તેને સંલગ્ન કોઈપણ પરવાનાઓની આવશ્યકતાઓનું પાલન કરવા માટે સહમત હોવા જોઈએ.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
 );
 
@@ -6270,9 +6253,8 @@ $messages['hsb'] = array(
 	'group-inactive-member' => '{{GENDER:$1|njeaktiwny wužiwar|njeaktiwna wužiwarka}}',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwni wužiwarjo',
 	'wikimedia-copyright' => 'Tekst steji pod <a href="//creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; přidatne wuměnjenja hodźa so nałožować. Hlej <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wužiwanske wuměnjenja</a> za podrobnosće.',
-	'wikimedia-copyrightwarning' => 'Z kliknjenjom na tłóčatko "{{int:savearticle}}" přizwoliš do [//wikimediafoundation.org/wiki/Terms_of_use wužiwanskich wuměnjenjow] a stajiš swój přinošk definitiwnje pod licencu [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Z kliknjenjom na tłóčatko "{{int:savearticle}}" přizwoliš do [//wikimediafoundation.org/wiki/Terms_of_use wužiwanskich wuměnjenjow] a stajiš swój přinošk definitiwnje pod licencu [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL].
 Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Jeli nochceš, zo so twój tekst po dobrozdaću wobdźěłuje a rozdźěluje, da njewozjew jón tu. Jeli njejsy jón sam spisał, dyrbi pod wuměnjenjemi k dispoziciji stać, kotrež su přezjedne z [//wikimediafoundation.org/wiki/Terms_of_Use wužiwanskimi wuměnjenjemi] a přihłosuješ so po wotpowědnych licencnych žadanjach měć.',
 	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
 	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian Foundation zwoliš do toho, zo móžemy so nastupajo přełožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stajić. Zwoliš do toho, zo twoje daty so w Zjednocenych statach Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłow priwatnosće].',
 );
@@ -6850,10 +6832,8 @@ dagiti mainayon a termino ket mabalin pay a maipakat.
 Kitaen dagiti <a href="//wikimediafoundation.org/wiki/Terms_of_use">Termino ti panag-usar</a> para kadagiti salaysay.',
 	'wikimedia-copyrightwarning' => 'Babaen ti panag-takla ti "{{int:savearticle}}" a buton, agtulag ka [//wikimediafoundation.org/wiki/Terms_of_use Kadagiti termino ti panag-usar], ken di mawaswas ka nga agtulag nga ibbatam dagiti parawad mo babaen
 ti [//creativecommons.org/licenses/by-sa/3.0/ Lisensia ti CC-BY-SA 3.0] ken ti
-[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] .
+[//www.gnu.org/copyleft/fdl.html GFDL] .
 Agtulagka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'No saanmo a kayat a  dagiti maisursuratmo ket maurnos ken maiwarwaras nga awan nakem, ngarud ket saanmo nga itulok ditoy.
-No saan a sika ti nagisurat iti daytoy, masapul a magun-od babaen kadagiti termino a naitunos kadagiti [//wikimediafoundation.org/wiki/Terms_of_Use Termino ti panag-usar], ken agtulagka a surotem ti ania man a maitutop kadagiti masasapul a lisensia.',
 	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
 	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan ti daytoy a monumento',
@@ -6935,10 +6915,8 @@ $messages['is'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Óvirkir notendur',
 	'wikimedia-copyright' => 'Textinn er laus undir <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike leyfi</a>; með mögulegum viðbótarskilmálum.
 Sjá nánar í <a href="//wikimediafoundation.org/wiki/Terms_of_use">notkunarskilmálum</a>.',
-	'wikimedia-copyrightwarning' => 'Með því að ýta á "{{int:savearticle}}" takkann, staðfestir þú [//wikimediafoundation.org/wiki/Terms_of_use notkunarskilmála] og samþykkir að gefa út framlag þitt undir [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 leyfi] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL leyfi].
+	'wikimedia-copyrightwarning' => 'Með því að ýta á "{{int:savearticle}}" takkann, staðfestir þú [//wikimediafoundation.org/wiki/Terms_of_use notkunarskilmála] og samþykkir að gefa út framlag þitt undir [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 leyfi] og [//www.gnu.org/copyleft/fdl.html GFDL leyfi].
 Þú staðfestir einnig að vefslóð er nægjanleg tilvísun undir Creative Commons leyfinu.',
-	'wikimedia-editpage-tos-summary' => 'Ef þú villt ekki að textanum þínum sé breytt og endurútgefið að vild, ekki senda hann hingað inn.
-Ef þú hefur ekki skrifað textann sjálfur, þá þarf hann að vera laus undir skilmálum sambærilegum þeim sem nefndir eru í [//wikimediafoundation.org/wiki/Terms_of_Use notkunarskilmálum] og að þú samþykkir að fara eftir öllum ákvæðum leyfisins.',
 	'cant-delete-main-page' => 'Þú getur ekki eytt eða fært forsíðuna.',
 );
 
@@ -7257,6 +7235,7 @@ $messages['jut'] = array(
 
 /** Javanese (Basa Jawa)
  * @author Meursault2004
+ * @author Nemo bis
  * @author NoiX180
  * @author Pras
  */
@@ -7374,9 +7353,7 @@ $messages['jv'] = array(
 	'group-inactive-member' => '{{GENDER:$1|panganggo ora aktip}}',
 	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
 	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
-	'wikimedia-copyrightwarning' => 'Mawa ngeklik tombol "{{int:savearticle}}", Sampéyan ngiyakaké [//wikimediafoundation.org/wiki/Terms_of_use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisènsi CC-BY-SA 3.0] lan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Manawi panjenengan boten ngersakaken seratan panjenengan bakal dipunsuntig lan dipunsebar malih manawi dipunkersakaken, sampun ngantos ngirim seratan ing ngriki.
-Manawi punika sanès seratan panjenengan piyambak, seratan punika kedah kasediakaken wonten ing saandhaping [//wikimediafoundation.org/wiki/Terms_of_Use Katentuan pangginaan], lan panjenengan sarujuk manut dhumateng sadaya persaratan lisènsi ingkang kagandhèng.',
+	'wikimedia-copyrightwarning' => 'Mawa ngeklik tombol "{{int:savearticle}}", Sampéyan ngiyakaké [//wikimediafoundation.org/wiki/Terms_of_use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [//creativecommons.org/licenses/by-sa/3.0/ Lisènsi CC-BY-SA 3.0] lan [//www.gnu.org/copyleft/fdl.html GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.',
 	'cant-delete-main-page' => 'Sampéyan ora bisa mbusak utawa mindhahaké kaca utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Sampéyan ngiyakaké yèn nyadhiyakaké Yayasan Wikipédia informasi iki awak dhéwé bisa ngubungi Sampéyan ngenani terjamahan utawa topik liya sing ana kaitané karo gerakan Wikimédia awak dhéwé kersa marang Sampéyan. Sampéyan ngiyakaké data Sampéyan disimpen nèng Amèrika Serikat lan dadi [https://wikimediafoundation.org/wiki/Privacy_policy kabijakan privasi] awak dhéwé.',
 );
@@ -7504,11 +7481,8 @@ $messages['ka'] = array(
 	'group-inactive-member' => '{{GENDER:$1|არააქტიური მომხმარებელი}}',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
-	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [//wikimediafoundation.org/wiki/Terms_of_use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ლიცენზიებით.
+	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [//wikimediafoundation.org/wiki/Terms_of_use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [//www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
 თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
-	'wikimedia-editpage-tos-summary' => '<div style="border: 1px solid #aaa;margin: 1em 0;padding: 0 0.4em 0 0.4em;">
-თუ არ გსურთ, რომ თქვენი ნაწერი თავისუფლად გავრცელდეს და ჩასწორდეს, აქ მას ნუ შემოიტანთ. თუ ეს ტექსტი თქვენი დაწერილი არ არის, იგი უნდა აკმაყოფილებდეს [//wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], ხოლო თქვენ თანახმა ხართ დაემორჩილოთ ნებისმიერ დაკავშირებულ სალიცენზიო მოთხოვნას.
-</div>',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
 );
@@ -7674,12 +7648,7 @@ $messages['km'] = array(
 	'grouppage-inactive' => '{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម',
 	'wikimedia-copyright' => 'អត្ថបទ​នេះ​ត្រូវបានផ្ដល់ក្រោមអាជ្ញាបណ្ឌ<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>​។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
 សូមមើល <a href="//wikimediafoundation.org/wiki/Terms_of_Use">លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់</a> សម្រាប់​ព័ត៌មានលម្អិត​។',
-	'wikimedia-copyrightwarning' => 'តាមរយៈ​ការចុចលើប៊ូតុង "{{int:savearticle}}" អ្នកយល់ព្រមជាមួយ[//wikimediafoundation.org/wiki/Terms_of_use លក្ខខណ្ឌនៃការប្រើប្រាស់] ហើយអ្នកយល់ព្រមដោយឥតកែប្រែ​ក្នុងការចែកចាយការរួមចំណែករបស់អ្នកក្រោម [//creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ឌ CC-BY-SA 3.0] និង [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]។ អ្នកក៏យល់ព្រមថាការប្រើតំណភ្ជាប់ហាយភើលីងឬURLគឺគ្រប់គ្រាន់សំរាប់បញ្ជាក់ពីភាពជាម្ចាស់កម្មសិទ្ធរបស់អ្នក ក្រោមអាជ្ញាបណ្ឌ Creative Commons។',
-	'wikimedia-editpage-tos-summary' => 'If you do not want your writing to be edited and redistributed at will, then do not submit it here.
-If you did not write this yourself, it must be available under terms consistent with the [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you agree to follow any relevant licensing requirements.
-
-ប្រសិបបើ​អ្នក​មិនចង់ឲ្យ​សំនេរ​របស់អ្នកត្រូវបាន​កែប្រែ និងចែកចាញដោយ​ឆន្ទះ នោះសូមកុំ​ដាក់បញ្ចូលមកទីនេះ​។
-ប្រសិនបើ​អ្នកមិនបានសរសេរ​ដោយខ្លួនឯងផ្ទាល់ទេ សំនេរនេះ​ត្រូវតែអាចរកបានក្រាមអាជ្ញាបណ្ណទាំងឡាយ​ណាដែលមានលក្ខណៈ​ស្របនឹង [//wikimediafoundation.org/wiki/Terms_of_Use លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់] ហើយអ្នកយល់ព្រមក្នុងការគោរពតាម​តម្រូវការនានាក្នុងការដាក់ចូលអាជ្ញាបណ្ណដែលពាក់ព័ន្ធ​ណាមួយ។',
+	'wikimedia-copyrightwarning' => 'តាមរយៈ​ការចុចលើប៊ូតុង "{{int:savearticle}}" អ្នកយល់ព្រមជាមួយ[//wikimediafoundation.org/wiki/Terms_of_use លក្ខខណ្ឌនៃការប្រើប្រាស់] ហើយអ្នកយល់ព្រមដោយឥតកែប្រែ​ក្នុងការចែកចាយការរួមចំណែករបស់អ្នកក្រោម [//creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ឌ CC-BY-SA 3.0] និង [//www.gnu.org/copyleft/fdl.html GFDL]។ អ្នកក៏យល់ព្រមថាការប្រើតំណភ្ជាប់ហាយភើលីងឬURLគឺគ្រប់គ្រាន់សំរាប់បញ្ជាក់ពីភាពជាម្ចាស់កម្មសិទ្ធរបស់អ្នក ក្រោមអាជ្ញាបណ្ឌ Creative Commons។',
 	'cant-delete-main-page' => 'អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។',
 );
 
@@ -8868,7 +8837,7 @@ $messages['mk'] = array(
 текстот и останатите именски простори се достапни под лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk" title="Уредби на лиценцата Криејтив комонс Наведи извор/Сподели под исти услови">Криејтив комонс Наведи извор/Сподели под исти услови</a>;
 може да важат и дополнителни услови.
 Повеќе ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Terms_of_Use/mk" title="Услови на употреба на Фондацијата Викимедија">Услови на употреба</a>.',
-	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [//wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [//creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License?uselang=mk ГЛСД] (GFDL).
+	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [//wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [//creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [//www.gnu.org/copyleft/fdl.html?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
@@ -9305,10 +9274,8 @@ $messages['ms'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tak aktif',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'Teks disediakan dengan <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ms">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma-terma tambahan mungkin terpakai. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terma-Terma Penggunaan</a> untuk butiran lanjut.',
-	'wikimedia-copyrightwarning' => 'Dengan mengklik butang "{{int:savearticle}}", anda mempersetujui [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Dengan mengklik butang "{{int:savearticle}}", anda mempersetujui [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [//www.gnu.org/copyleft/fdl.html GFDL].
 Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah lesen Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Jika anda tidak mahu tulisan anda disunting dan diedarkan secara bebas oleh orang lain, maka jangan kirimkannya di sini.
-Jika anda tidak menulisnya sendiri, ia mestilah dapat diperolehi di bawah syarat yang sejajar dengan [//wikimediafoundation.org/wiki/Terms_of_Use Terma Penggunaan], dan anda bersetuju mengikuti sebarang keperluan pelesenan yang berkaitan.',
 	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Anda bersetuju bahawa dengan memberikan maklumat ini kepada Yayasan Wikimedia, kami boleh menghubungi awak berkenaan terjemahan atau perihal-perihal lain yang berkenaan dengan gerakan  Wikimedia yang kami berpendapat mempunyai kaitan dengan anda. Anda bersetuju bahawa data anda boleh disimpan di Amerika Syarikat dan tertakluk kepada [https://wikimediafoundation.org/wiki/Privacy_policy dasar privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Muat naik lebih banyak gambar monumen ini',
@@ -10045,7 +10012,7 @@ $messages['nn'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
 	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
 Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
-	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 );
 
@@ -10287,7 +10254,7 @@ $messages['or'] = array(
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="//creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
 ଅଧିକ ଜାଣିବା ପାଇଁ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" ବୋତାମ ଚିପିବା ପରେ, ଆପଣ [//wikimediafoundation.org/wiki/Terms_of_use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ଆପଣ ସିଧାସଳଖ ଆପଣା ଅବଦାନ [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ୩.୦ ଲାଇସେନ୍ସ]ଓ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]ରେ ଦାନ କଲେ ।
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" ବୋତାମ ଚିପିବା ପରେ, ଆପଣ [//wikimediafoundation.org/wiki/Terms_of_use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ଆପଣ ସିଧାସଳଖ ଆପଣା ଅବଦାନ [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ୩.୦ ଲାଇସେନ୍ସ]ଓ [//www.gnu.org/copyleft/fdl.html GFDL]ରେ ଦାନ କଲେ ।
 ଆପଣ ଏକ ହାଇପରଲିଙ୍କ ବା URL କ୍ରିଏଟିଭ କମନ୍ସ ଲାଇସେନ୍ସ ଅଧିନରେ ଦାନ କରିବାକୁ ରାଜି ହେଲେ ।',
 	'cant-delete-main-page' => 'ଆପଣ ପ୍ରଧାନ ପୃଷ୍ଠାଟିକୁ ଲିଭାଇ ବା ଘୁଞ୍ଚାଇ ପାରିବେ ନାହିଁ ।',
 	'wikimedia-translationnotifications-signup-legal' => 'ଉଇକିମେଡିଆ ସଙ୍ଗଠନକୁ ଏହି ତଥ୍ୟ ପ୍ରଦାନକରି ଆପଣ ଏଥିରେ ସହମତ ଯେ ଆମେ ଆପଣଙ୍କୁ ଅନୁବାଦ କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଉଇକିମେଡିଆ ଗତିବିଧି ପାଇଁ ଯୋଗାଯୋଗ କରିପାରୁ, ଆମେ ଭାବୁଛୁ ଆପଣଙ୍କୁ ଭଲ ଲାଗିବ । ଆପଣ ଏଥିରେ ମଧ୍ୟ ସହମତ ଯେ ଆପଣଙ୍କ ତଥ୍ୟ ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକାରେ ସାଇତା ହୋଇ ରହିବ ଏବଂ [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy] ସହ ବିଷୟ ଭୁକ୍ତ ହେବ ।',
@@ -10297,6 +10264,7 @@ $messages['or'] = array(
 /** Ossetic (Ирон)
  * @author Amikeco
  * @author Bouron
+ * @author Nemo bis
  */
 $messages['os'] = array(
 	'sitesupport' => 'Мысайнаг',
@@ -10308,7 +10276,7 @@ $messages['os'] = array(
 	'wikimedia-copyright' => 'Текстæй ис гæнæн спайда кæнын <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензимæ</a> гæсгæ;
 гæнæн ис, æндæр домæнтæ дæр æм ис.
 Кæс <a href="//wikimediafoundation.org/wiki/Terms_of_use">пайда кæныны домæнтæ</a> фылдæр базонынæн.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" равзаргæйæ ды разы кæныс [//wikimediafoundation.org/wiki/Terms_of_use пайда кæныны домæнтимæ], æмæ ма [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] æмæ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензиты бын æнæраздæхгæ публикацийыл. Ды разы кæныс æрвитæн кæнæ URL æгъгъæд атрибуци кæй сты, ууыл.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" равзаргæйæ ды разы кæныс [//wikimediafoundation.org/wiki/Terms_of_use пайда кæныны домæнтимæ], æмæ ма [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] æмæ [//www.gnu.org/copyleft/fdl.html GFDL] лицензиты бын æнæраздæхгæ публикацийыл. Ды разы кæныс æрвитæн кæнæ URL æгъгъæд атрибуци кæй сты, ууыл.',
 	'cant-delete-main-page' => 'Дæ бон нæу сæйраг фарс схафын æви ахæссын.',
 );
 
@@ -10657,7 +10625,7 @@ $messages['pms'] = array(
 	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 as peulo giontesse condission adissionaj.
 Varda <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
-	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [//wikimediafoundation.org/wiki/Terms_of_use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [//wikimediafoundation.org/wiki/Terms_of_use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [//www.gnu.org/copyleft/fdl.html GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
 	'wikimedia-translationnotifications-signup-legal' => "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij dò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Privacy_policy régole ëd confidensialità].",
@@ -11115,7 +11083,7 @@ $messages['pt-br'] = array(
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pt_BR">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
-	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [//wikimediafoundation.org/wiki/Terms_of_use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [//creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [//wikimediafoundation.org/wiki/Terms_of_use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [//creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
 );
@@ -11525,7 +11493,7 @@ $messages['roa-tara'] = array(
 	'wikimedia-copyright' => "'U teste ète disponibbile sotte 'a <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">licenze ''Creative Commons Attribution/Condivide a 'u stesse mode</a>;
 termine addizionale pò essere applicate.
 Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
-	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
@@ -11809,6 +11777,7 @@ $messages['ruq-latn'] = array(
 );
 
 /** Sanskrit (संस्कृतम्)
+ * @author Nemo bis
  * @author Shubha
  */
 $messages['sa'] = array(
@@ -11923,9 +11892,8 @@ $messages['sa'] = array(
 	'wikimedia-copyright' => 'पाठ्यांशः अत्र उपलभ्यते<a href="//creativecommons.org/licenses/by-sa/3.0/">सर्जनसामान्यलक्षणम्/Share-Alike License</a>;
 अन्ये नियमाः आन्विताः भवेयुः ।
 दृश्यताम्<a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> अधिकविवरणाय ।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" इत्यस्य पिञ्जस्य नोदनेन, इदं भवता अङ्गीक्रियते [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], अपि च अप्रत्यावर्त्यरूपेण भवतः योगदानस्य प्रकाशनाय अधोनिर्दिष्टनियमानुसारम् अङ्गीक्रियते [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 License] and the [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" इत्यस्य पिञ्जस्य नोदनेन, इदं भवता अङ्गीक्रियते [//wikimediafoundation.org/wiki/Terms_of_use Terms of use], अपि च अप्रत्यावर्त्यरूपेण भवतः योगदानस्य प्रकाशनाय अधोनिर्दिष्टनियमानुसारम् अङ्गीक्रियते [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] and the [//www.gnu.org/copyleft/fdl.html GFDL].
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
-	'wikimedia-editpage-tos-summary' => 'भवतः लेखस्य इच्छानुसारं सम्पादनं पुनर्वितरणञ्च यदि भवता न अङ्गीक्रियेत, तर्हि अत्र न उपस्थाप्यताम् । एतत् भवता न लिखितञ्चेत्, इदम् अधोनिर्दिष्टनियमानुसारम् उपलभ्यते [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] अपि च सूक्तानुमति-अपेक्षाः भवता अङ्गीक्रियन्ते च ।',
 	'cant-delete-main-page' => 'मुख्यपृष्ठस्य विलोपनं चालनं वा अशक्यम् ।',
 	'wikimedia-translationnotifications-signup-legal' => 'विकीमाध्यमसंस्थायै अस्य विवरणस्य अर्पणेन भवान् इदम् अङ्गीकरोति यत् विकिमाध्यमान्दोलनसम्बद्धानाम् अनुवादविषये अन्येषु भवतः आसक्तिकरेषु विषयेषु वयं भवतः सम्पर्कं कर्तुम् अर्हामः इति । भवान् अङ्गीकरोति यत् भवतः विवरणम् अमेरिकासंयुक्तसंस्थाने रक्षितुं शक्यं यच्च [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy] नियमेन आन्वितं भवति इति ।',
 );
@@ -12322,7 +12290,7 @@ $messages['si'] = array(
 	'wikimedia-copyright' => '<a href="//creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;
 අමතර කොන්දේසි අදාළ විය හැක.
 විස්තර සඳහා <a href=\'//wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [//www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
 මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
 	'upload-more-photos-of-this-monument' => 'මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න',
@@ -12553,10 +12521,8 @@ $messages['sl'] = array(
 	'shared-repo-name-shared' => 'Wikimedijina Zbirka',
 	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">licenco Creative Commons
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
-	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
-	'wikimedia-editpage-tos-summary' => 'Če ne želite, da se vaše besedilo neovirano ureja in razširja, ga ne prispevajte.
-Če prispevka niste napisali sami, mora biti na razpolago pod pogoji, skladnimi s [//wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe], vi pa se strinjate z vsemi zahtevami licence izvorne objave.',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 	'upload-more-photos-of-this-monument' => 'Naložite več fotografij spomenika',
 );
@@ -13890,6 +13856,7 @@ Eger muny özüňiz ýazmadyk bolsaňyz, onda ol [//wikimediafoundation.org/wiki
 
 /** Tagalog (Tagalog)
  * @author AnakngAraw
+ * @author Nemo bis
  * @author לערי ריינהארט
  */
 $messages['tl'] = array(
@@ -14014,9 +13981,7 @@ $messages['tl'] = array(
 	'wikimedia-copyright' => 'Makukuha ang teksto sa ilalim ng <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensyang Creative Commons Attribution/Share-Alike</a>;
 maaaring gamitan ng karagdagan pang mga patakaran.
 See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikimedia-copyrightwarning' => 'Sa pamamagitan ng pagpindot ng pindutang "{{int:savearticle}}", sumasang-ayon ka sa [//wikimediafoundation.org/wiki/Terms_of_use Mga hinihingi sa paggamit], at hindi mababago ang pagsang-ayon mo na ilabas ang iyong mga ambag sa ilalim ng [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensiyang CC-BY-SA 3.0] at sa [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].  Sumasang-ayon ka na ang isang kawing na hyper o URL ay sapat nang atribusyon sa ilalim ng lisensiyang Creative Commons.',
-	'wikimedia-editpage-tos-summary' => 'Kung ayaw mong mabago ang naisulat mo at ipamahagi ayon sa kagustuhan, kung gayon huwag ipasa iyon dito.
-Kung hindi ikaw ang nagsulat nito, dapat itong magamit sa ilalim ng mga patakarang umaayon sa [//wikimediafoundation.org/wiki/Terms_of_Use Mga Patakaran sa Paggamit], at pumapayag kang sumunod sa anumang kaugnay na mga pangangailangang panglisensya.',
+	'wikimedia-copyrightwarning' => 'Sa pamamagitan ng pagpindot ng pindutang "{{int:savearticle}}", sumasang-ayon ka sa [//wikimediafoundation.org/wiki/Terms_of_use Mga hinihingi sa paggamit], at hindi mababago ang pagsang-ayon mo na ilabas ang iyong mga ambag sa ilalim ng [//creativecommons.org/licenses/by-sa/3.0/ Lisensiyang CC-BY-SA 3.0] at sa [//www.gnu.org/copyleft/fdl.html GFDL].  Sumasang-ayon ka na ang isang kawing na hyper o URL ay sapat nang atribusyon sa ilalim ng lisensiyang Creative Commons.',
 	'cant-delete-main-page' => 'Hindi mo mabubura o maililipat ang pangunahing pahina.',
 	'wikimedia-translationnotifications-signup-legal' => 'Sumasang-ayon ka na sa pamamagitan ng pagbibigay sa Pundasyon ng Wikimedia ng ganitong impormasyon, maaari kaming makipag-ugnayan sa iyo hinggil sa mga salinwika o ibang mga paksa na may kaugnayan sa kilusan ng Wikimedia na maiisip namin na marahil ay makakatawag ng iyong pansin. Sumasang-ayon ka na marahil ang dato mo ay maiimbak sa Nagkakaisang mga Estado ng Amerika at masasaklawan ng aming [https://wikimediafoundation.org/wiki/Privacy_policy patakaran sa pagkapribado].',
 );
@@ -14864,6 +14829,10 @@ $messages['vec'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utente inativo|utente inativa|utente inativo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inativi',
 	'wikimedia-copyright' => 'El testo el xè disponibiłe secondo ła <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licensa Creative Commons Atribusion-Condividi al steso modo</a>; e poe aplicarse ulteriori condision. Varda łe <a class=\'internal\' href="/wiki/Wikipedia:Copyright#Condixion_d.27uxo">condision d\'uxo</a> par i detaji. Wikipedia® xè on marchio rejistrà de ła <a href="//www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>',
+	'wikidata-copyright' => 'Tuti i dati struturai dal namespace prinsipałe i xe disponibiłi secondo ła licensa <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>;
+i testi in altri namespace i xe disponibiłi secondo ła licensa <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Atribusion/Condividi al steso modo</a>;
+pol vegner aplicae altre condision.
+Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Termini d\'uxo</a> par detaji.',
 	'wikimedia-copyrightwarning' => "Strcando so'l boton \"{{int:savearticle}}\", te aceti łe [//wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
@@ -15381,7 +15350,7 @@ $messages['yi'] = array(
 	'shared-repo-name-shared' => 'וויקימעדיע קאמאנס',
 	'wikimedia-copyright' => 'טעקסט איז פאראן לויטן <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.
 זעט <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאים פון באניצן</a> פֿאר פרטים.',
-	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [//wikimediafoundation.org/wiki/Terms_of_Use תנאים פון באניץ] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [//wikimediafoundation.org/wiki/Terms_of_Use תנאים פון באניץ] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [//www.gnu.org/copyleft/fdl.html GFDL].
 איר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.',
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
 	'upload-more-photos-of-this-monument' => 'ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט',
