@@ -356,7 +356,7 @@ $messages['aln'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Ju mund të zgjidhni licencën e zgjedhjes suaj.',
 );
 
-/** Tosk (Tosk)
+/** als (Tosk)
  * @author Multichill
  */
 $messages['als'] = array(
@@ -6529,7 +6529,7 @@ $messages['nds'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Du kannst di de Lizenz utsöken, de di opbest gefallt.',
 );
 
-/** Nedersaksisch (Nedersaksisch)
+/** Nedersaksies (Nedersaksies)
  * @author Krinkle
  * @author Servien
  */

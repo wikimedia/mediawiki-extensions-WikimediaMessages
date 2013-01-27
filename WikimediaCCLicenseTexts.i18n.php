@@ -1220,7 +1220,7 @@ il',
 	'wm-license-cc-conditions-share_alike-header' => 'bənzər paylaşma',
 );
 
-/** تورکجه (تورکجه)
+/** South Azerbaijani (تورکجه)
  * @author E THP
  */
 $messages['azb'] = array(
@@ -10974,7 +10974,7 @@ $messages['nds'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Wenn du dit Wark ännerst, afwannelst oder in en egen Wark inboost, dröffst du dat ne’e Wark, dat dor bi rutkummt, man ünner desülve Lizenz oder een, de so temlich dat sülve is, rutgeven.',
 );
 
-/** Nedersaksisch (Nedersaksisch)
+/** Nedersaksies (Nedersaksies)
  * @author Krinkle
  * @author Servien
  */

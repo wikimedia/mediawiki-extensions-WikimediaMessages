@@ -417,3 +417,10 @@ $messages['vi'] = array(
 	'wikimedialabsmessages-desc' => 'Thông điệp Wikimedia Labs',
 	'gerrittools-repogroup-analytics' => 'Kho Gerrit của Wikimedia Analytics',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'wikimedialabsmessages-desc' => '维基媒体实验室消息',
+);
