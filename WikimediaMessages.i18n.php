@@ -2014,15 +2014,6 @@ $messages['bg'] = array(
 	'upload-more-photos-of-this-monument' => 'Качване на още снимки на този паметник',
 );
 
-/** bh (भोजपुरी)
- * @author Ganesh
- */
-$messages['bh'] = array(
-	'sitesupport' => 'दान करीं',
-	'tooltip-n-sitesupport' => 'हमनी के सहयोग करीं',
-	'group-accountcreator' => 'खाता बनावे वाला',
-);
-
 /** Bhojpuri (भोजपुरी)
  * @author Ganesh
  */
