@@ -4588,6 +4588,7 @@ $messages['is'] = array(
  * @author Darth Kule
  * @author Diebuche
  * @author Gianfranco
+ * @author Jarekt
  * @author Krinkle
  * @author Multichill
  * @author Nemo bis
@@ -4613,7 +4614,7 @@ $messages['it'] = array(
 	'wm-license-artwork-id' => "Numero d'inventario",
 	'wm-license-artwork-source' => 'Fonte/Fotografo',
 	'wm-license-book-edition' => 'Edizione',
-	'wm-license-book-editor' => 'Editore',
+	'wm-license-book-editor' => 'Curatore',
 	'wm-license-book-illustrator' => 'Illustratore',
 	'wm-license-book-language' => 'Lingua',
 	'wm-license-book-page-overview' => 'Elenco delle pagine',

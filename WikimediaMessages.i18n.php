@@ -5766,6 +5766,7 @@ $messages['he'] = array(
 	'grouppage-inactive' => '{{ns:project}}:משתמש בלתי פעיל',
 	'shared-repo-name-shared' => 'ויקישיתוף',
 	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="//creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
+	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
 	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use/he תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
@@ -11428,6 +11429,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
  * @author Aleksandrit
  * @author AlexSm
  * @author Crazymadlover
+ * @author DCamer
  * @author Dim Grits
  * @author Eugrus
  * @author Ferrer
@@ -11551,6 +11553,7 @@ $messages['ru'] = array(
 	'group-sysadmin' => 'Системные администраторы',
 	'group-sysadmin-member' => '{{GENDER:$1|системный администратор}}',
 	'grouppage-sysadmin' => 'm:System administrators',
+	'group-New_wikis_importer' => 'Новые вики импортеры',
 	'group-translationadmin' => 'Администраторы перевода',
 	'group-translationadmin-member' => '{{GENDER:$1|администратор перевода}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Администраторы перевода',
