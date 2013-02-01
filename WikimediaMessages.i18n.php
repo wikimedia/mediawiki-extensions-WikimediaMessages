@@ -858,6 +858,7 @@ $messages['ang'] = array(
  * @author Ciphers
  * @author DRIHEM
  * @author Meno25
+ * @author Mido
  * @author OsamaK
  * @author ترجمان05
  */
@@ -982,6 +983,7 @@ $messages['ar'] = array(
 	'wikimedia-copyrightwarning' => 'بنقر زر "{{int:savearticle}}"، أنت توافق على [//wikimediafoundation.org/wiki/Terms_of_use شروط الاستخدام] وتُرخّص مساهمتك بلا رجعة [//creativecommons.org/licenses/by-sa/3.0/ برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[//www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
 أنت توافق على أن تكفي النسبة في رخصة المشاع الإبداعي بوصلة فائقة أو مسار الصفحة.',
 	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
+	'upload-more-photos-of-this-monument' => 'قم برفع المزيد من الصور لهذا الأثر',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -2824,6 +2826,7 @@ $messages['cv'] = array(
 
 /** Welsh (Cymraeg)
  * @author Lloffiwr
+ * @author Robin Owain
  * @author Xxglennxx
  */
 $messages['cy'] = array(
@@ -2898,6 +2901,7 @@ $messages['cy'] = array(
 	'grouppage-ipblock-exempt' => "{{ns:project}}:Eithrio rhag blocio'r IP",
 	'group-patroller' => 'Patrolwyr',
 	'group-patroller-member' => '{{GENDER:$1|patrolwr}}',
+	'grouppage-patroller' => '{{ns:project}}:Ymchwilwyr',
 	'group-researcher' => 'Ymchwilwyr',
 	'group-researcher-member' => 'ymchwilydd',
 	'grouppage-researcher' => '{{ns:project}}:Ymchwilwyr',
@@ -3811,6 +3815,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Dferg
  * @author Fitoschido
  * @author Gustronico
+ * @author Hazard-SJ
  * @author Hoo
  * @author Imre
  * @author Locos epraix
@@ -3947,6 +3952,10 @@ $messages['es'] = array(
 	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
 pueden aplicarse términos adicionales.
 Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de uso</a> para más detalles.',
+	'wikidata-copyright' => 'Todos los datos estructurados de la principal y de la propiedad espacios de nombres está disponible bajo la <a href="//creativecommons.org/publicdomain/cero/1.0/" title="Definición de la licencia Creative Commons Licencia CC0">Creative Commons Licencia CC0</a>;
+texto en otros espacios de nombres está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definición de la licencia Creative Commons Attribution/Share-Alike License">licencia Creative Commons Atribución/Compartir-Igual License</a>;
+los términos adicionales pueden aplicar.
+Vea <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Términos de Uso">Condiciones de Uso</a> para más detalles.',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',

@@ -174,6 +174,13 @@ $messages['pms'] = array(
 	'wikimediamessages-desc' => 'Mëssagi temporani specìfich ëd Wikimedia',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'wikimediamessages-desc' => 'Specifece messàgge temboranèe de Uicchimedia',
+);
+
 /** Sinhala (සිංහල)
  * @author පසිඳු කාවින්ද
  */
