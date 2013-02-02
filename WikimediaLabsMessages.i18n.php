@@ -45,6 +45,23 @@ $messages['ar'] = array(
 	'gerrittools-repogroup-test' => 'اختبار مستودعات جيريت',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'wikimedialabsmessages-desc' => 'Mensaxes de Wikimedia Labs',
+	'gerrittools-repogroup-analytics' => 'Repositorios Gerrit de Wikimedia Analytics',
+	'gerrittools-repogroup-integration' => 'Repositorios Gerrit de Wikimedia Continuous Integration',
+	'gerrittools-repogroup-mediawiki' => 'Repositorios Gerrit de MediaWiki',
+	'gerrittools-repogroup-mediawiki/extensions' => 'Repositorios Gerrit de les estensiones de MediaWiki',
+	'gerrittools-repogroup-mediawiki/packages' => 'Repositorios Gerrit del paquete de MediaWiki',
+	'gerrittools-repogroup-mediawiki/tools' => 'Repositorios Gerrit de les ferramientes de MediaWiki',
+	'gerrittools-repogroup-operations' => 'Repositorios Gerrit de Wikimedia Operations',
+	'gerrittools-repogroup-test' => 'Repositorios Gerrit de pruebes',
+	'gerrittools-repogroup-translatewiki' => 'Repositorios Gerrit de translatewiki.net',
+	'gerrittools-repogroup-wikimedia' => 'Repositorios Gerrit de Wikimedia',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Wizardist
  */

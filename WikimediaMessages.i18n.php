@@ -4933,6 +4933,10 @@ $messages['frr'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ünaktiif brükern',
 	'wikimedia-copyright' => 'Di tekst stäänt oner\'t lisens <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a>; diar kön uk noch ööder reegeln tääl.
 Luke am enkelthaiden uun a <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">reegeln för\'t brüken</a>.',
+	'wikidata-copyright' => 'A artiikler stun oner det lisens <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>;
+ööder dooten stun oner det lisens <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike</a>;
+diar kön uk noch ööder reegeln tääl.
+Luke bi a <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
 	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [//wikimediafoundation.org/wiki/Terms_of_use brüker-reegeln] iinferstenen an dääst din werk frei oner det [//frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [//frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
