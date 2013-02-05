@@ -7776,8 +7776,8 @@ $messages['ko'] = array(
 	'wikimedia-copyright' => '모든 문서는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use">이용 약관</a>을 참고하십시오.',
-	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="//creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼스 CC0 라이선스</a>에 따라 사용할 수 있고
-다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이디브 커먼스 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="//creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고
+다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이디브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/Terms_of_use 이용 약관]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
@@ -10198,6 +10198,10 @@ $messages['or'] = array(
 	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="//creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
 ଅଧିକ ଜାଣିବା ପାଇଁ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
+	'wikidata-copyright' => 'ମୁଖ୍ୟ ଏବଂ ସତ୍ଵାଧିକାର ଥିବା ନେମସ୍ପେସରୁ ଆସିଥିବା ସମସ୍ତ ମିଳିତ ତଥ୍ୟ <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a> ଅନ୍ତର୍ଗତ ଅଛି;
+ଅନ୍ୟ ନେମସ୍ପେସରେ ଥିବା ଲେଖାଗୁଡ଼ିକ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a> ଅଧୀନରେ ଅଛି;
+ଅଧିକ ସର୍ତାବଳୀ ଲାଗୁହୋଇପାରେ ।
+ଅଧିକ ବିବରଣୀ ପାଇଁ <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> ଦେଖନ୍ତୁ ।',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" ବୋତାମ ଚିପିବା ପରେ, ଆପଣ [//wikimediafoundation.org/wiki/Terms_of_use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ଆପଣ ସିଧାସଳଖ ଆପଣା ଅବଦାନ [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ୩.୦ ଲାଇସେନ୍ସ]ଓ [//www.gnu.org/copyleft/fdl.html GFDL]ରେ ଦାନ କଲେ ।
 ଆପଣ ଏକ ହାଇପରଲିଙ୍କ ବା URL କ୍ରିଏଟିଭ କମନ୍ସ ଲାଇସେନ୍ସ ଅଧିନରେ ଦାନ କରିବାକୁ ରାଜି ହେଲେ ।',
 	'cant-delete-main-page' => 'ଆପଣ ପ୍ରଧାନ ପୃଷ୍ଠାଟିକୁ ଲିଭାଇ ବା ଘୁଞ୍ଚାଇ ପାରିବେ ନାହିଁ ।',
@@ -10764,6 +10768,7 @@ $messages['ps'] = array(
  * @author Capmo
  * @author Crazymadlover
  * @author David0811
+ * @author Dicionarista
  * @author Giro720
  * @author Hamilton Abreu
  * @author Heldergeovane
@@ -10879,6 +10884,7 @@ $messages['pt'] = array(
 	'group-sysadmin' => 'Administradores de sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador|administradora}} de sistema',
 	'grouppage-sysadmin' => 'm:Administradores de sistema',
+	'group-New_wikis_importer' => 'Novos importadores de wikis',
 	'group-translationadmin' => 'Administradores de tradução',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador de tradução|administradora de tradução}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de tradução',
