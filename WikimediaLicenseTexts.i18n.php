@@ -6725,7 +6725,7 @@ zelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid v
 Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] voor meer details.",
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
