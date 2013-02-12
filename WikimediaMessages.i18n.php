@@ -443,7 +443,8 @@ Please leave <code>Foundation:</code> untranslated.
 {{Identical|Inactive user}}',
 	'grouppage-inactive' => '{{doc-group|inactive|page}}
 {{Identical|Inactive user}}',
-	'shared-repo-name-shared' => '{{optional}}',
+	'shared-repo-name-shared' => '{{optional}}
+{{Identical|Wikimedia Commons}}',
 	'wikimedia-copyright' => '{{Identical/Wikimedia-licensing}}
 This message is displayed in the site footer. It is the default licensing policy for most Wikimedia sites.',
 	'wikidata-copyright' => 'This message is displayed in the site footer. It is the special licensing policy for the Wikidata project.',
@@ -10852,7 +10853,7 @@ $messages['pt'] = array(
 	'group-interface_editor' => 'Editores da interface',
 	'group-interface_editor-member' => '{{GENDER:$1|editor da interface|editora da interface}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Editores da interface',
-	'group-ipblock-exempt' => 'Isenções de bloqueio IP',
+	'group-ipblock-exempt' => 'Isentos de bloqueio IP',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|isento|isenta}} de bloqueio IP',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Isenção de bloqueio IP',
 	'group-patroller' => 'Patrulhadores',
@@ -10991,7 +10992,7 @@ $messages['pt-br'] = array(
 	'group-interface_editor' => 'Editores de interface',
 	'group-interface_editor-member' => '{{GENDER:$1|editor|editora}} de interface',
 	'grouppage-interface_editor' => '{{ns:project}}: Editores de interface',
-	'group-ipblock-exempt' => 'Isenções de bloqueio IP',
+	'group-ipblock-exempt' => 'Isentos de bloqueio IP',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|isento|isenta}} de bloqueio de  IP',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Isentos de bloqueio',
 	'group-patroller' => 'Patrulhadores',
