@@ -69,6 +69,13 @@ $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes temporales específicos de Wikimedia',
 );
 
+/** Persian (فارسی)
+ * @author Reza1615
+ */
+$messages['fa'] = array(
+	'wikimediamessages-desc' => 'پیام‌های موقت ویژهٔ ویکی‌مدیا',
+);
+
 /** Finnish (suomi)
  * @author Nedergard
  */

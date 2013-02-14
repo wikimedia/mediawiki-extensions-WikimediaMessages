@@ -156,7 +156,8 @@ $messages['qqq'] = array(
 	'wm-license-artwork-id' => 'Identification number: label "Accession number" at [[Commons:Template:Artwork]]. Field holds museum\'s accession number or some other inventory or identification number used by the parent institution. Often link to the institution database record is also provided.',
 	'wm-license-artwork-source' => 'Label "Source/Photographer" at [[Commons:Template:Artwork]]. Field holds information about source of the file or the photographer. For example it might be website or book name where the image come from, or the name of the photographer that took the picture.',
 	'wm-license-book-edition' => 'Label "Edition" at [[Commons:Template:Book]].',
-	'wm-license-book-editor' => 'Label "Editor" at [[Commons:Template:Book]].',
+	'wm-license-book-editor' => 'Label "Editor" at [[Commons:Template:Book]].
+{{Identical|Editor}}',
 	'wm-license-book-illustrator' => 'Label "Illustrator" at [[Commons:Template:Book]].',
 	'wm-license-book-language' => 'Label "Language" at [[Commons:Template:Book]].
 {{Identical|Language}}',
