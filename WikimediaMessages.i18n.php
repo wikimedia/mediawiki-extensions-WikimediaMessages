@@ -8647,6 +8647,13 @@ $messages['mi'] = array(
 	'sitesupport' => 'Koha',
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'sitesupport' => 'Manyumbang',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  * @author Brainmachine
@@ -11437,6 +11444,11 @@ $messages['roa-tara'] = array(
 	'group-steward-member' => '{{GENDER:$1|steward}}',
 	'group-sysadmin' => "Amministrature d'u sisteme",
 	'group-sysadmin-member' => '{{GENDER:$1|amministratore de sisteme}}',
+	'group-Indic_Bots' => 'Bot Indic',
+	'group-Indic_Bots-member' => '{{GENDER:$1|bot indic}}',
+	'group-New_wikis_importer' => "'Mbortature de uicchi nuève",
+	'group-New_wikis_importer-member' => "{{GENDER:$1|'mbortatore de uicchi nuève}}",
+	'group-global-ipblock-exempt' => 'Esclusiune de blocche globbale de IP',
 	'group-recursive-export' => 'Esportazione recorsive',
 	'group-recursive-export-member' => '{{GENDER:$1|esportatore recorsive}}',
 	'group-translationadmin' => 'Amministrature de le traduziune',
