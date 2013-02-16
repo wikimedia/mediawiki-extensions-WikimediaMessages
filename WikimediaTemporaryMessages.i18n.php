@@ -195,6 +195,13 @@ $messages['si'] = array(
 	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂිත තාවකාලික පණිවුඩ',
 );
 
+/** Swedish (svenska)
+ * @author Ainali
+ */
+$messages['sv'] = array(
+	'wikimediamessages-desc' => 'Wikimediaspecifika tillfälliga meddelanden',
+);
+
 /** Ukrainian (українська)
  * @author Base
  */
