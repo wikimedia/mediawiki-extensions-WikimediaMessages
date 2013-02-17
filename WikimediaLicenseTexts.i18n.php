@@ -167,7 +167,7 @@ $messages['qqq'] = array(
 	'wm-license-book-publisher' => 'Label "Publisher" at [[Commons:Template:Book]].
 {{Identical|Publisher}}',
 	'wm-license-book-series-title' => 'Label "Series title" at [[Commons:Template:Book]].',
-	'wm-license-book-start-this-book' => 'Label "Start this Book" at [[Commons:Template:Book]]. It\'s the label of the link to the first page of the book the user is seeing one image of. [https://commons.wikimedia.org/wiki/File:Meyers_b1_s0024.jpg Example]
+	'wm-license-book-start-this-book' => 'Label "Start this Book" at [[Commons:Template:Book]]. It\'s the label of the link to the first page of the book the user is seeing one image of. [[commons:File:Meyers_b1_s0024.jpg|Example]]
 
 Alternative wording: "The beginning of the book"',
 	'wm-license-book-subtitle' => 'Label "Subtitle" at [[Commons:Template:Book]].',
@@ -220,7 +220,7 @@ Please only set a link here when a translated version of [[:Commons:Commons:Reus
 	'wm-license-licensing-update-text' => 'This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].',
 	'wm-license-licensing-update-wiki-link' => '{{optional}}
 Translate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.',
-	'wm-license-original-upload-log' => 'Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [http://commons.wikimedia.org/wiki/File:Inkscape_logo_2.svg example].',
+	'wm-license-original-upload-log' => 'Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [[commons:File:Inkscape_logo_2.svg|example]].',
 	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]]',
 	'wm-license-pd-author-with-author-any-purpose' => "$1 is a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
 	'wm-license-pd-usgov-wiki-link' => '{{Optional}}',
@@ -9598,6 +9598,7 @@ $messages['ug-arab'] = array(
  * @author Ahonc
  * @author Aleksandrit
  * @author Arturyatsko
+ * @author AtUkr
  * @author Diebuche
  * @author Dim Grits
  * @author JenVan
@@ -9696,6 +9697,8 @@ $messages['uk'] = array(
 	'wm-license-pd-author-with-author-any-purpose' => "$1 дає кожному право на використання цієї роботи '''для будь-яких цілей''', без будь-яких умов, якщо такі умови не вимагаються за законом.",
 	'wm-license-pd-usgov-wiki-link' => 'w:uk:Федеральний уряд США',
 	'wm-license-pd-usgov-work-wiki-link' => 'w:uk:Твори, що належать уряду США',
+	'wm-license-pd-usgov-fema-text' => "Це робота співробітника [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Федерального Агентства по надзвичайних ситуаціях]], знята або зроблена ним під час виконання службових обов'язків. Будучи [[{{int:wm-license-pd-usgov-work-wiki-link}}|роботою]] [[{{int:wm-license-pd-usgov-wiki-link}}|Федерального уряду США]], цей файл розташований в '''[[{{int:wm-license-pd-wiki-link}}|публічному домені]]'''.",
+	'wm-license-pd-usgov-military-text' => "Це робота співробітника [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|Військового відомства США]] або [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Міністерства оборони]], знята або зроблена ним під час виконання службових обов'язків. Будучи [[{{int:wm-license-pd-usgov-work-wiki-link}}|роботою]] [[{{int:wm-license-pd-usgov-wiki-link}}|Федерального уряду США]], цей файл розташований в '''[[{{int:wm-license-pd-wiki-link}}|публічному домені]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:uk:Військово-повітряні сили США',
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:uk:Армія США',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:uk:Військово-морські сили США',

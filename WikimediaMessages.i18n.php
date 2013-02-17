@@ -265,10 +265,10 @@ $messages['qqq'] = array(
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg-mw|sitesupport}} link in the sidebar.',
 	'sidebar' => '{{notranslate}}',
 	'robots.txt' => '{{notranslate}}',
-	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Creator:Heinrich_Hoerle Example])',
-	'nstab-institution' => 'Text on the tab of pages in the "Institution" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Institution:Wallraf-Richartz-Museum Example])',
-	'nstab-sequence' => 'Text on the tab of pages in the "Sequence" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/Sequence:Cats Example])',
-	'nstab-timedtext' => 'Text on the tab of pages in the "TimedText" namespace on Wikimedia Commons ([//commons.wikimedia.org/wiki/TimedText:Edit_Button.ogv.en.srt Example])',
+	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([[commons:Creator:Heinrich_Hoerle|Example]])',
+	'nstab-institution' => 'Text on the tab of pages in the "Institution" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])',
+	'nstab-sequence' => 'Text on the tab of pages in the "Sequence" namespace on Wikimedia Commons ([[commons:Sequence:Cats|Example]])',
+	'nstab-timedtext' => 'Text on the tab of pages in the "TimedText" namespace on Wikimedia Commons ([[commons:TimedText:Edit_Button.ogv.en.srt|Example]])',
 	'group-Ex_Administrator' => '{{doc-group|Ex Administrator}}',
 	'group-Ex_Administrator-member' => '{{doc-group|Ex Administrator|member}}',
 	'grouppage-Ex_Administrator' => '{{doc-group|Ex Administrator|page}}',
@@ -315,7 +315,7 @@ Big export user has a right to: {{int:right-override-export-depth}}',
 	'group-editprotected-member' => '{{doc-group|editprotected|member}}',
 	'grouppage-editprotected' => '{{doc-group|editprotected|page}}',
 	'group-eliminator' => '{{doc-group|eliminator}}
-Usergroup introduced for ptwiki ([//pt.wikipedia.org/wiki/Especial:Lista_de_privil%C3%A9gios_de_grupos Especial:Lista de privilégios de grupos], [https://bugzilla.wikimedia.org/show_bug.cgi?id=24623 Bug 24623])',
+Usergroup introduced for ptwiki ([//pt.wikipedia.org/wiki/Especial:Lista_de_privil%C3%A9gios_de_grupos Especial:Lista de privilégios de grupos], [[bugzilla:24623|Bug 24623]])',
 	'group-eliminator-member' => '{{doc-group|eliminator|member}}',
 	'grouppage-eliminator' => '{{doc-group|eliminator|page}}',
 	'group-filemover' => '{{doc-group|filemover}}',
@@ -6221,6 +6221,12 @@ $messages['hsb'] = array(
 	'group-steward-member' => '{{GENDER:$1|steward|stewardesa}}',
 	'group-sysadmin' => 'Systemowi administratorojo',
 	'group-sysadmin-member' => '{{GENDER:$1|systemowy administrator|systemowa administratorka}}',
+	'group-Indic_Bots' => 'Indiske boty',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indiski bot}}',
+	'group-New_wikis_importer' => 'Importerojo nowych wikijow',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|importer|importerka}} nowych wikijow',
+	'group-recursive-export' => 'Rekursiwny eksport',
+	'group-recursive-export-member' => '{{GENDER:$1|rekursiwny eksporter|rekursiwna eksporterka}}',
 	'group-translationadmin' => 'Přełožowanscy administratorojo',
 	'group-translationadmin-member' => '{{GENDER:$1|přełožowanski administrator|přełožowanska administratorka}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Přełožowanscy administratorojo',
@@ -6234,6 +6240,7 @@ $messages['hsb'] = array(
 Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative Commons.',
 	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
 	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian Foundation zwoliš do toho, zo móžemy so nastupajo přełožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stajić. Zwoliš do toho, zo twoje daty so w Zjednocenych statach Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłow priwatnosće].',
+	'upload-more-photos-of-this-monument' => 'Dalše fota tutoho pomnika nahrać',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -14358,6 +14365,7 @@ $messages['ug-latn'] = array(
  * @author AS
  * @author Ahonc
  * @author Alex Khimich
+ * @author AtUkr
  * @author Base
  * @author Dim Grits
  * @author Ickis
@@ -14477,8 +14485,16 @@ $messages['uk'] = array(
 	'group-sysadmin' => 'Системні адміністратори',
 	'group-sysadmin-member' => 'системний адміністратор',
 	'grouppage-sysadmin' => 'm:System administrators',
+	'group-API_High_Limit_Requestor' => 'Верхня межа запитів API',
+	'group-API_High_Limit_Requestor-member' => '{{СТАТЬ:$1|Верхня межа запитів API}}',
+	'group-Indic_Bots' => 'Індійські боти',
+	'group-Indic_Bots-member' => '{{GENDER:$1|Індійський бот}}',
 	'group-New_wikis_importer' => 'Імпортери нових вікі',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|імпортер нових вікі|імпортерка нових вікі}}',
+	'group-global-ipblock-exempt' => 'Глобальне звільнення від блоку IP',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|Глобальне звільнення від блоку IP}}',
+	'group-recursive-export' => 'Рекурсивний експорт',
+	'group-recursive-export-member' => '{{GENDER:$1|Рекурсивний експортер}}',
 	'group-translationadmin' => 'Адміністратори перекладу',
 	'group-translationadmin-member' => '{{GENDER:$1|адміністратор перекладу|адміністраторка перекладу}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Адміністратори перекладу',
