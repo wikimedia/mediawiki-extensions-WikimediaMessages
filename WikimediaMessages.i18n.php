@@ -259,7 +259,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc}}',
 	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
-{{doc-important|Only change the link if it has a translation!|([//wikimediafoundation.org/wiki/Special:Prefixindex/Donate/ check])}}',
+{{doc-important|Only change the link if it has a translation!|([[wmf:Special:Prefixindex/Donate/|check]])}}',
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.
 
 {{Identical|Donate}}",
@@ -316,7 +316,7 @@ Big export user has a right to: {{int:right-override-export-depth}}',
 	'group-editprotected-member' => '{{doc-group|editprotected|member}}',
 	'grouppage-editprotected' => '{{doc-group|editprotected|page}}',
 	'group-eliminator' => '{{doc-group|eliminator}}
-Usergroup introduced for ptwiki ([//pt.wikipedia.org/wiki/Especial:Lista_de_privil%C3%A9gios_de_grupos Especial:Lista de privilégios de grupos], [[bugzilla:24623|Bug 24623]])',
+Usergroup introduced for ptwiki ([[w:pt:Especial:Lista_de_privil%C3%A9gios_de_grupos|Especial:Lista de privilégios de grupos]], [[bugzilla:24623|Bug 24623]])',
 	'group-eliminator-member' => '{{doc-group|eliminator|member}}',
 	'grouppage-eliminator' => '{{doc-group|eliminator|page}}',
 	'group-filemover' => '{{doc-group|filemover}}',
@@ -10284,6 +10284,7 @@ Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para karen
  */
 $messages['pcd'] = array(
 	'sitesupport' => 'Fouaire un présint',
+	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'Chés teskes sont disponibes dsous <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">licince Creative Commons patérnité – partage à l’idintique des condicions iniciales</a> ; d’eutes condicions peu\'te s’applitcher.
 Vir chés <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">condicions d’utilisacion</a> pour avoèr pus éd détails.',
 );

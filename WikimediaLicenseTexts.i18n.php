@@ -4293,6 +4293,7 @@ $messages['ia'] = array(
  * @author Farras
  * @author Irwangatot
  * @author IvanLanin
+ * @author Iwan Novirion
  * @author Kenrick95
  * @author Multichill
  */
@@ -4342,7 +4343,7 @@ $messages['id'] = array(
 	'wm-license-free-software-wiki-link' => 'w:id:Perangkat lunak bebas',
 	'wm-license-gfdl-1.2-and-later' => "Diizinkan untuk menyalin, mendistribusikan dan/atau memodifikasi dokumen ini di bawah syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.2 atau lebih baru yang diterbitkan oleh [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Depan, dan tanpa Teks Sampul Belakang. Salinan lisensi dimasukkan ke bagian yang berjudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	'wm-license-gfdl-1.2-only' => "Diizinkan untuk menyalin, mendistribusikan dan/atau memodifikasi dokumen ini di bawah syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.2 yang diterbitkan oleh [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Depan, dan tanpa Teks Sampul Belakang. Salinan lisensi dimasukkan ke bagian yang berjudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
-	'wm-license-gfdl-1.2-only-header' => 'Hanya&nbsp;1,2',
+	'wm-license-gfdl-1.2-only-header' => 'Hanya&nbsp;1.2',
 	'wm-license-gfdl-1.3-and-later' => "Diizinkan untuk menyalin, mendistribusikan dan/atau memodifikasi dokumen ini di bawah syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.3 atau lebih baru yang diterbitkan oleh [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Depan, dan tanpa Teks Sampul Belakang. Salinan lisensi dimasukkan ke bagian yang berjudul ''[[{{int:wm-license-gfdl-full-1.3-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	'wm-license-gfdl-1.3-only' => "Diizinkan untuk menyalin, mendistribusikan dan/atau memodifikasi dokumen ini di bawah syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.3 yang diterbitkan oleh [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Depan, dan tanpa Teks Sampul Belakang. Salinan lisensi dimasukkan ke bagian yang berjudul ''[[{{int:wm-license-gfdl-full-1.3-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:id:Lisensi Dokumentasi Bebas GNU',
@@ -5845,12 +5846,50 @@ $messages['mi'] = array(
 );
 
 /** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
  * @author VoteITP
  */
 $messages['min'] = array(
 	'wikimedialicensetexts-desc' => 'Pasan izin Wikimedia',
 	'wm-license-attribution-with-author-text' => "Pemegang hak cipta berkas ko, $1, maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
 	'wm-license-attribution-without-author-text' => "Pemegang hak cipta berkas ko maizinkan siapo pun untuak manggunokannyo '''untuak tujuan apo pun, dengan syarat''' pemegang hak cipta ko disebut. Penyebaran ulang, maubah suai, digunoan untuak niaga, dan lainnyo diizinkan.",
+	'wm-license-creator-description' => 'Katarangan',
+	'wm-license-creator-date-of-birth' => 'Tanggal lahia',
+	'wm-license-creator-date-of-birth-and-death' => 'Tanggal kalahiaran/kamatian',
+	'wm-license-creator-location-of-birth' => 'Tampek lahia',
+	'wm-license-creator-location-of-birth-and-death' => 'Tampek kalahiaran/kamatian',
+	'wm-license-creator-work-period' => 'Maso dikarajoan',
+	'wm-license-creator-work-location' => 'Lokasi pangarajoan',
+	'wm-license-creator-linkback' => 'Pautan baliak ka templat kotak info Pancipta',
+	'wm-license-fal-text' => "Tanpa hak cipta: Karya seni ko bebas; Sanak dapek mandistribusikan dan/atau mamodifikasinyo jo syaraik '''[[{{int:wm-license-fal-wiki-link}}|Lisensi Seni Bebas]]'''. Sanak dapek manjumpai salinan lisensi ko pado [{{int:wm-license-fal-full-link}} situs Pasyaratan Tanpa Hak Cipta] dan situs-situs lainnyo.",
+	'wm-license-gfdl-1.2-only-header' => 'Cumo&nbsp;1.2',
+	'wm-license-information-table-summary' => 'Tabel katarangan standar nan mangagiah informasi lengkap soal berkas ko, tamasuak katarangan apo nan ditampilkan dan caro pambuatannyo, status hak cipta sarato sumbernyo.',
+	'wm-license-information-description' => 'Katarangan',
+	'wm-license-information-description-missing' => "Berkas ko indak ado '''katarangan''', dan mungkin informasi lainpun kurang.",
+	'wm-license-information-description-missing-request' => 'Cubo buek katarangan nan elok untuak berkas ko.',
+	'wm-license-information-source' => 'Sumber',
+	'wm-license-information-source-missing' => "Berkas ko indak ado katarangan '''sumber'''.",
+	'wm-license-information-source-missing-request' => 'Cubo suntiang katarangan berkas ko dan agiah sumbernyo.',
+	'wm-license-information-date' => 'Tanggal',
+	'wm-license-information-author' => 'Pambuek',
+	'wm-license-information-author-missing' => "Berkas ko indak ado katarangan '''pambuek'''.",
+	'wm-license-information-permission' => 'Lisensi',
+	'wm-license-information-permission-reusing-text' => 'Manggunoan baliak berkas ko',
+	'wm-license-information-permission-see-below' => 'Ado di bawah.',
+	'wm-license-information-other-versions' => 'Versi lain',
+	'wm-license-licensing-update-text' => 'Label lisensi ko ditambahkan pado berkas sabagai bagian dari [[{{int:wm-license-licensing-update-wiki-link}}|pambaruan lisensi]] GFDL.',
+	'wm-license-original-upload-log' => 'Log muek berkas asli',
+	'wm-license-own-work' => 'Karya surang',
+	'wm-license-pd-author-self-text' => "Ambo, pamegang hak cipta karya ko, malapehan karya ko ka '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''. Lisensi ko balaku di saluruah dunia.",
+	'wm-license-pd-author-with-author-text' => "Karya ko dilapehan ka '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]''' jo nan punyo, '''$1'''. Lisensi ko balaku di saluruah dunia.",
+	'wm-license-pd-author-not-legally-possible' => 'Di babarapo nagara, nan ko mungkin indak sah; bilo bantuak itu:',
+	'wm-license-pd-author-self-any-purpose' => "Ambo mangagiah siapopun juo hak untauk meaggunoan karya ko '''untuak tujuan apo sajo''', tanpa syaraik apo pun, kecuali ado kondisi nan dibutuahkan hukum.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 mangagiah siapo pun juo hak untuak manggunoan karya ko '''untuak tujuan apo sajo''', tanpa syaraik apo pun, kecuali ado kondisi nan dibutuahkan hukum.",
+	'wm-license-self-one-license' => 'Ambo, pamegang hak cipta karya ko, basamo ko malakekan berkas ko jo lisensi barikuik:',
+	'wm-license-self-one-license-with-author' => '$1, pemegang hak cipta karya ko, basamo ko malakekan berkas ko di bawah lisensi barikuik:',
+	'wm-license-self-multiple-licenses' => 'Ambo, pamegang hak cipta karya ko, basamo ko memalakekan berkas ko di bawah lisensi barikuik:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, pemegang hak cipta karya ko, basamo ko malakekan berkas ko di bawah lisensi barikuik:',
+	'wm-license-self-multiple-licenses-select' => 'Sanak dapek mamiliah lisensi surang.',
 );
 
 /** Macedonian (македонски)
@@ -7765,6 +7804,8 @@ $messages['roa-tara'] = array(
 	'wm-license-pd-author-not-legally-possible' => "Jndr'à certe paise quiste non g'è legalmende possibbele; ce jè accussì:",
 	'wm-license-pd-author-self-any-purpose' => "Ije garandische a ogneune 'u deritte de ausà sta fatìe '''pe ogne ause''', senze nisciuna condizione, senze ogne condizione, e senza nisciu'otre condizione richieste da 'a legge.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 garandisce a ogneune 'u deritte de ausà sta fatìe '''pe ogne ause''', senze nisciuna condizione, senze ogne condizione, e senza nisciu'otre condizione richieste da 'a legge.",
+	'wm-license-pd-usgov-fema-text' => "Stu file jè 'na fatìe de 'n'imbiegate de l'[[{{int:wm-license-pd-usgov-fema-wiki-link}}|Aggenzie d'a Gestione de le Emergenze Federale]], pigghiate o fatte duranne 'u corse de le dovere ufficiale d'u crestiàne. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] d'u [[{{int:wm-license-pd-usgov-wiki-link}}|Guverne federale de le State Aunìte d'Americhe]], 'u file stè jndr'à 'u '''[[{{int:wm-license-pd-wiki-link}}|dominie pubbleche]]'''.",
+	'wm-license-pd-usgov-noaa-text' => "Stu file jè 'na fatìe de 'n'imbiegate de l'[[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Amministrazione Nazionale de le Oceane e de l'Atmosfere de le State Aunìte d'Americhe]], pigghiate o fatte duranne 'u corse de le dovere ufficiale d'u crestiàne. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] d'u [[{{int:wm-license-pd-usgov-wiki-link}}|Guverne federale de le State Aunìte d'Americhe]], 'u file stè jndr'à 'u '''[[{{int:wm-license-pd-wiki-link}}|dominie pubbleche]]'''.",
 	'wm-license-self-one-license' => "Ije, 'u titolare d'u copyright de sta fatìe, dichiare de pubblecarle sotte 'a seguende licenze:",
 	'wm-license-self-one-license-with-author' => "$1, 'u titolare d'u copyright de sta fatìe, dichiare ca l'ave pubblecate sotte 'a seguende licenze:",
 	'wm-license-self-multiple-licenses' => "Ije, 'u titolare d'u copyright de sta fatìe, dichiare de pubblecarle sotte a le seguende licenze:",
