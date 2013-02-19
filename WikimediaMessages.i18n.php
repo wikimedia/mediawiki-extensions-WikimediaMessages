@@ -3229,6 +3229,7 @@ Einzelheiten sind in den <a href="//wikimediafoundation.org/wiki/Nutzungsbedingu
 Text in anderen Namensräumen ist verfügbar unter der <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de" title="Definition der Creative-Commons-Attribution/Share-Alike-Lizenz">Creative-Commons-Attribution/Share-Alike-Lizenz</a>;
 zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="//wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzungsbedingungen der Wikimedia Foundation">Nutzungsbedingungen</a> für Einzelheiten.',
+	'wikidata-shortcopyrightwarning' => 'Durch Klicken auf „Speichern“ stimmst du den [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Beitrags unter der [https://creativecommons.org/publicdomain/zero/1.0/deed.de CC0-Lizenz] zu.',
 	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
@@ -4680,6 +4681,7 @@ Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">con
 le texte dans les autres espaces de nom est disponible sous la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Définition de la licence Creative Commons Attribution/Share-Alike">licence Creative Commons Attribution/Share-Alike</a>;
 des conditions supplémentaires peuvent s’appliquer.
 Voyez les <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Conditions d’utilisation de la fondation Wikimédia">Conditions d’utilisation</a>',
+	'wikidata-shortcopyrightwarning' => 'En cliquant sur "enregistrer", vous acceptez les [https://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation], et vous acceptez de façon irrévocable de livrer votre contribution sous la [https://creativecommons.org/publicdomain/zero/1.0/ licence CC0].',
 	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [//wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [//www.gnu.org/copyleft/fdl.html GFDL].
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
@@ -5282,6 +5284,7 @@ $messages['gl'] = array(
 o texto presente no resto de espazos de nomes está dispoñible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl" title="Definición da licenza Creative Commons recoñecemento compartir igual">licenza Creative Commons recoñecemento compartir igual</a>;
 pódense aplicar termos adicionais.
 Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl" title="Termos de uso da Fundación Wikimedia">termos de uso</a> para obter máis información.',
+	'wikidata-shortcopyrightwarning' => 'Ao premer en "Gardar", acepta os [https://wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa achega baixo a [https://creativecommons.org/publicdomain/zero/1.0/deed.gl licenza CC0].',
 	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
 Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
@@ -7039,6 +7042,7 @@ $messages['it'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utente inattivo|utente inattiva|utente inattivo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
+	'wikidata-shortcopyrightwarning' => 'Facendo clic su "Salva", si accettano le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
@@ -7794,6 +7798,7 @@ $messages['ko'] = array(
 다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이디브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
+	'wikidata-shortcopyrightwarning' => '"저장"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/Terms_of_Use 이용 약관]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',

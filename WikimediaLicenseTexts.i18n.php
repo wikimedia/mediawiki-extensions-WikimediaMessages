@@ -142,7 +142,8 @@ $messages['qqq'] = array(
 	'wikimedialicensetexts-desc' => '{{desc}}',
 	'wm-license-attribution-with-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when an author is set.',
 	'wm-license-attribution-without-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when no author is set.',
-	'wm-license-artwork-artist' => 'Label "Artist" at [[Commons:Template:Artwork]].',
+	'wm-license-artwork-artist' => 'Label "Artist" at [[Commons:Template:Artwork]].
+{{Identical|Artist}}',
 	'wm-license-artwork-title' => 'Label "Title" at [[Commons:Template:Artwork]], mostly used to list titles of paintings, sculptures, and other artworks
 {{Identical|Title}}',
 	'wm-license-artwork-medium' => 'Label "Medium" at [[Commons:Template:Artwork]]. The field contains information about medium (technique and materials) used to create artwork. For example: "Oil on canvas" or "watercolor over graphite on paper".',
