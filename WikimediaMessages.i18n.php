@@ -3832,6 +3832,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Sanbec
  * @author Shirayuki
  * @author Translationista
+ * @author Vivaelcelta
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes específicos de Wikimedia',
@@ -3964,6 +3965,7 @@ Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de us
 texto en otros espacios de nombres está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definición de la licencia Creative Commons Attribution/Share-Alike License">licencia Creative Commons Atribución/Compartir-Igual License</a>;
 los términos adicionales pueden aplicar.
 Vea <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Términos de Uso">Condiciones de Uso</a> para más detalles.',
+	'wikidata-shortcopyrightwarning' => 'Al hacer clic en "Guardar", aceptas los [https://wikimediafoundation.org/wiki/Terms_of_Use/es términos de uso] y aceptas liberar irrevocablemente tu contribución bajo la [https://creativecommons.org/publicdomain/zero/1.0/deed.es licencia CC0].',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
@@ -6258,6 +6260,7 @@ $messages['ht'] = array(
 
 /** Hungarian (magyar)
  * @author Bdamokos
+ * @author Csigabi
  * @author Dani
  * @author Dj
  * @author Glanthor Reviol
@@ -6374,6 +6377,7 @@ $messages['hu'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktív szerkesztő}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktív szerkesztők',
 	'wikimedia-copyright' => 'A lap szövege <a href="//creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="//wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
+	'wikidata-shortcopyrightwarning' => 'A "mentés" gombra kattintással elfogadod a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételeket], és visszavonhatatlan engedélyt adsz szerkesztéseid [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licensz] szerinti felhasználására.',
 	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [//creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [//www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [//wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'cant-delete-main-page' => 'Nem törölheted vagy nevezheted át a főoldalt.',
 );
@@ -8814,6 +8818,7 @@ $messages['mk'] = array(
 текстот и останатите именски простори се достапни под лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk" title="Уредби на лиценцата Криејтив комонс Наведи извор/Сподели под исти услови">Криејтив комонс Наведи извор/Сподели под исти услови</a>;
 може да важат и дополнителни услови.
 Повеќе ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Terms_of_Use/mk" title="Услови на употреба на Фондацијата Викимедија">Услови на употреба</a>.',
+	'wikidata-shortcopyrightwarning' => 'Стискајќи на „зачувај“, се согласувате со [https://wikimediafoundation.org/wiki/Terms_of_Use/mk условите на употреба] и неотповикливо се согласувате да ги објавувате вашите придонеси под лиценцата [https://creativecommons.org/publicdomain/zero/1.0/deed.mk CC0].',
 	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [//wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [//creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [//www.gnu.org/copyleft/fdl.html?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
@@ -14518,6 +14523,7 @@ $messages['uk'] = array(
 текст інших просторів назв доступний під ліцензією <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
 можуть застосовуватись додаткові умови.
 Див. детальніше <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
+	'wikidata-shortcopyrightwarning' => 'Натиснувши "Зберегти", ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свый внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [//wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
@@ -15547,6 +15553,10 @@ $messages['zh-hans'] = array(
 	'group-Indic_Bots-member' => '{{GENDER:$1|印度语言维基机器}}',
 	'group-New_wikis_importer' => '新维基导入者',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|新维基导入者}}',
+	'group-global-ipblock-exempt' => '全局IP封禁例外',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|全局IP封禁例外}}',
+	'group-recursive-export' => '递归导出',
+	'group-recursive-export-member' => '{{GENDER:$1|递归导出者}}',
 	'group-translationadmin' => '翻译管理员',
 	'group-translationadmin-member' => '{{GENDER:$1|翻译管理员}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻译管理员',
@@ -15558,6 +15568,7 @@ $messages['zh-hans'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
 	'shared-repo-name-shared' => '维基共享资源',
 	'wikimedia-copyright' => '本网站文字内容采用<a href="//creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
+	'wikidata-shortcopyrightwarning' => '点击“保存”表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并且您不可撤销地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授权]发布您的贡献。',
 	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地发表你的贡献。你认同使用超链接或URL足以作为知识共享许可协议的署名。',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
