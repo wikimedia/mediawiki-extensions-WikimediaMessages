@@ -211,6 +211,7 @@ Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation Licen
 	'wm-license-information-description' => '{{Identical|Description}}',
 	'wm-license-information-description-missing' => 'This message is used on Wikimedia Commons, on [[:commons:Template:Description missing]]',
 	'wm-license-information-date' => '{{Identical|Date}}',
+	'wm-license-information-author' => '{{Identical|Author}}',
 	'wm-license-information-permission' => '{{Identical|Permission}}',
 	'wm-license-information-permission-reusing-link' => '{{optional}}
 Please only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.',

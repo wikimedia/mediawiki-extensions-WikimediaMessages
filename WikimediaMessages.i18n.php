@@ -1360,6 +1360,7 @@ Llee <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ast">los términos d\'
 el testu de los demás espacios de nomes ta disponible baxo la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">llicencia Creative Commons reconocimientu/compartir igual</a>;
 puen aplicase otres condiciones más.
 Consulte les <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">condiciones d\'usu</a> pa más detalles.',
+	'wikidata-shortcopyrightwarning' => 'Calcando en "Guardar", aceuta les [https://wikimediafoundation.org/wiki/Terms_of_Use/ast términos d\'usu] y aceuta lliberar irrevocablemente la so collaboración baxo la [https://creativecommons.org/publicdomain/zero/1.0/deed.ast llicencia CC0].',
 	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [//wikimediafoundation.org/wiki/Terms_of_Use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [//creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [//www.gnu.org/copyleft/fdl.html GFDL].
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
@@ -8670,6 +8671,8 @@ $messages['mi'] = array(
  */
 $messages['min'] = array(
 	'sitesupport' => 'Manyumbang',
+	'group-Global_sysops' => 'Panguruih global',
+	'group-Global_sysops-member' => '{{GENDER:$1|panguruih global}}',
 );
 
 /** Macedonian (македонски)
@@ -9257,6 +9260,11 @@ $messages['ms'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tak aktif',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'Teks disediakan dengan <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ms">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma-terma tambahan mungkin terpakai. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terma-Terma Penggunaan</a> untuk butiran lanjut.',
+	'wikidata-copyright' => 'Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Lesen Creative Commons CC0</a>;
+maklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Lesen Creative Commons Attribution/Share-Alike</a>;
+tertakluk pada sebarang syarat tambahan.
+Rujuk <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.',
+	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "simpan", anda bersetuju dengan [https://wikimediafoundation.org/wiki/Terms_of_Use syarat penggunaan] dan sudi melepaskan sumbangan anda di bawah [https://creativecommons.org/publicdomain/zero/1.0/ CC0 license] tanpa boleh ditarik balik.',
 	'wikimedia-copyrightwarning' => 'Dengan mengklik butang "{{int:savearticle}}", anda mempersetujui [//wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [//www.gnu.org/copyleft/fdl.html GFDL].
 Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah lesen Creative Commons.',
 	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
@@ -11464,11 +11472,14 @@ $messages['roa-tara'] = array(
 	'group-steward-member' => '{{GENDER:$1|steward}}',
 	'group-sysadmin' => "Amministrature d'u sisteme",
 	'group-sysadmin-member' => '{{GENDER:$1|amministratore de sisteme}}',
+	'group-API_High_Limit_Requestor' => "API d'u limite ierte de richiedende",
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API limite ierte de richiedende}}',
 	'group-Indic_Bots' => 'Bot Indic',
 	'group-Indic_Bots-member' => '{{GENDER:$1|bot indic}}',
 	'group-New_wikis_importer' => "'Mbortature de uicchi nuève",
 	'group-New_wikis_importer-member' => "{{GENDER:$1|'mbortatore de uicchi nuève}}",
 	'group-global-ipblock-exempt' => 'Esclusiune de blocche globbale de IP',
+	'group-global-ipblock-exempt-member' => "{{GENDER:$1|Esezione de le blocca globbale de l'IP}}",
 	'group-recursive-export' => 'Esportazione recorsive',
 	'group-recursive-export-member' => '{{GENDER:$1|esportatore recorsive}}',
 	'group-translationadmin' => 'Amministrature de le traduziune',
@@ -14523,7 +14534,7 @@ $messages['uk'] = array(
 текст інших просторів назв доступний під ліцензією <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
 можуть застосовуватись додаткові умови.
 Див. детальніше <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
-	'wikidata-shortcopyrightwarning' => 'Натиснувши "Зберегти", ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свый внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
+	'wikidata-shortcopyrightwarning' => 'Натиснувши «Зберегти», ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [//wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
@@ -15016,6 +15027,7 @@ $messages['vi'] = array(
 các văn bản trong các không gian tên khác được được phát hành theo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons Ghi công–Chia sẻ tương tự">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>;
 các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
+	'wikidata-shortcopyrightwarning' => 'Với việc bấm nút “lưu”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
