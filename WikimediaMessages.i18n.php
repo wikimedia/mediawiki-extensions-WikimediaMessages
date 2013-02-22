@@ -199,6 +199,11 @@ $messages['en'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|translation administrator}}',
 	'grouppage-translationadmin'    => '{{ns:project}}:Translation administrators', # only translate this message to other languages if you have to change it
 
+	# Bug 45270 due to https://gerrit.wikimedia.org/r/#/c/50196/
+	'group-centralnoticeadmin'        => 'Central notice administrators',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Central notice administrator}}',
+	'grouppage-centralnoticeadmin'    => '{{ns:project}}:Central notice administrators',
+
 	# mediawiki.org specific user group
 
 	'group-coder'        => 'Coders',
