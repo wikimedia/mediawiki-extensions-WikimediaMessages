@@ -439,6 +439,9 @@ Please leave <code>Foundation:</code> untranslated.
 	'group-translationadmin' => '{{doc-group|translationadmin}}',
 	'group-translationadmin-member' => '{{doc-group|translationadmin|member}}',
 	'grouppage-translationadmin' => '{{doc-group|translationadmin|page}}',
+	'group-centralnoticeadmin' => '{{doc-group|centralnoticeadmin}}',
+	'group-centralnoticeadmin-member' => '{{doc-group|centralnoticeadmin|member}}',
+	'grouppage-centralnoticeadmin' => '{{doc-group|centralnoticeadmin|page}}',
 	'group-coder' => '{{doc-group|coder}}',
 	'group-coder-member' => '{{doc-group|coder|member}}',
 	'grouppage-coder' => '{{optional}}
@@ -7052,6 +7055,10 @@ $messages['it'] = array(
 	'group-inactive-member' => '{{GENDER:$1|utente inattivo|utente inattiva|utente inattivo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
 	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
+	'wikidata-copyright' => 'Tutti i dati strutturati nel namespace principale e delle proprietà sono disponibili in base alla <a href="//creativecommons.org/publicdomain/zero/1.0/deed.it" title="Definizione della licenza Creative Commons CC0">licenza Creative Commons CC0</a>;
+il testo negli altri namespace è disponibile in base alla <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it" title="Definizione della licenza Creative Commons Attribuzione-Condividi allo stesso modo">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>;
+possono applicarsi ulteriori termini.
+Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedia Foundation Terms of Use">Condizioni d\'uso</a> per i dettagli.',
 	'wikidata-shortcopyrightwarning' => 'Facendo clic su "Salva", si accettano le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
@@ -8676,6 +8683,12 @@ $messages['mi'] = array(
  */
 $messages['min'] = array(
 	'sitesupport' => 'Manyumbang',
+	'group-accountcreator' => 'Pambuek akun',
+	'group-accountcreator-member' => '{{GENDER:$1|pambuek akun}}',
+	'grouppage-accountcreator' => '{{ns:project}}:Pambuek akun',
+	'group-ipblock-exempt' => 'Pangacualian sakek IP',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|Pangacualian sakek IP}}',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Pangacualian sakek IP',
 	'group-Global_sysops' => 'Panguruih global',
 	'group-Global_sysops-member' => '{{GENDER:$1|panguruih global}}',
 );
@@ -11498,6 +11511,7 @@ $messages['roa-tara'] = array(
 	'wikimedia-copyright' => "'U teste ète disponibbile sotte 'a <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">licenze ''Creative Commons Attribution/Condivide a 'u stesse mode</a>;
 termine addizionale pò essere applicate.
 Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
+	'wikidata-shortcopyrightwarning' => "Cazzanne \"reggìstre\", tu accette le [https://wikimediafoundation.org/wiki/Terms_of_Use termine d'ause], e tu irrevocabbilmende accette de relascià 'u condrebbute tune sotte 'a [https://creativecommons.org/publicdomain/zero/1.0/ licenze CC0].",
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",

@@ -5176,6 +5176,7 @@ CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.in
 	'wm-license-information-author' => '만든이',
 	'wm-license-information-author-missing' => "이 미디어 파일은 '''제작자''' 정보가 없습니다.",
 	'wm-license-information-permission' => '저작권',
+	'wm-license-information-permission-reusing-link' => 'Commons:위키미디어 밖에서 컨텐츠 활용하기',
 	'wm-license-information-permission-reusing-text' => '이 파일을 인용하기',
 	'wm-license-information-permission-see-below' => '아래 참조',
 	'wm-license-information-other-versions' => '다른 버전',
