@@ -9738,6 +9738,26 @@ $messages['mg'] = array(
 	'wm-license-cc-conditions-attribution-text' => "Tsy maintsy omenao ny anaran'ny mpamoron'ny (na ny tompon'ilay vokatrasa) nanome anao alàlana mangala-tahaka na manova amin'ny fomba nolazainy (fa tsy amin'ny fomban'ny hoe nanohana anao izy na manaiky ny fampiasanao an'ilay vokatr'asany)",
 );
 
+/** Minangkabau (Baso Minangkabau)
+ * @author Iwan Novirion
+ */
+$messages['min'] = array(
+	'wm-license-cc-wiki-link' => 'w:en:Creative Commons',
+	'wm-license-cc-attribution' => 'Atribusi',
+	'wm-license-cc-by-1.0-text' => 'Berkas ko balinsensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic]',
+	'wm-license-cc-by-1.0-fi-text' => 'Berkas ko balinsensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland].',
+	'wm-license-cc-by-1.0-il-text' => 'Berkas ko balinsensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel].',
+	'wm-license-cc-free' => 'Sanak bebas:',
+	'wm-license-cc-free-to-share-header' => 'untuak babagi',
+	'wm-license-cc-free-to-share-text' => 'untuak manyalin, manyebarkan, jo mangirimkan karya',
+	'wm-license-cc-free-to-remix-header' => 'untuak mancampua',
+	'wm-license-cc-free-to-remix-text' => 'untuak mangadaptasi karya',
+	'wm-license-cc-conditions' => 'Di bawah kondisi barikuik:',
+	'wm-license-cc-conditions-attribution-header' => 'atribusi',
+	'wm-license-cc-conditions-share_alike-header' => 'babagi sarupo',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.en',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
