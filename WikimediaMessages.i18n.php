@@ -3973,10 +3973,10 @@ $messages['es'] = array(
 	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
 pueden aplicarse términos adicionales.
 Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de uso</a> para más detalles.',
-	'wikidata-copyright' => 'Todos los datos estructurados de la principal y de la propiedad espacios de nombres está disponible bajo la <a href="//creativecommons.org/publicdomain/cero/1.0/" title="Definición de la licencia Creative Commons Licencia CC0">Creative Commons Licencia CC0</a>;
-texto en otros espacios de nombres está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definición de la licencia Creative Commons Attribution/Share-Alike License">licencia Creative Commons Atribución/Compartir-Igual License</a>;
-los términos adicionales pueden aplicar.
-Vea <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Términos de Uso">Condiciones de Uso</a> para más detalles.',
+	'wikidata-copyright' => 'Todos los datos estructurados del espacio de nombres principal y de propiedad están disponibles bajo la <a href="//creativecommons.org/publicdomain/zero/1.0/deed.es" title="Definición de la licencia Creative Commons CC0">licencia Creative Commons CC0</a>;
+el texto en los demás espacios de nombres está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es" title="Definición de la licencia Creative Commons Atribución-CompartirIgual">licencia Creative Commons Atribución-CompartirIgual</a>;
+pueden aplicarse términos adicionales.
+Véanse los <a href="//wikimediafoundation.org/wiki/Terms_of_Use/es" title="Términos y condiciones de uso de la Fundacuón Wikimedia">Términos y condiciones de uso</a> para más detalles.',
 	'wikidata-shortcopyrightwarning' => 'Al hacer clic en "Guardar", aceptas los [https://wikimediafoundation.org/wiki/Terms_of_Use/es términos de uso] y aceptas liberar irrevocablemente tu contribución bajo la [https://creativecommons.org/publicdomain/zero/1.0/deed.es licencia CC0].',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
@@ -9392,6 +9392,9 @@ $messages['ms'] = array(
 	'group-translationadmin' => 'Pentadbir penterjemahan',
 	'group-translationadmin-member' => '{{GENDER:$1|pentadbir penterjemahan}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Pentadbir penterjemahan',
+	'group-centralnoticeadmin' => 'Penyelia pemberitahuan pusat',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Penyelia pemberitahuan pusat}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Penyelia pemberitahuan pusat',
 	'group-coder' => 'Pengekod',
 	'group-coder-member' => '{{GENDER:$1|pengekod}}',
 	'grouppage-coder' => '{{ns:project}}:Pengekod',
@@ -10029,6 +10032,9 @@ $messages['nl'] = array(
 	'group-translationadmin' => 'Vertalingenbeheerders',
 	'group-translationadmin-member' => '{{GENDER:$1|vertalingenbeheerder}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Vertalingenbeheerders',
+	'group-centralnoticeadmin' => 'Beheerders van centralnotice',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|centralnoticebeheerder}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Centralnoticebeheerders',
 	'group-coder' => 'programmeurs',
 	'group-coder-member' => '{{GENDER:$1|programmeur}}',
 	'grouppage-coder' => '{{ns:project}}:Programmeur',
@@ -10042,6 +10048,7 @@ Zie de <a href="//wikimediafoundation.org/wiki/Gebruiksvoorwaarden">Gebruiksvoor
 tekst in de andere naamruimten is beschikbaar onder de <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definitie van de licentie Creative Commons Attribution/Share-Alike">licentie Creative Commons Attribution/Share-Alike</a>;
 er kunnen extra voorwaarden van toepassing zijn.
 Zie <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor details.',
+	'wikidata-shortcopyrightwarning' => 'Door te klikken op "Opslaan", gaat u akkoord met de [https://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden], en gaat u onomkeerbaar akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
 	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [//nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
