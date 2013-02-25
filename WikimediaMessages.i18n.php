@@ -2029,6 +2029,8 @@ $messages['bg'] = array(
 	'wikimedia-copyright' => 'Текстът е достъпен под лиценза <a href="//creativecommons.org/licenses/by-sa/3.0/deed.bg">Creative Commons Признание-Споделяне на споделеното</a>;
 може да са приложени допълнителни условия.
 За подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use/bg">Условия за ползване</a>.',
+	'wikidata-copyright' => 'Всички структурирани данни от основното именно пространство и именно пространство "Свойство:" са достъпни под условията на договор <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Дефиниция на договор Криейтив Комънс CC0">Криейтив Комънс CC0</a>; съдържанието в останалите именни пространства е достъпно под условията на договор <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Дефиниция на договор Криейтив Комънс Признание/Споделяне на споделеното">Криейтив Комънс Признание/Споделяне на споделеното</a>; може да са в сила и допълнителни условия. За повече подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Условия за ползване на Фондация Уикимедия">Условията за ползване</a>.',
+	'wikidata-shortcopyrightwarning' => 'Натискайки бутона "Съхраняване", се съгласявате с [https://wikimediafoundation.org/wiki/Terms_of_Use Условията за ползване] и безвъзвратно публикувате приноса си под условията на договор [https://creativecommons.org/publicdomain/zero/1.0/ Криейтив Комънс CC0].',
 	'wikimedia-copyrightwarning' => 'Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [//creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [//www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].
 Съгласявате се минималното признание на авторството ви, при ползване на материала от други потребители, да става с хипервръзка към страницата, към която допринасяте.
 За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].', # Fuzzy
@@ -3255,6 +3257,8 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
+	'extdist-branch-master' => 'master (aktuellste Entwicklerversion)',
+	'extdist-branch-REL1_20' => '1.20 (aktuellste stabile MediaWiki-Version)',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -4692,6 +4696,9 @@ $messages['fr'] = array(
 	'group-translationadmin' => 'Administrateurs de traduction',
 	'group-translationadmin-member' => 'administrat{{GENDER:$1|eur|rice}} de traduction',
 	'grouppage-translationadmin' => '{{ns:project}}:Translation administrators',
+	'group-centralnoticeadmin' => 'Administrateurs des notifications centralisées',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrateur|Administratrice}} de notification centralisée',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administrateurs de notification centralisée',
 	'group-coder' => 'Codeurs',
 	'group-coder-member' => '{{GENDER:$1|codeur}}',
 	'group-inactive' => 'Utilisateurs inactifs',
@@ -4709,6 +4716,8 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
+	'extdist-branch-master' => 'maître (dernière version de développement)',
+	'extdist-branch-REL1_20' => '1.20 (dernier MediaWiki stable)',
 );
 
 /** Cajun French (français cadien)
@@ -5316,6 +5325,8 @@ Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo 
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
 	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
+	'extdist-branch-master' => 'principal (última versión en desenvolvemento)',
+	'extdist-branch-REL1_20' => '1.20 (último MediaWiki estable)',
 );
 
 /** Gilaki (گیلکی)
@@ -5812,6 +5823,9 @@ $messages['he'] = array(
 	'group-translationadmin' => 'מנהלי תרגום',
 	'group-translationadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} תרגום',
 	'grouppage-translationadmin' => '{{ns:project}}:מנהלי תרגום',
+	'group-centralnoticeadmin' => 'מנהלי הודעה מרכזית',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} הודעה מרכזית',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:מנהלי הודעה מרכזית',
 	'group-coder' => 'מתכנתים',
 	'group-coder-member' => '{{GENDER:$1|מתכנת|מתכנתת}}',
 	'group-inactive' => 'משתמשים בלתי פעילים',
@@ -5820,10 +5834,13 @@ $messages['he'] = array(
 	'shared-repo-name-shared' => 'ויקישיתוף',
 	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="//creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
 	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
+	'wikidata-shortcopyrightwarning' => 'לחיצה על "שמירה" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].',
 	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use/he תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
 	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
+	'extdist-branch-master' => 'master (גרסת הפיתוח האחרונה)',
+	'extdist-branch-REL1_20' => '1.20 (גרסה יציבה אחרונה של מדיה־ויקי)',
 );
 
 /** Hindi (हिन्दी)
