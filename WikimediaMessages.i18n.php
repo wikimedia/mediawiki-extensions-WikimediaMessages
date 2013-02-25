@@ -237,6 +237,11 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 
 	# Added by the WLM mobile app
 	'upload-more-photos-of-this-monument' => 'Upload more photos of this monument',
+
+	# Extension distributor messages for mediawiki.org
+	'extdist-branch-master' => 'master (latest development version)',
+	'extdist-branch-REL1_20' => '1.20 (latest stable MediaWiki)',
+	'extdist-branch-REL1_19' => '1.19',
 );
 
 /** Message documentation (Message documentation)
@@ -463,6 +468,9 @@ This message is displayed in the site footer. It is the default licensing policy
 {{Identical/Wikimedia-licensing}}',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
+	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
+	'extdist-branch-REL1_20' => 'Message used for an extension branched for MediaWiki version 1.20, which is currently the latest stable MediaWiki release.',
+	'extdist-branch-REL1_19' => 'Message used for an extension branched for MediaWiki version 1.19',
 );
 
 /** Abkhazian (Аҧсшәа)
