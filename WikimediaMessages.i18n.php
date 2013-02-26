@@ -7859,6 +7859,8 @@ $messages['ko'] = array(
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
 	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
+	'extdist-branch-master' => '마스터 (최신 개발 버전)',
+	'extdist-branch-REL1_20' => '1.20 (최신 안정 미디어위키)',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -8992,6 +8994,8 @@ $messages['mk'] = array(
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
+	'extdist-branch-master' => 'матична (најнова развојна верзија)',
+	'extdist-branch-REL1_20' => '1.20 (најнова стабилна верзија на МедијаВики)',
 );
 
 /** Malayalam (മലയാളം)
@@ -10079,6 +10083,8 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
+	'extdist-branch-master' => 'master (laatste ontwikkelversie)',
+	'extdist-branch-REL1_20' => '1.20 (laatste stabiele versie van MediaWiki)',
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
@@ -15189,6 +15195,9 @@ $messages['vi'] = array(
 	'group-translationadmin' => 'Bảo quản viên bản dịch',
 	'group-translationadmin-member' => '{{GENDER:$1}}bảo quản viên bản dịch',
 	'grouppage-translationadmin' => '{{ns:project}}:Bảo quản viên bản dịch',
+	'group-centralnoticeadmin' => 'Quản lý viên thông báo chung',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1}}quản lý viên thông báo chung',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Quản lý viên thông báo chung',
 	'group-coder' => 'Lập trình viên',
 	'group-coder-member' => '{{GENDER:$1}}lập trình viên',
 	'group-inactive' => 'Thành viên không tích cực',
@@ -15205,6 +15214,8 @@ Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?use
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
+	'extdist-branch-master' => 'master (phiên bản phát triển mới nhất)',
+	'extdist-branch-REL1_20' => '1.20 (MediaWiki ổn định mới nhất)',
 );
 
 /** Volapük (Volapük)
