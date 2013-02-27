@@ -235,10 +235,10 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 	'wm-license-pd-usgov-military-navy-wiki-link' => '{{Optional}}',
 	'wm-license-pd-usgov-noaa-wiki-link' => '{{Optional}}',
 	'wm-license-pd-wiki-link' => '{{optional}}',
-	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
-	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
-	'wm-license-self-multiple-licenses' => 'You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]',
-	'wm-license-self-multiple-licenses-with-author' => 'This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self/{{SUBPAGENAME}}]]
+	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self]]',
+	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self]]',
+	'wm-license-self-multiple-licenses' => 'You can peek at [[Commons:Template:Self]]',
+	'wm-license-self-multiple-licenses-with-author' => 'This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]]
 * {{msg-mw|wm-license-self-multiple-licenses}}
 * {{msg-mw|wm-license-self-multiple-licenses-with-author}}
 * {{msg-mw|wm-license-self-one-license}}

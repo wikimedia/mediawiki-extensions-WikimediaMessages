@@ -7079,8 +7079,11 @@ $messages['it'] = array(
 	'group-recursive-export' => 'Esportatori ricorsivi',
 	'group-recursive-export-member' => '{{GENDER:$1|esportatore|esportatrice|esportatore/trice}} ricorsivo',
 	'group-translationadmin' => 'Amministratori delle traduzioni',
-	'group-translationadmin-member' => '{{GENDER:$1|amministratore delle traduzioni|amministratrice delle traduzioni|amministratore/trice delle traduzioni}}',
+	'group-translationadmin-member' => '{{GENDER:$1|amministratore|amministratrice|amministratore/trice}} delle traduzioni',
 	'grouppage-translationadmin' => '{{ns:project}}:Amministratori delle traduzioni',
+	'group-centralnoticeadmin' => 'Amministratori avvisi centralizzati',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|amministratore|amministratrice|amministratore/trice}} avvisi centralizzati',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Amministratori avvisi centralizzati',
 	'group-coder' => 'Programmatori',
 	'group-coder-member' => '{{GENDER:$1|programmatore|programmatrice|programmatore/trice}}',
 	'group-inactive' => 'Utenti inattivi',
@@ -7096,6 +7099,8 @@ Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedi
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
+	'extdist-branch-master' => 'master (ultima versione in sviluppo)',
+	'extdist-branch-REL1_20' => '1.20 (ultima versione stabile di MediaWiki)',
 );
 
 /** Japanese (日本語)
@@ -9133,10 +9138,13 @@ $messages['ml'] = array(
 മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈ അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
 അധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.
 കൂടുതൽ വിവരങ്ങൾക്ക് <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
+	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന പിന്നീട് മാറ്റാനാവാത്ത വിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [//wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ പിന്നീട് മാറ്റാനാവാത്ത [//creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [//ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്കോ യൂ.ആർ.എല്ലോ മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
 	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
 	'upload-more-photos-of-this-monument' => 'ഈ സ്മാരകത്തിന്റെ കൂടുതൽ ചിത്രങ്ങൾ അപ്‌ലോഡ് ചെയ്യുക',
+	'extdist-branch-master' => 'മാസ്റ്റർ (ഏറ്റവും പുതിയ വികസനഘട്ട പതിപ്പ്)',
+	'extdist-branch-REL1_20' => '1.20 (ഏറ്റവും പുതിയ സുസ്ഥിര മീഡിയവിക്കി)',
 );
 
 /** Mongolian (монгол)
