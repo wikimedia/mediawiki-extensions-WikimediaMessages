@@ -14,9 +14,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'wikimediamessages-desc' => '{{desc}}',
+	'wikimediamessages-desc' => '{{desc|name=Wikimedia Temporary Messages}}',
 );
 
 /** Asturian (asturianu)

@@ -139,7 +139,7 @@ $messages['en'] = array(
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'wikimedialicensetexts-desc' => '{{desc}}',
+	'wikimedialicensetexts-desc' => '{{desc|name=Wikimedia License Texts|url=http://www.mediawiki.org/wiki/Extension:WikimediaMessages}}',
 	'wm-license-attribution-with-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when an author is set.',
 	'wm-license-attribution-without-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when no author is set.',
 	'wm-license-artwork-artist' => 'Label "Artist" at [[Commons:Template:Artwork]].

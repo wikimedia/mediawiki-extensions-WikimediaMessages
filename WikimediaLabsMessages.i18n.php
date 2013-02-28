@@ -23,9 +23,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'wikimedialabsmessages-desc' => '{{desc}}',
+	'wikimedialabsmessages-desc' => '{{desc|name=Wikimedia Labs Messages}}',
 	'gerrittools-repogroup-analytics' => 'Gerrit repositories for Wikimedia Analytic projects',
 	'gerrittools-repogroup-integration' => 'Gerrit repositories for Wikimedia Continuous Integration projects',
 	'gerrittools-repogroup-mediawiki' => 'Gerrit repositories for MediaWiki projects',

@@ -267,7 +267,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'wikimediamessages-desc' => '{{desc}}',
+	'wikimediamessages-desc' => '{{desc|name=Wikimedia Messages|url=http://www.mediawiki.org/wiki/Extension:WikimediaMessages}}',
 	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
 {{doc-important|Only change the link if it has a translation!|([[wmf:Special:Prefixindex/Donate/|check]])}}',
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.
@@ -461,7 +461,9 @@ Please leave <code>Foundation:</code> untranslated.
 {{Identical|Wikimedia Commons}}',
 	'wikimedia-copyright' => '{{Identical/Wikimedia-licensing}}
 This message is displayed in the site footer. It is the default licensing policy for most Wikimedia sites.',
-	'wikidata-copyright' => 'This message is displayed in the site footer. It is the special licensing policy for the Wikidata project.',
+	'wikidata-copyright' => 'This message is displayed in the site footer. It is the special licensing policy for the Wikidata project.
+
+The attribute "<code>title</code>" values ("Definition of the Creative Commons CC0 License", "Definition of the Creative Commons Attribution/Share-Alike License" and "Wikimedia Foundation Terms of Use") are also translatable.',
 	'wikidata-shortcopyrightwarning' => 'Message displayed in the pop up when editing Wikidata data. It points to the terms of use and the CC0 license, as the structured data is published under CC0.',
 	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([http://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([http://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
@@ -3110,6 +3112,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
  * @author Merlissimo
  * @author Metalhead64
  * @author Nemo bis
+ * @author Neverendingo
  * @author Pill
  * @author Purodha
  * @author Raimond Spekking
@@ -7253,9 +7256,13 @@ $messages['ja'] = array(
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
+	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="//creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="//creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
+	'wikidata-shortcopyrightwarning' => '「保存」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を[https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
+	'extdist-branch-master' => 'マスター (最新開発版)',
+	'extdist-branch-REL1_20' => '1.20 (MediaWiki 最新安定版)',
 );
 
 /** Lojban (Lojban)
@@ -9450,6 +9457,8 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
 	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Anda bersetuju bahawa dengan memberikan maklumat ini kepada Yayasan Wikimedia, kami boleh menghubungi awak berkenaan terjemahan atau perihal-perihal lain yang berkenaan dengan gerakan  Wikimedia yang kami berpendapat mempunyai kaitan dengan anda. Anda bersetuju bahawa data anda boleh disimpan di Amerika Syarikat dan tertakluk kepada [https://wikimediafoundation.org/wiki/Privacy_policy dasar privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Muat naik lebih banyak gambar monumen ini',
+	'extdist-branch-master' => 'induk (versi pembangunan terkini)',
+	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil yang terkini)',
 );
 
 /** Maltese (Malti)
@@ -11671,6 +11680,9 @@ $messages['roa-tara'] = array(
 	'group-translationadmin' => 'Amministrature de le traduziune',
 	'group-translationadmin-member' => '{{GENDER:$1|amministratore de le traduziune}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Amministrature de le traduziune',
+	'group-centralnoticeadmin' => 'Amministrature de le notizie cendralizzate',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|amministratore de le notizie cendralizzate}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Amministrature de le notizie cendralizzate',
 	'group-coder' => 'Codificature',
 	'group-coder-member' => '{{GENDER:$1|codificatore}}',
 	'group-inactive' => 'Utinde inattive',
@@ -11684,6 +11696,7 @@ Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
+	'extdist-branch-REL1_20' => '1.20 (urtema versione secure de MediaUicchi)',
 );
 
 /** Russian (русский)
