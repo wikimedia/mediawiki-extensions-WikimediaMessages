@@ -6565,6 +6565,7 @@ Tu accepta que un hyperligamine o URL suffice como attribution sub le licentia C
  * @author Farras
  * @author Irwangatot
  * @author IvanLanin
+ * @author Iwan Novirion
  * @author Kenrick95
  * @author Rex
  */
@@ -6679,9 +6680,12 @@ $messages['id'] = array(
 	'group-inactive-member' => '{{GENDER:$1|pengguna tidak aktif}}',
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tidak aktif',
 	'wikimedia-copyright' => 'Teks tersedia di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
-	'wikimedia-copyrightwarning' => 'Dengan menekan tombol simpan, Anda setuju untuk melepas kontribusi Anda seterusnya di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lisensi Atribusi/Berbagi Serupa Creative Commons 3.0] dan [//www.gnu.org/copyleft/fdl.html GFDL]. Anda setuju untuk diberi kredit oleh pengguna ulang, minimal, melalui pranala atau URL ke halaman yang Anda kontribusikan. Lihat [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Penggunaan] untuk lebih jelasnya.', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Dengan menekan tombol "{{int:savearticle}}", Anda setuju pada [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan yang Berlaku], dan melepas kontribusi Anda di bawah [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC-BY-SA 3.0] dan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Anda tidak dapat menghapus atau memindahkan halaman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dengan memberikan informasi ini ke Yayasan Wikimedia, Anda setuju bahwa kami dapat menghubungi Anda terkait terjemahan atau topik lain yang berhubungan dengan gerakan Wikimedia yang kami anggap perlu untuk Anda ketahui. Anda setuju semua data Anda disimpan di Amerika Serikat dan mematuhi [https://wikimediafoundation.org/wiki/Privacy_policy kebijakan privasi] kami.',
+	'upload-more-photos-of-this-monument' => 'Unggah lebih banyak foto dari monumen ini',
+	'extdist-branch-master' => 'master (versi pengembangan terbaru)',
+	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil terbaru)',
 );
 
 /** Interlingue (Interlingue)
@@ -7257,7 +7261,7 @@ $messages['ja'] = array(
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
 	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="//creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="//creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
-	'wikidata-shortcopyrightwarning' => '「保存」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を[https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
+	'wikidata-shortcopyrightwarning' => '「保存」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
@@ -8849,6 +8853,12 @@ $messages['min'] = array(
 	'grouppage-recursive-export' => 'm:Ekspor rekursif',
 	'grouppage-coder' => '{{ns:project}}:Pengkode',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
+	'wikimedia-copyright' => 'Teks tasadio di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi/Babagi Sarupo Creative Commons</a>; katantuan tambahan mungkin balaku. Lihek <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katantuan Panggunoan</a> untuak labiah jaleh.',
+	'wikimedia-copyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan Panggunoan], dan malapeh jariah Sanak di bawah [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC-BY-SA 3.0] jo [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Sanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.',
+	'cant-delete-main-page' => 'Sanak indak dapek mangahapuih atau mamindahan palanta.',
+	'upload-more-photos-of-this-monument' => 'Muek labiah banyak foto dari monumen ko',
+	'extdist-branch-master' => 'master (versi pangambangan tabaru)',
+	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil tabaru)',
 );
 
 /** Macedonian (македонски)
@@ -9134,6 +9144,9 @@ $messages['ml'] = array(
 	'group-translationadmin' => 'പരിഭാഷാ കാര്യനിർവാഹകർ',
 	'group-translationadmin-member' => '{{GENDER:$1|പരിഭാഷാ കാര്യനിർവാഹകൻ|പരിഭാഷാ കാര്യനിർവാഹക}}',
 	'grouppage-translationadmin' => '{{ns:project}}:പരിഭാഷാ കാര്യനിർവാഹകർ',
+	'group-centralnoticeadmin' => 'കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകർ',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകൻ|കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹക}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകർ',
 	'group-coder' => 'കോഡേഴ്സ്',
 	'group-coder-member' => '{{GENDER:$1|കോഡർ}}',
 	'group-inactive' => 'സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
@@ -11696,6 +11709,7 @@ Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
+	'extdist-branch-master' => 'master (urtema versione de sveluppe)',
 	'extdist-branch-REL1_20' => '1.20 (urtema versione secure de MediaUicchi)',
 );
 
@@ -12654,7 +12668,7 @@ $messages['sl'] = array(
 	'group-eliminator-member' => '{{GENDER:$1|uničevalec|uničevalka}}',
 	'grouppage-eliminator' => '{{ns:project}}:Uničevalec',
 	'group-filemover' => 'Prestavljavci datotek',
-	'group-filemover-member' => '{{GENDER:$1|prestavljalec|prestavljalka}} datotek',
+	'group-filemover-member' => '{{GENDER:$1|prestavljavec|prestavljavka}} datotek',
 	'grouppage-filemover' => '{{ns:project}}:Prestavljavec datotek',
 	'group-flood' => 'Uporabniki boti',
 	'group-flood-member' => '{{GENDER:$1|uporabnik|uporabnica}} bot',
