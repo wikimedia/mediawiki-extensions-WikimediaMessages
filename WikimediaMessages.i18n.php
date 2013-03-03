@@ -1367,6 +1367,9 @@ $messages['ast'] = array(
 	'group-translationadmin' => 'Alministradores de traducción',
 	'group-translationadmin-member' => '{{GENDER:$1|alministrador|alministradora}} de traducción',
 	'grouppage-translationadmin' => '{{ns:project}}:Alministradores de traducción',
+	'group-centralnoticeadmin' => "Alministradores d'avisu central",
+	'group-centralnoticeadmin-member' => "{{GENDER:$1|Alministrador d'avisu central|Alministradora d'avisu central}}",
+	'grouppage-centralnoticeadmin' => "{{ns:project}}:Alministradores d'avisu central",
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => '{{GENDER:$1|programador|programadora}}',
 	'group-inactive' => 'Usuarios inactivos',
@@ -1384,6 +1387,8 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
+	'extdist-branch-master' => 'maestra (cabera versión en desendolcu)',
+	'extdist-branch-REL1_20' => '1.20 (cabera MediaWiki estable)',
 );
 
 /** Avaric (авар)
@@ -2545,9 +2550,9 @@ $messages['ca'] = array(
 	'group-researcher' => 'Recercadors',
 	'group-researcher-member' => '{{GENDER:$1|recercador|recercadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Recercadors',
-	'group-rollbacker' => 'Revertidors ràpids',
-	'group-rollbacker-member' => '{{GENDER:$1|revertidor ràpid|revertidora ràpida}}',
-	'grouppage-rollbacker' => '{{ns:project}}:Revertidors ràpids',
+	'group-rollbacker' => 'Reversors',
+	'group-rollbacker-member' => '{{GENDER:$1|reversor|reversora}}',
+	'grouppage-rollbacker' => '{{ns:project}}:Reversors',
 	'group-transwiki' => 'Importadors transwiki',
 	'group-transwiki-member' => '{{GENDER:$1|importador|importadora}} transwiki',
 	'grouppage-transwiki' => '{{ns:project}}:Importadors transwiki',
@@ -2556,8 +2561,8 @@ $messages['ca'] = array(
 	'grouppage-trusted' => '{{ns:project}}:Usuaris de confiança',
 	'group-Global_bot' => 'Bots globals',
 	'group-Global_bot-member' => '{{GENDER:$1|bot global}}',
-	'group-Global_rollback' => 'Revertidors ràpids globals',
-	'group-Global_rollback-member' => '{{GENDER:$1|revertidor ràpid|revertidora ràpida}} global',
+	'group-Global_rollback' => 'Reversors globals',
+	'group-Global_rollback-member' => '{{GENDER:$1|reversor|reversora}} global',
 	'group-Global_sysops' => 'Administradors globals',
 	'group-Global_sysops-member' => '{{GENDER:$1|administrador|administradora}} global',
 	'group-Ombudsmen' => 'Síndics de greuges',
@@ -2649,7 +2654,7 @@ $messages['chr'] = array(
  */
 $messages['ckb'] = array(
 	'wikimediamessages-desc' => 'پەیامە تایبەتەکانی ویکیمیدیا',
-	'sitesupport' => 'پاڵپشتی لە ویکیپیدیا',
+	'sitesupport' => 'پاڵپشتی و بەخشین',
 	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',
 	'nstab-institution' => 'دامەزراوە',
 	'group-accountcreator' => 'دروست‌کەری هەژمارە',
@@ -14736,6 +14741,9 @@ $messages['uk'] = array(
 	'group-translationadmin' => 'Адміністратори перекладу',
 	'group-translationadmin-member' => '{{GENDER:$1|адміністратор перекладу|адміністраторка перекладу}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Адміністратори перекладу',
+	'group-centralnoticeadmin' => 'Центральні адміністратори-оповісники',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Центральний адміністратор-оповісник}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Центральні адміністратори-оповісники',
 	'group-coder' => 'Програмісти',
 	'group-coder-member' => '{{GENDER:$1|програміст|програмістка}}',
 	'grouppage-coder' => '{{ns:project}}:Coder',
@@ -14753,6 +14761,8 @@ $messages['uk'] = array(
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
+	'extdist-branch-master' => 'майстер (остання розроблена версія)',
+	'extdist-branch-REL1_20' => '1.20 (остання стабільна MediaWiki)',
 );
 
 /** Urdu (اردو)
@@ -15235,6 +15245,7 @@ $messages['vi'] = array(
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Quản lý viên thông báo chung',
 	'group-coder' => 'Lập trình viên',
 	'group-coder-member' => '{{GENDER:$1}}lập trình viên',
+	'grouppage-coder' => '{{ns:project}}:Lập trình viên',
 	'group-inactive' => 'Thành viên không tích cực',
 	'group-inactive-member' => '{{GENDER:$1}}thành viên không tích cực',
 	'grouppage-inactive' => '{{ns:project}}:Thành viên không tích cực',
