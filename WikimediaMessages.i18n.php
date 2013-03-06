@@ -2037,7 +2037,7 @@ $messages['bg'] = array(
 може да са приложени допълнителни условия.
 За подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use/bg">Условия за ползване</a>.',
 	'wikidata-copyright' => 'Всички структурирани данни от основното именно пространство и именно пространство "Свойство:" са достъпни под условията на договор <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Дефиниция на договор Криейтив Комънс CC0">Криейтив Комънс CC0</a>; съдържанието в останалите именни пространства е достъпно под условията на договор <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Дефиниция на договор Криейтив Комънс Признание/Споделяне на споделеното">Криейтив Комънс Признание/Споделяне на споделеното</a>; може да са в сила и допълнителни условия. За повече подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Условия за ползване на Фондация Уикимедия">Условията за ползване</a>.',
-	'wikidata-shortcopyrightwarning' => 'Натискайки бутона "Съхраняване", се съгласявате с [https://wikimediafoundation.org/wiki/Terms_of_Use Условията за ползване] и безвъзвратно публикувате приноса си под условията на договор [https://creativecommons.org/publicdomain/zero/1.0/ Криейтив Комънс CC0].',
+	'wikidata-shortcopyrightwarning' => 'Натискайки бутона "Съхраняване", се съгласявате с [https://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване] и безвъзвратно публикувате приноса си под условията на договор [https://creativecommons.org/publicdomain/zero/1.0/ Криейтив Комънс CC0].',
 	'wikimedia-copyrightwarning' => 'Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [//creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [//www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].
 Съгласявате се минималното признание на авторството ви, при ползване на материала от други потребители, да става с хипервръзка към страницата, към която допринасяте.
 За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].', # Fuzzy
@@ -7119,6 +7119,7 @@ Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedi
  * @author Aotake
  * @author Fievarsty
  * @author Fryed-peach
+ * @author Hazard-SJ
  * @author Hosiryuhosi
  * @author JtFuruhata
  * @author Marine-Blue
@@ -7265,7 +7266,7 @@ $messages['ja'] = array(
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
-	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="//creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="//creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
+	'wikidata-copyright' => '標準名前空間とProperty名前空間上にあるすべての構造化されたデータは<a href="//creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="//creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
 	'wikidata-shortcopyrightwarning' => '「保存」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
@@ -15122,7 +15123,7 @@ Kacu mugažo: <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehd
  * @author לערי ריינהארט
  */
 $messages['vi'] = array(
-	'wikimediamessages-desc' => 'Các thông báo đặc trưng cho Wikimedia',
+	'wikimediamessages-desc' => 'Các thông điệp dành cho Wikimedia',
 	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Quy%C3%AAn_g%C3%B3p',
 	'sitesupport' => 'Quyên góp',
 	'tooltip-n-sitesupport' => 'Hãy hỗ trợ chúng tôi',
