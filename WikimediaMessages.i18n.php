@@ -2585,10 +2585,11 @@ $messages['ca'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
 	'wikimedia-copyright' => 'El text està disponible sota la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
 Vegeu les <a href="//wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
+	'wikidata-shortcopyrightwarning' => 'En clicar "desa", esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use/ca condicions d\'ús] i accepteu alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/publicdomain/zero/1.0/deed.ca llicència CC0].',
 	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [//creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [//www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
-	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
+	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
@@ -4974,6 +4975,9 @@ $messages['frr'] = array(
 	'group-translationadmin' => 'Auersaatang administratooren',
 	'group-translationadmin-member' => '{{GENDER:$1|Administraator för auersaatangen}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratooren för auersaatangen',
+	'group-centralnoticeadmin' => 'Administratooren för sentraal tisangen',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administraator för sentraal tisangen}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administratooren för sentraal tisangen',
 	'group-coder' => 'Programiarern',
 	'group-coder-member' => '{{GENDER:$1|Programiarer}}',
 	'group-inactive' => 'Ünaktiif brükern',
@@ -4985,11 +4989,14 @@ Luke am enkelthaiden uun a <a href="//wikimediafoundation.org/wiki/Nutzungsbedin
 ööder dooten stun oner det lisens <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike</a>;
 diar kön uk noch ööder reegeln tääl.
 Luke bi a <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
+	'wikidata-shortcopyrightwarning' => 'Wan dü üüb ""Seekre" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.',
 	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [//wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [//frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [//frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dü stemest tu, dat at Wikimedia Foundation mä di kontakt apnem mut. Dü stemest tu, dat din dooten uun Ameerikoo efter üüs bestemangen tu [https://wikimediafoundation.org/wiki/Privacy_policy dootenseekerhaid] seekert wurd mut.',
 	'upload-more-photos-of-this-monument' => 'Muar bilen faan detdiar seenksteed huuchsjüür',
+	'extdist-branch-master' => 'master (leetst wersjuun)',
+	'extdist-branch-REL1_20' => '1.20 (leetst stabiil MediaWiki wersjuun)',
 );
 
 /** Friulian (furlan)
