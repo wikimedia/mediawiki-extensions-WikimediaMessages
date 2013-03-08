@@ -7879,7 +7879,7 @@ $messages['ko'] = array(
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use">이용 약관</a>을 참고하십시오.',
 	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="//creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고
-다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이디브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
 	'wikidata-shortcopyrightwarning' => '"저장"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
@@ -10817,13 +10817,13 @@ $messages['pms'] = array(
 	'group-steward-member' => '{{GENDER:$1|comess}}',
 	'group-sysadmin' => 'Aministrator ëd sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|aministrator ëd sistema}}',
-	'group-API_High_Limit_Requestor' => 'Ciamant dël lìmit pi àut dle API',
-	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Ciamant dël lìmit pi àut dle API}}',
+	'group-API_High_Limit_Requestor' => "Arciam ëd lìmit superior ëd l'API",
+	'group-API_High_Limit_Requestor-member' => "{{GENDER:$1|archiedent|archiedenta}} ëd lìmit superior ëd l'API",
 	'group-Indic_Bots' => 'Trigomiro indian',
 	'group-Indic_Bots-member' => '{{GENDER:$1|trigomiro indian}}',
 	'group-New_wikis_importer' => 'Importador dle wiki neuve',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|importador dle wiki neuve}}',
-	'group-global-ipblock-exempt' => 'Esension dij blòch IP globaj',
+	'group-global-ipblock-exempt' => "Esension globaj ëd blocagi d'adrësse IP",
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|esension dij blòch IP globaj}}',
 	'group-recursive-export' => 'Esportassion ricorsive',
 	'group-recursive-export-member' => '{{GENDER:$1|esportador ricorsiv}}',
