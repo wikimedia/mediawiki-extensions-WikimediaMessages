@@ -34,6 +34,13 @@ $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Часовыя паведамленьні для Вікімэдыі',
 );
 
+/** Catalan (català)
+ * @author Anskar
+ */
+$messages['ca'] = array(
+	'wikimediamessages-desc' => 'Missatges temporals específics de Wikimedia',
+);
+
 /** Czech (česky)
  * @author Mormegil
  */

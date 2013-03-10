@@ -9615,6 +9615,7 @@ $messages['tzm'] = array(
 	'wm-license-creator-work-period' => 'ⵜⵉⵣⵉ ⵏ ⵜⵡⵓⵔⵉ',
 	'wm-license-creator-work-location' => 'ⴰⴷⵖⴰⵔ ⵏ ⵜⵡⵓⵔⵉ',
 	'wm-license-information-date' => 'ⴰⴽⵓⴷ',
+	'wm-license-information-author' => 'ⴰⵎⵙⴽⴰⵔ',
 	'wm-license-pd-wiki-link' => 'w:tzm:public domain',
 );
 
