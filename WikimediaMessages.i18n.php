@@ -2985,6 +2985,7 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
 
 /** Danish (dansk)
  * @author Christian List
+ * @author Fnielsen
  * @author Froztbyte
  * @author Jon Harald Søby
  * @author Kaare
@@ -3093,6 +3094,7 @@ $messages['da'] = array(
 	'grouppage-steward' => 'm:Stewards/nb',
 	'group-sysadmin' => 'Systemadministratorer',
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
+	'group-recursive-export' => 'Rekursiv eksport',
 	'group-translationadmin' => 'Oversættelsesadministratorer',
 	'group-translationadmin-member' => '{{GENDER:$1|oversættelsesadministrator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Oversættelsesadministratorer',
@@ -9168,7 +9170,7 @@ $messages['ml'] = array(
 	'shared-repo-name-shared' => 'വിക്കിമീഡിയ കോമൺസ്',
 	'wikimedia-copyright' => 'വിവരങ്ങൾ <a href="//creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നൽകുക)</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ml">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
 	'wikidata-copyright' => 'പ്രധാന, ഗുണഗണ നാമമേഖലകളിലെ എല്ലാ ക്രമപ്പെടുത്തിയ വിവരങ്ങളും <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">ക്രിയേറ്റീവ് കോമൺസ് സി.സി.0 അനുവാദപത്രം</a> പ്രകാരം ലഭ്യമായിരിക്കും;
-മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈ അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
+മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
 അധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.
 കൂടുതൽ വിവരങ്ങൾക്ക് <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
 	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന പിന്നീട് മാറ്റാനാവാത്ത വിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.',
