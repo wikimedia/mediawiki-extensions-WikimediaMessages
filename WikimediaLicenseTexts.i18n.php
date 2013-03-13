@@ -1711,6 +1711,7 @@ $messages['crh-latn'] = array(
  * @author Mormegil
  * @author Multichill
  * @author Petrus Adamus
+ * @author Tchoř
  */
 $messages['cs'] = array(
 	'wikimedialicensetexts-desc' => 'Zprávy licencí Wikimedia',
@@ -1726,7 +1727,7 @@ $messages['cs'] = array(
 	'wm-license-artwork-references' => 'Reference',
 	'wm-license-artwork-inscriptions' => 'Vnitřní znaky',
 	'wm-license-artwork-notes' => 'Poznámky',
-	'wm-license-artwork-id' => 'Inventářní číslo',
+	'wm-license-artwork-id' => 'Inventární číslo',
 	'wm-license-artwork-source' => 'Zdroj/Fotograf',
 	'wm-license-book-edition' => 'Edice',
 	'wm-license-book-editor' => 'Editor',
