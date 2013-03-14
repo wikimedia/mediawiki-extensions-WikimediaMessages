@@ -1376,7 +1376,7 @@ $messages['ast'] = array(
 	'group-inactive-member' => '{{GENDER:$1|usuariu inactivu|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
 	'wikimedia-copyright' => 'El testu ta disponible baxo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Llicencia Creative Commons Reconocimientu/Compartir-Igual 3.0</a>; puen aplicase otres cláusules más.
-Llee <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ast">los términos d\'usu</a> pa más detalles.',
+Llea <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ast">les condiciones d\'usu</a> pa más detalles.',
 	'wikidata-copyright' => 'Tolos datos estruturaos de los espacios de nomes principal y de propiedaá tan disponibles baxo la <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">llicencia Creative Commons CC0</a>;
 el testu de los demás espacios de nomes ta disponible baxo la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">llicencia Creative Commons reconocimientu/compartir igual</a>;
 puen aplicase otres condiciones más.
