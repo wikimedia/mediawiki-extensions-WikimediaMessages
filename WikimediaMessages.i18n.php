@@ -2993,6 +2993,7 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
  * @author Nemo bis
  * @author Peter Alberti
  * @author Sarrus
+ * @author Steenth
  */
 $messages['da'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-specifikke meddelelser',
@@ -3022,6 +3023,9 @@ $messages['da'] = array(
 	'group-accountcreator' => 'Kontooprettere',
 	'group-accountcreator-member' => '{{GENDER:$1|kontoopretter}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Kontooprettere',
+	'group-arbcom' => 'Voldgift udvalgets medlemmer',
+	'group-arbcom-member' => '{{GENDER:$1|voldgift udvalgsmedlem}}',
+	'grouppage-arbcom' => '{{ns:project}}: voldgiftudvalgets medlemmer',
 	'group-autopatrolled' => 'Autopatruljerede',
 	'group-autopatrolled-member' => '{{GENDER:$1|autopatruljeret}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatruljerede',
@@ -3086,7 +3090,7 @@ $messages['da'] = array(
 	'group-Ombudsmen' => 'Ombudsmænd',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsmand}}',
 	'group-Staff' => 'Ansatte',
-	'group-Staff-member' => 'ansat',
+	'group-Staff-member' => '{{GENDER:$1|ansatte}}',
 	'group-editinterface' => 'Brugerfladeændrere',
 	'group-editinterface-member' => '{{GENDER:$1|brugerfladeændrer}}',
 	'group-steward' => 'Forvaltere',
@@ -3094,6 +3098,7 @@ $messages['da'] = array(
 	'grouppage-steward' => 'm:Stewards/nb',
 	'group-sysadmin' => 'Systemadministratorer',
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
+	'group-API_High_Limit_Requestor' => 'API høj grænse anmodere',
 	'group-recursive-export' => 'Rekursiv eksport',
 	'group-translationadmin' => 'Oversættelsesadministratorer',
 	'group-translationadmin-member' => '{{GENDER:$1|oversættelsesadministrator}}',
@@ -3108,6 +3113,7 @@ $messages['da'] = array(
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
+	'extdist-branch-master' => 'Master (seneste udviklingsversion)',
 );
 
 /** German (Deutsch)
@@ -11334,7 +11340,7 @@ $messages['qu'] = array(
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS wankurisqakuna',
 	'group-abusefilter' => "Millay ruray suysuna llamk'apuqkuna",
 	'group-abusefilter-member' => "{{GENDER:$1|}}millay ruray suysuna llamk'apuq",
-	'grouppage-abusefilter' => "{{ns:project}}:Millay ruray suysuna llamk'apuqkuna",
+	'grouppage-abusefilter' => "{{ns:project}}:Millay ruray ch'illchina llamk'apuqkuna",
 	'group-accountcreator' => 'Rakiquna kamariqkuna',
 	'group-accountcreator-member' => '{{GENDER:$1|}}rakiquna kamariq',
 	'grouppage-accountcreator' => '{{ns:project}}:Rakiquna kamariqkuna',
