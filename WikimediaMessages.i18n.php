@@ -597,6 +597,8 @@ $messages['af'] = array(
 	'group-inactive-member' => 'onaktiewe gebruiker', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Onaktiewe gebruikers',
 	'wikimedia-copyright' => "Die teks is beskikbaar onder die <a href='//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a> lisensie. Dit is moontlik dat aanvullende voorwaardes van toepassing is. Sien die <a href='//wikimediafoundation.org/wiki/Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
+	'wikimedia-copyrightwarning' => 'Deur op "{{int:savearticle}}" te kliek stem u in tot die [//wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaardes] en gee u onherroeplik toestemming dat u bydrae onder die [//creativecommons.org/licenses/by-sa/3.0/deed.af Creative Commons Erkenning-InsgelyksDeel] en die [http://af.wikipedia.org/wiki/GNU-lisensie_vir_vrye_dokumentasie GNU-lisensie vir vrye dokumentasie] gepubliseer word.
+U stem verder in dat \'n skakel of URL voldoende naamsvermelding is om aan die Creative Commons-lisensie te voldoen.',
 	'cant-delete-main-page' => 'Jy kan nie verwyder of skuif die hoofblad.',
 );
 
@@ -3099,10 +3101,19 @@ $messages['da'] = array(
 	'group-sysadmin' => 'Systemadministratorer',
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
 	'group-API_High_Limit_Requestor' => 'API høj grænse anmodere',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API høj grænse anmodere}}',
+	'group-New_wikis_importer' => 'Nye wiki-websteder direkte importører',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|nye wiki-websteder importør}}',
+	'group-global-ipblock-exempt' => 'Global IP-gruppefritagelser',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|IP-blokeringsundtagelse}}',
 	'group-recursive-export' => 'Rekursiv eksport',
+	'group-recursive-export-member' => '{{GENDER:$1|rekursiv eksportør}}',
 	'group-translationadmin' => 'Oversættelsesadministratorer',
 	'group-translationadmin-member' => '{{GENDER:$1|oversættelsesadministrator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Oversættelsesadministratorer',
+	'group-centralnoticeadmin' => 'Centrale notificer administratorer',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Centrale notificer administrator}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}: Central notificer administratorer',
 	'group-coder' => 'Programmører',
 	'group-coder-member' => '{{GENDER:$1|programmør}}',
 	'group-inactive' => 'Inaktive brugere',
@@ -3114,6 +3125,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
 	'extdist-branch-master' => 'Master (seneste udviklingsversion)',
+	'extdist-branch-REL1_20' => '1.20 (seneste stabil MediaWiki)',
 );
 
 /** German (Deutsch)
@@ -14810,10 +14822,11 @@ $messages['ur'] = array(
 
 /** Uzbek (oʻzbekcha)
  * @author CoderSI
+ * @author Sociologist
  */
 $messages['uz'] = array(
 	'wikimediamessages-desc' => 'Vikipediya maxsus xabarlari',
-	'sitesupport' => "Loyihaga ko'mak",
+	'sitesupport' => 'Loyihaga koʻmak',
 	'tooltip-n-sitesupport' => 'Bizni qoʻllab-quvvatlang',
 	'specialpages-group-contribution' => 'Hayr-ehson qilish/Mablagʻ yigʻish',
 	'nstab-creator' => 'Muallif',
@@ -14840,7 +14853,7 @@ $messages['uz'] = array(
 	'group-arbcom' => 'Hakamlar qoʻmitasi aʼzolari',
 	'group-arbcom-member' => '{{GENDER:$1|hakamlar qoʻmitasi aʼzosi}}',
 	'grouppage-arbcom' => '{{ns:project}}:Hakamlar qoʻmitasi aʼzolari',
-	'group-autopatrolled' => 'Avtopatrullovchilar',
+	'group-autopatrolled' => 'Avtopatrullanuvchilar',
 	'group-autopatrolled-member' => '{{GENDER:$1|avtopatrullovchi}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Avtopatrullovchilar',
 	'group-autoreviewer' => 'Avtonazoratchilar',
@@ -14864,9 +14877,9 @@ $messages['uz'] = array(
 	'group-filemover' => 'Fayllarni nomlovchilar',
 	'group-filemover-member' => '{{GENDER:$1|Fayl nomlovchi}}',
 	'grouppage-filemover' => '{{ns:project}}:Fayllar nomlovchilar',
-	'group-flood' => 'Ishtirokchi botlar',
-	'group-flood-member' => '{{GENDER:$1|ishtirokchi bot}}',
-	'grouppage-flood' => '{{ns:project}}:Ishtirokchi botlar',
+	'group-flood' => 'Foydalanuvchilar-botlar',
+	'group-flood-member' => '{{GENDER:$1|foydalanuvchi-bot}}',
+	'grouppage-flood' => '{{ns:project}}:Foydalanuvchilar-botlar',
 	'group-founder' => 'Asoschilar',
 	'group-founder-member' => '{{GENDER:$1|asoschi}}',
 	'grouppage-founder' => '{{ns:project}}:Asoschilar',
@@ -14913,12 +14926,12 @@ $messages['uz'] = array(
 	'group-coder' => 'Dasturlovchilar',
 	'group-coder-member' => '{{GENDER:$1|dasturlovchi}}',
 	'group-inactive' => 'Nofaol ishtirokchilar',
-	'group-inactive-member' => '{{GENDER:$1|nofaol ishtirokchi}}',
+	'group-inactive-member' => '{{GENDER:$1|nofaol foydalanuvchi}}',
 	'grouppage-inactive' => '{{ns:project}}:Nofaol ishtirokchilar',
 	'wikimedia-copyright' => 'Matn <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> bo\'yicha ommalashtiriladi, alohida holatlarda qo\'shimcha shartlar amal qilishi mumkin. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a> bilan batafsil tanishishingiz mumkin.',
-	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda, siz [//wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz, shuningdek [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Siz mos sahifa yoki uning URL-manziliga yoʻllanmaning koʻrsatilishi Creative Commons litsenziyasi aniqlanishi shartlarining bajarilishi uchun yetarlicha boʻlishiga rozilik bildirasiz.',
+	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda, Siz [//wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz, va kiritilgan maʼlumotlar [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.',
 	'cant-delete-main-page' => 'Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.',
-	'upload-more-photos-of-this-monument' => 'Ushbu obyektning koʻproq suratlarini yuklash',
+	'upload-more-photos-of-this-monument' => 'Ushbu obyektning yana boshqa suratlarini yuklash',
 );
 
 /** vèneto (vèneto)
