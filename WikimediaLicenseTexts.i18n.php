@@ -1905,6 +1905,7 @@ $messages['cy'] = array(
  * @author Christian List
  * @author EPO
  * @author Emilkris33
+ * @author HenrikKbh
  * @author Kaare
  * @author MGA73
  * @author Multichill
@@ -1989,10 +1990,16 @@ $messages['da'] = array(
 	'wm-license-pd-author-not-legally-possible' => 'I nogle lande er dette ikke juridisk muligt. I så fald:',
 	'wm-license-pd-author-self-any-purpose' => "Jeg giver enhver ret til at anvende dette værk til '''ethvert formål''', uden nogen restriktioner, medmindre sådanne restriktioner er påkrævede ved lov.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 giver enhver ret til at anvende dette værk til '''ethvert formål''', uden nogen restriktioner, medmindre sådanne restriktioner er påkrævede ved lov.",
+	'wm-license-pd-usgov-fema-text' => "Denne fil er et værk af en ansat ved [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]], fremstillet indenfor rammerne af denne persons officielle pligter. Da det er et [[{{int:wm-license-pd-usgov-work-wiki-link}}|værk]] af [[{{int:wm-license-pd-usgov-wiki-link}}|USA's føderale regering]], er filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
+	'wm-license-pd-usgov-military-text' => "Denne fil er et værk af en ansat ved [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|Det amerikanske militær]] eller [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Department of Defense]], fremstillet indenfor rammerne af denne persons officielle pligter. Da det er et [[{{int:wm-license-pd-usgov-work-wiki-link}}|værk]] af [[{{int:wm-license-pd-usgov-wiki-link}}|USA's føderale regering]], er filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-dod-wiki-link' => 'w:da:Forsvarsministeriet (USA)',
+	'wm-license-pd-usgov-military-air-force-text' => "Denne fil er et værk af en ansat ved [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Det amerikanske luftvåben]], fremstillet indenfor rammerne af denne persons officielle pligter. Da det er et [[{{int:wm-license-pd-usgov-work-wiki-link}}|værk]] af [[{{int:wm-license-pd-usgov-wiki-link}}|USA's føderale regering]], er filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:da:United States Air Force',
+	'wm-license-pd-usgov-military-army-text' => "Denne fil er et værk af en ansat ved [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Den amerikanske hær]], fremstillet indenfor rammerne af denne persons officielle pligter. Da det er et [[{{int:wm-license-pd-usgov-work-wiki-link}}|værk]] af [[{{int:wm-license-pd-usgov-wiki-link}}|USA's føderale regering]], er filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:da:United States Army',
+	'wm-license-pd-usgov-military-navy-text' => "Denne fil er et værk af en ansat ved [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Den amerikanske flåde]], fremstillet indenfor rammerne af denne persons officielle pligter. Da det er et [[{{int:wm-license-pd-usgov-work-wiki-link}}|værk]] af [[{{int:wm-license-pd-usgov-wiki-link}}|USA's føderale regering]], er filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:da:United States Navy',
+	'wm-license-pd-usgov-noaa-text' => "Denne fil er et værk af en ansat ved [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|USAs National Oceanic and Atmospheric Administration]] fremstillet indenfor rammerne af denne persons officielle pligter. Da det er et [[{{int:wm-license-pd-usgov-work-wiki-link}}|værk]] af [[{{int:wm-license-pd-usgov-wiki-link}}|USA:s føderale regering]], er filen i '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-noaa-wiki-link' => 'w:da:National Oceanic and Atmospheric Administration',
 	'wm-license-pd-wiki-link' => 'w:da:Public domain',
 	'wm-license-self-one-license' => 'Jeg, dette værks ophavsretsindehaver, publicerer hermed værket under den følgende licens:',

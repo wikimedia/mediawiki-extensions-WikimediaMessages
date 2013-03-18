@@ -2989,6 +2989,7 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
  * @author Christian List
  * @author Fnielsen
  * @author Froztbyte
+ * @author HenrikKbh
  * @author Jon Harald Søby
  * @author Kaare
  * @author Masz
@@ -3102,6 +3103,8 @@ $messages['da'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
 	'group-API_High_Limit_Requestor' => 'API høj grænse anmodere',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API høj grænse anmodere}}',
+	'group-Indic_Bots' => 'Indic bots',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indic bot}}',
 	'group-New_wikis_importer' => 'Nye wiki-websteder direkte importører',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|nye wiki-websteder importør}}',
 	'group-global-ipblock-exempt' => 'Global IP-gruppefritagelser',
@@ -3120,9 +3123,15 @@ $messages['da'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruger}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
 	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
+	'wikidata-copyright' => 'Alle struktureret data fra hoved navneområdet er tilgængelige under en <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
+tekst i de andre navneområder er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
+yderligere betingelser kan forekomme.
+Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Vilkår for anvendelse</a> for detaljer.',
+	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "Gem", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].',
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [//wikimediafoundation.org/wiki/Terms_of_Use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [//www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
+	'wikimedia-translationnotifications-signup-legal' => 'Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Privacy_policy fortrolighedspolitik].',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
 	'extdist-branch-master' => 'Master (seneste udviklingsversion)',
 	'extdist-branch-REL1_20' => '1.20 (seneste stabil MediaWiki)',
