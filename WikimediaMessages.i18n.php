@@ -275,6 +275,7 @@ $messages['qqq'] = array(
 {{Identical|Donate}}",
 	'tooltip-n-sitesupport' => 'The tooltip when hovering over the {{msg-mw|sitesupport}} link in the sidebar.',
 	'sidebar' => '{{notranslate}}',
+	'specialpages-group-contribution' => '{{doc-special-group|that=are related to the extensions ContributionReporting and LandingCheck|like=[[Special:ContributionHistory]], [[Special:ContributionTotal]], [[Special:ContributionStatistics]], [[Special:FundraiserStatistics]], [[Special:ContributionTrackingStatistics]], [[Special:LandingCheck]]}}',
 	'robots.txt' => '{{notranslate}}',
 	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([[commons:Creator:Heinrich_Hoerle|Example]])',
 	'nstab-institution' => 'Text on the tab of pages in the "Institution" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])',
@@ -2674,11 +2675,13 @@ $messages['ckb'] = array(
 	'sitesupport' => 'پاڵپشتی و بەخشین',
 	'tooltip-n-sitesupport' => 'پاڵپشتی‌کردنی ئێمە',
 	'nstab-institution' => 'دامەزراوە',
-	'group-accountcreator' => 'دروست‌کەری هەژمارە',
+	'group-accountcreator' => 'دروستکەرانی ھەژمار',
 	'group-accountcreator-member' => '{{GENDER:$1|دروستکەری ھەژمار}}',
+	'group-confirmed' => 'بەکارھێنەرانی پەسندکراو',
 	'group-flood' => 'بەکارھێنەرانی بۆت',
 	'group-flood-member' => 'بەکارھێنەری بۆت', # Fuzzy
 	'group-founder-member' => 'دۆزەر', # Fuzzy
+	'group-ipblock-exempt' => 'ھەڵاواردەکان لە بەربەستنی ئایپی',
 	'group-ipblock-exempt-member' => 'ھەڵاواردن لە بەربەستنی ئای پی',
 	'group-Staff' => 'کارمەندان',
 	'group-Staff-member' => 'کارمەند',
@@ -6799,21 +6802,21 @@ $messages['ike-cans'] = array(
  * @author לערי ריינהארט
  */
 $messages['ilo'] = array(
-	'wikimediamessages-desc' => 'Dagiti nainaganan a mensahe ti Wikimedia',
+	'wikimediamessages-desc' => 'Dagiti naisangsangayan a mensahe ti Wikimedia',
 	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
 	'sitesupport' => 'Donasion',
 	'tooltip-n-sitesupport' => 'Suportarandakami',
-	'specialpages-group-contribution' => 'Parawad/Agitag-ay ti pondo',
+	'specialpages-group-contribution' => 'Parawad/Agitag-ay ti pundo',
 	'nstab-creator' => 'Nangaramid',
 	'nstab-institution' => 'Patakder',
 	'nstab-sequence' => 'Panagsarsaruno',
 	'nstab-timedtext' => 'Naorasan a testo',
-	'group-Ex_Administrator' => 'Dagiti administrador idi',
+	'group-Ex_Administrator' => 'Dagiti dati nga administrador',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|administrador idi}}',
-	'grouppage-Ex_Administrator' => '{{ns:project}}:Dagiti administrador idi',
-	'group-Ex_Bureaucrat' => 'Dagiti burokrata idi',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Dagiti dati nga administrador',
+	'group-Ex_Bureaucrat' => 'Dagiti dati a burokrata',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|burokrata idi}}',
-	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Dagiti burokrata idi',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Dagiti dati a burokrata',
 	'group-Image-reviewer' => 'Dagiti agreprepaso ti imahen',
 	'group-Image-reviewer-member' => '{{GENDER:$1|agreprepaso ti imahen}}',
 	'grouppage-Image-reviewer' => '{{ns:project}}:Dagiti agreprepaso ti imahen',
@@ -6826,7 +6829,7 @@ $messages['ilo'] = array(
 	'group-accountcreator' => 'Dagiti agararamid ti pakabilangan',
 	'group-accountcreator-member' => '{{GENDER:$1|agar-aramid ti pakabilangan}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Dagiti agar-aramid ti pakabilangan',
-	'group-arbcom' => 'Dagiti kameng ti pagkappian a pagtitinongan',
+	'group-arbcom' => 'Dagiti kameng ti pagkappiaan a pagtitinongan',
 	'group-arbcom-member' => '{{GENDER:$1|kameng ti pagkappian a pagtitinongan}}',
 	'grouppage-arbcom' => '{{ns:project}}:Kameng ti pagkappian a pagtitinongan',
 	'group-autopatrolled' => 'Dagiti automatiko nga agpatrulia',
@@ -6891,26 +6894,31 @@ $messages['ilo'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|sangalubongan a  sysop}}',
 	'group-Ombudsmen' => 'Ombudsmen',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsman}}',
-	'group-Staff' => 'Staff',
-	'group-Staff-member' => '{{GENDER:$1|staff}}',
+	'group-Staff' => 'Empleado',
+	'group-Staff-member' => '{{GENDER:$1|empleado}}',
 	'group-editinterface' => 'Dagiti agur-urnos ti interface',
 	'group-editinterface-member' => '{{GENDER:$1|agur-urnos ti interface}}',
 	'group-steward' => 'Dagiti mayordormo',
 	'group-steward-member' => '{{GENDER:$1|mayordormo}}',
 	'group-sysadmin' => 'Dagiti administrador ti sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador ti sistema}}',
-	'group-API_High_Limit_Requestor' => 'Dagiti agkidkidaw ti nangato ti patinggana nga API',
-	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Dagiti agkidkidaw ti nangato ti patinggana nga API}}',
+	'group-API_High_Limit_Requestor' => 'Dagiti agkidkidaw ti nangato a patingga ti API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Dagiti agkidkidaw ti nangato a patingga ti API}}',
 	'grouppage-API_High_Limit_Requestor' => 'm:Dagiti agkidkidaw ti nangato ti patinggana nga API',
 	'group-Indic_Bots' => 'Dagiti Indic a bot',
 	'group-Indic_Bots-member' => '{{GENDER:$1|indic bot}}',
-	'group-New_wikis_importer' => 'Dagiti  agalala kadagiti baro a wiki',
-	'group-New_wikis_importer-member' => '{{GENDER:$1|agalala kadagiti baro a wiki}}',
+	'group-New_wikis_importer' => 'Dagiti  agal-ala kadagiti baro a wiki',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|agal-ala kadagiti baro a wiki}}',
 	'group-global-ipblock-exempt' => 'Dagiti malaksid ti panagserra ti sangalubongan nga IP',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|malaksid ti sangalubongan a panagserra ti IP}}',
+	'group-recursive-export' => 'Rekursibo a panagiluas',
+	'group-recursive-export-member' => '{{GENDER:$1|rekursibo nga agi-luluas}}',
 	'group-translationadmin' => 'Dagiti administrador ti agipatpatarus',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador ti agipatpatarus}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Dagiti administrador ti agipatpatarus',
+	'group-centralnoticeadmin' => 'Dagiti administrador ti sentral a pakdaar',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrador ti sentral a pakdaar}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administrador ti sentral a pakdaar',
 	'group-coder' => 'Dagiti agkodkodigo',
 	'group-coder-member' => '{{GENDER:$1|agkodkodigo}}',
 	'group-inactive' => 'Dagiti saan a nasiglat nga agar-aramat',
@@ -6919,13 +6927,18 @@ $messages['ilo'] = array(
 	'wikimedia-copyright' => 'Ti testo ket magun-od a babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensia ti Creative Commons Attribution/Share-Alike</a>;
 dagiti mainayon a termino ket mabalin pay a maipakat.
 Kitaen dagiti <a href="//wikimediafoundation.org/wiki/Terms_of_use">Termino ti panag-usar</a> para kadagiti salaysay.',
-	'wikimedia-copyrightwarning' => 'Babaen ti panag-takla ti "{{int:savearticle}}" a buton, agtulag ka [//wikimediafoundation.org/wiki/Terms_of_Use Kadagiti termino ti panag-usar], ken di mawaswas ka nga agtulag nga ibbatam dagiti parawad mo babaen
-ti [//creativecommons.org/licenses/by-sa/3.0/ Lisensia ti CC-BY-SA 3.0] ken ti
-[//www.gnu.org/copyleft/fdl.html GFDL] .
-Agtulagka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
+	'wikidata-copyright' => 'Amin a naestruktura a datos manipud ti umuna ken tagikua a nagan a lugar ket magun-od babaen ti <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Panangipalpalawag ti Creative Commons CC0 a Lisensia">Creative Commons CC0 a Lisensia</a>;
+ti testo kadagiti sabali a nagan a lugar ket magun-od babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Panangilawlawag ti Creative Commons Attribution/Share-Alike a Lisensia">Creative Commons Attribution/Share-Alike a Lisensia</a>;
+mabalin a maipakat dagiti dadduma a termino.
+Kitaen dagiti <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Termino ti Panag-usar ti Pundasion ti Wikimedia">Termino ti Panag-usar</a> para kadagiti salaysay.',
+	'wikidata-shortcopyrightwarning' => 'Babaen ti panagpindut ti "idulin", umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use termimo ti panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://creativecommons.org/publicdomain/zero/1.0/ CC0 a lisensia].',
+	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [//wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
 	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
 	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan ti daytoy a monumento',
+	'extdist-branch-master' => 'master (kinaudi a naparang-ay a bersion)',
+	'extdist-branch-REL1_20' => '1.20 (kinaudi a nasimpa a MediaWiki)',
 );
 
 /** Ingush (ГӀалгӀай)
@@ -7516,7 +7529,7 @@ $messages['ka'] = array(
 	'group-autoreviewer-member' => '{{GENDER:$1|ავტოგადამხედველი}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:ავტომხილველები',
 	'group-bigexport' => 'დიდი ექსპორტორები',
-	'group-bigexport-member' => '{{GENDER:$1|იდი ექსპორტორი}}',
+	'group-bigexport-member' => '{{GENDER:$1|მსხვილი ექსპორტიორი}}',
 	'grouppage-bigexport' => '{{ns:project}}:დიდი ექსპორტიორები',
 	'group-botadmin' => 'რობოტები ადმინისტრატორის უფლებებით',
 	'group-botadmin-member' => '{{GENDER:$1|ბოტი ადმინისტრატორის უფლებებით}}',
@@ -7579,19 +7592,33 @@ $messages['ka'] = array(
 	'group-steward-member' => '{{GENDER:$1|სტიუარდი}}',
 	'group-sysadmin' => 'სისტემური ადმინისტრატორები',
 	'group-sysadmin-member' => '{{GENDER:$1|სისტემური ადმინისტრატორი}}',
+	'group-Indic_Bots' => 'ინდური ბოტები',
+	'group-Indic_Bots-member' => '{{GENDER:$1|ინდური ბოტი}}',
+	'group-New_wikis_importer' => 'ახალი ვიკი იმპორტიორები',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|ახალი ვიკი იმპორტიორი}}',
+	'group-global-ipblock-exempt' => 'გლობალური IP ბლოკირების გამონაკლისები',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|გლობალური IP ბლოკირების გამონაკლისი}}',
+	'group-recursive-export' => 'რეკურსიული ექსპორტი',
+	'group-recursive-export-member' => '{{GENDER:$1|რეკურსიული ექსპორტიორი}}',
 	'group-translationadmin' => 'თარგმანის ადმინისტრატორები',
 	'group-translationadmin-member' => '{{GENDER:$1|თარგმანის ადმინისტრატორი}}',
 	'grouppage-translationadmin' => '{{ns:project}}:თარგმანის ადმინისტრატორები',
+	'group-centralnoticeadmin' => 'ცენტრალური შეტყობინების ადმინისტრატორები',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|ცენტრალური შეტყობინების ადმინისტრატორი}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:ცენტრალური შეტყობინების ადმინისტრატორები',
 	'group-coder' => 'პროგრამისტი',
 	'group-coder-member' => '{{GENDER:$1|პროგრამისტი}}',
 	'group-inactive' => 'არააქტიური მომხმარებლები',
 	'group-inactive-member' => '{{GENDER:$1|არააქტიური მომხმარებელი}}',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
+	'wikidata-shortcopyrightwarning' => 'ღილაკზე "შენახვა" დაწკაპუნებით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს] და სამუდამოდ თანხმდებით თქვენი წვლილის გამოქვეყნებას [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ლიცენზიით].',
 	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [//wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [//www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
 თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
+	'extdist-branch-master' => 'ოსტატი (უკანასკნელი შემუშავებული ვერსია)',
+	'extdist-branch-REL1_20' => '1.20 (მედიავიკის ბოლო სტაბილური ვერსია)',
 );
 
 /** Kara-Kalpak (Qaraqalpaqsha)
@@ -8101,6 +8128,7 @@ $messages['ksh'] = array(
 /** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  * @author Ghybu
+ * @author Gomada
  */
 $messages['ku-latn'] = array(
 	'sitesupport' => 'Bexş bike',
@@ -8109,6 +8137,8 @@ $messages['ku-latn'] = array(
 	'wikimedia-copyright' => 'Nivîsar di bin lîsansa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> de derbasdar e;
 heke tiştên din werin xwestin dikarin lê bên zêdekirin.
 Ji bo hûragahiyan li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mercên Bikaranînê</a> binêre.',
+	'wikimedia-copyrightwarning' => 'Bi tikandina bişkoka "{{int:savearticle}}", tu [//wikimediafoundation.org/wiki/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina beşdariyên xwe yên di bin [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lîsansa CC-BY-SA 3.0] û [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] de dipejirînî.
+Tu pê pabend dibe ku girêdanek an jî URL\'yek taybetmendiya di bin lîsansa Creative Commonsê de ye.',
 );
 
 /** Cornish (kernowek)
@@ -11624,10 +11654,13 @@ $messages['ro'] = array(
 	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
 pot exista și clauze suplimentare.
 Vedeți detalii la <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a>.',
+	'wikidata-shortcopyrightwarning' => 'Apăsând „Salvare”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].',
 	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [//wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [//www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.',
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
+	'upload-more-photos-of-this-monument' => 'Încărcați mai multe fotografii cu acest monument',
+	'extdist-branch-REL1_20' => '1.20 (ultimul MediaWiki stabil)',
 );
 
 /** tarandíne (tarandíne)
@@ -11760,10 +11793,15 @@ $messages['roa-tara'] = array(
 	'wikimedia-copyright' => "'U teste ète disponibbile sotte 'a <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">licenze ''Creative Commons Attribution/Condivide a 'u stesse mode</a>;
 termine addizionale pò essere applicate.
 Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
+	'wikidata-copyright' => 'Tutte le date strutturate da \'u namespace prengepàle e probbietà sue jè disponibbile sotte a <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Licenze Creative Commons CC0</a>;
+teste jndr\'à otre namespace jè disponibbile sotte a <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Licenze de Creative Commons Attribution/Share-Alike</a>;
+termine addizionale ponne essere applicate.
+\'Ndruche <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">le Termine d\'ause</a> pe dettaglie.',
 	'wikidata-shortcopyrightwarning' => "Cazzanne \"reggìstre\", tu accette le [https://wikimediafoundation.org/wiki/Terms_of_Use termine d'ause], e tu irrevocabbilmende accette de relascià 'u condrebbute tune sotte 'a [https://creativecommons.org/publicdomain/zero/1.0/ licenze CC0].",
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
+	'wikimedia-translationnotifications-signup-legal' => "Tu sì d'accorde ca danne a Wikimedia Foundation ste 'mbormaziune nuje te putime condattà riguarde a le traduziune o a otre argomende collegate a le movimende de Uicchimedia ca penzeme ca ponne essere inderessande pe tè. Tu sì d'accorde ca le date tune ponne essere stipate jndr'à le State Aunìte d'Americhe e so suggette a le nostre [https://wikimediafoundation.org/wiki/Privacy_policy regole d'a privacy].",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
 	'extdist-branch-master' => 'master (urtema versione de sveluppe)',
 	'extdist-branch-REL1_20' => '1.20 (urtema versione secure de MediaUicchi)',
@@ -14951,7 +14989,7 @@ $messages['uz'] = array(
 	'group-inactive' => 'Nofaol ishtirokchilar',
 	'group-inactive-member' => '{{GENDER:$1|nofaol foydalanuvchi}}',
 	'grouppage-inactive' => '{{ns:project}}:Nofaol ishtirokchilar',
-	'wikimedia-copyright' => 'Matn <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> bo\'yicha ommalashtiriladi, alohida holatlarda qo\'shimcha shartlar amal qilishi mumkin. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a> bilan batafsil tanishishingiz mumkin.',
+	'wikimedia-copyright' => 'Matn <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> boʻyicha ommalashtirilmoqda; alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin. Batafsil: <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a>.',
 	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda, Siz [//wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz, va kiritilgan maʼlumotlar [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.',
 	'cant-delete-main-page' => 'Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.',
 	'upload-more-photos-of-this-monument' => 'Ushbu obyektning yana boshqa suratlarini yuklash',
