@@ -10,6 +10,8 @@
 $messages = array();
 
 $messages['en'] = array(
+	'wikimedia-oldskin-removal' => 'You are using the $1 skin, which is being removed beginning on $2.
+[[$3|More information]].',
 	'wikimediamessages-desc' => 'Wikimedia specific temporary messages',
 );
 
@@ -17,6 +19,10 @@ $messages['en'] = array(
  * @author Shirayuki
  */
 $messages['qqq'] = array(
+	'wikimedia-oldskin-removal' => "Message shown in early 2013 to users who are using old skins
+$1 is the current user's skin
+$2 is the date for removal
+$3 is an interwiki link to a page for more information",
 	'wikimediamessages-desc' => '{{desc|name=Wikimedia Temporary Messages}}',
 );
 
