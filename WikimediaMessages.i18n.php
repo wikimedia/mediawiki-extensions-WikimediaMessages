@@ -2476,6 +2476,13 @@ Slažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje
 Za dalje detalje pogledajte [//wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].', # Fuzzy
 );
 
+/** буряад (буряад)
+ * @author Amire80
+ */
+$messages['bxr'] = array(
+	'sitesupport' => 'Хандиблаха',
+);
+
 /** Catalan (català)
  * @author Aleator
  * @author Arnaugir
@@ -4170,6 +4177,9 @@ $messages['et'] = array(
 	'group-translationadmin' => 'Tõlkeadministraatorid',
 	'group-translationadmin-member' => '{{GENDER:$1|tõlkeadministraator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Tõlkeadministraatorid',
+	'group-centralnoticeadmin' => 'Keskuse teate administraator',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Keskuse teate administraator}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Keskuse teate administraatorid',
 	'group-coder' => 'Programmeerijad',
 	'group-coder-member' => '{{GENDER:$1|programmeerija}}',
 	'group-inactive' => 'Passiivsed kasutajad',
@@ -4178,6 +4188,7 @@ $messages['et'] = array(
 	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="//creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
 sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
+	'wikidata-shortcopyrightwarning' => 'Kui klõpsad "Salvesta", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma kaastöö pöördumatu avaldamisega Creative Commonsi üldise litsentsi [https://creativecommons.org/publicdomain/zero/1.0/deed.et CC0] all.',
 	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [//creativecommons.org/licenses/by-sa/3.0/deed.et CC-BY-SA 3.0] ja [//www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
@@ -10300,6 +10311,7 @@ $messages['nn'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
 	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
 Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
+	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «lagra» samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 );
