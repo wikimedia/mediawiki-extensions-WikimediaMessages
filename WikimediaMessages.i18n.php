@@ -3016,6 +3016,7 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
 );
 
 /** Danish (dansk)
+ * @author Byrial
  * @author Christian List
  * @author Fnielsen
  * @author Froztbyte
@@ -3153,8 +3154,8 @@ $messages['da'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruger}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
 	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
-	'wikidata-copyright' => 'Alle struktureret data fra hoved navneområdet er tilgængelige under en <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
-tekst i de andre navneområder er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
+	'wikidata-copyright' => 'Alle strukturerede data fra hoved- og egenskabsnavnerummet er tilgængelige under en <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
+tekst i de andre navnerum er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
 yderligere betingelser kan forekomme.
 Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Vilkår for anvendelse</a> for detaljer.',
 	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "Gem", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].',
@@ -10245,8 +10246,18 @@ $messages['nn'] = array(
 	'sitesupport' => 'Gåver',
 	'tooltip-n-sitesupport' => 'Støtt oss',
 	'specialpages-group-contribution' => 'Bidrag/Innsamling',
+	'nstab-creator' => 'Skapar',
+	'nstab-institution' => 'Institusjon',
+	'nstab-sequence' => 'Sekvens',
+	'nstab-timedtext' => 'Tidbunden tekst',
+	'group-Ex_Administrator' => 'Tidlegare administratorar',
+	'group-Ex_Administrator-member' => '{{GENDER:$1|tidlegare administrator}}',
+	'grouppage-Ex_Administrator' => '{{ns:project}}:Tidlegare administratorar',
+	'group-Ex_Bureaucrat' => 'Tidlegare byråkratar',
+	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|tidlegare byråkrat}}',
+	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Tidlegare byråkratar',
 	'group-abusefilter' => 'Redigerarar av misbruksfilteret',
-	'group-abusefilter-member' => 'redigerar av misbruksfilteret', # Fuzzy
+	'group-abusefilter-member' => '{{GENDER:$1|misbruksfilterendrar}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Redigerarar av misbruksfilteret',
 	'group-accountcreator' => 'Kontoopprettarar',
 	'group-accountcreator-member' => '{{GENDER:$1|kontoopprettar}}',
@@ -10255,19 +10266,22 @@ $messages['nn'] = array(
 	'group-autopatrolled-member' => '{{GENDER:$1|sjølvpatruljør}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Sjølvpatruljørar',
 	'group-autoreviewer' => 'Autogranska',
-	'group-autoreviewer-member' => 'automeldar', # Fuzzy
+	'group-autoreviewer-member' => '{{GENDER:$1|sjølvmeldar}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:Automatiske granskarar',
 	'group-bigexport' => 'Store eksportørar',
-	'group-bigexport-member' => 'stor eksportør', # Fuzzy
+	'group-bigexport-member' => '{{GENDER:$1|storeksportør}}',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
 	'group-confirmed' => 'Stadfesta brukarar',
 	'group-confirmed-member' => '{{GENDER:$1|stadfesta brukar}}',
 	'grouppage-confirmed' => '{{ns:project}}:Stadfeste brukarar',
+	'group-filemover' => 'Filflyttarar',
+	'group-filemover-member' => '{{GENDER:$1|filflyttar}}',
+	'grouppage-filemover' => '{{ns:project}}:Filflyttarar',
 	'group-flood' => 'Bot-brukarar',
-	'group-flood-member' => 'bot-brukar', # Fuzzy
+	'group-flood-member' => '{{GENDER:$1|botbrukar}}',
 	'grouppage-flood' => '{{ns:project}}:Bot-brukarar',
 	'group-founder' => 'Grunnleggarar',
-	'group-founder-member' => 'grunnleggar', # Fuzzy
+	'group-founder-member' => '{{GENDER:$1|grunnleggjar}}',
 	'grouppage-founder' => '{{ns:project}}:Grunnleggarar',
 	'group-import' => 'Importørar',
 	'group-import-member' => '{{GENDER:$1|importør}}',
@@ -10278,42 +10292,47 @@ $messages['nn'] = array(
 	'group-patroller' => 'Patruljørar',
 	'group-patroller-member' => '{{GENDER:$1|patruljør}}',
 	'group-rollbacker' => 'Attenderullarar',
-	'group-rollbacker-member' => 'attenderullar', # Fuzzy
+	'group-rollbacker-member' => '{{GENDER:$1|attenderullar}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Attenderullarar',
 	'group-transwiki' => 'Transwiki-importørar',
 	'group-transwiki-member' => '{{GENDER:$1|transwikiimportør}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importørar',
 	'group-trusted' => 'Brukarar til å stola på',
-	'group-trusted-member' => 'brukar til å stola på', # Fuzzy
+	'group-trusted-member' => '{{GENDER:$1|litande brukar}}',
 	'grouppage-trusted' => '{{ns:project}}:Brukarar til å stola på',
 	'group-Global_bot' => 'Globale robotar',
-	'group-Global_bot-member' => 'global robot', # Fuzzy
+	'group-Global_bot-member' => '{{GENDER:$1|global robot}}',
 	'group-Global_rollback' => 'Globale attenderullarar',
-	'group-Global_rollback-member' => 'global attenderullar', # Fuzzy
+	'group-Global_rollback-member' => '{{GENDER:$1|global attenderullar}}',
 	'grouppage-Global_rollback' => 'm:Global rollback/nb',
+	'group-Global_sysops' => 'Globale administratorar',
+	'group-Global_sysops-member' => '{{GENDER:$1|global administrator}}',
 	'group-Ombudsmen' => 'Ombodsmenn',
-	'group-Ombudsmen-member' => 'ombodsmann', # Fuzzy
-	'group-Staff' => 'Personale',
-	'group-Staff-member' => 'personal',
-	'group-editinterface' => 'Brukargrensesnitt endringar',
-	'group-editinterface-member' => 'brukargrensesnitt endring', # Fuzzy
+	'group-Ombudsmen-member' => '{{GENDER:$1|ombodsmann}}',
+	'group-Staff' => 'Tilsette',
+	'group-Staff-member' => '{{GENDER:$1|tilsett}}',
+	'group-editinterface' => 'Grensesnittendrarar',
+	'group-editinterface-member' => '{{GENDER:$1|grensesnittendrar}}',
 	'group-steward' => 'Forvaltarar',
 	'group-steward-member' => '{{GENDER:$1|forvaltar}}',
 	'grouppage-steward' => 'm:Stewards/nn',
 	'group-sysadmin' => 'Systemadministratorar',
-	'group-sysadmin-member' => 'systemadministrator', # Fuzzy
+	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
 	'grouppage-sysadmin' => 'm:Systemadministratorar',
 	'group-coder' => 'Kodarar',
-	'group-coder-member' => 'kodar', # Fuzzy
+	'group-coder-member' => '{{GENDER:$1|kodar}}',
 	'grouppage-coder' => '{{ns:project}}:Kodar',
 	'group-inactive' => 'Ikkje-aktive brukarar',
-	'group-inactive-member' => 'ikkje aktiv brukar', # Fuzzy
-	'grouppage-inactive' => '{{ns:project}}:Ikkje aktive brukarar',
+	'group-inactive-member' => '{{GENDER:$1|ikkje-aktiv brukar}}',
+	'grouppage-inactive' => '{{ns:project}}:Ikkje-aktive brukarar',
 	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
 Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
 	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «lagra» samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
+	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
+	'upload-more-photos-of-this-monument' => 'Last opp fleire bilete av monumentet',
+	'extdist-branch-REL1_20' => '1.20 (siste stabile MediaWiki)',
 );
 
 /** Novial (Novial)
@@ -15910,6 +15929,9 @@ $messages['zh-hans'] = array(
 	'group-translationadmin' => '翻译管理员',
 	'group-translationadmin-member' => '{{GENDER:$1|翻译管理员}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻译管理员',
+	'group-centralnoticeadmin' => '中央通知管理员',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理员}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:中央通知管理员',
 	'group-coder' => '程序员',
 	'group-coder-member' => '{{GENDER:$1|程序员}}',
 	'grouppage-coder' => '{{ns:project}}:程序员', # Fuzzy
@@ -15923,6 +15945,8 @@ $messages['zh-hans'] = array(
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
+	'extdist-branch-master' => '主干(master)（最新开发版本）',
+	'extdist-branch-REL1_20' => '1.20（最新稳定版MediaWiki）',
 );
 
 /** Traditional Chinese (中文（繁體）‎)

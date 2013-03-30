@@ -16,13 +16,14 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Metalhead64
  * @author Shirayuki
  */
 $messages['qqq'] = array(
 	'wikimedia-oldskin-removal' => "Message shown in early 2013 to users who are using old skins
-$1 is the current user's skin
-$2 is the date for removal
-$3 is an interwiki link to a page for more information",
+* $1 is the current user's skin
+* $2 is the date for removal
+* $3 is an interwiki link to a page for more information",
 	'wikimediamessages-desc' => '{{desc|name=Wikimedia Temporary Messages}}',
 );
 
@@ -30,6 +31,8 @@ $3 is an interwiki link to a page for more information",
  * @author Xuacu
  */
 $messages['ast'] = array(
+	'wikimedia-oldskin-removal' => "Ta usando'l tema $1, que va desaniciase a partir del $2.
+[[$3|Más información]].",
 	'wikimediamessages-desc' => 'Mensaxes temporales específicos de Wikimedia',
 );
 
@@ -66,6 +69,8 @@ $messages['da'] = array(
  * @author Metalhead64
  */
 $messages['de'] = array(
+	'wikimedia-oldskin-removal' => 'Du benutzt die Oberfläche „$1“, die ab dem $2 entfernt wird.
+[[$3|Mehr Informationen]].',
 	'wikimediamessages-desc' => 'Ermöglicht Wikimedia-spezifische temporäre Nachrichten',
 );
 
@@ -108,6 +113,8 @@ $messages['fr'] = array(
  * @author Toliño
  */
 $messages['gl'] = array(
+	'wikimedia-oldskin-removal' => 'Está utilizando a aparencia $1, que vai desaparecer a partir do $2.
+[[$3|Máis información]].',
 	'wikimediamessages-desc' => 'Mensaxes temporais específicas da Wikimedia',
 );
 
@@ -136,6 +143,8 @@ $messages['it'] = array(
  * @author Shirayuki
  */
 $messages['ja'] = array(
+	'wikimedia-oldskin-removal' => 'あなたは、$2 以降に順次除去される$1外装を現在使用しています。
+[[$3|詳細はこちら]]',
 	'wikimediamessages-desc' => 'ウィキメディア固有の一時的なメッセージ',
 );
 
@@ -164,6 +173,8 @@ $messages['lb'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
+	'wikimedia-oldskin-removal' => 'Го користите рувото „$1“, кое ќе биде отстрането на $2.
+[[$3|Повеќе информации]].',
 	'wikimediamessages-desc' => 'Привремени пораки што се однесуваат на Викимедија',
 );
 
@@ -232,8 +243,11 @@ $messages['vi'] = array(
 
 /** Simplified Chinese (中文（简体）‎)
  * @author Hydra
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
+	'wikimedia-oldskin-removal' => '您正在使用的$1皮肤，将自$2起被移除。
+[[$3|了解细节]]。',
 	'wikimediamessages-desc' => '维基媒体特定暂时性消息',
 );
 
