@@ -104,8 +104,10 @@ $messages['fi'] = array(
 
 /** French (français)
  * @author Gomoko
+ * @author Metroitendo
  */
 $messages['fr'] = array(
+	'wikimedia-oldskin-removal' => "Vous utilisez l'habillage $1, qui sera supprimée le $2 . !N ![[$3|Plus d'informations]].",
 	'wikimediamessages-desc' => 'Messages temporaires spécifiques de Wikimédia',
 );
 
@@ -159,6 +161,8 @@ $messages['ko'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
+	'wikimedia-oldskin-removal' => 'Do beß de Bovverfläsch $1 aam bruche, di et av_em $2 nit mieh jitt.
+[[$3|Woröm eß dadd esu?]]',
 	'wikimediamessages-desc' => 'Nohreeschte met Zigge bloß för de Wikkipeedija.',
 );
 
@@ -187,8 +191,11 @@ $messages['ms'] = array(
 
 /** Dutch (Nederlands)
  * @author Siebrand
+ * @author User555
  */
 $messages['nl'] = array(
+	'wikimedia-oldskin-removal' => 'U gebruikt de  $1  huid, die wordt verwijderd vanaf  $2 .
+[[$3|Meer informatie]].',
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
 
