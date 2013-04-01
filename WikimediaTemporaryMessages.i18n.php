@@ -194,8 +194,6 @@ $messages['ms'] = array(
  * @author User555
  */
 $messages['nl'] = array(
-	'wikimedia-oldskin-removal' => 'U gebruikt de  $1  huid, die wordt verwijderd vanaf  $2 .
-[[$3|Meer informatie]].',
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
 
