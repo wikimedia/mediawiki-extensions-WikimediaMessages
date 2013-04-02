@@ -15940,6 +15940,9 @@ $messages['zh-hans'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
 	'shared-repo-name-shared' => '维基共享资源',
 	'wikimedia-copyright' => '本网站文字内容采用<a href="//creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
+	'wikidata-copyright' => '所有来自“主要”和“属性”命名空间的结构化数据在<a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知识共享CC0协议</a>下可用；
+其他命名空间中的文本在<a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知识共享 署名-相同方式共享协议">知识共享 署名-相同方式共享协议</a>下可用；附加条款可能适用。
+参见<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
 	'wikidata-shortcopyrightwarning' => '点击“保存”表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并且您不可撤销地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授权]发布您的贡献。',
 	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地发表你的贡献。你认同使用超链接或URL足以作为知识共享许可协议的署名。',
 	'cant-delete-main-page' => '你不能删除或移动首页。',

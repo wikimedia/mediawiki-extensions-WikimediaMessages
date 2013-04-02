@@ -104,10 +104,11 @@ $messages['fi'] = array(
 
 /** French (français)
  * @author Gomoko
+ * @author Linedwell
  * @author Metroitendo
  */
 $messages['fr'] = array(
-	'wikimedia-oldskin-removal' => "Vous utilisez l'habillage $1, qui sera supprimée le $2 . !N ![[$3|Plus d'informations]].",
+	'wikimedia-oldskin-removal' => "Vous utilisez l'habillage $1, qui sera supprimé le $2 . !N ![[$3|Plus d'informations]].",
 	'wikimediamessages-desc' => 'Messages temporaires spécifiques de Wikimédia',
 );
 
@@ -154,6 +155,8 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
+	'wikimedia-oldskin-removal' => '$2에 순차적으로 제거되는 $1 스킨을 사용하고 있습니다.
+[[$3|자세한 정보]].',
 	'wikimediamessages-desc' => '위키미디어 특정 임시 메시지',
 );
 
@@ -198,9 +201,12 @@ $messages['nl'] = array(
 );
 
 /** Polish (polski)
+ * @author Lazowik
  * @author Rezonansowy
  */
 $messages['pl'] = array(
+	'wikimedia-oldskin-removal' => 'Używasz skórki $1, która będzie sukcesywnie usuwana od $2.
+[[$3|Więcej informacji]].',
 	'wikimediamessages-desc' => 'Specjalne tymczasowe wiadomości Wikimedii',
 );
 
