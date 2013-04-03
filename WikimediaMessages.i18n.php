@@ -7372,6 +7372,7 @@ $messages['jut'] = array(
 );
 
 /** Javanese (Basa Jawa)
+ * @author Bawoor
  * @author Meursault2004
  * @author Nemo bis
  * @author NoiX180
@@ -7490,7 +7491,7 @@ $messages['jv'] = array(
 	'group-inactive' => 'Panganggo ora aktif',
 	'group-inactive-member' => '{{GENDER:$1|panganggo ora aktip}}',
 	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
-	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
+	'wikimedia-copyright' => 'Tèks kiyé disediakna sekang <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi kreatif dasar/wèh-wèhan kekancan</a>; istilah tambahan bisa uga diterapna. Tiliki <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Carané nganggo</a> supaya luwih cetha.',
 	'wikimedia-copyrightwarning' => 'Mawa ngeklik tombol "{{int:savearticle}}", Sampéyan ngiyakaké [//wikimediafoundation.org/wiki/Terms_of_Use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [//creativecommons.org/licenses/by-sa/3.0/ Lisènsi CC-BY-SA 3.0] lan [//www.gnu.org/copyleft/fdl.html GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.',
 	'cant-delete-main-page' => 'Sampéyan ora bisa mbusak utawa mindhahaké kaca utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Sampéyan ngiyakaké yèn nyadhiyakaké Yayasan Wikipédia informasi iki awak dhéwé bisa ngubungi Sampéyan ngenani terjamahan utawa topik liya sing ana kaitané karo gerakan Wikimédia awak dhéwé kersa marang Sampéyan. Sampéyan ngiyakaké data Sampéyan disimpen nèng Amèrika Serikat lan dadi [https://wikimediafoundation.org/wiki/Privacy_policy kabijakan privasi] awak dhéwé.',

@@ -414,6 +414,8 @@ See http://creativecommons.org/licenses/by/3.0/ on how this is used.',
 	'wm-license-cc-conditions-share_alike-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-conditions-share_alike-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-pd-mark-link' => '{{optional}}',
+	'wm-license-cc-pd-mark-text' => 'See also:
+* {{msg-mw|Wm-license-cc-pd-mark-link}}',
 );
 
 /** Afrikaans (Afrikaans)

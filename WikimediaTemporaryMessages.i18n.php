@@ -221,6 +221,7 @@ $messages['pms'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'wikimedia-oldskin-removal' => "Tu ste ause 'u modelle $1, 'u quale adda essere luate 'u $2 [[$3|Cchiù 'mbormaziune]].",
 	'wikimediamessages-desc' => 'Specifece messàgge temboranèe de Uicchimedia',
 );
 

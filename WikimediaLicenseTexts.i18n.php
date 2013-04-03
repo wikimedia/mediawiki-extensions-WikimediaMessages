@@ -2019,6 +2019,7 @@ $messages['da'] = array(
  * @author Didym
  * @author Geitost
  * @author Guillom
+ * @author Jarekt
  * @author Kghbln
  * @author Krinkle
  * @author Kwj2772
@@ -2040,7 +2041,7 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-artwork-current-location' => 'Momentaner Standort',
 	'wm-license-artwork-object-history' => 'Besitzerhistorie',
 	'wm-license-artwork-credit-line' => 'Anerkennung',
-	'wm-license-artwork-references' => 'Anmerkungen',
+	'wm-license-artwork-references' => 'Referenzen',
 	'wm-license-artwork-inscriptions' => 'Inschriften',
 	'wm-license-artwork-notes' => 'Bemerkungen',
 	'wm-license-artwork-id' => 'Inventarnummer',
