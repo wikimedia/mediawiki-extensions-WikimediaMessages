@@ -202,7 +202,10 @@ $messages['en'] = array(
 	'wm-license-cc-pd-mark-text' => 'This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.',
 );
 
-/** Message documentation (Message documentation)
+/** Message documentation (This is the name of the message documentation language code (qqq). Follow the rules of your languages and use small first letter if it doesn't capitalize language names always.
+
+It might be easier to translate it as "translation guidelines" or "translation help".
+{{Identical|Message documentation}})
  * @author Dj
  * @author EugeneZelenko
  * @author Fryed-peach
