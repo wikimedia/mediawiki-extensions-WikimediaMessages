@@ -6415,10 +6415,11 @@ $messages['nan'] = array(
 );
 
 /** Neapolitan (Nnapulitano)
+ * @author Chelin
  * @author Diebuche
  */
 $messages['nap'] = array(
-	'wm-license-gfdl-1.2-and-later' => "Chistu documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezione non modificabile, senza testo di copertina e senza testo di quarta di copertina. Na copia d' 'a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d' 'a GNU Free Documentation License]]''.", # Fuzzy
+	'wm-license-gfdl-1.2-and-later' => "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''.", # Fuzzy
 );
 
 /** Norwegian Bokmål (norsk (bokmål)‎)
