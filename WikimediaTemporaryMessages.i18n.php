@@ -178,6 +178,8 @@ $messages['ksh'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
+	'wikimedia-oldskin-removal' => "Dir benotzt d'Ausgesinn $1, deen zënter dem $2 ewechgeholl gouf.
+[[$3|Méi Informatiounen]]",
 	'wikimediamessages-desc' => 'Spezifesch temporär Message vu Wikimedia',
 );
 
