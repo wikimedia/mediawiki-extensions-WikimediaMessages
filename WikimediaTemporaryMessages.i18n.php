@@ -257,6 +257,8 @@ $messages['uk'] = array(
  * @author Minh Nguyen
  */
 $messages['vi'] = array(
+	'wikimedia-oldskin-removal' => 'Bạn đang sử dụng hình dạng $1, hình dạng này sẽ bị xóa bắt đầu từ $2.
+[[$3|Tìm hiểu thêm]].',
 	'wikimediamessages-desc' => 'Các thông điệp tạm thời dành cho Wikimedia',
 );
 
