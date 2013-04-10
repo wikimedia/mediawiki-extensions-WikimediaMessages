@@ -3340,7 +3340,7 @@ $messages['de-ch'] = array(
 	'group-bigexport' => 'Grossexporteure',
 	'group-bigexport-member' => '{{GENDER:$1|Grossexporteur|Grossexporteurin}}',
 	'grouppage-bigexport' => '{{ns:project}}:Grossexporteure',
-	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche «{{int:savearticle}}» erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' «Namensnennung / Weitergabe unter gleichen Bedingungen 3.0»] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäss der ''Creative-Commons''-Lizenz, ausreichend ist.",
 );
 
