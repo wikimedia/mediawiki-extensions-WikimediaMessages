@@ -2028,6 +2028,7 @@ $messages['da'] = array(
  * @author The Evil IP address
  * @author Tischbeinahe
  * @author Umherirrender
+ * @author Zolo
  */
 $messages['de'] = array(
 	'wikimedialicensetexts-desc' => 'Texte der Lizenzbausteine für Wikimedia-Projekte',
@@ -2037,9 +2038,9 @@ Weiterverbreitung, Bearbeitung und kommerzielle Nutzung sind gestattet.",
 	'wm-license-artwork-artist' => 'Künstler',
 	'wm-license-artwork-title' => 'Titel',
 	'wm-license-artwork-medium' => 'Technik',
-	'wm-license-artwork-dimensions' => 'Ausmaße',
+	'wm-license-artwork-dimensions' => 'Maße',
 	'wm-license-artwork-current-location' => 'Momentaner Standort',
-	'wm-license-artwork-object-history' => 'Besitzerhistorie',
+	'wm-license-artwork-object-history' => 'Provenienz',
 	'wm-license-artwork-credit-line' => 'Anerkennung',
 	'wm-license-artwork-references' => 'Referenzen',
 	'wm-license-artwork-inscriptions' => 'Inschriften',

@@ -15168,6 +15168,7 @@ Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia F
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
 	'upload-more-photos-of-this-monument' => 'Carga altre someje de sto monumento',
+	'extdist-branch-REL1_20' => '1.20 (ultima version stabile de MediaWiki)',
 );
 
 /** Veps (vepsän kel’)
