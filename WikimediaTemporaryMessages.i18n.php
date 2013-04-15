@@ -111,7 +111,7 @@ $messages['fi'] = array(
  * @author Metroitendo
  */
 $messages['fr'] = array(
-	'wikimedia-oldskin-removal' => "Vous utilisez l'habillage $1, qui sera supprimé le $2 . !N ![[$3|Plus d'informations]].",
+	'wikimedia-oldskin-removal' => "Vous utilisez l'habillage $1, qui sera supprimée le $2. [[$3|Plus d'informations]].",
 	'wikimediamessages-desc' => 'Messages temporaires spécifiques de Wikimédia',
 );
 
@@ -204,6 +204,7 @@ $messages['ms'] = array(
  * @author User555
  */
 $messages['nl'] = array(
+	'wikimedia-oldskin-removal' => 'U gebruikt het uiterlijk $1, dat wordt verwijderd per $2. [[$3|Meer informatie]].',
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
 
@@ -241,8 +242,11 @@ $messages['si'] = array(
 
 /** Swedish (svenska)
  * @author Ainali
+ * @author WikiPhoenix
  */
 $messages['sv'] = array(
+	'wikimedia-oldskin-removal' => 'Du använder skalet $1, som togs bort den $2.
+[[$3|Mer information]].',
 	'wikimediamessages-desc' => 'Wikimediaspecifika tillfälliga meddelanden',
 );
 

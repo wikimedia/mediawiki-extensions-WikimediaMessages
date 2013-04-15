@@ -8678,6 +8678,7 @@ $messages['sr'] = array(
 );
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
+ * @author Milicevic01
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -8744,11 +8745,11 @@ $messages['sr-ec'] = array(
 	'wm-license-licensing-update-wiki-link' => 'meta:Licensing update/sr',
 	'wm-license-original-upload-log' => 'Изворна историја отпремања',
 	'wm-license-own-work' => 'Сопствено дело',
-	'wm-license-pd-author-self-text' => "Ја, носилац ауторског права овог дела, предајем га у '''[[{{int:wm-license-pd-wiki-link}}|јавно власништво]]'''. Ово важи за цео свет.",
+	'wm-license-pd-author-self-text' => "Ја, творац овог дела, предајем га у '''[[{{int:wm-license-pd-wiki-link}}|јавно власништво]]'''. Ово се односи на цео свет.",
 	'wm-license-pd-author-with-author-text' => "Ово дело је предато у '''[[{{int:wm-license-pd-wiki-link}}|јавно власништво]]''' од његовог аутора, '''$1'''. Ово важи за цео свет.",
 	'wm-license-pd-author-not-legally-possible' => 'У неким земљама, ово није законски изводљиво. У том случају:',
-	'wm-license-pd-author-self-any-purpose' => "Дозвољавам свакоме да користи дело '''у било коју сврху''', без икаквих услова, осим ако такве услове не налаже закон.",
-	'wm-license-pd-author-with-author-any-purpose' => "$1 дозвољава свакоме да користи дело '''у било коју сврху''', без икаквих услова, осим ако такве услове не налаже закон.",
+	'wm-license-pd-author-self-any-purpose' => "Ја, творац овг дела дозвољавам свакоме да користи ово дело за '''било коју намену''', без било каквих услова, осим услова које намеће закон.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 творац овг дела дозвољавам свакоме да користи ово дело за '''било коју намену''', без било каквих услова, осим услова које намеће закон.",
 	'wm-license-pd-usgov-wiki-link' => 'w:sr:Федерална влада САД',
 	'wm-license-pd-usgov-work-wiki-link' => 'w:sr:Статус ауторских права дела владе САД',
 	'wm-license-pd-usgov-fema-wiki-link' => 'w:sr:Федерална агенција за управљање ванредним ситуацијама',
