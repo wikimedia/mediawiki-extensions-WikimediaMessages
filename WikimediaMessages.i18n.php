@@ -2092,6 +2092,7 @@ $messages['bm'] = array(
 
 /** Bengali (বাংলা)
  * @author Abdullah Harun Jewel
+ * @author Aftab1995
  * @author Bellayet
  * @author Nasir8891
  * @author Nemo bis
@@ -2202,6 +2203,7 @@ $messages['bn'] = array(
 	'group-translationadmin' => 'অনুবাদ প্রশাসক',
 	'group-translationadmin-member' => '{{GENDER:$1|অনুবাদ প্রশাসক}}',
 	'grouppage-translationadmin' => '{{ns:project}}:অনুবাদ প্রশাসক',
+	'group-centralnoticeadmin' => 'প্রশাসকদের কেন্দ্রীয় নোটিশ',
 	'group-coder' => 'কোডার',
 	'group-coder-member' => '{{GENDER:$1|কোডার}}',
 	'group-inactive' => 'নিস্ক্রিয় ব্যবহারকারী',
@@ -2210,9 +2212,14 @@ $messages['bn'] = array(
 	'wikimedia-copyright' => 'লেখাগুলো <a href="//creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
 এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
  <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
+	'wikidata-copyright' => 'প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href="//creativecommons.org/publicdomain/zero/1.0/" title="ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href="//creativecommons.org/licenses/by-sa/3.0/" title="ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
+	'wikidata-shortcopyrightwarning' => '"সংরক্ষণ"-এ ক্লিক করার মাধ্যমে, আপনি [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে একমত হচ্ছেন, এবং [https://creativecommons.org/publicdomain/zero/1.0/ সিসি০ লাইসেন্সের] অধীনে আপনার অবদান প্রকাশে সম্মত হচ্ছেন।',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [//wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [//www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
 	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
+	'upload-more-photos-of-this-monument' => 'এই স্মৃতিস্তম্ভের আরও চিত্র আপলোড করুন',
+	'extdist-branch-master' => 'মাস্টার (সর্বশেষ সংস্করণ উন্নয়ন)',
+	'extdist-branch-REL1_20' => '১.২০ (সর্বশেষ স্থিতিশীল মিডিয়াউইকি)',
 );
 
 /** Tibetan (བོད་ཡིག)
