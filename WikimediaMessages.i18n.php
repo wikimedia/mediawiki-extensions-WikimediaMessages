@@ -7984,7 +7984,7 @@ $messages['ko'] = array(
 	'wikidata-shortcopyrightwarning' => '"저장"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/Terms_of_Use 이용 약관]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
-	'cant-delete-main-page' => '대문 문서를 삭제하거나 이동할 수 없습니다.',
+	'cant-delete-main-page' => '대문 문서를 삭제하거나 옮길 수 없습니다.',
 	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
 	'extdist-branch-master' => '마스터 (최신 개발 버전)',
@@ -15162,6 +15162,8 @@ $messages['vec'] = array(
 	'group-translationadmin' => 'Aministradori de łe tradusion',
 	'group-translationadmin-member' => '{{GENDER:$1|aministrador de łe tradusion|aministratrise de łe tradusion|aministrador/trise de łe tradusion}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Aministradori de łe tradusion',
+	'group-centralnoticeadmin' => "'Ministradori dei avisi sentralizà",
+	'group-centralnoticeadmin-member' => "{{GENDER:$1|'ministrador dei avisi sentralizà|'ministratrise dei avisi sentralizà|'ministrador/trise dei avisi sentralizà}}",
 	'group-coder' => 'Programatori',
 	'group-coder-member' => '{{GENDER:$1|programador|programatrise|programadore/trise}}',
 	'group-inactive' => 'Utenti inativi',
@@ -15176,6 +15178,7 @@ Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia F
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
 	'upload-more-photos-of-this-monument' => 'Carga altre someje de sto monumento',
+	'extdist-branch-master' => 'master (ultima version in svilupo)',
 	'extdist-branch-REL1_20' => '1.20 (ultima version stabile de MediaWiki)',
 );
 
