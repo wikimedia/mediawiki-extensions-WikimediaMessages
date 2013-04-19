@@ -3022,6 +3022,7 @@ Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio,
 Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
+	'extdist-branch-REL1_20' => '1.20 (y fersiwn MediaWiki safadwy diweddaraf)',
 );
 
 /** Danish (dansk)

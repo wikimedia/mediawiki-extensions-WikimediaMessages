@@ -203,6 +203,7 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author 2nd-player
  * @author Dj
  * @author EugeneZelenko
  * @author Fryed-peach
@@ -293,7 +294,7 @@ An interwiki link that will work within Wikimedia projects and lead to a wiki pa
 	'wm-license-cc-by-3.0-ee-text' => '{{CreativeCommonsLicense|by|3.0|ee}}',
 	'wm-license-cc-by-3.0-es-text' => '{{CreativeCommonsLicense|by|3.0|es}}',
 	'wm-license-cc-by-3.0-gr-text' => '{{CreativeCommonsLicense|by|3.0|gr}}',
-	'wm-license-cc-by-3.0-gt-text' => '{{CreativeCommonsLicense|by|3.0|gu}}',
+	'wm-license-cc-by-3.0-gt-text' => '{{CreativeCommonsLicense|by|3.0|gt}}',
 	'wm-license-cc-by-3.0-hr-text' => '{{CreativeCommonsLicense|by|3.0|hr}}',
 	'wm-license-cc-by-3.0-hk-text' => '{{CreativeCommonsLicense|by|3.0|hk}}',
 	'wm-license-cc-by-3.0-it-text' => '{{CreativeCommonsLicense|by|3.0|it}}',
