@@ -10707,6 +10707,7 @@ $messages['pih'] = array(
  * @author Nux
  * @author Olgak85
  * @author Przemub
+ * @author Rzuwig
  * @author Saper
  * @author Sp5uhe
  * @author ToSter
@@ -10820,6 +10821,8 @@ $messages['pl'] = array(
 	'group-translationadmin' => 'Administratorzy tłumaczeń',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator|administratorka}} tłumaczeń',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratorzy tłumaczeń',
+	'group-centralnoticeadmin' => 'Administratorzy wspólnych komunikatów',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|administrator|administratorka}} wspólnych komunikatów',
 	'group-coder' => 'Programiści',
 	'group-coder-member' => '{{GENDER:$1|programista|programistka}}',
 	'group-inactive' => 'Użytkownicy nieaktywni',

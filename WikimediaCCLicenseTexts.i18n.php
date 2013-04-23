@@ -225,7 +225,8 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'wm-license-cc-wiki-link' => '{{optional}}
 An interwiki link that will work within Wikimedia projects and lead to a wiki page (most probably in a Wikipedia) in your language providing more information about Creative Commons licenses.',
-	'wm-license-cc-attribution' => 'The "attribution" message in a Creative Commons template. See [[:Commons:Template:Cc-by-sa-3.0]] for an example how it\'s used.',
+	'wm-license-cc-attribution' => 'The "attribution" message in a Creative Commons template. See [[:Commons:Template:Cc-by-sa-3.0]] for an example how it\'s used.
+{{Identical|Attribution}}',
 	'wm-license-cc-by-1.0-text' => '{{CreativeCommonsLicense|by|1.0}}',
 	'wm-license-cc-by-1.0-fi-text' => '{{CreativeCommonsLicense|by|1.0|fi}}',
 	'wm-license-cc-by-1.0-il-text' => '{{CreativeCommonsLicense|by|1.0|il}}',
@@ -409,7 +410,8 @@ An interwiki link that will work within Wikimedia projects and lead to a wiki pa
 	'wm-license-cc-free-to-remix-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-free-to-remix-text' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	'wm-license-cc-conditions' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
-	'wm-license-cc-conditions-attribution-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",
+	'wm-license-cc-conditions-attribution-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.
+{{Identical|Attribution}}",
 	'wm-license-cc-conditions-attribution-text' => '{{doc-singularthey}}
 See http://creativecommons.org/licenses/by/3.0/ on how this is used.',
 	'wm-license-cc-conditions-share_alike-header' => "This is not a 'lego' sentence. See http://creativecommons.org/licenses/by/3.0/ on how this is used.",

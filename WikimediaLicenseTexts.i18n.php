@@ -224,7 +224,8 @@ Please only set a link here when a translated version of [[:Commons:Commons:Reus
 	'wm-license-licensing-update-wiki-link' => '{{optional}}
 Translate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.',
 	'wm-license-original-upload-log' => 'Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [[commons:File:Inkscape_logo_2.svg|example]].',
-	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]]',
+	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]].
+{{Identical|Own work}}',
 	'wm-license-pd-author-with-author-text' => 'Parameters:
 * $1 - name',
 	'wm-license-pd-author-with-author-any-purpose' => "$1 is a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
