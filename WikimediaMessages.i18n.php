@@ -16103,6 +16103,9 @@ $messages['zh-hant'] = array(
 	'group-translationadmin' => '翻譯管理員',
 	'group-translationadmin-member' => '{{GENDER:$1|翻譯管理員}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻譯管理員',
+	'group-centralnoticeadmin' => '中央通知管理員',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理員}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:中央通知管理員',
 	'group-coder' => '編程人員',
 	'group-coder-member' => '{{GENDER:$1|編程人員}}',
 	'group-inactive' => '不活躍的用戶',
@@ -16110,11 +16113,15 @@ $messages['zh-hant'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活躍的用戶',
 	'shared-repo-name-shared' => '維基共享資源',
 	'wikimedia-copyright' => '本站的全部文字在<a "href="{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}"title="Wikipedia:CC-by-sa-3.0協議文本">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>）',
+	'wikidata-copyright' => '所有來自主和屬性名字空間的結構化數據以<a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知識共享CC0協議</a>下發佈； 其他名字空間中的文本在<a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知識共享署名-相同方式共享協議">知識共享署名-相同方式共享協議</a>下發佈；附加條款可能適用。參見<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="維基媒體基金會的使用條款">使用條款</a>了解細節。',
+	'wikidata-shortcopyrightwarning' => '點擊「保存」表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並且您不可撤銷地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授權]發布您的貢獻。',
 	'wikimedia-copyrightwarning' => '一旦點擊「{{int:savearticle}}」按鈕，就表示你同意[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。
 你同意超鏈接或URL足以作為創作共享協議的署名。',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 	'upload-more-photos-of-this-monument' => '上載更多此古蹟的圖片',
+	'extdist-branch-master' => '主幹 (最新開發版本)',
+	'extdist-branch-REL1_20' => '1.20 (最新穩定版本的MediaWiki)',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)

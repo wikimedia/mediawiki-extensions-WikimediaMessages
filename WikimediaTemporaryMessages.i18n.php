@@ -280,5 +280,6 @@ $messages['zh-hans'] = array(
  * @author Simon Shek
  */
 $messages['zh-hant'] = array(
+	'wikimedia-oldskin-removal' => '您正在使用的$1外觀，將於$2起移除。 [[$3|了解詳情]]。',
 	'wikimediamessages-desc' => '維基媒體特定臨時消息',
 );
