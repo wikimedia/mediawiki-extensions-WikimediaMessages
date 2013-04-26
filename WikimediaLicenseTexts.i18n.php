@@ -8763,6 +8763,7 @@ $messages['sr-ec'] = array(
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
+ * @author Milicevic01
  */
 $messages['sr-el'] = array(
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
@@ -8809,7 +8810,7 @@ $messages['sr-el'] = array(
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
 	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
 	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
-	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.", # Fuzzy
+	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Копију лиценце можете прочитати [[<wm-license-gfdl-full-1.2-link>|овде]].", # Fuzzy
 	'wm-license-gfdl-1.2-only-header' => 'samo &nbsp;1.2',
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
