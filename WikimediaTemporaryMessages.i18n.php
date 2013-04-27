@@ -254,6 +254,8 @@ $messages['sv'] = array(
  * @author Base
  */
 $messages['uk'] = array(
+	'wikimedia-oldskin-removal' => 'Ви використовуєте оформлення $1, яке буде усунуто у $2.
+[[$3|Детальніше]].',
 	'wikimediamessages-desc' => 'Тимчасові повідомлення для Вікімедіа',
 );
 
