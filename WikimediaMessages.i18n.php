@@ -277,7 +277,8 @@ $messages['qqq'] = array(
 	'sidebar' => '{{notranslate}}',
 	'specialpages-group-contribution' => '{{doc-special-group|that=are related to the extensions ContributionReporting and LandingCheck|like=[[Special:ContributionHistory]], [[Special:ContributionTotal]], [[Special:ContributionStatistics]], [[Special:FundraiserStatistics]], [[Special:ContributionTrackingStatistics]], [[Special:LandingCheck]]}}',
 	'robots.txt' => '{{notranslate}}',
-	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([[commons:Creator:Heinrich_Hoerle|Example]])',
+	'nstab-creator' => 'Text on the tab of pages in the "Creator" namespace on Wikimedia Commons ([[commons:Creator:Heinrich_Hoerle|Example]])
+{{Identical|Creator}}',
 	'nstab-institution' => 'Text on the tab of pages in the "Institution" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])',
 	'nstab-sequence' => 'Text on the tab of pages in the "Sequence" namespace on Wikimedia Commons ([[commons:Sequence:Cats|Example]])',
 	'nstab-timedtext' => 'Text on the tab of pages in the "TimedText" namespace on Wikimedia Commons ([[commons:TimedText:Edit_Button.ogv.en.srt|Example]])',
@@ -5926,7 +5927,7 @@ $messages['he'] = array(
 	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="//creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
 	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
 	'wikidata-shortcopyrightwarning' => 'לחיצה על "שמירה" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].',
-	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use/he תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
+	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
 	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
@@ -10699,6 +10700,7 @@ $messages['pih'] = array(
 
 /** Polish (polski)
  * @author Beau
+ * @author Chrumps
  * @author Derbeth
  * @author Lazowik
  * @author Leinad
@@ -10818,6 +10820,7 @@ $messages['pl'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|administrator|administratorka}} systemu',
 	'group-API_High_Limit_Requestor' => 'Użytkownicy z wysokimi limitami na żądania API',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Użytkownik|Użytkowniczka}} z wysokimi limitami na żądania API',
+	'group-New_wikis_importer' => 'Importerzy nowych wiki',
 	'group-translationadmin' => 'Administratorzy tłumaczeń',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator|administratorka}} tłumaczeń',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratorzy tłumaczeń',
@@ -10834,6 +10837,8 @@ Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunk
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
 	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
+	'extdist-branch-master' => 'master (najnowsza wersja rozwojowa)',
+	'extdist-branch-REL1_20' => '1.20 (najnowsza stabilna wersja MediaWiki)',
 );
 
 /** Piedmontese (Piemontèis)
