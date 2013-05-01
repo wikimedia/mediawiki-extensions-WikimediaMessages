@@ -12382,14 +12382,15 @@ $messages['pt'] = array(
  * @author Capmo
  * @author Giro720
  * @author Hamilton Abreu
+ * @author Luckas
  * @author Luckas Blade
  * @author 555
  */
 $messages['pt-br'] = array(
 	'wm-license-cc-attribution' => 'Atribuição',
 	'wm-license-cc-by-1.0-text' => 'Este arquivo está disponibilizado sob a licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]], [//creativecommons.org/licenses/by/1.0/deed.pt Atribuição 1.0 Genérica]',
-	'wm-license-cc-by-1.0-fi-text' => 'A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.pt Atribuição 1.0 Finlândia].',
-	'wm-license-cc-by-1.0-il-text' => 'A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.pt Atribuição 1.0 Israel].',
+	'wm-license-cc-by-1.0-fi-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.pt Atribuição 1.0 Finlândia].',
+	'wm-license-cc-by-1.0-il-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.pt Atribuição 1.0 Israel].',
 	'wm-license-cc-by-1.0-nl-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/deed.pt Atribuição 1.0 Holanda].',
 	'wm-license-cc-by-2.0-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/deed.pt Atribuição 2.0 Genérica].',
 	'wm-license-cc-by-2.0-at-text' => 'A utilização deste arquivo é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/deed.pt Atribuição 2.0 Áustria].',

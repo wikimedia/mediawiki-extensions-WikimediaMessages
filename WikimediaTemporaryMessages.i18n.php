@@ -279,9 +279,10 @@ $messages['zh-hans'] = array(
 );
 
 /** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
  * @author Simon Shek
  */
 $messages['zh-hant'] = array(
-	'wikimedia-oldskin-removal' => '您正在使用的$1外觀，將於$2起移除。 [[$3|了解詳情]]。',
+	'wikimedia-oldskin-removal' => '您正在使用的$1外觀將於$2起移除。[[$3|了解詳情]]。',
 	'wikimediamessages-desc' => '維基媒體特定臨時消息',
 );
