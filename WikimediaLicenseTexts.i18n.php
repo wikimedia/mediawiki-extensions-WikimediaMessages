@@ -7404,6 +7404,7 @@ $messages['ps'] = array(
  * @author Hamilton Abreu
  * @author Krinkle
  * @author Lijealso
+ * @author Luckas
  * @author Multichill
  */
 $messages['pt'] = array(
@@ -7414,7 +7415,7 @@ $messages['pt'] = array(
 	'wm-license-artwork-title' => 'Título',
 	'wm-license-artwork-medium' => 'Técnica',
 	'wm-license-artwork-dimensions' => 'Dimensões',
-	'wm-license-artwork-current-location' => 'Localização actual',
+	'wm-license-artwork-current-location' => 'Localização atual',
 	'wm-license-artwork-object-history' => 'História do objeto',
 	'wm-license-artwork-credit-line' => 'Modo de aquisição',
 	'wm-license-artwork-references' => 'Referências',
@@ -8812,7 +8813,7 @@ $messages['sr-el'] = array(
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
 	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
 	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
-	'wm-license-gfdl-1.2-and-later' => "Postoji dozvola da se kopira, distribuira i/ili menja ovaj dokument pod uslovima '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-ove licence za slobodnu dokumentaciju]]''', verzije 1.2 ili bilo koje novije verzije koju objavi ''Zadužbina za slobodan softver''; bez nepromenljivih odeljaka i bez teksta na nalovnoj i/ili zadnjoj strani. Tekst licence možete pročitati [[<wm-license-gfdl-full-1.2-link>|ovde]].", # Fuzzy
+	'wm-license-gfdl-1.2-and-later' => "Postoji dozvola da se kopira, distribuira i/ili menja ovaj dokument pod uslovima '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-ove licence za slobodnu dokumentaciju]]''', verzije 1.2 ili bilo koje novije verzije koju objavi ''[[{{int:wm-license-fsf-wiki-link}}|Zadužbina za slobodan softver]]''; bez nepromenljivih odeljaka i bez teksta na nalovnoj i/ili zadnjoj strani. Tekst licence možete pročitati [[{{int:wm-license-gfdl-full-1.2-link}}|ovde]].",
 	'wm-license-gfdl-1.2-only-header' => 'samo &nbsp;1.2',
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',

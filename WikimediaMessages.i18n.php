@@ -15022,6 +15022,7 @@ $messages['uz'] = array(
 	'group-interface_editor' => 'Interfeys muharrirlari',
 	'group-interface_editor-member' => '{{GENDER:$1|interfeys muharriri}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Interfeys muharrirlari',
+	'group-ipblock-exempt' => 'IP-chetlashtirishlardan mustasnolar',
 	'group-patroller' => 'Patrullovchilar',
 	'group-patroller-member' => '{{GENDER:$1|patrullovchi}}',
 	'grouppage-patroller' => '{{ns:project}}:Patrullovchilar',
@@ -15199,6 +15200,7 @@ $messages['vec'] = array(
 i testi in altri namespace i xe disponibiłi secondo ła licensa <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Atribusion/Condividi al steso modo</a>;
 pol vegner aplicae altre condision.
 Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Termini d\'uxo</a> par detaji.',
+	'wikidata-shortcopyrightwarning' => 'Strucando "Salva", te aceti le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condision de uso] e te consenti irevocabilmente a rilasiar el to contributo in base a la licensa [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
 	'wikimedia-copyrightwarning' => "Strcando so'l boton \"{{int:savearticle}}\", te aceti łe [//wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
