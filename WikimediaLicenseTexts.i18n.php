@@ -175,7 +175,8 @@ Alternative wording: "The beginning of the book"',
 	'wm-license-book-subtitle' => 'Label "Subtitle" at [[Commons:Template:Book]].',
 	'wm-license-book-title' => 'Label "Title" at [[Commons:Template:Book]].
 {{Identical|Title}}',
-	'wm-license-book-translator' => 'Label "Translator" at [[Commons:Template:Book]].',
+	'wm-license-book-translator' => 'Label "Translator" at [[Commons:Template:Book]].
+{{Identical|Translator}}',
 	'wm-license-book-volume' => 'Label "Volume" at [[Commons:Template:Book]].',
 	'wm-license-book-year-of-publication' => 'Label "Year of publication" at [[Commons:Template:Book]].',
 	'wm-license-cecill-text' => 'You can peek at [[Commons:Template:CeCILL]] for the current translations',

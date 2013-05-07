@@ -483,12 +483,11 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 	'extdist-branch-REL1_19' => 'Message used for an extension branched for MediaWiki version 1.19',
 	'createacct-helpusername-url' => 'The URL of a page providing username guidance for the wiki.
 Used as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.',
-	// XXX There's already help for this message in MessagesQqq.php, should there be
-	// additional WMF-specific info here?
-'createacct-helpusername' => 'Message in new create account form providing guidance for username.',
+	'createacct-helpusername' => 'Message in new create account form providing guidance for username.',
 	'createacct-captcha-help-url' => 'The URL of a page providing CAPTCHA assistance for the wiki.
 
 Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
+	'createacct-imgcaptcha-help' => 'Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.',
 );
 
 /** Abkhazian (Аҧсшәа)
@@ -616,6 +615,9 @@ $messages['af'] = array(
 	'wikimedia-copyrightwarning' => 'Deur op "{{int:savearticle}}" te kliek stem u in tot die [//wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaardes] en gee u onherroeplik toestemming dat u bydrae onder die [//creativecommons.org/licenses/by-sa/3.0/deed.af Creative Commons Erkenning-InsgelyksDeel] en die [http://af.wikipedia.org/wiki/GNU-lisensie_vir_vrye_dokumentasie GNU-lisensie vir vrye dokumentasie] gepubliseer word.
 U stem verder in dat \'n skakel of URL voldoende naamsvermelding is om aan die Creative Commons-lisensie te voldoen.',
 	'cant-delete-main-page' => 'Jy kan nie verwyder of skuif die hoofblad.',
+	'createacct-helpusername-url' => '{{ns:Project}}:Beleid_gebruikersname', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvra', # Fuzzy
+	'createacct-imgcaptcha-help' => "Kan nie die beeld sien nie? [[{{MediaWiki:createacct-captcha-help-url}}|Vra dan 'n gebruiker aan]]",
 );
 
 /** Gheg Albanian (Gegë)
@@ -892,6 +894,7 @@ $messages['ang'] = array(
 
 /** Arabic (العربية)
  * @author Abanima
+ * @author Achraf94
  * @author Aiman titi
  * @author AwamerT
  * @author Ciphers
@@ -1023,6 +1026,7 @@ $messages['ar'] = array(
 أنت توافق على أن تكفي النسبة في رخصة المشاع الإبداعي بوصلة فائقة أو مسار الصفحة.',
 	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
 	'upload-more-photos-of-this-monument' => 'قم برفع المزيد من الصور لهذا الأثر',
+	'createacct-captcha-help-url' => '{{ns:Project}}: طلب حساب', # Fuzzy
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -1133,7 +1137,7 @@ $messages['arz'] = array(
 أنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.', # Fuzzy
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Bishnu Saikia
  * @author Chaipau
  * @author Gitartha.bordoloi
@@ -1263,6 +1267,9 @@ $messages['as'] = array(
 	'cant-delete-main-page' => 'মূল পৃষ্ঠাখন আপুনি বিলোপ বা স্থানান্তৰ কৰিব নোৱাৰে',
 	'wikimedia-translationnotifications-signup-legal' => 'আপুনি ৱিকিমিডিয়া সংগঠনক এই তথ্য প্ৰদান কৰি এই কথাত মান্তি হৈছে যে আমি আপোনাক অনুবাদ জড়িত অথবা আপুনি আগ্ৰহী হোৱা ৱিকিমিডিয়া গতিবিধিৰ সৈতে জড়িত অন্য বিষয়ৰ বাবে যোগাযোগ কৰিব পাৰো। আপুনি মান্তি যে আপোনাৰ তথ্য মাৰ্কিন যুক্তৰাষ্ট্ৰত সংৰক্ষণ কৰা হ’ব পাৰে আৰু আমাৰ [https://wikimediafoundation.org/wiki/Privacy_policy গোপনীয়তা নীতিৰ] অধীনত থাকিব।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিচিহ্নৰ অধিক চিত্ৰ আপল’ড কৰক',
+	'createacct-helpusername-url' => '{{ns:Project}}:সদস্যনাম_নীতি', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:এটা একাউণ্টৰ বাবে অনুৰোধ কৰক', # Fuzzy
+	'createacct-imgcaptcha-help' => 'ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]', # Fuzzy
 );
 
 /** Asturian (asturianu)
@@ -2638,6 +2645,9 @@ Vegeu les <a href="//wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condic
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
+	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'usuari", # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Sol·licitar un compte', # Fuzzy
+	'createacct-imgcaptcha-help' => 'No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]', # Fuzzy
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
@@ -3039,6 +3049,8 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 	'extdist-branch-REL1_20' => '1.20 (y fersiwn MediaWiki safadwy diweddaraf)',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Ymholi am gyfri', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]', # Fuzzy
 );
 
 /** Danish (dansk)
@@ -3354,6 +3366,10 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
 	'extdist-branch-master' => 'master (aktuellste Entwicklerversion)',
 	'extdist-branch-REL1_20' => '1.20 (aktuellste stabile MediaWiki-Version)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Benutzernamensrichtlinie',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Auswahlhilfe)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Benutzerkontenanträge',
+	'createacct-imgcaptcha-help' => 'Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]].',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -3513,6 +3529,9 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
 	'upload-more-photos-of-this-monument' => 'Na zıyarık  ra zewbi fotrafi barkerê',
+	'createacct-helpusername-url' => '{{ns:Project}}:Politikaya_nameyê_karberan', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Yew hesab bıwaze', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]', # Fuzzy
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -3796,6 +3815,8 @@ $messages['el'] = array(
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
+	'createacct-helpusername-url' => '{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Αίτημα για λογαριασμό', # Fuzzy
 );
 
 /** Emiliano-Romagnolo (emiliàn e rumagnòl)
@@ -3943,12 +3964,14 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Dalton2
  * @author Dferg
  * @author Fitoschido
+ * @author Fortega
  * @author Gustronico
  * @author Hazard-SJ
  * @author Hoo
  * @author Imre
  * @author Locos epraix
  * @author Manuelt15
+ * @author MarcoAurelio
  * @author Platonides
  * @author Sanbec
  * @author Shirayuki
@@ -4093,6 +4116,9 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
+	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nombres_de_usuario', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar una cuenta', # Fuzzy
+	'createacct-imgcaptcha-help' => '¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]', # Fuzzy
 );
 
 /** Estonian (eesti)
@@ -4636,6 +4662,8 @@ $messages['fi'] = array(
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]', # Fuzzy
 );
 
 /** Fijian (Na Vosa Vakaviti)
@@ -4645,6 +4673,7 @@ $messages['fj'] = array(
 );
 
 /** Faroese (føroyskt)
+ * @author EileenSanda
  * @author Spacebirdy
  */
 $messages['fo'] = array(
@@ -4652,6 +4681,9 @@ $messages['fo'] = array(
 	'group-steward' => 'Ternur',
 	'group-steward-member' => 'Terna', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Ternur',
+	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Bílegg eina konto', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]', # Fuzzy
 );
 
 /** French (français)
@@ -4667,6 +4699,7 @@ $messages['fo'] = array(
  * @author Jean-Frédéric
  * @author Kropotkine 113
  * @author Meno25
+ * @author Metroitendo
  * @author Nemo bis
  * @author Peter17
  * @author PieRRoMaN
@@ -4674,6 +4707,7 @@ $messages['fo'] = array(
  * @author Seb35
  * @author Sherbrooke
  * @author Srtxg
+ * @author Tpt
  * @author Urhixidur
  * @author Verdy p
  * @author Yekrats
@@ -4820,6 +4854,10 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
 	'extdist-branch-master' => 'maître (dernière version de développement)',
 	'extdist-branch-REL1_20' => '1.20 (dernier MediaWiki stable)',
+	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'utilisateur", # Fuzzy
+	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|aidez moi à choisir]])',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Demander un compte',
+	'createacct-imgcaptcha-help' => "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
 );
 
 /** Cajun French (français cadien)
@@ -5435,6 +5473,10 @@ Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo 
 	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
 	'extdist-branch-master' => 'principal (última versión en desenvolvemento)',
 	'extdist-branch-REL1_20' => '1.20 (último MediaWiki estable)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Política de nomes de usuario',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar unha conta',
+	'createacct-imgcaptcha-help' => 'Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]',
 );
 
 /** Gilaki (گیلکی)
@@ -6797,6 +6839,9 @@ $messages['id'] = array(
 	'upload-more-photos-of-this-monument' => 'Unggah lebih banyak foto dari monumen ini',
 	'extdist-branch-master' => 'master (versi pengembangan terbaru)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil terbaru)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Kebijakan nama pengguna',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buatkan akun', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]', # Fuzzy
 );
 
 /** Interlingue (Interlingue)
@@ -7229,6 +7274,10 @@ Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedi
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
 	'extdist-branch-master' => 'master (ultima versione in sviluppo)',
 	'extdist-branch-REL1_20' => '1.20 (ultima versione stabile di MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Nome utente',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Richieste di utenze',
+	'createacct-imgcaptcha-help' => "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
 );
 
 /** Japanese (日本語)
@@ -7389,6 +7438,10 @@ $messages['ja'] = array(
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 	'extdist-branch-master' => 'マスター (最新開発版)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki 最新安定版)',
+	'createacct-helpusername-url' => '{{ns:Project}}:利用者名の指針', # Fuzzy
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(選び方を教えてください)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請', # Fuzzy
+	'createacct-imgcaptcha-help' => '画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]', # Fuzzy
 );
 
 /** Lojban (Lojban)
@@ -8014,6 +8067,10 @@ $messages['ko'] = array(
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
 	'extdist-branch-master' => '마스터 (최신 개발 버전)',
 	'extdist-branch-REL1_20' => '1.20 (최신 안정 미디어위키)',
+	'createacct-helpusername-url' => '{{ns:Project}}:사용자_이름_정책',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(선택 방법을 알려주세요)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:계정 요청',
+	'createacct-imgcaptcha-help' => '그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -8920,9 +8977,9 @@ $messages['min'] = array(
 	'group-botadmin' => 'Bot jo hak panguruih',
 	'group-botadmin-member' => '{{GENDER:$1|bot jo hak panguruih}}',
 	'grouppage-botadmin' => '{{ns:project}}:Bot jo hak panguruih',
-	'group-confirmed' => 'Pangguno terkonfirmasi',
+	'group-confirmed' => 'Pangguno takonfirmasi',
 	'group-confirmed-member' => '{{GENDER:$1|pangguno takonpirmasi}}',
-	'grouppage-confirmed' => '{{ns:project}}:Pangguno terkonfirmasi',
+	'grouppage-confirmed' => '{{ns:project}}:Pangguno takonfirmasi',
 	'group-editprotected' => 'Panyuntiang laman talinduang',
 	'group-editprotected-member' => '{{GENDER:$1|panyuntiang laman talinduang}}',
 	'grouppage-editprotected' => '{{ns:project}}:Panyuntiang laman talinduang',
@@ -9007,6 +9064,9 @@ $messages['min'] = array(
 	'upload-more-photos-of-this-monument' => 'Muek labiah banyak foto dari monumen ko',
 	'extdist-branch-master' => 'master (versi pangambangan tabaru)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil tabaru)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Kabijakan namo pangguno',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buekkan akun', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Indak dapek mancaliak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buekkan akun]]', # Fuzzy
 );
 
 /** Macedonian (македонски)
@@ -10647,9 +10707,11 @@ $messages['os'] = array(
 );
 
 /** Punjabi (ਪੰਜਾਬੀ)
+ * @author Aalam
  */
 $messages['pa'] = array(
 	'sitesupport' => 'ਦਾਨ',
+	'createacct-captcha-help-url' => '{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ', # Fuzzy
 );
 
 /** Pangasinan (Pangasinan)
@@ -11334,10 +11396,12 @@ Concorda também que um link ou URL é forma suficiente de atribuição nos term
  * @author Dicionarista
  * @author Eduardo.mps
  * @author Everton137
+ * @author Fúlvio
  * @author Giro720
  * @author GoEThe
  * @author Helder.wiki
  * @author Heldergeovane
+ * @author Luckas
  * @author Luckas Blade
  * @author Malafaya
  * @author Nemo bis
@@ -11464,6 +11528,9 @@ Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condiç�
 	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [//wikimediafoundation.org/wiki/Terms_of_Use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [//creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
+	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nomes_de_usuário', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar uma conta', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]', # Fuzzy
 );
 
 /** Quechua (Runa Simi)
@@ -11893,6 +11960,10 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
 	'extdist-branch-master' => 'master (urtema versione de sveluppe)',
 	'extdist-branch-REL1_20' => '1.20 (urtema versione secure de MediaUicchi)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Regole_pu_nome_utende',
+	'createacct-helpusername' => "[[{{MediaWiki:createacct-helpusername-url}}|(damme 'na màne a scacchià)]]",
+	'createacct-captcha-help-url' => "{{ns:Project}}:Cirche 'nu cunde",
+	'createacct-imgcaptcha-help' => "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]",
 );
 
 /** Russian (русский)
@@ -12036,7 +12107,7 @@ $messages['ru'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
 	'shared-repo-name-shared' => 'Викисклада',
 	'wikimedia-copyright' => 'Текст доступен по <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">лицензии Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
-	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [//wikimediafoundation.org/wiki/Terms_of_Use условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] и [//www.gnu.org/copyleft/fdl.html GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
+	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [//wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
@@ -14682,7 +14753,7 @@ $messages['tzm'] = array(
  */
 $messages['udm'] = array(
 	'sitesupport' => 'Проектлы юрттон',
-	'wikimedia-copyrightwarning' => "Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] но [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => "Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] но [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Тыро-быдогес со сярысь лыдӟе [//wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожъяса, тӥ асьтэлэн автор правоостылэсь куштӥськоды.", # Fuzzy
 );
 
@@ -15223,6 +15294,10 @@ Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia F
 	'upload-more-photos-of-this-monument' => 'Carga altre someje de sto monumento',
 	'extdist-branch-master' => 'master (ultima version in svilupo)',
 	'extdist-branch-REL1_20' => '1.20 (ultima version stabile de MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Politica_nome_utente',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(jùtame a sièliere)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Dimanda na utensa',
+	'createacct-imgcaptcha-help' => "No sito mia bon de védar l'imagine? [[{{MediaWiki:createacct-captcha-help-url}}|Dimanda na utensa]]",
 );
 
 /** Veps (vepsän kel’)
@@ -15301,6 +15376,7 @@ Kacu mugažo: <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehd
 );
 
 /** Vietnamese (Tiếng Việt)
+ * @author Cheers!
  * @author Minh Nguyen
  * @author Trần Nguyễn Minh Huy
  * @author Vinhtantran
@@ -15447,6 +15523,9 @@ Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?use
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
 	'extdist-branch-master' => 'master (phiên bản phát triển mới nhất)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki ổn định mới nhất)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Quy định tên người dùng', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Yêu cầu tạo tài khoản', # Fuzzy
+	'createacct-imgcaptcha-help' => 'Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]', # Fuzzy
 );
 
 /** Volapük (Volapük)
@@ -15746,6 +15825,8 @@ $messages['yi'] = array(
 איר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.',
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
 	'upload-more-photos-of-this-monument' => 'ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט',
+	'createacct-captcha-help-url' => '{{ns:Project}}:בעטן א קאנטע',
+	'createacct-imgcaptcha-help' => 'בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]',
 );
 
 /** Yoruba (Yorùbá)
