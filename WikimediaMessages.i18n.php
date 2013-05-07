@@ -242,6 +242,12 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 	'extdist-branch-master' => 'master (latest development version)',
 	'extdist-branch-REL1_20' => '1.20 (latest stable MediaWiki)',
 	'extdist-branch-REL1_19' => '1.19',
+
+	# Links in new vertical-layout login and create account forms
+	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me choose)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
+	'createacct-imgcaptcha-help' => 'Can\'t see the image? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]',
 );
 
 /** Message documentation (Message documentation)
@@ -475,6 +481,14 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
 	'extdist-branch-REL1_20' => 'Message used for an extension branched for MediaWiki version 1.20, which is currently the latest stable MediaWiki release.',
 	'extdist-branch-REL1_19' => 'Message used for an extension branched for MediaWiki version 1.19',
+	'createacct-helpusername-url' => 'The URL of a page providing username guidance for the wiki.
+Used as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.',
+	// XXX There's already help for this message in MessagesQqq.php, should there be
+	// additional WMF-specific info here?
+'createacct-helpusername' => 'Message in new create account form providing guidance for username.',
+	'createacct-captcha-help-url' => 'The URL of a page providing CAPTCHA assistance for the wiki.
+
+Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
 );
 
 /** Abkhazian (Аҧсшәа)
