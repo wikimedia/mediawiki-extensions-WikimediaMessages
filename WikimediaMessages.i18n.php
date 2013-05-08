@@ -615,8 +615,8 @@ $messages['af'] = array(
 	'wikimedia-copyrightwarning' => 'Deur op "{{int:savearticle}}" te kliek stem u in tot die [//wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaardes] en gee u onherroeplik toestemming dat u bydrae onder die [//creativecommons.org/licenses/by-sa/3.0/deed.af Creative Commons Erkenning-InsgelyksDeel] en die [http://af.wikipedia.org/wiki/GNU-lisensie_vir_vrye_dokumentasie GNU-lisensie vir vrye dokumentasie] gepubliseer word.
 U stem verder in dat \'n skakel of URL voldoende naamsvermelding is om aan die Creative Commons-lisensie te voldoen.',
 	'cant-delete-main-page' => 'Jy kan nie verwyder of skuif die hoofblad.',
-	'createacct-helpusername-url' => '{{ns:Project}}:Beleid_gebruikersname', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvra', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Beleid_gebruikersname',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvra',
 	'createacct-imgcaptcha-help' => "Kan nie die beeld sien nie? [[{{MediaWiki:createacct-captcha-help-url}}|Vra dan 'n gebruiker aan]]",
 );
 
@@ -1026,7 +1026,7 @@ $messages['ar'] = array(
 أنت توافق على أن تكفي النسبة في رخصة المشاع الإبداعي بوصلة فائقة أو مسار الصفحة.',
 	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
 	'upload-more-photos-of-this-monument' => 'قم برفع المزيد من الصور لهذا الأثر',
-	'createacct-captcha-help-url' => '{{ns:Project}}: طلب حساب', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}: طلب حساب',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -1267,9 +1267,9 @@ $messages['as'] = array(
 	'cant-delete-main-page' => 'মূল পৃষ্ঠাখন আপুনি বিলোপ বা স্থানান্তৰ কৰিব নোৱাৰে',
 	'wikimedia-translationnotifications-signup-legal' => 'আপুনি ৱিকিমিডিয়া সংগঠনক এই তথ্য প্ৰদান কৰি এই কথাত মান্তি হৈছে যে আমি আপোনাক অনুবাদ জড়িত অথবা আপুনি আগ্ৰহী হোৱা ৱিকিমিডিয়া গতিবিধিৰ সৈতে জড়িত অন্য বিষয়ৰ বাবে যোগাযোগ কৰিব পাৰো। আপুনি মান্তি যে আপোনাৰ তথ্য মাৰ্কিন যুক্তৰাষ্ট্ৰত সংৰক্ষণ কৰা হ’ব পাৰে আৰু আমাৰ [https://wikimediafoundation.org/wiki/Privacy_policy গোপনীয়তা নীতিৰ] অধীনত থাকিব।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিচিহ্নৰ অধিক চিত্ৰ আপল’ড কৰক',
-	'createacct-helpusername-url' => '{{ns:Project}}:সদস্যনাম_নীতি', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:এটা একাউণ্টৰ বাবে অনুৰোধ কৰক', # Fuzzy
-	'createacct-imgcaptcha-help' => 'ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:সদস্যনাম_নীতি',
+	'createacct-captcha-help-url' => '{{ns:Project}}:এটা একাউণ্টৰ বাবে অনুৰোধ কৰক',
+	'createacct-imgcaptcha-help' => 'ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]',
 );
 
 /** Asturian (asturianu)
@@ -2645,9 +2645,9 @@ Vegeu les <a href="//wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condic
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
-	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'usuari", # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Sol·licitar un compte', # Fuzzy
-	'createacct-imgcaptcha-help' => 'No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]', # Fuzzy
+	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'usuari",
+	'createacct-captcha-help-url' => '{{ns:Project}}:Sol·licitar un compte',
+	'createacct-imgcaptcha-help' => 'No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
@@ -3049,8 +3049,8 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 	'extdist-branch-REL1_20' => '1.20 (y fersiwn MediaWiki safadwy diweddaraf)',
-	'createacct-captcha-help-url' => '{{ns:Project}}:Ymholi am gyfri', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Ymholi am gyfri',
+	'createacct-imgcaptcha-help' => 'Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]',
 );
 
 /** Danish (dansk)
@@ -3204,6 +3204,10 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
 	'extdist-branch-master' => 'Master (seneste udviklingsversion)',
 	'extdist-branch-REL1_20' => '1.20 (seneste stabil MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Brugernavns_regler',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Anmod om en konto',
+	'createacct-imgcaptcha-help' => 'Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]',
 );
 
 /** German (Deutsch)
@@ -3529,9 +3533,9 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
 	'upload-more-photos-of-this-monument' => 'Na zıyarık  ra zewbi fotrafi barkerê',
-	'createacct-helpusername-url' => '{{ns:Project}}:Politikaya_nameyê_karberan', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Yew hesab bıwaze', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Politikaya_nameyê_karberan',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Yew hesab bıwaze',
+	'createacct-imgcaptcha-help' => 'Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -3815,8 +3819,8 @@ $messages['el'] = array(
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
-	'createacct-helpusername-url' => '{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Αίτημα για λογαριασμό', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Αίτημα για λογαριασμό',
 );
 
 /** Emiliano-Romagnolo (emiliàn e rumagnòl)
@@ -4116,9 +4120,9 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
-	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nombres_de_usuario', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar una cuenta', # Fuzzy
-	'createacct-imgcaptcha-help' => '¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nombres_de_usuario',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar una cuenta',
+	'createacct-imgcaptcha-help' => '¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]',
 );
 
 /** Estonian (eesti)
@@ -4662,8 +4666,8 @@ $messages['fi'] = array(
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
-	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta',
+	'createacct-imgcaptcha-help' => 'Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]',
 );
 
 /** Fijian (Na Vosa Vakaviti)
@@ -4681,9 +4685,9 @@ $messages['fo'] = array(
 	'group-steward' => 'Ternur',
 	'group-steward-member' => 'Terna', # Fuzzy
 	'grouppage-steward' => '{{ns:project}}:Ternur',
-	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Bílegg eina konto', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Bílegg eina konto',
+	'createacct-imgcaptcha-help' => 'Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]',
 );
 
 /** French (français)
@@ -4854,7 +4858,7 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
 	'extdist-branch-master' => 'maître (dernière version de développement)',
 	'extdist-branch-REL1_20' => '1.20 (dernier MediaWiki stable)',
-	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'utilisateur", # Fuzzy
+	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'utilisateur",
 	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|aidez moi à choisir]])',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Demander un compte',
 	'createacct-imgcaptcha-help' => "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
@@ -6840,8 +6844,8 @@ $messages['id'] = array(
 	'extdist-branch-master' => 'master (versi pengembangan terbaru)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil terbaru)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kebijakan nama pengguna',
-	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buatkan akun', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buatkan akun',
+	'createacct-imgcaptcha-help' => 'Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]',
 );
 
 /** Interlingue (Interlingue)
@@ -7438,10 +7442,10 @@ $messages['ja'] = array(
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 	'extdist-branch-master' => 'マスター (最新開発版)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki 最新安定版)',
-	'createacct-helpusername-url' => '{{ns:Project}}:利用者名の指針', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:利用者名の指針',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(選び方を教えてください)]]',
-	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請', # Fuzzy
-	'createacct-imgcaptcha-help' => '画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請',
+	'createacct-imgcaptcha-help' => '画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]',
 );
 
 /** Lojban (Lojban)
@@ -9065,8 +9069,8 @@ $messages['min'] = array(
 	'extdist-branch-master' => 'master (versi pangambangan tabaru)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil tabaru)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kabijakan namo pangguno',
-	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buekkan akun', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Indak dapek mancaliak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buekkan akun]]', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buekkan akun',
+	'createacct-imgcaptcha-help' => 'Indak dapek mancaliak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buekkan akun]]',
 );
 
 /** Macedonian (македонски)
@@ -9226,6 +9230,10 @@ $messages['mk'] = array(
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
 	'extdist-branch-master' => 'матична (најнова развојна верзија)',
 	'extdist-branch-REL1_20' => '1.20 (најнова стабилна верзија на МедијаВики)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Правила_за_кориснички_имиња',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогни ми да одберам)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Барање_на_сметка',
+	'createacct-imgcaptcha-help' => 'Не можете да ја видите сликата? [[{{MediaWiki:createacct-captcha-help-url}}|Побарајте сметка]]',
 );
 
 /** Malayalam (മലയാളം)
@@ -10711,7 +10719,7 @@ $messages['os'] = array(
  */
 $messages['pa'] = array(
 	'sitesupport' => 'ਦਾਨ',
-	'createacct-captcha-help-url' => '{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ',
 );
 
 /** Pangasinan (Pangasinan)
@@ -11528,9 +11536,9 @@ Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condiç�
 	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [//wikimediafoundation.org/wiki/Terms_of_Use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [//creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
-	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nomes_de_usuário', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar uma conta', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nomes_de_usuário',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar uma conta',
+	'createacct-imgcaptcha-help' => 'Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]',
 );
 
 /** Quechua (Runa Simi)
@@ -15523,9 +15531,10 @@ Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?use
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
 	'extdist-branch-master' => 'master (phiên bản phát triển mới nhất)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki ổn định mới nhất)',
-	'createacct-helpusername-url' => '{{ns:Project}}:Quy định tên người dùng', # Fuzzy
-	'createacct-captcha-help-url' => '{{ns:Project}}:Yêu cầu tạo tài khoản', # Fuzzy
-	'createacct-imgcaptcha-help' => 'Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Quy định tên người dùng',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Yêu cầu tạo tài khoản',
+	'createacct-imgcaptcha-help' => 'Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]',
 );
 
 /** Volapük (Volapük)
@@ -16241,6 +16250,10 @@ $messages['zh-hant'] = array(
 	'upload-more-photos-of-this-monument' => '上載更多此古蹟的圖片',
 	'extdist-branch-master' => '主幹 (最新開發版本)',
 	'extdist-branch-REL1_20' => '1.20 (最新穩定版本的MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:用戶名方針',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|（幫我選擇）]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:請求建立用戶',
+	'createacct-imgcaptcha-help' => '無法看到圖像嗎？[[{{MediaWiki:createacct-captcha-help-url}}|請求建立用戶]]',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)
