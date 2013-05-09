@@ -5132,6 +5132,10 @@ Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer 
 	'upload-more-photos-of-this-monument' => 'Muar bilen faan detdiar seenksteed huuchsjüür',
 	'extdist-branch-master' => 'master (leetst wersjuun)',
 	'extdist-branch-REL1_20' => '1.20 (leetst stabiil MediaWiki wersjuun)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Reegeln för brükernöömer',
+	'createacct-helpusername' => "[[{{MediaWiki:createacct-helpusername-url}}|(halep bi't ütjwool)]]",
+	'createacct-captcha-help-url' => '{{ns:Project}}:Am en brükerkonto uunfraage',
+	'createacct-imgcaptcha-help' => 'Könst det bil ei sä ? [[{{MediaWiki:createacct-captcha-help-url}}|Am en brükerkonto uunfraage]]',
 );
 
 /** Friulian (furlan)
@@ -10331,6 +10335,10 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 	'extdist-branch-master' => 'master (laatste ontwikkelversie)',
 	'extdist-branch-REL1_20' => '1.20 (laatste stabiele versie van MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Gebruikersnamenbeleid',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me kiezen)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvragen',
+	'createacct-imgcaptcha-help' => 'Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een gebruiker aan]]',
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
