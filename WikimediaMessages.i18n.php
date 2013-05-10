@@ -10376,6 +10376,9 @@ $messages['nn'] = array(
 	'group-Ex_Bureaucrat' => 'Tidlegare byråkratar',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|tidlegare byråkrat}}',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Tidlegare byråkratar',
+	'group-OTRS-member' => 'OTRS-medlemer',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS-medlem}}',
+	'grouppage-OTRS-member' => '{{ns:project}}:OTRS-medlemer',
 	'group-abusefilter' => 'Redigerarar av misbruksfilteret',
 	'group-abusefilter-member' => '{{GENDER:$1|misbruksfilterendrar}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Redigerarar av misbruksfilteret',
@@ -10391,6 +10394,9 @@ $messages['nn'] = array(
 	'group-bigexport' => 'Store eksportørar',
 	'group-bigexport-member' => '{{GENDER:$1|storeksportør}}',
 	'grouppage-bigexport' => '{{ns:project}}:Store eksportørar',
+	'group-botadmin' => 'Robotar med administratorrettar',
+	'group-botadmin-member' => '{{GENDER:$1|robot med administratorrettar}}',
+	'grouppage-botadmin' => '{{ns:project}}:Robotar med administratorrettar',
 	'group-confirmed' => 'Stadfesta brukarar',
 	'group-confirmed-member' => '{{GENDER:$1|stadfesta brukar}}',
 	'grouppage-confirmed' => '{{ns:project}}:Stadfeste brukarar',
@@ -10439,6 +10445,9 @@ $messages['nn'] = array(
 	'group-sysadmin' => 'Systemadministratorar',
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministrator}}',
 	'grouppage-sysadmin' => 'm:Systemadministratorar',
+	'group-translationadmin' => 'Omsetjingsadministratorar',
+	'group-translationadmin-member' => '{{GENDER:$1|omsetjingsadministrator}}',
+	'grouppage-translationadmin' => '{{ns:project}}:Omsetjingsadministratorar',
 	'group-coder' => 'Kodarar',
 	'group-coder-member' => '{{GENDER:$1|kodar}}',
 	'grouppage-coder' => '{{ns:project}}:Kodar',
@@ -10453,6 +10462,7 @@ Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
 	'upload-more-photos-of-this-monument' => 'Last opp fleire bilete av monumentet',
 	'extdist-branch-REL1_20' => '1.20 (siste stabile MediaWiki)',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]',
 );
 
 /** Novial (Novial)
