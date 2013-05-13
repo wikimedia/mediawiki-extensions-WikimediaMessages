@@ -482,17 +482,18 @@ $messages['an'] = array(
 );
 
 /** Old English (Ænglisc)
+ * @author Gott wisst
  * @author Wōdenhelm
  */
 $messages['ang'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:ang:GNU Frēo Ȝeƿritȝelīefung',
-	'wm-license-information-description' => 'Tōƿritennes',
+	'wm-license-information-description' => 'Tōwritenness',
 	'wm-license-information-source' => 'Fruma',
-	'wm-license-information-source-missing' => "Þis fīl ne hæfþ '''fruman''' cȳþþe.",
-	'wm-license-information-date' => 'Dæȝ',
-	'wm-license-information-author' => 'Bōcend',
+	'wm-license-information-source-missing' => "Þēos ymele næfþ '''fruman''' cȳþþe.",
+	'wm-license-information-date' => 'Tælmearc',
+	'wm-license-information-author' => 'Dǣdfruma',
 	'wm-license-information-permission' => 'Þafung',
-	'wm-license-information-permission-see-below' => 'Sēo under.',
+	'wm-license-information-permission-see-below' => 'Seoh niðer.',
 );
 
 /** Arabic (العربية)

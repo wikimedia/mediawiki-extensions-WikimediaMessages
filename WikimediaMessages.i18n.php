@@ -845,51 +845,52 @@ Tamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribu
 );
 
 /** Old English (Ænglisc)
+ * @author Gott wisst
  * @author Wōdenhelm
  */
 $messages['ang'] = array(
-	'wikimediamessages-desc' => 'Rihtƿikiȝemyndes ȝeƿritu',
-	'sitesupport' => 'Ȝieldȝiefan',
-	'group-autopatrolled' => 'Selffremmende ƿeardas',
+	'wikimediamessages-desc' => 'Ǣrendgewritu synderlīce for Wikimedie',
+	'sitesupport' => 'Giefan fēos lēane',
+	'group-autopatrolled' => 'Selffremmende weardas',
 	'group-autopatrolled-member' => 'selffremmende ƿeard', # Fuzzy
 	'group-autoreviewer' => 'Selffremmende dēmendas',
 	'group-autoreviewer-member' => 'selffremmende dēmend', # Fuzzy
-	'group-bigexport' => 'Grēat ūtsenderas',
+	'group-bigexport' => 'Grēate ūtsenderas',
 	'group-bigexport-member' => 'grēat ūtsendere', # Fuzzy
-	'group-editprotected' => 'Borgena sīdena ādihteras',
+	'group-editprotected' => 'Borgenra trameta adihtendas',
 	'group-editprotected-member' => 'Borgen sīde ādihtend', # Fuzzy
-	'group-flood' => 'Searuþrælisc brūcendas',
+	'group-flood' => 'Searuþrǣla brūcendas',
 	'group-flood-member' => 'searuþrælisc brūcend', # Fuzzy
-	'grouppage-flood' => '{{ns:project}}:Searuþrælisc brūcendas',
+	'grouppage-flood' => '{{ns:project}}:Searuþrǣla brūcendas',
 	'group-founder' => 'Onstelleras',
 	'group-founder-member' => 'onstellere', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Onstelleras',
 	'group-import' => 'Inbringeras',
 	'group-import-member' => 'inbringere', # Fuzzy
 	'grouppage-import' => '{{ns:project}}:Inbringeras',
-	'group-interface_editor' => 'Ānsīene ādihtendas',
+	'group-interface_editor' => 'Gewealdes wlitan adihtendas',
 	'group-interface_editor-member' => 'ānsīene ādihtend', # Fuzzy
-	'group-patroller' => 'Ƿeardmenn',
+	'group-patroller' => 'Weardas',
 	'group-patroller-member' => 'ƿeard', # Fuzzy
-	'group-transwiki' => 'Ȝeondƿiki inbringeras',
+	'group-transwiki' => 'Inbringeras þā wyrcaþ betweoh wiki',
 	'group-transwiki-member' => 'ȝeondƿiki inbringere', # Fuzzy
-	'grouppage-transwiki' => '{{ns:project}}:Ȝeondƿikian inbringeras',
-	'group-trusted' => 'Betrēoƿede brūcendas',
+	'grouppage-transwiki' => '{{ns:project}}:Inbringeras þā wyrcaþ betweoh wiki',
+	'group-trusted' => 'Getrēowede brūcendas',
 	'group-trusted-member' => 'betrēoƿed brūcend', # Fuzzy
-	'grouppage-trusted' => '{{ns:project}}:Betrēoƿede brūcendas',
-	'group-Global_bot' => 'Ƿorulde searuþralas',
+	'grouppage-trusted' => '{{ns:project}}:Getrēowede brūcendas',
+	'group-Global_bot' => 'Eormenlice searuþrǣlas',
 	'group-Global_bot-member' => 'ƿorulde searuþræl', # Fuzzy
-	'group-Global_sysops' => 'Ƿorulde beƿitendas',
+	'group-Global_sysops' => 'Eormenlice bewitendas',
 	'group-Global_sysops-member' => 'ƿorulde betƿitend', # Fuzzy
-	'group-editinterface' => 'Ānsīene ādihteras',
+	'group-editinterface' => 'Gewealdes wlitan adihtendas',
 	'group-editinterface-member' => 'ānsīene ādihtend', # Fuzzy
-	'group-steward' => 'Stiȝƿeardas',
+	'group-steward' => 'Stigweardas',
 	'group-steward-member' => 'stiȝƿeard', # Fuzzy
-	'group-sysadmin' => 'Endebyrdnesse tōþeȝnas',
+	'group-sysadmin' => 'Endebyrdnesse tōþegnendas',
 	'group-sysadmin-member' => 'endebyrdnesse tōþeȝn', # Fuzzy
-	'group-inactive' => 'Sleace brūcendas',
+	'group-inactive' => 'Īdle brūcendas',
 	'group-inactive-member' => 'sleac brūcend', # Fuzzy
-	'grouppage-inactive' => '{{ns:project}}:Sleace brūcendas',
+	'grouppage-inactive' => '{{ns:project}}:Īdle brūcendas',
 );
 
 /** Arabic (العربية)
@@ -5999,6 +6000,8 @@ $messages['he'] = array(
 	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
 	'extdist-branch-master' => 'master (גרסת הפיתוח האחרונה)',
 	'extdist-branch-REL1_20' => '1.20 (גרסה יציבה אחרונה של מדיה־ויקי)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(עזרו לי לבחור)]]',
 );
 
 /** Hindi (हिन्दी)
