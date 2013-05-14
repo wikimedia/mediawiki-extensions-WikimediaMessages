@@ -13165,6 +13165,7 @@ Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdori
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author FriedrickMILBarbarossa
+ * @author Milicevic01
  * @author Millosh
  * @author Rancher
  * @author Red Baron
@@ -13291,7 +13292,7 @@ $messages['sr-ec'] = array(
 	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
 додатни услови се могу применити.
 Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
-	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију ГЛСД]</span>.
+	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 );
