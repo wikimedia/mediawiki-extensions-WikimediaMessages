@@ -275,7 +275,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 $messages['qqq'] = array(
 	'wikimediamessages-desc' => '{{desc|name=Wikimedia Messages|url=http://www.mediawiki.org/wiki/Extension:WikimediaMessages}}',
 	'sitesupport-url' => 'Wikimedia-specific message used in the sidebar.
-{{doc-important|Only change the link if it has a translation!|([[wmf:Special:Prefixindex/Donate/|check]])}}',
+{{doc-important|Do not change anything except the uselang for the link|([[wmf:Special:Prefixindex/Donate/|check]])}}',
 	'sitesupport' => "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.
 
 {{Identical|Donate}}",
@@ -1280,7 +1280,7 @@ $messages['as'] = array(
  */
 $messages['ast'] = array(
 	'wikimediamessages-desc' => 'Mensaxes específicos de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donativos',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donativos', # Fuzzy
 	'sitesupport' => 'Donativos',
 	'tooltip-n-sitesupport' => 'Sofítanos',
 	'specialpages-group-contribution' => 'Contribución/Recaudación de fondos',
@@ -1415,6 +1415,10 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
 	'extdist-branch-master' => 'maestra (cabera versión en desendolcu)',
 	'extdist-branch-REL1_20' => '1.20 (cabera MediaWiki estable)',
+	'createacct-helpusername-url' => "{{ns:Project}}:Política_de_nomes_d'usuariu",
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ayudame a escoyer)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Solicite una cuenta',
+	'createacct-imgcaptcha-help' => '¿Nun pue ver la imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite una cuenta]]',
 );
 
 /** Avaric (авар)
@@ -3232,7 +3236,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
  */
 $messages['de'] = array(
 	'wikimediamessages-desc' => 'Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spenden',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=de',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unterstütze uns',
 	'specialpages-group-contribution' => 'Spenden/Fundraiser',
@@ -4999,7 +5003,7 @@ Por la licence Creative Commons, vos accèptâd d’étre crèditâ per los reus
  */
 $messages['frr'] = array(
 	'wikimediamessages-desc' => 'Wikimedia tisangen',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spenden',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spenden', # Fuzzy
 	'sitesupport' => 'Dan bidrach',
 	'tooltip-n-sitesupport' => 'Halep üs',
 	'specialpages-group-contribution' => 'Bidrach',
@@ -5870,7 +5874,7 @@ $messages['haw'] = array(
  */
 $messages['he'] = array(
 	'wikimediamessages-desc' => 'הודעות המיוחדות לוויקימדיה',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/תרומות',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/תרומות', # Fuzzy
 	'sitesupport' => 'תרומות',
 	'tooltip-n-sitesupport' => 'תרומה',
 	'specialpages-group-contribution' => 'תרומות/התרמה',
@@ -6729,7 +6733,7 @@ Tu accepta que un hyperligamine o URL suffice como attribution sub le licentia C
  */
 $messages['id'] = array(
 	'wikimediamessages-desc' => 'Pesan-pesan spesifik Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana', # Fuzzy
 	'sitesupport' => 'Menyumbang',
 	'tooltip-n-sitesupport' => 'Dukung kami',
 	'specialpages-group-contribution' => 'Kontribusi/Penggalang dana',
@@ -8947,7 +8951,7 @@ $messages['mi'] = array(
  */
 $messages['min'] = array(
 	'wikimediamessages-desc' => 'Pasan spesifik Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana', # Fuzzy
 	'sitesupport' => 'Manyumbang',
 	'tooltip-n-sitesupport' => 'Dukuang kami',
 	'specialpages-group-contribution' => 'Kontribusi/Panggalang dana',
@@ -10200,7 +10204,7 @@ $messages['niu'] = array(
  */
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Berichten voor Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Giften?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Giften?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation', # Fuzzy
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Ondersteun ons financieel',
 	'specialpages-group-contribution' => 'Giften/Fondsenwervingsactie',
@@ -10365,7 +10369,7 @@ Je gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om a
  */
 $messages['nn'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke meldingar',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/nn',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/nn', # Fuzzy
 	'sitesupport' => 'Gåver',
 	'tooltip-n-sitesupport' => 'Støtt oss',
 	'specialpages-group-contribution' => 'Bidrag/Innsamling',
@@ -13174,7 +13178,7 @@ Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdori
  */
 $messages['sr-ec'] = array(
 	'wikimediamessages-desc' => 'Поруке које се односе на Викимедију',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/sr?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/sr?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation', # Fuzzy
 	'sitesupport' => 'Новчани прилози',
 	'tooltip-n-sitesupport' => 'Подржите нас',
 	'specialpages-group-contribution' => 'Доприноси/Прикупљање средстава',
