@@ -518,7 +518,7 @@ Droëneuh akô meunyö hyperlink atawa URL nakeuh neuhubông nyang sép di yup l
  */
 $messages['af'] = array(
 	'wikimediamessages-desc' => 'Wikimedia spesifieke boodskappe',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/af',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=af',
 	'sitesupport' => 'Skenkings',
 	'tooltip-n-sitesupport' => 'Ondersteun ons',
 	'specialpages-group-contribution' => 'Skenkings/Fondsinsameling',
@@ -627,7 +627,7 @@ U stem verder in dat \'n skakel of URL voldoende naamsvermelding is om aan die C
  */
 $messages['aln'] = array(
 	'wikimediamessages-desc' => 'Mesazhet specifike për wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=aln',
 	'sitesupport' => 'Jep donacion',
 	'tooltip-n-sitesupport' => 'Përkrahnani',
 	'specialpages-group-contribution' => 'Kontributi/fundraiser',
@@ -730,7 +730,7 @@ $messages['am'] = array(
  */
 $messages['an'] = array(
 	'wikimediamessages-desc' => 'Mensaches especificos de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=an',
 	'sitesupport' => 'Donativos',
 	'tooltip-n-sitesupport' => 'Aduye-nos',
 	'specialpages-group-contribution' => 'Contribución/Recaudación de fundos',
@@ -907,7 +907,7 @@ $messages['ang'] = array(
  */
 $messages['ar'] = array(
 	'wikimediamessages-desc' => 'رسائل خاصة بويكيميديا',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/%D8%AC%D9%85%D8%B9_%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ar',
 	'sitesupport' => 'تبرع',
 	'tooltip-n-sitesupport' => 'ادعمنا',
 	'specialpages-group-contribution' => 'المساهمات/جمع التبرعات',
@@ -1064,7 +1064,7 @@ $messages['arn'] = array(
  */
 $messages['arz'] = array(
 	'wikimediamessages-desc' => 'رسايل خاصه بويكيميديا',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/%D8%AC%D9%85%D8%B9_%D8%AA%D8%A8%D8%B1%D8%B9%D8%A7%D8%AA',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=arz',
 	'sitesupport' => 'التبرعات',
 	'tooltip-n-sitesupport' => 'ساندنا',
 	'specialpages-group-contribution' => 'المساهمين/جامعين التبرعات',
@@ -1149,7 +1149,7 @@ $messages['arz'] = array(
  */
 $messages['as'] = array(
 	'wikimediamessages-desc' => 'ৱিকিমিডিয়া নিৰ্ধাৰিত বাৰ্তা',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/hi?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=as',
 	'sitesupport' => 'দান-বৰঙনি',
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
 	'specialpages-group-contribution' => 'অৱদান/তহবিল সংগ্রাহক',
@@ -1280,7 +1280,7 @@ $messages['as'] = array(
  */
 $messages['ast'] = array(
 	'wikimediamessages-desc' => 'Mensaxes específicos de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donativos', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ast',
 	'sitesupport' => 'Donativos',
 	'tooltip-n-sitesupport' => 'Sofítanos',
 	'specialpages-group-contribution' => 'Contribución/Recaudación de fondos',
@@ -1448,7 +1448,7 @@ $messages['ay'] = array(
  * @author Vugar 1981
  */
 $messages['az'] = array(
-	'sitesupport-url' => '//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=20120717SB001&uselang=az',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az',
 	'sitesupport' => 'Maddi kömək',
 	'tooltip-n-sitesupport' => 'Bizə dəstək verin',
 	'nstab-creator' => 'Yaradıcı',
@@ -1648,7 +1648,7 @@ $messages['azb'] = array(
  */
 $messages['ba'] = array(
 	'wikimediamessages-desc' => 'Викимедиа өсөн махсус хәбәрҙәр',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Сделать_пожертвование',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ba',
 	'sitesupport' => 'Ярҙам итеү',
 	'tooltip-n-sitesupport' => 'Беҙгә ярҙам итегеҙ',
 	'specialpages-group-contribution' => 'Иғәнә йыйыу',
@@ -1852,7 +1852,7 @@ $messages['be'] = array(
  */
 $messages['be-tarask'] = array(
 	'wikimediamessages-desc' => 'Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Ахвяраваньні',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=be-tarask',
 	'sitesupport' => 'Ахвяраваньні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
 	'specialpages-group-contribution' => 'Ахвяраваньні/Збор сродкаў',
@@ -1992,7 +1992,7 @@ $messages['be-tarask'] = array(
  */
 $messages['bg'] = array(
 	'wikimediamessages-desc' => 'Съобщения, специфични за Уикимедия',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/bg',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=bg',
 	'sitesupport' => 'Дарения',
 	'tooltip-n-sitesupport' => 'Подкрепете ни',
 	'nstab-creator' => 'Създател',
@@ -2129,7 +2129,7 @@ $messages['bm'] = array(
  */
 $messages['bn'] = array(
 	'wikimediamessages-desc' => 'উইকিমিডিয়া নির্ধারিত বার্তা',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=bn',
 	'sitesupport' => 'দান করুন',
 	'tooltip-n-sitesupport' => 'আমাদের সহায়তা করুন',
 	'specialpages-group-contribution' => 'অবদান/তহবিল সংগ্রাহক',
@@ -2269,7 +2269,7 @@ $messages['bpy'] = array(
  */
 $messages['bqi'] = array(
 	'wikimediamessages-desc' => 'پیام‌های مخصوص ویکی‌مدیا',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/bqi',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=bqi',
 	'sitesupport' => 'کمک مالی',
 	'tooltip-n-sitesupport' => 'حمایت زه ایما',
 );
@@ -2284,7 +2284,7 @@ $messages['bqi'] = array(
  */
 $messages['br'] = array(
 	'wikimediamessages-desc' => 'Kemennoù dibar Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/fr',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=br',
 	'sitesupport' => 'Roadoù',
 	'tooltip-n-sitesupport' => "Harpit ac'hanomp",
 	'specialpages-group-contribution' => 'Degasadenn/Dastum moneiz',
@@ -2410,7 +2410,7 @@ A-du emaoc'h ez eo trawalc'h deoc'h bezañ meneget dre ur gourliamm pe un URL, d
  */
 $messages['bs'] = array(
 	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/bs',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=bs',
 	'sitesupport' => 'Donacije',
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'specialpages-group-contribution' => 'Doprinosi/donacije',
@@ -2536,7 +2536,7 @@ $messages['bxr'] = array(
  */
 $messages['ca'] = array(
 	'wikimediamessages-desc' => 'Missatges específics de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/ca',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ca',
 	'sitesupport' => 'Donatius',
 	'tooltip-n-sitesupport' => 'Ajudau-nos',
 	'specialpages-group-contribution' => 'Contribució/Recaptació de fons',
@@ -2663,9 +2663,10 @@ $messages['cdo'] = array(
 
 /** Chechen (нохчийн)
  * @author Sasan700
+ * @author Умар
  */
 $messages['ce'] = array(
-	'sitesupport' => 'ГIо',
+	'sitesupport' => 'Википедин гӀо дар',
 	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
 	'group-accountcreator' => 'Дlавазвалар кхуллурш',
 	'grouppage-accountcreator' => '{{ns:project}}:Дlавазвалар кхуллурш',
@@ -2788,7 +2789,7 @@ $messages['crh-latn'] = array(
  */
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Sponzorstv%C3%AD',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=cs',
 	'sitesupport' => 'Podpořte nás',
 	'tooltip-n-sitesupport' => 'Podpořte nás',
 	'specialpages-group-contribution' => 'Příspěvky/financování',
@@ -2937,7 +2938,7 @@ $messages['cv'] = array(
  */
 $messages['cy'] = array(
 	'wikimediamessages-desc' => 'Negeseuon neilltuol Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/cy',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=cy',
 	'sitesupport' => 'Rhoi arian',
 	'tooltip-n-sitesupport' => "Ein cefnogi'n ariannol",
 	'specialpages-group-contribution' => 'Cyfrannu/Codi arian',
@@ -3074,7 +3075,7 @@ Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded
  */
 $messages['da'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-specifikke meddelelser',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/da',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=da',
 	'sitesupport' => 'Donationer',
 	'tooltip-n-sitesupport' => 'Støt os',
 	'specialpages-group-contribution' => 'Bidrag/Indsamling',
@@ -3415,7 +3416,7 @@ Sie stimmen zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Z
  */
 $messages['diq'] = array(
 	'wikimediamessages-desc' => 'mesajê xususi yê wikimedyayi',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/tr',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=diq',
 	'sitesupport' => 'Beğş',
 	'tooltip-n-sitesupport' => 'paşt bıde ma',
 	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
@@ -3551,7 +3552,7 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
  */
 $messages['dsb'] = array(
 	'wikimediamessages-desc' => 'Zdźělenja specifiske za Wikimediju',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/dsb',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=dsb',
 	'sitesupport' => 'Dary',
 	'tooltip-n-sitesupport' => 'Pódpěraj nas',
 	'specialpages-group-contribution' => 'Pśinoski/Pósćiwańska akcija',
@@ -3713,7 +3714,7 @@ $messages['ee'] = array(
  */
 $messages['el'] = array(
 	'wikimediamessages-desc' => 'Μηνύματα ειδικά για το Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/el',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=el',
 	'sitesupport' => 'Δωρεές',
 	'tooltip-n-sitesupport' => 'Υποστηρίξτε μας',
 	'specialpages-group-contribution' => 'Συνεισφορές/Έρανος',
@@ -3847,7 +3848,7 @@ $messages['eml'] = array(
  */
 $messages['eo'] = array(
 	'wikimediamessages-desc' => 'Specifaj mesaĝoj de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Monkolektado',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=eo',
 	'sitesupport' => 'Donaci',
 	'tooltip-n-sitesupport' => 'Subteni nin per mono',
 	'specialpages-group-contribution' => 'Kontribuoj/Monkolekto',
@@ -3989,7 +3990,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes específicos de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donaciones',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=es',
 	'sitesupport' => 'Donaciones',
 	'tooltip-n-sitesupport' => 'Apóyanos',
 	'specialpages-group-contribution' => 'Contribución/Recaudación de fondos',
@@ -4141,7 +4142,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
  */
 $messages['et'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-eriomased teated',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Annetused',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=et',
 	'sitesupport' => 'Annetused',
 	'tooltip-n-sitesupport' => 'Toeta meid',
 	'specialpages-group-contribution' => 'Annetamine / korjandused',
@@ -4271,7 +4272,7 @@ Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüp
  */
 $messages['eu'] = array(
 	'wikimediamessages-desc' => 'Wikimediaren mezu espezifikoak',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Dohaintzak',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=eu',
 	'sitesupport' => 'Dohaintzak',
 	'tooltip-n-sitesupport' => 'Lagundu gaitzazu',
 	'specialpages-group-contribution' => 'Dohaintzaren egilea',
@@ -4402,7 +4403,7 @@ $messages['ext'] = array(
  */
 $messages['fa'] = array(
 	'wikimediamessages-desc' => 'پیغام‌های مخصوص ویکی‌مدیا',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/fa',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=fa',
 	'sitesupport' => 'کمک مالی',
 	'tooltip-n-sitesupport' => 'حمایتمان کنید',
 	'specialpages-group-contribution' => 'مشارکت‌ها/جمع‌آوری کمک',
@@ -4556,7 +4557,7 @@ $messages['ff'] = array(
  */
 $messages['fi'] = array(
 	'wikimediamessages-desc' => 'Wikimedian käyttämiä järjestelmäviestejä.',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/fi',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=fi',
 	'sitesupport' => 'Lahjoitukset',
 	'tooltip-n-sitesupport' => 'Tue meitä',
 	'specialpages-group-contribution' => 'Lahjoituksia/Rahankeräys',
@@ -4725,7 +4726,7 @@ $messages['fo'] = array(
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc' => 'Messages spécifiques de Wikimedia',
-	'sitesupport-url' => '//wikimediafoundation.org/wiki/Donate/fr',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=fr',
 	'sitesupport' => 'Faire un don',
 	'tooltip-n-sitesupport' => 'Aidez-nous',
 	'specialpages-group-contribution' => 'Contributions / levée de fonds',
@@ -4882,7 +4883,7 @@ $messages['frc'] = array(
  */
 $messages['frp'] = array(
 	'wikimediamessages-desc' => 'Mèssâjos spèceficos de Wikimedia.',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/fr',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=frp',
 	'sitesupport' => 'Balyér',
 	'tooltip-n-sitesupport' => 'Édiéd-nos !',
 	'specialpages-group-contribution' => 'Contribucions / levâ de fonds',
@@ -5003,7 +5004,7 @@ Por la licence Creative Commons, vos accèptâd d’étre crèditâ per los reus
  */
 $messages['frr'] = array(
 	'wikimediamessages-desc' => 'Wikimedia tisangen',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spenden', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=frr',
 	'sitesupport' => 'Dan bidrach',
 	'tooltip-n-sitesupport' => 'Halep üs',
 	'specialpages-group-contribution' => 'Bidrach',
@@ -5167,7 +5168,7 @@ $messages['fy'] = array(
  */
 $messages['ga'] = array(
 	'wikimediamessages-desc' => 'Teachtaireachtaí sainiúil an Viciméid',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/ga',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ga',
 	'sitesupport' => 'Síntiúis',
 	'tooltip-n-sitesupport' => 'Tacaigh linn',
 	'group-accountcreator' => 'Cuntas cruthóirí',
@@ -5229,7 +5230,7 @@ $messages['gan'] = array(
  */
 $messages['gan-hans'] = array(
 	'wikimediamessages-desc' => 'Wikimedia𠮶特定讯息',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/{{urlencode:捐助}}',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gan-hans',
 	'sitesupport' => '捐助',
 	'tooltip-n-sitesupport' => '支持我俚',
 	'group-abusefilter' => '滥用过滤器编者',
@@ -5286,7 +5287,7 @@ $messages['gan-hans'] = array(
  */
 $messages['gan-hant'] = array(
 	'wikimediamessages-desc' => 'Wikimedia嗰特定訊息',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/{{urlencode:捐助}}',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=han-hant',
 	'sitesupport' => '捐助',
 	'tooltip-n-sitesupport' => '支持我俚',
 	'group-abusefilter' => '濫用過濾器編者',
@@ -5351,7 +5352,7 @@ $messages['gd'] = array(
  */
 $messages['gl'] = array(
 	'wikimediamessages-desc' => 'Mensaxes específicas da Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/gl',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gl',
 	'sitesupport' => 'Doazóns',
 	'tooltip-n-sitesupport' => 'Apóienos',
 	'specialpages-group-contribution' => 'Contribucións/Recadación',
@@ -5584,7 +5585,7 @@ $messages['grc'] = array(
  */
 $messages['gsw'] = array(
 	'wikimediamessages-desc' => 'Wikimediaspezifischi Syschtemnochrichte',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spenden',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gsw',
 	'sitesupport' => 'Finanzielli Hilf',
 	'tooltip-n-sitesupport' => 'Unterstitz is',
 	'specialpages-group-contribution' => 'Spände/Spändeufruef',
@@ -5720,7 +5721,7 @@ Du stimmsch zue, dass e Hyperlink oder e URL zue dr Syte fir di notwändig Zuesc
  */
 $messages['gu'] = array(
 	'wikimediamessages-desc' => 'વિકિમીડિયા પૂરતા સંદેશ',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gu',
 	'sitesupport' => 'દાન',
 	'tooltip-n-sitesupport' => 'અમારું સમર્થન કરો',
 	'specialpages-group-contribution' => 'સહભાગ/ફાળો ઉઘરાવ',
@@ -5874,7 +5875,7 @@ $messages['haw'] = array(
  */
 $messages['he'] = array(
 	'wikimediamessages-desc' => 'הודעות המיוחדות לוויקימדיה',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/תרומות', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=he',
 	'sitesupport' => 'תרומות',
 	'tooltip-n-sitesupport' => 'תרומה',
 	'specialpages-group-contribution' => 'תרומות/התרמה',
@@ -6017,7 +6018,7 @@ $messages['he'] = array(
  */
 $messages['hi'] = array(
 	'wikimediamessages-desc' => 'विशिष्ट रूप से विकिमीडिया के संदेश',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/hi?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=hi',
 	'sitesupport' => 'दान',
 	'tooltip-n-sitesupport' => 'हमें सहायता दें',
 	'specialpages-group-contribution' => 'योगदान/फंडरेइजर',
@@ -6156,7 +6157,7 @@ $messages['hif-latn'] = array(
  */
 $messages['hil'] = array(
 	'wikimediamessages-desc' => 'ang ginatukoy nga mensahe sang Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=hil',
 	'sitesupport' => 'Donasyon',
 	'tooltip-n-sitesupport' => 'Sakdaga kami',
 	'group-abusefilter' => 'Abusar sala editor',
@@ -6229,7 +6230,7 @@ Palihog lang bisita sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use
  */
 $messages['hr'] = array(
 	'wikimediamessages-desc' => 'Posebne poruke Wikimedije',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donacije',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=hr',
 	'sitesupport' => 'Novčani prilozi',
 	'tooltip-n-sitesupport' => 'Podržite nas',
 	'specialpages-group-contribution' => 'Doprinosi/Prikupljanje',
@@ -6335,7 +6336,7 @@ $messages['hr'] = array(
  */
 $messages['hsb'] = array(
 	'wikimediamessages-desc' => 'Specifiske zdźělenki Wikimedije',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/hsb',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=hsb',
 	'sitesupport' => 'Dary',
 	'tooltip-n-sitesupport' => 'Podpěrajće nas',
 	'specialpages-group-contribution' => 'Přinoški/Darjenska akcija',
@@ -6474,7 +6475,7 @@ $messages['ht'] = array(
  */
 $messages['hu'] = array(
 	'wikimediamessages-desc' => 'Wikimédia-specifikus üzenetek',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/hu',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=hu',
 	'sitesupport' => 'Adományok',
 	'tooltip-n-sitesupport' => 'Támogatás',
 	'specialpages-group-contribution' => 'Adományok/Adománygyűjtés',
@@ -6606,7 +6607,7 @@ $messages['hy'] = array(
  */
 $messages['ia'] = array(
 	'wikimediamessages-desc' => 'Messages specific de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/ia?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ia',
 	'sitesupport' => 'Donationes',
 	'tooltip-n-sitesupport' => 'Sustene nos',
 	'specialpages-group-contribution' => 'Contributiones/Collecta de fundos',
@@ -6733,7 +6734,7 @@ Tu accepta que un hyperligamine o URL suffice como attribution sub le licentia C
  */
 $messages['id'] = array(
 	'wikimediamessages-desc' => 'Pesan-pesan spesifik Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=id',
 	'sitesupport' => 'Menyumbang',
 	'tooltip-n-sitesupport' => 'Dukung kami',
 	'specialpages-group-contribution' => 'Kontribusi/Penggalang dana',
@@ -6848,7 +6849,7 @@ $messages['id'] = array(
 	'group-inactive-member' => '{{GENDER:$1|pengguna tidak aktif}}',
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tidak aktif',
 	'wikimedia-copyright' => 'Teks tersedia di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
-	'wikimedia-copyrightwarning' => 'Dengan menekan tombol "{{int:savearticle}}", Anda setuju pada [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan yang Berlaku], dan melepas kontribusi Anda di bawah [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC-BY-SA 3.0] dan [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.',
+	'wikimedia-copyrightwarning' => 'Dengan menekan tombol "{{int:savearticle}}", Anda setuju pada [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan yang Berlaku], dan melepas kontribusi Anda di bawah [//id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi CC-BY-SA 3.0] dan [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Anda tidak dapat menghapus atau memindahkan halaman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dengan memberikan informasi ini ke Yayasan Wikimedia, Anda setuju bahwa kami dapat menghubungi Anda terkait terjemahan atau topik lain yang berhubungan dengan gerakan Wikimedia yang kami anggap perlu untuk Anda ketahui. Anda setuju semua data Anda disimpan di Amerika Serikat dan mematuhi [https://wikimediafoundation.org/wiki/Privacy_policy kebijakan privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Unggah lebih banyak foto dari monumen ini',
@@ -6916,7 +6917,7 @@ $messages['ike-cans'] = array(
  */
 $messages['ilo'] = array(
 	'wikimediamessages-desc' => 'Dagiti naisangsangayan a mensahe ti Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ilo',
 	'sitesupport' => 'Donasion',
 	'tooltip-n-sitesupport' => 'Suportarandakami',
 	'specialpages-group-contribution' => 'Parawad/Agitag-ay ti pundo',
@@ -7154,7 +7155,7 @@ Sjá nánar í <a href="//wikimediafoundation.org/wiki/Terms_of_use">notkunarski
  */
 $messages['it'] = array(
 	'wikimediamessages-desc' => 'Messaggi specifici di Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donazioni',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=it',
 	'sitesupport' => 'Donazioni',
 	'tooltip-n-sitesupport' => 'Sostienici',
 	'specialpages-group-contribution' => 'Donazioni/Raccolta fondi',
@@ -7313,7 +7314,7 @@ Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedi
  */
 $messages['ja'] = array(
 	'wikimediamessages-desc' => 'ウィキメディア固有のメッセージ',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/ja?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ja',
 	'sitesupport' => '寄付',
 	'tooltip-n-sitesupport' => 'ご支援ください',
 	'specialpages-group-contribution' => '寄付/資金調達',
@@ -7483,7 +7484,7 @@ $messages['jut'] = array(
  */
 $messages['jv'] = array(
 	'wikimediamessages-desc' => 'Pesen-pesen spesifik Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Panggalangan_dana',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=jv',
 	'sitesupport' => 'Nyumbang dana',
 	'tooltip-n-sitesupport' => 'Sokongen kita',
 	'specialpages-group-contribution' => 'Kontribusi/Panggalang dana',
@@ -7615,7 +7616,7 @@ $messages['jv'] = array(
  */
 $messages['ka'] = array(
 	'wikimediamessages-desc' => 'ვიკიმედიის სპეციფიკური წერილები',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/ka',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ka',
 	'sitesupport' => 'შეწირულობები',
 	'tooltip-n-sitesupport' => 'მხარდაჭერა',
 	'specialpages-group-contribution' => 'წვლილი / ფონდრაიზერი',
@@ -7748,7 +7749,7 @@ $messages['ka'] = array(
  * @author Emperyan
  */
 $messages['kaa'] = array(
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=kaa',
 	'sitesupport' => "Ja'rdem berıw",
 	'tooltip-n-sitesupport' => "Bizge ja'rdem berin'",
 );
@@ -7799,7 +7800,7 @@ $messages['kk-arab'] = array(
  * @author Kaztrans
  */
 $messages['kk-cyrl'] = array(
-	'sitesupport-url' => '//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=20120717SB001&uselang=kk',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=kk-cyrl',
 	'sitesupport' => 'Демеушілік',
 	'tooltip-n-sitesupport' => 'Демеу беріңіз',
 	'group-accountcreator' => 'Аккаунт жасаушылар',
@@ -7839,7 +7840,7 @@ Takuuk <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Atugassatut piumasa
  */
 $messages['km'] = array(
 	'wikimediamessages-desc' => 'សារយថាប្រភេទរបស់វិគីមេឌា',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/km',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=km',
 	'sitesupport' => 'វិភាគទាន',
 	'tooltip-n-sitesupport' => 'គាំទ្រ​យើងខ្ញុំ',
 	'specialpages-group-contribution' => 'ការបរិច្ចាគនិងការប្រមូលមូលនិធិ',
@@ -7942,7 +7943,7 @@ $messages['kn'] = array(
  */
 $messages['ko'] = array(
 	'wikimediamessages-desc' => '위키미디어 전용 메시지',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/ko',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ko',
 	'sitesupport' => '기부',
 	'tooltip-n-sitesupport' => '지원을 기다립니다',
 	'specialpages-group-contribution' => '기부 및 모금',
@@ -8092,7 +8093,7 @@ $messages['ko'] = array(
  * @author Iltever
  */
 $messages['krc'] = array(
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=krc',
 	'sitesupport' => 'Болушлукъ',
 	'tooltip-n-sitesupport' => 'Бизге болушугъуз',
 	'group-accountcreator' => 'Тергеу джазыуланы къурагъанла',
@@ -8126,7 +8127,7 @@ $messages['krj'] = array(
  */
 $messages['ksh'] = array(
 	'wikimediamessages-desc' => 'Systemnohrechte un Tex för de Wikimedia Shtefftung ier Wikis.',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spende',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ksh',
 	'sitesupport' => 'Spende',
 	'tooltip-n-sitesupport' => 'Donn uns Ungerstötze!',
 	'specialpages-group-contribution' => 'Spendebeidrääsch',
@@ -8321,7 +8322,7 @@ $messages['lad'] = array(
  */
 $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch Systemmessage fir Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/lb',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=lb',
 	'sitesupport' => 'Maacht en Don',
 	'tooltip-n-sitesupport' => 'Ënnerstëtzt eis',
 	'specialpages-group-contribution' => 'Donen/Quêteur',
@@ -8465,7 +8466,7 @@ $messages['lg'] = array(
  */
 $messages['li'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-specifieke berichte',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=li',
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Óngersteun ós financieel',
 	'specialpages-group-contribution' => 'Gifte/Fónswèrvingsaksie',
@@ -8594,7 +8595,7 @@ $messages['lij'] = array(
  */
 $messages['lmo'] = array(
 	'wikimediamessages-desc' => 'Messagg specifegh de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/lmo',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=lmo',
 	'sitesupport' => 'Dunazión',
 	'tooltip-n-sitesupport' => 'Dàss una man',
 	'group-abusefilter' => 'Mudificadur di filter anti-abüs',
@@ -8647,7 +8648,7 @@ $messages['loz'] = array(
  */
 $messages['lt'] = array(
 	'wikimediamessages-desc' => 'Vikimedijos specialieji pranešimai',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/lt?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=lt',
 	'sitesupport' => 'Parama',
 	'tooltip-n-sitesupport' => 'Palaikymas',
 	'specialpages-group-contribution' => 'Įnašas/Remėjas',
@@ -8742,7 +8743,7 @@ $messages['ltg'] = array(
  */
 $messages['lus'] = array(
 	'wikimediamessages-desc' => 'Wikipedia thuthawn bîkte',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=lus',
 	'sitesupport' => 'Vẹhbúr',
 	'tooltip-n-sitesupport' => 'Min chhawmdäwl ve rawh le',
 	'specialpages-group-contribution' => 'Thawhlawm/Vehbúr khawn',
@@ -8951,7 +8952,7 @@ $messages['mi'] = array(
  */
 $messages['min'] = array(
 	'wikimediamessages-desc' => 'Pasan spesifik Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=min',
 	'sitesupport' => 'Manyumbang',
 	'tooltip-n-sitesupport' => 'Dukuang kami',
 	'specialpages-group-contribution' => 'Kontribusi/Panggalang dana',
@@ -8983,9 +8984,9 @@ $messages['min'] = array(
 	'group-autopatrolled' => 'Pamatroli otomatih',
 	'group-autopatrolled-member' => '{{GENDER:$1|pamatroli otomatih}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Pamatroli otomatih',
-	'group-autoreviewer' => 'Paninjau otomatis',
-	'group-autoreviewer-member' => '{{GENDER:$1|paninjau otomatis}}',
-	'grouppage-autoreviewer' => '{{ns:project}}:Paninjau otomatis',
+	'group-autoreviewer' => 'Paninjau otomatih',
+	'group-autoreviewer-member' => '{{GENDER:$1|paninjau otomatih}}',
+	'grouppage-autoreviewer' => '{{ns:project}}:Paninjau otomatih',
 	'group-bigexport' => 'Pangekspor gadang',
 	'group-bigexport-member' => '{{GENDER:$1|pangekspor gadang}}',
 	'grouppage-bigexport' => '{{ns:project}}:Pangekspor gadang',
@@ -8993,7 +8994,7 @@ $messages['min'] = array(
 	'group-botadmin-member' => '{{GENDER:$1|bot jo hak panguruih}}',
 	'grouppage-botadmin' => '{{ns:project}}:Bot jo hak panguruih',
 	'group-confirmed' => 'Pangguno takonfirmasi',
-	'group-confirmed-member' => '{{GENDER:$1|pangguno takonpirmasi}}',
+	'group-confirmed-member' => '{{GENDER:$1|pangguno takonfirmasi}}',
 	'grouppage-confirmed' => '{{ns:project}}:Pangguno takonfirmasi',
 	'group-editprotected' => 'Panyuntiang laman talinduang',
 	'group-editprotected-member' => '{{GENDER:$1|panyuntiang laman talinduang}}',
@@ -9093,7 +9094,7 @@ $messages['min'] = array(
  */
 $messages['mk'] = array(
 	'wikimediamessages-desc' => 'Пораки кои се однесуваат на Викимедија',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/mk',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=mk',
 	'sitesupport' => 'Дарување',
 	'tooltip-n-sitesupport' => 'Поддржете нè',
 	'specialpages-group-contribution' => 'Придонеси/Обезб. средства',
@@ -9261,7 +9262,7 @@ $messages['mk'] = array(
  */
 $messages['ml'] = array(
 	'wikimediamessages-desc' => 'വിക്കിമീഡിയയുമായി ബന്ധപ്പെട്ട സന്ദേശങ്ങൾ',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/ml',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ml',
 	'sitesupport' => 'സംഭാവന',
 	'tooltip-n-sitesupport' => 'ഞങ്ങളെ പിന്തുണക്കുക',
 	'specialpages-group-contribution' => 'സംഭാവനകൾ/ഫണ്ട്‌‌റെയ്സർ',
@@ -9427,7 +9428,7 @@ $messages['mo'] = array(
  */
 $messages['mr'] = array(
 	'wikimediamessages-desc' => 'विकिमीडियाबद्दलचे विशीष्ट संदेश',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Chapters/mr',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=mr',
 	'sitesupport' => 'दान',
 	'tooltip-n-sitesupport' => 'आम्हाला पाठबळ द्या',
 	'specialpages-group-contribution' => 'योगदान/निधी उभारणी',
@@ -9553,7 +9554,7 @@ $messages['mrj'] = array(
  */
 $messages['ms'] = array(
 	'wikimediamessages-desc' => 'Pesanan-pesanan Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/ms?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ms',
 	'sitesupport' => 'Derma',
 	'tooltip-n-sitesupport' => 'Derma',
 	'specialpages-group-contribution' => 'Sumbangan/Tabung',
@@ -9707,7 +9708,7 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
  */
 $messages['mt'] = array(
 	'wikimediamessages-desc' => 'Messaġġi speċifiki tal-Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donazzjonijiet',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=mt',
 	'sitesupport' => 'Donazzjonijiet',
 	'tooltip-n-sitesupport' => 'Sostnina',
 	'specialpages-group-contribution' => "Donazzjonijiet/Ġbir ta' fondi",
@@ -9908,7 +9909,7 @@ $messages['nap'] = array(
  */
 $messages['nb'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke beskjeder',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/nb',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=nb',
 	'sitesupport' => 'Donasjoner',
 	'tooltip-n-sitesupport' => 'Støtt oss',
 	'specialpages-group-contribution' => 'Bidrag/Innsamling',
@@ -10076,13 +10077,13 @@ $messages['nds'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Brukers',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  * @author לערי ריינהארט
  */
 $messages['nds-nl'] = array(
 	'wikimediamessages-desc' => 'Systeemteksten veur Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/nds-nl',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=nds-nl',
 	'sitesupport' => 'Steun {{SITENAME}}',
 	'tooltip-n-sitesupport' => 'Gef oons geald',
 	'group-abusefilter' => 'misbruukfilterredakteuren',
@@ -10204,7 +10205,7 @@ $messages['niu'] = array(
  */
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Berichten voor Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Giften?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=nl',
 	'sitesupport' => 'Donaties',
 	'tooltip-n-sitesupport' => 'Ondersteun ons financieel',
 	'specialpages-group-contribution' => 'Giften/Fondsenwervingsactie',
@@ -10369,7 +10370,7 @@ Je gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om a
  */
 $messages['nn'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke meldingar',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/nn', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=nn',
 	'sitesupport' => 'Gåver',
 	'tooltip-n-sitesupport' => 'Støtt oss',
 	'specialpages-group-contribution' => 'Bidrag/Innsamling',
@@ -10494,7 +10495,7 @@ $messages['nso'] = array(
  */
 $messages['oc'] = array(
 	'wikimediamessages-desc' => 'Messatges especifics de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/oc',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=oc',
 	'sitesupport' => 'Far un don',
 	'tooltip-n-sitesupport' => 'Sostenètz lo projècte',
 	'specialpages-group-contribution' => 'Contribucions / Levada de fonses',
@@ -10577,7 +10578,7 @@ $messages['oc'] = array(
 	'wikimedia-copyrightwarning' => 'En clicant sus « publicar », acceptatz de plaçar irrevocablament vòstra contribucion jos [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons atribucion pertatge a l’identica 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Acceptatz d’èsser creditat al minimum via un iperligam o URL cap a l’article sul qual contribuissètz. Vejatz los [//wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion] per mai de detalhs.', # Fuzzy
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  * @author Jnanaranjan Sahu
  * @author Jose77
@@ -10587,7 +10588,7 @@ $messages['oc'] = array(
  */
 $messages['or'] = array(
 	'wikimediamessages-desc' => 'ଉଇକିମିଡ଼ିଆ ନିର୍ଦ୍ଦିଷ୍ଟ ସନ୍ଦେଶ',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=or',
 	'sitesupport' => 'ଦାନ',
 	'tooltip-n-sitesupport' => 'ଆମ୍ଭଙ୍କୁ ସଜହୋଗ କରନ୍ତୁ',
 	'specialpages-group-contribution' => 'ଦାତା/ଅର୍ଥ ସଙ୍ଗ୍ରହକାରୀ',
@@ -10843,7 +10844,7 @@ $messages['pih'] = array(
  */
 $messages['pl'] = array(
 	'wikimediamessages-desc' => 'Komunikaty unikalne dla projektów Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/pl',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pl',
 	'sitesupport' => 'Darowizny',
 	'tooltip-n-sitesupport' => 'Pomóż nam',
 	'specialpages-group-contribution' => 'Darowizny/Zbieranie funduszy',
@@ -10974,7 +10975,7 @@ Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunk
  */
 $messages['pms'] = array(
 	'wikimediamessages-desc' => 'Mëssagi specìfich ëd Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/pms',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pms',
 	'sitesupport' => 'Oferte',
 	'tooltip-n-sitesupport' => 'Giutene',
 	'specialpages-group-contribution' => 'Contribussion/Racòlta ëd fond',
@@ -11106,7 +11107,7 @@ A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion s
  */
 $messages['pnb'] = array(
 	'wikimediamessages-desc' => 'وکیمیڈیا دے خاص سنیعے',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/عطیہ کرو/ہن/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pnb',
 	'sitesupport' => 'عطیہ دیو',
 	'tooltip-n-sitesupport' => 'ےاڈے نال ہتھ ونڈاؤ',
 	'specialpages-group-contribution' => 'ہتھ ونڈائی/فنڈ کٹھے کرن والا',
@@ -11295,6 +11296,7 @@ $messages['ps'] = array(
  * @author Heldergeovane
  * @author João Sousa
  * @author Lijealso
+ * @author Luckas
  * @author Luckas Blade
  * @author Malafaya
  * @author SandroHc
@@ -11304,7 +11306,7 @@ $messages['ps'] = array(
  */
 $messages['pt'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/pt',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pt',
 	'sitesupport' => 'Donativos',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'specialpages-group-contribution' => 'Contribuições/Angariação de fundos',
@@ -11445,7 +11447,7 @@ Concorda também que um link ou URL é forma suficiente de atribuição nos term
  */
 $messages['pt-br'] = array(
 	'wikimediamessages-desc' => 'Mensagens específicas da Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/pt',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pt-br',
 	'sitesupport' => 'Doações',
 	'tooltip-n-sitesupport' => 'Ajude-nos',
 	'specialpages-group-contribution' => 'Contribuições/Angariação de fundos',
@@ -11571,7 +11573,7 @@ Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença
  */
 $messages['qu'] = array(
 	'wikimediamessages-desc' => 'Wikimedia sapaq willaykuna',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Benefactors/qu',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=qu',
 	'sitesupport' => 'Qarana',
 	'tooltip-n-sitesupport' => 'Yanapawayku',
 	'specialpages-group-contribution' => 'Chayachiy/Qullqi mañakuq',
@@ -11732,7 +11734,7 @@ $messages['rmy'] = array(
  */
 $messages['ro'] = array(
 	'wikimediamessages-desc' => 'Mesaje specifice Wikimediei',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/ro?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ro',
 	'sitesupport' => 'Donații',
 	'tooltip-n-sitesupport' => 'Sprijiniți-ne',
 	'specialpages-group-contribution' => 'Donație / Colectare de fonduri',
@@ -11858,7 +11860,7 @@ Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă 
  */
 $messages['roa-tara'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific messages',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=roa-tara',
 	'sitesupport' => 'Done',
 	'tooltip-n-sitesupport' => 'Aiutene',
 	'specialpages-group-contribution' => 'Condrebbute/Raccolte de le funne',
@@ -12022,7 +12024,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
  */
 $messages['ru'] = array(
 	'wikimediamessages-desc' => 'Сообщения, специфичные для Викимедиа',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Сделать_пожертвование',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ru',
 	'sitesupport' => 'Пожертвования',
 	'tooltip-n-sitesupport' => 'Поддержите нас',
 	'specialpages-group-contribution' => 'Пожертвования/Сбор средств',
@@ -12152,7 +12154,7 @@ $messages['ru'] = array(
  */
 $messages['rue'] = array(
 	'wikimediamessages-desc' => 'Повідомлїня, характерістічны про Вікімедію',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/rue',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=rue',
 	'sitesupport' => 'Підпорьте нас',
 	'tooltip-n-sitesupport' => 'Підпорьте нас',
 	'specialpages-group-contribution' => 'Приспевкы/фінанцованя',
@@ -12281,7 +12283,7 @@ $messages['ruq-latn'] = array(
  */
 $messages['sa'] = array(
 	'wikimediamessages-desc' => 'विकिमाध्यमस्य विशिष्टसन्देशाः',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sa',
 	'sitesupport' => 'दानम्',
 	'tooltip-n-sitesupport' => 'साहाय्यं क्रियताम्',
 	'specialpages-group-contribution' => 'योगदानम्/निधिसङ्ग्राहकः',
@@ -12403,7 +12405,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
  */
 $messages['sah'] = array(
 	'wikimediamessages-desc' => 'Викимедиаҕа эрэ сыһыаннаах этиилэр',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Харчынан_көмө',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sah',
 	'sitesupport' => 'Бу сири өйөө',
 	'tooltip-n-sitesupport' => 'Өйөбүл',
 	'specialpages-group-contribution' => 'Сиэртибэлээһин/Үп хомуйуу',
@@ -12522,7 +12524,7 @@ Acunsentis ca is re-usuàrios ti ddu ant a atribuire a su mancu cun unu ligàmin
  */
 $messages['scn'] = array(
 	'wikimediamessages-desc' => 'Missaggi spicifici di Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/scn',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=scn',
 	'sitesupport' => 'Dunazzioni',
 	'tooltip-n-sitesupport' => 'Sustinìticci',
 	'group-abusefilter' => 'Gisturi di filtra anti abbusi',
@@ -12658,7 +12660,7 @@ $messages['shi'] = array(
  */
 $messages['si'] = array(
 	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂී පණිවුඩයන්',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=si',
 	'sitesupport' => 'පරිත්‍යාග',
 	'tooltip-n-sitesupport' => 'අප හට අනුග්‍රහ සපයන්න',
 	'specialpages-group-contribution' => 'දායකත්වය/සංචිතය',
@@ -12796,7 +12798,7 @@ $messages['si'] = array(
  */
 $messages['sk'] = array(
 	'wikimediamessages-desc' => 'Správy špecifické pre Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Zbieranie_príspevkov',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sk',
 	'sitesupport' => 'Podpora',
 	'tooltip-n-sitesupport' => 'Podporte nás',
 	'specialpages-group-contribution' => 'Prispievateľov/fundraising',
@@ -12903,7 +12905,7 @@ $messages['sk'] = array(
  */
 $messages['sl'] = array(
 	'wikimediamessages-desc' => 'Posebna sporočila Wikimedie',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/sl?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sl',
 	'sitesupport' => 'Denarni prispevki',
 	'tooltip-n-sitesupport' => 'Podprite nas',
 	'specialpages-group-contribution' => 'Prispevek/Zbiralec sredstev',
@@ -13065,7 +13067,7 @@ $messages['so'] = array(
  */
 $messages['sq'] = array(
 	'wikimediamessages-desc' => 'Mesazhet specifike të Wikimedia-s',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sq',
 	'sitesupport' => 'Dhurime',
 	'tooltip-n-sitesupport' => 'Na mbështet',
 	'specialpages-group-contribution' => 'Kontibutet/Mbledhja e fondeve',
@@ -13178,7 +13180,7 @@ Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdori
  */
 $messages['sr-ec'] = array(
 	'wikimediamessages-desc' => 'Поруке које се односе на Викимедију',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/sr?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation', # Fuzzy
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sr-ec',
 	'sitesupport' => 'Новчани прилози',
 	'tooltip-n-sitesupport' => 'Подржите нас',
 	'specialpages-group-contribution' => 'Доприноси/Прикупљање средстава',
@@ -13308,7 +13310,7 @@ $messages['sr-ec'] = array(
  */
 $messages['sr-el'] = array(
 	'wikimediamessages-desc' => 'Poruke specifične za Vikimediju.',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/sr?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sr-el',
 	'sitesupport' => 'Donacije',
 	'tooltip-n-sitesupport' => 'podrži nas',
 	'specialpages-group-contribution' => 'Doprinosi/Prikupljanje sredstava',
@@ -13451,7 +13453,7 @@ $messages['st'] = array(
  */
 $messages['stq'] = array(
 	'wikimediamessages-desc' => 'Wikimediaspezifiske Systemättergjuchte',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Spändje',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=stq',
 	'sitesupport' => 'Spenden',
 	'tooltip-n-sitesupport' => 'Unnerstutse uus',
 	'group-abusefilter' => 'Misbruukssieuwe-Beoarbaidere',
@@ -13528,7 +13530,7 @@ Eenpeldhaide sunt in do [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nuts
  */
 $messages['su'] = array(
 	'wikimediamessages-desc' => 'Talatah-talatah spesifik Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Penggalangan_dana',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=su',
 	'sitesupport' => 'Sumbangan',
 	'tooltip-n-sitesupport' => 'Bobotohan',
 	'group-accountcreator' => 'Nu nyieun rekening',
@@ -13588,7 +13590,7 @@ $messages['su'] = array(
  */
 $messages['sv'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-specifika meddelanden',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/sv',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sv',
 	'sitesupport' => 'Donera',
 	'tooltip-n-sitesupport' => 'Stöd oss',
 	'specialpages-group-contribution' => 'Bidrag/Insamling',
@@ -13712,7 +13714,7 @@ Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i en
  */
 $messages['sw'] = array(
 	'wikimediamessages-desc' => 'Jumbe maalum za Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sw',
 	'sitesupport' => 'Michango',
 	'tooltip-n-sitesupport' => 'Tuunge mkono',
 	'nstab-institution' => 'Taasisi',
@@ -13771,7 +13773,7 @@ $messages['sxu'] = array(
  */
 $messages['szl'] = array(
 	'wikimediamessages-desc' => 'Kůmůńikaty ůńikalne lů projektůw Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/pl',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=szl',
 	'sitesupport' => 'Śćepa',
 	'tooltip-n-sitesupport' => 'Wspůmůž nas',
 	'group-accountcreator' => 'Tworzůncy kůnta',
@@ -13822,7 +13824,7 @@ Uobejzdrzij blank dokłodne informacyje uo <a href="//wikimediafoundation.org/wi
  */
 $messages['ta'] = array(
 	'wikimediamessages-desc' => 'விக்கிமீடியாவிற்கான தகவல்கள்',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ta',
 	'sitesupport' => 'நன்கொடை',
 	'tooltip-n-sitesupport' => 'நன்கொடைகளை வழங்குங்கள்',
 	'specialpages-group-contribution' => 'பங்களிப்பு/நிதி திரட்டல்',
@@ -13943,7 +13945,7 @@ $messages['ta'] = array(
  */
 $messages['te'] = array(
 	'wikimediamessages-desc' => 'వికీమీడియా సంబంధిత సందేశాలు',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=te',
 	'sitesupport' => 'విరాళములు',
 	'tooltip-n-sitesupport' => 'మాకు తోడ్పడండి',
 	'specialpages-group-contribution' => 'విరాళాలు/నిధుల సేకరణ',
@@ -14171,7 +14173,7 @@ $messages['tg-latn'] = array(
  */
 $messages['th'] = array(
 	'wikimediamessages-desc' => 'ข้อความเฉพาะของวิกิมีเดีย',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/th',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=th',
 	'sitesupport' => 'สนับสนุน',
 	'tooltip-n-sitesupport' => 'สนับสนุนเรา',
 	'specialpages-group-contribution' => 'การบริจาค/ระดมทุน',
@@ -14236,7 +14238,7 @@ $messages['th'] = array(
  */
 $messages['tk'] = array(
 	'wikimediamessages-desc' => 'Wikimedia ýörite habarlaşyklary',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=tk',
 	'sitesupport' => 'Haýyr-sawahatlar',
 	'tooltip-n-sitesupport' => 'Bizi goldaň',
 	'specialpages-group-contribution' => 'Goşantlar/Fond ýygnaýjy',
@@ -14337,7 +14339,7 @@ $messages['tk'] = array(
  */
 $messages['tl'] = array(
 	'wikimediamessages-desc' => 'Tiyak na mga mensahe ng Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=tl',
 	'sitesupport' => 'Mag-ambag',
 	'tooltip-n-sitesupport' => 'Tangkilikin kami',
 	'specialpages-group-contribution' => 'Mga ambag/Pangangalap ng salaping panustos',
@@ -14499,7 +14501,7 @@ $messages['tpi'] = array(
  */
 $messages['tr'] = array(
 	'wikimediamessages-desc' => 'Vikimedya özel mesajları',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&language=tr&utm_source=donate&utm_medium=sidebar&utm_campaign=20101204SB002',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=tr',
 	'sitesupport' => 'Bağışlar',
 	'tooltip-n-sitesupport' => 'Bizi destekleyin',
 	'specialpages-group-contribution' => 'Katkı/Fonsağlayıcı',
@@ -14628,7 +14630,7 @@ $messages['ts'] = array(
  */
 $messages['tt-cyrl'] = array(
 	'wikimediamessages-desc' => 'Викимедиа өчен шәхси булган хатлар',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Сделать_пожертвование',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=tt-cyrl',
 	'sitesupport' => 'Иганә',
 	'tooltip-n-sitesupport' => 'Безгә ярдәм итегез',
 	'specialpages-group-contribution' => 'Иганә/Ярдәм җыю',
@@ -14904,7 +14906,7 @@ $messages['ug-latn'] = array(
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Повідомлення, характерні для Вікімедіа',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/uk',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=uk',
 	'sitesupport' => 'Пожертвування',
 	'tooltip-n-sitesupport' => 'Підтримайте проект',
 	'specialpages-group-contribution' => 'Пожертвування/Збір коштів',
@@ -15196,7 +15198,7 @@ $messages['uz'] = array(
  */
 $messages['vec'] = array(
 	'wikimediamessages-desc' => 'Messagi specifici de Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donasion',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=vec',
 	'sitesupport' => 'Donassion',
 	'tooltip-n-sitesupport' => 'Jùtane',
 	'specialpages-group-contribution' => 'Contributi/Racolta fondi',
@@ -15322,7 +15324,7 @@ i testi in altri namespace i xe disponibiłi secondo ła licensa <a href="//crea
 pol vegner aplicae altre condision.
 Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Termini d\'uxo</a> par detaji.',
 	'wikidata-shortcopyrightwarning' => 'Strucando "Salva", te aceti le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condision de uso] e te consenti irevocabilmente a rilasiar el to contributo in base a la licensa [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
-	'wikimedia-copyrightwarning' => "Strcando so'l boton \"{{int:savearticle}}\", te aceti łe [//wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
+	'wikimedia-copyrightwarning' => "Strucando so'l boton \"{{int:savearticle}}\", te aceti łe [//wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
 	'upload-more-photos-of-this-monument' => 'Carga altre someje de sto monumento',
@@ -15339,7 +15341,7 @@ Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia F
  */
 $messages['vep'] = array(
 	'wikimediamessages-desc' => 'WikiMedial kävutadud specifižed tedotused',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Tehta_rahalahj',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=vep',
 	'sitesupport' => 'Rahalahjad',
 	'tooltip-n-sitesupport' => "Pid'oitelgat meid",
 	'specialpages-group-contribution' => 'Lahjoičendad/Rahoidenkeradand',
@@ -15418,7 +15420,7 @@ Kacu mugažo: <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehd
  */
 $messages['vi'] = array(
 	'wikimediamessages-desc' => 'Các thông điệp dành cho Wikimedia',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Quy%C3%AAn_g%C3%B3p',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=vi',
 	'sitesupport' => 'Quyên góp',
 	'tooltip-n-sitesupport' => 'Hãy hỗ trợ chúng tôi',
 	'specialpages-group-contribution' => 'Quyên góp/Vận động gây quỹ',
@@ -15739,7 +15741,7 @@ $messages['xh'] = array(
  * @author Lika2672
  */
 $messages['xmf'] = array(
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/ka',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=xmf',
 	'sitesupport' => 'აზარა',
 	'tooltip-n-sitesupport' => 'ხუჯ დომკინით',
 );
@@ -15751,7 +15753,7 @@ $messages['xmf'] = array(
  */
 $messages['yi'] = array(
 	'wikimediamessages-desc' => 'וויקימעדיע ספעציפֿישע מעלדונגען',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/{{urlencode:פֿאָרשער}}',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=yi',
 	'sitesupport' => 'ביישטייערונגן',
 	'tooltip-n-sitesupport' => 'שטיצט אונז',
 	'specialpages-group-contribution' => 'נדבה/געלטשאפן',
@@ -15869,7 +15871,7 @@ $messages['yi'] = array(
  */
 $messages['yo'] = array(
 	'wikimediamessages-desc' => 'Àwọn ìránṣẹ́ Wikimedia nìkan',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/Donate/Now/en?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous_donation',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=yo',
 	'sitesupport' => 'Ṣe ìgbọ̀wọ́',
 	'tooltip-n-sitesupport' => 'Tíwálẹ́yìn',
 	'group-flood-member' => '{{GENDER:$1|oníṣe bot}}',
@@ -15889,7 +15891,7 @@ $messages['yo'] = array(
  */
 $messages['yue'] = array(
 	'wikimediamessages-desc' => 'Wikimedia特定訊息',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/{{urlencode:捐贈}}',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=yue',
 	'sitesupport' => '慷慨解囊',
 	'tooltip-n-sitesupport' => '資持我哋',
 	'group-abusefilter' => '濫用過濾器編者',
@@ -15990,7 +15992,7 @@ $messages['zea'] = array(
  */
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定信息',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/资助',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=zh-hans',
 	'sitesupport' => '资助',
 	'tooltip-n-sitesupport' => '资助我们',
 	'specialpages-group-contribution' => '资助者/筹款人',
@@ -16144,7 +16146,7 @@ $messages['zh-hans'] = array(
  */
 $messages['zh-hant'] = array(
 	'wikimediamessages-desc' => '維基媒體特定訊息',
-	'sitesupport-url' => 'https://wikimediafoundation.org/wiki/{{urlencode:資助}}',
+	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=zh-hant',
 	'sitesupport' => '贊助',
 	'tooltip-n-sitesupport' => '資助我們',
 	'specialpages-group-contribution' => '貢獻／募捐者',
