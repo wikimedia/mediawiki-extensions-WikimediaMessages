@@ -3041,6 +3041,9 @@ $messages['cy'] = array(
 	'group-translationadmin' => 'Gweinyddwyr y cyfieithiadau',
 	'group-translationadmin-member' => '{{GENDER:$1|gweinyddwr y cyfieithiadau}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Gweinyddwyr y cyfieithiadau',
+	'group-centralnoticeadmin' => 'Gweinyddwyr yr hysbysiadau canolog',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|gweinyddwr yr hysbysiadau canolog}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Gweinyddwyr yr hysbysiadau canolog',
 	'group-coder' => 'Codyddion',
 	'group-coder-member' => '{{GENDER:$1|codydd}}',
 	'group-inactive' => 'Defnyddwyr segur',
@@ -8250,6 +8253,7 @@ $messages['ksh'] = array(
 	'cant-delete-main-page' => 'Do kanns de Houpsigg nit ömdäufe udder fott schmieße.',
 	'wikimedia-translationnotifications-signup-legal' => 'Do bes enverstande domet, dat de Wikkimeedija Schteftong met Der en ene Kumtak trädde darref wääje Ding Övversäzonge udder ander Saache, di met dä Wikkimeedia-Bewääjong ze donn han, woh mer vun meint, dat di för Desch interßant sin künnte. Do bes enverschtande, dat Daate övver Desch en der Vereineschte Schtaate vun Ammärrika faßjehallde wääde künne un onger der Schteftong ier [https://wikimediafoundation.org/wiki/Privacy_policy Rääjelle för pevaate Daate] schtonn. Wann De domet nit enverschtande bes, donn heh nix enjävve.',
 	'upload-more-photos-of-this-monument' => 'Donn mieh Fotos vun heh däm Dängkmohl huhlaade',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Hölp mem Ußsöhke)]]',
 );
 
 /** Kurdish (Latin script) (Kurdî (latînî)‎)
@@ -13306,6 +13310,7 @@ $messages['sr-ec'] = array(
 /** Serbian (Latin script) (srpski (latinica)‎)
  * @author FriedrickMILBarbarossa
  * @author Michaello
+ * @author Milicevic01
  * @author Жељко Тодоровић
  */
 $messages['sr-el'] = array(
@@ -13428,7 +13433,7 @@ $messages['sr-el'] = array(
 	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="//creativecommons.org/licenses/by-sa/3.0/">Krijejtiv komons Autorstvo-Deliti pod istim uslovima</a>;
 dodatni uslovi se mogu primeniti.
 Pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
-	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GLSD]</span>.
+	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
 Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
 );
@@ -15754,7 +15759,7 @@ $messages['xmf'] = array(
 $messages['yi'] = array(
 	'wikimediamessages-desc' => 'וויקימעדיע ספעציפֿישע מעלדונגען',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=yi',
-	'sitesupport' => 'ביישטייערונגן',
+	'sitesupport' => 'בײַשטײַערן',
 	'tooltip-n-sitesupport' => 'שטיצט אונז',
 	'specialpages-group-contribution' => 'נדבה/געלטשאפן',
 	'nstab-creator' => 'שאַפֿער',
@@ -15858,6 +15863,7 @@ $messages['yi'] = array(
 	'shared-repo-name-shared' => 'וויקימעדיע קאמאנס',
 	'wikimedia-copyright' => 'טעקסט איז פאראן לויטן <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.
 זעט <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאים פון באניצן</a> פֿאר פרטים.',
+	'wikidata-shortcopyrightwarning' => 'בײַם דרוקן אויף "אויפהיטן" זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאדינגונגען], און איר זענט מסכים בלי־חרטה פֿארעפֿנטלעכן אײַער בײַשטײַערונג אונטער דעם [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ליצענץ].',
 	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [//wikimediafoundation.org/wiki/Terms_of_Use תנאים פון באניץ] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [//www.gnu.org/copyleft/fdl.html GFDL].
 איר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.',
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
