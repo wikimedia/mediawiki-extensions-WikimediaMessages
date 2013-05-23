@@ -8269,7 +8269,7 @@ $messages['ku-latn'] = array(
 heke tiştên din werin xwestin dikarin lê bên zêdekirin.
 Ji bo hûragahiyan li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mercên Bikaranînê</a> binêre.',
 	'wikimedia-copyrightwarning' => 'Bi tikandina bişkoka "{{int:savearticle}}", tu [//wikimediafoundation.org/wiki/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina beşdariyên xwe yên di bin [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lîsansa CC-BY-SA 3.0] û [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] de dipejirînî.
-Tu pê pabend dibe ku girêdanek an jî URL\'yek taybetmendiya di bin lîsansa Creative Commonsê de ye.',
+Tu pê pabend dibe ku her girêdanek an jî URL\'yek di bin lîsansa Creative Commonsê de ye.',
 );
 
 /** Cornish (kernowek)
@@ -9078,7 +9078,7 @@ $messages['min'] = array(
 	'grouppage-coder' => '{{ns:project}}:Pengkode',
 	'group-inactive-member' => '{{GENDER:$1|pangguno indak aktip}}',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Teks tasadio di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Creative Commons Atribusi-PambahagianSarupo</a>; katantuan tambahan mungkin balaku. Lihek <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katantuan Panggunoan</a> untuak labiah jaleh.',
+	'wikimedia-copyright' => 'Teks tasadio jo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi/Babagi-Sarupo Creative Commons</a>; katantuan tambahan mungkin balaku. Caliak <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katantuan Panggunoan</a> untuak labiah jaleh.',
 	'wikimedia-copyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan Panggunoan], dan malapeh jariah Sanak di bawah [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC-BY-SA 3.0] jo [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Sanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Sanak indak dapek mangahapuih atau mamindahan palanta.',
 	'upload-more-photos-of-this-monument' => 'Muek labiah banyak foto dari monumen ko',
@@ -15823,6 +15823,9 @@ $messages['yi'] = array(
 	'group-interface_editor' => 'באַניצער איבערפֿלאַך רעדאַקטירער',
 	'group-interface_editor-member' => '{{GENDER:$1|באניצער איבערפלאך רעדאקטירער}}',
 	'grouppage-interface_editor' => '{{ns:project}}:באניצער איבערפלאך רעדאקטירער',
+	'group-ipblock-exempt' => 'IP בלאקירן באפֿרײַאונגען',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|IP בלאקירן באפֿרײַט}}',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP בלאקירן באפֿרײַאונג',
 	'group-patroller' => 'פאטראלירער',
 	'group-patroller-member' => '{{GENDER:$1|פאטראלירער|פאטראלירערין}}',
 	'grouppage-patroller' => '{{ns:project}}:געוועזענע ביוראקראטן',
@@ -15844,6 +15847,8 @@ $messages['yi'] = array(
 	'group-Global_rollback-member' => '{{GENDER:$1|גלאבאַלער צוריקדרייער| גלאבאַלע צוריקדרייער}}',
 	'group-Global_sysops' => 'גלאבאַלע סיסאָפּן',
 	'group-Global_sysops-member' => '{{GENDER:$1|גלאבאַלער סיסאָפּ|גלאבאַלע סיסאָפּ}}',
+	'group-Ombudsmen' => 'אמבודסמענער',
+	'group-Ombudsmen-member' => '{{GENDER:$1|אמבודסמאן}}',
 	'group-Staff' => 'שטאַב',
 	'group-Staff-member' => '{{GENDER:$1|שטאַב}}',
 	'group-editinterface' => 'באַניצער איבערפֿלאַך רעדאַקטירער',
@@ -15852,6 +15857,10 @@ $messages['yi'] = array(
 	'group-steward-member' => '{{GENDER:$1|סטואַרד}}',
 	'group-sysadmin' => 'סיסאפן',
 	'group-sysadmin-member' => '{{GENDER:$1| סיסאפ}}',
+	'group-global-ipblock-exempt' => 'גלאבאלע IP בלאקירן באפֿרײַטע',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|גלאבאל IP בלאקירן באפֿרײַטער|גלאבאל IP בלאקירן באפֿרײַטע}}',
+	'group-recursive-export' => 'רעקורסיווע עקספארטן',
+	'group-recursive-export-member' => '{{GENDER:$1|רעקורסיוו עקספארטער}}',
 	'group-translationadmin' => 'איבערזעצונג אדמיניסטראטארן',
 	'group-translationadmin-member' => '{{GENDER:$1|איבערזעצונג אדמיניסטראטאר}}',
 	'grouppage-translationadmin' => '{{ns:project}}:איבערזעצונג אדמיניסטראטארן',
