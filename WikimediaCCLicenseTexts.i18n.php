@@ -4653,6 +4653,7 @@ $messages['eu'] = array(
 
 /** Persian (فارسی)
  * @author Bersam
+ * @author Dalba
  * @author Ebraminio
  * @author Huji
  * @author Mardetanha
@@ -4720,7 +4721,7 @@ $messages['fa'] = array(
 	'wm-license-cc-by-2.5-si-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [//creativecommons.org/licenses/by/2.5/si/ Attribution 2.5 اسلوونی] منتشر شده‌است.',
 	'wm-license-cc-by-2.5-tw-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [//creativecommons.org/licenses/by/2.5/tw/ Attribution 2.5 تایوان] منتشر شده‌است.',
 	'wm-license-cc-by-2.5-za-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [//creativecommons.org/licenses/by/2.5/za/ Attribution 2.5 آفریفای جنوبی] منتشر شده‌است.',
-	'wm-license-cc-by-3.0-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [//creativecommons.org/licenses/by/3.0/ Attribution 3.0 سازگار نشده] منتشر شده‌است.',
+	'wm-license-cc-by-3.0-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [http://creativecommons.org/licenses/by/3.0/ Attribution 3.0 بومی نشده] منتشر شده‌است.',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] Attribution [//creativecommons.org/licenses/by/3.0/ 3.0 سازگار نشده]، [//creativecommons.org/licenses/by/2.5/ 2.5 عمومی]، [//creativecommons.org/licenses/by/2.0/ 2.0 عمومی] و [//creativecommons.org/licenses/by/1.0/ 1.0 عمومی] منتشر شده‌است.',
 	'wm-license-cc-by-3.0-at-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کریتیو کامانز]] [//creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 استرالیا] منتشر شده‌است.',
 	'wm-license-cc-by-3.0-au-text' => 'این پرونده با اجازه‌نامهٔ [[{{int:wm-license-cc-wiki-link}}|کرییتیو کامانز]] [//creativecommons.org/licenses/by/3.0/au/ Attribution 3.0 استرالیا] منتشر شده‌است.',
