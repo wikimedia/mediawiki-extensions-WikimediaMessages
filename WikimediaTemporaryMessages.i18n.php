@@ -227,6 +227,13 @@ $messages['roa-tara'] = array(
 	'wikimediamessages-desc' => 'Specifece messàgge temboranèe de Uicchimedia',
 );
 
+/** Serbo-Croatian (srpskohrvatski / српскохрватски)
+ * @author OC Ripper
+ */
+$messages['sh'] = array(
+	'wikimediamessages-desc' => 'Privremene poruke specifične za Wikimediju',
+);
+
 /** Sinhala (සිංහල)
  * @author පසිඳු කාවින්ද
  */
