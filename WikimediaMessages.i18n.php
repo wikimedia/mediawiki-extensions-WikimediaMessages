@@ -2677,6 +2677,7 @@ $messages['ce'] = array(
 	'group-ipblock-exempt' => 'IP-сацор юкъарадоккху',
 	'group-Global_bot' => 'Масхьара шаболххой',
 	'group-Global_bot-member' => 'масхьара шаболххо', # Fuzzy
+	'shared-repo-name-shared' => 'ВикидӀайуьллуче',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [//www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
 Мадарра хьажа. [//wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
@@ -4547,6 +4548,7 @@ $messages['ff'] = array(
  * @author Cimon Avaro
  * @author Crt
  * @author Jaakonam
+ * @author Linnea
  * @author Nedergard
  * @author Nike
  * @author Olli
@@ -4672,9 +4674,13 @@ $messages['fi'] = array(
 	'group-inactive-member' => '{{GENDER:$1|epäaktiivinen käyttäjä}}',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
+	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "tallenna" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
+	'wikimedia-translationnotifications-signup-legal' => 'Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntömme] alainen.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
+	'extdist-branch-REL1_20' => '1.20 (viimeisin vakaa MediaWiki-versio)',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta',
 	'createacct-imgcaptcha-help' => 'Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]',
 );
@@ -4868,7 +4874,7 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'extdist-branch-master' => 'maître (dernière version de développement)',
 	'extdist-branch-REL1_20' => '1.20 (dernier MediaWiki stable)',
 	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'utilisateur",
-	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|aidez moi à choisir]])',
+	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|aidez-moi à choisir]])',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Demander un compte',
 	'createacct-imgcaptcha-help' => "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
 );
@@ -6009,7 +6015,7 @@ $messages['he'] = array(
 	'extdist-branch-master' => 'master (גרסת הפיתוח האחרונה)',
 	'extdist-branch-REL1_20' => '1.20 (גרסה יציבה אחרונה של מדיה־ויקי)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy',
-	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(עזרו לי לבחור)]]',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]',
 );
@@ -6771,9 +6777,9 @@ $messages['id'] = array(
 	'group-autopatrolled' => 'Otomatisterpatroli',
 	'group-autopatrolled-member' => '{{GENDER:$1|pematroli otomatis}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Patroli otomatis',
-	'group-autoreviewer' => 'Autotinjau',
+	'group-autoreviewer' => 'Peninjau otomatis',
 	'group-autoreviewer-member' => '{{GENDER:$1|peninjau otomatis}}',
-	'grouppage-autoreviewer' => '{{ns:project}}:Autotinjau',
+	'grouppage-autoreviewer' => '{{ns:project}}:Peninjau otomatis',
 	'group-bigexport' => 'Eksportir besar',
 	'group-bigexport-member' => '{{GENDER:$1|eksportir besar}}',
 	'grouppage-bigexport' => '{{ns:project}}:Eksportir besar',
@@ -7058,6 +7064,10 @@ Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lis
 	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan ti daytoy a monumento',
 	'extdist-branch-master' => 'master (kinaudi a naparang-ay a bersion)',
 	'extdist-branch-REL1_20' => '1.20 (kinaudi a nasimpa a MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Annuroten_ti_nagan_ti_agar-aramat',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tulongannak nga agpili)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Agkiddaw ti maysa a pakabilangan',
+	'createacct-imgcaptcha-help' => 'Saan a makita ti ladawan? [[{{MediaWiki:createacct-captcha-help-url}}|Agkiddaw ti maysa a pakabilangan]]',
 );
 
 /** Ingush (ГӀалгӀай)
@@ -8069,6 +8079,7 @@ $messages['ko'] = array(
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:중앙 공지 관리자',
 	'group-coder' => '코더',
 	'group-coder-member' => '{{GENDER:$1|코더}}',
+	'grouppage-coder' => '{{ns:project}}:코더',
 	'group-inactive' => '활동하지 않는 사용자',
 	'group-inactive-member' => '{{GENDER:$1|활동하지 않는 사용자}}',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자',
@@ -8446,6 +8457,12 @@ Kuckt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge
 Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
+	'extdist-branch-master' => 'master (lescht Entwécklungs-Versioun)',
+	'extdist-branch-REL1_20' => '1.20 (lescht stabil MediaWiki-Versioun)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Benotzernumm Richtlinn',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:E Benotzerkont ufroen',
+	'createacct-imgcaptcha-help' => "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
 );
 
 /** Lingua Franca Nova (Lingua Franca Nova)
@@ -9726,7 +9743,10 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
 	'upload-more-photos-of-this-monument' => 'Muat naik lebih banyak gambar monumen ini',
 	'extdist-branch-master' => 'induk (versi pembangunan terkini)',
 	'extdist-branch-REL1_20' => '1.20 (MediaWiki stabil yang terkini)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Dasar_nama_pengguna',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Permohonan akaun',
+	'createacct-imgcaptcha-help' => 'Tak nampak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon akaun]]',
 );
 
 /** Maltese (Malti)
@@ -10993,6 +11013,8 @@ Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunk
 	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
 	'extdist-branch-master' => 'master (najnowsza wersja rozwojowa)',
 	'extdist-branch-REL1_20' => '1.20 (najnowsza stabilna wersja MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Nazwa_użytkownika',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]',
 );
 
 /** Piedmontese (Piemontèis)

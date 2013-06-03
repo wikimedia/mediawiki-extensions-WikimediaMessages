@@ -1638,9 +1638,11 @@ $messages['cdo'] = array(
 
 /** Chechen (нохчийн)
  * @author Sasan700
+ * @author Умар
  */
 $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
+	'wm-license-book-language' => 'Мотт',
 );
 
 /** Cebuano (Cebuano)
@@ -1855,6 +1857,7 @@ $messages['cy'] = array(
 	'wm-license-artwork-dimensions' => 'Hyd a lled',
 	'wm-license-artwork-current-location' => 'Y man y mae yn awr',
 	'wm-license-artwork-object-history' => 'Hanes perchnogaeth y gwaith',
+	'wm-license-artwork-credit-line' => 'Cydnabyddiaeth',
 	'wm-license-artwork-references' => 'Cyfeiriadau',
 	'wm-license-artwork-inscriptions' => 'Arysgrifau',
 	'wm-license-artwork-notes' => 'Nodiadau',
@@ -3328,7 +3331,7 @@ $messages['frr'] = array(
 	'wm-license-self-one-license-with-author' => '$1 häält a rochten üüb detheer werk an dää det frei oner det lisens:',
 	'wm-license-self-multiple-licenses' => 'Ik hual a rochten üüb detheer werk, an du det frei oner a lisensen:',
 	'wm-license-self-multiple-licenses-with-author' => '$1 häält a rochten üüb detheer werk an dää det frei oner a lisensen:',
-	'wm-license-self-multiple-licenses-select' => 'Sjük di ian faan jodiar lisensen ütj.',
+	'wm-license-self-multiple-licenses-select' => 'Schük di ian faan jodiar lisensen ütj.',
 );
 
 /** Friulian (furlan)
@@ -5217,7 +5220,10 @@ CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.in
 	'wm-license-pd-usgov-wiki-link' => 'w:ko:미국 연방 정부',
 	'wm-license-pd-usgov-work-wiki-link' => 'w:ko:미국 정부의 저작물',
 	'wm-license-pd-usgov-fema-text' => "이 파일은 [[{{int:wm-license-pd-usgov-fema-wiki-link}}|미국 연방재해관리본부]]의 공무원이 공무상 작성하거나 촬영한 저작물입니다. [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 이 파일은 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
+	'wm-license-pd-usgov-fema-wiki-link' => 'w:ko:미국 연방재난관리청',
 	'wm-license-pd-usgov-military-text' => "이 파일은 [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|미국군]]이나 [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|미국 국방부]]의 공무원이 공무상 작성하거나 촬영한 저작물입니다. [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 이 파일은 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
+	'wm-license-pd-usgov-military-armed-forces-wiki-link' => 'w:ko:미국군',
+	'wm-license-pd-usgov-military-dod-wiki-link' => 'w:ko:미국 국방부',
 	'wm-license-pd-usgov-military-air-force-text' => "이 파일은 [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|미국 공군]]의 군인이나 군무원의 저작물로, 공적 업무 수행의 과정에서 창작된 저작물입니다. 이 저작물은 [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:ko:미국 공군',
 	'wm-license-pd-usgov-military-army-text' => "이 파일은 [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|미국 육군]]의 군인이나 군무원의 저작물로, 공적 업무 수행의 과정에서 창작된 저작물입니다. 이 저작물은 [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
@@ -5225,6 +5231,7 @@ CeCILL 라이선스 규약은 [{{int:wm-license-cecill-full-link}} www.cecill.in
 	'wm-license-pd-usgov-military-navy-text' => "이 파일은 [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|미국 해군]]의 군인이나 군무원의 저작물로, 공적 업무 수행의 과정에서 창작된 저작물입니다. 이 저작물은 [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:ko:미국 해군',
 	'wm-license-pd-usgov-noaa-text' => "이 파일은 [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|미국 해양대기청]]의 공무원이 공무상 작성하거나 촬영한 저작물입니다. [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 이 파일은 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
+	'wm-license-pd-usgov-noaa-wiki-link' => 'w:ko:미국 해양대기청',
 	'wm-license-pd-wiki-link' => 'w:ko:퍼블릭 도메인',
 	'wm-license-self-one-license' => '나는 아래 작품의 저작권자로서, 이 저작물을 다음과 같은 라이선스로 배포합니다:',
 	'wm-license-self-one-license-with-author' => '$1은(는) 아래 작품의 저작권자로서, 해당 저작물을 다음과 같은 라이선스로 배포합니다:',
@@ -5876,10 +5883,10 @@ $messages['mi'] = array(
  * @author VoteITP
  */
 $messages['min'] = array(
-	'wikimedialicensetexts-desc' => 'Pasan izin Wikimedia',
-	'wm-license-attribution-with-author-text' => "Pemegang hak cipta berkas ko, $1, maizinkan siapo sajo untuak manggunoannyo '''untuak tujuan apo pun, jo syaraik''' pamegang hak cipta ko disabuikan. Panyebaran ulang, maubah suai, digunoan untuak dijua, dan lainnyo diizinkan.",
-	'wm-license-attribution-without-author-text' => "Pemegang hak cipta berkas ko maizinkan siapo sajo untuak manggunoannyo '''untuak tujuan apo pun, jo syaraik''' pamegang hak cipta ko disabuikan. Panyebaran ulang, maubah suai, digunoan untuak dijua, dan lainnyo diizinkan.",
-	'wm-license-artwork-artist' => 'Saniman/Pambuek',
+	'wikimedialicensetexts-desc' => 'Pasan lisensi Wikimedia',
+	'wm-license-attribution-with-author-text' => "Pamegang hak cipta berkas ko, $1, maizinan siapopun sajo manggunoannyo '''untuak tujuan apo pun, jo syaraik''' pamegang hak cipta ko disabuikan. Panyebaran ulang, maubah suai, digunoan untuak dijua, dan lainnyo diizinkan.",
+	'wm-license-attribution-without-author-text' => "Pamegang hak cipta berkas ko maizinkan siapopun sajo manggunoannyo '''untuak tujuan apo pun, jo syaraik''' pamegang hak cipta ko disabuikan. Panyebaran ulang, maubah suai, digunoan untuak dijua, dan lainnyo diizinkan.",
+	'wm-license-artwork-artist' => 'Pambuek',
 	'wm-license-artwork-title' => 'Judul',
 	'wm-license-artwork-medium' => 'Bahan',
 	'wm-license-artwork-dimensions' => 'Dimensi',
@@ -5900,13 +5907,13 @@ $messages['min'] = array(
 	'wm-license-book-printer' => 'Parcetakan',
 	'wm-license-book-publisher' => 'Panerbit',
 	'wm-license-book-series-title' => 'Judul seri',
-	'wm-license-book-start-this-book' => 'Awal buku iko',
+	'wm-license-book-start-this-book' => 'Awal buku ko',
 	'wm-license-book-subtitle' => 'Subjudul',
 	'wm-license-book-title' => 'Judul',
 	'wm-license-book-translator' => 'Panajamah',
 	'wm-license-book-volume' => 'Jilid',
 	'wm-license-book-year-of-publication' => 'Taun panerbitan',
-	'wm-license-cecill-text' => 'Karya ko adolah [[{{int:wm-license-free-software-wiki-link}}|parangkaik lunak bebas]]; Sanak diizinan untuak mandistribusian atau mamodifikasi dokumen ko jo syaraik-syaraik [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Pasyaratan lisensi CeCILL tasedio di [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-cecill-text' => 'Karya ko adolah [[{{int:wm-license-free-software-wiki-link}}|parangkaik lunak bebas]]; Sanak diizinan untuak mandistribusian atau mamodifikasi dokumen ko jo syaraik-syaraik [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Pasyaratan lisensi CeCILL tasadio di [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Namo lain',
 	'wm-license-creator-description' => 'Katarangan',
 	'wm-license-creator-date-of-birth' => 'Tanggal lahia',
@@ -5918,6 +5925,7 @@ $messages['min'] = array(
 	'wm-license-creator-linkback' => 'Pautan baliak ka templat kotak info Pancipta',
 	'wm-license-fal-text' => "Tanpa hak cipta: Karya seni ko bebas; Sanak dapek mandistribusikan dan/atau mamodifikasinyo jo syaraik '''[[{{int:wm-license-fal-wiki-link}}|Lisensi Seni Bebas]]'''. Sanak dapek mancaliak salinan lisensi ko pado [{{int:wm-license-fal-full-link}} laman web Pasyaratan Tanpa Hak Cipta] dan laman-laman web lainnyo.",
 	'wm-license-gfdl-1.2-and-later' => "Diizinan untuak manyalin, mandistribusian dan/atau mamodifikasi dokumen ko jo syaraik-syaraik '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.2 atau labiah baru nan dikaluaan dek [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Muko, dan tanpa Teks Sampul Balakang. Salinan lisensi dimasuakan ka bagian nan bajudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
+	'wm-license-gfdl-1.2-only' => "Diizinan untuak manyalin, mandistribusian dan/atau mamodifikasi dokumen ko jo syaraik-syaraik '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.2 atau labiah baru nan dikaluaan dek [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Muko, dan tanpa Teks Sampul Balakang. Salinan lisensi dimasuakan ka bagian nan bajudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	'wm-license-gfdl-1.2-only-header' => 'Hanyo&nbsp;1.2',
 	'wm-license-information-table-summary' => 'Tabel katarangan standar nan mangagiah informasi lengkap soal berkas ko, tamasuak katarangan apo nan ditampilkan dan caro pambuatannyo, status hak cipta sarato sumbernyo.',
 	'wm-license-information-description' => 'Katarangan',
@@ -5939,8 +5947,8 @@ $messages['min'] = array(
 	'wm-license-pd-author-self-text' => "Ambo, pamegang hak cipta karya ko, malapehan karya ko ka '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''. Lisensi ko balaku di saluruah dunia.",
 	'wm-license-pd-author-with-author-text' => "Karya ko dilapehan ka '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]''' jo nan punyo karya, '''$1'''. Lisensi ko balaku di saluruah dunia.",
 	'wm-license-pd-author-not-legally-possible' => 'Di babarapo nagara, nan ko mungkin indak sah; bilo bantuak itu:',
-	'wm-license-pd-author-self-any-purpose' => "Ambo mangagiah siapo pun sajo hak untauk manggunoan karya ko '''untuak tujuan apo pun juo''', tanpa syaraik, kacuali ado kondisi nan dibutuahan hukum.",
-	'wm-license-pd-author-with-author-any-purpose' => "$1 mangagiah siapo pun sajo hak untuak manggunoan karya ko '''untuak tujuan apo pun juo''', tanpa syaraik, kacuali ado kondisi nan dibutuahan hukum.",
+	'wm-license-pd-author-self-any-purpose' => "Ambo mangagiah siapo pun sajo hak manggunoan karya ko '''untuak tujuan apo pun juo''', tanpa syaraik, kacuali ado kondisi nan diparaluan dek hukum.",
+	'wm-license-pd-author-with-author-any-purpose' => "$1 mangagiah siapo pun sajo hak manggunoan karya ko '''untuak tujuan apo pun juo''', tanpa syaraik, kacuali ado kondisi nan diparaluan dek hukum.",
 	'wm-license-self-one-license' => 'Ambo, pamegang hak cipta karya ko, basamo ko malakekan berkas ko jo lisensi barikuik:',
 	'wm-license-self-one-license-with-author' => '$1, pamegang hak cipta karya ko, basamo ko malakekan berkas ko jo lisensi barikuik:',
 	'wm-license-self-multiple-licenses' => 'Ambo, pamegang hak cipta karya ko, basamo ko malakekan berkas ko jo lisensi barikuik:',
@@ -8772,7 +8780,7 @@ $messages['sr-ec'] = array(
 	'wm-license-gfdl-1.3-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове лиценце за слободну документацију]]''', верзије 1.3 или било које новије верзије коју објави [[{{int:wm-license-fsf-wiki-link}}|Задужбина за слободни софтвер]]; без непроменљивих одељака и без текста на насловној и/или задњој страни. Текст лиценце можете прочитати [[{{int:wm-license-gfdl-full-1.3-link}}|овде]].",
 	'wm-license-gfdl-1.3-only' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове лиценце за слободну документацију]]''', верзије 1.3 објављене од стране [[{{int:wm-license-fsf-wiki-link}}|Задужбине за слободан софтвер]]; без непроменљивих одељака и без текста на насловној и/или задњој страни. Текст лиценце можете прочитати [[{{int:wm-license-gfdl-full-1.3-link}}|овде]].",
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
-	'wm-license-gpl-text' => "Овај рад је [[{{int:wm-license-free-software-wiki-link}}|слободан софтвер]], можете га ре-дистрибуирати и/или модификовати под условима '''[[{{int:wm-license-gpl-wiki-link}}|ГНУ-ове опште јавне лиценце]]''' верзија 2 или сваке следеће објављенe од стране [[{{int:wm-license-fsf-wiki-link}}|Задужбине за слободан софтвер]]. Овај рад се дистрибуира у нади да ће бити користан али '''без икакве гаранције''' укључујући и '''без подрзумеване гаранције функционалности''' и '''прикладности за одређену намену'''. Види [{{int:wm-license-gpl-2-full-link}} верзију 2] и [{{int:wm-license-gpl-3-full-link}}верзију 3] ГНУ-ове опште јавне лиценце за више информација.",
+	'wm-license-gpl-text' => "Овај рад је [[{{int:wm-license-free-software-wiki-link}}|слободан софтвер]], можете га ре-дистрибуирати и/или модификовати под условима '''[[{{int:wm-license-gpl-wiki-link}}|ГНУ-ове опште јавне лиценце]]''' верзија 2 или сваке следеће објављенe од стране [[{{int:wm-license-fsf-wiki-link}}|Задужбине за слободан софтвер]]. Овај рад се дистрибуира у нади да ће бити користан али '''без икакве гаранције''' укључујући и '''без подрзумеване гаранције функционалности''' и '''прикладности за одређену намену'''. Види [{{int:wm-license-gpl-2-full-link}} верзију 2] и [{{int:wm-license-gpl-3-full-link}} верзију 3] ГНУ-ове опште јавне лиценце за више информација.",
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
 	'wm-license-information-description' => 'Опис',
 	'wm-license-information-source' => 'Извор',
