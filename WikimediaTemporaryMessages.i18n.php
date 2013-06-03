@@ -13,10 +13,7 @@ $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific temporary messages',
 );
 
-/** Message documentation (This is the name of the message documentation language code (qqq). Follow the rules of your languages and use small first letter if it doesn't capitalize language names always.
-
-It might be easier to translate it as "translation guidelines" or "translation help".
-{{Identical|Message documentation}})
+/** Message documentation (Message documentation)
  * @author Metalhead64
  * @author Shirayuki
  */
@@ -28,8 +25,6 @@ $messages['qqq'] = array(
  * @author Xuacu
  */
 $messages['ast'] = array(
-	'wikimedia-oldskin-removal' => "Ta usando'l tema $1, que va desaniciase a partir del $2.
-[[$3|Más información]].",
 	'wikimediamessages-desc' => 'Mensaxes temporales específicos de Wikimedia',
 );
 
@@ -66,8 +61,6 @@ $messages['da'] = array(
  * @author Metalhead64
  */
 $messages['de'] = array(
-	'wikimedia-oldskin-removal' => 'Du benutzt die Oberfläche „$1“, die ab dem $2 entfernt wird.
-[[$3|Mehr Informationen]].',
 	'wikimediamessages-desc' => 'Ermöglicht Wikimedia-spezifische temporäre Nachrichten',
 );
 
@@ -105,7 +98,6 @@ $messages['fi'] = array(
  * @author Metroitendo
  */
 $messages['fr'] = array(
-	'wikimedia-oldskin-removal' => "Vous utilisez l'habillage $1, qui sera supprimée le $2. [[$3|Plus d'informations]].",
 	'wikimediamessages-desc' => 'Messages temporaires spécifiques de Wikimédia',
 );
 
@@ -113,8 +105,6 @@ $messages['fr'] = array(
  * @author Toliño
  */
 $messages['gl'] = array(
-	'wikimedia-oldskin-removal' => 'Está utilizando a aparencia $1, que vai desaparecer a partir do $2.
-[[$3|Máis información]].',
 	'wikimediamessages-desc' => 'Mensaxes temporais específicas da Wikimedia',
 );
 
@@ -136,8 +126,6 @@ $messages['hsb'] = array(
  * @author Beta16
  */
 $messages['it'] = array(
-	'wikimedia-oldskin-removal' => 'Stai utilizzando la skin $1, che sarà rimossa a partire da $2.
-[[$3|Ulteriori informazioni]].',
 	'wikimediamessages-desc' => 'Messaggi temporanei specifici per Wikimedia',
 );
 
@@ -145,8 +133,6 @@ $messages['it'] = array(
  * @author Shirayuki
  */
 $messages['ja'] = array(
-	'wikimedia-oldskin-removal' => 'あなたは、$2 以降に順次除去される$1外装を現在使用しています。
-[[$3|詳細はこちら]]',
 	'wikimediamessages-desc' => 'ウィキメディア固有の一時的なメッセージ',
 );
 
@@ -154,8 +140,6 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'wikimedia-oldskin-removal' => '$2에 순차적으로 제거되는 $1 스킨을 사용하고 있습니다.
-[[$3|자세한 정보]].',
 	'wikimediamessages-desc' => '위키미디어 특정 임시 메시지',
 );
 
@@ -163,8 +147,6 @@ $messages['ko'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
-	'wikimedia-oldskin-removal' => 'Do beß de Bovverfläsch $1 aam bruche, di et av_em $2 nit mieh jitt.
-[[$3|Woröm eß dadd esu?]]',
 	'wikimediamessages-desc' => 'Nohreeschte met Zigge bloß för de Wikkipeedija.',
 );
 
@@ -172,8 +154,6 @@ $messages['ksh'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
-	'wikimedia-oldskin-removal' => "Dir benotzt d'Ausgesinn $1, deen zënter dem $2 ewechgeholl gouf.
-[[$3|Méi Informatiounen]]",
 	'wikimediamessages-desc' => 'Spezifesch temporär Message vu Wikimedia',
 );
 
@@ -181,8 +161,6 @@ $messages['lb'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'wikimedia-oldskin-removal' => 'Го користите рувото „$1“, кое ќе биде отстрането на $2.
-[[$3|Повеќе информации]].',
 	'wikimediamessages-desc' => 'Привремени пораки што се однесуваат на Викимедија',
 );
 
@@ -198,7 +176,6 @@ $messages['ms'] = array(
  * @author User555
  */
 $messages['nl'] = array(
-	'wikimedia-oldskin-removal' => 'U gebruikt het uiterlijk $1, dat wordt verwijderd per $2. [[$3|Meer informatie]].',
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
 );
 
@@ -207,8 +184,6 @@ $messages['nl'] = array(
  * @author Rezonansowy
  */
 $messages['pl'] = array(
-	'wikimedia-oldskin-removal' => 'Używasz skórki $1, która będzie sukcesywnie usuwana od $2.
-[[$3|Więcej informacji]].',
 	'wikimediamessages-desc' => 'Specjalne tymczasowe wiadomości Wikimedii',
 );
 
@@ -223,7 +198,6 @@ $messages['pms'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
-	'wikimedia-oldskin-removal' => "Tu ste ause 'u modelle $1, 'u quale adda essere luate 'u $2 [[$3|Cchiù 'mbormaziune]].",
 	'wikimediamessages-desc' => 'Specifece messàgge temboranèe de Uicchimedia',
 );
 
@@ -246,8 +220,6 @@ $messages['si'] = array(
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
-	'wikimedia-oldskin-removal' => 'Du använder skalet $1, som togs bort den $2.
-[[$3|Mer information]].',
 	'wikimediamessages-desc' => 'Wikimediaspecifika tillfälliga meddelanden',
 );
 
@@ -255,8 +227,6 @@ $messages['sv'] = array(
  * @author Base
  */
 $messages['uk'] = array(
-	'wikimedia-oldskin-removal' => 'Ви використовуєте оформлення $1, яке буде усунуто у $2.
-[[$3|Детальніше]].',
 	'wikimediamessages-desc' => 'Тимчасові повідомлення для Вікімедіа',
 );
 
@@ -264,8 +234,6 @@ $messages['uk'] = array(
  * @author Minh Nguyen
  */
 $messages['vi'] = array(
-	'wikimedia-oldskin-removal' => 'Bạn đang sử dụng hình dạng $1, hình dạng này sẽ bị xóa bắt đầu từ $2.
-[[$3|Tìm hiểu thêm]].',
 	'wikimediamessages-desc' => 'Các thông điệp tạm thời dành cho Wikimedia',
 );
 
@@ -274,8 +242,6 @@ $messages['vi'] = array(
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
-	'wikimedia-oldskin-removal' => '您正在使用的$1皮肤，将自$2起被移除。
-[[$3|了解细节]]。',
 	'wikimediamessages-desc' => '维基媒体特定暂时性消息',
 );
 
@@ -284,6 +250,5 @@ $messages['zh-hans'] = array(
  * @author Simon Shek
  */
 $messages['zh-hant'] = array(
-	'wikimedia-oldskin-removal' => '您正在使用的$1外觀將於$2起移除。[[$3|了解詳情]]。',
 	'wikimediamessages-desc' => '維基媒體特定臨時消息',
 );

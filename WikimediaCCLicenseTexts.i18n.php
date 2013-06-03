@@ -1044,7 +1044,7 @@ $messages['arz'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'مشاركه زي',
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Bishnu Saikia
  * @author Chaipau
  */
@@ -10978,7 +10978,7 @@ $messages['nah'] = array(
 	'wm-license-cc-free' => 'Tihuelitiz:',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Diebuche
  * @author Event
  * @author Finnrind
@@ -11202,7 +11202,7 @@ $messages['nds'] = array(
 	'wm-license-cc-conditions-share_alike-text' => 'Wenn du dit Wark ännerst, afwannelst oder in en egen Wark inboost, dröffst du dat ne’e Wark, dat dor bi rutkummt, man ünner desülve Lizenz oder een, de so temlich dat sülve is, rutgeven.',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Krinkle
  * @author Servien
  */
@@ -11417,7 +11417,7 @@ $messages['nl'] = array(
 	'wm-license-cc-pd-mark-text' => 'Van dit bestand is vastgesteld dat er geen bekende auteursrechtaanspraken op rusten, alle aanverwante en naburige rechten daarbij inbegrepen.',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Diebuche
  * @author Gunnernett
  * @author Harald Khan
@@ -11508,7 +11508,7 @@ $messages['oc'] = array(
 	'wm-license-cc-conditions-share_alike-text' => "Se modificatz, transformatz, o vos basatz sus aquesta òbra, vos cal distribuir l'òbra resultanta jos la meteissa licéncia o una licéncia similara a aquesta.",
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  * @author Odisha1
  * @author Psubhashish

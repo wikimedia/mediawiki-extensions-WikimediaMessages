@@ -365,7 +365,7 @@ $messages['aln'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Ju mund të zgjidhni licencën e zgjedhjes suaj.',
 );
 
-/** als (Tosk)
+/** als (als)
  * @author Multichill
  */
 $messages['als'] = array(
@@ -620,7 +620,7 @@ $messages['arz'] = array(
 	'wm-license-information-author' => 'مؤلف',
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Bishnu Saikia
  * @author Chaipau
  * @author Gitartha.bordoloi
@@ -2530,6 +2530,7 @@ $messages['eo'] = array(
  * @author Jarekt
  * @author Krinkle
  * @author Locos epraix
+ * @author MarcoAurelio
  * @author Multichill
  * @author Platonides
  * @author Sanbec
@@ -6465,7 +6466,7 @@ $messages['nap'] = array(
 	'wm-license-gfdl-1.2-and-later' => "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''.", # Fuzzy
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Danmichaelo
  * @author Diebuche
  * @author Event
@@ -6636,7 +6637,7 @@ $messages['nds'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Du kannst di de Lizenz utsöken, de di opbest gefallt.',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Krinkle
  * @author Servien
  */
@@ -6930,7 +6931,7 @@ $messages['oc'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Podètz causir la licéncia que volètz.',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  * @author Jnanaranjan Sahu
  * @author Odisha1
