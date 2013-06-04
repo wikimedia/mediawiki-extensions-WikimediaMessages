@@ -5836,9 +5836,9 @@ $messages['gu'] = array(
 	'group-inactive' => 'અસક્રિય સભ્યો',
 	'group-inactive-member' => '{{GENDER:$1|અસક્રિય સભ્ય}}',
 	'grouppage-inactive' => '{{ns:project}}:અસક્રિય સભ્યો',
-	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
-હેઠળ ઉપલબ્ધ છે વધારાની શરતો લાગુ છે.
-વધુ મહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> અહીં જુઓ.',
+	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>હેઠળ ઉપલબ્ધ છે;
+વધારાની શરતો લાગુ છે.
+વધુ માહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">વપરાશની શરતો</a> જુઓ .',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [//www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
 તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
@@ -7463,7 +7463,7 @@ $messages['ja'] = array(
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
 	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="//creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="//creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
-	'wikidata-shortcopyrightwarning' => '「作成」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
+	'wikidata-shortcopyrightwarning' => '「保存」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
