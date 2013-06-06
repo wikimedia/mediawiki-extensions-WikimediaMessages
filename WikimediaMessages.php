@@ -41,11 +41,19 @@ function efWikimediaEditPageCopyrightWarning( $title, &$msg ) {
 	return true;
 }
 
+/**
+ * @param $title Title
+ * @param $type
+ * @param $msg
+ * @param $link
+ * @param $forContent
+ * @return bool
+ */
 function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link, &$forContent ) {
 	$siteMessageKey = 'wikimedia-copyright'; // the default
 
 	global $wgDBname;
-	if ( $wgDBname === 'wikidatawiki' ) {
+	if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
 		$siteMessageKey = 'wikidata-copyright';
 	}
 
