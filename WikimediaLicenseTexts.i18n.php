@@ -1642,7 +1642,9 @@ $messages['cdo'] = array(
  */
 $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
+	'wm-license-artwork-source' => 'Хьост/суьрташдохург',
 	'wm-license-book-language' => 'Мотт',
+	'wm-license-information-source' => 'Хьост',
 );
 
 /** Cebuano (Cebuano)
@@ -3320,18 +3322,18 @@ $messages['frr'] = array(
 	'wm-license-pd-author-self-text' => "Ik haa a rochten üüb detdiar datei an du det frei üs '''[[{{int:wm-license-pd-wiki-link}}|public domain (för arken frei)]]'''. Det täält uun arke lun.",
 	'wm-license-pd-author-with-author-text' => "Detheer werk as freiden wurden üs '''[[{{int:wm-license-pd-wiki-link}}|public domain (för arken frei)]]''' faan di skriiwer of konstler '''$1'''. Det täält uun arke lun.",
 	'wm-license-pd-author-not-legally-possible' => 'Uun enkelt lunen mei det ei mögelk wees. Wan det so as:',
-	'wm-license-pd-author-self-any-purpose' => "Arken koon detheer werk brük '''för wat hi wal''', wan det uun sin lun rochtelk mögelk as.",
-	'wm-license-pd-author-with-author-any-purpose' => "Arken koon detheer werk faan $1 brük '''för wat hi wal''', wan det uun sin lun rochtelk mögelk as.",
+	'wm-license-pd-author-self-any-purpose' => "Arken koon detdiar werk brük '''för wat hi wal''', wan det uun sin lun rochtelk mögelk as.",
+	'wm-license-pd-author-with-author-any-purpose' => "Arken koon detdiar werk faan $1 brük '''för wat hi wal''', wan det uun sin lun rochtelk mögelk as.",
 	'wm-license-pd-usgov-fema-text' => "This file is a work of an employee of the [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]], taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-text' => "This file is a work of a [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|U.S. military]] or [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Department of Defense]] employee, taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-air-force-text' => "This file is a work of an airman or employee of the [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|U.S. Air Force]], taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-army-text' => "This file is a work of a soldier or employee of the [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|U.S. Army]], taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-military-navy-text' => "This file is a work of a sailor or employee of the [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|U.S. Navy]], taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	'wm-license-pd-usgov-noaa-text' => "This file is a work of an employee of the [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
-	'wm-license-self-one-license' => 'Ik hual a rochten üüb detheer werk, an du det frei oner det lisens:',
-	'wm-license-self-one-license-with-author' => '$1 häält a rochten üüb detheer werk an dää det frei oner det lisens:',
-	'wm-license-self-multiple-licenses' => 'Ik hual a rochten üüb detheer werk, an du det frei oner a lisensen:',
-	'wm-license-self-multiple-licenses-with-author' => '$1 häält a rochten üüb detheer werk an dää det frei oner a lisensen:',
+	'wm-license-self-one-license' => 'Ik hual a rochten üüb detdiar werk, an du det frei oner det lisens:',
+	'wm-license-self-one-license-with-author' => '$1 häält a rochten üüb detdiar werk an dää det frei oner det lisens:',
+	'wm-license-self-multiple-licenses' => 'Ik hual a rochten üüb detdiar werk, an du det frei oner a lisensen:',
+	'wm-license-self-multiple-licenses-with-author' => '$1 häält a rochten üüb detdiar werk an dää det frei oner a lisensen:',
 	'wm-license-self-multiple-licenses-select' => 'Schük di ian faan jodiar lisensen ütj.',
 );
 
@@ -5425,13 +5427,13 @@ Kopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, ver
  * @author Nrowe
  */
 $messages['kw'] = array(
-	'wm-license-information-description' => 'Descrifans',
+	'wm-license-information-description' => 'Deskrifans',
 	'wm-license-information-source' => 'Pennfenten',
 	'wm-license-information-date' => 'Dedhyans',
 	'wm-license-information-author' => 'Awtour',
-	'wm-license-information-author-missing' => "Nyns eus dhe'n restren-ma kedhlow a-dro dhe'n '''awtour'''.",
-	'wm-license-information-permission' => 'Cummyas',
-	'wm-license-information-permission-reusing-text' => 'Dasusya an restren-ma',
+	'wm-license-information-author-missing' => "Ny's teves an restren-ma kedhlow a'n '''awtour'''.",
+	'wm-license-information-permission' => 'Kummyas',
+	'wm-license-information-permission-reusing-text' => 'Dastevnydhya an restren-ma',
 );
 
 /** Kirghiz (Кыргызча)
