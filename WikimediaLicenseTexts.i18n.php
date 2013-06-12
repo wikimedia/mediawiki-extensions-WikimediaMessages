@@ -1644,7 +1644,10 @@ $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
 	'wm-license-artwork-source' => 'Хьост/суьрташдохург',
 	'wm-license-book-language' => 'Мотт',
+	'wm-license-creator-description' => 'Цуьнах лаьцна',
+	'wm-license-information-description' => 'Цуьнах лаьцна',
 	'wm-license-information-source' => 'Хьост',
+	'wm-license-information-date' => 'Терахь',
 );
 
 /** Cebuano (Cebuano)
