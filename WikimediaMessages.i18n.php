@@ -3246,7 +3246,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Privacy_policy fortrolighedspolitik].',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
 	'extdist-branch-master' => 'Master (seneste udviklingsversion)',
-	'extdist-branch-REL1_21' => '1.21 (seneste stabil MediaWiki)',
+	'extdist-branch-REL1_21' => '1.21 (seneste stabile MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Brugernavns_regler',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Anmod om en konto',
