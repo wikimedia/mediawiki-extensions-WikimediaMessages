@@ -1825,10 +1825,16 @@ $messages['bcl'] = array(
  * @author Platonides
  * @author TarzanASG
  * @author Yury Tarasievich
+ * @author Чаховіч Уладзіслаў
  */
 $messages['be'] = array(
 	'sitesupport' => 'Ахвяраванні',
 	'tooltip-n-sitesupport' => 'Падтрымайце нас',
+	'nstab-creator' => 'Аўтар',
+	'nstab-institution' => 'Установа',
+	'nstab-sequence' => 'Паслядоўнасць',
+	'nstab-timedtext' => 'Сінхратэкст',
+	'group-Ex_Administrator' => 'Былыя адміністратары',
 	'grouppage-abusefilter' => '{{ns:project}}:Abuse filter editors',
 	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrollers',
@@ -5519,6 +5525,7 @@ $messages['gl'] = array(
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administradores do aviso central',
 	'group-coder' => 'Codificadores',
 	'group-coder-member' => '{{GENDER:$1|codificador|codificadora}}',
+	'grouppage-coder' => '{{ns:project}}:Codificador',
 	'group-inactive' => 'Usuarios inactivos',
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
