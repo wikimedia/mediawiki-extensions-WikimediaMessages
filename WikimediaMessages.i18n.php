@@ -8352,6 +8352,10 @@ $messages['kw'] = array(
 	'tooltip-n-sitesupport' => 'Skoodhyewgh ni',
 	'group-sysadmin' => 'Menystroryon an system',
 	'wikimedia-copyright' => 'Kavadow yw an tekst yn-dann <a href="//creativecommons.org/licenses/by-sa/3.0/">Leshyans Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alsa bos omvyskys. Gwelewgh an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
+	'createacct-helpusername-url' => '{{ns:Project}}:Polici henwyn devnydhyer',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(gweres dhymm dewis)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Govyn akont',
+	'createacct-imgcaptcha-help' => 'A ny welowgh an imach? [[{{MediaWiki:createacct-captcha-help-url}}|Govynnewgh akont]]',
 );
 
 /** Kirghiz (Кыргызча)
@@ -11400,6 +11404,8 @@ $messages['ps'] = array(
 	'group-inactive' => 'ناچارنده کارنان',
 	'group-inactive-member' => '{{GENDER:$1|ناچارنده کارن}}',
 	'grouppage-inactive' => '{{ns:project}}:غېرفعاله کارنان',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(په ټاکلو کې يې مرسته غواړم)]]',
+	'createacct-imgcaptcha-help' => 'انځور د کتلو وړ نه دی؟ [[{{MediaWiki:createacct-captcha-help-url}}|د يو ګڼون غوښتنه کول]]',
 );
 
 /** Portuguese (português)
