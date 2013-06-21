@@ -1986,12 +1986,17 @@ $messages['be-tarask'] = array(
 	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="//creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="//wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
 	'wikidata-copyright' => 'Усе структураваныя зьвесткі ў галоўнай прасторы назваў і прасторы ўласьцівасьцяў даступныя на ўмове ліцэнзіі <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; зьмест у іншых прасторах даступны на ўмовах <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; могуць ужывацца дадатковыя ўмовы.
 Глядзіце падрабязнасьці ва <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Ўмовах выкарыстаньня</a>.',
+	'wikidata-shortcopyrightwarning' => 'Націснуўшы «захаваць», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].',
 	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [//wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [//www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
 	'extdist-branch-master' => 'master (апошняя працоўная вэрсія)',
 	'extdist-branch-REL1_21' => '1.21 (апошняя стабільная MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Правілы_найменьня_ўдзельнікаў',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Запыты на стварэньне рахункаў',
+	'createacct-imgcaptcha-help' => 'Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]',
 );
 
 /** Bulgarian (български)
@@ -7520,6 +7525,7 @@ $messages['ja'] = array(
 	'wikidata-shortcopyrightwarning' => '「保存」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したことになります。この同意は取り消せません。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
+	'wikimedia-translationnotifications-signup-legal' => 'あなたはウィキメディア財団にこの情報を提供することで、翻訳やその他ウィキメディア運動に関してあなたが興味を持つだろう話題について我々があなたに連絡をとってもよいと同意したことになります。あなたのデータがアメリカ合衆国で保管され、我々の[https://wikimediafoundation.org/wiki/Privacy_policy プライバシー・ポリシー]の対象となることに同意したことになります。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 	'extdist-branch-master' => 'マスター (最新開発版)',
 	'extdist-branch-REL1_21' => '1.21 (MediaWiki の最新の安定版)',
