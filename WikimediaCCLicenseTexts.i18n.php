@@ -9319,6 +9319,7 @@ $messages['lb'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'Dëse Fichier ass ënnert der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/ Share Alike 1.0 Netherlands] Lizenz disponibel.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Dëse Fichier ass ënnert der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/ Share Alike 2.0 Japan] Lizenz disponibel.',
 	'wm-license-cc-zero-text' => 'Dëse Fichier gëtt ënnert der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication] Lizenz zur Verfügung gestallt.',
+	'wm-license-cc-zero-explanation' => "Déi Persoun, déi dëst Wierk mat dësem Dokument verbonn huet, iwwerléist der dëst Wierk [[{{int:wm-license-pd-wiki-link}}|Allgemengheet]] dëst Wierk, andeem si all Copyright-Rechter an all weider domat verbonne Rechter – am Kader vun de jeeweilege gesetzleche Bestëmmungen – opgëtt. D'Wierk kann – esouguer fir kommerziell Zwecker – kopéiert, modifizéiert a viruverdeelt ginn, ouni datt dofir eng Autorisatioun gefrot muss ginn.",
 	'wm-license-cc-free' => 'Dir kënnt:',
 	'wm-license-cc-free-to-share-header' => "D'Wierk deelen",
 	'wm-license-cc-free-to-share-text' => 'kopéieren, verdeelen a weiderginn',
