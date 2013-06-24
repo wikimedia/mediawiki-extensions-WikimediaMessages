@@ -1966,6 +1966,8 @@ $messages['be-tarask'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|сыстэмны адміністратар|сыстэмная адміністратарка}}',
 	'group-API_High_Limit_Requestor' => 'Карыстальнікі API з паменшанымі абмежаваньнямі',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Карыстальнік API з паменшанымі абмежаваньнямі}}',
+	'group-Indic_Bots' => 'Індыйскія робаты',
+	'group-Indic_Bots-member' => '{{GENDER:$1|індыйскі робат}}',
 	'group-New_wikis_importer' => 'Імпартэры новых праектаў',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|імпартэр|імпартэрка}} новых праектаў',
 	'group-global-ipblock-exempt' => 'Выключаныя з глябальных блякаваньняў па IP',
@@ -3756,6 +3758,7 @@ $messages['ee'] = array(
  * @author Geraki
  * @author Glavkos
  * @author Lou
+ * @author Nikosguard
  * @author Omnipaedista
  * @author ZaDiak
  * @author Απεργός
@@ -3792,10 +3795,10 @@ $messages['el'] = array(
 	'group-arbcom-member' => '{{GENDER:$1|μέλος επιτροπής διαιτησίας}}',
 	'grouppage-arbcom' => '{{ns:project}}:Μέλη της επιτροπής διαιτησίας',
 	'group-autopatrolled' => 'Αυτοεπιτηρητές',
-	'group-autopatrolled-member' => 'αυτόματη περίπολος', # Fuzzy
+	'group-autopatrolled-member' => '{{GENDER:$1|αυτοεπιτηρητής}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Αυτόματοι περίπολοι',
 	'group-autoreviewer' => 'Αυτοελεγκτές',
-	'group-autoreviewer-member' => 'αυτοελεγκτής', # Fuzzy
+	'group-autoreviewer-member' => '{{GENDER:$1|αυτοελεγκτής}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:Αυτοελεγκτές',
 	'group-bigexport' => 'Μεγάλοι εξαγωγείς',
 	'group-bigexport-member' => '{{GENDER:$1|Μεγάλος|Μεγάλη}} εξαγωγέας',
@@ -3813,7 +3816,7 @@ $messages['el'] = array(
 	'group-eliminator-member' => 'Εξαλείφοντες',
 	'grouppage-eliminator' => '{{ns:project}}:Εξαλείφων',
 	'group-filemover' => 'Μετακινητές αρχείου',
-	'group-filemover-member' => 'μετακινητής αρχείου', # Fuzzy
+	'group-filemover-member' => '{{GENDER:$1|μετακινητής αρχείου}}',
 	'grouppage-filemover' => '{{ns:project}}:Μεταφορείς αρχείων',
 	'group-flood' => 'Χρήστες bot',
 	'group-flood-member' => '{{GENDER:$1|χρήστης bot}}',
@@ -3869,6 +3872,7 @@ $messages['el'] = array(
 	'group-inactive-member' => '{{GENDER:$1|μη ενεργός χρήστης}}',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="//creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
+	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "Αποθήκευση", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].',
 	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
@@ -11979,6 +11983,8 @@ Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă 
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
 	'upload-more-photos-of-this-monument' => 'Încărcați mai multe fotografii cu acest monument',
 	'extdist-branch-REL1_21' => '1.21 (ultimul MediaWiki stabil)',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]',
+	'createacct-imgcaptcha-help' => 'Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]',
 );
 
 /** tarandíne (tarandíne)
