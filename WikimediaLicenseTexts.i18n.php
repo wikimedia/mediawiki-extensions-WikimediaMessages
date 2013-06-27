@@ -2043,6 +2043,7 @@ $messages['da'] = array(
  * @author Kwj2772
  * @author Metalhead64
  * @author Multichill
+ * @author Rillke
  * @author The Evil IP address
  * @author Tischbeinahe
  * @author Umherirrender
@@ -2114,7 +2115,7 @@ Weitere Einzelheiten in der [{{int:wm-license-gpl-2-full-link}} Version 2] und [
 	'wm-license-gpl-wiki-link' => 'w:de:GNU General Public License',
 	'wm-license-information-table-summary' => 'Eine standardisierte Tabelle mit vollständigen Informationen zu der Datei, eine Beschreibung, was sie zeigt und wie und von wem sie erstellt wurde, Urheberrechtsinformationen und Quellen.',
 	'wm-license-information-description' => 'Beschreibung',
-	'wm-license-information-description-missing' => "Dieses Bild verfügt über keine '''Beschreibung''' oder es fehlen wichtige Informationen.",
+	'wm-license-information-description-missing' => "Diese Datei hat keine '''Beschreibung''' oder es fehlen wichtige Informationen.",
 	'wm-license-information-description-missing-request' => 'Bilder sollten eine Zusammenfassung besitzen, die den Betrachter über Inhalt, Quelle und wenn möglich Datum informiert.
 Wenn du etwas davon weißt oder Zugang zu solchen Informationen hast, füge diese bitte der Bildbeschreibungsseite hinzu.',
 	'wm-license-information-source' => 'Quelle',
