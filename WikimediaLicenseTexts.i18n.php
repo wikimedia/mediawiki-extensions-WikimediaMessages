@@ -492,7 +492,7 @@ $messages['ang'] = array(
 	'wm-license-information-source-missing' => "Þēos ymele næfþ '''fruman''' cȳþþe.",
 	'wm-license-information-date' => 'Tælmearc',
 	'wm-license-information-author' => 'Dǣdfruma',
-	'wm-license-information-permission' => 'Þafung',
+	'wm-license-information-permission' => 'Lēaf',
 	'wm-license-information-permission-see-below' => 'Seoh niðer.',
 );
 

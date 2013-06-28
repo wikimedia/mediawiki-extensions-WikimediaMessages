@@ -823,10 +823,11 @@ $messages['an'] = array(
 );
 
 /** Old English (Ænglisc)
+ * @author Gott wisst
  * @author Wōdenhelm
  */
 $messages['ang'] = array(
-	'wm-license-cc-attribution' => 'Hlīȝdōm',
+	'wm-license-cc-attribution' => 'Hlīgung',
 );
 
 /** Arabic (العربية)
