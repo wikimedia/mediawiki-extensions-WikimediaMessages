@@ -154,7 +154,8 @@ $messages['qqq'] = array(
 	'wm-license-artwork-references' => 'Label "References" at [[Commons:Template:Artwork]]. Field holds books and websites with information about the artwork.
 {{Identical|Reference}}',
 	'wm-license-artwork-inscriptions' => 'Label "Inscriptions" at [[Commons:Template:Artwork]]. Field holds 	description of: inscriptions (text carved, painted, etc. on the artwork), watermarks, captions, coats of arm, etc.',
-	'wm-license-artwork-notes' => 'Label "Notes" at [[Commons:Template:Artwork]]. Field holds general notes, not covered by other specific fields, about the artwork.',
+	'wm-license-artwork-notes' => 'Label "Notes" at [[Commons:Template:Artwork]]. Field holds general notes, not covered by other specific fields, about the artwork.
+{{Identical|Note}}',
 	'wm-license-artwork-id' => 'Identification number: label "Accession number" at [[Commons:Template:Artwork]]. Field holds museum\'s accession number or some other inventory or identification number used by the parent institution. Often link to the institution database record is also provided.',
 	'wm-license-artwork-source' => 'Label "Source/Photographer" at [[Commons:Template:Artwork]]. Field holds information about source of the file or the photographer. For example it might be website or book name where the image come from, or the name of the photographer that took the picture.',
 	'wm-license-book-edition' => 'Label "Edition" at [[Commons:Template:Book]].',
@@ -172,7 +173,8 @@ $messages['qqq'] = array(
 	'wm-license-book-start-this-book' => 'Label "Start this Book" at [[Commons:Template:Book]]. It\'s the label of the link to the first page of the book the user is seeing one image of. [[commons:File:Meyers_b1_s0024.jpg|Example]]
 
 Alternative wording: "The beginning of the book"',
-	'wm-license-book-subtitle' => 'Label "Subtitle" at [[Commons:Template:Book]].',
+	'wm-license-book-subtitle' => 'Label "Subtitle" at [[Commons:Template:Book]].
+{{Identical|Subtitle}}',
 	'wm-license-book-title' => 'Label "Title" at [[Commons:Template:Book]].
 {{Identical|Title}}',
 	'wm-license-book-translator' => 'Label "Translator" at [[Commons:Template:Book]].

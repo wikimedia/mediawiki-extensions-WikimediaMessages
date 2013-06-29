@@ -8526,6 +8526,7 @@ Kuckt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge
 	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [//wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [//www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
 Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
+	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
 	'extdist-branch-master' => 'master (lescht Entwécklungs-Versioun)',
 	'extdist-branch-REL1_21' => '1.21 (lescht stabil MediaWiki-Versioun)',
