@@ -9922,6 +9922,8 @@ Ara t-<a href="//wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a
 Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta\' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi abbażi tal-liċenzja Creative Commons.',
 	'cant-delete-main-page' => 'Ma tistax tħassar jew tmexxi l-paġna prinċipali.',
 	'wikimedia-translationnotifications-signup-legal' => "Inti taqbel li billi tipprovid din l-informazzjoni lill-Fondazzjoni Wikimedia aħna nistgħu nikkuntatjawk rigward traduzzjonijiet jew suġġetti oħra relatati mal-moviment tal-Wikimedia li naħsbu li jistgħu jinteressawk. Inti taqbel li d-dejta tiegħek tista' tiġi miżmuma fl-Istati Uniti tal-Amerika u hi suġġetta għall-[https://wikimediafoundation.org/wiki/Privacy_policy politika tal-privatezza] tagħna.",
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(għini nagħżel)]]',
+	'createacct-imgcaptcha-help' => 'Ma tistax tara l-istampa? [[{{MediaWiki:createacct-captcha-help-url}}|Itlob kont]]',
 );
 
 /** Mirandese (Mirandés)
