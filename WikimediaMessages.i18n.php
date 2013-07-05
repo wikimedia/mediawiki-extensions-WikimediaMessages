@@ -2691,9 +2691,10 @@ Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència C
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ * @author Yejianfei
  */
 $messages['cdo'] = array(
-	'sitesupport' => 'Dà̤-giŏng',
+	'sitesupport' => '捐獻',
 );
 
 /** Chechen (нохчийн)
