@@ -1177,11 +1177,6 @@ $messages['be-tarask'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Вы можаце выбраць любую з гэтых ліцэнзіяў.',
 );
 
-/** ‪Беларуская (тарашкевіца)‬ (‪Беларуская (тарашкевіца)‬) */
-$messages['be-x-old'] = array(
-	'wm-license-gfdl-wiki-link' => 'w:be-x-old:GNU Free Documentation License',
-);
-
 /** Bulgarian (български)
  * @author DCLXVI
  * @author Diebuche
@@ -1634,10 +1629,11 @@ $messages['ca'] = array(
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ * @author Yejianfei
  */
 $messages['cdo'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:cdo:GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng',
-	'wm-license-information-source' => 'Lài-nguòng',
+	'wm-license-information-source' => '源',
 );
 
 /** Chechen (нохчийн)
@@ -5400,7 +5396,7 @@ Loor Der de [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] un de [{{int:wm-
 $messages['ku'] = array(
 	'wm-license-free-software-wiki-link' => 'w:ku:Nermalava azad',
 	'wm-license-gfdl-1.2-and-later' => "Ev wêneya di bin '''[[{{int:wm-license-gfdl-wiki-link}}|lîsensa GNU ji tiştên azad ra]]''' hate barkirin.
-Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên azad ra, versiyon 1.2 ya versiyonekê kevintir, belavkirin ji [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.",
+Kopîkirin, belavkirin û/ya xeyrandin di bin qebûlkirinên GNU ji tiştên azad ra, versiyon 1.2 ya versiyonekê kevintir, belavkirin ji [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], tê qebûlkirin.", # Fuzzy
 );
 
 /** Kurdish (Latin script) (Kurdî (latînî)‎)
@@ -6891,13 +6887,6 @@ $messages['nn'] = array(
 	'wm-license-self-multiple-licenses' => 'Eg, opphavspersonen til verket, publiserer det hermed under desse lisensane:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisensar:',
 	'wm-license-self-multiple-licenses-select' => 'Du kan velje den lisensen du sjølv tykkjer er best.',
-);
-
-/** Norwegian (bokmål)‬ (‪norsk (bokmål)‬) */
-$messages['no'] = array(
-	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:no:United States Air Force',
-	'wm-license-pd-usgov-military-army-wiki-link' => 'w:no:United States Army',
-	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:no:United States Navy',
 );
 
 /** Novial (Novial)
@@ -8422,19 +8411,6 @@ $messages['si'] = array(
 	'wm-license-self-multiple-licenses-select' => 'ඔබට අභිමත වරපත ඔබ විසින් තෝරාගත හැක.',
 );
 
-/** Simple English (Simple English) */
-$messages['simple'] = array(
-	'wm-license-fsf-wiki-link' => 'w:simple:Free Software Foundation',
-	'wm-license-free-software-wiki-link' => 'w:simple:Free software',
-	'wm-license-gfdl-wiki-link' => 'w:simple:GNU Free Documentation License',
-	'wm-license-gpl-wiki-link' => 'w:simple:General Public License',
-	'wm-license-pd-usgov-wiki-link' => 'w:simple:Federal government of the United States',
-	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:simple:United States Air Force',
-	'wm-license-pd-usgov-military-army-wiki-link' => 'w:simple:United States Army',
-	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:simple:United States Navy',
-	'wm-license-pd-wiki-link' => 'w:simple:Public domain',
-);
-
 /** Slovak (slovenčina)
  * @author Diebuche
  * @author Helix84
@@ -8703,10 +8679,13 @@ $messages['sq'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Ju mund të zgjidhni licensën e zgjedhjes suaj.',
 );
 
-/** Serbian (Српски / Srpski)
+/** Serbian (српски / srpski)
+ * @author Micki
+ * @author Milicevic01
  * @author Multichill
  */
 $messages['sr'] = array(
+	'wm-license-attribution-with-author-text' => "Носилац ауторског права над овом датотеком, $1, дозвољава свакоме да је користи '''у било које сврхе, уз услов''' да се носилац ауторског права прописно наведе. Даља дистрибуција, изведени радови, комерцијална употреба и све остале употребе су дозвољене.",
 	'wm-license-creator-alternative-names' => 'Псеудоними',
 	'wm-license-creator-description' => 'Опис',
 	'wm-license-creator-date-of-birth-and-death' => 'Датум рођења/смрти',
@@ -8715,7 +8694,6 @@ $messages['sr'] = array(
 	'wm-license-creator-work-location' => 'Место рада',
 	'wm-license-fsf-wiki-link' => 'w:sr:Задужбина за слободни софтвер',
 	'wm-license-free-software-wiki-link' => 'w:sr:Слободни софтвер',
-	'wm-license-gfdl-1.2-and-later' => "Постоји дозвола да се копира, дистрибуира и/или мења овај документ под условима '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-ове Лиценце за слободну документацију]]''', верзије 1.2 или било које новије верзије коју објави ''Задужбина за слободни софтвер''; без непроменљивих одељака и без текста на насловној и/или задњој страни. Подлеже и општем одрицању.",
 	'wm-license-gfdl-wiki-link' => 'w:sr:ГНУ-ова лиценца за слободну документацију',
 	'wm-license-gpl-wiki-link' => 'w:sr:ГНУ-ова општа јавна лиценца',
 	'wm-license-information-description' => 'Опис',
@@ -9272,7 +9250,8 @@ $messages['tet'] = array(
 	'wm-license-information-author' => 'Autór',
 );
 
-/** Tajik (Тоҷикӣ) */
+/** Tajik (тоҷикӣ)
+ */
 $messages['tg'] = array(
 	'wm-license-free-software-wiki-link' => 'w:tg:Барномаҳои озод',
 );
@@ -9636,7 +9615,8 @@ $messages['tru'] = array(
 	'wm-license-book-language' => 'Leşono',
 );
 
-/** Tatar (Татарча/Tatarça) */
+/** Tatar (татарча/tatarça)
+ */
 $messages['tt'] = array(
 	'wm-license-gfdl-wiki-link' => 'w:tt:GNU/İrekle İstälek Röxsätnämäse',
 );
@@ -10371,7 +10351,7 @@ $messages['zh'] = array(
 	'wm-license-artwork-title' => '标题',
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
-	'wm-license-gfdl-1.2-and-later' => "你被授权遵循自由软件基金会发行的无固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版或任一后续版本条款，复制、分发和/或修改本文件。协议副本包含在题为“ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU自由文件授权协议文本”的部分中]]''。",
+	'wm-license-gfdl-1.2-and-later' => "你被授权遵循自由软件基金会发行的无固定段落、封面文字和封底文字的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版或任一后续版本条款，复制、分发和/或修改本文件。协议副本包含在题为“ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU自由文件授权协议文本”的部分中]]''。", # Fuzzy
 	'wm-license-gfdl-wiki-link' => 'w:zh:GNU自由文件许可协议',
 	'wm-license-gpl-wiki-link' => 'w:zh:GNU通用公共许可证',
 	'wm-license-lgpl-wiki-link' => 'w:zh:GNU宽通用公共许可证',
@@ -10381,13 +10361,6 @@ $messages['zh'] = array(
 	'wm-license-pd-usgov-military-army-wiki-link' => 'w:zh:美国陆军',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:zh:美國海軍',
 	'wm-license-pd-wiki-link' => 'w:zh:公有领域',
-);
-
-/** Classical Chinese (文言)
- * @author Xiaomingyan
- */
-$messages['zh-classical'] = array(
-	'wm-license-gfdl-wiki-link' => 'w:zh-classical:吉恩游自由文檔許可協議',
 );
 
 /** Simplified Chinese (中文（简体）‎)
@@ -10584,30 +10557,17 @@ $messages['zh-hant'] = array(
 	'wm-license-self-multiple-licenses-select' => '您可以選擇您需要的協議使用。',
 );
 
-/** Chinese (Hong Kong) (‪中文(香港)‬)
+/** Chinese (Hong Kong) (中文（香港）‎)
  * @author Mark85296341
  */
 $messages['zh-hk'] = array(
 	'wm-license-cecill-text' => '本作品是一個[[{{int:wm-license-free-software-wiki-link}}|自由軟件]]，你可以在[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]授權許可條款下對其重製或修改。CeCILL授權許可條款可以在[{{int:wm-license-cecill-full-link}} www.cecill.info]找到。',
 	'wm-license-gfdl-1.2-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.2 版或任一後續版本條款，複製、分發和/或修改本檔案。協議副本包含在題為「[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]」的部分中。",
 	'wm-license-gfdl-1.2-only' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.2 版條款，複製、分發和/或修改本檔案。協議副本包含在題為「[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]」的部分中。",
-	'wm-license-gfdl-1.3-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.3 版或任一後續版本條款，複製、分發和/或修改本檔案。協議副本包含在標題為「[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]]」的部分中。",
+	'wm-license-gfdl-1.3-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.3 版或任一後續版本條款，複製、分發和/或修改本檔案。協議副本包含在標題為「[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]]」的部分中。", # Fuzzy
 	'wm-license-gfdl-1.3-only' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.3 版本條款 (不包括後續條款)，複製、分發和/或修改本檔案。協議副本包含在標題為「[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]」的部分中。",
 	'wm-license-gpl-text' => "本作品為[[{{int:wm-license-free-software-wiki-link}}|自由軟件]]；您可依據[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]所發表的 '''[[{{int:wm-license-gpl-wiki-link}}|GNU 通用公共許可證]]'''，就本作品再為發布與／或修改；無論您依據的是本授權的第二版或（您自行選擇的）任一日後發行的版本。本作品是基於使用目的而加以發布，然而'''不負任何擔保責任'''；亦無對'''適售性'''或'''特定目的適用性'''所為的默示性擔保。詳情請參照 GNU 通用公共許可證[{{int:wm-license-gpl-2-full-link}} 第二版]和[{{int:wm-license-gpl-3-full-link}} 第三版]。",
 	'wm-license-lgpl-text' => "本作品為[[{{int:wm-license-free-software-wiki-link}}|自由軟件]]；您可依據[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]所發表的 '''[[{{int:wm-license-lgpl-wiki-link}}|GNU 較寬鬆公共許可證]]'''，就本作品再為發布與／或修改；無論您依據的是本許可證的 2.1 版或（您自行選擇的）任一日後發行的版本。本作品是基於使用目的而加以發布，然而'''不負任何擔保責任'''；亦無對'''適售性'''或'''特定目的適用性'''所為的默示性擔保。詳情請參照 GNU 較寬鬆公共許可證[{{int:wm-license-lgpl-2.1-full-link}} 2.1 版]和[{{int:wm-license-lgpl-3-full-link}} 第 3 版]。",
-);
-
-/** Bân-lâm-gú (Bân-lâm-gú) */
-$messages['zh-min-nan'] = array(
-	'wm-license-free-software-wiki-link' => 'w:zh-min-nan:Chū-iû nńg-thé',
-	'wm-license-gfdl-wiki-link' => 'w:zh-min-nan:GNU Chū-iû Bûn-kiāⁿ Hí-khó-su',
-);
-
-/** Cantonese (粵語) */
-$messages['zh-yue'] = array(
-	'wm-license-fsf-wiki-link' => 'w:zh-yue:自由軟件基金會',
-	'wm-license-free-software-wiki-link' => 'w:zh-yue:自由軟件',
-	'wm-license-gfdl-wiki-link' => 'w:zh-yue:GFDL',
 );
 
 /** Zulu (isiZulu)
