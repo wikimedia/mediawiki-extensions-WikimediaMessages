@@ -1054,6 +1054,7 @@ $messages['arc'] = array(
 ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
 	'wikimedia-copyrightwarning' => 'ܒܟܒܫܬܐ ܕܬܪܘܩܬܐ "{{int:savearticle}}" ܐܘܝܘ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_Use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܦܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ :ܢܣܒܬܐ-ܦܣܣܐ ܒܛܘܣܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܒܦܣܣܐ ܕGNU ܠܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
 ܐܘܝܘ ܐܢܬ ܕܫܘܡܠܝܬܝܠܗ̇ ܒܟܘܢܝܐ ܒܓܘ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ ܒܝܕ hyperlink ܐܘ URL.',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ܥܕܪ ܠܝ ܒܓܘܒܝܐ)]]',
 );
 
 /** Mapuche (mapudungun)
@@ -3086,6 +3087,8 @@ $messages['cy'] = array(
 	'group-steward-member' => 'stiward',
 	'group-sysadmin' => 'Gweinyddwyr y system',
 	'group-sysadmin-member' => 'gweinyddwr y system',
+	'group-global-ipblock-exempt' => 'Wedi eu heithrio rhag blocio IP ar wicis ar y cyd',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|wedi ei eithrio rhag blocio IP ar wicis ar y cyd}}',
 	'group-translationadmin' => 'Gweinyddwyr y cyfieithiadau',
 	'group-translationadmin-member' => '{{GENDER:$1|gweinyddwr y cyfieithiadau}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Gweinyddwyr y cyfieithiadau',
@@ -3100,12 +3103,21 @@ $messages['cy'] = array(
 	'wikimedia-copyright' => 'Rhoddir testun y dudalen ar gael ar delerau\'r drwydded <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>;
 gall fod telerau ychwanegol yn perthyn i\'r testun.
 Gweler <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Telerau Defnyddio\'r Drwydded</a> am fanylion pellach.',
+	'wikidata-copyright' => 'Mae\'r holl data strwythuredig yn y prif barth a\'r parth nodwedd ar gael yn ôl termau\'r drwydded <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Deffiniad y Drwydded Creative Commons CC0">Creative Commons CC0</a>;
+mae testun yn y parthau eraill ar gael yn ôl termau\'r drwydded <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Diffiniad y Drwydded Creative Commons Attribution/Share-Alike">Creative Commons Attribution/Share-Alike</a>;
+gall termau ychwanegol fod yn weithredol.
+Gweler y <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Termau Defnyddio Sefydliad Wikimedia">Termau Defnyddio</a> am fanylion.',
+	'wikidata-shortcopyrightwarning' => 'Wrth bwyso ar "cadwer", rydych yn derbyn y [https://wikimediafoundation.org/wiki/Terms_of_Use telerau defnyddio], ac yn cytuno\'n ddi-droi-nôl i ryddhau eich cyfraniad gyda  [https://creativecommons.org/publicdomain/zero/1.0/ thrwydded CC0] arno.',
 	'wikimedia-copyrightwarning' => "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a'r [//www.gnu.org/copyleft/fdl.html GFDL].
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
+	'upload-more-photos-of-this-monument' => "Uwchlwytho rhagor o luniau o'r gofeb hon",
+	'extdist-branch-master' => 'pen-fersiwn (y fersiwn datblygu diweddaraf)',
 	'extdist-branch-REL1_21' => '1.21 (y fersiwn MediaWiki safadwy diweddaraf)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Polisi_enwi_cyfrifon',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(cymorth wrth ddewis enw)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Ymholi am gyfri',
 	'createacct-imgcaptcha-help' => 'Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]',
 );
