@@ -8204,6 +8204,8 @@ $messages['krc'] = array(
 	'shared-repo-name-shared' => 'Викигёзен',
 	'wikimedia-copyright' => 'Текст, <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike лицензияны</a> шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Хайырланыу шартла</a>.',
 	'wikimedia-copyrightwarning' => 'Кесигизни тюрлендириулеригизни сакъласагъыз, [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [//www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [//wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].', # Fuzzy
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(сайлауда болуш)]]',
+	'createacct-imgcaptcha-help' => 'Суратны кёрелмеймисе? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтха соруу бер]]',
 );
 
 /** Kinaray-a (Kinaray-a)
@@ -10042,6 +10044,7 @@ $messages['nap'] = array(
  * @author Danmichaelo
  * @author Event
  * @author Finnrind
+ * @author Haakon K
  * @author Laaknor
  * @author Nghtwlkr
  * @author Stigmj
@@ -10158,7 +10161,7 @@ $messages['nb'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
 	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
-	'wikimedia-copyrightwarning' => 'Ved å trykke på "{{int:savearticle}}"-knappen, aksepterer du [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
+	'wikimedia-copyrightwarning' => 'Ved å trykke på «{{int:savearticle}}»-knappen, aksepterer du [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte hovedsiden.',
 	'createacct-helpusername-url' => '{{ns:Help}}:Logge_inn#Brukernavn', # Fuzzy
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velge)]]',
@@ -10225,7 +10228,7 @@ $messages['nds'] = array(
  */
 $messages['nds-nl'] = array(
 	'wikimediamessages-desc' => 'Systeemteksten veur Wikimedia',
-	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=nds-nl',
+	'sitesupport-url' => 'https://donate.wikimedia.org/',
 	'sitesupport' => 'Steun {{SITENAME}}',
 	'tooltip-n-sitesupport' => 'Gef oons geald',
 	'group-abusefilter' => 'misbruukfilterredakteuren',
