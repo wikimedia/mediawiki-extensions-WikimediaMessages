@@ -480,9 +480,7 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([http://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([http://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
 {{Identical/Wikimedia-licensing}}',
-
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
-
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
@@ -2711,17 +2709,22 @@ $messages['cdo'] = array(
 $messages['ce'] = array(
 	'sitesupport' => 'Википедин гӀо дар',
 	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
-	'group-accountcreator' => 'Дlавазвалар кхуллурш',
-	'grouppage-accountcreator' => '{{ns:project}}:Дlавазвалар кхуллурш',
+	'group-accountcreator' => 'Декъашхойн дӀаяздарш кхуллурш',
+	'grouppage-accountcreator' => '{{ns:project}}:Декъашхойн дӀаяздарш кхуллурш',
 	'group-confirmed' => 'Тlелаьцболу декъашхой',
 	'group-flood' => 'Декъашхой-шаболххой',
 	'group-flood-member' => 'декъашхой-шаболххой', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Декъашхой-шаболххой',
+	'group-import' => 'Импорт ерш',
+	'grouppage-import' => '{{ns:project}}:Импорт ерш',
 	'group-ipblock-exempt' => 'IP-сацор юкъарадоккху',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|юкъараваккхар/яккхар IP-блоктохаршана}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Юкъараваккхар/яккхар IP-блоктохаршана',
+	'group-transwiki' => 'Викиюкъахь-импорт ерш',
+	'grouppage-transwiki' => '{{ns:project}}:Викиюкъахь-импорт ерш',
 	'group-Global_bot' => 'Масхьара шаболххой',
 	'group-Global_bot-member' => 'масхьара шаболххо', # Fuzzy
+	'group-steward' => 'Стюардхой',
 	'shared-repo-name-shared' => 'ВикидӀайуьллуче',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [//www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
@@ -3440,6 +3443,7 @@ Siehe die <a href="//wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzun
 	'wikidata-shortcopyrightwarning' => 'Durch Klicken auf „Speichern“ stimmst du den [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Beitrags unter der [https://creativecommons.org/publicdomain/zero/1.0/deed.de CC0-Lizenz] zu.',
 	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten, die auf dieses Objekt verlinkt sind',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
@@ -13210,11 +13214,13 @@ $messages['sn'] = array(
 );
 
 /** Somali (Soomaaliga)
+ * @author Abshirdheere
  * @author Mimursal
  */
 $messages['so'] = array(
 	'sitesupport' => 'Tabarucid',
 	'tooltip-n-sitesupport' => 'Nacaawi',
+	'createacct-imgcaptcha-help' => 'Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]',
 );
 
 /** Albanian (shqip)
