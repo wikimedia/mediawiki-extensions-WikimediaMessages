@@ -1644,6 +1644,7 @@ $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
 	'wm-license-artwork-source' => 'Хьост/суьрташдохург',
 	'wm-license-book-language' => 'Мотт',
+	'wm-license-book-page-overview' => 'АгӀоне хьажар',
 	'wm-license-creator-description' => 'Цуьнах лаьцна',
 	'wm-license-information-description' => 'Цуьнах лаьцна',
 	'wm-license-information-source' => 'Хьост',
@@ -8739,6 +8740,7 @@ $messages['sr'] = array(
  */
 $messages['sr-ec'] = array(
 	'wikimedialicensetexts-desc' => 'Поруке за лиценце на Викимедији',
+	'wm-license-attribution-with-author-text' => "Носилац ауторског права над овом датотеком, $1, дозвољава свакоме да је користи '''у било које сврхе, уз услов''' да се носилац ауторског права прописно наведе. Даља дистрибуција, изведени радови, комерцијална употреба и све остале употребе су дозвољене.",
 	'wm-license-artwork-artist' => 'Уметник',
 	'wm-license-artwork-title' => 'Наслов',
 	'wm-license-artwork-medium' => 'Техника',
@@ -8828,6 +8830,7 @@ $messages['sr-ec'] = array(
  */
 $messages['sr-el'] = array(
 	'wikimedialicensetexts-desc' => 'Vikimedijine poruke za licence',
+	'wm-license-attribution-with-author-text' => "Nosilac autorskog prava nad ovom datotekom, $1, dozvoljava svakome da je koristi '''u bilo koje svrhe, uz uslov''' da se nosilac autorskog prava propisno navede. Dalja distribucija, izvedeni radovi, komercijalna upotreba i sve ostale upotrebe su dozvoljene.",
 	'wm-license-artwork-artist' => 'Umetnik',
 	'wm-license-artwork-title' => 'Naslov',
 	'wm-license-artwork-medium' => 'Tehnika',

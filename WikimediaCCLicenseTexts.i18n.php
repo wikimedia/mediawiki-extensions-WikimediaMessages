@@ -14721,6 +14721,7 @@ $messages['sr'] = array(
 );
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
+ * @author Milicevic01
  * @author Rancher
  * @author Михајло Анђелковић
  */
@@ -14911,6 +14912,7 @@ $messages['sr-ec'] = array(
 	'wm-license-cc-free-to-remix-text' => 'да прерадите дело',
 	'wm-license-cc-conditions' => 'Под следећим условима:',
 	'wm-license-cc-conditions-attribution-header' => 'ауторство',
+	'wm-license-cc-conditions-attribution-text' => 'Морате да наведете име изворног аутора на начин који је одређен од стране изворног аутора или даваоца лиценце (али не тако што ћете сугерисати да вас подржава или одобрава ваше коришћење дела).',
 	'wm-license-cc-conditions-share_alike-header' => 'делити под истим условима',
 	'wm-license-cc-conditions-share_alike-text' => 'Ако измените, преобразите или доградите ово дело, морате га објавити само под истом или сличном лиценцом.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.sr',
@@ -14918,6 +14920,7 @@ $messages['sr-ec'] = array(
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
+ * @author Milicevic01
  */
 $messages['sr-el'] = array(
 	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
@@ -15106,6 +15109,7 @@ $messages['sr-el'] = array(
 	'wm-license-cc-free-to-remix-text' => 'da prilagođavate rad',
 	'wm-license-cc-conditions' => 'Pod sledećim uslovima:',
 	'wm-license-cc-conditions-attribution-header' => 'autorstvo',
+	'wm-license-cc-conditions-attribution-text' => 'Morate da navedete ime izvornog autora na način koji je određen od strane izvornog autora ili davaoca licence (ali ne tako što ćete sugerisati da vas podržava ili odobrava vaše korišćenje dela).',
 	'wm-license-cc-conditions-share_alike-header' => 'deliti pod istim uslovima',
 	'wm-license-cc-conditions-share_alike-text' => 'Ako izmenite, preobrazite ili dogradite ovo delo, morate ga objaviti samo pod istom ili sličnom licencom.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.sr',
