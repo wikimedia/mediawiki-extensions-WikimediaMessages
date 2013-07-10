@@ -2864,10 +2864,10 @@ $messages['cs'] = array(
  * @author ОйЛ
  */
 $messages['cu'] = array(
-	'wm-license-cc-by-1.0-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] положєно ѥ́стъ',
-	'wm-license-cc-by-1.0-fi-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] положєно ѥ́стъ',
-	'wm-license-cc-by-1.0-il-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] положєно ѥ́стъ',
-	'wm-license-cc-by-1.0-nl-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands] положєно ѥ́стъ',
+	'wm-license-cc-by-1.0-text' => 'сѥ дѣло подъ прощєниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] положєно ѥстъ',
+	'wm-license-cc-by-1.0-fi-text' => 'сѥ дѣло подъ прощєниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] положєно ѥстъ',
+	'wm-license-cc-by-1.0-il-text' => 'сѥ дѣло подъ прощєниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] положєно ѥстъ',
+	'wm-license-cc-by-1.0-nl-text' => 'сѥ дѣло подъ прощєниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands] положєно ѥстъ',
 	'wm-license-cc-by-2.0-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic] положєно ѥ́стъ',
 	'wm-license-cc-by-2.0-at-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria] положєно ѥ́стъ',
 	'wm-license-cc-by-2.0-au-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/au/ Attribution 2.0 Australia] положєно ѥ́стъ',
@@ -3022,7 +3022,7 @@ $messages['cu'] = array(
 	'wm-license-cc-sa-1.0-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/ Share Alike 1.0 Generic] положєно ѥ́стъ',
 	'wm-license-cc-sa-1.0-fi-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/ Share Alike 1.0 Finland] положєно ѥ́стъ',
 	'wm-license-cc-sa-1.0-nl-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/ Share Alike 1.0 Netherlands] положєно ѥ́стъ',
-	'wm-license-cc-sa-2.0-jp-text' => 'сѥ́ дѣ́ло по́дъ прощє́ниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/ Share Alike 2.0 Japan] положєно ѥ́стъ',
+	'wm-license-cc-sa-2.0-jp-text' => 'сѥ дѣло подъ прощєниѥмь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/ Share Alike 2.0 Japan] положєно ѥстъ',
 	'wm-license-cc-free' => 'тꙑ можєши :',
 );
 

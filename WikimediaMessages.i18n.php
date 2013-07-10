@@ -5221,6 +5221,7 @@ Luke bi a <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia
 	'wikidata-shortcopyrightwarning' => 'Wan dü üüb ""Seekre" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.',
 	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [//wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [//frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [//frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidjen, huar detdiar objekt üüb ferwiset.',
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dü stemest tu, dat at Wikimedia Foundation mä di kontakt apnem mut. Dü stemest tu, dat din dooten uun Ameerikoo efter üüs bestemangen tu [https://wikimediafoundation.org/wiki/Privacy_policy dootenseekerhaid] seekert wurd mut.',
 	'upload-more-photos-of-this-monument' => 'Muar bilen faan detdiar seenksteed huuchsjüür',
@@ -7387,6 +7388,7 @@ possono applicarsi ulteriori termini.
 Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedia Foundation Terms of Use">Condizioni d\'uso</a> per i dettagli.',
 	'wikidata-shortcopyrightwarning' => 'Facendo clic su "Salva", si accettano le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
+	'wikibase-sitelinks-wikivoyage' => 'Pagine di Wikivoyage collegate a questo elemento',
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
@@ -12157,6 +12159,7 @@ termine addizionale ponne essere applicate.
 	'wikidata-shortcopyrightwarning' => "Cazzanne \"reggìstre\", tu accette le [https://wikimediafoundation.org/wiki/Terms_of_Use termine d'ause], e tu irrevocabbilmende accette de relascià 'u condrebbute tune sotte 'a [https://creativecommons.org/publicdomain/zero/1.0/ licenze CC0].",
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
+	'wikibase-sitelinks-wikivoyage' => 'Pàggene de Uicchivoyage collegate a sta vôsce',
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	'wikimedia-translationnotifications-signup-legal' => "Tu sì d'accorde ca danne a Wikimedia Foundation ste 'mbormaziune nuje te putime condattà riguarde a le traduziune o a otre argomende collegate a le movimende de Uicchimedia ca penzeme ca ponne essere inderessande pe tè. Tu sì d'accorde ca le date tune ponne essere stipate jndr'à le State Aunìte d'Americhe e so suggette a le nostre [https://wikimediafoundation.org/wiki/Privacy_policy regole d'a privacy].",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
