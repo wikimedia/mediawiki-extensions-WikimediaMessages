@@ -1421,6 +1421,7 @@ Consulte les <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikime
 	'wikidata-shortcopyrightwarning' => 'Calcando en "Guardar", aceuta les [https://wikimediafoundation.org/wiki/Terms_of_Use/ast términos d\'usu] y aceuta lliberar irrevocablemente la so collaboración baxo la [https://creativecommons.org/publicdomain/zero/1.0/deed.ast llicencia CC0].',
 	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [//wikimediafoundation.org/wiki/Terms_of_Use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [//creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [//www.gnu.org/copyleft/fdl.html GFDL].
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
+	'wikibase-sitelinks-wikivoyage' => 'Páxines de Wikivoyage enllazaes con esti elementu',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
@@ -2785,6 +2786,9 @@ $messages['ckb'] = array(
 	'group-ipblock-exempt' => 'ھەڵاواردەکان لە بەربەستنی ئایپی',
 	'group-ipblock-exempt-member' => 'ھەڵاواردن لە بەربەستنی ئایپی',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ھەڵاواردەکان لە بەربەستنی ئایپی',
+	'group-rollbacker' => 'گەڕێنەرەوەکان',
+	'group-rollbacker-member' => '{{GENDER:$1|گەڕێنەرەوە}}',
+	'grouppage-rollbacker' => '{{ns:project}}:گەڕێنەرەوەکان',
 	'group-Staff' => 'کارمەندان',
 	'group-Staff-member' => 'کارمەند',
 	'group-steward' => 'ستیواردەکان',
@@ -5572,6 +5576,7 @@ Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl" title="Term
 	'wikidata-shortcopyrightwarning' => 'Ao premer en "Gardar", acepta os [https://wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa achega baixo a [https://creativecommons.org/publicdomain/zero/1.0/deed.gl licenza CC0].',
 	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
 Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
+	'wikibase-sitelinks-wikivoyage' => 'Páxinas do Wikivoyage con ligazóns cara a este elemento',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
 	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
@@ -9398,6 +9403,7 @@ $messages['mk'] = array(
  * @author Meno25
  * @author Nemo bis
  * @author Praveenp
+ * @author Raghith
  * @author Sadik Khalid
  * @author ShajiA
  * @author Shijualex
@@ -9519,7 +9525,7 @@ $messages['ml'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|പരിഭാഷാ കാര്യനിർവാഹകൻ|പരിഭാഷാ കാര്യനിർവാഹക}}',
 	'grouppage-translationadmin' => '{{ns:project}}:പരിഭാഷാ കാര്യനിർവാഹകർ',
 	'group-centralnoticeadmin' => 'കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകർ',
-	'group-centralnoticeadmin-member' => '{{GENDER:$1|കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകൻ|കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹക}}',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകൻ}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:കേന്ദ്രീകൃത അറിയിപ്പ് കാര്യനിർവ്വാഹകർ',
 	'group-coder' => 'കോഡേഴ്സ്',
 	'group-coder-member' => '{{GENDER:$1|കോഡർ}}',
