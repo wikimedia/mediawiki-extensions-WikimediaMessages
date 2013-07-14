@@ -6153,9 +6153,9 @@ $messages['hi'] = array(
 	'group-bigexport' => 'बड़े निर्यातक',
 	'group-bigexport-member' => '{{GENDER:$1|बड़ा निर्यातक}}',
 	'grouppage-bigexport' => '{{ns:project}}:बड़े निर्यातक',
-	'group-botadmin' => 'बट, प्रबन्धक अधिकार के साथ',
-	'group-botadmin-member' => '{{GENDER:$1|बट प्रबन्धक अधिकार सहित}}',
-	'grouppage-botadmin' => '{{ns:project}}:बट प्रबन्धक अधिकार सहित',
+	'group-botadmin' => 'प्रबन्धक अधिकारों वाले बॉट',
+	'group-botadmin-member' => '{{GENDER:$1|प्रबन्धक अधिकारों वाले बॉट}}',
+	'grouppage-botadmin' => '{{ns:project}}:प्रबन्धक अधिकारों वाले बॉट',
 	'group-confirmed' => 'पुष्टट सदस्य',
 	'group-confirmed-member' => '{{GENDER:$1|पुष्ट सदस्य}}',
 	'grouppage-confirmed' => '{{ns:project}}:पुष्ट सदस्य',
@@ -6167,10 +6167,10 @@ $messages['hi'] = array(
 	'grouppage-eliminator' => '{{ns:project}}:निरसक',
 	'group-filemover' => 'फ़ाइल मूवर्स',
 	'group-filemover-member' => '{{GENDER:$1|फ़ाइल मुवर}}',
-	'grouppage-filemover' => '{{ns:project}}:छबि मूवर्स',
-	'group-flood' => 'बट सदस्य',
-	'group-flood-member' => '{{GENDER:$1|बट सदस्य}}',
-	'grouppage-flood' => '{{ns:project}}:बट सदस्य',
+	'grouppage-filemover' => '{{ns:project}}:फ़ाइल मूवर्स',
+	'group-flood' => 'बॉट सदस्य',
+	'group-flood-member' => '{{GENDER:$1|बॉट सदस्य}}',
+	'grouppage-flood' => '{{ns:project}}:बॉट सदस्य',
 	'group-founder' => 'संस्थापक',
 	'group-founder-member' => '{{GENDER:$1|संस्थापक}}',
 	'grouppage-founder' => '{{ns:project}}:संस्थापक',
@@ -6214,6 +6214,8 @@ $messages['hi'] = array(
 	'group-steward-member' => '{{GENDER:$1|सटीवर्ड}}',
 	'group-sysadmin' => 'प्रणाली प्रशासक',
 	'group-sysadmin-member' => '{{GENDER:$1|सिष्टम प्रबन्धक}}',
+	'group-Indic_Bots' => 'इंडिक बॉट्स',
+	'group-Indic_Bots-member' => '{{GENDER:$1|इंडिक बॉट}}',
 	'group-translationadmin' => 'अनुवाद प्रबन्धक',
 	'group-translationadmin-member' => '{{GENDER:$1|अनुवाद प्रबन्धक}}',
 	'grouppage-translationadmin' => '{{ns:project}}:अनुवाद प्रबन्धक',
@@ -8186,11 +8188,11 @@ $messages['ko'] = array(
 	'group-inactive-member' => '{{GENDER:$1|활동하지 않는 사용자}}',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자',
 	'shared-repo-name-shared' => '위키미디어 공용',
-	'wikimedia-copyright' => '모든 문서는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+	'wikimedia-copyright' => '내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ko">이용 약관</a>을 참고하십시오.',
 	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="//creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고
-다른 이름공간의 텍스트는 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+다른 이름공간의 내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ko" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
 	'wikidata-shortcopyrightwarning' => '"저장"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
@@ -8565,6 +8567,7 @@ $messages['lb'] = array(
 Kuckt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
 	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [//wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [//www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
 Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
@@ -13434,6 +13437,7 @@ $messages['sr-ec'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Изузетак од ИП блокирања',
 	'group-patroller' => 'Патролери',
 	'group-patroller-member' => '{{GENDER:$1|патролер|патролерка|патролер}}',
+	'grouppage-patroller' => '{{ns:project}}:Патролери',
 	'group-researcher' => 'Истраживачи',
 	'group-researcher-member' => '{{GENDER:$1|истраживач|истраживачица|истраживач}}',
 	'grouppage-researcher' => '{{ns:project}}:Истраживачи',
@@ -13482,9 +13486,15 @@ $messages['sr-ec'] = array(
 	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
 додатни услови се могу применити.
 Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
+	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].',
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
+	'extdist-branch-REL1_21' => '1.21 (најновија стабилна верзија Медијавикија)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Кориснички_налог',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Поднесите захтев за отварање налога',
+	'createacct-imgcaptcha-help' => 'Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Поднесите захтев за отварање налога]]',
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
@@ -13496,7 +13506,7 @@ $messages['sr-ec'] = array(
 $messages['sr-el'] = array(
 	'wikimediamessages-desc' => 'Poruke specifične za Vikimediju.',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sr-el',
-	'sitesupport' => 'Donacije',
+	'sitesupport' => 'Novčani prilozi',
 	'tooltip-n-sitesupport' => 'podrži nas',
 	'specialpages-group-contribution' => 'Doprinosi/Prikupljanje sredstava',
 	'nstab-creator' => 'Tvorac',
@@ -16180,6 +16190,7 @@ $messages['zea'] = array(
 /** Simplified Chinese (中文（简体）‎)
  * @author Anakmalaysia
  * @author Bencmq
+ * @author Byfserag
  * @author Gaoxuewei
  * @author Hydra
  * @author Jimmy xu wrk
@@ -16324,11 +16335,15 @@ $messages['zh-hans'] = array(
 参见<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
 	'wikidata-shortcopyrightwarning' => '点击“保存”表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并且您不可撤销地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授权]发布您的贡献。',
 	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地发表你的贡献。你认同使用超链接或URL足以作为知识共享许可协议的署名。',
+	'wikibase-sitelinks-wikivoyage' => '链接到维基旅游项目的页面列表',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
 	'extdist-branch-master' => '主干(master)（最新开发版本）',
 	'extdist-branch-REL1_21' => '1.21（最新稳定版MediaWiki）',
+	'createacct-helpusername-url' => '{{ns:Project}}:用户名',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(帮我选择)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:账号请求',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
