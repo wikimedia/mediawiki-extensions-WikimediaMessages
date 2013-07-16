@@ -1821,9 +1821,10 @@ $messages['bcc'] = array(
 
 /** Bikol Central (Bikol Central)
  * @author Filipinayzd
+ * @author Geopoet
  */
 $messages['bcl'] = array(
-	'sitesupport' => 'Mga donasyon',
+	'sitesupport' => 'Magdonar',
 	'tooltip-n-sitesupport' => 'Suportaran kami',
 );
 
@@ -2965,10 +2966,10 @@ $messages['cs'] = array(
 	'group-inactive-member' => 'neaktivní {{GENDER:$1|uživatel|uživatelka|uživatel}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivní uživatelé',
 	'wikimedia-copyright' => 'Text je dostupný pod <a href="//creativecommons.org/licenses/by-sa/3.0/deed.cs">licencí Creative Commons Uveďte autora&nbsp;– Zachovejte licenci</a>, případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="//wikimediafoundation.org/wiki/Podmínky_užití">Podmínky užití</a>.',
-	'wikidata-copyright' => 'Všechna strukturovaná data z hlavního jmenného prostoru a jmenného prostoru Property jsou k dispozici pod licencí <a href="//creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0</a>;
-text v ostatních jmenných prostorech je k dispozici pod licencí <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>;
+	'wikidata-copyright' => 'Všechna strukturovaná data z hlavního jmenného prostoru a jmenného prostoru vlastností jsou k dispozici pod licencí <a href="//creativecommons.org/publicdomain/zero/1.0/deed.cs" title="Definice licence Creative Commons CC0">Creative Commons CC0</a>;
+text v ostatních jmenných prostorech je k dispozici pod licencí <a href="//creativecommons.org/licenses/by-sa/3.0/deed.cs" title="Definice licence Creative Commons Uveďte autora-Zachovejte licenci">Creative Commons Uveďte autora-Zachovejte licenci</a>;
 mohou se vyskytnout další podmínky.
-Pro další detaily vizte <a href="//wikimediafoundation.org/wiki/Terms_of_use/cs">Podmínky užití</a>.',
+Pro další detaily vizte <a href="//wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
 	'wikidata-shortcopyrightwarning' => 'Kliknutím na „uložit“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [//creativecommons.org/licenses/by-sa/3.0/deed.cs Creative Commons Uveďte autora&nbsp;– Zachovejte licenci&nbsp;3.0] a&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
@@ -4483,10 +4484,13 @@ $messages['ext'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Alireza
  * @author Baqeri
+ * @author Calak
  * @author Ebraminio
  * @author Huji
  * @author Ladsgroup
+ * @author Mahdiz
  * @author Mardetanha
  * @author Mjbmr
  * @author Reza1615
@@ -4611,6 +4615,8 @@ $messages['fa'] = array(
 	'group-translationadmin' => 'مدیران ترجمه',
 	'group-translationadmin-member' => '{{GENDER:$1|مدیر ترجمه}}',
 	'grouppage-translationadmin' => '{{ns:project}}:مدیران ترجمه',
+	'group-centralnoticeadmin' => 'مرکز اعلانات مدیران',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:اعلانات مرکزی مدیران',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => '{{GENDER:$1|برنامه‌نویس}}',
 	'group-inactive' => 'کاربران غیرفعال',
@@ -4619,11 +4625,19 @@ $messages['fa'] = array(
 	'shared-repo-name-shared' => 'ویکی‌انبار',
 	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="//creativecommons.org/licenses/by-sa/3.0/">مجوز Creative Commons Attribution/Share-Alike </a> در دسترس است؛ قوانین اضافه‌ای نیز ممکن است اعمال شوند.
 برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.',
+	'wikidata-shortcopyrightwarning' => 'با کلیک کردن برروی "ذخیره"، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می کنید، و همچنین شما موافقت می کنید با حق انتشار مطالب شما تحت اجازه نامه [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
+	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
 	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
 	'wikimedia-translationnotifications-signup-legal' => 'شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید.شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما می‌باشند.',
 	'upload-more-photos-of-this-monument' => 'بارگذاری عکس‌های بیشتری از این بنای تاریخی',
+	'extdist-branch-master' => 'استاد (آخرین نسخهٔ توسعه)',
+	'extdist-branch-REL1_21' => '1.21 (آخرین مدیاویکی پایدار )',
+	'createacct-helpusername-url' => '{{ns:Project}}:سیاست نام کاربری',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}} |(کمک برای انتخاب)]]', # Fuzzy
+	'createacct-captcha-help-url' => '{{ns:Project}}: درخواست یک حساب',
+	'createacct-imgcaptcha-help' => 'تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست یک حساب]]',
 );
 
 /** Fulah (Fulfulde)

@@ -1649,6 +1649,7 @@ $messages['ce'] = array(
 	'wm-license-information-description' => 'Цуьнах лаьцна',
 	'wm-license-information-source' => 'Хьост',
 	'wm-license-information-date' => 'Терахь',
+	'wm-license-pd-wiki-link' => 'w:ce:Юкъараллин хьал',
 );
 
 /** Cebuano (Cebuano)
