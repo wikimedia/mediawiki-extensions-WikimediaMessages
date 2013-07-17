@@ -158,18 +158,22 @@ $messages['qqq'] = array(
 {{Identical|Note}}',
 	'wm-license-artwork-id' => 'Identification number: label "Accession number" at [[Commons:Template:Artwork]]. Field holds museum\'s accession number or some other inventory or identification number used by the parent institution. Often link to the institution database record is also provided.',
 	'wm-license-artwork-source' => 'Label "Source/Photographer" at [[Commons:Template:Artwork]]. Field holds information about source of the file or the photographer. For example it might be website or book name where the image come from, or the name of the photographer that took the picture.',
-	'wm-license-book-edition' => 'Label "Edition" at [[Commons:Template:Book]].',
+	'wm-license-book-edition' => 'Label "Edition" at [[Commons:Template:Book]].
+{{Identical|Edition}}',
 	'wm-license-book-editor' => 'Label "Editor" at [[Commons:Template:Book]].
 {{Identical|Editor}}',
-	'wm-license-book-illustrator' => 'Label "Illustrator" at [[Commons:Template:Book]].',
+	'wm-license-book-illustrator' => 'Label "Illustrator" at [[Commons:Template:Book]].
+{{Identical|Illustrator}}',
 	'wm-license-book-language' => 'Label "Language" at [[Commons:Template:Book]].
 {{Identical|Language}}',
 	'wm-license-book-page-overview' => 'Label "Page overview" at [[Commons:Template:Book]].',
 	'wm-license-book-place-of-publication' => 'Label "Place of publication" at [[Commons:Template:Book]].',
-	'wm-license-book-printer' => 'Label "Printer" at [[Commons:Template:Book]].',
+	'wm-license-book-printer' => 'Label "Printer" at [[Commons:Template:Book]].
+{{Identical|Printer}}',
 	'wm-license-book-publisher' => 'Label "Publisher" at [[Commons:Template:Book]].
 {{Identical|Publisher}}',
-	'wm-license-book-series-title' => 'Label "Series title" at [[Commons:Template:Book]].',
+	'wm-license-book-series-title' => 'Label "Series title" at [[Commons:Template:Book]].
+{{Identical|Series title}}',
 	'wm-license-book-start-this-book' => 'Label "Start this Book" at [[Commons:Template:Book]]. It\'s the label of the link to the first page of the book the user is seeing one image of. [[commons:File:Meyers_b1_s0024.jpg|Example]]
 
 Alternative wording: "The beginning of the book"',
@@ -221,6 +225,7 @@ Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation Licen
 	'wm-license-information-permission' => '{{Identical|Permission}}',
 	'wm-license-information-permission-reusing-link' => '{{optional}}
 Please only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.',
+	'wm-license-information-other-versions' => '{{Identical|Other version}}',
 	'wm-license-lgpl-text' => 'You can peek at [[Commons:Template:LGPL]] for the current translations',
 	'wm-license-lgpl-wiki-link' => '{{optional}}',
 	'wm-license-lgpl-2.1-full-link' => '{{notranslate}}',

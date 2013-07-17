@@ -4616,6 +4616,7 @@ $messages['fa'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|مدیر ترجمه}}',
 	'grouppage-translationadmin' => '{{ns:project}}:مدیران ترجمه',
 	'group-centralnoticeadmin' => 'مرکز اعلانات مدیران',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|مدیرت اطلاع‌رسانی مرکزی}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:اعلانات مرکزی مدیران',
 	'group-coder' => 'برنامه‌نویسان',
 	'group-coder-member' => '{{GENDER:$1|برنامه‌نویس}}',
@@ -4625,6 +4626,10 @@ $messages['fa'] = array(
 	'shared-repo-name-shared' => 'ویکی‌انبار',
 	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="//creativecommons.org/licenses/by-sa/3.0/">مجوز Creative Commons Attribution/Share-Alike </a> در دسترس است؛ قوانین اضافه‌ای نیز ممکن است اعمال شوند.
 برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.',
+	'wikidata-copyright' => 'ساختار همهٔ داده‌ها از فضای نام اصلی و خصوصیت تحت <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">مجوز کریتیو کامنز صفر</a> در دسترس است;
+متن در فضاهای نام دیگر تحت <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است
+شرایط اضافی ممکن است اعمال شود.
+برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
 	'wikidata-shortcopyrightwarning' => 'با کلیک کردن برروی "ذخیره"، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می کنید، و همچنین شما موافقت می کنید با حق انتشار مطالب شما تحت اجازه نامه [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
@@ -4635,7 +4640,7 @@ $messages['fa'] = array(
 	'extdist-branch-master' => 'استاد (آخرین نسخهٔ توسعه)',
 	'extdist-branch-REL1_21' => '1.21 (آخرین مدیاویکی پایدار )',
 	'createacct-helpusername-url' => '{{ns:Project}}:سیاست نام کاربری',
-	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}} |(کمک برای انتخاب)]]', # Fuzzy
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}: درخواست یک حساب',
 	'createacct-imgcaptcha-help' => 'تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست یک حساب]]',
 );
@@ -10051,7 +10056,7 @@ $messages['myv'] = array(
  * @author محک
  */
 $messages['mzn'] = array(
-	'sitesupport' => 'پیل هدائن',
+	'sitesupport' => 'پول هدائن',
 	'wikimedia-copyright' => "کل نوشتارون <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>موجوز Creative Commons Attribution/Share-Alike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
 );
 
@@ -10338,6 +10343,7 @@ t Kan ween dat nog meer veurweerden van toepassing bin.
 Bekiek de <a href="//wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
 	'wikimedia-copyrightwarning' => 'Deur op de knoppe "{{int:savearticle}}" te klikken, stem je in mit de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [//www.gnu.org/copyleft/fdl.html GFDL].
 Je stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon.',
+	'createacct-imgcaptcha-help' => "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebruker an]]",
 );
 
 /** Nepali (नेपाली)
