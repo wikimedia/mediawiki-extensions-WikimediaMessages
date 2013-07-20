@@ -1843,6 +1843,7 @@ $messages['csb'] = array(
  * @author ОйЛ
  */
 $messages['cu'] = array(
+	'wm-license-book-language' => 'ѩꙁꙑкъ',
 	'wm-license-information-author' => 'творьць',
 );
 
