@@ -2970,7 +2970,7 @@ $messages['cs'] = array(
 text v ostatních jmenných prostorech je k dispozici pod licencí <a href="//creativecommons.org/licenses/by-sa/3.0/deed.cs" title="Definice licence Creative Commons Uveďte autora-Zachovejte licenci">Creative Commons Uveďte autora-Zachovejte licenci</a>;
 mohou se vyskytnout další podmínky.
 Pro další detaily vizte <a href="//wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
-	'wikidata-shortcopyrightwarning' => 'Kliknutím na „uložit“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
+	'wikidata-shortcopyrightwarning' => 'Kliknutím na „uložit“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [//creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
@@ -4630,7 +4630,7 @@ $messages['fa'] = array(
 متن در فضاهای نام دیگر تحت <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است
 شرایط اضافی ممکن است اعمال شود.
 برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
-	'wikidata-shortcopyrightwarning' => 'با کلیک کردن برروی "ذخیره"، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می کنید، و همچنین شما موافقت می کنید با حق انتشار مطالب شما تحت اجازه نامه [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
+	'wikidata-shortcopyrightwarning' => 'با کلیک کردن برروی "ذخیره"، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می کنید، و همچنین شما موافقت می کنید با حق انتشار مطالب شما تحت اجازه نامه [https://creativecommons.org/publicdomain/zero/1.0/ CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
@@ -4782,7 +4782,7 @@ $messages['fi'] = array(
 	'group-inactive-member' => '{{GENDER:$1|epäaktiivinen käyttäjä}}',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
-	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "tallenna" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].',
+	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "tallenna" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikibase-sitelinks-wikivoyage' => 'Tähän kohteeseen linkitetyt Wikivoyage-sivut',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
@@ -6103,8 +6103,8 @@ $messages['he'] = array(
 	'group-Indic_Bots-member' => '{{GENDER:$1|בוט הודי}}',
 	'group-New_wikis_importer' => 'מייבאים לאתרי ויקי חדשים',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|מייבא|מייבאת}} לאתרי ויקי חדשים',
-	'group-global-ipblock-exempt' => 'פטורים מחסימת IP גלובלית',
-	'group-global-ipblock-exempt-member' => '{{GENDER:$1|פטור|פטורה}} מחסימת IP גלובלית',
+	'group-global-ipblock-exempt' => 'חסינים מחסימת IP גלובלית',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|חסין|חסינה}} מחסימת IP גלובלית',
 	'group-recursive-export' => 'מבצעי ייצוא רקורסיבי',
 	'group-recursive-export-member' => '{{GENDER:$1|מבצע|מבצעת}} ייצוא רקורסיבי',
 	'group-translationadmin' => 'מנהלי תרגום',
@@ -6121,7 +6121,7 @@ $messages['he'] = array(
 	'shared-repo-name-shared' => 'ויקישיתוף',
 	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="//creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
 	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
-	'wikidata-shortcopyrightwarning' => 'לחיצה על "שמירה" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].',
+	'wikidata-shortcopyrightwarning' => 'לחיצה על "שמירה" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'דפי ויקימסי שמקושרים לפריט הזה',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
@@ -6255,7 +6255,7 @@ $messages['hi'] = array(
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीय सदस्य',
 	'wikimedia-copyright' => 'पाठ <a href="//creativecommons.org/licenses/by-sa/3.0/">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अंतर्गत उपलब्ध है; अतिरिक्त शर्तें लागू हो सकती हैं।
 अधिक जानकारी के लिए <a href="//wikimediafoundation.org/wiki/Terms_of_Use">उपयोग की शर्तें</a> देखें।',
-	'wikidata-shortcopyrightwarning' => '"सहेजें" पर क्लिक करने पर आप [https://wikimediafoundation.org/wiki/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदानों को [https://creativecommons.org/publicdomain/zero/1.0/ CC0 लाइसेंस] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।',
+	'wikidata-shortcopyrightwarning' => '"सहेजें" पर क्लिक करने पर आप [https://wikimediafoundation.org/wiki/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदानों को [https://creativecommons.org/publicdomain/zero/1.0/ CC0 लाइसेंस] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।', # Fuzzy
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" बटन क्लिक करने पर आप [//wikimediafoundation.org/wiki/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदान [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेंस] एवं [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।
 आप यह भी स्वीकार करते हैं कि एक हाइपरलिंक या यू॰आर॰एल क्रियेटिव कॉमन्स लाइसेंस के अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) है।',
 	'cant-delete-main-page' => 'आप प्रधान पृष्ठ को स्थानान्तरित या हटा नहीं सकते ।',
@@ -8224,7 +8224,7 @@ $messages['ko'] = array(
 다른 이름공간의 내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ko" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
-	'wikidata-shortcopyrightwarning' => '"저장"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
+	'wikidata-shortcopyrightwarning' => '"저장"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.', # Fuzzy
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스 하에서 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'wikibase-sitelinks-wikivoyage' => '이 항목으로 링크한 위키여행 문서',
@@ -9577,7 +9577,7 @@ $messages['ml'] = array(
 മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
 അധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.
 കൂടുതൽ വിവരങ്ങൾക്ക് <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
-	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.',
+	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.', # Fuzzy
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [//wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [//creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [//ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്കോ യൂ.ആർ.എല്ലോ മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
 	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
@@ -10315,7 +10315,7 @@ $messages['nds-nl'] = array(
 	'group-ipblock-exempt-member' => '{{GENDER:$1|uutzundering van IP-adresblokkeringen}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Uutzunderingen van IP-adresblokkeringen',
 	'group-patroller' => 'kontroleurs',
-	'group-patroller-member' => 'kontroleur', # Fuzzy
+	'group-patroller-member' => '{{GENDER:$1|kontroleur}}',
 	'group-rollbacker' => 'weerummedreiers',
 	'group-rollbacker-member' => '{{GENDER:$1|weerummedreier}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Weerummedreiers',
@@ -10542,7 +10542,7 @@ Zie de <a href="//wikimediafoundation.org/wiki/Gebruiksvoorwaarden">Gebruiksvoor
 tekst in de andere naamruimten is beschikbaar onder de <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definitie van de licentie Creative Commons Attribution/Share-Alike">licentie Creative Commons Attribution/Share-Alike</a>;
 er kunnen extra voorwaarden van toepassing zijn.
 Zie <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor details.',
-	'wikidata-shortcopyrightwarning' => 'Door te klikken op "Opslaan", gaat u akkoord met de [https://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden], en gaat u onomkeerbaar akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
+	'wikidata-shortcopyrightwarning' => 'Door te klikken op "Opslaan", gaat u akkoord met de [https://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden], en gaat u onomkeerbaar akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/publicdomain/zero/1.0/ CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [//nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'wikibase-sitelinks-wikivoyage' => "Pagina's op Wikivoyage die gekoppeld zijn aan dit item",
@@ -13518,7 +13518,7 @@ $messages['sr-ec'] = array(
 	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
 додатни услови се могу применити.
 Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
-	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].',
+	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
@@ -16365,7 +16365,7 @@ $messages['zh-hans'] = array(
 	'wikidata-copyright' => '所有来自“主要”和“属性”命名空间的结构化数据在<a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知识共享CC0协议</a>下可用；
 其他命名空间中的文本在<a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知识共享 署名-相同方式共享协议">知识共享 署名-相同方式共享协议</a>下可用；附加条款可能适用。
 参见<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
-	'wikidata-shortcopyrightwarning' => '点击“保存”表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并且您不可撤销地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授权]发布您的贡献。',
+	'wikidata-shortcopyrightwarning' => '点击“保存”表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并且您不可撤销地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授权]发布您的贡献。', # Fuzzy
 	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地发表你的贡献。你认同使用超链接或URL足以作为知识共享许可协议的署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接到维基旅游项目的页面列表',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
