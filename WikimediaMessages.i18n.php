@@ -2973,7 +2973,7 @@ $messages['cs'] = array(
 text v ostatních jmenných prostorech je k dispozici pod licencí <a href="//creativecommons.org/licenses/by-sa/3.0/deed.cs" title="Definice licence Creative Commons Uveďte autora-Zachovejte licenci">Creative Commons Uveďte autora-Zachovejte licenci</a>;
 mohou se vyskytnout další podmínky.
 Pro další detaily vizte <a href="//wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
-	'wikidata-shortcopyrightwarning' => 'Kliknutím na „uložit“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [//wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [//creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [//creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
@@ -11630,9 +11630,9 @@ $messages['pt'] = array(
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de tradução',
 	'group-coder' => 'Programadores',
 	'group-coder-member' => '{{GENDER:$1|programador|programadora}}',
-	'group-inactive' => 'Utilizadores inactivos',
+	'group-inactive' => 'Utilizadores inativos',
 	'group-inactive-member' => '{{GENDER:$1|utilizador inativo|utilizadora inativa}}',
-	'grouppage-inactive' => '{{ns:project}}:Utilizadores inactivos',
+	'grouppage-inactive' => '{{ns:project}}:Utilizadores inativos',
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
