@@ -201,6 +201,13 @@ $messages['roa-tara'] = array(
 	'wikimediamessages-desc' => 'Specifece messàgge temboranèe de Uicchimedia',
 );
 
+/** Russian (русский)
+ * @author Kaganer
+ */
+$messages['ru'] = array(
+	'wikimediamessages-desc' => 'Специфические временные сообщения Викимедиа',
+);
+
 /** Serbo-Croatian (srpskohrvatski / српскохрватски)
  * @author OC Ripper
  */

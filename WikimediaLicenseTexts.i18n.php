@@ -1653,6 +1653,7 @@ $messages['ce'] = array(
 	'wm-license-book-language' => 'Мотт',
 	'wm-license-book-page-overview' => 'АгӀоне хьажар',
 	'wm-license-book-series-title' => 'Серин цӀе',
+	'wm-license-book-subtitle' => 'Корталг',
 	'wm-license-book-title' => 'ЦӀе',
 	'wm-license-creator-description' => 'Цуьнах лаьцна',
 	'wm-license-information-description' => 'Цуьнах лаьцна',
