@@ -15294,7 +15294,7 @@ $messages['uk'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
 	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
-	'wikidata-copyright' => 'Усі структуровані дані з основного простору назв і простору власності доступні під ліцензією <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
+	'wikidata-copyright' => 'Усі структуровані дані з основного простору назв і простору назв властивостей доступні під ліцензією <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
 текст інших просторів назв доступний під ліцензією <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
 можуть застосовуватись додаткові умови.
 Див. детальніше <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
@@ -16294,9 +16294,9 @@ $messages['zh-hans'] = array(
 	'group-arbcom' => '仲裁委员会成员',
 	'group-arbcom-member' => '仲裁委员会成员',
 	'grouppage-arbcom' => '{{ns:project}}:仲裁委员会成员',
-	'group-autopatrolled' => '自动巡查员',
-	'group-autopatrolled-member' => '自动巡查员',
-	'grouppage-autopatrolled' => '{{ns:project}}:自动巡查员',
+	'group-autopatrolled' => '自动巡查者',
+	'group-autopatrolled-member' => '自动巡查者',
+	'grouppage-autopatrolled' => '{{ns:project}}:自动巡查者',
 	'group-autoreviewer' => '审查豁免者',
 	'group-autoreviewer-member' => '审查豁免者',
 	'grouppage-autoreviewer' => '{{ns:project}}:审查豁免者',
@@ -16392,8 +16392,8 @@ $messages['zh-hans'] = array(
 	'wikidata-copyright' => '所有来自“主要”和“属性”命名空间的结构化数据在<a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知识共享CC0协议</a>下可用；
 其他命名空间中的文本在<a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知识共享 署名-相同方式共享协议">知识共享 署名-相同方式共享协议</a>下可用；附加条款可能适用。
 参见<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
-	'wikidata-shortcopyrightwarning' => '点击“保存”表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并且您不可撤销地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授权]发布您的贡献。', # Fuzzy
-	'wikimedia-copyrightwarning' => '一旦点击“{{int:savearticle}}”按钮，就表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地发表你的贡献。你认同使用超链接或URL足以作为知识共享许可协议的署名。',
+	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[//creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
+	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[//zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接到维基旅游项目的页面列表',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
