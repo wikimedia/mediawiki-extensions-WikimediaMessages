@@ -10680,13 +10680,18 @@ $messages['nn'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ikkje-aktive brukarar',
 	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
 Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
-	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «lagra» samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
+	'wikidata-copyright' => 'Alle strukturerte data frå hovud- og eigenskapsnamneromma er tilgjengelege under <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definisjonen av Creative Commons CC0-lisensen">Creative Commons CC0-lisensen</a>; tekst i dei andre namneromma tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definisjonen av Creative Commons Namngjeving/Del på same vilkåra-lisensen">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; fleire vilkår kan gjelda.
+Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Bruksvilkåra</a> for meir.',
+	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «{{int:wikibase-save}}» samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [//creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til datasettet',
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
 	'upload-more-photos-of-this-monument' => 'Last opp fleire bilete av monumentet',
 	'extdist-branch-REL1_21' => '1.21 (siste stabile MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Retningsliner for brukarnamn',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Be om ein konto',
 	'createacct-imgcaptcha-help' => 'Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]',
 );
 
@@ -13535,6 +13540,7 @@ $messages['sr-ec'] = array(
 	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
 додатни услови се могу применити.
 Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
+	'wikidata-copyright' => 'Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Услове коришћења</a> за више информација.',
 	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
@@ -13542,7 +13548,7 @@ $messages['sr-ec'] = array(
 	'extdist-branch-REL1_21' => '1.21 (најновија стабилна верзија Медијавикија)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Кориснички_налог',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]',
-	'createacct-captcha-help-url' => '{{ns:Project}}:Поднесите захтев за отварање налога',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Поднесите захтев за отварање налога]]',
 );
 
@@ -16255,6 +16261,7 @@ $messages['zea'] = array(
  * @author Jimmy xu wrk
  * @author KaiesTse
  * @author Liangent
+ * @author Liuxinyu970226
  * @author Nemo bis
  * @author PhiLiP
  * @author Shizhao
@@ -16403,6 +16410,7 @@ $messages['zh-hans'] = array(
 	'createacct-helpusername-url' => '{{ns:Project}}:用户名',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(帮我选择)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:账号请求',
+	'createacct-imgcaptcha-help' => '无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]',
 );
 
 /** Traditional Chinese (中文（繁體）‎)

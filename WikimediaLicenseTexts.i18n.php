@@ -2741,7 +2741,7 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-information-date' => 'Kuupäev',
 	'wm-license-information-author' => 'Autor',
 	'wm-license-information-author-missing' => "Selle faili '''autoriga''' seonduv teave on puudulik.",
-	'wm-license-information-permission' => 'Litsents',
+	'wm-license-information-permission' => 'Luba',
 	'wm-license-information-permission-reusing-text' => 'Faili uuesti kasutamine',
 	'wm-license-information-permission-see-below' => 'Vaata allpool.',
 	'wm-license-information-other-versions' => 'Teised versioonid',

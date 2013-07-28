@@ -17288,6 +17288,7 @@ $messages['zh'] = array(
 /** Simplified Chinese (中文（简体）‎)
  * @author Bencmq
  * @author Hydra
+ * @author Liuxinyu970226
  * @author Multichill
  * @author Mys 721tx
  * @author PhiLiP
@@ -17451,7 +17452,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-sa-3.0-ee-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/at/deed.zh 署名-相同方式共享 3.0 爱沙尼亚]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-es-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/es/deed.zh 署名-相同方式共享 3.0 西班牙]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-gr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/gr/deed.zh 署名-相同方式共享 3.0 希腊]”许可协议授权。',
-	'wm-license-cc-by-sa-3.0-gt-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/gt/deed.zh 署名-相同方式共享 3.0 Guatemala]”许可协议授权。',
+	'wm-license-cc-by-sa-3.0-gt-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/gt/deed.zh 署名-相同方式共享 3.0 危地马拉]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-hk-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/hk/deed.zh 署名-相同方式共享 3.0 香港]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-hr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/hr/deed.zh 署名-相同方式共享 3.0 克罗地亚]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-it-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/it/deed.zh 署名-相同方式共享 3.0 意大利]”许可协议授权。',
@@ -17461,7 +17462,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-sa-3.0-nz-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/nz/deed.zh 署名-相同方式共享 3.0 新西兰]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-ph-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/ph/deed.zh 署名-相同方式共享 3.0 菲律宾]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-pl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/pl/deed.zh 署名-相同方式共享 3.0 波兰]”许可协议授权。',
-	'wm-license-cc-by-sa-3.0-pr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/pr/deed.zh 署名-相同方式共享 3.0 Puerto Rico]”许可协议授权。',
+	'wm-license-cc-by-sa-3.0-pr-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/pr/deed.zh 署名-相同方式共享 3.0 波多黎各]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-ro-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/ro/deed.zh 署名-相同方式共享 3.0 罗马尼亚]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-rs-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/rs/deed.zh 署名-相同方式共享 3.0 塞尔维亚]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-sg-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/sg/deed.zh 署名-相同方式共享 3.0 新加坡]”许可协议授权。',
@@ -17475,13 +17476,13 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-zero-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/publicdomain/zero/1.0/deed.zh CC0 1.0 通用 公共领域贡献宣告]”发表。',
 	'wm-license-cc-zero-explanation' => '采用本宣告发表本作品的人，已在法律允许的范围内，通过在全世界放弃其对本作品拥有的著作权法规定的所有权利（包括所有相关权利），将本作品贡献至[[{{int:wm-license-pd-wiki-link}}|公共领域]]。你可以复制、修改、传播和表演本作品，将其用于商业目的，无需要求授权。',
 	'wm-license-cc-free' => '您可以自由：',
-	'wm-license-cc-free-to-share-header' => 'to share',
+	'wm-license-cc-free-to-share-header' => '分享',
 	'wm-license-cc-free-to-share-text' => '复制、发行、展览、表演、放映、广播或通过信息网络传播本作品',
-	'wm-license-cc-free-to-remix-header' => 'to remix',
+	'wm-license-cc-free-to-remix-header' => '混音',
 	'wm-license-cc-free-to-remix-text' => '创作演绎作品',
 	'wm-license-cc-conditions' => '惟须遵守下列条件：',
 	'wm-license-cc-conditions-attribution-header' => '署名',
-	'wm-license-cc-conditions-attribution-text' => '您必须按照作者或者许可人指定的方式对作品进行署名。',
+	'wm-license-cc-conditions-attribution-text' => '您必须按照作者或者许可人指定的方式对作品进行署名（但不得以任何方式暗示他们认可您或您的作品）。',
 	'wm-license-cc-conditions-share_alike-header' => '相同方式共享',
 	'wm-license-cc-conditions-share_alike-text' => '如果您改变、转换本作品或者以本作品为基础进行创作，您只能采用与本协议相同的许可协议发布基于本作品的演绎作品。',
 	'wm-license-cc-pd-mark-text' => '本文件已被确认为免除已知的著作权法限制（包括所有相关权利）。',
