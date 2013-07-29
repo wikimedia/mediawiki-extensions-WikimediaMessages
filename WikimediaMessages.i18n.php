@@ -2795,8 +2795,8 @@ $messages['ckb'] = array(
 	'group-founder-member' => '{{GENDER:$1|دامەزرێنەر}}',
 	'grouppage-founder' => '{{ns:project}}:دامەزرێنەران',
 	'group-ipblock-exempt' => 'ھەڵاواردەکان لە بەربەستنی ئایپی',
-	'group-ipblock-exempt-member' => 'ھەڵاواردن لە بەربەستنی ئایپی',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:ھەڵاواردەکان لە بەربەستنی ئایپی',
+	'group-ipblock-exempt-member' => 'ھەڵاوارده لە بەربەستنی ئایپی',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:ھەڵاواردن لە بەربەستنی ئایپی',
 	'group-rollbacker' => 'گەڕێنەرەوەکان',
 	'group-rollbacker-member' => '{{GENDER:$1|گەڕێنەرەوە}}',
 	'grouppage-rollbacker' => '{{ns:project}}:گەڕاندنەوە',
@@ -8980,11 +8980,13 @@ Plašākai informācijai skatīt [//wikimediafoundation.org/wiki/Terms_of_Use Li
 
 /** Literary Chinese (文言)
  * @author Justincheng12345
+ * @author Yanteng3
  */
 $messages['lzh'] = array(
 	'wikimediamessages-desc' => '維基媒體特集',
 	'sitesupport' => '捐助集',
 	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
+	'nstab-creator' => '立者',
 	'wikimedia-copyright' => '凡我維基之文，悉為<a href="//creativecommons.org/licenses/by-sa/3.0/">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。
 請閱<a href="//wikimediafoundation.org/wiki/Terms_of_Use">全文</a>，以得其詳。',
 	'wikimedia-copyrightwarning' => '《維基大典》，奉《[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意]》、《革奴自由文檔》授權以行，增修刪改，皆無異議。惟所取用，務請引據。',
