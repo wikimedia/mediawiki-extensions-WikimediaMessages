@@ -4302,6 +4302,7 @@ $messages['eo'] = array(
  * @author Locos epraix
  * @author Multichill
  * @author Platonides
+ * @author Ralgis
  * @author Sanbec
  * @author Translationista
  */
@@ -4363,7 +4364,7 @@ $messages['es'] = array(
 	'wm-license-cc-by-2.5-si-text' => 'Este archivo está autorizado bajo la licencia [//creativecommons.org/licenses/by/2.5/si/deed.es Reconocimiento 2.5 Eslovenia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-2.5-tw-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses/by/2.5/tw/deed.es Attribution 2.5 Taiwan] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-2.5-za-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses/by/2.5/za/deed.es Reconocimiento 2.5 Suráfrica] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
-	'wm-license-cc-by-3.0-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.es Atribución 3.0, no adaptada].',
+	'wm-license-cc-by-3.0-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.es Atribución 3.0 Unported].',
 	'wm-license-cc-by-3.0-2.5-2.0-1.0-text' => 'Este archivo está bajo las licencias [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribución [//creativecommons.org/licenses/by/3.0/deed.es 3.0 Unported], [//creativecommons.org/licenses/by/2.5/deed.es Genérica 2.5], [//creativecommons.org/licenses/by/2.0/deed.es 2.0 Genérica] y [//creativecommons.org/licenses/by/1.0/deed.es 1.0 Genérica].',
 	'wm-license-cc-by-3.0-at-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/at/deed.es Reconocimiento 3.0 Austria].',
 	'wm-license-cc-by-3.0-au-text' => 'Este archivo está autorizado bajo la licencia [//creativecommons.org/licenses/by/3.0/au/deed.es Attribution 3.0 Australia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
@@ -4455,7 +4456,7 @@ $messages['es'] = array(
 	'wm-license-cc-by-sa-3.0-au-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/au/deed.es Attribution-Share Alike 3.0 Australia].',
 	'wm-license-cc-by-sa-3.0-br-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/br/ Attribution-Share Alike 3.0 Brazil].',
 	'wm-license-cc-by-sa-3.0-cl-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/cl/deed.es Atribución 3.0 Chile].',
-	'wm-license-cc-by-sa-3.0-cr-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/cr/ Attribution-ShareAlike 3.0 Costa Rica].',
+	'wm-license-cc-by-sa-3.0-cr-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/cr/ Atribución-CompartirIgual 3.0 Costa Rica].',
 	'wm-license-cc-by-sa-3.0-cz-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses//by-sa/3.0/rz/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 República Checa] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-sa-3.0-de-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/de/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Alemania].',
 	'wm-license-cc-by-sa-3.0-ec-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ec/deed.es Attribution-Share Alike 3.0 Ecuador].',
@@ -4463,7 +4464,7 @@ $messages['es'] = array(
 	'wm-license-cc-by-sa-3.0-es-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/es/deed.es Atribución/Compartir-Igual 3.0 España].',
 	'wm-license-cc-by-sa-3.0-gr-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/gr/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Grecia].',
 	'wm-license-cc-by-sa-3.0-gt-text' => 'Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/gt/deed.es Atribución/Compartir-Igual 3.0 Guatemala].',
-	'wm-license-cc-by-sa-3.0-hk-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses//by-sa/3.0/hk/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Hong Knog] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
+	'wm-license-cc-by-sa-3.0-hk-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses//by-sa/3.0/hk/deed.es Reconocimiento-CompartirIgual 3.0 Hong Kong] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-sa-3.0-hr-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses//by-sa/3.0/hr/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Croacia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
 	'wm-license-cc-by-sa-3.0-it-text' => 'Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/it/deed.es Attribution-ShareAlike 3.0 Italia].',
 	'wm-license-cc-by-sa-3.0-lu-text' => 'Este archivo está autorizado bajo licencia [//creativecommons.org/licenses/by-sa/3.0/lu/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Luxemburgo] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].',
