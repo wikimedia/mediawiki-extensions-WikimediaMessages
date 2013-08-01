@@ -139,6 +139,10 @@ $messages['en'] = array(
 	'group-trusted-member' => '{{GENDER:$1|trusted user}}',
 	'grouppage-trusted'    => '{{ns:project}}:Trusted users',
 
+	'group-uploader'        => 'Uploaders',
+	'group-uploader-member' => '{{GENDER:$1|uploader}}',
+	'grouppage-uploader'    => '{{ns:project}}:Uploaders',
+
 	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
 
 	'group-Global_bot'        => 'Global bots',
