@@ -93,7 +93,7 @@ $messages['en'] = array(
 
 	'group-eliminator'        => 'Eliminators',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator'    => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator'    => '{{ns:project}}:Eliminators',
 
 	'group-filemover'        => 'File movers',
 	'group-filemover-member' => '{{GENDER:$1|file mover}}',
