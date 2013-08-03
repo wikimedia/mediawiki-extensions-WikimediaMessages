@@ -23,6 +23,8 @@ $dir = dirname(__FILE__) . '/';
 $wgExtensionMessagesFiles['WikimediaMessages'] = $dir .'WikimediaMessages.i18n.php';
 $wgExtensionMessagesFiles['WikimediaTemporaryMessages'] = $dir . 'WikimediaTemporaryMessages.i18n.php';
 $wgExtensionFunctions[] = 'wfSetupWikimediaMessages';
+// Bug 33464: Add a "Developers" link to the page footer
+$wgHooks['SkinTemplateOutputPageBeforeExec'][] = 'efWikimediaDevelopersFooterLink';
 
 include_once ( $dir .'WikimediaGrammarForms.php' );
 
@@ -64,3 +66,21 @@ function efWikimediaSkinCopyrightFooter( $title, $type, &$msg, &$link, &$forCont
 
 	return true;
 }
+
+/**
+ * Add a "Developers" link to the footer
+ *
+ * @param $skin Skin (from includes/SkinTemplate.php)
+ * @param $template Template (from includes/SkinTemplate.php)
+ * @return bool
+ */
+function efWikimediaDevelopersFooterLink ( &$skin, &$template ) {
+	// Use the value of "MediaWiki:Wikimedia-developers"
+	$title = Title::newFromText( $skin->msg( 'wikimedia-developers' )->text() );
+	// Use the value of "MediaWiki:Wikimedia-developers-url"
+	$destination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
+	$link = Linker::makeExternalLink( $destination, $title );
+	$template->set( 'developers', $link );
+	$template->data['footerlinks']['places'][] = 'developers';
+	return true;
+};
