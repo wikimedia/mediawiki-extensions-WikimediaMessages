@@ -4309,7 +4309,7 @@ $messages['et'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Kaitstud lehekülje toimetajad',
 	'group-eliminator' => 'Elimineerijad',
 	'group-eliminator-member' => '{{GENDER:$1|elimineerija}}',
-	'grouppage-eliminator' => '{{ns:project}}:Elimineerija',
+	'grouppage-eliminator' => '{{ns:project}}:Elimineerijad',
 	'group-filemover' => 'Failiteisaldajad',
 	'group-filemover-member' => 'failiteisaldaja',
 	'grouppage-filemover' => '{{ns:project}}:Failiteisaldajad',
@@ -8185,7 +8185,7 @@ $messages['ko'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:보호된 문서 편집자',
 	'group-eliminator' => '삭제자',
 	'group-eliminator-member' => '{{GENDER:$1|삭제자}}',
-	'grouppage-eliminator' => '{{ns:project}}:삭제자', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:삭제자',
 	'group-filemover' => '파일 이동자',
 	'group-filemover-member' => '{{GENDER:$1|파일 이동자}}',
 	'grouppage-filemover' => '{{ns:project}}:파일 이동자',
@@ -9885,6 +9885,9 @@ $messages['ms'] = array(
 	'group-trusted' => 'Pengguna terpercaya',
 	'group-trusted-member' => '{{GENDER:$1|pengguna terpercaya}}',
 	'grouppage-trusted' => '{{ns:project}}:Pengguna terpercaya',
+	'group-uploader' => 'Pemuat naik',
+	'group-uploader-member' => '{{GENDER:$1|pemuat naik}}',
+	'grouppage-uploader' => '{{ns:project}}:Pemuat naik',
 	'group-Global_bot' => 'Bot sejagat',
 	'group-Global_bot-member' => '{{GENDER:$1|bot sejagat}}',
 	'grouppage-Global_bot' => 'm:Bot sejagat',
@@ -13093,6 +13096,7 @@ $messages['si'] = array(
 /** Slovak (slovenčina)
  * @author Helix84
  * @author Rudko
+ * @author Teslaton
  * @author Απεργός
  */
 $messages['sk'] = array(
@@ -13137,7 +13141,7 @@ $messages['sk'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redaktori chránených stránok',
 	'group-eliminator' => 'Eliminátori',
 	'group-eliminator-member' => 'eliminátor', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Eliminátor',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminátor', # Fuzzy
 	'group-filemover' => 'Presúvači súborov',
 	'group-filemover-member' => 'presúvač súborov', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Presúvači súborov',
@@ -13170,6 +13174,9 @@ $messages['sk'] = array(
 	'group-trusted' => 'Dôveryhodní používatelia',
 	'group-trusted-member' => 'dôveryhodný používateľ', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Dôveryhodní používatelia',
+	'group-uploader' => 'Nahrávajúci',
+	'group-uploader-member' => 'nahrávajúci', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Nahrávajúci',
 	'group-Global_bot' => 'Globálni roboti',
 	'group-Global_bot-member' => 'Globálny robot', # Fuzzy
 	'group-Global_rollback' => 'Globálni rollbackeri',
@@ -13193,6 +13200,10 @@ $messages['sk'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Neaktívni používatelia',
 	'wikimedia-copyright' => 'Text je dostupný za podmienok <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.',
 	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [//wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].', # Fuzzy
+	'createacct-helpusername-url' => '{{ns:Project}}:Používateľské_meno',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomôžte mi vybrať)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Potrebujem pomoc',
+	'createacct-imgcaptcha-help' => 'Nevidíte obrázok? [[{{MediaWiki:createacct-captcha-help-url}}|Požiadajte o účet]].',
 );
 
 /** Slovenian (slovenščina)
@@ -15839,6 +15850,9 @@ $messages['vi'] = array(
 	'group-trusted' => 'Thành viên tin cậy',
 	'group-trusted-member' => '{{GENDER:$1}}thành viên tin cậy',
 	'grouppage-trusted' => '{{ns:project}}:Thành viên tin cậy',
+	'group-uploader' => 'Người tải lên',
+	'group-uploader-member' => '{{GENDER:$1|người tải lên}}',
+	'grouppage-uploader' => '{{ns:project}}:Người tải lên',
 	'group-Global_bot' => 'Bot toàn hệ thống',
 	'group-Global_bot-member' => '{{GENDER:$1}}bot toàn hệ thống',
 	'grouppage-Global_bot' => 'm:Bot policy/vi#Bot toàn cầu',
@@ -15888,7 +15902,7 @@ $messages['vi'] = array(
 các văn bản trong các không gian tên khác được được phát hành theo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons Ghi công–Chia sẻ tương tự">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>;
 các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
-	'wikidata-shortcopyrightwarning' => 'Với việc bấm nút “lưu”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
+	'wikidata-shortcopyrightwarning' => 'Với việc bấm nút “lưu”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết đến khoản mục này',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
@@ -16139,7 +16153,7 @@ $messages['yi'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:רעדאַקטירער פֿון באַשיצטע בלעטער',
 	'group-eliminator' => 'אויסמעקער',
 	'group-eliminator-member' => '{{GENDER:$1| אויסמעקער| אויסמעקערין}}',
-	'grouppage-eliminator' => '{{ns:project}}:אויסמעקער', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:אויסמעקער',
 	'group-filemover' => 'טעקע אַריבערפֿירער',
 	'group-filemover-member' => 'טעקע {{GENDER:$1|אַריבערפֿירער|אַריבערפֿירערין}}',
 	'grouppage-filemover' => '{{ns:project}}:טעקע אַריבערפֿירער',
