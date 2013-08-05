@@ -256,6 +256,10 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me choose)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'Can\'t see the image? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]',
+
+	# Bug 33464: "Developers" link in the page footer
+	'wikimedia-developers' => 'Developers',
+	'wikimedia-developers-url' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute',
 );
 
 /** Message documentation (Message documentation)
@@ -504,6 +508,8 @@ Used as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.',
 
 Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
 	'createacct-imgcaptcha-help' => 'Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.',
+	'wikimedia-developers' => 'Message in page footer that links to a "Developers" landing page.',
+	'wikimedia-developers-url' => 'The URL of a portal page for development efforts.'
 );
 
 /** Abkhazian (Аҧсшәа)
