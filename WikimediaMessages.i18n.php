@@ -395,6 +395,9 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'group-trusted' => '{{doc-group|trusted}}',
 	'group-trusted-member' => '{{doc-group|trusted|member}}',
 	'grouppage-trusted' => '{{doc-group|trusted|page}}',
+	'group-uploader' => '{{doc-group|uploader}}',
+	'group-uploader-member' => '{{doc-group|uploader|member}}',
+	'grouppage-uploader' => '{{doc-group|uploader|page}}',
 	'group-Global_bot' => '{{doc-group|Global bot}}',
 	'group-Global_bot-member' => '{{doc-group|Global bot|member}}',
 	'grouppage-Global_bot' => '{{optional}}
@@ -508,8 +511,9 @@ Used as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.',
 
 Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
 	'createacct-imgcaptcha-help' => 'Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.',
-	'wikimedia-developers' => 'Message in page footer that links to a "Developers" landing page.',
-	'wikimedia-developers-url' => 'The URL of a portal page for development efforts.'
+	'wikimedia-developers' => 'Message in page footer that links to a "Developers" landing page.
+{{Identical|Developer}}',
+	'wikimedia-developers-url' => 'The URL of a portal page for development efforts.',
 );
 
 /** Abkhazian (Аҧсшәа)
@@ -3501,6 +3505,7 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Auswahlhilfe)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Benutzerkontenanträge',
 	'createacct-imgcaptcha-help' => 'Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]].',
+	'wikimedia-developers' => 'Entwickler',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -4933,7 +4938,7 @@ $messages['fr'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Éditeurs de pages protégées',
 	'group-eliminator' => 'Éliminateurs',
 	'group-eliminator-member' => '{{GENDER:$1|éliminateurs|éliminatrices}}',
-	'grouppage-eliminator' => '{{ns:project}}:Éliminateurs', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Éliminateurs',
 	'group-filemover' => 'Renommeurs de fichiers',
 	'group-filemover-member' => '{{GENDER:$1|renommeur|renommeuse}} de fichiers',
 	'grouppage-filemover' => '{{ns:project}}:Renommeurs de fichiers',
@@ -5030,6 +5035,7 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|aidez-moi à choisir]])',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Demander un compte',
 	'createacct-imgcaptcha-help' => "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
+	'wikimedia-developers' => 'Développeurs',
 );
 
 /** Cajun French (français cadien)
@@ -5659,6 +5665,7 @@ Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo 
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar unha conta',
 	'createacct-imgcaptcha-help' => 'Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]',
+	'wikimedia-developers' => 'Desenvolvedores',
 );
 
 /** Gilaki (گیلکی)
@@ -6769,12 +6776,13 @@ $messages['hu'] = array(
 );
 
 /** Armenian (Հայերեն)
+ * @author Chaojoker
  * @author Teak
  * @author Xelgen
  */
 $messages['hy'] = array(
 	'sitesupport' => 'Դրամական նվիրատվություն',
-	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> արտոնագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
+	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="//creativecommons.org/licenses/by-sa/3.0/deed.hy">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
 	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [//www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
 Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
 Ծանոթացեք [//wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։', # Fuzzy
@@ -7657,6 +7665,7 @@ $messages['ja'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(選び方を教えてください)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請',
 	'createacct-imgcaptcha-help' => '画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]',
+	'wikimedia-developers' => '開発者',
 );
 
 /** Lojban (Lojban)
@@ -8291,6 +8300,7 @@ $messages['ko'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(선택 방법을 알려주세요)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:계정 요청',
 	'createacct-imgcaptcha-help' => '그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]',
+	'wikimedia-developers' => '개발자',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -16367,6 +16377,7 @@ $messages['zea'] = array(
  * @author Liuxinyu970226
  * @author Nemo bis
  * @author PhiLiP
+ * @author Qiyue2001
  * @author Shizhao
  * @author William915
  * @author Wmr89502270
@@ -16424,7 +16435,7 @@ $messages['zh-hans'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:受保护页面编辑者',
 	'group-eliminator' => '消除者',
 	'group-eliminator-member' => '消除者',
-	'grouppage-eliminator' => '{{ns:project}}:消除者', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:消除者',
 	'group-filemover' => '文件移动者',
 	'group-filemover-member' => '文件移动者',
 	'grouppage-filemover' => '{{ns:project}}:文件移动者',
@@ -16459,7 +16470,7 @@ $messages['zh-hans'] = array(
 	'group-trusted-member' => '{{GENDER:$1|受信任用户}}',
 	'grouppage-trusted' => '{{ns:project}}:受信任用戶',
 	'group-uploader' => '上传文件用户',
-	'group-uploader-member' => '上传文件用户', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|上传者}}',
 	'grouppage-uploader' => '{{ns:project}}:上传文件用户',
 	'group-Global_bot' => '全域机器人',
 	'group-Global_bot-member' => '{{GENDER:$1|全域机器人}}',

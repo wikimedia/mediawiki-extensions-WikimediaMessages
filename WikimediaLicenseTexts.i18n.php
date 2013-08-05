@@ -208,7 +208,9 @@ Link to the Wikipedia article about the [[Wikipedia:Free Software Foundation|Fre
 Link to the article about Free software. This is an optional message so please only translate it if the article actually exists.',
 	'wm-license-gfdl-1.2-and-later' => 'You can peek at [[Commons:Template:GFDL]] for the current translations',
 	'wm-license-gfdl-1.2-only' => 'You can peek at [[Commons:Template:GFDL-1.2]] for the current translations.',
-	'wm-license-gfdl-1.2-only-header' => 'The note you see on the right at [[:Commons:Template:GFDL-1.2]]. The non-breaking space is needed to keep is on one line.',
+	'wm-license-gfdl-1.2-only-header' => 'The note you see on the right at [[:Commons:Template:GFDL-1.2]].
+
+The non-breaking space (<code>&amp;nbsp;</code>) is needed to keep is on one line.',
 	'wm-license-gfdl-wiki-link' => '{{optional}}
 Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation License|GNU Free Documentation License]]',
 	'wm-license-gfdl-full-1.2-link' => '{{notranslate}}',
