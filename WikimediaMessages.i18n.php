@@ -531,7 +531,7 @@ $messages['ab'] = array(
 $messages['ace'] = array(
 	'sitesupport' => 'Meuripè',
 	'tooltip-n-sitesupport' => 'Dukông kamoë',
-	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], ngön droëneuh ngön h\'an jeuët neupubateuë lé, akô keu neupeuteubiët teunuléh droëneuh di yup [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Lisensi] ngön [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], ngön droëneuh ngön h\'an jeuët neupubateuë lé, akô keu neupeuteubiët teunuléh droëneuh di yup [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Lisensi] ngön [https://www.gnu.org/copyleft/fdl.html GFDL].
 Droëneuh akô meunyö hyperlink atawa URL nakeuh neuhubông nyang sép di yup lisensi Creative Commons.',
 );
 
@@ -582,7 +582,7 @@ $messages['af'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Wysigers van beskermde bladsye',
 	'group-eliminator' => 'Opruimers',
 	'group-eliminator-member' => 'opruimer', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Opruimer',
+	'grouppage-eliminator' => '{{ns:project}}:Opruimer', # Fuzzy
 	'group-filemover' => 'Lêerskuiwers',
 	'group-filemover-member' => 'lêerskuiwer', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Lêerskuiwers',
@@ -637,8 +637,8 @@ $messages['af'] = array(
 	'group-inactive' => 'Onaktiewe gebruikers',
 	'group-inactive-member' => 'onaktiewe gebruiker', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Onaktiewe gebruikers',
-	'wikimedia-copyright' => "Die teks is beskikbaar onder die <a href='//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a> lisensie. Dit is moontlik dat aanvullende voorwaardes van toepassing is. Sien die <a href='//wikimediafoundation.org/wiki/Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
-	'wikimedia-copyrightwarning' => 'Deur op "{{int:savearticle}}" te kliek stem u in tot die [//wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaardes] en gee u onherroeplik toestemming dat u bydrae onder die [//creativecommons.org/licenses/by-sa/3.0/deed.af Creative Commons Erkenning-InsgelyksDeel] en die [http://af.wikipedia.org/wiki/GNU-lisensie_vir_vrye_dokumentasie GNU-lisensie vir vrye dokumentasie] gepubliseer word.
+	'wikimedia-copyright' => "Die teks is beskikbaar onder die <a href='//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a> lisensie. Dit is moontlik dat aanvullende voorwaardes van toepassing is. Sien die <a href='//wikimediafoundation.org/wiki/Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.", # Fuzzy
+	'wikimedia-copyrightwarning' => 'Deur op "{{int:savearticle}}" te kliek stem u in tot die [https://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaardes] en gee u onherroeplik toestemming dat u bydrae onder die [https://creativecommons.org/licenses/by-sa/3.0/deed.af Creative Commons Erkenning-InsgelyksDeel] en die [http://af.wikipedia.org/wiki/GNU-lisensie_vir_vrye_dokumentasie GNU-lisensie vir vrye dokumentasie] gepubliseer word.
 U stem verder in dat \'n skakel of URL voldoende naamsvermelding is om aan die Creative Commons-lisensie te voldoen.',
 	'cant-delete-main-page' => 'Jy kan nie verwyder of skuif die hoofblad.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Beleid_gebruikersname',
@@ -710,6 +710,9 @@ $messages['aln'] = array(
 	'group-trusted' => 'përdoruesit e Besuar',
 	'group-trusted-member' => 'përdorues besuar', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:përdoruesit e Besuar',
+	'group-uploader' => 'Ngarkuesit',
+	'group-uploader-member' => 'ngarkues', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Ngarkuesit',
 	'group-Global_bot' => 'Botat global',
 	'group-Global_bot-member' => 'bot global', # Fuzzy
 	'group-Global_rollback' => 'Mbrapakthyesit global',
@@ -731,12 +734,12 @@ $messages['aln'] = array(
 	'group-inactive' => 'Përdoruesit joaktiv',
 	'group-inactive-member' => 'përdorues joaktiv', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Përdoruesit joaktiv',
-	'wikimedia-copyright' => 'Ky tekst âsht vû në dispozicion nën licencën <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Ky tekst âsht vû në dispozicion nën licencën <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 mundet me pasë klauzola shtesë që vijnë në shprehje.
-Shih <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e përdorimit</a> për mâ shumë detaje.',
-	'wikimedia-copyrightwarning' => "Me t'regjistrue faqen, ju pajtoheni me lëshue kontributin tuej parevokueshëm nën [//creativecommons.org/licenses/by-sa/3.0/ Licencën Creative Commons Attribution/Share-Alike 3.0] dhe [//www.gnu.org/copyleft/fdl.html GFDL].
+Shih <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e përdorimit</a> për mâ shumë detaje.',
+	'wikimedia-copyrightwarning' => "Me t'regjistrue faqen, ju pajtoheni me lëshue kontributin tuej parevokueshëm nën [https://creativecommons.org/licenses/by-sa/3.0/ Licencën Creative Commons Attribution/Share-Alike 3.0] dhe [https://www.gnu.org/copyleft/fdl.html GFDL].
 Pajtoheni që ri-përdoruesit mujnë me shprehë mirënjohjen së paku përmjet nji vegze apo URL'je te faqja, në të cilën po kontribuoni.
-Shih [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.", # Fuzzy
+Shih [https://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.", # Fuzzy
 );
 
 /** Amharic (አማርኛ)
@@ -805,7 +808,7 @@ $messages['an'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editors de pachinas protechidas',
 	'group-eliminator' => 'Eliminadors',
 	'group-eliminator-member' => '{{GENDER:$1|borrador|borradora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Borradors',
+	'grouppage-eliminator' => '{{ns:project}}:Borradors', # Fuzzy
 	'group-filemover' => 'Tresladadors de fichers',
 	'group-filemover-member' => '{{GENDER:$1|tresladador de fichers|tresladadera de fichers}}',
 	'grouppage-filemover' => '{{ns:project}}:Tresladador de fichers',
@@ -838,6 +841,9 @@ $messages['an'] = array(
 	'group-trusted' => 'Usuarios de confianza',
 	'group-trusted-member' => '{{GENDER:$1|usuario de fiar|usuaria de fiar}}',
 	'grouppage-trusted' => '{{ns:project}}:Usuarios de confianza',
+	'group-uploader' => 'Cargadors',
+	'group-uploader-member' => 'cargador', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Cargadors',
 	'group-Global_bot' => 'Bots globals',
 	'group-Global_bot-member' => '{{GENDER:$1|Bot global}}',
 	'group-Global_rollback' => 'Revertidors globals',
@@ -862,10 +868,10 @@ $messages['an'] = array(
 	'group-inactive' => 'Usuarios inactivos',
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
-	'wikimedia-copyright' => 'O texto ye disponible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/">Licencia Creative Commons Atribución/Compartir-Igual</a>;
+	'wikimedia-copyright' => 'O texto ye disponible baixo a <a href="https://creativecommons.org/licenses/by-sa/3.0/">Licencia Creative Commons Atribución/Compartir-Igual</a>;
 talment sigan d\'aplicación clausulas adicionals.
-Mire-se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">os termins d\'uso</a> ta conoixer más detalles.',
-	'wikimedia-copyrightwarning' => "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [//wikimediafoundation.org/wiki/Terms_of_Use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [//creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [//www.gnu.org/copyleft/fdl.html Licencia GFDL].
+Mire-se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">os termins d\'uso</a> ta conoixer más detalles.',
+	'wikimedia-copyrightwarning' => "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [https://wikimediafoundation.org/wiki/Terms_of_Use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [https://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [https://www.gnu.org/copyleft/fdl.html Licencia GFDL].
 Tamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribución suficient baixo a licencia Creative Commons.",
 	'cant-delete-main-page' => 'No puede borrar ni mover a pachina prencipal.',
 );
@@ -982,7 +988,7 @@ $messages['ar'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:معدلو الصفحات المحمية',
 	'group-eliminator' => 'المحررون',
 	'group-eliminator-member' => '{{GENDER:$1|مقصي}}',
-	'grouppage-eliminator' => '{{ns:project}}:محرر',
+	'grouppage-eliminator' => '{{ns:project}}:محرر', # Fuzzy
 	'group-filemover' => 'ناقلو الملف',
 	'group-filemover-member' => '{{GENDER:$1|ناقل الملفات}}',
 	'grouppage-filemover' => '{{ns:project}}:ناقلو الملفات',
@@ -1015,6 +1021,9 @@ $messages['ar'] = array(
 	'group-trusted' => 'مستخدمون موثوقون',
 	'group-trusted-member' => '{{GENDER:$1|مستخدم موثوق}}',
 	'grouppage-trusted' => '{{ns:project}}:مستخدمون موثوقون',
+	'group-uploader' => 'رافعون',
+	'group-uploader-member' => 'رافع', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:رافعون',
 	'group-Global_bot' => 'بوتات عامة',
 	'group-Global_bot-member' => '{{GENDER:$1|بوت عام}}',
 	'group-Global_rollback' => 'مسترجعون عامون',
@@ -1046,10 +1055,10 @@ $messages['ar'] = array(
 	'group-inactive-member' => '{{GENDER:$1|مستخدم غير نشط|مستخدمة  غير نشطة}}',
 	'grouppage-inactive' => '{{ns:project}}:مستخدمون غير نشطين',
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
-	'wikimedia-copyright' => 'النصوص مُرخّصة <a href="//creativecommons.org/licenses/by-sa/3.0/">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.
+	'wikimedia-copyright' => 'النصوص مُرخّصة <a href="https://creativecommons.org/licenses/by-sa/3.0/">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.
 قد تنطبق بنود أخرى أيضًا.
-انظر <a href="//wikimediafoundation.org/wiki/Terms_of_use">شروط الاستخدام</a> للتفاصيل.',
-	'wikimedia-copyrightwarning' => 'بنقر زر "{{int:savearticle}}"، أنت توافق على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتُرخّص مساهمتك بلا رجعة [//creativecommons.org/licenses/by-sa/3.0/ برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[//www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
+انظر <a href="https://wikimediafoundation.org/wiki/Terms_of_use">شروط الاستخدام</a> للتفاصيل.',
+	'wikimedia-copyrightwarning' => 'بنقر زر "{{int:savearticle}}"، أنت توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتُرخّص مساهمتك بلا رجعة [https://creativecommons.org/licenses/by-sa/3.0/ برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
 أنت توافق على أن تكفي النسبة في رخصة المشاع الإبداعي بوصلة فائقة أو مسار الصفحة.',
 	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
 	'upload-more-photos-of-this-monument' => 'قم برفع المزيد من الصور لهذا الأثر',
@@ -1067,12 +1076,14 @@ $messages['arc'] = array(
 	'group-founder-member' => '{{GENDER:$1|ܫܬܐܣܢܐ|ܫܬܐܣܢܬܐ}}',
 	'grouppage-founder' => '{{ns:project}}:ܫܬܐܣܢ̈ܐ',
 	'grouppage-import' => '{{ns:project}}:ܡܥܠܢ̈ܐ',
+	'group-uploader-member' => 'ܡܣܩܢܐ', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:ܡܣܩܢ̈ܐ',
 	'group-sysadmin' => 'ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ',
 	'group-inactive' => 'ܡܦܠܚܢ̈ܐ ܠܐ ܙܪ̈ܝܙܐ',
-	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="//creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
+	'wikimedia-copyright' => 'ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href="https://creativecommons.org/licenses/by-sa/3.0/">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.
 ܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.
-ܚܙܝ <a href="//wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
-	'wikimedia-copyrightwarning' => 'ܒܟܒܫܬܐ ܕܬܪܘܩܬܐ "{{int:savearticle}}" ܐܘܝܘ ܐܢܬ ܥܠ [//wikimediafoundation.org/wiki/Terms_of_Use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܦܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [//creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ :ܢܣܒܬܐ-ܦܣܣܐ ܒܛܘܣܐ 3.0] ܘ[//www.gnu.org/copyleft/fdl.html ܒܦܣܣܐ ܕGNU ܠܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
+ܚܙܝ <a href="https://wikimediafoundation.org/wiki/Terms_of_use">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.',
+	'wikimedia-copyrightwarning' => 'ܒܟܒܫܬܐ ܕܬܪܘܩܬܐ "{{int:savearticle}}" ܐܘܝܘ ܐܢܬ ܥܠ [https://wikimediafoundation.org/wiki/Terms_of_Use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܦܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [https://creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ :ܢܣܒܬܐ-ܦܣܣܐ ܒܛܘܣܐ 3.0] ܘ[https://www.gnu.org/copyleft/fdl.html ܒܦܣܣܐ ܕGNU ܠܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
 ܐܘܝܘ ܐܢܬ ܕܫܘܡܠܝܬܝܠܗ̇ ܒܟܘܢܝܐ ܒܓܘ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ ܒܝܕ hyperlink ܐܘ URL.',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ܥܕܪ ܠܝ ܒܓܘܒܝܐ)]]',
 );
@@ -1134,6 +1145,9 @@ $messages['arz'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:مستوردين عبر الويكى',
 	'group-trusted' => 'مستخدمين موثوقين',
 	'group-trusted-member' => 'مستخدم موثوق', # Fuzzy
+	'group-uploader' => 'المحملين',
+	'group-uploader-member' => 'المحمل', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:المحملين',
 	'group-Global_bot' => 'بوتات عامه',
 	'group-Global_bot-member' => 'بوت عام', # Fuzzy
 	'group-Global_rollback' => 'مسترجعين عامين',
@@ -1158,11 +1172,11 @@ $messages['arz'] = array(
 	'group-inactive-member' => 'يوزر مش نشيط', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:يوزرات مش نشطين',
 	'shared-repo-name-shared' => 'ويكيميديا كومنز',
-	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="//creativecommons.org/licenses/by-sa/3.0/">رخصة التشارك الإبداع العزو/المشاركة بالمثل</a>;
+	'wikimedia-copyright' => 'النصوص متوفرة تحت <a href="https://creativecommons.org/licenses/by-sa/3.0/">رخصة التشارك الإبداع العزو/المشاركة بالمثل</a>;
 ممكن تطبيق شروط إضافية.
-بص على <a href="//wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
-	'wikimedia-copyrightwarning' => 'بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [//creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [//www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
-أنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.', # Fuzzy
+بص على <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">شروط الاستخدام</a> للتفاصيل.',
+	'wikimedia-copyrightwarning' => 'بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [https://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
+أنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل.', # Fuzzy
 );
 
 /** Assamese (অসমীয়া)
@@ -1225,7 +1239,7 @@ $messages['as'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:সুৰক্ষিত পৃষ্ঠা সম্পাদক',
 	'group-eliminator' => 'এলিমিনাটৰ',
 	'group-eliminator-member' => '{{GENDER:$1|এলিমিনেটৰ}}',
-	'grouppage-eliminator' => '{{ns:project}}:এলিমিনেটৰ',
+	'grouppage-eliminator' => '{{ns:project}}:এলিমিনেটৰ', # Fuzzy
 	'group-filemover' => 'ফাইল স্থানান্তৰকৰ্তাসকল',
 	'group-filemover-member' => '{{GENDER:$1|ফাইল স্থানান্তৰকৰ্তা}}',
 	'grouppage-filemover' => '{{ns:project}}:ফাইল স্থানান্তৰকৰ্তা',
@@ -1288,10 +1302,10 @@ $messages['as'] = array(
 	'group-inactive' => 'নিস্ক্ৰিয় সদস্যসকল',
 	'group-inactive-member' => '{{GENDER:$1|নিষ্ক্ৰিয় সদস্য}}',
 	'grouppage-inactive' => '{{ns:project}}:নিস্ক্ৰিয় ব্যৱহাৰকাৰী',
-	'wikimedia-copyright' => 'লিখনিসমূহ<a href="//creativecommons.org/licenses/by-sa/3.0/">ক্ৰিয়েটিভ কমন্স এট্ৰিবিউশ্যন/শ্বেয়াৰ-এলাইক অনুজ্ঞাপত্ৰৰ</a> আওতাভুক্ত;
+	'wikimedia-copyright' => 'লিখনিসমূহ<a href="https://creativecommons.org/licenses/by-sa/3.0/">ক্ৰিয়েটিভ কমন্স এট্ৰিবিউশ্যন/শ্বেয়াৰ-এলাইক অনুজ্ঞাপত্ৰৰ</a> আওতাভুক্ত;
 ইয়াৰ লগত অনান্য পদ প্ৰযোজ্য হ’ব পাৰে।
- <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ব্যৱহাৰৰ চৰ্তাৱলীত</a> বিস্তাৰিত ভাবে চাওক।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বুটাম ক্লিক কৰি আপুনি [//wikimediafoundation.org/wiki/Terms_of_Use ব্যৱহাৰৰ চৰ্ত্তসমূহত] সন্মতি প্ৰকাশ কৰিছে আৰু এই বিষয়ে সন্মত হৈছে যে আপোনাৰ বৰঙণি ক্ৰিয়েটিভ কমন্স [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ৩.০ অনুজ্ঞাপত্ৰ] আৰু [//www.gnu.org/copyleft/fdl.html জি.এফ.ডি.এল.]ৰ অধীনত মুকলি কৰা হ\'ব। আপুনি সন্মত হৈছে যে ক্ৰিয়েটিভ কমন্স লাইছেন্সৰ অধীনত এট্ৰিবিউছনৰ বাবে হাইপাৰলিঙ্ক বা ইউ.আৰ.এল. উল্লেখেই যথেষ্ট।',
+ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">ব্যৱহাৰৰ চৰ্তাৱলীত</a> বিস্তাৰিত ভাবে চাওক।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বুটাম ক্লিক কৰি আপুনি [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যৱহাৰৰ চৰ্ত্তসমূহত] সন্মতি প্ৰকাশ কৰিছে আৰু এই বিষয়ে সন্মত হৈছে যে আপোনাৰ বৰঙণি ক্ৰিয়েটিভ কমন্স [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ৩.০ অনুজ্ঞাপত্ৰ] আৰু [https://www.gnu.org/copyleft/fdl.html জি.এফ.ডি.এল.]ৰ অধীনত মুকলি কৰা হ\'ব। আপুনি সন্মত হৈছে যে ক্ৰিয়েটিভ কমন্স লাইছেন্সৰ অধীনত এট্ৰিবিউছনৰ বাবে হাইপাৰলিঙ্ক বা ইউ.আৰ.এল. উল্লেখেই যথেষ্ট।',
 	'cant-delete-main-page' => 'মূল পৃষ্ঠাখন আপুনি বিলোপ বা স্থানান্তৰ কৰিব নোৱাৰে',
 	'wikimedia-translationnotifications-signup-legal' => 'আপুনি ৱিকিমিডিয়া সংগঠনক এই তথ্য প্ৰদান কৰি এই কথাত মান্তি হৈছে যে আমি আপোনাক অনুবাদ জড়িত অথবা আপুনি আগ্ৰহী হোৱা ৱিকিমিডিয়া গতিবিধিৰ সৈতে জড়িত অন্য বিষয়ৰ বাবে যোগাযোগ কৰিব পাৰো। আপুনি মান্তি যে আপোনাৰ তথ্য মাৰ্কিন যুক্তৰাষ্ট্ৰত সংৰক্ষণ কৰা হ’ব পাৰে আৰু আমাৰ [https://wikimediafoundation.org/wiki/Privacy_policy গোপনীয়তা নীতিৰ] অধীনত থাকিব।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিচিহ্নৰ অধিক চিত্ৰ আপল’ড কৰক',
@@ -1431,14 +1445,14 @@ $messages['ast'] = array(
 	'group-inactive' => 'Usuarios inactivos',
 	'group-inactive-member' => '{{GENDER:$1|usuariu inactivu|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
-	'wikimedia-copyright' => 'El testu ta disponible baxo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Llicencia Creative Commons Reconocimientu/Compartir-Igual 3.0</a>; puen aplicase otres cláusules más.
-Llea <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ast">les condiciones d\'usu</a> pa más detalles.',
-	'wikidata-copyright' => 'Tolos datos estruturaos de los espacios de nomes principal y de propiedaá tan disponibles baxo la <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">llicencia Creative Commons CC0</a>;
-el testu de los demás espacios de nomes ta disponible baxo la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">llicencia Creative Commons reconocimientu/compartir igual</a>;
+	'wikimedia-copyright' => 'El testu ta disponible baxo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es">Llicencia Creative Commons Reconocimientu/Compartir-Igual 3.0</a>; puen aplicase otres cláusules más.
+Llea <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ast">les condiciones d\'usu</a> pa más detalles.',
+	'wikidata-copyright' => 'Tolos datos estruturaos de los espacios de nomes principal y de propiedaá tan disponibles baxo la <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">llicencia Creative Commons CC0</a>;
+el testu de los demás espacios de nomes ta disponible baxo la <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">llicencia Creative Commons reconocimientu/compartir igual</a>;
 puen aplicase otres condiciones más.
-Consulte les <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">condiciones d\'usu</a> pa más detalles.',
-	'wikidata-shortcopyrightwarning' => "Calcando en «{{int:wikibase-save}}», aceuta les [//wikimediafoundation.org/wiki/Terms_of_Use/ast condiciones d'usu] y aceuta lliberar irrevocablemente la so collaboración baxo la [//creativecommons.org/publicdomain/zero/1.0/deed.ast llicencia CC0].",
-	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [//wikimediafoundation.org/wiki/Terms_of_Use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [//creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [//www.gnu.org/copyleft/fdl.html GFDL].
+Consulte les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">condiciones d\'usu</a> pa más detalles.',
+	'wikidata-shortcopyrightwarning' => "Calcando en «{{int:wikibase-save}}», aceuta les [https://wikimediafoundation.org/wiki/Terms_of_Use/ast condiciones d'usu] y aceuta lliberar irrevocablemente la so collaboración baxo la [https://creativecommons.org/publicdomain/zero/1.0/deed.ast llicencia CC0].",
+	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [https://wikimediafoundation.org/wiki/Terms_of_Use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [https://creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxines de Wikivoyage enllazaes con esti elementu',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
@@ -1560,9 +1574,9 @@ $messages['az'] = array(
 	'group-inactive-member' => '{{GENDER:$1|qeyri-aktiv istifadəçi}}',
 	'grouppage-inactive' => '{{ns:project}}:Qeyri-aktiv istifadəçilər',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Mətn <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisenziyası</a> altındadır;
+	'wikimedia-copyright' => 'Mətn <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisenziyası</a> altındadır;
 əlavə şərtlər tətbiq oluna bilər.
-Ətraflı məlumat üçün <a href="//wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
+Ətraflı məlumat üçün <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">İstifadə Şərtlərinə</a> baxın.',
 );
 
 /** South Azerbaijani (تورکجه)
@@ -1618,7 +1632,7 @@ $messages['azb'] = array(
 	'grouppage-confirmed' => '{{ns:project}}:دوغرولانمیش ایستیفاده‌چی‌لر',
 	'group-editprotected' => 'محافظه اولونموش صحیفه دییشدیرچی لر',
 	'group-eliminator-member' => '{{GENDER:$1|ائلیمیناتور}}',
-	'grouppage-eliminator' => '{{ns:project}}:ائلیمیناتور',
+	'grouppage-eliminator' => '{{ns:project}}:ائلیمیناتور', # Fuzzy
 	'group-filemover-member' => '{{GENDER:$1|فایل کؤچوردن}}',
 	'group-flood-member' => '{{GENDER:$1|بوت}}',
 	'grouppage-flood' => '{{ns:project}}:بوتلار',
@@ -1664,9 +1678,9 @@ $messages['azb'] = array(
 	'group-inactive' => 'غیر فعال ایستیفاده‌چی‌لر',
 	'group-inactive-member' => '{{GENDER:$1|غیر فعال ایستفاده‌چی‌لر}}',
 	'grouppage-inactive' => '{{ns:project}}:غیر فعال ایستفاده‌چی‌لر',
-	'wikimedia-copyright' => 'یازی <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike لیسانسی</a> آلتیندا‌دیر؛
+	'wikimedia-copyright' => 'یازی <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike لیسانسی</a> آلتیندا‌دیر؛
 آرتیق شرطلر آرتیریلا بیلر.
-آرتیق بیلگیلر اوچون <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ایستیفاده شرطلرینه</a> باخین.',
+آرتیق بیلگیلر اوچون <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">ایستیفاده شرطلرینه</a> باخین.',
 	'cant-delete-main-page' => 'آنا صحیفه‌سینی سیلیب یا آپارا بیلنمزسینیز.',
 	'upload-more-photos-of-this-monument' => 'بو عابیده‌دن آرتیق شکیل‌لر یوکله',
 );
@@ -1729,7 +1743,7 @@ $messages['ba'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Һаҡланған битте мөхәррирләүселәр',
 	'group-eliminator' => 'Юйыусылар',
 	'group-eliminator-member' => '{{GENDER:$1|юйыусы}}',
-	'grouppage-eliminator' => '{{ns:project}}:Юйыусылар',
+	'grouppage-eliminator' => '{{ns:project}}:Юйыусылар', # Fuzzy
 	'group-filemover' => 'Файл исемен үҙгәртеүселәр',
 	'group-filemover-member' => '{{GENDER:$1|файл исемен үҙгәртеүсе}}',
 	'grouppage-filemover' => '{{ns:project}}:Файл исемен үҙгәртеүселәр',
@@ -1787,9 +1801,9 @@ $messages['ba'] = array(
 	'group-inactive' => 'Әүҙем булмаған ҡатнашыусылар',
 	'group-inactive-member' => '{{GENDER:$1|актив булмаған ҡулланыусы}}',
 	'grouppage-inactive' => '{{ns:project}}:Әүҙем булмаған ҡатнашыусылар',
-	'wikimedia-copyright' => 'Текст <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> рөхсәтнамәһе буйынса рөхсәт ителгән; өҫтәмә шарттар ҡулланыла ала.
-Тулыраҡ мәғлүмәт алыр өсөн, <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ҡулланыу шарттарын</a> ҡарағыҙ.',
-	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' төймәһенә баҫыу менән һеҙ [//wikimediafoundation.org/wiki/Terms_of_Use ҡулланыу шарттарын] ҡабул итәһегеҙ. Шулай уҡ, был мәғлүмәттең [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [//www.gnu.org/copyleft/fdl.html GFDL] рөхсәтнамәләренә ярашлы ирекле таратылыуына кире алып булмаған ризалыҡ бирәһегеҙ.  Creative Commons рөхсәтнамәһенең үтәлеү шарты итеп, был мәғлүмәткә гиперһылтанма йәки URL адрес аша һылтанма ҡуйыуҙы таныйһығыҙ.",
+	'wikimedia-copyright' => 'Текст <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> рөхсәтнамәһе буйынса рөхсәт ителгән; өҫтәмә шарттар ҡулланыла ала.
+Тулыраҡ мәғлүмәт алыр өсөн, <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Ҡулланыу шарттарын</a> ҡарағыҙ.',
+	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' төймәһенә баҫыу менән һеҙ [https://wikimediafoundation.org/wiki/Terms_of_Use ҡулланыу шарттарын] ҡабул итәһегеҙ. Шулай уҡ, был мәғлүмәттең [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [https://www.gnu.org/copyleft/fdl.html GFDL] рөхсәтнамәләренә ярашлы ирекле таратылыуына кире алып булмаған ризалыҡ бирәһегеҙ.  Creative Commons рөхсәтнамәһенең үтәлеү шарты итеп, был мәғлүмәткә гиперһылтанма йәки URL адрес аша һылтанма ҡуйыуҙы таныйһығыҙ.",
 	'cant-delete-main-page' => 'Төп битте юя йәки күсерә алмайһығыҙ.',
 );
 
@@ -1797,8 +1811,8 @@ $messages['ba'] = array(
  * @author Mucalexx
  */
 $messages['bar'] = array(
-	'wikimedia-copyright' => 'Da Text is unter da Lizenz <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> vafiagbor; zuasätzliche Bedingungen kennan åwendbor sai.
-Oazlhaiten san in de <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrim.',
+	'wikimedia-copyright' => 'Da Text is unter da Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> vafiagbor; zuasätzliche Bedingungen kennan åwendbor sai.
+Oazlhaiten san in de <a href="https://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrim.',
 );
 
 /** Southern Balochi (بلوچی مکرانی)
@@ -1871,13 +1885,14 @@ $messages['be'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
 	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importers',
+	'grouppage-uploader' => '{{ns:project}}:Uploaders',
 	'grouppage-inactive' => '{{ns:project}}:Inactive users',
-	'wikimedia-copyright' => 'Тэкст даступны на ўмовах ліцэнзіі <a href="//creativecommons.org/licenses/by-sa/3.0/deed.be">Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Тэкст даступны на ўмовах ліцэнзіі <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.be">Creative Commons Attribution/Share-Alike</a>;
 таксама могуць дзейнічаць дадатковыя ўмовы.
-Падрабязней гл. <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Умовы карыстання</a>.',
-	'wikimedia-copyrightwarning' => "Замацоўваючы гэта, вы згаджаецеся беззваротна выпусціць свой уклад на ўмовах ліцэнзій [//creativecommons.org/licenses/by-sa/3.0/deed.be Creative Commons Attribution/Share-Alike License 3.0] і [//www.gnu.org/copyleft/fdl.html GFDL].
+Падрабязней гл. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Умовы карыстання</a>.',
+	'wikimedia-copyrightwarning' => "Замацоўваючы гэта, вы згаджаецеся беззваротна выпусціць свой уклад на ўмовах ліцэнзій [https://creativecommons.org/licenses/by-sa/3.0/deed.be Creative Commons Attribution/Share-Alike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL].
 Вы згаджаецеся на адзначэнне вашага аўтарства пры паўторным выкарыстанні гэтай старонкі, у мінімальным аб'ёме гіпер-спасылкі або адрасу URL гэтай старонкі, у якую вы робіце ўклад.
-Падрабязней гл. [//wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].", # Fuzzy
+Падрабязней гл. [https://wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].", # Fuzzy
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
 );
 
@@ -1940,7 +1955,7 @@ $messages['be-tarask'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Рэдактары абароненых старонак',
 	'group-eliminator' => 'Выдаляючыя',
 	'group-eliminator-member' => '{{GENDER:$1|выдаляючы|выдаляючая}}',
-	'grouppage-eliminator' => '{{ns:project}}:Выдаляючы',
+	'grouppage-eliminator' => '{{ns:project}}:Выдаляючы', # Fuzzy
 	'group-filemover' => 'Пераносчыкі файлаў',
 	'group-filemover-member' => '{{GENDER:$1|пераносчык файлаў|пераносчыца файлаў}}',
 	'grouppage-filemover' => '{{ns:project}}:Пераносчыкі файлаў',
@@ -1974,6 +1989,9 @@ $messages['be-tarask'] = array(
 	'group-trusted' => 'Давераныя ўдзельнікі',
 	'group-trusted-member' => '{{GENDER:$1|давераны ўдзельнік|давераная ўдзельніца}}',
 	'grouppage-trusted' => '{{ns:project}}:Давераныя ўдзельнікі',
+	'group-uploader' => 'Загружальнікі',
+	'group-uploader-member' => 'загружальнік', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Загружальнікі',
 	'group-Global_bot' => 'Глябальныя робаты',
 	'group-Global_bot-member' => '{{GENDER:$1|глябальны робат}}',
 	'group-Global_rollback' => 'Глябальныя адкатвальнікі',
@@ -2011,11 +2029,11 @@ $messages['be-tarask'] = array(
 	'group-inactive' => 'Неактыўныя ўдзельнікі',
 	'group-inactive-member' => '{{GENDER:$1|неактыўны ўдзельнік|неактыўная ўдзельніца}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактыўныя ўдзельнікі',
-	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="//creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="//wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
-	'wikidata-copyright' => 'Усе структураваныя зьвесткі ў галоўнай прасторы назваў і прасторы ўласьцівасьцяў даступныя на ўмове ліцэнзіі <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; зьмест у іншых прасторах даступны на ўмовах <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; могуць ужывацца дадатковыя ўмовы.
-Глядзіце падрабязнасьці ва <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Ўмовах выкарыстаньня</a>.',
-	'wikidata-shortcopyrightwarning' => 'Націснуўшы «захаваць», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].',
-	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [//wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [//www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
+	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="https://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
+	'wikidata-copyright' => 'Усе структураваныя зьвесткі ў галоўнай прасторы назваў і прасторы ўласьцівасьцяў даступныя на ўмове ліцэнзіі <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; зьмест у іншых прасторах даступны на ўмовах <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; могуць ужывацца дадатковыя ўмовы.
+Глядзіце падрабязнасьці ва <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Ўмовах выкарыстаньня</a>.',
+	'wikidata-shortcopyrightwarning' => 'Націснуўшы «захаваць», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
@@ -2125,14 +2143,14 @@ $messages['bg'] = array(
 	'group-inactive' => 'Неактивни потребители',
 	'group-inactive-member' => 'неактивен потребител', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Неактивни потребители',
-	'wikimedia-copyright' => 'Текстът е достъпен под лиценза <a href="//creativecommons.org/licenses/by-sa/3.0/deed.bg">Creative Commons Признание-Споделяне на споделеното</a>;
+	'wikimedia-copyright' => 'Текстът е достъпен под лиценза <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.bg">Creative Commons Признание-Споделяне на споделеното</a>;
 може да са приложени допълнителни условия.
-За подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use/bg">Условия за ползване</a>.',
-	'wikidata-copyright' => 'Всички структурирани данни от основното именно пространство и именно пространство "Свойство:" са достъпни под условията на договор <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Дефиниция на договор Криейтив Комънс CC0">Криейтив Комънс CC0</a>; съдържанието в останалите именни пространства е достъпно под условията на договор <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Дефиниция на договор Криейтив Комънс Признание/Споделяне на споделеното">Криейтив Комънс Признание/Споделяне на споделеното</a>; може да са в сила и допълнителни условия. За повече подробности вижте <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Условия за ползване на Фондация Уикимедия">Условията за ползване</a>.',
-	'wikidata-shortcopyrightwarning' => 'Натискайки бутона "Съхраняване", се съгласявате с [https://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване] и безвъзвратно публикувате приноса си под условията на договор [https://creativecommons.org/publicdomain/zero/1.0/ Криейтив Комънс CC0].',
-	'wikimedia-copyrightwarning' => 'Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [//creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [//www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].
+За подробности вижте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/bg">Условия за ползване</a>.',
+	'wikidata-copyright' => 'Всички структурирани данни от основното именно пространство и именно пространство "Свойство:" са достъпни под условията на договор <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Дефиниция на договор Криейтив Комънс CC0">Криейтив Комънс CC0</a>; съдържанието в останалите именни пространства е достъпно под условията на договор <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Дефиниция на договор Криейтив Комънс Признание/Споделяне на споделеното">Криейтив Комънс Признание/Споделяне на споделеното</a>; може да са в сила и допълнителни условия. За повече подробности вижте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Условия за ползване на Фондация Уикимедия">Условията за ползване</a>.',
+	'wikidata-shortcopyrightwarning' => 'Натискайки бутона "Съхраняване", се съгласявате с [https://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване] и безвъзвратно публикувате приноса си под условията на договор [https://creativecommons.org/publicdomain/zero/1.0/ Криейтив Комънс CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [https://creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [https://www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].
 Съгласявате се минималното признание на авторството ви, при ползване на материала от други потребители, да става с хипервръзка към страницата, към която допринасяте.
-За подробности вижте [//wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].', # Fuzzy
+За подробности вижте [https://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].', # Fuzzy
 	'cant-delete-main-page' => 'Не можете да изтривате или премествате Началната страница.',
 	'upload-more-photos-of-this-monument' => 'Качване на още снимки на този паметник',
 );
@@ -2153,7 +2171,7 @@ $messages['bho'] = array(
 $messages['bjn'] = array(
 	'group-abusefilter' => 'Editor filter panyalahgunaan',
 	'group-bigexport' => 'Ikspurtir ganal',
-	'wikimedia-copyrightwarning' => 'Lawan mangaklik picikan "{{int:savearticle}}", Pian hakun haja kapada [//wikimediafoundation.org/wiki/Terms_of_Use Katantuan mamakai], wan Pian satarusnya malapas sumbangan Pian--kada kawa dijumput lagi-- di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lisansi CC-BY-SA 3.0] wan [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Lawan mangaklik picikan "{{int:savearticle}}", Pian hakun haja kapada [https://wikimediafoundation.org/wiki/Terms_of_Use Katantuan mamakai], wan Pian satarusnya malapas sumbangan Pian--kada kawa dijumput lagi-- di bawah [https://creativecommons.org/licenses/by-sa/3.0/ Lisansi CC-BY-SA 3.0] wan [https://www.gnu.org/copyleft/fdl.html GFDL].
 Pian hakun haja kalu sabuting tautan atawa URL cukup manaliakan di bawah lisénsi Creative Commons.',
 );
 
@@ -2224,7 +2242,7 @@ $messages['bn'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:সুরক্ষিত পাতা সম্পাদক',
 	'group-eliminator' => 'এলিমিনাটর',
 	'group-eliminator-member' => '{{GENDER:$1|এলিমিনাটর}}',
-	'grouppage-eliminator' => '{{ns:project}}:এলিমিনাটর',
+	'grouppage-eliminator' => '{{ns:project}}:এলিমিনাটর', # Fuzzy
 	'group-filemover' => 'ফাইল মুভার',
 	'group-filemover-member' => '{{GENDER:$1|ফাইল মুভার}}',
 	'grouppage-filemover' => '{{ns:project}}:ফাইল অপসারক',
@@ -2297,12 +2315,12 @@ $messages['bn'] = array(
 	'group-inactive' => 'নিস্ক্রিয় ব্যবহারকারী',
 	'group-inactive-member' => '{{GENDER:$1|নিস্ক্রিয় ব্যবহারকারী}}',
 	'grouppage-inactive' => '{{ns:project}}:নিস্ক্রিয় ব্যবহারকারী',
-	'wikimedia-copyright' => 'লেখাগুলো <a href="//creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
+	'wikimedia-copyright' => 'লেখাগুলো <a href="https://creativecommons.org/licenses/by-sa/3.0/">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;
 এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
- <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
-	'wikidata-copyright' => 'প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href="//creativecommons.org/publicdomain/zero/1.0/" title="ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href="//creativecommons.org/licenses/by-sa/3.0/" title="ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
-	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"-এ ক্লিক করার মাধ্যমে, আপনি [//wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে একমত হচ্ছেন, এবং [//creativecommons.org/publicdomain/zero/1.0/deed.bn সিসি০ লাইসেন্সের] অধীনে আপনার অবদান প্রকাশে সম্মত হচ্ছেন।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [//wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [//www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
+ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
+	'wikidata-copyright' => 'প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
+	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"-এ ক্লিক করার মাধ্যমে, আপনি [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে একমত হচ্ছেন, এবং [https://creativecommons.org/publicdomain/zero/1.0/deed.bn সিসি০ লাইসেন্সের] অধীনে আপনার অবদান প্রকাশে সম্মত হচ্ছেন।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [https://www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
 	'wikibase-sitelinks-wikivoyage' => 'এই আইটেমটির সাথে সংযুক্ত উইকিভ্রমণের পাতা',
 	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
@@ -2399,7 +2417,7 @@ $messages['br'] = array(
 	'grouppage-editprotected' => '{{ns:project}}: Embannerien pennadoù gwarezet',
 	'group-eliminator' => 'Raskerien',
 	'group-eliminator-member' => '{{GENDER:$1|rasker|raskerez}}',
-	'grouppage-eliminator' => '{{ns:project}}:Rasker',
+	'grouppage-eliminator' => '{{ns:project}}:Rasker', # Fuzzy
 	'group-filemover' => 'Adenver restroù',
 	'group-filemover-member' => "{{GENDER:$1|dilec'hier|dilec'hierez}} restroù",
 	'grouppage-filemover' => '{{ns:project}}: Adenverien restr',
@@ -2457,11 +2475,11 @@ $messages['br'] = array(
 	'group-inactive' => 'Implijerien dioberiant',
 	'group-inactive-member' => '{{GENDER:$1|implijer dizoberiant|implijerez dizoberiant}}',
 	'grouppage-inactive' => '{{ns:project}}:Implijerien dioberiant',
-	'wikimedia-copyright' => 'Gallout a reer implijout an testennoù zo dindan <a href="//creativecommons.org/licenses/by-sa/3.0/">an Aotre-Implijout Creative Commons Dereiñ/Kenrannañ</a>;
+	'wikimedia-copyright' => 'Gallout a reer implijout an testennoù zo dindan <a href="https://creativecommons.org/licenses/by-sa/3.0/">an Aotre-Implijout Creative Commons Dereiñ/Kenrannañ</a>;
 divizoù ouzhpenn a c\'hall bezañ ivez.
-Gwelet an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Doareoù Implijout</a> evit gouzout hiroc\'h.',
-	'wikimedia-copyrightwarning' => "Dre glikañ war ar bouton \"{{int:savearticle}}\" ec'h asantit [//wikimediafoundation.org/wiki/Terms_of_Use d'an Termenoù Implij] hag emaoc'h a-du da enskrivañ da viken ho tegasadennoù dindan
-[//creativecommons.org/licenses/by-sa/3.0/ an aotre-implijout CC-BY-SA 3.0] hag ar [//www.gnu.org/copyleft/fdl.html GFDL]
+Gwelet an <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Doareoù Implijout</a> evit gouzout hiroc\'h.',
+	'wikimedia-copyrightwarning' => "Dre glikañ war ar bouton \"{{int:savearticle}}\" ec'h asantit [https://wikimediafoundation.org/wiki/Terms_of_Use d'an Termenoù Implij] hag emaoc'h a-du da enskrivañ da viken ho tegasadennoù dindan
+[https://creativecommons.org/licenses/by-sa/3.0/ an aotre-implijout CC-BY-SA 3.0] hag ar [https://www.gnu.org/copyleft/fdl.html GFDL]
 A-du emaoc'h ez eo trawalc'h deoc'h bezañ meneget dre ur gourliamm pe un URL, dindan an aotre-implijout Creative Commons Dereiñ.",
 	'cant-delete-main-page' => "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 );
@@ -2517,7 +2535,7 @@ $messages['bs'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Urednici zaštićenih stranica',
 	'group-eliminator' => 'Odstranjivači',
 	'group-eliminator-member' => 'odstranjivač', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Odstranjivač',
+	'grouppage-eliminator' => '{{ns:project}}:Odstranjivač', # Fuzzy
 	'group-filemover' => 'Premještaju datoteke',
 	'group-filemover-member' => 'premješta datoteke', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Premještanje datoteka',
@@ -2550,6 +2568,9 @@ $messages['bs'] = array(
 	'group-trusted' => 'Korisnici od povjerenja',
 	'group-trusted-member' => 'korisnik od povjerenja', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Korisnici od povjerenja',
+	'group-uploader' => 'Postavljači',
+	'group-uploader-member' => 'postavljač', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Postavljači',
 	'group-Global_bot' => 'Globalni botovi',
 	'group-Global_bot-member' => 'globalni bot', # Fuzzy
 	'group-Global_rollback' => 'Globalni povratioci',
@@ -2571,12 +2592,12 @@ $messages['bs'] = array(
 	'group-inactive' => 'Neaktivni korisnici',
 	'group-inactive-member' => 'neaktivni korisnik', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni korisnici',
-	'wikimedia-copyright' => 'Tekst je dostupan pod <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licencom</a>;
+	'wikimedia-copyright' => 'Tekst je dostupan pod <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licencom</a>;
 dodatni uslovi se mogu primijeniti.
-Za detalje pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">uslove korištenja</a>.',
-	'wikimedia-copyrightwarning' => 'Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike licencom 3.0] i [//www.gnu.org/copyleft/fdl.html GFDL].
+Za detalje pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">uslove korištenja</a>.',
+	'wikimedia-copyrightwarning' => 'Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike licencom 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL].
 Slažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.
-Za dalje detalje pogledajte [//wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].', # Fuzzy
+Za dalje detalje pogledajte [https://wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].', # Fuzzy
 	'createacct-imgcaptcha-help' => 'Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]',
 );
 
@@ -2653,7 +2674,7 @@ $messages['ca'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editors de pàgines protegides',
 	'group-eliminator' => 'Eliminadors',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminadors',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminadors', # Fuzzy
 	'group-filemover' => 'Desplaçadors de fitxers',
 	'group-filemover-member' => '{{GENDER:$1|desplaçador|desplaçadora}} de fitxers',
 	'grouppage-filemover' => '{{ns:project}}:Desplaçadors de fitxers',
@@ -2687,6 +2708,7 @@ $messages['ca'] = array(
 	'group-trusted' => 'Usuaris de confiança',
 	'group-trusted-member' => '{{GENDER:$1|usuari|usuària}} de confiança',
 	'grouppage-trusted' => '{{ns:project}}:Usuaris de confiança',
+	'group-uploader' => 'Carregadors',
 	'group-Global_bot' => 'Bots globals',
 	'group-Global_bot-member' => '{{GENDER:$1|bot global}}',
 	'group-Global_rollback' => 'Reversors globals',
@@ -2711,10 +2733,10 @@ $messages['ca'] = array(
 	'group-inactive' => 'Usuaris inactius',
 	'group-inactive-member' => '{{GENDER:$1|usuari inactiu|usuària inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
-	'wikimedia-copyright' => 'El text està disponible sota la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
-Vegeu les <a href="//wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
-	'wikidata-shortcopyrightwarning' => 'En clicar "desa", esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use/ca condicions d\'ús] i accepteu alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/publicdomain/zero/1.0/deed.ca llicència CC0].',
-	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [//creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'El text està disponible sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
+Vegeu les <a href="https://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
+	'wikidata-shortcopyrightwarning' => 'En clicar "desa", esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use/ca condicions d\'ús] i accepteu alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/publicdomain/zero/1.0/deed.ca llicència CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
@@ -2758,9 +2780,9 @@ $messages['ce'] = array(
 	'group-steward' => 'Стюардхой',
 	'group-sysadmin' => 'Системин куьйгалхой',
 	'shared-repo-name-shared' => 'ВикидӀайуьллуче',
-	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
-	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [//www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
-Мадарра хьажа. [//wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
+	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
+	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
+Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
 );
 
 /** Cebuano (Cebuano)
@@ -2770,11 +2792,11 @@ $messages['ce'] = array(
 $messages['ceb'] = array(
 	'sitesupport' => 'Mga donasyon',
 	'tooltip-n-sitesupport' => 'Tabangi kami',
-	'wikimedia-copyright' => 'Ang teksto puyde magamit ubos sa <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; puyde madugangan ang mga termino.
-Tan-awa ang <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mga Termino sa Paggamit</a> para sa mga detalye.',
-	'wikimedia-copyrightwarning' => 'Sa pagtipig, miuyon ka sa di-mabawi nga pagpagawas sa imong kontribusyon ubos sa [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ug sa [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Ang teksto puyde magamit ubos sa <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; puyde madugangan ang mga termino.
+Tan-awa ang <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Mga Termino sa Paggamit</a> para sa mga detalye.',
+	'wikimedia-copyrightwarning' => 'Sa pagtipig, miuyon ka sa di-mabawi nga pagpagawas sa imong kontribusyon ubos sa [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ug sa [https://www.gnu.org/copyleft/fdl.html GFDL].
 Miuyon ka nga tagaan og kredito sa mga re-user, sa minimum, pinaagi sa hyperlink o URL ngadto sa panid nga imo gitampohan.
-Tan-awa ang [//wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit] para sa mga detalye.', # Fuzzy
+Tan-awa ang [https://wikimediafoundation.org/wiki/Terms_of_Use Mga Termino sa Paggamit] para sa mga detalye.', # Fuzzy
 );
 
 /** Chamorro (Chamoru)
@@ -2838,12 +2860,12 @@ $messages['ckb'] = array(
 	'group-inactive' => 'بەکارهێنەرانی ناچالاک',
 	'group-inactive-member' => '{{GENDER:$1|بەکارھێنەری ناچالاک}}',
 	'grouppage-inactive' => '{{ns:project}}: بەکارهێنەرانی ناچالاک',
-	'wikimedia-copyright' => 'دەق لەژێر <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛
+	'wikimedia-copyright' => 'دەق لەژێر <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛
 لەوانەیە مەرجی تریشی پێ زیاد ببێ.
-سەیری <a href="//wikimediafoundation.org/wiki/Terms_of_Use">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.',
-	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
+سەیری <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.',
+	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
 قەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.
-سەیری [//wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.', # Fuzzy
+سەیری [https://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.', # Fuzzy
 );
 
 /** Corsican (corsu)
@@ -2859,8 +2881,8 @@ $messages['co'] = array(
  */
 $messages['crh-cyrl'] = array(
 	'sitesupport' => 'Багъышлар',
-	'wikimedia-copyright' => 'Метин <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясынен берильген; базыда иляве шартлар къулланылып ола. Тафсилят ичюн <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Къулланув Шартлары</a>на бакъынъыз.',
-	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' дёгмесине басып сиз [//wikimediafoundation.org/wiki/Terms_of_Use Къулланув Шартлары]нен разы олып [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] ве [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларынынъ шартларына коре язгъанынъызнынъ кери къайтарылмаз шекильде дердж этильгенини къабул этерсинъиз. Creative Commons лицензиясынынъ талапларына уйгъун олмакъ ичюн бу саифеге багъланты бермек я да бу саифенинъ URL адресини бильдирмек етерлик оладжагъыны да къабул этерсинъиз.",
+	'wikimedia-copyright' => 'Метин <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясынен берильген; базыда иляве шартлар къулланылып ола. Тафсилят ичюн <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Къулланув Шартлары</a>на бакъынъыз.',
+	'wikimedia-copyrightwarning' => "'''«{{int:savearticle}}»''' дёгмесине басып сиз [https://wikimediafoundation.org/wiki/Terms_of_Use Къулланув Шартлары]нен разы олып [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] ве [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияларынынъ шартларына коре язгъанынъызнынъ кери къайтарылмаз шекильде дердж этильгенини къабул этерсинъиз. Creative Commons лицензиясынынъ талапларына уйгъун олмакъ ичюн бу саифеге багъланты бермек я да бу саифенинъ URL адресини бильдирмек етерлик оладжагъыны да къабул этерсинъиз.",
 );
 
 /** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
@@ -2868,8 +2890,8 @@ $messages['crh-cyrl'] = array(
  */
 $messages['crh-latn'] = array(
 	'sitesupport' => 'Bağışlar',
-	'wikimedia-copyright' => 'Metin <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Qullanuv Şartları</a>na baqıñız.',
-	'wikimedia-copyrightwarning' => "'''“{{int:savearticle}}”''' dögmesine basıp siz [//wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]nen razı olıp [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] ve [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde derc etilgenini qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
+	'wikimedia-copyright' => 'Metin <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Qullanuv Şartları</a>na baqıñız.',
+	'wikimedia-copyrightwarning' => "'''“{{int:savearticle}}”''' dögmesine basıp siz [https://wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]nen razı olıp [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde derc etilgenini qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
 );
 
 /** Czech (česky)
@@ -3000,13 +3022,13 @@ $messages['cs'] = array(
 	'group-inactive' => 'Neaktivní uživatelé',
 	'group-inactive-member' => 'neaktivní {{GENDER:$1|uživatel|uživatelka|uživatel}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivní uživatelé',
-	'wikimedia-copyright' => 'Text je dostupný pod <a href="//creativecommons.org/licenses/by-sa/3.0/deed.cs">licencí Creative Commons Uveďte autora&nbsp;– Zachovejte licenci</a>, případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="//wikimediafoundation.org/wiki/Podmínky_užití">Podmínky užití</a>.',
-	'wikidata-copyright' => 'Všechna strukturovaná data z hlavního jmenného prostoru a jmenného prostoru vlastností jsou k dispozici pod licencí <a href="//creativecommons.org/publicdomain/zero/1.0/deed.cs" title="Definice licence Creative Commons CC0">Creative Commons CC0</a>;
-text v ostatních jmenných prostorech je k dispozici pod licencí <a href="//creativecommons.org/licenses/by-sa/3.0/deed.cs" title="Definice licence Creative Commons Uveďte autora-Zachovejte licenci">Creative Commons Uveďte autora-Zachovejte licenci</a>;
+	'wikimedia-copyright' => 'Text je dostupný pod <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.cs">licencí Creative Commons Uveďte autora&nbsp;– Zachovejte licenci</a>, případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="https://wikimediafoundation.org/wiki/Podmínky_užití">Podmínky užití</a>.',
+	'wikidata-copyright' => 'Všechna strukturovaná data z hlavního jmenného prostoru a jmenného prostoru vlastností jsou k dispozici pod licencí <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs" title="Definice licence Creative Commons CC0">Creative Commons CC0</a>;
+text v ostatních jmenných prostorech je k dispozici pod licencí <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.cs" title="Definice licence Creative Commons Uveďte autora-Zachovejte licenci">Creative Commons Uveďte autora-Zachovejte licenci</a>;
 mohou se vyskytnout další podmínky.
-Pro další detaily vizte <a href="//wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
-	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [//wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [//creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
-	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[//wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [//creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
+Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
+	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
+	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikivoyage provázané s touto položkou',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
@@ -3025,9 +3047,9 @@ Pro další detaily vizte <a href="//wikimediafoundation.org/wiki/Terms_of_use/c
  */
 $messages['cu'] = array(
 	'sitesupport' => 'даꙗниꙗ',
-	'wikimedia-copyright' => 'подъ прощєниѥмь <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙
-Ꙁьри <a href="//wikimediafoundation.org/wiki/Terms_of_Use/cu">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма',
-	'wikimedia-copyrightwarning' => 'ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тъ бѫди съгласьнъ съ [//wikimediafoundation.org/wiki/Terms_of_Use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєнии [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] и [//www.gnu.org/copyleft/fdl.html GFDL] ⁙
+	'wikimedia-copyright' => 'подъ прощєниѥмь <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙
+Ꙁьри <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/cu">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма',
+	'wikimedia-copyrightwarning' => 'ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тъ бѫди съгласьнъ съ [https://wikimediafoundation.org/wiki/Terms_of_Use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєнии [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] и [https://www.gnu.org/copyleft/fdl.html GFDL] ⁙
 съгласьнь бѫди бо съвѧꙁь (URL) добро оукаꙁаниѥ творьца прощєниꙗ Creative Commons дѣлꙗ ѥстъ',
 );
 
@@ -3094,7 +3116,7 @@ $messages['cy'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Golygyddion tudalennau wedi'u diogelu",
 	'group-eliminator' => 'Dilëwyr',
 	'group-eliminator-member' => 'dilëwr',
-	'grouppage-eliminator' => '{{ns:project}}:Dilëwr',
+	'grouppage-eliminator' => '{{ns:project}}:Dilëwr', # Fuzzy
 	'group-filemover' => 'Symudwyr ffeiliau',
 	'group-filemover-member' => 'symudwr ffeiliau',
 	'grouppage-filemover' => '{{ns:project}}:Symudwyr ffeiliau',
@@ -3128,6 +3150,9 @@ $messages['cy'] = array(
 	'group-trusted' => 'Defnyddwyr dibynadwy',
 	'group-trusted-member' => 'defnyddiwr dibynadwy',
 	'grouppage-trusted' => '{{ns:project}}:Defnyddwyr dibynadwy',
+	'group-uploader' => 'Uwchlwythwyr',
+	'group-uploader-member' => 'uwchlwythwr', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Uwchlwythwyr',
 	'group-Global_bot' => 'Botiau cydwici',
 	'group-Global_bot-member' => 'bot cydwici',
 	'group-Global_rollback' => 'Gwrthdrowyr cydwici',
@@ -3158,17 +3183,17 @@ $messages['cy'] = array(
 	'group-inactive' => 'Defnyddwyr segur',
 	'group-inactive-member' => '{{GENDER:$1|defnyddiwr segur}}',
 	'grouppage-inactive' => '{{ns:project}}:Defnyddwyr segur',
-	'wikimedia-copyright' => 'Rhoddir testun y dudalen ar gael ar delerau\'r drwydded <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Rhoddir testun y dudalen ar gael ar delerau\'r drwydded <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>;
 gall fod telerau ychwanegol yn perthyn i\'r testun.
-Gweler <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Telerau Defnyddio\'r Drwydded</a> am fanylion pellach.',
-	'wikidata-copyright' => 'Mae\'r holl data strwythuredig yn y prif barth a\'r parth nodwedd ar gael yn ôl termau\'r drwydded <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Deffiniad y Drwydded Creative Commons CC0">Creative Commons CC0</a>;
-mae testun yn y parthau eraill ar gael yn ôl termau\'r drwydded <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Diffiniad y Drwydded Creative Commons Attribution/Share-Alike">Creative Commons Attribution/Share-Alike</a>;
+Gweler <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Telerau Defnyddio\'r Drwydded</a> am fanylion pellach.',
+	'wikidata-copyright' => 'Mae\'r holl data strwythuredig yn y prif barth a\'r parth nodwedd ar gael yn ôl termau\'r drwydded <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Deffiniad y Drwydded Creative Commons CC0">Creative Commons CC0</a>;
+mae testun yn y parthau eraill ar gael yn ôl termau\'r drwydded <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Diffiniad y Drwydded Creative Commons Attribution/Share-Alike">Creative Commons Attribution/Share-Alike</a>;
 gall termau ychwanegol fod yn weithredol.
-Gweler y <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Termau Defnyddio Sefydliad Wikimedia">Termau Defnyddio</a> am fanylion.',
-	'wikidata-shortcopyrightwarning' => 'Wrth bwyso ar "cadwer", rydych yn derbyn y [https://wikimediafoundation.org/wiki/Terms_of_Use telerau defnyddio], ac yn cytuno\'n ddi-droi-nôl i ryddhau eich cyfraniad gyda  [https://creativecommons.org/publicdomain/zero/1.0/ thrwydded CC0] arno.',
-	'wikimedia-copyrightwarning' => "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a'r [//www.gnu.org/copyleft/fdl.html GFDL].
+Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Termau Defnyddio Sefydliad Wikimedia">Termau Defnyddio</a> am fanylion.',
+	'wikidata-shortcopyrightwarning' => 'Wrth bwyso ar "cadwer", rydych yn derbyn y [https://wikimediafoundation.org/wiki/Terms_of_Use telerau defnyddio], ac yn cytuno\'n ddi-droi-nôl i ryddhau eich cyfraniad gyda  [https://creativecommons.org/publicdomain/zero/1.0/ thrwydded CC0] arno.', # Fuzzy
+	'wikimedia-copyrightwarning' => "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a'r [https://www.gnu.org/copyleft/fdl.html GFDL].
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
-Gweler [//wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
+Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 	'upload-more-photos-of-this-monument' => "Uwchlwytho rhagor o luniau o'r gofeb hon",
@@ -3245,7 +3270,7 @@ $messages['da'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Brugere, der kan redigere beskyttede sider',
 	'group-eliminator' => 'Eliminatorer',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
 	'group-filemover' => 'Filflyttere',
 	'group-filemover-member' => '{{GENDER:$1|filflytter}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
@@ -3279,6 +3304,9 @@ $messages['da'] = array(
 	'group-trusted' => 'Betroede brugere',
 	'group-trusted-member' => '{{GENDER:$1|betroet bruger}}',
 	'grouppage-trusted' => '{{ns:project}}:Betroede brugere',
+	'group-uploader' => 'Oplæggere',
+	'group-uploader-member' => 'Oplægger', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Oplæggere',
 	'group-Global_bot' => 'Globale robotter',
 	'group-Global_bot-member' => '{{GENDER:$1|global robot}}',
 	'group-Global_rollback' => 'Globale tilbagerullere',
@@ -3318,13 +3346,13 @@ $messages['da'] = array(
 	'group-inactive' => 'Inaktive brugere',
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruger}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
-	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
-	'wikidata-copyright' => 'Alle strukturerede data fra hoved- og egenskabsnavnerummet er tilgængelige under en <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
-tekst i de andre navnerum er tilgængelig under <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
+	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
+	'wikidata-copyright' => 'Alle strukturerede data fra hoved- og egenskabsnavnerummet er tilgængelige under en <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
+tekst i de andre navnerum er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
 yderligere betingelser kan forekomme.
-Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Vilkår for anvendelse</a> for detaljer.',
-	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "Gem", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].',
-	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [//wikimediafoundation.org/wiki/Terms_of_Use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [//www.gnu.org/copyleft/fdl.html GFDL].
+Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Vilkår for anvendelse</a> for detaljer.',
+	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "Gem", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Privacy_policy fortrolighedspolitik].',
@@ -3340,6 +3368,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
 /** German (Deutsch)
  * @author Church of emacs
  * @author Geitost
+ * @author Inkowik
  * @author Kghbln
  * @author Khaledelmansoury
  * @author MF-Warburg
@@ -3486,16 +3515,16 @@ $messages['de'] = array(
 	'group-inactive' => 'Inaktive Benutzer',
 	'group-inactive-member' => '{{GENDER:$1|Inaktiver Benutzer|Inaktive Benutzerin}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutzer',
-	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können gelten.
-Einzelheiten sind in den <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrieben.',
-	'wikidata-copyright' => 'Alle strukturierten Daten des Artikel- und Eigenschaftsnamensraums sind verfügbar unter der <a href="//creativecommons.org/publicdomain/zero/1.0/deed.de" title="Definition der Creative-Commons-CC0-Lizenz">Creative-Commons-CC0-Lizenz</a>;
-Text in anderen Namensräumen ist verfügbar unter der <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de" title="Definition der Creative-Commons-Attribution/Share-Alike-Lizenz">Creative-Commons-Attribution/Share-Alike-Lizenz</a>;
+	'wikimedia-copyright' => 'Der Text ist unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> verfügbar; zusätzliche Bedingungen können gelten.
+Einzelheiten sind in den <a href="https://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutzungsbedingungen</a> beschrieben.',
+	'wikidata-copyright' => 'Alle strukturierten Daten des Artikel- und Eigenschaftsnamensraums sind verfügbar unter der <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" title="Definition der Creative-Commons-CC0-Lizenz">Creative-Commons-CC0-Lizenz</a>;
+Text in anderen Namensräumen ist verfügbar unter der <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Definition der Creative-Commons-Attribution/Share-Alike-Lizenz">Creative-Commons-Attribution/Share-Alike-Lizenz</a>;
 zusätzliche Bedingungen können anwendbar sein.
-Siehe die <a href="//wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzungsbedingungen der Wikimedia Foundation">Nutzungsbedingungen</a> für Einzelheiten.',
-	'wikidata-shortcopyrightwarning' => 'Durch Klicken auf „{{int:wikibase-save}}“ stimmst du den [//wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Beitrags unter der [//creativecommons.org/publicdomain/zero/1.0/deed.de CC0-Lizenz] zu.',
-	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+Siehe die <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzungsbedingungen der Wikimedia Foundation">Nutzungsbedingungen</a> für Einzelheiten.',
+	'wikidata-shortcopyrightwarning' => 'Durch Klicken auf „{{int:wikibase-save}}“ stimmst du den [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Beitrags unter der [https://creativecommons.org/publicdomain/zero/1.0/deed.de CC0-Lizenz] zu.',
+	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
-	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten, die auf dieses Objekt verlinkt sind',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten, die mit diesem Objekt verlinkt sind',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
@@ -3516,7 +3545,7 @@ $messages['de-ch'] = array(
 	'group-bigexport' => 'Grossexporteure',
 	'group-bigexport-member' => '{{GENDER:$1|Grossexporteur|Grossexporteurin}}',
 	'grouppage-bigexport' => '{{ns:project}}:Grossexporteure',
-	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche «{{int:savearticle}}» erklärst du dich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' «Namensnennung / Weitergabe unter gleichen Bedingungen 3.0»] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche «{{int:savearticle}}» erklärst du dich mit den [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' «Namensnennung / Weitergabe unter gleichen Bedingungen 3.0»] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäss der ''Creative-Commons''-Lizenz, ausreichend ist.",
 );
 
@@ -3528,7 +3557,7 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
  */
 $messages['de-formal'] = array(
 	'tooltip-n-sitesupport' => 'Unterstützen Sie uns',
-	'wikimedia-copyrightwarning' => 'Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklären Sie sich mit den [//wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzieren Ihre Bearbeitung unwiderruflich unter der Lizenz [//creativecommons.org/licenses/by-sa/3.0/deed.de Creative Commons „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklären Sie sich mit den [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzieren Ihre Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de Creative Commons „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Sie stimmen zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der Creative-Commons-Lizenz, ausreichend ist.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmen Sie zu, dass die Wikimedia Foundation Sie bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für Sie von Interesse sind. Sie stimmen zudem zu, dass Ihre Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 );
@@ -3591,7 +3620,7 @@ $messages['diq'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Nustekaranê pelanê ke kilit biyo',
 	'group-eliminator' => 'Bestereni',
 	'group-eliminator-member' => '{{GENDER:$1|besterner}}',
-	'grouppage-eliminator' => '{{ns:project}}:besterner',
+	'grouppage-eliminator' => '{{ns:project}}:besterner', # Fuzzy
 	'group-filemover' => 'Berdoxê dosyayi',
 	'group-filemover-member' => '{{GENDER:$1|Dosya berdkar}}',
 	'grouppage-filemover' => '{{ns:project}}:Hewadarê Dosya',
@@ -3659,8 +3688,8 @@ $messages['diq'] = array(
 	'group-inactive' => 'karber ê ke aktif niyê',
 	'group-inactive-member' => '{{GENDER:$1|Karbero qulxan}}',
 	'grouppage-inactive' => '{{ns:project}}:karber ê ke aktif niyê',
-	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="//wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
-	'wikimedia-copyrightwarning' => "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] qebul kenê, u şıma iştıraqê xoyo ke bınê [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] u  [//www.gnu.org/copyleft/fdl.html GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.
+	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
+	'wikimedia-copyrightwarning' => "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] qebul kenê, u şıma iştıraqê xoyo ke bınê [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] u  [https://www.gnu.org/copyleft/fdl.html GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.
 Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, qebul kenê.",
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
@@ -3727,7 +3756,7 @@ $messages['dsb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Wobźěłarje šćitanych bokow',
 	'group-eliminator' => 'Lašowarje',
 	'group-eliminator-member' => '{{GENDER:$1|lašowaŕ|lašowarka}}',
-	'grouppage-eliminator' => '{{ns:project}}:Lašowaŕ',
+	'grouppage-eliminator' => '{{ns:project}}:Lašowaŕ', # Fuzzy
 	'group-filemover' => 'Pśesuwarje datajow',
 	'group-filemover-member' => '{{GENDER:$1|pśesuwaŕ|pśesuwarka}} datajow',
 	'grouppage-filemover' => '{{ns:project}}:Pśesuwarje datajow',
@@ -3761,6 +3790,9 @@ $messages['dsb'] = array(
 	'group-trusted' => 'Dowěry gódne wužywarje',
 	'group-trusted-member' => '{{GENDER:$1|dowěry gódny wužywaŕ|dowěry gódna wužywarka}}',
 	'grouppage-trusted' => '{{ns:project}}:Dowěry gódne wužywarje',
+	'group-uploader' => 'Nagrawarje',
+	'group-uploader-member' => 'nagrawaŕ', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Nagrawarje',
 	'group-Global_bot' => 'Globalne bośiki',
 	'group-Global_bot-member' => '{{GENDER:$1|globalny bot}}',
 	'group-Global_rollback' => 'Globalne slědkstajarje',
@@ -3785,8 +3817,8 @@ $messages['dsb'] = array(
 	'group-inactive' => 'Njeaktiwne wužywarje',
 	'group-inactive-member' => '{{GENDER:$1|njeaktiwny wužywaŕ|njeaktiwna wužywarka}}',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwne wužywarje',
-	'wikimedia-copyright' => 'Tekst stoj pód <a href="//creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wužywańske wuměnjenja</a> za drobnostki.',
-	'wikimedia-copyrightwarning' => 'Pśez kliknjenje na tłocašk "{{int:savearticle}}" pśigłosujoš [//wikimediafoundation.org/wiki/Terms_of_Use wužywańskim wuměnjenjam] a wugronijoš definitiwnje swóju wobjadnosć, až stajijoš swój pśinosk pód licency [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Tekst stoj pód <a href="https://creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wužywańske wuměnjenja</a> za drobnostki.',
+	'wikimedia-copyrightwarning' => 'Pśez kliknjenje na tłocašk "{{int:savearticle}}" pśigłosujoš [https://wikimediafoundation.org/wiki/Terms_of_Use wužywańskim wuměnjenjam] a wugronijoš definitiwnje swóju wobjadnosć, až stajijoš swój pśinosk pód licency [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL].
 Pśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Creative Commons.',
 	'cant-delete-main-page' => 'Njamóžoš głowny bok wulašowaś abo pśesunuś.',
 	'wikimedia-translationnotifications-signup-legal' => 'Pśez pśepowdawanje toś tych informacijow załožbje Wikimedian Foundation zwólijoš do togo, až móžomy se nastupajucy pśełožki abo druge temy, kótarež gibanje Wikimedije nastupaju, z tobu do zwiska stajiś. Zwólijoš do togo, až twóje daty składuju se w Zjadnośonych statach Ameriki a su pśedmjat našych [https://wikimediafoundation.org/wiki/Privacy_policy pšawidłow priwatnosći].',
@@ -3890,7 +3922,7 @@ $messages['el'] = array(
 	'grouppage-editprotected' => '{{ns:project}}: Προστατευμένη σελίδα από συντάκτες',
 	'group-eliminator' => 'Εξαλείφοντες',
 	'group-eliminator-member' => 'Εξαλείφοντες',
-	'grouppage-eliminator' => '{{ns:project}}:Εξαλείφων',
+	'grouppage-eliminator' => '{{ns:project}}:Εξαλείφων', # Fuzzy
 	'group-filemover' => 'Μετακινητές αρχείου',
 	'group-filemover-member' => '{{GENDER:$1|μετακινητής αρχείου}}',
 	'grouppage-filemover' => '{{ns:project}}:Μεταφορείς αρχείων',
@@ -3923,6 +3955,9 @@ $messages['el'] = array(
 	'group-trusted' => 'Έμπιστοι χρήστες',
 	'group-trusted-member' => '{{GENDER:$1|έμπιστος χρήστης}}',
 	'grouppage-trusted' => '{{ns:project}}:Έμπιστοι χρήστες',
+	'group-uploader' => 'Επιφορτωτές',
+	'group-uploader-member' => 'επιφορτωτής', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Επιφορτωτές',
 	'group-Global_bot' => 'Καθολικά bots',
 	'group-Global_bot-member' => '{{GENDER:$1|καθολικό bot}}',
 	'group-Global_rollback' => 'Καθολικοί rollbackers',
@@ -3947,9 +3982,9 @@ $messages['el'] = array(
 	'group-inactive' => 'Ανενεργοί χρήστες',
 	'group-inactive-member' => '{{GENDER:$1|ανενεργός χρήστης}}',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
-	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="//creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "Αποθήκευση", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].',
-	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [//creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [//www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [//wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
+	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
+	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "Αποθήκευση", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
@@ -4025,7 +4060,7 @@ $messages['eo'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redaktantoj de protektitaj paĝoj',
 	'group-eliminator' => 'Forigantoj',
 	'group-eliminator-member' => '{{GENDER:$1|foriganto|forigantino}}',
-	'grouppage-eliminator' => '{{ns:project}}:Foriganto',
+	'grouppage-eliminator' => '{{ns:project}}:Foriganto', # Fuzzy
 	'group-filemover' => 'Dosieraj movantoj',
 	'group-filemover-member' => '{{GENDER:$1|dosiera movanto|dosiera movantino}}',
 	'grouppage-filemover' => '{{ns:project}}:Dosieraj movantoj',
@@ -4059,6 +4094,9 @@ $messages['eo'] = array(
 	'group-trusted' => 'Fidelaj uzantoj',
 	'group-trusted-member' => '{{GENDER:$1|fidela uzanto|fidela uzantino}}',
 	'grouppage-trusted' => '{{ns:project}}:Fidelaj uzantoj',
+	'group-uploader' => 'Alŝutantoj',
+	'group-uploader-member' => 'alŝutanto', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Alŝutantoj',
 	'group-Global_bot' => 'Ĝeneralaj robotoj',
 	'group-Global_bot-member' => '{{GENDER:$1|ĝenerala roboto}}',
 	'group-Global_rollback' => 'Transvikia restariganto',
@@ -4085,9 +4123,9 @@ $messages['eo'] = array(
 	'group-inactive' => 'Neaktivaj uzantoj',
 	'group-inactive-member' => '{{GENDER:$1|neaktiva uzanto|neaktiva uzantino}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivaj uzantoj',
-	'wikimedia-copyright' => 'La teksto disponeblas laŭ la permesilo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.eo">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.
-Vidu la <a href="//wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> por detaloj.',
-	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas al la [//wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [//creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'La teksto disponeblas laŭ la permesilo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.eo">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.
+Vidu la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">uzkondiĉojn</a> por detaloj.',
+	'wikimedia-copyrightwarning' => 'Konservante, vi konsentas al la [https://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [https://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita.',
 	'cant-delete-main-page' => 'Vi ne povas forigi aŭ movi la ĉefpaĝo.',
 	'wikimedia-translationnotifications-signup-legal' => 'Donante ĉi tiun informon al la Fonduso Wikimedia, vi konsentas kontakti vin pri tradukoj aŭ aliaj temoj rilataj al la Wikimedia-movado, kiun ni konsideras esti interesa al vi. Vi konsentas ke via datumoj estos konservita en Usono kaj estas sub nia [https://wikimediafoundation.org/wiki/Privacy_policy regularo pri privateco].',
@@ -4243,17 +4281,17 @@ $messages['es'] = array(
 	'group-inactive' => 'Usuarios inactivos',
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
-	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
+	'wikimedia-copyright' => 'El texto está disponible bajo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;
 pueden aplicarse términos adicionales.
-Véase <a href="//wikimediafoundation.org/wiki/Términos_de_Uso">Términos de uso</a> para más detalles.',
-	'wikidata-copyright' => 'Todos los datos estructurados del espacio de nombres principal y de propiedad están disponibles bajo la <a href="//creativecommons.org/publicdomain/zero/1.0/deed.es" title="Definición de la licencia Creative Commons CC0">licencia Creative Commons CC0</a>;
-el texto en los demás espacios de nombres está disponible bajo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.es" title="Definición de la licencia Creative Commons Atribución-CompartirIgual">licencia Creative Commons Atribución-CompartirIgual</a>;
+Véase <a href="https://wikimediafoundation.org/wiki/Términos_de_Uso">Términos de uso</a> para más detalles.',
+	'wikidata-copyright' => 'Todos los datos estructurados del espacio de nombres principal y de propiedad están disponibles bajo la <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.es" title="Definición de la licencia Creative Commons CC0">licencia Creative Commons CC0</a>;
+el texto en los demás espacios de nombres está disponible bajo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es" title="Definición de la licencia Creative Commons Atribución-CompartirIgual">licencia Creative Commons Atribución-CompartirIgual</a>;
 pueden aplicarse términos adicionales.
-Véanse los <a href="//wikimediafoundation.org/wiki/Terms_of_Use/es" title="Términos y condiciones de uso de la Fundacuón Wikimedia">Términos y condiciones de uso</a> para más detalles.',
-	'wikidata-shortcopyrightwarning' => 'Al pulsar en «{{int:wikibase-save}}» aceptas los [//wikimediafoundation.org/wiki/Terms_of_Use términos de uso] y acuerdas liberar tu contribución bajo la [//creativecommons.org/publicdomain/zero/1.0/ licencia CC0].',
+Véanse los <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/es" title="Términos y condiciones de uso de la Fundacuón Wikimedia">Términos y condiciones de uso</a> para más detalles.',
+	'wikidata-shortcopyrightwarning' => 'Al pulsar en «{{int:wikibase-save}}» aceptas los [https://wikimediafoundation.org/wiki/Terms_of_Use términos de uso] y acuerdas liberar tu contribución bajo la [https://creativecommons.org/publicdomain/zero/1.0/ licencia CC0].',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
-Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.',
+Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.', # Fuzzy
 	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
@@ -4383,11 +4421,11 @@ $messages['et'] = array(
 	'group-inactive' => 'Passiivsed kasutajad',
 	'group-inactive-member' => '{{GENDER:$1|passiivne kasutaja}}',
 	'grouppage-inactive' => '{{ns:project}}:Ebaaktiivsed kasutajad',
-	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="//creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
+	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
 sellele võivad lisanduda täiendavad tingimused.
-Täpsemalt vaata <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
-	'wikidata-shortcopyrightwarning' => 'Kui klõpsad "{{int:wikibase-save}}", nõustud [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma kaastöö pöördumatu avaldamisega Creative Commonsi üldise litsentsi [//creativecommons.org/publicdomain/zero/1.0/deed.et CC0] all.',
-	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [//creativecommons.org/licenses/by-sa/3.0/deed.et CC-BY-SA 3.0] ja [//www.gnu.org/copyleft/fdl.html GFDL] alusel.
+Täpsemalt vaata <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
+	'wikidata-shortcopyrightwarning' => 'Kui klõpsad "{{int:wikibase-save}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma kaastöö pöördumatu avaldamisega Creative Commonsi üldise litsentsi [https://creativecommons.org/publicdomain/zero/1.0/deed.et CC0] all.',
+	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC-BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikibase-sitelinks-wikivoyage' => "Sellele üksusele viitavad Wikivoyage'i-leheküljed",
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
@@ -4455,7 +4493,7 @@ $messages['eu'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Babestutako orrien editoreak',
 	'group-eliminator' => 'Ezabatzaileak',
 	'group-eliminator-member' => '{{GENDER:$1|ezabatzailea}}',
-	'grouppage-eliminator' => '{{ns:project}}:Ezabatzaileak',
+	'grouppage-eliminator' => '{{ns:project}}:Ezabatzaileak', # Fuzzy
 	'group-filemover' => 'Fitxategi mugitzaileak',
 	'group-filemover-member' => '{{GENDER:$1|fitxategi mugitzailea}}',
 	'grouppage-filemover' => '{{ns:project}}:Fitxategi mugitzaileak',
@@ -4489,6 +4527,9 @@ $messages['eu'] = array(
 	'group-trusted' => 'Konfiantzazko lankideak',
 	'group-trusted-member' => '{{GENDER:$1|Konfiantzazko lankidea}}',
 	'grouppage-trusted' => '{{ns:project}}:Konfiantzazko lankideak',
+	'group-uploader' => 'Igo dezakete',
+	'group-uploader-member' => 'igo dezake', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Igo dezakete',
 	'group-Global_bot' => 'Bot globalak',
 	'group-Global_bot-member' => '{{GENDER:$1|bot globala}}',
 	'group-Global_rollback' => 'Globalki desegin dezakete',
@@ -4511,10 +4552,10 @@ $messages['eu'] = array(
 	'group-inactive' => 'Erabiltzaile ez-aktiboak',
 	'group-inactive-member' => '{{GENDER:$1|erabiltzaile ez-aktiboa}}',
 	'grouppage-inactive' => '{{ns:project}}:Erabiltzaile ez-aktiboak',
-	'wikimedia-copyright' => 'Testua <a href="//creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin 3.0 lizentziari</a> jarraituz erabil daiteke;
+	'wikimedia-copyright' => 'Testua <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin 3.0 lizentziari</a> jarraituz erabil daiteke;
 baliteke beste klausularen batzuk ere aplikatu behar izatea.
-Xehetasunen berri izateko, ikus <a href="//wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
-	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [//wikimediafoundation.org/wiki/Terms_of_Use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Aitortu-PartekatuBerdin 3.0] eta [//www.gnu.org/copyleft/fdl.html GFDL] lizentziekin plazaratzea.
+Xehetasunen berri izateko, ikus <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">erabilera-baldintzak</a>.',
+	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [https://wikimediafoundation.org/wiki/Terms_of_Use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Aitortu-PartekatuBerdin 3.0] eta [https://www.gnu.org/copyleft/fdl.html GFDL] lizentziekin plazaratzea.
 Onartzen duzu hiperlotura bat edo URL bat aski dela aitortza hori egiteko, Creative Commons lizentziari jarraituz.',
 );
 
@@ -4593,7 +4634,7 @@ $messages['fa'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:ویرایشگران صفحه‌ها محفاظت‌شده',
 	'group-eliminator' => 'برطرف‌کننده‌ها',
 	'group-eliminator-member' => 'برطرف‌کننده',
-	'grouppage-eliminator' => '{{ns:project}}: برطرف‌کننده',
+	'grouppage-eliminator' => '{{ns:project}}: برطرف‌کننده', # Fuzzy
 	'group-filemover' => 'انتقال‌دهنده پرونده',
 	'group-filemover-member' => 'انتقال‌دهنده پرونده',
 	'grouppage-filemover' => '{{ns:project}}: انتقال‌دهندگان پرونده',
@@ -4627,6 +4668,9 @@ $messages['fa'] = array(
 	'group-trusted' => 'کاربران مورد اعتماد',
 	'group-trusted-member' => 'کاربر مورد اعتماد',
 	'grouppage-trusted' => '{{ns:project}}:کاربران تأییدشده',
+	'group-uploader' => 'بارگذارها',
+	'group-uploader-member' => 'بارگذار', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:بارگذارها',
 	'group-Global_bot' => 'ربات‌های سراسری',
 	'group-Global_bot-member' => '{{GENDER:$1|ربات سراسری}}',
 	'grouppage-Global_bot' => 'm:Global bot/fa',
@@ -4668,14 +4712,14 @@ $messages['fa'] = array(
 	'group-inactive-member' => '{{GENDER:$1|کاربر غیرفعال}}',
 	'grouppage-inactive' => '{{ns:project}}:کاربران غیرفعال',
 	'shared-repo-name-shared' => 'ویکی‌انبار',
-	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="//creativecommons.org/licenses/by-sa/3.0/">مجوز Creative Commons Attribution/Share-Alike </a> در دسترس است؛ قوانین اضافه‌ای نیز ممکن است اعمال شوند.
-برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.',
-	'wikidata-copyright' => 'ساختار همهٔ داده‌ها از فضای نام اصلی و خصوصیت تحت <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">مجوز کریتیو کامنز صفر</a> در دسترس است;
-متن در فضاهای نام دیگر تحت <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است
+	'wikimedia-copyright' => 'همهٔ نوشته‌ها تحت <a href="https://creativecommons.org/licenses/by-sa/3.0/">مجوز Creative Commons Attribution/Share-Alike </a> در دسترس است؛ قوانین اضافه‌ای نیز ممکن است اعمال شوند.
+برای جزئیات بیشتر <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.',
+	'wikidata-copyright' => 'ساختار همهٔ داده‌ها از فضای نام اصلی و خصوصیت تحت <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">مجوز کریتیو کامنز صفر</a> در دسترس است;
+متن در فضاهای نام دیگر تحت <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است
 شرایط اضافی ممکن است اعمال شود.
-برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
+برای جزئیات بیشتر <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
 	'wikidata-shortcopyrightwarning' => 'با کلیک کردن برروی "ذخیره"، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می کنید، و همچنین شما موافقت می کنید با حق انتشار مطالب شما تحت اجازه نامه [https://creativecommons.org/publicdomain/zero/1.0/ CC0].', # Fuzzy
-	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [//wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [//www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
+	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
 	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
@@ -4763,7 +4807,7 @@ $messages['fi'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Suojattujen sivujen muokkaajat',
 	'group-eliminator' => 'eliminaattorit',
 	'group-eliminator-member' => '{{GENDER:$1|eliminaattori}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminaattorit',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminaattorit', # Fuzzy
 	'group-filemover' => 'tiedostojen siirtäjät',
 	'group-filemover-member' => '{{GENDER:$1|tiedostojen siirtäjä}}',
 	'grouppage-filemover' => '{{ns:project}}:Tiedostojen siirtäjät',
@@ -4797,6 +4841,9 @@ $messages['fi'] = array(
 	'group-trusted' => 'luotetut käyttäjät',
 	'group-trusted-member' => '{{GENDER:$1|luotettu käyttäjä}}',
 	'grouppage-trusted' => '{{ns:project}}:Luotetut käyttäjät',
+	'group-uploader' => 'tiedostojen lähettäjät',
+	'group-uploader-member' => 'tiedostojen lähettäjä', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Tiedostojen lähettäjät',
 	'group-Global_bot' => 'järjestelmänlaajuiset botit',
 	'group-Global_bot-member' => '{{GENDER:$1|järjestelmänlaajuinen botti}}',
 	'group-Global_rollback' => 'järjestelmänlaajuiset palauttajat',
@@ -4825,9 +4872,9 @@ $messages['fi'] = array(
 	'group-inactive' => 'epäaktiiviset käyttäjät',
 	'group-inactive-member' => '{{GENDER:$1|epäaktiivinen käyttäjä}}',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
-	'wikimedia-copyright' => 'Teksti on saatavilla <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
+	'wikimedia-copyright' => 'Teksti on saatavilla <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="https://wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
 	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "tallenna" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].', # Fuzzy
-	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [//wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
+	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikibase-sitelinks-wikivoyage' => 'Tähän kohteeseen linkitetyt Wikivoyage-sivut',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 	'wikimedia-translationnotifications-signup-legal' => 'Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntömme] alainen.',
@@ -5016,14 +5063,14 @@ $messages['fr'] = array(
 	'group-inactive' => 'Utilisateurs inactifs',
 	'group-inactive-member' => '{{GENDER:$1|utilisateur inactif|utilisatrice inactive}}',
 	'grouppage-inactive' => '{{ns:project}}:Utilisateurs inactifs',
-	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité – partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer.
-Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
-	'wikidata-copyright' => 'Toutes les données structurées des espaces de nom principal et propriété sont disponibles sous la <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Définition de la licence Creative Commons CC0">licence Creative Commons CC0</a>;
-le texte dans les autres espaces de nom est disponible sous la <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Définition de la licence Creative Commons Attribution/Share-Alike">licence Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Les textes sont disponibles sous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons paternité – partage à l’identique des conditions initiales</a> ; d’autres conditions peuvent s’appliquer.
+Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d\'utilisation">conditions d’utilisation</a> pour plus de détails.',
+	'wikidata-copyright' => 'Toutes les données structurées des espaces de nom principal et propriété sont disponibles sous la <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Définition de la licence Creative Commons CC0">licence Creative Commons CC0</a>;
+le texte dans les autres espaces de nom est disponible sous la <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Définition de la licence Creative Commons Attribution/Share-Alike">licence Creative Commons Attribution/Share-Alike</a>;
 des conditions supplémentaires peuvent s’appliquer.
-Voyez les <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Conditions d’utilisation de la fondation Wikimédia">Conditions d’utilisation</a>',
-	'wikidata-shortcopyrightwarning' => 'En cliquant sur « {{int:wikibase-save}} », vous acceptez les [//wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation], et vous acceptez de façon irrévocable de livrer votre contribution sous la [//creativecommons.org/publicdomain/zero/1.0/ CC0 licence CC0].',
-	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [//wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [//www.gnu.org/copyleft/fdl.html GFDL].
+Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Conditions d’utilisation de la fondation Wikimédia">Conditions d’utilisation</a>',
+	'wikidata-shortcopyrightwarning' => 'En cliquant sur « {{int:wikibase-save}} », vous acceptez les [https://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation], et vous acceptez de façon irrévocable de livrer votre contribution sous la [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licence CC0].',
+	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [https://wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [https://www.gnu.org/copyleft/fdl.html GFDL].
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
@@ -5100,7 +5147,7 @@ $messages['frp'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Èditors de pâges protègiês',
 	'group-eliminator' => 'Èliminators',
 	'group-eliminator-member' => 'èliminat{{GENDER:$1|or|rice}}',
-	'grouppage-eliminator' => '{{ns:project}}:Èliminators',
+	'grouppage-eliminator' => '{{ns:project}}:Èliminators', # Fuzzy
 	'group-filemover' => 'Renomors de fichiérs',
 	'group-filemover-member' => 'renomo{{GENDER:$1|r|sa}} de fichiérs',
 	'grouppage-filemover' => '{{ns:project}}:Renomors de fichiérs',
@@ -5134,6 +5181,9 @@ $messages['frp'] = array(
 	'group-trusted' => 'Usanciérs de fiance',
 	'group-trusted-member' => 'usanciér{{GENDER:$1||e}} de fiance',
 	'grouppage-trusted' => '{{ns:project}}:Usanciérs de fiance',
+	'group-uploader' => 'Tèlèchargiors',
+	'group-uploader-member' => 'Tèlèchargior', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Tèlèchargiors',
 	'group-Global_bot' => 'Bots globâls',
 	'group-Global_bot-member' => '{{GENDER:$1|bot globâl}}',
 	'group-Global_rollback' => 'Rèvoquiors globâls',
@@ -5158,10 +5208,10 @@ $messages['frp'] = array(
 	'group-inactive' => 'Usanciérs que font ren du tot',
 	'group-inactive-member' => 'usanciér{{GENDER:$1||e}} que fât ren du tot',
 	'grouppage-inactive' => '{{ns:project}}:Usanciérs que font ren du tot',
-	'wikimedia-copyright' => 'Los tèxtos sont disponiblos desot <a href="//creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;
+	'wikimedia-copyright' => 'Los tèxtos sont disponiblos desot <a href="https://creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;
 d’ôtres condicions sè pôvont aplicar.
-Vêde les <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condicions d’usâjo</a> por més de dètalys.',
-	'wikimedia-copyrightwarning' => 'En cliquent dessus « {{int:savearticle}} », vos accèptâd les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo] et pués vos accèptâd de placiér por de bon voutra contribucion desot [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions 3.0] et [//www.gnu.org/copyleft/fdl.html licence de documentacion libra GNU (GFDL)].
+Vêde les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">condicions d’usâjo</a> por més de dètalys.',
+	'wikimedia-copyrightwarning' => 'En cliquent dessus « {{int:savearticle}} », vos accèptâd les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo] et pués vos accèptâd de placiér por de bon voutra contribucion desot [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions 3.0] et [https://www.gnu.org/copyleft/fdl.html licence de documentacion libra GNU (GFDL)].
 Por la licence Creative Commons, vos accèptâd d’étre crèditâ per los reusanciérs u muens avouéc un lim hipèrtèxto ou ben una URL.',
 	'cant-delete-main-page' => 'Vos pouede pas suprimar ou ben dèplaciér la pâge principâla.',
 );
@@ -5221,7 +5271,7 @@ $messages['frr'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Bewerkern faan ufseekert sidjen',
 	'group-eliminator' => 'Strikern',
 	'group-eliminator-member' => '{{GENDER:$1|Striker}}',
-	'grouppage-eliminator' => '{{ns:project}}:Strikern',
+	'grouppage-eliminator' => '{{ns:project}}:Strikern', # Fuzzy
 	'group-filemover' => 'Datei fersküüwern',
 	'group-filemover-member' => '{{GENDER:$1|Datei fersküüwer}}',
 	'grouppage-filemover' => '{{ns:project}}:Datei fersküüwern',
@@ -5292,14 +5342,14 @@ $messages['frr'] = array(
 	'group-inactive' => 'Ünaktiif brükern',
 	'group-inactive-member' => '{{GENDER:$1|Ünaktiif brüker}}',
 	'grouppage-inactive' => '{{ns:project}}:Ünaktiif brükern',
-	'wikimedia-copyright' => 'Di tekst stäänt oner\'t lisens <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a>; diar kön uk noch ööder reegeln tääl.
-Luke am enkelthaiden uun a <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">reegeln för\'t brüken</a>.',
-	'wikidata-copyright' => 'A artiikler stun oner det lisens <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>;
-ööder dooten stun oner det lisens <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Di tekst stäänt oner\'t lisens <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a>; diar kön uk noch ööder reegeln tääl.
+Luke am enkelthaiden uun a <a href="https://wikimediafoundation.org/wiki/Nutzungsbedingungen">reegeln för\'t brüken</a>.',
+	'wikidata-copyright' => 'A artiikler stun oner det lisens <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>;
+ööder dooten stun oner det lisens <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike</a>;
 diar kön uk noch ööder reegeln tääl.
-Luke bi a <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
-	'wikidata-shortcopyrightwarning' => 'Wan dü üüb ""Seekre" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.',
-	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [//wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [//frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [//frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
+Luke bi a <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
+	'wikidata-shortcopyrightwarning' => 'Wan dü üüb ""Seekre" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [https://wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [https://frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [https://frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidjen, huar detdiar objekt üüb ferwiset.',
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
@@ -5443,11 +5493,11 @@ $messages['gan-hans'] = array(
 	'group-inactive' => '不活跃𠮶用户',
 	'group-inactive-member' => '不活跃𠮶用户', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:不活跃𠮶用户',
-	'wikimedia-copyright' => '个首𠮶所有文字系揸得<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>𠮶条款发布；可能会有附加𠮶条款。
-望吖<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>𠮶细节。',
-	'wikimedia-copyrightwarning' => '汝捺下「{{int:savearticle}}」𠮶时间，就系同意话汝驾始搦自家𠮶贡献揸得[//creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0]同得[//www.gnu.org/copyleft/fdl.html GFDL]𠮶条款内容发表。
+	'wikimedia-copyright' => '个首𠮶所有文字系揸得<a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>𠮶条款发布；可能会有附加𠮶条款。
+望吖<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>𠮶细节。',
+	'wikimedia-copyrightwarning' => '汝捺下「{{int:savearticle}}」𠮶时间，就系同意话汝驾始搦自家𠮶贡献揸得[https://creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0]同得[https://www.gnu.org/copyleft/fdl.html GFDL]𠮶条款内容发表。
 汝同意别𠮶用者编辑佢，至少，通过只超连结或网址到汝𠮶贡献页。
-望吖[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]𠮶细节。',
+望吖[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]𠮶细节。',
 );
 
 /** Traditional Gan script (贛語（繁體）‎)
@@ -5483,6 +5533,9 @@ $messages['gan-hant'] = array(
 	'group-transwiki' => 'Transwiki匯入者',
 	'group-transwiki-member' => 'Transwiki匯入者', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki匯入者',
+	'group-uploader' => '上傳者',
+	'group-uploader-member' => '上傳者', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:上傳者',
 	'group-Global_bot' => '全域機器人',
 	'group-Global_bot-member' => '全域機器人', # Fuzzy
 	'group-Global_rollback' => '全域返退員',
@@ -5500,11 +5553,11 @@ $messages['gan-hant'] = array(
 	'group-inactive' => '不活躍嗰用戶',
 	'group-inactive-member' => '不活躍嗰用戶', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:不活躍嗰用戶',
-	'wikimedia-copyright' => '箇首嗰所有文字係揸得<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嗰條款發佈；可能會有附加嗰條款。
-望吖<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嗰細節。',
-	'wikimedia-copyrightwarning' => '汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [//creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0] 同得 [//www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。
+	'wikimedia-copyright' => '箇首嗰所有文字係揸得<a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嗰條款發佈；可能會有附加嗰條款。
+望吖<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嗰細節。',
+	'wikimedia-copyrightwarning' => '汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [https://creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0] 同得 [https://www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。
 汝同意別嗰用者編輯佢，至少，通過隻超連結或網址到汝嗰貢獻頁。
-望吖[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嗰細節。',
+望吖[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嗰細節。',
 );
 
 /** Scottish Gaelic (Gàidhlig)
@@ -5647,13 +5700,13 @@ $messages['gl'] = array(
 	'group-inactive' => 'Usuarios inactivos',
 	'group-inactive-member' => '{{GENDER:$1|usuario inactivo|usuaria inactiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuarios inactivos',
-	'wikimedia-copyright' => 'Todo o texto está dispoñible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pódense aplicar termos adicionais. Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl">termos de uso</a> para obter máis información.',
-	'wikidata-copyright' => 'Todos os datos estruturados dos espazos de nomes principal e de propiedade están dispoñibles baixo a <a href="//creativecommons.org/publicdomain/zero/1.0/deed.gl" title="Definición da licenza Creative Commons CC0">licenza Creative Commons CC0</a>;
-o texto presente no resto de espazos de nomes está dispoñible baixo a <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl" title="Definición da licenza Creative Commons recoñecemento compartir igual">licenza Creative Commons recoñecemento compartir igual</a>;
+	'wikimedia-copyright' => 'Todo o texto está dispoñible baixo a <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.gl">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pódense aplicar termos adicionais. Consulte os <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/gl">termos de uso</a> para obter máis información.',
+	'wikidata-copyright' => 'Todos os datos estruturados dos espazos de nomes principal e de propiedade están dispoñibles baixo a <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.gl" title="Definición da licenza Creative Commons CC0">licenza Creative Commons CC0</a>;
+o texto presente no resto de espazos de nomes está dispoñible baixo a <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.gl" title="Definición da licenza Creative Commons recoñecemento compartir igual">licenza Creative Commons recoñecemento compartir igual</a>;
 pódense aplicar termos adicionais.
-Consulte os <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl" title="Termos de uso da Fundación Wikimedia">termos de uso</a> para obter máis información.',
-	'wikidata-shortcopyrightwarning' => 'Ao premer en "{{int:wikibase-save}}", acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa achega baixo a [//creativecommons.org/publicdomain/zero/1.0/deed.gl licenza CC0].',
-	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
+Consulte os <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/gl" title="Termos de uso da Fundación Wikimedia">termos de uso</a> para obter máis información.',
+	'wikidata-shortcopyrightwarning' => 'Ao premer en "{{int:wikibase-save}}", acepta os [https://wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa achega baixo a [https://creativecommons.org/publicdomain/zero/1.0/deed.gl licenza CC0].',
+	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [https://wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [https://gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [https://gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
 Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxinas do Wikivoyage con ligazóns cara a este elemento',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
@@ -5809,7 +5862,7 @@ $messages['gsw'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Bearbeiter vun ere gschitzte Syte',
 	'group-eliminator' => 'Lescher',
 	'group-eliminator-member' => '{{GENDER:$1|Lescher|Lescheri}}',
-	'grouppage-eliminator' => '{{ns:project}}:Lescher',
+	'grouppage-eliminator' => '{{ns:project}}:Lescher', # Fuzzy
 	'group-filemover' => 'Dateiverschieber',
 	'group-filemover-member' => '{{GENDER:$1|Dateiverschieber|Dateiverschieberi}}',
 	'grouppage-filemover' => '{{ns:project}}:Dateiverschieber',
@@ -5843,6 +5896,9 @@ $messages['gsw'] = array(
 	'group-trusted' => 'Vertröuens-Benutzer',
 	'group-trusted-member' => '{{GENDER:$1|Vertröuens-Benutzer|Vertröuens-Benutzeri}}',
 	'grouppage-trusted' => '{{ns:project}}:Vertröuens-Benutzer',
+	'group-uploader' => 'Uffelader',
+	'group-uploader-member' => 'Uffelader', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Uffelader',
 	'group-Global_bot' => 'Wältwyti Bötli',
 	'group-Global_bot-member' => '{{GENDER:$1|Bötli uff allene Projäkt}}',
 	'group-Global_rollback' => 'Wältwyti Zrucksetzer',
@@ -5877,8 +5933,8 @@ $messages['gsw'] = array(
 	'group-inactive' => 'Inaktivi Benutzer',
 	'group-inactive-member' => '{{GENDER:$1|Inaktiver Benutzer|Inaktivi Benutzeri}}',
 	'grouppage-inactive' => '{{ns:project}}:Inactivi Benutzer',
-	'wikimedia-copyright' => 'Tekscht isch verfiegbar unter dr <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">Creative Commons Attribution/Share-Alike License</a>; s cha syy, ass es zuesätzligi Bedingige git. Lueg d <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Nutzigsbedingige</a> fir Einzelheite.',
-	'wikimedia-copyrightwarning' => "Mit em Klick uf „{{int:savearticle}}“ erklersch di yyverstande mit dr [//wikimediafoundation.org/wiki/Terms_of_Use Nutzigsbedingige] un lizänziersch dyni Bearbeitig uuwiderrueflig unter dr Lizänz [//als.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported ''Creative Commons'' „Namensnännig / Wytergab unter glyche Bedingige 3.0“] un dr [//als.wikipedia.org/wiki/Wikipedia:GNU_Freie_Dokumentationslizenz GFDL].
+	'wikimedia-copyright' => 'Tekscht isch verfiegbar unter dr <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">Creative Commons Attribution/Share-Alike License</a>; s cha syy, ass es zuesätzligi Bedingige git. Lueg d <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Nutzigsbedingige</a> fir Einzelheite.',
+	'wikimedia-copyrightwarning' => "Mit em Klick uf „{{int:savearticle}}“ erklersch di yyverstande mit dr [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzigsbedingige] un lizänziersch dyni Bearbeitig uuwiderrueflig unter dr Lizänz [https://als.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported ''Creative Commons'' „Namensnännig / Wytergab unter glyche Bedingige 3.0“] un dr [https://als.wikipedia.org/wiki/Wikipedia:GNU_Freie_Dokumentationslizenz GFDL].
 Du stimmsch zue, dass e Hyperlink oder e URL zue dr Syte fir di notwändig Zueschryybig, no dr ''Creative-Commons''-Lizänz, längt.",
 	'cant-delete-main-page' => 'Du chasch d Houptsyte weder lösche noch verschiebe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Aagab vu däne Informatione stimmsch zue, d Wikimedia Foundation di zue Themene im Zämmehang mit Ibersetzige un andere Informatione zue Wikimedia derf kontaktiere, wu unsre Meinig no fir Di vu Interässi sin. Du stimmsch au zue, dass Dyni Date in dr Vereinigte Staate vu Amerika chenne gspycheret wäre un unsere [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzrichtlinie] unterlige.',
@@ -5945,7 +6001,7 @@ $messages['gu'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:પરિયોજના પૃષ્ઠ સંપાદકો',
 	'group-eliminator' => 'નાશકો',
 	'group-eliminator-member' => '{{GENDER:$1|નાશક}}',
-	'grouppage-eliminator' => '{{ns:project}}:નાશકો',
+	'grouppage-eliminator' => '{{ns:project}}:નાશકો', # Fuzzy
 	'group-filemover' => 'ફાઈલ હટાવનારા',
 	'group-filemover-member' => '{{GENDER:$1|ફાઈલ હટાવનાર }}',
 	'grouppage-filemover' => '{{ns:project}}:ફાઈલ હટાવનારા',
@@ -6002,10 +6058,10 @@ $messages['gu'] = array(
 	'group-inactive' => 'અસક્રિય સભ્યો',
 	'group-inactive-member' => '{{GENDER:$1|અસક્રિય સભ્ય}}',
 	'grouppage-inactive' => '{{ns:project}}:અસક્રિય સભ્યો',
-	'wikimedia-copyright' => 'આ લેખન <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>હેઠળ ઉપલબ્ધ છે;
+	'wikimedia-copyright' => 'આ લેખન <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>હેઠળ ઉપલબ્ધ છે;
 વધારાની શરતો લાગુ છે.
-વધુ માહિતી માટે <a href="//wikimediafoundation.org/wiki/Terms_of_use">વપરાશની શરતો</a> જુઓ .',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [//wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [//www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
+વધુ માહિતી માટે <a href="https://wikimediafoundation.org/wiki/Terms_of_use">વપરાશની શરતો</a> જુઓ .',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [https://wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [https://www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
 તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
 );
@@ -6099,7 +6155,7 @@ $messages['he'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:עורך דפים מוגנים',
 	'group-eliminator' => 'מוחקים',
 	'group-eliminator-member' => '{{GENDER:$1|מוחק|מוחקת}}',
-	'grouppage-eliminator' => '{{ns:project}}:מוחק',
+	'grouppage-eliminator' => '{{ns:project}}:מוחק', # Fuzzy
 	'group-filemover' => 'מעבירי קבצים',
 	'group-filemover-member' => '{{GENDER:$1|מעביר|מעבירה}} קבצים',
 	'grouppage-filemover' => '{{ns:project}}:מעביר קבצים',
@@ -6133,6 +6189,9 @@ $messages['he'] = array(
 	'group-trusted' => 'משתמשים מהימנים',
 	'group-trusted-member' => '{{GENDER:$1|משתמש מהימן|משתמשת מהימנה}}',
 	'grouppage-trusted' => '{{ns:project}}:משתמשים מהימנים',
+	'group-uploader' => 'מעלים',
+	'group-uploader-member' => 'מעלה', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:מעלה',
 	'group-Global_bot' => 'בוטים גלובליים',
 	'group-Global_bot-member' => '{{GENDER:$1|בוט גלובלי}}',
 	'group-Global_rollback' => 'משחזרים גלובליים',
@@ -6171,10 +6230,10 @@ $messages['he'] = array(
 	'group-inactive-member' => '{{GENDER:$1|משתמש בלתי־פעיל|משתמשת בלתי־פעילה}}',
 	'grouppage-inactive' => '{{ns:project}}:משתמש בלתי פעיל',
 	'shared-repo-name-shared' => 'ויקישיתוף',
-	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="//creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
-	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
+	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
+	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
 	'wikidata-shortcopyrightwarning' => 'לחיצה על "שמירה" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].', # Fuzzy
-	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [//creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [//www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
+	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [https://creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [https://www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'דפי ויקימסע שמקושרים לפריט הזה',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
@@ -6245,7 +6304,7 @@ $messages['hi'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:सुरक्षा पृष्ठ संपादक',
 	'group-eliminator' => 'निरसक',
 	'group-eliminator-member' => '{{GENDER:$1|निरसक}}',
-	'grouppage-eliminator' => '{{ns:project}}:निरसक',
+	'grouppage-eliminator' => '{{ns:project}}:निरसक', # Fuzzy
 	'group-filemover' => 'फ़ाइल मूवर्स',
 	'group-filemover-member' => '{{GENDER:$1|फ़ाइल मुवर}}',
 	'grouppage-filemover' => '{{ns:project}}:फ़ाइल मूवर्स',
@@ -6305,10 +6364,10 @@ $messages['hi'] = array(
 	'group-inactive' => 'निष्क्रीय सदस्य',
 	'group-inactive-member' => '{{GENDER:$1|निष्क्रीय सदस्य}}',
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीय सदस्य',
-	'wikimedia-copyright' => 'पाठ <a href="//creativecommons.org/licenses/by-sa/3.0/">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अंतर्गत उपलब्ध है; अतिरिक्त शर्तें लागू हो सकती हैं।
-अधिक जानकारी के लिए <a href="//wikimediafoundation.org/wiki/Terms_of_Use">उपयोग की शर्तें</a> देखें।',
+	'wikimedia-copyright' => 'पाठ <a href="https://creativecommons.org/licenses/by-sa/3.0/">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अंतर्गत उपलब्ध है; अतिरिक्त शर्तें लागू हो सकती हैं।
+अधिक जानकारी के लिए <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">उपयोग की शर्तें</a> देखें।',
 	'wikidata-shortcopyrightwarning' => '"सहेजें" पर क्लिक करने पर आप [https://wikimediafoundation.org/wiki/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदानों को [https://creativecommons.org/publicdomain/zero/1.0/ CC0 लाइसेंस] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।', # Fuzzy
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" बटन क्लिक करने पर आप [//wikimediafoundation.org/wiki/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदान [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेंस] एवं [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" बटन क्लिक करने पर आप [https://wikimediafoundation.org/wiki/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदान [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेंस] एवं [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।
 आप यह भी स्वीकार करते हैं कि एक हाइपरलिंक या यू॰आर॰एल क्रियेटिव कॉमन्स लाइसेंस के अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) है।',
 	'cant-delete-main-page' => 'आप प्रधान पृष्ठ को स्थानान्तरित या हटा नहीं सकते ।',
 );
@@ -6378,6 +6437,9 @@ $messages['hil'] = array(
 	'group-transwiki' => 'Mga Transwiki nga Gakuha sa guha',
 	'group-transwiki-member' => 'transwiki gapasulod', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki nga mga gapasulod',
+	'group-uploader' => 'Mga gapang-upload',
+	'group-uploader-member' => 'manug upload', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Mga gapang upload',
 	'group-Global_bot' => 'Kalibutan bots',
 	'group-Global_bot-member' => 'kalibutan bot', # Fuzzy
 	'group-Global_rollback' => 'Kalibutan manugbalik',
@@ -6397,11 +6459,11 @@ $messages['hil'] = array(
 	'group-inactive' => 'Di-aktibo nga mga user',
 	'group-inactive-member' => 'di-aktibo nga user', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Di-aktibo nga mga user',
-	'wikimedia-copyright' => 'Ang teksto ay pwede mo makit-an sa idalum sang <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
-nanga-dugang nga kasulatan pwede man pagabatunon. Palihog lang bisita sa<a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> para sa madamu nga detalye.',
-	'wikimedia-copyrightwarning' => 'Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] kag ang [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Ang teksto ay pwede mo makit-an sa idalum sang <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+nanga-dugang nga kasulatan pwede man pagabatunon. Palihog lang bisita sa<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> para sa madamu nga detalye.',
+	'wikimedia-copyrightwarning' => 'Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] kag ang [https://www.gnu.org/copyleft/fdl.html GFDL].
 Nagapasugot ka nga kilalanon sa mga nagagamit liwat, sa pinaka kubos, nga nagapamaagi sa hyperlink o URL sa pahina nga gina kontribyut mo.
-Palihog lang bisita sa [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para sa madamu nga detalye.', # Fuzzy
+Palihog lang bisita sa [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para sa madamu nga detalye.', # Fuzzy
 );
 
 /** Croatian (hrvatski)
@@ -6456,7 +6518,7 @@ $messages['hr'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Uređivači zaštićenih stranica',
 	'group-eliminator' => 'Uklonitelji',
 	'group-eliminator-member' => 'uklonitelj', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Uklonitelj',
+	'grouppage-eliminator' => '{{ns:project}}:Uklonitelj', # Fuzzy
 	'group-filemover' => 'Premjestitelj datoteka',
 	'group-filemover-member' => 'premjestitelj datoteka', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Premjestitelj datoteka',
@@ -6489,6 +6551,9 @@ $messages['hr'] = array(
 	'group-trusted' => 'Suradnici od povjerenja',
 	'group-trusted-member' => 'povjerljivi suradnik', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Povjerljivi suradnici',
+	'group-uploader' => 'Postavljači',
+	'group-uploader-member' => 'postavljač', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Postavljači',
 	'group-Global_bot' => 'Globalni bot',
 	'group-Global_bot-member' => 'globalni bot', # Fuzzy
 	'group-Global_rollback' => 'Globalni uklonitelji',
@@ -6511,8 +6576,8 @@ $messages['hr'] = array(
 	'group-inactive' => 'Neaktivni suradnici',
 	'group-inactive-member' => 'neaktivni suradnik', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni suradnici',
-	'wikimedia-copyright' => 'Tekst je dostupan pod licencijom <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Imenovanje/Dijeli pod istim uvjetima</a>; dodatni uvjeti se mogu primjenjivati. Pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Uvjete korištenja</a> za detalje.',
-	'wikimedia-copyrightwarning' => 'Pritiskom na "sačuvaj stranicu", neopozivo ste suglasni da svoje doprinose objavljujete pod uvjetima iz licencije [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [//www.gnu.org/copyleft/fdl.html GFDL]. Slažete se kako je poveznica ili URL dovoljna razina pripisivanja odnosno označivanja Vaših doprinosa na stranicama kojima ste pridonosili. Pogledajte [//wikimediafoundation.org/wiki/Uvjeti_uporabe Uvjete uporabe] za dodatne obavijesti.',
+	'wikimedia-copyright' => 'Tekst je dostupan pod licencijom <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Imenovanje/Dijeli pod istim uvjetima</a>; dodatni uvjeti se mogu primjenjivati. Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uvjete korištenja</a> za detalje.',
+	'wikimedia-copyrightwarning' => 'Pritiskom na "sačuvaj stranicu", neopozivo ste suglasni da svoje doprinose objavljujete pod uvjetima iz licencije [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL]. Slažete se kako je poveznica ili URL dovoljna razina pripisivanja odnosno označivanja Vaših doprinosa na stranicama kojima ste pridonosili. Pogledajte [https://wikimediafoundation.org/wiki/Uvjeti_uporabe Uvjete uporabe] za dodatne obavijesti.',
 	'cant-delete-main-page' => 'Nemate ovlast brisati i/ili premještati glavnu stranicu.',
 );
 
@@ -6571,7 +6636,7 @@ $messages['hsb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Wobdźěłarjo škitanych stronow',
 	'group-eliminator' => 'Hašaki',
 	'group-eliminator-member' => '{{GENDER:$1|hašer|hašerka}}',
-	'grouppage-eliminator' => '{{ns:project}}:Hašak',
+	'grouppage-eliminator' => '{{ns:project}}:Hašak', # Fuzzy
 	'group-filemover' => 'Přesuwarjo datajow',
 	'group-filemover-member' => '{{GENDER:$1|přesuwar datajow|přesuwarka datajow}}',
 	'grouppage-filemover' => '{{ns:project}}:Přesuwarjo datajow',
@@ -6605,6 +6670,9 @@ $messages['hsb'] = array(
 	'group-trusted' => 'Dowěryhódni wužiwarjo',
 	'group-trusted-member' => '{{GENDER:$1|dowěryhódny wužiwar|dowěryhódna wužiwarka}}',
 	'grouppage-trusted' => '{{ns:project}}:Dowěryhódni wužiwarjo',
+	'group-uploader' => 'Nahrawarjo',
+	'group-uploader-member' => 'nahrawar', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Nahrawarjo',
 	'group-Global_bot' => 'Globalne boćiki',
 	'group-Global_bot-member' => '{{GENDER:$1|globalny bot}}',
 	'group-Global_rollback' => 'Globalni wróćostajerjo',
@@ -6635,8 +6703,8 @@ $messages['hsb'] = array(
 	'group-inactive' => 'Njeaktiwni wužiwarjo',
 	'group-inactive-member' => '{{GENDER:$1|njeaktiwny wužiwar|njeaktiwna wužiwarka}}',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwni wužiwarjo',
-	'wikimedia-copyright' => 'Tekst steji pod <a href="//creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; přidatne wuměnjenja hodźa so nałožować. Hlej <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wužiwanske wuměnjenja</a> za podrobnosće.',
-	'wikimedia-copyrightwarning' => 'Z kliknjenjom na tłóčatko "{{int:savearticle}}" přizwoliš do [//wikimediafoundation.org/wiki/Terms_of_Use wužiwanskich wuměnjenjow] a stajiš swój přinošk definitiwnje pod licencu [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Tekst steji pod <a href="https://creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; přidatne wuměnjenja hodźa so nałožować. Hlej <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wužiwanske wuměnjenja</a> za podrobnosće.',
+	'wikimedia-copyrightwarning' => 'Z kliknjenjom na tłóčatko "{{int:savearticle}}" přizwoliš do [https://wikimediafoundation.org/wiki/Terms_of_Use wužiwanskich wuměnjenjow] a stajiš swój přinošk definitiwnje pod licencu [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative Commons.',
 	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
 	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian Foundation zwoliš do toho, zo móžemy so nastupajo přełožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stajić. Zwoliš do toho, zo twoje daty so w Zjednocenych statach Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłow priwatnosće].',
@@ -6710,7 +6778,7 @@ $messages['hu'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Védettlap-szerkesztők',
 	'group-eliminator' => 'felszámolók',
 	'group-eliminator-member' => 'felszámoló',
-	'grouppage-eliminator' => '{{ns:project}}:Felszámolók',
+	'grouppage-eliminator' => '{{ns:project}}:Felszámolók', # Fuzzy
 	'group-filemover' => 'fájlátnevezők',
 	'group-filemover-member' => 'fájlátnevező',
 	'grouppage-filemover' => '{{ns:project}}:Fájlátnevezők',
@@ -6744,6 +6812,9 @@ $messages['hu'] = array(
 	'group-trusted' => 'megerősített szerkesztők',
 	'group-trusted-member' => 'megbízható felhasználó',
 	'grouppage-trusted' => '{{ns:project}}:megbízható felhasználók',
+	'group-uploader' => 'feltöltők',
+	'group-uploader-member' => 'feltöltő', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Feltöltők',
 	'group-Global_bot' => 'globális botok',
 	'group-Global_bot-member' => 'globális bot',
 	'group-Global_rollback' => 'globális visszaállítók',
@@ -6769,9 +6840,9 @@ $messages['hu'] = array(
 	'group-inactive' => 'inaktív szerkesztők',
 	'group-inactive-member' => '{{GENDER:$1|inaktív szerkesztő}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktív szerkesztők',
-	'wikimedia-copyright' => 'A lap szövege <a href="//creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="//wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
-	'wikidata-shortcopyrightwarning' => 'A "mentés" gombra kattintással elfogadod a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételeket], és visszavonhatatlan engedélyt adsz szerkesztéseid [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licensz] szerinti felhasználására.',
-	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [//creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [//www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [//wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
+	'wikimedia-copyright' => 'A lap szövege <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
+	'wikidata-shortcopyrightwarning' => 'A "mentés" gombra kattintással elfogadod a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételeket], és visszavonhatatlan engedélyt adsz szerkesztéseid [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licensz] szerinti felhasználására.', # Fuzzy
+	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'cant-delete-main-page' => 'Nem törölheted vagy nevezheted át a főoldalt.',
 );
 
@@ -6782,10 +6853,10 @@ $messages['hu'] = array(
  */
 $messages['hy'] = array(
 	'sitesupport' => 'Դրամական նվիրատվություն',
-	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="//creativecommons.org/licenses/by-sa/3.0/deed.hy">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
-	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [//www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
+	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.hy">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
+	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [https://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
 Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
-Ծանոթացեք [//wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։', # Fuzzy
+Ծանոթացեք [https://wikimediafoundation.org/wiki/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։', # Fuzzy
 );
 
 /** Interlingua (interlingua)
@@ -6843,7 +6914,7 @@ $messages['ia'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redactores de paginas protegite',
 	'group-eliminator' => 'Eliminatores',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator|eliminatrice}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
 	'group-filemover' => 'Renominatores de files',
 	'group-filemover-member' => '{{GENDER:$1|renominator|renominatrice}} de files',
 	'grouppage-filemover' => '{{ns:project}}:Renominatores de files',
@@ -6877,6 +6948,9 @@ $messages['ia'] = array(
 	'group-trusted' => 'Usatores de confidentia',
 	'group-trusted-member' => '{{GENDER:$1|usator|usatrice}} de confidentia',
 	'grouppage-trusted' => '{{ns:project}}:Usatores de confidentia',
+	'group-uploader' => 'Cargatores',
+	'group-uploader-member' => 'cargator', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Cargatores',
 	'group-Global_bot' => 'Robotes global',
 	'group-Global_bot-member' => 'robot global',
 	'group-Global_rollback' => 'Revocatores global',
@@ -6902,8 +6976,8 @@ $messages['ia'] = array(
 	'group-inactive' => 'Usatores inactive',
 	'group-inactive-member' => '{{GENDER:$1|usator|usatrice}} inactive',
 	'grouppage-inactive' => '{{ns:project}}:Usatores inactive',
-	'wikimedia-copyright' => 'Le texto es disponibile sub le <a href="//creativecommons.org/licenses/by-sa/3.0/"> licentia Creative Commons Attribution/Share-Alike</a>; additional conditiones pote esser in vigor. Vide <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Conditiones de uso</a> pro detalios.',
-	'wikimedia-copyrightwarning' => 'Per cliccar super le button "{{int:savearticle}}", tu accepta le [//wikimediafoundation.org/wiki/Terms_of_Use Conditiones de uso] e tu consenti al publication irrevocabile de tu contribution sub le [//creativecommons.org/licenses/by-sa/3.0/ licentia Creative Commons BY-SA 3.0] e sub le [//ia.wikipedia.org/wiki/Licentia_GNU_pro_Documentation_Libere Licentia GNU pro Documentation Libere].
+	'wikimedia-copyright' => 'Le texto es disponibile sub le <a href="https://creativecommons.org/licenses/by-sa/3.0/"> licentia Creative Commons Attribution/Share-Alike</a>; additional conditiones pote esser in vigor. Vide <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Conditiones de uso</a> pro detalios.',
+	'wikimedia-copyrightwarning' => 'Per cliccar super le button "{{int:savearticle}}", tu accepta le [https://wikimediafoundation.org/wiki/Terms_of_Use Conditiones de uso] e tu consenti al publication irrevocabile de tu contribution sub le [https://creativecommons.org/licenses/by-sa/3.0/ licentia Creative Commons BY-SA 3.0] e sub le [https://ia.wikipedia.org/wiki/Licentia_GNU_pro_Documentation_Libere Licentia GNU pro Documentation Libere].
 Tu accepta que un hyperligamine o URL suffice como attribution sub le licentia Creative Commons.',
 	'cant-delete-main-page' => 'Non es possibile deler o renominar le pagina principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Per fornir iste information al Fundation Wikimedia tu accepta que nos pote contactar te concernente traductiones o altere themas associate al movimento Wikimedia le quales nos pensa que pote esser de interesse a te. Tu accepta que tu datos pote esser immagazinate in le Statos Unite de America e es subjecte a nostre [https://wikimediafoundation.org/wiki/Privacy_policy politica de confidentialitate].',
@@ -6970,7 +7044,7 @@ $messages['id'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Penyunting halaman terlindungi',
 	'group-eliminator' => 'Eliminator',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
 	'group-filemover' => 'Pemindah berkas',
 	'group-filemover-member' => '{{GENDER:$1|pemindah berkas}}',
 	'grouppage-filemover' => '{{ns:project}}:Pemindah berkas',
@@ -7004,6 +7078,9 @@ $messages['id'] = array(
 	'group-trusted' => 'Pengguna tepercaya',
 	'group-trusted-member' => '{{GENDER:$1|pengguna tepercaya}}',
 	'grouppage-trusted' => '{{ns:project}}:Pengguna tepercaya',
+	'group-uploader' => 'Pengunggah',
+	'group-uploader-member' => 'pengunggah', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Pengunggah',
 	'group-Global_bot' => 'Bot global',
 	'group-Global_bot-member' => '{{GENDER:$1|bot global}}',
 	'group-Global_rollback' => 'Pengembali revisi global',
@@ -7035,13 +7112,13 @@ $messages['id'] = array(
 	'group-inactive' => 'Pengguna tidak aktif',
 	'group-inactive-member' => '{{GENDER:$1|pengguna tidak aktif}}',
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tidak aktif',
-	'wikimedia-copyright' => 'Teks tersedia di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_use-Summary/id">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
-	'wikidata-copyright' => 'Semua data terstruktur dari ruang nama utama dan properti tersedia di bawah <a href="//creativecommons.org/publicdomain/zero/1.0/deed.id" title="Definisi dari lisensi Creative Commons CC-nol">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;
-teks dalam ruang nama lainnya tersedia di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id" title="Definisi dari lisensi Creative Commons Attribusi-BerbagiSerupa">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>;
+	'wikimedia-copyright' => 'Teks tersedia di bawah <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href="https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
+	'wikidata-copyright' => 'Semua data terstruktur dari ruang nama utama dan properti tersedia di bawah <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.id" title="Definisi dari lisensi Creative Commons CC-nol">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;
+teks dalam ruang nama lainnya tersedia di bawah <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" title="Definisi dari lisensi Creative Commons Attribusi-BerbagiSerupa">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>;
 ketentuan tambahan mungkin berlaku.
-Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_use-Summary/id" title="Ketentuan Penggunaan Yayasan Wikimedia">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
-	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "Simpan halaman", Anda setuju dengan [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id Ketentuan Penggunaan], dan Anda setuju untuk melepas kontribusi Anda di bawah [https://creativecommons.org/publicdomain/zero/1.0/deed.id lisensi CC-nol].',
-	'wikimedia-copyrightwarning' => 'Dengan menekan tombol "{{int:savearticle}}", Anda setuju pada [//wikimediafoundation.org/wiki/Terms_of_use-Summary/id  Ketentuan Penggunaan], dan melepas kontribusi Anda di bawah [//id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BerbagiSerupa Creative Commons] dan [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.',
+Lihat <a href="https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id" title="Ketentuan Penggunaan Yayasan Wikimedia">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
+	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "Simpan halaman", Anda setuju dengan [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id Ketentuan Penggunaan], dan Anda setuju untuk melepas kontribusi Anda di bawah [https://creativecommons.org/publicdomain/zero/1.0/deed.id lisensi CC-nol].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Dengan menekan tombol "{{int:savearticle}}", Anda setuju pada [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id  Ketentuan Penggunaan], dan melepas kontribusi Anda di bawah [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BerbagiSerupa Creative Commons] dan [https://id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Anda tidak dapat menghapus atau memindahkan halaman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dengan memberikan informasi ini ke Yayasan Wikimedia, Anda setuju bahwa kami dapat menghubungi Anda terkait terjemahan atau topik lain yang berhubungan dengan gerakan Wikimedia yang kami anggap perlu untuk Anda ketahui. Anda setuju semua data Anda disimpan di Amerika Serikat dan mematuhi [https://wikimediafoundation.org/wiki/Privacy_policy kebijakan privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Unggah lebih banyak foto dari monumen ini',
@@ -7089,11 +7166,11 @@ $messages['ig'] = array(
 	'group-Staff-member' => 'ndi na rüoru nga',
 	'group-steward' => "Ò'dózí",
 	'group-steward-member' => "ò'dózí", # Fuzzy
-	'wikimedia-copyright' => 'Édé nọr okpúrù <a href="//creativecommons.org/licenses/by-sa/3.0/">Mmẹ Òkike Tu ụta Ñkịtị</a>; ihe ejị ẹ kwenye nọr kwa.
-Lé <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Nkwenye maka Í me ihe</a> maka ihe ozor Í gi má.',
-	'wikimedia-copyrightwarning' => 'Na Í donyé, Í kwè na Í gi nyé ihe Í mèrè na nke I nweriki wefụ na okpúrù [//creativecommons.org/licenses/by-sa/3.0/ Mmẹ Òkike Tu ụta Ñkịtị/Gbásaa-Kà Édéíwu 3.0] na [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Édé nọr okpúrù <a href="https://creativecommons.org/licenses/by-sa/3.0/">Mmẹ Òkike Tu ụta Ñkịtị</a>; ihe ejị ẹ kwenye nọr kwa.
+Lé <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Nkwenye maka Í me ihe</a> maka ihe ozor Í gi má.',
+	'wikimedia-copyrightwarning' => 'Na Í donyé, Í kwè na Í gi nyé ihe Í mèrè na nke I nweriki wefụ na okpúrù [https://creativecommons.org/licenses/by-sa/3.0/ Mmẹ Òkike Tu ụta Ñkịtị/Gbásaa-Kà Édéíwu 3.0] na [https://www.gnu.org/copyleft/fdl.html GFDL].
 Í kwèrè na ndi madu na rürü gi nye gi kpó áhà gi, na nke ntà há gí me, shí njikodo intanet ma URL Í gi ga ihü Í rürü nà.
-Lé [//wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe] maka ihe ozor Í gi má.', # Fuzzy
+Lé [https://wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe] maka ihe ozor Í gi má.', # Fuzzy
 );
 
 /** Eastern Canadian (Aboriginal syllabics) (ᐃᓄᒃᑎᑐᑦ)
@@ -7159,7 +7236,7 @@ $messages['ilo'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Dagiti agur-urnos ti nasalakniban a panid',
 	'group-eliminator' => 'Dagiti agik-ikkat',
 	'group-eliminator-member' => '{{GENDER:$1|agik-ikkat}}',
-	'grouppage-eliminator' => '{{ns:project}}:Agik-ikkat',
+	'grouppage-eliminator' => '{{ns:project}}:Agik-ikkat', # Fuzzy
 	'group-filemover' => 'Dagiti makaiyalis nga agar-aramat',
 	'group-filemover-member' => '{{GENDER:$1|agiyal-alis ti papeles}}',
 	'grouppage-filemover' => '{{ns:project}}:Dagiti agiyal-alis ti papeles',
@@ -7231,15 +7308,15 @@ $messages['ilo'] = array(
 	'group-inactive' => 'Dagiti saan a nasiglat nga agar-aramat',
 	'group-inactive-member' => '{{GENDER:$1|saan a nasiglat nga agar-aramat}}',
 	'grouppage-inactive' => '{{ns:project}}:Dagiti saan a nasiglat nga agar-aramat',
-	'wikimedia-copyright' => 'Ti testo ket magun-od a babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensia ti Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Ti testo ket magun-od a babaen ti <a href="https://creativecommons.org/licenses/by-sa/3.0/">Lisensia ti Creative Commons Attribution/Share-Alike</a>;
 dagiti mainayon a termino ket mabalin pay a maipakat.
-Kitaen dagiti <a href="//wikimediafoundation.org/wiki/Terms_of_use">Termino ti panag-usar</a> para kadagiti salaysay.',
-	'wikidata-copyright' => 'Amin a naestruktura a datos manipud ti umuna ken tagikua a nagan a lugar ket magun-od babaen ti <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Panangipalpalawag ti Creative Commons CC0 a Lisensia">Creative Commons CC0 a Lisensia</a>;
-ti testo kadagiti sabali a nagan a lugar ket magun-od babaen ti <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Panangilawlawag ti Creative Commons Attribution/Share-Alike a Lisensia">Creative Commons Attribution/Share-Alike a Lisensia</a>;
+Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_use">Termino ti panag-usar</a> para kadagiti salaysay.',
+	'wikidata-copyright' => 'Amin a naestruktura a datos manipud ti umuna ken tagikua a nagan a lugar ket magun-od babaen ti <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Panangipalpalawag ti Creative Commons CC0 a Lisensia">Creative Commons CC0 a Lisensia</a>;
+ti testo kadagiti sabali a nagan a lugar ket magun-od babaen ti <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Panangilawlawag ti Creative Commons Attribution/Share-Alike a Lisensia">Creative Commons Attribution/Share-Alike a Lisensia</a>;
 mabalin a maipakat dagiti dadduma a termino.
-Kitaen dagiti <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Termino ti Panag-usar ti Pundasion ti Wikimedia">Termino ti Panag-usar</a> para kadagiti salaysay.',
-	'wikidata-shortcopyrightwarning' => 'Babaen ti panagpindut ti "idulin", umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use termimo ti panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://creativecommons.org/publicdomain/zero/1.0/ CC0 a lisensia].',
-	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [//wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Termino ti Panag-usar ti Pundasion ti Wikimedia">Termino ti Panag-usar</a> para kadagiti salaysay.',
+	'wikidata-shortcopyrightwarning' => 'Babaen ti panagpindut ti "idulin", umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use termimo ti panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://creativecommons.org/publicdomain/zero/1.0/ CC0 a lisensia].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
 	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
@@ -7272,11 +7349,14 @@ $messages['io'] = array(
 	'group-founder' => 'Fondinti',
 	'grouppage-founder' => '{{ns:project}}:Fondinti',
 	'group-rollbacker' => 'Retrorulanti',
+	'group-uploader' => 'Adkarganti',
+	'group-uploader-member' => 'adkarganto', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Adkarganti',
 	'group-sysadmin' => 'Sistemo-administranti',
-	'wikimedia-copyright' => 'La kontenajo esas sub la <a href="//creativecommons.org/licenses/by-sa/3.0/"><i>Creative Commons Attribution/Share-Alike License</i></a>;
+	'wikimedia-copyright' => 'La kontenajo esas sub la <a href="https://creativecommons.org/licenses/by-sa/3.0/"><i>Creative Commons Attribution/Share-Alike License</i></a>;
 suplementala reguli forsan aplikesas.
-Videz <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado</a> por detali.',
-	'wikimedia-copyrightwarning' => "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [//creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License 3.0''] e la [//www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [//wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali.", # Fuzzy
+Videz <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Reguli di Uzado</a> por detali.',
+	'wikimedia-copyrightwarning' => "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [https://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution/Share-Alike License 3.0''] e la [https://www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [https://wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali.", # Fuzzy
 );
 
 /** Icelandic (íslenska)
@@ -7326,9 +7406,9 @@ $messages['is'] = array(
 	'group-inactive' => 'Óvirkir notendur',
 	'group-inactive-member' => '{{GENDER:$1|óvirkur notandi}}',
 	'grouppage-inactive' => '{{ns:project}}:Óvirkir notendur',
-	'wikimedia-copyright' => 'Textinn er laus undir <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike leyfi</a>; með mögulegum viðbótarskilmálum.
-Sjá nánar í <a href="//wikimediafoundation.org/wiki/Terms_of_use">notkunarskilmálum</a>.',
-	'wikimedia-copyrightwarning' => 'Með því að ýta á "{{int:savearticle}}" takkann, staðfestir þú [//wikimediafoundation.org/wiki/Terms_of_Use notkunarskilmála] og samþykkir að gefa út framlag þitt undir [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 leyfi] og [//www.gnu.org/copyleft/fdl.html GFDL leyfi].
+	'wikimedia-copyright' => 'Textinn er laus undir <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike leyfi</a>; með mögulegum viðbótarskilmálum.
+Sjá nánar í <a href="https://wikimediafoundation.org/wiki/Terms_of_use">notkunarskilmálum</a>.',
+	'wikimedia-copyrightwarning' => 'Með því að ýta á "{{int:savearticle}}" takkann, staðfestir þú [https://wikimediafoundation.org/wiki/Terms_of_Use notkunarskilmála] og samþykkir að gefa út framlag þitt undir [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 leyfi] og [https://www.gnu.org/copyleft/fdl.html GFDL leyfi].
 Þú staðfestir einnig að vefslóð er nægjanleg tilvísun undir Creative Commons leyfinu.',
 	'cant-delete-main-page' => 'Þú getur ekki eytt eða fært forsíðuna.',
 	'createacct-imgcaptcha-help' => 'Getur þú ekki séð myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Óska eftir aðgangi]]',
@@ -7479,13 +7559,13 @@ $messages['it'] = array(
 	'group-inactive' => 'Utenti inattivi',
 	'group-inactive-member' => '{{GENDER:$1|utente inattivo|utente inattiva|utente inattivo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
-	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
-	'wikidata-copyright' => 'Tutti i dati strutturati nel namespace principale e delle proprietà sono disponibili in base alla <a href="//creativecommons.org/publicdomain/zero/1.0/deed.it" title="Definizione della licenza Creative Commons CC0">licenza Creative Commons CC0</a>;
-il testo negli altri namespace è disponibile in base alla <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it" title="Definizione della licenza Creative Commons Attribuzione-Condividi allo stesso modo">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>;
+	'wikimedia-copyright' => 'Il testo è disponibile secondo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>; possono applicarsi condizioni ulteriori. Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">condizioni d\'uso</a> per i dettagli.',
+	'wikidata-copyright' => 'Tutti i dati strutturati nel namespace principale e delle proprietà sono disponibili in base alla <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.it" title="Definizione della licenza Creative Commons CC0">licenza Creative Commons CC0</a>;
+il testo negli altri namespace è disponibile in base alla <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it" title="Definizione della licenza Creative Commons Attribuzione-Condividi allo stesso modo">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>;
 possono applicarsi ulteriori termini.
-Vedi le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedia Foundation Terms of Use">Condizioni d\'uso</a> per i dettagli.',
-	'wikidata-shortcopyrightwarning' => 'Facendo clic su "{{int:wikibase-save}}", si accettano le [//wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [//creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
-	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [//wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
+Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedia Foundation Terms of Use">Condizioni d\'uso</a> per i dettagli.',
+	'wikidata-shortcopyrightwarning' => 'Facendo clic su "{{int:wikibase-save}}", si accettano le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
+	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [https://wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pagine di Wikivoyage collegate a questo elemento',
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
@@ -7651,10 +7731,10 @@ $messages['ja'] = array(
 	'group-inactive-member' => '{{GENDER:$1|活動停止中の利用者}}',
 	'grouppage-inactive' => '{{ns:project}}:活動停止中の利用者',
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
-	'wikimedia-copyright' => 'テキストは<a href="//creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
-	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="//creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="//creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="//wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
-	'wikidata-shortcopyrightwarning' => '「{{int:wikibase-save}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したと見なされます。この同意は取り消せません。',
-	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
+	'wikimedia-copyright' => 'テキストは<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="https://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
+	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
+	'wikidata-shortcopyrightwarning' => '「{{int:wikibase-save}}」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したと見なされます。この同意は取り消せません。',
+	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 ライセンス]および [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'wikibase-sitelinks-wikivoyage' => 'この項目にリンクしている Wikivoyage ページ',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'wikimedia-translationnotifications-signup-legal' => 'あなたはウィキメディア財団にこの情報を提供することで、翻訳やその他ウィキメディア運動に関してあなたが興味を持つだろう話題について我々があなたに連絡をとってもよいと同意したことになります。あなたのデータがアメリカ合衆国で保管され、我々の[https://wikimediafoundation.org/wiki/Privacy_policy プライバシー・ポリシー]の対象となることに同意したことになります。',
@@ -7741,7 +7821,7 @@ $messages['jv'] = array(
 	'grouppage-editprotected' => '{{ns:project}}: Panyunting kaca sing dijaga',
 	'group-eliminator' => 'Èliminator',
 	'group-eliminator-member' => '{{GENDER:$1|èliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Èliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Èliminator', # Fuzzy
 	'group-filemover' => 'Pamindhah berkas',
 	'group-filemover-member' => '{{GENDER:$1|pamindhah berkas}}',
 	'grouppage-filemover' => '{{ns:project}}:Pamindhah berkas',
@@ -7775,6 +7855,9 @@ $messages['jv'] = array(
 	'group-trusted' => 'Panganggo pitaya',
 	'group-trusted-member' => '{{GENDER:$1|Panganggo pitaya}}',
 	'grouppage-trusted' => '{{ns:project}}:Panganggo pitaya',
+	'group-uploader' => 'Pamunggah',
+	'group-uploader-member' => 'pamunggah', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Pamunggah',
 	'group-Global_bot' => 'Bot global',
 	'group-Global_bot-member' => '{{GENDER:$1|bot global}}',
 	'group-Global_rollback' => 'Sing mbalèkaké révisi global',
@@ -7803,8 +7886,8 @@ $messages['jv'] = array(
 	'group-inactive' => 'Panganggo ora aktif',
 	'group-inactive-member' => '{{GENDER:$1|panganggo ora aktip}}',
 	'grouppage-inactive' => '{{ns:project}}:Panganggo ora aktif',
-	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
-	'wikimedia-copyrightwarning' => 'Mawa ngeklik tombol "{{int:savearticle}}", Sampéyan ngiyakaké [//wikimediafoundation.org/wiki/Terms_of_Use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [//creativecommons.org/licenses/by-sa/3.0/ Lisènsi CC-BY-SA 3.0] lan [//www.gnu.org/copyleft/fdl.html GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.',
+	'wikimedia-copyright' => 'Tèks cumawis wonten ing saandhaping <a href="https://creativecommons.org/licenses/by-sa/3.0/">Lisensi Atribusi/Berbagi Serupa Creative Commons</a>; mbokmanawi ugi wonten wewaton tambahan. Pirsani <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Katentuan Pangginaan</a> supados langkung gamblang.',
+	'wikimedia-copyrightwarning' => 'Mawa ngeklik tombol "{{int:savearticle}}", Sampéyan ngiyakaké [https://wikimediafoundation.org/wiki/Terms_of_Use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [https://creativecommons.org/licenses/by-sa/3.0/ Lisènsi CC-BY-SA 3.0] lan [https://www.gnu.org/copyleft/fdl.html GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.',
 	'cant-delete-main-page' => 'Sampéyan ora bisa mbusak utawa mindhahaké kaca utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Sampéyan ngiyakaké yèn nyadhiyakaké Yayasan Wikipédia informasi iki awak dhéwé bisa ngubungi Sampéyan ngenani terjamahan utawa topik liya sing ana kaitané karo gerakan Wikimédia awak dhéwé kersa marang Sampéyan. Sampéyan ngiyakaké data Sampéyan disimpen nèng Amèrika Serikat lan dadi [https://wikimediafoundation.org/wiki/Privacy_policy kabijakan privasi] awak dhéwé.',
 );
@@ -7873,7 +7956,7 @@ $messages['ka'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:დაცული გვერდების რედაქტორები',
 	'group-eliminator' => 'გამომრიცხველები',
 	'group-eliminator-member' => '{{GENDER:$1|გამომრიცხავი}}',
-	'grouppage-eliminator' => '{{ns:project}}:გამომრიცხავი',
+	'grouppage-eliminator' => '{{ns:project}}:გამომრიცხავი', # Fuzzy
 	'group-filemover' => 'ფაილის გადამტანები',
 	'group-filemover-member' => '{{GENDER:$1|ფაილის გადამტანი}}',
 	'grouppage-filemover' => '{{ns:project}}:ფაილის გადამტანები',
@@ -7907,6 +7990,9 @@ $messages['ka'] = array(
 	'group-trusted' => 'სანდო მომხმარებლები',
 	'group-trusted-member' => '{{GENDER:$1|სანდო მომხმარებელი}}',
 	'grouppage-trusted' => '{{ns:project}}:სანდო მომხმარებლები',
+	'group-uploader' => 'ამტვირთველები',
+	'group-uploader-member' => 'ამტვირთველი', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:ამტვირთველები',
 	'group-Global_bot' => 'გლობალური ბოტები',
 	'group-Global_bot-member' => '{{GENDER:$1|გლობალური ბოტი}}',
 	'group-Global_rollback' => 'გლობალური გამმაუქმებლები',
@@ -7942,9 +8028,9 @@ $messages['ka'] = array(
 	'group-inactive' => 'არააქტიური მომხმარებლები',
 	'group-inactive-member' => '{{GENDER:$1|არააქტიური მომხმარებელი}}',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
-	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
-	'wikidata-shortcopyrightwarning' => 'ღილაკზე "შენახვა" დაწკაპუნებით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს] და სამუდამოდ თანხმდებით თქვენი წვლილის გამოქვეყნებას [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ლიცენზიით].',
-	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [//wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [//www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
+	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
+	'wikidata-shortcopyrightwarning' => 'ღილაკზე "შენახვა" დაწკაპუნებით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს] და სამუდამოდ თანხმდებით თქვენი წვლილის გამოქვეყნებას [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ლიცენზიით].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
 თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
@@ -8019,8 +8105,8 @@ $messages['kk-cyrl'] = array(
 	'group-Staff-member' => 'Басқарма мүшесі',
 	'group-sysadmin' => 'Жүйе әкімшілері',
 	'group-sysadmin-member' => 'жүйе әкімшісі', # Fuzzy
-	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [//www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
-[//wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].", # Fuzzy
+	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [https://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
+[https://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].", # Fuzzy
 );
 
 /** Kazakh (Latin script) (qazaqşa (latın)‎)
@@ -8033,9 +8119,9 @@ $messages['kk-latn'] = array(
  * @author Qaqqalik
  */
 $messages['kl'] = array(
-	'wikimedia-copyright' => 'Allatat ilaatinneqarput <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-ip ataani;
+	'wikimedia-copyright' => 'Allatat ilaatinneqarput <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-ip ataani;
 piumasaqaatit atuutinneqarsinnaapput.
-Takuuk <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Atugassatut piumasaqaatit</a> paasissutissaanerusut.',
+Takuuk <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Atugassatut piumasaqaatit</a> paasissutissaanerusut.',
 );
 
 /** Khmer (ភាសាខ្មែរ)
@@ -8093,6 +8179,9 @@ $messages['km'] = array(
 	'group-transwiki-member' => '{{GENDER:$1|អ្នកនាំចូលអន្តរវិគី}}',
 	'grouppage-transwiki' => '{{ns:project}}:អ្នកនាំចូលអន្តរវិគី',
 	'group-trusted-member' => '{{GENDER:$1|អ្នកប្រើប្រាស់ដែលអាចជឿទុកចិត្តបាន}}',
+	'group-uploader' => 'អ្នក​ផ្ទុកឯកសារឡើង',
+	'group-uploader-member' => 'អ្នក​ផ្ទុកឯកសារឡើង', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:អ្នក​ផ្ទុកឯកសារឡើង',
 	'group-Global_bot' => 'រូបយន្ត​សកល',
 	'group-Global_bot-member' => '{{GENDER:$1|រូបយន្ត​សកល}}',
 	'group-Global_sysops-member' => '{{GENDER:$1|អ្នកថែទាំប្រព័ន្ធសកល}}',
@@ -8109,9 +8198,9 @@ $messages['km'] = array(
 	'group-inactive' => 'ក្រុម​អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
 	'group-inactive-member' => '{{GENDER:$1|អ្នក​ប្រើ​ប្រាស់​អសកម្ម​}}',
 	'grouppage-inactive' => '{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម',
-	'wikimedia-copyright' => 'អត្ថបទ​នេះ​ត្រូវបានផ្ដល់ក្រោមអាជ្ញាបណ្ឌ<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>​។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
-សូមមើល <a href="//wikimediafoundation.org/wiki/Terms_of_Use">លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់</a> សម្រាប់​ព័ត៌មានលម្អិត​។',
-	'wikimedia-copyrightwarning' => 'តាមរយៈ​ការចុចលើប៊ូតុង "{{int:savearticle}}" អ្នកយល់ព្រមជាមួយ[//wikimediafoundation.org/wiki/Terms_of_Use លក្ខខណ្ឌនៃការប្រើប្រាស់] ហើយអ្នកយល់ព្រមដោយឥតកែប្រែ​ក្នុងការចែកចាយការរួមចំណែករបស់អ្នកក្រោម [//creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ឌ CC-BY-SA 3.0] និង [//www.gnu.org/copyleft/fdl.html GFDL]។ អ្នកក៏យល់ព្រមថាការប្រើតំណភ្ជាប់ហាយភើលីងឬURLគឺគ្រប់គ្រាន់សំរាប់បញ្ជាក់ពីភាពជាម្ចាស់កម្មសិទ្ធរបស់អ្នក ក្រោមអាជ្ញាបណ្ឌ Creative Commons។',
+	'wikimedia-copyright' => 'អត្ថបទ​នេះ​ត្រូវបានផ្ដល់ក្រោមអាជ្ញាបណ្ឌ<a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>​។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
+សូមមើល <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់</a> សម្រាប់​ព័ត៌មានលម្អិត​។',
+	'wikimedia-copyrightwarning' => 'តាមរយៈ​ការចុចលើប៊ូតុង "{{int:savearticle}}" អ្នកយល់ព្រមជាមួយ[https://wikimediafoundation.org/wiki/Terms_of_Use លក្ខខណ្ឌនៃការប្រើប្រាស់] ហើយអ្នកយល់ព្រមដោយឥតកែប្រែ​ក្នុងការចែកចាយការរួមចំណែករបស់អ្នកក្រោម [https://creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ឌ CC-BY-SA 3.0] និង [https://www.gnu.org/copyleft/fdl.html GFDL]។ អ្នកក៏យល់ព្រមថាការប្រើតំណភ្ជាប់ហាយភើលីងឬURLគឺគ្រប់គ្រាន់សំរាប់បញ្ជាក់ពីភាពជាម្ចាស់កម្មសិទ្ធរបស់អ្នក ក្រោមអាជ្ញាបណ្ឌ Creative Commons។',
 	'cant-delete-main-page' => 'អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។',
 );
 
@@ -8280,15 +8369,15 @@ $messages['ko'] = array(
 	'group-inactive-member' => '{{GENDER:$1|활동하지 않는 사용자}}',
 	'grouppage-inactive' => '{{ns:project}}:활동하지 않는 사용자',
 	'shared-repo-name-shared' => '위키미디어 공용',
-	'wikimedia-copyright' => '내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+	'wikimedia-copyright' => '내용은 <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
-자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ko">이용 약관</a>을 참고하십시오.',
-	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="//creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고
-다른 이름공간의 내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
+자세한 내용은 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ko">이용 약관</a>을 참고하십시오.',
+	'wikidata-copyright' => '주요와 속성 이름공간의 모든 구조화된 데이터는 <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ko" title="크리에이티브 커먼즈 CC0 라이선스의 정의">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고
+다른 이름공간의 내용은 <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
-자세한 내용은 <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ko" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
-	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"을 클릭하면 [//wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [//creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [//wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [//creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [//www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
+자세한 내용은 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ko" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
+	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'wikibase-sitelinks-wikivoyage' => '이 항목으로 링크한 위키여행 문서',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 옮길 수 없습니다.',
@@ -8323,8 +8412,8 @@ $messages['krc'] = array(
 	'group-transwiki-member' => 'Викиле арасы импорт этиучю', # Fuzzy
 	'group-steward' => 'Стюардла',
 	'shared-repo-name-shared' => 'Викигёзен',
-	'wikimedia-copyright' => 'Текст, <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike лицензияны</a> шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Хайырланыу шартла</a>.',
-	'wikimedia-copyrightwarning' => 'Кесигизни тюрлендириулеригизни сакъласагъыз, [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [//www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [//wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].', # Fuzzy
+	'wikimedia-copyright' => 'Текст, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike лицензияны</a> шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Хайырланыу шартла</a>.',
+	'wikimedia-copyrightwarning' => 'Кесигизни тюрлендириулеригизни сакъласагъыз, [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].', # Fuzzy
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(сайлауда болуш)]]',
 	'createacct-imgcaptcha-help' => 'Суратны кёрелмеймисе? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтха соруу бер]]',
 );
@@ -8392,7 +8481,7 @@ $messages['ksh'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Schriever op jeschözde Sigge',
 	'group-eliminator' => 'Sigge-Fottschmießer',
 	'group-eliminator-member' => 'Sigge-{{GENDER:$1|Fottschmießer|Fottschmießerėn|Fottschmießer|Fottschmießerėn|Fottschmießer}}',
-	'grouppage-eliminator' => '{{ns:project}}:Sigge-Fottschmießer',
+	'grouppage-eliminator' => '{{ns:project}}:Sigge-Fottschmießer', # Fuzzy
 	'group-filemover' => 'Dateie-Ömdäufer',
 	'group-filemover-member' => '{{GENDER:$1|Dateie-Ömdäufer|Dateie-Ömdäuferėn|Dateie-Ömdäufer|Dateie-Ömdäuferėn|Dateie-Ömdäufer}}',
 	'grouppage-filemover' => '{{ns:project}}:Dateie-Ömdäufer',
@@ -8426,6 +8515,9 @@ $messages['ksh'] = array(
 	'group-trusted' => '{{int:Group-trusted-member}}',
 	'group-trusted-member' => '{{GENDER:$1|Metmaacher|Metmaacherėn|Metmaacher|Metmaacherėn|Metmaacher}} met Vertroue',
 	'grouppage-trusted' => '{{ns:project}}:{{int:group-trusted}}',
+	'group-uploader' => 'Huhlaader',
+	'group-uploader-member' => 'Huhlaader', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Huhlaader',
 	'group-Global_bot' => 'Bots för all Wikis',
 	'group-Global_bot-member' => '{{GENDER:$1|Bot för all Wikis}}',
 	'grouppage-Global_bot' => 'm:Global bot/ksh',
@@ -8461,8 +8553,8 @@ $messages['ksh'] = array(
 	'group-inactive-member' => '{{GENDER:$1|Metmaacher, dä nix deiht|Metmaacheren, di nix deiht|Metmaacher, dä nix deiht|Metmaacheren, di nix deiht|Metmaacher, dä nix deiht}}',
 	'grouppage-inactive' => '{{ns:project}}:{{int:group-inactive}}',
 	'shared-repo-name-shared' => '<i lang="en">Wikimedia Commons</i>',
-	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">Lizänz: <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße</a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
-	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [//creativecommons.org/licenses/by-sa/3.0/deed.de Lizänz <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße, Version 3.0] un de [//www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [//wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
+	'wikimedia-copyright' => 'Dä Tex heh kann jebruch wääde unger dä <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">Lizänz: <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße</a>. Zohsäzlejje Beshtemmunge künne jälte. Loor op dä Sigg övver de <a href="https://wikimediafoundation.org/wiki/Nutzungsbedingungen">Lizänz_Beshtemmunge</a>, doh shtonn mieh Einzelheite.',
+	'wikimedia-copyrightwarning' => 'Endämm De jet avspeichere deihs, jiß De Dinge Beidraach unger de [https://creativecommons.org/licenses/by-sa/3.0/deed.de Lizänz <i lang="en">Creative Commons</i>, der Name moß jenannt wääde un Wiggerjävve zoh dersellve Bedengunge es zohjelohße, Version 3.0] un de [https://www.gnu.org/copyleft/fdl.html GFDL] frei, un shtemms zoh, dat ander Dir et Lob doför jävve, zoh_winnischß övver ene Lengk op udder en URL vun däm Atikel, woh De draan am schriive bes. Loor op dä Sigg övver de [https://wikimediafoundation.org/wiki/Nutzungsbedingungen Lizänz_Beshtemmunge], doh shtonn mieh Einzelheite.',
 	'cant-delete-main-page' => 'Do kanns de Houpsigg nit ömdäufe udder fott schmieße.',
 	'wikimedia-translationnotifications-signup-legal' => 'Do bes enverstande domet, dat de Wikkimeedija Schteftong met Der en ene Kumtak trädde darref wääje Ding Övversäzonge udder ander Saache, di met dä Wikkimeedia-Bewääjong ze donn han, woh mer vun meint, dat di för Desch interßant sin künnte. Do bes enverschtande, dat Daate övver Desch en der Vereineschte Schtaate vun Ammärrika faßjehallde wääde künne un onger der Schteftong ier [https://wikimediafoundation.org/wiki/Privacy_policy Rääjelle för pevaate Daate] schtonn. Wann De domet nit enverschtande bes, donn heh nix enjävve.',
 	'upload-more-photos-of-this-monument' => 'Donn mieh Fotos vun heh däm Dängkmohl huhlaade',
@@ -8480,8 +8572,8 @@ $messages['ku-latn'] = array(
 	'group-Global_bot-member' => "bot'ê global", # Fuzzy
 	'wikimedia-copyright' => 'Nivîsar di bin lîsansa <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> de derbasdar e;
 heke tiştên din werin xwestin dikarin lê bên zêdekirin.
-Ji bo hûragahiyan li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Mercên Bikaranînê</a> binêre.',
-	'wikimedia-copyrightwarning' => 'Bi tikandina bişkoka "{{int:savearticle}}", tu [//wikimediafoundation.org/wiki/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina beşdariyên xwe yên di bin [//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lîsansa CC-BY-SA 3.0] û [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] de dipejirînî.
+Ji bo hûragahiyan li <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Mercên Bikaranînê</a> binêre.',
+	'wikimedia-copyrightwarning' => 'Bi tikandina bişkoka "{{int:savearticle}}", tu [https://wikimediafoundation.org/wiki/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina beşdariyên xwe yên di bin [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lîsansa CC-BY-SA 3.0] û [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] de dipejirînî.
 Tu pê pabend dibe ku her girêdanek an jî URL\'yek di bin lîsansa Creative Commonsê de ye.',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(alîkariya hilbijartinê bike)]]',
 	'createacct-imgcaptcha-help' => 'Nikarî wêne bibînî? [[{{MediaWiki:createacct-captcha-help-url}}|Hesabekî bixwaze]]',
@@ -8497,7 +8589,7 @@ $messages['kw'] = array(
 	'sitesupport' => 'Riansow',
 	'tooltip-n-sitesupport' => 'Skoodhyewgh ni',
 	'group-sysadmin' => 'Menystroryon an system',
-	'wikimedia-copyright' => 'Kavadow yw an tekst yn-dann <a href="//creativecommons.org/licenses/by-sa/3.0/">Leshyans Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alsa bos omvyskys. Gwelewgh an <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
+	'wikimedia-copyright' => 'Kavadow yw an tekst yn-dann <a href="https://creativecommons.org/licenses/by-sa/3.0/">Leshyans Attribution/Share-Alike Creative Commons</a>; termynyow keworansel a alsa bos omvyskys. Gwelewgh an <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Termynyow Devnydh</a> rag manylyon.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Polici henwyn devnydhyer',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(gweres dhymm dewis)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Govyn akont',
@@ -8594,7 +8686,7 @@ $messages['lb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}: Editeure vu gespaarte Säiten',
 	'group-eliminator' => 'Eliminateuren',
 	'group-eliminator-member' => '{{GENDER:$1|Eliminateur}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminateur',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminateur', # Fuzzy
 	'group-filemover' => 'Fichiersréckeler',
 	'group-filemover-member' => 'Fichiersréckeler', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}: Fichiersréckeler',
@@ -8627,6 +8719,9 @@ $messages['lb'] = array(
 	'group-trusted' => 'Erfuere Benotzer',
 	'group-trusted-member' => '{{GENDER:$1|erfuerene Benotzer}}',
 	'grouppage-trusted' => '{{ns:project}}:Erfuere Benotzer',
+	'group-uploader' => 'Eroplueder',
+	'group-uploader-member' => 'Eroplueder', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Eroplueder',
 	'group-Global_bot' => 'Global Botten',
 	'group-Global_bot-member' => '{{GENDER:$1|Globale Bot}}',
 	'grouppage-Global_bot' => 'm:Global bot',
@@ -8657,9 +8752,9 @@ $messages['lb'] = array(
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
 	'group-inactive-member' => '{{GENDER:$1|net aktive Benotzer}}',
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
-	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
-Kuckt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
-	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [//wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [//www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
+	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
+Kuckt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
+	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [https://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [https://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
 Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
@@ -8746,7 +8841,7 @@ $messages['li'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Beveiligingsómzeilers',
 	'group-eliminator' => 'Óprumer',
 	'group-eliminator-member' => 'óprumer',
-	'grouppage-eliminator' => '{{ns:project}}:Óprumer',
+	'grouppage-eliminator' => '{{ns:project}}:Óprumer', # Fuzzy
 	'group-filemover' => 'Bestandjsverplaatsers',
 	'group-filemover-member' => 'bestandjsverplaatser',
 	'grouppage-filemover' => '{{ns:project}}:Bestandjsverplaatsers',
@@ -8779,6 +8874,9 @@ $messages['li'] = array(
 	'group-trusted' => 'vertroewdje gebroekers',
 	'group-trusted-member' => 'vertroewdje gebroeker',
 	'grouppage-trusted' => '{{ns:project}}:Vertroewdje gebroekers',
+	'group-uploader' => 'oplajers',
+	'group-uploader-member' => 'oplajer', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Oplajers',
 	'group-Global_bot' => 'Globale bots',
 	'group-Global_bot-member' => 'Globale bot',
 	'group-Global_rollback' => 'Globale trökdriejers',
@@ -8804,10 +8902,10 @@ $messages['li'] = array(
 	'group-inactive' => 'Neet-actieve gebroekers',
 	'group-inactive-member' => 'Neet-actieve gebroeker',
 	'grouppage-inactive' => '{{ns:project}}:Neet-actieve gebroekers',
-	'wikimedia-copyright' => 'De teks is besjikbaar ónger de <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naomsvermelding/Geliek Deile</a> licentie.
+	'wikimedia-copyright' => 'De teks is besjikbaar ónger de <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naomsvermelding/Geliek Deile</a> licentie.
 \'t Is mäögelik dat aanvöllende veurwaarde van toepassing zeen.
-Betrach de <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Algemein Veurwaarde</a> veur mie informatie.',
-	'wikimedia-copyrightwarning' => 'Door dees bewirking op te sjlaon mit "{{int:savearticle}}", geis doe akkoord mit de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden gebroeks veurwaerd] en \'t ónherropelik vriegaeve van dien biedrage ónger de [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Noamsvermelding/Geliek Deile licentie] en de [//www.gnu.org/copyleft/fdl.html GFDL].
+Betrach de <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Algemein Veurwaarde</a> veur mie informatie.',
+	'wikimedia-copyrightwarning' => 'Door dees bewirking op te sjlaon mit "{{int:savearticle}}", geis doe akkoord mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden gebroeks veurwaerd] en \'t ónherropelik vriegaeve van dien biedrage ónger de [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Noamsvermelding/Geliek Deile licentie] en de [https://www.gnu.org/copyleft/fdl.html GFDL].
 Doe geis demit akkoord door hergebroekers minimaal geneump te waere via \'ne hyperlink of URL nao de pagina woe-aans diech biedreugs.',
 	'cant-delete-main-page' => "Doe kans 't veurblaad neet wösje of verplaatsje.",
 	'wikimedia-translationnotifications-signup-legal' => "Door dees gegaeves besjikbaar te stèlle ane Wikimedia Foundation, geufs se ós toestömming óm kóntak mit dich op te naeme euver vertalinge en anger óngerwirpe gerelateerdj ane Wikimediabewaeging wovan weer dinke det ze dien interesse höbbe. Doe stöms in mit 't opslaon van dien gegaeves inne VS en det dien gegaeves ónger ós [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] valle.",
@@ -8934,6 +9032,9 @@ $messages['lt'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importuotojai',
 	'group-trusted' => 'Patikėtiniai',
 	'group-trusted-member' => '{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}',
+	'group-uploader' => 'Įkėlėjai',
+	'group-uploader-member' => 'įkėlėjas', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Įkėlėjai',
 	'group-Global_bot' => 'Globalūs botai',
 	'group-Global_bot-member' => 'visuotinis botas', # Fuzzy
 	'group-Global_rollback' => 'Visuotiniai atmetėjai',
@@ -8955,11 +9056,11 @@ $messages['lt'] = array(
 	'group-inactive' => 'Neaktyvūs naudotojai',
 	'group-inactive-member' => '{{GENDER:$1|neaktyvus naudotojas|neaktyvi naudotoja}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktyvūs naudotojai',
-	'wikimedia-copyright' => 'Turinys pateikiamas pagal <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenciją</a>;
+	'wikimedia-copyright' => 'Turinys pateikiamas pagal <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenciją</a>;
 gali galioti kitos nuostatos.
-Norėdami sužinoti daugiau, žiūrėkite <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Naudojimo sąlygas</a>.',
-	'wikimedia-copyrightwarning' => 'Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] ir [//www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.
-Norėdami sužinoti daugiau, žiūrėkite [//wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygas]',
+Norėdami sužinoti daugiau, žiūrėkite <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Naudojimo sąlygas</a>.',
+	'wikimedia-copyrightwarning' => 'Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] ir [https://www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.
+Norėdami sužinoti daugiau, žiūrėkite [https://wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygas]',
 );
 
 /** Latgalian (latgaļu)
@@ -9017,6 +9118,7 @@ $messages['lv'] = array(
 	'grouppage-import' => '{{ns:project}}:Importētāji',
 	'group-transwiki' => 'Transviki importētāji',
 	'group-trusted' => 'Uzticamie lietotāji',
+	'group-uploader' => 'Augšupielādētāji',
 	'group-Global_bot' => 'Globālie boti',
 	'group-Staff' => 'Personāls',
 	'group-steward' => 'Sistēmas pārvaldnieki',
@@ -9026,12 +9128,12 @@ $messages['lv'] = array(
 	'group-inactive' => 'Neaktīvi lietotāji',
 	'group-inactive-member' => 'neaktīvs lietotājs', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktīvi lietotāji',
-	'wikimedia-copyright' => 'Teksts ir pieejams saskaņā ar <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenci</a>;
+	'wikimedia-copyright' => 'Teksts ir pieejams saskaņā ar <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenci</a>;
 var pastāvēt papildus ierobežojumi.
-Plašākai informācijai skatīt <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Lietošanas noteikumus</a>.',
-	'wikimedia-copyrightwarning' => 'Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [//www.gnu.org/copyleft/fdl.html GFDL] licenci.
+Plašākai informācijai skatīt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Lietošanas noteikumus</a>.',
+	'wikimedia-copyrightwarning' => 'Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [https://www.gnu.org/copyleft/fdl.html GFDL] licenci.
 Jūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.
-Plašākai informācijai skatīt [//wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].', # Fuzzy
+Plašākai informācijai skatīt [https://wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].', # Fuzzy
 );
 
 /** Literary Chinese (文言)
@@ -9043,9 +9145,9 @@ $messages['lzh'] = array(
 	'sitesupport' => '捐助集',
 	'tooltip-n-sitesupport' => '濟資財、施續命、傳美皓',
 	'nstab-creator' => '立者',
-	'wikimedia-copyright' => '凡我維基之文，悉為<a href="//creativecommons.org/licenses/by-sa/3.0/">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。
-請閱<a href="//wikimediafoundation.org/wiki/Terms_of_Use">全文</a>，以得其詳。',
-	'wikimedia-copyrightwarning' => '《維基大典》，奉《[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意]》、《革奴自由文檔》授權以行，增修刪改，皆無異議。惟所取用，務請引據。',
+	'wikimedia-copyright' => '凡我維基之文，悉為<a href="https://creativecommons.org/licenses/by-sa/3.0/">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。
+請閱<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">全文</a>，以得其詳。',
+	'wikimedia-copyrightwarning' => '《維基大典》，奉《[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意]》、《革奴自由文檔》授權以行，增修刪改，皆無異議。惟所取用，務請引據。', # Fuzzy
 );
 
 /** Lazuri (Lazuri)
@@ -9143,6 +9245,8 @@ $messages['mg'] = array(
 	'group-trusted' => 'Mpikambana azo antoka',
 	'group-trusted-member' => 'mpikambana azo antoka', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Mpikambana azo antoka',
+	'group-uploader' => 'Mpampiditra',
+	'group-uploader-member' => 'Mpampiditra', # Fuzzy
 	'group-Global_bot' => "Rôbô amin'ny ankapobe ny wiki",
 	'group-Global_bot-member' => 'rôbô global', # Fuzzy
 	'group-Global_rollback' => "Mpamafa amin'ny ankapobe ny wiki",
@@ -9164,7 +9268,7 @@ $messages['mg'] = array(
 	'group-inactive' => 'mpikambana tsy miasa',
 	'group-inactive-member' => 'mpikambana tsy miasa', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Mpikambana tsy manova',
-	'wikimedia-copyright' => 'Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">Creative Commons Attribution/Share-Alike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href="//wikimediafoundation.org/wiki/Fepetram-pampiasana">fepetram-pampiasana</a> ho an\'ny antsipirihany.',
+	'wikimedia-copyright' => 'Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">Creative Commons Attribution/Share-Alike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href="https://wikimediafoundation.org/wiki/Fepetram-pampiasana">fepetram-pampiasana</a> ho an\'ny antsipirihany.',
 );
 
 /** Eastern Mari (олык марий)
@@ -9234,7 +9338,7 @@ $messages['min'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Panyuntiang laman talinduang',
 	'group-eliminator' => 'Panghapuih',
 	'group-eliminator-member' => '{{GENDER:$1|panghapuih}}',
-	'grouppage-eliminator' => '{{ns:project}}:Panghapuih',
+	'grouppage-eliminator' => '{{ns:project}}:Panghapuih', # Fuzzy
 	'group-filemover' => 'Pamindah berkas',
 	'group-filemover-member' => '{{GENDER:$1|pamindah berkas}}',
 	'grouppage-filemover' => '{{ns:project}}:Pamindah berkas',
@@ -9320,13 +9424,13 @@ $messages['min'] = array(
 	'group-inactive-member' => '{{GENDER:$1|pangguno indak aktip}}',
 	'grouppage-inactive' => '{{ns:project}}:Pangguno indak aktip',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Teks tasadio jo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; katantuan tambahan mungkin balaku. Caliak <a href="//wikimediafoundation.org/wiki/Terms_of_use-Summary/min">Katantuan Panggunoan</a> untuak labiah jaleh.',
-	'wikidata-copyright' => 'Sado struktur data dari ruangnamo utamo jo properti tasadio jo <a href="//creativecommons.org/publicdomain/zero/1.0/deed.id" title="Definisi dari lisensi Creative Commons CC-nol">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;
-teks dalam ruangnamo lain tasadio jo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.id" title="Definisi dari lisensi Creative Commons Attribusi-BabagiSarupo">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; 
+	'wikimedia-copyright' => 'Teks tasadio jo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; katantuan tambahan mungkin balaku. Caliak <a href="https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min">Katantuan Panggunoan</a> untuak labiah jaleh.',
+	'wikidata-copyright' => 'Sado struktur data dari ruangnamo utamo jo properti tasadio jo <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.id" title="Definisi dari lisensi Creative Commons CC-nol">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;
+teks dalam ruangnamo lain tasadio jo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" title="Definisi dari lisensi Creative Commons Attribusi-BabagiSarupo">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; 
 katantuan tambahan mungkin balaku. 
-Caliak <a href="//wikimediafoundation.org/wiki/Terms_of_use-Summary/min">Katantuan Panggunoan</a> untuak labiah jaleh.',
-	'wikidata-shortcopyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [//wikimediafoundation.org/wiki/Terms_of_use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [//creativecommons.org/publicdomain/zero/1.0/deed.id lisensi CC-nol].',
-	'wikimedia-copyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [//wikimediafoundation.org/wiki/Terms_of_use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [//id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BabagiSarupo Creative Commons] jo [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Sanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.',
+Caliak <a href="https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min">Katantuan Panggunoan</a> untuak labiah jaleh.',
+	'wikidata-shortcopyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [https://creativecommons.org/publicdomain/zero/1.0/deed.id lisensi CC-nol].',
+	'wikimedia-copyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BabagiSarupo Creative Commons] jo [https://id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Sanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Sanak indak dapek mangahapuih atau mamindahan palanta.',
 	'wikimedia-translationnotifications-signup-legal' => 'Jo mangagiah informasi ko ka Yayasan Wikimedia, Sanak satuju baso kami dapek manghubuangi Sanak takaik tajamahan atau topik lain nan bahubuangan jo garakan Wikimedia nan kami anggap paralu untuak Sanak katahui. Sanak satuju sado data Sanak disimpan di Amerika Sarikaik dan mamatuhi [https://wikimediafoundation.org/wiki/Privacy_policy kabijakan privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Muek labiah banyak foto dari monumen ko',
@@ -9483,15 +9587,15 @@ $messages['mk'] = array(
 	'group-inactive-member' => '{{GENDER:$1|неактивен корисник}}',
 	'grouppage-inactive' => '{{ns:project}}:Нективни корисници',
 	'shared-repo-name-shared' => 'Заедничката Ризница',
-	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.
+	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.
 Може да важат и дополнителни услови.
-Повеќе информации ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Услови_на_употреба">Услови на употреба</a>.',
-	'wikidata-copyright' => 'Сите структурирани податоци од именските простори „главен“ и „својство“ се достапни под лиценцата <a href="//https://creativecommons.org/publicdomain/zero/1.0/deed.mk" title="Уредби на лиценцата Криејтив комонс CC0">Кријетив комонс CC0</a>;
-текстот и останатите именски простори се достапни под лиценцата <a href="//creativecommons.org/licenses/by-sa/3.0/deed.mk" title="Уредби на лиценцата Криејтив комонс Наведи извор/Сподели под исти услови">Криејтив комонс Наведи извор/Сподели под исти услови</a>;
+Повеќе информации ќе најдете на страницата <a href="https://wikimediafoundation.org/wiki/Услови_на_употреба">Услови на употреба</a>.',
+	'wikidata-copyright' => 'Сите структурирани податоци од именските простори „главен“ и „својство“ се достапни под лиценцата <a href="https://https://creativecommons.org/publicdomain/zero/1.0/deed.mk" title="Уредби на лиценцата Криејтив комонс CC0">Кријетив комонс CC0</a>;
+текстот и останатите именски простори се достапни под лиценцата <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.mk" title="Уредби на лиценцата Криејтив комонс Наведи извор/Сподели под исти услови">Криејтив комонс Наведи извор/Сподели под исти услови</a>;
 може да важат и дополнителни услови.
-Повеќе ќе најдете на страницата <a href="//wikimediafoundation.org/wiki/Terms_of_Use/mk" title="Услови на употреба на Фондацијата Викимедија">Услови на употреба</a>.',
-	'wikidata-shortcopyrightwarning' => 'Стискајќи на „{{int:wikibase-save}}“, се согласувате со [//wikimediafoundation.org/wiki/Terms_of_Use/mk?uselang=mk условите на употреба] и неотповикливо се согласувате да ги објавувате вашите придонеси под лиценцата [//creativecommons.org/publicdomain/zero/1.0/deed.mk CC0].',
-	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [//wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [//creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [//www.gnu.org/copyleft/fdl.html?uselang=mk ГЛСД] (GFDL).
+Повеќе ќе најдете на страницата <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/mk" title="Услови на употреба на Фондацијата Викимедија">Услови на употреба</a>.',
+	'wikidata-shortcopyrightwarning' => 'Стискајќи на „{{int:wikibase-save}}“, се согласувате со [https://wikimediafoundation.org/wiki/Terms_of_Use/mk?uselang=mk условите на употреба] и неотповикливо се согласувате да ги објавувате вашите придонеси под лиценцата [https://creativecommons.org/publicdomain/zero/1.0/deed.mk CC0].',
+	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [https://wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [https://creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [https://www.gnu.org/copyleft/fdl.html?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'wikibase-sitelinks-wikivoyage' => 'Страници на Википатување сврзани со овој предмет',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
@@ -9503,6 +9607,7 @@ $messages['mk'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогни ми да одберам)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Барање_на_сметка',
 	'createacct-imgcaptcha-help' => 'Не можете да ја видите сликата? [[{{MediaWiki:createacct-captcha-help-url}}|Побарајте сметка]]',
+	'wikimedia-developers' => 'Програмери',
 );
 
 /** Malayalam (മലയാളം)
@@ -9569,7 +9674,7 @@ $messages['ml'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:സംരക്ഷിത താൾ തിരുത്തുന്നവർ',
 	'group-eliminator' => 'തിരസ്കർത്താക്കൾ',
 	'group-eliminator-member' => '{{GENDER:$1|തിരസ്കർത്താവ്}}',
-	'grouppage-eliminator' => '{{ns:project}}:തിരസ്കർത്താവ്',
+	'grouppage-eliminator' => '{{ns:project}}:തിരസ്കർത്താവ്', # Fuzzy
 	'group-filemover' => 'പ്രമാണം മാറ്റുന്നവർ',
 	'group-filemover-member' => '{{GENDER:$1|പ്രമാണം മാറ്റുന്നവർ}}',
 	'grouppage-filemover' => '{{ns:project}}:പ്രമാണം മാറ്റുന്നവർ',
@@ -9641,13 +9746,13 @@ $messages['ml'] = array(
 	'group-inactive-member' => '{{GENDER:$1|സജീവമല്ലാത്ത ഉപയോക്താവ്}}',
 	'grouppage-inactive' => '{{ns:project}}:സജീവരല്ലാത്ത ഉപയോക്താക്കൾ',
 	'shared-repo-name-shared' => 'വിക്കിമീഡിയ കോമൺസ്',
-	'wikimedia-copyright' => 'വിവരങ്ങൾ <a href="//creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നൽകുക)</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ml">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
-	'wikidata-copyright' => 'പ്രധാന, ഗുണഗണ നാമമേഖലകളിലെ എല്ലാ ക്രമപ്പെടുത്തിയ വിവരങ്ങളും <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">ക്രിയേറ്റീവ് കോമൺസ് സി.സി.0 അനുവാദപത്രം</a> പ്രകാരം ലഭ്യമായിരിക്കും;
-മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
+	'wikimedia-copyright' => 'വിവരങ്ങൾ <a href="https://creativecommons.org/licenses/by-sa/3.0/">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നൽകുക)</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ml">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
+	'wikidata-copyright' => 'പ്രധാന, ഗുണഗണ നാമമേഖലകളിലെ എല്ലാ ക്രമപ്പെടുത്തിയ വിവരങ്ങളും <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">ക്രിയേറ്റീവ് കോമൺസ് സി.സി.0 അനുവാദപത്രം</a> പ്രകാരം ലഭ്യമായിരിക്കും;
+മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
 അധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.
-കൂടുതൽ വിവരങ്ങൾക്ക് <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
+കൂടുതൽ വിവരങ്ങൾക്ക് <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
 	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.', # Fuzzy
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [//wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [//creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [//ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്കോ യൂ.ആർ.എല്ലോ മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [https://wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്കോ യൂ.ആർ.എല്ലോ മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
 	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
 	'upload-more-photos-of-this-monument' => 'ഈ സ്മാരകത്തിന്റെ കൂടുതൽ ചിത്രങ്ങൾ അപ്‌ലോഡ് ചെയ്യുക',
@@ -9805,7 +9910,7 @@ $messages['mr'] = array(
  * @author Amdf
  */
 $messages['mrj'] = array(
-	'wikimedia-copyright' => 'Текст <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензи</a> семӹнь анжыкталтеш, кӓнгӓш моло келеш гӹнь, вес условивлӓ шотыш нӓлмӹ лит. Шукыракым пӓлен нӓлӓш <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">«Кычылтмы условивлӓм»</a> анжалда.',
+	'wikimedia-copyright' => 'Текст <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензи</a> семӹнь анжыкталтеш, кӓнгӓш моло келеш гӹнь, вес условивлӓ шотыш нӓлмӹ лит. Шукыракым пӓлен нӓлӓш <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">«Кычылтмы условивлӓм»</a> анжалда.',
 );
 
 /** Malay (Bahasa Melayu)
@@ -9954,13 +10059,13 @@ $messages['ms'] = array(
 	'group-inactive-member' => '{{GENDER:$1|pengguna tak aktif}}',
 	'grouppage-inactive' => '{{ns:project}}:Pengguna tak aktif',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Teks disediakan dengan <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ms">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma-terma tambahan mungkin terpakai. Lihat <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terma-Terma Penggunaan</a> untuk butiran lanjut.',
-	'wikidata-copyright' => 'Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Lesen Creative Commons CC0</a>;
-maklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Lesen Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Teks disediakan dengan <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ms">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma-terma tambahan mungkin terpakai. Lihat <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terma-Terma Penggunaan</a> untuk butiran lanjut.',
+	'wikidata-copyright' => 'Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Lesen Creative Commons CC0</a>;
+maklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Lesen Creative Commons Attribution/Share-Alike</a>;
 tertakluk pada sebarang syarat tambahan.
-Rujuk <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.',
-	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "{{int:wikibase-save}}", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_Use syarat penggunaan] dan sudi melepaskan sumbangan anda di bawah [//creativecommons.org/publicdomain/zero/1.0/ CC0 license] tanpa boleh ditarik balik.',
-	'wikimedia-copyrightwarning' => 'Dengan mengklik butang "{{int:savearticle}}", anda mempersetujui [//wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [//creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [//www.gnu.org/copyleft/fdl.html GFDL].
+Rujuk <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.',
+	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "{{int:wikibase-save}}", anda bersetuju dengan [https://wikimediafoundation.org/wiki/Terms_of_Use syarat penggunaan] dan sudi melepaskan sumbangan anda di bawah [https://creativecommons.org/publicdomain/zero/1.0/ CC0 license] tanpa boleh ditarik balik.',
+	'wikimedia-copyrightwarning' => 'Dengan mengklik butang "{{int:savearticle}}", anda mempersetujui [https://wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [https://creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [https://www.gnu.org/copyleft/fdl.html GFDL].
 Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah lesen Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Halaman Wikivoyage yang berpaut dengan perkara ini',
 	'cant-delete-main-page' => 'Anda tidak boleh memadamkan atau memindahkan laman utama.',
@@ -10063,10 +10168,10 @@ $messages['mt'] = array(
 	'group-inactive' => 'utenti inattivi',
 	'group-inactive-member' => '{{GENDER:$1|utent inattiv|utenta inattiva}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
-	'wikimedia-copyright' => 'It-test huwa disponibbli taħt il-<a href="//creativecommons.org/licenses/by-sa/3.0/">Liċenzja Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'It-test huwa disponibbli taħt il-<a href="https://creativecommons.org/licenses/by-sa/3.0/">Liċenzja Creative Commons Attribution/Share-Alike</a>;
 termini addizjonali jistgħu japplikaw.
-Ara t-<a href="//wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a> għal aktar dettalji.',
-	'wikimedia-copyrightwarning' => 'Billi tiklikkja fuq il-buttuna "{{int:savearticle}}", int taqbel mat-[//wikimediafoundation.org/wiki/Terms_of_Use termini ta\' użu], u rrevokabilment taqbel li tħalli l-kontribuzzjoni tiegħek taħt il-liċenzja [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u l-[//www.gnu.org/copyleft/fdl.html GFDL].
+Ara t-<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">termini ta\' użu</a> għal aktar dettalji.',
+	'wikimedia-copyrightwarning' => 'Billi tiklikkja fuq il-buttuna "{{int:savearticle}}", int taqbel mat-[https://wikimediafoundation.org/wiki/Terms_of_Use termini ta\' użu], u rrevokabilment taqbel li tħalli l-kontribuzzjoni tiegħek taħt il-liċenzja [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] u l-[https://www.gnu.org/copyleft/fdl.html GFDL].
 Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta\' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi abbażi tal-liċenzja Creative Commons.',
 	'cant-delete-main-page' => 'Ma tistax tħassar jew tmexxi l-paġna prinċipali.',
 	'wikimedia-translationnotifications-signup-legal' => "Inti taqbel li billi tipprovid din l-informazzjoni lill-Fondazzjoni Wikimedia aħna nistgħu nikkuntatjawk rigward traduzzjonijiet jew suġġetti oħra relatati mal-moviment tal-Wikimedia li naħsbu li jistgħu jinteressawk. Inti taqbel li d-dejta tiegħek tista' tiġi miżmuma fl-Istati Uniti tal-Amerika u hi suġġetta għall-[https://wikimediafoundation.org/wiki/Privacy_policy politika tal-privatezza] tagħna.",
@@ -10081,9 +10186,9 @@ Inti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta\' ħolq
 $messages['mwl'] = array(
 	'sitesupport' => 'Donaçones',
 	'tooltip-n-sitesupport' => 'Ajuda-mos',
-	'wikimedia-copyright' => 'Este testo ye çponeblizado ne ls termos de la lhicença <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Este testo ye çponeblizado ne ls termos de la lhicença <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 puode star sujeito a cundiçones adecionales.
-Consulta las <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Cundiçones de Uso</a> pa mais detailhes.',
+Consulta las <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Cundiçones de Uso</a> pa mais detailhes.',
 );
 
 /** Behase Mentawei (Behase Mentawei)
@@ -10233,7 +10338,7 @@ $messages['nb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redaktører av beskyttede sider',
 	'group-eliminator' => 'Eliminatorer',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
 	'group-filemover' => 'Filflyttere',
 	'group-filemover-member' => '{{GENDER:$1|filflytter}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
@@ -10267,6 +10372,9 @@ $messages['nb'] = array(
 	'group-trusted' => 'Betrodde brukere',
 	'group-trusted-member' => '{{GENDER:$1|betrodd bruker}}',
 	'grouppage-trusted' => '{{ns:project}}: Betrodde brukere',
+	'group-uploader' => 'Opplastere',
+	'group-uploader-member' => 'opplaster', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Opplastere',
 	'group-Global_bot' => 'Globale roboter',
 	'group-Global_bot-member' => '{{GENDER:$1|global robot}}',
 	'group-Global_rollback' => 'Globale tilbakestillere',
@@ -10293,8 +10401,8 @@ $messages['nb'] = array(
 	'group-inactive' => 'Inaktive brukere',
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
-	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
-	'wikimedia-copyrightwarning' => 'Ved å trykke på «{{int:savearticle}}»-knappen, aksepterer du [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [//creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
+	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
+	'wikimedia-copyrightwarning' => 'Ved å trykke på «{{int:savearticle}}»-knappen, aksepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte hovedsiden.',
 	'createacct-helpusername-url' => '{{ns:Help}}:Logge_inn#Brukernavn', # Fuzzy
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velge)]]',
@@ -10394,6 +10502,9 @@ $messages['nds-nl'] = array(
 	'group-transwiki' => 'transwiki-invoerders',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-invoerder}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-invoerders',
+	'group-uploader' => 'bestanstoevoegers',
+	'group-uploader-member' => 'bestanstoevoeger', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Bestanstoevoegers',
 	'group-Global_bot' => 'globale bots',
 	'group-Global_bot-member' => '{{GENDER:$1|globale bot}}',
 	'group-Global_rollback' => 'globale weerummedreiers',
@@ -10413,10 +10524,10 @@ $messages['nds-nl'] = array(
 	'group-inactive' => 'inaktieve gebrukers',
 	'group-inactive-member' => '{{GENDER:$1|inaktieve gebruker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktieve gebrukers',
-	'wikimedia-copyright' => 'De tekste is beschikbaor onder de lisensie <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>.
+	'wikimedia-copyright' => 'De tekste is beschikbaor onder de lisensie <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamvermelding/Gelieke delen</a>.
 t Kan ween dat nog meer veurweerden van toepassing bin.
-Bekiek de <a href="//wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
-	'wikimedia-copyrightwarning' => 'Deur op de knoppe "{{int:savearticle}}" te klikken, stem je in mit de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [//www.gnu.org/copyleft/fdl.html GFDL].
+Bekiek de <a href="https://wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
+	'wikimedia-copyrightwarning' => 'Deur op de knoppe "{{int:savearticle}}" te klikken, stem je in mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [https://www.gnu.org/copyleft/fdl.html GFDL].
 Je stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon.',
 	'createacct-imgcaptcha-help' => "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebruker an]]",
 );
@@ -10610,15 +10721,15 @@ $messages['nl'] = array(
 	'group-inactive' => 'inactieve gebruikers',
 	'group-inactive-member' => '{{GENDER:$1|inactieve gebruiker}}',
 	'grouppage-inactive' => '{{ns:project}}:Inactieve gebruikers',
-	'wikimedia-copyright' => 'De tekst is beschikbaar onder de licentie <a href="//creativecommons.org/licenses/by-sa/3.0/deed.nl">Creative Commons Naamsvermelding-Gelijk delen</a>.
+	'wikimedia-copyright' => 'De tekst is beschikbaar onder de licentie <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.nl">Creative Commons Naamsvermelding-Gelijk delen</a>.
 Er kunnen aanvullende voorwaarden van toepassing zijn.
-Zie de <a href="//wikimediafoundation.org/wiki/Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor meer informatie.',
-	'wikidata-copyright' => 'Alle gestructureerde gegevens uit de hoofdnaamruimte en de naamruimte Eigenschap zijn beschikbaar onder de <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definitie van de licentie Creative Commons CC0">licentie Creative Commons CC0</a>;
-tekst in de andere naamruimten is beschikbaar onder de <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definitie van de licentie Creative Commons Attribution/Share-Alike">licentie Creative Commons Attribution/Share-Alike</a>;
+Zie de <a href="https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor meer informatie.',
+	'wikidata-copyright' => 'Alle gestructureerde gegevens uit de hoofdnaamruimte en de naamruimte Eigenschap zijn beschikbaar onder de <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definitie van de licentie Creative Commons CC0">licentie Creative Commons CC0</a>;
+tekst in de andere naamruimten is beschikbaar onder de <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definitie van de licentie Creative Commons Attribution/Share-Alike">licentie Creative Commons Attribution/Share-Alike</a>;
 er kunnen extra voorwaarden van toepassing zijn.
-Zie <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor details.',
-	'wikidata-shortcopyrightwarning' => 'Door te klikken op "{{int:wikibase-save}}", gaat u akkoord met de [//wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden], en gaat u onomkeerbaar akkoord met het vrijgeven van uw bijdrage onder de licentie [//creativecommons.org/publicdomain/zero/1.0/ CC0].',
-	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [//nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
+Zie <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor details.',
+	'wikidata-shortcopyrightwarning' => 'Door te klikken op "{{int:wikibase-save}}", gaat u akkoord met de [https://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden], en gaat u onomkeerbaar akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
+	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'wikibase-sitelinks-wikivoyage' => "Pagina's op Wikivoyage die gekoppeld zijn aan dit item",
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
@@ -10636,7 +10747,7 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
  * @author Siebrand
  */
 $messages['nl-informal'] = array(
-	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, ga je akkoord met de [//wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en ga je onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [//nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
+	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, ga je akkoord met de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en ga je onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 Je gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'cant-delete-main-page' => 'Je kunt de hoofdpagina niet verwijderen of hernoemen.',
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geef je ons toestemming om contact met je op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze je interesse hebben. Je stemt in met het opslaan van je gegevens in de Verenigde Staten van Amerika en dat je gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
@@ -10748,12 +10859,12 @@ $messages['nn'] = array(
 	'group-inactive' => 'Ikkje-aktive brukarar',
 	'group-inactive-member' => '{{GENDER:$1|ikkje-aktiv brukar}}',
 	'grouppage-inactive' => '{{ns:project}}:Ikkje-aktive brukarar',
-	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
-Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
-	'wikidata-copyright' => 'Alle strukturerte data frå hovud- og eigenskapsnamneromma er tilgjengelege under <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definisjonen av Creative Commons CC0-lisensen">Creative Commons CC0-lisensen</a>; tekst i dei andre namneromma er tilgjengeleg under <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definisjonen av Creative Commons Namngjeving/Del på same vilkåra-lisensen">Creative Commons Namngjeving/Del på same vilkåra-lisensen</a>; fleire vilkår kan gjelda.
-Sjå <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Bruksvilkåra til Wikimedia Foundation">Bruksvilkåra</a> for meir.',
-	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «{{int:wikibase-save}}» samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [//creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
-	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Tekst er tilgjengeleg under <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Namngjeving/Del på same vilkåra</a>; ytterlegare vilkår kan gjelda.
+Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
+	'wikidata-copyright' => 'Alle strukturerte data frå hovud- og eigenskapsnamneromma er tilgjengelege under <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definisjonen av Creative Commons CC0-lisensen">Creative Commons CC0-lisensen</a>; tekst i dei andre namneromma er tilgjengeleg under <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definisjonen av Creative Commons Namngjeving/Del på same vilkåra-lisensen">Creative Commons Namngjeving/Del på same vilkåra-lisensen</a>; fleire vilkår kan gjelda.
+Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Bruksvilkåra til Wikimedia Foundation">Bruksvilkåra</a> for meir.',
+	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «{{int:wikibase-save}}» samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
+	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til datasettet',
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
@@ -10845,6 +10956,9 @@ $messages['oc'] = array(
 	'group-trusted' => 'Utilizaires de fisança',
 	'group-trusted-member' => 'utilizaire de fisança', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Utilizaire de fisança',
+	'group-uploader' => 'Telecargaires',
+	'group-uploader-member' => 'Telecargaire', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Telecargaires',
 	'group-Global_bot' => 'Bòts globals',
 	'group-Global_bot-member' => 'Bòt global', # Fuzzy
 	'group-Global_rollback' => 'Revocaires globals',
@@ -10866,8 +10980,8 @@ $messages['oc'] = array(
 	'group-inactive' => 'Utilizaires inactius',
 	'group-inactive-member' => 'Utilizaire inactiu', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}: Utilizaires inactius',
-	'wikimedia-copyright' => 'Los tèxtes son disponibles jos <a href="//creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons atribucion pertatge a l’identica</a> ; d’autres tèrmes se pòdon aplicar. Vejatz los <a href="//wikimediafoundation.org/wiki/Terms_of_Use">tèrmes d’utilizacion</a> per mai de detalhs.',
-	'wikimedia-copyrightwarning' => 'En clicant sus « publicar », acceptatz de plaçar irrevocablament vòstra contribucion jos [//creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons atribucion pertatge a l’identica 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Acceptatz d’èsser creditat al minimum via un iperligam o URL cap a l’article sul qual contribuissètz. Vejatz los [//wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion] per mai de detalhs.', # Fuzzy
+	'wikimedia-copyright' => 'Los tèxtes son disponibles jos <a href="https://creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons atribucion pertatge a l’identica</a> ; d’autres tèrmes se pòdon aplicar. Vejatz los <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">tèrmes d’utilizacion</a> per mai de detalhs.',
+	'wikimedia-copyrightwarning' => 'En clicant sus « publicar », acceptatz de plaçar irrevocablament vòstra contribucion jos [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons atribucion pertatge a l’identica 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Acceptatz d’èsser creditat al minimum via un iperligam o URL cap a l’article sul qual contribuissètz. Vejatz los [https://wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion] per mai de detalhs.', # Fuzzy
 );
 
 /** Oriya (ଓଡ଼ିଆ)
@@ -10929,7 +11043,7 @@ $messages['or'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:କିଳାଯାଇଥିବା ପୃଷ୍ଠା ସମ୍ପାଦକଗଣ',
 	'group-eliminator' => 'ଚୟନକାରୀ',
 	'group-eliminator-member' => '{{GENDER:$1|ଚୟନକାରୀ}}',
-	'grouppage-eliminator' => '{{ns:project}}:ଚୟନକାର',
+	'grouppage-eliminator' => '{{ns:project}}:ଚୟନକାର', # Fuzzy
 	'group-filemover' => 'ଫାଇଲ ଘୁଞ୍ଚାଇବା ଲୋକ',
 	'group-filemover-member' => '{{GENDER:$1|ଫାଇଲ ଘୁଞ୍ଚାଇବା ଲୋକ}}',
 	'grouppage-filemover' => '{{ns:project}}:ଘୁଞ୍ଚାଇବା ଲୋକେ',
@@ -10999,14 +11113,14 @@ $messages['or'] = array(
 	'group-inactive' => 'ଅଚଳ ସଭ୍ୟଗଣ',
 	'group-inactive-member' => '{{GENDER:$1|ଅଚଳ ସଭ୍ୟ}}',
 	'grouppage-inactive' => '{{ns:project}}:ଅଚଳ ସଦସ୍ୟଗଣ',
-	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="//creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
+	'wikimedia-copyright' => 'ଏହି ଲେଖା <a href="https://creativecommons.org/licenses/by-sa/3.0/"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;
 ଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।
-ଅଧିକ ଜାଣିବା ପାଇଁ <a href="//wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
-	'wikidata-copyright' => 'ମୁଖ୍ୟ ଏବଂ ସତ୍ଵାଧିକାର ଥିବା ନେମସ୍ପେସରୁ ଆସିଥିବା ସମସ୍ତ ମିଳିତ ତଥ୍ୟ <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a> ଅନ୍ତର୍ଗତ ଅଛି;
-ଅନ୍ୟ ନେମସ୍ପେସରେ ଥିବା ଲେଖାଗୁଡ଼ିକ <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a> ଅଧୀନରେ ଅଛି;
+ଅଧିକ ଜାଣିବା ପାଇଁ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।',
+	'wikidata-copyright' => 'ମୁଖ୍ୟ ଏବଂ ସତ୍ଵାଧିକାର ଥିବା ନେମସ୍ପେସରୁ ଆସିଥିବା ସମସ୍ତ ମିଳିତ ତଥ୍ୟ <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a> ଅନ୍ତର୍ଗତ ଅଛି;
+ଅନ୍ୟ ନେମସ୍ପେସରେ ଥିବା ଲେଖାଗୁଡ଼ିକ <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a> ଅଧୀନରେ ଅଛି;
 ଅଧିକ ସର୍ତାବଳୀ ଲାଗୁହୋଇପାରେ ।
-ଅଧିକ ବିବରଣୀ ପାଇଁ <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> ଦେଖନ୍ତୁ ।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" ବୋତାମ ଚିପିବା ପରେ, ଆପଣ [//wikimediafoundation.org/wiki/Terms_of_Use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ଆପଣ ସିଧାସଳଖ ଆପଣା ଅବଦାନ [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ୩.୦ ଲାଇସେନ୍ସ]ଓ [//www.gnu.org/copyleft/fdl.html GFDL]ରେ ଦାନ କଲେ ।
+ଅଧିକ ବିବରଣୀ ପାଇଁ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> ଦେଖନ୍ତୁ ।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" ବୋତାମ ଚିପିବା ପରେ, ଆପଣ [https://wikimediafoundation.org/wiki/Terms_of_Use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ଆପଣ ସିଧାସଳଖ ଆପଣା ଅବଦାନ [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA ୩.୦ ଲାଇସେନ୍ସ]ଓ [https://www.gnu.org/copyleft/fdl.html GFDL]ରେ ଦାନ କଲେ ।
 ଆପଣ ଏକ ହାଇପରଲିଙ୍କ ବା URL କ୍ରିଏଟିଭ କମନ୍ସ ଲାଇସେନ୍ସ ଅଧିନରେ ଦାନ କରିବାକୁ ରାଜି ହେଲେ ।',
 	'cant-delete-main-page' => 'ଆପଣ ପ୍ରଧାନ ପୃଷ୍ଠାଟିକୁ ଲିଭାଇ ବା ଘୁଞ୍ଚାଇ ପାରିବେ ନାହିଁ ।',
 	'wikimedia-translationnotifications-signup-legal' => 'ଉଇକିମେଡିଆ ସଙ୍ଗଠନକୁ ଏହି ତଥ୍ୟ ପ୍ରଦାନକରି ଆପଣ ଏଥିରେ ସହମତ ଯେ ଆମେ ଆପଣଙ୍କୁ ଅନୁବାଦ କିମ୍ବା ଅନ୍ୟାନ୍ୟ ଉଇକିମେଡିଆ ଗତିବିଧି ପାଇଁ ଯୋଗାଯୋଗ କରିପାରୁ, ଆମେ ଭାବୁଛୁ ଆପଣଙ୍କୁ ଭଲ ଲାଗିବ । ଆପଣ ଏଥିରେ ମଧ୍ୟ ସହମତ ଯେ ଆପଣଙ୍କ ତଥ୍ୟ ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକାରେ ସାଇତା ହୋଇ ରହିବ ଏବଂ [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy] ସହ ବିଷୟ ଭୁକ୍ତ ହେବ ।',
@@ -11025,10 +11139,10 @@ $messages['os'] = array(
 	'group-founder-member' => 'бындурæвæрæг', # Fuzzy
 	'grouppage-founder' => '{{ns:project}}:Бындурæвæрджытæ',
 	'shared-repo-name-shared' => 'Викикъæбиц',
-	'wikimedia-copyright' => 'Текстæй ис гæнæн спайда кæнын <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензимæ</a> гæсгæ;
+	'wikimedia-copyright' => 'Текстæй ис гæнæн спайда кæнын <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike лицензимæ</a> гæсгæ;
 гæнæн ис, æндæр домæнтæ дæр æм ис.
-Кæс <a href="//wikimediafoundation.org/wiki/Terms_of_use">пайда кæныны домæнтæ</a> фылдæр базонынæн.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" равзаргæйæ ды разы кæныс [//wikimediafoundation.org/wiki/Terms_of_Use пайда кæныны домæнтимæ], æмæ ма [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] æмæ [//www.gnu.org/copyleft/fdl.html GFDL] лицензиты бын æнæраздæхгæ публикацийыл. Ды разы кæныс æрвитæн кæнæ URL æгъгъæд атрибуци кæй сты, ууыл.',
+Кæс <a href="https://wikimediafoundation.org/wiki/Terms_of_use">пайда кæныны домæнтæ</a> фылдæр базонынæн.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" равзаргæйæ ды разы кæныс [https://wikimediafoundation.org/wiki/Terms_of_Use пайда кæныны домæнтимæ], æмæ ма [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] æмæ [https://www.gnu.org/copyleft/fdl.html GFDL] лицензиты бын æнæраздæхгæ публикацийыл. Ды разы кæныс æрвитæн кæнæ URL æгъгъæд атрибуци кæй сты, ууыл.',
 	'cant-delete-main-page' => 'Дæ бон нæу сæйраг фарс схафын æви ахæссын.',
 );
 
@@ -11055,9 +11169,9 @@ $messages['pam'] = array(
 	'tooltip-n-sitesupport' => 'Saupan yu kami',
 	'nstab-creator' => '↓Talalalang',
 	'group-accountcreator' => '↓Talalalang account',
-	'wikimedia-copyrightwarning' => "Nung mag-save ka, mamayun kang itabili me at e mu ne bawian ing kekang ambag king lalam ning [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ampo ning [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => "Nung mag-save ka, mamayun kang itabili me at e mu ne bawian ing kekang ambag king lalam ning [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ampo ning [https://www.gnu.org/copyleft/fdl.html GFDL].
 Mamayun kang kilalanan da ka deng talagamit a gagamit pasibayu kaniti (''re-users''), king paralan a e kulang king pamangabit hyperlink o URL king bulung nung nu ka manambag.
-Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.", # Fuzzy
+Lon me ing [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para kareng detalle.", # Fuzzy
 );
 
 /** Picard (Picard)
@@ -11066,8 +11180,8 @@ Lon me ing [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] para karen
 $messages['pcd'] = array(
 	'sitesupport' => 'Fouaire un présint',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Chés teskes sont disponibes dsous <a href="//creativecommons.org/licenses/by-sa/3.0/deed.fr">licince Creative Commons patérnité – partage à l’idintique des condicions iniciales</a> ; d’eutes condicions peu\'te s’applitcher.
-Vir chés <a href="//wikimediafoundation.org/wiki/Conditions_d\'utilisation">condicions d’utilisacion</a> pour avoèr pus éd détails.',
+	'wikimedia-copyright' => 'Chés teskes sont disponibes dsous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licince Creative Commons patérnité – partage à l’idintique des condicions iniciales</a> ; d’eutes condicions peu\'te s’applitcher.
+Vir chés <a href="https://wikimediafoundation.org/wiki/Conditions_d\'utilisation">condicions d’utilisacion</a> pour avoèr pus éd détails.',
 );
 
 /** Deitsch (Deitsch)
@@ -11185,7 +11299,7 @@ $messages['pl'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redaktorzy zabezpieczonych stron',
 	'group-eliminator' => 'Sprzątacze',
 	'group-eliminator-member' => '{{GENDER:$1|sprzątacz|sprzątaczka}}',
-	'grouppage-eliminator' => '{{ns:project}}:Sprzątacz',
+	'grouppage-eliminator' => '{{ns:project}}:Sprzątacz', # Fuzzy
 	'group-filemover' => 'Przenoszący pliki',
 	'group-filemover-member' => '{{GENDER:$1|przenoszący|przenosząca}} pliki',
 	'grouppage-filemover' => '{{ns:project}}:Przenoszący pliki',
@@ -11252,10 +11366,10 @@ $messages['pl'] = array(
 	'group-inactive' => 'Użytkownicy nieaktywni',
 	'group-inactive-member' => '{{GENDER:$1|użytkownik nieaktywny|użytkowniczka nieaktywna}}',
 	'grouppage-inactive' => '{{ns:project}}:Użytkownicy nieaktywni',
-	'wikimedia-copyright' => 'Tekst udostępniany na <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
-Zobacz szczegółowe informacje o <a href="//wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.',
-	'wikidata-shortcopyrightwarning' => 'Klikając "{{int:wikibase-save}}" zgadzasz się na [//wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] i nieodwołalnie zgadzasz się udostępniać swój wkład w ramach [//creativecommons.org/publicdomain/zero/1.0/ Licencji CC0].',
-	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [//wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
+	'wikimedia-copyright' => 'Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.',
+	'wikidata-shortcopyrightwarning' => 'Klikając "{{int:wikibase-save}}" zgadzasz się na [https://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] i nieodwołalnie zgadzasz się udostępniać swój wkład w ramach [https://creativecommons.org/publicdomain/zero/1.0/ Licencji CC0].',
+	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [https://wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
 	'wikibase-sitelinks-wikivoyage' => 'Strony Wikipodróży powiązane z tym elementem',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
@@ -11323,7 +11437,7 @@ $messages['pms'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editor ëd pàgine protegiùe',
 	'group-eliminator' => 'Scancelator',
 	'group-eliminator-member' => '{{GENDER:$1|scancelator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Scancelator',
+	'grouppage-eliminator' => '{{ns:project}}:Scancelator', # Fuzzy
 	'group-filemover' => "Tramudador d'archivi",
 	'group-filemover-member' => "{{GENDER:$1|tramudador d'archivi}}",
 	'grouppage-filemover' => "{{ns:project}}:Tramudador d'archivi",
@@ -11391,10 +11505,10 @@ $messages['pms'] = array(
 	'group-inactive' => 'Utent inativ',
 	'group-inactive-member' => '{{GENDER:$1|utent inativ}}',
 	'grouppage-inactive' => '{{ns:project}}:Utent inativ',
-	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 as peulo giontesse condission adissionaj.
-Varda <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
-	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [//wikimediafoundation.org/wiki/Terms_of_Use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [//www.gnu.org/copyleft/fdl.html GFDL].
+Varda <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
+	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [https://creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
 	'wikimedia-translationnotifications-signup-legal' => "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij dò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Privacy_policy régole ëd confidensialità].",
@@ -11446,7 +11560,7 @@ $messages['pnb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:بچاۓ صفیاں دے لکھاری',
 	'group-eliminator' => 'مٹان والے',
 	'group-eliminator-member' => '{{جنس:$1|مٹان والا}}',
-	'grouppage-eliminator' => '{{ns:project}}:مکان والا',
+	'grouppage-eliminator' => '{{ns:project}}:مکان والا', # Fuzzy
 	'group-filemover' => 'فائل لیبان والے',
 	'group-filemover-member' => '{{جنس:$1|فائل لجان والا}}',
 	'grouppage-filemover' => '{{ns:project}}:فائل پلٹن والے',
@@ -11503,12 +11617,12 @@ $messages['pnb'] = array(
 	'group-inactive' => 'نکمے ورتاوے',
 	'group-inactive-member' => '{{GENDER:$1|ویلا ورتن والا}}',
 	'grouppage-inactive' => '{{ns:project}}:ویلے ورتن آلے',
-	'wikimedia-copyright' => 'Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [//www.gnu.org/copyleft/fdl.html GFDL].
+See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
+	'wikimedia-copyrightwarning' => 'By saving, you agree to irrevocably release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [https://www.gnu.org/copyleft/fdl.html GFDL].
 You agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.
-See the [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.', # Fuzzy
+See the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.', # Fuzzy
 	'cant-delete-main-page' => 'تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او',
 );
 
@@ -11656,7 +11770,7 @@ $messages['pt'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editores de páginas protegidas',
 	'group-eliminator' => 'Eliminadores',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminador',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminador', # Fuzzy
 	'group-filemover' => 'Deslocadores de ficheiros',
 	'group-filemover-member' => '{{GENDER:$1|deslocador de ficheiros|deslocadora de ficheiros}}',
 	'grouppage-filemover' => '{{ns:project}}:Deslocadores de ficheiros',
@@ -11690,6 +11804,9 @@ $messages['pt'] = array(
 	'group-trusted' => 'Utilizadores de confiança',
 	'group-trusted-member' => '{{GENDER:$1|utilizador|utilizadora}} de confiança',
 	'grouppage-trusted' => '{{ns:project}}:Utilizadores de confiança',
+	'group-uploader' => 'Carregadores',
+	'group-uploader-member' => 'carregador', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Carregadores',
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_bot-member' => 'robô global',
 	'group-Global_rollback' => 'Reversores globais',
@@ -11717,10 +11834,10 @@ $messages['pt'] = array(
 	'group-inactive' => 'Utilizadores inativos',
 	'group-inactive-member' => '{{GENDER:$1|utilizador inativo|utilizadora inativa}}',
 	'grouppage-inactive' => '{{ns:project}}:Utilizadores inativos',
-	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
+	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
-Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
-	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", aceita as [//wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso] e concorda de forma irrevogável em publicar as suas contribuições com as licenças [//creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
+	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", aceita as [https://wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso] e concorda de forma irrevogável em publicar as suas contribuições com as licenças [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que um link ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
 );
@@ -11797,7 +11914,7 @@ $messages['pt-br'] = array(
 	'grouppage-editprotected' => '{{ns:project}}: Editor de páginas protegidas',
 	'group-eliminator' => 'Eliminadores',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminador',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminador', # Fuzzy
 	'group-filemover' => 'Manipuladores de arquivos',
 	'group-filemover-member' => '{{GENDER:$1|manipulador|manipuladora}} de arquivos',
 	'grouppage-filemover' => '{{ns:project}}:Manipuladores de arquivos',
@@ -11830,6 +11947,9 @@ $messages['pt-br'] = array(
 	'group-trusted' => 'Usuários confiáveis',
 	'group-trusted-member' => '{{GENDER:$1|usuário|usuária}} confiável',
 	'grouppage-trusted' => '{{ns:project}}:Usuários confiáveis',
+	'group-uploader' => 'Carregadores',
+	'group-uploader-member' => 'carregador', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Carregadores',
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_bot-member' => '{{GENDER:$1|robô global}}',
 	'group-Global_rollback' => 'Reversores globais',
@@ -11858,10 +11978,10 @@ $messages['pt-br'] = array(
 	'group-inactive' => 'Usuários inativos',
 	'group-inactive-member' => '{{GENDER:$1|usuário inativo|usuária inativa}}',
 	'grouppage-inactive' => '{{ns:project}}:Usuários inativos',
-	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pt_BR">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
+	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
-Para mais detalhes, consulte as <a href="//wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
-	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [//wikimediafoundation.org/wiki/Terms_of_Use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [//creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
+	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [https://wikimediafoundation.org/wiki/Terms_of_Use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nomes_de_usuário',
@@ -11923,7 +12043,7 @@ $messages['qu'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Amachasqa p'anqa llamk'apuqkuna",
 	'group-eliminator' => 'Qulluchiqkuna',
 	'group-eliminator-member' => '{{GENDER:$1|}}qulluchiq',
-	'grouppage-eliminator' => '{{ns:project}}:Qulluchiq',
+	'grouppage-eliminator' => '{{ns:project}}:Qulluchiq', # Fuzzy
 	'group-filemover' => 'Willañiqi astaqkuna',
 	'group-filemover-member' => '{{GENDER:$1|}}willañiqi astaq',
 	'grouppage-filemover' => '{{ns:project}}:Willañiqi astaqkuna',
@@ -11956,6 +12076,9 @@ $messages['qu'] = array(
 	'group-trusted' => 'Sunqullisqa ruraqkuna',
 	'group-trusted-member' => '{{GENDER:$1|}}sunqullisqa ruraq',
 	'grouppage-trusted' => '{{ns:project}}:Sunqullisqa ruraqkuna',
+	'group-uploader' => 'Churkuqkuna',
+	'group-uploader-member' => 'churkuq', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Churkuqkuna',
 	'group-Global_bot' => 'Sapsi rurana antachakuna',
 	'group-Global_bot-member' => '{{GENDER:$1|}}sapsi rurana antacha',
 	'group-Global_rollback' => 'Sapsi kutichiqkuna',
@@ -11980,10 +12103,10 @@ $messages['qu'] = array(
 	'group-inactive' => 'Puñuchkaq ruraqkuna',
 	'group-inactive-member' => '{{GENDER:$1|}}puñuchkaq ruraq',
 	'grouppage-inactive' => '{{ns:project}}:Puñuchkaq ruraqkuna',
-	'wikimedia-copyright' => 'Kay qillqataqa <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> nisqapi ch\'uyanchasqa saqillaykamam chaskinki;
+	'wikimedia-copyright' => 'Kay qillqataqa <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a> nisqapi ch\'uyanchasqa saqillaykamam chaskinki;
 yapasqa phatakunachá kanqaku.
-<a href="//wikimediafoundation.org/wiki/Terms_of_Use">Llamk\'apuypaq phatakuna</a> p\'anqapi qhaway astawan willasunaykipaq.',
-	'wikimedia-copyrightwarning' => "\"{{int:savearticle}}\" butunta ñit'ispaykiqa, [//wikimediafoundation.org/wiki/Terms_of_Use kuspay phatakuna] nisqaman arí ninkim. Llamk'asqaykikunata mana kutinalla [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] nisqa saqillayman, [//www.gnu.org/copyleft/fdl.html GFDL] nisqa saqillaymanpas saqimpunki.
+<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Llamk\'apuypaq phatakuna</a> p\'anqapi qhaway astawan willasunaykipaq.',
+	'wikimedia-copyrightwarning' => "\"{{int:savearticle}}\" butunta ñit'ispaykiqa, [https://wikimediafoundation.org/wiki/Terms_of_Use kuspay phatakuna] nisqaman arí ninkim. Llamk'asqaykikunata mana kutinalla [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] nisqa saqillayman, [https://www.gnu.org/copyleft/fdl.html GFDL] nisqa saqillaymanpas saqimpunki.
 Arí ninki musuq llamk'apuqkunap qillqasqaykimanta willaspan mast'arinanman, llikapi tiyaypura llamk'apusqayki p'anqaman t'inkimuqwan, chaytaq lliwmanta aswan pisi.",
 	'cant-delete-main-page' => "Qhapaq p'anqataqa manam qulluyta icha astayta atinkichu.",
 );
@@ -12084,7 +12207,7 @@ $messages['ro'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editori de pagini protejate',
 	'group-eliminator' => 'Eliminatori',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator|eliminatoare}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
 	'group-filemover' => 'Utilizatori care redenumesc fișiere',
 	'group-filemover-member' => '{{GENDER:$1|utilizator care redenumește fișiere|utilizatoare care redenumește fișiere}}',
 	'grouppage-filemover' => '{{ns:project}}:Utilizatori care redenumesc pagini',
@@ -12118,6 +12241,9 @@ $messages['ro'] = array(
 	'group-trusted' => 'Utilizatori de încredere',
 	'group-trusted-member' => '{{GENDER:$1|utilizator de încredere|utilizatoare de încredere}}',
 	'grouppage-trusted' => '{{ns:project}}: Utilizatori de încredere',
+	'group-uploader' => 'Încărcători',
+	'group-uploader-member' => 'încărcător', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Încărcători',
 	'group-Global_bot' => 'Roboți globali',
 	'group-Global_bot-member' => '{{GENDER:$1|robot global}}',
 	'group-Global_rollback' => 'Revocatori globali',
@@ -12142,11 +12268,11 @@ $messages['ro'] = array(
 	'group-inactive' => 'Utilizatori inactivi',
 	'group-inactive-member' => '{{GENDER:$1|utilizator inactiv|utilizatoare inactivă}}',
 	'grouppage-inactive' => '{{ns:project}}:Utilizatori inactivi',
-	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
+	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
 pot exista și clauze suplimentare.
-Vedeți detalii la <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a>.',
-	'wikidata-shortcopyrightwarning' => 'Apăsând „Salvare”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].',
-	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [//wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [//www.gnu.org/copyleft/fdl.html GFDL].
+Vedeți detalii la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a>.',
+	'wikidata-shortcopyrightwarning' => 'Apăsând „Salvare”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.',
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
@@ -12286,15 +12412,15 @@ $messages['roa-tara'] = array(
 	'group-inactive' => 'Utinde inattive',
 	'group-inactive-member' => '{{GENDER:$1|utende inattive}}',
 	'grouppage-inactive' => '{{ns:project}}:Utinde inattive',
-	'wikimedia-copyright' => "'U teste ète disponibbile sotte 'a <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">licenze ''Creative Commons Attribution/Condivide a 'u stesse mode</a>;
+	'wikimedia-copyright' => "'U teste ète disponibbile sotte 'a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licenze ''Creative Commons Attribution/Condivide a 'u stesse mode</a>;
 termine addizionale pò essere applicate.
-Vide <a href=\"//wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
-	'wikidata-copyright' => 'Tutte le date strutturate da \'u namespace prengepàle e probbietà sue jè disponibbile sotte a <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Licenze Creative Commons CC0</a>;
-teste jndr\'à otre namespace jè disponibbile sotte a <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Licenze de Creative Commons Attribution/Share-Alike</a>;
+Vide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use\">Termine de Utilizze</a> pe cchiù 'mbormaziune.",
+	'wikidata-copyright' => 'Tutte le date strutturate da \'u namespace prengepàle e probbietà sue jè disponibbile sotte a <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Licenze Creative Commons CC0</a>;
+teste jndr\'à otre namespace jè disponibbile sotte a <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Licenze de Creative Commons Attribution/Share-Alike</a>;
 termine addizionale ponne essere applicate.
-\'Ndruche <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">le Termine d\'ause</a> pe dettaglie.',
-	'wikidata-shortcopyrightwarning' => 'Cazzanne  "{{int:wikibase-save}}", tu accette le [//wikimediafoundation.org/wiki/Terms_of_Use termine d\'ause], e tu irrevocabbilmende accette de relascià \'u condrebbute tune sotte a [https://creativecommons.org/publicdomain/zero/1.0/ licenze CC0].',
-	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [//wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [//www.gnu.org/copyleft/fdl.html GFDL].
+\'Ndruche <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">le Termine d\'ause</a> pe dettaglie.',
+	'wikidata-shortcopyrightwarning' => 'Cazzanne  "{{int:wikibase-save}}", tu accette le [https://wikimediafoundation.org/wiki/Terms_of_Use termine d\'ause], e tu irrevocabbilmende accette de relascià \'u condrebbute tune sotte a [https://creativecommons.org/publicdomain/zero/1.0/ licenze CC0].',
+	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [https://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pàggene de Uicchivoyage collegate a sta vôsce',
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
@@ -12380,7 +12506,7 @@ $messages['ru'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Редакторы защищённых страниц',
 	'group-eliminator' => 'Удаляющие',
 	'group-eliminator-member' => '{{GENDER:$1|удаляющий|удаляющая}}',
-	'grouppage-eliminator' => '{{ns:project}}:Удаляющие',
+	'grouppage-eliminator' => '{{ns:project}}:Удаляющие', # Fuzzy
 	'group-filemover' => 'Переименовывающие файлы',
 	'group-filemover-member' => '{{GENDER:$1|переименовывающий файлы|переименовывающая файлы}}',
 	'grouppage-filemover' => '{{ns:project}}:Переименовывающие файлы',
@@ -12458,8 +12584,8 @@ $messages['ru'] = array(
 	'group-inactive-member' => '{{GENDER:$1|бездействующий участник|бездействующая участница}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
 	'shared-repo-name-shared' => 'Викисклада',
-	'wikimedia-copyright' => 'Текст доступен по <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">лицензии Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
-	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [//wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
+	'wikimedia-copyright' => 'Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">лицензии Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
+	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Страницы Викигида, связанные с этим элементом',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
@@ -12512,7 +12638,7 @@ $messages['rue'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Редакторы замкнутых сторінок',
 	'group-eliminator' => 'Елімінаторы',
 	'group-eliminator-member' => 'елімінатор', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Елімінатор',
+	'grouppage-eliminator' => '{{ns:project}}:Елімінатор', # Fuzzy
 	'group-filemover' => 'Переменовачі файлів',
 	'group-filemover-member' => 'переменовач файлів', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Переменовачі файлів',
@@ -12566,8 +12692,8 @@ $messages['rue'] = array(
 	'group-inactive' => 'Неактівны хоснователї',
 	'group-inactive-member' => 'неактівный хоснователь', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Неактівны хоснователї',
-	'wikimedia-copyright' => 'Текст є доступный під <a href="//creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href="//wikimediafoundation.org/wiki/Условія_схоснованя">Условія схоснованя</a>.',
-	'wikimedia-copyrightwarning' => 'Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [//creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[//www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[//wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].',
+	'wikimedia-copyright' => 'Текст є доступный під <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.rue">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href="https://wikimediafoundation.org/wiki/Условія_схоснованя">Условія схоснованя</a>.',
+	'wikimedia-copyrightwarning' => 'Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [https://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[https://wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].',
 );
 
 /** Aromanian (Armãneashce)
@@ -12650,7 +12776,7 @@ $messages['sa'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:सुरक्षितपृष्ठानां सम्पादकाः',
 	'group-eliminator' => 'वर्जकाः',
 	'group-eliminator-member' => '{{GENDER:$1|वर्जकः}}',
-	'grouppage-eliminator' => '{{ns:project}}:वर्जकः',
+	'grouppage-eliminator' => '{{ns:project}}:वर्जकः', # Fuzzy
 	'group-filemover' => 'सञ्चिकाचालकाः',
 	'group-filemover-member' => '{{GENDER:$1|सञ्चिकाचालकः}}',
 	'grouppage-filemover' => '{{ns:project}}:सञ्चिकाचालकाः',
@@ -12708,10 +12834,10 @@ $messages['sa'] = array(
 	'group-inactive' => 'निष्क्रीयसदस्याः',
 	'group-inactive-member' => '{{GENDER:$1|निष्क्रिययोजकः}}',
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीयसदस्याः',
-	'wikimedia-copyright' => 'पाठ्यांशः अत्र उपलभ्यते<a href="//creativecommons.org/licenses/by-sa/3.0/">सर्जनसामान्यलक्षणम्/Share-Alike License</a>;
+	'wikimedia-copyright' => 'पाठ्यांशः अत्र उपलभ्यते<a href="https://creativecommons.org/licenses/by-sa/3.0/">सर्जनसामान्यलक्षणम्/Share-Alike License</a>;
 अन्ये नियमाः आन्विताः भवेयुः ।
-दृश्यताम्<a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> अधिकविवरणाय ।',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" इत्यस्य पिञ्जस्य नोदनेन, इदं भवता अङ्गीक्रियते [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], अपि च अप्रत्यावर्त्यरूपेण भवतः योगदानस्य प्रकाशनाय अधोनिर्दिष्टनियमानुसारम् अङ्गीक्रियते [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] and the [//www.gnu.org/copyleft/fdl.html GFDL].
+दृश्यताम्<a href="https://wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> अधिकविवरणाय ।',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" इत्यस्य पिञ्जस्य नोदनेन, इदं भवता अङ्गीक्रियते [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], अपि च अप्रत्यावर्त्यरूपेण भवतः योगदानस्य प्रकाशनाय अधोनिर्दिष्टनियमानुसारम् अङ्गीक्रियते [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] and the [https://www.gnu.org/copyleft/fdl.html GFDL].
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
 	'cant-delete-main-page' => 'मुख्यपृष्ठस्य विलोपनं चालनं वा अशक्यम् ।',
 	'wikimedia-translationnotifications-signup-legal' => 'विकीमाध्यमसंस्थायै अस्य विवरणस्य अर्पणेन भवान् इदम् अङ्गीकरोति यत् विकिमाध्यमान्दोलनसम्बद्धानाम् अनुवादविषये अन्येषु भवतः आसक्तिकरेषु विषयेषु वयं भवतः सम्पर्कं कर्तुम् अर्हामः इति । भवान् अङ्गीकरोति यत् भवतः विवरणम् अमेरिकासंयुक्तसंस्थाने रक्षितुं शक्यं यच्च [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy] नियमेन आन्वितं भवति इति ।',
@@ -12763,7 +12889,7 @@ $messages['sah'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:көмүскэммит ыстатыйалар эрэдээктэрлэрэ',
 	'group-eliminator' => 'Сотооччулар',
 	'group-eliminator-member' => 'сотооччу', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Сотооччу',
+	'grouppage-eliminator' => '{{ns:project}}:Сотооччу', # Fuzzy
 	'group-filemover' => 'Билэ аатын уларытааччылар',
 	'group-filemover-member' => 'билэ аатын уларытааччы', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Билэ аатын уларытааччылар',
@@ -12796,6 +12922,9 @@ $messages['sah'] = array(
 	'group-trusted' => 'Итэҕэллээх кыттааччылар',
 	'group-trusted-member' => 'итэҕэтиилээх кыттааччы', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Итэҕэллээх кыттааччылар',
+	'group-uploader' => 'Киллэрээччилэр',
+	'group-uploader-member' => 'киллэрээччи', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Киллэрээччилэр',
 	'group-Global_bot' => 'Бырайыактар ыккардынааҕы руобаттар',
 	'group-Global_bot-member' => 'бырайыактар ыккардынааҕы руобаттар', # Fuzzy
 	'group-Global_rollback' => 'Бырайыактар ыккардынааҕы төннөрөөччүлэр',
@@ -12817,8 +12946,8 @@ $messages['sah'] = array(
 	'group-inactive' => 'Көҕө суох кыттааччылар',
 	'group-inactive-member' => '{{GENDER:$1|көҕө суох кыттааччы}}',
 	'grouppage-inactive' => '{{ns:project}}:Көҕө суох кыттааччылар',
-	'wikimedia-copyright' => 'Тиэкис <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензия усулуобуйатынан тарҕанар, сорох түбэлтэҕэ эбии көрдөбүллэр баар буолуохтарын сөп. Сиһилии <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Туттуу усулуобуйатын</a> көр.',
-	'wikimedia-copyrightwarning' => 'Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] уонна [//www.gnu.org/copyleft/fdl.html GFDL] лицензияларынан тарҕанарыгар сөбүлэҥҥин биэрэҕин, онтуҥ төннүбэт. Бу сирэйи атын дьон туһанар түгэннэригэр, эйиэхэ гипер сигэ эбэтэр URL көмөтүнэн сигэниэхтэрэ, ону кытта сөбүлэһэҕин. Сиһилии [//wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] көр.', # Fuzzy
+	'wikimedia-copyright' => 'Тиэкис <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензия усулуобуйатынан тарҕанар, сорох түбэлтэҕэ эбии көрдөбүллэр баар буолуохтарын сөп. Сиһилии <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Туттуу усулуобуйатын</a> көр.',
+	'wikimedia-copyrightwarning' => 'Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] уонна [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияларынан тарҕанарыгар сөбүлэҥҥин биэрэҕин, онтуҥ төннүбэт. Бу сирэйи атын дьон туһанар түгэннэригэр, эйиэхэ гипер сигэ эбэтэр URL көмөтүнэн сигэниэхтэрэ, ону кытта сөбүлэһэҕин. Сиһилии [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] көр.', # Fuzzy
 );
 
 /** Sardinian (sardu)
@@ -12829,9 +12958,9 @@ $messages['sc'] = array(
 	'sitesupport' => 'Donaduras',
 	'tooltip-n-sitesupport' => 'Acotza·nos',
 	'group-steward' => 'Stewards',
-	'wikimedia-copyright' => 'Su testu est disponìbile segundu sa <a href="//creativecommons.org/licenses/by-sa/3.0/">licèntzia Atributzione Creative Commons-Cundivide cantepare</a>; si podent aplicare prus cunditziones galu. Abbista is <a href="//wikimediafoundation.org/wiki/Terms_of_Use"> cunditziones de impreu</a> pro is particulares.',
-	'wikimedia-copyrightwarning' => 'Sarbende, acunsentis de non pòder prus retirare su contributu tuo lassadu de nou a suta is licèntzias [//creativecommons.org/licenses/by-sa/3.0/ Atributzione Creative Commons/Cundivide cantepare 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL].
-Acunsentis ca is re-usuàrios ti ddu ant a atribuire a su mancu cun unu ligàmine iper-testuale e unu URL a sa pàgina a sa cale as contribuidu. Abbista is [//wikimediafoundation.org/wiki/Terms_of_Use cunditziones de impreu] pro is particulares.',
+	'wikimedia-copyright' => 'Su testu est disponìbile segundu sa <a href="https://creativecommons.org/licenses/by-sa/3.0/">licèntzia Atributzione Creative Commons-Cundivide cantepare</a>; si podent aplicare prus cunditziones galu. Abbista is <a href="https://wikimediafoundation.org/wiki/Terms_of_Use"> cunditziones de impreu</a> pro is particulares.',
+	'wikimedia-copyrightwarning' => 'Sarbende, acunsentis de non pòder prus retirare su contributu tuo lassadu de nou a suta is licèntzias [https://creativecommons.org/licenses/by-sa/3.0/ Atributzione Creative Commons/Cundivide cantepare 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
+Acunsentis ca is re-usuàrios ti ddu ant a atribuire a su mancu cun unu ligàmine iper-testuale e unu URL a sa pàgina a sa cale as contribuidu. Abbista is [https://wikimediafoundation.org/wiki/Terms_of_Use cunditziones de impreu] pro is particulares.',
 );
 
 /** Sicilian (sicilianu)
@@ -12885,12 +13014,12 @@ $messages['scn'] = array(
 	'group-inactive' => 'Utenti inattivi',
 	'group-inactive-member' => 'utenti inattivu', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Utenti inattivi',
-	'wikimedia-copyright' => 'Lu testu è dispunibbili sutta la <a href="//creativecommons.org/licenses/by-sa/3.0/">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;
+	'wikimedia-copyright' => 'Lu testu è dispunibbili sutta la <a href="https://creativecommons.org/licenses/by-sa/3.0/">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;
 si pònnu applicàrisi àutri cunnizzioni.
-Talìa li <a href="//wikimediafoundation.org/wiki/Terms_of_Use">cunnizzioni di usu</a> pi li dittagli.',
-	'wikimedia-copyrightwarning' => "Sarvannu, siti d'accordu di rènniri dispunìbbili lu vostru cuntribbutu sutta la [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e la [//www.gnu.org/copyleft/fdl.html GFDL].
+Talìa li <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">cunnizzioni di usu</a> pi li dittagli.',
+	'wikimedia-copyrightwarning' => "Sarvannu, siti d'accordu di rènniri dispunìbbili lu vostru cuntribbutu sutta la [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Siti d'accordu puru ca àutri riutilizzatura b'accreditanu lu vostru travagghiu, cu lu liami o cu na URL â pàggina â quali stai cuntribbuennu.
-Talia lu [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sapìrinni cchiossai.", # Fuzzy
+Talia lu [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sapìrinni cchiossai.", # Fuzzy
 );
 
 /** Scots (Scots)
@@ -13027,7 +13156,7 @@ $messages['si'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:සුරැකි පිටු සංස්කාරක',
 	'group-eliminator' => 'ඉවත්කුරු',
 	'group-eliminator-member' => '{{GENDER:$1|ඉවත්කුරුව}}',
-	'grouppage-eliminator' => '{{ns:project}}:ඉවත්කුරුව',
+	'grouppage-eliminator' => '{{ns:project}}:ඉවත්කුරුව', # Fuzzy
 	'group-filemover' => 'ගොනු චාලකයින්',
 	'group-filemover-member' => '{{GENDER:$1|ගොනු චාලක}}',
 	'grouppage-filemover' => '{{ns:project}}:ගොනු චාලක',
@@ -13100,10 +13229,10 @@ $messages['si'] = array(
 	'group-inactive' => 'අක්‍රීය පරිශීලකයන්',
 	'group-inactive-member' => '{{GENDER:$1|අක්‍රීය පරිශීලක}}',
 	'grouppage-inactive' => '{{ns:project}}:අක්‍රීය පරිශීලකයන්',
-	'wikimedia-copyright' => '<a href="//creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;
+	'wikimedia-copyright' => '<a href="https://creativecommons.org/licenses/by-sa/3.0/"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;
 අමතර කොන්දේසි අදාළ විය හැක.
 විස්තර සඳහා <a href=\'//wikimediafoundation.org/wiki/Terms_of_Use\'>පරිහරණ කොන්දේසි</a> බලන්න.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [//wikimediafoundation.org/wiki/Terms_of_Use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [//www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" බොත්තම එබීමෙන්, [https://wikimediafoundation.org/wiki/Terms_of_Use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [https://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.
 මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
 	'upload-more-photos-of-this-monument' => 'මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න',
@@ -13214,8 +13343,8 @@ $messages['sk'] = array(
 	'group-inactive' => 'Neaktívni používatelia',
 	'group-inactive-member' => 'neaktívny používateľ', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Neaktívni používatelia',
-	'wikimedia-copyright' => 'Text je dostupný za podmienok <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.',
-	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [//www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [//wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].', # Fuzzy
+	'wikimedia-copyright' => 'Text je dostupný za podmienok <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Podmienky použitia</a>.',
+	'wikimedia-copyrightwarning' => 'Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [https://wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].', # Fuzzy
 	'createacct-helpusername-url' => '{{ns:Project}}:Používateľské_meno',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomôžte mi vybrať)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Potrebujem pomoc',
@@ -13339,9 +13468,9 @@ $messages['sl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|nedejaven uporabnik|nedejavna uporabnica}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni uporabniki',
 	'shared-repo-name-shared' => 'Wikimedijina Zbirka',
-	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="//creativecommons.org/licenses/by-sa/3.0/">licenco Creative Commons
-Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
-	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [//wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="https://creativecommons.org/licenses/by-sa/3.0/">licenco Creative Commons
+Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
+	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [https://wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 	'upload-more-photos-of-this-monument' => 'Naložite več fotografij spomenika',
@@ -13438,7 +13567,7 @@ $messages['sq'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redaktoruesit për faqeve të mbrojtura',
 	'group-eliminator' => 'Asgjesuesit',
 	'group-eliminator-member' => 'eliminues', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Eliminues',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminues', # Fuzzy
 	'group-filemover' => 'Zhvendosësit e skedave',
 	'group-filemover-member' => 'levizues e skedave', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Levizuesit e skedave',
@@ -13471,6 +13600,7 @@ $messages['sq'] = array(
 	'group-trusted' => 'Përdoruesit e besuar',
 	'group-trusted-member' => 'përdoruesi e besueshme', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Përdoruesit të besueshme',
+	'group-uploader-member' => 'ngarkues', # Fuzzy
 	'group-Global_bot' => 'Robotet global',
 	'group-Global_bot-member' => 'roboti globale', # Fuzzy
 	'group-Global_rollback' => 'Rikthejuës globale',
@@ -13492,9 +13622,9 @@ $messages['sq'] = array(
 	'group-inactive' => 'Përdorueset joaktiv',
 	'group-inactive-member' => 'Përdoruesi joaktiv', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Përdoruesit joaktiv',
-	'wikimedia-copyright' => 'Të gjitha materialet që gjenden në këtë faqë janë të mbrojtura nga <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>.
-Shikoni <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdorimit</a> për më shumë informacione.',
-	'wikimedia-copyrightwarning' => 'Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] dhe [//www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [//wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.', # Fuzzy
+	'wikimedia-copyright' => 'Të gjitha materialet që gjenden në këtë faqë janë të mbrojtura nga <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>.
+Shikoni <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Kushtet e Përdorimit</a> për më shumë informacione.',
+	'wikimedia-copyrightwarning' => 'Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] dhe [https://www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [https://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje.', # Fuzzy
 );
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
@@ -13627,13 +13757,13 @@ $messages['sr-ec'] = array(
 	'group-inactive-member' => '{{GENDER:$1|неактивни корисник|неактивна корисница|неактивни корисник}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактивни корисници',
 	'shared-repo-name-shared' => 'Викимедијина остава',
-	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
+	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
 додатни услови се могу применити.
-Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
-	'wikidata-copyright' => 'Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Услове коришћења</a> за више информација.',
+Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
+	'wikidata-copyright' => 'Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Услове коришћења</a> за више информација.',
 	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
-Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
+Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.', # Fuzzy
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 	'extdist-branch-REL1_21' => '1.21 (најновија стабилна верзија Медијавикија)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Кориснички_налог',
@@ -13699,7 +13829,7 @@ $messages['sr-el'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Urednici zaštićenih strana',
 	'group-eliminator' => 'Odstranjivači',
 	'group-eliminator-member' => '{{GENDER:$1|odstranjivač|odstranjivačica|odstranjivač}}',
-	'grouppage-eliminator' => '{{ns:project}}:Odstranjivač',
+	'grouppage-eliminator' => '{{ns:project}}:Odstranjivač', # Fuzzy
 	'group-filemover' => 'Premeštači fajlova',
 	'group-filemover-member' => '{{GENDER:$1|premeštač datoteka|premeštačica datoteka|premeštač datoteka}}',
 	'grouppage-filemover' => '{{ns:project}}:Premeštači fajlova',
@@ -13732,6 +13862,9 @@ $messages['sr-el'] = array(
 	'group-trusted' => 'Korsinici od poverenja',
 	'group-trusted-member' => '{{GENDER:$1|poverljivi korisnik|poverljiva korisnica|poverljivi korisnik}}',
 	'grouppage-trusted' => '{{ns:project}}:Korisnici od poverenja',
+	'group-uploader' => 'Pošiljaoci',
+	'group-uploader-member' => 'pošiljalac', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Pošiljaoci',
 	'group-Global_bot' => 'Globalni botovi',
 	'group-Global_bot-member' => '{{GENDER:$1|globalni bot}}',
 	'grouppage-Global_bot' => 'm:Global bot/sr',
@@ -13765,11 +13898,11 @@ $messages['sr-el'] = array(
 	'group-inactive-member' => '{{GENDER:$1|neaktivni korisnik|neaktivna korisnica|neaktivni korisnik}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni korisnici',
 	'shared-repo-name-shared' => 'Vikimedijina ostava',
-	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="//creativecommons.org/licenses/by-sa/3.0/">Krijejtiv komons Autorstvo-Deliti pod istim uslovima</a>;
+	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/">Krijejtiv komons Autorstvo-Deliti pod istim uslovima</a>;
 dodatni uslovi se mogu primeniti.
-Pogledajte <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
+Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
 	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
-Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
+Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.', # Fuzzy
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
 );
 
@@ -13837,6 +13970,9 @@ $messages['stq'] = array(
 	'group-trusted' => 'Fertjouenswöidige Benutsere',
 	'group-trusted-member' => 'Fertjouenswöidigen Benutser', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:Fertjouenswöidige Benutsere',
+	'group-uploader' => 'Hoochleedere',
+	'group-uploader-member' => 'Hoochleeder', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Hoochleedere',
 	'group-Global_bot' => 'Globoale Bots',
 	'group-Global_bot-member' => 'Globoalen Bot', # Fuzzy
 	'group-Global_rollback' => 'Globoale Touräächsättere',
@@ -13857,11 +13993,11 @@ $messages['stq'] = array(
 	'group-inactive' => 'Inaktive Benutsere',
 	'group-inactive-member' => 'Inaktiven Benutser', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Inaktive Benutsere',
-	'wikimedia-copyright' => 'Die Text is unner ju Lizenz <a href="//creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> ferföigboar; Bedingengen uurhoop konnen anweendboar weese.
-Eenpeldhaide sunt in do <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutsengsbedingengen</a> beschrieuwen.',
-	'wikimedia-copyrightwarning' => 'Mäd dät Spiekerjen lizenzierst du dien Beoarbaidenge sunner dät du dät touräächtraale koast unner ju [//creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] un ju [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Die Text is unner ju Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de">„Creative Commons Attribution/Share-Alike“</a> ferföigboar; Bedingengen uurhoop konnen anweendboar weese.
+Eenpeldhaide sunt in do <a href="https://wikimediafoundation.org/wiki/Nutzungsbedingungen">Nutsengsbedingengen</a> beschrieuwen.',
+	'wikimedia-copyrightwarning' => 'Mäd dät Spiekerjen lizenzierst du dien Beoarbaidenge sunner dät du dät touräächtraale koast unner ju [https://creativecommons.org/licenses/by-sa/3.0/deed.de „Creative Commons Attribution/Share-Alike“-Lizenz 3.0] un ju [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du stimst tou, dät ne Fääreferweendenge ap minste truch n Hyperlink of ne URL tou ju Siede, ju du beoarbaidest, geböäre duur.
-Eenpeldhaide sunt in do [//wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] beschrieuwen.', # Fuzzy
+Eenpeldhaide sunt in do [https://wikimediafoundation.org/wiki/Nutzungsbedingungen Nutsengsbedingengen] beschrieuwen.', # Fuzzy
 );
 
 /** Sundanese (Basa Sunda)
@@ -13980,7 +14116,7 @@ $messages['sv'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redigerare av skyddade sidor',
 	'group-eliminator' => 'Eliminatorer',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
 	'group-filemover' => 'Filflyttare',
 	'group-filemover-member' => '{{GENDER:$1|filflyttare}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttare',
@@ -14046,8 +14182,8 @@ $messages['sv'] = array(
 	'group-inactive' => 'Inaktiva användare',
 	'group-inactive-member' => '{{GENDER:$1|inaktiv användare}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
-	'wikimedia-copyright' => 'Text är tillgänglig under <a href="//creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
-	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [//wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [//creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Text är tillgänglig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
+	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
@@ -14101,11 +14237,11 @@ $messages['sw'] = array(
 	'group-inactive' => 'Watumiaji waliotulia',
 	'group-inactive-member' => 'mtumiaji aliyetulia', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Watumiaji waliotulia',
-	'wikimedia-copyright' => 'Maandishi yanapatikana chini ya leseni ya <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; matakwa mengine yanaweza kutakiwa.
-Tazama maelezo zaidi ya <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Matakwa ya Utumiaji</a>.',
-	'wikimedia-copyrightwarning' => 'Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] pamoja na [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Maandishi yanapatikana chini ya leseni ya <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; matakwa mengine yanaweza kutakiwa.
+Tazama maelezo zaidi ya <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Matakwa ya Utumiaji</a>.',
+	'wikimedia-copyrightwarning' => 'Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] pamoja na [https://www.gnu.org/copyleft/fdl.html GFDL].
 Unakubali utambuliwe wakati maandishi haya yatumika na wengine, angalau kwa nia ya kiungo (hyperlink) au URL kwenye ukurasa uliouchangia.
-Tazama maelezo zaidi ya [//wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji].', # Fuzzy
+Tazama maelezo zaidi ya [https://wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji].', # Fuzzy
 );
 
 /** Säggssch (Säggssch)
@@ -14147,6 +14283,9 @@ $messages['szl'] = array(
 	'group-transwiki' => 'Importery transwiki',
 	'group-transwiki-member' => 'importer transwiki', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Importery transwiki',
+	'group-uploader' => 'Wćepujůncy pliki',
+	'group-uploader-member' => 'wćepujůncy pliki', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Wćepujůncy pliki',
 	'group-Global_bot' => 'Boty globalne',
 	'group-Global_bot-member' => 'bot globalny', # Fuzzy
 	'group-Global_rollback' => 'Globalńy uprowńyńi do wycofywańo sprowjyń',
@@ -14159,9 +14298,9 @@ $messages['szl'] = array(
 	'group-sysadmin-member' => 'admińistrator systyma', # Fuzzy
 	'group-coder' => 'Programisty',
 	'group-coder-member' => 'programista', # Fuzzy
-	'wikimedia-copyright' => 'Tekst je udostympńany na <a href="//creativecommons.org/licenses/by-sa/3.0/deed.pl">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.
-Uobejzdrzij blank dokłodne informacyje uo <a href="//wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystańo</a>.',
-	'wikimedia-copyrightwarning' => 'Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [//www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [//wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystańo].', # Fuzzy
+	'wikimedia-copyright' => 'Tekst je udostympńany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.
+Uobejzdrzij blank dokłodne informacyje uo <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">warunkach korzystańo</a>.',
+	'wikimedia-copyrightwarning' => 'Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystańo].', # Fuzzy
 );
 
 /** Tamil (தமிழ்)
@@ -14277,11 +14416,11 @@ $messages['ta'] = array(
 	'group-inactive' => 'பங்களிக்காத பயனர்கள்',
 	'group-inactive-member' => '{{GENDER:$1|பங்களிக்காத பயனர்}}',
 	'grouppage-inactive' => '{{ns:project}}:பங்களிக்காத பயனர்கள்',
-	'wikimedia-copyrightwarning' => 'இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] மற்றும் [//www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.
+	'wikimedia-copyrightwarning' => 'இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] மற்றும் [https://www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.
 
 இந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள்.
 
-விவரங்களுக்கு, [//wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.',
+விவரங்களுக்கு, [https://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.',
 	'cant-delete-main-page' => 'முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது.',
 );
 
@@ -14340,7 +14479,7 @@ $messages['te'] = array(
 	'group-editprotected-member' => 'సంరక్షిత పుట కూర్పరి', # Fuzzy
 	'grouppage-editprotected' => '{{ns:project}}: రక్షించబడిన పేజి సంపాదకులు',
 	'group-eliminator' => 'నిర్మూలించేవారు',
-	'grouppage-eliminator' => '{{ns:project}}:నిర్మూలించేవారు',
+	'grouppage-eliminator' => '{{ns:project}}:నిర్మూలించేవారు', # Fuzzy
 	'group-filemover' => 'ఫైల్ జరుపువారు',
 	'group-filemover-member' => 'ఫైల్ జరుపువారు', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:ఫైల్ జరిపెటివారు',
@@ -14373,6 +14512,8 @@ $messages['te'] = array(
 	'group-trusted' => 'విశ్వసనీయ వాడుకరులు',
 	'group-trusted-member' => '{{GENDER:$1|విశ్వసనీయ వినియోగదారుడు}}',
 	'grouppage-trusted' => '{{ns:project}}:విశ్వసనీయ వాడుకరులు',
+	'group-uploader' => 'ఎగుమతిదార్లు',
+	'grouppage-uploader' => '{{ns:project}}:ఎగుమతిదార్లు',
 	'group-Global_bot' => 'సార్వత్రిక బాట్లు',
 	'group-Global_bot-member' => '{{GENDER:$1|విశ్వజనీన యంత్ర భాష}}',
 	'group-Global_rollback' => 'విశ్వ వెనకకి మళ్లింపుదారులు',
@@ -14397,14 +14538,14 @@ $messages['te'] = array(
 	'group-inactive' => 'అచేతన వాడుకరులు',
 	'group-inactive-member' => '{{GENDER:$1|అచేతన వాడుకరి}}',
 	'grouppage-inactive' => '{{ns:project}}:అచేతన వాడుకరులు',
-	'wikimedia-copyright' => 'పాఠ్యం <a href="//creativecommons.org/licenses/by-sa/3.0/">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు</a> క్రింద లభ్యం;
+	'wikimedia-copyright' => 'పాఠ్యం <a href="https://creativecommons.org/licenses/by-sa/3.0/">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు</a> క్రింద లభ్యం;
 అదనపు షరతులు వర్తించవచ్చు.
-మరిన్ని వివరాలకు <a href="//wikimediafoundation.org/wiki/Terms_of_Use">వాడుక నియమాల</a>ను చూడండి.',
-	'wikimedia-copyrightwarning' => 'దీన్ని భద్రపరచడం ద్వారా, మీ కృతిని [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] మరియు [//www.gnu.org/copyleft/fdl.html GFDL] లకు లోబడి విడుదల చేసేందుకు మీరు సమ్మతిస్తున్నారు. ఇది వెనక్కి తిరిగి తీసుకోలేని అనుమతి అని మీరు ఎరుగుదురు.
+మరిన్ని వివరాలకు <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">వాడుక నియమాల</a>ను చూడండి.',
+	'wikimedia-copyrightwarning' => 'దీన్ని భద్రపరచడం ద్వారా, మీ కృతిని [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] మరియు [https://www.gnu.org/copyleft/fdl.html GFDL] లకు లోబడి విడుదల చేసేందుకు మీరు సమ్మతిస్తున్నారు. ఇది వెనక్కి తిరిగి తీసుకోలేని అనుమతి అని మీరు ఎరుగుదురు.
 
 కనీస స్థాయిలో మీరు పనిచేస్తున్న పేజీకి లింకు లేదా URL ఇవ్వడం ద్వారా దీన్ని వాడుకునేవారు మీకు శ్రేయస్సు నాపాదిస్తారు. ఇందుకు మీరు సమ్మతిస్తున్నారు.
 
-వివరాల కోసం [//wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.', # Fuzzy
+వివరాల కోసం [https://wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.', # Fuzzy
 	'cant-delete-main-page' => 'మీరు ప్రధాన పేజీని కదిలించలేరు, తొలగించలేరు',
 );
 
@@ -14564,6 +14705,7 @@ $messages['th'] = array(
 	'group-trusted' => 'ผู้ใช้ที่เชื่อถือได้',
 	'group-trusted-member' => 'ผู้ใช้ที่เชื่อถือได้', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:ผู้ใช้ที่เชื่อถือได้',
+	'group-uploader-member' => 'ผู้อัปโหลด', # Fuzzy
 	'group-Ombudsmen' => 'ผู้ตรวจการ',
 	'group-Ombudsmen-member' => 'ผู้ตรวจการ', # Fuzzy
 	'group-Staff' => 'ผู้แปล',
@@ -14575,12 +14717,12 @@ $messages['th'] = array(
 	'group-inactive' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ',
 	'group-inactive-member' => 'ผู้ใช้ที่ใช้ไม่สม่ำเสมอ', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:ผู้ใช้ไม่ประจำ',
-	'wikimedia-copyright' => 'ตัวอักษรนี้อยู่ภายใต้<a href="//creativecommons.org/licenses/by-sa/3.0/">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>;
+	'wikimedia-copyright' => 'ตัวอักษรนี้อยู่ภายใต้<a href="https://creativecommons.org/licenses/by-sa/3.0/">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>;
 และอาจจะมีข้อเพิ่มเติมอื่นๆ
-กรุณาดู<a href="//wikimediafoundation.org/wiki/Terms_of_Use">สิทธิ์การใช้งาน</a>สำหรับรายละเอียดเพิ่มเติม',
-	'wikimedia-copyrightwarning' => 'เมื่อคุณบันทึก คุณยินยอมที่จะให้การเขียนของคุณอยู่ภายใต้[//creativecommons.org/licenses/by-sa/3.0/ สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0] และ [//www.gnu.org/copyleft/fdl.html GFDL] อย่างแก้คืนไม่ได้
+กรุณาดู<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">สิทธิ์การใช้งาน</a>สำหรับรายละเอียดเพิ่มเติม',
+	'wikimedia-copyrightwarning' => 'เมื่อคุณบันทึก คุณยินยอมที่จะให้การเขียนของคุณอยู่ภายใต้[https://creativecommons.org/licenses/by-sa/3.0/ สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0] และ [https://www.gnu.org/copyleft/fdl.html GFDL] อย่างแก้คืนไม่ได้
 คุณยินยอมที่จะได้รับเครดิตจากผู้ที่นำข้อมูลของคุณไปใช้ อย่างน้อยที่สุด ผ่านทางไฮเปอร์ลิงก์หรือยูอาร์แอลเชื่อมโยงมายังหน้าที่คุณได้มีส่วนเขียนนี้
-โปรดศึกษา[//wikimediafoundation.org/wiki/Terms_of_Use เงื่อนไขการใช้งาน]',
+โปรดศึกษา[https://wikimediafoundation.org/wiki/Terms_of_Use เงื่อนไขการใช้งาน]',
 );
 
 /** Turkmen (Türkmençe)
@@ -14625,7 +14767,7 @@ $messages['tk'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Goragly sahypa redaktorlary',
 	'group-eliminator' => 'Aýryjylar',
 	'group-eliminator-member' => 'aýryjy', # Fuzzy
-	'grouppage-eliminator' => '{{ns:project}}:Aýryjy',
+	'grouppage-eliminator' => '{{ns:project}}:Aýryjy', # Fuzzy
 	'group-filemover' => 'Faýl geçirijiler',
 	'group-filemover-member' => 'faýl geçiriji', # Fuzzy
 	'grouppage-filemover' => '{{ns:project}}:Faýl geçirijiler',
@@ -14679,8 +14821,8 @@ $messages['tk'] = array(
 	'group-inactive' => 'Işjeň däl ulanyjylar',
 	'group-inactive-member' => 'işjeň däl ulanyjy', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:Işjeň däl ulanyjylar',
-	'wikimedia-copyright' => 'Tekst <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Ulanyş şertleri</a>ne serediň.',
-	'wikimedia-copyrightwarning' => 'Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] we [//www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [//wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň.', # Fuzzy
+	'wikimedia-copyright' => 'Tekst <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Ulanyş şertleri</a>ne serediň.',
+	'wikimedia-copyrightwarning' => 'Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] we [https://www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [https://wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň.', # Fuzzy
 );
 
 /** Tagalog (Tagalog)
@@ -14739,7 +14881,7 @@ $messages['tl'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Mga patnugot ng mga pahinang nakaprutekta',
 	'group-eliminator' => 'Mga tagapagtanggal',
 	'group-eliminator-member' => '{{GENDER:$1|tagapagtanggal}}',
-	'grouppage-eliminator' => '{{ns:project}}:Tagapag-alis',
+	'grouppage-eliminator' => '{{ns:project}}:Tagapag-alis', # Fuzzy
 	'group-filemover' => 'Mga tagapaglipat ng talaksan',
 	'group-filemover-member' => '{{GENDER:$1|tagapaglipat ng talaksan}}',
 	'grouppage-filemover' => '{{ns:project}}:Mga tagapaglipat ng talaksan',
@@ -14773,6 +14915,9 @@ $messages['tl'] = array(
 	'group-trusted' => 'Pinagkakatiwalaang mga tagagamit',
 	'group-trusted-member' => '{{GENDER:$1|pinagkakatiwalaang tagagamit}}',
 	'grouppage-trusted' => '{{ns:project}}:Pinagkakatiwalaang mga tagagamit',
+	'group-uploader' => 'Mga tagapagkarga',
+	'group-uploader-member' => 'tagapagkarga', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Mga tagapagkarga',
 	'group-Global_bot' => "Pandaigdigang mga ''bot''",
 	'group-Global_bot-member' => '{{GENDER:$1|pandaigdigang bot}}',
 	'grouppage-Global_bot' => 'm:Pangglobong bot',
@@ -14807,10 +14952,10 @@ $messages['tl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|hindi masiglang tagagamit}}',
 	'grouppage-inactive' => '{{ns:project}}:Hindi masiglang mga tagagamit',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Makukuha ang teksto sa ilalim ng <a href="//creativecommons.org/licenses/by-sa/3.0/">Lisensyang Creative Commons Attribution/Share-Alike</a>;
+	'wikimedia-copyright' => 'Makukuha ang teksto sa ilalim ng <a href="https://creativecommons.org/licenses/by-sa/3.0/">Lisensyang Creative Commons Attribution/Share-Alike</a>;
 maaaring gamitan ng karagdagan pang mga patakaran.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikimedia-copyrightwarning' => 'Sa pamamagitan ng pagpindot ng pindutang "{{int:savearticle}}", sumasang-ayon ka sa [//wikimediafoundation.org/wiki/Terms_of_Use Mga hinihingi sa paggamit], at hindi mababago ang pagsang-ayon mo na ilabas ang iyong mga ambag sa ilalim ng [//creativecommons.org/licenses/by-sa/3.0/ Lisensiyang CC-BY-SA 3.0] at sa [//www.gnu.org/copyleft/fdl.html GFDL].  Sumasang-ayon ka na ang isang kawing na hyper o URL ay sapat nang atribusyon sa ilalim ng lisensiyang Creative Commons.',
+See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
+	'wikimedia-copyrightwarning' => 'Sa pamamagitan ng pagpindot ng pindutang "{{int:savearticle}}", sumasang-ayon ka sa [https://wikimediafoundation.org/wiki/Terms_of_Use Mga hinihingi sa paggamit], at hindi mababago ang pagsang-ayon mo na ilabas ang iyong mga ambag sa ilalim ng [https://creativecommons.org/licenses/by-sa/3.0/ Lisensiyang CC-BY-SA 3.0] at sa [https://www.gnu.org/copyleft/fdl.html GFDL].  Sumasang-ayon ka na ang isang kawing na hyper o URL ay sapat nang atribusyon sa ilalim ng lisensiyang Creative Commons.',
 	'cant-delete-main-page' => 'Hindi mo mabubura o maililipat ang pangunahing pahina.',
 	'wikimedia-translationnotifications-signup-legal' => 'Sumasang-ayon ka na sa pamamagitan ng pagbibigay sa Pundasyon ng Wikimedia ng ganitong impormasyon, maaari kaming makipag-ugnayan sa iyo hinggil sa mga salinwika o ibang mga paksa na may kaugnayan sa kilusan ng Wikimedia na maiisip namin na marahil ay makakatawag ng iyong pansin. Sumasang-ayon ka na marahil ang dato mo ay maiimbak sa Nagkakaisang mga Estado ng Amerika at masasaklawan ng aming [https://wikimediafoundation.org/wiki/Privacy_policy patakaran sa pagkapribado].',
 );
@@ -14899,7 +15044,7 @@ $messages['tr'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Korumalı sayfa yazarı',
 	'group-eliminator' => 'Eleyiciler',
 	'group-eliminator-member' => '{{GENDER:$1|eleyici}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eleyiciler',
+	'grouppage-eliminator' => '{{ns:project}}:Eleyiciler', # Fuzzy
 	'group-filemover' => 'Dosya taşıyıcılar',
 	'group-filemover-member' => '{{GENDER:$1|dosya taşıyıcı}}',
 	'grouppage-filemover' => '{{ns:project}}:Dosya taşıyıcılar',
@@ -14932,6 +15077,9 @@ $messages['tr'] = array(
 	'group-trusted' => 'Güvenilir kullanıcılar',
 	'group-trusted-member' => '{{GENDER:$1|güvenilir kullanıcı}}',
 	'grouppage-trusted' => '{{ns:project}}:Güvenilir kullanıcılar',
+	'group-uploader' => 'Yükleyiciler',
+	'group-uploader-member' => 'yükleyici', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Yükleyiciler',
 	'group-Global_bot' => 'Küresel botlar',
 	'group-Global_bot-member' => '{{GENDER:$1|küresel bot}}',
 	'group-Global_rollback' => 'Küresel geri döndürücüler',
@@ -14959,8 +15107,8 @@ $messages['tr'] = array(
 	'group-inactive-member' => '{{GENDER:$1|etkin olmayan kullanıcı}}',
 	'grouppage-inactive' => '{{ns:project}}:Etkin olmayan kullanıcılar',
 	'shared-repo-name-shared' => 'Vikipedi Commons', # Fuzzy
-	'wikimedia-copyright' => 'Metin <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakınız.',
-	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [//www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [//wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.', # Fuzzy
+	'wikimedia-copyright' => 'Metin <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakınız.',
+	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [https://wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.', # Fuzzy
 	'cant-delete-main-page' => 'Silemez veya ana sayfaya taşıyamazsın.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kullanıcı_adı_politikası',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]',
@@ -15035,7 +15183,7 @@ $messages['tt-cyrl'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Якланган битләрнең мөхәррирләре',
 	'group-eliminator' => 'Бетерүчеләр',
 	'group-eliminator-member' => '{{GENDER:$1|бетерүче}}',
-	'grouppage-eliminator' => '{{ns:project}}:Бетерүчеләр',
+	'grouppage-eliminator' => '{{ns:project}}:Бетерүчеләр', # Fuzzy
 	'group-filemover' => 'Исеме алмаштырулы битләр',
 	'group-filemover-member' => '{{GENDER:$1|файлның исемен алмаштыручы}}',
 	'grouppage-filemover' => '{{ns:project}}:Файл исемнәрен үзгәртүчеләр',
@@ -15093,8 +15241,8 @@ $messages['tt-cyrl'] = array(
 	'group-inactive-member' => '{{GENDER:$1|актив булмаган кулланучы}}',
 	'grouppage-inactive' => '{{ns:project}}:Актив булмаган кулланучылар',
 	'shared-repo-name-shared' => 'Викиҗыентык',
-	'wikimedia-copyright' => 'Текст <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясе астында бирелә, аерым очракларда өстәмә шартлар эшләргә мөмкин. Өстәмә мәгълүмат өчен <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Куллану шартларын</a> карагыз.',
-	'wikimedia-copyrightwarning' => "«{{int:savearticle}}» төймәсенә басып сез [//wikimediafoundation.org/wiki/Terms_of_Use куллану шартлары] белән килешәсез, шулай ук сез үз эшләрегезне  [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [//www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча нәшер итүенә риза буласыз. Бу битне кулланганда, сезгә иң киме Creative Commons  лицензиясенә гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз.",
+	'wikimedia-copyright' => 'Текст <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> лицензиясе астында бирелә, аерым очракларда өстәмә шартлар эшләргә мөмкин. Өстәмә мәгълүмат өчен <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Куллану шартларын</a> карагыз.',
+	'wikimedia-copyrightwarning' => "«{{int:savearticle}}» төймәсенә басып сез [https://wikimediafoundation.org/wiki/Terms_of_Use куллану шартлары] белән килешәсез, шулай ук сез үз эшләрегезне  [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] һәм [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча нәшер итүенә риза буласыз. Бу битне кулланганда, сезгә иң киме Creative Commons  лицензиясенә гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз.",
 	'cant-delete-main-page' => 'Сез баш битнең исемен яисә аны бетерә алмыйсыз.',
 );
 
@@ -15103,8 +15251,8 @@ $messages['tt-cyrl'] = array(
  */
 $messages['tt-latn'] = array(
 	'sitesupport' => 'İğänä',
-	'wikimedia-copyright' => 'Tekst <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziäse astında birelä, ayırım oçraqlarda östämä şartlar eşlärgä mömkin. Östämä mäğlümat öçen <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Qullanu şartların</a> qarağız.',
-	'wikimedia-copyrightwarning' => "Üzgärtülärne saqlağan waqıtta, sez alarnıñ [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] häm [//www.gnu.org/copyleft/fdl.html GFDL] litsenziäläre taläpläre buyınça publikatsiäläwenä riza bulasız. Bu bitne qullanğanda, sezgä iñ kime gipersıltama yäki bit URL'ı aşa sıltama quyıluğa riza bulasız. Tulıraq mäğlümat öçen [//wikimediafoundation.org/wiki/Terms_of_Use Qullanu şartları] biten qarağız.", # Fuzzy
+	'wikimedia-copyright' => 'Tekst <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> litsenziäse astında birelä, ayırım oçraqlarda östämä şartlar eşlärgä mömkin. Östämä mäğlümat öçen <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Qullanu şartların</a> qarağız.',
+	'wikimedia-copyrightwarning' => "Üzgärtülärne saqlağan waqıtta, sez alarnıñ [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] häm [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziäläre taläpläre buyınça publikatsiäläwenä riza bulasız. Bu bitne qullanğanda, sezgä iñ kime gipersıltama yäki bit URL'ı aşa sıltama quyıluğa riza bulasız. Tulıraq mäğlümat öçen [https://wikimediafoundation.org/wiki/Terms_of_Use Qullanu şartları] biten qarağız.", # Fuzzy
 );
 
 /** Tahitian (Reo Mā`ohi)
@@ -15145,8 +15293,8 @@ $messages['tzm'] = array(
  */
 $messages['udm'] = array(
 	'sitesupport' => 'Проектлы юрттон',
-	'wikimedia-copyrightwarning' => "Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] но [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
-Тыро-быдогес со сярысь лыдӟе [//wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожъяса, тӥ асьтэлэн автор правоостылэсь куштӥськоды.", # Fuzzy
+	'wikimedia-copyrightwarning' => "Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] но [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Тыро-быдогес со сярысь лыдӟе [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожъяса, тӥ асьтэлэн автор правоостылэсь куштӥськоды.", # Fuzzy
 );
 
 /** Uighur (ئۇيغۇرچە / Uyghurche‎) */
@@ -15395,13 +15543,13 @@ $messages['uk'] = array(
 	'group-inactive-member' => '{{GENDER:$1|неактивний користувач|неактивна користувачка}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактивні користувачі',
 	'shared-repo-name-shared' => 'Вікісховища',
-	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="//wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
-	'wikidata-copyright' => 'Усі структуровані дані з основного простору назв і простору назв властивостей доступні під ліцензією <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
-текст інших просторів назв доступний під ліцензією <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
+	'wikimedia-copyright' => 'Текст доступний на умовах ліцензії <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, також можуть діяти додаткові умови. Детальніше див. <a href="https://wikimediafoundation.org/wiki/Умови_використання">умови використання</a>.',
+	'wikidata-copyright' => 'Усі структуровані дані з основного простору назв і простору назв властивостей доступні під ліцензією <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
+текст інших просторів назв доступний під ліцензією <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
 можуть застосовуватись додаткові умови.
-Див. детальніше <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
+Див. детальніше <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
 	'wikidata-shortcopyrightwarning' => 'Натиснувши «Зберегти», ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].', # Fuzzy
-	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [//wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [//www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
+	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
@@ -15490,7 +15638,7 @@ $messages['uz'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Himoyalangan sahifalar muharrirlari',
 	'group-eliminator' => 'Oʻchiruvchilar',
 	'group-eliminator-member' => '{{GENDER:$1|oʻchiruvchi}}',
-	'grouppage-eliminator' => '{{ns:project}}:Oʻchiruvchilar',
+	'grouppage-eliminator' => '{{ns:project}}:Oʻchiruvchilar', # Fuzzy
 	'group-filemover' => 'Fayllarni nomlovchilar',
 	'group-filemover-member' => '{{GENDER:$1|Fayl nomlovchi}}',
 	'grouppage-filemover' => '{{ns:project}}:Fayllar nomlovchilar',
@@ -15546,8 +15694,8 @@ $messages['uz'] = array(
 	'group-inactive' => 'Nofaol ishtirokchilar',
 	'group-inactive-member' => '{{GENDER:$1|nofaol foydalanuvchi}}',
 	'grouppage-inactive' => '{{ns:project}}:Nofaol ishtirokchilar',
-	'wikimedia-copyright' => 'Matn <a href="//creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> boʻyicha ommalashtirilmoqda; alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin. Batafsil: <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a>.',
-	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda, Siz [//wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz, va kiritilgan maʼlumotlar [//creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [//www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.',
+	'wikimedia-copyright' => 'Matn <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> boʻyicha ommalashtirilmoqda; alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin. Batafsil: <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a>.',
+	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda, Siz [https://wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz, va kiritilgan maʼlumotlar [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.',
 	'cant-delete-main-page' => 'Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.',
 	'upload-more-photos-of-this-monument' => 'Ushbu obyektning yana boshqa suratlarini yuklash',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tanlashda yordam)]]',
@@ -15610,7 +15758,7 @@ $messages['vec'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Modificadori de pagine protete',
 	'group-eliminator' => 'Eliminadori',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora|eliminador/a}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminador',
+	'grouppage-eliminator' => '{{ns:project}}:Eliminador', # Fuzzy
 	'group-filemover' => 'Spostadori de file',
 	'group-filemover-member' => '{{GENDER:$1|spostador de file|spostatrise de file|spostador/trise de file}}',
 	'grouppage-filemover' => '{{ns:project}}:Spostadori de file',
@@ -15644,6 +15792,9 @@ $messages['vec'] = array(
 	'group-trusted' => 'Utenti de cui fidarse',
 	'group-trusted-member' => '{{GENDER:$1|utente de cui fidarse}}',
 	'grouppage-trusted' => '{{ns:project}}:Utenti de cui fidarse',
+	'group-uploader' => 'Caricadori',
+	'group-uploader-member' => 'caricador', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Caricadori',
 	'group-Global_bot' => 'Bot globali',
 	'group-Global_bot-member' => '{{GENDER:$1|bot globałe}}',
 	'group-Global_rollback' => 'Ripristinadori globali',
@@ -15681,13 +15832,13 @@ $messages['vec'] = array(
 	'group-inactive' => 'Utenti inativi',
 	'group-inactive-member' => '{{GENDER:$1|utente inativo|utente inativa|utente inativo/a}}',
 	'grouppage-inactive' => '{{ns:project}}:Utenti inativi',
-	'wikimedia-copyright' => 'El testo el xè disponibiłe secondo ła <a href="//creativecommons.org/licenses/by-sa/3.0/deed.it">licensa Creative Commons Atribusion-Condividi al steso modo</a>; e poe aplicarse ulteriori condision. Varda łe <a class=\'internal\' href="/wiki/Wikipedia:Copyright#Condixion_d.27uxo">condision d\'uxo</a> par i detaji. Wikipedia® xè on marchio rejistrà de ła <a href="//www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>',
-	'wikidata-copyright' => 'Tuti i dati struturai dal namespace prinsipałe i xe disponibiłi secondo ła licensa <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>;
-i testi in altri namespace i xe disponibiłi secondo ła licensa <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Atribusion/Condividi al steso modo</a>;
+	'wikimedia-copyright' => 'El testo el xè disponibiłe secondo ła <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">licensa Creative Commons Atribusion-Condividi al steso modo</a>; e poe aplicarse ulteriori condision. Varda łe <a class=\'internal\' href="/wiki/Wikipedia:Copyright#Condixion_d.27uxo">condision d\'uxo</a> par i detaji. Wikipedia® xè on marchio rejistrà de ła <a href="https://www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>',
+	'wikidata-copyright' => 'Tuti i dati struturai dal namespace prinsipałe i xe disponibiłi secondo ła licensa <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>;
+i testi in altri namespace i xe disponibiłi secondo ła licensa <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Atribusion/Condividi al steso modo</a>;
 pol vegner aplicae altre condision.
-Varda i <a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Termini d\'uxo</a> par detaji.',
-	'wikidata-shortcopyrightwarning' => 'Strucando "Salva", te aceti le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condision de uso] e te consenti irevocabilmente a rilasiar el to contributo in base a la licensa [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
-	'wikimedia-copyrightwarning' => "Strucando so'l boton \"{{int:savearticle}}\", te aceti łe [//wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [//creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [//www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
+Varda i <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Termini d\'uxo</a> par detaji.',
+	'wikidata-shortcopyrightwarning' => 'Strucando "Salva", te aceti le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condision de uso] e te consenti irevocabilmente a rilasiar el to contributo in base a la licensa [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => "Strucando so'l boton \"{{int:savearticle}}\", te aceti łe [https://wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
 	'upload-more-photos-of-this-monument' => 'Carga altre someje de sto monumento',
@@ -15751,6 +15902,9 @@ $messages['vep'] = array(
 	'group-transwiki' => 'Importörad Transwikišpäi',
 	'group-transwiki-member' => '{{GENDER:$1|importör Transwikišpäi}}',
 	'grouppage-transwiki' => '{{ns:project}}:Importörad Transwikišpäi',
+	'group-uploader' => 'Jügutoitajad',
+	'group-uploader-member' => 'jügutoitai', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Jügutoitajad',
 	'group-Global_bot' => 'Globaližed botad',
 	'group-Global_bot-member' => '{{GENDER:$1|globaline bot}}',
 	'group-Global_rollback' => 'Globaližed endištajad',
@@ -15770,8 +15924,8 @@ $messages['vep'] = array(
 	'group-inactive' => 'Kävutajad aktivižuseta',
 	'group-inactive-member' => '{{GENDER:$1|kävutai aktivižuseta}}',
 	'grouppage-inactive' => '{{ns:project}}:Kävutajad aktivižuseta',
-	'wikimedia-copyright' => 'Tekst sab sada <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid.
-Kacu mugažo: <a href="//wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
+	'wikimedia-copyright' => 'Tekst sab sada <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid.
+Kacu mugažo: <a href="https://wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
 );
 
 /** Vietnamese (Tiếng Việt)
@@ -15867,7 +16021,7 @@ $messages['vi'] = array(
 	'group-trusted-member' => '{{GENDER:$1}}thành viên tin cậy',
 	'grouppage-trusted' => '{{ns:project}}:Thành viên tin cậy',
 	'group-uploader' => 'Người tải lên',
-	'group-uploader-member' => '{{GENDER:$1|người tải lên}}',
+	'group-uploader-member' => '{{GENDER:$1}}người tải lên',
 	'grouppage-uploader' => '{{ns:project}}:Người tải lên',
 	'group-Global_bot' => 'Bot toàn hệ thống',
 	'group-Global_bot-member' => '{{GENDER:$1}}bot toàn hệ thống',
@@ -15913,13 +16067,13 @@ $messages['vi'] = array(
 	'group-inactive-member' => '{{GENDER:$1}}thành viên không tích cực',
 	'grouppage-inactive' => '{{ns:project}}:Thành viên không tích cực',
 	'shared-repo-name-shared' => 'Wikimedia Commons',
-	'wikimedia-copyright' => 'Văn bản được phát hành theo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.vi">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>; có thể áp dụng điều khoản bổ sung. Xem <a href="//wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi">Điều khoản Sử dụng</a> để biết thêm chi tiết.',
-	'wikidata-copyright' => 'Tất cả dữ liệu có cấu trúc trong các không gian tên chính và thuộc tính được phát hành theo <a href="//creativecommons.org/publicdomain/zero/1.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons CC0">Giấy phép Creative Commons CC0</a>;
-các văn bản trong các không gian tên khác được được phát hành theo <a href="//creativecommons.org/licenses/by-sa/3.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons Ghi công–Chia sẻ tương tự">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>;
+	'wikimedia-copyright' => 'Văn bản được phát hành theo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.vi">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>; có thể áp dụng điều khoản bổ sung. Xem <a href="https://wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi">Điều khoản Sử dụng</a> để biết thêm chi tiết.',
+	'wikidata-copyright' => 'Tất cả dữ liệu có cấu trúc trong các không gian tên chính và thuộc tính được phát hành theo <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons CC0">Giấy phép Creative Commons CC0</a>;
+các văn bản trong các không gian tên khác được được phát hành theo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons Ghi công–Chia sẻ tương tự">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>;
 các điều khoản bổ sung có thể áp dụng.
-Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
-	'wikidata-shortcopyrightwarning' => 'Với việc bấm nút “lưu”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
-	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, không thể hủy bỏ, đóng góp của mình theo [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
+Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
+	'wikidata-shortcopyrightwarning' => 'Với việc bấm nút “lưu”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết đến khoản mục này',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
@@ -15930,6 +16084,7 @@ Xem chi tiết trong <a href="//wikimediafoundation.org/wiki/Terms_of_Use/vi?use
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Yêu cầu tạo tài khoản',
 	'createacct-imgcaptcha-help' => 'Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]',
+	'wikimedia-developers' => 'Nhà phát triển',
 );
 
 /** Volapük (Volapük)
@@ -15965,12 +16120,12 @@ $messages['vo'] = array(
 $messages['vro'] = array(
 	'sitesupport' => 'Tugõminõ',
 	'tooltip-n-sitesupport' => 'Tukõq mi tüüd',
-	'wikimedia-copyright' => 'Teksti või pruukiq <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsendsi tingimüisi perrä;
+	'wikimedia-copyright' => 'Teksti või pruukiq <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>-litsendsi tingimüisi perrä;
 mõnikõrd või päält taa ollaq ka muid tingimüisi.
-Taa kotsilõ kaeq täpsämbähe <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia pruukmistingimüisist</a>.',
-	'wikimedia-copyrightwarning' => 'Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [//www.gnu.org/copyleft/fdl.html GFDL-litsendsi] perrä.
+Taa kotsilõ kaeq täpsämbähe <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia pruukmistingimüisist</a>.',
+	'wikimedia-copyrightwarning' => 'Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-litsendsi] perrä.
 Olõt nõun, et su autorisolõmist näüdätäs vähämbält võrgoaadrõsi vai lingiga seo lehe pääle, midä sa parhilla toimõndat.
-Täpsämbähe kaeq taa kotsilõ [//wikimediafoundation.org/wiki/Terms_of_Use Wikimedia pruukmistingimüisist].', # Fuzzy
+Täpsämbähe kaeq taa kotsilõ [https://wikimediafoundation.org/wiki/Terms_of_Use Wikimedia pruukmistingimüisist].', # Fuzzy
 );
 
 /** Walloon (walon)
@@ -16013,7 +16168,7 @@ $messages['wa'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Candjeus d' pådjes protedjeyes",
 	'group-eliminator' => 'Elimineus',
 	'group-eliminator-member' => '{{GENDER:$1|elimineu|elimineuse}}',
-	'grouppage-eliminator' => '{{ns:project}}:Elimineus',
+	'grouppage-eliminator' => '{{ns:project}}:Elimineus', # Fuzzy
 	'group-filemover' => "Displaeceus d' fitchîs",
 	'grouppage-filemover' => "{{ns:project}}:Displaeceus d' fitchîs",
 	'group-founder' => 'Askepieus do Wiki',
@@ -16033,6 +16188,9 @@ $messages['wa'] = array(
 	'group-transwiki' => 'Ricopieus inte les wikis',
 	'group-transwiki-member' => "{{GENDER:$1|ricopieu|ricopieuse}} d' on wiki a l' ôte",
 	'grouppage-transwiki' => "{{ns:project}}:Apoirteus d' pådjes d' èn ôte wiki",
+	'group-uploader' => 'Eberweteus',
+	'group-uploader-member' => 'Eberweteu(se)', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Eberweteus',
 	'group-Global_bot' => 'Programeus totavå',
 	'group-Global_bot-member' => '{{GENDER:$1|programeu|programeuse}} totavå',
 	'group-Global_rollback' => 'Ridisfijheus totavå',
@@ -16052,11 +16210,11 @@ $messages['wa'] = array(
 	'group-inactive' => "Uzeus ki n' boutèt nén",
 	'group-inactive-member' => "{{GENDER:$1|uzeu|uzeuse}} ki n' boute nén",
 	'grouppage-inactive' => "{{ns:project}}:Uzeus ki n' boutnut nén",
-	'wikimedia-copyright' => 'Les tecses sont disponibes dizo l\' <a href="//creativecommons.org/licenses/by-sa/3.0/">licince "\'\'Creative Commons\'\'" atribucion pårtaedje a l’ idintike</a>.
-Loukîz les <a href="//wikimediafoundation.org/wiki/Terms_of_Use">condicions d’ eployaedje</a> po saveur les ca et les ma.',
-	'wikimedia-copyrightwarning' => "Si vos clitchîz so «{{int:savearticle}}», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;[//creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Les tecses sont disponibes dizo l\' <a href="https://creativecommons.org/licenses/by-sa/3.0/">licince "\'\'Creative Commons\'\'" atribucion pårtaedje a l’ idintike</a>.
+Loukîz les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">condicions d’ eployaedje</a> po saveur les ca et les ma.',
+	'wikimedia-copyrightwarning' => "Si vos clitchîz so «{{int:savearticle}}», vos acceptez, sins poleur rivni e-n erî, di mete vosse sicrijhaedje dizo l'&nbsp;[https://creativecommons.org/licenses/by-sa/3.0/ licince \"''Creative Commons\"'' atribucion pårtaedje a l’ idintike 3.0] eyet [https://www.gnu.org/copyleft/fdl.html GFDL].
 Et esse sifwaitmint d' acoird d’ esse ricnoxhou (-owe) come sicrijheu(se) di ces racsegnes la, pol moens pa ene hårdêye ou èn URL aviè l’ årtike ki vos avoz scrît ou ki vos î avoz bodjî.
-Loukîz les [//wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
+Loukîz les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d’ eployaedje] po saveur les ca et les ma.",
 	'cant-delete-main-page' => "Vos n' poloz nén disfacer ou displaecî l' mwaisse pådje.",
 );
 
@@ -16092,7 +16250,7 @@ $messages['wuu'] = array(
  */
 $messages['xal'] = array(
 	'sitesupport' => 'Өгх',
-	'wikimedia-copyright' => 'Бичг <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> зөвшлтин болзани орлһта, зәрм бәәдлт дәкәд болзан йоста бәәдг. Тодрхаһар <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">Эдллһнә болзан</a> хәләтн.',
+	'wikimedia-copyright' => 'Бичг <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> зөвшлтин болзани орлһта, зәрм бәәдлт дәкәд болзан йоста бәәдг. Тодрхаһар <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Эдллһнә болзан</a> хәләтн.',
 );
 
 /** Xhosa (isiXhosa)
@@ -16242,10 +16400,10 @@ $messages['yi'] = array(
 	'group-inactive-member' => '{{GENDER:$1|אומאַקטיווער באַניצער|אומאַקטיווע באַניצערין}}',
 	'grouppage-inactive' => '{{ns:project}}:אומאַקטיווע באַניצער',
 	'shared-repo-name-shared' => 'וויקימעדיע קאמאנס',
-	'wikimedia-copyright' => 'טעקסט איז פאראן לויטן <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.
-זעט <a href="//wikimediafoundation.org/wiki/Terms_of_Use">תנאים פון באניצן</a> פֿאר פרטים.',
-	'wikidata-shortcopyrightwarning' => 'בײַם קליקן אויף "{{int:wikibase-save}}" זענט איר מסכים צו די [//wikimediafoundation.org/wiki/Terms_of_Use ניצבאדינגונגען], און איר זענט מסכים בלי־חרטה פֿארעפֿנטלעכן אײַער בײַשטײַערונג אונטער דעם [//creativecommons.org/publicdomain/zero/1.0/ CC0 ליצענץ].',
-	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [//wikimediafoundation.org/wiki/Terms_of_Use ניצבאַדינגונגען] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [//creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'טעקסט איז פאראן לויטן <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.
+זעט <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">תנאים פון באניצן</a> פֿאר פרטים.',
+	'wikidata-shortcopyrightwarning' => 'בײַם קליקן אויף "{{int:wikibase-save}}" זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאדינגונגען], און איר זענט מסכים בלי־חרטה פֿארעפֿנטלעכן אײַער בײַשטײַערונג אונטער דעם [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ליצענץ].',
+	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאַדינגונגען] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [https://www.gnu.org/copyleft/fdl.html GFDL].
 איר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.',
 	'wikibase-sitelinks-wikivoyage' => 'וויקירייזע בלעטער פארלינקט מיט דעם אביעקט',
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
@@ -16269,11 +16427,11 @@ $messages['yo'] = array(
 	'grouppage-founder' => '{{ns:project}}:Àwọn olùdásílẹ̀',
 	'group-sysadmin' => 'Àwọn olùmójútó sístẹ́mù',
 	'group-sysadmin-member' => '{{GENDER:$1|olùmójútó sístẹ́mù}}',
-	'wikimedia-copyright' => 'Gbogbo ìkọ wà lábẹ́ <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn tún wà.
-Ẹ wo <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.',
-	'wikimedia-copyrightwarning' => 'Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] àti [//www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyright' => 'Gbogbo ìkọ wà lábẹ́ <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn tún wà.
+Ẹ wo <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.',
+	'wikimedia-copyrightwarning' => 'Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] àti [https://www.gnu.org/copyleft/fdl.html GFDL].
 Ẹ gbà kí àwọn olùtúnlò míràn, o kéréjù pelú ìjápò tàbí URL sí ojúewé tí ẹ ṣàfikún sí, pe kí wọn ó dárúkọ yín.
-Ẹ wo [//wikimediafoundation.org/wiki/Terms_of_Use Àwọn Ọ̀rọ̀ Àdéhùn Ìlò] fún ẹ̀kúnrẹ́rẹ́.', # Fuzzy
+Ẹ wo [https://wikimediafoundation.org/wiki/Terms_of_Use Àwọn Ọ̀rọ̀ Àdéhùn Ìlò] fún ẹ̀kúnrẹ́rẹ́.', # Fuzzy
 );
 
 /** Cantonese (粵語)
@@ -16331,6 +16489,9 @@ $messages['yue'] = array(
 	'group-transwiki-member' => 'Transwiki匯入者', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki匯入者',
 	'group-trusted' => '可信戶',
+	'group-uploader' => '上載者',
+	'group-uploader-member' => '上載者', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:上載者',
 	'group-Global_bot' => '全域機械人',
 	'group-Global_bot-member' => '全域機械人', # Fuzzy
 	'group-Global_rollback' => '全域反轉者',
@@ -16351,11 +16512,11 @@ $messages['yue'] = array(
 	'group-inactive' => '唔活躍嘅用戶',
 	'group-inactive-member' => '唔活躍嘅用戶', # Fuzzy
 	'grouppage-inactive' => '{{ns:project}}:唔活躍嘅用戶',
-	'wikimedia-copyright' => '呢度嘅所有文字係根據<a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嘅條款發佈；可能會有附加嘅條款。
-睇吓<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嘅細節。',
-	'wikimedia-copyrightwarning' => '當保存嗰陣，你同意將你嘅貢獻喺[//creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[//www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。
+	'wikimedia-copyright' => '呢度嘅所有文字係根據<a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike 牌照</a>嘅條款發佈；可能會有附加嘅條款。
+睇吓<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>嘅細節。',
+	'wikimedia-copyrightwarning' => '當保存嗰陣，你同意將你嘅貢獻喺[https://creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[https://www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。
 你同意加你個名畀再利用者，最少，經過嘅超連結或者網址到你貢獻嘅版。
-睇吓[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嘅細節。', # Fuzzy
+睇吓[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嘅細節。', # Fuzzy
 );
 
 /** Zeeuws (Zeêuws)
@@ -16512,12 +16673,12 @@ $messages['zh-hans'] = array(
 	'group-inactive-member' => '{{GENDER:$1|不活跃用户}}',
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
 	'shared-repo-name-shared' => '维基共享资源',
-	'wikimedia-copyright' => '本网站文字内容采用<a href="//creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
-	'wikidata-copyright' => '所有来自“主要”和“属性”命名空间的结构化数据在<a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知识共享CC0协议</a>下可用；
-其他命名空间中的文本在<a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知识共享 署名-相同方式共享协议">知识共享 署名-相同方式共享协议</a>下可用；附加条款可能适用。
-参见<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
-	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[//creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
-	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[//zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
+	'wikimedia-copyright' => '本网站文字内容采用<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
+	'wikidata-copyright' => '所有来自“主要”和“属性”命名空间的结构化数据在<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知识共享CC0协议</a>下可用；
+其他命名空间中的文本在<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知识共享 署名-相同方式共享协议">知识共享 署名-相同方式共享协议</a>下可用；附加条款可能适用。
+参见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
+	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
+	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接到维基旅游项目的页面列表',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
@@ -16597,7 +16758,7 @@ $messages['zh-hant'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:被保護頁面編者',
 	'group-eliminator' => '刪除者',
 	'group-eliminator-member' => '刪除者',
-	'grouppage-eliminator' => '{{ns:project}}:刪除者',
+	'grouppage-eliminator' => '{{ns:project}}:刪除者', # Fuzzy
 	'group-filemover' => '檔案移動員',
 	'group-filemover-member' => '檔案移動員',
 	'grouppage-filemover' => '{{ns:project}}:檔案移動員',
@@ -16631,6 +16792,9 @@ $messages['zh-hant'] = array(
 	'group-trusted' => '受信任的用戶',
 	'group-trusted-member' => '{{GENDER:$1|受信任用戶}}',
 	'grouppage-trusted' => '{{ns:project}}:受信任的用戶',
+	'group-uploader' => '上載者',
+	'group-uploader-member' => '上傳文件用戶', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:上傳文件用戶',
 	'group-Global_bot' => '全域機器人',
 	'group-Global_bot-member' => '{{GENDER:$1|全域機器人}}',
 	'group-Global_rollback' => '全域反轉者',
@@ -16670,10 +16834,10 @@ $messages['zh-hant'] = array(
 	'group-inactive-member' => '{{GENDER:$1|不活躍用戶}}',
 	'grouppage-inactive' => '{{ns:project}}:不活躍的用戶',
 	'shared-repo-name-shared' => '維基共享資源',
-	'wikimedia-copyright' => '本站的全部文字在<a "href="{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}"title="Wikipedia:CC-by-sa-3.0協議文本">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href="//wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>）',
-	'wikidata-copyright' => '所有來自主和屬性名字空間的結構化數據以<a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知識共享CC0協議</a>下發佈； 其他名字空間中的文本在<a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知識共享署名-相同方式共享協議">知識共享署名-相同方式共享協議</a>下發佈；附加條款可能適用。參見<a href="//wikimediafoundation.org/wiki/Terms_of_Use" title="維基媒體基金會的使用條款">使用條款</a>了解細節。',
-	'wikidata-shortcopyrightwarning' => '點擊「保存」表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並且您不可撤銷地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授權]發布您的貢獻。',
-	'wikimedia-copyrightwarning' => '一旦點擊「{{int:savearticle}}」按鈕，就表示你同意[//wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。
+	'wikimedia-copyright' => '本站的全部文字在<a "href="{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}"title="Wikipedia:CC-by-sa-3.0協議文本">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>）',
+	'wikidata-copyright' => '所有來自主和屬性名字空間的結構化數據以<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知識共享CC0協議</a>下發佈； 其他名字空間中的文本在<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知識共享署名-相同方式共享協議">知識共享署名-相同方式共享協議</a>下發佈；附加條款可能適用。參見<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="維基媒體基金會的使用條款">使用條款</a>了解細節。',
+	'wikidata-shortcopyrightwarning' => '點擊「保存」表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並且您不可撤銷地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授權]發布您的貢獻。', # Fuzzy
+	'wikimedia-copyrightwarning' => '一旦點擊「{{int:savearticle}}」按鈕，就表示你同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。
 你同意超鏈接或URL足以作為創作共享協議的署名。',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
