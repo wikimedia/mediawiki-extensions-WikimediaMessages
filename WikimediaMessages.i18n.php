@@ -1464,6 +1464,7 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ayudame a escoyer)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicite una cuenta',
 	'createacct-imgcaptcha-help' => '¿Nun pue ver la imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite una cuenta]]',
+	'wikimedia-developers' => 'Desendolcadores',
 );
 
 /** Avaric (авар)
@@ -2825,11 +2826,21 @@ $messages['ckb'] = array(
 	'sitesupport' => 'پاڵپشتی و بەخشین',
 	'tooltip-n-sitesupport' => 'پاڵپشتیمان بکە',
 	'nstab-institution' => 'دامەزراوە',
+	'group-OTRS-member' => 'ئەندامانی OTRS',
+	'group-OTRS-member-member' => '{{GENDER:$1|ئەندامی OTRS}}',
+	'grouppage-OTRS-member' => '{{ns:project}}:ئەندامانی OTRS',
+	'group-abusefilter' => 'دەستکاریکەرانی پاڵوێنەی کەڵکاوەژوو',
+	'group-abusefilter-member' => '{{GENDER:$1|دەستکاریکەری پاڵوێنەی کەڵکاوەژوو}}',
+	'grouppage-abusefilter' => '{{ns:project}}:دەستکاریکەرانی پاڵوێنەی کەڵکاوەژوو',
 	'group-accountcreator' => 'دروستکەرانی ھەژمار',
 	'group-accountcreator-member' => '{{GENDER:$1|دروستکەری ھەژمار}}',
+	'grouppage-accountcreator' => '{{ns:project}}:دروستکەرانی ھەژمار',
 	'group-autopatrolled' => 'پاسدەرانی خۆگەڕ',
 	'group-autopatrolled-member' => '{{GENDER:$1|پاسدەری خۆگەڕ}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:پاسدانی خۆگەڕ',
+	'group-botadmin' => 'بۆتەکان بە مافەکانی بەڕێوەبەر',
+	'group-botadmin-member' => '{{GENDER:$1|بۆت بە مافەکانی بەڕێوەبەر}}',
+	'grouppage-botadmin' => '{{ns:project}}:بۆتەکان بە مافەکانی بەڕێوەبەر',
 	'group-confirmed' => 'بەکارھێنەرانی پەسندکراو',
 	'group-confirmed-member' => '{{GENDER:$1|بەکارھێنەرانی پەسندکراو}}',
 	'grouppage-confirmed' => '{{ns:project}}:بەکارھێنەرانی پەسندکراو',
@@ -2839,6 +2850,9 @@ $messages['ckb'] = array(
 	'group-founder' => 'دامەزرێنەران',
 	'group-founder-member' => '{{GENDER:$1|دامەزرێنەر}}',
 	'grouppage-founder' => '{{ns:project}}:دامەزرێنەران',
+	'group-interface_editor' => 'دەستکاریکەرانی ڕووکار',
+	'group-interface_editor-member' => '{{GENDER:$1|دەستکاریکەری ڕووکار}}',
+	'grouppage-interface_editor' => '{{ns:project}}:دەستکاریکەرانی ڕووکار',
 	'group-ipblock-exempt' => 'ھەڵاواردەکان لە بەربەستنی ئایپی',
 	'group-ipblock-exempt-member' => 'ھەڵاوارده لە بەربەستنی ئایپی',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ھەڵاواردن لە بەربەستنی ئایپی',
@@ -2853,6 +2867,8 @@ $messages['ckb'] = array(
 	'grouppage-uploader' => '{{ns:project}}:بارکەرەکان',
 	'group-Staff' => 'کارمەندان',
 	'group-Staff-member' => 'کارمەند',
+	'group-editinterface' => 'دەستکاریکەرانی ڕووکار',
+	'group-editinterface-member' => '{{GENDER:$1|دەستکاریکەری ڕووکار}}',
 	'group-steward' => 'ستیواردەکان',
 	'group-steward-member' => '{{GENDER:$1|ستیوارد}}',
 	'group-sysadmin' => 'به‌ڕێوبه‌رانی سیسته‌م',
@@ -4425,7 +4441,7 @@ $messages['et'] = array(
 sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
 	'wikidata-shortcopyrightwarning' => 'Kui klõpsad "{{int:wikibase-save}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma kaastöö pöördumatu avaldamisega Creative Commonsi üldise litsentsi [https://creativecommons.org/publicdomain/zero/1.0/deed.et CC0] all.',
-	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC-BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
+	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikibase-sitelinks-wikivoyage' => "Sellele üksusele viitavad Wikivoyage'i-leheküljed",
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
@@ -8633,6 +8649,7 @@ $messages['lad'] = array(
  * @author Kaffi
  * @author Les Meloures
  * @author Robby
+ * @author Soued031
  * @author לערי ריינהארט
  */
 $messages['lb'] = array(
@@ -8702,7 +8719,7 @@ $messages['lb'] = array(
 	'group-interface_editor' => 'Interface-Editeuren',
 	'group-interface_editor-member' => 'Interface-Editeur', # Fuzzy
 	'grouppage-interface_editor' => '{{ns:project}}:Interface-Editeuren',
-	'group-ipblock-exempt' => 'Ausnahme vun IP-Spären',
+	'group-ipblock-exempt' => 'Ausname vun IP-Spären',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|Ausnam vun der IP-Spär}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Ausnahm vun der IP-Spär',
 	'group-patroller' => 'Kontrolleren',
@@ -8743,7 +8760,7 @@ $messages['lb'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|System-Administrateur|System-Administratrice}}',
 	'grouppage-sysadmin' => 'm:System Administrateuren',
 	'group-Indic_Bots' => 'Botte fir indesch Sproochen',
-	'group-global-ipblock-exempt' => 'Ausnahme vu globalen IP-Spären',
+	'group-global-ipblock-exempt' => 'Ausname vu globalen IP-Spären',
 	'group-translationadmin' => 'Iwwersetzungsadministrateuren',
 	'group-translationadmin-member' => '{{GENDER:$1|Iwwersetzungsadministrateur|Iwwersetzungsadministratrice}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Iwwersetzungs-Administrateuren',
@@ -9794,6 +9811,7 @@ $messages['mo'] = array(
  * @author Mahitgar
  * @author Mvkulkarni23
  * @author Rahuldeshmukh101
+ * @author V.narsikar
  */
 $messages['mr'] = array(
 	'wikimediamessages-desc' => 'विकिमीडियाबद्दलचे विशीष्ट संदेश',
@@ -9846,7 +9864,7 @@ $messages['mr'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:सुरक्षित पानांचे संपादक',
 	'group-eliminator' => 'निरसक',
 	'group-eliminator-member' => '{{GENDER:$1|निरसक(eliminator)}}',
-	'grouppage-eliminator' => '{{ns:project}}:निरसक',
+	'grouppage-eliminator' => '{{ns:project}}:उच्चाटक',
 	'group-filemover' => 'संचिका हलवणारे',
 	'group-filemover-member' => '{{GENDER:$1|संचिका हलवणारा|संचिका हलवणारी}}',
 	'grouppage-filemover' => '{{ns:project}}:संचिका हालवणारे',
@@ -9879,6 +9897,9 @@ $messages['mr'] = array(
 	'group-trusted' => ' विश्वत्त सभासद',
 	'group-trusted-member' => '{{GENDER:$1|विश्वस्त सदस्य  }}',
 	'grouppage-trusted' => '{{ns:project}}:विश्वस्त सदस्य',
+	'group-uploader' => 'चढवैय्ये',
+	'group-uploader-member' => '{{GENDER:$1|अपभारक}}',
+	'grouppage-uploader' => '{{ns:project}}:चढवैय्ये',
 	'group-Global_bot' => 'वैश्विक सांगकामे',
 	'group-Global_bot-member' => '{{GENDER:$1|वैश्विक सांगकाम्या}}',
 	'group-Global_rollback' => 'वैश्विक माघारकार',
@@ -9903,7 +9924,13 @@ $messages['mr'] = array(
 	'group-inactive' => 'निष्क्रीय सदस्य',
 	'group-inactive-member' => '{{GENDER:$1|निष्क्रीय सदस्य}}',
 	'grouppage-inactive' => '{{ns:project}}:निष्क्रीय सदस्य',
+	'wikimedia-copyright' => 'येथील मजकूर हा <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">क्रियेटीव्ह कॉमन्स अट्रीब्युशन/शेअर-अलाईक लायसन्स</a> या अंतर्गत उपलब्ध आहे;अतिरिक्त अटी लागु आहेत.
+
+अधिक माहितीसाठी हे बघा<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">वापरण्याच्या अटी</a>.',
+	'wikidata-copyright' => 'मुख्य व गुणधर्माच्या नामविश्वातील सर्व बांधणीकृत माहिती ही  <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">क्रियेटीव्ह कॉमन्स CC0 लायसन्स</a> या अंतर्गत उपलब्ध आहे;ईतर नामविश्वातील माहिती <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">क्रियेटीव्ह कॉमन्स अट्रीब्युशन/शेअर-अलाईक लायसन्स</a> या अंतर्गत उपलब्ध आहे;अतिरिक्त अटी लागु आहेत.अधिक माहितीसाठी हे बघा<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">वापरण्याच्या अटी</a>.',
+	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}" टिचकण्याने, [https://wikimediafoundation.org/wiki/Terms_of_Use वापरण्याच्या शर्ती]स आपण मान्य करीत आहात,व आपण आपले योगदान,(रद्द न करता येण्याजोग्या) मान्य अटीवर, [https://creativecommons.org/publicdomain/zero/1.0/ सीसीओ परवान्याच्या अंतर्गत] मुक्त करीत आहात.',
 	'cant-delete-main-page' => 'आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत',
+	'wikimedia-developers' => 'विकसक',
 );
 
 /** Hill Mari (кырык мары)
@@ -11505,9 +11532,9 @@ $messages['pms'] = array(
 	'group-inactive' => 'Utent inativ',
 	'group-inactive-member' => '{{GENDER:$1|utent inativ}}',
 	'grouppage-inactive' => '{{ns:project}}:Utent inativ',
-	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
-as peulo giontesse condission adissionaj.
-Varda <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> për ij detaj.',
+	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/">licensa Creative Commons atribussion-partagi ugual</a>;
+a podrìo aplichesse d\'àutre condission.
+Ch\'a vëdda le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Condission d\'usagi</a> për ij detaj.',
 	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [https://creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
@@ -11930,7 +11957,7 @@ $messages['pt-br'] = array(
 	'group-interface_editor' => 'Editores de interface',
 	'group-interface_editor-member' => '{{GENDER:$1|editor|editora}} de interface',
 	'grouppage-interface_editor' => '{{ns:project}}: Editores de interface',
-	'group-ipblock-exempt' => 'Isentos de bloqueio IP',
+	'group-ipblock-exempt' => 'Isentos de bloqueio de IP',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|isento|isenta}} de bloqueio de  IP',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Isentos de bloqueio',
 	'group-patroller' => 'Patrulhadores',
@@ -12432,6 +12459,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
 	'createacct-helpusername' => "[[{{MediaWiki:createacct-helpusername-url}}|(damme 'na màne a scacchià)]]",
 	'createacct-captcha-help-url' => "{{ns:Project}}:Cirche 'nu cunde",
 	'createacct-imgcaptcha-help' => "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]",
+	'wikimedia-developers' => 'Sviluppature',
 );
 
 /** Russian (русский)
