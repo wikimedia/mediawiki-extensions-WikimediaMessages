@@ -2860,6 +2860,9 @@ $messages['ckb'] = array(
 	'group-ipblock-exempt' => 'ھەڵاواردەکان لە بەربەستنی ئایپی',
 	'group-ipblock-exempt-member' => 'ھەڵاوارده لە بەربەستنی ئایپی',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:ھەڵاواردن لە بەربەستنی ئایپی',
+	'group-patroller' => 'پاسدەران',
+	'group-patroller-member' => '{{GENDER:$1|پاسدەر}}',
+	'grouppage-patroller' => '{{ns:project}}:پاسدەران',
 	'group-rollbacker' => 'گەڕێنەرەوەکان',
 	'group-rollbacker-member' => '{{GENDER:$1|گەڕێنەرەوە}}',
 	'grouppage-rollbacker' => '{{ns:project}}:گەڕاندنەوە',
@@ -2889,6 +2892,9 @@ $messages['ckb'] = array(
 	'wikimedia-copyrightwarning' => 'بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.
 قەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.
 سەیری [https://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.', # Fuzzy
+	'wikibase-sitelinks-wikivoyage' => 'پێرستی پەڕە بەسراوەکانی ویکیسەفەر بەم بەندەوە',
+	'cant-delete-main-page' => 'ناتوانی پەڕەی دەستپێک بسڕییەوە یان بگوازییەوە.',
+	'createacct-captcha-help-url' => '{{ns:Project}}: داخوازی ھەژمارێک',
 );
 
 /** Corsican (corsu)
@@ -5294,7 +5300,7 @@ $messages['frr'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Bewerkern faan ufseekert sidjen',
 	'group-eliminator' => 'Strikern',
 	'group-eliminator-member' => '{{GENDER:$1|Striker}}',
-	'grouppage-eliminator' => '{{ns:project}}:Strikern', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Strikern',
 	'group-filemover' => 'Datei fersküüwern',
 	'group-filemover-member' => '{{GENDER:$1|Datei fersküüwer}}',
 	'grouppage-filemover' => '{{ns:project}}:Datei fersküüwern',
@@ -5328,6 +5334,9 @@ $messages['frr'] = array(
 	'group-trusted' => 'Iarelk brükern',
 	'group-trusted-member' => '{{GENDER:$1|Iarelk brüker}}',
 	'grouppage-trusted' => '{{ns:project}}:Iarelk brükern',
+	'group-uploader' => 'Huuchschüürern',
+	'group-uploader-member' => '{{GENDER:$1|Huuchschüürer}}',
+	'grouppage-uploader' => '{{ns:project}}:Huuchschüürern',
 	'group-Global_bot' => 'Globaal bots',
 	'group-Global_bot-member' => '{{GENDER:$1|Globaal bot}}',
 	'group-Global_rollback' => 'Globaal turagdreiern',
@@ -5371,7 +5380,7 @@ Luke am enkelthaiden uun a <a href="https://wikimediafoundation.org/wiki/Nutzung
 ööder dooten stun oner det lisens <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike</a>;
 diar kön uk noch ööder reegeln tääl.
 Luke bi a <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
-	'wikidata-shortcopyrightwarning' => 'Wan dü üüb ""Seekre" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Wan dü üüb "{{int:wikibase-save}}" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.',
 	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [https://wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [https://frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [https://frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidjen, huar detdiar objekt üüb ferwiset.',
@@ -5384,6 +5393,7 @@ Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer 
 	'createacct-helpusername' => "[[{{MediaWiki:createacct-helpusername-url}}|(halep bi't ütjwool)]]",
 	'createacct-captcha-help-url' => '{{ns:Project}}:Am en brükerkonto uunfraage',
 	'createacct-imgcaptcha-help' => 'Könst det bil ei sä ? [[{{MediaWiki:createacct-captcha-help-url}}|Am en brükerkonto uunfraage]]',
+	'wikimedia-developers' => 'Ütjwerkern',
 );
 
 /** Friulian (furlan)
@@ -16720,7 +16730,7 @@ $messages['zh-hans'] = array(
 参见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
 	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
 	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
-	'wikibase-sitelinks-wikivoyage' => '链接到维基旅游项目的页面列表',
+	'wikibase-sitelinks-wikivoyage' => '链接至该项维基导游页面',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',

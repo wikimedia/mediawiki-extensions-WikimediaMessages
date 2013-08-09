@@ -388,10 +388,19 @@ $messages['als'] = array(
 );
 
 /** Amharic (አማርኛ)
+ * @author Elfalem
  */
 $messages['am'] = array(
+	'wm-license-artwork-title' => 'ርዕስ',
+	'wm-license-book-language' => 'ቋንቋ',
+	'wm-license-book-title' => 'ርዕስ',
+	'wm-license-book-translator' => 'ተርጓሚ',
 	'wm-license-information-description' => 'ማጠቃለያ',
-	'wm-license-information-source' => 'መነሻ፦',
+	'wm-license-information-source' => 'ምንጭ',
+	'wm-license-information-date' => 'ቀን',
+	'wm-license-information-permission' => 'የማብዛት ፈቃድ',
+	'wm-license-information-permission-see-below' => 'ከታች ይዩ።',
+	'wm-license-information-other-versions' => 'ሌሎች ዕትሞች',
 );
 
 /** Aragonese (aragonés)
