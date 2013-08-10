@@ -222,6 +222,13 @@ $messages['si'] = array(
 	'wikimediamessages-desc' => 'විකිමාධ්‍ය විශේෂිත තාවකාලික පණිවුඩ',
 );
 
+/** Slovak (slovenčina)
+ * @author Sudo77(new)
+ */
+$messages['sk'] = array(
+	'wikimediamessages-desc' => 'Dočasné hlásenia špecifické pre projekty Wikimedia',
+);
+
 /** Swedish (svenska)
  * @author Ainali
  * @author WikiPhoenix

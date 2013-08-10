@@ -2778,7 +2778,7 @@ $messages['ce'] = array(
 	'group-Global_sysops' => 'Глобальни куьйгалхой',
 	'group-steward' => 'Стюардхой',
 	'group-sysadmin' => 'Системин куьйгалхой',
-	'shared-repo-name-shared' => 'ВикидӀайуьллуче',
+	'shared-repo-name-shared' => 'Викигулам',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
 Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
@@ -2895,6 +2895,7 @@ $messages['ckb'] = array(
 	'wikibase-sitelinks-wikivoyage' => 'پێرستی پەڕە بەسراوەکانی ویکیسەفەر بەم بەندەوە',
 	'cant-delete-main-page' => 'ناتوانی پەڕەی دەستپێک بسڕییەوە یان بگوازییەوە.',
 	'createacct-captcha-help-url' => '{{ns:Project}}: داخوازی ھەژمارێک',
+	'wikimedia-developers' => 'پەرەپێدەران',
 );
 
 /** Corsican (corsu)
@@ -9790,7 +9791,7 @@ $messages['ml'] = array(
 അധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.
 കൂടുതൽ വിവരങ്ങൾക്ക് <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
 	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [https://wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്കോ യൂ.ആർ.എല്ലോ മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [https://wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്ക് അല്ലെങ്കിൽ യൂ.ആർ.എൽ. മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'wikibase-sitelinks-wikivoyage' => 'ഈ ഇനവുമായി കണ്ണിചേർത്തിരിക്കുന്ന വിക്കിയാത്ര താളുകൾ',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
 	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
@@ -10127,6 +10128,7 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Permohonan akaun',
 	'createacct-imgcaptcha-help' => 'Tak nampak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon akaun]]',
+	'wikimedia-developers' => 'Pembangun',
 );
 
 /** Maltese (Malti)
@@ -16730,7 +16732,7 @@ $messages['zh-hans'] = array(
 参见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
 	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
 	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
-	'wikibase-sitelinks-wikivoyage' => '链接至该项维基导游页面',
+	'wikibase-sitelinks-wikivoyage' => '链接至该项的维基导游页面',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
