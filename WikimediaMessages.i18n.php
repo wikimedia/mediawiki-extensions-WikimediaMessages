@@ -2760,6 +2760,7 @@ $messages['ce'] = array(
 	'sitesupport' => 'Википедин гӀо дар',
 	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
 	'group-accountcreator' => 'Декъашхойн дӀаяздарш кхуллурш',
+	'group-accountcreator-member' => '{{GENDER:$1|декъашхошан дӀаяздарш кхуллург}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Декъашхойн дӀаяздарш кхуллурш',
 	'group-confirmed' => 'ТӀелаьцболу декъашхой',
 	'grouppage-confirmed' => '{{ns:project}}:ТӀелаьцболу декъашхой',
@@ -16125,7 +16126,7 @@ $messages['vi'] = array(
 các văn bản trong các không gian tên khác được được phát hành theo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons Ghi công–Chia sẻ tương tự">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>;
 các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
-	'wikidata-shortcopyrightwarning' => 'Với việc bấm nút “lưu”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Khi bấm nút "{{int:wikibase-save}}", bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết đến khoản mục này',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
