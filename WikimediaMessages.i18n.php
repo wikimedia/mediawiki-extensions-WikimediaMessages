@@ -2597,6 +2597,8 @@ Za detalje pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use
 	'wikimedia-copyrightwarning' => 'Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike licencom 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL].
 Slažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.
 Za dalje detalje pogledajte [https://wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].', # Fuzzy
+	'createacct-helpusername-url' => 'Project:Korisničko_ime', # Fuzzy
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi da izaberem)]]',
 	'createacct-imgcaptcha-help' => 'Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]',
 );
 
@@ -2617,6 +2619,7 @@ $messages['bxr'] = array(
  * @author McDutchie
  * @author Nemo bis
  * @author Paucabot
+ * @author Qllach
  * @author SMP
  * @author Solde
  * @author Toniher
@@ -2673,7 +2676,7 @@ $messages['ca'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editors de pàgines protegides',
 	'group-eliminator' => 'Eliminadors',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminadors', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminadors',
 	'group-filemover' => 'Desplaçadors de fitxers',
 	'group-filemover-member' => '{{GENDER:$1|desplaçador|desplaçadora}} de fitxers',
 	'grouppage-filemover' => '{{ns:project}}:Desplaçadors de fitxers',
@@ -2734,15 +2737,17 @@ $messages['ca'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Usuaris inactius',
 	'wikimedia-copyright' => 'El text està disponible sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ca">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.
 Vegeu les <a href="https://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">condicions d\'ús</a> per a més informació.',
-	'wikidata-shortcopyrightwarning' => 'En clicar "desa", esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use/ca condicions d\'ús] i accepteu alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/publicdomain/zero/1.0/deed.ca llicència CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'En clicar "desa", esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use/ca condicions d\'ús] i accepteu alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/publicdomain/zero/1.0/deed.ca llicència CC0].',
 	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
+	'wikibase-sitelinks-wikivoyage' => 'Pàgines de Wikivoyage vinculades a aquest element',
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
 	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'usuari",
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ajuda per escollir-ne un)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Sol·licitar un compte',
 	'createacct-imgcaptcha-help' => 'No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]',
+	'wikimedia-developers' => 'Desenvolupadors',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
@@ -14171,7 +14176,7 @@ $messages['sv'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redigerare av skyddade sidor',
 	'group-eliminator' => 'Eliminatorer',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
 	'group-filemover' => 'Filflyttare',
 	'group-filemover-member' => '{{GENDER:$1|filflyttare}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttare',
@@ -14226,6 +14231,8 @@ $messages['sv'] = array(
 	'grouppage-steward' => 'm:Stewards/nb',
 	'group-sysadmin' => 'Systemadministratörer',
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministratör}}',
+	'group-New_wikis_importer' => 'Nya wikiimportörer',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|ny wikiimportör}}',
 	'group-translationadmin' => 'Översättningsadministratörer',
 	'group-translationadmin-member' => '{{GENDER:$1|översättningsadministratör}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Översättningsadministratörer',
@@ -14238,14 +14245,18 @@ $messages['sv'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv användare}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
 	'wikimedia-copyright' => 'Text är tillgänglig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
+	'wikidata-shortcopyrightwarning' => 'Genom att klicka på "{{int:wikibase-save}}" samtycker du till [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och du samtycker oåterkalleligen till att släppa ditt bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ licensen CC0].',
 	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
 	'upload-more-photos-of-this-monument' => 'Ladda upp fler bilder på detta monument',
 	'extdist-branch-REL1_21' => '1.21 (senaste stabila MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Användarnamnspolicy',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Begär ett konto',
 	'createacct-imgcaptcha-help' => 'Kan du inte se bilden? [[{{MediaWiki:createacct-captcha-help-url}}|Begär ett konto]]',
+	'wikimedia-developers' => 'Utvecklare',
 );
 
 /** Swahili (Kiswahili)
