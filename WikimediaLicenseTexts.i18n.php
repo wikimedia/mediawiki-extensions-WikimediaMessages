@@ -2753,7 +2753,7 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-information-author' => 'Autor',
 	'wm-license-information-author-missing' => "Selle faili '''autoriga''' seonduv teave on puudulik.",
 	'wm-license-information-permission' => 'Luba',
-	'wm-license-information-permission-reusing-text' => 'Faili uuesti kasutamine',
+	'wm-license-information-permission-reusing-text' => 'Faili edasikasutus',
 	'wm-license-information-permission-see-below' => 'Vaata allpool.',
 	'wm-license-information-other-versions' => 'Teised versioonid',
 	'wm-license-lgpl-text' => "See teek on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] avaldatud '''[[{{int:wm-license-lgpl-wiki-link}}|GNU  Vähem Üldise Avaliku Litsentsi]]''' versioonis 2.1 või (sinu valikul) hilisemas seatud tingimustele. Seda teeki levitatakse lootuses, et see on kasulik, aga '''igasuguse tagatiseta''', ka kaudse tagatiseta teose '''turustatavuse''' või '''müügikõlblikkuse''' kohta. Üksikasjad leiad [{{int:wm-license-lgpl-2.1-full-link}} GNU Vähem Üldise Avaliku Litsentsi versioonidest 2.1] ja [{{int:wm-license-lgpl-3-full-link}} 3].",

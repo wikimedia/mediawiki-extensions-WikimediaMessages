@@ -1956,7 +1956,7 @@ $messages['be-tarask'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Рэдактары абароненых старонак',
 	'group-eliminator' => 'Выдаляючыя',
 	'group-eliminator-member' => '{{GENDER:$1|выдаляючы|выдаляючая}}',
-	'grouppage-eliminator' => '{{ns:project}}:Выдаляючы', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Выдаляючыя',
 	'group-filemover' => 'Пераносчыкі файлаў',
 	'group-filemover-member' => '{{GENDER:$1|пераносчык файлаў|пераносчыца файлаў}}',
 	'grouppage-filemover' => '{{ns:project}}:Пераносчыкі файлаў',
@@ -1991,7 +1991,7 @@ $messages['be-tarask'] = array(
 	'group-trusted-member' => '{{GENDER:$1|давераны ўдзельнік|давераная ўдзельніца}}',
 	'grouppage-trusted' => '{{ns:project}}:Давераныя ўдзельнікі',
 	'group-uploader' => 'Загружальнікі',
-	'group-uploader-member' => 'загружальнік', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|загружальнік|загружальніца}}',
 	'grouppage-uploader' => '{{ns:project}}:Загружальнікі',
 	'group-Global_bot' => 'Глябальныя робаты',
 	'group-Global_bot-member' => '{{GENDER:$1|глябальны робат}}',
@@ -2033,8 +2033,9 @@ $messages['be-tarask'] = array(
 	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="https://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
 	'wikidata-copyright' => 'Усе структураваныя зьвесткі ў галоўнай прасторы назваў і прасторы ўласьцівасьцяў даступныя на ўмове ліцэнзіі <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; зьмест у іншых прасторах даступны на ўмовах <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; могуць ужывацца дадатковыя ўмовы.
 Глядзіце падрабязнасьці ва <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Ўмовах выкарыстаньня</a>.',
-	'wikidata-shortcopyrightwarning' => 'Націснуўшы «захаваць», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Пстрыкнуўшы «{{int:wikibase-save}}», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].',
 	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
+	'wikibase-sitelinks-wikivoyage' => 'Сьпіс старонак Віківандроўкі, што спасылаюцца на гэты аб’ект',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
@@ -2044,6 +2045,7 @@ $messages['be-tarask'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запыты на стварэньне рахункаў',
 	'createacct-imgcaptcha-help' => 'Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]',
+	'wikimedia-developers' => 'Распрацоўнікі',
 );
 
 /** Bulgarian (български)
@@ -9155,9 +9157,9 @@ $messages['lv'] = array(
 	'grouppage-filemover' => '{{ns:project}}:Failu pārvietotāji',
 	'group-flood' => 'Botu lietotāji',
 	'group-founder' => 'Dibinātāji',
-	'group-founder-member' => 'dibinātājs', # Fuzzy
+	'group-founder-member' => '{{GENDER:$1|dibinātājs|dibinātāja}}',
 	'group-import' => 'Importētāji',
-	'group-import-member' => 'importētājs', # Fuzzy
+	'group-import-member' => '{{GENDER:$1|importētājs|importētāja}}',
 	'grouppage-import' => '{{ns:project}}:Importētāji',
 	'group-transwiki' => 'Transviki importētāji',
 	'group-trusted' => 'Uzticamie lietotāji',
@@ -9169,7 +9171,7 @@ $messages['lv'] = array(
 	'group-sysadmin' => 'Sistēmas administratori',
 	'group-coder' => 'Kodētāji',
 	'group-inactive' => 'Neaktīvi lietotāji',
-	'group-inactive-member' => 'neaktīvs lietotājs', # Fuzzy
+	'group-inactive-member' => '{{GENDER:$1|neaktīvs lietotājs|neaktīva lietotāja}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktīvi lietotāji',
 	'wikimedia-copyright' => 'Teksts ir pieejams saskaņā ar <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike licenci</a>;
 var pastāvēt papildus ierobežojumi.
@@ -14113,6 +14115,7 @@ $messages['su'] = array(
  * @author Jon Harald Søby
  * @author Jopparn
  * @author Lejonel
+ * @author Lokal Profil
  * @author M.M.S.
  * @author Najami
  * @author Nemo bis
@@ -14245,6 +14248,10 @@ $messages['sv'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktiv användare}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktiva användare',
 	'wikimedia-copyright' => 'Text är tillgänglig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv">Creative Commons Erkännande-Dela Lika-licens</a>; ytterligare villkor kan gälla. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Villkor</a> för detaljer.',
+	'wikidata-copyright' => 'All strukturerad data från huvud- eller egenskapsnamnrymden är tillgänglig under en <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.sv" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
+text i övriga namnrymder är tillgänglig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Erkännande-DelaLika licensen</a>
+ytterligare villkor kan tillkomma.
+Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Användarvillkor</a> för detaljer.',
 	'wikidata-shortcopyrightwarning' => 'Genom att klicka på "{{int:wikibase-save}}" samtycker du till [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och du samtycker oåterkalleligen till att släppa ditt bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ licensen CC0].',
 	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
