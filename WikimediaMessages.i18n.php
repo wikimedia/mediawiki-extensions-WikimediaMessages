@@ -4610,6 +4610,7 @@ $messages['ext'] = array(
  * @author Alireza
  * @author Baqeri
  * @author Calak
+ * @author Dalba
  * @author Ebraminio
  * @author Huji
  * @author Ladsgroup
@@ -4664,7 +4665,7 @@ $messages['fa'] = array(
 	'group-botadmin' => 'ربات‌های دارای دسترسی مدیریت',
 	'group-botadmin-member' => '{{GENDER:$1|ربات‌های دارای دسترسی مدیریت}}',
 	'grouppage-botadmin' => '{{ns:project}}:ربات‌های دارای دسترسی مدیریت',
-	'group-confirmed' => 'کاربران تائیدشده',
+	'group-confirmed' => 'کاربران تأییدشده',
 	'group-confirmed-member' => 'کاربران تأییدشده',
 	'grouppage-confirmed' => '{{ns:project}}:کاربران تأییدشده',
 	'group-editprotected' => 'ویرایشگران صفحه‌های محافظت‌شده',
@@ -6197,7 +6198,7 @@ $messages['he'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:עורך דפים מוגנים',
 	'group-eliminator' => 'מוחקים',
 	'group-eliminator-member' => '{{GENDER:$1|מוחק|מוחקת}}',
-	'grouppage-eliminator' => '{{ns:project}}:מוחק', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:מוחקים',
 	'group-filemover' => 'מעבירי קבצים',
 	'group-filemover-member' => '{{GENDER:$1|מעביר|מעבירה}} קבצים',
 	'grouppage-filemover' => '{{ns:project}}:מעביר קבצים',
@@ -6232,7 +6233,7 @@ $messages['he'] = array(
 	'group-trusted-member' => '{{GENDER:$1|משתמש מהימן|משתמשת מהימנה}}',
 	'grouppage-trusted' => '{{ns:project}}:משתמשים מהימנים',
 	'group-uploader' => 'מעלים',
-	'group-uploader-member' => 'מעלה', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|מעלה}}',
 	'grouppage-uploader' => '{{ns:project}}:מעלה',
 	'group-Global_bot' => 'בוטים גלובליים',
 	'group-Global_bot-member' => '{{GENDER:$1|בוט גלובלי}}',
@@ -6274,7 +6275,7 @@ $messages['he'] = array(
 	'shared-repo-name-shared' => 'ויקישיתוף',
 	'wikimedia-copyright' => 'הטקסט מוגש בכפוף לרישיון <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.he">Creative Commons ייחוס-שיתוף זהה 3.0</a>; ייתכן שישנם תנאים נוספים. ראו <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">תנאי שימוש</a> לפרטים.',
 	'wikidata-copyright' => 'כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>',
-	'wikidata-shortcopyrightwarning' => 'לחיצה על "שמירה" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'לחיצה על "{{int:wikibase-save}}" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].',
 	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [https://creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [https://www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'דפי ויקימסע שמקושרים לפריט הזה',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
@@ -6286,6 +6287,7 @@ $messages['he'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]',
+	'wikimedia-developers' => 'מפתחים',
 );
 
 /** Hindi (हिन्दी)
@@ -15473,6 +15475,7 @@ $messages['ug-latn'] = array(
  * @author Base
  * @author Dim Grits
  * @author Ickis
+ * @author Lystopad
  * @author Microcell
  * @author NickK
  * @author Platonides
@@ -15629,6 +15632,9 @@ $messages['uk'] = array(
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
 	'extdist-branch-master' => 'майстер (остання розроблена версія)',
 	'extdist-branch-REL1_21' => '1.21 (остання стабільна MediaWiki)',
+	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|допоможіть мені вибрати]])',
+	'createacct-imgcaptcha-help' => 'Не можете побачити зображення? [[{{MediaWiki:createacct-captcha-help-url}}|Запит облікового запису]]',
+	'wikimedia-developers' => 'Розробники',
 );
 
 /** Urdu (اردو)
