@@ -3154,7 +3154,7 @@ $messages['cy'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Golygyddion tudalennau wedi'u diogelu",
 	'group-eliminator' => 'Dilëwyr',
 	'group-eliminator-member' => 'dilëwr',
-	'grouppage-eliminator' => '{{ns:project}}:Dilëwr', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Dilëwyr',
 	'group-filemover' => 'Symudwyr ffeiliau',
 	'group-filemover-member' => 'symudwr ffeiliau',
 	'grouppage-filemover' => '{{ns:project}}:Symudwyr ffeiliau',
@@ -3189,7 +3189,7 @@ $messages['cy'] = array(
 	'group-trusted-member' => 'defnyddiwr dibynadwy',
 	'grouppage-trusted' => '{{ns:project}}:Defnyddwyr dibynadwy',
 	'group-uploader' => 'Uwchlwythwyr',
-	'group-uploader-member' => 'uwchlwythwr', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|uwchlwythwr}}',
 	'grouppage-uploader' => '{{ns:project}}:Uwchlwythwyr',
 	'group-Global_bot' => 'Botiau cydwici',
 	'group-Global_bot-member' => 'bot cydwici',
@@ -3228,7 +3228,7 @@ Gweler <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Telerau Defny
 mae testun yn y parthau eraill ar gael yn ôl termau\'r drwydded <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Diffiniad y Drwydded Creative Commons Attribution/Share-Alike">Creative Commons Attribution/Share-Alike</a>;
 gall termau ychwanegol fod yn weithredol.
 Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Termau Defnyddio Sefydliad Wikimedia">Termau Defnyddio</a> am fanylion.',
-	'wikidata-shortcopyrightwarning' => 'Wrth bwyso ar "cadwer", rydych yn derbyn y [https://wikimediafoundation.org/wiki/Terms_of_Use telerau defnyddio], ac yn cytuno\'n ddi-droi-nôl i ryddhau eich cyfraniad gyda  [https://creativecommons.org/publicdomain/zero/1.0/ thrwydded CC0] arno.', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Wrth bwyso ar "{{int:wikibase-save}}", rydych yn derbyn y [https://wikimediafoundation.org/wiki/Terms_of_Use telerau defnyddio], ac yn cytuno\'n ddi-droi-nôl i ryddhau eich cyfraniad gyda  [https://creativecommons.org/publicdomain/zero/1.0/ thrwydded CC0] arno.',
 	'wikimedia-copyrightwarning' => "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a'r [https://www.gnu.org/copyleft/fdl.html GFDL].
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
@@ -8291,7 +8291,7 @@ $messages['ko'] = array(
 	'specialpages-group-contribution' => '기부 및 모금',
 	'nstab-creator' => '작가',
 	'nstab-institution' => '기관',
-	'nstab-sequence' => '비디오 시퀀스',
+	'nstab-sequence' => '시퀀스',
 	'nstab-timedtext' => '자막',
 	'group-Ex_Administrator' => '전직 관리자',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|전직 관리자}}',
@@ -8371,12 +8371,12 @@ $messages['ko'] = array(
 	'group-uploader' => '업로더',
 	'group-uploader-member' => '{{GENDER:$1|업로더}}',
 	'grouppage-uploader' => '{{ns:project}}:업로더',
-	'group-Global_bot' => '글로벌 봇',
-	'group-Global_bot-member' => '{{GENDER:$1|글로벌 봇}}',
-	'group-Global_rollback' => '글로벌 롤배커',
-	'group-Global_rollback-member' => '{{GENDER:$1|글로벌 롤배커}}',
-	'group-Global_sysops' => '글로벌 관리자',
-	'group-Global_sysops-member' => '{{GENDER:$1|글로벌 관리자}}',
+	'group-Global_bot' => '전역 봇',
+	'group-Global_bot-member' => '{{GENDER:$1|전역 봇}}',
+	'group-Global_rollback' => '전역 롤배커',
+	'group-Global_rollback-member' => '{{GENDER:$1|전역 롤배커}}',
+	'group-Global_sysops' => '전역 관리자',
+	'group-Global_sysops-member' => '{{GENDER:$1|전역 관리자}}',
 	'group-Ombudsmen' => '옴부즈맨',
 	'group-Ombudsmen-member' => '{{GENDER:$1|옴부즈맨}}',
 	'group-Staff' => '임원',
