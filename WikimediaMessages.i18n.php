@@ -2938,6 +2938,7 @@ $messages['crh-latn'] = array(
  * @author Li-sung
  * @author Littledogboy
  * @author Matěj Grabovský
+ * @author Michaelbrabec
  * @author Mormegil
  * @author Ragimiri
  */
@@ -3077,6 +3078,7 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomozte mi s výběrem)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Žádost o účet',
 	'createacct-imgcaptcha-help' => 'Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]].',
+	'wikimedia-developers' => 'Vývojáři',
 );
 
 /** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -13965,6 +13967,7 @@ $messages['sr-el'] = array(
 	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/">Krijejtiv komons Autorstvo-Deliti pod istim uslovima</a>;
 dodatni uslovi se mogu primeniti.
 Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
+	'wikidata-copyright' => 'Svi strukturisani podaci iz glavnog i svojstva imenskog prostora su dostupni pod licencom <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; tekst iz drugih imenskih prostora je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Autorstvo-Deliti pod istim uslovima 3.0</a>; mogući su i dodatni uslovi. Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Uslove korišćenja</a> za više informacija.',
 	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
 Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.', # Fuzzy
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
@@ -15471,6 +15474,7 @@ $messages['ug-latn'] = array(
  * @author AS
  * @author Ahonc
  * @author Alex Khimich
+ * @author Andriykopanytsia
  * @author AtUkr
  * @author Base
  * @author Dim Grits
@@ -15536,7 +15540,7 @@ $messages['uk'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Редактори захищених сторінок',
 	'group-eliminator' => 'Вилучальники',
 	'group-eliminator-member' => '{{GENDER:$1|вилучальник|вилучальниця}}',
-	'grouppage-eliminator' => '{{ns:project}}:Вилучальники', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Вилучальники',
 	'group-filemover' => 'Перейменувальники файлів',
 	'group-filemover-member' => 'перейменувальник файлів',
 	'grouppage-filemover' => '{{ns:project}}:Перейменувальники файлів',
@@ -15571,7 +15575,7 @@ $messages['uk'] = array(
 	'group-trusted-member' => 'довірений користувач',
 	'grouppage-trusted' => '{{ns:project}}:Довірені користувачі',
 	'group-uploader' => 'Завантажувачі',
-	'group-uploader-member' => 'завантажувач', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|вивантажувач|вивантажувачка}}',
 	'grouppage-uploader' => '{{ns:project}}:Завантажувачі',
 	'group-Global_bot' => 'Глобальні боти',
 	'group-Global_bot-member' => '{{GENDER:$1|глобальний бот}}',
@@ -15624,7 +15628,7 @@ $messages['uk'] = array(
 текст інших просторів назв доступний під ліцензією <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
 можуть застосовуватись додаткові умови.
 Див. детальніше <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
-	'wikidata-shortcopyrightwarning' => 'Натиснувши «Зберегти», ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Натиснувши  "{{int:wikibase-save}}", ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
@@ -15632,7 +15636,9 @@ $messages['uk'] = array(
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
 	'extdist-branch-master' => 'майстер (остання розроблена версія)',
 	'extdist-branch-REL1_21' => '1.21 (остання стабільна MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Політика_імені_користувача',
 	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|допоможіть мені вибрати]])',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Запит облікового запису',
 	'createacct-imgcaptcha-help' => 'Не можете побачити зображення? [[{{MediaWiki:createacct-captcha-help-url}}|Запит облікового запису]]',
 	'wikimedia-developers' => 'Розробники',
 );
