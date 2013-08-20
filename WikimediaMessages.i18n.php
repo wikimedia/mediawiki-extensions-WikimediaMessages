@@ -2788,7 +2788,7 @@ $messages['ce'] = array(
 	'group-sysadmin' => 'Системин куьйгалхой',
 	'shared-repo-name-shared' => 'Викигулам',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
-	'wikimedia-copyrightwarning' => 'Хийцамаш lалашбеш, хьан пурбанца уьш чутохар йуха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тlаьхь болу агlо лелош, хьуна тlе хьажориг йирайу, оцу лаккхар хьажоригех йа URL, йогlучу агlон тlе.
+	'wikimedia-copyrightwarning' => 'Хийцамаш Ӏалашбеш, хьан пурбанца уьш чутохар юха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тӀаьхь болу агӀо лелош, хьуна тӀе хьажориг йийра ю, оцу лаккхар хьажоригех я URL, йогӀучу агӀон тӀе.
 Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
 );
 
@@ -7528,7 +7528,7 @@ $messages['it'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Modificatori di pagine protette',
 	'group-eliminator' => 'Cancellatori',
 	'group-eliminator-member' => '{{GENDER:$1|cancellatore|cancellatrice|cancellatore/trice}}',
-	'grouppage-eliminator' => '{{ns:project}}:Cancellatori', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Cancellatori',
 	'group-filemover' => 'Spostatori di file',
 	'group-filemover-member' => '{{GENDER:$1|spostatore di file|spostatrice di file|spostatore/trice di file}}',
 	'grouppage-filemover' => '{{ns:project}}:Spostatori di file',
@@ -7622,6 +7622,7 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Richieste di utenze',
 	'createacct-imgcaptcha-help' => "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
+	'wikimedia-developers' => 'Sviluppatori',
 );
 
 /** Japanese (日本語)

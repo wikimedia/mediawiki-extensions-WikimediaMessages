@@ -2647,7 +2647,7 @@ $messages['ca'] = array(
 	'wm-license-cc-conditions-attribution-text' => "Heu d'atribuir els crèdits de l'obra de la manera especificada per l'autor o titular (però no d'una manera que suggereixi que us donen suport o rebeu suport per l'ús que en feu).",
 	'wm-license-cc-conditions-share_alike-header' => 'compartir igual',
 	'wm-license-cc-conditions-share_alike-text' => "Si transformeu o modifiqueu aquesta obra per generar-ne una derivada, només podreu distribuir l'obra resultant amb la mateixa llicència, una de similar o una de compatible.",
-	'wm-license-cc-pd-mark-text' => "Aquest fitxer està identificat com a lliure de de restriccions conegudes sota la llei de drets d'autor, inclosos els drets veïns.",
+	'wm-license-cc-pd-mark-text' => "Aquest fitxer està identificat com a lliure de restriccions conegudes sota la llei de drets d'autor, inclosos els drets veïns.",
 );
 
 /** Sorani Kurdish (کوردی)
