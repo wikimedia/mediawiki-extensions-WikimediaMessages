@@ -2245,7 +2245,7 @@ $messages['bn'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:সুরক্ষিত পাতা সম্পাদক',
 	'group-eliminator' => 'এলিমিনাটর',
 	'group-eliminator-member' => '{{GENDER:$1|এলিমিনাটর}}',
-	'grouppage-eliminator' => '{{ns:project}}:এলিমিনাটর', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:এলিমিনাটর',
 	'group-filemover' => 'ফাইল মুভার',
 	'group-filemover-member' => '{{GENDER:$1|ফাইল মুভার}}',
 	'grouppage-filemover' => '{{ns:project}}:ফাইল অপসারক',
@@ -2332,6 +2332,7 @@ $messages['bn'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(বাছাই করতে আমাকে সাহায্য করুন)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:অ্যাকাউন্টের জন্য অনুরোধ',
 	'createacct-imgcaptcha-help' => 'ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]]',
+	'wikimedia-developers' => 'উন্নয়নকারী',
 );
 
 /** Tibetan (བོད་ཡིག)
@@ -4475,6 +4476,7 @@ Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüp
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(aita mul valida)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Konto taotlemine',
 	'createacct-imgcaptcha-help' => 'Kas sa ei näe pilti? [[{{MediaWiki:createacct-captcha-help-url}}|Taotle kontot]]',
+	'wikimedia-developers' => 'Arendajad',
 );
 
 /** Basque (euskara)
@@ -11400,7 +11402,7 @@ $messages['pl'] = array(
 	'group-trusted-member' => '{{GENDER:$1|zaufany użytkownik|zaufana użytkowniczka}}',
 	'grouppage-trusted' => '{{ns:project}}:Zaufani użytkownicy',
 	'group-uploader' => 'Przesyłający pliki',
-	'group-uploader-member' => 'przesyłający pliki', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|przesyłający pliki|przesyłająca pliki}}',
 	'grouppage-uploader' => '{{ns:project}}:Przesyłający pliki',
 	'group-Global_bot' => 'Boty globalne',
 	'group-Global_bot-member' => '{{GENDER:$1|bot globalny}}',
@@ -11421,6 +11423,8 @@ $messages['pl'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|administrator|administratorka}} systemu',
 	'group-API_High_Limit_Requestor' => 'Użytkownicy z wysokimi limitami na żądania API',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Użytkownik|Użytkowniczka}} z wysokimi limitami na żądania API',
+	'group-Indic_Bots' => 'boty z Indii',
+	'group-Indic_Bots-member' => '{{GENDER:$1|bot z Indii}}',
 	'group-New_wikis_importer' => 'Importerzy nowych wiki',
 	'group-translationadmin' => 'Administratorzy tłumaczeń',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator|administratorka}} tłumaczeń',
@@ -16618,6 +16622,7 @@ $messages['zea'] = array(
  * @author Byfserag
  * @author Gaoxuewei
  * @author Hydra
+ * @author Hzy980512
  * @author Jimmy xu wrk
  * @author KaiesTse
  * @author Liangent
@@ -16775,6 +16780,7 @@ $messages['zh-hans'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(帮我选择)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:账号请求',
 	'createacct-imgcaptcha-help' => '无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]',
+	'wikimedia-developers' => '开发者',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
