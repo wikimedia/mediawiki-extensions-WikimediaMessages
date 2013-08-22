@@ -4433,6 +4433,9 @@ $messages['et'] = array(
 	'group-trusted' => 'Usaldusväärsed kasutajad',
 	'group-trusted-member' => 'usaldusväärne kasutaja',
 	'grouppage-trusted' => '{{ns:project}}:Usaldusväärsed kasutajad',
+	'group-uploader' => 'Üleslaadijad',
+	'group-uploader-member' => '{{GENDER:$1|üleslaadija}}',
+	'grouppage-uploader' => '{{ns:project}}:Üleslaadijad',
 	'group-Global_bot' => 'Globaalsed robotid',
 	'group-Global_bot-member' => 'globaalne robot',
 	'group-Global_rollback' => 'Globaalsed tühistajad',
@@ -6108,7 +6111,7 @@ $messages['gu'] = array(
 	'wikimedia-copyright' => 'આ લેખન <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>હેઠળ ઉપલબ્ધ છે;
 વધારાની શરતો લાગુ છે.
 વધુ માહિતી માટે <a href="https://wikimediafoundation.org/wiki/Terms_of_use">વપરાશની શરતો</a> જુઓ .',
-	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [https://wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [https://www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહિં ઉપલબ્ધ કરાવો છો.
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [https://wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [https://www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહીં ઉપલબ્ધ કરાવો છો.
 તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
 );
