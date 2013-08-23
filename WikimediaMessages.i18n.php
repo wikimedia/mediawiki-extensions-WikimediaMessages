@@ -11451,6 +11451,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'extdist-branch-REL1_21' => '1.21 (najnowsza stabilna wersja MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Nazwa_użytkownika',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]',
+	'wikimedia-developers' => 'Twórcy',
 );
 
 /** Piedmontese (Piemontèis)
