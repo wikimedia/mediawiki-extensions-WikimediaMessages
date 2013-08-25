@@ -3909,6 +3909,7 @@ $messages['ee'] = array(
  * @author Lou
  * @author Nikosguard
  * @author Omnipaedista
+ * @author Xaris333
  * @author ZaDiak
  * @author Απεργός
  */
@@ -4026,6 +4027,7 @@ $messages['el'] = array(
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "Αποθήκευση", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
+	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από Βικιταξίδια συνδεδεμένοι με το αντικείμενο',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
@@ -12520,6 +12522,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
  * @author Ferrer
  * @author Flrn
  * @author HalanTul
+ * @author Ignatus
  * @author Illusion
  * @author Kaganer
  * @author Kalan
@@ -12581,7 +12584,7 @@ $messages['ru'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Редакторы защищённых страниц',
 	'group-eliminator' => 'Удаляющие',
 	'group-eliminator-member' => '{{GENDER:$1|удаляющий|удаляющая}}',
-	'grouppage-eliminator' => '{{ns:project}}:Удаляющие', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Удаляющие',
 	'group-filemover' => 'Переименовывающие файлы',
 	'group-filemover-member' => '{{GENDER:$1|переименовывающий файлы|переименовывающая файлы}}',
 	'grouppage-filemover' => '{{ns:project}}:Переименовывающие файлы',
@@ -12616,7 +12619,7 @@ $messages['ru'] = array(
 	'group-trusted-member' => '{{GENDER:$1|доверенный участник|доверенная участница}}',
 	'grouppage-trusted' => '{{ns:project}}:Доверенные участники',
 	'group-uploader' => 'Загружающие',
-	'group-uploader-member' => 'загружающий', # Fuzzy
+	'group-uploader-member' => 'загружающ{{GENDER:$1|ий|ая}}',
 	'grouppage-uploader' => '{{ns:project}}:Загружающие',
 	'group-Global_bot' => 'Глобальные боты',
 	'group-Global_bot-member' => '{{GENDER:$1|глобальный бот}}',
@@ -12646,6 +12649,7 @@ $messages['ru'] = array(
 	'group-global-ipblock-exempt' => 'Глобальные исключения из IP-блокировок',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|глобальное исключение из IP-блокировок}}',
 	'group-recursive-export' => 'Рекурсивный экспорт',
+	'group-recursive-export-member' => 'Рекурсивно экспортирующ{{GENDER:$1|ий|ая}}',
 	'group-translationadmin' => 'Администраторы перевода',
 	'group-translationadmin-member' => '{{GENDER:$1|администратор перевода}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Администраторы перевода',
@@ -12660,11 +12664,19 @@ $messages['ru'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Неактивные участники',
 	'shared-repo-name-shared' => 'Викисклада',
 	'wikimedia-copyright' => 'Текст доступен по <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">лицензии Creative Commons Attribution/Share-Alike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Условия использования</a>.',
+	'wikidata-copyright' => 'Все структурированные данные основного пространства имён и пространства имён “Property” доступны по <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">лицензии Creative Commons CC0</a>; текст в других пространствах имён доступен по <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">лицензии Creative Commons Attribution/Share-Alike</a>;
+ могут действовать дополнительные условия.
+Подробнее смотрите в разделе «<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Условия использования</a>» .',
+	'wikidata-shortcopyrightwarning' => 'Нажимая "{{int:wikibase-save}}", вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use условиями использования], и даёте неотзывное согласие на публикацию своего вклада на условиях [https://creativecommons.org/publicdomain/zero/1.0/ лицензии CC0].',
 	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Страницы Викигида, связанные с этим элементом',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогите выбрать)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Запросить учётную запись',
+	'createacct-imgcaptcha-help' => 'Не видите изображение? [[{{MediaWiki:createacct-captcha-help-url}}|Запросите учётную запись]]',
+	'wikimedia-developers' => 'Разработчики',
 );
 
 /** Rusyn (русиньскый)
