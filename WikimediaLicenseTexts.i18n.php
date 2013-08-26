@@ -140,8 +140,16 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'wikimedialicensetexts-desc' => '{{desc|name=Wikimedia License Texts|url=http://www.mediawiki.org/wiki/Extension:WikimediaMessages}}',
-	'wm-license-attribution-with-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when an author is set.',
-	'wm-license-attribution-without-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when no author is set.',
+	'wm-license-attribution-with-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when an author is set.
+
+Parameters:
+* $1 - the copyright holder
+See also:
+* {{msg-mw|Wm-license-attribution-without-author-text}}',
+	'wm-license-attribution-without-author-text' => 'This message will be used at [[Commons:Template:Attribution]] when no author is set.
+
+See also:
+* {{msg-mw|Wm-license-attribution-with-author-text}}',
 	'wm-license-artwork-artist' => 'Label "Artist" at [[Commons:Template:Artwork]].
 {{Identical|Artist}}',
 	'wm-license-artwork-title' => 'Label "Title" at [[Commons:Template:Artwork]], mostly used to list titles of paintings, sculptures, and other artworks
@@ -251,14 +259,18 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 	'wm-license-pd-usgov-military-navy-wiki-link' => '{{Optional}}',
 	'wm-license-pd-usgov-noaa-wiki-link' => '{{Optional}}',
 	'wm-license-pd-wiki-link' => '{{optional}}',
-	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self]]',
-	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self]]',
-	'wm-license-self-multiple-licenses' => 'You can peek at [[Commons:Template:Self]]',
-	'wm-license-self-multiple-licenses-with-author' => 'This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]]
-* {{msg-mw|wm-license-self-multiple-licenses}}
-* {{msg-mw|wm-license-self-multiple-licenses-with-author}}
-* {{msg-mw|wm-license-self-one-license}}
-* {{msg-mw|wm-license-self-one-license-with-author}}',
+	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self]].
+{{Related|Wm-license-self}}',
+	'wm-license-self-one-license-with-author' => 'You can peek at [[Commons:Template:Self]]. Parameters:
+* $1 - the copyright holder
+{{Related|Wm-license-self}}',
+	'wm-license-self-multiple-licenses' => 'You can peek at [[Commons:Template:Self]].
+{{Related|Wm-license-self}}',
+	'wm-license-self-multiple-licenses-with-author' => 'This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]].
+
+Parameters:
+* $1 - the copyright holder
+{{Related|Wm-license-self}}',
 );
 
 /** Afrikaans (Afrikaans)
@@ -4495,25 +4507,25 @@ $messages['ig'] = array(
  */
 $messages['ilo'] = array(
 	'wikimedialicensetexts-desc' => 'Dagiti mensahe ti lisensia ti Wikimedia',
-	'wm-license-attribution-with-author-text' => "Ti nagtengngel ti karbengan ti kopia iti daytoy a papeles, $1, ket palubosan na ti sinoman nga agusar '''para iti ania man a panggep, a maipasaganaan''' a ti nagtengngel ti karbengan ti kopia ket maitutup a mapadayawan. Ti pinagiwaras, ti naigapu nga obra, komersial a pinag-usar, ken amin a pinag-usar a maipalubosan.",
-	'wm-license-attribution-without-author-text' => "Ti nagtengngel ti karbengan ti kopia iti daytoy a papeles, ket palubosan na ti sinoman nga agusar '''para iti ania man a panggep, a maipasaganaan''' a ti nagtengngel ti karbengan ti kopia ket maitutup a mapadayawan. Ti pinagiwaras, ti naigapu nga obra, komersial a pinag-usar, ken amin a pinag-usar a maipalubosan.",
+	'wm-license-attribution-with-author-text' => "Ti nagtengngel ti karbengan ti kopia iti daytoy a papeles, $1, ket mangipalubos ti sinoman nga agusar '''para iti ania man a panggep, no maipasaganaan''' a ti nagtengngel ti karbengan ti kopia ket maitutup a mapadayawan. Ti panagiwaras, deribatibo nga obra, komersial a panag-usar, ken amin a maipalubos a panag-usar.",
+	'wm-license-attribution-without-author-text' => "Ti nagtengngel ti karbengan ti kopia iti daytoy a papeles, ket mangpalubos ti sinoman nga agusar '''para iti ania man a panggep, no maipasaganaan''' a ti nagtengngel ti karbengan ti kopia ket maitutup a mapadayawan. Ti panagiwaras, deribatibo nga obra, komersial a panag-usar, ken amin a maipalubos a panag-usar.",
 	'wm-license-artwork-artist' => 'Artista',
 	'wm-license-artwork-title' => 'Titulo',
-	'wm-license-artwork-medium' => 'Akin-tengnga',
+	'wm-license-artwork-medium' => 'Pamay-an',
 	'wm-license-artwork-dimensions' => 'Dagiti rukod',
 	'wm-license-artwork-current-location' => 'Agdama a lokasion',
 	'wm-license-artwork-object-history' => 'Pakasaritaan ti banag',
 	'wm-license-artwork-credit-line' => 'Pammadayaw a linia',
-	'wm-license-artwork-references' => 'Pinagibasaran',
-	'wm-license-artwork-inscriptions' => 'Dagiti naisurat',
-	'wm-license-artwork-notes' => 'Dagiti naisurat a pakaammo',
-	'wm-license-artwork-id' => 'Dagiti mainayon a numero',
+	'wm-license-artwork-references' => 'Dagiti nagibasaran',
+	'wm-license-artwork-inscriptions' => 'Dagiti sinuratan',
+	'wm-license-artwork-notes' => 'Dagiti nota',
+	'wm-license-artwork-id' => 'Pananginayon a numero',
 	'wm-license-artwork-source' => 'Taudan/Retratista',
 	'wm-license-book-edition' => 'Edision',
 	'wm-license-book-editor' => 'Mannurat',
 	'wm-license-book-illustrator' => 'Nagpangngarigan',
 	'wm-license-book-language' => 'Pagsasao',
-	'wm-license-book-page-overview' => 'Kinabuklan ti panid',
+	'wm-license-book-page-overview' => 'Pakabuklan ti panid',
 	'wm-license-book-place-of-publication' => 'Lugar iti nakaipablaakan',
 	'wm-license-book-printer' => 'Nagmaldit',
 	'wm-license-book-publisher' => 'Nangipablaak',
@@ -4524,55 +4536,61 @@ $messages['ilo'] = array(
 	'wm-license-book-translator' => 'Nagipatarus',
 	'wm-license-book-volume' => 'Tomo',
 	'wm-license-book-year-of-publication' => 'Tawen a naipablaak',
-	'wm-license-cecill-text' => 'Daytoy nga obra ket [[{{int:wm-license-free-software-wiki-link}}|nawaya a software]]; maiwaras mo wenno mabaliwam babaen ti banag iti [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. 
-Dagiti banag iti CeCILL a lisensia ket magun-od idiay [{{int:wm-license-cecill-full-link}} www.cecill.pakaammo].',
+	'wm-license-cecill-text' => 'Daytoy nga obra ket [[{{int:wm-license-free-software-wiki-link}}|nawaya a sopwer]]; mabalinmo nga iwaras wenno baliwan babaen kadagiti termino iti [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. 
+Dagiti termino ti lisensia ti CeCILL ket magun-od idiay [{{int:wm-license-cecill-full-link}} www.cecill.info].',
 	'wm-license-creator-alternative-names' => 'Dagiti sabali a nagan',
 	'wm-license-creator-description' => 'Deskripsion',
-	'wm-license-creator-date-of-birth' => 'Petsa iti panakaipasngay',
-	'wm-license-creator-date-of-birth-and-death' => 'Petsa ti panakaipasngay/pimmusay',
+	'wm-license-creator-date-of-birth' => 'Petsa iti pannakaipasngay',
+	'wm-license-creator-date-of-birth-and-death' => 'Petsa ti pannakaipasngay/ipupusay',
 	'wm-license-creator-location-of-birth' => 'Lokasion ti nakaipasngayan',
 	'wm-license-creator-location-of-birth-and-death' => 'Lokasion ti nakaipasngayan/pimmusayan',
 	'wm-license-creator-work-period' => 'Panawen ti obra',
 	'wm-license-creator-work-location' => 'Lokasion ti obra',
-	'wm-license-creator-linkback' => 'Isilpo idiay Nagaramid infobox a plantilia',
-	'wm-license-fal-text' => "Copyleft: Daytoy nga obra nga arte ket nawaya; mabalin mo nga iwaras ken/wenno baliwansegun ti sakup iti '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Makabiruk ka ti kita ti lisensia idiay [{{int:wm-license-fal-full-link}} Copyleft Attitude a pagsaadan ] ken iti sabali pay  a dagiti pagsaadan.",
+	'wm-license-creator-linkback' => 'Isilpo idiay infobox a plantilia ti Nagaramid',
+	'wm-license-fal-text' => "Copyleft: Daytoy nga obra ti arte ket nawaya; mabalinmo nga iwaras ken/wenno baliwan segun ti termino iti '''[[{{int:wm-license-fal-wiki-link}}|Lisensia ti Nawaya nga Arte]]'''. Makabirukka ti kita iti daytoy a lisensia idiay [{{int:wm-license-fal-full-link}} sitio ti Copyleft Attitude] ken dagiti pay sabali a sitio.",
 	'wm-license-free-software-wiki-link' => 'w:ilo:Nawaya a software',
-	'wm-license-gfdl-1.2-and-later' => "Nagited ti pammalubos ti agkopia, agiwaras ken/wenno agibaliw iti daytoy a dokumento babaen ti sakup iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.2 wenno ania man a kinaudi a bersion babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Teksto, ken dagiti Likudan nga Aklub a Teksto. Ti kopia ti lisensia ket nairaman idiay paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
-	'wm-license-gfdl-1.2-only' => "Nagited ti pammalubos ti agkopia, agiwaras ken/wenno agibaliw iti daytoy a dokumento babaen ti sakup iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.2 laeng a naipablaak ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan agiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Teksto, ken dagiti Likudan nga Aklub a Teksto. Ti kopia ti lisensia ket nairaman idiay paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-and-later' => "Maited ti pammalubos ti agkopia, agiwaras ken/wenno mangbaliw iti daytoy a dokumento babaen ti termino iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.2 wenno ti aniaman a kinaudi a bersion babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Testo, ken dagiti Likudan nga Aklub a Testo. Ti kopia ti lisensia ket nairaman iti paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.2-only' => "Maited ti pammalubos ti agkopia, agiwaras ken/wenno mangbaliw iti daytoy a dokumento babaen ti termino iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.2 laeng a naipablaak babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Testo, ken dagiti Likudan nga Aklub a Testo. Ti kopia ti lisensia ket nairaman iti paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-1.2-only-header' => '1.2&nbsp;laeng',
-	'wm-license-gfdl-1.3-and-later' => "Nagited ti pammalubos ti agkopia, agiwaras ken/wenno agibaliw iti daytoy a dokumento babaen ti sakup iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.3 wenno ania man a kinaudi a bersion a naipablaak ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Teksto, ken dagiti Likudan nga Aklub a Teksto. Ti kopia ti lisensia ket nairaman idiay paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
-	'wm-license-gfdl-1.3-only' => "Nagited ti pammalubos ti agkopia, agiwaras ken/wenno agibaliw iti daytoy a dokumento babaen ti sakup iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.3 laeng a naipablaak ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Teksto, ken dagiti Likudan nga Aklub a Teksto. Ti kopia ti lisensia ket nairaman idiay paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-and-later' => "Maited ti pammalubos ti agkopia, agiwaras ken/wenno mangibaliw iti daytoy a dokumento babaen ti termino iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.3 wenno aniaman a kinaudi a bersion a naipablaak babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Testo, ken dagiti Likudan nga Aklub a Testo. Ti kopia ti lisensia ket nairaman iti paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	'wm-license-gfdl-1.3-only' => "Maited ti pammalubos ti agkopia, agiwaras ken/wenno mangibaliw iti daytoy a dokumento babaen ti termino iti '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersion 1.3 laeng a naipablaak babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  nga awan dagiti Sabsabali a Paset, awan dagiti Sanguan nga Aklub a Testo, ken dagiti Likudan nga Aklub a Testo. Ti kopia ti lisensia ket nairaman iti paset a natituluan ti ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	'wm-license-gfdl-wiki-link' => 'w:ilo:GNU Free Documentation License',
-	'wm-license-gpl-text' => "Daytoy nga obra ket [[{{int:wm-license-free-software-wiki-link}}|nawaya a software]]; mabalin mo nga iwaras ken/wenno mabaliwam babaen ti sakup ti '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' a naipablaak ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; uray no ti bersion 2 iti daytoy a lisensia, wenno ania man a kinaudi a bersion. Daytoy nga obra ket naiwarwaras nga addaan ti namnama a makatultulong to, ngem '''awan ti ania man a garantia'''; nga awan pay ti naipaltiing a garantia ti '''pannakailaklako'' wenno '''mainugot para iti daytoy a panggep'''. Kitaen ti [{{int:wm-license-gpl-2-full-link}} bersion 2] ken [{{int:wm-license-gpl-3-full-link}} bersion 3 iti GNU General Public License] para dagiti adu pay a detalye.",
+	'wm-license-gpl-text' => "Daytoy nga obra ket [[{{int:wm-license-free-software-wiki-link}}|nawaya a sopwer]]; mabalinmo nga iwaras ken/wenno mangibaliw babaen ti termino ti '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' a naipablaak babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; urayno ti bersion 2 iti daytoy a lisensia, wenno aniaman a kinaudi a bersion. Daytoy nga obra ket naiwarwaras nga addaan ti namnama a makatultulongto, ngem '''awan ti aniaman a garantia'''; nga awan pay ti naipaltiing a garantia ti '''pannakailaklako'' wenno '''mainugot para iti daytoy a panggep'''. Kitaen ti [{{int:wm-license-gpl-2-full-link}} bersion 2] ken [{{int:wm-license-gpl-3-full-link}} bersion 3 iti GNU General Public License] para kadagiti adu pay a salaysay.",
 	'wm-license-gpl-wiki-link' => 'w:ilo:GPL',
-	'wm-license-information-table-summary' => 'Maysa a pagalagadan a tabla nga agited ti sibubukel a pakaammo a maipanggep ti papeles, a mairaman ti deskripsion no ania ti ipakita ken kasano nga naaramid, ti kasasaad ti karbengan ti kopia ken taudan.',
+	'wm-license-information-table-summary' => 'Ti maysa a pagalagadan a tabla nga agited ti sibubukel a pakaammo a maipanggep ti papeles, a mairaman ti deskripsion no ania ti ipakitana ken kasano ti pannakaaramidna, ti kasasaad ti karbengan ti kopia ken taudan.',
 	'wm-license-information-description' => 'Deskripsion',
-	'wm-license-information-description-missing' => 'Daytoy a papeles ket awanen ti "panangipalpalawag", ken baka awan pay dagita sabali a pakaammo.',
-	'wm-license-information-description-missing-request' => 'Pangngaasi nga agited ti makaibuksilan a panagipalpalawag iti daytoy a papeles.',
+	'wm-license-information-description-missing' => 'Daytoy a papeles ket awan ti "deskripsionna", ken mabalin nga awan pay dagiti sabali a pakaammo.',
+	'wm-license-information-description-missing-request' => 'Pangngaasi nga agited ti adda kaibuksilanna a deskripsion iti daytoy a papeles.',
 	'wm-license-information-source' => 'Taudan',
-	'wm-license-information-source-missing' => 'Daytoy a papeles ket awanen ti "taudan" a pakaammo',
-	'wm-license-information-source-missing-request' => 'Pangngaasi nga urnosen panangipalpalawag iti daytoy a papeles ken agikabil ti nagtaudan.',
+	'wm-license-information-source-missing' => 'Daytoy a papeles ket awan ti "taudan" a pakaammo.',
+	'wm-license-information-source-missing-request' => 'Pangngaasi nga urnosen ti deskripsion daytoy a papeles ken mangited ti nagtaudan.',
 	'wm-license-information-date' => 'Petsa',
 	'wm-license-information-author' => 'Mannurat',
-	'wm-license-information-author-missing' => 'Daytoy a papeles ket awanen ti "mannurat" a pakaammo',
+	'wm-license-information-author-missing' => 'Daytoy a papeles ket awan ti "mannurat" a pakaammo.',
 	'wm-license-information-permission' => 'Pammalubos',
-	'wm-license-information-permission-reusing-text' => 'Ti pinagusar manen iti daytoy a papeles',
+	'wm-license-information-permission-reusing-text' => 'Ti panagusar manen iti daytoy a papeles',
 	'wm-license-information-permission-see-below' => 'Kitaen dita baba.',
-	'wm-license-information-other-versions' => 'Dagiti sabsabali a bersion',
-	'wm-license-lgpl-text' => "Daytoy a bibliotika ket [[{{int:wm-license-free-software-wiki-link}}|nawaya a software]]; mabalin mo nga iwaras ken/wenno mabaliwam babaen ti sakup ti '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' a naipablaak ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  uray no ti bersion 2.1 iti daytoy a lisensia, wenno (iti pinagpilim) ania man a kinaudi a bersion. Daytoy a bibliotika ket naiwarwaras nga addaan ti namnama a makatultulong to, ngem '''awan ti ania man a garantia'''; nga awan pay ti naipaltiing a garantia ti '''pannakailaklako'' wenno '''mainugot para iti daytoy a panggep'''. Kitaen ti [{{int:wm-license-lgpl-2.1-full-link}} bersion 2.1] ken [{{int:wm-license-lgpl-3-full-link}} bersion 3 iti GNU Lesser General Public License] para dagiti adu pay a detalye.",
-	'wm-license-licensing-update-text' => 'Daytoy nga etiketa ti panaglisensia ket nainayon iti daytoy a papeles a kas paset iti GFDL [[{{int:wm-license-licensing-update-wiki-link}}|panagbabaro ti lisensia]].',
+	'wm-license-information-other-versions' => 'Dagiti sabali a bersion',
+	'wm-license-lgpl-text' => "Daytoy a biblioteka ket [[{{int:wm-license-free-software-wiki-link}}|nawaya a sopwer]]; mabalinmo nga iwaras ken/wenno baliwan babaen ti termino ti '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' a naipablaak babaen ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];  uray no ti bersion 2.1 iti daytoy a lisensia, wenno (iti panagpilim) aniaman a kinaudi a bersion. Daytoy a biblioteka ket naiwarwaras nga addaan ti namnama a makatultulongto, ngem '''awan ti aniaman a garantia'''; nga awan pay ti naipaltiing a garantia ti '''pannakailaklako'' wenno '''mainugot para iti daytoy a panggep'''. Kitaen ti [{{int:wm-license-lgpl-2.1-full-link}} bersion 2.1] ken [{{int:wm-license-lgpl-3-full-link}} bersion 3 iti GNU Lesser General Public License] para kadagiti adu pay a salaysay.",
+	'wm-license-licensing-update-text' => 'Daytoy nga etiketa ti panaglisensia ket nainayon iti daytoy a papeles a kas paset iti GFDL [[{{int:wm-license-licensing-update-wiki-link}}|a panagbabaro ti panaglisensia]].',
 	'wm-license-original-upload-log' => 'Kasisigud a listaan pang-ipan',
-	'wm-license-own-work' => 'Kukua nga obra',
-	'wm-license-pd-author-self-text' => "Siak, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ibbatak daytoynga obra idiay '''[[{{int:wm-license-pd-wiki-link}}|pagturayan a publiko]]'''. Daytoy ket maiyatanup iti sangalubongan.",
-	'wm-license-pd-author-with-author-text' => "Daytoy nga obra ket naibbatannen idiay '''[[{{int:wm-license-pd-wiki-link}}|pagturayan a publiko]]''' babaen ti mannurat, '''$1'''. Daytoy ket maiyatanup iti sangalubongan.",
-	'wm-license-pd-author-not-legally-possible' => 'Idiay sabsabali a pagilian daytoy ket baka saan a mabalin a linteg; no isu ket:',
-	'wm-license-pd-author-self-any-purpose' => "Siak ket agipalugod ti sinoman ti karbengan nga agusar iti daytoy nga obra '''para iti ania man a panggep''', nga awan dagiti kasasaad, malaksid no adda kasasaad a masapul ti linteg.",
-	'wm-license-pd-author-with-author-any-purpose' => "$1 ket agipalugod ti sinoman ti karbengan nga agusar iti daytoy nga obra '''para iti ania man a panggep''', nga awan dagiti kasasaad, malaksid no adda kasasaad a masapul ti linteg.",
+	'wm-license-own-work' => 'Bukod nga obra',
+	'wm-license-pd-author-self-text' => "Siak, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ibbatak daytoy nga obra iti '''[[{{int:wm-license-pd-wiki-link}}|pagturayan a publiko]]'''. Daytoy ket maipakat iti sangalubongan.",
+	'wm-license-pd-author-with-author-text' => "Daytoy nga obra ket naibbatanen iti '''[[{{int:wm-license-pd-wiki-link}}|pagturayan a publiko]]''' babaen ti mannurat, '''$1'''. Daytoy ket maipakat iti sangalubongan.",
+	'wm-license-pd-author-not-legally-possible' => 'Kadagiti sabali a pagilian daytoy ket saan a mabalin a nalinteg; no kastoy ket:',
+	'wm-license-pd-author-self-any-purpose' => "Siak ket agitited ti sinoman ti karbengan nga agusar iti daytoy nga obra '''para iti aniaman a panggep''', nga awan dagiti kasasaad, malaksid no adda dagiti kasasaad a masapul babaen ti linteg.",
+	'wm-license-pd-author-with-author-any-purpose' => "Ni $1 ket mangited ti sinoman ti karbengan nga agusar iti daytoy nga obra '''para iti aniaman a panggep''', nga awan dagiti kasasaad, malaksid no adda dagiti kasasaad a masapul babaen ti linteg.",
+	'wm-license-pd-usgov-fema-text' => "Daytoy a papeles ket obra ti empleado iti [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Federal Emergency Management Agency]], a naala wenno naaramid iti las-ud ti kurso dagiti opisial a rebbeng ti tao. Kas [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] iti [[{{int:wm-license-pd-usgov-wiki-link}}|pederal a gobierno ti Estados Unidos]], ti papeles ket adda iti '''[[{{int:wm-license-pd-wiki-link}}|publiko a pagturayan]]'''.",
+	'wm-license-pd-usgov-military-text' => "Daytoy a papeles ket obra iti [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|militar ti Estados Unidos]] wenno empleado ti [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Departamento ti Salaknib]], a naala wenno naaramid iti las-ud ti kurso dagiti opisial a rebbeng ti tao. Kas [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] iti [[{{int:wm-license-pd-usgov-wiki-link}}|pederal a gobierno ti Estados Unidos]], ti papeles ket adda iti '''[[{{int:wm-license-pd-wiki-link}}|publiko a pagturayan]]'''.",
+	'wm-license-pd-usgov-military-air-force-text' => "Daytoy a papeles ket obra ti maysa nga abiador wenno empleado iti [[{{int:wm-license-pd-usgov-military-air-force-wiki-link}}|Aero Puersa ti Estados Unidos]], a naala wenno naaramid iti las-ud dagiti opisial a rebbeng ti tao. Kas [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] iti [[{{int:wm-license-pd-usgov-wiki-link}}|pederal a gobierno ti Estados Unidos]], ti papeles ket adda iti '''[[{{int:wm-license-pd-wiki-link}}|publiko a pagturayan]]'''.",
+	'wm-license-pd-usgov-military-army-text' => "Daytoy a papeles ket obra ti soldado wenno empleado iti [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Buyotti Estados Unidos]], a naala wenno naaramid iti las-ud ti kurso dagiti opisial a rebbeng ti tao. Kas [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] iti [[{{int:wm-license-pd-usgov-wiki-link}}|pederal a gobierno ti Estados Unidos]], ti papeles ket adda iti '''[[{{int:wm-license-pd-wiki-link}}|publiko a pagturayan]]'''.",
+	'wm-license-pd-usgov-military-navy-text' => "Daytoy a papeles ket obra ti marinero wenno empleado iti [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Marina ti Estados Unidos]], a naala wenno naaramid iti las-ud ti kurso dagiti opisial a rebbeng ti tao. Kas [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] iti [[{{int:wm-license-pd-usgov-wiki-link}}|pederal a gobierno ti Estados Unidos]], ti papeles ket adda iti '''[[{{int:wm-license-pd-wiki-link}}|publiko a pagturayan]]'''.",
+	'wm-license-pd-usgov-noaa-text' => "Daytoy a papeles ket obra ti empleado iti [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Administrasion ti Nailian nga Oseaniko ken Atmosperiko ti Estados Unidos]], a naala wenno naaramid iti las-ud ti kurso dagiti opisial a rebbeng ti tao. Kas [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] iti [[{{int:wm-license-pd-usgov-wiki-link}}|pederal a gobierno ti Estados Unidos]], ti papaeles ket adda iti '''[[{{int:wm-license-pd-wiki-link}}|publiko a pagturayan]]'''.",
 	'wm-license-self-one-license' => 'Siak, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ket agipablaak babaen ti sumaganad a lisensia:',
-	'wm-license-self-one-license-with-author' => '$1, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ket agipablaak babaen ti sumaganad a lisensia:',
+	'wm-license-self-one-license-with-author' => 'Ni $1, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ket agipablaak babaen ti sumaganad a lisensia:',
 	'wm-license-self-multiple-licenses' => 'Siak, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ket agipablaak babaen kadagiti sumaganad a lisensia:',
-	'wm-license-self-multiple-licenses-with-author' => '$1, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ket agipablaak babaen kadagiti sumaganad a lisensia:',
-	'wm-license-self-multiple-licenses-select' => 'Mabalin mo ti agpili kadagiti lisensia a kaykayatmo.',
+	'wm-license-self-multiple-licenses-with-author' => 'Ni $1, ti agtengtengel ti karbengan ti kopia iti daytoy nga obra, ket agipablaak babaen kadagiti sumaganad a lisensia:',
+	'wm-license-self-multiple-licenses-select' => 'Mabalinmo ti agpili kadagiti lisensia a kaykayatmo.',
 );
 
 /** Ido (Ido)
