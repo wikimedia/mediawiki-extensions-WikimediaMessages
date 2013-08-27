@@ -11795,6 +11795,7 @@ $messages['ps'] = array(
  * @author Luckas
  * @author Luckas Blade
  * @author Malafaya
+ * @author Raylton P. Sousa
  * @author SandroHc
  * @author Sir Lestaty de Lioncourt
  * @author Waldir
@@ -11921,6 +11922,7 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", aceita as [https://wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso] e concorda de forma irrevogável em publicar as suas contribuições com as licenças [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que um link ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
+	'wikimedia-developers' => 'Desenvolvedores',
 );
 
 /** Brazilian Portuguese (português do Brasil)
@@ -11940,6 +11942,7 @@ Concorda também que um link ou URL é forma suficiente de atribuição nos term
  * @author Malafaya
  * @author Nemo bis
  * @author Rafael Vargas
+ * @author Raylton P. Sousa
  * @author Sir Lestaty de Lioncourt
  * @author Teles
  * @author 555
@@ -11995,7 +11998,7 @@ $messages['pt-br'] = array(
 	'grouppage-editprotected' => '{{ns:project}}: Editor de páginas protegidas',
 	'group-eliminator' => 'Eliminadores',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminador', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminadores',
 	'group-filemover' => 'Manipuladores de arquivos',
 	'group-filemover-member' => '{{GENDER:$1|manipulador|manipuladora}} de arquivos',
 	'grouppage-filemover' => '{{ns:project}}:Manipuladores de arquivos',
@@ -12016,6 +12019,7 @@ $messages['pt-br'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Isentos de bloqueio',
 	'group-patroller' => 'Patrulhadores',
 	'group-patroller-member' => '{{GENDER:$1|patrulhador|patrulhadora}}',
+	'grouppage-patroller' => '{{ns:project}}:Autorrevisores',
 	'group-researcher' => 'Pesquisadores',
 	'group-researcher-member' => '{{GENDER:$1|pesquisador|pesquisadora}}',
 	'grouppage-researcher' => '{{ns:project}}:Pesquisadores',
@@ -12029,7 +12033,7 @@ $messages['pt-br'] = array(
 	'group-trusted-member' => '{{GENDER:$1|usuário|usuária}} confiável',
 	'grouppage-trusted' => '{{ns:project}}:Usuários confiáveis',
 	'group-uploader' => 'Carregadores',
-	'group-uploader-member' => 'carregador', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|carregador|carregadora|carregador(a)}}',
 	'grouppage-uploader' => '{{ns:project}}:Carregadores',
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_bot-member' => '{{GENDER:$1|robô global}}',
@@ -12047,10 +12051,17 @@ $messages['pt-br'] = array(
 	'group-steward-member' => '{{GENDER:$1|Steward}}',
 	'group-sysadmin' => 'Administradores de sistema',
 	'group-sysadmin-member' => '{{GENDER:$1|administrador|administradora}} do sistema',
+	'group-API_High_Limit_Requestor' => 'Solicitantes de alto limíte de API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Solicitante de alto limíte de API}}',
+	'group-Indic_Bots' => 'bots índicos',
+	'group-Indic_Bots-member' => '{{GENDER:$1|bot índico}}',
 	'group-New_wikis_importer' => 'Novos importadores de wikis',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|Novo importador de Wikis}}',
 	'grouppage-New_wikis_importer' => 'm:New wikis importers',
 	'group-global-ipblock-exempt' => 'Isentos de bloqueios globais',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|Isento|Isenta|Isento(a)}} de bloqueio de IP',
 	'grouppage-global-ipblock-exempt' => 'm:Global IP block exemptions',
+	'group-recursive-export' => 'exportação recursiva',
 	'group-translationadmin' => 'Administradores de tradução',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador de tradução|administradora de tradução}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de tradução',
@@ -12065,9 +12076,14 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [https://wikimediafoundation.org/wiki/Terms_of_Use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
+	'upload-more-photos-of-this-monument' => 'Carregar mais fotos deste monumento',
+	'extdist-branch-master' => 'master (mais recente versão de desenvolvimento)',
+	'extdist-branch-REL1_21' => '1.21 (mais recente MediaWiki estável)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nomes_de_usuário',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Ajude-me a escolher)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar uma conta',
 	'createacct-imgcaptcha-help' => 'Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]',
+	'wikimedia-developers' => 'Desenvolvedores',
 );
 
 /** Quechua (Runa Simi)
