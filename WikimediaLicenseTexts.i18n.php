@@ -9634,7 +9634,7 @@ Lisansın bir kopyası, ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Be
 	'wm-license-information-table-summary' => 'Dosya hakkında tüm bilgileri sağlayan, ne gösterdiğini ve nasıl yapıldığını gösteren, telif durumunu ve kaynağını içeren, ölçün bir tablo',
 	'wm-license-information-description' => 'Tanım',
 	'wm-license-information-description-missing' => "Bu dosyanın '''açıklaması''' yok, ve diğer bilgileri eksik olabilir.",
-	'wm-license-information-description-missing-request' => 'Lütfen bu dosyaya anlamlı bir açıklama sağlayın.',
+	'wm-license-information-description-missing-request' => 'Lütfen bu dosyaya anlamlı bir açıklama ekleyin.',
 	'wm-license-information-source' => 'Kaynak',
 	'wm-license-information-source-missing' => "Bu dosyanın '''kaynak''' bilgileri bulunmamaktadır.",
 	'wm-license-information-source-missing-request' => 'Lütfen bu dosyanın tanımını değiştirerek bir kaynak ekleyin.',

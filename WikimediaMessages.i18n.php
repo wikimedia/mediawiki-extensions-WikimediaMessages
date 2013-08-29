@@ -11458,7 +11458,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'extdist-branch-REL1_21' => '1.21 (najnowsza stabilna wersja MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Nazwa_użytkownika',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]',
-	'wikimedia-developers' => 'Twórcy',
+	'wikimedia-developers' => 'Dla deweloperów',
 );
 
 /** Piedmontese (Piemontèis)
@@ -13803,7 +13803,7 @@ $messages['sr-ec'] = array(
 	'group-flood-member' => '{{GENDER:$1|корисник-бот|корисница-бот|корисник-бот}}',
 	'grouppage-flood' => '{{ns:project}}:Корисници-ботови',
 	'group-founder' => 'Оснивачи',
-	'group-founder-member' => '{{GENDER:$1|оснивач|оснивачица|оснивач}}',
+	'group-founder-member' => '{{GENDER:$1|оснивач|оснивачица}}',
 	'grouppage-founder' => '{{ns:project}}:Оснивачи',
 	'group-import' => 'Увозници',
 	'group-import-member' => '{{GENDER:$1|увозник|увозница|увозник}}',
@@ -13859,7 +13859,7 @@ $messages['sr-ec'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|преводилачки администратор|преводилачка администраторка|преводилачки администратор}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Преводилачки администратори',
 	'group-coder' => 'Програмери',
-	'group-coder-member' => '{{GENDER:$1|програмер|програмерка|програмер}}',
+	'group-coder-member' => '{{GENDER:$1|програмер|програмерка}}',
 	'grouppage-coder' => '{{ns:project}}:Програмер',
 	'group-inactive' => 'Неактивни корисници',
 	'group-inactive-member' => '{{GENDER:$1|неактивни корисник|неактивна корисница|неактивни корисник}}',
@@ -14545,6 +14545,7 @@ $messages['ta'] = array(
 );
 
 /** Telugu (తెలుగు)
+ * @author Arjunaraoc
  * @author Chaduvari
  * @author Kiranmayee
  * @author Mpradeep
@@ -14667,6 +14668,8 @@ $messages['te'] = array(
 
 వివరాల కోసం [https://wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.', # Fuzzy
 	'cant-delete-main-page' => 'మీరు ప్రధాన పేజీని కదిలించలేరు, తొలగించలేరు',
+	'extdist-branch-master' => 'ప్రధానమైన(ఇటీవలి అభివృద్ధి రూపము)',
+	'wikimedia-developers' => 'అభివృద్ధికారులు',
 );
 
 /** Test (site admin only) (Test (site admin only)) */
@@ -16201,7 +16204,7 @@ các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
 	'wikidata-shortcopyrightwarning' => 'Khi bấm nút “{{int:wikibase-save}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết đến khoản mục này',
+	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết với khoản mục này',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
