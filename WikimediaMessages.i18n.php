@@ -4855,7 +4855,7 @@ $messages['fi'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Suojattujen sivujen muokkaajat',
 	'group-eliminator' => 'eliminaattorit',
 	'group-eliminator-member' => '{{GENDER:$1|eliminaattori}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminaattorit', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminaattorit',
 	'group-filemover' => 'tiedostojen siirtäjät',
 	'group-filemover-member' => '{{GENDER:$1|tiedostojen siirtäjä}}',
 	'grouppage-filemover' => '{{ns:project}}:Tiedostojen siirtäjät',
@@ -4890,7 +4890,7 @@ $messages['fi'] = array(
 	'group-trusted-member' => '{{GENDER:$1|luotettu käyttäjä}}',
 	'grouppage-trusted' => '{{ns:project}}:Luotetut käyttäjät',
 	'group-uploader' => 'tiedostojen lähettäjät',
-	'group-uploader-member' => 'tiedostojen lähettäjä', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|tiedostojen lähettäjä}}',
 	'grouppage-uploader' => '{{ns:project}}:Tiedostojen lähettäjät',
 	'group-Global_bot' => 'järjestelmänlaajuiset botit',
 	'group-Global_bot-member' => '{{GENDER:$1|järjestelmänlaajuinen botti}}',
@@ -4921,17 +4921,19 @@ $messages['fi'] = array(
 	'group-inactive-member' => '{{GENDER:$1|epäaktiivinen käyttäjä}}',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="https://wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
-	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "tallenna" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "{{int:wikibase-save}}" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikibase-sitelinks-wikivoyage' => 'Tähän kohteeseen linkitetyt Wikivoyage-sivut',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 	'wikimedia-translationnotifications-signup-legal' => 'Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntömme] alainen.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
+	'extdist-branch-master' => 'master (viimeisin kehitysversio)',
 	'extdist-branch-REL1_21' => '1.21 (viimeisin vakaa MediaWiki-versio)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Käyttäjätunnuskäytäntö',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta',
 	'createacct-imgcaptcha-help' => 'Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]',
+	'wikimedia-developers' => 'Kehittäjät',
 );
 
 /** Fijian (Na Vosa Vakaviti)
