@@ -403,13 +403,16 @@ $messages['als'] = array(
  * @author Elfalem
  */
 $messages['am'] = array(
+	'wm-license-artwork-artist' => 'አርቲስት',
 	'wm-license-artwork-title' => 'ርዕስ',
 	'wm-license-book-language' => 'ቋንቋ',
 	'wm-license-book-title' => 'ርዕስ',
 	'wm-license-book-translator' => 'ተርጓሚ',
+	'wm-license-book-year-of-publication' => 'የታተመበት ዓመት',
 	'wm-license-information-description' => 'ማጠቃለያ',
 	'wm-license-information-source' => 'ምንጭ',
 	'wm-license-information-date' => 'ቀን',
+	'wm-license-information-author' => 'አቅራቢው',
 	'wm-license-information-permission' => 'የማብዛት ፈቃድ',
 	'wm-license-information-permission-see-below' => 'ከታች ይዩ።',
 	'wm-license-information-other-versions' => 'ሌሎች ዕትሞች',

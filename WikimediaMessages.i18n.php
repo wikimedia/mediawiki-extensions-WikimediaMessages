@@ -490,7 +490,7 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 	'wikidata-shortcopyrightwarning' => 'Message displayed in the pop up when editing Wikidata data. It points to the terms of use and the CC0 license, as the structured data is published under CC0.
 
 Uses {{msg-mw|Wikibase-save}}.',
-	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([http://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([http://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
+	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([https://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([http://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
 {{Identical/Wikimedia-licensing}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
@@ -3244,6 +3244,7 @@ Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Dr
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(cymorth wrth ddewis enw)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Ymholi am gyfri',
 	'createacct-imgcaptcha-help' => 'Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]',
+	'wikimedia-developers' => 'Datblygwyr',
 );
 
 /** Danish (dansk)
@@ -14302,7 +14303,7 @@ text i övriga namnrymder är tillgänglig under <a href="https://creativecommon
 ytterligare villkor kan tillkomma.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Användarvillkor</a> för detaljer.',
 	'wikidata-shortcopyrightwarning' => 'Genom att klicka på "{{int:wikibase-save}}" samtycker du till [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och du samtycker oåterkalleligen till att släppa ditt bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ licensen CC0].',
-	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [http://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
