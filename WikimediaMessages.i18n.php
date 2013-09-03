@@ -13881,6 +13881,7 @@ $messages['sr-ec'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Поднесите захтев за отварање налога]]',
+	'wikimedia-developers' => 'Програмери',
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
