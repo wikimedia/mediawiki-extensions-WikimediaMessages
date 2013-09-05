@@ -248,7 +248,8 @@ Translate this message only, if a page in your language at http://meta.wikimedia
 {{Identical|Own work}}',
 	'wm-license-pd-author-with-author-text' => 'Parameters:
 * $1 - name',
-	'wm-license-pd-author-with-author-any-purpose' => "$1 is a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
+	'wm-license-pd-author-with-author-any-purpose' => "Parameters:
+* $1 - a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
 	'wm-license-pd-usgov-wiki-link' => '{{Optional}}',
 	'wm-license-pd-usgov-work-wiki-link' => '{{Optional}}',
 	'wm-license-pd-usgov-fema-wiki-link' => '{{Optional}}',
