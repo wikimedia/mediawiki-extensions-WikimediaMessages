@@ -3235,6 +3235,7 @@ Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Term
 	'wikimedia-copyrightwarning' => "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a'r [https://www.gnu.org/copyleft/fdl.html GFDL].
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
+	'wikibase-sitelinks-wikivoyage' => "Tudalennau Wicidaith sy'n cysylltu a'r eitem hon",
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 	'upload-more-photos-of-this-monument' => "Uwchlwytho rhagor o luniau o'r gofeb hon",

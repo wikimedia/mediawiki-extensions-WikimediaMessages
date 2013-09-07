@@ -6736,10 +6736,10 @@ zelfs zonder de onuutespreuken garansie dat e t '''goed döt''' of da'j t '''goe
 Zie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer informasie.",
 	'wm-license-original-upload-log' => 'Oorspronkelik logboek mit nieje bestaanden',
 	'wm-license-own-work' => 'Eigen waark',
-	'wm-license-self-one-license' => 'Ik, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensie beschikbaor:',
-	'wm-license-self-one-license-with-author' => '$1, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensie beschikbaor:',
-	'wm-license-self-multiple-licenses' => 'Ik, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensie beschikbaor:',
-	'wm-license-self-multiple-licenses-with-author' => '$1, de auteursrechthouwer van dit wark, maak t hierbie onder de volgende lisensies beschikbaor:',
+	'wm-license-self-one-license' => 'Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:',
+	'wm-license-self-one-license-with-author' => '$1, de maker van dit wark, gif disse media vrie onder de volgende lisensie:',
+	'wm-license-self-multiple-licenses' => 'Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:',
+	'wm-license-self-multiple-licenses-with-author' => '$1, de maker van dit wark, gif disse media vrie onder de volgende lisensies:',
 	'wm-license-self-multiple-licenses-select' => 'Je maggen zelf één van de lisensies uutkiezen.',
 );
 

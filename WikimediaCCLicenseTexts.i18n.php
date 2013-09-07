@@ -6923,6 +6923,7 @@ $messages['hsb'] = array(
  * @author Dani
  * @author Diebuche
  * @author Dj
+ * @author Einstein2
  * @author Glanthor Reviol
  * @author Jarekt
  * @author Misibacsi
@@ -7119,7 +7120,7 @@ $messages['hu'] = array(
 	'wm-license-cc-conditions-share_alike-header' => 'Így add tovább!',
 	'wm-license-cc-conditions-share_alike-text' => 'Ha megváltoztatod, átalakítod, feldolgozod ezt a művet, az így létrejött alkotást csak a jelenlegivel megegyező licenc alatt terjesztheted.',
 	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.hu',
-	'wm-license-cc-pd-mark-text' => 'Megállapították, hogy ez a fájl mentes mindenféle szerzői jogi korlátozástól, beleérve az összes kapcsolódó és hozzátartozó jogot.',
+	'wm-license-cc-pd-mark-text' => 'Megállapították, hogy ez a fájl mentes mindenféle szerzői jogi korlátozástól, beleértve az összes kapcsolódó és hozzátartozó jogot.',
 );
 
 /** Interlingua (interlingua)
