@@ -1086,6 +1086,7 @@ $messages['arc'] = array(
 	'wikimedia-copyrightwarning' => 'ܒܟܒܫܬܐ ܕܬܪܘܩܬܐ "{{int:savearticle}}" ܐܘܝܘ ܐܢܬ ܥܠ [https://wikimediafoundation.org/wiki/Terms_of_Use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܦܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [https://creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ :ܢܣܒܬܐ-ܦܣܣܐ ܒܛܘܣܐ 3.0] ܘ[https://www.gnu.org/copyleft/fdl.html ܒܦܣܣܐ ܕGNU ܠܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].
 ܐܘܝܘ ܐܢܬ ܕܫܘܡܠܝܬܝܠܗ̇ ܒܟܘܢܝܐ ܒܓܘ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ ܒܝܕ hyperlink ܐܘ URL.',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ܥܕܪ ܠܝ ܒܓܘܒܝܐ)]]',
+	'wikimedia-developers' => 'ܡܛܘܪ̈ܢܐ',
 );
 
 /** Mapuche (mapudungun)
