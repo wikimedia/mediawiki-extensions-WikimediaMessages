@@ -194,6 +194,13 @@ $messages['pms'] = array(
 	'wikimediamessages-desc' => 'Mëssagi temporani specìfich ëd Wikimedia',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'wikimediamessages-desc' => 'Mensagens temporárias específicas da Wikimedia',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
