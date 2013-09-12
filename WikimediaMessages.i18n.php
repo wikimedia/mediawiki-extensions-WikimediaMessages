@@ -492,6 +492,8 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 Uses {{msg-mw|Wikibase-save}}.',
 	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([https://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([https://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
+Refers to {{msg-mw|Savearticle}}.
+
 {{Identical/Wikimedia-licensing}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
@@ -2792,6 +2794,7 @@ $messages['ce'] = array(
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш Ӏалашбеш, хьан пурбанца уьш чутохар юха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тӀаьхь болу агӀо лелош, хьуна тӀе хьажориг йийра ю, оцу лаккхар хьажоригех я URL, йогӀучу агӀон тӀе.
 Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].', # Fuzzy
+	'wikimedia-developers' => 'Кечдархой',
 );
 
 /** Cebuano (Cebuano)
