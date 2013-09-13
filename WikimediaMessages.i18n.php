@@ -4638,7 +4638,7 @@ $messages['ext'] = array(
  * @author ZxxZxxZ
  */
 $messages['fa'] = array(
-	'wikimediamessages-desc' => 'پیغام‌های مخصوص ویکی‌مدیا',
+	'wikimediamessages-desc' => 'پیام‌های مخصوص ویکی‌مدیا',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=fa',
 	'sitesupport' => 'کمک مالی',
 	'tooltip-n-sitesupport' => 'حمایتمان کنید',
@@ -4653,9 +4653,9 @@ $messages['fa'] = array(
 	'group-Ex_Bureaucrat' => 'دیوان‌سالاران پیشین',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|دیوانسالار پیشین}}',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:دیوان‌سالاران پیشین',
-	'group-Image-reviewer' => 'بازبینان تصویر',
+	'group-Image-reviewer' => 'بازبین‌گران تصویر',
 	'group-Image-reviewer-member' => 'بازبین‌گر تصویر',
-	'grouppage-Image-reviewer' => '{{ns:project}}:بازبین‌گرهای تصویر',
+	'grouppage-Image-reviewer' => '{{ns:project}}:بازبین‌گران تصویر',
 	'group-OTRS-member' => 'اعضای OTRS',
 	'group-OTRS-member-member' => 'عضو OTRS',
 	'grouppage-OTRS-member' => '{{ns:project}}:اعضای OTRS',
@@ -4667,7 +4667,7 @@ $messages['fa'] = array(
 	'grouppage-accountcreator' => '{{ns:project}}:سازندگان حساب کاربری',
 	'group-arbcom' => 'اعضای هیأت حکمیت',
 	'group-arbcom-member' => 'عضو هیأت حکمیت',
-	'grouppage-arbcom' => '{{ns:project}}:اعضای کمیتهٔ داوری',
+	'grouppage-arbcom' => '{{ns:project}}:اعضای هیأت حکمیت',
 	'group-autopatrolled' => 'گشت‌زنان خودکار',
 	'group-autopatrolled-member' => 'گشت‌زن خودکار',
 	'grouppage-autopatrolled' => '{{ns:project}}:گشت‌زنان خودکار',
@@ -4688,7 +4688,7 @@ $messages['fa'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:ویرایشگران صفحه‌ها محفاظت‌شده',
 	'group-eliminator' => 'برطرف‌کننده‌ها',
 	'group-eliminator-member' => 'برطرف‌کننده',
-	'grouppage-eliminator' => '{{ns:project}}: برطرف‌کننده', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:برطرف‌کنندگان',
 	'group-filemover' => 'انتقال‌دهنده پرونده',
 	'group-filemover-member' => 'انتقال‌دهنده پرونده',
 	'grouppage-filemover' => '{{ns:project}}: انتقال‌دهندگان پرونده',
@@ -4712,7 +4712,7 @@ $messages['fa'] = array(
 	'grouppage-patroller' => '{{ns:project}}:گشت‌زن‌ها',
 	'group-researcher' => 'پژوهشگران',
 	'group-researcher-member' => 'پژوهشگر',
-	'grouppage-researcher' => '{{ns:project}}:پژوهشگرها',
+	'grouppage-researcher' => '{{ns:project}}:پژوهشگران',
 	'group-rollbacker' => 'واگردانان',
 	'group-rollbacker-member' => 'واگردان',
 	'grouppage-rollbacker' => '{{ns:project}}:واگردانان',
@@ -4722,9 +4722,9 @@ $messages['fa'] = array(
 	'group-trusted' => 'کاربران مورد اعتماد',
 	'group-trusted-member' => 'کاربر مورد اعتماد',
 	'grouppage-trusted' => '{{ns:project}}:کاربران تأییدشده',
-	'group-uploader' => 'بارگذارها',
-	'group-uploader-member' => 'بارگذار', # Fuzzy
-	'grouppage-uploader' => '{{ns:project}}:بارگذارها',
+	'group-uploader' => 'بارگذاران',
+	'group-uploader-member' => '{{GENDER:$1|بارگذار}}',
+	'grouppage-uploader' => '{{ns:project}}:بارگذاران',
 	'group-Global_bot' => 'ربات‌های سراسری',
 	'group-Global_bot-member' => '{{GENDER:$1|ربات سراسری}}',
 	'grouppage-Global_bot' => 'm:Global bot/fa',
@@ -10961,6 +10961,7 @@ Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Be om ein konto',
 	'createacct-imgcaptcha-help' => 'Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]',
+	'wikimedia-developers' => 'Utviklarar',
 );
 
 /** Novial (Novial)
@@ -14961,6 +14962,7 @@ $messages['tk'] = array(
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  * @author Nemo bis
+ * @author Sky Harbor
  * @author לערי ריינהארט
  */
 $messages['tl'] = array(
@@ -15088,7 +15090,7 @@ $messages['tl'] = array(
 	'wikimedia-copyright' => 'Makukuha ang teksto sa ilalim ng <a href="https://creativecommons.org/licenses/by-sa/3.0/">Lisensyang Creative Commons Attribution/Share-Alike</a>;
 maaaring gamitan ng karagdagan pang mga patakaran.
 See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikimedia-copyrightwarning' => 'Sa pamamagitan ng pagpindot ng pindutang "{{int:savearticle}}", sumasang-ayon ka sa [https://wikimediafoundation.org/wiki/Terms_of_Use Mga hinihingi sa paggamit], at hindi mababago ang pagsang-ayon mo na ilabas ang iyong mga ambag sa ilalim ng [https://creativecommons.org/licenses/by-sa/3.0/ Lisensiyang CC-BY-SA 3.0] at sa [https://www.gnu.org/copyleft/fdl.html GFDL].  Sumasang-ayon ka na ang isang kawing na hyper o URL ay sapat nang atribusyon sa ilalim ng lisensiyang Creative Commons.',
+	'wikimedia-copyrightwarning' => 'Sa pag-klik ng pindutang "{{int:savearticle}}", sumasang-ayon ka sa [https://wikimediafoundation.org/wiki/Terms_of_Use takdang gamit], at hindi mababago ang pagsang-ayon mo na ilabas ang iyong ambag sa ilalim ng [https://creativecommons.org/licenses/by-sa/3.0/ Lisensiyang CC BY-SA 3.0] at ng [https://www.gnu.org/copyleft/fdl.html GFDL].  Sumasang-ayon ka na sapat na atribusyon ang isang hyperlink o URL sa ilalim ng lisensiyang Creative Commons.',
 	'cant-delete-main-page' => 'Hindi mo mabubura o maililipat ang pangunahing pahina.',
 	'wikimedia-translationnotifications-signup-legal' => 'Sumasang-ayon ka na sa pamamagitan ng pagbibigay sa Pundasyon ng Wikimedia ng ganitong impormasyon, maaari kaming makipag-ugnayan sa iyo hinggil sa mga salinwika o ibang mga paksa na may kaugnayan sa kilusan ng Wikimedia na maiisip namin na marahil ay makakatawag ng iyong pansin. Sumasang-ayon ka na marahil ang dato mo ay maiimbak sa Nagkakaisang mga Estado ng Amerika at masasaklawan ng aming [https://wikimediafoundation.org/wiki/Privacy_policy patakaran sa pagkapribado].',
 );
