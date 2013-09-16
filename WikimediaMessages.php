@@ -23,6 +23,7 @@ $dir = dirname(__FILE__) . '/';
 $wgExtensionMessagesFiles['WikimediaMessages'] = $dir .'WikimediaMessages.i18n.php';
 $wgExtensionMessagesFiles['WikimediaTemporaryMessages'] = $dir . 'WikimediaTemporaryMessages.i18n.php';
 $wgExtensionFunctions[] = 'wfSetupWikimediaMessages';
+$wgExtensionFunctions[] = 'wfWikimediaGlobalBlockMessages';
 // Bug 33464: Add a "Developers" link to the page footer
 $wgHooks['SkinTemplateOutputPageBeforeExec'][] = 'efWikimediaDevelopersFooterLink';
 
@@ -84,3 +85,26 @@ function efWikimediaDevelopersFooterLink ( &$skin, &$template ) {
 	$template->data['footerlinks']['places'][] = 'developers';
 	return true;
 };
+
+// Bug 42231: Should have a specific message for WMF projects
+function wfWikimediaGlobalBlockMessages() {
+	global $wgHooks;
+	$wgHooks['TorBlockBlockedMsg'][] = 'efWikimediaTorBlockBlockedMsg';
+	$wgHooks['GlobalBlockingBlockedIpMsg'][] = 'efWikimediaGlobalBlockingBlockedIpMsg';
+	$wgHooks['GlobalBlockingBlockedIpXffMsg'][] = 'efWikimediaGlobalBlockingBlockedIpXffMsg';
+}
+
+function efWikimediaTorBlockBlockedMsg( &$msg ) {
+	$msg = array( 'wikimedia-torblock-blocked' );
+	return true;
+}
+
+function efWikimediaGlobalBlockingBlockedIpMsg( &$msg ) {
+	$msg = array( 'wikimedia-globalblocking-ipblocked' );
+	return true;
+}
+
+function efWikimediaGlobalBlockingBlockedIpXffMsg( &$msg ) {
+	$msg = array( 'wikimedia-globalblocking-ipblocked-xff' );
+	return true;
+}

@@ -260,6 +260,37 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 	# Bug 33464: "Developers" link in the page footer
 	'wikimedia-developers' => 'Developers',
 	'wikimedia-developers-url' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute',
+
+	# Bug 42231: Global blocks should have a specific message for WMF projects
+	'wikimedia-globalblocking-ipblocked' => "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''
+
+The block was made by $1 ($2).
+The reason given is ''$3''.
+
+* Start of block: $4
+* Expiry of block: $5
+
+Your current IP address is $6.
+Please include all above details in any queries you make.
+
+If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.
+Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''
+
+The block was made by $1 ($2).
+The reason given is ''$3''.
+
+* Start of block: $4
+* Expiry of block: $5
+
+The blocked proxy address was $6.
+Please include all above details in any queries you make.
+
+If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.
+Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Your IP address, <strong>$1</strong>, has been automatically identified as a Tor exit node.
+Editing through Tor is blocked to prevent abuse.
+For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.',
 );
 
 /** Message documentation (Message documentation)
@@ -516,6 +547,33 @@ Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
 	'wikimedia-developers' => 'Message in page footer that links to a "Developers" landing page.
 {{Identical|Developer}}',
 	'wikimedia-developers-url' => 'The URL of a portal page for development efforts.',
+	'wikimedia-torblock-blocked' => 'Used as error message; it is a modified version of {{msg-mw|torblock-blocked}}.
+Parameters:
+* $1 - IP address',
+	'wikimedia-globalblocking-ipblocked' => 'A message shown to a [[mw:Extension:GlobalBlocking|globally blocked]] user trying to edit.
+
+Refers to {{msg-mw|Emailuser}} and is a customised version of {{msg-mw|globalblocking-ipblocked}}.
+
+This message is similar to a [[MediaWiki:Blockedtext|MediaWiki core message]].
+
+Parameters:
+* $1 - the username of the blocking user (steward), with a link
+* $2 - the project name where the blocking user is registered (usually "meta.wikimedia.org" on Wikimedia servers)
+* $3 - the reason specified by the blocking user
+* $4 - a timestamp for when the block was set
+* $5 - a timestamp for when the block will expire (or {{msg-mw|Infiniteblock}})
+* $6 - the IP address of the globally blocked user',
+	'wikimedia-globalblocking-ipblocked-xff' => "A message shown to users who have one or more proxies in their XFF header who's IP are blocked.
+
+Refers to {{msg-mw|Emailuser}} and is a customised version of {{msg-mw|globalblocking-ipblocked-xff}}.
+
+Parameters:
+* $1 - username
+* $2 - wikiname
+* $3 - reason
+* $4 - start timestamp of block; localized timestamp
+* $5 - expiry timestamp of block; localized timestamp or the message {{msg-mw|Infiniteblock}}
+* $6 - IP address which is blocked",
 );
 
 /** Abkhazian (Аҧсшәа)
