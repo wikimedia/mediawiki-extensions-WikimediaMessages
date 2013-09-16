@@ -9136,6 +9136,19 @@ $messages['ku-latn'] = array(
 	'wm-license-cc-by-sa-2.0-de-text' => 'Ev dosye di bin lîsansa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/de/ Attribution-Share Alike 2.0 Germany] de ye.',
 );
 
+/** Latin (Latina)
+ * @author Autokrator
+ */
+$messages['la'] = array(
+	'wm-license-cc-attribution' => 'Attributio',
+	'wm-license-cc-by-1.0-text' => 'Hic fasciculus sub licentia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] praebetur.',
+	'wm-license-cc-free' => 'Tibi licet:',
+	'wm-license-cc-free-to-share-header' => 'communicare',
+	'wm-license-cc-free-to-share-text' => 'copiare, distribuere et committere hoc opus',
+	'wm-license-cc-conditions' => 'His condicionibus:',
+	'wm-license-cc-conditions-attribution-header' => 'attributio',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Kghbln
  * @author Les Meloures
