@@ -5546,12 +5546,13 @@ $messages['ky'] = array(
 /** Latin (Latina)
  * @author Autokrator
  * @author Diebuche
+ * @author UV
  */
 $messages['la'] = array(
 	'wikimedialicensetexts-desc' => 'Nuntia permissionis Vicimediana',
 	'wm-license-artwork-artist' => 'Artifex',
 	'wm-license-artwork-title' => 'Titulus',
-	'wm-license-artwork-notes' => 'Nota',
+	'wm-license-artwork-notes' => 'Notae',
 	'wm-license-book-edition' => 'Editio',
 	'wm-license-book-language' => 'Lingua',
 	'wm-license-book-page-overview' => 'Conspectus paginae',

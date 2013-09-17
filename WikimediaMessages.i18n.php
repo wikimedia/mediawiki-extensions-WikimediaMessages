@@ -6158,6 +6158,7 @@ $messages['haw'] = array(
 /** Hebrew (עברית)
  * @author Amire80
  * @author Deror avi
+ * @author Guycn1
  * @author Inkbug
  * @author Rotem Liss
  * @author Rotemliss
@@ -6267,6 +6268,7 @@ $messages['he'] = array(
 	'group-editinterface-member' => '{{GENDER:$1|עורך|עורכת}} ממשק',
 	'group-steward' => 'דיילים',
 	'group-steward-member' => '{{GENDER:$1|דייל|דיילת}}',
+	'grouppage-steward' => '{{ns:project}}:דייל',
 	'group-sysadmin' => 'מנהלי מערכת',
 	'group-sysadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} מערכת',
 	'group-API_High_Limit_Requestor' => 'שולחי בקשות API עם מגבלה גבוהה',
@@ -8823,11 +8825,11 @@ $messages['lb'] = array(
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
 	'group-inactive-member' => '{{GENDER:$1|net aktive Benotzer}}',
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
-	'wikimedia-copyright' => 'Den Text ass disponibel ënnert der <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
+	'wikimedia-copyright' => 'Den Text ass disponibel ënner der <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
 Kuckt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
-	'wikidata-shortcopyrightwarning' => 'Wann dir op  "{{int:wikibase-save}}" klickt, da siid Dir mat den  [https://wikimediafoundation.org/wiki/Terms_of_Use terms of use] d\'accord an Dir sidd domat d\'accord datt Äre Beitrag ënnert der  [https://creativecommons.org/publicdomain/zero/1.0/ CC0 Lizenz]. publizéiert gëtt.',
-	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [https://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstan an Dir sidd och onwidderruflech averstan fir Äre Beitrag ënnert der [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [https://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
-Dir sidd averstan datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënnert der Creative Commons Lizenz ze honoréieren.',
+	'wikidata-shortcopyrightwarning' => 'Wann Dir op "{{int:wikibase-save}}" klickt, da sidd Dir mat den  [https://wikimediafoundation.org/wiki/Terms_of_Use terms of use] d\'accord an Dir sidd domat d\'accord datt Äre Beitrag ënner der  [https://creativecommons.org/publicdomain/zero/1.0/ CC0 Lizenz]. publizéiert gëtt.',
+	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [https://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [https://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
+Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
