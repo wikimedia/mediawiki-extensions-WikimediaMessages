@@ -938,6 +938,7 @@ $messages['ang'] = array(
  * @author Mido
  * @author OsamaK
  * @author ترجمان05
+ * @author زكريا
  */
 $messages['ar'] = array(
 	'wikimediamessages-desc' => 'رسائل خاصة بويكيميديا',
@@ -1060,8 +1061,8 @@ $messages['ar'] = array(
 	'wikimedia-copyright' => 'النصوص مُرخّصة <a href="https://creativecommons.org/licenses/by-sa/3.0/">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.
 قد تنطبق بنود أخرى أيضًا.
 انظر <a href="https://wikimediafoundation.org/wiki/Terms_of_use">شروط الاستخدام</a> للتفاصيل.',
-	'wikimedia-copyrightwarning' => 'بنقر زر "{{int:savearticle}}"، أنت توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتُرخّص مساهمتك بلا رجعة [https://creativecommons.org/licenses/by-sa/3.0/ برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
-أنت توافق على أن تكفي النسبة في رخصة المشاع الإبداعي بوصلة فائقة أو مسار الصفحة.',
+	'wikimedia-copyrightwarning' => 'بالضغط على زر "{{int:savearticle}}"، فإنك توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].
+وتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.',
 	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
 	'upload-more-photos-of-this-monument' => 'قم برفع المزيد من الصور لهذا الأثر',
 	'createacct-captcha-help-url' => '{{ns:Project}}: طلب حساب',
@@ -4359,7 +4360,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
  * @author WikedKentaur
  */
 $messages['et'] = array(
-	'wikimediamessages-desc' => 'Wikimedia-eriomased teated',
+	'wikimediamessages-desc' => 'Wikimedia-eriomased sõnumid',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=et',
 	'sitesupport' => 'Annetused',
 	'tooltip-n-sitesupport' => 'Toeta meid',
@@ -13879,8 +13880,8 @@ $messages['sr-ec'] = array(
 	'group-inactive-member' => '{{GENDER:$1|неактивни корисник|неактивна корисница|неактивни корисник}}',
 	'grouppage-inactive' => '{{ns:project}}:Неактивни корисници',
 	'shared-repo-name-shared' => 'Викимедијина остава',
-	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/">Кријејтив комонс Ауторство-Делити под истим условима</a>;
-додатни услови се могу применити.
+	'wikimedia-copyright' => 'Текст је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Ауторство-Делити под истим условима</a>;
+могући су и додатни услови.
 Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
 	'wikidata-copyright' => 'Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Услове коришћења</a> за више информација.',
 	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].', # Fuzzy
@@ -14021,8 +14022,8 @@ $messages['sr-el'] = array(
 	'group-inactive-member' => '{{GENDER:$1|neaktivni korisnik|neaktivna korisnica|neaktivni korisnik}}',
 	'grouppage-inactive' => '{{ns:project}}:Neaktivni korisnici',
 	'shared-repo-name-shared' => 'Vikimedijina ostava',
-	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/">Krijejtiv komons Autorstvo-Deliti pod istim uslovima</a>;
-dodatni uslovi se mogu primeniti.
+	'wikimedia-copyright' => 'Tekst je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Autorstvo-Deliti pod istim uslovima</a>;
+mogući su i dodatni uslovi.
 Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
 	'wikidata-copyright' => 'Svi strukturisani podaci iz glavnog i svojstva imenskog prostora su dostupni pod licencom <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; tekst iz drugih imenskih prostora je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Autorstvo-Deliti pod istim uslovima 3.0</a>; mogući su i dodatni uslovi. Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Uslove korišćenja</a> za više informacija.',
 	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
@@ -14994,9 +14995,9 @@ $messages['tl'] = array(
 	'group-abusefilter' => 'Mga patnugot ng pansala ng pang-aabuso',
 	'group-abusefilter-member' => '{{GENDER:$1|patnugot ng pansala ng pang-aabuso}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Mga patnugot ng pansala ng pang-aabuso',
-	'group-accountcreator' => 'Mga tagapalikha ng kuwenta/akawnt',
-	'group-accountcreator-member' => '{{GENDER:$1|tagapaglikha ng akawnt}}',
-	'grouppage-accountcreator' => '{{ns:project}}:Mga tagapaglikha ng akawnt/kuwenta',
+	'group-accountcreator' => 'Mga tagapaglikha ng kuwenta',
+	'group-accountcreator-member' => '{{GENDER:$1|tagapaglikha ng kuwenta}}',
+	'grouppage-accountcreator' => '{{ns:project}}:Mga tagapaglikha ng kuwenta',
 	'group-arbcom' => 'Mga kasapi sa lupon ng arbitrasyon',
 	'group-arbcom-member' => '{{GENDER:$1|kasapi sa lupon ng arbitrasyon}}',
 	'grouppage-arbcom' => '{{ns:project}}:Mga kasapi sa lupon ng arbitrasyon',

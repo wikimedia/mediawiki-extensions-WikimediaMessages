@@ -5588,6 +5588,7 @@ $messages['la'] = array(
  * @author Les Meloures
  * @author Multichill
  * @author Robby
+ * @author Soued031
  * @author Zinneke
  */
 $messages['lb'] = array(
@@ -5629,22 +5630,22 @@ $messages['lb'] = array(
 	'wm-license-creator-work-period' => 'Wierkungsperiod',
 	'wm-license-creator-work-location' => "Plaz wou d'Wierk gemaach gouf",
 	'wm-license-creator-linkback' => "Link zréck op d'Infobox-Schabloun vum Createur",
-	'wm-license-fal-text' => "Copyleft: Dëst Wierk ass fräi; Dir kënnt et weiderverdeelen an/oder et modifizéieren ënnert de Bedingunge vun der ''[[{{int:wm-license-fal-wiki-link}}|Fräier Konscht Lizenz]]'''. Dir fannt en Exemplaire vun dëser Lizenz op dem [{{int:wm-license-fal-full-link}} Copyleft Attitude Site] genee esou wéi op anere Siten.",
+	'wm-license-fal-text' => "Copyleft: Dëst Wierk ass fräi; Dir kënnt et weiderverdeelen an/oder et modifizéieren ënner de Bedingunge vun der ''[[{{int:wm-license-fal-wiki-link}}|Fräier Konscht Lizenz]]'''. Dir fannt en Exemplaire vun dëser Lizenz op dem [{{int:wm-license-fal-full-link}} Copyleft Attitude Site] genee esou wéi op anere Siten.",
 	'wm-license-fsf-wiki-link' => 'w:lb:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:lb:Fräi Software',
-	'wm-license-gfdl-1.2-and-later' => "Et ass erlaabt, dëse Fichier ënnert de Bedingunge vun der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fir fräi Dokumentatioun]]''', an der Versioun 1.2 oder enger spéiderer Versioun, verëffentlecht vun der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], ze kopéieren, ze verbreeden an/oder zu modifizéieren, ouni onverännerlech Abschnitter, Ëmschlagtext virdrun, Ëmschlagtext hannendrun. De kompletten Text vun der Lizenz ass am Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz fir fräi Dokumentatioun]]'' ze gesinn.",
+	'wm-license-gfdl-1.2-and-later' => "Et ass erlaabt, dëse Fichier ënner de Bedingunge vun der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fir fräi Dokumentatioun]]''', an der Versioun 1.2 oder enger spéiderer Versioun, verëffentlecht vun der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], ze kopéieren, ze verbreeden an/oder zu modifizéieren, ouni onverännerlech Abschnitter, Ëmschlagtext virdrun, Ëmschlagtext hannendrun. De kompletten Text vun der Lizenz ass am Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz fir fräi Dokumentatioun]]'' ze gesinn.",
 	'wm-license-gfdl-1.2-only-header' => 'nëmmen&nbsp;1.2',
 	'wm-license-gfdl-wiki-link' => 'w:lb:GNU Free Documentation License',
-	'wm-license-information-table-summary' => "Eng standardiséiert Tabell mat der kompletter Informatioun iwwert de Fichier, inklusiv Beschreiwung vun deem wat gewise gëtt a wéi et gemaach gouf, de Copyright-Status an d'Quell.",
+	'wm-license-information-table-summary' => "Eng standardiséiert Tabell mat der kompletter Informatioun iwwer de Fichier, inklusiv Beschreiwung vun deem wat gewise gëtt a wéi et gemaach gouf, de Status vum Auteursrecht an d'Quell.",
 	'wm-license-information-description' => 'Beschreiwung',
 	'wm-license-information-description-missing' => "Dëse Fichier huet '''keng Beschreiwung''' an et feelen eventuell och aner Informatiounen.",
 	'wm-license-information-description-missing-request' => "Gitt w.e.g. eng verständlech Beschreiwung vum Fichier a vergiesst net den Auteur an d'Quellen unzeginn.",
 	'wm-license-information-source' => 'Quell',
-	'wm-license-information-source-missing' => "D'Informatioun iwwert d''''Source''' vun dësem Fichier feelt.",
+	'wm-license-information-source-missing' => "D'Informatioun iwwer d''''Source''' vun dësem Fichier feelt.",
 	'wm-license-information-source-missing-request' => "Ännert w.e.g. d'Beschreiwung vun dësem Fichier a gitt eng Quell un.",
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Auteur',
-	'wm-license-information-author-missing' => "D'Informatioun iwwert den '''Auteur''' vun dësem Fichier feelt.",
+	'wm-license-information-author-missing' => "D'Informatioun iwwer den '''Auteur''' vun dësem Fichier feelt.",
 	'wm-license-information-permission' => 'Erlaabnes',
 	'wm-license-information-permission-reusing-text' => 'Dëse Fichier nach eng Kéier benotzen',
 	'wm-license-information-permission-see-below' => 'Kuckt ënnendrënner.',
@@ -5659,10 +5660,10 @@ $messages['lb'] = array(
 	'wm-license-pd-usgov-military-air-force-wiki-link' => 'w:lb:United States Air Force',
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:lb:United States Navy',
 	'wm-license-pd-wiki-link' => 'w:lb:Domaine public',
-	'wm-license-self-one-license' => 'Ech, de Besëtzer vum Copyright vun dësem Wierk, publizéieren et heimat ënnert dëser Lizenz:',
-	'wm-license-self-one-license-with-author' => '$1, de Besëtzer vum Copyright vun dësem Wierk, publizéiert et ënnert dëser Lizenz:',
-	'wm-license-self-multiple-licenses' => 'Ech, deen deen Copyright-Rechter vun dësem Wierk huet, verëffentlechen et heimat ënnert dëse Lizenzen:',
-	'wm-license-self-multiple-licenses-with-author' => "$1, deen d'Copyright-Rechter vun dësem Wierk huet, verëffentlecht et ënnert dëse Lizenzen:",
+	'wm-license-self-one-license' => 'Ech, de Besëtzer vum Copyright vun dësem Wierk, publizéieren et heimat ënner dëser Lizenz:',
+	'wm-license-self-one-license-with-author' => '$1, de Besëtzer vum Copyright vun dësem Wierk, publizéiert et ënner dëser Lizenz:',
+	'wm-license-self-multiple-licenses' => "Ech, deen deen d'Auteursrechter vun dësem Wierk huet, verëffentlechen et heimat ënner dëse Lizenzen:",
+	'wm-license-self-multiple-licenses-with-author' => "$1, deen d'Auteursrechter vun dësem Wierk huet, verëffentlechen et ënner dëse Lizenzen:",
 	'wm-license-self-multiple-licenses-select' => "Dir kënnt d'Lizenz vun Ärer Wiel eraussichen.",
 );
 
