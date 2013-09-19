@@ -15130,6 +15130,7 @@ $messages['tpi'] = array(
 
 /** Turkish (Türkçe)
  * @author Emperyan
+ * @author Incelemeelemani
  * @author Joseph
  * @author Karduelis
  * @author Metal Militia
@@ -15254,6 +15255,7 @@ $messages['tr'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Hesap isteği',
 	'createacct-imgcaptcha-help' => 'Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]',
+	'wikimedia-developers' => 'Geliştiriciler',
 );
 
 /** Tsonga (Xitsonga)
