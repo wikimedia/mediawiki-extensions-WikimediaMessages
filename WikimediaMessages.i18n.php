@@ -4484,6 +4484,7 @@ Täpsemalt vaata <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wik
 	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikibase-sitelinks-wikivoyage' => "Sellele üksusele viitavad Wikivoyage'i-leheküljed",
+	'wikibase-sitelinks-commons' => 'Sellele üksusele viitavad Commonsi-leheküljed',
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
 	'wikimedia-translationnotifications-signup-legal' => 'Nõustud, et nende andmete Wikimedia Foundationile saatmise järel võime sinuga ühendust võtta seoses tõlgetega või muusse Wikimedia liikumisse puutuvaga, mis meie arvates sulle huvi võib pakkuda. Nõustud, et sinu andmeid tohib Ameerika Ühendriikides alles hoida ja et neid kasutatakse vastavalt meie [https://wikimediafoundation.org/wiki/Privacy_policy privaatsuspõhimõtetele].',
 	'upload-more-photos-of-this-monument' => 'Laadi üles veel pilte sellest mälestisest',
@@ -8168,6 +8169,7 @@ $messages['kk-arab'] = array(
 
 /** Kazakh (Cyrillic script) (қазақша (кирил)‎)
  * @author AlefZet
+ * @author Arystanbek
  * @author Daniyar
  * @author GaiJin
  * @author Kaztrans
@@ -8186,6 +8188,7 @@ $messages['kk-cyrl'] = array(
 	'group-sysadmin-member' => 'жүйе әкімшісі', # Fuzzy
 	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [https://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
 [https://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].", # Fuzzy
+	'wikimedia-developers' => 'Жасақтаушылар',
 );
 
 /** Kazakh (Latin script) (qazaqşa (latın)‎)
@@ -8839,6 +8842,7 @@ Kuckt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedi
 	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [https://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [https://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
 Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons Säiten déi mat dësem Element verlinkt sinn',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
@@ -9681,6 +9685,7 @@ $messages['mk'] = array(
 	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [https://wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [https://creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [https://www.gnu.org/copyleft/fdl.html?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'wikibase-sitelinks-wikivoyage' => 'Страници на Википатување сврзани со овој предмет',
+	'wikibase-sitelinks-commons' => 'Страници на Ризницата сврзани со предметот',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
@@ -16234,6 +16239,7 @@ Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/
 	'wikidata-shortcopyrightwarning' => 'Khi bấm nút “{{int:wikibase-save}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết với khoản mục này',
+	'wikibase-sitelinks-commons' => 'Các trang Wikimedia Commons được liên kết với khoản mục này',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
