@@ -549,9 +549,6 @@ Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
 	'wikimedia-developers' => 'Message in page footer that links to a "Developers" landing page.
 {{Identical|Developer}}',
 	'wikimedia-developers-url' => 'The URL of a portal page for development efforts.',
-	'wikimedia-torblock-blocked' => 'Used as error message; it is a modified version of {{msg-mw|torblock-blocked}}.
-Parameters:
-* $1 - IP address',
 	'wikimedia-globalblocking-ipblocked' => 'A message shown to a [[mw:Extension:GlobalBlocking|globally blocked]] user trying to edit.
 
 Refers to {{msg-mw|Emailuser}} and is a customised version of {{msg-mw|globalblocking-ipblocked}}.
@@ -576,6 +573,9 @@ Parameters:
 * $4 - start timestamp of block; localized timestamp
 * $5 - expiry timestamp of block; localized timestamp or the message {{msg-mw|Infiniteblock}}
 * $6 - IP address which is blocked",
+	'wikimedia-torblock-blocked' => 'Used as error message; it is a modified version of {{msg-mw|torblock-blocked}}.
+Parameters:
+* $1 - IP address',
 );
 
 /** Abkhazian (Аҧсшәа)
@@ -3644,6 +3644,35 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 	'createacct-captcha-help-url' => '{{ns:Project}}:Benutzerkontenanträge',
 	'createacct-imgcaptcha-help' => 'Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]].',
 	'wikimedia-developers' => 'Entwickler',
+	'wikimedia-globalblocking-ipblocked' => "'''Deine IP-Adresse wurde [[m:Special:MyLanguage/Global blocks|auf allen Wikis gesperrt]].'''
+
+Die Sperre wurde durchgeführt von $1 ($2).
+Die angegebene Begründung ist ''$3''.
+
+* Beginn der Sperre: $4
+* Ablauf der Sperre: $5
+
+Deine aktuelle IP-Adresse ist $6.
+Bitte gib alle obigen Details in allen gemachten Anfragen an.
+
+Wenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Anweisungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.
+Anderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Ein oder mehrere Proxyserver, die von deiner Anfrage verwendet werden, ist [[m:Special:MyLanguage/Global blocks|global gesperrt]].'''
+
+Die Sperre wurde durchgeführt von $1 ($2).
+Die angegebene Begründung ist ''$3''.
+
+* Beginn der Sperre: $4
+* Ablauf der Sperre: $5
+
+Die gesperrte Proxyadresse war $6.
+Bitte gib alle obigen Details in allen gemachten Anfragen an.
+
+Wenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Anweisungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.
+Anderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
+	'wikimedia-torblock-blocked' => 'Deine IP-Adresse <strong>$1</strong> wurde automatisch als Tor-Ausgangsknoten identifiziert.
+Das Bearbeiten über Tor ist gesperrt, um Missbrauch zu vermeiden.
+Für zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe die globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“.',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -7702,6 +7731,7 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'wikidata-shortcopyrightwarning' => 'Facendo clic su "{{int:wikibase-save}}", si accettano le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [https://wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pagine di Wikivoyage collegate a questo elemento',
+	'wikibase-sitelinks-commons' => 'Pagine di Commons collegate a questo elemento',
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
@@ -7712,6 +7742,9 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'createacct-captcha-help-url' => '{{ns:Project}}:Richieste di utenze',
 	'createacct-imgcaptcha-help' => "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
 	'wikimedia-developers' => 'Sviluppatori',
+	'wikimedia-torblock-blocked' => 'Il tuo indirizzo IP, <strong>$1</strong>, è stato automaticamente identificato come un exit node tor.
+La possibilità di editare utilizzando tor è bloccata per impedire abusi.
+Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].',
 );
 
 /** Japanese (日本語)
@@ -7884,6 +7917,35 @@ $messages['ja'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請',
 	'createacct-imgcaptcha-help' => '画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]',
 	'wikimedia-developers' => '開発者',
+	'wikimedia-globalblocking-ipblocked' => "'''あなたのIPアドレスは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されました。'''
+
+ブロックしたのは $1 ($2) です。
+理由は ''$3'' とされています。
+
+* ブロックの開始: $4
+* ブロックの終了: $5
+
+あなたの現在のIPアドレスは $6 です。
+問い合わせをする際には、上記の事項すべてを含めてください。
+
+If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.
+Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].", # Fuzzy
+	'wikimedia-globalblocking-ipblocked-xff' => "'''あなたのリクエストで使用している1つ以上のプロキシサーバーが[[m:Special:MyLanguage/Global blocks|グローバルにブロック]]されました。'''
+
+ブロックしたのは $1 ($2) です。
+理由は ''$3'' とされています。
+
+* ブロックの開始: $4
+* ブロックの終了: $5
+
+ブロックされたプロキシのアドレスは $6 です。
+問い合わせをする際には、上記の事項すべてを含めてください。
+
+If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.
+Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].", # Fuzzy
+	'wikimedia-torblock-blocked' => 'あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。
+不正利用を防止するため、Tor を通じての編集を禁止しています。
+For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.', # Fuzzy
 );
 
 /** Lojban (Lojban)
@@ -8532,6 +8594,9 @@ $messages['ko'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:계정 요청',
 	'createacct-imgcaptcha-help' => '그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]',
 	'wikimedia-developers' => '개발자',
+	'wikimedia-torblock-blocked' => '당신의 IP 주소인 <strong>$1</strong>은 자동적으로 토르 끝 노드로 판명되었습니다.
+토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
+자세한 정보나 정당한 사용자를 위한 설명이 필요하다면,  [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -10692,7 +10757,7 @@ t Kan ween dat nog meer veurweerden van toepassing bin.
 Bekiek de <a href="https://wikimediafoundation.org/wiki/Terms_of_use">algemene veurweerden</a> veur meer informasie.',
 	'wikimedia-copyrightwarning' => 'Deur op de knoppe "{{int:savearticle}}" te klikken, stem je in mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [https://www.gnu.org/copyleft/fdl.html GFDL].
 Je stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon.',
-	'createacct-imgcaptcha-help' => "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebruker an]]",
+	'createacct-imgcaptcha-help' => "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebrukerskonto an]]",
 );
 
 /** Nepali (नेपाली)
@@ -12608,6 +12673,7 @@ termine addizionale ponne essere applicate.
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [https://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pàggene de Uicchivoyage collegate a sta vôsce',
+	'wikibase-sitelinks-commons' => 'Le pàggene Uicchimedia Commons ca sò collegate a sta vôsce',
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	'wikimedia-translationnotifications-signup-legal' => "Tu sì d'accorde ca danne a Wikimedia Foundation ste 'mbormaziune nuje te putime condattà riguarde a le traduziune o a otre argomende collegate a le movimende de Uicchimedia ca penzeme ca ponne essere inderessande pe tè. Tu sì d'accorde ca le date tune ponne essere stipate jndr'à le State Aunìte d'Americhe e so suggette a le nostre [https://wikimediafoundation.org/wiki/Privacy_policy regole d'a privacy].",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
@@ -15779,6 +15845,35 @@ $messages['uk'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запит облікового запису',
 	'createacct-imgcaptcha-help' => 'Не можете побачити зображення? [[{{MediaWiki:createacct-captcha-help-url}}|Запит облікового запису]]',
 	'wikimedia-developers' => 'Розробники',
+	'wikimedia-globalblocking-ipblocked' => "'''Ваша IP-адреса вже [[m:Special:MyLanguage/Global blocks|заблокована на усіх вікі]].'''
+
+Блокування зроблено $1 ($2).
+Причина подана у ''$3''.
+
+* Початок блокування: $4
+* Закінчення блокування: $5
+
+Ваша поточна IP-адреса є $6.
+Будь ласка, включіть усі деталі вище у будь-які запити, що ви зробите.
+
+Якщо ви переконані, що вас заблоковано помилково, то можете знайти додаткову інформацію та вказівки на  глобальній політиці [[m:Special:MyLanguage/No open proxies|No open proxies]].
+Іншими словами, для обговорення блокування, будь ласка,  [[m:Steward requests/Global|розмістіть запит на перевірку у Метавікі]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Один або кілька проксі-серверів використані вашим запитом є [[m:Special:MyLanguage/Global blocks|глобально заблокованими]].'''
+
+Блокування зроблено $1 ($2).
+Причина подана ''$3''.
+
+* Початок блокування: $4
+* Закінчення блокування: $5
+
+Заблокована проксі-адреса є $6.
+Будь ласка, включіть усі деталі вище у будь-які запити, що ви зробите.
+
+Якщо ви переконані, що вас заблоковано помилково, то можете знайти додаткову інформацію та вказівки на  глобальній політиці  [[m:Special:MyLanguage/No open proxies|No open proxies]].
+Іншими словами, для обговорення блокування, будь ласка,  [[m:Steward requests/Global|розмістіть запит на перевірку у Метавікі]].",
+	'wikimedia-torblock-blocked' => 'Ваша IP-адреса, <strong>$1</strong>, вже була автоматично ідентифікована як вузол виходу Tor.
+Редагування через Tor заблоковане для запобігання зловживанням.
+Для додаткової інформації та інструкцій для легальних користувачів перегляньте глобальну політику[[m:Special:MyLanguage/No open proxies|No open proxies]].',
 );
 
 /** Urdu (اردو)
@@ -16915,6 +17010,9 @@ $messages['zh-hans'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:账号请求',
 	'createacct-imgcaptcha-help' => '无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]',
 	'wikimedia-developers' => '开发者',
+	'wikimedia-torblock-blocked' => '您的IP地址<strong>$1</strong>被自动查核出至少一个带套代理连接（Tor）节点。
+请注意我们将自动封禁使用Tor的IP地址以防滥用。
+关于附加信息和允许的例外，请参阅全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]。',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
