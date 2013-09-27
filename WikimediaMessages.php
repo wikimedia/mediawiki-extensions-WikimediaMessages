@@ -95,16 +95,16 @@ function wfWikimediaGlobalBlockMessages() {
 }
 
 function efWikimediaTorBlockBlockedMsg( &$msg ) {
-	$msg = array( 'wikimedia-torblock-blocked' );
+	$msg = 'wikimedia-torblock-blocked';
 	return true;
 }
 
 function efWikimediaGlobalBlockingBlockedIpMsg( &$msg ) {
-	$msg = array( 'wikimedia-globalblocking-ipblocked' );
+	$msg = 'wikimedia-globalblocking-ipblocked';
 	return true;
 }
 
 function efWikimediaGlobalBlockingBlockedIpXffMsg( &$msg ) {
-	$msg = array( 'wikimedia-globalblocking-ipblocked-xff' );
+	$msg = 'wikimedia-globalblocking-ipblocked-xff';
 	return true;
 }
