@@ -2388,6 +2388,7 @@ $messages['bn'] = array(
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [https://www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
 	'wikibase-sitelinks-wikivoyage' => 'এই আইটেমটির সাথে সংযুক্ত উইকিভ্রমণের পাতা',
+	'wikibase-sitelinks-commons' => 'এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা',
 	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিস্তম্ভের আরও চিত্র আপলোড করুন',
 	'extdist-branch-master' => 'মাস্টার (সর্বশেষ সংস্করণ উন্নয়ন)',
@@ -3135,6 +3136,7 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikivoyage provázané s touto položkou',
+	'wikibase-sitelinks-commons' => 'Stránky Wikimedia Commons provázané s touto položkou',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
 	'upload-more-photos-of-this-monument' => 'Načíst další fotografie této památky',
@@ -4125,6 +4127,7 @@ $messages['el'] = array(
 	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "Αποθήκευση", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
 	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από Βικιταξίδια συνδεδεμένοι με το αντικείμενο',
+	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
@@ -5023,6 +5026,7 @@ $messages['fi'] = array(
 	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "{{int:wikibase-save}}" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikibase-sitelinks-wikivoyage' => 'Tähän kohteeseen linkitetyt Wikivoyage-sivut',
+	'wikibase-sitelinks-commons' => 'Tähän kohteeseen linkitetyt Wikimedia Commons -sivut',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 	'wikimedia-translationnotifications-signup-legal' => 'Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntömme] alainen.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
@@ -5222,7 +5226,7 @@ Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Con
 	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [https://wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [https://www.gnu.org/copyleft/fdl.html GFDL].
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
-	'wikibase-sitelinks-commons' => 'Pages de Wikimédia Commons liées à cet élément',
+	'wikibase-sitelinks-commons' => 'Pages de Wikimedia Commons liées à cet élément',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
@@ -5233,6 +5237,35 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'createacct-captcha-help-url' => '{{ns:Project}}:Demander un compte',
 	'createacct-imgcaptcha-help' => "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
 	'wikimedia-developers' => 'Développeurs',
+	'wikimedia-globalblocking-ipblocked' => "'''Votre adresse IP a été [[m:Special:MyLanguage/Global blocks|bloquée sur tous les wikis]].'''
+
+Le blocage a été effectué par $1 ($2).
+Le motif fourni est ''$3''.
+
+* Début du blocage : $4
+* Fin du blocage : $5
+
+Votre adresse IP actuelle est $6.
+Veuillez inclure tous les détails ci-dessus dans toute demande que vous feriez.
+
+Si vous pensez que vous avez été bloqué par erreur, vous pouvez trouver plus d’information et d’instructions dans la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].
+Sinon, pour discuter de ce blocage, veuillez [[m:Steward requests/Global|envoyer une demande de révision sur Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Un ou plusieurs serveurs mandataires utilisés par votre demande sont [[m:Special:MyLanguage/Global blocks|bloqués globalement]].'''
+
+Le blocage a été effectué par $1 ($2).
+Le motif fourni est ''$3''.
+
+* Début du blocage : $4
+* Fin du blocage : $5
+
+L’adresse du mandataire bloqué était $6.
+Veuillez inclure tous les détails ci-dessus dans toute demande que vous feriez.
+
+Si vous pensez avoir été bloqué à tort, vous pouvez trouver plus d’information et d’instructions dans la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].
+Sinon, pour discuter du blocage, veuillez [[m:Steward requests/Global|envoyer une demande de révision à Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Votre adresse IP, <strong>$1</strong>, a été identifiée de façon automatique comme un nœud de sortie de Tor.
+La modification depuis Tor est bloquée pour éviter les abus.
+Pour plus d’information et d’instructions pour légitimer les utilisateurs, voyez la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].',
 );
 
 /** Cajun French (français cadien)
@@ -5875,6 +5908,35 @@ Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo 
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar unha conta',
 	'createacct-imgcaptcha-help' => 'Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]',
 	'wikimedia-developers' => 'Desenvolvedores',
+	'wikimedia-globalblocking-ipblocked' => "'''O seu enderezo IP foi [[m:Special:MyLanguage/Global blocks|bloqueado en todos os wikis]].'''
+
+$1 ($2) realizou o bloqueo.
+O motivo achegado é ''$3''.
+
+* Inicio do bloqueo: $4
+* Caducidade do bloqueo: $5
+
+O seu enderezo IP actual é $6.
+Por favor, inclúa todos os datos anteriores en calquera consulta que faga.
+
+Se pensa que recibiu o bloqueo por erro, pode atopar información adicional e instrucións na política global [[m:Special:MyLanguage/No open proxies|contra os proxies abertos]].
+Senón, para conversar acerca do bloqueo [[m:Steward requests/Global|deixe unha solicitude de revisión en Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Un ou máis servidores proxy usados pola súa solicitude foron [[m:Special:MyLanguage/Global blocks|bloqueados globalmente]].'''
+
+$1 ($2) realizou o bloqueo.
+O motivo achegado é ''$3''.
+
+* Inicio do bloqueo: $4
+* Caducidade do bloqueo: $5
+
+O enderezo proxy bloqueado é $6.
+Por favor, inclúa todos os datos anteriores en calquera consulta que faga.
+
+Se pensa que recibiu o bloqueo por erro, pode atopar información adicional e instrucións na política global [[m:Special:MyLanguage/No open proxies|contra os proxies abertos]].
+Senón, para conversar acerca do bloqueo [[m:Steward requests/Global|deixe unha solicitude de revisión en Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'O seu enderezo IP, <strong>$1</strong>, foi identificado automaticamente como un nodo de saída Tor.
+A edición a través de Tor está bloqueada para previr o abuso.
+Para atopar información adicional e instrucións para os usuarios lexítimos, consulte a política global [[m:Special:MyLanguage/No open proxies|contra os proxies abertos]].',
 );
 
 /** Gilaki (گیلکی)
@@ -6279,7 +6341,7 @@ $messages['he'] = array(
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:ביורוקרטים לשעבר',
 	'group-Image-reviewer' => 'סוקרי תמונות',
 	'group-Image-reviewer-member' => '{{GENDER:$1|סוקר|סוקרת}} תמונות',
-	'grouppage-Image-reviewer' => '{{ns:project}}: סוקרי תמונות',
+	'grouppage-Image-reviewer' => '{{ns:project}}:סוקרי תמונות',
 	'group-OTRS-member' => 'חברי OTRS',
 	'group-OTRS-member-member' => '{{GENDER:$1|חבר|חברת}} OTRS',
 	'grouppage-OTRS-member' => '{{ns:project}}:חברי OTRS',
@@ -6359,8 +6421,9 @@ $messages['he'] = array(
 	'group-Ombudsmen-member' => '{{GENDER:$1|נציב|נציבת}} תלונות הציבור',
 	'group-Staff' => 'אנשי צוות',
 	'group-Staff-member' => 'איש צוות',
-	'group-editinterface' => 'עורכי הממשק',
+	'group-editinterface' => 'עורכי ממשק',
 	'group-editinterface-member' => '{{GENDER:$1|עורך|עורכת}} ממשק',
+	'grouppage-editinterface' => '{{ns:project}}:עורך ממשק',
 	'group-steward' => 'דיילים',
 	'group-steward-member' => '{{GENDER:$1|דייל|דיילת}}',
 	'grouppage-steward' => '{{ns:project}}:דייל',
@@ -8432,6 +8495,7 @@ $messages['kn'] = array(
  * @author Devunt
  * @author Ficell
  * @author FriedC
+ * @author Hym411
  * @author ITurtle
  * @author Ilovesabbath
  * @author Klutzy
@@ -8582,10 +8646,10 @@ $messages['ko'] = array(
 	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
-	'wikibase-sitelinks-wikivoyage' => '이 항목으로 링크한 위키여행 문서',
+	'wikibase-sitelinks-wikivoyage' => '이 항목을 가리키는 위키여행 문서',
 	'wikibase-sitelinks-commons' => '이 항목을 가리키는 위키미디어 공용 문서',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 옮길 수 없습니다.',
-	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터가 미국에 저장하는 데 동의하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]의 적용을 받습니다.',
+	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
 	'extdist-branch-master' => '마스터 (최신 개발 버전)',
 	'extdist-branch-REL1_21' => '1.21 (최신 안정 미디어위키)',
@@ -8594,9 +8658,22 @@ $messages['ko'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:계정 요청',
 	'createacct-imgcaptcha-help' => '그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]',
 	'wikimedia-developers' => '개발자',
+	'wikimedia-globalblocking-ipblocked' => "'''당신의 IP 주소는 [[m:Special:MyLanguage/Global blocks|모든 위키에서 차단]]되었습니다.'''
+
+차단한 사용자는 $1 ($2)입니다.
+차단한 이유는 ''$3''입니다.
+
+* 차단 시점: $4
+* 차단 기한: $5
+
+당신의 현재 IP 주소는 $6입니다.
+차단의 재검토를 요청할 때 위의 정보를 포함해 주세요.
+
+당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개 프록시 금지]] 전역 정책에서 추가적인 설명을 찾아볼 수 있습니다.
+차단에 대해 재검토를 요청하려면 [[m:Steward requests/Global|메타위키에 차단 재검토 요청]]을 남기십시오.",
 	'wikimedia-torblock-blocked' => '당신의 IP 주소인 <strong>$1</strong>은 자동적으로 토르 끝 노드로 판명되었습니다.
 토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
-자세한 정보나 정당한 사용자를 위한 설명이 필요하다면,  [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
+자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -9820,6 +9897,34 @@ $messages['mk'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:Барање_на_сметка',
 	'createacct-imgcaptcha-help' => 'Не можете да ја видите сликата? [[{{MediaWiki:createacct-captcha-help-url}}|Побарајте сметка]]',
 	'wikimedia-developers' => 'Програмери',
+	'wikimedia-globalblocking-ipblocked' => "'''Вашата IP-адреса е [[m:Special:MyLanguage/Global blocks|блокирана на сите викија]].'''
+
+Блокот го зададе $1 ($2).
+Наведената причина гласи: ''$3''.
+
+* Почнува: $4
+* Истекува: $5
+Вашата тековна IP-адреса е $6.
+Наведете ги сите овие податоци во поплаката.
+
+Ако сметате дека сте блокирани по грешка, ќе најдете уште информаиции и напаствија на страницата на глобалното правило „[[m:Special:MyLanguage/No open proxies|Без отворени застапници]]“.
+Во спротивно, [[m:Steward requests/Global|поставете барање за разгледување на Мета]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Еден или повеќе застапнички посредници што ги користи вашето барање се [[m:Special:MyLanguage/Global blocks|глобално блокирани]].'''
+
+Блокот го зададе $1 ($2).
+Наведената причина гласи: ''$3''.
+
+* Почнува: $4
+* Истекува: $5
+
+Блокраната адреса на посредникот е $6.
+Наведете ги сите овие податоци во поплаката.
+
+Ако сметате дека сте блокирани по грешка, ќе најдете уште информаиции и напаствија на страницата на глобалното правило „[[m:Special:MyLanguage/No open proxies|Без отворени застапници]]“.
+Во спротивно, [[m:Steward requests/Global|поставете барање за разгледување на Мета]].",
+	'wikimedia-torblock-blocked' => 'Вашата IP-адреса, <strong>$1</strong>, е автоматски препознаена како излезен Tor-јазол.
+Уредувањето преку Tor е оневозможено за да се спречи злоупотреба.
+Повеќе информации и напатствија за добронамерните корисници ќе најдете на страницата на глобалното правило „[[m:Special:MyLanguage/No open proxies|Без отворени застапници]]“.',
 );
 
 /** Malayalam (മലയാളം)
@@ -11604,6 +11709,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'wikidata-shortcopyrightwarning' => 'Klikając "{{int:wikibase-save}}" zgadzasz się na [https://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] i nieodwołalnie zgadzasz się udostępniać swój wkład w ramach [https://creativecommons.org/publicdomain/zero/1.0/ Licencji CC0].',
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [https://wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
 	'wikibase-sitelinks-wikivoyage' => 'Strony Wikipodróży powiązane z tym elementem',
+	'wikibase-sitelinks-commons' => 'Strony Wikimedia Commons powiązane z tym elementem',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
 	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
@@ -11874,7 +11980,7 @@ $messages['pnt'] = array(
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
-	'wikimediamessages-desc' => 'د ويکيمېډيا ځانګړي پيغامونه',
+	'wikimediamessages-desc' => 'د ويکيمېډيا ځانگړي پيغامونه',
 	'sitesupport' => 'بسپنې',
 	'tooltip-n-sitesupport' => 'زموږ ملاتړ وکړی',
 	'specialpages-group-contribution' => 'ونډه/بسپنه ټولونکی',
@@ -11887,9 +11993,9 @@ $messages['ps'] = array(
 	'group-OTRS-member' => 'د OTRS غړي',
 	'group-OTRS-member-member' => '{{GENDER:$1|د OTRS غړی}}',
 	'grouppage-OTRS-member' => '{{ns:project}}:د OTRS غړي',
-	'group-accountcreator' => 'ګڼون جوړونکي',
-	'group-accountcreator-member' => '{{GENDER:$1|ګڼون جوړونکی}}',
-	'grouppage-accountcreator' => '{{ns:project}}:ګڼون جوړونکي',
+	'group-accountcreator' => 'گڼون جوړونکي',
+	'group-accountcreator-member' => '{{GENDER:$1|گڼون جوړونکی}}',
+	'grouppage-accountcreator' => '{{ns:project}}:گڼون جوړونکي',
 	'group-confirmed' => 'تاييد شوي کارنان',
 	'group-confirmed-member' => '{{GENDER:$1|تاييد شوی کارن}}',
 	'grouppage-confirmed' => '{{ns:project}}:تاييد شوي کارنان',
@@ -11932,7 +12038,7 @@ $messages['ps'] = array(
 	'group-inactive-member' => '{{GENDER:$1|ناچارنده کارن}}',
 	'grouppage-inactive' => '{{ns:project}}:غېرفعاله کارنان',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(په ټاکلو کې يې مرسته غواړم)]]',
-	'createacct-imgcaptcha-help' => 'انځور د کتلو وړ نه دی؟ [[{{MediaWiki:createacct-captcha-help-url}}|د يو ګڼون غوښتنه کول]]',
+	'createacct-imgcaptcha-help' => 'انځور د کتلو وړ نه دی؟ [[{{MediaWiki:createacct-captcha-help-url}}|د يو گڼون غوښتنه کول]]',
 );
 
 /** Portuguese (português)
@@ -12684,6 +12790,35 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
 	'createacct-captcha-help-url' => "{{ns:Project}}:Cirche 'nu cunde",
 	'createacct-imgcaptcha-help' => "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]",
 	'wikimedia-developers' => 'Sviluppature',
+	'wikimedia-globalblocking-ipblocked' => "'''<nowiki>'U</nowiki> 'ndirizze IP tune ha state [[m:Special:MyLanguage/Global blocks|bloccate sus a tutte le uicchi]].'''
+
+'U blocche ha state fatte da $1 ($2).
+'U mutive date jè ''$3''.
+
+* Inizie d'u blocche: $4
+* Scadenze d'u blocche: $5
+
+'U 'ndirizze IP tune jè $6.
+Pe piacere 'nglude tutte le dettaglie de sus jndr'à ogne inderrogazione ca tu face.
+
+Ce tu pinze ca è state bloccate pe errore, tu puè acchià 'mbormaziune aggiundive e 'struziune jndr'à le regole globbale sus a [[m:Special:MyLanguage/No open proxies|le proxy achiuse]].
+Altrimende, pe 'ngazzarte sus a 'u blocche pe piacere [[m:Steward requests/Global|manne 'na richieste pe revisitazione sus a Meta-Uicchi]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Une o cchiù server proxy ausate pa richiesta toje ha [[m:Special:MyLanguage/Global blocks|state bloccate globbalmende]].'''
+
+'U blocche ha state fatte da $1 ($2).
+'U mutive date jè ''$3''.
+
+* Inizie d'u blocche: $4
+* Scadenze d'u blocche: $5
+
+'U 'ndirizze IP tune jè $6.
+Pe piacere 'nglude tutte le dettaglie de sus jndr'à ogne inderrogazione ca tu face.
+
+Ce tu pinze ca è state bloccate pe errore, tu puè acchià 'mbormaziune aggiundive e 'struziune jndr'à le regole globbale sus a [[m:Special:MyLanguage/No open proxies|le proxy achiuse]].
+Altrimende, pe 'ngazzarte sus a 'u blocche pe piacere [[m:Steward requests/Global|manne 'na richieste pe revisitazione sus a Meta-Uicchi]].",
+	'wikimedia-torblock-blocked' => "'U 'ndirizze IP tune, <strong>$1</strong>, ha state idendificate automaticamende cumme a 'nu node de assute de Tor.
+Le cangiaminde cu Tor onne state bloccate pe prevenì abbuse.
+Pe 'mbormaziune aggiundive e 'struziune pe le utinde leggittimate, 'ndruche le regole globbale [[m:Special:MyLanguage/No open proxies|de le proxy achiuse]]",
 );
 
 /** Russian (русский)
@@ -12845,6 +12980,7 @@ $messages['ru'] = array(
 	'wikidata-shortcopyrightwarning' => 'Нажимая "{{int:wikibase-save}}", вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use условиями использования], и даёте неотзывное согласие на публикацию своего вклада на условиях [https://creativecommons.org/publicdomain/zero/1.0/ лицензии CC0].',
 	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Страницы Викигида, связанные с этим элементом',
+	'wikibase-sitelinks-commons' => 'Страницы Викисклада, связанные с этим элементом',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
@@ -15834,7 +15970,7 @@ $messages['uk'] = array(
 	'wikidata-shortcopyrightwarning' => 'Натиснувши  "{{int:wikibase-save}}", ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
-	'wikibase-sitelinks-commons' => 'Вікісховище (Wikimedia Commons) сторінок, що посилаються на цей елемент',
+	'wikibase-sitelinks-commons' => 'Сторінки Сховища Вікімедіа, що посилаються на цей елемент',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
@@ -17000,6 +17136,7 @@ $messages['zh-hans'] = array(
 	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
 	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接至该项的维基导游页面',
+	'wikibase-sitelinks-commons' => '链接至该项的维基共享资源页面',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
@@ -17010,6 +17147,30 @@ $messages['zh-hans'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:账号请求',
 	'createacct-imgcaptcha-help' => '无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]',
 	'wikimedia-developers' => '开发者',
+	'wikimedia-globalblocking-ipblocked' => "'''您的IP地址已被[[m:Special:MyLanguage/Global blocks|全部维基站点封禁]]。'''
+
+这次的封禁是由$1（$2）进行的。
+给出的封禁原因是''$3''。
+
+* 封禁开始时间：$4
+* 封禁结束时间：$5
+
+您当前的IP地址是$6。
+请在提报任何问题之前再三检查包括上述内容的任何细节。
+
+如果您认为您被错误封禁，您应先阅读全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]以获得更多信息和指示。否则，申请解禁请[[m:Steward requests/Global|在元维基上发布复审请求]]。",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''您所申请的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全局封禁]]。'''
+
+这次的封禁是由$1（$2）进行的。
+给出的封禁原因是''$3''。
+
+* 封禁开始时间：$4
+* 封禁结束时间：$5
+
+被封禁的代理服务器地址是$6。
+请在提报任何问题之前再三检查包括上述内容的任何细节。
+
+如果您认为您被错误封禁，您应先阅读全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]以获得更多信息和指示。否则，申请解禁请[[m:Steward requests/Global|在元维基上发布复审请求]]。",
 	'wikimedia-torblock-blocked' => '您的IP地址<strong>$1</strong>被自动查核出至少一个带套代理连接（Tor）节点。
 请注意我们将自动封禁使用Tor的IP地址以防滥用。
 关于附加信息和允许的例外，请参阅全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]。',
@@ -17021,6 +17182,7 @@ $messages['zh-hans'] = array(
  * @author Horacewai2
  * @author KaiesTse
  * @author Liangent
+ * @author Liuxinyu970226
  * @author Mark85296341
  * @author Nemo bis
  * @author Shirayuki
@@ -17082,7 +17244,7 @@ $messages['zh-hant'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:被保護頁面編者',
 	'group-eliminator' => '刪除者',
 	'group-eliminator-member' => '刪除者',
-	'grouppage-eliminator' => '{{ns:project}}:刪除者', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:清除員',
 	'group-filemover' => '檔案移動員',
 	'group-filemover-member' => '檔案移動員',
 	'grouppage-filemover' => '{{ns:project}}:檔案移動員',
@@ -17117,7 +17279,7 @@ $messages['zh-hant'] = array(
 	'group-trusted-member' => '{{GENDER:$1|受信任用戶}}',
 	'grouppage-trusted' => '{{ns:project}}:受信任的用戶',
 	'group-uploader' => '上載者',
-	'group-uploader-member' => '上傳文件用戶', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|上傳者}}',
 	'grouppage-uploader' => '{{ns:project}}:上傳文件用戶',
 	'group-Global_bot' => '全域機器人',
 	'group-Global_bot-member' => '{{GENDER:$1|全域機器人}}',
@@ -17160,9 +17322,11 @@ $messages['zh-hant'] = array(
 	'shared-repo-name-shared' => '維基共享資源',
 	'wikimedia-copyright' => '本站的全部文字在<a "href="{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}"title="Wikipedia:CC-by-sa-3.0協議文本">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>）',
 	'wikidata-copyright' => '所有來自主和屬性名字空間的結構化數據以<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知識共享CC0協議</a>下發佈； 其他名字空間中的文本在<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知識共享署名-相同方式共享協議">知識共享署名-相同方式共享協議</a>下發佈；附加條款可能適用。參見<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="維基媒體基金會的使用條款">使用條款</a>了解細節。',
-	'wikidata-shortcopyrightwarning' => '點擊「保存」表示您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並且您不可撤銷地同意以[https://creativecommons.org/publicdomain/zero/1.0/ CC0授權]發布您的貢獻。', # Fuzzy
+	'wikidata-shortcopyrightwarning' => '點擊「{{int:wikibase-save}}」意即您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並不可撤銷同意以[https://creativecommons.org/publicdomain/zero/1.0/ 創用CC-0協議]之授權發布此貢獻。',
 	'wikimedia-copyrightwarning' => '一旦點擊「{{int:savearticle}}」按鈕，就表示你同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。
 你同意超鏈接或URL足以作為創作共享協議的署名。',
+	'wikibase-sitelinks-wikivoyage' => '連入此項之維基導遊頁面',
+	'wikibase-sitelinks-commons' => '連入此項之維基共享資源頁面',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 	'upload-more-photos-of-this-monument' => '上載更多此古蹟的圖片',
@@ -17172,6 +17336,18 @@ $messages['zh-hant'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|（幫我選擇）]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:請求建立用戶',
 	'createacct-imgcaptcha-help' => '無法看到圖像嗎？[[{{MediaWiki:createacct-captcha-help-url}}|請求建立用戶]]',
+	'wikimedia-developers' => '開發人員',
+	'wikimedia-globalblocking-ipblocked' => "'''您的IP位址已經[[m:Special:MyLanguage/Global blocks|所有維基封禁]]。'''
+封禁由$1（$2）做出。
+原因如下''$3''。
+
+* 封禁開始之時：$4
+* 封禁終止之時：$5
+
+您當前的IP位址是$6。
+于請求解封之前請檢閱上述訊息。
+
+如果您認為封禁冤枉了您，請您詳細閱讀全局方針[[m:Special:MyLanguage/No open proxies|請勿開放代理]]。否則，請于[[m:Steward requests/Global|此頁面遞交請求]]。",
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)
