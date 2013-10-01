@@ -1519,6 +1519,7 @@ Consulte les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="
 	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [https://wikimediafoundation.org/wiki/Terms_of_Use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [https://creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxines de Wikivoyage enllazaes con esti elementu',
+	'wikibase-sitelinks-commons' => 'Páxines de Wikimedia Commons enllazaes con esti elementu',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
@@ -1529,6 +1530,19 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicite una cuenta',
 	'createacct-imgcaptcha-help' => '¿Nun pue ver la imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite una cuenta]]',
 	'wikimedia-developers' => 'Desendolcadores',
+	'wikimedia-globalblocking-ipblocked' => "'''La so direición IP ta [[m:Special:MyLanguage/Global blocks|bloquiada en toles wikis]].'''
+
+El bloquéu fizolu $1 ($2).
+El motivu dau ye ''$3''.
+
+* Principiu del bloquéu: $4
+* Caducidá del bloquéu: $5
+
+La so direición IP actual ye $6.
+Por favor, incluya tolos datos anteriores en cualquier consulta que faiga.
+
+Si cree que ta bloquiáu por error, pue alcontrar más información ya instrucciones na política global [[m:Special:MyLanguage/No open proxies|escontra los proxies abiertos]].
+D'otra manera, pa falar del bloquéu [[m:Steward requests/Global|dexe una solicitú de revisión en Meta-Wiki]].",
 );
 
 /** Avaric (авар)
@@ -7805,6 +7819,32 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'createacct-captcha-help-url' => '{{ns:Project}}:Richieste di utenze',
 	'createacct-imgcaptcha-help' => "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
 	'wikimedia-developers' => 'Sviluppatori',
+	'wikimedia-globalblocking-ipblocked' => "'''Il tuo indirizzo IP è stato [[m:Special:MyLanguage/Global blocks|bloccato globalmente]].'''
+
+Il blocco è stato eseguito da $1 ($2).
+La motivazione fornita è ''$3''.
+
+* Inizio del blocco: $4
+* Fine del blocco: $5
+
+Il tuo indirizzo IP attuale è $6.
+Includi tutti i dettagli sopra riportati in tutte le domande che fai.
+
+Se pensi di essere stato bloccato per errore, puoi trovare altre informazioni nella policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].
+Altrimenti, per discutere del blocco [[m:Steward requests/Global|inserire una richiesta di riesame su Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Uno o più server proxy usati dalla tua richiesta sono stati [[m:Special:MyLanguage/Global blocks|bloccati globalmente]].'''
+
+Il blocco è stato eseguito da $1 ($2).
+La motivazione fornita è ''$3''.
+
+* Inizio del blocco: $4
+* Fine del blocco: $5
+
+L'indirizzo proxy bloccato è $6.
+Includi tutti i dettagli sopra riportati in tutte le domande che fai.
+
+Se pensi di essere stato bloccato per errore, puoi trovare altre informazioni nella policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].
+Altrimenti, per discutere del blocco [[m:Steward requests/Global|inserire una richiesta di riesame su Meta-Wiki]].",
 	'wikimedia-torblock-blocked' => 'Il tuo indirizzo IP, <strong>$1</strong>, è stato automaticamente identificato come un exit node tor.
 La possibilità di editare utilizzando tor è bloccata per impedire abusi.
 Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].',
@@ -8700,6 +8740,7 @@ $messages['krc'] = array(
 	'wikimedia-copyrightwarning' => 'Кесигизни тюрлендириулеригизни сакъласагъыз, [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].', # Fuzzy
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(сайлауда болуш)]]',
 	'createacct-imgcaptcha-help' => 'Суратны кёрелмеймисе? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтха соруу бер]]',
+	'wikimedia-developers' => 'Джарашдырыучула',
 );
 
 /** Kinaray-a (Kinaray-a)
