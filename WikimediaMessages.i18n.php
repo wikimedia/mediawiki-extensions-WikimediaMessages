@@ -12046,11 +12046,11 @@ $messages['ps'] = array(
 	'group-flood' => 'د روباټ کارنان',
 	'group-flood-member' => '{{GENDER:$1|روباټ کارن}}',
 	'grouppage-flood' => '{{ns:project}}:د روباټ کارنان',
-	'group-founder' => 'بنسټګران',
-	'group-founder-member' => '{{GENDER:$1|بنسټګر}}',
-	'grouppage-founder' => '{{ns:project}}:بنسټګر',
+	'group-founder' => 'بنسټگران',
+	'group-founder-member' => '{{GENDER:$1|بنسټگر}}',
+	'grouppage-founder' => '{{ns:project}}:بنسټگر',
 	'group-interface_editor' => 'د کتنمل سمونګران',
-	'group-interface_editor-member' => '{{GENDER:$1|د کتنمل بنسټګر}}',
+	'group-interface_editor-member' => '{{GENDER:$1|د کتنمل بنسټگر}}',
 	'grouppage-interface_editor' => '{{ns:project}}:د کتنمل سمونګران',
 	'group-ipblock-exempt' => 'له آی پي بنديزه بخښلی',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|له آی پي بنديزه بخښلی}}',
@@ -12066,7 +12066,7 @@ $messages['ps'] = array(
 	'group-Staff' => 'امله',
 	'group-Staff-member' => 'د املې غړی',
 	'group-editinterface' => 'د کتنمل سمونګران',
-	'group-editinterface-member' => '{{GENDER:$1|د ليدنمخ سمونګر}}',
+	'group-editinterface-member' => '{{GENDER:$1|د ليدنمخ سمونگر}}',
 	'group-steward' => 'کوربانه',
 	'group-sysadmin' => 'د غونډال پازوالان',
 	'group-sysadmin-member' => '{{GENDER:$1|د غونډال پازوال}}',
@@ -12074,7 +12074,7 @@ $messages['ps'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|د ژباړې پازوال}}',
 	'grouppage-translationadmin' => '{{ns:project}}:د ژباړې پازوالان',
 	'group-coder' => 'کوډګران',
-	'group-coder-member' => '{{GENDER:$1|کوډګر}}',
+	'group-coder-member' => '{{GENDER:$1|کوډگر}}',
 	'group-inactive' => 'ناچارنده کارنان',
 	'group-inactive-member' => '{{GENDER:$1|ناچارنده کارن}}',
 	'grouppage-inactive' => '{{ns:project}}:غېرفعاله کارنان',
@@ -13911,8 +13911,36 @@ $messages['sl'] = array(
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
 	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [https://wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
+	'wikibase-sitelinks-commons' => 'Strani Wikimedia Commons, povezane na ta predmet',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 	'upload-more-photos-of-this-monument' => 'Naložite več fotografij spomenika',
+	'wikimedia-globalblocking-ipblocked' => "'''Vaš IP-naslov je [[m:Special:MyLanguage/Global blocks|blokiran na vseh wikijih]].'''
+
+Blokado je uvedel uporabnik $1 ($2).
+Pri tem je podal naslednjo utemeljitev: ''$3''.
+
+* Začetek blokade: $4
+* Konec blokade: $5
+
+Vaš trenutni IP-naslov je $6.
+Prosimo, da v morebitna vprašanja vključite vse zgoraj navedene podatke.
+
+Če ste mnenja, da ste bili blokirani po pomoti, lahko dodatne informacije in navodila najdete v globalnem pravilu [[m:Special:MyLanguage/No open proxies|Brez odprtih posredniških strežnikov]].
+SSicer se lahko o blokadi pogovorite z [[m:Steward requests/Global|objavo zahtevka za pregled na Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Eden ali več posredniških strežnikov, ki jih uporablja vaša zahteva, je [[m:Special:MyLanguage/Global blocks|globalno blokiranih]].'''
+
+Blokiranje je izvedel uporabnik $1 ($2).
+Pri tem je podal naslednjo utemeljitev: ''$3''.
+
+* Začetek blokade: $4
+* Konec blokade: $5
+
+Blokirani posredniški naslov je bil $6.
+Prosimo, da v morebitna vprašanja vključite vse zgoraj navedene podatke.
+
+Če ste mnenja, da ste bili blokirani po pomoti, lahko dodatne informacije in navodila najdete v globalnem pravilu [[m:Special:MyLanguage/No open proxies|Brez posredniških strežnikov]].
+Sicer se lahko o blokadi pogovorite z [[m:Steward requests/Global|objavo zahtevka za pregled na Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Vaš IP-naslov, <strong>$1</strong> je bil samodejno prepoznan kot izhodno vozlišče omrežja Tor. Urejanje prek Tora je zaradi preprečevanja zlorab onemogočeno. Za več informacij o tem in navodila za upravičene uporabnike glejte globalno politiko [[m:Special:MyLanguage/No open proxies|Nobenih odprtih posredniških strežnikov]].',
 );
 
 /** Lower Silesian (Schläsch)
@@ -16581,6 +16609,34 @@ Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/
 	'createacct-captcha-help-url' => '{{ns:Project}}:Yêu cầu tạo tài khoản',
 	'createacct-imgcaptcha-help' => 'Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]',
 	'wikimedia-developers' => 'Nhà phát triển',
+	'wikimedia-globalblocking-ipblocked' => "'''Địa chỉ IP của bạn đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''
+
+Người cấm là $1 ($2).
+Lý do được đưa ra là ''$3''.
+
+* Lúc bắt đầu cấm: $4
+* Thời hạn cấm: $5
+
+Địa chỉ IP của bạn hiện là $6.
+Xin vui lòng bao gồm các chi tiết ở trên khi nào hỏi về vụ cấm này.
+
+Nếu bạn biết rằng đây là vụ nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].
+Để thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu xem lại tại Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Yêu cầu của bạn sử dụng một hay nhiều máy chủ proxy đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''
+
+Người cấm là $1 ($2).
+Lý do là ''$3''.
+
+* Lúc bắt đầu cấm: $4
+* Thời hạn cấm: $5
+
+Địa chỉ IP của máy chủ proxy bị cấm là $6.
+Xin vui lòng bao gồm các chi tiết ở trên khi nào hỏi về vụ cấm này.
+
+Nếu bạn biết rằng đây là vụ nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].
+Để thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu xem lại tại Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Địa chỉ IP của bạn, <strong>$1</strong>, đã bị xác định là một nút thoát tor.
+Sửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm thông tin và hướng dẫn dành cho những người dùng chính đáng trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].',
 );
 
 /** Volapük (Volapük)
