@@ -237,6 +237,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 	# Wikidata-specific messages
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage pages linked to this item',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons pages linked to this item',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 
 	# Custom message for enwiki to stop from deleting the mainpage
 	'cant-delete-main-page' => 'You cannot delete or move the main page.',
@@ -529,6 +530,7 @@ Refers to {{msg-mw|Savearticle}}.
 {{Identical/Wikimedia-licensing}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
 	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
