@@ -3652,6 +3652,7 @@ Siehe die <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/de" title="
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten, die mit diesem Objekt verlinkt sind',
 	'wikibase-sitelinks-commons' => 'Wikimedia-Commons-Seiten, die mit diesem Objekt verlinkt sind',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
