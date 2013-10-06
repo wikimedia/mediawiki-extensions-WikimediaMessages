@@ -12,157 +12,217 @@
 
 $messages = array();
 
-/** English (English)
- */
 $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific messages',
-	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=en',
-	'sitesupport' => 'Donate',
-	'tooltip-n-sitesupport' => 'Support us',
-	'sidebar' => '* navigation
+	'sitesupport-url'        => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=en', # do not change anything except the uselang for the link
+	'sitesupport'            => 'Donate',
+	'tooltip-n-sitesupport'  => 'Support us',
+	'sidebar'                =>  '* navigation
 ** mainpage|mainpage-description
 ** portal-url|portal
 ** currentevents-url|currentevents
 ** recentchanges-url|recentchanges
 ** randompage-url|randompage
 ** helppage|help
-** sitesupport-url|sitesupport',
+** sitesupport-url|sitesupport', # do not translate or duplicate this message to other languages
+
+	# Message used by multiple extensions (StoryBoard and ContributionReporting)
 	'specialpages-group-contribution' => 'Contribution/Fundraiser',
-	'robots.txt' => '# Lines here will be added to the global robots.txt',
-	'nstab-creator' => 'Creator',
-	'nstab-institution' => 'Institution',
-	'nstab-sequence' => 'Sequence',
-	'nstab-timedtext' => 'TimedText',
-	'group-Ex_Administrator' => 'Ex administrators',
+
+	# Per http://lists.wikimedia.org/pipermail/wikitech-l/2008-September/039454.html
+	'robots.txt'  => '# Lines here will be added to the global robots.txt', # do not translate or duplicate this message to other languages
+
+	# Wikimedia specific extra namespaces
+	'nstab-creator'     => 'Creator', # Wikimedia Commons
+	'nstab-institution' => 'Institution', # Wikimedia Commons
+	'nstab-sequence'    => 'Sequence', # Wikimedia Commons
+	'nstab-timedtext'   => 'TimedText', # Wikimedia Commons
+
+	# Wikimedia specific usergroups
+	'group-Ex_Administrator'        => 'Ex administrators',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|ex administrator}}',
-	'grouppage-Ex_Administrator' => '{{ns:project}}:Ex administrators',
-	'group-Ex_Bureaucrat' => 'Ex bureaucrats',
+	'grouppage-Ex_Administrator'    => '{{ns:project}}:Ex administrators',
+
+	'group-Ex_Bureaucrat'        => 'Ex bureaucrats',
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|ex bureaucrat}}',
-	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:Ex bureaucrats',
-	'group-Image-reviewer' => 'Image reviewers',
+	'grouppage-Ex_Bureaucrat'    => '{{ns:project}}:Ex bureaucrats',
+
+	'group-Image-reviewer'        => 'Image reviewers',
 	'group-Image-reviewer-member' => '{{GENDER:$1|image reviewer}}',
-	'grouppage-Image-reviewer' => '{{ns:project}}:Image reviewers',
-	'group-OTRS-member' => 'OTRS members',
+	'grouppage-Image-reviewer'    => '{{ns:project}}:Image reviewers',
+
+	'group-OTRS-member'        => 'OTRS members',
 	'group-OTRS-member-member' => '{{GENDER:$1|OTRS member}}',
-	'grouppage-OTRS-member' => '{{ns:project}}:OTRS members',
-	'group-abusefilter' => 'Abuse filter editors',
+	'grouppage-OTRS-member'    => '{{ns:project}}:OTRS members',
+
+	'group-abusefilter'        => 'Abuse filter editors',
 	'group-abusefilter-member' => '{{GENDER:$1|abuse filter editor}}',
-	'grouppage-abusefilter' => '{{ns:project}}:Abuse filter editors',
-	'group-accountcreator' => 'Account creators',
+	'grouppage-abusefilter'    => '{{ns:project}}:Abuse filter editors',
+
+	'group-accountcreator'        => 'Account creators',
 	'group-accountcreator-member' => '{{GENDER:$1|account creator}}',
-	'grouppage-accountcreator' => '{{ns:project}}:Account creators',
-	'group-arbcom' => 'Arbitration committee members',
+	'grouppage-accountcreator'    => '{{ns:project}}:Account creators',
+
+	'group-arbcom'        => 'Arbitration committee members',
 	'group-arbcom-member' => '{{GENDER:$1|arbitration committee member}}',
-	'grouppage-arbcom' => '{{ns:project}}:Arbitration committee members',
-	'group-autopatrolled' => 'Autopatrollers',
+	'grouppage-arbcom'    => '{{ns:project}}:Arbitration committee members',
+
+	'group-autopatrolled'        => 'Autopatrollers',
 	'group-autopatrolled-member' => '{{GENDER:$1|autopatroller}}',
-	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrollers',
-	'group-autoreviewer' => 'Autoreviewers',
+	'grouppage-autopatrolled'    => '{{ns:project}}:Autopatrollers',
+
+	'group-autoreviewer'        => 'Autoreviewers',
 	'group-autoreviewer-member' => '{{GENDER:$1|autoreviewer}}',
-	'grouppage-autoreviewer' => '{{ns:project}}:Autoreviewers',
-	'group-bigexport' => 'Big exporters',
+	'grouppage-autoreviewer'    => '{{ns:project}}:Autoreviewers',
+
+	'group-bigexport'        => 'Big exporters',
 	'group-bigexport-member' => '{{GENDER:$1|big exporter}}',
-	'grouppage-bigexport' => '{{ns:project}}:Big exporters',
-	'group-botadmin' => 'Bots with administrator rights',
+	'grouppage-bigexport'    => '{{ns:project}}:Big exporters',
+
+	'group-botadmin'        => 'Bots with administrator rights',
 	'group-botadmin-member' => '{{GENDER:$1|bot with administrator rights}}',
-	'grouppage-botadmin' => '{{ns:project}}:Bots with administrator rights',
-	'group-confirmed' => 'Confirmed users',
+	'grouppage-botadmin'    => '{{ns:project}}:Bots with administrator rights',
+
+	'group-confirmed'        => 'Confirmed users',
 	'group-confirmed-member' => '{{GENDER:$1|confirmed user}}',
-	'grouppage-confirmed' => '{{ns:project}}:Confirmed users',
-	'group-editprotected' => 'Protected page editors',
+	'grouppage-confirmed'    => '{{ns:project}}:Confirmed users',
+
+	'group-editprotected'        => 'Protected page editors',
 	'group-editprotected-member' => '{{GENDER:$1|protected page editor}}',
-	'grouppage-editprotected' => '{{ns:project}}:Protected page editors',
-	'group-eliminator' => 'Eliminators',
+	'grouppage-editprotected'    => '{{ns:project}}:Protected page editors',
+
+	'group-eliminator'        => 'Eliminators',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminators',
-	'group-filemover' => 'File movers',
+	'grouppage-eliminator'    => '{{ns:project}}:Eliminators',
+
+	'group-filemover'        => 'File movers',
 	'group-filemover-member' => '{{GENDER:$1|file mover}}',
-	'grouppage-filemover' => '{{ns:project}}:File movers',
-	'group-flood' => 'Bot users',
+	'grouppage-filemover'    => '{{ns:project}}:File movers',
+
+	'group-flood'        => 'Bot users', // http://meta.wikimedia.org/wiki/Meta:Flood_flag
 	'group-flood-member' => '{{GENDER:$1|bot user}}',
-	'grouppage-flood' => '{{ns:project}}:Bot users',
-	'group-founder' => 'Founders',
+	'grouppage-flood'    => '{{ns:project}}:Bot users',
+
+	'group-founder'        => 'Founders',
 	'group-founder-member' => '{{GENDER:$1|founder}}',
-	'grouppage-founder' => '{{ns:project}}:Founders',
-	'group-import' => 'Importers',
+	'grouppage-founder'    => '{{ns:project}}:Founders',
+
+	'group-import'        => 'Importers',
 	'group-import-member' => '{{GENDER:$1|importer}}',
-	'grouppage-import' => '{{ns:project}}:Importers',
-	'group-interface_editor' => 'Interface editors',
+	'grouppage-import'    => '{{ns:project}}:Importers',
+
+	'group-interface_editor'        => 'Interface editors',
 	'group-interface_editor-member' => '{{GENDER:$1|interface editor}}',
-	'grouppage-interface_editor' => '{{ns:project}}:Interface editors',
-	'group-ipblock-exempt' => 'IP block exemptions',
+	'grouppage-interface_editor'    => '{{ns:project}}:Interface editors',
+
+	'group-ipblock-exempt'        => 'IP block exemptions',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|IP block exempt}}',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:IP block exemption',
-	'group-patroller' => 'Patrollers',
+	'grouppage-ipblock-exempt'    => '{{ns:project}}:IP block exemption',
+
+	'group-patroller'        => 'Patrollers',
 	'group-patroller-member' => '{{GENDER:$1|patroller}}',
-	'grouppage-patroller' => '{{ns:project}}:Patrollers',
-	'group-researcher' => 'Researchers',
+	'grouppage-patroller'    => '{{ns:project}}:Patrollers',
+
+	'group-researcher'        => 'Researchers',
 	'group-researcher-member' => '{{GENDER:$1|researcher}}',
-	'grouppage-researcher' => '{{ns:project}}:Researchers',
-	'group-rollbacker' => 'Rollbackers',
+	'grouppage-researcher'    => '{{ns:project}}:Researchers',
+
+	'group-rollbacker'        => 'Rollbackers',
 	'group-rollbacker-member' => '{{GENDER:$1|rollbacker}}',
-	'grouppage-rollbacker' => '{{ns:project}}:Rollbackers',
-	'group-transwiki' => 'Transwiki importers',
+	'grouppage-rollbacker'    => '{{ns:project}}:Rollbackers',
+
+	'group-transwiki'        => 'Transwiki importers',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki importer}}',
-	'grouppage-transwiki' => '{{ns:project}}:Transwiki importers',
-	'group-trusted' => 'Trusted users',
+	'grouppage-transwiki'    => '{{ns:project}}:Transwiki importers',
+
+	'group-trusted'        => 'Trusted users',
 	'group-trusted-member' => '{{GENDER:$1|trusted user}}',
-	'grouppage-trusted' => '{{ns:project}}:Trusted users',
-	'group-uploader' => 'Uploaders',
+	'grouppage-trusted'    => '{{ns:project}}:Trusted users',
+
+	'group-uploader'        => 'Uploaders',
 	'group-uploader-member' => '{{GENDER:$1|uploader}}',
-	'grouppage-uploader' => '{{ns:project}}:Uploaders',
-	'group-Global_bot' => 'Global bots',
+	'grouppage-uploader'    => '{{ns:project}}:Uploaders',
+
+	# Global Wikimedia specific usergroups (defined on http://meta.wikimedia.org/wiki/Special:GlobalGroupPermissions)
+
+	'group-Global_bot'        => 'Global bots',
 	'group-Global_bot-member' => '{{GENDER:$1|global bot}}',
-	'grouppage-Global_bot' => 'm:Global bot',
-	'group-Global_rollback' => 'Global rollbackers',
+	'grouppage-Global_bot'    => 'm:Global bot', # only translate this message to other languages if you have to change it
+
+	'group-Global_rollback'        => 'Global rollbackers',
 	'group-Global_rollback-member' => '{{GENDER:$1|global rollbacker}}',
-	'grouppage-Global_rollback' => 'm:Global rollback',
-	'group-Global_sysops' => 'Global sysops',
+	'grouppage-Global_rollback'    => 'm:Global rollback', # only translate this message to other languages if you have to change it
+
+	'group-Global_sysops'        => 'Global sysops',
 	'group-Global_sysops-member' => '{{GENDER:$1|global sysop}}',
-	'grouppage-Global_sysops' => 'm:Global sysops',
-	'group-Ombudsmen' => 'Ombudsmen',
+	'grouppage-Global_sysops'    => 'm:Global sysops', # only translate this message to other languages if you have to change it
+
+	'group-Ombudsmen'        => 'Ombudsmen',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsman}}',
-	'grouppage-Ombudsmen' => 'm:Ombudsman commission',
-	'group-Staff' => 'Staff',
+	'grouppage-Ombudsmen'    => 'm:Ombudsman commission', # only translate this message to other languages if you have to change it
+
+	'group-Staff'        => 'Staff',
 	'group-Staff-member' => '{{GENDER:$1|staff}}',
-	'grouppage-Staff' => 'Foundation:Staff',
-	'group-editinterface' => 'Interface editors',
+	'grouppage-Staff'    => 'Foundation:Staff', # only translate this message to other languages if you have to change it
+
+	'group-editinterface'        => 'Interface editors',
 	'group-editinterface-member' => '{{GENDER:$1|interface editor}}',
-	'grouppage-editinterface' => 'm:Editinterface',
-	'group-steward' => 'Stewards',
+	'grouppage-editinterface'    => 'm:Editinterface', # only translate this message to other languages if you have to change it
+
+	'group-steward'        => 'Stewards',
 	'group-steward-member' => '{{GENDER:$1|steward}}',
-	'grouppage-steward' => 'm:Stewards',
-	'group-sysadmin' => 'System administrators',
+	'grouppage-steward'    => 'm:Stewards', # only translate this message to other languages if you have to change it
+
+	'group-sysadmin'        => 'System administrators',
 	'group-sysadmin-member' => '{{GENDER:$1|system administrator}}',
-	'grouppage-sysadmin' => 'm:System administrators',
-	'group-API_High_Limit_Requestor' => 'API high limit requestors',
+	'grouppage-sysadmin'    => 'm:System administrators', # only translate this message to other languages if you have to change it
+
+	'group-API_High_Limit_Requestor'        => 'API high limit requestors',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API high limit requestor}}',
-	'grouppage-API_High_Limit_Requestor' => 'm:API high limit requestors',
-	'group-Indic_Bots' => 'Indic bots',
+	'grouppage-API_High_Limit_Requestor'    => 'm:API high limit requestors', # only translate this message to other languages if you have to change it
+
+	'group-Indic_Bots'        => 'Indic bots',
 	'group-Indic_Bots-member' => '{{GENDER:$1|indic bot}}',
-	'grouppage-Indic_Bots' => 'm:Indic bots',
-	'group-New_wikis_importer' => 'New wikis importers',
+	'grouppage-Indic_Bots'    => 'm:Indic bots', # only translate this message to other languages if you have to change it
+
+	'group-New_wikis_importer'        => 'New wikis importers',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|new wikis importer}}',
-	'grouppage-New_wikis_importer' => 'm:New wikis importers',
-	'group-global-ipblock-exempt' => 'Global IP block exemptions',
+	'grouppage-New_wikis_importer'    => 'm:New wikis importers', # only translate this message to other languages if you have to change it
+
+	'group-global-ipblock-exempt'        => 'Global IP block exemptions',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|global IP block exempt}}',
-	'grouppage-global-ipblock-exempt' => 'm:Global IP block exemptions',
-	'group-recursive-export' => 'Recursive export',
+	'grouppage-global-ipblock-exempt'    => 'm:Global IP block exemptions', # only translate this message to other languages if you have to change it
+
+	'group-recursive-export'        => 'Recursive export',
 	'group-recursive-export-member' => '{{GENDER:$1|recursive exporter}}',
-	'grouppage-recursive-export' => 'm:Recursive export',
-	'group-translationadmin' => 'Translation administrators',
+	'grouppage-recursive-export'    => 'm:Recursive export', # only translate this message to other languages if you have to change it
+
+	# meta.wikimedia.org specific user group
+
+	'group-translationadmin'        => 'Translation administrators',
 	'group-translationadmin-member' => '{{GENDER:$1|translation administrator}}',
-	'grouppage-translationadmin' => '{{ns:project}}:Translation administrators',
-	'group-centralnoticeadmin' => 'Central notice administrators',
+	'grouppage-translationadmin'    => '{{ns:project}}:Translation administrators', # only translate this message to other languages if you have to change it
+
+	# Bug 45270 due to https://gerrit.wikimedia.org/r/#/c/50196/
+	'group-centralnoticeadmin'        => 'Central notice administrators',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|central notice administrator}}',
-	'grouppage-centralnoticeadmin' => '{{ns:project}}:Central notice administrators',
-	'group-coder' => 'Coders',
+	'grouppage-centralnoticeadmin'    => '{{ns:project}}:Central notice administrators',
+
+	# mediawiki.org specific user group
+
+	'group-coder'        => 'Coders',
 	'group-coder-member' => '{{GENDER:$1|coder}}',
-	'grouppage-coder' => '{{ns:project}}:Coder',
-	'group-inactive' => 'Inactive users',
+	'grouppage-coder'    => '{{ns:project}}:Coder', # only translate this message to other languages if you have to change it
+
+	# Private and fishbowl wikis
+	'group-inactive'        => 'Inactive users',
 	'group-inactive-member' => '{{GENDER:$1|inactive user}}',
-	'grouppage-inactive' => '{{ns:project}}:Inactive users',
-	'shared-repo-name-shared' => 'Wikimedia Commons',
+	'grouppage-inactive'    => '{{ns:project}}:Inactive users',
+
+	# The name for the common shared repo 'shared'
+	'shared-repo-name-shared' => 'Wikimedia Commons', # only translate this message to other languages if you have to change it
+
+	# Copyright fun!
 	'wikimedia-copyright' => 'Text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
 See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
@@ -173,22 +233,37 @@ See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia
 	'wikidata-shortcopyrightwarning' => 'By clicking "{{int:wikibase-save}}", you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use terms of use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/publicdomain/zero/1.0/ CC0 license].',
 	'wikimedia-copyrightwarning' => 'By clicking the "{{int:savearticle}}" button, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
+
+	# Wikidata-specific messages
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage pages linked to this item',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons pages linked to this item',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
+
+	# Custom message for enwiki to stop from deleting the mainpage
 	'cant-delete-main-page' => 'You cannot delete or move the main page.',
+
 	'wikimedia-translationnotifications-signup-legal' => 'You agree that by providing the Wikimedia Foundation with this information we may contact you regarding translations or other topics related to the Wikimedia movement we think may be of interest to you. You agree your data may be stored in the United States of America and is subject to our [https://wikimediafoundation.org/wiki/Privacy_policy privacy policy].',
+
+	# Added by the WLM mobile app
 	'upload-more-photos-of-this-monument' => 'Upload more photos of this monument',
+
+	# Extension distributor messages for mediawiki.org
 	'extdist-branch-master' => 'master (latest development version)',
 	'extdist-branch-REL1_21' => '1.21 (latest stable MediaWiki)',
 	'extdist-branch-REL1_20' => '1.20',
 	'extdist-branch-REL1_19' => '1.19',
+
+	# Links in new vertical-layout login and create account forms
 	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me choose)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
-	'createacct-imgcaptcha-help' => "Can't see the image? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]",
+	'createacct-imgcaptcha-help' => 'Can\'t see the image? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]',
+
+	# Bug 33464: "Developers" link in the page footer
 	'wikimedia-developers' => 'Developers',
 	'wikimedia-developers-url' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute',
+
+	# Bug 42231: Global blocks should have a specific message for WMF projects
 	'wikimedia-globalblocking-ipblocked' => "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''
 
 The block was made by $1 ($2).
@@ -455,8 +530,7 @@ Refers to {{msg-mw|Savearticle}}.
 {{Identical/Wikimedia-licensing}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
 	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
-{{Identical|Common}}',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
@@ -1448,7 +1522,6 @@ Consulte les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxines de Wikivoyage enllazaes con esti elementu',
 	'wikibase-sitelinks-commons' => 'Páxines de Wikimedia Commons enllazaes con esti elementu',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
@@ -5171,7 +5244,6 @@ Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Con
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
 	'wikibase-sitelinks-commons' => 'Pages de Wikimedia Commons liées à cet élément',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Communs',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
@@ -7740,7 +7812,6 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [https://wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pagine di Wikivoyage collegate a questo elemento',
 	'wikibase-sitelinks-commons' => 'Pagine di Commons collegate a questo elemento',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
@@ -7942,7 +8013,6 @@ $messages['ja'] = array(
 また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'wikibase-sitelinks-wikivoyage' => 'この項目にリンクしている Wikivoyage ページ',
 	'wikibase-sitelinks-commons' => 'この項目にリンクしているウィキメディア・コモンズのページ',
-	'wikibase-sitelinks-sitename-commonswiki' => 'コモンズ',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'wikimedia-translationnotifications-signup-legal' => 'あなたはウィキメディア財団にこの情報を提供することで、翻訳やその他ウィキメディア運動に関してあなたが興味を持つだろう話題について我々があなたに連絡をとってもよいと同意したことになります。あなたのデータがアメリカ合衆国で保管され、我々の[https://wikimediafoundation.org/wiki/Privacy_policy プライバシー・ポリシー]の対象となることに同意したことになります。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
@@ -8621,7 +8691,6 @@ $messages['ko'] = array(
 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'wikibase-sitelinks-wikivoyage' => '이 항목을 가리키는 위키여행 문서',
 	'wikibase-sitelinks-commons' => '이 항목을 가리키는 위키미디어 공용 문서',
-	'wikibase-sitelinks-sitename-commonswiki' => '공용',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 옮길 수 없습니다.',
 	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
@@ -9019,7 +9088,6 @@ Kuckt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedi
 Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons Säiten déi mat dësem Element verlinkt sinn',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
@@ -9863,7 +9931,6 @@ $messages['mk'] = array(
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'wikibase-sitelinks-wikivoyage' => 'Страници на Википатување сврзани со овој предмет',
 	'wikibase-sitelinks-commons' => 'Страници на Ризницата сврзани со предметот',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Ризница',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
@@ -10813,7 +10880,7 @@ $messages['nds-nl'] = array(
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-invoerder}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-invoerders',
 	'group-uploader' => 'bestanstoevoegers',
-	'group-uploader-member' => '{{GENDER:$1|bestaandstoevoeger}}',
+	'group-uploader-member' => 'bestanstoevoeger', # Fuzzy
 	'grouppage-uploader' => '{{ns:project}}:Bestanstoevoegers',
 	'group-Global_bot' => 'globale bots',
 	'group-Global_bot-member' => '{{GENDER:$1|globale bot}}',
@@ -10900,7 +10967,6 @@ $messages['niu'] = array(
  * @author SPQRobin
  * @author Saruman
  * @author Siebrand
- * @author Southparkfan
  * @author Troefkaart
  * @author Tvdm
  */
@@ -10955,7 +11021,7 @@ $messages['nl'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Bewerkers van beveiligde pagina's",
 	'group-eliminator' => 'opruimers',
 	'group-eliminator-member' => 'opruimer',
-	'grouppage-eliminator' => '{{ns:project}}:Opruimers',
+	'grouppage-eliminator' => '{{ns:project}}:Opruimer', # Fuzzy
 	'group-filemover' => 'bestandshernoemers',
 	'group-filemover-member' => 'bestandshernoemer',
 	'grouppage-filemover' => '{{ns:project}}:Bestandshernoemers',
@@ -10990,7 +11056,7 @@ $messages['nl'] = array(
 	'group-trusted-member' => '{{GENDER:$1|vertrouwde gebruiker}}',
 	'grouppage-trusted' => '{{ns:project}}:Vertrouwde gebruikers',
 	'group-uploader' => 'uploaders',
-	'group-uploader-member' => '{{GENDER:$1|uploader}}',
+	'group-uploader-member' => 'uploader', # Fuzzy
 	'grouppage-uploader' => '{{ns:project}}:Uploaders',
 	'group-Global_bot' => 'globale bots',
 	'group-Global_bot-member' => '{{GENDER:$1|globale robot}}',
@@ -11052,20 +11118,6 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me kiezen)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvragen',
 	'createacct-imgcaptcha-help' => 'Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een gebruiker aan]]',
-	'wikimedia-developers' => 'Ontwikkelaars',
-	'wikimedia-globalblocking-ipblocked' => "'''Uw IP-adres is [[m:Special:MyLanguage/Global blocks|geblokkeerd op alle wiki's]].'''
-
-De blokkade is uitgevoerd door $1 ($2).
-De opgegeven reden is ''$3''.
-
-* Aanvang blokkade: $4
-* Einde blokkade: $5
-
-Uw huidige IP-adres is $6.
-Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
-
-Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid omtrent open proxy's]].
-U kunt ook, om te discussiëren betreft de blokkade [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
@@ -12000,9 +12052,9 @@ $messages['ps'] = array(
 	'group-founder' => 'بنسټگران',
 	'group-founder-member' => '{{GENDER:$1|بنسټگر}}',
 	'grouppage-founder' => '{{ns:project}}:بنسټگر',
-	'group-interface_editor' => 'د کتنمل سمونگران',
+	'group-interface_editor' => 'د کتنمل سمونګران',
 	'group-interface_editor-member' => '{{GENDER:$1|د کتنمل بنسټگر}}',
-	'grouppage-interface_editor' => '{{ns:project}}:د کتنمل سمونگران',
+	'grouppage-interface_editor' => '{{ns:project}}:د کتنمل سمونګران',
 	'group-ipblock-exempt' => 'له آی پي بنديزه بخښلی',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|له آی پي بنديزه بخښلی}}',
 	'group-researcher' => 'څېړونکي',
@@ -12016,7 +12068,7 @@ $messages['ps'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|نړېوال پازوال}}',
 	'group-Staff' => 'امله',
 	'group-Staff-member' => 'د املې غړی',
-	'group-editinterface' => 'د کتنمل سمونگران',
+	'group-editinterface' => 'د کتنمل سمونګران',
 	'group-editinterface-member' => '{{GENDER:$1|د ليدنمخ سمونگر}}',
 	'group-steward' => 'کوربانه',
 	'group-sysadmin' => 'د غونډال پازوالان',
@@ -15991,7 +16043,6 @@ $messages['uk'] = array(
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
 	'wikibase-sitelinks-commons' => 'Сторінки Сховища Вікімедіа, що посилаються на цей елемент',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Сховище',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
@@ -16551,7 +16602,6 @@ Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết với khoản mục này',
 	'wikibase-sitelinks-commons' => 'Các trang Wikimedia Commons được liên kết với khoản mục này',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
@@ -17187,7 +17237,6 @@ $messages['zh-hans'] = array(
 	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接至该项的维基导游页面',
 	'wikibase-sitelinks-commons' => '链接至该项的维基共享资源页面',
-	'wikibase-sitelinks-sitename-commonswiki' => '共享资源',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
@@ -17378,7 +17427,6 @@ $messages['zh-hant'] = array(
 你同意超鏈接或URL足以作為創作共享協議的署名。',
 	'wikibase-sitelinks-wikivoyage' => '連入此項之維基導遊頁面',
 	'wikibase-sitelinks-commons' => '連入此項之維基共享資源頁面',
-	'wikibase-sitelinks-sitename-commonswiki' => '共享資源',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 	'upload-more-photos-of-this-monument' => '上載更多此古蹟的圖片',
