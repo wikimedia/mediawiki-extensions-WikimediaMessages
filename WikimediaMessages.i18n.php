@@ -3400,7 +3400,7 @@ $messages['da'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Brugere, der kan redigere beskyttede sider',
 	'group-eliminator' => 'Eliminatorer',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminators',
 	'group-filemover' => 'Filflyttere',
 	'group-filemover-member' => '{{GENDER:$1|filflytter}}',
 	'grouppage-filemover' => '{{ns:project}}:Filflyttere',
@@ -3435,7 +3435,7 @@ $messages['da'] = array(
 	'group-trusted-member' => '{{GENDER:$1|betroet bruger}}',
 	'grouppage-trusted' => '{{ns:project}}:Betroede brugere',
 	'group-uploader' => 'Oplæggere',
-	'group-uploader-member' => 'Oplægger', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|oplægger}}',
 	'grouppage-uploader' => '{{ns:project}}:Oplæggere',
 	'group-Global_bot' => 'Globale robotter',
 	'group-Global_bot-member' => '{{GENDER:$1|global robot}}',
@@ -3481,9 +3481,12 @@ $messages['da'] = array(
 tekst i de andre navnerum er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
 yderligere betingelser kan forekomme.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Vilkår for anvendelse</a> for detaljer.',
-	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "Gem", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "{{int:wikibase-save}}", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].',
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyagesider knyttet til dette emne',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons sider knyttet til dette emne',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Privacy_policy fortrolighedspolitik].',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
@@ -3493,6 +3496,36 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Anmod om en konto',
 	'createacct-imgcaptcha-help' => 'Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]',
+	'wikimedia-developers' => 'Udviklere',
+	'wikimedia-globalblocking-ipblocked' => "'''Din IP-adresse er blevet [[m:Special:MyLanguage/Global blocks|blokeret på alle wikier]].'''
+
+Blokeringen blev foretaget af $1 ($2).
+Begrundelsen er ''$3''.
+
+* Start af blokeringen: $4 
+* udløb af blokeringen: $5 
+
+Din nuværende IP-adresse er $6.
+Inkluder venligst alle ovenstående detaljer i eventuelle forespørgsler, du laver.
+
+Hvis du tror, du blev blokeret ved en fejl, kan du finde flere oplysninger og instruktioner i den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].
+Ellers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning om fornyet undersøgelse på Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''En eller flere proxyservere brugt af din anmodning er [[m:Special:MyLanguage/Global blocks|globalt blokeret]].'''
+
+Blokeringen blev foretaget af $1 ($2).
+Begrundelsen er ''$3''.
+
+* Start af blokeringen:  $4 
+* udløb af blokeringen:  $5 
+
+Den blokerede proxyadresse var $6.
+Inkluder venligst alle ovenstående detaljer i eventuelle forespørgsler, du laver.
+
+Hvis du tror, du blev blokeret ved en fejl, kan du finde flere oplysninger og instruktioner i den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].
+Ellers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning om fornyet undersøgelse på Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Din IP-adresse, <strong>$1</strong>, er automatisk identificeret som en Tor exit node.
+Redigering via Tor er blokeret for at forhindre misbrug.
+Yderligere oplysninger og vejledning til legitime brugere, se den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].',
 );
 
 /** German (Deutsch)
@@ -3678,8 +3711,8 @@ Die angegebene Begründung ist ''$3''.
 Deine aktuelle IP-Adresse ist $6.
 Bitte gib alle obigen Details in allen gemachten Anfragen an.
 
-Wenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Anweisungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.
-Anderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
+Wenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Hilfestellungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.
+Anderenfalls stelle bitte [[m:Steward requests/Global|eine Anfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
 	'wikimedia-globalblocking-ipblocked-xff' => "'''Ein oder mehrere Proxyserver, die von deiner Anfrage verwendet werden, ist [[m:Special:MyLanguage/Global blocks|global gesperrt]].'''
 
 Die Sperre wurde durchgeführt von $1 ($2).
@@ -8946,6 +8979,7 @@ $messages['ky'] = array(
 );
 
 /** Latin (Latina)
+ * @author Autokrator
  * @author UV
  * @author לערי ריינהארט
  */
@@ -8955,6 +8989,10 @@ $messages['la'] = array(
 	'group-rollbacker-member' => '{{GENDER:$1|revertor}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertores',
 	'shared-repo-name-shared' => 'Vicimedia Communia',
+	'wikimedia-copyrightwarning' => 'Confirmando pressorium "{{int:savearticle}}" [//wikimediafoundation.org/wiki/Terms_of_use conventionem utendi] nostram approbas. Praeterea consentis imaginem sub licentia [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] et [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] publicari.
+
+Etiam confirmas nexum vel URL contributioni sufficere sub Creative Commons licentia.',
+	'wikimedia-developers' => 'Elaboratores',
 );
 
 /** Ladino (Ladino)

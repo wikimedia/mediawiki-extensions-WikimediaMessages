@@ -143,6 +143,8 @@ $messages['hsb'] = array(
  */
 $messages['it'] = array(
 	'wikimediamessages-desc' => 'Messaggi temporanei specifici per Wikimedia',
+	'bug-54847-password-reset-prompt' => "A causa di un [[meta:October 2013 private data security issue|problema di sicurezza con i database di Wikimedia Labs]], le password utilizzate in precedenza potrebbero essere vulnerabili. Si prega di impostare una nuova password per garantire la tua utenza. Ci scusiamo per l'inconveniente.",
+	'password-recycled' => 'La password inserita corrisponde a una vecchia password associata alla tua utenza. Si prega di impostare una nuova password',
 );
 
 /** Japanese (日本語)
