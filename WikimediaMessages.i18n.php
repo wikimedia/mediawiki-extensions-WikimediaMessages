@@ -530,7 +530,8 @@ Refers to {{msg-mw|Savearticle}}.
 {{Identical/Wikimedia-licensing}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
 	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
+{{Identical|Common}}',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
@@ -1522,6 +1523,7 @@ Consulte les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxines de Wikivoyage enllazaes con esti elementu',
 	'wikibase-sitelinks-commons' => 'Páxines de Wikimedia Commons enllazaes con esti elementu',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nun pues desaniciar nin treslladar la portada.',
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
@@ -3319,6 +3321,8 @@ Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Term
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
 	'wikibase-sitelinks-wikivoyage' => "Tudalennau Wicidaith sy'n cysylltu a'r eitem hon",
+	'wikibase-sitelinks-commons' => "Tudalennau ar Gomin Wikimedia sydd wedi eu cysylltu â'r eitem hon",
+	'wikibase-sitelinks-sitename-commonswiki' => 'Y Comin',
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 	'upload-more-photos-of-this-monument' => "Uwchlwytho rhagor o luniau o'r gofeb hon",
@@ -5244,6 +5248,7 @@ Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Con
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
 	'wikibase-sitelinks-commons' => 'Pages de Wikimedia Commons liées à cet élément',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Communs',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
@@ -7812,6 +7817,7 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [https://wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pagine di Wikivoyage collegate a questo elemento',
 	'wikibase-sitelinks-commons' => 'Pagine di Commons collegate a questo elemento',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Non puoi cancellare o spostare la pagina principale.',
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
@@ -8013,6 +8019,7 @@ $messages['ja'] = array(
 また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
 	'wikibase-sitelinks-wikivoyage' => 'この項目にリンクしている Wikivoyage ページ',
 	'wikibase-sitelinks-commons' => 'この項目にリンクしているウィキメディア・コモンズのページ',
+	'wikibase-sitelinks-sitename-commonswiki' => 'コモンズ',
 	'cant-delete-main-page' => 'あなたはメインページを削除または移動できません。',
 	'wikimedia-translationnotifications-signup-legal' => 'あなたはウィキメディア財団にこの情報を提供することで、翻訳やその他ウィキメディア運動に関してあなたが興味を持つだろう話題について我々があなたに連絡をとってもよいと同意したことになります。あなたのデータがアメリカ合衆国で保管され、我々の[https://wikimediafoundation.org/wiki/Privacy_policy プライバシー・ポリシー]の対象となることに同意したことになります。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
@@ -8691,6 +8698,7 @@ $messages['ko'] = array(
 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'wikibase-sitelinks-wikivoyage' => '이 항목을 가리키는 위키여행 문서',
 	'wikibase-sitelinks-commons' => '이 항목을 가리키는 위키미디어 공용 문서',
+	'wikibase-sitelinks-sitename-commonswiki' => '공용',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 옮길 수 없습니다.',
 	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
@@ -9088,6 +9096,7 @@ Kuckt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedi
 Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons Säiten déi mat dësem Element verlinkt sinn',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
@@ -9931,6 +9940,7 @@ $messages['mk'] = array(
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
 	'wikibase-sitelinks-wikivoyage' => 'Страници на Википатување сврзани со овој предмет',
 	'wikibase-sitelinks-commons' => 'Страници на Ризницата сврзани со предметот',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Ризница',
 	'cant-delete-main-page' => 'Не можете да ја избришете или преместите главната страница.',
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
@@ -10880,7 +10890,7 @@ $messages['nds-nl'] = array(
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-invoerder}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-invoerders',
 	'group-uploader' => 'bestanstoevoegers',
-	'group-uploader-member' => 'bestanstoevoeger', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|bestaandstoevoeger}}',
 	'grouppage-uploader' => '{{ns:project}}:Bestanstoevoegers',
 	'group-Global_bot' => 'globale bots',
 	'group-Global_bot-member' => '{{GENDER:$1|globale bot}}',
@@ -10967,6 +10977,7 @@ $messages['niu'] = array(
  * @author SPQRobin
  * @author Saruman
  * @author Siebrand
+ * @author Southparkfan
  * @author Troefkaart
  * @author Tvdm
  */
@@ -11021,7 +11032,7 @@ $messages['nl'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Bewerkers van beveiligde pagina's",
 	'group-eliminator' => 'opruimers',
 	'group-eliminator-member' => 'opruimer',
-	'grouppage-eliminator' => '{{ns:project}}:Opruimer', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Opruimers',
 	'group-filemover' => 'bestandshernoemers',
 	'group-filemover-member' => 'bestandshernoemer',
 	'grouppage-filemover' => '{{ns:project}}:Bestandshernoemers',
@@ -11056,7 +11067,7 @@ $messages['nl'] = array(
 	'group-trusted-member' => '{{GENDER:$1|vertrouwde gebruiker}}',
 	'grouppage-trusted' => '{{ns:project}}:Vertrouwde gebruikers',
 	'group-uploader' => 'uploaders',
-	'group-uploader-member' => 'uploader', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|uploader}}',
 	'grouppage-uploader' => '{{ns:project}}:Uploaders',
 	'group-Global_bot' => 'globale bots',
 	'group-Global_bot-member' => '{{GENDER:$1|globale robot}}',
@@ -11118,6 +11129,20 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me kiezen)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvragen',
 	'createacct-imgcaptcha-help' => 'Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een gebruiker aan]]',
+	'wikimedia-developers' => 'Ontwikkelaars',
+	'wikimedia-globalblocking-ipblocked' => "'''Uw IP-adres is [[m:Special:MyLanguage/Global blocks|geblokkeerd op alle wiki's]].'''
+
+De blokkade is uitgevoerd door $1 ($2).
+De opgegeven reden is ''$3''.
+
+* Aanvang blokkade: $4
+* Einde blokkade: $5
+
+Uw huidige IP-adres is $6.
+Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
+
+Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid omtrent open proxy's]].
+U kunt ook, om te discussiëren betreft de blokkade [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
@@ -12052,9 +12077,9 @@ $messages['ps'] = array(
 	'group-founder' => 'بنسټگران',
 	'group-founder-member' => '{{GENDER:$1|بنسټگر}}',
 	'grouppage-founder' => '{{ns:project}}:بنسټگر',
-	'group-interface_editor' => 'د کتنمل سمونګران',
+	'group-interface_editor' => 'د کتنمل سمونگران',
 	'group-interface_editor-member' => '{{GENDER:$1|د کتنمل بنسټگر}}',
-	'grouppage-interface_editor' => '{{ns:project}}:د کتنمل سمونګران',
+	'grouppage-interface_editor' => '{{ns:project}}:د کتنمل سمونگران',
 	'group-ipblock-exempt' => 'له آی پي بنديزه بخښلی',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|له آی پي بنديزه بخښلی}}',
 	'group-researcher' => 'څېړونکي',
@@ -12068,7 +12093,7 @@ $messages['ps'] = array(
 	'group-Global_sysops-member' => '{{GENDER:$1|نړېوال پازوال}}',
 	'group-Staff' => 'امله',
 	'group-Staff-member' => 'د املې غړی',
-	'group-editinterface' => 'د کتنمل سمونګران',
+	'group-editinterface' => 'د کتنمل سمونگران',
 	'group-editinterface-member' => '{{GENDER:$1|د ليدنمخ سمونگر}}',
 	'group-steward' => 'کوربانه',
 	'group-sysadmin' => 'د غونډال پازوالان',
@@ -16043,6 +16068,7 @@ $messages['uk'] = array(
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
 	'wikibase-sitelinks-commons' => 'Сторінки Сховища Вікімедіа, що посилаються на цей елемент',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Сховище',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
@@ -16602,6 +16628,7 @@ Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết với khoản mục này',
 	'wikibase-sitelinks-commons' => 'Các trang Wikimedia Commons được liên kết với khoản mục này',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Không thể xóa hoặc di chuyển trang đầu.',
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
@@ -17237,6 +17264,7 @@ $messages['zh-hans'] = array(
 	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接至该项的维基导游页面',
 	'wikibase-sitelinks-commons' => '链接至该项的维基共享资源页面',
+	'wikibase-sitelinks-sitename-commonswiki' => '共享资源',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
@@ -17427,6 +17455,7 @@ $messages['zh-hant'] = array(
 你同意超鏈接或URL足以作為創作共享協議的署名。',
 	'wikibase-sitelinks-wikivoyage' => '連入此項之維基導遊頁面',
 	'wikibase-sitelinks-commons' => '連入此項之維基共享資源頁面',
+	'wikibase-sitelinks-sitename-commonswiki' => '共享資源',
 	'cant-delete-main-page' => '您不能刪除或移動首頁。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 	'upload-more-photos-of-this-monument' => '上載更多此古蹟的圖片',
