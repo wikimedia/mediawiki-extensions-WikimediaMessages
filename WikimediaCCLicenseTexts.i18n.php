@@ -14964,13 +14964,6 @@ $messages['sq'] = array(
 	'wm-license-cc-pd-mark-text' => 'Kjo skedë është identifikuar si e lirë e kufizimeve të panjohura në ligjin e të drejtave të autorit, duke përfshirë të gjitha të drejtat e lidhura dhe fqinje.',
 );
 
-/** Serbian (Српски / Srpski)
- * @author Multichill
- */
-$messages['sr'] = array(
-	'wm-license-cc-wiki-link' => 'w:sr:Кријејтив комонс',
-);
-
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Milicevic01
  * @author Rancher
