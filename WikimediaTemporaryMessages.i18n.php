@@ -9,8 +9,6 @@
 
 $messages = array();
 
-/** English (English)
- */
 $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific temporary messages',
 	'bug-54847-password-reset-prompt' => 'Due to a [[meta:October 2013 private data security issue|privacy issue with the Wikimedia Labs databases]], your previously used password may be vulnerable. Please set a new, different, password to secure your account. We apologize for the inconvenience.',
@@ -68,8 +66,6 @@ $messages['da'] = array(
  */
 $messages['de'] = array(
 	'wikimediamessages-desc' => 'Ermöglicht Wikimedia-spezifische temporäre Nachrichten',
-	'bug-54847-password-reset-prompt' => 'Aufgrund eines [[meta:October 2013 private data security issue|Datenschutzproblems mit den Wikimedia-Labs-Datenbanken]] ist dein kürzlich verwendetes Passwort möglicherweise anfällig. Bitte leg ein neues, anderes Passwort fest, um dein Benutzerkonto abzusichern. Wir entschuldigen uns für die Unannehmlichkeiten.',
-	'password-recycled' => 'Das eingegebene Passwort entspricht einem älteren Passwort, das mit deinem Benutzerkonto verknüpft war. Bitte gib ein neues, anderes Passwort an.',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -84,13 +80,6 @@ $messages['dsb'] = array(
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes temporales específicos de Wikimedia',
-);
-
-/** Estonian (eesti)
- * @author Pikne
- */
-$messages['et'] = array(
-	'password-recycled' => 'Sisestasid oma konto vana parooli. Palun vali uus erinev parool.',
 );
 
 /** Persian (فارسی)
@@ -108,15 +97,12 @@ $messages['fi'] = array(
 );
 
 /** French (français)
- * @author DavidL
  * @author Gomoko
  * @author Linedwell
  * @author Metroitendo
  */
 $messages['fr'] = array(
 	'wikimediamessages-desc' => 'Messages temporaires spécifiques de Wikimédia',
-	'bug-54847-password-reset-prompt' => "En raison d'un [[meta:October 2013 private data security issue|problème de sécurité avec les bases de données privées de Wikimedia Labs]], votre mot de passe utilisé précédemment peut être vulnérable. Veuillez définir un nouveau mot de passe différent, pour sécuriser votre compte. Nous nous excusons pour la gêne occasionnée.",
-	'password-recycled' => "Le mot de passe que vous avez entré correspond à un ancien mot de passe associé à votre compte. Veuillez, s'il vous plaît, définir un nouveau mot de passe différent",
 );
 
 /** Galician (galego)
@@ -152,18 +138,13 @@ $messages['it'] = array(
  */
 $messages['ja'] = array(
 	'wikimediamessages-desc' => 'ウィキメディア固有の一時的なメッセージ',
-	'bug-54847-password-reset-prompt' => '[[meta:October 2013 private data security issue|Wikimedia Labs のデータベース群のプライバシーの問題]]のため、以前使用したパスワードには脆弱性があるおそれがあります。あなたのアカウントの安全性のため、新たに別のパスワードを設定してください。ご不便をおかけして申し訳ありません。',
-	'password-recycled' => '入力したパスワードは、あなたのアカウントの以前のパスワードと一致しています。新たな別のパスワードを設定してください',
 );
 
 /** Korean (한국어)
- * @author Kwj2772
  * @author 아라
  */
 $messages['ko'] = array(
 	'wikimediamessages-desc' => '위키미디어 특정 임시 메시지',
-	'bug-54847-password-reset-prompt' => '[[meta:October 2013 private data security issue|위키미디어 랩 데이터베이스의 보안 문제]]로 인해, 당신이 이전에 사용했던 비밀번호가 취약할 수 있습니다. 계정의 보안을 위해서 새로운 비밀번호를 설정해주십시오. 불편을 드려 죄송합니다.',
-	'password-recycled' => '당신이 입력한 비밀번호는 이전의 비밀번호와 일치합니다. 다른 비밀번호를 입력해주십시오.',
 );
 
 /** Colognian (Ripoarisch)
@@ -178,7 +159,6 @@ $messages['ksh'] = array(
  */
 $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch temporär Message vu Wikimedia',
-	'password-recycled' => "D'Passwuert dat Dir aginn hutt ass en aalt Passwuert vun Ärem Benotzerkont. Gitt w.e.g. en neit Passwuert an dat verschidden dovun ass.",
 );
 
 /** Macedonian (македонски)
@@ -186,8 +166,6 @@ $messages['lb'] = array(
  */
 $messages['mk'] = array(
 	'wikimediamessages-desc' => 'Привремени пораки што се однесуваат на Викимедија',
-	'bug-54847-password-reset-prompt' => 'Поради [[meta:October 2013 private data security issue|проблемот со личните податоци во базите на Викимедиината лабораторија]], досегашната лозинката може да биде подложна на злоупотреба. За да бидете безбедни, ќе треба да ставите нова лозинка. Се извинуваме за непријатноста.',
-	'password-recycled' => 'Внесената лозинка се совпаѓа со стара. Задајте нова',
 );
 
 /** Malay (Bahasa Melayu)
@@ -222,12 +200,9 @@ $messages['pms'] = array(
 
 /** Brazilian Portuguese (português do Brasil)
  * @author Cainamarques
- * @author 555
  */
 $messages['pt-br'] = array(
 	'wikimediamessages-desc' => 'Mensagens temporárias específicas da Wikimedia',
-	'bug-54847-password-reset-prompt' => 'Devido a um [[meta:October 2013 private data security issue|problema de privacidade ocorrido nos bancos de dados do Wikimedia Labs]], a senha que você utilizava pode ter se tornado vulnerável. Defina uma senha nova e diferente para tornar sua conta mais segura. Pedimos desculpas pelos transtornos.',
-	'password-recycled' => 'A senha que você inseriu é idêntica a uma senha antiga de sua conta. Defina uma senha nova, que seja diferente das anteriores.',
 );
 
 /** tarandíne (tarandíne)
@@ -239,12 +214,9 @@ $messages['roa-tara'] = array(
 
 /** Russian (русский)
  * @author Kaganer
- * @author Okras
  */
 $messages['ru'] = array(
 	'wikimediamessages-desc' => 'Специфические временные сообщения Викимедиа',
-	'bug-54847-password-reset-prompt' => 'Из-за [[meta:October 2013 private data security issue|проблемы с безопасностью баз данных Wikimedia Labs]] ранее использовавшийся вами пароль может быть уязвим. Пожалуйста, установите новый, отличный от старого, пароль для защиты вашей учётной записи. Мы приносим извинения за причиненные неудобства.',
-	'password-recycled' => 'Введённый вами пароль совпадает со старым паролем вашей учётной записи. Пожалуйста, введите другой новый пароль.',
 );
 
 /** Serbo-Croatian (srpskohrvatski / српскохрватски)
@@ -277,13 +249,10 @@ $messages['sv'] = array(
 );
 
 /** Ukrainian (українська)
- * @author Andriykopanytsia
  * @author Base
  */
 $messages['uk'] = array(
 	'wikimediamessages-desc' => 'Тимчасові повідомлення для Вікімедіа',
-	'bug-54847-password-reset-prompt' => 'Через [[meta:October 2013 private data security issue|проблему конфіденційності з базами даних лабораторій Вікімедіа]] раніше використовуваний пароль може бути вразливий. Будь ласка, встановіть новий інший пароль для захисту вашого облікового запису. Ми приносимо вибачення за незручності.',
-	'password-recycled' => "Пароль, введений вами, збігається з старим паролем, пов'язаним з вашим обліковим записом. Будь ласка, встановіть новий інший пароль",
 );
 
 /** Vietnamese (Tiếng Việt)
@@ -291,19 +260,14 @@ $messages['uk'] = array(
  */
 $messages['vi'] = array(
 	'wikimediamessages-desc' => 'Các thông điệp tạm thời dành cho Wikimedia',
-	'bug-54847-password-reset-prompt' => 'Vì một [[meta:October 2013 private data security issue|vấn đề riêng tư có liên quan đến các cơ sở dữ liệu của Wikimedia Labs]], mật khẩu mà bạn từng sử dụng có thể không còn an toàn. Xin vui lòng chọn một mật khẩu khác để bảo vệ tài khoản của bạn. Chúng tôi xin lỗi vì sự bất tiện này.',
-	'password-recycled' => 'Bạn đã nhập một mật khẩu cũ từng được dùng cho tài khoản này. Xin vui lòng chọn một mật khẩu mới, khác với mật khẩu hiện tại.',
 );
 
 /** Simplified Chinese (中文（简体）‎)
  * @author Hydra
- * @author Liuxinyu970226
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特定暂时性消息',
-	'bug-54847-password-reset-prompt' => '基于[[meta:October 2013 private data security issue|维基媒体实验室数据库的隐私问题]]，您之前可能使用了一个脆弱的密码。请设置一个新而不同的密码以保护您的账户。由此带来的不便我们深表歉意。',
-	'password-recycled' => '您输入的密码与您帐户的旧密码雷同。请设置一个新而不同的密码',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
