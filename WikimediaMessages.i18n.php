@@ -14258,7 +14258,7 @@ $messages['sr-ec'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Изузетак од ИП блокирања',
 	'group-patroller' => 'Патролери',
 	'group-patroller-member' => '{{GENDER:$1|патролер|патролерка|патролер}}',
-	'grouppage-patroller' => '{{ns:project}}:Патролери',
+	'grouppage-patroller' => '{{ns:project}}:Patrollers',
 	'group-researcher' => 'Истраживачи',
 	'group-researcher-member' => '{{GENDER:$1|истраживач|истраживачица|истраживач}}',
 	'grouppage-researcher' => '{{ns:project}}:Истраживачи',
@@ -14320,7 +14320,7 @@ $messages['sr-ec'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Поднесите захтев за отварање налога]]',
-	'wikimedia-developers' => 'Програмери',
+	'wikimedia-developers' => 'За програмере',
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
@@ -14380,7 +14380,7 @@ $messages['sr-el'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Urednici zaštićenih strana',
 	'group-eliminator' => 'Odstranjivači',
 	'group-eliminator-member' => '{{GENDER:$1|odstranjivač|odstranjivačica|odstranjivač}}',
-	'grouppage-eliminator' => '{{ns:project}}:Odstranjivač', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Odstranjivači',
 	'group-filemover' => 'Premeštači fajlova',
 	'group-filemover-member' => '{{GENDER:$1|premeštač datoteka|premeštačica datoteka|premeštač datoteka}}',
 	'grouppage-filemover' => '{{ns:project}}:Premeštači fajlova',
@@ -14401,6 +14401,7 @@ $messages['sr-el'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Izuzetak od IP blokova',
 	'group-patroller' => 'Patroleri',
 	'group-patroller-member' => '{{GENDER:$1|patroler|patrolerka|patroler}}',
+	'grouppage-patroller' => '{{ns:project}}:Patrollers',
 	'group-researcher' => 'Istraživači',
 	'group-researcher-member' => '{{GENDER:$1|istraživač|istraživačica|istraživač}}',
 	'grouppage-researcher' => '{{ns:project}}:Istraživači',
@@ -14453,9 +14454,11 @@ $messages['sr-el'] = array(
 mogući su i dodatni uslovi.
 Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
 	'wikidata-copyright' => 'Svi strukturisani podaci iz glavnog i svojstva imenskog prostora su dostupni pod licencom <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; tekst iz drugih imenskih prostora je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Autorstvo-Deliti pod istim uslovima 3.0</a>; mogući su i dodatni uslovi. Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Uslove korišćenja</a> za više informacija.',
-	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_slobodne_licence_Autorstvo-Deliti_pod_istim_uslovima_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
-Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне лиценце_Ауторство-Делити_под_истим условима_3.0_Unported_(CC BY-SA 3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[https://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
+Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
+	'extdist-branch-REL1_21' => '1.21 (najnovija stabilna verzija Medijavikija)',
+	'wikimedia-developers' => 'Za programere',
 );
 
 /** Sranan Tongo (Sranantongo)
