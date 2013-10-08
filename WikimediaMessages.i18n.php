@@ -4489,6 +4489,8 @@ Véanse los <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/es" title
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.', # Fuzzy
+	'wikibase-sitelinks-wikivoyage' => 'Páginas de Wikiviajes con enlaces hacia este elemento',
+	'wikibase-sitelinks-commons' => 'Páginas de Wikimedia Commons con enlaces hacia este elemento',
 	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
@@ -5653,6 +5655,9 @@ $messages['ga'] = array(
 	'group-transwiki' => 'Iompórtálaithe traisvicí',
 	'group-transwiki-member' => 'iompórtálaí traisvicí', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Iompórtálaithe traisvicí',
+	'group-uploader' => 'Uaslódóirí',
+	'group-uploader-member' => 'uaslódóir', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Uaslódóirí',
 	'group-Global_bot' => 'Róbónna domhanda',
 	'group-Global_bot-member' => 'róbó domhanda', # Fuzzy
 	'group-Global_rollback' => 'Tar-rolltóirí domhanda',
@@ -5953,6 +5958,7 @@ Consulte os <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/gl" title
 Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxinas do Wikivoyage con ligazóns cara a este elemento',
 	'wikibase-sitelinks-commons' => 'Páxinas da Wikimedia Commons con ligazóns cara a este elemento',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Non pode borrar ou mover a páxina principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
 	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
@@ -6058,6 +6064,9 @@ $messages['grc'] = array(
 	'group-transwiki' => 'Ὑπερδιαβικι-εισαγωγεῖς',
 	'group-transwiki-member' => 'ὑπερδιαβικι-εισαγωγεύς', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Ὑπερδιαβικι-εισαγωγεῖς',
+	'group-uploader' => 'Ἐπιφορτισταί',
+	'group-uploader-member' => 'ἐπιφορτιστής', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Ἐπιφορτισταί',
 	'group-Global_bot' => 'Καθολικὰ αὐτόματα',
 	'group-Global_bot-member' => 'καθολικὸν αὐτόματον', # Fuzzy
 	'group-Global_rollback' => 'Καθολικοί μεταστροφεῖς',
@@ -6349,7 +6358,7 @@ $messages['gv'] = array(
 	'group-Staff-member' => 'oltey fwirran',
 );
 
-/** Hakka (Hak-kâ-fa)
+/** Hakka (客家語/Hak-kâ-ngî)
  * @author Hakka
  */
 $messages['hak'] = array(
@@ -6665,6 +6674,9 @@ $messages['hif-latn'] = array(
 	'group-bigexport' => 'Barraa exporters',
 	'group-bigexport-member' => 'barraa exporter', # Fuzzy
 	'grouppage-bigexport' => '{{ns:project}}:Barraa exporter kare waala',
+	'group-uploader' => 'Uploaders',
+	'group-uploader-member' => 'uploader', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Uploaders',
 	'group-inactive' => 'Sadasya jon ki abhi haali koi edit nai karis hai',
 	'group-inactive-member' => '
 {{GENDER:$1|Sadasya jon ki abhi haali ekko edit nai karis hai}}',
@@ -8965,7 +8977,7 @@ $messages['kw'] = array(
 	'createacct-imgcaptcha-help' => 'A ny welowgh an imach? [[{{MediaWiki:createacct-captcha-help-url}}|Govynnewgh akont]]',
 );
 
-/** Kirghiz (Кыргызча)
+/** Kyrgyz (Кыргызча)
  * @author Chorobek
  * @author Growingup
  */
@@ -8989,7 +9001,7 @@ $messages['la'] = array(
 	'group-rollbacker-member' => '{{GENDER:$1|revertor}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Revertores',
 	'shared-repo-name-shared' => 'Vicimedia Communia',
-	'wikimedia-copyrightwarning' => 'Confirmando pressorium "{{int:savearticle}}" [//wikimediafoundation.org/wiki/Terms_of_use conventionem utendi] nostram approbas. Praeterea consentis imaginem sub licentia [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] et [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] publicari.
+	'wikimedia-copyrightwarning' => 'Confirmando pressorium "{{int:savearticle}}" [https://wikimediafoundation.org/wiki/Terms_of_use conventionem utendi] nostram approbas. Praeterea consentis conlationem tuam sub licentia [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] et [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] publicari.
 
 Etiam confirmas nexum vel URL contributioni sufficere sub Creative Commons licentia.',
 	'wikimedia-developers' => 'Elaboratores',
@@ -10662,7 +10674,7 @@ $messages['myv'] = array(
  */
 $messages['mzn'] = array(
 	'sitesupport' => 'پول هدائن',
-	'wikimedia-copyright' => "کل نوشتارون <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>موجوز Creative Commons Attribution/Share-Alike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
+	'wikimedia-copyright' => "کل نوشتارون <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>موجوز Creative Commons Attribution/Share-Alike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.", # Fuzzy
 );
 
 /** Nauru (Dorerin Naoero)
@@ -10680,12 +10692,13 @@ $messages['nah'] = array(
 	'wikimediamessages-desc' => 'San Wikimedia ìtlanawatiliswàn',
 	'sitesupport' => 'Tēyocatiliztli',
 	'tooltip-n-sitesupport' => 'Xitèchmopalèwilìkàn',
-	'grouppage-eliminator' => '{{ns:project}}:Tlaìxpôpolowàni',
+	'grouppage-eliminator' => '{{ns:project}}:Tlaìxpôpolowàni', # Fuzzy
 	'group-filemover-member' => '{{GENDER:$1|tlahcuilōlolīniāni}}',
 	'grouppage-filemover' => '{{ns:project}}:Tlaèwalîkuàniàni',
 	'grouppage-flood' => '{{ns:project}}:Tlatepostekitkàuhtekìuhtiànimë',
 	'group-founder-member' => '{{GENDER:$1|tlatzintiāni}}',
 	'group-patroller' => 'Tlapîpiànimë',
+	'group-uploader' => 'Tlaquetzalōnih',
 	'group-Staff' => 'Olōlli',
 	'group-Staff-member' => 'Olōllācatl',
 );
@@ -10696,7 +10709,7 @@ $messages['nan'] = array(
 	'sitesupport' => 'Kià-hù',
 );
 
-/** Neapolitan (Nnapulitano)
+/** Neapolitan (Napulitano)
  * @author Cryptex
  */
 $messages['nap'] = array(
@@ -10869,6 +10882,9 @@ $messages['nds'] = array(
 	'group-transwiki' => 'Transwiki-Importörs',
 	'group-transwiki-member' => 'Transwiki-Importör', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importörs',
+	'group-uploader' => 'Hoochladers',
+	'group-uploader-member' => 'Hoochlader', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Hoochladers',
 	'group-Global_bot' => 'Globale Bots',
 	'group-Global_bot-member' => 'Global Bot', # Fuzzy
 	'group-Global_rollback' => 'Globale Trüchsetters',
@@ -11158,6 +11174,7 @@ Zie <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia
 	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'wikibase-sitelinks-wikivoyage' => "Pagina's op Wikivoyage die gekoppeld zijn aan dit item",
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
@@ -11179,8 +11196,8 @@ De opgegeven reden is ''$3''.
 Uw huidige IP-adres is $6.
 Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
 
-Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid omtrent open proxy's]].
-U kunt ook, om te discussiëren betreft de blokkade [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
+Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].
+U kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
@@ -14246,7 +14263,7 @@ $messages['sr-ec'] = array(
 	'group-researcher-member' => '{{GENDER:$1|истраживач|истраживачица|истраживач}}',
 	'grouppage-researcher' => '{{ns:project}}:Истраживачи',
 	'group-rollbacker' => 'Враћачи',
-	'group-rollbacker-member' => '{{GENDER:$1|враћач|враћачица|враћач}}',
+	'group-rollbacker-member' => '{{GENDER:$1|враћач}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Враћачи',
 	'group-transwiki' => 'Међувики увозници',
 	'group-transwiki-member' => '{{GENDER:$1|међувики увозник|међувики увозница|међувики увозник}}',
@@ -14261,7 +14278,7 @@ $messages['sr-ec'] = array(
 	'group-Global_bot-member' => '{{GENDER:$1|глобални бот}}',
 	'grouppage-Global_bot' => 'm:Global bot/sr',
 	'group-Global_rollback' => 'Глобални враћачи',
-	'group-Global_rollback-member' => '{{GENDER:$1|глобални враћач|глобална враћачица|глобални враћач}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|глобални враћач}}',
 	'grouppage-Global_rollback' => 'm:Global rollback/sr',
 	'group-Global_sysops' => 'Глобални администратори',
 	'group-Global_sysops-member' => '{{GENDER:$1|глобални администратор|глобална администраторка|глобални администратор}}',
@@ -15144,6 +15161,9 @@ $messages['tg-cyrl'] = array(
 	'group-transwiki' => 'Воридкунандагони трансвики',
 	'group-transwiki-member' => 'воридкунандаи трансвики', # Fuzzy
 	'grouppage-transwiki' => '{{ns:project}}:Воридкунандагони трансвики',
+	'group-uploader' => 'Боргузорон',
+	'group-uploader-member' => 'боргузор', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Боргузорон',
 	'group-Global_bot' => 'Ботҳои саросарӣ',
 	'group-Global_bot-member' => 'боти саросарӣ', # Fuzzy
 	'group-Global_rollback' => 'Вогардоникунандагони саросарӣ',
@@ -15921,6 +15941,9 @@ $messages['ug-arab'] = array(
 	'group-trusted' => 'ئىشەنچلىك ئىشلەتكۈچىلەر',
 	'group-trusted-member' => 'ئىشەنچلىك ئىشلەتكۈچى', # Fuzzy
 	'grouppage-trusted' => '{{ns:project}}:ئىشەنچلىك ئىشلەتكۈچىلەر',
+	'group-uploader' => 'يۈكلىگۈچىلەر',
+	'group-uploader-member' => 'يۈكلىگۈچى', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:يۈكلىگۈچى',
 	'group-Global_bot' => 'پۈتۈن دائىرىلىك ماشىنا ئادەم',
 	'group-Global_bot-member' => 'پۈتكۈل دائىرىلىك ماشىنا ئادەم', # Fuzzy
 	'group-Global_rollback' => 'پۈتكۈل دائىرىلىك ئەسلىگە قايتۇرغۇچى',
@@ -16727,6 +16750,9 @@ $messages['vo'] = array(
 	'group-rollbacker-member' => 'sädunan', # Fuzzy
 	'grouppage-rollbacker' => '{{ns:project}}:Sädunans',
 	'group-transwiki-member' => 'nüveigan vüvükik', # Fuzzy
+	'group-uploader' => 'Löpükans',
+	'group-uploader-member' => 'löpükan', # Fuzzy
+	'grouppage-uploader' => '{{ns:project}}:Löpükans',
 	'group-Global_bot-member' => 'bot valöpik', # Fuzzy
 	'group-sysadmin' => 'Sitiguvans',
 	'group-sysadmin-member' => 'sitiguvan', # Fuzzy

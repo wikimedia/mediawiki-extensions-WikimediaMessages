@@ -3802,7 +3802,7 @@ $messages['ha'] = array(
 	'wm-license-information-permission' => 'Izini',
 );
 
-/** Hakka (Hak-kâ-fa)
+/** Hakka (客家語/Hak-kâ-ngî)
  */
 $messages['hak'] = array(
 	'wm-license-information-description' => 'Mèu-sut',
@@ -5505,7 +5505,7 @@ $messages['kw'] = array(
 	'wm-license-information-permission-reusing-text' => 'Dastevnydhya an restren-ma',
 );
 
-/** Kirghiz (Кыргызча)
+/** Kyrgyz (Кыргызча)
  * @author Chorobek
  * @author Growingup
  */
@@ -6557,7 +6557,7 @@ $messages['nan'] = array(
 	'wm-license-information-description' => 'Soat-bêng',
 );
 
-/** Neapolitan (Nnapulitano)
+/** Neapolitan (Napulitano)
  * @author Chelin
  * @author Diebuche
  */

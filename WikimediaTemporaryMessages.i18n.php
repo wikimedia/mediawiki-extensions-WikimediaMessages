@@ -203,6 +203,8 @@ $messages['ms'] = array(
  */
 $messages['nl'] = array(
 	'wikimediamessages-desc' => 'Tijdelijke berichten voor Wikimedia',
+	'bug-54847-password-reset-prompt' => 'Vanwege een [[meta:October 2013 private data security issue|privacyprobleem met de databases van Wikimedia Labs]], is het mogelijk dat uw wachtwoord is achterhaald. Stel alstublieft een nieuw, ander wachtwoord in voor uw gebruiker. Onze excuses voor het ongemak.',
+	'password-recycled' => 'Het wachtwoord dat u hebt ingevoerd is gelijk aan een oud wachtwoord voor uw gebruiker. Stel een nieuw, ander wachtwoord in.',
 );
 
 /** Polish (polski)
