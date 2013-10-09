@@ -84,6 +84,13 @@ $messages['el'] = array(
 	'bug-54847-password-reset-prompt' => 'Λόγω ενός [[meta:October 2013 private data security issue|ζητήματος ιδιωτικότητας με τις βάσεις δεδομένων του Wikimedia Labs]], ο προηγούμενος κωδικός πρόσβασης που χρησιμοποιούσατε μπορεί να μην είναι ασφαλής. Παρακαλούμε ορίστε ένα νέο, διαφορετικό, κωδικό πρόσβασης για να ασφαλίσετε τον λογαριασμό σας. Ζητούμε συγνώμη για την ενόχλησή σας.',
 );
 
+/** British English (British English)
+ * @author Shirayuki
+ */
+$messages['en-gb'] = array(
+	'bug-54847-password-reset-prompt' => 'Due to a [[meta:October 2013 private data security issue|privacy issue with the Wikimedia Labs databases]], your previously used password may be vulnerable. Please set a new, different, password to secure your account. We apologise for the inconvenience.',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */

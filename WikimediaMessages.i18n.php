@@ -2826,7 +2826,8 @@ Vegeu les <a href="https://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">
 	'wikidata-shortcopyrightwarning' => 'En clicar "desa", esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use/ca condicions d\'ús] i accepteu alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/publicdomain/zero/1.0/deed.ca llicència CC0].',
 	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Pàgines de Wikivoyage vinculades a aquest element',
+	'wikibase-sitelinks-wikivoyage' => 'Pàgines de Viquiviatges vinculades a aquest element',
+	'wikibase-sitelinks-commons' => 'Pàgines de Wikimedia Commons vinculades a aquest element',
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
 	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'usuari",
