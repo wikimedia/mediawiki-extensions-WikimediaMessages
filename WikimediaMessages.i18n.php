@@ -13606,6 +13606,14 @@ $messages['sgs'] = array(
 	'group-sysadmin' => 'Sėstėmas admėnėstratuorē',
 );
 
+/** Serbo-Croatian (srpskohrvatski / српскохрватски)
+ * @author Kolega2357
+ */
+$messages['sh'] = array(
+	'group-autopatrolled' => 'Autopatroleri',
+	'group-autopatrolled-member' => '{{GENDER:$1|Autopatroler}}',
+);
+
 /** Tachelhit (Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ)
  * @author Dalinanir
  * @author Zanatos
