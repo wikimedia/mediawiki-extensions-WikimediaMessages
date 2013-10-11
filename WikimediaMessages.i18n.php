@@ -9488,6 +9488,9 @@ $messages['lv'] = array(
 	'wikimediamessages-desc' => 'Wikimedia raksturīgi paziņojumi',
 	'sitesupport' => 'Ziedojumi',
 	'tooltip-n-sitesupport' => 'Atbalsti mūs',
+	'nstab-creator' => 'Veidotājs',
+	'nstab-institution' => 'Institūcija',
+	'nstab-sequence' => 'Secība',
 	'group-Ex_Administrator' => 'Bijušie administratori',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:Bijušie administratori',
 	'group-Ex_Bureaucrat' => 'Bijušie birokrāti',
@@ -9508,6 +9511,7 @@ $messages['lv'] = array(
 	'group-import' => 'Importētāji',
 	'group-import-member' => '{{GENDER:$1|importētājs|importētāja}}',
 	'grouppage-import' => '{{ns:project}}:Importētāji',
+	'group-ipblock-exempt' => 'IP bloķēšanas izņēmumi',
 	'group-transwiki' => 'Transviki importētāji',
 	'group-trusted' => 'Uzticamie lietotāji',
 	'group-uploader' => 'Augšupielādētāji',
@@ -9526,6 +9530,8 @@ Plašākai informācijai skatīt <a href="https://wikimediafoundation.org/wiki/T
 	'wikimedia-copyrightwarning' => 'Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [https://www.gnu.org/copyleft/fdl.html GFDL] licenci.
 Jūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.
 Plašākai informācijai skatīt [https://wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].', # Fuzzy
+	'extdist-branch-REL1_21' => '1.21 (jaunākais stabilais MediaWiki)',
+	'wikimedia-developers' => 'Izstrādātāji',
 );
 
 /** Literary Chinese (文言)

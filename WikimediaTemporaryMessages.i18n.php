@@ -136,6 +136,8 @@ $messages['fr'] = array(
  */
 $messages['gl'] = array(
 	'wikimediamessages-desc' => 'Mensaxes temporais específicas da Wikimedia',
+	'bug-54847-password-reset-prompt' => 'Debido a un [[meta:October 2013 private data security issue|problema coa seguridade das bases de datos do laboratorio da Wikimedia]], o seu contrasinal anterior pode ser vulnerable. Defina un contrasinal diferente para asegurar a súa conta. Sentimos as molestias ocasionadas.',
+	'password-recycled' => 'O contrasinal inserido coincide cun contrasinal vello asociado á súa conta. Defina un contrasinal diferente',
 );
 
 /** Hebrew (עברית)
