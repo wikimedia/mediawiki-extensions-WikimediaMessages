@@ -17211,15 +17211,15 @@ $messages['zea'] = array(
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
-	'wikimediamessages-desc' => '维基媒体特定信息',
+	'wikimediamessages-desc' => '维基媒体特有信息',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=zh-hans',
 	'sitesupport' => '资助',
 	'tooltip-n-sitesupport' => '资助我们',
-	'specialpages-group-contribution' => '资助者/筹款人',
-	'nstab-creator' => '创建者',
+	'specialpages-group-contribution' => '资助者/募捐者',
+	'nstab-creator' => '创作者',
 	'nstab-institution' => '机构',
 	'nstab-sequence' => '序列',
-	'nstab-timedtext' => '时间文字',
+	'nstab-timedtext' => '字幕',
 	'group-Ex_Administrator' => '前管理员',
 	'group-Ex_Administrator-member' => '{{GENDER:$1|前管理员}}',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:前管理员',
@@ -17227,59 +17227,59 @@ $messages['zh-hans'] = array(
 	'group-Ex_Bureaucrat-member' => '{{GENDER:$1|前行政员}}',
 	'grouppage-Ex_Bureaucrat' => '{{ns:project}}:前行政员',
 	'group-Image-reviewer' => '图像审查者',
-	'group-Image-reviewer-member' => '图像审查者',
+	'group-Image-reviewer-member' => '{{GENDER:$1|图像审查者}}',
 	'grouppage-Image-reviewer' => '{{ns:project}}:图像审查者',
 	'group-OTRS-member' => 'OTRS成员',
-	'group-OTRS-member-member' => 'OTRS成员',
+	'group-OTRS-member-member' => '{{GENDER:$1|OTRS成员}}',
 	'grouppage-OTRS-member' => '{{ns:project}}:OTRS成员',
 	'group-abusefilter' => '滥用过滤器编辑者',
-	'group-abusefilter-member' => '滥用过滤器编辑者',
+	'group-abusefilter-member' => '{{GENDER:$1|滥用过滤器编辑者}}',
 	'grouppage-abusefilter' => '{{ns:project}}:滥用过滤器编辑者',
-	'group-accountcreator' => '账户创建员',
-	'group-accountcreator-member' => '账户创建员',
-	'grouppage-accountcreator' => '{{ns:project}}:账户创建员',
+	'group-accountcreator' => '账户创建者',
+	'group-accountcreator-member' => '{{GENDER:$1|账户创建者}}',
+	'grouppage-accountcreator' => '{{ns:project}}:账户创建者',
 	'group-arbcom' => '仲裁委员会成员',
-	'group-arbcom-member' => '仲裁委员会成员',
+	'group-arbcom-member' => '{{GENDER:$1|仲裁委员会成员}}',
 	'grouppage-arbcom' => '{{ns:project}}:仲裁委员会成员',
 	'group-autopatrolled' => '自动巡查者',
-	'group-autopatrolled-member' => '自动巡查者',
+	'group-autopatrolled-member' => '{{GENDER:$1|自动巡查者}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:自动巡查者',
-	'group-autoreviewer' => '审查豁免者',
-	'group-autoreviewer-member' => '审查豁免者',
-	'grouppage-autoreviewer' => '{{ns:project}}:审查豁免者',
+	'group-autoreviewer' => '自动复核者',
+	'group-autoreviewer-member' => '{{GENDER:$1|自动复核者}}',
+	'grouppage-autoreviewer' => '{{ns:project}}:自动复核者',
 	'group-bigexport' => '大量导出者',
-	'group-bigexport-member' => '大量导出者',
+	'group-bigexport-member' => '{{GENDER:$1|大量导出者}}',
 	'grouppage-bigexport' => '{{ns:project}}:大量导出者',
 	'group-botadmin' => '有管理员权限的机器人',
 	'group-botadmin-member' => '{{GENDER:$1|有管理员权限的机器人}}',
 	'grouppage-botadmin' => '{{ns:project}}:有管理员权限的机器人',
 	'group-confirmed' => '确认用户',
-	'group-confirmed-member' => '确认用户',
+	'group-confirmed-member' => '{{GENDER:$1|确认用户}}',
 	'grouppage-confirmed' => '{{ns:project}}:确认用户',
 	'group-editprotected' => '受保护页面编辑者',
 	'group-editprotected-member' => '受保护页面编辑者',
 	'grouppage-editprotected' => '{{ns:project}}:受保护页面编辑者',
 	'group-eliminator' => '消除者',
-	'group-eliminator-member' => '消除者',
+	'group-eliminator-member' => '{{GENDER:$1|消除者}}',
 	'grouppage-eliminator' => '{{ns:project}}:消除者',
 	'group-filemover' => '文件移动者',
-	'group-filemover-member' => '文件移动者',
+	'group-filemover-member' => '{{GENDER:$1|文件移动者}}',
 	'grouppage-filemover' => '{{ns:project}}:文件移动者',
 	'group-flood' => '机器人用户',
-	'group-flood-member' => '机器人用户',
+	'group-flood-member' => '{{GENDER:$1|机器人用户}}',
 	'grouppage-flood' => '{{ns:project}}:机器人用户',
 	'group-founder' => '创始人',
-	'group-founder-member' => '创始人',
+	'group-founder-member' => '{{GENDER:$1|创始人}}',
 	'grouppage-founder' => '{{ns:project}}:创始人',
 	'group-import' => '导入者',
-	'group-import-member' => '导入者',
+	'group-import-member' => '{{GENDER:$1|导入者}}',
 	'grouppage-import' => '{{ns:project}}:导入者',
 	'group-interface_editor' => '界面编辑者',
-	'group-interface_editor-member' => '界面编辑者',
+	'group-interface_editor-member' => '{{GENDER:$1|界面编辑者}}',
 	'grouppage-interface_editor' => '{{ns:project}}:界面编辑者',
-	'group-ipblock-exempt' => 'IP封禁豁免者',
-	'group-ipblock-exempt-member' => 'IP封禁豁免者',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封禁豁免者',
+	'group-ipblock-exempt' => 'IP封禁豁免',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|IP封禁豁免者}}',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封禁豁免',
 	'group-patroller' => '巡查员',
 	'group-patroller-member' => '{{GENDER:$1|巡查员}}',
 	'grouppage-patroller' => '{{ns:project}}:巡查员',
@@ -17292,22 +17292,22 @@ $messages['zh-hans'] = array(
 	'group-transwiki' => '跨维基导入者',
 	'group-transwiki-member' => '{{GENDER:$1|跨维基导入者}}',
 	'grouppage-transwiki' => '{{ns:project}}:跨维基导入者',
-	'group-trusted' => '受信任用户',
-	'group-trusted-member' => '{{GENDER:$1|受信任用户}}',
-	'grouppage-trusted' => '{{ns:project}}:受信任用戶',
-	'group-uploader' => '上传文件用户',
+	'group-trusted' => '受信用户',
+	'group-trusted-member' => '{{GENDER:$1|受信用户}}',
+	'grouppage-trusted' => '{{ns:project}}:受信用戶',
+	'group-uploader' => '上传者',
 	'group-uploader-member' => '{{GENDER:$1|上传者}}',
-	'grouppage-uploader' => '{{ns:project}}:上传文件用户',
-	'group-Global_bot' => '全域机器人',
-	'group-Global_bot-member' => '{{GENDER:$1|全域机器人}}',
-	'group-Global_rollback' => '全域回退员',
-	'group-Global_rollback-member' => '{{GENDER:$1|全域回退员}}',
-	'group-Global_sysops' => '全域管理员',
-	'group-Global_sysops-member' => '{{GENDER:$1|全域管理员}}',
+	'grouppage-uploader' => '{{ns:project}}:上传者',
+	'group-Global_bot' => '全局机器人',
+	'group-Global_bot-member' => '{{GENDER:$1|全局机器人}}',
+	'group-Global_rollback' => '全局回退员',
+	'group-Global_rollback-member' => '{{GENDER:$1|全局回退员}}',
+	'group-Global_sysops' => '全局管理员',
+	'group-Global_sysops-member' => '{{GENDER:$1|全局管理员}}',
 	'group-Ombudsmen' => '申诉专员',
 	'group-Ombudsmen-member' => '{{GENDER:$1|申诉专员}}',
 	'group-Staff' => '基金会职员',
-	'group-Staff-member' => '基金会职员',
+	'group-Staff-member' => '{{GENDER:$1|基金会职员}}',
 	'grouppage-Staff' => 'Foundation:基金会职员',
 	'group-editinterface' => '界面编辑者',
 	'group-editinterface-member' => '{{GENDER:$1|界面编辑者}}',
@@ -17315,14 +17315,14 @@ $messages['zh-hans'] = array(
 	'group-steward-member' => '{{GENDER:$1|监管员}}',
 	'group-sysadmin' => '系统管理员',
 	'group-sysadmin-member' => '{{GENDER:$1|系统管理员}}',
-	'group-API_High_Limit_Requestor' => 'API 高限请求者',
-	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API 高限请求者}}',
-	'group-Indic_Bots' => '印度语言维基机器',
-	'group-Indic_Bots-member' => '{{GENDER:$1|印度语言维基机器}}',
+	'group-API_High_Limit_Requestor' => 'API高限制请求者',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|API高限制请求者}}',
+	'group-Indic_Bots' => '印度语群机器人',
+	'group-Indic_Bots-member' => '{{GENDER:$1|印度语群机器人}}',
 	'group-New_wikis_importer' => '新维基导入者',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|新维基导入者}}',
-	'group-global-ipblock-exempt' => '全局IP封禁例外',
-	'group-global-ipblock-exempt-member' => '{{GENDER:$1|全局IP封禁例外}}',
+	'group-global-ipblock-exempt' => '全局IP封禁豁免',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|全局IP封禁豁免者}}',
 	'group-recursive-export' => '递归导出',
 	'group-recursive-export-member' => '{{GENDER:$1|递归导出者}}',
 	'group-translationadmin' => '翻译管理员',
@@ -17339,51 +17339,43 @@ $messages['zh-hans'] = array(
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
 	'shared-repo-name-shared' => '维基共享资源',
 	'wikimedia-copyright' => '本网站文字内容采用<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
-	'wikidata-copyright' => '所有来自“主要”和“属性”命名空间的结构化数据在<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知识共享CC0协议</a>下可用；
-其他命名空间中的文本在<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知识共享 署名-相同方式共享协议">知识共享 署名-相同方式共享协议</a>下可用；附加条款可能适用。
-参见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会的使用条款">使用条款</a>了解细节。',
-	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ CC0许可协议]发表你的贡献。',
-	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC-BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
+	'wikidata-copyright' => '本网站主要和属性名字空间的所有结构化数据采用<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="知识共享“CC0”许可协议之定义">知识共享“CC0”许可协议</a>发表，其他名字空间的文字内容采用<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="知识共享“署名-相同方式共享”许可协议之定义">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会使用条款">使用条款</a>。',
+	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ “CC0”许可协议]发表你的贡献。',
+	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC“BY-SA 3.0”许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
 	'wikibase-sitelinks-wikivoyage' => '链接至该项的维基导游页面',
 	'wikibase-sitelinks-commons' => '链接至该项的维基共享资源页面',
 	'wikibase-sitelinks-sitename-commonswiki' => '共享资源',
 	'cant-delete-main-page' => '你不能删除或移动首页。',
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
-	'upload-more-photos-of-this-monument' => '上载更多此古迹的照片',
-	'extdist-branch-master' => '主干(master)（最新开发版本）',
-	'extdist-branch-REL1_21' => '1.21（最新稳定版MediaWiki）',
-	'createacct-helpusername-url' => '{{ns:Project}}:用户名',
-	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(帮我选择)]]',
-	'createacct-captcha-help-url' => '{{ns:Project}}:账号请求',
+	'upload-more-photos-of-this-monument' => '上传更多该古迹的照片',
+	'extdist-branch-master' => '原始版（最新开发版本）',
+	'extdist-branch-REL1_21' => '1.21（最新稳定MediaWiki版本）',
+	'createacct-helpusername-url' => '{{ns:Project}}:用户名方针',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|（帮我选择）]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:申请账户',
 	'createacct-imgcaptcha-help' => '无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]',
 	'wikimedia-developers' => '开发者',
-	'wikimedia-globalblocking-ipblocked' => "'''您的IP地址已被[[m:Special:MyLanguage/Global blocks|全部维基站点封禁]]。'''
+	'wikimedia-globalblocking-ipblocked' => "'''你的IP地址已经[[m:Special:MyLanguage/Global blocks|在所有维基网站被封禁]]。'''
 
-这次的封禁是由$1（$2）进行的。
-给出的封禁原因是''$3''。
-
-* 封禁开始时间：$4
-* 封禁结束时间：$5
-
-您当前的IP地址是$6。
-请在提报任何问题之前再三检查包括上述内容的任何细节。
-
-如果您认为您被错误封禁，您应先阅读全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]以获得更多信息和指示。否则，申请解禁请[[m:Steward requests/Global|在元维基上发布复审请求]]。",
-	'wikimedia-globalblocking-ipblocked-xff' => "'''您所申请的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全局封禁]]。'''
-
-这次的封禁是由$1（$2）进行的。
-给出的封禁原因是''$3''。
+该封禁是$1（$2）设置的。给出的原因是''$3''。
 
 * 封禁开始时间：$4
-* 封禁结束时间：$5
+* 封禁到期时间：$5
 
-被封禁的代理服务器地址是$6。
-请在提报任何问题之前再三检查包括上述内容的任何细节。
+你目前的IP地址是$6。请在你提出的任何质疑中包括以上所有信息。
 
-如果您认为您被错误封禁，您应先阅读全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]以获得更多信息和指示。否则，申请解禁请[[m:Steward requests/Global|在元维基上发布复审请求]]。",
-	'wikimedia-torblock-blocked' => '您的IP地址<strong>$1</strong>被自动查核出至少一个带套代理连接（Tor）节点。
-请注意我们将自动封禁使用Tor的IP地址以防滥用。
-关于附加信息和允许的例外，请参阅全局方针[[m:Special:MyLanguage/No open proxies|请勿开放代理]]。',
+如果你认为你被错误地封禁，你可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全局方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''你的访问请求所使用的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全局封禁]]。'''
+
+该封禁是$1（$2）设置的。给出的原因是''$3''。
+
+* 封禁开始时间：$4
+* 封禁到期时间：$5
+
+被封禁的代理服务器地址是$6。请在你提出的任何质疑中包括以上所有信息。
+
+如果你认为你被错误地封禁，你可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全局方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
+	'wikimedia-torblock-blocked' => '你的IP地址<strong>$1</strong>已经被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全局方针。',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
