@@ -4997,9 +4997,9 @@ $messages['fi'] = array(
 	'group-autopatrolled' => 'automaattisesti tarkastavat',
 	'group-autopatrolled-member' => '{{GENDER:$1|automaattisesti tarkastava}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Automaattisesti tarkastavat',
-	'group-autoreviewer' => 'automaattiseulojat',
-	'group-autoreviewer-member' => '{{GENDER:$1|automaattiseuloja}}',
-	'grouppage-autoreviewer' => '{{ns:project}}:Automaattiseulojat',
+	'group-autoreviewer' => 'Autoreviewers',
+	'group-autoreviewer-member' => '{{GENDER:$1|autoreviewer}}',
+	'grouppage-autoreviewer' => '{{ns:project}}:Autoreviewers',
 	'group-bigexport' => 'suuret viejät',
 	'group-bigexport-member' => '{{GENDER:$1|suuri viejä}}',
 	'grouppage-bigexport' => '{{ns:project}}:Suuret viejät',
@@ -5018,9 +5018,9 @@ $messages['fi'] = array(
 	'group-filemover' => 'tiedostojen siirtäjät',
 	'group-filemover-member' => '{{GENDER:$1|tiedostojen siirtäjä}}',
 	'grouppage-filemover' => '{{ns:project}}:Tiedostojen siirtäjät',
-	'group-flood' => 'bottitunnukset',
-	'group-flood-member' => '{{GENDER:$1|bottitunnus}}',
-	'grouppage-flood' => '{{ns:project}}:Bottitunnukset',
+	'group-flood' => 'botin käyttäjät',
+	'group-flood-member' => '{{GENDER:$1|botin käyttäjä}}',
+	'grouppage-flood' => '{{ns:project}}:Botin käyttäjät',
 	'group-founder' => 'perustajat',
 	'group-founder-member' => '{{GENDER:$1|perustaja}}',
 	'grouppage-founder' => '{{ns:project}}:Perustajat',
@@ -17551,6 +17551,9 @@ $messages['zh-hant'] = array(
 于請求解封之前請檢閱上述訊息。
 
 如果您認為封禁冤枉了您，請您詳細閱讀全局方針[[m:Special:MyLanguage/No open proxies|請勿開放代理]]。否則，請于[[m:Steward requests/Global|此頁面遞交請求]]。",
+	'wikimedia-torblock-blocked' => '您的IP位址，<strong>$1</strong>，被自動確認為Tor節點之一。
+我們已禁止通過此Tor節點編輯以防止濫用。
+關於相關訊息以及合法用戶之說明，詳見全局方針[[m:Special:MyLanguage/No open proxies|請勿開放代理]]。',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)
