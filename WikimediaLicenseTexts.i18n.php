@@ -5791,6 +5791,17 @@ $messages['lmo'] = array(
 	'wm-license-gpl-wiki-link' => 'w:lmo:GPL',
 );
 
+/** لوری (لوری)
+ * @author Mogoeilor
+ */
+$messages['lrc'] = array(
+	'wm-license-book-editor' => 'ويرايشتگر',
+	'wm-license-book-translator' => 'والريار',
+	'wm-license-book-volume' => 'حجم',
+	'wm-license-information-source' => 'سرچشمه',
+	'wm-license-information-date' => 'تاريخ',
+);
+
 /** Lithuanian (lietuvių)
  * @author Eitvys200
  * @author Garas
