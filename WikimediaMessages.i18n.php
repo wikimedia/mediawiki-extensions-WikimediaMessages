@@ -8746,7 +8746,7 @@ $messages['ko'] = array(
 	'wikibase-sitelinks-commons' => '이 항목을 가리키는 위키미디어 공용 문서',
 	'wikibase-sitelinks-sitename-commonswiki' => '공용',
 	'cant-delete-main-page' => '대문 문서를 삭제하거나 옮길 수 없습니다.',
-	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.',
+	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [//wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
 	'extdist-branch-master' => '마스터 (최신 개발 버전)',
 	'extdist-branch-REL1_21' => '1.21 (최신 안정 미디어위키)',
@@ -8768,6 +8768,20 @@ $messages['ko'] = array(
 
 당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개 프록시 금지]] 전역 정책에서 추가적인 설명을 찾아볼 수 있습니다.
 차단에 대해 재검토를 요청하려면 [[m:Steward requests/Global|메타위키에 차단 재검토 요청]]을 남기십시오.",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''당신이 사용한 프록시 서버는 [[m:Special:MyLanguage/Global blocks|전역 차단]]되었습니다.'''
+
+차단한 사용자는 $1 ($2)입니다.
+
+차단한 이유는 ''$3''입니다.
+
+* 차단 시점:$4
+* 차단 기한:$5
+
+당신의 프록시 IP 주소는 $6입니다.
+차단 재검토를 요청할 때 위의 정보를 포함해 주세요.
+
+당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No Open proxies|공개 프록시 금지]] 전역 정책에서 더 많은 정보를 찾을 수 있습니다.
+차단의 재검토는 [[m:Steward requests/Global|메타위키]]에서 요청하실 수 있습니다.", # Fuzzy
 	'wikimedia-torblock-blocked' => '당신의 IP 주소인 <strong>$1</strong>은 자동적으로 토르 끝 노드로 판명되었습니다.
 토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
 자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
