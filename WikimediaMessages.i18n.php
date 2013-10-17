@@ -135,6 +135,10 @@ $messages['en'] = array(
 	'group-transwiki-member' => '{{GENDER:$1|transwiki importer}}',
 	'grouppage-transwiki'    => '{{ns:project}}:Transwiki importers',
 
+	'group-templateeditor'        => 'Template editors',
+	'group-templateeditor-member' => '{{GENDER:$1|template editor}}',
+	'grouppage-templateeditor'    => '{{ns:project}}:Template editors',
+
 	'group-trusted'        => 'Trusted users',
 	'group-trusted-member' => '{{GENDER:$1|trusted user}}',
 	'grouppage-trusted'    => '{{ns:project}}:Trusted users',
