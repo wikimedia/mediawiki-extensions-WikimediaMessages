@@ -3635,6 +3635,9 @@ $messages['de'] = array(
 	'group-transwiki' => 'Transwiki-Importeure',
 	'group-transwiki-member' => '{{GENDER:$1|Transwiki-Importeur|Transwiki-Importeurin}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importeure',
+	'group-templateeditor' => 'Vorlagenbearbeiter',
+	'group-templateeditor-member' => '{{GENDER:$1|Vorlagenbearbeiter|Vorlagenbearbeiterin}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Vorlagenbearbeiter',
 	'group-trusted' => 'Vertrauenswürdige Benutzer',
 	'group-trusted-member' => '{{GENDER:$1|Vertrauenswürdiger Benutzer|Vertrauenswürdige Benutzerin}}',
 	'grouppage-trusted' => '{{ns:project}}:Vertrauenswürdige Benutzer',
@@ -8784,8 +8787,8 @@ $messages['ko'] = array(
 당신의 프록시 IP 주소는 $6입니다.
 차단 재검토를 요청할 때 위의 정보를 포함해 주세요.
 
-당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No Open proxies|공개 프록시 금지]] 전역 정책에서 더 많은 정보를 찾을 수 있습니다.
-차단의 재검토는 [[m:Steward requests/Global|메타위키]]에서 요청하실 수 있습니다.", # Fuzzy
+당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개 프록시 금지]] 전역 정책에서 더 많은 정보를 찾을 수 있습니다.
+차단의 재검토는 [[m:Steward requests/Global|메타위키]]에서 요청하실 수 있습니다.",
 	'wikimedia-torblock-blocked' => '당신의 IP 주소인 <strong>$1</strong>은 자동적으로 토르 끝 노드로 판명되었습니다.
 토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
 자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
@@ -16111,6 +16114,9 @@ $messages['uk'] = array(
 	'group-transwiki' => 'Transwiki-імпортери',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-імпортер|transwiki-імпортерка}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-імпортери',
+	'group-templateeditor' => 'Редактори шаблонів',
+	'group-templateeditor-member' => '{{GENDER:$1|редактор шаблону|редакторка шаблону}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Редактори шаблону',
 	'group-trusted' => 'Довірені користувачі',
 	'group-trusted-member' => 'довірений користувач',
 	'grouppage-trusted' => '{{ns:project}}:Довірені користувачі',
