@@ -2858,6 +2858,8 @@ $messages['cdo'] = array(
 $messages['ce'] = array(
 	'sitesupport' => 'Википедин гӀо дар',
 	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
+	'group-abusefilter' => 'Зулам литтаран тадархой',
+	'grouppage-abusefilter' => '{{ns:project}}:Зулам литтаран тадархой',
 	'group-accountcreator' => 'Декъашхойн дӀаяздарш кхуллурш',
 	'group-accountcreator-member' => '{{GENDER:$1|декъашхошан дӀаяздарш кхуллург}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Декъашхойн дӀаяздарш кхуллурш',
@@ -2866,8 +2868,12 @@ $messages['ce'] = array(
 	'group-flood' => 'Декъашхой-шаболххой',
 	'group-flood-member' => 'декъашхой-шаболххой', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Декъашхой-шаболххой',
+	'group-founder' => 'Йиллинарш',
+	'grouppage-founder' => '{{ns:project}}:Йиллинарш',
 	'group-import' => 'Импорт ерш',
 	'grouppage-import' => '{{ns:project}}:Импорт ерш',
+	'group-interface_editor' => 'Интерфейсан тадархой',
+	'grouppage-interface_editor' => '{{ns:project}}:Интерфейсан тадархой',
 	'group-ipblock-exempt' => 'IP-сацор юкъарадоккху',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|юкъараваккхар/яккхар IP-блоктохаршана}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Юкъараваккхар/яккхар IP-блоктохаршана',
@@ -2876,6 +2882,7 @@ $messages['ce'] = array(
 	'group-Global_bot' => 'Масхьара шаболххой',
 	'group-Global_bot-member' => 'масхьара шаболххо', # Fuzzy
 	'group-Global_sysops' => 'Глобальни куьйгалхой',
+	'group-editinterface' => 'Интерфейсан тадархой',
 	'group-steward' => 'Стюардхой',
 	'group-sysadmin' => 'Системин куьйгалхой',
 	'shared-repo-name-shared' => 'Викигулам',
@@ -3439,6 +3446,9 @@ $messages['da'] = array(
 	'group-transwiki' => 'Transwiki-importører',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-importør}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importører',
+	'group-templateeditor' => 'Skabelonredaktører',
+	'group-templateeditor-member' => '{{GENDER:$1|skabelonredaktør}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Skabelonredaktører',
 	'group-trusted' => 'Betroede brugere',
 	'group-trusted-member' => '{{GENDER:$1|betroet bruger}}',
 	'grouppage-trusted' => '{{ns:project}}:Betroede brugere',
@@ -6483,6 +6493,9 @@ $messages['he'] = array(
 	'group-transwiki' => 'מייבאים בין־אתריים',
 	'group-transwiki-member' => '{{GENDER:$1|מייבא|מייבאת}} בין אתרים',
 	'grouppage-transwiki' => '{{ns:project}}:מייבא בין-אתרי',
+	'group-templateeditor' => 'עורכי תבניות',
+	'group-templateeditor-member' => '{{GENDER:$1|עורך|עורכת}} תבניות',
+	'grouppage-templateeditor' => '{{ns:project}}:Template editors',
 	'group-trusted' => 'משתמשים מהימנים',
 	'group-trusted-member' => '{{GENDER:$1|משתמש מהימן|משתמשת מהימנה}}',
 	'grouppage-trusted' => '{{ns:project}}:משתמשים מהימנים',
@@ -6534,6 +6547,8 @@ $messages['he'] = array(
 	'wikidata-shortcopyrightwarning' => 'לחיצה על "{{int:wikibase-save}}" היא הסכמה ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] והסכמה בלתי־חוזרת לשחרר את תרומתך לפי תנאי [https://creativecommons.org/publicdomain/zero/1.0/ רישיון CC0].',
 	'wikimedia-copyrightwarning' => 'בשמירת הדף, אתם מסכימים ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואתם מסכימים באופן בלתי חוזר לשחרר את תרומתכם בכפוף לרישיון [https://creativecommons.org/licenses/by-sa/3.0/deed.he Creative Commons ייחוס-שיתוף זהה 3.0] ולרישיון [https://www.gnu.org/copyleft/fdl.html GFDL]. אתם מסכימים לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'דפי ויקימסע שמקושרים לפריט הזה',
+	'wikibase-sitelinks-commons' => 'דפי ויקישיתוף שמקושרים לפריט הזה',
+	'wikibase-sitelinks-sitename-commonswiki' => 'ויקישיתוף',
 	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
 	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
@@ -6544,6 +6559,35 @@ $messages['he'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
 	'createacct-imgcaptcha-help' => 'לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]',
 	'wikimedia-developers' => 'מפתחים',
+	'wikimedia-globalblocking-ipblocked' => '\'\'\'כתובת ה־IP שלך [[m:Special:MyLanguage/Global blocks|נחסמה בכל אתרי הוויקי]].\'\'\'
+
+החסימה בוצעה על־ידי $1 (מאתר $2).
+הסיבה שניתנה היא: $3.
+
+* תחילת החסימה: $4
+* תפוגת החסימה: $5
+
+כתובת ה־IP הנוכחית שלך היא $6.
+נא לכלול את כל המידע הנ"ל בכל שאלה.
+
+אם נראה לך שנחסמת בטעות, אפשר למצוא מידע נוסף והוראות בדף המדיניות הגלובלי [[m:Special:MyLanguage/No open proxies|No open proxies]].
+מלבד זאת, נא לדון בחסימה על־ידי [[m:Steward requests/Global|שליחת בקשה לביקורת באתר מטא]].',
+	'wikimedia-globalblocking-ipblocked-xff' => "'''שרת פרוקסי אחד או יותר ששימש בבקשה שלך [[m:Special:MyLanguage/Global blocks|חסום גלובלית]].'''
+
+החסימה בוצעה על־ידי \$1 (מאתר \$2).
+הסיבה שניתנה היא ''\$3''.
+
+* תחילת החסימה: \$4
+* סוף החסימה: \$5
+
+כתובת הפרוקסי שנחסמה הייתה \$6.
+נא לכלול את כל המידע הנ\"ל בכל שאלה.
+
+אם נראה לך שנחסמת בטעות, אפשר למצוא מידע נוסף והוראות בדף המדיניות הגלובלי [[m:Special:MyLanguage/No open proxies|No open proxies]].
+מלבד זאת, נא לדון בחסימה על־ידי [[m:Steward requests/Global|שליחת בקשה לביקורת באתר מטא]].",
+	'wikimedia-torblock-blocked' => 'כתובת ה־IP שלך, <strong>$1</strong>, זוהתה באופן אוטומטי בתור צומת יציאה של Tor.
+עריכה דרך Tor אסורה לשם מניעת שימוש לרעה.
+למידע נוסף והוראות למשתמשים סבירים נא לקרוא את דף המדיניות הגלובלית [[m:Special:MyLanguage/No open proxies|No open proxies]].',
 );
 
 /** Hindi (हिन्दी)
@@ -8276,6 +8320,7 @@ $messages['jv'] = array(
  * @author David1010
  * @author Dawid Deutschland
  * @author ITshnik
+ * @author MIKHEIL
  * @author Malafaya
  * @author Nemo bis
  * @author Sopho
@@ -8414,7 +8459,7 @@ $messages['ka'] = array(
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
 	'extdist-branch-master' => 'ოსტატი (უკანასკნელი შემუშავებული ვერსია)',
 	'extdist-branch-REL1_21' => '1.21 (მედიავიკის ბოლო სტაბილური ვერსია)',
-	'wikimedia-developers' => 'შემქნელები',
+	'wikimedia-developers' => 'შემქმნელები',
 );
 
 /** Kara-Kalpak (Qaraqalpaqsha)
@@ -9140,6 +9185,9 @@ $messages['lb'] = array(
 	'group-transwiki' => 'Transwiki-Importateuren',
 	'group-transwiki-member' => '{{GENDER:$1|Transwiki-Importateur}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-Importateuren',
+	'group-templateeditor' => 'Editeure vu Schablounen',
+	'group-templateeditor-member' => '{{GENDER:$1|Editeur vu Schablounen}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Editeure vu Schablounen',
 	'group-trusted' => 'Erfuere Benotzer',
 	'group-trusted-member' => '{{GENDER:$1|erfuerene Benotzer}}',
 	'grouppage-trusted' => '{{ns:project}}:Erfuere Benotzer',
@@ -17341,6 +17389,8 @@ $messages['zh-hans'] = array(
 	'group-transwiki' => '跨维基导入者',
 	'group-transwiki-member' => '{{GENDER:$1|跨维基导入者}}',
 	'grouppage-transwiki' => '{{ns:project}}:跨维基导入者',
+	'group-templateeditor' => '模板编辑者',
+	'group-templateeditor-member' => '{{GENDER:$1|模板编辑者}}',
 	'grouppage-templateeditor' => '{{ns:project}}:模板编辑者',
 	'group-trusted' => '受信用户',
 	'group-trusted-member' => '{{GENDER:$1|受信用户}}',
@@ -17527,6 +17577,9 @@ $messages['zh-hant'] = array(
 	'group-transwiki' => '跨維基匯入者',
 	'group-transwiki-member' => '{{GENDER:$1|跨維基匯入者}}',
 	'grouppage-transwiki' => '{{ns:project}}:跨維基匯入者',
+	'group-templateeditor' => '模板編者',
+	'group-templateeditor-member' => '{{GENDER:$1|模板編者}}',
+	'grouppage-templateeditor' => '{{ns:project}}:模板編者',
 	'group-trusted' => '受信任的用戶',
 	'group-trusted-member' => '{{GENDER:$1|受信任用戶}}',
 	'grouppage-trusted' => '{{ns:project}}:受信任的用戶',
@@ -17593,6 +17646,18 @@ $messages['zh-hant'] = array(
 	'wikimedia-globalblocking-ipblocked' => "'''您的IP位址已經[[m:Special:MyLanguage/Global blocks|所有維基封禁]]。'''
 封禁由$1（$2）做出。
 原因如下''$3''。
+
+* 封禁開始之時：$4
+* 封禁終止之時：$5
+
+您當前的IP位址是$6。
+于請求解封之前請檢閱上述訊息。
+
+如果您認為封禁冤枉了您，請您詳細閱讀全局方針[[m:Special:MyLanguage/No open proxies|請勿開放代理]]。否則，請于[[m:Steward requests/Global|此頁面遞交請求]]。",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''您請求鏈路的一個或更多代理伺服器被[[m:Special:MyLanguage/Global blocks|全局封禁]]。'''
+
+是次封禁由$1（$2）做出。
+提供原因為''$3''。
 
 * 封禁開始之時：$4
 * 封禁終止之時：$5
