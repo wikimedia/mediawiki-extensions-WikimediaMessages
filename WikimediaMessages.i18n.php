@@ -1475,6 +1475,9 @@ $messages['ast'] = array(
 	'group-transwiki' => 'Importadores treswiki',
 	'group-transwiki-member' => '{{GENDER:$1|importador|importadora}} transwiki',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores treswiki',
+	'group-templateeditor' => 'Editores de plantíes',
+	'group-templateeditor-member' => '{{GENDER:$1|editor|editora}} de plantíes',
+	'grouppage-templateeditor' => '{{ns:project}}:Editores de plantíes',
 	'group-trusted' => 'Usuarios de confianza',
 	'group-trusted-member' => '{{GENDER:$1|usuariu|usuaria}} de confianza',
 	'grouppage-trusted' => '{{ns:project}}:Usuarios de confianza',
@@ -1554,6 +1557,22 @@ Por favor, incluya tolos datos anteriores en cualquier consulta que faiga.
 
 Si cree que ta bloquiáu por error, pue alcontrar más información ya instrucciones na política global [[m:Special:MyLanguage/No open proxies|escontra los proxies abiertos]].
 D'otra manera, pa falar del bloquéu [[m:Steward requests/Global|dexe una solicitú de revisión en Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Un sirvidor proxy o más qu'usa la so solicitú [[m:Special:MyLanguage/Global blocks|bloquióse globalmente]].'''
+
+El bloquéu fízolu $1 ($2).
+El motivu dau ye ''$3''.
+
+* Principiu del bloquéu: $4
+* Caducidá del bloquéu: $5
+
+La direición del proxy bloquiáu ye $6.
+Por favor, incluya tolos datos anteriores en cualquier consulta que faiga.
+
+Si cree que ta bloquiáu por error, pue alcontrar más información ya instrucciones na política global [[m:Special:MyLanguage/No open proxies|escontra proxies abiertos]].
+D'otra manera, pa falar del bloquéu [[m:Steward requests/Global|dexe una solicitú de revisión en Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'La so direición IP, <strong>$1</strong>, identificóse automáticamente como un nuedu de salida Tor.
+La edición al traviés de Tor ta bloquiada pa prevenir abusos.
+Paa más información ya instrucciones pa usuarios llexítimos, vea la política global [[m:Special:MyLanguage/No open proxies|escontra proxies abiertos]].',
 );
 
 /** Avaric (авар)
@@ -12628,7 +12647,7 @@ $messages['qu'] = array(
 	'grouppage-editprotected' => "{{ns:project}}:Amachasqa p'anqa llamk'apuqkuna",
 	'group-eliminator' => 'Qulluchiqkuna',
 	'group-eliminator-member' => '{{GENDER:$1|}}qulluchiq',
-	'grouppage-eliminator' => '{{ns:project}}:Qulluchiq', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Qulluchiqkuna',
 	'group-filemover' => 'Willañiqi astaqkuna',
 	'group-filemover-member' => '{{GENDER:$1|}}willañiqi astaq',
 	'grouppage-filemover' => '{{ns:project}}:Willañiqi astaqkuna',
@@ -12662,7 +12681,7 @@ $messages['qu'] = array(
 	'group-trusted-member' => '{{GENDER:$1|}}sunqullisqa ruraq',
 	'grouppage-trusted' => '{{ns:project}}:Sunqullisqa ruraqkuna',
 	'group-uploader' => 'Churkuqkuna',
-	'group-uploader-member' => 'churkuq', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|churkuq}}',
 	'grouppage-uploader' => '{{ns:project}}:Churkuqkuna',
 	'group-Global_bot' => 'Sapsi rurana antachakuna',
 	'group-Global_bot-member' => '{{GENDER:$1|}}sapsi rurana antacha',
@@ -12792,7 +12811,7 @@ $messages['ro'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editori de pagini protejate',
 	'group-eliminator' => 'Eliminatori',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator|eliminatoare}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminatori',
 	'group-filemover' => 'Utilizatori care redenumesc fișiere',
 	'group-filemover-member' => '{{GENDER:$1|utilizator care redenumește fișiere|utilizatoare care redenumește fișiere}}',
 	'grouppage-filemover' => '{{ns:project}}:Utilizatori care redenumesc pagini',
@@ -12823,11 +12842,14 @@ $messages['ro'] = array(
 	'group-transwiki' => 'Importatori între wiki',
 	'group-transwiki-member' => '{{GENDER:$1|importator transwiki|importatoare transwiki}}',
 	'grouppage-transwiki' => '{{ns:project}}:Importatori între wiki',
+	'group-templateeditor' => 'Editori de formate',
+	'group-templateeditor-member' => '{{GENDER:$1|editor de formate}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Editori de formate',
 	'group-trusted' => 'Utilizatori de încredere',
 	'group-trusted-member' => '{{GENDER:$1|utilizator de încredere|utilizatoare de încredere}}',
 	'grouppage-trusted' => '{{ns:project}}: Utilizatori de încredere',
 	'group-uploader' => 'Încărcători',
-	'group-uploader-member' => 'încărcător', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|încărcător}}',
 	'grouppage-uploader' => '{{ns:project}}:Încărcători',
 	'group-Global_bot' => 'Roboți globali',
 	'group-Global_bot-member' => '{{GENDER:$1|robot global}}',
@@ -12845,6 +12867,8 @@ $messages['ro'] = array(
 	'group-steward-member' => '{{GENDER:$1|steward}}',
 	'group-sysadmin' => 'Administratori de sistem',
 	'group-sysadmin-member' => '{{GENDER:$1|administrator de sistem}}',
+	'group-Indic_Bots' => 'Roboți indicatori',
+	'group-Indic_Bots-member' => '{{GENDER:$1|robot indicator}}',
 	'group-translationadmin' => 'Administratori de traducere',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator de traducere}}',
 	'grouppage-translationadmin' => '{{ns:project}}: Administratori de traducere',
@@ -12856,15 +12880,21 @@ $messages['ro'] = array(
 	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
 pot exista și clauze suplimentare.
 Vedeți detalii la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a>.',
-	'wikidata-shortcopyrightwarning' => 'Apăsând „Salvare”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'Apăsând „{{int:wikibase-save}}”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].',
 	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.',
+	'wikibase-sitelinks-wikivoyage' => 'Paginile Wikivoyage au trimis către acest element',
+	'wikibase-sitelinks-commons' => 'Paginile Wikimedia Commons au trimis către acest element',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
 	'upload-more-photos-of-this-monument' => 'Încărcați mai multe fotografii cu acest monument',
 	'extdist-branch-REL1_21' => '1.21 (ultimul MediaWiki stabil)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Politica numelui de utilizator',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Cereți un cont',
 	'createacct-imgcaptcha-help' => 'Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]',
+	'wikimedia-developers' => 'Dezvoltatori',
 );
 
 /** tarandíne (tarandíne)

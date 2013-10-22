@@ -30,6 +30,8 @@ $messages['qqq'] = array(
  */
 $messages['ast'] = array(
 	'wikimediamessages-desc' => 'Mensaxes temporales específicos de Wikimedia',
+	'bug-54847-password-reset-prompt' => "Por causa d'un [[meta:October 2013 private data security issue|problema de privacidá coles bases de datos de Wikimedia Labs]], la contraseña qu'usaba anteriormente pue ser vulnerable. Por favor, defina una contraseña nueva diferente p'asegurar la so cuenta. Pidimos disculpes polos inconvenientes.",
+	'password-recycled' => "La contraseña qu'escribió casa con una contraseña antigua asociada cola so cuenta. Por favor, defina una contraseña nueva diferente",
 );
 
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
