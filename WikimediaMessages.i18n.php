@@ -6572,7 +6572,7 @@ $messages['he'] = array(
 	'wikibase-sitelinks-wikivoyage' => 'דפי ויקימסע שמקושרים לפריט הזה',
 	'wikibase-sitelinks-commons' => 'דפי ויקישיתוף שמקושרים לפריט הזה',
 	'wikibase-sitelinks-sitename-commonswiki' => 'ויקישיתוף',
-	'cant-delete-main-page' => 'אי־אפשר למחוק או להעביר את הדף הראשי',
+	'cant-delete-main-page' => 'לא ניתן למחוק או להעביר את הדף הראשי',
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
 	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
 	'extdist-branch-master' => 'master (גרסת הפיתוח האחרונה)',
@@ -15710,6 +15710,7 @@ $messages['tpi'] = array(
  * @author Joseph
  * @author Karduelis
  * @author Metal Militia
+ * @author Rapsar
  * @author Sadrettin
  * @author Suelnur
  */
@@ -15826,6 +15827,8 @@ $messages['tr'] = array(
 	'shared-repo-name-shared' => 'Vikipedi Commons', # Fuzzy
 	'wikimedia-copyright' => 'Metin <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakınız.',
 	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [https://wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.', # Fuzzy
+	'wikibase-sitelinks-wikivoyage' => 'Bu ögeye bağlı Vikigezi sayfaları',
+	'wikibase-sitelinks-commons' => 'Bu ögeye bağlı Wikimedia Commons sayfaları',
 	'cant-delete-main-page' => 'Silemez veya ana sayfaya taşıyamazsın.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kullanıcı_adı_politikası',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]',
