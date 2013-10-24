@@ -7637,6 +7637,9 @@ $messages['ilo'] = array(
 	'group-transwiki' => 'Dagiti agal-ala ti transwiki',
 	'group-transwiki-member' => '{{GENDER:$1|agal-ala ti transwiki}}',
 	'grouppage-transwiki' => '{{ns:project}}:Dagiti agal-ala ti transwiki',
+	'group-templateeditor' => 'Dagiti editor ti plantilia',
+	'group-templateeditor-member' => '{{GENDER:$1|editor ti plantilia}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Dagiti editor ti plantilia',
 	'group-trusted' => 'Dagiti natalek nga agar-aramat',
 	'group-trusted-member' => '{{GENDER:$1|natalek nga agar-aramat}}',
 	'grouppage-trusted' => '{{ns:project}}:Dagiti natalek nga agar-aramat',
@@ -7692,6 +7695,8 @@ Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title=
 	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Pampanid ti Wikivoyage a naisilpo iti daytoy a banag',
+	'wikibase-sitelinks-commons' => 'Pampanid ti Wikimedia Commons a naisilpo iti daytoy a banag',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
 	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan iti daytoy a monumento',
@@ -7702,6 +7707,35 @@ Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lis
 	'createacct-captcha-help-url' => '{{ns:Project}}:Agkiddaw ti maysa a pakabilangan',
 	'createacct-imgcaptcha-help' => 'Saan a makita ti ladawan? [[{{MediaWiki:createacct-captcha-help-url}}|Agkiddaw ti maysa a pakabilangan]]',
 	'wikimedia-developers' => 'Dagiti agparparang-ay',
+	'wikimedia-globalblocking-ipblocked' => "'''Ti IP a pagtaengam ket [[m:Special:MyLanguage/Global blocks|naserraan kadagiti amin a wiki]].'''
+
+Ti serra ket inaramid idi babaen ni $1 ($2).
+Ti rason a naited ket ''$3''.
+
+* Rugi ti serra: $4
+* Panagpaso ti serra: $5
+
+Ti agdama nga IP a pagtaengam ket $6.
+Pangngaasi nga iraman amin dagiti salaysay kadagiti aniaman nga usisaem.
+
+No namatmatika a kamali ti pannakaserram, makabirukka kadagit adu pay a pakaammo ken pagsursuruan iti sangalubongan nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].
+No saan, tapno matungtungan ti serra pangngaasi a [[m:Steward requests/Global|agipablaak ti kiddaw para iti panagrepaso idiay Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Maysa wenno ad-adu kadagiti server ti pannakbagi nga inus-usar babaen ti kiddawmo ket [[m:Special:MyLanguage/Global blocks|sangalubongan a naserraan]].'''
+
+Ti serra ket inaramid babaen ni $1 ($2).
+Ti rason a naited ket ''$3''.
+
+* Rugi ti serra: $4
+* Panagpaso ti serra: $5
+
+Ti naserraan a pannakbagi a pagtaengan ket $6.
+Pangngaasi nga iraman amin dagiti salaysay kadagiti aniaman nga usisaem.
+
+No namatmatika a kamali ti pannakaserram, makabirukka kadagit adu pay a pakaammo ken pagsursuruan iti sangalubongan nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].
+No saan, tapno matungtungan ti serra pangngaasi a [[m:Steward requests/Global|agipablaak ti kiddaw para iti panagrepaso idiay Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Ti IP a pagtaengam, <strong>$1</strong>, ket automatikoa nailasin a kas nodo ti iruruar ti Tor.
+T panag-urnos babaen ti Tor ket naserraan tapno mapawilan ti panagabuso.
+Para iti adu pay a pakaammo ken pagsursuruan dagit lehitimado ng agar-aramat, kitaen ti sangalubongan nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].',
 );
 
 /** Ingush (ГӀалгӀай)
@@ -14846,6 +14880,9 @@ $messages['sv'] = array(
 	'group-transwiki' => 'Transwiki-importörer',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-importör}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importörer',
+	'group-templateeditor' => 'Mall-redigeraren',
+	'group-templateeditor-member' => '{{GENDER:$1|mall-redigerare}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Mall-redigerare',
 	'group-trusted' => 'Betrodda användare',
 	'group-trusted-member' => '{{GENDER:$1|betrodd användare}}',
 	'grouppage-trusted' => '{{ns:project}}:Betrodda användare',
@@ -14872,6 +14909,10 @@ $messages['sv'] = array(
 	'group-sysadmin-member' => '{{GENDER:$1|systemadministratör}}',
 	'group-New_wikis_importer' => 'Nya wikiimportörer',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|ny wikiimportör}}',
+	'group-global-ipblock-exempt' => 'Globala IP-blockeringsundantag',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|globalt IP-blockeringsundantag}}',
+	'group-recursive-export' => 'Rekursiv export',
+	'group-recursive-export-member' => '{{GENDER:$1|rekursiv exportör}}',
 	'group-translationadmin' => 'Översättningsadministratörer',
 	'group-translationadmin-member' => '{{GENDER:$1|översättningsadministratör}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Översättningsadministratörer',
@@ -14892,14 +14933,47 @@ Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia 
 	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sidor som är länkade till det här objektet',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
+	'wikimedia-translationnotifications-signup-legal' => 'Du accepterar genom att tillhandahålla denna information till Wikimedia Foundation att vi får kontakta dig om översättningar eller andra ämnen relaterade till Wikimediarörelsen vi tror kan intressera dig. Du accepterar att din data kan sparas i USA och accepterar våra [https://wikimediafoundation.org/wiki/Privacy_policy integritetspolicy].',
 	'upload-more-photos-of-this-monument' => 'Ladda upp fler bilder på detta monument',
+	'extdist-branch-master' => 'master (senaste utvecklingsversionen)',
 	'extdist-branch-REL1_21' => '1.21 (senaste stabila MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Användarnamnspolicy',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Begär ett konto',
 	'createacct-imgcaptcha-help' => 'Kan du inte se bilden? [[{{MediaWiki:createacct-captcha-help-url}}|Begär ett konto]]',
 	'wikimedia-developers' => 'Utvecklare',
+	'wikimedia-globalblocking-ipblocked' => "'''Din IP-adress har blockerats på alla [[m:Special:MyLanguage/Global blocks|wikier]].'''
+
+Blockeringen gjordes av $1 ($2).
+Den angivna anledningen är ''$3''.
+
+* Blockeringens start: $4
+* Blockeringen löper ut: $5
+
+Din nuvarande IP-adress är $6.
+Vänligen inkludera alla detaljer i eventuella förfrågningar du gör.
+
+Om du tror dig ha blivit blockerad av misstag kan du hitta ytterligare information och instruktioner i den globala policyn [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].
+Annars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en begäran om granskning på Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''En eller fler proxyservrar som används av din begäran är [[m:Special:MyLanguage/Global blocks|globalt blockerade]].'''
+
+Blockeringen gjordes av $1 ($2).
+Den angivna anledningen är ''$3''.
+
+* Blockeringens start: $4
+* Blockeringen löper ut: $5
+
+Den blockerade proxyadressen var $6.
+Vänligen inkludera alla detaljer i eventuella förfrågningar du gör.
+
+Om du tror dig ha blivit blockerad av misstag kan du hitta ytterligare information och instruktioner i den globala policyn [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].
+Annars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en begäran om granskning på Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Din IP-adress, <strong>$1</strong>, har automatiskt blivit identifieras som en utgångsnod för Tor.
+Redigering genom Tor är blockerat för att förhindra missbruk.
+För mer information och instruktioner för legitima användare, se den globala policyn: [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].',
 );
 
 /** Swahili (Kiswahili)
@@ -16782,6 +16856,9 @@ $messages['vi'] = array(
 	'group-transwiki' => 'Người nhập trang giữa wiki',
 	'group-transwiki-member' => '{{GENDER:$1}}người nhập trang giữa wiki',
 	'grouppage-transwiki' => '{{ns:project}}:Người nhập trang giữa wiki',
+	'group-templateeditor' => 'Người sửa đổi bản mẫu',
+	'group-templateeditor-member' => '{{GENDER:$1}}người sửa đôi bản mẫu',
+	'grouppage-templateeditor' => '{{ns:project}}:Người sửa đổi bản mẫu',
 	'group-trusted' => 'Thành viên tin cậy',
 	'group-trusted-member' => '{{GENDER:$1}}thành viên tin cậy',
 	'grouppage-trusted' => '{{ns:project}}:Thành viên tin cậy',
