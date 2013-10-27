@@ -196,6 +196,7 @@ $messages['ksh'] = array(
  */
 $messages['lb'] = array(
 	'wikimediamessages-desc' => 'Spezifesch temporär Message vu Wikimedia',
+	'bug-54847-password-reset-prompt' => "Duerch e [[meta:October 2013 private data security issue|Problem mat der Sécherheet vun de Wikimedia-Labs Datebanken]] ass Äert Passwuert méiglecherweis ugräifbar. Ännert w.e.g. Äert Passwuert fir Äre Benotzerkont ofzesécheren. Mir entschëllegen eis fir d'Ëmstänn déi dëst mécht.",
 	'password-recycled' => "D'Passwuert dat Dir aginn hutt ass en aalt Passwuert vun Ärem Benotzerkont. Gitt w.e.g. en neit Passwuert an dat verschidden dovun ass.",
 );
 
