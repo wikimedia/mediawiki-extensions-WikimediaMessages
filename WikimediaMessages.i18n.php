@@ -556,7 +556,8 @@ Used as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.',
 
 Used as a link in {{msg-mw|Createacct-imgcaptcha-help}}.',
 	'createacct-imgcaptcha-help' => 'Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.',
-	'wikimedia-developers' => 'Message in page footer that links to a "Developers" landing page.
+	'wikimedia-developers' => 'Label for a link to [[mw:How to contribute]] in the page footer. "Developer" means "software developer", not editor or contributor; feel free to replace the word with another which can be used in your language to call people with technical interest.
+
 {{Identical|Developer}}',
 	'wikimedia-developers-url' => 'The URL of a portal page for development efforts.',
 	'wikimedia-globalblocking-ipblocked' => 'A message shown to a [[mw:Extension:GlobalBlocking|globally blocked]] user trying to edit.
@@ -5657,6 +5658,35 @@ Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer 
 	'createacct-captcha-help-url' => '{{ns:Project}}:Am en brükerkonto uunfraage',
 	'createacct-imgcaptcha-help' => 'Könst det bil ei sä ? [[{{MediaWiki:createacct-captcha-help-url}}|Am en brükerkonto uunfraage]]',
 	'wikimedia-developers' => 'Ütjwerkern',
+	'wikimedia-globalblocking-ipblocked' => "'''Din IP-adress as [[m:Special:MyLanguage/Global blocks|üüb aal a wikis speret]] wurden.'''
+
+Det sper kaam faan \$1 (\$2).
+Di grünj för'z sperin as ''\$3''.
+
+* Sper begant: \$4
+* Sper aanjagt: \$5
+
+Din aktuel IP-addres as \$6.
+Aal jo dooten boowen san nuadag, wan dü en uunfraag stelst.
+
+Wan dü menst, diar stemet wat ei mä det sper, fanjst dü muar informatjuun an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".
+Dü könst det sper uk uun fraag stel üüb [[m:Steward requests/Global|det uunfraagen-sidj faan Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Ään of muar proxy-servers, diar dü brükst, san [[m:Special:MyLanguage/Global blocks|globaal speret]].'''
+
+Det spar komt faan \$1 (\$2).
+Di grünj för det sper as ''\$3''.
+
+* Sper begant: \$4
+* Sper aanjagt: \$5
+
+Det speret proxy-addres wiar \$6.
+Aal jo dooten boowen san nuadag, wan dü en uunfraag stelst.
+
+Wan dü menst, diar stemet wat ei mä det sper, fanjst dü muar informatjuun an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".
+Dü könst det sper uk uun fraag stel üüb [[m:Steward requests/Global|det uunfraagen-sidj faan Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => "Din IP-addres, <strong>\$1</strong>, as käänd wurden üs en ''Tor-exit-node''.
+Det bewerkin mä ''Tor'' as ei tuläät, am masbrük tu ferhanrin.
+Dü fanjst muar informatjuun an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".",
 );
 
 /** Friulian (furlan)
