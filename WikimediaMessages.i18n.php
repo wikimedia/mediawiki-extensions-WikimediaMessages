@@ -8066,6 +8066,7 @@ Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la pol
  * @author Marine-Blue
  * @author Meno25
  * @author Ohgi
+ * @author Penn Station
  * @author Shirayuki
  * @author Suisui
  * @author W.CC
@@ -8226,7 +8227,7 @@ $messages['ja'] = array(
 	'extdist-branch-master' => 'マスター (最新開発版)',
 	'extdist-branch-REL1_21' => '1.21 (MediaWiki の最新の安定版)',
 	'createacct-helpusername-url' => '{{ns:Project}}:利用者名の指針',
-	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(選び方を教えてください)]]',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請',
 	'createacct-imgcaptcha-help' => '画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]',
 	'wikimedia-developers' => '開発者',
@@ -13170,6 +13171,7 @@ Pe 'mbormaziune aggiundive e 'struziune pe le utinde leggittimate, 'ndruche le r
  * @author Kalan
  * @author Lockal
  * @author MaxSem
+ * @author Okras
  * @author Platonides
  * @author Putnik
  * @author TarzanASG
@@ -13257,6 +13259,9 @@ $messages['ru'] = array(
 	'group-transwiki' => 'Межвики-импортирующие',
 	'group-transwiki-member' => '{{GENDER:$1|межвики-импортирующий|межвики-импортирующая}}',
 	'grouppage-transwiki' => '{{ns:project}}:Межвики-импортирующие',
+	'group-templateeditor' => 'Редакторы шаблонов',
+	'group-templateeditor-member' => '{{GENDER:$1|редактор шаблонов}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Редакторы шаблонов',
 	'group-trusted' => 'Доверенные участники',
 	'group-trusted-member' => '{{GENDER:$1|доверенный участник|доверенная участница}}',
 	'grouppage-trusted' => '{{ns:project}}:Доверенные участники',
@@ -13316,6 +13321,7 @@ $messages['ru'] = array(
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
+	'extdist-branch-REL1_21' => '1.21 (последняя стабильная MediaWiki)',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогите выбрать)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запросить учётную запись',
 	'createacct-imgcaptcha-help' => 'Не видите изображение? [[{{MediaWiki:createacct-captcha-help-url}}|Запросите учётную запись]]',
@@ -17006,26 +17012,26 @@ $messages['vo'] = array(
 	'sitesupport' => 'Födagivots',
 	'tooltip-n-sitesupport' => 'Stütolös obsi',
 	'group-accountcreator' => 'Kalijafans',
-	'group-accountcreator-member' => 'kalijafan', # Fuzzy
+	'group-accountcreator-member' => '{{GENDER:$1|kalijafan}}',
 	'grouppage-accountcreator' => '{{ns:project}}:Kalijafans',
 	'group-founder' => 'Fünans',
-	'group-founder-member' => 'fünan', # Fuzzy
+	'group-founder-member' => '{{GENDER:$1|fünan}}',
 	'grouppage-founder' => '{{ns:project}}:Fünans',
 	'group-import' => 'Nüveigans',
-	'group-import-member' => 'nüveigan', # Fuzzy
+	'group-import-member' => '{{GENDER:$1|nüveigan}}',
 	'grouppage-import' => '{{ns:project}}:Nüveigans',
 	'group-rollbacker' => 'Sädunans',
-	'group-rollbacker-member' => 'sädunan', # Fuzzy
+	'group-rollbacker-member' => '{{GENDER:$1|sädunan}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Sädunans',
-	'group-transwiki-member' => 'nüveigan vüvükik', # Fuzzy
+	'group-transwiki-member' => '{{GENDER:$1|nüveigan vüvükik}}',
 	'group-uploader' => 'Löpükans',
-	'group-uploader-member' => 'löpükan', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|löpükan}}',
 	'grouppage-uploader' => '{{ns:project}}:Löpükans',
-	'group-Global_bot-member' => 'bot valöpik', # Fuzzy
+	'group-Global_bot-member' => '{{GENDER:$1|bot valöpik}}',
 	'group-sysadmin' => 'Sitiguvans',
-	'group-sysadmin-member' => 'sitiguvan', # Fuzzy
+	'group-sysadmin-member' => '{{GENDER:$1|sitiguvan}}',
 	'group-coder' => 'Kotans',
-	'group-coder-member' => 'kotan', # Fuzzy
+	'group-coder-member' => '{{GENDER:$1|kotan}}',
 );
 
 /** Võro (Võro)

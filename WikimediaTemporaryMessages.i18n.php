@@ -227,11 +227,13 @@ $messages['nl'] = array(
 );
 
 /** Polish (polski)
+ * @author Chrumps
  * @author Lazowik
  * @author Rezonansowy
  */
 $messages['pl'] = array(
 	'wikimediamessages-desc' => 'Specjalne tymczasowe wiadomości Wikimedii',
+	'password-recycled' => 'Wprowadzone przez Ciebie hasło, jest zgodne ze starym hasłem do Twojego konta. Proszę, wpisz inne hasło.',
 );
 
 /** Piedmontese (Piemontèis)

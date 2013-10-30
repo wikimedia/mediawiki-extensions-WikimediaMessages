@@ -1759,6 +1759,7 @@ $messages['crh-latn'] = array(
  * @author Juan de Vojníkov
  * @author Juandev
  * @author Krinkle
+ * @author Littledogboy
  * @author Matěj Grabovský
  * @author Mormegil
  * @author Multichill
@@ -1822,11 +1823,11 @@ $messages['cs'] = array(
 	'wm-license-information-description-missing' => "Tento soubor nemá žádný '''popis''' a možná chybí i další informace.",
 	'wm-license-information-description-missing-request' => 'Soubor by měl mít shrnutí, které informuje další uživatele o obsahu, autorovi, zdroji a datu pořízení, pokud je známo. Pokud víte nebo můžete zjistit takové informace, přidejte je na popisnou stránku souboru.',
 	'wm-license-information-source' => 'Zdroj',
-	'wm-license-information-source-missing' => "Tomuto souboru chybí informace o '''zdroji'''.",
+	'wm-license-information-source-missing' => "Tento soubor postrádá informace o '''zdroji'''.",
 	'wm-license-information-source-missing-request' => 'Prosím upravte popis souboru a vložte zdroj.',
 	'wm-license-information-date' => 'Datum',
 	'wm-license-information-author' => 'Autor',
-	'wm-license-information-author-missing' => "Tomuto souboru chybějí informace o '''autorovi'''.",
+	'wm-license-information-author-missing' => "Tento soubor postrádá informace o '''autorovi'''.",
 	'wm-license-information-permission' => 'Svolení',
 	'wm-license-information-permission-reusing-link' => 'Commons:Používání obsahu mimo projekty Wikimedia',
 	'wm-license-information-permission-reusing-text' => 'Užití tohoto souboru',
