@@ -5983,6 +5983,9 @@ $messages['gl'] = array(
 	'group-transwiki' => 'Importadores transwiki',
 	'group-transwiki-member' => '{{GENDER:$1|importador|importadora}} transwiki',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwiki',
+	'group-templateeditor' => 'Editores de modelos',
+	'group-templateeditor-member' => '{{GENDER:$1|editor|editora}} de modelos',
+	'grouppage-templateeditor' => '{{ns:project}}:Editores de modelos',
 	'group-trusted' => 'Usuarios de confianza',
 	'group-trusted-member' => '{{GENDER:$1|usuario|usuaria}} de confianza',
 	'grouppage-trusted' => '{{ns:project}}:Usuarios de confianza',
@@ -14676,7 +14679,7 @@ $messages['sr-el'] = array(
 mogući su i dodatni uslovi.
 Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
 	'wikidata-copyright' => 'Svi strukturisani podaci iz glavnog i svojstva imenskog prostora su dostupni pod licencom <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; tekst iz drugih imenskih prostora je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Autorstvo-Deliti pod istim uslovima 3.0</a>; mogući su i dodatni uslovi. Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Uslove korišćenja</a> za više informacija.',
-	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне лиценце_Ауторство-Делити_под_истим условима_3.0_Unported_(CC BY-SA 3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[https://sr.wikipedia.org/wiki/Vikipedija:Tekst_GNU-ove_licence_za_slobodnu_dokumentaciju GFDL]</span>.
+	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
 	'extdist-branch-REL1_21' => '1.21 (najnovija stabilna verzija Medijavikija)',
