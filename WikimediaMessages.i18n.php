@@ -297,6 +297,9 @@ Otherwise, to discuss the block please [[m:Steward requests/Global|post a reques
 	'wikimedia-torblock-blocked' => 'Your IP address, <strong>$1</strong>, has been automatically identified as a Tor exit node.
 Editing through Tor is blocked to prevent abuse.
 For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.',
+
+	# Terms of use link on the mobile site
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use',
 );
 
 /** Message documentation (Message documentation)
@@ -587,6 +590,7 @@ Parameters:
 	'wikimedia-torblock-blocked' => 'Used as error message; it is a modified version of {{msg-mw|torblock-blocked}}.
 Parameters:
 * $1 - IP address',
+	'wikimedia-mobile-terms-url' => 'Terms of use link on the mobile site. Localise only if there is an up to date variant of this text in your language.',
 );
 
 /** Abkhazian (Аҧсшәа)
@@ -1137,6 +1141,7 @@ $messages['ar'] = array(
 	'cant-delete-main-page' => 'لا يمكنك حذف أو نقل الصفحة الرئيسية.',
 	'upload-more-photos-of-this-monument' => 'قم برفع المزيد من الصور لهذا الأثر',
 	'createacct-captcha-help-url' => '{{ns:Project}}: طلب حساب',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ar',
 );
 
 /** Aramaic (ܐܪܡܝܐ)
@@ -2265,6 +2270,7 @@ $messages['bg'] = array(
 За подробности вижте [https://wikimediafoundation.org/wiki/Terms_of_Use/bg Условията за ползване].', # Fuzzy
 	'cant-delete-main-page' => 'Не можете да изтривате или премествате Началната страница.',
 	'upload-more-photos-of-this-monument' => 'Качване на още снимки на този паметник',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/bg',
 );
 
 /** Bhojpuri (भोजपुरी)
@@ -2866,6 +2872,7 @@ Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència C
 	'createacct-captcha-help-url' => '{{ns:Project}}:Sol·licitar un compte',
 	'createacct-imgcaptcha-help' => 'No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]',
 	'wikimedia-developers' => 'Desenvolupadors',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ca',
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
@@ -3204,6 +3211,7 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'createacct-captcha-help-url' => '{{ns:Project}}:Žádost o účet',
 	'createacct-imgcaptcha-help' => 'Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]].',
 	'wikimedia-developers' => 'Vývojáři',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/cs',
 );
 
 /** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
@@ -3774,6 +3782,7 @@ Anderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-
 	'wikimedia-torblock-blocked' => 'Deine IP-Adresse <strong>$1</strong> wurde automatisch als Tor-Ausgangsknoten identifiziert.
 Das Bearbeiten über Tor ist gesperrt, um Missbrauch zu vermeiden.
 Für zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe die globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“.',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/de',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -4549,6 +4558,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nombres_de_usuario',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar una cuenta',
 	'createacct-imgcaptcha-help' => '¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/es',
 );
 
 /** Estonian (eesti)
@@ -5179,6 +5189,7 @@ $messages['fi'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta',
 	'createacct-imgcaptcha-help' => 'Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]',
 	'wikimedia-developers' => 'Kehittäjät',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/fi',
 );
 
 /** Fijian (Na Vosa Vakaviti)
@@ -5412,6 +5423,7 @@ Sinon, pour discuter du blocage, veuillez [[m:Steward requests/Global|envoyer un
 	'wikimedia-torblock-blocked' => 'Votre adresse IP, <strong>$1</strong>, a été identifiée de façon automatique comme un nœud de sortie de Tor.
 La modification depuis Tor est bloquée pour éviter les abus.
 Pour plus d’information et d’instructions pour légitimer les utilisateurs, voyez la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/fr',
 );
 
 /** Cajun French (français cadien)
@@ -6123,6 +6135,7 @@ Senón, para conversar acerca do bloqueo [[m:Steward requests/Global|deixe unha 
 	'wikimedia-torblock-blocked' => 'O seu enderezo IP, <strong>$1</strong>, foi identificado automaticamente como un nodo de saída Tor.
 A edición a través de Tor está bloqueada para previr o abuso.
 Para atopar información adicional e instrucións para os usuarios lexítimos, consulte a política global [[m:Special:MyLanguage/No open proxies|contra os proxies abertos]].',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/gl',
 );
 
 /** Gilaki (گیلکی)
@@ -8098,6 +8111,7 @@ Altrimenti, per discutere del blocco [[m:Steward requests/Global|inserire una ri
 	'wikimedia-torblock-blocked' => 'Il tuo indirizzo IP, <strong>$1</strong>, è stato automaticamente identificato come un exit node tor.
 La possibilità di editare utilizzando tor è bloccata per impedire abusi.
 Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/it',
 );
 
 /** Japanese (日本語)
@@ -8304,6 +8318,7 @@ Otherwise, to discuss the block please [[m:Steward requests/Global|post a reques
 	'wikimedia-torblock-blocked' => 'あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。
 不正利用を防止するため、Tor を通じての編集を禁止しています。
 For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.', # Fuzzy
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ja',
 );
 
 /** Lojban (Lojban)
@@ -8988,6 +9003,7 @@ $messages['ko'] = array(
 	'wikimedia-torblock-blocked' => '당신의 IP 주소인 <strong>$1</strong>은 자동적으로 토르 끝 노드로 판명되었습니다.
 토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
 자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ko',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -10266,6 +10282,7 @@ $messages['mk'] = array(
 	'wikimedia-torblock-blocked' => 'Вашата IP-адреса, <strong>$1</strong>, е автоматски препознаена како излезен Tor-јазол.
 Уредувањето преку Tor е оневозможено за да се спречи злоупотреба.
 Повеќе информации и напатствија за добронамерните корисници ќе најдете на страницата на глобалното правило „[[m:Special:MyLanguage/No open proxies|Без отворени застапници]]“.',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/mk',
 );
 
 /** Malayalam (മലയാളം)
@@ -10430,6 +10447,7 @@ $messages['ml'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:അംഗത്വമാവശ്യപ്പെടുക',
 	'createacct-imgcaptcha-help' => 'ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]',
 	'wikimedia-developers' => 'ഡെവലപ്പർമാർ',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ml',
 );
 
 /** Mongolian (монгол)
@@ -11440,6 +11458,7 @@ Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
 
 Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].
 U kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/nl',
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
@@ -12084,6 +12103,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'createacct-helpusername-url' => '{{ns:Project}}:Nazwa_użytkownika',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]',
 	'wikimedia-developers' => 'Dla deweloperów',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/pl',
 );
 
 /** Piedmontese (Piemontèis)
@@ -12709,6 +12729,7 @@ Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar uma conta',
 	'createacct-imgcaptcha-help' => 'Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]',
 	'wikimedia-developers' => 'Desenvolvedores',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/pt-br',
 );
 
 /** Quechua (Runa Simi)
@@ -13401,6 +13422,7 @@ $messages['ru'] = array(
 	'wikimedia-torblock-blocked' => 'Ваш IP-адрес <strong>$1</strong> был автоматически определён как выходной узел Tor.
 Редактирование через Tor заблокировано для предотвращения злоупотреблений.
 Дополнительную информацию и инструкции для честных пользователей смотрите на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ru',
 );
 
 /** Rusyn (русиньскый)
@@ -15633,6 +15655,7 @@ $messages['th'] = array(
 	'wikimedia-copyrightwarning' => 'เมื่อคุณบันทึก คุณยินยอมที่จะให้การเขียนของคุณอยู่ภายใต้[https://creativecommons.org/licenses/by-sa/3.0/ สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0] และ [https://www.gnu.org/copyleft/fdl.html GFDL] อย่างแก้คืนไม่ได้
 คุณยินยอมที่จะได้รับเครดิตจากผู้ที่นำข้อมูลของคุณไปใช้ อย่างน้อยที่สุด ผ่านทางไฮเปอร์ลิงก์หรือยูอาร์แอลเชื่อมโยงมายังหน้าที่คุณได้มีส่วนเขียนนี้
 โปรดศึกษา[https://wikimediafoundation.org/wiki/Terms_of_Use เงื่อนไขการใช้งาน]',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/th',
 );
 
 /** Turkmen (Türkmençe)
@@ -17078,6 +17101,7 @@ Nếu bạn biết rằng đây là vụ nhầm lẫn, bạn có thể xem thêm
 Để thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu xem lại tại Meta-Wiki]].",
 	'wikimedia-torblock-blocked' => 'Địa chỉ IP của bạn, <strong>$1</strong>, đã bị xác định là một nút thoát tor.
 Sửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm thông tin và hướng dẫn dành cho những người dùng chính đáng trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].',
+	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/vi',
 );
 
 /** Volapük (Volapük)

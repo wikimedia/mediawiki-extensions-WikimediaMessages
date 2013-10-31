@@ -26,6 +26,7 @@ $wgExtensionFunctions[] = 'wfSetupWikimediaMessages';
 $wgExtensionFunctions[] = 'wfWikimediaGlobalBlockMessages';
 // Bug 33464: Add a "Developers" link to the page footer
 $wgHooks['SkinTemplateOutputPageBeforeExec'][] = 'efWikimediaDevelopersFooterLink';
+$wgHooks['MinervaPreRender'][] = 'wfWikimediaMinervaPreRender';
 
 include_once ( $dir .'WikimediaGrammarForms.php' );
 
@@ -106,5 +107,21 @@ function efWikimediaGlobalBlockingBlockedIpMsg( &$msg ) {
 
 function efWikimediaGlobalBlockingBlockedIpXffMsg( &$msg ) {
 	$msg = 'wikimedia-globalblocking-ipblocked-xff';
+	return true;
+}
+
+/**
+ * Add a WMF-specific footer link to terms of use on mobile site
+ * Overrides template data right before it gets sent to template for rendering
+ * @param MinervaTemplate $tpl
+ *
+ * @return bool
+ */
+function wfWikimediaMinervaPreRender( $tpl ) {
+	$skin = $tpl->getSkin();
+	// This will work only on mobile site because only SkinMobile has this method
+	if ( method_exists( $skin, 'getTermsLink' ) ) {
+		$tpl->set( 'terms-use', $skin->getTermsLink( 'wikimedia-mobile-terms-url' ) );
+	}
 	return true;
 }
