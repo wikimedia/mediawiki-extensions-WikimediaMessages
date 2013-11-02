@@ -1755,7 +1755,7 @@ $messages['crh-latn'] = array(
 	'wm-license-information-source' => 'Menba',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Juan de Vojníkov
  * @author Juandev
  * @author Krinkle
@@ -5632,7 +5632,7 @@ $messages['lb'] = array(
 	'wm-license-creator-work-period' => 'Wierkungsperiod',
 	'wm-license-creator-work-location' => "Plaz wou d'Wierk gemaach gouf",
 	'wm-license-creator-linkback' => "Link zréck op d'Infobox-Schabloun vum Createur",
-	'wm-license-fal-text' => "Copyleft: Dëst Wierk ass fräi; Dir kënnt et weiderverdeelen an/oder et modifizéieren ënner de Bedingunge vun der ''[[{{int:wm-license-fal-wiki-link}}|Fräier Konscht Lizenz]]'''. Dir fannt en Exemplaire vun dëser Lizenz op dem [{{int:wm-license-fal-full-link}} Copyleft Attitude Site] genee esou wéi op anere Siten.",
+	'wm-license-fal-text' => "Copyleft: Dëst Wierk ass fräi; Dir kënnt et weiderverdeelen an/oder et modifizéieren ënner de Bedingunge vun der ''[[{{int:wm-license-fal-wiki-link}}|Fräier Konscht Lizenz]]'''. Dir fannt en Exemplaire vun dëser Lizenz op dem [{{int:wm-license-fal-full-link}} Copyleft Attitude Site] genee sou wéi op anere Siten.",
 	'wm-license-fsf-wiki-link' => 'w:lb:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:lb:Fräi Software',
 	'wm-license-gfdl-1.2-and-later' => "Et ass erlaabt, dëse Fichier ënner de Bedingunge vun der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fir fräi Dokumentatioun]]''', an der Versioun 1.2 oder enger spéiderer Versioun, verëffentlecht vun der [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], ze kopéieren, ze verbreeden an/oder zu modifizéieren, ouni onverännerlech Abschnitter, Ëmschlagtext virdrun, Ëmschlagtext hannendrun. De kompletten Text vun der Lizenz ass am Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz fir fräi Dokumentatioun]]'' ze gesinn.",
@@ -9198,16 +9198,17 @@ $messages['sw'] = array(
 );
 
 /** Silesian (ślůnski)
+ * @author Krol111
  */
 $messages['szl'] = array(
 	'wm-license-gpl-wiki-link' => 'w:szl:GNU General Public License',
 	'wm-license-information-description' => 'Uopis',
-	'wm-license-information-source' => 'Zdřůduo',
+	'wm-license-information-source' => 'Zdrzůdło',
 	'wm-license-information-date' => 'Data',
 	'wm-license-information-author' => 'Aůtor',
 	'wm-license-information-permission' => 'Pozwolyńe',
-	'wm-license-information-permission-see-below' => 'Zoboč nižyj.',
-	'wm-license-information-other-versions' => 'Other versions',
+	'wm-license-information-permission-see-below' => 'Uobejrzij niżyj.',
+	'wm-license-information-other-versions' => 'Inksze wersyje',
 );
 
 /** Tamil (தமிழ்)

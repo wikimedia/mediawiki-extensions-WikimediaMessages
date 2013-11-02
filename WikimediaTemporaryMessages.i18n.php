@@ -48,11 +48,13 @@ $messages['ca'] = array(
 	'wikimediamessages-desc' => 'Missatges temporals específics de Wikimedia',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Mormegil
  */
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Dočasná hlášení specifická pro projekty Wikimedia',
+	'bug-54847-password-reset-prompt' => 'Je možné, že kvůli [[meta:October 2013 private data security issue|bezpečnostnímu problému týkajícímu se databází Wikimedia Labs]] je ohrožena bezpečnost vašeho dříve používaného hesla. Prosíme, abyste si pro zabezpečení uživatelského účtu {{GENDER:|nastavil|nastavila|nastavili}} nové, odlišné heslo. Omlouváme se za tuto nepříjemnost.',
+	'password-recycled' => 'Zadané heslo odpovídá staršímu heslu k vašemu účtu. Nastavte si prosím nové, odlišné heslo.',
 );
 
 /** Danish (dansk)

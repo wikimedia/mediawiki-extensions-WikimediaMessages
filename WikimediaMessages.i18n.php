@@ -4223,15 +4223,21 @@ $messages['el'] = array(
 	'group-inactive-member' => '{{GENDER:$1|ανενεργός χρήστης}}',
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "Αποθήκευση", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].', # Fuzzy
-	'wikimedia-copyrightwarning' => "Αποθηκεύοντας, συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε να σας αποδίδεται η πατρότητα από τρίτους χρήστες, κατ' ελάχιστο μέσω ενός υπερσυνδέσμου ή URL προς την σελίδα στην οποία συνεισφέρετε. Δείτε τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης] για λεπτομέρειες.", # Fuzzy
+	'wikidata-copyright' => 'Όλα τα δομημένα δεδομένα από τους χώρους ονομάτων κύριο και ιδιότητες είναι διαθέσιμο υπό την <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Ορισμός της Creative Commons CC0 License">Άδεια Creative Commons CC0</a>. Κείμενα σε άλλους χώρους ονομάτων είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>. Μπορεί να εφαρμόζονται και άλλοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Όροι Χρήσης του Wikimedia Foundation">Όρους Χρήσης</a> για λεπτομέρειες.',
+	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "{{int:wikibase-save}}", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].',
+	'wikimedia-copyrightwarning' => 'Κάνοντας κλικ στο κουμπί"{{int:savearticle}}", συμφωνείτε με  τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε ότι ένας υπερσύνδεσμος ή URL είναι αρκετή απόδοση αναφοράς υπό της άδεια Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από Βικιταξίδια συνδεδεμένοι με το αντικείμενο',
 	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
+	'extdist-branch-REL1_21' => '1.21 (τελευταία σταθερή έκδοση του MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(βοηθήστε με να επιλέξω)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Αίτημα για λογαριασμό',
+	'createacct-imgcaptcha-help' => 'Δεν μπορείτε να δείτε την εικόνα; [[{{MediaWiki:createacct-captcha-help-url}}|Ζητείστε ένα λογαριασμό]]',
+	'wikimedia-developers' => 'Προγραμματιστές',
 );
 
 /** Emiliano-Romagnolo (emiliàn e rumagnòl)
@@ -4915,6 +4921,9 @@ $messages['fa'] = array(
 	'group-transwiki' => 'واردکنندگان تراویکی',
 	'group-transwiki-member' => 'درون‌ریز تراویکی',
 	'grouppage-transwiki' => '{{ns:project}}:واردکنندگان تراویکی',
+	'group-templateeditor' => 'ویرایشگرهای الگو',
+	'group-templateeditor-member' => '{{GENDER:$1|ویرایشگرهای الگو}}',
+	'grouppage-templateeditor' => '{{ns:project}}:ویرایشگران الگو',
 	'group-trusted' => 'کاربران مورد اعتماد',
 	'group-trusted-member' => 'کاربر مورد اعتماد',
 	'grouppage-trusted' => '{{ns:project}}:کاربران تأییدشده',
@@ -4968,10 +4977,12 @@ $messages['fa'] = array(
 متن در فضاهای نام دیگر تحت <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است
 شرایط اضافی ممکن است اعمال شود.
 برای جزئیات بیشتر <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
-	'wikidata-shortcopyrightwarning' => 'با کلیک کردن برروی "ذخیره"، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می کنید، و همچنین شما موافقت می کنید با حق انتشار مطالب شما تحت اجازه نامه [https://creativecommons.org/publicdomain/zero/1.0/ CC0].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'با کلیک‌کردن برروی «ذخیره»، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید، و همچنین شما به‌صورت غیرقابل فسخی با انتشار مشارکت‌هایتان تحت اجازه‌نامهٔ [https://creativecommons.org/publicdomain/zero/1.0/ CC0] موافقت می‌کنید.',
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
+	'wikibase-sitelinks-commons' => 'صفحه‌های ویکی‌انبار متصل‌شده به این آیتم.',
+	'wikibase-sitelinks-sitename-commonswiki' => 'ویکی‌انبار',
 	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
 	'wikimedia-translationnotifications-signup-legal' => 'شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید. شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما هستند.',
 	'upload-more-photos-of-this-monument' => 'بارگذاری عکس‌های بیشتری از این بنای تاریخی',
@@ -4982,6 +4993,35 @@ $messages['fa'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}: درخواست یک حساب',
 	'createacct-imgcaptcha-help' => 'تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست یک حساب]]',
 	'wikimedia-developers' => 'توسعه‌دهندگان',
+	'wikimedia-globalblocking-ipblocked' => "'''آی‌پی شما [[m:Special:MyLanguage/Global blocks|از همهٔ ویکی‌ها]] قطع دسترسی شده‌است.'''
+
+قطع دسترسی توسط $1 ایجادشده‌است ($2).
+دلیل داده شده «$3» است.
+
+* شروع قطع دسترسی: $4
+* انقضای قطع دسترسی: $5
+
+آی‌پی فعلی شما $6 است.
+لطفاً همهٔ جزئیات بالا را در درخواستی که می‌کنید شامل کنید.
+
+اگر باور دارید که شما به اشتباه قطع‌دسترسی شده‌اید، شما می‌توانید اطلاعات اضافی و راهنمایی‌ها را در سیاست سراسری [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] بیابید.
+در غیر این صورت، برای بحث لطفاً [[m:Steward requests/Global|درخواست بازبینی در فراویکی ارسال کنید]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''یک یا چند پراکسی سرور استفاده‌شده در درخواست شما  [[m:Special:MyLanguage/Global blocks|به صورت سراسری]] بسته شده‌است.'''
+
+قطع دسترسی توسط $1 ایجادشده‌است ($2).
+دلیل داده شده «$3» است.
+
+* شروع قطع دسترسی: $4
+* انقضای قطع دسترسی: $5
+
+نشانی پراکسی بسته‌شده $6 بوده‌است.
+لطفاً همهٔ جزئیات بالا را در درخواست‌هایی که می‌کنید شامل کنید.
+
+اگر باور دارید که شما به اشتباه قطع‌دسترسی شده‌اید، شما می‌توانید اطلاعات اضافی و راهنمایی‌ها را در سیاست سراسری [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] بیابید.
+در غیر این صورت، برای بحث لطفاً [[m:Steward requests/Global|درخواست بازبینی در فراویکی ارسال کنید]].",
+	'wikimedia-torblock-blocked' => 'نشانی آی‌پی شما، <strong>$1</strong>، به صورت خودکار به‌عنوان یک گرهٔ خروجی تور شناسایی شد.
+ویرایش از طریق تور به دلیل جلوگیری از سوءاستفاده بسته‌شده‌است.
+برای اطلاعات اضافی و راهنمایی کاربران قانونی، سیاست سراسری [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] را ببینید.',
 );
 
 /** Fulah (Fulfulde)
@@ -13321,6 +13361,7 @@ $messages['ru'] = array(
 	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Страницы Викигида, связанные с этим элементом',
 	'wikibase-sitelinks-commons' => 'Страницы Викисклада, связанные с этим элементом',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Викисклад',
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
@@ -15087,12 +15128,13 @@ $messages['sxu'] = array(
 
 /** Silesian (ślůnski)
  * @author Herr Kriss
+ * @author Krol111
  * @author Lajsikonik
  */
 $messages['szl'] = array(
 	'wikimediamessages-desc' => 'Kůmůńikaty ůńikalne lů projektůw Wikimedia',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=szl',
-	'sitesupport' => 'Śćepa',
+	'sitesupport' => 'Dowka',
 	'tooltip-n-sitesupport' => 'Wspůmůž nas',
 	'group-accountcreator' => 'Tworzůncy kůnta',
 	'group-accountcreator-member' => 'twůrca kůnt', # Fuzzy
