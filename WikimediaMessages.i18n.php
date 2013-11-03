@@ -13370,6 +13370,9 @@ $messages['ru'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запросить учётную запись',
 	'createacct-imgcaptcha-help' => 'Не видите изображение? [[{{MediaWiki:createacct-captcha-help-url}}|Запросите учётную запись]]',
 	'wikimedia-developers' => 'Разработчики',
+	'wikimedia-torblock-blocked' => 'Ваш IP-адрес <strong>$1</strong> был автоматически определён как выходной узел Tor.
+Редактирование через Tor заблокировано для предотвращения злоупотреблений.
+Дополнительную информацию и инструкции для честных пользователей смотрите на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.',
 );
 
 /** Rusyn (русиньскый)
