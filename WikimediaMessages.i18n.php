@@ -3804,6 +3804,7 @@ Sie stimmen zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Z
 /** Zazaki (Zazaki)
  * @author Aspar
  * @author Erdemaslancan
+ * @author Gorizon
  * @author Mirzali
  * @author Nemo bis
  * @author Xoser
@@ -3811,7 +3812,7 @@ Sie stimmen zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Z
 $messages['diq'] = array(
 	'wikimediamessages-desc' => 'mesajê xususi yê wikimedyayi',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=diq',
-	'sitesupport' => 'Beğş',
+	'sitesupport' => 'Bèc',
 	'tooltip-n-sitesupport' => 'paşt bıde ma',
 	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
 	'nstab-creator' => 'Vıraştoğ',
@@ -6583,7 +6584,7 @@ $messages['he'] = array(
 	'grouppage-ipblock-exempt' => '{{ns:project}}:חסין חסימות IP',
 	'group-patroller' => 'מנטרים',
 	'group-patroller-member' => '{{GENDER:$1|מנטר|מנטרת}}',
-	'grouppage-patroller' => '{{ns:project}}:מנטרים',
+	'grouppage-patroller' => '{{ns:project}}:מנטר',
 	'group-researcher' => 'עורכי מחקרים',
 	'group-researcher-member' => '{{GENDER:$1|חוקר|חוקרת}}',
 	'grouppage-researcher' => '{{ns:project}}:עורך מחקר',
@@ -13365,11 +13366,38 @@ $messages['ru'] = array(
 	'cant-delete-main-page' => 'Вы не можете удалить или переименовать главную страницу.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
+	'extdist-branch-master' => 'мастер (последней версия)',
 	'extdist-branch-REL1_21' => '1.21 (последняя стабильная MediaWiki)',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогите выбрать)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запросить учётную запись',
 	'createacct-imgcaptcha-help' => 'Не видите изображение? [[{{MediaWiki:createacct-captcha-help-url}}|Запросите учётную запись]]',
 	'wikimedia-developers' => 'Разработчики',
+	'wikimedia-globalblocking-ipblocked' => "'''Ваш IP-адрес был [[m:Special:MyLanguage/Global blocks|заблокирован на всех вики-проектах]].'''
+
+Блокировка была сделана $1 ($2).
+Указанная причина: ''$3''.
+
+* начало блокировки: $4 
+* окончание блокировки: $5 
+
+Ваш текущий IP-адрес - $6.
+Пожалуйста, включайте все эти подробности в свои обращения.
+
+Если вы считаете, что были заблокированы по ошибке, вы можете найти дополнительную информацию и инструкции на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.
+В противном случае, чтобы обсудить блокировку, пожалуйста, [[m:Steward requests/Global|обратитесь с запросом о пересмотре на Мета-вики]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Один или несколько прокси-серверов, использованных в вашем запросе, [[m:Special:MyLanguage/Global blocks|глобально заблокированы]].'''
+
+Блокировка была сделана $1 ($2).
+Указанная причина: ''$3''.
+
+* начало блокировки: $4 
+* окончание блокировки: $5 
+
+Заблокированным прокси-адресом был $6.
+Пожалуйста, включайте все эти подробности в свои обращения.
+
+Если вы считаете, что были заблокированы по ошибке, вы можете найти дополнительную информацию и инструкции на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.
+В противном случае, чтобы обсудить блокировку, пожалуйста, [[m:Steward requests/Global|обратитесь с запросом о пересмотре на Мета-вики]].",
 	'wikimedia-torblock-blocked' => 'Ваш IP-адрес <strong>$1</strong> был автоматически определён как выходной узел Tor.
 Редактирование через Tor заблокировано для предотвращения злоупотреблений.
 Дополнительную информацию и инструкции для честных пользователей смотрите на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.',
