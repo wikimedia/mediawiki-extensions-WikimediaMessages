@@ -3063,7 +3063,7 @@ $messages['crh-latn'] = array(
 	'wikimedia-copyrightwarning' => "'''“{{int:savearticle}}”''' dögmesine basıp siz [https://wikimediafoundation.org/wiki/Terms_of_Use Qullanuv Şartları]nen razı olıp [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde derc etilgenini qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Chmee2
  * @author Danny B.
  * @author Li-sung
@@ -13356,6 +13356,8 @@ $messages['ru'] = array(
 	'group-sysadmin' => 'Системные администраторы',
 	'group-sysadmin-member' => '{{GENDER:$1|системный администратор}}',
 	'grouppage-sysadmin' => 'm:System administrators',
+	'group-API_High_Limit_Requestor' => 'Запросившие уменьшение ограничений при работе с API',
+	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Запросивший уменьшение ограничений при работе с API}}',
 	'group-New_wikis_importer' => 'Импортеры новых вики',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|импортер новых вики}}',
 	'group-global-ipblock-exempt' => 'Глобальные исключения из IP-блокировок',
@@ -13389,6 +13391,7 @@ $messages['ru'] = array(
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
 	'extdist-branch-master' => 'мастер (последней версия)',
 	'extdist-branch-REL1_21' => '1.21 (последняя стабильная MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Имена_участников',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогите выбрать)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запросить учётную запись',
 	'createacct-imgcaptcha-help' => 'Не видите изображение? [[{{MediaWiki:createacct-captcha-help-url}}|Запросите учётную запись]]',
