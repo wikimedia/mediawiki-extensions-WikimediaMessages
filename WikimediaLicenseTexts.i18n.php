@@ -8910,7 +8910,7 @@ $messages['sr-ec'] = array(
 	'wm-license-self-one-license-with-author' => '$1, носилац ауторског права над овим делом, објављује исто под следећом лиценцом:',
 	'wm-license-self-multiple-licenses' => 'Ја, носилац ауторских права над овим делом, објављујем исто под следећим лиценцама:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, носилац ауторског права над овим делом, објављује исто под следећом лиценцом:',
-	'wm-license-self-multiple-licenses-select' => 'Можете да одаберете лиценцу по свом избору.',
+	'wm-license-self-multiple-licenses-select' => 'Можете изабрати лиценцу по жељи.',
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
@@ -9000,7 +9000,7 @@ $messages['sr-el'] = array(
 	'wm-license-self-one-license-with-author' => '$1, nosilac autorskog prava nad ovim delom, objavljuje isto pod sledećom licencom:',
 	'wm-license-self-multiple-licenses' => 'Ja, nosilac autorskih prava nad ovim delom, objavljujem isto pod sledećim licencama:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, nosilac autorskog prava nad ovim delom, objavljuje isto pod sledećom licencom:',
-	'wm-license-self-multiple-licenses-select' => 'Možete da odaberete licencu po svom izboru.',
+	'wm-license-self-multiple-licenses-select' => 'Možete izabrati licencu po želji.',
 );
 
 /** Sranan Tongo (Sranantongo)
