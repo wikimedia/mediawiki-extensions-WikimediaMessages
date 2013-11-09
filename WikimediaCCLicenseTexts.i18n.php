@@ -14837,9 +14837,9 @@ $messages['sl'] = array(
 	'wm-license-cc-free-to-remix-text' => 'predelati delo',
 	'wm-license-cc-conditions' => 'Pod naslednjimi pogoji:',
 	'wm-license-cc-conditions-attribution-header' => 'priznanje avtorstva',
-	'wm-license-cc-conditions-attribution-text' => 'Pri uporabi dela morate navesti izvirnega avtorja na način, ki ga določi izvirni avtor oziroma dajalec dovoljenja (vendar nikakor ne na način, ki nakazuje, da avtor podpira uporabo dela ali vas).',
+	'wm-license-cc-conditions-attribution-text' => 'pri uporabi dela morate navesti izvirnega avtorja na način, ki ga določi izvirni avtor oziroma dajalec dovoljenja (vendar nikakor ne na način, ki bi nakazoval, da avtor podpira uporabo dela ali vas).',
 	'wm-license-cc-conditions-share_alike-header' => 'deljenje pod enakimi pogoji',
-	'wm-license-cc-conditions-share_alike-text' => 'Če spremenite, pretvorite ali gradite na tem delu, lahko takšno predelavo dela distribuirate samo pod isto, podobno ali kompatibilno licenco.',
+	'wm-license-cc-conditions-share_alike-text' => 'če spremenite, pretvorite ali gradite na tem delu, lahko takšno predelavo dela distribuirate samo pod isto, podobno ali kompatibilno licenco.',
 	'wm-license-cc-pd-mark-text' => 'Datoteka je bila spoznana kot prosta omejitev po avtorskem pravu, vključno z vsemi povezanimi in sorodnimi pravicami.',
 );
 

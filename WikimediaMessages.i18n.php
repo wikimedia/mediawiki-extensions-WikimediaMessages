@@ -463,7 +463,8 @@ The 'researcher' group was created in April 2010 to allow individuals explicitly
 	'grouppage-Ombudsmen' => '{{optional}}
 {{doc-group|Ombudsmen|page}}
 {{Global grouppage}}',
-	'group-Staff' => '{{doc-group|Staff|prefix=wmf-}}',
+	'group-Staff' => '{{doc-group|Staff|prefix=wmf-}}
+{{Identical|Staff}}',
 	'group-Staff-member' => '{{doc-group|Staff|member|prefix=wmf-}}',
 	'grouppage-Staff' => '{{optional}}
 Please leave <code>Foundation:</code> untranslated.
@@ -13358,6 +13359,8 @@ $messages['ru'] = array(
 	'grouppage-sysadmin' => 'm:System administrators',
 	'group-API_High_Limit_Requestor' => 'Запросившие уменьшение ограничений при работе с API',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Запросивший уменьшение ограничений при работе с API}}',
+	'group-Indic_Bots' => 'Indic-боты',
+	'group-Indic_Bots-member' => '{{GENDER:$1|indic-бот}}',
 	'group-New_wikis_importer' => 'Импортеры новых вики',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|импортер новых вики}}',
 	'group-global-ipblock-exempt' => 'Глобальные исключения из IP-блокировок',
