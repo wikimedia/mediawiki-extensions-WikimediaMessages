@@ -4559,6 +4559,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nombres_de_usuario',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar una cuenta',
 	'createacct-imgcaptcha-help' => '¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]',
+	'wikimedia-developers' => 'Desarrolladores',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/es',
 );
 
