@@ -3,6 +3,29 @@
 # InitialiseSettings.php. Initial version compiled from current Wikimedia
 # configuration and contents of LanguageXx.php.
 
+$wgGrammarForms['ang'] = array(
+	# accusative
+	'wrēgendlīc' => array(
+		'Wikipǣdia' => 'Wikipǣdie',
+		'Wikiwordbōc' => 'Wikiwordbōc',
+	),
+	# genitive
+	'geāgniendlīc' => array(
+		'Wikipǣdia' => 'Wikipǣdie',
+		'Wikiwordbōc' => 'Wikiwordbēc',
+	),
+	# dative
+	'forgifendlīc' => array(
+		'Wikipǣdia' => 'Wikipǣdie',
+		'Wikiwordbōc' => 'Wikiwordbēc',
+	),
+	# instrumental
+	'tōllīc' => array(
+		'Wikipǣdia' => 'Wikipǣdie',
+		'Wikiwordbōc' => 'Wikiwordbēc',
+	),
+); # ang
+
 $wgGrammarForms['be'] = array(
 	# genitive
 	'родны' => array(
