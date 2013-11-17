@@ -10500,6 +10500,7 @@ $messages['zh'] = array(
 /** Simplified Chinese (中文（简体）‎)
  * @author Bencmq
  * @author Hydra
+ * @author Liuxinyu970226
  * @author Multichill
  * @author Mys 721tx
  * @author PhiLiP
@@ -10534,7 +10535,7 @@ $messages['zh-hans'] = array(
 	'wm-license-book-start-this-book' => '封面',
 	'wm-license-book-subtitle' => '副标题',
 	'wm-license-book-title' => '标题',
-	'wm-license-book-translator' => '翻译',
+	'wm-license-book-translator' => '翻译者',
 	'wm-license-book-volume' => '卷',
 	'wm-license-book-year-of-publication' => '出版时间',
 	'wm-license-cecill-text' => '本作品为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]，你可以依据[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]的条款传播或修改本作品。[{{int:wm-license-cecill-full-link}} www.cecill.info]网站提供CeCILL授权协议条款。',

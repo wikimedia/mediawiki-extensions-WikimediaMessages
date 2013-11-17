@@ -4706,6 +4706,19 @@ Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüp
 	'createacct-captcha-help-url' => '{{ns:Project}}:Konto taotlemine',
 	'createacct-imgcaptcha-help' => 'Kas sa ei näe pilti? [[{{MediaWiki:createacct-captcha-help-url}}|Taotle kontot]]',
 	'wikimedia-developers' => 'Arendajad',
+	'wikimedia-globalblocking-ipblocked' => "'''Sinu IP-aadress on [[m:Special:MyLanguage/Global blocks|kõigis vikides blokeeritud]].'''
+
+Blokeerija: $1 ($2).
+Põhjus: ''$3''.
+
+* Blokeerimisaeg: $4
+* Blokeeringu aegumistähtaeg: $5
+
+Sinu praegune IP-aadress on $6.
+Palun lisa ülaltoodud üksikasjad kõigile päringutele, mida teed.
+
+Kui usud, et sind on blokeeritud ekslikult, leiad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.
+Muul juhul [[m:Steward requests/Global|postita palun blokeeringu arutamiseks palve]], mis metavikis üle vaadatakse.",
 );
 
 /** Basque (euskara)
@@ -7191,6 +7204,7 @@ $messages['ht'] = array(
  * @author Dani
  * @author Dj
  * @author Glanthor Reviol
+ * @author Misibacsi
  * @author Tgr
  */
 $messages['hu'] = array(
@@ -7279,7 +7293,7 @@ $messages['hu'] = array(
 	'group-trusted-member' => 'megbízható felhasználó',
 	'grouppage-trusted' => '{{ns:project}}:megbízható felhasználók',
 	'group-uploader' => 'feltöltők',
-	'group-uploader-member' => 'feltöltő', # Fuzzy
+	'group-uploader-member' => 'feltöltő: $1',
 	'grouppage-uploader' => '{{ns:project}}:Feltöltők',
 	'group-Global_bot' => 'globális botok',
 	'group-Global_bot-member' => 'globális bot',
@@ -7310,6 +7324,9 @@ $messages['hu'] = array(
 	'wikidata-shortcopyrightwarning' => 'A "mentés" gombra kattintással elfogadod a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételeket], és visszavonhatatlan engedélyt adsz szerkesztéseid [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licensz] szerinti felhasználására.', # Fuzzy
 	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'cant-delete-main-page' => 'Nem törölheted vagy nevezheted át a főoldalt.',
+	'createacct-helpusername-url' => '{{ns:Project}}:Azonosító',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(segítség)]]',
+	'wikimedia-developers' => 'Fejlesztők',
 );
 
 /** Armenian (Հայերեն)
@@ -14662,7 +14679,7 @@ $messages['sr-el'] = array(
 	'wikimediamessages-desc' => 'Poruke specifične za Vikimediju.',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sr-el',
 	'sitesupport' => 'Novčani prilozi',
-	'tooltip-n-sitesupport' => 'podrži nas',
+	'tooltip-n-sitesupport' => 'Podržite nas',
 	'specialpages-group-contribution' => 'Doprinosi/Prikupljanje sredstava',
 	'nstab-creator' => 'Tvorac',
 	'nstab-institution' => 'Ustanova',
@@ -16508,7 +16525,7 @@ $messages['uk'] = array(
 	'wikidata-shortcopyrightwarning' => 'Натиснувши  "{{int:wikibase-save}}", ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
-	'wikibase-sitelinks-commons' => 'Сторінки Сховища Вікімедіа, що посилаються на цей елемент',
+	'wikibase-sitelinks-commons' => 'Сторінки Вікісховища, що посилаються на цей елемент',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Сховище',
 	'cant-delete-main-page' => 'Ви не можете вилучити або перейменувати головну сторінку.',
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
