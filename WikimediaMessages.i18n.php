@@ -488,8 +488,12 @@ Please leave <code>Foundation:</code> untranslated.
 	'grouppage-API_High_Limit_Requestor' => '{{optional}}
 {{doc-group|API_High_Limit_Requestor|page}}
 {{Global grouppage}}',
-	'group-Indic_Bots' => '{{doc-group|Indic_Bots}}',
-	'group-Indic_Bots-member' => '{{doc-group|Indic_Bots|member}}',
+	'group-Indic_Bots' => '{{doc-group|Indic_Bots}}
+----
+A special user group on Wikimedia projects, used to give bot rights to some accounts on all Indian languages projects.',
+	'group-Indic_Bots-member' => '{{doc-group|Indic_Bots|member}}
+----
+A special user group on Wikimedia projects, used to give bot rights to some accounts on all Indian languages projects.',
 	'grouppage-Indic_Bots' => '{{optional}}
 {{doc-group|Indic_Bots|page}}
 {{Global grouppage}}',
@@ -1008,6 +1012,7 @@ $messages['ang'] = array(
  * @author Achraf94
  * @author Aiman titi
  * @author AwamerT
+ * @author Calak
  * @author Ciphers
  * @author DRIHEM
  * @author Meno25
@@ -1067,7 +1072,7 @@ $messages['ar'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:معدلو الصفحات المحمية',
 	'group-eliminator' => 'المحررون',
 	'group-eliminator-member' => '{{GENDER:$1|مقصي}}',
-	'grouppage-eliminator' => '{{ns:project}}:محرر', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:حازفون',
 	'group-filemover' => 'ناقلو الملف',
 	'group-filemover-member' => '{{GENDER:$1|ناقل الملفات}}',
 	'grouppage-filemover' => '{{ns:project}}:ناقلو الملفات',
@@ -1603,6 +1608,7 @@ $messages['ay'] = array(
 );
 
 /** Azerbaijani (azərbaycanca)
+ * @author Calak
  * @author Cekli829
  * @author PPerviz
  * @author Vago
@@ -1637,7 +1643,7 @@ $messages['az'] = array(
 	'grouppage-confirmed' => '{{nslayihə}}:Təsdiqlənmiş istifadəçilər', # Fuzzy
 	'group-editprotected' => 'Mühafizə olunmuş səhifə redaktorları',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator}}',
-	'grouppage-eliminator' => '{{ns:layihə}}:Eliminator', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminator',
 	'group-filemover-member' => '{{GENDER:$1|file mover}}',
 	'group-flood' => 'Bot istifadəçilər',
 	'group-flood-member' => '{{GENDER:$1|bot}}',
@@ -3818,6 +3824,7 @@ Sie stimmen zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Z
  * @author Aspar
  * @author Erdemaslancan
  * @author Gorizon
+ * @author Marmase
  * @author Mirzali
  * @author Nemo bis
  * @author Xoser
@@ -3950,6 +3957,7 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
 	'createacct-helpusername-url' => '{{ns:Project}}:Politikaya_nameyê_karberan',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Yew hesab bıwaze',
 	'createacct-imgcaptcha-help' => 'Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]',
+	'wikimedia-developers' => 'Vırazoği',
 );
 
 /** Lower Sorbian (dolnoserbski)
