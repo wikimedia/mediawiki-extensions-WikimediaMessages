@@ -300,6 +300,9 @@ For additional information and instructions to legitimate users, see the [[m:Spe
 
 	# Terms of use link on the mobile site
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use',
+
+	# OAuth Privacy policy link for all sites
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Privacy Policy]',
 );
 
 /** Message documentation (Message documentation)
@@ -596,6 +599,7 @@ Parameters:
 Parameters:
 * $1 - IP address',
 	'wikimedia-mobile-terms-url' => 'Terms of use link on the mobile site. Localise only if there is an up to date variant of this text in your language.',
+	'wikimedia-oauth-privacy-link' => 'Wikitext link pointing to the WMF privacy policy for all sites.',
 );
 
 /** Abkhazian (Аҧсшәа)
