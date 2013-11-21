@@ -3714,6 +3714,7 @@ $messages['de'] = array(
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/de',
 	'group-Staff' => 'Mitarbeiter',
 	'group-Staff-member' => '{{GENDER:$1|Mitarbeiter|Mitarbeiterin}}',
+	'grouppage-Staff' => 'Foundation:Mitarbeiter',
 	'group-editinterface' => 'Benutzeroberflächen-Bearbeiter',
 	'group-editinterface-member' => '{{GENDER:$1|Benutzeroberflächen-Bearbeiter|Benutzeroberflächen-Bearbeiterin}}',
 	'group-steward' => 'Stewards',
@@ -6512,6 +6513,7 @@ $messages['gu'] = array(
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [https://wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [https://www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહીં ઉપલબ્ધ કરાવો છો.
 તમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.',
 	'cant-delete-main-page' => 'તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(સભ્યનામ માર્ગદર્શિકા)]]',
 );
 
 /** Manx (Gaelg)
