@@ -964,6 +964,7 @@ Tamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribu
 
 /** Old English (Ænglisc)
  * @author Gott wisst
+ * @author JJohnson1701
  * @author Wōdenhelm
  */
 $messages['ang'] = array(
@@ -989,17 +990,17 @@ $messages['ang'] = array(
 	'group-interface_editor' => 'Gewealdes wlitan adihtendas',
 	'group-interface_editor-member' => 'ānsīene ādihtend', # Fuzzy
 	'group-patroller' => 'Weardas',
-	'group-patroller-member' => 'ƿeard', # Fuzzy
+	'group-patroller-member' => 'weard', # Fuzzy
 	'group-transwiki' => 'Inbringeras þā wyrcaþ betweoh wiki',
-	'group-transwiki-member' => 'ȝeondƿiki inbringere', # Fuzzy
+	'group-transwiki-member' => 'geondwiki inbringere',
 	'grouppage-transwiki' => '{{ns:project}}:Inbringendas þā wyrcaþ betweoh wiki',
 	'group-trusted' => 'Getrēowede brūcendas',
-	'group-trusted-member' => 'betrēoƿed brūcend', # Fuzzy
+	'group-trusted-member' => 'betrēowed brūcend',
 	'grouppage-trusted' => '{{ns:project}}:Getrēowede brūcendas',
 	'group-Global_bot' => 'Eormenlice searuþrǣlas',
 	'group-Global_bot-member' => 'ƿorulde searuþræl', # Fuzzy
 	'group-Global_sysops' => 'Eormenlice bewitendas',
-	'group-Global_sysops-member' => 'ƿorulde betƿitend', # Fuzzy
+	'group-Global_sysops-member' => 'worulde bewitend',
 	'group-editinterface' => 'Gewealdes wlitan adihtendas',
 	'group-editinterface-member' => 'ānsīene ādihtend', # Fuzzy
 	'group-steward' => 'Stigweardas',
@@ -3800,6 +3801,7 @@ Anderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-
 Das Bearbeiten über Tor ist gesperrt, um Missbrauch zu vermeiden.
 Für zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe die globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“.',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/de',
+	'wikimedia-oauth-privacy-link' => '[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Datenschutzrichtlinie]',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -4267,6 +4269,7 @@ $messages['el'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:Αίτημα για λογαριασμό',
 	'createacct-imgcaptcha-help' => 'Δεν μπορείτε να δείτε την εικόνα; [[{{MediaWiki:createacct-captcha-help-url}}|Ζητείστε ένα λογαριασμό]]',
 	'wikimedia-developers' => 'Προγραμματιστές',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Πολιτική Ιδιωτικότητας]',
 );
 
 /** Emiliano-Romagnolo (emiliàn e rumagnòl)
@@ -5173,6 +5176,9 @@ $messages['fi'] = array(
 	'group-transwiki' => 'toisesta wikistä sivujen tuojat',
 	'group-transwiki-member' => '{{GENDER:$1|toisesta wikistä sivujen tuoja}}',
 	'grouppage-transwiki' => '{{ns:project}}:Toisista wikeistä sivujen tuojat',
+	'group-templateeditor' => 'mallineiden muokkaajat',
+	'group-templateeditor-member' => '{{GENDER:$1|mallineiden muokkaaja}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Mallineiden muokkaajat',
 	'group-trusted' => 'luotetut käyttäjät',
 	'group-trusted-member' => '{{GENDER:$1|luotettu käyttäjä}}',
 	'grouppage-trusted' => '{{ns:project}}:Luotetut käyttäjät',
@@ -5202,6 +5208,9 @@ $messages['fi'] = array(
 	'group-translationadmin' => 'käännösylläpitäjät',
 	'group-translationadmin-member' => '{{GENDER:$1|käännösylläpitäjä}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Käännösylläpitäjät',
+	'group-centralnoticeadmin' => 'Central notice -ylläpitäjät',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|central notice -ylläpitäjä}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Central notice -ylläpitäjät',
 	'group-coder' => 'ohjelmoijat',
 	'group-coder-member' => '{{GENDER:$1|ohjelmoija}}',
 	'group-inactive' => 'epäaktiiviset käyttäjät',
@@ -5457,6 +5466,7 @@ Sinon, pour discuter du blocage, veuillez [[m:Steward requests/Global|envoyer un
 La modification depuis Tor est bloquée pour éviter les abus.
 Pour plus d’information et d’instructions pour légitimer les utilisateurs, voyez la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/fr',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Politique de confidentialité]',
 );
 
 /** Cajun French (français cadien)
@@ -6184,6 +6194,20 @@ $messages['gn'] = array(
 	'sitesupport' => "Me'ẽ rei",
 );
 
+/** Goan Konkani (कोंकणी/Konknni )
+ * @author The Discoverer
+ */
+$messages['gom'] = array(
+	'sitesupport' => 'Dan di',
+);
+
+/** Goan Konkani (Latin script) (Konknni)
+ * @author The Discoverer
+ */
+$messages['gom-latn'] = array(
+	'sitesupport' => 'Dan di',
+);
+
 /** Gothic (Gothic)
  * @author Jocke Pirat
  * @author LeighvsOptimvsMaximvs
@@ -6736,6 +6760,7 @@ $messages['he'] = array(
 	'wikimedia-torblock-blocked' => 'כתובת ה־IP שלך, <strong>$1</strong>, זוהתה באופן אוטומטי בתור צומת יציאה של Tor.
 עריכה דרך Tor אסורה לשם מניעת שימוש לרעה.
 למידע נוסף והוראות למשתמשים סבירים נא לקרוא את דף המדיניות הגלובלית [[m:Special:MyLanguage/No open proxies|No open proxies]].',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות]',
 );
 
 /** Hindi (हिन्दी)
@@ -8150,6 +8175,7 @@ Altrimenti, per discutere del blocco [[m:Steward requests/Global|inserire una ri
 La possibilità di editare utilizzando tor è bloccata per impedire abusi.
 Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/it',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Politica sulla privacy]',
 );
 
 /** Japanese (日本語)
@@ -8357,6 +8383,7 @@ Otherwise, to discuss the block please [[m:Steward requests/Global|post a reques
 不正利用を防止するため、Tor を通じての編集を禁止しています。
 For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.', # Fuzzy
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ja',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]',
 );
 
 /** Lojban (Lojban)
@@ -13466,6 +13493,7 @@ $messages['ru'] = array(
 Редактирование через Tor заблокировано для предотвращения злоупотреблений.
 Дополнительную информацию и инструкции для честных пользователей смотрите на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ru',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Политика_конфиденциальности Политика конфиденциальности]',
 );
 
 /** Rusyn (русиньскый)
@@ -16582,6 +16610,7 @@ $messages['uk'] = array(
 	'wikimedia-torblock-blocked' => 'Ваша IP-адреса, <strong>$1</strong>, вже була автоматично ідентифікована як вузол виходу Tor.
 Редагування через Tor заблоковане для запобігання зловживанням.
 Для додаткової інформації та інструкцій для легальних користувачів перегляньте глобальну політику[[m:Special:MyLanguage/No open proxies|No open proxies]].',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy  Політика конфіденційності]',
 );
 
 /** Urdu (اردو)
