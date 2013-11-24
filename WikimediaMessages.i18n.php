@@ -4582,6 +4582,7 @@ Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utiliza
 	'createacct-imgcaptcha-help' => '¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]',
 	'wikimedia-developers' => 'Desarrolladores',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/es',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Política de privacidad]',
 );
 
 /** Estonian (eesti)
@@ -5783,6 +5784,7 @@ Dü könst det sper uk uun fraag stel üüb [[m:Steward requests/Global|det uunf
 	'wikimedia-torblock-blocked' => "Din IP-addres, <strong>\$1</strong>, as käänd wurden üs en ''Tor-exit-node''.
 Det bewerkin mä ''Tor'' as ei tuläät, am masbrük tu ferhanrin.
 Dü fanjst muar informatjuun an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".",
+	'wikimedia-oauth-privacy-link' => '[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Dooten-seekerhaid] (sjiisk)',
 );
 
 /** Friulian (furlan)
@@ -14795,7 +14797,7 @@ $messages['sr-el'] = array(
 	'group-researcher' => 'Istraživači',
 	'group-researcher-member' => '{{GENDER:$1|istraživač|istraživačica|istraživač}}',
 	'grouppage-researcher' => '{{ns:project}}:Istraživači',
-	'group-rollbacker' => 'vraćači',
+	'group-rollbacker' => 'Vraćači',
 	'group-rollbacker-member' => '{{GENDER:$1|vraćač|vraćačica|vraćač}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Vraćači',
 	'group-transwiki' => 'Međuviki uvoznici',
@@ -17637,6 +17639,7 @@ $messages['zea'] = array(
  * @author Wmr89502270
  * @author Xiaomingyan
  * @author Yfdyh000
+ * @author Zhuyifei1999
  */
 $messages['zh-hans'] = array(
 	'wikimediamessages-desc' => '维基媒体特有信息',
@@ -17807,6 +17810,7 @@ $messages['zh-hans'] = array(
 
 如果你认为你被错误地封禁，你可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全局方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	'wikimedia-torblock-blocked' => '你的IP地址<strong>$1</strong>已经被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全局方针。',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy 隐私权政策]',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
@@ -18000,6 +18004,7 @@ $messages['zh-hant'] = array(
 	'wikimedia-torblock-blocked' => '您的IP位址，<strong>$1</strong>，被自動確認為Tor節點之一。
 我們已禁止通過此Tor節點編輯以防止濫用。
 關於相關訊息以及合法用戶之說明，詳見全局方針[[m:Special:MyLanguage/No open proxies|請勿開放代理]]。',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/隱私政策 隱私政策]',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)

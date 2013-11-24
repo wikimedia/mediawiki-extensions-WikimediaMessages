@@ -194,7 +194,12 @@ Alternative wording: "The beginning of the book"',
 	'wm-license-book-volume' => 'Label "Volume" at [[Commons:Template:Book]].
 {{Identical|Volume}}',
 	'wm-license-book-year-of-publication' => 'Label "Year of publication" at [[Commons:Template:Book]].',
-	'wm-license-cecill-text' => 'You can peek at [[Commons:Template:CeCILL]] for the current translations',
+	'wm-license-cecill-text' => 'You can peek at [[Commons:Template:CeCILL]] for the current translations.
+
+Refers to:
+* {{msg-mw|Wm-license-free-software-wiki-link}}
+* {{msg-mw|Wm-license-cecill-wiki-link}}
+* {{msg-mw|Wm-license-cecill-full-link}}',
 	'wm-license-cecill-wiki-link' => '{{optional}}',
 	'wm-license-cecill-full-link' => '{{optional}}',
 	'wm-license-creator-alternative-names' => 'Label "Alternative names" at [[Commons:Template:Creator]].',
@@ -207,23 +212,52 @@ Alternative wording: "The beginning of the book"',
 	'wm-license-creator-work-period' => 'Label "Work period" at [[Commons:Template:Creator]].',
 	'wm-license-creator-work-location' => 'Label "Work location" at [[Commons:Template:Creator]].',
 	'wm-license-creator-linkback' => 'Label "Link back to Creator infobox template" at [[Commons:Template:Creator]].',
-	'wm-license-fal-text' => 'You can peek at [[Commons:Template:FAL]] for the current translations',
+	'wm-license-fal-text' => 'You can peek at [[Commons:Template:FAL]] for the current translations.
+
+Refers to:
+* {{msg-mw|Wm-license-fal-wiki-link}}
+* {{msg-mw|Wm-license-fal-full-link}}',
 	'wm-license-fal-wiki-link' => '{{optional}}',
 	'wm-license-fal-full-link' => '{{optional}}',
 	'wm-license-fsf-wiki-link' => '{{optional}}
 Link to the Wikipedia article about the [[Wikipedia:Free Software Foundation|Free Software Foundation]].',
 	'wm-license-free-software-wiki-link' => '{{optional}}
 Link to the article about Free software. This is an optional message so please only translate it if the article actually exists.',
-	'wm-license-gfdl-1.2-and-later' => 'You can peek at [[Commons:Template:GFDL]] for the current translations',
-	'wm-license-gfdl-1.2-only' => 'You can peek at [[Commons:Template:GFDL-1.2]] for the current translations.',
+	'wm-license-gfdl-1.2-and-later' => 'You can peek at [[Commons:Template:GFDL]] for the current translations.
+
+Refers to:
+* {{msg-mw|Wm-license-gfdl-wiki-link}}
+* {{msg-mw|Wm-license-fsf-wiki-link}}
+* {{msg-mw|Wm-license-gfdl-full-1.2-link}}',
+	'wm-license-gfdl-1.2-only' => 'You can peek at [[Commons:Template:GFDL-1.2]] for the current translations.
+
+Refers to:
+* {{msg-mw|Wm-license-gfdl-wiki-link}}
+* {{msg-mw|Wm-license-fsf-wiki-link}}
+* {{msg-mw|Wm-license-gfdl-full-1.2-link}}',
 	'wm-license-gfdl-1.2-only-header' => 'The note you see on the right at [[:Commons:Template:GFDL-1.2]].
 
 The non-breaking space (<code>&amp;nbsp;</code>) is needed to keep is on one line.',
+	'wm-license-gfdl-1.3-and-later' => 'Refers to:
+* {{msg-mw|Wm-license-gfdl-wiki-link}}
+* {{msg-mw|Wm-license-fsf-wiki-link}}
+* {{msg-mw|Wm-license-gfdl-full-1.3-link}}',
+	'wm-license-gfdl-1.3-only' => 'Refers to:
+* {{msg-mw|Wm-license-gfdl-wiki-link}}
+* {{msg-mw|Wm-license-fsf-wiki-link}}
+* {{msg-mw|Wm-license-gfdl-full-1.3-link}}',
 	'wm-license-gfdl-wiki-link' => '{{optional}}
 Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation License|GNU Free Documentation License]]',
 	'wm-license-gfdl-full-1.2-link' => '{{notranslate}}',
 	'wm-license-gfdl-full-1.3-link' => '{{notranslate}}',
-	'wm-license-gpl-text' => 'You can peek at [[Commons:Template:GPL]] for the current translations',
+	'wm-license-gpl-text' => 'You can peek at [[Commons:Template:GPL]] for the current translations.
+
+Refers to:
+* {{msg-mw|Wm-license-free-software-wiki-link}}
+* {{msg-mw|Wm-license-gpl-wiki-link}}
+* {{msg-mw|Wm-license-fsf-wiki-link}}
+* {{msg-mw|Wm-license-gpl-2-full-link}}
+* {{msg-mw|Wm-license-gpl-3-full-link}}',
 	'wm-license-gpl-wiki-link' => '{{optional}}',
 	'wm-license-gpl-2-full-link' => '{{notranslate}}',
 	'wm-license-gpl-3-full-link' => '{{notranslate}}',
@@ -236,28 +270,71 @@ Link to the Wikipedia article about the [[Wikipedia:GNU Free Documentation Licen
 	'wm-license-information-permission-reusing-link' => '{{optional}}
 Please only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.',
 	'wm-license-information-other-versions' => '{{Identical|Other version}}',
-	'wm-license-lgpl-text' => 'You can peek at [[Commons:Template:LGPL]] for the current translations',
+	'wm-license-lgpl-text' => 'You can peek at [[Commons:Template:LGPL]] for the current translations.
+
+Refers to:
+* {{msg-mw|Wm-license-free-software-wiki-link}}
+* {{msg-mw|Wm-license-lgpl-wiki-link}}
+* {{msg-mw|Wm-license-fsf-wiki-link}}
+* {{msg-mw|Wm-license-lgpl-2.1-full-link}}
+* {{msg-mw|Wm-license-lgpl-3-full-link}}',
 	'wm-license-lgpl-wiki-link' => '{{optional}}',
 	'wm-license-lgpl-2.1-full-link' => '{{notranslate}}',
 	'wm-license-lgpl-3-full-link' => '{{notranslate}}',
-	'wm-license-licensing-update-text' => 'This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].',
+	'wm-license-licensing-update-text' => 'This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].
+
+Refers to {{msg-mw|Wm-license-licensing-update-wiki-link}}.',
 	'wm-license-licensing-update-wiki-link' => '{{optional}}
 Translate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.',
 	'wm-license-original-upload-log' => 'Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [[commons:File:Inkscape_logo_2.svg|example]].',
 	'wm-license-own-work' => 'This message will be used in [[commons:Template:Own]].
 {{Identical|Own work}}',
-	'wm-license-pd-author-with-author-text' => 'Parameters:
+	'wm-license-pd-author-self-text' => 'Refers to {{msg-mw|Wm-license-pd-wiki-link}}.',
+	'wm-license-pd-author-with-author-text' => 'Refers to {{msg-mw|Wm-license-pd-wiki-link}}.
+
+Parameters:
 * $1 - name',
 	'wm-license-pd-author-with-author-any-purpose' => "Parameters:
 * $1 - a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
 	'wm-license-pd-usgov-wiki-link' => '{{Optional}}',
 	'wm-license-pd-usgov-work-wiki-link' => '{{Optional}}',
+	'wm-license-pd-usgov-fema-text' => 'Refers to:
+* {{msg-mw|Wm-license-pd-usgov-fema-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-wiki-link}}
+* {{msg-mw|Wm-license-pd-wiki-link}}',
 	'wm-license-pd-usgov-fema-wiki-link' => '{{Optional}}',
+	'wm-license-pd-usgov-military-text' => 'Refers to:
+* {{msg-mw|Wm-license-pd-usgov-military-armed-forces-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-military-dod-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-wiki-link}}
+* {{msg-mw|Wm-license-pd-wiki-link}}',
 	'wm-license-pd-usgov-military-armed-forces-wiki-link' => '{{Optional}}',
 	'wm-license-pd-usgov-military-dod-wiki-link' => '{{Optional}}',
+	'wm-license-pd-usgov-military-air-force-text' => 'Refers to:
+* {{msg-mw|Wm-license-pd-usgov-military-air-force-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-wiki-link}}
+* {{msg-mw|Wm-license-pd-wiki-link}}',
 	'wm-license-pd-usgov-military-air-force-wiki-link' => '{{Optional}}',
+	'wm-license-pd-usgov-military-army-text' => 'Refers to:
+* {{msg-mw|Wm-license-pd-usgov-military-army-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-wiki-link}}
+* {{msg-mw|Wm-license-pd-wiki-link}}',
 	'wm-license-pd-usgov-military-army-wiki-link' => '{{Optional}}',
+	'wm-license-pd-usgov-military-navy-text' => 'Refers to:
+* {{msg-mw|Wm-license-pd-usgov-military-navy-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-wiki-link}}
+* {{msg-mw|Wm-license-pd-wiki-link}}',
 	'wm-license-pd-usgov-military-navy-wiki-link' => '{{Optional}}',
+	'wm-license-pd-usgov-noaa-text' => 'Refers to:
+* {{msg-mw|Wm-license-pd-usgov-noaa-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}
+* {{msg-mw|Wm-license-pd-usgov-wiki-link}}
+* {{msg-mw|Wm-license-pd-wiki-link}}',
 	'wm-license-pd-usgov-noaa-wiki-link' => '{{Optional}}',
 	'wm-license-pd-wiki-link' => '{{optional}}',
 	'wm-license-self-one-license' => 'You can peek at [[Commons:Template:Self]].
