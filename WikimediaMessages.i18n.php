@@ -4738,6 +4738,9 @@ Palun lisa ülaltoodud üksikasjad kõigile päringutele, mida teed.
 
 Kui usud, et sind on blokeeritud ekslikult, leiad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.
 Muul juhul [[m:Steward requests/Global|postita palun blokeeringu arutamiseks palve]], mis metavikis üle vaadatakse.",
+	'wikimedia-torblock-blocked' => 'Sinu IP-aadress <strong>$1</strong> on automaatselt kindlaks tehtud kui Tor-võrgu lõppsõlm.
+Tor-võrgu kaudu toimetamine on väärtarvituse vältimiseks keelatud.
+Õigustatud muudatuste tegijad leiavad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.',
 );
 
 /** Basque (euskara)
@@ -7158,7 +7161,7 @@ $messages['hsb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Wobdźěłarjo škitanych stronow',
 	'group-eliminator' => 'Hašaki',
 	'group-eliminator-member' => '{{GENDER:$1|hašer|hašerka}}',
-	'grouppage-eliminator' => '{{ns:project}}:Hašak', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Hašerjo',
 	'group-filemover' => 'Přesuwarjo datajow',
 	'group-filemover-member' => '{{GENDER:$1|přesuwar datajow|přesuwarka datajow}}',
 	'grouppage-filemover' => '{{ns:project}}:Přesuwarjo datajow',
@@ -7189,11 +7192,14 @@ $messages['hsb'] = array(
 	'group-transwiki' => 'Transwiki importerojo',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-importer|transwiki-importerka}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importerojo',
+	'group-templateeditor' => 'Wobdźěłarjo předłohow',
+	'group-templateeditor-member' => '{{GENDER:$1|wobdźěłar předłohow|wobdźěłarka předłohow}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Wobdźěłarjo předłohow',
 	'group-trusted' => 'Dowěryhódni wužiwarjo',
 	'group-trusted-member' => '{{GENDER:$1|dowěryhódny wužiwar|dowěryhódna wužiwarka}}',
 	'grouppage-trusted' => '{{ns:project}}:Dowěryhódni wužiwarjo',
 	'group-uploader' => 'Nahrawarjo',
-	'group-uploader-member' => 'nahrawar', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|nahrawar|nahrawarka}}',
 	'grouppage-uploader' => '{{ns:project}}:Nahrawarjo',
 	'group-Global_bot' => 'Globalne boćiki',
 	'group-Global_bot-member' => '{{GENDER:$1|globalny bot}}',
@@ -7205,12 +7211,15 @@ $messages['hsb'] = array(
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsnik|ombudsnica}}',
 	'group-Staff' => 'Sobudźěłaćerjo',
 	'group-Staff-member' => 'sobudźěłaćerjo',
+	'grouppage-Staff' => 'Foundation:Personal',
 	'group-editinterface' => 'Wužiwarski powjerch wobdźěłać',
 	'group-editinterface-member' => '{{GENDER:$1|wobdźěłar|wobdźěłarka}} wužiwarskeho powjercha',
 	'group-steward' => 'Stewardźa',
 	'group-steward-member' => '{{GENDER:$1|steward|stewardesa}}',
+	'grouppage-steward' => 'm:Stewardźa',
 	'group-sysadmin' => 'Systemowi administratorojo',
 	'group-sysadmin-member' => '{{GENDER:$1|systemowy administrator|systemowa administratorka}}',
+	'grouppage-sysadmin' => 'm:Systemowi administratorojo',
 	'group-Indic_Bots' => 'Indiske boty',
 	'group-Indic_Bots-member' => '{{GENDER:$1|indiski bot}}',
 	'group-New_wikis_importer' => 'Importerojo nowych wikijow',
@@ -7220,17 +7229,30 @@ $messages['hsb'] = array(
 	'group-translationadmin' => 'Přełožowanscy administratorojo',
 	'group-translationadmin-member' => '{{GENDER:$1|přełožowanski administrator|přełožowanska administratorka}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Přełožowanscy administratorojo',
+	'group-centralnoticeadmin' => 'Administratorojo centralnych wozjewjenkow',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrator centralnych wozjewjenkow}}',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administratorojo centralnych wozjewjenkow',
 	'group-coder' => 'Programowarjo',
 	'group-coder-member' => '{{GENDER:$1|programowar|programowarka}}',
 	'group-inactive' => 'Njeaktiwni wužiwarjo',
 	'group-inactive-member' => '{{GENDER:$1|njeaktiwny wužiwar|njeaktiwna wužiwarka}}',
 	'grouppage-inactive' => '{{ns:project}}:Njeaktiwni wužiwarjo',
+	'shared-repo-name-shared' => 'Wikimedia Commons',
 	'wikimedia-copyright' => 'Tekst steji pod <a href="https://creativecommons.org/licenses/by-sa/3.0/">licencu Creative Commons Attribution/Share-Alike</a> k dispoziciji; přidatne wuměnjenja hodźa so nałožować. Hlej <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wužiwanske wuměnjenja</a> za podrobnosće.',
 	'wikimedia-copyrightwarning' => 'Z kliknjenjom na tłóčatko "{{int:savearticle}}" přizwoliš do [https://wikimediafoundation.org/wiki/Terms_of_Use wužiwanskich wuměnjenjow] a stajiš swój přinošk definitiwnje pod licencu [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative Commons.',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Njemóžeš hłownu stronu zhašeć abo přesunyć.',
 	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian Foundation zwoliš do toho, zo móžemy so nastupajo přełožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stajić. Zwoliš do toho, zo twoje daty so w Zjednocenych statach Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłow priwatnosće].',
 	'upload-more-photos-of-this-monument' => 'Dalše fota tutoho pomnika nahrać',
+	'extdist-branch-master' => 'master (najnowša wuwićowa wersija)',
+	'extdist-branch-REL1_21' => '1.21 (najnowši stabilny MediaWiki)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Prawidła wužiwarskich mjenow',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomoc za wuběranje)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Konto požadać',
+	'createacct-imgcaptcha-help' => 'Njemóžeš wobraz widźeć? [[{{MediaWiki:createacct-captcha-help-url}}|Konto požadać]]',
+	'wikimedia-developers' => 'Wuwiwarjo',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Prawidła priwatnosće]',
 );
 
 /** Haitian (Kreyòl ayisyen)
@@ -10350,6 +10372,7 @@ $messages['mk'] = array(
 Уредувањето преку Tor е оневозможено за да се спречи злоупотреба.
 Повеќе информации и напатствија за добронамерните корисници ќе најдете на страницата на глобалното правило „[[m:Special:MyLanguage/No open proxies|Без отворени застапници]]“.',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/mk',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Заштита на личните податоци Заштита на личните податоци]',
 );
 
 /** Malayalam (മലയാളം)
@@ -10979,17 +11002,17 @@ $messages['myv'] = array(
 	'sitesupport' => 'Лезксйармаконь максома',
 	'tooltip-n-sitesupport' => 'Макста миненек нежедематарка',
 	'group-confirmed' => 'Кемекстань сёрмадыцят',
-	'group-confirmed-member' => 'кемекстань сёрмадыця', # Fuzzy
+	'group-confirmed-member' => 'кемекстазь сёрмадыця',
 	'grouppage-confirmed' => '{{ns:project}}:Кемекстань сёрмадыцят',
 	'group-founder' => 'Лувонь путыйть',
-	'group-founder-member' => 'лувонь путый', # Fuzzy
+	'group-founder-member' => 'лувонь путый',
 	'grouppage-founder' => '{{ns:project}}:Лувонь путыйть',
-	'group-import-member' => 'тевень совавтый', # Fuzzy
+	'group-import-member' => 'тевень совавтый',
 	'grouppage-import' => '{{ns:project}}:Тевень совавтыйть',
 	'group-editinterface' => 'Интерчамань витнийть-петнийть',
-	'group-editinterface-member' => 'интерчамань витний-петний', # Fuzzy
+	'group-editinterface-member' => 'интерчамань витний-петний',
 	'group-steward' => 'Туросторт',
-	'group-steward-member' => 'туростор', # Fuzzy
+	'group-steward-member' => 'туростор',
 	'grouppage-steward' => 'm:Туросторт',
 	'group-sysadmin' => 'Системань администраторт',
 );
