@@ -6581,6 +6581,7 @@ $messages['haw'] = array(
  * @author Amire80
  * @author Deror avi
  * @author Guycn1
+ * @author Guycn2
  * @author Inkbug
  * @author Rotem Liss
  * @author Rotemliss
@@ -12181,6 +12182,10 @@ $messages['pl'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Użytkownicy nieaktywni',
 	'wikimedia-copyright' => 'Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
 Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.',
+	'wikidata-copyright' => 'Wszystkie dane strukturalne głównej przestrzeni nazw i przestrzeni nazw właściwości udostępniane na licencji <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.pl" title="Definicja Licencji Creative Commons CC0">Creative Commons: przekazanie do domeny publicznej</a>;
+tekst w innych przestrzeniach nazw udostępniany na licencji <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl" title="Definicja licencji Uznanie autorstwa-Na tych samych warunkach">Creative Commons: uznanie autorstwa, na tych samych warunkach</a>;
+z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/pl" title="Fundacja Wikimedia: Warunki użytkowania">warunkach użytkowania</a>.',
 	'wikidata-shortcopyrightwarning' => 'Klikając "{{int:wikibase-save}}" zgadzasz się na [https://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] i nieodwołalnie zgadzasz się udostępniać swój wkład w ramach [https://creativecommons.org/publicdomain/zero/1.0/ Licencji CC0].',
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [https://wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
 	'wikibase-sitelinks-wikivoyage' => 'Strony Wikipodróży powiązane z tym elementem',
@@ -12194,6 +12199,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]',
 	'wikimedia-developers' => 'Dla deweloperów',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/pl',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności Zasady zachowania poufności]',
 );
 
 /** Piedmontese (Piemontèis)
