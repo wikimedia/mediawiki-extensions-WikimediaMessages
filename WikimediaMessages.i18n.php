@@ -1590,6 +1590,7 @@ D'otra manera, pa falar del bloquéu [[m:Steward requests/Global|dexe una solici
 	'wikimedia-torblock-blocked' => 'La so direición IP, <strong>$1</strong>, identificóse automáticamente como un nuedu de salida Tor.
 La edición al traviés de Tor ta bloquiada pa prevenir abusos.
 Paa más información ya instrucciones pa usuarios llexítimos, vea la política global [[m:Special:MyLanguage/No open proxies|escontra proxies abiertos]].',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Política de proteición de datos]',
 );
 
 /** Avaric (авар)
@@ -6184,6 +6185,7 @@ Senón, para conversar acerca do bloqueo [[m:Steward requests/Global|deixe unha 
 A edición a través de Tor está bloqueada para previr o abuso.
 Para atopar información adicional e instrucións para os usuarios lexítimos, consulte a política global [[m:Special:MyLanguage/No open proxies|contra os proxies abertos]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/gl',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) Política de protección de datos]',
 );
 
 /** Gilaki (گیلکی)
@@ -9094,6 +9096,7 @@ $messages['ko'] = array(
 토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
 자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ko',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -11468,6 +11471,9 @@ $messages['nl'] = array(
 	'group-transwiki' => 'transwiki-importeurs',
 	'group-transwiki-member' => '{{GENDER:$1|transwiki-importeur}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki-importeurs',
+	'group-templateeditor' => 'Sjabloonbewerkers',
+	'group-templateeditor-member' => '{{GENDER:$1|sjabloonbewerker}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Sjabloonbewerkers',
 	'group-trusted' => 'vertrouwde gebruikers',
 	'group-trusted-member' => '{{GENDER:$1|vertrouwde gebruiker}}',
 	'grouppage-trusted' => '{{ns:project}}:Vertrouwde gebruikers',
@@ -11550,6 +11556,7 @@ Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
 Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].
 U kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/nl',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacybeleid Privacybeleid]',
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
