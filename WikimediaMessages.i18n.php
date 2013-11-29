@@ -9096,7 +9096,7 @@ $messages['ko'] = array(
 토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.
 자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참고하십시오.',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ko',
-	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -12147,6 +12147,8 @@ $messages['pl'] = array(
 	'group-transwiki' => 'Importerzy transwiki',
 	'group-transwiki-member' => '{{GENDER:$1|importer|importerka}} transwiki',
 	'grouppage-transwiki' => '{{ns:project}}:Importerzy transwiki',
+	'group-templateeditor' => 'Redaktorzy szablonów',
+	'group-templateeditor-member' => '{{GENDER:$1|redaktor|redaktorka}} szablonów',
 	'group-trusted' => 'Zaufani użytkownicy',
 	'group-trusted-member' => '{{GENDER:$1|zaufany użytkownik|zaufana użytkowniczka}}',
 	'grouppage-trusted' => '{{ns:project}}:Zaufani użytkownicy',
@@ -14422,6 +14424,7 @@ $messages['sl'] = array(
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
 	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [https://wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
+	'wikibase-sitelinks-wikivoyage' => 'Strani Wikipotovanja, povezane na ta predmet',
 	'wikibase-sitelinks-commons' => 'Strani Wikimedia Commons, povezane na ta predmet',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 	'upload-more-photos-of-this-monument' => 'Naložite več fotografij spomenika',
