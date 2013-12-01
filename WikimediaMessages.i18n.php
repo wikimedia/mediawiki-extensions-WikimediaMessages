@@ -3544,13 +3544,13 @@ $messages['da'] = array(
 	'group-inactive' => 'Inaktive brugere',
 	'group-inactive-member' => '{{GENDER:$1|inaktiv bruger}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brugere',
-	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Brugsbetingelser</a> for flere oplysninger.',
-	'wikidata-copyright' => 'Alle strukturerede data fra hoved- og egenskabsnavnerummet er tilgængelige under en <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 licens</a>;
-tekst i de andre navnerum er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike licens</a>;
+	'wikimedia-copyright' => 'Tekst er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.da">Creative Commons-licensen Navngivelse/Del på samme vilkår</a>; yderligere betingelser kan være gældende. Se vores <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">vilkår for anvendelse</a> for flere oplysninger.',
+	'wikidata-copyright' => 'Alle strukturerede data fra hoved- og egenskabsnavnerummet er tilgængelige under en <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.da" title="Definition af Creative Commons CC0 licensen">Creative Commons CC0 licens</a>;
+tekst i de andre navnerum er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.da" title="Definition af Creative Commons Navngivelse-DelPåSammeVilkår licensen">Creative Commons Navngivelse-DelPåSammeVilkår licensen</a>;
 yderligere betingelser kan forekomme.
-Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Vilkår for anvendelse</a> for detaljer.',
-	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "{{int:wikibase-save}}", accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for brug], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licens].',
-	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use brugsbetingelserne], og du indvilliger i at uigenkaldeligt udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
+Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation vilkår for anvendelse">vilkår for anvendelse</a> for detaljer.',
+	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "{{int:wikibase-save}}", accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/deed.da CC0 licensen].',
+	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du indvilliger i uigenkaldeligt at udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.da CC BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyagesider knyttet til dette emne',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons sider knyttet til dette emne',
@@ -4027,7 +4027,7 @@ $messages['dsb'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Wobźěłarje šćitanych bokow',
 	'group-eliminator' => 'Lašowarje',
 	'group-eliminator-member' => '{{GENDER:$1|lašowaŕ|lašowarka}}',
-	'grouppage-eliminator' => '{{ns:project}}:Lašowaŕ', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Lašowarje',
 	'group-filemover' => 'Pśesuwarje datajow',
 	'group-filemover-member' => '{{GENDER:$1|pśesuwaŕ|pśesuwarka}} datajow',
 	'grouppage-filemover' => '{{ns:project}}:Pśesuwarje datajow',
@@ -4062,7 +4062,7 @@ $messages['dsb'] = array(
 	'group-trusted-member' => '{{GENDER:$1|dowěry gódny wužywaŕ|dowěry gódna wužywarka}}',
 	'grouppage-trusted' => '{{ns:project}}:Dowěry gódne wužywarje',
 	'group-uploader' => 'Nagrawarje',
-	'group-uploader-member' => 'nagrawaŕ', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|nagrawaŕ|nagrawarka}}',
 	'grouppage-uploader' => '{{ns:project}}:Nagrawarje',
 	'group-Global_bot' => 'Globalne bośiki',
 	'group-Global_bot-member' => '{{GENDER:$1|globalny bot}}',
@@ -17215,6 +17215,7 @@ Nếu bạn biết rằng đây là vụ nhầm lẫn, bạn có thể xem thêm
 	'wikimedia-torblock-blocked' => 'Địa chỉ IP của bạn, <strong>$1</strong>, đã bị xác định là một nút thoát tor.
 Sửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm thông tin và hướng dẫn dành cho những người dùng chính đáng trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/vi',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]',
 );
 
 /** Volapük (Volapük)
@@ -17806,7 +17807,7 @@ $messages['zh-hans'] = array(
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:中央通知管理员',
 	'group-coder' => '程序员',
 	'group-coder-member' => '{{GENDER:$1|程序员}}',
-	'grouppage-coder' => '{{ns:project}}:程序员', # Fuzzy
+	'grouppage-coder' => '{{ns:project}}:程序员',
 	'group-inactive' => '不活跃用户',
 	'group-inactive-member' => '{{GENDER:$1|不活跃用户}}',
 	'grouppage-inactive' => '{{ns:project}}:不活跃用户',
