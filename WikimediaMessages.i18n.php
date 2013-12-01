@@ -253,7 +253,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 
 	# Wikidata-specific messages
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage pages linked to this item',
-	'wikibase-sitelinks-commons' => 'Wikimedia Commons pages linked to this item',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons page linked to this item',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 
 	# Custom message for enwiki to stop from deleting the mainpage
