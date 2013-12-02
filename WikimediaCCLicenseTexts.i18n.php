@@ -4177,9 +4177,12 @@ $messages['en-ca'] = array(
  * @author Lcawte
  * @author Multichill
  * @author Reedy
+ * @author Shirayuki
  */
 $messages['en-gb'] = array(
 	'wm-license-cc-zero-explanation' => 'The person who associated a work with this deed has dedicated the work to the [[{{int:wm-license-pd-wiki-link}}|public domain]] by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighbouring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.',
+	'wm-license-cc-conditions-attribution-text' => 'You must attribute the work in the manner specified by the author or licencer (but not in any way that suggests that they endorse you or your use of the work).',
+	'wm-license-cc-conditions-share_alike-text' => 'If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar licence to this one.',
 );
 
 /** Esperanto (Esperanto)

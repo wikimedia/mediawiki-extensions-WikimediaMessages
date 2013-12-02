@@ -1642,6 +1642,7 @@ $messages['bs'] = array(
  * @author El libre
  * @author Martorell
  * @author Multichill
+ * @author Papapep
  * @author Paucabot
  * @author SMP
  * @author Solde
@@ -1721,7 +1722,7 @@ $messages['ca'] = array(
 	'wm-license-original-upload-log' => 'Registre original de càrregues',
 	'wm-license-own-work' => 'Treball propi',
 	'wm-license-pd-author-self-text' => "Jo, el titular del copyright d'aquesta obra, la allibero al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]'''. Això s'aplica a tot el món.",
-	'wm-license-pd-author-with-author-text' => "Aquesta obra ha estat alliberada al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]''' pel seu autor '''$1'''. Això s'aplica a tot el món.",
+	'wm-license-pd-author-with-author-text' => "S'ha alliberat aquesta obra al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]''' pel seu autor '''$1'''. Això s'aplica a tot el món.",
 	'wm-license-pd-author-not-legally-possible' => 'En alguns països això pot no ser legalment possible, en tal cas:',
 	'wm-license-pd-author-self-any-purpose' => "Jo faig concessió a tothom del dret d'usar aquesta obra '''per a qualsevol propòsit''', sense cap condició llevat d'aquelles requerides per la llei.",
 	'wm-license-pd-author-with-author-any-purpose' => "$1 concedeix a tothom el dret d'usar aquesta obra '''per a qualsevol propòsit''', sense cap condició llevat d'aquelles requerides per la llei.",
@@ -2553,9 +2554,13 @@ $messages['en-ca'] = array(
  * @author Lcawte
  * @author Multichill
  * @author Reedy
+ * @author Shirayuki
  */
 $messages['en-gb'] = array(
+	'wikimedialicensetexts-desc' => 'Wikimedia licence messages',
 	'wm-license-information-table-summary' => 'A standardised table providing complete information about the file, including description of what it shows and how it was made, copyright status and source.',
+	'wm-license-licensing-update-text' => 'This licencing tag was added to this file as part of the GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licencing update]].',
+	'wm-license-self-one-license' => 'I, the copyright holder of this work, hereby publish it under the following licence:',
 	'wm-license-self-one-license-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licence:',
 	'wm-license-self-multiple-licenses' => 'I, the copyright holder of this work, hereby publish it under the following licences:',
 	'wm-license-self-multiple-licenses-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licences:',
