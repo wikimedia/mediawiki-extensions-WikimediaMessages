@@ -203,9 +203,22 @@ $messages['en'] = array(
 
 	# meta.wikimedia.org specific user group
 
+	'group-massmessage-sender'        => 'Massmessage senders',
+	'group-massmessage-sender-member' => '{{GENDER:$1|massmessage sender}}',
+	'grouppage-massmessage-sender'    => '{{ns:project}}:Massmessage senders', # only translate this message to other languages if you have to change it
+
+	'group-oauthadmin'        => 'OAuth administrators',
+	'group-oauthadmin-member' => '{{GENDER:$1|OAuth administrator}}',
+	'grouppage-oauthadmin'    => '{{ns:project}}:OAuth administrators', # only translate this message to other languages if you have to change it
+
 	'group-translationadmin'        => 'Translation administrators',
 	'group-translationadmin-member' => '{{GENDER:$1|translation administrator}}',
 	'grouppage-translationadmin'    => '{{ns:project}}:Translation administrators', # only translate this message to other languages if you have to change it
+
+	'group-zeroadmin'        => 'ZeroRatedMobileAccess administrators',
+	'group-zeroadmin-member' => '{{GENDER:$1|ZeroRatedMobileAccess administrator}}',
+	'grouppage-zeroadmin'    => '{{ns:project}}:ZeroRatedMobileAccess administrators', # only translate this message to other languages if you have to change it
+	'right-zero-edit'        => 'Edit pages in the Zero namespace',
 
 	# Bug 45270 due to https://gerrit.wikimedia.org/r/#/c/50196/
 	'group-centralnoticeadmin'        => 'Central notice administrators',
@@ -240,7 +253,7 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 
 	# Wikidata-specific messages
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage pages linked to this item',
-	'wikibase-sitelinks-commons' => 'Wikimedia Commons pages linked to this item',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons page linked to this item',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 
 	# Custom message for enwiki to stop from deleting the mainpage
@@ -515,9 +528,19 @@ A special user group on Wikimedia projects, used to give bot rights to some acco
 	'grouppage-recursive-export' => '{{optional}}
 {{doc-group|recursive-export|page}}
 {{Global grouppage}}',
+	'group-massmessage-sender'        => '{{doc-group|massmessage-sender}}',
+	'group-massmessage-sender-member' => '{{doc-group|massmessage-sender|member}}',
+	'grouppage-massmessage-sender'    => '{{doc-group|massmessage-sender|page}}',
+	'group-oauthadmin'        => '{{doc-group|oauthadmin}}',
+	'group-oauthadmin-member' => '{{doc-group|oauthadmin|member}}',
+	'grouppage-oauthadmin'    => '{{doc-group|oauthadmin|page}}',
 	'group-translationadmin' => '{{doc-group|translationadmin}}',
 	'group-translationadmin-member' => '{{doc-group|translationadmin|member}}',
 	'grouppage-translationadmin' => '{{doc-group|translationadmin|page}}',
+	'group-zeroadmin'        => '{{doc-group|zeroadmin}}',
+	'group-zeroadmin-member' => '{{doc-group|zeroadmin|member}}',
+	'grouppage-zeroadmin'    => '{{doc-group|zeroadmin|page}}',
+	'right-zero-edit'        => '{{doc-right|zero-edit}}',
 	'group-centralnoticeadmin' => '{{doc-group|centralnoticeadmin}}',
 	'group-centralnoticeadmin-member' => '{{doc-group|centralnoticeadmin|member}}',
 	'grouppage-centralnoticeadmin' => '{{doc-group|centralnoticeadmin|page}}',
