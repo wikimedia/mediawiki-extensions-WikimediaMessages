@@ -328,6 +328,7 @@ For additional information and instructions to legitimate users, see the [[m:Spe
  * @author Jon Harald Søby
  * @author Lloffiwr
  * @author Meno25
+ * @author Minh Nguyen
  * @author Mormegil
  * @author Nemo bis
  * @author Purodha
@@ -540,7 +541,9 @@ A special user group on Wikimedia projects, used to give bot rights to some acco
 	'group-zeroadmin' => '{{doc-group|zeroadmin}}',
 	'group-zeroadmin-member' => '{{doc-group|zeroadmin|member}}',
 	'grouppage-zeroadmin' => '{{doc-group|zeroadmin|page}}',
-	'right-zero-edit' => '{{doc-right|zero-edit}}',
+	'right-zero-edit' => '{{doc-right|zero-edit}}
+
+Per [[w:MediaZilla:57914|bug 57,914]], the Zero: namespace should not be translated. Please refer to it as “Zero” in your translation.',
 	'group-centralnoticeadmin' => '{{doc-group|centralnoticeadmin}}',
 	'group-centralnoticeadmin-member' => '{{doc-group|centralnoticeadmin|member}}',
 	'grouppage-centralnoticeadmin' => '{{doc-group|centralnoticeadmin|page}}',
@@ -1430,6 +1433,7 @@ $messages['as'] = array(
 
 /** Asturian (asturianu)
  * @author Esbardu
+ * @author Minh Nguyen
  * @author Nemo bis
  * @author Xuacu
  */
@@ -1563,7 +1567,7 @@ $messages['ast'] = array(
 	'group-zeroadmin' => 'Alministradores de ZeroRatedMobileAccess',
 	'group-zeroadmin-member' => '{{GENDER:$1|Alministrador de ZeroRatedMobileAccess|Alministradora de ZeroRatedMobileAccess}}',
 	'grouppage-zeroadmin' => '{{ns:project}}:Alministradores de ZeroRatedMobileAccess',
-	'right-zero-edit' => 'Editar páxines nel espaciu de nomes Cero',
+	'right-zero-edit' => 'Editar páxines nel espaciu de nomes Cero', # Fuzzy
 	'group-centralnoticeadmin' => "Alministradores d'avisu central",
 	'group-centralnoticeadmin-member' => "{{GENDER:$1|Alministrador d'avisu central|Alministradora d'avisu central}}",
 	'grouppage-centralnoticeadmin' => "{{ns:project}}:Alministradores d'avisu central",
@@ -3783,7 +3787,7 @@ $messages['de'] = array(
 	'group-zeroadmin' => 'Administratoren für kostenlosen mobilen Zugang',
 	'group-zeroadmin-member' => '{{GENDER:$1|Administrator für kostenlosen mobilen Zugang|Administratorin für kostenlosen mobilen Zugang}}',
 	'grouppage-zeroadmin' => '{{ns:project}}:Administratoren für kostenlosen mobilen Zugang',
-	'right-zero-edit' => 'Seiten im kostenlosen Namensraum bearbeiten',
+	'right-zero-edit' => 'Seiten im Zero-Namensraum bearbeiten',
 	'group-centralnoticeadmin' => 'Zentrale-Meldungen-Administratoren',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Zentrale-Meldungen-Administrator|Zentrale-Meldungen-Administratorin}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Zentrale-Meldungen-Administratoren',
@@ -3886,7 +3890,7 @@ $messages['diq'] = array(
 	'wikimediamessages-desc' => 'mesajê xususi yê wikimedyayi',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=diq',
 	'sitesupport' => 'Bèc',
-	'tooltip-n-sitesupport' => 'paşt bıde ma',
+	'tooltip-n-sitesupport' => 'Desteg ma dé',
 	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
 	'nstab-creator' => 'Vıraştoğ',
 	'nstab-institution' => 'Daire',
@@ -5332,6 +5336,7 @@ $messages['fo'] = array(
  * @author Kropotkine 113
  * @author Meno25
  * @author Metroitendo
+ * @author Minh Nguyen
  * @author Nemo bis
  * @author Peter17
  * @author PieRRoMaN
@@ -5478,7 +5483,7 @@ $messages['fr'] = array(
 	'group-zeroadmin' => 'Administrateurs de ZeroRatedMobileAccess',
 	'group-zeroadmin-member' => '{{GENDER:$1|administrateur|administratrice}} de ZeroRatedMobileAccess',
 	'grouppage-zeroadmin' => '{{ns:project}}:ZeroRatedMobileAccess administrators',
-	'right-zero-edit' => 'Modifier des pages dans l’espace de noms Zéro',
+	'right-zero-edit' => 'Modifier des pages dans l’espace de noms Zéro', # Fuzzy
 	'group-centralnoticeadmin' => 'Administrateurs des notifications centralisées',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrateur|Administratrice}} de notification centralisée',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administrateurs de notification centralisée',
@@ -12280,6 +12285,9 @@ $messages['pl'] = array(
 	'group-New_wikis_importer' => 'Importerzy nowych wiki',
 	'group-global-ipblock-exempt' => 'Globalnie uprawnieni do logowania się z zablokowanych adresów IP',
 	'group-global-ipblock-exempt-member' => 'globalnie {{GENDER:$1|uprawniony|uprawniona}} do logowania się z zablokowanych adresów IP',
+	'group-oauthadmin' => 'Administratorzy OAuth',
+	'group-oauthadmin-member' => '{{GENDER:$1|administrator|administratorka}} OAuth',
+	'grouppage-oauthadmin' => '{{ns:project}}:Administratorzy OAuth',
 	'group-translationadmin' => 'Administratorzy tłumaczeń',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator|administratorka}} tłumaczeń',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratorzy tłumaczeń',
@@ -13581,6 +13589,10 @@ $messages['ru'] = array(
 	'group-translationadmin' => 'Администраторы перевода',
 	'group-translationadmin-member' => '{{GENDER:$1|администратор перевода}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Администраторы перевода',
+	'group-zeroadmin' => 'Администраторы бесплатного мобильного доступа',
+	'group-zeroadmin-member' => '{{GENDER:$1|Администратор бесплатного мобильного доступа}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Администраторы бесплатного мобильного доступа',
+	'right-zero-edit' => 'Изменять страницы в пространстве имён Zero',
 	'group-centralnoticeadmin' => 'Администраторы централизованных объявлений',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|администратор централизованных объявлений}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Central notice administrators',
@@ -16708,7 +16720,7 @@ $messages['uk'] = array(
 	'group-zeroadmin' => 'Адміністратори ZeroRatedMobileAccess',
 	'group-zeroadmin-member' => '{{GENDER:$1|Адміністратор ZeroRatedMobileAccess|Адміністраторка ZeroRatedMobileAccess}}',
 	'grouppage-zeroadmin' => '{{ns:project}}: Адміністратори ZeroRatedMobileAccess',
-	'right-zero-edit' => 'Редагувати сторінки в нульовому просторі імен',
+	'right-zero-edit' => 'Редагувати сторінки в просторі імен Zero',
 	'group-centralnoticeadmin' => 'Центральні адміністратори-оповісники',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Центральний адміністратор-оповісник}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Центральні адміністратори-оповісники',
@@ -17274,7 +17286,7 @@ $messages['vi'] = array(
 	'group-massmessage-sender-member' => '{{GENDER:$1}}người thông báo rộng rãi',
 	'grouppage-massmessage-sender' => '{{ns:project}}:Người thông báo rộng rãi',
 	'group-oauthadmin' => 'Người quản lý OAuth',
-	'group-oauthadmin-member' => '{{GENDER:$1}}Người quản lý OAuth',
+	'group-oauthadmin-member' => '{{GENDER:$1}}người quản lý OAuth',
 	'grouppage-oauthadmin' => '{{ns:project}}:Người quản lý OAuth',
 	'group-translationadmin' => 'Bảo quản viên bản dịch',
 	'group-translationadmin-member' => '{{GENDER:$1}}bảo quản viên bản dịch',
@@ -17282,7 +17294,7 @@ $messages['vi'] = array(
 	'group-zeroadmin' => 'Người quản lý Truy cập Di động Miễn phí',
 	'group-zeroadmin-member' => '{{GENDER:$1}}người quản lý Truy cập Di động Miễn phí',
 	'grouppage-zeroadmin' => '{{ns:project}}:Người quản lý Truy cập Di động Miễn phí',
-	'right-zero-edit' => 'Sửa đổi trang trong không gian tên Miễn phí',
+	'right-zero-edit' => 'Sửa đổi trang trong không gian tên Zero',
 	'group-centralnoticeadmin' => 'Quản lý viên thông báo chung',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1}}quản lý viên thông báo chung',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Quản lý viên thông báo chung',
@@ -17798,6 +17810,7 @@ $messages['zea'] = array(
  * @author KaiesTse
  * @author Liangent
  * @author Liuxinyu970226
+ * @author Minh Nguyen
  * @author Nemo bis
  * @author PhiLiP
  * @author Qiyue2001
@@ -17935,7 +17948,10 @@ $messages['zh-hans'] = array(
 	'group-translationadmin' => '翻译管理员',
 	'group-translationadmin-member' => '{{GENDER:$1|翻译管理员}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻译管理员',
-	'right-zero-edit' => '在零名字空间中编辑页面',
+	'group-zeroadmin' => '零流量移动访问功能管理员',
+	'group-zeroadmin-member' => '{{GENDER:$1|零流量移动访问功能管理员}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:零流量移动访问功能管理员',
+	'right-zero-edit' => '在零名字空间中编辑页面', # Fuzzy
 	'group-centralnoticeadmin' => '中央通知管理员',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理员}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:中央通知管理员',
@@ -17995,6 +18011,7 @@ $messages['zh-hans'] = array(
  * @author Liangent
  * @author Liuxinyu970226
  * @author Mark85296341
+ * @author Minh Nguyen
  * @author Nemo bis
  * @author Shirayuki
  * @author Simon Shek
@@ -18131,7 +18148,7 @@ $messages['zh-hant'] = array(
 	'group-translationadmin' => '翻譯管理員',
 	'group-translationadmin-member' => '{{GENDER:$1|翻譯管理員}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻譯管理員',
-	'right-zero-edit' => '於零名字空間之頁面編輯',
+	'right-zero-edit' => '於零名字空間之頁面編輯', # Fuzzy
 	'group-centralnoticeadmin' => '中央通知管理員',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理員}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:中央通知管理員',
