@@ -643,8 +643,8 @@ $messages['ab'] = array(
 $messages['ace'] = array(
 	'sitesupport' => 'Meuripè',
 	'tooltip-n-sitesupport' => 'Dukông kamoë',
-	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], ngön droëneuh ngön h\'an jeuët neupubateuë lé, akô keu neupeuteubiët teunuléh droëneuh di yup [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Lisensi] ngön [https://www.gnu.org/copyleft/fdl.html GFDL].
-Droëneuh akô meunyö hyperlink atawa URL nakeuh neuhubông nyang sép di yup lisensi Creative Commons.',
+	'wikimedia-copyrightwarning' => 'Ngön neuteugön "{{int:savearticle}}", droëneuh akô ngön [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], ngön droëneuh akô keu neupeuteubiët teunuléhneuh di yup [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC BY-SA 3.0] ngön [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+Droëneuh akô meunyö hyperlink atawa URL nakeuh atribusi nyang sép di yup lisensi Creative Commons.',
 );
 
 /** Afrikaans (Afrikaans)
@@ -2492,7 +2492,7 @@ $messages['bn'] = array(
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [https://www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
 	'wikibase-sitelinks-wikivoyage' => 'এই আইটেমটির সাথে সংযুক্ত উইকিভ্রমণের পাতা',
-	'wikibase-sitelinks-commons' => 'এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা',
+	'wikibase-sitelinks-commons' => 'এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'কমন্স',
 	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিস্তম্ভের আরও চিত্র আপলোড করুন',
@@ -2914,7 +2914,7 @@ Vegeu les <a href="https://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs">
 	'wikimedia-copyrightwarning' => 'Fent clic al botó de "{{int:savearticle}}" esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d\'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Accepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Pàgines de Viquiviatges vinculades a aquest element',
-	'wikibase-sitelinks-commons' => 'Pàgines de Wikimedia Commons vinculades a aquest element',
+	'wikibase-sitelinks-commons' => 'Pàgines de Wikimedia Commons vinculades a aquest element', # Fuzzy
 	'cant-delete-main-page' => 'No podeu esborrar ni traslladar la portada.',
 	'upload-more-photos-of-this-monument' => "Carrega més fotos d'aquest monument",
 	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'usuari",
@@ -2969,6 +2969,7 @@ $messages['ce'] = array(
 	'group-editinterface' => 'Интерфейсан тадархой',
 	'group-steward' => 'Стюардхой',
 	'group-sysadmin' => 'Системин куьйгалхой',
+	'group-oauthadmin-member' => '{{GENDER:$1|Куьйгалхо OAuth}}',
 	'shared-repo-name-shared' => 'Викигулам',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш Ӏалашбеш, хьан пурбанца уьш чутохар юха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тӀаьхь болу агӀо лелош, хьуна тӀе хьажораг йийра ю, оцу лаккхар хьажорагех я URL, йогӀучу агӀон тӀе.
@@ -3253,7 +3254,7 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikivoyage provázané s touto položkou',
-	'wikibase-sitelinks-commons' => 'Stránky Wikimedia Commons provázané s touto položkou',
+	'wikibase-sitelinks-commons' => 'Stránky Wikimedia Commons provázané s touto položkou', # Fuzzy
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
 	'upload-more-photos-of-this-monument' => 'Načíst další fotografie této památky',
@@ -3267,7 +3268,7 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/cs',
 );
 
-/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author Nemo bis
  * @author ОйЛ
  */
@@ -3423,7 +3424,7 @@ Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Term
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
 	'wikibase-sitelinks-wikivoyage' => "Tudalennau Wicidaith sy'n cysylltu a'r eitem hon",
-	'wikibase-sitelinks-commons' => "Tudalennau ar Gomin Wikimedia sydd wedi eu cysylltu â'r eitem hon",
+	'wikibase-sitelinks-commons' => "Tudalennau ar Gomin Wikimedia sydd wedi eu cysylltu â'r eitem hon", # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Y Comin',
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
@@ -3937,7 +3938,7 @@ $messages['diq'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Nustekaranê pelanê ke kilit biyo',
 	'group-eliminator' => 'Bestereni',
 	'group-eliminator-member' => '{{GENDER:$1|besterner}}',
-	'grouppage-eliminator' => '{{ns:project}}:besterner', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:besterner',
 	'group-filemover' => 'Berdoxê dosyayi',
 	'group-filemover-member' => '{{GENDER:$1|Dosya berdkar}}',
 	'grouppage-filemover' => '{{ns:project}}:Hewadarê Dosya',
@@ -3968,9 +3969,12 @@ $messages['diq'] = array(
 	'group-transwiki' => 'kırıştoxê zerrekerdışi ye benateyê wikiyani',
 	'group-transwiki-member' => '{{GENDER:$1|wiki ra wiki berder}}',
 	'grouppage-transwiki' => '{{ns:project}}:kırıştoxê zerrekerdışi yê benateyê wikiyani',
+	'group-templateeditor' => 'Şablon vırazoğ',
+	'group-templateeditor-member' => '{{GENDER:$1|Şablon vırazoğ}}',
 	'group-trusted' => 'Karbero emin',
 	'group-trusted-member' => '{{GENDER:$1|karbero emin}}',
 	'grouppage-trusted' => '{{ns:project}}:Karbero emin',
+	'group-uploader' => 'Barkerderi',
 	'group-Global_bot' => 'botê globali',
 	'group-Global_bot-member' => '{{GENDER:$1|boto global}}',
 	'group-Global_rollback' => 'açarnayoxê globali',
@@ -4008,6 +4012,7 @@ $messages['diq'] = array(
 	'wikimedia-copyright' => 'nuşte, bınê ıney <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/lisansê share-Alikeyi</a> de yo; şertê bini tetbiq beni. qey teferru\'ati bıewnê <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">şertê karkerdışi</a>na.',
 	'wikimedia-copyrightwarning' => "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] qebul kenê, u şıma iştıraqê xoyo ke bınê [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] u  [https://www.gnu.org/copyleft/fdl.html GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.
 Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, qebul kenê.",
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
 	'upload-more-photos-of-this-monument' => 'Na zıyarık  ra zewbi fotrafi barkerê',
@@ -4306,7 +4311,7 @@ $messages['el'] = array(
 	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "{{int:wikibase-save}}", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].',
 	'wikimedia-copyrightwarning' => 'Κάνοντας κλικ στο κουμπί"{{int:savearticle}}", συμφωνείτε με  τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε ότι ένας υπερσύνδεσμος ή URL είναι αρκετή απόδοση αναφοράς υπό της άδεια Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από Βικιταξίδια συνδεδεμένοι με το αντικείμενο',
-	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο',
+	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
@@ -4637,7 +4642,7 @@ Véanse los <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/es" title
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.', # Fuzzy
 	'wikibase-sitelinks-wikivoyage' => 'Páginas de Wikiviajes con enlaces hacia este elemento',
-	'wikibase-sitelinks-commons' => 'Páginas de Wikimedia Commons con enlaces hacia este elemento',
+	'wikibase-sitelinks-commons' => 'Páginas de Wikimedia Commons con enlaces hacia este elemento', # Fuzzy
 	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].',
 	'upload-more-photos-of-this-monument' => 'Subir más fotos de este monumento',
@@ -5096,7 +5101,7 @@ $messages['fa'] = array(
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
-	'wikibase-sitelinks-commons' => 'صفحه‌های ویکی‌انبار متصل‌شده به این آیتم.',
+	'wikibase-sitelinks-commons' => 'صفحه‌های ویکی‌انبار متصل‌شده به این آیتم.', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'ویکی‌انبار',
 	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
 	'wikimedia-translationnotifications-signup-legal' => 'شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید. شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما هستند.',
@@ -5288,7 +5293,7 @@ $messages['fi'] = array(
 	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "{{int:wikibase-save}}" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
 	'wikibase-sitelinks-wikivoyage' => 'Tähän kohteeseen linkitetyt Wikivoyage-sivut',
-	'wikibase-sitelinks-commons' => 'Tähän kohteeseen linkitetyt Wikimedia Commons -sivut',
+	'wikibase-sitelinks-commons' => 'Tähän kohteeseen linkitetyt Wikimedia Commons -sivut', # Fuzzy
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
 	'wikimedia-translationnotifications-signup-legal' => 'Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntömme] alainen.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
@@ -7960,7 +7965,7 @@ Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title=
 	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Pampanid ti Wikivoyage a naisilpo iti daytoy a banag',
-	'wikibase-sitelinks-commons' => 'Pampanid ti Wikimedia Commons a naisilpo iti daytoy a banag',
+	'wikibase-sitelinks-commons' => 'Pampanid ti Wikimedia Commons a naisilpo iti daytoy a banag', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
@@ -10645,7 +10650,7 @@ $messages['ml'] = array(
 	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [https://wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്ക് അല്ലെങ്കിൽ യൂ.ആർ.എൽ. മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'wikibase-sitelinks-wikivoyage' => 'ഈ ഇനവുമായി കണ്ണിചേർത്തിരിക്കുന്ന വിക്കിയാത്ര താളുകൾ',
-	'wikibase-sitelinks-commons' => 'ഈ ഇനവുമായി കണ്ണിചേർത്തിരിക്കുന്ന വിക്കിമീഡിയ കോമൺസ് താളുകൾ',
+	'wikibase-sitelinks-commons' => 'ഈ ഇനവുമായി കണ്ണിചേർത്തിരിക്കുന്ന വിക്കിമീഡിയ കോമൺസ് താളുകൾ', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'കോമൺസ്',
 	'cant-delete-main-page' => 'പ്രധാന താൾ മായ്ക്കാനോ മാറ്റാനോ താങ്കൾക്ക് കഴിയില്ല.',
 	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
@@ -11624,9 +11629,19 @@ $messages['nl'] = array(
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|uitgezonderde van globale IP-adresblokkades}}',
 	'group-recursive-export' => 'recursief exporteurs',
 	'group-recursive-export-member' => '{{GENDER:$1|recursief exporteur}}',
+	'group-massmessage-sender' => 'Bulkberichtverzenders',
+	'group-massmessage-sender-member' => '{{GENDER:$1|bulkberichtverzender}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}:Bulkberichtverzenders',
+	'group-oauthadmin' => 'OAuthbeheerders',
+	'group-oauthadmin-member' => '{{GENDER:$1|OAuthbeheerder}}',
+	'grouppage-oauthadmin' => '{{ns:project}}:OAuthbeheerders',
 	'group-translationadmin' => 'Vertalingenbeheerders',
 	'group-translationadmin-member' => '{{GENDER:$1|vertalingenbeheerder}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Vertalingenbeheerders',
+	'group-zeroadmin' => 'Zerobeheerders',
+	'group-zeroadmin-member' => '{{GENDER:$1|Zerobeheerder}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Zerobeheerders',
+	'right-zero-edit' => "Pagina's bewerken in de naamruimte Zero",
 	'group-centralnoticeadmin' => 'Beheerders van centralnotice',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|centralnoticebeheerder}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Centralnoticebeheerders',
@@ -11647,6 +11662,7 @@ Zie <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia
 	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'wikibase-sitelinks-wikivoyage' => "Pagina's op Wikivoyage die gekoppeld zijn aan dit item",
+	'wikibase-sitelinks-commons' => 'Pagina op Wikimedia Commons die is gekoppeld aan dit item',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'U kunt de hoofdpagina niet verwijderen of hernoemen.',
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
@@ -11671,6 +11687,22 @@ Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
 
 Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].
 U kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "<strong>Een proxyserver die is gebruikt voor uw verzoek is [[m:Special:MyLanguage/Global blocks|globaal geblokeerd]].</strong>
+
+De blokkade is uitgevoerd door $1 ($2).
+De opgegeven reden is <em>$3</em>.
+
+* Aanvang blokkade: $4
+* Einde blokkade: $5
+
+Uw huidige IP-adres is $6.
+Vermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.
+
+Als u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].
+U kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => "Uw IP-adres <strong>$1</strong> is automatisch geidentificeerd als een Tor exitnode.
+Bewerken via Tor is niet mogelijk om misbruik te voorkomen.
+Voor aanvullende informatie en instructies voor legitieme gebruikers kunt u het globale beleid [[m:Special:MyLanguage/No open proxies|Geen open proxy's]] raadplegen.",
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/nl',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacybeleid Privacybeleid]',
 );
@@ -13247,7 +13279,7 @@ Vedeți detalii la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">T
 	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Paginile Wikivoyage au trimis către acest element',
-	'wikibase-sitelinks-commons' => 'Paginile Wikimedia Commons au trimis către acest element',
+	'wikibase-sitelinks-commons' => 'Paginile Wikimedia Commons au trimis către acest element', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
@@ -13401,7 +13433,7 @@ termine addizionale ponne essere applicate.
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [https://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pàggene de Uicchivoyage collegate a sta vôsce',
-	'wikibase-sitelinks-commons' => 'Le pàggene Uicchimedia Commons ca sò collegate a sta vôsce',
+	'wikibase-sitelinks-commons' => 'Le pàggene Uicchimedia Commons ca sò collegate a sta vôsce', # Fuzzy
 	'cant-delete-main-page' => "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	'wikimedia-translationnotifications-signup-legal' => "Tu sì d'accorde ca danne a Wikimedia Foundation ste 'mbormaziune nuje te putime condattà riguarde a le traduziune o a otre argomende collegate a le movimende de Uicchimedia ca penzeme ca ponne essere inderessande pe tè. Tu sì d'accorde ca le date tune ponne essere stipate jndr'à le State Aunìte d'Americhe e so suggette a le nostre [https://wikimediafoundation.org/wiki/Privacy_policy regole d'a privacy].",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
@@ -15316,7 +15348,7 @@ Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia 
 	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
-	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sidor som är länkade till det här objektet',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sidor som är länkade till det här objektet', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterar genom att tillhandahålla denna information till Wikimedia Foundation att vi får kontakta dig om översättningar eller andra ämnen relaterade till Wikimediarörelsen vi tror kan intressera dig. Du accepterar att din data kan sparas i USA och accepterar våra [https://wikimediafoundation.org/wiki/Privacy_policy integritetspolicy].',
@@ -16287,7 +16319,7 @@ $messages['tr'] = array(
 	'wikimedia-copyright' => 'Metin <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Kullanım Koşulları</a>na bakınız.',
 	'wikimedia-copyrightwarning' => 'Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [https://wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.', # Fuzzy
 	'wikibase-sitelinks-wikivoyage' => 'Bu ögeye bağlı Vikigezi sayfaları',
-	'wikibase-sitelinks-commons' => 'Bu ögeye bağlı Wikimedia Commons sayfaları',
+	'wikibase-sitelinks-commons' => 'Bu ögeye bağlı Wikimedia Commons sayfaları', # Fuzzy
 	'cant-delete-main-page' => 'Silemez veya ana sayfaya taşıyamazsın.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kullanıcı_adı_politikası',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]',
@@ -18158,6 +18190,9 @@ $messages['zh-hant'] = array(
 	'group-translationadmin' => '翻譯管理員',
 	'group-translationadmin-member' => '{{GENDER:$1|翻譯管理員}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻譯管理員',
+	'group-zeroadmin' => '零流量移動連接管理員',
+	'group-zeroadmin-member' => '{{GENDER:$1|零流量移動連接管理員}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:零流量移動連接管理員',
 	'right-zero-edit' => '於Zero名字空間之頁面編輯',
 	'group-centralnoticeadmin' => '中央通知管理員',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理員}}',

@@ -2923,7 +2923,7 @@ $messages['cs'] = array(
 	'wm-license-cc-pd-mark-text' => 'Bylo zjištěno, že u tohoto souboru nejsou známa žádná omezení daná autorským právem a právy s ním souvisejícími.',
 );
 
-/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
