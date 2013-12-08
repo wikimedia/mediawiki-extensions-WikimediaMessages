@@ -301,6 +301,13 @@ $messages['sv'] = array(
 	'wikimediamessages-desc' => 'Wikimediaspecifika tillfälliga meddelanden',
 );
 
+/** Turkish (Türkçe)
+ * @author Joseph
+ */
+$messages['tr'] = array(
+	'wikimediamessages-desc' => "Wikimedia'ya özgü geçici iletiler",
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  * @author Base

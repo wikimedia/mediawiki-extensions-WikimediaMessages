@@ -12297,6 +12297,7 @@ $messages['pl'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Importerzy transwiki',
 	'group-templateeditor' => 'Redaktorzy szablonów',
 	'group-templateeditor-member' => '{{GENDER:$1|redaktor|redaktorka}} szablonów',
+	'grouppage-templateeditor' => '{{ns:project}}:Redaktorzy szablonów',
 	'group-trusted' => 'Zaufani użytkownicy',
 	'group-trusted-member' => '{{GENDER:$1|zaufany użytkownik|zaufana użytkowniczka}}',
 	'grouppage-trusted' => '{{ns:project}}:Zaufani użytkownicy',
