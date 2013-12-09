@@ -3571,6 +3571,12 @@ $messages['da'] = array(
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|IP-blokeringsundtagelse}}',
 	'group-recursive-export' => 'Rekursiv eksport',
 	'group-recursive-export-member' => '{{GENDER:$1|rekursiv eksportør}}',
+	'group-massmessage-sender' => 'Massebeskedsafsendere',
+	'group-massmessage-sender-member' => '{{GENDER:$1|massebeskedsafsender}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}:Massebeskedsafsendere',
+	'group-oauthadmin' => 'OAuth administratorer',
+	'group-oauthadmin-member' => '{{GENDER:$1|OAuth administrator}}',
+	'grouppage-oauthadmin' => '{{ns:project}}:OAuth administratorer',
 	'group-translationadmin' => 'Oversættelsesadministratorer',
 	'group-translationadmin-member' => '{{GENDER:$1|oversættelsesadministrator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Oversættelsesadministratorer',
@@ -3632,6 +3638,7 @@ Ellers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning 
 	'wikimedia-torblock-blocked' => 'Din IP-adresse, <strong>$1</strong>, er automatisk identificeret som en Tor exit node.
 Redigering via Tor er blokeret for at forhindre misbrug.
 Yderligere oplysninger og vejledning til legitime brugere, se den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Behandling af personlige oplysninger]',
 );
 
 /** German (Deutsch)
@@ -4876,7 +4883,7 @@ $messages['eu'] = array(
 	'group-flood-member' => '{{GENDER:$1|bot erabiltzailea}}',
 	'grouppage-flood' => '{{ns:project}}:Bot lankideak',
 	'group-founder' => 'Fundatzaileak',
-	'group-founder-member' => '{{GENDER:$1|undatzailea}}',
+	'group-founder-member' => '{{GENDER:$1|fundatzailea}}',
 	'grouppage-founder' => '{{ns:project}}:Fundatzaileak',
 	'group-import' => 'Inportatzaileak',
 	'group-import-member' => '{{GENDER:$1|inportatzailea}}',
@@ -12328,6 +12335,7 @@ $messages['pl'] = array(
 	'group-New_wikis_importer' => 'Importerzy nowych wiki',
 	'group-global-ipblock-exempt' => 'Globalnie uprawnieni do logowania się z zablokowanych adresów IP',
 	'group-global-ipblock-exempt-member' => 'globalnie {{GENDER:$1|uprawniony|uprawniona}} do logowania się z zablokowanych adresów IP',
+	'group-massmessage-sender' => 'Użytkownicy wysyłający masowe wiadomości',
 	'group-oauthadmin' => 'Administratorzy OAuth',
 	'group-oauthadmin-member' => '{{GENDER:$1|administrator|administratorka}} OAuth',
 	'grouppage-oauthadmin' => '{{ns:project}}:Administratorzy OAuth',
