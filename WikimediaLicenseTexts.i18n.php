@@ -1755,6 +1755,7 @@ $messages['ce'] = array(
 	'wm-license-artwork-title' => 'ЦӀе',
 	'wm-license-artwork-notes' => 'Билгалдаккхар',
 	'wm-license-artwork-source' => 'Хьост/суьрташдохург',
+	'wm-license-book-editor' => 'Тадархо',
 	'wm-license-book-language' => 'Мотт',
 	'wm-license-book-page-overview' => 'АгӀоне хьажар',
 	'wm-license-book-series-title' => 'Серин цӀе',
