@@ -265,8 +265,10 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 	'upload-more-photos-of-this-monument' => 'Upload more photos of this monument',
 
 	# Extension distributor messages for mediawiki.org
+	# Keep in sync with $wgExtDistSnapshotRefs in CommonSettings.php
 	'extdist-branch-master' => 'master (latest development version)',
-	'extdist-branch-REL1_21' => '1.21 (latest stable MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (latest stable MediaWiki)',
+	'extdist-branch-REL1_21' => '1.21',
 	'extdist-branch-REL1_20' => '1.20',
 	'extdist-branch-REL1_19' => '1.19',
 
