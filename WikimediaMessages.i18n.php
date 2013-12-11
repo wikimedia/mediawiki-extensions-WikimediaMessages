@@ -1433,6 +1433,7 @@ $messages['as'] = array(
 
 /** Asturian (asturianu)
  * @author Esbardu
+ * @author Fitoschido
  * @author Minh Nguyen
  * @author Nemo bis
  * @author Xuacu
@@ -1567,7 +1568,7 @@ $messages['ast'] = array(
 	'group-zeroadmin' => 'Alministradores de Zero',
 	'group-zeroadmin-member' => '{{GENDER:$1|Alministrador de Zero|Alministradora de Zero}}',
 	'grouppage-zeroadmin' => '{{ns:project}}:Alministradores de Zero',
-	'right-zero-edit' => 'Editar páxines nel espaciu de nomes Cero', # Fuzzy
+	'right-zero-edit' => 'Editar páxines nel espaciu de nomes Zero',
 	'group-centralnoticeadmin' => "Alministradores d'avisu central",
 	'group-centralnoticeadmin-member' => "{{GENDER:$1|Alministrador d'avisu central|Alministradora d'avisu central}}",
 	'grouppage-centralnoticeadmin' => "{{ns:project}}:Alministradores d'avisu central",
@@ -2066,6 +2067,7 @@ $messages['be'] = array(
  * @author EugeneZelenko
  * @author Jim-by
  * @author Red Winged Duck
+ * @author Renessaince
  * @author Wizardist
  * @author Zedlik
  */
@@ -2200,6 +2202,7 @@ $messages['be-tarask'] = array(
 	'wikidata-shortcopyrightwarning' => 'Пстрыкнуўшы «{{int:wikibase-save}}», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].',
 	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Сьпіс старонак Віківандроўкі, што спасылаюцца на гэты аб’ект',
+	'wikibase-sitelinks-commons' => 'Старонка ВікіСховішча, далучаная да гэтага аб’екту',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
@@ -3597,7 +3600,7 @@ Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia 
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du indvilliger i uigenkaldeligt at udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.da CC BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyagesider knyttet til dette emne',
-	'wikibase-sitelinks-commons' => 'Wikimedia Commons sider knyttet til dette emne', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons side knyttet til dette emne',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte forsiden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Privacy_policy fortrolighedspolitik].',
@@ -3792,9 +3795,9 @@ $messages['de'] = array(
 	'group-translationadmin' => 'Übersetzungsadministratoren',
 	'group-translationadmin-member' => '{{GENDER:$1|Übersetzungsadministrator|Übersetzungsadministratorin}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Übersetzungsadministratoren',
-	'group-zeroadmin' => 'Administratoren für kostenlosen mobilen Zugang',
-	'group-zeroadmin-member' => '{{GENDER:$1|Administrator für kostenlosen mobilen Zugang|Administratorin für kostenlosen mobilen Zugang}}',
-	'grouppage-zeroadmin' => '{{ns:project}}:Administratoren für kostenlosen mobilen Zugang',
+	'group-zeroadmin' => 'Zero-Administratoren',
+	'group-zeroadmin-member' => '{{GENDER:$1|Zero-Administrator|Zero-Administratorin}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Zero-Administratoren',
 	'right-zero-edit' => 'Seiten im Zero-Namensraum bearbeiten',
 	'group-centralnoticeadmin' => 'Zentrale-Meldungen-Administratoren',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Zentrale-Meldungen-Administrator|Zentrale-Meldungen-Administratorin}}',
@@ -4333,9 +4336,10 @@ $messages['el'] = array(
 );
 
 /** Emiliano-Romagnolo (emiliàn e rumagnòl)
+ * @author Lévi
  */
 $messages['eml'] = array(
-	'sitesupport' => 'Donaziòun',
+	'sitesupport' => 'Dunasiòun',
 );
 
 /** British English (British English)
@@ -4632,6 +4636,7 @@ $messages['es'] = array(
 	'group-translationadmin' => 'Administradores de traducción',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador|administradora}} de traducción',
 	'grouppage-translationadmin' => '{{ns:project}}:Administradores de traducción',
+	'right-zero-edit' => 'Editar páginas en el espacio de nombres Zero',
 	'group-coder' => 'Programadores',
 	'group-coder-member' => '{{GENDER:$1|programador|programadora}}',
 	'group-inactive' => 'Usuarios inactivos',
@@ -5350,6 +5355,8 @@ $messages['fo'] = array(
  * @author Metroitendo
  * @author Minh Nguyen
  * @author Nemo bis
+ * @author Nobody
+ * @author Orlodrim
  * @author Peter17
  * @author PieRRoMaN
  * @author Quentinv57
@@ -5492,9 +5499,9 @@ $messages['fr'] = array(
 	'group-translationadmin' => 'Administrateurs de traduction',
 	'group-translationadmin-member' => 'administrat{{GENDER:$1|eur|rice}} de traduction',
 	'grouppage-translationadmin' => '{{ns:project}}:Administrateurs des traductions',
-	'group-zeroadmin' => 'Administrateurs de Zero',
+	'group-zeroadmin' => 'Aucun administrateur',
 	'group-zeroadmin-member' => '{{GENDER:$1|administrateur|administratrice}} de Zero',
-	'grouppage-zeroadmin' => '{{ns:project}}:Zero administrators',
+	'grouppage-zeroadmin' => '{{ns:project}}:Aucun administrateur',
 	'right-zero-edit' => 'Modifier des pages dans l’espace de noms Zéro',
 	'group-centralnoticeadmin' => 'Administrateurs des notifications centralisées',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrateur|Administratrice}} de notification centralisée',
@@ -5515,7 +5522,7 @@ Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Con
 	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [https://wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [https://www.gnu.org/copyleft/fdl.html GFDL].
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
-	'wikibase-sitelinks-commons' => 'Page de Wikimedia Communs liées à cet élément',
+	'wikibase-sitelinks-commons' => 'Page de Wikimedia Commons liée à cet élément',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Communs',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
@@ -6806,7 +6813,7 @@ $messages['he'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} תרגום',
 	'grouppage-translationadmin' => '{{ns:project}}:מנהלי תרגום',
 	'group-zeroadmin' => 'מנהלי Zero',
-	'group-zeroadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} Zero',
+	'group-zeroadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} Zero', # Fuzzy
 	'grouppage-zeroadmin' => '{{ns:project}}:מנהלי Zero',
 	'right-zero-edit' => 'עריכת דפים במרחב Zero',
 	'group-centralnoticeadmin' => 'מנהלי הודעה מרכזית',
@@ -8465,7 +8472,7 @@ $messages['ja'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|翻訳管理者}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻訳管理者',
 	'group-zeroadmin' => 'Zero 管理者',
-	'group-zeroadmin-member' => '{{GENDER:$1|Zero 管理者}}',
+	'group-zeroadmin-member' => '{{GENDER:$1|Zero 管理者}}', # Fuzzy
 	'grouppage-zeroadmin' => '{{ns:project}}:Zero 管理者',
 	'right-zero-edit' => 'Zero 名前空間内のページを編集',
 	'group-centralnoticeadmin' => '中央管理通知管理者',
@@ -10438,9 +10445,9 @@ $messages['mk'] = array(
 	'group-translationadmin' => 'Преводни администратори',
 	'group-translationadmin-member' => '{{GENDER:$1|преводен администратор}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Преводни администратори',
-	'group-zeroadmin' => 'Администратори на бесплатен мобилен пристап',
-	'group-zeroadmin-member' => '{{GENDER:$1|Администратор на бесплатен мобилен пристап}}',
-	'grouppage-zeroadmin' => '{{ns:project}}:Администратори на бесплатен мобилен пристап',
+	'group-zeroadmin' => 'Администратори на бесплатен мобилен пристап', # Fuzzy
+	'group-zeroadmin-member' => '{{GENDER:$1|Администратор на бесплатен мобилен пристап}}', # Fuzzy
+	'grouppage-zeroadmin' => '{{ns:project}}:Администратори на бесплатен мобилен пристап', # Fuzzy
 	'right-zero-edit' => 'Уредување на страници во именски простор Zero',
 	'group-centralnoticeadmin' => 'Администратори на централен разглас',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Администратор на Централен разглас}}',
@@ -12503,7 +12510,13 @@ $messages['pms'] = array(
 	'group-translationadmin' => 'Aministrator ëd tradussion',
 	'group-translationadmin-member' => '{{GENDER:$1|aministrator ëd tradussion}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Aministrator ëd tradussion',
-	'group-zeroadmin' => 'Aministrator ëd ZeroRatedMobileAccess',
+	'group-zeroadmin' => 'Aministrator ëd Zero',
+	'group-zeroadmin-member' => '{{GENDER:$1|aministrator|aministratris}} ëd Zero',
+	'grouppage-zeroadmin' => '{{ns:project}}:aministrator ëd Zero',
+	'right-zero-edit' => 'Modifiché dle pàgine ant lë spassi nominal Zero',
+	'group-centralnoticeadmin' => 'Aministrator dle notìfiche sentralisà',
+	'group-centralnoticeadmin-member' => '{{GENDER:$1|aministrator|aministratris}} ëd notìfica sentralisà',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Aministrator ëd notìfica sentralisà',
 	'group-coder' => 'Codificator',
 	'group-coder-member' => '{{GENDER:$1|codificator}}',
 	'group-inactive' => 'Utent inativ',
@@ -12512,6 +12525,11 @@ $messages['pms'] = array(
 	'wikimedia-copyright' => 'Ël test a l\'é disponìbil sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/">licensa Creative Commons atribussion-partagi ugual</a>;
 a podrìo aplichesse d\'àutre condission.
 Ch\'a vëdda le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Condission d\'usagi</a> për ij detaj.',
+	'wikidata-copyright' => 'Tuti ij dàit struturà da jë spassi nominaj prinsipal e propietà a son disponìbij sota la <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definission ëd la licensa Creative Commons CC0">licensa Creative Commons CC0</a>;
+ël test ant j\'àutri spassi nominaj a l\'é disponìbil sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definission ëd la licensa Creative Commons Attribution/Share-Alike License">licensa Creative Commons Attribution/Share-Alike</a>;
+dle condission adissionaj a peulo aplichesse.
+Ch\'a vëdda le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Condission d\'utilisassion ëd la fondassion Wikimedia">Condission d\'utilisassion</a> për ij detaj.',
+	'wikidata-shortcopyrightwarning' => 'An sgnacand su "{{int:wikibase-save}}", chiel a aceta le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d\'usagi], e a aceta ëd fasson irevocàbil d\'arlassé soa contribussion sota la [https://creativecommons.org/publicdomain/zero/1.0/ licensa CC0].',
 	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [https://creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
@@ -12721,6 +12739,7 @@ $messages['ps'] = array(
  * @author Raylton P. Sousa
  * @author SandroHc
  * @author Sir Lestaty de Lioncourt
+ * @author Vitorvicentevalente
  * @author Waldir
  * @author 555
  */
@@ -12844,6 +12863,8 @@ pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
 	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", aceita as [https://wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso] e concorda de forma irrevogável em publicar as suas contribuições com as licenças [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que um link ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.',
+	'wikibase-sitelinks-wikivoyage' => 'Páginas no Wikivoyage com ligação a este elemento',
+	'wikibase-sitelinks-commons' => 'Páginas no Wikimedia Commons com ligação a este elemento',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
 	'wikimedia-developers' => 'Desenvolvedores',
 );
@@ -13653,9 +13674,9 @@ $messages['ru'] = array(
 	'group-translationadmin' => 'Администраторы перевода',
 	'group-translationadmin-member' => '{{GENDER:$1|администратор перевода}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Администраторы перевода',
-	'group-zeroadmin' => 'Администраторы бесплатного мобильного доступа',
-	'group-zeroadmin-member' => '{{GENDER:$1|Администратор бесплатного мобильного доступа}}',
-	'grouppage-zeroadmin' => '{{ns:project}}:Администраторы бесплатного мобильного доступа',
+	'group-zeroadmin' => 'Администраторы бесплатного мобильного доступа', # Fuzzy
+	'group-zeroadmin-member' => '{{GENDER:$1|Администратор бесплатного мобильного доступа}}', # Fuzzy
+	'grouppage-zeroadmin' => '{{ns:project}}:Администраторы бесплатного мобильного доступа', # Fuzzy
 	'right-zero-edit' => 'Изменять страницы в пространстве имён Zero',
 	'group-centralnoticeadmin' => 'Администраторы централизованных объявлений',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|администратор централизованных объявлений}}',
@@ -17355,9 +17376,9 @@ $messages['vi'] = array(
 	'group-translationadmin' => 'Bảo quản viên bản dịch',
 	'group-translationadmin-member' => '{{GENDER:$1}}bảo quản viên bản dịch',
 	'grouppage-translationadmin' => '{{ns:project}}:Bảo quản viên bản dịch',
-	'group-zeroadmin' => 'Người quản lý Truy cập Di động Miễn phí',
-	'group-zeroadmin-member' => '{{GENDER:$1}}người quản lý Truy cập Di động Miễn phí',
-	'grouppage-zeroadmin' => '{{ns:project}}:Người quản lý Truy cập Di động Miễn phí',
+	'group-zeroadmin' => 'Người quản lý Truy cập Di động Miễn phí', # Fuzzy
+	'group-zeroadmin-member' => '{{GENDER:$1}}người quản lý Truy cập Di động Miễn phí', # Fuzzy
+	'grouppage-zeroadmin' => '{{ns:project}}:Người quản lý Truy cập Di động Miễn phí', # Fuzzy
 	'right-zero-edit' => 'Sửa đổi trang trong không gian tên Zero',
 	'group-centralnoticeadmin' => 'Quản lý viên thông báo chung',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1}}quản lý viên thông báo chung',
@@ -18012,9 +18033,9 @@ $messages['zh-hans'] = array(
 	'group-translationadmin' => '翻译管理员',
 	'group-translationadmin-member' => '{{GENDER:$1|翻译管理员}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻译管理员',
-	'group-zeroadmin' => '零流量移动访问功能管理员',
-	'group-zeroadmin-member' => '{{GENDER:$1|零流量移动访问功能管理员}}',
-	'grouppage-zeroadmin' => '{{ns:project}}:零流量移动访问功能管理员',
+	'group-zeroadmin' => '零管理员',
+	'group-zeroadmin-member' => '{{GENDER:$1|零管理员}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:零管理员',
 	'right-zero-edit' => '在Zero名字空间中编辑页面',
 	'group-centralnoticeadmin' => '中央通知管理员',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理员}}',
@@ -18212,9 +18233,9 @@ $messages['zh-hant'] = array(
 	'group-translationadmin' => '翻譯管理員',
 	'group-translationadmin-member' => '{{GENDER:$1|翻譯管理員}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻譯管理員',
-	'group-zeroadmin' => '零流量移動連接管理員',
-	'group-zeroadmin-member' => '{{GENDER:$1|零流量移動連接管理員}}',
-	'grouppage-zeroadmin' => '{{ns:project}}:零流量移動連接管理員',
+	'group-zeroadmin' => '零管理員',
+	'group-zeroadmin-member' => '{{GENDER:$1|零管理員}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:零管理員',
 	'right-zero-edit' => '於Zero名字空間之頁面編輯',
 	'group-centralnoticeadmin' => '中央通知管理員',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|中央通知管理員}}',
