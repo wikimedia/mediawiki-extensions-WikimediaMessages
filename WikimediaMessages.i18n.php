@@ -2202,7 +2202,7 @@ $messages['be-tarask'] = array(
 	'wikidata-shortcopyrightwarning' => 'Пстрыкнуўшы «{{int:wikibase-save}}», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].',
 	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Сьпіс старонак Віківандроўкі, што спасылаюцца на гэты аб’ект',
-	'wikibase-sitelinks-commons' => 'Старонка ВікіСховішча, далучаная да гэтага аб’екту',
+	'wikibase-sitelinks-commons' => 'Старонка Вікісховішча, далучаная да гэтага аб’екту',
 	'cant-delete-main-page' => 'Вы ня можаце выдаліць ці перанесьці галоўную старонку.',
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
@@ -5340,6 +5340,7 @@ $messages['fo'] = array(
 );
 
 /** French (français)
+ * @author Aude
  * @author Crochet.david
  * @author DavidL
  * @author Erkethan
@@ -5523,7 +5524,7 @@ Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Con
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
 	'wikibase-sitelinks-commons' => 'Page de Wikimedia Commons liée à cet élément',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Communs',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Vous ne pouvez pas supprimer ou déplacer la page principale.',
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
@@ -6813,7 +6814,7 @@ $messages['he'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} תרגום',
 	'grouppage-translationadmin' => '{{ns:project}}:מנהלי תרגום',
 	'group-zeroadmin' => 'מנהלי Zero',
-	'group-zeroadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} Zero', # Fuzzy
+	'group-zeroadmin-member' => '{{GENDER:$1|מנהל|מנהלת}} Zero',
 	'grouppage-zeroadmin' => '{{ns:project}}:מנהלי Zero',
 	'right-zero-edit' => 'עריכת דפים במרחב Zero',
 	'group-centralnoticeadmin' => 'מנהלי הודעה מרכזית',
@@ -10445,9 +10446,9 @@ $messages['mk'] = array(
 	'group-translationadmin' => 'Преводни администратори',
 	'group-translationadmin-member' => '{{GENDER:$1|преводен администратор}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Преводни администратори',
-	'group-zeroadmin' => 'Администратори на бесплатен мобилен пристап', # Fuzzy
-	'group-zeroadmin-member' => '{{GENDER:$1|Администратор на бесплатен мобилен пристап}}', # Fuzzy
-	'grouppage-zeroadmin' => '{{ns:project}}:Администратори на бесплатен мобилен пристап', # Fuzzy
+	'group-zeroadmin' => 'Администратори на бесплатен пристап',
+	'group-zeroadmin-member' => '{{GENDER:$1|Администратор на бесплатен пристап}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Администратори на бесплатен пристап',
 	'right-zero-edit' => 'Уредување на страници во именски простор Zero',
 	'group-centralnoticeadmin' => 'Администратори на централен разглас',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Администратор на Централен разглас}}',
@@ -12365,7 +12366,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'wikidata-shortcopyrightwarning' => 'Klikając "{{int:wikibase-save}}" zgadzasz się na [https://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] i nieodwołalnie zgadzasz się udostępniać swój wkład w ramach [https://creativecommons.org/publicdomain/zero/1.0/ Licencji CC0].',
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [https://wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
 	'wikibase-sitelinks-wikivoyage' => 'Strony Wikipodróży powiązane z tym elementem',
-	'wikibase-sitelinks-commons' => 'Strona Wikimedia Commons powiązana z tym elementem', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Strona Wikimedia Commons powiązana z tym elementem',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
 	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
@@ -12532,9 +12533,31 @@ Ch\'a vëdda le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" titl
 	'wikidata-shortcopyrightwarning' => 'An sgnacand su "{{int:wikibase-save}}", chiel a aceta le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d\'usagi], e a aceta ëd fasson irevocàbil d\'arlassé soa contribussion sota la [https://creativecommons.org/publicdomain/zero/1.0/ licensa CC0].',
 	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [https://creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
+	'wikibase-sitelinks-wikivoyage' => 'Pägine ëd Wikivoyage lijà a cost element',
+	'wikibase-sitelinks-commons' => 'Pàgine ëd Wikimedia Commons lijà a cost element',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Comun',
 	'cant-delete-main-page' => 'A peul pa scancelé o tramudé la pàgina prinsipal.',
 	'wikimedia-translationnotifications-signup-legal' => "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij dò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Privacy_policy régole ëd confidensialità].",
 	'upload-more-photos-of-this-monument' => "Carié pi 'd fòto d'ës monument",
+	'extdist-branch-master' => 'mèistr (ùltima version ëd dësvlup)',
+	'extdist-branch-REL1_21' => '1.21 (ùltim MediaWiki stàbil)',
+	'createacct-helpusername-url' => '{{ns:Project}}:Régole për jë stranòm',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(giuteme a serne)]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Ciamé un cont',
+	'createacct-imgcaptcha-help' => "A peul nen vëdde la plancia? [[{{MediaWiki:createacct-captcha-help-url}}|Cha ciama la creassion d'un cont]]",
+	'wikimedia-developers' => 'Dësvlupator',
+	'wikimedia-globalblocking-ipblocked' => "'''Soa adrëssa IP a l'é stàita [[m:Special:MyLanguage/Global blocks|blocà su tute le wiki]].'''
+
+Ël blocagi a l'é stàit fàit da $1 ($2).
+La rason dàita a l'é  ''$3''.
+
+* Inissi dël blocagi: $4
+* Fin dël blocagi: $5
+
+Soa adrëssa IP atual a l'é $6.
+Për piasìm ch'a ancluda titi ij detaj sì-dzora an qualsëssìa arcesta ch'a fà.
+S'a chërd ch'a l'é stàit blocà për eror, a peul trové d'àutre anformassion e anstrussion ant le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandant duvert]].
+Dësnò, për discute dël blocagi për piasì [[m:Steward requests/Global|ch'a manda n'arcesta ëd revision su Meta-Wiki]].",
 );
 
 /** Western Punjabi (پنجابی)
@@ -13674,9 +13697,9 @@ $messages['ru'] = array(
 	'group-translationadmin' => 'Администраторы перевода',
 	'group-translationadmin-member' => '{{GENDER:$1|администратор перевода}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Администраторы перевода',
-	'group-zeroadmin' => 'Администраторы бесплатного мобильного доступа', # Fuzzy
-	'group-zeroadmin-member' => '{{GENDER:$1|Администратор бесплатного мобильного доступа}}', # Fuzzy
-	'grouppage-zeroadmin' => '{{ns:project}}:Администраторы бесплатного мобильного доступа', # Fuzzy
+	'group-zeroadmin' => 'Администраторы проекта «Zero»',
+	'group-zeroadmin-member' => '{{GENDER:$1|Администратор проекта «Zero»}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Администраторы проекта «Zero»',
 	'right-zero-edit' => 'Изменять страницы в пространстве имён Zero',
 	'group-centralnoticeadmin' => 'Администраторы централизованных объявлений',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|администратор централизованных объявлений}}',
