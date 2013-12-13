@@ -2975,8 +2975,11 @@ $messages['ce'] = array(
 	'group-oauthadmin-member' => '{{GENDER:$1|Куьйгалхо OAuth}}',
 	'shared-repo-name-shared' => 'Викигулам',
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
+	'wikidata-shortcopyrightwarning' => 'Ахьа "{{int:wikibase-save}}" тӀетаӀича, [https://wikimediafoundation.org/wiki/Terms_of_Use хӀокху бакъонашца] лело аьтту ло [https://creativecommons.org/publicdomain/zero/1.0/ лицензица CC0].',
 	'wikimedia-copyrightwarning' => 'Хийцамаш Ӏалашбеш, хьан пурбанца уьш чутохар юха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тӀаьхь болу агӀо лелош, хьуна тӀе хьажораг йийра ю, оцу лаккхар хьажорагех я URL, йогӀучу агӀон тӀе.
 Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage чура хӀокху элементах тесна йолу агӀонаш',
+	'wikibase-sitelinks-commons' => 'Викилуламехь хӀокху элементах тесна йолу агӀо',
 	'wikimedia-developers' => 'Кечдархой',
 );
 
@@ -3985,6 +3988,8 @@ $messages['diq'] = array(
 	'group-trusted-member' => '{{GENDER:$1|karbero emin}}',
 	'grouppage-trusted' => '{{ns:project}}:Karbero emin',
 	'group-uploader' => 'Barkerderi',
+	'group-uploader-member' => '{{GENDER:$1|Barkerder}}',
+	'grouppage-uploader' => '{{ns:project}}:Bar kerder',
 	'group-Global_bot' => 'botê globali',
 	'group-Global_bot-member' => '{{GENDER:$1|boto global}}',
 	'group-Global_rollback' => 'açarnayoxê globali',
@@ -7958,9 +7963,19 @@ $messages['ilo'] = array(
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|malaksid ti sangalubongan a panagserra ti IP}}',
 	'group-recursive-export' => 'Rekursibo a panagiluas',
 	'group-recursive-export-member' => '{{GENDER:$1|rekursibo nga agi-luluas}}',
+	'group-massmessage-sender' => 'Dagiti agipatpatulod ti adu a mensahe',
+	'group-massmessage-sender-member' => '{{GENDER:$1|agipatpatulod ti adu a mensahe}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}:Dagiti agipatpatulod ti adu a mensahe',
+	'group-oauthadmin' => 'Dagiti administrador ti OAuth',
+	'group-oauthadmin-member' => '{{GENDER:$1|Administrador ti OAuth}}',
+	'grouppage-oauthadmin' => '{{ns:project}}:Dagiti administrador ti OAuth',
 	'group-translationadmin' => 'Dagiti administrador ti agipatpatarus',
 	'group-translationadmin-member' => '{{GENDER:$1|administrador ti agipatpatarus}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Dagiti administrador ti agipatpatarus',
+	'group-zeroadmin' => 'Dagiti administrador ti Sero',
+	'group-zeroadmin-member' => '{{GENDER:$1|Administrador ti Sero}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Dagiti administrador ti Sero',
+	'right-zero-edit' => 'Agurnos ti pampanid itinagan ti espasio ti Sero',
 	'group-centralnoticeadmin' => 'Dagiti administrador ti sentral a pakdaar',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrador ti sentral a pakdaar}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administrador ti sentral a pakdaar',
@@ -7980,7 +7995,7 @@ Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title=
 	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Pampanid ti Wikivoyage a naisilpo iti daytoy a banag',
-	'wikibase-sitelinks-commons' => 'Pampanid ti Wikimedia Commons a naisilpo iti daytoy a banag', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Panid ti Wikimedia Commons a naisilpo iti daytoy a banag',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
@@ -8021,6 +8036,7 @@ No saan, tapno matungtungan ti serra pangngaasi a [[m:Steward requests/Global|ag
 	'wikimedia-torblock-blocked' => 'Ti IP a pagtaengam, <strong>$1</strong>, ket automatikoa nailasin a kas nodo ti iruruar ti Tor.
 T panag-urnos babaen ti Tor ket naserraan tapno mapawilan ti panagabuso.
 Para iti adu pay a pakaammo ken pagsursuruan dagit lehitimado ng agar-aramat, kitaen ti sangalubongan nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Annuroten ti Kinapribado]',
 );
 
 /** Ingush (ГӀалгӀай)
