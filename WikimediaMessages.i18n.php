@@ -3430,7 +3430,7 @@ Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Term
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
 	'wikibase-sitelinks-wikivoyage' => "Tudalennau Wicidaith sy'n cysylltu a'r eitem hon",
-	'wikibase-sitelinks-commons' => "Tudalennau ar Gomin Wikimedia sydd wedi eu cysylltu â'r eitem hon", # Fuzzy
+	'wikibase-sitelinks-commons' => "Tudalen ar Gomin Wikimedia sydd wedi ei chysylltu â'r eitem hon",
 	'wikibase-sitelinks-sitename-commonswiki' => 'Y Comin',
 	'cant-delete-main-page' => "Ni allwch ddileu'r brif dudalen na'i symud.",
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
@@ -4802,7 +4802,7 @@ Täpsemalt vaata <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wik
 	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikibase-sitelinks-wikivoyage' => "Sellele üksusele viitavad Wikivoyage'i-leheküljed",
-	'wikibase-sitelinks-commons' => 'Sellele üksusele viitavad Commonsi-leheküljed', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Sellele üksusele viitav Commonsi-lehekülg',
 	'cant-delete-main-page' => 'Sa ei saa esilehte kustutada ega teisaldada.',
 	'wikimedia-translationnotifications-signup-legal' => 'Nõustud, et nende andmete Wikimedia Foundationile saatmise järel võime sinuga ühendust võtta seoses tõlgetega või muusse Wikimedia liikumisse puutuvaga, mis meie arvates sulle huvi võib pakkuda. Nõustud, et sinu andmeid tohib Ameerika Ühendriikides alles hoida ja et neid kasutatakse vastavalt meie [https://wikimediafoundation.org/wiki/Privacy_policy privaatsuspõhimõtetele].',
 	'upload-more-photos-of-this-monument' => 'Laadi üles veel pilte sellest mälestisest',
@@ -8842,6 +8842,7 @@ $messages['ka'] = array(
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
 	'extdist-branch-master' => 'ოსტატი (უკანასკნელი შემუშავებული ვერსია)',
 	'extdist-branch-REL1_21' => '1.21 (მედიავიკის ბოლო სტაბილური ვერსია)',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ არჩევაში)]]',
 	'wikimedia-developers' => 'შემქმნელები',
 );
 
@@ -10991,6 +10992,9 @@ $messages['ms'] = array(
 	'group-translationadmin' => 'Pentadbir penterjemahan',
 	'group-translationadmin-member' => '{{GENDER:$1|pentadbir penterjemahan}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Pentadbir penterjemahan',
+	'group-zeroadmin' => 'Penyelia Zero',
+	'group-zeroadmin-member' => '{{GENDER:$1|penyelia Zero}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Penyelia Zero',
 	'group-centralnoticeadmin' => 'Penyelia pemberitahuan pusat',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Penyelia pemberitahuan pusat}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Penyelia pemberitahuan pusat',
@@ -12366,6 +12370,7 @@ $messages['pl'] = array(
 	'group-translationadmin' => 'Administratorzy tłumaczeń',
 	'group-translationadmin-member' => '{{GENDER:$1|administrator|administratorka}} tłumaczeń',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratorzy tłumaczeń',
+	'right-zero-edit' => 'Edycja stron w przestrzeni nazw Zero',
 	'group-centralnoticeadmin' => 'Administratorzy wspólnych komunikatów',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|administrator|administratorka}} wspólnych komunikatów',
 	'group-coder' => 'Programiści',
