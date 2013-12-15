@@ -146,9 +146,11 @@ $messages['gl'] = array(
 
 /** Hebrew (עברית)
  * @author Amire80
+ * @author Guycn2
  */
 $messages['he'] = array(
 	'wikimediamessages-desc' => 'הודעות זמניות ייחודיות לוויקימדיה',
+	'password-recycled' => 'הסיסמה שהזנת זהה לסיסמה ישנה ששימשה את חשבונך. נא לבחור סיסמה חדשה.',
 );
 
 /** Upper Sorbian (hornjoserbsce)

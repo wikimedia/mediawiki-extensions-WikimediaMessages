@@ -2185,6 +2185,8 @@ $messages['be-tarask'] = array(
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|выключаны|выключаная}} з глябальных блякаваньняў па IP',
 	'group-recursive-export' => 'Рэкурсіўны экспарт',
 	'group-recursive-export-member' => '{{GENDER:$1|рэкурсіўны экспартэр|рэкурсіўная экспартэрка}}',
+	'group-oauthadmin' => 'Адміністратары OAuth',
+	'grouppage-oauthadmin' => '{{ns:project}}:Адміністратары OAuth',
 	'group-translationadmin' => 'Адміністратары перакладаў',
 	'group-translationadmin-member' => '{{GENDER:$1|адміністратар перакладаў|адміністратарка перакладаў}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Адміністратары перакладаў',
@@ -11866,6 +11868,7 @@ Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Bruksvil
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til datasettet',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sider knytte til datasettet',
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
 	'upload-more-photos-of-this-monument' => 'Last opp fleire bilete av monumentet',
 	'extdist-branch-REL1_21' => '1.21 (siste stabile MediaWiki)',
@@ -12363,7 +12366,7 @@ $messages['pl'] = array(
 	'group-New_wikis_importer' => 'Importerzy nowych wiki',
 	'group-global-ipblock-exempt' => 'Globalnie uprawnieni do logowania się z zablokowanych adresów IP',
 	'group-global-ipblock-exempt-member' => 'globalnie {{GENDER:$1|uprawniony|uprawniona}} do logowania się z zablokowanych adresów IP',
-	'group-massmessage-sender' => 'Użytkownicy wysyłający masowe wiadomości',
+	'group-massmessage-sender' => 'Wysyłający masowe wiadomości',
 	'group-oauthadmin' => 'Administratorzy OAuth',
 	'group-oauthadmin-member' => '{{GENDER:$1|administrator|administratorka}} OAuth',
 	'grouppage-oauthadmin' => '{{ns:project}}:Administratorzy OAuth',
@@ -12579,6 +12582,19 @@ Soa adrëssa IP atual a l'é $6.
 Për piasìm ch'a ancluda titi ij detaj sì-dzora an qualsëssìa arcesta ch'a fà.
 S'a chërd ch'a l'é stàit blocà për eror, a peul trové d'àutre anformassion e anstrussion ant le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandant duvert]].
 Dësnò, për discute dël blocagi për piasì [[m:Steward requests/Global|ch'a manda n'arcesta ëd revision su Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Un o vàire dij servent mandatari dovrà da soa arcesta a son [[m:Special:MyLanguage/Global blocks|blocà ëd fasson global]].'''
+
+Ël blocagi a l'é stàit butà su da $1 ($2).
+La rason dàita a l'é ''$3''.
+
+* Inissi dël blocagi: $4
+* Fin dël blocagi: $5
+
+L'adrëssa dël mandatari blocà a l'era $6.
+Për piasì, ch'a buta tuti ij detaj sì-dzora an tute j'arceste ch'a fa.
+
+S'a chërd d'esse stàit blocà a tòrt, a peul trové pi d'anformassion e d'anformassion ant le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandatari duvert]].
+Dësnò, pËr dëscute dël blocagi, për piasì [[m:Steward requests/Global|ch'a buta n'arcesta Ëd revision su Meta-Wiki]].",
 );
 
 /** Western Punjabi (پنجابی)
