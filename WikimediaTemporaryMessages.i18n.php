@@ -12,7 +12,7 @@ $messages = array();
 $messages['en'] = array(
 	'wikimediamessages-desc' => 'Wikimedia specific temporary messages',
 	'bug-54847-password-reset-prompt' => 'Due to a [[meta:October 2013 private data security issue|privacy issue with the Wikimedia Labs databases]], your previously used password may be vulnerable. Please set a new, different, password to secure your account. We apologize for the inconvenience.',
-	'password-recycled' => 'The password you have entered matches an old password associated with your account. Please set a new, different password',
+	'password-recycled' => 'The password you have entered matches an old password associated with your account. Please set a new, different password.',
 );
 
 /** Message documentation (Message documentation)
