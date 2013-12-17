@@ -3751,6 +3751,7 @@ $messages['de-formal'] = array(
  * @author Erdemaslancan
  * @author Mirzali
  * @author Multichill
+ * @author Shirayuki
  * @author Xoser
  */
 $messages['diq'] = array(
@@ -3931,7 +3932,7 @@ $messages['diq'] = array(
 	'wm-license-cc-sa-1.0-nl-text' => 'Ena dosya binê lisansê [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/cz/deed.en Attribution-Share Alike 3.0 Cumhuriyete Ceki] de lisans biya.',
 	'wm-license-cc-sa-2.0-jp-text' => 'Ena dosya binê lisansê [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japonya] de lisans biya.',
 	'wm-license-cc-zero-text' => 'Ena dosya binê [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Merdum şaryayışi heta agoznayış] esta.',
-	'wm-license-cc-zero-explanation' => 'Ena sehis ke ena dosya viraşte heqê xo da Commons u heqê xo peran pê [[{{int:wm-license-pd-wiki-link}}|kanunanê welata]]nê hemi de ya zi heqanê nizdiye ca verda. Ina ca verdiş teyna gecerliya ke kanun destur dano. Dosyayan ya zi documentan ke binê CCO wo inan de heq ca verdiş lazim niyo. Feqat eka ti wazena ke ena dosya ser gure bike ya zi cime bide, ti gani viraştox ra referans mede.',
+	'wm-license-cc-zero-explanation' => 'Ena sehis ke ena dosya viraşte heqê xo da Commons u heqê xo peran pê [[{{int:wm-license-pd-wiki-link}}|kanunanê welata]]nê hemi de ya zi heqanê nizdiye ca verda. Ina ca verdiş teyna gecerliya ke kanun destur dano. Dosyayan ya zi documentan ke binê CC0 wo inan de heq ca verdiş lazim niyo. Feqat eka ti wazena ke ena dosya ser gure bike ya zi cime bide, ti gani viraştox ra referans mede.',
 	'wm-license-cc-free' => 'Ti xosera:',
 	'wm-license-cc-free-to-share-header' => 'qe pay kerdişi',
 	'wm-license-cc-free-to-share-text' => 'qe gure kopya kerdişi, vila kerdişi u şawitişi',
@@ -11040,6 +11041,7 @@ $messages['ms'] = array(
 /** Maltese (Malti)
  * @author Chrisportelli
  * @author Diebuche
+ * @author Shirayuki
  */
 $messages['mt'] = array(
 	'wm-license-cc-wiki-link' => 'w:mt:Creative Commons',
@@ -11218,7 +11220,7 @@ $messages['mt'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'Dan il-fajl huwa liċenzjat taħt it-termini tal-liċenzja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/fi/deed.en Aqsam bl-istess mod 1.0 Finlandja]',
 	'wm-license-cc-sa-1.0-nl-text' => 'Dan il-fajl huwa liċenzjat taħt it-termini tal-liċenzja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/nl/deed.en Aqsam bl-istess mod 1.0 Pajjiżi l-Baxxi]',
 	'wm-license-cc-sa-2.0-jp-text' => 'Dan il-fajl huwa liċenzjat taħt it-termini tal-liċenzja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/jp/deed.en Aqsam bl-istess mod 1.0 Ġappun]',
-	'wm-license-cc-zero-text' => 'Dan il-fajl huwa disponibbli taħt it-termini tal-liċenzja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CCO 1.0 Universal]',
+	'wm-license-cc-zero-text' => 'Dan il-fajl huwa disponibbli taħt it-termini tal-liċenzja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal]',
 	'wm-license-cc-free' => 'Inti ħieles:',
 	'wm-license-cc-free-to-share-header' => 'li taqsam',
 	'wm-license-cc-free-to-share-text' => 'li tikkopja, tiddistribwixxi u tittrażmetti din l-opra',
@@ -13319,6 +13321,7 @@ $messages['ro'] = array(
 /** tarandíne (tarandíne)
  * @author Joetaras
  * @author Reder
+ * @author Shirayuki
  */
 $messages['roa-tara'] = array(
 	'wm-license-cc-wiki-link' => 'w:roa-tara:Creatività comune',
@@ -13498,7 +13501,7 @@ $messages['roa-tara'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 Finlandia].",
 	'wm-license-cc-sa-1.0-nl-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.en Share Alike 1.0 Paise Vasce].",
 	'wm-license-cc-sa-2.0-jp-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Giappone].",
-	'wm-license-cc-zero-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CCO 1.0 Universal Public Domain Dedication].",
+	'wm-license-cc-zero-text' => "Stu file jè licenziate sotte 'a licenze [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication].",
 	'wm-license-cc-zero-explanation' => "'A persone ca ave associate 'na fatìe cu quiste atte ave dedicate 'a fatìe a 'u [[{{int:wm-license-pd-wiki-link}}|pubbleche dominie]] renungianne a tutte le deritte sue sus 'a fatìe jndr'à tutte 'u munne addò valene le legge sus a 'u copyright, 'ngludenne tutte le deritte collegate e atturne, jndr'à le limite d'a legge. Tu puè copià, cangià, distribbuì e fà 'a fatìe, pure pe fine commerciale, senze ca a cercà 'u permesse.",
 	'wm-license-cc-free' => 'Tu si libbere:',
 	'wm-license-cc-free-to-share-header' => 'da spartere',

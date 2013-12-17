@@ -97,9 +97,11 @@ $messages['en-gb'] = array(
 
 /** Spanish (español)
  * @author Armando-Martin
+ * @author Clarkcj12
  */
 $messages['es'] = array(
 	'wikimediamessages-desc' => 'Mensajes temporales específicos de Wikimedia',
+	'password-recycled' => 'La contraseña que ha introducido coincide con una contraseña antigua asociada con su cuenta. Configure una contraseña nueva y diferente.',
 );
 
 /** Estonian (eesti)

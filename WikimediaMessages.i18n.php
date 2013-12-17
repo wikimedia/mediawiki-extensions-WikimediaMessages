@@ -9609,6 +9609,7 @@ $messages['lb'] = array(
 	'group-translationadmin' => 'Iwwersetzungsadministrateuren',
 	'group-translationadmin-member' => '{{GENDER:$1|Iwwersetzungsadministrateur|Iwwersetzungsadministratrice}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Iwwersetzungs-Administrateuren',
+	'group-zeroadmin' => 'Zero-Administrateuren',
 	'group-coder' => 'Programméierer',
 	'group-coder-member' => '{{GENDER:$1|Programméierer}}',
 	'group-inactive' => 'Benotzer déi net aktiv sinn',
@@ -12595,6 +12596,10 @@ Për piasì, ch'a buta tuti ij detaj sì-dzora an tute j'arceste ch'a fa.
 
 S'a chërd d'esse stàit blocà a tòrt, a peul trové pi d'anformassion e d'anformassion ant le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandatari duvert]].
 Dësnò, pËr dëscute dël blocagi, për piasì [[m:Steward requests/Global|ch'a buta n'arcesta Ëd revision su Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => "Soa adrëssa IP <strong>$1</strong>, a l'é stàita identificà an automàtich tanme un neu ëd surtìa Tor.
+Le modìfiche da Tor a son blocà pËr evité j'abus.
+Për pi d'anformassion e anstrussion për legitimé j'utent, ch'a vëdda le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandatari duvert]].",
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Régole ëd confidensialità]',
 );
 
 /** Western Punjabi (پنجابی)
@@ -14686,6 +14691,7 @@ $messages['sl'] = array(
 	'shared-repo-name-shared' => 'Wikimedijina Zbirka',
 	'wikimedia-copyright' => 'Besedilo je na razpolago pod <a href="https://creativecommons.org/licenses/by-sa/3.0/">licenco Creative Commons
 Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Pogoji uporabe</a>.',
+	'wikidata-copyright' => 'Vsi strukturirani podatki iz glavnega imenskega prostora in iz imenskega prostora lastnosti so na razpolago pod licenco <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; besedilo v drugih imenskih prostorih je na razpolago pod licenco <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; veljajo lahko tudi drugi pogoji. Za podrobnosti glejte stran <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> (Pogoji uporabe).',
 	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [https://wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
 	'wikibase-sitelinks-wikivoyage' => 'Strani Wikipotovanja, povezane na ta predmet',
@@ -15007,8 +15013,8 @@ $messages['sr-ec'] = array(
 Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
 	'wikidata-copyright' => 'Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Услове коришћења</a> за више информација.',
 	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].', # Fuzzy
-	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[http://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> и <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
-Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.', # Fuzzy
+	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> и <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
+Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
 	'extdist-branch-REL1_21' => '1.21 (најновија стабилна верзија Медијавикија)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Кориснички_налог',
@@ -15149,7 +15155,7 @@ $messages['sr-el'] = array(
 mogući su i dodatni uslovi.
 Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove korišćenja</a> za više informacija.',
 	'wikidata-copyright' => 'Svi strukturisani podaci iz glavnog i svojstva imenskog prostora su dostupni pod licencom <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; tekst iz drugih imenskih prostora je dostupan pod licencom <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Autorstvo-Deliti pod istim uslovima 3.0</a>; mogući su i dodatni uslovi. Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Uslove korišćenja</a> za više informacija.',
-	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC-BY-SA 3.0]</span> i <span class=plainlinks>[http://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
+	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> i <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
 	'extdist-branch-REL1_21' => '1.21 (najnovija stabilna verzija Medijavikija)',
