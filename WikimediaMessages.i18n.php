@@ -3186,7 +3186,7 @@ $messages['cs'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editoři zamčených stránek',
 	'group-eliminator' => 'Eliminátoři',
 	'group-eliminator-member' => '{{GENDER:$1|eliminátor|eliminátorka|eliminátor}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminátor', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminátoři',
 	'group-filemover' => 'Přesouvači souborů',
 	'group-filemover-member' => '{{GENDER:$1|přesouvač|přesouvačka|přesouvač}} souborů',
 	'grouppage-filemover' => '{{ns:project}}:Přesouvači souborů',
@@ -3217,6 +3217,8 @@ $messages['cs'] = array(
 	'group-transwiki' => 'Transwiki importéři',
 	'group-transwiki-member' => 'transwiki {{GENDER:$1|importér|importérka|importér}}',
 	'grouppage-transwiki' => '{{ns:project}}:Transwiki importéři',
+	'group-templateeditor' => 'Editoři šablon',
+	'group-templateeditor-member' => '{{GENDER:$1|editor|editorka}} šablon',
 	'group-trusted' => 'Důvěryhodní uživatelé',
 	'group-trusted-member' => '{{GENDER:$1|důvěryhodný uživatel|důvěryhodná uživatelka|důvěryhodný uživatel}}',
 	'grouppage-trusted' => '{{ns:project}}:Důvěryhodní uživatelé',
@@ -3243,9 +3245,16 @@ $messages['cs'] = array(
 	'group-Indic_Bots-member' => '{{GENDER:$1|indický bot|indická botka}}',
 	'group-global-ipblock-exempt' => 'Globálně nepodléhající blokování IP adres',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|globálně nepodléhající blokování IP adres}}',
+	'group-oauthadmin' => 'Správci OAuth',
+	'group-oauthadmin-member' => '{{GENDER:$1|správce|správkyně}} OAuth',
+	'grouppage-oauthadmin' => '{{ns:project}}:Správci OAuth',
 	'group-translationadmin' => 'Správci překladů',
 	'group-translationadmin-member' => '{{GENDER:$1|správce|správkyně|správce}} překladů',
 	'grouppage-translationadmin' => '{{ns:project}}:Správci překladů',
+	'group-zeroadmin' => 'Správci Zero',
+	'group-zeroadmin-member' => '{{GENDER:$1|správce|správkyně}} Zero',
+	'grouppage-zeroadmin' => '{{ns:project}}:Správci Zero',
+	'right-zero-edit' => 'Editace stránek ve jmenném prostoru Zero',
 	'group-centralnoticeadmin' => 'Správci centralizovaných oznámení',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Správce|Správkyně}} centralizovaných oznámení',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Správci centralizovaných oznámení',
@@ -3262,7 +3271,8 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikivoyage provázané s touto položkou',
-	'wikibase-sitelinks-commons' => 'Stránky Wikimedia Commons provázané s touto položkou', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Stránka Wikimedia Commons provázaná s touto položkou',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
 	'upload-more-photos-of-this-monument' => 'Načíst další fotografie této památky',
@@ -3273,7 +3283,37 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'createacct-captcha-help-url' => '{{ns:Project}}:Žádost o účet',
 	'createacct-imgcaptcha-help' => 'Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]].',
 	'wikimedia-developers' => 'Vývojáři',
+	'wikimedia-globalblocking-ipblocked' => "'''Vaše IP adresa byla [[m:Special:MyLanguage/Global blocks|zablokována na všech wiki]].'''
+
+Zablokování provedl $1 ($2).
+Udaným důvodem bylo ''$3''.
+
+* Začátek blokování: $4
+* Zablokování vyprší: $5
+
+Vaše současná IP adresa je $6.
+Tyto údaje uvádějte ve všech dotazech.
+
+Pokud se domníváte, že jste byli zablokováni omylem, můžete najít více informací a pokyny v globálním pravidle [[m:Special:MyLanguage/No open proxies|Žádné otevřené proxy]].
+Pokud chcete zablokování prodiskutovat, můžete [[m:Steward requests/Global|napsat žádost o přezkum na Meta-Wiki]].",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Jeden nebo více proxy serverů, které váš požadavek použivá, bylo [[m:Special:MyLanguage/Global blocks|globálně zablokováno]].'''
+
+Zablokování provedl $1 ($2).
+Udaným důvodem bylo ''$3''.
+
+* Začátek blokování: $4
+* Zablokování vyprší: $5
+
+Vaše současná IP adresa je $6.
+Tyto údaje uvádějte ve všech dotazech.
+
+Pokud se domníváte, že jste byli zablokováni omylem, můžete najít více informací a pokyny v globálním pravidle [[m:Special:MyLanguage/No open proxies|Žádné otevřené proxy]].
+Pokud chcete zablokování prodiskutovat, můžete [[m:Steward requests/Global|napsat žádost o přezkum na Meta-Wiki]].",
+	'wikimedia-torblock-blocked' => 'Vaše IP adresa, <strong>$1</strong>, byla automaticky rozpoznána jako výstupní uzel sítě Tor.
+Editace přes Tor je zakázána jako prevence zneužívání.
+Více informací a pokyny pro oprávněné uživatele naleznete v globálním pravidle [[m:Special:MyLanguage/No open proxies|Žádné otevřené proxy]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/cs',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Ochrana_osobních_údajů Ochrana osobních údajů]',
 );
 
 /** Church Slavic (словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
