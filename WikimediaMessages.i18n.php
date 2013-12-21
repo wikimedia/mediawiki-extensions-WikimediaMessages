@@ -8810,7 +8810,7 @@ $messages['ka'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:დაცული გვერდების რედაქტორები',
 	'group-eliminator' => 'გამომრიცხველები',
 	'group-eliminator-member' => '{{GENDER:$1|გამომრიცხავი}}',
-	'grouppage-eliminator' => '{{ns:project}}:გამომრიცხავი', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:გამაუქმებლები',
 	'group-filemover' => 'ფაილის გადამტანები',
 	'group-filemover-member' => '{{GENDER:$1|ფაილის გადამტანი}}',
 	'grouppage-filemover' => '{{ns:project}}:ფაილის გადამტანები',
@@ -8845,7 +8845,7 @@ $messages['ka'] = array(
 	'group-trusted-member' => '{{GENDER:$1|სანდო მომხმარებელი}}',
 	'grouppage-trusted' => '{{ns:project}}:სანდო მომხმარებლები',
 	'group-uploader' => 'ამტვირთველები',
-	'group-uploader-member' => 'ამტვირთველი', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|ამტვირთავი}}',
 	'grouppage-uploader' => '{{ns:project}}:ამტვირთველები',
 	'group-Global_bot' => 'გლობალური ბოტები',
 	'group-Global_bot-member' => '{{GENDER:$1|გლობალური ბოტი}}',
@@ -8883,7 +8883,7 @@ $messages['ka'] = array(
 	'group-inactive-member' => '{{GENDER:$1|არააქტიური მომხმარებელი}}',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
-	'wikidata-shortcopyrightwarning' => 'ღილაკზე "შენახვა" დაწკაპუნებით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს] და სამუდამოდ თანხმდებით თქვენი წვლილის გამოქვეყნებას [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ლიცენზიით].', # Fuzzy
+	'wikidata-shortcopyrightwarning' => 'ღილაკზე "{{int:wikibase-save}}" დაწკაპუნებით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს] და სამუდამოდ თანხმდებით თქვენი წვლილის გამოქვეყნებას [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ლიცენზიით].',
 	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
 თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
@@ -14741,7 +14741,7 @@ Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi doda
 	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [https://wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
 	'wikibase-sitelinks-wikivoyage' => 'Strani Wikipotovanja, povezane na ta predmet',
-	'wikibase-sitelinks-commons' => 'Strani Wikimedia Commons, povezane na ta predmet', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Stran Wikimedia Commons, povezana na ta predmet',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
 	'upload-more-photos-of-this-monument' => 'Naložite več fotografij spomenika',
 	'wikimedia-globalblocking-ipblocked' => "'''Vaš IP-naslov je [[m:Special:MyLanguage/Global blocks|blokiran na vseh wikijih]].'''

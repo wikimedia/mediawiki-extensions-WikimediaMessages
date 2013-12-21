@@ -3499,10 +3499,11 @@ $messages['fur'] = array(
 );
 
 /** Western Frisian (Frysk)
+ * @author Kening Aldgilles
  * @author Multichill
  */
 $messages['fy'] = array(
-	'wm-license-gfdl-1.2-and-later' => "Der wurdt tastimming jûn ta kopiearjen, fersprieden en/of wizigjen fan dit dokumint ûnder de betinksten fan de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-lisinsje foar iepen dokumintaasje]]''', ferzje 1.2, as eltse lettere ferzje útjûn troch de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sûnder Ynfariante Seksjes, sûnder Omkaftteksten foar de Foarkante en sûnder Omkaftteksten foar de Efterkante. In kopy fan de lisinsje is opnaam yn de seksje \"[[{{int:wm-license-gfdl-full-1.2-link}}|Text of the GNU Free Documentation License]]\".", # Fuzzy
+	'wm-license-gfdl-1.2-and-later' => "Der wurdt tastimming jûn ta kopiearjen, fersprieden en/of wizigjen fan dit dokumint ûnder de betinksten fan de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-lisinsje foar iepen dokumintaasje]]''', ferzje 1.2, as eltse lettere ferzje útjûn troch de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sûnder Ynfariante Seksjes, sûnder Omkaftteksten foar de Foarkante en sûnder Omkaftteksten foar de Efterkante. In kopy fan de lisinsje is opnaam yn de seksje \"[[{{int:wm-license-gfdl-full-1.2-link}}|Text of the GNU Free Documentation License]]\".",
 	'wm-license-gfdl-wiki-link' => 'w:fy:GNU/FDL',
 	'wm-license-information-description' => 'Beskriuwing',
 	'wm-license-information-source' => 'Boarne',
