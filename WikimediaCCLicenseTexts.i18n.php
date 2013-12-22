@@ -345,6 +345,7 @@ Refers to {{msg-mw|Wm-license-cc-wiki-link}}.",
 	'wm-license-cc-by-3.0-ug-text' => '{{CreativeCommonsLicense|by|3.0|ug}}',
 	'wm-license-cc-by-3.0-us-text' => '{{CreativeCommonsLicense|by|3.0|us}}',
 	'wm-license-cc-by-3.0-vn-text' => '{{CreativeCommonsLicense|by|3.0|vn}}',
+	'wm-license-cc-by-4.0-text' => '{{CreativeCommonsLicense|by|4.0}}',
 	'wm-license-cc-by-sa-1.0-text' => '{{CreativeCommonsLicense|by-sa|1.0}}',
 	'wm-license-cc-by-sa-1.0-fi-text' => '{{CreativeCommonsLicense|by-sa|1.0|fi}}',
 	'wm-license-cc-by-sa-1.0-il-text' => '{{CreativeCommonsLicense|by-sa|1.0|il}}',
@@ -443,6 +444,7 @@ Refers to {{msg-mw|Wm-license-cc-wiki-link}}.",
 	'wm-license-cc-by-sa-3.0-ug-text' => '{{CreativeCommonsLicense|by-sa|3.0|ug}}',
 	'wm-license-cc-by-sa-3.0-us-text' => '{{CreativeCommonsLicense|by-sa|3.0|us}}',
 	'wm-license-cc-by-sa-3.0-vn-text' => '{{CreativeCommonsLicense|by-sa|3.0|vn}}',
+	'wm-license-cc-by-sa-4.0-text' => '{{CreativeCommonsLicense|by-sa|4.0}}',
 	'wm-license-cc-sa-1.0-text' => '{{CreativeCommonsLicense|by|1.0}}',
 	'wm-license-cc-sa-1.0-fi-text' => '{{CreativeCommonsLicense|sa|1.0|fi}}',
 	'wm-license-cc-sa-1.0-nl-text' => '{{CreativeCommonsLicense|sa|1.0|nl}}',
@@ -4185,6 +4187,8 @@ $messages['en-ca'] = array(
  * @author Shirayuki
  */
 $messages['en-gb'] = array(
+	'wm-license-cc-by-4.0-text' => 'This file is licenced under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/4.0/deed.en Attribution 4.0 International] licence.',
+	'wm-license-cc-by-sa-4.0-text' => 'This file is licenced under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/4.0/deed.en Attribution-Share Alike 4.0 International] licence.',
 	'wm-license-cc-zero-explanation' => 'The person who associated a work with this deed has dedicated the work to the [[{{int:wm-license-pd-wiki-link}}|public domain]] by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighbouring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.',
 	'wm-license-cc-conditions-attribution-text' => 'You must attribute the work in the manner specified by the author or licencer (but not in any way that suggests that they endorse you or your use of the work).',
 	'wm-license-cc-conditions-share_alike-text' => 'If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar licence to this one.',
@@ -8389,6 +8393,7 @@ $messages['ja'] = array(
 	'wm-license-cc-by-3.0-ug-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by/3.0/ug/deed.ja 表示 3.0 ウガンダ]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-3.0-us-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by/3.0/us/deed.ja 表示 3.0 アメリカ合衆国]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-3.0-vn-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by/3.0/vn/deed.ja 表示 3.0 ベトナム]ライセンスのもとに利用を許諾されています。',
+	'wm-license-cc-by-4.0-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by/4.0/deed.ja 表示 4.0 国際]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-sa-1.0-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/1.0/deed.ja 表示-継承 1.0 一般]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/1.0/fi/deed.ja 表示-継承 1.0 フィンランド]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-sa-1.0-il-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/1.0/il/deed.ja 表示-継承 1.0 イスラエル]ライセンスのもとに利用を許諾されています。',
@@ -8483,6 +8488,7 @@ $messages['ja'] = array(
 	'wm-license-cc-by-sa-3.0-ug-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/3.0/ug/deed.ja 表示-継承 3.0 ウガンダ]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-sa-3.0-us-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/3.0/us/deed.ja 表示-継承 3.0 アメリカ合衆国]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-by-sa-3.0-vn-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/3.0/vn/deed.ja 表示-継承 3.0 ベトナム]ライセンスのもとに利用を許諾されています。',
+	'wm-license-cc-by-sa-4.0-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/by-sa/4.0/deed.ja 表示-継承 3.0 国際]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-sa-1.0-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/sa/1.0/deed.ja 継承 1.0 一般]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-sa-1.0-fi-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/sa/1.0/fi/deed.ja 継承 1.0 フィンランド]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-sa-1.0-nl-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/sa/1.0/nl/deed.ja 継承 1.0 オランダ]ライセンスのもとに利用を許諾されています。',
@@ -8998,6 +9004,7 @@ $messages['ko'] = array(
 	'wm-license-cc-by-3.0-ug-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by/3.0/ug/deed.ko 저작자표시 3.0 우간다] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-us-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by/3.0/us/deed.ko 저작자표시 3.0 미국] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-3.0-vn-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by/3.0/vn/deed.ko 저작자표시 3.0 베트남] 라이선스로 배포됩니다.',
+	'wm-license-cc-by-4.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by/4.0/deed.ko 저작자표시 4.0 국제] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-1.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/1.0/deed.ko 저작자표시-동일조건변경허락 1.0 일반] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-1.0-fi-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/1.0/fi/deed.ko 저작자표시-동일조건변경허락 1.0 핀란드] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-1.0-il-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/1.0/il/deed.ko 저작자표시-동일조건변경허락 1.0 이스라엘] 라이선스로 배포됩니다.',
@@ -9092,6 +9099,7 @@ $messages['ko'] = array(
 	'wm-license-cc-by-sa-3.0-ug-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/3.0/ug/deed.ko 저작자표시-동일조건변경허락 3.0 우간다] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-us-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/3.0/us/deed.ko 저작자표시-동일조건변경허락 3.0 미국] 라이선스로 배포됩니다.',
 	'wm-license-cc-by-sa-3.0-vn-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/3.0/vn/deed.ko 저작자표시-동일조건변경허락 3.0 베트남] 라이선스로 배포됩니다.',
+	'wm-license-cc-by-sa-4.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/by-sa/4.0/deed.ko 저작자표시-동일조건변경허락 4.0 국제] 라이선스로 배포됩니다.',
 	'wm-license-cc-sa-1.0-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/sa/1.0/deed.ko 동일조건변경허락 1.0 일반] 라이선스로 배포됩니다.',
 	'wm-license-cc-sa-1.0-fi-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/sa/1.0/fi/deed.ko 동일조건변경허락 1.0 핀란드] 라이선스로 배포됩니다.',
 	'wm-license-cc-sa-1.0-nl-text' => '이 파일은 [[{{int:wm-license-cc-wiki-link}}|크리에이티브 커먼즈]] [//creativecommons.org/licenses/sa/1.0/nl/deed.ko 동일조건변경허락 1.0 네덜란드] 라이선스로 배포됩니다.',
@@ -13087,7 +13095,8 @@ $messages['pt-br'] = array(
 	'wm-license-cc-conditions-attribution-text' => 'Você deve atribuir o trabalho da forma especificada pelo autor ou licenciante (mas não na forma em que sugira que eles endossam você ou seu uso do trabalho).',
 	'wm-license-cc-conditions-share_alike-header' => 'compartilhar igualmente',
 	'wm-license-cc-conditions-share_alike-text' => 'Se alterar, transformar ou ampliar esta obra, você deverá distribuir o trabalho resultante apenas sob uma licença similar ou igual a esta.',
-	'wm-license-cc-pd-mark-text' => 'Este arquivo foi identificado como livre de restrições conhecidas devidas a direitos de autor, incluindo todos os direitos conexos.',
+	'wm-license-cc-pd-mark-link' => 'http://creativecommons.org/publicdomain/mark/1.0/deed.pt_BR',
+	'wm-license-cc-pd-mark-text' => 'Este arquivo foi identificado como livre de restrições conhecidas específicas a direitos autorais, incluindo todos os direitos conexos.',
 );
 
 /** Quechua (Runa Simi)
@@ -16758,6 +16767,7 @@ $messages['uk'] = array(
 	'wm-license-cc-by-3.0-ug-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/ug/deed.en Attribution 3.0 Уґанда].',
 	'wm-license-cc-by-3.0-us-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/us/ Attribution 3.0 United States].',
 	'wm-license-cc-by-3.0-vn-text' => "Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/vn/deed.en Attribution 3.0 В'єтнам].",
+	'wm-license-cc-by-4.0-text' => 'Цей файл доступний на умовах ліцензії  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/4.0/deed.uk Із зазначенням авторства 4.0 Міжнародна]',
 	'wm-license-cc-by-sa-1.0-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic]',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/fi/ Attribution-Share Alike 1.0 Finland].',
 	'wm-license-cc-by-sa-1.0-il-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/il/ Attribution-Share Alike 1.0 Israel].',
@@ -16852,6 +16862,7 @@ $messages['uk'] = array(
 	'wm-license-cc-by-sa-3.0-ug-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ug/deed.en Attribution-ShareAlike 3.0 Уґанда].',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/us/ Attribution-Share Alike 3.0 United States].',
 	'wm-license-cc-by-sa-3.0-vn-text' => "Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/vn/deed.en Attribution-ShareAlike 3.0 В'єтнам].",
+	'wm-license-cc-by-sa-4.0-text' => 'Цей файл ліцензований на умовах [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/4.0/deed.uk Із зазначенням автора - Розповсюдження на тих самих умовах 4.0 Міжнародна]',
 	'wm-license-cc-sa-1.0-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/deed.en Share Alike 1.0 Generic].',
 	'wm-license-cc-sa-1.0-fi-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 Finland].',
 	'wm-license-cc-sa-1.0-nl-text' => 'Цей файл доступний на умовах ліцензії [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.en Share Alike 1.0 Netherlands].',
@@ -17729,6 +17740,7 @@ $messages['zh'] = array(
  * @author Shizhao
  * @author Tomchen1989
  * @author Xiaomingyan
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'wm-license-cc-wiki-link' => 'w:zh:共享創意',
@@ -17826,6 +17838,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-3.0-ug-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by/3.0/ug/deed.zh 署名 3.0 乌干达]”许可协议授权。',
 	'wm-license-cc-by-3.0-us-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by/3.0/us/deed.zh 署名 3.0 美国]”许可协议授权。',
 	'wm-license-cc-by-3.0-vn-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by/3.0/vn/deed.zh 署名 3.0 越南]”许可协议授权。',
+	'wm-license-cc-by-4.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]] [//creativecommons.org/licenses/by/4.0/deed.en 署名 4.0 国际版]许可协议。',
 	'wm-license-cc-by-sa-1.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/1.0/deed.zh 署名-相同方式共享 1.0 通用]”许可协议授权。',
 	'wm-license-cc-by-sa-1.0-fi-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/1.0/fi/deed.zh 署名-相同方式共享 1.0 芬兰]”许可协议授权。',
 	'wm-license-cc-by-sa-1.0-il-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/1.0/il/deed.zh 署名-相同方式共享 1.0 以色列]”许可协议授权。',
@@ -17920,6 +17933,7 @@ $messages['zh-hans'] = array(
 	'wm-license-cc-by-sa-3.0-ug-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/ug/deed.zh 署名-相同方式共享 3.0 乌干达]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-us-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/us/deed.zh 署名-相同方式共享 3.0 美国]”许可协议授权。',
 	'wm-license-cc-by-sa-3.0-vn-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/by-sa/3.0/vn/deed.zh 署名-相同方式共享 3.0 越南]”许可协议授权。',
+	'wm-license-cc-by-sa-4.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]] [//creativecommons.org/licenses/by-sa/4.0/deed.en 署名-相同方式共享 4.0 国际版]许可协议。',
 	'wm-license-cc-sa-1.0-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/sa/1.0/deed.zh 相同方式共享 1.0 通用]”许可协议授权。',
 	'wm-license-cc-sa-1.0-fi-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/sa/1.0/fl/deed.zh 相同方式共享 1.0 芬兰]”许可协议授权。',
 	'wm-license-cc-sa-1.0-nl-text' => '本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]]“[//creativecommons.org/licenses/sa/1.0/nl/deed.zh 相同方式共享 1.0 荷兰]”许可协议授权。',
