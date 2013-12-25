@@ -1308,7 +1308,7 @@ $messages['arz'] = array(
 $messages['as'] = array(
 	'wikimediamessages-desc' => 'ৱিকিমিডিয়া নিৰ্ধাৰিত বাৰ্তা',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=as',
-	'sitesupport' => 'দান-বৰঙনি',
+	'sitesupport' => 'দান-বৰঙণি',
 	'tooltip-n-sitesupport' => 'আমাক সহায় কৰক!',
 	'specialpages-group-contribution' => 'অৱদান/তহবিল সংগ্রাহক',
 	'nstab-creator' => 'সৃষ্টিকৰ্তা',
@@ -9686,6 +9686,13 @@ Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaff
 	'wikimedia-developers' => 'Entwéckler',
 );
 
+/** Lezghian (лезги)
+ * @author Soul Train
+ */
+$messages['lez'] = array(
+	'sitesupport' => 'Сайтдиз даях хьун',
+);
+
 /** Lingua Franca Nova (Lingua Franca Nova)
  * @author Cgboeree
  */
@@ -12910,7 +12917,7 @@ $messages['pt'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Editores de páginas protegidas',
 	'group-eliminator' => 'Eliminadores',
 	'group-eliminator-member' => '{{GENDER:$1|eliminador|eliminadora}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminador', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminadores',
 	'group-filemover' => 'Deslocadores de ficheiros',
 	'group-filemover-member' => '{{GENDER:$1|deslocador de ficheiros|deslocadora de ficheiros}}',
 	'grouppage-filemover' => '{{ns:project}}:Deslocadores de ficheiros',
@@ -12977,12 +12984,41 @@ $messages['pt'] = array(
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
-	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", aceita as [https://wikimediafoundation.org/wiki/Condições_de_Uso Condições de uso] e concorda de forma irrevogável em publicar as suas contribuições com as licenças [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
+	'wikimedia-copyrightwarning' => 'Ao premir o botão "{{int:savearticle}}", concorda com os [https://wikimediafoundation.org/wiki/Terms_of_Use termos de uso] e em irrevogavelmente publicar as suas contribuições com as licenças [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Concorda também que um link ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Páginas no Wikivoyage com ligação a este elemento',
-	'wikibase-sitelinks-commons' => 'Páginas no Wikimedia Commons com ligação a este elemento',
+	'wikibase-sitelinks-wikivoyage' => 'Páginas no Wikivoyage com ligação a este item',
+	'wikibase-sitelinks-commons' => 'Páginas no Wikimedia Commons com ligação a este item',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
-	'wikimedia-developers' => 'Desenvolvedores',
+	'wikimedia-translationnotifications-signup-legal' => 'Você concorda que, ao fornecer esta informação à Wikimedia Foundation, possamos contactá-lo sobre traduções ou outros temas relacionados com o movimento Wikimedia que achemos que possa ser do seu interesse. Concorda igualmente que os seus dados possam ser armazenados nos Estados Unidos da América e estejam sujeitos à nossa [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidade].',
+	'wikimedia-developers' => 'Programadores',
+	'wikimedia-globalblocking-ipblocked' => "'''O seu endereço de IP foi [[m:Special:MyLanguage/Global blocks|bloqueado em todas as wikis]].'''
+
+O bloqueio foi efectuado por $1 ($2). 
+A razão dada foi a seguinte: '''$3'''. 
+
+* Início do bloqueio: $4 
+* Expira a : $5 
+
+O seu endereço de IP actual é $6 . 
+Por favor, inclua todos os detalhes acima em quaisquer consultas que faça.
+
+Se acredita que foi bloqueado por engano, pode encontrar informações adicionais e instruções na política global sobre a [[m:Special:MyLanguage/No open proxies|proibição de ''proxies'' abertos]]. 
+Caso contrário, para discutir o bloqueio, [[m:Steward solicitações/Global|abra um pedido para revisão no Meta-Wiki]].", # Fuzzy
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Um servidor ''proxie'', ou mais, usado a seu pedido foi [[m:Special:MyLanguage/Global blocks|bloqueado globalmente]].'''
+
+O bloqueio foi efectuado por $1 ($2). 
+A razão dada foi a seguinte: '''$3'''. 
+
+* Início do bloqueio: $4 
+* Expira a : $5 
+
+O seu endereço de ''proxie'' bloqueado foi $6 . 
+Por favor, inclua todos os detalhes acima em quaisquer consultas que faça.
+
+Se acredita que foi bloqueado por engano, pode encontrar informações adicionais e instruções na política global sobre a [[m:Special:MyLanguage/No open proxies|proibição de ''proxies'' abertos]]. 
+Caso contrário, para discutir o bloqueio, [[m:Steward solicitações/Global|abra um pedido para revisão no Meta-Wiki]].", # Fuzzy
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Política de privacidade]',
 );
 
 /** Brazilian Portuguese (português do Brasil)
@@ -13133,8 +13169,8 @@ $messages['pt-br'] = array(
 	'wikimedia-copyright' => 'Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">Condições de Uso</a>.',
-	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [https://wikimediafoundation.org/wiki/Terms_of_Use termos de uso], e você concorda irrevogavelmente liberar sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].
-Você concorda que um hiperlink ou URL é atribuição suficiente sob a licença Creative Commons.',
+	'wikimedia-copyrightwarning' => 'Ao clicar no botão "{{int:savearticle}}", você concorda com os [https://wikimediafoundation.org/wiki/Terms_of_Use termos de uso] e em irrevogavelmente liberar sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e a [https://www.gnu.org/copyleft/fdl.html licença GFDL].
+Você concorda que um hiperlink ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.',
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
 	'upload-more-photos-of-this-monument' => 'Carregar mais fotos deste monumento',
 	'extdist-branch-master' => 'master (mais recente versão de desenvolvimento)',
