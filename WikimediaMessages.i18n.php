@@ -13477,8 +13477,8 @@ Vedeți detalii la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">T
 	'wikidata-shortcopyrightwarning' => 'Apăsând „{{int:wikibase-save}}”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].',
 	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Paginile Wikivoyage au trimis către acest element',
-	'wikibase-sitelinks-commons' => 'Paginile Wikimedia Commons au trimis către acest element', # Fuzzy
+	'wikibase-sitelinks-wikivoyage' => 'Pagini de la Wikivoyage care trimit către acest element',
+	'wikibase-sitelinks-commons' => 'Pagini de la Wikimedia Commons care trimit către acest element',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
