@@ -3648,7 +3648,6 @@ $messages['da'] = array(
 tekst i de andre navnerum er tilgængelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.da" title="Definition af Creative Commons Navngivelse-DelPåSammeVilkår licensen">Creative Commons Navngivelse-DelPåSammeVilkår licensen</a>;
 yderligere betingelser kan forekomme.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation vilkår for anvendelse">vilkår for anvendelse</a> for detaljer.',
-	'wikidata-shortcopyrightwarning' => 'Ved at klikke på "{{int:wikibase-save}}", accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du accepterer uigenkaldeligt at frigive dit bidrag under [https://creativecommons.org/publicdomain/zero/1.0/deed.da CC0 licensen].',
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du indvilliger i uigenkaldeligt at udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.da CC BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyagesider knyttet til dette emne',
@@ -4089,6 +4088,7 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
 );
 
 /** Lower Sorbian (dolnoserbski)
+ * @author Derbeth
  * @author Michawiki
  * @author Nemo bis
  * @author Pe7er
@@ -4211,6 +4211,7 @@ $messages['dsb'] = array(
 Pśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Creative Commons.',
 	'cant-delete-main-page' => 'Njamóžoš głowny bok wulašowaś abo pśesunuś.',
 	'wikimedia-translationnotifications-signup-legal' => 'Pśez pśepowdawanje toś tych informacijow załožbje Wikimedian Foundation zwólijoš do togo, až móžomy se nastupajucy pśełožki abo druge temy, kótarež gibanje Wikimedije nastupaju, z tobu do zwiska stajiś. Zwólijoš do togo, až twóje daty składuju se w Zjadnośonych statach Ameriki a su pśedmjat našych [https://wikimediafoundation.org/wiki/Privacy_policy pšawidłow priwatnosći].',
+	'wikimedia-developers' => 'Wuwijarje',
 );
 
 /** Divehi (ދިވެހިބަސް)
@@ -9246,7 +9247,6 @@ $messages['ko'] = array(
 다른 이름공간의 내용은 <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ko" title="크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며
 추가적인 조건이 적용될 수 있습니다.
 자세한 내용은 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ko" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
-	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"을 클릭하면 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 영구히 [https://creativecommons.org/publicdomain/zero/1.0/ CC0 라이선스]에 따라 기여를 공개하는 데 동의합니다.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
 	'wikibase-sitelinks-wikivoyage' => '이 항목을 가리키는 위키여행 문서',
@@ -12951,11 +12951,13 @@ $messages['pt'] = array(
 	'group-transwiki' => 'Importadores transwikis',
 	'group-transwiki-member' => '{{GENDER:$1|importador|importadora}} transwikis',
 	'grouppage-transwiki' => '{{ns:project}}:Importadores transwikis',
+	'group-templateeditor' => 'Editores de predefinições',
+	'group-templateeditor-member' => '{{GENDER:$1|editor|editora}} de predefinições',
 	'group-trusted' => 'Utilizadores de confiança',
 	'group-trusted-member' => '{{GENDER:$1|utilizador|utilizadora}} de confiança',
 	'grouppage-trusted' => '{{ns:project}}:Utilizadores de confiança',
 	'group-uploader' => 'Carregadores',
-	'group-uploader-member' => 'carregador', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|carregador|carregadora}}',
 	'grouppage-uploader' => '{{ns:project}}:Carregadores',
 	'group-Global_bot' => 'Robôs globais',
 	'group-Global_bot-member' => 'robô global',
@@ -12994,6 +12996,7 @@ Concorda também que um link ou URL é forma suficiente de atribuição nos term
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Não pode apagar ou mover a página principal.',
 	'wikimedia-translationnotifications-signup-legal' => 'Você concorda que, ao fornecer esta informação à Wikimedia Foundation, possamos contactá-lo sobre traduções ou outros temas relacionados com o movimento Wikimedia que achemos que possa ser do seu interesse. Concorda igualmente que os seus dados possam ser armazenados nos Estados Unidos da América e estejam sujeitos à nossa [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidade].',
+	'upload-more-photos-of-this-monument' => 'Carregar mais fotos deste monumento',
 	'wikimedia-developers' => 'Programadores',
 	'wikimedia-globalblocking-ipblocked' => "'''O seu endereço de IP foi [[m:Special:MyLanguage/Global blocks|bloqueado em todas as wikis]].'''
 
@@ -13473,7 +13476,6 @@ $messages['ro'] = array(
 	'wikimedia-copyright' => 'Acest text este disponibil sub licența <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
 pot exista și clauze suplimentare.
 Vedeți detalii la <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Termenii de utilizare</a>.',
-	'wikidata-shortcopyrightwarning' => 'Apăsând „{{int:wikibase-save}}”, sunteți de acord cu [https://wikimediafoundation.org/wiki/Terms_of_Use termenii de utilizare] și acceptați irevocabil să vă eliberați contribuția sub [https://creativecommons.org/publicdomain/zero/1.0/ licența CC0].',
 	'wikimedia-copyrightwarning' => 'Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].
 Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Pagini de la Wikivoyage care trimit către acest element',
@@ -17551,7 +17553,6 @@ $messages['vi'] = array(
 các văn bản trong các không gian tên khác được được phát hành theo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.vi" title="Định nghĩa của Giấy phép Creative Commons Ghi công–Chia sẻ tương tự">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>;
 các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
-	'wikidata-shortcopyrightwarning' => 'Khi bấm nút “{{int:wikibase-save}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://creativecommons.org/publicdomain/zero/1.0/deed.vi giấy phép CC0].',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Các trang Wikivoyage được liên kết với khoản mục này',
 	'wikibase-sitelinks-commons' => 'Trang Wikimedia Commons được liên kết với khoản mục này',

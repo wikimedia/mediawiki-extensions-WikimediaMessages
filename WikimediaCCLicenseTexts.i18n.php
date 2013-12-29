@@ -3953,6 +3953,7 @@ $messages['diq'] = array(
 );
 
 /** Lower Sorbian (dolnoserbski)
+ * @author Derbeth
  * @author Michawiki
  * @author Multichill
  */
@@ -3974,7 +3975,7 @@ $messages['dsb'] = array(
 	'wm-license-cc-free-to-remix-text' => 'aby źěło pśiměrił',
 	'wm-license-cc-conditions' => 'Pód slědujucymi wuměnjenjami:',
 	'wm-license-cc-conditions-attribution-header' => 'pśipokazanje',
-	'wm-license-cc-conditions-attribution-text' => 'Musyš źěło na wašnje pśipokazaś, kótarež awtor abo licencowaŕ jo pódał (ake nic na wašnje, kótarež jo se gódało, až wón tebje abo twójo wužywanje źěła schwalijo).',
+	'wm-license-cc-conditions-attribution-text' => 'Musyš źěło pó wašni pśipokazaś, kótaruž awtor abo licencowaŕ jo pódał (ale nic pó wašni, až by se gódało, až wón tebje abo twójo wužywanje źěła schwalijo).',
 	'wm-license-cc-conditions-share_alike-header' => 'źěliś',
 	'wm-license-cc-conditions-share_alike-text' => 'Jolic měnjaš, pśetworjaš toś to źěło abo na njo natwarjaš, móžoš gótowe źěło jano pód teju sameju licencu ako toś ta rozšyriś.',
 );
@@ -4709,6 +4710,7 @@ $messages['et'] = array(
 	'wm-license-cc-by-3.0-ug-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Uganda litsentsi [//creativecommons.org/licenses/by/3.0/ug/deed.et "Autorile viitamine 3.0"] alla.',
 	'wm-license-cc-by-3.0-us-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Ameerika Ühendriikide litsentsi [//creativecommons.org/licenses/by/3.0/us/deed.et "Autorile viitamine 3.0"] alla.',
 	'wm-license-cc-by-3.0-vn-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Vietnami litsentsi [//creativecommons.org/licenses/by/3.0/vn/deed.et "Autorile viitamine 3.0"] alla.',
+	'wm-license-cc-by-4.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] rahvusvahelise litsentsi [//creativecommons.org/licenses/by/4.0/deed.et "Autorile viitamine 4.0"] alla.',
 	'wm-license-cc-by-sa-1.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] üldise litsentsi [//creativecommons.org/licenses/by-sa/1.0/deed.et "Autorile viitamine + jagamine samadel tingimustel 1.0"] alla.',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Soome litsentsi [//creativecommons.org/licenses/by-sa/1.0/fi/deed.et "Autorile viitamine + jagamine samadel tingimustel 1.0"] alla.',
 	'wm-license-cc-by-sa-1.0-il-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Iisraeli litsentsi [//creativecommons.org/licenses/by-sa/1.0/il/deed.et "Autorile viitamine + jagamine samadel tingimustel 1.0"] alla.',
@@ -4803,6 +4805,7 @@ $messages['et'] = array(
 	'wm-license-cc-by-sa-3.0-ug-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Uganda litsentsi [//creativecommons.org/licenses/by-sa/3.0/ug/deed.et "Autorile viitamine + jagamine samadel tingimustel 3.0"] alla.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Ameerika Ühendriikide litsentsi [//creativecommons.org/licenses/by-sa/3.0/us/deed.et "Autorile viitamine + jagamine samadel tingimustel 3.0"] alla.',
 	'wm-license-cc-by-sa-3.0-vn-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Vietnami litsentsi [//creativecommons.org/licenses/by-sa/3.0/vn/deed.et "Autorile viitamine + jagamine samadel tingimustel 3.0"] alla.',
+	'wm-license-cc-by-sa-4.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] rahvusvahelise litsentsi [//creativecommons.org/licenses/by-sa/4.0/deed.et "Autorile viitamine + jagamine samadel tingimustel 4.0"] alla.',
 	'wm-license-cc-sa-1.0-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] üldise litsentsi [//creativecommons.org/licenses/sa/1.0/deed.et "Jagamine samadel tingimustel 1.0"] alla.',
 	'wm-license-cc-sa-1.0-fi-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Soome litsentsi [//creativecommons.org/licenses/sa/1.0/fi/deed.et "Jagamine samadel tingimustel 1.0"] alla.',
 	'wm-license-cc-sa-1.0-nl-text' => 'See fail kuulub [[{{int:wm-license-cc-wiki-link}}|Creative Commonsi]] Hollandi litsentsi [//creativecommons.org/licenses/sa/1.0/nl/deed.et "Jagamine samadel tingimustel 1.0"] alla.',
@@ -9487,6 +9490,7 @@ $messages['lb'] = array(
 	'wm-license-cc-by-3.0-ug-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/ro/ Attribution 3.0 Uganda] Lizenz disponibel.',
 	'wm-license-cc-by-3.0-us-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/us/ Attribution 3.0 United States] Lizenz disponibel.',
 	'wm-license-cc-by-3.0-vn-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/tw/ Attribution 3.0 Vietnam] Lizenz disponibel.',
+	'wm-license-cc-by-4.0-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/4.0/ Attribution 4.0 International] Lizenz disponibel.',
 	'wm-license-cc-by-sa-1.0-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/ Attribution-Share Alike 1.0 Generic] Lizenz disponibel.',
 	'wm-license-cc-by-sa-1.0-fi-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/fi/ Attribution-Share Alike 1.0 Finland] Lizenz disponibel.',
 	'wm-license-cc-by-sa-1.0-il-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/il/ Attribution-Share Alike 1.0 Israel] Lizenz disponibel.',
@@ -9581,6 +9585,7 @@ $messages['lb'] = array(
 	'wm-license-cc-by-sa-3.0-ug-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ug/ Attribution-Share Alike 3.0 Uganda] Lizenz disponibel.',
 	'wm-license-cc-by-sa-3.0-us-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium] Lizenz disponibel.',
 	'wm-license-cc-by-sa-3.0-vn-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/vn/ Attribution-Share Alike 3.0 Vietnam] Lizenz disponibel.',
+	'wm-license-cc-by-sa-4.0-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/4.0/ Attribution-Share Alike 4.0 International] Lizenz  disponibel.',
 	'wm-license-cc-sa-1.0-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/ Share Alike 1.0 Generic] Lizenz disponibel.',
 	'wm-license-cc-sa-1.0-fi-text' => 'Dese Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/ Share Alike 1.0 Finland] Lizenz disponibel.',
 	'wm-license-cc-sa-1.0-nl-text' => 'Dëse Fichier ass ënner der [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/ Share Alike 1.0 Netherlands] Lizenz disponibel.',
