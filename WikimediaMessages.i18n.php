@@ -243,11 +243,6 @@ $messages['en'] = array(
 	'wikimedia-copyright' => 'Text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
 additional terms may apply.
 See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.',
-	'wikidata-copyright' => 'All structured data from the main and property namespace is available under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>;
-text in the other namespaces is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
-additional terms may apply.
-See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> for details.',
-	'wikidata-shortcopyrightwarning' => 'By clicking "{{int:wikibase-save}}", you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use terms of use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/publicdomain/zero/1.0/ CC0 license].',
 	'wikimedia-copyrightwarning' => 'By clicking the "{{int:savearticle}}" button, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
 
