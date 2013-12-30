@@ -3952,7 +3952,7 @@ $messages['diq'] = array(
 	'wikimediamessages-desc' => 'mesajê xususi yê wikimedyayi',
 	'sitesupport-url' => 'https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=diq',
 	'sitesupport' => 'Bèc',
-	'tooltip-n-sitesupport' => 'Desteg ma dé',
+	'tooltip-n-sitesupport' => 'Peşti bıde ma',
 	'specialpages-group-contribution' => 'Beğş/Peredaoğ',
 	'nstab-creator' => 'Vıraştoğ',
 	'nstab-institution' => 'Daire',
@@ -5166,11 +5166,10 @@ $messages['fa'] = array(
 متن در فضاهای نام دیگر تحت <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است
 شرایط اضافی ممکن است اعمال شود.
 برای جزئیات بیشتر <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
-	'wikidata-shortcopyrightwarning' => 'با کلیک‌کردن برروی «ذخیره»، شما  [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید، و همچنین شما به‌صورت غیرقابل فسخی با انتشار مشارکت‌هایتان تحت اجازه‌نامهٔ [https://creativecommons.org/publicdomain/zero/1.0/ CC0] موافقت می‌کنید.',
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
-	'wikibase-sitelinks-commons' => 'صفحه‌های ویکی‌انبار متصل‌شده به این آیتم.', # Fuzzy
+	'wikibase-sitelinks-commons' => 'صفحه ویکی‌انبار متصل‌شده به این آیتم.',
 	'wikibase-sitelinks-sitename-commonswiki' => 'ویکی‌انبار',
 	'cant-delete-main-page' => 'شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.',
 	'wikimedia-translationnotifications-signup-legal' => 'شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید. شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما هستند.',
