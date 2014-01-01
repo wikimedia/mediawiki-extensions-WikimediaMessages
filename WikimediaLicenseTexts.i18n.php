@@ -5669,6 +5669,15 @@ $messages['la'] = array(
 	'wm-license-self-multiple-licenses-select' => 'Tibi typum permissionis ligere licet.',
 );
 
+/** Ladino (Ladino)
+ * @author Menachem.Moreira
+ */
+$messages['lad'] = array(
+	'wm-license-book-edition' => 'Edisiyon',
+	'wm-license-book-editor' => 'Redaktor',
+	'wm-license-book-language' => 'Lengua',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Kghbln
  * @author Les Meloures
