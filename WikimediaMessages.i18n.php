@@ -2963,7 +2963,7 @@ $messages['ce'] = array(
 	'grouppage-import' => '{{ns:project}}:Импорт ерш',
 	'group-interface_editor' => 'Интерфейсан тадархой',
 	'grouppage-interface_editor' => '{{ns:project}}:Интерфейсан тадархой',
-	'group-ipblock-exempt' => 'IP-сацор юкъарадоккху',
+	'group-ipblock-exempt' => 'IP-блоктохаршан юкъарадоккху',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|юкъараваккхар/яккхар IP-блоктохаршана}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:Юкъараваккхар/яккхар IP-блоктохаршана',
 	'group-transwiki' => 'Викиюкъахь-импорт ерш',
@@ -4092,7 +4092,7 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(qande weçinayışi mıre desteg bıd)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Yew hesab bıwaze',
 	'createacct-imgcaptcha-help' => 'Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]',
-	'wikimedia-developers' => 'Vırazoği',
+	'wikimedia-developers' => 'Vıraştoği',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -11291,10 +11291,14 @@ $messages['nan'] = array(
 );
 
 /** Neapolitan (Napulitano)
+ * @author Chelin
  * @author Cryptex
  */
 $messages['nap'] = array(
 	'sitesupport' => 'Donazzione',
+	'group-massmessage-sender' => 'Mittente mmasciate massive',
+	'group-massmessage-sender-member' => '{{GENDER:$1|mittente mmasciate massive}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}:Mittente mmasciate massive',
 );
 
 /** Norwegian Bokmål (norsk bokmål)
@@ -15539,6 +15543,7 @@ $messages['sv'] = array(
 	'group-translationadmin' => 'Översättningsadministratörer',
 	'group-translationadmin-member' => '{{GENDER:$1|översättningsadministratör}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Översättningsadministratörer',
+	'right-zero-edit' => 'Redigera sidor i namnrymden Zero',
 	'group-centralnoticeadmin' => 'CentralNotice-administratörer',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|CentralNotice-administratör}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:CentralNotice-administratör',
@@ -15552,11 +15557,10 @@ $messages['sv'] = array(
 text i övriga namnrymder är tillgänglig under <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.sv" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Erkännande-DelaLika licensen</a>
 ytterligare villkor kan tillkomma.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Användarvillkor</a> för detaljer.',
-	'wikidata-shortcopyrightwarning' => 'Genom att klicka på "{{int:wikibase-save}}" samtycker du till [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och du samtycker oåterkalleligen till att släppa ditt bidrag under [https://creativecommons.org/publicdomain/zero/1.0/ licensen CC0].',
 	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
-	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sidor som är länkade till det här objektet', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sidor som är länkade till det här objektet',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Du kan inte radera eller flytta huvudsidan.',
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterar genom att tillhandahålla denna information till Wikimedia Foundation att vi får kontakta dig om översättningar eller andra ämnen relaterade till Wikimediarörelsen vi tror kan intressera dig. Du accepterar att din data kan sparas i USA och accepterar våra [https://wikimediafoundation.org/wiki/Privacy_policy integritetspolicy].',
@@ -15597,6 +15601,7 @@ Annars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en be
 	'wikimedia-torblock-blocked' => 'Din IP-adress, <strong>$1</strong>, har automatiskt blivit identifieras som en utgångsnod för Tor.
 Redigering genom Tor är blockerat för att förhindra missbruk.
 För mer information och instruktioner för legitima användare, se den globala policyn: [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Integritetspolicy]',
 );
 
 /** Swahili (Kiswahili)
