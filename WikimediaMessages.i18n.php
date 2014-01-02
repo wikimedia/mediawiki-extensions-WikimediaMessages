@@ -203,9 +203,9 @@ $messages['en'] = array(
 
 	# meta.wikimedia.org specific user group
 
-	'group-massmessage-sender'        => 'Massmessage senders',
-	'group-massmessage-sender-member' => '{{GENDER:$1|massmessage sender}}',
-	'grouppage-massmessage-sender'    => '{{ns:project}}:Massmessage senders', # only translate this message to other languages if you have to change it
+	'group-massmessage-sender'        => 'Mass message senders',
+	'group-massmessage-sender-member' => '{{GENDER:$1|mass message sender}}',
+	'grouppage-massmessage-sender'    => '{{ns:project}}:Mass message senders', # only translate this message to other languages if you have to change it
 
 	'group-oauthadmin'        => 'OAuth administrators',
 	'group-oauthadmin-member' => '{{GENDER:$1|OAuth administrator}}',
