@@ -2946,6 +2946,7 @@ $messages['ce'] = array(
 	'group-Ex_Administrator' => 'Хьалхьа хила куьйгалхой',
 	'grouppage-Ex_Administrator' => '{{ns:project}}:Хьалха хилла куьйгалхой',
 	'group-abusefilter' => 'Зулам литтаран тадархой',
+	'group-abusefilter-member' => '{{GENDER:$1|Зулам литтар тадераг}}',
 	'grouppage-abusefilter' => '{{ns:project}}:Зулам литтаран тадархой',
 	'group-accountcreator' => 'Декъашхойн дӀаяздарш кхуллурш',
 	'group-accountcreator-member' => '{{GENDER:$1|декъашхошан дӀаяздарш кхуллург}}',
@@ -2962,6 +2963,7 @@ $messages['ce'] = array(
 	'group-import-member' => '{{GENDER:$1|импорт ериг}}',
 	'grouppage-import' => '{{ns:project}}:Импорт ерш',
 	'group-interface_editor' => 'Интерфейсан тадархой',
+	'group-interface_editor-member' => '{{GENDER:$1|интерфейс таераг}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Интерфейсан тадархой',
 	'group-ipblock-exempt' => 'IP-блоктохаршан юкъарадоккху',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|юкъараваккхар/яккхар IP-блоктохаршана}}',
@@ -2971,10 +2973,14 @@ $messages['ce'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Викиюкъахь-импорт ерш',
 	'group-Global_bot' => 'Масхьара шаболххой',
 	'group-Global_bot-member' => 'масхьара шаболххо', # Fuzzy
+	'group-Global_rollback-member' => '{{GENDER:$1|глобальни юхадохург}}',
 	'group-Global_sysops' => 'Глобальни куьйгалхой',
+	'group-Global_sysops-member' => '{{GENDER:$1|глобальни куьйгалхо}}',
 	'group-editinterface' => 'Интерфейсан тадархой',
+	'group-editinterface-member' => '{{GENDER:$1|интерфейс таераг}}',
 	'group-steward' => 'Стюардхой',
 	'group-sysadmin' => 'Системин куьйгалхой',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|глобальни юкъараваккхар/яккхар IP-блоктохаршана}}',
 	'group-oauthadmin' => 'Куьйгалхой OAuth',
 	'group-oauthadmin-member' => '{{GENDER:$1|Куьйгалхо OAuth}}',
 	'grouppage-oauthadmin' => '{{ns:project}}:Куьйгалхой OAuth',
@@ -4844,6 +4850,9 @@ $messages['et'] = array(
 	'group-sysadmin-member' => 'süsteemiülem',
 	'group-New_wikis_importer' => 'Uue viki importijad',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|uue viki importija}}',
+	'group-oauthadmin' => 'OAuthi administraator',
+	'group-oauthadmin-member' => '{{GENDER:$1|OAuthi administraator}}',
+	'grouppage-oauthadmin' => '{{ns:project}}:OAuthi administraatorid',
 	'group-translationadmin' => 'Tõlkeadministraatorid',
 	'group-translationadmin-member' => '{{GENDER:$1|tõlkeadministraator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Tõlkeadministraatorid',
@@ -4858,7 +4867,6 @@ $messages['et'] = array(
 	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
 sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
-	'wikidata-shortcopyrightwarning' => 'Kui klõpsad "{{int:wikibase-save}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma kaastöö pöördumatu avaldamisega Creative Commonsi üldise litsentsi [https://creativecommons.org/publicdomain/zero/1.0/deed.et CC0] all.',
 	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikibase-sitelinks-wikivoyage' => "Sellele üksusele viitavad Wikivoyage'i-leheküljed",
@@ -4884,9 +4892,23 @@ Palun lisa ülaltoodud üksikasjad kõigile päringutele, mida teed.
 
 Kui usud, et sind on blokeeritud ekslikult, leiad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.
 Muul juhul [[m:Steward requests/Global|postita palun blokeeringu arutamiseks palve]], mis metavikis üle vaadatakse.",
+	'wikimedia-globalblocking-ipblocked-xff' => "'''Vähemalt üks sinu päringus kasutatud proksiserveritest on [[m:Special:MyLanguage/Global blocks|globaalselt blokeeritud]].'''
+
+Blokeerija: $1 ($2).
+Põhjus: ''$3''.
+
+* Blokeerimisaeg: $4
+* Blokeeringu aegumistähtaeg: $5
+
+Blokeeritud proksi aadress oli $6.
+Palun lisa ülaltoodud üksikasjad kõigile päringutele, mida teed.
+
+Kui usud, et sind on blokeeritud ekslikult, leiad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.
+Muul juhul [[m:Steward requests/Global|postita palun metavikisse blokeeringu arutamise taotlus]].",
 	'wikimedia-torblock-blocked' => 'Sinu IP-aadress <strong>$1</strong> on automaatselt kindlaks tehtud kui Tor-võrgu lõppsõlm.
 Tor-võrgu kaudu toimetamine on väärtarvituse vältimiseks keelatud.
 Õigustatud muudatuste tegijad leiavad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Privaatsus]',
 );
 
 /** Basque (euskara)
@@ -15021,8 +15043,8 @@ $messages['sr-ec'] = array(
 	'group-arbcom' => 'Чланови Арбитражног одбора',
 	'group-arbcom-member' => '{{GENDER:$1|члан Арбитражног одбора}}',
 	'grouppage-arbcom' => '{{ns:project}}:Чланови Арбитражног одбора',
-	'group-autopatrolled' => 'Аутопатролери',
-	'group-autopatrolled-member' => '{{GENDER:$1|аутопатролер|аутопатролерка}}',
+	'group-autopatrolled' => 'Аутоматски патролисани',
+	'group-autopatrolled-member' => '{{GENDER:$1|аутоматски патролисан|аутоматски патролисана}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Аутопатролери',
 	'group-autoreviewer' => 'Самооцењивачи',
 	'group-autoreviewer-member' => '{{GENDER:$1|самооцењивач|самооцењивачица|самооцењивач}}',
@@ -15115,7 +15137,6 @@ $messages['sr-ec'] = array(
 могући су и додатни услови.
 Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Услове коришћења</a> за више информација.',
 	'wikidata-copyright' => 'Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Услове коришћења</a> за више информација.',
-	'wikidata-shortcopyrightwarning' => 'Кликом на дугме „сачувај“, прихватате [https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да објавите свој допринос под условима [https://creativecommons.org/publicdomain/zero/1.0/ CC0 лиценце].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> и <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
@@ -15164,8 +15185,8 @@ $messages['sr-el'] = array(
 	'group-arbcom' => 'Članovi arbitražnog veća',
 	'group-arbcom-member' => '{{GENDER:$1|član Arbitražnog odbora}}',
 	'grouppage-arbcom' => '{{ns:project}}:Članovi arbitražne komisije',
-	'group-autopatrolled' => 'Autopatroleri',
-	'group-autopatrolled-member' => '{{GENDER:$1|autopatroler|autopatrolerka}}',
+	'group-autopatrolled' => 'Automatski patrolisani',
+	'group-autopatrolled-member' => '{{GENDER:$1|automatski patrolisan|automatski patrolisana}}',
 	'grouppage-autopatrolled' => '{{ns:project}}:Autopatrolisani',
 	'group-autoreviewer' => 'Automatski pregledani',
 	'group-autoreviewer-member' => '{{GENDER:$1|samoocenjivač|samoocenjivačica|samoocenjivač}}',
