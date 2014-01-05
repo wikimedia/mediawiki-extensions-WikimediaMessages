@@ -1766,6 +1766,7 @@ $messages['ce'] = array(
 	'wm-license-information-description' => 'Цуьнах лаьцна',
 	'wm-license-information-source' => 'Хьост',
 	'wm-license-information-date' => 'Терахь',
+	'wm-license-information-permission' => 'Бакъонаш',
 	'wm-license-pd-wiki-link' => 'w:ce:Юкъараллин хьал',
 );
 
@@ -2559,7 +2560,15 @@ $messages['en-ca'] = array(
  */
 $messages['en-gb'] = array(
 	'wikimedialicensetexts-desc' => 'Wikimedia licence messages',
+	'wm-license-cecill-text' => 'This work is [[{{int:wm-license-free-software-wiki-link}}|free software]]; you can redistribute it or modify it under the terms of the [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. The terms of the CeCILL licence are available at [{{int:wm-license-cecill-full-link}} www.cecill.info].',
+	'wm-license-fal-text' => "Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the '''[[{{int:wm-license-fal-wiki-link}}|Free Art Licence]]'''. You will find a specimen of this licence on the [{{int:wm-license-fal-full-link}} Copyleft Attitude site] as well as on other sites.",
+	'wm-license-gfdl-1.2-and-later' => "Permission is granted to copy, distribute and/or modify this document under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation Licence]]''', Version 1.2 or any later version published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the licence is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation Licence]]''.",
+	'wm-license-gfdl-1.2-only' => "Permission is granted to copy, distribute and/or modify this document under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation Licence]]''', Version 1.2 only as published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the licence is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation Licence]]''.",
+	'wm-license-gfdl-1.3-and-later' => "Permission is granted to copy, distribute and/or modify this document under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation Licence]]''', Version 1.3 or any later version published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the licence is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation Licence]]''.",
+	'wm-license-gfdl-1.3-only' => "Permission is granted to copy, distribute and/or modify this document under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation Licence]]''', Version 1.3 only as published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the licence is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation Licence]]''.",
+	'wm-license-gpl-text' => "This work is [[{{int:wm-license-free-software-wiki-link}}|free software]]; you can redistribute it and/or modify it under the terms of the '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public Licence]]''' as published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; either version 2 of the Licence, or any later version. This work is distributed in the hope that it will be useful, but '''without any warranty'''; without even the implied warranty of '''merchantability''' or '''fitness for a particular purpose'''. See [{{int:wm-license-gpl-2-full-link}} version 2] and [{{int:wm-license-gpl-3-full-link}} version 3 of the GNU General Public Licence] for more details.",
 	'wm-license-information-table-summary' => 'A standardised table providing complete information about the file, including description of what it shows and how it was made, copyright status and source.',
+	'wm-license-lgpl-text' => "This library is [[{{int:wm-license-free-software-wiki-link}}|free software]]; you can redistribute it and/or modify it under the terms of the '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public Licence]]''' as published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; either version 2.1 of the Licence, or (at your option) any later version. This library is distributed in the hope that it will be useful, but '''without any warranty'''; without even the implied warranty of '''merchantability''' or '''fitness for a particular purpose'''. See [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] and [{{int:wm-license-lgpl-3-full-link}} version 3 of the GNU Lesser General Public Licence] for more details.",
 	'wm-license-licensing-update-text' => 'This licencing tag was added to this file as part of the GFDL [[{{int:wm-license-licensing-update-wiki-link}}|licencing update]].',
 	'wm-license-self-one-license' => 'I, the copyright holder of this work, hereby publish it under the following licence:',
 	'wm-license-self-one-license-with-author' => '$1, the copyright holder of this work, hereby publishes it under the following licence:',
@@ -6668,7 +6677,7 @@ $messages['nan'] = array(
  * @author Diebuche
  */
 $messages['nap'] = array(
-	'wm-license-gfdl-1.2-and-later' => "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''.", # Fuzzy
+	'wm-license-gfdl-1.2-and-later' => "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 pubbrecate d\"o [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''.",
 );
 
 /** Norwegian Bokmål (norsk bokmål)

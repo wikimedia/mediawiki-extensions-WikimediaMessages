@@ -2973,14 +2973,20 @@ $messages['ce'] = array(
 	'grouppage-transwiki' => '{{ns:project}}:Викиюкъахь-импорт ерш',
 	'group-Global_bot' => 'Масхьара шаболххой',
 	'group-Global_bot-member' => 'масхьара шаболххо', # Fuzzy
+	'group-Global_rollback' => 'Глобальни юхадохург',
 	'group-Global_rollback-member' => '{{GENDER:$1|глобальни юхадохург}}',
 	'group-Global_sysops' => 'Глобальни куьйгалхой',
 	'group-Global_sysops-member' => '{{GENDER:$1|глобальни куьйгалхо}}',
+	'group-Ombudsmen' => 'Омбудсменаш',
+	'group-Staff' => 'Белхахой',
 	'group-editinterface' => 'Интерфейсан тадархой',
 	'group-editinterface-member' => '{{GENDER:$1|интерфейс таераг}}',
 	'group-steward' => 'Стюардхой',
 	'group-sysadmin' => 'Системин куьйгалхой',
+	'group-New_wikis_importer' => 'Керла википедеш импорт ерш',
+	'group-global-ipblock-exempt' => 'Глобальни юкъараваккхар/яккхар IP-блоктохаршана',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|глобальни юкъараваккхар/яккхар IP-блоктохаршана}}',
+	'group-recursive-export' => 'Рекурсиван экспорт',
 	'group-oauthadmin' => 'Куьйгалхой OAuth',
 	'group-oauthadmin-member' => '{{GENDER:$1|Куьйгалхо OAuth}}',
 	'grouppage-oauthadmin' => '{{ns:project}}:Куьйгалхой OAuth',
@@ -6172,9 +6178,14 @@ $messages['gan-hant'] = array(
 );
 
 /** Scottish Gaelic (Gàidhlig)
+ * @author Akerbeltz
  */
 $messages['gd'] = array(
 	'sitesupport' => 'Tabhartasan',
+	'wikimedia-copyright' => 'Tha an teacsa seo ri làimh fo cheadachas <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>;
+faodaidh gu bheil e buailteach do theirmichean a bharrachd.
+Faic <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">teirmichean a\' chleachdaidh</a> airson mion-fhiosrachadh.',
+	'wikimedia-developers' => 'Luchd-leasachaidh',
 );
 
 /** Galician (galego)
@@ -16735,12 +16746,13 @@ $messages['tzm'] = array(
 
 /** Udmurt (удмурт)
  * @author Kaganer
+ * @author Udmwiki
  * @author ОйЛ
  */
 $messages['udm'] = array(
 	'sitesupport' => 'Проектлы юрттон',
 	'wikimedia-copyrightwarning' => "Ваньзэ, мае тӥ гожтоды та статьяе, пыраклы кылёз таӵе лицензиос улын — [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] но [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
-Тыро-быдогес со сярысь лыдӟе [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожъяса, тӥ асьтэлэн автор правоостылэсь куштӥськоды.", # Fuzzy
+Тыро-быдогес со сярысь лыдӟе [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Викимедиа проектъёсын ужан условиос] статьяын. '''Ноку эн пыртэ Википедие автор правоен утем материалъёсты!''' Википедиын со туж бадӟым сьӧлыкен лыдъяське. Википедие гожтэмдэс кельтыса, тӥ эрик сётӥськоды вань адямиослы та гожтэмдэс котькызьы но тупатыны.",
 );
 
 /** Uighur (ئۇيغۇرچە / Uyghurche‎) */

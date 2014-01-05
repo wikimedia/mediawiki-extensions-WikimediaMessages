@@ -79,6 +79,8 @@ $messages['de'] = array(
  */
 $messages['dsb'] = array(
 	'wikimediamessages-desc' => 'Nachylne powěsći, kótarež su specifiske za Wikimediju',
+	'bug-54847-password-reset-prompt' => 'Dla [[meta:October 2013 private data security issue|problema z datowym šćitom w datowych bankach Wikimedia Labs]] jo njedawno wužyte gronidło snaź napadojte. Pšosym zapódaj nowe, druge gronidło, aby swójo konto zawěsćił. Zamołwjamy so za njepřijomnosće. Zagranjamy se za wobuznosći.',
+	'password-recycled' => 'Gronidło, kótarež sy zapódał, wótpowědujo staremu gronidłoju, kótarež jo z twójim kontom zwězane. Pšosym zapódaj nowe, druge gronidło.',
 );
 
 /** Greek (Ελληνικά)
@@ -160,6 +162,8 @@ $messages['he'] = array(
  */
 $messages['hsb'] = array(
 	'wikimediamessages-desc' => 'Nachwilne powěsće, kotrež su specifiske za Wikimediju',
+	'bug-54847-password-reset-prompt' => 'Dla [[meta:October 2013 private data security issue|problema z datowym škitom w datowych bankach Wikimedia Labs]] je njedawno wužite hesło snano napadliwe. Prošu zapodaj nowe, druhe hesło, zo by swoje konto zawěsćił. Zamołwjamy so za njepřijomnosće.',
+	'password-recycled' => 'Hesło, kotrež sy zapodał, wotpowěduje staremu hesłu, kotrež je z twojim kontom zwjazane. Prošu zapodaj nowe, druhe hesło.',
 );
 
 /** Italian (italiano)
