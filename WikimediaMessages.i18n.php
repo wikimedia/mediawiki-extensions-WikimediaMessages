@@ -251,6 +251,7 @@ See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
 
 	# Wikidata-specific messages
+	'wikibase-sitelinks-wikisource' => 'Wikisource pages linked to this item',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage pages linked to this item',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons page linked to this item',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -571,6 +572,7 @@ Uses {{msg-mw|Wikibase-save}}.',
 Refers to {{msg-mw|Savearticle}}.
 
 {{Identical/Wikimedia-licensing}}',
+	'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
 	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
