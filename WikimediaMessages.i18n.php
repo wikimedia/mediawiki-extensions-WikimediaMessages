@@ -564,9 +564,6 @@ This message is displayed in the site footer. It is the default licensing policy
 	'wikidata-copyright' => 'This message is displayed in the site footer. It is the special licensing policy for the Wikidata project.
 
 The attribute "<code>title</code>" values ("Definition of the Creative Commons CC0 License", "Definition of the Creative Commons Attribution/Share-Alike License" and "Wikimedia Foundation Terms of Use") are also translatable.',
-	'wikidata-shortcopyrightwarning' => 'Message displayed in the pop up when editing Wikidata data. It points to the terms of use and the CC0 license, as the structured data is published under CC0.
-
-Uses {{msg-mw|Wikibase-save}}.',
 	'wikimedia-copyrightwarning' => 'Warning: the correct default licenses links are to the creativecommons.org ([https://creativecommons.org/licenses/by-sa/3.0/] or e.g. [https://creativecommons.org/licenses/by-sa/3.0/deed.fr]) and fsf.org ([https://www.gnu.org/copyleft/fdl.html]) pages, which should be used in the translations to languages other than English. Customisation may be possible on local wikis upon community consensus.
 
 Refers to {{msg-mw|Savearticle}}.
@@ -3478,6 +3475,9 @@ $messages['cy'] = array(
 	'group-translationadmin' => 'Gweinyddwyr y cyfieithiadau',
 	'group-translationadmin-member' => '{{GENDER:$1|gweinyddwr y cyfieithiadau}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Gweinyddwyr y cyfieithiadau',
+	'group-zeroadmin' => 'Gweinyddwyr Zero',
+	'group-zeroadmin-member' => '{{GENDER:$1|Gweinyddwr Zero}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Gweinyddwyr Zero',
 	'group-centralnoticeadmin' => 'Gweinyddwyr yr hysbysiadau canolog',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|gweinyddwr yr hysbysiadau canolog}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Gweinyddwyr yr hysbysiadau canolog',
@@ -3493,7 +3493,6 @@ Gweler <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Telerau Defny
 mae testun yn y parthau eraill ar gael yn ôl termau\'r drwydded <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Diffiniad y Drwydded Creative Commons Attribution/Share-Alike">Creative Commons Attribution/Share-Alike</a>;
 gall termau ychwanegol fod yn weithredol.
 Gweler y <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Termau Defnyddio Sefydliad Wikimedia">Termau Defnyddio</a> am fanylion.',
-	'wikidata-shortcopyrightwarning' => 'Wrth bwyso ar "{{int:wikibase-save}}", rydych yn derbyn y [https://wikimediafoundation.org/wiki/Terms_of_Use telerau defnyddio], ac yn cytuno\'n ddi-droi-nôl i ryddhau eich cyfraniad gyda  [https://creativecommons.org/publicdomain/zero/1.0/ thrwydded CC0] arno.',
 	'wikimedia-copyrightwarning' => "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] a'r [https://www.gnu.org/copyleft/fdl.html GFDL].
 Yr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.
 Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
@@ -3888,9 +3887,9 @@ Einzelheiten sind in den <a href="https://wikimediafoundation.org/wiki/Nutzungsb
 Text in anderen Namensräumen ist verfügbar unter der <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.de" title="Definition der Creative-Commons-Attribution/Share-Alike-Lizenz">Creative-Commons-Attribution/Share-Alike-Lizenz</a>;
 zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzungsbedingungen der Wikimedia Foundation">Nutzungsbedingungen</a> für Einzelheiten.',
-	'wikidata-shortcopyrightwarning' => 'Durch Klicken auf „{{int:wikibase-save}}“ stimmst du den [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Beitrags unter der [https://creativecommons.org/publicdomain/zero/1.0/deed.de CC0-Lizenz] zu.',
 	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
+	'wikibase-sitelinks-wikisource' => 'Wikisource-Seiten, die mit diesem Objekt verlinkt sind',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten, die mit diesem Objekt verlinkt sind',
 	'wikibase-sitelinks-commons' => 'Wikimedia-Commons-Seite, die mit diesem Objekt verlinkt ist',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -5397,8 +5396,8 @@ $messages['fi'] = array(
 	'group-inactive-member' => '{{GENDER:$1|epäaktiivinen käyttäjä}}',
 	'grouppage-inactive' => '{{ns:project}}:Epäaktiiviset käyttäjät',
 	'wikimedia-copyright' => 'Teksti on saatavilla <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href="https://wikimediafoundation.org/wiki/Käyttöehdot">käyttöehdot</a>.',
-	'wikidata-shortcopyrightwarning' => 'Klikkaamalla "{{int:wikibase-save}}" sitoudut [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoihin] ja suostut peruuttamattomasti luovuttamaan panoksesi [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisenssillä].',
 	'wikimedia-copyrightwarning' => 'Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].',
+	'wikibase-sitelinks-wikisource' => 'Tähän kohteeseen linkitetyt Wikiaineisto-sivut',
 	'wikibase-sitelinks-wikivoyage' => 'Tähän kohteeseen linkitetyt Wikivoyage-sivut',
 	'wikibase-sitelinks-commons' => 'Tähän kohteeseen linkitetty Wikimedia Commons -sivu',
 	'cant-delete-main-page' => 'Etusivua ei voi poistaa tai siirtää.',
@@ -5444,6 +5443,7 @@ $messages['fo'] = array(
  * @author Grondin
  * @author Guillom
  * @author Hercule
+ * @author Hoo
  * @author IAlex
  * @author Jean-Frédéric
  * @author Kropotkine 113
@@ -5614,9 +5614,9 @@ Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d\'utilisatio
 le texte dans les autres espaces de nom est disponible sous la <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Définition de la licence Creative Commons Attribution/Share-Alike">licence Creative Commons Attribution/Share-Alike</a>;
 des conditions supplémentaires peuvent s’appliquer.
 Voyez les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Conditions d’utilisation de la fondation Wikimédia">Conditions d’utilisation</a>',
-	'wikidata-shortcopyrightwarning' => 'En cliquant sur « {{int:wikibase-save}} », vous acceptez les [https://wikimediafoundation.org/wiki/Terms_of_Use conditions d’utilisation], et vous acceptez de façon irrévocable de livrer votre contribution sous la [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licence CC0].',
 	'wikimedia-copyrightwarning' => "En cliquant sur le bouton « {{int:savearticle}} », vous acceptez les [https://wikimediafoundation.org/wiki/Conditions_d'utilisation conditions d’utilisation] et vous acceptez de placer irrévocablement votre contribution sous [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons attribution – partage à l’identique 3.0] et [https://www.gnu.org/copyleft/fdl.html GFDL].
 Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.",
+	'wikibase-sitelinks-wikisource' => 'Pages de Wikisource liées à cet élément',
 	'wikibase-sitelinks-wikivoyage' => 'Pages de Wikivoyage liées à cet élément',
 	'wikibase-sitelinks-commons' => 'Page de Wikimedia Commons liée à cet élément',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -8229,6 +8229,7 @@ Sjá nánar í <a href="https://wikimediafoundation.org/wiki/Terms_of_use">notku
  * @author Darth Kule
  * @author F. Cosoleto
  * @author Gianfranco
+ * @author Hoo
  * @author Melos
  * @author Nemo bis
  * @author OrbiliusMagister
@@ -8382,8 +8383,8 @@ $messages['it'] = array(
 il testo negli altri namespace è disponibile in base alla <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it" title="Definizione della licenza Creative Commons Attribuzione-Condividi allo stesso modo">licenza Creative Commons Attribuzione-Condividi allo stesso modo</a>;
 possono applicarsi ulteriori termini.
 Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wikimedia Foundation Terms of Use">Condizioni d\'uso</a> per i dettagli.',
-	'wikidata-shortcopyrightwarning' => 'Facendo clic su "{{int:wikibase-save}}", si accettano le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condizioni d\'uso] e acconsenti irrevocabilmente a rilasciare il tuo contributo in base alla licenza [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].',
 	'wikimedia-copyrightwarning' => "Facendo click sul pulsante \"{{int:savearticle}}\", accetti le [https://wikimediafoundation.org/wiki/Condizioni_d'uso condizioni d'uso], e accetti irrevocabilmente di rilasciare il tuo contributo sotto le licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Accetti inoltre che un collegamento ipertestuale o URL sia sufficiente per l'attribuzione in base alla licenza Creative Commons.",
+	'wikibase-sitelinks-wikisource' => 'Pagine di Wikisource collegate a questo elemento',
 	'wikibase-sitelinks-wikivoyage' => 'Pagine di Wikivoyage collegate a questo elemento',
 	'wikibase-sitelinks-commons' => 'Pagina di Commons collegata a questo elemento',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -17180,9 +17181,9 @@ $messages['uz'] = array(
 	'group-rollbacker' => 'Eski holiga qaytaruvchilar',
 	'group-rollbacker-member' => '{{GENDER:$1|eski holiga qaytaruvchi}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Eski holiga qaytaruvchilar',
-	'group-transwiki' => 'Wikilararo importchilar',
-	'group-transwiki-member' => '{{GENDER:$1|wikilararo importchi}}',
-	'grouppage-transwiki' => '{{ns:project}}:Wikilararo importchilar',
+	'group-transwiki' => 'Vikilararo importchilar',
+	'group-transwiki-member' => '{{GENDER:$1|vikilararo importchi}}',
+	'grouppage-transwiki' => '{{ns:project}}:Vikilararo importchilar',
 	'group-trusted' => 'Ishonchli ishtirokchilar',
 	'group-trusted-member' => '{{GENDER:$1|ishonchli ishtirokchi}}',
 	'grouppage-trusted' => '{{ns:project}}:Ishonchli ishtirokchilar',
