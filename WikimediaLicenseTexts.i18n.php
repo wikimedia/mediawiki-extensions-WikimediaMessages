@@ -1747,6 +1747,7 @@ $messages['cdo'] = array(
 );
 
 /** Chechen (нохчийн)
+ * @author Jarekt
  * @author Sasan700
  * @author Умар
  */
@@ -1767,6 +1768,7 @@ $messages['ce'] = array(
 	'wm-license-information-source' => 'Хьост',
 	'wm-license-information-date' => 'Терахь',
 	'wm-license-information-permission' => 'Бакъонаш',
+	'wm-license-own-work' => 'Сан болх',
 	'wm-license-pd-wiki-link' => 'w:ce:Юкъараллин хьал',
 );
 

@@ -569,9 +569,12 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 Refers to {{msg-mw|Savearticle}}.
 
 {{Identical/Wikimedia-licensing}}',
-	'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links',
-	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links',
-	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links',
+	'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links.
+{{Related|Wikibase-sitelinks}}',
+	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links.
+{{Related|Wikibase-sitelinks}}',
+	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links.
+{{Related|Wikibase-sitelinks}}',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
 {{Identical|Common}}',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
@@ -1581,9 +1584,9 @@ Llea <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ast">les condici
 el testu de los demás espacios de nomes ta disponible baxo la <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">llicencia Creative Commons reconocimientu/compartir igual</a>;
 puen aplicase otres condiciones más.
 Consulte les <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">condiciones d\'usu</a> pa más detalles.',
-	'wikidata-shortcopyrightwarning' => "Calcando en «{{int:wikibase-save}}», aceuta les [https://wikimediafoundation.org/wiki/Terms_of_Use/ast condiciones d'usu] y aceuta lliberar irrevocablemente la so collaboración baxo la [https://creativecommons.org/publicdomain/zero/1.0/deed.ast llicencia CC0].",
 	'wikimedia-copyrightwarning' => 'Al calcar nel botón "{{int:savearticle}}" aceutes los [https://wikimediafoundation.org/wiki/Terms_of_Use términos d\'usu] y aceutes de mou irrevocable lliberar la contribución baxo la [https://creativecommons.org/licenses/by-sa/3.0/ llicencia CC-BY-SA 3.0] y la [https://www.gnu.org/copyleft/fdl.html GFDL].
 Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Creative Commons.',
+	'wikibase-sitelinks-wikisource' => 'Páxines de Uiquiesbilla enllazaes con esti elementu',
 	'wikibase-sitelinks-wikivoyage' => 'Páxines de Wikivoyage enllazaes con esti elementu',
 	'wikibase-sitelinks-commons' => 'Páxina de Wikimedia Commons enllazada con esti elementu',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -4588,6 +4591,7 @@ Vi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo
  * @author Manuelt15
  * @author MarcoAurelio
  * @author Platonides
+ * @author Salvador alc
  * @author Sanbec
  * @author Shirayuki
  * @author Translationista
@@ -4728,10 +4732,10 @@ Véase <a href="https://wikimediafoundation.org/wiki/Términos_de_Uso">Términos
 el texto en los demás espacios de nombres está disponible bajo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es" title="Definición de la licencia Creative Commons Atribución-CompartirIgual">licencia Creative Commons Atribución-CompartirIgual</a>;
 pueden aplicarse términos adicionales.
 Véanse los <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/es" title="Términos y condiciones de uso de la Fundacuón Wikimedia">Términos y condiciones de uso</a> para más detalles.',
-	'wikidata-shortcopyrightwarning' => 'Al pulsar en «{{int:wikibase-save}}» aceptas los [https://wikimediafoundation.org/wiki/Terms_of_Use términos de uso] y acuerdas liberar tu contribución bajo la [https://creativecommons.org/publicdomain/zero/1.0/ licencia CC0].',
 	'wikimedia-copyrightwarning' => 'Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].
 Estás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.
 Consulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.', # Fuzzy
+	'wikibase-sitelinks-wikisource' => 'Páginas de Wikisource con enlaces hacia este elemento',
 	'wikibase-sitelinks-wikivoyage' => 'Páginas de Wikiviajes con enlaces hacia este elemento',
 	'wikibase-sitelinks-commons' => 'Páginas de Wikimedia Commons con enlaces hacia este elemento', # Fuzzy
 	'cant-delete-main-page' => 'No se puede borrar ni trasladar la página principal.',
@@ -5903,7 +5907,7 @@ $messages['frr'] = array(
 	'group-editinterface-member' => '{{GENDER:$1|Interface bewerker}}',
 	'group-steward' => 'Stewards',
 	'group-steward-member' => '{{GENDER:$1|Steward}}',
-	'group-sysadmin' => 'Süsteem administratooren',
+	'group-sysadmin' => 'Süsteem-administratooren',
 	'group-sysadmin-member' => '{{GENDER:$1|Süsteem administraator}}',
 	'group-API_High_Limit_Requestor' => 'Huuch API limit brüker',
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Huuch API limit brüker}}',
@@ -5915,12 +5919,22 @@ $messages['frr'] = array(
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|Faan globaal IP speren ütjnimenen}}',
 	'group-recursive-export' => 'Rekursiif eksportöören',
 	'group-recursive-export-member' => '{{GENDER:$1|Rekursiif eksportöör}}',
+	'group-massmessage-sender' => 'Bonkerwiis bööd schüürern',
+	'group-massmessage-sender-member' => '{{GENDER:$1|bonkerwiis bööd schüürer}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}:Bonkerwiis bööd schüürern',
+	'group-oauthadmin' => 'OAuth-administratooren',
+	'group-oauthadmin-member' => '{{GENDER:$1|OAuth-administraator}}',
+	'grouppage-oauthadmin' => '{{ns:project}}:OAuth-administratooren',
 	'group-translationadmin' => 'Auersaatang administratooren',
 	'group-translationadmin-member' => '{{GENDER:$1|Administraator för auersaatangen}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Administratooren för auersaatangen',
-	'group-centralnoticeadmin' => 'Administratooren för sentraal tisangen',
+	'group-zeroadmin' => 'Zero-administratooren',
+	'group-zeroadmin-member' => '{{GENDER:$1|Zero-administraator}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Zero-administratooren',
+	'right-zero-edit' => 'Sidjen uun a Zero-nöömrüm bewerke',
+	'group-centralnoticeadmin' => 'Administratooren för sentraal bööd',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administraator för sentraal tisangen}}',
-	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administratooren för sentraal tisangen',
+	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administratooren för sentraal bööd',
 	'group-coder' => 'Programiarern',
 	'group-coder-member' => '{{GENDER:$1|Programiarer}}',
 	'group-inactive' => 'Ünaktiif brükern',
@@ -5932,11 +5946,11 @@ Luke am enkelthaiden uun a <a href="https://wikimediafoundation.org/wiki/Nutzung
 ööder dooten stun oner det lisens <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike</a>;
 diar kön uk noch ööder reegeln tääl.
 Luke bi a <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
-	'wikidata-shortcopyrightwarning' => 'Wan dü üüb "{{int:wikibase-save}}" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dü stemest tu, dat dan bidrach oner det lisens [https://creativecommons.org/publicdomain/zero/1.0/ CC0] brükt wurd mut.',
 	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [https://wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [https://frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [https://frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
+	'wikibase-sitelinks-wikisource' => 'Wikisource-sidjen, diar mä detdiar objekt ferbünjen san',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidjen, huar detdiar objekt üüb ferwiset.',
-	'wikibase-sitelinks-commons' => 'Sidjen üüb Wikimedia Commons, diar mä detdiar objekt ferbünjen san.', # Fuzzy
+	'wikibase-sitelinks-commons' => 'Sidj üüb Wikimedia Commons, diar mä detdiar objekt ferbünjen as.',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Det hoodsidj koon ei stregen of fersköwen wurd.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dü stemest tu, dat at Wikimedia Foundation mä di kontakt apnem mut. Dü stemest tu, dat din dooten uun Ameerikoo efter üüs bestemangen tu [https://wikimediafoundation.org/wiki/Privacy_policy dootenseekerhaid] seekert wurd mut.',
@@ -8585,7 +8599,7 @@ $messages['ja'] = array(
 	'group-translationadmin-member' => '{{GENDER:$1|翻訳管理者}}',
 	'grouppage-translationadmin' => '{{ns:project}}:翻訳管理者',
 	'group-zeroadmin' => 'Zero 管理者',
-	'group-zeroadmin-member' => '{{GENDER:$1|Zero 管理者}}', # Fuzzy
+	'group-zeroadmin-member' => '{{GENDER:$1|Zero 管理者}}',
 	'grouppage-zeroadmin' => '{{ns:project}}:Zero 管理者',
 	'right-zero-edit' => 'Zero 名前空間内のページを編集',
 	'group-centralnoticeadmin' => '中央管理通知管理者',
@@ -8600,9 +8614,9 @@ $messages['ja'] = array(
 	'shared-repo-name-shared' => 'ウィキメディア・コモンズ',
 	'wikimedia-copyright' => 'テキストは<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href="https://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84">利用規約</a>を参照してください。',
 	'wikidata-copyright' => '標準名前空間と Property 名前空間にあるすべての構造化データは<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="クリエイティブ・コモンズ CC0 ライセンスの定義">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ja" title="ウィキメディア財団利用規約">利用規約</a>をご覧ください。',
-	'wikidata-shortcopyrightwarning' => '「{{int:wikibase-save}}」をクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ライセンス]のもとで公開することに同意したと見なされます。この同意は取り消せません。',
 	'wikimedia-copyrightwarning' => '「{{int:savearticle}}」ボタンをクリックすると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ライセンス]および [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。
 また、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。',
+	'wikibase-sitelinks-wikisource' => 'この項目にリンクしているウィキソースのページ',
 	'wikibase-sitelinks-wikivoyage' => 'この項目にリンクしている Wikivoyage ページ',
 	'wikibase-sitelinks-commons' => 'この項目にリンクしているウィキメディア・コモンズのページ',
 	'wikibase-sitelinks-sitename-commonswiki' => 'コモンズ',
@@ -9140,6 +9154,7 @@ $messages['kn'] = array(
  * @author Ilovesabbath
  * @author Klutzy
  * @author Kwj2772
+ * @author Priviet
  * @author ToePeu
  * @author Yknok29
  * @author 관인생략
@@ -9293,6 +9308,7 @@ $messages['ko'] = array(
 자세한 내용은 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ko" title="위키미디어 재단 이용 약관">이용 약관</a>을 참고하십시오.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" 버튼을 누름으로써, 당신은 [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.
 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.',
+	'wikibase-sitelinks-wikisource' => '이 항목을 가리키는 위키문헌 문서',
 	'wikibase-sitelinks-wikivoyage' => '이 항목을 가리키는 위키여행 문서',
 	'wikibase-sitelinks-commons' => '이 항목을 가리키는 위키미디어 공용 문서',
 	'wikibase-sitelinks-sitename-commonswiki' => '공용',
@@ -9715,9 +9731,9 @@ $messages['lb'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Net aktiv Benotzer',
 	'wikimedia-copyright' => 'Den Text ass disponibel ënner der <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.
 Kuckt <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Benotzungsbedingunge</a> fir méi Detailer.',
-	'wikidata-shortcopyrightwarning' => 'Wann Dir op "{{int:wikibase-save}}" klickt, da sidd Dir mat den  [https://wikimediafoundation.org/wiki/Terms_of_Use terms of use] d\'accord an Dir sidd domat d\'accord datt Äre Beitrag ënner der  [https://creativecommons.org/publicdomain/zero/1.0/ CC0 Lizenz]. publizéiert gëtt.',
 	'wikimedia-copyrightwarning' => 'Wann Dir op de(n) "{{int:savearticle}}" Knäppche klickt, sidd Dir mat de [https://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike Lizenz 3.0] an der [https://www.gnu.org/copyleft/fdl.html GFDL] fräizeginn.
 Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.',
+	'wikibase-sitelinks-wikisource' => 'Wikisource-Säiten déi mat dësem Element verlinkt sinn',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Säiten déi mat dësem Element verlinkt sinn',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons Säit déi mat dësem Element verlinkt ass',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -9945,6 +9961,7 @@ $messages['loz'] = array(
  */
 $messages['lrc'] = array(
 	'sitesupport' => 'هومياری پيلی',
+	'wikibase-sitelinks-wikisource' => 'بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه',
 );
 
 /** Lithuanian (lietuvių)
@@ -10592,9 +10609,9 @@ $messages['mk'] = array(
 текстот и останатите именски простори се достапни под лиценцата <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.mk" title="Уредби на лиценцата Криејтив комонс Наведи извор/Сподели под исти услови">Криејтив комонс Наведи извор/Сподели под исти услови</a>;
 може да важат и дополнителни услови.
 Повеќе ќе најдете на страницата <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/mk" title="Услови на употреба на Фондацијата Викимедија">Услови на употреба</a>.',
-	'wikidata-shortcopyrightwarning' => 'Стискајќи на „{{int:wikibase-save}}“, се согласувате со [https://wikimediafoundation.org/wiki/Terms_of_Use/mk?uselang=mk условите на употреба] и неотповикливо се согласувате да ги објавувате вашите придонеси под лиценцата [https://creativecommons.org/publicdomain/zero/1.0/deed.mk CC0].',
 	'wikimedia-copyrightwarning' => 'Стискајќи на копчето „{{int:savearticle}}“, се согласувате на [https://wikimediafoundation.org/wiki/Услови_на_употреба?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [https://creativecommons.org/licenses/by-sa/3.0/?uselang=mk CC-BY-SA 3.0] и [https://www.gnu.org/copyleft/fdl.html?uselang=mk ГЛСД] (GFDL).
 Се согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.',
+	'wikibase-sitelinks-wikisource' => 'Страници на Викиизвор сврзани со овој предмет',
 	'wikibase-sitelinks-wikivoyage' => 'Страници на Википатување сврзани со овој предмет',
 	'wikibase-sitelinks-commons' => 'Страница на Ризницата сврзана со предметот',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Ризница',
@@ -12497,8 +12514,8 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 tekst w innych przestrzeniach nazw udostępniany na licencji <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl" title="Definicja licencji Uznanie autorstwa-Na tych samych warunkach">Creative Commons: uznanie autorstwa, na tych samych warunkach</a>;
 z możliwością obowiązywania dodatkowych ograniczeń.
 Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/pl" title="Fundacja Wikimedia: Warunki użytkowania">warunkach użytkowania</a>.',
-	'wikidata-shortcopyrightwarning' => 'Klikając "{{int:wikibase-save}}" zgadzasz się na [https://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] i nieodwołalnie zgadzasz się udostępniać swój wkład w ramach [https://creativecommons.org/publicdomain/zero/1.0/ Licencji CC0].',
 	'wikimedia-copyrightwarning' => 'Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0] oraz na licencji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [https://wikimediafoundation.org/wiki/Warunki_korzystania warunkach korzystania].',
+	'wikibase-sitelinks-wikisource' => 'Strony Wikiźródeł powiązane z tym elementem',
 	'wikibase-sitelinks-wikivoyage' => 'Strony Wikipodróży powiązane z tym elementem',
 	'wikibase-sitelinks-commons' => 'Strona Wikimedia Commons powiązana z tym elementem',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
@@ -13734,6 +13751,7 @@ Pe 'mbormaziune aggiundive e 'struziune pe le utinde leggittimate, 'ndruche le r
  * @author Ferrer
  * @author Flrn
  * @author HalanTul
+ * @author Hoo
  * @author Ignatus
  * @author Illusion
  * @author Kaganer
@@ -13897,8 +13915,8 @@ $messages['ru'] = array(
 	'wikidata-copyright' => 'Все структурированные данные основного пространства имён и пространства имён “Property” доступны по <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">лицензии Creative Commons CC0</a>; текст в других пространствах имён доступен по <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">лицензии Creative Commons Attribution/Share-Alike</a>;
  могут действовать дополнительные условия.
 Подробнее смотрите в разделе «<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Условия использования</a>» .',
-	'wikidata-shortcopyrightwarning' => 'Нажимая "{{int:wikibase-save}}", вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use условиями использования], и даёте неотзывное согласие на публикацию своего вклада на условиях [https://creativecommons.org/publicdomain/zero/1.0/ лицензии CC0].',
 	'wikimedia-copyrightwarning' => 'Нажимая кнопку «{{int:savearticle}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на неотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC-BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.',
+	'wikibase-sitelinks-wikisource' => 'Страницы Викитека, связанные с этим элементом',
 	'wikibase-sitelinks-wikivoyage' => 'Страницы Викигида, связанные с этим элементом',
 	'wikibase-sitelinks-commons' => 'Страница Викисклада, связанная с этим элементом',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Викисклад',
@@ -15246,7 +15264,7 @@ $messages['sr-el'] = array(
 	'group-researcher-member' => '{{GENDER:$1|istraživač|istraživačica|istraživač}}',
 	'grouppage-researcher' => '{{ns:project}}:Istraživači',
 	'group-rollbacker' => 'Vraćači',
-	'group-rollbacker-member' => '{{GENDER:$1|vraćač|vraćačica|vraćač}}',
+	'group-rollbacker-member' => '{{GENDER:$1|vraćač}}',
 	'grouppage-rollbacker' => '{{ns:project}}:Vraćači',
 	'group-transwiki' => 'Međuviki uvoznici',
 	'group-transwiki-member' => '{{GENDER:$1|međuviki uvoznik|međuviki uvoznica|međuviki uvoznik}}',
@@ -15261,7 +15279,7 @@ $messages['sr-el'] = array(
 	'group-Global_bot-member' => '{{GENDER:$1|globalni bot}}',
 	'grouppage-Global_bot' => 'm:Global bot/sr',
 	'group-Global_rollback' => 'Globalni vraćači',
-	'group-Global_rollback-member' => '{{GENDER:$1|globalni vraćač|globalna vraćačica|globalni vraćač}}',
+	'group-Global_rollback-member' => '{{GENDER:$1|globalni vraćač}}',
 	'grouppage-Global_rollback' => 'm:Global rollback/sr',
 	'group-Global_sysops' => 'Globalni administratori',
 	'group-Global_sysops-member' => '{{GENDER:$1|globalni administrator|globalna administratorka|globalni administrator}}',
@@ -17028,8 +17046,8 @@ $messages['uk'] = array(
 текст інших просторів назв доступний під ліцензією <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>;
 можуть застосовуватись додаткові умови.
 Див. детальніше <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Умови користування</a>.',
-	'wikidata-shortcopyrightwarning' => 'Натиснувши  "{{int:wikibase-save}}", ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], і ви надаєте свій внесок під [https://creativecommons.org/publicdomain/zero/1.0/ ліцензією CC0].',
 	'wikimedia-copyrightwarning' => 'Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.',
+	'wikibase-sitelinks-wikisource' => 'Список сторінок Вікісховища, що посилаються на цей елемент',
 	'wikibase-sitelinks-wikivoyage' => 'Список сторінок Вікімандрів, що посилаються на цей елемент',
 	'wikibase-sitelinks-commons' => 'Сторінка Вікісховища, що посилається на цей елемент',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Сховище',
@@ -18255,8 +18273,8 @@ $messages['zh-hans'] = array(
 	'shared-repo-name-shared' => '维基共享资源',
 	'wikimedia-copyright' => '本网站文字内容采用<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用条款</a>。',
 	'wikidata-copyright' => '本网站主和属性名字空间的所有结构化数据采用<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="知识共享“CC0”许可协议之定义">知识共享“CC0”许可协议</a>发表，其他名字空间的文字内容采用<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="知识共享“署名-相同方式共享”许可协议之定义">知识共享“署名-相同方式共享”许可协议</a>授权，附加条款可能应用。详情请见<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="维基媒体基金会使用条款">使用条款</a>。',
-	'wikidata-shortcopyrightwarning' => '点击“{{int:wikibase-save}}”，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾地同意采用[https://creativecommons.org/publicdomain/zero/1.0/ “CC0”许可协议]发表你的贡献。',
 	'wikimedia-copyrightwarning' => '点击“{{int:savearticle}}”按钮，即表示你认同[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC CC“BY-SA 3.0”许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]发表你的贡献。你认同超链接或URL是充分的知识共享许可协议所述署名。',
+	'wikibase-sitelinks-wikisource' => '链接至该项的维基文库页面',
 	'wikibase-sitelinks-wikivoyage' => '链接至该项的维基导游页面',
 	'wikibase-sitelinks-commons' => '链接至该项的维基共享资源页面',
 	'wikibase-sitelinks-sitename-commonswiki' => '共享资源',
@@ -18454,9 +18472,9 @@ $messages['zh-hant'] = array(
 	'shared-repo-name-shared' => '維基共享資源',
 	'wikimedia-copyright' => '本站的全部文字在<a "href="{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}"title="Wikipedia:CC-by-sa-3.0協議文本">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">使用條款</a>）',
 	'wikidata-copyright' => '所有來自主和屬性名字空間的結構化數據以<a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">知識共享CC0協議</a>下發佈； 其他名字空間中的文本在<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the知識共享署名-相同方式共享協議">知識共享署名-相同方式共享協議</a>下發佈；附加條款可能適用。參見<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="維基媒體基金會的使用條款">使用條款</a>了解細節。',
-	'wikidata-shortcopyrightwarning' => '點擊「{{int:wikibase-save}}」意即您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並不可撤銷同意以[https://creativecommons.org/publicdomain/zero/1.0/ 創用CC-0協議]之授權發布此貢獻。',
 	'wikimedia-copyrightwarning' => '一旦點擊「{{int:savearticle}}」按鈕，就表示你同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。
 你同意超鏈接或URL足以作為創作共享協議的署名。',
+	'wikibase-sitelinks-wikisource' => '連入此項之維基文庫頁面',
 	'wikibase-sitelinks-wikivoyage' => '連入此項之維基導遊頁面',
 	'wikibase-sitelinks-commons' => '連入此項之維基共享資源頁面',
 	'wikibase-sitelinks-sitename-commonswiki' => '共享資源',
