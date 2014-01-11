@@ -7683,7 +7683,7 @@ $messages['ia'] = array(
 	'grouppage-editprotected' => '{{ns:project}}:Redactores de paginas protegite',
 	'group-eliminator' => 'Eliminatores',
 	'group-eliminator-member' => '{{GENDER:$1|eliminator|eliminatrice}}',
-	'grouppage-eliminator' => '{{ns:project}}:Eliminator', # Fuzzy
+	'grouppage-eliminator' => '{{ns:project}}:Eliminatores',
 	'group-filemover' => 'Renominatores de files',
 	'group-filemover-member' => '{{GENDER:$1|renominator|renominatrice}} de files',
 	'grouppage-filemover' => '{{ns:project}}:Renominatores de files',
@@ -7718,7 +7718,7 @@ $messages['ia'] = array(
 	'group-trusted-member' => '{{GENDER:$1|usator|usatrice}} de confidentia',
 	'grouppage-trusted' => '{{ns:project}}:Usatores de confidentia',
 	'group-uploader' => 'Cargatores',
-	'group-uploader-member' => 'cargator', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|incargator}}',
 	'grouppage-uploader' => '{{ns:project}}:Cargatores',
 	'group-Global_bot' => 'Robotes global',
 	'group-Global_bot-member' => 'robot global',
@@ -16008,11 +16008,9 @@ $messages['te'] = array(
 	'wikimedia-copyright' => 'పాఠ్యం <a href="https://creativecommons.org/licenses/by-sa/3.0/">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు</a> క్రింద లభ్యం;
 అదనపు షరతులు వర్తించవచ్చు.
 మరిన్ని వివరాలకు <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">వాడుక నియమాల</a>ను చూడండి.',
-	'wikimedia-copyrightwarning' => 'దీన్ని భద్రపరచడం ద్వారా, మీ కృతిని [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] మరియు [https://www.gnu.org/copyleft/fdl.html GFDL] లకు లోబడి విడుదల చేసేందుకు మీరు సమ్మతిస్తున్నారు. ఇది వెనక్కి తిరిగి తీసుకోలేని అనుమతి అని మీరు ఎరుగుదురు.
-
-కనీస స్థాయిలో మీరు పనిచేస్తున్న పేజీకి లింకు లేదా URL ఇవ్వడం ద్వారా దీన్ని వాడుకునేవారు మీకు శ్రేయస్సు నాపాదిస్తారు. ఇందుకు మీరు సమ్మతిస్తున్నారు.
-
-వివరాల కోసం [https://wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.', # Fuzzy
+	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" నొక్కడం ద్వారా, మీ కృతిని [https://creativecommons.org/licenses/by-sa/3.0/   క్రియేటివ్ కామన్స్ యాట్రిబ్యూషన్ షేర్ ఎలైక్ లైసెన్స్3.0] మరియు [https://www.gnu.org/copyleft/fdl.html  జిఎఫ్డిఎల్] లకు లోబడి విడుదల చేసేందుకు మీరు సమ్మతిస్తున్నారు. ఇది వెనక్కి తిరిగి తీసుకోలేని అనుమతి అని మీరు ఎరుగుదురు.
+కనీస స్థాయిలో మీరు పనిచేస్తున్న పేజీకి లింకు లేదా యుఆర్ఎల్(URL) ఇవ్వడం ద్వారా దీన్ని వాడుకునేవారు మీకు శ్రేయస్సు నాపాదిస్తారు. ఇందుకు మీరు సమ్మతిస్తున్నారు.
+వివరాల కోసం [https://wikimediafoundation.org/wiki/Terms_of_Use వినియోగ నియమాలు] చూడండి.',
 	'cant-delete-main-page' => 'మీరు ప్రధాన పేజీని కదిలించలేరు, తొలగించలేరు',
 	'extdist-branch-master' => 'ప్రధానమైన(ఇటీవలి అభివృద్ధి రూపము)',
 	'wikimedia-developers' => 'అభివృద్ధికారులు',

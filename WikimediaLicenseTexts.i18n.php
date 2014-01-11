@@ -1764,12 +1764,16 @@ $messages['ce'] = array(
 	'wm-license-book-title' => 'ЦӀе',
 	'wm-license-book-translator' => 'Гочдархо',
 	'wm-license-creator-description' => 'Цуьнах лаьцна',
+	'wm-license-gfdl-1.2-and-later' => "Магадо хӀара документ копеш ян, яржо я хийца а хӀокху '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' лицензица верси 1.2 я цул хьалхарниг, [[{{int:wm-license-fsf-wiki-link}}|маьрша программа латточу фондас]] арахецна, хийца цалуш долу дакъашца, йоза доцуш, цхьалхачу а тӀехьарчу а обложкан техь. Лицензин копи ю дакъа чохь ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-information-description' => 'Цуьнах лаьцна',
 	'wm-license-information-source' => 'Хьост',
 	'wm-license-information-date' => 'Терахь',
 	'wm-license-information-permission' => 'Бакъонаш',
+	'wm-license-information-permission-reusing-text' => 'Юха хӀара файл лелор',
+	'wm-license-licensing-update-text' => 'ХӀара лицензи яр файлан тӀетоьхна [[{{int:wm-license-licensing-update-wiki-link}}|лицензи карлаяккхаран]] GFDL дакъа санна.',
 	'wm-license-own-work' => 'Сан болх',
 	'wm-license-pd-wiki-link' => 'w:ce:Юкъараллин хьал',
+	'wm-license-self-one-license' => 'Аса хӀокху произведенин авторо, сай лаамца яржа йо и хӀокху лицензица:',
 );
 
 /** Cebuano (Cebuano)
