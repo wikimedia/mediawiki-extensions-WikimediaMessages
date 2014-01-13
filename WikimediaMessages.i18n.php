@@ -3675,6 +3675,7 @@ yderligere betingelser kan forekomme.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation vilkår for anvendelse">vilkår for anvendelse</a> for detaljer.',
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du indvilliger i uigenkaldeligt at udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.da CC BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
+	'wikibase-sitelinks-wikisource' => 'Wikisourcesider knyttet til dette emne',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyagesider knyttet til dette emne',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons side knyttet til dette emne',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
@@ -12681,9 +12682,9 @@ Ch\'a vëdda le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Cond
 ël test ant j\'àutri spassi nominaj a l\'é disponìbil sota la <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definission ëd la licensa Creative Commons Attribution/Share-Alike License">licensa Creative Commons Attribution/Share-Alike</a>;
 dle condission adissionaj a peulo aplichesse.
 Ch\'a vëdda le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Condission d\'utilisassion ëd la fondassion Wikimedia">Condission d\'utilisassion</a> për ij detaj.',
-	'wikidata-shortcopyrightwarning' => 'An sgnacand su "{{int:wikibase-save}}", chiel a aceta le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d\'usagi], e a aceta ëd fasson irevocàbil d\'arlassé soa contribussion sota la [https://creativecommons.org/publicdomain/zero/1.0/ licensa CC0].',
 	'wikimedia-copyrightwarning' => "An sgnacand ël boton \"{{int:savearticle}}\", a l'é d'acòrdi con le [https://wikimediafoundation.org/wiki/Terms_of_Use condission d'utilisassion], e a l'é d'acordi ëd lassé irevocabilment soa contribussion sota la [https://creativecommons.org/licenses/by-sa/3.0/ licensa CC-BY-SA 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].
 A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion sota la licensa Creative Commons.",
+	'wikibase-sitelinks-wikisource' => "Pàgine ëd Wikisource gropà a st'element",
 	'wikibase-sitelinks-wikivoyage' => 'Pägine ëd Wikivoyage lijà a cost element',
 	'wikibase-sitelinks-commons' => 'Pàgine ëd Wikimedia Commons lijà a cost element',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Comun',
@@ -17619,6 +17620,7 @@ các văn bản trong các không gian tên khác được được phát hành 
 các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
+	'wikibase-sitelinks-wikisource' => 'Trang Wikisource được liên kết với khoản mục này',
 	'wikibase-sitelinks-wikivoyage' => 'Trang Wikivoyage được liên kết với khoản mục này',
 	'wikibase-sitelinks-commons' => 'Trang Wikimedia Commons được liên kết với khoản mục này',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
