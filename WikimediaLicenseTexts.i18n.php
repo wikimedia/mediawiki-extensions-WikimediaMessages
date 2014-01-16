@@ -1763,7 +1763,10 @@ $messages['ce'] = array(
 	'wm-license-book-subtitle' => 'Корталг',
 	'wm-license-book-title' => 'ЦӀе',
 	'wm-license-book-translator' => 'Гочдархо',
+	'wm-license-cecill-text' => 'ХӀара произведени [[{{int:wm-license-free-software-wiki-link}}|маьрша программин латар]] ю; хьа йиш ю иза яржо а хийца а хӀокху [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] лицензица. CeCILL лицензин хьоле хьажа йиш ю [{{int:wm-license-cecill-full-link}} www.cecill.info] сайтехь.',
 	'wm-license-creator-description' => 'Цуьнах лаьцна',
+	'wm-license-fal-text' => "ХӀара маьрша искусствон произведени ю; хьа йиш ю иза хийца я яржо хӀокху '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' лицензица.
+Оьцу лицинзин хьал хӀокху [{{int:wm-license-fal-full-link}} Copyleft Attitude] сайтехь каро йиш ю, кхин сайташкахь а.",
 	'wm-license-gfdl-1.2-and-later' => "Магадо хӀара документ копеш ян, яржо я хийца а хӀокху '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' лицензица верси 1.2 я цул хьалхарниг, [[{{int:wm-license-fsf-wiki-link}}|маьрша программа латточу фондас]] арахецна, хийца цалуш долу дакъашца, йоза доцуш, цхьалхачу а тӀехьарчу а обложкан техь. Лицензин копи ю дакъа чохь ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	'wm-license-information-description' => 'Цуьнах лаьцна',
 	'wm-license-information-source' => 'Хьост',
@@ -1774,6 +1777,7 @@ $messages['ce'] = array(
 	'wm-license-own-work' => 'Сан болх',
 	'wm-license-pd-wiki-link' => 'w:ce:Юкъараллин хьал',
 	'wm-license-self-one-license' => 'Аса хӀокху произведенин авторо, сай лаамца яржа йо и хӀокху лицензица:',
+	'wm-license-self-one-license-with-author' => 'ХӀокху произведенин $1 авторо, шен лаамца и яржа йо хӀокху лицензица:',
 );
 
 /** Cebuano (Cebuano)
