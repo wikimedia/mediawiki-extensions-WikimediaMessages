@@ -3004,6 +3004,7 @@ $messages['ce'] = array(
 Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage чура хӀокху элементах тесна йолу агӀонаш',
 	'wikibase-sitelinks-commons' => 'Викилуламехь хӀокху элементах тесна йолу агӀо',
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]',
 	'wikimedia-developers' => 'Кечдархой',
 );
 

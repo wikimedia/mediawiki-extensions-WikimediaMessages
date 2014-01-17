@@ -1778,6 +1778,7 @@ $messages['ce'] = array(
 	'wm-license-pd-wiki-link' => 'w:ce:Юкъараллин хьал',
 	'wm-license-self-one-license' => 'Аса хӀокху произведенин авторо, сай лаамца яржа йо и хӀокху лицензица:',
 	'wm-license-self-one-license-with-author' => 'ХӀокху произведенин $1 авторо, шен лаамца и яржа йо хӀокху лицензица:',
+	'wm-license-self-multiple-licenses' => 'Аса хӀокху произведенин авторо, сай лаамца яржа йо и хӀокху лицензица:',
 );
 
 /** Cebuano (Cebuano)
