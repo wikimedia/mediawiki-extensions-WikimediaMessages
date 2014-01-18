@@ -3005,6 +3005,7 @@ $messages['ce'] = array(
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage чура хӀокху элементах тесна йолу агӀонаш',
 	'wikibase-sitelinks-commons' => 'Викилуламехь хӀокху элементах тесна йолу агӀо',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]',
+	'createacct-imgcaptcha-help' => 'Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]',
 	'wikimedia-developers' => 'Кечдархой',
 );
 
