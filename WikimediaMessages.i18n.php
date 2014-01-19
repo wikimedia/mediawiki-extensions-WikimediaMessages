@@ -3002,7 +3002,8 @@ $messages['ce'] = array(
 	'wikimedia-copyright' => 'Йоза тlекхочучехь ду оцу хьола бакъойаларца <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike</a>, цхьайолчу хенахь хила мега хьоле хьаьжжина локхаллий таронца. Мадарра хьажа. <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ce">Лелоран хьал</a>.',
 	'wikimedia-copyrightwarning' => 'Хийцамаш Ӏалашбеш, хьан пурбанца уьш чутохар юха боьхур боцуш оцу бакъонашца [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] а [https://www.gnu.org/copyleft/fdl.html GFDL]. Хьан пурбанца, ахьа бина хийцамаш тӀаьхь болу агӀо лелош, хьуна тӀе хьажораг йийра ю, оцу лаккхар хьажорагех я URL, йогӀучу агӀон тӀе.
 Мадарра хьажа. [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Лелоран таронаш].',
-	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage чура хӀокху элементах тесна йолу агӀонаш',
+	'wikibase-sitelinks-wikisource' => 'Викидуьххьарайозачура хӀокхунца йолу агӀонаш',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage чура хӀокхунца йолу агӀонаш',
 	'wikibase-sitelinks-commons' => 'Викилуламехь хӀокху элементах тесна йолу агӀо',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]',
 	'createacct-imgcaptcha-help' => 'Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]',
@@ -4841,6 +4842,9 @@ $messages['et'] = array(
 	'group-transwiki' => 'Teisest vikist importijad',
 	'group-transwiki-member' => 'teisest vikist importija',
 	'grouppage-transwiki' => '{{ns:project}}:Teisest vikist importijad',
+	'group-templateeditor' => 'Mallitoimetajad',
+	'group-templateeditor-member' => '{{GENDER:$1|mallitoimetaja}}',
+	'grouppage-templateeditor' => '{{ns:project}}:Mallitoimetajad',
 	'group-trusted' => 'Usaldusväärsed kasutajad',
 	'group-trusted-member' => 'usaldusväärne kasutaja',
 	'grouppage-trusted' => '{{ns:project}}:Usaldusväärsed kasutajad',
@@ -4865,6 +4869,8 @@ $messages['et'] = array(
 	'group-sysadmin-member' => 'süsteemiülem',
 	'group-New_wikis_importer' => 'Uue viki importijad',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|uue viki importija}}',
+	'group-global-ipblock-exempt' => 'IP-aadressi blokeerimise globaalsed erandid',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|IP-aadressi blokeerimise globaalne erand}}',
 	'group-massmessage-sender' => 'Hulgasõnumi saatjad',
 	'group-massmessage-sender-member' => '{{GENDER:$1|hulgasõnumi saatja}}',
 	'grouppage-massmessage-sender' => '{{ns:project}}:Hulgasõnumi saatjad',
@@ -4874,6 +4880,10 @@ $messages['et'] = array(
 	'group-translationadmin' => 'Tõlkeadministraatorid',
 	'group-translationadmin-member' => '{{GENDER:$1|tõlkeadministraator}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Tõlkeadministraatorid',
+	'group-zeroadmin' => 'Zero-administraatorid',
+	'group-zeroadmin-member' => '{{GENDER:$1|Zero-administraator}}',
+	'grouppage-zeroadmin' => '{{ns:project}}:Zero-administraatorid',
+	'right-zero-edit' => 'Redigeerida lehekülgi nimeruumis Zero',
 	'group-centralnoticeadmin' => 'Keskuse teate administraator',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Keskuse teate administraator}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Keskuse teate administraatorid',
@@ -4885,6 +4895,10 @@ $messages['et'] = array(
 	'wikimedia-copyright' => 'Tekst on kasutatav vastavalt Creative Commonsi litsentsile "<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.et">Autorile viitamine + jagamine samadel tingimustel</a>";
 sellele võivad lisanduda täiendavad tingimused.
 Täpsemalt vaata <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Wikimedia kasutamistingimustest</a>.',
+	'wikidata-copyright' => 'Kõik struktureeritud andmed põhi- ja omaduste nimeruumis on saadaval Creative Commonsi üldise litsentsi <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.et" title="CC0">CC0</a> all;
+muude nimeruumide tekst on saadaval Creative Commonsi litsentsi "<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.et" title="Autorile viitamine + jagamine samadel tingimustel">Autorile viitamine + jagamine samadel tingimustel</a>";
+lisatingimused võivad rakenduda.
+Vaata üksikasju <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundationi kasutustingimused">kasutustingimustest</a>.',
 	'wikimedia-copyrightwarning' => 'Kui klõpsad "{{int:savearticle}}", nõustud [https://wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.
 Nõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.',
 	'wikibase-sitelinks-wikisource' => 'Sellele üksusele viitavad Vikitekstide-leheküljed',
@@ -9969,11 +9983,17 @@ $messages['loz'] = array(
 );
 
 /** لوری (لوری)
+ * @author Bonevarluri
  * @author Mogoeilor
  */
 $messages['lrc'] = array(
 	'sitesupport' => 'هومياری پيلی',
+	'group-interface_editor' => 'ویرایشتگریا مین پیوست',
+	'group-interface_editor-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
+	'group-editinterface' => 'ویرایشتگریا مین پیوست',
+	'group-editinterface-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
 	'wikibase-sitelinks-wikisource' => 'بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه',
+	'wikibase-sitelinks-commons' => 'بلگه پرنمون یا ویکی پدیا  دی ای قلم هوم پیوند بیه',
 );
 
 /** Lithuanian (lietuvių)
@@ -14472,6 +14492,17 @@ $messages['sgs'] = array(
 $messages['sh'] = array(
 	'group-autopatrolled' => 'Autopatroleri',
 	'group-autopatrolled-member' => '{{GENDER:$1|Autopatroler}}',
+	'group-filemover' => 'Premještač datoteka',
+	'group-filemover-member' => 'Premještač datoteka', # Fuzzy
+	'grouppage-filemover' => 'Project:Premještač datoteka', # Fuzzy
+	'group-flood' => 'Korisnici botovi',
+	'group-flood-member' => 'korisnik bot', # Fuzzy
+	'grouppage-flood' => '{{ns:project}}:Korisnici botovi',
+	'group-rollbacker' => 'Vraćači',
+	'group-rollbacker-member' => 'vraćač', # Fuzzy
+	'grouppage-rollbacker' => 'Project:Vraćač', # Fuzzy
+	'group-steward' => 'Stewardi',
+	'group-steward-member' => 'steward', # Fuzzy
 );
 
 /** Tachelhit (Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ)

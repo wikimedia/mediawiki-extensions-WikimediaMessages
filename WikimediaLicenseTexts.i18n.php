@@ -5906,6 +5906,7 @@ $messages['lmo'] = array(
 );
 
 /** لوری (لوری)
+ * @author Bonevarluri
  * @author Mogoeilor
  */
 $messages['lrc'] = array(
@@ -5914,6 +5915,7 @@ $messages['lrc'] = array(
 	'wm-license-book-volume' => 'حجم',
 	'wm-license-information-source' => 'سرچشمه',
 	'wm-license-information-date' => 'تاريخ',
+	'wm-license-original-upload-log' => 'پهرستنومه سوارکرد اصلی',
 );
 
 /** Lithuanian (lietuvių)
