@@ -2895,10 +2895,10 @@ Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin
 	'wm-license-pd-usgov-military-army-text' => "See fail on [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Ameerika Ühendriikide maaväe]] sõduri või teenistuja tehtud või üles võetud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see pilt '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
 	'wm-license-pd-usgov-military-navy-text' => "See fail on [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Ameerika Ühendriikide mereväe]] teenistuja või mereväelase tehtud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see fail '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
 	'wm-license-pd-usgov-noaa-text' => "See fail on [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Ameerika Ühendriikide Riikliku Ookeani- ja Atmosfäärivalitsuse]] teenistuja tehtud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see fail '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
-	'wm-license-self-one-license' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgneva litsentsi all:',
-	'wm-license-self-one-license-with-author' => '$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgneva litsentsi all:',
-	'wm-license-self-multiple-licenses' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgnevate litsentside all:',
-	'wm-license-self-multiple-licenses-with-author' => '$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgnevate litsentside all:',
+	'wm-license-self-one-license' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgmise litsentsi all:',
+	'wm-license-self-one-license-with-author' => '$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgmise litsentsi all:',
+	'wm-license-self-multiple-licenses' => 'Autoriõiguse omanikuna avaldan käesolevaga selle teose järgmiste litsentside all:',
+	'wm-license-self-multiple-licenses-with-author' => '$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgmiste litsentside all:',
 	'wm-license-self-multiple-licenses-select' => 'Sa võid valida endale sobiva litsentsi.',
 );
 
@@ -5239,10 +5239,11 @@ $messages['kk-latn'] = array(
 
 /** Khmer (ភាសាខ្មែរ)
  * @author Multichill
+ * @author Sovichet
  * @author គីមស៊្រុន
  */
 $messages['km'] = array(
-	'wikimedialicensetexts-desc' => 'សារអាជ្ញាបណ្ឌវិគីមេឌា',
+	'wikimedialicensetexts-desc' => 'សារ​អាជ្ញាបណ្ណ​វិគីមេឌា',
 	'wm-license-attribution-with-author-text' => "ម្ចាស់កម្មសិទ្ធិរបស់ឯកសារ $1 នេះ អនុញ្ញាតអោយបុគ្គលគ្រប់រូបប្រើវា '''ក្នុងគោលបំណងណាក៏ដោយ ក្រោមលក្ខខណ្ឌថា''' មានដាក់បញ្ជាក់ម្ចាស់កម្មសិទ្ធិត្រឹមត្រូវ។ ការចែកចាយបន្ត ការកែច្នៃ ការប្រើសំរាប់ពាណិជ្ជកម្មឬបំរើបំរាស់មិនសមរម្យដទៃទៀតត្រូវបានហាមឃាត់ដាច់ខាត។",
 	'wm-license-attribution-without-author-text' => "ម្ចាស់កម្មសិទ្ធិរបស់ឯកសារនេះអនុញ្ញាតអោយបុគ្គលគ្រប់រូបប្រើវា '''ក្នុងគោលបំណងណាក៏ដោយ ក្រោមលក្ខខណ្ឌថា''' មានដាក់បញ្ជាក់ម្ចាស់កម្មសិទ្ធិត្រឹមត្រូវ។ ការចែកចាយបន្ត ការកែច្នៃ ការប្រើសំរាប់ពាណិជ្ជកម្មឬបំរើបំរាស់មិនសមរម្យដទៃទៀតត្រូវបានហាមឃាត់ដាច់ខាត។",
 	'wm-license-artwork-artist' => 'វិចិត្រករ',
@@ -5911,6 +5912,7 @@ $messages['lmo'] = array(
  */
 $messages['lrc'] = array(
 	'wm-license-book-editor' => 'ويرايشتگر',
+	'wm-license-book-language' => 'زون',
 	'wm-license-book-translator' => 'والريار',
 	'wm-license-book-volume' => 'حجم',
 	'wm-license-information-source' => 'سرچشمه',

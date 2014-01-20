@@ -5032,7 +5032,7 @@ $messages['et'] = array(
 	'wm-license-cc-free-to-share-text' => 'teost kopeerida, levitada ja edastada',
 	'wm-license-cc-free-to-remix-header' => 'kohandada',
 	'wm-license-cc-free-to-remix-text' => 'valmistada muudetud teoseid',
-	'wm-license-cc-conditions' => 'Järgnevatel tingimustel:',
+	'wm-license-cc-conditions' => 'Järgmistel tingimustel:',
 	'wm-license-cc-conditions-attribution-header' => 'omistamine',
 	'wm-license-cc-conditions-attribution-text' => 'Pead viitama teose autorile samal kujul, nagu seda on teinud autor või litsentsiandja (seejuures ei tohi tekkida valemulje, nagu nad toetaks sind või seda, et sina teost kasutad).',
 	'wm-license-cc-conditions-share_alike-header' => 'sarnaselt jagamine',
@@ -8932,22 +8932,23 @@ $messages['ka'] = array(
 
 /** Khmer (ភាសាខ្មែរ)
  * @author Multichill
+ * @author Sovichet
  * @author គីមស៊្រុន
  * @author វ័ណថារិទ្ធ
  */
 $messages['km'] = array(
 	'wm-license-cc-attribution' => 'ភាពជាម្ចាស់កម្មសិទ្ធ',
-	'wm-license-cc-by-1.0-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0 Attribution 1.0 Generic]។',
-	'wm-license-cc-by-1.0-fi-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland]។',
-	'wm-license-cc-by-1.0-il-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel]។',
-	'wm-license-cc-by-1.0-nl-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands]។',
-	'wm-license-cc-by-2.0-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ Attribution 2.0 Generic]។',
-	'wm-license-cc-by-2.0-at-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria]។',
-	'wm-license-cc-by-2.0-au-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/au/deed.en Attribution 2.0 Australia]។',
-	'wm-license-cc-by-2.0-be-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium]។',
-	'wm-license-cc-by-2.0-br-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/br/ Attribution 2.0 Brazil]។',
-	'wm-license-cc-by-2.0-ca-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ca/deed.en Attribution 2.0 Canada]។',
-	'wm-license-cc-by-2.0-cl-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/cl/ Attribution 2.0 Chile]។',
+	'wm-license-cc-by-1.0-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] ។',
+	'wm-license-cc-by-1.0-fi-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland] ។',
+	'wm-license-cc-by-1.0-il-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel] ។',
+	'wm-license-cc-by-1.0-nl-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/deed.en Attribution 1.0 Netherlands] ។',
+	'wm-license-cc-by-2.0-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/deed.en Attribution 2.0 Generic] ។',
+	'wm-license-cc-by-2.0-at-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/ Attribution 2.0 Austria] ​។',
+	'wm-license-cc-by-2.0-au-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/au/deed.en Attribution 2.0 Australia] ។',
+	'wm-license-cc-by-2.0-be-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/be/ Attribution 2.0 Belgium] ។',
+	'wm-license-cc-by-2.0-br-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/br/ Attribution 2.0 Brazil] ។',
+	'wm-license-cc-by-2.0-ca-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ca/deed.en Attribution 2.0 Canada] ។',
+	'wm-license-cc-by-2.0-cl-text' => 'ឯកសារ​នេះ​ចេញ​ក្រោម​អាជ្ញាបណ្ណ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/cl/ Attribution 2.0 Chile] ។',
 	'wm-license-cc-by-2.0-de-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/de/ Attribution 2.0 Germany]។',
 	'wm-license-cc-by-2.0-es-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/es/ Attribution 2.0 Spain]។',
 	'wm-license-cc-by-2.0-fr-text' => 'ឯកសារនេះជាប់អាជ្ញាបណ្ឌ[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/fr/ Attribution 2.0 France]។',

@@ -9069,6 +9069,7 @@ Takuuk <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Atugassatut p
  * @author Kiensvay
  * @author Lovekhmer
  * @author Nemo bis
+ * @author Sovichet
  * @author Thearith
  * @author គីមស៊្រុន
  * @author វ័ណថារិទ្ធ
@@ -9139,7 +9140,7 @@ $messages['km'] = array(
 	'group-inactive' => 'ក្រុម​អ្នក​ប្រើ​ប្រាស់​អសកម្ម​',
 	'group-inactive-member' => '{{GENDER:$1|អ្នក​ប្រើ​ប្រាស់​អសកម្ម​}}',
 	'grouppage-inactive' => '{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម',
-	'wikimedia-copyright' => 'អត្ថបទ​នេះ​ត្រូវបានផ្ដល់ក្រោមអាជ្ញាបណ្ឌ<a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>​។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
+	'wikimedia-copyright' => 'អត្ថបទ​នេះ​ត្រូវ​បាន​ផ្ដល់​ក្រោម​អាជ្ញាបណ្ណ <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>​ ។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​
 សូមមើល <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់</a> សម្រាប់​ព័ត៌មានលម្អិត​។',
 	'wikimedia-copyrightwarning' => 'តាមរយៈ​ការចុចលើប៊ូតុង "{{int:savearticle}}" អ្នកយល់ព្រមជាមួយ[https://wikimediafoundation.org/wiki/Terms_of_Use លក្ខខណ្ឌនៃការប្រើប្រាស់] ហើយអ្នកយល់ព្រមដោយឥតកែប្រែ​ក្នុងការចែកចាយការរួមចំណែករបស់អ្នកក្រោម [https://creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ឌ CC-BY-SA 3.0] និង [https://www.gnu.org/copyleft/fdl.html GFDL]។ អ្នកក៏យល់ព្រមថាការប្រើតំណភ្ជាប់ហាយភើលីងឬURLគឺគ្រប់គ្រាន់សំរាប់បញ្ជាក់ពីភាពជាម្ចាស់កម្មសិទ្ធរបស់អ្នក ក្រោមអាជ្ញាបណ្ឌ Creative Commons។',
 	'cant-delete-main-page' => 'អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។',
@@ -9311,9 +9312,9 @@ $messages['ko'] = array(
 	'group-translationadmin' => '번역 관리자',
 	'group-translationadmin-member' => '{{GENDER:$1|번역 관리자}}',
 	'grouppage-translationadmin' => '{{ns:project}}:번역 관리자',
-	'group-zeroadmin' => '제로 관리자',
+	'group-zeroadmin' => 'Zero 관리자',
 	'group-zeroadmin-member' => '{{GENDER:$1|제로 관리자}}',
-	'grouppage-zeroadmin' => '{{ns:project}}:제로 관리자',
+	'grouppage-zeroadmin' => '{{ns:project}}:Zero 관리자',
 	'right-zero-edit' => 'Zero 이름공간의 문서를 편집',
 	'group-centralnoticeadmin' => '중앙 공지 관리자',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|중앙 공지 관리자}}',
@@ -9988,6 +9989,8 @@ $messages['loz'] = array(
  */
 $messages['lrc'] = array(
 	'sitesupport' => 'هومياری پيلی',
+	'group-filemover' => 'جانیا آلشت کننه',
+	'group-filemover-member' => '{{جنس:$1|جانیا آلشت کننه}}',
 	'group-interface_editor' => 'ویرایشتگریا مین پیوست',
 	'group-interface_editor-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
 	'group-editinterface' => 'ویرایشتگریا مین پیوست',
@@ -14492,15 +14495,23 @@ $messages['sgs'] = array(
 $messages['sh'] = array(
 	'group-autopatrolled' => 'Autopatroleri',
 	'group-autopatrolled-member' => '{{GENDER:$1|Autopatroler}}',
+	'group-confirmed' => 'Potvrđeni korisnici',
+	'group-confirmed-member' => 'potvrđen korisnik', # Fuzzy
+	'grouppage-confirmed' => '{{ns:project}}:Potvrđeni korisnici',
 	'group-filemover' => 'Premještač datoteka',
 	'group-filemover-member' => 'Premještač datoteka', # Fuzzy
 	'grouppage-filemover' => 'Project:Premještač datoteka', # Fuzzy
 	'group-flood' => 'Korisnici botovi',
 	'group-flood-member' => 'korisnik bot', # Fuzzy
 	'grouppage-flood' => '{{ns:project}}:Korisnici botovi',
+	'group-import' => 'Uvoznici',
+	'group-import-member' => 'uvoznik', # Fuzzy
+	'grouppage-import' => '{{ns:project}}:Uvoznici',
 	'group-rollbacker' => 'Vraćači',
 	'group-rollbacker-member' => 'vraćač', # Fuzzy
 	'grouppage-rollbacker' => 'Project:Vraćač', # Fuzzy
+	'group-transwiki' => 'Međuwiki uvoznici',
+	'group-transwiki-member' => '{{GENDER:$1|međuwiki uvoznici}}',
 	'group-steward' => 'Stewardi',
 	'group-steward-member' => 'steward', # Fuzzy
 );
@@ -18040,10 +18051,11 @@ $messages['yi'] = array(
 	'shared-repo-name-shared' => 'וויקימעדיע קאמאנס',
 	'wikimedia-copyright' => 'טעקסט איז פאראן לויטן <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.
 זעט <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">תנאים פון באניצן</a> פֿאר פרטים.',
-	'wikidata-shortcopyrightwarning' => 'בײַם קליקן אויף "{{int:wikibase-save}}" זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאדינגונגען], און איר זענט מסכים בלי־חרטה פֿארעפֿנטלעכן אײַער בײַשטײַערונג אונטער דעם [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ליצענץ].',
 	'wikimedia-copyrightwarning' => 'בײַם קליקן דאָס "{{int:savearticle}}" קנעפל, זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאַדינגונגען] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [https://www.gnu.org/copyleft/fdl.html GFDL].
 איר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.',
+	'wikibase-sitelinks-wikisource' => 'וויקיקוואל בלעטער פארלינקט מיט דעם אביעקט',
 	'wikibase-sitelinks-wikivoyage' => 'וויקירייזע בלעטער פארלינקט מיט דעם אביעקט',
+	'wikibase-sitelinks-commons' => 'וויקימעדיע קאמאנס בלאט פארבונדן מיט דעם דאטנאביעקט',
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
 	'wikimedia-translationnotifications-signup-legal' => 'איר זענט מסכים אז ווען איר פארזארגט די אינפארמאציע צו דער וויקימעדיע פונדאציע מעגן מיר קאנטאקטירן אייך וועגן איבערזעצונגען אדער אנדערע טעמעס שייך צו דער וויקימעדיע באוועגונג וואס מיר האלטן וועט אינטרעסירן אײַך. איר זענט מסכים אז מען מעג אײַערע דאטן איינשפייכלערן אין די פאראייניגטע שטאטן פון אמעריקע און ווערט געהאלטן לויט אונזער [https://wikimediafoundation.org/wiki/Privacy_policy פריוואטקייט ריכטליניע]',
 	'upload-more-photos-of-this-monument' => 'ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט',
