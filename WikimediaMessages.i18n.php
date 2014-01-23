@@ -582,7 +582,7 @@ Refers to {{msg-mw|Savearticle}}.
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
-	'extdist-branch-REL1_21' => 'See also:
+	'extdist-branch-REL1_22' => 'See also:
 * {{msg-mw|Extdist-branch-REL1 20}}',
 	'extdist-branch-REL1_20' => 'Message used for an extension branched for MediaWiki version 1.20.
 
@@ -1596,7 +1596,7 @@ Aceutes qu\'un hiperenllaz o URL ye reconocimientu abondo baxo la llicencia Crea
 	'wikimedia-translationnotifications-signup-legal' => "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	'upload-more-photos-of-this-monument' => "Xubir más semeyes d'esti monumentu",
 	'extdist-branch-master' => 'maestra (cabera versión en desendolcu)',
-	'extdist-branch-REL1_21' => '1.21 (cabera MediaWiki estable)',
+	'extdist-branch-REL1_22' => '1.22 (cabera MediaWiki estable)',
 	'createacct-helpusername-url' => "{{ns:Project}}:Política_de_nomes_d'usuariu",
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ayudame a escoyer)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicite una cuenta',
@@ -2204,7 +2204,6 @@ $messages['be-tarask'] = array(
 	'wikimedia-copyright' => 'Гэты тэкст даступны на ўмовах <a href="https://creativecommons.org/licenses/by-sa/3.0/">ліцэнзіі Creative Commons Attribution/Share-Alike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href="https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня">ўмовах выкарыстаньня</a>.',
 	'wikidata-copyright' => 'Усе структураваныя зьвесткі ў галоўнай прасторы назваў і прасторы ўласьцівасьцяў даступныя на ўмове ліцэнзіі <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; зьмест у іншых прасторах даступны на ўмовах <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; могуць ужывацца дадатковыя ўмовы.
 Глядзіце падрабязнасьці ва <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Ўмовах выкарыстаньня</a>.',
-	'wikidata-shortcopyrightwarning' => 'Пстрыкнуўшы «{{int:wikibase-save}}», вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстаньня умовамі выкарыстаньня], а таксама беспаваротна пагаджаецеся на публікацыю вашага ўнёска на ўмовах [https://creativecommons.org/publicdomain/zero/1.0/ ліцэнзіі CC0].',
 	'wikimedia-copyrightwarning' => 'Націскаючы на кнопку «{{int:savearticle}}», Вы пагаджаецеся з [https://wikimediafoundation.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне Вашага ўнёску згодна ўмоваў ліцэнзіяў [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Сьпіс старонак Віківандроўкі, што спасылаюцца на гэты аб’ект',
 	'wikibase-sitelinks-commons' => 'Старонка Вікісховішча, далучаная да гэтага аб’екту',
@@ -2212,7 +2211,7 @@ $messages['be-tarask'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Вы пагаджаецеся, што, перадаючы гэтыя зьвесткі ў Фундацыю «Вікімэдыя», мы можам зьвяртацца да вас на конт перакладаў і іншых пытаньняў, датычных руху Вікімэдыі, якія могуць быць цікавымі вам. Вы пагаджаецеся на захоўваньне вашых зьвестак ў Злучаных Штатах Амэрыкі, што робіць іх прадметам нашых [https://wikimediafoundation.org/wiki/Privacy_policy правілаў адносна прыватнасьці].',
 	'upload-more-photos-of-this-monument' => 'Загрузіць болей здымкаў гэтага аб’екта',
 	'extdist-branch-master' => 'master (апошняя працоўная вэрсія)',
-	'extdist-branch-REL1_21' => '1.21 (апошняя стабільная MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (апошняя стабільная MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Правілы_найменьня_ўдзельнікаў',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запыты на стварэньне рахункаў',
@@ -2496,16 +2495,15 @@ $messages['bn'] = array(
 এর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।
  <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
 	'wikidata-copyright' => 'প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
-	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}"-এ ক্লিক করার মাধ্যমে, আপনি [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে একমত হচ্ছেন, এবং [https://creativecommons.org/publicdomain/zero/1.0/deed.bn সিসি০ লাইসেন্সের] অধীনে আপনার অবদান প্রকাশে সম্মত হচ্ছেন।',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [https://www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
 	'wikibase-sitelinks-wikivoyage' => 'এই আইটেমটির সাথে সংযুক্ত উইকিভ্রমণের পাতা',
-	'wikibase-sitelinks-commons' => 'এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা', # Fuzzy
+	'wikibase-sitelinks-commons' => 'এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা',
 	'wikibase-sitelinks-sitename-commonswiki' => 'কমন্স',
 	'cant-delete-main-page' => 'আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।',
 	'upload-more-photos-of-this-monument' => 'এই স্মৃতিস্তম্ভের আরও চিত্র আপলোড করুন',
 	'extdist-branch-master' => 'মাস্টার (সর্বশেষ সংস্করণ উন্নয়ন)',
-	'extdist-branch-REL1_21' => '১.২১ (সর্বশেষ স্থিতিশীল মিডিয়াউইকি)',
+	'extdist-branch-REL1_22' => '১.২১ (সর্বশেষ স্থিতিশীল মিডিয়াউইকি)',
 	'createacct-helpusername-url' => '{{ns:Project}}:ব্যবহারকারী_নামের_নীতি',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(বাছাই করতে আমাকে সাহায্য করুন)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:অ্যাকাউন্টের জন্য অনুরোধ',
@@ -3299,7 +3297,6 @@ $messages['cs'] = array(
 text v ostatních jmenných prostorech je k dispozici pod licencí <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.cs" title="Definice licence Creative Commons Uveďte autora-Zachovejte licenci">Creative Commons Uveďte autora-Zachovejte licenci</a>;
 mohou se vyskytnout další podmínky.
 Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
-	'wikidata-shortcopyrightwarning' => 'Kliknutím na „{{int:wikibase-save}}“ potvrzujete souhlas s [https://wikimediafoundation.org/wiki/Terms_of_Use/cs podmínkami užití] a neodvolatelně zveřejňujete svůj příspěvek za podmínek [https://creativecommons.org/publicdomain/zero/1.0/deed.cs licence CC0].',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikivoyage provázané s touto položkou',
 	'wikibase-sitelinks-commons' => 'Stránka Wikimedia Commons provázaná s touto položkou',
@@ -3308,7 +3305,7 @@ Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of
 	'wikimedia-translationnotifications-signup-legal' => 'Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].',
 	'upload-more-photos-of-this-monument' => 'Načíst další fotografie této památky',
 	'extdist-branch-master' => 'master (nejnovější vývojová verze)',
-	'extdist-branch-REL1_21' => '1.21 (aktuální stabilní MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (aktuální stabilní MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Uživatelské_jméno',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomozte mi s výběrem)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Žádost o účet',
@@ -3511,7 +3508,7 @@ Gweler [https://wikimediafoundation.org/wiki/Terms_of_Use Telerau Defnyddio'r Dr
 	'wikimedia-translationnotifications-signup-legal' => "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Privacy_policy polisi preifatrwydd].",
 	'upload-more-photos-of-this-monument' => "Uwchlwytho rhagor o luniau o'r gofeb hon",
 	'extdist-branch-master' => 'pen-fersiwn (y fersiwn datblygu diweddaraf)',
-	'extdist-branch-REL1_21' => '1.21 (y fersiwn MediaWiki safadwy diweddaraf)',
+	'extdist-branch-REL1_22' => '1.22 (y fersiwn MediaWiki safadwy diweddaraf)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Polisi_enwi_cyfrifon',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(cymorth wrth ddewis enw)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Ymholi am gyfri',
@@ -3688,7 +3685,7 @@ Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig 
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Privacy_policy fortrolighedspolitik].',
 	'upload-more-photos-of-this-monument' => 'Overfør flere fotos af monumentet',
 	'extdist-branch-master' => 'Master (seneste udviklingsversion)',
-	'extdist-branch-REL1_21' => '1.21 (seneste stabile MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (seneste stabile MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Brugernavns_regler',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Anmod om en konto',
@@ -3742,6 +3739,7 @@ Yderligere oplysninger og vejledning til legitime brugere, se den globale politi
  * @author Purodha
  * @author Raimond Spekking
  * @author Spacebirdy
+ * @author TMg
  * @author The Evil IP address
  * @author Umherirrender
  * @author Απεργός
@@ -3898,15 +3896,16 @@ zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzungsbedingungen der Wikimedia Foundation">Nutzungsbedingungen</a> für Einzelheiten.',
 	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
-	'wikibase-sitelinks-wikisource' => 'Wikisource-Seiten, die mit diesem Objekt verlinkt sind',
-	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten, die mit diesem Objekt verlinkt sind',
-	'wikibase-sitelinks-commons' => 'Wikimedia-Commons-Seite, die mit diesem Objekt verlinkt ist',
+	'wikibase-sitelinks-wikisource' => 'Wikisource-Seiten zu diesem Objekt',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten zu diesem Objekt',
+	'wikibase-sitelinks-commons' => 'Wikimedia-Commons-Seite zu diesem Objekt',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Die Hauptseite kann weder gelöscht noch verschoben werden.',
 	'wikimedia-translationnotifications-signup-legal' => 'Mit Angabe dieser Informationen stimmst du zu, dass die Wikimedia Foundation dich bezüglich Themen im Zusammenhang mit Übersetzungen und andere Informationen zu Wikimedia kontaktieren kann, die unserer Meinung nach für dich von Interesse sind. Du stimmst zudem zu, dass deine Daten in den Vereinigten Staaten von Amerika gespeichert werden können und unserer [https://wikimediafoundation.org/wiki/Privacy_policy Datenschutzrichtlinie] unterliegen.',
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
 	'extdist-branch-master' => 'master (aktuellste Entwicklerversion)',
-	'extdist-branch-REL1_21' => '1.21 (aktuellste stabile MediaWiki-Version)',
+	'extdist-branch-REL1_22' => '1.22 (aktuellste stabile MediaWiki-Version)',
+	'extdist-branch-REL1_21' => '1.21',
 	'createacct-helpusername-url' => '{{ns:Project}}:Benutzernamensrichtlinie',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Auswahlhilfe)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Benutzerkontenanträge',
@@ -4110,7 +4109,7 @@ Yew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, 
 	'cant-delete-main-page' => 'Nêbesterneyêno yana pela seri nêahulneyêno.',
 	'wikimedia-translationnotifications-signup-legal' => "Açarnayışê weqıf da Wikimedia yana heq dê wikimedia zewbi meselan dı malumat dayış u grotışi rê şimaya irtibat kewtışi icab keno. Malumatê şıma Dewletanê Amrikayê Yewbiyayey'an dı depo benê u [https://wikimediafoundation.org/wiki/Privacy_policy politikayê nımıtışi]  deye şıma şenê eney kebul kerê.",
 	'upload-more-photos-of-this-monument' => 'Na zıyarık  ra zewbi fotrafi barkerê',
-	'extdist-branch-REL1_21' => '1.21 (Aktuel MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (Aktuel MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Politikaya_nameyê_karberan',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(qande weçinayışi mıre desteg bıd)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Yew hesab bıwaze',
@@ -4406,7 +4405,6 @@ $messages['el'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Ανενεργοί χρήστες',
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikidata-copyright' => 'Όλα τα δομημένα δεδομένα από τους χώρους ονομάτων κύριο και ιδιότητες είναι διαθέσιμο υπό την <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Ορισμός της Creative Commons CC0 License">Άδεια Creative Commons CC0</a>. Κείμενα σε άλλους χώρους ονομάτων είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>. Μπορεί να εφαρμόζονται και άλλοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Όροι Χρήσης του Wikimedia Foundation">Όρους Χρήσης</a> για λεπτομέρειες.',
-	'wikidata-shortcopyrightwarning' => 'Κάνοντας κλικ στο κουμπί "{{int:wikibase-save}}", συμφωνείτε με τους [https://wikimediafoundation.org/wiki/Terms_of_Use όρους χρήσης], και συμφωνείτε αμετάκλητα να θέσετε τη συμβολή σας υπό την  [https://creativecommons.org/publicdomain/zero/1.0/ άδεια CC0].',
 	'wikimedia-copyrightwarning' => 'Κάνοντας κλικ στο κουμπί"{{int:savearticle}}", συμφωνείτε με  τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε ότι ένας υπερσύνδεσμος ή URL είναι αρκετή απόδοση αναφοράς υπό της άδεια Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από Βικιταξίδια συνδεδεμένοι με το αντικείμενο',
 	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο', # Fuzzy
@@ -4414,7 +4412,7 @@ $messages['el'] = array(
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
 	'wikimedia-translationnotifications-signup-legal' => 'Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.',
 	'upload-more-photos-of-this-monument' => 'Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο',
-	'extdist-branch-REL1_21' => '1.21 (τελευταία σταθερή έκδοση του MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (τελευταία σταθερή έκδοση του MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(βοηθήστε με να επιλέξω)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Αίτημα για λογαριασμό',
@@ -5240,7 +5238,7 @@ $messages['fa'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید. شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما هستند.',
 	'upload-more-photos-of-this-monument' => 'بارگذاری عکس‌های بیشتری از این بنای تاریخی',
 	'extdist-branch-master' => 'استاد (آخرین نسخهٔ توسعه)',
-	'extdist-branch-REL1_21' => '1.21 (آخرین مدیاویکی پایدار )',
+	'extdist-branch-REL1_22' => '1.22 (آخرین مدیاویکی پایدار )',
 	'createacct-helpusername-url' => '{{ns:Project}}:سیاست نام کاربری',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}: درخواست یک حساب',
@@ -5431,7 +5429,7 @@ $messages['fi'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntömme] alainen.',
 	'upload-more-photos-of-this-monument' => 'Tallenna lisää kuvia tästä monumentista',
 	'extdist-branch-master' => 'master (viimeisin kehitysversio)',
-	'extdist-branch-REL1_21' => '1.21 (viimeisin vakaa MediaWiki-versio)',
+	'extdist-branch-REL1_22' => '1.22 (viimeisin vakaa MediaWiki-versio)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Käyttäjätunnuskäytäntö',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Pyydä tunnusta',
@@ -5651,7 +5649,7 @@ Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suf
 	'wikimedia-translationnotifications-signup-legal' => "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	'upload-more-photos-of-this-monument' => 'Importer d’autres photographies de ce monument',
 	'extdist-branch-master' => 'maître (dernière version de développement)',
-	'extdist-branch-REL1_21' => '1.21 (dernier MediaWiki stable)',
+	'extdist-branch-REL1_22' => '1.22 (dernier MediaWiki stable)',
 	'createacct-helpusername-url' => "{{ns:Project}}:Nom d'utilisateur",
 	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|aidez-moi à choisir]])',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Demander un compte',
@@ -5979,7 +5977,7 @@ Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer 
 	'wikimedia-translationnotifications-signup-legal' => 'Dü stemest tu, dat at Wikimedia Foundation mä di kontakt apnem mut. Dü stemest tu, dat din dooten uun Ameerikoo efter üüs bestemangen tu [https://wikimediafoundation.org/wiki/Privacy_policy dootenseekerhaid] seekert wurd mut.',
 	'upload-more-photos-of-this-monument' => 'Muar bilen faan detdiar seenksteed huuchschüür',
 	'extdist-branch-master' => 'master (leetst werjuun)',
-	'extdist-branch-REL1_21' => '1.21 (leetst stabiil MediaWiki werjuun)',
+	'extdist-branch-REL1_22' => '1.22 (leetst stabiil MediaWiki werjuun)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Reegeln för brükernöömer',
 	'createacct-helpusername' => "[[{{MediaWiki:createacct-helpusername-url}}|(halep bi't ütjwool)]]",
 	'createacct-captcha-help-url' => '{{ns:Project}}:Am en brükerkonto uunfraage',
@@ -6370,7 +6368,6 @@ $messages['gl'] = array(
 o texto presente no resto de espazos de nomes está dispoñible baixo a <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.gl" title="Definición da licenza Creative Commons recoñecemento compartir igual">licenza Creative Commons recoñecemento compartir igual</a>;
 pódense aplicar termos adicionais.
 Consulte os <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/gl" title="Termos de uso da Fundación Wikimedia">termos de uso</a> para obter máis información.',
-	'wikidata-shortcopyrightwarning' => 'Ao premer en "{{int:wikibase-save}}", acepta os [https://wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa achega baixo a [https://creativecommons.org/publicdomain/zero/1.0/deed.gl licenza CC0].',
 	'wikimedia-copyrightwarning' => 'Ao premer no botón "{{int:savearticle}}" acepta os [https://wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar irrevogablemente a súa contribución baixo a [https://gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0 licenza CC-BY-SA 3.0] e a [https://gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU GFDL].
 Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo a licenza Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Páxinas do Wikivoyage con ligazóns cara a este elemento',
@@ -6380,7 +6377,7 @@ Acepta que unha hiperligazón ou un enderezo URL é recoñecemento abondo baixo 
 	'wikimedia-translationnotifications-signup-legal' => 'Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede por temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].',
 	'upload-more-photos-of-this-monument' => 'Cargar máis fotografías deste monumento',
 	'extdist-branch-master' => 'principal (última versión en desenvolvemento)',
-	'extdist-branch-REL1_21' => '1.21 (último MediaWiki estable)',
+	'extdist-branch-REL1_22' => '1.22 (último MediaWiki estable)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Política de nomes de usuario',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar unha conta',
@@ -6974,7 +6971,7 @@ $messages['he'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://wikimediafoundation.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.',
 	'upload-more-photos-of-this-monument' => 'העלאה של צילומים נוספים את אתר המורשת',
 	'extdist-branch-master' => 'master (גרסת הפיתוח האחרונה)',
-	'extdist-branch-REL1_21' => '1.21 (גרסה יציבה אחרונה של מדיה־ויקי)',
+	'extdist-branch-REL1_22' => '1.22 (גרסה יציבה אחרונה של מדיה־ויקי)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Username_policy',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
@@ -7490,7 +7487,7 @@ Sy přezjedny, zo wotkaz abo URL je dosahace připokazanje pod licencu Creative 
 	'wikimedia-translationnotifications-signup-legal' => 'Přez přepodawanje tutych informacijow załožbje Wikimedian Foundation zwoliš do toho, zo móžemy so nastupajo přełožki abo druhe temy, kotrež hibanje Wikimedije nastupaja, z tobu do zwiska stajić. Zwoliš do toho, zo twoje daty so w Zjednocenych statach Ameriki składuja a su předmjet našich [https://wikimediafoundation.org/wiki/Privacy_policy prawidłow priwatnosće].',
 	'upload-more-photos-of-this-monument' => 'Dalše fota tutoho pomnika nahrać',
 	'extdist-branch-master' => 'master (najnowša wuwićowa wersija)',
-	'extdist-branch-REL1_21' => '1.21 (najnowši stabilny MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (najnowši stabilny MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Prawidła wužiwarskich mjenow',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomoc za wuběranje)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Konto požadać',
@@ -7909,13 +7906,12 @@ $messages['id'] = array(
 teks dalam ruang nama lainnya tersedia di bawah <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" title="Definisi dari lisensi Creative Commons Attribusi-BerbagiSerupa">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>;
 ketentuan tambahan mungkin berlaku.
 Lihat <a href="https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id" title="Ketentuan Penggunaan Yayasan Wikimedia">Ketentuan Penggunaan</a> untuk lebih jelasnya.',
-	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "Simpan halaman", Anda setuju dengan [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id Ketentuan Penggunaan], dan Anda setuju untuk melepas kontribusi Anda di bawah [https://creativecommons.org/publicdomain/zero/1.0/deed.id lisensi CC-nol].', # Fuzzy
 	'wikimedia-copyrightwarning' => 'Dengan menekan tombol "{{int:savearticle}}", Anda setuju pada [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id  Ketentuan Penggunaan], dan melepas kontribusi Anda di bawah [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BerbagiSerupa Creative Commons] dan [https://id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Anda tidak dapat menghapus atau memindahkan halaman utama.',
 	'wikimedia-translationnotifications-signup-legal' => 'Dengan memberikan informasi ini ke Yayasan Wikimedia, Anda setuju bahwa kami dapat menghubungi Anda terkait terjemahan atau topik lain yang berhubungan dengan gerakan Wikimedia yang kami anggap perlu untuk Anda ketahui. Anda setuju semua data Anda disimpan di Amerika Serikat dan mematuhi [https://wikimediafoundation.org/wiki/Privacy_policy kebijakan privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Unggah lebih banyak foto dari monumen ini',
 	'extdist-branch-master' => 'master (versi pengembangan terbaru)',
-	'extdist-branch-REL1_21' => '1.21 (MediaWiki stabil terbaru)',
+	'extdist-branch-REL1_22' => '1.22 (MediaWiki stabil terbaru)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kebijakan nama pengguna',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(bantu saya memilih)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buatkan akun',
@@ -8123,7 +8119,6 @@ Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_use">Termin
 ti testo kadagiti sabali a nagan ti espasio ket magun-od babaen ti <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Panangilawlawag ti Creative Commons Attribution/Share-Alike a Lisensia">Creative Commons Attribution/Share-Alike a Lisensia</a>;
 dagiti dadduma a termino ket mabalin a maipakat.
 Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Termino ti Panag-usar ti Pundasion ti Wikimedia">Termino ti Panag-usar</a> para kadagiti salaysay.',
-	'wikidata-shortcopyrightwarning' => 'Babaen ti panagpindut ti "{{int:wikibase-save}}", umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use termimo ti panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://creativecommons.org/publicdomain/zero/1.0/ CC0 a lisensia].',
 	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Pampanid ti Wikivoyage a naisilpo iti daytoy a banag',
@@ -8133,7 +8128,7 @@ Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lis
 	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
 	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan iti daytoy a monumento',
 	'extdist-branch-master' => 'master (kinaudi a naparang-ay a bersion)',
-	'extdist-branch-REL1_21' => '1.21 (kinaudi a nasimpa a MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (kinaudi a nasimpa a MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Annuroten_ti_nagan_ti_agar-aramat',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tulongannak nga agpili)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Agkiddaw ti maysa a pakabilangan',
@@ -8429,7 +8424,7 @@ Vedi le <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/it" title="Wi
 	'wikimedia-translationnotifications-signup-legal' => "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Privacy_policy politica sulla privacy].",
 	'upload-more-photos-of-this-monument' => 'Carica altre foto di questo monumento',
 	'extdist-branch-master' => 'master (ultima versione in sviluppo)',
-	'extdist-branch-REL1_21' => '1.21 (ultima versione stabile di MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (ultima versione stabile di MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Nome utente',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Richieste di utenze',
@@ -8647,7 +8642,7 @@ $messages['ja'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'あなたはウィキメディア財団にこの情報を提供することで、翻訳やその他ウィキメディア運動に関してあなたが興味を持つだろう話題について我々があなたに連絡をとってもよいと同意したことになります。あなたのデータがアメリカ合衆国で保管され、我々の[https://wikimediafoundation.org/wiki/Privacy_policy プライバシー・ポリシー]の対象となることに同意したことになります。',
 	'upload-more-photos-of-this-monument' => 'このモニュメントの他の写真をアップロード',
 	'extdist-branch-master' => 'マスター (最新開発版)',
-	'extdist-branch-REL1_21' => '1.21 (MediaWiki の最新の安定版)',
+	'extdist-branch-REL1_22' => '1.22 (MediaWiki の最新の安定版)',
 	'createacct-helpusername-url' => '{{ns:Project}}:利用者名の指針',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:アカウント申請',
@@ -8968,13 +8963,12 @@ $messages['ka'] = array(
 	'group-inactive-member' => '{{GENDER:$1|არააქტიური მომხმარებელი}}',
 	'grouppage-inactive' => '{{ns:project}}:არააქტიური მომხმარებლები',
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
-	'wikidata-shortcopyrightwarning' => 'ღილაკზე "{{int:wikibase-save}}" დაწკაპუნებით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს] და სამუდამოდ თანხმდებით თქვენი წვლილის გამოქვეყნებას [https://creativecommons.org/publicdomain/zero/1.0/ CC0 ლიცენზიით].',
 	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
 თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
 	'extdist-branch-master' => 'ოსტატი (უკანასკნელი შემუშავებული ვერსია)',
-	'extdist-branch-REL1_21' => '1.21 (მედიავიკის ბოლო სტაბილური ვერსია)',
+	'extdist-branch-REL1_22' => '1.22 (მედიავიკის ბოლო სტაბილური ვერსია)',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ არჩევაში)]]',
 	'wikimedia-developers' => 'შემქმნელები',
 );
@@ -9345,7 +9339,7 @@ $messages['ko'] = array(
 	'wikimedia-translationnotifications-signup-legal' => '이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [//wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.',
 	'upload-more-photos-of-this-monument' => '이 기념물의 더 많은 사진 올리기',
 	'extdist-branch-master' => '마스터 (최신 개발 버전)',
-	'extdist-branch-REL1_21' => '1.21 (최신 안정 미디어위키)',
+	'extdist-branch-REL1_22' => '1.22 (최신 안정 미디어위키)',
 	'createacct-helpusername-url' => '{{ns:Project}}:사용자_이름_정책',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(선택 방법을 알려주세요)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:계정 요청',
@@ -9770,7 +9764,7 @@ Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaff
 	'wikimedia-translationnotifications-signup-legal' => "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	'upload-more-photos-of-this-monument' => 'Méi Fotoe fir dëst Monument eroplueden',
 	'extdist-branch-master' => 'master (lescht Entwécklungs-Versioun)',
-	'extdist-branch-REL1_21' => '1.21 (lescht stabil MediaWiki-Versioun)',
+	'extdist-branch-REL1_22' => '1.22 (lescht stabil MediaWiki-Versioun)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Benotzernumm Richtlinn',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:E Benotzerkont ufroen',
@@ -10171,7 +10165,7 @@ Plašākai informācijai skatīt <a href="https://wikimediafoundation.org/wiki/T
 	'wikimedia-copyrightwarning' => 'Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [https://www.gnu.org/copyleft/fdl.html GFDL] licenci.
 Jūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.
 Plašākai informācijai skatīt [https://wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].', # Fuzzy
-	'extdist-branch-REL1_21' => '1.21 (jaunākais stabilais MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (jaunākais stabilais MediaWiki)',
 	'wikimedia-developers' => 'Izstrādātāji',
 );
 
@@ -10468,13 +10462,12 @@ $messages['min'] = array(
 teks dalam ruangnamo lain tasadio jo <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" title="Definisi dari lisensi Creative Commons Attribusi-BabagiSarupo">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; 
 katantuan tambahan mungkin balaku. 
 Caliak <a href="https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min">Katantuan Panggunoan</a> untuak labiah jaleh.',
-	'wikidata-shortcopyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [https://creativecommons.org/publicdomain/zero/1.0/deed.id lisensi CC-nol].',
 	'wikimedia-copyrightwarning' => 'Jo manakan tombol "{{int:savearticle}}", Sanak satuju pado [https://wikimediafoundation.org/wiki/Terms_of_use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BabagiSarupo Creative Commons] jo [https://id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Sanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.',
 	'cant-delete-main-page' => 'Sanak indak dapek mangahapuih atau mamindahan palanta.',
 	'wikimedia-translationnotifications-signup-legal' => 'Jo mangagiah informasi ko ka Yayasan Wikimedia, Sanak satuju baso kami dapek manghubuangi Sanak takaik tajamahan atau topik lain nan bahubuangan jo garakan Wikimedia nan kami anggap paralu untuak Sanak katahui. Sanak satuju sado data Sanak disimpan di Amerika Sarikaik dan mamatuhi [https://wikimediafoundation.org/wiki/Privacy_policy kabijakan privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Muek labiah banyak foto dari monumen ko',
 	'extdist-branch-master' => 'master (versi pangambangan tabaru)',
-	'extdist-branch-REL1_21' => '1.21 (MediaWiki stabil tabaru)',
+	'extdist-branch-REL1_22' => '1.22 (MediaWiki stabil tabaru)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Kabijakan namo pangguno',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(bantu ambo mamiliah)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Mohon buekkan akun',
@@ -10656,7 +10649,7 @@ $messages['mk'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Поднесувајќи ги овие информации, се согласувате Фондацијата Викимедија да може да ве контактира во врска со други преводи или други теми поврзани со движењето Викимедија што сметаме дека ќе ве интересираат. Се согласувате дека вашите податоци може да се складираат во САД и поднелат на нашите [https://wikimediafoundation.org/wiki/Заштита_на_личните_податоци правила за заштита на личните податоци].',
 	'upload-more-photos-of-this-monument' => 'Подигни уште слики од споменикот',
 	'extdist-branch-master' => 'матична (најнова развојна верзија)',
-	'extdist-branch-REL1_21' => '1.21 (најнова стабилна верзија на МедијаВики)',
+	'extdist-branch-REL1_22' => '1.22 (најнова стабилна верзија на МедијаВики)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Правила_за_кориснички_имиња',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогни ми да одберам)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Барање_на_сметка',
@@ -10841,7 +10834,6 @@ $messages['ml'] = array(
 മറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;
 അധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.
 കൂടുതൽ വിവരങ്ങൾക്ക് <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ml" title="വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.',
-	'wikidata-shortcopyrightwarning' => '"സേവ് ചെയ്യുക" എന്നത് അമർത്തുമ്പോൾ [https://wikimediafoundation.org/wiki/Terms_of_Use ഉപയോഗനിബന്ധനകൾ] താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്, ഒപ്പം താങ്കളുടെ സംഭാവന, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/publicdomain/zero/1.0/ സി.സി.0 അനുവാദപത്രം] പ്രകാരമാണ് പ്രസിദ്ധീകരിക്കുന്നതെന്നും താങ്കൾ അംഗീകരിക്കുന്നു.',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" എന്ന ബട്ടൺ ഞെക്കുമ്പോൾ, [https://wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്ക് അല്ലെങ്കിൽ യൂ.ആർ.എൽ. മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.',
 	'wikibase-sitelinks-wikivoyage' => 'ഈ ഇനവുമായി കണ്ണിചേർത്തിരിക്കുന്ന വിക്കിയാത്ര താളുകൾ',
 	'wikibase-sitelinks-commons' => 'ഈ ഇനവുമായി കണ്ണിചേർത്തിരിക്കുന്ന വിക്കിമീഡിയ കോമൺസ് താളുകൾ', # Fuzzy
@@ -10850,7 +10842,7 @@ $messages['ml'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'വിക്കിമീഡിയ ഫൗണ്ടേഷനുമായി ഈ വിവരങ്ങൾ പങ്ക് വെയ്ക്കുമ്പോൾ, ഞങ്ങൾ പരിഭാഷകൾ സംബന്ധിച്ച വിവരങ്ങളുമായോ, വിക്കിമീഡിയ പ്രസ്ഥാനത്തിൽ താങ്കൾക്ക് താത്പര്യമുള്ളതെന്ന് ഞങ്ങൾ കരുതുന്ന മറ്റ് കാര്യങ്ങളിലോ ആശയവിനിമയം നടത്താൻ താങ്കളെ ബന്ധപ്പെടാം എന്ന് താങ്കൾ സമ്മതിക്കുന്നുണ്ട്. താങ്കളെക്കുറിച്ചുള്ള വിവരങ്ങൾ അമേരിക്കൻ ഐക്യനാടുകളിൽ, ഞങ്ങളുടെ [https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയമനുസരിച്ചാണ്] സൂക്ഷിക്കുന്നതെന്നും അറിയാമെന്ന് സമ്മതിക്കുന്നുണ്ട്.',
 	'upload-more-photos-of-this-monument' => 'ഈ സ്മാരകത്തിന്റെ കൂടുതൽ ചിത്രങ്ങൾ അപ്‌ലോഡ് ചെയ്യുക',
 	'extdist-branch-master' => 'മാസ്റ്റർ (ഏറ്റവും പുതിയ വികസനഘട്ട പതിപ്പ്)',
-	'extdist-branch-REL1_21' => '1.21 (ഏറ്റവും പുതിയ സുസ്ഥിര മീഡിയവിക്കി)',
+	'extdist-branch-REL1_22' => '1.22 (ഏറ്റവും പുതിയ സുസ്ഥിര മീഡിയവിക്കി)',
 	'createacct-helpusername-url' => '{{ns:Project}}:ഉപയോക്തൃനാമനയം',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(തിരഞ്ഞെടുക്കാൻ സഹായിക്കുക)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:അംഗത്വമാവശ്യപ്പെടുക',
@@ -11172,7 +11164,6 @@ $messages['ms'] = array(
 maklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Lesen Creative Commons Attribution/Share-Alike</a>;
 tertakluk pada sebarang syarat tambahan.
 Rujuk <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.',
-	'wikidata-shortcopyrightwarning' => 'Dengan mengklik "{{int:wikibase-save}}", anda bersetuju dengan [https://wikimediafoundation.org/wiki/Terms_of_Use syarat penggunaan] dan sudi melepaskan sumbangan anda di bawah [https://creativecommons.org/publicdomain/zero/1.0/ CC0 license] tanpa boleh ditarik balik.',
 	'wikimedia-copyrightwarning' => 'Dengan mengklik butang "{{int:savearticle}}", anda mempersetujui [https://wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [https://creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [https://www.gnu.org/copyleft/fdl.html GFDL].
 Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah lesen Creative Commons.',
 	'wikibase-sitelinks-wikivoyage' => 'Halaman Wikivoyage yang berpaut dengan perkara ini',
@@ -11180,7 +11171,7 @@ Anda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah
 	'wikimedia-translationnotifications-signup-legal' => 'Anda bersetuju bahawa dengan memberikan maklumat ini kepada Yayasan Wikimedia, kami boleh menghubungi awak berkenaan terjemahan atau perihal-perihal lain yang berkenaan dengan gerakan  Wikimedia yang kami berpendapat mempunyai kaitan dengan anda. Anda bersetuju bahawa data anda boleh disimpan di Amerika Syarikat dan tertakluk kepada [https://wikimediafoundation.org/wiki/Privacy_policy dasar privasi] kami.',
 	'upload-more-photos-of-this-monument' => 'Muat naik lebih banyak gambar monumen ini',
 	'extdist-branch-master' => 'induk (versi pembangunan terkini)',
-	'extdist-branch-REL1_21' => '1.21 (MediaWiki stabil yang terkini)',
+	'extdist-branch-REL1_22' => '1.22 (MediaWiki stabil yang terkini)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Dasar_nama_pengguna',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Permohonan akaun',
@@ -11859,7 +11850,6 @@ Zie de <a href="https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden">Gebrui
 tekst in de andere naamruimten is beschikbaar onder de <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definitie van de licentie Creative Commons Attribution/Share-Alike">licentie Creative Commons Attribution/Share-Alike</a>;
 er kunnen extra voorwaarden van toepassing zijn.
 Zie <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Gebruiksvoorwaarden">Gebruiksvoorwaarden</a> voor details.',
-	'wikidata-shortcopyrightwarning' => 'Door te klikken op "{{int:wikibase-save}}", gaat u akkoord met de [https://wikimediafoundation.org/wiki/Terms_of_Use gebruiksvoorwaarden], en gaat u onomkeerbaar akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/publicdomain/zero/1.0/ CC0].',
 	'wikimedia-copyrightwarning' => 'Door op de knop "{{int:savearticle}}" te klikken, gaat u akkoord met de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding/Gelijk delen] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].
 U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.',
 	'wikibase-sitelinks-wikivoyage' => "Pagina's op Wikivoyage die gekoppeld zijn aan dit item",
@@ -11869,7 +11859,7 @@ U gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aa
 	'wikimedia-translationnotifications-signup-legal' => 'Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.',
 	'upload-more-photos-of-this-monument' => 'Meer afbeeldingen van dit monument uploaden',
 	'extdist-branch-master' => 'master (laatste ontwikkelversie)',
-	'extdist-branch-REL1_21' => '1.21 (laatste stabiele versie van MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (laatste stabiele versie van MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Gebruikersnamenbeleid',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(help me kiezen)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Gebruiker_aanvragen',
@@ -12028,14 +12018,13 @@ $messages['nn'] = array(
 Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for detaljar.',
 	'wikidata-copyright' => 'Alle strukturerte data frå hovud- og eigenskapsnamneromma er tilgjengelege under <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definisjonen av Creative Commons CC0-lisensen">Creative Commons CC0-lisensen</a>; tekst i dei andre namneromma er tilgjengeleg under <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definisjonen av Creative Commons Namngjeving/Del på same vilkåra-lisensen">Creative Commons Namngjeving/Del på same vilkåra-lisensen</a>; fleire vilkår kan gjelda.
 Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Bruksvilkåra til Wikimedia Foundation">Bruksvilkåra</a> for meir.',
-	'wikidata-shortcopyrightwarning' => 'Ved å klikka på «{{int:wikibase-save}}» samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under [https://creativecommons.org/publicdomain/zero/1.0/ CC0-lisensen].',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til datasettet',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sider knytte til datasettet',
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
 	'upload-more-photos-of-this-monument' => 'Last opp fleire bilete av monumentet',
-	'extdist-branch-REL1_21' => '1.21 (siste stabile MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (siste stabile MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Retningsliner for brukarnamn',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Be om ein konto',
@@ -12559,7 +12548,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
 	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
 	'extdist-branch-master' => 'master (najnowsza wersja rozwojowa)',
-	'extdist-branch-REL1_21' => '1.21 (najnowsza stabilna wersja MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (najnowsza stabilna wersja MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Nazwa_użytkownika',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]',
 	'wikimedia-developers' => 'Dla deweloperów',
@@ -12728,7 +12717,7 @@ A l'é d'acòrdi che n'anliura o n'adrëssa dla ragnà a basta com atribussion s
 	'wikimedia-translationnotifications-signup-legal' => "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij dò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Privacy_policy régole ëd confidensialità].",
 	'upload-more-photos-of-this-monument' => "Carié pi 'd fòto d'ës monument",
 	'extdist-branch-master' => 'mèistr (ùltima version ëd dësvlup)',
-	'extdist-branch-REL1_21' => '1.21 (ùltim MediaWiki stàbil)',
+	'extdist-branch-REL1_22' => '1.22 (ùltim MediaWiki stàbil)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Régole për jë stranòm',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(giuteme a serne)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Ciamé un cont',
@@ -13282,7 +13271,7 @@ Você concorda que um hiperlink ou URL é forma suficiente de atribuição nos t
 	'cant-delete-main-page' => 'Você não pode excluir ou mover a página principal.',
 	'upload-more-photos-of-this-monument' => 'Carregar mais fotos deste monumento',
 	'extdist-branch-master' => 'master (mais recente versão de desenvolvimento)',
-	'extdist-branch-REL1_21' => '1.21 (mais recente MediaWiki estável)',
+	'extdist-branch-REL1_22' => '1.22 (mais recente MediaWiki estável)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Política_de_nomes_de_usuário',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Ajude-me a escolher)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Solicitar uma conta',
@@ -13586,7 +13575,7 @@ Sunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă 
 	'cant-delete-main-page' => 'Nu puteți șterge sau redenumi pagina principală.',
 	'wikimedia-translationnotifications-signup-legal' => 'Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).',
 	'upload-more-photos-of-this-monument' => 'Încărcați mai multe fotografii cu acest monument',
-	'extdist-branch-REL1_21' => '1.21 (ultimul MediaWiki stabil)',
+	'extdist-branch-REL1_22' => '1.22 (ultimul MediaWiki stabil)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Politica numelui de utilizator',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Cereți un cont',
@@ -13731,7 +13720,6 @@ Vide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use\">Termine de Ut
 teste jndr\'à otre namespace jè disponibbile sotte a <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Licenze de Creative Commons Attribution/Share-Alike</a>;
 termine addizionale ponne essere applicate.
 \'Ndruche <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">le Termine d\'ause</a> pe dettaglie.',
-	'wikidata-shortcopyrightwarning' => 'Cazzanne  "{{int:wikibase-save}}", tu accette le [https://wikimediafoundation.org/wiki/Terms_of_Use termine d\'ause], e tu irrevocabbilmende accette de relascià \'u condrebbute tune sotte a [https://creativecommons.org/publicdomain/zero/1.0/ licenze CC0].',
 	'wikimedia-copyrightwarning' => "Cazzanne 'u bottone \"{{int:savearticle}}\", tu ste accette le [https://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 Licenze] e [https://www.gnu.org/copyleft/fdl.html GFDL].
 Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
 	'wikibase-sitelinks-wikivoyage' => 'Pàggene de Uicchivoyage collegate a sta vôsce',
@@ -13740,7 +13728,7 @@ Tu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sott
 	'wikimedia-translationnotifications-signup-legal' => "Tu sì d'accorde ca danne a Wikimedia Foundation ste 'mbormaziune nuje te putime condattà riguarde a le traduziune o a otre argomende collegate a le movimende de Uicchimedia ca penzeme ca ponne essere inderessande pe tè. Tu sì d'accorde ca le date tune ponne essere stipate jndr'à le State Aunìte d'Americhe e so suggette a le nostre [https://wikimediafoundation.org/wiki/Privacy_policy regole d'a privacy].",
 	'upload-more-photos-of-this-monument' => 'Careche cchiù fote de stu monumende',
 	'extdist-branch-master' => 'master (urtema versione de sveluppe)',
-	'extdist-branch-REL1_21' => '1.21 (urtema versione secure de MediaUicchi)',
+	'extdist-branch-REL1_22' => '1.22 (urtema versione secure de MediaUicchi)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Regole_pu_nome_utende',
 	'createacct-helpusername' => "[[{{MediaWiki:createacct-helpusername-url}}|(damme 'na màne a scacchià)]]",
 	'createacct-captcha-help-url' => "{{ns:Project}}:Cirche 'nu cunde",
@@ -13961,7 +13949,7 @@ $messages['ru'] = array(
 	'wikimedia-translationnotifications-signup-legal' => 'Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашатесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://wikimediafoundation.org/wiki/Privacy_policy политикой конфиденциальности] ([https://wikimediafoundation.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 русский перевод политики]).',
 	'upload-more-photos-of-this-monument' => 'Загрузить больше фотографий этого объекта',
 	'extdist-branch-master' => 'мастер (последней версия)',
-	'extdist-branch-REL1_21' => '1.21 (последняя стабильная MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (последняя стабильная MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Имена_участников',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помогите выбрать)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запросить учётную запись',
@@ -15229,7 +15217,7 @@ $messages['sr-ec'] = array(
 	'wikimedia-copyrightwarning' => 'Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> и <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Слажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.',
 	'cant-delete-main-page' => 'Не можете обрисати или преместити главну страну.',
-	'extdist-branch-REL1_21' => '1.21 (најновија стабилна верзија Медијавикија)',
+	'extdist-branch-REL1_22' => '1.22 (најновија стабилна верзија Медијавикија)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Кориснички_налог',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Request an account',
@@ -15371,7 +15359,7 @@ Pogledajte <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Uslove ko
 	'wikimedia-copyrightwarning' => 'Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> i <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.
 Slažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.',
 	'cant-delete-main-page' => 'Ne možete obrisati ili premestiti glavnu stranu.',
-	'extdist-branch-REL1_21' => '1.21 (najnovija stabilna verzija Medijavikija)',
+	'extdist-branch-REL1_22' => '1.22 (najnovija stabilna verzija Medijavikija)',
 	'wikimedia-developers' => 'Za programere',
 );
 
@@ -15690,7 +15678,8 @@ Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i en
 	'wikimedia-translationnotifications-signup-legal' => 'Du accepterar genom att tillhandahålla denna information till Wikimedia Foundation att vi får kontakta dig om översättningar eller andra ämnen relaterade till Wikimediarörelsen vi tror kan intressera dig. Du accepterar att din data kan sparas i USA och accepterar våra [https://wikimediafoundation.org/wiki/Privacy_policy integritetspolicy].',
 	'upload-more-photos-of-this-monument' => 'Ladda upp fler bilder på detta monument',
 	'extdist-branch-master' => 'master (senaste utvecklingsversionen)',
-	'extdist-branch-REL1_21' => '1.21 (senaste stabila MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (senaste stabila MediaWiki)',
+	'extdist-branch-REL1_21' => '1.21',
 	'createacct-helpusername-url' => '{{ns:Project}}:Användarnamnspolicy',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Begär ett konto',
@@ -17123,7 +17112,7 @@ $messages['uk'] = array(
 	'wikimedia-translationnotifications-signup-legal' => "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	'upload-more-photos-of-this-monument' => "Завантажити більше знімків цього об'єкта",
 	'extdist-branch-master' => 'майстер (остання розроблена версія)',
-	'extdist-branch-REL1_21' => '1.21 (остання стабільна MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (остання стабільна MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Політика_імені_користувача',
 	'createacct-helpusername' => '([[{{MediaWiki:createacct-helpusername-url}}|допоможіть мені вибрати]])',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Запит облікового запису',
@@ -17440,13 +17429,12 @@ $messages['vec'] = array(
 i testi in altri namespace i xe disponibiłi secondo ła licensa <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Atribusion/Condividi al steso modo</a>;
 pol vegner aplicae altre condision.
 Varda i <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Termini d\'uxo</a> par detaji.',
-	'wikidata-shortcopyrightwarning' => 'Strucando "Salva", te aceti le [https://wikimediafoundation.org/wiki/Terms_of_Use/it condision de uso] e te consenti irevocabilmente a rilasiar el to contributo in base a la licensa [https://creativecommons.org/publicdomain/zero/1.0/deed.it CC0].', # Fuzzy
 	'wikimedia-copyrightwarning' => "Strucando so'l boton \"{{int:savearticle}}\", te aceti łe [https://wikimediafoundation.org/wiki/Condizioni_d'uso condision d'uxo], e te aceti irevocabilmente de rełasar el to contributo soto łe license [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Atribusion-Condividi al steso modo 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Te aceti inoltre che un ligamento ipertestuałe o URL el sia sufisente par l'atribusion in baxe a ła licensa Creative Commons.",
 	'cant-delete-main-page' => 'Nó te poi scansełar o sposta ła pàjina prinsipałe.',
 	'wikimedia-translationnotifications-signup-legal' => 'Te aceti che, fornendo ste informasion a ła Wikimedia Foundation, podemo contatarte par cuanto rivarda łe tradusion o altri argomenti rełativi al movimento Wikimedia che pensemo i posa interesarte. Te aceti che i to dati i sia conservai inte i Stati Unìi de ła Mèrica e i sia sogeti a ła nostra [https://wikimediafoundation.org/wiki/Privacy_policy pułitega so ła privacy].',
 	'upload-more-photos-of-this-monument' => 'Carga altre someje de sto monumento',
 	'extdist-branch-master' => 'master (ultima version in svilupo)',
-	'extdist-branch-REL1_21' => '1.21 (ultima version stabile de MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (ultima version stabile de MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Politica_nome_utente',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(jùtame a sièliere)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Dimanda na utensa',
@@ -17697,7 +17685,7 @@ Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/
 	'wikimedia-translationnotifications-signup-legal' => 'Với việc cung cấp thông tin này cho Quỹ Wikimedia, bạn đồng ý cho phép chúng tôi liên lạc với bạn về các bản dịch hoặc các đề tài khác có liên quan đến phong trào Wikimedia mà bạn có thể quan tâm đến. Bạn đồng ý rằng dữ liệu của bạn có thể được lưu giữ tại Hợp chúng quốc Hoa Kỳ theo các điều kiện trong [https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi quy định quyền riêng tư] của chúng tôi.',
 	'upload-more-photos-of-this-monument' => 'Tải lên thêm hình ảnh đài tưởng niệm này',
 	'extdist-branch-master' => 'master (phiên bản phát triển mới nhất)',
-	'extdist-branch-REL1_21' => '1.21 (MediaWiki ổn định mới nhất)',
+	'extdist-branch-REL1_22' => '1.22 (MediaWiki ổn định mới nhất)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Quy định tên người dùng',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Yêu cầu tạo tài khoản',
@@ -18061,7 +18049,7 @@ $messages['yi'] = array(
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
 	'wikimedia-translationnotifications-signup-legal' => 'איר זענט מסכים אז ווען איר פארזארגט די אינפארמאציע צו דער וויקימעדיע פונדאציע מעגן מיר קאנטאקטירן אייך וועגן איבערזעצונגען אדער אנדערע טעמעס שייך צו דער וויקימעדיע באוועגונג וואס מיר האלטן וועט אינטרעסירן אײַך. איר זענט מסכים אז מען מעג אײַערע דאטן איינשפייכלערן אין די פאראייניגטע שטאטן פון אמעריקע און ווערט געהאלטן לויט אונזער [https://wikimediafoundation.org/wiki/Privacy_policy פריוואטקייט ריכטליניע]',
 	'upload-more-photos-of-this-monument' => 'ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט',
-	'extdist-branch-REL1_21' => '1.21 (לעצטע סטאבילע מעדיעוויקי)',
+	'extdist-branch-REL1_22' => '1.22 (לעצטע סטאבילע מעדיעוויקי)',
 	'createacct-helpusername-url' => '{{ns:Project}}:באניצער־נאמען ריכטליניע',
 	'createacct-captcha-help-url' => '{{ns:Project}}:בעטן א קאנטע',
 	'createacct-imgcaptcha-help' => 'בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]',
@@ -18352,7 +18340,7 @@ $messages['zh-hans'] = array(
 	'wikimedia-translationnotifications-signup-legal' => '你同意维基媒体基金会可能就有关翻译或我们认为你有兴趣的维基媒体发展事项去联络你。你亦同意我们将你的资料根据[https://wikimediafoundation.org/wiki/Privacy_policy 我们的私隐政策]存放于美国。',
 	'upload-more-photos-of-this-monument' => '上传更多该古迹的照片',
 	'extdist-branch-master' => '原始版（最新开发版本）',
-	'extdist-branch-REL1_21' => '1.21（最新稳定MediaWiki版本）',
+	'extdist-branch-REL1_22' => '1.22（最新稳定MediaWiki版本）',
 	'createacct-helpusername-url' => '{{ns:Project}}:用户名方针',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|（帮我选择）]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:申请账户',
@@ -18552,7 +18540,7 @@ $messages['zh-hant'] = array(
 	'wikimedia-translationnotifications-signup-legal' => '你同意維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://wikimediafoundation.org/wiki/Privacy_policy 我們的私隱政策]存放於美國。',
 	'upload-more-photos-of-this-monument' => '上載更多此古蹟的圖片',
 	'extdist-branch-master' => '主幹 (最新開發版本)',
-	'extdist-branch-REL1_21' => '1.21 (最新穩定版本的MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (最新穩定版本的MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:用戶名方針',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|（幫我選擇）]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:請求建立用戶',
