@@ -41,15 +41,13 @@ $wgExtensionFunctions[] = function() {
 		 * @return bool
 		 */
 		$wgHooks['SkinCopyrightFooter'][] = function( $title, $type, &$msg, &$link, &$forContent ) {
-			$siteMessageKey = 'wikimedia-copyright'; // the default
-
-			global $wgDBname;
-			if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
-				$siteMessageKey = 'wikidata-copyright';
-			}
-
-			if( $type != 'history' ) {
-				$msg = $siteMessageKey;
+			if ( $type !== 'history' ) {
+				global $wgDBname;
+				if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
+					$msg = 'wikidata-copyright';
+				} else {
+					$msg = 'wikimedia-copyright'; // the default;
+				}
 				$forContent = false;
 			}
 
