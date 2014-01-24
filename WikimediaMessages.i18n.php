@@ -249,6 +249,8 @@ additional terms may apply.
 See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> for details.',
 	'wikimedia-copyrightwarning' => 'By clicking the "{{int:savearticle}}" button, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.',
+	'wikimedia-mobile-copyrightwarning' => 'By clicking the "{{int:savearticle}}" button, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-mobile-photo-copyrightwarning' => 'By uploading this image, you agree to our [https://wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to release your image under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License].',
 
 	# Wikidata-specific messages
 	'wikibase-sitelinks-wikisource' => 'Wikisource pages linked to this item',
@@ -574,6 +576,8 @@ The attribute "<code>title</code>" values ("Definition of the Creative Commons C
 Refers to {{msg-mw|Savearticle}}.
 
 {{Identical/Wikimedia-licensing}}',
+	'wikimedia-mobile-copyrightwarning' => 'Editor copyright warning shown on mobile devices. Shorter version of {{msg-mw|wikimedia-copyrightwarning}}.',
+	'wikimedia-mobile-photo-copyrightwarning' => 'Media upload copyright warning shown on mobile devices.',
 	'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links.
 {{Related|Wikibase-sitelinks}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links.

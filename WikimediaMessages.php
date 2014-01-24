@@ -73,6 +73,15 @@ $wgExtensionFunctions[] = function() {
 		$msg = 'wikimedia-globalblocking-ipblocked-xff';
 		return true;
 	};
+	$wgHooks['EditPageMobileCopyrightWarning'][] = function( $title, &$msg ) {
+		$msg = array( 'wikimedia-mobile-copyrightwarning' );
+		return true;
+	};
+	$wgHooks['UploadMobileCopyrightWarning'][] = function( $title, &$msg ) {
+		$msg = array( 'wikimedia-mobile-photo-copyrightwarning' );
+		return true;
+	};
+
 };
 
 /**
