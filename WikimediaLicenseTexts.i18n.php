@@ -205,7 +205,8 @@ Refers to:
 	'wm-license-creator-alternative-names' => 'Label "Alternative names" at [[Commons:Template:Creator]].',
 	'wm-license-creator-description' => 'Label "Description" at [[Commons:Template:Creator]].
 {{Identical|Description}}',
-	'wm-license-creator-date-of-birth' => 'Label "Date of birth" at [[Commons:Template:Creator]]. Will be used when only date of birth is known (and date of death is not).',
+	'wm-license-creator-date-of-birth' => 'Label "Date of birth" at [[Commons:Template:Creator]]. Will be used when only date of birth is known (and date of death is not).
+{{Identical|Date of birth}}',
 	'wm-license-creator-date-of-birth-and-death' => 'Label "Date of birth/death" at [[Commons:Template:Creator]]. Will be used when both date of birth and date of death are known.',
 	'wm-license-creator-location-of-birth' => 'Label "Location of birth" at [[Commons:Template:Creator]]. Will be used when only location of birth is known (and location of death is not).',
 	'wm-license-creator-location-of-birth-and-death' => 'Label "Location of birth/death" at [[Commons:Template:Creator]]. Will be used when both location of birth and location of death are known.',
@@ -1754,6 +1755,7 @@ $messages['cdo'] = array(
 $messages['ce'] = array(
 	'wikimedialicensetexts-desc' => 'Викимедиа бакъойаларна хаам',
 	'wm-license-artwork-title' => 'ЦӀе',
+	'wm-license-artwork-current-location' => 'ХӀинца йолу меттиг',
 	'wm-license-artwork-notes' => 'Билгалдаккхар',
 	'wm-license-artwork-source' => 'Хьост/суьрташдохург',
 	'wm-license-book-editor' => 'Тадархо',
@@ -5917,6 +5919,7 @@ $messages['lrc'] = array(
 	'wm-license-book-volume' => 'حجم',
 	'wm-license-information-source' => 'سرچشمه',
 	'wm-license-information-date' => 'تاريخ',
+	'wm-license-information-permission' => 'دسرسی',
 	'wm-license-original-upload-log' => 'پهرستنومه سوارکرد اصلی',
 );
 
@@ -6098,7 +6101,7 @@ $messages['mg'] = array(
 	'wm-license-information-author' => 'Mpamorona azy',
 	'wm-license-information-author-missing' => "Tsy manome fampahalalàna mikasika ny '''mpamorony''' ity rakitra ity.",
 	'wm-license-information-permission-see-below' => 'Jereo eo ambany',
-	'wm-license-information-other-versions' => 'Santiôna hafa',
+	'wm-license-information-other-versions' => 'Versiona hafa',
 	'wm-license-original-upload-log' => "Laogin'ny fampidirana loharano",
 );
 

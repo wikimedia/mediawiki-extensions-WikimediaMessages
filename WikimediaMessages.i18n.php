@@ -3168,6 +3168,7 @@ $messages['crh-latn'] = array(
  * @author Michaelbrabec
  * @author Mormegil
  * @author Ragimiri
+ * @author YjM
  */
 $messages['cs'] = array(
 	'wikimediamessages-desc' => 'Hlášení specifická pro projekty nadace Wikimedia Foundation',
@@ -3307,7 +3308,8 @@ text v ostatních jmenných prostorech je k dispozici pod licencí <a href="http
 mohou se vyskytnout další podmínky.
 Pro další detaily vizte <a href="https://wikimediafoundation.org/wiki/Terms_of_use/cs" title="Podmínky užití Wikimedia Foundation">Podmínky užití</a>.',
 	'wikimedia-copyrightwarning' => 'Kliknutím na „{{int:savearticle}}“ souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Podm%C3%ADnky_u%C5%BEit%C3%AD Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC-BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Souhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikivoyage provázané s touto položkou',
+	'wikibase-sitelinks-wikisource' => 'Stránky Wikiknih provázané s touto položkou',
+	'wikibase-sitelinks-wikivoyage' => 'Stránky Wikicest provázané s touto položkou',
 	'wikibase-sitelinks-commons' => 'Stránka Wikimedia Commons provázaná s touto položkou',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Hlavní stranu nemůžete smazat ani přesunout.',
@@ -3905,6 +3907,8 @@ zusätzliche Bedingungen können anwendbar sein.
 Siehe die <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/de" title="Nutzungsbedingungen der Wikimedia Foundation">Nutzungsbedingungen</a> für Einzelheiten.',
 	'wikimedia-copyrightwarning' => "Mit dem Klick auf die Schaltfläche „{{int:savearticle}}“ erklärst du dich mit den [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative Commons'' „Namensnennung / Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung, gemäß der ''Creative-Commons''-Lizenz, ausreichend ist.",
+	'wikimedia-mobile-copyrightwarning' => 'Durch Klicken auf die Schaltfläche „{{int:savearticle}}“ stimmst du den [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Beitrags unter der [https://creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] sowie der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] zu.',
+	'wikimedia-mobile-photo-copyrightwarning' => 'Durch das Hochladen dieses Bildes stimmst du unseren [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und der Veröffentlichung deines Bildes unter der [https://creativecommons.org/licenses/by-sa/3.0/deed.de Creative-Commons-Namensnennung-Weitergabe-unter-gleichen-Bedingungen-3.0-Unported-Lizenz] zu.',
 	'wikibase-sitelinks-wikisource' => 'Wikisource-Seiten zu diesem Objekt',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-Seiten zu diesem Objekt',
 	'wikibase-sitelinks-commons' => 'Wikimedia-Commons-Seite zu diesem Objekt',
@@ -3914,7 +3918,6 @@ Du stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zu
 	'upload-more-photos-of-this-monument' => 'Weitere Fotos dieses Denkmals hochladen',
 	'extdist-branch-master' => 'master (aktuellste Entwicklerversion)',
 	'extdist-branch-REL1_22' => '1.22 (aktuellste stabile MediaWiki-Version)',
-	'extdist-branch-REL1_21' => '1.21',
 	'createacct-helpusername-url' => '{{ns:Project}}:Benutzernamensrichtlinie',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(Auswahlhilfe)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Benutzerkontenanträge',
@@ -3951,6 +3954,7 @@ Das Bearbeiten über Tor ist gesperrt, um Missbrauch zu vermeiden.
 Für zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe die globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“.',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/de',
 	'wikimedia-oauth-privacy-link' => '[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Datenschutzrichtlinie]',
+	'mwoauth-grant-checkuser' => 'Auf Checkuser-Daten zugreifen',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -9998,10 +10002,13 @@ $messages['lrc'] = array(
 	'group-filemover-member' => '{{جنس:$1|جانیا آلشت کننه}}',
 	'group-interface_editor' => 'ویرایشتگریا مین پیوست',
 	'group-interface_editor-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
+	'group-uploader' => 'سوارکننه یا',
+	'group-uploader-member' => '{{جنس:$1|سوارکننه}}',
 	'group-editinterface' => 'ویرایشتگریا مین پیوست',
 	'group-editinterface-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
 	'wikibase-sitelinks-wikisource' => 'بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه',
 	'wikibase-sitelinks-commons' => 'بلگه پرنمون یا ویکی پدیا  دی ای قلم هوم پیوند بیه',
+	'upload-more-photos-of-this-monument' => 'د ای گات عسگیا فره تر سوار بکید',
 );
 
 /** Lithuanian (lietuvių)
@@ -15688,7 +15695,6 @@ Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i en
 	'upload-more-photos-of-this-monument' => 'Ladda upp fler bilder på detta monument',
 	'extdist-branch-master' => 'master (senaste utvecklingsversionen)',
 	'extdist-branch-REL1_22' => '1.22 (senaste stabila MediaWiki)',
-	'extdist-branch-REL1_21' => '1.21',
 	'createacct-helpusername-url' => '{{ns:Project}}:Användarnamnspolicy',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]',
 	'createacct-captcha-help-url' => '{{ns:Project}}:Begär ett konto',
@@ -17533,6 +17539,7 @@ Kacu mugažo: <a href="https://wikimediafoundation.org/wiki/Käyttöehdot">käyt
  * @author Minh Nguyen
  * @author Trần Nguyễn Minh Huy
  * @author Vinhtantran
+ * @author Withoutaname
  * @author לערי ריינהארט
  */
 $messages['vi'] = array(
@@ -18264,7 +18271,7 @@ $messages['zh-hans'] = array(
 	'group-interface_editor' => '界面编辑者',
 	'group-interface_editor-member' => '{{GENDER:$1|界面编辑者}}',
 	'grouppage-interface_editor' => '{{ns:project}}:界面编辑者',
-	'group-ipblock-exempt' => 'IP封禁豁免',
+	'group-ipblock-exempt' => 'IP封禁豁免者',
 	'group-ipblock-exempt-member' => '{{GENDER:$1|IP封禁豁免者}}',
 	'grouppage-ipblock-exempt' => '{{ns:project}}:IP封禁豁免',
 	'group-patroller' => '巡查员',
