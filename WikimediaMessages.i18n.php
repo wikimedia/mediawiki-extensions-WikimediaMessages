@@ -880,6 +880,7 @@ $messages['am'] = array(
  * @author Dalton2
  * @author Juanpabl
  * @author Nemo bis
+ * @author Willtron
  */
 $messages['an'] = array(
 	'wikimediamessages-desc' => 'Mensaches especificos de Wikimedia',
@@ -998,6 +999,7 @@ Mire-se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">os termins d
 	'wikimedia-copyrightwarning' => "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [https://wikimediafoundation.org/wiki/Terms_of_Use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [https://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [https://www.gnu.org/copyleft/fdl.html Licencia GFDL].
 Tamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribución suficient baixo a licencia Creative Commons.",
 	'cant-delete-main-page' => 'No puede borrar ni mover a pachina prencipal.',
+	'createacct-imgcaptcha-help' => 'No veyes a imachen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]',
 );
 
 /** Old English (Ænglisc)
@@ -4969,6 +4971,7 @@ Muul juhul [[m:Steward requests/Global|postita palun metavikisse blokeeringu aru
 Tor-võrgu kaudu toimetamine on väärtarvituse vältimiseks keelatud.
 Õigustatud muudatuste tegijad leiavad lisateavet ja juhised [[m:Special:MyLanguage/No open proxies|avatud prokside keelamist]] puudutavast globaalsest reeglistikust.',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Privaatsus]',
+	'mwoauth-grant-checkuser' => 'Juurdepääs kasutajakontrolli andmetele',
 );
 
 /** Basque (euskara)
@@ -8511,6 +8514,7 @@ La possibilità di editare utilizzando tor è bloccata per impedire abusi.
 Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/it',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Politica sulla privacy]',
+	'mwoauth-grant-checkuser' => 'Accede ai dati checkuser',
 );
 
 /** Japanese (日本語)
@@ -9348,8 +9352,8 @@ $messages['ko'] = array(
 	'group-global-ipblock-exempt' => '통합 IP 차단 면제자',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|통합 IP 차단 면제자}}',
 	'grouppage-global-ipblock-exempt' => 'm:통합 IP 차단 면제자',
-	'group-recursive-export' => '재귀 내보내는자',
-	'group-recursive-export-member' => '{{GENDER:$1|재귀 내보내는자}}',
+	'group-recursive-export' => '재귀 내보내는 자',
+	'group-recursive-export-member' => '{{GENDER:$1|재귀 내보내는 자}}',
 	'group-massmessage-sender' => '대량 메시지 송신자',
 	'group-massmessage-sender-member' => '{{GENDER:$1|대량 메시지 송신자}}',
 	'grouppage-massmessage-sender' => '{{ns:project}}:대량 메시지 송신자',
@@ -10039,14 +10043,18 @@ $messages['loz'] = array(
  */
 $messages['lrc'] = array(
 	'sitesupport' => 'هومياری پيلی',
+	'nstab-timedtext' => 'نیسه وخت دار',
 	'group-filemover' => 'جانیا آلشت کننه',
 	'group-filemover-member' => '{{جنس:$1|جانیا آلشت کننه}}',
+	'group-flood' => 'کاروریا بوت',
 	'group-interface_editor' => 'ویرایشتگریا مین پیوست',
 	'group-interface_editor-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
+	'group-trusted' => 'کاروریا مطمئن',
 	'group-uploader' => 'سوارکننه یا',
 	'group-uploader-member' => '{{جنس:$1|سوارکننه}}',
 	'group-editinterface' => 'ویرایشتگریا مین پیوست',
 	'group-editinterface-member' => '{{جنس:$1|ویرایشتگر مین پیوست}}',
+	'group-inactive' => 'کاروریا کارمکو',
 	'wikibase-sitelinks-wikisource' => 'بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه',
 	'wikibase-sitelinks-commons' => 'بلگه پرنمون یا ویکی پدیا  دی ای قلم هوم پیوند بیه',
 	'upload-more-photos-of-this-monument' => 'د ای گات عسگیا فره تر سوار بکید',
@@ -17762,6 +17770,8 @@ các văn bản trong các không gian tên khác được được phát hành 
 các điều khoản bổ sung có thể áp dụng.
 Xem chi tiết trong <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi" title="Các Điều khoản Sử dụng của Wikimedia Foundation">các Điều khoản Sử dụng</a>.',
 	'wikimedia-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng], và bạn đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Creative_Commons_Ghi_công–Chia_sẻ_tương_tự_phiên_bản_3.0_Chưa_chuyển_đổi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]. Bạn đồng ý rằng một siêu liên kết hoặc URL thỏa mãn điều kiện ghi công trong giấy phép Creative Commons.',
+	'wikimedia-mobile-copyrightwarning' => 'Với việc bấm nút “{{int:savearticle}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] và đồng ý phát hành, một cách không thể hủy bỏ, đóng góp của mình theo [//creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].',
+	'wikimedia-mobile-photo-copyrightwarning' => 'Với việc tải lên hình này, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi, và bạn đồng ý phát hành hình ảnh của mình theo [//creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép Creative Commons Ghi công–Chia sẻ tương tự 3.0].',
 	'wikibase-sitelinks-wikisource' => 'Trang Wikisource được liên kết với khoản mục này',
 	'wikibase-sitelinks-wikivoyage' => 'Trang Wikivoyage được liên kết với khoản mục này',
 	'wikibase-sitelinks-commons' => 'Trang Wikimedia Commons được liên kết với khoản mục này',
@@ -17806,6 +17816,7 @@ Nếu bạn biết rằng đây là vụ nhầm lẫn, bạn có thể xem thêm
 Sửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm thông tin và hướng dẫn dành cho những người dùng chính đáng trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/vi',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]',
+	'mwoauth-grant-checkuser' => 'Truy cập chữ liệu kiểm định viên',
 );
 
 /** Volapük (Volapük)
