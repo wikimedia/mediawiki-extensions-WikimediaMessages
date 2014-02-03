@@ -4428,7 +4428,8 @@ $messages['el'] = array(
 	'wikimedia-copyright' => 'Όλα τα κείμενα είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative Commons Attribution/Share-Alike License</a>· μπορεί να ισχύουν και πρόσθετοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikidata-copyright' => 'Όλα τα δομημένα δεδομένα από τους χώρους ονομάτων κύριο και ιδιότητες είναι διαθέσιμο υπό την <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Ορισμός της Creative Commons CC0 License">Άδεια Creative Commons CC0</a>. Κείμενα σε άλλους χώρους ονομάτων είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>. Μπορεί να εφαρμόζονται και άλλοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Όροι Χρήσης του Wikimedia Foundation">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikimedia-copyrightwarning' => 'Κάνοντας κλικ στο κουμπί"{{int:savearticle}}", συμφωνείτε με  τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε ότι ένας υπερσύνδεσμος ή URL είναι αρκετή απόδοση αναφοράς υπό της άδεια Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από Βικιταξίδια συνδεδεμένοι με το αντικείμενο',
+	'wikibase-sitelinks-wikisource' => 'Σελίδες από τη Βικιθήκη που συνδέονται με αυτό το αντικείμενο',
+	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από τα Βικιταξίδια που συνδέονται με αυτό το αντικείμενο',
 	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
@@ -10696,7 +10697,7 @@ $messages['mk'] = array(
 	'group-inactive' => 'Неактивни корисници',
 	'group-inactive-member' => '{{GENDER:$1|неактивен корисник}}',
 	'grouppage-inactive' => '{{ns:project}}:Нективни корисници',
-	'shared-repo-name-shared' => 'Заедничката Ризница',
+	'shared-repo-name-shared' => 'Ризницата',
 	'wikimedia-copyright' => 'Текстот е достапен под условите на лиценцата <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.
 Може да важат и дополнителни услови.
 Повеќе информации ќе најдете на страницата <a href="https://wikimediafoundation.org/wiki/Услови_на_употреба">Услови на употреба</a>.',
@@ -17379,7 +17380,7 @@ $messages['uz'] = array(
 	'group-inactive-member' => '{{GENDER:$1|nofaol foydalanuvchi}}',
 	'grouppage-inactive' => '{{ns:project}}:Nofaol ishtirokchilar',
 	'wikimedia-copyright' => 'Matn <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">Creative Commons Attribution/Share-Alike litsenziyasi</a> boʻyicha ommalashtirilmoqda; alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin. Batafsil: <a href="https://wikimediafoundation.org/wiki/Terms_of_Use/ru">Foydalanish shartlari</a>.',
-	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda, Siz [https://wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz, va kiritilgan maʼlumotlar [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.',
+	'wikimedia-copyrightwarning' => '«{{int:savearticle}}» tugmasini bosgan holda Siz [https://wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz va kiritilgan maʼlumotlar [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek, Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.',
 	'cant-delete-main-page' => 'Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.',
 	'upload-more-photos-of-this-monument' => 'Ushbu obyektning yana boshqa suratlarini yuklash',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tanlashda yordam)]]',
