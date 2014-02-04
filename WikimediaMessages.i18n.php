@@ -2957,6 +2957,7 @@ $messages['cdo'] = array(
  * @author Умар
  */
 $messages['ce'] = array(
+	'wikimediamessages-desc' => 'Викимедиан спецификан хаамаш',
 	'sitesupport' => 'Википедин гӀо дар',
 	'tooltip-n-sitesupport' => 'ГIо дайша тхуна',
 	'group-Ex_Administrator' => 'Хьалхьа хила куьйгалхой',
@@ -3022,6 +3023,7 @@ $messages['ce'] = array(
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]',
 	'createacct-imgcaptcha-help' => 'Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]',
 	'wikimedia-developers' => 'Кечдархой',
+	'mwoauth-grant-checkuser' => 'Декъашхошка хьажа таро ю',
 );
 
 /** Cebuano (Cebuano)
@@ -4429,7 +4431,7 @@ $messages['el'] = array(
 	'wikidata-copyright' => 'Όλα τα δομημένα δεδομένα από τους χώρους ονομάτων κύριο και ιδιότητες είναι διαθέσιμο υπό την <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Ορισμός της Creative Commons CC0 License">Άδεια Creative Commons CC0</a>. Κείμενα σε άλλους χώρους ονομάτων είναι διαθέσιμα υπό την <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>. Μπορεί να εφαρμόζονται και άλλοι όροι. Δείτε τους <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Όροι Χρήσης του Wikimedia Foundation">Όρους Χρήσης</a> για λεπτομέρειες.',
 	'wikimedia-copyrightwarning' => 'Κάνοντας κλικ στο κουμπί"{{int:savearticle}}", συμφωνείτε με  τους [https://wikimediafoundation.org/wiki/%CE%8C%CF%81%CE%BF%CE%B9_%CE%A7%CF%81%CE%AE%CF%83%CE%B7%CF%82 Όρους Χρήσης], και συμφωνείτε χωρίς δικαίωμα ανάκλησης για την δημοσίευση του υλικού υπό τους όρους της [https://creativecommons.org/licenses/by-sa/3.0/deed.el Creative Commons Attribution/Share-Alike License 3.0] και της [https://www.gnu.org/copyleft/fdl.html GFDL]. Συμφωνείτε ότι ένας υπερσύνδεσμος ή URL είναι αρκετή απόδοση αναφοράς υπό της άδεια Creative Commons.',
 	'wikibase-sitelinks-wikisource' => 'Σελίδες από τη Βικιθήκη που συνδέονται με αυτό το αντικείμενο',
-	'wikibase-sitelinks-wikivoyage' => 'Οδηγοί από τα Βικιταξίδια που συνδέονται με αυτό το αντικείμενο',
+	'wikibase-sitelinks-wikivoyage' => 'Σελίδες από τα Βικιταξίδια που συνδέονται με αυτό το αντικείμενο',
 	'wikibase-sitelinks-commons' => 'Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο', # Fuzzy
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.',
@@ -13982,8 +13984,8 @@ $messages['ru'] = array(
 	'group-API_High_Limit_Requestor-member' => '{{GENDER:$1|Запросивший уменьшение ограничений при работе с API}}',
 	'group-Indic_Bots' => 'Indic-боты',
 	'group-Indic_Bots-member' => '{{GENDER:$1|indic-бот}}',
-	'group-New_wikis_importer' => 'Импортеры новых вики',
-	'group-New_wikis_importer-member' => '{{GENDER:$1|импортер новых вики}}',
+	'group-New_wikis_importer' => 'Импортёры новых вики',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|импортёр новых вики}}',
 	'group-global-ipblock-exempt' => 'Глобальные исключения из IP-блокировок',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|глобальное исключение из IP-блокировок}}',
 	'group-recursive-export' => 'Рекурсивный экспорт',
