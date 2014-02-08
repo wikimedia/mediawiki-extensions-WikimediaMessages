@@ -58,6 +58,13 @@ $wgExtensionFunctions[] = function() {
 			$msg = array( 'wikimedia-copyrightwarning' );
 			return true;
 		};
+
+		$wgHooks['FlowTermsOfUse'][] = function( &$addTopicKey, &$replyKey, &$editKey ) {
+			$addTopicKey = 'wikimedia-flow-terms-of-use-new-topic';
+			$replyKey = 'wikimedia-flow-terms-of-use-reply';
+			$editKey = 'wikimedia-flow-terms-of-use-edit';
+			return true;
+		};
 	}
 
 	//Bug 42231: Should have a specific message for WMF projects
