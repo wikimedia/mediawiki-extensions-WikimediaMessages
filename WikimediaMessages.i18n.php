@@ -1151,7 +1151,7 @@ $messages['ar'] = array(
 	'group-trusted-member' => '{{GENDER:$1|مستخدم موثوق}}',
 	'grouppage-trusted' => '{{ns:project}}:مستخدمون موثوقون',
 	'group-uploader' => 'رافعون',
-	'group-uploader-member' => 'رافع', # Fuzzy
+	'group-uploader-member' => '{{GENDER:$1|رافع}}',
 	'grouppage-uploader' => '{{ns:project}}:رافعون',
 	'group-Global_bot' => 'بوتات عامة',
 	'group-Global_bot-member' => '{{GENDER:$1|بوت عام}}',
@@ -10072,6 +10072,7 @@ $messages['lrc'] = array(
 	'wikibase-sitelinks-wikisource' => 'بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه',
 	'wikibase-sitelinks-commons' => 'بلگه پرنمون یا ویکی پدیا  دی ای قلم هوم پیوند بیه',
 	'upload-more-photos-of-this-monument' => 'د ای گات عسگیا فره تر سوار بکید',
+	'createacct-captcha-help-url' => '{{ns:پروجه}}:درحاست سی یه گل حساو', # Fuzzy
 );
 
 /** Lithuanian (lietuvių)
