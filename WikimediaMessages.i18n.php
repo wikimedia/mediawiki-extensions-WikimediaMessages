@@ -18195,6 +18195,7 @@ $messages['yi'] = array(
 	'wikibase-sitelinks-wikisource' => 'וויקיקוואל בלעטער פארלינקט מיט דעם אביעקט',
 	'wikibase-sitelinks-wikivoyage' => 'וויקירייזע בלעטער פארלינקט מיט דעם אביעקט',
 	'wikibase-sitelinks-commons' => 'וויקימעדיע קאמאנס בלאט פארבונדן מיט דעם דאטנאביעקט',
+	'wikibase-sitelinks-sitename-commonswiki' => 'קאמאנס',
 	'cant-delete-main-page' => 'מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט',
 	'wikimedia-translationnotifications-signup-legal' => 'איר זענט מסכים אז ווען איר פארזארגט די אינפארמאציע צו דער וויקימעדיע פונדאציע מעגן מיר קאנטאקטירן אייך וועגן איבערזעצונגען אדער אנדערע טעמעס שייך צו דער וויקימעדיע באוועגונג וואס מיר האלטן וועט אינטרעסירן אײַך. איר זענט מסכים אז מען מעג אײַערע דאטן איינשפייכלערן אין די פאראייניגטע שטאטן פון אמעריקע און ווערט געהאלטן לויט אונזער [https://wikimediafoundation.org/wiki/Privacy_policy פריוואטקייט ריכטליניע]',
 	'upload-more-photos-of-this-monument' => 'ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט',

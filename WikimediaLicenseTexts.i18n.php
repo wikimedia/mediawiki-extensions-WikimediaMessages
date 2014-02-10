@@ -5918,6 +5918,7 @@ $messages['lrc'] = array(
 	'wm-license-book-translator' => 'والريار',
 	'wm-license-book-volume' => 'حجم',
 	'wm-license-book-year-of-publication' => 'سال چاپ بیئن',
+	'wm-license-creator-alternative-names' => 'نوم جاگزین',
 	'wm-license-information-source' => 'سرچشمه',
 	'wm-license-information-date' => 'تاريخ',
 	'wm-license-information-permission' => 'دسرسی',
