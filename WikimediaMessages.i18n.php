@@ -1174,6 +1174,7 @@ $messages['ar'] = array(
 	'grouppage-steward' => 'm:Stewards/ar',
 	'group-sysadmin' => 'إداريو النظام',
 	'group-sysadmin-member' => '{{GENDER:$1|مسؤول النظام}}',
+	'group-oauthadmin-member' => 'إداري{{GENDER:$1||ة}} تخويل مفتوح',
 	'group-translationadmin' => 'إداريو الترجمة',
 	'group-translationadmin-member' => '{{GENDER:$1 |إداري الترجمة}}',
 	'grouppage-translationadmin' => '{{ns:project}}: إداريو الترجمة',
