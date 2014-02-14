@@ -15817,6 +15817,8 @@ ytterligare villkor kan tillkomma.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Användarvillkor</a> för detaljer.',
 	'wikimedia-copyrightwarning' => 'Genom att klicka på knappen "{{int:savearticle}}" accepterar du [https://wikimediafoundation.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag fritt enligt licenserna [https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC-BY-SA-3.0] och [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterar att en hyperlänk eller URL utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.',
+	'wikimedia-mobile-copyrightwarning' => 'Genom att klicka på "{{int:savearticle}}"-knappen godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa dina bidrag under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-mobile-photo-copyrightwarning' => 'Genom att ladda upp denna bild godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att släppa din bild under licensen [//creativecommons.org/licenses/by-sa/3.0/ Creative Commons Erkännande-DelaLika 3.0].',
 	'wikibase-sitelinks-wikisource' => 'Wikisource-sidor som är länkade till det här objektet',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidor som är länkade till det här objektet',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sidor som är länkade till det här objektet',
