@@ -5494,8 +5494,8 @@ Et Wiggerjävve, et Ömmoodelle, un der Jebruch jääje Jeld un wat emmer sönß
 	'wm-license-creator-work-location' => 'Plaz vum Wirke',
 	'wm-license-creator-linkback' => 'Ene Lengk op di Schabloon mem Kaste met de Enfommazjuhne vum Aanlääjer',
 	'wm-license-fal-text' => '<i lang="en">Copyleft</i>:
-Heh dat Kunßwärk es frei, un De kanns_et wigger jävve un och ändere onger dä Bedenonge vun dä \'\'\'<i lang="en">[[{{int:wm-license-fal-wiki-link}}|Free Art License]]</i>\'\'\' (dä freie Kunß Lizänz) 
-E Beishpell för di Lizanz kanns De nohlässe op dä <i lang="en">[{{int:wm-license-fal-full-link}} Copyleft Attitude site]</i> un och aan andere shtälle.',
+Heh dat Kunßwärk es frei, un De kanns_et wigger jävve un och ändere onger dä Bedengonge vun dä \'\'\'<i lang="en">[[{{int:wm-license-fal-wiki-link}}|Free Art License]]</i>\'\'\' (dä freie Kunß Lezänz) 
+E Beischpell för di Lizanz kanns De nohlässe op dä <i lang="en">[{{int:wm-license-fal-full-link}} Copyleft Attitude site]</i> un och aan andere schtälle.',
 	'wm-license-fal-wiki-link' => 'w:de:Lizenz Freie Kunst',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/de',
 	'wm-license-fsf-wiki-link' => 'w:de:Free Software Foundation',
