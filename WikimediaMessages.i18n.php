@@ -323,6 +323,11 @@ For additional information and instructions to legitimate users, see the [[m:Spe
 
 	# Wikimedia-specific oauth grants
 	'mwoauth-grant-checkuser' => 'Access checkuser data',
+
+	# Flow terms of use messages
+	'wikimedia-flow-terms-of-use-new-topic' => 'By clicking "{{int:flow-newtopic-save}}", you agree to our [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'By clicking "{{int:flow-reply-submit}}", you agree to our [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-edit' => 'By saving changes, you agree to our [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Message documentation (Message documentation)
@@ -638,6 +643,9 @@ Parameters:
 	'wikimedia-oauth-privacy-link' => 'Wikitext link pointing to the WMF privacy policy for all sites.',
 	'mwoauth-grant-checkuser' => 'Name for OAuth grant "checkuser".
 {{Related|Mwoauth-grant}}',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Terms of use and copyright warning shown when adding a new topic to a Flow board',
+	'wikimedia-flow-terms-of-use-reply' => 'Terms of use and copyright warning shown when adding a reply at a Flow board',
+	'wikimedia-flow-terms-of-use-edit' => 'Terms of use and copyright warning shown when editing the header or an existing topic or message at a Flow board',
 );
 
 /** Abkhazian (Аҧсшәа)
