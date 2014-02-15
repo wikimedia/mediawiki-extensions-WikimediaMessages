@@ -6018,6 +6018,8 @@ diar kön uk noch ööder reegeln tääl.
 Luke bi a <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">brükerreegeln</a> am muar.',
 	'wikimedia-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" klikest,  beest dü mä a [https://wikimediafoundation.org/wiki/Terms_of_Use brüker-reegeln] iinferstenen an dääst din werk frei oner det [https://frr.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported Creative Commons lisens „Oner man nööm widjerdu 3.0“] an det lisens [https://frr.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].
 Dü stemest tu, dat din werk faan öödern brükt wurd mut, wan jo üüb diheer URL henwise.',
+	'wikimedia-mobile-copyrightwarning' => 'Wan dü üüb "{{int:savearticle}}" trakst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_Use brükerreegeln] tu, an dat dan bidrach oner a lisensen [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] uun\'t näät steld woort.',
+	'wikimedia-mobile-photo-copyrightwarning' => "Wan dü det bil huuchschüürst, stemest dü a [https://wikimediafoundation.org/wiki/Terms_of_use brükerreegeln] tu an dat din bil oner det lisens [https://creativecommons.org/licenses/by-sa/3.0/ Creative Common Attribution-ShareAlike 3.0] uun't näät steld woort.",
 	'wikibase-sitelinks-wikisource' => 'Wikisource-sidjen, diar mä detdiar objekt ferbünjen san',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sidjen, huar detdiar objekt üüb ferwiset.',
 	'wikibase-sitelinks-commons' => 'Sidj üüb Wikimedia Commons, diar mä detdiar objekt ferbünjen as.',
@@ -6062,6 +6064,7 @@ Dü könst det sper uk uun fraag stel üüb [[m:Steward requests/Global|det uunf
 Det bewerkin mä ''Tor'' as ei tuläät, am masbrük tu ferhanrin.
 Dü fanjst muar informatjuun an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".",
 	'wikimedia-oauth-privacy-link' => '[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Dooten-seekerhaid] (sjiisk)',
+	'mwoauth-grant-checkuser' => 'Üüb Checkuser-dooten tugrip',
 );
 
 /** Friulian (furlan)
