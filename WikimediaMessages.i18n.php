@@ -643,8 +643,12 @@ Parameters:
 	'wikimedia-oauth-privacy-link' => 'Wikitext link pointing to the WMF privacy policy for all sites.',
 	'mwoauth-grant-checkuser' => 'Name for OAuth grant "checkuser".
 {{Related|Mwoauth-grant}}',
-	'wikimedia-flow-terms-of-use-new-topic' => 'Terms of use and copyright warning shown when adding a new topic to a Flow board',
-	'wikimedia-flow-terms-of-use-reply' => 'Terms of use and copyright warning shown when adding a reply at a Flow board',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Terms of use and copyright warning shown when adding a new topic to a Flow board
+
+Refers to {{msg-mw|Flow-newtopic-save}}.',
+	'wikimedia-flow-terms-of-use-reply' => 'Terms of use and copyright warning shown when adding a reply at a Flow board.
+
+Refers to {{msg-mw|Flow-reply-submit}}.',
 	'wikimedia-flow-terms-of-use-edit' => 'Terms of use and copyright warning shown when editing the header or an existing topic or message at a Flow board',
 );
 
@@ -1655,6 +1659,9 @@ La edición al traviés de Tor ta bloquiada pa prevenir abusos.
 Paa más información ya instrucciones pa usuarios llexítimos, vea la política global [[m:Special:MyLanguage/No open proxies|escontra proxies abiertos]].',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Política de proteición de datos]',
 	'mwoauth-grant-checkuser' => "Accesu a datos de comprobación d'usuarios",
+	'wikimedia-flow-terms-of-use-new-topic' => 'Al facer clic nel botón "{{int:flow-newtopic-save}}", aceuta les [//wikimediafoundation.org/wiki/Terms_of_use Condiciones d\'usu] y aceuta de mou irrevocable asoleyar el so testu baxo la [//creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Al facer clic en "{{int:flow-reply-submit}}", aceuta les [//wikimediafoundation.org/wiki/Terms_of_use Condiciones d\'usu] y aceuta de mou irrevocable asoleyar el so testu baxo la [//creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-edit' => "Al guardar los cambios, aceuta les [//wikimediafoundation.org/wiki/Terms_of_use Condiciones d'usu] y aceuta de mou irrevocable asoleyar el so testu baxo la [//creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 );
 
 /** Avaric (авар)
@@ -3975,6 +3982,9 @@ Für zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/de',
 	'wikimedia-oauth-privacy-link' => '[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Datenschutzrichtlinie]',
 	'mwoauth-grant-checkuser' => 'Auf Checkuser-Daten zugreifen',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Mit dem Klicken auf „{{int:flow-newtopic-save}}“ stimmst du unseren [//wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Textes unter der [//creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] sowie der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] zu.',
+	'wikimedia-flow-terms-of-use-reply' => 'Mit dem Klicken auf „{{int:flow-reply-submit}}“ stimmst du unseren [//wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Textes unter der [//creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] sowie der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] zu.',
+	'wikimedia-flow-terms-of-use-edit' => 'Mit dem Speichern von Änderungen stimmst du unseren [//wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Textes unter der [//creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] sowie der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] zu.',
 );
 
 /** Swiss High German (Schweizer Hochdeutsch)
@@ -5125,6 +5135,7 @@ $messages['ext'] = array(
  * @author Ebraminio
  * @author Huji
  * @author Ladsgroup
+ * @author Mahan
  * @author Mahdiz
  * @author Mardetanha
  * @author Mjbmr
@@ -5253,9 +5264,19 @@ $messages['fa'] = array(
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|آی‌پی‌های مستثی از قطع دسترسی سراسری}}',
 	'group-recursive-export' => 'برون‌ریزی بازگشتی',
 	'group-recursive-export-member' => '{{GENDER:$1|برون‌ریزی بازگشتی}}',
+	'group-massmessage-sender' => 'فرستندگان پیام جمعی',
+	'group-massmessage-sender-member' => '{{GENDER:$1|فرستندگان پیام انبوه}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}: فرستندگان پیام انبوه',
+	'group-oauthadmin' => 'مدیران OAuth',
+	'group-oauthadmin-member' => '{{GENDER:$1|OAuth مدیر}}',
+	'grouppage-oauthadmin' => '{{ns:project}}: OAuth مدیران',
 	'group-translationadmin' => 'مدیران ترجمه',
 	'group-translationadmin-member' => '{{GENDER:$1|مدیر ترجمه}}',
 	'grouppage-translationadmin' => '{{ns:project}}:مدیران ترجمه',
+	'group-zeroadmin' => 'مدیران صفر',
+	'group-zeroadmin-member' => '{{GENDER:$1|مدیران صفر}}',
+	'grouppage-zeroadmin' => '{{ns:project}}: مدیران صفر',
+	'right-zero-edit' => 'ویرایش صفحات در فضای نام صفر',
 	'group-centralnoticeadmin' => 'مرکز اعلانات مدیران',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|مدیرت اطلاع‌رسانی مرکزی}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:اعلانات مرکزی مدیران',
@@ -5273,6 +5294,7 @@ $messages['fa'] = array(
 برای جزئیات بیشتر <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
+	'wikibase-sitelinks-wikisource' => 'صفحه‌های ویکی‌نبشته که به این آیتم پیوند دارند',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
 	'wikibase-sitelinks-commons' => 'صفحه ویکی‌انبار متصل‌شده به این آیتم.',
 	'wikibase-sitelinks-sitename-commonswiki' => 'ویکی‌انبار',
@@ -5315,6 +5337,10 @@ $messages['fa'] = array(
 	'wikimedia-torblock-blocked' => 'نشانی آی‌پی شما، <strong>$1</strong>، به صورت خودکار به‌عنوان یک گرهٔ خروجی تور شناسایی شد.
 ویرایش از طریق تور به دلیل جلوگیری از سوءاستفاده بسته‌شده‌است.
 برای اطلاعات اضافی و راهنمایی کاربران قانونی، سیاست سراسری [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] را ببینید.',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy سیاست محرمانگی]',
+	'wikimedia-flow-terms-of-use-new-topic' => 'با کلیک کردن افزودن عنوان، موافقت شما به [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] ما و موافقت به انتشار متن شما به طور تغییر‌ ناپذیر تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]', # Fuzzy
+	'wikimedia-flow-terms-of-use-reply' => 'با کلیک کردن پاسخ، موافقت شما به [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] ما و موافقت به انتشار متن شما به طور تغییر ناپذیر تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]', # Fuzzy
+	'wikimedia-flow-terms-of-use-edit' => 'با ذخیره کردن تغییرات، موافقت شما به [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] ما و موافقت به انتشار متن شما به طور تغییر ناپذیر تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]', # Fuzzy
 );
 
 /** Fulah (Fulfulde)
@@ -8760,6 +8786,9 @@ Otherwise, to discuss the block please [[m:Steward requests/Global|post a reques
 For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.', # Fuzzy
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ja',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]',
+	'wikimedia-flow-terms-of-use-new-topic' => '「{{int:flow-newtopic-save}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます',
+	'wikimedia-flow-terms-of-use-reply' => '「{{int:flow-reply-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます',
+	'wikimedia-flow-terms-of-use-edit' => '変更内容を保存すると、あなたは[//wikimediafoundation.org/wiki/Terms_of_use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます',
 );
 
 /** Lojban (Lojban)
@@ -10780,6 +10809,9 @@ $messages['mk'] = array(
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/mk',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Заштита на личните податоци Заштита на личните податоци]',
 	'mwoauth-grant-checkuser' => 'Пристап до податоци од проверка на корисници',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Стискајќи на „{{int:flow-newtopic-save}}“, се согласувате со нашите [//wikimediafoundation.org/wiki/Terms_of_use/mk?uselang=mk Услови на употреба] и неотповикливо се сложувате вашиот текст да се објавува под лиценците [//creativecommons.org/licenses/by-sa/3.0/deed.mk CC BY-SA 3.0] и [//mk.wikipedia.org/wiki/Википедија:ГНУ-ова_лиценца_за_слободна_документација ГЛСД].',
+	'wikimedia-flow-terms-of-use-reply' => 'Стискајќи на „{{int:flow-reply-submit}}“, се согласувате со нашите [//wikimediafoundation.org/wiki/Terms_of_use/mk?uselang=mk Услови на употреба] и неотповикливо се сложувате вашиот текст да се објавува под лиценците [//creativecommons.org/licenses/by-sa/3.0/deed.mk CC BY-SA 3.0] и [//mk.wikipedia.org/wiki/Википедија:ГНУ-ова_лиценца_за_слободна_документација ГЛСД].',
+	'wikimedia-flow-terms-of-use-edit' => 'Зачувувајќи ги промените, се согласувате со нашите [//wikimediafoundation.org/wiki/Terms_of_use/mk?uselang=mk Услови на употреба] и неотповикливо се сложувате вашиот текст да се објавува под лиценците [//creativecommons.org/licenses/by-sa/3.0/deed.mk CC BY-SA 3.0] и [//mk.wikipedia.org/wiki/Википедија:ГНУ-ова_лиценца_за_слободна_документација ГЛСД].',
 );
 
 /** Malayalam (മലയാളം)
@@ -11603,6 +11635,9 @@ $messages['nb'] = array(
 	'grouppage-inactive' => '{{ns:project}}:Inaktive brukere',
 	'wikimedia-copyright' => 'Innholdet er tilgjengelig under <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons-lisensen Navngivelse-Del på samme vilkår</a>, men ytterligere betingelser kan gjelde. Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">bruksvilkårene</a> for detaljer.',
 	'wikimedia-copyrightwarning' => 'Ved å trykke på «{{int:savearticle}}»-knappen, aksepterer du [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkårene], og samtykker ugjenkallelig til å utgi ditt bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.',
+	'wikibase-sitelinks-wikisource' => 'Wikikilden-sider lenket til dette elementet',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider lenket til dette elementet',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sider lenket til dette elementet',
 	'cant-delete-main-page' => 'Du kan ikke slette eller flytte hovedsiden.',
 	'createacct-helpusername-url' => '{{ns:Help}}:Logge_inn#Brukernavn', # Fuzzy
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velge)]]',
@@ -12851,6 +12886,9 @@ Le modìfiche da Tor a son blocà pËr evité j'abus.
 Për pi d'anformassion e anstrussion për legitimé j'utent, ch'a vëdda le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandatari duvert]].",
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Régole ëd confidensialità]',
 	'mwoauth-grant-checkuser' => 'Acede ai dàit ëd verificator',
+	'wikimedia-flow-terms-of-use-new-topic' => "An sgnacand su «{{int:flow-newtopic-save}}», a l'é d'acòrd con nòstre [//wikimediafoundation.org/wiki/Terms_of_use condission d'utilisassion] e a l'é d'acòrd a smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0 licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	'wikimedia-flow-terms-of-use-reply' => "An sgnacand su «{{int:flow-reply-submit}}», chiel a l'é d'acòrd con nòstre [//wikimediafoundation.org/wiki/Terms_of_use condission d'utilisassion] e a l'é d'acòrd dë smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0 licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	'wikimedia-flow-terms-of-use-edit' => "An argistrand soe modìfiche, chiel a aceta nòstre [//wikimediafoundation.org/wiki/Terms_of_use condission d'utilisassion] e a l'é d'acòrd dë smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 );
 
 /** Western Punjabi (پنجابی)
@@ -14092,6 +14130,9 @@ $messages['ru'] = array(
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ru',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Политика_конфиденциальности Политика конфиденциальности]',
 	'mwoauth-grant-checkuser' => 'Иметь доступ к данным проверки участников',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Нажимая на кнопку «{{int:flow-newtopic-save}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_use/ru условиями использования], а также в безотзывном порядке соглашаетесь разместить свой вклад под лицензиям [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-flow-terms-of-use-reply' => 'Нажимая на кнопку «{{int:flow-reply-submit}}», вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_use/ru условиями использования], а также в безотзывном порядке соглашаетесь разместить свой вклад под лицензиям [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-flow-terms-of-use-edit' => 'Сохраняя изменения, вы соглашаетесь с [https://wikimediafoundation.org/wiki/Terms_of_use/ru условиями использования], а также в безотзывном порядке соглашаетесь разместить свой вклад под лицензиям [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
 );
 
 /** Rusyn (русиньскый)
@@ -15874,6 +15915,9 @@ Annars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en be
 Redigering genom Tor är blockerat för att förhindra missbruk.
 För mer information och instruktioner för legitima användare, se den globala policyn: [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Integritetspolicy]',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Genom att klicka Lägg till ämne godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].', # Fuzzy
+	'wikimedia-flow-terms-of-use-reply' => 'Genom att klicka Svara godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].', # Fuzzy
+	'wikimedia-flow-terms-of-use-edit' => 'Genom att spara ändringar godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].', # Fuzzy
 );
 
 /** Swahili (Kiswahili)
@@ -18541,6 +18585,9 @@ $messages['zh-hans'] = array(
 	'wikimedia-torblock-blocked' => '你的IP地址<strong>$1</strong>已经被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全局方针。',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy 隐私权政策]',
 	'mwoauth-grant-checkuser' => '连接用户查核数据',
+	'wikimedia-flow-terms-of-use-new-topic' => '通过点击“{{int:flow-newtopic-save}}”，您同意我们的[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]，并义无反顾的同意根据[//creativecommons.org/licenses/by-sa/3.0 知识共享署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献。',
+	'wikimedia-flow-terms-of-use-reply' => '通过点击“{{int:flow-reply-submit}}”，您同意我们的[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]并义无反顾的同意根据[//creativecommons.org/licenses/by-sa/3.0 知识共享署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献。',
+	'wikimedia-flow-terms-of-use-edit' => '通过保存更改，您同意我们的[//wikimediafoundation.org/wiki/Terms_of_use 使用条款]并义无反顾的同意根据[//creativecommons.org/licenses/by-sa/3.0 知识共享署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献。',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
@@ -18751,6 +18798,9 @@ $messages['zh-hant'] = array(
 關於相關訊息以及合法用戶之說明，詳見全局方針[[m:Special:MyLanguage/No open proxies|請勿開放代理]]。',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/隱私政策 隱私政策]',
 	'mwoauth-grant-checkuser' => '連接用戶查核數據',
+	'wikimedia-flow-terms-of-use-new-topic' => '通過點擊「{{int:flow-newtopic-save}}」按鈕，您同意我們的[//wikimediafoundation.org/wiki/Terms_of_use 使用條款]，並義無反顧的同意依據[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL協議]發表您的貢獻。',
+	'wikimedia-flow-terms-of-use-reply' => '通過點擊「{{int:flow-reply-submit}}」按鈕，您同意我們的[//wikimediafoundation.org/wiki/Terms_of_use 使用條款]，並義無反顧的同意依據[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL協議]發表您的貢獻。',
+	'wikimedia-flow-terms-of-use-edit' => '通過保存更改，您同意我們的[//wikimediafoundation.org/wiki/Terms_of_use 使用條款]，並義無反顧的同意依據[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL協議]發表您的貢獻。',
 );
 
 /** Chinese (Hong Kong) (‪中文(香港)‬)
