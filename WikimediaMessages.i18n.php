@@ -5769,6 +5769,9 @@ Pour plus d’information et d’instructions pour légitimer les utilisateurs, 
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/fr',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Politique de confidentialité]',
 	'mwoauth-grant-checkuser' => 'Accéder aux données de vérification de l’utilisateur',
+	'wikimedia-flow-terms-of-use-new-topic' => 'En cliquant sur « {{int:flow-newtopic-save}} », vous acceptez nos [//wikimediafoundation.org/wiki/Terms_of_use conditions d’utilisation] et acceptez de mettre à disposition irrévocablement votre texte sous les licences [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] et [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'En cliquant sur « {{int:flow-reply-submit}} », vous acceptez nos [//wikimediafoundation.org/wiki/Terms_of_use conditions d’utilisation] et acceptez de mettre à disposition irrévocablement votre texte sous les licences [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] et [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-edit' => 'En enregistrant les modifications, vous acceptez nos [//wikimediafoundation.org/wiki/Terms_of_use conditions d’utilisation] et acceptez de mettre à disposition irrévocablement votre texte sous les licences [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] et [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Cajun French (français cadien)
@@ -8567,6 +8570,9 @@ Per ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la pol
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/it',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Politica sulla privacy]',
 	'mwoauth-grant-checkuser' => 'Accede ai dati checkuser',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Cliccando su "{{int:flow-newtopic-save}}", accetti le nostre [//wikimediafoundation.org/wiki/Terms_of_use/it condizioni d\'uso] e accetti di rilasciare il tuo testo in base alle licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it CC-BY-SA 3.0] e [//it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL].',
+	'wikimedia-flow-terms-of-use-reply' => 'Cliccando su "{{int:flow-reply-submit}}", accetti le nostre [//wikimediafoundation.org/wiki/Terms_of_use/it condizioni d\'uso] e accetti di rilasciare il tuo testo in base alle licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it CC-BY-SA 3.0] e [//it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL].',
+	'wikimedia-flow-terms-of-use-edit' => "Salvando le modifiche, accetti le nostre [//wikimediafoundation.org/wiki/Terms_of_use/it condizioni d'uso] e accetti di rilasciare il tuo testo in base alle licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it CC-BY-SA 3.0] e [//it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL].",
 );
 
 /** Japanese (日本語)
@@ -9490,6 +9496,9 @@ $messages['ko'] = array(
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/ko',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]',
 	'mwoauth-grant-checkuser' => '체크유저 데이터에 접근',
+	'wikimedia-flow-terms-of-use-new-topic' => '"{{int:flow-newtopic-save}}"을 클릭하면 [//wikimediafoundation.org/wiki/Terms_of_use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.',
+	'wikimedia-flow-terms-of-use-reply' => '"{{int:flow-reply-submit}}"을 클릭하면 [//wikimediafoundation.org/wiki/Terms_of_use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.',
+	'wikimedia-flow-terms-of-use-edit' => '바뀐 내용을 저장하면 [//wikimediafoundation.org/wiki/Terms_of_use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
@@ -12648,6 +12657,7 @@ $messages['pl'] = array(
 	'group-Indic_Bots' => 'boty z Indii',
 	'group-Indic_Bots-member' => '{{GENDER:$1|bot z Indii}}',
 	'group-New_wikis_importer' => 'Importerzy nowych wiki',
+	'group-New_wikis_importer-member' => '{{GENDER:$1|importer nowych wiki|importerka nowych wiki}}',
 	'group-global-ipblock-exempt' => 'Globalnie uprawnieni do logowania się z zablokowanych adresów IP',
 	'group-global-ipblock-exempt-member' => 'globalnie {{GENDER:$1|uprawniony|uprawniona}} do logowania się z zablokowanych adresów IP',
 	'group-massmessage-sender' => 'Wysyłający masowe wiadomości',
@@ -12675,6 +12685,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'wikibase-sitelinks-wikisource' => 'Strony Wikiźródeł powiązane z tym elementem',
 	'wikibase-sitelinks-wikivoyage' => 'Strony Wikipodróży powiązane z tym elementem',
 	'wikibase-sitelinks-commons' => 'Strona Wikimedia Commons powiązana z tym elementem',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 	'cant-delete-main-page' => 'Nie możesz usunąć lub przenieść strony głównej.',
 	'wikimedia-translationnotifications-signup-legal' => 'Zgadzasz się, że podając te informacje Fundacji Wikimedia pozwalasz nam skontaktować się z Tobą w sprawie tłumaczeń lub innych tematów związanych z działalnością Wikimediów, które, według nas, mogą być dla Ciebie interesujące. Zezwalasz na przechowywanie Twoich danych w Stanach Zjednoczonych Ameryki według naszej [https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności polityki prywatności].',
 	'upload-more-photos-of-this-monument' => 'Prześlij więcej zdjęć tego zabytku',
@@ -15095,6 +15106,7 @@ Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi doda
 	'wikidata-copyright' => 'Vsi strukturirani podatki iz glavnega imenskega prostora in iz imenskega prostora lastnosti so na razpolago pod licenco <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; besedilo v drugih imenskih prostorih je na razpolago pod licenco <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution/Share-Alike License</a>; veljajo lahko tudi drugi pogoji. Za podrobnosti glejte stran <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> (Pogoji uporabe).',
 	'wikimedia-copyrightwarning' => 'S klikom gumba »{{int:savearticle}}« se strinjate s [https://wikimediafoundation.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod licencama [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].
 Strinjate se, da za priznanje avtorstva po licenci Creative Commons zadostujeta povezava ali spletni naslov.',
+	'wikibase-sitelinks-wikisource' => 'Strani Wikivira, povezane na ta predmet',
 	'wikibase-sitelinks-wikivoyage' => 'Strani Wikipotovanja, povezane na ta predmet',
 	'wikibase-sitelinks-commons' => 'Stran Wikimedia Commons, povezana na ta predmet',
 	'cant-delete-main-page' => 'Glavne strani ne morete izbrisati ali prestaviti.',
@@ -15915,9 +15927,9 @@ Annars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en be
 Redigering genom Tor är blockerat för att förhindra missbruk.
 För mer information och instruktioner för legitima användare, se den globala policyn: [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Integritetspolicy]',
-	'wikimedia-flow-terms-of-use-new-topic' => 'Genom att klicka Lägg till ämne godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].', # Fuzzy
-	'wikimedia-flow-terms-of-use-reply' => 'Genom att klicka Svara godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].', # Fuzzy
-	'wikimedia-flow-terms-of-use-edit' => 'Genom att spara ändringar godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].', # Fuzzy
+	'wikimedia-flow-terms-of-use-new-topic' => 'Genom att klicka "{{int:flow-newtopic-save}}" godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-flow-terms-of-use-reply' => 'Genom att klicka "{{int:flow-reply-submit}}" du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-flow-terms-of-use-edit' => 'Genom att spara ändringar godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
 );
 
 /** Swahili (Kiswahili)
