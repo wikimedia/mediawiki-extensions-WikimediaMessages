@@ -2510,6 +2510,12 @@ $messages['bn'] = array(
 	'group-New_wikis_importer-member' => '{{GENDER:$1|নতুন উইকি ইম্পোর্টারগণ}}',
 	'group-global-ipblock-exempt' => 'গ্লোবাল আইপি নিষেধাজ্ঞা রহিতকরণ',
 	'group-global-ipblock-exempt-member' => '{{GENDER:$1|গ্লোবাল আইপি নিষেধাজ্ঞা রহিতকরণ}}',
+	'group-massmessage-sender' => 'গণ বার্তা প্রেরক',
+	'group-massmessage-sender-member' => '{{GENDER:$1|গণ বার্তা প্রেরক}}',
+	'grouppage-massmessage-sender' => '{{ns:project}}:গণ বার্তা প্রেরক',
+	'group-oauthadmin' => 'ওআউথ প্রশাসক',
+	'group-oauthadmin-member' => '{{GENDER:$1|ওআউথ প্রশাসক}}',
+	'grouppage-oauthadmin' => '{{ns:project}}:ওআউথ প্রশাসক',
 	'group-translationadmin' => 'অনুবাদ প্রশাসক',
 	'group-translationadmin-member' => '{{GENDER:$1|অনুবাদ প্রশাসক}}',
 	'grouppage-translationadmin' => '{{ns:project}}:অনুবাদ প্রশাসক',
@@ -2527,6 +2533,7 @@ $messages['bn'] = array(
 	'wikidata-copyright' => 'প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।',
 	'wikimedia-copyrightwarning' => '"{{int:savearticle}}" বাটনে ক্লিক করার মাধ্যমে, [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] এবং [https://www.gnu.org/copyleft/fdl.html GFDL] লাইসেন্সের অধিনে প্রকাশের অনুমতি দিচ্ছেন।
 আপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধিনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।',
+	'wikibase-sitelinks-wikisource' => 'এই আইটেমটির সাথে সংযুক্ত উইকিসংকলনের পাতা',
 	'wikibase-sitelinks-wikivoyage' => 'এই আইটেমটির সাথে সংযুক্ত উইকিভ্রমণের পাতা',
 	'wikibase-sitelinks-commons' => 'এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা',
 	'wikibase-sitelinks-sitename-commonswiki' => 'কমন্স',
@@ -2539,6 +2546,7 @@ $messages['bn'] = array(
 	'createacct-captcha-help-url' => '{{ns:Project}}:অ্যাকাউন্টের জন্য অনুরোধ',
 	'createacct-imgcaptcha-help' => 'ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]]',
 	'wikimedia-developers' => 'উন্নয়নকারী',
+	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy গোপনীয়তার নীতি]',
 );
 
 /** Tibetan (བོད་ཡིག)
@@ -7748,6 +7756,7 @@ $messages['hu'] = array(
  */
 $messages['hy'] = array(
 	'sitesupport' => 'Դրամական նվիրատվություն',
+	'shared-repo-name-shared' => 'Վիքիպահեստ',
 	'wikimedia-copyright' => 'Տեքստը տեղադրված է <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.hy">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Օգտագործման պայմաններ</a>։',
 	'wikimedia-copyrightwarning' => 'Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] և [https://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։
 Դուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։
@@ -11134,9 +11143,10 @@ $messages['mr'] = array(
 
 अधिक माहितीसाठी हे बघा<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">वापरण्याच्या अटी</a>.',
 	'wikidata-copyright' => 'मुख्य व गुणधर्माच्या नामविश्वातील सर्व बांधणीकृत माहिती ही  <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">क्रियेटीव्ह कॉमन्स CC0 लायसन्स</a> या अंतर्गत उपलब्ध आहे;ईतर नामविश्वातील माहिती <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">क्रियेटीव्ह कॉमन्स अट्रीब्युशन/शेअर-अलाईक लायसन्स</a> या अंतर्गत उपलब्ध आहे;अतिरिक्त अटी लागु आहेत.अधिक माहितीसाठी हे बघा<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">वापरण्याच्या अटी</a>.',
-	'wikidata-shortcopyrightwarning' => '"{{int:wikibase-save}}" टिचकण्याने, [https://wikimediafoundation.org/wiki/Terms_of_Use वापरण्याच्या शर्ती]स आपण मान्य करीत आहात,व आपण आपले योगदान,(रद्द न करता येण्याजोग्या) मान्य अटीवर, [https://creativecommons.org/publicdomain/zero/1.0/ सीसीओ परवान्याच्या अंतर्गत] मुक्त करीत आहात.',
 	'cant-delete-main-page' => 'आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत',
 	'wikimedia-developers' => 'विकसक',
+	'wikimedia-flow-terms-of-use-new-topic' => '"{{int:flow-newtopic-save}}" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Terms_of_use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात.',
+	'wikimedia-flow-terms-of-use-reply' => '"{{int:flow-reply-submit}}" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Terms_of_use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात.',
 );
 
 /** Hill Mari (кырык мары)
@@ -15927,6 +15937,7 @@ Annars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en be
 Redigering genom Tor är blockerat för att förhindra missbruk.
 För mer information och instruktioner för legitima användare, se den globala policyn: [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Integritetspolicy]',
+	'mwoauth-grant-checkuser' => 'Tillgång till checkuser-data',
 	'wikimedia-flow-terms-of-use-new-topic' => 'Genom att klicka "{{int:flow-newtopic-save}}" godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
 	'wikimedia-flow-terms-of-use-reply' => 'Genom att klicka "{{int:flow-reply-submit}}" du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
 	'wikimedia-flow-terms-of-use-edit' => 'Genom att spara ändringar godkänner du våra [//wikimediafoundation.org/wiki/Terms_of_use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
