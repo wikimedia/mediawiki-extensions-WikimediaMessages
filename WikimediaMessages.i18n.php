@@ -14588,6 +14588,7 @@ Talia lu [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sap
 
 /** Scots (Scots)
  * @author Avicennasis
+ * @author John Reid
  * @author OchAyeTheNoo
  */
 $messages['sco'] = array(
@@ -14599,6 +14600,8 @@ $messages['sco'] = array(
 	'group-rollbacker-member' => 'rowbacker', # Fuzzy
 	'group-inactive' => 'Inactive uisers',
 	'group-inactive-member' => 'inactive uisers', # Fuzzy
+	'wikimedia-flow-terms-of-use-new-topic' => 'Bi clapin on "{{int:flow-newtopic-save}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin on "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Sindhi (سنڌي)
