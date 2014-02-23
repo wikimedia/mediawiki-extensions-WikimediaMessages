@@ -8966,6 +8966,7 @@ $messages['jv'] = array(
  * @author Nemo bis
  * @author Sopho
  * @author Temuri rajavi
+ * @author Tokoko
  * @author לערי ריינהארט
  * @author გიორგიმელა
  */
@@ -9095,11 +9096,16 @@ $messages['ka'] = array(
 	'wikimedia-copyright' => 'მოცემული ტექსტი წარმოდგენილია <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">გამოყენების წესები</a>.',
 	'wikimedia-copyrightwarning' => 'ღილაკ "{{int:savearticle}}"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.
 თქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.',
+	'wikibase-sitelinks-wikisource' => 'ვიკიწყაროს გვერდები, დაკავშირებული ამ ელემენტთან',
+	'wikibase-sitelinks-wikivoyage' => 'ვიკივოიაჟის გვერდები, დაკავშირებული ამ ელემენტთან',
+	'wikibase-sitelinks-commons' => 'ვიკისაწყობის გვერდები, დაკავშირებული ამ ელემენტთან',
+	'wikibase-sitelinks-sitename-commonswiki' => 'საწყობი',
 	'cant-delete-main-page' => 'თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.',
 	'upload-more-photos-of-this-monument' => 'ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა',
 	'extdist-branch-master' => 'ოსტატი (უკანასკნელი შემუშავებული ვერსია)',
 	'extdist-branch-REL1_22' => '1.22 (მედიავიკის ბოლო სტაბილური ვერსია)',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ არჩევაში)]]',
+	'createacct-imgcaptcha-help' => 'ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]',
 	'wikimedia-developers' => 'შემქმნელები',
 );
 
@@ -9906,6 +9912,8 @@ Dir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaff
 	'createacct-captcha-help-url' => '{{ns:Project}}:E Benotzerkont ufroen',
 	'createacct-imgcaptcha-help' => "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
 	'wikimedia-developers' => 'Entwéckler',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Duerch d\'Klicken op  "{{int:flow-newtopic-save}}" sidd Dir mat eisen [//wikimediafoundation.org/wiki/Terms_of_Use/de Notzungsbedingungen] an der Verëffentlechung vun Ärem Text ënner der [//creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] an der [//en.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] averstan.',
+	'wikimedia-flow-terms-of-use-reply' => 'Duerch d\'Klicken op "{{int:flow-reply-submit}}" sidd Dir mat eisen [//wikimediafoundation.org/wiki/Terms_of_Use/de Notzungsbedingungen] an der Verëffentlechung vun Ärem Text ënner der [//creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] an der [//en.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] averstan.',
 );
 
 /** Lezghian (лезги)
@@ -12711,6 +12719,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'wikimedia-developers' => 'Dla deweloperów',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/pl',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności Zasady zachowania poufności]',
+	'wikimedia-flow-terms-of-use-reply' => 'Klikając na "{{int:flow-reply-submit}}", zgadzasz się na nasze [//http://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] oraz wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencjach [//creativecommons.org/licenses/by-sa/3.0/deed.pl CC BY-SA 3.0] i [//pl.wikipedia.org/wiki/Wikipedia:Tekst_licencji_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Piedmontese (Piemontèis)
@@ -14598,13 +14607,13 @@ Talia lu [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] pi sap
  */
 $messages['sco'] = array(
 	'sitesupport' => 'Propines',
-	'group-confirmed-member' => 'confirmed uiser', # Fuzzy
+	'group-confirmed-member' => '{{GENDER:$1|confirmed uiser}}',
 	'group-flood' => 'Bot uisers',
-	'group-flood-member' => 'bot uiser', # Fuzzy
+	'group-flood-member' => '{{GENDER:$1|bot uiser}}',
 	'group-rollbacker' => 'Rowbackers',
-	'group-rollbacker-member' => 'rowbacker', # Fuzzy
+	'group-rollbacker-member' => '{{GENDER:$1|rollbacker}}',
 	'group-inactive' => 'Inactive uisers',
-	'group-inactive-member' => 'inactive uisers', # Fuzzy
+	'group-inactive-member' => '{{GENDER:$1|inactive uiser}}',
 	'wikimedia-flow-terms-of-use-new-topic' => 'Bi clapin on "{{int:flow-newtopic-save}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin on "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
@@ -17869,6 +17878,7 @@ $messages['vi'] = array(
 	'grouppage-Ombudsmen' => 'm:Ombudsman commission/vi',
 	'group-Staff' => 'Nhân viên',
 	'group-Staff-member' => 'Nhân viên',
+	'grouppage-Staff' => 'Foundation:Nhân viên',
 	'group-editinterface' => 'Người sửa giao diện',
 	'group-editinterface-member' => '{{GENDER:$1}}thành viên sửa giao diện',
 	'group-steward' => 'Tiếp viên',
@@ -17962,6 +17972,9 @@ Sửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm t
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/vi',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]',
 	'mwoauth-grant-checkuser' => 'Truy cập chữ liệu kiểm định viên',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Với việc bấm “{{int:flow-newtopic-save}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [//creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].',
+	'wikimedia-flow-terms-of-use-reply' => 'Với việc bấm “{{int:flow-reply-submit}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [//creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].',
+	'wikimedia-flow-terms-of-use-edit' => 'Với việc lưu các thay đổi, bạn chấp nhận [//wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [//creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].',
 );
 
 /** Volapük (Volapük)

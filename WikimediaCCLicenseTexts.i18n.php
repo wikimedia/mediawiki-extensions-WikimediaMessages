@@ -8719,8 +8719,8 @@ $messages['ja'] = array(
 	'wm-license-cc-sa-1.0-fi-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/sa/1.0/fi/deed.ja 継承 1.0 フィンランド]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-sa-1.0-nl-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/sa/1.0/nl/deed.ja 継承 1.0 オランダ]ライセンスのもとに利用を許諾されています。',
 	'wm-license-cc-sa-2.0-jp-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/licenses/sa/2.0/jp/deed.ja 継承 2.0 日本]ライセンスのもとに利用を許諾されています。',
-	'wm-license-cc-zero-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/publicdomain/zero/1.0/deed.ja CC0 1.0 万国 パブリックドメイン 供与]のもとで利用可能にされています。',
-	'wm-license-cc-zero-explanation' => '作品をこの証書に関連付けた者は、その者が保有する、当該作品に関するすべての著作権法上の権利及びこれに関連並びに隣接するすべての権利を、法令の許す限り全世界的に放棄し、当該作品を[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]に供与しています。商業を目的とすると否とに関わらず、許諾を得ずに当該作品を複製、変更、配布、及び上演できます。',
+	'wm-license-cc-zero-text' => 'このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/publicdomain/zero/1.0/deed.ja CC0 1.0 汎用 パブリックドメインに提供]のもとで利用可能にされています。',
+	'wm-license-cc-zero-explanation' => 'ある作品に本コモンズ証を関連づけた者は、その作品について世界全地域において著作権法上認められる、その者が持つすべての権利 (その作品に関する権利や隣接する権利を含む。）を、法令上認められる最大限の範囲で放棄して、[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]に提供しています。 この作品は、たとえ営利目的であっても、許可を得ずに複製、改変・翻案、配布、上演・演奏することが出来ます。', # Fuzzy
 	'wm-license-cc-free' => 'あなたは以下の条件に従う場合に限り、自由に',
 	'wm-license-cc-free-to-share-header' => '共有',
 	'wm-license-cc-free-to-share-text' => '本作品を複製、頒布、展示、実演することができます。',
@@ -16069,6 +16069,7 @@ $messages['ta'] = array(
 );
 
 /** Telugu (తెలుగు)
+ * @author Chaduvari
  * @author Multichill
  * @author RanjithSutari
  * @author Ravichandra
@@ -16079,7 +16080,7 @@ $messages['te'] = array(
 	'wm-license-cc-by-1.0-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/ అట్రిబ్యూషన్ 1.0 జెనరిక్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-1.0-fi-text' => 'ఈ ఫైలు [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] కింద లైసెన్సు చేయబడి ఉంది',
 	'wm-license-cc-by-1.0-il-text' => 'ఈ ఫైలు [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 ఇజ్రాయెల్] కింద లైసెన్సు చేయబడి ఉంది',
-	'wm-license-cc-by-1.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ 1.0 నెదర్లాండ్స్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
+	'wm-license-cc-by-1.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ 1.0 నెదర్లాండ్స్] లైసెన్సుకు లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-2.0-text' => 'ఈ దస్త్రం [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/2.0/ ఆపాదింపు 2.0 సాధారణ] లైసెన్సు క్రింద లభ్యం.',
 	'wm-license-cc-by-2.0-at-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపదింపు ౨.౦ ఆస్ట్రియా]అనుమతి.',
 	'wm-license-cc-by-2.0-au-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపదింపు ౨.౦ ఆస్ట్రియా]అనుమతి.',
@@ -16141,7 +16142,7 @@ $messages['te'] = array(
 	'wm-license-cc-by-3.0-hk-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ హాంగ్ కాంగ్] యందు అనుమచించబదినధీ.',
 	'wm-license-cc-by-3.0-hr-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ క్రొఅటియా] యందు అనుమతించబడినది.',
 	'wm-license-cc-by-3.0-lu-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ లక్సిమ్బర్ఘ] యందు అనుమతించబడినది.',
-	'wm-license-cc-by-3.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ ౩.౦ నెదర్లాండ్స్] లైసెన్సుకి లోబడి అందిస్తున్నారు.',
+	'wm-license-cc-by-3.0-nl-text' => 'ఈ ఫైలుని [[{{int:wm-license-cc-wiki-link}}|క్రియేటివ్ కామన్స్]] [//creativecommons.org/licenses/by/1.0/nl/ అట్రిబ్యూషన్ ౩.౦ నెదర్లాండ్స్] లైసెన్సుకు లోబడి అందిస్తున్నారు.',
 	'wm-license-cc-by-3.0-no-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ నార్వే] యందు అనుమచించబదినధీ.',
 	'wm-license-cc-by-3.0-nz-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ న్యూజీలాండ్] యందు అనుమచించబదినధీ.',
 	'wm-license-cc-by-3.0-ph-text' => 'ఈ ఫైలు అనుమతి [[{{int:wm-license-cc-wiki-link}}|సాధారణ సృజనాత్మకము]] [//creativecommons.org/licenses/by/2.0/at/ అపాదింపు ౩.౦ ఫిలిప్పీన్స్] యందు అనుమతించబడినది.',
