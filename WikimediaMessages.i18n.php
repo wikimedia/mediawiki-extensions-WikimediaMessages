@@ -6530,6 +6530,9 @@ Para atopar información adicional e instrucións para os usuarios lexítimos, c
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/gl',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Política_de_protección_de_datos_(gl) Política de protección de datos]',
 	'mwoauth-grant-checkuser' => 'Acceder aos datos do verificador de usuarios',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Ao premer no botón "{{int:flow-newtopic-save}}", acepta os nosos [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar o seu texto baixo a [//creativecommons.org/licenses/by-sa/3.0/deed.gl licenza CC BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU licenza GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Ao premer no botón "{{int:flow-reply-submit}}", acepta os nosos [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar o seu texto baixo a [//creativecommons.org/licenses/by-sa/3.0/deed.gl licenza CC BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU licenza GFDL]',
+	'wikimedia-flow-terms-of-use-edit' => 'Ao gardar os cambios, acepta os nosos [//wikimediafoundation.org/wiki/Terms_of_Use/gl termos de uso] e acepta liberar o seu texto baixo a [//creativecommons.org/licenses/by-sa/3.0/deed.gl licenza CC BY-SA 3.0] e a [//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_de_documentación_libre_de_GNU licenza GFDL]',
 );
 
 /** Gilaki (گیلکی)
