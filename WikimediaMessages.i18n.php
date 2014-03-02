@@ -3038,6 +3038,7 @@ $messages['ce'] = array(
 	'group-oauthadmin-member' => '{{GENDER:$1|Куьйгалхо OAuth}}',
 	'grouppage-oauthadmin' => '{{ns:project}}:Куьйгалхой OAuth',
 	'group-translationadmin' => 'Гочдаран куьйгалхой',
+	'group-translationadmin-member' => '{{GENDER:$1|гочдаран куьйгалхо}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Гочдаран куьйгалхой',
 	'group-zeroadmin' => '«Zero» проектан куьйгалхой',
 	'grouppage-zeroadmin' => '{{ns:project}}:«Zero» проектан куьйгалхой',
@@ -3727,6 +3728,8 @@ yderligere betingelser kan forekomme.
 Se <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation vilkår for anvendelse">vilkår for anvendelse</a> for detaljer.',
 	'wikimedia-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du indvilliger i uigenkaldeligt at udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.da CC BY-SA 3.0-licensen] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du accepterer ligeledes, at et hyperlink eller en URL-adresse er tilstrækkelig navngivelse under Creative Commons-licensen.',
+	'wikimedia-mobile-copyrightwarning' => 'Ved at trykke på "{{int:savearticle}}"-knappen accepterer du vores [https://wikimediafoundation.org/wiki/Terms_of_Use vilkår for anvendelse], og du indvilliger i uigenkaldeligt at udgive dit bidrag under [https://creativecommons.org/licenses/by-sa/3.0/deed.da CC BY-SA 3.0-licensen] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-mobile-photo-copyrightwarning' => 'Ved at uploade dette billede accepterer du vores [//wikimediafoundation.org/wiki/Terms_of_use vilkår for anvendelse] og accepterer at dit billede vil blive offentliggjort under [https://creativecommons.org/licenses/by-sa/3.0/deed.da Creative Commons Attribution-ShareAlike 3.0 Licensen].',
 	'wikibase-sitelinks-wikisource' => 'Wikisourcesider knyttet til dette emne',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyagesider knyttet til dette emne',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons side knyttet til dette emne',
@@ -11994,7 +11997,7 @@ $messages['nl'] = array(
 	'group-oauthadmin' => 'OAuthbeheerders',
 	'group-oauthadmin-member' => '{{GENDER:$1|OAuthbeheerder}}',
 	'grouppage-oauthadmin' => '{{ns:project}}:OAuthbeheerders',
-	'group-translationadmin' => 'Vertalingenbeheerders',
+	'group-translationadmin' => 'vertalingenbeheerders',
 	'group-translationadmin-member' => '{{GENDER:$1|vertalingenbeheerder}}',
 	'grouppage-translationadmin' => '{{ns:project}}:Vertalingenbeheerders',
 	'group-zeroadmin' => 'Zerobeheerders',
@@ -12558,6 +12561,7 @@ $messages['pih'] = array(
  * @author Beau
  * @author Chrumps
  * @author Derbeth
+ * @author Jacenty359
  * @author Lazowik
  * @author Leinad
  * @author Matma Rex
@@ -12724,6 +12728,7 @@ Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/
 	'wikimedia-developers' => 'Dla deweloperów',
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/pl',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Zasady_zachowania_poufności Zasady zachowania poufności]',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Poprzez kliknięcie "{{int:flow-newtopic-save}}", akceptujesz [//wikimediafoundation.org/wiki/Terms_of_use Zasady używania] oraz zgadzasz się na publikację twojego tekstu pod [//creativecommons.org/licences/by-sa/3.0 licencją CC BY-SA 3.0] oraz [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_Licence licencją GFDL]',
 	'wikimedia-flow-terms-of-use-reply' => 'Klikając na "{{int:flow-reply-submit}}", zgadzasz się na nasze [//http://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania] oraz wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencjach [//creativecommons.org/licenses/by-sa/3.0/deed.pl CC BY-SA 3.0] i [//pl.wikipedia.org/wiki/Wikipedia:Tekst_licencji_GNU_Free_Documentation_License GFDL]',
 );
 
@@ -14620,7 +14625,7 @@ $messages['sco'] = array(
 	'group-inactive' => 'Inactive uisers',
 	'group-inactive-member' => '{{GENDER:$1|inactive uiser}}',
 	'wikimedia-flow-terms-of-use-new-topic' => 'Bi clapin on "{{int:flow-newtopic-save}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
-	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin on "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin oan "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Sindhi (سنڌي)
@@ -14763,6 +14768,7 @@ $messages['shi'] = array(
  * @author Calcey
  * @author Nemo bis
  * @author Pasanbhathiya2
+ * @author Sahan.ssw
  * @author Singhalawap
  * @author චතුනි අලහප්පෙරුම
  * @author නන්දිමිතුරු
@@ -14901,6 +14907,10 @@ $messages['si'] = array(
 මෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.',
 	'cant-delete-main-page' => 'මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.',
 	'upload-more-photos-of-this-monument' => 'මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න',
+	'wikimedia-flow-terms-of-use-new-topic' => '"{{int:flow-newtopic-save}}" ක්ලික් කිරීමෙන්, ඔබ අපගේ [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] හා, [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]
+යටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.',
+	'wikimedia-flow-terms-of-use-reply' => '"{{int:flow-newtopic-save}}" ක්ලික් කිරීමෙන්, ඔබ අපගේ [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] හා, [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]
+යටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.',
 );
 
 /** Slovak (slovenčina)
@@ -17399,6 +17409,9 @@ $messages['uk'] = array(
 Для додаткової інформації та інструкцій для легальних користувачів перегляньте глобальну політику[[m:Special:MyLanguage/No open proxies|No open proxies]].',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy  Політика конфіденційності]',
 	'mwoauth-grant-checkuser' => 'Доступ до даних перевірки користувача',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Натиснувши кнопку  "{{int:flow-newtopic-save}}", ви погоджуєтеся з нашими [//wikimediafoundation.org/wiki/Terms_of_use/uk умовами використання] та погоджуєтесь з поширенням вашого тексту під [//http://creativecommons.org/licenses/by-sa/3.0/deed.uk ліцензією CC BY-SA 3.0] та [//http://uk.wikipedia.org/wiki/Вікіпедія:Текст_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-flow-terms-of-use-reply' => 'Натиснувши кнопку "{{int:flow-reply-submit}}", ви погоджуєтеся з нашими [//wikimediafoundation.org/wiki/Terms_of_use/uk умовами використання] та погоджуєтесь з поширенням вашого тексту під [//http://creativecommons.org/licenses/by-sa/3.0/deed.uk ліцензією CC BY-SA 3.0] та [//http://uk.wikipedia.org/wiki/Вікіпедія:Текст_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-flow-terms-of-use-edit' => 'Зберігаючи зміни, ви погоджуєтеся з нашими [//wikimediafoundation.org/wiki/Terms_of_use/uk умовами використання] та погоджуєтесь з поширенням вашого тексту під [//http://creativecommons.org/licenses/by-sa/3.0/deed.uk ліцензією CC BY-SA 3.0] та [//http://uk.wikipedia.org/wiki/Вікіпедія:Текст_GNU_Free_Documentation_License GFDL].',
 );
 
 /** Urdu (اردو)
