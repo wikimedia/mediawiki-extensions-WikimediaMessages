@@ -11868,6 +11868,7 @@ $messages['niu'] = array(
  * @author SPQRobin
  * @author Saruman
  * @author Siebrand
+ * @author Sjoerddebruin
  * @author Southparkfan
  * @author Troefkaart
  * @author Tvdm
@@ -12067,6 +12068,7 @@ Bewerken via Tor is niet mogelijk om misbruik te voorkomen.
 Voor aanvullende informatie en instructies voor legitieme gebruikers kunt u het globale beleid [[m:Special:MyLanguage/No open proxies|Geen open proxy's]] raadplegen.",
 	'wikimedia-mobile-terms-url' => '//m.wikimediafoundation.org/wiki/Terms_of_use/nl',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacybeleid Privacybeleid]',
+	'mwoauth-grant-checkuser' => 'Toegang tot checkusergegevens',
 );
 
 /** Nederlands (informeel)‎ (Nederlands (informeel)‎)
@@ -14624,8 +14626,8 @@ $messages['sco'] = array(
 	'group-rollbacker-member' => '{{GENDER:$1|rollbacker}}',
 	'group-inactive' => 'Inactive uisers',
 	'group-inactive-member' => '{{GENDER:$1|inactive uiser}}',
-	'wikimedia-flow-terms-of-use-new-topic' => 'Bi clapin on "{{int:flow-newtopic-save}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae irrevocably release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
-	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin oan "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] an agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Bi clapin oan "{{int:flow-newtopic-save}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms o Uise] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin oan "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms o Uise] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Sindhi (سنڌي)
