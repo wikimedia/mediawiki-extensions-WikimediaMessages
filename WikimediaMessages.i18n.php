@@ -8792,8 +8792,8 @@ $messages['ja'] = array(
 あなたの現在のIPアドレスは $6 です。
 問い合わせをする際には、上記の事項すべてを含めてください。
 
-If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.
-Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].", # Fuzzy
+このブロックが誤りだとお思いの場合、[[m:Special:MyLanguage/No open proxies|No open proxies]] というグローバル方針でより詳しい情報を読むことができます。
+その他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼してください]]。",
 	'wikimedia-globalblocking-ipblocked-xff' => "'''あなたのリクエストで使用している1つ以上のプロキシサーバーが[[m:Special:MyLanguage/Global blocks|グローバルにブロック]]されました。'''
 
 ブロックしたのは $1 ($2) です。
@@ -8805,8 +8805,8 @@ Otherwise, to discuss the block please [[m:Steward requests/Global|post a reques
 ブロックされたプロキシのアドレスは $6 です。
 問い合わせをする際には、上記の事項すべてを含めてください。
 
-If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.
-Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].", # Fuzzy
+このブロックが誤りだとお思いの場合、[[m:Special:MyLanguage/No open proxies|No open proxies]] というグローバル方針でより詳しい情報を読むことができます。
+その他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼してください]]。",
 	'wikimedia-torblock-blocked' => 'あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。
 不正利用を防止するため、Tor を通じての編集を禁止しています。
 For additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.', # Fuzzy
