@@ -5145,6 +5145,7 @@ $messages['ext'] = array(
 
 /** Persian (فارسی)
  * @author Alireza
+ * @author Armin1392
  * @author Baqeri
  * @author Calak
  * @author Dalba
@@ -5310,6 +5311,8 @@ $messages['fa'] = array(
 برای جزئیات بیشتر <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">شرایط استفاده</a>  را مشاهده کنید.',
 	'wikimedia-copyrightwarning' => 'شما با کلیک روی «{{int:savearticle}}» [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را قبول می‌کنید و می‌پذیرید که مشارکت‌هایتان را به صورت غیر قابل فسخ با اجازه‌نامه‌های [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] منتشر کنید.
 شما همچنین قبول می‌کنید که ارائه یک پیوند یا نشانی اینترنتی برای ارجاع تحت مجوز Creative Commons کفایت می‌کند.',
+	'wikimedia-mobile-copyrightwarning' => 'با کلیک کردن بر روی دکمه "{{int:savearticle}}"، شما [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] را می‌پذیرید، و به طور غیر قابل برگشتی با افزایش همکاری شما تحت [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.',
+	'wikimedia-mobile-photo-copyrightwarning' => 'با بارگذاری این تصویر، شما به [//wikimediafoundation.org/wiki/Terms_of_use شرایط استفاده] ما موافقت می‌کنید و برای انتشار تصویر شمت تحت [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License] موافقت می‌کنید.',
 	'wikibase-sitelinks-wikisource' => 'صفحه‌های ویکی‌نبشته که به این آیتم پیوند دارند',
 	'wikibase-sitelinks-wikivoyage' => 'صفحه‌های پیوند شدهٔ ویکی‌سفر به این آیتم',
 	'wikibase-sitelinks-commons' => 'صفحه ویکی‌انبار متصل‌شده به این آیتم.',
@@ -5354,9 +5357,10 @@ $messages['fa'] = array(
 ویرایش از طریق تور به دلیل جلوگیری از سوءاستفاده بسته‌شده‌است.
 برای اطلاعات اضافی و راهنمایی کاربران قانونی، سیاست سراسری [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] را ببینید.',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy سیاست محرمانگی]',
-	'wikimedia-flow-terms-of-use-new-topic' => 'با کلیک کردن افزودن عنوان، موافقت شما به [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] ما و موافقت به انتشار متن شما به طور تغییر‌ ناپذیر تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]', # Fuzzy
-	'wikimedia-flow-terms-of-use-reply' => 'با کلیک کردن پاسخ، موافقت شما به [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] ما و موافقت به انتشار متن شما به طور تغییر ناپذیر تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]', # Fuzzy
-	'wikimedia-flow-terms-of-use-edit' => 'با ذخیره کردن تغییرات، موافقت شما به [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] ما و موافقت به انتشار متن شما به طور تغییر ناپذیر تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]', # Fuzzy
+	'mwoauth-grant-checkuser' => 'دسترسی به اطلاعات بررسی کاربر',
+	'wikimedia-flow-terms-of-use-new-topic' => 'با کلیک کردن بر روی دکمه "{{int:flow-newtopic-save}}"، شما [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] مارا می‌پذیرید، و به طور غیر قابل برگشتی با انتشار متن خود تحت [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.',
+	'wikimedia-flow-terms-of-use-reply' => 'با کلیک کردن بر روی دکمه "{{int:flow-reply-submit}}"، شما [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] مارا می‌پذیرید، و به طور غیر قابل برگشتی با انتشار متن خود تحت  [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.',
+	'wikimedia-flow-terms-of-use-edit' => 'با ذخیره تغییرات، شما [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] مارا می‌پذیرید، و به طور غیر قابل برگشتی با انتشار متن خود تحت  [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.',
 );
 
 /** Fulah (Fulfulde)
@@ -7636,6 +7640,7 @@ $messages['ht'] = array(
  * @author Dj
  * @author Glanthor Reviol
  * @author Misibacsi
+ * @author Tacsipacsi
  * @author Tgr
  */
 $messages['hu'] = array(
@@ -7752,8 +7757,7 @@ $messages['hu'] = array(
 	'group-inactive-member' => '{{GENDER:$1|inaktív szerkesztő}}',
 	'grouppage-inactive' => '{{ns:project}}:Inaktív szerkesztők',
 	'wikimedia-copyright' => 'A lap szövege <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.hu">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">felhasználási feltételeket</a>.',
-	'wikidata-shortcopyrightwarning' => 'A "mentés" gombra kattintással elfogadod a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételeket], és visszavonhatatlan engedélyt adsz szerkesztéseid [https://creativecommons.org/publicdomain/zero/1.0/ CC0 licensz] szerinti felhasználására.', # Fuzzy
-	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kjattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
+	'wikimedia-copyrightwarning' => 'A "{{int:savearticle}}" gombra kattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].',
 	'cant-delete-main-page' => 'Nem törölheted vagy nevezheted át a főoldalt.',
 	'createacct-helpusername-url' => '{{ns:Project}}:Azonosító',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(segítség)]]',
