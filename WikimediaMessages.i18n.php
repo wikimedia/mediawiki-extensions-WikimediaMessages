@@ -8109,7 +8109,7 @@ $messages['ilo'] = array(
 	'sitesupport' => 'Donasion',
 	'tooltip-n-sitesupport' => 'Suportarandakami',
 	'specialpages-group-contribution' => 'Kontribusion/Agitag-ay ti pundo',
-	'nstab-creator' => 'Nangaramid',
+	'nstab-creator' => 'Nagpartuat',
 	'nstab-institution' => 'Patakder',
 	'nstab-sequence' => 'Panagsarsaruno',
 	'nstab-timedtext' => 'Naorasan a testo',
@@ -8140,11 +8140,11 @@ $messages['ilo'] = array(
 	'group-autoreviewer' => 'Dagiti automatiko nga agrepaso',
 	'group-autoreviewer-member' => '{{GENDER:$1|automatiko nga agreprepaso}}',
 	'grouppage-autoreviewer' => '{{ns:project}}:Dagiti automatiko nga agpatpatrulia',
-	'group-bigexport' => 'Dagiti dakkel nga agir-iruar',
-	'group-bigexport-member' => '{{GENDER:$1|dakkel nga agir-iruar}}',
-	'grouppage-bigexport' => '{{ns:project}}:Dagiti dakkel nga agir-iruar',
+	'group-bigexport' => 'Dagiti agir-iruar ti dakkel',
+	'group-bigexport-member' => '{{GENDER:$1|agir-iruar ti dakkel}}',
+	'grouppage-bigexport' => '{{ns:project}}:Dagiti agir-iruar ti dakkel',
 	'group-botadmin' => 'Dagiti bot nga addaan ti karbengan nga administrador',
-	'group-botadmin-member' => '{{GENDER:$1|bot nga addan ti administrador a karbengan}}',
+	'group-botadmin-member' => '{{GENDER:$1|bot nga addaan ti administrador a karbengan}}',
 	'grouppage-botadmin' => '{{ns:project}}:Dagiti bot nga addaan ti karbengan nga administrador',
 	'group-confirmed' => 'Dagiti napasingkedan nga agar-aramat',
 	'group-confirmed-member' => '{{GENDER:$1|napasingkedan nga agar-aramat}}',
@@ -8171,8 +8171,8 @@ $messages['ilo'] = array(
 	'group-interface_editor-member' => '{{GENDER:$1|agur-urnos ti interface}}',
 	'grouppage-interface_editor' => '{{ns:project}}:Dagiti agur-urnos ti interface',
 	'group-ipblock-exempt' => 'Dagiti saan a maserraan nga IP',
-	'group-ipblock-exempt-member' => '{{GENDER:$1|IP a saan a maserraan}}',
-	'grouppage-ipblock-exempt' => '{{ns:project}}:IP a saan a maserraan',
+	'group-ipblock-exempt-member' => '{{GENDER:$1|Saan a maserran nga IP}}',
+	'grouppage-ipblock-exempt' => '{{ns:project}}:Saan a maserraan nga IP',
 	'group-patroller' => 'Dagiti agpatpatrulia',
 	'group-patroller-member' => '{{GENDER:$1|agpatpatrulia}}',
 	'grouppage-patroller' => '{{ns:project}}:Dagiti agpatpatrulia',
@@ -8191,15 +8191,15 @@ $messages['ilo'] = array(
 	'group-trusted' => 'Dagiti natalek nga agar-aramat',
 	'group-trusted-member' => '{{GENDER:$1|natalek nga agar-aramat}}',
 	'grouppage-trusted' => '{{ns:project}}:Dagiti natalek nga agar-aramat',
-	'group-uploader' => 'Dagiti agip-ipan',
-	'group-uploader-member' => '{{GENDER:$1|agip-ipan}}',
-	'grouppage-uploader' => '{{ns:project}}:Dagiti agip-ipan',
-	'group-Global_bot' => 'Dagiti sangalubongan a bot',
-	'group-Global_bot-member' => '{{GENDER:$1|sangalubongan a bot}}',
-	'group-Global_rollback' => 'Dagiti sangalubongan nga agisubsubli',
-	'group-Global_rollback-member' => '{{GENDER:$1|sangalubongan nga agisubsubli}}',
-	'group-Global_sysops' => 'Dagiti sangalubongan a sysop',
-	'group-Global_sysops-member' => '{{GENDER:$1|sangalubongan a sysop}}',
+	'group-uploader' => 'Dagiti agikarkarga',
+	'group-uploader-member' => '{{GENDER:$1|agikarkarga}}',
+	'grouppage-uploader' => '{{ns:project}}:Dagiti agikarkarga',
+	'group-Global_bot' => 'Dagiti global a bot',
+	'group-Global_bot-member' => '{{GENDER:$1|global a bot}}',
+	'group-Global_rollback' => 'Dagiti global nga agisubsubli',
+	'group-Global_rollback-member' => '{{GENDER:$1|global nga agisubsubli}}',
+	'group-Global_sysops' => 'Dagiti global a sysop',
+	'group-Global_sysops-member' => '{{GENDER:$1|global a sysop}}',
 	'group-Ombudsmen' => 'Ombudsmen',
 	'group-Ombudsmen-member' => '{{GENDER:$1|ombudsman}}',
 	'group-Staff' => 'Empleado',
@@ -8217,8 +8217,8 @@ $messages['ilo'] = array(
 	'group-Indic_Bots-member' => '{{GENDER:$1|indic bot}}',
 	'group-New_wikis_importer' => 'Dagiti agal-ala kadagiti baro a wiki',
 	'group-New_wikis_importer-member' => '{{GENDER:$1|agal-ala kadagiti baro a wiki}}',
-	'group-global-ipblock-exempt' => 'Dagiti malaksid ti panagserra ti sangalubongan nga IP',
-	'group-global-ipblock-exempt-member' => '{{GENDER:$1|malaksid ti sangalubongan a panagserra ti IP}}',
+	'group-global-ipblock-exempt' => 'Dagiti malaksid ti panagserra ti global nga IP',
+	'group-global-ipblock-exempt-member' => '{{GENDER:$1|malaksid ti global a panagserra ti IP}}',
 	'group-recursive-export' => 'Rekursibo a panagiluas',
 	'group-recursive-export-member' => '{{GENDER:$1|rekursibo nga agi-luluas}}',
 	'group-massmessage-sender' => 'Dagiti agipatpatulod ti adu a mensahe',
@@ -8233,15 +8233,15 @@ $messages['ilo'] = array(
 	'group-zeroadmin' => 'Dagiti administrador ti Sero',
 	'group-zeroadmin-member' => '{{GENDER:$1|Administrador ti Sero}}',
 	'grouppage-zeroadmin' => '{{ns:project}}:Dagiti administrador ti Sero',
-	'right-zero-edit' => 'Agurnos ti pampanid itinagan ti espasio ti Sero',
+	'right-zero-edit' => 'Agurnos ti pampanid iti nagan ti espasio ti Sero',
 	'group-centralnoticeadmin' => 'Dagiti administrador ti sentral a pakdaar',
 	'group-centralnoticeadmin-member' => '{{GENDER:$1|Administrador ti sentral a pakdaar}}',
 	'grouppage-centralnoticeadmin' => '{{ns:project}}:Administrador ti sentral a pakdaar',
 	'group-coder' => 'Dagiti agkodkodigo',
 	'group-coder-member' => '{{GENDER:$1|agkodkodigo}}',
-	'group-inactive' => 'Dagiti saan a nasiglat nga agar-aramat',
-	'group-inactive-member' => '{{GENDER:$1|saan a nasiglat nga agar-aramat}}',
-	'grouppage-inactive' => '{{ns:project}}:Dagiti saan a nasiglat nga agar-aramat',
+	'group-inactive' => 'Dagiti di aktibo nga agar-aramat',
+	'group-inactive-member' => '{{GENDER:$1|di aktibo nga agar-aramat}}',
+	'grouppage-inactive' => '{{ns:project}}:Dagiti di aktibo nga agar-aramat',
 	'wikimedia-copyright' => 'Ti testo ket magun-od babaen ti <a href="https://creativecommons.org/licenses/by-sa/3.0/">Lisensia ti Creative Commons Attribution/Share-Alike</a>;
 dagiti mainayon a termino ket mabalin pay a maipakat.
 Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_use">Termino ti panag-usar</a> para kadagiti salaysay.',
@@ -8249,20 +8249,23 @@ Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_use">Termin
 ti testo kadagiti sabali a nagan ti espasio ket magun-od babaen ti <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Panangilawlawag ti Creative Commons Attribution/Share-Alike a Lisensia">Creative Commons Attribution/Share-Alike a Lisensia</a>;
 dagiti dadduma a termino ket mabalin a maipakat.
 Kitaen dagiti <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Termino ti Panag-usar ti Pundasion ti Wikimedia">Termino ti Panag-usar</a> para kadagiti salaysay.',
-	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti "{{int:savearticle}}" a buton, umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken saanka a mangiwaswas a tumulag a mangibbet kadagiti inar-aramidmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
+	'wikimedia-copyrightwarning' => 'Babaen ti panagpindut ti buton ti "{{int:savearticle}}", umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken umannurotka a saan a mangiwaswas a mangibbet kadagiti kontribusionmo babaen ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].
 Umannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.',
-	'wikibase-sitelinks-wikivoyage' => 'Pampanid ti Wikivoyage a naisilpo iti daytoy a banag',
+	'wikimedia-mobile-copyrightwarning' => 'Babaen ti panagpindut ti buton ti"{{int:savearticle}}", umannurotka kadagiti [https://wikimediafoundation.org/wiki/Terms_of_Use Termino ti Panag-usar], ken umannurotka a saan a mangiwaswas a mangibbet kadagiti kontribusionmo babaen ti [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
+	'wikimedia-mobile-photo-copyrightwarning' => 'Babaen ti panangikarga iti daytoy a ladawan, umannurotka kadagiti bukodmi a [https://wikimediafoundation.org/wiki/Terms_of_use Termino ti Panag-usar] ken tumulagka a mangibbet ti ladawanmo babaen ti [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 a Lisensia].',
+	'wikibase-sitelinks-wikisource' => 'Pampanid ti Wikitaudan a naisilpo iti daytoy a banag',
+	'wikibase-sitelinks-wikivoyage' => 'Pampanid ti Wikibanniaga a naisilpo iti daytoy a banag',
 	'wikibase-sitelinks-commons' => 'Panid ti Wikimedia Commons a naisilpo iti daytoy a banag',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
-	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid',
-	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia ti daytoy a pakaammo, a mabalin nga agdamag kami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga  [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
+	'cant-delete-main-page' => 'Saanmo a mabalin nga ikkaten wenno iyalis ti umuna a panid.',
+	'wikimedia-translationnotifications-signup-legal' => 'Umannurotka babaen ti panagited ti Pundasion ti Wikimedia iti daytoy a pakaammo, a mabalin nga agdamagkami kaniam ti kapanggepan kadagiti patarus wenno sabsabali a topiko iti tignay a Wikimedia a naipagpagarupmi a kinaykayatmo. Umannurotka a dagiti bukodmo a datos ket mabalin a maipenpen idiay Estados Unidos ken daytoy ket suheto kadagiti bukodmi nga [https://wikimediafoundation.org/wiki/Privacy_policy annuroten ti kinapribado].',
 	'upload-more-photos-of-this-monument' => 'Agikarga kadagiti adu pay a ladawan iti daytoy a monumento',
 	'extdist-branch-master' => 'master (kinaudi a naparang-ay a bersion)',
-	'extdist-branch-REL1_22' => '1.22 (kinaudi a nasimpa a MediaWiki)',
+	'extdist-branch-REL1_22' => '1.22 (kinaudi a natalinaay a MediaWiki)',
 	'createacct-helpusername-url' => '{{ns:Project}}:Annuroten_ti_nagan_ti_agar-aramat',
 	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(tulongannak nga agpili)]]',
-	'createacct-captcha-help-url' => '{{ns:Project}}:Agkiddaw ti maysa a pakabilangan',
-	'createacct-imgcaptcha-help' => 'Saan a makita ti ladawan? [[{{MediaWiki:createacct-captcha-help-url}}|Agkiddaw ti maysa a pakabilangan]]',
+	'createacct-captcha-help-url' => '{{ns:Project}}:Agkiddaw ti pakabilangan',
+	'createacct-imgcaptcha-help' => 'Saan a makita ti ladawan? [[{{MediaWiki:createacct-captcha-help-url}}|Agkiddaw ti pakabilangan]]',
 	'wikimedia-developers' => 'Dagiti agparparang-ay',
 	'wikimedia-globalblocking-ipblocked' => "'''Ti IP a pagtaengam ket [[m:Special:MyLanguage/Global blocks|naserraan kadagiti amin a wiki]].'''
 
@@ -8290,10 +8293,14 @@ Pangngaasi nga iraman amin dagiti salaysay kadagiti aniaman nga usisaem.
 
 No namatmatika a kamali ti pannakaserram, makabirukka kadagit adu pay a pakaammo ken pagsursuruan iti sangalubongan nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].
 No saan, tapno matungtungan ti serra pangngaasi a [[m:Steward requests/Global|agipablaak ti kiddaw para iti panagrepaso idiay Meta-Wiki]].",
-	'wikimedia-torblock-blocked' => 'Ti IP a pagtaengam, <strong>$1</strong>, ket automatikoa nailasin a kas nodo ti iruruar ti Tor.
-T panag-urnos babaen ti Tor ket naserraan tapno mapawilan ti panagabuso.
-Para iti adu pay a pakaammo ken pagsursuruan dagit lehitimado ng agar-aramat, kitaen ti sangalubongan nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].',
+	'wikimedia-torblock-blocked' => 'Ti IP a pagtaengam, <strong>$1</strong>, ket automatiko a nailasin a kas nodo ti iruruar ti Tor.
+T panag-urnos babaen ti Tor ket naserraan tapno mapawilan ti panag-abuso.
+Para iti adu pay a pakaammo ken pagsursuruan dagiti lehitimado nga agar-aramat, kitaen ti global nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].',
 	'wikimedia-oauth-privacy-link' => '[https://wikimediafoundation.org/wiki/Privacy_policy Annuroten ti Kinapribado]',
+	'mwoauth-grant-checkuser' => 'Serrekan ti datos ti agkitkita nga agararamat',
+	'wikimedia-flow-terms-of-use-new-topic' => 'Babaen ti panagpindut ti "{{int:flow-newtopic-save}}", umannurotka kadagiti bukodmi a [//wikimediafoundation.org/wiki/Terms_of_use Termino ti Panag-usar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Babaen ti panagpindut ti "{{int:flow-reply-submit}}", umannurotka kadagiti bukodmi a [//wikimediafoundation.org/wiki/Terms_of_use Termino ti Panag-usar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-edit' => 'Babaen ti panagidulin kadagiti binalbaliwan, umannurotka kadagiti bukodmi a [//wikimediafoundation.org/wiki/Terms_of_use Termino ti Panag-usar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Ingush (ГӀалгӀай)
@@ -12093,6 +12100,7 @@ Je gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om a
  * @author Nemo bis
  * @author Njardarlogar
  * @author Ranveig
+ * @author Roarjo
  */
 $messages['nn'] = array(
 	'wikimediamessages-desc' => 'Wikimedia-spesifikke meldingar',
@@ -12197,8 +12205,8 @@ Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for
 Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Bruksvilkåra til Wikimedia Foundation">Bruksvilkåra</a> for meir.',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
-	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til datasettet',
-	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sider knytte til datasettet',
+	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til elementet',
+	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sider knytte til elementet',
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
 	'upload-more-photos-of-this-monument' => 'Last opp fleire bilete av monumentet',
 	'extdist-branch-REL1_22' => '1.22 (siste stabile MediaWiki)',
