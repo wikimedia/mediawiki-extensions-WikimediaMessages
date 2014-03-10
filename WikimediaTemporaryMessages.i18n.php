@@ -154,9 +154,11 @@ $messages['gl'] = array(
 /** Hebrew (עברית)
  * @author Amire80
  * @author Guycn2
+ * @author Yona b
  */
 $messages['he'] = array(
 	'wikimediamessages-desc' => 'הודעות זמניות ייחודיות לוויקימדיה',
+	'bug-54847-password-reset-prompt' => 'כתוצאה מ[[meta:October 2013 private data security issue|פריצת אבטחה במסד הנתונים של מעבדות ויקימדיה]], יתכן וסיסמתך הקודמת נפרצה. נא להגדיר סיסמא חדשה כדי לאבטח את חשבונך. אנו מצטערים על אי הנעימות.',
 	'password-recycled' => 'הסיסמה שהזנת זהה לסיסמה ישנה ששימשה את חשבונך. נא לבחור סיסמה חדשה.',
 );
 
