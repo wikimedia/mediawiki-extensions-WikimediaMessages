@@ -22,6 +22,7 @@ $wgExtensionCredits['other'][] = array(
 $dir = dirname(__FILE__) . '/';
 $wgExtensionMessagesFiles['WikimediaMessages'] = $dir .'WikimediaMessages.i18n.php';
 $wgExtensionMessagesFiles['WikimediaTemporaryMessages'] = $dir . 'WikimediaTemporaryMessages.i18n.php';
+$wgExtensionMessagesFiles['WikimediaContactPageMessages'] = $dir . 'WikimediaContactPageMessages.i18n.php';
 
 include_once ( $dir .'WikimediaGrammarForms.php' );
 
