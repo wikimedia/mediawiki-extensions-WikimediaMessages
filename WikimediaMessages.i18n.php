@@ -6924,13 +6924,14 @@ $messages['hak'] = array(
 );
 
 /** Hawaiian (Hawai`i)
+ * @author Kolonahe
  * @author Singularity
  */
 $messages['haw'] = array(
-	'sitesupport' => 'E lūlū mai',
+	'sitesupport' => 'Lūlū mai',
 	'tooltip-n-sitesupport' => 'Kāko‘o mai',
 	'group-steward' => 'Nā kuene',
-	'group-steward-member' => 'Kuene', # Fuzzy
+	'group-steward-member' => '{{GENDER:$1|ke kuene}}',
 );
 
 /** Hebrew (עברית)
