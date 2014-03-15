@@ -2551,11 +2551,12 @@ $messages['bn'] = array(
 
 /** Tibetan (བོད་ཡིག)
  * @author Freeyak
+ * @author Phurbutsering
  */
 $messages['bo'] = array(
 	'sitesupport' => 'ཞལ་འདེབས།',
 	'tooltip-n-sitesupport' => 'ང་ཚོར་རོགས་སྐྱོར།',
-	'group-founder-member' => 'གསར་གཏོད་བྱེད་མཁན།', # Fuzzy
+	'group-founder-member' => '{{GENDER:$1|གསར་གཏོད་བྱེད་མཁན།}}',
 );
 
 /** Bishnupria Manipuri (বিষ্ণুপ্রিয়া মণিপুরী)
@@ -4503,6 +4504,9 @@ See <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia
 You agree that a hyperlink or URL is sufficient attribution under the Creative Commons licence.',
 	'wikimedia-mobile-copyrightwarning' => 'By clicking the "{{int:savearticle}}" button, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 Licence] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].',
 	'wikimedia-mobile-photo-copyrightwarning' => 'By uploading this image, you agree to our [https://wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to release your image under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 Licence].',
+	'wikimedia-flow-terms-of-use-new-topic' => 'By clicking "{{int:flow-newtopic-save}}", you agree to our [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'By clicking "{{int:flow-reply-submit}}", you agree to our [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-edit' => 'By saving changes, you agree to our [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Esperanto (Esperanto)
@@ -9197,6 +9201,8 @@ $messages['kk-cyrl'] = array(
 	'group-sysadmin-member' => 'жүйе әкімшісі', # Fuzzy
 	'wikimedia-copyrightwarning' => "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [https://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.
 [https://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].", # Fuzzy
+	'createacct-helpusername' => '[[{{MediaWiki:createacct-helpusername-url}}|(қатысушы есімін таңдауыма анықтама)]]',
+	'createacct-imgcaptcha-help' => 'Кескінді көре алмадыңыз ба? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтқа сұраным беріңіз]]',
 	'wikimedia-developers' => 'Жасақтаушылар',
 );
 
@@ -12206,6 +12212,7 @@ Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">Vilkår</a> for
 Sjå <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Bruksvilkåra til Wikimedia Foundation">Bruksvilkåra</a> for meir.',
 	'wikimedia-copyrightwarning' => 'Ved å trykkja på «{{int:savearticle}}»-knappen, samtykkjer du i [https://wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra], og du gjev endeleg samtykke til å gje ut bidraget ditt under lisensane [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL].
 Du samtykkjer òg i at ei hyperlenkje eller ein URL er god nok godskriving etter Creative Commons-lisensen.',
+	'wikibase-sitelinks-wikisource' => 'Wikikjelda-sider knytte til elementet',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage-sider knytte til elementet',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons-sider knytte til elementet',
 	'cant-delete-main-page' => 'Du kan ikkje sletta eller flytta hovudsida.',
@@ -13616,10 +13623,12 @@ $messages['rif'] = array(
 
 /** Romansh (rumantsch)
  * @author Gion-andri
+ * @author Kazu89
  */
 $messages['rm'] = array(
 	'sitesupport' => 'Donaziuns',
 	'tooltip-n-sitesupport' => 'Ans sustegna',
+	'wikimedia-developers' => 'Sviluppaders',
 );
 
 /** Romani (Romani)

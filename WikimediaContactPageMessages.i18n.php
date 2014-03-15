@@ -64,9 +64,11 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Reedy
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'contactpage-license-request-username' => 'The username of the person currently filling out this form',
+	'contactpage-license-request-username' => 'The username of the person currently filling out this form.
+{{Identical|Username}}',
 	'contactpage-license-request-relevantsite' => 'Which site a user is primarily active (Users home wiki)',
 	'contactpage-license-request-group' => 'Any affiliated chapters, groups etc relevant to this request',
 	'contactpage-license-request-title' => 'Salutation of a user',
@@ -75,7 +77,8 @@ $messages['qqq'] = array(
 	'contactpage-license-request-use-proposed' => 'Proposed usage of the Wikimedia trademarks',
 	'contactpage-license-request-use-online' => 'Request to use Wikimedia trademarks online on websites or emails',
 	'contactpage-license-request-use-book' => 'Request to use Wikimedia trademarks in books or periodicals',
-	'contactpage-license-request-use-print' => 'Request to use Wikimedia trademarks in print',
+	'contactpage-license-request-use-print' => 'Request to use Wikimedia trademarks in print.
+{{Identical|Print}}',
 	'contactpage-license-request-use-tv' => 'Request to use Wikimedia trademarks on tv, movie or other broadcast',
 	'contactpage-license-request-use-other' => 'Other potential usage locations of Wikimedia trademarks',
 	'contactpage-license-request-use-note' => 'Note advising that the Wikimedia Foundation may publicly list authorized usages of Wikimedia trademarks',
@@ -102,6 +105,72 @@ $messages['qqq'] = array(
 	'contactpage-license-abuse-location' => 'Location of the abuse of Wikimedia trademark',
 	'contactpage-license-abuse-theircontact' => 'Contact details for the person abusing Wikimedia trademarks',
 	'contactpage-license-abuse-yourcontact' => 'Contact details of the person reporting the Wikimedia trademark abuse',
+);
+
+/** Azerbaijani (azərbaycanca)
+ * @author Cekli829
+ */
+$messages['az'] = array(
+	'contactpage-license-request-username' => 'İstifadəçi adı *',
+	'contactpage-license-request-use-print' => 'Çap',
+	'contactpage-license-request-use-other' => 'Digər',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Vikimedia İcması',
+);
+
+/** Bengali (বাংলা)
+ * @author Aftab1995
+ */
+$messages['bn'] = array(
+	'contactpage-subject-requestlicense' => 'উইকিমিডিয়া ট্রেডমার্ক পুনঃব্যবহারের অনুরোধ',
+	'contactpage-license-request-username' => 'ব্যবহারকারী নাম *',
+	'contactpage-license-request-relevantsite' => 'প্রাসঙ্গিক উইকিমিডিয়া সাইট (যদি থাকে)',
+	'contactpage-license-request-group' => 'উইকিমিডিয়া অধ্যায়, বিষয়ভিত্তিক সংগঠন, বা ব্যবহারকারী দল ও শিরোনাম (যদি থাকে) *',
+	'contactpage-license-request-title' => 'শিরোনাম (যদি প্রযোজ্য হয়)',
+	'contactpage-license-request-organization' => 'সংস্থা (যদি প্রযোজ্য হয়)',
+	'contactpage-license-request-organization-type' => 'সংস্থার ধরণ (যদি প্রযোজ্য হয়)',
+	'contactpage-license-request-use-proposed' => 'প্রস্তাবিত ব্যবহার',
+	'contactpage-license-request-use-online' => 'অনলাইন (ওয়েবসাইট, ইমেইল)',
+	'contactpage-license-request-use-book' => 'বই, পর্যাবৃত্ত',
+	'contactpage-license-request-use-print' => 'মুদ্রণ',
+	'contactpage-license-request-use-tv' => 'টিভি, চলচ্চিত্র বা সম্প্রচার',
+	'contactpage-license-request-use-other' => 'অন্য',
+	'contactpage-wikimedia-trademark-wikimedia' => 'উইকিমিডিয়া সম্প্রদায়',
+);
+
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'contactpage-title-requestlicense' => 'Товаран билгало лелоран контактан форма',
+	'contactpage-pagetext-requestlicense' => 'Дехар до, товаран билгалонах лаьцна тхоьга хатар дан лела йе лахара форма',
+	'contactpage-subject-requestlicense' => 'Викимедиан товаран билгало лело дехар дан',
+	'contactpage-license-request-username' => 'Декъашхочун цӀе',
+	'contactpage-license-request-relevantsite' => 'ЙогӀуш йолу Викимедиан сайт (и елахь)',
+	'contactpage-license-request-group' => 'Викимедиан дакъа, темийн организаци я тоба декъашхойн я цӀерийн (елахь)',
+	'contactpage-license-request-title' => 'Дарж (пайда эца луш делаш)',
+	'contactpage-license-request-organization' => 'Организацеш (пайда эца луш делаш)',
+	'contactpage-license-request-organization-type' => 'Организацийн тайп (пайда эца луш делаш)',
+	'contactpage-license-request-use-proposed' => 'Кховдийна пайда эца',
+	'contactpage-license-request-use-online' => 'Интернет (веб-сайт, электронан почта)',
+	'contactpage-license-request-use-book' => 'Жайна, тептар',
+	'contactpage-license-request-use-print' => 'Зорба',
+	'contactpage-license-request-use-tv' => 'Телевидени, кино я трансляци',
+	'contactpage-license-request-use-other' => 'Кхин',
+	'contactpage-license-request-use-note' => '<strong>Билгалдахарш:</strong> оха товаран билгало лело бакъо луш елахь, оха дӀаяздар дуьттара ду дӀабазбинчу могӀам чохь.',
+	'contactpage-license-request-description' => 'Лелорах лаьцна',
+	'contactpage-license-request-selectmark' => 'Харжа билгало',
+	'contactpage-wikimedia-trademark-globe' => 'Википедийн глобус пазлашца',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Википедин йозан товаран билгало',
+	'contactpage-wikimedia-trademark-w' => 'Стиль йина «W»',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Викимедиан Юкъаралла',
+	'contactpage-title-licenseabuse' => 'Авторан бакъонаш талхоран контактан форма',
+	'contactpage-pagetext-licenseabuse' => 'Дехар до, авторийн бакъонах лаьцна тхоьга хатар дан лела йе лахара форма',
+	'contactpage-subject-licenseabuse' => 'Викимедин билгало талхоран хаам',
+	'contactpage-license-abuse-description' => 'Язде талхорах лаьцна',
+	'contactpage-license-abuse-selectmark' => 'Муьлха товаран билгало лелина талхорца?',
+	'contactpage-license-abuse-location' => 'Зуламан лелоран меттиг  (зӀе чохь/кхечахьа)',
+	'contactpage-license-abuse-theircontact' => 'Билгалон бакъо талхинчун контактан хаам (хууш делахь)',
+	'contactpage-license-abuse-yourcontact' => 'Хьа контактан хаам (елахь)',
 );
 
 /** German (Deutsch)
@@ -142,12 +211,51 @@ $messages['de'] = array(
 
 /** British English (British English)
  * @author Reedy
+ * @author Shirayuki
  */
 $messages['en-gb'] = array(
+	'contactpage-license-request-group' => 'Wikimedia chapter, thematic organisation, or user group & title (if any) *',
 	'contactpage-license-request-organization' => 'Organisation (if applicable)',
 	'contactpage-license-request-organization-type' => 'Organisation type (if applicable)',
 	'contactpage-license-request-use-note' => '<strong>Note:</strong> if we grant a trademark permission, we may list your use in a public list of authorised uses.',
 	'contactpage-wikimedia-trademark-w' => 'Stylised "W"',
+);
+
+/** Spanish (español)
+ * @author Csbotero
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'contactpage-title-requestlicense' => 'Formulario para solicitar permiso de reutilización de marca registrada',
+	'contactpage-pagetext-requestlicense' => 'Por favor utilice el siguiente formulario para contactarnos acerca de asuntos relacionados con marca registrada',
+	'contactpage-subject-requestlicense' => 'Solicitud de reutilización de marca de Wikimedia',
+	'contactpage-license-request-username' => 'Nombre de usuario',
+	'contactpage-license-request-relevantsite' => 'Sitio de Wikimedia relevante (si corresponde)',
+	'contactpage-license-request-group' => 'Capítulo de Wikimedia, organización temática o de grupo del usuario y título (si lo hay) *',
+	'contactpage-license-request-title' => 'Título (si procede)',
+	'contactpage-license-request-organization' => 'Organización (si procede)',
+	'contactpage-license-request-organization-type' => 'Tipo de organización (si procede)',
+	'contactpage-license-request-use-proposed' => 'Uso propuesto',
+	'contactpage-license-request-use-online' => 'En línea (sitio web, correo electrónico)',
+	'contactpage-license-request-use-book' => 'Libro, periódico',
+	'contactpage-license-request-use-print' => 'Imprimir',
+	'contactpage-license-request-use-tv' => 'TV, película o transmisión',
+	'contactpage-license-request-use-other' => 'Otro',
+	'contactpage-license-request-use-note' => '<strong>Nota:</strong> si le concedemos un permiso, podríamos añadirlo en una lista pública de autorizaciones.',
+	'contactpage-license-request-description' => 'Descripción del uso',
+	'contactpage-license-request-selectmark' => 'Seleccione la marca',
+	'contactpage-wikimedia-trademark-globe' => 'Globo rompecabezas de Wikipedia',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Logotipo de Wikipedia',
+	'contactpage-wikimedia-trademark-w' => '«W» estilizada',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Comunidad de Wikimedia',
+	'contactpage-title-licenseabuse' => 'Formulario de denuncia de abuso de copyright',
+	'contactpage-pagetext-licenseabuse' => 'Utilice el siguiente formulario para contactarnos sobre abusos de copyright',
+	'contactpage-subject-licenseabuse' => 'Notificación de abuso de marca de Wikimedia',
+	'contactpage-license-abuse-description' => 'Describa el abuso',
+	'contactpage-license-abuse-selectmark' => '¿Cuál marca está afectada?',
+	'contactpage-license-abuse-location' => 'Ubicación del abuso (en línea o no)',
+	'contactpage-license-abuse-theircontact' => 'Información de contacto de quien abusa de la marca (si se conoce)',
+	'contactpage-license-abuse-yourcontact' => 'Su información de contacto (si quiere que le contactemos)',
 );
 
 /** Persian (فارسی)
@@ -186,6 +294,41 @@ $messages['fa'] = array(
 	'contactpage-license-abuse-yourcontact' => 'اطلاعات تماس شما (اگر قصد دارید با شما تماس گرفته شود)',
 );
 
+/** Finnish (suomi)
+ * @author Nike
+ */
+$messages['fi'] = array(
+	'contactpage-title-requestlicense' => 'Tavaramerkin uudelleenkäyttölomake',
+	'contactpage-pagetext-requestlicense' => 'Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkkiasioissa',
+	'contactpage-subject-requestlicense' => 'Wikimedian tavaramerkin uudelleenkäyttöpyyntö',
+	'contactpage-license-request-username' => 'Käyttäjätunnus *',
+	'contactpage-license-request-relevantsite' => 'Asiaan liittyävä Wikimedia-sivusto (valinnainen)',
+	'contactpage-license-request-title' => 'Titteli (tarvittaessa)',
+	'contactpage-license-request-organization' => 'Organisaatio (valinnainen)',
+	'contactpage-license-request-organization-type' => 'Organisaatiotyyppi (tarvittaessa)',
+	'contactpage-license-request-use-proposed' => 'Ehdotettu käyttö',
+	'contactpage-license-request-use-online' => 'Verkossa (sivusto, sähköposti)',
+	'contactpage-license-request-use-book' => 'Kirja, säännöllisesti ilmestyvä teos',
+	'contactpage-license-request-use-print' => 'Tulostus',
+	'contactpage-license-request-use-tv' => 'TV, elokuva tai lähetys',
+	'contactpage-license-request-use-other' => 'Muu',
+	'contactpage-license-request-use-note' => '<strong>Huomautus:</strong> jos annamme luvan tavaramerkin käyttöön, saatamme julkaista tiedon siitä julkisessa listassa sallituista käytöistä.',
+	'contactpage-license-request-description' => 'Käytön kuvaus',
+	'contactpage-license-request-selectmark' => 'Valitse merkki',
+	'contactpage-wikimedia-trademark-globe' => 'Wikipedian palapelimaapallo',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Wipedia sanamerkki',
+	'contactpage-wikimedia-trademark-w' => 'Tyylitelty ”W”',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Wikimedia-yhteisö',
+	'contactpage-title-licenseabuse' => 'Tekijänoikeusrikkomusten yhteydenottolomake',
+	'contactpage-pagetext-licenseabuse' => 'Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkin väärinkäyttöepäillyissä',
+	'contactpage-subject-licenseabuse' => 'Wikimedian tavaramerkin väärinkäyttöilmoitus',
+	'contactpage-license-abuse-description' => 'Kuvaile väärinkäyttö',
+	'contactpage-license-abuse-selectmark' => 'Mitä merkkiä väärinkäytetään?',
+	'contactpage-license-abuse-location' => 'Väärinkäytön tapahtumapaikka (verkossa/verkon ulkopuolella)',
+	'contactpage-license-abuse-theircontact' => 'Tavaramerkkiä väärin käyttävän henkilön yhteystiedot (mikäli tiedossa)',
+	'contactpage-license-abuse-yourcontact' => 'Yhteystietosi (jos saamme ottaa yhteyttä sinuun)',
+);
+
 /** French (français)
  * @author Gomoko
  */
@@ -222,6 +365,58 @@ $messages['fr'] = array(
 	'contactpage-license-abuse-yourcontact' => 'Votre information de contact (si nous devions vous contacter)',
 );
 
+/** Gujarati (ગુજરાતી)
+ * @author KartikMistry
+ */
+$messages['gu'] = array(
+	'contactpage-license-request-use-other' => 'અન્ય',
+);
+
+/** Hebrew (עברית)
+ * @author תומר ט
+ */
+$messages['he'] = array(
+	'contactpage-license-request-use-proposed' => 'השימוש המוצע',
+);
+
+/** Hindi (हिन्दी)
+ * @author Adithyavr
+ * @author Siddhartha Ghai
+ */
+$messages['hi'] = array(
+	'contactpage-pagetext-requestlicense' => 'कृपया ट्रेडमार्क चीज़ों के बारे में हमसे संपर्क करने के लिये नीचे दिये गये फ़ॉर्म का उपयोग करें',
+	'contactpage-license-request-username' => 'सदस्यनाम:*',
+	'contactpage-license-request-relevantsite' => 'प्रासंगिक विकिमीडिया साइट (यदि कोई प्रस्तुत हे।)',
+	'contactpage-license-request-group' => 'विकिमीडिया अध्याय, विषयगत संगठन या सदस्य समूह और नाम (यदि कोई हो) *',
+	'contactpage-license-request-use-proposed' => 'प्रस्तावित उपयोग',
+	'contactpage-license-request-use-print' => 'प्रिंट करें',
+	'contactpage-license-request-use-other' => 'अन्य।',
+	'contactpage-wikimedia-trademark-wikimedia' => 'विकीमीडिया समुदाय',
+	'contactpage-title-licenseabuse' => 'कॉपीराइट दुरुपयोग संपर्क प्रपत्र।',
+	'contactpage-pagetext-licenseabuse' => 'कृपया सर्वाधिकार दुरुपयोग  के बारे में हमसे संपर्क करने के लिये नीचे दिये गये फ़ॉर्म का उपयोग करें',
+	'contactpage-license-abuse-description' => 'दुरुपयोग का वर्णन कीजिये।',
+	'contactpage-license-abuse-location' => 'दुरुपयोग (पर/ऑफ़लाइन) कर्ने का स्थान।',
+);
+
+/** Japanese (日本語)
+ * @author Hiro884
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'contactpage-pagetext-requestlicense' => '商標に関するお問い合わせは、下記のフォームをご利用ください。',
+	'contactpage-license-request-username' => '利用者名 *',
+	'contactpage-license-request-relevantsite' => '関連するウィキメディア サイト（ある場合）',
+	'contactpage-license-request-use-online' => 'オンライン (ウェブサイト、メール)',
+	'contactpage-license-request-use-print' => '印刷',
+);
+
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎)
+ * @author Arystanbek
+ */
+$messages['kk-cyrl'] = array(
+	'contactpage-license-request-username' => 'Қатысушы есімі',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Sovichet
  */
@@ -231,16 +426,35 @@ $messages['km'] = array(
 	'contactpage-license-request-use-print' => 'បោះពុម្ព',
 	'contactpage-license-request-use-other' => 'ផ្សេងៗ',
 	'contactpage-wikimedia-trademark-wikimedia' => 'សហគមន៍​វិគីមេឌា',
+	'contactpage-license-abuse-description' => 'អធិប្បាយ​ពី​អំពើ​ខុស​ច្បាប់',
+	'contactpage-license-abuse-location' => 'ទីតាំង​នៃ​អំពើ​ខុស​ច្បាប់ (លើ​ឬ​ក្រៅ​បណ្ដាញ)',
 	'contactpage-license-abuse-yourcontact' => 'ព័ត៌មាន​ទាក់ទង​របស់​អ្នក (ប្រសិន​បើ​យើង​ត្រូវ​ទាក់​ទង​អ្នក)',
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'contactpage-license-request-username' => 'Benotzernumm *',
+	'contactpage-license-request-relevantsite' => 'Relevante Wikimedia-Website (wann et e gëtt)',
+	'contactpage-license-request-use-print' => 'Drécken',
+	'contactpage-license-abuse-description' => 'Beschreift de Mëssbrauch',
+);
+
+/** Lithuanian (lietuvių)
+ * @author Garas
+ */
+$messages['lt'] = array(
+	'contactpage-license-request-username' => 'Naudotojo vardas *',
 );
 
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'contactpage-title-requestlicense' => 'Контактен образец за употреба на трговска марка',
+	'contactpage-title-requestlicense' => 'Контактен образец за употреба на заштитен знак',
 	'contactpage-pagetext-requestlicense' => 'Послужете се до образецот за да нè контактирате во врска со трговски марки',
-	'contactpage-subject-requestlicense' => 'Барање за употреба на трговска марка на Викимедија',
+	'contactpage-subject-requestlicense' => 'Барање за употреба на заштитен знак на Викимедија',
 	'contactpage-license-request-username' => 'Корисничко име *',
 	'contactpage-license-request-relevantsite' => 'Релевантно Викимедиино вики (ако има)',
 	'contactpage-license-request-group' => 'Викимедиин огранок, тематска организациа или корисничка група и наслов (ако има) *',
@@ -253,6 +467,180 @@ $messages['mk'] = array(
 	'contactpage-license-request-use-print' => 'Печатено',
 	'contactpage-license-request-use-tv' => 'Телевизија, филм или емисија',
 	'contactpage-license-request-use-other' => 'Друго',
+	'contactpage-license-request-use-note' => '<strong>Напомена:</strong> ако Ви го дадеме правото на употреба на заштитен знак, може да Ве наведеме на јавниот список на овластени корисници.',
+	'contactpage-license-request-description' => 'Опис на употребата',
+	'contactpage-license-request-selectmark' => 'Изберете знак',
+	'contactpage-wikimedia-trademark-globe' => 'Википедиина глобусна сложувалка',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Википедиин заштитен текст',
+	'contactpage-wikimedia-trademark-w' => 'Стилизирано „W“',
+	'contactpage-wikimedia-trademark-foundation' => 'Фондација Викимедија',
+	'contactpage-wikimedia-trademark-commons' => 'Ризница',
+	'contactpage-wikimedia-trademark-incubator' => 'Викимедиин инкубатор',
+	'contactpage-wikimedia-trademark-mediawiki' => 'МедијаВики',
+	'contactpage-wikimedia-trademark-wikiquote' => 'Викицитат',
+	'contactpage-wikimedia-trademark-wikibooks' => 'Викикниги',
+	'contactpage-wikimedia-trademark-wikimania' => 'Викиманија',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Викимедиина заедница',
+	'contactpage-wikimedia-trademark-wikinews' => 'Викивести',
+	'contactpage-wikimedia-trademark-wikisource' => 'Викиизвор',
+	'contactpage-wikimedia-trademark-wikispecies' => 'Викивидови',
+	'contactpage-wikimedia-trademark-wikiversity' => 'Викиуниверзитет',
+	'contactpage-wikimedia-trademark-wiktionary' => 'Викиречник',
+	'contactpage-wikimedia-trademark-wikivoyage' => 'Википатување',
+	'contactpage-title-licenseabuse' => 'Контактен образец за кршење на авторски права',
+	'contactpage-pagetext-licenseabuse' => 'Послужете се до образецот за да нè контактирате во врска со кршења на авторски права',
+	'contactpage-subject-licenseabuse' => 'Известување за злоупотреба на заштитен знак на Викимедија',
+	'contactpage-license-abuse-description' => 'Опишете како знакот е злоупотребен',
+	'contactpage-license-abuse-selectmark' => 'Кој знак е злоупотребен?',
+	'contactpage-license-abuse-location' => 'Место на злоупотребата (семрежно или вонсемрежно)',
+	'contactpage-license-abuse-theircontact' => 'Контактни податоци на лицето што го злоупотребило знакот (ако се познати)',
+	'contactpage-license-abuse-yourcontact' => 'Ваши контактни податоци (ако можеме да Ве контактираме)',
+);
+
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'contactpage-title-requestlicense' => 'Formulari de contacte per reütilizacion d’una marca depausada',
+	'contactpage-license-request-username' => "Nom de l'utilizaire *",
+	'contactpage-license-request-relevantsite' => 'Site Wikimèdia associat (se existís)',
+	'contactpage-license-request-use-print' => 'Imprimir',
+	'contactpage-license-request-use-tv' => 'TV, filme o emission',
+	'contactpage-license-request-use-other' => 'Autre',
+	'contactpage-license-request-selectmark' => 'Seleccionar la marca',
+	'contactpage-wikimedia-trademark-globe' => 'Puzzle del glòb de Wikipèdia',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Mot-simbòl de Wikipèdia',
+	'contactpage-wikimedia-trademark-w' => '« W » estilizat',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Comunautat Wikimèdia',
+	'contactpage-title-licenseabuse' => 'Formulari de contacte per abús de drech d’autor',
+);
+
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'contactpage-title-requestlicense' => 'Контактная форма по использованию товарного знака',
+	'contactpage-pagetext-requestlicense' => 'Пожалуйста, используйте форму ниже для связи с нами по поводу вопросов о товарном знаке',
+	'contactpage-subject-requestlicense' => 'Запрос на использование товарного знака Викимедиа',
+	'contactpage-license-request-username' => 'Имя участника *',
+	'contactpage-license-request-relevantsite' => 'Соответствующий сайт Викимедиа (если есть)',
+	'contactpage-license-request-group' => 'Отделение Викимедиа, тематическая организация или группа пользователей и её название (если есть) *',
+	'contactpage-license-request-title' => 'Должность (если применимо)',
+	'contactpage-license-request-organization' => 'Организации (если применимо)',
+	'contactpage-license-request-organization-type' => 'Тип организации (если применимо)',
+	'contactpage-license-request-use-proposed' => 'Предлагаемое использование',
+	'contactpage-license-request-use-online' => 'Интернет (веб-сайт, электронная почта)',
+	'contactpage-license-request-use-book' => 'Книга, журнал',
+	'contactpage-license-request-use-print' => 'Печать',
+	'contactpage-license-request-use-tv' => 'Телевидение, кино или трансляция',
+	'contactpage-license-request-use-other' => 'Другое',
+	'contactpage-license-request-use-note' => '<strong>Примечание:</strong> если мы предоставим разрешение на использование товарного знака, мы можем внести об этом запись в публичный список авторизованных использований.',
+	'contactpage-license-request-description' => 'Описание использования',
+	'contactpage-license-request-selectmark' => 'Выберите знак',
+	'contactpage-wikimedia-trademark-globe' => 'Википедийных глобус с пазлом',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Текстовый товарный знак Википедии',
+	'contactpage-wikimedia-trademark-w' => 'Стилизованная «W»',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Сообщество Викимедиа',
+	'contactpage-title-licenseabuse' => 'Контактная форма по нарушению авторских прав',
+	'contactpage-pagetext-licenseabuse' => 'Пожалуйста, используйте форму ниже для связи с нами по поводу нарушений авторских прав',
+	'contactpage-subject-licenseabuse' => 'Уведомление о нарушении товарного знака Викимедии',
+	'contactpage-license-abuse-description' => 'Опишите нарушение',
+	'contactpage-license-abuse-selectmark' => 'Какой именно знак был использован с нарушением?',
+	'contactpage-license-abuse-location' => 'Место злоупотребления (в сети/вне сети)',
+	'contactpage-license-abuse-theircontact' => 'Контактная информация лица, нарушающего права на знак (если известна)',
+	'contactpage-license-abuse-yourcontact' => 'Ваша контактная информация (если можно связаться с вами)',
+);
+
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'contactpage-title-requestlicense' => 'Trademaurk reuiss contact form',
+	'contactpage-pagetext-requestlicense' => 'Please uise the form ablo tae contact us aneat Trademaurk things',
+	'contactpage-subject-requestlicense' => 'Wikimedia trademaurk reuiss request',
+	'contactpage-license-request-username' => 'Uisername *',
+	'contactpage-license-request-relevantsite' => 'Reelavant Wikimedia site (gif onie)',
+	'contactpage-license-request-group' => 'Wikimedia chaipter, themateec organization, or uiser gruip & title (gif onie) *',
+	'contactpage-license-request-title' => 'Title (gif appleecable)',
+	'contactpage-license-request-organization' => 'Organization (gif appleecable)',
+	'contactpage-license-request-organization-type' => 'Organization type (gif appleecable)',
+	'contactpage-license-request-use-proposed' => 'Proposed uiss',
+	'contactpage-license-request-use-online' => 'Oanline (wabsite, wab-mail)',
+	'contactpage-license-request-use-book' => 'Buik, pereeodeecal',
+	'contactpage-license-request-use-print' => 'Prent',
+	'contactpage-license-request-use-tv' => 'TV, movie or broadcast',
+	'contactpage-license-request-use-other' => 'Ither',
+	'contactpage-license-request-use-note' => "<strong>Mynd:</strong> gif we graunt ae trademaurk permeession, we can leet yer uise in ae publeec leet o permitit uiss's.",
+	'contactpage-license-request-description' => 'Descreeption o uissage',
+	'contactpage-license-request-selectmark' => 'Select maurk',
+	'contactpage-wikimedia-trademark-globe' => 'Wikipædia Puzzle Globe',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Wikipedia wairdmaurk',
+	'contactpage-wikimedia-trademark-w' => 'Stylized "W"',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Wikimedia Communitie',
+	'contactpage-title-licenseabuse' => 'Copiericht abuise contact form',
+	'contactpage-pagetext-licenseabuse' => 'Please uise the form ablo tae contact us aneat copiericht abuise things',
+	'contactpage-subject-licenseabuse' => 'Wikimedia trademaurk abuise annooncemant',
+	'contactpage-license-abuse-description' => 'Describe the abuise',
+	'contactpage-license-abuse-selectmark' => 'Whit maurk is abuised?',
+	'contactpage-license-abuse-location' => 'Location o the abiuss (oan/affline)',
+	'contactpage-license-abuse-theircontact' => 'Contact information o person abuisin the maurk (gif knawn)',
+	'contactpage-license-abuse-yourcontact' => 'Yer contact information (gif we can contact ye)',
+);
+
+/** Swedish (svenska)
+ * @author WikiPhoenix
+ */
+$messages['sv'] = array(
+	'contactpage-license-request-username' => 'Användarnamn *',
+	'contactpage-license-request-relevantsite' => 'Relevant Wikimedia-webbplats (om det finns någon)',
+	'contactpage-license-request-use-proposed' => 'Föreslagen användning',
+	'contactpage-license-request-use-online' => 'Online (webbplats, e-post)',
+	'contactpage-license-request-use-print' => 'Utskrift',
+	'contactpage-license-request-use-tv' => 'TV, film eller sändning',
+	'contactpage-license-request-use-other' => 'Annat',
+	'contactpage-license-request-description' => 'Användningsbeskrivning',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Wikimediagemenskap',
+	'contactpage-title-licenseabuse' => 'Kontaktformulär för upphovsrättsmissbruk',
+	'contactpage-pagetext-licenseabuse' => 'Var god använd formuläret nedan för att kontakta oss om upphovsrättsliga missbruk',
+	'contactpage-license-abuse-description' => 'Beskriv missbruket',
+	'contactpage-license-abuse-location' => 'Platsen för missbruk (online/offline)',
+	'contactpage-license-abuse-yourcontact' => 'Din kontaktinformation (om vi kanske kontaktar dig)',
+);
+
+/** Ukrainian (українська)
+ * @author Andriykopanytsia
+ */
+$messages['uk'] = array(
+	'contactpage-title-requestlicense' => 'Контактна форма використання товарного знака',
+	'contactpage-pagetext-requestlicense' => "Будь ласка, використовуйте форму нижче для зв'язку з нами стосовно питань про товарному знаку",
+	'contactpage-subject-requestlicense' => 'Запит на використання товарного знака Вікімедіа',
+	'contactpage-license-request-username' => "Ім'я користувача *",
+	'contactpage-license-request-relevantsite' => 'Відповідний сайт Вікімедіа (якщо наявний)',
+	'contactpage-license-request-group' => 'Відділення Вікімедіа, тематична організація або група користувачів і її назва (якщо є) *',
+	'contactpage-license-request-title' => 'Посада (якщо застосовно)',
+	'contactpage-license-request-organization' => 'Організації (якщо застосовно)',
+	'contactpage-license-request-organization-type' => 'Тип організації (якщо застосовно)',
+	'contactpage-license-request-use-proposed' => 'Запропоноване використання',
+	'contactpage-license-request-use-online' => 'Інтернет (веб-сайт, електронна пошта)',
+	'contactpage-license-request-use-book' => 'Книга, журнал',
+	'contactpage-license-request-use-print' => 'Друк',
+	'contactpage-license-request-use-tv' => 'Телебачення, кіно або трансляція',
+	'contactpage-license-request-use-other' => 'Інше',
+	'contactpage-license-request-use-note' => '<strong>Примітка:</strong> якщо ми надамо дозвіл на використання товарного знака, ми можемо зробити про це запис у публічний список авторизованих використань.',
+	'contactpage-license-request-description' => 'Опис використання',
+	'contactpage-license-request-selectmark' => 'Виберіть знак',
+	'contactpage-wikimedia-trademark-globe' => 'Вікіпедійний глобус з пазлом',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Текстовий товарний знак Вікіпедії',
+	'contactpage-wikimedia-trademark-w' => 'Стилізована "W"',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Співтовариство Вікімедіа',
+	'contactpage-title-licenseabuse' => 'Контактна форма із порушення авторських прав',
+	'contactpage-pagetext-licenseabuse' => "Будь ласка, використовуйте форму нижче для зв'язку з нами з приводу порушень авторських прав",
+	'contactpage-subject-licenseabuse' => 'Повідомлення про порушення товарного знака Вікімедії',
+	'contactpage-license-abuse-description' => 'Опишіть зловживання',
+	'contactpage-license-abuse-selectmark' => 'Який саме знак був використаний з порушенням?',
+	'contactpage-license-abuse-location' => 'Розташування зловживання (у мережі/поза мережею)',
+	'contactpage-license-abuse-theircontact' => 'Контактна інформація особи, що порушують права на знак (якщо відома)',
+	'contactpage-license-abuse-yourcontact' => "Ваші контактні дані (якщо ми можемо зв'язатися з вами)",
 );
 
 /** Simplified Chinese (中文（简体）‎)
