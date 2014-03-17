@@ -933,6 +933,7 @@ $messages['ay'] = array(
 
 /** Azerbaijani (azərbaycanca)
  * @author Cekli829
+ * @author Dağlı95
  * @author PPerviz
  * @author Vago
  * @author Vugar 1981
@@ -985,6 +986,7 @@ $messages['az'] = array(
 	'wm-license-information-other-versions' => 'Digər versiyalar',
 	'wm-license-original-upload-log' => 'Orijinal yükləmə gündəliyi',
 	'wm-license-own-work' => 'Yükləyənin öz işi',
+	'wm-license-pd-author-self-text' => "Mən, bu əsərin müəllif hüquqlarının sahibi kimi, əsəri '''[[{{int:wm-license-pd-wiki-link}}|ictimai mülkiyyətə]]''' verirəm. Bu icazə bütün dünyada qüvvədədir.",
 	'wm-license-pd-usgov-military-navy-wiki-link' => 'w:az:ABŞ hərbi donanması',
 	'wm-license-self-multiple-licenses-select' => 'İstədiyiniz lisenziyanı seçə bilərsiniz.',
 );

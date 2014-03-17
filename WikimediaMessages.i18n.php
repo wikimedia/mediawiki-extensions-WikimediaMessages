@@ -11182,6 +11182,10 @@ $messages['mr'] = array(
 
 अधिक माहितीसाठी हे बघा<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">वापरण्याच्या अटी</a>.',
 	'wikidata-copyright' => 'मुख्य व गुणधर्माच्या नामविश्वातील सर्व बांधणीकृत माहिती ही  <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">क्रियेटीव्ह कॉमन्स CC0 लायसन्स</a> या अंतर्गत उपलब्ध आहे;ईतर नामविश्वातील माहिती <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">क्रियेटीव्ह कॉमन्स अट्रीब्युशन/शेअर-अलाईक लायसन्स</a> या अंतर्गत उपलब्ध आहे;अतिरिक्त अटी लागु आहेत.अधिक माहितीसाठी हे बघा<a href="https://wikimediafoundation.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">वापरण्याच्या अटी</a>.',
+	'wikibase-sitelinks-wikisource' => 'या कलमास जोडलेली विकिस्रोतची पाने',
+	'wikibase-sitelinks-wikivoyage' => 'या कलमास जोडलेली विकिव्हॉयेजची पाने',
+	'wikibase-sitelinks-commons' => 'या कलमास जोडलेले विकिमिडिया कॉमन्सचे पान',
+	'wikibase-sitelinks-sitename-commonswiki' => 'कॉमन्स',
 	'cant-delete-main-page' => 'आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत',
 	'wikimedia-developers' => 'विकसक',
 	'wikimedia-flow-terms-of-use-new-topic' => '"{{int:flow-newtopic-save}}" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Terms_of_use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात.',
@@ -12331,6 +12335,7 @@ $messages['oc'] = array(
 	'grouppage-inactive' => '{{ns:project}}: Utilizaires inactius',
 	'wikimedia-copyright' => 'Los tèxtes son disponibles jos <a href="https://creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons atribucion pertatge a l’identica</a> ; d’autres tèrmes se pòdon aplicar. Vejatz los <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">tèrmes d’utilizacion</a> per mai de detalhs.',
 	'wikimedia-copyrightwarning' => 'En clicant sus « publicar », acceptatz de plaçar irrevocablament vòstra contribucion jos [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons atribucion pertatge a l’identica 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL]. Acceptatz d’èsser creditat al minimum via un iperligam o URL cap a l’article sul qual contribuissètz. Vejatz los [https://wikimediafoundation.org/wiki/Terms_of_Use tèrmes d’utilizacion] per mai de detalhs.', # Fuzzy
+	'wikimedia-developers' => 'Desvolopaires',
 );
 
 /** Oriya (ଓଡ଼ିଆ)
@@ -14649,7 +14654,7 @@ $messages['sco'] = array(
 	'group-inactive' => 'Inactive uisers',
 	'group-inactive-member' => '{{GENDER:$1|inactive uiser}}',
 	'wikimedia-flow-terms-of-use-new-topic' => 'Bi clapin oan "{{int:flow-newtopic-save}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms o Uise] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
-	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin oan "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms o Uise] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
+	'wikimedia-flow-terms-of-use-reply' => 'Bi clapin oan "{{int:flow-reply-submit}}", ye\'r agreein til oor [//wikimediafoundation.org/wiki/Terms_of_use Terms o Uiss] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]',
 );
 
 /** Sindhi (سنڌي)
