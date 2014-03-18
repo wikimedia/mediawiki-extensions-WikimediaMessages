@@ -578,6 +578,7 @@ $messages['mk'] = array(
 );
 
 /** Malayalam (മലയാളം)
+ * @author Manuspanicker
  * @author Praveenp
  */
 $messages['ml'] = array(
@@ -587,7 +588,7 @@ $messages['ml'] = array(
 	'contactpage-license-request-username' => 'ഉപയോക്തൃനാമം *',
 	'contactpage-license-request-relevantsite' => 'ബന്ധപ്പെട്ട വിക്കിമീഡിയ സൈറ്റ് (ഉണ്ടെങ്കിൽ)',
 	'contactpage-license-request-group' => 'വിക്കിമീഡിയ ചാപ്റ്റർ, അനുബന്ധ സംഘടന, ഉപയോക്തൃസംഘം ഒപ്പം തലക്കെട്ടും (ഉണ്ടെങ്കിൽ) *',
-	'contactpage-license-request-title' => 'ശീർഷകം (ബാധകമെങ്കിൽ)',
+	'contactpage-license-request-title' => 'തലക്കെട്ട് (ബാധകമെങ്കിൽ)',
 	'contactpage-license-request-organization' => 'സംഘടന (ബാധകമെങ്കിൽ)',
 	'contactpage-license-request-organization-type' => 'സംഘടനയുടെ സ്വഭാവം (ബാധകമെങ്കിൽ)',
 	'contactpage-license-request-use-proposed' => 'ഉദ്ദേശിക്കുന്ന ഉപയോഗം',
@@ -818,6 +819,42 @@ $messages['uk'] = array(
 	'contactpage-license-abuse-location' => 'Розташування зловживання (у мережі/поза мережею)',
 	'contactpage-license-abuse-theircontact' => 'Контактна інформація особи, що порушують права на знак (якщо відома)',
 	'contactpage-license-abuse-yourcontact' => "Ваші контактні дані (якщо ми можемо зв'язатися з вами)",
+);
+
+/** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
+ */
+$messages['vi'] = array(
+	'contactpage-title-requestlicense' => 'Biểu mẫu liên lạc về việc tái sử dụng thương hiệu',
+	'contactpage-pagetext-requestlicense' => 'Xin vui lòng điền biểu mẫu bên dưới để liên lạc với chúng tôi về các vấn đề thương hiệu.',
+	'contactpage-subject-requestlicense' => 'Yêu cầu tái sử dụng thương hiệu Wikimedia',
+	'contactpage-license-request-username' => 'Tên người dùng *',
+	'contactpage-license-request-relevantsite' => 'Trang Wikimedia có liên quan (nếu có)',
+	'contactpage-license-request-group' => 'Chi hội Wikimedia, tổ chức chủ đề, hoặc nhóm người dùng & tư cách (nếu có) *',
+	'contactpage-license-request-title' => 'Tư cách (nếu có)',
+	'contactpage-license-request-organization' => 'Tổ chức (nếu có)',
+	'contactpage-license-request-organization-type' => 'Kiểu tổ chức (nếu có)',
+	'contactpage-license-request-use-proposed' => 'Cách dùng được đề xuất',
+	'contactpage-license-request-use-online' => 'Trực tuyến (trang Web, thư điện tử)',
+	'contactpage-license-request-use-book' => 'Sách, báo chí',
+	'contactpage-license-request-use-print' => 'In',
+	'contactpage-license-request-use-tv' => 'TV, điện ảnh, hoặc truyền thông',
+	'contactpage-license-request-use-other' => 'Khác',
+	'contactpage-license-request-use-note' => '<strong>Lưu ý:</strong> Nếu chúng tôi cấp phép sử dụng thương hiệu, chúng tôi được phép đưa cách dùng của quý vị vào một danh sách công khai liệt kê mọi cách dùng được cho phép.',
+	'contactpage-license-request-description' => 'Miêu tả cách dùng',
+	'contactpage-license-request-selectmark' => 'Chọn thương hiệu',
+	'contactpage-wikimedia-trademark-globe' => 'Quả cầu ghép hình Wikipedia',
+	'contactpage-wikimedia-trademark-wikiwordmark' => 'Wordmark Wikipedia',
+	'contactpage-wikimedia-trademark-w' => 'Chữ “W” đặc biệt',
+	'contactpage-wikimedia-trademark-wikimedia' => 'Cộng đồng Wikimedia',
+	'contactpage-title-licenseabuse' => 'Biểu mẫu liên lạc về sự vi phạm bản quyền',
+	'contactpage-pagetext-licenseabuse' => 'Xin vui lòng điền biểu mẫu bên dưới để liên lạc với chúng tôi về các vấn đề vi phạm bản quyền.',
+	'contactpage-subject-licenseabuse' => 'Thông báo về sự vi phạm thương hiệu Wikimedia',
+	'contactpage-license-abuse-description' => 'Miêu tả sự lạm dụng',
+	'contactpage-license-abuse-selectmark' => 'Thương hiệu nào bị lạm dụng?',
+	'contactpage-license-abuse-location' => 'Lạm dụng ở đâu (trực/ngoại tuyến)?',
+	'contactpage-license-abuse-theircontact' => 'Thông tin để liên lạc với người lạm dụng thương hiệu (nếu biết)',
+	'contactpage-license-abuse-yourcontact' => 'Thông tin để liên lạc với quý vị (nếu cho phép chúng tôi liên lạc với quý vị)',
 );
 
 /** Simplified Chinese (中文（简体）‎)

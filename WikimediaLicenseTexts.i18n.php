@@ -2255,9 +2255,10 @@ Die Bedingungen der CeCILL-Lizenz sind verfügbar unter [{{int:wm-license-cecill
 	'wm-license-creator-work-location' => 'Wirkungsstätte',
 	'wm-license-creator-linkback' => 'Auf die Infoboxvorlage des Erstellers verlinken',
 	'wm-license-fal-text' => "Copyleft: Dieses Kunstwerk ist frei, es darf weitergegeben und/oder modifiziert werden entsprechend den Bedingungen der '''[[{{int:wm-license-fal-wiki-link}}|Lizenz Freie Kunst]].'''
-Der vollständige Text der Lizenz steht auf der [{{int:wm-license-fal-full-link}} „Copyleft Attitude“-Seite] sowie auf anderen Webseiten.",
+Der vollständige Text der Lizenz steht auf der [{{int:wm-license-fal-full-link}} „Copyleft Attitude“-Seite] sowie [{{int:wm-license-fal-full-link-commons}} auf anderen Webseiten].",
 	'wm-license-fal-wiki-link' => 'w:de:Lizenz Freie Kunst',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/de',
+	'wm-license-fal-full-link-commons' => 'https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3',
 	'wm-license-fsf-wiki-link' => 'w:de:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:de:Freie Software',
 	'wm-license-gfdl-1.2-and-later' => "Es ist erlaubt, die Datei unter den Bedingungen der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz für freie Dokumentation]],''' Version 1.2 oder einer späteren Version, veröffentlicht von der ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]],'' zu kopieren, zu verbreiten und/oder zu modifizieren; es gibt keine unveränderlichen Abschnitte, keinen vorderen und keinen hinteren Umschlagtext.
@@ -2860,7 +2861,7 @@ $messages['et'] = array(
 	'wm-license-creator-work-location' => 'Töökoht',
 	'wm-license-creator-linkback' => 'Link selle malli leheküljele',
 	'wm-license-fal-text' => 'See kunstiteos on vaba. Sa võid vastavalt [[{{int:wm-license-fal-wiki-link}}|Vaba Kunsti Litsentsis]] seatud tingimustele seda taaslevitada ja/või selle põhjal teisendeid luua.<br />
-Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin].',
+Vaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin].', # Fuzzy
 	'wm-license-fal-wiki-link' => 'w:et:Vaba Kunsti Litsents',
 	'wm-license-fsf-wiki-link' => 'w:et:Free Software Foundation',
 	'wm-license-free-software-wiki-link' => 'w:et:Vaba tarkvara',
@@ -6245,9 +6246,10 @@ $messages['mk'] = array(
 	'wm-license-creator-work-period' => 'Период на дејност',
 	'wm-license-creator-work-location' => 'Место на дејност',
 	'wm-license-creator-linkback' => 'Кон инфокутијата',
-	'wm-license-fal-text' => "Копилефт: Ова уметничко дело е слободно; можете да го распространувате и/или менувате под условите на '''[[{{int:wm-license-fal-wiki-link}}|Лиценцата за слободни уметнички дела]]'''. Примерок на лиценцата ќе најдете на страницата [{{int:wm-license-fal-full-link}} Copyleft Attitude] како и на други мрежни места.",
+	'wm-license-fal-text' => "Копилефт: Ова уметничко дело е слободно; можете да го распространувате и/или менувате под условите на '''[[{{int:wm-license-fal-wiki-link}}|Лиценцата за слободни уметнички дела]]'''. Примерок на лиценцата ќе најдете на страницата [{{int:wm-license-fal-full-link}} Copyleft Attitude] како и на [{{int:wm-license-fal-full-link-commons}} други мрежни места].",
 	'wm-license-fal-wiki-link' => 'w:mk:Лиценца за слободна уметност',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
+	'wm-license-fal-full-link-commons' => 'https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3?uselang=mk',
 	'wm-license-fsf-wiki-link' => 'w:mk:Фондација за слободна програмска опрема',
 	'wm-license-free-software-wiki-link' => 'w:mk:Слободна програмска опрема',
 	'wm-license-gfdl-1.2-and-later' => "Се дава дозвола за умножување, распространување и/или менување на овој документ под условите на '''[[{{int:wm-license-gfdl-wiki-link}}|ГНУ-овата лиценца за слободна документација]]''', само Верзија 1.2 или било која понова верзија објавена од [[{{int:wm-license-fsf-wiki-link}}|Фондацијата за слободна програмска опрема]]; без неменливи делови и без текстови на предни и задни корици. Примерок од лиценцата ќе најдете во делот наречен ''[[{{int:wm-license-gfdl-full-1.2-link}}|ГНУ-ова лиценца за слободна докуменација]]''.",
@@ -8785,7 +8787,7 @@ $messages['sl'] = array(
 	'wm-license-creator-work-period' => 'Obdobje ustvarjanja',
 	'wm-license-creator-work-location' => 'Kraj ustvarjanja',
 	'wm-license-creator-linkback' => 'Poveži nazaj na predlogo infopolja Ustvarjalec',
-	'wm-license-fal-text' => "Copyleft: To delo je brezplačno; lahko ga razširjate in/ali spreminjate v skladu s pogoji '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Kopijo dovoljenja najdete na [{{int:wm-license-fal-full-link}} strani Copyleft Attitude], kakor tudi na drugih straneh.",
+	'wm-license-fal-text' => "Copyleft: To delo je brezplačno; lahko ga razširjate in/ali spreminjate v skladu s pogoji '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Kopijo dovoljenja najdete na [{{int:wm-license-fal-full-link}} strani Copyleft Attitude], kakor tudi [{{int:wm-license-fal-full-link-commons}} na drugih straneh].",
 	'wm-license-free-software-wiki-link' => 'w:sl:Prosto programje',
 	'wm-license-gfdl-1.2-and-later' => "To gradivo je dovoljeno kopirati, razširjati in/ali spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Licence GNU za rabo proste dokumentacije]]''', različica 1.2 ali katera koli poznejša, ki jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil. Kopija licence je vključena v razdelek ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licenca GNU za rabo proste dokumentacije]]''.",
 	'wm-license-gfdl-1.2-only' => "To gradivo je dovoljeno kopirati, razširjati in/ali spreminjati pod pogoji '''[[{{int:wm-license-gfdl-wiki-link}}|Licence GNU za rabo proste dokumentacije]]''', različica 1.2, samo kot jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; brez nespremenljivih delov ter spredaj ali zadaj prekrivajočih besedil. Kopija licence je vključena v razdelek ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licenca GNU za rabo proste dokumentacije]]''.",
