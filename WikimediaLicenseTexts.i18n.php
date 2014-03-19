@@ -218,9 +218,16 @@ Refers to:
 
 Refers to:
 * {{msg-mw|Wm-license-fal-wiki-link}}
-* {{msg-mw|Wm-license-fal-full-link}}',
-	'wm-license-fal-wiki-link' => '{{optional}}',
-	'wm-license-fal-full-link' => '{{optional}}',
+* {{msg-mw|Wm-license-fal-full-link}}
+* {{msg-mw|Wm-license-fal-full-link-commons}}',
+	'wm-license-fal-wiki-link' => '{{optional}}
+Used in:
+* {{msg-mw|Wm-license-fal-text}}',
+	'wm-license-fal-full-link' => '{{optional}}
+Used in:
+* {{msg-mw|Wm-license-fal-text}}',
+	'wm-license-fal-full-link-commons' => 'Used in:
+* {{msg-mw|Wm-license-fal-text}}',
 	'wm-license-fsf-wiki-link' => '{{optional}}
 Link to the Wikipedia article about the [[Wikipedia:Free Software Foundation|Free Software Foundation]].',
 	'wm-license-free-software-wiki-link' => '{{optional}}
@@ -871,7 +878,7 @@ $messages['ast'] = array(
 	'wm-license-creator-work-period' => 'Periodu de trabayu',
 	'wm-license-creator-work-location' => 'Llugar de trabayu',
 	'wm-license-creator-linkback' => "Enllaz de vuelta a la plantía de ficha d'información Creador",
-	'wm-license-fal-text' => "Copyleft: esta obra d'arte ye llibre; pues redistribuila y/o camudala según les condiciones de la '''[[{{int:wm-license-fal-wiki-link}}|Llicencia d'Arte Llibre]]'''. Alcontrarás una copia d'esta llicencia na [{{int:wm-license-fal-full-link}} páxina Copyleft Attitude], igual que n'otros llugares de la rede.",
+	'wm-license-fal-text' => "Copyleft: esta obra d'arte ye llibre; pue redistribuíla y/o camudala según les condiciones de la '''[[{{int:wm-license-fal-wiki-link}}|Llicencia d'Arte Llibre]]'''. Alcontrará una copia d'esta llicencia na [{{int:wm-license-fal-full-link}} páxina Copyleft Attitude], igual que [{{int:wm-license-fal-full-link-commons}} n'otros llugares de la rede].",
 	'wm-license-fsf-wiki-link' => 'w:ast:Fundación del Software Llibre',
 	'wm-license-free-software-wiki-link' => 'w:ast:Software llibre',
 	'wm-license-gfdl-1.2-and-later' => "Autorízase la copia, distribución y/o cambéu d'esti documentu baxo los términos de la '''[[{{int:wm-license-gfdl-wiki-link}}|Llicencia de documentación llibre GNU]]''', versión 1.2 o cualesquier otra que nel futuru espublice la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ensin seiciones invariables, testos de portada, nin testos de contraportada. S'inclúi una copia de la llicencia na seición titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
@@ -3279,8 +3286,7 @@ Le texte de cette licence est consultable sur [{{int:wm-license-cecill-full-link
 	'wm-license-creator-work-period' => 'Période d’activité',
 	'wm-license-creator-work-location' => 'Lieu de travail',
 	'wm-license-creator-linkback' => 'Rétrolien vers l’infobox du créateur',
-	'wm-license-fal-text' => "Copyleft : cette œuvre est libre, vous pouvez la redistribuer ou la modifier selon les termes de la '''[[{{int:wm-license-fal-wiki-link}}|Licence Art Libre]]'''.
-Vous trouverez un exemplaire de cette Licence sur le [{{int:wm-license-fal-full-link}} site Copyleft Attitude] ainsi que sur d’autres sites.",
+	'wm-license-fal-text' => "Copyleft : cette œuvre d’art est libre ; vous pouvez la redistribuer ou la modifier selon les termes de la '''[[{{int:wm-license-fal-wiki-link}}|licence Art Libre]]'''. Vous trouverez un exemplaire de cette licence sur le [{{int:wm-license-fal-full-link}} site Copyleft Attitude] ainsi que [{{int:wm-license-fal-full-link-commons}} sur d’autres sites].",
 	'wm-license-fal-wiki-link' => 'w:fr:Licence Art Libre',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal',
 	'wm-license-fsf-wiki-link' => 'w:fr:Free Software Foundation',
@@ -3933,6 +3939,7 @@ $messages['hak'] = array(
  * @author Multichill
  * @author Rotemliss
  * @author YaronSh
+ * @author Yona b
  * @author ערן
  */
 $messages['he'] = array(
@@ -3976,7 +3983,7 @@ $messages['he'] = array(
 	'wm-license-creator-work-period' => 'פעל בתקופה',
 	'wm-license-creator-work-location' => 'פעל ב',
 	'wm-license-creator-linkback' => 'קישור בחזרה לתבנית תיבת מידע של יוצר',
-	'wm-license-fal-text' => "יוצרים זכויות (copyleft): יצירת האמנות הזאת חופשית; מותר לך להפיץ אותה או לשנות לפי תנאי '''[[{{int:wm-license-fal-wiki-link}}|רישיון אמנות חופשית]]''' (Free Art License). אפשר למצוא עותק של הרישיון הזה באתר [{{int:wm-license-fal-full-link}} Copyleft Attitude] ובאתרים אחרים.",
+	'wm-license-fal-text' => "יוצרים זכויות (copyleft): יצירת האמנות הזאת חופשית; מותר לך להפיץ אותה או לשנות לפי תנאי '''[[{{int:wm-license-fal-wiki-link}}|רישיון אמנות חופשית]]''' (Free Art License). אפשר למצוא עותק של הרישיון הזה באתר [{{int:wm-license-fal-full-link}} Copyleft Attitude] כמו גם ב[{{int:wm-license-fal-full-link-commons}} אתרים אחרים].",
 	'wm-license-fsf-wiki-link' => 'w:he:המוסד לתוכנה חופשית',
 	'wm-license-free-software-wiki-link' => 'w:he:תוכנה חופשית',
 	'wm-license-gfdl-1.2-and-later' => "מוענקת בכך הרשות להעתיק, להפיץ או לשנות את המסמך הזה, לפי תנאי '''[[{{int:wm-license-gfdl-wiki-link}}|הרישיון לשימוש חופשי במסמכים של גנו]]''', גרסה 1.2 או כל גרסה מאוחרת יותר שתפורסם על ידי [[{{int:wm-license-fsf-wiki-link}}|המוסד לתוכנה חופשית]]; ללא סעיפים קבועים, ללא פסקאות עטיפה קדמית וללא פסקאות עטיפה אחורית. עותק של הרישיון כלול בפרק שכותרתו ''[[{{int:wm-license-gfdl-full-1.2-link}}|הרישיון לשימוש חופשי במסמכים של גנו]]''.",
@@ -4859,7 +4866,7 @@ $messages['it'] = array(
 	'wm-license-creator-work-period' => 'Periodo di attività',
 	'wm-license-creator-work-location' => 'Luogo di attività',
 	'wm-license-creator-linkback' => 'Rimanda al template sinottico del creatore',
-	'wm-license-fal-text' => "Copyleft: quest'opera d'arte è libera; puoi ridistribuirla e/o modificarla secondo i termini della '''[[{{int:wm-license-fal-wiki-link}}|Licenza Arte Libera]]'''. Troverai una copia di questa licenza sul [{{int:wm-license-fal-full-link}} sito web della Copyleft Attitude] così come su altri siti.",
+	'wm-license-fal-text' => "Copyleft: quest'opera d'arte è libera; puoi ridistribuirla e/o modificarla secondo i termini della '''[[{{int:wm-license-fal-wiki-link}}|Licenza Arte Libera]]'''. Troverai una copia di questa licenza sul [{{int:wm-license-fal-full-link}} sito web della Copyleft Attitude] così come [{{int:wm-license-fal-full-link-commons}} su altri siti].",
 	'wm-license-fal-wiki-link' => 'w:it:Licence Art Libre',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/it',
 	'wm-license-fsf-wiki-link' => 'w:it:Free Software Foundation',
@@ -4972,8 +4979,9 @@ $messages['ja'] = array(
 	'wm-license-creator-work-period' => '活動年代',
 	'wm-license-creator-work-location' => '活動拠点',
 	'wm-license-creator-linkback' => '創作者基礎情報テンプレートに戻るリンク',
-	'wm-license-fal-text' => "コピーレフト: この芸術作品はフリーです。あなたは、'''[[{{int:wm-license-fal-wiki-link}}|自由芸術ライセンス]]'''の規約に従うことで、再配布や改変が可能です。このライセンスの見本は、[{{int:wm-license-fal-full-link}} Copyleft Attitude] または他のウェブサイトで見ることができます。",
+	'wm-license-fal-text' => "コピーレフト: この芸術作品はフリーです。あなたは、'''[[{{int:wm-license-fal-wiki-link}}|自由芸術ライセンス]]'''の規約に従うことで、再配布や改変が可能です。このライセンスの見本は、[{{int:wm-license-fal-full-link}} Copyleft Attitude] または[{{int:wm-license-fal-full-link-commons}} 他のウェブサイトで]見ることができます。",
 	'wm-license-fal-wiki-link' => 'w:ja:自由芸術ライセンス',
+	'wm-license-fal-full-link-commons' => 'https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3',
 	'wm-license-fsf-wiki-link' => 'w:ja:フリーソフトウェア財団',
 	'wm-license-free-software-wiki-link' => 'w:ja:フリーソフトウェア',
 	'wm-license-gfdl-1.2-and-later' => "この文書は、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]発行の'''[[{{int:wm-license-gfdl-wiki-link}}|GNUフリー文書利用許諾書]] (GNU Free Documentation License)''' 1.2またはそれ以降のバージョンの規約に基づき、複製や再配布、改変が許可されます。不可変更部分、表紙、背表紙はありません。このライセンスの複製は、''[[{{int:wm-license-gfdl-full-1.2-link}}|GNUフリー文書利用許諾書]]''という章に含まれています。",
@@ -8132,6 +8140,7 @@ $messages['roa-tara'] = array(
  * @author Lockal
  * @author MaxSem
  * @author Multichill
+ * @author Okras
  * @author Rubin
  * @author TarzanASG
  * @author Александр Сигачёв
@@ -8181,8 +8190,7 @@ $messages['ru'] = array(
 	'wm-license-creator-work-period' => 'Годы творчества',
 	'wm-license-creator-work-location' => 'Место творчества',
 	'wm-license-creator-linkback' => 'Обратная ссылка на шаблонную карточку автора',
-	'wm-license-fal-text' => "Копилефт. Это свободное произведение искусства; вы можете распространять и/или изменять его в соответствии с условиями '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''.
-Условия этой лицензии можно найти на сайте [{{int:wm-license-fal-full-link}} Copyleft Attitude], а также на других сайтах.",
+	'wm-license-fal-text' => "Копилефт: Это свободное произведение искусства; вы можете распространять и/или изменять его в соответствии с условиями '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Условия этой лицензии можно найти на сайте [{{int:wm-license-fal-full-link}} Copyleft Attitude], а также [{{int:wm-license-fal-full-link-commons}} на других сайтах].",
 	'wm-license-fal-wiki-link' => 'w:ru:Лицензия Free Art',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
 	'wm-license-fsf-wiki-link' => 'w:ru:Фонд свободного программного обеспечения',
@@ -8519,8 +8527,10 @@ $messages['scn'] = array(
 );
 
 /** Scots (Scots)
+ * @author John Reid
  */
 $messages['sco'] = array(
+	'wm-license-fal-text' => "Copyleft: This wairk o airt is free; ye can redistreebute it n/or modifie it accordin til the terms o the '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ye'll fynd ae specimen o this license oan the [{{int:wm-license-fal-full-link}} Copyleft Attitude steid] aes weel aes [{{int:wm-license-fal-full-link-commons}} oan ither steids].",
 	'wm-license-gfdl-wiki-link' => 'w:sco:GFDL',
 	'wm-license-information-source' => 'Soorce',
 );
@@ -9958,6 +9968,7 @@ $messages['ug-arab'] = array(
  * @author AS
  * @author Ahonc
  * @author Aleksandrit
+ * @author Andriykopanytsia
  * @author Arturyatsko
  * @author AtUkr
  * @author Diebuche
@@ -10013,8 +10024,7 @@ $messages['uk'] = array(
 	'wm-license-creator-work-period' => 'Роки творчості',
 	'wm-license-creator-work-location' => 'Місце творчості',
 	'wm-license-creator-linkback' => 'Посилання на шаблонну картку автора',
-	'wm-license-fal-text' => "Копілефт (Copyleft): Цей твір мистецтва вільний, і Ви можете розповсюджувати та/або модифікувати його згідно з умовами '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''.
-Ви можете знайти умови цієї ліцензії на сайті [{{int:wm-license-fal-full-link}} Copyleft Attitude site], а також на інших сайтах.",
+	'wm-license-fal-text' => 'Копілефт: Це вільний твір мистецтва; ви можете розповсюджувати та/або модифікувати його згідно з умовами "\'[[{{int:wm-license-fal-wiki-link}}|Free Art License]]"\'. Можете знайти умови цієї ліцензії на сайті [{{int:wm-license-fal-full-link}} Copyleft Attitude], а також [{{int:wm-license-fal-full-link-commons}} на інших сайтах].',
 	'wm-license-fal-wiki-link' => 'w:en:Free Art license',
 	'wm-license-fal-full-link' => 'http://artlibre.org/licence/lal/en',
 	'wm-license-fsf-wiki-link' => 'w:uk:Фонд вільного програмного забезпечення',
@@ -10286,7 +10296,7 @@ $messages['vi'] = array(
 	'wm-license-creator-work-period' => 'Giai đoạn sáng tác',
 	'wm-license-creator-work-location' => 'Nơi sáng tác',
 	'wm-license-creator-linkback' => 'Liên kết đến bản mẫu hộp thông tin Creator',
-	'wm-license-fal-text' => "Copyleft: Công trình nghệ thuật này là miễn phí; bạn được tự do tái phân phối và/hoặc sửa đổi nó dưới những điều kiện của '''[[{{int:wm-license-fal-wiki-link}}|Giấy phép Nghệ thuật Tự do]]'''. Có thể đọc nguyên văn giấy phép này tại [{{int:wm-license-fal-full-link}} trang Copyleft Attitude] và những trang khác.",
+	'wm-license-fal-text' => "Copyleft: Công trình nghệ thuật này là miễn phí; bạn được tự do tái phân phối và/hoặc sửa đổi nó dưới những điều kiện của '''[[{{int:wm-license-fal-wiki-link}}|Giấy phép Nghệ thuật Tự do]]'''. Có thể đọc nguyên văn giấy phép này tại [{{int:wm-license-fal-full-link}} trang Copyleft Attitude] và [{{int:wm-license-fal-full-link-commons}} những trang khác].",
 	'wm-license-fsf-wiki-link' => 'w:vi:Quỹ Phần mềm Tự do',
 	'wm-license-free-software-wiki-link' => 'w:vi:Phần mềm tự do',
 	'wm-license-gfdl-1.2-and-later' => "Bạn có quyền sao chép, sử dụng và/hoặc sửa đổi Tài liệu này theo những điều khoản được quy định trong '''[[{{int:wm-license-gfdl-wiki-link}}|Giấy phép Tài liệu Tự do GNU]]''', phiên bản 1.2 hoặc các phiên bản mới hơn được [[{{int:wm-license-fsf-wiki-link}}|Quỹ Phần mềm Tự do]] quy định; ngoại trừ những phần không được sửa đổi, bìa trước và bìa sau. Bạn có thể xem giấy phép nói trên ở phần “[[{{int:wm-license-gfdl-full-1.2-link}}|Giấy phép Tài liệu Tự do GNU]]”.",
@@ -10680,7 +10690,7 @@ $messages['zh-hans'] = array(
 	'wm-license-creator-work-period' => '工作时期',
 	'wm-license-creator-work-location' => '工作地点',
 	'wm-license-creator-linkback' => '查看该创作者的信息框模板',
-	'wm-license-fal-text' => "非营利著作权：本艺术作品是自由的，你可以依据'''[[{{int:wm-license-fal-wiki-link}}|自由艺术作品授权协议]]'''的条款传播和/或修改本艺术作品。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude网站]或其他网站找到该协议的样本。",
+	'wm-license-fal-text' => "著佐权：本艺术作品是自由的；您可依据'''[[{{int:wm-license-fal-wiki-link}}|自由艺术作品授权协议]]'''的条款传播和/或修改本艺术作品。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude网站]或[{{int:wm-license-fal-full-link-commons}} 其他网站]找到该协议的样本。",
 	'wm-license-fsf-wiki-link' => 'w:zh:自由软件基金会',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由软件',
 	'wm-license-gfdl-1.2-and-later' => "你已被授权依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的无固定段落及封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）的'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授权协议]]'''1.2版或任意后续版本的条款，复制、传播和/或修改本文件。该协议的副本请见“[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]”。",
@@ -10732,6 +10742,7 @@ $messages['zh-hans'] = array(
  * @author Frankou
  * @author Horacewai2
  * @author Liangent
+ * @author Liuxinyu970226
  * @author Mark85296341
  * @author Multichill
  * @author Waihorace
@@ -10777,7 +10788,7 @@ $messages['zh-hant'] = array(
 	'wm-license-creator-work-period' => '作品年代',
 	'wm-license-creator-work-location' => '創作地點',
 	'wm-license-creator-linkback' => '連結回建立者主資訊框模板',
-	'wm-license-fal-text' => "Copyleft：本藝術作品是自由的。你可據'''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''（自由藝術授權協議）的條款再發行和/或修改它。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude 網站]或其他網站找到該協議的樣本。",
+	'wm-license-fal-text' => "Copyleft：本藝術作品是自由的。你可據'''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''（自由藝術授權協議）的條款再發行和/或修改它。你可以在[{{int:wm-license-fal-full-link}} Copyleft Attitude 網站]或[{{int:wm-license-fal-full-link-commons}} 其他網站]找到該協議的樣本。",
 	'wm-license-fsf-wiki-link' => 'w:zh:自由軟件基金會',
 	'wm-license-free-software-wiki-link' => 'w:zh:自由軟件',
 	'wm-license-gfdl-1.2-and-later' => "你被授權遵循[[{{int:wm-license-fsf-wiki-link}}|自由軟體基金會]]發行的無固定段落、封面文字和封底文字的 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權協議]]''' 1.2 版或任一後續版本條款，複製、分發和/或修改本檔案。協議副本包含在題為「[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]」的部分中。",
