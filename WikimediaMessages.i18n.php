@@ -593,19 +593,19 @@ Refers to {{msg-mw|Savearticle}}.
 	'wikibase-repo-name' => 'Site name of Wikibase repository that the Wikibase Clients are connected to.  Used in "WBREPONAME" magic word in the client in messages that refer to it, so to be more clear to end users than saying "Wikibase" in the user interface.  For example, instead of "Wikibase item changed" as a summary in recent changes, it can say "Wikidata item changed" or "Show Wikidata edits in your watchlist"',
 	'wikibase-sitelinks-wikiquote' => 'Section heading on Wikidata item page for Wikiquote site links.
 {{Related|Wikibase-sitelinks}}',
-'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links.
+	'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links.
 {{Related|Wikibase-sitelinks}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links.
 {{Related|Wikibase-sitelinks}}',
 	'wikibase-sitelinks-commons' => 'Section heading on Wikidata item page for Wikimedia Commons site links.
 {{Related|Wikibase-sitelinks}}',
-	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
-{{Identical|Common}}',
 	'wikibase-otherprojects-commons' => 'Label for Wikimedia Commons, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
 	'wikibase-otherprojects-wikiquote' => 'Label for Wikiquote, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
 	'wikibase-otherprojects-wikipedia' => 'Label for Wikipedia, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikivoyage).',
 	'wikibase-otherprojects-wikisource' => 'Label for Wikisource, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
 	'wikibase-otherprojects-wikivoyage' => 'Label for Wikivoyage, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
+	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
+{{Identical|Common}}',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',

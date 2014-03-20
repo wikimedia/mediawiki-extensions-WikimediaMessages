@@ -8572,6 +8572,7 @@ $messages['sh'] = array(
  * @author Budhajeewa
  * @author Calcey
  * @author Pasanbhathiya2
+ * @author Sahan.ssw
  * @author Singhalawap
  * @author Thameera123
  * @author චතුනි අලහප්පෙරුම
@@ -8620,7 +8621,7 @@ $messages['si'] = array(
 	'wm-license-creator-work-period' => 'ක්‍රියාකාරී කාල සීමාව',
 	'wm-license-creator-work-location' => 'කාර්ය ස්ථානය',
 	'wm-license-creator-linkback' => 'Link back to Creator infobox template',
-	'wm-license-fal-text' => "ප්‍රතිරූපණ හිමිකම් ප්‍රතික්‍ෂේපිතයි: මෙම කලා නිර්මාණය නිදහස්ය; ඔබට එය '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' හි කොන්දේසිවලට යටත්ව නැවත බෙදාහැරීම සහ/හෝ වෙනස් කිරීම කළ හැක. ඔබට මෙම බලපත්‍රයේ පිටපතක් [{{int:wm-license-fal-full-link}} Copyleft Attitude site] හිදී මෙන්ම වෙනත් තැන් හිදීද දැකගත හැක.",
+	'wm-license-fal-text' => "ප්‍රතිරූපණ හිමිකම් ප්‍රතික්‍ෂේපිතයි: මෙම කලා නිර්මාණය නිදහස්ය; ඔබට එය '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' හි කොන්දේසිවලට යටත්ව නැවත බෙදාහැරීම සහ/හෝ වෙනස් කිරීම කළ හැක. ඔබට මෙම බලපත්‍රයේ පිටපතක් [{{int:wm-license-fal-full-link-commons}} Copyleft Attitude sites] හිදී මෙන්ම වෙනත් තැන් හිදීද දැකගත හැක.",
 	'wm-license-fsf-wiki-link' => 'w:si:නිදහස් මෘදුකාංග පදනම',
 	'wm-license-free-software-wiki-link' => 'w:si:නිදහස් මෘදුකාංග',
 	'wm-license-gfdl-1.2-and-later' => "[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] විසින් ප්‍රකාශිත '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' බලපත්‍රයෙහි 1.2 හෝ ඊට අලුත් පිටපත්වල කොන්දේසිවලට යටත්ව මෙම ගොනුව පිටපත් කෙරුමට, නැවත බෙදාහාරුමට සහ/හෝ වෙනස් කෙරුමට අවසර දී ඇත; ඒ වෙනස් අංශ නොමැතිව, මුල් පිටු පෙළ නොමැතිව, පසු පිටු පෙළ නොමැතිවය. බලපත්‍රයේ පිටපතක් ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' නම් අංශයේ දැක්වේ.",
