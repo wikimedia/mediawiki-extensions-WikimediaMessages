@@ -253,9 +253,16 @@ You agree that a hyperlink or URL is sufficient attribution under the Creative C
 	'wikimedia-mobile-photo-copyrightwarning' => 'By uploading this image, you agree to our [https://wikimediafoundation.org/wiki/Terms_of_use Terms of Use] and agree to release your image under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0 License].',
 
 	# Wikidata-specific messages
+	'wikibase-repo-name' => 'Wikidata',
+	'wikibase-sitelinks-wikiquote' => 'Wikiquote pages linked to this item',
 	'wikibase-sitelinks-wikisource' => 'Wikisource pages linked to this item',
 	'wikibase-sitelinks-wikivoyage' => 'Wikivoyage pages linked to this item',
 	'wikibase-sitelinks-commons' => 'Wikimedia Commons page linked to this item',
+	'wikibase-otherprojects-commons' => 'Wikimedia Commons',
+	'wikibase-otherprojects-wikiquote' => 'Wikiquote',
+	'wikibase-otherprojects-wikipedia' => 'Wikipedia',
+	'wikibase-otherprojects-wikisource' => 'Wikisource',
+	'wikibase-otherprojects-wikivoyage' => 'Wikivoyage',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Commons',
 
 	# Custom message for enwiki to stop from deleting the mainpage
@@ -583,7 +590,10 @@ Refers to {{msg-mw|Savearticle}}.
 {{Identical/Wikimedia-licensing}}',
 	'wikimedia-mobile-copyrightwarning' => 'Editor copyright warning shown on mobile devices. Shorter version of {{msg-mw|wikimedia-copyrightwarning}}.',
 	'wikimedia-mobile-photo-copyrightwarning' => 'Media upload copyright warning shown on mobile devices.',
-	'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links.
+	'wikibase-repo-name' => 'Site name of Wikibase repository that the Wikibase Clients are connected to.  Used in "WBREPONAME" magic word in the client in messages that refer to it, so to be more clear to end users than saying "Wikibase" in the user interface.  For example, instead of "Wikibase item changed" as a summary in recent changes, it can say "Wikidata item changed" or "Show Wikidata edits in your watchlist"',
+	'wikibase-sitelinks-wikiquote' => 'Section heading on Wikidata item page for Wikiquote site links.
+{{Related|Wikibase-sitelinks}}',
+'wikibase-sitelinks-wikisource' => 'Section heading on Wikidata item page for Wikisource site links.
 {{Related|Wikibase-sitelinks}}',
 	'wikibase-sitelinks-wikivoyage' => 'Section heading on Wikidata item page for Wikivoyage site links.
 {{Related|Wikibase-sitelinks}}',
@@ -591,6 +601,11 @@ Refers to {{msg-mw|Savearticle}}.
 {{Related|Wikibase-sitelinks}}',
 	'wikibase-sitelinks-sitename-commonswiki' => 'Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.
 {{Identical|Common}}',
+	'wikibase-otherprojects-commons' => 'Label for Wikimedia Commons, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
+	'wikibase-otherprojects-wikiquote' => 'Label for Wikiquote, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
+	'wikibase-otherprojects-wikipedia' => 'Label for Wikipedia, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikivoyage).',
+	'wikibase-otherprojects-wikisource' => 'Label for Wikisource, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
+	'wikibase-otherprojects-wikivoyage' => 'Label for Wikivoyage, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).',
 	'wikimedia-translationnotifications-signup-legal' => 'Legal text about the notifications sent to translators.',
 	'upload-more-photos-of-this-monument' => 'This message is addded by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.',
 	'extdist-branch-master' => 'Message used for an extensions git master version; the latest development version',
