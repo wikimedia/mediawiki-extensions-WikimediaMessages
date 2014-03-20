@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dakrismeno"
+        ]
+    },
+    "wikimediamessages-desc": "Messagg specifegh de Wikimedia",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=lmo",
+    "sitesupport": "Dunazión",
+    "tooltip-n-sitesupport": "Dàss una man",
+    "group-abusefilter": "Mudificadur di filter anti-abüs",
+    "group-accountcreator": "Creadur di cünt",
+    "group-arbcom": "Member del cumitaa d'arbitragg",
+    "group-autopatrolled": "Autopatrollers",
+    "group-autoreviewer": "Revisur autumategh",
+    "group-bigexport": "Gran espurtadur",
+    "group-confirmed": "Druvadur cunfermaa",
+    "group-flood": "Druvadur de Bot",
+    "group-founder": "Fundadur",
+    "group-import": "Impurtadur",
+    "group-ipblock-exempt": "Esenzión dal bloch de l'IP",
+    "group-patroller": "Gent de rónda"
+}

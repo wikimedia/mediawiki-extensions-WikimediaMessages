@@ -1,0 +1,22 @@
+{
+    "@metadata": {
+        "authors": [
+            "Castelobranco",
+            "Horacewai2",
+            "Petrus Adamus",
+            "Waihorace"
+        ]
+    },
+    "wikimedialicensetexts-desc": "維基媒體版權信息",
+    "wm-license-attribution-with-author-text": "我，$1，呢個檔案嘅版權持有者，歡迎任何人係任何目的之下用呢幅圖。你可以改作、甚至用係商業用途都可以。",
+    "wm-license-attribution-without-author-text": "版權持有者同意你係任何目的之下用呢個檔案。你可以作商業用途、改變呢個作品都可以。",
+    "wm-license-information-description": "描述",
+    "wm-license-information-source": "來源",
+    "wm-license-information-source-missing-request": "請改呢個檔案嘅描述同埋提供一個來源。",
+    "wm-license-information-date": "日期",
+    "wm-license-information-author": "作者",
+    "wm-license-information-permission": "許可",
+    "wm-license-information-permission-reusing-text": "重用呢個檔案",
+    "wm-license-own-work": "自己作品",
+    "wm-license-self-one-license": "我，呢份作品嘅作者，決定用以下許可發佈呢件作品："
+}

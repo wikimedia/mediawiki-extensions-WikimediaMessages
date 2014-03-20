@@ -1,0 +1,19 @@
+{
+    "@metadata": {
+        "authors": [
+            "Xqt"
+        ]
+    },
+    "group-flood": "Waddefresser",
+    "group-flood-member": "{{GENDER:$1|Yuuser vun em Waddefresser}}",
+    "grouppage-flood": "{{ns:project}}:Waddefresser",
+    "group-founder": "Grinder",
+    "group-founder-member": "{{GENDER:$1|Grinder}}",
+    "grouppage-founder": "{{ns:project}}:Grinder",
+    "group-Global_bot": "Globale Bots",
+    "group-Global_bot-member": "{{GENDER:$1|Globaler Waddefresser}}",
+    "group-steward": "Stewards",
+    "group-steward-member": "{{GENDER:$1|Steward}}",
+    "group-sysadmin": "System-Verwalter",
+    "group-sysadmin-member": "{{GENDER:$1|System-Verwalter}}"
+}

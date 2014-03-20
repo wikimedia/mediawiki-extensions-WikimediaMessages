@@ -1,0 +1,19 @@
+{
+    "@metadata": {
+        "authors": [
+            "Enock4seth",
+            "Natsubee"
+        ]
+    },
+    "wikimediamessages-desc": "Wikimedia duwo ko",
+    "sitesupport": "Wɔ nunana",
+    "tooltip-n-sitesupport": "Kpe ɖe mía ŋu",
+    "group-accountcreator": "Ŋkɔ ŋlɔlawo",
+    "group-accountcreator-member": "ŋkɔ ŋlɔla",
+    "group-flood": "Bɔt zãlawo",
+    "group-flood-member": "{{GENDER:$1|bɔt zãla}}",
+    "grouppage-flood": "{{ns:project}}:Bɔt zãlawo",
+    "group-founder": "Eɖolawo",
+    "group-founder-member": "{{GENDER:$1|eɖola}}",
+    "cant-delete-main-page": "Wo mate ŋu tutu alo ɖe Axɔ do ŋgɔ o."
+}

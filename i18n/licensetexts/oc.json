@@ -1,0 +1,30 @@
+{
+    "@metadata": {
+        "authors": [
+            "Boulaur",
+            "Cedric31",
+            "Diebuche",
+            "Jfblanc",
+            "Multichill"
+        ]
+    },
+    "wikimedialicensetexts-desc": "Messatges de las licéncias de Wikimedia",
+    "wm-license-attribution-with-author-text": "Lo proprietari dels dreches d'autor d'aqueste fichièr, $1, autoriza a quina persona que siá de l'utilizar '''per quina intencion que siá, amb la condicion''' que lo titular dels dreches d'autor siá atribuít corrèctament. La redistribucion, la realizacion de trabalhs derivats, l'emplec comercial e autre tipe d'emplecs es permés.",
+    "wm-license-attribution-without-author-text": "Lo titular dels dreches d'autor d'aquel fichièr permet a cadun de l'utilizar '''per quina intencion que siá, provist que''' lo titular dels dreches d'autor siá mençonat corrèctament. La redistribucion, las òbras derivadas, l'usatge comercial e quin autre usatge que siá son permés.",
+    "wm-license-fsf-wiki-link": "w:oc:Fondacion pel logicial liure",
+    "wm-license-free-software-wiki-link": "w:oc:Logicial liure",
+    "wm-license-gfdl-1.2-and-later": "Avètz la permission de copiar, distribuir e/o modificar aqueste document segon los tèrmes de la '''[[{{int:wm-license-gfdl-wiki-link}}|Licéncia de documentacion liura GNU]]''', version 1.2 o mai recenta publicada per la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sens seccions inalterablas, sens tèxte de primièra pagina de cobèrtura e sens tèxte de darrièra pagina de cobèrtura.",
+    "wm-license-gfdl-wiki-link": "w:oc:Licéncia de documentacion liura GNU",
+    "wm-license-information-description": "Descripcion",
+    "wm-license-information-source": "Font",
+    "wm-license-information-date": "Data",
+    "wm-license-information-author": "Autor",
+    "wm-license-information-permission": "Permission",
+    "wm-license-information-permission-reusing-link": "Commons:Reütilizacion de contengut en defòra de Wikimedia",
+    "wm-license-own-work": "Trabalh personal",
+    "wm-license-self-one-license": "Ieu, autor d'aquesta òbra, publiqui jos la licéncia seguenta:",
+    "wm-license-self-one-license-with-author": "$1, autor d'aquesta òbra, l'a publicat o publica jos la licéncia seguenta:",
+    "wm-license-self-multiple-licenses": "Ieu, autor d'aquesta òbra, publiqui jos las licéncias seguentas:",
+    "wm-license-self-multiple-licenses-with-author": "$1, autor d'aquesta òbra, l'a publicat o publica jos las licéncias seguentas:",
+    "wm-license-self-multiple-licenses-select": "Podètz causir la licéncia que volètz."
+}

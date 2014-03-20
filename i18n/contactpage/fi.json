@@ -1,0 +1,36 @@
+{
+    "@metadata": {
+        "authors": [
+            "Nike"
+        ]
+    },
+    "contactpage-title-requestlicense": "Tavaramerkin uudelleenkäyttölomake",
+    "contactpage-pagetext-requestlicense": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkkiasioissa",
+    "contactpage-subject-requestlicense": "Wikimedian tavaramerkin uudelleenkäyttöpyyntö",
+    "contactpage-license-request-username": "Käyttäjätunnus *",
+    "contactpage-license-request-relevantsite": "Asiaan liittyävä Wikimedia-sivusto (valinnainen)",
+    "contactpage-license-request-title": "Titteli (tarvittaessa)",
+    "contactpage-license-request-organization": "Organisaatio (valinnainen)",
+    "contactpage-license-request-organization-type": "Organisaatiotyyppi (tarvittaessa)",
+    "contactpage-license-request-use-proposed": "Ehdotettu käyttö",
+    "contactpage-license-request-use-online": "Verkossa (sivusto, sähköposti)",
+    "contactpage-license-request-use-book": "Kirja, säännöllisesti ilmestyvä teos",
+    "contactpage-license-request-use-print": "Tulostus",
+    "contactpage-license-request-use-tv": "TV, elokuva tai lähetys",
+    "contactpage-license-request-use-other": "Muu",
+    "contactpage-license-request-use-note": "<strong>Huomautus:</strong> jos annamme luvan tavaramerkin käyttöön, saatamme julkaista tiedon siitä julkisessa listassa sallituista käytöistä.",
+    "contactpage-license-request-description": "Käytön kuvaus",
+    "contactpage-license-request-selectmark": "Valitse merkki",
+    "contactpage-wikimedia-trademark-globe": "Wikipedian palapelimaapallo",
+    "contactpage-wikimedia-trademark-wikiwordmark": "Wipedia sanamerkki",
+    "contactpage-wikimedia-trademark-w": "Tyylitelty ”W”",
+    "contactpage-wikimedia-trademark-wikimedia": "Wikimedia-yhteisö",
+    "contactpage-title-licenseabuse": "Tekijänoikeusrikkomusten yhteydenottolomake",
+    "contactpage-pagetext-licenseabuse": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkin väärinkäyttöepäillyissä",
+    "contactpage-subject-licenseabuse": "Wikimedian tavaramerkin väärinkäyttöilmoitus",
+    "contactpage-license-abuse-description": "Kuvaile väärinkäyttö",
+    "contactpage-license-abuse-selectmark": "Mitä merkkiä väärinkäytetään?",
+    "contactpage-license-abuse-location": "Väärinkäytön tapahtumapaikka (verkossa/verkon ulkopuolella)",
+    "contactpage-license-abuse-theircontact": "Tavaramerkkiä väärin käyttävän henkilön yhteystiedot (mikäli tiedossa)",
+    "contactpage-license-abuse-yourcontact": "Yhteystietosi (jos saamme ottaa yhteyttä sinuun)"
+}

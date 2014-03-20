@@ -1,0 +1,27 @@
+{
+    "@metadata": {
+        "authors": [
+            "Bonevarluri",
+            "Mogoeilor"
+        ]
+    },
+    "sitesupport": "هومياری پيلی",
+    "nstab-timedtext": "نیسه وخت دار",
+    "group-filemover": "جانیا آلشت کننه",
+    "group-filemover-member": "{{جنس:$1|جانیا آلشت کننه}}",
+    "group-flood": "کاروریا بوت",
+    "group-interface_editor": "ویرایشتگریا مین پیوست",
+    "group-interface_editor-member": "{{جنس:$1|ویرایشتگر مین پیوست}}",
+    "group-trusted": "کاروریا مطمئن",
+    "group-uploader": "سوارکننه یا",
+    "group-uploader-member": "{{جنس:$1|سوارکننه}}",
+    "group-editinterface": "ویرایشتگریا مین پیوست",
+    "group-editinterface-member": "{{جنس:$1|ویرایشتگر مین پیوست}}",
+    "group-massmessage-sender": "فرسنه یا فره پیغوم",
+    "group-massmessage-sender-member": "{{جنس:$1|فرسنه فره پیغوم}}",
+    "group-inactive": "کاروریا کارمکو",
+    "wikibase-sitelinks-wikisource": "بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه",
+    "wikibase-sitelinks-commons": "بلگه پرنمون یا ویکی پدیا  دی ای قلم هوم پیوند بیه",
+    "upload-more-photos-of-this-monument": "د ای گات عسگیا فره تر سوار بکید",
+    "createacct-captcha-help-url": "{{ns:پروجه}}:درحاست سی یه گل حساو"
+}

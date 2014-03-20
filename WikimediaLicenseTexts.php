@@ -1,5 +1,5 @@
 <?php
-if (!defined('MEDIAWIKI')) die();
+if ( !defined( 'MEDIAWIKI' ) ) die();
 /**
  * An extension that adds Wikimedia specific functionality
  *
@@ -19,5 +19,5 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'wikimedialicensetexts-desc',
 );
 
-$wgExtensionMessagesFiles['WikimediaLicenseTexts'] = dirname(__FILE__) . '/WikimediaLicenseTexts.i18n.php';
-$wgExtensionMessagesFiles['WikimediaCCLicenseTexts'] = dirname(__FILE__) . '/WikimediaCCLicenseTexts.i18n.php';
+$wgMessagesDirs['WikimediaLicenseTexts'] = __DIR__ . '/i18n/licensetexts';
+$wgMessagesDirs['WikimediaCCLicenseTexts'] = __DIR__ . '/i18n/cclicensetexts';

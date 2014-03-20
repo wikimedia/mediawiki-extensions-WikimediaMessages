@@ -1,0 +1,35 @@
+{
+    "@metadata": {
+        "authors": [
+            "Micki",
+            "Milicevic01",
+            "Multichill"
+        ]
+    },
+    "wm-license-attribution-with-author-text": "Носилац ауторског права над овом датотеком, $1, дозвољава свакоме да је користи '''у било које сврхе, уз услов''' да се носилац ауторског права прописно наведе. Даља дистрибуција, изведени радови, комерцијална употреба и све остале употребе су дозвољене.",
+    "wm-license-creator-alternative-names": "Псеудоними",
+    "wm-license-creator-description": "Опис",
+    "wm-license-creator-date-of-birth-and-death": "Датум рођења/смрти",
+    "wm-license-creator-location-of-birth-and-death": "Место рођења/смрти",
+    "wm-license-creator-work-period": "Време рада",
+    "wm-license-creator-work-location": "Место рада",
+    "wm-license-fsf-wiki-link": "w:sr:Задужбина за слободни софтвер",
+    "wm-license-free-software-wiki-link": "w:sr:Слободни софтвер",
+    "wm-license-gfdl-wiki-link": "w:sr:ГНУ-ова лиценца за слободну документацију",
+    "wm-license-gpl-wiki-link": "w:sr:ГНУ-ова општа јавна лиценца",
+    "wm-license-information-description": "Опис",
+    "wm-license-information-source": "Извор",
+    "wm-license-information-date": "Датум",
+    "wm-license-information-author": "Аутор",
+    "wm-license-information-permission": "Дозвола",
+    "wm-license-information-permission-see-below": "Види доле.",
+    "wm-license-information-other-versions": "Остале верзије",
+    "wm-license-own-work": "Сопствено дело",
+    "wm-license-pd-usgov-military-air-force-wiki-link": "w:sr:Америчко ратно ваздухопловство",
+    "wm-license-pd-wiki-link": "w:sr:Јавно власништво",
+    "wm-license-self-one-license": "Ја, носилац ауторских права над овим делом, га овим објављујем под следећом лиценцом:",
+    "wm-license-self-one-license-with-author": "$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећом лиценцом:",
+    "wm-license-self-multiple-licenses": "Ја, носилац ауторских права над овим делом, га овим објављујем под следећим лиценцама:",
+    "wm-license-self-multiple-licenses-with-author": "$1, носилац ауторских права над овим делом, га је објавио или овим објављује под следећим лиценцама:",
+    "wm-license-self-multiple-licenses-select": "Можете изабрати лиценцу по жељи."
+}

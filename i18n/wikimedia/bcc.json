@@ -1,0 +1,38 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mostafadaneshvar"
+        ]
+    },
+    "wikimediamessages-desc": "کوله یان مخصوص ویکی‌مدیا",
+    "sitesupport": "مدتان",
+    "tooltip-n-sitesupport": "ما را حمایت کنیت",
+    "group-accountcreator": "حساب شرکنوکان",
+    "group-accountcreator-member": "حساب شرکنوک",
+    "grouppage-accountcreator": "{{ns:project}}:حساب شرکنوکان",
+    "group-founder": "بنگیج کنوکان",
+    "group-founder-member": "بنگیج کنوک",
+    "grouppage-founder": "{{ns:project}}:بنگیج کنوکان",
+    "group-import": "وارد کنوکان",
+    "group-import-member": "واردکنوک",
+    "grouppage-import": "{{ns:project}}:واردکنوکان",
+    "group-ipblock-exempt": "معافیت محدودیت آی پی",
+    "group-ipblock-exempt-member": "استثنای محدودیت آی پی",
+    "grouppage-ipblock-exempt": "{{ns:project}}:استثناء محدودیت آی پی",
+    "group-rollbacker": "عقب ترینوک",
+    "group-rollbacker-member": "ترینوک",
+    "grouppage-rollbacker": "{{ns:project}}:واردکنوکان",
+    "group-transwiki": "واردکنوکان بین‌ویکی",
+    "group-transwiki-member": "واردکنوک بین‌ویکی",
+    "grouppage-transwiki": "{{ns:project}}:واردکنوکان بین ویکی",
+    "group-Global_bot": "رباتان سراسری",
+    "group-Global_bot-member": "ربات سراسری",
+    "group-Global_rollback": "ترینوک سراسری",
+    "group-Global_rollback-member": "ترینوک سراسری",
+    "group-Staff": "کارمند",
+    "group-Staff-member": "عضو کارمند",
+    "group-steward": "نگهبانان",
+    "group-steward-member": "نگهبان",
+    "group-sysadmin": "مدیران سیستم",
+    "group-sysadmin-member": "مدیر سیستم"
+}

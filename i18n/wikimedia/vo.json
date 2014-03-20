@@ -1,0 +1,31 @@
+{
+    "@metadata": {
+        "authors": [
+            "Malafaya",
+            "Smeira"
+        ]
+    },
+    "sitesupport": "Födagivots",
+    "tooltip-n-sitesupport": "Stütolös obsi",
+    "group-accountcreator": "Kalijafans",
+    "group-accountcreator-member": "{{GENDER:$1|kalijafan}}",
+    "grouppage-accountcreator": "{{ns:project}}:Kalijafans",
+    "group-founder": "Fünans",
+    "group-founder-member": "{{GENDER:$1|fünan}}",
+    "grouppage-founder": "{{ns:project}}:Fünans",
+    "group-import": "Nüveigans",
+    "group-import-member": "{{GENDER:$1|nüveigan}}",
+    "grouppage-import": "{{ns:project}}:Nüveigans",
+    "group-rollbacker": "Sädunans",
+    "group-rollbacker-member": "{{GENDER:$1|sädunan}}",
+    "grouppage-rollbacker": "{{ns:project}}:Sädunans",
+    "group-transwiki-member": "{{GENDER:$1|nüveigan vüvükik}}",
+    "group-uploader": "Löpükans",
+    "group-uploader-member": "{{GENDER:$1|löpükan}}",
+    "grouppage-uploader": "{{ns:project}}:Löpükans",
+    "group-Global_bot-member": "{{GENDER:$1|bot valöpik}}",
+    "group-sysadmin": "Sitiguvans",
+    "group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
+    "group-coder": "Kotans",
+    "group-coder-member": "{{GENDER:$1|kotan}}"
+}

@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Manuae",
+            "SPS"
+        ]
+    },
+    "sitesupport": "Spende",
+    "group-Ex_Bureaucrat": "Ejemolische Birograde",
+    "grouppage-Ex_Bureaucrat": "{{ns:project}}:Ejemolische Birograde",
+    "group-OTRS-member": "OTRS-Midglieda",
+    "group-steward": "Stewards",
+    "group-steward-member": "{{GENDER:$1|Steward}}",
+    "grouppage-steward": "{{ns:project}}:Steward"
+}

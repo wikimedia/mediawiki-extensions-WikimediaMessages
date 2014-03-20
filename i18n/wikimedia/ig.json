@@ -1,0 +1,34 @@
+{
+    "@metadata": {
+        "authors": [
+            "Ukabia"
+        ]
+    },
+    "sitesupport": "Nyeturuanyi ihe",
+    "tooltip-n-sitesupport": "Nye anyi ike",
+    "group-confirmed": "Ézíbóté ọ'bànifé",
+    "group-confirmed-member": "ézíbóté ọ'bànifé",
+    "group-filemover": "Ndi npáfù usòrò",
+    "group-filemover-member": "onye npáfù usòrò",
+    "grouppage-filemover": "{{ns:project}}:Ndi mpáfù usòrò",
+    "group-flood": "Ndi ne ji bot",
+    "group-flood-member": "onye na ji bot emé ihe",
+    "grouppage-flood": "{{ns:project}}:Ọ'bànifé bot",
+    "group-founder": "Ndi buzọr",
+    "group-founder-member": "onye buzọr",
+    "grouppage-founder": "{{ns:project}}:Ndi mbídó",
+    "group-import": "Ndi na wete ihe",
+    "group-import-member": "onye na wete ihe",
+    "group-patroller-member": "onye na léfuru ihe anyà",
+    "group-researcher": "Ndi-nchékàsí-ọmúmú",
+    "group-researcher-member": "onye-nchékàsí-ọmúmú",
+    "group-rollbacker": "Ọ'fifie-nà-àzú",
+    "group-rollbacker-member": "ọ'fifie-nà-àzú",
+    "group-trusted-member": "ọ'bànifé nchèkwube",
+    "grouppage-trusted": "{{ns:project}}:Ọ'bànifé nchèkwube",
+    "group-Staff-member": "ndi na rüoru nga",
+    "group-steward": "Ò'dózí",
+    "group-steward-member": "ò'dózí",
+    "wikimedia-copyright": "Édé nọr okpúrù <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Mmẹ Òkike Tu ụta Ñkịtị</a>; ihe ejị ẹ kwenye nọr kwa.\nLé <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Nkwenye maka Í me ihe</a> maka ihe ozor Í gi má.",
+    "wikimedia-copyrightwarning": "Na Í donyé, Í kwè na Í gi nyé ihe Í mèrè na nke I nweriki wefụ na okpúrù [https://creativecommons.org/licenses/by-sa/3.0/ Mmẹ Òkike Tu ụta Ñkịtị/Gbásaa-Kà Édéíwu 3.0] na [https://www.gnu.org/copyleft/fdl.html GFDL].\nÍ kwèrè na ndi madu na rürü gi nye gi kpó áhà gi, na nke ntà há gí me, shí njikodo intanet ma URL Í gi ga ihü Í rürü nà.\nLé [https://wikimediafoundation.org/wiki/Terms_of_Use Nkwenye maka Í me ihe] maka ihe ozor Í gi má."
+}

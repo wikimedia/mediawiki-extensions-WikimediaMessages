@@ -1,0 +1,34 @@
+{
+    "@metadata": {
+        "authors": [
+            "Beta16",
+            "Maria victoria"
+        ]
+    },
+    "contactpage-title-requestlicense": "Modulo di contatto per riutilizzo del marchio",
+    "contactpage-pagetext-requestlicense": "Si prega di utilizzare il modulo sottostante per contattarci su questioni relative ai marchi",
+    "contactpage-subject-requestlicense": "Richiesta di riutilizzo del marchio Wikimedia",
+    "contactpage-license-request-username": "Nome utente *",
+    "contactpage-license-request-relevantsite": "Sito di Wikimedia rilevante (se presente)",
+    "contactpage-license-request-group": "Capitolo di Wikimedia, organizzazione tematica o gruppo di utenti & titolo (se presente) *",
+    "contactpage-license-request-title": "Titolo (se applicabile)",
+    "contactpage-license-request-organization": "Organizzazione (se applicabile)",
+    "contactpage-license-request-organization-type": "Tipo di organizzazione (se applicabile)",
+    "contactpage-license-request-use-proposed": "Proposte di utilizzo",
+    "contactpage-license-request-use-online": "Online (sito web, email)",
+    "contactpage-license-request-use-book": "Libro, periodico",
+    "contactpage-license-request-use-print": "Stampa",
+    "contactpage-license-request-use-tv": "TV, film o trasmissione",
+    "contactpage-license-request-use-other": "Altro",
+    "contactpage-license-request-description": "Descrizione dell'utilizzo",
+    "contactpage-license-request-selectmark": "Seleziona il marchio",
+    "contactpage-wikimedia-trademark-globe": "Globo puzzle di Wikipedia",
+    "contactpage-wikimedia-trademark-wikiwordmark": "Scritta Wikipedia",
+    "contactpage-wikimedia-trademark-w": "\"W\" stilizzata",
+    "contactpage-wikimedia-trademark-wikimedia": "Comunità di Wikimedia",
+    "contactpage-title-licenseabuse": "Modulo di contatto per abusi di copyright",
+    "contactpage-pagetext-licenseabuse": "Si prega di utilizzare il modulo sottostante per contattarci su questioni relative all'abuso di copyright",
+    "contactpage-license-abuse-description": "Descrivi l'abuso",
+    "contactpage-license-abuse-theircontact": "Informazioni di contatto della persona che abusa del marchio (se noto)",
+    "contactpage-license-abuse-yourcontact": "I suoi recapiti (in caso avessimo bisogno di metterci in contatto)"
+}

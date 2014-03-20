@@ -1,0 +1,37 @@
+{
+    "@metadata": {
+        "authors": [
+            "Gomoko"
+        ]
+    },
+    "contactpage-title-requestlicense": "Formulaire de contact pour réutilisation d’une marque déposée",
+    "contactpage-pagetext-requestlicense": "Veuillez utiliser le formulaire ci-dessous pour nous contacter pour ce qui concerne la marque déposée",
+    "contactpage-subject-requestlicense": "Demande de réutilisation de la marque déposée Wikimédia",
+    "contactpage-license-request-username": "Nom d’utilisateur *",
+    "contactpage-license-request-relevantsite": "Site Wikimédia associé (s’il existe)",
+    "contactpage-license-request-group": "Chapitre de Wikimédia, organisation thématique, ou groupe utilisateur & titre (s’il en existe) *",
+    "contactpage-license-request-title": "Titre (si applicable)",
+    "contactpage-license-request-organization": "Organisation (si applicable)",
+    "contactpage-license-request-organization-type": "Type d’organisation (si applicable)",
+    "contactpage-license-request-use-proposed": "Utilisation envisagée",
+    "contactpage-license-request-use-online": "En ligne (site web, courriel)",
+    "contactpage-license-request-use-book": "Livre, périodique",
+    "contactpage-license-request-use-print": "Impression",
+    "contactpage-license-request-use-tv": "TV, film ou émission",
+    "contactpage-license-request-use-other": "Autre",
+    "contactpage-license-request-use-note": "<strong>Note :</strong> si nous accordons une permission de marque déposée, nous pouvons lister votre utilisation dans une liste publique des usages autorisés.",
+    "contactpage-license-request-description": "Description de l’utilisation",
+    "contactpage-license-request-selectmark": "Sélectionner la marque",
+    "contactpage-wikimedia-trademark-globe": "Puzzle du globe de Wikipédia",
+    "contactpage-wikimedia-trademark-wikiwordmark": "Mot-symbole de Wikipédia",
+    "contactpage-wikimedia-trademark-w": "« W » stylisé",
+    "contactpage-wikimedia-trademark-wikimedia": "Communauté Wikimédia",
+    "contactpage-title-licenseabuse": "Formulaire de contact pour abus de droit d’auteur",
+    "contactpage-pagetext-licenseabuse": "Veuillez utiliser le formulaire ci-dessous pour nous contacter à propos d’un abus de droit d’auteur",
+    "contactpage-subject-licenseabuse": "Notification d’abus de marque déposée de Wikimédia",
+    "contactpage-license-abuse-description": "Décrire l’abus",
+    "contactpage-license-abuse-selectmark": "Quelle marque a fait l’objet d’abus ?",
+    "contactpage-license-abuse-location": "Emplacement de l’abus (en/hors ligne)",
+    "contactpage-license-abuse-theircontact": "Information de contact de la personne faisant un abus de la marque (si connue)",
+    "contactpage-license-abuse-yourcontact": "Votre information de contact (si nous devions vous contacter)"
+}

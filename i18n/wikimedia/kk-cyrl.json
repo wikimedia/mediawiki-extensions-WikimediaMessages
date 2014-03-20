@@ -1,0 +1,26 @@
+{
+    "@metadata": {
+        "authors": [
+            "AlefZet",
+            "Arystanbek",
+            "Daniyar",
+            "GaiJin",
+            "Kaztrans"
+        ]
+    },
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=kk-cyrl",
+    "sitesupport": "Демеушілік",
+    "tooltip-n-sitesupport": "Демеу беріңіз",
+    "group-accountcreator": "Аккаунт жасаушылар",
+    "grouppage-accountcreator": "{{ns:project}}:Тіркелгі жасаушылар",
+    "group-import": "Сырттан алушылар",
+    "group-import-member": "сырттан алушы",
+    "group-Staff": "Басқарма",
+    "group-Staff-member": "Басқарма мүшесі",
+    "group-sysadmin": "Жүйе әкімшілері",
+    "group-sysadmin-member": "жүйе әкімшісі",
+    "wikimedia-copyrightwarning": "'''Авторлық құқықтар''' бұзған мағлұмат дереу жойылады. Энциклопедиялық мазмұны талаптарға сай болуы керек. ''«Бетті сақта!»'' батырмасын басқаныңыз — үлесіңізді [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] және [https://www.gnu.org/copyleft/fdl.html GFDL]  лицензиялары жүзінде жарияланғандығына келіскеніңіз болып табылады. Толығырақ қ.\n[https://wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары].",
+    "createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(қатысушы есімін таңдауыма анықтама)]]",
+    "createacct-imgcaptcha-help": "Кескінді көре алмадыңыз ба? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтқа сұраным беріңіз]]",
+    "wikimedia-developers": "Жасақтаушылар"
+}

@@ -1,0 +1,38 @@
+{
+    "@metadata": {
+        "authors": [
+            "Manuspanicker",
+            "Praveenp"
+        ]
+    },
+    "contactpage-title-requestlicense": "വ്യാപാരമുദ്ര പുനരുപയോഗത്തിനായി ബന്ധപ്പെടാനുള്ള ഫോം",
+    "contactpage-pagetext-requestlicense": "വ്യാപാരമുദ്ര സംബന്ധിച്ച കാര്യങ്ങൾക്കായി ഞങ്ങളെ ബന്ധപ്പെടാൻ താഴെയുള്ള ഫോം ഉപയോഗിക്കുക",
+    "contactpage-subject-requestlicense": "വിക്കിമീഡിയയുടെ വ്യാപാരമുദ്ര പുനരുപയോഗം ചെയ്യുന്നതിനുള്ള അഭ്യർത്ഥന",
+    "contactpage-license-request-username": "ഉപയോക്തൃനാമം *",
+    "contactpage-license-request-relevantsite": "ബന്ധപ്പെട്ട വിക്കിമീഡിയ സൈറ്റ് (ഉണ്ടെങ്കിൽ)",
+    "contactpage-license-request-group": "വിക്കിമീഡിയ ചാപ്റ്റർ, അനുബന്ധ സംഘടന, ഉപയോക്തൃസംഘം ഒപ്പം തലക്കെട്ടും (ഉണ്ടെങ്കിൽ) *",
+    "contactpage-license-request-title": "തലക്കെട്ട് (ബാധകമെങ്കിൽ)",
+    "contactpage-license-request-organization": "സംഘടന (ബാധകമെങ്കിൽ)",
+    "contactpage-license-request-organization-type": "സംഘടനയുടെ സ്വഭാവം (ബാധകമെങ്കിൽ)",
+    "contactpage-license-request-use-proposed": "ഉദ്ദേശിക്കുന്ന ഉപയോഗം",
+    "contactpage-license-request-use-online": "ഓൺലൈൻ (വൈബ്സൈറ്റ്, ഇമെയിൽ)",
+    "contactpage-license-request-use-book": "പുസ്തകം, ആനുകാലികങ്ങൾ",
+    "contactpage-license-request-use-print": "അച്ചടി",
+    "contactpage-license-request-use-tv": "ടെലിവിഷൻ, ചലച്ചിത്രം അല്ലെങ്കിൽ മറ്റ് പ്രക്ഷേപണങ്ങൾ",
+    "contactpage-license-request-use-other": "മറ്റുള്ളവ",
+    "contactpage-license-request-use-note": "<strong>ശ്രദ്ധിക്കുക:</strong> വ്യാപാരമുദ്രയുടെ ഉപയോഗം അനുവദിക്കപ്പെട്ടൽ, ഞങ്ങളത് അംഗീകരിക്കപ്പെട്ട ഉപയോഗങ്ങളുടെ പട്ടികയിൽ ആർക്കും ലഭ്യമാകുന്ന വിധത്തിൽ ഉൾപ്പെടുത്തിയേക്കാം.",
+    "contactpage-license-request-description": "ഉപയോഗത്തിന്റെ വിവരണം",
+    "contactpage-license-request-selectmark": "മുദ്ര തിരഞ്ഞെടുക്കുക",
+    "contactpage-wikimedia-trademark-globe": "വിക്കിപീഡിയ പസിൽ ഭൂഗോളം",
+    "contactpage-wikimedia-trademark-wikiwordmark": "വിക്കിപീഡിയ എന്ന എഴുത്ത്",
+    "contactpage-wikimedia-trademark-w": "ഭംഗിയാക്കിയ \"W\"",
+    "contactpage-wikimedia-trademark-wikimedia": "വിക്കിമീഡിയ സമൂഹം",
+    "contactpage-title-licenseabuse": "പകർപ്പവകാശ ദുരുപയോഗം അറിയിക്കാനുള്ള ഫോം",
+    "contactpage-pagetext-licenseabuse": "പകർപ്പവകാശത്തിന്റെ ദുരുപയോഗം അറിയിക്കുന്നത് സംബന്ധിച്ച കാര്യങ്ങൾക്കായി ഞങ്ങളെ ബന്ധപ്പെടാൻ താഴെയുള്ള ഫോം ഉപയോഗിക്കുക",
+    "contactpage-subject-licenseabuse": "വിക്കിമീഡിയ പകർപ്പവകാശ ദുരുപയോഗം സംബന്ധിച്ച അറിയിപ്പ്",
+    "contactpage-license-abuse-description": "ദുരുപയോഗം വിവരിക്കുക",
+    "contactpage-license-abuse-selectmark": "ഏത് മുദ്രയാണ് ദുരുപയോഗം ചെയ്തത്?",
+    "contactpage-license-abuse-location": "എവിടെയാണ് ദുരുപയോഗം ചെയ്തത് (ഓൺലൈൻ / ഓഫ്‌ലൈൻ)",
+    "contactpage-license-abuse-theircontact": "മുദ്ര ദുരുപയോഗം ചെയ്ത വ്യക്തിയെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ (അറിയാമെങ്കിൽ)",
+    "contactpage-license-abuse-yourcontact": "താങ്കളെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ (താങ്കളെ ബന്ധപ്പെടാമെങ്കിൽ)"
+}

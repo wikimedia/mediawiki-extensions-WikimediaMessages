@@ -19,12 +19,12 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'wikimediamessages-desc',
 );
 
-$dir = dirname(__FILE__) . '/';
-$wgExtensionMessagesFiles['WikimediaMessages'] = $dir .'WikimediaMessages.i18n.php';
-$wgExtensionMessagesFiles['WikimediaTemporaryMessages'] = $dir . 'WikimediaTemporaryMessages.i18n.php';
-$wgExtensionMessagesFiles['WikimediaContactPageMessages'] = $dir . 'WikimediaContactPageMessages.i18n.php';
 
-include_once ( $dir .'WikimediaGrammarForms.php' );
+$wgMessagesDirs['WikimediaContactPageMessages'] = __DIR__ . '/i18n/contactpage';
+$wgMessagesDirs['WikimediaMessages'] = __DIR__ . '/i18n/wikimedia';
+$wgMessagesDirs['WikimediaTemporaryMessages'] = __DIR__ . '/i18n/temporary';
+
+include_once ( __DIR__ .'/WikimediaGrammarForms.php' );
 
 $wgExtensionFunctions[] = function() {
 	global $wgRightsUrl, $wgHooks;

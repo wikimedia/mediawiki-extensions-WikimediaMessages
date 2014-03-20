@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Minh Nguyen"
+        ]
+    },
+    "wikimediamessages-desc": "Các thông điệp tạm thời dành cho Wikimedia",
+    "bug-54847-password-reset-prompt": "Vì một [[meta:October 2013 private data security issue|vấn đề riêng tư có liên quan đến các cơ sở dữ liệu của Wikimedia Labs]], mật khẩu mà bạn từng sử dụng có thể không còn an toàn. Xin vui lòng chọn một mật khẩu khác để bảo vệ tài khoản của bạn. Chúng tôi xin lỗi vì sự bất tiện này.",
+    "password-recycled": "Bạn đã nhập một mật khẩu cũ từng được dùng cho tài khoản này. Xin vui lòng chọn một mật khẩu mới, khác với mật khẩu hiện tại."
+}
