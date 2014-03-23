@@ -2,7 +2,8 @@
     "@metadata": {
         "authors": [
             "Adithyavr",
-            "Siddhartha Ghai"
+            "Siddhartha Ghai",
+            "Goelujjwal"
         ]
     },
     "contactpage-pagetext-requestlicense": "कृपया ट्रेडमार्क चीज़ों के बारे में हमसे संपर्क करने के लिये नीचे दिये गये फ़ॉर्म का उपयोग करें",
@@ -15,6 +16,6 @@
     "contactpage-wikimedia-trademark-wikimedia": "विकीमीडिया समुदाय",
     "contactpage-title-licenseabuse": "कॉपीराइट दुरुपयोग संपर्क प्रपत्र।",
     "contactpage-pagetext-licenseabuse": "कृपया सर्वाधिकार दुरुपयोग  के बारे में हमसे संपर्क करने के लिये नीचे दिये गये फ़ॉर्म का उपयोग करें",
-    "contactpage-license-abuse-description": "दुरुपयोग का वर्णन कीजिये।",
+    "contactpage-license-abuse-description": "दुरुपयोग का वर्णन कीजिये",
     "contactpage-license-abuse-location": "दुरुपयोग (पर/ऑफ़लाइन) कर्ने का स्थान।"
 }

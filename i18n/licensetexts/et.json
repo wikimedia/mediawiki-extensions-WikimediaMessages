@@ -46,7 +46,7 @@
     "wm-license-creator-work-period": "Tööaeg",
     "wm-license-creator-work-location": "Töökoht",
     "wm-license-creator-linkback": "Link selle malli leheküljele",
-    "wm-license-fal-text": "See kunstiteos on vaba. Sa võid vastavalt [[{{int:wm-license-fal-wiki-link}}|Vaba Kunsti Litsentsis]] seatud tingimustele seda taaslevitada ja/või selle põhjal teisendeid luua.\u003Cbr /\u003E\nVaba Kunsti Litsentsi üks eksemplar asub [{{int:wm-license-fal-full-link}} siin].",
+    "wm-license-fal-text": "See kunstiteos on vaba. Sa võid vastavalt '''[[{{int:wm-license-fal-wiki-link}}|Vaba Kunsti Litsentsis]]''' seatud tingimustele seda taaslevitada ja/või selle põhjal teisendeid luua. Selle litsentsi eksemplari leiad [{{int:wm-license-fal-full-link}} siit], samuti [{{int:wm-license-fal-full-link-commons}} teistelt saitidelt].",
     "wm-license-fal-wiki-link": "w:et:Vaba Kunsti Litsents",
     "wm-license-fsf-wiki-link": "w:et:Free Software Foundation",
     "wm-license-free-software-wiki-link": "w:et:Vaba tarkvara",
