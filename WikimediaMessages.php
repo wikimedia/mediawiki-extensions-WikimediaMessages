@@ -66,6 +66,14 @@ $wgExtensionFunctions[] = function() {
 			$editKey = 'wikimedia-flow-terms-of-use-edit';
 			return true;
 		};
+
+		$wgHooks['MobileLicenseLink'][] = function( &$link, $context, $attribs ) {
+			// We only display the dual licensing stack in the editor and talk interfaces
+			if ( $context === 'editor' || $context === 'talk' ) {
+				$link = wfMessage( 'wikimedia-mobile-license-links' )->plain();
+			}
+			return true;
+		};
 	}
 
 	//Bug 42231: Should have a specific message for WMF projects
@@ -79,14 +87,6 @@ $wgExtensionFunctions[] = function() {
 	};
 	$wgHooks['GlobalBlockingBlockedIpXffMsg'][] = function( &$msg ) {
 		$msg = 'wikimedia-globalblocking-ipblocked-xff';
-		return true;
-	};
-	$wgHooks['EditPageMobileCopyrightWarning'][] = function( $title, &$msg ) {
-		$msg = array( 'wikimedia-mobile-copyrightwarning' );
-		return true;
-	};
-	$wgHooks['UploadMobileCopyrightWarning'][] = function( $title, &$msg ) {
-		$msg = array( 'wikimedia-mobile-photo-copyrightwarning' );
 		return true;
 	};
 
