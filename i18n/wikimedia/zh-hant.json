@@ -165,6 +165,7 @@
     "wikimedia-copyrightwarning": "一旦點擊「{{int:savearticle}}」按鈕，就表示你同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。\n你同意超鏈接或URL足以作為創作共享協議的署名。",
     "wikimedia-mobile-copyrightwarning": "通過點擊「{{int:savearticle}}」按鈕，表示您同意我們的[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並義無反顧的同意依據[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL協議]發表您的貢獻。",
     "wikimedia-mobile-photo-copyrightwarning": "通過上載此圖像，表示您同意我們的[https://wikimediafoundation.org/wiki/Terms_of_use 使用條款]，並同意依據[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW 創用CC-姓名標示-相同方式分享-3.0協議]授權您的圖片。",
+    "wikibase-repo-name": "維基數據",
     "wikibase-sitelinks-wikiquote": "連入此項之維基語錄頁面",
     "wikibase-sitelinks-wikisource": "連入此項之維基文庫頁面",
     "wikibase-sitelinks-wikivoyage": "連入此項之維基導遊頁面",
