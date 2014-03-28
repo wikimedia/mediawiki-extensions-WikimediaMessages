@@ -7,7 +7,7 @@
         ]
     },
     "wikimediamessages-desc": "וויקימעדיע ספעציפֿישע מעלדונגען",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=yi",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=yi",
     "sitesupport": "בײַשטײַערן",
     "tooltip-n-sitesupport": "שטיצט אונז",
     "specialpages-group-contribution": "נדבה/געלטשאפן",
@@ -129,7 +129,7 @@
     "group-inactive-member": "{{GENDER:$1|אומאַקטיווער באַניצער|אומאַקטיווע באַניצערין}}",
     "grouppage-inactive": "{{ns:project}}:אומאַקטיווע באַניצער",
     "shared-repo-name-shared": "וויקימעדיע קאמאנס",
-    "wikimedia-copyright": "טעקסט איז פאראן לויטן <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.\nזעט <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">תנאים פון באניצן</a> פֿאר פרטים.",
+    "wikimedia-copyright": "טעקסט איז פאראן לויטן \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003ECreative Commons צושרייבן/טייל-גלייך ליצענץ\u003C/a\u003E; קען אפשר זיין נאך תנאים.\nזעט \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003Eתנאים פון באניצן\u003C/a\u003E פֿאר פרטים.",
     "wikimedia-copyrightwarning": "בײַם קליקן דאָס \"{{int:savearticle}}\" קנעפל, זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאַדינגונגען] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA  ליצענץ 3.0] און דעם [https://www.gnu.org/copyleft/fdl.html GFDL].\nאיר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.",
     "wikibase-sitelinks-wikisource": "וויקיקוואל בלעטער פארלינקט מיט דעם אביעקט",
     "wikibase-sitelinks-wikivoyage": "וויקירייזע בלעטער פארלינקט מיט דעם אביעקט",

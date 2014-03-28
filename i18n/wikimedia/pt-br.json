@@ -24,7 +24,7 @@
         ]
     },
     "wikimediamessages-desc": "Mensagens específicas da Wikimedia",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pt-br",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=pt-br",
     "sitesupport": "Doações",
     "tooltip-n-sitesupport": "Ajude-nos",
     "specialpages-group-contribution": "Contribuições/Angariação de fundos",
@@ -145,7 +145,7 @@
     "group-inactive": "Usuários inativos",
     "group-inactive-member": "{{GENDER:$1|usuário inativo|usuária inativa}}",
     "grouppage-inactive": "{{ns:project}}:Usuários inativos",
-    "wikimedia-copyright": "Este texto é disponibilizado nos termos da licença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR\">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;\npode estar sujeito a condições adicionais.\nPara mais detalhes, consulte as <a href=\"https://wikimediafoundation.org/wiki/Condições_de_Uso\">Condições de Uso</a>.",
+    "wikimedia-copyright": "Este texto é disponibilizado nos termos da licença \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR\"\u003ECreative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)\u003C/a\u003E;\npode estar sujeito a condições adicionais.\nPara mais detalhes, consulte as \u003Ca href=\"https://wikimediafoundation.org/wiki/Condições_de_Uso\"\u003ECondições de Uso\u003C/a\u003E.",
     "wikimedia-copyrightwarning": "Ao clicar no botão \"{{int:savearticle}}\", você concorda com os [https://wikimediafoundation.org/wiki/Terms_of_Use termos de uso] e em irrevogavelmente liberar sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e a [https://www.gnu.org/copyleft/fdl.html licença GFDL].\nVocê concorda que um hiperlink ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.",
     "cant-delete-main-page": "Você não pode excluir ou mover a página principal.",
     "upload-more-photos-of-this-monument": "Carregar mais fotos deste monumento",

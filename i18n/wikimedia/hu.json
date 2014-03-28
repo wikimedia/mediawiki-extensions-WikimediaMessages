@@ -12,7 +12,7 @@
         ]
     },
     "wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=hu",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=hu",
     "sitesupport": "Adományok",
     "tooltip-n-sitesupport": "Támogatás",
     "specialpages-group-contribution": "Adományok/Adománygyűjtés",
@@ -123,7 +123,7 @@
     "group-inactive": "inaktív szerkesztők",
     "group-inactive-member": "{{GENDER:$1|inaktív szerkesztő}}",
     "grouppage-inactive": "{{ns:project}}:Inaktív szerkesztők",
-    "wikimedia-copyright": "A lap szövege <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hu\">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">felhasználási feltételeket</a>.",
+    "wikimedia-copyright": "A lap szövege \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hu\"\u003ECreative Commons Nevezd meg! – Így add tovább! 3.0\u003C/a\u003E licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003Efelhasználási feltételeket\u003C/a\u003E.",
     "wikimedia-copyrightwarning": "A \"{{int:savearticle}}\" gombra kattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekben].",
     "cant-delete-main-page": "Nem törölheted vagy nevezheted át a főoldalt.",
     "createacct-helpusername-url": "{{ns:Project}}:Azonosító",

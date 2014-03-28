@@ -19,7 +19,7 @@
         ]
     },
     "wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=fi",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=fi",
     "sitesupport": "Lahjoitukset",
     "tooltip-n-sitesupport": "Tue meitä",
     "specialpages-group-contribution": "Lahjoituksia/Rahankeräys",
@@ -139,7 +139,7 @@
     "group-inactive": "epäaktiiviset käyttäjät",
     "group-inactive-member": "{{GENDER:$1|epäaktiivinen käyttäjä}}",
     "grouppage-inactive": "{{ns:project}}:Epäaktiiviset käyttäjät",
-    "wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href=\"https://wikimediafoundation.org/wiki/Käyttöehdot\">käyttöehdot</a>.",
+    "wikimedia-copyright": "Teksti on saatavilla \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003ECreative Commons Attribution/Share-Alike\u003C/a\u003E -lisenssillä; lisäehtoja voi sisältyä. Katso \u003Ca href=\"https://wikimediafoundation.org/wiki/Käyttöehdot\"\u003Ekäyttöehdot\u003C/a\u003E.",
     "wikimedia-copyrightwarning": "Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].",
     "wikibase-sitelinks-wikisource": "Tähän kohteeseen linkitetyt Wikiaineisto-sivut",
     "wikibase-sitelinks-wikivoyage": "Tähän kohteeseen linkitetyt Wikivoyage-sivut",

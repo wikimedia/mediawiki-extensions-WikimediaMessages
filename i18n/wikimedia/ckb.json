@@ -5,11 +5,12 @@
             "Calak",
             "Ferhad y",
             "Marmzok",
-            "رزگار"
+            "رزگار",
+            "Broosk"
         ]
     },
     "wikimediamessages-desc": "پەیامە تایبەتەکانی ویکیمیدیا",
-    "sitesupport": "پاڵپشتی و بەخشین",
+    "sitesupport": "کۆمەککردن",
     "tooltip-n-sitesupport": "پاڵپشتیمان بکە",
     "nstab-institution": "دامەزراوە",
     "group-OTRS-member": "ئەندامانی OTRS",
@@ -74,7 +75,7 @@
     "group-inactive": "بەکارهێنەرانی ناچالاک",
     "group-inactive-member": "{{GENDER:$1|بەکارھێنەری ناچالاک}}",
     "grouppage-inactive": "{{ns:project}}: بەکارهێنەرانی ناچالاک",
-    "wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a> لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nسەیری <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.",
+    "wikimedia-copyright": "دەق لەژێر \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003ECreative Commons Attribution/Share-Alike License\u003C/a\u003E لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nسەیری \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003Eمەرجەکانی بەکارھێنان\u003C/a\u003E بکە بۆ وردەکارییەکانی.",
     "wikimedia-copyrightwarning": "بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.\nقەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.\nسەیری [https://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.",
     "wikibase-sitelinks-wikivoyage": "پێرستی پەڕە بەسراوەکانی ویکیسەفەر بەم بەندەوە",
     "cant-delete-main-page": "ناتوانی پەڕەی دەستپێک بسڕییەوە یان بگوازییەوە.",

@@ -80,7 +80,7 @@
     "group-founder-member": "創辦人",
     "grouppage-founder": "{{ns:project}}:創辦人",
     "group-import": "匯入者",
-    "group-import-member": "導入者",
+    "group-import-member": "{{GENDER:$1|匯入者}}",
     "grouppage-import": "{{ns:project}}:匯入者",
     "group-interface_editor": "界面編輯者",
     "group-interface_editor-member": "{{GENDER:$1|界面編輯者}}",

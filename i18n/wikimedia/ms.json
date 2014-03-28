@@ -10,7 +10,7 @@
         ]
     },
     "wikimediamessages-desc": "Pesanan-pesanan Wikimedia",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ms",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=ms",
     "sitesupport": "Derma",
     "tooltip-n-sitesupport": "Derma",
     "specialpages-group-contribution": "Sumbangan/Tabung",
@@ -149,8 +149,8 @@
     "group-inactive-member": "{{GENDER:$1|pengguna tak aktif}}",
     "grouppage-inactive": "{{ns:project}}:Pengguna tak aktif",
     "shared-repo-name-shared": "Wikimedia Commons",
-    "wikimedia-copyright": "Teks disediakan dengan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ms\">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma-terma tambahan mungkin terpakai. Lihat <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terma-Terma Penggunaan</a> untuk butiran lanjut.",
-    "wikidata-copyright": "Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Lesen Creative Commons CC0</a>;\nmaklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">Lesen Creative Commons Attribution/Share-Alike</a>;\ntertakluk pada sebarang syarat tambahan.\nRujuk <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.",
+    "wikimedia-copyright": "Teks disediakan dengan \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ms\"\u003ELesen Creative Commons Pengiktirafan/Perkongsian Serupa\u003C/a\u003E; terma-terma tambahan mungkin terpakai. Lihat \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003ETerma-Terma Penggunaan\u003C/a\u003E untuk butiran lanjut.",
+    "wikidata-copyright": "Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah \u003Ca href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\"\u003ELesen Creative Commons CC0\u003C/a\u003E;\nmaklumat dalam ruang-ruang nama yang lain pula terdapat di bawah \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\"\u003ELesen Creative Commons Attribution/Share-Alike\u003C/a\u003E;\ntertakluk pada sebarang syarat tambahan.\nRujuk \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\"\u003ESyarat-Syarat Penggunaan\u003C/a\u003E untuk butiran lanjut.",
     "wikimedia-copyrightwarning": "Dengan mengklik butang \"{{int:savearticle}}\", anda mempersetujui [https://wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan], dan bersetuju tanpa boleh menarik balik untuk melepaskan sumbangan anda di bawah [https://creativecommons.org/licenses/by-sa/3.0/ Lesen CC-BY-SA 3.0] dan [https://www.gnu.org/copyleft/fdl.html GFDL].\nAnda bersetuju bahawa pautan hiper atau URL ialah atribusi yang memadai di bawah lesen Creative Commons.",
     "wikibase-sitelinks-wikivoyage": "Halaman Wikivoyage yang berpaut dengan perkara ini",
     "cant-delete-main-page": "Anda tidak boleh memadamkan atau memindahkan laman utama.",
@@ -162,5 +162,8 @@
     "createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]",
     "createacct-captcha-help-url": "{{ns:Project}}:Permohonan akaun",
     "createacct-imgcaptcha-help": "Tak nampak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon akaun]]",
-    "wikimedia-developers": "Pembangun"
+    "wikimedia-developers": "Pembangun",
+    "wikimedia-flow-terms-of-use-new-topic": "Dengan mengklik \"Tambah topik\", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",
+    "wikimedia-flow-terms-of-use-reply": "Dengan mengklik \"Balas\", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",
+    "wikimedia-flow-terms-of-use-edit": "Dengan menyimpan suntingan, anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL]."
 }

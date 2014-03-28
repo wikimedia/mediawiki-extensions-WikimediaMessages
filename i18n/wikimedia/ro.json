@@ -14,7 +14,7 @@
         ]
     },
     "wikimediamessages-desc": "Mesaje specifice Wikimediei",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ro",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=ro",
     "sitesupport": "Donații",
     "tooltip-n-sitesupport": "Sprijiniți-ne",
     "specialpages-group-contribution": "Donație / Colectare de fonduri",
@@ -129,7 +129,7 @@
     "group-inactive": "Utilizatori inactivi",
     "group-inactive-member": "{{GENDER:$1|utilizator inactiv|utilizatoare inactivă}}",
     "grouppage-inactive": "{{ns:project}}:Utilizatori inactivi",
-    "wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVedeți detalii la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termenii de utilizare</a>.",
+    "wikimedia-copyright": "Acest text este disponibil sub licența \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\"\u003ECreative Commons cu atribuire și distribuire în condiții identice\u003C/a\u003E;\npot exista și clauze suplimentare.\nVedeți detalii la \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003ETermenii de utilizare\u003C/a\u003E.",
     "wikimedia-copyrightwarning": "Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].\nSunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.",
     "wikibase-sitelinks-wikivoyage": "Pagini de la Wikivoyage care trimit către acest element",
     "wikibase-sitelinks-commons": "Pagini de la Wikimedia Commons care trimit către acest element",

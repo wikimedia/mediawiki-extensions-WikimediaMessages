@@ -15,7 +15,7 @@
         ]
     },
     "wikimediamessages-desc": "විකිමාධ්‍ය විශේෂී පණිවුඩයන්",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=si",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=si",
     "sitesupport": "පරිත්‍යාග",
     "tooltip-n-sitesupport": "අප හට අනුග්‍රහ සපයන්න",
     "specialpages-group-contribution": "දායකත්වය/සංචිතය",
@@ -137,7 +137,7 @@
     "group-inactive": "අක්‍රීය පරිශීලකයන්",
     "group-inactive-member": "{{GENDER:$1|අක්‍රීය පරිශීලක}}",
     "grouppage-inactive": "{{ns:project}}:අක්‍රීය පරිශීලකයන්",
-    "wikimedia-copyright": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;\nඅමතර කොන්දේසි අදාළ විය හැක.\nවිස්තර සඳහා <a href='//wikimediafoundation.org/wiki/Terms_of_Use'>පරිහරණ කොන්දේසි</a> බලන්න.",
+    "wikimedia-copyright": "\u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003E ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට\u003C/a\u003E යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;\nඅමතර කොන්දේසි අදාළ විය හැක.\nවිස්තර සඳහා \u003Ca href='//wikimediafoundation.org/wiki/Terms_of_Use'\u003Eපරිහරණ කොන්දේසි\u003C/a\u003E බලන්න.",
     "wikimedia-copyrightwarning": "\"{{int:savearticle}}\" බොත්තම එබීමෙන්, [https://wikimediafoundation.org/wiki/Terms_of_Use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [https://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.\nමෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.",
     "cant-delete-main-page": "මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.",
     "upload-more-photos-of-this-monument": "මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න",

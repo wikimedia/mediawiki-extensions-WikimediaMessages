@@ -16,7 +16,7 @@
         ]
     },
     "wikimediamessages-desc": "رسائل خاصة بويكيميديا",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ar",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=ar",
     "sitesupport": "تبرع",
     "tooltip-n-sitesupport": "ادعمنا",
     "specialpages-group-contribution": "المساهمات/جمع التبرعات",
@@ -133,7 +133,7 @@
     "group-inactive-member": "{{GENDER:$1|مستخدم غير نشط|مستخدمة  غير نشطة}}",
     "grouppage-inactive": "{{ns:project}}:مستخدمون غير نشطين",
     "shared-repo-name-shared": "ويكيميديا كومنز",
-    "wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nقد تنطبق بنود أخرى أيضًا.\nانظر <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use\">شروط الاستخدام</a> للتفاصيل.",
+    "wikimedia-copyright": "النصوص مُرخّصة \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003Eبرخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل\u003C/a\u003E.\nقد تنطبق بنود أخرى أيضًا.\nانظر \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_use\"\u003Eشروط الاستخدام\u003C/a\u003E للتفاصيل.",
     "wikimedia-copyrightwarning": "بالضغط على زر \"{{int:savearticle}}\"، فإنك توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
     "cant-delete-main-page": "لا يمكنك حذف أو نقل الصفحة الرئيسية.",
     "upload-more-photos-of-this-monument": "قم برفع المزيد من الصور لهذا الأثر",
