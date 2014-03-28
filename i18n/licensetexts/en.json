@@ -1,6 +1,8 @@
 {
     "@metadata": {
-        "authors": []
+        "authors": [
+            "Reedy"
+        ]
     },
     "wikimedialicensetexts-desc": "Wikimedia license messages",
     "wm-license-attribution-with-author-text": "The copyright holder of this file, $1, allows anyone to use it '''for any purpose, provided that''' the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.",
