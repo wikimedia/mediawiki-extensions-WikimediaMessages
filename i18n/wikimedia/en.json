@@ -155,13 +155,7 @@
     "group-inactive": "Inactive users",
     "group-inactive-member": "{{GENDER:$1|inactive user}}",
     "grouppage-inactive": "{{ns:project}}:Inactive users",
-    "search-interwiki-custom": "wiktionary:From Wiktionary
-wikibooks:From Wikibooks
-wikinews:From Wikinews
-wikiquote:From Wikiquote
-wikisource:From Wikisource
-wikiversity:From Wikiversity
-wikivoyage:From Wikivoyage",
+    "search-interwiki-custom": "wiktionary:From Wiktionary\nwikibooks:From Wikibooks\nwikinews:From Wikinews\nwikiquote:From Wikiquote\nwikisource:From Wikisource\nwikiversity:From Wikiversity\nwikivoyage:From Wikivoyage",
     "shared-repo-name-shared": "Wikimedia Commons",
     "wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
     "wikidata-copyright": "All structured data from the main and property namespace is available under the <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0 License</a>;\ntext in the other namespaces is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">Creative Commons Attribution/Share-Alike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Terms of Use</a> for details.",
