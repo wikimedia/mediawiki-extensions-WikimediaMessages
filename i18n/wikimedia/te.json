@@ -122,7 +122,6 @@
     "group-translationadmin": "అనువాద నిర్వాహకులు",
     "group-translationadmin-member": "{{GENDER:$1|అనువాద నిర్వాహకుడు|అనువాద నిర్వాహకురాలు}}",
     "grouppage-translationadmin": "{{ns:project}}:అనువాద నిర్వాహకులు",
-    "group-zeroadmin": "నిర్వాహకులు లేరు",
     "group-coder": "కోడర్లు",
     "group-coder-member": "{{GENDER:$1|సంకేతాలు రాసే వారు}}",
     "group-inactive": "అచేతన వాడుకరులు",

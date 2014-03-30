@@ -124,7 +124,6 @@
     "group-translationadmin": "Iwwersetzungsadministrateuren",
     "group-translationadmin-member": "{{GENDER:$1|Iwwersetzungsadministrateur|Iwwersetzungsadministratrice}}",
     "grouppage-translationadmin": "{{ns:project}}:Iwwersetzungs-Administrateuren",
-    "group-zeroadmin": "Zero-Administrateuren",
     "group-coder": "Programméierer",
     "group-coder-member": "{{GENDER:$1|Programméierer}}",
     "group-inactive": "Benotzer déi net aktiv sinn",

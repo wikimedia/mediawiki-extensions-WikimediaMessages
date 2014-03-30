@@ -142,7 +142,6 @@
     "group-translationadmin": "Administratorzy tłumaczeń",
     "group-translationadmin-member": "{{GENDER:$1|administrator|administratorka}} tłumaczeń",
     "grouppage-translationadmin": "{{ns:project}}:Administratorzy tłumaczeń",
-    "right-zero-edit": "Edycja stron w przestrzeni nazw Zero",
     "group-centralnoticeadmin": "Administratorzy wspólnych komunikatów",
     "group-centralnoticeadmin-member": "{{GENDER:$1|administrator|administratorka}} wspólnych komunikatów",
     "group-coder": "Programiści",
