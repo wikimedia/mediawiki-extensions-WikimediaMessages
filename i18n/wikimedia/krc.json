@@ -22,6 +22,7 @@
     "shared-repo-name-shared": "Викигёзен",
     "wikimedia-copyright": "Текст, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution/Share-Alike лицензияны</a> шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ru\">Хайырланыу шартла</a>.",
     "wikimedia-copyrightwarning": "Кесигизни тюрлендириулеригизни сакъласагъыз, [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution/Share-Alike 3.0] бла [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Толуракъ хапар былайда алыгъыз: [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Хайырланыу шартла].",
+    "wikibase-repo-name": "Викибилгиле",
     "createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(сайлауда болуш)]]",
     "createacct-imgcaptcha-help": "Суратны кёрелмеймисе? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтха соруу бер]]",
     "wikimedia-developers": "Джарашдырыучула"
