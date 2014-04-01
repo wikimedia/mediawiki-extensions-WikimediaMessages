@@ -173,6 +173,7 @@
     "group-inactive": "{{doc-group|inactive}}\n{{Identical|Inactive user}}",
     "group-inactive-member": "{{doc-group|inactive|member}}\n{{Identical|Inactive user}}",
     "grouppage-inactive": "{{doc-group|inactive|page}}\n{{Identical|Inactive user}}",
+    "search-interwiki-custom": "Friendly sister project site names in search results, one project name per line, in an <nowiki><iwprefix>:<caption></nowiki> format. For example, possible settings for the English Wikipedia are:\n\nwikt:Word definitions from Wiktionary<br />\ns:From Wikisource<br />\nn:In Wikinews<br />\nq:Quotes from Wikiquote<br />\nv:From Wikiversity<br />\nb:In Wikibooks<br />\nvoy:In Wikivoyage",
     "shared-repo-name-shared": "{{optional}}\n{{Identical|Wikimedia Commons}}",
     "wikimedia-copyright": "{{Identical/Wikimedia-licensing}}\nThis message is displayed in the site footer. It is the default licensing policy for most Wikimedia sites.",
     "wikidata-copyright": "This message is displayed in the site footer. It is the special licensing policy for the Wikidata project.\n\nThe attribute \"<code>title</code>\" values (\"Definition of the Creative Commons CC0 License\", \"Definition of the Creative Commons Attribution/Share-Alike License\" and \"Wikimedia Foundation Terms of Use\") are also translatable.",
