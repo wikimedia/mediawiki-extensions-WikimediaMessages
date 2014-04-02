@@ -160,7 +160,7 @@
     "wikimedia-copyright": "本站的全部文字在<a \"href=\"{{localurle:Wikipedia:CC-by-sa-3.0協議文本}}\"title=\"Wikipedia:CC-by-sa-3.0協議文本\">知識共享署名 - 相同方式共享3.0協議</a>之條款下提供，附加條款亦可能應用。（請參閱 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">使用條款</a>）",
     "wikidata-copyright": "所有來自主和屬性名字空間的結構化數據以<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">知識共享CC0協議</a>下發佈； 其他名字空間中的文本在<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the知識共享署名-相同方式共享協議\">知識共享署名-相同方式共享協議</a>下發佈；附加條款可能適用。參見<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"維基媒體基金會的使用條款\">使用條款</a>了解細節。",
     "wikimedia-copyrightwarning": "通過保存更改，表明您同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]，並採用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0协议文本 CC BY-SA 3.0許可協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]不可逆地發表你的貢獻。你同意超鏈接或URL足以作為創作共享協議的署名。",
-    "wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\" title=\"共享創意 姓名標示-相同方式分享授權之定義\" target=\"_blank\">CC BY-SA 3.0</a>與<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"GFDL之定義\" target=\"_blank\">GFDL</a>",
+    "wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\" title=\"共享創意 姓名標示-相同方式分享授權之定義\" target=\"_blank\">CC BY-SA 3.0</a>與<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL之定義\" target=\"_blank\">GFDL</a>",
     "wikibase-repo-name": "維基數據",
     "wikibase-sitelinks-wikiquote": "連入此項之維基語錄頁面",
     "wikibase-sitelinks-wikisource": "連入此項之維基文庫頁面",
