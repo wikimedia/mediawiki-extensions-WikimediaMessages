@@ -1,8 +1,10 @@
 {
     "@metadata": {
         "authors": [
-            "Siebrand"
+            "Siebrand",
+            "SPQRobin"
         ]
     },
+    "contactpage-license-request-username": "Gebruikersnaam *",
     "contactpage-wikimedia-trademark-wikimedia": "Wikimediagemeenschap"
 }

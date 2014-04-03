@@ -54,5 +54,7 @@
     "wm-license-information-other-versions": "Басқа нұсқалары",
     "wm-license-original-upload-log": "Тұпнұсқа жүктеу журналы",
     "wm-license-own-work": "Өзімнің жұмысым",
-    "wm-license-self-one-license": "Мен бұл туындының авторымын, келесі лицензия аясында бұны жариялаймын:"
+    "wm-license-self-one-license": "Мен бұл туындының авторымын, келесі лицензия аясында бұны жариялаймын:",
+    "wm-license-self-multiple-licenses": "Мен бұл туындының авторымын, келесі лицензия аясында бұны жариялаймын:",
+    "wm-license-self-multiple-licenses-select": "Өз қалауыңызбен лицензияны таңдауыңызға болады."
 }
