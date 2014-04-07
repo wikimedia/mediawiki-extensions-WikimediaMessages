@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chrumps"
+        ]
+    },
+    "contactpage-license-request-username": "Nazwa użytkownika *",
+    "contactpage-license-request-title": "Tytuł (jeśli dotyczy)",
+    "contactpage-license-request-organization": "Organizacja (jeśli dotyczy)",
+    "contactpage-license-request-organization-type": "Rodzaj organizacji (jeśli dotyczy)",
+    "contactpage-license-request-description": "Opis zastosowania",
+    "contactpage-wikimedia-trademark-w": "Stylizowane „W”",
+    "contactpage-title-licenseabuse": "Formularz kontaktowy naruszenia praw autorskich",
+    "contactpage-license-abuse-description": "Opisz nadużycie",
+    "contactpage-license-abuse-yourcontact": "Twoje dane kontaktowe (jeśli mamy się z tobą kontaktować)"
+}

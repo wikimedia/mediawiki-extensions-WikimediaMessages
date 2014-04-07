@@ -3,7 +3,8 @@
         "authors": [
             "Als-Chlämens",
             "Als-Holder",
-            "Multichill"
+            "Multichill",
+            "Geitost"
         ]
     },
     "wikimedialicensetexts-desc": "Wikimedia-Lizänznochrichte",
@@ -46,7 +47,7 @@
     "wm-license-creator-work-period": "Wirkigszyt",
     "wm-license-creator-work-location": "Wirkigsort",
     "wm-license-creator-linkback": "Uf d Infoboxvorlag vum Aaleger verwyyse",
-    "wm-license-fal-text": "Copyleft: Der Chunschtwärch isch frej; Du chasch s wyter verbreite un/oder abändere unter dr Bedingige vu dr '''[[{{int:wm-license-fal-wiki-link}}|Free Art-Lizänz]]'''. Du findsch e Muschter vu dr dräre Lizänz uf [{{int:wm-license-fal-full-link}} Copyleft Attitude-Websyte] un au uf andre Syte.",
+    "wm-license-fal-text": "Copyleft: Der Chunschtwärch isch frej; Du chasch s wyter verbreite un/oder abändere unter dr Bedingige vu dr '''[[{{int:wm-license-fal-wiki-link}}|Free-Art-Lizänz]].''' Du findsch e Muschter vu dr dräre Lizänz uf [{{int:wm-license-fal-full-link}} Copyleft-Attitude-Websyte] un au uf andre Syte.",
     "wm-license-fal-wiki-link": "w:als:Lizenz Freie Kunst",
     "wm-license-fsf-wiki-link": "w:als:Free Software Foundation",
     "wm-license-free-software-wiki-link": "w:als:Freie Software",
@@ -72,7 +73,7 @@
     "wm-license-information-permission-reusing-text": "Wyternutzig vu däre Datei",
     "wm-license-information-permission-see-below": "Lueg unte.",
     "wm-license-information-other-versions": "Anderi Versione",
-    "wm-license-lgpl-text": "Die Bibliotek isch [[{{int:wm-license-free-software-wiki-link}}|freji Software]]; Du chasch si wyterverbeite un/oder abändere unter dr Bedingige vu dr '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public-Lizänz]]''' wie si vereffentligt isch vu dr [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; Version 2.1 vu dr Lizänz oder (no Dyyre Wahl) e speteri Version. Die Bibliotek isch verbreitet wore in dr Hoffnig, ass si nitzlig isch, aber s bstoht '''kei Gwährleischtig''' nit uusdricklig un nit implizit, au nit di implizit Gwährleischtig ass si '''märtgängig''' isch oder '''cha brucht wäre fir e bstimmte Zwäck'''. Lueg d [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] un d [{{int:wm-license-lgpl-3-full-link}} Version 3 vu dr GNU Lesser General Public-Lizänz] fir meh Informatione.",
+    "wm-license-lgpl-text": "Die Bibliotek isch [[{{int:wm-license-free-software-wiki-link}}|freji Software]]; Du chasch si wyterverbeite un/oder abändere unter dr Bedingige vu dr Lizänz '''''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public]]''''' wie si vereffentligt isch vu dr ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];'' Version 2.1 vu dr Lizänz oder (no Dyyre Wahl) e speteri Version. Die Bibliotek isch verbreitet wore in dr Hoffnig, ass si nitzlig isch, aber s bstoht '''kei Gwährleischtig''' nit uusdricklig un nit implizit, au nit di implizit Gwährleischtig ass si '''märtgängig''' isch oder '''cha brucht wäre fir e bstimmte Zwäck'''. Lueg d [{{int:wm-license-lgpl-2.1-full-link}} Version 2.1] un d [{{int:wm-license-lgpl-3-full-link}} Version 3 vu dr Lizänz ''GNU Lesser General Public''] fir meh Informatione.",
     "wm-license-lgpl-wiki-link": "w:als:GNU Lesser General Public License",
     "wm-license-licensing-update-text": "Die Lizänzmarkierig isch wäg em GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizänzupdate]] zuegfiegt wore.",
     "wm-license-licensing-update-wiki-link": "meta:Licensing update/gsw",
