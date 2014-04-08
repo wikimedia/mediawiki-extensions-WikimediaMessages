@@ -118,7 +118,7 @@
     "group-inactive-member": "{{GENDER:$1|અસક્રિય સભ્ય}}",
     "grouppage-inactive": "{{ns:project}}:અસક્રિય સભ્યો",
     "wikimedia-copyright": "આ લેખન <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a>હેઠળ ઉપલબ્ધ છે;\nવધારાની શરતો લાગુ છે.\nવધુ માહિતી માટે <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use\">વપરાશની શરતો</a> જુઓ .",
-    "wikimedia-copyrightwarning": "\"{{int:savearticle}}\" બટન પર ક્લિક કરવાનો અર્થ એમ છે કે તમે અહિંની [https://wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 પરવાના] તથા [https://www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહીં ઉપલબ્ધ કરાવો છો.\nતમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કોમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.",
+    "wikimedia-copyrightwarning": "ફેરફારો સાચવવાનો અર્થ એમ છે કે તમે અહીંની [https://wikimediafoundation.org/wiki/Terms_of_Use વપરાશની નીતિ] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 પરવાના] તથા [https://www.gnu.org/copyleft/fdl.html GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહીં ઉપલબ્ધ કરાવો છો.\nતમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કૉમન્સ પરવાના હેઠળ હાયપર લિંક અથવા URL એ પૂરતું શ્રેય છે.",
     "cant-delete-main-page": "તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.",
     "createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(સભ્યનામ માર્ગદર્શિકા)]]"
 }

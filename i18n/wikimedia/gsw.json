@@ -3,7 +3,8 @@
         "authors": [
             "Als-Chlämens",
             "Als-Holder",
-            "Melancholie"
+            "Melancholie",
+            "Geitost"
         ]
     },
     "wikimediamessages-desc": "Wikimediaspezifischi Syschtemnochrichte",
@@ -127,8 +128,8 @@
     "group-inactive": "Inaktivi Benutzer",
     "group-inactive-member": "{{GENDER:$1|Inaktiver Benutzer|Inaktivi Benutzeri}}",
     "grouppage-inactive": "{{ns:project}}:Inactivi Benutzer",
-    "wikimedia-copyright": "Tekscht isch verfiegbar unter dr <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">Creative Commons Attribution/Share-Alike License</a>; s cha syy, ass es zuesätzligi Bedingige git. Lueg d <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Nutzigsbedingige</a> fir Einzelheite.",
-    "wikimedia-copyrightwarning": "Mit em Klick uf „{{int:savearticle}}“ erklersch di yyverstande mit dr [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzigsbedingige] un lizänziersch dyni Bearbeitig uuwiderrueflig unter dr Lizänz [https://als.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported ''Creative Commons'' „Namensnännig / Wytergab unter glyche Bedingige 3.0“] un dr [https://als.wikipedia.org/wiki/Wikipedia:GNU_Freie_Dokumentationslizenz GFDL].\nDu stimmsch zue, dass e Hyperlink oder e URL zue dr Syte fir di notwändig Zueschryybig, no dr ''Creative-Commons''-Lizänz, längt.",
+    "wikimedia-copyright": "Tekscht isch verfiegbar unter dr <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">Creative-Commons-Lizänz «Namensnännig-Wytergab unter glyyche Bedingige»</a>; s cha syy, ass es zuesätzligi Bedingige git. Lueg d <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Nutzigsbedingige</a> fir Einzelheite.",
+    "wikimedia-copyrightwarning": "Mit em Klick uf „{{int:savearticle}}“ erklersch di yyverstande mit dr [https://wikimediafoundation.org/wiki/Terms_of_Use Nutzigsbedingige] un lizänziersch dyni Bearbeitig uuwiderrueflig unter dr Lizänz [https://als.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported ''Creative Commons'' «Namensnännig – Wytergab unter glyche Bedingige 3.0»] un dr [https://als.wikipedia.org/wiki/Wikipedia:GNU_Freie_Dokumentationslizenz GFDL].\nDu stimmsch zue, dass e Hyperlink oder e URL zue dr Syte fir di notwändig Zueschryybig, no dr ''Creative-Commons''-Lizänz, längt.",
     "cant-delete-main-page": "Du chasch d Houptsyte weder lösche noch verschiebe.",
     "wikimedia-translationnotifications-signup-legal": "Mit Aagab vu däne Informatione stimmsch zue, d Wikimedia Foundation di zue Themene im Zämmehang mit Ibersetzige un andere Informatione zue Wikimedia derf kontaktiere, wu unsre Meinig no fir Di vu Interässi sin. Du stimmsch au zue, dass Dyni Date in dr Vereinigte Staate vu Amerika chenne gspycheret wäre un unsere [https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzrichtlinie] unterlige.",
     "upload-more-photos-of-this-monument": "Wyteri Foto vu däm Dänkmol uffelade"

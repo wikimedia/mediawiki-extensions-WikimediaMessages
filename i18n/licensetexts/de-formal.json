@@ -1,9 +1,10 @@
 {
     "@metadata": {
         "authors": [
-            "ChrisiPK"
+            "ChrisiPK",
+            "Geitost"
         ]
     },
-    "wm-license-licensing-update-text": "Diese Lizenzmarkierung wurde auf Grund des GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizenzupdates]] hinzugefügt.",
+    "wm-license-licensing-update-text": "Diese Lizenzmarkierung wurde auf Grund der GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|Lizenzaktualisierung]] hinzugefügt.",
     "wm-license-self-multiple-licenses-select": "Sie dürfen es unter einer der obigen Lizenzen Ihrer Wahl verwenden."
 }
