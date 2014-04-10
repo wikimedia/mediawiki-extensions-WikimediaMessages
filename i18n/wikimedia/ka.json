@@ -17,7 +17,7 @@
         ]
     },
     "wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=ka",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ka",
     "sitesupport": "შეწირულობები",
     "tooltip-n-sitesupport": "მხარდაჭერა",
     "specialpages-group-contribution": "წვლილი / ფონდრაიზერი",
@@ -138,7 +138,7 @@
     "group-inactive": "არააქტიური მომხმარებლები",
     "group-inactive-member": "{{GENDER:$1|არააქტიური მომხმარებელი}}",
     "grouppage-inactive": "{{ns:project}}:არააქტიური მომხმარებლები",
-    "wikimedia-copyright": "მოცემული ტექსტი წარმოდგენილია \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003ECreative Commons Attribution/Share-Alike ლიცენზიით\u003C/a\u003E; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003Eგამოყენების წესები\u003C/a\u003E.",
+    "wikimedia-copyright": "მოცემული ტექსტი წარმოდგენილია <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">გამოყენების წესები</a>.",
     "wikimedia-copyrightwarning": "ღილაკ \"{{int:savearticle}}\"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.\nთქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.",
     "wikibase-sitelinks-wikisource": "ვიკიწყაროს გვერდები, დაკავშირებული ამ ელემენტთან",
     "wikibase-sitelinks-wikivoyage": "ვიკივოიაჟის გვერდები, დაკავშირებული ამ ელემენტთან",

@@ -113,6 +113,6 @@
     "group-inactive": "பங்களிக்காத பயனர்கள்",
     "group-inactive-member": "{{GENDER:$1|பங்களிக்காத பயனர்}}",
     "grouppage-inactive": "{{ns:project}}:பங்களிக்காத பயனர்கள்",
-    "wikimedia-copyrightwarning": "இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] மற்றும் [https://www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.\n\nஇந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள்.\n\nவிவரங்களுக்கு, [https://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.",
+    "wikimedia-copyrightwarning": "இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] மற்றும் [https://www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.\n\nஇந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள்.\n\nவிவரங்களுக்கு, [https://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.",
     "cant-delete-main-page": "முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது."
 }

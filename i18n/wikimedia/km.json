@@ -11,7 +11,7 @@
         ]
     },
     "wikimediamessages-desc": "សារយថាប្រភេទរបស់វិគីមេឌា",
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate\u0026utm_medium=sidebar\u0026utm_campaign=spontaneous\u0026uselang=km",
+    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=km",
     "sitesupport": "វិភាគទាន",
     "tooltip-n-sitesupport": "គាំទ្រ​យើងខ្ញុំ",
     "specialpages-group-contribution": "ការបរិច្ចាគនិងការប្រមូលមូលនិធិ",
@@ -75,7 +75,7 @@
     "group-inactive": "ក្រុម​អ្នក​ប្រើ​ប្រាស់​អសកម្ម​",
     "group-inactive-member": "{{GENDER:$1|អ្នក​ប្រើ​ប្រាស់​អសកម្ម​}}",
     "grouppage-inactive": "{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម",
-    "wikimedia-copyright": "អត្ថបទ​នេះ​ត្រូវ​បាន​ផ្ដល់​ក្រោម​អាជ្ញាបណ្ណ \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003ECreative Commons Attribution/Share-Alike License\u003C/a\u003E​ ។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​\nសូមមើល \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003Eលក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់\u003C/a\u003E សម្រាប់​ព័ត៌មានលម្អិត​។",
+    "wikimedia-copyright": "អត្ថបទ​នេះ​ត្រូវ​បាន​ផ្ដល់​ក្រោម​អាជ្ញាបណ្ណ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>​ ។ លក្ខខណ្ឌបន្ថែម​ផ្សេងៗទៀតក៏នឹងអាចត្រូវបានអនុវត្ត។​\nសូមមើល <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់</a> សម្រាប់​ព័ត៌មានលម្អិត​។",
     "wikimedia-copyrightwarning": "តាមរយៈ​ការចុចលើប៊ូតុង \"{{int:savearticle}}\" អ្នកយល់ព្រមជាមួយ[https://wikimediafoundation.org/wiki/Terms_of_Use លក្ខខណ្ឌនៃការប្រើប្រាស់] ហើយអ្នកយល់ព្រមដោយឥតកែប្រែ​ក្នុងការចែកចាយការរួមចំណែករបស់អ្នកក្រោម [https://creativecommons.org/licenses/by-sa/3.0/ អាជ្ញាបណ្ឌ CC-BY-SA 3.0] និង [https://www.gnu.org/copyleft/fdl.html GFDL]។ អ្នកក៏យល់ព្រមថាការប្រើតំណភ្ជាប់ហាយភើលីងឬURLគឺគ្រប់គ្រាន់សំរាប់បញ្ជាក់ពីភាពជាម្ចាស់កម្មសិទ្ធរបស់អ្នក ក្រោមអាជ្ញាបណ្ឌ Creative Commons។",
     "cant-delete-main-page": "អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។"
 }

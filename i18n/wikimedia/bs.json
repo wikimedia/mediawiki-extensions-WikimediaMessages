@@ -108,8 +108,8 @@
     "group-inactive": "Neaktivni korisnici",
     "group-inactive-member": "neaktivni korisnik",
     "grouppage-inactive": "{{ns:project}}:Neaktivni korisnici",
-    "wikimedia-copyright": "Tekst je dostupan pod <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike licencom</a>;\ndodatni uslovi se mogu primijeniti.\nZa detalje pogledajte <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">uslove korištenja</a>.",
-    "wikimedia-copyrightwarning": "Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike licencom 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL].\nSlažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.\nZa dalje detalje pogledajte [https://wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].",
+    "wikimedia-copyright": "Tekst je dostupan pod <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licencom</a>;\ndodatni uslovi se mogu primijeniti.\nZa detalje pogledajte <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">uslove korištenja</a>.",
+    "wikimedia-copyrightwarning": "Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike licencom 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL].\nSlažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.\nZa dalje detalje pogledajte [https://wikimediafoundation.org/wiki/Terms_of_Use Pravila korištenja].",
     "createacct-helpusername-url": "Project:Korisničko_ime",
     "createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi da izaberem)]]",
     "createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]"

@@ -102,7 +102,7 @@
     "group-inactive": "نکمے ورتاوے",
     "group-inactive-member": "{{GENDER:$1|ویلا ورتن والا}}",
     "grouppage-inactive": "{{ns:project}}:ویلے ورتن آلے",
-    "wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
-    "wikimedia-copyrightwarning": "By saving, you agree to irrevocably release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike License 3.0] and the [https://www.gnu.org/copyleft/fdl.html GFDL].\nYou agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.\nSee the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.",
+    "wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
+    "wikimedia-copyrightwarning": "By saving, you agree to irrevocably release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] and the [https://www.gnu.org/copyleft/fdl.html GFDL].\nYou agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.\nSee the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.",
     "cant-delete-main-page": "تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او"
 }

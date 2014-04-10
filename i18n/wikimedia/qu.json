@@ -114,7 +114,7 @@
     "group-inactive": "Puñuchkaq ruraqkuna",
     "group-inactive-member": "{{GENDER:$1|}}puñuchkaq ruraq",
     "grouppage-inactive": "{{ns:project}}:Puñuchkaq ruraqkuna",
-    "wikimedia-copyright": "Kay qillqataqa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a> nisqapi ch'uyanchasqa saqillaykamam chaskinki;\nyapasqa phatakunachá kanqaku.\n<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Llamk'apuypaq phatakuna</a> p'anqapi qhaway astawan willasunaykipaq.",
+    "wikimedia-copyright": "Kay qillqataqa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> nisqapi ch'uyanchasqa saqillaykamam chaskinki;\nyapasqa phatakunachá kanqaku.\n<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Llamk'apuypaq phatakuna</a> p'anqapi qhaway astawan willasunaykipaq.",
     "wikimedia-copyrightwarning": "\"{{int:savearticle}}\" butunta ñit'ispaykiqa, [https://wikimediafoundation.org/wiki/Terms_of_Use kuspay phatakuna] nisqaman arí ninkim. Llamk'asqaykikunata mana kutinalla [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] nisqa saqillayman, [https://www.gnu.org/copyleft/fdl.html GFDL] nisqa saqillaymanpas saqimpunki.\nArí ninki musuq llamk'apuqkunap qillqasqaykimanta willaspan mast'arinanman, llikapi tiyaypura llamk'apusqayki p'anqaman t'inkimuqwan, chaytaq lliwmanta aswan pisi.",
     "cant-delete-main-page": "Qhapaq p'anqataqa manam qulluyta icha astayta atinkichu."
 }

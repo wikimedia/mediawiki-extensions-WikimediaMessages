@@ -10,7 +10,7 @@
     "contactpage-subject-requestlicense": "Richiesta di riutilizzo del marchio Wikimedia",
     "contactpage-license-request-username": "Nome utente *",
     "contactpage-license-request-relevantsite": "Sito di Wikimedia rilevante (se presente)",
-    "contactpage-license-request-group": "Capitolo di Wikimedia, organizzazione tematica o gruppo di utenti \u0026 titolo (se presente) *",
+    "contactpage-license-request-group": "Capitolo di Wikimedia, organizzazione tematica o gruppo di utenti & titolo (se presente) *",
     "contactpage-license-request-title": "Titolo (se applicabile)",
     "contactpage-license-request-organization": "Organizzazione (se applicabile)",
     "contactpage-license-request-organization-type": "Tipo di organizzazione (se applicabile)",
@@ -20,6 +20,7 @@
     "contactpage-license-request-use-print": "Stampa",
     "contactpage-license-request-use-tv": "TV, film o trasmissione",
     "contactpage-license-request-use-other": "Altro",
+    "contactpage-license-request-use-note": "<strong>Nota:</strong> se si concede l'uso del marchio, potresti essere elencato in una lista pubblica di usi autorizzati.",
     "contactpage-license-request-description": "Descrizione dell'utilizzo",
     "contactpage-license-request-selectmark": "Seleziona il marchio",
     "contactpage-wikimedia-trademark-globe": "Globo puzzle di Wikipedia",
@@ -28,7 +29,10 @@
     "contactpage-wikimedia-trademark-wikimedia": "Comunità di Wikimedia",
     "contactpage-title-licenseabuse": "Modulo di contatto per abusi di copyright",
     "contactpage-pagetext-licenseabuse": "Si prega di utilizzare il modulo sottostante per contattarci su questioni relative all'abuso di copyright",
+    "contactpage-subject-licenseabuse": "Notifica di abuso marchio Wikimedia",
     "contactpage-license-abuse-description": "Descrivi l'abuso",
+    "contactpage-license-abuse-selectmark": "A quale marchio si riferisce l'abuso?",
+    "contactpage-license-abuse-location": "Luogo dell'abuso (on/offline)",
     "contactpage-license-abuse-theircontact": "Informazioni di contatto della persona che abusa del marchio (se noto)",
     "contactpage-license-abuse-yourcontact": "I suoi recapiti (in caso avessimo bisogno di metterci in contatto)"
 }

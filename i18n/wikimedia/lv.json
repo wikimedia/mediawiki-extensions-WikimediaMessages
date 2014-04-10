@@ -46,8 +46,8 @@
     "group-inactive": "Neaktīvi lietotāji",
     "group-inactive-member": "{{GENDER:$1|neaktīvs lietotājs|neaktīva lietotāja}}",
     "grouppage-inactive": "{{ns:project}}:Neaktīvi lietotāji",
-    "wikimedia-copyright": "Teksts ir pieejams saskaņā ar \u003Ca href=\"https://creativecommons.org/licenses/by-sa/3.0/\"\u003ECreative Commons Attribution/Share-Alike licenci\u003C/a\u003E;\nvar pastāvēt papildus ierobežojumi.\nPlašākai informācijai skatīt \u003Ca href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"\u003ELietošanas noteikumus\u003C/a\u003E.",
-    "wikimedia-copyrightwarning": "Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution/Share-Alike 3.0] un [https://www.gnu.org/copyleft/fdl.html GFDL] licenci.\nJūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.\nPlašākai informācijai skatīt [https://wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].",
+    "wikimedia-copyright": "Teksts ir pieejams saskaņā ar <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenci</a>;\nvar pastāvēt papildus ierobežojumi.\nPlašākai informācijai skatīt <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Lietošanas noteikumus</a>.",
+    "wikimedia-copyrightwarning": "Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] un [https://www.gnu.org/copyleft/fdl.html GFDL] licenci.\nJūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.\nPlašākai informācijai skatīt [https://wikimediafoundation.org/wiki/Terms_of_Use Lietošanas noteikumus].",
     "extdist-branch-REL1_22": "1.22 (jaunākais stabilais MediaWiki)",
     "wikimedia-developers": "Izstrādātāji"
 }
