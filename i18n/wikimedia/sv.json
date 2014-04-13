@@ -128,7 +128,7 @@
     "group-editinterface-member": "{{GENDER:$1|gränssnittsredigerare}}",
     "group-steward": "Stewarder",
     "group-steward-member": "{{GENDER:$1|steward}}",
-    "grouppage-steward": "m:Stewards/nb",
+    "grouppage-steward": "m:Stewards/sv",
     "group-sysadmin": "Systemadministratörer",
     "group-sysadmin-member": "{{GENDER:$1|systemadministratör}}",
     "group-API_High_Limit_Requestor": "API hög gräns begärare",

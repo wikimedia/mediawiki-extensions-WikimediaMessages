@@ -9,7 +9,8 @@
             "Odder",
             "Przemub",
             "Sp5uhe",
-            "Yarl"
+            "Yarl",
+            "WTM"
         ]
     },
     "wikimedialicensetexts-desc": "Teksty licencji Wikimedia",
@@ -52,7 +53,7 @@
     "wm-license-creator-work-period": "Okres działalności",
     "wm-license-creator-work-location": "Miejsce działalności",
     "wm-license-creator-linkback": "Link do szablonu twórcy",
-    "wm-license-fal-text": "Prawa autorskie: To dzieło artystyczne jest wolne; możesz je dystrybuować oraz zmieniać zgodnie z warunkami '''[[{{int:wm-license-fal-wiki-link}}|Licencji Wolnej Sztuki]]'''. Wzór licencji odnajdziesz na [{{int:wm-license-fal-full-link}} witrynie Copyleft Attitude] oraz na innych stronach.",
+    "wm-license-fal-text": "Prawa autorskie: To dzieło jest wolne; możesz je dystrybuować oraz zmieniać zgodnie z warunkami '''[[{{int:wm-license-fal-wiki-link}}|Licencji Wolnej Sztuki]]'''. Wzór licencji odnajdziesz na [{{int:wm-license-fal-full-link}} witrynie Copyleft Attitude] oraz [{{int:wm-license-fal-full-link-commons}} na innych stronach].",
     "wm-license-fal-wiki-link": "w:pl:Free Art License",
     "wm-license-fal-full-link": "http://artlibre.org/licence/lal/pl",
     "wm-license-fsf-wiki-link": "w:pl:Free Software Foundation",
