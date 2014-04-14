@@ -80,7 +80,10 @@
     "wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nسەیری <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.",
     "wikimedia-copyrightwarning": "بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.\nقەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.\nسەیری [https://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.",
     "wikibase-repo-name": "ویکیدراوە",
-    "wikibase-sitelinks-wikivoyage": "پێرستی پەڕە بەسراوەکانی ویکیسەفەر بەم بەندەوە",
+    "wikibase-sitelinks-wikiquote": "پەڕە بەسراوەکانی ویکیوتە بەم بەندەوە",
+    "wikibase-sitelinks-wikisource": "پەڕە بەسراوەکانی ویکیژێدەر بەم بەندەوە",
+    "wikibase-sitelinks-wikivoyage": "پەڕە بەسراوەکانی ویکیسەفەر بەم بەندەوە",
+    "wikibase-sitelinks-sitename-commonswiki": "کۆمنز",
     "cant-delete-main-page": "ناتوانی پەڕەی دەستپێک بسڕییەوە یان بگوازییەوە.",
     "createacct-captcha-help-url": "{{ns:Project}}: داخوازی ھەژمارێک",
     "wikimedia-developers": "پەرەپێدەران"

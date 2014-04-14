@@ -127,12 +127,13 @@
     "group-inactive-member": "{{GENDER:$1|usuari inactiu|usuària inactiva}}",
     "grouppage-inactive": "{{ns:project}}:Usuaris inactius",
     "wikimedia-copyright": "El text està disponible sota la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ca\">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.\nVegeu les <a href=\"https://wikimediafoundation.org/wiki/Condicions_d%27%C3%BAs\">condicions d'ús</a> per a més informació.",
-    "wikimedia-copyrightwarning": "Fent clic al botó de \"{{int:savearticle}}\" esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [https://creativecommons.org/licenses/by-sa/3.0/ llicència CC-BY-SA 3.0] i la [https://www.gnu.org/copyleft/fdl.html GFDL].\nAccepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.",
+    "wikimedia-copyrightwarning": "En desar els canvis esteu acceptant les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d'ús] i esteu acceptant alliberar irrevocablement la vostra contribució sota la [https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Text_de_la_llic%C3%A8ncia_de_Creative_Commons_Reconeixement-Compartir_Igual_3.0_No_adaptada llicència CC BY-SA 3.0] i la [https://www.gnu.org/copyleft/fdl.html GFDL].\nAccepteu que un hiperenllaç o URL és suficient atribució sota la llicència Creative Commons.",
     "wikibase-sitelinks-wikivoyage": "Pàgines de Viquiviatges vinculades a aquest element",
-    "wikibase-sitelinks-commons": "Pàgines de Wikimedia Commons vinculades a aquest element",
+    "wikibase-sitelinks-commons": "Pàgina de Wikimedia Commons vinculada a aquest element",
     "wikibase-otherprojects-wikiquote": "Viquidites",
     "wikibase-otherprojects-wikipedia": "Viquipèdia",
     "wikibase-otherprojects-wikisource": "Viquitexts",
+    "wikibase-sitelinks-sitename-commonswiki": "Commons",
     "cant-delete-main-page": "No podeu esborrar ni traslladar la portada.",
     "upload-more-photos-of-this-monument": "Carrega més fotos d'aquest monument",
     "createacct-helpusername-url": "{{ns:Project}}:Nom d'usuari",
@@ -140,5 +141,6 @@
     "createacct-captcha-help-url": "{{ns:Project}}:Sol·licitar un compte",
     "createacct-imgcaptcha-help": "No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]",
     "wikimedia-developers": "Desenvolupadors",
-    "wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/ca"
+    "wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/ca",
+    "wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Política de privadesa]"
 }
