@@ -1,28 +1,28 @@
 {
-    "@metadata": {
-        "authors": [
-            "Xuacu"
-        ]
-    },
-    "wm-license-cc-attribution": "Reconocimientu",
-    "wm-license-cc-by-1.0-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Reconocimientu 1.0 xenérica].",
-    "wm-license-cc-by-1.0-fi-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/ Reconocimientu 1.0 Finlandia].",
-    "wm-license-cc-by-1.0-il-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/ Reconocimientu 1.0 Israel].",
-    "wm-license-cc-by-1.0-nl-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/ Reconocimientu 1.0 Paises Baxos].",
-    "wm-license-cc-by-2.0-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ Reconocimientu 2.0 xenérica].",
-    "wm-license-cc-by-2.0-at-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/ Reconocimientu 2.0 Austria].",
-    "wm-license-cc-by-2.0-au-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/au/ Reconocimientu 2.0 Australia].",
-    "wm-license-cc-by-2.0-be-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/be/ Reconocimientu 2.0 Bélxica].",
-    "wm-license-cc-by-2.0-br-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/br/ Reconocimientu 2.0 Brasil].",
-    "wm-license-cc-zero-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] de [//creativecommons.org/publicdomain/zero/1.0/ Dedicatoria universal al dominiu públicu CC0 1.0].",
-    "wm-license-cc-zero-explanation": "La persona qu'asoció una obra con esti documentu dedicó esa obra al [[{{int:wm-license-pd-wiki-link}}|dominiu públicu]] per aciu de la cesión mundial de los sos drechos baxo les lleis de drechos d'autor, incluyendo tolos los drechos llegales rellacionaos y axacentes, dientro del ámbitu permitíu pola llei. Pue copiar, camudar, distribuir y reproducir la obra, incluyendo con oxetivos comerciales, ensin pidir permisu.",
-    "wm-license-cc-free": "Ye llibre:",
-    "wm-license-cc-free-to-share-header": "pa compartir",
-    "wm-license-cc-free-to-share-text": "pa copiar, distribuir y comunicar públicamente la obra",
-    "wm-license-cc-free-to-remix-header": "pa remezclar",
-    "wm-license-cc-free-to-remix-text": "p'adautar la obra",
-    "wm-license-cc-conditions": "Baxo les condiciones siguientes:",
-    "wm-license-cc-conditions-attribution-header": "reconocimientu",
-    "wm-license-cc-conditions-attribution-text": "Tien de reconocer la obra de la manera especificada pol autor o persona que la llicenció (pero non de manera que suxera un encontu del autor pa vusté o pal usu que faiga de la so obra).",
-    "wm-license-cc-conditions-share_alike-header": "compartir igual"
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"wm-license-cc-attribution": "Reconocimientu",
+	"wm-license-cc-by-1.0-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Reconocimientu 1.0 xenérica].",
+	"wm-license-cc-by-1.0-fi-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/ Reconocimientu 1.0 Finlandia].",
+	"wm-license-cc-by-1.0-il-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/ Reconocimientu 1.0 Israel].",
+	"wm-license-cc-by-1.0-nl-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/ Reconocimientu 1.0 Paises Baxos].",
+	"wm-license-cc-by-2.0-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/ Reconocimientu 2.0 xenérica].",
+	"wm-license-cc-by-2.0-at-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/at/ Reconocimientu 2.0 Austria].",
+	"wm-license-cc-by-2.0-au-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/au/ Reconocimientu 2.0 Australia].",
+	"wm-license-cc-by-2.0-be-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/be/ Reconocimientu 2.0 Bélxica].",
+	"wm-license-cc-by-2.0-br-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.0/br/ Reconocimientu 2.0 Brasil].",
+	"wm-license-cc-zero-text": "Esti ficheru ta disponible baxo la llicencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] de [//creativecommons.org/publicdomain/zero/1.0/ Dedicatoria universal al dominiu públicu CC0 1.0].",
+	"wm-license-cc-zero-explanation": "La persona qu'asoció una obra con esti documentu dedicó esa obra al [[{{int:wm-license-pd-wiki-link}}|dominiu públicu]] per aciu de la cesión mundial de los sos drechos baxo les lleis de drechos d'autor, incluyendo tolos los drechos llegales rellacionaos y axacentes, dientro del ámbitu permitíu pola llei. Pue copiar, camudar, distribuir y reproducir la obra, incluyendo con oxetivos comerciales, ensin pidir permisu.",
+	"wm-license-cc-free": "Ye llibre:",
+	"wm-license-cc-free-to-share-header": "pa compartir",
+	"wm-license-cc-free-to-share-text": "pa copiar, distribuir y comunicar públicamente la obra",
+	"wm-license-cc-free-to-remix-header": "pa remezclar",
+	"wm-license-cc-free-to-remix-text": "p'adautar la obra",
+	"wm-license-cc-conditions": "Baxo les condiciones siguientes:",
+	"wm-license-cc-conditions-attribution-header": "reconocimientu",
+	"wm-license-cc-conditions-attribution-text": "Tien de reconocer la obra de la manera especificada pol autor o persona que la llicenció (pero non de manera que suxera un encontu del autor pa vusté o pal usu que faiga de la so obra).",
+	"wm-license-cc-conditions-share_alike-header": "compartir igual"
 }

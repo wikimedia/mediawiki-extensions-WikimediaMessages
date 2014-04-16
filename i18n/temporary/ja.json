@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "wikimediamessages-desc": "ウィキメディア固有の一時的なメッセージ",
-    "bug-54847-password-reset-prompt": "[[meta:October 2013 private data security issue|Wikimedia Labs のデータベース群のプライバシーの問題]]のため、以前使用したパスワードには脆弱性があるおそれがあります。あなたのアカウントの安全性のため、新たに別のパスワードを設定してください。ご不便をおかけして申し訳ありません。",
-    "password-recycled": "入力したパスワードは、あなたのアカウントの以前のパスワードと一致しています。新たな別のパスワードを設定してください。"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"wikimediamessages-desc": "ウィキメディア固有の一時的なメッセージ",
+	"bug-54847-password-reset-prompt": "[[meta:October 2013 private data security issue|Wikimedia Labs のデータベース群のプライバシーの問題]]のため、以前使用したパスワードには脆弱性があるおそれがあります。あなたのアカウントの安全性のため、新たに別のパスワードを設定してください。ご不便をおかけして申し訳ありません。",
+	"password-recycled": "入力したパスワードは、あなたのアカウントの以前のパスワードと一致しています。新たな別のパスワードを設定してください。"
 }

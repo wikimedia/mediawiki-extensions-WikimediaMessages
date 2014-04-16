@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Anskar"
-        ]
-    },
-    "wikimediamessages-desc": "Missatges temporals específics de Wikimedia"
+	"@metadata": {
+		"authors": [
+			"Anskar"
+		]
+	},
+	"wikimediamessages-desc": "Missatges temporals específics de Wikimedia"
 }

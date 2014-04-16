@@ -1,28 +1,28 @@
 {
-    "@metadata": {
-        "authors": [
-            "محبوب عالم",
-            "පසිඳු කාවින්ද"
-        ]
-    },
-    "wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
-    "sitesupport": "رابطہ",
-    "tooltip-n-sitesupport": "معاونت کیجئے",
-    "nstab-creator": "خالق",
-    "nstab-institution": "ادارے",
-    "group-accountcreator": "کھاتہ سازان",
-    "group-founder": "بانیان",
-    "group-import": "بینک",
-    "group-import-member": "برآمدکار",
-    "group-trusted": "قابل اعتماد صارفین",
-    "group-trusted-member": "معتمد صارف",
-    "group-Global_bot": "عالمی خودکار صارف",
-    "group-Staff": "سٹاف",
-    "group-Staff-member": "عملہ",
-    "group-editinterface": "مدیرانِ سطح البین",
-    "group-sysadmin": "منتظمینِ نظام",
-    "group-sysadmin-member": "منتظمِ نظام",
-    "group-inactive": "غیرفعال صارفین",
-    "group-inactive-member": "غیرفعال صارف",
-    "cant-delete-main-page": "آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں."
+	"@metadata": {
+		"authors": [
+			"محبوب عالم",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
+	"sitesupport": "رابطہ",
+	"tooltip-n-sitesupport": "معاونت کیجئے",
+	"nstab-creator": "خالق",
+	"nstab-institution": "ادارے",
+	"group-accountcreator": "کھاتہ سازان",
+	"group-founder": "بانیان",
+	"group-import": "بینک",
+	"group-import-member": "برآمدکار",
+	"group-trusted": "قابل اعتماد صارفین",
+	"group-trusted-member": "معتمد صارف",
+	"group-Global_bot": "عالمی خودکار صارف",
+	"group-Staff": "سٹاف",
+	"group-Staff-member": "عملہ",
+	"group-editinterface": "مدیرانِ سطح البین",
+	"group-sysadmin": "منتظمینِ نظام",
+	"group-sysadmin-member": "منتظمِ نظام",
+	"group-inactive": "غیرفعال صارفین",
+	"group-inactive-member": "غیرفعال صارف",
+	"cant-delete-main-page": "آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں."
 }

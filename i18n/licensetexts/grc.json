@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Crazymadlover"
-        ]
-    },
-    "wm-license-book-language": "Γλῶττα",
-    "wm-license-information-description": "Περιγραφή",
-    "wm-license-information-source": "Πηγή",
-    "wm-license-information-date": "Ἡμερομηνία",
-    "wm-license-information-author": "Δημιουργός"
+	"@metadata": {
+		"authors": [
+			"Crazymadlover"
+		]
+	},
+	"wm-license-book-language": "Γλῶττα",
+	"wm-license-information-description": "Περιγραφή",
+	"wm-license-information-source": "Πηγή",
+	"wm-license-information-date": "Ἡμερομηνία",
+	"wm-license-information-author": "Δημιουργός"
 }

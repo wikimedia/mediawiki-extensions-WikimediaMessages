@@ -1,31 +1,31 @@
 {
-    "@metadata": {
-        "authors": [
-            "Krinkle",
-            "Servien"
-        ]
-    },
-    "wikimedialicensetexts-desc": "Wikimedia-lisensieberichten",
-    "wm-license-gfdl-wiki-link": "w:nds-nl:GNU-lisensie veur vri'je dokementäsie",
-    "wm-license-information-description": "Beschrieving",
-    "wm-license-information-description-missing": "Dit bestaand hef gien '''beschrieving''' en misschien steet der oek nog aandere informasie niet bie.",
-    "wm-license-information-description-missing-request": "Geef n dudelike beschrieving van dit bestaand.",
-    "wm-license-information-source": "Bron",
-    "wm-license-information-source-missing": "Dit bestaand geef gien informasie over de '''bron'''.",
-    "wm-license-information-source-missing-request": "Pas de bestaandsbeschrieving an en zet de bron derbie.",
-    "wm-license-information-date": "Daotum",
-    "wm-license-information-author": "Auteur",
-    "wm-license-information-author-missing": "Dit bestaand geef gien informasie over de '''auteur'''",
-    "wm-license-information-permission": "Toestemming",
-    "wm-license-information-permission-reusing-text": "Hergebruuk van dit bestaand",
-    "wm-license-information-permission-see-below": "Kiek hieronder.",
-    "wm-license-information-other-versions": "Aandere versies",
-    "wm-license-lgpl-text": "Disse biebeltheek is [[{{int:wm-license-free-software-wiki-link}}|vrieje programmatuur]];\nje maggen t heruutgeven en/of anpassen in overeenkomst mit de veurweerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zo as uutegeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].\nDe geldende versie is 2.1 van de lisensie, of (naor keuze) n aandere laotere versie.\nDisse biebeltheek wörden verspreid in de hoop dat t bruukbaor is, mer '''zonder enige garansie''';\nzelfs zonder de onuutespreuken garansie dat e t '''goed döt''' of da'j t '''goed veur n bepaold doel kunnen gebruken'''.\nZie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer informasie.",
-    "wm-license-original-upload-log": "Oorspronkelik logboek mit nieje bestaanden",
-    "wm-license-own-work": "Eigen waark",
-    "wm-license-self-one-license": "Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:",
-    "wm-license-self-one-license-with-author": "$1, de maker van dit wark, gif disse media vrie onder de volgende lisensie:",
-    "wm-license-self-multiple-licenses": "Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:",
-    "wm-license-self-multiple-licenses-with-author": "$1, de maker van dit wark, gif disse media vrie onder de volgende lisensies:",
-    "wm-license-self-multiple-licenses-select": "Je maggen zelf één van de lisensies uutkiezen."
+	"@metadata": {
+		"authors": [
+			"Krinkle",
+			"Servien"
+		]
+	},
+	"wikimedialicensetexts-desc": "Wikimedia-lisensieberichten",
+	"wm-license-gfdl-wiki-link": "w:nds-nl:GNU-lisensie veur vri'je dokementäsie",
+	"wm-license-information-description": "Beschrieving",
+	"wm-license-information-description-missing": "Dit bestaand hef gien '''beschrieving''' en misschien steet der oek nog aandere informasie niet bie.",
+	"wm-license-information-description-missing-request": "Geef n dudelike beschrieving van dit bestaand.",
+	"wm-license-information-source": "Bron",
+	"wm-license-information-source-missing": "Dit bestaand geef gien informasie over de '''bron'''.",
+	"wm-license-information-source-missing-request": "Pas de bestaandsbeschrieving an en zet de bron derbie.",
+	"wm-license-information-date": "Daotum",
+	"wm-license-information-author": "Auteur",
+	"wm-license-information-author-missing": "Dit bestaand geef gien informasie over de '''auteur'''",
+	"wm-license-information-permission": "Toestemming",
+	"wm-license-information-permission-reusing-text": "Hergebruuk van dit bestaand",
+	"wm-license-information-permission-see-below": "Kiek hieronder.",
+	"wm-license-information-other-versions": "Aandere versies",
+	"wm-license-lgpl-text": "Disse biebeltheek is [[{{int:wm-license-free-software-wiki-link}}|vrieje programmatuur]];\nje maggen t heruutgeven en/of anpassen in overeenkomst mit de veurweerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zo as uutegeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].\nDe geldende versie is 2.1 van de lisensie, of (naor keuze) n aandere laotere versie.\nDisse biebeltheek wörden verspreid in de hoop dat t bruukbaor is, mer '''zonder enige garansie''';\nzelfs zonder de onuutespreuken garansie dat e t '''goed döt''' of da'j t '''goed veur n bepaold doel kunnen gebruken'''.\nZie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer informasie.",
+	"wm-license-original-upload-log": "Oorspronkelik logboek mit nieje bestaanden",
+	"wm-license-own-work": "Eigen waark",
+	"wm-license-self-one-license": "Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:",
+	"wm-license-self-one-license-with-author": "$1, de maker van dit wark, gif disse media vrie onder de volgende lisensie:",
+	"wm-license-self-multiple-licenses": "Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:",
+	"wm-license-self-multiple-licenses-with-author": "$1, de maker van dit wark, gif disse media vrie onder de volgende lisensies:",
+	"wm-license-self-multiple-licenses-select": "Je maggen zelf één van de lisensies uutkiezen."
 }

@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Sinopeus"
-        ]
-    },
-    "sitesupport": "Δωρεάς",
-    "tooltip-n-sitesupport": "Βοηθέστεν το έργον.",
-    "group-sysadmin": "Διαχειριστάδες συστηματί",
-    "group-sysadmin-member": "διαχειριστάς συστηματί"
+	"@metadata": {
+		"authors": [
+			"Sinopeus"
+		]
+	},
+	"sitesupport": "Δωρεάς",
+	"tooltip-n-sitesupport": "Βοηθέστεν το έργον.",
+	"group-sysadmin": "Διαχειριστάδες συστηματί",
+	"group-sysadmin-member": "διαχειριστάς συστηματί"
 }

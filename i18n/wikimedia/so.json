@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Abshirdheere",
-            "Mimursal"
-        ]
-    },
-    "sitesupport": "Tabarucid",
-    "tooltip-n-sitesupport": "Nacaawi",
-    "createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]"
+	"@metadata": {
+		"authors": [
+			"Abshirdheere",
+			"Mimursal"
+		]
+	},
+	"sitesupport": "Tabarucid",
+	"tooltip-n-sitesupport": "Nacaawi",
+	"createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]"
 }

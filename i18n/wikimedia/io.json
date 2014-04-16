@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Malafaya",
-            "Wyvernoid",
-            "לערי ריינהארט"
-        ]
-    },
-    "sitesupport": "Donacaji",
-    "tooltip-n-sitesupport": "Suportez ni",
-    "group-accountcreator": "Konto-kreanti",
-    "group-founder": "Fondinti",
-    "grouppage-founder": "{{ns:project}}:Fondinti",
-    "group-rollbacker": "Retrorulanti",
-    "group-uploader": "Adkarganti",
-    "group-uploader-member": "adkarganto",
-    "grouppage-uploader": "{{ns:project}}:Adkarganti",
-    "group-sysadmin": "Sistemo-administranti",
-    "wikimedia-copyright": "La kontenajo esas sub la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"><i>Creative Commons Attribution-ShareAlike License</i></a>;\nsuplementala reguli forsan aplikesas.\nVidez <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Reguli di Uzado</a> por detali.",
-    "wikimedia-copyrightwarning": "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [https://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution-ShareAlike License 3.0''] e la [https://www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [https://wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali."
+	"@metadata": {
+		"authors": [
+			"Malafaya",
+			"Wyvernoid",
+			"לערי ריינהארט"
+		]
+	},
+	"sitesupport": "Donacaji",
+	"tooltip-n-sitesupport": "Suportez ni",
+	"group-accountcreator": "Konto-kreanti",
+	"group-founder": "Fondinti",
+	"grouppage-founder": "{{ns:project}}:Fondinti",
+	"group-rollbacker": "Retrorulanti",
+	"group-uploader": "Adkarganti",
+	"group-uploader-member": "adkarganto",
+	"grouppage-uploader": "{{ns:project}}:Adkarganti",
+	"group-sysadmin": "Sistemo-administranti",
+	"wikimedia-copyright": "La kontenajo esas sub la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"><i>Creative Commons Attribution-ShareAlike License</i></a>;\nsuplementala reguli forsan aplikesas.\nVidez <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Reguli di Uzado</a> por detali.",
+	"wikimedia-copyrightwarning": "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [https://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution-ShareAlike License 3.0''] e la [https://www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [https://wikimediafoundation.org/wiki/Terms_of_Use Reguli di Uzado] por detali."
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Pikne"
-        ]
-    },
-    "password-recycled": "Sisestasid oma konto vana parooli. Palun vali uus erinev parool."
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"password-recycled": "Sisestasid oma konto vana parooli. Palun vali uus erinev parool."
 }

@@ -1,6 +1,4 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "sitesupport": "Koha"
+	"@metadata": [],
+	"sitesupport": "Koha"
 }

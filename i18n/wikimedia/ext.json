@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Better"
-        ]
-    },
-    "sitesupport": "Donacionis",
-    "tooltip-n-sitesupport": "Ayúamus",
-    "specialpages-group-contribution": "Contribucionis/Fundraiser"
+	"@metadata": {
+		"authors": [
+			"Better"
+		]
+	},
+	"sitesupport": "Donacionis",
+	"tooltip-n-sitesupport": "Ayúamus",
+	"specialpages-group-contribution": "Contribucionis/Fundraiser"
 }

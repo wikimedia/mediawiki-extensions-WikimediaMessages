@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kranch",
-            "Numulunj pilgae"
-        ]
-    },
-    "sitesupport": "Лезкс максома",
-    "tooltip-n-sitesupport": "Макст тейнек лезкс",
-    "group-Staff": "Персонал",
-    "group-Staff-member": "Персоналста ломань"
+	"@metadata": {
+		"authors": [
+			"Kranch",
+			"Numulunj pilgae"
+		]
+	},
+	"sitesupport": "Лезкс максома",
+	"tooltip-n-sitesupport": "Макст тейнек лезкс",
+	"group-Staff": "Персонал",
+	"group-Staff-member": "Персоналста ломань"
 }

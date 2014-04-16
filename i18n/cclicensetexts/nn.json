@@ -1,24 +1,24 @@
 {
-    "@metadata": {
-        "authors": [
-            "Diebuche",
-            "Gunnernett",
-            "Harald Khan",
-            "Multichill",
-            "Njardarlogar"
-        ]
-    },
-    "wm-license-cc-wiki-link": "w:nn:Creative Commons",
-    "wm-license-cc-attribution": "Namngjeving",
-    "wm-license-cc-by-3.0-text": "Fila er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.en Namngjeving 3.0 Unported].",
-    "wm-license-cc-free": "Du står fritt til å:",
-    "wm-license-cc-free-to-share-header": "til å dela",
-    "wm-license-cc-free-to-share-text": "til å kopiera, distibuera og overføra arbeidet",
-    "wm-license-cc-free-to-remix-header": "til å blanda",
-    "wm-license-cc-free-to-remix-text": "til å endra verket",
-    "wm-license-cc-conditions": "På desse vilkåra:",
-    "wm-license-cc-conditions-attribution-header": "namngjeving",
-    "wm-license-cc-conditions-attribution-text": "Du lyt godskriva verket på den måten som opphavpersonen eller lisensgjevaren har oppgjeve (men ikkje på ein slik måte at det kan verka som om dei går gode for deg eller måten du nyttar verket på).",
-    "wm-license-cc-conditions-share_alike-header": "del på same vilkåra",
-    "wm-license-cc-conditions-share_alike-text": "Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du berre distribuera resultatet under ein lik eller liknande lisens."
+	"@metadata": {
+		"authors": [
+			"Diebuche",
+			"Gunnernett",
+			"Harald Khan",
+			"Multichill",
+			"Njardarlogar"
+		]
+	},
+	"wm-license-cc-wiki-link": "w:nn:Creative Commons",
+	"wm-license-cc-attribution": "Namngjeving",
+	"wm-license-cc-by-3.0-text": "Fila er lisensiert under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.en Namngjeving 3.0 Unported].",
+	"wm-license-cc-free": "Du står fritt til å:",
+	"wm-license-cc-free-to-share-header": "til å dela",
+	"wm-license-cc-free-to-share-text": "til å kopiera, distibuera og overføra arbeidet",
+	"wm-license-cc-free-to-remix-header": "til å blanda",
+	"wm-license-cc-free-to-remix-text": "til å endra verket",
+	"wm-license-cc-conditions": "På desse vilkåra:",
+	"wm-license-cc-conditions-attribution-header": "namngjeving",
+	"wm-license-cc-conditions-attribution-text": "Du lyt godskriva verket på den måten som opphavpersonen eller lisensgjevaren har oppgjeve (men ikkje på ein slik måte at det kan verka som om dei går gode for deg eller måten du nyttar verket på).",
+	"wm-license-cc-conditions-share_alike-header": "del på same vilkåra",
+	"wm-license-cc-conditions-share_alike-text": "Om du endrar, skiplar om, eller byggjer på dette arbeidet, kan du berre distribuera resultatet under ein lik eller liknande lisens."
 }

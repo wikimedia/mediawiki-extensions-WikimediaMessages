@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Desiphral",
-            "לערי ריינהארט"
-        ]
-    },
-    "sitesupport": "Denimata",
-    "group-steward": "Stewardurya",
-    "group-steward-member": "Stewardo",
-    "grouppage-steward": "{{ns:project}}:Stewardurya"
+	"@metadata": {
+		"authors": [
+			"Desiphral",
+			"לערי ריינהארט"
+		]
+	},
+	"sitesupport": "Denimata",
+	"group-steward": "Stewardurya",
+	"group-steward-member": "Stewardo",
+	"grouppage-steward": "{{ns:project}}:Stewardurya"
 }

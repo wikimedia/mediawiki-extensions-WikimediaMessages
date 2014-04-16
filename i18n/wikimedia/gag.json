@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cuman"
-        ]
-    },
-    "sitesupport": "Baaşişlär",
-    "tooltip-n-sitesupport": "Material destek"
+	"@metadata": {
+		"authors": [
+			"Cuman"
+		]
+	},
+	"sitesupport": "Baaşişlär",
+	"tooltip-n-sitesupport": "Material destek"
 }

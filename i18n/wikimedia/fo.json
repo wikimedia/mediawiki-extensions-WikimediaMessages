@@ -1,15 +1,15 @@
 {
-    "@metadata": {
-        "authors": [
-            "EileenSanda",
-            "Spacebirdy"
-        ]
-    },
-    "tooltip-n-sitesupport": "Stuðla okkum",
-    "group-steward": "Ternur",
-    "group-steward-member": "{{GENDER:$1|terna}}",
-    "grouppage-steward": "{{ns:project}}:Ternur",
-    "createacct-helpusername-url": "{{ns:Project}}:Username_policy",
-    "createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto",
-    "createacct-imgcaptcha-help": "Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]"
+	"@metadata": {
+		"authors": [
+			"EileenSanda",
+			"Spacebirdy"
+		]
+	},
+	"tooltip-n-sitesupport": "Stuðla okkum",
+	"group-steward": "Ternur",
+	"group-steward-member": "{{GENDER:$1|terna}}",
+	"grouppage-steward": "{{ns:project}}:Ternur",
+	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto",
+	"createacct-imgcaptcha-help": "Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]"
 }

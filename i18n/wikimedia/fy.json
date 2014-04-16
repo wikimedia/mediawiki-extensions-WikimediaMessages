@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Pyt",
-            "Snakesteuben"
-        ]
-    },
-    "sitesupport": "Donaasjes",
-    "tooltip-n-sitesupport": "Stypje ús"
+	"@metadata": {
+		"authors": [
+			"Pyt",
+			"Snakesteuben"
+		]
+	},
+	"sitesupport": "Donaasjes",
+	"tooltip-n-sitesupport": "Stypje ús"
 }

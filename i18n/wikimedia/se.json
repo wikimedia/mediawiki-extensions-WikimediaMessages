@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jeblad",
-            "Skuolfi"
-        ]
-    },
-    "sitesupport": "Skeaŋkkat",
-    "tooltip-n-sitesupport": "Doarrjo siidduid doaimma",
-    "group-import": "Sisafievrrideaddjit"
+	"@metadata": {
+		"authors": [
+			"Jeblad",
+			"Skuolfi"
+		]
+	},
+	"sitesupport": "Skeaŋkkat",
+	"tooltip-n-sitesupport": "Doarrjo siidduid doaimma",
+	"group-import": "Sisafievrrideaddjit"
 }

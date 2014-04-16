@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Michawiki"
-        ]
-    },
-    "wikimediamessages-desc": "Nachylne powěsći, kótarež su specifiske za Wikimediju",
-    "bug-54847-password-reset-prompt": "Dla [[meta:October 2013 private data security issue|problema z datowym šćitom w datowych bankach Wikimedia Labs]] jo njedawno wužyte gronidło snaź napadojte. Pšosym zapódaj nowe, druge gronidło, aby swójo konto zawěsćił. Zamołwjamy so za njepřijomnosće. Zagranjamy se za wobuznosći.",
-    "password-recycled": "Gronidło, kótarež sy zapódał, wótpowědujo staremu gronidłoju, kótarež jo z twójim kontom zwězane. Pšosym zapódaj nowe, druge gronidło."
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"wikimediamessages-desc": "Nachylne powěsći, kótarež su specifiske za Wikimediju",
+	"bug-54847-password-reset-prompt": "Dla [[meta:October 2013 private data security issue|problema z datowym šćitom w datowych bankach Wikimedia Labs]] jo njedawno wužyte gronidło snaź napadojte. Pšosym zapódaj nowe, druge gronidło, aby swójo konto zawěsćił. Zamołwjamy so za njepřijomnosće. Zagranjamy se za wobuznosći.",
+	"password-recycled": "Gronidło, kótarež sy zapódał, wótpowědujo staremu gronidłoju, kótarež jo z twójim kontom zwězane. Pšosym zapódaj nowe, druge gronidło."
 }

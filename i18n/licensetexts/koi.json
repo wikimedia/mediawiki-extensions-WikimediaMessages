@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Enye Lav"
-        ]
-    },
-    "wm-license-information-source": "Öшмöс",
-    "wm-license-information-date": "Дата",
-    "wm-license-information-author": "Автор:",
-    "wm-license-information-permission-see-below": "Видзöт улöжык",
-    "wm-license-information-other-versions": "Мöдiк версияэз",
-    "wm-license-own-work": "Аслам удж"
+	"@metadata": {
+		"authors": [
+			"Enye Lav"
+		]
+	},
+	"wm-license-information-source": "Öшмöс",
+	"wm-license-information-date": "Дата",
+	"wm-license-information-author": "Автор:",
+	"wm-license-information-permission-see-below": "Видзöт улöжык",
+	"wm-license-information-other-versions": "Мöдiк версияэз",
+	"wm-license-own-work": "Аслам удж"
 }

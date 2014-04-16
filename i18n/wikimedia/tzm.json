@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Tifinaghes"
-        ]
-    },
-    "sitesupport": "ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ",
-    "nstab-institution": "ⵜⴰⵎⵙⴷⵓⵙⵜ",
-    "group-OTRS-member": "ⵉⴳⵎⴰⵎⵏ OTRS",
-    "group-OTRS-member-member": "{{GENDER:$1|OTRS ⴰⴳⵎⴰⵎ}}",
-    "grouppage-OTRS-member": "{{ns:project}}:ⵉⴳⵎⴰⵎⵏ ⵏ OTRS",
-    "group-eliminator": "ⵉⵎⵙⴷⵔⴼⴰⵏ",
-    "group-founder-member": "{{GENDER:$1|ⵜⴰⵎⵙⴷⵓⵙⵜ}}",
-    "group-researcher-member": "{{GENDER:$1|ⴰⵎⵔⵣⵓ|ⵜⴰⵎⵔⵣⵓⵜ}}",
-    "grouppage-researcher": "{{ns:project}}:ⵉⵎⵔⵣⵓⵜⵏ",
-    "group-Indic_Bots": "Indic bots",
-    "group-translationadmin": "ⵉⵏⵎⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ",
-    "group-translationadmin-member": "{{GENDER:$1|ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ}}",
-    "grouppage-translationadmin": "{{ns:project}}:ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ",
-    "shared-repo-name-shared": "ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ"
+	"@metadata": {
+		"authors": [
+			"Tifinaghes"
+		]
+	},
+	"sitesupport": "ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ",
+	"nstab-institution": "ⵜⴰⵎⵙⴷⵓⵙⵜ",
+	"group-OTRS-member": "ⵉⴳⵎⴰⵎⵏ OTRS",
+	"group-OTRS-member-member": "{{GENDER:$1|OTRS ⴰⴳⵎⴰⵎ}}",
+	"grouppage-OTRS-member": "{{ns:project}}:ⵉⴳⵎⴰⵎⵏ ⵏ OTRS",
+	"group-eliminator": "ⵉⵎⵙⴷⵔⴼⴰⵏ",
+	"group-founder-member": "{{GENDER:$1|ⵜⴰⵎⵙⴷⵓⵙⵜ}}",
+	"group-researcher-member": "{{GENDER:$1|ⴰⵎⵔⵣⵓ|ⵜⴰⵎⵔⵣⵓⵜ}}",
+	"grouppage-researcher": "{{ns:project}}:ⵉⵎⵔⵣⵓⵜⵏ",
+	"group-Indic_Bots": "Indic bots",
+	"group-translationadmin": "ⵉⵏⵎⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ",
+	"group-translationadmin-member": "{{GENDER:$1|ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ}}",
+	"grouppage-translationadmin": "{{ns:project}}:ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ",
+	"shared-repo-name-shared": "ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ"
 }

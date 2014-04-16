@@ -1,9 +1,7 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "wm-license-information-description": "توضیح",
-    "wm-license-information-source": "منبع",
-    "wm-license-information-date": "تاریح",
-    "wm-license-information-author": "نویسوک"
+	"@metadata": [],
+	"wm-license-information-description": "توضیح",
+	"wm-license-information-source": "منبع",
+	"wm-license-information-date": "تاریح",
+	"wm-license-information-author": "نویسوک"
 }

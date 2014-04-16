@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand",
-            "SPQRobin",
-            "Southparkfan"
-        ]
-    },
-    "contactpage-license-request-username": "Gebruikersnaam *",
-    "contactpage-license-request-use-other": "Anders",
-    "contactpage-wikimedia-trademark-wikimedia": "Wikimediagemeenschap"
+	"@metadata": {
+		"authors": [
+			"Siebrand",
+			"SPQRobin",
+			"Southparkfan"
+		]
+	},
+	"contactpage-license-request-username": "Gebruikersnaam *",
+	"contactpage-license-request-use-other": "Anders",
+	"contactpage-wikimedia-trademark-wikimedia": "Wikimediagemeenschap"
 }

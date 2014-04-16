@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Hydra",
-            "Liuxinyu970226",
-            "Yfdyh000"
-        ]
-    },
-    "wikimediamessages-desc": "维基媒体特定暂时性消息",
-    "bug-54847-password-reset-prompt": "基于[[meta:October 2013 private data security issue|维基媒体实验室数据库的隐私问题]]，您之前可能使用了一个脆弱的密码。请设置一个新而不同的密码以保护您的账户。由此带来的不便我们深表歉意。",
-    "password-recycled": "您输入的密码与您帐户的旧密码雷同。请设置一个新而不同的密码"
+	"@metadata": {
+		"authors": [
+			"Hydra",
+			"Liuxinyu970226",
+			"Yfdyh000"
+		]
+	},
+	"wikimediamessages-desc": "维基媒体特定暂时性消息",
+	"bug-54847-password-reset-prompt": "基于[[meta:October 2013 private data security issue|维基媒体实验室数据库的隐私问题]]，您之前可能使用了一个脆弱的密码。请设置一个新而不同的密码以保护您的账户。由此带来的不便我们深表歉意。",
+	"password-recycled": "您输入的密码与您帐户的旧密码雷同。请设置一个新而不同的密码"
 }

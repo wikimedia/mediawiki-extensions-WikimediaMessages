@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gion-andri",
-            "Kazu89"
-        ]
-    },
-    "sitesupport": "Donaziuns",
-    "tooltip-n-sitesupport": "Ans sustegna",
-    "wikimedia-developers": "Sviluppaders"
+	"@metadata": {
+		"authors": [
+			"Gion-andri",
+			"Kazu89"
+		]
+	},
+	"sitesupport": "Donaziuns",
+	"tooltip-n-sitesupport": "Ans sustegna",
+	"wikimedia-developers": "Sviluppaders"
 }

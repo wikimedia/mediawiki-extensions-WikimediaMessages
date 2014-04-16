@@ -1,7 +1,5 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "wm-license-information-description": "Beschreibung",
-    "wm-license-information-source": "Quelle"
+	"@metadata": [],
+	"wm-license-information-description": "Beschreibung",
+	"wm-license-information-source": "Quelle"
 }

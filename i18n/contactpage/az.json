@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cekli829"
-        ]
-    },
-    "contactpage-license-request-username": "İstifadəçi adı *",
-    "contactpage-license-request-use-print": "Çap",
-    "contactpage-license-request-use-other": "Digər",
-    "contactpage-wikimedia-trademark-wikimedia": "Vikimedia İcması"
+	"@metadata": {
+		"authors": [
+			"Cekli829"
+		]
+	},
+	"contactpage-license-request-username": "İstifadəçi adı *",
+	"contactpage-license-request-use-print": "Çap",
+	"contactpage-license-request-use-other": "Digər",
+	"contactpage-wikimedia-trademark-wikimedia": "Vikimedia İcması"
 }

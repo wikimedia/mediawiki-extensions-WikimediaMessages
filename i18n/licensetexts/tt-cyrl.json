@@ -1,19 +1,19 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ильнар"
-        ]
-    },
-    "wikimedialicensetexts-desc": " Викимедианең лицензия турындагы җәбәрләре",
-    "wm-license-information-description": "Тасвир",
-    "wm-license-information-source": "Чыганагы",
-    "wm-license-information-source-missing": "Бирелгән медиа-файлда \"чыганак\" турында мәгълүмат бирелми.",
-    "wm-license-information-source-missing-request": "Зинһар, бу файлның тасвирламасын үзгәртегез һәм чыганагын күрсәтегез.",
-    "wm-license-information-date": "Вакыт",
-    "wm-license-information-author": "Автор",
-    "wm-license-information-author-missing": "Бирелгән мәгълүматта \"авторлык\" турында хәбәр бирелми.",
-    "wm-license-information-permission": "Рөхсәт",
-    "wm-license-information-permission-reusing-text": "Бу файлны кабат куллану",
-    "wm-license-information-permission-see-below": "Астан карагыз.",
-    "wm-license-information-other-versions": "Башка юрамалар"
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"wikimedialicensetexts-desc": " Викимедианең лицензия турындагы җәбәрләре",
+	"wm-license-information-description": "Тасвир",
+	"wm-license-information-source": "Чыганагы",
+	"wm-license-information-source-missing": "Бирелгән медиа-файлда \"чыганак\" турында мәгълүмат бирелми.",
+	"wm-license-information-source-missing-request": "Зинһар, бу файлның тасвирламасын үзгәртегез һәм чыганагын күрсәтегез.",
+	"wm-license-information-date": "Вакыт",
+	"wm-license-information-author": "Автор",
+	"wm-license-information-author-missing": "Бирелгән мәгълүматта \"авторлык\" турында хәбәр бирелми.",
+	"wm-license-information-permission": "Рөхсәт",
+	"wm-license-information-permission-reusing-text": "Бу файлны кабат куллану",
+	"wm-license-information-permission-see-below": "Астан карагыз.",
+	"wm-license-information-other-versions": "Башка юрамалар"
 }

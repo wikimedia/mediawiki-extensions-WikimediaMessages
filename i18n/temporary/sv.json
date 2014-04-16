@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ainali",
-            "WikiPhoenix",
-            "Lokal Profil"
-        ]
-    },
-    "wikimediamessages-desc": "Wikimediaspecifika tillfälliga meddelanden",
-    "bug-54847-password-reset-prompt": "På grund av ett [[meta:October 2013 private data security issue|sekretessproblem med Wikimedia Labs databaser]], kan tidigare använda lösenord vara sårbara. Ange ett nytt, annorlunda, lösenord för att skydda ditt konto. Vi ber om ursäkt för besväret.",
-    "password-recycled": "Det lösenord du har angett matchar ett gammalt lösenord kopplat till ditt konto. Ange ett nytt, annorlunda lösenord."
+	"@metadata": {
+		"authors": [
+			"Ainali",
+			"WikiPhoenix",
+			"Lokal Profil"
+		]
+	},
+	"wikimediamessages-desc": "Wikimediaspecifika tillfälliga meddelanden",
+	"bug-54847-password-reset-prompt": "På grund av ett [[meta:October 2013 private data security issue|sekretessproblem med Wikimedia Labs databaser]], kan tidigare använda lösenord vara sårbara. Ange ett nytt, annorlunda, lösenord för att skydda ditt konto. Vi ber om ursäkt för besväret.",
+	"password-recycled": "Det lösenord du har angett matchar ett gammalt lösenord kopplat till ditt konto. Ange ett nytt, annorlunda lösenord."
 }

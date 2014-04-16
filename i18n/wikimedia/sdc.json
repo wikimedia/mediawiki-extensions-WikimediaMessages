@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Felis"
-        ]
-    },
-    "sitesupport": "Dunazioni",
-    "tooltip-n-sitesupport": "Supporthazi"
+	"@metadata": {
+		"authors": [
+			"Felis"
+		]
+	},
+	"sitesupport": "Dunazioni",
+	"tooltip-n-sitesupport": "Supporthazi"
 }

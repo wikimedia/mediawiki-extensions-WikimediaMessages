@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chinneeb",
-            "לערי ריינהארט"
-        ]
-    },
-    "sitesupport": "Хандив",
-    "tooltip-n-sitesupport": "Биднийг дэмжээрэй",
-    "group-rollbacker": "Буцаагчид",
-    "group-rollbacker-member": "буцаагч",
-    "grouppage-rollbacker": "{{ns:project}}:Буцаагчид",
-    "group-Global_rollback": "Глобал буцаагчид",
-    "group-Global_rollback-member": "глобал буцаагч",
-    "group-steward": "Үйлчлэгчид",
-    "group-steward-member": "үйлчлэгч",
-    "grouppage-steward": "m:Stewards"
+	"@metadata": {
+		"authors": [
+			"Chinneeb",
+			"לערי ריינהארט"
+		]
+	},
+	"sitesupport": "Хандив",
+	"tooltip-n-sitesupport": "Биднийг дэмжээрэй",
+	"group-rollbacker": "Буцаагчид",
+	"group-rollbacker-member": "буцаагч",
+	"grouppage-rollbacker": "{{ns:project}}:Буцаагчид",
+	"group-Global_rollback": "Глобал буцаагчид",
+	"group-Global_rollback-member": "глобал буцаагч",
+	"group-steward": "Үйлчлэгчид",
+	"group-steward-member": "үйлчлэгч",
+	"grouppage-steward": "m:Stewards"
 }

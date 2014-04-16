@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Dalinanir",
-            "Zanatos"
-        ]
-    },
-    "sitesupport": "Aws",
-    "tooltip-n-sitesupport": "Awsaɣ",
-    "group-import": "Willi di tawin"
+	"@metadata": {
+		"authors": [
+			"Dalinanir",
+			"Zanatos"
+		]
+	},
+	"sitesupport": "Aws",
+	"tooltip-n-sitesupport": "Awsaɣ",
+	"group-import": "Willi di tawin"
 }

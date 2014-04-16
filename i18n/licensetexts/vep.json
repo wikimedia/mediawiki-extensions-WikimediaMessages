@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Игорь Бродский"
-        ]
-    },
-    "wm-license-book-edition": "Pästand",
-    "wm-license-book-editor": "Redaktor",
-    "wm-license-book-illustrator": "Kuvitai",
-    "wm-license-book-language": "Kel’",
-    "wm-license-book-place-of-publication": "Publikacijan taho",
-    "wm-license-book-printer": "Paindai",
-    "wm-license-book-series-title": "Serijan nimi",
-    "wm-license-book-volume": "Tom",
-    "wm-license-book-year-of-publication": "Pästandan voz'",
-    "wm-license-creator-date-of-birth": "Sündunddat",
-    "wm-license-information-description": "Ümbrikirjutand",
-    "wm-license-information-source": "Purde",
-    "wm-license-information-date": "Dat",
-    "wm-license-information-author": "Avtor"
+	"@metadata": {
+		"authors": [
+			"Игорь Бродский"
+		]
+	},
+	"wm-license-book-edition": "Pästand",
+	"wm-license-book-editor": "Redaktor",
+	"wm-license-book-illustrator": "Kuvitai",
+	"wm-license-book-language": "Kel’",
+	"wm-license-book-place-of-publication": "Publikacijan taho",
+	"wm-license-book-printer": "Paindai",
+	"wm-license-book-series-title": "Serijan nimi",
+	"wm-license-book-volume": "Tom",
+	"wm-license-book-year-of-publication": "Pästandan voz'",
+	"wm-license-creator-date-of-birth": "Sündunddat",
+	"wm-license-information-description": "Ümbrikirjutand",
+	"wm-license-information-source": "Purde",
+	"wm-license-information-date": "Dat",
+	"wm-license-information-author": "Avtor"
 }

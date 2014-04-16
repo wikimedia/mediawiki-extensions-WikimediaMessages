@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Menachem.Moreira"
-        ]
-    },
-    "wm-license-book-edition": "Edisiyon",
-    "wm-license-book-editor": "Redaktor",
-    "wm-license-book-language": "Lengua"
+	"@metadata": {
+		"authors": [
+			"Menachem.Moreira"
+		]
+	},
+	"wm-license-book-edition": "Edisiyon",
+	"wm-license-book-editor": "Redaktor",
+	"wm-license-book-language": "Lengua"
 }

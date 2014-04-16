@@ -1,24 +1,24 @@
 {
-    "@metadata": {
-        "authors": [
-            "Botuzhaleny-sodamo",
-            "Sura"
-        ]
-    },
-    "sitesupport": "Лезксйармаконь максома",
-    "tooltip-n-sitesupport": "Макста миненек нежедематарка",
-    "group-confirmed": "Кемекстань сёрмадыцят",
-    "group-confirmed-member": "кемекстазь сёрмадыця",
-    "grouppage-confirmed": "{{ns:project}}:Кемекстань сёрмадыцят",
-    "group-founder": "Лувонь путыйть",
-    "group-founder-member": "лувонь путый",
-    "grouppage-founder": "{{ns:project}}:Лувонь путыйть",
-    "group-import-member": "тевень совавтый",
-    "grouppage-import": "{{ns:project}}:Тевень совавтыйть",
-    "group-editinterface": "Интерчамань витнийть-петнийть",
-    "group-editinterface-member": "интерчамань витний-петний",
-    "group-steward": "Туросторт",
-    "group-steward-member": "туростор",
-    "grouppage-steward": "m:Туросторт",
-    "group-sysadmin": "Системань администраторт"
+	"@metadata": {
+		"authors": [
+			"Botuzhaleny-sodamo",
+			"Sura"
+		]
+	},
+	"sitesupport": "Лезксйармаконь максома",
+	"tooltip-n-sitesupport": "Макста миненек нежедематарка",
+	"group-confirmed": "Кемекстань сёрмадыцят",
+	"group-confirmed-member": "кемекстазь сёрмадыця",
+	"grouppage-confirmed": "{{ns:project}}:Кемекстань сёрмадыцят",
+	"group-founder": "Лувонь путыйть",
+	"group-founder-member": "лувонь путый",
+	"grouppage-founder": "{{ns:project}}:Лувонь путыйть",
+	"group-import-member": "тевень совавтый",
+	"grouppage-import": "{{ns:project}}:Тевень совавтыйть",
+	"group-editinterface": "Интерчамань витнийть-петнийть",
+	"group-editinterface-member": "интерчамань витний-петний",
+	"group-steward": "Туросторт",
+	"group-steward-member": "туростор",
+	"grouppage-steward": "m:Туросторт",
+	"group-sysadmin": "Системань администраторт"
 }

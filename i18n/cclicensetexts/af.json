@@ -1,23 +1,23 @@
 {
-    "@metadata": {
-        "authors": [
-            "Diebuche",
-            "Multichill",
-            "Naudefj",
-            "පසිඳු කාවින්ද"
-        ]
-    },
-    "wm-license-cc-wiki-link": "w:af:Creative Commons",
-    "wm-license-cc-attribution": "Naamsvermelding",
-    "wm-license-cc-by-1.0-text": "Die lêer word onder die [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.af Erkenning 1.0 Generies] lisensie gelisensieer.",
-    "wm-license-cc-free": "U is vry:",
-    "wm-license-cc-free-to-share-header": "om te deel",
-    "wm-license-cc-free-to-share-text": "die werk kopieer, versprei en deurgee",
-    "wm-license-cc-free-to-remix-header": "om te hermeng",
-    "wm-license-cc-free-to-remix-text": "om die werk aan te pas",
-    "wm-license-cc-conditions": "Onder die volgende voorwaardes:",
-    "wm-license-cc-conditions-attribution-header": "naamsvermelding",
-    "wm-license-cc-conditions-share_alike-header": "Insgelyks",
-    "wm-license-cc-conditions-share_alike-text": "As jy dit verander, herskep of daarop voortbou nie hierdie werk, kan u die werk wat só ontstaan, net versprei ingevolge dieselfde of soortgelyke lisensie is aan hierdie een.",
-    "wm-license-cc-pd-mark-text": "Hierdie lêer is geïdentifiseer as vry van bekende beperkings onder kopiereg, insluitend alle verwante en naburige regte."
+	"@metadata": {
+		"authors": [
+			"Diebuche",
+			"Multichill",
+			"Naudefj",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"wm-license-cc-wiki-link": "w:af:Creative Commons",
+	"wm-license-cc-attribution": "Naamsvermelding",
+	"wm-license-cc-by-1.0-text": "Die lêer word onder die [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.af Erkenning 1.0 Generies] lisensie gelisensieer.",
+	"wm-license-cc-free": "U is vry:",
+	"wm-license-cc-free-to-share-header": "om te deel",
+	"wm-license-cc-free-to-share-text": "die werk kopieer, versprei en deurgee",
+	"wm-license-cc-free-to-remix-header": "om te hermeng",
+	"wm-license-cc-free-to-remix-text": "om die werk aan te pas",
+	"wm-license-cc-conditions": "Onder die volgende voorwaardes:",
+	"wm-license-cc-conditions-attribution-header": "naamsvermelding",
+	"wm-license-cc-conditions-share_alike-header": "Insgelyks",
+	"wm-license-cc-conditions-share_alike-text": "As jy dit verander, herskep of daarop voortbou nie hierdie werk, kan u die werk wat só ontstaan, net versprei ingevolge dieselfde of soortgelyke lisensie is aan hierdie een.",
+	"wm-license-cc-pd-mark-text": "Hierdie lêer is geïdentifiseer as vry van bekende beperkings onder kopiereg, insluitend alle verwante en naburige regte."
 }

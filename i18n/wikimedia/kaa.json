@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "AlefZet",
-            "Emperyan"
-        ]
-    },
-    "sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=kaa",
-    "sitesupport": "Ja'rdem berıw",
-    "tooltip-n-sitesupport": "Bizge ja'rdem berin'"
+	"@metadata": {
+		"authors": [
+			"AlefZet",
+			"Emperyan"
+		]
+	},
+	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=kaa",
+	"sitesupport": "Ja'rdem berıw",
+	"tooltip-n-sitesupport": "Bizge ja'rdem berin'"
 }

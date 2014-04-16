@@ -1,23 +1,23 @@
 {
-    "@metadata": {
-        "authors": [
-            "Mucalexx",
-            "Multichill"
-        ]
-    },
-    "wm-license-fsf-wiki-link": "w:bar:Free Software Foundation",
-    "wm-license-information-table-summary": "A standaardisierde Tabejn mid vóiständige Informazióner zua derer Daatei, a Bschreiwung, woss zoagt und wia und voh wéms erstejd worn is, Urhéwerrechtsinformazióner und Quejn.",
-    "wm-license-information-description": "Bschreiwung",
-    "wm-license-information-description-missing": "Dés Bijdel vafiagt ywer koa '''Bschreiwung''' néd, óder es fejn wichtige Informazióner.",
-    "wm-license-information-description-missing-request": "Bijder sóin a Zaummfossung bsitzen, dé'n Betrochter ywern Inhoid, Quejn und wenn méglé Daatum informiern.\nWaunn du wos dodavoh woasst óder an Zuagaung zua sóicherne Informazióner host, fiag dé bittscheh da Bijdelbschreiwungsseiten dazua.",
-    "wm-license-information-source": "Quejn",
-    "wm-license-information-source-missing": "Dé Daatei hod koane '''Quejn'''.",
-    "wm-license-information-date": "Daatum",
-    "wm-license-information-author": "Urhéwer",
-    "wm-license-information-author-missing": "Derer Daatei fejn d' Auhgoom zum '''Autor'''.",
-    "wm-license-information-permission": "Gnémigung",
-    "wm-license-information-permission-reusing-text": "Weidernutzung voh derer Daatei",
-    "wm-license-information-permission-see-below": "Schaugst unten",
-    "wm-license-information-other-versions": "Aundre Versióner",
-    "wm-license-pd-wiki-link": "w:bar:Gmoafreiheit"
+	"@metadata": {
+		"authors": [
+			"Mucalexx",
+			"Multichill"
+		]
+	},
+	"wm-license-fsf-wiki-link": "w:bar:Free Software Foundation",
+	"wm-license-information-table-summary": "A standaardisierde Tabejn mid vóiständige Informazióner zua derer Daatei, a Bschreiwung, woss zoagt und wia und voh wéms erstejd worn is, Urhéwerrechtsinformazióner und Quejn.",
+	"wm-license-information-description": "Bschreiwung",
+	"wm-license-information-description-missing": "Dés Bijdel vafiagt ywer koa '''Bschreiwung''' néd, óder es fejn wichtige Informazióner.",
+	"wm-license-information-description-missing-request": "Bijder sóin a Zaummfossung bsitzen, dé'n Betrochter ywern Inhoid, Quejn und wenn méglé Daatum informiern.\nWaunn du wos dodavoh woasst óder an Zuagaung zua sóicherne Informazióner host, fiag dé bittscheh da Bijdelbschreiwungsseiten dazua.",
+	"wm-license-information-source": "Quejn",
+	"wm-license-information-source-missing": "Dé Daatei hod koane '''Quejn'''.",
+	"wm-license-information-date": "Daatum",
+	"wm-license-information-author": "Urhéwer",
+	"wm-license-information-author-missing": "Derer Daatei fejn d' Auhgoom zum '''Autor'''.",
+	"wm-license-information-permission": "Gnémigung",
+	"wm-license-information-permission-reusing-text": "Weidernutzung voh derer Daatei",
+	"wm-license-information-permission-see-below": "Schaugst unten",
+	"wm-license-information-other-versions": "Aundre Versióner",
+	"wm-license-pd-wiki-link": "w:bar:Gmoafreiheit"
 }

@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Armando-Martin",
-            "Clarkcj12"
-        ]
-    },
-    "wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
-    "password-recycled": "La contraseña que ha introducido coincide con una contraseña antigua asociada con su cuenta. Configure una contraseña nueva y diferente."
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Clarkcj12"
+		]
+	},
+	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
+	"password-recycled": "La contraseña que ha introducido coincide con una contraseña antigua asociada con su cuenta. Configure una contraseña nueva y diferente."
 }

@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chelin",
-            "Cryptex"
-        ]
-    },
-    "sitesupport": "Donazzione",
-    "group-massmessage-sender": "Mittente mmasciate massive",
-    "group-massmessage-sender-member": "{{GENDER:$1|mittente mmasciate massive}}",
-    "grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive"
+	"@metadata": {
+		"authors": [
+			"Chelin",
+			"Cryptex"
+		]
+	},
+	"sitesupport": "Donazzione",
+	"group-massmessage-sender": "Mittente mmasciate massive",
+	"group-massmessage-sender-member": "{{GENDER:$1|mittente mmasciate massive}}",
+	"grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive"
 }

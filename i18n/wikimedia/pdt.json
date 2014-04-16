@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Slomox"
-        ]
-    },
-    "sitesupport": "Gowe",
-    "tooltip-n-sitesupport": "Unjastett onns"
+	"@metadata": {
+		"authors": [
+			"Slomox"
+		]
+	},
+	"sitesupport": "Gowe",
+	"tooltip-n-sitesupport": "Unjastett onns"
 }

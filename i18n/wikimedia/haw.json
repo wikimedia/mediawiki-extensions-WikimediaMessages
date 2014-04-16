@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kolonahe",
-            "Singularity"
-        ]
-    },
-    "sitesupport": "Lūlū mai",
-    "tooltip-n-sitesupport": "Kāko‘o mai",
-    "group-steward": "Nā kuene",
-    "group-steward-member": "{{GENDER:$1|ke kuene}}"
+	"@metadata": {
+		"authors": [
+			"Kolonahe",
+			"Singularity"
+		]
+	},
+	"sitesupport": "Lūlū mai",
+	"tooltip-n-sitesupport": "Kāko‘o mai",
+	"group-steward": "Nā kuene",
+	"group-steward-member": "{{GENDER:$1|ke kuene}}"
 }

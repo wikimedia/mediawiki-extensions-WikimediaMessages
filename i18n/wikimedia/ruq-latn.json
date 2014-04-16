@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Кумулај Маркус",
-            "Макѕе"
-        ]
-    },
-    "sitesupport": "Donacions",
-    "tooltip-n-sitesupport": "Supora-nostre"
+	"@metadata": {
+		"authors": [
+			"Кумулај Маркус",
+			"Макѕе"
+		]
+	},
+	"sitesupport": "Donacions",
+	"tooltip-n-sitesupport": "Supora-nostre"
 }

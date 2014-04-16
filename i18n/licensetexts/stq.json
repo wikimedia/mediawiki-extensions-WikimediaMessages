@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kghbln",
-            "Pyt"
-        ]
-    },
-    "wikimedialicensetexts-desc": "Wikimedia-Text der Lizenze",
-    "wm-license-information-description": "Beskrieuwenge",
-    "wm-license-information-source": "Wälle",
-    "wm-license-information-date": "Doatum",
-    "wm-license-information-author": "Autor"
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Pyt"
+		]
+	},
+	"wikimedialicensetexts-desc": "Wikimedia-Text der Lizenze",
+	"wm-license-information-description": "Beskrieuwenge",
+	"wm-license-information-source": "Wälle",
+	"wm-license-information-date": "Doatum",
+	"wm-license-information-author": "Autor"
 }

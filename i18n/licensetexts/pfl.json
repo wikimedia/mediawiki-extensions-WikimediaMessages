@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Manuae"
-        ]
-    },
-    "wm-license-artwork-artist": "Kinschdla",
-    "wm-license-book-language": "Schbrooch",
-    "wm-license-book-translator": "Iwasedza",
-    "wm-license-information-source": "Qwell"
+	"@metadata": {
+		"authors": [
+			"Manuae"
+		]
+	},
+	"wm-license-artwork-artist": "Kinschdla",
+	"wm-license-book-language": "Schbrooch",
+	"wm-license-book-translator": "Iwasedza",
+	"wm-license-information-source": "Qwell"
 }
