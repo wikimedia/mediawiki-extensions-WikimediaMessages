@@ -141,6 +141,7 @@
 	"grouppage-inactive": "{{ns:project}}:Epäaktiiviset käyttäjät",
 	"wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href=\"https://wikimediafoundation.org/wiki/Käyttöehdot\">käyttöehdot</a>.",
 	"wikimedia-copyrightwarning": "Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].",
+	"wikibase-sitelinks-wikiquote": "Tähän kohteeseen linkitetyt Wikisitaatti-sivut",
 	"wikibase-sitelinks-wikisource": "Tähän kohteeseen linkitetyt Wikiaineisto-sivut",
 	"wikibase-sitelinks-wikivoyage": "Tähän kohteeseen linkitetyt Wikivoyage-sivut",
 	"wikibase-sitelinks-commons": "Tähän kohteeseen linkitetty Wikimedia Commons -sivu",
