@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Spring Roll Conan"
 		]
 	},
 	"contactpage-title-requestlicense": "商標重用聯絡表單",
 	"contactpage-pagetext-requestlicense": "請使用下面的表單與我們聯絡商標事宜",
-	"contactpage-subject-requestlicense": "維基媒體商標重用申請",
+	"contactpage-subject-requestlicense": "維基媒體商標使用申請",
 	"contactpage-license-request-username": "用戶名*",
 	"contactpage-license-request-relevantsite": "相關維基媒體站點（如果有）",
 	"contactpage-license-request-group": "維基媒體分會、專題組織或用戶群組與標題（如果有）*",
@@ -21,7 +22,7 @@
 	"contactpage-license-request-use-other": "其他",
 	"contactpage-license-request-use-note": "<strong>注意：</strong>如果我們授權您使用商標，我們將在特定用戶公共列表中列出您要求的用途。",
 	"contactpage-license-request-description": "用途說明",
-	"contactpage-license-request-selectmark": "選擇標誌",
+	"contactpage-license-request-selectmark": "您想使用哪（幾）個標誌？",
 	"contactpage-wikimedia-trademark-globe": "維基百科球狀拼圖",
 	"contactpage-wikimedia-trademark-wikiwordmark": "維基媒體文字標誌",
 	"contactpage-wikimedia-trademark-w": "藝術化「W」",
