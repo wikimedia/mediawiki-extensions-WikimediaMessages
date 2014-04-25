@@ -64,7 +64,7 @@
 	"group-founder": "Негізін салушы",
 	"group-founder-member": "{{GENDER:$1|негізін салушы}}",
 	"grouppage-founder": "{{ns:project}}:Негізін салушылар",
-	"group-import": "Сырттан алушылар",
+	"group-import": "Импорттаушылар",
 	"group-import-member": "{{GENDER:$1|импорттаушы}}",
 	"grouppage-import": "{{ns:project}}:Импортаушылар",
 	"group-interface_editor": "Интерфейс өңдеушілері",

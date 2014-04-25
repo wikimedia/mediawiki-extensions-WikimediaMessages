@@ -26,7 +26,7 @@
 	"wm-license-attribution-without-author-text": "This message will be used at [[Commons:Template:Attribution]] when no author is set.\n\nSee also:\n* {{msg-mw|Wm-license-attribution-with-author-text}}",
 	"wm-license-artwork-artist": "Label \"Artist\" at [[Commons:Template:Artwork]].\n{{Identical|Artist}}",
 	"wm-license-artwork-title": "Label \"Title\" at [[Commons:Template:Artwork]], mostly used to list titles of paintings, sculptures, and other artworks\n{{Identical|Title}}",
-	"wm-license-artwork-medium": "Label \"Medium\" at [[Commons:Template:Artwork]]. The field contains information about medium (technique and materials) used to create artwork. For example: \"Oil on canvas\" or \"watercolor over graphite on paper\".",
+	"wm-license-artwork-medium": "Label \"Medium\" at [[Commons:Template:Artwork]]. The field contains information about medium (technique and materials) used to create artwork. For example: \"Oil on canvas\" or \"watercolor over graphite on paper\".\n{{Identical|Medium}}",
 	"wm-license-artwork-dimensions": "Label \"Dimensions\" at [[Commons:Template:Artwork]]. Field contains dimensions of the artwork, like \"30.2 × 32.9 in (76.7 × 83.5 cm)\" for a painting, or 3D dimensions for a sculpture",
 	"wm-license-artwork-current-location": "Label \"Current location\" at [[Commons:Template:Artwork]]. Name of the \tgallery, museum, collection or other institution currently holding the artwork.",
 	"wm-license-artwork-object-history": "Label \"Object history\" at [[Commons:Template:Artwork]]. Field holds provenance information or history of artwork ownership.",
