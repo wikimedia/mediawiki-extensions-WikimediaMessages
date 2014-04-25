@@ -100,11 +100,12 @@ $wgExtensionFunctions[] = function() {
  * @return bool
  */
 $wgHooks['SkinTemplateOutputPageBeforeExec'][] = function( &$skin, &$template ) {
-	// Use the value of "MediaWiki:Wikimedia-developers"
-	$title = Title::newFromText( $skin->msg( 'wikimedia-developers' )->text() );
-	// Use the value of "MediaWiki:Wikimedia-developers-url"
 	$destination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
-	$link = Linker::makeExternalLink( $destination, $title );
+	$link = Html::element(
+		'a',
+		array( 'href' => $destination ),
+		$skin->msg( 'wikimedia-developers' )->text()
+	);
 	$template->set( 'developers', $link );
 	$template->data['footerlinks']['places'][] = 'developers';
 	return true;
