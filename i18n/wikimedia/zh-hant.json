@@ -16,7 +16,8 @@
 			"William915",
 			"Wong128hk",
 			"Wrightbus",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Cwlin0416"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -85,9 +86,9 @@
 	"group-interface_editor": "界面編輯者",
 	"group-interface_editor-member": "{{GENDER:$1|界面編輯者}}",
 	"grouppage-interface_editor": "{{ns:project}}:介面編輯者",
-	"group-ipblock-exempt": "IP封禁豁免者",
-	"group-ipblock-exempt-member": "IP封禁豁免者",
-	"grouppage-ipblock-exempt": "{{ns:project}}:IP封禁豁免者",
+	"group-ipblock-exempt": "IP 封鎖例外",
+	"group-ipblock-exempt-member": "IP 封鎖例外",
+	"grouppage-ipblock-exempt": "{{ns:project}}:IP 封鎖例外",
 	"group-patroller": "巡查員",
 	"group-patroller-member": "{{GENDER:$1|巡查員}}",
 	"grouppage-patroller": "{{ns:project}}:巡查員",
@@ -134,7 +135,7 @@
 	"group-Indic_Bots-member": "{{GENDER:$1|獨立機器人}}",
 	"group-New_wikis_importer": "新wiki導入員",
 	"group-New_wikis_importer-member": "{{GENDER:$1|新wiki導入員}}",
-	"group-global-ipblock-exempt": "全域IP封禁豁免",
+	"group-global-ipblock-exempt": "全域 IP 封鎖例外",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|全域IP封禁豁免}}",
 	"group-recursive-export": "遞回匯出員",
 	"group-recursive-export-member": "{{GENDER:$1|遞回匯出員}}",

@@ -7,7 +7,8 @@
 			"Paul B",
 			"Romaine",
 			"SPQRobin",
-			"Siebrand"
+			"Siebrand",
+			"Sjoerddebruin"
 		]
 	},
 	"wikimedialicensetexts-desc": "Wikimedia licentieberichten",
@@ -52,7 +53,7 @@
 	"wm-license-creator-work-location": "Werklocatie",
 	"wm-license-creator-linkback": "Koppeling naar dit kunstenaarsjabloon",
 	"wm-license-fal-text": "Copyleft: dit kunstwerk is vrij; u mag het heruitgeven en/of wijzigen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-fal-wiki-link}}|Free Art-licentie]]'''.\nU kunt een voorbeeld van de licentie vinden op de [{{int:wm-license-fal-full-link}} website van Copyleft Attitude] als ook op [{{int:wm-license-fal-full-link-commons}} andere websites].",
-	"wm-license-fal-wiki-link": "w:nl:Vrije kunst licentie",
+	"wm-license-fal-wiki-link": "w:nl:Vrijekunstlicentie",
 	"wm-license-fsf-wiki-link": "w:nl:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:nl:Vrije software",
 	"wm-license-gfdl-1.2-and-later": "Toestemming wordt verleend voor het kopiëren, verspreiden en/of wijzigen van dit document onder de voorwaarden van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie voor vrije documentatie]]''', versie 1.2 of enige latere versie als gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonder Invariant Sections, zonder Front-Cover Texts, en zonder Back-Cover Texts. Een kopie van de licentie is opgenomen in de sectie ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-licentie voor vrije documentatie]]''.",

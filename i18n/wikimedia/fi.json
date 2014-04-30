@@ -128,6 +128,12 @@
 	"group-sysadmin-member": "{{GENDER:$1|palvelinjärjestelmän ylläpitäjä}}",
 	"group-global-ipblock-exempt": "järjestelmänlaajuisista IP-estoista vapautetut",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|järjestelmänlaajuisista IP-estoista vapautettu}}",
+	"group-massmessage-sender": "Massaviestien lähettäjät",
+	"group-massmessage-sender-member": "{{GENDER:$1|massaviestien lähettäjä}}",
+	"grouppage-massmessage-sender": "{{ns:project}}:Massaviestien lähettäjät",
+	"group-oauthadmin": "OAuth-ylläpitäjät",
+	"group-oauthadmin-member": "{{GENDER:$1|OAuth-ylläpitäjä}}",
+	"grouppage-oauthadmin": "{{ns:project}}:OAuth-ylläpitäjät",
 	"group-translationadmin": "käännösylläpitäjät",
 	"group-translationadmin-member": "{{GENDER:$1|käännösylläpitäjä}}",
 	"grouppage-translationadmin": "{{ns:project}}:Käännösylläpitäjät",
@@ -139,9 +145,11 @@
 	"group-inactive": "epäaktiiviset käyttäjät",
 	"group-inactive-member": "{{GENDER:$1|epäaktiivinen käyttäjä}}",
 	"grouppage-inactive": "{{ns:project}}:Epäaktiiviset käyttäjät",
+	"search-interwiki-custom": "wiktionary:Wikisanakirjasta\nwikibooks:Wikikirjastosta\nwikinews:Wikiuutisista\nwikiquote:Wikisitaateista\nwikisource:Wikiaineistosta\nwikiversity:Wikiopistosta\nwikivoyage:Wikimatkoista",
+	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href=\"https://wikimediafoundation.org/wiki/Käyttöehdot\">käyttöehdot</a>.",
 	"wikimedia-copyrightwarning": "Tallentamalla muutokset osoitat hyväksyväsi, että muokkauksesi julkaistaan pysyvästi [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Nimeä-Tarttuva 3.0-] ja [https://www.gnu.org/copyleft/fdl.html GFDL-lisenssien] ehdoin. Aineiston myöhemmät käyttäjät saattavat mainita käyttäjätunnuksesi, vähintään linkin tai osoitteen kautta muokkaamaasi artikkeliin. Lisätietoja löytyy [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehdoista].",
-	"wikibase-sitelinks-wikiquote": "Tähän kohteeseen linkitetyt Wikisitaatti-sivut",
+	"wikibase-sitelinks-wikiquote": "Tähän kohteeseen linkitetyt Wikisitaattien sivut",
 	"wikibase-sitelinks-wikisource": "Tähän kohteeseen linkitetyt Wikiaineisto-sivut",
 	"wikibase-sitelinks-wikivoyage": "Tähän kohteeseen linkitetyt Wikivoyage-sivut",
 	"wikibase-sitelinks-commons": "Tähän kohteeseen linkitetty Wikimedia Commons -sivu",
@@ -156,5 +164,6 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Pyydä tunnusta",
 	"createacct-imgcaptcha-help": "Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
 	"wikimedia-developers": "Kehittäjät",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/fi"
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/fi",
+	"mwoauth-grant-checkuser": "Pääsy osoitepaljastintietoihin"
 }
