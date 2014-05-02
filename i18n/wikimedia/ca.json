@@ -14,7 +14,8 @@
 			"SMP",
 			"Solde",
 			"Toniher",
-			"Vriullop"
+			"Vriullop",
+			"Fitoschido"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -133,6 +134,7 @@
 	"wikibase-otherprojects-wikiquote": "Viquidites",
 	"wikibase-otherprojects-wikipedia": "Viquipèdia",
 	"wikibase-otherprojects-wikisource": "Viquitexts",
+	"wikibase-otherprojects-wikivoyage": "Viquiviatges",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "No podeu esborrar ni traslladar la portada.",
 	"upload-more-photos-of-this-monument": "Carrega més fotos d'aquest monument",
