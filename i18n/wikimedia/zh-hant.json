@@ -87,7 +87,7 @@
 	"group-interface_editor-member": "{{GENDER:$1|界面編輯者}}",
 	"grouppage-interface_editor": "{{ns:project}}:介面編輯者",
 	"group-ipblock-exempt": "IP 封鎖例外",
-	"group-ipblock-exempt-member": "IP 封鎖例外",
+	"group-ipblock-exempt-member": "{{GENDER:$1|IP封鎖例外}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP 封鎖例外",
 	"group-patroller": "巡查員",
 	"group-patroller-member": "{{GENDER:$1|巡查員}}",
