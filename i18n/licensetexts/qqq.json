@@ -21,7 +21,7 @@
 			"Umherirrender"
 		]
 	},
-	"wikimedialicensetexts-desc": "{{desc|name=Wikimedia License Texts|url=http://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
+	"wikimedialicensetexts-desc": "{{desc|name=Wikimedia License Texts|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
 	"wm-license-attribution-with-author-text": "This message will be used at [[Commons:Template:Attribution]] when an author is set.\n\nParameters:\n* $1 - the copyright holder\nSee also:\n* {{msg-mw|Wm-license-attribution-without-author-text}}",
 	"wm-license-attribution-without-author-text": "This message will be used at [[Commons:Template:Attribution]] when no author is set.\n\nSee also:\n* {{msg-mw|Wm-license-attribution-with-author-text}}",
 	"wm-license-artwork-artist": "Label \"Artist\" at [[Commons:Template:Artwork]].\n{{Identical|Artist}}",
@@ -94,7 +94,7 @@
 	"wm-license-lgpl-2.1-full-link": "{{notranslate}}",
 	"wm-license-lgpl-3-full-link": "{{notranslate}}",
 	"wm-license-licensing-update-text": "This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].\n\nRefers to {{msg-mw|Wm-license-licensing-update-wiki-link}}.",
-	"wm-license-licensing-update-wiki-link": "{{optional}}\nTranslate this message only, if a page in your language at http://meta.wikimedia.org/wiki/Licensing_update exists.",
+	"wm-license-licensing-update-wiki-link": "{{optional}}\nTranslate this message only, if a page in your language at https://meta.wikimedia.org/wiki/Licensing_update exists.",
 	"wm-license-original-upload-log": "Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [[commons:File:Inkscape_logo_2.svg|example]].",
 	"wm-license-own-work": "This message will be used in [[commons:Template:Own]].\n{{Identical|Own work}}",
 	"wm-license-pd-author-self-text": "Refers to {{msg-mw|Wm-license-pd-wiki-link}}.",

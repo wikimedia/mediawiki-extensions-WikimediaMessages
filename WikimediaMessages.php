@@ -8,7 +8,7 @@ if (!defined('MEDIAWIKI')) die();
  *
  * @copyright Copyright © 2008-2009, Tim Starling
  * @copyright Copyright © 2009, Siebrand Mazeland, Multichill
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
+ * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
 $wgExtensionCredits['other'][] = array(
