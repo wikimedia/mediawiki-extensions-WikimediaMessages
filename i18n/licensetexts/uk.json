@@ -62,7 +62,7 @@
 	"wm-license-creator-linkback": "Посилання на шаблонну картку автора",
 	"wm-license-fal-text": "Копілефт: Це вільний твір мистецтва; ви можете розповсюджувати та/або модифікувати його згідно з умовами \"'[[{{int:wm-license-fal-wiki-link}}|Free Art License]]\"'. Можете знайти умови цієї ліцензії на сайті [{{int:wm-license-fal-full-link}} Copyleft Attitude], а також [{{int:wm-license-fal-full-link-commons}} на інших сайтах].",
 	"wm-license-fal-wiki-link": "w:en:Free Art license",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/en",
+	"wm-license-fal-full-link": "http://artlibre.org/lal/en",
 	"wm-license-fsf-wiki-link": "w:uk:Фонд вільного програмного забезпечення",
 	"wm-license-free-software-wiki-link": "w:uk:Вільне програмне забезпечення",
 	"wm-license-gfdl-1.2-and-later": "Дозволяється копіювати, розповсюджувати та/або модифікувати цей документ на умовах '''[[{{int:wm-license-gfdl-wiki-link}}|ліцензії GNU FDL]]''' версії 1.2 або більш пізньої, виданої [[{{int:wm-license-fsf-wiki-link}}|Фондом вільного програмного забезпечення]], без незмінних розділів, без текстів, які розміщені на першій та останній обкладинці. Копія ліцензії знаходиться у розділі ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",

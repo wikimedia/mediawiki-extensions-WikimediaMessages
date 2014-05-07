@@ -55,7 +55,7 @@
 	"wm-license-creator-linkback": "Link do szablonu twórcy",
 	"wm-license-fal-text": "Prawa autorskie: To dzieło jest wolne; możesz je dystrybuować oraz zmieniać zgodnie z warunkami '''[[{{int:wm-license-fal-wiki-link}}|Licencji Wolnej Sztuki]]'''. Wzór licencji odnajdziesz na [{{int:wm-license-fal-full-link}} witrynie Copyleft Attitude] oraz [{{int:wm-license-fal-full-link-commons}} na innych stronach].",
 	"wm-license-fal-wiki-link": "w:pl:Free Art License",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/pl",
+	"wm-license-fal-full-link": "http://artlibre.org/lal/pl",
 	"wm-license-fsf-wiki-link": "w:pl:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:pl:Free software",
 	"wm-license-gfdl-1.2-and-later": "Udziela się zgody na kopiowanie, rozpowszechnianie oraz modyfikowanie tego dokumentu zgodnie z warunkami '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Licencji Wolnej Dokumentacji]]''', w wersji 1.2 lub nowszej opublikowanej przez [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez niezmiennych sekcji, bez treści umieszczonych na frontowej lub tylnej stronie okładki. Kopia licencji załączona jest w sekcji zatytułowanej ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Licencja Wolnej Dokumentacji]]''.",

@@ -58,7 +58,7 @@
 	"wm-license-creator-work-location": "Lugares de trabajo",
 	"wm-license-creator-linkback": "Retroenlace a la plantilla de Ficha de Creador",
 	"wm-license-fal-text": "Copyleft: esta obra de arte es libre; puedes redistribuírla y modificarla de acuerdo con los términos de la '''[[{{int:wm-license-fal-wiki-link}}|licencia de arte libre]]'''. Encontrarás un ejemplar de esta licencia en la [{{int:wm-license-fal-full-link}} página del Copyleft Attitude], así como también en otras páginas.",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/es",
+	"wm-license-fal-full-link": "http://artlibre.org/lal/es",
 	"wm-license-fsf-wiki-link": "w:es:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:es:Software libre",
 	"wm-license-gfdl-1.2-and-later": "Se autoriza la copia, distribución y modificación de este documento bajo los términos de la '''[[{{int:wm-license-gfdl-wiki-link}}|licencia de documentación libre GNU]]''', versión 1.2 o cualquier otra que posteriormente publique la [[{{int:wm-license-fsf-wiki-link}}|Fundación para el Software Libre]]; sin secciones invariables, textos de portada, ni textos de contraportada. Se incluye una copia de la dicha licencia en la sección titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licencia de Documentación Libre GNU]]''.",

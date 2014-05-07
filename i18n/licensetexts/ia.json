@@ -49,7 +49,7 @@
 	"wm-license-creator-linkback": "Ligamine de retorno al patrono de information del creator",
 	"wm-license-fal-text": "Copyleft: Iste obra de arte es libere; tu pote redistribuer lo e/o modificar lo secundo le conditiones del '''[[{{int:wm-license-fal-wiki-link}}|Licentia Arte Libere]]'''. Un specimen de iste licentia se trova in le sito [{{int:wm-license-fal-full-link}} Copyleft Attitude] inter alteres.",
 	"wm-license-fal-wiki-link": "w:ia:Licentia Arte Libere",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal",
+	"wm-license-fal-full-link": "http://artlibre.org/lal",
 	"wm-license-fsf-wiki-link": "w:ia:Fundation pro Software Libere",
 	"wm-license-free-software-wiki-link": "w:ia:Software libere",
 	"wm-license-gfdl-1.2-and-later": "Le permission es concedite de copiar, distribuer e/o modificar iste documento sub le conditiones del '''[[{{int:wm-license-gfdl-wiki-link}}|Licentia GNU pro Documentation Libere]]''', Version 1.2 o omne version plus recente publicate per le [[{{int:wm-license-fsf-wiki-link}}|Fundation pro Software Libere]]; sin Sectiones Invariabile, sin Textos de Copertura Frontal e sin Textos de Copertura Posterior. Un copia del licentia es includite in le section titulate ''[[{{int:wm-license-gfdl-full-1.2-link}}|Licentia GNU pro Documentation Libere]]''.",

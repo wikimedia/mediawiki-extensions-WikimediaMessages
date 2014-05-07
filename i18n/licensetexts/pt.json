@@ -53,7 +53,7 @@
 	"wm-license-creator-work-location": "Local de trabalho",
 	"wm-license-creator-linkback": "Link de volta à predefinição da caixa informativa Creator",
 	"wm-license-fal-text": "Copyleft: Esta é uma obra de arte livre; pode redistribuí-la e/ou modificá-la nos termos da licença '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Encontrará um exemplar desta licença no [{{int:wm-license-fal-full-link}} site Copyleft Attitude] e noutros sites.",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/pt",
+	"wm-license-fal-full-link": "http://artlibre.org/lal/pt",
 	"wm-license-fsf-wiki-link": "w:pt:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:pt:Software livre",
 	"wm-license-gfdl-1.2-and-later": "É concedida permissão para copiar, distribuir e/ou modificar este documento nos termos da licença '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versão 1.2 ou qualquer versão posterior publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seções Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma cópia da licença na seção intitulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",

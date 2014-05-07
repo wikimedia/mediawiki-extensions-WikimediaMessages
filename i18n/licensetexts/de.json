@@ -64,7 +64,7 @@
 	"wm-license-creator-linkback": "Auf die Infoboxvorlage des Erstellers verlinken",
 	"wm-license-fal-text": "Copyleft: Dieses Kunstwerk ist frei, es darf weitergegeben und/oder modifiziert werden entsprechend den Bedingungen der '''[[{{int:wm-license-fal-wiki-link}}|Lizenz „Freie Kunst“]].'''\nDer vollständige Text der Lizenz steht auf der [{{int:wm-license-fal-full-link}} „Copyleft Attitude“-Seite] sowie [{{int:wm-license-fal-full-link-commons}} auf anderen Webseiten].",
 	"wm-license-fal-wiki-link": "w:de:Lizenz Freie Kunst",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/de",
+	"wm-license-fal-full-link": "http://artlibre.org/lal/de",
 	"wm-license-fal-full-link-commons": "https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3",
 	"wm-license-fsf-wiki-link": "w:de:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:de:Freie Software",

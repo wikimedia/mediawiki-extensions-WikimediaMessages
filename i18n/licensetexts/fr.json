@@ -62,7 +62,7 @@
 	"wm-license-creator-linkback": "Rétrolien vers l’infobox du créateur",
 	"wm-license-fal-text": "Copyleft : cette œuvre d’art est libre ; vous pouvez la redistribuer ou la modifier selon les termes de la '''[[{{int:wm-license-fal-wiki-link}}|licence Art Libre]]'''. Vous trouverez un exemplaire de cette licence sur le [{{int:wm-license-fal-full-link}} site Copyleft Attitude] ainsi que [{{int:wm-license-fal-full-link-commons}} sur d’autres sites].",
 	"wm-license-fal-wiki-link": "w:fr:Licence Art Libre",
-	"wm-license-fal-full-link": "http://artlibre.org/licence/lal",
+	"wm-license-fal-full-link": "http://artlibre.org/lal",
 	"wm-license-fsf-wiki-link": "w:fr:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:fr:Logiciel libre",
 	"wm-license-gfdl-1.2-and-later": "Vous avez la permission de copier, distribuer et modifier ce document selon les termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.2 ou toute version ultérieure publiée par la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], sans sections inaltérables, sans texte de première page de couverture et sans texte de dernière page de couverture. Un exemplaire de la licence est inclus dans la section intitulée ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
