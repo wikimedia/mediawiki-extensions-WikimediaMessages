@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hym411"
+		]
+	},
+	"contactpage-title-requestlicense": "상표 재사용 연락 양식",
+	"contactpage-pagetext-requestlicense": "아래의 양식을 사용하여 상표와 관련된 일에 대해 연락하세요",
+	"contactpage-subject-requestlicense": "위키미디어 상표 사용 요청",
+	"contactpage-license-request-username": "사용자 이름 *",
+	"contactpage-license-request-relevantsite": "관련된 위키미디어 사이트 (해당되는 경우)",
+	"contactpage-license-request-group": "위키미디어 지부, thematic organization, 혹은 사용자 모임 이름 (해당되는 경우)",
+	"contactpage-license-request-title": "제목 (있는 경우)",
+	"contactpage-license-request-organization": "조직 (있는 경우)",
+	"contactpage-license-request-organization-type": "조직 유형 (있는 경우)",
+	"contactpage-license-request-use-proposed": "제안된 사용",
+	"contactpage-license-request-use-online": "온라인 (웹사이트, 이메일)",
+	"contactpage-license-request-use-book": "책, 정기 간행물",
+	"contactpage-license-request-use-print": "인쇄물",
+	"contactpage-license-request-use-tv": "TV, 영화 혹은 방송",
+	"contactpage-license-request-use-other": "기타",
+	"contactpage-license-request-use-note": "<strong>참고:</strong> 당신이 상표 허가를 받는다면, 허용된 상표 사용의 공개 리스트에 당신의 사용이 올라가 있을 수 있습니다.",
+	"contactpage-license-request-description": "사용의 설명",
+	"contactpage-license-request-selectmark": "어떤 마크를 사용하고자 합니까?",
+	"contactpage-wikimedia-trademark-globe": "위키백과 퍼즐 지구본",
+	"contactpage-wikimedia-trademark-wikiwordmark": "위키백과 워드마크",
+	"contactpage-wikimedia-trademark-w": "스타일화된 \"W\"",
+	"contactpage-wikimedia-trademark-wikimedia": "위키미디어 공동체",
+	"contactpage-title-licenseabuse": "저작권 위반 연락 양식",
+	"contactpage-pagetext-licenseabuse": "저작권 위반과 관련된 사항에 대해 연락하려면 이 양식을 사용하세요.",
+	"contactpage-subject-licenseabuse": "위키미디어 상표 남용 알림",
+	"contactpage-license-abuse-description": "남용 설명",
+	"contactpage-license-abuse-selectmark": "어떤 상표가 남용되었습니까?",
+	"contactpage-license-abuse-location": "남용된 곳 (온/오프라인)",
+	"contactpage-license-abuse-theircontact": "(알려진 경우) 상표를 남용하는 사람의 연락 정보",
+	"contactpage-license-abuse-yourcontact": "당신의 연락 정보 (연락해야 할 수 있습니다)"
+}
