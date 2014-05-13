@@ -23,6 +23,8 @@
 	"group-flood": "बोट प्रयोगकर्ताहरु",
 	"group-founder": "संस्थापकहरु",
 	"group-import": "आयातकर्ताहरु",
+	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरु",
+	"group-inactive-member": "{{GENDER:$1|निस्क्रिय प्रयोगकर्ता}}",
 	"group-interface_editor": "अन्तरमोहडा सम्पादकहरु",
 	"group-ipblock-exempt": "IP रोक माफीहरु",
 	"group-patroller": "गस्तीकर्ताहरु",
@@ -31,7 +33,5 @@
 	"group-transwiki": "ट्रान्स विकि आयातकर्ताहरु",
 	"group-trusted": "विश्वसनीय प्रयोगकर्ताहरु",
 	"group-coder": "कोडलेख्ने व्यक्तिहरु",
-	"group-coder-member": "कोडलेख्ने व्यक्ति",
-	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरु",
-	"group-inactive-member": "निष्क्रिय प्रयोगकर्ता"
+	"group-coder-member": "कोडलेख्ने व्यक्ति"
 }
