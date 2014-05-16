@@ -7,7 +7,8 @@
 			"Glanthor Reviol",
 			"Jarekt",
 			"Misibacsi",
-			"Multichill"
+			"Multichill",
+			"Tacsipacsi"
 		]
 	},
 	"wikimedialicensetexts-desc": "A Wikimedia licencszövegei",
@@ -50,7 +51,7 @@
 	"wm-license-creator-work-period": "Munkássága időszaka",
 	"wm-license-creator-work-location": "Munkásságának helye",
 	"wm-license-creator-linkback": "Hivatkozás a szerző infoboxsablonjára",
-	"wm-license-fal-text": "Copyleft: ez a művészeti alkotás szabadon terjeszthető és/vagy módosítható a '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' feltételei alapján. E licenc egy példánya a [{{int:wm-license-fal-full-link}} Copyleft Attitude] és számos más weboldalon olvasható.",
+	"wm-license-fal-text": "Copyleft: ez a művészeti alkotás szabadon terjeszthető és/vagy módosítható a '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' feltételei alapján. E licenc egy példánya a [{{int:wm-license-fal-full-link}} Copyleft Attitude] és [{{int:wm-license-fal-full-link-commons}}számos más weboldalon] olvasható.",
 	"wm-license-fal-wiki-link": "w:hu:Free Art License",
 	"wm-license-fsf-wiki-link": "w:hu:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:hu:Szabad szoftver",
