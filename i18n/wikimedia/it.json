@@ -16,7 +16,8 @@
 			"OrbiliusMagister",
 			"Pietrodn",
 			"Stefano-c",
-			"Una giornata uggiosa '94"
+			"Una giornata uggiosa '94",
+			"Lucas2"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -51,7 +52,7 @@
 	"grouppage-arbcom": "{{ns:project}}:Commissione arbitrale",
 	"group-autopatrolled": "Autopatrollatori",
 	"group-autopatrolled-member": "{{GENDER:$1|autopatroller}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Autopatrollatori",
+	"grouppage-autopatrolled": "{{ns:project}}:Autoverificati",
 	"group-autoreviewer": "Autorevisori",
 	"group-autoreviewer-member": "{{GENDER:$1|autorevisore}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Autorevisori",
@@ -102,7 +103,7 @@
 	"grouppage-researcher": "{{ns:project}}:Ricercatori",
 	"group-rollbacker": "Rollbacker",
 	"group-rollbacker-member": "{{GENDER:$1|rollbacker}}",
-	"grouppage-rollbacker": "{{ns:project}}:Rollbackers",
+	"grouppage-rollbacker": "{{ns:project}}:Rollbacker",
 	"group-transwiki": "Importatori transwiki",
 	"group-transwiki-member": "{{GENDER:$1|importatore transwiki|importatrice transwiki|importatore/trice transwiki}}",
 	"grouppage-transwiki": "{{ns:project}}:Importatori transwiki",
