@@ -126,3 +126,15 @@ $wgHooks['MinervaPreRender'][] = function( $tpl ) {
 	}
 	return true;
 };
+
+/**
+ * Require the creation of MediaWiki:Licenses to enable uploading.
+ * This should prevent a lot of uploading without licenses on small wikis;
+ * some or many of the small WMF wikis do not have any license options,
+ * which is really needed for our copyright policy.
+ */
+$wgHooks['UploadForm:initial'][] = function() {
+	if ( wfMessage( 'licenses' )->isDisabled() ) {
+		throw new ErrorPageError( 'uploaddisabled', 'wikimedia-upload-nolicenses' );
+	}
+};

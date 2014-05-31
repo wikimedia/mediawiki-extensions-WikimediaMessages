@@ -216,5 +216,6 @@
 	"mwoauth-grant-checkuser": "Name for OAuth grant \"checkuser\".\n{{Related|Mwoauth-grant}}",
 	"wikimedia-flow-terms-of-use-new-topic": "Terms of use and copyright warning shown when adding a new topic to a Flow board\n\nRefers to {{msg-mw|Flow-newtopic-save}}.",
 	"wikimedia-flow-terms-of-use-reply": "Terms of use and copyright warning shown when adding a reply at a Flow board.\n\nRefers to {{msg-mw|Flow-reply-submit}}.",
-	"wikimedia-flow-terms-of-use-edit": "Terms of use and copyright warning shown when editing the header or an existing topic or message at a Flow board"
+	"wikimedia-flow-terms-of-use-edit": "Terms of use and copyright warning shown when editing the header or an existing topic or message at a Flow board",
+	"wikimedia-upload-nolicenses": "This error is shown on [[Special:Upload]] when no license options are configured on [[MediaWiki:Licenses]].\n\nSee also [[mw:Manual:Image administration]]."
 }
