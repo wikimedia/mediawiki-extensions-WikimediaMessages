@@ -200,6 +200,7 @@
 	"wikimedia-translationnotifications-signup-legal": "En transmettant ces informations à la <i>Wikimedia Foundation</i>, vous acceptez que nous vous contactions à propos de traductions ou de toute autre sujet touchant le mouvement Wikimedia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États_unis d'Amérique et sont sujettes à notre [https://wikimediafoundation.org/wiki/Privacy_policy politique de confidentalité] (en anglais).",
 	"upload-more-photos-of-this-monument": "Importer d’autres photographies de ce monument",
 	"extdist-branch-master": "maître (dernière version de développement)",
+	"extdist-branch-REL1_23": "1.23 (prochaine version candidate stable)",
 	"extdist-branch-REL1_22": "1.22 (dernier MediaWiki stable)",
 	"createacct-helpusername-url": "{{ns:Project}}:Nom d'utilisateur",
 	"createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|aidez-moi à choisir]])",
