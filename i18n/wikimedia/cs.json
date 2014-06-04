@@ -167,6 +167,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://wikimediafoundation.org/wiki/Ochrana_osobn%C3%ADch_%C3%BAdaj%C5%AF Pravidla ochrany osobních údajů].",
 	"upload-more-photos-of-this-monument": "Načíst další fotografie této památky",
 	"extdist-branch-master": "master (nejnovější vývojová verze)",
+	"extdist-branch-REL1_23": "1.23 (kandidát příští stabilní verze)",
 	"extdist-branch-REL1_22": "1.22 (aktuální stabilní MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Uživatelské_jméno",
 	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozte mi s výběrem)]]",
