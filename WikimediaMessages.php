@@ -24,6 +24,9 @@ $wgMessagesDirs['WikimediaContactPageMessages'] = __DIR__ . '/i18n/contactpage';
 $wgMessagesDirs['WikimediaMessages'] = __DIR__ . '/i18n/wikimedia';
 $wgMessagesDirs['WikimediaTemporaryMessages'] = __DIR__ . '/i18n/temporary';
 
+// Overrides of messages from core; must be consistent with MessageCache::get listener
+$wgMessagesDirs['WikimediaOverrideMessages'] = __DIR__ . '/i18n/wikimediaoverrides';
+
 include_once ( __DIR__ .'/WikimediaGrammarForms.php' );
 
 $wgExtensionFunctions[] = function() {
@@ -102,6 +105,45 @@ $wgHooks['SkinTemplateOutputPageBeforeExec'][] = function( &$skin, &$template ) 
 	$template->set( 'developers', $link );
 	$template->data['footerlinks']['places'][] = 'developers';
 	return true;
+};
+
+/**
+ * When core requests certain messages, change the key to a Wikimedia version.
+ *
+ * @param String &$lcKey message key to check and possibly convert
+ */
+$wgHooks['MessageCache::get'][] = function( &$lcKey ) {
+	global $wgLanguageCode;
+
+	static $keys = array(
+		'createacct-helpusername',
+		'createacct-imgcaptcha-help',
+		'sidebar',
+	);
+
+	if ( in_array( $lcKey, $keys, true ) ) {
+		$prefixedKey ="wikimedia-$lcKey";
+
+		// MessageCache uses ucfirst if ord( key ) is < 128, which is true of all
+		// of the above.  Revisit if non-ASCII keys are used.
+		$ucKey = ucfirst( $lcKey );
+
+		$cache = MessageCache::singleton();
+		if (
+			// Override order:
+			// 1. If the MediaWiki:$ucKey page exists, use the key unprefixed
+			// (in all languages) with normal fallback order.  Specific
+			// language pages (MediaWiki:$ucKey/xy) are not checked when
+			// deciding which key to use, but are still used if applicable
+			// after the key is decided.
+			//
+			// 2. Otherwise, use the prefixed key with normal fallback order
+			// (including MediaWiki pages if they exist).
+			$cache->getMsgFromNamespace( $ucKey, $wgLanguageCode ) === false
+		) {
+			$lcKey = $prefixedKey;
+		}
+	}
 };
 
 /**

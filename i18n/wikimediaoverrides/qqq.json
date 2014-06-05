@@ -1,0 +1,5 @@
+{
+    "wikimedia-createacct-helpusername": "Message in new create account form providing guidance for username.",
+    "wikimedia-createacct-imgcaptcha-help": "Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.",
+    "wikimedia-sidebar": "{{notranslate}}"
+}
