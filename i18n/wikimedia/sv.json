@@ -175,6 +175,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Du accepterar genom att tillhandahålla denna information till Wikimedia Foundation att vi får kontakta dig om översättningar eller andra ämnen relaterade till Wikimediarörelsen vi tror kan intressera dig. Du accepterar att din data kan sparas i USA och accepterar våra [https://wikimediafoundation.org/wiki/Privacy_policy integritetspolicy].",
 	"upload-more-photos-of-this-monument": "Ladda upp fler bilder på detta monument",
 	"extdist-branch-master": "master (senaste utvecklingsversionen)",
+	"extdist-branch-REL1_23": "1.23 (kandidat för nästa stabila version)",
 	"extdist-branch-REL1_22": "1.22 (senaste stabila MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Användarnamnspolicy",
 	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]",
