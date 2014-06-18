@@ -176,7 +176,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://wikimediafoundation.org/wiki/Privacy_policy політики приватності].",
 	"upload-more-photos-of-this-monument": "Завантажити більше знімків цього об'єкта",
 	"extdist-branch-master": "майстер (остання розроблена версія)",
-	"extdist-branch-REL1_22": "1.22 (остання стабільна MediaWiki)",
+	"extdist-branch-REL1_23": "1.23 (остання стабільна MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Політика_імені_користувача",
 	"createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|допоможіть мені вибрати]])",
 	"createacct-captcha-help-url": "{{ns:Project}}:Запит облікового запису",

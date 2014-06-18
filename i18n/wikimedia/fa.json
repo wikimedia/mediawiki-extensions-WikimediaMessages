@@ -169,7 +169,7 @@
 	"wikimedia-translationnotifications-signup-legal": "شما می‌پذیرید که بنیاد ویکی‌مدیا به کمک این اطلاعت امکان دارد برای ترجمه‌ها یا مطالب مرتبط که برای شما جذاب هستند، با شما تماس حاصل نماید. شما می‌پذیرید که اطلاعاتتان در ایالات متحده آمریکا بایگانی می‌شوند و شامل [https://wikimediafoundation.org/wiki/Privacy_policy قوانین حفظ حریم خصوصی] ما هستند.",
 	"upload-more-photos-of-this-monument": "بارگذاری عکس‌های بیشتری از این بنای تاریخی",
 	"extdist-branch-master": "استاد (آخرین نسخهٔ توسعه)",
-	"extdist-branch-REL1_22": "1.22 (آخرین مدیاویکی پایدار )",
+	"extdist-branch-REL1_23": "1.23 (آخرین مدیاویکی پایدار )",
 	"createacct-helpusername-url": "{{ns:Project}}:سیاست نام کاربری",
 	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}: درخواست یک حساب",
