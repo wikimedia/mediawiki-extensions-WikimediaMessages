@@ -6,7 +6,8 @@
 			"Klutzy",
 			"Kwj2772",
 			"Multichill",
-			"아라"
+			"아라",
+			"Hym411"
 		]
 	},
 	"wikimedialicensetexts-desc": "위키미디어 라이선스 메시지",
@@ -49,7 +50,7 @@
 	"wm-license-creator-work-period": "작업 시기",
 	"wm-license-creator-work-location": "작업 공간",
 	"wm-license-creator-linkback": "작가 정보 틀로 돌아가기",
-	"wm-license-fal-text": "카피레프트: 이 예술 작품은 '''[[{{int:wm-license-fal-wiki-link}}|프리 아트 라이선스]]'''의 조건에 따라 자유롭게 사용, 재배포, 수정할 수 있습니다.\n라이선스 규약은 [{{int:wm-license-fal-full-link}} Copyleft Attitude 사이트]에서 볼 수 있습니다.",
+	"wm-license-fal-text": "카피레프트: 이 예술 작품은 '''[[{{int:wm-license-fal-wiki-link}}|프리 아트 라이선스]]'''의 조건에 따라 자유롭게 사용, 재배포, 수정할 수 있습니다.\n라이선스 규약은 [{{int:wm-license-fal-full-link}} Copyleft Attitude 사이트], 혹은 [{{int:wm-license-fal-full-link-commons}} 다른 사이트]에서 볼 수 있습니다.",
 	"wm-license-fal-wiki-link": "w:ko:프리 아트 라이선스",
 	"wm-license-fsf-wiki-link": "w:ko:자유 소프트웨어 재단",
 	"wm-license-free-software-wiki-link": "w:ko:자유 소프트웨어",
