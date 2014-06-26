@@ -134,7 +134,7 @@ $wgHooks['MinervaPreRender'][] = function( $tpl ) {
  * which is really needed for our copyright policy.
  */
 $wgHooks['UploadForm:initial'][] = function() {
-	if ( wfMessage( 'licenses' )->isDisabled() ) {
+	if ( wfMessage( 'licenses' )->inContentLanguage()->isDisabled() ) {
 		throw new ErrorPageError( 'uploaddisabled', 'wikimedia-upload-nolicenses' );
 	}
 };
