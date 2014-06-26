@@ -9,7 +9,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "স্বীকৃতিপ্রদান",
-	"wm-license-cc-by-1.0-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
+	"wm-license-cc-by-1.0-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমন্স]] [//creativecommons.org/licenses/by/1.0/ অ্যাট্রিবিউশন ১.০ জেনেরিক] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
 	"wm-license-cc-by-1.0-fi-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
 	"wm-license-cc-by-1.0-il-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
 	"wm-license-cc-by-1.0-nl-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/nl/ Attribution 1.0 Netherlands] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
@@ -183,5 +183,5 @@
 	"wm-license-cc-conditions-attribution-text": "আপনাকে অবশ্যই এই কাজটির প্রণেতা বা লাইসেন্সধারীর নির্ধারিত রীতি অনুযায়ী কাজের স্বীকৃতি প্রদান করতে হবে (কিন্তু এমন ভাবে নয়, যাতে প্রকাশ পায় যে তারা আপনাকে বা আপনার এই ব্যবহারের জন্য অনুমোদন দিয়েছে)।",
 	"wm-license-cc-conditions-share_alike-header": "শেয়ার অ্যালাইক",
 	"wm-license-cc-conditions-share_alike-text": "আপনি যদি কাজটি পরিবর্তন, রুপান্তর, বা এই কাজটির ওপর ভিত্তি করে নতুন সৃষ্টিকর্ম তৈরি করেন, তবে আপনাকে প্রাপ্ত সৃষ্টকর্মটি একই লাইসেন্স বা একই রকমের লাইসেন্সের আওতায় বিতরণ করতে হবে।",
-	"wm-license-cc-pd-mark-text": "এই ফাইলটির কোনো কপিরাইট আইনের আওতায় জানা সকল বাধানিষেধ মুক্ত বলে চিহ্নিত হয়েছে, যার মধ্যে সম্পর্কিত সকল স্বত্ব ও নেইবারিং সত্ত্ব সংযুক্ত।"
+	"wm-license-cc-pd-mark-text": "এই ফাইলটি কপিরাইট আইনের আওতায় জানা সকল বাধানিষেধ মুক্ত বলে চিহ্নিত হয়েছে, যার মধ্যে সম্পর্কিত সকল স্বত্ব ও নেইবারিং সত্ত্ব সংযুক্ত।"
 }
