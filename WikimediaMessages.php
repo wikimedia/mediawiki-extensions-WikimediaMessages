@@ -60,13 +60,6 @@ $wgExtensionFunctions[] = function() {
 			return true;
 		};
 
-		$wgHooks['FlowTermsOfUse'][] = function( &$addTopicKey, &$replyKey, &$editKey ) {
-			$addTopicKey = 'wikimedia-flow-terms-of-use-new-topic';
-			$replyKey = 'wikimedia-flow-terms-of-use-reply';
-			$editKey = 'wikimedia-flow-terms-of-use-edit';
-			return true;
-		};
-
 		$wgHooks['MobileLicenseLink'][] = function( &$link, $context, $attribs ) {
 			// We only display the dual licensing stack in the editor and talk interfaces
 			if ( $context === 'editor' || $context === 'talk' ) {
