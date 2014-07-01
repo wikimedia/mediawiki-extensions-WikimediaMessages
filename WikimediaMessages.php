@@ -125,9 +125,16 @@ $wgHooks['MinervaPreRender'][] = function( $tpl ) {
  * This should prevent a lot of uploading without licenses on small wikis;
  * some or many of the small WMF wikis do not have any license options,
  * which is really needed for our copyright policy.
+ *
+ * Do not require it when licenses is in $wgForceUIMsgAsContentMsg,
+ * to prevent checking each subpage of MediaWiki:Licenses.
  */
 $wgHooks['UploadForm:initial'][] = function() {
-	if ( wfMessage( 'licenses' )->inContentLanguage()->isDisabled() ) {
+	global $wgForceUIMsgAsContentMsg;
+	if ( !in_array( 'licenses', $wgForceUIMsgAsContentMsg )
+		&& wfMessage( 'licenses' )->inContentLanguage()->isDisabled()
+	) {
 		throw new ErrorPageError( 'uploaddisabled', 'wikimedia-upload-nolicenses' );
 	}
+	return true;
 };
