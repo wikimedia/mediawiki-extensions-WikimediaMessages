@@ -29,7 +29,7 @@
 	"group-botadmin-member": "{{GENDER:$1|بۆت بە مافەکانی بەڕێوەبەر}}",
 	"grouppage-botadmin": "{{ns:project}}:بۆتەکان بە مافەکانی بەڕێوەبەر",
 	"group-confirmed": "بەکارھێنەرانی پەسندکراو",
-	"group-confirmed-member": "{{GENDER:$1|بەکارھێنەرانی پەسندکراو}}",
+	"group-confirmed-member": "{{GENDER:$1|بەکارھێنەری پەسندکراو}}",
 	"grouppage-confirmed": "{{ns:project}}:بەکارھێنەرانی پەسندکراو",
 	"group-editprotected": "دەستکاریکەرانی پەڕەی پارێزراو",
 	"group-editprotected-member": "{{GENDER:$1|دەستکاریکەری پەڕەی پارێزراو}}",
