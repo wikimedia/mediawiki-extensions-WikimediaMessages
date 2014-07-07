@@ -140,9 +140,7 @@
 	"upload-more-photos-of-this-monument": "Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο",
 	"extdist-branch-REL1_23": "1.23 (τελευταία σταθερή έκδοση του MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(βοηθήστε με να επιλέξω)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Αίτημα για λογαριασμό",
-	"createacct-imgcaptcha-help": "Δεν μπορείτε να δείτε την εικόνα; [[{{MediaWiki:createacct-captcha-help-url}}|Ζητείστε ένα λογαριασμό]]",
 	"wikimedia-developers": "Προγραμματιστές",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Πολιτική Ιδιωτικότητας]"
 }

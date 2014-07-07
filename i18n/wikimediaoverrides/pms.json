@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borichèt"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(giuteme a serne)]]",
+	"wikimedia-createacct-imgcaptcha-help": "A peul nen vëdde la plancia? [[{{MediaWiki:createacct-captcha-help-url}}|Ch'a ciama la creassion d'un cont]]"
+}
