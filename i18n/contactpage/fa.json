@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Reza1615"
+			"Reza1615",
+			"Rtemis"
 		]
 	},
 	"contactpage-title-requestlicense": "علامت تجاری استفاده مجدد از فرم تماس با ما",
@@ -25,6 +26,7 @@
 	"contactpage-wikimedia-trademark-globe": "پازل جهانی ویکی‌پدیا",
 	"contactpage-wikimedia-trademark-wikiwordmark": "نشان ویکی‌پدیا",
 	"contactpage-wikimedia-trademark-w": "سبک ''W''",
+	"contactpage-wikimedia-trademark-wikibooks": "ویکی‌کتاب",
 	"contactpage-wikimedia-trademark-wikimedia": "جامعه ویکی‌مدیا",
 	"contactpage-title-licenseabuse": "فرم نقض حق تکثیر",
 	"contactpage-pagetext-licenseabuse": "لطفا فرم زیر را برای موارد نقض حق تکثیر پر کنید",
