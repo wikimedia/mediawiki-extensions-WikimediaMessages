@@ -60,7 +60,7 @@
 	"grouppage-editprotected": "{{ns:project}}:Уредници заштићених страница",
 	"group-eliminator": "Одстрањивачи",
 	"group-eliminator-member": "{{GENDER:$1|одстрањивач|одстрањивачица|одстрањивач}}",
-	"grouppage-eliminator": "{{ns:project}}:Одстрањивач",
+	"grouppage-eliminator": "{{ns:project}}:Одстрањивачи",
 	"group-filemover": "Премештачи датотека",
 	"group-filemover-member": "{{GENDER:$1|премештач датотека|премештачица датотека|премештач датотека}}",
 	"grouppage-filemover": "{{ns:project}}:Премештачи датотека",
@@ -98,7 +98,7 @@
 	"group-trusted-member": "{{GENDER:$1|поверљиви корисник|поверљива корисница|поверљиви корисник}}",
 	"grouppage-trusted": "{{ns:project}}:Поверљиви корисници",
 	"group-uploader": "Пошиљаоци",
-	"group-uploader-member": "пошиљалац",
+	"group-uploader-member": "{{GENDER:$1|пошиљалац}}",
 	"grouppage-uploader": "{{ns:project}}:Пошиљаоци",
 	"group-coder": "Програмери",
 	"group-coder-member": "{{GENDER:$1|програмер|програмерка}}",
@@ -114,6 +114,8 @@
 	"group-Global_sysops": "Глобални администратори",
 	"group-Global_sysops-member": "{{GENDER:$1|глобални администратор|глобална администраторка|глобални администратор}}",
 	"grouppage-Global_sysops": "m:Global sysops/sr",
+	"group-oauthadmin": "OAuth администратори",
+	"group-oauthadmin-member": "{{GENDER:$1|OAuth администратор}}",
 	"group-Ombudsmen": "Правозаступници",
 	"group-Ombudsmen-member": "{{GENDER:$1|правозаступник|правозаступница|правозаступник}}",
 	"grouppage-Ombudsmen": "m:Ombudsman commission/sr",
@@ -137,8 +139,7 @@
 	"cant-delete-main-page": "Не можете обрисати или преместити главну страну.",
 	"extdist-branch-REL1_23": "1.23 (најновија стабилна верзија Медијавикија)",
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
-	"createacct-imgcaptcha-help": "Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Поднесите захтев за отварање налога]]",
-	"wikimedia-developers": "За програмере"
+	"wikimedia-developers": "За програмере",
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Политика приватности]"
 }
