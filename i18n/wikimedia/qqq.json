@@ -219,5 +219,15 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Terms of use and copyright warning shown when reopening a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-reopen-topic-submit}}.",
 	"wikimedia-upload-nolicenses": "This error is shown on [[Special:Upload]] on Wikimedia wikis when no license options are configured on [[MediaWiki:Licenses]].\n\nSee also [[mw:Manual:Image administration]].",
 	"wikimediashoplink-linktext": "Text for the link in the sidebar to the Wikimedia Shop",
-	"wikimediashoplink-link-tooltip": "Tooltip for the link in the sidebar to the Wikimedia Shop"
+	"wikimediashoplink-link-tooltip": "Tooltip for the link in the sidebar to the Wikimedia Shop",
+	"interlanguage-link-mul": "Display text used for a language link (in the sidebar) to a multilingual version of the site, such as [[wikisource:|Multilingual Wikisource]].\n\nThis message '''should not''' use the same wording as the {{msg-mw|otherlanguages}} message, in order to avoid repetitiveness. For example, in English, the word \"more\" is used in this message, as opposed to \"other\" in {{msg-mw|otherlanguages}}.",
+	"interlanguage-link-sitename-mul": "Part of the title (tooltip) text used for a language link (in the sidebar) to a multilingual version of the site, such as [[wikisource:|Multilingual Wikisource]].",
+	"interlanguage-link-wikipedia": "Display text used for a sidebar link to a relevant page on Wikipedia.\n\nUsed on Wikivoyage sites for the \"Related sites\" feature.",
+	"interlanguage-link-sitename-wikipedia": "Part of the title (tooltip) text used for a sidebar link to a relevant page on Wikipedia. The text \"the free encyclopedia\" is the motto of Wikipedia, and should be translated according to what is used on your language's edition of Wikipedia.",
+	"interlanguage-link-commons": "Display text used for a sidebar link to a relevant page on Wikimedia Commons.\n\nUsed on Wikivoyage sites for the \"Related sites\" feature.",
+	"interlanguage-link-sitename-commons": "Part of the title (tooltip) text used for a sidebar link to a relevant page on Wikimedia Commons.",
+	"interlanguage-link-dmoz": "Display text used for a sidebar link to a relevant page on [http://www.dmoz.org DMOZ].\n\nUsed on Wikivoyage sites for the \"Related sites\" feature.",
+	"interlanguage-link-sitename-dmoz": "Part of the title (tooltip) text used for a sidebar link to a relevant page on [http://www.dmoz.org DMOZ].",
+	"interlanguage-link-citizendium": "Display text used for a sidebar link to a relevant page on [http://en.citizendium.org Citizendium].\n\nUsed on Wikivoyage sites for the \"Related sites\" feature.",
+	"interlanguage-link-sitename-citizendium": "Part of the title (tooltip) text used for a sidebar link to a relevant page on [http://en.citizendium.org Citizendium]."
 }
