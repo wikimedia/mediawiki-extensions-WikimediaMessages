@@ -107,12 +107,21 @@ $wgHooks['SkinTemplateOutputPageBeforeExec'][] = function( &$skin, &$template ) 
 	return true;
 };
 
+$wgHooks['MessageCache::get'][] = 'wfWikimediaMessagesMessageCacheGet';
+
 /**
  * When core requests certain messages, change the key to a Wikimedia version.
  *
+ * @note Don't make this a closure, it causes the Database Dumps to fail.
+ *   See https://bugs.php.net/bug.php?id=52144
+ *
+ *   mwscript getSlaveServer.php --wiki='dewiki' --group=dump --globals
+ *   print_r( $GLOBALS['wgHooks']['MessageCache::get'] );
+ *
  * @param String &$lcKey message key to check and possibly convert
+ * @return bool
  */
-$wgHooks['MessageCache::get'][] = function( &$lcKey ) {
+function wfWikimediaMessagesMessageCacheGet( &$lcKey ) {
 	global $wgLanguageCode;
 
 	static $keys = array(
