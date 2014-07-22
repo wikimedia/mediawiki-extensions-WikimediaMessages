@@ -144,6 +144,7 @@ $wgHooks['MessageCache::get'][] = function( &$lcKey ) {
 			$lcKey = $prefixedKey;
 		}
 	}
+	return true;
 };
 
 /**
