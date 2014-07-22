@@ -159,11 +159,9 @@
 	"extdist-branch-master": "induk (versi pembangunan terkini)",
 	"extdist-branch-REL1_23": "1.23 (MediaWiki stabil yang terkini)",
 	"createacct-helpusername-url": "{{ns:Project}}:Dasar_nama_pengguna",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Permohonan akaun",
-	"createacct-imgcaptcha-help": "Tak nampak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon akaun]]",
 	"wikimedia-developers": "Pembangun",
-	"wikimedia-flow-terms-of-use-new-topic": "Dengan mengklik \"Tambah topik\", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",
-	"wikimedia-flow-terms-of-use-reply": "Dengan mengklik \"Balas\", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",
-	"wikimedia-flow-terms-of-use-edit": "Dengan menyimpan suntingan, anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL]."
+	"wikimedia-flow-terms-of-use-new-topic": "Dengan mengklik \"Tambah topik\", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",
+	"wikimedia-flow-terms-of-use-reply": "Dengan mengklik \"Balas\", anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",
+	"wikimedia-flow-terms-of-use-edit": "Dengan menyimpan suntingan, anda bersetuju dengan [//wikimediafoundation.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [//creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL]."
 }

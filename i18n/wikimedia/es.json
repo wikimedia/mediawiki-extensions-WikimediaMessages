@@ -171,9 +171,9 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nombres_de_usuario",
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicitar una cuenta",
 	"wikimedia-developers": "Desarrolladores",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/es",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/es",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Política de privacidad]",
 	"mwoauth-grant-checkuser": "Acceder a datos de ''checkuser''",
-	"wikimedia-flow-terms-of-use-reply": "Al pulsar 'respoder', usted acepta los Términos de uso y Condiciones [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] y acepta, además, en forma irrevocable, a someter su texto bajo los términos de la Licencia de documentación gratuita [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-edit": "Al guardar los cambios, usted acepta los Términos de uso y Condiciones [//wikimediafoundation.org/wiki/Terms_of_use Terms of Use] y acepta, además, en forma irrevocable, a someter su texto bajo los términos de la Licencia de documentación gratuita [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
+	"wikimedia-flow-terms-of-use-reply": "Al pulsar 'respoder', usted acepta los Términos de uso y Condiciones [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] y acepta, además, en forma irrevocable, a someter su texto bajo los términos de la Licencia de documentación gratuita [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "Al guardar los cambios, usted acepta los Términos de uso y Condiciones [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] y acepta, además, en forma irrevocable, a someter su texto bajo los términos de la Licencia de documentación gratuita [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
 }

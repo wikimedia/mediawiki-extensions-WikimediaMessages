@@ -166,11 +166,9 @@
 	"extdist-branch-master": "മാസ്റ്റർ (ഏറ്റവും പുതിയ വികസനഘട്ട പതിപ്പ്)",
 	"extdist-branch-REL1_23": "1.23 (ഏറ്റവും പുതിയ സുസ്ഥിര മീഡിയവിക്കി)",
 	"createacct-helpusername-url": "{{ns:Project}}:ഉപയോക്തൃനാമനയം",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(തിരഞ്ഞെടുക്കാൻ സഹായിക്കുക)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:അംഗത്വമാവശ്യപ്പെടുക",
-	"createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]",
 	"wikimedia-developers": "ഡെവലപ്പർമാർ",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/ml",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/ml",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy സ്വകാര്യതാനയം]",
 	"mwoauth-grant-checkuser": "ചെക്ക്‌യൂസർ ഡേറ്റ എടുക്കുക"
 }

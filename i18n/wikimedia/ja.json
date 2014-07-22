@@ -184,16 +184,17 @@
 	"extdist-branch-REL1_24": "1.24 (次の安定版候補)",
 	"extdist-branch-REL1_23": "1.23 (MediaWiki の最新の安定版)",
 	"createacct-helpusername-url": "{{ns:Project}}:利用者名の指針",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:アカウント申請",
-	"createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
 	"wikimedia-developers": "開発者",
 	"wikimedia-globalblocking-ipblocked": "'''あなたのIPアドレスは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nあなたの現在のIPアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお思いの場合、[[m:Special:MyLanguage/No open proxies|No open proxies]] というグローバル方針でより詳しい情報を読むことができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼してください]]。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''あなたのリクエストで使用している1つ以上のプロキシサーバーが[[m:Special:MyLanguage/Global blocks|グローバルにブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nブロックされたプロキシのアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお思いの場合、[[m:Special:MyLanguage/No open proxies|No open proxies]] というグローバル方針でより詳しい情報を読むことができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼してください]]。",
 	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集を禁止しています。\n正当な利用者向けの情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|No open proxies]]をご覧ください。",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/ja",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/ja",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]",
-	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
-	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
-	"wikimedia-flow-terms-of-use-edit": "変更内容を保存すると、あなたは[//wikimediafoundation.org/wiki/Terms_of_use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます"
+	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
+	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
+	"wikimedia-flow-terms-of-use-edit": "変更内容を保存すると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
+	"wikimedia-flow-terms-of-use-summarize": "「{{int:flow-summarize-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
+	"wikimedia-flow-terms-of-use-close-topic": "「{{int:flow-close-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
+	"wikimedia-flow-terms-of-use-reopen-topic": "「{{int:flow-reopen-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます"
 }

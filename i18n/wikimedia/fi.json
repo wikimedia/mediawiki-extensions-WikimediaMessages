@@ -160,10 +160,8 @@
 	"extdist-branch-master": "master (viimeisin kehitysversio)",
 	"extdist-branch-REL1_23": "1.23 (viimeisin vakaa MediaWiki-versio)",
 	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnuskäytäntö",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Pyydä tunnusta",
-	"createacct-imgcaptcha-help": "Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
 	"wikimedia-developers": "Kehittäjät",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/fi",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/fi",
 	"mwoauth-grant-checkuser": "Pääsy osoitepaljastintietoihin"
 }

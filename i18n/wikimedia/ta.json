@@ -7,7 +7,8 @@
 			"Shanmugamp7",
 			"Sodabottle",
 			"TRYPPN",
-			"Trengarasu"
+			"Trengarasu",
+			"Kalyanasundar"
 		]
 	},
 	"wikimediamessages-desc": "விக்கிமீடியாவிற்கான தகவல்கள்",
@@ -70,6 +71,9 @@
 	"group-import": "இறக்குமதியாளர்கள்",
 	"group-import-member": "{{GENDER:$1|இறக்குமதியாளர்}}",
 	"grouppage-import": "{{ns:project}}:இறக்குமதியாளர்கள்",
+	"group-inactive": "பங்களிக்காத பயனர்கள்",
+	"group-inactive-member": "{{GENDER:$1|பங்களிக்காத பயனர்}}",
+	"grouppage-inactive": "{{ns:project}}:பங்களிக்காத பயனர்கள்",
 	"group-interface_editor": "இடைமுக தொகுப்பாளர்கள்",
 	"group-interface_editor-member": "{{GENDER:$1|இடைமுக தொகுப்பாளர்}}",
 	"grouppage-interface_editor": "{{ns:project}}:இடைமுக தொகுப்பாளர்கள்",
@@ -91,6 +95,10 @@
 	"group-trusted": "நம்பத்தகுந்த பயனர்கள்",
 	"group-trusted-member": "{{GENDER:$1|நம்பத்தகுந்த பயனர்}}",
 	"grouppage-trusted": "{{ns:project}}:நம்பத்தகுந்த பயனர்கள்",
+	"group-coder": "குறியீட்டாளர்கள்",
+	"group-coder-member": "{{GENDER:$1|குறியீட்டாளர்}}",
+	"group-editinterface": "இடைமுக தொகுப்பாளர்கள்",
+	"group-editinterface-member": "{{GENDER:$1|இடைமுக தொகுப்பாளர்}}",
 	"group-Global_bot": "உலகளவிய தானியங்கிகள்",
 	"group-Global_bot-member": "{{GENDER:$1|உலகளவிய தானியங்கி}}",
 	"group-Global_rollback": "உலகளவிய முன்னிலையாக்கர்கள்",
@@ -99,8 +107,6 @@
 	"group-Global_sysops-member": "{{GENDER:$1|உலகளவிய நிர்வாகி}}",
 	"group-Staff": "பணியாளர்கள்",
 	"group-Staff-member": "பணியாளர்",
-	"group-editinterface": "இடைமுக தொகுப்பாளர்கள்",
-	"group-editinterface-member": "{{GENDER:$1|இடைமுக தொகுப்பாளர்}}",
 	"group-steward": "மேலாளர்கள்",
 	"group-steward-member": "{{GENDER:$1|மேலாளர்}}",
 	"group-sysadmin": "அமைப்பின் நிர்வாகிகள்",
@@ -108,11 +114,7 @@
 	"group-translationadmin": "மொழிபெயர்ப்பு நிருவாகிகள்",
 	"group-translationadmin-member": "{{GENDER:$1|மொழிபெயர்ப்பு நிர்வாகி}}",
 	"grouppage-translationadmin": "{{ns:project}}:மொழிபெயர்ப்பு நிர்வாகிகள்",
-	"group-coder": "குறியீட்டாளர்கள்",
-	"group-coder-member": "{{GENDER:$1|குறியீட்டாளர்}}",
-	"group-inactive": "பங்களிக்காத பயனர்கள்",
-	"group-inactive-member": "{{GENDER:$1|பங்களிக்காத பயனர்}}",
-	"grouppage-inactive": "{{ns:project}}:பங்களிக்காத பயனர்கள்",
 	"wikimedia-copyrightwarning": "இந்த ஆக்கத்தை சேமிப்பதன் மூலம் நீங்கள் [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] மற்றும் [https://www.gnu.org/copyleft/fdl.html GFDL] பதிப்புரிமை விதிகளுக்கு உட்பட்டு உங்கள் பங்களிப்புகளை பிறருடன் பகிர்ந்து கொள்ள ஒப்புதல் அளிக்கிறீர்கள்.\n\nஇந்த ஆக்கத்தினை மறுபயன்பாடு செய்பவர்கள், குறைந்த பட்சம் இந்த பக்கத்துக்கு ஒரு மீத்தொடுப்பு தருவதன் மூலம் பங்களிப்பு உங்களுடையது என்று அறிவித்துவிட்டு, இதனை பயன்படுத்தவும் ஒப்புதல் அளிக்கிறீர்கள்.\n\nவிவரங்களுக்கு, [https://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளைப்] பார்க்கவும்.",
-	"cant-delete-main-page": "முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது."
+	"cant-delete-main-page": "முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது.",
+	"wikimedia-flow-terms-of-use-close-topic": "சொடுக்குவதன் மூலம் எங்களது நிபந்தனைகளுக்கும் விதிமுறைகளுக்கும் \n[//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] ,உடன்பட்டு உங்களது உரைமூலத்தை \n[//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] மற்றும் [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] கீழ் வெளியிட மாற்றமுடியாத இசைவு தெரிவிக்கிறீர்கள் ."
 }

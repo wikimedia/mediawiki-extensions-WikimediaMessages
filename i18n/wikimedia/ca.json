@@ -139,10 +139,8 @@
 	"cant-delete-main-page": "No podeu esborrar ni traslladar la portada.",
 	"upload-more-photos-of-this-monument": "Carrega més fotos d'aquest monument",
 	"createacct-helpusername-url": "{{ns:Project}}:Nom d'usuari",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajuda per escollir-ne un)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Sol·licitar un compte",
-	"createacct-imgcaptcha-help": "No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]",
 	"wikimedia-developers": "Desenvolupadors",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_use/ca",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/ca",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Política de privadesa]"
 }
