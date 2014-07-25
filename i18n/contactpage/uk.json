@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Andriykopanytsia",
-			"Ата"
+			"Ата",
+			"Base"
 		]
 	},
 	"contactpage-title-requestlicense": "Контактна форма використання товарного знака",
@@ -29,7 +30,7 @@
 	"contactpage-wikimedia-trademark-wikimedia": "Співтовариство Вікімедіа",
 	"contactpage-title-licenseabuse": "Контактна форма із порушення авторських прав",
 	"contactpage-pagetext-licenseabuse": "Будь ласка, використовуйте форму нижче для зв'язку з нами з приводу порушень авторських прав",
-	"contactpage-subject-licenseabuse": "Повідомлення про порушення товарного знака Вікімедії",
+	"contactpage-subject-licenseabuse": "Повідомлення про зловживання торговою маркою Вікімедіа",
 	"contactpage-license-abuse-description": "Опишіть зловживання",
 	"contactpage-license-abuse-selectmark": "Який саме знак був використаний з порушенням?",
 	"contactpage-license-abuse-location": "Розташування зловживання (у мережі/поза мережею)",

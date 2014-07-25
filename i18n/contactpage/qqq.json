@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Reedy",
-			"Shirayuki"
+			"Shirayuki",
+			"Liuxinyu970226"
 		]
 	},
 	"contactpage-license-request-username": "The username of the person currently filling out this form.\n{{Identical|Username}}",
@@ -16,18 +17,18 @@
 	"contactpage-license-request-use-book": "Request to use Wikimedia trademarks in books or periodicals",
 	"contactpage-license-request-use-print": "Request to use Wikimedia trademarks in print.\n{{Identical|Print}}",
 	"contactpage-license-request-use-tv": "Request to use Wikimedia trademarks on tv, movie or other broadcast",
-	"contactpage-license-request-use-other": "Other potential usage locations of Wikimedia trademarks",
+	"contactpage-license-request-use-other": "Other potential usage locations of Wikimedia trademarks\n{{Identical|Other}}",
 	"contactpage-license-request-use-note": "Note advising that the Wikimedia Foundation may publicly list authorized usages of Wikimedia trademarks",
 	"contactpage-license-request-description": "Description of proposed usages of Wikimedia trademark(s)",
 	"contactpage-license-request-selectmark": "Select which Wikimedia tradmark(s)",
 	"contactpage-wikimedia-trademark-globe": "Wikipedia Globe logo",
 	"contactpage-wikimedia-trademark-w": "Stylized \"W\" (in Wikipedia logo font)",
-	"contactpage-wikimedia-trademark-foundation": "Wikimedia Foundation logo",
+	"contactpage-wikimedia-trademark-foundation": "Wikimedia Foundation logo\n{{Identical|Wikimedia Foundation}}",
 	"contactpage-wikimedia-trademark-commons": "Wikimedia Commons logo.\n{{Identical|Wikimedia Commons}}",
-	"contactpage-wikimedia-trademark-incubator": "Wikimedia Incubator logo",
-	"contactpage-wikimedia-trademark-mediawiki": "MediaWiki logo",
+	"contactpage-wikimedia-trademark-incubator": "Wikimedia Incubator logo\n{{Identical|Wikimedia Incubator}}",
+	"contactpage-wikimedia-trademark-mediawiki": "MediaWiki logo\n{{Identical|MediaWiki}}",
 	"contactpage-wikimedia-trademark-wikiquote": "Wikiquote logo.\n{{Identical|Wikiquote}}",
-	"contactpage-wikimedia-trademark-wikibooks": "Wikibooks logo",
+	"contactpage-wikimedia-trademark-wikibooks": "Wikibooks logo\n{{Identical|Wikibooks}}",
 	"contactpage-wikimedia-trademark-wikimania": "Wikimania logo",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia community  logo",
 	"contactpage-wikimedia-trademark-wikinews": "Wikinews logo",
