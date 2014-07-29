@@ -12,7 +12,8 @@
 			"Mido",
 			"OsamaK",
 			"ترجمان05",
-			"زكريا"
+			"زكريا",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -133,10 +134,12 @@
 	"group-translationadmin-member": "{{GENDER:$1 |إداري الترجمة}}",
 	"grouppage-translationadmin": "{{ns:project}}: إداريو الترجمة",
 	"shared-repo-name-shared": "ويكيميديا كومنز",
-	"wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nقد تنطبق بنود أخرى أيضًا.\nانظر <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use\">شروط الاستخدام</a> للتفاصيل.",
-	"wikimedia-copyrightwarning": "بالضغط على زر \"{{int:savearticle}}\"، فإنك توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
+	"wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nقد تنطبق بنود أخرى أيضًا.\nانظر <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
+	"wikimedia-copyrightwarning": "بالضغط على زر \"{{int:savearticle}}\"، فإنك توافق على [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
 	"cant-delete-main-page": "لا يمكنك حذف أو نقل الصفحة الرئيسية.",
 	"upload-more-photos-of-this-monument": "قم برفع المزيد من الصور لهذا الأثر",
 	"createacct-captcha-help-url": "{{ns:Project}}: طلب حساب",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/ar"
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ar",
+	"wikimediashoplink-linktext": "متجر ويكيميديا",
+	"wikimediashoplink-link-tooltip": "زُر متجر ويكيميديا"
 }

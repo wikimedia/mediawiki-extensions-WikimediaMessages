@@ -4,7 +4,8 @@
 			"Matthias",
 			"Ooswesthoesbes",
 			"Pahles",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifieke berichte",
@@ -70,6 +71,9 @@
 	"group-import": "Importäörs",
 	"group-import-member": "Importäör",
 	"grouppage-import": "{{ns:project}}:Importäörs",
+	"group-inactive": "Neet-actieve gebroekers",
+	"group-inactive-member": "Neet-actieve gebroeker",
+	"grouppage-inactive": "{{ns:project}}:Neet-actieve gebroekers",
 	"group-interface_editor": "interfacebewerkers",
 	"group-interface_editor-member": "{{GENDER:$1|interfacebewerker}}",
 	"grouppage-interface_editor": "{{ns:project}}:Interfacebewerkers",
@@ -93,6 +97,10 @@
 	"group-uploader": "oplajers",
 	"group-uploader-member": "oplajer",
 	"grouppage-uploader": "{{ns:project}}:Oplajers",
+	"group-coder": "Pregrammäörs",
+	"group-coder-member": "Pregrammäör",
+	"group-editinterface": "Gebroekersinterfacebewirkers",
+	"group-editinterface-member": "Gebroekersinterfacebewirker",
 	"group-Global_bot": "Globale bots",
 	"group-Global_bot-member": "Globale bot",
 	"group-Global_rollback": "Globale trökdriejers",
@@ -103,8 +111,6 @@
 	"group-Ombudsmen-member": "Ombudsman",
 	"group-Staff": "Sjtaaf",
 	"group-Staff-member": "Sjtaaflid",
-	"group-editinterface": "Gebroekersinterfacebewirkers",
-	"group-editinterface-member": "Gebroekersinterfacebewirker",
 	"group-steward": "Stewards",
 	"group-steward-member": "Steward",
 	"grouppage-steward": "{{ns:project}}:Stewards",
@@ -113,13 +119,8 @@
 	"group-translationadmin": "Vertaalbehieërders",
 	"group-translationadmin-member": "{{GENDER:$1|vertaalbehieërder}}",
 	"grouppage-translationadmin": "{{ns:project}}:Vertaalbehieërders",
-	"group-coder": "Pregrammäörs",
-	"group-coder-member": "Pregrammäör",
-	"group-inactive": "Neet-actieve gebroekers",
-	"group-inactive-member": "Neet-actieve gebroeker",
-	"grouppage-inactive": "{{ns:project}}:Neet-actieve gebroekers",
-	"wikimedia-copyright": "De teks is besjikbaar ónger de <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naomsvermelding/Geliek Deile</a> licentie.\n't Is mäögelik dat aanvöllende veurwaarde van toepassing zeen.\nBetrach de <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Algemein Veurwaarde</a> veur mie informatie.",
+	"wikimedia-copyright": "De teks is besjikbaar ónger de <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naomsvermelding/Geliek Deile</a> licentie.\n't Is mäögelik dat aanvöllende veurwaarde van toepassing zeen.\nBetrach de <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Algemein Veurwaarde</a> veur mie informatie.",
 	"wikimedia-copyrightwarning": "Door dees bewirking op te sjlaon mit \"{{int:savearticle}}\", geis doe akkoord mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden gebroeks veurwaerd] en 't ónherropelik vriegaeve van dien biedrage ónger de [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Noamsvermelding/Geliek Deile licentie] en de [https://www.gnu.org/copyleft/fdl.html GFDL].\nDoe geis demit akkoord door hergebroekers minimaal geneump te waere via 'ne hyperlink of URL nao de pagina woe-aans diech biedreugs.",
 	"cant-delete-main-page": "Doe kans 't veurblaad neet wösje of verplaatsje.",
-	"wikimedia-translationnotifications-signup-legal": "Door dees gegaeves besjikbaar te stèlle ane Wikimedia Foundation, geufs se ós toestömming óm kóntak mit dich op te naeme euver vertalinge en anger óngerwirpe gerelateerdj ane Wikimediabewaeging wovan weer dinke det ze dien interesse höbbe. Doe stöms in mit 't opslaon van dien gegaeves inne VS en det dien gegaeves ónger ós [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] valle."
+	"wikimedia-translationnotifications-signup-legal": "Door dees gegaeves besjikbaar te stèlle ane Wikimedia Foundation, geufs se ós toestömming óm kóntak mit dich op te naeme euver vertalinge en anger óngerwirpe gerelateerdj ane Wikimediabewaeging wovan weer dinke det ze dien interesse höbbe. Doe stöms in mit 't opslaon van dien gegaeves inne VS en det dien gegaeves ónger ós [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy privacybeleid] valle."
 }

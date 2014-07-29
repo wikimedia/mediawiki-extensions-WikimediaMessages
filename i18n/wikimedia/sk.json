@@ -5,7 +5,8 @@
 			"Rudko",
 			"Teslaton",
 			"Απεργός",
-			"Sudo77(new)"
+			"Sudo77(new)",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Správy špecifické pre Wikimedia",
@@ -106,14 +107,12 @@
 	"group-steward-member": "Steward",
 	"group-sysadmin": "Správcovia systému",
 	"group-sysadmin-member": "správca systému",
-	"wikimedia-copyright": "Text je dostupný za podmienok <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Podmienky použitia</a>.",
-	"wikimedia-copyrightwarning": "Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [https://wikimediafoundation.org/wiki/Terms_of_Use Podmienky použitia].",
+	"wikimedia-copyright": "Text je dostupný za podmienok <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Podmienky použitia</a>.",
+	"wikimedia-copyrightwarning": "Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Podmienky použitia].",
 	"wikibase-sitelinks-wikiquote": "Stránky Wikicitátov prepojené s touto položkou",
 	"wikibase-sitelinks-wikisource": "Stránky Wikizdrojov prepojené s touto položkou",
 	"wikibase-sitelinks-wikivoyage": "Stránky Wikiciest prepojené s touto položkou",
 	"wikibase-sitelinks-commons": "Stránka Wikimedia Commons prepojená s touto položkou",
 	"createacct-helpusername-url": "{{ns:Project}}:Používateľské_meno",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomôžte mi vybrať)]]",
-	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
-	"createacct-imgcaptcha-help": "Nevidíte obrázok? [[{{MediaWiki:createacct-captcha-help-url}}|Požiadajte o účet]]."
+	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc"
 }

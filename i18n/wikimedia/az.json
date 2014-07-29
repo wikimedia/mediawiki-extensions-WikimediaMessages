@@ -5,7 +5,8 @@
 			"Cekli829",
 			"PPerviz",
 			"Vago",
-			"Vugar 1981"
+			"Vugar 1981",
+			"Nemo bis"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
@@ -46,6 +47,9 @@
 	"grouppage-founder": "{{ns:project}}:Banilər",
 	"group-import": "Çıxaranlar",
 	"grouppage-import": "{{ns:project}}:Çıxaranlar",
+	"group-inactive": "Qeyri-aktiv istifadəçilər",
+	"group-inactive-member": "{{GENDER:$1|qeyri-aktiv istifadəçi}}",
+	"grouppage-inactive": "{{ns:project}}:Qeyri-aktiv istifadəçilər",
 	"group-interface_editor": "İnterfeys redaktoru",
 	"group-interface_editor-member": "{{GENDER:$1|interfeys redaktoru}}",
 	"grouppage-interface_editor": "{{ns:project}}: İnterfeys redaktorları",
@@ -63,6 +67,10 @@
 	"group-trusted": "İnanılmış tistifadəçilər",
 	"group-trusted-member": "{{GENDER:$1|inanılmış istifadəçi}}",
 	"grouppage-trusted": "{{ns:project}}:İnanılmış istifadəçilər",
+	"group-coder": "Coderlər",
+	"group-coder-member": "{{GENDER:$1|coder}}",
+	"group-editinterface": "İnterfeys redaktoru",
+	"group-editinterface-member": "{{GENDER:$1|interfeys redaktoru}}",
 	"group-Global_bot": "Qlobal bot",
 	"group-Global_bot-member": "{{GENDER:$1|qlobal bot}}",
 	"grouppage-Global_bot": "m:Qlobal bot",
@@ -75,19 +83,12 @@
 	"group-Ombudsmen-member": "{{GENDER:$1|ombudsman}}",
 	"group-Staff": "Əməkdaşlar",
 	"group-Staff-member": "əməkdaşlar",
-	"group-editinterface": "İnterfeys redaktoru",
-	"group-editinterface-member": "{{GENDER:$1|interfeys redaktoru}}",
 	"group-steward": "Stüardlar",
 	"group-steward-member": "{{GENDER:$1|stüard}}",
 	"grouppage-steward": "m:Stüardlar",
 	"group-sysadmin": "Sistem idarəçiləri",
 	"group-sysadmin-member": "{{GENDER:$1|Sistem idarəçisi}}",
 	"grouppage-sysadmin": "m:Sistem idarəçisiləri",
-	"group-coder": "Coderlər",
-	"group-coder-member": "{{GENDER:$1|coder}}",
-	"group-inactive": "Qeyri-aktiv istifadəçilər",
-	"group-inactive-member": "{{GENDER:$1|qeyri-aktiv istifadəçi}}",
-	"grouppage-inactive": "{{ns:project}}:Qeyri-aktiv istifadəçilər",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Mətn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lisenziyası</a> altındadır;\nəlavə şərtlər tətbiq oluna bilər.\nƏtraflı məlumat üçün <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">İstifadə Şərtlərinə</a> baxın."
+	"wikimedia-copyright": "Mətn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lisenziyası</a> altındadır;\nəlavə şərtlər tətbiq oluna bilər.\nƏtraflı məlumat üçün <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">İstifadə Şərtlərinə</a> baxın."
 }

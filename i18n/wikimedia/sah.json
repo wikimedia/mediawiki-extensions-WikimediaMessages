@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Bert Jickty",
-			"HalanTul"
+			"HalanTul",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиаҕа эрэ сыһыаннаах этиилэр",
@@ -59,6 +60,9 @@
 	"group-import": "Импортааччылар",
 	"group-import-member": "Импортааччы",
 	"grouppage-import": "{{ns:project}}:Импортааччылар",
+	"group-inactive": "Көҕө суох кыттааччылар",
+	"group-inactive-member": "{{GENDER:$1|көҕө суох кыттааччы}}",
+	"grouppage-inactive": "{{ns:project}}:Көҕө суох кыттааччылар",
 	"group-interface_editor": "Интерфейс эрэдээктэрдэрэ",
 	"group-interface_editor-member": "интерфейс эрэдээктэрэ",
 	"grouppage-interface_editor": "{{ns:project}}:Интерфейс эрэдээктэрдэрэ",
@@ -82,6 +86,10 @@
 	"group-uploader": "Киллэрээччилэр",
 	"group-uploader-member": "киллэрээччи",
 	"grouppage-uploader": "{{ns:project}}:Киллэрээччилэр",
+	"group-coder": "Программистар",
+	"group-coder-member": "программист",
+	"group-editinterface": "Интерфейс эрэдээктэрдэрэ",
+	"group-editinterface-member": "{{GENDER:$1|интерфейс эрэдээктэрэ}}",
 	"group-Global_bot": "Бырайыактар ыккардынааҕы руобаттар",
 	"group-Global_bot-member": "бырайыактар ыккардынааҕы руобаттар",
 	"group-Global_rollback": "Бырайыактар ыккардынааҕы төннөрөөччүлэр",
@@ -92,17 +100,10 @@
 	"group-Ombudsmen-member": "омбудсман",
 	"group-Staff": "Үлэһиттэр",
 	"group-Staff-member": "үлэһит",
-	"group-editinterface": "Интерфейс эрэдээктэрдэрэ",
-	"group-editinterface-member": "{{GENDER:$1|интерфейс эрэдээктэрэ}}",
 	"group-steward": "Үстүйээрдэр",
 	"group-steward-member": "үстүйээрдэр",
 	"group-sysadmin": "Тиһик (систиэмэ) дьаһабыллара",
 	"group-sysadmin-member": "дьаһабыл",
-	"group-coder": "Программистар",
-	"group-coder-member": "программист",
-	"group-inactive": "Көҕө суох кыттааччылар",
-	"group-inactive-member": "{{GENDER:$1|көҕө суох кыттааччы}}",
-	"grouppage-inactive": "{{ns:project}}:Көҕө суох кыттааччылар",
-	"wikimedia-copyright": "Тиэкис <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> лицензия усулуобуйатынан тарҕанар, сорох түбэлтэҕэ эбии көрдөбүллэр баар буолуохтарын сөп. Сиһилии <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ru\">Туттуу усулуобуйатын</a> көр.",
-	"wikimedia-copyrightwarning": "Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] уонна [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияларынан тарҕанарыгар сөбүлэҥҥин биэрэҕин, онтуҥ төннүбэт. Бу сирэйи атын дьон туһанар түгэннэригэр, эйиэхэ гипер сигэ эбэтэр URL көмөтүнэн сигэниэхтэрэ, ону кытта сөбүлэһэҕин. Сиһилии [https://wikimediafoundation.org/wiki/Terms_of_Use/ru Условия использования] көр."
+	"wikimedia-copyright": "Тиэкис <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> лицензия усулуобуйатынан тарҕанар, сорох түбэлтэҕэ эбии көрдөбүллэр баар буолуохтарын сөп. Сиһилии <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ru\">Туттуу усулуобуйатын</a> көр.",
+	"wikimedia-copyrightwarning": "Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] уонна [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияларынан тарҕанарыгар сөбүлэҥҥин биэрэҕин, онтуҥ төннүбэт. Бу сирэйи атын дьон туһанар түгэннэригэр, эйиэхэ гипер сигэ эбэтэр URL көмөтүнэн сигэниэхтэрэ, ону кытта сөбүлэһэҕин. Сиһилии [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ru Условия использования] көр."
 }

@@ -217,5 +217,7 @@
 	"wikimedia-flow-terms-of-use-summarize": "Terms of use and copyright warning shown when summarizing a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-summarize-topic-submit}}.",
 	"wikimedia-flow-terms-of-use-close-topic": "Terms of use and copyright warning shown when closing a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-close-topic-submit}}.",
 	"wikimedia-flow-terms-of-use-reopen-topic": "Terms of use and copyright warning shown when reopening a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-reopen-topic-submit}}.",
-	"wikimedia-upload-nolicenses": "This error is shown on [[Special:Upload]] on Wikimedia wikis when no license options are configured on [[MediaWiki:Licenses]].\n\nSee also [[mw:Manual:Image administration]]."
+	"wikimedia-upload-nolicenses": "This error is shown on [[Special:Upload]] on Wikimedia wikis when no license options are configured on [[MediaWiki:Licenses]].\n\nSee also [[mw:Manual:Image administration]].",
+	"wikimediashoplink-linktext": "Text for the link in the sidebar to the Wikimedia Shop",
+	"wikimediashoplink-link-tooltip": "Tooltip for the link in the sidebar to the Wikimedia Shop"
 }

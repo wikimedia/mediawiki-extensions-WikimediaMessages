@@ -129,18 +129,17 @@
 	"group-translationadmin-member": "{{GENDER:$1|איבערזעצונג אדמיניסטראטאר}}",
 	"grouppage-translationadmin": "{{ns:project}}:איבערזעצונג אדמיניסטראטארן",
 	"shared-repo-name-shared": "וויקימעדיע קאמאנס",
-	"wikimedia-copyright": "טעקסט איז פאראן לויטן <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.\nזעט <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">תנאים פון באניצן</a> פֿאר פרטים.",
-	"wikimedia-copyrightwarning": "בײַם אויף טין ענדערונגען, זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאַדינגונגען] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA  ליצענץ 3.0] און דעם [https://www.gnu.org/copyleft/fdl.html GFDL].\nאיר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.",
+	"wikimedia-copyright": "טעקסט איז פאראן לויטן <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.\nזעט <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">תנאים פון באניצן</a> פֿאר פרטים.",
+	"wikimedia-copyrightwarning": "בײַם אויף טין ענדערונגען, זענט איר מסכים צו די [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use ניצבאַדינגונגען] , און איר זענט מסכים אומאפענדערלעך צו באפרייען אייער ביישטייערונג אונטערן [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA  ליצענץ 3.0] און דעם [https://www.gnu.org/copyleft/fdl.html GFDL].\nאיר שטימט צו אז  א היפערלינק אדער URL איז גענוג צושרייבן אונטערן קאמאנס־ליצענץ.",
 	"wikibase-repo-name": "וויקידאטן",
 	"wikibase-sitelinks-wikisource": "וויקיקוואל בלעטער פארלינקט מיט דעם אביעקט",
 	"wikibase-sitelinks-wikivoyage": "וויקירייזע בלעטער פארלינקט מיט דעם אביעקט",
 	"wikibase-sitelinks-commons": "וויקימעדיע קאמאנס בלאט פארבונדן מיט דעם דאטנאביעקט",
 	"wikibase-sitelinks-sitename-commonswiki": "קאמאנס",
 	"cant-delete-main-page": "מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט",
-	"wikimedia-translationnotifications-signup-legal": "איר זענט מסכים אז ווען איר פארזארגט די אינפארמאציע צו דער וויקימעדיע פונדאציע מעגן מיר קאנטאקטירן אייך וועגן איבערזעצונגען אדער אנדערע טעמעס שייך צו דער וויקימעדיע באוועגונג וואס מיר האלטן וועט אינטרעסירן אײַך. איר זענט מסכים אז מען מעג אײַערע דאטן איינשפייכלערן אין די פאראייניגטע שטאטן פון אמעריקע און ווערט געהאלטן לויט אונזער [https://wikimediafoundation.org/wiki/Privacy_policy פריוואטקייט ריכטליניע]",
+	"wikimedia-translationnotifications-signup-legal": "איר זענט מסכים אז ווען איר פארזארגט די אינפארמאציע צו דער וויקימעדיע פונדאציע מעגן מיר קאנטאקטירן אייך וועגן איבערזעצונגען אדער אנדערע טעמעס שייך צו דער וויקימעדיע באוועגונג וואס מיר האלטן וועט אינטרעסירן אײַך. איר זענט מסכים אז מען מעג אײַערע דאטן איינשפייכלערן אין די פאראייניגטע שטאטן פון אמעריקע און ווערט געהאלטן לויט אונזער [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy פריוואטקייט ריכטליניע]",
 	"upload-more-photos-of-this-monument": "ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט",
 	"extdist-branch-REL1_23": "1.23 (לעצטע סטאבילע מעדיעוויקי)",
 	"createacct-helpusername-url": "{{ns:Project}}:באניצער־נאמען ריכטליניע",
-	"createacct-captcha-help-url": "{{ns:Project}}:בעטן א קאנטע",
-	"createacct-imgcaptcha-help": "בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]"
+	"createacct-captcha-help-url": "{{ns:Project}}:בעטן א קאנטע"
 }

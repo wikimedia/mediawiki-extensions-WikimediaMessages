@@ -4,15 +4,14 @@
 			"Kw-Moon",
 			"Malafaya",
 			"Nicky.ker",
-			"Nrowe"
+			"Nrowe",
+			"Nemo bis"
 		]
 	},
 	"sitesupport": "Riansow",
 	"tooltip-n-sitesupport": "Skoodhyewgh ni",
 	"group-sysadmin": "Menystroryon an system",
-	"wikimedia-copyright": "Kavadow yw an tekst yn-dann <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Leshyans Attribution-ShareAlike Creative Commons</a>; termynyow keworansel a alsa bos omvyskys. Gwelewgh an <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termynyow Devnydh</a> rag manylyon.",
+	"wikimedia-copyright": "Kavadow yw an tekst yn-dann <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Leshyans Attribution-ShareAlike Creative Commons</a>; termynyow keworansel a alsa bos omvyskys. Gwelewgh an <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Termynyow Devnydh</a> rag manylyon.",
 	"createacct-helpusername-url": "{{ns:Project}}:Polici henwyn devnydhyer",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(gweres dhymm dewis)]]",
-	"createacct-captcha-help-url": "{{ns:Project}}:Govyn akont",
-	"createacct-imgcaptcha-help": "A ny welowgh an imach? [[{{MediaWiki:createacct-captcha-help-url}}|Govynnewgh akont]]"
+	"createacct-captcha-help-url": "{{ns:Project}}:Govyn akont"
 }

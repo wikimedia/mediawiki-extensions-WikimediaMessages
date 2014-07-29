@@ -10,7 +10,9 @@
 			"Mihai",
 			"Minisarm",
 			"Misterr",
-			"Strainu"
+			"Strainu",
+			"Nemo bis",
+			"Stelistcristi"
 		]
 	},
 	"wikimediamessages-desc": "Mesaje specifice Wikimediei",
@@ -129,18 +131,18 @@
 	"group-translationadmin": "Administratori de traducere",
 	"group-translationadmin-member": "{{GENDER:$1|administrator de traducere}}",
 	"grouppage-translationadmin": "{{ns:project}}: Administratori de traducere",
-	"wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVedeți detalii la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termenii de utilizare</a>.",
-	"wikimedia-copyrightwarning": "Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].\nSunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.",
+	"wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVedeți detalii la <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Termenii de utilizare</a>.",
+	"wikimedia-copyrightwarning": "Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].\nSunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.",
 	"wikibase-sitelinks-wikivoyage": "Pagini de la Wikivoyage care trimit către acest element",
 	"wikibase-sitelinks-commons": "Pagini de la Wikimedia Commons care trimit către acest element",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "Nu puteți șterge sau redenumi pagina principală.",
-	"wikimedia-translationnotifications-signup-legal": "Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Privacy_policy politicii noastre de confidențialitate] (în engleză).",
+	"wikimedia-translationnotifications-signup-legal": "Transmițând aceste informații Fundației Wikimedia, acceptați faptul că vă putem contacta în legătură cu traduceri sau alte subiecte asociate cu mișcarea Wikimedia, despre care noi credem vă v-ar interesa. Sunteți de acord că datele dumneavoastră ar putea fi stocate în Statele Unite ale Americii, acest lucru făcând subiectul [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy politicii noastre de confidențialitate] (în engleză).",
 	"upload-more-photos-of-this-monument": "Încărcați mai multe fotografii cu acest monument",
 	"extdist-branch-REL1_23": "1.23 (ultimul MediaWiki stabil)",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica numelui de utilizator",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Cereți un cont",
-	"createacct-imgcaptcha-help": "Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]",
-	"wikimedia-developers": "Dezvoltatori"
+	"wikimedia-developers": "Dezvoltatori",
+	"wikimediashoplink-linktext": "Magazin Wikimedia",
+	"wikimediashoplink-link-tooltip": "Vizitați magazinul Wikimedia"
 }

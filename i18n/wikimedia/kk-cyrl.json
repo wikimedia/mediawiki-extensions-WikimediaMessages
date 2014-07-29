@@ -6,7 +6,8 @@
 			"Daniyar",
 			"GaiJin",
 			"Kaztrans",
-			"Amangeldy"
+			"Amangeldy",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Уикимедиа ерекше хабарламалары",
@@ -128,7 +129,7 @@
 	"group-translationadmin": "Аударма әкімшілер",
 	"group-translationadmin-member": "{{GENDER:$1|аударма әкімші}}",
 	"grouppage-translationadmin": "{{ns:project}}:Аударма әкімшілер",
-	"wikimedia-copyrightwarning": "Өзгерістерді сақтай отырып, сіз [https://wikimediafoundation.org/wiki/Terms_of_Use Қолдану шарттарымен] келіскеніңіз және үлесіңізді [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Лицензиясымен]  және [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензиясы аясында біржола тапсыруыңызбен келіскеніңіз болып табылады. \nCreative Commons лицензиясы аясында бұл еренсілтеме немесе URL жеткілікті деп келіскеніз болып табылады.",
+	"wikimedia-copyrightwarning": "Өзгерістерді сақтай отырып, сіз [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Қолдану шарттарымен] келіскеніңіз және үлесіңізді [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Лицензиясымен]  және [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензиясы аясында біржола тапсыруыңызбен келіскеніңіз болып табылады. \nCreative Commons лицензиясы аясында бұл еренсілтеме немесе URL жеткілікті деп келіскеніз болып табылады.",
 	"wikibase-repo-name": "Уикидерек",
 	"wikibase-sitelinks-wikiquote": "Уикидәйек беттері бұл элементке сілтенген",
 	"wikibase-sitelinks-wikisource": "Уикиқайнар беттері бұл элементке сілтенген",
@@ -140,8 +141,6 @@
 	"extdist-branch-master": "шебер (ең соңғы жасақталған нұсқасы)",
 	"extdist-branch-REL1_23": "1.23 (MediaWiki-дің ең соңғы тұрақты нұсқасы)",
 	"createacct-helpusername-url": "{{ns:Project}}:Тіркелгі сұрау",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(қатысушы есімін таңдауыма анықтама)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Тіркелгі сұрау",
-	"createacct-imgcaptcha-help": "Кескінді көре алмадыңыз ба? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтқа сұраным беріңіз]]",
 	"wikimedia-developers": "Жасақтаушылар"
 }

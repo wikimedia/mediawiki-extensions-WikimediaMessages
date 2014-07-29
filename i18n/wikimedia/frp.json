@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Cedric31",
-			"ChrisPtDe"
+			"ChrisPtDe",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Mèssâjos spèceficos de Wikimedia.",
@@ -68,6 +69,9 @@
 	"group-import": "Importators",
 	"group-import-member": "importat{{GENDER:$1|or|rice}}",
 	"grouppage-import": "{{ns:project}}:Importators",
+	"group-inactive": "Usanciérs que font ren du tot",
+	"group-inactive-member": "usanciér{{GENDER:$1||e}} que fât ren du tot",
+	"grouppage-inactive": "{{ns:project}}:Usanciérs que font ren du tot",
 	"group-interface_editor": "Èditors de l’entèrface",
 	"group-interface_editor-member": "èdit{{GENDER:$1|or|rice}} de l’entèrface",
 	"grouppage-interface_editor": "{{ns:project}}:Èditors de l’entèrface",
@@ -92,6 +96,10 @@
 	"group-uploader": "Tèlèchargiors",
 	"group-uploader-member": "Tèlèchargior",
 	"grouppage-uploader": "{{ns:project}}:Tèlèchargiors",
+	"group-coder": "Codiors",
+	"group-coder-member": "codio{{GENDER:$1|r|sa}}",
+	"group-editinterface": "Changiors de l’entèrface",
+	"group-editinterface-member": "changio{{GENDER:$1|r|sa}} de l’entèrface",
 	"group-Global_bot": "Bots globâls",
 	"group-Global_bot-member": "{{GENDER:$1|bot globâl}}",
 	"group-Global_rollback": "Rèvoquiors globâls",
@@ -102,8 +110,6 @@
 	"group-Ombudsmen-member": "mèdiat{{GENDER:$1|or|rice}}",
 	"group-Staff": "Gens",
 	"group-Staff-member": "{{GENDER:$1|membro a les gens}}",
-	"group-editinterface": "Changiors de l’entèrface",
-	"group-editinterface-member": "changio{{GENDER:$1|r|sa}} de l’entèrface",
 	"group-steward": "Stevârds",
 	"group-steward-member": "stevârd{{GENDER:$1||a}}",
 	"group-sysadmin": "Administrators sistèmo",
@@ -111,12 +117,9 @@
 	"group-translationadmin": "Administrators de traduccion",
 	"group-translationadmin-member": "administrat{{GENDER:$1|or|rice}} de traduccion",
 	"grouppage-translationadmin": "{{ns:project}}:Administrators de traduccion",
-	"group-coder": "Codiors",
-	"group-coder-member": "codio{{GENDER:$1|r|sa}}",
-	"group-inactive": "Usanciérs que font ren du tot",
-	"group-inactive-member": "usanciér{{GENDER:$1||e}} que fât ren du tot",
-	"grouppage-inactive": "{{ns:project}}:Usanciérs que font ren du tot",
-	"wikimedia-copyright": "Los tèxtos sont disponiblos desot <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;\nd’ôtres condicions sè pôvont aplicar.\nVêde les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">condicions d’usâjo</a> por més de dètalys.",
-	"wikimedia-copyrightwarning": "En cliquent dessus « {{int:savearticle}} », vos accèptâd les [https://wikimediafoundation.org/wiki/Terms_of_Use condicions d’usâjo] et pués vos accèptâd de placiér por de bon voutra contribucion desot [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions 3.0] et [https://www.gnu.org/copyleft/fdl.html licence de documentacion libra GNU (GFDL)].\nPor la licence Creative Commons, vos accèptâd d’étre crèditâ per los reusanciérs u muens avouéc un lim hipèrtèxto ou ben una URL.",
-	"cant-delete-main-page": "Vos pouede pas suprimar ou ben dèplaciér la pâge principâla."
+	"wikimedia-copyright": "Los tèxtos sont disponiblos desot <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;\nd’ôtres condicions sè pôvont aplicar.\nVêde les <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">condicions d’usâjo</a> por més de dètalys.",
+	"wikimedia-copyrightwarning": "En cliquent dessus « {{int:savearticle}} », vos accèptâd les [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condicions d’usâjo] et pués vos accèptâd de placiér por de bon voutra contribucion desot [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions 3.0] et [https://www.gnu.org/copyleft/fdl.html licence de documentacion libra GNU (GFDL)].\nPor la licence Creative Commons, vos accèptâd d’étre crèditâ per los reusanciérs u muens avouéc un lim hipèrtèxto ou ben una URL.",
+	"cant-delete-main-page": "Vos pouede pas suprimar ou ben dèplaciér la pâge principâla.",
+	"wikimediashoplink-linktext": "Bouteca Wikimedia",
+	"wikimediashoplink-link-tooltip": "Visitâd la bouteca Wikimedia"
 }

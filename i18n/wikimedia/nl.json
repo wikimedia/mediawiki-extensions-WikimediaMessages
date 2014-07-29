@@ -12,7 +12,8 @@
 			"Southparkfan",
 			"Troefkaart",
 			"Tvdm",
-			"Mathonius"
+			"Mathonius",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -164,7 +165,7 @@
 	"wikibase-sitelinks-commons": "Pagina op Wikimedia Commons die is gekoppeld aan dit item",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "U kunt de hoofdpagina niet verwijderen of hernoemen.",
-	"wikimedia-translationnotifications-signup-legal": "Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Privacy_policy privacybeleid] vallen.",
+	"wikimedia-translationnotifications-signup-legal": "Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy privacybeleid] vallen.",
 	"upload-more-photos-of-this-monument": "Meer afbeeldingen van dit monument uploaden",
 	"extdist-branch-master": "master (laatste ontwikkelversie)",
 	"extdist-branch-REL1_24": "1.24 (volgende stabiele versie)",
@@ -175,11 +176,13 @@
 	"wikimedia-globalblocking-ipblocked": "'''Uw IP-adres is [[m:Special:MyLanguage/Global blocks|geblokkeerd op alle wiki's]].'''\n\nDe blokkade is uitgevoerd door $1 ($2).\nDe opgegeven reden is ''$3''.\n\n* Aanvang blokkade: $4\n* Einde blokkade: $5\n\nUw huidige IP-adres is $6.\nVermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.\n\nAls u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].\nU kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "<strong>Een proxyserver die is gebruikt voor uw verzoek is [[m:Special:MyLanguage/Global blocks|globaal geblokeerd]].</strong>\n\nDe blokkade is uitgevoerd door $1 ($2).\nDe opgegeven reden is <em>$3</em>.\n\n* Aanvang blokkade: $4\n* Einde blokkade: $5\n\nUw huidige IP-adres is $6.\nVermeld alle bovenstaande gegevens als u ergens op deze blokkade reageert.\n\nAls u denk dat u onterecht geblokkeerd bent, kunt u instructies en informatie vinden in [[m:Special:MyLanguage/No open proxies|het globale beleid over open proxy's]].\nU kunt ook [[m:Steward requests/Global|een aanvraag plaatsen voor hercontrole van de blokkade op Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Uw IP-adres <strong>$1</strong> is automatisch geidentificeerd als een Tor exitnode.\nBewerken via Tor is niet mogelijk om misbruik te voorkomen.\nVoor aanvullende informatie en instructies voor legitieme gebruikers kunt u het globale beleid [[m:Special:MyLanguage/No open proxies|Geen open proxy's]] raadplegen.",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/nl",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/nl",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacybeleid Privacybeleid]",
 	"mwoauth-grant-checkuser": "Toegang tot checkusergegevens",
-	"wikimedia-flow-terms-of-use-new-topic": "Door te klikken op \"{{int:flow-newtopic-save}}\", gaat u akkoord met onze [//wikimediafoundation.org/wiki/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het vrijgeven van uw tekst onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
-	"wikimedia-flow-terms-of-use-reply": "Door te klikken op \"{{int:flow-reply-submit}}\", gaat u akkoord met onze [//wikimediafoundation.org/wiki/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het onherroepelijk vrijgeven van uw tekst onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
-	"wikimedia-flow-terms-of-use-edit": "Door wijzigingen op te slaan, gaat u akkoord met onze [//wikimediafoundation.org/wiki/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het vrijgeven van uw tekst onder de [//creativecommons.org/licenses/by-sa/3.0/deed.nl licentie Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
-	"wikimedia-upload-nolicenses": "Bestanden uploaden is op deze wiki niet ingeschakeld. Gelieve [[commons:Special:UploadWizard|op Wikimedia Commons te uploaden]].\n\nOm deze speciale pagina te gebruiken om op deze wiki te uploaden moet een beheerder een of meerdere licenties toevoegen op [[MediaWiki:Licenses]].\n\nGebruik het volgende formaat: <code>* Sjabloonnaam|Label</code>. Gebruik gelijk welke tekst om het uploaden in te schakelen zonder licentieopties."
+	"wikimedia-flow-terms-of-use-new-topic": "Door te klikken op \"{{int:flow-newtopic-save}}\", gaat u akkoord met onze [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het vrijgeven van uw tekst onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
+	"wikimedia-flow-terms-of-use-reply": "Door te klikken op \"{{int:flow-reply-submit}}\", gaat u akkoord met onze [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het onherroepelijk vrijgeven van uw tekst onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
+	"wikimedia-flow-terms-of-use-edit": "Door wijzigingen op te slaan, gaat u akkoord met onze [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het vrijgeven van uw tekst onder de [//creativecommons.org/licenses/by-sa/3.0/deed.nl licentie Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
+	"wikimedia-upload-nolicenses": "Bestanden uploaden is op deze wiki niet ingeschakeld. Gelieve [[commons:Special:UploadWizard|op Wikimedia Commons te uploaden]].\n\nOm deze speciale pagina te gebruiken om op deze wiki te uploaden moet een beheerder een of meerdere licenties toevoegen op [[MediaWiki:Licenses]].\n\nGebruik het volgende formaat: <code>* Sjabloonnaam|Label</code>. Gebruik gelijk welke tekst om het uploaden in te schakelen zonder licentieopties.",
+	"wikimediashoplink-linktext": "Wikimediawinkel",
+	"wikimediashoplink-link-tooltip": "Ga kijken in de Wikimediashop"
 }

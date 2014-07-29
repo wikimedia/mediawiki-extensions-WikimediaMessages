@@ -3,7 +3,8 @@
 		"authors": [
 			"Herr Kriss",
 			"Krol111",
-			"Lajsikonik"
+			"Lajsikonik",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Kůmůńikaty ůńikalne lů projektůw Wikimedia",
@@ -33,6 +34,8 @@
 	"group-uploader": "Wćepujůncy pliki",
 	"group-uploader-member": "wćepujůncy pliki",
 	"grouppage-uploader": "{{ns:project}}:Wćepujůncy pliki",
+	"group-coder": "Programisty",
+	"group-coder-member": "programista",
 	"group-Global_bot": "Boty globalne",
 	"group-Global_bot-member": "bot globalny",
 	"group-Global_rollback": "Globalńy uprowńyńi do wycofywańo sprowjyń",
@@ -43,8 +46,6 @@
 	"group-steward-member": "steward",
 	"group-sysadmin": "Admińistratory systymu",
 	"group-sysadmin-member": "admińistrator systyma",
-	"group-coder": "Programisty",
-	"group-coder-member": "programista",
-	"wikimedia-copyright": "Tekst je udostympńany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.\nUobejzdrzij blank dokłodne informacyje uo <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">warunkach korzystańo</a>.",
-	"wikimedia-copyrightwarning": "Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://wikimediafoundation.org/wiki/Terms_of_Use warunkach korzystańo]."
+	"wikimedia-copyright": "Tekst je udostympńany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.\nUobejzdrzij blank dokłodne informacyje uo <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">warunkach korzystańo</a>.",
+	"wikimedia-copyrightwarning": "Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use warunkach korzystańo]."
 }

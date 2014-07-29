@@ -3,7 +3,8 @@
 		"authors": [
 			"Cedric31",
 			"Jfblanc",
-			"McDutchie"
+			"McDutchie",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Messatges especifics de Wikimedia",
@@ -46,6 +47,9 @@
 	"group-import": "Importaires",
 	"group-import-member": "{{GENDER:$1|importaire|importaira}}",
 	"grouppage-import": "{{ns:project}}:Importaires",
+	"group-inactive": "Utilizaires inactius",
+	"group-inactive-member": "{{GENDER:$1|utilizaire inactiu|utilizaira inactiva}}",
+	"grouppage-inactive": "{{ns:project}}: Utilizaires inactius",
 	"group-interface_editor": "Editors de l'interfàcia",
 	"group-interface_editor-member": "{{GENDER:$1|editor|editritz}} de l’interfàcia",
 	"grouppage-interface_editor": "{{ns:project}}:Editors de l'interfàcia",
@@ -68,6 +72,10 @@
 	"group-uploader": "Telecargaires",
 	"group-uploader-member": "{{GENDER:$1|telecargador}}",
 	"grouppage-uploader": "{{ns:project}}:Telecargaires",
+	"group-coder": "Encodaires",
+	"group-coder-member": "{{GENDER:$1|encodaire|encodaira}}",
+	"group-editinterface": "Modificators de l'interfàcia",
+	"group-editinterface-member": "{{GENDER:$1|modificator|modificatritz}} de l’interfàcia",
 	"group-Global_bot": "Bòts globals",
 	"group-Global_bot-member": "{{GENDER:$1|bòt global}}",
 	"group-Global_rollback": "Revocaires globals",
@@ -78,18 +86,11 @@
 	"group-Ombudsmen-member": "{{GENDER:$1|mediator|mediatritz}}",
 	"group-Staff": "Personal",
 	"group-Staff-member": "Membre del personal",
-	"group-editinterface": "Modificators de l'interfàcia",
-	"group-editinterface-member": "{{GENDER:$1|modificator|modificatritz}} de l’interfàcia",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"group-sysadmin": "Administrators del sistèma",
 	"group-sysadmin-member": "{{GENDER:$1|administrator|administratritz}} del sistèma",
-	"group-coder": "Encodaires",
-	"group-coder-member": "{{GENDER:$1|encodaire|encodaira}}",
-	"group-inactive": "Utilizaires inactius",
-	"group-inactive-member": "{{GENDER:$1|utilizaire inactiu|utilizaira inactiva}}",
-	"grouppage-inactive": "{{ns:project}}: Utilizaires inactius",
-	"wikimedia-copyright": "Los tèxtes son disponibles jos <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licence Creative Commons atribucion pertatge a l’identica</a> ; d’autres tèrmes se pòdon aplicar. Vejatz los <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">tèrmes d’utilizacion</a> per mai de detalhs.",
+	"wikimedia-copyright": "Los tèxtes son disponibles jos <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licence Creative Commons atribucion pertatge a l’identica</a> ; d’autres tèrmes se pòdon aplicar. Vejatz los <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">tèrmes d’utilizacion</a> per mai de detalhs.",
 	"wikimedia-copyrightwarning": "En enregistrant las modificacions, acceptatz las [https://wikimediafoundation.org/wiki/Conditions_d'utilisation condicions d’utilizacion] e acceptatz de plaçar irrevocablament vòstra contribucion jos [https://creativecommons.org/licenses/by-sa/3.0/ licéncia Creative Commons atribucion – partiment a l’identica 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nAcceptatz qu’un iperligam o una URL aja una atribucion de paternitat sufisenta jos la licéncia Creative Commons.",
 	"wikimedia-developers": "Desvolopaires"
 }

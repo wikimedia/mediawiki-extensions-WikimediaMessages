@@ -5,7 +5,8 @@
 			"Dori",
 			"Mikullovci11",
 			"Olsi",
-			"Puntori"
+			"Puntori",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Mesazhet specifike të Wikimedia-s",
@@ -65,6 +66,9 @@
 	"group-import": "Importuesit",
 	"group-import-member": "importues",
 	"grouppage-import": "{{ns:project}}:Importues",
+	"group-inactive": "Përdorueset joaktiv",
+	"group-inactive-member": "Përdoruesi joaktiv",
+	"grouppage-inactive": "{{ns:project}}:Përdoruesit joaktiv",
 	"group-interface_editor": "Redaktuesit e shabllonit të faqes të përdoruesit",
 	"group-interface_editor-member": "redaktues ndërfaqesh",
 	"grouppage-interface_editor": "{{ns:project}}:Redaktuesit e ndërfaqeve",
@@ -86,6 +90,10 @@
 	"group-trusted-member": "përdoruesi e besueshme",
 	"grouppage-trusted": "{{ns:project}}:Përdoruesit të besueshme",
 	"group-uploader-member": "ngarkues",
+	"group-coder": "Koduesit",
+	"group-coder-member": "kodues",
+	"group-editinterface": "Redaktues ndërfaqesh",
+	"group-editinterface-member": "redaktor interface",
 	"group-Global_bot": "Robotet global",
 	"group-Global_bot-member": "roboti globale",
 	"group-Global_rollback": "Rikthejuës globale",
@@ -96,17 +104,10 @@
 	"group-Ombudsmen-member": "Ombudsperson",
 	"group-Staff": "Stafi",
 	"group-Staff-member": "anëtar i stafit",
-	"group-editinterface": "Redaktues ndërfaqesh",
-	"group-editinterface-member": "redaktor interface",
 	"group-steward": "Përgjegjës",
 	"group-steward-member": "Përgjegjës",
 	"group-sysadmin": "Sistemi administrativ",
 	"group-sysadmin-member": "administratori i sistemit",
-	"group-coder": "Koduesit",
-	"group-coder-member": "kodues",
-	"group-inactive": "Përdorueset joaktiv",
-	"group-inactive-member": "Përdoruesi joaktiv",
-	"grouppage-inactive": "{{ns:project}}:Përdoruesit joaktiv",
-	"wikimedia-copyright": "Të gjitha materialet që gjenden në këtë faqë janë të mbrojtura nga <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>.\nShikoni <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Kushtet e Përdorimit</a> për më shumë informacione.",
-	"wikimedia-copyrightwarning": "Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] dhe [https://www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [https://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje."
+	"wikimedia-copyright": "Të gjitha materialet që gjenden në këtë faqë janë të mbrojtura nga <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>.\nShikoni <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Kushtet e Përdorimit</a> për më shumë informacione.",
+	"wikimedia-copyrightwarning": "Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] dhe [https://www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Kushtet e përdorimit] për detaje."
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Akerbeltz",
-			"GunChleoc"
+			"GunChleoc",
+			"Nemo bis"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gd",
@@ -10,7 +11,8 @@
 	"group-centralnoticeadmin": "Rianairean nam prìomh-shanasan",
 	"group-centralnoticeadmin-member": "rianaire nam prìomh-shanasan",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Rianairean nam prìomh-shanasan",
-	"wikimedia-copyright": "Tha an teacsa seo ri làimh fo cheadachas <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nfaodaidh gu bheil e buailteach do theirmichean a bharrachd.\nFaic <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">teirmichean a' chleachdaidh</a> airson mion-fhiosrachadh.",
+	"wikimedia-copyright": "Tha an teacsa seo ri làimh fo cheadachas <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nfaodaidh gu bheil e buailteach do theirmichean a bharrachd.\nFaic <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">teirmichean a' chleachdaidh</a> airson mion-fhiosrachadh.",
 	"wikimedia-developers": "Luchd-leasachaidh",
-	"wikimedia-upload-nolicenses": "Cha deachd luchdadh suas fhaidhlichean dhan uicidh seo a chur an comas. Feuch an [[commons:Special:UploadWizard|luchdaich thu suas air Wikimedia Commons]] e.\n\nFeumaidh rianaire roghainn ceadachais no dhà a chur ris an duilleag [[MediaWiki:Licenses]] ach an urrainn dhut an duilleag shònraichte seo a chleachdadh gus luchdadh suas dhan uicidh seo.\n\nCleachd am fòrmat a leanas: <code>* Ainm na teamplaid|Leubail</code>. Cleachd teacsa sam bith gus luchdadh suas gun roghainnean ceadachais a chur an comas."
+	"wikimedia-upload-nolicenses": "Cha deachd luchdadh suas fhaidhlichean dhan uicidh seo a chur an comas. Feuch an [[commons:Special:UploadWizard|luchdaich thu suas air Wikimedia Commons]] e.\n\nFeumaidh rianaire roghainn ceadachais no dhà a chur ris an duilleag [[MediaWiki:Licenses]] ach an urrainn dhut an duilleag shònraichte seo a chleachdadh gus luchdadh suas dhan uicidh seo.\n\nCleachd am fòrmat a leanas: <code>* Ainm na teamplaid|Leubail</code>. Cleachd teacsa sam bith gus luchdadh suas gun roghainnean ceadachais a chur an comas.",
+	"wikimediashoplink-linktext": "Bùth Wikimedia"
 }

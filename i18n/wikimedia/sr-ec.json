@@ -7,7 +7,8 @@
 			"Rancher",
 			"Red Baron",
 			"Жељко Тодоровић",
-			"Михајло Анђелковић"
+			"Михајло Анђелковић",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
@@ -132,14 +133,14 @@
 	"group-translationadmin-member": "{{GENDER:$1|преводилачки администратор|преводилачка администраторка|преводилачки администратор}}",
 	"grouppage-translationadmin": "{{ns:project}}:Преводилачки администратори",
 	"shared-repo-name-shared": "Викимедијина остава",
-	"wikimedia-copyright": "Текст је доступан под лиценцом <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Ауторство-Делити под истим условима</a>;\nмогући су и додатни услови.\nПогледајте <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Услове коришћења</a> за више информација.",
+	"wikimedia-copyright": "Текст је доступан под лиценцом <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Ауторство-Делити под истим условима</a>;\nмогући су и додатни услови.\nПогледајте <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Услове коришћења</a> за више информација.",
 	"wikidata-copyright": "Сви структурисани подаци из главног и својства именског простора су доступни под лиценцом <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0</a>; текст из других именских простора је доступан под лиценцом <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Creative Commons Ауторство-Делити под истим условима 3.0</a>; могући су и додатни услови. Погледајте <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Услове коришћења</a> за више информација.",
-	"wikimedia-copyrightwarning": "Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> и <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.\nСлажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.",
+	"wikimedia-copyrightwarning": "Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> и <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.\nСлажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.",
 	"wikibase-repo-name": "Википодаци",
 	"cant-delete-main-page": "Не можете обрисати или преместити главну страну.",
 	"extdist-branch-REL1_23": "1.23 (најновија стабилна верзија Медијавикија)",
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-developers": "За програмере",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Политика приватности]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Политика приватности]"
 }

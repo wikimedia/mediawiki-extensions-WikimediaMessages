@@ -14,7 +14,8 @@
 			"Omnipaedista",
 			"Xaris333",
 			"ZaDiak",
-			"Απεργός"
+			"Απεργός",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Μηνύματα ειδικά για το Wikimedia",
@@ -136,11 +137,11 @@
 	"wikibase-sitelinks-commons": "Σελίδες από τα Wikimedia Commons που συνδέονται με αυτό το αντικείμενο",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.",
-	"wikimedia-translationnotifications-signup-legal": "Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.",
+	"wikimedia-translationnotifications-signup-legal": "Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκείνται στην [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy πολιτική ιδιωτικότητας] που έχουμε.",
 	"upload-more-photos-of-this-monument": "Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο",
 	"extdist-branch-REL1_23": "1.23 (τελευταία σταθερή έκδοση του MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών",
 	"createacct-captcha-help-url": "{{ns:Project}}:Αίτημα για λογαριασμό",
 	"wikimedia-developers": "Προγραμματιστές",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Πολιτική Ιδιωτικότητας]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Πολιτική Ιδιωτικότητας]"
 }

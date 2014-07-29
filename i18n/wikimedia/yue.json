@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Horacewai2",
-			"Waihorace"
+			"Waihorace",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia特定訊息",
@@ -39,6 +40,9 @@
 	"group-import": "匯入者",
 	"group-import-member": "匯入者",
 	"grouppage-import": "{{ns:project}}:匯入者",
+	"group-inactive": "唔活躍嘅用戶",
+	"group-inactive-member": "唔活躍嘅用戶",
+	"grouppage-inactive": "{{ns:project}}:唔活躍嘅用戶",
 	"group-interface_editor": "介面編者",
 	"group-interface_editor-member": "界面編輯者",
 	"group-ipblock-exempt": "IP封鎖例外者",
@@ -58,6 +62,10 @@
 	"group-uploader": "上載者",
 	"group-uploader-member": "上載者",
 	"grouppage-uploader": "{{ns:project}}:上載者",
+	"group-coder": "編碼員",
+	"group-coder-member": "編碼員",
+	"group-editinterface": "界面編輯者",
+	"group-editinterface-member": "界面編輯者",
 	"group-Global_bot": "全域機械人",
 	"group-Global_bot-member": "全域機械人",
 	"group-Global_rollback": "全域反轉者",
@@ -67,17 +75,10 @@
 	"group-Ombudsmen-member": "申訴專員",
 	"group-Staff": "職員",
 	"group-Staff-member": "職員",
-	"group-editinterface": "界面編輯者",
-	"group-editinterface-member": "界面編輯者",
 	"group-steward": "執行員",
 	"group-steward-member": "執行員",
 	"group-sysadmin": "系統管理員",
 	"group-sysadmin-member": "系統管理員",
-	"group-coder": "編碼員",
-	"group-coder-member": "編碼員",
-	"group-inactive": "唔活躍嘅用戶",
-	"group-inactive-member": "唔活躍嘅用戶",
-	"grouppage-inactive": "{{ns:project}}:唔活躍嘅用戶",
-	"wikimedia-copyright": "呢度嘅所有文字係根據<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 牌照</a>嘅條款發佈；可能會有附加嘅條款。\n睇吓<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">使用條款</a>嘅細節。",
-	"wikimedia-copyrightwarning": "當保存嗰陣，你同意將你嘅貢獻喺[https://creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[https://www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。\n你同意加你個名畀再利用者，最少，經過嘅超連結或者網址到你貢獻嘅版。\n睇吓[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嘅細節。"
+	"wikimedia-copyright": "呢度嘅所有文字係根據<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 牌照</a>嘅條款發佈；可能會有附加嘅條款。\n睇吓<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">使用條款</a>嘅細節。",
+	"wikimedia-copyrightwarning": "當保存嗰陣，你同意將你嘅貢獻喺[https://creativecommons.org/licenses/by-sa/3.0/ 共享創意 署名－相同方式共享 3.0]同埋[https://www.gnu.org/copyleft/fdl.html GNU自由文檔協議]發表。\n你同意加你個名畀再利用者，最少，經過嘅超連結或者網址到你貢獻嘅版。\n睇吓[https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use 使用條款]嘅細節。"
 }

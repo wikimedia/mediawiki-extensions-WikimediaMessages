@@ -4,7 +4,8 @@
 			"Platonides",
 			"TarzanASG",
 			"Yury Tarasievich",
-			"Чаховіч Уладзіслаў"
+			"Чаховіч Уладзіслаў",
+			"Nemo bis"
 		]
 	},
 	"sitesupport": "Ахвяраванні",
@@ -21,12 +22,12 @@
 	"grouppage-bigexport": "{{ns:project}}:Big exporters",
 	"grouppage-founder": "{{ns:project}}:Founders",
 	"grouppage-import": "{{ns:project}}:Importers",
+	"grouppage-inactive": "{{ns:project}}:Inactive users",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP block exemption",
 	"grouppage-rollbacker": "{{ns:project}}:Rollbackers",
 	"grouppage-transwiki": "{{ns:project}}:Transwiki importers",
 	"grouppage-uploader": "{{ns:project}}:Uploaders",
-	"grouppage-inactive": "{{ns:project}}:Inactive users",
-	"wikimedia-copyright": "Тэкст даступны на ўмовах ліцэнзіі <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.be\">Creative Commons Attribution-ShareAlike</a>;\nтаксама могуць дзейнічаць дадатковыя ўмовы.\nПадрабязней гл. <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Умовы карыстання</a>.",
-	"wikimedia-copyrightwarning": "Замацоўваючы гэта, вы згаджаецеся беззваротна выпусціць свой уклад на ўмовах ліцэнзій [https://creativecommons.org/licenses/by-sa/3.0/deed.be Creative Commons Attribution-ShareAlike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL].\nВы згаджаецеся на адзначэнне вашага аўтарства пры паўторным выкарыстанні гэтай старонкі, у мінімальным аб'ёме гіпер-спасылкі або адрасу URL гэтай старонкі, у якую вы робіце ўклад.\nПадрабязней гл. [https://wikimediafoundation.org/wiki/Terms_of_Use Умовы карыстання].",
+	"wikimedia-copyright": "Тэкст даступны на ўмовах ліцэнзіі <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.be\">Creative Commons Attribution-ShareAlike</a>;\nтаксама могуць дзейнічаць дадатковыя ўмовы.\nПадрабязней гл. <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Умовы карыстання</a>.",
+	"wikimedia-copyrightwarning": "Замацоўваючы гэта, вы згаджаецеся беззваротна выпусціць свой уклад на ўмовах ліцэнзій [https://creativecommons.org/licenses/by-sa/3.0/deed.be Creative Commons Attribution-ShareAlike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL].\nВы згаджаецеся на адзначэнне вашага аўтарства пры паўторным выкарыстанні гэтай старонкі, у мінімальным аб'ёме гіпер-спасылкі або адрасу URL гэтай старонкі, у якую вы робіце ўклад.\nПадрабязней гл. [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Умовы карыстання].",
 	"upload-more-photos-of-this-monument": "Загрузіць болей здымкаў гэтага аб’екта"
 }

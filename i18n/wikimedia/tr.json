@@ -9,7 +9,8 @@
 			"Rapsar",
 			"Sadrettin",
 			"Suelnur",
-			"Meelo"
+			"Meelo",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -122,14 +123,14 @@
 	"group-translationadmin-member": "{{GENDER:$1|çeviri hizmetlisi}}",
 	"grouppage-translationadmin": "{{ns:project}}:Çeviri hizmetlileri",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Kullanım Koşulları</a>na bakınız.",
+	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lisansı</a> altındadır; ek koşullar uygulanabilir. Ayrıntılar için <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Kullanım Koşulları</a>na bakınız.",
 	"wikimedia-copyrightwarning": "Sayfayı kaydetmekle katkınızı geri dönülmez şekilde [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] ile lisanslamayı kabul etmiş olacaksınız. Böylece içeriği daha sonra kullananların size en azından katkıda bulunduğunuz sayfanın url cinsinden bağlantısıyla atıfta bulunacağını da kabul etmiş olursunuz. Ayrıntılar için [https://wikimediafoundation.org/wiki/ Kullanım Koşullarına] bakınız.",
 	"wikibase-sitelinks-wikivoyage": "Bu ögeye bağlı Vikigezi sayfaları",
 	"wikibase-sitelinks-commons": "Bu ögeye bağlı Wikimedia Commons sayfaları",
 	"cant-delete-main-page": "Silemez veya ana sayfaya taşıyamazsın.",
 	"createacct-helpusername-url": "{{ns:Project}}:Kullanıcı_adı_politikası",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]",
 	"createacct-captcha-help-url": "{{ns:Project}}:Hesap isteği",
-	"createacct-imgcaptcha-help": "Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]",
-	"wikimedia-developers": "Geliştiriciler"
+	"wikimedia-developers": "Geliştiriciler",
+	"wikimediashoplink-linktext": "Wikimedia Dükkanı",
+	"wikimediashoplink-link-tooltip": "Wikimedia Dükkanını ziyaret et"
 }

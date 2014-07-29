@@ -5,7 +5,8 @@
 			"Homo",
 			"Hugo.arg",
 			"Matasg",
-			"Vpovilaitis"
+			"Vpovilaitis",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
@@ -49,6 +50,9 @@
 	"group-import": "Importuotojai",
 	"group-import-member": "įkėlėjas",
 	"grouppage-import": "{{ns:project}}:Importuotojai",
+	"group-inactive": "Neaktyvūs naudotojai",
+	"group-inactive-member": "{{GENDER:$1|neaktyvus naudotojas|neaktyvi naudotoja}}",
+	"grouppage-inactive": "{{ns:project}}:Neaktyvūs naudotojai",
 	"group-interface_editor": "Sąsajos redaktoriai",
 	"group-ipblock-exempt": "IP blokavimo išimtys",
 	"group-ipblock-exempt-member": "atleistasis nuo IP blokavimo",
@@ -67,6 +71,10 @@
 	"group-uploader": "Įkėlėjai",
 	"group-uploader-member": "įkėlėjas",
 	"grouppage-uploader": "{{ns:project}}:Įkėlėjai",
+	"group-coder": "Koduotojai",
+	"group-coder-member": "koduotojas",
+	"group-editinterface": "Sąsajos redaktoriai",
+	"group-editinterface-member": "sąsajos redaktorius",
 	"group-Global_bot": "Globalūs botai",
 	"group-Global_bot-member": "visuotinis botas",
 	"group-Global_rollback": "Visuotiniai atmetėjai",
@@ -77,17 +85,10 @@
 	"group-Ombudsmen-member": "ombudsmenas",
 	"group-Staff": "Darbuotojai",
 	"group-Staff-member": "Darbuotojas",
-	"group-editinterface": "Sąsajos redaktoriai",
-	"group-editinterface-member": "sąsajos redaktorius",
 	"group-steward": "Ūkvedžiai",
 	"group-steward-member": "ūkvedys",
 	"group-sysadmin": "Sistemos administratoriai",
 	"group-sysadmin-member": "sistemos administratorius",
-	"group-coder": "Koduotojai",
-	"group-coder-member": "koduotojas",
-	"group-inactive": "Neaktyvūs naudotojai",
-	"group-inactive-member": "{{GENDER:$1|neaktyvus naudotojas|neaktyvi naudotoja}}",
-	"grouppage-inactive": "{{ns:project}}:Neaktyvūs naudotojai",
-	"wikimedia-copyright": "Turinys pateikiamas pagal <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenciją</a>;\ngali galioti kitos nuostatos.\nNorėdami sužinoti daugiau, žiūrėkite <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Naudojimo sąlygas</a>.",
-	"wikimedia-copyrightwarning": "Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] ir [https://www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.\nNorėdami sužinoti daugiau, žiūrėkite [https://wikimediafoundation.org/wiki/Terms_of_Use Naudojimo sąlygas]"
+	"wikimedia-copyright": "Turinys pateikiamas pagal <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenciją</a>;\ngali galioti kitos nuostatos.\nNorėdami sužinoti daugiau, žiūrėkite <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Naudojimo sąlygas</a>.",
+	"wikimedia-copyrightwarning": "Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] ir [https://www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.\nNorėdami sužinoti daugiau, žiūrėkite [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Naudojimo sąlygas]"
 }

@@ -138,8 +138,8 @@
 	"group-translationadmin": "თარგმანის ადმინისტრატორები",
 	"group-translationadmin-member": "{{GENDER:$1|თარგმანის ადმინისტრატორი}}",
 	"grouppage-translationadmin": "{{ns:project}}:თარგმანის ადმინისტრატორები",
-	"wikimedia-copyright": "მოცემული ტექსტი წარმოდგენილია <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">გამოყენების წესები</a>.",
-	"wikimedia-copyrightwarning": "ღილაკ \"{{int:savearticle}}\"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.\nთქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.",
+	"wikimedia-copyright": "მოცემული ტექსტი წარმოდგენილია <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">გამოყენების წესები</a>.",
+	"wikimedia-copyrightwarning": "ღილაკ \"{{int:savearticle}}\"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.\nთქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.",
 	"wikibase-repo-name": "ვიკიმონაცემები",
 	"wikibase-sitelinks-wikiquote": "ამ ელემენტთან დაკავშირებული ვიკიციტატის გვერდები",
 	"wikibase-sitelinks-wikisource": "ამ ელემენტთან დაკავშირებული ვიკიწყაროს გვერდები",
@@ -150,7 +150,7 @@
 	"upload-more-photos-of-this-monument": "ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა",
 	"extdist-branch-master": "ოსტატი (უკანასკნელი შემუშავებული ვერსია)",
 	"extdist-branch-REL1_23": "1.23 (მედიავიკის ბოლო სტაბილური ვერსია)",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ არჩევაში)]]",
-	"createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]",
-	"wikimedia-developers": "შემქმნელები"
+	"wikimedia-developers": "შემქმნელები",
+	"wikimediashoplink-linktext": "ვიკიმედიის მაღაზია",
+	"wikimediashoplink-link-tooltip": "ესტუმრეთ ვიკიმედიის მაღაზიას"
 }

@@ -3,7 +3,8 @@
 		"authors": [
 			"Bresta",
 			"Cradel",
-			"Mdupont"
+			"Mdupont",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Mesazhet specifike për wikimedia",
@@ -47,6 +48,9 @@
 	"group-import": "Importuesit",
 	"group-import-member": "importues",
 	"grouppage-import": "{{ns:project}}:Importuesit",
+	"group-inactive": "Përdoruesit joaktiv",
+	"group-inactive-member": "përdorues joaktiv",
+	"grouppage-inactive": "{{ns:project}}:Përdoruesit joaktiv",
 	"group-interface_editor": "redaktorët Interface",
 	"group-interface_editor-member": "editor interface",
 	"grouppage-interface_editor": "{{ns:project}}:redaktorët Interface",
@@ -67,6 +71,10 @@
 	"group-uploader": "Ngarkuesit",
 	"group-uploader-member": "ngarkues",
 	"grouppage-uploader": "{{ns:project}}:Ngarkuesit",
+	"group-coder": "Programerat",
+	"group-coder-member": "programer",
+	"group-editinterface": "redaktorët Interface",
+	"group-editinterface-member": "editor interface",
 	"group-Global_bot": "Botat global",
 	"group-Global_bot-member": "bot global",
 	"group-Global_rollback": "Mbrapakthyesit global",
@@ -77,17 +85,10 @@
 	"group-Ombudsmen-member": "ombudsperson",
 	"group-Staff": "Staffi",
 	"group-Staff-member": "antar i staffit",
-	"group-editinterface": "redaktorët Interface",
-	"group-editinterface-member": "editor interface",
 	"group-steward": "Përcjellësit",
 	"group-steward-member": "përcjellës",
 	"group-sysadmin": "Administruesit e sistemit",
 	"group-sysadmin-member": "administrues i sistemit",
-	"group-coder": "Programerat",
-	"group-coder-member": "programer",
-	"group-inactive": "Përdoruesit joaktiv",
-	"group-inactive-member": "përdorues joaktiv",
-	"grouppage-inactive": "{{ns:project}}:Përdoruesit joaktiv",
-	"wikimedia-copyright": "Ky tekst âsht vû në dispozicion nën licencën <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nmundet me pasë klauzola shtesë që vijnë në shprehje.\nShih <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Kushtet e përdorimit</a> për mâ shumë detaje.",
-	"wikimedia-copyrightwarning": "Me t'regjistrue faqen, ju pajtoheni me lëshue kontributin tuej parevokueshëm nën [https://creativecommons.org/licenses/by-sa/3.0/ Licencën Creative Commons Attribution-ShareAlike 3.0] dhe [https://www.gnu.org/copyleft/fdl.html GFDL].\nPajtoheni që ri-përdoruesit mujnë me shprehë mirënjohjen së paku përmjet nji vegze apo URL'je te faqja, në të cilën po kontribuoni.\nShih [https://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e përdorimit] për detaje."
+	"wikimedia-copyright": "Ky tekst âsht vû në dispozicion nën licencën <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nmundet me pasë klauzola shtesë që vijnë në shprehje.\nShih <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Kushtet e përdorimit</a> për mâ shumë detaje.",
+	"wikimedia-copyrightwarning": "Me t'regjistrue faqen, ju pajtoheni me lëshue kontributin tuej parevokueshëm nën [https://creativecommons.org/licenses/by-sa/3.0/ Licencën Creative Commons Attribution-ShareAlike 3.0] dhe [https://www.gnu.org/copyleft/fdl.html GFDL].\nPajtoheni që ri-përdoruesit mujnë me shprehë mirënjohjen së paku përmjet nji vegze apo URL'je te faqja, në të cilën po kontribuoni.\nShih [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Kushtet e përdorimit] për detaje."
 }

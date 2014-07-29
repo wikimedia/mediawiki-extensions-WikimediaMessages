@@ -26,7 +26,9 @@
 			"Vivaelcelta",
 			"Chocolate con galleta",
 			"VegaDark",
-			"Macofe"
+			"Macofe",
+			"Kaldari",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -157,7 +159,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de traducción",
 	"wikimedia-copyright": "El texto está disponible bajo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\">Licencia Creative Commons Atribución/Compartir-Igual 3.0</a>;\npueden aplicarse términos adicionales.\nVéase <a href=\"https://wikimediafoundation.org/wiki/Términos_de_Uso\">Términos de uso</a> para más detalles.",
 	"wikidata-copyright": "Todos los datos estructurados del espacio de nombres principal y de propiedad están disponibles bajo la <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.es\" title=\"Definición de la licencia Creative Commons CC0\">licencia Creative Commons CC0</a>;\nel texto en los demás espacios de nombres está disponible bajo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\" title=\"Definición de la licencia Creative Commons Atribución-CompartirIgual\">licencia Creative Commons Atribución-CompartirIgual</a>;\npueden aplicarse términos adicionales.\nVéanse los <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/es\" title=\"Términos y condiciones de uso de la Fundación Wikimedia\">Términos y condiciones de uso</a> para más detalles.",
-	"wikimedia-copyrightwarning": "Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].\nEstás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.\nConsulta [http://wikimediafoundation.org/wiki/Terms_of_Use el acuerdo de utilización] para más detalles.",
+	"wikimedia-copyrightwarning": "Al grabar el texto, aceptas ceder tus contribuciones de manera irrevocable bajo la [http://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons Compartir-Igual 3.0] y la [http://www.gnu.org/copyleft/fdl.html licencia GFDL].\nEstás de acuerdo con ser citado, al menos, por medio de un hipervínculo a la página donde has contribuido.\nConsulta [http://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use el acuerdo de utilización] para más detalles.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\" title=\"Definición de la licencia Creative Commons Atribución-CompartirIgual\" target=\"_blank\">CC BY-SA 3.0</a> y <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definición de GFDL\" target=\"_blank\">GFDL (en inglés)</a>",
 	"wikibase-sitelinks-wikiquote": "Páginas de Wikiquote enlazadas con este elemento",
 	"wikibase-sitelinks-wikisource": "Páginas de Wikisource enlazadas con este elemento",
@@ -165,15 +167,17 @@
 	"wikibase-sitelinks-commons": "Páginas de Wikimedia Commons enlazadas con este elemento",
 	"wikibase-otherprojects-wikivoyage": "Wikiviajes",
 	"cant-delete-main-page": "No se puede borrar ni trasladar la página principal.",
-	"wikimedia-translationnotifications-signup-legal": "Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Privacy_policy política de privacidad de datos].",
+	"wikimedia-translationnotifications-signup-legal": "Usted acepta que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto con usted en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que nosotros pensemos puedan ser de interés para usted. Usted acepta que sus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy política de privacidad de datos].",
 	"upload-more-photos-of-this-monument": "Subir más fotos de este monumento",
 	"extdist-branch-REL1_24": "1.24 (próxima candidata a estable)",
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nombres_de_usuario",
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicitar una cuenta",
 	"wikimedia-developers": "Desarrolladores",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/es",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Política de privacidad]",
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es",
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privacidad]",
 	"mwoauth-grant-checkuser": "Acceso a datos de ''checkuser''",
-	"wikimedia-flow-terms-of-use-reply": "Al pulsar \"{{int:flow-reply-submit}}\", aceptas nuestros [//wikimediafoundation.org/wiki/Terms_of_Use Términos de uso] y aceptas, además, en forma irrevocable, someter tu texto bajo los términos de la [//creativecommons.org/licenses/by-sa/3.0 licencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-edit": "Al guardar los cambios, aceptas nuestros [//wikimediafoundation.org/wiki/Terms_of_Use Términos de uso] y aceptas, además, en forma irrevocable, someter tu texto bajo los términos de la [//creativecommons.org/licenses/by-sa/3.0 licencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
+	"wikimedia-flow-terms-of-use-reply": "Al pulsar \"{{int:flow-reply-submit}}\", aceptas nuestros [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es Términos de uso] y aceptas, además, en forma irrevocable, someter tu texto bajo los términos de la [//creativecommons.org/licenses/by-sa/3.0 licencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "Al guardar los cambios, aceptas nuestros [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Términos de uso] y aceptas, además, en forma irrevocable, someter tu texto bajo los términos de la [//creativecommons.org/licenses/by-sa/3.0 licencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimediashoplink-linktext": "Tienda de Wikimedia",
+	"wikimediashoplink-link-tooltip": "Visitar la Tienda Wikimedia"
 }

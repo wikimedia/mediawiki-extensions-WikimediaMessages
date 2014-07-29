@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"CoderSI",
-			"Sociologist"
+			"Sociologist",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Vikipediya maxsus xabarlari",
@@ -66,6 +67,9 @@
 	"group-import": "Importchilar",
 	"group-import-member": "{{GENDER:$1|importchi}}",
 	"grouppage-import": "{{ns:project}}:Importchilar",
+	"group-inactive": "Nofaol ishtirokchilar",
+	"group-inactive-member": "{{GENDER:$1|nofaol foydalanuvchi}}",
+	"grouppage-inactive": "{{ns:project}}:Nofaol ishtirokchilar",
 	"group-interface_editor": "Interfeys muharrirlari",
 	"group-interface_editor-member": "{{GENDER:$1|interfeys muharriri}}",
 	"grouppage-interface_editor": "{{ns:project}}:Interfeys muharrirlari",
@@ -85,6 +89,10 @@
 	"group-trusted": "Ishonchli ishtirokchilar",
 	"group-trusted-member": "{{GENDER:$1|ishonchli ishtirokchi}}",
 	"grouppage-trusted": "{{ns:project}}:Ishonchli ishtirokchilar",
+	"group-coder": "Dasturlovchilar",
+	"group-coder-member": "{{GENDER:$1|dasturlovchi}}",
+	"group-editinterface": "Interfeys muharrirlari",
+	"group-editinterface-member": "{{GENDER:$1|interfeys muharriri}}",
 	"group-Global_bot": "Global botlar",
 	"group-Global_bot-member": "{{GENDER:$1|global bot}}",
 	"group-Global_rollback": "Global eski holiga qaytaruvchilar",
@@ -95,8 +103,6 @@
 	"group-Ombudsmen-member": "{{GENDER:$1|ombudsmen}}",
 	"group-Staff": "Xodimlar",
 	"group-Staff-member": "{{GENDER:$1|xodim}}",
-	"group-editinterface": "Interfeys muharrirlari",
-	"group-editinterface-member": "{{GENDER:$1|interfeys muharriri}}",
 	"group-steward": "Styuardlar",
 	"group-steward-member": "{{GENDER:$1|styuard}}",
 	"group-sysadmin": "Tizim maʼmurlari",
@@ -104,16 +110,9 @@
 	"group-translationadmin": "Tarjima maʼmurlari",
 	"group-translationadmin-member": "{{GENDER:$1|tarjima maʼmuri}}",
 	"grouppage-translationadmin": "{{ns:project}}:Tarjima maʼmurlari",
-	"group-coder": "Dasturlovchilar",
-	"group-coder-member": "{{GENDER:$1|dasturlovchi}}",
-	"group-inactive": "Nofaol ishtirokchilar",
-	"group-inactive-member": "{{GENDER:$1|nofaol foydalanuvchi}}",
-	"grouppage-inactive": "{{ns:project}}:Nofaol ishtirokchilar",
-	"wikimedia-copyright": "Matn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike litsenziyasi</a> boʻyicha ommalashtirilmoqda; alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin. Batafsil: <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ru\">Foydalanish shartlari</a>.",
-	"wikimedia-copyrightwarning": "«{{int:savearticle}}» tugmasini bosgan holda Siz [https://wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz va kiritilgan maʼlumotlar [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution-ShareAlike 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek, Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.",
+	"wikimedia-copyright": "Matn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike litsenziyasi</a> boʻyicha ommalashtirilmoqda; alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin. Batafsil: <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ru\">Foydalanish shartlari</a>.",
+	"wikimedia-copyrightwarning": "«{{int:savearticle}}» tugmasini bosgan holda Siz [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use foydalanish shartlariga] rozilik bildirasiz va kiritilgan maʼlumotlar [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution-ShareAlike 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek, Creative Commons litsenziyasi shartlarining bajarilishi uchun maʼlumotlar olingan sahifa yoki uning URL-manziliga havola koʻrsatish yetarli boʻlishini tasdiqlaysiz.",
 	"wikibase-repo-name": "Vikimaʼlumotlar",
 	"cant-delete-main-page": "Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.",
-	"upload-more-photos-of-this-monument": "Ushbu obyektning yana boshqa suratlarini yuklash",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tanlashda yordam)]]",
-	"createacct-imgcaptcha-help": "Suratdagi yozuvni tushunmayapsizmi? [[{{MediaWiki:createacct-captcha-help-url}}|Hisob yaratishga soʻrovlar]]"
+	"upload-more-photos-of-this-monument": "Ushbu obyektning yana boshqa suratlarini yuklash"
 }

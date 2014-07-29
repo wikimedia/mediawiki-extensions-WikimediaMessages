@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hanberke",
-			"Runningfridgesrule"
+			"Runningfridgesrule",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia ýörite habarlaşyklary",
@@ -55,6 +56,9 @@
 	"group-import": "Importirleýjiler",
 	"group-import-member": "importirleýji",
 	"grouppage-import": "{{ns:project}}:Importirleýjiler",
+	"group-inactive": "Işjeň däl ulanyjylar",
+	"group-inactive-member": "işjeň däl ulanyjy",
+	"grouppage-inactive": "{{ns:project}}:Işjeň däl ulanyjylar",
 	"group-interface_editor": "Interfeýs redaktorlary",
 	"group-interface_editor-member": "interfeýs redaktory",
 	"grouppage-interface_editor": "{{ns:project}}:Interfeýs redaktorlary",
@@ -75,6 +79,10 @@
 	"group-trusted": "Ynamdar ulanyjylar",
 	"group-trusted-member": "ynamdar ulanyjy",
 	"grouppage-trusted": "{{ns:project}}:Ynamdar ulanyjylar",
+	"group-coder": "Kodirleýjiler",
+	"group-coder-member": "kodirleýji",
+	"group-editinterface": "Interfeýs redaktorlary",
+	"group-editinterface-member": "interfeýs redaktory",
 	"group-Global_bot": "Global botlar",
 	"group-Global_bot-member": "global bot",
 	"group-Global_rollback": "Global öňki katdyna getirijiler",
@@ -85,17 +93,10 @@
 	"group-Ombudsmen-member": "ombudsmen",
 	"group-Staff": "Işgärler",
 	"group-Staff-member": "işgär",
-	"group-editinterface": "Interfeýs redaktorlary",
-	"group-editinterface-member": "interfeýs redaktory",
 	"group-steward": "Stýuardlar",
 	"group-steward-member": "stýuard",
 	"group-sysadmin": "Ulgam administratorlary",
 	"group-sysadmin-member": "ulgam administratory",
-	"group-coder": "Kodirleýjiler",
-	"group-coder-member": "kodirleýji",
-	"group-inactive": "Işjeň däl ulanyjylar",
-	"group-inactive-member": "işjeň däl ulanyjy",
-	"grouppage-inactive": "{{ns:project}}:Işjeň däl ulanyjylar",
-	"wikimedia-copyright": "Tekst <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Ulanyş şertleri</a>ne serediň.",
+	"wikimedia-copyright": "Tekst <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Ulanyş şertleri</a>ne serediň.",
 	"wikimedia-copyrightwarning": "Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] we [https://www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [https://wikimediafoundation.org/wiki/ Ulanyş şertlerine] serediň."
 }

@@ -4,7 +4,8 @@
 			"Kwisha",
 			"Lloffiwr",
 			"Malangali",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalum za Wikimedia",
@@ -24,6 +25,9 @@
 	"group-import": "Waingizaji",
 	"group-import-member": "mwingizaji",
 	"grouppage-import": "{{ns:project}}:Waingizaji",
+	"group-inactive": "Watumiaji waliotulia",
+	"group-inactive-member": "mtumiaji aliyetulia",
+	"grouppage-inactive": "{{ns:project}}:Watumiaji waliotulia",
 	"group-interface_editor": "Wahariri wa kusano",
 	"group-interface_editor-member": "{{GENDER:$1|mhariri wa kusano}}",
 	"grouppage-interface_editor": "{{ns:project}}:Wahariri wa kusano",
@@ -32,18 +36,17 @@
 	"group-transwiki-member": "mwingizaji kati za wiki",
 	"grouppage-transwiki": "{{ns:project}}:Waingizaji kati za wiki",
 	"group-trusted": "Watumiaji walioaminika",
-	"group-Staff": "Wafanyikazi",
 	"group-editinterface": "Wahariri wa kusano",
 	"group-editinterface-member": "{{GENDER:$1|mhariri wa kusano}}",
+	"group-Staff": "Wafanyikazi",
 	"group-steward": "Wakadamu",
 	"group-steward-member": "mkadamu",
 	"group-sysadmin": "Wasimamizi wa mfumoi",
 	"group-sysadmin-member": "{{GENDER:$1|msimamizi wa mfumo}}",
 	"group-translationadmin": "Wasimamizi wa tafsiri",
 	"group-translationadmin-member": "{{GENDER:$1|msimamizi wa tafsiri}}",
-	"group-inactive": "Watumiaji waliotulia",
-	"group-inactive-member": "mtumiaji aliyetulia",
-	"grouppage-inactive": "{{ns:project}}:Watumiaji waliotulia",
-	"wikimedia-copyright": "Maandishi yanapatikana chini ya leseni ya <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; matakwa mengine yanaweza kutakiwa.\nTazama maelezo zaidi ya <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Matakwa ya Utumiaji</a>.",
-	"wikimedia-copyrightwarning": "Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] pamoja na [https://www.gnu.org/copyleft/fdl.html GFDL].\nUnakubali utambuliwe wakati maandishi haya yatumika na wengine, angalau kwa nia ya kiungo (hyperlink) au URL kwenye ukurasa uliouchangia.\nTazama maelezo zaidi ya [https://wikimediafoundation.org/wiki/Terms_of_Use Matakwa ya Utumiaji]."
+	"wikimedia-copyright": "Maandishi yanapatikana chini ya leseni ya <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; matakwa mengine yanaweza kutakiwa.\nTazama maelezo zaidi ya <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Matakwa ya Utumiaji</a>.",
+	"wikimedia-copyrightwarning": "Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] pamoja na [https://www.gnu.org/copyleft/fdl.html GFDL].\nUnakubali utambuliwe wakati maandishi haya yatumika na wengine, angalau kwa nia ya kiungo (hyperlink) au URL kwenye ukurasa uliouchangia.\nTazama maelezo zaidi ya [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Matakwa ya Utumiaji].",
+	"wikimediashoplink-linktext": "Duka la Wikimedia",
+	"wikimediashoplink-link-tooltip": "Tembelea duka la Wikimedia"
 }

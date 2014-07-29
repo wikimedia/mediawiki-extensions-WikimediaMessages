@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khalid Mahmood"
+			"Khalid Mahmood",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "وکیمیڈیا دے خاص سنیعے",
@@ -58,6 +59,9 @@
 	"group-import": "لیان والے",
 	"group-import-member": "لیان والا",
 	"grouppage-import": "{{ns:project}}:لیان والے",
+	"group-inactive": "نکمے ورتاوے",
+	"group-inactive-member": "{{GENDER:$1|ویلا ورتن والا}}",
+	"grouppage-inactive": "{{ns:project}}:ویلے ورتن آلے",
 	"group-interface_editor": "وکھالہ لکھاری",
 	"group-interface_editor-member": "وکھالہ لکھاری",
 	"grouppage-interface_editor": "{{ns:project}}:انٹرفیس لکھاری",
@@ -78,6 +82,10 @@
 	"group-trusted": "اعتباری ورتن والے",
 	"group-trusted-member": "عتباری ورتن والے",
 	"grouppage-trusted": "{{ns:project}}:اعتباری ورتن والے",
+	"group-coder": "کوڈرز",
+	"group-coder-member": "{{جنس:$1|کوڈر}}",
+	"group-editinterface": "وکھالہ لکھاری",
+	"group-editinterface-member": "وکھالہ لکھاری",
 	"group-Global_bot": "گلوبل بوٹس",
 	"group-Global_bot-member": "گلوبل بوٹ",
 	"group-Global_rollback": "گلوبل رولبیکرز",
@@ -88,8 +96,6 @@
 	"group-Ombudsmen-member": "اومبڈزمن",
 	"group-Staff": "سٹاف",
 	"group-Staff-member": "سٹاف",
-	"group-editinterface": "وکھالہ لکھاری",
-	"group-editinterface-member": "وکھالہ لکھاری",
 	"group-steward": "سٹیورڈز",
 	"group-steward-member": "سٹیورڈ",
 	"group-sysadmin": "پربندھ چلان والے",
@@ -97,12 +103,7 @@
 	"group-translationadmin": "بولی وٹاندرے مکھۓ",
 	"group-translationadmin-member": "{{جنس:$1|بولی وٹاندرا مکھیا}}",
 	"grouppage-translationadmin": "{{ns:project}}:بولی وٹاندرا مکھیا",
-	"group-coder": "کوڈرز",
-	"group-coder-member": "{{جنس:$1|کوڈر}}",
-	"group-inactive": "نکمے ورتاوے",
-	"group-inactive-member": "{{GENDER:$1|ویلا ورتن والا}}",
-	"grouppage-inactive": "{{ns:project}}:ویلے ورتن آلے",
-	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
-	"wikimedia-copyrightwarning": "By saving, you agree to irrevocably release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] and the [https://www.gnu.org/copyleft/fdl.html GFDL].\nYou agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.\nSee the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] for details.",
+	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyrightwarning": "By saving, you agree to irrevocably release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] and the [https://www.gnu.org/copyleft/fdl.html GFDL].\nYou agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.\nSee the [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] for details.",
 	"cant-delete-main-page": "تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او"
 }

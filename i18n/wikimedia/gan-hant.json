@@ -24,6 +24,9 @@
 	"group-import": "匯入者",
 	"group-import-member": "匯入者",
 	"grouppage-import": "{{ns:project}}:匯入者",
+	"group-inactive": "不活躍嗰用戶",
+	"group-inactive-member": "不活躍嗰用戶",
+	"grouppage-inactive": "{{ns:project}}:不活躍嗰用戶",
 	"group-ipblock-exempt": "IP封鎖例外者",
 	"group-ipblock-exempt-member": "IP封鎖例外",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP封鎖例外",
@@ -36,6 +39,8 @@
 	"group-uploader": "上傳者",
 	"group-uploader-member": "上傳者",
 	"grouppage-uploader": "{{ns:project}}:上傳者",
+	"group-coder": "編碼員",
+	"group-coder-member": "編碼員",
 	"group-Global_bot": "全域機器人",
 	"group-Global_bot-member": "全域機器人",
 	"group-Global_rollback": "全域返退員",
@@ -48,11 +53,6 @@
 	"group-steward-member": "執行員",
 	"group-sysadmin": "系統管理員",
 	"group-sysadmin-member": "系統管理員",
-	"group-coder": "編碼員",
-	"group-coder-member": "編碼員",
-	"group-inactive": "不活躍嗰用戶",
-	"group-inactive-member": "不活躍嗰用戶",
-	"grouppage-inactive": "{{ns:project}}:不活躍嗰用戶",
-	"wikimedia-copyright": "箇首嗰所有文字係揸得<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 牌照</a>嗰條款發佈；可能會有附加嗰條款。\n望吖<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">使用條款</a>嗰細節。",
-	"wikimedia-copyrightwarning": "汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [https://creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0] 同得 [https://www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。\n汝同意別嗰用者編輯佢，至少，通過隻超連結或網址到汝嗰貢獻頁。\n望吖[https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款]嗰細節。"
+	"wikimedia-copyright": "箇首嗰所有文字係揸得<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike 牌照</a>嗰條款發佈；可能會有附加嗰條款。\n望吖<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">使用條款</a>嗰細節。",
+	"wikimedia-copyrightwarning": "汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [https://creativecommons.org/licenses/by-sa/3.0/ CC-by-sa-3.0] 同得 [https://www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。\n汝同意別嗰用者編輯佢，至少，通過隻超連結或網址到汝嗰貢獻頁。\n望吖[https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use 使用條款]嗰細節。"
 }

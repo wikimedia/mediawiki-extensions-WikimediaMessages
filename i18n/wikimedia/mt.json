@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Chrisportelli",
-			"Giangian15"
+			"Giangian15",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Messaġġi speċifiki tal-Wikimedia",
@@ -47,6 +48,9 @@
 	"group-import": "Importaturi",
 	"group-import-member": "{{GENDER:$1|importatur}}",
 	"grouppage-import": "{{ns:project}}:Importaturi",
+	"group-inactive": "utenti inattivi",
+	"group-inactive-member": "{{GENDER:$1|utent inattiv|utenta inattiva}}",
+	"grouppage-inactive": "{{ns:project}}:Utenti inattivi",
 	"group-interface_editor": "Edituri tal-interfaċċa",
 	"group-interface_editor-member": "{{GENDER:$1|editur tal-interfaċċa}}",
 	"grouppage-interface_editor": "{{ns:project}}:Edituri tal-interfaċċa",
@@ -65,6 +69,10 @@
 	"group-trusted": "Utenti fdati",
 	"group-trusted-member": "{{GENDER:$1|utent fdat|utenta fdata}}",
 	"grouppage-trusted": "{{ns:project}}:Utenti fdati",
+	"group-coder": "Programmaturi",
+	"group-coder-member": "{{GENDER:$1|programmatur}}",
+	"group-editinterface": "Edituri tal-interfaċċa",
+	"group-editinterface-member": "{{GENDER:$1|editur tal-interfaċċa}}",
 	"group-Global_bot": "Bots globali",
 	"group-Global_bot-member": "{{GENDER:$1|bot globali}}",
 	"group-Global_rollback": "''Rollbackers'' globali",
@@ -75,8 +83,6 @@
 	"group-Ombudsmen-member": "{{GENDER:$1|ombudsman}}",
 	"group-Staff": "Staffs",
 	"group-Staff-member": "membru tal-istaff",
-	"group-editinterface": "Edituri tal-interfaċċa",
-	"group-editinterface-member": "{{GENDER:$1|editur tal-interfaċċa}}",
 	"group-steward": "Stwetti",
 	"group-steward-member": "{{GENDER:$1|stwett}}",
 	"group-sysadmin": "Amministraturi tas-sistema",
@@ -84,15 +90,8 @@
 	"group-translationadmin": "Amministraturi tat-traduzzjoni",
 	"group-translationadmin-member": "{{GENDER:$1|amministratur tat-traduzzjonijiet|amministratriċi tat-traduzzjonijiet}}",
 	"grouppage-translationadmin": "{{ns:project}}:Amministraturi tat-traduzzjonijonijiet",
-	"group-coder": "Programmaturi",
-	"group-coder-member": "{{GENDER:$1|programmatur}}",
-	"group-inactive": "utenti inattivi",
-	"group-inactive-member": "{{GENDER:$1|utent inattiv|utenta inattiva}}",
-	"grouppage-inactive": "{{ns:project}}:Utenti inattivi",
-	"wikimedia-copyright": "It-test huwa disponibbli taħt il-<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Liċenzja Creative Commons Attribution-ShareAlike</a>;\ntermini addizjonali jistgħu japplikaw.\nAra t-<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">termini ta' użu</a> għal aktar dettalji.",
-	"wikimedia-copyrightwarning": "Billi tiklikkja fuq il-buttuna \"{{int:savearticle}}\", int taqbel mat-[https://wikimediafoundation.org/wiki/Terms_of_Use termini ta' użu], u rrevokabilment taqbel li tħalli l-kontribuzzjoni tiegħek taħt il-liċenzja [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] u l-[https://www.gnu.org/copyleft/fdl.html GFDL].\nInti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi abbażi tal-liċenzja Creative Commons.",
+	"wikimedia-copyright": "It-test huwa disponibbli taħt il-<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Liċenzja Creative Commons Attribution-ShareAlike</a>;\ntermini addizjonali jistgħu japplikaw.\nAra t-<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">termini ta' użu</a> għal aktar dettalji.",
+	"wikimedia-copyrightwarning": "Billi tiklikkja fuq il-buttuna \"{{int:savearticle}}\", int taqbel mat-[https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use termini ta' użu], u rrevokabilment taqbel li tħalli l-kontribuzzjoni tiegħek taħt il-liċenzja [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] u l-[https://www.gnu.org/copyleft/fdl.html GFDL].\nInti taqbel li bħala minimu tiġi kreditat minn utenti oħra permezz ta' ħolqa jew URL lejn il-paġna li inti qed tikkontribwixxi abbażi tal-liċenzja Creative Commons.",
 	"cant-delete-main-page": "Ma tistax tħassar jew tmexxi l-paġna prinċipali.",
-	"wikimedia-translationnotifications-signup-legal": "Inti taqbel li billi tipprovid din l-informazzjoni lill-Fondazzjoni Wikimedia aħna nistgħu nikkuntatjawk rigward traduzzjonijiet jew suġġetti oħra relatati mal-moviment tal-Wikimedia li naħsbu li jistgħu jinteressawk. Inti taqbel li d-dejta tiegħek tista' tiġi miżmuma fl-Istati Uniti tal-Amerika u hi suġġetta għall-[https://wikimediafoundation.org/wiki/Privacy_policy politika tal-privatezza] tagħna.",
-	"createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(għini nagħżel)]]",
-	"createacct-imgcaptcha-help": "Ma tistax tara l-istampa? [[{{MediaWiki:createacct-captcha-help-url}}|Itlob kont]]"
+	"wikimedia-translationnotifications-signup-legal": "Inti taqbel li billi tipprovid din l-informazzjoni lill-Fondazzjoni Wikimedia aħna nistgħu nikkuntatjawk rigward traduzzjonijiet jew suġġetti oħra relatati mal-moviment tal-Wikimedia li naħsbu li jistgħu jinteressawk. Inti taqbel li d-dejta tiegħek tista' tiġi miżmuma fl-Istati Uniti tal-Amerika u hi suġġetta għall-[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy politika tal-privatezza] tagħna."
 }

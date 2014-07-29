@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Servien",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Systeemteksten veur Wikimedia",
@@ -61,7 +62,6 @@
 	"grouppage-steward": "{{ns:project}}:Rechtenbeheerder",
 	"group-sysadmin": "systeembeheerder",
 	"group-sysadmin-member": "{{GENDER:$1|systeembeheerder}}",
-	"wikimedia-copyright": "De tekste is beschikbaor onder de lisensie <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naamvermelding/Gelieke delen</a>.\nt Kan ween dat nog meer veurweerden van toepassing bin.\nBekiek de <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use\">algemene veurweerden</a> veur meer informasie.",
-	"wikimedia-copyrightwarning": "Deur wiezigingen op te slaon, stem je in mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [https://www.gnu.org/copyleft/fdl.html GFDL].\nJe stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon.",
-	"createacct-imgcaptcha-help": "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebrukerskonto an]]"
+	"wikimedia-copyright": "De tekste is beschikbaor onder de lisensie <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naamvermelding/Gelieke delen</a>.\nt Kan ween dat nog meer veurweerden van toepassing bin.\nBekiek de <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">algemene veurweerden</a> veur meer informasie.",
+	"wikimedia-copyrightwarning": "Deur wiezigingen op te slaon, stem je in mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [https://www.gnu.org/copyleft/fdl.html GFDL].\nJe stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon."
 }

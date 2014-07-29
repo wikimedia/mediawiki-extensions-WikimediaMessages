@@ -10,7 +10,8 @@
 			"Tlustulimu",
 			"Yekrats",
 			"Ziko",
-			"KuboF"
+			"KuboF",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "Specifaj mesaĝoj de Wikimedia",
@@ -126,12 +127,12 @@
 	"group-translationadmin": "Tradukaj administrantoj",
 	"group-translationadmin-member": "{{GENDER:$1|traduka administranto|traduka administrantino}}",
 	"grouppage-translationadmin": "{{ns:project}}:Tradukaj administrantoj",
-	"wikimedia-copyright": "La teksto disponeblas laŭ la permesilo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.eo\">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.\nVidu la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">uzkondiĉojn</a> por detaloj.",
-	"wikimedia-copyrightwarning": "Konservante, vi konsentas al la [https://wikimediafoundation.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [https://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [https://www.gnu.org/copyleft/fdl.html GFDL].\nVi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita.",
+	"wikimedia-copyright": "La teksto disponeblas laŭ la permesilo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.eo\">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj rajtigoj aplikeblas.\nVidu la <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">uzkondiĉojn</a> por detaloj.",
+	"wikimedia-copyrightwarning": "Konservante, vi konsentas al la [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [https://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [https://www.gnu.org/copyleft/fdl.html GFDL].\nVi konsentas ke reuzantoj atribuas al vi almenaŭ per ligilo aŭ URL al la paĝo kontribuita.",
 	"wikibase-sitelinks-wikiquote": "Paĝoj de Vikicitaro kunligitaj kun tiu ĉi ero",
 	"wikibase-sitelinks-wikisource": "Paĝoj de Vikifontaro kunligitaj kun tiu ĉi ero",
 	"wikibase-sitelinks-wikivoyage": "Paĝoj de Vikivojaĝoj kunligitaj kun tiu ĉi ero",
 	"wikibase-sitelinks-commons": "Paĝoj de Vikimedia Komunejo kunligitaj kun tiu ĉi ero",
 	"cant-delete-main-page": "Vi ne povas forigi aŭ movi la ĉefpaĝo.",
-	"wikimedia-translationnotifications-signup-legal": "Donante ĉi tiun informon al la Fonduso Wikimedia, vi konsentas kontakti vin pri tradukoj aŭ aliaj temoj rilataj al la Wikimedia-movado, kiun ni konsideras esti interesa al vi. Vi konsentas ke via datumoj estos konservita en Usono kaj estas sub nia [https://wikimediafoundation.org/wiki/Privacy_policy regularo pri privateco]."
+	"wikimedia-translationnotifications-signup-legal": "Donante ĉi tiun informon al la Fonduso Wikimedia, vi konsentas kontakti vin pri tradukoj aŭ aliaj temoj rilataj al la Wikimedia-movado, kiun ni konsideras esti interesa al vi. Vi konsentas ke via datumoj estos konservita en Usono kaj estas sub nia [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy regularo pri privateco]."
 }

@@ -3,7 +3,8 @@
 		"authors": [
 			"Ghaly",
 			"Meno25",
-			"Ramsis II"
+			"Ramsis II",
+			"Nemo bis"
 		]
 	},
 	"wikimediamessages-desc": "رسايل خاصه بويكيميديا",
@@ -37,6 +38,9 @@
 	"group-import": "مستوردين",
 	"group-import-member": "مستورد",
 	"grouppage-import": "{{ns:project}}:مستوردين",
+	"group-inactive": "يوزرات مش ناشطين",
+	"group-inactive-member": "يوزر مش نشيط",
+	"grouppage-inactive": "{{ns:project}}:يوزرات مش نشطين",
 	"group-ipblock-exempt": "مستثنيين من منع الااى بى",
 	"group-ipblock-exempt-member": "مستثنى من منع الاايبى",
 	"grouppage-ipblock-exempt": "{{ns:project}}:استثناء من منع الااى بى",
@@ -53,6 +57,11 @@
 	"group-uploader": "المحملين",
 	"group-uploader-member": "المحمل",
 	"grouppage-uploader": "{{ns:project}}:المحملين",
+	"group-coder": "مكودون",
+	"group-coder-member": "مكود",
+	"grouppage-coder": "{{ns:project}}:مكود",
+	"group-editinterface": "محررين الواجهه",
+	"group-editinterface-member": "محرر الواجهه",
 	"group-Global_bot": "بوتات عامه",
 	"group-Global_bot-member": "بوت عام",
 	"group-Global_rollback": "مسترجعين عامين",
@@ -63,20 +72,12 @@
 	"group-Staff": "مشرفون",
 	"group-Staff-member": "عضو من المشرفين",
 	"grouppage-Staff": "Foundation:الطاقم",
-	"group-editinterface": "محررين الواجهه",
-	"group-editinterface-member": "محرر الواجهه",
 	"group-steward": "مضيفين",
 	"group-steward-member": "مضيف",
 	"grouppage-steward": "m:Stewards/ar",
 	"group-sysadmin": "اداريين النظام",
 	"group-sysadmin-member": "ادارى نظام",
-	"group-coder": "مكودون",
-	"group-coder-member": "مكود",
-	"grouppage-coder": "{{ns:project}}:مكود",
-	"group-inactive": "يوزرات مش ناشطين",
-	"group-inactive-member": "يوزر مش نشيط",
-	"grouppage-inactive": "{{ns:project}}:يوزرات مش نشطين",
 	"shared-repo-name-shared": "ويكيميديا كومنز",
-	"wikimedia-copyright": "النصوص متوفرة تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">رخصة التشارك الإبداع العزو/المشاركة بالمثل</a>;\nممكن تطبيق شروط إضافية.\nبص على <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
-	"wikimedia-copyrightwarning": "بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [https://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nأنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] للتفاصيل."
+	"wikimedia-copyright": "النصوص متوفرة تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">رخصة التشارك الإبداع العزو/المشاركة بالمثل</a>;\nممكن تطبيق شروط إضافية.\nبص على <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
+	"wikimedia-copyrightwarning": "بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [https://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nأنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] للتفاصيل."
 }
