@@ -197,5 +197,10 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Mit dem Klicken auf „{{int:flow-reopen-topic-submit}}“ stimmst du unseren [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/de Nutzungsbedingungen] und der unwiderruflichen Veröffentlichung deines Textes unter der [//creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] sowie der [//de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] zu.",
 	"wikimedia-upload-nolicenses": "Das Hochladen von Dateien auf dieses Wiki ist nicht aktiviert. Bitte [[commons:Special:UploadWizard|lade sie auf Wikimedia Commons hoch]].\n\nUm diese Spezialseite zum Hochladen auf dieses Wiki verwenden zu können, muss ein Administrator eine oder mehrere Lizenzoptionen der Seite [[MediaWiki:Licenses]] hinzufügen.\n\nBenutze das folgende Format: <code>* Name der Vorlage|Bezeichnung</code>. Verwende einen beliebigen Text, um das Hochladen ohne Lizenzoptionen zu aktivieren.",
 	"wikimediashoplink-linktext": "Wikimedia-Shop",
-	"wikimediashoplink-link-tooltip": "Besuch den Wikimedia-Shop"
+	"wikimediashoplink-link-tooltip": "Besuch den Wikimedia-Shop",
+	"interlanguage-link-mul": "Weitere Sprachen",
+	"interlanguage-link-sitename-mul": "Mehrsprachiges {{SITENAME}}",
+	"interlanguage-link-sitename-wikipedia": "Wikipedia, die freie Enzyklopädie",
+	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv",
+	"interlanguage-link-sitename-dmoz": "DMOZ-Webverzeichnis"
 }

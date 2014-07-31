@@ -187,5 +187,10 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Klepnutím na „{{int:flow-reopen-topic-submit}}“ souhlasíte s našimi [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/cs Podmínkami užití] a souhlasíte s neodvolatelným zveřejněním svého textu za podmínek licencí [//creativecommons.org/licenses/by-sa/3.0/deed.cs CC&nbsp;BY-SA 3.0] a [//cs.wikipedia.org/wiki/Wikipedie:GNU_Free_Documentation_License GFDL].",
 	"wikimedia-upload-nolicenses": "Načítání souborů na tuto wiki je vypnuto. [[commons:Special:UploadWizard|Načtěte na Wikimedia Commons]].\n\nAby bylo možno tuto stránku používat k načítání souborů na tuto wiki, musí správce přidat jednu nebo více možných licencí na stránku [[MediaWiki:Licenses]].\n\nPoužijte následující formát: <code>* Název šablony|Titulek</code>. Pro umožnění načítání bez výběru licence zadejte libovolný text.",
 	"wikimediashoplink-linktext": "Obchod Wikimedia",
-	"wikimediashoplink-link-tooltip": "Navštívit obchod Wikimedia"
+	"wikimediashoplink-link-tooltip": "Navštívit obchod Wikimedia",
+	"interlanguage-link-mul": "Další jazyky",
+	"interlanguage-link-sitename-mul": "Mnohojazyčná verze {{grammar:2sg|{{SITENAME}}}}",
+	"interlanguage-link-sitename-wikipedia": "Wikipedie, otevřená encyklopedie",
+	"interlanguage-link-sitename-commons": "Úložiště souborů Wikimedia Commons",
+	"interlanguage-link-sitename-dmoz": "Webový katalog DMOZ"
 }

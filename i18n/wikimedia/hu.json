@@ -10,7 +10,8 @@
 			"Tacsipacsi",
 			"Tgr",
 			"JulesWinnfield-hu",
-			"Nemo bis"
+			"Nemo bis",
+			"Csega"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -132,5 +133,6 @@
 	"wikibase-sitelinks-commons": "Kapcsolt Wikimédia Commons-lap",
 	"cant-delete-main-page": "Nem törölheted vagy nevezheted át a főoldalt.",
 	"createacct-helpusername-url": "{{ns:Project}}:Azonosító",
-	"wikimedia-developers": "Fejlesztők"
+	"wikimedia-developers": "Fejlesztők",
+	"interlanguage-link-mul": "További nyelvek"
 }
