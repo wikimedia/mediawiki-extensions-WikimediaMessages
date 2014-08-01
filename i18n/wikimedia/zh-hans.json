@@ -209,5 +209,15 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "通过点击“{{int:flow-reopen-topic-submit}}”，您同意我们的[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use 使用条款]并义无反顾的同意根据[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享-署名-相同方式共享 3.0]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献",
 	"wikimedia-upload-nolicenses": "此wiki未启用上传文件。请[[commons:Special:UploadWizard|前往维基共享资源]]上传。如果您希望在此wiki启用此特殊页面上传文件，您需要向管理员请求编辑[[MediaWiki:Licenses]]加入一个或更多许可协议选项。使用以下格式：<code>* 模板名 (Template name)|标签 (Label)</code>。使用任何文本编辑此MediaWiki页即可启用上传。",
 	"wikimediashoplink-linktext": "维基媒体商店",
-	"wikimediashoplink-link-tooltip": "访问维基媒体商店"
+	"wikimediashoplink-link-tooltip": "访问维基媒体商店",
+	"interlanguage-link-mul": "更多语言",
+	"interlanguage-link-sitename-mul": "多语言 {{SITENAME}}",
+	"interlanguage-link-wikipedia": "维基百科",
+	"interlanguage-link-sitename-wikipedia": "维基百科，自由的百科全书",
+	"interlanguage-link-commons": "维基共享资源",
+	"interlanguage-link-sitename-commons": "维基共享资源媒体存储库",
+	"interlanguage-link-dmoz": "DMOZ",
+	"interlanguage-link-sitename-dmoz": "DMOZ网站目录",
+	"interlanguage-link-citizendium": "大众百科",
+	"interlanguage-link-sitename-citizendium": "大众百科"
 }

@@ -187,5 +187,10 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Với việc bấm “{{int:flow-reopen-topic-submit}}”, bạn chấp nhận [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [//creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [//vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL]",
 	"wikimedia-upload-nolicenses": "Wiki này không cho phép tải lên tập tin. Xin hãy [[commons:Special:UploadWizard|tải tập tin lên Wikimedia Commons]].\n\nĐể tải tập tin lên wiki này qua trang đặc biệt này, một bảo quản viên cần phải thêm những tùy chọn giấy phép vào trang [[MediaWiki:Licenses]].\n\nTrang đó sử dụng định dạng sau: <code>* Tên bản mẫu|Tên giấy phép</code>. Nhập bất cứ văn bản nào đó vào trang đó để cho phép tải lên tập tin mà không hiển thị tùy chọn giấy phép nào.",
 	"wikimediashoplink-linktext": "Cửa hàng Wikimedia",
-	"wikimediashoplink-link-tooltip": "Ghé Cửa hàng Wikimedia"
+	"wikimediashoplink-link-tooltip": "Ghé Cửa hàng Wikimedia",
+	"interlanguage-link-mul": "Thêm ngôn ngữ",
+	"interlanguage-link-sitename-mul": "{{SITENAME}} đã ngôn ngữ",
+	"interlanguage-link-sitename-wikipedia": "Bách khoa toàn thư mở Wikipedia",
+	"interlanguage-link-sitename-commons": "Kho tư liệu Wikimedia Commons",
+	"interlanguage-link-sitename-dmoz": "Thư mục Web DMOZ"
 }

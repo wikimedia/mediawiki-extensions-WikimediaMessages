@@ -10,7 +10,8 @@
 			"Sadrettin",
 			"Suelnur",
 			"Meelo",
-			"Nemo bis"
+			"Nemo bis",
+			"Sayginer"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -132,5 +133,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Hesap isteği",
 	"wikimedia-developers": "Geliştiriciler",
 	"wikimediashoplink-linktext": "Wikimedia Dükkanı",
-	"wikimediashoplink-link-tooltip": "Wikimedia Dükkanını ziyaret et"
+	"wikimediashoplink-link-tooltip": "Wikimedia Dükkanını ziyaret et",
+	"interlanguage-link-mul": "Daha fazla dil",
+	"interlanguage-link-sitename-wikipedia": "Vikipedi, özgür ansiklopedi"
 }

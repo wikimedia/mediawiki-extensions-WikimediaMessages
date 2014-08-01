@@ -210,5 +210,10 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Нажимая на кнопку «{{int:flow-reopen-topic-submit}}», вы соглашаетесь с [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ru условиями использования], а также в безотзывном порядке соглашаетесь разместить свой вклад под лицензиям [//creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] и [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-upload-nolicenses": "Загрузка файлов в этой вики не включена. Пожалуйста, [[commons:Special:UploadWizard|загрузите его на Викисклад]].\n\nЧтобы можно было использовать эту спецстраницу для загрузки файлов в данной вики, администратор должен добавить один или несколько вариантов лицензии на странице [[MediaWiki:Licenses]].\n\nИспользуйте для этого формат <code>* Имя шаблона|Подпись</code> или же любой текст для включения загрузки без вариантов лицензий.",
 	"wikimediashoplink-linktext": "Магазин Викимедиа",
-	"wikimediashoplink-link-tooltip": "Посетите магазин Викимедиа"
+	"wikimediashoplink-link-tooltip": "Посетите магазин Викимедиа",
+	"interlanguage-link-mul": "Дополнительные языки",
+	"interlanguage-link-sitename-mul": "Многоязычный сайт {{SITENAME}}",
+	"interlanguage-link-sitename-wikipedia": "Википедия, свободная энциклопедия",
+	"interlanguage-link-sitename-commons": "Викисклад, хранилище медиафайлов",
+	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ"
 }

@@ -17,7 +17,8 @@
 			"Whym",
 			"青子守歌",
 			"Rxy",
-			"Nemo bis"
+			"Nemo bis",
+			"Yatalu"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -199,5 +200,6 @@
 	"wikimedia-flow-terms-of-use-close-topic": "「{{int:flow-close-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-reopen-topic": "「{{int:flow-reopen-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimediashoplink-linktext": "ウィキメディア ショップ",
-	"wikimediashoplink-link-tooltip": "ウィキメディア ショップに移動"
+	"wikimediashoplink-link-tooltip": "ウィキメディア ショップに移動",
+	"interlanguage-link-mul": "その他の言語"
 }

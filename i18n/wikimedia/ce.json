@@ -82,5 +82,10 @@
 	"wikibase-sitelinks-commons": "Викилуламехь хӀокху элементах тесна йолу агӀо",
 	"extdist-branch-REL1_24": "1.24 (хьалха йогӀу чӀагӀъелла верси-кандидат)",
 	"wikimedia-developers": "Кечдархой",
-	"mwoauth-grant-checkuser": "Декъашхошка хьажа таро ю"
+	"mwoauth-grant-checkuser": "Декъашхошка хьажа таро ю",
+	"interlanguage-link-mul": "Кхин тӀе меттанаш",
+	"interlanguage-link-sitename-mul": "Дукха меттанийн сайт {{SITENAME}}",
+	"interlanguage-link-sitename-wikipedia": "Википеди, маьрша энциклопеди",
+	"interlanguage-link-sitename-commons": "Викигулам, медиафайлийн гулам",
+	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ"
 }

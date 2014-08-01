@@ -192,5 +192,10 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Cliccando su \"{{int:flow-reopen-topic-submit}}\", accetti le nostre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/it condizioni d'uso] e accetti irrevocabilmente di rilasciare il tuo testo in base alle licenze [//creativecommons.org/licenses/by-sa/3.0/deed.it CC-BY-SA 3.0] e [//it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL].",
 	"wikimedia-upload-nolicenses": "Il caricamento di file su questo wiki non è consentito. Per favore, [[commons:Special:UploadWizard|caricalo su Wikimedia Commons]].\n\nPer poter utilizzare questa pagina speciale e caricare su questo wiki, un amministratore deve aggiungere una o più opzioni di licenza nella pagina [[MediaWiki:Licenses]].\n\nUsa il seguente formato: <code>* Nome template|Etichetta</code>. Usa qualsiasi testo per consentire il caricamento senza opzioni di licenza.",
 	"wikimediashoplink-linktext": "Negozio Wikimedia",
-	"wikimediashoplink-link-tooltip": "Visita il negozio di Wikimedia"
+	"wikimediashoplink-link-tooltip": "Visita il negozio di Wikimedia",
+	"interlanguage-link-mul": "Più lingue",
+	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
+	"interlanguage-link-sitename-wikipedia": "Wikipedia, l'enciclopedia libera",
+	"interlanguage-link-sitename-commons": "Contenitore multimediale Wikimedia Commons",
+	"interlanguage-link-sitename-dmoz": "Directory web DMOZ"
 }

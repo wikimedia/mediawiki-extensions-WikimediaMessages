@@ -156,7 +156,7 @@
 	"wikibase-sitelinks-commons": "Tähän kohteeseen linkitetty Wikimedia Commons -sivu",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "Etusivua ei voi poistaa tai siirtää.",
-	"wikimedia-translationnotifications-signup-legal": "Hyväksyt antamalla nämä tiedot Wikimedia-säätiölle, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden ajattelemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaanYhdysvalloissa ja on [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy tietosuojakäytäntömme] alainen.",
+	"wikimedia-translationnotifications-signup-legal": "Antamalla nämä tiedot Wikimedia-säätiölle hyväksyt, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden luulemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaan Yhdysvalloissa [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy tietosuojakäytäntömme] perustuen.",
 	"upload-more-photos-of-this-monument": "Tallenna lisää kuvia tästä monumentista",
 	"extdist-branch-master": "master (viimeisin kehitysversio)",
 	"extdist-branch-REL1_23": "1.23 (viimeisin vakaa MediaWiki-versio)",
