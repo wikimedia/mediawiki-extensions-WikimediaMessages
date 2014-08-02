@@ -33,7 +33,8 @@
 			"Yekrats",
 			"Zetud",
 			"לערי ריינהארט",
-			"John Trololo"
+			"John Trololo",
+			"Wyz"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -224,6 +225,6 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-wikipedia": "Wikipédia",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, l’encyclopédie libre",
-	"interlanguage-link-sitename-commons": "Dépôt de média Wikimedia Commons",
-	"interlanguage-link-sitename-dmoz": "Annuaire web DMOZ"
+	"interlanguage-link-sitename-commons": "Référentiel de médias de Wikimedia Commons",
+	"interlanguage-link-sitename-dmoz": "Annuaire Web DMOZ"
 }

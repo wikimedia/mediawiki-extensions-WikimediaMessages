@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"sitesupport": "Ramañanaka"
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"sitesupport": "Ramañanaka",
+	"interlanguage-link-sitename-wikipedia": "Wikipidiya, tantachata yatiña jalaqtata"
 }

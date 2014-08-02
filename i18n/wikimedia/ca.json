@@ -142,5 +142,6 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Sol·licitar un compte",
 	"wikimedia-developers": "Desenvolupadors",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ca",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privadesa]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privadesa]",
+	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure"
 }

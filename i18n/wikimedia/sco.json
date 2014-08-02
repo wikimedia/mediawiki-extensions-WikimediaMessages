@@ -4,7 +4,8 @@
 			"Avicennasis",
 			"John Reid",
 			"OchAyeTheNoo",
-			"Nemo bis"
+			"Nemo bis",
+			"Fitoschido"
 		]
 	},
 	"sitesupport": "Propines",
@@ -19,5 +20,6 @@
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\" target=\"_blank\">CC BY-SA 3.0</a> n <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definition of the GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-sitelinks-wikiquote": "Wikiquote pages linkt til this eetem",
 	"wikimedia-flow-terms-of-use-new-topic": "Bi clapin oan \"{{int:flow-newtopic-save}}\", ye'r agreein til oor [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms o Uise] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-reply": "Bi clapin oan \"{{int:flow-reply-submit}}\", ye'r agreein til oor [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms o Uiss] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
+	"wikimedia-flow-terms-of-use-reply": "Bi clapin oan \"{{int:flow-reply-submit}}\", ye'r agreein til oor [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms o Uiss] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] an [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"interlanguage-link-sitename-wikipedia": "Wikipædia, the free encyclopædia"
 }

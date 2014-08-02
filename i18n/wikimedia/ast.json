@@ -177,5 +177,10 @@
 	"wikimedia-flow-terms-of-use-reopen-topic": "Al facer clic en \"{{int:flow-reopen-topic-submit}}\", aceutes les [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [//creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-upload-nolicenses": "Nun ta activada la carga de ficheros a esta wiki. Por favor [[commons:Special:UploadWizard|xúbilu a Wikimedia Commons]].\n\nPa poder usar esta páxina especial pa xubir ficheros a esta wiki, un alministrador tien d'amestar una o más opciones de llicencia a la páxina [[MediaWiki:Licenses]].\n\nUsa'l formatu siguiente: <code>* Nome de plantía|Etiqueta</code>. Usa cualquier testu pa permitir xubir ficheros ensin opciones de llicencia.",
 	"wikimediashoplink-linktext": "Tienda de Wikimedia",
-	"wikimediashoplink-link-tooltip": "Visita la Tienda de Wikimedia"
+	"wikimediashoplink-link-tooltip": "Visita la Tienda de Wikimedia",
+	"interlanguage-link-mul": "Más llingües",
+	"interlanguage-link-sitename-mul": "{{SITENAME}} multillingüe",
+	"interlanguage-link-sitename-wikipedia": "Uiquipedia, la enciclopedia llibre",
+	"interlanguage-link-sitename-commons": "Depósitu de multimedia Wikimedia Commons",
+	"interlanguage-link-sitename-dmoz": "Direutoriu web DMOZ"
 }
