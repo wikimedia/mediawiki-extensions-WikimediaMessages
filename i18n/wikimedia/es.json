@@ -174,7 +174,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicitar una cuenta",
 	"wikimedia-developers": "Desarrolladores",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privacidad]",
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy/es Política de privacidad]",
 	"mwoauth-grant-checkuser": "Acceso a datos de ''checkuser''",
 	"wikimedia-flow-terms-of-use-new-topic": "Al pulsar \"{{int:flow-newtopic-save}}\", aceptas nuestros [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es Términos de uso] y aceptas, además, en forma irrevocable, someter tu texto bajo los términos de la [//creativecommons.org/licenses/by-sa/3.0 licencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "Al pulsar \"{{int:flow-reply-submit}}\", aceptas nuestros [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es Términos de uso] y aceptas, además, en forma irrevocable, someter tu texto bajo los términos de la [//creativecommons.org/licenses/by-sa/3.0 licencia CC BY-SA 3.0] y la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
