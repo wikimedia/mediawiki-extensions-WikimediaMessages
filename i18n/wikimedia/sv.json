@@ -192,6 +192,11 @@
 	"wikimedia-flow-terms-of-use-close-topic": "Genom att klicka \"{{int:flow-close-topic-submit}}\" godkänner du våra [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-flow-terms-of-use-reopen-topic": "Genom att klicka \"{{int:flow-reopen-topic-submit}}\" godkänner du våra [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] och [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-upload-nolicenses": "Uppladdning av filer till denna wiki är inte aktiverad. Vänligen [[commons:Special:UploadWizard|ladda up till Wikimedia Commons]].\n\nFör att kunna använda denna specialsida för att ladda upp till wikin måste en administratör lägga till en eller flera licensalternativ till sidan [[MediaWiki:Licenses]].\n\nAnvänd följande format: <code>* Mallnamn|Etikett</code>. Använd vilken text som helst för att aktivera uppladdning utan licensalternativ.",
-	"wikimediashoplink-linktext": "Wikimedia Shop",
-	"wikimediashoplink-link-tooltip": "Besök Wikimedia-butiken"
+	"wikimediashoplink-linktext": "Wikimedia-butiken",
+	"wikimediashoplink-link-tooltip": "Besök Wikimedia-butiken",
+	"interlanguage-link-mul": "Fler språk",
+	"interlanguage-link-sitename-mul": "Flerspråkig {{SITENAME}}",
+	"interlanguage-link-sitename-wikipedia": "Wikipedia, den fria encyklopedin",
+	"interlanguage-link-sitename-commons": "Wikimedia Commons, mediedatabasen",
+	"interlanguage-link-sitename-dmoz": "DMOZ-webbkatalog"
 }
