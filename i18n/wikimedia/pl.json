@@ -183,5 +183,6 @@
 	"wikimedia-flow-terms-of-use-reply": "Klikając na \"{{int:flow-reply-submit}}\", zgadzasz się na nasze [//http://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/pl warunki użytkowania] oraz wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencjach [//creativecommons.org/licenses/by-sa/3.0/deed.pl CC BY-SA 3.0] i [//pl.wikipedia.org/wiki/Wikipedia:Tekst_licencji_GNU_Free_Documentation_License GFDL]",
 	"interlanguage-link-mul": "Więcej języków",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, wolna encyklopedia",
+	"interlanguage-link-sitename-commons": "Repozytorium mediów Wikimedia Commons",
 	"interlanguage-link-sitename-dmoz": "Katalog stron DMOZ"
 }

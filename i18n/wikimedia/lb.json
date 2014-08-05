@@ -157,5 +157,6 @@
 	"wikimediashoplink-link-tooltip": "Besicht de Wikimedia-Shop",
 	"interlanguage-link-mul": "Méi Sproochen",
 	"interlanguage-link-sitename-mul": "Méisproocheg {{SITENAME}}",
-	"interlanguage-link-sitename-wikipedia": "Wikipedia, déi fräi Enzyklopedie"
+	"interlanguage-link-sitename-wikipedia": "Wikipedia, déi fräi Enzyklopedie",
+	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv"
 }

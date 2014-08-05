@@ -13,6 +13,7 @@
 	"group-inactive": "کاروریا کارمکو",
 	"group-interface_editor": "ویرایشتگریا مین پیوست",
 	"group-interface_editor-member": "{{جنس:$1|ویرایشتگر مین پیوست}}",
+	"grouppage-interface_editor": "{{ns:project}}:پیوندکار ویرایشت کننه یا",
 	"group-trusted": "کاروریا مطمئن",
 	"group-uploader": "سوارکننه یا",
 	"group-uploader-member": "{{جنس:$1|سوارکننه}}",
