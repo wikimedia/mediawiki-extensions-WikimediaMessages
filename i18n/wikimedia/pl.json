@@ -181,6 +181,8 @@
 	"mwoauth-grant-checkuser": "Dostęp do danych checkusera",
 	"wikimedia-flow-terms-of-use-new-topic": "Poprzez kliknięcie \"{{int:flow-newtopic-save}}\", akceptujesz [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Zasady używania] oraz zgadzasz się na publikację twojego tekstu pod [//creativecommons.org/licences/by-sa/3.0 licencją CC BY-SA 3.0] oraz [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_Licence licencją GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "Klikając na \"{{int:flow-reply-submit}}\", zgadzasz się na nasze [//http://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/pl warunki użytkowania] oraz wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencjach [//creativecommons.org/licenses/by-sa/3.0/deed.pl CC BY-SA 3.0] i [//pl.wikipedia.org/wiki/Wikipedia:Tekst_licencji_GNU_Free_Documentation_License GFDL]",
+	"wikimediashoplink-linktext": "Sklep Wikimedia",
+	"wikimediashoplink-link-tooltip": "Odwiedź sklep Wikimedia",
 	"interlanguage-link-mul": "Więcej języków",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, wolna encyklopedia",
 	"interlanguage-link-sitename-commons": "Repozytorium mediów Wikimedia Commons",

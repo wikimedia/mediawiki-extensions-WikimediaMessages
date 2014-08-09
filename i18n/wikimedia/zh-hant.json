@@ -18,7 +18,8 @@
 			"Wrightbus",
 			"Yfdyh000",
 			"Cwlin0416",
-			"LNDDYL"
+			"LNDDYL",
+			"TianyinLee"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -196,5 +197,8 @@
 	"wikimedia-flow-terms-of-use-edit": "通過保存更改，您同意我們的[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use 使用條款]，並義無反顧的同意依據[//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0許可協議]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL協議]發表您的貢獻。",
 	"wikimedia-upload-nolicenses": "此wiki尚無啟用檔案上載。請前往[[commons:Special:UploadWizard|維基共享資源]]。如需上載檔案至此wiki，請聯絡管理員編輯[[MediaWiki:Licenses]]。致管理員：使用語法<code>* Template name|Label</code>以啟用本地上載。",
 	"wikimediashoplink-linktext": "維基媒體商店",
-	"wikimediashoplink-link-tooltip": "訪問維基媒體商店"
+	"wikimediashoplink-link-tooltip": "訪問維基媒體商店",
+	"interlanguage-link-mul": "更多語言",
+	"interlanguage-link-sitename-wikipedia": "維基百科，自由的百科全書",
+	"interlanguage-link-sitename-dmoz": "DMOZ 網站目錄"
 }

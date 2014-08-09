@@ -60,7 +60,7 @@
 	"group-bigexport-member": "بزرگ برون‌بر",
 	"grouppage-bigexport": "{{ns:project}}:بزرگ خارج‌کنندگان",
 	"group-botadmin": "ربات‌های دارای دسترسی مدیریت",
-	"group-botadmin-member": "{{GENDER:$1|ربات‌های دارای دسترسی مدیریت}}",
+	"group-botadmin-member": "{{GENDER:$1|ربات دارای دسترسی مدیریت}}",
 	"grouppage-botadmin": "{{ns:project}}:ربات‌های دارای دسترسی مدیریت",
 	"group-confirmed": "کاربران تأییدشده",
 	"group-confirmed-member": "کاربران تأییدشده",

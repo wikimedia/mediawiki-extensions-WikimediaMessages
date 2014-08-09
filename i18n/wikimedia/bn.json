@@ -158,5 +158,8 @@
 	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি",
 	"createacct-captcha-help-url": "{{ns:Project}}:অ্যাকাউন্টের জন্য অনুরোধ",
 	"wikimedia-developers": "উন্নয়নকারী",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy গোপনীয়তার নীতি]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy গোপনীয়তার নীতি]",
+	"wikimediashoplink-linktext": "উইকিমিডিয়া দোকান",
+	"wikimediashoplink-link-tooltip": "উইকিমিডিয়া দোকান দেখুন",
+	"interlanguage-link-mul": "আরও ভাষা"
 }

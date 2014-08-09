@@ -145,7 +145,7 @@
 	"group-New_wikis_importer": "Nya wikiimportörer",
 	"group-New_wikis_importer-member": "{{GENDER:$1|ny wikiimportör}}",
 	"group-oauthadmin": "OAuth administratörer",
-	"group-oauthadmin-member": "{{GENDER:$1|OAuth administratör}}",
+	"group-oauthadmin-member": "{{GENDER:$1|OAuth-administratör}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth administratörer",
 	"group-Ombudsmen": "Ombudsmän",
 	"group-Ombudsmen-member": "{{GENDER:$1|ombudsman}}",
