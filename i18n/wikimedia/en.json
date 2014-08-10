@@ -208,5 +208,8 @@
     "interlanguage-link-dmoz": "DMOZ",
     "interlanguage-link-sitename-dmoz": "DMOZ web directory",
     "interlanguage-link-citizendium": "Citizendium",
-    "interlanguage-link-sitename-citizendium": "Citizendium"
+    "interlanguage-link-sitename-citizendium": "Citizendium",
+    "right-superprotect": "Change super protection levels",
+    "protect-level-superprotect": "Allow only superprotect users",
+    "restriction-level-superprotect": "super protect"
 }
