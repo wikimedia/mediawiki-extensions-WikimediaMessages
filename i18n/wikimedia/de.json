@@ -202,5 +202,8 @@
 	"interlanguage-link-sitename-mul": "Mehrsprachiges {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, die freie Enzyklopädie",
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv",
-	"interlanguage-link-sitename-dmoz": "DMOZ-Webverzeichnis"
+	"interlanguage-link-sitename-dmoz": "DMOZ-Webverzeichnis",
+	"right-superprotect": "Ändere Superschutz-Level",
+	"protect-level-superprotect": "Erlaube nur Superschutz-Benutzer",
+	"restriction-level-superprotect": "Superschutz"
 }
