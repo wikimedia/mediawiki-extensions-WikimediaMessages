@@ -1,4 +1,10 @@
 {
-	"@metadata": [],
-	"sitesupport": "Садакъа"
+	"@metadata": {
+		"authors": [
+			"Gazimagomedov"
+		]
+	},
+	"sitesupport": "Садакъа",
+	"interlanguage-link-mul": "Цогиги мацIал",
+	"interlanguage-link-sitename-wikipedia": "Википедия, эркенаб энциклопедия"
 }

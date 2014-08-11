@@ -155,7 +155,7 @@
 	"group-recursive-export-member": "{{GENDER:$1|Rekursiver Exporteur|Rekursive Exporteurin}}",
 	"group-Staff": "Mitarbeiter",
 	"group-Staff-member": "{{GENDER:$1|Mitarbeiter|Mitarbeiterin}}",
-	"grouppage-Staff": "Foundation:Mitarbeiter",
+	"grouppage-Staff": "Foundation:Staff",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"grouppage-steward": "m:Stewards/de",

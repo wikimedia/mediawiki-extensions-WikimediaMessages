@@ -196,5 +196,8 @@
 	"interlanguage-link-sitename-mul": "אתר {{SITENAMTE}} רב־לשוני",
 	"interlanguage-link-sitename-wikipedia": "ויקיפדיה, האנציקלופדיה החופשית",
 	"interlanguage-link-sitename-commons": "מאגר המדיה ויקישיתוף (Wikimedia Commons)",
-	"interlanguage-link-sitename-dmoz": "מדריך האתרים DMOZ"
+	"interlanguage-link-sitename-dmoz": "מדריך האתרים DMOZ",
+	"right-superprotect": "שינוי רמות הגנת־על",
+	"protect-level-superprotect": "לאפשר רק למגיני־על",
+	"restriction-level-superprotect": "הגנת־על"
 }

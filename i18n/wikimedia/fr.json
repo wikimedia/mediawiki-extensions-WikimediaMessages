@@ -226,5 +226,8 @@
 	"interlanguage-link-wikipedia": "Wikipédia",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, l’encyclopédie libre",
 	"interlanguage-link-sitename-commons": "Référentiel de médias de Wikimedia Commons",
-	"interlanguage-link-sitename-dmoz": "Annuaire Web DMOZ"
+	"interlanguage-link-sitename-dmoz": "Annuaire Web DMOZ",
+	"right-superprotect": "Modifier les super-niveaux de protection",
+	"protect-level-superprotect": "Autoriser uniquement les utilisateurs super-protégés",
+	"restriction-level-superprotect": "super-protection"
 }
