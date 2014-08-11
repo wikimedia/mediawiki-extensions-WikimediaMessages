@@ -201,5 +201,8 @@
 	"interlanguage-link-sitename-mul": "Повеќејазична верзија на {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Википедија — слободната енциклопедија",
 	"interlanguage-link-sitename-commons": "Медиумско складиште „Заедничка ризница“",
-	"interlanguage-link-sitename-dmoz": "семрежен именик DMOZ"
+	"interlanguage-link-sitename-dmoz": "семрежен именик DMOZ",
+	"right-superprotect": "Измени степен на суперзаштита",
+	"protect-level-superprotect": "Допуштај само корисници со суперзаштита",
+	"restriction-level-superprotect": "суперзаштита"
 }

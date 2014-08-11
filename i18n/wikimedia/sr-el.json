@@ -134,5 +134,6 @@
 	"wikibase-repo-name": "Vikipodaci",
 	"cant-delete-main-page": "Ne možete obrisati ili premestiti glavnu stranu.",
 	"extdist-branch-REL1_23": "1.23 (najnovija stabilna verzija Medijavikija)",
-	"wikimedia-developers": "Za programere"
+	"wikimedia-developers": "Za programere",
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Politika privatnosti]"
 }

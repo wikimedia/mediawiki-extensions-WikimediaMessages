@@ -155,7 +155,7 @@
 	"group-recursive-export-member": "{{GENDER:$1|Rekursiver Exporteur|Rekursive Exporteurin}}",
 	"group-Staff": "Mitarbeiter",
 	"group-Staff-member": "{{GENDER:$1|Mitarbeiter|Mitarbeiterin}}",
-	"grouppage-Staff": "Foundation:Mitarbeiter",
+	"grouppage-Staff": "Foundation:Staff",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"grouppage-steward": "m:Stewards/de",
@@ -202,5 +202,8 @@
 	"interlanguage-link-sitename-mul": "Mehrsprachiges {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, die freie Enzyklopädie",
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv",
-	"interlanguage-link-sitename-dmoz": "DMOZ-Webverzeichnis"
+	"interlanguage-link-sitename-dmoz": "DMOZ-Webverzeichnis",
+	"right-superprotect": "Ändere Superschutz-Level",
+	"protect-level-superprotect": "Erlaube nur Superschutz-Benutzer",
+	"restriction-level-superprotect": "Superschutz"
 }

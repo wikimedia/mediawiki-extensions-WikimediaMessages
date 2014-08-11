@@ -159,6 +159,7 @@
 	"grouppage-Ombudsmen": "m:Ombudsman_commission/zh",
 	"group-recursive-export": "递归导出",
 	"group-recursive-export-member": "{{GENDER:$1|递归导出者}}",
+	"grouppage-recursive-export": "m:Recursive export/zh",
 	"group-Staff": "基金会职员",
 	"group-Staff-member": "{{GENDER:$1|基金会职员}}",
 	"grouppage-Staff": "Foundation:基金会职员",
@@ -220,5 +221,8 @@
 	"interlanguage-link-dmoz": "DMOZ",
 	"interlanguage-link-sitename-dmoz": "DMOZ网站目录",
 	"interlanguage-link-citizendium": "大众百科",
-	"interlanguage-link-sitename-citizendium": "大众百科"
+	"interlanguage-link-sitename-citizendium": "大众百科",
+	"right-superprotect": "更改超级保护级别",
+	"protect-level-superprotect": "只允许超级保护用户",
+	"restriction-level-superprotect": "超级保护"
 }
