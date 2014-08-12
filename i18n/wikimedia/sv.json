@@ -198,5 +198,8 @@
 	"interlanguage-link-sitename-mul": "Flerspråkig {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, den fria encyklopedin",
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, mediedatabasen",
-	"interlanguage-link-sitename-dmoz": "DMOZ-webbkatalog"
+	"interlanguage-link-sitename-dmoz": "DMOZ-webbkatalog",
+	"right-superprotect": "Ändra superskyddsnivåer",
+	"protect-level-superprotect": "Tillåt endast superskyddsanvändare",
+	"restriction-level-superprotect": "superskydd"
 }

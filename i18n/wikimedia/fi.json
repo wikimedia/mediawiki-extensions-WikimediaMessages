@@ -166,5 +166,7 @@
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/fi",
 	"mwoauth-grant-checkuser": "Pääsy osoitepaljastintietoihin",
 	"wikimediashoplink-linktext": "Wikimedia-kauppa",
-	"wikimediashoplink-link-tooltip": "Vieraile Wikimedia-kaupassa"
+	"wikimediashoplink-link-tooltip": "Vieraile Wikimedia-kaupassa",
+	"protect-level-superprotect": "Vain supersuojaus-tason käyttäjät",
+	"restriction-level-superprotect": "super-suojaus"
 }
