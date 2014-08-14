@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mostafadaneshvar"
+			"Mostafadaneshvar",
+			"Baloch Afghanistan"
 		]
 	},
 	"wikimediamessages-desc": "کوله یان مخصوص ویکی‌مدیا",
@@ -34,5 +35,8 @@
 	"group-steward": "نگهبانان",
 	"group-steward-member": "نگهبان",
 	"group-sysadmin": "مدیران سیستم",
-	"group-sysadmin-member": "مدیر سیستم"
+	"group-sysadmin-member": "مدیر سیستم",
+	"right-superprotect": "تغیر داتین  سوپر حپاظتی ین سطحی",
+	"protect-level-superprotect": "تانا اجازه په سوپر حپاظتی ین کار گیروکان",
+	"restriction-level-superprotect": "سوپر حپاظت"
 }

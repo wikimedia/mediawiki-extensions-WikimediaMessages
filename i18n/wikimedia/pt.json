@@ -19,7 +19,8 @@
 			"Vitorvicentevalente",
 			"Waldir",
 			"555",
-			"Nemo bis"
+			"Nemo bis",
+			"Helder.wiki"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -138,7 +139,7 @@
 	"group-Ombudsmen": "Mediadores",
 	"group-Ombudsmen-member": "{{GENDER:$1|mediador|mediadora}}",
 	"group-Staff": "Pessoal",
-	"group-Staff-member": "{{GENDER:$1|membro do pessoal}}",
+	"group-Staff-member": "{{GENDER:$1|funcionário|funcionária|funcionário(a)}}",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"grouppage-steward": "m:Stewards/pt",

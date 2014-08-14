@@ -150,7 +150,7 @@
 	"group-Ombudsmen-member": "{{GENDER:$1|mediador|mediadora}}",
 	"group-recursive-export": "exportação recursiva",
 	"group-Staff": "Equipe",
-	"group-Staff-member": "membro da equipe",
+	"group-Staff-member": "{{GENDER:$1|funcionário|funcionária|funcionário(a)}}",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"group-sysadmin": "Administradores de sistema",

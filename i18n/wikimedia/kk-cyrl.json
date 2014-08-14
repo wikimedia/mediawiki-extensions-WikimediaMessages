@@ -7,7 +7,8 @@
 			"GaiJin",
 			"Kaztrans",
 			"Amangeldy",
-			"Nemo bis"
+			"Nemo bis",
+			"Balnur.s"
 		]
 	},
 	"wikimediamessages-desc": "Уикимедиа ерекше хабарламалары",
@@ -30,10 +31,14 @@
 	"group-OTRS-member": "OTRS мүшелер",
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS мүшелер}}",
 	"grouppage-OTRS-member": "{{ns:project}}:OTRS мүшелер",
+	"group-abusefilter": "Қиянаттауды сүзгілеу сүзгішін өңдеушілер",
+	"group-abusefilter-member": "{{GENDER:$1|қиянаттауды сүзгілеу сүзгішін өңдеушілер}}",
+	"grouppage-abusefilter": "{{ns:project}}:Қиянаттауды сүзгілеу сүзгішін өңдеушілер",
 	"group-accountcreator": "Аккаунт ашушылар",
 	"group-accountcreator-member": "{{GENDER:$1|Аккаунт ашушы}}",
 	"grouppage-accountcreator": "{{ns:project}}:Тіркелгі жасаушылар",
 	"group-arbcom": "Төрелік коммитет мүшелері",
+	"group-arbcom-member": "{{GENDER:$1|арбитражды коммитет мүшесі}}",
 	"grouppage-arbcom": "{{ns:project}}:Төрелік коммитет мүшелері",
 	"group-autopatrolled": "Өздіктіқадағалаушылар",
 	"group-autopatrolled-member": "{{GENDER:$1|өздіктіқадағалаушы}}",
@@ -100,6 +105,11 @@
 	"grouppage-uploader": "{{ns:project}}:Жүктеушілер",
 	"group-API_High_Limit_Requestor": "Жоғары лимитті API сауал қоюшылар",
 	"group-API_High_Limit_Requestor-member": "{{GENDER:$1|жоғары лимитті API сауал қоюшылар}}",
+	"group-centralnoticeadmin": "Орталық ескертпе әкімшілері",
+	"group-centralnoticeadmin-member": "{{GENDER:$1|орталық хабарландыру әкімшісі}}",
+	"grouppage-centralnoticeadmin": "{{ns:project}}:Орталық хабарландыру әкімшілері",
+	"group-coder": "Код жазушылар",
+	"group-coder-member": "{{GENDER:$1|код жазушы}}",
 	"group-editinterface": "Интерфейс өңдеушілер",
 	"group-editinterface-member": "{{GENDER:$1|интерфейс өңдеуші}}",
 	"group-Global_bot": "Ғаламдық боттар",
@@ -142,5 +152,15 @@
 	"extdist-branch-REL1_23": "1.23 (MediaWiki-дің ең соңғы тұрақты нұсқасы)",
 	"createacct-helpusername-url": "{{ns:Project}}:Тіркелгі сұрау",
 	"createacct-captcha-help-url": "{{ns:Project}}:Тіркелгі сұрау",
-	"wikimedia-developers": "Жасақтаушылар"
+	"wikimedia-developers": "Жасақтаушылар",
+	"wikimediashoplink-linktext": "Уикимедиа дүкені",
+	"wikimediashoplink-link-tooltip": "Уикимедиа дүкеніне барып қайту",
+	"interlanguage-link-mul": "Басқа тілдер",
+	"interlanguage-link-sitename-mul": "Көптілді {{SITENAME}}",
+	"interlanguage-link-sitename-wikipedia": "Уикипедия ащық энциклопедиясы",
+	"interlanguage-link-sitename-commons": "Wikimedia Commons медиа қоры",
+	"interlanguage-link-sitename-dmoz": "DMOZ уеб каталог",
+	"right-superprotect": "Супер қорғалу деңгейін өзгерту",
+	"protect-level-superprotect": "Тек суперқорғаушы қатысушыларға рұқсат ету",
+	"restriction-level-superprotect": "супер қорғаныс"
 }
