@@ -144,5 +144,6 @@
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ca",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privadesa]",
 	"interlanguage-link-mul": "Més idiomes",
-	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure"
+	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure",
+	"restriction-level-superprotect": "superprotegeix"
 }

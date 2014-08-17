@@ -182,5 +182,8 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multillingüe",
 	"interlanguage-link-sitename-wikipedia": "Uiquipedia, la enciclopedia llibre",
 	"interlanguage-link-sitename-commons": "Depósitu de multimedia Wikimedia Commons",
-	"interlanguage-link-sitename-dmoz": "Direutoriu web DMOZ"
+	"interlanguage-link-sitename-dmoz": "Direutoriu web DMOZ",
+	"right-superprotect": "Camudar los niveles de superprotección",
+	"protect-level-superprotect": "Permitir sólo a usuarios de superprotección",
+	"restriction-level-superprotect": "superprotexer"
 }

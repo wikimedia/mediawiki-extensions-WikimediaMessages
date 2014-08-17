@@ -143,5 +143,8 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Πολιτική_Ονομασίας_Χρηστών",
 	"createacct-captcha-help-url": "{{ns:Project}}:Αίτημα για λογαριασμό",
 	"wikimedia-developers": "Προγραμματιστές",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Πολιτική Ιδιωτικότητας]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Πολιτική Ιδιωτικότητας]",
+	"right-superprotect": "Αλλαγή επιπέδων υπερπροστασίας",
+	"protect-level-superprotect": "Επιτρέπεται μόνο superprotect χρήστες",
+	"restriction-level-superprotect": "υπερπροστασία"
 }

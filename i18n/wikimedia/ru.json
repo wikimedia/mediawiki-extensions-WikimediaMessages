@@ -23,7 +23,8 @@
 			"Putnik",
 			"TarzanASG",
 			"Александр Сигачёв",
-			"Nemo bis"
+			"Nemo bis",
+			"TTO"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -213,6 +214,7 @@
 	"wikimediashoplink-link-tooltip": "Посетите магазин Викимедиа",
 	"interlanguage-link-mul": "Дополнительные языки",
 	"interlanguage-link-sitename-mul": "Многоязычный сайт {{SITENAME}}",
+	"interlanguage-link-wikipedia": "Википедия",
 	"interlanguage-link-sitename-wikipedia": "Википедия, свободная энциклопедия",
 	"interlanguage-link-sitename-commons": "Викисклад, хранилище медиафайлов",
 	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ"

@@ -3,13 +3,14 @@
 		"authors": [
 			"Liuxinyu970226",
 			"Spring Roll Conan",
-			"LNDDYL"
+			"LNDDYL",
+			"Cwlin0416"
 		]
 	},
 	"contactpage-title-requestlicense": "商標重用聯絡表單",
 	"contactpage-pagetext-requestlicense": "請使用下面的表單與我們聯絡商標事宜",
 	"contactpage-subject-requestlicense": "維基媒體商標使用申請",
-	"contactpage-license-request-username": "用戶名 *",
+	"contactpage-license-request-username": "使用者名稱 *",
 	"contactpage-license-request-relevantsite": "相關維基媒體站點（如果有）",
 	"contactpage-license-request-group": "維基媒體分會、專題組織或用戶群組與標題（如果有）*",
 	"contactpage-license-request-title": "標題（如果適用）",

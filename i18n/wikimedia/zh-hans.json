@@ -72,7 +72,7 @@
 	"group-confirmed-member": "{{GENDER:$1|确认用户}}",
 	"grouppage-confirmed": "{{ns:project}}:确认用户",
 	"group-editprotected": "受保护页面编辑者",
-	"group-editprotected-member": "受保护页面编辑者",
+	"group-editprotected-member": "{{GENDER:$1|受保护页面编辑者}}",
 	"grouppage-editprotected": "{{ns:project}}:受保护页面编辑者",
 	"group-eliminator": "消除者",
 	"group-eliminator-member": "{{GENDER:$1|消除者}}",

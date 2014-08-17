@@ -21,7 +21,8 @@
 			"Sir Lestaty de Lioncourt",
 			"Teles",
 			"555",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Rodrigo codignoli"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -177,5 +178,8 @@
 	"wikimedia-developers": "Desenvolvedores",
 	"wikimedia-globalblocking-ipblocked": "'''O seu endereço de IP foi [[m:Special:MyLanguage/Global blocks|bloqueado em todas as wikis]].'''\n\nO bloqueio foi efetuado por $1 ($2).\nO motivo dado foi o seguinte: ''$3''.\n\n* Início do bloqueio: $4\n* Fim do bloqueio: $5\n\nO seu endereço de IP atual é $6.\nPor favor, inclua todos os detalhes acima em todas as consultas que efetuar.\n\nSe acredita que o bloqueio foi realizado por engano, pode encontrar informação adicional e instruções na política global de [[m:Special:MyLanguage/No open proxies|''proxies'' fechados]].\nCaso contrário, para discutir este bloqueio, [[m:Steward requests/Global|abra um pedido de análise no Meta-Wiki]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/pt-br",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privacidade]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privacidade]",
+	"right-superprotect": "Alterar níveis de superproteção",
+	"protect-level-superprotect": "Permitir somente usuários super protegidos",
+	"restriction-level-superprotect": "superproteger"
 }
