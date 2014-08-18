@@ -17,7 +17,8 @@
 			"Sahim",
 			"Wayiran",
 			"ZxxZxxZ",
-			"Nemo bis"
+			"Nemo bis",
+			"Omid.koli"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -189,5 +190,7 @@
 	"wikimedia-flow-terms-of-use-reply": "با کلیک کردن بر روی دکمه \"{{int:flow-reply-submit}}\"، شما [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] مارا می‌پذیرید، و به طور غیر قابل برگشتی با انتشار متن خود تحت  [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",
 	"wikimedia-flow-terms-of-use-edit": "با ذخیره تغییرات، شما [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] مارا می‌پذیرید، و به طور غیر قابل برگشتی با انتشار متن خود تحت  [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",
 	"wikimediashoplink-linktext": "فروشگاه ویکی‌مدیا",
-	"wikimediashoplink-link-tooltip": "مشاهده فروشگاه ویکی‌مدیا"
+	"wikimediashoplink-link-tooltip": "مشاهده فروشگاه ویکی‌مدیا",
+	"right-superprotect": "تغییر سطح‌های محافظت",
+	"restriction-level-superprotect": "حفاظت فوق‌العاده"
 }

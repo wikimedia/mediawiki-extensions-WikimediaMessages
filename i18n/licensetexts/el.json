@@ -11,7 +11,8 @@
 			"Multichill",
 			"Omnipaedista",
 			"ZaDiak",
-			"Περίεργος"
+			"Περίεργος",
+			"Protnet"
 		]
 	},
 	"wikimedialicensetexts-desc": "Μηνύματα αδειών του Wikimedia",
@@ -82,7 +83,7 @@
 	"wm-license-lgpl-text": "Αυτή η βιβλιοθήκη είναι [[{{int:wm-license-free-software-wiki-link}}|free software]]. Μπορείτε να την αναδιανείμετε και/ή να την  τροποποιήσετε, υπό τους όρους της  '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]'''' όπως δημοσιεύθηκε  από το  [[{{int:wm-license-fsf-wiki-link}}|Ίδρυμα Ελευθέρου Λογισμικού]] είτε με  την έκδοση 2.1 της άδειας χρήσης σας (είτε με επιλογή)  με οποιαδήποτε μεταγενέστερη έκδοση. Αυτή η βιβλιοθήκη διανέμεται με την ελπίδα ότι θα είναι χρήσιμη, αλλά ''' χωρίς οποιαδήποτε εγγύηση ''', χωρίς καν την  σιωπηρή εγγύηση της ''' εμπορευσιμότητας ''' ή ''' καταλληλότητας για συγκεκριμένο σκοπό ''». Βλέπε [{{int:wm-license-lgpl-2.1-full-link}} έκδοση 2.1] και [{{int:wm-license-lgpl-3-full-link}} έκδοση 3 του το GNU Lesser General Public License] για περισσότερες λεπτομέρειες.",
 	"wm-license-licensing-update-text": "Αυτή η ετικέτα άδειας χρήσης προστέθηκε στο αρχείο ως μέρους της [[{{int:wm-license-licensing-update-wiki-link}}|αναθεώρησης της άδειας]] GFDL .",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/el",
-	"wm-license-original-upload-log": "Αρχικό αρχείο καταγραφής επιφορτώσεων",
+	"wm-license-original-upload-log": "Καταγραφές ανεβασμάτων πρωτότυπου αρχείου",
 	"wm-license-own-work": "Έργο αυτού που το ανεβάζει",
 	"wm-license-pd-author-self-text": "Εγώ, ο κάτοχος των πνευματικών δικαιωμάτων αυτού του έργου, δημοσιεύω αυτό το έργο ως '''[[{{int:wm-license-pd-wiki-link}}|κοινό κτήμα]]'''. Αυτό ισχύει σε παγκόσμια κλίμακα.",
 	"wm-license-pd-author-with-author-text": "Το έργο αυτό έχει απελευθερωθεί στην '''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' από τον δημιουργό του, '''$1'''. Αυτό ισχύει σε όλο τον κόσμο.",
