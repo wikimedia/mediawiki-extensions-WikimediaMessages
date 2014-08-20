@@ -129,6 +129,9 @@
 	"group-Global_bot-member": "{{GENDER:$1|bot globale}}",
 	"group-global-ipblock-exempt": "Esenti dal blocco IP globale",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|esente dal blocco IP globale}}",
+	"group-global-renamer": "Rinominatori globali",
+	"group-global-renamer-member": "{{GENDER:$1|rinominatore globale}}",
+	"grouppage-global-renamer": "m:Global renamers",
 	"group-Global_rollback": "Rollbacker globali",
 	"group-Global_rollback-member": "{{GENDER:$1|rollbacker globale}}",
 	"grouppage-Global_rollback": "m:Global rollback/it",
@@ -197,5 +200,8 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, l'enciclopedia libera",
 	"interlanguage-link-sitename-commons": "Contenitore multimediale Wikimedia Commons",
-	"interlanguage-link-sitename-dmoz": "Directory web DMOZ"
+	"interlanguage-link-sitename-dmoz": "Directory web DMOZ",
+	"right-superprotect": "Cambia i livelli di super protezione",
+	"protect-level-superprotect": "Consenti solo agli utenti superprotetti",
+	"restriction-level-superprotect": "super protetta"
 }

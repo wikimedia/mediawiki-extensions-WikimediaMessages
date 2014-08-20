@@ -6,5 +6,8 @@
 		]
 	},
 	"sitesupport": "Magdonar",
-	"tooltip-n-sitesupport": "Suportaran kami"
+	"tooltip-n-sitesupport": "Suportaran kami",
+	"group-global-renamer": "Mga pankinabanong pagliwat nin pangaran",
+	"group-global-renamer-member": "{{KASARIAN:$1|pankinabanong pagliwat nin pangaran}}",
+	"grouppage-global-renamer": "m:Mga Pankinabanong pagliwat nin pangaran"
 }

@@ -2,10 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Chelin",
-			"Cryptex"
+			"Cryptex",
+			"C.R."
 		]
 	},
 	"sitesupport": "Donazzione",
+	"group-global-renamer": "Rinommenature globale",
+	"group-global-renamer-member": "{{GENDER:$1|rinommenatore globale}}",
+	"grouppage-global-renamer": "m:Global renamers",
 	"group-massmessage-sender": "Mittente mmasciate massive",
 	"group-massmessage-sender-member": "{{GENDER:$1|mittente mmasciate massive}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive"

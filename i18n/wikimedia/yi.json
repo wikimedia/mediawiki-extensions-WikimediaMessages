@@ -107,6 +107,7 @@
 	"group-Global_bot-member": "{{GENDER:$1|גלאבאַלער באט}}",
 	"group-global-ipblock-exempt": "גלאבאלע IP בלאקירן באפֿרײַטע",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|גלאבאל IP בלאקירן באפֿרײַטער|גלאבאל IP בלאקירן באפֿרײַטע}}",
+	"grouppage-global-renamer": "m:Global renamers",
 	"group-Global_rollback": "גלאבאַלע צוריקדרייער",
 	"group-Global_rollback-member": "{{GENDER:$1|גלאבאַלער צוריקדרייער| גלאבאַלע צוריקדרייער}}",
 	"group-Global_sysops": "גלאבאַלע סיסאָפּן",

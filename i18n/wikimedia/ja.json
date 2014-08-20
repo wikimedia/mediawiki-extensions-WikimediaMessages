@@ -131,6 +131,7 @@
 	"group-global-ipblock-exempt": "グローバルIPブロック適用除外者",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|グローバルIPブロック適用除外者}}",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
+	"grouppage-global-renamer": "m:Global renamers",
 	"group-Global_rollback": "グローバル巻き戻し者",
 	"group-Global_rollback-member": "{{GENDER:$1|グローバル巻き戻し者}}",
 	"grouppage-Global_rollback": "m:Global rollback/ja",

@@ -236,7 +236,7 @@
 	"interlanguage-link-sitename-dmoz": "Part of the title (tooltip) text used for a sidebar link to a relevant page on [http://www.dmoz.org DMOZ].",
 	"interlanguage-link-citizendium": "Display text used for a sidebar link to a relevant page on [http://en.citizendium.org Citizendium].\n\nUsed on Wikivoyage sites for the \"Related sites\" feature.",
 	"interlanguage-link-sitename-citizendium": "Part of the title (tooltip) text used for a sidebar link to a relevant page on [http://en.citizendium.org Citizendium].",
-	"right-superprotect": "Super protection right given to only {{msg-mw|Grouppage-Staff}}.",
+	"right-superprotect": "{{doc-right|superprotect}}\nSuper protection right given to only \"staff\".",
 	"protect-level-superprotect": "Used as protect level.",
 	"restriction-level-superprotect": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry."
 }
