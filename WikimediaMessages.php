@@ -41,10 +41,9 @@ $wgExtensionFunctions[] = function() {
 		 * @param $type string
 		 * @param $msg string
 		 * @param $link
-		 * @param $forContent bool
 		 * @return bool
 		 */
-		$wgHooks['SkinCopyrightFooter'][] = function( $title, $type, &$msg, &$link, &$forContent ) {
+		$wgHooks['SkinCopyrightFooter'][] = function( $title, $type, &$msg, &$link ) {
 			if ( $type !== 'history' ) {
 				global $wgDBname;
 				if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
@@ -52,7 +51,6 @@ $wgExtensionFunctions[] = function() {
 				} else {
 					$msg = 'wikimedia-copyright'; // the default;
 				}
-				$forContent = false;
 			}
 
 			return true;
