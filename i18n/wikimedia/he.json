@@ -11,7 +11,8 @@
 			"YaronSh",
 			"Yonidebest",
 			"תומר ט",
-			"Nemo bis"
+			"Nemo bis",
+			"Yona b"
 		]
 	},
 	"wikimediamessages-desc": "הודעות המיוחדות לוויקימדיה",
@@ -162,6 +163,7 @@
 	"wikimedia-copyrightwarning": "שמירת השינויים מהווה את הסכמתך ל[https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתכם בכפוף לרישיון [https://creativecommons.org/licenses/by-sa/3.0/deed.he CC BY-SA 3.0 3.0] ולרישיון [https://www.gnu.org/copyleft/fdl.html GFDL].\nזוהי גם הסכמתך לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"הגדרה של רישיון קריאייטיב קומונז ייחוס–שיתוף זהה\" target=\"_blank\">CC BY-SA 3.0</a> and <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"הגדרה של GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ויקינתונים",
+	"wikibase-sitelinks-wikinews": "דפי ויקיחדשות שמקושרים לפריט הזה",
 	"wikibase-sitelinks-wikiquote": "דפי ויקיציטוט שמקושרים לפריט הזה",
 	"wikibase-sitelinks-wikisource": "דפי ויקיטקסט שמקושרים לפריט הזה",
 	"wikibase-sitelinks-wikivoyage": "דפי ויקימסע שמקושרים לפריט הזה",

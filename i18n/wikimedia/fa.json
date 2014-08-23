@@ -52,7 +52,7 @@
 	"group-arbcom-member": "عضو هیأت حکمیت",
 	"grouppage-arbcom": "{{ns:project}}:اعضای هیأت حکمیت",
 	"group-autopatrolled": "گشت‌زنان خودکار",
-	"group-autopatrolled-member": "گشت‌زن خودکار",
+	"group-autopatrolled-member": "{{GENDER:$1|گشت خودکار}}",
 	"grouppage-autopatrolled": "{{ns:project}}:گشت‌زنان خودکار",
 	"group-autoreviewer": "بازبین‌گران خودکار",
 	"group-autoreviewer-member": "بازبین‌گر خودکار",

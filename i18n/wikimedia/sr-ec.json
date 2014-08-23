@@ -142,5 +142,6 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-developers": "За програмере",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Политика приватности]"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Политика приватности]",
+	"restriction-level-superprotect": "супер заштита"
 }
