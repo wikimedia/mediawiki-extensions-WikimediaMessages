@@ -12,5 +12,8 @@
 	"grouppage-global-renamer": "m:Global renamers",
 	"group-massmessage-sender": "Mittente mmasciate massive",
 	"group-massmessage-sender-member": "{{GENDER:$1|mittente mmasciate massive}}",
-	"grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive"
+	"grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive",
+	"group-staff": "Staff",
+	"group-staff-member": "{{GENDER:$1|compunente ddo staff}}",
+	"wikibase-sitelinks-wikinews": "Paggene 'e Wikinews cullegata a st'elemento"
 }
