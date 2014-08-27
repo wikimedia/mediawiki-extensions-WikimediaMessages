@@ -22,7 +22,8 @@
 			"Sp5uhe",
 			"Tagimata",
 			"Umherirrender",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"زكريا"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -204,6 +205,7 @@
 	"wikibase-otherprojects-wikisource": "Label for Wikisource, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikisource}}",
 	"wikibase-otherprojects-wikivoyage": "Label for Wikivoyage, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikivoyage}}",
 	"wikibase-sitelinks-sitename-commonswiki": "Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.\n{{Identical|Common}}",
+	"cant-delete-main-page": "لا يمكنك حذف أو نقل الصفحة الرئيسية.",
 	"wikimedia-translationnotifications-signup-legal": "Legal text about the notifications sent to translators. Replace Privacy_policy in the URL with Special:MyLanguage/Privacy_policy/<your_language>, for example, Special:MyLanguage/Privacy_policy/fr for French.",
 	"upload-more-photos-of-this-monument": "This message is added by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.",
 	"extdist-branch-master": "Message used for an extension's git master version; the latest development version",

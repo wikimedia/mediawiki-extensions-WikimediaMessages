@@ -122,7 +122,7 @@
 	"group-ombudsman": "Ombudsmänner",
 	"group-ombudsman-member": "{{GENDER:$1|Ombudsmann|Ombudsfra}}",
 	"group-staff": "Mataarbechter",
-	"group-staff-member": "Mataarbechter",
+	"group-staff-member": "{{GENDER:$1|bezuelte Mataarbechter|bezuelt Mataarbechterin}}",
 	"group-steward": "Stewarden",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"grouppage-steward": "{{ns:project}}:Stewarden",

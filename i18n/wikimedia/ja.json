@@ -154,7 +154,7 @@
 	"group-recursive-export-member": "{{GENDER:$1|再帰的エクスポート担当者}}",
 	"grouppage-recursive-export": "m:Recursive export",
 	"group-staff": "スタッフ",
-	"group-staff-member": "{{GENDER:$1|スタッフメンバー}}",
+	"group-staff-member": "{{GENDER:$1|スタッフ}}",
 	"group-steward": "スチュワード",
 	"group-steward-member": "{{GENDER:$1|スチュワード}}",
 	"grouppage-steward": "m:Stewards/ja",

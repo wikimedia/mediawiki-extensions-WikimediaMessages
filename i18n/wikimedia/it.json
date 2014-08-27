@@ -151,7 +151,7 @@
 	"group-recursive-export": "Esportatori ricorsivi",
 	"group-recursive-export-member": "{{GENDER:$1|esportatore|esportatrice|esportatore/trice}} ricorsivo",
 	"group-staff": "Staff",
-	"group-staff-member": "{{GENDER:$1|componente dello staff}}",
+	"group-staff-member": "{{GENDER:$1|staff}}",
 	"group-steward": "Steward",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"grouppage-steward": "m:Stewards/it",
