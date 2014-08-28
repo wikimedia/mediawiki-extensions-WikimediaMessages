@@ -120,7 +120,7 @@
 	"group-ombudsman": "Διαμεσολαβήτες",
 	"group-ombudsman-member": "{{GENDER:$1|διαμεσολαβητής}}",
 	"group-staff": "Προσωπικό",
-	"group-staff-member": "Μέλος προσωπικού",
+	"group-staff-member": "{{GENDER:$1|Μέλος προσωπικού}}",
 	"group-steward": "Επίτροποι",
 	"group-steward-member": "{{GENDER:$1|επίτροπος}}",
 	"group-sysadmin": "Διαχειριστές συστήματος",

@@ -133,7 +133,7 @@
 	"group-ombudsman": "ন্যায়পাল",
 	"group-ombudsman-member": "{{GENDER:$1|ন্যায়পাল সদস্য}}",
 	"group-staff": "কর্মচারি",
-	"group-staff-member": "{{GENDER:$1|কর্মচারী}}",
+	"group-staff-member": "কর্মচারি",
 	"group-steward": "স্টুয়ার্ড",
 	"group-steward-member": "{{GENDER:$1|স্টুয়ার্ড}}",
 	"group-sysadmin": "সিস্টেম প্রশাসক",

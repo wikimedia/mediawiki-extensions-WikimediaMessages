@@ -10,6 +10,7 @@
 	"group-global-renamer": "Mga pankinabanong pagliwat nin pangaran",
 	"group-global-renamer-member": "{{KASARIAN:$1|pankinabanong pagliwat nin pangaran}}",
 	"grouppage-global-renamer": "m:Mga Pankinabanong pagliwat nin pangaran",
+	"group-global-sysop": "Pankinaban na parapaandar nin sistema",
 	"group-staff": "Kalikian",
 	"group-staff-member": "{{GENDER:$1|kalikiang miyembro}}"
 }

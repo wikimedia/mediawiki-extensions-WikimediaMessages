@@ -127,7 +127,7 @@
 	"group-uploader-member": "{{doc-group|uploader|member}}",
 	"grouppage-uploader": "{{doc-group|uploader|page}}",
 	"group-apihighlimits-requestor": "{{doc-group|apihighlimits-requestor|member}}",
-	"group-apihighlimits-requestor-member": "{{doc-group|API_High_Limit_Requestor|member}}",
+	"group-apihighlimits-requestor-member": "{{doc-group|apihighlimits-requestor|member}}",
 	"grouppage-apihighlimits-requestor": "{{optional}}\n{{doc-group|apihighlimits-requestor|page}}\n{{Global grouppage}}",
 	"group-captcha-exempt": "{{doc-group|captcha-exempt}}",
 	"group-captcha-exempt-member": "{{doc-group|captcha-exempt|member}}",

@@ -143,7 +143,7 @@
 	"group-recursive-export": "Rekurzivní export",
 	"group-recursive-export-member": "rekurzivní {{GENDER:$1|exportér|exportérka}}",
 	"group-staff": "Personál",
-	"group-staff-member": "{{GENDER:$1|člen|členka|člen}} personálu",
+	"group-staff-member": "{{GENDER:$1|zaměstnanec|zaměstnankyně|zaměstnanec}}",
 	"group-steward": "Stevardi",
 	"group-steward-member": "{{GENDER:$1|stevard|stevardka|stevard}}",
 	"group-sysadmin": "Správcové serveru",
