@@ -124,7 +124,6 @@
 	"grouppage-ombudsman": "m:Ombudsman commission/ar",
 	"group-staff": "مشرفون",
 	"group-staff-member": "{{GENDER:$1|موظف|موظفة}}",
-	"grouppage-staff": "Foundation:الطاقم",
 	"group-steward": "مضيفون",
 	"group-steward-member": "{{GENDER:$1|مضيف|مضيفة}}",
 	"grouppage-steward": "m:Stewards/ar",

@@ -157,7 +157,6 @@
 	"group-recursive-export-member": "{{GENDER:$1|exportador recursivo|exportadora recursiva}}",
 	"group-staff": "Personal de la Fundación",
 	"group-staff-member": "personal de la fundación",
-	"grouppage-staff": "Foundation:Personal",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"grouppage-steward": "m:Stewards/es",

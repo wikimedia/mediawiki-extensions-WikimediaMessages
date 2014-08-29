@@ -182,7 +182,6 @@
 	"grouppage-recursive-export": "m:Special:MyLanguage/Recursive export",
 	"group-staff": "Personnel",
 	"group-staff-member": "{{GENDER:$1|équipe}}",
-	"grouppage-staff": "Foundation:Staff",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"grouppage-steward": "m:Stewards/fr",

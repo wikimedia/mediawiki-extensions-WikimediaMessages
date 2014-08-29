@@ -162,7 +162,6 @@
 	"group-recursive-export-member": "Рекурсивно экспортирующ{{GENDER:$1|ий|ая}}",
 	"group-staff": "Сотрудники",
 	"group-staff-member": "сотрудник",
-	"grouppage-staff": "Foundation:Staff",
 	"group-steward": "Стюарды",
 	"group-steward-member": "{{GENDER:$1|стюард}}",
 	"grouppage-steward": "m:Stewards/ru",

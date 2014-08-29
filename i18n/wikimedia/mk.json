@@ -150,7 +150,6 @@
 	"grouppage-recursive-export": "m:Recursive export",
 	"group-staff": "Персонал",
 	"group-staff-member": "{{GENDER:$1|член на персонал}}",
-	"grouppage-staff": "Foundation:Персонал",
 	"group-steward": "Стјуарди",
 	"group-steward-member": "{{GENDER:$1|стјуард}}",
 	"grouppage-steward": "m:Stewards/mk",
