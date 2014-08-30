@@ -17,7 +17,8 @@
 			"관인생략",
 			"아라",
 			"Nemo bis",
-			"Freebiekr"
+			"Freebiekr",
+			"Bluemersen"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -165,11 +166,16 @@
 	"wikidata-copyright": "주요와 속성 이름공간의 모든 구조화된 데이터는 <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.ko\" title=\"크리에이티브 커먼즈 CC0 라이선스의 정의\">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고\n다른 이름공간의 내용은 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ko\" title=\"크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의\">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며\n추가적인 조건이 적용될 수 있습니다.\n자세한 내용은 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ko\" title=\"위키미디어 재단 이용 약관\">이용 약관</a>을 참고하십시오.",
 	"wikimedia-copyrightwarning": "편집을 저장함으로써, 당신은 [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ko 이용 약관]에 동의하며, 당신의 기여를 영구히 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)로 배포하는 데 동의하게 됩니다.\n크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의합니다.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"크리에이티브 커먼즈 저작자표시-동일조건변경허락 의 정의\" target=\"_blank\">CC BY-SA 3.0</a> 와 <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL의 정의\" target=\"_blank\">GFDL</a>",
+	"wikibase-repo-name": "위키데이터",
 	"wikibase-sitelinks-wikinews": "이 항목을 가리키는 위키뉴스 문서",
 	"wikibase-sitelinks-wikiquote": "이 항목을 가리키는 위키인용집 문서",
 	"wikibase-sitelinks-wikisource": "이 항목을 가리키는 위키문헌 문서",
 	"wikibase-sitelinks-wikivoyage": "이 항목을 가리키는 위키여행 문서",
 	"wikibase-sitelinks-commons": "이 항목을 가리키는 위키미디어 공용 문서",
+	"wikibase-otherprojects-commons": "위키미디어 공용",
+	"wikibase-otherprojects-wikiquote": "위키인용집",
+	"wikibase-otherprojects-wikisource": "위키문헌",
+	"wikibase-otherprojects-wikivoyage": "위키여행",
 	"wikibase-sitelinks-sitename-commonswiki": "공용",
 	"cant-delete-main-page": "대문 문서를 삭제하거나 옮길 수 없습니다.",
 	"wikimedia-translationnotifications-signup-legal": "이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [//wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy 개인 정보 정책]의 적용을 받는 데 동의합니다.",

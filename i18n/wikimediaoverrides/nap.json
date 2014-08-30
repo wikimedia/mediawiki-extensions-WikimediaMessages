@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"C.R."
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajutame a scegliere)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Nun riesce a veré l'immaggene? [[{{MediaWiki:createacct-captcha-help-url}}|Addimanna n'utenza]]"
+}
