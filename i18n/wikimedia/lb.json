@@ -102,6 +102,7 @@
 	"group-uploader-member": "{{GENDER:$1|Eroplueder}}",
 	"grouppage-uploader": "{{ns:project}}:Eroplueder",
 	"group-captcha-exempt": "Ausnahme fir CAPTCHA",
+	"group-captcha-exempt-member": "{{GENDER:$1|ouni CAPTCHA}}",
 	"group-coder": "Programméierer",
 	"group-coder-member": "{{GENDER:$1|Programméierer}}",
 	"group-editinterface": "Interface änneren",
