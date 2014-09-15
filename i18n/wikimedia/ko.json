@@ -18,7 +18,8 @@
 			"아라",
 			"Nemo bis",
 			"Freebiekr",
-			"Bluemersen"
+			"Bluemersen",
+			"Revi"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -51,12 +52,12 @@
 	"group-arbcom": "중재위원",
 	"group-arbcom-member": "{{GENDER:$1|중재위원}}",
 	"grouppage-arbcom": "{{ns:project}}:중재위원",
-	"group-autopatrolled": "점검면제권",
-	"group-autopatrolled-member": "{{GENDER:$1|검토 면제자}}",
-	"grouppage-autopatrolled": "{{ns:project}}:검토 면제자",
-	"group-autoreviewer": "자동 검토원",
-	"group-autoreviewer-member": "{{GENDER:$1|자동 검토원}}",
-	"grouppage-autoreviewer": "{{ns:project}}:자동 검토원",
+	"group-autopatrolled": "점검 면제자",
+	"group-autopatrolled-member": "{{GENDER:$1|점검 면제자}}",
+	"grouppage-autopatrolled": "{{ns:project}}:점검 면제자",
+	"group-autoreviewer": "자동 검토자",
+	"group-autoreviewer-member": "{{GENDER:$1|자동 검토자}}",
+	"grouppage-autoreviewer": "{{ns:project}}:자동 검토자",
 	"group-bigexport": "대량 문서 익스포터",
 	"group-bigexport-member": "{{GENDER:$1|대량 문서 익스포터}}",
 	"grouppage-bigexport": "{{ns:project}}:대용량 문서 전파자",

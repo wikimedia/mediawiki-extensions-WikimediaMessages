@@ -125,7 +125,7 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|järjestelmänlaajuisista IP-estoista vapautettu}}",
 	"group-global-renamer": "Järjestelmänlaajuiset nimeäjät",
 	"group-global-renamer-member": "{{GENDER:$1|järjestelmänlaajuinen nimeäjä}}",
-	"grouppage-global-renamer": "m:Järjestelmänlaajuiset nimeäjät",
+	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "järjestelmänlaajuiset palauttajat",
 	"group-global-rollbacker-member": "{{GENDER:$1|järjestelmänlaajuinen palauttaja}}",
 	"group-global-sysop": "järjestelmänlaajuiset ylläpitäjät",
