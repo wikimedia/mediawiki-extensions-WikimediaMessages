@@ -3,7 +3,8 @@
 		"authors": [
 			"Minh Nguyen",
 			"Multichill",
-			"Vinhtantran"
+			"Vinhtantran",
+			"Trần Nguyễn Minh Huy"
 		]
 	},
 	"wikimedialicensetexts-desc": "Thông điệp giấy phép Wikimedia",
@@ -80,8 +81,8 @@
 	"wm-license-pd-author-self-text": "Tôi, người giữ bản quyền của tác phẩm này, chuyển tác phẩm này vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''. Điều này có giá trị trên toàn thế giới.",
 	"wm-license-pd-author-with-author-text": "Tác phẩm này đã được tác giả của nó, '''$1''', phát hành vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''. Điều này có hiệu lực trên toàn thế giới.",
 	"wm-license-pd-author-not-legally-possible": "Tại một quốc gia mà luật pháp không cho phép điều này, thì:",
-	"wm-license-pd-author-self-any-purpose": "Tôi cho phép tất cả mọi người quyền sử dụng tác phẩm này '''với bất cứ mục đích nào''', không kèm theo bất kỳ điều nào, trừ khi luật pháp yêu cầu những điều kiện đó.",
-	"wm-license-pd-author-with-author-any-purpose": "$1 cho phép tất cả mọi người quyền sử dụng tác phẩm này '''với bất cứ mục đích nào''', không kèm theo bất kỳ điều nào, trừ khi luật pháp yêu cầu những điều kiện đó.",
+	"wm-license-pd-author-self-any-purpose": "Tôi cho phép tất cả mọi người được quyền sử dụng tác phẩm này '''với bất cứ mục đích nào''', không kèm theo bất kỳ điều kiện nào, trừ phi luật pháp yêu cầu những điều kiện đó.",
+	"wm-license-pd-author-with-author-any-purpose": "$1 cho phép tất cả mọi người được quyền sử dụng tác phẩm này '''với bất cứ mục đích nào''', không kèm theo bất kỳ điều kiện nào, trừ phi luật pháp yêu cầu những điều kiện đó.",
 	"wm-license-pd-usgov-wiki-link": "w:vi:Chính quyền Hoa Kỳ",
 	"wm-license-pd-usgov-fema-text": "Tác phẩm này là công trình của một nhân viên [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Cơ quan Quản lý Trường hợp Khẩn cấp]], được tạo ra trong quá trình thực thi công vụ. Là [[{{int:wm-license-pd-usgov-work-wiki-link}}|công trình]] của [[{{int:wm-license-pd-usgov-wiki-link}}|Chính quyền Liên bang Hoa Kỳ]], tập tin này thuộc vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''.",
 	"wm-license-pd-usgov-military-text": "Tác phẩm này là công trình của một nhân viên [[{{int:wm-license-pd-usgov-military-armed-forces-wiki-link}}|U.S. military]] or [[{{int:wm-license-pd-usgov-military-dod-wiki-link}}|Bộ Quốc phòng]], được tạo ra trong quá trình thực thi công vụ. Là [[{{int:wm-license-pd-usgov-work-wiki-link}}|công trình]] của [[{{int:wm-license-pd-usgov-wiki-link}}|Chính quyền Liên bang Hoa Kỳ]], tập tin này thuộc vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''.",
