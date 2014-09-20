@@ -684,6 +684,7 @@ $wgGrammarForms['pl'] = array(
 		'użytkownik'   => 'użytkownika',
 		'wikireporter' => 'wikireportera',
 		'wikiskryba'   => 'wikiskryby',
+		'Wikidane'     => 'Wikidanych',
 	),
 	'C.lp' => array(
 		'wikipedysta'  => 'wikipedyście',
@@ -695,6 +696,7 @@ $wgGrammarForms['pl'] = array(
 		'użytkownik'   => 'użytkownikowi',
 		'wikireporter' => 'wikireporterowi',
 		'wikiskryba'   => 'wikiskrybie',
+		'Wikidane'     => 'Wikidanym',
 	),
 	'B.lp' => array(
 		'wikipedysta'  => 'wikipedystę',
@@ -713,6 +715,7 @@ $wgGrammarForms['pl'] = array(
 		'użytkownik'   => 'użytkownikiem',
 		'wikireporter' => 'wikireporterem',
 		'wikiskryba'   => 'wikiskrybą',
+		'Wikidane'     => 'Wikidanymi',
 	),
 	'MS.lp' => array(
 		'wikipedysta'  => 'wikipedyście',
@@ -724,6 +727,7 @@ $wgGrammarForms['pl'] = array(
 		'użytkownik'   => 'użytkowniku',
 		'wikireporter' => 'wikireporterze',
 		'wikiskryba'   => 'wikiskrybie',
+		'Wikidane'     => 'Wikidanych',
 	),
 	'W.lp' => array(
 		'wikipedysta'  => 'Wikipedysto',
