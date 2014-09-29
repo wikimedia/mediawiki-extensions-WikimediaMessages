@@ -174,6 +174,8 @@
 	"wikimedia-flow-terms-of-use-close-topic": "Ao clicar em \"{{int:flow-close-topic-submit}}\", concorda com as nossas [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Condições de uso] e em, irrevogavelmente, publicar a sua contribuição sob as licenças [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] e [//pt.wikipedia.org/wiki/Wikipédia:GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reopen-topic": "Ao clicar em \"{{int:flow-reopen-topic-submit}}\", concorda com as nossas [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Condições de uso] e em, irrevogavelmente, publicar a sua contribuição sob as licenças [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] e [//pt.wikipedia.org/wiki/Wikipédia:GNU_Free_Documentation_License GFDL]",
 	"wikimedia-upload-nolicenses": "O envio de ficheiros para esta wiki não está ativo. Por favor, [[commons:Special:UploadWizard|carregue no Wikimedia Commons]].\n\nPara conseguir utilizar esta página especial, é necessário que um administrador adicione uma ou mais opções de licença na página [[MediaWiki:Licenses]].\n\nUtilize o seguinte formato: <code>* Nome da predefinição|Etiqueta</code>. Use qualquer texto para ativar o carregamento sem opções de licença.",
+	"wikimediashoplink-linktext": "Loja Wikimedia",
+	"wikimediashoplink-link-tooltip": "Visite a loja Wikimedia",
 	"interlanguage-link-mul": "Mais idiomas",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, a enciclopédia livre",
