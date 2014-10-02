@@ -13,7 +13,8 @@
 			"Nemo bis",
 			"Csega",
 			"Einstein2",
-			"Samat"
+			"Samat",
+			"Dorgan"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -141,6 +142,7 @@
 	"wikibase-sitelinks-wikivoyage": "Kapcsolt Wikivoyage-lapok",
 	"wikibase-sitelinks-commons": "Kapcsolt Wikimédia Commons-lap",
 	"wikibase-otherprojects-commons": "Wikimédia Commons",
+	"wikibase-otherprojects-wikinews": "Wikihírek",
 	"wikibase-otherprojects-wikiquote": "Wikidézet",
 	"wikibase-otherprojects-wikisource": "Wikiforrás",
 	"cant-delete-main-page": "Nem törölheted vagy nevezheted át a főoldalt.",
