@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"תומר ט"
+			"תומר ט",
+			"Guycn2"
 		]
 	},
 	"contactpage-title-requestlicense": "טופס יצירת קשר בנושא שימוש שימוש חוזר בסימנים מסחריים",
-	"contactpage-pagetext-requestlicense": "נא להשתמש בטופס להלן כדי ליצור קשר אתנו בנושא סימנים מסחריים",
+	"contactpage-pagetext-requestlicense": "נא להשתמש בטופס שלהלן כדי ליצור עמנו קשר בנושא סימנים מסחריים",
 	"contactpage-subject-requestlicense": "בקשה לשימו חוזר בסימן מסחרי של ויקימדיה",
 	"contactpage-license-request-username": "שם משתמש *",
 	"contactpage-license-request-relevantsite": "אתר ויקימדיה רלוונטי (אם יש כזה)",
@@ -28,11 +29,11 @@
 	"contactpage-wikimedia-trademark-w": "אות \"W\" מסוגננת",
 	"contactpage-wikimedia-trademark-wikimedia": "קהילת ויקימדיה",
 	"contactpage-title-licenseabuse": "טופס יצירת קשר בנושא שימוש שימוש לרעה בזכויות יוצרים",
-	"contactpage-pagetext-licenseabuse": "נא להשתמש בטופס להלן כדי ליצור קשר אתנו בנושא שימוש לרעה בזכויות יוצרים",
+	"contactpage-pagetext-licenseabuse": "נא להשתמש בטופס שלהלן כדי ליצור עמנו קשר בנושא שימוש לרעה בזכויות יוצרים",
 	"contactpage-subject-licenseabuse": "הודעה על שימוש לרעה בסימן מסחרי של ויקימדיה",
 	"contactpage-license-abuse-description": "נא לתאר את השימוש לרעה",
 	"contactpage-license-abuse-selectmark": "באיזה סימן נעשה שימוש לרעה?",
 	"contactpage-license-abuse-location": "איפה נעשה שימוש לרעה (ברשת או לא)",
 	"contactpage-license-abuse-theircontact": "מידע יצירת קשר עם האדם שעושה שימוש לרעה בסימן (אם ידוע)",
-	"contactpage-license-abuse-yourcontact": "מידע ליצירת קשר אתך (אם אנחנו יכולים ליצור אתך קשר)"
+	"contactpage-license-abuse-yourcontact": "מידע ליצירת קשר (למקרה שנצטרך ליצור איתך קשר)"
 }
