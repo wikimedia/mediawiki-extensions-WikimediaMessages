@@ -134,6 +134,7 @@
 	"group-global-ipblock-exempt": "통합 IP 차단 면제자",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|통합 IP 차단 면제자}}",
 	"grouppage-global-ipblock-exempt": "m:통합 IP 차단 면제자",
+	"group-global-renamer": "전역 계정명 변경자",
 	"group-global-rollbacker": "전역 되돌리기 기능 사용자",
 	"group-global-rollbacker-member": "{{GENDER:$1|전역 되돌리기 기능 사용자}}",
 	"group-global-sysop": "전역 관리자",
