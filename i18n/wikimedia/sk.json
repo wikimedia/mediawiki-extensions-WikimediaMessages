@@ -6,7 +6,8 @@
 			"Teslaton",
 			"Απεργός",
 			"Sudo77(new)",
-			"Nemo bis"
+			"Nemo bis",
+			"Kusavica"
 		]
 	},
 	"wikimediamessages-desc": "Správy špecifické pre Wikimedia",
@@ -93,16 +94,16 @@
 	"group-coder-member": "kóder",
 	"group-editinterface": "Editori rozhrania",
 	"group-editinterface-member": "editor rozhrania",
-	"group-Global_bot": "Globálni roboti",
-	"group-Global_bot-member": "Globálny robot",
-	"group-Global_rollback": "Globálni rollbackeri",
-	"group-Global_rollback-member": "Globálny rollbacker",
-	"group-Global_sysops": "Globálni správcovia",
-	"group-Global_sysops-member": "globálny správca",
-	"group-Ombudsmen": "Ombudsmani",
-	"group-Ombudsmen-member": "Ombudsman",
-	"group-Staff": "Zamestnanci",
-	"group-Staff-member": "zamestnanec",
+	"group-global-bot": "Globálni roboti",
+	"group-global-bot-member": "!!FUZZY!!Globálny robot",
+	"group-global-rollbacker": "Globálni rollbackeri",
+	"group-global-rollbacker-member": "!!FUZZY!!Globálny rollbacker",
+	"group-global-sysop": "Globálni správcovia",
+	"group-global-sysop-member": "!!FUZZY!!globálny správca",
+	"group-ombudsman": "Ombudsmani",
+	"group-ombudsman-member": "!!FUZZY!!Ombudsman",
+	"group-staff": "Zamestnanci",
+	"group-staff-member": "zamestnanec",
 	"group-steward": "Stewardi",
 	"group-steward-member": "Steward",
 	"group-sysadmin": "Správcovia systému",
@@ -114,5 +115,6 @@
 	"wikibase-sitelinks-wikivoyage": "Stránky Wikiciest prepojené s touto položkou",
 	"wikibase-sitelinks-commons": "Stránka Wikimedia Commons prepojená s touto položkou",
 	"createacct-helpusername-url": "{{ns:Project}}:Používateľské_meno",
-	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc"
+	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
+	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia"
 }
