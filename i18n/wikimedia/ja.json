@@ -18,7 +18,8 @@
 			"青子守歌",
 			"Rxy",
 			"Nemo bis",
-			"Yatalu"
+			"Yatalu",
+			"Los688"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -163,11 +164,14 @@
 	"group-translationadmin": "翻訳管理者",
 	"group-translationadmin-member": "{{GENDER:$1|翻訳管理者}}",
 	"grouppage-translationadmin": "{{ns:project}}:翻訳管理者",
+	"group-wmf-researcher": "WMF調査員",
+	"group-wmf-researcher-member": "{{GENDER:$1|WMF調査員}}",
 	"grouppage-wmf-researcher": "m:WMF Researcher/ja",
 	"shared-repo-name-shared": "ウィキメディア・コモンズ",
-	"wikimedia-copyright": "テキストは<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細は<a href=\"https://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84\">利用規約</a>を参照してください。",
+	"wikimedia-copyright": "テキストは<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\">クリエイティブ・コモンズ 表示-継承ライセンス</a>のもとで利用できます。追加の条件が適用される場合があります。詳細については<a href=\"https://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84\">利用規約</a>を参照してください。",
 	"wikidata-copyright": "標準名前空間と Property 名前空間にあるすべての構造化データは<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"クリエイティブ・コモンズ CC0 ライセンスの定義\">クリエイティブ・コモンズ CC0 ライセンス</a>の下で利用できます。その他の名前空間にあるテキストは<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"クリエイティブ・コモンズ 表示 - 継承 ライセンスの定義\">クリエイティブ・コモンズ 表示 - 継承 ライセンス</a>の下で利用できます。追加の条件が適用される場合があります。詳細は<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ja\" title=\"ウィキメディア財団利用規約\">利用規約</a>をご覧ください。",
 	"wikimedia-copyrightwarning": "変更内容を保存すると、あなたは[https://wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ライセンス]および [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。\nまた、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。",
+	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\" title=\"クリエイティブ・コモンズ　表示 - 継承 3.0 非移植 (CC BY-SA 3.0)\" target=\"_blank\">CC BY-SA 3.0</a>及び<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDLの定義\" target=\"_blank\">GFDL</a>",
 	"wikibase-sitelinks-wikinews": "この項目にリンクしているウィキニュースのページ",
 	"wikibase-sitelinks-wikiquote": "この項目にリンクしているウィキクォートのページ",
 	"wikibase-sitelinks-wikisource": "この項目にリンクしているウィキソースのページ",
@@ -194,14 +198,17 @@
 	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集を禁止しています。\n正当な利用者向けの情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|No open proxies]]をご覧ください。",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/ja",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]",
+	"mwoauth-grant-checkuser": "チェックユーザー・データへのアクセス",
 	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-edit": "変更内容を保存すると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-summarize": "「{{int:flow-summarize-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-close-topic": "「{{int:flow-close-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-reopen-topic": "「{{int:flow-reopen-topic-submit}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
-	"wikimediashoplink-linktext": "ウィキメディア ショップ",
-	"wikimediashoplink-link-tooltip": "ウィキメディア ショップに移動",
+	"wikimediashoplink-linktext": "ウィキメディア・ショップ",
+	"wikimediashoplink-link-tooltip": "ウィキメディア・ショップに移動",
 	"interlanguage-link-mul": "その他の言語",
-	"protect-level-superprotect": "特別保護利用者のみに許可"
+	"interlanguage-link-sitename-wikipedia": "ウィキペディア、フリー百科事典",
+	"protect-level-superprotect": "特別保護利用者のみに許可",
+	"restriction-level-superprotect": "特別保護"
 }

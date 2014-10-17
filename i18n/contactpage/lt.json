@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Garas"
+			"Garas",
+			"Hugo.arg"
 		]
 	},
-	"contactpage-license-request-username": "Naudotojo vardas *"
+	"contactpage-license-request-username": "Naudotojo vardas *",
+	"contactpage-wikimedia-trademark-commons": "Vikiteka"
 }

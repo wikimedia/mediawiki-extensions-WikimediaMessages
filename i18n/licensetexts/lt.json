@@ -4,7 +4,8 @@
 			"Eitvys200",
 			"Garas",
 			"Matasg",
-			"Multichill"
+			"Multichill",
+			"Hugo.arg"
 		]
 	},
 	"wikimedialicensetexts-desc": "Wikimedia licencijos pranešimai",
@@ -66,7 +67,7 @@
 	"wm-license-information-author": "Autorius",
 	"wm-license-information-author-missing": "Šiai rinkmenai trūksta informacijos apie '''autorių'''.",
 	"wm-license-information-permission": "Leidimas",
-	"wm-license-information-permission-reusing-text": "Šio failo naudojimas kitur",
+	"wm-license-information-permission-reusing-text": "Šios rinkmenos panaudojimas kitur",
 	"wm-license-information-permission-see-below": "Žiūrėkite žemiau.",
 	"wm-license-information-other-versions": "Kitos versijos",
 	"wm-license-lgpl-text": "Ši biblioteka yra [[{{int:wm-license-free-software-wiki-link}}|laisvoji programinė įranga]]; jūs galite ją platinti ir/ar keisti pagal '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' sąlygas, publikuotas [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; licencijos versiją 2.1 ar bet kurią vėlesnę. Ši biblioteka platinama tikint, kad ji bus naudinga, bet '''be jokios garantijos'''; netgi be numatomų '''pirkimo''' ar '''tikimo konkrečiam tikslui''' garantijų. Norėdami sužinoti daugiau, perskaitykite [{{int:wm-license-lgpl-2.1-full-link}} GNU Lesser General Public License versiją 2.1] bei [{{int:wm-license-lgpl-3-full-link}} versiją 3].",
