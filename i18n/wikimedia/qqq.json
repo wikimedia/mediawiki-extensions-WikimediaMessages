@@ -246,5 +246,8 @@
 	"interlanguage-link-sitename-citizendium": "Part of the title (tooltip) text used for a sidebar link to a relevant page on [http://en.citizendium.org Citizendium].",
 	"right-superprotect": "{{doc-right|superprotect}}\nSuper protection right given to only \"staff\".",
 	"protect-level-superprotect": "Used as protect level.",
-	"restriction-level-superprotect": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry."
+	"restriction-level-superprotect": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
+	"wikimedia-globalrenamequeue-email-body-approved": "Email body for approved request.\n\n* $1 is the old username\n* $2 is the new username.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "Email body for rejected request.\n\n* $1 is the old username.\n* $2 is the new username.\n* $3 is the message left by the user who processed the request.",
+	"wikimedia-sulrenamewarning-usenew": "Instructions to user to login with new name in the future\n\n* $1 is the user's new name"
 }

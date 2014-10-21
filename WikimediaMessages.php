@@ -125,7 +125,10 @@ function wfWikimediaMessagesMessageCacheGet( &$lcKey ) {
 	static $keys = array(
 		'createacct-helpusername',
 		'createacct-imgcaptcha-help',
+		'globalrenamequeue-email-body-approved',
+		'globalrenamequeue-email-body-rejected',
 		'sidebar',
+		'sulrenamewarning-usenew',
 	);
 
 	if ( in_array( $lcKey, $keys, true ) ) {
