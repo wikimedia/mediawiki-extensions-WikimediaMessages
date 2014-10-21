@@ -222,5 +222,8 @@
     "interlanguage-link-sitename-citizendium": "Citizendium",
     "right-superprotect": "Change super protection levels",
     "protect-level-superprotect": "Allow only superprotect users",
-    "restriction-level-superprotect": "super protect"
+    "restriction-level-superprotect": "super protect",
+    "wikimedia-globalrenamequeue-email-body-approved": "The request to rename \"$1\" to \"$2\" has been approved. Once completed, you will be able to log in using your new username with your old password. Thank you for participating on Wikimedia projects.\n\n",
+    "wikimedia-globalrenamequeue-email-body-rejected": "The request to rename \"$1\" to \"$2\" could not be completed.\n\nFor more information, please visit this help page: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. To discuss your rename request, you can post on this page: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. You must still log in to your current account name first.",
+    "wikimedia-sulrenamewarning-usenew" : "In the future, you now need to log in using your new username <strong>$1</strong>. Your new username is unique to you across every Wikimedia project, and if you are logged in to one project and visit another, your account will carry over with you. You can visit this [[:metawikimedia:Help:Unified_login|help page]] for more information about single-user login as well as frequently asked questions. If you need to update your email address or change your password in your [[Special:Preferences|preferences]], now might be a good time to do so.\n\nThank you for participating on Wikimedia projects."
 }
