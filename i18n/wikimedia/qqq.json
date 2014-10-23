@@ -33,7 +33,7 @@
 	"specialpages-group-contribution": "{{doc-special-group|that=are related to the extensions ContributionReporting and LandingCheck|like=[[Special:ContributionHistory]], [[Special:ContributionTotal]], [[Special:ContributionStatistics]], [[Special:FundraiserStatistics]], [[Special:ContributionTrackingStatistics]], [[Special:LandingCheck]]}}",
 	"robots.txt": "{{notranslate}}",
 	"nstab-creator": "Text on the tab of pages in the \"Creator\" namespace on Wikimedia Commons ([[commons:Creator:Heinrich_Hoerle|Example]])\n{{Identical|Creator}}",
-	"nstab-institution": "Text on the tab of pages in the \"Institution\" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])",
+	"nstab-institution": "Text on the tab of pages in the \"Institution\" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])\n{{Identical|Institution}}",
 	"nstab-sequence": "Text on the tab of pages in the \"Sequence\" namespace on Wikimedia Commons ([[commons:Sequence:Cats|Example]]).\n{{Identical|Sequence}}",
 	"nstab-timedtext": "Text on the tab of pages in the \"TimedText\" namespace on Wikimedia Commons ([[commons:TimedText:Edit_Button.ogv.en.srt|Example]])",
 	"group-Ex_Administrator": "{{doc-group|Ex Administrator}}",

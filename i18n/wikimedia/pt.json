@@ -180,5 +180,8 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, a enciclopédia livre",
 	"interlanguage-link-sitename-commons": "Repositório multimédia do Wikimedia Commons",
-	"interlanguage-link-sitename-dmoz": "Diretório de DMOZ"
+	"interlanguage-link-sitename-dmoz": "Diretório de DMOZ",
+	"wikimedia-globalrenamequeue-email-body-approved": "O pedido de renomeação de conta de \"$1\" para \"$2\" foi aprovado. Após estar concluído, poderá iniciar sessão com o seu novo nome de utilizador(a) e a sua palavra-passe antiga. Obrigado pela sua participação nos projetos Wikimedia.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "O pedido de renomeação de conta de \"$1\" para \"$2\" não pôde ser concluído.\n\nPara mais informação, por favor visite a seguinte página de ajuda: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Para discutir o seu pedido de renomeação, pode colocar uma mensagem nesta página: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Deverá permanecer com a sessão iniciada com o seu nome atual primeiro.",
+	"wikimedia-sulrenamewarning-usenew": "No futuro, precisará de usar o seu novo nome de conta <strong>$1</strong> para iniciar sessão. O seu novo nome de utilizador(a) é exclusivo para que possa utilizar qualquer projeto Wikimedia, e se se estiver autenticado num projeto e visitar outro, a sua conta será automaticamente assumida. Pode consultar esta [[:metawikimedia:Help:Unified_login|página de ajuda]] para mais informação sobre o início de sessão de utilizador único, bem como as perguntas mais frequentes. Se necessitar de atualizar o seu endereço de correio eletrónico ou alterar a sua palavra-chave nas suas [[Special:Preferences|preferências]], agora poderá ser uma boa altura para o fazer. \n\nObrigado pela sua participação nos projetos Wikimedia."
 }
