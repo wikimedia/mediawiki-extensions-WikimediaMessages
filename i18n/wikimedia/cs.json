@@ -200,5 +200,8 @@
 	"interlanguage-link-sitename-mul": "Mnohojazyčná verze {{grammar:2sg|{{SITENAME}}}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipedie, otevřená encyklopedie",
 	"interlanguage-link-sitename-commons": "Úložiště souborů Wikimedia Commons",
-	"interlanguage-link-sitename-dmoz": "Webový katalog DMOZ"
+	"interlanguage-link-sitename-dmoz": "Webový katalog DMOZ",
+	"wikimedia-globalrenamequeue-email-body-approved": "Požadavek na přejmenování „$1“ na „$2“ byl schválen. Jakmile bude dokončen, budete se moci přihlašovat novým uživatelským jménem a původním heslem. Děkujeme, že se zapojujete do projektů Wikimedia.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "Požadavek na přejmenování „$1“ na „$2“ nebylo možno dokončit.\n\nVíce informací najdete na stránce nápovědy: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Pokud chcete prodiskutovat svůj požadavek, můžete napsat na stránku <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Nejprve se musíte přihlásit pod svým stávajícím uživatelským jménem.",
+	"wikimedia-sulrenamewarning-usenew": "V budoucnu se budete muset přihlašovat svým novým uživatelským jménem <strong>$1</strong>. Vaše nové uživatelské jméno je jedinečné napříč všemi projekty Wikimedia a pokud jste přihlášeni na jednom projektu a navštívíte jiný, ponesete si s sebou svůj účet. Více informací o sjednoceném přihlašování a často kladené otázky najdete na [[:metawikimedia:Help:Unified_login|stránce nápovědy]]. Pokud potřebujete změnit svou e-mailovou adresu nebo heslo ve svém [[Special:Preferences|nastavení]], teď je na to správná chvíle.\n\nDěkujeme, že se zapojujete do projektů Wikimedia."
 }

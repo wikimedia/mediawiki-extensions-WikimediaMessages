@@ -209,5 +209,8 @@
 	"interlanguage-link-sitename-dmoz": "מדריך האתרים DMOZ",
 	"right-superprotect": "שינוי רמות הגנת־על",
 	"protect-level-superprotect": "לאפשר רק למגיני־על",
-	"restriction-level-superprotect": "הגנת־על"
+	"restriction-level-superprotect": "הגנת־על",
+	"wikimedia-globalrenamequeue-email-body-approved": "הבקשה לשנות את השם \"$1\" אל \"$2\" אושרה. כשהיא תושלם, תהיה לך אפשרות להיכנס באמצעות השם החדש שלך והססמה הישנה שלך. תודה על השתתפותך במיזמי ויקימדיה.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "לא היה אפשר להשלים את הבקשה לשנות את השם \"$1\" אל השם \"$2\".\n\nלמידע נוסף לא לקרוא את הדף <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. כדי לדון בבקשת שינוי השם שלך, אפשר לשלוח שאלה לדף הזה: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. חובה להיכנס לחשבון כדי לעשות את זה.",
+	"wikimedia-sulrenamewarning-usenew": "בעתיד צריך עכשיו להיכנס באמצעות שם המשתמש החדש שלך <strong>$1</strong>. שם המשתמש החדש שלך ייחודי בכל מיזמי ויקימדיה, וכניסה למיזם תכניס אותך גם לכל מיזם אחר. אפשר לבקר ב[[:metawikimedia:Help:Unified_login|דף העזרה הזה]] כדי לקבל מידע נוסף על כניסה בחשבון יחיד ולקרוא שאלות נפוצות בנושא. אם רצית לשנות כתובת דוא\"ל על ססמה ב[[Special:Preferences|העדפות]], עכשיו זה זמן טוב לעשות את זה.\n\nתודה על השתתפותך במיזמי ויקימדיה."
 }
