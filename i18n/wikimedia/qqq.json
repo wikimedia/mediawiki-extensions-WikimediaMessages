@@ -249,5 +249,6 @@
 	"restriction-level-superprotect": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Email body for approved request.\n\n* $1 is the old username\n* $2 is the new username.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Email body for rejected request.\n\n* $1 is the old username.\n* $2 is the new username.\n* $3 is the message left by the user who processed the request.",
-	"wikimedia-sulrenamewarning-usenew": "Instructions to user to login with new name in the future\n\n* $1 is the user's new name"
+	"wikimedia-sulrenamewarning-usenew": "Instructions to user to login with new name in the future\n\n* $1 is the user's new name",
+	"right-viewdeletedfile": "{{doc-right|viewdeletedfile}}\nRight equivalent to having both {{msg-mw|right-deletedhistory}} and {{msg-mw|right-deletedtext}}, but only in the file and file_talk namespaces."
 }
