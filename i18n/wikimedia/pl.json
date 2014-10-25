@@ -199,5 +199,6 @@
 	"interlanguage-link-sitename-dmoz": "Katalog stron DMOZ",
 	"right-superprotect": "Możliwość zmiany poziomów super zabezpieczenia",
 	"protect-level-superprotect": "Dostępne tylko dla użytkowników z uprawnieniem superprotect",
-	"restriction-level-superprotect": "superzabezpieczenie"
+	"restriction-level-superprotect": "superzabezpieczenie",
+	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}"
 }

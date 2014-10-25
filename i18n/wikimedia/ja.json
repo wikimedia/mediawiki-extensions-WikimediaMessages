@@ -19,7 +19,8 @@
 			"Rxy",
 			"Nemo bis",
 			"Yatalu",
-			"Los688"
+			"Los688",
+			"SkyDaisy9"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -210,5 +211,7 @@
 	"interlanguage-link-mul": "その他の言語",
 	"interlanguage-link-sitename-wikipedia": "ウィキペディア、フリー百科事典",
 	"protect-level-superprotect": "特別保護利用者のみに許可",
-	"restriction-level-superprotect": "特別保護"
+	"restriction-level-superprotect": "特別保護",
+	"wikimedia-sulrenamewarning-usenew": "これ以降はあなたは新規のユーザーネーム<strong>$1<strong>を使用してログインする必要があります。あなたの新規ユーザーネームはウィキメディアでの全てのプロジェクトにおいてあなたに固有のものであり、あなたがあるプロジェクトにログインした後にその他のプロジェクトを訪問した場合、アカウントもともに移動します。[[:m:Special:MyLanguage/Help:Unified_login|統一ログインヘルプ ページ]] には、よく寄せられる質問の一覧と同様に、シングル ユーザー ログインについてさらなる情報があります。もし、あなたが自分の[[Special:Preferences|preferences]]で、Eメールのアドレスを更新したり、パスワードを変更しなければならないとすれば、今が良い機会かもしれません。\n\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
+	"right-viewdeletedfile": "{{ns:file}}または{{ns:file_talk}} 名前空間内の、消去されたファイルやページを閲覧する"
 }

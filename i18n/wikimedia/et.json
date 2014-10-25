@@ -177,5 +177,6 @@
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, meediafailide varamu",
 	"right-superprotect": "Muuta superkaitset",
 	"protect-level-superprotect": "Luba vaid superkaitse kasutajatele",
-	"restriction-level-superprotect": "superkaitse"
+	"restriction-level-superprotect": "superkaitse",
+	"right-viewdeletedfile": "Vaadata kustutatud lehekülgi nimeruumides {{ns:file}} ja {{ns:file_talk}}"
 }

@@ -154,5 +154,6 @@
 	"cant-delete-main-page": "Nem törölheted vagy nevezheted át a főoldalt.",
 	"createacct-helpusername-url": "{{ns:Project}}:Azonosító",
 	"wikimedia-developers": "Fejlesztők",
-	"interlanguage-link-mul": "További nyelvek"
+	"interlanguage-link-mul": "További nyelvek",
+	"restriction-level-superprotect": "szupervédett"
 }
