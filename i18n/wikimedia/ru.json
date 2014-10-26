@@ -222,5 +222,6 @@
 	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ",
 	"right-superprotect": "Изменение уровней супер-защиты",
 	"protect-level-superprotect": "Разрешать только участникам с правами супер-защиты",
-	"restriction-level-superprotect": "супер-защита"
+	"restriction-level-superprotect": "супер-защита",
+	"right-viewdeletedfile": "Просматривать удалённые файлы и страницы в пространствах имён {{ns:file}} и {{ns:file_talk}}"
 }

@@ -47,7 +47,7 @@
 	"group-rollbacker": "Юхудохурш",
 	"grouppage-rollbacker": "{{ns:project}}:Юхудохурш",
 	"group-transwiki": "Викиюкъахь-импорт ерш",
-	"group-transwiki-member": "{{GENDER:$1|википедишан юкъехь-импорт ериг}}",
+	"group-transwiki-member": "{{GENDER:$1|википедийн юкъехь-импорт ериг}}",
 	"grouppage-transwiki": "{{ns:project}}:Викиюкъахь-импорт ерш",
 	"group-centralnoticeadmin": "Юкъара хаамийн куьйгалхой",
 	"group-editinterface": "Интерфейсан тадархой",
