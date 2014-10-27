@@ -61,6 +61,9 @@
 	"group-import": "ಅಯಾತಗಾರರು",
 	"group-import-member": "{{ಲಿಂಗ:$1|ಆಯಾತಗಾರ}}",
 	"grouppage-import": "{{ns:project}}:ಆಯಾತಗಾರರು",
+	"group-inactive": "ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು",
+	"group-inactive-member": "ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯ",
+	"grouppage-inactive": "{{ns:project}}:ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು",
 	"group-interface_editor": "ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
 	"group-interface_editor-member": "{{ಲಿಂಗ:$1|ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕ}}",
 	"grouppage-interface_editor": "{{ns:project}}:ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
@@ -82,13 +85,10 @@
 	"group-uploader": "ನಕಲೇರಿಕೆದಾರರು",
 	"group-uploader-member": "{{ಲಿಂಗ:$1|ನಕಲೇರಿಕೆದಾರ}}",
 	"grouppage-uploader": "{{ns:project}}:ನಕಲೇರಿಕೆದಾರರು",
-	"group-Staff": "ಸಿಬ್ಬಂದಿ",
-	"group-Staff-member": "ಸಿಬ್ಬಂದಿ",
 	"group-editinterface": "ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
 	"group-editinterface-member": "{{ಲಿಂಗ:$1|ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕ}}",
+	"group-staff": "ಸಿಬ್ಬಂದಿ",
+	"group-staff-member": "ಸಿಬ್ಬಂದಿ",
 	"group-steward": "ಕಾರಭಾರಿಗಳು",
-	"group-steward-member": "{{ಲಿಂಗ:$1|ಕಾರಭಾರಿ}}",
-	"group-inactive": "ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು",
-	"group-inactive-member": "ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯ",
-	"grouppage-inactive": "{{ns:project}}:ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು"
+	"group-steward-member": "{{ಲಿಂಗ:$1|ಕಾರಭಾರಿ}}"
 }

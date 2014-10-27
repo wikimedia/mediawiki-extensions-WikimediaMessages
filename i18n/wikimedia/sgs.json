@@ -6,8 +6,8 @@
 		]
 	},
 	"sitesupport": "Pagelba",
-	"group-Global_bot": "Gluobalūs buotā",
-	"group-Global_bot-member": "gluobalus buots",
+	"group-global-bot": "Gluobalūs buotā",
+	"group-global-bot-member": "!!FUZZY!!gluobalus buots",
 	"group-steward": "Gaspaduorē",
 	"group-sysadmin": "Sėstėmas admėnėstratuorē"
 }

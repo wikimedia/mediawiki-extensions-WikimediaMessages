@@ -23,9 +23,9 @@
 	"group-uploader": "Löpükans",
 	"group-uploader-member": "{{GENDER:$1|löpükan}}",
 	"grouppage-uploader": "{{ns:project}}:Löpükans",
-	"group-Global_bot-member": "{{GENDER:$1|bot valöpik}}",
-	"group-sysadmin": "Sitiguvans",
-	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
 	"group-coder": "Kotans",
-	"group-coder-member": "{{GENDER:$1|kotan}}"
+	"group-coder-member": "{{GENDER:$1|kotan}}",
+	"group-global-bot-member": "{{GENDER:$1|bot valöpik}}",
+	"group-sysadmin": "Sitiguvans",
+	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}"
 }

@@ -119,7 +119,7 @@
 	"group-recursive-export": "ବାରମ୍ବାର ରପ୍ତାନି",
 	"group-recursive-export-member": "{{GENDER:$1|ବାରମ୍ବାର ରପ୍ତାନି କର୍ତ୍ତା}}",
 	"group-staff": "କର୍ମଚାରି",
-	"group-staff-member": "{{GENDER:$1|staff member}}",
+	"group-staff-member": "କର୍ମଚାରି",
 	"group-steward": "ଷ୍ଟିୱାର୍ର୍ଡ଼ଗଣ",
 	"group-steward-member": "{{GENDER:$1|ଷ୍ଟିୱାର୍ଡ}}",
 	"group-sysadmin": "ସିଷ୍ଟମ ପରିଚାଳକ",
