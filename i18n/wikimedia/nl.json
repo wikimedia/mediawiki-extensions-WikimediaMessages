@@ -114,6 +114,8 @@
 	"group-uploader": "uploaders",
 	"group-uploader-member": "{{GENDER:$1|uploader}}",
 	"grouppage-uploader": "{{ns:project}}:Uploaders",
+	"group-wikidata-staff": "Wikidata-personeel",
+	"group-wikidata-staff-member": "{{GENDER:$1|Wikidata-personeelslid}}",
 	"group-apihighlimits-requestor": "aanvragers voor hoge API-limieten",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|aanvrager voor hoge API-limiet}}",
 	"group-captcha-exempt": "CAPTCHA-vrijgestelden",
