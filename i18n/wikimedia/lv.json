@@ -42,6 +42,8 @@
 	"group-transwiki": "Transviki importētāji",
 	"group-trusted": "Uzticamie lietotāji",
 	"group-uploader": "Augšupielādētāji",
+	"group-wikidata-staff": "Wikidata darbinieki",
+	"grouppage-wikidata-staff": "{{ns:project}}:Administratori",
 	"group-coder": "Kodētāji",
 	"group-global-bot": "Globālie boti",
 	"group-staff": "Personāls",
