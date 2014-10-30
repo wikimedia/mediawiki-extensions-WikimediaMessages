@@ -35,7 +35,8 @@
 			"לערי ריינהארט",
 			"John Trololo",
 			"Wyz",
-			"Mattho69"
+			"Mattho69",
+			"Windes"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -136,6 +137,7 @@
 	"group-uploader": "Téléverseurs",
 	"group-uploader-member": "{{GENDER:$1|téléchargeur}}",
 	"grouppage-uploader": "{{ns:project}}:Téléverseurs",
+	"grouppage-wikidata-staff": "{{ns:project}}:Administrateurs",
 	"group-apihighlimits-requestor": "Demandeurs de limite supérieure de l'API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|demandeur de limite supérieure de l'API}}",
 	"grouppage-apihighlimits-requestor": "m:Special:MyLanguage/API high limit requestors",

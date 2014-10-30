@@ -116,6 +116,7 @@
 	"group-uploader": "Carregadores",
 	"group-uploader-member": "{{GENDER:$1|carregador|carregadora}}",
 	"grouppage-uploader": "{{ns:project}}:Carregadores",
+	"grouppage-wikidata-staff": "{{ns:project}}:Administradores",
 	"group-centralnoticeadmin": "Administradores de avisos centrais",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|administrador|administradora}} de avisos centrais",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administradores de avisos centrais",
