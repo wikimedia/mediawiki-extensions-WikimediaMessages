@@ -103,7 +103,7 @@
 	"grouppage-transwiki": "{{ns:project}}:Wikiközi importálók",
 	"group-templateeditor": "sablonszerkesztők",
 	"group-templateeditor-member": "{{GENDER:$1|sablonszerkesztő}}",
-	"grouppage-templateeditor": "{{ns:project}}:Munkatársak",
+	"grouppage-templateeditor": "{{ns:project}}:Sablonszerkesztők",
 	"group-trusted": "megerősített szerkesztők",
 	"group-trusted-member": "megbízható felhasználó",
 	"grouppage-trusted": "{{ns:project}}:megbízható felhasználók",
