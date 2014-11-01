@@ -115,7 +115,7 @@
 	"grouppage-uploader": "{{ns:project}}:מעלה",
 	"group-wikidata-staff": "סגל ויקינתונים",
 	"group-wikidata-staff-member": "{{GENDER:$1|איש|אשת}} סגל ויקינתונים",
-	"grouppage-wikidata-staff": "{{ns:project}}:מנהלים",
+	"grouppage-wikidata-staff": "{{ns:project}}:חברי סגל ויקינתונים",
 	"group-apihighlimits-requestor": "שולחי בקשות API עם מגבלה גבוהה",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|שולח|שולחת}} בקשות API עם מגבלה גבוהה",
 	"group-captcha-exempt": "פטורים מ־CAPTCHA",

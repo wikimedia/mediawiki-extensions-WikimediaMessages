@@ -105,7 +105,7 @@
 	"grouppage-uploader": "{{ns:project}}:Pemuat naik",
 	"group-wikidata-staff": "Kakitangan Wikidata",
 	"group-wikidata-staff-member": "{{GENDER:$1|Kakitangan Wikidata}}",
-	"grouppage-wikidata-staff": "{{ns:project}}:Penyelia",
+	"grouppage-wikidata-staff": "{{ns:project}}:Ahli kakitangan Wikidata",
 	"group-apihighlimits-requestor": "Pemohon had tinggi API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|pemohon had tinggi API}}",
 	"grouppage-apihighlimits-requestor": "m:API high limit requestors",

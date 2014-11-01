@@ -108,7 +108,7 @@
 	"grouppage-uploader": "{{ns:project}}:Подигнувачи",
 	"group-wikidata-staff": "Персонал на Википодатоците",
 	"group-wikidata-staff-member": "{{GENDER:$1|Персонал на Википодатоците}}",
-	"grouppage-wikidata-staff": "{{ns:project}}:Администратори",
+	"grouppage-wikidata-staff": "{{ns:project}}:Персонал на Википодатоците",
 	"group-apihighlimits-requestor": "Баратели на горни граници на API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|барател на горна граница на API}}",
 	"grouppage-apihighlimits-requestor": "m:API high limit requestors",
