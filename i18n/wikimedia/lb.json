@@ -103,7 +103,7 @@
 	"grouppage-uploader": "{{ns:project}}:Eroplueder",
 	"group-wikidata-staff": "Wikidata-Mataarbechter",
 	"group-wikidata-staff-member": "{{GENDER:$1|Wikidata-Matarbechter|Wikidata-Mataarbechterin}}",
-	"grouppage-wikidata-staff": "{{ns:project}}:Administrateuren",
+	"grouppage-wikidata-staff": "{{ns:project}}:Wikidata Membere vum Personal",
 	"group-captcha-exempt": "Ausnahme fir CAPTCHA",
 	"group-captcha-exempt-member": "{{GENDER:$1|ouni CAPTCHA}}",
 	"group-coder": "Programméierer",

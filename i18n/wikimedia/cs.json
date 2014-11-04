@@ -112,7 +112,9 @@
 	"group-uploader": "Načítači souborů",
 	"group-uploader-member": "{{GENDER:$1|načítač|načítačka}} souborů",
 	"grouppage-uploader": "{{ns:project}}:Načítači souborů",
-	"grouppage-wikidata-staff": "{{ns:project}}:Správci",
+	"group-wikidata-staff": "Zaměstnanci Wikidat",
+	"group-wikidata-staff-member": "{{GENDER:$1|Zaměstnanec|Zaměstnankyně}} Wikidat",
+	"grouppage-wikidata-staff": "{{ns:project}}:Zaměstnanci Wikidat",
 	"group-apihighlimits-requestor": "Žadatelé s vyšším limitem na API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|žadatel|žadatelka}} s vyšším limitem na API",
 	"group-captcha-exempt": "Nepodléhající CAPTCHA",
@@ -204,6 +206,6 @@
 	"interlanguage-link-sitename-dmoz": "Webový katalog DMOZ",
 	"wikimedia-globalrenamequeue-email-body-approved": "Požadavek na přejmenování „$1“ na „$2“ byl schválen. Jakmile bude dokončen, budete se moci přihlašovat novým uživatelským jménem a původním heslem. Děkujeme, že se zapojujete do projektů Wikimedia.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Požadavek na přejmenování „$1“ na „$2“ nebylo možno dokončit.\n\nVíce informací najdete na stránce nápovědy: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Pokud chcete prodiskutovat svůj požadavek, můžete napsat na stránku <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Nejprve se musíte přihlásit pod svým stávajícím uživatelským jménem.",
-	"wikimedia-sulrenamewarning-usenew": "Odteď se budete muset přihlašovat svým novým uživatelským jménem <strong>$1</strong>. Vaše nové uživatelské jméno je napříč všemi projekty Wikimedia jedinečné, a pokud jste přihlášeni na jednom projektu a navštívíte jiný, ponesete si svůj účet s sebou. Více informací o sjednoceném přihlašování a často kladené otázky najdete na [[:m:Special:MyLanguage/Help:Unified login|stránce nápovědy]]. Pokud potřebujete změnit svou e-mailovou adresu nebo heslo ve svém [[Special:Preferences|nastavení]], teď je na to správná chvíle.\n\nDěkujeme, že se zapojujete do projektů Wikimedia.",
+	"wikimedia-sulrenamewarning-usenew": "Odteď se budete muset přihlašovat svým novým uživatelským jménem <strong>$1</strong>. Vaše nové uživatelské jméno je napříč všemi projekty Wikimedia jedinečné, a pokud jste přihlášeni na jednom projektu a navštívíte jiný, ponesete si svůj účet s sebou. Více informací o sjednoceném přihlašování a často kladené otázky najdete na [[:m:Special:MyLanguage/Help:Unified_login|stránce nápovědy]]. Pokud potřebujete změnit svou e-mailovou adresu nebo heslo ve svém [[Special:Preferences|nastavení]], teď je na to správná chvíle.\n\nDěkujeme, že se zapojujete do projektů Wikimedia.",
 	"right-viewdeletedfile": "Prohlížení smazaných souborů a stránek ve jmenných prostorech {{ns:file}} a {{ns:file_talk}}"
 }
