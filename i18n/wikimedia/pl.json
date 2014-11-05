@@ -116,6 +116,8 @@
 	"group-uploader": "Przesyłający pliki",
 	"group-uploader-member": "{{GENDER:$1|przesyłający pliki|przesyłająca pliki}}",
 	"grouppage-uploader": "{{ns:project}}:Przesyłający pliki",
+	"group-wikidata-staff": "Pracownicy Wikidanych",
+	"group-wikidata-staff-member": "{{GENDER:$1|pracownik|pracowniczka}} Wikidanych",
 	"grouppage-wikidata-staff": "{{ns:project}}:Administratorzy",
 	"group-apihighlimits-requestor": "Użytkownicy z wysokimi limitami na żądania API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Użytkownik|Użytkowniczka}} z wysokimi limitami na żądania API",

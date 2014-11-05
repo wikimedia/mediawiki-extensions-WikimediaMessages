@@ -117,7 +117,7 @@
 	"group-uploader-member": "{{GENDER:$1|アップロード権限保持者}}",
 	"grouppage-uploader": "{{ns:project}}:アップロード権限保持者",
 	"group-wikidata-staff": "ウィキデータスタッフ",
-	"group-wikidata-staff-member": " {{GENDER:$1|ウィキデータスタッフ}}",
+	"group-wikidata-staff-member": "{{GENDER:$1|ウィキデータスタッフ}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:ウィキデータスタッフ",
 	"group-apihighlimits-requestor": "API高頻度使用者",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|API高頻度使用者}}",

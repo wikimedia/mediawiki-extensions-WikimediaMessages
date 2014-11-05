@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Pyt",
-			"Snakesteuben"
+			"Snakesteuben",
+			"Robin0van0der0vliet"
 		]
 	},
 	"sitesupport": "Donaasjes",
-	"tooltip-n-sitesupport": "Stypje ús"
+	"tooltip-n-sitesupport": "Stypje ús",
+	"wikibase-otherprojects-wikipedia": "Wikipedy",
+	"wikibase-otherprojects-wikisource": "Wikiboarne",
+	"interlanguage-link-wikipedia": "Wikipedy"
 }
