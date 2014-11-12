@@ -217,6 +217,6 @@
 	"restriction-level-superprotect": "特別保護",
 	"wikimedia-globalrenamequeue-email-body-approved": "利用者名\"$1\" を\"$2\" へ変更する要求が承認されました。一旦完了すると, 新しい利用者名と旧来のパスワードでログインすることができます。ウィキメディア・プロジェクトに参加していただきありがとうございます。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "利用者名\"$1\" から\"$2\" への変更を完了できませんでした。詳細については以下のヘルプページをご覧ください。：<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. <br />\n利用者名変更の要望について議論をする場合にはこちらのページにご投稿いただけます。: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. <br />\nまず、現在のあなたのアカウント名にログインしていなければなりません。",
-	"wikimedia-sulrenamewarning-usenew": "これ以降はあなたは新規の利用者名<strong>$1</strong>を使用してログインする必要があります。新規利用者名はウィキメディアでの全てのプロジェクトにおいてあなたに固有のものであり、あなたがあるプロジェクトにログインした後にその他のプロジェクトを訪問した場合、アカウントもともに移動します。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]には、よく寄せられる質問の一覧と同様に、シングルユーザー・ログインについてさらなる情報があります。もし、あなたが自分の[[Special:Preferences|個人設定]]で、Eメールのアドレスを更新したり、パスワードを変更しなければならないとすれば、今が良い機会かもしれません。\n\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
+	"wikimedia-sulrenamewarning-usenew": "これ以降はあなたは新規の利用者名<strong>$1</strong>を使用してログインする必要があります。新規利用者名はウィキメディアでの全てのプロジェクトにおいてあなたに固有のものであり、あるプロジェクトにログインした後にその他のプロジェクトを訪問した場合、アカウントもともに移動します。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]には、よく寄せられる質問の一覧と同様に、シングルユーザー・ログインについてさらなる情報があります。もし自分の[[Special:Preferences|個人設定]]でメールのアドレスを更新したりパスワードを変更しなければならないとすれば、今が良い機会かもしれません。\n\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
 	"right-viewdeletedfile": "名前空間 {{ns:file}} 及び{{ns:file_talk}} の中の削除されたファイルやページを閲覧することができる。"
 }
