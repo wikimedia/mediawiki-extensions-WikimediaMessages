@@ -24,7 +24,8 @@
 			"TarzanASG",
 			"Александр Сигачёв",
 			"Nemo bis",
-			"TTO"
+			"TTO",
+			"NBS"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -159,7 +160,7 @@
 	"group-ombudsman-member": "{{GENDER:$1|омбудсмен}}",
 	"grouppage-ombudsman": "m:Ombudsman commission",
 	"group-recursive-export": "Рекурсивный экспорт",
-	"group-recursive-export-member": "Рекурсивно экспортирующ{{GENDER:$1|ий|ая}}",
+	"group-recursive-export-member": "рекурсивно экспортирующ{{GENDER:$1|ий|ая}}",
 	"group-staff": "Сотрудники",
 	"group-staff-member": "сотрудник",
 	"group-steward": "Стюарды",
@@ -220,8 +221,8 @@
 	"interlanguage-link-sitename-wikipedia": "Википедия, свободная энциклопедия",
 	"interlanguage-link-sitename-commons": "Викисклад, хранилище медиафайлов",
 	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ",
-	"right-superprotect": "Изменение уровней супер-защиты",
+	"right-superprotect": "изменение уровней суперзащиты",
 	"protect-level-superprotect": "Разрешать только участникам с правами супер-защиты",
 	"restriction-level-superprotect": "супер-защита",
-	"right-viewdeletedfile": "Просматривать удалённые файлы и страницы в пространствах имён {{ns:file}} и {{ns:file_talk}}"
+	"right-viewdeletedfile": "просмотр удалённых файлов и страниц в пространствах имён {{ns:file}} и {{ns:file_talk}}"
 }

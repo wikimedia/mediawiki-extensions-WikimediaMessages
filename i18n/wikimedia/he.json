@@ -216,5 +216,6 @@
 	"wikimedia-globalrenamequeue-email-body-approved": "הבקשה לשנות את השם \"$1\" אל \"$2\" אושרה. כשהיא תושלם, תהיה לך אפשרות להיכנס באמצעות השם החדש שלך והססמה הישנה שלך. תודה על השתתפותך במיזמי ויקימדיה.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "לא היה אפשר להשלים את הבקשה לשנות את השם \"$1\" אל השם \"$2\".\n\nלמידע נוסף לא לקרוא את הדף <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. כדי לדון בבקשת שינוי השם שלך, אפשר לשלוח שאלה לדף הזה: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. חובה להיכנס לחשבון כדי לעשות את זה.",
 	"wikimedia-sulrenamewarning-usenew": "מעכשיו עליך להיכנס באמצעות שם המשתמש החדש שלך <strong>$1</strong>. שם המשתמש החדש שלך ייחודי בכל מיזמי ויקימדיה, וכניסה למיזם תכניס אותך גם לכל מיזם אחר. ב[[:m:Special:MyLanguage/Help:Unified_login|דף העזרה על כניסה מאוחדת]] יש מידע נוסף על כניסה בחשבון יחיד וגם שאלות נפוצות בנושא. אם רצית לשנות כתובת דוא\"ל או ססמה ב[[Special:Preferences|העדפות]], עכשיו זה זמן טוב לעשות את זה.\n\nתודה על השתתפותך במיזמי ויקימדיה.",
-	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם {{ns:file}} ו{{GRAMMAR:תחילית|{{ns:file_talk}}}}"
+	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם {{ns:file}} ו{{GRAMMAR:תחילית|{{ns:file_talk}}}}",
+	"securepoll-dblist-securepollglobal": "בחירת ועד"
 }

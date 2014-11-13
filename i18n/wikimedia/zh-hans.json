@@ -239,5 +239,6 @@
 	"wikimedia-globalrenamequeue-email-body-approved": "重命名“$1”至“$2”的申请已通过。一旦完成，您将使用您的新用户名和旧有密码登录。感谢您参与维基媒体项目。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "重命名“$1”至“$2”的申请无法完成。\n\n更多信息请参见此帮助页面：<https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Unified_login#Frequently_asked_questions>。要讨论您的重命名申请，您可以在此页面提出：<https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>。您必须首先使用您现有的账户名登录。",
 	"wikimedia-sulrenamewarning-usenew": "现在起，您需要使用您的新用户名<strong>$1</strong>登录。您的新用户名是全维基媒体项目中独一无二的，并且如果您登录一个项目并访问其他项目，您的账户将继续存在。[[:m:Special:MyLanguage/Help:Unified_login|此帮助页面]]有更多关于单一用户登录的信息，这就好比常见问题列表一样。如果您需要在您的[[Special:Preferences|用户设置]]中更改您的电子邮件地址或您的密码，现在就是最佳时机。\n\n感谢您参与维基媒体项目。",
-	"right-viewdeletedfile": "查看{{ns:file}}和{{ns:file_talk}}名字空间中被删除的文件和页面"
+	"right-viewdeletedfile": "查看{{ns:file}}和{{ns:file_talk}}名字空间中被删除的文件和页面",
+	"securepoll-dblist-securepollglobal": "董事会选举"
 }

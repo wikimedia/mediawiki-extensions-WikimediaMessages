@@ -14,7 +14,8 @@
 			"Platonides",
 			"Sanbec",
 			"Translationista",
-			"Amitie 10g"
+			"Amitie 10g",
+			"Macofe"
 		]
 	},
 	"wikimedialicensetexts-desc": "Mensajes de licencia de Wikimedia",
@@ -58,7 +59,7 @@
 	"wm-license-creator-work-period": "Período de trabajo",
 	"wm-license-creator-work-location": "Lugares de trabajo",
 	"wm-license-creator-linkback": "Retroenlace a la plantilla de Ficha de Creador",
-	"wm-license-fal-text": "Copyleft: esta obra de arte es libre; puedes redistribuírla y modificarla de acuerdo con los términos de la '''[[{{int:wm-license-fal-wiki-link}}|licencia de arte libre]]'''. Encontrarás un ejemplar de esta licencia en la [{{int:wm-license-fal-full-link}} página del Copyleft Attitude], así como también en otras páginas.",
+	"wm-license-fal-text": "Copyleft: esta obra de arte es libre; puedes redistribuírla y/o modificarla de acuerdo con los términos de la '''[[{{int:wm-license-fal-wiki-link}}|licencia de arte libre]]'''. Encontrarás un ejemplar de esta licencia en la [{{int:wm-license-fal-full-link}} página de Copyleft Attitude], así como también [{{int:wm-license-fal-full-link-commons}} en otros sitios].",
 	"wm-license-fal-full-link": "http://artlibre.org/lal/es",
 	"wm-license-fsf-wiki-link": "w:es:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:es:Software libre",
