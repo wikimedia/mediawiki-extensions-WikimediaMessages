@@ -121,6 +121,9 @@
 	"group-uploader": "Uppladdare",
 	"group-uploader-member": "{{GENDER:$1|uppladdare}}",
 	"grouppage-uploader": "{{ns:project}}:Uppladdare",
+	"group-wikidata-staff": "Wikidatapersonal",
+	"group-wikidata-staff-member": "{{GENDER:$1|Wikidatapersonal}}",
+	"grouppage-wikidata-staff": "{{ns:project}}:Wikidatapersonalmedlemmar",
 	"group-apihighlimits-requestor": "API hög gräns begärare",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|API hög gräns begärare}}",
 	"group-captcha-exempt": "CAPTCHA-undantag",
@@ -212,5 +215,7 @@
 	"restriction-level-superprotect": "superskydd",
 	"wikimedia-globalrenamequeue-email-body-approved": "Begäran om att byta namn på \"$1\" till \"$2\" har godkänts. När det är färdigt, kommer du att kunna logga in med ditt nya användarnamn med ditt gamla lösenord. Tack för du deltar på Wikimedia-projekt.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Begäran om att byta namn på \"$1\" till \"$2\" kunde inte slutföras.\n\nFör mer information, besök <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. För att diskutera din namnbytesförfrågan kan du skriva ett inlägg på denna sida: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Du måste fortfarande logga in med ditt nuvarande användarnamn först.",
-	"wikimedia-sulrenamewarning-usenew": "Från och med nu, måste du nu logga in med ditt nya användarnamn <strong>$1</strong>. Ditt nya användarnamn är unik för dig över alla Wikimedia-projekt, och om du är inloggad på ett projekt och besöker ett annat kommer ditt konto att följa med dig. [[:m:Special:MyLanguage/Help:Unified_login|Hjälpsida för enhetlig inloggning]] har mer information om ett-användarnamn-inloggning, samt en lista över vanligt förekommande frågor.\nOm du behöver uppdatera din e-postadress eller ändra ditt lösenord i dina [[Special:Preferences|inställningar]], kan detta vara ett bra tillfälle att göra det..\n\nTack för att du deltar på Wikimedia-projekten."
+	"wikimedia-sulrenamewarning-usenew": "Från och med nu, måste du nu logga in med ditt nya användarnamn <strong>$1</strong>. Ditt nya användarnamn är unik för dig över alla Wikimedia-projekt, och om du är inloggad på ett projekt och besöker ett annat kommer ditt konto att följa med dig. [[:m:Special:MyLanguage/Help:Unified_login|Hjälpsida för enhetlig inloggning]] har mer information om ett-användarnamn-inloggning, samt en lista över vanligt förekommande frågor.\nOm du behöver uppdatera din e-postadress eller ändra ditt lösenord i dina [[Special:Preferences|inställningar]], kan detta vara ett bra tillfälle att göra det..\n\nTack för att du deltar på Wikimedia-projekten.",
+	"right-viewdeletedfile": "Visa filer och sidor i namnrymderna {{ns:file}} och {{ns:file_talk}} som är raderade",
+	"securepoll-dblist-securepollglobal": "Styrelseval"
 }
