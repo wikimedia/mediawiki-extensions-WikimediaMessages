@@ -5,7 +5,7 @@
         ]
     },
     "contactpage-title-requestlicense": "Trademark reuse contact form",
-    "contactpage-pagetext-requestlicense": "Please use the form below to contact us about Trademark",
+    "contactpage-pagetext-requestlicense": "Please use the form below to contact us about using a Wikimedia trademark.",
     "contactpage-subject-requestlicense": "Request to use a Wikimedia trademark",
     "contactpage-license-request-username": "Username *",
     "contactpage-license-request-relevantsite": "Relevant Wikimedia site (if any)",
@@ -40,7 +40,7 @@
     "contactpage-wikimedia-trademark-wiktionary": "Wiktionary",
     "contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage",
     "contactpage-title-licenseabuse": "Copyright abuse contact form",
-    "contactpage-pagetext-licenseabuse": "Please use the form below to contact us about copyright abuse",
+    "contactpage-pagetext-licenseabuse": "Please use the form below to contact us about someone you suspect is abuse or misusing a Wikimedia trademark.",
     "contactpage-subject-licenseabuse": "Wikimedia trademark abuse notification",
     "contactpage-license-abuse-description": "Describe the abuse",
     "contactpage-license-abuse-selectmark": "Which mark is abused?",
