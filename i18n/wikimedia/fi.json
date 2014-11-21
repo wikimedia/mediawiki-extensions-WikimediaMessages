@@ -167,7 +167,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Pyydä tunnusta",
 	"wikimedia-developers": "Kehittäjät",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/fi",
-	"mwoauth-grant-checkuser": "Pääsy osoitepaljastintietoihin",
+	"mwoauth-grant-checkuser": "Pääse käsiksi osoitepaljastintietoihin",
 	"wikimediashoplink-linktext": "Wikimedia-kauppa",
 	"wikimediashoplink-link-tooltip": "Vieraile Wikimedia-kaupassa",
 	"interlanguage-link-mul": "Lisää kieliä",

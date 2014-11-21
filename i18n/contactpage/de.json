@@ -5,7 +5,7 @@
 		]
 	},
 	"contactpage-title-requestlicense": "Kontaktformular für Markenweiterverwendung",
-	"contactpage-pagetext-requestlicense": "Bitte benutze das unten stehende Formular, um uns bei Markenangelegenheiten zu kontaktieren.",
+	"contactpage-pagetext-requestlicense": "Bitte benutze das unten stehende Formular, um uns über die Verwendung einer Wikimedia-Marke zu kontaktieren.",
 	"contactpage-subject-requestlicense": "Anfrage für die Verwendung einer Wikimedia-Marke",
 	"contactpage-license-request-username": "Benutzername *",
 	"contactpage-license-request-relevantsite": "Relevante Wikimedia-Website (falls vorhanden)",
@@ -27,7 +27,7 @@
 	"contactpage-wikimedia-trademark-w": "Stilisiertes „W“",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia-Gemeinschaft",
 	"contactpage-title-licenseabuse": "Kontaktformular für Urheberrechtsmissbrauch",
-	"contactpage-pagetext-licenseabuse": "Bitte benutze das unten stehende Formular, um uns bei Angelegenheiten über Urheberrechtsmissbrauch zu kontaktieren.",
+	"contactpage-pagetext-licenseabuse": "Bitte benutze das unten stehende Formular, um uns über jemanden zu kontaktieren, der verdächtigt wird, eine Wikimedia-Marke zu missbrauchen.",
 	"contactpage-subject-licenseabuse": "Missbrauchsbenachrichtigung für Wikimedia-Marken",
 	"contactpage-license-abuse-description": "Den Missbrauch beschreiben",
 	"contactpage-license-abuse-selectmark": "Welche Marke wurde missbraucht?",

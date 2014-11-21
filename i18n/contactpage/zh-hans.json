@@ -6,7 +6,7 @@
 		]
 	},
 	"contactpage-title-requestlicense": "商标再利用联系表单",
-	"contactpage-pagetext-requestlicense": "请使用下面的表单与我们联系关于商标的事情",
+	"contactpage-pagetext-requestlicense": "请使用下面的表单与我们联系关于使用维基媒体商标的相关事宜。",
 	"contactpage-subject-requestlicense": "申请使用维基媒体商标",
 	"contactpage-license-request-username": "用户名*",
 	"contactpage-license-request-relevantsite": "相关维基媒体网站（如果有）",
@@ -41,7 +41,7 @@
 	"contactpage-wikimedia-trademark-wiktionary": "维基词典",
 	"contactpage-wikimedia-trademark-wikivoyage": "维基导游",
 	"contactpage-title-licenseabuse": "版权滥用联系表单",
-	"contactpage-pagetext-licenseabuse": "请使用下面的表单与我们联系关于商标滥用的事情",
+	"contactpage-pagetext-licenseabuse": "请使用下面的表单与我们联系关于您怀疑滥用或误用维基媒体商标的相关事宜。",
 	"contactpage-subject-licenseabuse": "维基媒体商标滥用通知",
 	"contactpage-license-abuse-description": "描述滥用",
 	"contactpage-license-abuse-selectmark": "哪些标志被滥用？",
