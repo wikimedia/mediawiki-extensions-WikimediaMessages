@@ -84,7 +84,7 @@
 	"wm-license-original-upload-log": "Orginal opplastningslogg",
 	"wm-license-own-work": "Eget verk",
 	"wm-license-pd-author-self-text": "Jeg, opphavsrettensholderen til dette verket, frigir dette verket til '''[[{{int:wm-license-pd-wiki-link}}|allmennheten]]'''. Dette gjelder på verdensbasis.",
-	"wm-license-pd-author-with-author-text": "Dette verket har blitt frigitt til '''[[{{int:wm-license-pd-wiki-link}}|allmennheten]]''' av dets forfatter '''$1'''. Dette gjelder på verdensbasis.",
+	"wm-license-pd-author-with-author-text": "Dette verket har blitt frigitt til '''[[{{int:wm-license-pd-wiki-link}}|allmennheten]]''' av opphavspersonen '''$1'''. Dette gjelder på verdensbasis.",
 	"wm-license-pd-author-not-legally-possible": "I enkelte land kan dette være juridisk umulig. I så fall:",
 	"wm-license-pd-author-self-any-purpose": "Jeg gir hvem som helst retten til å bruke dette verket '''for ethvert formål''', uten noen vilkår, med mindre slike vilkår kreves ved lov.",
 	"wm-license-pd-author-with-author-any-purpose": "$1 gir hvem som helst retten til å bruke dette verket '''for ethvert formål''', uten noen vilkår, med mindre slike vilkår kreves ved lov.",
