@@ -8,7 +8,7 @@
 		]
 	},
 	"contactpage-title-requestlicense": "Kontaktformulär för varumärkesanvändning",
-	"contactpage-pagetext-requestlicense": "Vänligen använd formuläret nedan för att kontakta oss om Varumärkesrelaterade saker",
+	"contactpage-pagetext-requestlicense": "Vänligen använd formuläret nedan för att kontakta oss för användning av ett Wikimedia-varumärke.",
 	"contactpage-subject-requestlicense": "Begäran om att använda ett Wikimedia-varumärke",
 	"contactpage-license-request-username": "Användarnamn *",
 	"contactpage-license-request-relevantsite": "Relevant Wikimedia-webbplats (om det finns någon)",
@@ -30,7 +30,7 @@
 	"contactpage-wikimedia-trademark-w": "Stiliserat \"W\"",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimediagemenskap",
 	"contactpage-title-licenseabuse": "Kontaktformulär för upphovsrättsmissbruk",
-	"contactpage-pagetext-licenseabuse": "Var god använd formuläret nedan för att kontakta oss om upphovsrättsliga missbruk",
+	"contactpage-pagetext-licenseabuse": "Var god använd formuläret nedan för att kontakta oss om någon du misstänker missbrukar ett Wikimedia-varumärke eller använder det felaktigt.",
 	"contactpage-subject-licenseabuse": "Anmälan vid missbruk av Wikimedias varumärke",
 	"contactpage-license-abuse-description": "Beskriv missbruket",
 	"contactpage-license-abuse-selectmark": "Vilket varumärke missbrukas?",
