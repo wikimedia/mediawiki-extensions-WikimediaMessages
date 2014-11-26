@@ -137,7 +137,7 @@
 	"wikimedia-copyrightwarning": "Кликом на дугме „{{int:savearticle}}“, прихватате <span class=plainlinks>[https://wikimediafoundation.org/wiki/Terms_of_Use услове коришћења]</span> и неопозиво се слажете да објавите своје доприносе под условима лиценце <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> и <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.\nСлажете се да навођење хипервеза или адреса представља довољно одавање заслуга под лиценцом Кријејтив комонс.",
 	"wikibase-repo-name": "Википодаци",
 	"cant-delete-main-page": "Не можете обрисати или преместити главну страну.",
-	"extdist-branch-REL1_23": "1.23 (најновија стабилна верзија Медијавикија)",
+	"extdist-branch-REL1_24": "1.24 (најновија стабилна верзија Медијавикија)",
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-developers": "За програмере",

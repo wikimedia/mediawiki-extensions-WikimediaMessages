@@ -134,7 +134,7 @@
 	"wikimedia-copyrightwarning": "Klikom na dugme „{{int:Savearticle/sr-el}}“, prihvatate <span class=plainlinks>[https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use  uslove korišćenja]</span> i neopozivo se slažete da objavite svoje doprinose pod uslovima licence <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_слободне_лиценце_Ауторство-Делити_под_истим_условима_3.0_Unported_(CC_BY-SA_3.0) CC BY-SA 3.0]</span> i <span class=plainlinks>[https://sr.wikipedia.org/wiki/Википедија:Текст_ГНУ-ове_лиценце_за_слободну_документацију GFDL]</span>.\nSlažete se da navođenje hiperveza ili adresa predstavlja dovoljno odavanje zasluga pod licencom Krijejtiv komons.",
 	"wikibase-repo-name": "Vikipodaci",
 	"cant-delete-main-page": "Ne možete obrisati ili premestiti glavnu stranu.",
-	"extdist-branch-REL1_23": "1.23 (najnovija stabilna verzija Medijavikija)",
+	"extdist-branch-REL1_24": "1.24 (najnovija stabilna verzija Medijavikija)",
 	"wikimedia-developers": "Za programere",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Politika privatnosti]",
 	"restriction-level-superprotect": "super zaštita"
