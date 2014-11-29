@@ -3,11 +3,12 @@
 		"authors": [
 			"Hym411",
 			"아라",
-			"Revi"
+			"Revi",
+			"Kwj2772"
 		]
 	},
 	"contactpage-title-requestlicense": "상표 재사용 연락 양식",
-	"contactpage-pagetext-requestlicense": "아래의 양식을 사용하여 상표와 관련된 일에 대해 연락하세요",
+	"contactpage-pagetext-requestlicense": "위키미디어 상표권을 이용하는 것에 관해 우리에게 문의하려면 아래의 양식을 이용하십시오.",
 	"contactpage-subject-requestlicense": "위키미디어 상표 사용 요청",
 	"contactpage-license-request-username": "사용자 이름 *",
 	"contactpage-license-request-relevantsite": "관련된 위키미디어 사이트 (해당되는 경우)",
@@ -29,7 +30,7 @@
 	"contactpage-wikimedia-trademark-w": "스타일화된 \"W\"",
 	"contactpage-wikimedia-trademark-wikimedia": "위키미디어 공동체",
 	"contactpage-title-licenseabuse": "저작권 남용 연락 양식",
-	"contactpage-pagetext-licenseabuse": "저작권 남용과 관련된 사항에 대해 연락하려면 이 양식을 사용하세요.",
+	"contactpage-pagetext-licenseabuse": "당신이 의심하는 누군가가 위키미디어 상표권을 오남용하는 것에 관해 우리에게 문의하려면 아래의 양식을 이용하십시오.",
 	"contactpage-subject-licenseabuse": "위키미디어 상표 남용 알림",
 	"contactpage-license-abuse-description": "남용 설명",
 	"contactpage-license-abuse-selectmark": "어떤 상표가 남용되었습니까?",
