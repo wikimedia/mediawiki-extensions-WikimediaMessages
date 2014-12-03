@@ -204,9 +204,9 @@
 	"wikimedia-flow-terms-of-use-new-topic": "點選 \"{{int:flow-newtopic-save}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
 	"wikimedia-flow-terms-of-use-reply": "點選 \"{{int:flow-reply-submit}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
 	"wikimedia-flow-terms-of-use-edit": "儲存變更代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
-	"wikimedia-flow-terms-of-use-summarize": "點選 \"{{int:flow-summarize-topic-submit}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
+	"wikimedia-flow-terms-of-use-summarize": "點選 \"{{int:flow-summarize-topic-submit}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款] 與 [//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] 發佈您的內容",
 	"wikimedia-flow-terms-of-use-close-topic": "點選 \"{{int:flow-close-topic-submit}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款] 與 [//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] 發佈您的內容",
-	"wikimedia-flow-terms-of-use-reopen-topic": "點選 \"{{int:flow-reopen-topic-submit}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
+	"wikimedia-flow-terms-of-use-reopen-topic": "點選 \"{{int:flow-reopen-topic-submit}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款] 與 [//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] 發佈您的內容",
 	"wikimedia-upload-nolicenses": "上傳檔案至此 Wiki 尚未開啟。 請 [[commons:Special:UploadWizard|上傳至維基媒體共享資源]]。\n\n此 Wiki 要使用此特殊頁面上傳檔案，需要管理員於頁面 [[MediaWiki:Licenses]] 中加入一個或多個授權條款選項。\n\n或使用以下格式：<code>* Template name|Label</code>。 於內容的任何地方以開啟上傳功能，不需授權條款選項。",
 	"wikimediashoplink-linktext": "維基媒體商店",
 	"wikimediashoplink-link-tooltip": "參觀維基媒體商店",
@@ -219,5 +219,6 @@
 	"interlanguage-link-sitename-dmoz": "DMOZ 網站目錄",
 	"right-superprotect": "更改超級保護層級",
 	"protect-level-superprotect": "只允許超級保護的使用者",
-	"restriction-level-superprotect": "超級保護"
+	"restriction-level-superprotect": "超級保護",
+	"wikimedia-sulrenamewarning-usenew": "從現在起，您需要使用您的新使用者名稱 <strong>$1</strong> 登入。您的新使用者名稱是整個維基媒體專案中獨有的，並且如果您登入一個專案並前往其它專案，您的帳號將繼續存在。[[:m:Special:MyLanguage/Help:Unified_login|此幫助說明頁面]]有更多關於單一使用者登入的資訊，這就像FAQ清單一样。如果您需要在您的[[Special:Preferences|偏好設定]]中變更您的 Email 位址或您的密碼，現在就是最佳時機。\n\n感謝您參與維基媒體專案。"
 }

@@ -4,10 +4,11 @@
 			"Ainali",
 			"Jopparn",
 			"WikiPhoenix",
-			"Lokal Profil"
+			"Lokal Profil",
+			"Albinomamba"
 		]
 	},
-	"contactpage-title-requestlicense": "Kontaktformulär för varumärkesanvändning",
+	"contactpage-title-requestlicense": "Begär ett licens formulär",
 	"contactpage-pagetext-requestlicense": "Vänligen använd formuläret nedan för att kontakta oss för användning av ett Wikimedia-varumärke.",
 	"contactpage-subject-requestlicense": "Begäran om att använda ett Wikimedia-varumärke",
 	"contactpage-license-request-username": "Användarnamn *",
@@ -29,7 +30,7 @@
 	"contactpage-wikimedia-trademark-wikiwordmark": "Wikipedia-wordmark",
 	"contactpage-wikimedia-trademark-w": "Stiliserat \"W\"",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimediagemenskap",
-	"contactpage-title-licenseabuse": "Kontaktformulär för upphovsrättsmissbruk",
+	"contactpage-title-licenseabuse": "Kontaktformulär för missbruk",
 	"contactpage-pagetext-licenseabuse": "Var god använd formuläret nedan för att kontakta oss om någon du misstänker missbrukar ett Wikimedia-varumärke eller använder det felaktigt.",
 	"contactpage-subject-licenseabuse": "Anmälan vid missbruk av Wikimedias varumärke",
 	"contactpage-license-abuse-description": "Beskriv missbruket",
