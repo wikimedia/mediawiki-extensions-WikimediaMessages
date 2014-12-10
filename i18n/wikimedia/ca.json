@@ -145,6 +145,7 @@
 	"wikimedia-developers": "Desenvolupadors",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ca",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privadesa]",
+	"wikimedia-flow-terms-of-use-edit": "En desar els canvis esteu acceptant les [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ca Condicions d'ús] i esteu acceptant alliberar irrevocablement el vostre text sota la [//creativecommons.org/licenses/by-sa/3.0/deed.ca llicència CC BY-SA 3.0] i la [//ca.wikisource.org/wiki/Viquitexts:Llic%C3%A8ncia_de_documentaci%C3%B3_lliure_de_GNU GFDL]",
 	"interlanguage-link-mul": "Més idiomes",
 	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure",
 	"restriction-level-superprotect": "superprotegeix"
