@@ -220,5 +220,6 @@
 	"interlanguage-link-sitename-dmoz": "فهرست وب DMOZ",
 	"right-superprotect": "تغییر سطح‌های حفاظت فوق‌العاده",
 	"protect-level-superprotect": "فقط به کاربران با حفاظت فوق‌العاده اجازه دهید",
-	"restriction-level-superprotect": "فراحفاظت‌شده"
+	"restriction-level-superprotect": "فراحفاظت‌شده",
+	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}"
 }

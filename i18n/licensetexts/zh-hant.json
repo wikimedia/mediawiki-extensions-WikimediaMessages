@@ -9,7 +9,8 @@
 			"Mark85296341",
 			"Multichill",
 			"Waihorace",
-			"Cwlin0416"
+			"Cwlin0416",
+			"LNDDYL"
 		]
 	},
 	"wikimedialicensetexts-desc": "維基媒體授權條款訊息",
@@ -51,7 +52,7 @@
 	"wm-license-creator-location-of-birth-and-death": "出生/逝世地點",
 	"wm-license-creator-work-period": "作品年代",
 	"wm-license-creator-work-location": "創作地點",
-	"wm-license-creator-linkback": "連結返回創作者主資訊框樣版",
+	"wm-license-creator-linkback": "連結返回至建立者資訊框模板",
 	"wm-license-fal-text": "公共版權：此藝術作品是自由的，您可根據 '''[[{{int:wm-license-fal-wiki-link}}|自由藝術授權條款]]''' 散佈與/或修改此作品。你可於 [{{int:wm-license-fal-full-link}} Copyleft Attitude 網站] 或 [{{int:wm-license-fal-full-link-commons}} 於其他網站] 找到該授權條款的樣本。",
 	"wm-license-fsf-wiki-link": "w:zh:自由軟件基金會",
 	"wm-license-free-software-wiki-link": "w:zh:自由軟件",
