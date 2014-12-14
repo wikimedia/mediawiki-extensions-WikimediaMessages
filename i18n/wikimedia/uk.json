@@ -20,7 +20,8 @@
 			"Ата",
 			"Тест",
 			"Nemo bis",
-			"DixonD"
+			"DixonD",
+			"Piramidion"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -171,9 +172,10 @@
 	"wikimedia-copyrightwarning": "Зберігаючи свої зміни, ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] та [https://www.gnu.org/copyleft/fdl.html GFDL]. Ви погоджуєтесь на використання свого внеску за умови зазначення URL-адреси сторінки, яку ви редагували.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Формулювання ліцензії Creative Commons Attribution-ShareAlike\" target=\"_blank\">CC BY-SA 3.0</a> і <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Формулювання GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Вікідані",
-	"wikibase-sitelinks-wikiquote": "Сторінки Викицитатника, пов'язані з цим елементом",
-	"wikibase-sitelinks-wikisource": "Список сторінок Вікіджерел, що посилаються на цей елемент",
-	"wikibase-sitelinks-wikivoyage": "Список сторінок Вікімандрів, що посилаються на цей елемент",
+	"wikibase-sitelinks-wikinews": "Сторінки Вікіновин, що посилаються на цей елемент",
+	"wikibase-sitelinks-wikiquote": "Сторінки Вікіцитат, що посилаються на цей елемент",
+	"wikibase-sitelinks-wikisource": "Сторінки Вікіджерел, що посилаються на цей елемент",
+	"wikibase-sitelinks-wikivoyage": "Сторінки Вікімандрів, що посилаються на цей елемент",
 	"wikibase-sitelinks-commons": "Сторінка Вікісховища, що посилається на цей елемент",
 	"wikibase-otherprojects-commons": "Вікісховище",
 	"wikibase-otherprojects-wikinews": "Вікіновини",
