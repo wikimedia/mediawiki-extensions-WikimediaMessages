@@ -81,7 +81,7 @@
 	"group-sysadmin": "به‌ڕێوبه‌رانی سیسته‌م",
 	"group-sysadmin-member": "{{GENDER:$1|بەڕێوبەری سیستەم}}",
 	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nسەیری <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> بکە بۆ وردەکارییەکانی.",
-	"wikimedia-copyrightwarning": "بە پاشەکەوت کردن، قەبووڵ دەکەی کە بەشدارییەکەت بە بێگەڕانەوە لەژێر [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] و [https://www.gnu.org/copyleft/fdl.html GFDL] بڵاو ببێتەوە.\nقەبووڵ دەکەی بەکارھێنەرانی تر ناوت لێببەن، لانی کەم، بە URL یان ھایپەرلینکێک بەو پەڕە بەشداری تێدا دەکەی.\nسەیری [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use مەرجەکانی بەکارھێنان] بکە بۆ وردەکارییەکان.",
+	"wikimedia-copyrightwarning": "بە پاشەکەوتکردنی گۆڕانکارییەکان، [https://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە بەشدارییەکەت لە ژێر [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License مۆڵەتنامەی CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیتەوە.\nپابەند دەبیت کە URL یان گرێدانێک، دانەپاڵێکی سەرومڕە لە ژێر مۆڵەتنامەی Creative Commonsدا.",
 	"wikibase-repo-name": "ویکیدراوە",
 	"wikibase-sitelinks-wikiquote": "پەڕە بەسراوەکانی ویکیوتە بەم بەندەوە",
 	"wikibase-sitelinks-wikisource": "پەڕە بەسراوەکانی ویکیژێدەر بەم بەندەوە",
