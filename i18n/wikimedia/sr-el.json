@@ -60,7 +60,7 @@
 	"group-eliminator-member": "{{GENDER:$1|odstranjivač|odstranjivačica|odstranjivač}}",
 	"grouppage-eliminator": "{{ns:project}}:Odstranjivači",
 	"group-filemover": "Premeštači fajlova",
-	"group-filemover-member": "{{GENDER:$1|premeštač datoteka|premeštačica datoteka|premeštač datoteka}}",
+	"group-filemover-member": "{{GENDER:$1|premeštač datoteka}}",
 	"grouppage-filemover": "{{ns:project}}:Premeštači fajlova",
 	"group-flood": "Botovski korisnici",
 	"group-flood-member": "{{GENDER:$1|korisnik-bot|korisnica-bot|korisnik-bot}}",
