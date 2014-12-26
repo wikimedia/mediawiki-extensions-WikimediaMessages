@@ -17,7 +17,8 @@
 			"Pietrodn",
 			"Stefano-c",
 			"Una giornata uggiosa '94",
-			"Lucas2"
+			"Lucas2",
+			"Baffo"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -118,6 +119,7 @@
 	"group-uploader": "Uploader",
 	"group-uploader-member": "{{GENDER:$1|uploader}}",
 	"grouppage-uploader": "{{ns:project}}:Uploader",
+	"group-wikidata-staff": "Staff del progetto Wikidata",
 	"group-apihighlimits-requestor": "Richiedenti di API con limite più alto",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|richiedente}} di API con limite più alto",
 	"group-captcha-exempt": "Esenti CAPTCHA",
