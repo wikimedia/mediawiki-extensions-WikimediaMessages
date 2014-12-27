@@ -33,6 +33,7 @@
 	"group-abusefilter": "Editeure vu Mëssbrauchsfilteren",
 	"group-abusefilter-member": "{{GENDER:$1|Editeur vum Mëssbrauchsfilter}}",
 	"grouppage-abusefilter": "{{ns:project}}:Editeure vu Mëssbrauchsfilteren",
+	"group-abusefilter-helper": "Hëllefe fir Mëssbrauchsfilteren",
 	"group-accountcreator": "Benotzer déi Benotzerkonten uleeën däerfen",
 	"group-accountcreator-member": "{{GENDER:$1|Benotzer dee Benotzerkonten uleeën däerf}}",
 	"grouppage-accountcreator": "{{ns:project}}:Benotzer déi Benotzerkonten uleeën däerfen",
@@ -155,6 +156,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:E Benotzerkont ufroen",
 	"wikimedia-developers": "Entwéckler",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzrichtlinn]",
+	"mwoauth-grant-checkuser": "Zougang op Checkuser-Donnéeën",
 	"wikimedia-flow-terms-of-use-new-topic": "Duerch d'Klicken op  \"{{int:flow-newtopic-save}}\" sidd Dir mat eisen [//wikimediafoundation.org/wiki/Terms_of_Use Notzungsbedingungen] an der Verëffentlechung vun Ärem Text ënner der [//creativecommons.org/licenses/by-sa/3.0 CC-BY-SA-3.0-Lizenz] an der [//en.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] averstan.",
 	"wikimedia-flow-terms-of-use-reply": "Duerch d'Klicken op \"{{int:flow-reply-submit}}\" sidd Dir mat eisen [//wikimediafoundation.org/wiki/Terms_of_Use/de Notzungsbedingungen] an der Verëffentlechung vun Ärem Text ënner der [//creativecommons.org/licenses/by-sa/3.0 CC-BY-SA-3.0-Lizenz] an der [//en.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] averstan.",
 	"wikimedia-flow-terms-of-use-edit": "Duerch d'Späichere vun Ännerunge sidd Dir mat eisen [//wikimediafoundation.org/wiki/Terms_of_Use Notzungsbedingungen] an der Verëffentlechung vun Ärem Text ënner der [//creativecommons.org/licenses/by-sa/3.0 CC-BY-SA-3.0-Lizenz] an der [//en.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] averstan.",
@@ -169,5 +171,6 @@
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv",
 	"right-superprotect": "D'Niveaue vun der Super-Protectioun änneren",
 	"protect-level-superprotect": "Nëmme Superprotect Benotzer erlaben",
-	"restriction-level-superprotect": "Super-Protectioun"
+	"restriction-level-superprotect": "Super-Protectioun",
+	"securepoll-dblist-securepollglobal": "Wale fir de Conseil"
 }
