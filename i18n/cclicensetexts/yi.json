@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"פוילישער"
+			"פוילישער",
+			"Har-wradim"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:yi:Creative Commons",
@@ -74,7 +75,7 @@
 	"wm-license-cc-by-3.0-lu-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/lu/ צושרײַבונג 3.0 לוקסעמבורג] ליצענץ.",
 	"wm-license-cc-by-3.0-nl-text": "די טעקע ווערט ליצענצירט אונטער דער  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/nl/ צושרײַבונג 3.0 האלאַנד] ליצענץ.",
 	"wm-license-cc-by-3.0-no-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/no/ צושרײַבונג 3.0 נארוועגיע] ליצענץ.",
-	"wm-license-cc-by-3.0-nz-text": "די טעקע ווערט ליצענצירט אונטער דער  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/nz/ צושרײַבונג 3.0 מײַ זילאַנד] ליצענץ.",
+	"wm-license-cc-by-3.0-nz-text": "די טעקע איז ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/nz/deed.yi/ צושרייבונג 3.0 ניו זילאַנד] ליצענץ.",
 	"wm-license-cc-by-3.0-ph-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/ph/ צושרײַבונג 3.0 פֿיליפינען] ליצענץ.",
 	"wm-license-cc-by-3.0-pl-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/pl/ צושרײַבונג 3.0 פוילן] ליצענץ.",
 	"wm-license-cc-by-3.0-pr-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/pr/ צושרײַבונג 3.0 פאָרטא ריקא] ליצענץ.",
