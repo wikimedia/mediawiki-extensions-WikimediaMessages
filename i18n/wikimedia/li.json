@@ -5,7 +5,8 @@
 			"Ooswesthoesbes",
 			"Pahles",
 			"לערי ריינהארט",
-			"Nemo bis"
+			"Nemo bis",
+			"Robin0van0der0vliet"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifieke berichte",
@@ -121,6 +122,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Vertaalbehieërders",
 	"wikimedia-copyright": "De teks is besjikbaar ónger de <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naomsvermelding/Geliek Deile</a> licentie.\n't Is mäögelik dat aanvöllende veurwaarde van toepassing zeen.\nBetrach de <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Algemein Veurwaarde</a> veur mie informatie.",
 	"wikimedia-copyrightwarning": "Door dees bewirking op te sjlaon mit \"{{int:savearticle}}\", geis doe akkoord mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden gebroeks veurwaerd] en 't ónherropelik vriegaeve van dien biedrage ónger de [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Noamsvermelding/Geliek Deile licentie] en de [https://www.gnu.org/copyleft/fdl.html GFDL].\nDoe geis demit akkoord door hergebroekers minimaal geneump te waere via 'ne hyperlink of URL nao de pagina woe-aans diech biedreugs.",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Doe kans 't veurblaad neet wösje of verplaatsje.",
 	"wikimedia-translationnotifications-signup-legal": "Door dees gegaeves besjikbaar te stèlle ane Wikimedia Foundation, geufs se ós toestömming óm kóntak mit dich op te naeme euver vertalinge en anger óngerwirpe gerelateerdj ane Wikimediabewaeging wovan weer dinke det ze dien interesse höbbe. Doe stöms in mit 't opslaon van dien gegaeves inne VS en det dien gegaeves ónger ós [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy privacybeleid] valle."
 }
