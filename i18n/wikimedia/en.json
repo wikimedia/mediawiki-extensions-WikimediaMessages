@@ -178,6 +178,8 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage pages linked to this item",
 	"wikibase-sitelinks-commons": "Wikimedia Commons page linked to this item",
 	"wikibase-otherprojects-commons": "Wikimedia Commons",
+	"wikibase-otherprojects-wikidata": "Wikidata",
+	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-wikinews": "Wikinews",
 	"wikibase-otherprojects-wikiquote": "Wikiquote",
 	"wikibase-otherprojects-wikipedia": "Wikipedia",
