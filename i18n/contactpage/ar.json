@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"أحمد المحمودي"
+			"أحمد المحمودي",
+			"Meno25"
 		]
 	},
 	"contactpage-title-requestlicense": "طلب نموذج ترخيص",
-	"contactpage-title-licenseabuse": "التبليغ عن اساءة إستخدام"
+	"contactpage-title-licenseabuse": "التبليغ عن إساءة استخدام"
 }

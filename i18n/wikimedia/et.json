@@ -181,5 +181,7 @@
 	"right-superprotect": "Muuta superkaitset",
 	"protect-level-superprotect": "Luba vaid superkaitse kasutajatele",
 	"restriction-level-superprotect": "superkaitse",
+	"wikimedia-globalrenamequeue-email-body-approved": "Kasutaja \"$1\" ümbernimetamise taotlus on rahuldatud. Uueks nimeks saab \"$2\". Kui nimevahetus on lõpule viidud, saad sisse logida uue kasutajanime ja vana parooliga. Aitäh, et oled osalenud Wikimedia projektides.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "Kasutaja \"$1\" ümbernimetamist kasutajaks \"$2\" ei õnnestunud lõpule viia.\n\nLisateavet leiad siit: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Oma nimevahetustaotluse kohta saad küsimuse postitada siia: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Kõigepealt pead endiselt konto praeguse nimega sisse logima.",
 	"right-viewdeletedfile": "Vaadata kustutatud lehekülgi nimeruumides {{ns:file}} ja {{ns:file_talk}}"
 }

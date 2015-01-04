@@ -8,7 +8,7 @@
 		]
 	},
 	"contactpage-title-requestlicense": "商標重用聯絡表單",
-	"contactpage-pagetext-requestlicense": "請使用下面的表單與我們聯絡商標事宜",
+	"contactpage-pagetext-requestlicense": "請使用下面的表單與我們聯絡關於使用商標的事宜",
 	"contactpage-subject-requestlicense": "維基媒體商標使用申請",
 	"contactpage-license-request-username": "使用者名稱 *",
 	"contactpage-license-request-relevantsite": "相關維基媒體站點（如果有）",
@@ -41,7 +41,7 @@
 	"contactpage-wikimedia-trademark-wikiversity": "維基學院",
 	"contactpage-wikimedia-trademark-wiktionary": "維基詞典",
 	"contactpage-wikimedia-trademark-wikivoyage": "維基導遊",
-	"contactpage-title-licenseabuse": "版權濫用聯絡表單",
+	"contactpage-title-licenseabuse": "報告濫用表單",
 	"contactpage-pagetext-licenseabuse": "請使用下面的表單與我們聯絡商標濫用事宜",
 	"contactpage-subject-licenseabuse": "維基媒體商標濫用通知",
 	"contactpage-license-abuse-description": "描述濫用",
