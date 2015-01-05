@@ -15,7 +15,8 @@
 			"Solde",
 			"Toniher",
 			"Vriullop",
-			"Fitoschido"
+			"Fitoschido",
+			"Adriabages"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -138,6 +139,7 @@
 	"wikibase-otherprojects-wikisource": "Viquitexts",
 	"wikibase-otherprojects-wikivoyage": "Viquiviatges",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "No podeu esborrar ni traslladar la portada.",
 	"upload-more-photos-of-this-monument": "Carrega més fotos d'aquest monument",
 	"createacct-helpusername-url": "{{ns:Project}}:Nom d'usuari",

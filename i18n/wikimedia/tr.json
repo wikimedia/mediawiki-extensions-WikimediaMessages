@@ -132,6 +132,7 @@
 	"wikibase-sitelinks-wikisource": "Bu ögeye bağlı Vikikaynak sayfaları",
 	"wikibase-sitelinks-wikivoyage": "Bu ögeye bağlı Vikigezi sayfaları",
 	"wikibase-sitelinks-commons": "Bu ögeye bağlı Wikimedia Commons sayfaları",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiveri",
 	"cant-delete-main-page": "Silemez veya ana sayfaya taşıyamazsın.",
 	"createacct-helpusername-url": "{{ns:Project}}:Kullanıcı_adı_politikası",
 	"createacct-captcha-help-url": "{{ns:Project}}:Hesap isteği",
