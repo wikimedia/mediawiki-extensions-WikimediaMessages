@@ -143,6 +143,9 @@
 	"wikibase-sitelinks-wikisource": "ამ ელემენტთან დაკავშირებული ვიკიწყაროს გვერდები",
 	"wikibase-sitelinks-wikivoyage": "ამ ელემენტთან დაკავშირებული ვიკივოიაჟის გვერდები",
 	"wikibase-sitelinks-commons": "ამ ელემენტთან დაკავშირებული ვიკისაწყობის გვერდები",
+	"wikibase-otherprojects-commons": "ვიკისაწყობი",
+	"wikibase-otherprojects-wikidata": "ვიკიმონაცემები",
+	"wikibase-otherprojects-testwikidata": "ვიკიმონაცემები",
 	"wikibase-otherprojects-wikiquote": "ვიკიციტატა",
 	"wikibase-sitelinks-sitename-commonswiki": "საწყობი",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ვიკიმონაცემები",
@@ -152,5 +155,6 @@
 	"extdist-branch-REL1_24": "1.24 (მედიავიკის ბოლო სტაბილური ვერსია)",
 	"wikimedia-developers": "შემქმნელები",
 	"wikimediashoplink-linktext": "ვიკიმედიის მაღაზია",
-	"wikimediashoplink-link-tooltip": "ესტუმრეთ ვიკიმედიის მაღაზიას"
+	"wikimediashoplink-link-tooltip": "ესტუმრეთ ვიკიმედიის მაღაზიას",
+	"interlanguage-link-commons": "ვიკისაწყობი"
 }

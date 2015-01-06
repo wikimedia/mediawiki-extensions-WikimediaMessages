@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Imperadeiro98"
+			"Imperadeiro98",
+			"Vitorvicentevalente"
 		]
 	},
+	"contactpage-title-requestlicense": "Formulário de solicitação de licença",
 	"contactpage-license-request-username": "Nome de utilizador *",
-	"contactpage-wikimedia-trademark-wikimedia": "Comunidade Wikimedia"
+	"contactpage-wikimedia-trademark-wikimedia": "Comunidade Wikimedia",
+	"contactpage-title-licenseabuse": "Formulário de denúncia de abuso"
 }

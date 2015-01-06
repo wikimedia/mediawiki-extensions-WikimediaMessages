@@ -8,7 +8,8 @@
 			"Nemo bis",
 			"Njardarlogar",
 			"Ranveig",
-			"Roarjo"
+			"Roarjo",
+			"Gaute"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke meldingar",
@@ -113,6 +114,7 @@
 	"wikibase-sitelinks-wikisource": "Wikikjelda-sider knytte til elementet",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage-sider knytte til elementet",
 	"wikibase-sitelinks-commons": "Wikimedia Commons-sider knytte til elementet",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Du kan ikkje sletta eller flytta hovudsida.",
 	"upload-more-photos-of-this-monument": "Last opp fleire bilete av monumentet",
 	"extdist-branch-REL1_24": "1.24 (siste stabile MediaWiki)",
