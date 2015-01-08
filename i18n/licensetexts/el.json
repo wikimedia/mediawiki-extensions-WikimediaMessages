@@ -12,7 +12,8 @@
 			"Omnipaedista",
 			"ZaDiak",
 			"Περίεργος",
-			"Protnet"
+			"Protnet",
+			"Αντιγόνη"
 		]
 	},
 	"wikimedialicensetexts-desc": "Μηνύματα αδειών του Wikimedia",
@@ -31,7 +32,7 @@
 	"wm-license-artwork-id": "Αριθμός καταχώρησης",
 	"wm-license-artwork-source": "Πηγή/φωτογράφος",
 	"wm-license-book-edition": "Έκδοση",
-	"wm-license-book-editor": "Συντάκτης",
+	"wm-license-book-editor": "Επιμελητής",
 	"wm-license-book-illustrator": "Εικονογράφος",
 	"wm-license-book-language": "Γλώσσα",
 	"wm-license-book-page-overview": "Επισκόπηση σελίδας",
@@ -43,7 +44,7 @@
 	"wm-license-book-subtitle": "Υπότιτλος",
 	"wm-license-book-title": "Τίτλος",
 	"wm-license-book-translator": "Μεταφραστής",
-	"wm-license-book-volume": "Όγκος",
+	"wm-license-book-volume": "Τόμος",
 	"wm-license-book-year-of-publication": "Έτος δημοσίευσης",
 	"wm-license-cecill-text": "Το έργο αυτό είναι [[{{int:wm-license-free-software-wiki-link}}|ελεύθερο λογισμικό]]. Μπορείς να το αναδιανείμεις ή να το τροποποιήσεις υπό τους όρους της άδειας  [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Οι όροι της άδειας CeCILL είναι διαθέσιμοι στο  [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	"wm-license-creator-alternative-names": "Άλλα ονόματα",
