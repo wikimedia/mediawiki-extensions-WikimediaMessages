@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wertuose"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]"
+}
