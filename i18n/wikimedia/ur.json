@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"محبوب عالم",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"عثمان خان شاہ"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
@@ -24,5 +25,10 @@
 	"group-staff-member": "عملہ",
 	"group-sysadmin": "منتظمینِ نظام",
 	"group-sysadmin-member": "منتظمِ نظام",
+	"wikibase-sitelinks-wikinews": "ویکی خبریں",
+	"wikibase-sitelinks-wikiquote": "ویکی‌اقتباس",
+	"wikibase-sitelinks-wikisource": "ویکی‌مآخذ",
+	"wikibase-sitelinks-wikivoyage": "ویکی سفرنامہ",
+	"wikibase-sitelinks-commons": "ویکیمیڈیا العام",
 	"cant-delete-main-page": "آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں."
 }
