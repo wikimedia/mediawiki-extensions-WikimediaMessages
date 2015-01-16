@@ -10,7 +10,8 @@
 			"Kenrick95",
 			"Rex",
 			"Raynasution",
-			"Nemo bis"
+			"Nemo bis",
+			"William Surya Permana"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan spesifik Wikimedia",
@@ -133,7 +134,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Pengurus terjemahan",
 	"wikimedia-copyright": "Teks tersedia di bawah <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>; ketentuan tambahan mungkin berlaku. Lihat <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use-Summary/id\">Ketentuan Penggunaan</a> untuk lebih jelasnya.",
 	"wikidata-copyright": "Semua data terstruktur dari ruang nama utama dan properti tersedia di bawah <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.id\" title=\"Definisi dari lisensi Creative Commons CC-nol\">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;\nteks dalam ruang nama lainnya tersedia di bawah <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\" title=\"Definisi dari lisensi Creative Commons Attribusi-BerbagiSerupa\">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>;\nketentuan tambahan mungkin berlaku.\nLihat <a href=\"https://wikimediafoundation.org/wiki/Terms_of_use-Summary/id\" title=\"Ketentuan Penggunaan Yayasan Wikimedia\">Ketentuan Penggunaan</a> untuk lebih jelasnya.",
-	"wikimedia-copyrightwarning": "Dengan menekan tombol \"{{int:savearticle}}\", Anda setuju pada [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use-Summary/id  Ketentuan Penggunaan], dan melepas kontribusi Anda di bawah [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BerbagiSerupa Creative Commons] dan [https://id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Anda setuju bahwa pemberian pranala atau URL adalah atribusi yang cukup di bawah lisensi Creative Commons.",
+	"wikimedia-copyrightwarning": "Dengan menyimpan perubahan, Anda menyatakan setuju pada [//wikimediafoundation.org/wiki/Terms_of_Use Ketentuan Pengguna] dan Anda secara tetap setuju untuk melepas kontribusi Anda di bawah [https://creativecommons.org/licenses/by-sa/3.0/deed.id Lisensi CC BY-SA 3.0] dan [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. \nAnda setuju bahwa pemberian pranala atau URL sudah dirasa cukup untuk atribusi di bawah Lisensi Creative Commons.",
 	"cant-delete-main-page": "Anda tidak dapat menghapus atau memindahkan halaman utama.",
 	"wikimedia-translationnotifications-signup-legal": "Dengan memberikan informasi ini ke Yayasan Wikimedia, Anda setuju bahwa kami dapat menghubungi Anda terkait terjemahan atau topik lain yang berhubungan dengan gerakan Wikimedia yang kami anggap perlu untuk Anda ketahui. Anda setuju semua data Anda disimpan di Amerika Serikat dan mematuhi [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy kebijakan privasi] kami.",
 	"upload-more-photos-of-this-monument": "Unggah lebih banyak foto dari monumen ini",
