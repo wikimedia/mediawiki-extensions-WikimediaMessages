@@ -1,3 +1,9 @@
 {
+	"@metadata": {
+		"authors": [
+			"Snævar"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjálpaðu mér að velja)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Getur þú ekki séð myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Óska eftir aðgangi]]"
 }
