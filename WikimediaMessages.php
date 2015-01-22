@@ -129,6 +129,7 @@ function wfWikimediaMessagesMessageCacheGet( &$lcKey ) {
 		'globalrenamequeue-email-body-rejected',
 		'sidebar',
 		'sulrenamewarning-usenew',
+		'centralauth-contribs-locked',
 	);
 
 	if ( in_array( $lcKey, $keys, true ) ) {
