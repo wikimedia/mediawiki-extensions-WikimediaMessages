@@ -102,6 +102,9 @@
 	"group-uploader": "Üleslaadijad",
 	"group-uploader-member": "{{GENDER:$1|üleslaadija}}",
 	"grouppage-uploader": "{{ns:project}}:Üleslaadijad",
+	"group-wikidata-staff": "Vikiandmete koosseis",
+	"group-wikidata-staff-member": "{{GENDER:$1|Vikiandmete koosseis}}",
+	"grouppage-wikidata-staff": "{{ns:project}}:Vikiandmete koosseisu liige",
 	"group-centralnoticeadmin": "Keskuse teate administraator",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Keskuse teate administraator}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Keskuse teate administraatorid",
@@ -183,5 +186,7 @@
 	"restriction-level-superprotect": "superkaitse",
 	"wikimedia-globalrenamequeue-email-body-approved": "Kasutaja \"$1\" ümbernimetamise taotlus on rahuldatud. Uueks nimeks saab \"$2\". Kui nimevahetus on lõpule viidud, saad sisse logida uue kasutajanime ja vana parooliga. Aitäh, et oled osalenud Wikimedia projektides.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Kasutaja \"$1\" ümbernimetamist kasutajaks \"$2\" ei õnnestunud lõpule viia.\n\nLisateavet leiad siit: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Oma nimevahetustaotluse kohta saad küsimuse postitada siia: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Kõigepealt pead endiselt konto praeguse nimega sisse logima.",
-	"right-viewdeletedfile": "Vaadata kustutatud lehekülgi nimeruumides {{ns:file}} ja {{ns:file_talk}}"
+	"wikimedia-centralauth-contribs-locked": "See konto on globaalselt lukustatud.\n[[m:Special:CentralAuth/$1|Vaata üksikasju]] globaalse konto kohta.",
+	"right-viewdeletedfile": "Vaadata kustutatud lehekülgi nimeruumides {{ns:file}} ja {{ns:file_talk}}",
+	"securepoll-dblist-securepollglobal": "Nõukogu valimine"
 }

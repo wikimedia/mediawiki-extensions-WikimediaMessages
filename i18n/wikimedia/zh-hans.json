@@ -215,7 +215,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''你的IP地址已经[[m:Special:MyLanguage/Global blocks|在所有维基网站被封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n你目前的IP地址是$6。请在你提出的任何质疑中包括以上所有信息。\n\n如果你认为你被错误地封禁，你可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''你的访问请求所使用的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全域封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n被封禁的代理服务器地址是$6。请在你提出的任何质疑中包括以上所有信息。\n\n如果你认为你被错误地封禁，你可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	"wikimedia-torblock-blocked": "你的IP地址<strong>$1</strong>已经被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针。",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy 隐私权政策]",
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]",
 	"mwoauth-grant-checkuser": "连接用户查核数据",
 	"wikimedia-flow-terms-of-use-new-topic": "通过点击“{{int:flow-newtopic-save}}”，即表示你认同我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh CC BY-SA 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]发表你的文字",
 	"wikimedia-flow-terms-of-use-reply": "通过点击“{{int:flow-reply-submit}}”，即表示你认同我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾地同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh CC BY-SA 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]发表你的文字",
@@ -242,6 +242,7 @@
 	"wikimedia-globalrenamequeue-email-body-approved": "重命名“$1”至“$2”的申请已通过。一旦完成，您将使用您的新用户名和旧有密码登录。感谢您参与维基媒体项目。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "重命名“$1”至“$2”的申请无法完成。\n\n更多信息请参见此帮助页面：<https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Unified_login#Frequently_asked_questions>。要讨论您的重命名申请，您可以在此页面提出：<https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>。您必须首先使用您现有的账户名登录。",
 	"wikimedia-sulrenamewarning-usenew": "现在起，您需要使用您的新用户名<strong>$1</strong>登录。您的新用户名是全维基媒体项目中独一无二的，并且如果您登录一个项目并访问其他项目，您的账户将继续存在。[[:m:Special:MyLanguage/Help:Unified_login|此帮助页面]]有更多关于单一用户登录的信息，这就好比常见问题列表一样。如果您需要在您的[[Special:Preferences|用户设置]]中更改您的电子邮件地址或您的密码，现在就是最佳时机。\n\n感谢您参与维基媒体项目。",
+	"wikimedia-centralauth-contribs-locked": "此账户已被全域锁定。\n参见[[m:Special:CentralAuth/$1|全域账户详情]]以获取更多信息。",
 	"right-viewdeletedfile": "查看{{ns:file}}和{{ns:file_talk}}名字空间中被删除的文件和页面",
 	"securepoll-dblist-securepollglobal": "董事会选举"
 }

@@ -18,7 +18,8 @@
 			"Stefano-c",
 			"Una giornata uggiosa '94",
 			"Lucas2",
-			"Baffo"
+			"Baffo",
+			"FRacco"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -178,6 +179,7 @@
 	"wikibase-sitelinks-wikisource": "Pagine di Wikisource collegate a questo elemento",
 	"wikibase-sitelinks-wikivoyage": "Pagine di Wikivoyage collegate a questo elemento",
 	"wikibase-sitelinks-commons": "Pagina di Commons collegata a questo elemento",
+	"wikibase-otherprojects-wikinews": "Wikinotizie",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "Non puoi cancellare o spostare la pagina principale.",
 	"wikimedia-translationnotifications-signup-legal": "Accetti che, fornendo queste informazioni alla Wikimedia Foundation, possiamo contattarti per quanto riguarda le traduzioni o altri argomenti relativi al movimento Wikimedia che pensiamo possano interessarti. Accetti che i tuoi dati siano conservati negli Stati Uniti d'America e siano soggetti alla nostra [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy/it politica sulla privacy].",
