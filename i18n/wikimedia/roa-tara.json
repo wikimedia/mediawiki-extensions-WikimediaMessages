@@ -158,5 +158,6 @@
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Regole de privacy]",
 	"wikimediashoplink-linktext": "Putèje de Uicchimedia",
 	"wikimediashoplink-link-tooltip": "Visite 'a Putèje de Uicchimedia",
-	"restriction-level-superprotect": "super protette"
+	"restriction-level-superprotect": "super protette",
+	"wikimedia-centralauth-contribs-locked": "Stu cunde jè bloccate globbalmende.\n'Ndruche [[m:Special:CentralAuth/$1|dettaglie d'u cunde globbale]] pe cchiù 'mbormaziune."
 }
