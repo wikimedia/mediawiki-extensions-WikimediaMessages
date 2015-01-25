@@ -69,7 +69,7 @@
 	"group-botadmin-member": "{{GENDER:$1|ربات دارای دسترسی مدیریت}}",
 	"grouppage-botadmin": "{{ns:project}}:ربات‌های دارای دسترسی مدیریت",
 	"group-confirmed": "کاربران تأییدشده",
-	"group-confirmed-member": "کاربران تأییدشده",
+	"group-confirmed-member": "{{GENDER:$1|کاربر تأییدشده}}",
 	"grouppage-confirmed": "{{ns:project}}:کاربران تأییدشده",
 	"group-editprotected": "ویرایشگران صفحه‌های محافظت‌شده",
 	"group-editprotected-member": "ویرایشگر صفحه‌های محافظت‌شده",
