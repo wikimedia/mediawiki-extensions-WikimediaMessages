@@ -29,7 +29,7 @@
 	"group-abusefilter-member": "{{GENDER:$1|suisteʼmollar filtri muharriri}}",
 	"grouppage-abusefilter": "{{ns:project}}:Suisteʼmollar filtri muharrirlari",
 	"group-accountcreator": "Hisob yozuvi yaratuvchilar",
-	"group-accountcreator-member": "{{GENDER:$1|Hisob yozuvi yaratuvchi}}",
+	"group-accountcreator-member": "{{GENDER:$1|hisob yozuvi yaratuvchi}}",
 	"grouppage-accountcreator": "{{ns:project}}:Hisob yozuvi yaratuvchilar",
 	"group-arbcom": "Hakamlar qoʻmitasi aʼzolari",
 	"group-arbcom-member": "{{GENDER:$1|hakamlar qoʻmitasi aʼzosi}}",
