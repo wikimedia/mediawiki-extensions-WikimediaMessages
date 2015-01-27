@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Weft"
 		]
 	},
 	"contactpage-title-requestlicense": "Formulaire de contact pour réutilisation d’une marque déposée",
@@ -26,8 +27,8 @@
 	"contactpage-wikimedia-trademark-wikiwordmark": "Mot-symbole de Wikipédia",
 	"contactpage-wikimedia-trademark-w": "« W » stylisé",
 	"contactpage-wikimedia-trademark-wikimedia": "Communauté Wikimédia",
-	"contactpage-title-licenseabuse": "Formulaire de contact pour abus de droit d’auteur",
-	"contactpage-pagetext-licenseabuse": "Veuillez utiliser le formulaire ci-dessous pour nous contacter à propos d’un abus de droit d’auteur",
+	"contactpage-title-licenseabuse": "Signaler un abus",
+	"contactpage-pagetext-licenseabuse": "Veuillez utiliser le formulaire ci-dessous pour nous contacter si vous soupçonnez une utilisation abusive de l'une des marques de Wikimedia.",
 	"contactpage-subject-licenseabuse": "Notification d’abus de marque déposée de Wikimédia",
 	"contactpage-license-abuse-description": "Décrire l’abus",
 	"contactpage-license-abuse-selectmark": "Quelle marque a fait l’objet d’abus ?",
