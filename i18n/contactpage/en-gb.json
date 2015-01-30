@@ -3,13 +3,38 @@
 		"authors": [
 			"Amire80",
 			"Reedy",
-			"Shirayuki"
+			"Shirayuki",
+			"Chase me ladies, I'm the Cavalry"
 		]
 	},
+	"contactpage-title-requestlicense": "Request a licence form",
+	"contactpage-pagetext-requestlicense": "Please use the form below to contact us about using a Wikimedia trademark.",
+	"contactpage-subject-requestlicense": "Request to use a Wikimedia trademark",
+	"contactpage-license-request-username": "Username *",
+	"contactpage-license-request-relevantsite": "Relevant Wikimedia site (if any)",
 	"contactpage-license-request-group": "Wikimedia chapter, thematic organisation, or user group & title (if any) *",
+	"contactpage-license-request-title": "Title (if applicable)",
 	"contactpage-license-request-organization": "Organisation (if applicable)",
 	"contactpage-license-request-organization-type": "Organisation type (if applicable)",
+	"contactpage-license-request-use-proposed": "Proposed use",
+	"contactpage-license-request-use-online": "Online (website, email)",
+	"contactpage-license-request-use-book": "Book, periodical",
+	"contactpage-license-request-use-print": "Print",
 	"contactpage-license-request-use-tv": "TV, film or broadcast",
+	"contactpage-license-request-use-other": "Other",
 	"contactpage-license-request-use-note": "<strong>Note:</strong> if we grant a trademark permission, we may list your use in a public list of authorised uses.",
-	"contactpage-wikimedia-trademark-w": "Stylised \"W\""
+	"contactpage-license-request-description": "Description of usage",
+	"contactpage-license-request-selectmark": "Which mark(s) do you want to use?",
+	"contactpage-wikimedia-trademark-globe": "Wikipedia Puzzle Globe",
+	"contactpage-wikimedia-trademark-wikiwordmark": "Wikipedia wordmark",
+	"contactpage-wikimedia-trademark-w": "Stylised \"W\"",
+	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia Community",
+	"contactpage-title-licenseabuse": "Report abuse form",
+	"contactpage-pagetext-licenseabuse": "Please use the form below to contact us about someone you suspect is abuse or misusing a Wikimedia trademark.",
+	"contactpage-subject-licenseabuse": "Wikimedia trademark abuse notification",
+	"contactpage-license-abuse-description": "Describe the abuse",
+	"contactpage-license-abuse-selectmark": "Which mark is abused?",
+	"contactpage-license-abuse-location": "Location of the abuse (on/offline)",
+	"contactpage-license-abuse-theircontact": "Contact information of person abusing the mark (if known)",
+	"contactpage-license-abuse-yourcontact": "Your contact information (if we may contact you)"
 }

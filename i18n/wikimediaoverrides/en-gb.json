@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help me choose)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Can't see the image? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]"
+}
