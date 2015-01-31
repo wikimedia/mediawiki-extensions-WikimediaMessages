@@ -17,6 +17,7 @@ $wgExtensionCredits['other'][] = array(
 	'url'            => 'https://www.mediawiki.org/wiki/Extension:WikimediaMessages',
 	'author'         => array( 'Tim Starling', 'Siebrand Mazeland' ),
 	'descriptionmsg' => 'wikimediamessages-desc',
+	'license-name'   => 'GPL-2.0+',
 );
 
 
