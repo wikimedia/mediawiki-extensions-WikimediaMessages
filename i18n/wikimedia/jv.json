@@ -5,7 +5,8 @@
 			"Meursault2004",
 			"Nemo bis",
 			"NoiX180",
-			"Pras"
+			"Pras",
+			"Aldnonymous"
 		]
 	},
 	"wikimediamessages-desc": "Pesen-pesen spesifik Wikimedia",
@@ -108,8 +109,8 @@
 	"group-global-rollbacker": "Sing mbalèkaké révisi global",
 	"group-global-rollbacker-member": "{{GENDER:$1|pambalik global}}",
 	"grouppage-global-rollbacker": "m:Global rollback",
-	"group-global-sysop": "Opsis global",
-	"group-global-sysop-member": "{{GENDER:$1|opsis global}}",
+	"group-global-sysop": "Pangurus global",
+	"group-global-sysop-member": "{{GENDER:$1|pangurus global}}",
 	"group-ombudsman": "Ombudsman",
 	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"grouppage-ombudsman": "m:Ombudsman commission",
