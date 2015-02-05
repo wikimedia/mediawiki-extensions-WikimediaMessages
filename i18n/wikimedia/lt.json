@@ -6,7 +6,8 @@
 			"Hugo.arg",
 			"Matasg",
 			"Vpovilaitis",
-			"Nemo bis"
+			"Nemo bis",
+			"Macofe"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
@@ -91,5 +92,6 @@
 	"group-sysadmin-member": "sistemos administratorius",
 	"wikimedia-copyright": "Turinys pateikiamas pagal <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenciją</a>;\ngali galioti kitos nuostatos.\nNorėdami sužinoti daugiau, žiūrėkite <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Naudojimo sąlygas</a>.",
 	"wikimedia-copyrightwarning": "Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] ir [https://www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.\nNorėdami sužinoti daugiau, žiūrėkite [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Naudojimo sąlygas]",
+	"wikimedia-developers": "Kūrėjai",
 	"interlanguage-link-commons": "Vikiteka"
 }
