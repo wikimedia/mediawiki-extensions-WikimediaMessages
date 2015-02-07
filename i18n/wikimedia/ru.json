@@ -124,6 +124,8 @@
 	"group-uploader": "Загружающие",
 	"group-uploader-member": "загружающ{{GENDER:$1|ий|ая}}",
 	"grouppage-uploader": "{{ns:project}}:Загружающие",
+	"group-wikidata-staff": "Персонал Викиданных",
+	"group-wikidata-staff-member": "{{GENDER:$1|сотрудник|сотрудница}} Викиданных",
 	"group-apihighlimits-requestor": "Запросившие уменьшение ограничений при работе с API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Запросивший уменьшение ограничений при работе с API}}",
 	"group-centralnoticeadmin": "Администраторы централизованных объявлений",
