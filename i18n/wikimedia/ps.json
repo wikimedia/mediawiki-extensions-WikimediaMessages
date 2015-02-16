@@ -45,6 +45,8 @@
 	"grouppage-researcher": "{{ns:project}}:څېړونکي",
 	"group-trusted": "باوري کارنان",
 	"group-trusted-member": "{{GENDER:$1|باوري کارن}}",
+	"group-wikidata-staff": "ويکيډاټا امله",
+	"group-wikidata-staff-member": "{{GENDER:$1|ويکيډاټا امله}}",
 	"group-coder": "کوډګران",
 	"group-coder-member": "{{GENDER:$1|کوډگر}}",
 	"group-editinterface": "د کتنمل سمونگران",
@@ -60,5 +62,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|د غونډال پازوال}}",
 	"group-translationadmin": "د ژباړې پازوالان",
 	"group-translationadmin-member": "{{GENDER:$1|د ژباړې پازوال}}",
-	"grouppage-translationadmin": "{{ns:project}}:د ژباړې پازوالان"
+	"grouppage-translationadmin": "{{ns:project}}:د ژباړې پازوالان",
+	"wikibase-otherprojects-wikidata": "ويکيډاټا",
+	"createacct-helpusername-url": "{{ns:Project}}:د کارن-نوم تگلاره"
 }
