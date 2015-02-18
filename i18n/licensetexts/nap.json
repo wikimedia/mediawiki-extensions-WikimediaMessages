@@ -2,8 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Chelin",
-			"Diebuche"
+			"Diebuche",
+			"C.R."
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 pubbrecate d\"o [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''."
+	"wm-license-gfdl-1.2-and-later": "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 pubbrecate d\"o [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Descrizzione",
+	"wm-license-information-source": "Funte",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Autore",
+	"wm-license-information-permission": "Premmesse",
+	"wm-license-information-permission-reusing-text": "Riausanno stu file",
+	"wm-license-own-work": "Fatica propria"
 }

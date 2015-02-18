@@ -7,6 +7,7 @@
 		]
 	},
 	"sitesupport": "Donazzione",
+	"tooltip-n-sitesupport": "Aiutece",
 	"group-global-renamer": "Rinommenature globale",
 	"group-global-renamer-member": "{{GENDER:$1|rinommenatore globale}}",
 	"grouppage-global-renamer": "m:Global renamers",
@@ -16,5 +17,9 @@
 	"group-staff": "Staff",
 	"group-staff-member": "{{GENDER:$1|compunente ddo staff}}",
 	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Sviluppature",
 	"wikimedia-torblock-blocked": "'O ndirizzo IP vuosto, <strong>$1</strong>, è stato identificato automatecamente comm'a nu exid node for.\n'E cagnamiente cu Tor so' state bluccate pe' putè mpiccià abbuse.\nPe' n'avè cchiù nfurmaziune e struziune pe' l'utente leggittimate, liggete 'e puliteche globbale [[m:Special:MyLanguage/No open proxies|nisciuna proxy araputa]]"
 }

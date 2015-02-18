@@ -30,7 +30,8 @@
 			"Kaldari",
 			"Nemo bis",
 			"Pegna",
-			"Mor"
+			"Mor",
+			"Kroji"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -188,6 +189,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nombres_de_usuario",
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicitar una cuenta",
 	"wikimedia-developers": "Desarrolladores",
+	"wikimedia-globalblocking-ipblocked": "<strong>Tu dirección IP ha sido [[m:Special:MyLanguage/Global blocks|bloqueada en todos los wikis]].</strong>\n\n$1 ($2) realizó el bloqueo.\nEl motivo aducido es ''$3''.\n\n* Fecha de inicio del bloqueo: $4\n* Fecha de finalización del bloqueo: $5\n\nTu dirección IP actual es $6.\nPor favor, incluye todos los detalles anteriores en cualquier consulta que realices sobre el tema.\n\nSi crees que esta dirección se bloqueó por error, véase la política global de [[m:Special:MyLanguage/No open proxies|prohibición de proxies abiertos]] para más información e instrucciones.\nSi no es tu caso, puedes [[m:Steward requests/Global|publicar una solicitud de revisión en Meta-Wiki]] para discutir el bloqueo.",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy/es Política de privacidad]",
 	"mwoauth-grant-checkuser": "Acceso a datos de ''checkuser''",
