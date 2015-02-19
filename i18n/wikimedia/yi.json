@@ -133,6 +133,7 @@
 	"wikimedia-copyrightwarning": "אויפהיטנדיק די ענדערונגען, איר זענט מסכים מיט די [https://wikimediafoundation.org/wiki/Terms_of_Use ניצבאַדינגונגען] , און איר זענט אומאָפּענדערלעך מסכים צו פּובליקירן אייער ביישטייערונג אונטער [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA  ליצענץ 3.0] און [https://www.gnu.org/copyleft/fdl.html GFDL].\nאיר שטימט צו, אַז אַ היפּערלינק אָדער URL איז גענוג צושרייבן אונטערן Creative Commons ליצענץ.",
 	"wikibase-repo-name": "וויקידאטן",
 	"wikibase-sitelinks-wikinews": "וויקינײַעס",
+	"wikibase-sitelinks-wikiquote": "וויקיציטיר",
 	"wikibase-sitelinks-wikisource": "וויקיקוואל",
 	"wikibase-sitelinks-wikivoyage": "וויקירייזע",
 	"wikibase-sitelinks-commons": "וויקימעדיע קאמאנס",
@@ -144,5 +145,6 @@
 	"extdist-branch-REL1_24": "1.24 (לעצטע סטאבילע מעדיעוויקי)",
 	"createacct-helpusername-url": "{{ns:Project}}:באניצער־נאמען ריכטליניע",
 	"createacct-captcha-help-url": "{{ns:Project}}:בעטן א קאנטע",
+	"wikimedia-developers": "אנטוויקלער",
 	"interlanguage-link-sitename-wikipedia": "וויקיפעדיע, די פרײַע ענציקלאפעדיע"
 }

@@ -16,10 +16,13 @@
 	"grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive",
 	"group-staff": "Staff",
 	"group-staff-member": "{{GENDER:$1|compunente ddo staff}}",
+	"wikimedia-copyright": "'O testo 'o truvate ccà <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\ntermene addizionale ponno essere apprecate.\nvedite <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms d'aùse</a> pe' n'avé cchiù ddettaglie.",
+	"wikimedia-copyrightwarning": "Riggistranno 'e cagnamiente, site d'accordo ch' 'e [https://wikimediafoundation.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmente accettate 'e lassà 'e contrebbute vuoste sott'a na licienza [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Licenze CC BY-SA 3.0] e [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nVuje accettate ca nu cullegamento o URL fosse sufficiente pe' ne dà attribuzione sott'a licienza Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Sviluppature",
+	"wikimedia-globalblocking-ipblocked": "'''<nowiki>'o</nowiki> 'ndirizzo IP vuosto è stato [[m:Special:MyLanguage/Global blocks|bluccato ncopp' 'a tutt' 'e wiki]].'''\n\n'O blocco è stato fatto 'a $1 ($2).\n'O mutivo dato è ''$3''.\n\n* Accummencio d' 'o blocco: $4\n* Chiusa d' 'o blocco: $5\n\n'O 'ndirizzo IP vuosto è $6.\nPe' piacere nzertate tutt' 'e dettaglie ncoppa ogn'addimanna ca facite.\n\nSi pure vuje penzate ca site stato bluccato pe' bbìa 'e n'errore, putite accucchià nfurmaziune c'aiutassero a scummiglià 'a situazione int' 'e reole globbale ncopp'a [[m:Special:MyLanguage/No open proxies|'e proxy nchiuse]].\nChi pe n'ata mano vulesse parlà d' 'o blocco nquistione avess'a ghì [[m:Steward requests/Global|a mannà n'addimanna dint'a Meta Wiki]].",
 	"wikimedia-torblock-blocked": "'O ndirizzo IP vuosto, <strong>$1</strong>, è stato identificato automatecamente comm'a nu exid node for.\n'E cagnamiente cu Tor so' state bluccate pe' putè mpiccià abbuse.\nPe' n'avè cchiù nfurmaziune e struziune pe' l'utente leggittimate, liggete 'e puliteche globbale [[m:Special:MyLanguage/No open proxies|nisciuna proxy araputa]]"
 }

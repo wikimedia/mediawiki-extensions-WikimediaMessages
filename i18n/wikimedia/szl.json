@@ -37,15 +37,16 @@
 	"group-coder": "Programisty",
 	"group-coder-member": "programista",
 	"group-global-bot": "Boty globalne",
-	"group-global-bot-member": "!!FUZZY!!bot globalny",
+	"group-global-bot-member": "bot globalny",
 	"group-global-rollbacker": "Globalńy uprowńyńi do wycofywańo sprowjyń",
-	"group-global-rollbacker-member": "!!FUZZY!!globalńy uprowńony do wycofywańo sprowjyń",
+	"group-global-rollbacker-member": "globalńy uprowńony do wycofywańo sprowjyń",
 	"group-ombudsman": "Rzeczńiki prow",
-	"group-ombudsman-member": "!!FUZZY!!rzeczńik prow",
+	"group-ombudsman-member": "rzeczńik prow",
 	"group-steward": "Stewardy",
 	"group-steward-member": "steward",
 	"group-sysadmin": "Admińistratory systymu",
 	"group-sysadmin-member": "admińistrator systyma",
-	"wikimedia-copyright": "Tekst je udostympńany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencyji Creative Commons: uznańe autorstwa, na jednakich warunkach</a>, ze możebnośćům uobowjůnzywańo ekstra uograńiczyń.\nUobejzdrzij blank dokłodne informacyje uo <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">warunkach korzystańo</a>.",
-	"wikimedia-copyrightwarning": "Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use warunkach korzystańo]."
+	"wikimedia-copyright": "Tekst udostympńany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencyji Creative Commons: uznańy autorstwa, na takich samych warůnkach</a>, ze mogebnośćům uobowjůnzywańo ekstra uograńiczyń.\nUobejrzij dokładne informacyje uo <a href=\"https://wikimediafoundation.org/wiki/Warunki_korzystania\">warůnkach korzistańo</a>.",
+	"wikimedia-copyrightwarning": "Bez spamjyntańe půmjyńań dowosz ńyodwołalno zgoda na udostympńańe Twojygo wkłodu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańe pod warunkem co najmnńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use warunkach korzystańo].",
+	"wikimedia-developers": "Lo deweloperůw"
 }

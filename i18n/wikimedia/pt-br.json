@@ -23,7 +23,8 @@
 			"555",
 			"Vitorvicentevalente",
 			"Rodrigo codignoli",
-			"Dianakc"
+			"Dianakc",
+			"Fasouzafreitas"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -159,12 +160,13 @@
 	"group-translationadmin-member": "{{GENDER:$1|administrador de tradução|administradora de tradução}}",
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de tradução",
 	"search-interwiki-custom": "wiktionary:Origem: Wikcionário\nwikibooks:Origem: Wikilivros\nwikinews:Origem: Wikinotícias\nwikiquote:Origem: Wikiquote\nwikisource:Origem: Wikisource\nwikiversity:Origem: Wikiversidade\nwikivoyage:Origem: Wikivoyage",
-	"wikimedia-copyright": "Este texto é disponibilizado nos termos da licença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR\">Creative Commons - Atribuição - Partilha nos Mesmos Termos 3.0 Não Adaptada (CC BY-SA 3.0)</a>;\npode estar sujeito a condições adicionais.\nPara mais detalhes, consulte as <a href=\"https://wikimediafoundation.org/wiki/Condições_de_Uso\">Condições de Uso</a>.",
-	"wikimedia-copyrightwarning": "Ao gravar as alterações, concorda com os [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Termos de Uso] e em registar irrevogavelmente a sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e a [https://www.gnu.org/copyleft/fdl.html licença GFDL].\nConcorda que uma hiperligação ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.",
+	"wikimedia-copyright": "Este texto é disponibilizado nos termos da licença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt\">Creative Commons - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;\npode estar sujeito a condições adicionais.\nPara mais detalhes, consulte as <a href=\"https://wikimediafoundation.org/wiki/Condições_de_Uso\">Condições de Uso</a>.",
+	"wikimedia-copyrightwarning": "Ao gravar as alterações, você concorda com os [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Termos de Uso] e em registrar irrevogavelmente a sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e a [https://www.gnu.org/copyleft/fdl.html licença GFDL].\nTambém concorda que uma hiperligação ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definição de Creative Commons Attribution-ShareAlike License\" target=\"_blank\">CC BY-SA 3.0</a> e <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definição de GFDL\" target=\"_blank\">GFDL</a>",
-	"wikibase-sitelinks-wikiquote": "Páginas Wikiquote com link para este item",
-	"wikibase-sitelinks-wikisource": "Páginas no Wikisource com link para este item",
-	"wikibase-sitelinks-wikivoyage": "Páginas no Wikivoyage com link para este item",
+	"wikibase-sitelinks-wikinews": "Wikinotícias",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-sitelinks-commons": "Páginas Wikimedia Commons com link para este item",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"cant-delete-main-page": "Você não pode excluir ou mover a página principal.",

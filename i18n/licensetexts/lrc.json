@@ -11,8 +11,12 @@
 	"wm-license-book-volume": "حجم",
 	"wm-license-book-year-of-publication": "سال چاپ بیئن",
 	"wm-license-creator-alternative-names": "نوم جاگزین",
+	"wm-license-information-description": "شرح",
 	"wm-license-information-source": "سرچشمه",
 	"wm-license-information-date": "تاريخ",
+	"wm-license-information-author": "نيسنه",
 	"wm-license-information-permission": "دسرسی",
-	"wm-license-original-upload-log": "پهرستنومه سوارکرد اصلی"
+	"wm-license-original-upload-log": "پهرستنومه سوارکرد اصلی",
+	"wm-license-own-work": "کار خود",
+	"wm-license-self-multiple-licenses-select": "شما سی ای گزنیشتتو واس یه گل لیسانس انتخاو بکیت."
 }

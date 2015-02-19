@@ -6,6 +6,7 @@
 		]
 	},
 	"sitesupport": "هومياری پيلی",
+	"tooltip-n-sitesupport": "د ایما حامینداری بکیت",
 	"nstab-timedtext": "نیسه وخت دار",
 	"group-filemover": "جانیا آلشت کننه",
 	"group-filemover-member": "{{جنس:$1|جانیا آلشت کننه}}",
@@ -21,9 +22,14 @@
 	"group-editinterface-member": "{{جنس:$1|ویرایشتگر مین پیوست}}",
 	"group-massmessage-sender": "فرسنه یا فره پیغوم",
 	"group-massmessage-sender-member": "{{جنس:$1|فرسنه فره پیغوم}}",
+	"wikimedia-copyright": "نیسسه زیر نخیز<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> ها د دسرس؛ کلیمه یا اضافی شایت وه کار گرته بوئن.\nد <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">کلیمه یا وه کار گرتن</a> for details بونیت.",
+	"wikibase-sitelinks-wikinews": "ویکی خور",
+	"wikibase-sitelinks-wikiquote": "ويكی پورس",
 	"wikibase-sitelinks-wikisource": "بلگه یا ویکی سرچشمه وه ای قلم هوم پیوند بیه",
+	"wikibase-sitelinks-wikivoyage": "ويكی سفر",
 	"wikibase-sitelinks-commons": "بلگه پرنمون یا ویکی پدیا  دی ای قلم هوم پیوند بیه",
 	"wikibase-sitelinks-sitename-commonswiki": "هومبئری",
 	"upload-more-photos-of-this-monument": "د ای گات عسگیا فره تر سوار بکید",
-	"createacct-captcha-help-url": "{{ns:پروجه}}:درحاست سی یه گل حساو"
+	"createacct-captcha-help-url": "{{ns:پروجه}}:درحاست سی یه گل حساو",
+	"wikimedia-developers": "گپ کلون یاریا"
 }
