@@ -197,7 +197,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:使用者名稱政策",
 	"createacct-captcha-help-url": "{{ns:Project}}:請求建立帳號",
 	"wikimedia-developers": "開發人員",
-	"wikimedia-globalblocking-ipblocked": "'''您的 IP 位址已被 [[m:Special:MyLanguage/Global blocks|所有 Wiki 封鎖]]。'''\n\n由 $1 ($2) 封鎖。\n原因為 ''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n您目前的 IP 位址為 $6。\n不論您做任何的請求，請檢閱上述訊息。\n\n如果您認為您可能被誤判封鎖，您可於 [[m:Special:MyLanguage/No open proxies|禁止使用開放代理]] 查看進一步資訊與指示。\n或者，請於 [[m:Steward requests/Global|Meta-Wiki 請求審查]] 討論封鎖原因。",
+	"wikimedia-globalblocking-ipblocked": "'''您的 IP 位址已被 [[m:Special:MyLanguage/Global blocks|所有 Wiki 封鎖]]。'''\n\n由 $1 ($2) 封鎖。\n原因為 ''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n您目前的 IP 位址為 $6。\n不論您做任何的請求，請檢閱上述訊息。\n\n如果您認為您可能被誤判封鎖，您可於 [[m:Special:MyLanguage/No open proxies|禁止使用開放代理]] 查看進一步資訊與指示。\n或者，請於[[m:Steward requests/Global|元維基請求審查]]討論封鎖原因。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''您的請求使用了一個或多個代理伺服器，己被 [[m:Special:MyLanguage/Global blocks|全域封鎖]]。'''\n\n由 $1 ($2) 封鎖。\n原因為 ''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n您目前的 IP 位址為 $6。\n不論您做任何的請求，請檢閱上述訊息。\n\n如果您認為您可能被誤判封鎖，您可於 [[m:Special:MyLanguage/No open proxies|禁止使用開放代理]] 查看進一步資訊與指示。\n或者，請於 [[m:Steward requests/Global|Meta-Wiki 請求審查]] 討論封鎖原因。",
 	"wikimedia-torblock-blocked": "您的 IP 位址，<strong>$1</strong>，己被自動識別為 Tor 節點之一。\n己禁止任何以透過 Tor 節點的編輯以防止濫用。\n有關合法使用者的更多訊息與說明請參考 [[m:Special:MyLanguage/No open proxies|禁止使用開放代理]] 全域政策。",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy 隱私政策]",

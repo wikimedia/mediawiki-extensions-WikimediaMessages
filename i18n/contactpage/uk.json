@@ -6,8 +6,8 @@
 			"Base"
 		]
 	},
-	"contactpage-title-requestlicense": "Контактна форма використання товарного знака",
-	"contactpage-pagetext-requestlicense": "Будь ласка, використовуйте форму нижче для зв'язку з нами стосовно питань про товарному знаку",
+	"contactpage-title-requestlicense": "Форма запиту ліцензії",
+	"contactpage-pagetext-requestlicense": "Будь ласка, скористайтеся формою нижче, щоб зв'язатися з нами щодо використання торгового знаку Вікімедіа.",
 	"contactpage-subject-requestlicense": "Запит на використання товарного знака Вікімедіа",
 	"contactpage-license-request-username": "Ім'я користувача *",
 	"contactpage-license-request-relevantsite": "Відповідний сайт Вікімедіа (якщо наявний)",
@@ -28,8 +28,8 @@
 	"contactpage-wikimedia-trademark-wikiwordmark": "Текстовий товарний знак Вікіпедії",
 	"contactpage-wikimedia-trademark-w": "Стилізована \"W\"",
 	"contactpage-wikimedia-trademark-wikimedia": "Співтовариство Вікімедіа",
-	"contactpage-title-licenseabuse": "Контактна форма із порушення авторських прав",
-	"contactpage-pagetext-licenseabuse": "Будь ласка, використовуйте форму нижче для зв'язку з нами з приводу порушень авторських прав",
+	"contactpage-title-licenseabuse": "Форма для скарг на порушення",
+	"contactpage-pagetext-licenseabuse": "Будь ласка, скористайтеся формою нижче, щоб зв'язатися з нами щодо когось, кого Ви підозрюєте в зловживанні чи неправильному використанні торгового знаку Вікімедіа.",
 	"contactpage-subject-licenseabuse": "Повідомлення про зловживання торговою маркою Вікімедіа",
 	"contactpage-license-abuse-description": "Опишіть зловживання",
 	"contactpage-license-abuse-selectmark": "Який саме знак був використаний з порушенням?",

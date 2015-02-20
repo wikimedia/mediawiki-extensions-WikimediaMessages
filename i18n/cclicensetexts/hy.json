@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vadgt"
+			"Vadgt",
+			"Xelgen"
 		]
 	},
-	"wm-license-cc-by-3.0-ch-text": "Այս ֆայլը լիցենզավորվել է [[{{int:wm-license-cc-wiki-link}}|Քրեատիվ Քոմմուսի]] կողմից [//creativecommons.org/licenses/by/3.0/ch/deed.en Attribution 3.0 Switzerland] լիցենզիայով:"
+	"wm-license-cc-attribution": "Հղում",
+	"wm-license-cc-by-3.0-ch-text": "Այս ֆայլը լիցենզավորվել է [[{{int:wm-license-cc-wiki-link}}|Քրեատիվ Քոմմուսի]] կողմից [//creativecommons.org/licenses/by/3.0/ch/deed.en Attribution 3.0 Switzerland] լիցենզիայով:",
+	"wm-license-cc-conditions-share_alike-header": "համանման տարածում",
+	"wm-license-cc-conditions-share_alike-text": "Եթե դուք ձևափոխում եք, փոփոխում եք կամ այս աշխատանքի հիմման վրա ստեղծում եք նոր աշխատանք, ապա ձեր ստեղծածը կարող եք տարածել նույն կամ համարժեք թույլատրագրի տակ։"
 }

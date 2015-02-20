@@ -63,6 +63,10 @@
 	"group-translationadmin": "د ژباړې پازوالان",
 	"group-translationadmin-member": "{{GENDER:$1|د ژباړې پازوال}}",
 	"grouppage-translationadmin": "{{ns:project}}:د ژباړې پازوالان",
+	"wikibase-sitelinks-wikinews": "ويکيخبرونه",
+	"wikibase-sitelinks-wikiquote": "ويکيوراشه",
+	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
+	"wikibase-sitelinks-wikivoyage": "ويکييون",
 	"wikibase-otherprojects-wikidata": "ويکيډاټا",
 	"createacct-helpusername-url": "{{ns:Project}}:د کارن-نوم تگلاره"
 }
