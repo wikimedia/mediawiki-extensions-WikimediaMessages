@@ -11,7 +11,8 @@
 			"Paucabot",
 			"SMP",
 			"Solde",
-			"Vriullop"
+			"Vriullop",
+			"Qllach"
 		]
 	},
 	"wikimedialicensetexts-desc": "Missatges de llicència de Wikimedia",
@@ -69,7 +70,7 @@
 	"wm-license-information-description": "Descripció",
 	"wm-license-information-description-missing": "Aquesta imatge no té '''descripció''' o li manca alguna informació essencial.",
 	"wm-license-information-description-missing-request": "Les imatges han de tenir un sumari que informi del seu contingut, el seu autor, el seu origen i, si és possible, la data de la seva creació. Si coneixeu o teniu accés a aquestes dades, afegiu-les si us plau a la pàgina.",
-	"wm-license-information-source": "Origen",
+	"wm-license-information-source": "Font",
 	"wm-license-information-source-missing": "Manca informació sobre l''''origen''' d'aquest fitxer.",
 	"wm-license-information-source-missing-request": "Us agraïm que editeu la descripció d'aquest fitxer i proporcioneu l'origen.",
 	"wm-license-information-date": "Data",

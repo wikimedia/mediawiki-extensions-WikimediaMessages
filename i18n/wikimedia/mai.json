@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ggajendra"
+			"Ggajendra",
+			"Tulsi Bhagat"
 		]
 	},
-	"tooltip-n-sitesupport": "हमरा सभकेँ सहयोग करू"
+	"sitesupport": "दान",
+	"tooltip-n-sitesupport": "हमरा सभकेँ सहयोग करू",
+	"wikibase-sitelinks-wikinews": "विकिसमाचार",
+	"wikibase-sitelinks-wikiquote": "विकिउद्धरण",
+	"wikibase-sitelinks-wikisource": "विकिस्रोत",
+	"wikibase-sitelinks-wikivoyage": "विकियात्रा",
+	"wikimedia-developers": "डेवलपर्स"
 }

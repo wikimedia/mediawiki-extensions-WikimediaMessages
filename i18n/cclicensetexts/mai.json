@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"बिप्लब आनन्द"
+			"बिप्लब आनन्द",
+			"Tulsi Bhagat"
 		]
 	},
 	"wm-license-cc-attribution": "एट्रीब्यूसन",
 	"wm-license-cc-by-1.0-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [//creativecommons.org/licenses/by/1.0/ एट्रीब्यूशन १.० जेनेरिक] लाईसेंस ।",
-	"wm-license-cc-by-1.0-fi-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [//creativecommons.org/licenses/by/1.0/fi/ एट्रीब्यूशन १.० फिनलैंड] लाईसेंस ।"
+	"wm-license-cc-by-1.0-fi-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [//creativecommons.org/licenses/by/1.0/fi/ एट्रीब्यूशन १.० फिनलैंड] लाईसेंस ।",
+	"wm-license-cc-conditions-attribution-header": "एट्रीब्यूसन",
+	"wm-license-cc-conditions-share_alike-header": "शेआर एलाइक"
 }
