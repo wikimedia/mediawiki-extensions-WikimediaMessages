@@ -47,6 +47,7 @@
 	"group-trusted-member": "{{GENDER:$1|باوري کارن}}",
 	"group-wikidata-staff": "ويکيډاټا امله",
 	"group-wikidata-staff-member": "{{GENDER:$1|ويکيډاټا امله}}",
+	"grouppage-wikidata-staff": "{{ns:project}}:د ويکيډاټا د املې غړي",
 	"group-coder": "کوډګران",
 	"group-coder-member": "{{GENDER:$1|کوډگر}}",
 	"group-editinterface": "د کتنمل سمونگران",

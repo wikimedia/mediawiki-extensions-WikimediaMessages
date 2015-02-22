@@ -156,6 +156,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Benotzernumm Richtlinn",
 	"createacct-captcha-help-url": "{{ns:Project}}:E Benotzerkont ufroen",
 	"wikimedia-developers": "Entwéckler",
+	"wikimedia-globalblocking-ipblocked": "'''Är IP-Adress gouf[[m:Special:MyLanguage/Global blocks|op alle Wikie gespaart]].'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\nÄr aktuell IP-Adress ass $6.\nGitt w.e.g. all d'Detaileir hei driwwer an allen Ufroen un déi Dir maacht.\n\nWann Dir mengt d'Spär wier net berechtegt da fann Dir zousätzlech Informatiounen an Hëllefstellungen an der globaler Richtlinn \"[[m:Special:MyLanguage/No open proxies|Keng oppe Proxyen]]\".\nSoss stell w.e.g. [[m:Steward requests/Global|eng Ufro op Meta-Wiki]], fir d'Spär ze diskutéieren.",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Dateschutzrichtlinn]",
 	"mwoauth-grant-checkuser": "Zougang op Checkuser-Donnéeën",
 	"wikimedia-flow-terms-of-use-new-topic": "Duerch d'Klicken op  \"{{int:flow-newtopic-save}}\" sidd Dir mat eisen [//wikimediafoundation.org/wiki/Terms_of_Use Notzungsbedingungen] an der Verëffentlechung vun Ärem Text ënner der [//creativecommons.org/licenses/by-sa/3.0 CC-BY-SA-3.0-Lizenz] an der [//en.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] averstan.",

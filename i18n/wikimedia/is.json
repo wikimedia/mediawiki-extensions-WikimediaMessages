@@ -6,7 +6,8 @@
 			"Snævar",
 			"Spacebirdy",
 			"לערי ריינהארט",
-			"Fitoschido"
+			"Fitoschido",
+			"Maxí"
 		]
 	},
 	"wikimediamessages-desc": "Sérstök Wikimedia skilaboð",
@@ -50,6 +51,8 @@
 	"group-steward-member": "{{GENDER:$1|Ráðsmaður|Ráðskona}}",
 	"wikimedia-copyright": "Textinn er laus undir <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike leyfi</a>; með mögulegum viðbótarskilmálum.\nSjá nánar í <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">notkunarskilmálum</a>.",
 	"wikimedia-copyrightwarning": "Með því að „{{int:savearticle}}” staðfestir þú [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use notkunarskilmála] og samþykkir að gefa út framlag þitt undir [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 leyfi] og [https://www.gnu.org/copyleft/fdl.html GFDL leyfi].\nÞú staðfestir einnig að vefslóð er nægjanleg tilvísun undir Creative Commons leyfinu.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
 	"cant-delete-main-page": "Þú getur ekki eytt eða fært forsíðuna.",
+	"wikimedia-developers": "Forritarar",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, frjálsa alfræðiritið"
 }

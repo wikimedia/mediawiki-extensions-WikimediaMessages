@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Spacebirdy"
+			"Spacebirdy",
+			"Maxí"
 		]
 	},
 	"wm-license-fsf-wiki-link": "w:is:Frjálsa hugbúnaðarstofnunin",
@@ -14,6 +15,7 @@
 	"wm-license-information-date": "Dagsetning",
 	"wm-license-information-author": "Höfundaréttshafi",
 	"wm-license-information-permission": "Réttindi",
+	"wm-license-information-permission-reusing-text": "Endurnotkun á þessari skrá",
 	"wm-license-information-permission-see-below": "See below.",
 	"wm-license-information-other-versions": "Aðrar útgáfur",
 	"wm-license-own-work": "eigin skrá"
