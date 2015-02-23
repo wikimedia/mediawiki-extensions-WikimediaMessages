@@ -13,7 +13,8 @@
 			"Platonides",
 			"Ralgis",
 			"Sanbec",
-			"Translationista"
+			"Translationista",
+			"Macofe"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:es:Creative Commons",
@@ -198,7 +199,7 @@
 	"wm-license-cc-free": "Eres libre:",
 	"wm-license-cc-free-to-share-header": "para compartir",
 	"wm-license-cc-free-to-share-text": "para copiar, distribuir y transmitir el trabajo",
-	"wm-license-cc-free-to-remix-header": "a remezclar",
+	"wm-license-cc-free-to-remix-header": "para remezclar",
 	"wm-license-cc-free-to-remix-text": "para adaptar el trabajo",
 	"wm-license-cc-conditions": "Bajo las siguientes condiciones:",
 	"wm-license-cc-conditions-attribution-header": "atribución",
