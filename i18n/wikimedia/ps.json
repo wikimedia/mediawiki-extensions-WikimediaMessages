@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"عثمان خان شاہ"
 		]
 	},
 	"wikimediamessages-desc": "د ويکيمېډيا ځانگړي پيغامونه",
@@ -35,9 +36,9 @@
 	"group-inactive": "ناچارنده کارنان",
 	"group-inactive-member": "{{GENDER:$1|ناچارنده کارن}}",
 	"grouppage-inactive": "{{ns:project}}:غېرفعاله کارنان",
-	"group-interface_editor": "د کتنمل سمونگران",
-	"group-interface_editor-member": "{{GENDER:$1|د کتنمل بنسټگر}}",
-	"grouppage-interface_editor": "{{ns:project}}:د کتنمل سمونگران",
+	"group-interface-editor": "د کتنمل سمونگران",
+	"group-interface-editor-member": "{{GENDER:$1|د کتنمل بنسټگر}}",
+	"grouppage-interface-editor": "{{ns:project}}:د کتنمل سمونگران",
 	"group-ipblock-exempt": "له آی پي بنديزه بخښلی",
 	"group-ipblock-exempt-member": "{{GENDER:$1|له آی پي بنديزه بخښلی}}",
 	"group-researcher": "څېړونکي",
@@ -50,8 +51,6 @@
 	"grouppage-wikidata-staff": "{{ns:project}}:د ويکيډاټا د املې غړي",
 	"group-coder": "کوډګران",
 	"group-coder-member": "{{GENDER:$1|کوډگر}}",
-	"group-editinterface": "د کتنمل سمونگران",
-	"group-editinterface-member": "{{GENDER:$1|د ليدنمخ سمونگر}}",
 	"group-global-bot": "نړيوال روباټ",
 	"group-global-bot-member": "{{GENDER:$1|نړېوال روباټ}}",
 	"group-global-sysop": "نړېوال پازوالان",
@@ -69,5 +68,6 @@
 	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
 	"wikibase-sitelinks-wikivoyage": "ويکييون",
 	"wikibase-otherprojects-wikidata": "ويکيډاټا",
-	"createacct-helpusername-url": "{{ns:Project}}:د کارن-نوم تگلاره"
+	"createacct-helpusername-url": "{{ns:Project}}:د کارن-نوم تگلاره",
+	"wikimedia-developers": "ترقي ورکونکي"
 }

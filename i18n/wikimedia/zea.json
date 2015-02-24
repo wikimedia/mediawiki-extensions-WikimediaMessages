@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"NJ"
+			"NJ",
+			"Robin0van0der0vliet"
 		]
 	},
-	"sitesupport": "Donaoties"
+	"sitesupport": "Donaoties",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }

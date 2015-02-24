@@ -148,7 +148,6 @@
 	"group-global-ipblock-exempt": "{{doc-group|global-ipblock-exempt}}",
 	"group-global-ipblock-exempt-member": "{{doc-group|global-ipblock-exempt|member}}",
 	"grouppage-global-ipblock-exempt": "{{optional}}\n{{doc-group|global-ipblock-exempt|page}}\n{{Global grouppage}}",
-	"group-global-interface-editor": "{{doc-group|global-interface-editor}}",
 	"group-global-interface-editor": "{{doc-group|global-interface-editor|member}}",
 	"grouppage-global-interface-editor": "{{optional}}\n{{doc-group|global-interface-editor|page}}\n{{Global grouppage}}",
 	"group-global-renamer": "{{doc-group|global-renamer}}",

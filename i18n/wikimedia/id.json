@@ -80,9 +80,9 @@
 	"group-inactive": "Pengguna tidak aktif",
 	"group-inactive-member": "{{GENDER:$1|pengguna tidak aktif}}",
 	"grouppage-inactive": "{{ns:project}}:Pengguna tidak aktif",
-	"group-interface_editor": "Penyunting antarmuka",
-	"group-interface_editor-member": "{{GENDER:$1|penyunting antarmuka}}",
-	"grouppage-interface_editor": "{{ns:project}}:Penyunting antarmuka",
+	"group-interface-editor": "Penyunting antarmuka",
+	"group-interface-editor-member": "{{GENDER:$1|penyunting antarmuka}}",
+	"grouppage-interface-editor": "{{ns:project}}:Penyunting antarmuka",
 	"group-ipblock-exempt": "Pengecualian blokir IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|pengecualian blokir IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Pengecualian blokir IP",
@@ -108,8 +108,6 @@
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Administrator pusat pengumuman}}",
 	"group-coder": "Programer",
 	"group-coder-member": "{{GENDER:$1|programer}}",
-	"group-editinterface": "Penyunting antarmuka",
-	"group-editinterface-member": "{{GENDER:$1|penyunting antarmuka}}",
 	"group-global-bot": "Bot global",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|pengecualian blokir IP global}}",
@@ -148,5 +146,6 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Kebijakan nama pengguna",
 	"createacct-captcha-help-url": "{{ns:Project}}:Mohon buatkan akun",
 	"wikimedia-developers": "Pengembang",
+	"wikimedia-globalblocking-ipblocked": "'''Alamat IP Anda telah [[m:Special:MyLanguage/Global blocks|diblokir pada semua wiki]].'''\n\nPemblokiran dilakukan oleh $1 ($2).\nAlasan yang diberikan adalah ''$3''.\n\n*Mulai di blokir: $4\n*Kadaluarsa blokir: $5\n\nAlamat IP Anda saat ini adalah $6.\nHarap sertakan semua rincian di atas dalam setiap pertanyaan Anda.\n\nJika Anda yakin Anda diblokir merupakan sebuah kesalahan, Anda dapat menemukan informasi tambahan dan petunjuk di Kebijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi terbuka]].\nJika tidak, untuk membicarakan hal ini, silakan [[m:Steward requests/Global|mengirim permintaan untuk diperiksa di Meta-Wiki]].",
 	"wikimediashoplink-linktext": "Wikimedia Shop"
 }

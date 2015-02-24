@@ -7,8 +7,8 @@
 			"Toadino2"
 		]
 	},
-	"contactpage-title-requestlicense": "Modulo di contatto per riutilizzo del marchio",
-	"contactpage-pagetext-requestlicense": "Si prega di utilizzare il modulo sottostante per contattarci su questioni relative ai marchi",
+	"contactpage-title-requestlicense": "Modulo di richiesta di una licenza",
+	"contactpage-pagetext-requestlicense": "Si prega di utilizzare il modulo sottostante per contattarci su questioni relative all'utilizzo dei marchi Wikimedia",
 	"contactpage-subject-requestlicense": "Richiesta di utilizzo del marchio Wikimedia",
 	"contactpage-license-request-username": "Nome utente *",
 	"contactpage-license-request-relevantsite": "Sito di Wikimedia rilevante (se presente)",
@@ -29,8 +29,8 @@
 	"contactpage-wikimedia-trademark-wikiwordmark": "Scritta Wikipedia",
 	"contactpage-wikimedia-trademark-w": "\"W\" stilizzata",
 	"contactpage-wikimedia-trademark-wikimedia": "Comunità di Wikimedia",
-	"contactpage-title-licenseabuse": "Modulo di contatto per abusi di copyright",
-	"contactpage-pagetext-licenseabuse": "Si prega di utilizzare il modulo sottostante per contattarci su questioni relative all'abuso di copyright",
+	"contactpage-title-licenseabuse": "Modulo di segnalazione degli abusi",
+	"contactpage-pagetext-licenseabuse": "Si prega di utilizzare il modulo sottostante per contattarci se sospetti che qualcuno abusi o utilizzi impropriamente un marchio Wikimedia",
 	"contactpage-subject-licenseabuse": "Notifica di abuso marchio Wikimedia",
 	"contactpage-license-abuse-description": "Descrivi l'abuso",
 	"contactpage-license-abuse-selectmark": "A quale marchio si riferisce l'abuso?",
