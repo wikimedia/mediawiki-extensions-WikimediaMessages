@@ -64,7 +64,7 @@
 	"group-inactive-member": "{{GENDER:$1|көҕө суох кыттааччы}}",
 	"grouppage-inactive": "{{ns:project}}:Көҕө суох кыттааччылар",
 	"group-interface-editor": "Интерфейс эрэдээктэрдэрэ",
-	"group-interface-editor-member": "!!FUZZY!!интерфейс эрэдээктэрэ",
+	"group-interface-editor-member": "интерфейс эрэдээктэрэ",
 	"grouppage-interface-editor": "{{ns:project}}:Интерфейс эрэдээктэрдэрэ",
 	"group-ipblock-exempt": "Хааччахтааһыҥҥа киирбэт IP-лаахтар",
 	"group-ipblock-exempt-member": "IP-та хааччахтаммат кыттааччы",
@@ -104,5 +104,6 @@
 	"group-sysadmin-member": "дьаһабыл",
 	"wikimedia-copyright": "Тиэкис <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> лиссиэнсийэ усулуобуйатынан тарҕанар, сорох түбэлтэҕэ эбии көрдөбүллэр баар буолуохтарын сөп. Сиһилии <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ru\">Туттуу усулуобуйатын</a> көр.",
 	"wikimedia-copyrightwarning": "Бэйэҥ уларытыыгын киллэрдэххинэ суруйбуккун [https://wikimediafoundation.org/wiki/Туһаныы усулуобуйатын], ону тэҥэ [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] уонна [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лиссиэнсийэлэринэн тарҕанарыгар сөбүлэҥҥин биэрэҕин. Ыйыллыбыт сигэлэр Creative Commons license ирдэбиллэрин толорорго сөп түбэһэллэрин мэктиэлиигин.",
+	"wikibase-sitelinks-wikinews": "Биики-сонун",
 	"wikimedia-developers": "Айааччылар"
 }

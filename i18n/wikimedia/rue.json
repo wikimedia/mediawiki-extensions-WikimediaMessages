@@ -3,7 +3,8 @@
 		"authors": [
 			"Gazeb",
 			"Krinkle",
-			"Tkalyn"
+			"Tkalyn",
+			"Dicto23456"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлїня, характерістічны про Вікімедію",
@@ -63,9 +64,9 @@
 	"group-inactive": "Неактівны хоснователї",
 	"group-inactive-member": "неактівный хоснователь",
 	"grouppage-inactive": "{{ns:project}}:Неактівны хоснователї",
-	"group-interface_editor": "Редакторы інтерфейсу",
-	"group-interface_editor-member": "редактор інтерфейсу",
-	"grouppage-interface_editor": "{{ns:project}}:Редакторы інтерфейсу",
+	"group-interface-editor": "Редакторы інтерфейсу",
+	"group-interface-editor-member": "!!FUZZY!!редактор інтерфейсу",
+	"grouppage-interface-editor": "{{ns:project}}:Редакторы інтерфейсу",
 	"group-ipblock-exempt": "Выняткы з блокованя IP адрес",
 	"group-ipblock-exempt-member": "выняткок з блокованя IP адрес",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Выняткы з блокованя IP адрес",
@@ -85,8 +86,6 @@
 	"grouppage-trusted": "{{ns:project}}:Довірны хоснователї",
 	"group-coder": "Проґраматоры",
 	"group-coder-member": "проґраматор",
-	"group-editinterface": "Редакторы інтерфейсу",
-	"group-editinterface-member": "редактор інтерфейсу",
 	"group-global-bot": "Ґлобалны боты",
 	"group-global-bot-member": "ґлобалный бот",
 	"group-global-rollbacker": "Ґлобалны ревертователї",
@@ -103,5 +102,6 @@
 	"group-sysadmin-member": "сістемный адміністратор",
 	"wikimedia-copyright": "Текст є доступный під <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.rue\">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href=\"https://wikimediafoundation.org/wiki/Условія_схоснованя\">Условія схоснованя</a>.",
 	"wikimedia-copyrightwarning": "Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [https://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[https://wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].",
-	"wikibase-repo-name": "Вікіданы"
+	"wikibase-repo-name": "Вікіданы",
+	"wikimedia-developers": "Розробники"
 }

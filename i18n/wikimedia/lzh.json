@@ -4,7 +4,9 @@
 			"Justincheng12345",
 			"Yanteng3",
 			"Nemo bis",
-			"Jason924tw"
+			"Jason924tw",
+			"Davidzdh",
+			"StephDC"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特集",
@@ -13,5 +15,9 @@
 	"nstab-creator": "立者",
 	"wikimedia-copyright": "凡我維基之文，悉為<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。\n請閱<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">全文</a>，以得其詳。",
 	"wikimedia-copyrightwarning": "《維基大典》，奉《[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意]》、《革奴自由文檔》授權以行，增修刪改，皆無異議。惟所取用，務請引據。",
-	"wikibase-repo-name": "維基數據"
+	"wikibase-repo-name": "維基數據",
+	"wikibase-sitelinks-wikiquote": "維基語錄",
+	"wikibase-sitelinks-wikisource": "維基文庫",
+	"wikibase-sitelinks-wikivoyage": "維基遊歷",
+	"wikimedia-developers": "造紙者"
 }

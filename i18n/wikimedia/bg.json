@@ -60,7 +60,7 @@
 	"group-inactive-member": "неактивен потребител",
 	"grouppage-inactive": "{{ns:project}}:Неактивни потребители",
 	"group-interface-editor": "Редактори на интерфейса",
-	"group-interface-editor-member": "!!FUZZY!!редактор на интерфейса",
+	"group-interface-editor-member": "редактор на интерфейса",
 	"grouppage-interface-editor": "{{ns:project}}:Редактори на интерфейса",
 	"group-ipblock-exempt": "Изключения от блокирането по IP адрес",
 	"group-ipblock-exempt-member": "Изключение от блокирането по IP адрес",
