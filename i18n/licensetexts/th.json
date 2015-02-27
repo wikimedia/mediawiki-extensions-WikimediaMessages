@@ -57,13 +57,13 @@
 	"wm-license-gfdl-wiki-link": "w:th:สัญญาอนุญาตเอกสารเสรีของกนู",
 	"wm-license-gpl-wiki-link": "w:th:สัญญาอนุญาตสาธารณะทั่วไปของกนู",
 	"wm-license-information-table-summary": "ตารางมาตรฐาน สำหรับให้ข้อมูลทั้งหมดเกี่ยวกับไฟล์ เช่น สิ่งที่อยู่ในภาพ วิธีการสร้างสรรค์งาน แหล่งที่มาและสถานะลิขสิทธิ์",
-	"wm-license-information-description": "คำอธิบายภาพ",
+	"wm-license-information-description": "คำอธิบาย",
 	"wm-license-information-description-missing": "ภาพหรือสื่อนี้ขาด'''คำอธิบาย'''ภาพหรือสื่อ และอาจขาดข้อมูลอื่น ๆ ด้วย",
 	"wm-license-information-description-missing-request": "กรุณาช่วยเพิ่มคำอธิบายที่มีความหมายชัดเจนลงบนภาพหรือสื่อนี้",
 	"wm-license-information-source": "แหล่งที่มา",
 	"wm-license-information-source-missing": "ภาพหรือสื่อนี้ไม่ได้ระบุ'''แหล่งที่มา'''",
 	"wm-license-information-source-missing-request": "กรุณาแก้ไขคำอธิบายภาพหรือสื่อนี้ และระบุแหล่งที่มาให้ชัดเจน",
-	"wm-license-information-date": "วันที่สร้างสรรค์",
+	"wm-license-information-date": "วันที่",
 	"wm-license-information-author": "ผู้ประพันธ์",
 	"wm-license-information-author-missing": "ภาพหรือสื่อนี้ขาดข้อมูลเกี่ยวกับ '''ผู้สร้างสรรค์ผลงาน'''",
 	"wm-license-information-permission": "สัญญาอนุญาต",
@@ -82,5 +82,5 @@
 	"wm-license-self-one-license-with-author": "$1 ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้",
 	"wm-license-self-multiple-licenses": "ข้าพเจ้า ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้",
 	"wm-license-self-multiple-licenses-with-author": "$1 ในฐานะผู้ถือลิขสิทธิ์ของภาพหรือสื่อนี้ อนุญาตให้ใช้ภาพหรือสื่อนี้ภายใต้เงื่อนไขต่อไปนี้",
-	"wm-license-self-multiple-licenses-select": "คุณสามารถเลือกเงื่อนไขลิขสิทธิ์ที่คุณต้องการได้"
+	"wm-license-self-multiple-licenses-select": "คุณสามารถเลือกสัญญาอนุญาตดังกล่าวตามต้องการ"
 }

@@ -5,7 +5,8 @@
 			"Melos",
 			"Santu",
 			"לערי ריינהארט",
-			"Nemo bis"
+			"Nemo bis",
+			"Pippinu"
 		]
 	},
 	"wikimediamessages-desc": "Missaggi spicifici di Wikimedia",
@@ -37,13 +38,12 @@
 	"grouppage-transwiki": "{{ns:project}}:Mpurtatura transwiki",
 	"group-coder": "Cudificatura",
 	"group-coder-member": "cudificaturi",
-	"group-editinterface-member": "Editori dâ interfaccia",
 	"group-global-bot": "Bot glubbali",
-	"group-global-bot-member": "!!FUZZY!!bot glubbali",
+	"group-global-bot-member": "bot glubbali",
 	"group-global-rollbacker": "Ripristinatura glubbali",
-	"group-global-rollbacker-member": "!!FUZZY!!ripristinaturi glubbali",
+	"group-global-rollbacker-member": "ripristinaturi glubbali",
 	"group-ombudsman": "Difinsura civici",
-	"group-ombudsman-member": "!!FUZZY!!difinsuri cìvicu",
+	"group-ombudsman-member": "difinsuri cìvicu",
 	"group-staff": "Staff",
 	"group-staff-member": "Cumpunenti dû staff",
 	"group-steward": "Stiùwart",
@@ -52,6 +52,6 @@
 	"group-sysadmin": "Amministratura di sistema",
 	"group-sysadmin-member": "amministraturi di sistema",
 	"grouppage-sysadmin": "m:System administrators",
-	"wikimedia-copyright": "Lu testu è dispunibbili sutta la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;\nsi pònnu applicàrisi àutri cunnizzioni.\nTalìa li <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">cunnizzioni di usu</a> pi li dittagli.",
-	"wikimedia-copyrightwarning": "Sarvannu, siti d'accordu di rènniri dispunìbbili lu vostru cuntribbutu sutta la [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] e la [https://www.gnu.org/copyleft/fdl.html GFDL].\nSiti d'accordu puru ca àutri riutilizzatura b'accreditanu lu vostru travagghiu, cu lu liami o cu na URL â pàggina â quali stai cuntribbuennu.\nTalia lu [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] pi sapìrinni cchiossai."
+	"wikimedia-copyright": "Stu testu è dispunìbbili sutta â <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.it\">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;\nsi ponnu applicàri àutri cunnizzioni.\nTalìa li <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/it\">Cunnizzioni d'Usu</a> pi li dittagghî.",
+	"wikimedia-copyrightwarning": "Sarvannu lu canciamentu, accetti li [https://wikimediafoundation.org/wiki/Terms_of_Use/it Cunnizzioni d'Usu], e si' d'accordu a' rènniri dispunìbbili irrivucabbilmenti lu to cuntribbutu sutta ê licenzi [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzzioni-Spartuta â stissa manera] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nSi' d'accordu ca nu culligamentu ipirtistuali o n'URL custituìsciunu n'attribbuzzioni vàlida dû to travagghiu ê sensi dâ licenza Creative Commons."
 }
