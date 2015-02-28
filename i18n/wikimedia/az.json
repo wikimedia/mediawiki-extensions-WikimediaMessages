@@ -7,7 +7,8 @@
 			"Vago",
 			"Vugar 1981",
 			"Nemo bis",
-			"Wertuose"
+			"Wertuose",
+			"Caliburn"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
@@ -51,9 +52,9 @@
 	"group-inactive": "Qeyri-aktiv istifadəçilər",
 	"group-inactive-member": "{{GENDER:$1|qeyri-aktiv istifadəçi}}",
 	"grouppage-inactive": "{{ns:project}}:Qeyri-aktiv istifadəçilər",
-	"group-interface_editor": "İnterfeys redaktoru",
-	"group-interface_editor-member": "{{GENDER:$1|interfeys redaktoru}}",
-	"grouppage-interface_editor": "{{ns:project}}: İnterfeys redaktorları",
+	"group-interface-editor": "İnterfeys redaktoru",
+	"group-interface-editor-member": "{{GENDER:$1|interfeys redaktoru}}",
+	"grouppage-interface-editor": "{{ns:project}}: İnterfeys redaktorları",
 	"group-ipblock-exempt": "IP blokundan azad olma",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP blokundan azad olma}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP blokundan azad olma",
@@ -70,8 +71,6 @@
 	"grouppage-trusted": "{{ns:project}}:İnanılmış istifadəçilər",
 	"group-coder": "Coderlər",
 	"group-coder-member": "{{GENDER:$1|coder}}",
-	"group-editinterface": "İnterfeys redaktoru",
-	"group-editinterface-member": "{{GENDER:$1|interfeys redaktoru}}",
 	"group-global-bot": "Qlobal bot",
 	"group-global-bot-member": "{{GENDER:$1|qlobal bot}}",
 	"grouppage-global-bot": "m:Qlobal bot",
@@ -91,5 +90,6 @@
 	"group-sysadmin-member": "{{GENDER:$1|Sistem idarəçisi}}",
 	"grouppage-sysadmin": "m:Sistem idarəçisiləri",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Mətn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziyası</a> altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.\nƏtraflı məlumat üçün <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">istifadə şərtlərinə</a> baxın."
+	"wikimedia-copyright": "Mətn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziyası</a> altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.\nƏtraflı məlumat üçün <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">istifadə şərtlərinə</a> baxın.",
+	"wikibase-sitelinks-wikibooks": "Vikikitab"
 }

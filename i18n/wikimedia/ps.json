@@ -63,11 +63,13 @@
 	"group-translationadmin": "د ژباړې پازوالان",
 	"group-translationadmin-member": "{{GENDER:$1|د ژباړې پازوال}}",
 	"grouppage-translationadmin": "{{ns:project}}:د ژباړې پازوالان",
+	"wikimedia-copyright": "دا متن د <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">کريټيف کامنز ورته-شريکېدنې-اړوندتيا منښتليک</a> له مخې خپور شوی؛\nاضافه شرطونه به هم کارېدلي وي.\nد لا تفصيل لپاره <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">د کارولو شرطونه</a> وگورئ.",
+	"wikibase-sitelinks-wikibooks": "ويکيتابونه",
 	"wikibase-sitelinks-wikinews": "ويکيخبرونه",
 	"wikibase-sitelinks-wikiquote": "ويکيوراشه",
 	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
 	"wikibase-sitelinks-wikivoyage": "ويکييون",
 	"wikibase-otherprojects-wikidata": "ويکيډاټا",
 	"createacct-helpusername-url": "{{ns:Project}}:د کارن-نوم تگلاره",
-	"wikimedia-developers": "ترقي ورکونکي"
+	"wikimedia-developers": "پرمختگپالونکي"
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hiro884",
-			"Shirayuki"
+			"Shirayuki",
+			"아라"
 		]
 	},
 	"contactpage-pagetext-requestlicense": "商標に関するお問い合わせは、下記のフォームをご利用ください。",
@@ -10,9 +11,16 @@
 	"contactpage-license-request-relevantsite": "関連するウィキメディア サイト（ある場合）",
 	"contactpage-license-request-use-online": "オンライン (ウェブサイト、メール)",
 	"contactpage-license-request-use-print": "印刷",
+	"contactpage-wikimedia-trademark-foundation": "ウィキメディア財団",
 	"contactpage-wikimedia-trademark-commons": "ウィキメディア・コモンズ",
+	"contactpage-wikimedia-trademark-incubator": "ウィキメディア・インキュベーター",
 	"contactpage-wikimedia-trademark-wikiquote": "ウィキクォート",
+	"contactpage-wikimedia-trademark-wikibooks": "ウィキブックス",
+	"contactpage-wikimedia-trademark-wikimania": "ウィキマニア",
 	"contactpage-wikimedia-trademark-wikinews": "ウィキニュース",
 	"contactpage-wikimedia-trademark-wikisource": "ウィキソース",
-	"contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage"
+	"contactpage-wikimedia-trademark-wikispecies": "ウィキスピーシーズ",
+	"contactpage-wikimedia-trademark-wikiversity": "ウィキバーシティ",
+	"contactpage-wikimedia-trademark-wiktionary": "ウィクショナリー",
+	"contactpage-wikimedia-trademark-wikivoyage": "ウィキボヤージュ"
 }

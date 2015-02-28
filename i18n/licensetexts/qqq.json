@@ -18,7 +18,8 @@
 			"SPQRobin",
 			"Shirayuki",
 			"Siebrand",
-			"Umherirrender"
+			"Umherirrender",
+			"Manuae"
 		]
 	},
 	"wikimedialicensetexts-desc": "{{desc|name=Wikimedia License Texts|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -88,6 +89,7 @@
 	"wm-license-information-author": "{{Identical|Author}}",
 	"wm-license-information-permission": "{{Identical|Permission}}",
 	"wm-license-information-permission-reusing-link": "{{optional}}\nPlease only set a link here when a translated version of [[:Commons:Commons:Reusing content outside Wikimedia|Commons:Reusing content outside Wikimedia]] is available.",
+	"wm-license-information-permission-reusing-text": "Reusing this file",
 	"wm-license-information-other-versions": "{{Identical|Other version}}",
 	"wm-license-lgpl-text": "You can peek at [[Commons:Template:LGPL]] for the current translations.\n\nRefers to:\n* {{msg-mw|Wm-license-free-software-wiki-link}}\n* {{msg-mw|Wm-license-lgpl-wiki-link}}\n* {{msg-mw|Wm-license-fsf-wiki-link}}\n* {{msg-mw|Wm-license-lgpl-2.1-full-link}}\n* {{msg-mw|Wm-license-lgpl-3-full-link}}",
 	"wm-license-lgpl-wiki-link": "{{optional}}",
@@ -119,5 +121,6 @@
 	"wm-license-self-one-license": "You can peek at [[Commons:Template:Self]].\n{{Related|Wm-license-self}}",
 	"wm-license-self-one-license-with-author": "You can peek at [[Commons:Template:Self]]. Parameters:\n* $1 - the copyright holder\n{{Related|Wm-license-self}}",
 	"wm-license-self-multiple-licenses": "You can peek at [[Commons:Template:Self]].\n{{Related|Wm-license-self}}",
-	"wm-license-self-multiple-licenses-with-author": "This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder\n{{Related|Wm-license-self}}"
+	"wm-license-self-multiple-licenses-with-author": "This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder\n{{Related|Wm-license-self}}",
+	"wm-license-self-multiple-licenses-select": "You may select the license of your choice."
 }
