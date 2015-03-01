@@ -4,7 +4,8 @@
 			"Nayvik",
 			"Shushruth",
 			"VASANTH S.N.",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Omshivaprakash"
 		]
 	},
 	"sitesupport": "ದೇಣಿಗೆ",
@@ -64,9 +65,9 @@
 	"group-inactive": "ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು",
 	"group-inactive-member": "ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯ",
 	"grouppage-inactive": "{{ns:project}}:ನಿಷ್ಕ್ರಿಯ ಸದಸ್ಯರು",
-	"group-interface_editor": "ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
-	"group-interface_editor-member": "{{ಲಿಂಗ:$1|ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕ}}",
-	"grouppage-interface_editor": "{{ns:project}}:ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
+	"group-interface-editor": "ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
+	"group-interface-editor-member": "{{ಲಿಂಗ:$1|ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕ}}",
+	"grouppage-interface-editor": "{{ns:project}}:ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
 	"group-patroller": "ಕಾವಲುಗಾರರು",
 	"group-patroller-member": "{{ಲಿಂಗ:$1|ಕಾವಲುಗಾರ}}",
 	"grouppage-patroller": "{{ns:project}}:ಕಾವಲುಗಾರರು",
@@ -85,10 +86,14 @@
 	"group-uploader": "ನಕಲೇರಿಕೆದಾರರು",
 	"group-uploader-member": "{{ಲಿಂಗ:$1|ನಕಲೇರಿಕೆದಾರ}}",
 	"grouppage-uploader": "{{ns:project}}:ನಕಲೇರಿಕೆದಾರರು",
-	"group-editinterface": "ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕರು",
-	"group-editinterface-member": "{{ಲಿಂಗ:$1|ಅಂತರ್‍ಸಂಪರ್ಕ ಸಂಪಾದಕ}}",
 	"group-staff": "ಸಿಬ್ಬಂದಿ",
 	"group-staff-member": "ಸಿಬ್ಬಂದಿ",
 	"group-steward": "ಕಾರಭಾರಿಗಳು",
-	"group-steward-member": "{{ಲಿಂಗ:$1|ಕಾರಭಾರಿ}}"
+	"group-steward-member": "{{ಲಿಂಗ:$1|ಕಾರಭಾರಿ}}",
+	"wikimedia-copyright": "ಪಠ್ಯವು <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> ನಡಿ ಲಭ್ಯವಿದೆ;\nಮತ್ತಷ್ಟು ಷರತ್ತುಗಳು ಅನ್ವಯಿಸಬಹುದು.\nಹೆಚ್ಚಿನ ವಿವರಗಳಿಗೆ <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">ಬಳಕೆಯ ಷರತ್ತುಗಳು</a> ನೋಡಿ.",
+	"wikibase-sitelinks-wikinews": "ವಿಕಿನ್ಯೂಸ್",
+	"wikibase-sitelinks-wikiquote": "ವಿಕಿಕೋಟ್",
+	"wikibase-sitelinks-wikisource": "ವಿಕಿಸೋರ್ಸ್",
+	"wikibase-sitelinks-wikivoyage": "ವಿಕಿವೊಯೇಜ್",
+	"wikimedia-developers": "ಡೆವೆಲಪರ್‌ಗಳು"
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nayvik"
+			"Nayvik",
+			"Omshivaprakash"
 		]
 	},
 	"wikimedialicensetexts-desc": "ವಿಕಿಮೀಡಿಯ ಲೈಸೆನ್ಸ್ ಸಂದೇಶಗಳು",
@@ -10,8 +11,11 @@
 	"wm-license-information-date": "ದಿನಾಂಕ",
 	"wm-license-information-author": "ಕರ್ತೃ",
 	"wm-license-information-permission": "ಅನುಮತಿ",
+	"wm-license-information-permission-reusing-text": "ಈ ಕಡತವನ್ನು ಮರುಬಳಕೆ ಮಾಡಲಾಗುತ್ತಿದೆ",
 	"wm-license-information-permission-see-below": "ಕೆಳಗೆ ನೋಡಿ.",
 	"wm-license-information-other-versions": "ಇತರೆ ಆವೃತ್ತಿಗಳು",
+	"wm-license-own-work": "ಸ್ವಂತ ಕೆಲಸ",
 	"wm-license-pd-usgov-wiki-link": "w:kn:ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದ ಸರ್ಕಾರ",
-	"wm-license-pd-usgov-military-army-wiki-link": "w:kn:ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದ ಸೈನ್ಯ"
+	"wm-license-pd-usgov-military-army-wiki-link": "w:kn:ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದ ಸೈನ್ಯ",
+	"wm-license-self-multiple-licenses-select": "ನಿಮ್ಮಿಚ್ಛೆಯ ಪರವಾನಗಿಯನ್ನು ನೀವು ಆರಿಸಿಕೊಳ್ಳಬಹುದು."
 }
