@@ -131,6 +131,7 @@ function wfWikimediaMessagesMessageCacheGet( &$lcKey ) {
 		'sidebar',
 		'sulrenamewarning-usenew',
 		'centralauth-contribs-locked',
+		'centralauth-uwbr-intro',
 	);
 
 	if ( in_array( $lcKey, $keys, true ) ) {
