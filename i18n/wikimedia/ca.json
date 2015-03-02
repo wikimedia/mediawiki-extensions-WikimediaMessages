@@ -19,7 +19,8 @@
 			"Adriabages",
 			"Macofe",
 			"Joan manel",
-			"Caliburn"
+			"Caliburn",
+			"Xavier Dengra"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -137,6 +138,7 @@
 	"wikibase-sitelinks-wikisource": "Viquitexts",
 	"wikibase-sitelinks-wikivoyage": "Viquiviatges",
 	"wikibase-sitelinks-commons": "Wikimedia Commons",
+	"wikibase-otherprojects-wikibooks": "Viquillibres",
 	"wikibase-otherprojects-wikinews": "Viquinotícies",
 	"wikibase-otherprojects-wikiquote": "Viquidites",
 	"wikibase-otherprojects-wikipedia": "Viquipèdia",

@@ -1,6 +1,12 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Kandar"
+		]
+	},
 	"wm-license-gfdl-wiki-link": "w:su:Lisénsi Dokumén Bébas GNU",
 	"wm-license-information-description": "Pedaran",
-	"wm-license-information-source": "Sumber"
+	"wm-license-information-source": "Sumber",
+	"wm-license-information-date": "Titimangsa",
+	"wm-license-information-author": "Pangarang"
 }
