@@ -139,6 +139,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Iwwersetzungs-Administrateuren",
 	"wikimedia-copyright": "Den Text ass disponibel ënner der <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.\nKuckt <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Benotzungsbedingunge</a> fir méi Detailer.",
 	"wikimedia-copyrightwarning": "Wann Dir Ännerunge späichert, sidd Dir mat de [https://wikimediafoundation.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribution-ShareAlike Lizenz 3.0] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] fräizeginn.\nDir sidd averstanen datt en Hyperlink oder eng URL duer geet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.",
+	"wikibase-sitelinks-wikibooks": "Wikibooks",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
@@ -174,5 +175,6 @@
 	"protect-level-superprotect": "Nëmme Superprotect Benotzer erlaben",
 	"restriction-level-superprotect": "Super-Protectioun",
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
+	"wikimedia-centralauth-uwbr-intro": "Op dëser Säit sti registréiert Benotzer, déi ëmbenannt wäerte gi, wéint dem [[m:Single User Login finalisation announcement|Ofschloss vum 'single-user login']]. Méi Informatioune stinn op [[m:Help:Unified login|eenheetleche Login]]. Benotzer kënnen zu all Ament eng Ëmbenennung ufroen iwwer [[Special:GlobalRenameRequest]].",
 	"securepoll-dblist-securepollglobal": "Wale fir de Conseil"
 }
