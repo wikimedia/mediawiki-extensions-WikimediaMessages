@@ -37,6 +37,7 @@
 	"nstab-institution": "Text on the tab of pages in the \"Institution\" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])\n{{Identical|Institution}}",
 	"nstab-sequence": "Text on the tab of pages in the \"Sequence\" namespace on Wikimedia Commons ([[commons:Sequence:Cats|Example]]).\n{{Identical|Sequence}}",
 	"nstab-timedtext": "Text on the tab of pages in the \"TimedText\" namespace on Wikimedia Commons ([[commons:TimedText:Edit_Button.ogv.en.srt|Example]])",
+	"wikimedia-feedback-termsofuse": "Label for agreeing to the Wikimedia terms of use with a link to the official terms of use page.",
 	"group-Ex_Administrator": "{{doc-group|Ex Administrator}}",
 	"group-Ex_Administrator-member": "{{doc-group|Ex Administrator|member}}",
 	"grouppage-Ex_Administrator": "{{doc-group|Ex Administrator|page}}",

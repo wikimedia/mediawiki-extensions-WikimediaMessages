@@ -126,6 +126,7 @@ function wfWikimediaMessagesMessageCacheGet( &$lcKey ) {
 	static $keys = array(
 		'createacct-helpusername',
 		'createacct-imgcaptcha-help',
+		'feedback-termsofuse',
 		'globalrenamequeue-email-body-approved',
 		'globalrenamequeue-email-body-rejected',
 		'sidebar',
