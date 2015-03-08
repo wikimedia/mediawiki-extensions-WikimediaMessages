@@ -212,5 +212,6 @@
 	"right-superprotect": "Możliwość zmiany poziomów super zabezpieczenia",
 	"protect-level-superprotect": "Dostępne tylko dla użytkowników z uprawnieniem superprotect",
 	"restriction-level-superprotect": "superzabezpieczenie",
+	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}"
 }

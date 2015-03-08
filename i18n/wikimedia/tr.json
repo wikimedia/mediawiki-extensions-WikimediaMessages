@@ -11,7 +11,8 @@
 			"Suelnur",
 			"Meelo",
 			"Nemo bis",
-			"Sayginer"
+			"Sayginer",
+			"Hayri özkurt"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -77,9 +78,9 @@
 	"group-inactive": "Etkin olmayan kullanıcılar",
 	"group-inactive-member": "{{GENDER:$1|etkin olmayan kullanıcı}}",
 	"grouppage-inactive": "{{ns:project}}:Etkin olmayan kullanıcılar",
-	"group-interface_editor": "Arayüz editörleri",
-	"group-interface_editor-member": "{{GENDER:$1|arayüz editörü}}",
-	"grouppage-interface_editor": "{{ns:project}}:Arayüz editörleri",
+	"group-interface-editor": "Arayüz editörleri",
+	"group-interface-editor-member": "{{GENDER:$1|arayüz editörü}}",
+	"grouppage-interface-editor": "{{ns:project}}:Arayüz editörleri",
 	"group-ipblock-exempt": "IP engelleme muafiyetleri",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP engelleme muafı}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP engelleme muafiyeti",
@@ -102,8 +103,6 @@
 	"grouppage-uploader": "{{ns:project}}:Yükleyiciler",
 	"group-coder": "Kodlayıcılar",
 	"group-coder-member": "{{GENDER:$1|kodlayıcı}}",
-	"group-editinterface": "Arayüzey editörleri",
-	"group-editinterface-member": "{{GENDER:$1|arayüz editörü}}",
 	"group-global-bot": "Küresel botlar",
 	"group-global-bot-member": "{{GENDER:$1|küresel bot}}",
 	"group-global-rollbacker": "Küresel geri döndürücüler",
@@ -142,5 +141,6 @@
 	"wikimediashoplink-link-tooltip": "Wikimedia Dükkanını ziyaret et",
 	"interlanguage-link-mul": "Daha fazla dil",
 	"interlanguage-link-sitename-wikipedia": "Vikipedi, özgür ansiklopedi",
-	"interlanguage-link-sitename-dmoz": "DMOZ web dizini"
+	"interlanguage-link-sitename-dmoz": "DMOZ web dizini",
+	"wikimedia-feedback-termsofuse": "adın ne"
 }

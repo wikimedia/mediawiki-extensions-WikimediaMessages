@@ -8,5 +8,10 @@
 	},
 	"sitesupport": "Meuripè",
 	"tooltip-n-sitesupport": "Dukông kamoë",
-	"wikimedia-copyrightwarning": "Ngön neuteugön \"{{int:savearticle}}\", droëneuh akô ngön [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use], ngön droëneuh akô keu neupeuteubiët teunuléhneuh di yup [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC BY-SA 3.0] ngön [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nDroëneuh akô meunyö hyperlink atawa URL nakeuh atribusi nyang sép di yup lisensi Creative Commons."
+	"wikimedia-copyrightwarning": "Ngön neuteugön \"{{int:savearticle}}\", droëneuh akô ngön [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use], ngön droëneuh akô keu neupeuteubiët teunuléhneuh di yup [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensi CC BY-SA 3.0] ngön [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nDroëneuh akô meunyö hyperlink atawa URL nakeuh atribusi nyang sép di yup lisensi Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikihaba",
+	"wikibase-sitelinks-wikiquote": "Wikicok",
+	"wikibase-sitelinks-wikisource": "Wikinè",
+	"wikibase-sitelinks-wikivoyage": "Wikidiwana",
+	"wikimedia-developers": "Peukeumang"
 }
