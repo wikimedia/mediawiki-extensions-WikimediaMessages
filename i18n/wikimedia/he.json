@@ -130,6 +130,8 @@
 	"group-global-bot-member": "{{GENDER:$1|בוט גלובלי}}",
 	"group-global-ipblock-exempt": "חסינים מחסימת IP גלובלית",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|חסין|חסינה}} מחסימת IP גלובלית",
+	"group-global-interface-editor": "עורכי ממשק גלובליים",
+	"group-global-interface-editor-member": "{{GENDER:$1|עורך ממשק גלובלי|עורכת ממשק גלובלית}}",
 	"group-global-renamer": "משני שם גלובליים",
 	"group-global-renamer-member": "{{GENDER:$1|משנה שם גלובלי}}",
 	"grouppage-global-renamer": "m:Global renamers",
@@ -214,10 +216,12 @@
 	"right-superprotect": "שינוי רמות הגנת־על",
 	"protect-level-superprotect": "לאפשר רק למגיני־על",
 	"restriction-level-superprotect": "הגנת־על",
+	"wikimedia-feedback-termsofuse": "אני מסכים לספק משוב בהתאם ל<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">תנאי השימוש</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "הבקשה לשנות את השם \"$1\" אל \"$2\" אושרה. כשהיא תושלם, תהיה לך אפשרות להיכנס באמצעות השם החדש שלך והססמה הישנה שלך. תודה על השתתפותך במיזמי ויקימדיה.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "לא היה אפשר להשלים את הבקשה לשנות את השם \"$1\" אל השם \"$2\".\n\nלמידע נוסף לא לקרוא את הדף <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. כדי לדון בבקשת שינוי השם שלך, אפשר לשלוח שאלה לדף הזה: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. חובה להיכנס לחשבון כדי לעשות את זה.",
 	"wikimedia-sulrenamewarning-usenew": "מעכשיו עליך להיכנס באמצעות שם המשתמש החדש שלך <strong>$1</strong>. שם המשתמש החדש שלך ייחודי בכל מיזמי ויקימדיה, וכניסה למיזם תכניס אותך גם לכל מיזם אחר. ב[[:m:Special:MyLanguage/Help:Unified_login|דף העזרה על כניסה מאוחדת]] יש מידע נוסף על כניסה בחשבון יחיד וגם שאלות נפוצות בנושא. אם רצית לשנות כתובת דוא\"ל או ססמה ב[[Special:Preferences|העדפות]], עכשיו זה זמן טוב לעשות את זה.\n\nתודה על השתתפותך במיזמי ויקימדיה.",
 	"wikimedia-centralauth-contribs-locked": "החשבון הזה נעול גלובלית.\nר' [[m:Special:CentralAuth/$1|פרטים על החשבון הגלובלי]] למידע נוסף.",
+	"wikimedia-centralauth-uwbr-intro": "הדף הזה מכיל רשימת משתמשים שרשומים לוויקי הזה וששם המשתמש שלהם ישונה בשל [[m:Single User Login finalisation announcement|השלמת מיזוג החשבונות]]. מידע נוסף זמין ב[[m:Help:Unified login|דף בנושא החשבון המאוחד]]. משתמשים יכולים שינויישנוי שם בכל זמן באמצעות הדף  [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם {{ns:file}} ו{{GRAMMAR:תחילית|{{ns:file_talk}}}}",
 	"securepoll-dblist-securepollglobal": "בחירת ועד"
 }
