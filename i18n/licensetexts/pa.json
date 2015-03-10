@@ -1,5 +1,14 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Babanwalia"
+		]
+	},
 	"wm-license-information-description": "ਵੇਰਵਾ",
-	"wm-license-information-source": "ਸੋਰਸ"
+	"wm-license-information-source": "ਸੋਰਸ",
+	"wm-license-information-date": "ਤਰੀਕ",
+	"wm-license-information-author": "ਲਿਖਾਰੀ",
+	"wm-license-information-permission": "ਇਜਾਜ਼ਤ",
+	"wm-license-own-work": "ਆਪਣਾ ਕੰਮ",
+	"wm-license-self-multiple-licenses-select": "ਤੁਸੀਂ ਆਪਣੀ ਮਰਜ਼ੀ ਦਾ ਲਸੰਸ ਚੁਣ ਸਕਦੇ ਹੋ।"
 }

@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aalam"
+			"Aalam",
+			"Babanwalia"
 		]
 	},
 	"sitesupport": "ਦਾਨ",
-	"createacct-captcha-help-url": "{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ"
+	"wikibase-sitelinks-wikinews": "ਵਿਕੀਨਿਊਜ਼",
+	"wikibase-sitelinks-wikiquote": "ਵਿਕੀਕੁਓਟ",
+	"wikibase-sitelinks-wikisource": "ਵਿਕੀਸੋਰਸ",
+	"wikibase-sitelinks-wikivoyage": "ਵਿਕੀਵੌਇਜ",
+	"createacct-captcha-help-url": "{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ",
+	"wikimedia-developers": "ਵਿਕਾਸਕਾਰ"
 }
