@@ -14,7 +14,8 @@
 			"ترجمان05",
 			"زكريا",
 			"Nemo bis",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Bibas"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -138,8 +139,10 @@
 	"wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nقد تنطبق بنود أخرى أيضًا.\nانظر <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
 	"wikimedia-copyrightwarning": "بالضغط على زر \"{{int:savearticle}}\"، فإنك توافق على [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
 	"wikibase-repo-name": "ويكي بيانات",
+	"wikibase-sitelinks-wikinews": "ويكي الأخبار",
 	"wikibase-sitelinks-wikiquote": "ويكي الاقتباس",
 	"wikibase-sitelinks-wikisource": "ويكي مصدر",
+	"wikibase-sitelinks-wikivoyage": "ويكي الرحلات",
 	"wikibase-otherprojects-commons": "ويكيميديا كومنز",
 	"wikibase-otherprojects-wikinews": "ويكي الأخبار",
 	"wikibase-otherprojects-wikiquote": "ويكي الاقتباس",
@@ -151,6 +154,7 @@
 	"upload-more-photos-of-this-monument": "قم برفع المزيد من الصور لهذا الأثر",
 	"createacct-captcha-help-url": "{{ns:Project}}: طلب حساب",
 	"wikimedia-developers": "مطورون",
+	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت الخاص بك [[m:Special:MyLanguage/Global blocks|قد تم منعه في جميع مشاريع الويكي]].'''\n\nالمنع قد تم من قبل $1 ($2).\nالسبب المعطى هو ''$3''.\n\n* بداية المنع: $4\n* إنتهاء مدة المنع: $5\n\nعنوان بروتوكول الإنترنت الحالي لك هو $6.\nالرجاء إدراج كافة التفاصيل المذكورة أعلاه عند أي استعلامات تقوم بها.\n\nإذا كنت ترى إن المنع قد تم لأسباب خاطئة أو مشكلة معينة، فبإمكانك العثور على معلومات وإرشادات إضافية في السياسة العامة [[m:Special:MyLanguage/No open proxies|لا بروكسيهات مفتوحة]].\nخلاف ذلك، إن أردت مناقشة المنع الرجاء [[m:Steward requests/Global|نشر طلب للمراجعة على ميتا ويكي]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ar",
 	"wikimediashoplink-linktext": "متجر ويكيميديا",
 	"wikimediashoplink-link-tooltip": "زر متجر ويكيميديا",
