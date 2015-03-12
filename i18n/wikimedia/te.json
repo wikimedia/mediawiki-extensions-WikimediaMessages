@@ -9,7 +9,8 @@
 			"Ravichandra",
 			"Suryavnk",
 			"Veeven",
-			"Nemo bis"
+			"Nemo bis",
+			"రహ్మానుద్దీన్"
 		]
 	},
 	"wikimediamessages-desc": "వికీమీడియా సంబంధిత సందేశాలు",
@@ -128,8 +129,8 @@
 	"wikimedia-copyright": "పాఠ్యం <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-అలైక్ లైసెన్సు</a> క్రింద లభ్యం;\nఅదనపు షరతులు వర్తించవచ్చు.\nమరిన్ని వివరాలకు <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">వాడుక నియమాల</a>ను చూడండి.",
 	"wikimedia-copyrightwarning": "\"{{int:savearticle}}\" నొక్కడం ద్వారా, మీ కృతిని [https://creativecommons.org/licenses/by-sa/3.0/   క్రియేటివ్ కామన్స్ యాట్రిబ్యూషన్ షేర్ ఎలైక్ లైసెన్స్3.0] మరియు [https://www.gnu.org/copyleft/fdl.html  జిఎఫ్డిఎల్] లకు లోబడి విడుదల చేసేందుకు మీరు సమ్మతిస్తున్నారు. ఇది వెనక్కి తిరిగి తీసుకోలేని అనుమతి అని మీరు ఎరుగుదురు.\nకనీస స్థాయిలో మీరు పనిచేస్తున్న పేజీకి లింకు లేదా యుఆర్ఎల్(URL) ఇవ్వడం ద్వారా దీన్ని వాడుకునేవారు మీకు శ్రేయస్సు నాపాదిస్తారు. ఇందుకు మీరు సమ్మతిస్తున్నారు.\nవివరాల కోసం [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use వినియోగ నియమాలు] చూడండి.",
 	"wikibase-sitelinks-wikinews": "వికీన్యూస్",
-	"wikibase-sitelinks-wikiquote": "వికీకోట్",
-	"wikibase-sitelinks-wikisource": "వికీసోర్స్",
+	"wikibase-sitelinks-wikiquote": "వికీవ్యాఖ్య",
+	"wikibase-sitelinks-wikisource": "వికీమూలాలు",
 	"wikibase-sitelinks-wikivoyage": "వికీవొయేజ్",
 	"wikibase-sitelinks-sitename-commonswiki": "కామన్స్",
 	"cant-delete-main-page": "మీరు ప్రధాన పేజీని కదిలించలేరు, తొలగించలేరు",

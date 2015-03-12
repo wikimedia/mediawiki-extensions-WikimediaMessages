@@ -223,5 +223,6 @@
 	"right-superprotect": "تغییر سطح‌های حفاظت فوق‌العاده",
 	"protect-level-superprotect": "فقط به کاربران با حفاظت فوق‌العاده اجازه دهید",
 	"restriction-level-superprotect": "فراحفاظت‌شده",
+	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده‌است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}"
 }
