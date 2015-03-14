@@ -8,7 +8,8 @@
 			"Vugar 1981",
 			"Nemo bis",
 			"Wertuose",
-			"Caliburn"
+			"Caliburn",
+			"Dağlı95"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
@@ -91,5 +92,9 @@
 	"grouppage-sysadmin": "m:Sistem idarəçisiləri",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Mətn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziyası</a> altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.\nƏtraflı məlumat üçün <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">istifadə şərtlərinə</a> baxın.",
-	"wikibase-sitelinks-wikibooks": "Vikikitab"
+	"wikibase-sitelinks-wikibooks": "Vikikitab",
+	"wikibase-sitelinks-wikinews": "Vikixəbər",
+	"wikibase-sitelinks-wikiquote": "Vikisitat",
+	"wikibase-sitelinks-wikisource": "Vikimənbə",
+	"wikibase-sitelinks-wikivoyage": "Vikisəyahət"
 }

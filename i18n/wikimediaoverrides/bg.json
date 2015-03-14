@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Spiritia"
+			"Spiritia",
+			"DCLXVI"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помогни ми да избера)]]"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощ при избора)]]"
 }

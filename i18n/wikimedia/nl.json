@@ -14,7 +14,8 @@
 			"Tvdm",
 			"Mathonius",
 			"Nemo bis",
-			"Robin0van0der0vliet"
+			"Robin0van0der0vliet",
+			"Mbch331"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -199,5 +200,6 @@
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, de vrije encyclopedie",
 	"right-superprotect": "Superbeveiligingniveaus wijzigen",
 	"protect-level-superprotect": "Alleen superbeveiliging-gebruikers toestaan",
-	"restriction-level-superprotect": "superbeveiliging"
+	"restriction-level-superprotect": "superbeveiliging",
+	"wikimedia-centralauth-uwbr-intro": "Deze pagina toont gebruikers die op deze Wiki hernoemd gaan worden vanwege de [[m:Single User Login finalisation announcement|afronding van single-user login]]. Meer informatie op [[m:Help:Unified login|unified login]]. Gebruikers kunnen op elk moment een hernoeming aanvragen op [[Special:GlobalRenameRequest]]."
 }

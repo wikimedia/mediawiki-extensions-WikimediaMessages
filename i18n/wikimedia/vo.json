@@ -27,5 +27,6 @@
 	"group-coder-member": "{{GENDER:$1|kotan}}",
 	"group-global-bot-member": "{{GENDER:$1|bot valöpik}}",
 	"group-sysadmin": "Sitiguvans",
-	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}"
+	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
+	"wikibase-sitelinks-wikibooks": "Vükibuks"
 }

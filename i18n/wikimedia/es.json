@@ -209,5 +209,6 @@
 	"interlanguage-link-sitename-dmoz": "Directorio web de DMOZ",
 	"right-superprotect": "Cambiar niveles de superprotección",
 	"protect-level-superprotect": "Permitir sólo usuarios superprotegidos",
-	"restriction-level-superprotect": "superproteger"
+	"restriction-level-superprotect": "superproteger",
+	"wikimedia-feedback-termsofuse": "Estoy de acuerdo en proporcionar información en conformidad con los <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Términos de uso</a>."
 }
