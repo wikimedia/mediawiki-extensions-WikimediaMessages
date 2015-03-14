@@ -21,7 +21,8 @@
 			"Тест",
 			"Nemo bis",
 			"DixonD",
-			"Piramidion"
+			"Piramidion",
+			"Sergento"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -212,5 +213,6 @@
 	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ",
 	"right-superprotect": "Змінити рівні суперзахисту",
 	"protect-level-superprotect": "Дозволяти тільки учасникам з правами супер-захисту",
-	"restriction-level-superprotect": "суперзахист"
+	"restriction-level-superprotect": "суперзахист",
+	"wikimedia-centralauth-uwbr-intro": "На цій сторінці наведено список користувачів, зареєстрованих у цьому вікі-проекті, через [[m:Single User Login finalisation announcement|завершення уніфікації облікових записів]]. Більше інформації можна знайти на сторінці про [[m:Help:Unified login|уніфіковані облікові записи]]. Користувачі можуть подати запит на перейменування, скориставшись сторінкою [[Special:GlobalRenameRequest|запитів на глобальне перейменування]]."
 }

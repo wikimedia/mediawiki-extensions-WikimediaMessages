@@ -9,7 +9,8 @@
 			"Xabier Armendaritz",
 			"පසිඳු කාවින්ද",
 			"Fitoschido",
-			"Subi"
+			"Subi",
+			"Sator"
 		]
 	},
 	"wikimediamessages-desc": "Wikimediaren mezu espezifikoak",
@@ -74,9 +75,9 @@
 	"group-inactive": "Erabiltzaile ez-aktiboak",
 	"group-inactive-member": "{{GENDER:$1|erabiltzaile ez-aktiboa}}",
 	"grouppage-inactive": "{{ns:project}}:Erabiltzaile ez-aktiboak",
-	"group-interface_editor": "Interfazeko editoreak",
-	"group-interface_editor-member": "{{GENDER:$1|interfazeko editorea}}",
-	"grouppage-interface_editor": "{{ns:project}}:Interfazeko editoreak",
+	"group-interface-editor": "Interfazeko editoreak",
+	"group-interface-editor-member": "{{GENDER:$1|interfazeko editorea}}",
+	"grouppage-interface-editor": "{{ns:project}}:Interfazeko editoreak",
 	"group-ipblock-exempt": "IP blokeo salbuespenak",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP blokeo salbuespena}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP blokeo salbuespenak",
@@ -100,8 +101,6 @@
 	"grouppage-uploader": "{{ns:project}}:Igo dezakete",
 	"group-coder": "Kode egileak",
 	"group-coder-member": "{{GENDER:$1|kode garatzailea}}",
-	"group-editinterface": "Interfazeko editoreak",
-	"group-editinterface-member": "{{GENDER:$1|interfazeko editorea}}",
 	"group-global-bot": "Bot globalak",
 	"group-global-bot-member": "{{GENDER:$1|bot globala}}",
 	"group-global-rollbacker": "Globalki desegin dezakete",
@@ -124,5 +123,6 @@
 	"wikibase-sitelinks-wikisource": "Wikiturriak",
 	"wikibase-sitelinks-wikivoyage": "Wikibidaiak",
 	"wikibase-sitelinks-commons": "Wikimedia Commons",
+	"wikimedia-developers": "Garatzaileak",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, entziklopedia askea"
 }
