@@ -63,14 +63,21 @@
 	"group-translationadmin": "د ژباړې پازوالان",
 	"group-translationadmin-member": "{{GENDER:$1|د ژباړې پازوال}}",
 	"grouppage-translationadmin": "{{ns:project}}:د ژباړې پازوالان",
+	"shared-repo-name-shared": "ويکيمېډيا کامنز",
 	"wikimedia-copyright": "دا متن د <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">کريټيف کامنز ورته-شريکېدنې-اړوندتيا منښتليک</a> له مخې خپور شوی؛\nاضافه شرطونه به هم کارېدلي وي.\nد لا تفصيل لپاره <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">د کارولو شرطونه</a> وگورئ.",
 	"wikibase-sitelinks-wikibooks": "ويکيتابونه",
 	"wikibase-sitelinks-wikinews": "ويکيخبرونه",
 	"wikibase-sitelinks-wikiquote": "ويکيوراشه",
 	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
 	"wikibase-sitelinks-wikivoyage": "ويکييون",
+	"wikibase-sitelinks-commons": "ويکيمېډيا کامنز",
+	"wikibase-otherprojects-commons": "ويکيمېډيا کامنز",
 	"wikibase-otherprojects-wikidata": "ويکيډاټا",
+	"wikibase-otherprojects-wikivoyage": "ويکييون",
 	"createacct-helpusername-url": "{{ns:Project}}:د کارن-نوم تگلاره",
 	"wikimedia-developers": "پرمختگپالونکي",
-	"wikimedia-globalblocking-ipblocked": "'''په ټولو ويکي گانو کې ستاسې پر IP پتې [[m:Special:MyLanguage/Global blocks|بنديز لگېدلی]].'''\n\nدا بنديز د $1  لخوا پر تاسو پلي شوی ($2).\nد بنديز سبب ''$3'' ورکړل شوی.\n\n* د بنديز پيل نېټه: $4\n* د بنديز پای نېټه: $5\n\nستاسې اوسنۍ IP پته $6 ده.\nکه تاسې د دې کړنې اړونده هر ډول گروېږنې لرۍ، نو د پوښتنو پر مهال مو پورتني مالومات په غوښتنو کې شامل کړئ.\n\nکه تاسې په دې اند ياست چې په غلطۍ کې پر تاسې بنديز لگېدلی، نو په [[m:Special:MyLanguage/No open proxies|ناپرانيستې پروکسي]] کې د نړېوالې تگلارې اړونده اضافي مالومات او لارښوونې موندلی شی.\nکه داسې نه وي نو پر بنديز مو د بحث پيلولو لپاره [[m:Steward requests/Global|په مېټا-ويکي باندې يوه غوښتنه وليکئ]]."
+	"wikimedia-globalblocking-ipblocked": "'''په ټولو ويکي گانو کې ستاسې پر IP پتې [[m:Special:MyLanguage/Global blocks|بنديز لگېدلی]].'''\n\nدا بنديز د $1  لخوا پر تاسو پلي شوی ($2).\nد بنديز سبب ''$3'' ورکړل شوی.\n\n* د بنديز پيل نېټه: $4\n* د بنديز پای نېټه: $5\n\nستاسې اوسنۍ IP پته $6 ده.\nکه تاسې د دې کړنې اړونده هر ډول گروېږنې لرۍ، نو د پوښتنو پر مهال مو پورتني مالومات په غوښتنو کې شامل کړئ.\n\nکه تاسې په دې اند ياست چې په غلطۍ کې پر تاسې بنديز لگېدلی، نو په [[m:Special:MyLanguage/No open proxies|ناپرانيستې پروکسي]] کې د نړېوالې تگلارې اړونده اضافي مالومات او لارښوونې موندلی شی.\nکه داسې نه وي نو پر بنديز مو د بحث پيلولو لپاره [[m:Steward requests/Global|په مېټا-ويکي باندې يوه غوښتنه وليکئ]].",
+	"wikimediashoplink-linktext": "ويکيمېډيا هټۍ",
+	"wikimediashoplink-link-tooltip": "ويکيمېډيا هټۍ ته ورتلل",
+	"interlanguage-link-commons": "ويکيمېډيا کامنز"
 }
