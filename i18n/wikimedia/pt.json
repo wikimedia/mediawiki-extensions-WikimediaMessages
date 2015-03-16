@@ -21,7 +21,8 @@
 			"555",
 			"Nemo bis",
 			"Helder.wiki",
-			"Imperadeiro90"
+			"Imperadeiro90",
+			"Opraco"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -126,7 +127,7 @@
 	"group-global-bot": "Robôs globais",
 	"group-global-bot-member": "robô global",
 	"group-global-interface-editor": "Editores de interface globais",
-	"group-global-interface-editor-member": "{{GENDER:$1|editor de interface global}}",
+	"group-global-interface-editor-member": "{{GENDER:$1|editor|editora|editor(a)}} de interface global",
 	"grouppage-global-interface-editor": "m:Editores de interface",
 	"group-global-rollbacker": "Reversores globais",
 	"group-global-rollbacker-member": "{{GENDER:$1|reversor|reversora}} global",

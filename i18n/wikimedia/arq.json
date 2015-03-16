@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bachounda"
+			"Bachounda",
+			"Oldstoneage"
 		]
 	},
 	"sitesupport": "تبرعولنا",
 	"tooltip-n-sitesupport": "ساندونا",
+	"wikimedia-copyright": "هاد النصوص راهم موضّعين ب <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">رخصة تاع إبداع مشتارك- المقاسمة ب نفس المشرط</a> ؛ مشارط وحدخرين ينجمو يتطبّقو.\nشوف تاني <a href=\"https://wikimediafoundation.org/wiki/Conditions_d'utilisation\">المشارط تاع الستعمال</a> باش تعرف كتَر.",
 	"wikimedia-developers": "مطورون"
 }

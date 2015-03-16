@@ -3,7 +3,8 @@
 		"authors": [
 			"Chaojoker",
 			"Diebuche",
-			"Multichill"
+			"Multichill",
+			"Xelgen"
 		]
 	},
 	"wm-license-artwork-artist": "Նկարիչ",
@@ -44,5 +45,5 @@
 	"wm-license-self-one-license-with-author": "$1, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում է հետևյալ արտոնագրի պայմաններով՝",
 	"wm-license-self-multiple-licenses": "Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիաների պայմաններով",
 	"wm-license-self-multiple-licenses-with-author": "$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիաների պայմաններով",
-	"wm-license-self-multiple-licenses-select": "Դուք կարող եք ընտրել յուրաքանչուրը այս լիցենզիաներից."
+	"wm-license-self-multiple-licenses-select": "Կարող եք ընտրել այս թույլատրագրերից ցանկացածը։"
 }

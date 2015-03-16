@@ -19,7 +19,8 @@
 			"WTM",
 			"Woytecr",
 			"Nemo bis",
-			"Peter Bowman"
+			"Peter Bowman",
+			"Mareklug"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -213,5 +214,6 @@
 	"protect-level-superprotect": "Dostępne tylko dla użytkowników z uprawnieniem superprotect",
 	"restriction-level-superprotect": "superzabezpieczenie",
 	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
+	"wikimedia-centralauth-uwbr-intro": "Ta strona zawiera spis użytkownków tej wersji językowej Wikipedii/tego projektu Wikimedii, których to nazwa użytkownika zostanie zmieniona z powodu [[m:Single User Login finalisation announcement||zmian ostatecznych w zakresie wprowadzania nazwy zjedoczonej użytkownika wskroś wszystkich wersji językowych/wszystkich projektów Wikimedii]]. Szersze wyjaśnienie tego tematu jest przedstawionie na stronie [[m:Help:Unified login|konto zjednoczone]] (w j. angielskim). Użytkownicy mogą zarządać zmiany swojej nazwy poprzez złożenie wniosku na stronie [[Special:GlobalRenameRequest]] (w j. angielskim).",
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}"
 }
