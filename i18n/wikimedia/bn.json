@@ -154,7 +154,7 @@
 	"wikibase-sitelinks-wikiquote": "উইকিউক্তি",
 	"wikibase-sitelinks-wikisource": "উইকিসংকলন",
 	"wikibase-sitelinks-wikivoyage": "উইকিভ্রমণ",
-	"wikibase-sitelinks-commons": "এই আইটেমটির সাথে সংযুক্ত উইকিমিডিয়া কমন্সের পাতা",
+	"wikibase-sitelinks-commons": "উইকিমিডিয়া কমন্স",
 	"wikibase-otherprojects-commons": "উইকিমিডিয়া কমন্স",
 	"wikibase-otherprojects-wikinews": "উইকিসংবাদ",
 	"wikibase-otherprojects-wikiquote": "উইকিউক্তি",
@@ -177,5 +177,6 @@
 	"interlanguage-link-mul": "আরও ভাষা",
 	"interlanguage-link-sitename-wikipedia": "উইকিপিডিয়া, একটি মুক্ত বিশ্বকোষ",
 	"right-superprotect": "সুপার সুরক্ষার মাত্রা পরিবর্তন করুন",
-	"restriction-level-superprotect": "সুপার সুরক্ষা"
+	"restriction-level-superprotect": "সুপার সুরক্ষা",
+	"wikimedia-centralauth-contribs-locked": "এই অ্যাকাউন্টটি বৈশ্বিকভাবে অবরুদ্ধ করা হয়েছে। আরও তথ্যের জন্য [[m:Special:CentralAuth/$1|বৈশ্বিক অ্যাকাউন্টের বিস্তারিত]] দেখুন।"
 }
