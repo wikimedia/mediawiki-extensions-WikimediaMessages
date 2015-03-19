@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(palīdziet izvēlēties)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Attēls nav redzams? [[{{MediaWiki:createacct-captcha-help-url}}|Pieprasiet kontu]]"
+}
