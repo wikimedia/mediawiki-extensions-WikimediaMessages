@@ -6,7 +6,8 @@
 			"Multichill",
 			"Spiritia",
 			"Stanqo",
-			"Turin"
+			"Turin",
+			"StanProg"
 		]
 	},
 	"wikimedialicensetexts-desc": "Лицензни съобщения на Уикимедия",
@@ -54,6 +55,7 @@
 	"wm-license-information-author": "Автор",
 	"wm-license-information-author-missing": "Липсва информация за '''автора''' на този файл.",
 	"wm-license-information-permission": "Права",
+	"wm-license-information-permission-reusing-text": "Повторно използване на файла",
 	"wm-license-information-permission-see-below": "вж. по-долу",
 	"wm-license-information-other-versions": "други версии",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/bg",

@@ -8,7 +8,8 @@
 			"Spiritia",
 			"Stanqo",
 			"Turin",
-			"Nemo bis"
+			"Nemo bis",
+			"StanProg"
 		]
 	},
 	"wikimediamessages-desc": "Съобщения, специфични за Уикимедия",
@@ -104,6 +105,7 @@
 	"wikibase-sitelinks-wikinews": "Уикиновини",
 	"wikibase-sitelinks-wikiquote": "Уикицитат",
 	"wikibase-sitelinks-wikisource": "Уикиизточник",
+	"wikibase-sitelinks-wikivoyage": "Уикипътешественик",
 	"wikibase-otherprojects-commons": "Общомедия",
 	"wikibase-otherprojects-wikinews": "Уикиновини",
 	"wikibase-otherprojects-wikiquote": "Уикицитат",

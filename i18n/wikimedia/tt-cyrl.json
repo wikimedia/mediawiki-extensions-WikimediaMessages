@@ -7,7 +7,8 @@
 			"Ерней",
 			"Ильнар",
 			"Рашат Якупов",
-			"Nemo bis"
+			"Nemo bis",
+			"Derslek"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиа өчен шәхси булган хатлар",
@@ -76,9 +77,9 @@
 	"group-inactive": "Актив булмаган кулланучылар",
 	"group-inactive-member": "{{GENDER:$1|актив булмаган кулланучы}}",
 	"grouppage-inactive": "{{ns:project}}:Актив булмаган кулланучылар",
-	"group-interface_editor": "Интерфейс мөхәррирләре",
-	"group-interface_editor-member": "{{GENDER:$1|интерфейс мөхәррире}}",
-	"grouppage-interface_editor": "{{ns:project}}:Интерфейс тәрҗемәчеләре",
+	"group-interface-editor": "Интерфейс мөхәррирләре",
+	"group-interface-editor-member": "{{GENDER:$1|интерфейс мөхәррире}}",
+	"grouppage-interface-editor": "{{ns:project}}:Интерфейс тәрҗемәчеләре",
 	"group-ipblock-exempt": "IP-кысылган кулланучылар",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP-кысылганнан чыгару}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP-кысылудан чыгару",
@@ -98,8 +99,6 @@
 	"grouppage-trusted": "{{ns:project}}:Ышанычлы кулланучылар",
 	"group-coder": "Санакчы",
 	"group-coder-member": "{{GENDER:$1|санакчы}}",
-	"group-editinterface": "Интерфейс тәрҗемәчеләре",
-	"group-editinterface-member": "{{GENDER:$1|интерфейс мөхәррире}}",
 	"group-global-bot": "Глобаль ботлар",
 	"group-global-bot-member": "{{GENDER:$1|глобаль бот}}",
 	"group-global-rollbacker": "Глобаль кире кайтаручылар",
@@ -118,7 +117,8 @@
 	"group-translationadmin-member": "{{GENDER:$1|тәрҗемә идарәчесе}}",
 	"grouppage-translationadmin": "{{ns:project}}:Тәрҗемә идарәчеләре",
 	"shared-repo-name-shared": "Викиҗыентык",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> лицензиясе астында бирелә, аерым очракларда өстәмә шартлар эшләргә мөмкин. Өстәмә мәгълүмат өчен <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ru\">Куллану шартларын</a> карагыз.",
+	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike Лицензиясе</a> лицензиясе буенча бирелә, аерым очракларда өстәмә шартлар булырга мөмкин. Өстәмә мәгълүмат өчен <a href=\"https://wikimediafoundation.org/wiki/Куллану_шартларын\">Куллану шартларын</a> карагыз.",
 	"wikimedia-copyrightwarning": "«{{int:savearticle}}» төймәсенә басып сез [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use куллану шартлары] белән килешәсез, шулай ук сез үз эшләрегезне  [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution-ShareAlike 3.0] һәм [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияләре таләпләре буенча нәшер итүенә риза буласыз. Бу битне кулланганда, сезгә иң киме Creative Commons  лицензиясенә гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз.",
-	"cant-delete-main-page": "Сез баш битнең исемен яисә аны бетерә алмыйсыз."
+	"cant-delete-main-page": "Сез баш битнең исемен яисә аны бетерә алмыйсыз.",
+	"wikimedia-developers": "Ясаучылары"
 }
