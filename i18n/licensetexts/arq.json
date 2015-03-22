@@ -4,11 +4,13 @@
 			"Oldstoneage"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "راه مسموح ليك باش تنسّخ، توزّع ولا تاني تدير شي تبدالات على هاد الصفحة تحت القواعد تاع '''[[{{int:wm-license-gfdl-wiki-link}}|GNU الرخصة تاع التوتاق الحُرّ]]'''، طبعة 1.2 ولا كامل الطبعات الّي جاو ملبعد من عند [[{{int:wm-license-fsf-wiki-link}}|المأسّسة تاع اللوجسيالات المسرّحة]]؛ بلا قسامات تابتة، نصّ تاع بادي الكتاب ولا تاع تالي الكتاب. راك تصيب نسخة تاع الترخيص فل قسيمة المسمّية ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "توصيفة",
 	"wm-license-information-source": "مصدر",
 	"wm-license-information-date": "تاريخ",
 	"wm-license-information-author": "الكاتب",
 	"wm-license-information-permission": "ترخيص",
 	"wm-license-information-permission-reusing-text": "عاود استعمل هاد الفيشي",
-	"wm-license-own-work": "خدمة تاعك"
+	"wm-license-own-work": "خدمة تاعك",
+	"wm-license-self-multiple-licenses-select": "تنجم تخيّر الليسانس الّي تساعدك."
 }

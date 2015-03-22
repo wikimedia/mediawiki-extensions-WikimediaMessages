@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Babanwalia"
+			"Babanwalia",
+			"TariButtar"
 		]
 	},
 	"wm-license-cc-attribution": "ਗੁਣਾਂ ਦੀ ਦੱਸ",
 	"wm-license-cc-free": "ਤੁਹਾਨੂੰ ਖੁੱਲ੍ਹ ਹੈ:",
 	"wm-license-cc-free-to-share-header": "ਸਾਂਝਾ ਕਰਨ ਦੀ",
 	"wm-license-cc-free-to-remix-header": "ਮੁੜ-ਰਲ਼ਾਉਣ ਦੀ",
-	"wm-license-cc-conditions": "ਥੱਲੇ ਲਿਖਿਆਂ ਸ਼ਰਤਾਂ ਹੇਠ:",
+	"wm-license-cc-conditions": "ਥੱਲੇ ਲਿਖੀਆਂ ਸ਼ਰਤਾਂ ਹੇਠ:",
 	"wm-license-cc-conditions-attribution-header": "ਗੁਣਾਂ ਦੀ ਦੱਸ"
 }

@@ -103,5 +103,6 @@
 	"wikimedia-copyright": "Текст є доступный під <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.rue\">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href=\"https://wikimediafoundation.org/wiki/Условія_схоснованя\">Условія схоснованя</a>.",
 	"wikimedia-copyrightwarning": "Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [https://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[https://wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].",
 	"wikibase-repo-name": "Вікіданы",
-	"wikimedia-developers": "Розробники"
+	"wikimedia-developers": "Розробники",
+	"protect-level-superprotect": "Дозволяти лем хоснователям з правами супер-охраны"
 }

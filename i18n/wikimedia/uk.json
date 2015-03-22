@@ -22,7 +22,8 @@
 			"Nemo bis",
 			"DixonD",
 			"Piramidion",
-			"Sergento"
+			"Sergento",
+			"Dicto23456"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -134,6 +135,7 @@
 	"grouppage-global-bot": "m:Global bot",
 	"group-global-ipblock-exempt": "Глобальне звільнення від блоку IP",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|Глобальне звільнення від блоку IP}}",
+	"group-global-interface-editor": "Глобальний інтерфейс редакторів",
 	"group-global-rollbacker": "Глобальні відкочувачі",
 	"group-global-rollbacker-member": "{{GENDER:$1|глобальний відкочувач|глобальна відкочувачка}}",
 	"grouppage-global-rollbacker": "m:Global rollback",
@@ -171,6 +173,7 @@
 	"wikimedia-copyrightwarning": "Зберігаючи свої зміни, Ви погоджуєтеся з [https://wikimediafoundation.org/wiki/Terms_of_Use Умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] та [https://uk.wikipedia.org/wiki/Вікіпедія:Текст_GNU_Free_Documentation_License GFDL].\nВи погоджуєтеся, що гіперпосилання або URL є достатнім зазначенням авторства згідно з ліцензією Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Формулювання ліцензії Creative Commons Attribution-ShareAlike\" target=\"_blank\">CC BY-SA 3.0</a> і <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Формулювання GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Вікідані",
+	"wikibase-sitelinks-wikibooks": "Вікіпідручник",
 	"wikibase-sitelinks-wikinews": "Вікіновини",
 	"wikibase-sitelinks-wikiquote": "Вікіцитати",
 	"wikibase-sitelinks-wikisource": "Вікіджерела",
