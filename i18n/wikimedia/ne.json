@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Bhawani Gautam",
-			"सरोज कुमार ढकाल"
+			"सरोज कुमार ढकाल",
+			"बिप्लब आनन्द"
 		]
 	},
 	"sitesupport": "चन्दा",
@@ -25,7 +26,7 @@
 	"group-import": "आयातकर्ताहरु",
 	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरु",
 	"group-inactive-member": "{{GENDER:$1|निस्क्रिय प्रयोगकर्ता}}",
-	"group-interface_editor": "अन्तरमोहडा सम्पादकहरु",
+	"group-interface-editor": "अन्तरमोहडा सम्पादकहरु",
 	"group-ipblock-exempt": "IP रोक माफीहरु",
 	"group-patroller": "गस्तीकर्ताहरु",
 	"group-researcher": "खोजकर्ताहरु",
@@ -33,5 +34,12 @@
 	"group-transwiki": "ट्रान्स विकि आयातकर्ताहरु",
 	"group-trusted": "विश्वसनीय प्रयोगकर्ताहरु",
 	"group-coder": "कोडलेख्ने व्यक्तिहरु",
-	"group-coder-member": "कोडलेख्ने व्यक्ति"
+	"group-coder-member": "कोडलेख्ने व्यक्ति",
+	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रिएटिव कमन्स ऐट्रिब्युसन/शेयर-अलाइक लाइसेन्स</a>अन्तर्गत उपलब्ध छ; अतिरिक्त शर्तहरू लागू हुन सक्छ।\nअधिक जानकारीको लागि <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोगको शर्तहरू</a> हेर्नुहोला।",
+	"wikimedia-copyrightwarning": "\"परिवर्तन सङ्ग्रह गर्दा तपाईं [https://wikimediafoundation.org/wiki/Terms_of_Use उपयोगका शर्तहरू] मान्न बाध्य हुनु पर्नेछ, र तपाईं आफ्नो योगदान [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License सिसि-बाय-एसए ३.० लाइसेन्स] र [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जिएफडिएल] को अन्तर्गत अपरिवर्तनीय रूपले जारी गर्न स्वीकार गर्नुहुन्छ ।\nतपाईं यो पनि स्वीकार गर्नुहुन्छ कि एउटा हाइपरलिङ्क वा यूआरएल क्रिएटिव कमन्स लाइसेन्सको अन्तर्गत पर्याप्त ऐट्रिब्युसन (श्रेय) छ।",
+	"wikibase-sitelinks-wikinews": "विकिसमाचार",
+	"wikibase-sitelinks-wikiquote": "विकिकोट",
+	"wikibase-sitelinks-wikisource": "विकिस्रोत",
+	"wikibase-sitelinks-wikivoyage": "विकिभोयेज",
+	"wikimedia-developers": "विकासकर्ताहरू"
 }
