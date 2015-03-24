@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Ggajendra",
-			"Tulsi Bhagat"
+			"Tulsi Bhagat",
+			"बिप्लब आनन्द"
 		]
 	},
 	"sitesupport": "दान",
 	"tooltip-n-sitesupport": "हमरा सभकेँ सहयोग करू",
+	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेन्स</a> के अन्तर्गत उपलब्ध अछि; अतिरिक्त शर्तसभ लागू भऽ सकैत अछि।\nअधिक जानकारी के लेल <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोग कऽ शर्तसभ</a> देखब।",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "विकिउद्धरण",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",

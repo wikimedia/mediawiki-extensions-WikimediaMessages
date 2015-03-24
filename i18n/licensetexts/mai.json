@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tulsi Bhagat"
+			"Tulsi Bhagat",
+			"बिप्लब आनन्द"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "ऐ दस्तावेजके [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] द्वारा प्रकाशित '''[[{{int:wm-license-gfdl-wiki-link}}|जीएनयू मुफ्त डक्युमेन्टेशन लाइसेन्स]]''' के संस्करण १.२ या नव (बिना कोनो इन्वेरिएन्ट अनुभागसभ आर आगु आर पिछुल्का आवरणक पाठके) के अन्तर्गत कपी, वितरित एवं/अथवा परिवर्तित करै के लेल अनुमति प्रदान कल जाएत अछि। ऐ लाइसेन्सक एक प्रति ''[[{{int:wm-license-gfdl-full-1.2-link}}|जीएनयू मुफ्त डक्युमेन्टेशन लाइसेन्स]]'' नामक अनुभागमें शामिल अछि।",
 	"wm-license-information-description": "जानकारी",
 	"wm-license-information-source": "स्रोत",
 	"wm-license-information-date": "गते",
