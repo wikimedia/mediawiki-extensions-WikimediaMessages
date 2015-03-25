@@ -6,5 +6,10 @@
 	},
 	"wikimedialicensetexts-desc": "Викимедианы лицензия билдириую",
 	"wm-license-information-description": "Ачыкълау",
-	"wm-license-information-source": "Къайнакъ"
+	"wm-license-information-source": "Къайнакъ",
+	"wm-license-information-date": "Дата",
+	"wm-license-information-author": "Автор",
+	"wm-license-information-permission": "Хакъла",
+	"wm-license-information-permission-reusing-text": "Бу файлны къайтарыб хайырландырылыуу",
+	"wm-license-own-work": "Джюклегенни кесини чыгъармасы"
 }
