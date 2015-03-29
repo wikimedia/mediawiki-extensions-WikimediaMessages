@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Reza1615",
-			"Rtemis"
+			"Rtemis",
+			"Mjbmr"
 		]
 	},
 	"contactpage-title-requestlicense": "علامت تجاری استفاده مجدد از فرم تماس با ما",
@@ -15,7 +16,7 @@
 	"contactpage-license-request-organization": "سازمان (در صورت اطلاق)",
 	"contactpage-license-request-organization-type": "نوع سازمان (در صورت اطلاق)",
 	"contactpage-license-request-use-proposed": "استفادهٔ پیشنهادی",
-	"contactpage-license-request-use-online": "برخط (وب‌گاه، رایانامه)",
+	"contactpage-license-request-use-online": "آنلاین (وب سایت، ایمیل)",
 	"contactpage-license-request-use-book": "کتاب، دوره‌ای",
 	"contactpage-license-request-use-print": "چاپ",
 	"contactpage-license-request-use-tv": "تلویزیون، فیلم یا رسانه",

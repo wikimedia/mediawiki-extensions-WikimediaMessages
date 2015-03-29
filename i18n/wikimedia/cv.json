@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"PCode"
+			"PCode",
+			"Chuvash2014"
 		]
 	},
-	"sitesupport": "Пожертвованисем"
+	"sitesupport": "Пожертвованисем",
+	"group-steward": "Стюардсем"
 }

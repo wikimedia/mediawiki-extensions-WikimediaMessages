@@ -7,5 +7,9 @@
 	"wm-license-information-description": "ವಿವರಣೆ",
 	"wm-license-information-source": "ಮೂಲ",
 	"wm-license-information-date": "ದಿನಾಂಕೊ",
-	"wm-license-information-author": "ಬರೆನಾರ್"
+	"wm-license-information-author": "ಬರೆನಾರ್",
+	"wm-license-information-permission": "ಅನುಮತಿ",
+	"wm-license-information-permission-reusing-text": "ಈ ಕಡೊತೊನು ಮರುಬಳಕೆ ಮಲ್ತೊಂದುಂಡು",
+	"wm-license-own-work": "ಸ್ವಂತ ರಚನೆ",
+	"wm-license-self-multiple-licenses-select": "ಈರೆನ ಇಚ್ಛೆದ ಪರವಾನಿಗೆನ್ ಈರ್ ಆಯ್ಕೆ ಮಲ್ತೊನೊಲಿ"
 }

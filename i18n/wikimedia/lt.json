@@ -7,13 +7,14 @@
 			"Matasg",
 			"Vpovilaitis",
 			"Nemo bis",
-			"Macofe"
+			"Macofe",
+			"Tomasdd"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=lt",
-	"sitesupport": "Parama",
-	"tooltip-n-sitesupport": "Palaikymas",
+	"sitesupport": "Aukoti",
+	"tooltip-n-sitesupport": "Paremkite mus",
 	"specialpages-group-contribution": "Įnašas/Remėjas",
 	"nstab-creator": "Kūrėjas",
 	"nstab-institution": "Įstaiga",
@@ -88,7 +89,7 @@
 	"group-steward-member": "ūkvedys",
 	"group-sysadmin": "Sistemos administratoriai",
 	"group-sysadmin-member": "sistemos administratorius",
-	"wikimedia-copyright": "Turinys pateikiamas pagal <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenciją</a>;\ngali galioti kitos nuostatos.\nNorėdami sužinoti daugiau, žiūrėkite <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Naudojimo sąlygas</a>.",
+	"wikimedia-copyright": "Turinys pateikiamas pagal <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenciją</a>; gali būti taikomos papildomos sąlygos.\nNorėdami sužinoti daugiau, žiūrėkite <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Naudojimo sąlygas</a>.",
 	"wikimedia-copyrightwarning": "Išsaugodami savo pakeitimą, jūs neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] ir [https://www.gnu.org/copyleft/fdl.html GFDL] licencijas. Taip pat jūs sutinkate, kad straipsnio, kuriame jūs padarėte keitimų, istorijoje būtų nurodytas jūsų naudotojo vardas arba IP adresas.\nNorėdami sužinoti daugiau, žiūrėkite [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Naudojimo sąlygas]",
 	"wikibase-sitelinks-wikinews": "Vikinaujienos",
 	"wikibase-sitelinks-wikiquote": "Vikicitatos",

@@ -3,13 +3,22 @@
 		"authors": [
 			"Bishnu Saikia",
 			"Chaipau",
-			"Gitartha.bordoloi"
+			"Gitartha.bordoloi",
+			"IKHazarika"
 		]
 	},
 	"wm-license-cc-attribution": "স্বীকৃতিপ্ৰদান",
 	"wm-license-cc-by-1.0-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] অনুজ্ঞাপত্ৰৰ আওতাত আছে।",
 	"wm-license-cc-by-1.0-fi-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] অনুজ্ঞাপত্ৰৰ অধীনত আছে।",
+	"wm-license-cc-by-sa-3.0-text": "এই ফাইলটো [{{int:wm-license-cc-wiki-link}}|ক্ৰিয়েটিভ কমন্স] [//creativecommons.org/licenses/by-sa/3.0/deed.en এট্ৰিবইউচন-চেয়াৰ এলাইক ৩.০ আন্প'ৰ্টেড] অনুজ্ঞাপত্ৰৰ অধীনত।",
 	"wm-license-cc-free": "আপুনি স্বাধীনভাৱে:",
 	"wm-license-cc-free-to-share-header": "বিতৰণ কৰিব পাৰে",
-	"wm-license-cc-conditions-attribution-header": "স্বীকৃতিপ্ৰদান"
+	"wm-license-cc-free-to-share-text": "কামটো নকল (কপি), বিতৰণ আৰু প্ৰেৰণ কৰিবলৈ",
+	"wm-license-cc-free-to-remix-header": "পুনৰ্মিশ্ৰণ কৰিবলৈ",
+	"wm-license-cc-free-to-remix-text": "কামটো অভিযোজন কৰিবলৈ",
+	"wm-license-cc-conditions": "তলত উল্লেখ কৰা চৰ্ত্তসমূহৰ ভিত্তিত:",
+	"wm-license-cc-conditions-attribution-header": "স্বীকৃতিপ্ৰদান",
+	"wm-license-cc-conditions-attribution-text": "আপুনি প্ৰণেতা বা অনুজ্ঞাপত্ৰধাৰীয়ে কোৱাৰ দৰে কামটোক স্বিকৃতি প্ৰদান কৰিব লাগিব (পিছে এনে ধৰণে নহয় যিয়ে প্ৰকাশ কৰে যে তেওঁ আপুনাক কামটো ব্যৱহাৰ কৰিবলৈ অনুমোদন দিছে)।",
+	"wm-license-cc-conditions-share_alike-header": "একে ধৰণে চেয়াৰ কৰক",
+	"wm-license-cc-conditions-share_alike-text": "যদি আপুনি এই কামটো পৰিবৰ্তন, ৰূপান্তৰ বা এই কামটোৰ উপৰত ভিত্তি কৰি নতুন সৃষ্টিকৰ্ম তৈয়াৰ কৰে, আপুনি শেষৰ কৰ্মটো পূৰ্বৰ কৰ্মটোৰ সৈতে একে বা একেধৰণৰ অনুজ্ঞাপত্ৰৰ আওতাত বিতৰণ কৰিব পাৰে।"
 }
