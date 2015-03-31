@@ -126,5 +126,6 @@
 	"interlanguage-link-sitename-mul": "Дукха меттанийн сайт {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Википеди, маьрша энциклопеди",
 	"interlanguage-link-sitename-commons": "Викигулам, медиафайлийн гулам",
-	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ"
+	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ",
+	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀераш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш ю муьлхачу хенахь шайн цӀераш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а."
 }
