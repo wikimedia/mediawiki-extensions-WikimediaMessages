@@ -4,7 +4,8 @@
 			"Castelobranco",
 			"Horacewai2",
 			"Petrus Adamus",
-			"Waihorace"
+			"Waihorace",
+			"Yueman"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:en:Creative Commons",
@@ -82,6 +83,7 @@
 	"wm-license-cc-by-sa-2.5-se-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/2.5/se/deed.eo Atribuite-Samkondiĉe 2.5 Svedujo].",
 	"wm-license-cc-by-sa-2.5-si-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/2.5/si/deed.eo Atribuite-Samkondiĉe 2.5 Slovenujo].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/2.5/tw/deed.eo Atribuite-Samkondiĉe 2.5 Tajvano].",
+	"wm-license-cc-by-sa-3.0-text": "呢個檔案用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [//creativecommons.org/licenses/by-sa/3.0/deed.zh_HK 姓名標示-非商業性-相同方式分享3.0 未本地化版本]條款授權。",
 	"wm-license-cc-by-sa-3.0-at-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/3.0/at/deed.eo Atribuite-Samkondiĉe 3.0 Aŭstrujo].",
 	"wm-license-cc-by-sa-3.0-de-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/3.0/de/deed.eo Atribuite-Samkondiĉe 3.0 Germanujo].",
 	"wm-license-cc-by-sa-3.0-es-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/3.0/es/deed.eo Atribuite-Samkondiĉe 3.0 Hispanujo].",
@@ -95,6 +97,12 @@
 	"wm-license-cc-by-sa-3.0-us-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [//creativecommons.org/licenses/by-sa/3.0/us/deed.eo Atribuite-Samkondiĉe 3.0 Usono].",
 	"wm-license-cc-free": "你可以：",
 	"wm-license-cc-free-to-share-header": "去分享",
+	"wm-license-cc-free-to-share-text": "複製、發佈同傳播呢個作品",
+	"wm-license-cc-free-to-remix-header": "再改",
+	"wm-license-cc-free-to-remix-text": "創作演繹作品",
+	"wm-license-cc-conditions": "要遵照下面嘅條件：",
+	"wm-license-cc-conditions-attribution-header": "署名",
+	"wm-license-cc-conditions-attribution-text": "您一定要跟作者或者許可人指定嘅方法標示佢個名（但唔可以用任何方法話你畀佢授權去用呢個作品）。",
 	"wm-license-cc-conditions-share_alike-header": "相同方式分享",
 	"wm-license-cc-conditions-share_alike-text": "如果你改左呢個作品，你必須要用返原本或者相似嘅條款發佈"
 }
