@@ -45,7 +45,7 @@
 	"group-inactive-member": "唔活躍嘅用戶",
 	"grouppage-inactive": "{{ns:project}}:唔活躍嘅用戶",
 	"group-interface-editor": "介面編者",
-	"group-interface-editor-member": "!!FUZZY!!界面編輯者",
+	"group-interface-editor-member": "界面編輯者",
 	"group-ipblock-exempt": "IP封鎖例外者",
 	"group-ipblock-exempt-member": "IP封鎖例外",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP封鎖例外",
