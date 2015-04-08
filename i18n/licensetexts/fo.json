@@ -1,5 +1,13 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
 	"wm-license-gfdl-wiki-link": "w:fo:GNU Free Documentation License",
+	"wm-license-information-description": "Frágreiðing",
+	"wm-license-information-source": "Kelda",
+	"wm-license-information-author": "Høvundur",
+	"wm-license-own-work": "Egið verk",
 	"wm-license-pd-wiki-link": "w:fo:Almenn ogn"
 }

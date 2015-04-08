@@ -4,12 +4,15 @@
 			"George Animal",
 			"Ghybu",
 			"Gomada",
-			"Nemo bis"
+			"Nemo bis",
+			"Bikarhêner"
 		]
 	},
 	"sitesupport": "Bexş bike",
 	"group-global-bot": "Bot'ên global",
-	"group-global-bot-member": "!!FUZZY!!bot'ê global",
+	"group-global-bot-member": "bot'ê global",
 	"wikimedia-copyright": "Nivîsar di bin lîsansa <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> de derbasdar e;\nheke tiştên din werin xwestin dikarin lê bên zêdekirin.\nJi bo hûragahiyan li <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Mercên Bikaranînê</a> binêre.",
-	"wikimedia-copyrightwarning": "Bi tikandina bişkoka \"{{int:savearticle}}\", tu [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina beşdariyên xwe yên di bin [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lîsansa CC-BY-SA 3.0] û [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] de dipejirînî.\nTu pê pabend dibe ku her girêdanek an jî URL'yek di bin lîsansa Creative Commonsê de ye."
+	"wikimedia-copyrightwarning": "Bi tikandina bişkoka \"{{int:savearticle}}\", tu [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina beşdariyên xwe yên di bin [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lîsansa CC-BY-SA 3.0] û [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] de dipejirînî.\nTu pê pabend dibe ku her girêdanek an jî URL'yek di bin lîsansa Creative Commonsê de ye.",
+	"protect-level-editeditorprotected": "Bitene ji edîtora ra destûr heye",
+	"restriction-level-editeditorprotected": "Di bin parastina edîtorê de ye"
 }

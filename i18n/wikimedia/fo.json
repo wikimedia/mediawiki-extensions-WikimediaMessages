@@ -5,10 +5,12 @@
 			"Spacebirdy"
 		]
 	},
+	"sitesupport": "Lat peningagávu",
 	"tooltip-n-sitesupport": "Stuðla okkum",
 	"group-steward": "Ternur",
 	"group-steward-member": "{{GENDER:$1|terna}}",
 	"grouppage-steward": "{{ns:project}}:Ternur",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
-	"createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto"
+	"createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto",
+	"wikimedia-developers": "Mennarar"
 }
