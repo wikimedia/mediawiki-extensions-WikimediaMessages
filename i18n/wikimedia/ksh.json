@@ -185,6 +185,7 @@
 	"interlanguage-link-sitename-commons": "- Wikkimeedija Commons - de Sammlong vun Mehdije-Datteije -",
 	"interlanguage-link-dmoz": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Open Directory Project - Directory Mozilla\">DMOZ</i> Wäb-Kattalohch",
 	"interlanguage-link-sitename-dmoz": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Open Directory Project - Directory Mozilla\">DMOZ</i>&nbsp;Wäb-Kattalohch",
+	"right-editeditorprotected": "Sigge met däm Schoz „{{int:protect-level-editeditorprotected}}“ ändere",
 	"wikimedia-feedback-termsofuse": "Esch jävven ming Rökmäldong onger dä <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ksh\" target=\"_blank\">Bedengonge för der Jebruch</a> un ben met dänne ennverschtande.",
 	"securepoll-dblist-securepollglobal": "Vörschtandswahle"
 }

@@ -2,8 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"George Animal",
-			"Gomada"
+			"Gomada",
+			"Bikarhêner"
 		]
 	},
-	"wm-license-cc-by-sa-2.0-de-text": "Ev dosye di bin lîsansa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/de/ Attribution-Share Alike 2.0 Germany] de ye."
+	"wm-license-cc-attribution": "Lê bar kirin",
+	"wm-license-cc-by-sa-2.0-de-text": "Ev dosye di bin lîsansa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.0/de/ Attribution-Share Alike 2.0 Germany] de ye.",
+	"wm-license-cc-free-to-share-header": "parve bike"
 }
