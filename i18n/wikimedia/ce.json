@@ -117,7 +117,9 @@
 	"wikibase-sitelinks-wikiquote": "Викидешнашчура хӀокхунца йолу агӀонаш",
 	"wikibase-sitelinks-wikisource": "Викидуьххьарайозачура хӀокхунца йолу агӀонаш",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage чура хӀокхунца йолу агӀонаш",
-	"wikibase-sitelinks-commons": "Викилуламехь хӀокху элементах тесна йолу агӀо",
+	"wikibase-sitelinks-commons": "Викигулам",
+	"wikibase-otherprojects-commons": "Викигулам",
+	"wikibase-sitelinks-sitename-commonswiki": "Викигулам",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викихаамаш",
 	"extdist-branch-REL1_25": "1.25 (хьалха йогӀу чӀагӀъелла верси-кандидат)",
 	"wikimedia-developers": "Кечдархой",
@@ -125,6 +127,7 @@
 	"interlanguage-link-mul": "Кхин тӀе меттанаш",
 	"interlanguage-link-sitename-mul": "Дукха меттанийн сайт {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Википеди, маьрша энциклопеди",
+	"interlanguage-link-commons": "Викигулам",
 	"interlanguage-link-sitename-commons": "Викигулам, медиафайлийн гулам",
 	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ",
 	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀераш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш ю муьлхачу хенахь шайн цӀераш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а."

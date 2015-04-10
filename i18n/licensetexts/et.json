@@ -47,7 +47,7 @@
 	"wm-license-creator-work-location": "Töökoht",
 	"wm-license-creator-linkback": "Link selle malli leheküljele",
 	"wm-license-fal-text": "See kunstiteos on vaba. Sa võid vastavalt '''[[{{int:wm-license-fal-wiki-link}}|Vaba Kunsti Litsentsis]]''' seatud tingimustele seda taaslevitada ja/või selle põhjal teisendeid luua. Selle litsentsi eksemplari leiad [{{int:wm-license-fal-full-link}} siit], samuti [{{int:wm-license-fal-full-link-commons}} teistelt saitidelt].",
-	"wm-license-fal-wiki-link": "w:et:Vaba Kunsti Litsents",
+	"wm-license-fal-wiki-link": "w:en:Free Art License",
 	"wm-license-fsf-wiki-link": "w:et:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:et:Vaba tarkvara",
 	"wm-license-gfdl-1.2-and-later": "Luba on antud selle dokumendi kopeerimiseks, avaldamiseks ja/või muutmiseks '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Vaba Dokumentatsiooni Litsentsi]]''' versiooni 1.2 või hilisema [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] avaldatud versiooni tingimuste alusel; muutumatute osadeta, esikaane tekstideta ja tagakaane tekstideta. Sellest loast on lisatud koopia leheküljel pealkirjaga \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",

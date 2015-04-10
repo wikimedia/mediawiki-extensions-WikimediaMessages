@@ -20,7 +20,8 @@
 			"Cwlin0416",
 			"LNDDYL",
 			"TianyinLee",
-			"Gaoxuewei"
+			"Gaoxuewei",
+			"Shizhao"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -185,6 +186,7 @@
 	"wikibase-sitelinks-wikivoyage": "維基導遊",
 	"wikibase-sitelinks-commons": "維基共享資源",
 	"wikibase-otherprojects-commons": "維基共享資源",
+	"wikibase-otherprojects-wikibooks": "維基教科書",
 	"wikibase-otherprojects-wikinews": "維基新聞",
 	"wikibase-otherprojects-wikiquote": "維基語錄",
 	"wikibase-otherprojects-wikipedia": "維基百科",
