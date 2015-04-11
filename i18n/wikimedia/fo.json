@@ -10,6 +10,10 @@
 	"group-steward": "Ternur",
 	"group-steward-member": "{{GENDER:$1|terna}}",
 	"grouppage-steward": "{{ns:project}}:Ternur",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto",
 	"wikimedia-developers": "Mennarar"
