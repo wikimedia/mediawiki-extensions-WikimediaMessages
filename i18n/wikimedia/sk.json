@@ -7,7 +7,8 @@
 			"Απεργός",
 			"Sudo77(new)",
 			"Nemo bis",
-			"Kusavica"
+			"Kusavica",
+			"Dicto23456"
 		]
 	},
 	"wikimediamessages-desc": "Správy špecifické pre Wikimedia",
@@ -67,9 +68,9 @@
 	"group-inactive": "Neaktívni používatelia",
 	"group-inactive-member": "neaktívny používateľ",
 	"grouppage-inactive": "{{ns:project}}:Neaktívni používatelia",
-	"group-interface_editor": "Redaktori rozhrania",
-	"group-interface_editor-member": "redaktor rozhrania",
-	"grouppage-interface_editor": "{{ns:project}}:Redaktor rozhrania",
+	"group-interface-editor": "Redaktori rozhrania",
+	"group-interface-editor-member": "!!FUZZY!!redaktor rozhrania",
+	"grouppage-interface-editor": "{{ns:project}}:Redaktor rozhrania",
 	"group-ipblock-exempt": "Výnimky z blokovaní IP",
 	"group-ipblock-exempt-member": "Výnimka z blokovaní IP",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Výnimky z blokovaní IP",
@@ -92,8 +93,6 @@
 	"grouppage-uploader": "{{ns:project}}:Nahrávajúci",
 	"group-coder": "Kóderi",
 	"group-coder-member": "kóder",
-	"group-editinterface": "Editori rozhrania",
-	"group-editinterface-member": "editor rozhrania",
 	"group-global-bot": "Globálni roboti",
 	"group-global-bot-member": "Globálny robot",
 	"group-global-rollbacker": "Globálni rollbackeri",
@@ -116,5 +115,6 @@
 	"wikibase-sitelinks-commons": "Stránka Wikimedia Commons prepojená s touto položkou",
 	"createacct-helpusername-url": "{{ns:Project}}:Používateľské_meno",
 	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
-	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia"
+	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia",
+	"protect-level-superprotect": "Povoliť iba používateľov superprotect"
 }

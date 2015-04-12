@@ -234,5 +234,6 @@
 	"right-superprotect": "изменение уровней суперзащиты",
 	"protect-level-superprotect": "Разрешать только участникам с правами супер-защиты",
 	"restriction-level-superprotect": "супер-защита",
+	"protect-level-editeditorprotected": "Разрешено только редакторам",
 	"right-viewdeletedfile": "просмотр удалённых файлов и страниц в пространствах имён {{ns:file}} и {{ns:file_talk}}"
 }

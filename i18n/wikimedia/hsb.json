@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Michawiki",
-			"Nemo bis"
+			"Nemo bis",
+			"Dicto23456"
 		]
 	},
 	"wikimediamessages-desc": "Specifiske zdźělenki Wikimedije",
@@ -144,5 +145,6 @@
 	"wikimedia-developers": "Wuwiwarjo",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Prawidła priwatnosće]",
 	"wikimediashoplink-linktext": "Wikimedia Shop",
-	"wikimediashoplink-link-tooltip": "Shop Wikimedije wopytać"
+	"wikimediashoplink-link-tooltip": "Shop Wikimedije wopytać",
+	"restriction-level-superprotect": "superprotekcja"
 }

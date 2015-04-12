@@ -9,7 +9,8 @@
 			"Stanqo",
 			"Turin",
 			"Nemo bis",
-			"StanProg"
+			"StanProg",
+			"Dicto23456"
 		]
 	},
 	"wikimediamessages-desc": "Съобщения, специфични за Уикимедия",
@@ -113,5 +114,6 @@
 	"cant-delete-main-page": "Не можете да изтривате или премествате Началната страница.",
 	"upload-more-photos-of-this-monument": "Качване на още снимки на този паметник",
 	"wikimedia-developers": "За разработчици",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/bg"
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/bg",
+	"restriction-level-superprotect": "суперзащита"
 }
