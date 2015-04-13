@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aftab1995"
+			"Aftab1995",
+			"Aftabuzzaman"
 		]
 	},
 	"contactpage-subject-requestlicense": "উইকিমিডিয়া ট্রেডমার্ক ব্যবহারের অনুরোধ",
@@ -22,6 +23,7 @@
 	"contactpage-wikimedia-trademark-globe": "উইকিপিডিয়া ধাঁধা গ্লোব",
 	"contactpage-wikimedia-trademark-wikiwordmark": "উইকিপিডিয়া শব্দচিহ্ন",
 	"contactpage-wikimedia-trademark-w": "স্টাইলকৃত \"W\"",
+	"contactpage-wikimedia-trademark-wikibooks": "উইকিবই",
 	"contactpage-wikimedia-trademark-wikimedia": "উইকিমিডিয়া সম্প্রদায়",
 	"contactpage-license-abuse-yourcontact": "আপনার যোগাযোগের তথ্য (যদি আমরা আপনার সাথে যোগাযোগ করতে চাই)"
 }

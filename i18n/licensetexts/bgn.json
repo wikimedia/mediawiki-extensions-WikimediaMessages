@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Baloch Afghanistan"
+			"Baloch Afghanistan",
+			"Ibrahim khashrowdi"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "کاپی ئی اجازه، پخش و/یا تغییر داتین ای سندی گۆ '''[[{{int:wm-license-gfdl-wiki-link}}|گنو ئی آزاتین سند ئانی مجوز]]''' ئی شرایت ئان، ۱٫۲ نخسه یا پدی هر نخسه ئی که شه [[{{int:wm-license-fsf-wiki-link}}|آزاتین سافٹ ایری بُنیاد]] ئی نیمه گاه شینک بیت؛ بغیر شه ناوردا (نامتغیر) ئین بخش ئان، سرورّق ئی متن ئان، و ورّق پوش ئی متن ئان، داته ئه بیت. یک کاپی شه مجوز ئان به ئینوانی گۆ ''[[{{int:wm-license-gfdl-full-1.2-link}}|گنو ئی آزاتین سند ئانی مجوز]]'' ئا لۆڑ بوته.",
 	"wm-license-information-description": "توضیح",
 	"wm-license-information-source": "بُن زهی",
 	"wm-license-information-date": "تاریخ",

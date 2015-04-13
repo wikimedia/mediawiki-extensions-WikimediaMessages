@@ -1,15 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Baloch Afghanistan"
+			"Baloch Afghanistan",
+			"Ibrahim khashrowdi"
 		]
 	},
 	"sitesupport": "مالی ئین کومک",
 	"tooltip-n-sitesupport": "وترا پُشتیوانی بکنیت",
 	"wikimedia-copyright": "متن تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> بئ دسترس ئا اینت؛\nدیگرین شرایط امکان دارنت که ائمال بیئنت.\n<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\"> ئی استفاده ئی شرایط ئا</a> په گیشتیرین مئلوماتی خاتیرا بگیندیت.",
+	"wikimedia-copyrightwarning": "گۆ تغیرانی ذخیره کورتین ئا، [https://wikimediafoundation.org/wiki/Terms_of_Use ایستیپاده ئی شرط] ئانه قبول ئه کنیت، و مجبوران قبول ئه کنیت که وتي شراکت ئانه بي [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ئی تا شینک ئه کنیت.\nشما قبول ئه کنیت ای یک لینک یا نشانگ ئی است که مربوت بئ کریتیو کامنز ئا اینت.",
 	"wikibase-sitelinks-wikinews": "ویکی نۆچئ",
 	"wikibase-sitelinks-wikiquote": "ویکی گیچین گپ",
 	"wikibase-sitelinks-wikisource": "ویکی زهي",
 	"wikibase-sitelinks-wikivoyage": "ویکی سات",
-	"wikimedia-developers": "پراخ کنۆک ئان"
+	"wikimedia-developers": "پراخ کنۆک ئان",
+	"wikimedia-globalblocking-ipblocked": "'''شمی آی پی ادرس [[m:Special:MyLanguage/Global blocks|شه موچین ویکی‌ئان]] بلاک بوته.'''\n\nدسترسی ئی سیستین شه $1 ئی نیمه گاه جۆڑ بوته ($2).\nداته بوته ئین دلیل ایش اینت «$3».\n\n* دسترسی ئی سیستین ئی وخت: $4\n* انبلاک یا دسترسی سیستین الاسی: $5\n\n$6 شمی انونین آی پی اینت.\nمهربانی بکنیت بُرزه گین موچین مواردئانه اگه گوجام درخواست ئی داریت گۆ آیی لۆڑ بیان بکنیت.\n\nاگه باور داریت که شما بي اشتباهین رقما ئا بلاک بوته ئیت، شما ئه توانیت ایزاپه ئین مالومات و کومک رهنمای ئانه بي [[m:Special:MyLanguage/No open proxies|پاچ ئین هیچ پراکسی]] سراسرین سیاست ئی تا ودي بکنیت .\nغیر شه ایشی، په گپ ئی خاتیرا مهربانی بکنیت [[m:Steward requests/Global|میٹا ویکی تا ریکویست دیم دهیت]]."
 }

@@ -143,6 +143,7 @@
 	"group-translationadmin": "অনুবাদ প্রশাসক",
 	"group-translationadmin-member": "{{GENDER:$1|অনুবাদ প্রশাসক}}",
 	"grouppage-translationadmin": "{{ns:project}}:অনুবাদ প্রশাসক",
+	"search-interwiki-custom": "wiktionary:উইকিভধান থেকে\nwikibooks:উইকিবই থেকে\nwikinews:উইকিসংবাদ থেকে\nwikiquote:উইকিউক্তি থেকে\nwikisource:উইকিসংকলন থেকে\nwikiversity:উইকিবিশ্ববিদ্যালয় থেকে\nwikivoyage:উইকিভ্রমণ থেকে",
 	"shared-repo-name-shared": "উইকিমিডিয়া কমন্স",
 	"wikimedia-copyright": "লেখাগুলো <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;\nএর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।\n <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use?uselang=bn\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",
 	"wikidata-copyright": "প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",
@@ -156,6 +157,9 @@
 	"wikibase-sitelinks-wikivoyage": "উইকিভ্রমণ",
 	"wikibase-sitelinks-commons": "উইকিমিডিয়া কমন্স",
 	"wikibase-otherprojects-commons": "উইকিমিডিয়া কমন্স",
+	"wikibase-otherprojects-wikidata": "উইকিউপাত্ত",
+	"wikibase-otherprojects-testwikidata": "উইকিউপাত্ত",
+	"wikibase-otherprojects-wikibooks": "উইকিবই",
 	"wikibase-otherprojects-wikinews": "উইকিসংবাদ",
 	"wikibase-otherprojects-wikiquote": "উইকিউক্তি",
 	"wikibase-otherprojects-wikipedia": "উইকিপিডিয়া",
@@ -175,8 +179,13 @@
 	"wikimediashoplink-linktext": "উইকিমিডিয়া দোকান",
 	"wikimediashoplink-link-tooltip": "উইকিমিডিয়া দোকান দেখুন",
 	"interlanguage-link-mul": "আরও ভাষা",
+	"interlanguage-link-wikipedia": "উইকিপিডিয়া",
 	"interlanguage-link-sitename-wikipedia": "উইকিপিডিয়া, একটি মুক্ত বিশ্বকোষ",
+	"interlanguage-link-commons": "উইকিমিডিয়া কমন্স",
+	"interlanguage-link-sitename-commons": "উইকিমিডিয়া কমন্স মিডিয়া ভাণ্ডার",
 	"right-superprotect": "সুপার সুরক্ষার মাত্রা পরিবর্তন করুন",
 	"restriction-level-superprotect": "সুপার সুরক্ষা",
-	"wikimedia-centralauth-contribs-locked": "এই অ্যাকাউন্টটি বৈশ্বিকভাবে অবরুদ্ধ করা হয়েছে। আরও তথ্যের জন্য [[m:Special:CentralAuth/$1|বৈশ্বিক অ্যাকাউন্টের বিস্তারিত]] দেখুন।"
+	"restriction-level-editeditorprotected": "সম্পাদক সুরক্ষিত",
+	"wikimedia-centralauth-contribs-locked": "এই অ্যাকাউন্টটি বৈশ্বিকভাবে অবরুদ্ধ করা হয়েছে। আরও তথ্যের জন্য [[m:Special:CentralAuth/$1|বৈশ্বিক অ্যাকাউন্টের বিস্তারিত]] দেখুন।",
+	"wikimedia-centralauth-uwbr-registration-nodate": "< ২০০৬"
 }

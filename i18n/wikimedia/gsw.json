@@ -134,5 +134,6 @@
 	"cant-delete-main-page": "Du chasch d Houptsyte weder lösche noch verschiebe.",
 	"wikimedia-translationnotifications-signup-legal": "Mit Aagab vu däne Informatione stimmsch zue, d Wikimedia Foundation di zue Themene im Zämmehang mit Ibersetzige un andere Informatione zue Wikimedia derf kontaktiere, wu unsre Meinig no fir Di vu Interässi sin. Du stimmsch au zue, dass Dyni Date in dr Vereinigte Staate vu Amerika chenne gspycheret wäre un unsere [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Dateschutzrichtlinie] unterlige.",
 	"upload-more-photos-of-this-monument": "Wyteri Foto vu däm Dänkmol uffelade",
-	"wikimedia-developers": "Softwareentwickler"
+	"wikimedia-developers": "Softwareentwickler",
+	"wikimedia-globalblocking-ipblocked": "'''Dyy IP-Adräss isch [[m:Special:MyLanguage/Global blocks|uf allne Wiki gsperrt]].'''\n\nD Sperri isch durgfiert wore vu $1 ($2).\nAs Grund fir d Sperri isch aagee: ''$3''.\n\n* Aafang vu dr Sperri: $4\n* Ablauf vu dr Sperri: $5\n\nDyy aktuälli IP-Adräss isch $6.\nGib bitte alli Detail dobe in allne Aafrogen aa.\n\nWänn glaubsch, ass d Sperri ne Fähler isch, chasch zuesätzligi Informationen un Hilfsstelligen in dr globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keini uffige Proxy]]“ finde.\nSunscht stell bitte [[m:Steward requests/Global|ne Aafrog im Meta-Wiki]], go d Sperri z dischpetiere."
 }
