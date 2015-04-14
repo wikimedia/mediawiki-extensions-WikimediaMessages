@@ -7,9 +7,11 @@
 	"sitesupport": "رابطہ",
 	"tooltip-n-sitesupport": "مدد کورے",
 	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. See <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyrightwarning": "محفوظ کوریکو مطلب ھیہ کہ تو اسپہ ٹرمز اینڈ کنڈیشنان سوم بالکل متفق اسوس [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "ویکی خبار",
 	"wikibase-sitelinks-wikiquote": "وکی اقتباسات",
 	"wikibase-sitelinks-wikisource": "ویکی سورس",
 	"wikibase-sitelinks-wikivoyage": "ویکی سفرنامہ",
-	"wikimedia-developers": "فراخ کوراک"
+	"wikimedia-developers": "فراخ کوراک",
+	"wikimedia-globalblocking-ipblocked": "'''تمام ویکیپیڈیا تہ آئی  پی باند کورونو بتی شیر[[m:Special:MyLanguage/Global blocks|blocked on all wikis]].''' The block was made by $1 ($2). The reason given is ''$3''. * Start of block: $4 * Expiry of block: $5 Your current IP address is $6. Please include all above details in any queries you make. If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy. Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }
