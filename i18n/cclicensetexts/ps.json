@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"عثمان خان شاہ"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ps:کريېټيو کامانز",
@@ -40,5 +41,7 @@
 	"wm-license-cc-free-to-remix-text": "د اثر د خپلولو",
 	"wm-license-cc-conditions": "د لاندې شرطونو له مخې:",
 	"wm-license-cc-conditions-attribution-header": "اړوندېدنه",
-	"wm-license-cc-conditions-share_alike-header": "يوشان شريکول"
+	"wm-license-cc-conditions-attribution-text": "تاسې له کار په دې انداز کې کول پکار دي   کوم چې د دي ليکوال ځانګړې کړي دي (خو په هغه لار نه چې داسي ښکاره کوي چي ته د هغه کار کوي)",
+	"wm-license-cc-conditions-share_alike-header": "يوشان شريکول",
+	"wm-license-cc-conditions-share_alike-text": "که ته ددي کار کونکي يي نو بيا دا ويشه د يوشان ليسنس په توګه"
 }

@@ -40,7 +40,8 @@
 			"Macofe",
 			"Benjozork",
 			"Zolo",
-			"Caliburn"
+			"Caliburn",
+			"Ltrlg"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -141,6 +142,8 @@
 	"group-uploader": "Téléverseurs",
 	"group-uploader-member": "{{GENDER:$1|téléchargeur}}",
 	"grouppage-uploader": "{{ns:project}}:Téléverseurs",
+	"group-wikidata-staff": "Personnel de Wikidata",
+	"group-wikidata-staff-member": "{{GENDER:$1|employé|employée}} de Wikidata",
 	"grouppage-wikidata-staff": "{{ns:project}}:Membres du personnel de Wikidata",
 	"group-apihighlimits-requestor": "Demandeurs de limite supérieure de l'API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|demandeur de limite supérieure de l'API}}",
@@ -159,6 +162,8 @@
 	"group-global-ipblock-exempt": "Exceptions globales de blocage d'adresses IP",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|exception globale de blocage d'adresse IP}}",
 	"grouppage-global-ipblock-exempt": "m:Special:MyLanguage/Global IP block exemptions",
+	"group-global-interface-editor": "Éditeurs d’interface globaux",
+	"group-global-interface-editor-member": "{{GENDER:$1|éditeur d’interface global|éditrice d'interface globale}}",
 	"group-global-renamer": "Responsables de renommage globaux",
 	"group-global-renamer-member": "{{GENDER:$1|responsable de renommage global}}",
 	"grouppage-global-renamer": "m:Global renamers",
@@ -209,6 +214,7 @@
 	"wikibase-sitelinks-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-wikibooks": "Wikibooks",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Vous ne pouvez pas supprimer ou déplacer la page principale.",
 	"wikimedia-translationnotifications-signup-legal": "En transmettant ces informations à la Fondation Wikimédia, vous acceptez que nous puissions vous contacter à propos de traductions ou de toute autre sujet touchant le mouvement Wikimédia qui pourrait, selon nous, vous intéresser. Vous acceptez que vos données soient stockées aux États-Unis d’Amérique et soient sujettes à notre [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy politique de confidentialité] (en anglais).",
 	"upload-more-photos-of-this-monument": "Importer d’autres photographies de ce monument",
@@ -242,5 +248,14 @@
 	"right-superprotect": "Modifier les super-niveaux de protection",
 	"protect-level-superprotect": "Autoriser uniquement les utilisateurs super-protégés",
 	"restriction-level-superprotect": "super-protection",
-	"wikimedia-centralauth-contribs-locked": "Ce compte est verrouillé globalement.\nVoyez [[m:Special:CentralAuth/$1|les détails du compte global]] pour plus d’information."
+	"right-editeditorprotected": "Modifier les pages protégées avec « {{int:protect-level-editeditorprotected}} »",
+	"protect-level-editeditorprotected": "N’autoriser que les éditeurs",
+	"restriction-level-editeditorprotected": "limité aux éditeurs",
+	"wikimedia-feedback-termsofuse": "Je suis d’accord pour exprimer mon avis selon les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/fr\" target=\"_blank\">conditions d’utilisation</q>",
+	"wikimedia-globalrenamequeue-email-body-approved": "La demande de renommage de « $1 » en « $2 » a été approuvée. Une fois terminé, vous pourrez vous connecter avec votre nouveau nom d’utilisateur et votre ancien mot de passe. Merci pour votre participation aux projets Wikimedia.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "La demandes de renommage de « $1 » en « $2 » ne peut pas être effectuée.\n\nPour plus d’informations, merci de consulter la page d’aide suivante : <https://meta.wikimedia.org/wiki/Help:Unified_login/fr#Foire_aux_questions>. Pour débattre à propos de votre demande de renommage, vous pouvez ajouter un message sur la page <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Vous devez toujours vous être connecté avec votre compte actuel pour cela.",
+	"wikimedia-sulrenamewarning-usenew": "À partir de maintenant, vous devez vous connecter en utilisant votre nouveau nom d’utilisateur, <strong>$1</strong>. Ce nouveau nom est unique pour tous les projets Wikimedia et si vous êtes connecté sur un projet, vous serez aussi connecté lorsque vous visiterez un autre projet. Vous pouvez consulter plus d’informations à propos de l’identifiant unique sur la [[:m:Special:MyLanguage/Help:Unified_login|page d’aide de la connexion unifiée]], notamment dans la foire aux questions. Si vous avez besoin de changer votre adresse électronique ou votre mot de passe dans les [[Special:Preferences|préférences]], c’est peut-être le bon moment.\n\nPour demander un nom d’utilisateur différent, utilisez le formulaire de la page [[Special:GlobalRenameRequest]]. Merci pour votre participation aux projets Wikimedia.",
+	"wikimedia-centralauth-contribs-locked": "Ce compte est verrouillé globalement.\nVoyez [[m:Special:CentralAuth/$1|les détails du compte global]] pour plus d’information.",
+	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateur de ce wiki qui seront renommés pour [[m:Single User Login finalisation announcement/fr|la finalisation de la connexion unifiée]]. Plus d’informations sur la [[m:Help:Unified login/fr|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander leur renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
+	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}."
 }
