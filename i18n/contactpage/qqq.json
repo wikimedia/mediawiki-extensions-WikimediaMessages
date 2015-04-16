@@ -41,5 +41,15 @@
 	"contactpage-license-abuse-selectmark": "Which Wikimedia trademark has been abused",
 	"contactpage-license-abuse-location": "Location of the abuse of Wikimedia trademark",
 	"contactpage-license-abuse-theircontact": "Contact details for the person abusing Wikimedia trademarks",
-	"contactpage-license-abuse-yourcontact": "Contact details of the person reporting the Wikimedia trademark abuse"
+	"contactpage-license-abuse-yourcontact": "Contact details of the person reporting the Wikimedia trademark abuse",
+	"contactpage-affcom-user-group-form-title": "Form title on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-name-label": "Label for the name field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-description-label": "Label for the description field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-wikipage-label": "Label for the wiki page field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-location-label": "Label for the location field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-leaders-label": "Label for the leaders field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-logo-label": "Label for the logo field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-rules-label": "Label for the rules on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-terms-label": "Label for the terms checkbox on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-logo-wm-logo": "Text shown under the logo radio options on [[meta:Special:Contact/affcomusergroup]]."
 }
