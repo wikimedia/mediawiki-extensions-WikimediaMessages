@@ -46,5 +46,12 @@
 	"contactpage-license-abuse-selectmark": "Кој знак е злоупотребен?",
 	"contactpage-license-abuse-location": "Место на злоупотребата (семрежно или вонсемрежно)",
 	"contactpage-license-abuse-theircontact": "Контактни податоци на лицето што го злоупотребило знакот (ако се познати)",
-	"contactpage-license-abuse-yourcontact": "Ваши контактни податоци (ако можеме да Ве контактираме)"
+	"contactpage-license-abuse-yourcontact": "Ваши контактни податоци (ако можеме да Ве контактираме)",
+	"contactpage-affcom-user-group-description-label": "'''Опис'''\n* Кажете ни што намерава да прави вашата група.",
+	"contactpage-affcom-user-group-wikipage-label": "'''Викистраница'''\n* Ставете врска до викистраницата на групата.\n* Доколку сè уште немате викистраница, можете да [[Wikimedia user groups/setup guide|ја направите на Мета]].",
+	"contactpage-affcom-user-group-location-label": "'''Наоѓалиште'''\n* Наведете земја и град кајшто живеете, за да можеме да ги следиме нашите кориснички групи ширум светот. Ако делокругот ви е целосветски, ставате само „Internet“.",
+	"contactpage-affcom-user-group-leaders-label": "'''Тројца активни викимедијанци'''\n* Наведете име, е-пошта и кориснички имиња на тројца водачи на групата.",
+	"contactpage-affcom-user-group-logo-label": "'''Лого'''\n* Кое лого сакате да го користите за групата?",
+	"contactpage-affcom-user-group-terms-label": "Ги прочитав и се согласувам со горенаведените правила и со [[Wikimedia user groups/Agreement and code of conduct|Спогодбата за кориснички групи и правилникот на однесување]].",
+	"contactpage-affcom-user-group-logo-wm-logo": "''Ако сакате да го користите '''Викимедииното лого''', можете да  [[Special:Contact/requestlicense|побарате лиценца за заштитен знак]].''"
 }
