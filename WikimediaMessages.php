@@ -134,6 +134,7 @@ function wfWikimediaMessagesMessageCacheGet( &$lcKey ) {
 		'centralauth-contribs-locked',
 		'centralauth-uwbr-intro',
 		'centralauth-uwbr-registration-nodate',
+		'privacypage',
 	);
 
 	if ( in_array( $lcKey, $keys, true ) ) {
