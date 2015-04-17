@@ -19,5 +19,9 @@
 	"contactpage-license-abuse-description": "Beschreift de Mëssbrauch",
 	"contactpage-license-abuse-selectmark": "Watfireng Marque gouf mëssbraucht?",
 	"contactpage-license-abuse-location": "Plaz vum Mëssbrauch (online/offline)",
-	"contactpage-license-abuse-yourcontact": "Är Kontaktinformatiounen (wann Dir wëllt datt mir Iech kontaktéieren)"
+	"contactpage-license-abuse-yourcontact": "Är Kontaktinformatiounen (wann Dir wëllt datt mir Iech kontaktéieren)",
+	"contactpage-affcom-user-group-form-title": "Ufro fir e Benotzergrupp unzefroen",
+	"contactpage-affcom-user-group-description-label": "'''Beschreiwung'''\n* Sot eis w.e.g. wat Äre Grupp wëlles huet.",
+	"contactpage-affcom-user-group-leaders-label": "'''Dräi aktiv Wikimedianer'''\n* Gitt w.e.g. den Numm, d'E-Mail-Adress an de Wikimedia-Benotzernumm fir dräi Gruppe-Leader un.",
+	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Wat fir e Logo wëllt Dir fir Äre Grupp benotzen?"
 }

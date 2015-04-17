@@ -33,5 +33,15 @@
 	"contactpage-license-abuse-selectmark": "Welche Marke wurde missbraucht?",
 	"contactpage-license-abuse-location": "Ort des Missbrauchs (on-/offline)",
 	"contactpage-license-abuse-theircontact": "Kontaktinformationen der Person, die die Marke missbraucht hat (falls bekannt)",
-	"contactpage-license-abuse-yourcontact": "Deine Kontaktinformationen (falls wir dich kontaktieren dürfen)"
+	"contactpage-license-abuse-yourcontact": "Deine Kontaktinformationen (falls wir dich kontaktieren dürfen)",
+	"contactpage-affcom-user-group-form-title": "Anfrage zur Eröffnung einer Benutzergruppe",
+	"contactpage-affcom-user-group-name-label": "'''Name'''\n* Vorgeschlagener Name: Benutzergruppe der Wikimedia-Gemeinschaft [dein Bereich oder Thema]\n* Siehe die [[Wikimedia user groups/Name guidelines|Namensrichtlinien]], falls du einen anderen Namen möchtest.",
+	"contactpage-affcom-user-group-description-label": "'''Beschreibung'''\n* Bitte erzähle uns, was deine Gruppe plant.",
+	"contactpage-affcom-user-group-wikipage-label": "'''Wikiseite'''\n* Bitte stelle einen Link zu deiner Gruppenwikiseite bereit.\n* Falls du noch keine Wikiseite hast, kannst du [[Wikimedia user groups/setup guide|eine Benutzergruppenseite im Meta-Wiki erstellen]].",
+	"contactpage-affcom-user-group-location-label": "'''Standort'''\n* Bitte stelle dein Land und deine Stadt bereit. So können wir deinen Benutzergruppen auf der ganzen Welt nachgehen. Falls global zu erreichen, gib einfach „Internet“ ein.",
+	"contactpage-affcom-user-group-leaders-label": "'''Drei aktive Wikimedianer'''\n* Bitte stelle den Namen, die E-Mail-Adresse und einen Wikimedia-Benutzernamen für drei Gruppenleiter bereit.",
+	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Welches Logo möchtest du für deine Gruppe verwenden?",
+	"contactpage-affcom-user-group-rules-label": "'''Benutzergruppenregeln'''\n* Du bist berechtigt, eine Benutzergruppe zu bilden, falls du mindestens 3 Mitglieder mit 10 oder mehreren Beiträgen auf einem Wikimedia-Projekt hast und willigst der [[Wikimedia user groups/Agreement and code of conduct|Benutzergruppenvereinbarung und dem Verhaltenskodex]] ein:\n** Du solltest der [[wmf:Trademark policy|Handelsmarken-Richtlinie]] folgen\n** Du bist von anderen Wikimedia-Organisationen unabhängig\n* Nach dem Übermitteln dieser Bewerbung wird dich in Kürze ein Mitglied des [[Affiliations Committee|Zugehörigkeitsausschusses]] kontaktieren, um dir bei den nächsten Schritten zu helfen\n* Erfahre mehr über [[Wikimedia user groups|Wikimedia-Benutzergruppen]]",
+	"contactpage-affcom-user-group-terms-label": "Ich habe die oben stehenden Regeln sowie die [[Wikimedia user groups/Agreement and code of conduct|Benutzergruppenvereinbarung und den Verhaltenskodex]] gelesen und stimme ihnen zu.",
+	"contactpage-affcom-user-group-logo-wm-logo": "''Falls du das '''Wikimedia-Logo''' verwenden möchtest, musst du [[Special:Contact/requestlicense|eine Handelsmarken-Lizenz beantragen]].''"
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"Mariya"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",
@@ -33,5 +34,6 @@
 	"contactpage-license-abuse-selectmark": "Какой именно знак был использован с нарушением?",
 	"contactpage-license-abuse-location": "Место злоупотребления (в сети/вне сети)",
 	"contactpage-license-abuse-theircontact": "Контактная информация лица, нарушающего права на знак (если известна)",
-	"contactpage-license-abuse-yourcontact": "Ваша контактная информация (если можно связаться с вами)"
+	"contactpage-license-abuse-yourcontact": "Ваша контактная информация (если можно связаться с вами)",
+	"contactpage-affcom-user-group-name-label": "'''Имя'''\n* Предлагаемое имя: Пользователь группы Викимедиа [ваша сфера или тема]\n* См. [[Wikimedia user groups/Name guidelines|name guidelines]]  если вы хотите выбрать другое имя."
 }
