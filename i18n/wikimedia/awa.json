@@ -7,5 +7,11 @@
 	"sitesupport": "दान किहा जाय",
 	"tooltip-n-sitesupport": "हम्मन कय मदद करा जाय",
 	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अंतर्गत उपलब्ध है; अतिरिक्त शर्तें लागू हो सकती हैं।\nअधिक जानकारी के लिए <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोग की शर्तें</a> देखें।",
-	"wikimedia-developers": "विकासकर्ता:"
+	"wikimedia-copyrightwarning": "\"बदलाव सहेजने पर आप [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदान [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेंस] एवं [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।\nआप यह भी स्वीकार करते हैं कि एक हाइपरलिंक या यू॰आर॰एल क्रियेटिव कॉमन्स लाइसेंस के अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) है।",
+	"wikibase-sitelinks-wikinews": "विकिसमाचार",
+	"wikibase-sitelinks-wikiquote": "विकिकहावत",
+	"wikibase-sitelinks-wikisource": "विकिस्रोत",
+	"wikibase-sitelinks-wikivoyage": "विकियात्रा",
+	"wikimedia-developers": "विकासकर्ता:",
+	"wikimedia-globalblocking-ipblocked": "'''आपका आईपी अड्रस [[m:Special:MyLanguage/Global blocks|सभी विकि पर ख़ारिज]] किया गया है.'''\n\nइस ख़ारिज को $1 ($2) ने किया.\nबताया गया कारण : ''$3'' .\n\n* ख़ारिज शुरू: $4\n* ख़ारिज बन्द्: $5\n\nआपका प्रस्तुत आईपी अड्रस् $6.\nकृपया ऊपर दी गईं बातें अपने पूछ्ताछ में शामिल करें।\n\nअगर आप मनते है कि यह ख़ारिज करना किसी गलती से हुआ है, तो आप अधिक जानकारी और निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस नही]] वैश्विक नीति पर पढें.\nया फिर, इस खारिज की चर्चा [[m:Steward requests/Global|यहाँ करें और मेटाविकि पर एक नया चर्चा शुरू करें]]."
 }

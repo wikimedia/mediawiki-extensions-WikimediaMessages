@@ -65,7 +65,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:د ژباړې پازوالان",
 	"shared-repo-name-shared": "ويکيمېډيا کامنز",
 	"wikimedia-copyright": "دا متن د <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">کريټيف کامنز ورته-شريکېدنې-اړوندتيا منښتليک</a> له مخې خپور شوی؛\nاضافه شرطونه به هم کارېدلي وي.\nد لا تفصيل لپاره <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">د کارولو شرطونه</a> وگورئ.",
-	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
+	"wikimedia-copyrightwarning": "د بدلونونو په خوندي کولو سره، تاسې د [https://wikimediafoundation.org/wiki/Terms_of_Use کارولو شرطونه] منئ، او تاسې په نه جبرانېدونکې توگه دا هم منئ چې خپلې ونډې مو د [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 منښتليک] او د [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جي اېف ډي اېل] پر بنسټ دلته خپروئ.\nتاسې دا هم منئ چې يو هايپرلېنک يا يو آر اېل د کريټيف کامنز منښتليک سره د اړوندېدنې لپاره بس دی.",
 	"wikibase-sitelinks-wikibooks": "ويکيتابونه",
 	"wikibase-sitelinks-wikinews": "ويکيخبرونه",
 	"wikibase-sitelinks-wikiquote": "ويکيوراشه",

@@ -65,7 +65,7 @@
 	"group-inactive-member": "onaktiewe gebruiker",
 	"grouppage-inactive": "{{ns:project}}:Onaktiewe gebruikers",
 	"group-interface-editor": "Koppelvlakontwerpers",
-	"group-interface-editor-member": "!!FUZZY!!koppelvlakontwerper",
+	"group-interface-editor-member": "koppelvlakontwerper",
 	"grouppage-interface-editor": "{{ns:project}}:Koppelvlakontwerpers",
 	"group-ipblock-exempt": "uitgesonderdes van IP-adresblokkades",
 	"group-ipblock-exempt-member": "uitgesonder van IP-adresblokkades",
