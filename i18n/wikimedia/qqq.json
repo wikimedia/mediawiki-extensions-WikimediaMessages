@@ -146,6 +146,8 @@
 	"group-global-bot": "{{doc-group|global-bot}}",
 	"group-global-bot-member": "{{doc-group|global-bot|member}}",
 	"grouppage-global-bot": "{{optional}}\n{{doc-group|global-bot|page}}\n{{Global grouppage}}",
+	"group-global-gather-admins": "{{doc-group|global-gather-admins}}",
+	"group-global-gather-admins-member": "{{doc-group|global-gather-admins|member}}",
 	"group-global-ipblock-exempt": "{{doc-group|global-ipblock-exempt}}",
 	"group-global-ipblock-exempt-member": "{{doc-group|global-ipblock-exempt|member}}",
 	"grouppage-global-ipblock-exempt": "{{optional}}\n{{doc-group|global-ipblock-exempt|page}}\n{{Global grouppage}}",

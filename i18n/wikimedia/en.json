@@ -120,6 +120,8 @@
 	"group-global-bot": "Global bots",
 	"group-global-bot-member": "{{GENDER:$1|global bot}}",
 	"grouppage-global-bot": "m:Global bot",
+	"group-global-gather-admins": "Global Gather admins",
+	"group-global-gather-admins-member": "{{GENDER:$1|global Gather admin}}",
 	"group-global-ipblock-exempt": "Global IP block exemptions",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|global IP block exempt}}",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
