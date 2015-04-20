@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ayudame a escoyer)]]",
-	"wikimedia-createacct-imgcaptcha-help": "¿Nun pue ver la imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite una cuenta]]"
+	"wikimedia-createacct-imgcaptcha-help": "¿Nun pue ver la imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite una cuenta]]",
+	"wikimedia-privacypage": "m:Special:MyLanguage/Privacy_policy/ast"
 }
