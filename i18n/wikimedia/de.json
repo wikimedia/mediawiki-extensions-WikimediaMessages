@@ -136,6 +136,8 @@
 	"grouppage-coder": "{{ns:project}}:Programmierer",
 	"group-global-bot": "Globale Bots",
 	"group-global-bot-member": "{{GENDER:$1|Globaler Bot}}",
+	"group-global-gather-admins": "Globale Gather-Administratoren",
+	"group-global-gather-admins-member": "{{GENDER:$1|Globaler Gather-Administrator|Globale Gather-Administratorin}}",
 	"group-global-ipblock-exempt": "Globale IP-Sperren-Ausgenommene",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|Globaler IP-Sperren-Ausgenommener|Globale IP-Sperren-Ausgenommene}}",
 	"group-global-interface-editor": "Globale Benutzeroberflächenbearbeiter",
