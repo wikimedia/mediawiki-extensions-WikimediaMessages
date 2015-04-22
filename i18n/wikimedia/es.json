@@ -135,6 +135,8 @@
 	"group-coder-member": "{{GENDER:$1|programador|programadora}}",
 	"group-global-bot": "Bots globales",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
+	"group-global-gather-admins": "Administradores globales de Gather",
+	"group-global-gather-admins-member": "{{GENDER:$1|administrador|administradora}} global de Gather",
 	"group-global-ipblock-exempt": "Exenciones de bloqueos IP globales",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|exento de bloqueo IP global}}",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
