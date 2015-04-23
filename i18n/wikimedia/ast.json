@@ -120,6 +120,8 @@
 	"group-coder-member": "{{GENDER:$1|programador|programadora}}",
 	"group-global-bot": "Bots globales",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
+	"group-global-gather-admins": "Alministraderes globales de Gather",
+	"group-global-gather-admins-member": "{{GENDER:$1|alministrador|alministradora}} global de Gather",
 	"group-global-ipblock-exempt": "Llibres de bloqueos IP globales",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|llibre}} de bloquéu global d'IP",
 	"group-global-interface-editor": "Editores d'interfaz globales",
@@ -204,5 +206,6 @@
 	"restriction-level-editeditorprotected": "protexida pol editor",
 	"wikimedia-feedback-termsofuse": "Acepto proporcionar información acordies colos <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Términos d'usu</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Aprobóse la to solicitú pa cambiar el nome de «$1» a «$2». Una vez completada, podrás aniciar sesión usando'l to nuevu nome d'usuariu cola contraseña antigua. Gracies por participar nos proyeutos de Wikimedia.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "La solicitú de cambiu de nome de «$1» a «$2» nun pudo completase.\n\nPa más información, visita esta páxina d'ayuda: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. P'aldericar sobro la solicitú de cambiu de nome, puedes escribir nesta páxina: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Inda tienes d'aniciar sesión cola to cuenta actual primero.",
 	"securepoll-dblist-securepollglobal": "Eleición al Conseyu"
 }

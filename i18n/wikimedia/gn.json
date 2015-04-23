@@ -1,4 +1,8 @@
 {
-	"@metadata": [],
-	"sitesupport": "Me'ẽ rei"
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"sitesupport": "Me’ẽ rei"
 }
