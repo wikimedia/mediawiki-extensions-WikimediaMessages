@@ -10,5 +10,6 @@
 	"password-recycled": "Error message shown on password reset form when the user attempts to set their password to a previously-used value.",
 	"grouppage-oversight": "Project page explaining what Oversight is.",
 	"group-oversight": "Localized name of the oversight group.",
-	"group-oversight-member": "Localized name of the oversight group member."
+	"group-oversight-member": "Localized name of the oversight group member.",
+	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate."
 }

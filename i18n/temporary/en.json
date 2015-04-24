@@ -7,5 +7,6 @@
 	"password-recycled": "The password you have entered matches an old password associated with your account. Please set a new, different password.",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighters",
-	"group-oversight-member": "oversight"
+	"group-oversight-member": "oversight",
+	"please-translate": "Please help translate to your language"
 }
