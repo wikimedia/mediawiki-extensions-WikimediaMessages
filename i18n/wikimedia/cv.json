@@ -7,5 +7,6 @@
 	},
 	"sitesupport": "Пулăшăр",
 	"group-flood-member": "{{GENDER:$1|хутшăнакан бот}}",
-	"group-steward": "Стюардсем"
+	"group-steward": "Стюардсем",
+	"wikibase-repo-name": "Wikidata"
 }
