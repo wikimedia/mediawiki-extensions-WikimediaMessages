@@ -8,12 +8,13 @@
 			"Nemo bis",
 			"Sushant savla",
 			"לערי ריינהארט",
-			"Vyom"
+			"Vyom",
+			"Arbhatt"
 		]
 	},
 	"wikimediamessages-desc": "વિકિમીડિયા પૂરતા સંદેશ",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gu",
-	"sitesupport": "દાન",
+	"sitesupport": "દાન કરો",
 	"tooltip-n-sitesupport": "અમારું સમર્થન કરો",
 	"specialpages-group-contribution": "સહભાગ/ફાળો ઉઘરાવ",
 	"nstab-creator": "રચયિતા",
@@ -123,5 +124,6 @@
 	"wikibase-sitelinks-wikisource": "વિકિસ્રોત",
 	"wikibase-sitelinks-wikivoyage": "વિકિયાત્રા",
 	"cant-delete-main-page": "તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.",
-	"wikimedia-developers": "ડેવલોપર્સ"
+	"wikimedia-developers": "ડેવલપર્સ",
+	"wikimedia-globalblocking-ipblocked": "'''તમારૂ આઇપી સરનામું [[m:Special:MyLanguage/Global blocks|દરેક વિકિ પર પ્રતિબંધિત છે]].'''\n\nઆ પ્રતિબંધ $1 ($2) દ્વારા લગાવાયો છે.\nઅને આ કારણથી લગાવાયો છે ''$3''.\n\n* પ્રતિબંધની શરુવાત: $4\n* પ્રતિબંધની પુરો થશે : $5\n\nતમારૂ આઇપી સરનામું $6 છે.\nતમારી કોઇ પણ પ્રકારની પૃચ્છા સાથે ઉપરોક્ત માહિતી શામેલ કરવી.\n\nજો તમે એમ માનતા હો કે તમને ભુલથી પ્રતિબંધિત કરવામાં આવ્યા છે તો આ વિષયની વધારે માહિતી તમને અહિં મળશે [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nઅથવા, પ્રતિબંધ વિષે ચર્ચા માટે [[m:Steward requests/Global|ફેરવિચારણાર્થે વિનંતિ પત્ર મોકલો]]."
 }

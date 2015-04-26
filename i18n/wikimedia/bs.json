@@ -8,7 +8,8 @@
 			"Palapa",
 			"Smooth O",
 			"לערי ריינהארט",
-			"Nemo bis"
+			"Nemo bis",
+			"Semso98"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -68,9 +69,9 @@
 	"group-inactive": "Neaktivni korisnici",
 	"group-inactive-member": "neaktivni korisnik",
 	"grouppage-inactive": "{{ns:project}}:Neaktivni korisnici",
-	"group-interface_editor": "Urednici sučelja",
-	"group-interface_editor-member": "urednik sučelja",
-	"grouppage-interface_editor": "{{ns:project}}:Urednici sučelja",
+	"group-interface-editor": "Urednici sučelja",
+	"group-interface-editor-member": "!!FUZZY!!urednik sučelja",
+	"grouppage-interface-editor": "{{ns:project}}:Urednici sučelja",
 	"group-ipblock-exempt": "Izuzeci IP blokada",
 	"group-ipblock-exempt-member": "Izuzeci IP blokada",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Izuzeci IP blokada",
@@ -93,8 +94,6 @@
 	"grouppage-uploader": "{{ns:project}}:Postavljači",
 	"group-coder": "Koderi",
 	"group-coder-member": "koder",
-	"group-editinterface": "Urednici sučelja",
-	"group-editinterface-member": "urednik sučelja",
 	"group-global-bot": "Globalni botovi",
 	"group-global-bot-member": "globalni bot",
 	"group-global-rollbacker": "Globalni povratioci",
@@ -111,5 +110,11 @@
 	"group-sysadmin-member": "sistemski administrator",
 	"wikimedia-copyright": "Tekst je dostupan pod <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licencom</a>;\ndodatni uslovi se mogu primijeniti.\nZa detalje pogledajte <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">uslove korištenja</a>.",
 	"wikimedia-copyrightwarning": "Ako spremite promjene, nepovratno se slažete da Vaš doprinos objavljujete pod [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike licencom 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL].\nSlažete se da Vaš doprinos može biti izmijenjen od drugih korisnika, najmanje preko linka ili URLa.\nZa dalje detalje pogledajte [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Pravila korištenja].",
-	"createacct-helpusername-url": "Project:Korisničko_ime"
+	"wikibase-sitelinks-wikinews": "Wikivijesti",
+	"wikibase-sitelinks-wikiquote": "Wikicitat",
+	"wikibase-sitelinks-wikisource": "Wikiizvor",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"createacct-helpusername-url": "Project:Korisničko_ime",
+	"wikimedia-developers": "Razvojni programeri",
+	"wikimedia-globalblocking-ipblocked": "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }

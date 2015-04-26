@@ -4,13 +4,14 @@
 			"Chaojoker",
 			"Teak",
 			"Xelgen",
-			"Nemo bis"
+			"Nemo bis",
+			"Դավիթ Սարոյան"
 		]
 	},
 	"sitesupport": "Դրամական նվիրատվություն",
 	"tooltip-n-sitesupport": "Աջակցեք մեզ",
 	"shared-repo-name-shared": "Վիքիպահեստ",
-	"wikimedia-copyright": "Տեքստը տեղադրված է <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hy\">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Օգտագործման պայմաններ</a>։",
+	"wikimedia-copyright": "Տեքստը հասանելի է <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hy\">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Օգտագործման պայմաններ</a>։",
 	"wikimedia-copyrightwarning": "Սեղմելով «Հիշել էջը», դուք համաձայնվում եք անվերադարձ հրապարակել ձեր ներդրումը [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] և [https://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։\nԴուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ը կամ դնելով հիպերհղում նրա վրա։\nԾանոթացեք [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Օգտագործման պայմաններին] մանրամասն տեղեկությունների համար։",
 	"wikibase-repo-name": "Վիքիշտեմարան",
 	"wikibase-sitelinks-wikinews": "Վիքիլուրեր",

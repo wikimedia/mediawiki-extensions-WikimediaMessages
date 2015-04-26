@@ -3,11 +3,13 @@
 		"authors": [
 			"Akerbeltz",
 			"GunChleoc",
-			"Nemo bis"
+			"Nemo bis",
+			"Caoimhin"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gd",
 	"sitesupport": "Tabhartasan",
+	"tooltip-n-sitesupport": "Thoir taic dhuinn.",
 	"group-centralnoticeadmin": "Rianairean nam prìomh-shanasan",
 	"group-centralnoticeadmin-member": "rianaire nam prìomh-shanasan",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Rianairean nam prìomh-shanasan",
