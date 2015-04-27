@@ -4,8 +4,16 @@
 			"EileenSanda"
 		]
 	},
+	"wm-license-cc-attribution": "Ognan",
+	"wm-license-cc-by-sa-3.0-text": "Henda fíla er gjørd atkomulig undir [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.fo Navngev-Deil á sama hátt 3.0 Unported] loyvinum.",
 	"wm-license-cc-free": "Tú ert vælkomin til:",
 	"wm-license-cc-free-to-share-header": "at deila",
+	"wm-license-cc-free-to-share-text": "at avrita, breiða út og senda verkið",
 	"wm-license-cc-free-to-remix-header": "at remiksa",
-	"wm-license-cc-free-to-remix-text": "at tillaga ella broyta verkið"
+	"wm-license-cc-free-to-remix-text": "at tillaga ella broyta verkið",
+	"wm-license-cc-conditions": "Undir hesum treytum:",
+	"wm-license-cc-conditions-attribution-header": "ognan",
+	"wm-license-cc-conditions-attribution-text": "Tú mást ognarskrivað verkið á ein slíkan hátt sum er útgreinaður av høvundanum ella lisenseigaranum (men ikki á nakran hátt ið kundi bent á at hesin hevur góðkent teg ella tína nýtslu av verkinum).",
+	"wm-license-cc-conditions-share_alike-header": "deil undir somu treytum",
+	"wm-license-cc-conditions-share_alike-text": "Um tú broytir, evnar til ella byggir víðari á hetta verk, so kanst tú bert útgeva verkið undir somu ella líkandi lisensi sum hesin."
 }

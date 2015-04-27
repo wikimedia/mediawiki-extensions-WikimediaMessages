@@ -62,6 +62,12 @@
 	"grouppage-steward": "{{ns:project}}:Rechtenbeheerder",
 	"group-sysadmin": "systeembeheerder",
 	"group-sysadmin-member": "{{GENDER:$1|systeembeheerder}}",
-	"wikimedia-copyright": "De tekste is beschikbaor onder de lisensie <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naamvermelding/Gelieke delen</a>.\nt Kan ween dat nog meer veurweerden van toepassing bin.\nBekiek de <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">algemene veurweerden</a> veur meer informasie.",
-	"wikimedia-copyrightwarning": "Deur wiezigingen op te slaon, stem je in mit de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamvermelding/Gelieke delen] en de [https://www.gnu.org/copyleft/fdl.html GFDL].\nJe stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon."
+	"wikimedia-copyright": "De tekste is beschikbaor onder de lisensie <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naamvermelding - liek alleens uutgeven</a>.\nt Kan ween dat nog meer veurweerden van toepassing bin.\nBekiek de <a href=\"https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden\">Gebruuksveurweerden (NL)</a> veur meer informasie.",
+	"wikimedia-copyrightwarning": "Deur wiezigingen op te slaon, verakkedeer je de [https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden Gebruuksveurweerden], en je stemmen onherreupelik in mit t vriegeven van joew biedrage onder de lisensie [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Naamsvermelding - liek alleens uutgeven] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].\nJe stemmen dermee in dat n verwiezing of n aander deurklikpunt zat naamsvermelding is um an de Creative Commons-lisensie te voldoon.",
+	"wikibase-sitelinks-wikinews": "Wikiniejs",
+	"wikibase-sitelinks-wikiquote": "Wikisitaoten",
+	"wikibase-sitelinks-wikisource": "Wikibronnen",
+	"wikibase-sitelinks-wikivoyage": "Wikireize",
+	"wikimedia-developers": "Ontwikkelaars",
+	"wikimedia-globalblocking-ipblocked": "'''Joew IP-adres is [[m:Special:MyLanguage/Global blocks|eblokkeerd op alle wiki's]].'''\n\nDe blokkering is uutevoerd deur $1 ($2).\nDe op-egeven reden is ''$3''.\n\n* Anvang blokkering: $4\n* Einde blokkering: $5\n\nJoew IP-adres is noen $6.\nVermeld alle gegevens die hierboven staon a'j argens op disse blokkering reageren.\n\nA'j denken da'j onterecht eblokkeerd bin, ku'j instruksies en informasie vienen in [[m:Special:MyLanguage/No open proxies|t globale beleid over open proxy's]].\nJe kunnen oek [[m:Steward requests/Global|n anvrage indienen veur herkontraole van de blokkering op Meta-Wiki]]."
 }

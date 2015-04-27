@@ -4,10 +4,15 @@
 			"EileenSanda"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Loyvi verður givi at avrita, bera út og/ella broyta hetta skjal undir treytunum hjá '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', versión 1.2 ella einhvør seinni versjón ið er útgivin av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; uttan nakað óbroytiligt brot, uttan forsíðutekst og uttan baksíðutekst. Eitt avrit av loyvinum er tikið við í brotinum ið nevnist ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:fo:GNU Free Documentation License",
 	"wm-license-information-description": "Frágreiðing",
 	"wm-license-information-source": "Kelda",
+	"wm-license-information-date": "Dagur",
 	"wm-license-information-author": "Høvundur",
+	"wm-license-information-permission": "Loyvi",
+	"wm-license-information-permission-reusing-text": "Endurnýtsla av hesi fílu",
 	"wm-license-own-work": "Egið verk",
-	"wm-license-pd-wiki-link": "w:fo:Almenn ogn"
+	"wm-license-pd-wiki-link": "w:fo:Almenn ogn",
+	"wm-license-self-multiple-licenses-select": "Tú kanst velja tann lisens ið tú ynskir."
 }

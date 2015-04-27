@@ -4,7 +4,8 @@
 			"محبوب عالم",
 			"පසිඳු කාවින්ද",
 			"عثمان خان شاہ",
-			"Obaid Raza"
+			"Obaid Raza",
+			"عرفان ارشد"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
@@ -68,8 +69,8 @@
 	"group-inactive": "غیرفعال صارفین",
 	"group-inactive-member": "{{GENDER:$1|غیر متحرک صارف}}",
 	"grouppage-inactive": "{{ns:project}}:غیر متحرک صارفین",
-	"group-interface-editor": "سطح البین میں ترامیم کنندہ",
-	"group-interface-editor-member": "{{GENDER:$1|سطح البین میں ترامیم کنندہ}}",
+	"group-interface-editor": "سطح البین ترامیم کنندہ",
+	"group-interface-editor-member": "{{GENDER:$1|سطح البین ترامیم کنندہ}}",
 	"grouppage-interface-editor": "{{ns:project}}:سطح البین میں ترامیم کنندہ",
 	"group-patroller": "پاسداران",
 	"group-patroller-member": "{{GENDER:$1|پاسدار}}",

@@ -10,7 +10,7 @@
 		]
 	},
 	"sitesupport": "Donationes",
-	"tooltip-n-sitesupport": "Adiuva nos!",
+	"tooltip-n-sitesupport": "Adiuva nos",
 	"group-rollbacker": "Revertores",
 	"group-rollbacker-member": "{{GENDER:$1|revertor}}",
 	"grouppage-rollbacker": "{{ns:project}}:Revertores",

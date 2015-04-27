@@ -114,6 +114,9 @@
 	"grouppage-translationadmin": "{{ns:project}}:अनुवादप्रबन्धकः",
 	"wikimedia-copyright": "पाठ्यांशः <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>इत्यत्र उपलभ्यते; \nअन्ये नियमाः आन्विताः भवेयुः ।\nअधिकविवरणाय<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">प्रयोगनियमाः</a> दृश्यन्ताम् ।",
 	"wikimedia-copyrightwarning": "\"{{int:savearticle}}\" इत्यस्य पिञ्जस्य नोदनेन, इदं भवता अङ्गीक्रियते [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use], अपि च अप्रत्यावर्त्यरूपेण भवतः योगदानस्य प्रकाशनाय अधोनिर्दिष्टनियमानुसारम् अङ्गीक्रियते [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] and the [https://www.gnu.org/copyleft/fdl.html GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
+	"wikibase-sitelinks-wikinews": "विकिवार्ताः",
+	"wikibase-sitelinks-wikiquote": "विकिसूक्तिः",
+	"wikibase-sitelinks-wikisource": "विकिस्रोतः",
 	"cant-delete-main-page": "मुख्यपृष्ठस्य विलोपनं चालनं वा अशक्यम् ।",
 	"wikimedia-translationnotifications-signup-legal": "विकीमाध्यमसंस्थायै अस्य विवरणस्य अर्पणेन भवान् इदम् अङ्गीकरोति यत् विकिमाध्यमान्दोलनसम्बद्धानाम् अनुवादविषये अन्येषु भवतः आसक्तिकरेषु विषयेषु वयं भवतः सम्पर्कं कर्तुम् अर्हामः इति । भवान् अङ्गीकरोति यत् भवतः विवरणम् अमेरिकासंयुक्तसंस्थाने रक्षितुं शक्यं यच्च [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy privacy policy] नियमेन आन्वितं भवति इति ।"
 }

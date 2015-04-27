@@ -3,7 +3,8 @@
 		"authors": [
 			"Diebuche",
 			"පසිඳු කාවින්ද",
-			"عثمان خان شاہ"
+			"عثمان خان شاہ",
+			"Syedalinaqinaqvi"
 		]
 	},
 	"wikimedialicensetexts-desc": "وکی میڈیا کے لائسنس کے پیغامات",
@@ -50,6 +51,7 @@
 	"wm-license-information-author": "مصنف",
 	"wm-license-information-author-missing": "اس فائل فقدان پایا جاتا ہے ' ' کے مصنف ' ' معلومات.",
 	"wm-license-information-permission": "اجازت",
+	"wm-license-information-permission-reusing-text": "ملف کا دوبارہ استعمال",
 	"wm-license-information-permission-see-below": "آپ مندرجہ ذیل ہے.",
 	"wm-license-information-other-versions": "دیگر ورژن",
 	"wm-license-original-upload-log": "اصل اپ لوڈ لاگ ان کریں",

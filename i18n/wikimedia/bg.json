@@ -99,7 +99,7 @@
 	"grouppage-steward": "{{ns:project}}:Стюарди",
 	"group-sysadmin": "Системни администратори",
 	"group-sysadmin-member": "системен администратор",
-	"wikimedia-copyright": "Текстът е достъпен под лиценза <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bg\">Creative Commons Признание-Споделяне на споделеното</a>;\nможе да са приложени допълнителни условия.\nЗа подробности вижте <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/bg\">Условия за ползване</a>.",
+	"wikimedia-copyright": "Текстът е достъпен под лиценза <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bg\">Creative Commons Признание-Споделяне на споделеното</a>;\nможе да са приложени допълнителни условия.\nЗа подробности вижте <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/bg\">Условия за ползване</a>.",
 	"wikidata-copyright": "Всички структурирани данни от основното именно пространство и именно пространство \"Свойство:\" са достъпни под условията на договор <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Дефиниция на договор Криейтив Комънс CC0\">Криейтив Комънс CC0</a>; съдържанието в останалите именни пространства е достъпно под условията на договор <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Дефиниция на договор Криейтив Комънс Признание/Споделяне на споделеното\">Криейтив Комънс Признание/Споделяне на споделеното</a>; може да са в сила и допълнителни условия. За повече подробности вижте <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Условия за ползване на Фондация Уикимедия\">Условията за ползване</a>.",
 	"wikimedia-copyrightwarning": "Със съхраняването на редакцията, се съгласявате безвъзвратно да отдадете своя принос под лиценза [https://creativecommons.org/licenses/by-sa/3.0/ Криейтив Комънс Признание — Споделяне на споделеното 3.0] и [https://www.gnu.org/copyleft/fdl.html Лиценза за свободна документация на GNU].\nСъгласявате се минималното признание на авторството ви, при ползване на материала от други потребители, да става с хипервръзка към страницата, към която допринасяте.\nЗа подробности вижте [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/bg Условията за ползване].",
 	"wikibase-repo-name": "Уикиданни",
@@ -114,6 +114,7 @@
 	"cant-delete-main-page": "Не можете да изтривате или премествате Началната страница.",
 	"upload-more-photos-of-this-monument": "Качване на още снимки на този паметник",
 	"wikimedia-developers": "За разработчици",
+	"wikimedia-globalblocking-ipblocked": "'''Вашият IP адрес беше [[m:Special:MyLanguage/Global blocks|блокиран на всички уики проекти]].'''\n\nБлокирането е извършено от $1 ($2).\nПосочената причина е ''$3''.\n\n* Начало на блокирането: $4\n* Край на блокирането: $5\n\nТекущият Ви IP адрес е $6.\nМоля, добавете информацията по-горе при всяка направена от Вас заявка.\n\nАко смятате, че блокирането е направено поради грешка, можете да намерите допълнителна информация и инструкции в глобалната политика [[m:Special:MyLanguage/No open proxies|Без отворени прокси-сървъри]].\nВ противен случай, за да дискутирате блокирането моля [[m:Steward requests/Global|изпратете заявка за отзив на Meta-Wiki]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/bg",
 	"restriction-level-superprotect": "суперзащита"
 }

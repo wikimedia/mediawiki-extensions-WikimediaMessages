@@ -5,7 +5,8 @@
 			"Shirayuki",
 			"TarzanASG",
 			"Yury Tarasievich",
-			"Тест"
+			"Тест",
+			"Чаховіч Уладзіслаў"
 		]
 	},
 	"wm-license-fsf-wiki-link": "w:be:Фонд Свабоднага праграмнага забеспячэння",
@@ -13,8 +14,12 @@
 	"wm-license-gfdl-wiki-link": "w:be:GNU Free Documentation License",
 	"wm-license-information-description": "Апісанне",
 	"wm-license-information-source": "Крыніца",
+	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Аўтар",
+	"wm-license-information-permission": "Дазвол",
+	"wm-license-information-permission-reusing-text": "Паўторнае выкарыстанне гэтага файла",
 	"wm-license-own-work": "Уласная праца",
 	"wm-license-pd-usgov-wiki-link": "w:be:Федэральны ўрад ЗША",
-	"wm-license-self-one-license": "Я, уладальнік аўтарскіх правоў на гэты твор, добраахвотна публікую яго на ўмовах наступнай ліцэнзіі:"
+	"wm-license-self-one-license": "Я, уладальнік аўтарскіх правоў на гэты твор, добраахвотна публікую яго на ўмовах наступнай ліцэнзіі:",
+	"wm-license-self-multiple-licenses-select": "Вы можаце выбраць любую з гэтых ліцэнзій."
 }

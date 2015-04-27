@@ -3,7 +3,8 @@
 		"authors": [
 			"Chrisportelli",
 			"Diebuche",
-			"Shirayuki"
+			"Shirayuki",
+			"Leli Forte"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:mt:Creative Commons",
@@ -189,5 +190,8 @@
 	"wm-license-cc-free-to-remix-header": "li timmodifika",
 	"wm-license-cc-free-to-remix-text": "li tadatta l-biċċa xogħol",
 	"wm-license-cc-conditions": "Taħt il-kundizzjonijiet segwenti:",
-	"wm-license-cc-conditions-attribution-header": "attribuzzjoni"
+	"wm-license-cc-conditions-attribution-header": "attribuzzjoni",
+	"wm-license-cc-conditions-attribution-text": "Għandek tattribwixxi x-xogħol bil-mod speċifikat mill-awtur jew minn min ta l-l-iċenzja (imma mhux b'xi mod li jissuġġerixxi ji jappoġjaw lilek jew l-użu tax-xogħol).",
+	"wm-license-cc-conditions-share_alike-header": "Ixxerja bl-istess mod",
+	"wm-license-cc-conditions-share_alike-text": "Jekk tbiddel, tittrasforma jew tiżviluppa dan ix-xogħol, ix-xogħol ji jirriżulta tista' tiddistribwih biss bl-istess liċenzja jew waħda simili għal din."
 }

@@ -4,9 +4,21 @@
 			"Diebuche",
 			"TarzanASG",
 			"Yury Tarasievich",
-			"Тест"
+			"Тест",
+			"Чаховіч Уладзіслаў"
 		]
 	},
+	"wm-license-cc-attribution": "Пазначэнне аўтарства",
 	"wm-license-cc-by-3.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/deed.be Attribution 3.0 Unported]",
-	"wm-license-cc-by-sa-3.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.be Attribution-Share Alike 3.0 Unported]"
+	"wm-license-cc-by-sa-3.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.be Attribution-Share Alike 3.0 Unported]",
+	"wm-license-cc-free": "Вы можаце свабодна:",
+	"wm-license-cc-free-to-share-header": "дзяліцца творам",
+	"wm-license-cc-free-to-share-text": "капіраваць, распаўсюджваць і перадаваць гэты твор.",
+	"wm-license-cc-free-to-remix-header": "ствараць вытворныя творы",
+	"wm-license-cc-free-to-remix-text": "адаптаваць гэты твор",
+	"wm-license-cc-conditions": "Пры выкананні наступных умоў:",
+	"wm-license-cc-conditions-attribution-header": "атрыбуцыя",
+	"wm-license-cc-conditions-attribution-text": "вы павінны пазначаць аўтарства гэтага твора ў выглядзе, усталяваным аўтарам ці ліцэнзіярам (але ні ў якім разе не такім чынам, які наводзіць на думку, што аўтар падтрымлівае вас ці выкарыстанне вамі гэтага твора).",
+	"wm-license-cc-conditions-share_alike-header": "распаўсюджванне на тых жа ўмовах",
+	"wm-license-cc-conditions-share_alike-text": "Калі вы змяняеце, адаптуеце ці ствараеце іншы вытворны твор на аснове гэтага твора, вы можаце распаўсюджваць атрыманы ў выніку твор толькі на ўмовах такой жа ці сумяшчальнай ліцэнзіі."
 }

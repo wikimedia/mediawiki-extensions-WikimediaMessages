@@ -10,11 +10,14 @@
 	"group-steward": "Ternur",
 	"group-steward-member": "{{GENDER:$1|terna}}",
 	"grouppage-steward": "{{ns:project}}:Ternur",
+	"wikimedia-copyright": "Teksturin er tøkur undir <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\naðrar treytir kunnu vera galdandi.\nLes <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">brúkaratreytirnar</a> fyri at hoyra nærri um smálutir.",
+	"wikimedia-copyrightwarning": "Við at goyma broytingar, so góðtekur tú [https://wikimediafoundation.org/wiki/Terms_of_Use Nýtslutreytirnar], og tú samtykkir uttan at kunna angra tað at tíni íkøst verða útgivin undir [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Lisensinum] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nTú góðtekur at hyperlink ella URL er ognan nokk undir Creative Commons loyvinum.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto",
-	"wikimedia-developers": "Mennarar"
+	"wikimedia-developers": "Mennarar",
+	"wikimedia-globalblocking-ipblocked": "'''Tín IP adressa er blivin [[m:Special:MyLanguage/Global blocks|sperrað á øllum wikium]].'''\n\nSperringin var framd av $1 ($2).\nOrsøkin verður søgd at vera ''$3''.\n\n* Byrjan av sperring: $4\n* Sperringin gongur út: $5\n\nTín núverandi IP adressa er $6.\nVinarliga tak allar hesar upplýsingar við í fyrispurningum, ið tú møguliga hevur.\n\nUm tú heldur, at tað var ein feilur at tú bleiv sperrað/ur, so kanst tú finna aðra kunning og leiðbeining í alheims mannagongdunum  [[m:Special:MyLanguage/No open proxies|Ongar opnar proxiir]].\nAnnars, fyri at kjakast um sperringina vinarliga [[m:Steward requests/Global|send eina umbøn til endurskoðan á Meta-Wiki]]."
 }

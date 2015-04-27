@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lika2672"
+			"Lika2672",
+			"Silovan"
 		]
 	},
-	"wm-license-cc-wiki-link": "w:en:Creative Commons"
+	"wm-license-cc-wiki-link": "w:en:Creative Commons",
+	"wm-license-cc-free": "თქვა დუდიშულო შეგილებუნა:",
+	"wm-license-cc-free-to-share-text": "ნახანდიშ კოპირაფა, გობჟინაფა დო გჷნოჩამა.",
+	"wm-license-cc-free-to-remix-text": "ნახანდიშ გიშათინუა",
+	"wm-license-cc-conditions": "გეჸვენჯი პირობეფით:"
 }
