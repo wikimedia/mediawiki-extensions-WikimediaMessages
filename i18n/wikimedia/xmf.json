@@ -11,11 +11,12 @@
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=xmf",
 	"sitesupport": "აზარა",
 	"tooltip-n-sitesupport": "ხუჯ დომკინით",
-	"wikimedia-copyright": "მოჩამილი ტექსტი წჷმორინელი რე <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიათ</a>; შილებე გეძინელი პირობეფიშ არსებუა. კილიშკილიშა ქოძირით <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">გმორინაფაშ წესეფი</a>.",
-	"wikimedia-copyrightwarning": "კონჭ \"{{int:savearticle}}\"-იშ გენჭირათ, თქვა დოჸუნთ [https://wikimediafoundation.org/wiki/Terms_of_Use გჷმორინაფაშ წესეფს], დო თაშნეშე თქვა დოჸუნთ თიშ გჷმობჟინაფას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] დო [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიეფით.\nთქვა დოჸუნთ, ნამჷ-და მეწურაფილი ჰიპერრცხუეფი გეჸვენჯ ხასჷლას, ვარად თიშ URL-მიოწურაფუ ობაღჷ Creative Commons-იშ ლიცენზიაშ ატრიბუტიკაშ პირობებიშ ოსრულებერო.",
+	"wikimedia-copyright": "მოჩამილი ტექსტი წჷმორინელი რე <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიათ</a>; შილებე გეძინელი პირობეფიშ არსებუა. კილიშკილიშა ქოძირით <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">გიმორინაფაშ წესეფი</a>.",
+	"wikimedia-copyrightwarning": "კონჭ \"{{int:savearticle}}\"-შ გენჭირათ, თქვა დოჸუნთ [https://wikimediafoundation.org/wiki/Terms_of_Use გჷმორინაფაშ წესეფს], დო თაშნეშე თქვა დოჸუნთ თიშ გჷმობჟინაფას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] დო [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიეფით.\nთქვა დოჸუნთ, ნამჷ-და მეწურაფილი ჰიპერრცხუეფი გეჸვენჯ ხასჷლას, ვარდა თიშ URL-მიოწურაფუ ობაღჷ Creative Commons-იშ ლიცენზიაშ ატრიბუტიკაშ პირობებიშ შიოსრულებერო.",
 	"wikibase-sitelinks-wikinews": "ვიკი ახალ ამბეეფი",
 	"wikibase-sitelinks-wikiquote": "ვიკიციტატა",
 	"wikibase-sitelinks-wikisource": "ვიკიწყუ",
 	"wikibase-sitelinks-wikivoyage": "ვიკივოიაჟი",
-	"wikimedia-developers": "გჷმაჭყაფალეფი"
+	"wikimedia-developers": "გჷმაჭყაფალეფი",
+	"wikimedia-globalblocking-ipblocked": "'''თქვანი IP-ოწურაფუ [[m:Special:MyLanguage/Global blocks|არძა ვიკი-პროექტის ბლოკირი რე]].'''\n\nდობლოკუ $1 ($2).\nმეწურაფილი მიზეზი: ''$3''.\n\n* ბლოკუაფაშ დოჭყაფა: $4 \n* ბლოკუაშ თება: $5 \n\nთქვანი მიმალი IP-ოწურაფუ რე - $6.\nქორთხინთ, ეთე ირფელი მიოწურუათ თქვან გჷნაცხადს.\n\nთქვანი ბლოკუა ჩილათერო მიგოჩქუნა-და, თეშენი უმოსი ინფორმაცია დო ინსტუქცია შეგილებუნა ქოძირათ [[m:Special:MyLanguage/No open proxies|ღია პროქსი-სერვერეფიშ გიმორინაფაშ ვაშინერობაშ]] გლობალური წესეფიშ ხასჷლას.\nვარდა შხვა შვანს, ბლოკუაშ ჩიულებაშო, ქორთხინთ ესურით [[m:Steward requests/Global|მეტას]]."
 }

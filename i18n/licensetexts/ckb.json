@@ -43,6 +43,7 @@
 	"wm-license-information-permission-reusing-text": "بەکارھێنانەوەی ئەم پەڕگەیە",
 	"wm-license-information-permission-see-below": "خوارەوە ببینە.",
 	"wm-license-information-other-versions": "وەشانەکانی تر",
+	"wm-license-own-work": "بەرھەمی خۆم",
 	"wm-license-pd-author-self-text": "‫من، هەڵگری مافی لەبەرگرتنەوەی ئەم بەرھەمە، ئەم بەرھەمە بڵاودەکەمەوە بۆ '''[[{{int:wm-license-pd-wiki-link}}|پاوانی گشتی (public domain)]]'''. ئەم مافە بۆ سەرانسەری جیھانە.",
 	"wm-license-pd-author-with-author-text": "ئەم بەرھەمە بەدەستی بەرھەمھێنەرەکەی '''$1'''، بڵاوکراوەتەوە بۆ '''[[{{int:wm-license-pd-wiki-link}}|پاوانی گشتی (public domain)]]'''. ئەم مافە بۆ سەرانسەری جیھانە.",
 	"wm-license-pd-author-not-legally-possible": "لە ھەندێ وڵاتدا لەوانەیە یاسا، ڕێگە بەمە نەدات؛ لەو کاتەدا:",
