@@ -13,7 +13,8 @@
 			"Nemo bis",
 			"ElangoRamanujam",
 			"AntanO",
-			"Jayarathina"
+			"Jayarathina",
+			"கலைவாணன்"
 		]
 	},
 	"wikimediamessages-desc": "விக்கிமீடியாவிற்கான தகவல்கள்",
@@ -123,6 +124,7 @@
 	"wikibase-sitelinks-wikisource": "விக்கிமூலம்",
 	"wikibase-sitelinks-wikivoyage": "விக்கிப்பயணம்",
 	"cant-delete-main-page": "முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது.",
+	"wikimedia-developers": "உருவாக்குனர்கள்",
 	"wikimedia-flow-terms-of-use-close-topic": "சொடுக்குவதன் மூலம் எங்களது நிபந்தனைகளுக்கும் விதிமுறைகளுக்கும் \n[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] ,உடன்பட்டு உங்களது உரைமூலத்தை \n[//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] மற்றும் [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] கீழ் வெளியிட மாற்றமுடியாத இசைவு தெரிவிக்கிறீர்கள் .",
 	"wikimediashoplink-linktext": "விக்கிமீடியா கடை",
 	"interlanguage-link-mul": "மேலதிக மொழிகள்"

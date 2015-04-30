@@ -13,7 +13,8 @@
 			"බිඟුවා",
 			"ශ්වෙත",
 			"Susith Chandira Gts",
-			"Sandaru"
+			"Sandaru",
+			"හරිත"
 		]
 	},
 	"wikimediamessages-desc": "විකිමාධ්‍ය විශේෂී පණිවුඩයන්",
@@ -138,9 +139,14 @@
 	"wikimedia-copyright": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> ක්‍රියේටිව් කොමන්ස් ඇට්‍රිබ්යුශන්/ශෙයා-අලයික් වරපතට</a> යටත්ව ඉහත පෙළ ඔබ වෙත සැපයෙයි;\nඅමතර කොන්දේසි අදාළ විය හැක.\nවිස්තර සඳහා <a href='//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use'>පරිහරණ කොන්දේසි</a> බලන්න.",
 	"wikimedia-copyrightwarning": "\"{{int:savearticle}}\" බොත්තම එබීමෙන්, [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use භාවිතයේ කොන්දේසි] වලට ඔබ එකඟ වෙයි, තවද ඔබ විසින් ඔබේ දායකත්වය වෙනස් නොකලහැකි [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 License] සහ [https://www.gnu.org/copyleft/fdl.html GFDL] යටතේ නිදහස් කිරීමට ඔබ එකඟ වේ.\nමෙය නිර්මාණාත්මක පොදුජන බලපත්‍රය යටත් ප්‍රමාණවත් ගුණනාමයක් ඇති අධිසබැඳුමක් හෝ URL ලිපිනයක් බවට ඔබ එකඟ වේ.",
 	"wikibase-sitelinks-wikibooks": "විකිපොත්",
+	"wikibase-sitelinks-wikinews": "විකිපුවත්",
+	"wikibase-sitelinks-wikiquote": "විකිඋධෘත",
+	"wikibase-sitelinks-wikisource": "විකිමූලාශ්‍ර",
+	"wikibase-sitelinks-wikivoyage": "විකියාත්‍රාව",
 	"wikibase-sitelinks-sitename-wikidatawiki": "විකිදත්ත",
 	"cant-delete-main-page": "මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.",
 	"upload-more-photos-of-this-monument": "මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න",
+	"wikimedia-developers": "විකාශකයෝ",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.",
 	"wikimediashoplink-linktext": "විකිමාධ්‍ය වෙළඳසැල",

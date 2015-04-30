@@ -53,6 +53,6 @@
 	"contactpage-affcom-user-group-rules-label": "Label for the rules on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-terms-label": "Label for the terms checkbox on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "Text shown under the logo radio options on [[meta:Special:Contact/affcomusergroup]].",
-    "contactpage-affcom-user-group-logo-community": "Label for Wikimedia community logo radio option on [[meta:Special:Contact/affcomusergroup]].",
-    "contactpage-affcom-user-group-logo-affiliate": "Label for Wikimedia affiliate logo radio option on [[meta:Special:Contact/affcomusergroup]]."
+	"contactpage-affcom-user-group-logo-community": "Label for Wikimedia community logo radio option on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-logo-affiliate": "Label for Wikimedia affiliate logo radio option on [[meta:Special:Contact/affcomusergroup]]."
 }

@@ -179,5 +179,6 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingüe",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, a enciclopedia libre",
 	"interlanguage-link-sitename-commons": "Repositorio multimedia Wikimedia Commons",
+	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\nVexa os [[m:Special:CentralAuth/$1|detalles globais da conta]] para máis información.",
 	"wikimedia-centralauth-uwbr-intro": "Esta páxina lista os usuarios rexistrados neste wiki que sufrirán un cambio de nome debido á [[m:Single User Login finalisation announcement|finalización do rexistro de usuario único]]. Pode obter máis información sobre o [[m:Help:Unified login|rexistro único]]. Os usuarios poden solicitar un cambio de nome en calquera momento mediante [[Special:GlobalRenameRequest]]."
 }

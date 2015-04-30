@@ -48,7 +48,6 @@
 	"contactpage-license-abuse-location": "滥用的位置（在线/离线）",
 	"contactpage-license-abuse-theircontact": "滥用标志者的联系信息（如果知道的话）",
 	"contactpage-license-abuse-yourcontact": "您的联系信息（如果我们将联系您）",
-	"contactpage-affcom-user-group-form-title": "申请开始一个用户组",
 	"contactpage-affcom-user-group-name-label": "'''名称'''\n* 建议的名称：维基媒体社群用户组 [您的地区或话题]\n* 如果您希望选择其他名称，请参见[[Wikimedia user groups/Name guidelines|名称指引]]。",
 	"contactpage-affcom-user-group-description-label": "'''描述'''\n* 请告诉我们有关您的群组计划做什么。",
 	"contactpage-affcom-user-group-wikipage-label": "'''Wiki页面'''\n* 请提供一个至您群组的wiki页面的链接。\n* 如果您还没有一个wiki页面，您可以[[Wikimedia user groups/setup guide|在元维基创建一个用户组页面]]。",

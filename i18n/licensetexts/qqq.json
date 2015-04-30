@@ -19,7 +19,8 @@
 			"Shirayuki",
 			"Siebrand",
 			"Umherirrender",
-			"Manuae"
+			"Manuae",
+			"Liuxinyu970226"
 		]
 	},
 	"wikimedialicensetexts-desc": "{{desc|name=Wikimedia License Texts|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -28,12 +29,12 @@
 	"wm-license-artwork-artist": "Label \"Artist\" at [[Commons:Template:Artwork]].\n{{Identical|Artist}}",
 	"wm-license-artwork-title": "Label \"Title\" at [[Commons:Template:Artwork]], mostly used to list titles of paintings, sculptures, and other artworks\n{{Identical|Title}}",
 	"wm-license-artwork-medium": "Label \"Medium\" at [[Commons:Template:Artwork]]. The field contains information about medium (technique and materials) used to create artwork. For example: \"Oil on canvas\" or \"watercolor over graphite on paper\".\n{{Identical|Medium}}",
-	"wm-license-artwork-dimensions": "Label \"Dimensions\" at [[Commons:Template:Artwork]]. Field contains dimensions of the artwork, like \"30.2 × 32.9 in (76.7 × 83.5 cm)\" for a painting, or 3D dimensions for a sculpture",
+	"wm-license-artwork-dimensions": "Label \"Dimensions\" at [[Commons:Template:Artwork]]. Field contains dimensions of the artwork, like \"30.2 × 32.9 in (76.7 × 83.5 cm)\" for a painting, or 3D dimensions for a sculpture\n{{Identical|Dimension}}",
 	"wm-license-artwork-current-location": "Label \"Current location\" at [[Commons:Template:Artwork]]. Name of the \tgallery, museum, collection or other institution currently holding the artwork.",
 	"wm-license-artwork-object-history": "Label \"Object history\" at [[Commons:Template:Artwork]]. Field holds provenance information or history of artwork ownership.",
 	"wm-license-artwork-credit-line": "Label \"Credit line\" at [[Commons:Template:Artwork]]. Many artworks are gifts to the museums which are obligated to show such credit, like for example: \"Gift of the Friends of the Louvre Society, 1961\". Not to be confused with credit line attributing the photographer of the artwork sometimes required by CC licenses",
 	"wm-license-artwork-references": "Label \"References\" at [[Commons:Template:Artwork]]. Field holds books and websites with information about the artwork.\n{{Identical|Reference}}",
-	"wm-license-artwork-inscriptions": "Label \"Inscriptions\" at [[Commons:Template:Artwork]]. Field holds \tdescription of: inscriptions (text carved, painted, etc. on the artwork), watermarks, captions, coats of arm, etc.",
+	"wm-license-artwork-inscriptions": "Label \"Inscriptions\" at [[Commons:Template:Artwork]]. Field holds \tdescription of: inscriptions (text carved, painted, etc. on the artwork), watermarks, captions, coats of arm, etc.\n{{Identical|Inscription}}",
 	"wm-license-artwork-notes": "Label \"Notes\" at [[Commons:Template:Artwork]]. Field holds general notes, not covered by other specific fields, about the artwork.\n{{Identical|Note}}",
 	"wm-license-artwork-id": "Identification number: label \"Accession number\" at [[Commons:Template:Artwork]]. Field holds museum's accession number or some other inventory or identification number used by the parent institution. Often link to the institution database record is also provided.",
 	"wm-license-artwork-source": "Label \"Source/Photographer\" at [[Commons:Template:Artwork]]. Field holds information about source of the file or the photographer. For example it might be website or book name where the image come from, or the name of the photographer that took the picture.",
