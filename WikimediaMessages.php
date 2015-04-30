@@ -197,3 +197,10 @@ $wgHooks['UploadForm:initial'][] = function() {
 	}
 	return true;
 };
+
+
+$wgResourceModules['ext.wikimediamessages.contactpage.affcomusergroup'] = array(
+	'localBasePath' => __DIR__ . '/modules',
+	'remoteExtPath' => 'WikimediaMessages/modules',
+	'styles' => 'ext.wikimediamessages.contactpage.affcomusergroup.css',
+);
