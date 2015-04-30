@@ -47,7 +47,8 @@
     "contactpage-license-abuse-location": "Location of the abuse (on/offline)",
     "contactpage-license-abuse-theircontact": "Contact information of person abusing the mark (if known)",
     "contactpage-license-abuse-yourcontact": "Your contact information (if we may contact you)",
-    "contactpage-affcom-user-group-form-title": "Apply to start a user group",
+    "contactpage-title-affcomusergroup": "Apply to start a user group",
+    "contactpage-pagetext-affcomusergroup": " ",
     "contactpage-affcom-user-group-name-label": "'''Name'''\n* Suggested name: Wikimedia Community User Group [your area or topic]\n* See the [[Wikimedia user groups/Name guidelines|name guidelines]] if you want to choose another name.",
     "contactpage-affcom-user-group-description-label": "'''Description'''\n* Please tell us about what your group plans to do.",
     "contactpage-affcom-user-group-wikipage-label": "'''Wiki page'''\n* Please provide a link to your group's wiki page.\n* If you don't have a wiki page yet, you can [[Wikimedia user groups/setup guide|create a user group page on meta wiki]].",
@@ -56,5 +57,7 @@
     "contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Which logo do you wish to use for your group?",
     "contactpage-affcom-user-group-rules-label": "'''User group rules'''\n* You are eligible to form a user group if you have at least 3 members with 10 or more contributions to a Wikimedia project and comply with the [[Wikimedia user groups/Agreement and code of conduct|User group agreement and code of conduct]]:\n** You should follow the [[wmf:Trademark policy|trademark policy]]\n** You are independent from other Wikimedia organizations\n* After submitting this application, a member of the [[Affiliations Committee|Affiliations Committee]] will contact you shortly to help you with the next steps\n* Learn more about [[Wikimedia user groups|Wikimedia user groups]]",
     "contactpage-affcom-user-group-terms-label": "I have read and agree to the above rules and to the [[Wikimedia user groups/Agreement and code of conduct|User group agreement and code of conduct]].",
-    "contactpage-affcom-user-group-logo-wm-logo": "''If you wish to use the '''Wikimedia logo''', you may [[Special:Contact/requestlicense|request a trademark license]].''"
+    "contactpage-affcom-user-group-logo-wm-logo": "''If you wish to use the '''Wikimedia logo''', you may [[Special:Contact/requestlicense|request a trademark license]].''",
+    "contactpage-affcom-user-group-logo-community": "Wikimedia community logo",
+    "contactpage-affcom-user-group-logo-affiliate": "Wikimedia affiliate logo"
 }
