@@ -5,7 +5,8 @@
 			"Juanpabl",
 			"Nemo bis",
 			"Willtron",
-			"Fitoschido"
+			"Fitoschido",
+			"Carlos Cristia"
 		]
 	},
 	"wikimediamessages-desc": "Mensaches especificos de Wikimedia",
@@ -74,9 +75,9 @@
 	"group-inactive": "Usuarios inactivos",
 	"group-inactive-member": "{{GENDER:$1|usuario inactivo|usuaria inactiva}}",
 	"grouppage-inactive": "{{ns:project}}:Usuarios inactivos",
-	"group-interface_editor": "Editores d'interficie",
-	"group-interface_editor-member": "{{GENDER:$1|editor d'interfici|editora d'interficie}}",
-	"grouppage-interface_editor": "{{ns:project}}:Editors d'a interficie",
+	"group-interface-editor": "Editores d'interficie",
+	"group-interface-editor-member": "{{GENDER:$1|editor d'interfici|editora d'interficie}}",
+	"grouppage-interface-editor": "{{ns:project}}:Editors d'a interficie",
 	"group-ipblock-exempt": "Exención de bloqueyo IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|exento de bloqueyo IP|exenta de bloqueyo IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Exención d'o bloqueyo d'IP",
@@ -99,8 +100,6 @@
 	"grouppage-uploader": "{{ns:project}}:Cargadors",
 	"group-coder": "Codificadors",
 	"group-coder-member": "{{GENDER:$1|codificador|codificadora}}",
-	"group-editinterface": "Editors d'interficie",
-	"group-editinterface-member": "{{GENDER:$1|editor d'interficie|editora d'interficie}}",
 	"group-global-bot": "Bots globals",
 	"group-global-bot-member": "{{GENDER:$1|Bot global}}",
 	"group-global-rollbacker": "Revertidors globals",
@@ -118,7 +117,7 @@
 	"group-translationadmin": "Administradors de traducción",
 	"group-translationadmin-member": "{{GENDER:$1|Administrador|Administradora}} de traducción",
 	"grouppage-translationadmin": "{{ns:project}}:Administradors de traducción",
-	"wikimedia-copyright": "O texto ye disponible baixo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Licencia Creative Commons Atribución/Compartir-Igual</a>;\ntalment sigan d'aplicación clausulas adicionals.\nMire-se <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">os termins d'uso</a> ta conoixer más detalles.",
+	"wikimedia-copyright": "O texto ye disponible baixo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Licencia Creative Commons Atribución/Compartir-Igual</a>;\ntalment sigan d'aplicación clausulas adicionals.\nMire-se <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">os termins d'uso</a> ta conoixer más detalles.",
 	"wikimedia-copyrightwarning": "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [https://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [https://www.gnu.org/copyleft/fdl.html Licencia GFDL].\nTamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribución suficient baixo a licencia Creative Commons.",
 	"cant-delete-main-page": "No puede borrar ni mover a pachina prencipal.",
 	"interlanguage-link-sitename-wikipedia": "Biquipedia, a enciclopedia libre"

@@ -4,7 +4,8 @@
 			"Beta16",
 			"Maria victoria",
 			"Ontsed",
-			"Toadino2"
+			"Toadino2",
+			"Martinligabue"
 		]
 	},
 	"contactpage-title-requestlicense": "Modulo di richiesta di una licenza",
@@ -36,5 +37,6 @@
 	"contactpage-license-abuse-selectmark": "A quale marchio si riferisce l'abuso?",
 	"contactpage-license-abuse-location": "Luogo dell'abuso (on/offline)",
 	"contactpage-license-abuse-theircontact": "Informazioni di contatto della persona che abusa del marchio (se noto)",
-	"contactpage-license-abuse-yourcontact": "I suoi recapiti (in caso avessimo bisogno di metterci in contatto)"
+	"contactpage-license-abuse-yourcontact": "I suoi recapiti (in caso avessimo bisogno di metterci in contatto)",
+	"contactpage-affcom-user-group-logo-community": "Logo della comunità di Wikimedia"
 }
