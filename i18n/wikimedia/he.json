@@ -128,6 +128,8 @@
 	"group-coder-member": "{{GENDER:$1|מתכנת|מתכנתת}}",
 	"group-global-bot": "בוטים גלובליים",
 	"group-global-bot-member": "{{GENDER:$1|בוט גלובלי}}",
+	"group-global-gather-admins": "מנהלי לקטים גלובליים",
+	"group-global-gather-admins-member": "{{GENDER:$1|מנהל לקטים גלובלי|מנהלת לקטים גלובלית}}",
 	"group-global-ipblock-exempt": "חסינים מחסימת IP גלובלית",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|חסין|חסינה}} מחסימת IP גלובלית",
 	"group-global-interface-editor": "עורכי ממשק גלובליים",
