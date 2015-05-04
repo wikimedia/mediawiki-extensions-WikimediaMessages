@@ -22,7 +22,8 @@
 			"Nemo bis",
 			"Helder.wiki",
 			"Imperadeiro90",
-			"Opraco"
+			"Opraco",
+			"He7d3r"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -163,6 +164,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-sitelinks-commons": "Wikimedia Commons",
+	"wikibase-otherprojects-wikibooks": "Wikilivros",
+	"wikibase-otherprojects-wikinews": "Wikinotícias",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Não pode apagar ou mover a página principal.",
