@@ -12,7 +12,8 @@
 			"Meelo",
 			"Nemo bis",
 			"Sayginer",
-			"Hayri özkurt"
+			"Hayri özkurt",
+			"Stultiwikia"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -136,7 +137,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Kullanıcı_adı_politikası",
 	"createacct-captcha-help-url": "{{ns:Project}}:Hesap isteği",
 	"wikimedia-developers": "Geliştiriciler",
-	"wikimedia-globalblocking-ipblocked": "'''IP adresiniz [[m:Special:MyLanguage/Global blocks|tüm vikilerde engellenmiştir]].'''\n\nEngel ($2 projesinde) $1 tarafından uygulanmıştır.\n''$3'' Bu engelin gerekçesidir.\n\n* Engel başlangıcı: $4\n* Engelin sonlanması: $5\n\n$6 sizin geçerli IP adresinizdir.\nKonu ile ilgili yapacağınız tüm işlemlerde yukarıdaki ayrıntıları eklemeyi unutmayın.\n\nEğer yanlışlıkla engelleme yapıldığını düşünüyorsanız ek bilgiler vikinizde mevcut olup, küresel politikalar uyarınca [[m:Special:MyLanguage/No open proxies|açık vekil sunucuların]] engellendiğini unutmamalısınız.\nBunun aksi durumlarda, görüşlerinizi bildirmek amacıyla [[m:Steward requests/Global|Meta-Wiki projesinde inceleme isteğinde bulunabilirsiniz]].",
+	"wikimedia-globalblocking-ipblocked": "'''IP adresiniz [[m:Special:MyLanguage/Global blocks|tüm vikilerde engellenmiştir]].'''\n\nEngel ($2 projesinde) $1 tarafından uygulanmıştır. Verilen gerekçe: ''$3''\n\n* Engel başlangıcı: $4\n* Engelin sonlanması: $5\n\nIP adresiniz: $6\nKonu ile ilgili yapacağınız tüm işlemlerde yukarıdaki ayrıntıları eklemeyi unutmayın.\n\nEğer yanlışlıkla engelleme yapıldığını düşünüyorsanız ek bilgiler vikinizde mevcut olup, küresel politikalar uyarınca [[m:Special:MyLanguage/No open proxies|açık vekil sunucuların]] engellendiğini unutmamalısınız.\nBunun aksi durumlarda, görüşlerinizi bildirmek amacıyla [[m:Steward requests/Global|Meta-Wiki projesinde inceleme isteğinde bulunabilirsiniz]].",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Gizlilik Politikası]",
 	"wikimediashoplink-linktext": "Wikimedia Dükkanı",
 	"wikimediashoplink-link-tooltip": "Wikimedia Dükkanını ziyaret et",
