@@ -7,7 +7,8 @@
 			"Khutuck",
 			"Multichill",
 			"Universal Life",
-			"Vito Genovese"
+			"Vito Genovese",
+			"Stultiwikia"
 		]
 	},
 	"wikimedialicensetexts-desc": "Wikimedia lisans mesajları",
@@ -69,7 +70,7 @@
 	"wm-license-information-source": "Kaynak",
 	"wm-license-information-source-missing": "Bu dosyanın '''kaynak''' bilgileri bulunmamaktadır.",
 	"wm-license-information-source-missing-request": "Lütfen bu dosyanın tanımını değiştirerek bir kaynak ekleyin.",
-	"wm-license-information-date": "Üretim tarihi",
+	"wm-license-information-date": "Tarih",
 	"wm-license-information-author": "Üreten",
 	"wm-license-information-author-missing": "Bu dosyanın '''yazar''' bilgisine ihtiyacı vardır.",
 	"wm-license-information-permission": "İzin",

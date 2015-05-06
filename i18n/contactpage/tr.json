@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sucsuzz"
+			"Sucsuzz",
+			"Captantrips"
 		]
 	},
-	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia Topluluğu"
+	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia Topluluğu",
+	"contactpage-pagetext-licenseabuse": "Wikimedia markasını kötüye kullandığından şüphelendiğiniz kişiler hakkında bizle iletişime geçmek için lütfen aşağıdaki formu kullanınız."
 }

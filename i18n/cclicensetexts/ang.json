@@ -6,6 +6,10 @@
 		]
 	},
 	"wm-license-cc-attribution": "Hlīgung",
+	"wm-license-cc-free": "Þū mōst:",
+	"wm-license-cc-free-to-share-header": "bryttian",
+	"wm-license-cc-free-to-remix-text": "andwendan þæt weorc",
 	"wm-license-cc-conditions-attribution-header": "hlígung",
-	"wm-license-cc-conditions-share_alike-header": "bryttian efenlīce"
+	"wm-license-cc-conditions-share_alike-header": "bryttian efenlīce",
+	"wm-license-cc-conditions-share_alike-text": "Gif þū andwende þis weorc tō āhte, þū mōst bryttian þæt andwendede weorce synderlīce mid þǣre ilcan oþþe gelīcre lēafe þisse."
 }
