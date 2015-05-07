@@ -5,7 +5,8 @@
 			"Jopparn",
 			"WikiPhoenix",
 			"Lokal Profil",
-			"Albinomamba"
+			"Albinomamba",
+			"Josve05a"
 		]
 	},
 	"contactpage-title-requestlicense": "Begär ett licensformulär",
@@ -29,7 +30,19 @@
 	"contactpage-wikimedia-trademark-globe": "Wikipedia pusselglob",
 	"contactpage-wikimedia-trademark-wikiwordmark": "Wikipedia-wordmark",
 	"contactpage-wikimedia-trademark-w": "Stiliserat \"W\"",
+	"contactpage-wikimedia-trademark-foundation": "Wikimedia Foundation",
+	"contactpage-wikimedia-trademark-commons": "Wikimedia Commons",
+	"contactpage-wikimedia-trademark-mediawiki": "MediaWiki",
+	"contactpage-wikimedia-trademark-wikiquote": "Wikiquote",
+	"contactpage-wikimedia-trademark-wikibooks": "Wikibooks",
+	"contactpage-wikimedia-trademark-wikimania": "Wikimania",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimediagemenskap",
+	"contactpage-wikimedia-trademark-wikinews": "Wikinews",
+	"contactpage-wikimedia-trademark-wikisource": "Wikisource",
+	"contactpage-wikimedia-trademark-wikispecies": "Wikispecies",
+	"contactpage-wikimedia-trademark-wikiversity": "Wikiversity",
+	"contactpage-wikimedia-trademark-wiktionary": "Wiktionary",
+	"contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage",
 	"contactpage-title-licenseabuse": "Kontaktformulär för missbruk",
 	"contactpage-pagetext-licenseabuse": "Var god använd formuläret nedan för att kontakta oss om någon du misstänker missbrukar ett Wikimedia-varumärke eller använder det felaktigt.",
 	"contactpage-subject-licenseabuse": "Anmälan vid missbruk av Wikimedias varumärke",
@@ -37,5 +50,8 @@
 	"contactpage-license-abuse-selectmark": "Vilket varumärke missbrukas?",
 	"contactpage-license-abuse-location": "Platsen för missbruk (online/offline)",
 	"contactpage-license-abuse-theircontact": "Kontaktinformation till personen som missbrukar varumärket (om känt)",
-	"contactpage-license-abuse-yourcontact": "Din kontaktinformation (om vi får kontakta dig)"
+	"contactpage-license-abuse-yourcontact": "Din kontaktinformation (om vi får kontakta dig)",
+	"contactpage-title-affcomusergroup": "Begär att starta en användargrupp",
+	"contactpage-affcom-user-group-description-label": "\"'Beskrivning\"'\n* Berätta om vad er grupp planeras att göra.",
+	"contactpage-affcom-user-group-logo-label": "\"\"Logotyp\"'\n* Vilken logotyp som du vill skall användas för din grupp?"
 }

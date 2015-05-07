@@ -51,9 +51,9 @@
 	"group-confirmed": "ТӀелаьцболу декъашхой",
 	"group-confirmed-member": "{{GENDER:$1|тӀелаьцна декъашхо}}",
 	"grouppage-confirmed": "{{ns:project}}:ТӀелаьцболу декъашхой",
-	"group-filemover": "Файлийн цӀераш хуьйцурш",
-	"group-filemover-member": "{{GENDER:$1|файлийн цӀераш хуьйцург}}",
-	"grouppage-filemover": "{{ns:project}}:Файлийн цӀераш хуьйцурш",
+	"group-filemover": "Файлийн цӀерш хуьйцурш",
+	"group-filemover-member": "{{GENDER:$1|файлийн цӀерш хуьйцург}}",
+	"grouppage-filemover": "{{ns:project}}:Файлийн цӀерш хуьйцурш",
 	"group-flood": "Декъашхой-боташ",
 	"group-flood-member": "{{GENDER:$1|декъашхо-бот}}",
 	"grouppage-flood": "{{ns:project}}:Декъашхой-боташ",
@@ -130,5 +130,5 @@
 	"interlanguage-link-commons": "Викигулам",
 	"interlanguage-link-sitename-commons": "Викигулам, медиафайлийн гулам",
 	"interlanguage-link-sitename-dmoz": "Веб-каталог DMOZ",
-	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀераш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш ю муьлхачу хенахь шайн цӀераш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а."
+	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀерш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш ю муьлхачу хенахь шайн цӀерш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а."
 }

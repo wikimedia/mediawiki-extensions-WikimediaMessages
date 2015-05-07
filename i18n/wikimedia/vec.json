@@ -73,9 +73,9 @@
 	"group-inactive": "Utenti inativi",
 	"group-inactive-member": "{{GENDER:$1|utente inativo|utente inativa|utente inativo/a}}",
 	"grouppage-inactive": "{{ns:project}}:Utenti inativi",
-	"group-interface_editor": "Modificadori de l'interfacia",
-	"group-interface_editor-member": "{{GENDER:$1|modifegator de l'interfacia|modifegatrise de l'interfacia|modifegator/trise de l'interfacia}}",
-	"grouppage-interface_editor": "{{ns:project}}:Modificadori de l'interfacia",
+	"group-interface-editor": "Modificadori de l'interfacia",
+	"group-interface-editor-member": "{{GENDER:$1|modifegator de l'interfacia|modifegatrise de l'interfacia|modifegator/trise de l'interfacia}}",
+	"grouppage-interface-editor": "{{ns:project}}:Modificadori de l'interfacia",
 	"group-ipblock-exempt": "Esenzioni dal bloco de l'IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|Exente dal bloco IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Esenzion dal bloco de l'IP",
@@ -104,8 +104,6 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:'Ministradori dei avisi sentralizà",
 	"group-coder": "Programatori",
 	"group-coder-member": "{{GENDER:$1|programador|programatrise|programadore/trise}}",
-	"group-editinterface": "Editori de l'interfacia",
-	"group-editinterface-member": "{{GENDER:$1|modifegator de l'interfacia|modifegatrise de l'interfacia|modifegator/trise de l'interfacia}}",
 	"group-global-bot": "Bot globali",
 	"group-global-bot-member": "{{GENDER:$1|bot globałe}}",
 	"group-global-ipblock-exempt": "Exenti dal bloco IP globałe",
@@ -138,5 +136,6 @@
 	"extdist-branch-master": "master (ultima version in svilupo)",
 	"extdist-branch-REL1_24": "1.24 (ultima version stabile de MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica_nome_utente",
-	"createacct-captcha-help-url": "{{ns:Project}}:Dimanda na utensa"
+	"createacct-captcha-help-url": "{{ns:Project}}:Dimanda na utensa",
+	"wikimedia-developers": "Svilupadori"
 }
