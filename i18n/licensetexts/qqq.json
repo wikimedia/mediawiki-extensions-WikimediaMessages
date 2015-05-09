@@ -109,7 +109,7 @@
 	"wm-license-pd-usgov-fema-wiki-link": "{{Optional}}",
 	"wm-license-pd-usgov-military-text": "Refers to:\n* {{msg-mw|Wm-license-pd-usgov-military-armed-forces-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-military-dod-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-wiki-link}}\n* {{msg-mw|Wm-license-pd-wiki-link}}",
 	"wm-license-pd-usgov-military-armed-forces-wiki-link": "{{Optional}}",
-	"wm-license-pd-usgov-military-dod-wiki-link": "{{Optional}}",
+	"wm-license-pd-usgov-military-dod-wiki-link": "{{Optional}}\nSee also: [[d:Q11209]]",
 	"wm-license-pd-usgov-military-air-force-text": "Refers to:\n* {{msg-mw|Wm-license-pd-usgov-military-air-force-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-wiki-link}}\n* {{msg-mw|Wm-license-pd-wiki-link}}",
 	"wm-license-pd-usgov-military-air-force-wiki-link": "{{Optional}}",
 	"wm-license-pd-usgov-military-army-text": "Refers to:\n* {{msg-mw|Wm-license-pd-usgov-military-army-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-wiki-link}}\n* {{msg-mw|Wm-license-pd-wiki-link}}",

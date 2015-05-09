@@ -3,7 +3,8 @@
 		"authors": [
 			"Reedy",
 			"Shirayuki",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Amire80"
 		]
 	},
 	"contactpage-license-request-username": "The username of the person currently filling out this form.\n{{Identical|Username}}",
@@ -50,7 +51,7 @@
 	"contactpage-affcom-user-group-location-label": "Label for the location field on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-leaders-label": "Label for the leaders field on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-logo-label": "Label for the logo field on [[meta:Special:Contact/affcomusergroup]].",
-	"contactpage-affcom-user-group-rules-label": "Label for the rules on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-rules-label": "Label for the rules on [[meta:Special:Contact/affcomusergroup]]. Make sure to leave the link targets to \"Affiliations Committee\" and \"Wikimedia user groups\" in English, but you can translate the link titles after the pipe.",
 	"contactpage-affcom-user-group-terms-label": "Label for the terms checkbox on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "Text shown under the logo radio options on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-logo-community": "Label for Wikimedia community logo radio option on [[meta:Special:Contact/affcomusergroup]].",

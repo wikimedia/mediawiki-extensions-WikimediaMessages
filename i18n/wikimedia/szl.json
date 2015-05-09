@@ -49,5 +49,10 @@
 	"group-sysadmin-member": "admińistrator systyma",
 	"wikimedia-copyright": "Tekst udostympńany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencyji Creative Commons: uznańy autorstwa, na takich samych warůnkach</a>, ze mogebnośćům uobowjůnzywańo ekstra uograńiczyń.\nUobejrzij dokładne informacyje uo <a href=\"https://wikimediafoundation.org/wiki/Warunki_korzystania\">warůnkach korzistańo</a>.",
 	"wikimedia-copyrightwarning": "Bez spamjyntańe půmjyńań dowosz ńyuodwołalno zgoda na udostympńańy Twojygo ajnzacu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańy pod warunkem co najmńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use warunkach korzystańo].",
-	"wikimedia-developers": "Lo rozwijajōncych"
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikicytaty",
+	"wikibase-sitelinks-wikisource": "Wikizdrzůdła",
+	"wikibase-sitelinks-wikivoyage": "Wikirajzy",
+	"wikimedia-developers": "Lo rozwijajōncych",
+	"wikimedia-globalblocking-ipblocked": "'''Twůj IP ausdruk uostoł [[m:Special:MyLanguage/Global blocks|zawarty na wszyjskich wiki]].'''\n\nZawarćo dokonoł $1 ($2).\nSkiż: „$3”.\n\n* Poczůntek zawarćo: $4 \n* Kůńec zawarćo: $5 \n\nTwůj terozki IP ausdruk to $6.\nProsza wszkryflać wszyjske te detale we przipadku pytań.\n\nEli uważosz, aże zawarće je bez pomyłka, moges nojść wjyncyj informacyji na zajće globalnych regli [[m:Special:MyLanguage/No open proxies|Bez uotwartych proxy serwerůw]].\nWe inkszym raźe, coby uobgodać zawarće, [[m:Steward requests/Global|wraź wńosek na Meta-wiki]]."
 }

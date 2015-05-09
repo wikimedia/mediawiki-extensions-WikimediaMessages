@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Konknni mogi 24",
-			"Supriya kankumbikar"
+			"Supriya kankumbikar",
+			"Darshan kandolkar"
 		]
 	},
 	"wm-license-information-description": "वर्णन",
@@ -11,5 +12,6 @@
 	"wm-license-information-author": "लेखक",
 	"wm-license-information-permission": "परवानगी",
 	"wm-license-information-permission-reusing-text": "ही फायल परती वापरता",
-	"wm-license-own-work": "स्वताचें काम"
+	"wm-license-own-work": "स्वताचें काम",
+	"wm-license-self-multiple-licenses-select": "तुमी तुमकां जाय तो परवानो वेंचून काडात"
 }

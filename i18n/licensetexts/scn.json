@@ -1,18 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aushulz"
+			"Aushulz",
+			"Pippinu"
 		]
 	},
 	"wm-license-artwork-title": "Tìtulu",
 	"wm-license-artwork-dimensions": "Diminsioni",
 	"wm-license-book-title": "Tìtulu",
+	"wm-license-gfdl-1.2-and-later": "È cuncidutu lu pirmissu di cupiari, diffunniri e/o canciari stu ducumentu sutta ê termini dâ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', la virsioni 1.2 o puru na virsioni succissivamenti pubblicata dâ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza Sizzioni Immutàbbili, senza Testi di Prima di Cupirtina, e senza Testi di Quarta di Cupirtina. Na copia dâ licenza si trova ntâ sizzioni ntitulata ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:scn:GNU Licenza Lìbbira di Ducumentazzioni",
 	"wm-license-information-description": "Discrizzioni",
 	"wm-license-information-source": "Fonti",
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Auturi",
+	"wm-license-information-permission": "Pirmissu",
+	"wm-license-information-permission-reusing-text": "Riutilizzari stu file",
 	"wm-license-information-permission-see-below": "Talìa cchiù 'ssutta.",
 	"wm-license-information-other-versions": "Artri virsiòni",
-	"wm-license-pd-usgov-military-army-wiki-link": "w:scn:Isercitu statunitenzi"
+	"wm-license-own-work": "Òpira propia",
+	"wm-license-pd-usgov-military-army-wiki-link": "w:scn:Isercitu statunitenzi",
+	"wm-license-self-multiple-licenses-select": "Poi scègghîri la licenza chi' prifirisci."
 }

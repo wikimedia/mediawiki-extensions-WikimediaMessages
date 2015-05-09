@@ -10,6 +10,9 @@
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Aůtor",
 	"wm-license-information-permission": "Pozwolyńe",
+	"wm-license-information-permission-reusing-text": "Ponowne wykorzystańy tygo plika",
 	"wm-license-information-permission-see-below": "Uobejrzij niżyj.",
-	"wm-license-information-other-versions": "Inksze wersyje"
+	"wm-license-information-other-versions": "Inksze wersyje",
+	"wm-license-own-work": "Własno robota",
+	"wm-license-self-multiple-licenses-select": "Moges wywelować, kero licencyjo chcysz zasztosować."
 }

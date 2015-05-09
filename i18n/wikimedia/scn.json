@@ -54,5 +54,10 @@
 	"grouppage-sysadmin": "m:System administrators",
 	"wikimedia-copyright": "Stu testu è dispunìbbili sutta â <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.it\">Licenza Creative Commons Attribuzzioni/Spartuta â stissa manera</a>;\nsi ponnu applicàri àutri cunnizzioni.\nTalìa li <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/it\">Cunnizzioni d'Usu</a> pi li dittagghî.",
 	"wikimedia-copyrightwarning": "Sarvannu lu canciamentu, accetti li [https://wikimediafoundation.org/wiki/Terms_of_Use/it Cunnizzioni d'Usu], e si' d'accordu a' rènniri dispunìbbili irrivucabbilmenti lu to cuntribbutu sutta ê licenzi [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzzioni-Spartuta â stissa manera] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nSi' d'accordu ca nu culligamentu ipirtistuali o n'URL custituìsciunu n'attribbuzzioni vàlida dû to travagghiu ê sensi dâ licenza Creative Commons.",
-	"wikimedia-developers": "Sviluppatura"
+	"wikibase-sitelinks-wikinews": "Wikinutizzî",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Sviluppatura",
+	"wikimedia-globalblocking-ipblocked": "'''Lu to nnirizzu IP fu' [[m:Special:MyLanguage/Global blocks|bluccatu nta tutti li wiki]].'''\n\nLu bloccu fu' mpostu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Principiu dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu to nnirizzu IP attuali è $6.\nPi' favuri rifirisci tutti li dittagghî di ccassupra nta tutti li dumanni chi' fai.\n\nSi' pensi chi' fusti bluccatu pi' sbagghiu, poi truvari autri nfurmazzioni e istruzzioni nto testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuddu proxy apertu]].\nSannunca, pi' discùtiri di stu bloccu [[m:Steward requests/Global|inoltra na richiesta di rivisioni ntâ Meta-Wiki]]."
 }
