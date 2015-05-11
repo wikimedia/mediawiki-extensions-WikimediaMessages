@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Enock4seth",
-			"Natsubee"
+			"Natsubee",
+			"Aguve"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia duwo ko",
@@ -15,5 +16,7 @@
 	"grouppage-flood": "{{ns:project}}:Bɔt zãlawo",
 	"group-founder": "Eɖolawo",
 	"group-founder-member": "{{GENDER:$1|eɖola}}",
-	"cant-delete-main-page": "Wo mate ŋu tutu alo ɖe Axɔ do ŋgɔ o."
+	"wikimedia-copyright": "Numeɖeɖewo le <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nse bubuwo ate ŋu akpee.\nKpɔ <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Ezazã Ŋuti Ɖoɖo</a> hena numeɖeɖe bubuwo.",
+	"cant-delete-main-page": "Wo mate ŋu tutu alo ɖe Axɔ do ŋgɔ o.",
+	"wikimedia-developers": "Ewɔlawo"
 }
