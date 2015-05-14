@@ -4,7 +4,8 @@
 			"Hym411",
 			"아라",
 			"Revi",
-			"Kwj2772"
+			"Kwj2772",
+			"LiteHell"
 		]
 	},
 	"contactpage-title-requestlicense": "상표 재사용 연락 양식",
@@ -49,5 +50,6 @@
 	"contactpage-license-abuse-selectmark": "어떤 상표가 남용되었습니까?",
 	"contactpage-license-abuse-location": "남용된 곳 (온/오프라인)",
 	"contactpage-license-abuse-theircontact": "상표를 남용하는 사람의 연락 정보 (알려진 경우)",
-	"contactpage-license-abuse-yourcontact": "당신의 연락 정보 (연락해야 할 수 있습니다)"
+	"contactpage-license-abuse-yourcontact": "당신의 연락 정보 (연락해야 할 수 있습니다)",
+	"contactpage-affcom-user-group-rules-label": "'''사용자 그륩 규칙'''\n* 최소 3명 이상의 구성원과 위키미디어 프로젝트로의 100개 이상의 기여를 하고 [[Wikimedia user groups/Agreement and code of conduct|사용자 그룹 계약과 행동 규칙]]를 준수해야 사용자 그룹을 구성할 자격이 주어집니다.\n** [[wmf:Trademark policy|상표 정책]]을 따라야 합니다.\n** 다른 위키미디어 조직과 독립적이어야 합니다.\n* 신청서를 제출하시면, 다음 단계를 도와주기 위해  [[Affiliations Committee|가맹위원회]]의 구성원이 곧 연락할 것입니다.\n* [[Wikimedia user groups|위키미디어 사용자 그룹들]]에 대해 알아보세요."
 }
