@@ -9,7 +9,8 @@
 			"Memo18",
 			"Minisarm",
 			"Multichill",
-			"Strainu"
+			"Strainu",
+			"ImGelu"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ro:Creative Commons",
@@ -211,16 +212,16 @@
 	"wm-license-cc-sa-2.0-jp-text": "Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/2.0/jp/deed.ro Distribuire în condiții identice 2.0 Japonia].",
 	"wm-license-cc-zero-text": "Acest fișier a fost eliberat sub licența [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.ro CC0 1.0 Universal Public Domain Dedication].",
 	"wm-license-cc-zero-explanation": "Persoana care a asociat o operă cu acest document o oferă [[{{int:wm-license-pd-wiki-link}}|domeniului public]], renunțând la toate drepturile asupra operei, în toată lumea, atât în ce privește drepturile de autor cât și orice alte drepturi juridice conexe pe care le avea asupra operei, în măsura permisă de lege. Puteți copia, modifica sau distribui opera, inclusiv în scopuri comerciale, fără a fi necesară permisiunea autorului.",
-	"wm-license-cc-free": "Sunteți liber:",
-	"wm-license-cc-free-to-share-header": "să partajați cu alții",
-	"wm-license-cc-free-to-share-text": "aveți dreptul de a copia, distribui și transmite opera",
-	"wm-license-cc-free-to-remix-header": "să adaptați",
-	"wm-license-cc-free-to-remix-text": "aveți dreptul de a adapta opera",
+	"wm-license-cc-free": "Ești liber:",
+	"wm-license-cc-free-to-share-header": "să partajezi cu alții",
+	"wm-license-cc-free-to-share-text": "ai dreptul de a copia, distribui și transmite opera",
+	"wm-license-cc-free-to-remix-header": "să adaptezi",
+	"wm-license-cc-free-to-remix-text": "ai dreptul de a adapta opera",
 	"wm-license-cc-conditions": "În următoarele condiții:",
 	"wm-license-cc-conditions-attribution-header": "atribuind",
-	"wm-license-cc-conditions-attribution-text": "Trebuie să atribuiți opera în maniera specificată de autor sau licențiator (dar sub nicio formă care ar sugera faptul că aceștia v-ar susține sau ar aproba folosirea de către dumneavoastră a operei).",
+	"wm-license-cc-conditions-attribution-text": "Trebuie să atribui opera în maniera specificată de autor sau licențiator (dar sub nicio formă care ar sugera faptul că aceștia te-ar susține sau ar aproba folosirea de către tine a operei).",
 	"wm-license-cc-conditions-share_alike-header": "partajând în condiții identice",
-	"wm-license-cc-conditions-share_alike-text": "Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.",
+	"wm-license-cc-conditions-share_alike-text": "Dacă modifici, transformi sau creezi pe baza acestei opere, poți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.ro",
 	"wm-license-cc-pd-mark-text": "Acest fișier a fost identificat ca fiind liber de orice restricții cunoscute privind legea drepturilor de autor, inclusiv toate drepturile conexe sau înrudite."
 }

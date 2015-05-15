@@ -12,7 +12,8 @@
 			"Misterr",
 			"Strainu",
 			"Nemo bis",
-			"Stelistcristi"
+			"Stelistcristi",
+			"ImGelu"
 		]
 	},
 	"wikimediamessages-desc": "Mesaje specifice Wikimediei",
@@ -127,8 +128,8 @@
 	"group-translationadmin": "Administratori de traducere",
 	"group-translationadmin-member": "{{GENDER:$1|administrator de traducere}}",
 	"grouppage-translationadmin": "{{ns:project}}: Administratori de traducere",
-	"wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVedeți detalii la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termenii de utilizare</a>.",
-	"wikimedia-copyrightwarning": "Apăsând butonul „{{int:savearticle}}”, acceptați [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și sunteți de acord să eliberați irevocabil contribuția dumneavoastră sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].\nSunteți de acord că o hiperlegătură sau un URL sunt suficiente pentru a vă atribui munca, conform licenței Creative Commons.",
+	"wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVezi detalii la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termenii de utilizare</a>.",
+	"wikimedia-copyrightwarning": "Apăsând butonul „{{int:savearticle}}”, accepți [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și ești de acord să eliberezi irevocabil contribuția ta sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].\nEști de acord că o hiperlegătură sau un URL sunt suficiente pentru a-ți atribui munca, conform licenței Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikiștiri",
 	"wikibase-sitelinks-wikiquote": "Wikicitat",
 	"wikibase-sitelinks-wikisource": "Wikisursă",
@@ -142,7 +143,8 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Politica numelui de utilizator",
 	"createacct-captcha-help-url": "{{ns:Project}}:Cereți un cont",
 	"wikimedia-developers": "Dezvoltatori",
-	"wikimedia-globalblocking-ipblocked": "'''Adresa dumneavoastră IP a fost [[m:Special:MyLanguage/Global blocks|blocată pe toate wikiurile]].'''\n\nBlocarea a fost efectuată de $1 ($2).\nMotivul specificat este: ''$3''.\n\n* Începutul blocării: $4\n* Expirarea blocării: $5\n\nAdresa dumneavoastră IP curentă este $6.\nVă rugăm să includeți toate detaliile de mai sus în toate cererile pe care le faceți.\n\nÎn cazul în care credeți că blocarea a fost efectuată din greșeală, puteți găsi informații suplimentare și instrucțiuni în politica globală  „[[m:Special:MyLanguage/No open proxies|Fără proxy-uri deschise]]”.\nÎn caz contrar, pentru a discuta pe marginea blocării vă rugăm să [[m:Steward requests/Global|faceți o cerere pentru care să fie revizuită la Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''Adresa y=ta IP a fost [[m:Special:MyLanguage/Global blocks|blocată pe toate wikiurile]].'''\n\nBlocarea a fost efectuată de $1 ($2).\nMotivul specificat este: ''$3''.\n\n* Începutul blocării: $4\n* Expirarea blocării: $5\n\nAdresa ta IP curentă este $6.\nTe rugăm să incluzi toate detaliile de mai sus în toate cererile pe care le faci.\n\nÎn cazul în care crezi că blocarea a fost efectuată din greșeală, poți găsi informații suplimentare și instrucțiuni în politica globală  „[[m:Special:MyLanguage/No open proxies|Fără proxy-uri deschise]]”.\nÎn caz contrar, pentru a discuta pe marginea blocării, te rugăm să [[m:Steward requests/Global|faci o cerere pentru care să fie revizuită la Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Unul sau mai multe servere proxy folosite de cererea ta au fost [[m:Special:MyLanguage/Global blocks|blocată pe toate wikiurile]].'''\n\nBlocarea a fost efectuată de $1 ($2).\nMotivul specificat este: ''$3''.\n\n* Începutul blocării: $4\n* Expirarea blocării: $5\n\nAdresa de proxy blocată a fost $6.\nTe rugăm să incluzi toate detaliile de mai sus în toate cererile pe care le faci.\n\nÎn cazul în care crezi că blocarea a fost efectuată din greșeală, poți găsi informații suplimentare și instrucțiuni în politica globală  „[[m:Special:MyLanguage/No open proxies|Fără proxy-uri deschise]]”.\nÎn caz contrar, pentru a discuta pe marginea blocării, te rugăm să [[m:Steward requests/Global|faci o cerere pentru care să fie revizuită la Meta-Wiki]].",
 	"wikimediashoplink-linktext": "Magazin Wikimedia",
 	"wikimediashoplink-link-tooltip": "Vizitați magazinul Wikimedia"
 }

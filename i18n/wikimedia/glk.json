@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"AminSanaei"
+			"AminSanaei",
+			"V6rg"
 		]
 	},
-	"sitesupport": "بال زئن"
+	"sitesupport": "بال زئن",
+	"tooltip-n-sitesupport": "أمره بال بزنين",
+	"wikimedia-developers": "تؤسعه‌دأنکسؤن"
 }
