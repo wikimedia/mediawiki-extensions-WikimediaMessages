@@ -128,7 +128,7 @@
 	"group-translationadmin": "Administratori de traducere",
 	"group-translationadmin-member": "{{GENDER:$1|administrator de traducere}}",
 	"grouppage-translationadmin": "{{ns:project}}: Administratori de traducere",
-	"wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVezi detalii la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termenii de utilizare</a>.",
+	"wikimedia-copyright": "Acest text este disponibil sub licența <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ro\">Creative Commons cu atribuire și distribuire în condiții identice</a>;\npot exista și clauze suplimentare.\nVedeți detalii la <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Termenii de utilizare</a>.",
 	"wikimedia-copyrightwarning": "Apăsând butonul „{{int:savearticle}}”, accepți [https://wikimediafoundation.org/wiki/Terms_of_Use Termenii de utilizare] și ești de acord să eliberezi irevocabil contribuția ta sub licențele [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribuire-Distribuire în condiții identice 3.0] și [https://www.gnu.org/copyleft/fdl.html GFDL].\nEști de acord că o hiperlegătură sau un URL sunt suficiente pentru a-ți atribui munca, conform licenței Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikiștiri",
 	"wikibase-sitelinks-wikiquote": "Wikicitat",

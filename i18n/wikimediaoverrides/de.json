@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Auswahlhilfe)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]]."
+	"wikimedia-createacct-imgcaptcha-help": "Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]].",
+	"wikimedia-privacypage": "wmf:Special:MyLanguage/Privacy_policy"
 }
