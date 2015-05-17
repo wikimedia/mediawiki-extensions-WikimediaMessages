@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minh Nguyen"
+			"Minh Nguyen",
+			"KhangND"
 		]
 	},
 	"contactpage-title-requestlicense": "Yêu cầu một biểu mẫu cấp phép",
@@ -33,7 +34,7 @@
 	"contactpage-subject-licenseabuse": "Thông báo về sự vi phạm thương hiệu Wikimedia",
 	"contactpage-license-abuse-description": "Miêu tả sự lạm dụng",
 	"contactpage-license-abuse-selectmark": "Thương hiệu nào bị lạm dụng?",
-	"contactpage-license-abuse-location": "Lạm dụng ở đâu (trực/ngoại tuyến)?",
+	"contactpage-license-abuse-location": "Địa điểm lạm dụng (trực/ngoại tuyến)",
 	"contactpage-license-abuse-theircontact": "Thông tin để liên lạc với người lạm dụng thương hiệu (nếu biết)",
 	"contactpage-license-abuse-yourcontact": "Thông tin để liên lạc với quý vị (nếu cho phép chúng tôi liên lạc với quý vị)"
 }

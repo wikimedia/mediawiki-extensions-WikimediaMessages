@@ -9,7 +9,8 @@
 			"לערי ריינהארט",
 			"Nemo bis",
 			"Max20091",
-			"Dinhxuanduyet"
+			"Dinhxuanduyet",
+			"KhangND"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -212,7 +213,7 @@
 	"restriction-level-superprotect": "khóa trang cấp đặc biệt",
 	"wikimedia-feedback-termsofuse": "Tôi đồng ý cung cấp thông tin phản hồi theo <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi\" target=\"_blank\">các Điều khoản Sử dụng</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Lời yêu cầu đổi tên “$1” thành “$2” đã được chấp nhận. Hệ thống cập nhật xong xuôi thì bạn sẽ có thể đăng nhập bằng tên người dùng mới và mật khẩu cũ. Cảm ơn bạn tiếp tục tham gia các dự án Wikimedia.",
-	"wikimedia-globalrenamequeue-email-body-rejected": "Lời yêu cầu đổi tên “$1” thành “$2” không được thực hiện.\n\nXem thêm thông tin tại trang trợ giúp này: <https://meta.wikimedia.org/wiki/Help:Unified_login/vi#Frequently_asked_questions>. Bạn có thể thảo luận về lời yêu cầu đổi tên bạn trong trang này: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Bạn vẫn phải đăng nhập bằng tên tài khoản hiện tại của bạn.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "Lời yêu cầu đổi tên “$1” thành “$2” không được thực hiện.\n\nGhi chú: $3\n\nXem thêm thông tin tại trang trợ giúp này: <https://meta.wikimedia.org/wiki/Help:Unified_login/vi#Frequently_asked_questions>. Bạn có thể thảo luận về lời yêu cầu đổi tên bạn trong trang này: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Bạn vẫn phải đăng nhập bằng tên tài khoản hiện tại của bạn.",
 	"wikimedia-sulrenamewarning-usenew": "Từ nay, bạn phải đăng nhập bằng tên người dùng mới của bạn: <strong>$1</strong>. Bạn là người duy nhất có tên người dùng này trên tất cả các dự án trực thuộc Wikimedia; nếu bạn đã đăng nhập vào một dự án và ghé thăm một dự án khác, tài khoản cũng có hiệu lực trên dự án đó. [[:m:Special:MyLanguage/Help:Unified_login|Trang trợ giúp về tài khoản hợp nhất]] có thêm thông tin về việc đăng nhập, cũng như một số câu hỏi thường gặp. Nếu bạn cần cập nhật địa chỉ thư điện tử hoặc đổi mật khẩu, bạn nên ghé vào [[Special:Preferences|tùy chọn]] để cập nhật tài khoản ngay bây giờ.\n\nCảm ơn bạn tiếp tục tham gia các dự án Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Tài khoản này đã bị khóa trên toàn cầu.\nXem [[m:Special:CentralAuth/$1|chi tiết tài khoản toàn cầu]]  để biết thêm thông tin.",
 	"wikimedia-centralauth-uwbr-intro": "Đây là danh sách các thành viên có tài khoản trên wiki này mà sẽ được đổi tên do việc [[m:Single User Login finalisation announcement|hoàn thành quá trình hợp nhất tài khoản]]. Xem thêm chi tiết tại [[m:Help:Unified login|Đăng nhập thống nhất]]. Các thành viên có thể lúc nào yêu cầu đổi tên mình tại [[Special:GlobalRenameRequest]].",

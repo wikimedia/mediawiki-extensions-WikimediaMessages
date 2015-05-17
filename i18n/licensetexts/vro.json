@@ -1,4 +1,16 @@
 {
-	"@metadata": [],
-	"wm-license-information-description": "Seletüs"
+	"@metadata": {
+		"authors": [
+			"Võrok"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "Luba om ant seo lehe kopimisõs, ilmutamisõs ja/vai muutmisõs '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Vaba Dokumentatsiooni Litsendsi]]''' versiooni 1.2 vai illatsõmba [[{{int:wm-license-fsf-wiki-link}}|Vaba Tarkvara Fondi]] ilmutõdu kujo tingimüisi perrä; ilma muutumalda ossõ ni ede- ja tagakaasõ teksteldä. Seost luast om koopia lehel nimega \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",
+	"wm-license-information-description": "Seletüs",
+	"wm-license-information-source": "Läteq",
+	"wm-license-information-date": "Kuupäiv",
+	"wm-license-information-author": "Tegijä",
+	"wm-license-information-permission": "Luba",
+	"wm-license-information-permission-reusing-text": "Faili vahtsõst pruukminõ",
+	"wm-license-own-work": "Üleslaatja uma tüü",
+	"wm-license-self-multiple-licenses-select": "Võit valliq hindäle sündüvä litsendsi."
 }

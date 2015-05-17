@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Multichill"
+			"Multichill",
+			"Robin0van0der0vliet"
 		]
 	},
-	"wm-license-cc-wiki-link": "w:fy:Creative Commons"
+	"wm-license-cc-wiki-link": "w:fy:Creative Commons",
+	"wm-license-cc-attribution": "Nammefermelding",
+	"wm-license-cc-free": "De brûker mei:",
+	"wm-license-cc-free-to-share-header": "Dielen",
+	"wm-license-cc-conditions-attribution-header": "Nammefermelding",
+	"wm-license-cc-conditions-share_alike-header": "Lyk diele"
 }
