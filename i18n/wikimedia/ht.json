@@ -1,9 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Masterches"
+			"Masterches",
+			"Tisave"
 		]
 	},
 	"sitesupport": "Fè yon don",
-	"tooltip-n-sitesupport": "Soutni pwojè a"
+	"tooltip-n-sitesupport": "Soutni pwojè a",
+	"wikimedia-copyright": "Teks sa a disponib selon lisans <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>; lòt kondisyon gen dwa aplikab. Li <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> pou plis detay.",
+	"wikimedia-copyrightwarning": "Lè w anrejistre sa a ou tou dakòt ak [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], epi w dakò fè kontribonsyon selon lisans [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ak lisans [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] advitam.\nOu dakò ke yon lyen ipèlenk oswa yon lyen entènèt ase kòm rekonesans selon lisans Creative Commons (Kreyasyon Komìn).",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Reyalizatè"
 }

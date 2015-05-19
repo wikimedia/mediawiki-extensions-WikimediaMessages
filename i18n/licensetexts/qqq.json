@@ -120,8 +120,8 @@
 	"wm-license-pd-usgov-noaa-wiki-link": "{{Optional}}",
 	"wm-license-pd-wiki-link": "{{optional}}",
 	"wm-license-self-one-license": "You can peek at [[Commons:Template:Self]].\n{{Related|Wm-license-self}}",
-	"wm-license-self-one-license-with-author": "You can peek at [[Commons:Template:Self]]. Parameters:\n* $1 - the copyright holder\n{{Related|Wm-license-self}}",
+	"wm-license-self-one-license-with-author": "You can peek at [[Commons:Template:Self]]. Parameters:\n* $1 - the copyright holder (We cannot know the gender of someone, who may not be a registered user)\n{{Related|Wm-license-self}}",
 	"wm-license-self-multiple-licenses": "You can peek at [[Commons:Template:Self]].\n{{Related|Wm-license-self}}",
-	"wm-license-self-multiple-licenses-with-author": "This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder\n{{Related|Wm-license-self}}",
+	"wm-license-self-multiple-licenses-with-author": "This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder. We cannot know the gender of the copyright holder, who may be not a registered user.\n{{Related|Wm-license-self}}",
 	"wm-license-self-multiple-licenses-select": "You may select the license of your choice."
 }
