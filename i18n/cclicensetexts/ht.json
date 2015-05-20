@@ -4,10 +4,12 @@
 			"Tisave"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "Fichye sa a distribiye selon lisans [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-free": "Ou gen dwa:",
 	"wm-license-cc-free-to-share-header": "pou pataje",
 	"wm-license-cc-free-to-share-text": "pou kopye, distribiye epi difize ouvraj la",
 	"wm-license-cc-free-to-remix-header": "pou remiks",
 	"wm-license-cc-free-to-remix-text": "pou adapte ouvraj la",
-	"wm-license-cc-conditions": "Selon kondisyon sa a yo:"
+	"wm-license-cc-conditions": "Selon kondisyon sa a yo:",
+	"wm-license-cc-conditions-share_alike-text": "Si w chanje, transfòme oswa ajoute sou ouvraj sa a, ou ka distribiye rezilta a sèlman selon menm lisans la ou youn ki sanble l."
 }
