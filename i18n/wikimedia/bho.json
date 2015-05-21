@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Ganesh",
-			"Nepaboy"
+			"Nepaboy",
+			"SatyamMishra"
 		]
 	},
 	"sitesupport": "दान करीं",
 	"tooltip-n-sitesupport": "हमनी के सहयोग करीं",
 	"group-accountcreator": "खाता बनावे वाला",
-	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अंतर्गत उपलब्ध बा; अतिरिक्त शर्त लागू हो सकत बा।\nअधिक जानकारी खातिर <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोग के शर्त</a> देखीं।",
+	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के तहत  उपलब्ध बा; अउरी शर्त भी लागू हो सकत बा।\nढेर जानकारी खातिर <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोग के शर्त</a> देखीं।",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "विकिकोट",
 	"wikibase-sitelinks-wikisource": "विकिसोर्स",
