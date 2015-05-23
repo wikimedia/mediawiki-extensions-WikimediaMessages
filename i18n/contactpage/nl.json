@@ -3,10 +3,15 @@
 		"authors": [
 			"Siebrand",
 			"SPQRobin",
-			"Southparkfan"
+			"Southparkfan",
+			"Robin0van0der0vliet"
 		]
 	},
 	"contactpage-license-request-username": "Gebruikersnaam *",
+	"contactpage-license-request-use-online": "Online (website, e-mail)",
+	"contactpage-license-request-use-book": "Boek, tijdschrift",
+	"contactpage-license-request-use-tv": "TV, film of uitzending",
 	"contactpage-license-request-use-other": "Anders",
+	"contactpage-wikimedia-trademark-wikibooks": "Wikibooks",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimediagemeenschap"
 }

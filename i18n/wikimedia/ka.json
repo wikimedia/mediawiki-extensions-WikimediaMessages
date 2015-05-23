@@ -101,6 +101,9 @@
 	"group-transwiki": "Transwiki-ს იმპორტიორები",
 	"group-transwiki-member": "{{GENDER:$1|Transwiki-ს იმპორტიორი}}",
 	"grouppage-transwiki": "{{ns:project}}:Transwiki-ს იმპორტორები",
+	"group-templateeditor": "თარგის რედაქტორები",
+	"group-templateeditor-member": "{{GENDER:$1|თარგის რედაქტორი}}",
+	"grouppage-templateeditor": "{{ns:project}}:თარგის რედაქტორები",
 	"group-trusted": "სანდო მომხმარებლები",
 	"group-trusted-member": "{{GENDER:$1|სანდო მომხმარებელი}}",
 	"grouppage-trusted": "{{ns:project}}:სანდო მომხმარებლები",
@@ -161,6 +164,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''თქვენი IP-მისამართი [[m:Special:MyLanguage/Global blocks|ყველა ვიკი-პროექტში დაიბლოკა]].'''\n\nბლოკირება განახორციელა $1 ($2).\nმითითებული მიზეზი: ''$3''.\n\n* ბლოკირების დაწყება: $4 \n* ბლოკირების დასრულება: $5 \n\nთქვენი მიმდინარე IP-მისამართია - $6.\nგთხოვთ, ეს ყველაფერი მიუთითოთ თქვენ მიმართვაში.\n\nთუ თვლით, რომ შეცდომით დაიბლოკეთ, ამის შესახებ დამატებითი ინფორმაცია და ინსტუქცია შეგიძლიათ იხილოთ [[m:Special:MyLanguage/No open proxies|ღია პროქსი-სერვერების გამოყენების დაუშვებლობის]] გლობალური წესების გვერდზე.\nწინააღმდეგ შემთხვევაში, ბლოკირების გასაჩივრებისათვის, გთხოვთ მიმართოთ [[m:Steward requests/Global|მეტაზე]].",
 	"wikimediashoplink-linktext": "ვიკიმედიის მაღაზია",
 	"wikimediashoplink-link-tooltip": "ესტუმრეთ ვიკიმედიის მაღაზიას",
+	"interlanguage-link-mul": "მეტი ენა",
 	"interlanguage-link-wikipedia": "ვიკიპედია",
 	"interlanguage-link-commons": "ვიკისაწყობი"
 }
