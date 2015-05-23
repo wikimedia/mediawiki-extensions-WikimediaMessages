@@ -1,0 +1,72 @@
+{
+	"name": "WikimediaMessages",
+	"author": [
+		"Tim Starling",
+		"Siebrand Mazeland",
+		"James D. Forrester"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:WikimediaMessages",
+	"descriptionmsg": "wikimediamessages-desc",
+	"license-name": "GPL-2.0+",
+	"type": "other",
+	"MessagesDirs": {
+		"WikimediaContactPageMessages": [
+			"i18n/contactpage"
+		],
+		"WikimediaMessages": [
+			"i18n/wikimedia"
+		],
+		"WikimediaTemporaryMessages": [
+			"i18n/temporary"
+		],
+		"WikimediaOverrideMessages": [
+			"i18n/wikimediaoverrides"
+		]
+	},
+	"AutoloadClasses": {
+		"WikimediaMessagesHooks": "WikimediaMessages.hooks.php"
+	},
+	"ResourceModules": {
+		"ext.wikimediamessages.contactpage.affcomusergroup": {
+			"position": "top",
+			"styles": "ext.wikimediamessages.contactpage.affcomusergroup.css"
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "modules",
+		"remoteExtPath": "WikimediaMessages/modules"
+	},
+	"callback": "WikimediaMessagesHooks::onRegistration",
+	"Hooks": {
+		"MessageCache::get": [
+			"WikimediaMessagesHooks::onMessageCacheGet"
+		],
+		"SkinCopyrightFooter": [
+			"WikimediaMessagesHooks::onSkinCopyrightFooter"
+		],
+		"EditPageCopyrightWarning": [
+			"WikimediaMessagesHooks::onEditPageCopyrightWarning"
+		],
+		"MobileLicenseLink": [
+			"WikimediaMessagesHooks::onMobileLicenseLink"
+		],
+		"SkinTemplateOutputPageBeforeExec": [
+			"WikimediaMessagesHooks::onSkinTemplateOutputPageBeforeExec"
+		],
+		"TorBlockBlockedMsg": [
+			"WikimediaMessagesHooks::onTorBlockBlockedMsg"
+		],
+		"GlobalBlockingBlockedIpMsg": [
+			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg"
+		],
+		"GlobalBlockingBlockedIpXffMsg": [
+			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg"
+		],
+		"MinervaPreRender": [
+			"WikimediaMessagesHooks::onMinervaPreRender"
+		],
+		"UploadForm:initial": [
+			"WikimediaMessagesHooks::onUploadFormInitial"
+		]
+	}
+}
