@@ -26,7 +26,8 @@
 			"Dianakc",
 			"Fasouzafreitas",
 			"He7d3r",
-			"Opraco"
+			"Opraco",
+			"Araceletorres"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -53,6 +54,8 @@
 	"group-abusefilter": "Editores de filtros de abuso",
 	"group-abusefilter-member": "{{GENDER:$1|editor|editora|editor(a)}} de filtros de abuso",
 	"grouppage-abusefilter": "{{ns:project}}:Editores de filtros de abuso",
+	"group-abusefilter-helper": "Ajudantes do filtro de abuso",
+	"group-abusefilter-helper-member": "{{GENDER:$1|ajudante do filtro de abuso}}",
 	"group-accountcreator": "Criadores de contas",
 	"group-accountcreator-member": "{{GENDER:$1|criador|criadora|criador(a)}} de contas",
 	"grouppage-accountcreator": "{{ns:project}}:Criadores de contas",
@@ -134,6 +137,11 @@
 	"group-global-ipblock-exempt": "Isentos de bloqueios globais",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|Isento|Isenta|Isento(a)}} de bloqueio de IP",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
+	"group-global-interface-editor": "Editores de interface globais",
+	"group-global-interface-editor-member": "{{GENDER:$1|editor de interface global}}",
+	"group-global-renamer": "Renomeadores globais",
+	"group-global-renamer-member": "{{GENDER:$1|renomeador global}}",
+	"grouppage-global-renamer": "m:Renomeadores globais",
 	"group-global-rollbacker": "Reversores globais",
 	"group-global-rollbacker-member": "{{GENDER:$1|reversor|reversora|reversor(a)}} global",
 	"group-global-sysop": "Administradores globais",
@@ -168,8 +176,9 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikibase-sitelinks-commons": "Páginas Wikimedia Commons com link para este item",
+	"wikibase-sitelinks-commons": "Wikimedia Commons",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Você não pode excluir ou mover a página principal.",
 	"upload-more-photos-of-this-monument": "Carregar mais fotos deste monumento",
 	"extdist-branch-master": "master (mais recente versão de desenvolvimento)",
@@ -181,7 +190,14 @@
 	"wikimedia-globalblocking-ipblocked": "'''O seu endereço de IP foi [[m:Special:MyLanguage/Global blocks|bloqueado em todas as wikis]].'''\n\nO bloqueio foi efetuado por $1 ($2).\nO motivo dado foi o seguinte: ''$3''.\n\n* Início do bloqueio: $4\n* Fim do bloqueio: $5\n\nO seu endereço de IP atual é $6.\nPor favor, inclua todos os detalhes acima em todas as consultas que efetuar.\n\nSe acredita que o bloqueio foi realizado por engano, pode encontrar informação adicional e instruções na política global de [[m:Special:MyLanguage/No open proxies|''proxies'' fechados]].\nCaso contrário, para discutir este bloqueio, [[m:Steward requests/Global|abra um pedido de análise no Meta-Wiki]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/pt-br",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Política de privacidade]",
+	"wikimediashoplink-linktext": "Loja Wikimedia",
+	"wikimediashoplink-link-tooltip": "Visitar a loja Wikimedia",
+	"interlanguage-link-mul": "Mais idiomas",
+	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
+	"interlanguage-link-sitename-wikipedia": "Wikipédia, a enciclopédia livre",
+	"interlanguage-link-sitename-commons": "Repositório multimídia da Wikimedia Commons",
 	"right-superprotect": "Alterar níveis de superproteção",
 	"protect-level-superprotect": "Permitir somente usuários super protegidos",
-	"restriction-level-superprotect": "superproteger"
+	"restriction-level-superprotect": "superproteger",
+	"protect-level-editeditorprotected": "Permitir somente editores"
 }
