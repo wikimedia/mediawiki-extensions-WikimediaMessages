@@ -2,9 +2,32 @@
 	"@metadata": {
 		"authors": [
 			"Bhawani Gautam",
-			"सरोज कुमार ढकाल"
+			"सरोज कुमार ढकाल",
+			"NehalDaveND"
 		]
 	},
+	"wm-license-artwork-artist": "कलाकार",
+	"wm-license-artwork-title": "शीर्षक",
+	"wm-license-artwork-medium": "मझौलो",
+	"wm-license-artwork-dimensions": "आकारहरू",
+	"wm-license-artwork-current-location": "वर्तमान अवस्थिति",
+	"wm-license-artwork-object-history": "वस्तुको इतिहास",
+	"wm-license-artwork-references": "सन्दर्भ सामग्रीहरू",
+	"wm-license-artwork-inscriptions": "विवरण",
+	"wm-license-artwork-notes": "टिप्पणी",
+	"wm-license-book-edition": "संस्करण",
+	"wm-license-book-editor": "सम्पादकहरु",
+	"wm-license-book-illustrator": "व्याख्याता",
+	"wm-license-book-language": "भाषा",
+	"wm-license-book-printer": "मुद्रण यन्त्र",
+	"wm-license-book-publisher": "प्रकाशक",
+	"wm-license-book-subtitle": "उपशीर्षक",
+	"wm-license-book-title": "शीर्षक",
+	"wm-license-book-translator": "अनुवादकहरु",
+	"wm-license-book-volume": "आयतन",
+	"wm-license-creator-description": "विवरण",
+	"wm-license-creator-date-of-birth": "जन्म मिति",
+	"wm-license-creator-location-of-birth": "जन्मस्थान",
 	"wm-license-information-description": "वर्णन",
 	"wm-license-information-source": "स्रोत",
 	"wm-license-information-date": "मिति",

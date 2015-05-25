@@ -3,7 +3,8 @@
 		"authors": [
 			"Bhawani Gautam",
 			"सरोज कुमार ढकाल",
-			"बिप्लब आनन्द"
+			"बिप्लब आनन्द",
+			"NehalDaveND"
 		]
 	},
 	"sitesupport": "चन्दा",
@@ -41,5 +42,6 @@
 	"wikibase-sitelinks-wikiquote": "विकिकोट",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",
 	"wikibase-sitelinks-wikivoyage": "विकिभोयेज",
-	"wikimedia-developers": "विकासकर्ताहरू"
+	"wikimedia-developers": "विकासकर्ताहरू",
+	"interlanguage-link-mul": "भाषाहरू थप"
 }

@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nirjal stha"
+			"Nirjal stha",
+			"NehalDaveND"
 		]
 	},
+	"contactpage-license-request-use-other": "अन्य",
 	"contactpage-license-abuse-location": "दुरूपयोगको स्थान (अनलाइन/अफलाइन)",
 	"contactpage-title-affcomusergroup": "प्रयोगकर्ता समूह शुरू गर्न आवेदन गर्नुहोस्",
 	"contactpage-affcom-user-group-logo-community": "विकिपीडिया समुदाय लोगो",
