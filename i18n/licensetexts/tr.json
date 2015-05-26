@@ -8,7 +8,8 @@
 			"Multichill",
 			"Universal Life",
 			"Vito Genovese",
-			"Stultiwikia"
+			"Stultiwikia",
+			"Arystanbek"
 		]
 	},
 	"wikimedialicensetexts-desc": "Wikimedia lisans mesajları",
@@ -51,7 +52,7 @@
 	"wm-license-creator-work-period": "Çalışma süresi",
 	"wm-license-creator-work-location": "İş konumu",
 	"wm-license-creator-linkback": "Oluşturan bilgi kutusu şablonuna bağlantı",
-	"wm-license-fal-text": "Telif müsaadesi: Bu eser ücretsiz olmakla birlikte, '''[[{{int:wm-license-fal-wiki-link}}|Özgür Sanat Lisansı]]''' şartlarına göre bu eseri dağıtabilir ve/veya değiştirebilirsiniz. Bu lisansın bir örneğine ve nasıl kullanılacağına [{{int:wm-license-fal-full-link}} telif müsaadesi veren] siteden ulaşabilirsiniz.",
+	"wm-license-fal-text": "Copyleft: Bu iş sanattır ücretsiz; siz dağıtabilir ve/veya değiştirebilirsiniz buna göre şartları \"'[[{{int:wm-lisans-fal-wiki-link}}|Özgür Sanat Lisansı]]\"'. Ne tür bir yaratık bu Lisans [{{int:wm-lisans-fal-full-link}} Copyleft Tutum site] yanı sıra [{{int:wm-lisans-fal-full-link-commons}} diğer siteler].",
 	"wm-license-fal-wiki-link": "w:tr:Özgür Sanat lisansı",
 	"wm-license-fsf-wiki-link": "w:tr:Özgür Yazılım Vakfı",
 	"wm-license-free-software-wiki-link": "w:tr:Özgür yazılım",
