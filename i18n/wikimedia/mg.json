@@ -46,9 +46,9 @@
 	"group-inactive": "mpikambana tsy miasa",
 	"group-inactive-member": "mpikambana tsy mavitrika{{GENDER:$1|}}",
 	"grouppage-inactive": "{{ns:project}}:Mpikambana tsy manova",
-	"group-interface_editor": "Mpanova ny rindrankajy",
-	"group-interface_editor-member": "mpanova ny seho ivelan'ny rindrankajy{{GENDER:$1|}}",
-	"grouppage-interface_editor": "{{ns:project}}:Mpanova ny rindrankajy",
+	"group-interface-editor": "Mpanova ny rindrankajy",
+	"group-interface-editor-member": "mpanova ny seho ivelan'ny rindrankajy{{GENDER:$1|}}",
+	"grouppage-interface-editor": "{{ns:project}}:Mpanova ny rindrankajy",
 	"group-ipblock-exempt": "Tsy afaka sakanana amin'ny adiresy IP",
 	"group-ipblock-exempt-member": "mpikambana tsy afaka sakanana amin'ny IP-ny{{GENDER:$1|}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Tsy afaka sakanana amin'ny IP",
@@ -70,8 +70,6 @@
 	"group-uploader-member": "mpanondrana{{GENDER:$1|}}",
 	"group-coder": "Mpanakaody",
 	"group-coder-member": "mpikaody{{GENDER:$1|}}",
-	"group-editinterface": "Mpanova ny interface",
-	"group-editinterface-member": "mpanova ny seho ivelany{{GENDER:$1|}}",
 	"group-global-bot": "Rôbô amin'ny ankapobe ny wiki",
 	"group-global-bot-member": "rôbô global",
 	"group-global-rollbacker": "Mpamafa amin'ny ankapobe ny wiki",
@@ -86,5 +84,8 @@
 	"group-steward-member": "mpiambona{{GENDER:$1|}}",
 	"group-sysadmin": "Mpandrindra ny sistema",
 	"group-sysadmin-member": "mpandrindra ny rafitra{{GENDER:$1|}}",
-	"wikimedia-copyright": "Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">Creative Commons Attribution-ShareAlike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href=\"https://wikimediafoundation.org/wiki/Fepetram-pampiasana\">fepetram-pampiasana</a> ho an'ny antsipirihany."
+	"wikimedia-copyright": "Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.mg\">Creative Commons Attribution-ShareAlike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href=\"https://wikimediafoundation.org/wiki/Fepetram-pampiasana\">fepetram-pampiasana</a> ho an'ny antsipirihany.",
+	"wikibase-sitelinks-wikisource": "Wikiloharano",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Mpanitatra"
 }

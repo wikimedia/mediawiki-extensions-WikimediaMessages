@@ -80,7 +80,7 @@
 	"group-interface-editor-member": "{{GENDER:$1|Engerfäjßbeärbeider|Engerfäjßbeärbeiderėn|Engerfäjßbeärbeider|Engerfäjßbeärbeiderėn|Engerfäjßbeärbeider}}",
 	"grouppage-interface-editor": "{{ns:project}}:Engerfäjßbeärbeider",
 	"group-ipblock-exempt": "IP-Jruppe-Sperre-Ußnahme",
-	"group-ipblock-exempt-member": "{{GENDER:$1|IP-Jruppe-Sperre-Ußnahm}}",
+	"group-ipblock-exempt-member": "{{GENDER:$1|IP-Jroppe-Sperre-Ußnahm}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP-Jruppe-Sperre-Ußnahm",
 	"group-noratelimit": "Zohjäng ohne Beschränkonge dorsch Jränze",
 	"group-noratelimit-member": "Metmaacher ohne Beschränkonge dorsch Jränze{{GENDER:$1|}}",

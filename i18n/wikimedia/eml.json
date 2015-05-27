@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lévi"
+			"Lévi",
+			"Gloria sah"
 		]
 	},
-	"sitesupport": "Dunasiòun"
+	"sitesupport": "Dunasiòun",
+	"tooltip-n-sitesupport": "Aiùt-es",
+	"wikimedia-developers": "Śvilupadōr"
 }
