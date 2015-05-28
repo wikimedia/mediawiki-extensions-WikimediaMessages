@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aursani"
+			"Aursani",
+			"Sindhu"
 		]
 	},
 	"sitesupport": "مالي امداد",
-	"tooltip-n-sitesupport": "اسان جي مدد ڪريو"
+	"tooltip-n-sitesupport": "اسان جي مدد ڪريو",
+	"wikimedia-copyright": "هي متن موجود آهي <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; جي ماتحت.\nاضافي اصول لاڳو ٿي سگهن ٿا. \nڏسو <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">استعمال جا اصول</a> وڌيڪ وضاحت لاءِ",
+	"wikimedia-developers": "پروگرامرز"
 }
