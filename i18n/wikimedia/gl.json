@@ -109,6 +109,8 @@
 	"grouppage-wikidata-staff": "{{ns:project}}:Membros do persoal do Wikidata",
 	"group-apihighlimits-requestor": "Solicitantes do límite superior da API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|solicitante do límite superior da API}}",
+	"group-captcha-exempt": "Exencións de CAPTCHA",
+	"group-captcha-exempt-member": "{{GENDER:$1|exención de CAPTCHA}}",
 	"group-centralnoticeadmin": "Administradores do aviso central",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|administrador|administradora}} do aviso central",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administradores do aviso central",
@@ -189,6 +191,7 @@
 	"wikimedia-flow-terms-of-use-summarize": "Ao premer \"{{int:flow-summarize-topic-submit}}\", acepta os nosos [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es Termos de uso] e acepta, irrevocablemente, someter o seu texto baixo os termos da [//creativecommons.org/licenses/by-sa/3.0 licenza CC BY-SA 3.0] e a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-close-topic": "Ao premer \"{{int:flow-close-topic-submit}}\", acepta os nosos [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es Termos de uso] e acepta, irrevocablemente, someter o seu texto baixo os termos da [//creativecommons.org/licenses/by-sa/3.0 licenza CC BY-SA 3.0] e a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reopen-topic": "Ao premer \"{{int:flow-reopen-topic-submit}}\", acepta os nosos [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/es Termos de uso] e acepta, irrevocablemente, someter o seu texto baixo os termos da [//creativecommons.org/licenses/by-sa/3.0 licenza CC BY-SA 3.0] e a [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-upload-nolicenses": "O envío de ficheiros a esta wiki non está activo. Por favor, [[commons:Special:UploadWizard|súbaos a Wikimedia Commons]].\n\nPara poder utilizar esta páxina especial, é necesario que un administrador engada unha ou máis opcións de licenza na páxina [[MediaWiki:Licenses]].\n\nUse o seguinte formato: <code>* Nome do modelo|Etiqueta</code>. Use calquera texto para activar a suba sen opcións de licenza.",
 	"wikimediashoplink-linktext": "Tenda da Wikimedia",
 	"wikimediashoplink-link-tooltip": "Visite a tenda da Wikimedia",
 	"interlanguage-link-mul": "Máis linguas",
@@ -203,6 +206,11 @@
 	"protect-level-editeditorprotected": "Permitir só editores",
 	"restriction-level-editeditorprotected": "limitado ós editores",
 	"wikimedia-feedback-termsofuse": "Estou de acordo en proporcionar información en conformidade cos <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Termos de uso</a>.",
+	"wikimedia-globalrenamequeue-email-body-approved": "Aprobouse a solicitude para cambiar o nome de «{{GENDER:$1|$1}}» a «{{GENDER:$1|$2}}». Unha vez completado, poderá iniciar sesión co seu novo nome de usuario co seu vello contrasinal. Grazas por participar nos proxectos de Wikimedia.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "Non se puido completar a solicitude para cambiar o nome de \"{{GENDER:$1|$1}}\" a \"{{GENDER:$1|$2}}\".\n\nNota: $3\n\nPara máis información, visite esta páxina de axuda: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Para discutir a súa solicitude de cambio de nome, pode facelo nesta páxina: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Deberá iniciar sesión co seu nome de conta actual.",
+	"wikimedia-sulrenamewarning-usenew": "A partir de agora precisará usar o seu novo nome de conta <strong>$1</strong> para iniciar sesión. O seu novo nome de usuario é exclusivo para que o poida utilizar calquera proxecto Wikimedia, e se se está autenticado nun proxecto e visita outro, a súa conta será automaticamente asumida. A [[:m:Special:MyLanguage/Help:Unified_login|páxina de axuda sobre contas unificadas]] contén máis información sobre o inicio de sesión de usuario único, así como unha lista das preguntas máis frecuentes. Se necesita actualizar a súa dirección de correo eletrónico ou cambiar o seu contrasinal nas súas [[Special:Preferences|preferencias]], agora pode ser un bo momento para facelo. \n\nPara solicitar un nome diferente para a conta, visite [[Special:GlobalRenameRequest]].\n\nGrazas pola súa participación nos proxectos Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\nVexa os [[m:Special:CentralAuth/$1|detalles globais da conta]] para máis información.",
-	"wikimedia-centralauth-uwbr-intro": "Esta páxina lista os usuarios rexistrados neste wiki que sufrirán un cambio de nome debido á [[m:Single User Login finalisation announcement|finalización do rexistro de usuario único]]. Pode obter máis información sobre o [[m:Help:Unified login|rexistro único]]. Os usuarios poden solicitar un cambio de nome en calquera momento mediante [[Special:GlobalRenameRequest]]."
+	"wikimedia-centralauth-uwbr-intro": "Esta páxina lista os usuarios rexistrados neste wiki que sufrirán un cambio de nome debido á [[m:Single User Login finalisation announcement|finalización do rexistro de usuario único]]. Pode obter máis información sobre o [[m:Help:Unified login|rexistro único]]. Os usuarios poden solicitar un cambio de nome en calquera momento mediante [[Special:GlobalRenameRequest]].",
+	"right-viewdeletedfile": "Ver ficheiros e páxinas borradas nos espazos de nomes {{ns:file}} e {{ns:file_talk}}",
+	"securepoll-dblist-securepollglobal": "Elección da Xunta"
 }
