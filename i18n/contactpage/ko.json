@@ -51,5 +51,9 @@
 	"contactpage-license-abuse-location": "남용된 곳 (온/오프라인)",
 	"contactpage-license-abuse-theircontact": "상표를 남용하는 사람의 연락 정보 (알려진 경우)",
 	"contactpage-license-abuse-yourcontact": "당신의 연락 정보 (연락해야 할 수 있습니다)",
+	"contactpage-title-affcomusergroup": "사용자 그룹 출범 신청",
+	"contactpage-affcom-user-group-name-label": "'''이름'''\n* 권장되는 이름: Wikimedia Community User Group [지역 또는 주제]\n* 다른 이름을 고르려 한다면 [[Wikimedia user groups/Name guidelines|명칭 지침]]을 참고하시기 바랍니다.",
+	"contactpage-affcom-user-group-description-label": "'''설명'''\n* 당신의 그룹이 무엇을 하고자 하는지 설명해주십시오.",
+	"contactpage-affcom-user-group-wikipage-label": "'''위키 문서'''\n*당신의 구룹의 위키 문서로 향하는 링크를 제시해주십시오.\n* 위키 문서가 아직 없다면 [[Wikimedia user groups/setup guide|메타위키에 사용자 그룹 문서를 생성]]할 수 있습니다.",
 	"contactpage-affcom-user-group-rules-label": "'''사용자 그륩 규칙'''\n* 최소 3명 이상의 구성원과 위키미디어 프로젝트로의 100개 이상의 기여를 하고 [[Wikimedia user groups/Agreement and code of conduct|사용자 그룹 계약과 행동 규칙]]를 준수해야 사용자 그룹을 구성할 자격이 주어집니다.\n** [[wmf:Trademark policy|상표 정책]]을 따라야 합니다.\n** 다른 위키미디어 조직과 독립적이어야 합니다.\n* 신청서를 제출하시면, 다음 단계를 도와주기 위해  [[Affiliations Committee|가맹위원회]]의 구성원이 곧 연락할 것입니다.\n* [[Wikimedia user groups|위키미디어 사용자 그룹들]]에 대해 알아보세요."
 }

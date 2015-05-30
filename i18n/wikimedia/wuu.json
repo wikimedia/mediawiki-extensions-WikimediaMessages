@@ -1,4 +1,10 @@
 {
-	"@metadata": [],
-	"sitesupport": "捐款"
+	"@metadata": {
+		"authors": [
+			"Poiuyt"
+		]
+	},
+	"sitesupport": "捐款",
+	"tooltip-n-sitesupport": "资助我里",
+	"wikimedia-developers": "开发者"
 }
