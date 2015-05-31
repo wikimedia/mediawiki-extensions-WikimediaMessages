@@ -6,5 +6,13 @@
 	},
 	"sitesupport": "捐款",
 	"tooltip-n-sitesupport": "资助我里",
-	"wikimedia-developers": "开发者"
+	"wikimedia-copyright": "本网站文字内容采用<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh\">知识共享“署名-相同方式共享”许可协议</a>授权，可能有应用附加条款。详情见<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">使用条款</a>。",
+	"wikimedia-copyrightwarning": "保存更改就表示侬同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并义无反顾个同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0协议文本 CC BY-SA 3.0许可协议]搭[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]发表侬个贡献。箇也表示侬同意来知识共享许可协议下底，用标注超链接或URL个形式署名是非常合理个。",
+	"wikibase-sitelinks-wikinews": "维基新闻",
+	"wikibase-sitelinks-wikiquote": "维基语录",
+	"wikibase-sitelinks-wikisource": "维基文库",
+	"wikibase-sitelinks-wikivoyage": "维基导游",
+	"wikimedia-developers": "开发者",
+	"wikimedia-globalblocking-ipblocked": "'''你个IP地址已经[[m:Special:MyLanguage/Global blocks|来所有维基网站畀封堵]]。'''\n\n箇封禁是$1（$2）设置个。\n畀出个原因是''$3''。\n\n* 封禁开始辰光：$4\n* 封禁到期辰光：$5\n\n你目前个IP地址是$6。\n请来你提出个任何质疑中包括以上所有信息。\n\n如果你认为你畀错封，你可以来[[m:Special:MyLanguage/No open proxies|覅使用开放代理]]全域方针寻着更多信息搭指导。\n另外，想讨论该封堵个说话请[[m:Steward requests/Global|到元维基发表复审请求]]。",
+	"wikimedia-globalblocking-ipblocked-xff": "'''你个访问请求使用个代理服务器畀[[m:Special:MyLanguage/Global blocks|全域封堵]]。'''\n\n箇封禁是$1（$2）设置个。\n畀出个原因是''$3''。\n\n* 封禁开始辰光：$4\n* 封禁到期辰光：$5\n\n畀封禁个代理服务器地址是$6。\n请来你提出个任何质疑中包括以上所有信息。\n\n如果你认为你畀错封，你可以来[[m:Special:MyLanguage/No open proxies|覅使用开放代理]]全域方针寻着更多信息搭指导。\n另外，想讨论该封堵个说话请[[m:Steward requests/Global|到元维基发表复审请求]]。"
 }
