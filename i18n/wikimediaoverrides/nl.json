@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Esketti"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mij met kiezen)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een gebruiker aan]]"
+	"wikimedia-createacct-imgcaptcha-help": "Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een gebruiker aan]]",
+	"wikimedia-privacypage": "wmf:Special:MyLanguage/Privacy_policy/nl"
 }
