@@ -96,11 +96,10 @@ class WikimediaMessagesHooks {
 	 *
 	 * @param $title Title
 	 * @param $msg string
-	 * @param $link
 	 *
 	 * @return bool
 	 */
-	public static function onEditPageCopyrightWarning( $title, $type, &$msg, &$link ) {
+	public static function onEditPageCopyrightWarning( $title, &$msg ) {
 		global $wgRightsUrl;
 
 		if( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
