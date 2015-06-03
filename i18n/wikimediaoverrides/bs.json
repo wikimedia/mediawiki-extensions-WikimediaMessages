@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"DzWiki"
+			"DzWiki",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi u izboru)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]",
+	"wikimedia-privacypage": "m:Privacy policy/bs"
 }

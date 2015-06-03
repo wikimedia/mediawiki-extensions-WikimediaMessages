@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Spiritia",
-			"DCLXVI"
+			"DCLXVI",
+			"Nemo bis"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощ при избора)]]"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощ при избора)]]",
+	"wikimedia-privacypage": "m:Privacy page/bg"
 }

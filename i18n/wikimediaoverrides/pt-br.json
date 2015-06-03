@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Ajude-me a escolher)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]"
+	"wikimedia-createacct-imgcaptcha-help": "Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]",
+	"wikimedia-privacypage": "m:Privacy page/pt-br"
 }

@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(bantu saya memilih)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]"
+	"wikimedia-createacct-imgcaptcha-help": "Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]",
+	"wikimedia-privacypage": "m:Privacy_policy/id"
 }

@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alirezaaa"
+			"Alirezaaa",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]",
-	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست حساب کاربری]] کنید"
+	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست حساب کاربری]] کنید",
+	"wikimedia-privacypage": "m:Privacy_policy/fa"
 }

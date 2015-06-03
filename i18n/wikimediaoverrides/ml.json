@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(തിരഞ്ഞെടുക്കാൻ സഹായിക്കുക)]]",
-	"wikimedia-createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]"
+	"wikimedia-createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]",
+	"wikimedia-privacypage": "m:Privacy policy/ml"
 }

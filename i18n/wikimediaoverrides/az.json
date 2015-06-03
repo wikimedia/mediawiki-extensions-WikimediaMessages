@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wertuose"
+			"Wertuose",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]"
+	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
+	"wikimedia-privacypage": "m:Privacy policy/az"
 }

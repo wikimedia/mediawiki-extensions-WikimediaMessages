@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]"
+	"wikimedia-createacct-imgcaptcha-help": "Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]",
+	"wikimedia-privacypage": "m:Privacy policy/vi"
 }

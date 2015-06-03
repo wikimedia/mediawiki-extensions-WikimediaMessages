@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]"
+	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
+	"wikimedia-privacypage": "m:Privacy policy/lb"
 }

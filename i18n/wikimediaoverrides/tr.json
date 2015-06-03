@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]"
+	"wikimedia-createacct-imgcaptcha-help": "Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]",
+	"wikimedia-privacypage": "m:Privacy_policy/tr"
 }

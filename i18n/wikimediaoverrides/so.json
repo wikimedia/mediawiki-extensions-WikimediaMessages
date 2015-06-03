@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abshirdheere"
+			"Abshirdheere",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(i caawi dooro)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]",
+	"wikimedia-privacypage": "m:Privacy policy/so"
 }

@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aftab1995"
+			"Aftab1995",
+			"Aftabuzzaman",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(বাছাই করতে আমাকে সাহায্য করুন)]]",
-	"wikimedia-createacct-imgcaptcha-help": "ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]] করুন"
+	"wikimedia-createacct-imgcaptcha-help": "ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]] করুন",
+	"wikimedia-privacypage": "m:Privacy policy/bn"
 }

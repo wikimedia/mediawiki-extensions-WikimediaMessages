@@ -1,3 +1,9 @@
 {
-	"wikimedia-createacct-imgcaptcha-help": "בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]"
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
+	"wikimedia-createacct-imgcaptcha-help": "בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]",
+	"wikimedia-privacypage": "m:Privacy policy/yi"
 }

@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(선택 방법을 알려주세요)]]",
-	"wikimedia-createacct-imgcaptcha-help": "그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]"
+	"wikimedia-createacct-imgcaptcha-help": "그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]",
+	"wikimedia-privacypage": "m:Privacy page/ko"
 }
