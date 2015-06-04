@@ -44,6 +44,7 @@ $wgHooks['MinervaPreRender'][] = 'WikimediaMessagesHooks::onMinervaPreRender';
 $wgHooks['UploadForm:initial'][] = 'WikimediaMessagesHooks::onUploadFormInitial';
 
 $wgResourceModules['ext.wikimediamessages.contactpage.affcomusergroup'] = array(
+	'position' => 'top',
 	'localBasePath' => __DIR__ . '/modules',
 	'remoteExtPath' => 'WikimediaMessages/modules',
 	'styles' => 'ext.wikimediamessages.contactpage.affcomusergroup.css',
