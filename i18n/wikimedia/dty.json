@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"जनक राज भट्ट"
+			"जनक राज भट्ट",
+			"रमेश सिंह बोहरा"
 		]
 	},
+	"sitesupport": "दान (दक्षिना,चन्दा)",
+	"tooltip-n-sitesupport": "हमलाई समर्थन अरिदिय",
 	"wikimedia-developers": "विकासकर्ताहरू"
 }
