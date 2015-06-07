@@ -120,5 +120,6 @@
 	"extdist-branch-REL1_25": "1.25 (siste stabile MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Retningsliner for brukarnamn",
 	"createacct-captcha-help-url": "{{ns:Project}}:Be om ein konto",
-	"wikimedia-developers": "Utviklarar"
+	"wikimedia-developers": "Utviklarar",
+	"wikimedia-centralauth-contribs-locked": "Denne kontoen er låst globalt.\nSjå [[m:Special:CentralAuth/$1|globale kontodetaljar]] for meir informasjon."
 }
