@@ -205,7 +205,7 @@
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]",
 	"mwoauth-grant-checkuser": "체크유저 데이터에 접근",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\"을 클릭하면 [//wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
-	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-submit}}\"을 클릭하면 [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\"을 클릭하면 [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
 	"wikimedia-flow-terms-of-use-edit": "바뀐 내용을 저장하면 [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
 	"wikimediashoplink-linktext": "위키미디어 상점",
 	"wikimediashoplink-link-tooltip": "위키미디어 상점으로 방문",
