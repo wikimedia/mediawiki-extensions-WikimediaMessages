@@ -73,7 +73,7 @@
 	"group-import": "Emportöre",
 	"group-import-member": "{{GENDER:$1|Emportör|Emportörėn|Emportör|Emportörėn|Emportör}}",
 	"grouppage-import": "{{ns:project}}:Emportör",
-	"group-inactive": "Metmaacher, die nix donn",
+	"group-inactive": "Metmaacher, di nix donn",
 	"group-inactive-member": "{{GENDER:$1|Metmaacher, dä nix deiht|Metmaacheren, di nix deiht|Metmaacher, dä nix deiht|Metmaacheren, di nix deiht|Metmaacher, dä nix deiht}}",
 	"grouppage-inactive": "{{ns:project}}:{{int:group-inactive}}",
 	"group-interface-editor": "Engerfäjßbeärbeider",
