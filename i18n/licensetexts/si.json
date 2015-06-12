@@ -80,7 +80,7 @@
 	"wm-license-lgpl-wiki-link": "w:si:LGPL",
 	"wm-license-licensing-update-text": "GFDL [[{{int:wm-license-licensing-update-wiki-link}}|බලපත්‍ර යාවත්කාල කෙරුම]]හි කොටසක් ලෙස මෙම ගොනුවට බලපත්‍ර ටැගය එක් කෙරිනි.",
 	"wm-license-original-upload-log": "ප්‍රකෘති පැටවුම් ලොගය",
-	"wm-license-own-work": "උඩුගතකරන්නාගේ ස්වකීය නිර්මාණයකි",
+	"wm-license-own-work": "ස්වයං නිර්මාණයකි",
 	"wm-license-pd-author-self-text": "මම, මෙම කාර්යයේ ප්‍රතිරූපණ අයිති හිමිකරු, මෙම කාර්යය '''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' වෙත නිදහස් කරමි. මෙය ලෝක ව්‍යාප්තව අදාළ වේ.",
 	"wm-license-pd-author-with-author-text": "මෙම කාර්යය එහි කර්තෘ, '''$1''', විසින් '''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' වෙත නිදහස් කර ඇත. එය ලෝක ව්‍යාප්තව අදාළ වේ.",
 	"wm-license-pd-author-not-legally-possible": "සමහර රටවල මෙය අනීතික විය හැකිය. එසේ වුවහොත්;",
@@ -90,5 +90,5 @@
 	"wm-license-self-one-license-with-author": "මෙම කෘතියෙහි හිමිකම් අයිතීන් දරන්නා වන $1 නමැති මම,  පහත වරපත යටතේ එය ප්‍රකාශයට පත් කරමි:",
 	"wm-license-self-multiple-licenses": "I, මෙම කාර්යයේ ප්‍රකාශන අයිතිය දරන්නා,පහත බලපත්‍රය යටතේ එය ප්‍රකාශයට පත් කරනු ලබයි:",
 	"wm-license-self-multiple-licenses-with-author": "$1, මෙම කාර්යයේ ප්‍රකාශන අයිතිය දරන්නා,පහත බලපත්‍රය යටතේ එය ප්‍රකාශයට පත් කරනු ලබයි:",
-	"wm-license-self-multiple-licenses-select": "ඔබට අභිමත වරපත ඔබ විසින් තෝරාගත හැක."
+	"wm-license-self-multiple-licenses-select": "ඔබට අභිමත වරපත තෝරාගත හැක."
 }

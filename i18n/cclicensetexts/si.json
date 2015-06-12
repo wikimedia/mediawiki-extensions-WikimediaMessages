@@ -12,7 +12,7 @@
 			"බිඟුවා"
 		]
 	},
-	"wm-license-cc-attribution": "ආරෝපණය",
+	"wm-license-cc-attribution": "Attribution",
 	"wm-license-cc-by-1.0-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [//creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] බලපත්‍රය යටතේ අවසර ලබා ඇත.",
 	"wm-license-cc-by-1.0-fi-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [//creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] බලපත්‍රය යටතේ අවසර ලබා ඇත.",
 	"wm-license-cc-by-1.0-il-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|උත්පාදක සාර්වයන්]] [//creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] වරපත යටතේ අවසර ලබා ඇත.",
@@ -154,7 +154,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|උත්පාදක සාර්වයන්]] [//creativecommons.org/licenses/by-sa/2.5/si/ Attribution-Share Alike 2.5 Slovenia] වරපත යටතේ අවසර ලබා ඇත.",
 	"wm-license-cc-by-sa-2.5-tw-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|උත්පාදක සාර්වයන්]] [//creativecommons.org/licenses/by-sa/2.5/tw/ Attribution-Share Alike 2.5 Taiwan] වරපත යටතේ අවසර ලබා ඇත.",
 	"wm-license-cc-by-sa-2.5-za-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|උත්පාදක සාර්වයන්]] [//creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share Alike 2.5 South Africa] වරපත යටතේ අවසර ලබා ඇත.",
-	"wm-license-cc-by-sa-3.0-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|නිර්මාණශීලී පොදුවූවන්]] [//creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] බලපත්‍රය යටතේ අවසර ලබා ඇත.",
+	"wm-license-cc-by-sa-3.0-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|ක්‍රියේටිව් කොමන්ස්]] [//creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] වරපත යටතේ අවසර ලබා ඇත.",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [//creativecommons.org/licenses/by-sa/3.0/ 3.0 Unported], [//creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], [//creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] සහ [//creativecommons.org/licenses/by-sa/1.0/ 1.0 Generic] යටතේ ලියාපදිංචි කර ඇත.",
 	"wm-license-cc-by-sa-3.0-at-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|උත්පාදක සාර්වයන්]] [//creativecommons.org/licenses/by-sa/3.0/at/ Attribution-Share Alike 3.0 Austria] වරපත යටතේ අවසර ලබා ඇත.",
 	"wm-license-cc-by-sa-3.0-au-text": "මෙම ගොනුව [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] යටතේ ලියාපදිංචි කොට ඇත [//creativecommons.org/licenses/by-sa/3.0/au/ Attribution-Share Alike 3.0 Australia].",
@@ -195,10 +195,10 @@
 	"wm-license-cc-free-to-share-text": "කාර්යය පිටපත් කිරීමට,බෙදා හැරීමට සහ සම්ප්‍රේෂණය කිරීමට",
 	"wm-license-cc-free-to-remix-header": "නැවත සංකලනය කිරීමට",
 	"wm-license-cc-free-to-remix-text": "කාර්යයට අනුවර්තනය වීමට",
-	"wm-license-cc-conditions": "පහත කොන්දේසි යටතේ:",
-	"wm-license-cc-conditions-attribution-header": "ආරෝපණය",
+	"wm-license-cc-conditions": "පහත කොන්දේසිවලට යටත්ව:",
+	"wm-license-cc-conditions-attribution-header": "attribution",
 	"wm-license-cc-conditions-attribution-text": "කතෘ හෝ බලපත්‍රදායකයා නිරූපනය කර ඇති ආකාරයට ඔබ විසින් කාර්යය ආරෝපණය කළ යුතුයි.(නමුත් ඔබ හෝ කාර්යයයේදී ඔබේ භාවිතය ඔවුන් විසින් අනුමත කරන බව හඟවන කිසිම ආකාරයකින් නොවේ.)",
-	"wm-license-cc-conditions-share_alike-header": "සමානව බෙදාහදා ගැනීම",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
 	"wm-license-cc-conditions-share_alike-text": "ඔබ වෙනස් කිරීම,පරිණාමනය කිරීම හෝ මෙම කාර්යය මත ගොඩනැගීම සිදු කරයි නම්,ඔබ ඵලිත කාර්යය බෙදා හරිනු ලබන්නේ මෙයට සමාන වූ බලපත්‍රයක් යටතේය.",
 	"wm-license-cc-pd-mark-text": "මෙම ගොනුව ප්‍රතිරූපණ හිමිකම් අයිතියෙන්, වෙනත් සියළුම ආශ්‍රිත හෝ ආසන්න අයිතියන් ඇතුළුව,  දන්නා සියළු සීමා කිරීම්වලින් නිදහස් බව හඳුනාගෙන ඇත."
 }
