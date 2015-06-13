@@ -116,7 +116,13 @@
 	"grouppage-translationadmin": "{{ns:project}}:T'ikrana kamachiq",
 	"wikimedia-copyright": "Kay qillqataqa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> nisqapi ch'uyanchasqa saqillaykamam chaskinki;\nyapasqa phatakunachá kanqaku.\n<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/qu\">Llamk'apuypaq phatakuna</a> p'anqapi qhaway astawan willasunaykipaq.",
 	"wikimedia-copyrightwarning": "Hukchasqaykikunata waqaychaspaykiqa, [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use kuspay phatakuna] nisqaman arí ninkim. Llamk'asqaykikunata mana kutinalla [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] nisqa saqillayman, [https://www.gnu.org/copyleft/fdl.html GFDL] nisqa saqillaymanpas saqimpunki.\nArí ninki, llikapi tiyaypura t'inki icha URL aypalla t'iktuymi kay Creative Commons nisqa saqillaykama.",
+	"wikibase-sitelinks-wikinews": "Wikiwillay",
+	"wikibase-sitelinks-wikiquote": "Wikirimasqa",
+	"wikibase-sitelinks-wikisource": "Wikipukyu",
+	"wikibase-sitelinks-wikivoyage": "Wikipuriy",
 	"cant-delete-main-page": "Qhapaq p'anqataqa manam qulluyta icha astayta atinkichu.",
 	"wikimedia-developers": "Kururachiqkuna",
+	"wikimedia-globalblocking-ipblocked": "'''IP imamaytaykiqa [[m:Special:MyLanguage/Global blocks|tukuy wikikunapi hark'asqam]].'''\n\nHark'arqasunki $1 ($2).\nHark'arqasunki kayrayku: ''$3''.\n\n* Hark'aypa qallariynin: $4\n* Hark'aypa puchukaynin: $5\n\nKunan IP imamaytayki: $6.\nImatapas tapuspaykiqa, chay tukuy nisqakunamanta willay.\n\nKayqa pantasqa kaymanta iñispaykiqa, [[m:Special:MyLanguage/No open proxies|kichasqa proksi ama kachunchu]] nisqa pachantin kawpay nisqapi astawan ñawiriyta atinki.\nMana hinaptinqa, [[m:Steward requests/Global|kutin rikuna mañakuyta Meta-Wiki nisqaman churayta]] atinki hark'asqamanta rimanakunaykipaq.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Mañakuyniykipi llamk'achisqa huk icha aswan proksi sirwiqqa [[m:Special:MyLanguage/Global blocks|tukuy wikikunapi hark'asqam]].'''\n\nHark'arqasunki $1 ($2).\nHark'arqasunki kayrayku: ''$3''.\n\n* Hark'aypa qallariynin: $4\n* Hark'aypa puchukaynin: $5\n\nKunan IP imamaytayki: $6.\nImatapas tapuspaykiqa, chay tukuy nisqakunamanta willay.\n\nKayqa pantasqa kaymanta iñispaykiqa, [[m:Special:MyLanguage/No open proxies|kichasqa proksi ama kachunchu]] nisqa pachantin kawpay nisqapi astawan ñawiriyta atinki.\nMana hinaptinqa, [[m:Steward requests/Global|kutin rikuna mañakuyta Meta-Wiki nisqaman churayta]] atinki hark'asqamanta rimanakunaykipaq.",
 	"interlanguage-link-sitename-wikipedia": "Wikipidiya, qispi insiklupidiya"
 }

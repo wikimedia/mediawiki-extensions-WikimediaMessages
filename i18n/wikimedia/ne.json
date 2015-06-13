@@ -4,7 +4,8 @@
 			"Bhawani Gautam",
 			"सरोज कुमार ढकाल",
 			"बिप्लब आनन्द",
-			"NehalDaveND"
+			"NehalDaveND",
+			"राम प्रसाद जोशी"
 		]
 	},
 	"sitesupport": "चन्दा",
@@ -22,10 +23,10 @@
 	"group-editprotected": "सुरक्षित पृष्ठ सम्पादकहरु",
 	"group-eliminator": "हटाउनेहरु",
 	"group-filemover": "फाइल सार्नेहरु",
-	"group-flood": "बोट प्रयोगकर्ताहरु",
+	"group-flood": "बोट प्रयोगकर्ताहरू",
 	"group-founder": "संस्थापकहरु",
 	"group-import": "आयातकर्ताहरु",
-	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरु",
+	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरू",
 	"group-inactive-member": "{{GENDER:$1|निस्क्रिय प्रयोगकर्ता}}",
 	"group-interface-editor": "अन्तरमोहडा सम्पादकहरु",
 	"group-ipblock-exempt": "IP रोक माफीहरु",
@@ -33,7 +34,7 @@
 	"group-researcher": "खोजकर्ताहरु",
 	"group-rollbacker": "पूर्वरुपमा फर्काउनेहरु",
 	"group-transwiki": "ट्रान्स विकि आयातकर्ताहरु",
-	"group-trusted": "विश्वसनीय प्रयोगकर्ताहरु",
+	"group-trusted": "विश्वसनीय प्रयोगकर्ताहरू",
 	"group-coder": "कोडलेख्ने व्यक्तिहरु",
 	"group-coder-member": "कोडलेख्ने व्यक्ति",
 	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रिएटिव कमन्स ऐट्रिब्युसन/शेयर-अलाइक लाइसेन्स</a>अन्तर्गत उपलब्ध छ; अतिरिक्त शर्तहरू लागू हुन सक्छ।\nअधिक जानकारीको लागि <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोगको शर्तहरू</a> हेर्नुहोला।",
