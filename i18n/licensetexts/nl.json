@@ -8,7 +8,8 @@
 			"Romaine",
 			"SPQRobin",
 			"Siebrand",
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Hansmuller"
 		]
 	},
 	"wikimedialicensetexts-desc": "Wikimedia licentieberichten",
@@ -30,8 +31,8 @@
 	"wm-license-book-editor": "Bewerker",
 	"wm-license-book-illustrator": "Illustrator",
 	"wm-license-book-language": "Taal",
-	"wm-license-book-page-overview": "Pagina-overzicht",
-	"wm-license-book-place-of-publication": "Plaats van uitgifte",
+	"wm-license-book-page-overview": "Pagina's",
+	"wm-license-book-place-of-publication": "Plaats van uitgave",
 	"wm-license-book-printer": "Drukker",
 	"wm-license-book-publisher": "Uitgever",
 	"wm-license-book-series-title": "Serietitel",
@@ -40,7 +41,7 @@
 	"wm-license-book-title": "Titel",
 	"wm-license-book-translator": "Vertaler",
 	"wm-license-book-volume": "Deel",
-	"wm-license-book-year-of-publication": "Jaar van uitgifte",
+	"wm-license-book-year-of-publication": "Jaar van uitgave",
 	"wm-license-cecill-text": "Dit werk is [[{{int:wm-license-free-software-wiki-link}}|vrije software]]; u mag het heruitgeven of wijzigen onder de voorwaarden van de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]].\nDe voorwaarden van de CeCILL-licentie zijn beschikbaar op [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	"wm-license-cecill-wiki-link": "w:nl:CeCILL",
 	"wm-license-creator-alternative-names": "Aliassen",
