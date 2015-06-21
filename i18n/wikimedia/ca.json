@@ -53,7 +53,7 @@
 	"group-arbcom": "Membres del comitè d'arbitratge",
 	"group-arbcom-member": "membre del comitè d'arbitratge",
 	"grouppage-arbcom": "{{ns:project}}:Membres del comitè d'arbitratge",
-	"group-autopatrolled": "Autopatrulladors",
+	"group-autopatrolled": "Autopatrullats",
 	"group-autopatrolled-member": "{{GENDER:$1|autopatrullat|autopatrullada}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Usuaris autopatrullats",
 	"group-autoreviewer": "Autorevisadors",

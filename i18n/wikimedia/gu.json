@@ -62,7 +62,7 @@
 	"grouppage-editprotected": "{{ns:project}}:પરિયોજના પૃષ્ઠ સંપાદકો",
 	"group-eliminator": "નાશકો",
 	"group-eliminator-member": "{{GENDER:$1|નાશક}}",
-	"grouppage-eliminator": "{{ns:project}}:નાશકો",
+	"grouppage-eliminator": "{{ns:project}}:ખસેડનારાઓ",
 	"group-filemover": "ફાઈલ હટાવનારા",
 	"group-filemover-member": "{{GENDER:$1|ફાઈલ હટાવનાર }}",
 	"grouppage-filemover": "{{ns:project}}:ફાઈલ હટાવનારા",

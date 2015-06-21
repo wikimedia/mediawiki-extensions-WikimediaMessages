@@ -6,9 +6,13 @@
 	},
 	"sitesupport": "کمک مالی",
 	"tooltip-n-sitesupport": "حمایت زه ایما",
+	"wikimedia-copyright": "ای متن ور دستتون وابی وا<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;شرطل اضافی ممکنه اعمال وابن.بینیت <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> سی دونسمنیا اضافی.",
+	"wikimedia-copyrightwarning": "با ضبط کردن تغییرل،ایشا موافق وابویت وا [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use].و ایشا جبران ناشدنی موافق با انتشار سهم خوتون دومن [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] هیسیت.\nایشا موافقید که یه هایپرلینک یا URL سندل کافی دومن مجوز Creative Commons هیسن.",
 	"wikibase-sitelinks-wikinews": "ویکی خه ور",
 	"wikibase-sitelinks-wikiquote": "ویکی گوتاورد",
 	"wikibase-sitelinks-wikisource": "ویکی سرچشمه",
 	"wikibase-sitelinks-wikivoyage": "ویکی سفر",
-	"wikimedia-developers": "توسعه دیآنده یل"
+	"wikimedia-developers": "توسعه دیآنده یل",
+	"wikimedia-globalblocking-ipblocked": "'''آدرس آی پی ایشا [[m:Special:MyLanguage/Global blocks|مئنه ویکی یل بسه وابیه]].'''\n\nبسه وابیده توسط $1 ($2).\nدلیل داده بیه هی \"$3\".\n\n* شروع بسه بیدن: $4 \n* مدت زمان بسه بیدن: $5\n\nآدرس آی پی جاری ایشا هی $6\nلطفا کل ای اصلاعاتنه مئنه هر نمایشی که درست ایکنیت قرار بیتو.\n\nار فکر ایکنیت که اشتباه بسه بیتو،ایترید اصلاعات اضافی و دستورالعملنه مئنه سیاست بین المللی [[m:Special:MyLanguage/No open proxies|No open proxies]] بینیتو.\nوگرنه، سی بحث راجع به بسه بیدن لطفا [[m:Steward requests/Global|یه پست سی تجدید نظر ری ویکی مدیو بنیت ]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''یه سرور پروکسی یا هنی که د طریق درخواست ایشا استفاده بیدن [[m:Special:MyLanguage/Global blocks|د سطح بین المللی بسه بیدن]].'''\n\nبسه بیدیته توسط $1 ($2).\nدلیل داده بیه هی \"$3\".\n\n* شروع بسه بیدن: $4 \n* مدت زمان بسه بیدن: $5\n\nآدرس پروکسی بسه بیده هی $6.\nلطفا کل ای اصلاعاتنه مئنه هر نمایشی که درست ایکنیت قرار بیتو.\n\nار فکر ایکنیت که اشتباه بسه بیتو،ایترید اصلاعات اضافی و دستورالعملنه مئنه سیاست بین المللی [[m:Special:MyLanguage/No open proxies|No open proxies]] بینیتو.\nوگرنه، سی بحث راجع به بسه بیدن لطفا [[m:Steward requests/Global|یه پست سی تجدید نظر ری ویکی مدیو بنیت ]]."
 }

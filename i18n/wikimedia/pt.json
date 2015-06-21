@@ -80,6 +80,7 @@
 	"group-filemover": "Deslocadores de ficheiros",
 	"group-filemover-member": "{{GENDER:$1|deslocador de ficheiros|deslocadora de ficheiros}}",
 	"grouppage-filemover": "{{ns:project}}:Deslocadores de ficheiros",
+	"group-mover-member": "{{GENDER:$1|mover}}",
 	"group-flood": "Utilizadores robô",
 	"group-flood-member": "{{GENDER:$1|utilizador robô|utilizadora robô}}",
 	"grouppage-flood": "{{ns:project}}:Utilizadores robô",

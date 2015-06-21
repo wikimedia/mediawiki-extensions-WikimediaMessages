@@ -3,7 +3,8 @@
 		"authors": [
 			"Chinneeb",
 			"לערי ריינהארט",
-			"Wisdom"
+			"Wisdom",
+			"Sembuk"
 		]
 	},
 	"sitesupport": "Хандив",
@@ -19,6 +20,7 @@
 	"group-steward-member": "үйлчлэгч",
 	"grouppage-steward": "m:Stewards",
 	"wikibase-sitelinks-wikinews": "Энэ зүйлтэй холбоотой Wikinews -ын хуудас",
+	"wikimedia-developers": "Хөгжүүлэгчид",
 	"right-superprotect": "Super protection төвшинг өөрчлөх",
 	"protect-level-superprotect": "Superprotect -тэй хэрэглэгчидыг зөвшөөрөх",
 	"restriction-level-superprotect": "super protect хийх"

@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "تخصیص",
+	"wm-license-cc-by-sa-3.0-text": "ای فایل دومن اجازه نومه [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] مجوز داده بیه.",
 	"wm-license-cc-free": "ایشا آزاد هیسیت",
 	"wm-license-cc-free-to-share-header": "سی اشتراک گذاری",
 	"wm-license-cc-free-to-share-text": "سی کپی، توزیع و انتقال اثر",
@@ -12,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "سی انطباق اثر",
 	"wm-license-cc-conditions": "تحت شرایط دومن:",
 	"wm-license-cc-conditions-attribution-header": "هومیاری",
-	"wm-license-cc-conditions-share_alike-header": "سهم مساوی"
+	"wm-license-cc-conditions-attribution-text": "ایشا واسی اثرنه وه نحوی مشخص شده توسط مولف یا مجوزدهنده نسبت دهید(ولی نه وه نحوی که وانمود وابی که هونو ایشانه یا استفاده د ایشانه حمایت ایکنن).",
+	"wm-license-cc-conditions-share_alike-header": "سهم مساوی",
+	"wm-license-cc-conditions-share_alike-text": "ار ایشا تغییر،تبدیل،یا درست کردن ور پایه ای کار ایکنید، ایشا ایترید اثر به دست آمدنه تنها دومن مجوز یکسان یا مشابه وا ای توزیع کنیت."
 }

@@ -7,12 +7,13 @@
 			"Nemo bis",
 			"Y-M D",
 			"לערי ריינהארט",
-			"Gwenn-Ael"
+			"Gwenn-Ael",
+			"Pymouss"
 		]
 	},
 	"wikimediamessages-desc": "Kemennoù dibar Wikimedia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=br",
-	"sitesupport": "Roadoù",
+	"sitesupport": "Reiñ",
 	"tooltip-n-sitesupport": "Harpit ac'hanomp",
 	"specialpages-group-contribution": "Degasadenn/Dastum moneiz",
 	"nstab-creator": "Krouer",
@@ -124,6 +125,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikibeaj",
 	"cant-delete-main-page": "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 	"wikimedia-developers": "Diorroerien",
+	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|Stanket war an holl wikis]] e vez ho chomlec'h IP.'''\n\nAr stankadur a oa graet gant $1 ($2).\nAn abeg eo ''$3''.\n\n* Deroù ar stankadur: $4\n* Dibenn ar stankadur: $5\n\nHo chomlec'h IP zo $6.\n\nPlease include all above details in any queries you make.\n\nMa soñjit e oa ur fazi ho stankadur, gallout a rit kavout muioc'h a titouroù war ar bajenn «[[m:Special:MyLanguage/No open proxies|No open proxies global policy]]».\nMod-all, red eo deoc'h [[m:Steward requests/Global|post ur goulenn war Meta-Wiki]] evit kaozeal diwar benn ho stankadur.",
 	"wikimediashoplink-linktext": "Stal Wikimédia",
 	"wikimediashoplink-link-tooltip": "Gweladennit ar stal Wikimedia",
 	"interlanguage-link-mul": "Muioc'h a yezhoù"
