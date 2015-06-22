@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Babanwalia"
+			"Babanwalia",
+			"Satdeep gill"
 		]
 	},
 	"wm-license-information-description": "ਵੇਰਵਾ",
@@ -9,6 +10,7 @@
 	"wm-license-information-date": "ਤਰੀਕ",
 	"wm-license-information-author": "ਲਿਖਾਰੀ",
 	"wm-license-information-permission": "ਇਜਾਜ਼ਤ",
+	"wm-license-information-permission-reusing-text": "ਇਸ ਫ਼ਾਈਲ ਦੀ ਮੁੜਵਰਤੋਂ ਕਰੋ",
 	"wm-license-own-work": "ਆਪਣਾ ਕੰਮ",
 	"wm-license-self-multiple-licenses-select": "ਤੁਸੀਂ ਆਪਣੀ ਮਰਜ਼ੀ ਦਾ ਲਸੰਸ ਚੁਣ ਸਕਦੇ ਹੋ।"
 }
