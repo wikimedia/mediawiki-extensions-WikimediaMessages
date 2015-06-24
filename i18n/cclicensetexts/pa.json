@@ -2,13 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Babanwalia",
-			"TariButtar"
+			"TariButtar",
+			"Satdeep gill"
 		]
 	},
 	"wm-license-cc-attribution": "ਗੁਣਾਂ ਦੀ ਦੱਸ",
+	"wm-license-cc-by-sa-3.0-text": "ਇਸ ਫ਼ਾਈਲ ਦਾ ਲਸੰਸ [{{int:wm-license-cc-wiki-link}}|ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼]] [//creativecommons.org/licenses/by-sa/3.0/deed.en ਐਟ੍ਰੀਬਿਊਸ਼ਨ-ਸ਼ੇਅਰ ਅਲਾਈਕ 3.0 ਅਨਪੋਰਟੇਡ] ਹੈ।",
 	"wm-license-cc-free": "ਤੁਹਾਨੂੰ ਖੁੱਲ੍ਹ ਹੈ:",
 	"wm-license-cc-free-to-share-header": "ਸਾਂਝਾ ਕਰਨ ਦੀ",
+	"wm-license-cc-free-to-share-text": "ਰਚਨਾ ਨੂੰ ਕਾਪੀ, ਵੰਡਣਾ ਅਤੇ ਭੇਜਣਾ",
 	"wm-license-cc-free-to-remix-header": "ਮੁੜ-ਰਲ਼ਾਉਣ ਦੀ",
+	"wm-license-cc-free-to-remix-text": "ਰਚਨਾ ਨੂੰ ਢਾਲਣਾ",
 	"wm-license-cc-conditions": "ਥੱਲੇ ਲਿਖੀਆਂ ਸ਼ਰਤਾਂ ਹੇਠ:",
-	"wm-license-cc-conditions-attribution-header": "ਗੁਣਾਂ ਦੀ ਦੱਸ"
+	"wm-license-cc-conditions-attribution-header": "ਗੁਣਾਂ ਦੀ ਦੱਸ",
+	"wm-license-cc-conditions-attribution-text": "ਇਸ ਰਚਨਾ ਦਾ ਲਸੰਸ ਦੇ ਇਸਦੇ ਲੇਖਕ ਮੁਤਾਬਕ ਹੀ ਰੱਖੋ (ਪਰ ਅਜਿਹੇ ਅੰਦਾਜ਼ ਵਿੱਚ ਨਹੀਂ, ਜਿਸ ਤੋਂ ਲੱਗੇ ਕਿ ਉਹ ਤੁਹਾਡੇ ਦੁਆਰਾ ਉਹਨਾਂ ਦੀ ਰਚਨਾ ਦੀ ਵਰਤੋਂ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਨ)",
+	"wm-license-cc-conditions-share_alike-header": "ਸ਼ੇਅਰ ਅਲਾਈਕ",
+	"wm-license-cc-conditions-share_alike-text": "ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਰਚਨਾ ਨੂੰ ਬਦਲਦੇ ਹੋ ਜਾਂ ਫ਼ਿਰ ਇਸ ਰਚਨਾ ਉੱਤੇ ਹੀ ਨਵੀਂ ਰਚਨਾ ਉਸਾਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਸਿੱਟੇ ਵਜੇਂ ਪੈਦਾ ਹੋਈ ਰਚਨਾ ਨੂੰ ਪਹਿਲੀ ਰਚਨਾ ਵਾਲੇ ਲਸੰਸ ਜਾਂ ਉਸ ਵਰਗੇ ਲਸੰਸ ਅਧੀਨ ਹੀ ਵੰਡ ਸਕਦੇ ਹੋ।"
 }
