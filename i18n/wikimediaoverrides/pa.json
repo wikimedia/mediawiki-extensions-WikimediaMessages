@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Satdeep gill"
 		]
 	},
-	"wikimedia-privacypage": "m:Privacy_policy/pa"
+	"wikimedia-privacypage": "wmf:Special:MyLanguage/Privacy_policy/pa"
 }

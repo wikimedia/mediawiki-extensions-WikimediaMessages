@@ -1,4 +1,10 @@
 {
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]",
+	"wikimedia-privacypage": "m:Privacy policy/be-tarask"
 }

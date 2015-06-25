@@ -1,4 +1,11 @@
 {
-	"@metadata": [],
-	"sitesupport": "Kià-hù"
+	"@metadata": {
+		"authors": [
+			"Ianbu"
+		]
+	},
+	"sitesupport": "Kià-hù",
+	"tooltip-n-sitesupport": "共阮鬥相共",
+	"wikimedia-copyright": "照下跤的規定就通用<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\n其他詳細的條文請看<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a>。",
+	"wikimedia-developers": "開發的儂"
 }
