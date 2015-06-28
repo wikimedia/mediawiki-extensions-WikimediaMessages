@@ -14,7 +14,8 @@
 			"ElangoRamanujam",
 			"AntanO",
 			"Jayarathina",
-			"கலைவாணன்"
+			"கலைவாணன்",
+			"Dineshkumar Ponnusamy"
 		]
 	},
 	"wikimediamessages-desc": "விக்கிமீடியாவிற்கான தகவல்கள்",
@@ -118,6 +119,7 @@
 	"group-translationadmin": "மொழிபெயர்ப்பு நிருவாகிகள்",
 	"group-translationadmin-member": "{{GENDER:$1|மொழிபெயர்ப்பு நிர்வாகி}}",
 	"grouppage-translationadmin": "{{ns:project}}:மொழிபெயர்ப்பு நிர்வாகிகள்",
+	"wikimedia-copyright": "அனைத்து பக்கங்களும்  <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">படைப்பாக்கப் பொதுமங்கள்</a> அனுமதியுடன் பகிரப்பட்டுள்ளது; மேலதிக  <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">நிபந்தனைகளுக்கு</a> உட்படலாம்.",
 	"wikimedia-copyrightwarning": "இம்மாற்றங்களை சேமிப்பதன் மூலம், நீங்கள் [https://wikimediafoundation.org/wiki/Terms_of_Use பயன்பாட்டு விதிமுறைகளை] ஏற்கின்றீர்கள். மேலும் உங்கள் ஆக்கங்களை இனி மாற்ற இயலா வகையில் [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] மற்றும் [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ஆகிய உரிமத்தில் வெளியிடுகின்றீர்கள்.\n\nநீங்கள் ஒரு மீயிணைப்பு அல்லது உரலி தருவது மட்டுமே கிரியேட்டிவ் காமன்ஸ் உரிமத்தின் கீழ் போதுமானது என்பதை ஏற்கின்றீர்கள்.",
 	"wikibase-sitelinks-wikinews": "விக்கிசெய்திகள்",
 	"wikibase-sitelinks-wikiquote": "விக்கிமேற்கோள்",
@@ -125,7 +127,7 @@
 	"wikibase-sitelinks-wikivoyage": "விக்கிப்பயணம்",
 	"cant-delete-main-page": "முதன்மைப் பக்கத்தை உங்களால் அழிக்கவோ நகர்த்தவோ இயலாது.",
 	"wikimedia-developers": "உருவாக்குனர்கள்",
-	"wikimedia-flow-terms-of-use-close-topic": "சொடுக்குவதன் மூலம் எங்களது நிபந்தனைகளுக்கும் விதிமுறைகளுக்கும் \n[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] ,உடன்பட்டு உங்களது உரைமூலத்தை \n[//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] மற்றும் [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] கீழ் வெளியிட மாற்றமுடியாத இசைவு தெரிவிக்கிறீர்கள் .",
+	"wikimedia-flow-terms-of-use-lock-topic": "சொடுக்குவதன் மூலம் எங்களது நிபந்தனைகளுக்கும் விதிமுறைகளுக்கும் \n[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] ,உடன்பட்டு உங்களது உரைமூலத்தை \n[//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] மற்றும் [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] கீழ் வெளியிட மாற்றமுடியாத இசைவு தெரிவிக்கிறீர்கள் .",
 	"wikimediashoplink-linktext": "விக்கிமீடியா கடை",
 	"interlanguage-link-mul": "மேலதிக மொழிகள்"
 }

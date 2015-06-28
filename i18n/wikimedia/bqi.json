@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Behdarvandyani"
+			"Behdarvandyani",
+			"Mjbmr"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=bqi",
-	"sitesupport": "کمک مالی",
+	"sitesupport": "اهدای مالی",
 	"tooltip-n-sitesupport": "حمایت زه ایما"
 }

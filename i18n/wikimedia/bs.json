@@ -9,7 +9,8 @@
 			"Smooth O",
 			"לערי ריינהארט",
 			"Nemo bis",
-			"Semso98"
+			"Semso98",
+			"Srdjan m"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -116,5 +117,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-helpusername-url": "Project:Korisničko_ime",
 	"wikimedia-developers": "Razvojni programeri",
-	"wikimedia-globalblocking-ipblocked": "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
+	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa je [[m:Special:MyLanguage/Global blocks|blokirana na svim wiki projektima]].'''\n\nBlokiranje je obavio korisnik $1 ($2).\nNaveden je sljedeći razlog: ''$3''.\n\n* Početak blokade: $4\n* Kraj blokade: $5\n\nVaša trenutna IP adresa je $6.\nZa svaki eventualni zahtjev obavezno navedite podatke iznad.\n\nAko smatrate da ste pogrešno blokirani, više informacija i uputa možete pronaći na stranici [[m:Special:MyLanguage/No open proxies|Zabranjeno korištenje otvorenih proxyja]] globalnih pravila.\nU suprotnom, kako biste raspravljali o blokadi, molimo vas da [[m:Steward requests/Global|postavite zahtjev za provjeru na Meta-Wiki]]."
 }
