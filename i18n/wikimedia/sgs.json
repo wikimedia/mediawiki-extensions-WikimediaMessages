@@ -7,7 +7,9 @@
 	},
 	"sitesupport": "Pagelba",
 	"group-global-bot": "Gluobalūs buotā",
-	"group-global-bot-member": "!!FUZZY!!gluobalus buots",
+	"group-global-bot-member": "gluobalus buots",
 	"group-steward": "Gaspaduorē",
-	"group-sysadmin": "Sėstėmas admėnėstratuorē"
+	"group-sysadmin": "Sėstėmas admėnėstratuorē",
+	"wikimedia-copyright": "Vėskos īr pateikama vagol <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\ngal būtė da ė papėlduomu ėšlīgu.\nVeiziekat <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">nauduojėma sālīgas</a>, ka būtō aiškiau.",
+	"wikimedia-developers": "Dėrbiejē"
 }

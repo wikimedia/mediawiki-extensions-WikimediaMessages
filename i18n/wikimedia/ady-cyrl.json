@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"SmartNart12"
+			"SmartNart12",
+			"TheRossatron"
 		]
 	},
-	"tooltip-n-sitesupport": "Къыдде1"
+	"tooltip-n-sitesupport": "Къыдде1",
+	"wikibase-sitelinks-wikinews": "Викикъэбархэр",
+	"wikibase-sitelinks-wikiquote": "Викигущы1эжъ",
+	"wikibase-sitelinks-wikisource": "Викихъарзынэщ",
+	"wikibase-sitelinks-wikivoyage": "Викигъуазэ"
 }
