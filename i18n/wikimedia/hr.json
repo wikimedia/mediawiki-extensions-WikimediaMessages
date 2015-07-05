@@ -11,7 +11,8 @@
 			"SpeedyGonsales",
 			"Nemo bis",
 			"E.coli",
-			"Fraxinus"
+			"Fraxinus",
+			"Teoo3"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -120,5 +121,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"cant-delete-main-page": "Nemate ovlast brisati i/ili premještati glavnu stranicu.",
 	"wikimedia-developers": "Razvojni programeri",
-	"wikimedia-globalblocking-ipblocked": "\"'Vaša IP adresa je [[m:Special:MyLanguage/Global blocks|blokirana na svim wikijima]].\"'\n\nZaključavanje je obavio $1 ($2).\nNaveden je razlog: \"$3\".\n\n* početak blokiranja: $4 \n* kraj blokiranja: $5 \n\nVaša trenutna IP adresa - $6.\nMolimo, omogućite sve detalje u vezi ovoga.\n\nAko mislite da ste blokirani greškom, možete pronaći dodatne informacije i upute na stranici [[m:Special:MyLanguage/No open proxy|Nedopustivosti korištenju open proxy poslužitelja]] globalnih pravila.\nU suprotnom, kako bi razgovarali o zaključavanju, molimo vas da [[m:Steward requests/Global|se obratiteupitom o reviziji na Meta-wiki]]."
+	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa je [[m:Special:MyLanguage/Global blocks|blokirana na svim wikijima]].'''\n\nBlokirao vas je $1 ($2).\nNavedeni razlog je: \"$3\".\n\n* Početak blokiranja: $4 \n* Kraj blokiranja: $5 \n\nVaša trenutna IP adresa je $6.\nMolimo navedite sve gore navedene detalje u Vašim upitima.\n\nAko smatrate da ste blokirani greškom, možete pronaći dodatne informacije i upute na stranici [[m:Special:MyLanguage/No open proxies|Bez otvorenih proxya]] globalnih pravila.\nU suprotnom, kako biste diskutirali o blokiranju, molimo Vas da [[m:Steward requests/Global|se obratite upitom o pregledu na Meta-wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Jedan ili više proxy servera korištenih u Vašim zahtjevima je [[m:Special:MyLanguage/Global blocks|globalno blokiran]].'''\n\nBlokirao vas je $1 ($2).\nNavedeni razlog je ''$3''.\n\n* Početak blokiranja: $4\n* Kraj blokiranja: $5\n\nBlokirana proxy adresa je $6.\nMolimo navedite sve gore navedene detalju u bilo kojim upitima.\n\nAko smatrate da ste greškom blokirani, možete pronaći dodatne informacije i upute na [[m:Special:MyLanguage/No open proxies|Bez globalnih proxya]] globalnoj politici.\n\nU suprotnom, kako biste diskutirali o blokiranju, molimo [[m:Steward requests/Global|objavite zahtjev za pregledom na Meta-Wiki]]."
 }
