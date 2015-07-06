@@ -54,6 +54,7 @@
 	"group-filemover": "Файлийн цӀерш хуьйцурш",
 	"group-filemover-member": "{{GENDER:$1|файлийн цӀерш хуьйцург}}",
 	"grouppage-filemover": "{{ns:project}}:Файлийн цӀерш хуьйцурш",
+	"group-mover-member": "{{GENDER:$1|ког}}",
 	"group-flood": "Декъашхой-боташ",
 	"group-flood-member": "{{GENDER:$1|декъашхо-бот}}",
 	"grouppage-flood": "{{ns:project}}:Декъашхой-боташ",
