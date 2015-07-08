@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lin linao"
+			"Lin linao",
+			"Fiestoforo"
 		]
 	},
-	"sitesupport": "Elungechi"
+	"sitesupport": "Elungechi",
+	"tooltip-n-sitesupport": "Kellumuiñ"
 }
