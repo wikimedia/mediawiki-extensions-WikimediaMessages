@@ -10,5 +10,8 @@
 	"wm-license-information-description": "توضیح",
 	"wm-license-information-source": "منبع",
 	"wm-license-information-date": "تاریخ",
-	"wm-license-information-author": "سازنده"
+	"wm-license-information-author": "سازنده",
+	"wm-license-information-permission": "اجازه‌نومه",
+	"wm-license-information-permission-reusing-text": "این فایل جه دِباره استفاده هاکردن",
+	"wm-license-own-work": "شه کار"
 }
