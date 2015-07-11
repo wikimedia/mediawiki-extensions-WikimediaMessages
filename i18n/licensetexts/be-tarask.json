@@ -4,7 +4,8 @@
 			"EugeneZelenko",
 			"Jim-by",
 			"Wizardist",
-			"Zedlik"
+			"Zedlik",
+			"Red Winged Duck"
 		]
 	},
 	"wikimedialicensetexts-desc": "Ліцэнзійныя паведамленьні фундацыі «Вікімэдыя»",
@@ -47,7 +48,7 @@
 	"wm-license-creator-work-period": "Час працы",
 	"wm-license-creator-work-location": "Месца працы",
 	"wm-license-creator-linkback": "Спасылка на шаблён з інфармацыяй пра аўтара",
-	"wm-license-fal-text": "Копілэфт: Гэта вольны твор мастацтва; Вы можаце яго распаўсюджваць і/альбо зьмяняць яго згодна умоваў '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Умовы гэтай ліцэнзіі Вы можаце знайсьці на сайце [{{int:wm-license-fal-full-link}} Copyleft Attitude], а таксама на іншых сайтах.",
+	"wm-license-fal-text": "Копілэфт: гэта вольны твор мастацтва; Вы можаце яго распаўсюджваць і/альбо зьмяняць яго згодна з умовамі '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Умовы гэтай ліцэнзіі Вы можаце знайсьці на сайце [{{int:wm-license-fal-full-link}} Copyleft Attitude], а таксама на [{{int:wm-license-fal-full-link-commons}} іншых сайтах].",
 	"wm-license-fal-wiki-link": "w:be-x-old:Free Art license",
 	"wm-license-fsf-wiki-link": "w:be-x-old:Фундацыя вольнага праграмнага забесьпячэньня",
 	"wm-license-free-software-wiki-link": "w:be-x-old:Вольнае праграмнае забесьпячэньне",

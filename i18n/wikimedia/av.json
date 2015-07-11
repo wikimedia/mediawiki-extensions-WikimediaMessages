@@ -5,11 +5,13 @@
 		]
 	},
 	"sitesupport": "Садакъа",
+	"tooltip-n-sitesupport": "Нежее кверчӀвай гьабе",
 	"wikibase-sitelinks-wikinews": "Викихарбал",
 	"wikibase-sitelinks-wikiquote": "Викицитата",
 	"wikibase-sitelinks-wikisource": "Викимактаб",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikibase-otherprojects-wikidata": "Викиданныял",
+	"wikimedia-developers": "ГӀуцӀцӀарал чагӀи",
 	"interlanguage-link-mul": "Цогиги мацIал",
 	"interlanguage-link-sitename-wikipedia": "Википедия, эркенаб энциклопедия"
 }
