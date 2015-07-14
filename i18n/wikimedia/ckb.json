@@ -7,7 +7,8 @@
 			"Marmzok",
 			"رزگار",
 			"Broosk",
-			"Nemo bis"
+			"Nemo bis",
+			"Muhammed taha"
 		]
 	},
 	"wikimediamessages-desc": "پەیامە تایبەتەکانی ویکیمیدیا",
@@ -81,6 +82,7 @@
 	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nبۆ وردەکارییەکان <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> ببینە.",
 	"wikimedia-copyrightwarning": "بە پاشەکەوتکردنی گۆڕانکارییەکان، [https://wikimediafoundation.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە بەشدارییەکەت لە ژێر [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License مۆڵەتنامەی CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیتەوە.\nپابەند دەبیت کە URL یان گرێدانێک، دانەپاڵێکی سەرومڕە لە ژێر مۆڵەتنامەی Creative Commonsدا.",
 	"wikibase-repo-name": "ویکیداتا",
+	"wikibase-sitelinks-wikinews": "ویکی هه‌واڵ",
 	"wikibase-sitelinks-wikiquote": "ویکیوتە",
 	"wikibase-sitelinks-wikisource": "ویکیژێدەر",
 	"wikibase-sitelinks-wikivoyage": "ویکیسەفەر",
