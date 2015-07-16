@@ -70,7 +70,7 @@
 	"group-inactive-member": "Përdoruesi joaktiv",
 	"grouppage-inactive": "{{ns:project}}:Përdoruesit joaktiv",
 	"group-interface-editor": "Redaktuesit e shabllonit të faqes të përdoruesit",
-	"group-interface-editor-member": "!!FUZZY!!redaktues ndërfaqesh",
+	"group-interface-editor-member": "redaktues ndërfaqesh",
 	"grouppage-interface-editor": "{{ns:project}}:Redaktuesit e ndërfaqeve",
 	"group-ipblock-exempt": "Përjashtimet për bllokimin e IP-ve",
 	"group-ipblock-exempt-member": "bllokimit-IP e përjashtimuar",
