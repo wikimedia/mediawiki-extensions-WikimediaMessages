@@ -3,10 +3,11 @@
 		"authors": [
 			"Justincheng12345",
 			"Simon Shek",
-			"Cwlin0416"
+			"Cwlin0416",
+			"LNDDYL"
 		]
 	},
-	"wikimediamessages-desc": "維基媒體特定臨時消息",
+	"wikimediamessages-desc": "維基媒體特定臨時訊息",
 	"bug-54847-password-reset-prompt": "由於[[meta:October 2013 private data security issue|維基媒體研究室資料庫隱私問題]]，您先前所使用的密碼可能容易遭受攻擊。 請設定一組新的、不同的密碼以確保您的帳號安全。 對於造成您的不便我們感到抱歉。",
 	"password-recycled": "您輸入的密碼與您帳號的舊密碼相同，請輸入一組不同的新密碼。"
 }
