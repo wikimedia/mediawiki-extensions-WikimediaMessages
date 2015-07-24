@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saimawnkham"
+			"Saimawnkham",
+			"Saosukham"
 		]
 	},
-	"wm-license-cc-free-to-share-header": "တႃႇၽႄၸႂ်ႉ"
+	"wm-license-cc-free": "ၸဝ်ႈၵဝ်ႇထၢင်ႇႁၢင်ႈ",
+	"wm-license-cc-free-to-share-header": "တႃႇၽႄၸႂ်ႉ",
+	"wm-license-cc-free-to-remix-header": "ၶိုၼ်းထႅမ်သႂ်ႇ",
+	"wm-license-cc-free-to-remix-text": "မႄးထွင်ၵၢၼ် ႁႂ်ႈသၢင်ႇထုၵ်ႇ",
+	"wm-license-cc-conditions": "ၸွမ်းၼင်ႇ သၢႆႇငၢႆတီႈတႂ်ႈၼႆႉ",
+	"wm-license-cc-conditions-share_alike-header": "သျေး ဢၼ်မိူၼ်"
 }

@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saimawnkham"
+			"Saimawnkham",
+			"Saosukham"
 		]
 	},
 	"sitesupport": "လူႇတၢၼ်း",
 	"tooltip-n-sitesupport": "ၵမ်ႉထႅမ်ႁဝ်းၶႃႈ",
+	"wikibase-sitelinks-wikinews": "ၶၢဝ်ႇဝီႇၶီႇ",
+	"wikibase-sitelinks-wikiquote": "ၵႂၢမ်းမၢႆဝီႇၶီႇ",
+	"wikibase-sitelinks-wikisource": "ငဝ်ႈပိုၼ်ႉဝီႇၶီႇ",
 	"wikimedia-developers": "ၽူႈၶူင်သၢင်ႈ"
 }
