@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Gomoko",
-			"Weft"
+			"Weft",
+			"Wladek92"
 		]
 	},
 	"contactpage-title-requestlicense": "Formulaire de contact pour réutilisation d’une marque déposée",
@@ -34,5 +35,7 @@
 	"contactpage-license-abuse-selectmark": "Quelle marque a fait l’objet d’abus ?",
 	"contactpage-license-abuse-location": "Emplacement de l’abus (en/hors ligne)",
 	"contactpage-license-abuse-theircontact": "Information de contact de la personne faisant un abus de la marque (si connue)",
-	"contactpage-license-abuse-yourcontact": "Votre information de contact (si nous devions vous contacter)"
+	"contactpage-license-abuse-yourcontact": "Votre information de contact (si nous devions vous contacter)",
+	"contactpage-title-affcomusergroup": "Appliquer pour démarrer un groupe d'utilisateurs",
+	"contactpage-affcom-user-group-logo-community": "Logo de la communauté Wikimedia"
 }

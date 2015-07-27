@@ -8,5 +8,12 @@
 	"wm-license-cc-attribution": "Авторлыкны күрсәтү",
 	"wm-license-cc-by-sa-3.0-text": "Әлеге файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лицензиясе буенча рөхсәт ителгән.",
 	"wm-license-cc-free": "Сез ирекле рәвештә:",
-	"wm-license-cc-free-to-share-header": "файл белән уртаклаша аласыз"
+	"wm-license-cc-free-to-share-header": "файл белән уртаклаша аласыз",
+	"wm-license-cc-free-to-share-text": "бу язманы күчерү, тарату һәм бирү",
+	"wm-license-cc-free-to-remix-header": "юрамалар ясау",
+	"wm-license-cc-free-to-remix-text": "бу язманы үзгәртү",
+	"wm-license-cc-conditions": "Алдагы шартларны үтәгән очракта",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
+	"wm-license-cc-conditions-attribution-text": "сез бу язманың авторына (хокук йөртүчесенә), ул куйган рәвештә сылтама бирергә тиешсез.",
+	"wm-license-cc-conditions-share_alike-header": "шул ук кагыйдәләр буенча таратыла"
 }
