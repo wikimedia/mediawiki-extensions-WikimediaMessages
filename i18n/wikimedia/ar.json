@@ -160,7 +160,7 @@
 	"wikibase-otherprojects-wikivoyage": "ويكي الرحلات",
 	"wikibase-sitelinks-sitename-commonswiki": "كومنز",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويكي بيانات",
-	"cant-delete-main-page": "لا يمكنك حذف أو نقل الصفحة الرئيسية.",
+	"cant-delete-main-page": "لا يمكنك حذف الصفحة الرئيسية أو نقلها.",
 	"upload-more-photos-of-this-monument": "قم برفع المزيد من الصور لهذا الأثر",
 	"createacct-captcha-help-url": "{{ns:Project}}: طلب حساب",
 	"wikimedia-developers": "مطورون",

@@ -220,7 +220,7 @@
 	"wikibase-otherprojects-wikivoyage": "Label for Wikivoyage, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikivoyage}}\n{{related|Wikibase-otherprojects}}",
 	"wikibase-sitelinks-sitename-commonswiki": "Name that should be shown in the first column of the sitelink table for Wikimedia Commons links.\n{{Identical|Common}}",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Name that should be shown in the first column of the sitelink table for Wikidata links\n{{Identical|Wikidata}}",
-	"cant-delete-main-page": "لا يمكنك حذف أو نقل الصفحة الرئيسية.",
+	"cant-delete-main-page": "You cannot delete or move the main page.",
 	"wikimedia-translationnotifications-signup-legal": "Legal text about the notifications sent to translators. Replace Privacy_policy in the URL with Special:MyLanguage/Privacy_policy/<your_language>, for example, Special:MyLanguage/Privacy_policy/fr for French.",
 	"upload-more-photos-of-this-monument": "This message is added by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.",
 	"extdist-branch-master": "Message used for an extension's git master version; the latest development version",

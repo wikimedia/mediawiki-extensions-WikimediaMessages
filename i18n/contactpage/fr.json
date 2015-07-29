@@ -6,8 +6,8 @@
 			"Wladek92"
 		]
 	},
-	"contactpage-title-requestlicense": "Formulaire de contact pour réutilisation d’une marque déposée",
-	"contactpage-pagetext-requestlicense": "Veuillez utiliser le formulaire ci-dessous pour nous contacter pour ce qui concerne la marque déposée",
+	"contactpage-title-requestlicense": "Demande de formulaire de marque déposée",
+	"contactpage-pagetext-requestlicense": "Veuillez utiliser le formulaire ci-dessous pour nous contacter au sujet de l'utilisation d'une marque déposée Wikimedia.",
 	"contactpage-subject-requestlicense": "Demande d’utilisation d’une marque déposée de Wikimédia",
 	"contactpage-license-request-username": "Nom d’utilisateur *",
 	"contactpage-license-request-relevantsite": "Site Wikimédia associé (s’il existe)",
@@ -33,7 +33,7 @@
 	"contactpage-subject-licenseabuse": "Notification d’abus de marque déposée de Wikimédia",
 	"contactpage-license-abuse-description": "Décrire l’abus",
 	"contactpage-license-abuse-selectmark": "Quelle marque a fait l’objet d’abus ?",
-	"contactpage-license-abuse-location": "Emplacement de l’abus (en/hors ligne)",
+	"contactpage-license-abuse-location": "Emplacement de l’abus (en ligne/hors ligne)",
 	"contactpage-license-abuse-theircontact": "Information de contact de la personne faisant un abus de la marque (si connue)",
 	"contactpage-license-abuse-yourcontact": "Votre information de contact (si nous devions vous contacter)",
 	"contactpage-title-affcomusergroup": "Appliquer pour démarrer un groupe d'utilisateurs",

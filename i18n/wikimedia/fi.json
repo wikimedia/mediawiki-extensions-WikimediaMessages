@@ -17,7 +17,8 @@
 			"Varusmies",
 			"VezonThunder",
 			"Nemo bis",
-			"MrTapsa"
+			"MrTapsa",
+			"SMAUG"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -178,6 +179,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Pyydä tunnusta",
 	"wikimedia-developers": "Kehittäjät",
 	"wikimedia-globalblocking-ipblocked": "'''IP-osoitteesi on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston on antanut $1 ($2).\nAnnettu syy on ''$3''.\n\n* Eston alkamisaika: $4\n* Eston päättymisaika: $5\n\nNykyinen IP-osoitteesi on $6.\nLiitä kaikki yllä olevat tiedot mahdollisiin kyselyihisi.\n\nJos uskot, että sinut on estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]].\nMuutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikiin]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Yksi tai useampia käyttämäsi välityspalvelimin on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston antoi $1 ($2).\nEston syy oli ''$3''.\n\n* Eston alkamisajankohta: $4\n* Eston päättymisajankohta: $5\n\nEstetyn välityspalvelimen osoite oli $6.\nLiitä kaikki yllä olevat tiedot mahdollisiin kyselyihisi.\n\nJos uskot, että sinut on estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]]. Muutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikiin]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/fi",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Tietosuojakäytäntö]",
 	"mwoauth-grant-checkuser": "Pääse käsiksi osoitepaljastintietoihin",

@@ -41,7 +41,8 @@
 			"Benjozork",
 			"Zolo",
 			"Caliburn",
-			"Ltrlg"
+			"Ltrlg",
+			"Wladek92"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -253,9 +254,9 @@
 	"restriction-level-editeditorprotected": "limité aux éditeurs",
 	"wikimedia-feedback-termsofuse": "Je suis d’accord pour exprimer mon avis selon les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/fr\" target=\"_blank\">conditions d’utilisation</q>",
 	"wikimedia-globalrenamequeue-email-body-approved": "La demande de renommage de « $1 » en « $2 » a été approuvée. Une fois terminé, vous pourrez vous connecter avec votre nouveau nom d’utilisateur et votre ancien mot de passe. Merci pour votre participation aux projets Wikimedia.",
-	"wikimedia-globalrenamequeue-email-body-rejected": "La demandes de renommage de « $1 » en « $2 » ne peut pas être effectuée.\n\nPour plus d’informations, merci de consulter la page d’aide suivante : <https://meta.wikimedia.org/wiki/Help:Unified_login/fr#Foire_aux_questions>. Pour débattre à propos de votre demande de renommage, vous pouvez ajouter un message sur la page <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Vous devez toujours vous être connecté avec votre compte actuel pour cela.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "La demande de renommage de \"{{GENDER:$1|$1}}\" en \"{{GENDER:$1|$2}}\"{{GENDER:$1|}} ne peut pas être effectuée.\n\nNote: $3\n\nPour plus d’informations, merci de consulter la page d’aide suivante : <https://meta.wikimedia.org/wiki/Help:Unified_login/fr#Foire_aux_questions>. Pour débattre à propos de votre demande de renommage, vous pouvez ajouter un message sur la page <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Vous devez toujours vous connecter avec votre compte actuel pour cela.",
 	"wikimedia-sulrenamewarning-usenew": "À partir de maintenant, vous devez vous connecter en utilisant votre nouveau nom d’utilisateur, <strong>$1</strong>. Ce nouveau nom est unique pour tous les projets Wikimedia et si vous êtes connecté sur un projet, vous serez aussi connecté lorsque vous visiterez un autre projet. Vous pouvez consulter plus d’informations à propos de l’identifiant unique sur la [[:m:Special:MyLanguage/Help:Unified_login|page d’aide de la connexion unifiée]], notamment dans la foire aux questions. Si vous avez besoin de changer votre adresse électronique ou votre mot de passe dans les [[Special:Preferences|préférences]], c’est peut-être le bon moment.\n\nPour demander un nom d’utilisateur différent, utilisez le formulaire de la page [[Special:GlobalRenameRequest]]. Merci pour votre participation aux projets Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Ce compte est verrouillé globalement.\nVoyez [[m:Special:CentralAuth/$1|les détails du compte global]] pour plus d’information.",
-	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateur de ce wiki qui seront renommés pour [[m:Single User Login finalisation announcement/fr|la finalisation de la connexion unifiée]]. Plus d’informations sur la [[m:Help:Unified login/fr|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander leur renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
+	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateurs enregistrés de ce wiki et qui seront renommés pour [[m:Single User Login finalisation announcement|la finalisation de la connexion mono-utilisateur]]. Plus d’informations sur la [[m:Help:Unified login|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander le renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}."
 }
