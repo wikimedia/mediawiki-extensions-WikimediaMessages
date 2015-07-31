@@ -117,12 +117,14 @@
 	"group-translationadmin-member": "{{GENDER:$1|тәрҗемә идарәчесе}}",
 	"grouppage-translationadmin": "{{ns:project}}:Тәрҗемә идарәчеләре",
 	"shared-repo-name-shared": "Викиҗыентык",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike Лицензиясе</a> лицензиясе буенча бирелә, аерым очракларда өстәмә шартлар булырга мөмкин. Өстәмә мәгълүмат өчен <a href=\"https://wikimediafoundation.org/wiki/Куллану_шартларын\">Куллану шартларын</a> карагыз.",
+	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike Лицензиясе</a> лицензиясе буенча бирелә, аерым очракларда өстәмә шартлар булырга мөмкин. Өстәмә мәгълүматны <a href=\"https://wikimediafoundation.org/wiki/Условия_использования\">Куллану шартларында</a> карагыз.",
 	"wikimedia-copyrightwarning": "Кертелгән үзгәртүләрне саклап, Сез алдагы [https://wikimediafoundation.org/wiki/Условия_использования куллану шартлары] белән килешәсез, шулай ук [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] һәм [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензияләре таләпләре буенча нәшер итүенә, бу битне кулланганда, сезгә иң киме Creative Commons  лицензиясенә гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз.",
 	"wikibase-sitelinks-wikinews": "Викияңалыклар",
 	"wikibase-sitelinks-wikiquote": "Викиөземтә",
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Викисәяхәт",
 	"cant-delete-main-page": "Сез баш битнең исемен яисә аны бетерә алмыйсыз.",
-	"wikimedia-developers": "Ясаучылары"
+	"wikimedia-developers": "Ясаучылары",
+	"wikimedia-globalblocking-ipblocked": "'''Сезнең IP-адресыгыз [[m:Special:MyLanguage/Global blocks|бөтен вики-проектларда да йозакка куелды]].'''\n\nТыю вакыты $1 ($2).\nСәбәбе: ''$3''.\n\n* куелу: $4 \n* бетүе: $5 \n\nСезнең хәзерге IP-адрес - $6.\nЗинһар өчен, бу мәгълүматларны бөтен бәхәсләргә дә кертегез.\n\nӘгәрдә сез, үзегезне ялгыш йозакладылар дип уйласагыз, сез тулырак мәгълүматны [[m:Special:MyLanguage/No open proxies|Ачык прокси-серверлы битләрне кулланмау]] глобаль кагыйдәләр битендә карый аласыз.\nБашка очракларда, блоктан тешерү өчен [[m:Steward requests/Global|Мета-вики проектына мөрәҗәгать итегез]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Сезнең сораудагы прокси-серверлар, [[m:Special:MyLanguage/Global blocks|глобаль рәвештә йозакка куелган]].'''\n\nТыю вакыты $1 ($2).\nСәбәбе: ''$3''.\n\n* куелу: $4 \n* бетүе: $5 \n\nБлоккак куелган прокси-адрес - $6.\nЗинһар өчен, бу мәгълүматларны бөтен бәхәсләргә дә кертегез.\n\nӘгәрдә сез, үзегезне ялгыш йозакладылар дип уйласагыз, сез тулырак мәгълүматны [[m:Special:MyLanguage/No open proxies|Ачык прокси-серверлы битләрне кулланмау]] глобаль кагыйдәләр битендә карый аласыз.\nБашка очракларда, блоктан тешерү өчен [[m:Steward requests/Global|Мета-вики проектына мөрәҗәгать итегез]]."
 }
