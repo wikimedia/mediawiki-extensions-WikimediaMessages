@@ -199,7 +199,7 @@
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, a enciclopédia livre",
 	"interlanguage-link-sitename-commons": "Repositório multimídia da Wikimedia Commons",
 	"right-superprotect": "Alterar níveis de superproteção",
-	"protect-level-superprotect": "Permitir somente usuários super protegidos",
+	"protect-level-superprotect": "Permitir apenas usuários que editam páginas super protegidas",
 	"restriction-level-superprotect": "superproteger",
 	"protect-level-editeditorprotected": "Permitir somente editores"
 }

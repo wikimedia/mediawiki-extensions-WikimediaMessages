@@ -165,6 +165,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}: طلب حساب",
 	"wikimedia-developers": "مطورون",
 	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت الخاص بك [[m:Special:MyLanguage/Global blocks|قد تم منعه في جميع مشاريع الويكي]].'''\n\nالمنع قد تم من قبل $1 ($2).\nالسبب المعطى هو ''$3''.\n\n* بداية المنع: $4\n* إنتهاء مدة المنع: $5\n\nعنوان بروتوكول الإنترنت الحالي لك هو $6.\nالرجاء إدراج كافة التفاصيل المذكورة أعلاه عند أي استعلامات تقوم بها.\n\nإذا كنت ترى إن المنع قد تم لأسباب خاطئة أو مشكلة معينة، فبإمكانك العثور على معلومات وإرشادات إضافية في السياسة العامة [[m:Special:MyLanguage/No open proxies|لا بروكسيهات مفتوحة]].\nخلاف ذلك، إن أردت مناقشة المنع الرجاء [[m:Steward requests/Global|نشر طلب للمراجعة على ميتا ويكي]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''خادم أو أكثر يتم استخدامه بواسطة طلبك [[m:Special:MyLanguage/Global blocks|ممنوع عالميا]].'''\n\nالمنع تم بواسطة $1 ($2).\nالسبب المعطى هو ''$3''.\n\n* بداية المنع: $4\n* نهاية المنع: $5\n\nعنوان البروكسي الممنوع كان $6.\nمن فضلك ضمن كل التفاصيل بالأعلى في أي استفسارات تقوم بها.\n\nلو كنت تعتقد انه تم منعك بالخطأ، يمكنك أن تجد معلومات وتعليمات إضافية في سياسة [[m:Special:MyLanguage/No open proxies|لا بروكسيهات مفتوحة]] العالمية.\nغير ذلك، لمناقشة المنع من فضلك [[m:Steward requests/Global|قدم طلبا للمراجعة على ميتا ويكي]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ar",
 	"wikimediashoplink-linktext": "متجر ويكيميديا",
 	"wikimediashoplink-link-tooltip": "زر متجر ويكيميديا",
