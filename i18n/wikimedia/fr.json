@@ -101,6 +101,9 @@
 	"group-filemover": "Renommeurs de fichiers",
 	"group-filemover-member": "{{GENDER:$1|renommeur|renommeuse}} de fichiers",
 	"grouppage-filemover": "{{ns:project}}:Renommeurs de fichiers",
+	"group-mover": "Déménageurs",
+	"group-mover-member": "{{GENDER:$1|déménageur|déménageuse}}",
+	"grouppage-mover": "{{ns:project}}:Movers",
 	"group-flood": "Dresseurs de bot",
 	"group-flood-member": "{{GENDER:$1|dresseur|dresseuse}} de robot",
 	"grouppage-flood": "{{ns:project}}:Dresseurs de bot",
@@ -160,6 +163,8 @@
 	"group-global-bot": "Bots globaux",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
 	"grouppage-global-bot": "m:Bot policy/fr#Bots globaux",
+	"group-global-gather-admins": "Administrateurs de collecte globale",
+	"group-global-gather-admins-member": "{{GENDER:$1|administrateur|administratrice}} de Collecte globale",
 	"group-global-ipblock-exempt": "Exceptions globales de blocage d'adresses IP",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|exception globale de blocage d'adresse IP}}",
 	"grouppage-global-ipblock-exempt": "m:Special:MyLanguage/Global IP block exemptions",
@@ -257,6 +262,7 @@
 	"wikimedia-globalrenamequeue-email-body-rejected": "La demande de renommage de \"{{GENDER:$1|$1}}\" en \"{{GENDER:$1|$2}}\"{{GENDER:$1|}} ne peut pas être effectuée.\n\nNote: $3\n\nPour plus d’informations, merci de consulter la page d’aide suivante : <https://meta.wikimedia.org/wiki/Help:Unified_login/fr#Foire_aux_questions>. Pour débattre à propos de votre demande de renommage, vous pouvez ajouter un message sur la page <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Vous devez toujours vous connecter avec votre compte actuel pour cela.",
 	"wikimedia-sulrenamewarning-usenew": "À partir de maintenant, vous devez vous connecter en utilisant votre nouveau nom d’utilisateur, <strong>$1</strong>. Ce nouveau nom est unique pour tous les projets Wikimedia et si vous êtes connecté sur un projet, vous serez aussi connecté lorsque vous visiterez un autre projet. Vous pouvez consulter plus d’informations à propos de l’identifiant unique sur la [[:m:Special:MyLanguage/Help:Unified_login|page d’aide de la connexion unifiée]], notamment dans la foire aux questions. Si vous avez besoin de changer votre adresse électronique ou votre mot de passe dans les [[Special:Preferences|préférences]], c’est peut-être le bon moment.\n\nPour demander un nom d’utilisateur différent, utilisez le formulaire de la page [[Special:GlobalRenameRequest]]. Merci pour votre participation aux projets Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Ce compte est verrouillé globalement.\nVoyez [[m:Special:CentralAuth/$1|les détails du compte global]] pour plus d’information.",
-	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateurs enregistrés de ce wiki et qui seront renommés pour [[m:Single User Login finalisation announcement/fr|la finalisation de la connexion unifiée]]. Plus d’informations sur la [[m:Help:Unified login/fr|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander le renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
-	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}."
+	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateurs enregistrés de ce wiki et qui seront renommés pour [[m:Single User Login finalisation announcement|la finalisation de la connexion unifiée]]. Plus d’informations sur la [[m:Help:Unified login|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander le renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
+	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}.",
+	"securepoll-dblist-securepollglobal": "Élection du conseil"
 }

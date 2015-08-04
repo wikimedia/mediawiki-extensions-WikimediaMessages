@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"SamGamgee"
+			"SamGamgee",
+			"SmartNart12"
 		]
 	},
 	"wm-license-information-description": "Агурыбгъэ1он",
 	"wm-license-information-source": "Къыздик1ыгъэр",
 	"wm-license-information-date": "Мафэ",
-	"wm-license-information-author": "Аутор"
+	"wm-license-information-author": "Аутор",
+	"wm-license-self-multiple-licenses-select": "Узыфэе лицензие къахэпхышъущт."
 }
