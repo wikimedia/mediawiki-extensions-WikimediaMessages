@@ -213,7 +213,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "לחיצה על \"{{int:flow-topic-action-unlock-topic}}\" מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו וכן את הסכמתך הבלתי־חוזרת לפרסם את כל הטקסט לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-upload-nolicenses": "העלאת קבצים לוויקי הזה כבויה. נא [[commons:Special:UploadWizard|להעלות לוויקישיתוף]].\n\nכדי לאפשר שימוש בדף המיוחד הזה להעלאה לוויקי הזה, מפעיל מערכת צריך להוסיף אפשרות אחת או יותר לדף [[MediaWiki:Licenses]].\n\nיש להשתמש בקוד הבא: <code>* שם התבנית|תווית</code>. יש להשתמש בטקסט כלשהו להפעלת העלאה ללא אפשרויות רישיון.",
 	"wikimediashoplink-linktext": "חנות ויקימדיה",
-	"wikimediashoplink-link-tooltip": "בקרו בחנות של ויקימדיה",
+	"wikimediashoplink-link-tooltip": "לבקר בחנות של ויקימדיה",
 	"interlanguage-link-mul": "שפות נוספות",
 	"interlanguage-link-sitename-mul": "אתר {{SITENAMTE}} רב־לשוני",
 	"interlanguage-link-sitename-wikipedia": "ויקיפדיה, האנציקלופדיה החופשית",

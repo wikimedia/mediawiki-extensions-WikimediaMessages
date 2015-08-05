@@ -44,5 +44,8 @@
 	"contactpage-affcom-user-group-leaders-label": "'''Trois Wikimédiens actifs'''\n* Voeuillez fournir le nom, l’adresse de courriel et le nom d’utilisateur Wikimédia de trois dirigeants du groupe.",
 	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Quel logo voulez-vous utiliser pour votre groupe ?",
 	"contactpage-affcom-user-group-rules-label": "'''Règles du groupe utilisateur'''\n* Vous êtes éligible à la formation d’un groupe utilisateur si vous avez au moins trois membres avec plus de 300 contributions à un projet de Wikimédia depuis un compte inscrit existant depuis plus de six mois, et que vous respectez [[Wikimedia user groups/Agreement and code of conduct|l’accord et le code de conduite de groupe utilisateur]] :\n** Vous devez suivre la [[wmf:Trademark policy|politique de marque]]\n** Vous êtes indépendant des autres organisations de Wikimédia\n* Après avoir envoyé cette demande, un membre du [[Affiliations Committee|Comité des affiliations]] prendra rapidement contact avec vous pour vous aider pour les étapes suivantes\n* Apprenez-en davantage sur [[Wikimedia user groups|les groupes utilisateur de Wikimédia]]",
-	"contactpage-affcom-user-group-logo-community": "Logo de la communauté Wikimedia"
+	"contactpage-affcom-user-group-terms-label": "J’ai lu et j’accepte les règles ci-dessus et le [[Wikimedia user groups/Agreement and code of conduct|code de conduite et l’accord du groupe utilisateur]].",
+	"contactpage-affcom-user-group-logo-wm-logo": "''Si vous voulez utiliser le '''logo Wikimédia''', vous devez [[Special:Contact/requestlicense|demander une licence de marque]].''",
+	"contactpage-affcom-user-group-logo-community": "Logo de la communauté Wikimedia",
+	"contactpage-affcom-user-group-logo-affiliate": "Logo d’affilié à Wikimédia"
 }

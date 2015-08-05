@@ -86,7 +86,9 @@
 	"group-sysadmin-member": "mpandrindra ny rafitra{{GENDER:$1|}}",
 	"wikimedia-copyright": "Azo ampiasaina araka ny fepetra apetraky ny lisansa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.mg\">Creative Commons Attribution-ShareAlike </a> ; Mety misy ny fepetra fanampiny mihatra. Jereo <a href=\"https://wikimediafoundation.org/wiki/Fepetram-pampiasana\">fepetram-pampiasana</a> ho an'ny antsipirihany.",
 	"wikibase-sitelinks-wikinews": "Wikivao",
+	"wikibase-sitelinks-wikiquote": "Wikitanisa",
 	"wikibase-sitelinks-wikisource": "Wikiloharano",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Mpanitatra"
+	"wikimedia-developers": "Mpanitatra",
+	"wikimediashoplink-linktext": "Tranombarotra Wikimedia"
 }
