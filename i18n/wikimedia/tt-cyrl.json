@@ -97,8 +97,6 @@
 	"group-trusted": "Ышанычлы кулланучылар",
 	"group-trusted-member": "{{GENDER:$1|ышанычлы кулланучы}}",
 	"grouppage-trusted": "{{ns:project}}:Ышанычлы кулланучылар",
-	"group-coder": "Санакчы",
-	"group-coder-member": "{{GENDER:$1|санакчы}}",
 	"group-global-bot": "Глобаль ботлар",
 	"group-global-bot-member": "{{GENDER:$1|глобаль бот}}",
 	"group-global-rollbacker": "Глобаль кире кайтаручылар",

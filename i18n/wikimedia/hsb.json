@@ -115,8 +115,6 @@
 	"group-centralnoticeadmin": "Administratorojo centralnych wozjewjenkow",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Administrator centralnych wozjewjenkow}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administratorojo centralnych wozjewjenkow",
-	"group-coder": "Programowarjo",
-	"group-coder-member": "{{GENDER:$1|programowar|programowarka}}",
 	"group-global-bot": "Globalne boćiki",
 	"group-global-bot-member": "{{GENDER:$1|globalny bot}}",
 	"group-global-ipblock-exempt": "Globalne wuwzaća IP-blokowanja",

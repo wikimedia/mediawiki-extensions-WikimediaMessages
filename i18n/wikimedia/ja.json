@@ -24,7 +24,8 @@
 			"아라",
 			"Caliburn",
 			"Miya",
-			"Sujiniku"
+			"Sujiniku",
+			"Azeha"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -134,9 +135,6 @@
 	"group-centralnoticeadmin": "中央管理通知管理者",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|中央管理通知管理者}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:中央管理通知管理者",
-	"group-coder": "コーダー",
-	"group-coder-member": "{{GENDER:$1|コーダー}}",
-	"grouppage-coder": "{{ns:project}}:コーダー",
 	"group-global-bot": "グローバルボット",
 	"group-global-bot-member": "{{GENDER:$1|グローバルボット}}",
 	"grouppage-global-bot": "m:Global bot/ja",
@@ -217,8 +215,8 @@
 	"wikimedia-flow-terms-of-use-summarize": "「{{int:flow-topic-action-update-topic-summary}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-lock-topic": "「{{int:flow-topic-action-lock-topic}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-unlock-topic": "「{{int:flow-topic-action-unlock-topic}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
-	"wikimediashoplink-linktext": "ウィキメディア・ショップ",
-	"wikimediashoplink-link-tooltip": "ウィキメディア・ショップに移動",
+	"wikimediashoplink-linktext": "ウィキメディア・ストア",
+	"wikimediashoplink-link-tooltip": "ウィキメディア・ストアに移動",
 	"interlanguage-link-mul": "その他の言語",
 	"interlanguage-link-sitename-wikipedia": "ウィキペディア、フリー百科事典",
 	"protect-level-superprotect": "特別保護利用者のみに許可",

@@ -6,12 +6,13 @@
 		]
 	},
 	"wm-license-book-start-this-book": "شروع اینتا کتاب",
-	"wm-license-gfdl-1.2-and-later": "اجازهٔ کوپی، پخش یا تغییر این سند تحت شرایط [[:mzn:موجوز موستندات آزاد گنو|موجوز موستندات آزاد گنو]] (GFDL) هدائه بیّه. نوسخهٔ ۱٫۲ یا هر نوسخهٔ جدیدته که توسوط بونیاد نرم‌افزار آزاد مونتشر بیه، بدون بخش‌ئون ناموعتبر، بدون نوشتارئون روی جیلد و بدون نوشتارئون پوشت جلد. اتا کپی از این ایجازه\u2029نامه در قسمتی که با عونوان \"[[Commons:GNU Free Documentation License|GNU Free Documentation License]]\" موشخص\u2029بیه موجود هسته.",
+	"wm-license-gfdl-1.2-and-later": "کپی، پخش یا تغییر ِاجازه این سند وسّه تحت شرایط '''[[{{int:wm-license-gfdl-wiki-link}}|گنویِ آزاد مستندات ِمجوز]]'''، نسخهٔ ۱٫۲ یا هر نسخهٔ بعدتری که [[{{int:wm-license-fsf-wiki-link}}|آزاد نرم‌افزارون بنیاد]] باوّه، منتشر بیه؛ بدون بخش‌های نامتغیر، متون روی جلد، و متون پشت جلد، هدائه وانه. اتا کپی مجوز جه ''[[{{int:wm-license-gfdl-full-1.2-link}}|گنویِ آزاد مستندات ِمجوز]]'' ِبخش دله ضمیمه بیه.",
 	"wm-license-information-description": "توضیح",
 	"wm-license-information-source": "منبع",
 	"wm-license-information-date": "تاریخ",
 	"wm-license-information-author": "سازنده",
 	"wm-license-information-permission": "اجازه‌نومه",
 	"wm-license-information-permission-reusing-text": "این فایل جه دِباره استفاده هاکردن",
-	"wm-license-own-work": "شه کار"
+	"wm-license-own-work": "شه کار",
+	"wm-license-self-multiple-licenses-select": "بتونّی شه دِلِوِس ِمجوز ره انتخاب هاکنین."
 }

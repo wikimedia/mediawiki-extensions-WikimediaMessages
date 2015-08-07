@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"JeanVoisin"
+			"JeanVoisin",
+			"Hangmanwa7id"
 		]
 	},
-	"sitesupport": "Donner de l'argent"
+	"sitesupport": "Donner de l'argent",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }

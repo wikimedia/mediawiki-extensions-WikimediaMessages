@@ -117,8 +117,6 @@
 	"group-centralnoticeadmin": "Amministrature de le notizie cendralizzate",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|amministratore de le notizie cendralizzate}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Amministrature de le notizie cendralizzate",
-	"group-coder": "Codificature",
-	"group-coder-member": "{{GENDER:$1|codificatore}}",
 	"group-global-bot": "Bot globale",
 	"group-global-bot-member": "{{GENDER:$1|bot globbale}}",
 	"group-global-gather-admins": "Amministrature globbale de Gather",

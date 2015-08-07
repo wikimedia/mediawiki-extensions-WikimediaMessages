@@ -131,8 +131,6 @@
 	"group-centralnoticeadmin": "Administradores de avisos centrais",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|administrador|administradora|administrador(a)}} de avisos centrais",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administradores de avisos centrais",
-	"group-coder": "Codificadores",
-	"group-coder-member": "{{GENDER:$1|codificador|codificadora|codificador(a)}}",
 	"group-global-bot": "Robôs globais",
 	"group-global-bot-member": "{{GENDER:$1|robô global}}",
 	"group-global-ipblock-exempt": "Isentos de bloqueios globais",
