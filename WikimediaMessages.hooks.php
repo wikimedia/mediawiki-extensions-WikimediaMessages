@@ -34,6 +34,7 @@ class WikimediaMessagesHooks {
 			'centralauth-uwbr-intro',
 			'centralauth-uwbr-registration-nodate',
 			'privacypage',
+			'mwoauthserver-invalid-user',
 		);
 
 		if ( in_array( $lcKey, $keys, true ) ) {

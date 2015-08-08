@@ -249,5 +249,6 @@
 	"wikimedia-centralauth-uwbr-intro": "This page lists users registered with this wiki who will be renamed due to [[m:Single User Login finalisation announcement|single-user login finalization]]. More information on [[m:Help:Unified login|unified login]]. Users can request a rename at any time using [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"right-viewdeletedfile": "View files and pages in the {{ns:file}} and {{ns:file_talk}} namespaces that are deleted",
-	"securepoll-dblist-securepollglobal": "Board Election"
+	"securepoll-dblist-securepollglobal": "Board Election",
+	"wikimedia-mwoauthserver-invalid-user": "There was a problem with logging you in globally. If you just created your account, please log out and log back in, then try again to authorize the app. If you did not just create your account, please visit another Wikimedia site while logged in — such as [https://mediawiki.org/ mediawiki.org] — and then try again to authorize the app. (Error code: E008)"
 }
