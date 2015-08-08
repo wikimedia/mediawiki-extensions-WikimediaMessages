@@ -164,6 +164,8 @@
 	"group-translationadmin": "מנהלי תרגום",
 	"group-translationadmin-member": "{{GENDER:$1|מנהל|מנהלת}} תרגום",
 	"grouppage-translationadmin": "{{ns:project}}:מנהלי תרגום",
+	"group-wmf-officeit": "שירותי IT במשרד קרן ויקימדיה",
+	"group-wmf-officeit-member": "{{GENDER:$1|איש|אשת}} שירותי IT במשרד קרן ויקימדיה",
 	"group-wmf-researcher": "חוקרים בקרן ויקימדיה",
 	"group-wmf-researcher-member": "{{GENDER:$1|חוקר|חוקרת}} בקרן ויקימדיה",
 	"search-interwiki-custom": "wiktionary:תוצאות מוויקימילון\nwikibooks:תוצאות מוויקיספר\nwikinews:תוצאות מוויקיחדשות\nwikiquote:תוצאות מוויקיציטוט\nwikisource:תוצאות מוויקיטקסט\nwikiversity:תוצאות מוויקיברסיטה\nwikivoyage:תוצאות מוויקימסע",

@@ -82,8 +82,6 @@
 	"group-trusted": "اعتباری ورتن والے",
 	"group-trusted-member": "عتباری ورتن والے",
 	"grouppage-trusted": "{{ns:project}}:اعتباری ورتن والے",
-	"group-coder": "کوڈرز",
-	"group-coder-member": "{{GENDER:$1|کوڈر}}",
 	"group-global-bot": "گلوبل بوٹس",
 	"group-global-bot-member": "گلوبل بوٹ",
 	"group-global-rollbacker": "گلوبل رولبیکرز",
@@ -103,5 +101,10 @@
 	"grouppage-translationadmin": "{{ns:project}}:بولی وٹاندرا مکھیا",
 	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Terms of Use</a> for details.",
 	"wikimedia-copyrightwarning": "By saving, you agree to irrevocably release your contribution under the [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] and the [https://www.gnu.org/copyleft/fdl.html GFDL].\nYou agree to be credited by re-users, at minimum, through a hyperlink or URL to the page you are contributing to.\nSee the [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] for details.",
-	"cant-delete-main-page": "تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او"
+	"wikibase-sitelinks-wikinews": "وکی خبراں",
+	"wikibase-sitelinks-wikiquote": "وکیکوٹ",
+	"wikibase-sitelinks-wikisource": "وکیسورس",
+	"wikibase-sitelinks-wikivoyage": "وکیوائج",
+	"cant-delete-main-page": "تسیں پہلا صفہ ناں کتے ہور لجاسکدے او تے ناں ای مٹاسکدے او",
+	"wikimedia-developers": "ڈیویلپرز"
 }
