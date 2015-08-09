@@ -54,6 +54,7 @@
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikivitnun",
 	"wikibase-sitelinks-wikisource": "Wikiheimild",
+	"wikibase-sitelinks-wikivoyage": "Wikiferðir",
 	"cant-delete-main-page": "Þú getur ekki eytt eða fært forsíðuna.",
 	"wikimedia-developers": "Forritarar",
 	"wikimedia-globalblocking-ipblocked": "'''Vistfangið þitt hefur verið [[m:Special:MyLanguage/Global blocks|bannað á öllum wiki verkefnum]].'''\n\nBannið var framkvæmt af $1 ($2).\nÁstæðan fyrir banninu er: ''$3''.\n\n* Bannið hófst $4\n* Bannið endar $5\n\nNúverandi vistfang þitt er $6.\nVinsamlegast tilgreindu allar ofangreinar upplýsingar í öllum fyrirspurnum sem þú sendir.\n\nEf þú heldur að þú hafir verið bannaður fyrir mistök, þá getur þú fundið frekari upplýsingar í altæku stefnunni [[m:Special:MyLanguage/No open proxies|No open proxies]].\nAnnars, til að ræða bannið vinsamlegast [[m:Steward requests/Global|óskaðu eftir endurskoðun á Meta-Wiki]].",
