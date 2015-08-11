@@ -3,12 +3,14 @@
 		"authors": [
 			"GR44 Luc",
 			"SamGamgee",
-			"SmartNart12"
+			"SmartNart12",
+			"TheRossatron"
 		]
 	},
 	"wm-license-cc-attribution": "Аттрибуцие (зытхыгъэр къэгъэлъэгъон)",
 	"wm-license-cc-free": "Уфит:",
 	"wm-license-cc-free-to-share-header": "ягъэш1эн",
 	"wm-license-cc-free-to-remix-text": "ш1агъэр къэштэжьын",
-	"wm-license-cc-conditions-attribution-header": "Аттрибуцие (зытхыгъэр къэгъэлъэгъон)"
+	"wm-license-cc-conditions-attribution-header": "Аттрибуцие (зытхыгъэр къэгъэлъэгъон)",
+	"wm-license-cc-conditions-share_alike-header": "фэдэу ягъашI"
 }

@@ -1,4 +1,12 @@
 {
-	"@metadata": [],
-	"wm-license-information-description": "Aprašīms"
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"wm-license-information-description": "Aprašīms",
+	"wm-license-information-permission": "Laidėms",
+	"wm-license-information-permission-reusing-text": "Abruozdielė parnauduojėms",
+	"wm-license-own-work": "Patėis darbs",
+	"wm-license-self-multiple-licenses-select": "Pasėrinkat vėina ėš tū lėcencėju."
 }

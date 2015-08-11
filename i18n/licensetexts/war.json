@@ -5,5 +5,10 @@
 		]
 	},
 	"wm-license-information-source": "Ginkuhaan",
-	"wm-license-information-date": "Petsa"
+	"wm-license-information-date": "Petsa",
+	"wm-license-information-author": "Awtor",
+	"wm-license-information-permission": "Pagtugot",
+	"wm-license-information-permission-reusing-text": "Gin-uutro paggamit inin nga file",
+	"wm-license-own-work": "Kalugaringon nga buhat",
+	"wm-license-self-multiple-licenses-select": "Puydi ka pumili hin lisenysa nga karuyag mo."
 }
