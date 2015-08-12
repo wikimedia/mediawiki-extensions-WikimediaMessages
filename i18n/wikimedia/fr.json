@@ -43,7 +43,8 @@
 			"Caliburn",
 			"Ltrlg",
 			"Wladek92",
-			"VictorBrice"
+			"VictorBrice",
+			"SRXcraft"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -197,6 +198,8 @@
 	"group-translationadmin": "Administrateurs de traduction",
 	"group-translationadmin-member": "administrat{{GENDER:$1|eur|rice}} de traduction",
 	"grouppage-translationadmin": "{{ns:project}}:Administrateurs de traduction",
+	"group-wmf-officeit": "IT du bureau du WMF",
+	"group-wmf-officeit-member": "{{GENDER:$1|IT du bureau du WMF}}",
 	"group-wmf-researcher": "Chercheurs de WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Chercheur|Chercheuse}} de WMF",
 	"search-interwiki-custom": "wiktionary:De Wiktionary\nwikibooks:De Wikibooks\nwikinews:De Wikinews\nwikiquote:De Wikiquote\nwikisource:De Wikisource\nwikiversity:De Wikiversity\nwikivoyage:De Wikivoyage",
@@ -256,5 +259,6 @@
 	"wikimedia-centralauth-contribs-locked": "Ce compte est verrouillé globalement.\nVoyez [[m:Special:CentralAuth/$1|les détails du compte global]] pour plus d’information.",
 	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateurs enregistrés de ce wiki et qui seront renommés pour [[m:Single User Login finalisation announcement|la finalisation de la connexion unifiée]]. Plus d’informations sur la [[m:Help:Unified login|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander le renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}.",
-	"securepoll-dblist-securepollglobal": "Élection du conseil"
+	"securepoll-dblist-securepollglobal": "Élection du conseil",
+	"wikimedia-mwoauthserver-invalid-user": "Il y a un problème avec vous vous connecter en global. Si vous venez de créer votre compte, veuillez vous déconnecter et reconnecter, puis essayez à nouveau d'autoriser l'application. Si vous n'avez pas crée de compte, veuillez visiter un autre site Wikimedia tout en étant connecté à [https://mediawiki.org/ mediawiki.org] — et puis essayez à nouveau d'autoriser l'application. (Code d'erreur: E008)"
 }

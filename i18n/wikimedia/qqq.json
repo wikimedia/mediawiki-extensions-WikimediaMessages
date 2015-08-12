@@ -270,5 +270,5 @@
 	"wikimedia-centralauth-uwbr-registration-nodate": "Text shown when a user has no registration date recorded due to the account being created before 2006, when we started recording dates.",
 	"right-viewdeletedfile": "{{doc-right|viewdeletedfile}}\nRight equivalent to having both {{msg-mw|right-deletedhistory}} and {{msg-mw|right-deletedtext}}, but only in the file and file_talk namespaces.",
 	"securepoll-dblist-securepollglobal": "Name used in the dropdown on [[Special:SecurePoll/create]] for the list of wikis allowed to vote for Board elections",
-	"mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly."
+	"wikimedia-mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly."
 }

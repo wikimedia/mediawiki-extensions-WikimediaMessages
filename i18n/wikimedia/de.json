@@ -228,5 +228,6 @@
 	"wikimedia-centralauth-contribs-locked": "Dieses Benutzerkonto ist global gesperrt.\nFür weitere Informationen siehe die [[m:Special:CentralAuth/$1|Einzelheiten zum globalen Benutzerkonto]].",
 	"wikimedia-centralauth-uwbr-intro": "Diese Seite listet auf diesem Wiki registrierte Benutzer auf, die aufgrund der [[m:Single User Login finalisation announcement|Finalisierung des Single-User-Logins]] umbenannt werden. Weitere Informationen zur [[m:Help:Unified login|einheitlichen Anmeldung]]. Benutzer können jederzeit eine Umbenennung mithilfe der Spezialseite „[[Special:GlobalRenameRequest|Globale Umbenennungsanfrage]]“ beantragen.",
 	"right-viewdeletedfile": "Gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ ansehen",
-	"securepoll-dblist-securepollglobal": "Vorstandswahl"
+	"securepoll-dblist-securepollglobal": "Vorstandswahl",
+	"wikimedia-mwoauthserver-invalid-user": "Es gab ein Problem bei deiner globalen Anmeldung. Falls du gerade dein Benutzerkonto erstellt hast, melde dich bitte ab und anschließend wieder an. Versuche dann erneut, die Anwendung zu autorisieren. Falls du nicht gerade dein Benutzerkonto erstellt hast, besuche bitte eine andere Wikimedia-Website – wie [https://mediawiki.org/ MediaWiki.org] – und versuche erneut die Anwendung zu autorisieren. (Fehlercode: E008)"
 }
