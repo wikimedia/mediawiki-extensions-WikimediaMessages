@@ -235,5 +235,6 @@
 	"wikimedia-centralauth-uwbr-intro": "На страницава се наведени корисниците регистрирани на ова вики што ќе бидат преименувани во конечното спроведување на [[m:Single User Login finalisation announcement|еднокорисничката најава]]. Повеќе информации ќе најдете на [[m:Help:Unified login|страницата за еднокорисничка најава]]. Корисниците можат да побараат преименување во секое време користејќи го [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006 г.",
 	"right-viewdeletedfile": "Прегледување на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
-	"securepoll-dblist-securepollglobal": "Избори за членови на одборот"
+	"securepoll-dblist-securepollglobal": "Избори за членови на одборот",
+	"wikimedia-mwoauthserver-invalid-user": "Се јави проблем при обидот да ве најавам глобално. Доколку сега штотуку ја направивте сметката, одјавете се и пак најавете се, па повторно пробајте да го овластите извршникот. Доколку ова не е случај, посетете друго Викимедиино вики додека сте најавени — such as [https://www.mediawiki.org/wiki/MediaWiki/mk mediawiki.org] — и тогаш пробајте да го овластите извршникот. (Код на грешката: E008)"
 }

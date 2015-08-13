@@ -18,12 +18,6 @@
 	"nstab-institution": "Institutioun",
 	"nstab-sequence": "Sequenz",
 	"nstab-timedtext": "TimedText",
-	"group-Ex_Administrator": "Fréier Administrateuren",
-	"group-Ex_Administrator-member": "{{GENDER:$1|Fréieren Administrateur|Fréier Administratrice}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}: Fréier Administrateuren",
-	"group-Ex_Bureaucrat": "Fréier Bürokraten",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|Fréiere Bürokrat|Fréier Bürokratin}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}: Fréier Bürokraten",
 	"group-Image-reviewer": "Bild-Iwwerpréifer",
 	"group-Image-reviewer-member": "{{GENDER:$1|Bild-Iwwerpréifer}}",
 	"grouppage-Image-reviewer": "{{ns:project}}: Bild-Iwwerpréifer",
@@ -107,8 +101,6 @@
 	"grouppage-wikidata-staff": "{{ns:project}}:Wikidata Membere vum Personal",
 	"group-captcha-exempt": "Ausnahme fir CAPTCHA",
 	"group-captcha-exempt-member": "{{GENDER:$1|ouni CAPTCHA}}",
-	"group-coder": "Programméierer",
-	"group-coder-member": "{{GENDER:$1|Programméierer}}",
 	"group-global-bot": "Global Botten",
 	"group-global-bot-member": "{{GENDER:$1|Globale Bot}}",
 	"grouppage-global-bot": "m:Global bot",
@@ -177,5 +169,6 @@
 	"restriction-level-superprotect": "Super-Protectioun",
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
 	"wikimedia-centralauth-uwbr-intro": "Op dëser Säit sti registréiert Benotzer, déi ëmbenannt wäerte gi, wéint dem [[m:Single User Login finalisation announcement|Ofschloss vum 'single-user login']]. Méi Informatioune stinn op [[m:Help:Unified login|eenheetleche Login]]. Benotzer kënnen zu all Ament eng Ëmbenennung ufroen iwwer [[Special:GlobalRenameRequest]].",
-	"securepoll-dblist-securepollglobal": "Wale fir de Conseil"
+	"securepoll-dblist-securepollglobal": "Wale fir de Conseil",
+	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Problem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo gra ugeluecht hutt, da loggt Iech w.e.g. aus a loggt Iech ness an, a probéiert dann nach eng Kéier fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo grad ugeluecht hutt da besicht w.e.g. een anere Wikimedia-Site während Dir ageloggt sidd - esou wéi [https://mediawiki.org/ mediawiki.org] — a probéiert dann nach eng Kéier fir d'App z'autoriséieren. (Feelercode: E008)"
 }

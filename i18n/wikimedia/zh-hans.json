@@ -255,5 +255,6 @@
 	"wikimedia-centralauth-contribs-locked": "此账户已被全域锁定。\n参见[[m:Special:CentralAuth/$1|全域账户详情]]以获取更多信息。",
 	"wikimedia-centralauth-uwbr-intro": "此页面列出在此wiki注册，由于[[m:Single User Login finalisation announcement|终止单一用户登录]]而将被重命名的用户。更多信息可参见[[m:Help:Unified login|统一登录]]。用户可以在任何时间通过[[Special:GlobalRenameRequest]]请求重命名。",
 	"right-viewdeletedfile": "查看{{ns:file}}和{{ns:file_talk}}名字空间中被删除的文件和页面",
-	"securepoll-dblist-securepollglobal": "董事会选举"
+	"securepoll-dblist-securepollglobal": "董事会选举",
+	"wikimedia-mwoauthserver-invalid-user": "您全域登录时遇到问题。如果您刚刚创建了您的账户，请退出并再次登录，然后重新尝试授权应用程序。如果您不是刚刚创建您的账户，请访问另一个维基媒体网站登录——例如[https://mediawiki.org/ mediawiki.org]——然后重新尝试授权应用程序。（错误代码：E008）"
 }
