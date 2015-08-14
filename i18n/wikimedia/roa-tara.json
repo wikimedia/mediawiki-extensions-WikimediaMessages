@@ -184,5 +184,6 @@
 	"interlanguage-link-sitename-dmoz": "cartelle web de DMOZ",
 	"right-superprotect": "Cange le levèlle de super protezione",
 	"restriction-level-superprotect": "super protette",
-	"wikimedia-centralauth-contribs-locked": "Stu cunde jè bloccate globbalmende.\n'Ndruche [[m:Special:CentralAuth/$1|dettaglie d'u cunde globbale]] pe cchiù 'mbormaziune."
+	"wikimedia-centralauth-contribs-locked": "Stu cunde jè bloccate globbalmende.\n'Ndruche [[m:Special:CentralAuth/$1|dettaglie d'u cunde globbale]] pe cchiù 'mbormaziune.",
+	"securepoll-dblist-securepollglobal": "Elezione"
 }

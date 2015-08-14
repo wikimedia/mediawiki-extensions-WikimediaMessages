@@ -206,5 +206,6 @@
 	"wikimedia-centralauth-contribs-locked": "Esta cuenta ta bloquiada globalmente.\nMira los [[m:Special:CentralAuth/$1|detalles de la cuenta global]] pa más información.",
 	"wikimedia-centralauth-uwbr-intro": "Esta páxina llista los usuarios rexistraos nesta wiki que sufrirán un cambiu de nome pola mor de la [[m:Single User Login finalisation announcement|finalización del aniciu de sesión únicu d'usuariu]]. Más información sobro l'[[m:Help:Unified login|aniciu de sesión unificáu]]. Los usuarios pueden solicitar un cambiu de nome en cualquier momentu usando [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Ver los ficheros y páxines de los espacios de nomes {{ns:file}} y {{ns:file_talk}} que tán desaniciaos",
-	"securepoll-dblist-securepollglobal": "Eleición al Conseyu"
+	"securepoll-dblist-securepollglobal": "Eleición al Conseyu",
+	"wikimedia-mwoauthserver-invalid-user": "Hebo un problema col to aniciu de sesión global. Si tas acabante de crear la cuenta, zarra y vuelve a aniciar la sesión, y darréu intenta autorizar la app. Si nun tas acabante de crear la cuenta, visita otru sitiu de Wikimedia cola sesión aniciada — como [https://mediawiki.org/ mediawiki.org] — y vuelve a intentar autorizar la app. (Códigu d'error: E008)"
 }
