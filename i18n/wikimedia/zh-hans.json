@@ -230,7 +230,7 @@
 	"wikimedia-flow-terms-of-use-lock-topic": "点击“{{int:flow-topic-action-lock-topic}}”，即表明您同意遵守我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意根据[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享-署名-相同方式共享 3.0]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献，该授权不可撤回",
 	"wikimedia-flow-terms-of-use-unlock-topic": "点击“{{int:flow-topic-action-unlock-topic}}”，即表明您同意遵守我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意根据[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享-署名-相同方式共享 3.0]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献，该授权不可撤回",
 	"wikimedia-upload-nolicenses": "此wiki未启用上传文件。请[[commons:Special:UploadWizard|前往维基共享资源]]上传。如果您希望在此wiki启用此特殊页面上传文件，您需要向管理员请求编辑[[MediaWiki:Licenses]]以加入一个或更多授权选项。致管理员：您可在此链接页面使用以下格式：<code>* 模板名 (Template name)|标签 (Label)</code>。使用任意文本即可启用上传选项而不需要授权选项。",
-	"wikimediashoplink-linktext": "维基媒体商店",
+	"wikimediashoplink-linktext": "维基百科商店",
 	"wikimediashoplink-link-tooltip": "访问维基媒体商店",
 	"interlanguage-link-mul": "更多语言",
 	"interlanguage-link-sitename-mul": "多语言 {{SITENAME}}",
