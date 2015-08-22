@@ -5,7 +5,8 @@
 			"Als-Holder",
 			"Melancholie",
 			"Geitost",
-			"Nemo bis"
+			"Nemo bis",
+			"J. 'mach' wust"
 		]
 	},
 	"wikimediamessages-desc": "Wikimediaspezifischi Syschtemnochrichte",
@@ -17,12 +18,6 @@
 	"nstab-institution": "Institution",
 	"nstab-sequence": "Reihefolg",
 	"nstab-timedtext": "Untertitel",
-	"group-Ex_Administrator": "Ehmoligi Administratore",
-	"group-Ex_Administrator-member": "{{GENDER:$1|Ehmolige Administrator|Ehmoligi Administratori}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}:Ehmoligi Administratore",
-	"group-Ex_Bureaucrat": "Ehmoligi Bürokrate",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|Ehmolige Bürokrat|Ehmoligi Bürokrati}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:Ehmoligi Bürokrate",
 	"group-Image-reviewer": "Dateipriefer",
 	"group-Image-reviewer-member": "{{GENDER:$1|Dateipriefer|Dateiprieferi}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Dateipriefer",
@@ -100,8 +95,6 @@
 	"grouppage-uploader": "{{ns:project}}:Uffelader",
 	"group-apihighlimits-requestor": "Hoch-API-Limit-Aafroger",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Hoch-API-Limit-Aafroger|Hoch-API-Limit-Aafroger}}",
-	"group-coder": "Programmierer",
-	"group-coder-member": "{{GENDER:$1|Programmierer|Programmiereri}}",
 	"group-global-bot": "Wältwyti Bötli",
 	"group-global-bot-member": "{{GENDER:$1|Bötli uff allene Projäkt}}",
 	"group-global-ipblock-exempt": "Globali IP-Sperre-Uusgnummeni",
@@ -135,5 +128,6 @@
 	"wikimedia-translationnotifications-signup-legal": "Mit Aagab vu däne Informatione stimmsch zue, d Wikimedia Foundation di zue Themene im Zämmehang mit Ibersetzige un andere Informatione zue Wikimedia derf kontaktiere, wu unsre Meinig no fir Di vu Interässi sin. Du stimmsch au zue, dass Dyni Date in dr Vereinigte Staate vu Amerika chenne gspycheret wäre un unsere [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Dateschutzrichtlinie] unterlige.",
 	"upload-more-photos-of-this-monument": "Wyteri Foto vu däm Dänkmol uffelade",
 	"wikimedia-developers": "Softwareentwickler",
-	"wikimedia-globalblocking-ipblocked": "'''Dyy IP-Adräss isch [[m:Special:MyLanguage/Global blocks|uf allne Wiki gsperrt]].'''\n\nD Sperri isch durgfiert wore vu $1 ($2).\nAs Grund fir d Sperri isch aagee: ''$3''.\n\n* Aafang vu dr Sperri: $4\n* Ablauf vu dr Sperri: $5\n\nDyy aktuälli IP-Adräss isch $6.\nGib bitte alli Detail dobe in allne Aafrogen aa.\n\nWänn glaubsch, ass d Sperri ne Fähler isch, chasch zuesätzligi Informationen un Hilfsstelligen in dr globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keini uffige Proxy]]“ finde.\nSunscht stell bitte [[m:Steward requests/Global|ne Aafrog im Meta-Wiki]], go d Sperri z dischpetiere."
+	"wikimedia-globalblocking-ipblocked": "'''Dyy IP-Adräss isch [[m:Special:MyLanguage/Global blocks|uf allne Wiki gsperrt]].'''\n\nD Sperri isch durgfiert wore vu $1 ($2).\nAs Grund fir d Sperri isch aagee: ''$3''.\n\n* Aafang vu dr Sperri: $4\n* Ablauf vu dr Sperri: $5\n\nDyy aktuälli IP-Adräss isch $6.\nGib bitte alli Detail dobe in allne Aafrogen aa.\n\nWänn glaubsch, ass d Sperri ne Fähler isch, chasch zuesätzligi Informationen un Hilfsstelligen in dr globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keini uffige Proxy]]“ finde.\nSunscht stell bitte [[m:Steward requests/Global|ne Aafrog im Meta-Wiki]], go d Sperri z dischpetiere.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Einen oder mehreri Proxyserver, wo für dyni Afrag sy ’bruucht worde, sy [[m:Special:MyLanguage/Global blocks|global gsperrt]].'''\n\nDie Sperrig isch gmacht worde {{GENDER:$1|vom $1|vor $1|vo $1}} ($2).\nD Begründig isch: ''$3''.\n\n* Afang vor Sperrig: $4\n* Ändi vor Sperrig: $5\n\nDi gsperrti Proxyadrässen isch $6 gsy.\nBitte gib alli die Detail a, falls d’ en Afrag machsch.\n\nWe de gloubsch, die Sperrig syg e Fähler, de findsch zuesätzlechi Information u Aleitigen ir globale Richtlinje «[[m:Special:MyLanguage/No open proxies|ke offnigi Proxys]]».\nWe de die Sperrig süsch wosch diskutiere, de [[m:Steward requests/Global|schick en Afrag uf Prüeffig im Meta-Wiki]]."
 }

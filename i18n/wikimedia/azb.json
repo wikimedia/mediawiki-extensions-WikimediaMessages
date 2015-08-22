@@ -6,7 +6,8 @@
 			"Ebrahimi-amir",
 			"Mousa",
 			"Nemo bis",
-			"Koroğlu"
+			"Koroğlu",
+			"Mjbmr"
 		]
 	},
 	"wikimediamessages-desc": "ویکی‌مِدیایا اؤزل مئساژلار",
@@ -61,9 +62,9 @@
 	"group-inactive": "غیر فعال ایستیفاده‌چی‌لر",
 	"group-inactive-member": "{{GENDER:$1|غیر فعال ایستفاده‌چی‌لر}}",
 	"grouppage-inactive": "{{ns:project}}:غیر فعال ایستفاده‌چی‌لر",
-	"group-interface-editor": "رابط دییشدیریچیلر",
-	"group-interface-editor-member": "{{GENDER:$1|رابط دییشدیرچی لر}}",
-	"grouppage-interface-editor": "{{ns:project}}: رابط دییشدیرچی لر",
+	"group-interface-editor": "رابط دییشدیرچی‌لر",
+	"group-interface-editor-member": "{{GENDER:$1|رابط دییشدیرچی}}",
+	"grouppage-interface-editor": "{{ns:project}}:رابط دییشدیرچی‌لر",
 	"group-ipblock-exempt": "ای پی باغلانما‌دان آزاد اولما",
 	"group-ipblock-exempt-member": "{{GENDER:$1|ای پی باغلانما‌دان آزاد اولما}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:ای پی بلوکون‌دان آزاد اولما",
