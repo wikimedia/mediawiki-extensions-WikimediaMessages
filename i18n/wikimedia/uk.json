@@ -224,7 +224,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "Клікаючи на  «{{int:flow-topic-action-unlock-topic}}», Ви погоджуєтеся з нашими [//wikimediafoundation.org/wiki/Terms_of_Use Умовами використання] і погоджуєтеся безповоротно опублікувати свій текст під ліцензією [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] і [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-upload-nolicenses": "Завантаження файлів на цю вікі не дозволене. Будь ласка, [[commons:Special:UploadWizard|завантажуйте на Вікісховище]].\n\nЩоб мати змогу використовувати цю спеціальну сторінку для завантаження у цю вікі, адміністратор має додати один чи декілька варіантів ліцензій на сторінку [[MediaWiki:Licenses]].\n\nВикористовуйте такий формат: <code>* Назва шаблону|Мітка</code>. Використовуйте будь-який текст, щоб дозволити завантаження без вибору ліцензії.",
 	"wikimediashoplink-linktext": "Магазин Вікіпедії",
-	"wikimediashoplink-link-tooltip": "Відвідайте Магазин Вікімедіа",
+	"wikimediashoplink-link-tooltip": "Відвідайте Магазин Вікіпедії",
 	"interlanguage-link-mul": "Додаткові мови",
 	"interlanguage-link-sitename-mul": "Багатомовний сайт {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Вікіпедія",

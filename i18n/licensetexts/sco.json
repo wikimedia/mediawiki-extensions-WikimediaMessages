@@ -1,10 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"John Reid"
+			"John Reid",
+			"AmaryllisGardener"
 		]
 	},
 	"wm-license-fal-text": "Copyleft: This wairk o airt is free; ye can redistreebute it n/or modifie it accordin til the terms o the '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ye'll fynd ae specimen o this license oan the [{{int:wm-license-fal-full-link}} Copyleft Attitude steid] aes weel aes [{{int:wm-license-fal-full-link-commons}} oan ither steids].",
+	"wm-license-gfdl-1.2-and-later": "Permission is grantit tae copy, distribute an/or modify this document unner the terms o the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 or ony later version published bi the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; wi no Invariant Sections, no Front-Cover Texts, an no Back-Cover Texts. A copy o the license is includit in the section enteetled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:sco:GFDL",
-	"wm-license-information-source": "Soorce"
+	"wm-license-information-description": "Description",
+	"wm-license-information-source": "Soorce",
+	"wm-license-information-date": "Date",
+	"wm-license-information-author": "Author",
+	"wm-license-information-permission": "Permission",
+	"wm-license-information-permission-reusing-text": "Reuisin this file",
+	"wm-license-own-work": "Ain wirk",
+	"wm-license-self-multiple-licenses-select": "Ye mey select the license o yer choice."
 }
