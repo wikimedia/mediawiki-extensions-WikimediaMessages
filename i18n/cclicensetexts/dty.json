@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "एट्रिब्युसन",
+	"wm-license-cc-by-sa-3.0-text": "यो फाईलको आधिकारिकता निम्न अन्तर्गत निर्धारण गरिया छ |",
 	"wm-license-cc-free": "तम खालि भया",
 	"wm-license-cc-free-to-share-header": "बाण",
 	"wm-license-cc-free-to-share-text": "कार्यको प्रतिलिपि, वितरण र प्रेषितका लाइ",
@@ -14,5 +15,6 @@
 	"wm-license-cc-conditions": "तल दिया सर्तहरु अनुसार:",
 	"wm-license-cc-conditions-attribution-header": "एट्रिब्युसन",
 	"wm-license-cc-conditions-attribution-text": "तमले निश्चित लेखक वा आधिकारिक व्यक्तिले निर्धारण गरया मान्यतामी आधारित होइबर ये कार्यलाई योगदान अद्दु सकंछौ( तर कोइलई सल्लाहकर्ताले आफ्नो इछ्या रे चाहना अनुसार अद्दु सक्दाईनन्)|",
-	"wm-license-cc-conditions-share_alike-header": "शेयर अलाइक"
+	"wm-license-cc-conditions-share_alike-header": "शेयर अलाइक",
+	"wm-license-cc-conditions-share_alike-text": "यदि तम ये कार्यमी के निर्माण, परिवर्तन, रे थप अद्दु चाहन्छौ भन्या येले निर्धारण गर्या निश्चित आधिकारिक प्रारूप भित्र रई बटि मात्र अद्धु सकुन्छौ |"
 }
