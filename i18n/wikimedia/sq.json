@@ -6,7 +6,8 @@
 			"Mikullovci11",
 			"Olsi",
 			"Puntori",
-			"Nemo bis"
+			"Nemo bis",
+			"Liridon"
 		]
 	},
 	"wikimediamessages-desc": "Mesazhet specifike të Wikimedia-s",
@@ -18,8 +19,6 @@
 	"nstab-institution": "Institucion",
 	"nstab-sequence": "Sekuencë",
 	"nstab-timedtext": "Tekst me datë",
-	"group-Ex_Administrator": "Ish-administratorë",
-	"group-Ex_Bureaucrat": "Ish-burokratë",
 	"group-Image-reviewer": "Inspektorët e figurave",
 	"group-Image-reviewer-member": "kontrollues e skedave",
 	"grouppage-Image-reviewer": "{{ns:project}}:Kontrolluesit e skedave",
@@ -90,8 +89,6 @@
 	"group-trusted-member": "përdoruesi e besueshme",
 	"grouppage-trusted": "{{ns:project}}:Përdoruesit të besueshme",
 	"group-uploader-member": "ngarkues",
-	"group-coder": "Koduesit",
-	"group-coder-member": "kodues",
 	"group-global-bot": "Robotet global",
 	"group-global-bot-member": "roboti globale",
 	"group-global-rollbacker": "Rikthejuës globale",
@@ -107,6 +104,11 @@
 	"group-sysadmin": "Sistemi administrativ",
 	"group-sysadmin-member": "administratori i sistemit",
 	"wikimedia-copyright": "Teksti është i disponueshëm nën <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licencën Creative Commons Attribution-ShareAlike</a>; kushte shtesë mund të aplikohen.\nShiko <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Kushtet e përdorimit</a> për detaje.",
-	"wikimedia-copyrightwarning": "Duke shpëtuar/ruajtur, ju pajtoheni në mënyrë të parevokueshme të lëshoni kontributin tuaj nën liçensën [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] dhe [https://www.gnu.org/copyleft/fdl.html Licenca për Dokumentim të Lirë (GFDL)]. Ju pajtoheni të jeni i kredituar nga ripërdoruesit, si minimum, nga një hyper-lidhje ose URL te faqja ku ju po kontribuoni. Shikoni [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Kushtet e përdorimit] për detaje.",
-	"wikimedia-developers": "Zhvilluesit"
+	"wikimedia-copyrightwarning": "Me ruajtjen e ndryshimeve, ju dakordoheni me [https://wikimediafoundation.org/wiki/Terms_of_Use Kushtet e Përdorimit], dhe ju në mënyrë të parevokueshme bieni dakord për lirimin e kontributit tuaj nën [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Licensën CC BY-SA 3.0] dhe [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nJu pajtoheni që një ndërlidhje ose URL është atribut i mjaftueshëm në bazë të licencës Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikilajme",
+	"wikibase-sitelinks-wikiquote": "Wikicitate",
+	"wikibase-sitelinks-wikisource": "Wikiburime",
+	"wikibase-sitelinks-wikivoyage": "Wikiudhëtim",
+	"wikimedia-developers": "Zhvilluesit",
+	"wikimedia-globalblocking-ipblocked": "'''IP adresa juaj është [[m:Special:MyLanguage/Global blocks|bllokuar në të gjitha wiki-t]].'''\n\nBllokimi u bë nga $1 ($2).\nArsyeja e dhënë është ''$3''.\n\n* Fillimi i bllokimit: $4\n* Skadimi i bllokimit: $5\n\nIP adresa juaj aktuale është $6.\nJu lutemi përfshini këto detaje në ndonjë pyetje që ju bëni.\n\nNëse ju mendoni se jeni bllokuar gabimisht, ju mund të gjeni informacion shtesë dhe udhëzime në rregullat globale  [[m:Special:MyLanguage/No open proxies|No open proxies]].\nPërndrzshe, për të diskutuar bllokimin ju lutem [[m:Steward requests/Global|posto një kërkesë për shqyrtim më Meta-Wiki]]."
 }
