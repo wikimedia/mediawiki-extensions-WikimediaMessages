@@ -36,7 +36,7 @@
 	"wm-license-book-translator": "Tõlkija",
 	"wm-license-book-volume": "Anne",
 	"wm-license-book-year-of-publication": "Avaldamisaasta",
-	"wm-license-cecill-text": "See teos on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-is seatud tingimustele. Litsentsi CeCILL tingimused on leitavad võrguaadressil [{{int:wm-license-cecill-full-link}} www.cecill.info].",
+	"wm-license-cecill-text": "See teos on [[{{int:wm-license-free-software-wiki-link}}|vaba tarkvara]]; tohid seda taaslevitada ja/või selle põhjal teisendeid luua vastavalt [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]-is seatud tingimustele. Litsentsi CeCILL tingimused on leitavad aadressil [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	"wm-license-creator-alternative-names": "Teised nimed",
 	"wm-license-creator-description": "Kirjeldus",
 	"wm-license-creator-date-of-birth": "Sünnikuupäev",

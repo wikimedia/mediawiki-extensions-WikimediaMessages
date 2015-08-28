@@ -8,7 +8,8 @@
 			"Nilamdyuti",
 			"Psneog",
 			"Rajuonline",
-			"IKHazarika"
+			"IKHazarika",
+			"Dibya Dutta"
 		]
 	},
 	"wikimediamessages-desc": "ৱিকিমিডিয়া নিৰ্ধাৰিত বাৰ্তা",
@@ -20,12 +21,6 @@
 	"nstab-institution": "প্ৰতিষ্ঠান",
 	"nstab-sequence": "ক্রম",
 	"nstab-timedtext": "সাময়িক পাঠ্য",
-	"group-Ex_Administrator": "প্ৰাক্তন প্ৰশাসক",
-	"group-Ex_Administrator-member": "{{GENDER:$1|প্ৰাক্তন প্ৰশাসক}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}:প্ৰাক্তন প্ৰশাসকসকল",
-	"group-Ex_Bureaucrat": "প্ৰাক্তন ব্যুৰোকেট",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|প্ৰাক্তন ব্যুৰোকেট}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:প্ৰাক্তন ব্যুৰোকেটসকল",
 	"group-Image-reviewer": "চিত্র পৰ্যালোচক",
 	"group-Image-reviewer-member": "{{GENDER:$1|চিত্ৰ পৰ্যালোচক}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:চিত্ৰ পৰ্যালোচক",
@@ -98,9 +93,6 @@
 	"group-trusted": "বিশ্বাসযোগ্য ব্যৱহাৰকাৰী",
 	"group-trusted-member": "{{GENDER:$1|বিশ্বাসযোগ্য সদস্য}}",
 	"grouppage-trusted": "{{ns:project}}:বিশ্বাসযোগ্য ব্যৱহাৰকাৰী",
-	"group-coder": "কোডাৰ",
-	"group-coder-member": "{{GENDER:$1|কোডাৰ}}",
-	"grouppage-coder": "{{ns:project}}:কোডাৰ",
 	"group-global-bot": "গোলকীয় বটসমূহ",
 	"group-global-bot-member": "{{GENDER:$1|গোলকীয় বট}}",
 	"group-global-rollbacker": "গোলকীয় ৰোলবেকাৰসকল",
@@ -132,5 +124,6 @@
 	"createacct-helpusername-url": "{{ns:Project}}:সদস্যনাম_নীতি",
 	"createacct-captcha-help-url": "{{ns:Project}}:এটা একাউণ্টৰ বাবে অনুৰোধ কৰক",
 	"wikimedia-developers": "উন্নয়নকাৰী",
-	"wikimedia-globalblocking-ipblocked": "'''আপোনাৰ আই-পি ঠিকনাটোক [[m:Special:MyLanguage/Global blocks|সকলো ৱিকিতে বাধা প্ৰদান কৰা হৈছে।]]'''\n\nবাধা প্ৰদান কৰা হৈছে $1ক ($2)\nকাৰণটো হ'ল \"$3\"।\n\n*বাধাৰ আৰম্ভণি: $4\n*বাধাৰ শেষ: $5\n\nআপুনাৰ বৰ্তমান আই-পি ঠিকনা $6।\nঅনুগ্ৰহ কৰি আপুনি কৰা সকলো প্ৰশ্নত ওপৰত দিয়া বিৱৰণ প্ৰদান কৰিব।\n\nযদি আপুনি বিশ্বাস কৰে যে আপুনাক ভুলতে বাধিত কৰা হৈছে, আপুনি [[m:Special:MyLanguage/No open proxies|কোনো প্ৰক্সি নাই]] বৈশ্বিক নীতিত অতিৰিক্ত তথ্য আৰু নিৰ্দেশাৱলী পাব পাৰে। অন্যথা, বাধাটো আলোচনা কৰিবলৈ [[m:Steward requests/Global|মেটা ৱিকিত অনুৰোধ কৰক]]।"
+	"wikimedia-globalblocking-ipblocked": "'''আপোনাৰ আই-পি ঠিকনাটোক [[m:Special:MyLanguage/Global blocks|সকলো ৱিকিতে বাধা প্ৰদান কৰা হৈছে।]]'''\n\nবাধা প্ৰদান কৰা হৈছে $1ক ($2)\nকাৰণটো হ'ল \"$3\"।\n\n*বাধাৰ আৰম্ভণি: $4\n*বাধাৰ শেষ: $5\n\nআপুনাৰ বৰ্তমান আই-পি ঠিকনা $6।\nঅনুগ্ৰহ কৰি আপুনি কৰা সকলো প্ৰশ্নত ওপৰত দিয়া বিৱৰণ প্ৰদান কৰিব।\n\nযদি আপুনি বিশ্বাস কৰে যে আপুনাক ভুলতে বাধিত কৰা হৈছে, আপুনি [[m:Special:MyLanguage/No open proxies|কোনো প্ৰক্সি নাই]] বৈশ্বিক নীতিত অতিৰিক্ত তথ্য আৰু নিৰ্দেশাৱলী পাব পাৰে। অন্যথা, বাধাটো আলোচনা কৰিবলৈ [[m:Steward requests/Global|মেটা ৱিকিত অনুৰোধ কৰক]]।",
+	"wikimedia-globalblocking-ipblocked-xff": "'''আপোনাৰ ব্যৱহৃত এক বা একাধিক প্ৰক্সি ছাৰ্ভাৰ [[m:Special:MyLanguage/Global blocks|সকলো ৱিকিতে বাধা প্ৰদান কৰা হৈছে।]]'''\n\nবাধা প্ৰদান কৰোতা হৈছে $1 ($2)\nকাৰণটো হ'ল \"$3\"।\n\n*বাধাৰ আৰম্ভণি: $4\n*বাধাৰ শেষ: $5\n\nআপুনাৰ বৰ্তমান প্ৰক্সি ঠিকনা $6।\nঅনুগ্ৰহ কৰি আপুনি কৰা সকলো প্ৰশ্নত ওপৰত দিয়া বিৱৰণ প্ৰদান কৰিব।\n\nযদি আপুনি বিশ্বাস কৰে যে আপুনাক ভুলতে বাধিত কৰা হৈছে, আপুনি [[m:Special:MyLanguage/No open proxies|কোনো প্ৰক্সি নাই]] বৈশ্বিক নীতিত অতিৰিক্ত তথ্য আৰু নিৰ্দেশাৱলী পাব পাৰে। অন্যথা, বাধাটো আলোচনা কৰিবলৈ [[m:Steward requests/Global|মেটা ৱিকিত অনুৰোধ কৰক]]।"
 }

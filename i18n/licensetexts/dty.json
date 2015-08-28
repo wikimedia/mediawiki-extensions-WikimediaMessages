@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"रमेश सिंह बोहरा",
-			"राम प्रसाद जोशी"
+			"राम प्रसाद जोशी",
+			"जनक राज भट्ट"
 		]
 	},
 	"wm-license-information-description": "बेलिविस्तार",
@@ -12,5 +13,6 @@
 	"wm-license-information-permission": "छुटकारा",
 	"wm-license-information-permission-reusing-text": "यो चित्र पुनप्रयोग गद्द",
 	"wm-license-information-other-versions": "अन्य संस्करणहरू",
-	"wm-license-own-work": "मेरो आफ्नोई काम"
+	"wm-license-own-work": "मेरो आफ्नोई काम",
+	"wm-license-self-multiple-licenses-select": "तमले आफ्नो इच्छा अनुसरको अनुमतिपत्र छान्न सकंछौ |"
 }

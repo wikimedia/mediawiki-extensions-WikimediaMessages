@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Botuzhaleny-sodamo",
-			"Sura"
+			"Sura",
+			"Denö"
 		]
 	},
 	"sitesupport": "Лезксйармаконь максома",
@@ -15,10 +16,9 @@
 	"grouppage-founder": "{{ns:project}}:Лувонь путыйть",
 	"group-import-member": "тевень совавтый",
 	"grouppage-import": "{{ns:project}}:Тевень совавтыйть",
-	"group-editinterface": "Интерчамань витнийть-петнийть",
-	"group-editinterface-member": "интерчамань витний-петний",
 	"group-steward": "Туросторт",
 	"group-steward-member": "туростор",
 	"grouppage-steward": "m:Туросторт",
-	"group-sysadmin": "Системань администраторт"
+	"group-sysadmin": "Системань администраторт",
+	"wikibase-sitelinks-wikinews": "Викикулят"
 }

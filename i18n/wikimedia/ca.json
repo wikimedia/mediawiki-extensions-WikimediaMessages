@@ -168,5 +168,6 @@
 	"interlanguage-link-mul": "Més idiomes",
 	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure",
 	"restriction-level-superprotect": "superprotegeix",
+	"wikimedia-feedback-termsofuse": "Estic d'acord en publicar comentaris d'acord amb les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Condicions d'ús</a>.",
 	"wikimedia-sulrenamewarning-usenew": "A partir d'ara cal que inicieu la sessió amb el nou nom d'usuari <strong>$1</strong>. El nom nou és únic per tots els projectes de Wikimedia i si inicieu sessió en un projecte, la mantindreu amb el mateix compte quan en visiteu un altre. La [[:m:Special:MyLanguage/Help:Unified_login|pàgina d'ajuda d'identificació unificada]] té més informació sobre l'inici de sessió únic, així com una llista de les preguntes més freqüents. Si necessiteu actualitzar la vostra adreça de correu electrònic o canviar la contrasenya en les vostres [[Special:Preferences|preferències]], ara potser és un bon moment per fer-ho.\n\nPer demanar un nom de compte diferent, aneu a [[Special:GlobalRenameRequest]]. Us agraïm la vostra participació als projectes de Wikimedia."
 }
