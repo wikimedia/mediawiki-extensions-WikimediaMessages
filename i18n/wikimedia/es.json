@@ -34,7 +34,8 @@
 			"Kroji",
 			"Tusca",
 			"Ryo567",
-			"Matiia"
+			"Matiia",
+			"-jem-"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -73,9 +74,9 @@
 	"group-botadmin": "Bots con permisos de administrador",
 	"group-botadmin-member": "{{GENDER:$1|bot con permisos de administrador}}",
 	"grouppage-botadmin": "{{ns:project}}:Bots con permisos de administrador",
-	"group-confirmed": "Usuarios confirmados",
-	"group-confirmed-member": "{{GENDER:$1|usuario confirmado|usuaria confirmada}}",
-	"grouppage-confirmed": "{{ns:project}}:Usuarios confirmados",
+	"group-confirmed": "Confirmados",
+	"group-confirmed-member": "{{GENDER:$1|confirmado|confirmada}}",
+	"grouppage-confirmed": "{{ns:project}}:Confirmados",
 	"group-editprotected": "Editores de páginas protegidas",
 	"group-editprotected-member": "{{GENDER:$1|editor|editora}} de páginas protegidas",
 	"grouppage-editprotected": "{{ns:project}}:Editores de páginas protegidas",
