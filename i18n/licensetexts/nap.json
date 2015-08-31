@@ -3,9 +3,23 @@
 		"authors": [
 			"Chelin",
 			"Diebuche",
-			"C.R."
+			"C.R.",
+			"Candalua"
 		]
 	},
+	"wm-license-artwork-artist": "Artista",
+	"wm-license-artwork-title": "Titulo",
+	"wm-license-artwork-dimensions": "Dimenzioni",
+	"wm-license-artwork-current-location": "Pizzo addò stà 'o soggetto",
+	"wm-license-artwork-references": "Riferimienti",
+	"wm-license-artwork-notes": "Note",
+	"wm-license-book-language": "Lengua",
+	"wm-license-book-publisher": "Editore",
+	"wm-license-book-title": "Titulo",
+	"wm-license-book-translator": "Traduttore",
+	"wm-license-book-volume": "Volume",
+	"wm-license-creator-description": "Descrizzione",
+	"wm-license-creator-date-of-birth": "Data 'e nasceta",
 	"wm-license-gfdl-1.2-and-later": "Chisto documento se pô copià, distribuì e/o modefecà secunno 'a licenzia '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzione 1.2 pubbrecate d\"o [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] o seguente; senza alcuna sezzione nun modificabile, senza testo 'e copertina e senza testo 'e quarta 'e copertina. Na copia d''a licenzia se pô truvà 'int'â sezzione ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo d''a GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Descrizzione",
 	"wm-license-information-source": "Funte",
