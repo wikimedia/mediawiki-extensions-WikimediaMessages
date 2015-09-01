@@ -10,7 +10,8 @@
 			"Turin",
 			"Nemo bis",
 			"StanProg",
-			"Dicto23456"
+			"Dicto23456",
+			"V111P"
 		]
 	},
 	"wikimediamessages-desc": "Съобщения, специфични за Уикимедия",
@@ -20,8 +21,6 @@
 	"nstab-creator": "Създател",
 	"nstab-institution": "Институция",
 	"nstab-sequence": "Последователност",
-	"group-Ex_Administrator": "Бивши администратори",
-	"group-Ex_Bureaucrat": "Бивши бюрократи",
 	"group-OTRS-member": "OTRS членове",
 	"group-OTRS-member-member": "член на OTRS",
 	"group-abusefilter": "Редактори на филтъра срещу злоупотреби",
@@ -64,7 +63,7 @@
 	"group-interface-editor": "Редактори на интерфейса",
 	"group-interface-editor-member": "редактор на интерфейса",
 	"grouppage-interface-editor": "{{ns:project}}:Редактори на интерфейса",
-	"group-ipblock-exempt": "Изключения от блокирането по IP адрес",
+	"group-ipblock-exempt": "изключения от блокирането по IP адрес",
 	"group-ipblock-exempt-member": "Изключение от блокирането по IP адрес",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Изключения от блокирането по IP адрес",
 	"group-patroller": "Патрульори",
@@ -81,8 +80,6 @@
 	"group-trusted": "Доверени потребители",
 	"group-trusted-member": "доверен потребител",
 	"grouppage-trusted": "{{ns:project}}:Доверени потребители",
-	"group-coder": "Програмисти",
-	"group-coder-member": "{{GENDER:$1|програмист}}",
 	"group-global-bot": "Глобални ботове",
 	"group-global-bot-member": "глобален бот",
 	"group-global-rollbacker": "Глобални изпълнители на отмени",

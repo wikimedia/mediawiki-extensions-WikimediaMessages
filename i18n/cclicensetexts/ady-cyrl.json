@@ -5,13 +5,17 @@
 			"SamGamgee",
 			"SmartNart12",
 			"TheRossatron",
-			"Inyzh"
+			"Inyzh",
+			"Highlander45temp"
 		]
 	},
 	"wm-license-cc-attribution": "Аттрибуцие (зытхыгъэр къэгъэлъэгъон)",
 	"wm-license-cc-free": "Уфит:",
 	"wm-license-cc-free-to-share-header": "ягъэшIэн",
+	"wm-license-cc-free-to-share-text": "мы шIагъэм икопие шIын, зэлъагъэшIэн, ыкIи ябгъэхьын",
+	"wm-license-cc-free-to-remix-header": "ремикс шIын",
 	"wm-license-cc-free-to-remix-text": "шIагъэр къэштэжьын",
+	"wm-license-cc-conditions": "Мыщ тетэу:",
 	"wm-license-cc-conditions-attribution-header": "Аттрибуцие (зытхыгъэр къэгъэлъэгъон)",
 	"wm-license-cc-conditions-share_alike-header": "фэдэу ягъашI"
 }

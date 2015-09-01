@@ -1,4 +1,11 @@
 {
-	"@metadata": [],
-	"wm-license-information-description": "Deskripsión"
+	"@metadata": {
+		"authors": [
+			"Geopoet"
+		]
+	},
+	"wm-license-information-description": "Deskripsión",
+	"wm-license-information-source": "Pinaggikanan",
+	"wm-license-information-date": "Petsa",
+	"wm-license-information-author": "Kagsúrat"
 }
