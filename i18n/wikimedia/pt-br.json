@@ -28,12 +28,13 @@
 			"He7d3r",
 			"Opraco",
 			"Araceletorres",
-			"TheEduGobi"
+			"TheEduGobi",
+			"Cainamarques"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pt-br",
-	"sitesupport": "Doações",
+	"sitesupport": "Faça uma doação",
 	"tooltip-n-sitesupport": "Ajude-nos",
 	"specialpages-group-contribution": "Contribuições/Angariação de fundos",
 	"nstab-creator": "Criador",

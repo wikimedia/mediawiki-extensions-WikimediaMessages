@@ -6,7 +6,8 @@
 			"Toliño",
 			"Xosé",
 			"Nemo bis",
-			"Elisardojm"
+			"Elisardojm",
+			"Banjo"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicas da Wikimedia",
@@ -208,5 +209,6 @@
 	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\nVexa os [[m:Special:CentralAuth/$1|detalles globais da conta]] para máis información.",
 	"wikimedia-centralauth-uwbr-intro": "Esta páxina lista os usuarios rexistrados neste wiki que sufrirán un cambio de nome debido á [[m:Single User Login finalisation announcement|finalización do rexistro de usuario único]]. Pode obter máis información sobre o [[m:Help:Unified login|rexistro único]]. Os usuarios poden solicitar un cambio de nome en calquera momento mediante [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Ver ficheiros e páxinas borradas nos espazos de nomes {{ns:file}} e {{ns:file_talk}}",
-	"securepoll-dblist-securepollglobal": "Elección da Xunta"
+	"securepoll-dblist-securepollglobal": "Elección da Xunta",
+	"wikimedia-mwoauthserver-invalid-user": "Occorreu un problema no seu acceso global. Se creou a súa conta recentemente, por favor saia do sistema e volva a acceder, e despóis intente autorizar a aplicación. Se non creou a súa conta recentemente, por favor visite outro sitio Wikimedia mentres estea rexistrado (coma [https://mediawiki.org/ mediawiki.org]) e intente autorizar a aplicación de novo. (Código de erro: E008)"
 }

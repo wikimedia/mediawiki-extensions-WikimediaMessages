@@ -68,6 +68,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:Изключения от блокирането по IP адрес",
 	"group-patroller": "Патрульори",
 	"group-patroller-member": "Патрульор",
+	"grouppage-patroller": "{{ns:project}}:Патрульори",
 	"group-researcher": "Изследователи",
 	"group-researcher-member": "изследовател",
 	"grouppage-researcher": "{{ns:project}}:Изследователи",
