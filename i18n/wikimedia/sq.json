@@ -7,7 +7,8 @@
 			"Olsi",
 			"Puntori",
 			"Nemo bis",
-			"Liridon"
+			"Liridon",
+			"Ammartivari"
 		]
 	},
 	"wikimediamessages-desc": "Mesazhet specifike të Wikimedia-s",
@@ -85,6 +86,8 @@
 	"group-transwiki": "Importuesit ndër-wiki",
 	"group-transwiki-member": "importues transwiki",
 	"grouppage-transwiki": "{{ns:project}}:Importuesit e transwiki-t",
+	"group-templateeditor": "Redaktorë të stampave",
+	"group-templateeditor-member": "{{GENDER:$1|redaktor i stampave}}",
 	"group-trusted": "Përdoruesit e besuar",
 	"group-trusted-member": "përdoruesi e besueshme",
 	"grouppage-trusted": "{{ns:project}}:Përdoruesit të besueshme",

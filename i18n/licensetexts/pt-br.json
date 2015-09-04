@@ -8,7 +8,8 @@
 			"Hamilton Abreu",
 			"Luckas",
 			"Luckas Blade",
-			"555"
+			"555",
+			"Cainamarques"
 		]
 	},
 	"wikimedialicensetexts-desc": "Mensagens de licenciamento Wikimedia",
@@ -85,5 +86,5 @@
 	"wm-license-self-one-license-with-author": "$1, titular dos direitos autorais desta obra, publica-a nos termos da seguinte licença:",
 	"wm-license-self-multiple-licenses": "Eu, titular dos direitos autorais desta obra, publico-a nos termos das seguintes licenças:",
 	"wm-license-self-multiple-licenses-with-author": "$1, titular dos direitos autorais desta obra, publico-a nos termos das seguintes licenças:",
-	"wm-license-self-multiple-licenses-select": "Você pode escolher a licença que quiser."
+	"wm-license-self-multiple-licenses-select": "Você pode escolher a licença que desejar"
 }

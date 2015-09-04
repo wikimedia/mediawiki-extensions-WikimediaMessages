@@ -4,5 +4,8 @@
 			"Ibou"
 		]
 	},
-	"sitesupport": "Joxe ag ndimbal"
+	"sitesupport": "Joxe ag ndimbal",
+	"tooltip-n-sitesupport": "Jàppale nu",
+	"wikimedia-copyright": "Jàppandig ëmbiit lee ngi sukkadiku ci <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution- Séddoo ci genn anam gi</a>;\nMan nañoo sukkadiku itam ci yeneen anam. Xoolal <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">anami jëfandiku gi</a> ngir yeneeni leeral.",
+	"wikimedia-developers": "Suqalikat"
 }
