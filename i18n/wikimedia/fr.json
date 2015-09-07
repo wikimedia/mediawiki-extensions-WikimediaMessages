@@ -44,7 +44,8 @@
 			"Ltrlg",
 			"Wladek92",
 			"VictorBrice",
-			"SRXcraft"
+			"SRXcraft",
+			"Ash Crow"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -238,7 +239,7 @@
 	"wikimedia-flow-terms-of-use-lock-topic": "En cliquant sur « {{int:flow-topic-action-lock-topic}} », vous acceptez nos [//wikimediafoundation.org/wiki/Terms_of_Use Conditions d’utilisation] et de placer, de façon irrévocable, votre texte sous les licences [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] et [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-unlock-topic": "En cliquant sur « {{int:flow-topic-action-unlock-topic}} », vous acceptez nos [//wikimediafoundation.org/wiki/Terms_of_Use Conditions d’utilisation] et de placer, de façon irrévocable, votre texte sous les licences [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] et [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-upload-nolicenses": "Le téléchargement de fichiers sur ce wiki n’est pas activé. Veuillez [[commons:Special:UploadWizard|télécharger sur Wikimedia Communs]].\n\nPour pouvoir utiliser cette page spéciale pour télécharger vers ce wiki, un administrateur doit ajouter une ou plusieurs options de licence à la page [[MediaWiki:Licenses]].\n\nUtilisez le format suivant : <code>* Nom du modèle|Libellé</code>. Utilisez n’importe quel texte pour activer le téléchargement sans options de licence.",
-	"wikimediashoplink-linktext": "Magasin de Wikipédia",
+	"wikimediashoplink-linktext": "Boutique Wikipédia",
 	"wikimediashoplink-link-tooltip": "Visitez le magasin de Wikipédia",
 	"interlanguage-link-mul": "Plus de langues",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",

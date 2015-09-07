@@ -155,5 +155,6 @@
 	"interlanguage-link-sitename-wikipedia": "Википедија, слободна енциклопедија",
 	"interlanguage-link-commons": "Викимедијина остава",
 	"restriction-level-superprotect": "супер заштита",
+	"wikimedia-centralauth-contribs-locked": "Овај налог је глобално закључан.\nЗа више информација погледајте [[m:Special:CentralAuth/$1]].",
 	"right-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}"
 }
