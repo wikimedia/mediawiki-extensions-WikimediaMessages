@@ -8,7 +8,8 @@
 			"आलोक",
 			"Nemo bis",
 			"संजीव कुमार",
-			"రహ్మానుద్దీన్"
+			"రహ్మానుద్దీన్",
+			"राम प्रसाद जोशी"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया-विशिष्ट संदेश",
@@ -20,12 +21,6 @@
 	"nstab-institution": "संस्था",
 	"nstab-sequence": "अनुक्रम",
 	"nstab-timedtext": "समयानुबर्ती पाठ",
-	"group-Ex_Administrator": "पूर्व प्रबंधक",
-	"group-Ex_Administrator-member": "{{GENDER:$1|पूर्व प्रबंधक}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}:पूर्व प्रबन्धक",
-	"group-Ex_Bureaucrat": "पूर्व प्रशासक",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|पूर्व प्रशासक}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:पूर्व प्रशासक",
 	"group-Image-reviewer": "चित्र समीक्षक",
 	"group-Image-reviewer-member": "{{GENDER:$1|चित्र समीक्षक}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:चित्र समीक्षक",
@@ -98,8 +93,6 @@
 	"group-trusted": "विश्वसनीय सदस्य",
 	"group-trusted-member": "{{GENDER:$1|विश्वसनीय सदस्य}}",
 	"grouppage-trusted": "{{ns:project}}:विश्वसनीय सदस्य",
-	"group-coder": "कोडर्स",
-	"group-coder-member": "{{GENDER:$1|कोडर}}",
 	"group-global-bot": "वैश्विक यंत्र",
 	"group-global-bot-member": "{{GENDER:$1|वैश्विक बॉट}}",
 	"group-global-rollbacker": "वैश्विक पुरानी स्थित पर लाने वाले",
@@ -126,7 +119,7 @@
 	"wikibase-sitelinks-commons": "विकिमीडिया कॉमन्स",
 	"cant-delete-main-page": "आप प्रधान पृष्ठ को स्थानान्तरित या हटा नहीं सकते ।",
 	"wikimedia-developers": "डेवेलपर्स",
-	"wikimedia-globalblocking-ipblocked": "'''आपका आईपी अड्रस [[m:Special:MyLanguage/Global blocks|सभी विकि पर ख़ारिज]] किया गया है.'''\n\nइस ख़ारिज को $1 ($2) ने किया.\nबताया गया कारण : ''$3'' .\n\n* ख़ारिज शुरू: $4\n* ख़ारिज बन्द्: $5\n\nआपका प्रस्तुत आईपी अड्रस् $6.\nकृपया ऊपर दी गईं बातें अपने पूछ्ताछ में शामिल करें।\n\nअगर आप मनते है कि यह ख़ारिज करना किसी गलती से हुआ है, तो आप अधिक जानकारी और निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस नही]] वैश्विक नीति पर पढें.\nया फिर, इस खारिज की चर्चा [[m:Steward requests/Global|यहाँ करें और मेटाविकि पर एक नया चर्चा शुरू करें]].",
+	"wikimedia-globalblocking-ipblocked": "'''आपका आईपी अड्रस [[m:Special:MyLanguage/Global blocks|सभी विकि पर ख़ारिज]] किया गया है.'''\n\nइस ख़ारिज को $1 ($2) ने किया.\nबताया गया कारण : ''$3'' .\n\n* ख़ारिज शुरू: $4\n* ख़ारिज बन्द्: $5\n\nआपका प्रस्तुत आईपी अड्रस् $6.\nकृपया ऊपर दी गईं बातें अपने पूछ्ताछ में शामिल करें।\n\nअगर आप मानते हैं कि यह ख़ारिज करना किसी गलती से हुआ है, तो आप अधिक जानकारी और निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस नही]] वैश्विक नीति पर पढें.\nया फिर, इस खारिज की चर्चा [[m:Steward requests/Global|यहाँ करें और मेटाविकि पर एक नया चर्चा शुरू करें]].",
 	"right-superprotect": "उच्च सुरक्षा स्तर बदलें",
 	"protect-level-superprotect": "केवल उच्च-सुरक्षा सदस्यों को अनुमति दें।",
 	"restriction-level-superprotect": "उच्च सुरक्षा"
