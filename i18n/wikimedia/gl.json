@@ -150,6 +150,8 @@
 	"group-translationadmin": "Administradores de tradución",
 	"group-translationadmin-member": "{{GENDER:$1|administrador|administradora}} de tradución",
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de tradución",
+	"group-wmf-officeit": "IT da oficina da WMF",
+	"group-wmf-officeit-member": "{{GENDER:$1|IT da oficina da WMF}}",
 	"group-wmf-researcher": "Investigadores da WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Investigador|Investigadora}} da WMF",
 	"search-interwiki-custom": "wiktionary:De Wikcionario\nwikibooks:De Wikilibros\nwikinews:De Wikinoticias\nwikiquote:De Wikiquote\nwikisource:De Wikisource\nwikiversity:De Wikiversidade\nwikivoyage:De Wikiviaxes",
