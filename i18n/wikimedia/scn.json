@@ -6,7 +6,8 @@
 			"Santu",
 			"לערי ריינהארט",
 			"Nemo bis",
-			"Pippinu"
+			"Pippinu",
+			"Sarvaturi"
 		]
 	},
 	"wikimediamessages-desc": "Missaggi spicifici di Wikimedia",
@@ -36,8 +37,6 @@
 	"group-transwiki": "Mpurtaturi transwiki",
 	"group-transwiki-member": "{{GENDER:$1|mpurtaturi transwiki|mpurtatrici transwiki|mpurtaturi o mpurtatrici transwiki}}",
 	"grouppage-transwiki": "{{ns:project}}:Mpurtatura transwiki",
-	"group-coder": "Cudificatura",
-	"group-coder-member": "{{GENDER:$1|prugrammaturi|prugrammatrici|prugrammaturi o prugrammatrici}}",
 	"group-global-bot": "Bot glubbali",
 	"group-global-bot-member": "{{GENDER:$1|bot glubbali}}",
 	"group-global-rollbacker": "Ripristinatura glubbali",
@@ -60,5 +59,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Sviluppatura",
 	"wikimedia-globalblocking-ipblocked": "'''Lu to nnirizzu IP fu' [[m:Special:MyLanguage/Global blocks|bluccatu nta tutti li wiki]].'''\n\nLu bloccu fu' mpostu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Principiu dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu to nnirizzu IP attuali è $6.\nPi' favuri rifirisci tutti li dittagghî di ccassupra nta tutti li dumanni chi' fai.\n\nSi' pensi chi' fusti bluccatu pi' sbagghiu, poi truvari autri nfurmazzioni e istruzzioni nto testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuddu proxy apertu]].\nSannunca, pi' discùtiri di stu bloccu [[m:Steward requests/Global|inoltra na richiesta di rivisioni ntâ Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Unu o puru cchiu' ssai di server proxy adupirati ntâ to richiesta furu[[m:Special:MyLanguage/Global blocks|bluccati nta tutti li wiki]].'''\n\nLu bloccu fu' mpostu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Principiu dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu nnirizzu dû proxy bluccatu era $6.\nPi' favuri rifirisci tutti li dittagghî di ccassupra nta tutti li dumanni chi' fai.\n\nSi' pensi chi' fusti bluccatu pi' sbagghiu, poi truvari autri nfurmazzioni e istruzzioni ntô testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuddu proxy apertu]].\nSannunca, pi' discùtiri di stu bloccu [[m:Steward requests/Global|inoltra na richiesta di rivisioni ntâ Meta-Wiki]]."
+	"wikimedia-globalblocking-ipblocked-xff": "'''Unu o puru chiossai di server proxy adupirati ntâ tò addumannata foru [[m:Special:MyLanguage/Global blocks|bluccati nta tutti li wiki]].'''\n\nLu bloccu fu mpunutu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Accuminzagghia dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu nnirizzu dû proxy bluccatu era $6.\nPi favuri arrifirisci tutti li dittagghî di ccassupra nta tutti l'addumannati chi fai.\n\nSi penzi chi fusti bluccatu pi sbagghiu, poi attruvari àutri nfurmazzioni e struzzioni ntô testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuddu proxy graputu]].\nSinnò, pi discùtiri di stu bloccu [[m:Steward requests/Global|fai n'addumannata di rivisioni ntâ Meta-Wiki]]."
 }

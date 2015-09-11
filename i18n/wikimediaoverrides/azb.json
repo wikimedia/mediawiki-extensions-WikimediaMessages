@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alp Er Tunqa"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(آد سئچمه کؤمگی)]]",
+	"wikimedia-createacct-imgcaptcha-help": "عکسی گؤرمورسونوز؟ [[{{MediaWiki:createacct-captcha-help-url}}|ایشلدن حسابی]] ایسته‌یین"
+}
