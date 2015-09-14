@@ -16,5 +16,7 @@
 	"wikibase-sitelinks-wikiquote": "Викицитэ",
 	"wikibase-sitelinks-wikisource": "Викихъарзынэщ",
 	"wikibase-sitelinks-wikivoyage": "Викигъуазэ",
-	"wikimedia-developers": "ПрограмшIакIохэр"
+	"wikimedia-developers": "ПрограмшIакIохэр",
+	"wikimedia-globalblocking-ipblocked": "'''Уи IP-адресыр [[m:Special:MyLanguage/Global blocks|вики пстэум ащыгъэблокыгъ]].'''\n\nЗыгъэблокыгъэр $1 ($2).\nЗыпкъырыкIыгъэр ''$3''.\n\n* блокыныгъэм ыпэ: $4\n* блокыныгъэм ыкIэ: $5\n\nДжырэ IP-адресэу уиIэр $6.\nКIэлъэIоу птхырэ пстэум мы зигугъу шIыгъэр хэгъэуцо зэпыт.\n\nКъончагъэкIэ уагъэблокыгъэу пшIошIырэмэ, нэмыкI информацие е узщыгъозэшъун мыщ къыщыбгъотыщт [[m:Special:MyLanguage/No open proxies|Зи прокси зэIухыгъэ]] глобал хабзэхэм.\nАмырмэ уи блокым утегущыIэнэу уфаемэ [[m:Steward requests/Global|Мета-виким кIэлъэIу щытх]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Зы е прокси сервер заулэ горэ уи кIэлъэIум щыгъэфедагъэу [[m:Special:MyLanguage/Global blocks|глобалэу агъэблокыгъэ]].'''\n\nЗыгъэблокыгъэр $1 ($2).\nЗыпкъырыкIыгъэр ''$3''.\n\n* блокыныгъэм ыпэ: $4\n* блокыныгъэм ыкIэ: $5\n\nАгъэблокыгъэ прокси адресыгъэр $6.\nКIэлъэIоу птхырэ пстэум мы зигугъу шIыгъэр хэгъэуцо зэпыт.\n\nКъончагъэкIэ уагъэблокыгъэу пшIошIырэмэ, нэмыкI информацие е узщыгъозэшъун мыщ къыщыбгъотыщт [[m:Special:MyLanguage/No open proxies|Зи прокси зэIухыгъэ]] глобал хабзэхэм.\nАмырмэ уи блокым утегущыIэнэу уфаемэ [[m:Steward requests/Global|Мета-виким кIэлъэIу щытх]]."
 }
