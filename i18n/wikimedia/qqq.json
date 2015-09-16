@@ -74,7 +74,7 @@
 	"group-editprotected": "{{doc-group|editprotected}}",
 	"group-editprotected-member": "{{doc-group|editprotected|member}}",
 	"grouppage-editprotected": "{{doc-group|editprotected|page}}",
-	"group-eliminator": "{{doc-group|eliminator}}\nUsergroup introduced for ptwiki ([[w:pt:Especial:Lista_de_privil%C3%A9gios_de_grupos|Especial:Lista de privilégios de grupos]], [[bugzilla:24623|Bug 24623]])",
+	"group-eliminator": "{{doc-group|eliminator}}\nUsergroup introduced for ptwiki ([[w:pt:Especial:Lista_de_privil%C3%A9gios_de_grupos|Especial:Lista de privilégios de grupos]], [[phab:T26623|Task T26623]])",
 	"group-eliminator-member": "{{doc-group|eliminator|member}}",
 	"grouppage-eliminator": "{{doc-group|eliminator|page}}",
 	"group-filemover": "{{doc-group|filemover}}",
