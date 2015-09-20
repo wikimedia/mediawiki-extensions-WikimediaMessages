@@ -37,7 +37,7 @@
 	"group-arbcom-member": "{{GENDER:$1|члан Арбитражног одбора}}",
 	"grouppage-arbcom": "{{ns:project}}:Чланови Арбитражног одбора",
 	"group-autopatrolled": "Аутоматски патролисани",
-	"group-autopatrolled-member": "{{GENDER:$1|аутоматски патролисан|аутоматски патролисана}}",
+	"group-autopatrolled-member": "{{GENDER:$1|аутоматски патролиран|аутоматски патролирана}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Аутопатролери",
 	"group-autoreviewer": "Самооцењивачи",
 	"group-autoreviewer-member": "{{GENDER:$1|самооцењивач|самооцењивачица|самооцењивач}}",
