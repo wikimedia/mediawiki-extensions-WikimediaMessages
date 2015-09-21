@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ælsån"
+			"Ælsån",
+			"Jyllanj"
 		]
 	},
-	"sitesupport": "Støtside",
-	"tooltip-n-sitesupport": "Støt os"
+	"sitesupport": "Donasjone",
+	"tooltip-n-sitesupport": "Stöt os",
+	"wikimedia-developers": "Utwejla"
 }

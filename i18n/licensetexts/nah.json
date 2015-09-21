@@ -2,12 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Ricardo gs",
-			"Teòtlalili"
+			"Teòtlalili",
+			"Taresi"
 		]
 	},
 	"wikimedialicensetexts-desc": "Huiquimedia tēmācāhualiztli tītlantlahtōlli",
 	"wm-license-book-language": "Tlâtòlli",
+	"wm-license-information-description": "Tlahtōlli",
 	"wm-license-information-source": "Īhuīcpa",
+	"wm-license-information-permission": "Huelitiliztli",
 	"wm-license-information-permission-see-below": "Xiquitta tlani.",
 	"wm-license-own-work": "Nonehhuiyān notlachīhual"
 }
