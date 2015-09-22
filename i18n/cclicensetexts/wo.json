@@ -4,6 +4,7 @@
 			"Ibou"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "Jàppandeeb bii dencukaay a ngi aju ci sañal gu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.fr Féetale-Séddoo ci gennug anam 3.0 Unported]",
 	"wm-license-cc-free": "Féeg nga ci:",
 	"wm-license-cc-free-to-share-header": "séddoo",
 	"wm-license-cc-free-to-share-text": "duppi, séddale ak yónnee bile liggéey.",
@@ -12,5 +13,6 @@
 	"wm-license-cc-conditions": "Ci kaw yii anam:",
 	"wm-license-cc-conditions-attribution-header": "Moomale",
 	"wm-license-cc-conditions-attribution-text": "Fàww nga moomale liggéey bi ci anam gi ko aji-defar ji walla ki-moom aqi liggéey bi waxee (waaye du caage ne danga koy defe ci anam buy junj ne dafa ànd ak yaw walla ànd ci ninga koy jëfandikoo)",
-	"wm-license-cc-conditions-share_alike-header": "Séeddoo ci gii anamam"
+	"wm-license-cc-conditions-share_alike-header": "Séeddoo ci gii anamam",
+	"wm-license-cc-conditions-share_alike-text": "Soo soppee walla nga defar leneen te sukkadiku ci bii liggéey, faww nga wasaare ko ci gennug sañalam gi walla geneen sañal gu muy nirool."
 }
