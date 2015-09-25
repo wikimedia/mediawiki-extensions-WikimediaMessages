@@ -20,7 +20,8 @@
 			"Siebrand",
 			"Umherirrender",
 			"Manuae",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Kosovastar"
 		]
 	},
 	"wikimedialicensetexts-desc": "{{desc|name=Wikimedia License Texts|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -50,7 +51,7 @@
 	"wm-license-book-start-this-book": "Label \"Start this Book\" at [[Commons:Template:Book]]. It's the label of the link to the first page of the book the user is seeing one image of. [[commons:File:Meyers_b1_s0024.jpg|Example]]\n\nAlternative wording: \"The beginning of the book\"",
 	"wm-license-book-subtitle": "Label \"Subtitle\" at [[Commons:Template:Book]].\n{{Identical|Subtitle}}",
 	"wm-license-book-title": "Label \"Title\" at [[Commons:Template:Book]].\n{{Identical|Title}}",
-	"wm-license-book-translator": "Label \"Translator\" at [[Commons:Template:Book]].\n{{Identical|Translator}}",
+	"wm-license-book-translator": "Përkthyes",
 	"wm-license-book-volume": "Label \"Volume\" at [[Commons:Template:Book]].\n{{Identical|Volume}}",
 	"wm-license-book-year-of-publication": "Label \"Year of publication\" at [[Commons:Template:Book]].",
 	"wm-license-cecill-text": "You can peek at [[Commons:Template:CeCILL]] for the current translations.\n\nRefers to:\n* {{msg-mw|Wm-license-free-software-wiki-link}}\n* {{msg-mw|Wm-license-cecill-wiki-link}}\n* {{msg-mw|Wm-license-cecill-full-link}}",
