@@ -37,6 +37,8 @@
 	"group-abusefilter": "معدلو مرشحات الإساءة",
 	"group-abusefilter-member": "{{GENDER:$1|معدل مرشح الإساءة|معدلة مرشح الإساءة}}",
 	"grouppage-abusefilter": "{{ns:project}}:معدلو مرشح الإساءة",
+	"group-abusefilter-helper": "مساعدو مرشحات الإساءة",
+	"group-abusefilter-helper-member": "{{GENDER:$1|مساعد مرشحات الإساءة|مساعدة مرشحات الغساءة}}",
 	"group-accountcreator": "منشئو الحسابات",
 	"group-accountcreator-member": "{{GENDER:$1|منشئ حسابات|منشئة حسابات}}",
 	"grouppage-accountcreator": "{{ns:project}}:منشئو الحسابات",
@@ -109,9 +111,12 @@
 	"grouppage-uploader": "{{ns:project}}:رافعون",
 	"group-wikidata-staff": "طاقم ويكي بيانات",
 	"group-wikidata-staff-member": "{{GENDER:$1|موظف ويكي داتا|موظفة ويكي داتا}}",
+	"group-captcha-exempt": "استثناءات CAPTCHA",
 	"group-global-bot": "بوتات عامة",
 	"group-global-bot-member": "{{GENDER:$1|بوت عام}}",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|متجاوز المنع العام|متجاوزة المنع العام}}",
+	"group-global-interface-editor": "محررو الواجهة العالميون",
+	"group-global-interface-editor-member": "{{GENDER:$1|محرر واجهة عالمي|محررة واجهة عالمية}}",
 	"group-global-renamer-member": "{{GENDER:$1|مغير أسماء عالمي|مغيرة أسماء عالمية}}",
 	"group-global-rollbacker": "مسترجعون عامون",
 	"group-global-rollbacker-member": "{{GENDER:$1|مسترجع عام}}",
@@ -176,5 +181,6 @@
 	"interlanguage-link-sitename-commons": "ويكيميديا كومنز مستودع الملفات",
 	"right-superprotect": "تغيير مستويات الحماية الفائقة",
 	"protect-level-superprotect": "السماح لمستخدمي الحماية الفائقة فقط",
-	"restriction-level-superprotect": "حماية فائقة"
+	"restriction-level-superprotect": "حماية فائقة",
+	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]]."
 }

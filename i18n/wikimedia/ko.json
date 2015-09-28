@@ -22,7 +22,8 @@
 			"Revi",
 			"콩가루",
 			"Ysjbserver",
-			"Kurousagi"
+			"Kurousagi",
+			"Hwangjy9"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -170,7 +171,7 @@
 	"wikibase-sitelinks-wikiquote": "위키인용집",
 	"wikibase-sitelinks-wikisource": "위키문헌",
 	"wikibase-sitelinks-wikivoyage": "위키여행",
-	"wikibase-sitelinks-commons": "이 항목을 가리키는 위키미디어 공용 문서",
+	"wikibase-sitelinks-commons": "위키미디어 공용",
 	"wikibase-otherprojects-commons": "위키미디어 공용",
 	"wikibase-otherprojects-wikidata": "위키데이터",
 	"wikibase-otherprojects-testwikidata": "위키데이터",

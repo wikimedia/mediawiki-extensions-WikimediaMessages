@@ -4,7 +4,8 @@
 			"Diebuche",
 			"Mikullovci11",
 			"Multichill",
-			"Olsi"
+			"Olsi",
+			"Kosovastar"
 		]
 	},
 	"wikimedialicensetexts-desc": "Mesazhet e Wikimedia-s për licensë",
@@ -54,7 +55,7 @@
 	"wm-license-information-author": "Autori",
 	"wm-license-information-author-missing": "Kësaj skede i mungon informacioni i '''autorit'''.",
 	"wm-license-information-permission": "Leja",
-	"wm-license-information-permission-reusing-text": "Duke ripërdorur këtë skedë",
+	"wm-license-information-permission-reusing-text": "Ripërdor këtë skedë",
 	"wm-license-information-permission-see-below": "See below.",
 	"wm-license-information-other-versions": "Versione tjera",
 	"wm-license-lgpl-text": "Kjo librair është një [[{{int:wm-license-free-software-wiki-link}}|softuer i lirë]]; ju mund ta rishpërndani dhe/ose modifikoni sipas kushteve të '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' publikuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ose versioni 2.1 i Licensës ose (sipas mendimit tuaj) çdo version i mëvonshëm. Kjo librari shpërndahet me shpresën se do të jetë e përdorshme, por '''pa asnjë garanci'''; madje pa as garancinë e shprehur të '''shitjes''' ose '''përshtatje për një qëllimtë caktuar'''. Shikoni [{{int:wm-license-lgpl-2.1-full-link}} versionin 2.1] dhe [{{int:wm-license-lgpl-3-full-link}} versionin 3 të GNU General Public License] për më shumë detaje.",
