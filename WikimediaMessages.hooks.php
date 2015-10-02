@@ -114,16 +114,21 @@ class WikimediaMessagesHooks {
 	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
 	 * semi-dual license fun!
 	 *
-	 * @param $link
-	 * @param $context
-	 * @param $attribs
+	 * @param string $link
+	 * @param string $context
+	 * @param array $attribs
+	 * @param string $msg
 	 *
 	 * @return bool
 	 */
-	public static function onMobileLicenseLink( &$link, $context, $attribs ) {
-		global $wgRightsUrl;
+	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg ) {
+		global $wgRightsUrl, $wgDBname;
 
-		if( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+		if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
+			// Wikidata needs its own special message. See T112088
+			$msg = 'wikidata-copyright';
+			$link = ' '; // Set this to space to avoid confusion (empty string wont work)
+		} elseif( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			// We only display the dual licensing stack in the editor and talk interfaces
 			if ( $context === 'editor' || $context === 'talk' ) {
 				$link = wfMessage( 'wikimedia-mobile-license-links' )->plain();
