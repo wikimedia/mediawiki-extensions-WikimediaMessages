@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nedergard"
+			"Nedergard",
+			"Nike",
+			"Pxos"
 		]
 	},
-	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit"
+	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit",
+	"grouppage-oversight": "{{ns:project}}:Häivytysoikeudet",
+	"group-oversight": "häivyttäjät (oversighters)",
+	"group-oversight-member": "häivyttäjä (oversight)"
 }
