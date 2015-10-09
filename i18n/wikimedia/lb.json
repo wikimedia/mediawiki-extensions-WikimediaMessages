@@ -162,6 +162,7 @@
 	"wikimediashoplink-link-tooltip": "Besicht de Wikipedia-Shop",
 	"interlanguage-link-mul": "Méi Sproochen",
 	"interlanguage-link-sitename-mul": "Méisproocheg {{SITENAME}}",
+	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, déi fräi Enzyklopedie",
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv",
 	"right-superprotect": "D'Niveaue vun der Super-Protectioun änneren",
@@ -170,5 +171,12 @@
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
 	"wikimedia-centralauth-uwbr-intro": "Op dëser Säit sti registréiert Benotzer, déi ëmbenannt wäerte gi, wéint dem [[m:Single User Login finalisation announcement|Ofschloss vum 'single-user login']]. Méi Informatioune stinn op [[m:Help:Unified login|eenheetleche Login]]. Benotzer kënnen zu all Ament eng Ëmbenennung ufroen iwwer [[Special:GlobalRenameRequest]].",
 	"securepoll-dblist-securepollglobal": "Wale fir de Conseil",
-	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Problem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo gra ugeluecht hutt, da loggt Iech w.e.g. aus a loggt Iech ness an, a probéiert dann nach eng Kéier fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo grad ugeluecht hutt da besicht w.e.g. een anere Wikimedia-Site während Dir ageloggt sidd - esou wéi [https://mediawiki.org/ mediawiki.org] — a probéiert dann nach eng Kéier fir d'App z'autoriséieren. (Feelercode: E008)"
+	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Problem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo gra ugeluecht hutt, da loggt Iech w.e.g. aus a loggt Iech ness an, a probéiert dann nach eng Kéier fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo grad ugeluecht hutt da besicht w.e.g. een anere Wikimedia-Site während Dir ageloggt sidd - esou wéi [https://mediawiki.org/ mediawiki.org] — a probéiert dann nach eng Kéier fir d'App z'autoriséieren. (Feelercode: E008)",
+	"search-interwiki-results-barwiki": "Resultater vun der [[:bar:Main_Page|Bayrescher Wikipedia]]",
+	"search-interwiki-results-bowiki": "Resultater vun der [[:bo:Main_Page|Tibetescher Wikipedia]].",
+	"search-interwiki-results-gawiki": "Resultater vun der [[:ga:Main_Page|Gälescher Wikipedia]].",
+	"search-interwiki-results-itwiki": "Resultater vun der [[:it:Main_Page|italienescher Wikipedia]]",
+	"search-interwiki-results-lbwiki": "Resultater vun der [[:lb:Main_Page|Lëtzebuergescher Wikipedia]]",
+	"search-interwiki-results-thwiki": "Resultater vun der [[:th:Main_Page|Thai Wikipedia]].",
+	"search-interwiki-results-trwiki": "Resultater vun der [[:tr:Main_Page|Tierkescher Wikipedia]]."
 }

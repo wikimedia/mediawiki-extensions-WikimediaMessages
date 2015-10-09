@@ -5,7 +5,8 @@
 			"Nemo bis",
 			"Sky Harbor",
 			"לערי ריינהארט",
-			"Jojit fb"
+			"Jojit fb",
+			"Leeheonjin"
 		]
 	},
 	"wikimediamessages-desc": "Tiyak na mga mensahe ng Wikimedia",
@@ -17,12 +18,6 @@
 	"nstab-institution": "Institusyon",
 	"nstab-sequence": "Pagkakasunud-sunod",
 	"nstab-timedtext": "Tekstong inoorasan",
-	"group-Ex_Administrator": "Dating mga tagapangasiwa",
-	"group-Ex_Administrator-member": "{{GENDER:$1|dating tagapangasiwa}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}:Dating mga tagapangasiwa",
-	"group-Ex_Bureaucrat": "Dating mga burokrata",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|dating burokrata}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:Dating mga burokrata",
 	"group-Image-reviewer": "Mga manunuri ng larawan",
 	"group-Image-reviewer-member": "{{GENDER:$1|tagapagsuri ng larawan}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Mga manunuri ng larawan",
@@ -98,9 +93,6 @@
 	"group-uploader": "Mga tagapagkarga",
 	"group-uploader-member": "tagapagkarga",
 	"grouppage-uploader": "{{ns:project}}:Mga tagapagkarga",
-	"group-coder": "Mga tagapagkodigo",
-	"group-coder-member": "{{GENDER:$1|tagapagkodigo}}",
-	"grouppage-coder": "{{ns:project}}:Tagapagkodigo",
 	"group-global-bot": "Pandaigdigang mga ''bot''",
 	"group-global-bot-member": "{{GENDER:$1|pandaigdigang bot}}",
 	"grouppage-global-bot": "m:Pangglobong bot",
@@ -131,5 +123,16 @@
 	"wikimedia-translationnotifications-signup-legal": "Sumasang-ayon ka na sa pamamagitan ng pagbibigay sa Pundasyon ng Wikimedia ng ganitong impormasyon, maaari kaming makipag-ugnayan sa iyo hinggil sa mga salinwika o ibang mga paksa na may kaugnayan sa kilusan ng Wikimedia na maiisip namin na marahil ay makakatawag ng iyong pansin. Sumasang-ayon ka na marahil ang dato mo ay maiimbak sa Nagkakaisang mga Estado ng Amerika at masasaklawan ng aming [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy patakaran sa pagkapribado].",
 	"wikimedia-developers": "Mga tagapagpaunlad",
 	"wikimediashoplink-linktext": "Tindahan ng Wikimedia",
-	"wikimediashoplink-link-tooltip": "Dumalaw sa Tindahan ng Wikimedia"
+	"wikimediashoplink-link-tooltip": "Dumalaw sa Tindahan ng Wikimedia",
+	"search-interwiki-results-abwiki": "Ipinapakita ang mga resulta mula sa [[:ab:Main_Page|Abkhaz na Wikipedia]].",
+	"search-interwiki-results-barwiki": "Ipinapakita ang mga resulta mula sa [[:bar:Main_Page|Babaro na Wikipedia]].",
+	"search-interwiki-results-be_x_oldwiki": "Ipinapakita ang mga resulta mula sa [[:be-x-old:Main_Page|Byelarusong Taraškievica na Wikipedia]].",
+	"search-interwiki-results-bhwiki": "Ipinapakita ang mga resulta mula sa [[:bh:Main_Page|Bhojpuri Wikipedia]].",
+	"search-interwiki-results-biwiki": "Ipinapakita ang mga resulta mula sa [[:bi:Main_Page|Bislama na Wikipedia]].",
+	"search-interwiki-results-bjnwiki": "Ipinapakita ang mga resulta mula sa [[:bjn:Main_Page|Banjar na Wikipedia]].",
+	"search-interwiki-results-kbdwiki": "Ipinapakita ang mga resulta mula sa [[:kbd:Main_Page|Kabardyano na Wikipedia]].",
+	"search-interwiki-results-ndswiki": "Ipinapakita ang mga resulta mula sa [[:nds:Main_Page|Mababang Aleman na Wikipedia]].",
+	"search-interwiki-results-nnwiki": "Ipinapakita ang mga resulta mula sa [[:nn:Main_Page|Norwegong Nynorsk na Wikipedia]]",
+	"search-interwiki-results-nowiki": "Ipinapakita ang mga resulta mula sa [[:no:Main_Page|Norwegong Bokmål na Wikipedia]].",
+	"search-interwiki-results-thwiki": "Ipinapakita ang mga resulta mula sa [[:th:Main_Page|Tailandes na Wikipedia]]."
 }

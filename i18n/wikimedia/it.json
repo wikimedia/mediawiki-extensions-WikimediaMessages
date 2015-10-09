@@ -203,10 +203,13 @@
 	"wikimediashoplink-link-tooltip": "Visita il negozio Wikipedia",
 	"interlanguage-link-mul": "Più lingue",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
+	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, l'enciclopedia libera",
+	"interlanguage-link-commons": "Wikimedia Commons",
 	"interlanguage-link-sitename-commons": "Contenitore multimediale Wikimedia Commons",
 	"interlanguage-link-sitename-dmoz": "Directory web DMOZ",
 	"right-superprotect": "Cambia i livelli di super protezione",
 	"protect-level-superprotect": "Consenti solo agli utenti superprotetti",
-	"restriction-level-superprotect": "super protetta"
+	"restriction-level-superprotect": "super protetta",
+	"right-editeditorprotected": "Modifica pagine protette con \"{{int:protect-level-editeditorprotected}}\""
 }
