@@ -10,7 +10,8 @@
 			"Minisarm",
 			"Multichill",
 			"Strainu",
-			"ImGelu"
+			"ImGelu",
+			"Wintereu"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ro:Creative Commons",
@@ -215,11 +216,11 @@
 	"wm-license-cc-free": "Sunteți liber:",
 	"wm-license-cc-free-to-share-header": "să partajați cu alții",
 	"wm-license-cc-free-to-share-text": "aveți dreptul de a copia, distribui și transmite opera",
-	"wm-license-cc-free-to-remix-header": "să adaptați",
+	"wm-license-cc-free-to-remix-header": "să retușați",
 	"wm-license-cc-free-to-remix-text": "aveți dreptul de a adapta opera",
 	"wm-license-cc-conditions": "În următoarele condiții:",
 	"wm-license-cc-conditions-attribution-header": "atribuind",
-	"wm-license-cc-conditions-attribution-text": "Trebuie să atribuiți opera în maniera specificată de autor sau licențiator (dar sub nicio formă care ar sugera faptul că aceștia v-ar susține sau ar aproba folosirea de către dumneavoastră a operei).",
+	"wm-license-cc-conditions-attribution-text": "Trebuie să atribuiți opera în maniera specificată de autor sau licențiator (dar sub nicio formă care ar sugera faptul că aceștia v-ar susține sau ar aproba folosirea de către dumneavoastră a operei lor).",
 	"wm-license-cc-conditions-share_alike-header": "partajând în condiții identice",
 	"wm-license-cc-conditions-share_alike-text": "Dacă modificați, transformați sau creați pe baza acestei opere, puteți distribui opera rezultată doar sub aceeași licență sau sub o licență similară acesteia.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.ro",
