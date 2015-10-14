@@ -179,6 +179,9 @@
 	"search-interwiki-results-arwiki": "Resultater vun der [[:ar:Main_Page|arabescher Wikipedia]].",
 	"search-interwiki-results-barwiki": "Resultater vun der [[:bar:Main_Page|Bayrescher Wikipedia]]",
 	"search-interwiki-results-bowiki": "Resultater vun der [[:bo:Main_Page|Tibetescher Wikipedia]].",
+	"search-interwiki-results-bswiki": "Resultater vun der [[:bs:Main_Page|bosnescher Wikipedia]]",
+	"search-interwiki-results-fawiki": "Resultater vun der [[:fa:Main_Page|persescher Wikipedia]].",
+	"search-interwiki-results-frwiki": "Resultater vun der [[:fr:Main_Page|Franséischer Wikipedia]].",
 	"search-interwiki-results-gawiki": "Resultater vun der [[:ga:Main_Page|Gälescher Wikipedia]].",
 	"search-interwiki-results-hywiki": "Resultater vun der [[:hy:Main_Page|armenescher Wikipedia]]",
 	"search-interwiki-results-itwiki": "Resultater vun der [[:it:Main_Page|italienescher Wikipedia]]",
@@ -186,6 +189,10 @@
 	"search-interwiki-results-ltwiki": "Resultater vun der [[:lt:Main_Page|litauescher Wikipedia]]",
 	"search-interwiki-results-mtwiki": "Resultater vun der [[:mt:Main_Page|maltesescher Wikipedia]]",
 	"search-interwiki-results-rowiki": "Resultater vun der [[:ro:Main_Page|rumänescher Wikipedia]]",
+	"search-interwiki-results-ruwiki": "Resultater vun der [[:ru:Main_Page|russescher Wikipedia]]",
+	"search-interwiki-results-srwiki": "Resultater vun der [[:sr:Main_Page|serbischer Wikipedia]]",
 	"search-interwiki-results-thwiki": "Resultater vun der [[:th:Main_Page|Thai Wikipedia]].",
-	"search-interwiki-results-trwiki": "Resultater vun der [[:tr:Main_Page|Tierkescher Wikipedia]]."
+	"search-interwiki-results-trwiki": "Resultater vun der [[:tr:Main_Page|Tierkescher Wikipedia]].",
+	"search-interwiki-results-uzwiki": "Resultater vun der [[:uz:Main_Page|Usbekescher Wikipedia]].",
+	"search-interwiki-results-zhwiki": "Resultater vun der [[:zh:Main_Page|chinesescher Wikipedia]]"
 }

@@ -1,17 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kolega2357"
+			"Kolega2357",
+			"OC Ripper"
 		]
 	},
 	"wikimediamessages-desc": "Poruke koje se odnose na Wikimediju",
 	"sitesupport": "Prilozi / Прилози",
-	"group-Ex_Administrator": "Bivši administratori",
-	"group-Ex_Administrator-member": "{{GENDER:$1|bivši administrator}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}:Bivši administratori",
-	"group-Ex_Bureaucrat": "Bivše birokrate",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|bivše birokrate}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:Bivše birokrate",
+	"tooltip-n-sitesupport": "Podržite nas",
 	"group-OTRS-member": "OTRS članovi",
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS član}}",
 	"grouppage-OTRS-member": "{{ns:project}}:OTRS članovi",
@@ -50,9 +46,9 @@
 	"group-inactive": "Neaktivni korisnici",
 	"group-inactive-member": "{{GENDER:$1|neaktivan korisnik}}",
 	"grouppage-inactive": "{{ns:project}}:Neaktivni korisnici",
-	"group-interface_editor": "Uređivači interfejsa",
-	"group-interface_editor-member": "{{GENDER:$1|uređivač interfejsa}}",
-	"grouppage-interface_editor": "{{ns:project}}:Uređivači interfejsa",
+	"group-interface-editor": "Uređivači interfejsa",
+	"group-interface-editor-member": "{{GENDER:$1|uređivač interfejsa}}",
+	"grouppage-interface-editor": "{{ns:project}}:Uređivači interfejsa",
 	"group-ipblock-exempt": "Izuzeci od IP blokiranja",
 	"group-ipblock-exempt-member": "{{GENDER:$1|Izuzetak od IP blokiranja}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Izuzeci od IP blokiranja",
@@ -68,9 +64,6 @@
 	"group-uploader": "Pošiljaoci",
 	"group-uploader-member": "{{GENDER:$1|pošiljalac}}",
 	"grouppage-uploader": "{{ns:project}}:Pošiljaoci",
-	"group-editinterface": "Uređivači interfejsa",
-	"group-editinterface-member": "{{GENDER:$1|uređivač interfejsa}}",
-	"grouppage-editinterface": "m:Editinterface",
 	"group-global-bot": "Globalni botovi",
 	"group-global-bot-member": "{{GENDER:$1|globalni bot}}",
 	"grouppage-global-bot": "m:Global bot",
@@ -89,5 +82,13 @@
 	"group-translationadmin": "Prevodioci administratori",
 	"group-translationadmin-member": "{{GENDER:$1|prevodilac administrator}}",
 	"grouppage-translationadmin": "{{ns:project}}:Prevodilac administrator",
-	"wikimedia-developers": "Programeri"
+	"wikimedia-copyright": "Tekst je dostupan pod <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licencom</a>;\nmogu se primijeniti i dodatni uslovi.\nZa više detalja pogledajte <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Uslove korištenja</a>.",
+	"wikimedia-copyrightwarning": "Snimanjem/čuvanjem izmjena, slažete se sa [https://wikimediafoundation.org/wiki/Terms_of_Use Uslovima upotrebe], i neopozivo se slažete da vaš doprinos objavite pod [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] licencom.\nSlažete se da su hiperlink ili URL dovoljni za priznanje autorstva pod Creative Commons licencom.",
+	"wikibase-sitelinks-wikinews": "Wikivijesti",
+	"wikibase-sitelinks-wikiquote": "Wikicitat",
+	"wikibase-sitelinks-wikisource": "Wikiizvor",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Programeri",
+	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa je [[m:Special:MyLanguage/Global blocks|blokirana na svim wiki projektima]].'''\n\nBlokiranje je obavio korisnik $1 ($2).\nNaveden je sljedeći razlog: ''$3''.\n\n* Početak blokade: $4\n* Kraj blokade: $5\n\nVaša trenutna IP adresa je $6.\nZa svaki eventualni zahtjev obavezno navedite podatke iznad.\n\nAko smatrate da ste pogrešno blokirani, više informacija i uputa možete pronaći na stranici [[m:Special:MyLanguage/No open proxies|Zabranjeno korištenje otvorenih proxyja]] globalnih pravila.\nU suprotnom, kako biste raspravljali o blokadi, molimo vas da [[m:Steward requests/Global|postavite zahtjev za provjeru na Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Jedan ili više proxy servera kojim se koristite su [[m:Special:MyLanguage/Global blocks|blokirani na svim wiki projektima]].'''\n\nBlokiranje je obavio korisnik $1 ($2).\nNaveden je sljedeći razlog: ''$3''.\n\n* Početak blokade: $4\n* Kraj blokade: $5\n\nBlokirana proxy adresa je $6.\nZa svaki eventualni zahtjev obavezno navedite podatke iznad.\n\nAko smatrate da ste pogrešno blokirani, više informacija i uputa možete pronaći na stranici [[m:Special:MyLanguage/No open proxies|Zabranjeno korištenje otvorenih proxyja]] globalnih pravila.\nU suprotnom, kako biste raspravljali o blokadi, molimo vas da [[m:Steward requests/Global|postavite zahtjev za provjeru na Meta-Wiki]]."
 }

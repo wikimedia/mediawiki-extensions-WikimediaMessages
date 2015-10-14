@@ -1,5 +1,18 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"OC Ripper"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "Dozvoljeno je kopirati, distribuirati i/ili mijenjati ovaj članak pod uslovima navedenim u '''[[{{int:wm-license-gfdl-wiki-link}}|GNU licenci za slobodnu dokumentaciju]]''', verzija 1.2 ili kasnijom verzijom izdatom od [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez nepromjenljivih dijelova, te bez sadržaja na naslovnoj i zadnjoj strani. Kopija licence se nalazi pod poglavljem ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Opis",
+	"wm-license-information-source": "Izvor",
+	"wm-license-information-date": "Datum",
+	"wm-license-information-author": "Autor",
+	"wm-license-information-permission": "Dopuštenje",
+	"wm-license-information-permission-reusing-text": "Naknadno korištenje ove datoteke",
+	"wm-license-own-work": "Vlastito djelo",
 	"wm-license-pd-usgov-military-air-force-wiki-link": "w:sh:Ratno zrakoplovstvo Sjedinjenih Država",
-	"wm-license-pd-wiki-link": "w:sh:Javno vlasništvo"
+	"wm-license-pd-wiki-link": "w:sh:Javno vlasništvo",
+	"wm-license-self-multiple-licenses-select": "Možete odabrati licencu po vašem izboru."
 }

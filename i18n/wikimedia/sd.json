@@ -5,10 +5,14 @@
 			"Sindhu"
 		]
 	},
-	"sitesupport": "مالي امداد",
+	"sitesupport": "مالي امداد ڪريو",
 	"tooltip-n-sitesupport": "اسان جي مدد ڪريو",
 	"wikimedia-copyright": "هي متن موجود آهي <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; جي ماتحت.\nاضافي اصول لاڳو ٿي سگهن ٿا. \nڏسو <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">استعمال جا اصول</a> وڌيڪ وضاحت لاءِ",
+	"wikibase-sitelinks-wikinews": "وڪي‌خبرون",
+	"wikibase-sitelinks-wikiquote": "وڪي‌قول",
+	"wikibase-sitelinks-wikisource": "وڪي‌ذريعو",
+	"wikibase-sitelinks-wikivoyage": "وڪي‌سفر",
 	"extdist-branch-REL1_26": "1.26 (ٻيو استحڪام جوڳو اميدوار)",
 	"extdist-branch-REL1_25": "1.25 (نئين ترين استحڪام واري ميڊياوڪي)",
-	"wikimedia-developers": "پروگرامرز"
+	"wikimedia-developers": "سِٽاڪار"
 }

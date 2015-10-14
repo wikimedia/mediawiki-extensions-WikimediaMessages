@@ -20,12 +20,6 @@
 	"nstab-institution": "Установа",
 	"nstab-sequence": "Пасьлядоўнасьць",
 	"nstab-timedtext": "Сынхронны тэкст",
-	"group-Ex_Administrator": "Былыя адміністратары",
-	"group-Ex_Administrator-member": "{{GENDER:$1|былы адміністратар|былая адміністратарка}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}:Былыя адміністратары",
-	"group-Ex_Bureaucrat": "Былыя бюракраты",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|былы бюракрат|былая бюракратка}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:Былыя бюракраты",
 	"group-Image-reviewer": "Правяраючыя выявы",
 	"group-Image-reviewer-member": "{{GENDER:$1|правяраючы выявы|правяраючая выявы}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Правяраючыя выявы",
@@ -106,8 +100,6 @@
 	"group-centralnoticeadmin": "Адміністратары CentralNotice",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|адміністратар|адміністратарка}} CentralNotice",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Адміністратары CentralNotice",
-	"group-coder": "Праграмісты",
-	"group-coder-member": "{{GENDER:$1|праграміст|праграмістка}}",
 	"group-global-bot": "Глябальныя робаты",
 	"group-global-bot-member": "{{GENDER:$1|глябальны робат}}",
 	"group-global-ipblock-exempt": "Выключаныя з глябальных блякаваньняў па IP",
@@ -152,5 +144,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''Ваш IP-адрас быў [[m:Special:MyLanguage/Global blocks|заблякаваны ва ўсіх вікі]].'''\n\nБлякаваньне было зробленае $1 ($2).\nПададзеная прычына: ''$3''.\n\n* Пачатак блякаваньня: $4\n* Сканчэньне блякаваньня: $5\n\nВаш цяперашні IP-адрас: $6.\nКалі ласка, уключайце гэтыя падрабязнасьці ва ўсе вашыя звароты.\n\nКалі вы лічыце, што былі заблякаваныя памылкова, вы можаце знайсьці дадатковыя зьвесткі і інструкцыі ў глябальных правілах [[m:Special:MyLanguage/No open proxies|пра недапушчальнасьць адкрытых проксі]].\nУ адваротным выпадку для абмеркаваньня блякаваньня, калі ласка, [[m:Steward requests/Global|зрабіце запыт пра перагляд у Мэта-Вікі]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Адзін ці некалькі проксі-сэрвэраў, выкарыстаных у вашым запыце, [[m:Special:MyLanguage/Global blocks|заблякаваныя глябальна]].'''\n\nБлякаваньне было зробленае $1 ($2).\nПададзеная прычына: ''$3''.\n\n* Пачатак блякаваньня: $4\n* Канец блякаваньня: $5\n\nЗаблякаваны проксі-адрас: $6.\nКалі ласка, уключайце ўсе гэтыя дэталі ў звароты, якія будзеце рабіць.\n\nКалі вы лічыце, што былі заблякаваныя памылкова, вы можаце знайсьці дадатковыя зьвесткі і інструкцыі ў глябальных правілах пра [[m:Special:MyLanguage/No open proxies|недапушчальнасьць адкрытых проксі]].\nУ іншым выпадку, каб абмеркаваць блякаваньне, калі ласка, [[m:Steward requests/Global|зрабіце запыт пра перагляд на Мэта-вікі]].",
 	"wikimediashoplink-linktext": "Крама Вікімэдыі",
-	"wikimediashoplink-link-tooltip": "Наведайце краму Вікімэдыі"
+	"wikimediashoplink-link-tooltip": "Наведайце краму Вікімэдыі",
+	"restriction-level-superprotect": "супэрабарона"
 }
