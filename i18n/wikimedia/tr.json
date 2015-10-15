@@ -13,7 +13,8 @@
 			"Nemo bis",
 			"Sayginer",
 			"Hayri özkurt",
-			"Stultiwikia"
+			"Stultiwikia",
+			"McAang"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -25,12 +26,6 @@
 	"nstab-institution": "Kurum",
 	"nstab-sequence": "Sıra",
 	"nstab-timedtext": "ZamanlıMetin",
-	"group-Ex_Administrator": "Eski hizmetliler",
-	"group-Ex_Administrator-member": "{{GENDER:$1|eski hizmetli}}",
-	"grouppage-Ex_Administrator": "{{ns:project}}: Eski hizmetliler",
-	"group-Ex_Bureaucrat": "Eski bürokratlar",
-	"group-Ex_Bureaucrat-member": "{{GENDER:$1|eski bürokrat}}",
-	"grouppage-Ex_Bureaucrat": "{{ns:project}}:Eski bürokratlar",
 	"group-Image-reviewer": "Resim inceleyiciler",
 	"group-Image-reviewer-member": "{{GENDER:$1|resim inceleyicisi}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Resim inceleyiciler",
@@ -102,8 +97,6 @@
 	"group-uploader": "Yükleyiciler",
 	"group-uploader-member": "yükleyici",
 	"grouppage-uploader": "{{ns:project}}:Yükleyiciler",
-	"group-coder": "Kodlayıcılar",
-	"group-coder-member": "{{GENDER:$1|kodlayıcı}}",
 	"group-global-bot": "Küresel botlar",
 	"group-global-bot-member": "{{GENDER:$1|küresel bot}}",
 	"group-global-rollbacker": "Küresel geri döndürücüler",

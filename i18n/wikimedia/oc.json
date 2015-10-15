@@ -72,8 +72,6 @@
 	"group-uploader": "Telecargaires",
 	"group-uploader-member": "{{GENDER:$1|telecargador}}",
 	"grouppage-uploader": "{{ns:project}}:Telecargaires",
-	"group-coder": "Encodaires",
-	"group-coder-member": "{{GENDER:$1|encodaire|encodaira}}",
 	"group-global-bot": "Bòts globals",
 	"group-global-bot-member": "{{GENDER:$1|bòt global}}",
 	"group-global-rollbacker": "Revocaires globals",

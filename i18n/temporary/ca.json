@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anskar"
+			"Anskar",
+			"Paucabot",
+			"SMP"
 		]
 	},
-	"wikimediamessages-desc": "Missatges temporals específics de Wikimedia"
+	"wikimediamessages-desc": "Missatges temporals específics de Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Supervisió",
+	"group-oversight": "Oversight",
+	"group-oversight-member": "oversight"
 }

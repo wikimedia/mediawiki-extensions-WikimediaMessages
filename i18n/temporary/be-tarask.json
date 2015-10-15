@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizardist"
+			"Wizardist",
+			"Jim-by"
 		]
 	},
-	"wikimediamessages-desc": "Часовыя паведамленьні для Вікімэдыі"
+	"wikimediamessages-desc": "Часовыя паведамленьні для Вікімэдыі",
+	"grouppage-oversight": "{{ns:project}}:Рэвізоры",
+	"group-oversight": "Рэвізоры",
+	"group-oversight-member": "рэвізор"
 }

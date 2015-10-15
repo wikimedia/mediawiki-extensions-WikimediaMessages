@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joseph"
+			"Joseph",
+			"Karduelis"
 		]
 	},
-	"wikimediamessages-desc": "Wikimedia'ya özgü geçici iletiler"
+	"wikimediamessages-desc": "Wikimedia'ya özgü geçici iletiler",
+	"grouppage-oversight": "{{ns:project}}:Gözetmen",
+	"group-oversight": "Gözetmenler",
+	"group-oversight-member": "Gözetmen"
 }

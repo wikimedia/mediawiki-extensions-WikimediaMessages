@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sudo77(new)"
+			"Sudo77(new)",
+			"Helix84"
 		]
 	},
-	"wikimediamessages-desc": "Dočasné hlásenia špecifické pre projekty Wikimedia"
+	"wikimediamessages-desc": "Dočasné hlásenia špecifické pre projekty Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Dozorcovia",
+	"group-oversight": "Dozorcovia",
+	"group-oversight-member": "Dozorca"
 }

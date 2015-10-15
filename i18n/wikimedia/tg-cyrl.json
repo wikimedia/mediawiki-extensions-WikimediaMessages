@@ -33,8 +33,6 @@
 	"group-uploader": "Боргузорон",
 	"group-uploader-member": "{{GENDER:$1|боргузор}}",
 	"grouppage-uploader": "{{ns:project}}:Боргузорон",
-	"group-coder": "барноманависон",
-	"group-coder-member": "{{GENDER:$1|рамзнавис}}",
 	"group-global-bot": "Ботҳои саросарӣ",
 	"group-global-bot-member": "{{GENDER:$1|боти саросарӣ}}",
 	"group-global-rollbacker": "Вогардоникунандагони саросарӣ",

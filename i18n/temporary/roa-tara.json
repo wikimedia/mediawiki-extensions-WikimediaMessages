@@ -4,5 +4,8 @@
 			"Joetaras"
 		]
 	},
-	"wikimediamessages-desc": "Specifece messàgge temboranèe de Uicchimedia"
+	"wikimediamessages-desc": "Specifece messàgge temboranèe de Uicchimedia",
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "Oversighter",
+	"group-oversight-member": "oversight"
 }

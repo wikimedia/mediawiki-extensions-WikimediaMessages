@@ -4,5 +4,8 @@
 			"Dragonòt"
 		]
 	},
-	"wikimediamessages-desc": "Mëssagi temporani specìfich ëd Wikimedia"
+	"wikimediamessages-desc": "Mëssagi temporani specìfich ëd Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "Oversighter",
+	"group-oversight-member": "oversight"
 }

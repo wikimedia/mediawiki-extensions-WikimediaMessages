@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Aurora",
+			"Aviator"
 		]
 	},
-	"wikimediamessages-desc": "Mesej sementara khusus Wikimedia"
+	"wikimediamessages-desc": "Mesej sementara khusus Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Penyemak",
+	"group-oversight": "Pengawal",
+	"group-oversight-member": "Pengawal"
 }

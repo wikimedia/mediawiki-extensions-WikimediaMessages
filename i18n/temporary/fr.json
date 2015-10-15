@@ -4,10 +4,16 @@
 			"DavidL",
 			"Gomoko",
 			"Linedwell",
-			"Metroitendo"
+			"Metroitendo",
+			"Hercule",
+			"Quentinv57",
+			"Urhixidur"
 		]
 	},
 	"wikimediamessages-desc": "Messages temporaires spécifiques de Wikimédia",
 	"bug-54847-password-reset-prompt": "En raison d'un [[meta:October 2013 private data security issue|problème de sécurité avec les bases de données privées de Wikimedia Labs]], votre mot de passe utilisé précédemment peut être vulnérable. Veuillez définir un nouveau mot de passe différent, pour sécuriser votre compte. Nous nous excusons pour la gêne occasionnée.",
-	"password-recycled": "Le mot de passe que vous avez entré correspond à un ancien mot de passe associé à votre compte. Veuillez, s'il vous plaît, définir un nouveau mot de passe différent"
+	"password-recycled": "Le mot de passe que vous avez entré correspond à un ancien mot de passe associé à votre compte. Veuillez, s'il vous plaît, définir un nouveau mot de passe différent",
+	"grouppage-oversight": "{{ns:project}}:Masqueurs de modifications",
+	"group-oversight": "Masqueurs de modifications",
+	"group-oversight-member": "{{GENDER:$1|masqueur|masqueuse}} de modifications"
 }

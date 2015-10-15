@@ -89,8 +89,6 @@
 	"group-uploader": "Киллэрээччилэр",
 	"group-uploader-member": "{{GENDER:$1|киллэрээччи}}",
 	"grouppage-uploader": "{{ns:project}}:Киллэрээччилэр",
-	"group-coder": "Программистар",
-	"group-coder-member": "программист",
 	"group-global-bot": "Бырайыактар ыккардынааҕы руобаттар",
 	"group-global-bot-member": "бырайыактар ыккардынааҕы руобаттар",
 	"group-global-rollbacker": "Бырайыактар ыккардынааҕы төннөрөөччүлэр",

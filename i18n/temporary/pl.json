@@ -4,9 +4,14 @@
 			"Chrumps",
 			"Lazowik",
 			"Rezonansowy",
-			"Tar Lócesilion"
+			"Tar Lócesilion",
+			"Beau",
+			"Sp5uhe"
 		]
 	},
 	"wikimediamessages-desc": "Specjalne tymczasowe wiadomości Wikimedia",
-	"password-recycled": "Wprowadzone przez Ciebie hasło, jest zgodne ze starym hasłem do Twojego konta. Proszę, wpisz inne hasło."
+	"password-recycled": "Wprowadzone przez Ciebie hasło, jest zgodne ze starym hasłem do Twojego konta. Proszę, wpisz inne hasło.",
+	"grouppage-oversight": "{{ns:project}}:Rewizorzy",
+	"group-oversight": "Rewizorzy",
+	"group-oversight-member": "rewizor"
 }

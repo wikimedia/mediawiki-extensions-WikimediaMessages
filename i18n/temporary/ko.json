@@ -2,10 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Kwj2772",
-			"아라"
+			"아라",
+			"Albamhandae",
+			"Revi"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 특정 임시 메시지",
 	"bug-54847-password-reset-prompt": "[[meta:October 2013 private data security issue|위키미디어 랩 데이터베이스의 보안 문제]]로 인해, 당신이 이전에 사용했던 비밀번호가 취약할 수 있습니다. 계정의 보안을 위해서 새로운 비밀번호를 설정해주십시오. 불편을 드려 죄송합니다.",
-	"password-recycled": "당신이 입력한 비밀번호는 이전의 비밀번호와 일치합니다. 다른 비밀번호를 입력해주십시오."
+	"password-recycled": "당신이 입력한 비밀번호는 이전의 비밀번호와 일치합니다. 다른 비밀번호를 입력해주십시오.",
+	"grouppage-oversight": "{{ns:project}}:오버사이트",
+	"group-oversight": "기록보호자",
+	"group-oversight-member": "오버사이트"
 }

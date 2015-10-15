@@ -46,8 +46,6 @@
 	"group-uploader": "bestanstoevoegers",
 	"group-uploader-member": "{{GENDER:$1|bestaandstoevoeger}}",
 	"grouppage-uploader": "{{ns:project}}:Bestanstoevoegers",
-	"group-coder": "programmeurs",
-	"group-coder-member": "{{GENDER:$1|programmeur}}",
 	"group-global-bot": "globale bots",
 	"group-global-bot-member": "{{GENDER:$1|globale bot}}",
 	"group-global-rollbacker": "globale weerummedreiers",
