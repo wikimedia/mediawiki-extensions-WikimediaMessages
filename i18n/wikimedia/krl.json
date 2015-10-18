@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ilja.mos"
+			"Ilja.mos",
+			"Likopiän tyttö"
 		]
 	},
 	"tooltip-n-sitesupport": "Tuve meitä",
+	"wikibase-sitelinks-wikinews": "Wikiuutiset",
+	"wikibase-sitelinks-wikisource": "Wikiainehisto",
 	"wikimedia-developers": "Kehittäjät"
 }
