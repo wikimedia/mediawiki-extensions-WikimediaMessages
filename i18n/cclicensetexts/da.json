@@ -9,7 +9,8 @@
 			"Multichill",
 			"Peter Alberti",
 			"Sarrus",
-			"Christian List"
+			"Christian List",
+			"Poullindholm"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:da:Creative Commons",
@@ -193,9 +194,9 @@
 	"wm-license-cc-zero-explanation": "Personen, der har tilknyttet et værk til dette dokument, har dikteret værket som [[{{int:wm-license-pd-wiki-link}}|offentlig ejendom]] ved at give afkald alle hans eller hendes rettigheder til værket på verdensplan efter lov om ophavsret og alle relaterede og beslægtede rettigheder, i det omfang lovgivningen tillader det. Du kan kopiere, distribuere og forarbejde værket selv til kommercielle formål; alt sammen uden at spørge om godkendelse.",
 	"wm-license-cc-free": "Du har frihed til:",
 	"wm-license-cc-free-to-share-header": "at dele",
-	"wm-license-cc-free-to-share-text": "at fremstille eksemplarer og gøre værket tilgængeligt for almenheden",
-	"wm-license-cc-free-to-remix-header": "at fremstille bearbejdede værker",
-	"wm-license-cc-free-to-remix-text": "at fremstille bearbejdede værker",
+	"wm-license-cc-free-to-share-text": "at kopiere, distribuere og sende værket",
+	"wm-license-cc-free-to-remix-header": "at remixe",
+	"wm-license-cc-free-to-remix-text": "at bearbejde værket",
 	"wm-license-cc-conditions": "På følgende vilkår:",
 	"wm-license-cc-conditions-attribution-header": "navngivelse",
 	"wm-license-cc-conditions-attribution-text": "Du skal kreditere værket på den måde, der er angivet af rettighedshaveren og licensgiveren.",
