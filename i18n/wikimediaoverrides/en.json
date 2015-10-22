@@ -2,5 +2,5 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help me choose)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Can't see the image? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]",
 	"wikimedia-sidebar": "* navigation\n** mainpage|mainpage-description\n** portal-url|portal\n** currentevents-url|currentevents\n** recentchanges-url|recentchanges\n** randompage-url|randompage\n** helppage|help\n** sitesupport-url|sitesupport",
-	"wikimedia-privacypage": "wmf:Special:MyLanguage/Privacy_policy/en"
+	"wikimedia-privacypage": "wmf:Privacy_policy"
 }

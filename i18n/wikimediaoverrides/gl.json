@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]",
-	"wikimedia-privacypage": "m:Special:MyLanguage/Privacy_policy/gl"
+	"wikimedia-createacct-imgcaptcha-help": "Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]"
 }

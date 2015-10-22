@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajutame a scegliere)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Nun riesce a veré l'immaggene? [[{{MediaWiki:createacct-captcha-help-url}}|Addimanna n'utenza]]",
-	"wikimedia-privacypage": "wmf:Special:MyLanguage/Privacy_policy/en"
+	"wikimedia-createacct-imgcaptcha-help": "Nun riesce a veré l'immaggene? [[{{MediaWiki:createacct-captcha-help-url}}|Addimanna n'utenza]]"
 }

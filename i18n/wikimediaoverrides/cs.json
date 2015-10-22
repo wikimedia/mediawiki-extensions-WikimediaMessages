@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozte mi s výběrem)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]].",
-	"wikimedia-privacypage": "m:Privacy page/cs"
+	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]]."
 }

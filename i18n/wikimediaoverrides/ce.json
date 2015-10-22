@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]",
-	"wikimedia-privacypage": "m:Privacy policy/ce"
+	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]"
 }

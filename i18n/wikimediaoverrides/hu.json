@@ -6,6 +6,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(segítség)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Nem látod a képet? [[{{MediaWiki:createacct-captcha-help-url}}|Fiók igénylése]]",
-	"wikimedia-privacypage": "m:Privacy policy/hu"
+	"wikimedia-createacct-imgcaptcha-help": "Nem látod a képet? [[{{MediaWiki:createacct-captcha-help-url}}|Fiók igénylése]]"
 }

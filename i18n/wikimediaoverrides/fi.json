@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
-	"wikimedia-privacypage": "m:Privacy_policy/fi"
+	"wikimedia-createacct-imgcaptcha-help": "Et näe kuvaa? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]"
 }

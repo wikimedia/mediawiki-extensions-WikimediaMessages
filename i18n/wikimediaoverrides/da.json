@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]",
-	"wikimedia-privacypage": "m:Privacy policy/da"
+	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]"
 }
