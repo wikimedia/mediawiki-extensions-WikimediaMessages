@@ -24,7 +24,8 @@
 			"Imperadeiro90",
 			"Opraco",
 			"He7d3r",
-			"Fúlvio"
+			"Fúlvio",
+			"Macofe"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -157,10 +158,12 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikibase-sitelinks-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-wikibooks": "Wikilivros",
 	"wikibase-otherprojects-wikinews": "Wikinotícias",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
+	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
+	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Não pode apagar ou mover a página principal.",
 	"wikimedia-translationnotifications-signup-legal": "Concorda que, ao fornecer esta informação à Wikimedia Foundation, possamos contactá-lo sobre traduções ou outros temas relacionados com o movimento Wikimedia que achemos que possa ser do seu interesse. Concorda igualmente que os seus dados possam ser armazenados nos Estados Unidos da América e estejam sujeitos à nossa [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy política de privacidade].",

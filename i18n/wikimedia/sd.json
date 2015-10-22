@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Aursani",
-			"Sindhu"
+			"Sindhu",
+			"Mehtab ahmed"
 		]
 	},
 	"sitesupport": "مالي امداد ڪريو",
@@ -12,6 +13,9 @@
 	"wikibase-sitelinks-wikiquote": "وڪي‌قول",
 	"wikibase-sitelinks-wikisource": "وڪي‌ذريعو",
 	"wikibase-sitelinks-wikivoyage": "وڪي‌سفر",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "ذريعات‌وڪي",
+	"wikibase-sitelinks-sitename-metawiki": "ميٽا وڪي",
+	"wikibase-sitelinks-sitename-species": "وڪي جنسون",
 	"extdist-branch-REL1_26": "1.26 (ٻيو استحڪام جوڳو اميدوار)",
 	"extdist-branch-REL1_25": "1.25 (نئين ترين استحڪام واري ميڊياوڪي)",
 	"wikimedia-developers": "سِٽاڪار"
