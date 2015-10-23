@@ -5,5 +5,6 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(damme 'na màne a scacchià)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]"
+	"wikimedia-createacct-imgcaptcha-help": "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]",
+	"wikimedia-privacypage": "wmf:Privacy_policy"
 }
