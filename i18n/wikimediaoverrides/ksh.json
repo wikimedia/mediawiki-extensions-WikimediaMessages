@@ -5,5 +5,6 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Hölp mem Ußsöhke)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Kei Beld ze sinn? Donn [[{{MediaWiki:createacct-captcha-help-url}}|noh enem Zohjang frohre]]!"
+	"wikimedia-createacct-imgcaptcha-help": "Kei Beld ze sinn? Donn [[{{MediaWiki:createacct-captcha-help-url}}|noh enem Zohjang frohre]]!",
+	"wikimedia-privacypage": "wmf:Privacy_policy/ksh"
 }

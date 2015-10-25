@@ -4,7 +4,8 @@
 			"Michawiki",
 			"Nemo bis",
 			"Dicto23456",
-			"Mikławš"
+			"Mikławš",
+			"J budissin"
 		]
 	},
 	"wikimediamessages-desc": "Specifiske zdźělenki Wikimedije",
@@ -155,7 +156,6 @@
 	"wikibase-sitelinks-wikiquote": "Wikicitat",
 	"wikibase-sitelinks-wikisource": "Wikižórło",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikibase-sitelinks-commons": "Wikimedia Commons",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Njemóžeš hłownu stronu zhašeć abo přesunyć.",
@@ -175,5 +175,6 @@
 	"interlanguage-link-mul": "Dalše rěče",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} we wjacorych rěčach",
 	"interlanguage-link-sitename-wikipedia": "Wikipedija, swobodna encyklopedija",
-	"restriction-level-superprotect": "superškit"
+	"restriction-level-superprotect": "superškit",
+	"protect-level-editeditorprotected": "Jenož kontroleram dowolić"
 }

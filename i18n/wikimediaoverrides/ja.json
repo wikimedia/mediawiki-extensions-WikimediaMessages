@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Otokoume"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
 	"wikimedia-createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
-	"wikimedia-privacypage": "m:Privacy page/ja"
+	"wikimedia-privacypage": "wmf:Privacy_policy"
 }

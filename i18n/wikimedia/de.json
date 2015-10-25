@@ -20,7 +20,8 @@
 			"The Evil IP address",
 			"Umherirrender",
 			"Απεργός",
-			"Vogone"
+			"Vogone",
+			"FriedhelmW"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -307,10 +308,10 @@
 	"search-interwiki-results-fjwiki": "Suchergebnisse von der [[:fj:Main_Page|fidschischen Wikipedia]].",
 	"search-interwiki-results-fowiki": "Suchergebnisse von der [[:fo:Main_Page|färöischen Wikipedia]].",
 	"search-interwiki-results-frpwiki": "Suchergebnisse von der [[:frp:Main_Page|frankoprovenzalischen Wikipedia]].",
-	"search-interwiki-results-frrwiki": "Suchergebnisse von der [[:frr:Main_Page|nordfrisischen Wikipedia]].",
+	"search-interwiki-results-frrwiki": "Suchergebnisse von der [[:frr:Main_Page|nordfriesischen Wikipedia]].",
 	"search-interwiki-results-frwiki": "Suchergebnisse von der [[:fr:Main_Page|französischen Wikipedia]].",
 	"search-interwiki-results-furwiki": "Suchergebnisse von der [[:fur:Main_Page|friulischen Wikipedia]].",
-	"search-interwiki-results-fywiki": "Suchergebnisse von der [[:fy:Main_Page|westfrisischen Wikipedia]].",
+	"search-interwiki-results-fywiki": "Suchergebnisse von der [[:fy:Main_Page|westfriesischen Wikipedia]].",
 	"search-interwiki-results-gagwiki": "Suchergebnisse von der [[:gag:Main_Page|gagausischen Wikipedia]].",
 	"search-interwiki-results-ganwiki": "Suchergebnisse von der [[:gan:Main_Page|ganischen Wikipedia]].",
 	"search-interwiki-results-gawiki": "Suchergebnisse von der [[:ga:Main_Page|irischen Wikipedia]].",
@@ -410,7 +411,7 @@
 	"search-interwiki-results-nnwiki": "Suchergebnisse von der [[:nn:Main_Page|norwegisch-nynorskischen Wikipedia]].",
 	"search-interwiki-results-novwiki": "Suchergebnisse von der [[:nov:Main_Page|novialischen Wikipedia]].",
 	"search-interwiki-results-nowiki": "Suchergebnisse von der [[:no:Main_Page|norwegischen Wikipedia]].",
-	"search-interwiki-results-nrmwiki": "Suchergebnisse von der [[:nrm:Main_Page|normanischen Wikipedia]].",
+	"search-interwiki-results-nrmwiki": "Suchergebnisse von der [[:nrm:Main_Page|normannischen Wikipedia]].",
 	"search-interwiki-results-nsowiki": "Suchergebnisse von der [[:nso:Main_Page|nordsothischen Wikipedia]].",
 	"search-interwiki-results-nvwiki": "Suchergebnisse von der [[:nv:Main_Page|navajonischen Wikipedia]].",
 	"search-interwiki-results-nywiki": "Suchergebnisse von der [[:ny:Main_Page|chewischen Wikipedia]].",

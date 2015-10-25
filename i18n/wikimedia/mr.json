@@ -114,15 +114,16 @@
 	"grouppage-translationadmin": "{{ns:project}}: भाषांतर प्रचालक",
 	"wikimedia-copyright": "येथील मजकूर हा <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">क्रियेटीव्ह कॉमन्स अट्रीब्युशन/शेअर-अलाईक लायसन्स</a> या अंतर्गत उपलब्ध आहेत;अतिरिक्त अटी लागु असू शकतात.\n\nअधिक माहितीसाठी हे बघा<a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">वापरण्याच्या अटी</a>.",
 	"wikidata-copyright": "मुख्य व गुणधर्माच्या नामविश्वातील सर्व बांधणीकृत माहिती ही  <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">क्रियेटीव्ह कॉमन्स CC0 लायसन्स</a> या अंतर्गत उपलब्ध आहे;ईतर नामविश्वातील माहिती <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">क्रियेटीव्ह कॉमन्स अट्रीब्युशन/शेअर-अलाईक लायसन्स</a> या अंतर्गत उपलब्ध आहे;अतिरिक्त अटी लागु आहेत.अधिक माहितीसाठी हे बघा<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">वापरण्याच्या अटी</a>.",
+	"wikimedia-copyrightwarning": "बदल जतन करण्याने,आपण [https://wikimediafoundation.org/wiki/Terms_of_Use वापरण्याच्या अटी] मान्य करीत आहात व [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 परवान्यांतर्गत] आपण, न परताव्याच्या अटींवर, तसेच,[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] परवान्यांतर्गत आपले योगदान मुक्त करीत आहात.\n\nआपण हे देखील मान्य करता कि,हायपरलिंक किंवा यूआरएल ही क्रियेटिव्ह कॉमन अॲट्रीब्यूशन अंतर्गत पुरेसे श्रेय आहे.",
 	"wikibase-sitelinks-wikibooks": "विकिबुक्स",
 	"wikibase-sitelinks-wikinews": "विकिबातम्या",
 	"wikibase-sitelinks-wikiquote": "विकिक्वोट",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",
 	"wikibase-sitelinks-wikivoyage": "विकिपर्यटन",
-	"wikibase-sitelinks-commons": "या कलमास जोडलेले विकिमिडिया कॉमन्सचे पान",
 	"wikibase-sitelinks-sitename-commonswiki": "कॉमन्स",
 	"cant-delete-main-page": "आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत",
 	"wikimedia-developers": "विकसक",
+	"wikimedia-globalblocking-ipblocked": "'''आपला अंकपत्ता [[m:Special:MyLanguage/Global blocks|सर्व विकिंवर प्रतिबंधित करण्यात आलेला आहे]].'''\nहा प्रतिबंध $1 ($2) ने केला.\nत्याचे कारण ''$3'' असे दिल्या गेले आहे.\n* प्रतिबंधाची सुरुवात: $4\n* प्रतिबंधनाची समाप्ती: $5\nआपला सध्याचा अंकपत्ता $6 आहे.\n\n(भाषांतर अपूर्ण)",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात."
 }
