@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（帮我选择）]]",
-	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]",
-	"wikimedia-privacypage": "wmf:Privacy_policy"
+	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]"
 }

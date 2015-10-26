@@ -5,6 +5,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Auswahlhilfe)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]].",
-	"wikimedia-privacypage": "m:Privacy policy/de"
+	"wikimedia-createacct-imgcaptcha-help": "Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]]."
 }
