@@ -8,7 +8,8 @@
 			"Octahedron80",
 			"Passawuth",
 			"TMo3289",
-			"Lerdsuwa2"
+			"Lerdsuwa2",
+			"YURi"
 		]
 	},
 	"wikimedialicensetexts-desc": "ข้อความสัญญาอนุญาตวิกิมีเดีย",
@@ -65,7 +66,7 @@
 	"wm-license-information-source-missing": "ภาพหรือสื่อนี้ไม่ได้ระบุ'''แหล่งที่มา'''",
 	"wm-license-information-source-missing-request": "กรุณาแก้ไขคำอธิบายภาพหรือสื่อนี้ และระบุแหล่งที่มาให้ชัดเจน",
 	"wm-license-information-date": "วันที่",
-	"wm-license-information-author": "ผู้ประพันธ์",
+	"wm-license-information-author": "ผู้สร้างสรรค์",
 	"wm-license-information-author-missing": "ภาพหรือสื่อนี้ขาดข้อมูลเกี่ยวกับ '''ผู้สร้างสรรค์ผลงาน'''",
 	"wm-license-information-permission": "การอนุญาต",
 	"wm-license-information-permission-reusing-text": "การใช้ไฟล์นี้ใหม่",
