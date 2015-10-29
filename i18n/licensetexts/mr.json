@@ -5,7 +5,8 @@
 			"Mahitgar",
 			"Rahuldeshmukh101",
 			"कोल्हापुरी",
-			"संतोष दहिवळ"
+			"संतोष दहिवळ",
+			"V.narsikar"
 		]
 	},
 	"wikimedialicensetexts-desc": "विकिमिडिया परवाना संदेश",
@@ -47,6 +48,7 @@
 	"wm-license-creator-linkback": "Creator माहिती चौकट साचाला परतीच्या दुव्याने जोडा",
 	"wm-license-fal-text": "प्रतसोड(कॉपीलेफ्ट):हि कलाकृती  मुक्त आहे; तुम्ही ती पुर्नवितरीत करू शकता आणि/किंवा   '''[[{{int:wm-license-fal-wiki-link}}|मुक्त कला परवान्यास अनुसरून Free Art License]]''' तीला बदलू शकता.या परवान्याचे स्पेसिमन तुम्हाला [{{int:wm-license-fal-full-link}} Copyleft Attitude संकेतस्थळ] अथवा इतर संकेतस्थळांवर उपलब्ध होऊ शकते.",
 	"wm-license-free-software-wiki-link": "w:mr:मुक्त सॉफ्टवेअर",
+	"wm-license-gfdl-1.2-and-later": "[[{{int:wm-license-fsf-wiki-link}}|फ्री सॉफ्टवेअर फाऊंडेशन]] द्वारे प्रकाशित '''[[{{int:wm-license-gfdl-wiki-link}}|जीएनयू मुक्त दस्ताऐवजीकरण परवाना]]''', आवृत्ती १.२ किंवा त्यानंतरची,या अंतर्गत;  या दस्तावेजास, नकलविण्याची, वितरणाची व/किंवा फेरबदलाची परवानगी दिल्या जाते या अटींसह कि त्यात कोणतेही निश्चलित(Invariant) विभाग नकोत,पृष्टपान मजकूर नको व मलपान मजकूर नको.  ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' हा मथळा असलेल्या विभागात,या परवान्याची प्रत अंतर्भूत केलेली आहे.",
 	"wm-license-gfdl-1.2-only-header": "केवळ&nbsp;१.२",
 	"wm-license-gfdl-wiki-link": "w:mr:GNU Free Documentation License",
 	"wm-license-information-description": "वर्णन",
