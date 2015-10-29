@@ -20,7 +20,7 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	public static function onMessageCacheGet( &$lcKey ) {
-		global $wgLanguageCode;
+		global $wgLanguageCode, $wmfRealm;
 
 		static $keys = array(
 			'createacct-helpusername',
@@ -37,7 +37,9 @@ class WikimediaMessagesHooks {
 			'mwoauthserver-invalid-user',
 		);
 
-		if ( in_array( $lcKey, $keys, true ) ) {
+		if ( $wmfRealm === 'labs' && $lcKey === 'privacypage' ) {
+			$lcKey = 'wikimedia-privacypage-labs';
+		} elseif ( in_array( $lcKey, $keys, true ) ) {
 			$prefixedKey ="wikimedia-$lcKey";
 
 			// MessageCache uses ucfirst if ord( key ) is < 128, which is true of all
