@@ -5,7 +5,8 @@
 			"555",
 			"Carla404",
 			"Dicionarista",
-			"Opraco"
+			"Opraco",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
@@ -13,5 +14,6 @@
 	"password-recycled": "A senha que você inseriu é idêntica a uma senha antiga de sua conta. Defina uma senha nova, que seja diferente das anteriores.",
 	"grouppage-oversight": "{{ns:project}}:Supervisores",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}"
+	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
+	"please-translate": "Por favor ajuda a traduzir para seu idioma"
 }

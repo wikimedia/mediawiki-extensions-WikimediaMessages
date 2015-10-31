@@ -5,7 +5,8 @@
 			"Clarkcj12",
 			"Kroji",
 			"Macofe",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Matiia"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
@@ -13,5 +14,6 @@
 	"password-recycled": "La contraseña que has escrito coincide con una contraseña antigua asociada con tu cuenta. Configura una contraseña nueva y diferente.",
 	"grouppage-oversight": "{{ns:project}}:Supresores de ediciones",
 	"group-oversight": "Supresores de ediciones",
-	"group-oversight-member": "supresor de ediciones"
+	"group-oversight-member": "supresor de ediciones",
+	"please-translate": "Por favor, ayuda a traducir a tu idioma"
 }
