@@ -13,5 +13,6 @@
 	"wikibase-sitelinks-wikiquote": "ವಿಕಿಕೋಟ್",
 	"wikibase-sitelinks-wikisource": "ವಿಕಿಸೋರ್ಸ್",
 	"wikibase-sitelinks-wikivoyage": "ವಿಕಿವೋಯೇಜ್",
-	"wikimedia-developers": "ಬುಲೆಪುನಕುಲು"
+	"wikimedia-developers": "ಬುಲೆಪುನಕುಲು",
+	"wikimedia-globalblocking-ipblocked": "'''ಈರೆನ ಐಪಿ ವಿಲಾಸೊ ಆತ್ಂಡ್[[m:Special:My Language/Global blocks|blocked on all wikis]].'''\n\nಈ ತಡೆನ್ $1($2)ದಂಚ ಮಲ್ತುನೆ.\nಇಂದೆಕ್ ಕಾರನೊ ''$3'' ಆತ್ಂಡ್.\n\n* ತಡೆಪುನ ಸುರುವಾಪುನೆ: $4\n* ತಡೆಪುನ ಅಕೆರಿ ಅಪುನೆ: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }
