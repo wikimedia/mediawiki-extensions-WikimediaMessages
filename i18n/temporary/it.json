@@ -10,5 +10,6 @@
 	"password-recycled": "La password inserita corrisponde a una vecchia password associata alla tua utenza. Si prega di impostare una nuova password",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighter",
-	"group-oversight-member": "oversight"
+	"group-oversight-member": "oversight",
+	"please-translate": "Aiutaci a tradurre nella tua lingua"
 }
