@@ -28,7 +28,8 @@
 			"NBS",
 			"Dicto23456",
 			"Sunpriat",
-			"Mariya"
+			"Mariya",
+			"INS Pirat"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -181,10 +182,10 @@
 	"wikibase-sitelinks-wikiquote": "Викицитатник",
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
-	"wikibase-sitelinks-commons": "Викисклад",
 	"wikibase-otherprojects-commons": "Викисклад",
-	"wikibase-otherprojects-wikidata": "Викиданные",
+	"wikibase-otherprojects-species": "Викивиды",
 	"wikibase-otherprojects-wikibooks": "Викиучебник",
+	"wikibase-otherprojects-wikidata": "Викиданные",
 	"wikibase-otherprojects-wikinews": "Викиновости",
 	"wikibase-otherprojects-wikiquote": "Викицитатник",
 	"wikibase-otherprojects-wikipedia": "Википедия",

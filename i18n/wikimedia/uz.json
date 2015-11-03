@@ -102,7 +102,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Tarjima maʼmurlari",
 	"shared-repo-name-shared": "Vikiombor",
 	"wikimedia-copyright": "Matn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike litsenziyasi</a> boʻyicha ommalashtirilmoqda, alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin (<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">batafsil</a>).",
-	"wikimedia-copyrightwarning": "„{{int:savearticle}}“ tugmasini bosish orqali Siz [https://wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] va kiritilgan maʼlumotlar [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari boʻyicha qaytarishsiz nashr etilishiga rozi ekanligingizni bildirasiz. Mos sahifa yoki uning URL-manziliga havola koʻrsatish CC BY-SA litsenziyasi shartlari bajarilishi uchun yetarli ekanligiga rozi boʻlasiz.",
+	"wikimedia-copyrightwarning": "Oʻzgarishlarni saqlab, Siz [https://wikimediafoundation.org/wiki/Terms_of_Use foydalanish shartlariga] rozi ekanligingizni bildirasiz, jumladan kiritgan maʼlumotlaringiz [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari ostida qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek tushunib turibsizki, yuqoridagi CC BY-SA shartlari bajarilishi uchun ushbu sahifa yoki uning URL-manziliga havola koʻrsatilishi kifoya.",
 	"wikibase-repo-name": "Vikimaʼlumotlar",
 	"wikibase-otherprojects-commons": "Vikiombor",
 	"cant-delete-main-page": "Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.",

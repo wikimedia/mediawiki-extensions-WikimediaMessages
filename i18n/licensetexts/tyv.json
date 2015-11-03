@@ -1,5 +1,11 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Монгуш Салим"
+		]
+	},
 	"wm-license-information-description": "Тодарадып бижээни",
-	"wm-license-information-source": "Эгези"
+	"wm-license-information-source": "Дөзү",
+	"wm-license-information-date": "ай-хүн",
+	"wm-license-information-author": "автор"
 }

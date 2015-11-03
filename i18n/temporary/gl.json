@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Elisardojm"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes temporais específicas da Wikimedia",
@@ -9,5 +10,6 @@
 	"password-recycled": "O contrasinal inserido coincide cun contrasinal vello asociado á súa conta. Defina un contrasinal diferente",
 	"grouppage-oversight": "{{ns:project}}:Supervisor",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "supervisor"
+	"group-oversight-member": "supervisor",
+	"please-translate": "Por favor, axude a traducir á súa lingua"
 }

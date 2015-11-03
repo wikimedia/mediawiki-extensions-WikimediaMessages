@@ -1,4 +1,11 @@
 {
-	"@metadata": [],
-	"sitesupport": "Белектер"
+	"@metadata": {
+		"authors": [
+			"Монгуш Салим"
+		]
+	},
+	"sitesupport": "Өргүүделдер",
+	"tooltip-n-sitesupport": "Бисти деткиңер",
+	"wikimedia-copyrightwarning": "Өскерлиишкиннерни арттырып тура, силер [https://wikimediafoundation.org/wiki/], ол ышкаш [https://ru.wikipedia.org/wiki/Википедия:Шынзылганың_сөзүглели_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] база [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-биле чөпшээрежип турарыңар ол. Чогуур арынче азы ооң URL-адрезинче гипершөлүлгелерни айтып тура,Creative Commons-туң шынзылгазының негелделери күүсеттинип турар деп чөпшээрежип турарыңар ол.",
+	"wikimedia-developers": "Чогаадып кылган ээлери"
 }
