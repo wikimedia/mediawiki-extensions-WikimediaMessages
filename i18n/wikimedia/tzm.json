@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tifinaghes"
+			"Tifinaghes",
+			"ⵕⴰⵊⵉ"
 		]
 	},
 	"sitesupport": "ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ",
+	"tooltip-n-sitesupport": "ⴰⵡⵙⴰⵜ ⴰⵖ",
 	"nstab-institution": "ⵜⴰⵎⵙⴷⵓⵙⵜ",
 	"group-OTRS-member": "ⵉⴳⵎⴰⵎⵏ OTRS",
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS ⴰⴳⵎⴰⵎ}}",

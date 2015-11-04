@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaustubh"
+			"Kaustubh",
+			"V.narsikar"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:झापडबंद",
 	"group-oversight": "झापडबंद अधिकारी",
-	"group-oversight-member": "झापडबंद"
+	"group-oversight-member": "झापडबंद",
+	"please-translate": "कृपया आपल्या भाषेत भाषांतर करण्यास मदत करा"
 }
