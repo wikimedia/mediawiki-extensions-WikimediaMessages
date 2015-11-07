@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Mormegil",
-			"Matěj Grabovský"
+			"Matěj Grabovský",
+			"Matěj Suchánek"
 		]
 	},
 	"wikimediamessages-desc": "Dočasná hlášení specifická pro projekty Wikimedia",
@@ -10,5 +11,6 @@
 	"password-recycled": "Zadané heslo odpovídá staršímu heslu k vašemu účtu. Nastavte si prosím nové, odlišné heslo.",
 	"grouppage-oversight": "{{ns:project}}:Dozorci",
 	"group-oversight": "Dozorci",
-	"group-oversight-member": "dozorce"
+	"group-oversight-member": "dozorce",
+	"please-translate": "Prosíme, pomozte s překladem do svého jazyka"
 }

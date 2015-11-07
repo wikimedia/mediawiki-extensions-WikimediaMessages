@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"OldakQuill"
+			"OldakQuill",
+			"Xbony2"
 		]
 	},
-	"sitesupport": "jdini sidju"
+	"sitesupport": "jdini sidju",
+	"tooltip-n-sitesupport": "sarji mi'a"
 }
