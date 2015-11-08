@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Giro720",
-			"Malafaya"
+			"Malafaya",
+			"Vitorvicentevalente"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Supervisão",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "supervisor"
+	"group-oversight-member": "supervisor",
+	"please-translate": "Por favor, ajude nas traduções para o seu idioma"
 }

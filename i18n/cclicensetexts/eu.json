@@ -8,7 +8,8 @@
 			"Multichill",
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
-			"Sator"
+			"Sator",
+			"Theklan"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:eu:Creative Commons",
@@ -89,6 +90,7 @@
 	"wm-license-cc-by-3.0-th-text": "Fitxategi hau [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/th/deed.eu Aitorkuntza 3.0 Tailandia] lizentziapean dago.",
 	"wm-license-cc-by-3.0-tw-text": "Fitxategi hau  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/tw/deed.eu Aitorkuntza 3.0 Taiwan] lizentziapean dago.",
 	"wm-license-cc-by-3.0-us-text": "Fitxategi honen erabilera [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/us/deed.eu Aitortu 3.0 Ameriketako Estatu Batuak] lizentziak arautzen du.",
+	"wm-license-cc-by-sa-3.0-text": "Fitxategi hau [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] lizentziapean dago.",
 	"wm-license-cc-free": "Askea zara:",
 	"wm-license-cc-free-to-share-header": "partekatzeko",
 	"wm-license-cc-free-to-share-text": "lana kopiatzeko, banatzeko eta bidaltzeko",
@@ -96,5 +98,7 @@
 	"wm-license-cc-free-to-remix-text": "lana moldatzeko",
 	"wm-license-cc-conditions": "Ondorengo baldintzen pean:",
 	"wm-license-cc-conditions-attribution-header": "eskuduntza",
-	"wm-license-cc-conditions-share_alike-header": "berdin partekatu"
+	"wm-license-cc-conditions-attribution-text": "Lana egileak edo lizentziak azaltzen duen moduan aipatu behar duzu (baina inola ere ez egileak zure lana edo zure lanaren erabilera babesten duela irudikatuz)",
+	"wm-license-cc-conditions-share_alike-header": "berdin partekatu",
+	"wm-license-cc-conditions-share_alike-text": "Lan honetan oinarrituta edo aldatuta berria eraikitzen baduzu, emaitza lana hau bezalako lizentzia batekin argitaratu behar duzu."
 }
