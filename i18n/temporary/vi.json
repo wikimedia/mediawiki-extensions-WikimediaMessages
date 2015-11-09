@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Minh Nguyen",
-			"Vinhtantran"
+			"Vinhtantran",
+			"Nguyên Lê"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp tạm thời dành cho Wikimedia",
@@ -10,5 +11,6 @@
 	"password-recycled": "Bạn đã nhập một mật khẩu cũ từng được dùng cho tài khoản này. Xin vui lòng chọn một mật khẩu mới, khác với mật khẩu hiện tại.",
 	"grouppage-oversight": "{{ns:project}}:Giám sát viên",
 	"group-oversight": "Người xóa hẳn",
-	"group-oversight-member": "người xóa hẳn"
+	"group-oversight-member": "người xóa hẳn",
+	"please-translate": "Xin hãy giúp dịch sang ngôn ngữ của bạn"
 }
