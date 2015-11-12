@@ -15,5 +15,6 @@
 	"password-recycled": "Le mot de passe que vous avez entré correspond à un ancien mot de passe associé à votre compte. Veuillez, s'il vous plaît, définir un nouveau mot de passe différent",
 	"grouppage-oversight": "{{ns:project}}:Masqueurs de modifications",
 	"group-oversight": "Masqueurs de modifications",
-	"group-oversight-member": "{{GENDER:$1|masqueur|masqueuse}} de modifications"
+	"group-oversight-member": "{{GENDER:$1|masqueur|masqueuse}} de modifications",
+	"please-translate": "Merci d’aider à traduire dans votre langue"
 }
