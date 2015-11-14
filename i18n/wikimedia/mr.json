@@ -101,7 +101,7 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|वैश्विक द्रूतमाघारकार}}",
 	"group-global-sysop": "वैश्विक प्रचालक",
 	"group-global-sysop-member": "{{GENDER:$1|वैश्विक प्रचालक|वैश्विक प्रचालिका}}",
-	"group-ombudsman": "लोकाआयूक्त",
+	"group-ombudsman": "लोक-आयूक्त",
 	"group-ombudsman-member": "{{GENDER:$1|लोकआयूक्त}}",
 	"group-staff": "स्टाफ",
 	"group-staff-member": "स्टाफ सदस्य",
