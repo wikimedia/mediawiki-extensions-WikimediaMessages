@@ -115,6 +115,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikiarroud",
 	"wikibase-sitelinks-wikisource": "Wikimammenn",
 	"wikibase-sitelinks-wikivoyage": "Wikibeaj",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
+	"wikibase-sitelinks-sitename-species": "Wikispesadoù",
 	"cant-delete-main-page": "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 	"wikimedia-developers": "Diorroerien",
 	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|Stanket war an holl wikis]] e vez ho chomlec'h IP.'''\n\nAr stankadur a oa graet gant $1 ($2).\nAn abeg eo ''$3''.\n\n* Deroù ar stankadur: $4\n* Dibenn ar stankadur: $5\n\nHo chomlec'h IP zo $6.\n\nPlease include all above details in any queries you make.\n\nMa soñjit e oa ur fazi ho stankadur, gallout a rit kavout muioc'h a titouroù war ar bajenn «[[m:Special:MyLanguage/No open proxies|No open proxies global policy]]».\nMod-all, red eo deoc'h [[m:Steward requests/Global|post ur goulenn war Meta-Wiki]] evit kaozeal diwar benn ho stankadur.",
