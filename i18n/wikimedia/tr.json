@@ -14,7 +14,8 @@
 			"Sayginer",
 			"Hayri özkurt",
 			"Stultiwikia",
-			"McAang"
+			"McAang",
+			"HakanIST"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -125,8 +126,8 @@
 	"wikibase-sitelinks-wikiquote": "Vikisöz",
 	"wikibase-sitelinks-wikisource": "Vikikaynak",
 	"wikibase-sitelinks-wikivoyage": "Vikigezgin",
-	"wikibase-sitelinks-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-wikibooks": "Vikikitap",
+	"wikibase-sitelinks-sitename-species": "Vikitür",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiveri",
 	"cant-delete-main-page": "Silemez veya ana sayfaya taşıyamazsın.",
 	"createacct-helpusername-url": "{{ns:Project}}:Kullanıcı_adı_politikası",
