@@ -12,5 +12,6 @@
 	"password-recycled": "Det lösenord du har angett matchar ett gammalt lösenord kopplat till ditt konto. Ange ett nytt, annorlunda lösenord.",
 	"grouppage-oversight": "{{ns:project}}:Censur",
 	"group-oversight": "Censorer",
-	"group-oversight-member": "censor"
+	"group-oversight-member": "censor",
+	"please-translate": "Hjälp till att översätta till ditt språk"
 }

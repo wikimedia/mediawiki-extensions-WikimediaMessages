@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Joseph",
-			"Karduelis"
+			"Karduelis",
+			"HakanIST"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü geçici iletiler",
 	"grouppage-oversight": "{{ns:project}}:Gözetmen",
 	"group-oversight": "Gözetmenler",
-	"group-oversight-member": "Gözetmen"
+	"group-oversight-member": "Gözetmen",
+	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin."
 }

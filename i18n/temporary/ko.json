@@ -12,5 +12,6 @@
 	"password-recycled": "당신이 입력한 비밀번호는 이전의 비밀번호와 일치합니다. 다른 비밀번호를 입력해주십시오.",
 	"grouppage-oversight": "{{ns:project}}:오버사이트",
 	"group-oversight": "기록보호자",
-	"group-oversight-member": "오버사이트"
+	"group-oversight-member": "오버사이트",
+	"please-translate": "당신의 언어로 번역해 주세요"
 }
