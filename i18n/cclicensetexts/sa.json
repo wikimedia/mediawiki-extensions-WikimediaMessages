@@ -4,5 +4,13 @@
 			"NehalDaveND"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "समारोपः (attribution)"
+	"wm-license-cc-free": "त्वं स्वतन्त्रः/स्वतन्त्रा :",
+	"wm-license-cc-free-to-share-header": "वितरितकरणार्थम्",
+	"wm-license-cc-free-to-share-text": "प्रतिलिपिकरणार्थं, वितरितकरणार्थं, सञ्चारितकरणार्थं च",
+	"wm-license-cc-free-to-remix-header": "सुशोभयितुम् (to remix)",
+	"wm-license-cc-free-to-remix-text": "कार्यम् अनुकूलं करणार्थम्",
+	"wm-license-cc-conditions": "निम्नलिखितावस्थानाम् अन्तर्गततया :",
+	"wm-license-cc-conditions-attribution-header": "समारोपः (attribution)",
+	"wm-license-cc-conditions-attribution-text": "भवता/भवत्या रचनायाः श्रेयः उपयोगसंस्थितकत्रा अथवा लेखकेन दर्शितमाध्यमेन दातव्यः भविष्यति । (परन्तु सः भवते/भवत्यै अथवा भवता/भवत्या रचनायाः प्रयोगस्य समर्थनं करोति इति तस्य विचारः न भवेत्)।",
+	"wm-license-cc-conditions-share_alike-header": "समानतया वितर्यताम्"
 }
