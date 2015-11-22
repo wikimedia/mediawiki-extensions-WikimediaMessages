@@ -4,6 +4,8 @@
 			"NehalDaveND"
 		]
 	},
+	"wm-license-cc-attribution": "समारोपः (attribution)",
+	"wm-license-cc-by-sa-3.0-text": "एषा सञ्चिका [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]]-[//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] अनुमतिपत्रान्तर्गततया अस्ति ।",
 	"wm-license-cc-free": "त्वं स्वतन्त्रः/स्वतन्त्रा :",
 	"wm-license-cc-free-to-share-header": "वितरितकरणार्थम्",
 	"wm-license-cc-free-to-share-text": "प्रतिलिपिकरणार्थं, वितरितकरणार्थं, सञ्चारितकरणार्थं च",
@@ -12,5 +14,6 @@
 	"wm-license-cc-conditions": "निम्नलिखितावस्थानाम् अन्तर्गततया :",
 	"wm-license-cc-conditions-attribution-header": "समारोपः (attribution)",
 	"wm-license-cc-conditions-attribution-text": "भवता/भवत्या रचनायाः श्रेयः उपयोगसंस्थितकत्रा अथवा लेखकेन दर्शितमाध्यमेन दातव्यः भविष्यति । (परन्तु सः भवते/भवत्यै अथवा भवता/भवत्या रचनायाः प्रयोगस्य समर्थनं करोति इति तस्य विचारः न भवेत्)।",
-	"wm-license-cc-conditions-share_alike-header": "समानतया वितर्यताम्"
+	"wm-license-cc-conditions-share_alike-header": "समानतया वितर्यताम्",
+	"wm-license-cc-conditions-share_alike-text": "यदि भवान्/भवती एतस्मिन् कार्ये किमपि परिवर्तनं, अस्य आधारेण नवीनरचनां वा करोति, तर्हि नवरचितरचनायाः वितरणम् एतस्याः उत एतादृश्याः उपयोगसंस्थित्याः अन्तर्गततया कर्तुं शक्नोति ।"
 }

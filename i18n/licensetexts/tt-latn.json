@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Don Alessandro"
+			"Don Alessandro",
+			"Frhdkazan"
 		]
 	},
-	"wm-license-information-source": "Çığanağı"
+	"wm-license-information-description": "Taswir",
+	"wm-license-information-source": "Çığanağı",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Avtor",
+	"wm-license-own-work": "Üz eşem"
 }
