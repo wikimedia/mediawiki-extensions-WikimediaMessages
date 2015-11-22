@@ -23,18 +23,18 @@ class WikimediaMessagesHooks {
 		global $wgLanguageCode, $wmfRealm;
 
 		static $keys = array(
+			'centralauth-contribs-locked',
+			'centralauth-uwbr-intro',
+			'centralauth-uwbr-registration-nodate',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			'feedback-termsofuse',
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
+			'mwoauthserver-invalid-user',
+			'privacypage',
 			'sidebar',
 			'sulrenamewarning-usenew',
-			'centralauth-contribs-locked',
-			'centralauth-uwbr-intro',
-			'centralauth-uwbr-registration-nodate',
-			'privacypage',
-			'mwoauthserver-invalid-user',
 		);
 
 		if ( $wmfRealm === 'labs' && $lcKey === 'privacypage' ) {
@@ -165,7 +165,7 @@ class WikimediaMessagesHooks {
 	 *
 	 * FIXME: Should have a specific message for WMF projects (T44231)
 	 *
-	 * @param $msg The message to over-ride
+	 * @param string $msg The message to over-ride
 	 *
 	 * @return bool
 	 */
@@ -177,7 +177,7 @@ class WikimediaMessagesHooks {
 	/**
 	 * Set the message on GlobalBlocking IP block being triggered
 	 *
-	 * @param $msg The message to over-ride
+	 * @param string $msg The message to over-ride
 	 *
 	 * @return bool
 	 */
@@ -189,7 +189,7 @@ class WikimediaMessagesHooks {
 	/**
 	 * Set the message on GlobalBlocking XFF block being triggered
 	 *
-	 * @param $msg The message to over-ride
+	 * @param string $msg The message to over-ride
 	 *
 	 * @return bool
 	 */
@@ -224,7 +224,9 @@ class WikimediaMessagesHooks {
 	 * Do not require it when licenses is in $wgForceUIMsgAsContentMsg,
 	 * to prevent checking each subpage of MediaWiki:Licenses.
 	 *
+	 * @param $tpl
 	 * @return bool
+	 * @throws ErrorPageError
 	 */
 	public static function onUploadFormInitial( $tpl ) {
 		global $wgForceUIMsgAsContentMsg;
