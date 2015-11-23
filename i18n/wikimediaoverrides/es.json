@@ -2,10 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Kroji",
-			"Macofe"
+			"Macofe",
+			"TMg"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ayúdame a elegir)]]",
-	"wikimedia-createacct-imgcaptcha-help": "¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicita una cuenta]]",
-	"wikimedia-privacypage": "m:Special:MyLanguage/Privacy_policy/es"
+	"wikimedia-createacct-imgcaptcha-help": "¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicita una cuenta]]"
 }
