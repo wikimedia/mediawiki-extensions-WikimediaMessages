@@ -223,6 +223,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Legal text about the notifications sent to translators. Replace Privacy_policy in the URL with Special:MyLanguage/Privacy_policy/<your_language>, for example, Special:MyLanguage/Privacy_policy/fr for French.",
 	"upload-more-photos-of-this-monument": "This message is added by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.",
 	"extdist-branch-master": "Message used for an extension's git master version; the latest development version",
+	"extdist-branch-REL1_27": "Message used for an extension branched for MediaWiki version 1.27.",
 	"extdist-branch-REL1_26": "Message used for an extension branched for MediaWiki version 1.26.",
 	"extdist-branch-REL1_25": "Message used for an extension branched for MediaWiki version 1.25.",
 	"extdist-branch-REL1_24": "Message used for an extension branched for MediaWiki version 1.24.",
