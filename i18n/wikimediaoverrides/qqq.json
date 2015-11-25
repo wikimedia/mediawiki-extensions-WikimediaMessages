@@ -6,7 +6,5 @@
 	},
 	"wikimedia-createacct-helpusername": "Message in new create account form providing guidance for username.",
 	"wikimedia-createacct-imgcaptcha-help": "Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.",
-	"wikimedia-privacypage": "{{notranslate}} Default Wikimedia projects link to privacy policy. Should not be changed at the request of Wikimedia Foundation's Legal Department.",
-	"wikimedia-privacypage-labs": "{{notranslate}} Default Wikimedia Labs projects link to terms of use. Should not be changed at the request of Wikimedia Foundation's Legal Department.",
 	"wikimedia-sidebar": "{{notranslate}}"
 }

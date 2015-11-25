@@ -27,6 +27,9 @@ $wgMessagesDirs['WikimediaTemporaryMessages'] = __DIR__ . '/i18n/temporary';
 // Overrides of messages from core; must be consistent with MessageCache::get listener
 $wgMessagesDirs['WikimediaOverrideMessages'] = __DIR__ . '/i18n/wikimediaoverrides';
 
+// Messages which are not translated at translatewiki.net at the request of the Wikimedia Foundation
+$wgMessagesDirs['WikimediaOverrideMessagesNoTranslate'] = __DIR__ . '/i18n/wikimediaoverridesnotranslate';
+
 $wgAutoloadClasses['WikimediaMessagesHooks'] = __DIR__ . '/WikimediaMessages.hooks.php';
 
 include_once ( __DIR__ .'/WikimediaGrammarForms.php' );
