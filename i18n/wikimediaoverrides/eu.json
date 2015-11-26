@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemo bis",
+			"Sator"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Lagun nazazu aukeratzen)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Ezin duzu irudi ikusi? [[{{MediaWiki:createacct-captcha-help-url}}|Kontu bat eskatu]]"
+}
