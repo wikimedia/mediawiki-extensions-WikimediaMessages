@@ -6,6 +6,5 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|conseils]])",
-	"wikimedia-createacct-imgcaptcha-help": "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
-	"wikimedia-privacypage": "m:Privacy page/fr"
+	"wikimedia-createacct-imgcaptcha-help": "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]"
 }
