@@ -29,7 +29,8 @@
 			"Dicto23456",
 			"Sunpriat",
 			"Mariya",
-			"INS Pirat"
+			"INS Pirat",
+			"Translatobecomer"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -198,7 +199,7 @@
 	"upload-more-photos-of-this-monument": "Загрузить больше фотографий этого объекта",
 	"extdist-branch-master": "мастер (последней версия)",
 	"extdist-branch-REL1_27": "1.27 (следующая стабильная версия-кандидат)",
-	"extdist-branch-REL1_26": "1.26 (последняя стабильная MediaWiki)",
+	"extdist-branch-REL1_26": "1.26 (последняя стабильная версия MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Имена_участников",
 	"createacct-captcha-help-url": "{{ns:Project}}:Запросить учётную запись",
 	"wikimedia-developers": "Разработчики",
