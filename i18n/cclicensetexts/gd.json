@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"GunChleoc"
+			"GunChleoc",
+			"Akerbeltz"
 		]
 	},
 	"wm-license-cc-attribution": "Urram",
@@ -11,6 +12,8 @@
 	"wm-license-cc-free-to-share-text": "lethbhreac a dhèanamh dhen obair, a sgaoileadh is a tar-chur",
 	"wm-license-cc-free-to-remix-header": "ath-mheasgachadh",
 	"wm-license-cc-free-to-remix-text": "an obair atharrachadh",
+	"wm-license-cc-conditions": "Fo bhuaidh nan cumhaichean a leanas:",
 	"wm-license-cc-conditions-attribution-header": "urram",
+	"wm-license-cc-conditions-attribution-text": "Feumaidh tu iomradh a thoirt air an ùghdar no an neach aig a bheil cead air, dìreach mar a thoill iad (ach chan ann air dòigh a chuireas an sùilean dhaoine gu bheil iad ag aontachadh riut no ri d’ obair).",
 	"wm-license-cc-conditions-share_alike-header": "co-roinneadh co-ionnann"
 }
