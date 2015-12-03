@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"wm-license-information-description": "Soat-bêng"
+	"@metadata": {
+		"authors": [
+			"Ianbu"
+		]
+	},
+	"wm-license-information-description": "Soat-bêng",
+	"wm-license-information-date": "日期"
 }
