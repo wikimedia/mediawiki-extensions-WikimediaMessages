@@ -39,7 +39,7 @@
 	"grouppage-arbcom": "{{ns:project}}:Чланови Арбитражног одбора",
 	"group-autopatrolled": "Аутоматски патролисани",
 	"group-autopatrolled-member": "{{GENDER:$1|аутоматски патролиран|аутоматски патролирана}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Аутопатролери",
+	"grouppage-autopatrolled": "{{ns:project}}:Аутоматски патролисани",
 	"group-autoreviewer": "Самооцењивачи",
 	"group-autoreviewer-member": "{{GENDER:$1|самооцењивач|самооцењивачица|самооцењивач}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Самооцењивачи",

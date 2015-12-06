@@ -12,12 +12,13 @@
 			"StanProg",
 			"Dicto23456",
 			"V111P",
-			"Termininja"
+			"Termininja",
+			"Лорд Бъмбъри"
 		]
 	},
 	"wikimediamessages-desc": "Съобщения, специфични за Уикимедия",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=bg",
-	"sitesupport": "Дарения",
+	"sitesupport": "Направете дарение",
 	"tooltip-n-sitesupport": "Подкрепете ни",
 	"nstab-creator": "Създател",
 	"nstab-institution": "Институция",
