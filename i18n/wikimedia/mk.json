@@ -170,6 +170,7 @@
 	"wikimedia-copyrightwarning": "Зачувувајќи ги промените, се согласувате на [https://wikimediafoundation.org/wiki/Terms_of_Use/mk?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [https://mk.wikipedia.org/wiki/Википедија:Текст_на_лиценцата_Creative_Commons_Наведи_извор-Сподели_под_исти_услови_3.0_Нелокализирана CC-BY-SA 3.0] и [https://mk.wikipedia.org/wiki/Википедија:Текст_на_ГНУ-овата_лиценца_за_слободна_документација ГЛСД] (GFDL).\nСе согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.mk\" title=\"Определба на лиценцата Криејтив комонс НаведиИзвор-СподелиПодИстиУслови\" target=\"_blank\">CC BY-SA 3.0</a> и <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Определба на лиценцата ГЛСД\" target=\"_blank\">ГЛСД</a>",
 	"wikibase-repo-name": "Википодатоци",
+	"wikibase-statementsection-identifiers": "Назнаки",
 	"wikibase-sitelinks-wikibooks": "Викикниги",
 	"wikibase-sitelinks-wikinews": "Викивести",
 	"wikibase-sitelinks-wikiquote": "Викицитат",

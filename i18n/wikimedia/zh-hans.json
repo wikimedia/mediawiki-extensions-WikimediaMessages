@@ -192,6 +192,7 @@
 	"wikimedia-copyrightwarning": "保存更改即表示你同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并不可撤销地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0协议文本 CC BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]发表你贡献的内容。这也表示您同意在知识共享许可协议下，以标注超链接或URL的形式署名是十分合理的。",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh\" title=\"知识共享 署名-相同方式共享协议的定义\" target=\"_blank\">CC BY-SA 3.0</a>和<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL的定义\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "维基数据",
+	"wikibase-statementsection-identifiers": "标识符",
 	"wikibase-sitelinks-wikibooks": "维基教科书",
 	"wikibase-sitelinks-wikinews": "维基新闻",
 	"wikibase-sitelinks-wikiquote": "维基语录",
