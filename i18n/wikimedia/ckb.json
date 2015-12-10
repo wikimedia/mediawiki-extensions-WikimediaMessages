@@ -86,10 +86,10 @@
 	"wikibase-sitelinks-wikiquote": "ویکیوتە",
 	"wikibase-sitelinks-wikisource": "ویکیژێدەر",
 	"wikibase-sitelinks-wikivoyage": "ویکیسەفەر",
-	"wikibase-sitelinks-commons": "پەڕە بەسراوەکانی کۆمنزی ویکیمیدیا بەم بەندەوە",
 	"wikibase-otherprojects-wikidata": "ویکیداتا",
 	"wikibase-sitelinks-sitename-commonswiki": "کۆمنز",
 	"cant-delete-main-page": "ناتوانی پەڕەی دەستپێک بسڕییەوە یان بگوازییەوە.",
 	"createacct-captcha-help-url": "{{ns:Project}}: داخوازی ھەژمارێک",
-	"wikimedia-developers": "پەرەپێدەران"
+	"wikimedia-developers": "پەرەپێدەران",
+	"wikimedia-globalblocking-ipblocked": "'''ئەدرەسی IPی تۆ [[m:Special:MyLanguage/Global blocks|بەرگریی لێ کراوە لە گشت ویکییەکاندا]].'''\n\nبەرگری لە لایەن  $1ەوە پێک ھاتووە ($2).\nھۆکارەکەی بە ''$3'' دیاری کراوە.\n\n* دەستپێکردنی بەرگری: $4\n* بەسەرچوونی بەرگری: $5\n\nئەدرەسی IPی ئێستای تۆ ئەمەیە: $6.\nتکایە گشت وردەکارییەکانی سەرەوە لە ھەر گوزارشتێکدا کە دەیدەیت بێنە.\n\nئەگەر پێت وایە کە بە ھەڵە بەرگریت لێ کراوە، دەتوانیت لە سیاسەتی گشتیی [[m:Special:MyLanguage/No open proxies|No open proxies]]دا زانیاری و ڕێنوێنیی زیاتر بخوێنیتەوە.\nدەنا، تکایە بۆ لێدوان لەسەر بەرگری، [[m:Steward requests/Global|داواکارییەک لە Meta-Wikiدا تۆمار بکە]]."
 }

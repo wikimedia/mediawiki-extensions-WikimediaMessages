@@ -10,7 +10,8 @@
 			"Multichill",
 			"Waihorace",
 			"Cwlin0416",
-			"LNDDYL"
+			"LNDDYL",
+			"Shizhao"
 		]
 	},
 	"wikimedialicensetexts-desc": "維基媒體授權條款訊息",
@@ -83,7 +84,7 @@
 	"wm-license-original-upload-log": "原始上傳日誌",
 	"wm-license-own-work": "自己的作品",
 	"wm-license-pd-author-self-text": "我，此作品的版權所有人，釋出此作品至 '''[[{{int:wm-license-pd-wiki-link}}|公共領域]]'''。 此授權條款在全世界均適用。",
-	"wm-license-pd-author-with-author-text": "此作品已由其作者，$1，釋出至 '''[[{{int:wm-license-pd-wiki-link}}|公共領域]]'''。 此授權條款在全世界均適用。",
+	"wm-license-pd-author-with-author-text": "此作品已由其作者，$1，釋出至 '''[[{{int:wm-license-pd-wiki-link}}|公有領域]]'''。 此授權條款在全世界均適用。",
 	"wm-license-pd-author-not-legally-possible": "這可能在某些國家不合法，如果是的話：",
 	"wm-license-pd-author-self-any-purpose": "我授予任何人有權利使用此作品於 '''任何用途'''，除受法律約束外，不受任何限制。",
 	"wm-license-pd-author-with-author-any-purpose": "$1 授予任何人有權利使用此作品於 '''任何用途'''，除受法律約束外，不受任何限制。",

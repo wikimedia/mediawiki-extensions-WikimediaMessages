@@ -1,12 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hosseinblue"
+			"Hosseinblue",
+			"Lakzon"
 		]
 	},
+	"wm-license-creator-description": "توضیحةل",
 	"wm-license-gfdl-1.2-and-later": "اجازهٔ کپی، پخش و/یا تغییر این سند تحت شرایط '''[[{{int:wm-license-gfdl-wiki-link}}|مجوز مستندات آزاد گنو]]'''، نسخهٔ ۱٫۲ یا هر نسخهٔ بعدتری که توسط [[{{int:wm-license-fsf-wiki-link}}|بنیاد نرم‌افزار آزاد]] منتشر شده؛ بدون بخش‌های ناوردا (نامتغیر)، متون روی جلد، و متون پشت جلد، اعطا می‌شود. یک کپی از مجوز در بخشی تحت عنوان ''[[{{int:wm-license-gfdl-full-1.2-link}}|مجوز مستندات آزاد گنو]]'' ضمیمه شده است.",
+	"wm-license-information-table-summary": "جدولی استانداردسازی‌شده که اطلاعاتی پیرامون پرونده ازجمله توضیحی پیرامون آنچه نمایش می‌دهد و نحوهٔ ایجاد آن و وضعیت حق تکثیر و منبع.",
 	"wm-license-information-description": "توضیح دائن",
+	"wm-license-information-description-missing-request": "لطفاً توضیحات مرتبطی پیرامون این تصویر ارائه دهید.",
 	"wm-license-information-source": "بِنچۀک/مۀنبۀع",
+	"wm-license-information-source-missing-request": "لطفاً قسمت توضیحات پرونده را برای افزودن منبع ویرایش کنید.",
 	"wm-license-information-date": "تاریخ",
 	"wm-license-information-author": "مولف",
 	"wm-license-information-permission": "اجازه‌نامه",

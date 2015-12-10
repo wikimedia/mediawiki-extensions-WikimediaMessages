@@ -148,8 +148,6 @@
 	"wikibase-sitelinks-sitename-species": "Викиврсте",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Википодаци",
 	"cant-delete-main-page": "Не можете обрисати или преместити главну страну.",
-	"extdist-branch-REL1_27": "1.27 (следећа кандидат за стабилну верзију)",
-	"extdist-branch-REL1_26": "1.26 (најновија стабилна верзија Медијавикија)",
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-developers": "За програмере",
