@@ -3,11 +3,15 @@
 		"authors": [
 			"Anskar",
 			"Paucabot",
-			"SMP"
+			"SMP",
+			"Kippelboy"
 		]
 	},
 	"wikimediamessages-desc": "Missatges temporals específics de Wikimedia",
+	"bug-54847-password-reset-prompt": "A causa d'un [[meta:October 2013 private data security issue|problema de seguretat]], la vostra contrasenya anterior podria ser vulnerable. Si us plau, canvieu-la.",
+	"password-recycled": "La contrasenya has entrat a aparella una contrasenya vella associada amb el vostre compte. Si us plau posat una contrasenya nova, diferent.",
 	"grouppage-oversight": "{{ns:project}}:Supervisió",
 	"group-oversight": "Oversight",
-	"group-oversight-member": "oversight"
+	"group-oversight-member": "oversight",
+	"please-translate": "Si us plau, ajudeu a traduir-ho al vostre idioma"
 }

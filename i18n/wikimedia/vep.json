@@ -70,5 +70,6 @@
 	"group-steward-member": "{{GENDER:$1|stüard}}",
 	"group-sysadmin": "Sisteman administratorad",
 	"group-sysadmin-member": "{{GENDER:$1|sistemadministratorad}}",
-	"wikimedia-copyright": "Tekst sab sada <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid.\nKacu mugažo: <a href=\"https://wikimediafoundation.org/wiki/Käyttöehdot\">käyttöehdot</a>."
+	"wikimedia-copyright": "Tekst sab sada <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid.\nKacu mugažo: <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a>.",
+	"wikimedia-developers": "Šingotajad"
 }
