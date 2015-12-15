@@ -13,7 +13,8 @@
 			"E.coli",
 			"Fraxinus",
 			"Teoo3",
-			"MaGa"
+			"MaGa",
+			"Srdjan m"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -42,7 +43,7 @@
 	"grouppage-arbcom": "{{ns:project}}:Članovi arbitražnog odbora",
 	"group-autopatrolled": "automatski ophođeni",
 	"group-autopatrolled-member": "{{GENDER:$1|automatski ophođen|automatski ophođena}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Automatski patrolirani",
+	"grouppage-autopatrolled": "{{ns:project}}:Automatski ophođeni",
 	"group-autoreviewer": "Samoocjenjivači",
 	"group-autoreviewer-member": "samoocjenjivač",
 	"grouppage-autoreviewer": "{{ns:project}}:Samoocjenjivači",
