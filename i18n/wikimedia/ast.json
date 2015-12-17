@@ -5,7 +5,8 @@
 			"Fitoschido",
 			"Minh Nguyen",
 			"Nemo bis",
-			"Xuacu"
+			"Xuacu",
+			"Enolp"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicos de Wikimedia",
@@ -159,6 +160,7 @@
 	"wikidata-copyright": "Tolos datos estruturaos de los espacios de nomes principal y de propiedaá tan disponibles baxo la <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">llicencia Creative Commons CC0</a>;\nel testu de los demás espacios de nomes ta disponible baxo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">llicencia Creative Commons reconocimientu/compartir igual</a>;\npuen aplicase otres condiciones más.\nConsulte les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">condiciones d'usu</a> pa más detalles.",
 	"wikimedia-copyrightwarning": "Al guardar los cambios aceutes les [https://wikimediafoundation.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable lliberar la to collaboración baxo la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAceutes qu'un hiperenllaz o URL ye reconocimientu bastante baxo la llicencia Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definición de la Llicencia Creative Commons Attribution/Share-Alike\" target=\"_blank\">CC BY-SA 3.0</a> y <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definición de la GFDL\" target=\"_blank\">GFDL</a>",
+	"wikibase-statementsection-identifiers": "Identificadores",
 	"wikibase-sitelinks-wikibooks": "Wikillibros",
 	"wikibase-sitelinks-wikinews": "Wikinoticies",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
@@ -172,9 +174,6 @@
 	"cant-delete-main-page": "Nun pues desaniciar nin treslladar la portada.",
 	"wikimedia-translationnotifications-signup-legal": "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://wikimediafoundation.org/wiki/Privacy_policy política de proteición de datos].",
 	"upload-more-photos-of-this-monument": "Xubir más semeyes d'esti monumentu",
-	"extdist-branch-master": "maestra (cabera versión en desendolcu)",
-	"extdist-branch-REL1_27": "1.27 (siguiente candidata a estable)",
-	"extdist-branch-REL1_26": "1.26 (cabera MediaWiki estable)",
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nomes_d'usuariu",
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicite una cuenta",
 	"wikimedia-developers": "Desendolcadores",
