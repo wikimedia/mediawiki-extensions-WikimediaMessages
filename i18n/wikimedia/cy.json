@@ -5,7 +5,8 @@
 			"Robin Owain",
 			"Xxglennxx",
 			"Nemo bis",
-			"Ham II"
+			"Ham II",
+			"Diafol"
 		]
 	},
 	"wikimediamessages-desc": "Negeseuon neilltuol Wikimedia",
@@ -119,6 +120,7 @@
 	"wikimedia-copyright": "Mae testun y dudalen ar gael dan drwydded <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\ngall fod telerau ychwanegol perthnasol.\nGweler <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Telerau Defnyddio'r Drwydded</a> am fanylion pellach.",
 	"wikidata-copyright": "Mae'r holl data strwythuredig yn y prif barth a'r parth nodwedd ar gael yn ôl termau'r drwydded <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Deffiniad y Drwydded Creative Commons CC0\">Creative Commons CC0</a>;\nmae testun yn y parthau eraill ar gael yn ôl termau'r drwydded <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Diffiniad y Drwydded Creative Commons Attribution-ShareAlike\">Creative Commons Attribution-ShareAlike</a>;\ngall termau ychwanegol fod yn weithredol.\nGweler y <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Termau Defnyddio Sefydliad Wikimedia\">Termau Defnyddio</a> am fanylion.",
 	"wikimedia-copyrightwarning": "Wrth roi'r dudalen ar gadw, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike CC BY-SA 3.0] a'r [https://www.gnu.org/copyleft/fdl.html GFDL].\nYr ydych yn cytuno i gael eich cydnabod pan gaiff y cyfraniad ei ail-ddefnyddio, o leiaf trwy osod hypergyswllt neu URL at y dudalen yr ydych yn cyfrannu ato.\nGweler [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Telerau Defnyddio'r Drwydded] am fanylion pellach.",
+	"wikibase-sitelinks-wikinews": "Wicinewyddion",
 	"wikibase-sitelinks-wikiquote": "Wikiddyfynnu",
 	"wikibase-sitelinks-wikisource": "Wicidestun",
 	"wikibase-sitelinks-wikivoyage": "Wicidaith",
@@ -126,8 +128,6 @@
 	"cant-delete-main-page": "Ni allwch ddileu'r brif dudalen na'i symud.",
 	"wikimedia-translationnotifications-signup-legal": "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy polisi preifatrwydd].",
 	"upload-more-photos-of-this-monument": "Uwchlwytho rhagor o luniau o'r gofeb hon",
-	"extdist-branch-master": "pen-fersiwn (y fersiwn datblygu diweddaraf)",
-	"extdist-branch-REL1_26": "1.26 (y fersiwn MediaWiki safadwy diweddaraf)",
 	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwi_cyfrifon",
 	"createacct-captcha-help-url": "{{ns:Project}}:Ymholi am gyfri",
 	"wikimedia-developers": "Datblygwyr",

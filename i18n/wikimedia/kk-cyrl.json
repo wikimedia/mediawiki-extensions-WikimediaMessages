@@ -150,8 +150,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "Уикидерек",
 	"cant-delete-main-page": "Сіз басты бетті жылжыта немесе өшіре алмайсыз.",
 	"upload-more-photos-of-this-monument": "Бұл монументтің көбірек суреттерін жүктеу",
-	"extdist-branch-master": "шебер (ең соңғы жасақталған нұсқасы)",
-	"extdist-branch-REL1_26": "1.26 (MediaWiki-дің ең соңғы тұрақты нұсқасы)",
 	"createacct-helpusername-url": "{{ns:Project}}:Тіркелгі сұрау",
 	"createacct-captcha-help-url": "{{ns:Project}}:Тіркелгі сұрау",
 	"wikimedia-developers": "Жасақтаушылар",
@@ -170,5 +168,10 @@
 	"restriction-level-superprotect": "супер қорғаныс",
 	"right-editeditorprotected": "«{{int:protect-level-autoconfirmed}}» ретінде қорғалған беттерді өңдеу",
 	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету",
-	"search-interwiki-results-abwiki": "[[:ab:Main_Page|Авхазша Уикипедиядан]] нәтижелер көрсетілуде."
+	"search-interwiki-results-abwiki": "[[:ab:Main_Page|Авхазша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-afwiki": "[[:af:Main_Page|Африкаансша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-akwiki": "[[:ak:Main_Page|Аканша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-arwiki": "[[:ar:Main_Page|Арабша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-arzwiki": "[[:arz:Main_Page|Египеттік арабша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-enwiki": "[[:en:Main_Page|Ағылшынша Уикипедиядан]] нәтижелер көрсетілуде."
 }
