@@ -6,7 +6,8 @@
 			"לערי ריינהארט",
 			"Nemo bis",
 			"Caliburn",
-			"Lesgles"
+			"Lesgles",
+			"Laurentianus"
 		]
 	},
 	"sitesupport": "Donationes",
@@ -15,7 +16,7 @@
 	"group-rollbacker-member": "{{GENDER:$1|revertor}}",
 	"grouppage-rollbacker": "{{ns:project}}:Revertores",
 	"shared-repo-name-shared": "Vicimedia Communia",
-	"wikimedia-copyright": "Textum tractabile est sub licentia <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">\"Creative Commons Attribution-ShareAlike License\"</a>;\naliae condiciones esse possunt.\nVide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">leges usus</a>.",
+	"wikimedia-copyright": "Nonobstantibus ceteris condicionibus hunc textum tractare licet secundum <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">\"Creative Commons Attribution-ShareAlike License\"</a>.\nVide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">modos et condiciones</a>.",
 	"wikimedia-copyrightwarning": "Confirmando pressorium \"{{int:savearticle}}\" [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use conventionem utendi] nostram approbas. Praeterea consentis conlationem tuam sub licentia [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] et [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] publicari.\n\nEtiam confirmas nexum vel URL contributioni sufficere sub Creative Commons licentia.",
 	"wikibase-sitelinks-wikibooks": "Vicilibri",
 	"wikibase-sitelinks-wikinews": "Vicinuntii",
