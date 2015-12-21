@@ -1,5 +1,4 @@
 <?php
-if (!defined('MEDIAWIKI')) die();
 /**
  * An extension that adds Wikimedia specific functionality
  *
@@ -11,44 +10,24 @@ if (!defined('MEDIAWIKI')) die();
  * @license https://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
 
-$wgExtensionCredits['other'][] = array(
-	'path'           => __FILE__,
-	'name'           => 'WikimediaMessages',
-	'url'            => 'https://www.mediawiki.org/wiki/Extension:WikimediaMessages',
-	'author'         => array( 'Tim Starling', 'Siebrand Mazeland', 'James D. Forrester' ),
-	'descriptionmsg' => 'wikimediamessages-desc',
-	'license-name'   => 'GPL-2.0+',
-);
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'WikimediaMessages' );
 
-$wgMessagesDirs['WikimediaContactPageMessages'] = __DIR__ . '/i18n/contactpage';
-$wgMessagesDirs['WikimediaMessages'] = __DIR__ . '/i18n/wikimedia';
-$wgMessagesDirs['WikimediaTemporaryMessages'] = __DIR__ . '/i18n/temporary';
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['WikimediaContactPageMessages'] = __DIR__ . '/i18n/contactpage';
+	$wgMessagesDirs['WikimediaMessages'] = __DIR__ . '/i18n/wikimedia';
+	$wgMessagesDirs['WikimediaTemporaryMessages'] = __DIR__ . '/i18n/temporary';
+	$wgMessagesDirs['WikimediaOverrideMessages'] = __DIR__ . '/i18n/wikimediaoverrides';
 
-// Overrides of messages from core; must be consistent with MessageCache::get listener
-$wgMessagesDirs['WikimediaOverrideMessages'] = __DIR__ . '/i18n/wikimediaoverrides';
+	// Messages which are not translated at translatewiki.net at the request of the Wikimedia Foundation
+	$wgMessagesDirs['WikimediaOverrideMessagesNoTranslate'] = __DIR__ . '/i18n/wikimediaoverridesnotranslate';
 
-// Messages which are not translated at translatewiki.net at the request of the Wikimedia Foundation
-$wgMessagesDirs['WikimediaOverrideMessagesNoTranslate'] = __DIR__ . '/i18n/wikimediaoverridesnotranslate';
+	/* wfWarn(
+		'Deprecated PHP entry point used for WikimediaMessages extension. Please use wfLoadExtension '.
+		'instead, see https://www.mediawiki.org/wiki/Extension_registration for more details.'
+	); */
 
-$wgAutoloadClasses['WikimediaMessagesHooks'] = __DIR__ . '/WikimediaMessages.hooks.php';
-
-include_once ( __DIR__ .'/WikimediaGrammarForms.php' );
-
-// Register hooks
-$wgHooks['MessageCache::get'][] = 'WikimediaMessagesHooks::onMessageCacheGet';
-$wgHooks['SkinCopyrightFooter'][] = 'WikimediaMessagesHooks::onSkinCopyrightFooter';
-$wgHooks['EditPageCopyrightWarning'][] = 'WikimediaMessagesHooks::onEditPageCopyrightWarning';
-$wgHooks['MobileLicenseLink'][] = 'WikimediaMessagesHooks::onMobileLicenseLink';
-$wgHooks['SkinTemplateOutputPageBeforeExec'][] = 'WikimediaMessagesHooks::onSkinTemplateOutputPageBeforeExec';
-$wgHooks['TorBlockBlockedMsg'][] = 'WikimediaMessagesHooks::onTorBlockBlockedMsg';
-$wgHooks['GlobalBlockingBlockedIpMsg'][] = 'WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg';
-$wgHooks['GlobalBlockingBlockedIpXffMsg'][] = 'WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg';
-$wgHooks['MinervaPreRender'][] = 'WikimediaMessagesHooks::onMinervaPreRender';
-$wgHooks['UploadForm:initial'][] = 'WikimediaMessagesHooks::onUploadFormInitial';
-
-$wgResourceModules['ext.wikimediamessages.contactpage.affcomusergroup'] = array(
-	'position' => 'top',
-	'localBasePath' => __DIR__ . '/modules',
-	'remoteExtPath' => 'WikimediaMessages/modules',
-	'styles' => 'ext.wikimediamessages.contactpage.affcomusergroup.css',
-);
+	return true;
+} else {
+	die( 'This version of the WikimediaMessages extension requires MediaWiki 1.25+' );
+}
