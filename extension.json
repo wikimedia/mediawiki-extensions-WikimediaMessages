@@ -21,6 +21,9 @@
 		],
 		"WikimediaOverrideMessages": [
 			"i18n/wikimediaoverrides"
+		],
+		"WikimediaOverrideMessagesNoTranslate": [
+			"i18n/wikimediaoverridesnotranslate"
 		]
 	},
 	"AutoloadClasses": {
