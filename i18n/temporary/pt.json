@@ -3,11 +3,12 @@
 		"authors": [
 			"Giro720",
 			"Malafaya",
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Opraco"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Supervisão",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "supervisor",
+	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
 	"please-translate": "Por favor, ajude nas traduções para o seu idioma"
 }
