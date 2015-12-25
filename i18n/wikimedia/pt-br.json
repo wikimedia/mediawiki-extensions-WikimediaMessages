@@ -110,7 +110,7 @@
 	"group-rollbacker-member": "{{GENDER:$1|reversor|reversora|reversor(a)}}",
 	"grouppage-rollbacker": "{{ns:project}}:Reversores",
 	"group-transwiki": "Importadores transwiki",
-	"group-transwiki-member": "{{GENDER:$1|importador|importadora}} transwiki",
+	"group-transwiki-member": "{{GENDER:$1|importador|importadora|importador(a)}} transwiki",
 	"grouppage-transwiki": "{{ns:project}}:Importadores transwiki",
 	"group-templateeditor": "Editores de predefinições",
 	"group-templateeditor-member": "{{GENDER:$1|editor|editora}} de predefinições",
