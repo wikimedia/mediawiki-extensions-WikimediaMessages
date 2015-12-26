@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Poiuyt"
+			"Poiuyt",
+			"飞舞回堂前"
 		]
 	},
 	"sitesupport": "捐款",
@@ -13,6 +14,6 @@
 	"wikibase-sitelinks-wikisource": "维基文库",
 	"wikibase-sitelinks-wikivoyage": "维基导游",
 	"wikimedia-developers": "开发者",
-	"wikimedia-globalblocking-ipblocked": "'''你个IP地址已经[[m:Special:MyLanguage/Global blocks|来所有维基网站畀封堵]]。'''\n\n箇封禁是$1（$2）设置个。\n畀出个原因是''$3''。\n\n* 封禁开始辰光：$4\n* 封禁到期辰光：$5\n\n你目前个IP地址是$6。\n请来你提出个任何质疑中包括以上所有信息。\n\n如果你认为你畀错封，你可以来[[m:Special:MyLanguage/No open proxies|覅使用开放代理]]全域方针寻着更多信息搭指导。\n另外，想讨论该封堵个说话请[[m:Steward requests/Global|到元维基发表复审请求]]。",
+	"wikimedia-globalblocking-ipblocked": "'''侬个IP地址已经[[m:Special:MyLanguage/Global blocks|来所有维基网站畀查封]]。'''\n\n箇查封是$1（$2）设置个。畀出个原因是''$3''。\n\n* 封禁开始辰光：$4\n* 封禁到期辰光：$5\n\n侬目前个IP地址是$6。请来侬提出个质疑中包括以上所有信息。\n\n如果认为侬畀封错著，侬可以来[[m:Special:MyLanguage/No open proxies|覅使用开放代理]]全域政策寻着更多信息搭指导。另外，想讨论该查封个说法请[[m:Steward requests/Global|到元维基发表复审请求]]。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''你个访问请求使用个代理服务器畀[[m:Special:MyLanguage/Global blocks|全域封堵]]。'''\n\n箇封禁是$1（$2）设置个。\n畀出个原因是''$3''。\n\n* 封禁开始辰光：$4\n* 封禁到期辰光：$5\n\n畀封禁个代理服务器地址是$6。\n请来你提出个任何质疑中包括以上所有信息。\n\n如果你认为你畀错封，你可以来[[m:Special:MyLanguage/No open proxies|覅使用开放代理]]全域方针寻着更多信息搭指导。\n另外，想讨论该封堵个说话请[[m:Steward requests/Global|到元维基发表复审请求]]。"
 }
