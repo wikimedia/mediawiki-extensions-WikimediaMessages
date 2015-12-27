@@ -251,6 +251,7 @@
 	"right-editeditorprotected": "编辑保护级别为“{{int:protect-level-editeditorprotected}}”的页面",
 	"protect-level-editeditorprotected": "只允许编辑者",
 	"restriction-level-editeditorprotected": "编辑者保护",
+	"wikimedia-ipb-confirmhideuser": "您将要封禁这位用户，并启用“隐藏用户”。这将在此wiki上的所有列表和日志记录中屏蔽该用户名。您确定要这样做么？\n\n如果用户名需要在所有维基媒体wiki上被隐藏，请通过stewards@wikimedia.org联络[[m:Special:MyLanguage/Stewards|监管员]]。",
 	"wikimedia-feedback-termsofuse": "我同意按照<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">使用条款</a>提供反馈。",
 	"wikimedia-globalrenamequeue-email-body-approved": "重命名“{{GENDER:$1|$1}}”至“{{GENDER:$1|$2}}”的申请已通过。一旦完成，您将使用您的新用户名和旧有密码登录。感谢您参与维基媒体项目。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "重命名“{{GENDER:$1|$1}}”至“{{GENDER:$1|$2}}”的申请无法完成。\n\n注释：$3\n\n更多信息请参见此帮助页面：<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>。要讨论您的重命名申请，您可以在此页面提出：<https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>。您必须首先使用您现有的账户名登录。",
