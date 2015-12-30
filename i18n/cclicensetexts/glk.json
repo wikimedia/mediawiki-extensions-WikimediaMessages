@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"V6rg"
+			"V6rg",
+			"شیخ"
 		]
 	},
-	"wm-license-cc-free-to-share-header": "همرسؤني ٚ به"
+	"wm-license-cc-free-to-share-header": "همرسؤني ٚ به",
+	"wm-license-cc-conditions-attribution-header": "تخصيص"
 }
