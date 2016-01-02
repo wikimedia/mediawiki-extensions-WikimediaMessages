@@ -71,5 +71,6 @@
 		"UploadForm:initial": [
 			"WikimediaMessagesHooks::onUploadFormInitial"
 		]
-	}
+	},
+	"manifest_version": 1
 }
