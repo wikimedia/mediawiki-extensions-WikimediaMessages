@@ -42,5 +42,9 @@
 	"group-steward": "Википедон",
 	"group-steward-member": "{{GENDER:$1|википед}}",
 	"group-sysadmin": "Мудирони систем",
-	"group-sysadmin-member": "{{GENDER:$1|мудири систем}}"
+	"group-sysadmin-member": "{{GENDER:$1|мудири систем}}",
+	"wikibase-sitelinks-wikinews": "Викиахбор",
+	"wikibase-sitelinks-wikisource": "Викиманбаъ",
+	"wikibase-sitelinks-wikivoyage": "Викисафар",
+	"wikimedia-developers": "Таҳиягарон"
 }

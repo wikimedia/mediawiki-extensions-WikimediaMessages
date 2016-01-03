@@ -1,7 +1,15 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Ibrahim"
+		]
+	},
 	"wm-license-information-description": "Тавсифот",
 	"wm-license-information-source": "Манбаъ",
 	"wm-license-information-date": "Сана",
-	"wm-license-information-author": "Муаллиф"
+	"wm-license-information-author": "Муаллиф",
+	"wm-license-information-permission": "Иҷозат",
+	"wm-license-information-permission-reusing-text": "Пешроҳандозии ин парванда",
+	"wm-license-own-work": "Кори худ",
+	"wm-license-self-multiple-licenses-select": "Шумо иҷозатномаи хостаи худро интихоб карда метавонед."
 }

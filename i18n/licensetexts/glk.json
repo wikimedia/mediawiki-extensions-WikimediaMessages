@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"V6rg"
+			"V6rg",
+			"شیخ"
 		]
 	},
 	"wm-license-information-source": "سربس",
 	"wm-license-information-date": "تاريخ",
-	"wm-license-information-author": "چاگودنکس"
+	"wm-license-information-author": "چاگودنکس",
+	"wm-license-information-permission": "جواز",
+	"wm-license-information-permission-reusing-text": "هنده کارأىتن اي فاىلˇجي"
 }

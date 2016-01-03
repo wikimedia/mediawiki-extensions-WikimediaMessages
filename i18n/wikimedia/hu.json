@@ -133,6 +133,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Fordítási adminisztrátorok",
 	"group-wmf-researcher": "WMF-kutatók",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-kutató}}",
+	"shared-repo-name-shared": "Wikimédia Commons",
 	"wikimedia-copyright": "A lap szövege <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hu\">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van;\negyes esetekben más módon is felhasználható.\nRészletekért lásd a <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/hu\">felhasználási feltételeket</a>.",
 	"wikimedia-copyrightwarning": "A „{{int:savearticle}}” gombra kattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/hu felhasználási feltételekben].",
 	"wikibase-sitelinks-wikibooks": "Wikikönyvek",
