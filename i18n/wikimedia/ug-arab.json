@@ -51,7 +51,7 @@
 	"group-inactive-member": "پاسسىپ ئىشلەتكۈچى",
 	"grouppage-inactive": "{{ns:project}}:پاسسىپ ئىشلەتكۈچىلەر",
 	"group-interface-editor": "ئارايۈز تەھرىرلىرى",
-	"group-interface-editor-member": "!!FUZZY!!ئارايۈز تەھرىرى",
+	"group-interface-editor-member": "ئارايۈز تەھرىرى",
 	"grouppage-interface-editor": "{{ns:project}}: ئارايۈز تەھرىرلەر",
 	"group-ipblock-exempt": "IP چەكلەنمەيدىغانلار",
 	"group-ipblock-exempt-member": "IP چەكلەنمەيدىغانلار",
@@ -80,5 +80,6 @@
 	"group-steward": "تەشكىللىگۈچى",
 	"group-sysadmin": "سىستېما باشقۇرغۇچى",
 	"group-sysadmin-member": "سىستېما باشقۇرغۇچى",
-	"shared-repo-name-shared": "ۋىكى ۋاستە ھەمبەھىر"
+	"shared-repo-name-shared": "ۋىكى ۋاستە ھەمبەھىر",
+	"wikimedia-developers": "ئىجادكارلار"
 }
