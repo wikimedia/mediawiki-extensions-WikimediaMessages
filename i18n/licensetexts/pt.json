@@ -10,7 +10,8 @@
 			"Lijealso",
 			"Luckas",
 			"Multichill",
-			"Waldir"
+			"Waldir",
+			"Fúlvio"
 		]
 	},
 	"wikimedialicensetexts-desc": "Mensagens de licenciamento Wikimedia",
@@ -84,7 +85,7 @@
 	"wm-license-lgpl-wiki-link": "w:pt:LGPL",
 	"wm-license-licensing-update-text": "Esta marca de licenciamento foi adicionada a este ficheiro durante a [[{{int:wm-license-licensing-update-wiki-link}}|atualização da licença]] GFDL.",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/pt",
-	"wm-license-original-upload-log": "Registo do upload original",
+	"wm-license-original-upload-log": "Registro do carregamento original",
 	"wm-license-own-work": "Obra do próprio",
 	"wm-license-pd-author-self-text": "Eu, titular dos direitos de autor desta obra, dedico-a ao '''[[{{int:wm-license-pd-wiki-link}}|domínio público]]''', com aplicação em todo o mundo.",
 	"wm-license-pd-author-with-author-text": "Esta obra foi dedicada ao '''[[{{int:wm-license-pd-wiki-link}}|domínio público]]''' pelo autor, '''$1''', com aplicação em todo o mundo.",
