@@ -65,6 +65,8 @@
 	"group-trusted": "İnanılmış tistifadəçilər",
 	"group-trusted-member": "{{GENDER:$1|inanılmış istifadəçi}}",
 	"grouppage-trusted": "{{ns:project}}:İnanılmış istifadəçilər",
+	"group-wikidata-staff": "Vikidata əməkdaşı",
+	"group-wikidata-staff-member": "Vikidata əməkdaşı",
 	"group-global-bot": "Qlobal bot",
 	"group-global-bot-member": "{{GENDER:$1|qlobal bot}}",
 	"grouppage-global-bot": "m:Qlobal bot",
@@ -90,5 +92,11 @@
 	"wikibase-sitelinks-wikiquote": "Vikisitat",
 	"wikibase-sitelinks-wikisource": "Vikimənbə",
 	"wikibase-sitelinks-wikivoyage": "Vikisəyahət",
-	"wikimedia-developers": "Tərtibatçılar"
+	"wikibase-otherprojects-wikibooks": "Vikikitab",
+	"wikibase-otherprojects-wikidata": "Vikidata",
+	"wikibase-otherprojects-wikiquote": "Vikisitat",
+	"wikibase-otherprojects-wikipedia": "Vikipediya",
+	"wikibase-otherprojects-wikisource": "Vikimənbə",
+	"wikimedia-developers": "Tərtibatçılar",
+	"interlanguage-link-wikipedia": "Vikipediya"
 }
