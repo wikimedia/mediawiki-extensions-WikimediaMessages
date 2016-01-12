@@ -12,5 +12,6 @@
 	"password-recycled": "Введённый вами пароль совпадает со старым паролем вашей учётной записи. Пожалуйста, введите другой новый пароль.",
 	"grouppage-oversight": "{{ns:project}}:Ревизоры",
 	"group-oversight": "Ревизоры",
-	"group-oversight-member": "ревизор"
+	"group-oversight-member": "ревизор",
+	"please-translate": "Пожалуйста, помогите перевести на ваш язык"
 }
