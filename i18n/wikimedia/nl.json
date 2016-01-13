@@ -16,7 +16,8 @@
 			"Nemo bis",
 			"Robin0van0der0vliet",
 			"Mbch331",
-			"Effeietsanders"
+			"Effeietsanders",
+			"Robin van der Vliet"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -187,9 +188,6 @@
 	"cant-delete-main-page": "U kunt de hoofdpagina niet verwijderen of hernoemen.",
 	"wikimedia-translationnotifications-signup-legal": "Door deze gegevens beschikbaar te stellen aan de Wikimedia Foundation, geeft u ons toestemming om contact met u op te nemen over vertalingen en andere onderwerpen gerelateerd aan de Wikimediabeweging waarvan wij denken dat ze uw interesse hebben. U stemt in met het opslaan van uw gegevens in de Verenigde Staten van Amerika en dat uw gegevens onder ons [https://meta.wikimedia.org/wiki/Privacy_policy/nl privacybeleid] vallen.",
 	"upload-more-photos-of-this-monument": "Meer afbeeldingen van dit monument uploaden",
-	"extdist-branch-master": "master (laatste ontwikkelversie)",
-	"extdist-branch-REL1_27": "1.27 (volgende stabiele versie)",
-	"extdist-branch-REL1_26": "1.26 (laatste stabiele versie van MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Gebruikersnamenbeleid",
 	"createacct-captcha-help-url": "{{ns:Project}}:Account_aanvragen",
 	"wikimedia-developers": "Ontwikkelaars",
@@ -198,7 +196,6 @@
 	"wikimedia-torblock-blocked": "Uw IP-adres <strong>$1</strong> is automatisch geidentificeerd als een Tor exitnode.\nBewerken via Tor is niet mogelijk om misbruik te voorkomen.\nVoor aanvullende informatie en instructies voor legitieme gebruikers kunt u het globale beleid [[m:Special:MyLanguage/No open proxies|Geen open proxy's]] raadplegen.",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/nl",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacybeleid Privacybeleid]",
-	"mwoauth-grant-checkuser": "Toegang tot checkusergegevens",
 	"wikimedia-flow-terms-of-use-new-topic": "Door te klikken op \"{{int:flow-newtopic-save}}\", gaat u akkoord met onze [//wikimediafoundation.org/wiki/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw tekst onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Door te klikken op \"{{int:flow-reply-link}}\", gaat u akkoord met onze [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u akkoord met het onherroepelijk vrijgeven van uw tekst onder de licentie [//creativecommons.org/licenses/by-sa/3.0/deed.nl Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",
 	"wikimedia-flow-terms-of-use-edit": "Door wijzigingen op te slaan, gaat u akkoord met onze [//wikimediafoundation.org/wiki/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw tekst onder de [//creativecommons.org/licenses/by-sa/3.0/deed.nl licentie Naamsvermelding-Gelijk delen 3.0] en [//nl.wikipedia.org/wiki/GNU-licentie_voor_vrije_documentatie GFDL].",

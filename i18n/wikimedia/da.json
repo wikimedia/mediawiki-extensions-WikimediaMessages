@@ -149,14 +149,11 @@
 	"cant-delete-main-page": "Du kan ikke slette eller flytte forsiden.",
 	"wikimedia-translationnotifications-signup-legal": "Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy fortrolighedspolitik].",
 	"upload-more-photos-of-this-monument": "Overfør flere fotos af monumentet",
-	"extdist-branch-master": "Master (seneste udviklingsversion)",
-	"extdist-branch-REL1_26": "1.26 (seneste stabile MediaWiki)",
 	"createacct-helpusername-url": "{{ns:Project}}:Brugernavns_regler",
 	"createacct-captcha-help-url": "{{ns:Project}}:Anmod om en konto",
 	"wikimedia-developers": "Udviklere",
 	"wikimedia-globalblocking-ipblocked": "'''Din IP-adresse er blevet [[m:Special:MyLanguage/Global blocks|blokeret på alle wikier]].'''\n\nBlokeringen blev foretaget af $1 ($2).\nBegrundelsen er ''$3''.\n\n* Start af blokeringen: $4 \n* udløb af blokeringen: $5 \n\nDin nuværende IP-adresse er $6.\nInkluder venligst alle ovenstående detaljer i eventuelle forespørgsler, du laver.\n\nHvis du tror, du blev blokeret ved en fejl, kan du finde flere oplysninger og instruktioner i den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].\nEllers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning om fornyet undersøgelse på Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''En eller flere proxyservere brugt af din anmodning er [[m:Special:MyLanguage/Global blocks|globalt blokeret]].'''\n\nBlokeringen blev foretaget af $1 ($2).\nBegrundelsen er ''$3''.\n\n* Start af blokeringen:  $4 \n* udløb af blokeringen:  $5 \n\nDen blokerede proxyadresse var $6.\nInkluder venligst alle ovenstående detaljer i eventuelle forespørgsler, du laver.\n\nHvis du tror, du blev blokeret ved en fejl, kan du finde flere oplysninger og instruktioner i den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].\nEllers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning om fornyet undersøgelse på Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Din IP-adresse, <strong>$1</strong>, er automatisk identificeret som en Tor exit node.\nRedigering via Tor er blokeret for at forhindre misbrug.\nYderligere oplysninger og vejledning til legitime brugere, se den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]",
-	"mwoauth-grant-checkuser": "Adgang til checkuserdata"
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]"
 }
