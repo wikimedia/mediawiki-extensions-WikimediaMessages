@@ -158,6 +158,8 @@
 	"interlanguage-link-mul": "Više jezika",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, slobodna enciklopedija",
 	"interlanguage-link-commons": "Wikimedia Commons",
+	"restriction-level-superprotect": "super zaštita",
+	"restriction-level-editeditorprotected": "zaštićeno za urednike",
 	"wikimedia-centralauth-contribs-locked": "Ovaj račun je globalno blokiran.\nZa više informacija, pogledajte [[m:Special:CentralAuth/$1|detalje o globalnom računu]].",
 	"search-interwiki-results-abwiki": "Prikazani su rezultati s [[:ab:Main_Page|Wikipedije na abhazijskom jeziku]].",
 	"search-interwiki-results-acewiki": "Prikazani su rezultati s [[:ace:Main_Page|Wikipedije na ačineskom jeziku]].",
