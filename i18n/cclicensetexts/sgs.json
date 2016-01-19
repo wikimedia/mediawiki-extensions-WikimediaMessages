@@ -6,6 +6,14 @@
 	},
 	"wm-license-cc-attribution": "Dėrbiejė nuruodīms",
 	"wm-license-cc-by-sa-3.0-text": "Ta skvarma prėgol vagol [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] lėcencėjė.",
+	"wm-license-cc-free": "Tamsta ī liuosos:",
+	"wm-license-cc-free-to-share-header": "dalintėis",
+	"wm-license-cc-free-to-share-text": "parsikilnuotė, vėišintė ė platintė darba",
+	"wm-license-cc-free-to-remix-header": "parmaišītė",
+	"wm-license-cc-free-to-remix-text": "parnauduotė",
+	"wm-license-cc-conditions": "Vagol tuokės ėšlīgas:",
 	"wm-license-cc-conditions-attribution-header": "dėrbiejė nuruodīms",
-	"wm-license-cc-conditions-share_alike-header": "vagol tuokė patė lėcėncėjė"
+	"wm-license-cc-conditions-attribution-text": "Tamstā rēk pamėnavuotė darba kūrieja tāp, kāp ons ī nūruodė̄s",
+	"wm-license-cc-conditions-share_alike-header": "vagol tuokė patė lėcėncėjė",
+	"wm-license-cc-conditions-share_alike-text": "Jēb Tamsta nuor kāp tās pardėrbtė tou darba, tūmet Tamsta anou galies vėišintė tėktās vagol tuokė patė licencėjė."
 }

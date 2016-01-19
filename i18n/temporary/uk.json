@@ -3,7 +3,8 @@
 		"authors": [
 			"Andriykopanytsia",
 			"Base",
-			"Ahonc"
+			"Ahonc",
+			"Ата"
 		]
 	},
 	"wikimediamessages-desc": "Тимчасові повідомлення для Вікімедіа",
@@ -11,5 +12,6 @@
 	"password-recycled": "Пароль, введений вами, збігається з старим паролем, пов'язаним з вашим обліковим записом. Будь ласка, встановіть новий інший пароль",
 	"grouppage-oversight": "{{ns:project}}:Ревізори",
 	"group-oversight": "Ревізори",
-	"group-oversight-member": "ревізор"
+	"group-oversight-member": "ревізор",
+	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою"
 }

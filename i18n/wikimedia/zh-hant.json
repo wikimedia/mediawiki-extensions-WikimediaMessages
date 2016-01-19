@@ -223,7 +223,7 @@
 	"interlanguage-link-commons": "維基共享資源",
 	"interlanguage-link-sitename-commons": "维基共享資源媒體儲存庫",
 	"interlanguage-link-sitename-dmoz": "DMOZ 網站目錄",
-	"right-superprotect": "更改超級保護層級",
+	"right-superprotect": "變更超級保護層級",
 	"protect-level-superprotect": "只允許超級保護的使用者",
 	"restriction-level-superprotect": "超級保護",
 	"right-editeditorprotected": "編輯頁面已受 \"{{int:protect-level-editeditorprotected}}\" 保護",

@@ -21,7 +21,8 @@
 			"Baffo",
 			"FRacco",
 			"Macofe",
-			"Statix64"
+			"Statix64",
+			"Candalua"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -199,7 +200,7 @@
 	"wikimedia-upload-nolicenses": "Il caricamento di file su questo wiki non è consentito. Per favore, [[commons:Special:UploadWizard|caricalo su Wikimedia Commons]].\n\nPer poter utilizzare questa pagina speciale e caricare su questo wiki, un amministratore deve aggiungere una o più opzioni di licenza nella pagina [[MediaWiki:Licenses]].\n\nUsa il seguente formato: <code>* Nome template|Etichetta</code>. Usa qualsiasi testo per consentire il caricamento senza opzioni di licenza.",
 	"wikimediashoplink-linktext": "Negozio Wikipedia",
 	"wikimediashoplink-link-tooltip": "Visita il negozio Wikipedia",
-	"interlanguage-link-mul": "Più lingue",
+	"interlanguage-link-mul": "Altre lingue",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, l'enciclopedia libera",

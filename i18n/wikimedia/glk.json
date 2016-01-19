@@ -2,10 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"AminSanaei",
-			"V6rg"
+			"V6rg",
+			"شیخ"
 		]
 	},
 	"sitesupport": "بال زئن",
-	"tooltip-n-sitesupport": "أمره بال بزنين",
+	"tooltip-n-sitesupport": "أمأره بال بزنين",
+	"wikibase-sitelinks-wikinews": "ويکي خبر",
+	"wikibase-sitelinks-wikiquote": "ويکي بؤته",
+	"wikibase-sitelinks-wikisource": "ويکي سربس",
+	"wikibase-sitelinks-wikivoyage": "ويکي سفر",
 	"wikimedia-developers": "تؤسعه‌دأنکسؤن"
 }

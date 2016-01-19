@@ -225,6 +225,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''你的访问请求所使用的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全域封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n被封禁的代理服务器地址是$6。请在你提出的任何质疑中包括以上所有信息。\n\n如果你认为你被错误地封禁，你可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	"wikimedia-torblock-blocked": "你的IP地址<strong>$1</strong>已经被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针。",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]",
+	"mwoauth-grant-checkuser": "访问用户查核数据",
 	"wikimedia-flow-terms-of-use-new-topic": "点击“{{int:flow-newtopic-save}}”，即表示您同意遵守我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh CC BY-SA 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]发表您的文字，该授权不可撤回",
 	"wikimedia-flow-terms-of-use-reply": "点击“{{int:flow-reply-link}}”，即表明您同意遵守我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意采用[//creativecommons.org/licenses/by-sa/3.0/deed.zh CC BY-SA 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]发表您的文字，该授权不可撤回",
 	"wikimedia-flow-terms-of-use-edit": "选择保存更改，即表明您同意遵守我们的[//wikimediafoundation.org/wiki/Terms_of_Use 使用条款]，并同意根据[//creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享署名-相同方式共享 3.0许可协议]和[//zh.wikipedia.org/wiki/Wikipedia:GFDL GNU自由文档许可协议]发表您的贡献，该授权不可撤回",
