@@ -142,7 +142,7 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Add a "Developers" link to the footer of every page (T35464)
+	 * Add a "Developers"  (T35464) and "Cookie statement" (T124366) link to the footer of every page
 	 *
 	 * @param $skin SkinTemplate (from includes/SkinTemplate.php)
 	 * @param $template QuickTemplate (from includes/SkinTemplate.php)
@@ -150,16 +150,25 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	public static function onSkinTemplateOutputPageBeforeExec( &$skin, &$template ) {
-		$destination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
-		$link = Html::element(
+		$devDestination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
+		$devLink = Html::element(
 			'a',
-			array( 'href' => $destination ),
+			array( 'href' => $devDestination ),
 			$skin->msg( 'wikimedia-developers' )->text()
 		);
-		$template->set( 'developers', $link );
+		$template->set( 'developers', $devLink );
 		$template->data['footerlinks']['places'][] = 'developers';
+		$cookieDestination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-cookiestatement-page' )->inContentLanguage()->text() );
+		$cookieLink = Html::element(
+			'a',
+			array( 'href' => $cookieDestination ),
+			$skin->msg( 'wikimedia-cookiestatement' )->text()
+		);
+		$template->set( 'cookiestatement', $cookieLink );
+		$template->data['footerlinks']['places'][] = 'cookiestatement';
 		return true;
 	}
+
 
 	/**
 	 * Set the message on TorBlock being triggered
