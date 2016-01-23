@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Caoimhin"
+			"Caoimhin",
+			"Akerbeltz"
 		]
 	},
 	"wm-license-information-description": "Tuairisgeul",
 	"wm-license-information-source": "Tùs",
 	"wm-license-information-date": "Ceann-là",
-	"wm-license-information-author": "Ùghdar"
+	"wm-license-information-author": "Ùghdar",
+	"wm-license-information-permission": "Cead",
+	"wm-license-information-permission-reusing-text": "Ag ath-chleachdadh an fhaidhle seo",
+	"wm-license-own-work": "M’ obair fhèin",
+	"wm-license-self-multiple-licenses-select": "’S urrainn dhut an ceadachas as fhearr leat a thaghadh."
 }
