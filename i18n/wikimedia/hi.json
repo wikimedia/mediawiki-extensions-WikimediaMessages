@@ -10,7 +10,8 @@
 			"संजीव कुमार",
 			"రహ్మానుద్దీన్",
 			"राम प्रसाद जोशी",
-			"Angpradesh"
+			"Angpradesh",
+			"Sfic"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया-विशिष्ट संदेश",
@@ -88,7 +89,7 @@
 	"group-rollbacker": "वापस पुरानी स्थिति में लाने वाले",
 	"group-rollbacker-member": "{{GENDER:$1|रोलबैकर}}",
 	"grouppage-rollbacker": "{{ns:project}}:वापस पुरानी स्थिति पर लाने वाले",
-	"group-transwiki": "विकियों के बीच आयात करने वाले",
+	"group-transwiki": "अंतरविकि आयातक",
 	"group-transwiki-member": "{{GENDER:$1|अंतर-विकि आयातक}}",
 	"grouppage-transwiki": "{{ns:project}}:अंतर-विकि आयातक",
 	"group-trusted": "विश्वसनीय सदस्य",
