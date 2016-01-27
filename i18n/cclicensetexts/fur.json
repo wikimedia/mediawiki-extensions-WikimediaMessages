@@ -2,8 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Klenje",
-			"Multichill"
+			"Multichill",
+			"Tocaibon"
 		]
 	},
-	"wm-license-cc-wiki-link": "w:fur:Creative Commons"
+	"wm-license-cc-wiki-link": "w:fur:Creative Commons",
+	"wm-license-cc-attribution": "Atribuzion",
+	"wm-license-cc-by-sa-3.0-text": "Il file al à la licence di distribuzion di [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-free": "Tu sês libar/libare",
+	"wm-license-cc-free-to-share-header": "di condividi",
+	"wm-license-cc-free-to-share-text": "di copiâ, distribuî e trasmeti il lavôr",
+	"wm-license-cc-free-to-remix-header": "di modificâ",
+	"wm-license-cc-free-to-remix-text": "di adatâ il lavôr",
+	"wm-license-cc-conditions": "A lis cundizions seguitivis",
+	"wm-license-cc-conditions-attribution-header": "Atribuzion",
+	"wm-license-cc-conditions-attribution-text": "Tu âs di atribuî il lavôr tes manieris indicadis dal so autôr o di chel che ti à dât la opare in licence (ma no in maniere di fâ pensâ che e avaledin te o la maniere che tu dopris la opare).",
+	"wm-license-cc-conditions-share_alike-header": "condivît inte stesse maniere"
 }

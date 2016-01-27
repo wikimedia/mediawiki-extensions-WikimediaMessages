@@ -14,7 +14,7 @@
 		]
 	},
 	"wm-license-cc-wiki-link": "w:da:Creative Commons",
-	"wm-license-cc-attribution": "Navngivelse",
+	"wm-license-cc-attribution": "Kreditering",
 	"wm-license-cc-by-1.0-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/deed.da Navngivelse 1.0 Generisk]-licensen",
 	"wm-license-cc-by-1.0-fi-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/fi/deed.da Navngivelse 1.0 Finland]-licensen.",
 	"wm-license-cc-by-1.0-il-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/1.0/il/deed.da Navngivelse 1.0 Israel]-licensen.",
@@ -156,7 +156,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/si/deed.da Navngivelse – Del på samme vilkår 2.5 Slovenien]-licensen.",
 	"wm-license-cc-by-sa-2.5-tw-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/tw/deed.da Navngivelse – Del på samme vilkår 2.5 Taiwan]-licensen.",
 	"wm-license-cc-by-sa-2.5-za-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/za/deed.da Navngivelse – Del på samme vilkår 2.5 Sydafrika]-licensen.",
-	"wm-license-cc-by-sa-3.0-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.da Navngivelse – Del på samme vilkår 3.0 Unported]-licensen",
+	"wm-license-cc-by-sa-3.0-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.da Kreditering-Del på samme vilkår 3.0 Ikke-porteret]-licensen",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Navngivelse – Del på samme vilkår [//creativecommons.org/licenses/by-sa/3.0/deed.da 3.0 Unported], [//creativecommons.org/licenses/by-sa/2.5/deed.da 2.5 Generisk], [//creativecommons.org/licenses/by-sa/2.0/deed.da 2.0 Generisk] og [//creativecommons.org/licenses/by-sa/1.0/deed.da 1.0 Generisk]-licensen.",
 	"wm-license-cc-by-sa-3.0-at-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/at/deed.da Navngivelse – Del på samme vilkår 3.0 Østrig]-licensen.",
 	"wm-license-cc-by-sa-3.0-au-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/au/deed.da Navngivelse – Del på samme vilkår 3.0 Australien]-licensen.",
@@ -198,8 +198,8 @@
 	"wm-license-cc-free-to-remix-header": "at remixe",
 	"wm-license-cc-free-to-remix-text": "at bearbejde værket",
 	"wm-license-cc-conditions": "På følgende vilkår:",
-	"wm-license-cc-conditions-attribution-header": "navngivelse",
-	"wm-license-cc-conditions-attribution-text": "Du skal kreditere værket på den måde, der er angivet af rettighedshaveren og licensgiveren.",
+	"wm-license-cc-conditions-attribution-header": "kreditering",
+	"wm-license-cc-conditions-attribution-text": "Du skal kreditere værket på den måde, der er angivet af rettighedshaveren eller licensgiveren (men ikke på en måde, der antyder, at de støtter dig eller din brug af værket).",
 	"wm-license-cc-conditions-share_alike-header": "del på samme vilkår",
 	"wm-license-cc-conditions-share_alike-text": "Hvis du bearbejder, herunder ændrer og tilpasser, dette værk, herunder også med kommercielt sigte, skal du licensere det nye værk under tilsvarende vilkår.",
 	"wm-license-cc-pd-mark-text": "Denne fil er blevet identificeret som værende fri for kendte restriktioner under lov om ophavsret, herunder alle relaterede og tilstødende rettigheder."

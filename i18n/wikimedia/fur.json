@@ -1,11 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Klenje"
+			"Klenje",
+			"Tocaibon"
 		]
 	},
 	"sitesupport": "Doninus",
 	"tooltip-n-sitesupport": "Judinus",
 	"group-founder": "Fondadôrs",
-	"group-founder-member": "Fondadôr"
+	"group-founder-member": "Fondadôr",
+	"wikimedia-copyright": "Il test al è disponibil daûr la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.it\">licence Creative Commons Atribuzion-Condivît te stesse maniere</a>; al è pussibil meti cundizions ulteriôrs. Cjale lis <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/it\">cundizions di ûs</a> par i detais.",
+	"wikimedia-copyrightwarning": "Salvant lis modifichis, tu acetis lis [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/it condizioni d'uso], e tu acetis in maniere no revocabile di lassâ il to contribût daûr aes licencis [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 3.0] e [https://it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL]. Tu acetis ancje che un leam ipertestuâl o URL al bastedi pe atribuzion daûr ae licence Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Svilupadôrs",
+	"wikimedia-globalblocking-ipblocked": "''la tô direzion IP e je stade [[m:Special:MyLanguage/Global blocks|blocade in dutis lis wikipediis]].'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finîs il: $5\n\nla tô direzion IP e je $6.\nPar plasê copie ce che al è scrit ca parsore in ogni tô eventutale domande.\n\nSe tu crodis di jessi stât blocât par erôr, viôt la [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nPar discuti dal bloc contate [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "''un o plui proxy servers doprât di te al è [[m:Special:MyLanguage/Global blocks|blocât globalmentri]].'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finîs il: $5\n\nil proxy blocât al è $6.\nPar plasê copie ce che al è scrit ca parsore in ogni tô eventutale domande.\n\nSe tu crodis di jessi stât blocât par erôr, viôt la [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nPar discuti dal bloc contate [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }

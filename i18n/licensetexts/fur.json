@@ -2,13 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Klenje",
-			"Multichill"
+			"Multichill",
+			"Tocaibon"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Tu puedis copiâ, distribuî e/o modificâ chest document su la fonde de licence '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 o seguitivis pubblicadis de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sence nissune sezion no modificabil, sence un testo di copertine e sence un test di quarte di copertine. Una copie de licence si ciate inte sezion intitulade ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo della GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Descrizion",
 	"wm-license-information-source": "Sorzint",
 	"wm-license-information-date": "Date",
 	"wm-license-information-author": "Autôr",
 	"wm-license-information-permission": "Permès",
-	"wm-license-information-other-versions": "Altris versions"
+	"wm-license-information-permission-reusing-text": "Torne a doprâ chest file",
+	"wm-license-information-other-versions": "Altris versions",
+	"wm-license-own-work": "Opere personâl",
+	"wm-license-self-multiple-licenses-select": "Tu puedis sielzi la licence che tu preferissis"
 }
