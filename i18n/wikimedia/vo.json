@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Malafaya",
-			"Smeira"
+			"Smeira",
+			"Robin van der Vliet"
 		]
 	},
 	"sitesupport": "Födagivots",
@@ -26,5 +27,8 @@
 	"group-global-bot-member": "{{GENDER:$1|bot valöpik}}",
 	"group-sysadmin": "Sitiguvans",
 	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
-	"wikibase-sitelinks-wikibooks": "Vükibuks"
+	"wikibase-sitelinks-wikibooks": "Vükibuks",
+	"wikibase-sitelinks-wikinews": "Vükinüns",
+	"wikibase-sitelinks-wikiquote": "Vükisaitot",
+	"wikibase-sitelinks-wikisource": "Vükifonät"
 }
