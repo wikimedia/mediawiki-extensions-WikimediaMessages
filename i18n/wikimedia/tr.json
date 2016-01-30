@@ -141,5 +141,6 @@
 	"interlanguage-link-mul": "Daha fazla dil",
 	"interlanguage-link-sitename-wikipedia": "Vikipedi, özgür ansiklopedi",
 	"interlanguage-link-sitename-dmoz": "DMOZ web dizini",
-	"wikimedia-feedback-termsofuse": "adın ne"
+	"wikimedia-feedback-termsofuse": "adın ne",
+	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak engellendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız."
 }

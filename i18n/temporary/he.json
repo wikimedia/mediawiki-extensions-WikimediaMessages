@@ -12,5 +12,6 @@
 	"password-recycled": "הסיסמה שהזנת זהה לסיסמה ישנה ששימשה את חשבונך. נא לבחור סיסמה חדשה.",
 	"grouppage-oversight": "{{ns:project}}:מסתיר",
 	"group-oversight": "מסתירים",
-	"group-oversight-member": "{{GENDER:$1|מסתיר|מסתירה}}"
+	"group-oversight-member": "{{GENDER:$1|מסתיר|מסתירה}}",
+	"please-translate": "אנא סייעו בתרגום הדף"
 }

@@ -186,5 +186,6 @@
 	"right-superprotect": "تغيير مستويات الحماية الفائقة",
 	"protect-level-superprotect": "السماح لمستخدمي الحماية الفائقة فقط",
 	"restriction-level-superprotect": "حماية فائقة",
-	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]]."
+	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
+	"wikimedia-cookiestatement": "بيان تعريف الارتباطات"
 }
