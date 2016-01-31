@@ -92,6 +92,8 @@
 	"group-transwiki": "अंतरविकि आयातक",
 	"group-transwiki-member": "{{GENDER:$1|अंतर-विकि आयातक}}",
 	"grouppage-transwiki": "{{ns:project}}:अंतर-विकि आयातक",
+	"group-templateeditor": "वरिष्ठ संपादक",
+	"grouppage-templateeditor": "{{ns:project}}:वरिष्ठ संपादक",
 	"group-trusted": "विश्वसनीय सदस्य",
 	"group-trusted-member": "{{GENDER:$1|विश्वसनीय सदस्य}}",
 	"grouppage-trusted": "{{ns:project}}:विश्वसनीय सदस्य",

@@ -21,7 +21,8 @@
 			"Umherirrender",
 			"Απεργός",
 			"Vogone",
-			"FriedhelmW"
+			"FriedhelmW",
+			"Predatorix"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -195,7 +196,7 @@
 	"upload-more-photos-of-this-monument": "Weitere Fotos dieses Denkmals hochladen",
 	"createacct-helpusername-url": "{{ns:Project}}:Benutzernamensrichtlinie",
 	"createacct-captcha-help-url": "{{ns:Project}}:Benutzerkontenanträge",
-	"wikimedia-developers": "Softwareentwickler",
+	"wikimedia-developers": "Entwickler",
 	"wikimedia-globalblocking-ipblocked": "'''Deine IP-Adresse wurde [[m:Special:MyLanguage/Global blocks|auf allen Wikis gesperrt]].'''\n\nDie Sperre wurde durchgeführt von $1 ($2).\nDie angegebene Begründung ist ''$3''.\n\n* Beginn der Sperre: $4\n* Ablauf der Sperre: $5\n\nDeine aktuelle IP-Adresse ist $6.\nBitte gib alle obigen Details in allen gemachten Anfragen an.\n\nWenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Hilfestellungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Anfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ein oder mehrere Proxyserver, die von deiner Anfrage verwendet werden, ist [[m:Special:MyLanguage/Global blocks|global gesperrt]].'''\n\nDie Sperre wurde durchgeführt von $1 ($2).\nDie angegebene Begründung ist ''$3''.\n\n* Beginn der Sperre: $4\n* Ablauf der Sperre: $5\n\nDie gesperrte Proxyadresse war $6.\nBitte gib alle obigen Details in allen gemachten Anfragen an.\n\nWenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Anweisungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
 	"wikimedia-torblock-blocked": "Deine IP-Adresse <strong>$1</strong> wurde automatisch als Tor-Ausgangsknoten identifiziert.\nDas Bearbeiten über Tor ist gesperrt, um Missbrauch zu vermeiden.\nFür zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe die globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“.",
