@@ -5,7 +5,8 @@
 			"පසිඳු කාවින්ද",
 			"عثمان خان شاہ",
 			"Obaid Raza",
-			"عرفان ارشد"
+			"عرفان ارشد",
+			"Muhammad Shuaib"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
@@ -104,7 +105,6 @@
 	"wikibase-sitelinks-wikiquote": "وکی اقتباسات",
 	"wikibase-sitelinks-wikisource": "ویکی‌ مآخذ",
 	"wikibase-sitelinks-wikivoyage": "ویکی سفرنامہ",
-	"wikibase-sitelinks-commons": "ویکیمیڈیا العام",
 	"wikibase-sitelinks-sitename-commonswiki": "کومنز",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ویکی ڈیٹا",
 	"cant-delete-main-page": "آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں.",
@@ -116,5 +116,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''آپ کے آئی پی ایڈریس پر [[m:Special:MyLanguage/Global blocks|تمام ویکیوں]] میں پابندی لگادی گئی ہے۔''' \n\nیہ پابندی $1 کیجانب سے لگائی گئی ہے ($2)۔\nاس کی وجہ ''$3''  بتائی گئی تھی۔\n\n* پابندی کا آغاز: $4\n* پابندی کا اختتام: $5\n\nآپ کا موجودہ آئی پی ایڈریس $6 ہے۔\nPlease include all above details in any queries you make.\n\nاگر آپ سمجھتے ہیں کہ آپ پر غلطی سے پابندی لگی ہے تو آپ مزید معلومات [[m:Special:MyLanguage/No open proxies|نو اوپن پراکسی]] عالمی پالیسی میں پاسکتے ہیں۔\nدوسری صورت میں، پابندی کے متعلق تبادلہ خیال کریں اور یہاں [[m:Steward requests/Global|نظر ثانی کیلئے میٹا پر درخواست دیں]]",
 	"interlanguage-link-mul": "مزید زبانیں",
 	"interlanguage-link-sitename-mul": "کثیر اللسانی {{SITENAME}}",
-	"interlanguage-link-sitename-wikipedia": "ویکیپیڈیا، آزاد دائرۃالمعارف"
+	"interlanguage-link-sitename-wikipedia": "ویکیپیڈیا، آزاد دائرۃالمعارف",
+	"wikimedia-cookiestatement": "کوکیز کی تفصیلات"
 }
