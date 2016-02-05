@@ -22,7 +22,8 @@
 			"TianyinLee",
 			"Gaoxuewei",
 			"Shizhao",
-			"Jasonzhuocn"
+			"Jasonzhuocn",
+			"EagerLin"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -40,11 +41,11 @@
 	"group-OTRS-member": "OTRS 成員",
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS 成員}}",
 	"grouppage-OTRS-member": "{{ns:project}}:OTRS 成員",
-	"group-abusefilter": "濫用過濾器編輯者",
-	"group-abusefilter-member": "{{GENDER:$1|濫用過濾器編輯者}}",
+	"group-abusefilter": "防濫用過濾器編輯者",
+	"group-abusefilter-member": "{{GENDER:$1|防濫用過濾器編輯者}}",
 	"grouppage-abusefilter": "{{ns:project}}:濫用過濾器編輯者",
-	"group-abusefilter-helper": "濫用過濾器協助人員",
-	"group-abusefilter-helper-member": "{{GENDER:$1|濫用過濾器協助人員}}",
+	"group-abusefilter-helper": "防濫用過濾器協助人員",
+	"group-abusefilter-helper-member": "{{GENDER:$1|防濫用過濾器協助人員}}",
 	"group-accountcreator": "帳號建立員",
 	"group-accountcreator-member": "{{GENDER:$1|帳號建立員}}",
 	"grouppage-accountcreator": "{{ns:project}}:帳號建立員",
