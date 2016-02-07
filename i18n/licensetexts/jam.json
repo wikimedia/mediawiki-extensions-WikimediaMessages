@@ -4,8 +4,13 @@
 			"Katxis"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Pomishan grant fi kapi, dischribiut an/ar madifai dis dakiument anda di toermz a di '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Voerjan 1.2 ar eni lieta voerjan poblish bai di [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; wid no Invieriant Sekshan, no Front-Kova Tex, ah no Bak-Kova Tex. Kapi a di laisn ingkluud ina di sekshan engtaikl ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.‎",
+	"wm-license-information-description": "Diskripshan",
 	"wm-license-information-source": "Suos‎",
+	"wm-license-information-date": "Diet",
+	"wm-license-information-author": "Aata",
 	"wm-license-information-permission": "Pomishan",
 	"wm-license-information-permission-reusing-text": "Fi riyuuz dis fail",
-	"wm-license-own-work": "Uon wok"
+	"wm-license-own-work": "Uon wok",
+	"wm-license-self-multiple-licenses-select": "Yu kiah silek di laisn we yu prefa.‎"
 }

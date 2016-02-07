@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Likopiän tyttö"
+			"Likopiän tyttö",
+			"Mashoi7"
 		]
 	},
 	"wm-license-information-description": "Kuvauš",
 	"wm-license-information-source": "Lähte",
-	"wm-license-information-author": "Luatija"
+	"wm-license-information-date": "Päivämiärä",
+	"wm-license-information-author": "Luatija",
+	"wm-license-own-work": "Oma ruato"
 }

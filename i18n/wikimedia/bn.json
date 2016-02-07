@@ -121,7 +121,7 @@
 	"group-global-rollbacker": "বৈশ্বিক রোলব্যাকার",
 	"group-global-rollbacker-member": "{{GENDER:$1|বৈশ্বিক রোলব্যাকার}}",
 	"grouppage-global-rollbacker": "m:Global rollback/bn",
-	"group-global-sysop": "বৈশ্বিক বট",
+	"group-global-sysop": "বৈশ্বিক প্রশাসক",
 	"group-global-sysop-member": "{{GENDER:$1|বৈশ্বিক প্রশাসক}}",
 	"group-massmessage-sender": "গণ বার্তা প্রেরক",
 	"group-massmessage-sender-member": "{{GENDER:$1|গণ বার্তা প্রেরক}}",
