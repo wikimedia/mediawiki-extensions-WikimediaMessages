@@ -222,5 +222,6 @@
 	"wikimedia-centralauth-uwbr-intro": "Tato stránka uvádí uživatele registrované na této wiki, kteří budou přejmenováni kvůli [[m:Single User Login finalisation announcement|dokončení Sjednocení přihlašovacích účtů]]. Více informací najdete na stránce [[m:Help:Unified login|sjednoceného přihlašování]]. Uživatelé mohou kdykoli požádat o přejmenováni na stránce [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Prohlížení smazaných souborů a stránek ve jmenných prostorech {{ns:file}} a {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Volby do Správní rady",
-	"wikimedia-mwoauthserver-invalid-user": "Nastal problém s vaším globálním přihlášením. Pokud jste si právě založili účet, odhlaste se a znovu se přihlaste, poté zkuste aplikaci znovu autorizovat. Pokud jste si účet právě nezakládali, navštivte pod svým přihlášením jiný projekt Wikimedia – např. [https://mediawiki.org/ mediawiki.org] – a poté zkuste aplikaci znovu autorizovat. (Kód chyby: E008)"
+	"wikimedia-mwoauthserver-invalid-user": "Nastal problém s vaším globálním přihlášením. Pokud jste si právě založili účet, odhlaste se a znovu se přihlaste, poté zkuste aplikaci znovu autorizovat. Pokud jste si účet právě nezakládali, navštivte pod svým přihlášením jiný projekt Wikimedia – např. [https://mediawiki.org/ mediawiki.org] – a poté zkuste aplikaci znovu autorizovat. (Kód chyby: E008)",
+	"wikimedia-cookiestatement": "Prohlášení o&nbsp;cookies"
 }
