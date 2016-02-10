@@ -7,7 +7,8 @@
 			"Kobazulo",
 			"Multichill",
 			"Unai Fdz. de Betoño",
-			"Xabier Armendaritz"
+			"Xabier Armendaritz",
+			"Sator"
 		]
 	},
 	"wikimedialicensetexts-desc": "Wikimedia lizentzien mezuak",
@@ -65,6 +66,7 @@
 	"wm-license-lgpl-wiki-link": "w:eu:GNU Lesser General Public License",
 	"wm-license-original-upload-log": "Jatorrizko igoera erregistroa",
 	"wm-license-own-work": "Norberak egina",
+	"wm-license-pd-author-self-text": "Ni, lan honen copyrightaren jabedun bezala, lan hau lizentzia honen pena jartzen dut: '''[[{{int:wm-license-pd-wiki-link}}|domeinu publikoa]]'''. Mundu mailan du eragina honek.",
 	"wm-license-pd-usgov-wiki-link": "w:eu:Ameriketako Estatu Batuetako Gobernua",
 	"wm-license-pd-usgov-military-air-force-wiki-link": "w:eu:Ameriketako Estatu Batuetako Aire Armada",
 	"wm-license-pd-usgov-military-army-wiki-link": "w:eu:Ameriketako Estatu Batuetako Armada",
