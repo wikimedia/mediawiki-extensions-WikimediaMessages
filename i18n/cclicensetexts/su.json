@@ -4,10 +4,14 @@
 			"Kandar"
 		]
 	},
+	"wm-license-cc-attribution": "Atribusi",
+	"wm-license-cc-by-sa-3.0-text": "Ieu berkas dilisénsikeun maké lisénsi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-free": "Anjeun bébas:",
 	"wm-license-cc-free-to-share-header": "pikeun babagi",
 	"wm-license-cc-free-to-share-text": "pikeun nyalin, nyebarkeun, sarta nyalabarkeun karyana",
 	"wm-license-cc-free-to-remix-header": "pikeun nyampurkeun",
 	"wm-license-cc-free-to-remix-text": "pikeun ngarobah karyana",
-	"wm-license-cc-conditions-attribution-header": "atribusi"
+	"wm-license-cc-conditions": "Dumasar kana kaayaan di handap:",
+	"wm-license-cc-conditions-attribution-header": "atribusi",
+	"wm-license-cc-conditions-share_alike-text": "Upama anjeun ngarubah, ngagubah, atawa nyieun turunan tina ieu karya, anjeun kudu nembrakkeun hasilna maké lisénsi anu sarua atawa sarupa."
 }

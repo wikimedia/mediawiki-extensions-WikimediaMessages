@@ -4,9 +4,14 @@
 			"Kandar"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Widi dipaparinkeun pikeun nyalin, nyebarkeun jeung/atawa ngarobah ieu dokumén dina payung '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Vérsi 1.2 atawa saluhureunana anu medal ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Invariant Sections, tanpa Front-Cover Texts, jeung tanpa Back-Cover Texts. Salinan lisénsina diselapkeun dina bab ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:su:Lisénsi Dokumén Bébas GNU",
 	"wm-license-information-description": "Pedaran",
 	"wm-license-information-source": "Sumber",
 	"wm-license-information-date": "Titimangsa",
-	"wm-license-information-author": "Pangarang"
+	"wm-license-information-author": "Pangarang",
+	"wm-license-information-permission": "Widi",
+	"wm-license-information-permission-reusing-text": "Migunakeun deui ieu berkas",
+	"wm-license-own-work": "Karya sorangan",
+	"wm-license-self-multiple-licenses-select": "Anjeun bisa milih lisénsi nu cocog."
 }

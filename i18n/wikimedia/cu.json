@@ -7,6 +7,8 @@
 	},
 	"sitesupport": "даꙗниꙗ",
 	"tooltip-n-sitesupport": "помоꙃи намъ",
+	"group-steward": "приставьници",
+	"group-steward-member": "{{GENDER:$1|приставьникъ|приставьница}}",
 	"wikimedia-copyright": "подъ прощєниѥмь <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙\nꙀьри <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/cu\">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма",
 	"wikimedia-copyrightwarning": "ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тъ бѫди съгласьнъ съ [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєнии [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] и [https://www.gnu.org/copyleft/fdl.html GFDL] ⁙\nсъгласьнь бѫди бо съвѧꙁь (URL) добро оукаꙁаниѥ творьца прощєниꙗ Creative Commons дѣлꙗ ѥстъ",
 	"wikibase-sitelinks-wikinews": "Викивѣсти",
