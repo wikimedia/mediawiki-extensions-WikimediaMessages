@@ -206,7 +206,7 @@
 	"wikimedia-torblock-blocked": "Your IP address, <strong>$1</strong>, has been automatically identified as a Tor exit node.\nEditing through Tor is blocked to prevent abuse.\nFor additional information and instructions to legitimate users, see the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Privacy Policy]",
-	"mwoauth-grant-checkuser": "Access checkuser data",
+	"grant-checkuser": "Access checkuser data",
 	"wikimedia-flow-terms-of-use-new-topic": "By clicking \"{{int:flow-newtopic-save}}\", you agree to our [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "By clicking \"{{int:flow-reply-link}}\", you agree to our [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-edit": "By saving changes, you agree to our [//wikimediafoundation.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] and [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
