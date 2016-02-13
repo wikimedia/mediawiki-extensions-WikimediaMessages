@@ -210,6 +210,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''您的請求使用了一個或多個代理伺服器，己被 [[m:Special:MyLanguage/Global blocks|全域封鎖]]。'''\n\n由 $1 ($2) 封鎖。\n原因為 ''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n您目前的 IP 位址為 $6。\n不論您做任何的請求，請檢閱上述訊息。\n\n如果您認為您可能被誤判封鎖，您可於 [[m:Special:MyLanguage/No open proxies|禁止使用開放代理]] 查看進一步資訊與指示。\n或者，請於 [[m:Steward requests/Global|Meta-Wiki 請求審查]] 討論封鎖原因。",
 	"wikimedia-torblock-blocked": "您的 IP 位址，<strong>$1</strong>，己被自動識別為 Tor 節點之一。\n己禁止任何以透過 Tor 節點的編輯以防止濫用。\n有關合法使用者的更多訊息與說明請參考 [[m:Special:MyLanguage/No open proxies|禁止使用開放代理]] 全域政策。",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy 隱私政策]",
+	"grant-checkuser": "存取使用者查核資料",
 	"wikimedia-flow-terms-of-use-new-topic": "點選 \"{{int:flow-newtopic-save}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
 	"wikimedia-flow-terms-of-use-reply": "點選 \"{{int:flow-reply-link}}\" 代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",
 	"wikimedia-flow-terms-of-use-edit": "儲存變更代表您同意我們的 [//wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 授權條款] 與 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] 發佈您的內容",

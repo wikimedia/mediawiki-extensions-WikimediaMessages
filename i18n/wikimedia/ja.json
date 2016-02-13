@@ -203,6 +203,7 @@
 	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集を禁止しています。\n正当な利用者向けの情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|No open proxies]]をご覧ください。",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use/ja",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]",
+	"grant-checkuser": "チェックユーザー・データへのアクセス",
 	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-link}}」をクリックすると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-edit": "変更内容を保存すると、あなたは[//wikimediafoundation.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",

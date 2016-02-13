@@ -97,7 +97,7 @@
 	"group-sysadmin": "سیستم ایداره چی لر",
 	"group-sysadmin-member": "{{GENDER:$1|سیستم ایداره‌چی‌سی}}",
 	"wikimedia-copyright": "یازی <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;آلتیندا‌دیر\nآرتیق شرطلر آرتیریلا بیلر.\nآرتیق بیلگیلر اوچون <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">ایستیفاده شرطلرینه</a> باخین.",
-	"wikimedia-copyrightwarning": "دَییشدیرمه‌لری ساخلاماق‌لا، [https://wikimediafoundation.org/wiki/Terms_of_Use ایشلتمه شرط‌لری]نی اونایلاییب، قاییدیلماز اولاراق اؤز چالیشمالارینیزی بو مجوز آلتیندا[https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] پایلاشماغی قبول ائدیرسینیز.\nسیز  کریتیو کامنز آلتیندا بیر باغلانتی یا دا آدرس وئرمگی یئترلی اولاراق اونایلاییرسینیز.",
+	"wikimedia-copyrightwarning": "دَییشدیرمه‌لری ذخیره ائتمکله، [https://wikimediafoundation.org/wiki/Terms_of_Use ایشلتمه شرط‌لری]نی تایید ائدیب، قاییدیلماز شکلده اؤز چالیشمالارینیزی بو مجوز آلتیندا[https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] پایلاشماغی قبول ائدیرسینیز.\nسیز  کریتیو کامنز آلتیندا بیر لینک یوخسا آدرس وئرمگین کافی اولماسینی تایید ائدیرسینیز.",
 	"wikibase-sitelinks-wikinews": "ویکی‌خبر",
 	"wikibase-sitelinks-wikiquote": "ویکی‌سؤز",
 	"wikibase-sitelinks-wikisource": "ویکی‌قایناق",
