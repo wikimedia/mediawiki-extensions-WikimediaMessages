@@ -169,6 +169,7 @@
 	"restriction-level-superprotect": "Super-Protectioun",
 	"right-templateeditor": "Gespaart Schablounen änneren",
 	"restriction-level-templateeditor": "gespaart Schabloun",
+	"right-establishededitor": "Limitéiert Säiten änneren",
 	"protect-level-editeditorprotected": "Nëmmen Editeuren erlaben",
 	"wikimedia-ipb-confirmhideuser": "Dir sidd am Gaang e Benotzer ze späre mat der Funktioun \"Benotzer verstoppen\" ageschalt. Dëst hëlt den Numm vum Benotzer aus alle Lëschten a Logbicher eraus. Sidd Dir sécher datt Dir dat maache wëllt?\n\nWann de Benotzernumm op alle Wikimedia Wikie verstoppt gi muss, da kontaktéiert d'[[m:Special:MyLanguage/Stewards|Stewards]] iwwer stewards@wikimedia.org.",
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
