@@ -214,6 +214,7 @@
 	"right-templateeditor": "Modifica template protetti",
 	"restriction-level-templateeditor": "template protetto",
 	"protect-level-templateeditor": "Consentito solo agli editori di template e amministratori",
+	"right-establishededitor": "Modifica le pagine con restrizioni",
 	"right-editeditorprotected": "Modifica pagine protette con \"{{int:protect-level-editeditorprotected}}\"",
 	"wikimedia-centralauth-contribs-locked": "Questo utente è bloccato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
 	"search-interwiki-results-abwiki": "Risultati dalla [[:ab:Main_Page|Wikipedia in abcaso]].",
