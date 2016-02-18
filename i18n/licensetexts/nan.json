@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ianbu"
+			"Ianbu",
+			"Luuva"
 		]
 	},
 	"wm-license-information-description": "Soat-bêng",
-	"wm-license-information-date": "日期"
+	"wm-license-information-source": "Chhut-chhù",
+	"wm-license-information-date": "日期",
+	"wm-license-information-author": "Chok-chiá"
 }
