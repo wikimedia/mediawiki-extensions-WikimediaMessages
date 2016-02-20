@@ -24,6 +24,9 @@
 		],
 		"WikimediaOverrideMessagesNoTranslate": [
 			"i18n/wikimediaoverridesnotranslate"
+		],
+		"WikimediaLocalizedProjectNames": [
+			"i18n/wikimediaprojectnames"
 		]
 	},
 	"AutoloadClasses": {
