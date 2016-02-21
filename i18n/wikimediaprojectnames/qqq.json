@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
 	"project-localized-name-aawiktionary": "{{ProjectNameDocumentation|url=https://aa.wiktionary.org|name=Afar Wiktionary|language=aa}}",
 	"project-localized-name-aawikibooks": "{{ProjectNameDocumentation|url=https://aa.wikibooks.org|name=Afar Wikibooks|language=aa}}",
@@ -824,9 +828,9 @@
 	"project-localized-name-cnwikimedia": "{{ProjectNameDocumentation|url=https://cn.wikimedia.org|name=Wikimedia China|language=zh}}",
 	"project-localized-name-cowikimedia": "{{ProjectNameDocumentation|url=https://co.wikimedia.org|name=Wikimedia Colombia|language=es}}",
 	"project-localized-name-collabwiki": "{{ProjectNameDocumentation|url=https://collab.wikimedia.org|name=Collab|language=en}}",
-	"project-localized-name-commonswiki": "{{ProjectNameDocumentation|url=https://commons.wikimedia.org|name=Wikimedia Commons|language=en}}",
+	"project-localized-name-commonswiki": "{{ProjectNameDocumentation|url=https://commons.wikimedia.org|name=Wikimedia Commons|language=en}}\n{{Identical|Wikimedia Commons}}",
 	"project-localized-name-dkwikimedia": "{{ProjectNameDocumentation|url=https://dk.wikimedia.org|name=Wikimedia Denmark|language=da}}",
-	"project-localized-name-donatewiki": "{{ProjectNameDocumentation|url=https://donate.wikimedia.org|name=Donate|language=en}}",
+	"project-localized-name-donatewiki": "{{ProjectNameDocumentation|url=https://donate.wikimedia.org|name=Donate|language=en}}\n{{Identical|Donate}}",
 	"project-localized-name-etwikimedia": "{{ProjectNameDocumentation|url=https://ee.wikimedia.org|name=Wikimedia Estonia|language=et}}",
 	"project-localized-name-execwiki": "{{ProjectNameDocumentation|url=https://exec.wikimedia.org|name=Wikimedia Executive|language=en}}",
 	"project-localized-name-fdcwiki": "{{ProjectNameDocumentation|url=https://fdc.wikimedia.org|name=Wikimedia FDC|language=en}}",
@@ -836,13 +840,13 @@
 	"project-localized-name-iegcomwiki": "{{ProjectNameDocumentation|url=https://iegcom.wikimedia.org|name=Individual Engagement Grants Committee Wiki|language=en}}",
 	"project-localized-name-ilwikimedia": "{{ProjectNameDocumentation|url=https://il.wikimedia.org|name=Wikimedia Israel|language=he}}",
 	"project-localized-name-incubatorwiki": "{{ProjectNameDocumentation|url=https://incubator.wikimedia.org|name=Wikimedia Incubator|language=en}}",
-	"project-localized-name-internalwiki": "{{ProjectNameDocumentation|url=https://internal.wikimedia.org|name=Internal|language=en}}",
+	"project-localized-name-internalwiki": "{{ProjectNameDocumentation|url=https://internal.wikimedia.org|name=Internal|language=en}}\n{{Identical|Internal}}",
 	"project-localized-name-labswiki": "{{ProjectNameDocumentation|url=https://wikitech.wikimedia.org|name=Wikitech|language=en}}",
 	"project-localized-name-labtestwiki": "{{ProjectNameDocumentation|url=https://labtestwikitech.wikimedia.org|name=Wikitech Test Wiki|language=en}}",
 	"project-localized-name-legalteamwiki": "{{ProjectNameDocumentation|url=https://legalteam.wikimedia.org|name=Legal Team Wiki|language=en}}",
 	"project-localized-name-loginwiki": "{{ProjectNameDocumentation|url=https://login.wikimedia.org|name=Wikimedia Login Wiki|language=en}}",
-	"project-localized-name-mediawikiwiki": "{{ProjectNameDocumentation|url=https://www.mediawiki.org|name=MediaWiki|language=en}}",
-	"project-localized-name-metawiki": "{{ProjectNameDocumentation|url=https://meta.wikimedia.org|name=Meta-Wiki|language=en}}",
+	"project-localized-name-mediawikiwiki": "{{ProjectNameDocumentation|url=https://www.mediawiki.org|name=MediaWiki|language=en}}\n{{Identical|MediaWiki}}",
+	"project-localized-name-metawiki": "{{ProjectNameDocumentation|url=https://meta.wikimedia.org|name=Meta-Wiki|language=en}}\n{{Identical|Meta-Wiki}}",
 	"project-localized-name-mkwikimedia": "{{ProjectNameDocumentation|url=https://mk.wikimedia.org|name=Wikimedia Macedonia|language=mk}}",
 	"project-localized-name-movementroleswiki": "{{ProjectNameDocumentation|url=https://movementroles.wikimedia.org|name=Movement Roles|language=en}}",
 	"project-localized-name-mxwikimedia": "{{ProjectNameDocumentation|url=https://mx.wikimedia.org|name=Wikimedia Mexico|language=es}}",
@@ -863,9 +867,9 @@
 	"project-localized-name-ruwikimedia": "{{ProjectNameDocumentation|url=https://ru.wikimedia.org|name=Wikimedia Russia|language=ru}}",
 	"project-localized-name-sewikimedia": "{{ProjectNameDocumentation|url=https://se.wikimedia.org|name=Wikimedia Sweden|language=sv}}",
 	"project-localized-name-searchcomwiki": "{{ProjectNameDocumentation|url=https://searchcom.wikimedia.org|name=Search Committee|language=en}}",
-	"project-localized-name-sourceswiki": "{{ProjectNameDocumentation|url=https://wikisource.org|name=Wikisource|language=en}}",
+	"project-localized-name-sourceswiki": "{{ProjectNameDocumentation|url=https://wikisource.org|name=Wikisource|language=en}}\n{{Identical|Wikisource}}",
 	"project-localized-name-spcomwiki": "{{ProjectNameDocumentation|url=https://spcom.wikimedia.org|name=Spcom|language=en}}",
-	"project-localized-name-specieswiki": "{{ProjectNameDocumentation|url=https://species.wikimedia.org|name=Wikispecies|language=en}}",
+	"project-localized-name-specieswiki": "{{ProjectNameDocumentation|url=https://species.wikimedia.org|name=Wikispecies|language=en}}\n{{Identical|Wikispecies}}",
 	"project-localized-name-stewardwiki": "{{ProjectNameDocumentation|url=https://steward.wikimedia.org|name=Steward Wiki|language=en}}",
 	"project-localized-name-strategywiki": "{{ProjectNameDocumentation|url=https://strategy.wikimedia.org|name=Strategic Planning|language=en}}",
 	"project-localized-name-tenwiki": "{{ProjectNameDocumentation|url=https://ten.wikipedia.org|name=Wikipedia 10|language=en}}",
@@ -879,7 +883,7 @@
 	"project-localized-name-usabilitywiki": "{{ProjectNameDocumentation|url=https://usability.wikimedia.org|name=Wikimedia Usability Initiative|language=en}}",
 	"project-localized-name-votewiki": "{{ProjectNameDocumentation|url=https://vote.wikimedia.org|name=Wikimedia Vote Wiki|language=en}}",
 	"project-localized-name-wg_enwiki": "{{ProjectNameDocumentation|url=https://wg-en.wikipedia.org|name=English Wikipedia Working Group|language=en}}",
-	"project-localized-name-wikidatawiki": "{{ProjectNameDocumentation|url=https://www.wikidata.org|name=Wikidata|language=en}}",
+	"project-localized-name-wikidatawiki": "{{ProjectNameDocumentation|url=https://www.wikidata.org|name=Wikidata|language=en}}\n{{Identical|Wikidata}}",
 	"project-localized-name-wikimania2005wiki": "{{ProjectNameDocumentation|url=https://wikimania2005.wikimedia.org|name=Wikimania 2005 Wiki|language=en}}",
 	"project-localized-name-wikimania2006wiki": "{{ProjectNameDocumentation|url=https://wikimania2006.wikimedia.org|name=Wikimania 2006 Wiki|language=en}}",
 	"project-localized-name-wikimania2007wiki": "{{ProjectNameDocumentation|url=https://wikimania2007.wikimedia.org|name=Wikimania 2007 Wiki|language=en}}",
@@ -894,5 +898,5 @@
 	"project-localized-name-wikimania2016wiki": "{{ProjectNameDocumentation|url=https://wikimania2016.wikimedia.org|name=Wikimania 2016 Wiki|language=en}}",
 	"project-localized-name-wikimania2017wiki": "{{ProjectNameDocumentation|url=https://wikimania2017.wikimedia.org|name=Wikimania 2017 Wiki|language=en}}",
 	"project-localized-name-wikimaniateamwiki": "{{ProjectNameDocumentation|url=https://wikimaniateam.wikimedia.org|name=WikimaniaTeam|language=en}}",
-	"project-localized-name-zerowiki": "{{ProjectNameDocumentation|url=https://zero.wikimedia.org|name=Wikipedia Zero|language=en}}"
+	"project-localized-name-zerowiki": "{{ProjectNameDocumentation|url=https://zero.wikimedia.org|name=Wikipedia Zero|language=en}}\n{{Identical|Wikipedia Zero}}"
 }
