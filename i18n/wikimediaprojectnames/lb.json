@@ -4,12 +4,16 @@
 			"Robby"
 		]
 	},
+	"project-localized-name-bowiki": "Tibetesch Wikipedia",
 	"project-localized-name-hiwikiquote": "Hindi Wikiquote",
 	"project-localized-name-jawiki": "Japanesch Wikipedia",
 	"project-localized-name-lbwikiquote": "Lëtzebuergesch Wikiquote",
+	"project-localized-name-mkwikisource": "Mazedonesch Wikisource",
 	"project-localized-name-nawiki": "Nauruesch Wikipedia",
+	"project-localized-name-newiki": "Nepalesesch Wikipedia",
 	"project-localized-name-pcdwiki": "Picardesch Wikipedia",
 	"project-localized-name-pswiki": "Paschtu  Wikipedia",
+	"project-localized-name-skwikisource": "Slowakesch Wikisource",
 	"project-localized-name-slwiki": "Slowenesch Wikipedia",
 	"project-localized-name-slwiktionary": "Slowenesche Wiktionary",
 	"project-localized-name-slwikiquote": "Slowenesch Wikiquote",
@@ -18,8 +22,12 @@
 	"project-localized-name-ttwikiquote": "Tataresch Wikiquote",
 	"project-localized-name-ugwiki": "Uiguresch Wikipedia",
 	"project-localized-name-viwikisource": "Vietnamesesch Wikisource",
+	"project-localized-name-internalwiki": "Intern",
+	"project-localized-name-labswiki": "Wikitech",
 	"project-localized-name-nycwikimedia": "Wikimedia New York City",
+	"project-localized-name-testwiki": "Test Wikipedia",
 	"project-localized-name-testwikidatawiki": "Wikidata Test Wiki",
 	"project-localized-name-wikidatawiki": "Wikidata",
+	"project-localized-name-wikimania2005wiki": "Wikimania 2005 Wiki",
 	"project-localized-name-wikimania2009wiki": "Wikimania 2009 Wiki"
 }

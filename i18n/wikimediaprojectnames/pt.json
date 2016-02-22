@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente"
+			"Vitorvicentevalente",
+			"Önni"
 		]
 	},
 	"project-localized-name-azwikisource": "Wikisource em azerbaijano",
@@ -23,8 +24,10 @@
 	"project-localized-name-hewikisource": "Wikisource em hebraico",
 	"project-localized-name-hywikisource": "Wikisource em arménio",
 	"project-localized-name-itwikisource": "Wikisource em italiano",
+	"project-localized-name-jawiki": "Wikipedia japonesa",
 	"project-localized-name-jawikisource": "Wikisource em japonês",
 	"project-localized-name-kowikisource": "Wikisource em coreano",
+	"project-localized-name-nawiki": "Wikipédia nauruana",
 	"project-localized-name-nlwikisource": "Wikisource em holandês",
 	"project-localized-name-nowikisource": "Wikisource em norueguês",
 	"project-localized-name-plwiki": "Wikipédia em polaco",
@@ -37,10 +40,15 @@
 	"project-localized-name-ptwikiversity": "Wikiversidade em português",
 	"project-localized-name-ptwikivoyage": "Wikivoyage em português",
 	"project-localized-name-ruwiki": "Wikipédia em russo",
+	"project-localized-name-slwiktionary": "Wikcionário esloveno",
 	"project-localized-name-slwikisource": "Wikisource em esloveno",
 	"project-localized-name-srwikisource": "Wikisource em sérvio",
+	"project-localized-name-sswiktionary": "Wikcionário suazilandês",
 	"project-localized-name-svwiki": "Wikipédia em sueco",
+	"project-localized-name-trwikisource": "Wikisource turca",
+	"project-localized-name-ugwiki": "Wikipédia uigure",
 	"project-localized-name-ukwikisource": "Wikisource em ucraniano",
+	"project-localized-name-viwikisource": "Wikisource vietnamita",
 	"project-localized-name-bewikimedia": "Wikimedia Belgium",
 	"project-localized-name-brwikimedia": "Wikimedia Brasil",
 	"project-localized-name-chapcomwiki": "Affcom",
@@ -54,5 +62,6 @@
 	"project-localized-name-sourceswiki": "Wikisource",
 	"project-localized-name-specieswiki": "Wikispecies",
 	"project-localized-name-tenwiki": "Wikipédia 10",
+	"project-localized-name-testwikidatawiki": "Testes Wiki do Wikidata",
 	"project-localized-name-wikidatawiki": "Wikidata"
 }

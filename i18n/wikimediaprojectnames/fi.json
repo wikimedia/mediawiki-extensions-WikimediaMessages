@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nike"
+			"Nike",
+			"Stryn"
 		]
 	},
 	"project-localized-name-aawiki": "Afarinkielinen Wikipedia",
@@ -159,6 +160,9 @@
 	"project-localized-name-dsbwiki": "Alasorbinkielinen Wikipedia",
 	"project-localized-name-dvwiki": "Divehinkielinen Wikipedia",
 	"project-localized-name-dvwiktionary": "Divehinkielinen Wikisanakirja",
+	"project-localized-name-etwiki": "Vironkielinen Wikipedia",
+	"project-localized-name-etwikibooks": "Vironkielinen Wikikirjasto",
+	"project-localized-name-etwikisource": "Vironkielinen Wikiaineisto",
 	"project-localized-name-hiwikiquote": "Hindinkielinen Wikisitaatit",
 	"project-localized-name-jawiki": "Japaninkielinen Wikipedia",
 	"project-localized-name-nawiki": "Naurunkielinen Wikipedia",
