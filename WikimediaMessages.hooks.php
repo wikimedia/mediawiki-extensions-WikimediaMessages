@@ -134,7 +134,9 @@ class WikimediaMessagesHooks {
 		} elseif( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			// We only display the dual licensing stack in the editor and talk interfaces
 			if ( $context === 'editor' || $context === 'talk' ) {
-				$link = wfMessage( 'wikimedia-mobile-license-links' )->plain();
+				$link = wfMessage( 'wikimedia-mobile-license-links' )
+					->inContentLanguage()
+					->plain();
 			}
 		}
 
