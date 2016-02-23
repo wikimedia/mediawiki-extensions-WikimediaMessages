@@ -15,7 +15,8 @@
 			"Hayri özkurt",
 			"Stultiwikia",
 			"McAang",
-			"HakanIST"
+			"HakanIST",
+			"JackUKElliott"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -125,8 +126,10 @@
 	"wikibase-sitelinks-wikinews": "Vikihaber",
 	"wikibase-sitelinks-wikiquote": "Vikisöz",
 	"wikibase-sitelinks-wikisource": "Vikikaynak",
+	"wikibase-sitelinks-wikiversity": "Vikiversite",
 	"wikibase-sitelinks-wikivoyage": "Vikigezgin",
 	"wikibase-otherprojects-wikibooks": "Vikikitap",
+	"wikibase-otherprojects-wikiversity": "Vikiversite",
 	"wikibase-sitelinks-sitename-species": "Vikitür",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiveri",
 	"cant-delete-main-page": "Silemez veya ana sayfaya taşıyamazsın.",
