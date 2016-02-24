@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Beta16"
 		]
 	},
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
@@ -626,7 +627,7 @@
 	"project-localized-name-siwikibooks": "{{ProjectNameDocumentation|url=https://si.wikibooks.org|name=Sinhala Wikibooks|language=si}}",
 	"project-localized-name-simplewiki": "{{ProjectNameDocumentation|url=https://simple.wikipedia.org|name=Simple English Wikipedia|language=en}}",
 	"project-localized-name-simplewiktionary": "{{ProjectNameDocumentation|url=https://simple.wiktionary.org|name=Simple English Wiktionary|language=en}}",
-	"project-localized-name-simplewikibooks": "{{ProjectNameDocumentation|url=https://simple.wikibooks.org|name=Simple English Wikibooks|language=simple}}",
+	"project-localized-name-simplewikibooks": "{{ProjectNameDocumentation|url=https://simple.wikibooks.org|name=Simple English Wikibooks|language=en}}",
 	"project-localized-name-simplewikiquote": "{{ProjectNameDocumentation|url=https://simple.wikiquote.org|name=Simple English Wikiquote|language=simple}}",
 	"project-localized-name-skwiki": "{{ProjectNameDocumentation|url=https://sk.wikipedia.org|name=Slovak Wikipedia|language=sk}}",
 	"project-localized-name-skwiktionary": "{{ProjectNameDocumentation|url=https://sk.wiktionary.org|name=Slovak Wiktionary|language=sk}}",
@@ -803,7 +804,7 @@
 	"project-localized-name-zh_min_nanwiktionary": "{{ProjectNameDocumentation|url=https://zh-min-nan.wiktionary.org|name=Min Nan Wiktionary|language=nan}}",
 	"project-localized-name-zh_min_nanwikibooks": "{{ProjectNameDocumentation|url=https://zh-min-nan.wikibooks.org|name=Min Nan Wikibooks|language=nan}}",
 	"project-localized-name-zh_min_nanwikiquote": "{{ProjectNameDocumentation|url=https://zh-min-nan.wikiquote.org|name=Min Nan Wikiquote|language=nan}}",
-	"project-localized-name-zh_min_nanwikisource": "{{ProjectNameDocumentation|url=https://zh-min-nan.wikisource.org|name=Min Nan Wikisource|language=zh-min-nan}}",
+	"project-localized-name-zh_min_nanwikisource": "{{ProjectNameDocumentation|url=https://zh-min-nan.wikisource.org|name=Min Nan Wikisource|language=nan}}",
 	"project-localized-name-zh_yuewiki": "{{ProjectNameDocumentation|url=https://zh-yue.wikipedia.org|name=Cantonese Wikipedia|language=yue}}",
 	"project-localized-name-zuwiki": "{{ProjectNameDocumentation|url=https://zu.wikipedia.org|name=Zulu Wikipedia|language=zu}}",
 	"project-localized-name-zuwiktionary": "{{ProjectNameDocumentation|url=https://zu.wiktionary.org|name=Zulu Wiktionary|language=zu}}",

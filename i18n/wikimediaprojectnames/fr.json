@@ -3,7 +3,8 @@
 		"authors": [
 			"Wladek92",
 			"Gomoko",
-			"Lbayle"
+			"Lbayle",
+			"Mattho69"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipédia en afar",
@@ -415,8 +416,35 @@
 	"project-localized-name-lawikiquote": "Wikiquote en latin",
 	"project-localized-name-lawikisource": "Wikisource en latin",
 	"project-localized-name-ladwiki": "Wikipédia en ladin",
+	"project-localized-name-lbwiki": "Wikipédia en luxembourgeois",
+	"project-localized-name-lbwiktionary": "Wiktionary en luxembourgeois",
 	"project-localized-name-lbwikibooks": "Wikibooks luxembourgeois",
 	"project-localized-name-lbwikiquote": "Wikiquote luxembourgeois",
+	"project-localized-name-lbewiki": "Wikipédia en laki",
+	"project-localized-name-lezwiki": "Wikipédia en lezguien",
+	"project-localized-name-lgwiki": "Wikipédia en luganda",
+	"project-localized-name-liwiki": "Wikipédia en limbourgeois",
+	"project-localized-name-liwiktionary": "Wiktionary en limbourgeois",
+	"project-localized-name-liwikibooks": "Wikibooks en limbourgeois",
+	"project-localized-name-liwikiquote": "Wikiquote en limbourgeois",
+	"project-localized-name-liwikisource": "Wikisource en limbourgeois",
+	"project-localized-name-lijwiki": "Wikipédia en ligure",
+	"project-localized-name-lmowiki": "Wikipédia en lombard",
+	"project-localized-name-lnwiki": "Wikipédia en lingala",
+	"project-localized-name-lnwiktionary": "Wiktionary en lingala",
+	"project-localized-name-lnwikibooks": "Wikibooks en lingala",
+	"project-localized-name-lowiki": "Wikipédia en lao",
+	"project-localized-name-lowiktionary": "Wiktionary en lao",
+	"project-localized-name-lrcwiki": "Wikipédia en lori du nord",
+	"project-localized-name-ltwiki": "Wikipédia en lituanien",
+	"project-localized-name-ltwiktionary": "Wiktionary en lituanien",
+	"project-localized-name-ltwikibooks": "Wikibooks en lituanien",
+	"project-localized-name-ltwikiquote": "Wikiquote en lituanien",
+	"project-localized-name-ltwikisource": "Wikisource en lituanien",
+	"project-localized-name-ltgwiki": "Wikipédia en latgalien",
+	"project-localized-name-lvwiki": "Wikipédia en letton",
+	"project-localized-name-lvwiktionary": "Wiktionary en letton",
+	"project-localized-name-lvwikibooks": "Wikibooks en letton",
 	"project-localized-name-mkwikisource": "Wikisource macédonien",
 	"project-localized-name-nlwikivoyage": "Wikivoyage néerlandais",
 	"project-localized-name-ocwiktionary": "Wiktionnaire occitan",
@@ -484,5 +512,6 @@
 	"project-localized-name-trwikimedia": "Wikimedia turc",
 	"project-localized-name-ukwikimedia": "Wikimedia anglais",
 	"project-localized-name-wikidatawiki": "Wikidata",
-	"project-localized-name-wikimaniateamwiki": "Equipe Wikimania"
+	"project-localized-name-wikimaniateamwiki": "Equipe Wikimania",
+	"project-localized-name-zerowiki": "Wikipédia Zéro"
 }

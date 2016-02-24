@@ -26,7 +26,8 @@
 			"Hwangjy9",
 			"Yearning",
 			"밥풀떼기",
-			"Mooozi"
+			"Mooozi",
+			"Idh0854"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -203,7 +204,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''당신이 사용한 프록시 서버는 [[m:Special:MyLanguage/Global blocks|전역 차단]]되었습니다.'''\n\n차단한 사용자는 $1 ($2)입니다.\n\n차단한 이유는 ''$3''입니다.\n\n* 차단 시점:$4\n* 차단 기한:$5\n\n당신의 프록시 IP 주소는 $6입니다.\n차단 재검토를 요청할 때 위의 정보를 포함해 주세요.\n\n당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개 프록시 금지]] 전역 정책에서 더 많은 정보를 찾을 수 있습니다.\n차단의 재검토는 [[m:Steward requests/Global|메타위키]]에서 요청하실 수 있습니다.",
 	"wikimedia-torblock-blocked": "당신의 IP 주소인 <strong>$1</strong>은 자동적으로 토르 끝 노드로 판명되었습니다.\n토르를 통한 편집은 악용 가능성을 방지하기 위해 차단됩니다.\n자세한 정보나 정당한 사용자를 위한 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]]라는 전역 정책을 참조하십시오.",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ko",
-	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy 개인 정보 정책]",
+	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy 개인정보 정책]",
 	"grant-checkuser": "체크유저 데이터에 접근",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\"을 클릭하면 [//wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\"을 클릭하면 [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/ko 이용 약관]에 동의하고 [//creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",

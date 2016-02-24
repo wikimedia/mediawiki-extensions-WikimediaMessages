@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Banjo"
+			"Banjo",
+			"Elisardojm"
 		]
 	},
-	"project-localized-name-wikidatawiki": "Wikidata"
+	"project-localized-name-astwiki": "Wikipedia en asturiano",
+	"project-localized-name-mediawikiwiki": "MediaWiki",
+	"project-localized-name-mkwikimedia": "Wikimedia Macedonia",
+	"project-localized-name-mxwikimedia": "Wikimedia México",
+	"project-localized-name-nlwikimedia": "Wikimedia Países Baixos",
+	"project-localized-name-nowikimedia": "Wikimedia Noruega",
+	"project-localized-name-wikidatawiki": "Wikidata",
+	"project-localized-name-wikimania2011wiki": "Wiki de Wikimanía 2011",
+	"project-localized-name-wikimania2012wiki": "Wiki de Wikimanía 2012",
+	"project-localized-name-wikimania2013wiki": "Wiki de Wikimanía 2013",
+	"project-localized-name-wikimania2014wiki": "Wiki de Wikimanía 2014",
+	"project-localized-name-wikimania2015wiki": "Wiki de Wikimanía 2015",
+	"project-localized-name-wikimania2016wiki": "Wiki de Wikimanía 2016",
+	"project-localized-name-wikimania2017wiki": "Wiki de Wikimanía 2017",
+	"project-localized-name-wikimaniateamwiki": "Equipo Wikimanía",
+	"project-localized-name-zerowiki": "Wikipedia Zero"
 }
