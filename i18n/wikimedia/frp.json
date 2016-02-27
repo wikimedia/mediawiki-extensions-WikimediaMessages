@@ -107,13 +107,14 @@
 	"group-translationadmin": "Administrators de traduccion",
 	"group-translationadmin-member": "administrat{{GENDER:$1|or|rice}} de traduccion",
 	"grouppage-translationadmin": "{{ns:project}}:Administrators de traduccion",
-	"wikimedia-copyright": "Los tèxtos sont disponiblos desot <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions</a> ;\nd’ôtres condicions sè pôvont aplicar.\nVêde les <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">condicions d’usâjo</a> por més de dètalys.",
+	"wikimedia-copyright": "Los tèxtos sont disponiblos desot <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">licence Creative Commons Atribucion - Partâjo dens les Mémes Condicions</a> ;\nd’ôtres condicions sè pôvont aplicar.\nVêde les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/fr\">condicions d’usâjo</a> por més de dètalys.",
 	"wikimedia-copyrightwarning": "En cliquent dessus « {{int:savearticle}} », vos accèptâd les [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condicions d’usâjo] et pués vos accèptâd de placiér por de bon voutra contribucion desot [https://creativecommons.org/licenses/by-sa/3.0/ licence Creative Commons patèrnitât - partâjo a l’identico de les premiéres condicions 3.0] et [https://www.gnu.org/copyleft/fdl.html licence de documentacion libra GNU (GFDL)].\nPor la licence Creative Commons, vos accèptâd d’étre crèditâ per los reusanciérs u muens avouéc un lim hipèrtèxto ou ben una URL.",
 	"wikibase-sitelinks-wikinews": "Vouiquinovèles",
 	"wikibase-sitelinks-wikiquote": "Vouiquiditons",
 	"wikibase-sitelinks-wikisource": "Vouiquisôrsa",
 	"wikibase-sitelinks-wikivoyage": "Vouiquivoyâjo",
 	"cant-delete-main-page": "Vos pouede pas suprimar ou ben dèplaciér la pâge principâla.",
+	"wikimedia-developers": "Dèvelopiors",
 	"wikimediashoplink-linktext": "Bouteca Wikimedia",
 	"wikimediashoplink-link-tooltip": "Visitâd la bouteca Wikimedia"
 }

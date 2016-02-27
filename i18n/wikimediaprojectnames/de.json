@@ -1,12 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Metalhead64"
+			"Metalhead64",
+			"Luke081515"
 		]
 	},
-	"project-localized-name-dewiki": "Deutsche Wikipedia",
-	"project-localized-name-dewiktionary": "Deutsches Wiktionary",
-	"project-localized-name-dewikibooks": "Deutsche Wikibooks",
-	"project-localized-name-dewikinews": "Deutsche Wikinews",
-	"project-localized-name-dewikiquote": "Deutsches Wikiquote"
+	"project-localized-name-dewiki": "Deutschsprachige Wikipedia",
+	"project-localized-name-dewiktionary": "Deutschsprachiges Wiktionary",
+	"project-localized-name-dewikibooks": "Deutschsprachige Wikibooks",
+	"project-localized-name-dewikinews": "Deutschsprachige Wikinews",
+	"project-localized-name-dewikiquote": "Deutschsprachiges Wikiquote",
+	"project-localized-name-dewikisource": "Deutschsprachige Wikisource",
+	"project-localized-name-dewikiversity": "Deutschsprachige Wikiversity",
+	"project-localized-name-dewikivoyage": "Deutschsprachige Wikivoyage",
+	"project-localized-name-enwiki": "Englischsprachige Wikipedia",
+	"project-localized-name-enwiktionary": "Englischsprachiges Wiktionary",
+	"project-localized-name-frwiki": "Französischsprachige Wikipedia",
+	"project-localized-name-frwiktionary": "Französischsprachiges Wiktionary",
+	"project-localized-name-frwikibooks": "Französischsprachige Wikibooks",
+	"project-localized-name-frwikinews": "Französischsprachige Wikinews",
+	"project-localized-name-frwikiquote": "Französischsprachiges Wikiquote"
 }

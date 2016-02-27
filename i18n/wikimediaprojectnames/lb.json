@@ -4,6 +4,8 @@
 			"Robby"
 		]
 	},
+	"project-localized-name-arwiki": "Arabesch Wikipedia",
+	"project-localized-name-bawiki": "Baschkiresch Wikipedia",
 	"project-localized-name-bowiki": "Tibetesch Wikipedia",
 	"project-localized-name-hiwikiquote": "Hindi Wikiquote",
 	"project-localized-name-jawiki": "Japanesch Wikipedia",
@@ -25,9 +27,15 @@
 	"project-localized-name-internalwiki": "Intern",
 	"project-localized-name-labswiki": "Wikitech",
 	"project-localized-name-nycwikimedia": "Wikimedia New York City",
+	"project-localized-name-otrs_wikiwiki": "OTRS Wiki",
+	"project-localized-name-stewardwiki": "Steward Wiki",
+	"project-localized-name-tenwiki": "Wikipedia 10",
 	"project-localized-name-testwiki": "Test Wikipedia",
 	"project-localized-name-testwikidatawiki": "Wikidata Test Wiki",
 	"project-localized-name-wikidatawiki": "Wikidata",
 	"project-localized-name-wikimania2005wiki": "Wikimania 2005 Wiki",
-	"project-localized-name-wikimania2009wiki": "Wikimania 2009 Wiki"
+	"project-localized-name-wikimania2009wiki": "Wikimania 2009 Wiki",
+	"project-localized-name-wikimania2012wiki": "Wikimania 2012 Wiki",
+	"project-localized-name-wikimania2016wiki": "Wikimania 2016 Wiki",
+	"project-localized-name-wikimania2017wiki": "Wikimania 2017 Wiki"
 }
