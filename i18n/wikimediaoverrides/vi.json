@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Trần Nguyễn Minh Huy"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Bạn không thấy hình ảnh? [[{{MediaWiki:createacct-captcha-help-url}}|Yêu cầu có tài khoản]]"
+	"wikimedia-createacct-imgcaptcha-help": "Bạn không thấy được chữ? [[{{MediaWiki:createacct-captcha-help-url}}|Hãy yêu cầu mở tài khoản]]."
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Maroen1990"
 		]
 	},
 	"project-localized-name-aawiki": "ويكيبيديا الأفارية",
@@ -15,7 +16,9 @@
 	"project-localized-name-cswikiversity": "ويكي الجامعة التشيكية",
 	"project-localized-name-cywiki": "ويكيبيدية الولزية",
 	"project-localized-name-dewiki": "ويكيبيديا الألمانية",
+	"project-localized-name-dewikibooks": "ويكي كتاب الالمانية",
 	"project-localized-name-dewikiversity": "ويكي الجامعة الألمانية",
+	"project-localized-name-elwikiquote": "ويكي اقتباس يونانية",
 	"project-localized-name-elwikiversity": "ويكي الجامعة اليونانية",
 	"project-localized-name-enwiki": "ويكيبيديا الإنجليزية",
 	"project-localized-name-enwikiversity": "ويكي الجامعة الإنجليزية",
@@ -44,8 +47,10 @@
 	"project-localized-name-rowikibooks": "ويكي كتب الرومانية",
 	"project-localized-name-ruwikiversity": "ويكي الجامعة الروسية",
 	"project-localized-name-scnwiki": "ويكيبيديا الصقلية",
+	"project-localized-name-sdwikinews": "ويكي الأخبار السندية",
 	"project-localized-name-siwiki": "ويكيبيديا السنهالية",
 	"project-localized-name-simplewiki": "ويكيبيديا الإنجليزية المبسطة",
+	"project-localized-name-simplewikibooks": "ويكي كتاب الانجليزية المبسطة",
 	"project-localized-name-simplewikiquote": "ويكي اقتباس الإنجليزية المبسطة",
 	"project-localized-name-skwikisource": "ويكي مصدر السلوفاكية",
 	"project-localized-name-slwiki": "ويكيبيديا السلوفانية",
@@ -56,6 +61,7 @@
 	"project-localized-name-svwiki": "ويكيبيديا السويدية",
 	"project-localized-name-svwikiversity": "ويكي الجامعة السويدية",
 	"project-localized-name-swwiki": "ويكيبيديا السواحيلية",
+	"project-localized-name-trwikisource": "ويكي مصدر تركي",
 	"project-localized-name-ttwiki": "ويكيبيديا التتارية",
 	"project-localized-name-ukwiki": "ويكيبيديا الأوكرانية",
 	"project-localized-name-urwikiquote": "ويكي اقتباس الأردية",
@@ -63,6 +69,7 @@
 	"project-localized-name-viwiki": "ويكيبيديا الفيتنامية",
 	"project-localized-name-viwikivoyage": "ويكي رحلات الفيتنامية",
 	"project-localized-name-yiwiki": "ويكيبيديا اليديشية",
+	"project-localized-name-zhwikisource": "ويكي مصدر صينية",
 	"project-localized-name-bewikimedia": "ويكيميديا بلجيكا",
 	"project-localized-name-betawikiversity": "ويكي الجامعة بيتا",
 	"project-localized-name-donatewiki": "تبرع",
@@ -71,6 +78,7 @@
 	"project-localized-name-sewikimedia": "ويكيميديا السويد",
 	"project-localized-name-sourceswiki": "ويكي مصدر",
 	"project-localized-name-strategywiki": "التخطيط الاستراتيجي",
+	"project-localized-name-tenwiki": "ويكيبيديا10",
 	"project-localized-name-testwiki": "ويكيبيديا الاختبارية",
 	"project-localized-name-wikidatawiki": "ويكي بيانات",
 	"project-localized-name-wikimania2007wiki": "ويكي ويكيمانيا 2007",
