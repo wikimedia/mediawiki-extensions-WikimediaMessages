@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Okras",
-			"Mariya"
+			"Mariya",
+			"Putnik"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",
@@ -27,6 +28,7 @@
 	"contactpage-wikimedia-trademark-wikiwordmark": "Текстовый товарный знак Википедии",
 	"contactpage-wikimedia-trademark-w": "Стилизованная «W»",
 	"contactpage-wikimedia-trademark-wikimedia": "Сообщество Викимедиа",
+	"contactpage-wikimedia-trademark-wikiversity": "Викиверситет",
 	"contactpage-title-licenseabuse": "Форма для жалоб на нарушения",
 	"contactpage-pagetext-licenseabuse": "Пожалуйста, используйте форму ниже для связи с нами, если подозреваете кого-то в злоупотреблении или неправильном использование товарной марки Викимедиа.",
 	"contactpage-subject-licenseabuse": "Уведомление о нарушении товарного знака Викимедии",
