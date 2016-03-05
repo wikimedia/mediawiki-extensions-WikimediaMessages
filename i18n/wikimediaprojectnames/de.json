@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Metalhead64",
-			"Luke081515"
+			"Luke081515",
+			"Purodha"
 		]
 	},
 	"project-localized-name-dewiki": "Deutschsprachige Wikipedia",
@@ -19,5 +20,15 @@
 	"project-localized-name-frwiktionary": "Französischsprachiges Wiktionary",
 	"project-localized-name-frwikibooks": "Französischsprachige Wikibooks",
 	"project-localized-name-frwikinews": "Französischsprachige Wikinews",
-	"project-localized-name-frwikiquote": "Französischsprachiges Wikiquote"
+	"project-localized-name-frwikiquote": "Französischsprachiges Wikiquote",
+	"project-localized-name-itwiki": "Italienischsprachige Wikipedia",
+	"project-localized-name-itwiktionary": "Italienischsprachiges Wiktionary",
+	"project-localized-name-itwikibooks": "Italienischsprachige Wikibooks",
+	"project-localized-name-itwikinews": "Italienischsprachige Wikinews",
+	"project-localized-name-itwikiquote": "Italienischsprachiges Wikiquote",
+	"project-localized-name-itwikisource": "Italienischsprachige Wikisource",
+	"project-localized-name-itwikiversity": "Italienischsprachige Wikiversity",
+	"project-localized-name-kshwiki": "Kölschsprachige Wikipedia",
+	"project-localized-name-sdwikinews": "Sindhisprachige Wikinews",
+	"project-localized-name-fiwikimedia": "Wikimedia Finnland"
 }
