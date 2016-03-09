@@ -40,8 +40,15 @@ class WikimediaMessagesHooks {
 
 		if ( $wmfRealm === 'labs' && $lcKey === 'privacypage' ) {
 			$lcKey = 'wikimedia-privacypage-labs';
-		} elseif ( in_array( $lcKey, $keys, true ) ) {
-			$prefixedKey ="wikimedia-$lcKey";
+		} else {
+			if ( in_array( $lcKey, $keys, true ) ) {
+				$transformedKey ="wikimedia-$lcKey";
+			} else {
+				$transformedKey = self::transformKeyForGettingStarted( $lcKey );
+				if ( $transformedKey === $lcKey ) {
+					return true;
+				}
+			}
 
 			// MessageCache uses ucfirst if ord( key ) is < 128, which is true of all
 			// of the above.  Revisit if non-ASCII keys are used.
@@ -60,10 +67,48 @@ class WikimediaMessagesHooks {
 				// (including MediaWiki pages if they exist).
 				$cache->getMsgFromNamespace( $ucKey, $wgLanguageCode ) === false
 			) {
-				$lcKey = $prefixedKey;
+				$lcKey = $transformedKey;
 			}
 		}
 		return true;
+	}
+
+	/**
+	 * Transforms keys for GettingStarted, if needed.
+	 * This is used to provide Wikipedia-specific variants for certain keys.
+	 *
+	 * @param string $lcKey Original key, in lowercase form
+	 *
+	 * @return string New key, in lowercase form, either the same or transformed
+	 */
+	protected static function transformKeyForGettingStarted( $lcKey ) {
+		global $wgConf, $wgDBname;
+
+		list( $site, $lang ) = $wgConf->siteFromDB( $wgDBname );
+
+		// There are several wikis (e.g. commonswiki, wikidatawiki) that wrongly
+		// return Wikipedia here.  Before deploying GettingStarted to one, find a
+		// way to determine the real family.
+		if ( $site === 'wikipedia' ) {
+			if ( in_array( $lcKey, array(
+				"gettingstarted-task-toolbar-try-another-text",
+				"gettingstarted-task-toolbar-no-suggested-page",
+				"gettingstarted-task-copyedit-toolbar-description",
+				"gettingstarted-task-copyedit-toolbar-try-another-title",
+				"guidedtour-tour-gettingstartedtasktoolbarintro-description",
+				"guidedtour-tour-gettingstartedtasktoolbar-ambox-description",
+				"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title",
+				"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description",
+				"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description",
+				"guidedtour-tour-gettingstarted-click-preview-description",
+				"gettingstarted-cta-edit-page",
+				"gettingstarted-cta-fix-pages",
+			) ) ) {
+				return "{$lcKey}-wikipedia";
+			}
+		}
+
+		return $lcKey;
 	}
 
 	/**
