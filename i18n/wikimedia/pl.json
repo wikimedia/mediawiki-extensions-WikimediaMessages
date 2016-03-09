@@ -36,6 +36,8 @@
 	"nstab-institution": "Instytucja",
 	"nstab-sequence": "Sekwencja",
 	"nstab-timedtext": "Lista dialogowa",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Edytuj cały artykuł...",
+	"gettingstarted-cta-edit-page-wikipedia": "Edytuj ten artykuł",
 	"group-Image-reviewer": "Redaktorzy grafik",
 	"group-Image-reviewer-member": "{{GENDER:$1|redaktor|redaktorka}} grafik",
 	"grouppage-Image-reviewer": "{{ns:project}}:Redaktorzy grafik",
