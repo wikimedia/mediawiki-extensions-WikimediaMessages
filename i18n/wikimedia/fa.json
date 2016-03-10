@@ -263,6 +263,7 @@
 	"restriction-level-editeditorprotected": "محافظت از ویرایش",
 	"wikimedia-ipb-confirmhideuser": "شما دارید اقدام به مسدود کردن یک «کاربر مخفی» می‌نمایید. این کار باعث خواهد شد نام کاربری وی از تمام فهرست‌ها و گزارش‌ها پاک شود. آیا همچنان مطمئن هستید قصد دارید دست به چنین اقدامی بزنید؟\n\nاگر نیاز است نام کاربری در سایر ویکی‌ها نیز مخفی شود لطفا با [[m:Special:MyLanguage/Stewards|ویکی‌بدان]] تماس بگیرید با نشانی پست الکترونیک stewards@wikimedia.org.",
 	"wikimedia-feedback-termsofuse": "من موافقت می‌کنم یک بازخورد برای <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Terms of Use</a> تهیه شود.",
+	"wikimedia-globalrenamequeue-email-body-approved": "درخواست برای تغییر \"{{GENDER:$1|$1}}\" به \"{{GENDER:$1|$2}}\" تأیید شده است. به محض کامل شدن شما می‌توانید با استفاده از نام کاربری جدیدتان و رمز عبور قبلی‌تان وارد شوید. از اینکه در پروژه‌های ویکی‌مدیا مشارکت می‌کنید سپاسگذاریم.",
 	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده‌است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",
