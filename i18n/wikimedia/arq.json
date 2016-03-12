@@ -2,18 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Bachounda",
-			"Oldstoneage"
+			"Oldstoneage",
+			"GeekEmad"
 		]
 	},
-	"sitesupport": "تبرعولنا",
-	"tooltip-n-sitesupport": "ساندونا",
-	"wikimedia-copyright": "هاد النصوص راهم موضّعين ب <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">رخصة تاع إبداع مشتارك- المقاسمة ب نفس المشرط</a> ؛ مشارط وحدخرين ينجمو يتطبّقو.\nشوف تاني <a href=\"https://wikimediafoundation.org/wiki/Conditions_d'utilisation\">المشارط تاع الستعمال</a> باش تعرف كتَر.",
+	"sitesupport": "تبرّعولنا",
+	"tooltip-n-sitesupport": "عاونونا",
+	"wikimedia-copyright": "هاذ النصّ راه موجود تحت رخصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">Creative Commons Attribution-ShareAlike</a> ؛ \nشروط اخرى تقدر تتطبّق.\nشوف <a href=\"https://wikimediafoundation.org/wiki/Conditions_d'utilisation\">شروط الاستعمال</a> باش تعرف اكثر.",
 	"wikimedia-copyrightwarning": "كي تسجّل التبدالات، راك قابل الـ [https://wikimediafoundation.org/wiki/Terms_of_Use المشارط تاع الستعمال], و راك تاني قابل بلا ما تنجم تبدّل رايك، باش تنحط الخدمة هادي تحت الـ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License الترخيص CC BY-SA 3.0] و تاني الـ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nراك قابل بلّي الوصيل ولا الـ URL راهم كافيين باش ينسّبو ليك المشاركة تاعك.",
 	"wikibase-sitelinks-wikinews": "ويكيخبارات",
 	"wikibase-sitelinks-wikiquote": "ويكيقوالات",
 	"wikibase-sitelinks-wikisource": "ويكيمصادر (ويكيسورس)",
 	"wikibase-sitelinks-wikivoyage": "ويكيسفارات",
-	"wikimedia-developers": "مطورون",
+	"wikimedia-developers": "مطوّرين",
 	"wikimedia-globalblocking-ipblocked": "'''لادريسة آي بي تاعك راها [[m:Special:MyLanguage/Global blocks|تبلوكات ف كامل الويكيّات]].'''\n\nالتحباس راه ندار من عند $1 ($2).\nالسبّة هيّا''$3''.\n\n* البدية تاع التحباس: $4\n* الكمال تاع التحباس: $5\n\nلادريسة آي بي تاعك تاع ضركا هيّا $6.\nحطّ كامل هاد المعلومات ف كُل مطالبة تاع معلومات معانا.\n\nيلا راك شفت بلّي التحباس هادا راه ندار على سبايب غالطة ولا كاش مشكل، تنجم تصيب شي معلومات زيادة على السياسة العامّة تاع [[m:Special:MyLanguage/No open proxies|No open proxies]].\nولا تاني، يلا راك حاب تتهادر على هاد التحباس، تنجم [[m:Steward requests/Global|ابعت مطلب تاع مراجعت` راي فل ميظا ويكي]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''لادريسة آي بي تاعك راها [[m:Special:MyLanguage/Global blocks|تبلوكات في كامل الويكيّات]].'''\n\nالتحباس راه ندار من عند $1 ($2).\nالسبّة هيّا''$3''.\n\n* البديه تاع التحباس: $4\n* الكمال تاع التحباس: $5\n\nلادريسة آي بي تاعك تاع ضركا هيّا $6.\nحطّ كامل هاد المعلومات ف كُل مطالبة تاع معلومات معانا.\n\nإلا راك شفت بلّي التحباس هادا راه ندار على سبايب غالطة ولا كاش مشكل، تنجم تصيب شي معلومات زيادة على السياسة العامّة تاع [[m:Special:MyLanguage/No open proxies|No open proxies]].\nولا تاني، يلا راك حاب تتهادر على هاد التحباس، تنجم [[m:Steward requests/Global|ابعت مطلب تاع مراجعت` راي فل ميظا ويكي]]."
 }

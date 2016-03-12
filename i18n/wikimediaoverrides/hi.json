@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sfic"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(चुनने में सहायता करें)]]",
+	"wikimedia-createacct-imgcaptcha-help": "छवि नहीं दिख रहा है? तो [[{{MediaWiki:createacct-captcha-help-url}}|खाता निर्माण हेतु निवेदन]] करें।"
+}
