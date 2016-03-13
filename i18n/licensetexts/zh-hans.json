@@ -10,7 +10,8 @@
 			"Shizhao",
 			"Xiaomingyan",
 			"Mywood",
-			"Impersonator 1"
+			"Impersonator 1",
+			"飞舞回堂前"
 		]
 	},
 	"wikimedialicensetexts-desc": "维基媒体许可协议消息",
@@ -84,7 +85,7 @@
 	"wm-license-own-work": "自己的作品",
 	"wm-license-pd-author-self-text": "我，本作品著作权人，释出本作品至'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。这适用于全世界。",
 	"wm-license-pd-author-with-author-text": "本作品已被作者'''$1'''释出到'''[[{{int:wm-license-pd-wiki-link}}|公有领域]]'''。这适用于全世界。",
-	"wm-license-pd-author-not-legally-possible": "有些国家这可能不合法，如果这样：",
+	"wm-license-pd-author-not-legally-possible": "在一些国家这可能不合法；若如是，则：",
 	"wm-license-pd-author-self-any-purpose": "我无条件地授予任何人以'''任何目的'''使用本作品的权利，除非这些条件是法律规定所必需的。",
 	"wm-license-pd-author-with-author-any-purpose": "$1无条件地授予任何人以'''任何目的'''使用本作品的权利，除非这些条件是法律规定所必需的。",
 	"wm-license-pd-usgov-wiki-link": "w:zh:美国联邦政府",
