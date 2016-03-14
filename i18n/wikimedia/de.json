@@ -272,6 +272,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Es gab ein Problem bei deiner globalen Anmeldung. Falls du gerade dein Benutzerkonto erstellt hast, melde dich bitte ab und anschließend wieder an. Versuche dann erneut, die Anwendung zu autorisieren. Falls du nicht gerade dein Benutzerkonto erstellt hast, besuche bitte eine andere Wikimedia-Website – wie [https://mediawiki.org/ MediaWiki.org] – und versuche erneut die Anwendung zu autorisieren. (Fehlercode: E008)",
 	"search-interwiki-results-abwiki": "Suchergebnisse von der [[:ab:Main_Page|abchasischen Wikipedia]].",
 	"search-interwiki-results-acewiki": "Suchergebnisse von der [[:ace:Main_Page|acehischen Wikipedia]].",
+	"search-interwiki-results-adywiki": "Suchergebnisse von der [[:ady:Main_Page|adygeischen Wikipedia]].",
 	"search-interwiki-results-afwiki": "Suchergebnisse von der [[:af:Main_Page|afrikaanischen Wikipedia]].",
 	"search-interwiki-results-akwiki": "Suchergebnisse von der [[:ak:Main_Page|akanischen Wikipedia]].",
 	"search-interwiki-results-alswiki": "Suchergebnisse von der [[:als:Main_Page|alemannischen Wikipedia]].",

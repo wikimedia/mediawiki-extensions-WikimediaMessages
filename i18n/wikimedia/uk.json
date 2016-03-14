@@ -280,6 +280,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Сталась проблема з глобальним входом. Якщо Ви щойно створили обліковий запис, будь ласка, вийдіть із системи, та ввійдіть повторно, потім спробуйте знову авторизувати додаток. Якщо Ви створили обліковий запис не щойно, будь ласка, відвідайте інший сайт Вікімедіа, такий як [https://mediawiki.org/ mediawiki.org], будучи в системі й потім знову спробуйте авторизувати додаток. (Код помилки: E008)",
 	"search-interwiki-results-abwiki": "Результати з [[:ab:Main_Page|абхазької Вікіпедії]].",
 	"search-interwiki-results-acewiki": "Результати з [[:ace:Main_Page|ачехської Вікіпедії]].",
+	"search-interwiki-results-adywiki": "Результати з [[:ady:Main_Page|адигейської Вікіпедії]].",
 	"search-interwiki-results-afwiki": "Результати з [[:af:Main_Page|Вікіпедії мовою африкаанс]].",
 	"search-interwiki-results-akwiki": "Результати з [[:ak:Main_Page|Вікіпедії мовою акан]].",
 	"search-interwiki-results-alswiki": "Результати з [[:als:Main_Page|алеманської Вікіпедії]].",

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alexmar983",
-			"Beta16"
+			"Beta16",
+			"Nastoshka"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia in afar",
@@ -71,6 +72,7 @@
 	"project-localized-name-bewikibooks": "Wikibooks in bielorusso",
 	"project-localized-name-bewikiquote": "Wikiquote in bielorusso",
 	"project-localized-name-bewikisource": "Wikisource in bielorusso",
+	"project-localized-name-be_x_oldwiki": "Wikipedia in bielorusso (Taraškievica)",
 	"project-localized-name-bgwiki": "Wikipedia in bulgaro",
 	"project-localized-name-bgwiktionary": "Wikizionario in bulgaro",
 	"project-localized-name-bgwikibooks": "Wikibooks in bulgaro",

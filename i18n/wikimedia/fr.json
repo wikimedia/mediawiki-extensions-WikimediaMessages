@@ -302,6 +302,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Il y a un problème avec vous vous connecter en global. Si vous venez de créer votre compte, veuillez vous déconnecter et reconnecter, puis essayez à nouveau d'autoriser l'application. Si vous n'avez pas crée de compte, veuillez visiter un autre site Wikimedia tout en étant connecté à [https://mediawiki.org/ mediawiki.org] — et puis essayez à nouveau d'autoriser l'application. (Code d'erreur: E008)",
 	"search-interwiki-results-abwiki": "Afficher les résultats pour [[:ab:Main_Page|Wikipédia abkhaze]].",
 	"search-interwiki-results-acewiki": "Afficher les résultats pour [[:ace:Main_Page|Wikipédia achinais]].",
+	"search-interwiki-results-adywiki": "Affichage des résultats pour [[:ady:Main_Page|Adyghe Wikipedia]].",
 	"search-interwiki-results-afwiki": "Afficher les résultats pour [[:af:Main_Page|Wikipédia afrikaans]].",
 	"search-interwiki-results-akwiki": "Afficher les résultats pour [[:ak:Main_Page|Wikipédia akan]].",
 	"search-interwiki-results-alswiki": "Afficher les résultats pour [[:als:Main_Page|Wikipédia alémanique]].",

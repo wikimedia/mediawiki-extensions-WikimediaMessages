@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Ainali"
 		]
 	},
 	"project-localized-name-arwiki": "Arabiskspråkiga Wikipedia",
@@ -47,8 +48,43 @@
 	"project-localized-name-svwikibooks": "Svenskspråkiga Wikibooks",
 	"project-localized-name-svwikiquote": "Svenskspråkiga Wikiquote",
 	"project-localized-name-svwikiversity": "Svenskspråkiga Wikiversity",
+	"project-localized-name-bewikimedia": "Wikimedia Belgium",
+	"project-localized-name-betawikiversity": "Wikiversity Beta",
+	"project-localized-name-chapcomwiki": "Affcom",
+	"project-localized-name-cowikimedia": "Wikimedia Colombia",
+	"project-localized-name-collabwiki": "Collab",
+	"project-localized-name-commonswiki": "Wikimedia Commons",
+	"project-localized-name-fdcwiki": "Wikimedia FDC",
+	"project-localized-name-fiwikimedia": "Wikimedia Finland",
+	"project-localized-name-foundationwiki": "Wikimedia Foundation",
+	"project-localized-name-ilwikimedia": "Wikimedia Israel",
+	"project-localized-name-incubatorwiki": "Wikimedia Incubator",
+	"project-localized-name-labswiki": "Wikitech",
+	"project-localized-name-mediawikiwiki": "MediaWiki",
+	"project-localized-name-metawiki": "Meta-Wiki",
+	"project-localized-name-nycwikimedia": "Wikimedia New York City",
+	"project-localized-name-otrs_wikiwiki": "OTRS Wiki",
+	"project-localized-name-pa_uswikimedia": "Wikimedia Pennsylvania",
 	"project-localized-name-ruwikimedia": "Wikimedia Ryssland",
 	"project-localized-name-sewikimedia": "Wikimedia Sverige",
 	"project-localized-name-sourceswiki": "Wikisource",
-	"project-localized-name-wikidatawiki": "Wikidata"
+	"project-localized-name-specieswiki": "Wikispecies",
+	"project-localized-name-tenwiki": "Wikipedia 10",
+	"project-localized-name-testwikidatawiki": "Wikidata Test Wiki",
+	"project-localized-name-ukwikimedia": "Wikimedia UK",
+	"project-localized-name-wikidatawiki": "Wikidata",
+	"project-localized-name-wikimania2005wiki": "Wikimania 2005 Wiki",
+	"project-localized-name-wikimania2006wiki": "Wikimania 2006 Wiki",
+	"project-localized-name-wikimania2007wiki": "Wikimania 2007 Wiki",
+	"project-localized-name-wikimania2008wiki": "Wikimania 2008 Wiki",
+	"project-localized-name-wikimania2009wiki": "Wikimania 2009 Wiki",
+	"project-localized-name-wikimania2010wiki": "Wikimania 2010 Wiki",
+	"project-localized-name-wikimania2011wiki": "Wikimania 2011 Wiki",
+	"project-localized-name-wikimania2012wiki": "Wikimania 2012 Wiki",
+	"project-localized-name-wikimania2013wiki": "Wikimania 2013 Wiki",
+	"project-localized-name-wikimania2014wiki": "Wikimania 2014 Wiki",
+	"project-localized-name-wikimania2015wiki": "Wikimania 2015 Wiki",
+	"project-localized-name-wikimania2016wiki": "Wikimania 2016 Wiki",
+	"project-localized-name-wikimania2017wiki": "Wikimania 2017 Wiki",
+	"project-localized-name-zerowiki": "Wikipedia Zero"
 }
