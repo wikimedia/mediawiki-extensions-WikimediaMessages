@@ -16,6 +16,9 @@
 		"WikimediaMessages": [
 			"i18n/wikimedia"
 		],
+		"WikimediaInterwikiSearchResultsMessages": [
+			"i18n/interwikisearchresults"
+		],
 		"WikimediaTemporaryMessages": [
 			"i18n/temporary"
 		],
