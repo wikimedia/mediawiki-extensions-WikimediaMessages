@@ -294,6 +294,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly.",
 	"search-interwiki-results-abwiki": "Search results description for Abkhaz Wikipedia.",
 	"search-interwiki-results-acewiki": "Search results description for Acehnese Wikipedia.",
+	"search-interwiki-results-adywiki": "Search results description for Adyghe Wikipedia.",
 	"search-interwiki-results-afwiki": "Search results description for Afrikaans Wikipedia.",
 	"search-interwiki-results-akwiki": "Search results description for Akan Wikipedia.",
 	"search-interwiki-results-alswiki": "Search results description for Alemannic Wikipedia.",

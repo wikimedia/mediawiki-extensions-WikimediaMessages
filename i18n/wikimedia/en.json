@@ -268,6 +268,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "There was a problem with logging you in globally. If you just created your account, please log out and log back in, then try again to authorize the app. If you did not just create your account, please visit another Wikimedia site while logged in — such as [https://mediawiki.org/ mediawiki.org] — and then try again to authorize the app. (Error code: E008)",
 	"search-interwiki-results-abwiki": "Showing results from [[:ab:Main_Page|Abkhaz Wikipedia]].",
 	"search-interwiki-results-acewiki": "Showing results from [[:ace:Main_Page|Acehnese Wikipedia]].",
+	"search-interwiki-results-adywiki": "Showing results from [[:ady:Main_Page|Adyghe Wikipedia]].",
 	"search-interwiki-results-afwiki": "Showing results from [[:af:Main_Page|Afrikaans Wikipedia]].",
 	"search-interwiki-results-akwiki": "Showing results from [[:ak:Main_Page|Akan Wikipedia]].",
 	"search-interwiki-results-alswiki": "Showing results from [[:als:Main_Page|Alemannic Wikipedia]].",
