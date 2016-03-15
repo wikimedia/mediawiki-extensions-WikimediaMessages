@@ -260,6 +260,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "אירעה בעיה עם כניסה גלובלית. אם יצרת את החשבון זה עתה, נא לצאת ולהיכנס חזרה, ואז לנסות שוב לאשר את היישום. אם לא יצרת את החשבון זה עתה נא לבקר באתר ויקימדיה אחר בתוך החשבון – למשל [https://mediawiki.org/ mediawiki.org] – ואז לנסות שוב לאשר את היישום. (קוד שגיאה: E008)",
 	"search-interwiki-results-abwiki": "הצגת תוצאות מתוך [[:ab:Main_Page|ויקיפדיה באבחזית]].",
 	"search-interwiki-results-acewiki": "הצגת תוצאות מתוך [[:ace:Main_Page|ויקיפדיה באצ'ה]].",
+	"search-interwiki-results-adywiki": "הצגת תוצאות מתוך [[:ady:Main_Page|ויקיפדיה צ'רקסית]].",
 	"search-interwiki-results-afwiki": "הצגת תוצאות מתוך [[:af:Main_Page|ויקיפדיה באפריקאנס]].",
 	"search-interwiki-results-akwiki": "הצגת תוצאות מתוך [[:ak:Main_Page|ויקיפדיה באקן]].",
 	"search-interwiki-results-alswiki": "הצגת תוצאות מתוך [[:als:Main_Page|ויקיפדיה באלמאנית]].",

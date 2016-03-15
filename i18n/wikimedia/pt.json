@@ -25,7 +25,8 @@
 			"Opraco",
 			"He7d3r",
 			"Fúlvio",
-			"Macofe"
+			"Macofe",
+			"Imperadeiro98"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -37,6 +38,13 @@
 	"nstab-institution": "Instituição",
 	"nstab-sequence": "Sequência",
 	"nstab-timedtext": "Legendagem",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Tentar outro artigo ►",
+	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "Esta página pode ter erros ortográficos ou gramaticais que pode corrigir.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Editar o artigo inteiro...",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clique \"{{int:vector-view-edit}}\" para alterar o conteúdo em qualquer lugar do artigo.",
+	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Clicar em \"{{int:showpreview}}\" permite-lhe verificar como ficará a página após as suas alterações. Não se esqueça de as gravar.",
+	"gettingstarted-cta-edit-page-wikipedia": "Editar este artigo",
+	"gettingstarted-cta-fix-pages-wikipedia": "Editar um artigo sugerido",
 	"group-Image-reviewer": "Revisores de imagens",
 	"group-Image-reviewer-member": "{{GENDER:$1|revisor|revisora|revisor(a)}} de imagens",
 	"grouppage-Image-reviewer": "{{ns:project}}:Revisores de imagens",
@@ -199,5 +207,6 @@
 	"wikimedia-sulrenamewarning-usenew": "A partir de agora precisará de usar o seu novo nome de conta <strong>$1</strong> para iniciar sessão. O seu novo nome de utilizador(a) é exclusivo para que possa utilizar qualquer projeto Wikimedia, e se se estiver autenticado num projeto e visitar outro, a sua conta será automaticamente assumida. A [[:m:Special:MyLanguage/Help:Unified_login|página de ajuda sobre contas unificadas]] possui mais informações sobre o início de sessão de utilizador único, bem como uma lista das perguntas mais frequentes. Se necessitar de atualizar o seu endereço de correio eletrónico ou alterar a sua palavra-passe nas suas [[Special:Preferences|preferências]], agora poderá ser uma boa altura para o fazer. \n\nPara solicitar um nome diferente para a conta, visite [[Special:GlobalRenameRequest]].\n\nObrigado pela sua participação nos projetos Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\nConsulte os [[m:Special:CentralAuth/$1|detalhes da conta global]] para mais informação.",
 	"wikimedia-centralauth-uwbr-intro": "Esta página lista os utilizadores registados nesta wiki que serão renomeados, devido à [[m:Single User Login finalisation announcement|finalização do processo de início de sessão único]]. Mais informações em [[m:Help:Unified login|''login'' unificado]]. Os utilizadores podem solicitar uma alteração de nome, a qualquer momento, recorrendo a [[Special:GlobalRenameRequest]].",
-	"right-viewdeletedfile": "Ver ficheiros e páginas eliminadas nos domínios {{ns:file}} e {{ns:file_talk}}"
+	"right-viewdeletedfile": "Ver ficheiros e páginas eliminadas nos domínios {{ns:file}} e {{ns:file_talk}}",
+	"search-interwiki-results-adywiki": "A mostrar resultados de [[:ady:Main_Page|Wikipédia em adigue]]."
 }

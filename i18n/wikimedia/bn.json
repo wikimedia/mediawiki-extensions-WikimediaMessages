@@ -9,7 +9,8 @@
 			"Prometheus.pyrphoros",
 			"Wikitanvir",
 			"Zaheen",
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"Bodhisattwa"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -21,6 +22,10 @@
 	"nstab-institution": "প্রতিষ্ঠান",
 	"nstab-sequence": "ক্রম",
 	"nstab-timedtext": "টাইমডটেক্সট",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "অন্য নিবন্ধ চেষ্টা করুন ►",
+	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "এই নিবন্ধে আপনার সংশোধনযোগ্য বানান বা ব্যাকরণগত ভুল থাকতে পারে",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "সম্পূর্ণ নিবন্ধ সম্পাদনা করুন…",
+	"gettingstarted-cta-edit-page-wikipedia": "এই নিবন্ধ সম্পাদনা করুন",
 	"group-Image-reviewer": "চিত্র পর্যালোচক",
 	"group-Image-reviewer-member": "{{GENDER:$1|চিত্র পর্যালোচক}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:চিত্র পর্যালোচক",
@@ -195,6 +200,9 @@
 	"interlanguage-link-sitename-dmoz": "DMOZ ওয়েব নির্দেশিকা",
 	"right-superprotect": "সুপার সুরক্ষার মাত্রা পরিবর্তন করুন",
 	"restriction-level-superprotect": "সুপার সুরক্ষা",
+	"right-templateeditor": "সংরক্ষিত টেমপ্লেটসমূহ সম্পাদনা করুন",
+	"restriction-level-templateeditor": "টেমপ্লেট সুরক্ষিত",
+	"protect-level-templateeditor": "একমাত্র টেমপ্লেট সম্পাদক ও প্রশাসকদের অনুমতি দিন",
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" হিসাবে সুরক্ষিত পাতায় সম্পাদনা",
 	"protect-level-editeditorprotected": "কেবল সম্পাদককে অনুমতি দাও",
 	"restriction-level-editeditorprotected": "সম্পাদক সুরক্ষিত",
@@ -310,6 +318,7 @@
 	"search-interwiki-results-tawiki": "[[:ta:Main_Page|তামিল উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
 	"search-interwiki-results-tewiki": "[[:te:Main_Page|তেলুগু উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
 	"search-interwiki-results-thwiki": "[[:th:Main_Page|থাই উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
+	"search-interwiki-results-tlwiki": "[[:tl:Main_Page|তাগালোগ উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
 	"search-interwiki-results-trwiki": "[[:tr:Main_Page|তুর্কি উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
 	"search-interwiki-results-ttwiki": "[[:tt:Main_Page|তাতার উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
 	"search-interwiki-results-ugwiki": "[[:ug:Main_Page|উইগুর উইকিপিডিয়া]] থেকে ফলাফল দেখানো হচ্ছে।",
