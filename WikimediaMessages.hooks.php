@@ -456,7 +456,7 @@ class WikimediaMessagesHooks {
 				'Wikicitati'  => 's Wikicitatima',
 				'Wikiizvor'   => 's Wikiizvorom',
 				'Wikiknjige'  => 's Wikiknjigama',
-				'Wikipedia'   => 's Wikipediom',
+				'Wikipedia'   => 's Wikipedijom', // T130141
 				'Wikivijesti' => 's Wikivijestima',
 			),
 			# lokative
