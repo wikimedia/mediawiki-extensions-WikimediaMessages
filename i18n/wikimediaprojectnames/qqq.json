@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Beta16"
+			"Beta16",
+			"Amire80"
 		]
 	},
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
@@ -78,7 +79,7 @@
 	"project-localized-name-bgwikinews": "{{ProjectNameDocumentation|url=https://bg.wikinews.org|name=Bulgarian Wikinews|language=bg}}",
 	"project-localized-name-bgwikiquote": "{{ProjectNameDocumentation|url=https://bg.wikiquote.org|name=Bulgarian Wikiquote|language=bg}}",
 	"project-localized-name-bgwikisource": "{{ProjectNameDocumentation|url=https://bg.wikisource.org|name=Bulgarian Wikisource|language=bg}}",
-	"project-localized-name-bhwiki": "{{ProjectNameDocumentation|url=https://bh.wikipedia.org|name=Bihari Wikipedia|language=bh}}",
+	"project-localized-name-bhwiki": "{{ProjectNameDocumentation|url=https://bh.wikipedia.org|name=Bihari Wikipedia|language=bho}}",
 	"project-localized-name-bhwiktionary": "{{ProjectNameDocumentation|url=https://bh.wiktionary.org|name=Bihari Wiktionary|language=bho}}",
 	"project-localized-name-biwiki": "{{ProjectNameDocumentation|url=https://bi.wikipedia.org|name=Bislama Wikipedia|language=bi}}",
 	"project-localized-name-biwiktionary": "{{ProjectNameDocumentation|url=https://bi.wiktionary.org|name=Bislama Wiktionary|language=bi}}",
@@ -133,7 +134,7 @@
 	"project-localized-name-crwiki": "{{ProjectNameDocumentation|url=https://cr.wikipedia.org|name=Cree Wikipedia|language=cr}}",
 	"project-localized-name-crwiktionary": "{{ProjectNameDocumentation|url=https://cr.wiktionary.org|name=Cree Wiktionary|language=cr}}",
 	"project-localized-name-crwikiquote": "{{ProjectNameDocumentation|url=https://cr.wikiquote.org|name=Cree Wikiquote|language=cr}}",
-	"project-localized-name-crhwiki": "{{ProjectNameDocumentation|url=https://crh.wikipedia.org|name=Crimean Turkish Wikipedia|language=crh-latn}}",
+	"project-localized-name-crhwiki": "{{ProjectNameDocumentation|url=https://crh.wikipedia.org|name=Crimean Turkish Wikipedia|language=crh}}",
 	"project-localized-name-cswiki": "{{ProjectNameDocumentation|url=https://cs.wikipedia.org|name=Czech Wikipedia|language=cs}}",
 	"project-localized-name-cswiktionary": "{{ProjectNameDocumentation|url=https://cs.wiktionary.org|name=Czech Wiktionary|language=cs}}",
 	"project-localized-name-cswikibooks": "{{ProjectNameDocumentation|url=https://cs.wikibooks.org|name=Czech Wikibooks|language=cs}}",
@@ -418,7 +419,7 @@
 	"project-localized-name-lbwiktionary": "{{ProjectNameDocumentation|url=https://lb.wiktionary.org|name=Luxembourgish Wiktionary|language=lb}}",
 	"project-localized-name-lbwikibooks": "{{ProjectNameDocumentation|url=https://lb.wikibooks.org|name=Luxembourgish Wikibooks|language=lb}}",
 	"project-localized-name-lbwikiquote": "{{ProjectNameDocumentation|url=https://lb.wikiquote.org|name=Luxembourgish Wikiquote|language=lb}}",
-	"project-localized-name-lbewiki": "{{ProjectNameDocumentation|url=https://lbe.wikipedia.org|name=Laki Wikipedia|language=lbe}}",
+	"project-localized-name-lbewiki": "{{ProjectNameDocumentation|url=https://lbe.wikipedia.org|name=Lak Wikipedia|language=lbe}}",
 	"project-localized-name-lezwiki": "{{ProjectNameDocumentation|url=https://lez.wikipedia.org|name=Lezghian Wikipedia|language=lez}}",
 	"project-localized-name-lgwiki": "{{ProjectNameDocumentation|url=https://lg.wikipedia.org|name=Ganda Wikipedia|language=lg}}",
 	"project-localized-name-liwiki": "{{ProjectNameDocumentation|url=https://li.wikipedia.org|name=Limburgish Wikipedia|language=li}}",
