@@ -72,7 +72,7 @@
 	"wm-license-information-author": "Аўтар",
 	"wm-license-information-author-missing": "У апісаньні гэтага файла не хапае інфармацыі пра '''аўтара'''.",
 	"wm-license-information-permission": "Дазвол",
-	"wm-license-information-permission-reusing-text": "Паўторнае выкарыстаньне гэтага файла",
+	"wm-license-information-permission-reusing-text": "Паўторнае выкарыстаньне гэтага файлу",
 	"wm-license-information-permission-see-below": "Глядзіце ніжэй.",
 	"wm-license-information-other-versions": "Іншыя вэрсіі",
 	"wm-license-lgpl-text": "Гэтая бібліятэка зьяўляецца [[{{int:wm-license-free-software-wiki-link}}|вольным праграмным забесьпячэньнем]]; Вы можаце распаўсюджваць і/альбо зьмяняць яе згодна з умовамі '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' апублікаванай  [[{{int:wm-license-fsf-wiki-link}}|Фундацыяй вольнага праграмнага забесьпячэньня]]; вэрсіі 2.1 ці больш позьняй, ці (па Вашаму жаданьню) любой больш позьняй вэрсіі. Гэтая бібліятэка распаўсюджваецца з надзеяй, што будзе карыснай, але '''без гарантыяў'''; у тым ліку гарантыяў '''таварнай прыдатнасьці''' альбо '''прыдатнасьці для асобных мэтаў'''. Глядзіце падрабязнасьці ў [{{int:wm-license-lgpl-2.1-full-link}} вэрсіі 2.1] і [{{int:wm-license-lgpl-3-full-link}} вэрсіі 3 GNU Lesser General Public License].",
