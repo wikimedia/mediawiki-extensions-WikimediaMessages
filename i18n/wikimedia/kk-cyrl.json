@@ -175,7 +175,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Тіркелгі сұрау",
 	"createacct-captcha-help-url": "{{ns:Project}}:Тіркелгі сұрау",
 	"wikimedia-developers": "Жасақтаушылар",
-	"wikimedia-flow-terms-of-use-edit": "Бетті сақтасаңыз, біздің [//wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары] және [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] және [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] аясында мәтініңізді қайтарымсыз жариялағаныңызға аясында келіскеніңіз болып табылады.",
+	"wikimedia-flow-terms-of-use-edit": "Бетті сақтасаңыз, біздің [//wikimediafoundation.org/wiki/Terms_of_Use қолдану шарттары] және [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] және [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] аясында мәтініңізді қайтарымсыз жариялағаныңызға келіскеніңіз болып табылады.",
 	"wikimedia-upload-nolicenses": "Бұл уикиде файлдарды жүктеу іске қосылмаған. [[commons:Special:UploadWizard|Ортаққорға жүктеңіз]].\n\nБұл арнайы бет арқылы бұл уикиге жүктеуді қолдану үшін әкімші [[MediaWiki:Licenses]] бетіне бір не бірнеше лицензия параметрлерін қосуды қажет етеді.\n\nКелесі пішінді қолданыңыз: <code>* Үлгі атауы|Сипаттамасы</code>. Лицензия параметрлерінсіз жүктеуді іске қосу үшін қандай бір мәтін қолданыңыз.",
 	"wikimediashoplink-linktext": "Уикимедиа дүкені",
 	"wikimediashoplink-link-tooltip": "Уикимедиа дүкеніне барып қайту",
