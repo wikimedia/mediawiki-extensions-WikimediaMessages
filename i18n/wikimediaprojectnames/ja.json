@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Otokoume"
+			"Otokoume",
+			"Sujiniku"
 		]
 	},
 	"project-localized-name-jawiki": "ウィキペディア日本語版",
 	"project-localized-name-metawiki": "メタウィキ",
-	"project-localized-name-sourceswiki": "ウィキソース",
+	"project-localized-name-sourceswiki": "多言語ウィキソース",
 	"project-localized-name-specieswiki": "ウィキスピーシーズ",
 	"project-localized-name-wikidatawiki": "ウィキデータ"
 }
