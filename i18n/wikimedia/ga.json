@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alison"
+			"Alison",
+			"Tem"
 		]
 	},
 	"wikimediamessages-desc": "Teachtaireachtaí sainiúil an Viciméid",
@@ -43,5 +44,8 @@
 	"group-steward-member": "maor",
 	"group-sysadmin": "Riarthóirí",
 	"group-sysadmin-member": "riarthóir",
-	"shared-repo-name-shared": "an Cómhaoin Vicíméid"
+	"shared-repo-name-shared": "an Cómhaoin Vicíméid",
+	"wikibase-sitelinks-wikinews": "Vicínuacht",
+	"wikibase-sitelinks-wikiquote": "Vicíshliocht",
+	"wikimedia-developers": "Forbróirí"
 }

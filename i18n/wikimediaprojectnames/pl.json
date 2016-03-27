@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
-			"Matma Rex"
+			"Matma Rex",
+			"Peter Bowman"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia w języku afar",
@@ -819,7 +820,7 @@
 	"project-localized-name-mediawikiwiki": "MediaWiki",
 	"project-localized-name-metawiki": "Meta-Wiki",
 	"project-localized-name-plwikimedia": "Wikimedia Polska",
-	"project-localized-name-sourceswiki": "Wikiźródła",
+	"project-localized-name-sourceswiki": "Wielojęzykowe Wikiźródła",
 	"project-localized-name-spcomwiki": "Spcom",
 	"project-localized-name-specieswiki": "Wikispecies",
 	"project-localized-name-tenwiki": "Wikipedia 10",
