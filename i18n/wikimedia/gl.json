@@ -253,6 +253,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Occorreu un problema no seu acceso global. Se creou a súa conta recentemente, por favor saia do sistema e volva a acceder, e despóis intente autorizar a aplicación. Se non creou a súa conta recentemente, por favor visite outro sitio Wikimedia mentres estea rexistrado (coma [https://mediawiki.org/ mediawiki.org]) e intente autorizar a aplicación de novo. (Código de erro: E008)",
 	"search-interwiki-results-abwiki": "Resultados da [[:ab:Main_Page|Wikipedia en abkhazo]].",
 	"search-interwiki-results-acewiki": "Resultados da [[:ace:Main_Page|Wikipedia en achenés]].",
+	"search-interwiki-results-adywiki": "Resultados da [[:ady:Main_Page|Wikipedia en adigué]].",
 	"search-interwiki-results-afwiki": "Resultados da [[:af:Main_Page|Wikipedia en africáner]].",
 	"search-interwiki-results-akwiki": "Resultados da [[:ak:Main_Page|Wikipedia en akán]].",
 	"search-interwiki-results-alswiki": "Resultados da [[:als:Main_Page|Wikipedia en alemánico]].",
