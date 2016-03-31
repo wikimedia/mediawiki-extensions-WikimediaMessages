@@ -237,6 +237,7 @@
 	"restriction-level-templateeditor": "modelo protexido",
 	"protect-level-templateeditor": "Permitir só os editores de modelos e administradores",
 	"right-establishededitor": "Editar páxinas restrinxidas",
+	"restriction-level-establishededitor": "protexido por editor confirmado",
 	"protect-level-establishededitor": "Permitir só os editores consolidados e administradores",
 	"right-editeditorprotected": "Editar páxinas protexidas como «{{int:protect-level-editeditorprotected}}»",
 	"protect-level-editeditorprotected": "Permitir só editores",
