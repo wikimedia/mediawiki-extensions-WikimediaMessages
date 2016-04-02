@@ -33,6 +33,18 @@
 	"nstab-institution": "Institució",
 	"nstab-sequence": "Seqüència",
 	"nstab-timedtext": "TimedText",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Prova un altre article ►",
+	"gettingstarted-task-toolbar-no-suggested-page-wikipedia": "Disculpes. No hem pogut trobar més articles a millorar ara mateix. Intenteu-ho de nou en uns moments o cerqueu els vostres temes d'interès.",
+	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "Aquest article pot tenir errors d'ortografia o gramàtica que podeu corregir.",
+	"gettingstarted-task-copyedit-toolbar-try-another-title-wikipedia": "Aneu a un article aleatori que podeu millorar per correcció d'estil",
+	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Aquest article està identificat per altres usuaris de {{SITENAME}} com que necessita millores. No cal ser un expert en el tema per ajudar-hi.",
+	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Aquests rètols identifiquen problemes de l'article. No cal arreglar-los tots, feu només el que us faci sentir còmode.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Edició de l'article sencer…",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Cliqueu «{{int:vector-view-edit}}» per modificar qualsevol contingut de l'article.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Ara ja podeu editar el contingut de l'article. Quan estigueu feu clic a «{{int:visualeditor-toolbar-savedialog}}» per revisar i desar els canvis.",
+	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Si cliqueu a «{{int:showpreview}}» podreu veure com quedarà l'article amb els canvis. En acabat, no us oblideu de desar.",
+	"gettingstarted-cta-edit-page-wikipedia": "Modifica aquest article",
+	"gettingstarted-cta-fix-pages-wikipedia": "Edita un article suggerit.",
 	"group-Image-reviewer": "Revisors d'imatges",
 	"group-Image-reviewer-member": "{{GENDER:$1|revisor d'imatges|revisora d'imatges}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Revisors d'imatges",
@@ -171,6 +183,5 @@
 	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure",
 	"restriction-level-superprotect": "superprotegeix",
 	"wikimedia-feedback-termsofuse": "Estic d'acord en publicar comentaris d'acord amb les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Condicions d'ús</a>.",
-	"wikimedia-sulrenamewarning-usenew": "A partir d'ara cal que inicieu la sessió amb el nou nom d'usuari <strong>$1</strong>. El nom nou és únic per tots els projectes de Wikimedia i si inicieu sessió en un projecte, la mantindreu amb el mateix compte quan en visiteu un altre. La [[:m:Special:MyLanguage/Help:Unified_login|pàgina d'ajuda d'identificació unificada]] té més informació sobre l'inici de sessió únic, així com una llista de les preguntes més freqüents. Si necessiteu actualitzar la vostra adreça de correu electrònic o canviar la contrasenya en les vostres [[Special:Preferences|preferències]], ara potser és un bon moment per fer-ho.\n\nPer demanar un nom de compte diferent, aneu a [[Special:GlobalRenameRequest]]. Us agraïm la vostra participació als projectes de Wikimedia.",
-	"search-interwiki-results-cawiki": "Resultats de la [[:ca:Main_Page|Viquipèdia en català]]."
+	"wikimedia-sulrenamewarning-usenew": "A partir d'ara cal que inicieu la sessió amb el nou nom d'usuari <strong>$1</strong>. El nom nou és únic per tots els projectes de Wikimedia i si inicieu sessió en un projecte, la mantindreu amb el mateix compte quan en visiteu un altre. La [[:m:Special:MyLanguage/Help:Unified_login|pàgina d'ajuda d'identificació unificada]] té més informació sobre l'inici de sessió únic, així com una llista de les preguntes més freqüents. Si necessiteu actualitzar la vostra adreça de correu electrònic o canviar la contrasenya en les vostres [[Special:Preferences|preferències]], ara potser és un bon moment per fer-ho.\n\nPer demanar un nom de compte diferent, aneu a [[Special:GlobalRenameRequest]]. Us agraïm la vostra participació als projectes de Wikimedia."
 }

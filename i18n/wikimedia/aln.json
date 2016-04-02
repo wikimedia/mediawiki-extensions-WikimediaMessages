@@ -52,7 +52,7 @@
 	"group-inactive-member": "përdorues joaktiv",
 	"grouppage-inactive": "{{ns:project}}:Përdoruesit joaktiv",
 	"group-interface-editor": "redaktorët Interface",
-	"group-interface-editor-member": "!!FUZZY!!editor interface",
+	"group-interface-editor-member": "editor interface",
 	"grouppage-interface-editor": "{{ns:project}}:redaktorët Interface",
 	"group-ipblock-exempt": "Përjashtimet e bllokimeve të IP've",
 	"group-ipblock-exempt-member": "përjashtim nga bllokimi i IP've",

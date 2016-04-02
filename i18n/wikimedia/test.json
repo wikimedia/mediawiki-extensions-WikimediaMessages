@@ -1,8 +1,6 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "sitesupport-url": "x",
-    "sitesupport": "x",
-    "tooltip-n-sitesupport": "x"
+	"@metadata": [],
+	"sitesupport-url": "x",
+	"sitesupport": "x",
+	"tooltip-n-sitesupport": "x"
 }

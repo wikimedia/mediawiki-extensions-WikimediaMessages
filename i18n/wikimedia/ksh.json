@@ -221,11 +221,5 @@
 	"wikimedia-centralauth-uwbr-intro": "Heh di Sigg zeijsch de aanjemälldte Metmaacher vun heh dämm Wikki, di em Rahme vum [[m:Single User Login finalisation announcement|Fäädeschmahche vum de jemeinsamme Zohjäng]] ömjenannt wähde sulle. Mieh doh drövver kam_mer op dä [[:m:Special:MyLanguage/Help:Unified_login|Sigg met Hölp övver de jemeinamme Zohjäng]] lässe. Öm ene janz andere Nahme för sesch ze krijje, jeiht mer op di Sigg „<code lang=\"en\" xml:lang=\"en\" dir=\"ltr\">[[Special:GlobalRenameRequest]]</code>“.",
 	"wikimedia-centralauth-uwbr-registration-nodate": "vör em Johr 2006",
 	"right-viewdeletedfile": "Fottjeschmeße Datteije un Sigge en de Appachemangs „{{ns:file}}“ un „{{ns:file_talk}}“ belohre",
-	"securepoll-dblist-securepollglobal": "Vörschtandswahle",
-	"search-interwiki-results-adywiki": "Heh kütt, wadd en de [[:ady:Main_Page|Wikkipehdija op Adühgeschesch]] jefonge wohdt:",
-	"search-interwiki-results-bhwiki": "Heh kütt, wadd en de [[:bh:Main_Page|Wikkipehdija op Bodschpuhresch]] jefonge wohdt:",
-	"search-interwiki-results-hewiki": "Heh kütt, wadd en de [[:he:Main_Page|Wikkipehdija op Hebrähjesch]] jefonge wohdt:",
-	"search-interwiki-results-ndswiki": "Heh kütt, wadd en de [[:nds:Main_Page|Wikkipehdija op Platdütsch]] jefonge wohdt:",
-	"search-interwiki-results-nnwiki": "Heh kütt, wadd en de [[:nn:Main_Page|Wikkipehdija op Neunorwehjesch]] jefonge wohdt:",
-	"search-interwiki-results-nowiki": "Heh kütt, wadd en de [[:no:Main_Page|Wikkipehdija op Norwehjesch en Bokmål]] jefonge wohdt:"
+	"securepoll-dblist-securepollglobal": "Vörschtandswahle"
 }

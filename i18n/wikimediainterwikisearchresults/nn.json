@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
+	"search-interwiki-results-dawiki": "Viser resultat frå [[:da:Main_Page|Dansk Wikipedia]].",
+	"search-interwiki-results-dewiki": "Viser resultat frå [[:de:Main_Page|Tysk Wikipedia]].",
+	"search-interwiki-results-enwiki": "Viser resultat frå [[:en:Main_Page|Engelsk Wikipedia]].",
+	"search-interwiki-results-nowiki": "Viser resultat frå [[:no:Main_Page|Wikipedia på bokmål]]."
+}

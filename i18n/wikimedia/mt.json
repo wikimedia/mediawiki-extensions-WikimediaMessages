@@ -4,7 +4,8 @@
 			"Chrisportelli",
 			"Giangian15",
 			"Nemo bis",
-			"Leli Forte"
+			"Leli Forte",
+			"CharlieTheCabbie"
 		]
 	},
 	"wikimediamessages-desc": "Messaġġi speċifiki tal-Wikimedia",
@@ -16,6 +17,8 @@
 	"nstab-institution": "Istituzzjoni",
 	"nstab-sequence": "Sekwenza",
 	"nstab-timedtext": "Sottotitli",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Ipprova ieħor artikolu ►",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Issa tista jeditjaw il-kontenut artikolu. Meta inti qed isir, ikklikkja \"{{int:visualeditor-toolbar-savedialog}}\" teżamina u jiffrankaw bidliet tiegħek.",
 	"group-Image-reviewer": "Verifikaturi ta' stampi",
 	"group-Image-reviewer-member": "{{GENDER:$1|verifikatur ta' stampi}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Verifikaturi ta' stampi",

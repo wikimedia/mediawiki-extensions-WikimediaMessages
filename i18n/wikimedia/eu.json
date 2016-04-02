@@ -128,16 +128,5 @@
 	"wikimedia-torblock-blocked": "Zure IP helbidea, <strong>$1</strong>, Tor irteera-nodo gisa identifikatu da automatikoki.\nTor bidezko edizioak blokeatuta daude gehiegikeriak ekiditeko.\nBenetako erabiltzaileentzako informazio eta argibide gehiagorako, ikus [[m:Special:MyLanguage/No open proxies|proxy irekien aurkako]] politika globala.",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, entziklopedia askea",
-	"interlanguage-link-commons": "Wikimedia Commons",
-	"search-interwiki-results-bgwiki": "[[:bg:Main_Page|Bulgarierazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-fowiki": "[[:fo:Main_Page|Faroerazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-hywiki": "[[:hy:Main_Page|Armenierazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-kuwiki": "[[:ku:Main_Page|Kurduerazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-ltwiki": "[[:lt:Main_Page|Lituanierazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-pswiki": "[[:ps:Main_Page|Paxtuerazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-rowiki": "[[:ro:Main_Page|Errumanierazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-scwiki": "[[:sc:Main_Page|Sardinierazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-smwiki": "[[:sm:Main_Page|Samoerazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-tywiki": "[[:ty:Main_Page|Tahitierazko Wikipedia]]ko emaitzak erakusten.",
-	"search-interwiki-results-zuwiki": "[[:zu:Main_Page|Zuluerazko Wikipedia]]ko emaitzak erakusten."
+	"interlanguage-link-commons": "Wikimedia Commons"
 }

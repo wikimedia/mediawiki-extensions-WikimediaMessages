@@ -3,7 +3,8 @@
 		"authors": [
 			"Pyt",
 			"Snakesteuben",
-			"Robin0van0der0vliet"
+			"Robin0van0der0vliet",
+			"Robin van der Vliet"
 		]
 	},
 	"sitesupport": "Donaasjes",
@@ -15,8 +16,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikiboarne",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikibase-otherprojects-wikidata": "Wikidata",
 	"wikibase-otherprojects-wikibooks": "Wikiboeken",
+	"wikibase-otherprojects-wikidata": "Wikidata",
 	"wikibase-otherprojects-wikipedia": "Wikipedy",
 	"wikibase-otherprojects-wikisource": "Wikiboarne",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",

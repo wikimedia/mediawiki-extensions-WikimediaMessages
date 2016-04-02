@@ -192,21 +192,7 @@
 	"right-templateeditor": "Қорғалған үлгілерді өңдеу",
 	"restriction-level-templateeditor": "үлгі қорғалған",
 	"protect-level-templateeditor": "Үлгі өңдеушіллер мен әкімшілерге қана рұқсат ету",
-	"right-establishededitor": "Шектелген беттерді өңдеу",
+	"right-extendedconfirmed": "Шектелген беттерді өңдеу",
 	"right-editeditorprotected": "«{{int:protect-level-autoconfirmed}}» ретінде қорғалған беттерді өңдеу",
-	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету",
-	"search-interwiki-results-abwiki": "[[:ab:Main_Page|Авхазша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-afwiki": "[[:af:Main_Page|Африкаансша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-akwiki": "[[:ak:Main_Page|Аканша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-angwiki": "[[:ang:Main_Page|Ескі ағылшынша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-arwiki": "[[:ar:Main_Page|Арабша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-arzwiki": "[[:arz:Main_Page|Египеттік арабша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-azwiki": "[[:az:Main_Page|Әзірбайжанша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-barwiki": "[[:ar:Main_Page|Баварша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-bgwiki": "[[:bg:Main_Page|Болгарша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-bjnwiki": "[[:bjn:Main_Page|Банжарша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-bnwiki": "[[:bn:Main_Page|Бенгалша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-bxrwiki": "[[:bxr:Main_Page|Бурятшаша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-cawiki": "[[:ca:Main_Page|Каталанша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-enwiki": "[[:en:Main_Page|Ағылшынша Уикипедиядан]] нәтижелер көрсетілуде."
+	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету"
 }
