@@ -7,7 +7,8 @@
 			"Рустам Нурыев",
 			"ҒатаУлла",
 			"Nemo bis",
-			"Sagan"
+			"Sagan",
+			"Ләйсән"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиа өсөн махсус хәбәрҙәр",
@@ -105,7 +106,7 @@
 	"group-steward-member": "{{GENDER:$1|стюард}}",
 	"group-sysadmin": "Система хакимдәре",
 	"group-sysadmin-member": "{{GENDER:$1|система хакимы}}",
-	"group-translationadmin": "Тәржәмә хакимдары",
+	"group-translationadmin": "Тәржемә хакимдары",
 	"group-translationadmin-member": "{{GENDER:$1|тәржемә администраторы}}",
 	"grouppage-translationadmin": "{{ns:project}}:Тәржемә администраторҙары",
 	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> рөхсәтнамәһе буйынса рөхсәт ителгән; айырым осраҡта өҫтәмә шарттар ҡулланылыуы мөмкин.\nТулыраҡ мәғлүмәт алыу өсөн, <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Ҡулланыу шарттарын</a> ҡарағыҙ.",
