@@ -433,6 +433,7 @@ class WikimediaMessagesHooks {
 				'Wikiizvor'   => 'Wikiizvora',
 				'Wikiknjige'  => 'Wikiknjiga',
 				'Wikipedia'   => 'Wikipedije',
+				'Wikipodaci'  => 'Wikipodataka',
 			),
 			# dative
 			'dativ' => array(
@@ -441,6 +442,7 @@ class WikimediaMessagesHooks {
 				'Wikiizvor'   => 'Wikiizvoru',
 				'Wikiknjige'  => 'Wikiknjigama',
 				'Wikipedia'   => 'Wikipediji',
+				'Wikipodaci'  => 'Wikipodacima',
 				'Wikivijesti' => 'Wikivijestima',
 			),
 			# akusative
@@ -449,6 +451,7 @@ class WikimediaMessagesHooks {
 				'Wikicitati'  => 'Wikicitate',
 				'Wikiizvor'   => 'Wikiizvora',
 				'Wikipedia'   => 'Wikipediju',
+				'Wikipodaci'  => 'Wikipodatke',
 			),
 			# vocative
 			'vokativ' => array(
@@ -463,6 +466,7 @@ class WikimediaMessagesHooks {
 				'Wikiizvor'   => 's Wikiizvorom',
 				'Wikiknjige'  => 's Wikiknjigama',
 				'Wikipedia'   => 's Wikipedijom', // T130141
+				'Wikipodaci'  => 's Wikipodacima',
 				'Wikivijesti' => 's Wikivijestima',
 			),
 			# lokative
@@ -472,6 +476,7 @@ class WikimediaMessagesHooks {
 				'Wikiizvor'   => 'o Wikiizvoru',
 				'Wikiknjige'  => 'o Wikiknjigama',
 				'Wikipedia'   => 'o Wikipediji',
+				'Wikipodaci'  => 'o Wikipodacima',
 				'Wikivijesti' => 'o Wikivijestima',
 			),
 		); # bs
