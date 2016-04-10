@@ -10,7 +10,8 @@
 			"Petrus Adamus",
 			"ThomasPusch",
 			"Yekrats",
-			"Ziko"
+			"Ziko",
+			"Robin van der Vliet"
 		]
 	},
 	"wikimedialicensetexts-desc": "Mesaĝoj pri Wikimedia-permesiloj",
@@ -40,7 +41,7 @@
 	"wm-license-book-start-this-book": "Komenci ĉi tiun libron",
 	"wm-license-book-subtitle": "Subteksto",
 	"wm-license-book-title": "Titolo",
-	"wm-license-book-translator": "Tradukinto",
+	"wm-license-book-translator": "Tradukanto",
 	"wm-license-book-volume": "Volumo",
 	"wm-license-book-year-of-publication": "Jaro de eldonigo",
 	"wm-license-cecill-text": "Ĉi tiu verko estas [[{{int:wm-license-free-software-wiki-link}}|libera programo]]; vi povas redistribui aŭ modifi ĝin laŭ la kondiĉoj de la permesilo [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. La kondiĉoj de la permesilo CeCILL estas videblaj en [{{int:wm-license-cecill-full-link}} www.cecill.info].",
