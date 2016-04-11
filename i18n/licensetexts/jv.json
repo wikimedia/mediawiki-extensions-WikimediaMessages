@@ -43,7 +43,7 @@
 	"wm-license-creator-work-location": "Panggoné nggarap",
 	"wm-license-creator-linkback": "Ubungaké manèh nèng templat kothak inpo Panyipta",
 	"wm-license-gfdl-wiki-link": "w:jv:GFDL",
-	"wm-license-information-description": "Dèskripsi",
+	"wm-license-information-description": "Panyandra",
 	"wm-license-information-description-missing": "Berkas iki ora nduwé '''pawedharan''', lan mungkin kakurangan ipormasi liya.",
 	"wm-license-information-description-missing-request": "Mangga sumadhiyakaké pawedharan migunani kanggo berkas iki.",
 	"wm-license-information-source": "Sumber",
@@ -53,7 +53,7 @@
 	"wm-license-information-author": "Juru pangarang",
 	"wm-license-information-author-missing": "Berkas iki kakurangan inpormasi '''panganggit'''.",
 	"wm-license-information-permission": "Idin",
-	"wm-license-information-permission-reusing-text": "Anggo manèh berkasi iki",
+	"wm-license-information-permission-reusing-text": "Anggo manèh barkas iki",
 	"wm-license-information-permission-see-below": "Delok ngisor",
 	"wm-license-information-other-versions": "Vèrsi liya",
 	"wm-license-licensing-update-text": "Tag lisènsi iki ditambahaké nèng berkas iki minangka bagéyané [[{{int:wm-license-licensing-update-wiki-link}}|panganyaran lisènsi]] GFDL.",
@@ -75,5 +75,5 @@
 	"wm-license-self-one-license-with-author": "$1, sing nduwèni hak cipta karya iki, mawa iki nerbitaké berkas iki sakisoré lisènsi kasebut:",
 	"wm-license-self-multiple-licenses": "Kula, sing nduwèni hak cipta karya iki, mawa iki nerbitaké berkas iki sakisoré lisènsi kasebut:",
 	"wm-license-self-multiple-licenses-with-author": "$1, sing nduwèni hak cipta karya iki, mawa iki nerbitaké berkas iki sakisoré lisènsi kasebut:",
-	"wm-license-self-multiple-licenses-select": "Sampéyan olèh milih lisènsi Sampéyan."
+	"wm-license-self-multiple-licenses-select": "Sampéyan kena milih palilah sing dikarepaké."
 }

@@ -114,7 +114,11 @@
 	"group-translationadmin-member": "{{GENDER:$1|pangurus terjemahan}}",
 	"grouppage-translationadmin": "{{ns:project}}:Pangurus terjemahan",
 	"wikimedia-copyright": "Tulisan iki cumpepak sajeroning <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Palilah Atribusi-AndumMèmper Creative Commons</a>; bebaku tambahan bokmanawa lumaku. Waca <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Bebaku Panganggo</a> sing rinci.",
-	"wikimedia-copyrightwarning": "Mawa ngeklik tombol \"{{int:savearticle}}\", Sampéyan ngiyakaké [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Katemton Panganggoan], lan Sampéyan ngiyakaké yèn nguculaké kontribusi Sampéyan sarta ora kersa narik mbalik sakisoré [https://creativecommons.org/licenses/by-sa/3.0/ Lisènsi CC-BY-SA 3.0] lan [https://www.gnu.org/copyleft/fdl.html GFDL]. Sampéyan ngiyakaké yèn pranala utawa URL kuwi atribusi sing wis cukup sakisorè lisènsi Creative Commons.",
+	"wikimedia-copyrightwarning": "Kanthi nyimpen owahan, sampéyan sarujuk marang  [https://wikimediafoundation.org/wiki/Terms_of_Use Bebaku Panganggo], lan sampéyan tansah sarujuk kanthi mbabar sumbanganing sampéyan sangisoring [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Palilah CC BY-SA 3.0] lan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nSampéyan sarujuk bilih URL waé wis patut minangka atribusi miturut palilah Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikiwarta",
+	"wikibase-sitelinks-wikiquote": "Wikicuplik",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
+	"wikibase-sitelinks-wikivoyage": "Wikiwisata",
 	"cant-delete-main-page": "Sampéyan ora bisa mbusak utawa mindhahaké kaca utama.",
 	"wikimedia-translationnotifications-signup-legal": "Sampéyan ngiyakaké yèn nyadhiyakaké Yayasan Wikipédia informasi iki awak dhéwé bisa ngubungi Sampéyan ngenani terjamahan utawa topik liya sing ana kaitané karo gerakan Wikimédia awak dhéwé kersa marang Sampéyan. Sampéyan ngiyakaké data Sampéyan disimpen nèng Amèrika Serikat lan dadi [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy kabijakan privasi] awak dhéwé.",
 	"wikimedia-developers": "Juru pangembang"

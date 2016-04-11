@@ -1,8 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pras"
+			"Pras",
+			"NoiX180"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "atribusi"
+	"wm-license-cc-attribution": "Atribusi",
+	"wm-license-cc-free": "Sampéyan bébas:",
+	"wm-license-cc-free-to-share-header": "ngandum",
+	"wm-license-cc-free-to-share-text": "nyalin, nyebar, lan ngirim karya",
+	"wm-license-cc-free-to-remix-header": "nyampur",
+	"wm-license-cc-free-to-remix-text": "ngolah karya",
+	"wm-license-cc-conditions": "Sangisoré kahanan mangkéné:",
+	"wm-license-cc-conditions-attribution-header": "atribusi",
+	"wm-license-cc-conditions-attribution-text": "Sampeyan kudu ngatribusi karya kanthi cara sing ditemtokaké déning sing nggawé utawa sing ngidini (nanging aja kanthi cara sing miturut sampéyan dhéwé bokmanawa bener).",
+	"wm-license-cc-conditions-share_alike-header": "andum mèmper"
 }
