@@ -27,7 +27,8 @@
 			"아라",
 			"Davidzdh",
 			"Kuailong",
-			"凡人丶"
+			"凡人丶",
+			"飞舞回堂前"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -170,8 +171,8 @@
 	"group-global-sysop-member": "{{GENDER:$1|全域管理员}}",
 	"grouppage-global-sysop": "m:Global sysops/zh",
 	"group-massmessage-sender": "群发消息者",
-	"group-massmessage-sender-member": "{{GENDER:$1|大量消息发送者}}",
-	"grouppage-massmessage-sender": "{{ns:project}}:大量消息发送者",
+	"group-massmessage-sender-member": "{{GENDER:$1|群发消息者}}",
+	"grouppage-massmessage-sender": "{{ns:project}}:群发消息者",
 	"group-new-wikis-importer": "新维基导入者",
 	"group-new-wikis-importer-member": "{{GENDER:$1|新维基导入者}}",
 	"grouppage-new-wikis-importer": "m:New_wikis_importers/zh",
