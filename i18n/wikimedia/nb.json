@@ -11,7 +11,8 @@
 			"Nemo bis",
 			"Chameleon222",
 			"SuperPotato",
-			"Jeblad"
+			"Jeblad",
+			"Telaneo"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke beskjeder",
@@ -76,7 +77,7 @@
 	"group-inactive": "Inaktive brukere",
 	"group-inactive-member": "{{GENDER:$1|inaktiv bruker}}",
 	"grouppage-inactive": "{{ns:project}}:Inaktive brukere",
-	"group-interface-editor": "Bidragsytere til grensesnitt",
+	"group-interface-editor": "Grensesnittsredigerere",
 	"group-interface-editor-member": "{{GENDER:$1|grensesnittredakør}}",
 	"grouppage-interface-editor": "{{ns:project}}:Bidragsytere til grensesnitt",
 	"group-ipblock-exempt": "Unntatte fra IP-blokkering",

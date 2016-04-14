@@ -263,6 +263,6 @@
 	"wikimedia-centralauth-uwbr-registration-nodate": "לפני 2006",
 	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם {{ns:file}} ו{{GRAMMAR:תחילית|{{ns:file_talk}}}}",
 	"securepoll-dblist-securepollglobal": "בחירת ועד",
-	"wikimedia-mwoauthserver-invalid-user": "אירעה בעיה עם כניסה גלובלית. אם יצרת את החשבון זה עתה, נא לצאת ולהיכנס חזרה, ואז לנסות שוב לאשר את היישום. אם לא יצרת את החשבון זה עתה נא לבקר באתר ויקימדיה אחר בתוך החשבון – למשל [https://mediawiki.org/ mediawiki.org] – ואז לנסות שוב לאשר את היישום. (קוד שגיאה: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "אירעה בעיה עם כניסה גלובלית. אם יצרת את החשבון זה עתה, נא לצאת ולהיכנס חזרה, ואז לנסות שוב לאשר את היישום. אם לא יצרת את החשבון זה עתה נא לבקר באתר [https://meta.wikimedia.org/ meta.wikimedia.org] ואז לנסות שוב לאשר את היישום. (קוד שגיאה: E008)",
 	"wikimedia-cookiestatement": "הצהרה על עוגיות"
 }

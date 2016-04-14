@@ -234,6 +234,6 @@
 	"wikimedia-centralauth-uwbr-intro": "Đây là danh sách các thành viên có tài khoản trên wiki này mà sẽ được đổi tên do việc [[m:Single User Login finalisation announcement|hoàn thành quá trình hợp nhất tài khoản]]. Xem thêm chi tiết tại [[m:Help:Unified login|Đăng nhập thống nhất]]. Các thành viên có thể lúc nào yêu cầu đổi tên mình tại [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Xem các tập tin và trang bị xóa trong các không gian tên {{ns:file}} và {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Bầu cử cho Ban Quản trị",
-	"wikimedia-mwoauthserver-invalid-user": "Đã xuất hiện lỗi khi đăng nhập toàn cục. Nếu bạn vừa tạo tài khoản của bạn, xin hãy đăng xuất và đăng nhập lại, sau đó thử cấp quyền cho ứng dụng lần nữa. Nếu bạn không phải vừa tạo ra tài khoản, xin hãy mở một trang Wikimedia khác trong khi đã đăng nhập — ví dụ như [https://mediawiki.org/ mediawiki.org] — và thử cấp quyền cho ứng dụng lần nữa. (Mã lỗi: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "Đã xuất hiện lỗi khi đăng nhập toàn cục. Nếu bạn vừa mới tạo tài khoản, xin hãy đăng xuất và đăng nhập lại, sau đó thử cấp quyền cho ứng dụng lần nữa. Nếu bạn không phải vừa tạo ra tài khoản, xin hãy đến [https://meta.wikimedia.org/ meta.wikimedia.org] và thử cấp quyền cho ứng dụng lần nữa. (Mã lỗi: E008)",
 	"wikimedia-cookiestatement": "Tuyên bố về cookie"
 }

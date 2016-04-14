@@ -238,5 +238,6 @@
 	"protect-level-editextendedsemiprotected": "Consentito solo agli autoverificati",
 	"restriction-level-editextendedsemiprotected": "protetta autoverificato",
 	"wikimedia-centralauth-contribs-locked": "Questo utente è bloccato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
+	"wikimedia-mwoauthserver-invalid-user": "Si è verificato un problema con l'accesso globale. Se hai appena creato la tua utenza, esci e rientra, e poi ritenta ad autorizzare nuovamente l'applicazione. Se non hai appena creato la tua utenza, visita [https://meta.wikimedia.org/ meta.wikimedia.org], e poi ritenta ad autorizzare nuovamente l'applicazione. (Codice errore: E008)",
 	"wikimedia-cookiestatement": "Dichiarazione sui cookie"
 }
