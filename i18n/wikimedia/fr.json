@@ -303,6 +303,6 @@
 	"wikimedia-centralauth-uwbr-intro": "Cette page liste les utilisateurs enregistrés de ce wiki et qui seront renommés pour [[m:Single User Login finalisation announcement|la finalisation de la connexion unifiée]]. Plus d’informations sur la [[m:Help:Unified login|page d’aide de la connexion unifiée]]. Les utilisateurs peuvent demander le renommage à tout instant grâce au formulaire de la page [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}.",
 	"securepoll-dblist-securepollglobal": "Élection du conseil",
-	"wikimedia-mwoauthserver-invalid-user": "Il y a un problème avec vous vous connecter en global. Si vous venez de créer votre compte, veuillez vous déconnecter et reconnecter, puis essayez à nouveau d'autoriser l'application. Si vous n'avez pas crée de compte, veuillez visiter un autre site Wikimedia tout en étant connecté à [https://mediawiki.org/ mediawiki.org] — et puis essayez à nouveau d'autoriser l'application. (Code d'erreur: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "Il y a un problème pour vous connecter globalement. Si vous venez de créer votre compte, veuillez vous déconnecter et vous reconnecter, puis essayez à nouveau d’autoriser l’application. Si vous ne venez pas de créer votre compte, veuillez visiter [https://meta.wikimedia.org/ meta.wikimedia.org] puis essayez à nouveau d’autoriser l’application. (Code d’erreur : E008)",
 	"wikimedia-cookiestatement": "Déclaration sur les cookies"
 }
