@@ -8,7 +8,8 @@
 			"Kaztrans",
 			"Amangeldy",
 			"Nemo bis",
-			"Balnur.s"
+			"Balnur.s",
+			"Нұрлан Рахымжанов"
 		]
 	},
 	"wikimediamessages-desc": "Уикимедиа ерекше хабарламалары",
@@ -101,9 +102,9 @@
 	"group-rollbacker": "Шегіндірушілер",
 	"group-rollbacker-member": "{{GENDER:$1|шегіндіруші}}",
 	"grouppage-rollbacker": "{{ns:project}}:Шегіндірушілер",
-	"group-transwiki": "Уикиаралық импортаушылар",
-	"group-transwiki-member": "{{GENDER:$1|уикиаралық импортаушылар}}",
-	"grouppage-transwiki": "{{ns:project}}:Уикиаралық импортаушылар",
+	"group-transwiki": "Уикиаралық импорттаушылар",
+	"group-transwiki-member": "{{GENDER:$1|уикиаралық импорттаушылар}}",
+	"grouppage-transwiki": "{{ns:project}}:Уикиаралық импорттаушылар",
 	"group-templateeditor": "Үлгі өңдеушілер",
 	"group-templateeditor-member": "{{GENDER:$1|үлгі өңдеуші}}",
 	"grouppage-templateeditor": "{{ns:project}}:Үлгі өңдеушілер",
