@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Macofe",
-			"Pginer"
+			"Pginer",
+			"Lemondoge"
 		]
 	},
 	"project-localized-name-arwiki": "Wikipedia en árabe",
 	"project-localized-name-arcwiki": "Wikipedia en arameo",
 	"project-localized-name-astwiki": "Wikipedia en asturiano",
+	"project-localized-name-aywikibooks": "Aymara Wikilibros",
 	"project-localized-name-bawiki": "Wikipedia en baskir",
 	"project-localized-name-bswiki": "Wikipedia en bosnio",
 	"project-localized-name-cawiki": "Wikipedia en catalán",

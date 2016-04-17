@@ -37,7 +37,8 @@
 			"Matiia",
 			"-jem-",
 			"Wifidel",
-			"AlvaroMolina"
+			"AlvaroMolina",
+			"Lemondoge"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -207,6 +208,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikiversity": "Wikiversidad",
 	"wikibase-sitelinks-wikivoyage": "Wikiviajes",
+	"wikibase-otherprojects-wikibooks": "Wikilibros",
 	"wikibase-otherprojects-wikiversity": "Wikiversidad",
 	"wikibase-otherprojects-wikivoyage": "Wikiviajes",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
