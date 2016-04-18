@@ -6,7 +6,8 @@
 			"Jose77",
 			"Nemo bis",
 			"Odisha1",
-			"Psubhashish"
+			"Psubhashish",
+			"MKar"
 		]
 	},
 	"wikimediamessages-desc": "ଉଇକିମିଡ଼ିଆ ନିର୍ଦ୍ଦିଷ୍ଟ ସନ୍ଦେଶ",
@@ -101,8 +102,8 @@
 	"grouppage-global-rollbacker": "m:ଜଗତସାରାର ପଛକୁ ଫେରାଇବା ଅଧିକାର",
 	"group-global-sysop": "ଜଗତ ପରିଚାଳକଗଣ",
 	"group-global-sysop-member": "{{GENDER:$1|ଜଗତ ପରିଚାଳକ}}",
-	"group-new-wikis-importer": "ନୂଆ ଉଇକିଗୁଡିକର ଆମଦାନୀ କର୍ତ୍ତା",
-	"group-new-wikis-importer-member": "{{GENDER:$1|ନୂଆ ଉଇକିଗୁଡିକର ଆମଦାନୀ କର୍ତ୍ତା}}",
+	"group-new-wikis-importer": "ନୂଆ ଉଇକିଗୁଡ଼ିକର ଆମଦାନି କର୍ତ୍ତା",
+	"group-new-wikis-importer-member": "{{GENDER:$1|ନୂଆ ଉଇକିଗୁଡ଼ିକର ଆମଦାନି କର୍ତ୍ତା}}",
 	"group-ombudsman": "ଅଭିଯୋଗ ବିଚାରକଗଣ",
 	"group-ombudsman-member": "{{GENDER:$1|ଅଭିଯୋଗ ବିଚାରକ}}",
 	"group-recursive-export": "ବାରମ୍ବାର ରପ୍ତାନି",
