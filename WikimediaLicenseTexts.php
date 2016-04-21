@@ -15,8 +15,12 @@ $wgExtensionCredits['other'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'WikimediaLicenseTexts',
 	'url'            => 'https://www.mediawiki.org/wiki/Extension:WikimediaMessages',
-	'author'         => array( 'Multichill', 'Siebrand Mazeland' ),
+	'author'         => array(
+		'Multichill',
+		'Siebrand Mazeland'
+		),
 	'descriptionmsg' => 'wikimedialicensetexts-desc',
+	'license-name' => 'GPL-2.0+'
 );
 
 $wgMessagesDirs['WikimediaLicenseTexts'] = __DIR__ . '/i18n/licensetexts';
