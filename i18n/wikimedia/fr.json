@@ -175,6 +175,8 @@
 	"group-global-bot": "Bots globaux",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
 	"grouppage-global-bot": "m:Bot policy/fr#Bots globaux",
+	"group-global-flow-create": "Créateurs de Flow global",
+	"group-global-flow-create-member": "{{GENDER:$1|Créateur|Créatrice}} de Flow global",
 	"group-global-gather-admins": "Administrateurs de collecte globale",
 	"group-global-gather-admins-member": "{{GENDER:$1|administrateur|administratrice}} de Collecte globale",
 	"group-global-ipblock-exempt": "Exceptions globales de blocage d'adresses IP",

@@ -147,6 +147,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Zentrale-Meldungen-Administratoren",
 	"group-global-bot": "Globale Bots",
 	"group-global-bot-member": "{{GENDER:$1|Globaler Bot}}",
+	"group-global-flow-create": "Globale Flow-Ersteller",
+	"group-global-flow-create-member": "{{GENDER:$1|Globaler Flow-Ersteller|Globale Flow-Erstellerin}}",
 	"group-global-gather-admins": "Globale Gather-Administratoren",
 	"group-global-gather-admins-member": "{{GENDER:$1|Globaler Gather-Administrator|Globale Gather-Administratorin}}",
 	"group-global-ipblock-exempt": "Globale IP-Sperren-Ausgenommene",

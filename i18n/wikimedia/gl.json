@@ -132,6 +132,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administradores do aviso central",
 	"group-global-bot": "Bots globais",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
+	"group-global-flow-create": "Creadores de Flow globais",
+	"group-global-flow-create-member": "{{GENDER:$1|Creador|Creadora}} de Flow global",
 	"group-global-gather-admins": "Administradores globais de Gather",
 	"group-global-gather-admins-member": "{{GENDER:$1|administrador|administradora}} global de Gather",
 	"group-global-ipblock-exempt": "Exentos de bloqueo global do enderezo IP",

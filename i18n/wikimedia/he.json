@@ -138,6 +138,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:מנהלי הודעה מרכזית",
 	"group-global-bot": "בוטים גלובליים",
 	"group-global-bot-member": "{{GENDER:$1|בוט גלובלי}}",
+	"group-global-flow-create": "יוצרי זרימות גלובליות",
+	"group-global-flow-create-member": "{{GENDER:$1|יוצר|יוצרת}} זרימות גלובליות",
 	"group-global-gather-admins": "מנהלי לקטים גלובליים",
 	"group-global-gather-admins-member": "{{GENDER:$1|מנהל לקטים גלובלי|מנהלת לקטים גלובלית}}",
 	"group-global-ipblock-exempt": "חסינים מחסימת IP גלובלית",
