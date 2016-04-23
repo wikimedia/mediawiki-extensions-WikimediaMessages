@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"SolidBlock"
+		]
+	},
+	"group-global-flow-create": "全域Flow创建者",
+	"group-global-flow-create-member": "{{GENDER:$1|全域Flow创建者}}"
+}
