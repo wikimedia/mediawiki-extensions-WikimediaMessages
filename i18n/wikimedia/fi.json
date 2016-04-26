@@ -170,7 +170,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yksi tai useampia käyttämäsi välityspalvelimin on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston antoi $1 ($2).\nEston syy oli ''$3''.\n\n* Eston alkamisajankohta: $4\n* Eston päättymisajankohta: $5\n\nEstetyn välityspalvelimen osoite oli $6.\nLiitä kaikki yllä olevat tiedot mahdollisiin kyselyihisi.\n\nJos uskot, että sinut on estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]]. Muutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikiin]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/fi",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Tietosuojakäytäntö]",
-	"grant-checkuser": "Pääse käsiksi osoitepaljastintietoihin",
+	"grant-checkuser": "Päästä käsiksi osoitepaljastintietoihin",
 	"wikimediashoplink-linktext": "Wikimedia-kauppa",
 	"wikimediashoplink-link-tooltip": "Vieraile Wikimedia-kaupassa",
 	"interlanguage-link-mul": "Lisää kieliä",

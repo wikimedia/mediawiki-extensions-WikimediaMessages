@@ -5,7 +5,8 @@
 			"Mirzali",
 			"Multichill",
 			"Olvörg",
-			"Xoser"
+			"Xoser",
+			"Marmase"
 		]
 	},
 	"wikimedialicensetexts-desc": "Mesacê lisansê wikimedya",
@@ -71,7 +72,7 @@
 	"wm-license-information-other-versions": "Versiyonane binan",
 	"wm-license-lgpl-text": "Ena dosya [[{{int:wm-license-free-software-wiki-link}}|bedava ya]]; ti eşkena ena dosya vila bike, ya zi vurne bine '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' ke cap bie pê [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ya versiyonê lisansê 2.1, ya zi versiyonê evelan (keyfe ti zani). Ma umid keni insallah ena vila kerdis herkes re feyda dano, '''ne yew garanti'''; belki hem zi pe yew '''ticari''' ya zi '''ser yew amacê sexsi'''. [{{int:wm-license-lgpl-2.1-full-link}} Versiyonê 2.1] bivini u [{{int:wm-license-gpl-3-full-link}} versiyonşê 3 ê GNU General Public License] de zaf detayan est ê.",
 	"wm-license-licensing-update-text": "Na etiketa lsansi, Dosya dı yew letey GFDL Lisans kerdışi newekerdışi [[{{int:wm-license-licensing-update-wiki-link}}|bo deye debiyayo de]].",
-	"wm-license-original-upload-log": "Loge bar kerdise bini",
+	"wm-license-original-upload-log": "Qeydé orjinal bar kerdışi",
 	"wm-license-own-work": "Karo şexsi",
 	"wm-license-pd-author-self-text": "Ez, Wêrê ena teliferê, nê kari '''[[{{int:wm-license-pd-wiki-link}}|Malê şari]]'''deye ezo heserena.  Dınya heme ca dı ravêreno.",
 	"wm-license-pd-author-with-author-text": "Na karkerdış heta  nuskar de '''$1''' ra biya '''[[{{int:wm-license-pd-wiki-link}}|malê şari]]''' deye hesereyaya. Dınya heme ca dı ravêrena.",
