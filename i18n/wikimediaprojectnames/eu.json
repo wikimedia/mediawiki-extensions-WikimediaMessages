@@ -1,0 +1,36 @@
+{
+	"@metadata": {
+		"authors": [
+			"An13sa"
+		]
+	},
+	"project-localized-name-cawiki": "Katalanezko Wikipedia",
+	"project-localized-name-cawiktionary": "Katalanezko Wikiztegia",
+	"project-localized-name-cawikibooks": "Katalanezko Wikiliburuak",
+	"project-localized-name-cawikinews": "Katalanezko Wikialbisteak",
+	"project-localized-name-cawikiquote": "Katalanezko Wikiesanak",
+	"project-localized-name-cawikisource": "Katalanezko Wikiturriak",
+	"project-localized-name-cswiki": "Txekierazko Wikipedia",
+	"project-localized-name-cswiktionary": "Txekierazko Wikiztegia",
+	"project-localized-name-cswikibooks": "Txekierazko Wikiliburuak",
+	"project-localized-name-cswikinews": "Txekierazko Wikialbisteak",
+	"project-localized-name-cswikiquote": "Txekierazko Wikiesanak",
+	"project-localized-name-cswikisource": "Txekierazko Wikiturriak",
+	"project-localized-name-cswikiversity": "Txekierazko Wikibertsitatea",
+	"project-localized-name-enwiki": "Ingelesezko Wikipedia",
+	"project-localized-name-enwiktionary": "Ingelesezko Wikiztegia",
+	"project-localized-name-enwikibooks": "Ingelesezko Wikiliburuak",
+	"project-localized-name-enwikinews": "Ingelesezko Wikialbisteak",
+	"project-localized-name-enwikiquote": "Ingelesezko Wikiesanak",
+	"project-localized-name-enwikisource": "Ingelesezko Wikiturriak",
+	"project-localized-name-enwikiversity": "Ingelesezko Wikibertsitatea",
+	"project-localized-name-enwikivoyage": "Ingelesezko Wikibidaiak",
+	"project-localized-name-eswiki": "Gaztelaniazko Wikipedia",
+	"project-localized-name-eswiktionary": "Gaztelaniazko Wikiztegia",
+	"project-localized-name-eswikibooks": "Gaztelaniazko Wikiliburuak",
+	"project-localized-name-eswikinews": "Gaztelaniazko Wikialbisteak",
+	"project-localized-name-eswikiquote": "Gaztelaniazko Wikiesanak",
+	"project-localized-name-eswikisource": "Gaztelaniazko Wikiturriak",
+	"project-localized-name-eswikiversity": "Gaztelaniazko Wikibertsitatea",
+	"project-localized-name-eswikivoyage": "Gaztelaniazko Wikibidaiak"
+}
