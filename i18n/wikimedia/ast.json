@@ -131,6 +131,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Alministradores d'avisu central",
 	"group-global-bot": "Bots globales",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
+	"group-global-flow-create": "Creadores de Flow globales",
+	"group-global-flow-create-member": "{{GENDER:$1|Creador|Creadora}} de Flow global",
 	"group-global-gather-admins": "Alministraderes globales de Gather",
 	"group-global-gather-admins-member": "{{GENDER:$1|alministrador|alministradora}} global de Gather",
 	"group-global-ipblock-exempt": "Llibres de bloqueos IP globales",
@@ -251,6 +253,6 @@
 	"wikimedia-centralauth-uwbr-intro": "Esta páxina llista los usuarios rexistraos nesta wiki que sufrirán un cambiu de nome pola mor de la [[m:Single User Login finalisation announcement|finalización del aniciu de sesión únicu d'usuariu]]. Más información sobro l'[[m:Help:Unified login|aniciu de sesión unificáu]]. Los usuarios pueden solicitar un cambiu de nome en cualquier momentu usando [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Ver los ficheros y páxines de los espacios de nomes {{ns:file}} y {{ns:file_talk}} que tán desaniciaos",
 	"securepoll-dblist-securepollglobal": "Eleición al Conseyu",
-	"wikimedia-mwoauthserver-invalid-user": "Hebo un problema col to aniciu de sesión global. Si tas acabante de crear la cuenta, zarra y vuelve a aniciar la sesión, y darréu intenta autorizar la app. Si nun tas acabante de crear la cuenta, visita otru sitiu de Wikimedia cola sesión aniciada — como [https://mediawiki.org/ mediawiki.org] — y vuelve a intentar autorizar la app. (Códigu d'error: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "Hebo un problema col to aniciu de sesión global. Si tas acabante de crear la cuenta, zarra y vuelve a aniciar la sesión, y darréu intenta autorizar la app. Si nun tas acabante de crear la cuenta, visita [https://meta.wikimedia.org/ meta.wikimedia.org] y vuelve a intentar autorizar la app. (Códigu d'error: E008)",
 	"wikimedia-cookiestatement": "Declaración de cookies"
 }
