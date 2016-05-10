@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"פוילישער"
+			"פוילישער",
+			"Alefbeis"
 		]
 	},
 	"wikimedialicensetexts-desc": "וויקימעדיע ליצענץ מעלדונגען",
@@ -32,14 +33,14 @@
 	"wm-license-creator-work-location": "אַרבעט אָרט",
 	"wm-license-creator-linkback": "לינקען צוריק צו שאפֿער אינפאָקעסטל מוסטער",
 	"wm-license-gfdl-wiki-link": "w:yi:GNU פרייע דאקומענטאציע ליצענץ",
-	"wm-license-information-description": "באַשרײַבונג",
+	"wm-license-information-description": "דעסקריפציע",
 	"wm-license-information-description-missing": "דעם טעקע האט נישט קיין '''באַשרייַבונג''', און מעגלעך פֿעלט אַנדער אינפֿאָרמאַציע.",
 	"wm-license-information-description-missing-request": "ביטע שטעלט צו אַ פאַסיגע באַשרייַבונג פון דער טעקע.",
 	"wm-license-information-source": "מקור",
 	"wm-license-information-source-missing": "די טעקע פֿעלט '''מקור''' אינפֿארמאַציע",
 	"wm-license-information-source-missing-request": "ביטע רעדאַגירן דער טעקע'ס באַשרייַבונג און צושטעלן אַ מקור.",
 	"wm-license-information-date": "דאַטע",
-	"wm-license-information-author": "מחבר",
+	"wm-license-information-author": "שרייבער",
 	"wm-license-information-author-missing": "די טעקע פֿעלט '''מחבר''' אינפֿארמאַציע",
 	"wm-license-information-permission": "דערלויבעניש",
 	"wm-license-information-permission-reusing-text": "ווײַטערניצן די דאָזיגע טעקע",

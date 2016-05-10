@@ -29,6 +29,7 @@
 	"nstab-institution": "Ίδρυμα",
 	"nstab-sequence": "Ακολουθία",
 	"nstab-timedtext": "ΧρονισμένοΚείμενο",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Τώρα μπορείτε να επεξεργαστείτε το περιεχόμενο της σελίδας. Όταν τελειώσετε, κάντε κλικ στο \"{{int:visualeditor-toolbar-savedialog}}\" για να επιθεωρήσετε και να αποθηκεύσετε τις αλλαγές σας.",
 	"group-Image-reviewer": "Εξεταστές εικόνων",
 	"group-Image-reviewer-member": "{{GENDER:$1|επιθεωρητής|επιθεωρήτρια}} εικόνων",
 	"grouppage-Image-reviewer": "{{ns:project}}:Εξεταστές εικόνας",
