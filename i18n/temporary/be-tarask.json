@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Wizardist",
-			"Jim-by"
+			"Jim-by",
+			"Red Winged Duck"
 		]
 	},
 	"wikimediamessages-desc": "Часовыя паведамленьні для Вікімэдыі",
 	"grouppage-oversight": "{{ns:project}}:Рэвізоры",
 	"group-oversight": "Рэвізоры",
-	"group-oversight-member": "рэвізор"
+	"group-oversight-member": "рэвізор",
+	"please-translate": "Калі ласка, дапамажыце перакласьці на вашую мову"
 }
