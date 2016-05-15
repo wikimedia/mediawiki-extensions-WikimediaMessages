@@ -150,6 +150,8 @@
 	"group-global-bot": "ربات‌های سراسری",
 	"group-global-bot-member": "{{GENDER:$1|ربات سراسری}}",
 	"grouppage-global-bot": "m:Global bot/fa",
+	"group-global-flow-create": "ایجاد کنندگان سراسری فلو",
+	"group-global-flow-create-member": "{{GENDER:$1|ایجاد کنندگان سراسری فلو}}",
 	"group-global-gather-admins": "جمع‌آوری سراسری مدیران",
 	"group-global-gather-admins-member": "{{GENDER:$1|جمع‌آوری سراسری مدیران}}",
 	"group-global-ipblock-exempt": "آی‌پی‌های مستثی از قطع دسترسی سراسری",
@@ -272,6 +274,6 @@
 	"wikimedia-centralauth-uwbr-intro": "در این صفحه کاربران ثبت‌نام کرده در این ویکی که برپایهٔ [[m:Single User Login finalisation announcement|پایان ورود به سامانه تک کاربر]] تغییرنام داده‌می‌شوند فهرست می‌شوند. اطلاعات بیشتر در [[m:Help:Unified login|یکسان‌سازی ورود]].با استفاده از [[Special:GlobalRenameRequest]] کاربران هر زمانی می‌توانند درخواست تغییرنام دهند.",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",
-	"wikimedia-mwoauthserver-invalid-user": "وارد شدن شما به حساب سراسری با مشکل مواجه شد. چنانچه به تازگی حساب کاربری‌تان را ایجاد کرده‌اید یک بار خارج شده و دوباره وارد شوید. چنانچه این حساب کاربری را از قبل دارید، از یکی دیگر از پروژه‌های بنیاد مثل [https://mediawiki.org/ mediawiki.org] بازدید کنید. (کد خطا: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "وارد شدن شما به حساب سراسری با مشکل مواجه شد. چنانچه به تازگی حساب کاربری‌تان را ایجاد کرده‌اید یک بار خارج شده و دوباره وارد شوید. چنانچه این حساب کاربری را از قبل دارید، از [https://meta.wikimedia.org/ meta.wikimedia.org] بازدید کنید. (کد خطا: E008)",
 	"wikimedia-cookiestatement": "اظهارنامهٔ کوکی"
 }

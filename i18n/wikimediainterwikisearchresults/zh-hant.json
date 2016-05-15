@@ -6,5 +6,7 @@
 		]
 	},
 	"search-interwiki-results-itwiki": "顯示來自[[:it:Main_Page|義大利語維基百科]]的結果。",
+	"search-interwiki-results-zh_classicalwiki": "顯示來自[[:zh-classical:Main_Page|文言文維基百科]]的結果。",
+	"search-interwiki-results-zh_yuewiki": "顯示來自[[:zh-yue:Main_Page|粵文維基百科]]的結果。",
 	"search-interwiki-results-zhwiki": "顯示來自[[:zh:Main_Page|中文維基百科]]的結果。"
 }
