@@ -19,6 +19,7 @@ if ( function_exists( 'wfLoadExtension' ) ) {
 	$wgMessagesDirs['WikimediaTemporaryMessages'] = __DIR__ . '/i18n/temporary';
 	$wgMessagesDirs['WikimediaOverrideMessages'] = __DIR__ . '/i18n/wikimediaoverrides';
 	$wgMessagesDirs['WikimediaLocalizedProjectNames'] = __DIR__ . '/i18n/wikimediaprojectnames';
+	$wgMessagesDirs['WikimediaInterwikiSearchResults'] = __DIR__ . '/i18n/wikimediainterwikisearchresults';
 
 	// Messages which are not translated at translatewiki.net at the request of the Wikimedia Foundation
 	$wgMessagesDirs['WikimediaOverrideMessagesNoTranslate'] = __DIR__ . '/i18n/wikimediaoverridesnotranslate';
