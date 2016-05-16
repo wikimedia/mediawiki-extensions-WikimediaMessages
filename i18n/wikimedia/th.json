@@ -8,7 +8,8 @@
 			"Octahedron80",
 			"Passawuth",
 			"Woraponboonkerd",
-			"Nemo bis"
+			"Nemo bis",
+			"Pilarbini"
 		]
 	},
 	"wikimediamessages-desc": "ข้อความเฉพาะของวิกิมีเดีย",
@@ -71,5 +72,7 @@
 	"wikibase-sitelinks-wikisource": "วิกิซอร์ซ",
 	"wikibase-sitelinks-wikivoyage": "วิกิท่องเที่ยว",
 	"wikimedia-developers": "ผู้พัฒนา",
+	"wikimedia-globalblocking-ipblocked": "''ที่อยู่ IP ของคุณถูก [[m:Special:MyLanguage/Global blocks|บล็อคบนวิกิ]].'''\n\nบล็อคโดย $1 ($2).\nโดยให้เหตุผลว่า ''$3''.\n\n* วันที่เริ่มบล็อค: $4\n* วันสิ้นสุดการบล็อค: $5\n\nที่อยู่ IP ปัจจุบันของคุณคือ $6.\nโปรดระบุรายละเอียดด้านบนทั้งหมดหากคุณตั้งคำถาม\n\nหากคุณเชื่อว่าคุณถูกบล็อคเพราะความผิดพลาด คุณสามารถหาข้อมูลเพิ่มเติมในหน้านโยบาย[[m:Special:MyLanguage/No open proxies|ไม่มีพร็อกซีแบบเปิด]]\n\nมิฉะนั้น หากต้องการพูดคุยเกี่ยวกับการบล็อค โปรด[[m:Steward requests/Global|โพสขอการทบทวนบน Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "''ที่อยู่ IP ของคุณถูก [[m:Special:MyLanguage/Global blocks|บล็อคบนวิกิ]].'''\n\nบล็อคโดย $1 ($2).\nโดยให้เหตุผลว่า ''$3''.\n\n* วันที่เริ่มบล็อค: $4\n* วันสิ้นสุดการบล็อค: $5\n\nที่อยู่ IP ปัจจุบันของคุณคือ $6.\nโปรดระบุรายละเอียดด้านบนทั้งหมดหากคุณตั้งคำถาม\n\nหากคุณเชื่อว่าคุณถูกบล็อคเพราะความผิดพลาด คุณสามารถหาข้อมูลเพิ่มเติมในหน้านโยบาย[[m:Special:MyLanguage/No open proxies|ไม่มีพร็อกซีแบบเปิด]]\n\nมิฉะนั้น หากต้องการพูดคุยเกี่ยวกับการบล็อค โปรด[[m:Steward requests/Global|โพสขอการทบทวนบน Meta-Wiki]].",
 	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/th"
 }
