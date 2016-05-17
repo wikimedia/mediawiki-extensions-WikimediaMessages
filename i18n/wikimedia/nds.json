@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Slomox",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Servien"
 		]
 	},
 	"wikimediamessages-desc": "Systemnarichten för Wikimedia",
@@ -52,5 +53,9 @@
 	"group-steward": "Stewards",
 	"group-steward-member": "Steward",
 	"group-sysadmin": "System-Administraters",
-	"group-sysadmin-member": "System-Administrater"
+	"group-sysadmin-member": "System-Administrater",
+	"wikibase-sitelinks-wikinews": "Wikinarichten",
+	"wikibase-sitelinks-wikisource": "Wikiborn",
+	"wikimedia-developers": "Entwickler",
+	"wikimedia-cookiestatement": "Cookiesverklärung"
 }
