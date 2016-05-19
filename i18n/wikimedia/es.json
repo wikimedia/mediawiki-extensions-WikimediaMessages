@@ -39,7 +39,8 @@
 			"Wifidel",
 			"AlvaroMolina",
 			"Lemondoge",
-			"Indiralena"
+			"Indiralena",
+			"Syum90"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -72,6 +73,8 @@
 	"group-abusefilter": "Editores de filtro de abuso",
 	"group-abusefilter-member": "{{GENDER:$1|editor del filtro antiabusos|editora del filtro antiabusos}}",
 	"grouppage-abusefilter": "{{ns:project}}:Editores de filtro de abuso",
+	"group-abusefilter-helper": "Asistentes del filtro antiabusos",
+	"group-abusefilter-helper-member": "asistente del filtro antiabusos",
 	"group-accountcreator": "Creadores de cuentas",
 	"group-accountcreator-member": "{{GENDER:$1|creador|creadora}} de cuentas",
 	"grouppage-accountcreator": "{{ns:project}}:Creadores de cuentas",
@@ -157,6 +160,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:administradores de aviso central",
 	"group-global-bot": "Bots globales",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
+	"group-global-flow-create": "Creadores globales de Flow",
+	"group-global-flow-create-member": "{{GENDER:$1|creador|creadora}} global de Flow",
 	"group-global-gather-admins": "Administradores globales de Gather",
 	"group-global-gather-admins-member": "{{GENDER:$1|administrador|administradora}} global de Gather",
 	"group-global-ipblock-exempt": "Exenciones de bloqueos IP globales",

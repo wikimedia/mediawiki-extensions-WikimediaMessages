@@ -7,14 +7,13 @@
 			"Macofe",
 			"MarcoAurelio",
 			"Matiia",
-			"-jem-"
+			"-jem-",
+			"Syum90"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
-	"bug-54847-password-reset-prompt": "Tu contraseña anterior podría ser vulnerable debido a [[meta:October 2013 private data security issue|un problema de seguridad en las bases de datos de Wikimedia Labs]]. Por favor, establece una contraseña nueva para proteger tu cuenta. Disculpa las molestias.",
-	"password-recycled": "La contraseña que has escrito coincide con una contraseña antigua asociada con tu cuenta. Configura una contraseña nueva y diferente.",
 	"grouppage-oversight": "{{ns:project}}:Supresores",
-	"group-oversight": "Supresores de ediciones",
+	"group-oversight": "Supresores",
 	"group-oversight-member": "{{GENDER:$1|supresor|supresora}}",
 	"please-translate": "Por favor, ayuda a traducir a tu idioma"
 }

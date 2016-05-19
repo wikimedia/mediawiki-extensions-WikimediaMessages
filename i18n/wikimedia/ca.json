@@ -21,7 +21,8 @@
 			"Joan manel",
 			"Caliburn",
 			"Xavier Dengra",
-			"F3RaN"
+			"F3RaN",
+			"Syum90"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -54,6 +55,8 @@
 	"group-abusefilter": "Editors del filtre d'abusos",
 	"group-abusefilter-member": "{{GENDER:$1|editor|editora}} del filtre d'abusos",
 	"grouppage-abusefilter": "{{ns:project}}:Editors del filtre d'abusos",
+	"group-abusefilter-helper": "Assistents del filtre d'edicions",
+	"group-abusefilter-helper-member": "assistent del filtre d'edicions",
 	"group-accountcreator": "Creadors de comptes",
 	"group-accountcreator-member": "{{GENDER:$1|creador|creadora}} de comptes",
 	"grouppage-accountcreator": "{{ns:project}}:Creadors de comptes",
@@ -127,6 +130,8 @@
 	"group-captcha-exempt": "Exempcions de CAPTCHA",
 	"group-global-bot": "Bots globals",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
+	"group-global-flow-create": "Creadors globals de Flow",
+	"group-global-flow-create-member": "{{GENDER:$1|creador|creadora}} global de Flow",
 	"group-global-interface-editor": "Editors d'interfície globals",
 	"group-global-interface-editor-member": "{{GENDER:$1|editor|editora}} d'interfície global",
 	"group-global-rollbacker": "Reversors globals",

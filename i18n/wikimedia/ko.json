@@ -29,7 +29,8 @@
 			"Mooozi",
 			"Idh0854",
 			"Namoroka",
-			"고기랑"
+			"고기랑",
+			"Ykhwong"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -241,7 +242,9 @@
 	"interlanguage-link-sitename-commons": "위키미디어 공용 미디어 저장소",
 	"right-templateeditor": "보호된 틀 편집",
 	"restriction-level-templateeditor": "보호된 틀",
+	"right-extendedconfirmed": "제한된 문서 편집",
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\"로 보호된 문서 편집",
+	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\"로 보호된 문서 편집",
 	"wikimedia-globalrenamequeue-email-body-approved": "\"{{GENDER:$1|$1}}\"에서 \"{{GENDER:$1|$2}}\"로의 계정명 변경 요청이 승인되었습니다.\n계정명 변경이 완료되면 새 계정명과 기존의 비밀번호를 이용해 로그인할 수 있게 될 것입니다.\n위키미디어 프로젝트에 참여해주셔서 감사합니다.",
 	"wikimedia-centralauth-contribs-locked": "이 계정은 이미 잠겨 있습니다.\n자세한 정보는 [[m:Special:CentralAuth/$1|통합 계정 정보]]를 참조하세요.",
 	"wikimedia-centralauth-uwbr-intro": "이 문서는 [[m:Single User Login finalisation announcement|계정 통합 마무리 조치]]로 인해 계정명이 변경될 이 위키 내의 등록된 사용자를 보여줍니다. [[m:Help:Unified login|통합 로그인]]에서 더 많은 정보를 찾을 수 있습니다. 사용자들은 [[특수:전역이름바꾸기요청]]를 이용하여 상시적으로 계정명 변경을 요청할 수 있습니다.",
