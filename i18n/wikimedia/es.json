@@ -40,7 +40,8 @@
 			"AlvaroMolina",
 			"Lemondoge",
 			"Indiralena",
-			"Syum90"
+			"Syum90",
+			"Codynguyen1116"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -74,7 +75,7 @@
 	"group-abusefilter-member": "{{GENDER:$1|editor del filtro antiabusos|editora del filtro antiabusos}}",
 	"grouppage-abusefilter": "{{ns:project}}:Editores de filtro de abuso",
 	"group-abusefilter-helper": "Asistentes del filtro antiabusos",
-	"group-abusefilter-helper-member": "asistente del filtro antiabusos",
+	"group-abusefilter-helper-member": "{{GENDER:$1|abuso de filtro auxiliar}}",
 	"group-accountcreator": "Creadores de cuentas",
 	"group-accountcreator-member": "{{GENDER:$1|creador|creadora}} de cuentas",
 	"grouppage-accountcreator": "{{ns:project}}:Creadores de cuentas",
