@@ -4,11 +4,13 @@
 			"Marwan Mohamad"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Mowali mohemi, mopotayadu wawu/meyalo momoli'a dokumen botiye wolo syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.2 atau lebih baru yang diterbitkan oleh [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Teks Sampul Depan, dan tanpa Teks Sampul Belakang. Salinan lisensi dimasukkan ke bagian yang berjudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	"wm-license-information-description": "Deskripsi",
 	"wm-license-information-source": "Bungo",
 	"wm-license-information-date": "Tanggal",
 	"wm-license-information-author": "Ta ohu'uwo",
 	"wm-license-information-permission": "Ijini",
 	"wm-license-information-permission-reusing-text": "Popohunawa ulangi berkas botiye",
-	"wm-license-own-work": "Ilomata lo hihilawo"
+	"wm-license-own-work": "Ilomata lo hihilawo",
+	"wm-license-self-multiple-licenses-select": "Yi'o mowali molulawoto lisensi otohilamu"
 }
