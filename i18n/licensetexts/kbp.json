@@ -4,8 +4,13 @@
 			"Gnangbade"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Paha-ŋ waɖɛ se ŋlɩzɩ takayaɣ kanɛ kɛ-lɛzʋʋ nɛ ŋtɛyɩ-kɛ nɛ ŋñɔɔzɩ-kɛ, pɩlɩɩna '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' ñɔɔzɩtʋ kɩlɛɣzɩtʋ 1.2, yaa paa ñɔɔzɩtʋ kɩlɛɣzɩtʋ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] kosusaa kpaɣ nɛ ɖooo wayɩ ñɩndʋ yɔ. Ɛlɛ, hɔɔlɩŋ weyi paapɩzɩɣ pɛlɛɣzɩ yɔ, nɛ kajalaɣ takayɩhayʋʋ yɔɔ tɔm, nɛ kpaagbaa ñɩŋgʋ yɔɔ ñɩndʋ pɛfɛyɩ pɩ-taa. Waɖɛ haʋ tɔm wɛ hɔɔlʋʋ ŋgʋ paya-kʋ se ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' yɔ kɩ-taa.",
 	"wm-license-information-description": "Kɛdɩtʋ",
 	"wm-license-information-source": "Kiɖe",
 	"wm-license-information-date": "Efemiye",
-	"wm-license-information-author": "Mayʋ"
+	"wm-license-information-author": "Mayʋ",
+	"wm-license-information-permission": "Waɖɛ haʋ",
+	"wm-license-information-permission-reusing-text": "Ɖaɣnʋʋ labɩnaʋ takayaɣ kanɛ",
+	"wm-license-own-work": "Ɖeke tʋmɩyɛ",
+	"wm-license-self-multiple-licenses-select": "Ŋpɩzɩɣ ŋlɩzɩ waɖɛ haʋ pʋnɛ pɩ-taa kʋɖʋmbʋ."
 }
