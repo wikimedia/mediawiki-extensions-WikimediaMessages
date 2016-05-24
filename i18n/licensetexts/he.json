@@ -10,7 +10,8 @@
 			"Yona b",
 			"ערן",
 			"Guycn2",
-			"Steinsplitter"
+			"Steinsplitter",
+			"Geagea"
 		]
 	},
 	"wikimedialicensetexts-desc": "הודעות הרישוי של ויקימדיה",
@@ -80,7 +81,7 @@
 	"wm-license-information-other-versions": "גרסאות אחרות",
 	"wm-license-lgpl-text": "ספרייה זו היא [[{{int:wm-license-free-software-wiki-link}}|תוכנה חופשית]]; אתה יכול להפיצה מחדש או לשנות אותה לפי תנאי '''[[{{int:wm-license-lgpl-wiki-link}}|הרישיון הציבורי הכללי המוקטן של גנו]]''' (GNU Lesser General Public License) כפי שפורסם על־ידי [[{{int:wm-license-fsf-wiki-link}}|המוסד לתוכנה חופשית]]; גרסה 2.1 של הרישיון, או (לבחירתך) כל גרסה מאוחרת יותר. הספרייה הזאת מופצת מתוך תקווה שהיא תביא תועלת, אבל '''ללא שום אחריות'''; אף ללא האחריות המשתמעת ל'''סחירות''' או ל'''התאמה למטרה מסוימת'''. ר' [{{int:wm-license-lgpl-2.1-full-link}} גרסה 2.1] ו[{{int:wm-license-lgpl-3-full-link}} גרסה 3 של הרישיון הציבורי הכללי המוקטן של גנו] לקבלת פרטים נוספים.",
 	"wm-license-licensing-update-text": "תבנית רישוי זו הוספה לקובץ כחלק מ [[{{int:wm-license-licensing-update-wiki-link}}|עדכון הרישיון]] של GFDL.",
-	"wm-license-original-upload-log": "<div style=\"direction: rtl;\">יומן העלאה מקורי</div>",
+	"wm-license-original-upload-log": "יומן העלאה מקורי",
 	"wm-license-own-work": "נוצר על ידי מעלה היצירה",
 	"wm-license-pd-author-self-text": "אני, שברשותי זכויות היוצרים על יצירה זו, ברצוני לשחרר יצירה זו '''[[{{int:wm-license-pd-wiki-link}}|לרשות הציבור]]'''. החלטה זו תקפה לכל רחבי העולם.",
 	"wm-license-pd-author-with-author-text": "יצירה זו שוחררה '''[[{{int:wm-license-pd-wiki-link}}|לרשות הציבור]]''' על ידי יוצריה, '''$1'''. קביעה זו תקפה לכלל העולם.",
