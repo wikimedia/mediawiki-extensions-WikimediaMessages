@@ -41,7 +41,8 @@
 			"Lemondoge",
 			"Indiralena",
 			"Syum90",
-			"Codynguyen1116"
+			"Codynguyen1116",
+			"Rubentl134"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -203,6 +204,9 @@
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de traducción",
 	"group-wmf-researcher": "Investigadores de la WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Investigador|Investigadora}} de la WMF",
+	"group-wmf-supportsafety": "WMF Soporte y Seguridad",
+	"group-wmf-supportsafety-member": "{{GÉNERO:$1|WMF Soporte y Seguridad}}",
+	"grouppage-wmf-supportsafety": "{{ns:Proyecto}}:WMF Soporte y Seguridad",
 	"search-interwiki-custom": "wiktionary:De Wikcionario\nwikibooks:De Wikilibros\nwikinews:De Wikinoticias\nwikiquote:De Wikiquote\nwikisource:De Wikisource\nwikiversity:De Wikiversidad\nwikivoyage:De Wikiviajes",
 	"wikimedia-copyright": "El texto está disponible bajo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\">Licencia Creative Commons Atribución-CompartirIgual 3.0</a>;\npueden aplicarse términos adicionales.\nVéase <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/es\">Términos de uso</a> para más detalles.",
 	"wikidata-copyright": "Todos los datos estructurados del espacio de nombres principal y de propiedad están disponibles bajo la <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.es\" title=\"Definición de la licencia Creative Commons CC0\">licencia Creative Commons CC0</a>;\nel texto en los demás espacios de nombres está disponible bajo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\" title=\"Definición de la licencia Creative Commons Atribución-CompartirIgual\">licencia Creative Commons Atribución-CompartirIgual</a>;\npueden aplicarse términos adicionales.\nVéanse los <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/es\" title=\"Términos y condiciones de uso de la Fundación Wikimedia\">Términos y condiciones de uso</a> para más detalles.",

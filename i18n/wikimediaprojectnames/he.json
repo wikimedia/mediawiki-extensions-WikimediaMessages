@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"ערן"
 		]
 	},
 	"project-localized-name-aawiki": "ויקיפדיה אפארית",
@@ -846,7 +847,7 @@
 	"project-localized-name-labtestwiki": "ויקי בדיקות wikitech",
 	"project-localized-name-legalteamwiki": "ויקי הצוות המשפטי",
 	"project-localized-name-loginwiki": "ויקי כניסה של ויקימדיה",
-	"project-localized-name-mediawikiwiki": "מדיה־ויקי.אורג",
+	"project-localized-name-mediawikiwiki": "מדיה־ויקי",
 	"project-localized-name-metawiki": "מטא־ויקי",
 	"project-localized-name-mkwikimedia": "ויקימדיה מקדוניה",
 	"project-localized-name-movementroleswiki": "תפקידי תנועה",
