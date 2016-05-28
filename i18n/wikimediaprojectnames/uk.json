@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Piramidion"
+			"Piramidion",
+			"Ата"
 		]
 	},
 	"project-localized-name-aawiki": "Афарська Вікіпедія",
@@ -344,6 +345,7 @@
 	"project-localized-name-itwikivoyage": "Італійські Вікімандри",
 	"project-localized-name-iuwiki": "Вікіпедія мовою інуктитут",
 	"project-localized-name-iuwiktionary": "Вікісловник мовою інуктитут",
+	"project-localized-name-jamwiki": "Ямайська креольська Вікіпедія",
 	"project-localized-name-jawiki": "Японська Вікіпедія",
 	"project-localized-name-jawiktionary": "Японський Вікісловник",
 	"project-localized-name-jawikibooks": "Японський Вікіпідручник",

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Green Zero",
-			"Piramidion"
+			"Piramidion",
+			"Ата"
 		]
 	},
 	"search-interwiki-results-abwiki": "Результати з [[:ab:Main_Page|абхазької Вікіпедії]].",
@@ -115,6 +116,7 @@
 	"search-interwiki-results-iswiki": "Результати з [[:is:Main_Page|ісландської Вікіпедії]].",
 	"search-interwiki-results-itwiki": "Результати з [[:it:Main_Page|італійської Вікіпедії]].",
 	"search-interwiki-results-iuwiki": "Результати з [[:iu:Main_Page|Вікіпедії мовою інуктитут]].",
+	"search-interwiki-results-jamwiki": "Результати з [[:jam:Main_Page|ямайської креольської Вікіпедії]].",
 	"search-interwiki-results-jawiki": "Результати з [[:ja:Main_Page|японської Вікіпедії]].",
 	"search-interwiki-results-jbowiki": "Результати з [[:jbo:Main_Page|Вікіпедії мовою ложбан]].",
 	"search-interwiki-results-jvwiki": "Результати з [[:jv:Main_Page|яванської Вікіпедії]].",
