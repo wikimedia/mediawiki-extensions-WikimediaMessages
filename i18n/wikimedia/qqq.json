@@ -25,7 +25,8 @@
 			"Liuxinyu970226",
 			"زكريا",
 			"아라",
-			"Macofe"
+			"Macofe",
+			"Pxos"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -284,7 +285,7 @@
 	"right-templateeditor": "{{doc-right|templateeditor}}\nRefers to a protection level",
 	"restriction-level-templateeditor": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"protect-level-templateeditor": "Used as protect level.",
-	"right-extendedconfirmed": "{{doc-right|extendedconfirmed}}\nRefers to a protection level",
+	"right-extendedconfirmed": "{{doc-right|extendedconfirmed}}\nRefers to a protection level (in use on the English Wikipedia, namely the \"extended confirmed users\".",
 	"restriction-level-extendedconfirmed": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"protect-level-extendedconfirmed": "Used as protect level.",
 	"right-editeditorprotected": "{{doc-right|editeditorprotected}}\nRefers to a protection level",

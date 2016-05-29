@@ -47,8 +47,8 @@
 	"group-botadmin": "botê heqandê admina",
 	"group-botadmin-member": "{{GENDER:$1|botê heqandê admina}}",
 	"grouppage-botadmin": "{{ns:project}}:botê heqandê admina",
-	"group-confirmed": "Karberi araşteni",
-	"group-confirmed-member": "{{GENDER:$1|karberi araşteni}}",
+	"group-confirmed": "Tesdiqyaye karberi",
+	"group-confirmed-member": "{{GENDER:$1|tesdiqyaye karberi}}",
 	"grouppage-confirmed": "{{ns:project}}:karberê ke biye araşt",
 	"group-editprotected": "Nustekaranê pelanê ke kilit biyo",
 	"group-editprotected-member": "{{GENDER:$1|editorê pelandê stara}}",
@@ -121,7 +121,7 @@
 	"group-recursive-export-member": "{{GENDER:$1|teberdarê xo newekerden}}",
 	"group-staff": "wezifedari",
 	"group-staff-member": "wezifedar",
-	"group-steward": "serkari/kehyayi",
+	"group-steward": "Kahyay",
 	"group-steward-member": "{{GENDER:$1|kahya}}",
 	"group-sysadmin": "İdarekarê sistemi",
 	"group-sysadmin-member": "{{GENDER:$1|adminê sistemi}}",
@@ -149,6 +149,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''IP adresa şıma [[m:Special:MyLanguage/Global blocks|heme wikiyande bloke biya]]…\n\n Bloke (proceda $2 de) teref dê  $1  ra  biya. Sebeb zi: ''$3''\n\n* Serniya bloqi: $4\n* Qediyena bloqi: $5\n\nIP adresa şıma: $6\n\nEger ke xeta yana xırabin esta se global politikayan de [[m:Special:MyLanguage/No open proxies|akerde wekil proksiyan]] bloqi xo vira mekerê.Bbbetna weziyet esto se [[m:Steward requests/Global|Meta-Wiki de waştış3 tenkiti şıma şenê bıwazê]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Çiyo ke şımays sero xebtênê  proksiya cı [[m:Special:MyLanguage/Global blocks|heme wikiyande bloke biya]]…\n\n Bloke (proceda $2 de) teref dê  $1  ra  biya. Sebeb zi: ''$3''\n\n* Serniya bloqi: $4\n* Qediyena bloqi: $5\n\nIP adresa şıma: $6\n\nEger ke xeta yana xırabin esta se global politikayan de [[m:Special:MyLanguage/No open proxies|akerde wekil proksiyan]] bloqi xo vira mekerê.Bbbetna weziyet esto se [[m:Steward requests/Global|Meta-Wiki de waştış3 tenkiti şıma şenê bıwazê]].",
 	"wikimediashoplink-linktext": "Wikimedia Shop",
-	"interlanguage-link-sitename-wikipedia": "Wikipediya, ensiklopediya xosere",
+	"interlanguage-link-sitename-wikipedia": "Wikipediya, ensiklopediya azadi",
 	"wikimedia-cookiestatement": "Çerezê pêhesnayışi"
 }
