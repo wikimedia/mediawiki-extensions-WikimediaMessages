@@ -3,7 +3,8 @@
 		"authors": [
 			"AnakngAraw",
 			"Multichill",
-			"Sky Harbor"
+			"Sky Harbor",
+			"Pokéfan95"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:tl:Creative Commons",
@@ -94,6 +95,7 @@
 	"wm-license-cc-by-3.0-th-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Taylandiya].",
 	"wm-license-cc-by-3.0-tw-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Taiwan].",
 	"wm-license-cc-by-3.0-us-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/at/ Atribusyon 3.0 Estados Unidos].",
+	"wm-license-cc-by-4.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/4.0/ Atribusyon 4.0 Pandaigdig].",
 	"wm-license-cc-by-sa-1.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/ Atribusyon-Pagpapamahaging Magkatulad 1.0 Heneriko].",
 	"wm-license-cc-by-sa-1.0-fi-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/fi/ Atribusyon-Pagpapamahaging Magkatulad 1.0 Pinlandiya].",
 	"wm-license-cc-by-sa-1.0-il-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/1.0/il/ Atribusyon-Pagpapamahaging Magkatulad 1.0 Israel].",
@@ -150,7 +152,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/si/ Atribusyon-Pagpapamahaging Magkatulad 2.5 Eslobenya].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/tw/ Atribusyon-Pagpapamahaging Magkatulad 2.5 Taiwan].",
 	"wm-license-cc-by-sa-2.5-za-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/2.5/za/ Atribusyon-Pagpapamahaging Magkatulad 2.5 Timog Aprika].",
-	"wm-license-cc-by-sa-3.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ Atribusyon-Pagpapamahaging Magkatulad 2.5 Walang Daungan].",
+	"wm-license-cc-by-sa-3.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Walang Daungan].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribusyon-Pagpapamahaging Magkatulad [//creativecommons.org/licenses/by-sa/3.0/ 3.0 Walang Daungan], [//creativecommons.org/licenses/by-sa/2.5/ 2.5 Heneriko], [//creativecommons.org/licenses/by-sa/2.0/ 2.0 Heneriko] at [//creativecommons.org/licenses/by-sa/1.0/ 1.0 Heneriko].",
 	"wm-license-cc-by-sa-3.0-at-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/at/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Austria].",
 	"wm-license-cc-by-sa-3.0-au-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/au/ Attribution-Share Alike 3.0 Australya].",
@@ -180,6 +182,7 @@
 	"wm-license-cc-by-sa-3.0-th-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/th/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Taylandiya].",
 	"wm-license-cc-by-sa-3.0-tw-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/tw/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Taiwan].",
 	"wm-license-cc-by-sa-3.0-us-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/us/ Atribusyon-Pagpapamahaging Magkatulad 3.0 Estados Unidos].",
+	"wm-license-cc-by-sa-4.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/4.0/ Atribusyon-Pagpapamahaging Magkatulad 4.0 Pandaigdig].",
 	"wm-license-cc-sa-1.0-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/sa/deed.en Atribusyon-Pagpapamahaging Magkatulad 1.0 Heneriko].",
 	"wm-license-cc-sa-1.0-fi-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/fi/deed.en Pagpapamahaging Magkatulad 1.0 Pinlandiya].",
 	"wm-license-cc-sa-1.0-nl-text": "Ang talaksang ito ay nakalisensiya sa ilalim ng lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/sa/1.0/nl/deed.en Pagpapamahaging Magkatulad 1.0 Olanda].",
