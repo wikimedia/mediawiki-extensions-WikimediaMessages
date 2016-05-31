@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Mbrt"
 		]
 	},
-	"sitesupport": "Sumbang dana"
+	"sitesupport": "Sumbang dana",
+	"wikimedia-developers": "Pengolah"
 }

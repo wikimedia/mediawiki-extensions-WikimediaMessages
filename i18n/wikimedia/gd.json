@@ -10,6 +10,7 @@
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=gd",
 	"sitesupport": "Tabhartasan",
 	"tooltip-n-sitesupport": "Thoir taic dhuinn.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "'S urrainn dhut susbaint an artaigil a dheasachadh a-nis. Nuair a bhios tu deiseil, briog air \"{{int:visualeditor-toolbar-savedialog}}\" gus na h-atharraich thu a dhearbhadh 's a shàbhaladh.",
 	"group-centralnoticeadmin": "Rianairean nam prìomh-shanasan",
 	"group-centralnoticeadmin-member": "rianaire nam prìomh-shanasan",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Rianairean nam prìomh-shanasan",
