@@ -89,7 +89,7 @@
 	"grouppage-filemover": "{{ns:project}}:Desplaçadors de fitxers",
 	"group-flood": "Usuaris-bots",
 	"group-flood-member": "{{GENDER:$1|usuari-bot|usuària-bot}}",
-	"grouppage-flood": "{{ns:project}}:Bots",
+	"grouppage-flood": "{{ns:project}}:Usuaris-bots",
 	"group-founder": "Fundadors",
 	"group-founder-member": "{{GENDER:$1|fundador|fundadora}}",
 	"grouppage-founder": "{{ns:project}}:Fundadors",
