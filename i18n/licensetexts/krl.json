@@ -11,5 +11,6 @@
 	"wm-license-information-date": "Päivämiärä",
 	"wm-license-information-author": "Luatija",
 	"wm-license-information-permission": "Käyttöoikeuš",
-	"wm-license-own-work": "Oma ruato"
+	"wm-license-own-work": "Oma ruato",
+	"wm-license-self-multiple-licenses-select": "Voit valita lisenssin, kumpasen haluot."
 }
