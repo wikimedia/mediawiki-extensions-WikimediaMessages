@@ -223,6 +223,7 @@
 	"restriction-level-superprotect": "superzabezpieczenie",
 	"right-templateeditor": "Edycja zabezpieczonych szablonów",
 	"restriction-level-templateeditor": "zabezpieczony szablon",
+	"protect-level-templateeditor": "Dozwolone tylko dla redaktorów szablonów i administratorów",
 	"right-editeditorprotected": "Edycja stron zabezpieczonych na poziomie „{{int:protect-level-editeditorprotected}}”",
 	"protect-level-editeditorprotected": "Zezwalaj tylko redaktorom",
 	"wikimedia-feedback-termsofuse": "Zgadzam się udostępnić komentarz zgodnie z <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">warunkami korzystania</a>.",
