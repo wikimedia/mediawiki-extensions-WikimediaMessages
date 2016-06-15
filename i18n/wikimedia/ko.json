@@ -236,6 +236,7 @@
 	"wikimediashoplink-linktext": "위키백과 상점",
 	"wikimediashoplink-link-tooltip": "위키백과 상점으로 방문",
 	"interlanguage-link-mul": "기타 언어",
+	"interlanguage-link-sitename-mul": "다언어 {{SITENAME}}",
 	"interlanguage-link-wikipedia": "위키백과",
 	"interlanguage-link-sitename-wikipedia": "위키백과, 우리 모두의 백과사전",
 	"interlanguage-link-commons": "위키미디어 공용",

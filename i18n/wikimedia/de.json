@@ -22,7 +22,8 @@
 			"Απεργός",
 			"Vogone",
 			"FriedhelmW",
-			"Predatorix"
+			"Predatorix",
+			"Schniggendiller"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -190,8 +191,8 @@
 	"grouppage-translationadmin": "{{ns:project}}:Übersetzungsadministratoren",
 	"group-wmf-officeit": "WMF Office IT",
 	"group-wmf-officeit-member": "{{GENDER:$1|WMF Office IT}}",
-	"group-wmf-researcher": "WMF-Erforscher",
-	"group-wmf-researcher-member": "{{GENDER:$1|WMF-Erforscher|WMF-Erforscherin}}",
+	"group-wmf-researcher": "WMF-Forscher",
+	"group-wmf-researcher-member": "{{GENDER:$1|WMF-Forscher|WMF-Forscherin}}",
 	"group-wmf-supportsafety": "WMF-Support und Sicherheit",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF-Support und Sicherheit}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF-Support und Sicherheit",

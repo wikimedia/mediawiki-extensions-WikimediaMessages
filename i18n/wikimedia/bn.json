@@ -108,7 +108,7 @@
 	"group-trusted": "আস্থাভাজন ব্যবহারকারী",
 	"group-trusted-member": "{{GENDER:$1|বিশ্বস্ত ব্যবহারকারী}}",
 	"grouppage-trusted": "{{ns:project}}:আস্থাভাজন ব্যবহারকারী",
-	"group-uploader": "উত্তোলনকারীবৃন্দ\nওয়েব সার্ভারে ফাইল উত্তোলনকারী",
+	"group-uploader": "আপলোডকারী",
 	"group-uploader-member": "{{GENDER:$1|আপলোডকারী}}",
 	"grouppage-uploader": "{{ns:project}}:আপলোডকারীগণ",
 	"group-wikidata-staff": "উইকিউপাত্ত কর্মী",
