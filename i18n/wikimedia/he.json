@@ -269,7 +269,7 @@
 	"wikimedia-centralauth-contribs-locked": "החשבון הזה נעול גלובלית.\nר' [[m:Special:CentralAuth/$1|פרטים על החשבון הגלובלי]] למידע נוסף.",
 	"wikimedia-centralauth-uwbr-intro": "הדף הזה מכיל רשימת משתמשים שרשומים לוויקי הזה וששם המשתמש שלהם ישונה בשל [[m:Single User Login finalisation announcement|השלמת מיזוג החשבונות]]. מידע נוסף זמין ב[[m:Help:Unified login|דף בנושא החשבון המאוחד]]. משתמשים יכולים שינויישנוי שם בכל זמן באמצעות הדף  [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "לפני 2006",
-	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם {{ns:file}} ו{{GRAMMAR:תחילית|{{ns:file_talk}}}}",
+	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם \"{{ns:file}}\" ו\"{{ns:file_talk}}\"",
 	"securepoll-dblist-securepollglobal": "בחירת ועד",
 	"wikimedia-mwoauthserver-invalid-user": "אירעה בעיה עם כניסה גלובלית. אם יצרת את החשבון זה עתה, נא לצאת ולהיכנס חזרה, ואז לנסות שוב לאשר את היישום. אם לא יצרת את החשבון זה עתה נא לבקר באתר [https://meta.wikimedia.org/ meta.wikimedia.org] ואז לנסות שוב לאשר את היישום. (קוד שגיאה: E008)",
 	"wikimedia-cookiestatement": "הצהרה על עוגיות"
