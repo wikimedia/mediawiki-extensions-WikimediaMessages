@@ -6,7 +6,8 @@
 			"Milicevic01",
 			"Жељко Тодоровић",
 			"Nemo bis",
-			"Srdjan m"
+			"Srdjan m",
+			"Сербијана"
 		]
 	},
 	"wikimediamessages-desc": "Poruke specifične za Vikimediju.",
@@ -33,9 +34,9 @@
 	"group-arbcom": "Članovi arbitražnog veća",
 	"group-arbcom-member": "{{GENDER:$1|član Arbitražnog odbora}}",
 	"grouppage-arbcom": "{{ns:project}}:Članovi arbitražne komisije",
-	"group-autopatrolled": "Automatski patrolisani",
+	"group-autopatrolled": "Automatski patrolirani",
 	"group-autopatrolled-member": "{{GENDER:$1|automatski patrolisan|automatski patrolisana}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Autopatrolisani",
+	"grouppage-autopatrolled": "{{ns:project}}:Automatski patrolirani",
 	"group-autoreviewer": "Automatski pregledani",
 	"group-autoreviewer-member": "{{GENDER:$1|samoocenjivač|samoocenjivačica|samoocenjivač}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Automatski pregledani",
