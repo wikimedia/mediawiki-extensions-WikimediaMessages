@@ -8,12 +8,13 @@
 			"Hercule",
 			"Quentinv57",
 			"Urhixidur",
-			"Verdy p"
+			"Verdy p",
+			"Trizek (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Messages temporaires spécifiques de Wikimédia",
 	"grouppage-oversight": "{{ns:project}}:Masqueurs de modifications",
 	"group-oversight": "Masqueurs de modifications",
 	"group-oversight-member": "{{GENDER:$1|masqueur|masqueuse}} de modifications",
-	"please-translate": "Vous pouvez nous aider à traduire dans votre langue"
+	"please-translate": "Merci de nous aider à traduire dans votre langue"
 }
