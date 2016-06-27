@@ -7,7 +7,9 @@
 		]
 	},
 	"sitesupport": "Donaciones",
+	"tooltip-n-sitesupport": "Dadmos apoyo",
 	"group-flood": "Mabúl",
 	"group-flood-member": "{{GENDER:$1|pseudobot}}",
-	"grouppage-flood": "{{ns:project}}:Permeso de mabúl (flooder)"
+	"grouppage-flood": "{{ns:project}}:Permeso de mabúl (flooder)",
+	"wikimedia-developers": "Desvelopadores"
 }
