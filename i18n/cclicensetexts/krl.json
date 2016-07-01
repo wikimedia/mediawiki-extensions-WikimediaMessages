@@ -6,11 +6,16 @@
 			"Varvana"
 		]
 	},
+	"wm-license-cc-attribution": "Nimiemini",
+	"wm-license-cc-by-sa-3.0-text": "Tämän failin voi avata lisensijal [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]",
 	"wm-license-cc-free": "Voit:",
 	"wm-license-cc-free-to-share-header": "jakua",
 	"wm-license-cc-free-to-share-text": "kopiiruija, levittyä ta šiirtyä tevošta",
 	"wm-license-cc-free-to-remix-header": "ševoittua",
 	"wm-license-cc-free-to-remix-text": "mukauttua ruato",
+	"wm-license-cc-conditions": "Nämmien periuattehien kera:",
 	"wm-license-cc-conditions-attribution-header": "nimiemini",
-	"wm-license-cc-conditions-share_alike-header": "Jua šamoilla oikeukšilla"
+	"wm-license-cc-conditions-attribution-text": "Šiun pitäy nimittiä ruato luatijan tahi licensijan antajan eritellyllä tavalla (no ei sih tabah kumpani antau ellendiä ku hyö tuvettas šinuo tahi šiun käytettyy heijän ruatuo).",
+	"wm-license-cc-conditions-share_alike-header": "Jua šamoilla oikeukšilla",
+	"wm-license-cc-conditions-share_alike-text": "Kohentannet, muuttanet tahi luatinet tämän ruavon pohjalla, voit jakua tulokšena šyntynyön ruavon vaiku samalla licensijalla."
 }

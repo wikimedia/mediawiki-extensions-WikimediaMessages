@@ -6,11 +6,13 @@
 			"Varvana"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Lupa on annettu kopiruija, levittiä ta/tahi korjata tätä dokumenttie  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''-licensijan käyttöehtoloin alla, Versija 1.2 tahi mitah myöhempi versija [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]:an ilmahpiästetty; ei muuttumattomie kohtie, ei esikansitekstilöitä, ta ei takakansitekstilöitä. Kopija lisensijas on sižällytetty kohtah rupriekalla ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Kuvauš",
 	"wm-license-information-source": "Lähteh",
 	"wm-license-information-date": "Päivämiärä",
 	"wm-license-information-author": "Luatija",
 	"wm-license-information-permission": "Käyttöoikeuš",
+	"wm-license-information-permission-reusing-text": "Ylikirjutetah tätä failie",
 	"wm-license-own-work": "Oma ruato",
 	"wm-license-self-multiple-licenses-select": "Voit valita lisenssin, kumpasen haluot."
 }

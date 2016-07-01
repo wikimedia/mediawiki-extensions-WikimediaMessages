@@ -11,7 +11,8 @@
 			"Mormegil",
 			"Ragimiri",
 			"YjM",
-			"Nemo bis"
+			"Nemo bis",
+			"Dvorapa"
 		]
 	},
 	"wikimediamessages-desc": "Hlášení specifická pro projekty nadace Wikimedia Foundation",
@@ -50,7 +51,7 @@
 	"group-bigexport-member": "{{GENDER:$1|velkoexportér|velkoexportérka|velkoexportér}}",
 	"grouppage-bigexport": "{{ns:project}}:Velkoexportéři",
 	"group-botadmin": "Boti se správcovskými právy",
-	"group-botadmin-member": "{{GENDER:$1|bot|botka|bot}} se správcovskými právy",
+	"group-botadmin-member": "{{GENDER:$1|robot|robotka}} s právy správce",
 	"grouppage-botadmin": "{{ns:project}}:Boti se správcovskými právy",
 	"group-confirmed": "Schválení uživatelé",
 	"group-confirmed-member": "{{GENDER:$1|schválený uživatel|schválená uživatelka|schválený uživatel}}",
@@ -119,8 +120,8 @@
 	"group-centralnoticeadmin": "Správci centralizovaných oznámení",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Správce|Správkyně}} centralizovaných oznámení",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Správci centralizovaných oznámení",
-	"group-global-bot": "Globální boti",
-	"group-global-bot-member": "globální {{GENDER:$1|bot|botka|bot}}",
+	"group-global-bot": "Globální roboti",
+	"group-global-bot-member": "globální {{GENDER:$1|robot|robotka}}",
 	"group-global-gather-admins": "Globální správci Sbírek",
 	"group-global-gather-admins-member": "globální {{GENDER:$1|správce|správkyně}} Sbírek",
 	"group-global-ipblock-exempt": "Globálně nepodléhající blokování IP adres",
