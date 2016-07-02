@@ -1,8 +1,35 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yejianfei"
+			"Yejianfei",
+			"唐吉訶德的侍從"
 		]
 	},
-	"sitesupport": "捐獻"
+	"sitesupport": "捐獻",
+	"shared-repo-name-shared": "Wikimedia Commons",
+	"wikibase-repo-name": "Wikidata",
+	"wikibase-sitelinks-wikibooks": "Wikibooks",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-otherprojects-commons": "Wikimedia Commons",
+	"wikibase-otherprojects-testwikidata": "Wikidata",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
+	"wikibase-otherprojects-meta": "Meta-Wiki",
+	"wikibase-otherprojects-species": "Wikispecies",
+	"wikibase-otherprojects-wikibooks": "Wikibooks",
+	"wikibase-otherprojects-wikidata": "Wikidata",
+	"wikibase-otherprojects-wikinews": "Wikinews",
+	"wikibase-otherprojects-wikiquote": "Wikiquote",
+	"wikibase-otherprojects-wikipedia": "Wikipedia",
+	"wikibase-otherprojects-wikisource": "Wikisource",
+	"wikibase-otherprojects-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-sitename-commonswiki": "Commons",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
+	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
+	"wikibase-sitelinks-sitename-species": "Wikispecies",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"interlanguage-link-wikipedia": "Wikipedia",
+	"interlanguage-link-commons": "Wikimedia Commons"
 }
