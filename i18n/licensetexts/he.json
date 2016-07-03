@@ -11,7 +11,8 @@
 			"ערן",
 			"Guycn2",
 			"Steinsplitter",
-			"Geagea"
+			"Geagea",
+			"IKhitron"
 		]
 	},
 	"wikimedialicensetexts-desc": "הודעות הרישוי של ויקימדיה",
@@ -107,5 +108,5 @@
 	"wm-license-self-one-license-with-author": "$1, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיון הבא:",
 	"wm-license-self-multiple-licenses": "אני, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיונות הבאים:",
 	"wm-license-self-multiple-licenses-with-author": "$1, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיונות הבאים:",
-	"wm-license-self-multiple-licenses-select": "הנכם מוזמנים לבחור את הרישיון הרצוי בעיניך."
+	"wm-license-self-multiple-licenses-select": "הנכם מוזמנים לבחור את הרישיון הרצוי בעיניכם."
 }
