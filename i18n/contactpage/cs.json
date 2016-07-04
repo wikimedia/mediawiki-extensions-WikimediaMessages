@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Walter Klosse"
+		]
+	},
+	"contactpage-license-request-username": "Uživatelské jméno *",
+	"contactpage-license-request-relevantsite": "Příslušné Wikimedia stránky (pokud máte)",
+	"contactpage-license-request-title": "Název (je-li použitelný)",
+	"contactpage-license-request-organization": "Organizace (je-li použitelné)",
+	"contactpage-license-request-organization-type": "Typ organizace (je-li použitelné)",
+	"contactpage-license-request-use-proposed": "Navrhované použití",
+	"contactpage-license-request-use-online": "On-line (webové stránky, e-mail)",
+	"contactpage-license-request-use-book": "Knihy, periodika",
+	"contactpage-license-request-use-print": "Tisk",
+	"contactpage-license-request-use-tv": "TV, film nebo vysílání",
+	"contactpage-license-request-use-other": "Ostatní",
+	"contactpage-license-request-description": "Popis použití",
+	"contactpage-license-request-selectmark": "Která/é značka(y) chcete použít?",
+	"contactpage-wikimedia-trademark-globe": "Wikipedie Puzzle Zeměkoule",
+	"contactpage-wikimedia-trademark-wikiwordmark": "Wikipedie wordmark",
+	"contactpage-wikimedia-trademark-w": "Stylizované \"W\"",
+	"contactpage-wikimedia-trademark-wikimedia": "Komunita Wikimedia",
+	"contactpage-title-licenseabuse": "Nahlásit zneužití formuláře",
+	"contactpage-affcom-user-group-logo-community": "Logo komunity Wikimedie"
+}

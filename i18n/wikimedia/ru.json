@@ -92,6 +92,7 @@
 	"group-eliminator": "Удаляющие",
 	"group-eliminator-member": "{{GENDER:$1|удаляющий|удаляющая}}",
 	"grouppage-eliminator": "{{ns:project}}:Удаляющие",
+	"group-extendedconfirmed": "Расширенно подтверждённые участники",
 	"group-filemover": "Переименовывающие файлы",
 	"group-filemover-member": "{{GENDER:$1|переименовывающий файлы|переименовывающая файлы}}",
 	"grouppage-filemover": "{{ns:project}}:Переименовывающие файлы",
