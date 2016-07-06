@@ -78,7 +78,7 @@
 	"wm-license-lgpl-wiki-link": "w:fr:Licence publique générale limitée GNU",
 	"wm-license-licensing-update-text": "Ceta balisa de licence at étâ apondua a cél fichiér dens lo câdro de la [[{{int:wm-license-licensing-update-wiki-link}}|misa a jorn de la licence]] desot GFDL.",
 	"wm-license-original-upload-log": "Jornal des tèlèchargements d’origina",
-	"wm-license-own-work": "Ôvra a sè",
+	"wm-license-own-work": "Ôvr’a sè",
 	"wm-license-pd-author-self-text": "Mè, lo titulèro du drêt d’ôtor de ceta ôvra, la bèto dens lo '''[[{{int:wm-license-pd-wiki-link}}|domêno publico]]'''. Cen s’aplique dens lo mondo entiér.",
 	"wm-license-pd-author-with-author-text": "Ceta ôvra at étâ betâ dens lo '''[[{{int:wm-license-pd-wiki-link}}|domêno publico]]''' per son ôtor, '''$1'''. Cen s’aplique dens lo mondo entiér.",
 	"wm-license-pd-author-not-legally-possible": "Dens quârques payis, cen pôt pas étre lègalament possiblo ; dens cél câs :",
@@ -89,5 +89,5 @@
 	"wm-license-self-one-license-with-author": "$1, lo titulèro du drêt d’ôtor de ceta ôvra, la publeyo avouéc cen desot ceta licence :",
 	"wm-license-self-multiple-licenses": "Mè, lo titulèro du drêt d’ôtor de ceta ôvra, la publeyo avouéc cen desot cetes licences :",
 	"wm-license-self-multiple-licenses-with-author": "$1, lo titulèro du drêt d’ôtor de ceta ôvra, la publeyo avouéc cen desot cetes licences :",
-	"wm-license-self-multiple-licenses-select": "Vos pouede chouèsir una licence quinta que seye."
+	"wm-license-self-multiple-licenses-select": "Vos pouede chouèsir la licence que vos voléd."
 }

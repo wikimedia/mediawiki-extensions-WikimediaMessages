@@ -148,7 +148,12 @@
 	"wikimedia-developers": "Vıraştoği",
 	"wikimedia-globalblocking-ipblocked": "'''IP adresa şıma [[m:Special:MyLanguage/Global blocks|heme wikiyande bloke biya]]…\n\n Bloke (proceda $2 de) teref dê  $1  ra  biya. Sebeb zi: ''$3''\n\n* Serniya bloqi: $4\n* Qediyena bloqi: $5\n\nIP adresa şıma: $6\n\nEger ke xeta yana xırabin esta se global politikayan de [[m:Special:MyLanguage/No open proxies|akerde wekil proksiyan]] bloqi xo vira mekerê.Bbbetna weziyet esto se [[m:Steward requests/Global|Meta-Wiki de waştış3 tenkiti şıma şenê bıwazê]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Çiyo ke şımays sero xebtênê  proksiya cı [[m:Special:MyLanguage/Global blocks|heme wikiyande bloke biya]]…\n\n Bloke (proceda $2 de) teref dê  $1  ra  biya. Sebeb zi: ''$3''\n\n* Serniya bloqi: $4\n* Qediyena bloqi: $5\n\nIP adresa şıma: $6\n\nEger ke xeta yana xırabin esta se global politikayan de [[m:Special:MyLanguage/No open proxies|akerde wekil proksiyan]] bloqi xo vira mekerê.Bbbetna weziyet esto se [[m:Steward requests/Global|Meta-Wiki de waştış3 tenkiti şıma şenê bıwazê]].",
-	"wikimediashoplink-linktext": "Wikimedia Shop",
+	"wikimediashoplink-linktext": "Wikipedia dukan",
+	"wikimediashoplink-link-tooltip": "Wikipedia dukani ziyaret ke",
+	"interlanguage-link-mul": "Zewbi zıwani",
+	"interlanguage-link-sitename-mul": "Multizıwan {{SITENAME}}",
+	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipediya, ensiklopediya azadi",
+	"interlanguage-link-commons": "Wikimedia Commons",
 	"wikimedia-cookiestatement": "Çerezê pêhesnayışi"
 }
