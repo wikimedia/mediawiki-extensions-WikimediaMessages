@@ -131,6 +131,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Администратори на Централен разглас",
 	"group-global-bot": "Глобални ботови",
 	"group-global-bot-member": "{{GENDER:$1|глобален бот}}",
+	"group-global-flow-create": "Создавачи на Глобален тек",
+	"group-global-flow-create-member": "{{GENDER:$1|создавач на Глобален тек}}",
 	"group-global-gather-admins": "Глобални администратори за собирање",
 	"group-global-gather-admins-member": "{{GENDER:$1|глобален администратор за собирање}}",
 	"group-global-ipblock-exempt": "Исклучоци од глобални IP-блокови",

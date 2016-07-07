@@ -46,5 +46,7 @@
 	"contactpage-affcom-user-group-terms-label": "Ich habe die oben stehenden Regeln sowie die [[Wikimedia user groups/Agreement and code of conduct|Vereinbarung über Benutzergruppen und den Verhaltenskodex]] gelesen und stimme ihnen zu.",
 	"contactpage-affcom-user-group-logo-wm-logo": "''Falls du das '''Wikimedia-Logo''' verwenden möchtest, musst du [[Special:Contact/requestlicense|eine Lizenz zur Nutzung der Marke beantragen]].''",
 	"contactpage-affcom-user-group-logo-community": "Wikimedia-Gemeinschaftslogo",
-	"contactpage-affcom-user-group-logo-affiliate": "Logo einer Wikimedia-Organisation"
+	"contactpage-affcom-user-group-logo-affiliate": "Logo einer Wikimedia-Organisation",
+	"contactpage-title-stewards": "Stewards kontaktieren",
+	"contactpage-stewards-disclaimer-label": "Haftungsausschluss: Alle in dieses Formular eingegebenen Informationen werden von freiwilligen Mitgliedern der Gemeinschaft (speziell [[Special:MyLanguage/Stewards|Stewards]]) und nicht von der Wikimedia Foundation verarbeitet und beantwortet. Schließe bitte keine Informationen ein, die du nicht mit Wikimedia-Freiwilligen teilen möchtest. Antworten und anderer Schriftverkehr betreffend der Verarbeitung deiner übermittelten Informationen sind keine offiziellen Aussagen der Wikimedia Foundation. Für offizielle Korrespondenz kontaktiere die Wikimedia Foundation mithilfe der Methoden, die auf https://wikimediafoundation.org/wiki/Special:MyLanguage/Contact_us gelistet sind."
 }
