@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"David1010"
+			"David1010",
+			"MIKHEIL"
 		]
 	},
 	"contactpage-license-request-username": "მომხმარებლის სახელი *",
@@ -13,5 +14,6 @@
 	"contactpage-wikimedia-trademark-wikisource": "ვიკიწყარო",
 	"contactpage-wikimedia-trademark-wikispecies": "ვიკისახეობები",
 	"contactpage-wikimedia-trademark-wikiversity": "ვიკივერსიტეტი",
-	"contactpage-wikimedia-trademark-wikivoyage": "ვიკივოიაჟი"
+	"contactpage-wikimedia-trademark-wikivoyage": "ვიკივოიაჟი",
+	"contactpage-title-stewards": "დაუკავშირდი სტიუარდს"
 }

@@ -180,6 +180,9 @@
 	"group-wmf-officeit-member": "{{GENDER:$1|Канцелариски информатичар на Фондацијата Викимедија}}",
 	"group-wmf-researcher": "Истражувачи на WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Истражувач на WMF}}",
+	"group-wmf-supportsafety": "Поддршка и безбедност на ФВМ",
+	"group-wmf-supportsafety-member": "{{GENDER:$1|Поддршка и безбедост на ФВМ}}",
+	"grouppage-wmf-supportsafety": "{{ns:project}}:Поддршка и безбедност на ФВМ",
 	"search-interwiki-custom": "wiktionary:Од Викиречник\nwikibooks:Од Викикниги\nwikinews:Од Викивести\nwikiquote:Од Викицитат\nwikisource:Од Викиизвор\nwikiversity:Од Викиуниверзиет\nwikivoyage:Од Википатување",
 	"shared-repo-name-shared": "Ризницата",
 	"wikimedia-copyright": "Текстот е достапен под условите на лиценцата <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.mk\">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.\nМоже да важат и дополнителни услови.\nПовеќе информации ќе најдете на страницата <a href=\"https://wikimediafoundation.org/wiki/Услови_на_употреба\">Услови на употреба</a>.",
@@ -271,6 +274,6 @@
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006 г.",
 	"right-viewdeletedfile": "Прегледување на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Избори за членови на одборот",
-	"wikimedia-mwoauthserver-invalid-user": "Се јави проблем при обидот да ве најавам глобално. Доколку сега штотуку ја направивте сметката, одјавете се и пак најавете се, па повторно пробајте да го овластите извршникот. Доколку ова не е случај, посетете друго Викимедиино вики додека сте најавени — such as [https://www.mediawiki.org/wiki/MediaWiki/mk mediawiki.org] — и тогаш пробајте да го овластите извршникот. (Код на грешката: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "Се јави проблем при обидот да ве најавам глобално. Доколку сега штотуку ја направивте сметката, одјавете се и пак најавете се, па повторно пробајте да го овластите извршникот. Доколку ова не е случај, посетете го [https://meta.wikimedia.org/ meta.wikimedia.org] — и тогаш пробајте да го овластите извршникот. (Код на грешката: E008)",
 	"wikimedia-cookiestatement": "Согласност за колачиња"
 }
