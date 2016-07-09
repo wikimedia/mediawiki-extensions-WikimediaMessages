@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amara-Amaziɣ"
+			"Amara-Amaziɣ",
+			"ⵕⴰⵊⵉ"
 		]
 	},
 	"sitesupport": "ⴼⴽ ⵉⴷⵔⵉⵎⵏ",
+	"tooltip-n-sitesupport": "ⴰⵡⵙⴰⵜ ⴰⵖ",
 	"wikibase-sitelinks-wikinews": "ⵡⵉⴽⵉ ⵉⵏⵖⵎⵉⵙⵏ",
 	"wikibase-sitelinks-wikiquote": "ⵡⵉⴽⵉ ⴰⴱⴷⴰⵔ",
 	"wikibase-sitelinks-wikisource": "ⵡⵉⴽⵉ ⴰⵙⴰⴳⵎ",

@@ -42,7 +42,8 @@
 			"Indiralena",
 			"Syum90",
 			"Codynguyen1116",
-			"Rubentl134"
+			"Rubentl134",
+			"Dgstranz"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -56,9 +57,9 @@
 	"nstab-timedtext": "TimedText",
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Prueba con otro artículo ►",
 	"gettingstarted-task-toolbar-no-suggested-page-wikipedia": "No pudimos encontrar más artículos que mejorar en este momento. Puedes intentarlo de nuevo más tarde o buscar artículos sobre tus temas de interés.",
-	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "Este artículo podría tener errores gramaticales o de ortografía que puedes arreglar.",
+	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "Este artículo puede tener errores ortográficos o gramaticales que puedes corregir.",
 	"gettingstarted-task-copyedit-toolbar-try-another-title-wikipedia": "Ir a una página aleatoria cuyo estilo puedes mejorar",
-	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Otros usuarios de {{SITENAME}} identificaron que esta página necesita mejoras. No necesitas ser un experto en el tema para ayudar.",
+	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Otros usuarios de {{SITENAME}} identificaron que esta página necesita mejoras. No necesitas ser un experto en el tema para poder ayudar.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Estos carteles identifican problemas de la página. No es necesario solucionarlos todos. Resuélvelos únicamente hasta donde te sientas cómodo.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Editar el artículo completo...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Pulsa en «{{int:vector-view-edit}}» para modificar el contenido en cualquier parte del artículo.",

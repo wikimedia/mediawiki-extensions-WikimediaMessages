@@ -194,6 +194,7 @@
 	"wikimedia-copyrightwarning": "儲存變更代表您同意 [https://wikimediafoundation.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [https://zh.wikipedia.org/wiki/Wikipedia:CC-BY-SA CC BY-SA 3.0 授權條款] 與 [https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] 發佈您的內容。\n\n你同意超連結或 URL 足以作為創用 CC 授權條款的姓名標示。",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\" title=\"創用 CC 姓名標示-相同方式分享授權條款定義\" target=\"_blank\">CC BY-SA 3.0</a> 與 <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL 定義\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "維基數據",
+	"wikibase-statementsection-identifiers": "識別碼",
 	"wikibase-sitelinks-wikibooks": "維基教科書",
 	"wikibase-sitelinks-wikinews": "維基新聞",
 	"wikibase-sitelinks-wikiquote": "維基語錄",
