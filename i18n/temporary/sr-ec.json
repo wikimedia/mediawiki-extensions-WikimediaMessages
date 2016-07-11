@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Жељко Тодоровић"
+			"Жељко Тодоровић",
+			"Сербијана"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Надзорници",
-	"group-oversight-member": "ревизор"
+	"group-oversight-member": "брисач измена"
 }

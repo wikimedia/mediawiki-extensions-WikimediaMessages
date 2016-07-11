@@ -78,7 +78,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:Izuzetak od IP blokova",
 	"group-patroller": "Patroleri",
 	"group-patroller-member": "{{GENDER:$1|patroler|patrolerka|patroler}}",
-	"grouppage-patroller": "{{ns:project}}:Patrollers",
+	"grouppage-patroller": "{{ns:project}}:Patroleri",
 	"group-researcher": "Istraživači",
 	"group-researcher-member": "{{GENDER:$1|istraživač|istraživačica|istraživač}}",
 	"grouppage-researcher": "{{ns:project}}:Istraživači",

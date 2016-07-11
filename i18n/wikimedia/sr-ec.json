@@ -82,7 +82,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:Изузетак од ИП блокирања",
 	"group-patroller": "Патролери",
 	"group-patroller-member": "{{GENDER:$1|патролер|патролерка|патролер}}",
-	"grouppage-patroller": "{{ns:project}}:Patrollers",
+	"grouppage-patroller": "{{ns:project}}:Патролери",
 	"group-researcher": "Истраживачи",
 	"group-researcher-member": "{{GENDER:$1|истраживач|истраживачица|истраживач}}",
 	"grouppage-researcher": "{{ns:project}}:Истраживачи",
