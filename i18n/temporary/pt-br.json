@@ -6,14 +6,13 @@
 			"Carla404",
 			"Dicionarista",
 			"Opraco",
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			"TheEduGobi"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
-	"bug-54847-password-reset-prompt": "Devido a um [[meta:October 2013 private data security issue|problema de privacidade ocorrido nos bancos de dados do Wikimedia Labs]], a senha que você utilizava pode ter se tornado vulnerável. Defina uma senha nova e diferente para tornar sua conta mais segura. Pedimos desculpas pelos transtornos.",
-	"password-recycled": "A senha que você inseriu é idêntica a uma senha antiga de sua conta. Defina uma senha nova, que seja diferente das anteriores.",
 	"grouppage-oversight": "{{ns:project}}:Supervisores",
 	"group-oversight": "Supervisores",
 	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
-	"please-translate": "Por favor ajuda a traduzir para seu idioma"
+	"please-translate": "Por favor, ajude a traduzir para o seu idioma"
 }
