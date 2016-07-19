@@ -8,7 +8,8 @@
 			"Renessaince",
 			"Wizardist",
 			"Zedlik",
-			"Nemo bis"
+			"Nemo bis",
+			"Kaganer"
 		]
 	},
 	"wikimediamessages-desc": "Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»",
@@ -145,5 +146,6 @@
 	"upload-form-label-not-own-work-local-commons": "Вы таксама можаце скарыстацца [[Special:Upload|старонкай загрузкі {{GRAMMAR:родны|{{SITENAME}}}}]], калі правілы сайту дазваляюць загрузку такога файлу.",
 	"wikimediashoplink-linktext": "Крама Вікімэдыі",
 	"wikimediashoplink-link-tooltip": "Наведайце краму Вікімэдыі",
-	"restriction-level-superprotect": "супэрабарона"
+	"restriction-level-superprotect": "супэрабарона",
+	"wikimedia-cookiestatement": "Устава пра cookie"
 }
