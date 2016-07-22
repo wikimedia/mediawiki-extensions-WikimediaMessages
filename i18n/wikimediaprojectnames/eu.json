@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"An13sa"
+			"An13sa",
+			"Sator"
 		]
 	},
 	"project-localized-name-cawiki": "Katalanezko Wikipedia",
@@ -32,5 +33,7 @@
 	"project-localized-name-eswikiquote": "Gaztelaniazko Wikiesanak",
 	"project-localized-name-eswikisource": "Gaztelaniazko Wikiturriak",
 	"project-localized-name-eswikiversity": "Gaztelaniazko Wikibertsitatea",
-	"project-localized-name-eswikivoyage": "Gaztelaniazko Wikibidaiak"
+	"project-localized-name-eswikivoyage": "Gaztelaniazko Wikibidaiak",
+	"project-localized-name-euwiki": "Euskarazko Wikipedia",
+	"project-localized-name-euwikibooks": "Euskarazko Wikiliburuak"
 }

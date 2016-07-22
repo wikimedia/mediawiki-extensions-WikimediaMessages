@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Banjo"
 		]
 	},
 	"contactpage-title-requestlicense": "Formulario para solicitar licenza",
@@ -45,5 +46,6 @@
 	"contactpage-affcom-user-group-terms-label": "Eu lin e concordo coas regras de arriba, co [[Wikimedia user groups/Agreement and code of conduct|acordo de grupo de usuarios e o código de conduta]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "''Se quere usar o '''logo de Wikimedia''', vostede pode [[Special:Contact/requestlicense|solicitar una licenza de marca]].''",
 	"contactpage-affcom-user-group-logo-community": "Logotipo da comunidade Wikimedia",
-	"contactpage-affcom-user-group-logo-affiliate": "Logotipo de afiliado a Wikimedia"
+	"contactpage-affcom-user-group-logo-affiliate": "Logotipo de afiliado a Wikimedia",
+	"contactpage-title-stewards": "Contactar ós Stewards"
 }
