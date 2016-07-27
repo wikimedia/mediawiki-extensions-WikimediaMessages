@@ -70,7 +70,7 @@
 	"grouppage-rollbacker": "{{ns:project}}:Atmetėjai",
 	"group-transwiki": "Transwiki įkėlėjai",
 	"group-transwiki-member": "transwiki įkėlėjai",
-	"grouppage-transwiki": "{{ns:project}}:Transwiki importuotojai",
+	"grouppage-transwiki": "{{ns:project}}:Transwiki įkelėjai",
 	"group-trusted": "Patikėtiniai",
 	"group-trusted-member": "{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}",
 	"group-uploader": "Įkėlėjai",
