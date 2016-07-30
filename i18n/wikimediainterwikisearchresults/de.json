@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"FriedhelmW",
-			"Metalhead64"
+			"Metalhead64",
+			"Inkowik",
+			"Umherirrender"
 		]
 	},
 	"search-interwiki-results-abwiki": "Suchergebnisse von der [[:ab:Main_Page|abchasischen Wikipedia]].",
@@ -58,7 +60,7 @@
 	"search-interwiki-results-cvwiki": "Suchergebnisse von der [[:cv:Main_Page|tschuwaschischen Wikipedia]].",
 	"search-interwiki-results-cywiki": "Suchergebnisse von der [[:cy:Main_Page|walisischen Wikipedia]].",
 	"search-interwiki-results-dawiki": "Suchergebnisse von der [[:da:Main_Page|dänischen Wikipedia]].",
-	"search-interwiki-results-dewiki": "Suchergebnisse von der [[:de:Main_Page|deutschen Wikipedia]].",
+	"search-interwiki-results-dewiki": "Suchergebnisse von der [[:de:Main_Page|deutschsprachigen Wikipedia]].",
 	"search-interwiki-results-diqwiki": "Suchergebnisse von der [[:diq:Main_Page|zazaischen Wikipedia]].",
 	"search-interwiki-results-dsbwiki": "Suchergebnisse von der [[:dsb:Main_Page|niedersorbischen Wikipedia]].",
 	"search-interwiki-results-dvwiki": "Suchergebnisse von der [[:dv:Main_Page|maledivischen Wikipedia]].",
@@ -66,7 +68,7 @@
 	"search-interwiki-results-eewiki": "Suchergebnisse von der [[:ee:Main_Page|ewischen Wikipedia]].",
 	"search-interwiki-results-elwiki": "Suchergebnisse von der [[:el:Main_Page|griechischen Wikipedia]].",
 	"search-interwiki-results-emlwiki": "Suchergebnisse von der [[:eml:Main_Page|emilianischen Wikipedia]].",
-	"search-interwiki-results-enwiki": "Suchergebnisse von der [[:en:Main_Page|englischen Wikipedia]].",
+	"search-interwiki-results-enwiki": "Suchergebnisse von der [[:en:Main_Page|englischsprachigen Wikipedia]].",
 	"search-interwiki-results-eowiki": "Suchergebnisse von der [[:eo:Main_Page|esperantischen Wikipedia]].",
 	"search-interwiki-results-eswiki": "Suchergebnisse von der [[:es:Main_Page|spanischen Wikipedia]].",
 	"search-interwiki-results-etwiki": "Suchergebnisse von der [[:et:Main_Page|estnischen Wikipedia]].",
