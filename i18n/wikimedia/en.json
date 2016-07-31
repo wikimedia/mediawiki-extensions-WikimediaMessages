@@ -132,8 +132,6 @@
 	"group-global-flow-create": "Global Flow creators",
 	"group-global-flow-create-member": "{{GENDER:$1|Global Flow creator}}",
 	"grouppage-global-flow-create": "mw:Flow",
-	"group-global-gather-admins": "Global Gather admins",
-	"group-global-gather-admins-member": "{{GENDER:$1|global Gather admin}}",
 	"group-global-ipblock-exempt": "Global IP block exemptions",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|global IP block exempt}}",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
