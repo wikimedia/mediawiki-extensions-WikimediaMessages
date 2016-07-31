@@ -6,5 +6,7 @@
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighters",
 	"group-oversight-member": "oversight",
-	"please-translate": "Please help translate to your language"
+	"hello": "Hello",
+	"please-translate": "Please help translate to your language",
+	"thank-you": "{{GENDER:$1|Thank you.}}"
 }
