@@ -212,6 +212,8 @@
 	"group-wmf-supportsafety": "{{doc-group|wmf-supportsafety}}",
 	"group-wmf-supportsafety-member": "{{doc-group|wmf-supportsafety|member}}",
 	"grouppage-wmf-supportsafety": "{{optional}}\n{{doc-group|wmf-supportsafety|page}}\n{{Global grouppage}}",
+	"tag-emoji": "Name for a change tag. Shown in diffs and revision lists next to edits which have been tagged by an abuse filter, and on [[Special:Tags]].",
+	"tag-emoji-description": "Long description for a change tag. Shown on [[Special:Tags]].",
 	"search-interwiki-custom": "Friendly sister project site names in search results, one project name per line, in an <nowiki><iwprefix>:<caption></nowiki> format. For example, possible settings for the English Wikipedia are:\n\nwiktionary:Word definitions from Wiktionary<br />\nwikibooks:In Wikibooks<br />\nwikinews:In Wikinews<br />\nwikiquote:Quotes from Wikiquote<br />\nwikisource:From Wikisource<br />\nwikiversity:From Wikiversity<br />\nwikivoyage:In Wikivoyage",
 	"shared-repo-name-shared": "{{optional}}\n\nA specific version of {{msg-mw|shared-repo}}; see [[MediaWiki:Shared-repo/qqq]] for more information.\n\n{{Identical|Wikimedia Commons}}",
 	"wikimedia-copyright": "{{Identical/Wikimedia-licensing}}\nThis message is displayed in the site footer. It is the default licensing policy for most Wikimedia sites. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.",

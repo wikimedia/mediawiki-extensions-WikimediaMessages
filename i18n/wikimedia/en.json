@@ -185,6 +185,8 @@
 	"group-wmf-supportsafety": "WMF Support and Safety",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Support and Safety}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Support and Safety",
+	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Used by global abuse filter 110.",
 	"search-interwiki-custom": "wiktionary:From Wiktionary\nwikibooks:From Wikibooks\nwikinews:From Wikinews\nwikiquote:From Wikiquote\nwikisource:From Wikisource\nwikiversity:From Wikiversity\nwikivoyage:From Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
