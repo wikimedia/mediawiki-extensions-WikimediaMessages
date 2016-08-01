@@ -182,6 +182,8 @@
 	"group-wmf-supportsafety": "צוות תמיכה ובטיחות של קרן ויקימדיה",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|איש|אשת}} צוות תמיכה ובטיחות של קרן ויקימדיה",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:צוות תמיכה ובטיחות של קרן ויקימדיה",
+	"tag-emoji": "אימוג'י",
+	"tag-emoji-description": "בשימוש על־ידי מסנן ההשחתות הגלובלי מספר 110",
 	"search-interwiki-custom": "wiktionary:תוצאות מוויקימילון\nwikibooks:תוצאות מוויקיספר\nwikinews:תוצאות מוויקיחדשות\nwikiquote:תוצאות מוויקיציטוט\nwikisource:תוצאות מוויקיטקסט\nwikiversity:תוצאות מוויקיברסיטה\nwikivoyage:תוצאות מוויקימסע",
 	"shared-repo-name-shared": "ויקישיתוף",
 	"wikimedia-copyright": "הטקסט מוגש בכפוף לרישיון <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.he\">Creative Commons ייחוס-שיתוף זהה 3.0</a>;\nייתכן שישנם תנאים נוספים.\n{{GENDER:|ראה|ראי|ראו}} את <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">תנאי השימוש</a> לפרטים.",
