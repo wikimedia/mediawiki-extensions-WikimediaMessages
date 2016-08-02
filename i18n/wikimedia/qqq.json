@@ -39,6 +39,7 @@
 	"nstab-institution": "Text on the tab of pages in the \"Institution\" namespace on Wikimedia Commons ([[commons:Institution:Wallraf-Richartz-Museum|Example]])\n{{Identical|Institution}}",
 	"nstab-sequence": "Text on the tab of pages in the \"Sequence\" namespace on Wikimedia Commons ([[commons:Sequence:Cats|Example]]).\n{{Identical|Sequence}}",
 	"nstab-timedtext": "Text on the tab of pages in the \"TimedText\" namespace on Wikimedia Commons ([[commons:TimedText:Edit_Button.ogv.en.srt|Example]])",
+	"search-helppage": "{{notranslate}}",
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "\"{{msg-mw|gettingstarted-task-toolbar-try-another-text}}\" with \"page\" replaced with \"article\".",
 	"gettingstarted-task-toolbar-no-suggested-page-wikipedia": "\"{{msg-mw|gettingstarted-task-toolbar-no-suggested-page}}\" with \"page\" replaced with \"article\".",
 	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "\"{{msg-mw|gettingstarted-task-copyedit-toolbar-description}}\" with \"page\" replaced with \"article\".",
