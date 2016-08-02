@@ -20,7 +20,8 @@
 			"Skalman",
 			"Tobulos1",
 			"Warrakkk",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Josve05a"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifika meddelanden",
@@ -175,6 +176,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Översättningsadministratörer",
 	"group-wmf-researcher": "WMF-forskare",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-forskare}}",
+	"tag-emoji": "Emoji",
 	"search-interwiki-custom": "wiktionary:Från Wiktionary\nwikibooks:Från Wikibooks\nwikinews:Från Wikinews\nwikiquote:Från Wikiquote\nwikisource:Från Wikisource\nwikiversity:Från Wikiversity\nwikivoyage:Från Wikivoyage",
 	"wikimedia-copyright": "Text är tillgänglig under licensen <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.sv\">Creative Commons Erkännande-Dela Lika</a>; ytterligare villkor kan gälla. \nSe <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">användarvillkoren</a> för detaljer.",
 	"wikidata-copyright": "All strukturerad data från huvud- eller egenskapsnamnrymden är tillgänglig under licensen <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.sv\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0</a>;\ntext i övriga namnrymder är tillgänglig under licensen <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.sv\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Creative Commons Erkännande-DelaLika</a>;\nytterligare villkor kan tillkomma.\nSe <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Användarvillkor</a> för detaljer.",

@@ -229,6 +229,8 @@
 	"group-wmf-supportsafety": "Aide et sécurité WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF de sécurité et de soutien}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF de Soutien et de Sécurité",
+	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Utilisé par le filtre d'abus global 110.",
 	"search-interwiki-custom": "wiktionary:De Wiktionary\nwikibooks:De Wikibooks\nwikinews:De Wikinews\nwikiquote:De Wikiquote\nwikisource:De Wikisource\nwikiversity:De Wikiversity\nwikivoyage:De Wikivoyage",
 	"wikimedia-copyright": "Les textes sont disponibles sous <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer.\nVoyez les <a href=\"https://wikimediafoundation.org/wiki/Conditions_d'utilisation\">conditions d’utilisation</a> pour plus de détails.",
 	"wikidata-copyright": "Toutes les données structurées des espaces de nom principal et propriété sont disponibles sous la <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Définition de la licence Creative Commons CC0\">licence Creative Commons CC0</a>;\nle texte dans les autres espaces de nom est disponible sous la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Définition de la licence Creative Commons Attribution-ShareAlike\">licence Creative Commons Attribution-ShareAlike</a>;\ndes conditions supplémentaires peuvent s’appliquer.\nVoyez les <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Conditions d’utilisation de la fondation Wikimédia\">Conditions d’utilisation</a>",
