@@ -185,6 +185,8 @@
 	"group-wmf-supportsafety": "Hỗ trợ và An toàn WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1}}Hỗ trợ và An toàn WMF",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Hỗ trợ và An toàn WMF",
+	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Sử dụng bởi bộ lọc lạm dụng toàn cục 110.",
 	"search-interwiki-custom": "wiktionary:Từ Wiktionary\nwikibooks:Từ Wikibooks\nwikinews:Từ Wikinews\nwikiquote:Từ Wikiquote\nwikisource:Từ Wikisource\nwikiversity:Từ Wikiversity\nwikivoyage:Từ Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Văn bản được phát hành theo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.vi\">Giấy phép Creative Commons Ghi công–Chia sẻ tương tự</a>; có thể áp dụng điều khoản bổ sung. Xem <a href=\"https://wikimediafoundation.org/wiki/Điều_khoản_Sử_dụng?uselang=vi\">Điều khoản Sử dụng</a> để biết thêm chi tiết.",
