@@ -3,7 +3,8 @@
 	"author": [
 		"Tim Starling",
 		"Siebrand Mazeland",
-		"James D. Forrester"
+		"James D. Forrester",
+		"Multichill"
 	],
 	"url": "https://www.mediawiki.org/wiki/Extension:WikimediaMessages",
 	"descriptionmsg": "wikimediamessages-desc",
@@ -30,6 +31,12 @@
 		],
 		"WikimediaLocalizedProjectNames": [
 			"i18n/wikimediaprojectnames"
+		],
+		"WikimediaLicenseTexts": [
+			"i18n/licensetexts"
+		],
+		"WikimediaCCLicenseTexts": [
+			"i18n/cclicensetexts"
 		]
 	},
 	"AutoloadClasses": {
