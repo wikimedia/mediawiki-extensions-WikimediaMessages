@@ -183,6 +183,8 @@
 	"group-wmf-supportsafety": "Поддршка и безбедност на ФВМ",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Поддршка и безбедост на ФВМ}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Поддршка и безбедност на ФВМ",
+	"tag-emoji": "Емоџи",
+	"tag-emoji-description": "Се користи од глобалниот филтер на злоупотреби 110.",
 	"search-interwiki-custom": "wiktionary:Од Викиречник\nwikibooks:Од Викикниги\nwikinews:Од Викивести\nwikiquote:Од Викицитат\nwikisource:Од Викиизвор\nwikiversity:Од Викиуниверзиет\nwikivoyage:Од Википатување",
 	"shared-repo-name-shared": "Ризницата",
 	"wikimedia-copyright": "Текстот е достапен под условите на лиценцата <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.mk\">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови</a>.\nМоже да важат и дополнителни услови.\nПовеќе информации ќе најдете на страницата <a href=\"https://wikimediafoundation.org/wiki/Услови_на_употреба\">Услови на употреба</a>.",
