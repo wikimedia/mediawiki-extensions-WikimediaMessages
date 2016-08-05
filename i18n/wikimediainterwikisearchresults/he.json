@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Guycn2"
 		]
 	},
 	"search-interwiki-results-abwiki": "הצגת תוצאות מתוך [[:ab:Main_Page|ויקיפדיה באבחזית]].",
@@ -242,6 +243,7 @@
 	"search-interwiki-results-swwiki": "הצגת תוצאות מתוך [[:sw:Main_Page|ויקיפדיה בסואהילי]].",
 	"search-interwiki-results-szlwiki": "הצגת תוצאות מתוך [[:szl:Main_Page|ויקיפדיה בשלזית]].",
 	"search-interwiki-results-tawiki": "הצגת תוצאות מתוך [[:ta:Main_Page|ויקיפדיה בטמילית]].",
+	"search-interwiki-results-tcywiki": "להלן תוצאות מתוך [[:tcy:Main_Page|ויקיפדיה בטולו]].",
 	"search-interwiki-results-tetwiki": "הצגת תוצאות מתוך [[:tet:Main_Page|ויקיפדיה בטטום]].",
 	"search-interwiki-results-tewiki": "הצגת תוצאות מתוך [[:te:Main_Page|ויקיפדיה בטלוגו]].",
 	"search-interwiki-results-tgwiki": "הצגת תוצאות מתוך [[:tg:Main_Page|ויקיפדיה בטג'יקית]].",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Lucas"
 		]
 	},
 	"project-localized-name-aawiki": "Afara Vikipedio",
@@ -310,6 +311,7 @@
 	"project-localized-name-tawiki": "Tamila Vikipedio",
 	"project-localized-name-tawikiquote": "Tamila Vikicitaro",
 	"project-localized-name-tawikisource": "Tamila Vikifontaro",
+	"project-localized-name-tcywiki": "Tulu‑Vikipedio",
 	"project-localized-name-tewiktionary": "Telugua Vikivortaro",
 	"project-localized-name-tewikisource": "Telugua Vikifontaro",
 	"project-localized-name-tgwiktionary": "Taĝika Vikivortaro",

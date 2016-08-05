@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hwangjy9",
-			"Yearning"
+			"Yearning",
+			"Ykhwong"
 		]
 	},
 	"search-interwiki-results-abwiki": "[[:ab:Main_Page|압카즈어 위키백과]]의 결과를 보여줍니다.",
@@ -184,6 +185,7 @@
 	"search-interwiki-results-svwiki": "[[:sv:Main_Page|스웨덴어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-swwiki": "[[:sw:Main_Page|스와힐리어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-tawiki": "[[:ta:Main_Page|타밀어 위키백과]]의 결과를 보여줍니다.",
+	"search-interwiki-results-tcywiki": "[[:tcy:Main_Page|툴루어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-tetwiki": "[[:tet:Main_Page|테툼어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-tewiki": "[[:te:Main_Page|텔루구어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-tgwiki": "[[:tg:Main_Page|타지크어 위키백과]]의 결과를 보여줍니다.",
