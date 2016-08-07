@@ -3,7 +3,8 @@
 		"authors": [
 			"Andriykopanytsia",
 			"Ата",
-			"Base"
+			"Base",
+			"Piramidion"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма запиту ліцензії",
@@ -48,5 +49,6 @@
 	"contactpage-affcom-user-group-logo-wm-logo": "''Якщо ви хочете використовувати '''логотип Вікімедіа''', ви можете [[Special:Contact/requestlicense|подати запит на ліцензію торгової марки]].''",
 	"contactpage-affcom-user-group-logo-community": "Лого спільноти Вікімедіа",
 	"contactpage-affcom-user-group-logo-affiliate": "Лого афіліата Вікімедіа",
-	"contactpage-title-stewards": "Зв'язатися зі стюардами"
+	"contactpage-title-stewards": "Зв'язатися зі стюардами",
+	"contactpage-stewards-disclaimer-label": "Відмова від відповідальності: Вся інформація, яку Ви подасте у цій формі, буде надіслана волонтерам-учасникам спільноти (а саме — [[Special:MyLanguage/Stewards|стюардам]]), не Фондові Вікімедіа. Ця інформація буде опрацьована ними ж, і вони ж дадуть на неї відповідь. Будь ласка, не надавайте такої інформації, якою Ви б не хотіли ділитися з волонтерами Вікімедіа. Їхні відповіді та інші повідомлення, пов'язані з опрацюванням поданої Вами інформації, не можуть вважатися офіційною позицією Фонду Вікімедіа. Для офіційного листування, будь ласка, зв'яжіться з Фондом Вікімедіа через один з методів, перелічених на сторінці https://wikimediafoundation.org/wiki/Special:MyLanguage/Contact_us."
 }

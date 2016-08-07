@@ -202,6 +202,8 @@
 	"group-wmf-supportsafety": "Підтримка і безпека ФВМ",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Підтримка і безпека ФВМ}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Підтримка і безпека ФВМ",
+	"tag-emoji": "Смайлики",
+	"tag-emoji-description": "Використовується глобальним фільтром зловживань 110.",
 	"search-interwiki-custom": "wiktionary:З Вікісловника\nwikibooks:З Вікіпідручника\nwikinews:З Вікіновин\nwikiquote:З Вікіцитат\nwikisource:З Вікіджерел\nwikiversity:З Віківерситету\nwikivoyage:З Вікімандрів",
 	"shared-repo-name-shared": "Вікісховище",
 	"wikimedia-copyright": "Текст доступний на умовах ліцензії <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nтакож можуть діяти додаткові умови.\nДетальніше див. <a href=\"https://wikimediafoundation.org/wiki/Умови_використання\">Умови використання</a>.",

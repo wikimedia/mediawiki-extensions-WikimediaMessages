@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand"
+			"Siebrand",
+			"MrLeopold"
 		]
 	},
 	"search-interwiki-results-abwiki": "Resultaten uit de [[:ab:Main_Page|Abchazische Wikipedia]].",
@@ -87,5 +88,6 @@
 	"search-interwiki-results-gdwiki": "Resultaten uit de [[:gd:Main_Page|Schots-Gaelische Wikipedia]].",
 	"search-interwiki-results-hakwiki": "Resultaten uit de [[:hak:Main_Page|Hakka Wikipedia]].",
 	"search-interwiki-results-nlwiki": "Resultaten uit de [[:nl:Main_Page|Nederlandse Wikipedia]].",
+	"search-interwiki-results-tcywiki": "Resultaten van [[:tcy:Main_Page|Tulu Wikipedia]] worden getoond.",
 	"search-interwiki-results-zeawiki": "Resultaten uit de [[:zea:Main_Page|Zeeuwse Wikipedia]]."
 }

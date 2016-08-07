@@ -17,7 +17,8 @@
 			"Robin0van0der0vliet",
 			"Mbch331",
 			"Effeietsanders",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"MrLeopold"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -179,6 +180,8 @@
 	"group-wmf-officeit-member": "{{GENDER:$1|Wikimedia Foundation Office IT}}",
 	"group-wmf-researcher": "WMF-onderzoekers",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-onderzoeker}}",
+	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Gebruikt door wereldwijde misbruikfilter 110.",
 	"search-interwiki-custom": "wiktionary:Uit WikiWoordenboek\nwikibooks:Uit Wikibooks\nwikinews:Uit Wikinieuws\nwikiquote:Uit Wikiquote\nwikisource:Uit Wikisource\nwikiversity:Uit Wikiversity\nwikivoyage:Uit Wikivoyage",
 	"wikimedia-copyright": "De tekst is beschikbaar onder de licentie <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.nl\">Creative Commons Naamsvermelding-Gelijk delen</a>.\nEr kunnen aanvullende voorwaarden van toepassing zijn.\nZie de <a href=\"https://wikimediafoundation.org/wiki/Gebruiksvoorwaarden\">Gebruiksvoorwaarden</a> voor meer informatie.",
 	"wikidata-copyright": "Alle gestructureerde gegevens uit de hoofdnaamruimte en de naamruimte Eigenschap zijn beschikbaar onder de <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definitie van de licentie Creative Commons CC0\">licentie Creative Commons CC0</a>;\ntekst in de andere naamruimten is beschikbaar onder de <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definitie van de licentie Creative Commons Attribution-ShareAlike\">licentie Creative Commons Attribution-ShareAlike</a>;\ner kunnen extra voorwaarden van toepassing zijn.\nZie <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Gebruiksvoorwaarden\">Gebruiksvoorwaarden</a> voor details.",
