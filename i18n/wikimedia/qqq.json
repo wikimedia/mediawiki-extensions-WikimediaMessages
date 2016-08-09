@@ -251,6 +251,7 @@
 	"upload-more-photos-of-this-monument": "This message is added by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.",
 	"createacct-helpusername-url": "The URL of a page providing username guidance for the wiki.\nUsed as a link in the {{msg-mw|Createacct-helpusername}} message on WMF wikis.",
 	"createacct-captcha-help-url": "The URL of a page providing CAPTCHA assistance for the wiki.\n\nUsed as a link in the {{msg-mw|Createacct-imgcaptcha-help}} message on WMF wikis.",
+	"wikimedia-delete-toobig": "Replaces the standard {{msg-mw|delete-toobig}} message with a custom message for WMF wikis, directing administrators to contact the stewards, which can delete such pages.\nParameters:\n* $1 - the upper limit of number of revisions the page has.",
 	"wikimedia-developers": "Label for a link to [[mw:How to contribute]] in the page footer. \"Developer\" means \"software developer\", not editor or contributor; feel free to replace the word with another which can be used in your language to call people with technical interest.\n\n{{Identical|Developer}}",
 	"wikimedia-developers-url": "The URL of a portal page for development efforts.",
 	"wikimedia-globalblocking-ipblocked": "A message shown to a [[mw:Extension:GlobalBlocking|globally blocked]] user trying to edit.\n\nRefers to {{msg-mw|Emailuser}} and is a customised version of {{msg-mw|globalblocking-ipblocked}}.\n\nThis message is similar to a [[MediaWiki:Blockedtext|MediaWiki core message]].\n\nParameters:\n* $1 - the username of the blocking user (steward), with a link\n* $2 - the project name where the blocking user is registered (usually \"meta.wikimedia.org\" on Wikimedia servers)\n* $3 - the reason specified by the blocking user\n* $4 - a timestamp for when the block was set\n* $5 - a timestamp for when the block will expire (or {{msg-mw|Infiniteblock}})\n* $6 - the IP address of the globally blocked user",
@@ -307,6 +308,5 @@
 	"right-viewdeletedfile": "{{doc-right|viewdeletedfile}}\nRight equivalent to having both {{msg-mw|right-deletedhistory}} and {{msg-mw|right-deletedtext}}, but only in the file and file_talk namespaces.",
 	"securepoll-dblist-securepollglobal": "Name used in the dropdown on [[Special:SecurePoll/create]] for the list of wikis allowed to vote for Board elections",
 	"wikimedia-mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly.",
-	"wikimedia-cookiestatement": "Text for link to Wikimedia Foundation Cookie statement on foundationwiki for the footer on all WMF wikis.",
-	"wikimedia-delete-toobig": "Replaces the standard {{msg-mw|delete-toobig}} message with a custom message for WMF wikis, directing administrators to contact the stewards, which can delete such pages.\nParameters:\n* $1 - the upper limit of number of revisions the page has."
+	"wikimedia-cookiestatement": "Text for link to Wikimedia Foundation Cookie statement on foundationwiki for the footer on all WMF wikis."
 }

@@ -246,6 +246,7 @@
 	"upload-more-photos-of-this-monument": "上传更多该古迹的照片",
 	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",
 	"createacct-captcha-help-url": "{{ns:Project}}:申请账户",
+	"wikimedia-delete-toobig": "此页面有巨大的编辑历史，超过$1个{{PLURAL:$1|修订版本}}。删除拥有非常大编辑历史的页面已被限制，以阻止对{{SITENAME}}的意外破坏。请在[[m:Steward requests/Miscellaneous|元维基请求页面]]联络[[m:Special:MyLanguage/Stewards|监管员]]请求删除此页面。",
 	"wikimedia-developers": "开发者",
 	"wikimedia-globalblocking-ipblocked": "'''您的IP地址已经[[m:Special:MyLanguage/Global blocks|在所有维基网站被封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n您目前的IP地址是$6。请在您提出的任何质疑中包括以上所有信息。\n\n如果您认为您被错误地封禁，您可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''您的访问请求所使用的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全域封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n被封禁的代理服务器地址是$6。请在您提出的任何质疑中包括以上所有信息。\n\n如果您认为您被错误地封禁，您可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
