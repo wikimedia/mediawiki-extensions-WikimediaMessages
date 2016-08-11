@@ -1,4 +1,10 @@
 {
-	"@metadata": [],
-	"sitesupport": "o pana e mani"
+	"@metadata": {
+		"authors": [
+			"Robin van der Vliet"
+		]
+	},
+	"sitesupport": "o pana e mani",
+	"wikibase-otherprojects-wikipedia": "Wikipesija",
+	"interlanguage-link-wikipedia": "Wikipesija"
 }
