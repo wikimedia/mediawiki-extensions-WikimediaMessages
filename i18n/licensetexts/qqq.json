@@ -25,7 +25,6 @@
 			"Macofe"
 		]
 	},
-	"wikimedialicensetexts-desc": "{{desc|name=Wikimedia License Texts|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
 	"wm-license-attribution-with-author-text": "This message will be used at [[Commons:Template:Attribution]] when an author is set.\n\nParameters:\n* $1 - the copyright holder\nSee also:\n* {{msg-mw|Wm-license-attribution-without-author-text}}",
 	"wm-license-attribution-without-author-text": "This message will be used at [[Commons:Template:Attribution]] when no author is set.\n\nSee also:\n* {{msg-mw|Wm-license-attribution-with-author-text}}",
 	"wm-license-artwork-artist": "Label \"Artist\" at [[Commons:Template:Artwork]].\n{{Identical|Artist}}",
