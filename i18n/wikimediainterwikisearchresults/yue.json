@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yueman"
+			"Yueman",
+			"Ktchankt"
 		]
 	},
-	"search-interwiki-results-zh_yuewiki": "顯示嚟自[[:zh-yue:Main_Page|粵文維基百科]]嘅結果。"
+	"search-interwiki-results-enwiki": "顯示嚟自[[:en:Main_Page|英文維基百科]]嘅結果。",
+	"search-interwiki-results-jawiki": "顯示嚟自[[:ja:Main_Page|日文維基百科]]嘅結果。",
+	"search-interwiki-results-zh_yuewiki": "顯示嚟自[[:zh-yue:Main_Page|粵文維基百科]]嘅結果。",
+	"search-interwiki-results-zhwiki": "顯示嚟自[[:zh:Main_Page|中文維基百科]]嘅結果。"
 }
