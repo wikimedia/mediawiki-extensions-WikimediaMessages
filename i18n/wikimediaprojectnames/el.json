@@ -4,5 +4,13 @@
 			"Geraki"
 		]
 	},
-	"project-localized-name-arwiki": "Αραβική Βικιπαίδεια"
+	"project-localized-name-arwiki": "Αραβική Βικιπαίδεια",
+	"project-localized-name-elwiki": "Ελληνική Βικιπαίδεια",
+	"project-localized-name-elwiktionary": "Ελληνικό Βικιλεξικό",
+	"project-localized-name-elwikibooks": "Ελληνικά Βικιβιβλία",
+	"project-localized-name-elwikinews": "Ελληνικά Βικινέα",
+	"project-localized-name-elwikiquote": "Ελληνικά Βικιφθέγματα",
+	"project-localized-name-elwikisource": "Ελληνική Βικιθήκη",
+	"project-localized-name-elwikiversity": "Ελληνικό Βικιεπιστήμιο",
+	"project-localized-name-elwikivoyage": "Ελληνικά Βικιταξίδια"
 }
