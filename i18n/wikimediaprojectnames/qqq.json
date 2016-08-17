@@ -3,7 +3,8 @@
 		"authors": [
 			"Liuxinyu970226",
 			"Beta16",
-			"Amire80"
+			"Amire80",
+			"Kumkumuk"
 		]
 	},
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
@@ -165,7 +166,7 @@
 	"project-localized-name-dewikisource": "{{ProjectNameDocumentation|url=https://de.wikisource.org|name=German Wikisource|language=de}}",
 	"project-localized-name-dewikiversity": "{{ProjectNameDocumentation|url=https://de.wikiversity.org|name=German Wikiversity|language=de}}",
 	"project-localized-name-dewikivoyage": "{{ProjectNameDocumentation|url=https://de.wikivoyage.org|name=German Wikivoyage|language=de}}",
-	"project-localized-name-diqwiki": "{{ProjectNameDocumentation|url=https://diq.wikipedia.org|name=Zazaki Wikipedia|language=diq}}",
+	"project-localized-name-diqwiki": "{{ProjectNameDocumentation|url=https://diq.wikipedia.org|name=Wikipedia Zazaki|language=diq}}",
 	"project-localized-name-dsbwiki": "{{ProjectNameDocumentation|url=https://dsb.wikipedia.org|name=Lower Sorbian Wikipedia|language=dsb}}",
 	"project-localized-name-dvwiki": "{{ProjectNameDocumentation|url=https://dv.wikipedia.org|name=Divehi Wikipedia|language=dv}}",
 	"project-localized-name-dvwiktionary": "{{ProjectNameDocumentation|url=https://dv.wiktionary.org|name=Divehi Wiktionary|language=dv}}",
