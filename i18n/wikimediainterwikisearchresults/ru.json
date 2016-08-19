@@ -1,8 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alexandr Efremov"
+			"Alexandr Efremov",
+			"Laboramus"
 		]
 	},
-	"search-interwiki-results-abwiki": "Результаты из [[:ab:Main_Page|абхазской Википедии]]."
+	"search-interwiki-results-abwiki": "Результаты из [[:ab:Main_Page|Aбхазской Википедии]].",
+	"search-interwiki-results-arwiki": "Результаты из [[:ar:Main_Page|Арабской Википедии]].",
+	"search-interwiki-results-enwiki": "Результаты из [[:en:Main_Page|Английской Википедии]].",
+	"search-interwiki-results-hewiki": "Результаты из [[:he:Main_Page|Ивритской Википедии]].",
+	"search-interwiki-results-hywiki": "Результаты из [[:hy:Main_Page|Армянской Википедии]].",
+	"search-interwiki-results-jawiki": "Результаты из [[:ja:Main_Page|Японской Википедии]].",
+	"search-interwiki-results-kawiki": "Результаты из [[:ka:Main_Page|Грузинской Википедии]]",
+	"search-interwiki-results-ruwiki": "Результаты из [[:ru:Main_Page|Русской Википедии]].",
+	"search-interwiki-results-ukwiki": "Результаты из [[:uk:Main_Page|Украинской Википедии]].",
+	"search-interwiki-results-zhwiki": "Результаты из [[:zh:Main_Page|Китайской Википедии]]."
 }
