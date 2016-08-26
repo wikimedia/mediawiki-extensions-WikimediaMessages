@@ -25,7 +25,8 @@
 			"Elham",
 			"Arian Ar",
 			"Rtemis",
-			"AzorAhai"
+			"AzorAhai",
+			"4nn1l2"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -111,7 +112,7 @@
 	"group-interface-editor": "ویرایش‌گران رابط",
 	"group-interface-editor-member": "{{GENDER:$1|ویرایشگر رابط}}",
 	"grouppage-interface-editor": "{{ns:project}}:ویرایش‌گران رابط",
-	"group-ipblock-exempt": "استثناهای قطع دسترسی آی‌پی",
+	"group-ipblock-exempt": "معافیت‌ها از قطع دسترسی آی‌پی",
 	"group-ipblock-exempt-member": "معافیت از قطع دسترسی آی‌پی",
 	"grouppage-ipblock-exempt": "{{ns:project}}:معافیت از قطع دسترسی آی‌پی",
 	"group-noratelimit": "حساب‌های تأثیرناپذیر از محدودیت سرعت",
@@ -155,8 +156,8 @@
 	"group-global-flow-create-member": "{{GENDER:$1|ایجاد کنندگان سراسری فلو}}",
 	"group-global-gather-admins": "جمع‌آوری سراسری مدیران",
 	"group-global-gather-admins-member": "{{GENDER:$1|جمع‌آوری سراسری مدیران}}",
-	"group-global-ipblock-exempt": "آی‌پی‌های مستثی از قطع دسترسی سراسری",
-	"group-global-ipblock-exempt-member": "{{GENDER:$1|آی‌پی‌های مستثی از قطع دسترسی سراسری}}",
+	"group-global-ipblock-exempt": "معافیت‌های سراسری از قطع دسترسی آی‌پی",
+	"group-global-ipblock-exempt-member": "{{GENDER:$1|معاف سراسری از قطع دسترسی آی‌پی}}",
 	"group-global-interface-editor": "ویرایشسگران رابط کاربری",
 	"group-global-interface-editor-member": "{{GENDER:$1|ویرایشسگران رابط کاربری}}",
 	"group-global-renamer": "تغییرنام‌دهنده‌های سراسری",
