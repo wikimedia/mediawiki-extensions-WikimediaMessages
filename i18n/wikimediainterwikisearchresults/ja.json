@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Takot"
+		]
+	},
+	"search-interwiki-results-arwiki": "[[:ar:Main_Page|アラビア語版ウィキペディア]]の検索結果を表示しています。",
+	"search-interwiki-results-enwiki": "[[:en:Main_Page|英語版ウィキペディア]]の検索結果を表示しています。",
+	"search-interwiki-results-hewiki": "[[:he:Main_Page|ヘブライ語版ウィキペディア]]の検索結果を表示しています。",
+	"search-interwiki-results-kowiki": "[[:ko:Main_Page|韓国語版ウィキペディア]]の結果を表示しています。",
+	"search-interwiki-results-ruwiki": "[[:ru:Main_Page|ロシア語版ウィキペディア]]の検索結果を表示しています。"
+}
