@@ -160,8 +160,6 @@
 	"group-global-flow-create": "{{doc-group|global-flow-create}}",
 	"group-global-flow-create-member": "{{doc-group|global-flow-create|member}}",
 	"grouppage-global-flow-create": "{{optional}}\n{{doc-group|global-flow-create|page}}\n{{Global grouppage}}",
-	"group-global-gather-admins": "{{doc-group|global-gather-admins}}",
-	"group-global-gather-admins-member": "{{doc-group|global-gather-admins|member}}",
 	"group-global-ipblock-exempt": "{{doc-group|global-ipblock-exempt}}",
 	"group-global-ipblock-exempt-member": "{{doc-group|global-ipblock-exempt|member}}",
 	"grouppage-global-ipblock-exempt": "{{optional}}\n{{doc-group|global-ipblock-exempt|page}}\n{{Global grouppage}}",
