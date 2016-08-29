@@ -4,7 +4,8 @@
 			"Diebuche",
 			"Multichill",
 			"Stifle",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"Moilleadóir"
 		]
 	},
 	"wikimedialicensetexts-desc": "Teachtaireachtaí cheadúnas Wikimedia",
@@ -40,9 +41,9 @@
 	"wm-license-information-other-versions": "Leaganacha eile",
 	"wm-license-own-work": "Obair féin",
 	"wm-license-pd-usgov-military-army-wiki-link": "w:ga:Arm na Stát Aontaithe",
-	"wm-license-self-one-license": "Is mise sealbhóir cóipchirt an shaothair seo, agus foilsím é faoin gceadúnas seo a leanas:",
+	"wm-license-self-one-license": "Is mise sealbhóir cóipchirt an shaothair seo agus foilsím é faoin gceadúnas seo a leanas:",
 	"wm-license-self-one-license-with-author": "Is mise $1, sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:",
-	"wm-license-self-multiple-licenses": "Is mise sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:",
+	"wm-license-self-multiple-licenses": "Is mise sealbhóir cóipchirt an shaothair seo agus foilsím é faoi na ceadúnais seo a leanas:",
 	"wm-license-self-multiple-licenses-with-author": "Is mise $1, sealbhóir cóipchirt an shaothair seo, agus foilsím é faoi na ceadúnais seo a leanas:",
 	"wm-license-self-multiple-licenses-select": "Is féidir leat a roghnú an ceadúnas do rogha"
 }
