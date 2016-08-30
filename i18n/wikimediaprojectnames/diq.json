@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kumkumuk"
+			"Kumkumuk",
+			"Mirzali"
 		]
 	},
 	"project-localized-name-aawiki": "Afarki Wikipedia",
@@ -45,11 +46,11 @@
 	"project-localized-name-avwiki": "Avar Wikipedia",
 	"project-localized-name-aywiki": "Aymara Wikipedia",
 	"project-localized-name-azwiki": "Azerki Wikipedia",
-	"project-localized-name-barwiki": "Bavarian Wikipedia",
-	"project-localized-name-bat_smgwiki": "Samogitki Wikipedia",
-	"project-localized-name-bclwiki": "Miyan bikolki Wikipedia",
-	"project-localized-name-bewiki": "Belaruski Wikipedia",
-	"project-localized-name-bgwiki": "Bulgarki Wikipedia",
+	"project-localized-name-barwiki": "Wikipediyaya Bavyeraki",
+	"project-localized-name-bat_smgwiki": "Wikipediyaya Samogitki",
+	"project-localized-name-bclwiki": "Wikipediyaya Bikolkiyê Miyani",
+	"project-localized-name-bewiki": "Wikipedia Belaruski",
+	"project-localized-name-bgwiki": "Wikipediyaya Bulğarki",
 	"project-localized-name-bnwiki": "Bengali Wikipedia",
 	"project-localized-name-bowiki": "Tibetki Wikipedia",
 	"project-localized-name-brwiki": "Bretonki Wikipedia",
