@@ -43,6 +43,9 @@
 	"wm-license-information-other-versions": "Citas versijas",
 	"wm-license-own-work": "Paša darbs",
 	"wm-license-pd-usgov-military-air-force-wiki-link": "w:lv:ASV Gaisa spēki",
-	"wm-license-self-one-license-with-author": "$1, šī attēla autors, labprātīgi nodod to sabiedrības lietošanā.",
+	"wm-license-self-one-license": "Es, šī darba autortiesību īpašnieks, publicēju to saskaņā ar šo licenci:",
+	"wm-license-self-one-license-with-author": "$1, šī darba autortiesību īpašnieks, publicē to saskaņā ar šo licenci:",
+	"wm-license-self-multiple-licenses": "Es, šī darba autortiesību īpašnieks, publicēju to saskaņā ar šīm licencēm:",
+	"wm-license-self-multiple-licenses-with-author": "$1, šī darba autortiesību īpašnieks, publicē to saskaņā ar šīm licencēm:",
 	"wm-license-self-multiple-licenses-select": "Jūs varat izvēlēties licenci pēc jūsu vēlmes."
 }
