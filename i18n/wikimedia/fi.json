@@ -18,7 +18,8 @@
 			"VezonThunder",
 			"Nemo bis",
 			"MrTapsa",
-			"SMAUG"
+			"SMAUG",
+			"Alluk."
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -191,5 +192,6 @@
 	"protect-level-editextendedsemiprotected": "Salli vain autopatrollerit",
 	"wikimedia-sulrenamewarning-usenew": "Tästä hetkestä lähtien sinun tulee kirjautua sisään käyttäen uutta käyttäjänimeäsi <strong>$1</strong>. Uusi käyttäjänimesi on uniikki kaikissa Wikimedia-projekteissa, ja jos olet olet kirjautuneena yhdessä projektissa ja vierailet toisessa, tunnuksesi seuraa perässä. [[:m:Special:MyLanguage/Help:Unified_login|Yhdistetyn kirjautumisen tietosivulla]] on enemmän tietoa yhdistetystä kirjautumisesta, kuten myös lista useimmin kysytyistä kysymyksistä. Jos sinun täytyy päivittää sähköpostiosoitteesi tai salasanasi [[Special:Preferences|asetuksissasi]], nyt on hyvä aika tehdä niin.\n\nVoit pyytää tunnuksesi nimeämistä toiselle nimelle sivun [[Special:GlobalRenameRequest]] kautta. Kiitos osallistumisestasi Wikimedia-projekteihin.",
 	"wikimedia-centralauth-contribs-locked": "Tämä käyttäjätunnus on lukittu järjestelmänlaajuisesti.\nKatso [[m:Special:CentralAuth/$1|järjestelmänlaajuisen tunnuksen tiedot]] lisätietoja varten.",
-	"securepoll-dblist-securepollglobal": "Hallituksen vaalit"
+	"securepoll-dblist-securepollglobal": "Hallituksen vaalit",
+	"wikimedia-cookiestatement": "Evästekäytäntö"
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Piramidion",
-			"Ата"
+			"Ата",
+			"Base"
 		]
 	},
 	"project-localized-name-aawiki": "Афарська Вікіпедія",
@@ -862,7 +863,7 @@
 	"project-localized-name-officewiki": "Офіс Вікімедіа",
 	"project-localized-name-ombudsmenwiki": "Омбудсмен-вікі",
 	"project-localized-name-otrs_wikiwiki": "OTRS-вікі",
-	"project-localized-name-outreachwiki": "Популяризація",
+	"project-localized-name-outreachwiki": "Аутріч-вікі",
 	"project-localized-name-pa_uswikimedia": "Вікімедіа Пенсильванія",
 	"project-localized-name-plwikimedia": "Вікімедіа Польща",
 	"project-localized-name-qualitywiki": "Вікімедіа-якість",
