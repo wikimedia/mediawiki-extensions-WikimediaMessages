@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Catrope",
-			"MrLeopold"
+			"MrLeopold",
+			"Dinosaur918"
 		]
 	},
 	"project-localized-name-aawiki": "Afar Wikipedia",
@@ -114,5 +115,6 @@
 	"project-localized-name-cawikinews": "Catalaanse Wikinews",
 	"project-localized-name-cawikiquote": "Catalaanse Wikiquote",
 	"project-localized-name-cawikisource": "Catalaanse Wikisource",
+	"project-localized-name-nlwiki": "Nederlandstalige Wikipedia",
 	"project-localized-name-tcywiki": "Tulu Wikipedia"
 }
