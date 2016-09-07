@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Better"
+			"Better",
+			"Crucifunked"
 		]
 	},
 	"sitesupport": "Donacionis",
 	"tooltip-n-sitesupport": "Ayúamus",
-	"specialpages-group-contribution": "Contribucionis/Fundraiser"
+	"specialpages-group-contribution": "Contribucionis/Fundraiser",
+	"wikimedia-developers": "Desarrollaerus"
 }
