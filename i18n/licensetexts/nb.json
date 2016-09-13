@@ -9,7 +9,8 @@
 			"Laaknor",
 			"Multichill",
 			"Nghtwlkr",
-			"Simny"
+			"Simny",
+			"Tarjeimo"
 		]
 	},
 	"wikimedialicensetexts-desc": "Meldinger knyttet til Wikimedialisenser",
@@ -66,7 +67,7 @@
 	"wm-license-information-table-summary": "En standardisert tabell som gir komplett informasjon om filen, inkludert informasjon om hva den visrt, hvordan den ble skapt, opphavsrett og kilde.",
 	"wm-license-information-description": "Beskrivelse",
 	"wm-license-information-description-missing": "Denne filen mangler '''beskrivelse''', og kan mangle annen informasjon.",
-	"wm-license-information-description-missing-request": "Vennligst leggtil relevant informasjon.",
+	"wm-license-information-description-missing-request": "Vennligst legg til relevant informasjon.",
 	"wm-license-information-source": "Kilde",
 	"wm-license-information-source-missing": "Denne filen mangler '''kildeinformasjon'''.",
 	"wm-license-information-source-missing-request": "Vennligst rediger filens beskrivelse og angi kilde.",
