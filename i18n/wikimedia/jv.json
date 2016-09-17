@@ -72,7 +72,7 @@
 	"group-interface-editor": "Panyunting antarmuka",
 	"group-interface-editor-member": "{{GENDER:$1|panyunting antarmuka}}",
 	"grouppage-interface-editor": "{{ns:project}}:Panyunting antarmuka",
-	"group-ipblock-exempt": "Pambébasan saka pamblokiran IP",
+	"group-ipblock-exempt": "Pambébasan saka blokiran IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|pamardikan blokiran IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Pambébasan saka pamblokiran IP",
 	"group-patroller": "Paronda",
