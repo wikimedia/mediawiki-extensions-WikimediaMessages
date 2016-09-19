@@ -4,7 +4,6 @@
 			"Ильнар"
 		]
 	},
-	"wikimedialicensetexts-desc": " Викимедианең лицензия турындагы җәбәрләре",
 	"wm-license-artwork-artist": "Автор",
 	"wm-license-artwork-title": "Исем",
 	"wm-license-artwork-medium": "Мөхит",
@@ -48,7 +47,7 @@
 	"wm-license-information-source": "Чыганагы",
 	"wm-license-information-source-missing": "Бирелгән медиа-файлда \"чыганак\" турында мәгълүмат бирелми.",
 	"wm-license-information-source-missing-request": "Зинһар, бу файлның тасвирламасын үзгәртегез һәм чыганагын күрсәтегез.",
-	"wm-license-information-date": "Вакыт",
+	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Автор",
 	"wm-license-information-author-missing": "Бирелгән мәгълүматта \"авторлык\" турында хәбәр бирелми.",
 	"wm-license-information-permission": "Рөхсәт",

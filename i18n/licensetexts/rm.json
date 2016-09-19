@@ -1,5 +1,11 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Terfili"
+		]
+	},
 	"wm-license-information-description": "Descripziun",
-	"wm-license-information-source": "Funtauna"
+	"wm-license-information-source": "Funtauna",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Autur"
 }
