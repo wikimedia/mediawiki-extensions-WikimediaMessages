@@ -3,14 +3,20 @@
 		"authors": [
 			"عثمان خان شاہ",
 			"عرفان ارشد",
-			"محمد افضل"
+			"محمد افضل",
+			"Muhammad Shuaib"
 		]
 	},
 	"wm-license-cc-attribution": "لگاؤ",
 	"wm-license-cc-by-sa-3.0-text": "اس ملف کا لائسنس [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] کے تحط ہے۔",
 	"wm-license-cc-free": "آپ آزاد ہیں:",
 	"wm-license-cc-free-to-share-header": "شیئر کرنے",
-	"wm-license-cc-conditions": "درج ذیل حالات میں:",
-	"wm-license-cc-conditions-attribution-header": "لگاؤ",
-	"wm-license-cc-conditions-share_alike-header": "مماثل شراکت"
+	"wm-license-cc-free-to-share-text": "کام کو نقل، تقسیم یا منتقل کرنے کے لیے",
+	"wm-license-cc-free-to-remix-header": "ریمکس کے لیے",
+	"wm-license-cc-free-to-remix-text": "کام منبطق کرنے کے لیے",
+	"wm-license-cc-conditions": "مندرجہ ذیل شرائط کے تحت:",
+	"wm-license-cc-conditions-attribution-header": "انتساب",
+	"wm-license-cc-conditions-attribution-text": "آپ کو اس کام کا انتساب مصنف یا اجازت دہندہ کے بتائے گئے طریقہ کے مطابق دینا ہوگا (تاہم یہ انتساب اس طرح نہیں ہونا چاہیے کہ اسے دیکھ کر ایسا محسوس ہو کہ اصل مصنف یا اجازت دہندہ آپ کے یا آپ کے ذریعہ اس کام کے استعمال کرنے کے حامی ہیں)۔",
+	"wm-license-cc-conditions-share_alike-header": "یکساں شراکت",
+	"wm-license-cc-conditions-share_alike-text": "اگر آپ اس کام میں کوئی تبدیلی یا ترمیم کرتے ہیں یا اس کام پر مبنی کچھ نیا بناتے ہیں تو اسے بھی آپ اسی یا اس جیسے کسی اجازت نامے کے تحت شائع کر سکتے ہیں۔"
 }
