@@ -108,6 +108,7 @@
 	"group-steward-member": "Steward",
 	"group-sysadmin": "Správcovia systému",
 	"group-sysadmin-member": "správca systému",
+	"tag-emoji": "emotikony",
 	"wikimedia-copyright": "Text je dostupný za podmienok <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Podmienky použitia</a>.",
 	"wikimedia-copyrightwarning": "Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Podmienky použitia].",
 	"wikibase-sitelinks-wikinews": "Wikinoviny",
@@ -120,5 +121,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa bola [[m:Special:MyLanguage/Global blocks|zablokovaná na všetkých wikipédiách]].'''\n\nZablokoval Vás $1 ($2).\nUdaným dôvodom bolo ''$3''.\n\n* Začiatok blokovania: $4\n* Zablokovanie vyprší: $5\n\nVaše súčasná IP adresa je $6.\nTieto údaje uvádzajte vo všetkých dotazoch.\n\nAk sa domnievate, že ste boli zablokovaní omylom, môžete nájsť viac informácií a pokyny v globálnom pravidle [[m:Special:MyLanguage/No open proxies|Žiadne otvorené proxy]].\nAk chcete zablokovanie prediskutovať, môžete [[m:Steward requests/Global|napísať žiadosť o preskúmanie na Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Vaša IP adresa bola [[m:Special:MyLanguage/Global blocks|zablokovaná na všetkých wikipédiách]].'''\n\nZablokoval Vás $1 ($2).\nUdaným dôvodom bolo ''$3''.\n\n* Začiatok blokovania: $4\n* Zablokovanie vyprší: $5\n\nVaše súčasná IP adresa je $6.\nTieto údaje uvádzajte vo všetkých dotazoch.\n\nAk sa domnievate, že ste boli zablokovaní omylom, môžete nájsť viac informácií a pokyny v globálnom pravidle [[m:Special:MyLanguage/No open proxies|Žiadne otvorené proxy]].\nAk chcete zablokovanie prediskutovať, môžete [[m:Steward requests/Global|napísať žiadosť o preskúmanie na Meta-Wiki]].",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia",
-	"protect-level-superprotect": "Povoliť iba používateľov superprotect"
+	"protect-level-superprotect": "Povoliť iba používateľov superprotect",
+	"wikimedia-feedback-termsofuse": "Súhlasím s tým, že budem poskytovať spätnú väzbu v súlade s <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Podmienkami použitia</a>.",
+	"wikimedia-cookiestatement": "Vyhlásenie o cookies"
 }

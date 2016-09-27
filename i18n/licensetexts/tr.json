@@ -9,10 +9,10 @@
 			"Universal Life",
 			"Vito Genovese",
 			"Stultiwikia",
-			"Arystanbek"
+			"Arystanbek",
+			"Kumkumuk"
 		]
 	},
-	"wikimedialicensetexts-desc": "Wikimedia lisans mesajları",
 	"wm-license-attribution-with-author-text": "Bu dosyanın telif hakkı sahibi, $1, telif hakkına uygun şekilde atıfta bulunmak koşuluyla herkese '''herhangi bir amaç için''' bu çalışmayı kullanmak üzere izin vermiştir.",
 	"wm-license-attribution-without-author-text": "Bu dosyanın telif hakkı sahibi, telif hakkına uygun şekilde atıfta bulunmak koşuluyla herkese '''herhangi bir amaç için''' bu çalışmayı kullanmak üzere izin vermiştir.",
 	"wm-license-artwork-artist": "Sanatçı/Yapan",
@@ -52,7 +52,7 @@
 	"wm-license-creator-work-period": "Çalışma süresi",
 	"wm-license-creator-work-location": "İş konumu",
 	"wm-license-creator-linkback": "Oluşturan bilgi kutusu şablonuna bağlantı",
-	"wm-license-fal-text": "Copyleft: Bu sanat eseri ücretsizdir; \"'[[{{int:wm-lisans-fal-wiki-link}}|Özgür Sanat Lisansı]]\"'nı gözönünde bulundurarak modifiye edip dağıtabilirsiniz. [{{int:wm-lisans-fal-full-link}}|Copyleft Tutum sitesinde] bu lisansın bir numunesii bulabilisin.",
+	"wm-license-fal-text": "Copyleft: Bu sanat eseri ücretsizdir; \"'[[{{int:wm-lisans-fal-wiki-link}}|Özgür Sanat Lisansı]]\"'nı gözönünde bulundurarak modifiye edip dağıtabilirsiniz. [{{int:wm-license-fal-full-link}}  Copyleft paylaşım sitesinde] bu lisansın bir numunesini bulabilirsiniz veya  [{{int:wm-license-fal-full-link-commons}} baika bir projeden]  bakabilirsiniz.",
 	"wm-license-fal-wiki-link": "w:tr:Özgür Sanat lisansı",
 	"wm-license-fsf-wiki-link": "w:tr:Özgür Yazılım Vakfı",
 	"wm-license-free-software-wiki-link": "w:tr:Özgür yazılım",
