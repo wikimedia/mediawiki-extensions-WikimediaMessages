@@ -19,7 +19,8 @@
 			"Nemo bis",
 			"MrTapsa",
 			"SMAUG",
-			"Alluk."
+			"Alluk.",
+			"Pyscowicz"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -166,6 +167,7 @@
 	"wikibase-otherprojects-meta": "Meta-Wiki",
 	"wikibase-otherprojects-wikibooks": "Wikikirjasto",
 	"wikibase-otherprojects-wikidata": "Wikidata",
+	"wikibase-otherprojects-wikinews": "Wikiuutiset",
 	"wikibase-otherprojects-wikiquote": "Wikisitaatit",
 	"wikibase-otherprojects-wikisource": "Wikiaineisto",
 	"wikibase-otherprojects-wikiversity": "Wikiopisto",

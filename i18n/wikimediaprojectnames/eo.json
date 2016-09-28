@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Robin van der Vliet",
-			"Lucas"
+			"Lucas",
+			"Gamliel Fishkin"
 		]
 	},
 	"project-localized-name-aawiki": "Afara Vikipedio",
@@ -19,9 +20,12 @@
 	"project-localized-name-amwikiquote": "Amhara Vikicitaro",
 	"project-localized-name-arwiki": "Araba Vikipedio",
 	"project-localized-name-arwiktionary": "Araba Vikivortaro",
+	"project-localized-name-arwikibooks": "Arabaj Vikilibroj",
+	"project-localized-name-arwikinews": "Arabaj Vikinovaĵoj",
 	"project-localized-name-arwikiquote": "Araba Vikicitaro",
 	"project-localized-name-arwikisource": "Araba Vikifontaro",
 	"project-localized-name-arwikiversity": "Araba Vikiversitato",
+	"project-localized-name-arzwiki": "Egiptaraba Vikipedio",
 	"project-localized-name-aswiktionary": "Asama Vikivortaro",
 	"project-localized-name-aswikisource": "Asama Vikifontaro",
 	"project-localized-name-astwiki": "Asturia Vikipedio",
@@ -277,6 +281,7 @@
 	"project-localized-name-sdwiki": "Sinda Vikipedio",
 	"project-localized-name-sdwiktionary": "Sinda Vikivortaro",
 	"project-localized-name-siwiki": "Sinhala Vikipedio",
+	"project-localized-name-siwiktionary": "Sinhala Vikivortaro",
 	"project-localized-name-skwiki": "Slovaka Vikipedio",
 	"project-localized-name-skwiktionary": "Slovaka Vikivortaro",
 	"project-localized-name-skwikiquote": "Slovaka Vikicitaro",
@@ -369,6 +374,7 @@
 	"project-localized-name-zhwikisource": "Ĉina Vikifontaro",
 	"project-localized-name-zhwikivoyage": "Ĉina Vikivojaĝo",
 	"project-localized-name-zuwiktionary": "Zulua Vikivortaro",
+	"project-localized-name-commonswiki": "Vikimedia Komunejo",
 	"project-localized-name-donatewiki": "Donaci",
 	"project-localized-name-sourceswiki": "Vikifontaro",
 	"project-localized-name-specieswiki": "Vikispecioj",

@@ -3,7 +3,8 @@
 		"authors": [
 			"Nike",
 			"Stryn",
-			"Lliehu"
+			"Lliehu",
+			"Pyscowicz"
 		]
 	},
 	"project-localized-name-aawiki": "Afarinkielinen Wikipedia",
@@ -78,7 +79,7 @@
 	"project-localized-name-bgwikinews": "Bulgariankielinen Wikiuutiset",
 	"project-localized-name-bgwikiquote": "Bulgariankielinen Wikisitaatit",
 	"project-localized-name-bgwikisource": "Bulgariankielinen Wikiaineisto",
-	"project-localized-name-bhwiki": "Bhodžpurinkielinen Wikipedia",
+	"project-localized-name-bhwiki": "Biharinkielinen Wikipedia",
 	"project-localized-name-bhwiktionary": "Bhodžpurinkielinen Wikisanakirja",
 	"project-localized-name-biwiki": "Bislamankielinen Wikipedia",
 	"project-localized-name-biwiktionary": "Bislamankielinen Wikisanakirja",
@@ -630,8 +631,16 @@
 	"project-localized-name-slwikiversity": "Sloveeninkielinen Wikiopisto",
 	"project-localized-name-smwiki": "Samoankielinen Wikipedia",
 	"project-localized-name-smwiktionary": "Samoankielinen Wikisanakirja",
+	"project-localized-name-sqwikinews": "Albaniankielinen Wikiuutiset",
+	"project-localized-name-srwikinews": "Serbiankielinen Wikiuutiset",
 	"project-localized-name-sswiktionary": "Swazinkielinen Wikisanakirja",
+	"project-localized-name-svwikinews": "Ruotsinkielinen Wikiuutiset",
+	"project-localized-name-tawikinews": "Tamilinkielinen Wikiuutiset",
+	"project-localized-name-thwikinews": "Thaimaankielinen Wikiuutiset",
+	"project-localized-name-trwikinews": "Turkinkielinen Wikiuutiset",
 	"project-localized-name-trwikisource": "Turkinkielinen Wikiaineisto",
 	"project-localized-name-ugwiki": "Uiguurinkielinen Wikipedia",
+	"project-localized-name-ukwikinews": "Ukrainankielinen Wikiuutiset",
+	"project-localized-name-zhwikinews": "Kiinankielinen Wikiuutiset",
 	"project-localized-name-wikidatawiki": "Wikidata"
 }
