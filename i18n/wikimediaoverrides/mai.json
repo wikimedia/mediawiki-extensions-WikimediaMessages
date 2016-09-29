@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"बिप्लब आनन्द"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(चुनावमे सहायता करी)]]",
+	"wikimedia-createacct-imgcaptcha-help": "चित्र नै साफ अछि? तँ [[{{MediaWiki:createacct-captcha-help-url}}|खाता निर्माण हेतु निवेदन]] करी।"
+}
