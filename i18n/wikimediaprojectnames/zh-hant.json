@@ -9,7 +9,7 @@
 	"project-localized-name-aawiktionary": "阿法語維基詞典",
 	"project-localized-name-aawikibooks": "阿法語維基教科書",
 	"project-localized-name-abwiki": "阿布哈茲語維基百科",
-	"project-localized-name-abwiktionary": "亞布卡薩語維基詞典",
+	"project-localized-name-abwiktionary": "阿布哈茲語維基詞典",
 	"project-localized-name-acewiki": "亞齊語維基百科",
 	"project-localized-name-adywiki": "阿迪格語維基百科",
 	"project-localized-name-afwiki": "南非荷蘭語維基百科",
@@ -67,7 +67,8 @@
 	"project-localized-name-bewikiquote": "白俄羅斯語維基語錄",
 	"project-localized-name-bewikisource": "白俄羅斯語維基文庫",
 	"project-localized-name-be_x_oldwiki": "白俄羅斯語 (Taraškievica) 維基百科",
-	"project-localized-name-bhwiki": "比哈爾語維基百科",
+	"project-localized-name-bhwiki": "博杰普爾語維基百科",
+	"project-localized-name-bhwiktionary": "博杰普爾語維基詞典",
 	"project-localized-name-bmwiki": "班巴拉語維基百科",
 	"project-localized-name-bnwiki": "孟加拉語維基百科",
 	"project-localized-name-bnwiktionary": "孟加拉語維基詞典",
@@ -299,5 +300,6 @@
 	"project-localized-name-mediawikiwiki": "MediaWiki",
 	"project-localized-name-metawiki": "元維基",
 	"project-localized-name-specieswiki": "維基物種",
-	"project-localized-name-wikidatawiki": "維基數據"
+	"project-localized-name-wikidatawiki": "維基數據",
+	"project-localized-name-zerowiki": "維基百科零"
 }
