@@ -836,6 +836,7 @@
 	"project-localized-name-commonswiki": "{{ProjectNameDocumentation|url=https://commons.wikimedia.org|name=Wikimedia Commons|language=en}}\n{{Identical|Wikimedia Commons}}",
 	"project-localized-name-dkwikimedia": "{{ProjectNameDocumentation|url=https://dk.wikimedia.org|name=Wikimedia Denmark|language=zxx}}",
 	"project-localized-name-donatewiki": "{{ProjectNameDocumentation|url=https://donate.wikimedia.org|name=Donate|language=en}}\n{{Identical|Donate}}",
+	"project-localized-name-ecwikimedia": "{{ProjectNameDocumentation|url=https://be.wikimedia.org|name=Wikimedistas de Ecuador|language=zxx}}",
 	"project-localized-name-etwikimedia": "{{ProjectNameDocumentation|url=https://ee.wikimedia.org|name=Wikimedia Estonia|language=et}}",
 	"project-localized-name-execwiki": "{{ProjectNameDocumentation|url=https://exec.wikimedia.org|name=Wikimedia Executive|language=zxx}}",
 	"project-localized-name-fdcwiki": "{{ProjectNameDocumentation|url=https://fdc.wikimedia.org|name=Wikimedia FDC|language=en}}",
