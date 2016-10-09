@@ -7,7 +7,8 @@
 			"לערי ריינהארט",
 			"Jojit fb",
 			"Leeheonjin",
-			"Pokéfan95"
+			"Pokéfan95",
+			"Emem.calist"
 		]
 	},
 	"wikimediamessages-desc": "Tiyak na mga mensahe ng Wikimedia",
@@ -52,6 +53,8 @@
 	"group-editprotected": "Mga patnugot ng pahinang nakaprutekta",
 	"group-editprotected-member": "{{GENDER:$1|patnugot ng pahinang nakaprutekta}}",
 	"grouppage-editprotected": "{{ns:project}}:Mga patnugot ng mga pahinang nakaprutekta",
+	"group-engineer": "Mga Enhinyero",
+	"grouppage-engineer": "{{ns:project}}:Mga Enhinyero",
 	"group-eliminator": "Mga tagapagtanggal",
 	"group-eliminator-member": "{{GENDER:$1|tagapagtanggal}}",
 	"grouppage-eliminator": "{{ns:project}}:Mga tagapag-alis",

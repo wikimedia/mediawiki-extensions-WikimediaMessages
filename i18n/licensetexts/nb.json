@@ -10,7 +10,8 @@
 			"Multichill",
 			"Nghtwlkr",
 			"Simny",
-			"Tarjeimo"
+			"Tarjeimo",
+			"Jon Harald Søby"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Denne filens rettighetsinnehaver, $1, tillater alle å bruke filen '''til ethvert formål, forutsatt at''' rettighetsinnehaver blir korrekt kreditert. Redistribusjon, bearbeidelser, kommersiell bruk, og alle andre anvendelser er tillatt.",
@@ -52,7 +53,7 @@
 	"wm-license-creator-work-period": "Arbeidsperiode",
 	"wm-license-creator-work-location": "Arbeidssted",
 	"wm-license-creator-linkback": "Lenk tilbake til skaperinfoboksmalen",
-	"wm-license-fal-text": "Copyleft: Dette kunstverket er fritt; du kan videredistribuere det og/eller endre det i henhold til vilkårene i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du vil finne et eksemplar av denne lisensen på [{{int:wm-license-fal-full-link}} Copyleft Attitude-nettstedet] og på andre nettsteder.",
+	"wm-license-fal-text": "Copyleft: Dette kunstverket er fritt; du kan videredistribuere det og/eller endre det i henhold til vilkårene i '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Du vil finne et eksemplar av denne lisensen på [{{int:wm-license-fal-full-link}} Copyleft Attitude-nettstedet] og [{{int:wm-license-fal-full-link-commons}} på andre nettsteder].",
 	"wm-license-fsf-wiki-link": "w:no:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:no:Fri programvare",
 	"wm-license-gfdl-1.2-and-later": "Det tillates at dette dokumentet kopieres, distribueres og/eller modifiseres under retningslinjene som beskrevet i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU fri dokumentasjonslisens]]''', versjon 1.2 eller senere utgave utgitt av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; med alle seksjoner, uten noen forsidetekster og baksidetekster. En kopi av lisensen er inkludert i avsnittet ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",

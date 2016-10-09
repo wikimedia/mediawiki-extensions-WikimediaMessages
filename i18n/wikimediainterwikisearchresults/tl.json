@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Leeheonjin"
+			"Leeheonjin",
+			"Emem.calist"
 		]
 	},
 	"search-interwiki-results-abwiki": "Ipinapakita ang mga resulta mula sa [[:ab:Main_Page|Abkhaz na Wikipedia]].",
@@ -14,5 +15,6 @@
 	"search-interwiki-results-ndswiki": "Ipinapakita ang mga resulta mula sa [[:nds:Main_Page|Mababang Aleman na Wikipedia]].",
 	"search-interwiki-results-nnwiki": "Ipinapakita ang mga resulta mula sa [[:nn:Main_Page|Norwegong Nynorsk na Wikipedia]]",
 	"search-interwiki-results-nowiki": "Ipinapakita ang mga resulta mula sa [[:no:Main_Page|Norwegong Bokmål na Wikipedia]].",
+	"search-interwiki-results-olowiki": "Ipinapakita ang mga resulta mula sa [[:bar:Main_Page|Babaro na Wikipedia]].",
 	"search-interwiki-results-thwiki": "Ipinapakita ang mga resulta mula sa [[:th:Main_Page|Tailandes na Wikipedia]]."
 }
