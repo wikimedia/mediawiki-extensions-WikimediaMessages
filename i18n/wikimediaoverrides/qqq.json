@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Raymond"
+			"Raymond",
+			"Reedy"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Error message at [[Special:CreateAccount]].\n\n\"in the last day\" precisely means: during the lasts 86400 seconds (24 hours) ending right now.\n\nParameters:\n* $1 - number of accounts",
 	"wikimedia-createacct-helpusername": "Message in new create account form providing guidance for username.",
 	"wikimedia-createacct-imgcaptcha-help": "Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.",
 	"wikimedia-sidebar": "{{notranslate}}"

@@ -23,6 +23,7 @@ class WikimediaMessagesHooks {
 		global $wgLanguageCode, $wmfRealm;
 
 		static $keys = array(
+			'acct_creation_throttle_hit',
 			'centralauth-contribs-locked',
 			'centralauth-uwbr-intro',
 			'centralauth-uwbr-registration-nodate',
