@@ -3,7 +3,8 @@
 		"authors": [
 			"Botuzhaleny-sodamo",
 			"Sura",
-			"Denö"
+			"Denö",
+			"Rueter"
 		]
 	},
 	"sitesupport": "Лезксйармаконь максома",
@@ -20,5 +21,6 @@
 	"group-steward-member": "туростор",
 	"grouppage-steward": "m:Туросторт",
 	"group-sysadmin": "Системань администраторт",
-	"wikibase-sitelinks-wikinews": "Викикулят"
+	"wikibase-sitelinks-wikinews": "Викикулят",
+	"wikimedia-developers": "Кастыцят-келейгавтыцят"
 }

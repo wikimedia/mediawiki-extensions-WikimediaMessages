@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amdf"
+			"Amdf",
+			"Санюн Вадик"
 		]
 	},
-	"sitesupport": "Надыр"
+	"sitesupport": "Надыр",
+	"tooltip-n-sitesupport": "Надырым пыштен кертыда",
+	"wikimedia-developers": "Разработчик-влак"
 }
