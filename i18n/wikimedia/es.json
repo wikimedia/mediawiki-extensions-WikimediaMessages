@@ -189,7 +189,7 @@
 	"grouppage-global-sysop": "m:Global sysops/es",
 	"group-massmessage-sender": "Remitentes de mensajes masivos",
 	"group-massmessage-sender-member": "{{GENDER:$1|remitente de mensajes masivos}}",
-	"grouppage-massmessage-sender": "{{ns:project}}:remitentes de mensajes masivos",
+	"grouppage-massmessage-sender": "{{ns:project}}:Remitentes de mensajes masivos",
 	"group-new-wikis-importer": "Importadores de nuevos wikis",
 	"group-new-wikis-importer-member": "{{GENDER:$1|importador|importadora}} de nuevos wikis",
 	"grouppage-new-wikis-importer": "m:New wikis importers",

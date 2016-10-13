@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Robby"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Visiteuren op dëser Wiki déi Är IP-Adress benotzt hunn, hunn {{PLURAL:$1|ee Benotzerkont|$1 Benotzerkonten}} an de leschte Deeg ugeluecht. Dat ass de Maximum deen an deem Zäitraum erlaabt ass. Dofir kënne Benotzer déi dës IP-Adress benotzen den Ament keng nei Benotzerkonte méi uleeën.\n\nWann Dir bei engem Evenement sidd op deem d'Matmaache bei Wikimedia-Projeten am Fokus steet, da kuckt w.e.g. [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Ufroe fir temporär d'Limit fir IP-Adressen ze héijen]] fir z ehëllefen dëse Problem ze léisen.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]"
 }
