@@ -195,5 +195,6 @@
 	"wikimedia-centralauth-uwbr-intro": "Sellel leheküljel on loetletud siin vikis registreeritud kasutajad, kelle nimi muudetakse seoses [[m:Single User Login finalisation announcement|ühendatud sisselogimise lõpliku kehtestamisega]]. Veel teavet [[m:Help:Unified login|ühtse sisselogimissüsteemi]] kohta. Nime muutmise soovi saavad kasutajad avaldada leheküljel [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Vaadata kustutatud lehekülgi nimeruumides {{ns:file}} ja {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Nõukogu valimine",
-	"wikimedia-mwoauthserver-invalid-user": "Globaalse sisselogimisega esines probleem. Kui oled konto just loonud, logi palun välja ja tagasi sisse. Seejärel proovi uuesti rakendust volitada. Kui sa ei loonud kontot praegu, külasta palun vikit [https://meta.wikimedia.org/ meta.wikimedia.org] ja proovi seejärel uuesti rakendust volitada. (Tõrkekood: E008)"
+	"wikimedia-mwoauthserver-invalid-user": "Globaalse sisselogimisega esines probleem. Kui oled konto just loonud, logi palun välja ja tagasi sisse. Seejärel proovi uuesti rakendust volitada. Kui sa ei loonud kontot praegu, külasta palun vikit [https://meta.wikimedia.org/ meta.wikimedia.org] ja proovi seejärel uuesti rakendust volitada. (Tõrkekood: E008)",
+	"wikimedia-cookiestatement": "Küpsiste avaldus"
 }
