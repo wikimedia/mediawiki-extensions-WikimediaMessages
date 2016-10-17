@@ -5,7 +5,8 @@
 			"Eleassar",
 			"Nemo bis",
 			"Smihael",
-			"Yerpo"
+			"Yerpo",
+			"Janezdrilc"
 		]
 	},
 	"wikimediamessages-desc": "Posebna sporočila Wikimedie",
@@ -115,12 +116,18 @@
 	"wikibase-sitelinks-wikiquote": "Wikinavedek",
 	"wikibase-sitelinks-wikisource": "Wikivir",
 	"wikibase-sitelinks-wikivoyage": "Wikipotovanje",
+	"wikibase-otherprojects-commons": "Wikimedijina zbirka",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
+	"wikibase-otherprojects-meta": "Meta-Wiki",
 	"wikibase-otherprojects-species": "Wikivrste",
 	"wikibase-otherprojects-wikibooks": "Wikiknjige",
 	"wikibase-otherprojects-wikidata": "Wikipodatki",
+	"wikibase-otherprojects-wikinews": "Wikinovice",
 	"wikibase-otherprojects-wikiquote": "Wikinavedek",
 	"wikibase-otherprojects-wikipedia": "Wikipedija",
+	"wikibase-otherprojects-wikisource": "Wikivir",
 	"wikibase-otherprojects-wikiversity": "Wikiverza",
+	"wikibase-otherprojects-wikivoyage": "Wikipotovanje",
 	"cant-delete-main-page": "Glavne strani ne morete izbrisati ali prestaviti.",
 	"upload-more-photos-of-this-monument": "Naložite več fotografij spomenika",
 	"wikimedia-developers": "Razvijalci",
