@@ -149,5 +149,6 @@
 	"interlanguage-link-sitename-dmoz": "DMOZ web dizini",
 	"wikimedia-feedback-termsofuse": "adın ne",
 	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak engellendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız.",
+	"wikimedia-centralauth-uwbr-intro": "Bu sayfada, bu vikideki yeniden adlandırılacak [[m:Single User Login finalisation announcement|tek kullanıcı girişi sonuçlanmış]] kullanıcılar listelenmektedir. [[m:Help:Unified login|Birleştirilmiş giriş]] hakkında daha fazla bilgi edinebilirsiniz. Kullanıcılar diledikleri bir zamanda [[Special:GlobalRenameRequest|buradan]] yeni bir küresel kullanıcı adı değişikliği talebinde bulunabilirler.",
 	"wikimedia-cookiestatement": "Çerez bildirgesi"
 }
