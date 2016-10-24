@@ -10,7 +10,8 @@
 			"Przemub",
 			"Sp5uhe",
 			"Yarl",
-			"WTM"
+			"WTM",
+			"Jarekt"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:pl:Creative Commons",
@@ -221,7 +222,7 @@
 	"wm-license-cc-conditions-attribution-header": "uznanie autorstwa",
 	"wm-license-cc-conditions-attribution-text": "Utwór należy oznaczyć w sposób określony przez Twórcę lub Licencjodawcę.",
 	"wm-license-cc-conditions-share_alike-header": "na tych samych warunkach",
-	"wm-license-cc-conditions-share_alike-text": "Jeśli zmienia się lub przekształca niniejszy utwór, lub tworzy inny na jego podstawie, można rozpowszechniać powstały w ten sposób nowy utwór tylko na podstawie takiej samej licencji.",
+	"wm-license-cc-conditions-share_alike-text": "Jeśli zmienia się lub przekształca niniejszy utwór, lub tworzy inny na jego podstawie, można rozpowszechniać powstały w ten sposób nowy utwór tylko na podstawie tej samej lub podobnej licencji.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.pl",
 	"wm-license-cc-pd-mark-text": "Plik rozpoznano jako wolny od znanych ograniczeń praw autorskich, włącznie z prawami zależnymi i pokrewnymi."
 }
