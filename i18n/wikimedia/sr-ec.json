@@ -158,7 +158,7 @@
 	"wikibase-sitelinks-sitename-species": "Викиврсте",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Википодаци",
 	"cant-delete-main-page": "Не можете обрисати или преместити главну страну.",
-	"upload-more-photos-of-this-monument": "Пошаљите још фотографија овог културног добра",
+	"upload-more-photos-of-this-monument": "Отпреми још фотографија овог споменика",
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-delete-toobig": "Ова страница има велику историју, преко $1 {{PLURAL:$1|измене|измене|измена}}.\nБрисање таквих страница је ограничено да би се спречило случајно оптерећење {{SITENAME}}.\nМолимо вас обратите се [[m:Special:MyLanguage/Stewards|стјуардима]] на [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] и од њих тражите брисање ове странице.",
