@@ -1,4 +1,10 @@
 {
-	"@metadata": [],
-	"wm-license-information-source": "Mothopo"
+	"@metadata": {
+		"authors": [
+			"Mohau"
+		]
+	},
+	"wm-license-information-source": "Mothopo",
+	"wm-license-information-date": "Letšatšikgwedi",
+	"wm-license-information-author": "Mongwadi"
 }
