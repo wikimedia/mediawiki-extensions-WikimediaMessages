@@ -5,7 +5,8 @@
 			"Udmwiki",
 			"ОйЛ",
 			"Nemo bis",
-			"Wadorgurt"
+			"Wadorgurt",
+			"Irus"
 		]
 	},
 	"sitesupport": "Проектлы юрттон",
@@ -18,5 +19,6 @@
 	"wikibase-otherprojects-wikisource": "Викитека",
 	"wikibase-otherprojects-wikivoyage": "Викигид",
 	"wikimedia-developers": "Лэсьтӥсьёс",
+	"wikimedia-centralauth-contribs-locked": "Таяз уровеньёсын учётной заблокировать глобальный гожъян.\nОзьы ик [[m:Special:CentralAuth/$1|реквизитъёс глобальный]] ватсаса ивортодэт басьтон понна.",
 	"wikimedia-cookiestatement": "Cookie сярысь тупанкыл"
 }

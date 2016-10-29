@@ -7,7 +7,8 @@
 			"Obaid Raza",
 			"عرفان ارشد",
 			"Muhammad Shuaib",
-			"Hindustanilanguage"
+			"Hindustanilanguage",
+			"Irus"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
@@ -173,5 +174,6 @@
 	"interlanguage-link-commons": "ویکیمیڈیا کامنز",
 	"right-templateeditor": "محفوظ سانچوں میں ترمیم کاری",
 	"restriction-level-templateeditor": "محفوظ سانچہ",
+	"right-extendedconfirmed": "میں ترمیم ایک محدود صفحہ",
 	"wikimedia-cookiestatement": "کوکیز کی تفصیلات"
 }
