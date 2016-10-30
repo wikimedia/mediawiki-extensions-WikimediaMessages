@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Irus"
 		]
 	},
-	"sitesupport": "Izipho"
+	"sitesupport": "Izipho",
+	"wikimedia-developers": "Onjiniyela"
 }

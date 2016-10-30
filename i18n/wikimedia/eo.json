@@ -13,7 +13,8 @@
 			"KuboF",
 			"Nemo bis",
 			"Caliburn",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Gamliel Fishkin"
 		]
 	},
 	"wikimediamessages-desc": "Specifaj mesaĝoj de Wikimedia",
@@ -40,9 +41,9 @@
 	"group-arbcom": "Komitatano de arbitracia komitato",
 	"group-arbcom-member": "{{GENDER:$1|komitatano de arbitracia komitato}}",
 	"grouppage-arbcom": "{{ns:project}}:Komitatantoj de arbitracia komitato",
-	"group-autopatrolled": "Aŭtomataj patrolantoj",
-	"group-autopatrolled-member": "{{GENDER:$1|aŭtomata patrolanto}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Aŭtomataj patrolantoj",
+	"group-autopatrolled": "Mempatrolatoj",
+	"group-autopatrolled-member": "{{GENDER:$1|mempatrolato}}",
+	"grouppage-autopatrolled": "{{ns:project}}:Mempatrolatoj",
 	"group-autoreviewer": "Aŭtomataj kontrolantoj",
 	"group-autoreviewer-member": "{{GENDER:$1|aŭtomata kontrolanto}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Aŭtomataj kontrolantoj",
