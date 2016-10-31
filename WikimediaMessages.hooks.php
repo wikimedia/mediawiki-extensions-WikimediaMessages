@@ -447,7 +447,7 @@ class WikimediaMessagesHooks {
 				'Wikipodaci'  => 'Wikipodacima',
 				'Wikivijesti' => 'Wikivijestima',
 			),
-			# akusative
+			# accusative
 			'akuzativ' => array(
 				'Vikirječnik' => 'Vikirječnika',
 				'Wikicitati'  => 'Wikicitate',
@@ -471,7 +471,7 @@ class WikimediaMessagesHooks {
 				'Wikipodaci'  => 's Wikipodacima',
 				'Wikivijesti' => 's Wikivijestima',
 			),
-			# lokative
+			# locative
 			'lokativ' => array(
 				'Vikirječnik' => 'o Vikirječniku',
 				'Wikicitati'  => 'o Wikicitatima',
@@ -758,7 +758,7 @@ class WikimediaMessagesHooks {
 				'Wikicitaty'  => 'Wikicitatam',
 				'Wikisłownik' => 'Wikisłownikej',
 			),
-			# akuzative
+			# accusative
 			'akuzativ' => array(
 				'Wikipedija'  => 'Wikipediju',
 				'Wikiknihi'   => 'Wikiknknihi',
@@ -772,7 +772,7 @@ class WikimediaMessagesHooks {
 				'Wikicitaty'  => 'Wikicitatami',
 				'Wikisłownik' => 'Wikisłownikom',
 			),
-			# lokative
+			# locative
 			'lokatiw' => array(
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknihi'   => 'Wikiknihach',
@@ -909,7 +909,7 @@ class WikimediaMessagesHooks {
 				'Wikicitaty'  => 'Wikicitatam',
 				'Wikisłownik' => 'Wikisłownikej',
 			),
-			# akuzative
+			# accusative
 			'akuzativ' => array(
 				'Wikipedija'  => 'Wikipediju',
 				'Wikiknihi'   => 'Wikiknknihi',
@@ -923,7 +923,7 @@ class WikimediaMessagesHooks {
 				'Wikicitaty'  => 'Wikicitatami',
 				'Wikisłownik' => 'Wikisłownikom',
 			),
-			# lokative
+			# locative
 			'lokatiw' => array(
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknihi'   => 'Wikiknihach',
