@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(padėkite man pasirinkti)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Negali matyti paveikslėlio? [[{{MediaWiki:createacct-captcha-help-url}}|Prašykite paskyros]]"
+}

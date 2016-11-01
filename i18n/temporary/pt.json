@@ -4,12 +4,13 @@
 			"Giro720",
 			"Malafaya",
 			"Vitorvicentevalente",
-			"Opraco"
+			"Opraco",
+			"Hamilton Abreu"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Supervisão",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
+	"group-oversight-member": "supervisor",
 	"please-translate": "Por favor, ajude nas traduções para o seu idioma"
 }

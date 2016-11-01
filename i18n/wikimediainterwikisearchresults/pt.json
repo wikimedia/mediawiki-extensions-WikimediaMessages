@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Vitorvicentevalente",
-			"TheEduGobi"
+			"TheEduGobi",
+			"Hamilton Abreu"
 		]
 	},
-	"search-interwiki-results-adywiki": "A exibir resultados da [[:ady:Main_Page|Wikipédia adigue]].",
-	"search-interwiki-results-arwiki": "A exibir resultados da [[:ar:Main_Page|Wikipédia árabe]].",
-	"search-interwiki-results-elwiki": "A exibir resultados da [[:el:Main_Page|Wikipédia grega]].",
-	"search-interwiki-results-enwiki": "A exibir resultados da [[:en:Main_Page|Wikipédia inglesa]].",
-	"search-interwiki-results-hewiki": "A exibir resultados da [[:he:Main_Page|Wikipédia hebraica]].",
-	"search-interwiki-results-kowiki": "A exibir resultados da [[:ko:Main_Page|Wikipédia coreana]].",
-	"search-interwiki-results-ruwiki": "A exibir resultados da [[:ru:Main_Page|Wikipédia russa]].",
-	"search-interwiki-results-zhwiki": "A exibir resultados da [[:zh:Main_Page|Wikipédia mandarim]]."
+	"search-interwiki-results-adywiki": "A mostrar resultados da [[:ady:Main_Page|Wikipédia adigue]].",
+	"search-interwiki-results-arwiki": "A mostrar resultados da [[:ar:Main_Page|Wikipédia árabe]].",
+	"search-interwiki-results-elwiki": "A mostrar resultados da [[:el:Main_Page|Wikipédia grega]].",
+	"search-interwiki-results-enwiki": "A mostrar resultados da [[:en:Main_Page|Wikipédia inglesa]].",
+	"search-interwiki-results-hewiki": "A mostrar resultados da [[:he:Main_Page|Wikipédia hebraica]].",
+	"search-interwiki-results-kowiki": "A mostrar resultados da [[:ko:Main_Page|Wikipédia coreana]].",
+	"search-interwiki-results-ruwiki": "A mostrar resultados da [[:ru:Main_Page|Wikipédia russa]].",
+	"search-interwiki-results-zhwiki": "A mostrar resultados da [[:zh:Main_Page|Wikipédia mandarim]]."
 }
