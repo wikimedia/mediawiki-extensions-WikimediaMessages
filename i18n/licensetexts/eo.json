@@ -11,10 +11,10 @@
 			"ThomasPusch",
 			"Yekrats",
 			"Ziko",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"KuboF"
 		]
 	},
-	"wikimedialicensetexts-desc": "Mesaĝoj pri Wikimedia-permesiloj",
 	"wm-license-attribution-with-author-text": "La posedanto de la aŭtorrajto por ĉi tiu dosiero, $1, permesas al iu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
 	"wm-license-attribution-without-author-text": "La posedanto de la aŭtorrajto de ĉi tiu dosiero permesas al iu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
 	"wm-license-artwork-artist": "Artisto/Kreinto",
@@ -54,7 +54,7 @@
 	"wm-license-creator-work-period": "Laborperiodo",
 	"wm-license-creator-work-location": "Loko de laboro",
 	"wm-license-creator-linkback": "Ligo reen al ŝablono por informskatolo pri kreinto.",
-	"wm-license-fal-text": "Rajtocedo (\"Copyleft\"): Ĉi tiu verko de arto estas libera; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la reguloj de la '''[[{{int:wm-license-fal-wiki-link}}|Permesilo por Libera Arto]]'''. Vi trovos specimenon de ĉi tiu permesilo en la [{{int:wm-license-fal-full-link}} retejo Rajtocedo] kaj ankaŭ aliaj retejoj.",
+	"wm-license-fal-text": "Rajtocedo (\"Copyleft\"): Ĉi tiu verko de arto estas libera; vi povas redistribui ĝin kaj/aŭ modifi ĝin laŭ la reguloj de la '''[[{{int:wm-license-fal-wiki-link}}|Permesilo por Libera Arto]]'''. Vi trovos specimenon de ĉi tiu permesilo en la [{{int:wm-license-fal-full-link}} retejo Rajtocedo] kaj ankaŭ [{{int:wm-license-fal-full-link-commons}} en aliaj retejoj].",
 	"wm-license-fsf-wiki-link": "w:eo:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:eo:Libera programaro",
 	"wm-license-gfdl-1.2-and-later": "Estas permesite kopii, disdoni kaj/aŭ redakti ĉi tiun dokumenton, sen senŝanĝaj sekcioj, sen antaŭkovrilaj kaj sen dorskovrilaj tekstoj, laŭ la kondiĉoj de la '''[[{{int:wm-license-gfdl-wiki-link}}|Permesilo GNU por Liberaj Dokumentoj]]''', Versio 1.2 aŭ ajna pli nova versio eldonita de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sen Senŝanĝaj Sekcioj, Antaŭovrilaj Tekstoj aŭ Malantaŭkovrilaj Tekstoj. Kopio de la permesilo estas inkluzivita en la sekcio titolita ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
