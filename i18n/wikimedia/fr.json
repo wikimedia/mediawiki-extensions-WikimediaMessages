@@ -319,5 +319,5 @@
 	"right-viewdeletedfile": "Voir les pages et les fichiers supprimés  dans les espaces de noms {{ns:file}} et {{ns:file_talk}}.",
 	"securepoll-dblist-securepollglobal": "Élection du conseil",
 	"wikimedia-mwoauthserver-invalid-user": "Il y a un problème pour vous connecter globalement. Si vous venez de créer votre compte, veuillez vous déconnecter et vous reconnecter, puis essayez à nouveau d’autoriser l’application. Si vous ne venez pas de créer votre compte, veuillez visiter [https://meta.wikimedia.org/ meta.wikimedia.org] puis essayez à nouveau d’autoriser l’application. (Code d’erreur : E008)",
-	"wikimedia-cookiestatement": "Déclaration sur les cookies"
+	"wikimedia-cookiestatement": "Déclaration sur les témoins (''cookies'')"
 }
