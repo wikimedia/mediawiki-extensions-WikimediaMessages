@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Hamilton Abreu"
 		]
 	},
-	"wikimedia-createacct-imgcaptcha-help": "Não consegue visualizar a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Peça uma conta]]"
+	"wikimedia-createacct-imgcaptcha-help": "Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Peça uma conta]]"
 }
