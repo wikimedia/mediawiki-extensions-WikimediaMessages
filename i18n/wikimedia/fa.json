@@ -26,7 +26,8 @@
 			"Arian Ar",
 			"Rtemis",
 			"AzorAhai",
-			"4nn1l2"
+			"4nn1l2",
+			"Mahdy Saffar"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -67,9 +68,9 @@
 	"group-arbcom": "اعضای هیأت حکمیت",
 	"group-arbcom-member": "عضو هیأت حکمیت",
 	"grouppage-arbcom": "{{ns:project}}:اعضای هیأت حکمیت",
-	"group-autopatrolled": "گشت‌زنان خودکار",
+	"group-autopatrolled": "گشت خودکار",
 	"group-autopatrolled-member": "{{GENDER:$1|گشت خودکار}}",
-	"grouppage-autopatrolled": "{{ns:project}}:گشت‌زنان خودکار",
+	"grouppage-autopatrolled": "{{ns:project}}:گشت خودکار",
 	"group-autoreviewer": "بازبین‌گران خودکار",
 	"group-autoreviewer-member": "بازبین‌گر خودکار",
 	"grouppage-autoreviewer": "{{ns:project}}:خودبازبین‌گرها",
