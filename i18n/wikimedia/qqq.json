@@ -175,7 +175,7 @@
 	"grouppage-global-renamer": "{{doc-group|global-renamer|page}}",
 	"group-global-rollbacker": "{{doc-group|global-rollbacker}}\n{{Identical|Rollback}}",
 	"group-global-rollbacker-member": "{{doc-group|global-rollbacker|member}}\n{{Identical|Rollback}}",
-	"grouppage-global-rollbacker": "{{optional}}\n{{doc-group|global-rollbacker|page}}\n{{Global grouppage}}",
+	"grouppage-global-rollbacker": "{{optional}}\n{{doc-group|global-rollbacker|page}}\n{{Global grouppage}}\n{{Identical|Rollback}}",
 	"group-global-sysop": "{{doc-group|global-sysop}}",
 	"group-global-sysop-member": "{{doc-group|global-sysop|member}}",
 	"grouppage-global-sysop": "{{optional}}\n{{doc-group|global-sysop|page}}\n{{Global grouppage}}",
