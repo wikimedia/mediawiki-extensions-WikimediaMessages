@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pginer"
+			"Pginer",
+			"Fitoschido"
 		]
 	},
 	"project-localized-name-anwiktionary": "Viquipèdia en aragonés",
 	"project-localized-name-brwikiquote": "Viquipèdia en bretó",
 	"project-localized-name-cawiki": "Viquipèdia en català",
-	"project-localized-name-cywiki": "Viquipèdia en gal·lès"
+	"project-localized-name-cywiki": "Viquipèdia en gal·lès",
+	"project-localized-name-ladwiki": "Viquipèdia en judeocastellà",
+	"project-localized-name-nahwiki": "Viquipèdia en nàhuatl",
+	"project-localized-name-nahwiktionary": "Viccionari en nàhuatl",
+	"project-localized-name-nahwikibooks": "Viquillibres en nàhuatl"
 }

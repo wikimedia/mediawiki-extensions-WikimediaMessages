@@ -9,7 +9,8 @@
 			"Nemo bis",
 			"Xoser",
 			"Kumkumuk",
-			"Gırd"
+			"Gırd",
+			"1917 Ekim Devrimi"
 		]
 	},
 	"wikimediamessages-desc": "mesajê xususi yê wikimedyayi",
@@ -124,6 +125,7 @@
 	"group-staff-member": "wezifedar",
 	"group-steward": "Kahyay",
 	"group-steward-member": "{{GENDER:$1|kahya}}",
+	"grouppage-steward": "M:Kahyay",
 	"group-sysadmin": "İdarekarê sistemi",
 	"group-sysadmin-member": "{{GENDER:$1|adminê sistemi}}",
 	"group-translationadmin": "Adminê açarnayışi",

@@ -3,7 +3,8 @@
 		"authors": [
 			"Robin van der Vliet",
 			"Lucas",
-			"Gamliel Fishkin"
+			"Gamliel Fishkin",
+			"Fitoschido"
 		]
 	},
 	"project-localized-name-aawiki": "Afara Vikipedio",
@@ -235,6 +236,9 @@
 	"project-localized-name-mtwiktionary": "Malta Vikivortaro",
 	"project-localized-name-mywiktionary": "Birma Vikivortaro",
 	"project-localized-name-nawiki": "Naura Vikipedio",
+	"project-localized-name-nahwiki": "Naŭatla Vikipedio",
+	"project-localized-name-nahwiktionary": "Naŭatla Vikivortaro",
+	"project-localized-name-nahwikibooks": "Naŭatla Vikilibroj",
 	"project-localized-name-newiki": "Nepala Vikipedio",
 	"project-localized-name-nlwiki": "Nederlanda Vikipedio",
 	"project-localized-name-nlwiktionary": "Nederlanda Vikivortaro",
