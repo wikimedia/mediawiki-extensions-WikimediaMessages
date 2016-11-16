@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Elisardojm"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Os visitantes desta wiki usando o seu enderezo IP crearon {{PLURAL:$1|1 conta|$1 contas}} no último día, que é o máximo permitido neste período de tempo.\nComo resultado, os visitantes que usan ese enderezo IP non poden crear ningunha conta máis polo momento.\n\nSe vostede está nun evento centrado en facer achegas ós proxectos Wikimedia, por favor consulte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Solicitar a eliminación temporal da limitación IP]] para obter axuda sobre como resolver este problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]"
 }
