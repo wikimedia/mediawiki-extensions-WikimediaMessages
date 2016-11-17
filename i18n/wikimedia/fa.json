@@ -27,7 +27,8 @@
 			"Rtemis",
 			"AzorAhai",
 			"4nn1l2",
-			"Mahdy Saffar"
+			"Mahdy Saffar",
+			"Arash.pt"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -158,7 +159,7 @@
 	"group-global-ipblock-exempt": "معافیت‌های سراسری از قطع دسترسی آی‌پی",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|معاف سراسری از قطع دسترسی آی‌پی}}",
 	"group-global-interface-editor": "ویرایشسگران رابط کاربری",
-	"group-global-interface-editor-member": "{{GENDER:$1|ویرایشسگران رابط کاربری}}",
+	"group-global-interface-editor-member": "{{GENDER:$1|ویرایشگران رابط کاربری}}",
 	"group-global-renamer": "تغییرنام‌دهنده‌های سراسری",
 	"group-global-renamer-member": "{{GENDER:$1|تغییرنام‌دهنده سراسری}}",
 	"grouppage-global-renamer": "m:تغییرنام‌دهنده‌های سراسری",
