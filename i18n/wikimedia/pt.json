@@ -231,7 +231,7 @@
 	"restriction-level-templateeditor": "predefinição protegida",
 	"protect-level-templateeditor": "Permitir apenas editores de predefinições e administradores",
 	"right-editeditorprotected": "Editar páginas protegidas com \"{{int:protect-level-editeditorprotected}}\"",
-	"protect-level-editeditorprotected": "Permitir editores apenas",
+	"protect-level-editeditorprotected": "Permitir apenas editores",
 	"right-editextendedsemiprotected": "Editar páginas protegidas com \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir apenas autopatrulhadores",
 	"wikimedia-feedback-termsofuse": "Concordo em fornecer comentários de acordo com as <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Condições de Uso</a>.",
