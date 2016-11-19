@@ -41,7 +41,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Aquest article està identificat per altres usuaris de {{SITENAME}} com que necessita millores. No cal ser un expert en el tema per ajudar-hi.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Aquests rètols identifiquen problemes de l'article. No cal arreglar-los tots, feu només el que us faci sentir còmode.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Edició de l'article sencer…",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Cliqueu «{{int:vector-view-edit}}» per modificar qualsevol contingut de l'article.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Cliqueu «$1» per modificar qualsevol contingut de l'article.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Ara ja podeu editar el contingut de l'article. Quan estigueu feu clic a «{{int:visualeditor-toolbar-savedialog}}» per revisar i desar els canvis.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Si cliqueu a «{{int:showpreview}}» podreu veure com quedarà l'article amb els canvis. En acabat, no us oblideu de desar.",
 	"gettingstarted-cta-edit-page-wikipedia": "Modifica aquest article",

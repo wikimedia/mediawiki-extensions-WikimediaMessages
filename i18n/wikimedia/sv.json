@@ -40,7 +40,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Denna artikel har identifierats av en annan {{SITENAME}}-användare som i behov av förbättring. Du behöver inte vara expert på detta ämnet för att kunna hjälpa.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Dessa banners identifiera problem med denna artikel. Du behöver inte fixa dem alla, fokusera bara på de som du känner dig bekväm med att åtgärda.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Redigera hela artikeln...",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klicka \"{{int:vector-view-edit}}\" för att ändra innehåll var som helst i artikeln.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klicka \"$1\" för att ändra innehåll var som helst i artikeln.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Du kan nu redigera artikelns innehåll. När du är färdig, klicka på \"{{int:visualeditor-toolbar-savedialog}}\" för att förhandsgranska och spara dina ändringar.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Genom att klicka på \"{{int:showpreview}}\" kan du se hur artikeln ser ut med dina ändringar. Glöm bara inte att spara.",
 	"gettingstarted-cta-edit-page-wikipedia": "Redigera denna artikel",

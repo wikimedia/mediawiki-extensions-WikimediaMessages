@@ -44,7 +44,7 @@
 	"gettingstarted-task-copyedit-toolbar-try-another-title-wikipedia": "Ir para uma página aleatória cujo estilo possa melhorar",
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Esta página foi identificada por outros utilizadores da wiki {{SITENAME}} porque necessita de melhorias. Não precisa de ser um especialista no assunto para ajudar.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Editar o artigo inteiro...",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clique \"{{int:vector-view-edit}}\" para alterar o conteúdo em qualquer lugar do artigo.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clique \"$1\" para alterar o conteúdo em qualquer lugar do artigo.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora, pode editar o conteúdo do artigo. Ao terminar, clique em \"{{int:visualeditor-toolbar-savedialog}}\" para rever e gravar as suas alterações.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Clicar em \"{{int:showpreview}}\" permite-lhe verificar como ficará a página após as suas alterações. Não se esqueça de as gravar.",
 	"gettingstarted-cta-edit-page-wikipedia": "Editar este artigo",

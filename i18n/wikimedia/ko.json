@@ -49,7 +49,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "이 문서는 다른 {{SITENAME}} 사용자에 의해 개선이 필요하다고 식별되었습니다. 주제를 돕기 위해 전문적인 기술을 필요로 하지 않습니다.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "이 배너들은 이 문서로 문제를 식별합니다. 모든 문제를 해결할 필요가 없고, 익숙하게 한 것들에 충실하세요.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "모든 문서 편집하기...",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "\"{{int:vector-view-edit}}\"을 클릭하여 이 문서의 모든 부분을 편집할 수 있습니다.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "\"$1\"을 클릭하여 이 문서의 모든 부분을 편집할 수 있습니다.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\"를 클릭하면 문서가 어떻게 바뀌었는지 확인할 수 있습니다. 저장하는 것을 잊지 마세요!",
 	"gettingstarted-cta-edit-page-wikipedia": "이 문서 편집",
 	"group-Image-reviewer": "그림 평론가",

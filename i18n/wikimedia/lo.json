@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tuinui"
+			"Tuinui",
+			"Aefgh39622"
 		]
 	},
 	"wikimediamessages-desc": "ຂໍ້ຄວາມສະເພາະ ວິກິພີເດຍ",
 	"sitesupport": "ບໍລິຈາກ",
-	"tooltip-n-sitesupport": "ສະໜັບສະໜຸນພວກເຮົາ",
+	"tooltip-n-sitesupport": "ສະໜັບສະໜູນພວກເຮົາ",
 	"group-staff": "ພະນັກງານ",
-	"group-staff-member": "ພະນັກງານ"
+	"group-staff-member": "ພະນັກງານ",
+	"wikimedia-developers": "ຜູ້ພັດທະນາ"
 }

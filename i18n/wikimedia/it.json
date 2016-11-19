@@ -41,7 +41,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Secondo altri utenti di {{SITENAME}} questa voce necessita di miglioramento. Non è necessario essere un esperto in materia per aiutare.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Questi avvisi identificano problemi con questa voce. Non è necessario che li risolvi tutti, è sufficiente che ti occupi di quelli che ti senti di fare.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Modifica l'intera voce…",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clicca su \"{{int:vector-view-edit}}\" per modificare il contenuto in un punto qualsiasi della voce.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clicca su \"$1\" per modificare il contenuto in un punto qualsiasi della voce.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Ora puoi modificare il contenuto della voce. Quando hai finito, clicca \"{{int:visualeditor-toolbar-savedialog}}\" per rivedere e salvare le tue modifiche.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Facendo clic su \"{{int:showpreview}}\" ti permette di vedere quello che sarà l'aspetto della voce con le tue modifiche. Non ti dimenticare di salvare.",
 	"gettingstarted-cta-edit-page-wikipedia": "Modifica questa voce",

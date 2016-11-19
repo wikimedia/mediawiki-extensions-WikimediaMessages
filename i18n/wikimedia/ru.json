@@ -53,7 +53,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Эта статья определена другими участниками {{grammar:genitive|{{SITENAME}}}} как нуждающаяся в улучшении. Вам не нужно быть экспертом по этому вопросу, чтобы помочь.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Эти сообщения информируют о проблемах в статье. Вам не нужно исправлять их все, просто займитесь тем, что вам сподручнее делать.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Редактировать всю статью…",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Нажмите «{{int:vector-view-edit}}», чтобы изменить любую часть статьи.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Нажмите «$1», чтобы изменить любую часть статьи.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Сейчас вы можете редактировать содержание статьи. Когда вы закончите, нажмите «{{int:visualeditor-toolbar-savedialog}}» для просмотра и сохранения изменений.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Нажатие «{{int:showpreview}}» позволяет проверить, как будет выглядеть статья с вашими изменениями. Только не забудьте её потом сохранить.",
 	"gettingstarted-cta-edit-page-wikipedia": "Редактировать эту статью",

@@ -24,7 +24,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Другите корисници на {{SITENAME}} утврдија дека на статијава ѝ требаат подобрувања. Не мора да сте стручни на таа тема за да помогнете.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Овие разгласи ги посочуваат проблемите во статијава. Не мора да ги решите сите — едноставно стиснете на она што не ви делува тешко.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Уреди ја целата статија...",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Стиснете на „{{int:vector-view-edit}}“ за да измените содржина некаде во страницата.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Стиснете на „$1“ за да измените нешто во статијата.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Сега можете да ја уредите содржината на страницата. Кога ќе завршите, стиснете на „{{int:visualeditor-toolbar-savedialog}}“ за да ги прегледате и зачувате промените.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Ако стиснете на „{{int:showpreview}}“ ќе видите како ќе изгледа статијата со вашите измени. Само не заборавајте да ги зачувате.",
 	"gettingstarted-cta-edit-page-wikipedia": "Уреди ја статијава",

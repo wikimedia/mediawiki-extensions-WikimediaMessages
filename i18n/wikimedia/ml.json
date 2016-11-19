@@ -31,7 +31,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "{{SITENAME}} സംരംഭത്തിലെ മറ്റ് ഉപയോക്താക്കാൾ ഈ ലേഖനം മെച്ചപ്പെടുത്തേണ്ടതുണ്ടെന്ന് കണ്ടെത്തിയിട്ടുണ്ട്. സഹായിക്കാനായി ഈ വിഷയത്തിൽ താങ്കൾ വിദഗ്ദ്ധ(ൻ) ആകണമെന്നില്ല.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "ഈ ബാനറുകൾ ലേഖനത്തിലുള്ള പ്രശ്നങ്ങൾ കുറിക്കുന്നു. അവയെല്ലാം താങ്കൾ പരിഹരിക്കണം എന്നല്ല, താങ്കൾക്ക് താത്പര്യമുള്ളവ മാത്രം ചെയ്താൽ മതി.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "ലേഖനം പൂർണ്ണമായി തിരുത്തുക...",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "ലേഖനത്തിലെവിടെയുമുള്ള ഉള്ളടക്കം തിരുത്തുന്നതിനായി \"{{int:vector-view-edit}}\" ഞെക്കുക.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "ലേഖനത്തിലെവിടെയുമുള്ള ഉള്ളടക്കം തിരുത്തുന്നതിനായി \"$1\" ഞെക്കുക.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "താങ്കൾക്ക് ഇപ്പോൾ ലേഖനത്തിന്റെ ഉള്ളടക്കം തിരുത്താവുന്നതാണ്. പൂർണ്ണമായി കഴിയുമ്പോൾ \"{{int:visualeditor-toolbar-savedialog}}\" അമർത്തി തിരുത്തൽ പരിശോധിക്കാനും മാറ്റങ്ങൾ സേവ് ചെയ്യാനും കഴിയുന്നതാണ്.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\" അമർത്തുമ്പോൾ, താങ്കൾ ചേർത്ത തിരുത്തുകളുൾപ്പെടെ ലേഖനം എപ്രകാരമാണ് പ്രത്യക്ഷപ്പെടുക എന്ന് പരിശോധിക്കാനാവും. പിന്നീട് മാറ്റങ്ങൾ സേവ് ചെയ്യാൻ മറക്കരുത്.",
 	"gettingstarted-cta-edit-page-wikipedia": "ഈ ലേഖനം തിരുത്തുക",

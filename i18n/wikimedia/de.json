@@ -42,7 +42,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "Dieser Artikel wurde von anderen {{SITENAME}}-Benutzern als verbesserungswürdig identifiziert. Du musst kein Experte in dem Thema sein, um zu helfen.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Diese Banner kennzeichnen Probleme mit diesem Artikel. Du musst sie nicht alle beheben. Konzentriere dich auf das, was du kannst.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Den ganzen Artikel bearbeiten …",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klicke auf „{{int:vector-view-edit}}“, um einen beliebigen Inhalt im Artikel zu ändern.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klicke auf „$1“, um einen beliebigen Inhalt im Artikel zu ändern.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Jetzt kannst du die Artikelinhalte bearbeiten. Wenn du fertig bist, klicke auf „{{int:visualeditor-toolbar-savedialog}}“, um deine Änderungen zu überprüfen und zu speichern.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Mit dem Klicken auf „{{int:showpreview}}“ kannst du sehen, wie der Artikel mit deinen Änderungen aussehen wird. Vergiss nicht zu speichern.",
 	"gettingstarted-cta-edit-page-wikipedia": "Diesen Artikel bearbeiten",

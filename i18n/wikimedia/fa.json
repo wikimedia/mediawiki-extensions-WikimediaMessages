@@ -47,7 +47,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "این مقاله توسط سایر کاربرهای {{SITENAME}} به عنوان نیازمند بهبود شناسایی‌شده. برای کمک در این رابطه لازم نیست که حرفه‌ای باشید.",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "این آگهی‌ها مشکلات این مقاله را مشخص می‌کنند. نیاز نیست که همهٔ آن‌ها را برطرف کنید، فقط با کاری که راحت هستید بمانید.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "ویرایش همهٔ مقاله",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "برای تغییر محتویات هر جای مقاله بر «{{int:vector-view-edit}}» کلیک کنید.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "برای تغییر محتویات هر جای مقاله بر «$1» کلیک کنید.",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "شما می‌توانید الآن محتویات مقاله را ویرایش کنید. وقتی که انجام شد، بر «{{int:visualeditor-toolbar-savedialog}}» برای بازبینی و ذحیره تغییراتان کلیک کنید.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "ویرایش «{{int:showpreview}}» اجازه می‌دهد که ببینید این مقاله با تغییراتتان چه شکلی خواهد شد. فقط فراموش نکنید که ذخیره کنید.",
 	"gettingstarted-cta-edit-page-wikipedia": "ویرایش این مقاله",
