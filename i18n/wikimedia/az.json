@@ -9,13 +9,15 @@
 			"Nemo bis",
 			"Wertuose",
 			"Caliburn",
-			"Dağlı95"
+			"Dağlı95",
+			"Zpizza"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
 	"sitesupport": "Maddi kömək",
 	"tooltip-n-sitesupport": "Bizə dəstək verin",
 	"nstab-creator": "Yaradıcı",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Basın \"$1\" üçün dəyişdirmək məzmunu hər hansı bir maddə.",
 	"gettingstarted-cta-fix-pages-wikipedia": "Təklif edilən səhifəni redaktə etmək",
 	"group-OTRS-member": "OTRS üzvləri",
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS üzvü}}",
