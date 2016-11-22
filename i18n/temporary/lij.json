@@ -4,5 +4,9 @@
 			"Giromin Cangiaxo"
 		]
 	},
-	"group-oversight": "Sorvevixoî"
+	"wikimediamessages-desc": "Messaggi temporanni speciffichi pe Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "Sorvevixoî",
+	"group-oversight-member": "oversight",
+	"please-translate": "Agiuttine a tradue inta to lengua"
 }

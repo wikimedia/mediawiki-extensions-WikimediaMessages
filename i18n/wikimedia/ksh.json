@@ -4,7 +4,8 @@
 			"Merlissimo",
 			"Purodha",
 			"Απεργός",
-			"Nemo bis"
+			"Nemo bis",
+			"WTM"
 		]
 	},
 	"wikimediamessages-desc": "Systemnohrechte un Tex för de Wikimedia Shtefftung ier Wikis.",
@@ -180,7 +181,7 @@
 	"wikibase-sitelinks-wikisource": "Quällewikki",
 	"wikibase-sitelinks-wikiversity": "Wikkiväsitäht",
 	"wikibase-sitelinks-wikivoyage": "Op-Jöck-Wiki",
-	"wikibase-otherprojects-commons": "Wikkimehdija <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\">Commons</i>",
+	"wikibase-otherprojects-commons": "Wikkimehdija Commons",
 	"wikibase-otherprojects-testwikidata": "Dahtewikki",
 	"wikibase-otherprojects-wikibooks": "Böhscherwikki",
 	"wikibase-otherprojects-wikidata": "Dahtewikki",

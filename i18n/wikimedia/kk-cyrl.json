@@ -9,7 +9,8 @@
 			"Amangeldy",
 			"Nemo bis",
 			"Balnur.s",
-			"Нұрлан Рахымжанов"
+			"Нұрлан Рахымжанов",
+			"Zpizza"
 		]
 	},
 	"wikimediamessages-desc": "Уикимедиа ерекше хабарламалары",
@@ -198,5 +199,6 @@
 	"protect-level-templateeditor": "Үлгі өңдеушіллер мен әкімшілерге қана рұқсат ету",
 	"right-extendedconfirmed": "Шектелген беттерді өңдеу",
 	"right-editeditorprotected": "«{{int:protect-level-autoconfirmed}}» ретінде қорғалған беттерді өңдеу",
-	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету"
+	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету",
+	"wikimedia-cookiestatement": "Cookie туралы есеп"
 }

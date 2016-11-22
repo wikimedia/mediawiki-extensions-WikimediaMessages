@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"sitesupport": "Demewşilik"
+	"@metadata": {
+		"authors": [
+			"Zpizza"
+		]
+	},
+	"sitesupport": "Demewşilik",
+	"wikimedia-cookiestatement": "Cookie twralı esep"
 }
