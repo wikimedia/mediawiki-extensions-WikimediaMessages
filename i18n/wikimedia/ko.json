@@ -30,7 +30,8 @@
 			"Idh0854",
 			"Namoroka",
 			"고기랑",
-			"Ykhwong"
+			"Ykhwong",
+			"Tursetic"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -123,7 +124,7 @@
 	"group-rollbacker": "되돌리기 기능 사용자",
 	"group-rollbacker-member": "{{GENDER:$1|되돌리기 기능 사용자}}",
 	"grouppage-rollbacker": "{{ns:project}}:되돌리기 기능 사용자",
-	"group-transwiki": "트랜스위키 가져오는자",
+	"group-transwiki": "가져오기 기능 사용자",
 	"group-transwiki-member": "{{GENDER:$1|트랜스위키 가져오는자}}",
 	"grouppage-transwiki": "{{ns:project}}:트랜스위키 가져오는자",
 	"group-templateeditor": "틀 편집자",
