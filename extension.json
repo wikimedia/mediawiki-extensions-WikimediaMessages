@@ -37,6 +37,9 @@
 		],
 		"WikimediaCCLicenseTexts": [
 			"i18n/cclicensetexts"
+		],
+		"WikitechMessages": [
+			"i18n/wikitech"
 		]
 	},
 	"AutoloadClasses": {

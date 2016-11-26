@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"group-contentadmin": "Content administrators",
+	"group-contentadmin-member": "{{GENDER:$1|content administrator}}",
+	"grouppage-contentadmin": "{{ns:project}}:Content administrators",
+	"group-cloudadmin": "Cloud administrators",
+	"group-cloudadmin-member": "{{GENDER:$1|cloud administrator}}",
+	"grouppage-cloudadmin": "{{ns:project}}:Cloud administrators",
+	"group-oathauth": "OATH validators",
+	"group-oathauth-member": "{{GENDER:$1|OATH validator}}",
+	"grouppage-oathauth": "{{ns:project}}:OATH validators",
+	"group-shell": "Shell users",
+	"group-shell-member": "{{GENDER:$1|shell user}}",
+	"grouppage-shell": "{{ns:project}}:Shell users"
+}
