@@ -1,5 +1,12 @@
 {
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"wikimediamessages-desc": "Wikimedia-spesifikke midlertidige beskjeder",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Revisjonsslettere",
-	"group-oversight-member": "revisjonssletter"
+	"group-oversight-member": "revisjonssletter",
+	"please-translate": "Hjelp til med å oversette til ditt språk"
 }
