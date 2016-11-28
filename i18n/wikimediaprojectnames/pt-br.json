@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Fitoschido"
 		]
 	},
+	"project-localized-name-ladwiki": "Wikipédia em judeu-espanhol",
 	"project-localized-name-nahwiki": "Wikipédia em náuatle",
 	"project-localized-name-nahwiktionary": "Wikcionário em náuatle",
 	"project-localized-name-nahwikibooks": "Wikilivros em náuatle"
