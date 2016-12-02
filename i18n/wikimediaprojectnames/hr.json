@@ -1,8 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bugoslav"
+			"Bugoslav",
+			"Janezdrilc"
 		]
 	},
+	"project-localized-name-hrwiki": "Wikipedija na hrvatskome jeziku",
+	"project-localized-name-hrwiktionary": "Wječnik na hrvatskome jeziku",
+	"project-localized-name-hrwikibooks": "Wikiknjige na hrvatskome jeziku",
+	"project-localized-name-hrwikiquote": "Wikicitat na hrvatskome jeziku",
+	"project-localized-name-hrwikisource": "Wikizvor na hrvatskome jeziku",
+	"project-localized-name-commonswiki": "Zajednički poslužitelj",
+	"project-localized-name-mediawikiwiki": "MedijaWiki",
+	"project-localized-name-metawiki": "Meta-Wiki",
+	"project-localized-name-specieswiki": "Wikivrste",
 	"project-localized-name-wikidatawiki": "Wikipodatci"
 }
