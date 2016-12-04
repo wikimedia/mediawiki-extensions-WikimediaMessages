@@ -4,7 +4,9 @@
 			"McDutchie"
 		]
 	},
+	"wikimediamessages-desc": "Messages temporari specific de Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Supervisor",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "Supervisor"
+	"group-oversight-member": "Supervisor",
+	"please-translate": "Per favor, adjuta a traducer in tu lingua"
 }
