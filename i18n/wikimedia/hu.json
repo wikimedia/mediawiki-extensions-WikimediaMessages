@@ -134,7 +134,7 @@
 	"group-wmf-researcher": "WMF-kutatók",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-kutató}}",
 	"shared-repo-name-shared": "Wikimédia Commons",
-	"wikimedia-copyright": "A lap szövege <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hu\">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt van;\negyes esetekben más módon is felhasználható.\nRészletekért lásd a <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/hu\">felhasználási feltételeket</a>.",
+	"wikimedia-copyright": "A lap szövege <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.hu\">Creative Commons Nevezd meg! – Így add tovább! 3.0</a> licenc alatt érhető el;\negyes esetekben más módon is felhasználható.\nRészletekért lásd a <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/hu\">felhasználási feltételeket</a>.",
 	"wikimedia-copyrightwarning": "A „{{int:savearticle}}” gombra kattintva visszavonhatatlan engedélyt adsz annak felhasználására a [https://creativecommons.org/licenses/by-sa/3.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 3.0] licenc és – ha magad írtad – a [https://www.gnu.org/copyleft/fdl.htm GFDL] szerint, és elfogadod, hogy az újrafelhasználóknak elég közvetve, a wikioldalra mutató linken vagy URL-en keresztül hivatkozniuk rád.  Részletesebben lásd a [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/hu felhasználási feltételekben].",
 	"wikibase-statementsection-identifiers": "Azonosítók",
 	"wikibase-sitelinks-wikibooks": "Wikikönyvek",
@@ -165,5 +165,6 @@
 	"wikimedia-sulrenamewarning-usenew": "Mostantól az új felhasználóneveddel kell bejelentkezned: <strong>$1</strong>. Az új neved egyedi az összes Wikimédia-projektben; ha az egyik projektben bejelentkezel, és meglátogatsz egy másikat, ott is ugyanazzal a névvel leszel azonosítva. [[:m:Special:MyLanguage/Help:Unified_login|Az egységes bejelentkezést ismertető lapon]] találsz további információt, és a gyakori kérdésekre adott válaszokat. Ha meg akarod változtatni az emailcímedet vagy a jelszavadat a [[Special:Preferences|beállításaidnál]], most megteheted.\n\nHa más felhasználónevet szeretnél, használd a [[Special:GlobalRenameRequest|globális átnevezési kérelmek]] oldalát. Köszönjük, hogy közreműködsz a Wikimédia-projektekben!",
 	"wikimedia-centralauth-contribs-locked": "Ezt a fiókot globálisan zárolták.\nTovábbi információkért lásd a [[m:Special:CentralAuth/$1|globális fiók adatait]].",
 	"wikimedia-centralauth-uwbr-intro": "Ez az oldal azokat a felhasználókat listázza, akik át lesznek nevezve  [[m:Single User Login finalisation announcement|az egységes bejelentkezés véglegesítésekor]]. További információkért lásd [[m:Help:Unified login|az egységes bejelentkezés ismertető lapját]]. Bármikor kérhetsz magadnak másik nevet  [[Special:GlobalRenameRequest|a globális átnevezési kérelmek lapján]].",
-	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben"
+	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben",
+	"wikimedia-cookiestatement": "Cookie-nyilatkozat"
 }
