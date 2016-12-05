@@ -825,26 +825,31 @@ class WikimediaMessagesHooks {
 				'Wikiuutiset' => 'Wikiuutisten',
 				'Wikisitaatit' => 'Wikisitaattien',
 				'Wikimedia Suomi' => 'Wikimedia Suomen',
+				'Wikimatkat' => 'Wikimatkojen',
 			),
 			'partitive' => array(
 				'Wikiuutiset' => 'Wikiuutisia',
 				'Wikisitaatit' => 'Wikisitaatteja',
 				'Wikimedia Suomi' => 'Wikimedia Suomea',
+				'Wikimatkat' => 'Wikimatkoja',
 			),
 			'elative' => array(
 				'Wikiuutiset' => 'Wikiuutisista',
 				'Wikisitaatit' => 'Wikisitaateista',
 				'Wikimedia Suomi' => 'Wikimedia Suomesta',
+				'Wikimatkat' => 'Wikimatkoista',
 			),
 			'inessive' => array(
 				'Wikiuutiset' => 'Wikiuutisissa',
 				'Wikisitaatit' => 'Wikisitaateissa',
 				'Wikimedia Suomi' => 'Wikimedia Suomessa',
+				'Wikimatkat' => 'Wikimatkoissa',
 			),
 			'illative' => array(
 				'Wikiuutiset' => 'Wikiuutisiin',
 				'Wikisitaatit' => 'Wikisitaatteihin',
 				'Wikimedia Suomi' => 'Wikimedia Suomeen',
+				'Wikimatkat' => 'Wikimatkoihin',
 			),
 		); # fi
 
