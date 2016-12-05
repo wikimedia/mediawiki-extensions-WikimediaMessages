@@ -185,7 +185,7 @@
 	"group-wmf-officeit-member": "{{GENDER:$1|維基媒體基金會 IT}}",
 	"group-wmf-researcher": "WMF 研究人員",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF 研究人員}}",
-	"search-interwiki-custom": "wiktionary:來自維基詞典\nwikibooks:來自維基教科書\nwikinews:來自維基新聞\nwikiquote:來自維基語錄\nwikisource:來自維基文庫\nwikiversity:來自維基學院\nwikivoyage:來自維基導遊",
+	"search-interwiki-custom": "wikt:來自維基詞典\nb:來自維基教科書\nn:來自維基新聞\nq:來自維基語錄\ns:來自維基文庫\nv:來自維基學院\nvoy:來自維基導遊",
 	"shared-repo-name-shared": "維基共享資源",
 	"wikimedia-copyright": "所有文字皆受 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\">創用 CC 姓名標示-相同方式分享授權條款</a> 保護，除此之外可能適用其他附加條款。\n請參考 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">使用條款</a> 瞭解詳情。",
 	"wikidata-copyright": "所有來自主要和屬性命名空間的結構化資料受 <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"創用 CC0 授權條款定義\">創用 CC0 授權條款</a> 保護； 其他命名空間中的內容受 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"創用 CC 姓名標示-相同方式分享授權條款定義\">創用 CC 姓名標示-相同方式分享授權條款</a> 保護；可能適用其他附加條款。請參考 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"維基媒體基金會的使用條款\">使用條款</a> 了解細節。",

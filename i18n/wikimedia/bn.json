@@ -161,7 +161,7 @@
 	"group-wmf-supportsafety": "WMF সমর্থন ও নিরাপত্তা",
 	"tag-emoji": "ইমোজি",
 	"tag-emoji-description": "বৈশ্বিক অপব্যবহার ছাঁকনি ১১০ দ্বারা ব্যবহৃত।",
-	"search-interwiki-custom": "wiktionary:উইকিভধান থেকে\nwikibooks:উইকিবই থেকে\nwikinews:উইকিসংবাদ থেকে\nwikiquote:উইকিউক্তি থেকে\nwikisource:উইকিসংকলন থেকে\nwikiversity:উইকিবিশ্ববিদ্যালয় থেকে\nwikivoyage:উইকিভ্রমণ থেকে",
+	"search-interwiki-custom": "wikt:উইকিভধান থেকে\nb:উইকিবই থেকে\nn:উইকিসংবাদ থেকে\nq:উইকিউক্তি থেকে\ns:উইকিসংকলন থেকে\nv:উইকিবিশ্ববিদ্যালয় থেকে\nvoy:উইকিভ্রমণ থেকে",
 	"shared-repo-name-shared": "উইকিমিডিয়া কমন্স",
 	"wikimedia-copyright": "লেখাগুলো <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;\nএর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।\n <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use?uselang=bn\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",
 	"wikidata-copyright": "প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",

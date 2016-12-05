@@ -183,7 +183,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:번역 관리자",
 	"tag-emoji": "에모지",
 	"tag-emoji-description": "전역 편집 필터 110에 의해 사용됨.",
-	"search-interwiki-custom": "wiktionary:위키낱말사전에서\nwikibooks:위키책에서\nwikinews:위키뉴스에서\nwikiquote:위키인용집에서\nwikisource:위키문헌에서\nwikiversity:위키배움터에서\nwikivoyage:위키여행에서",
+	"search-interwiki-custom": "wikt:위키낱말사전에서\nb:위키책에서\nn:위키뉴스에서\nq:위키인용집에서\ns:위키문헌에서\nv:위키배움터에서\nvoy:위키여행에서",
 	"shared-repo-name-shared": "위키미디어 공용",
 	"wikimedia-copyright": "내용은 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ko\">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며\n추가적인 조건이 적용될 수 있습니다.\n자세한 내용은 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ko\">이용 약관</a>을 참조하십시오.",
 	"wikidata-copyright": "주요와 속성 이름공간의 모든 구조화된 데이터는 <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.ko\" title=\"크리에이티브 커먼즈 CC0 라이선스의 정의\">크리에이티브 커먼즈 CC0 라이선스</a>에 따라 사용할 수 있고\n다른 이름공간의 내용은 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ko\" title=\"크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스의 정의\">크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스</a>에 따라 사용할 수 있으며\n추가적인 조건이 적용될 수 있습니다.\n자세한 내용은 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ko\" title=\"위키미디어 재단 이용 약관\">이용 약관</a>을 참조하십시오.",

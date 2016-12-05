@@ -152,7 +152,7 @@
 	"group-translationadmin": "käännösylläpitäjät",
 	"group-translationadmin-member": "{{GENDER:$1|käännösylläpitäjä}}",
 	"grouppage-translationadmin": "{{ns:project}}:Käännösylläpitäjät",
-	"search-interwiki-custom": "wiktionary:Wikisanakirjasta\nwikibooks:Wikikirjastosta\nwikinews:Wikiuutisista\nwikiquote:Wikisitaateista\nwikisource:Wikiaineistosta\nwikiversity:Wikiopistosta\nwikivoyage:Wikimatkoista",
+	"search-interwiki-custom": "wikt:Wikisanakirjasta\nb:Wikikirjastosta\nn:Wikiuutisista\nq:Wikisitaateista\ns:Wikiaineistosta\nv:Wikiopistosta\nvoy:Wikimatkoista",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href=\"https://wikimediafoundation.org/wiki/Käyttöehdot\">käyttöehdot</a>.",
 	"wikimedia-copyrightwarning": "Tallentamalla muutokset sitoudut noudattamaan [https://wikimediafoundation.org/wiki/Terms_of_Use käyttöehtoja] ja hyväksyt sen, että muokkauksesi julkaistaan peruuttamattomasti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 -lisenssin] ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL:n] ehtojen mukaan.\nHyväksyt sen, että hyperlinkki tai URL riittää tekijän nimeämiseksi Creative Commons -lisenssin mukaisesti.",

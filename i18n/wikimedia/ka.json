@@ -134,7 +134,7 @@
 	"group-translationadmin": "თარგმანის ადმინისტრატორები",
 	"group-translationadmin-member": "{{GENDER:$1|თარგმანის ადმინისტრატორი}}",
 	"grouppage-translationadmin": "{{ns:project}}:თარგმანის ადმინისტრატორები",
-	"search-interwiki-custom": "wiktionary:ვიქსიკონიდან\nwikibooks:ვიკიწიგნებიდან\nwikinews:ვიკისიახლენიდან\nwikiquote:ვიკიციტატიდან\nwikisource:ვიკიწყაროდან\nwikiversity:ვიკივერსიტეტიდან\nwikivoyage:ვიკივოიაჟიდან",
+	"search-interwiki-custom": "wikt:ვიქსიკონიდან\nb:ვიკიწიგნებიდან\nn:ვიკისიახლენიდან\nq:ვიკიციტატიდან\ns:ვიკიწყაროდან\nv:ვიკივერსიტეტიდან\nvoy:ვიკივოიაჟიდან",
 	"wikimedia-copyright": "მოცემული ტექსტი წარმოდგენილია <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">გამოყენების წესები</a>.",
 	"wikimedia-copyrightwarning": "ღილაკ \"{{int:savearticle}}\"-ზე დაჭერით, თქვენ ეთანხმებით [https://wikimediafoundation.org/wiki/Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.\nთქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.",
 	"wikibase-repo-name": "ვიკიმონაცემები",

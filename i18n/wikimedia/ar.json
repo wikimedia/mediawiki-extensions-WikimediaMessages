@@ -149,7 +149,7 @@
 	"grouppage-translationadmin": "{{ns:project}}: إداريو الترجمة",
 	"group-wmf-researcher": "باحثو مؤسسة ويكيميديا",
 	"group-wmf-researcher-member": "باحث{{GENDER:$1||ة}} لمؤسسة ويكيميديا",
-	"search-interwiki-custom": "wiktionary:من ويكاموس\nwikibooks:من ويكي الكتب\nwikinews:من ويكي الأخبار\nwikiquote:من ويكي الاقتباس\nwikisource:من ويكي مصدر\nwikiversity:من ويكي الجامعة\nwikivoyage:من ويكي الرحلات",
+	"search-interwiki-custom": "wikt:من ويكاموس\nb:من ويكي الكتب\nn:من ويكي الأخبار\nq:من ويكي الاقتباس\ns:من ويكي مصدر\nv:من ويكي الجامعة\nvoy:من ويكي الرحلات",
 	"shared-repo-name-shared": "ويكيميديا كومنز",
 	"wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nقد تنطبق بنود أخرى أيضًا.\nانظر <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
 	"wikimedia-copyrightwarning": "بالضغط على زر \"{{int:savearticle}}\"، فإنك توافق على [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
