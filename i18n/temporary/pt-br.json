@@ -7,12 +7,15 @@
 			"Dicionarista",
 			"Opraco",
 			"Eduardo Addad de Oliveira",
-			"TheEduGobi"
+			"TheEduGobi",
+			"!Silent"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Supervisores",
 	"group-oversight": "Supervisores",
 	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
-	"please-translate": "Por favor, ajude a traduzir para o seu idioma"
+	"hello": "Olá",
+	"please-translate": "Por favor, ajude a traduzir para o seu idioma",
+	"thank-you": "{{GENDER:$1|Obrigado}}."
 }

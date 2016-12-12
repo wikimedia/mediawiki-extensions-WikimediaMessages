@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aspar"
+			"Aspar",
+			"1917 Ekim Devrimi"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}: çımsernayox",
 	"group-oversight": "çımsernayoxi",
-	"group-oversight-member": "çımsernayox"
+	"group-oversight-member": "çımsernayox",
+	"hello": "Merheba"
 }

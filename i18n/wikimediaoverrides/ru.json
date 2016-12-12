@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Kaganer"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помогите выбрать)]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощь в выборе)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Не видите изображение? [[{{MediaWiki:createacct-captcha-help-url}}|Запросите учётную запись]]"
 }

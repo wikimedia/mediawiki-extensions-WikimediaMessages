@@ -12,10 +12,10 @@
 			"Shirayuki",
 			"Whym",
 			"柑橘類",
-			"青子守歌"
+			"青子守歌",
+			"おはぐろ蜻蛉"
 		]
 	},
-	"wikimedialicensetexts-desc": "ウィキメディアのライセンス用メッセージ",
 	"wm-license-attribution-with-author-text": "このファイルの著作権者$1は、あらゆる人が'''あらゆる目的で'''このファイルを使用することを許可しています。'''ただし'''著作権者の名義が適切に表示されることを条件とします。再頒布、二次的著作物の製作、商用利用等のあらゆる使用が許可されています。",
 	"wm-license-attribution-without-author-text": "このファイルの著作権者は、あらゆる人が'''あらゆる目的で'''このファイルを使用することを許可しています。'''ただし'''著作権者の名義が適切に表示されることを条件とします。再頒布、二次的著作物の製作、商用利用等のあらゆる使用が許可されています。",
 	"wm-license-artwork-artist": "作者",
@@ -29,7 +29,7 @@
 	"wm-license-artwork-inscriptions": "銘文等の文字",
 	"wm-license-artwork-notes": "備考",
 	"wm-license-artwork-id": "台帳番号",
-	"wm-license-artwork-source": "出典/撮影者",
+	"wm-license-artwork-source": "情報源/撮影者",
 	"wm-license-book-edition": "版",
 	"wm-license-book-editor": "編者",
 	"wm-license-book-illustrator": "挿絵画家",

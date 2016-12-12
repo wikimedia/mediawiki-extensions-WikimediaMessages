@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Arjunaraoc"
+			"Arjunaraoc",
+			"Jedimaster26"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:పూర్తి తొలగింపు",
 	"group-oversight": "పూర్తి తొలగింపు సమాహం",
-	"group-oversight-member": "పూర్తి తొలగింపు"
+	"group-oversight-member": "పూర్తి తొలగింపు",
+	"hello": "నమస్తే"
 }

@@ -1,15 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aursani"
+			"Aursani",
+			"Mehtab ahmed"
 		]
 	},
 	"wm-license-cc-attribution": "انتساب",
-	"wm-license-cc-free": "توهان آزاد آهيو:",
+	"wm-license-cc-by-sa-3.0-text": "ھي فائيل [[{{int:wm-license-cc-wiki-link}}|ڪريئيٽو ڪامنز]] [//creativecommons.org/licenses/by-sa/3.0/deed.en انتساب-ھڪجھڙي ڀاڱيداري 3.0 Unported] لائسنس تحت لائسنس ڏنل آھي.",
+	"wm-license-cc-free": "توھان آزاد آھيو:",
 	"wm-license-cc-free-to-share-header": "ونڊڻ لاءِ",
-	"wm-license-cc-free-to-share-text": "اهو ڪم نقل ڪرڻ، ورڇڻ، ۽ پارمڪارڻ",
+	"wm-license-cc-free-to-share-text": "اھو ڪم نقل ڪرڻ، ورڇڻ، ۽ پارمڪارڻ",
 	"wm-license-cc-free-to-remix-header": "جڳلبندي ڪرڻ",
-	"wm-license-cc-conditions": "هيٺين شرطن تي:",
+	"wm-license-cc-free-to-remix-text": "ڪم اختيار ڪرڻ لاءِ",
+	"wm-license-cc-conditions": "ھيٺين شرطن تي:",
 	"wm-license-cc-conditions-attribution-header": "انتساب",
+	"wm-license-cc-conditions-share_alike-header": "ھڪجھڙي ڀاڱيداري",
 	"wm-license-cc-conditions-share_alike-text": "هن ڪم کي اڳيان وڌائڻ، يا سنوارڻ جي نتيجي ۾ جڙندڙ ليک توهان ساڳي يا اهڙي ئي لائيسنس تحت ورڇي ونڊي سگھو ٿا."
 }

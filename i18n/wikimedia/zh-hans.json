@@ -29,7 +29,8 @@
 			"Kuailong",
 			"凡人丶",
 			"飞舞回堂前",
-			"Bowleerin"
+			"Bowleerin",
+			"Arthur2e5"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -263,7 +264,7 @@
 	"upload-form-label-own-work-message-commons": "我证明我拥有此文件的版权，并不可撤销地同意采用[https://creativecommons.org/licenses/by-sa/4.0/deed.zh 知识共享 署名-相同方式共享 4.0]许可协议将此文件发布至维基共享资源，并且我同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]。",
 	"upload-form-label-not-own-work-message-commons": "如果您并不拥有此文件的版权，或者您希望将其以其他许可协议发布，请考虑使用[https://commons.wikimedia.org/wiki/Special:UploadWizard 共享资源的上传向导]。",
 	"upload-form-label-not-own-work-local-commons": "如果网站允许依据他们的方针上传此文件的话，您也可以尝试使用[[Special:Upload|{{SITENAME}}上的上传页面]]。",
-	"wikimedia-upload-nolicenses": "此wiki未启用上传文件。请[[commons:Special:UploadWizard|前往维基共享资源]]上传。如果您希望在此wiki启用此特殊页面上传文件，您需要向管理员请求编辑[[MediaWiki:Licenses]]以加入一个或更多授权选项。致管理员：您可在此链接页面使用以下格式：<code>* 模板名 (Template name)|标签 (Label)</code>。使用任意文本即可启用上传选项而不需要授权选项。",
+	"wikimedia-upload-nolicenses": "此wiki未启用上传文件。请[[commons:Special:UploadWizard|前往维基共享资源]]上传。\n\n如果您希望在此wiki启用此特殊页面上传文件，您需要向管理员请求编辑[[MediaWiki:Licenses]]以加入一个或更多授权选项。\n\n致管理员：您可在此链接页面使用以下格式：<code>* 模板名 (Template name)|标签 (Label)</code>。使用任意文本即可启用上传选项而不需要授权选项。",
 	"wikimediashoplink-linktext": "维基百科商店",
 	"wikimediashoplink-link-tooltip": "访问维基百科商店",
 	"interlanguage-link-mul": "更多语言",

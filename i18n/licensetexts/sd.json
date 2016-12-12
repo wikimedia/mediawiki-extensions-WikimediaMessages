@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aursani"
+			"Aursani",
+			"Mehtab ahmed"
 		]
 	},
 	"wm-license-information-description": "تشريح",
@@ -9,7 +10,7 @@
 	"wm-license-information-date": "تاريخ",
 	"wm-license-information-author": "ليکڪ",
 	"wm-license-information-permission": "اجازت",
-	"wm-license-information-permission-reusing-text": "هن فائيل کي وَراستعمال ڪندي",
-	"wm-license-own-work": "ڪم پنهنجايو",
-	"wm-license-self-multiple-licenses-select": "توهان پنهنجي مرضيءَ جي لائيسنس جي چونڊ ڪري سگھو ٿا."
+	"wm-license-information-permission-reusing-text": "ھن فائيل کي وَراستعمال ڪندي",
+	"wm-license-own-work": "ڪم پنھنجايو",
+	"wm-license-self-multiple-licenses-select": "توھان پنھنجي مرضيءَ جي لائيسنس جي چونڊ ڪري سگھو ٿا."
 }

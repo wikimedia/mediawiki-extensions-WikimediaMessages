@@ -6,10 +6,10 @@
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht Wikimedia-spezifische temporäre Nachrichten",
-	"bug-54847-password-reset-prompt": "Aufgrund eines [[meta:October 2013 private data security issue|Datenschutzproblems mit den Wikimedia-Labs-Datenbanken]] ist dein kürzlich verwendetes Passwort möglicherweise anfällig. Bitte leg ein neues, anderes Passwort fest, um dein Benutzerkonto abzusichern. Wir entschuldigen uns für die Unannehmlichkeiten.",
-	"password-recycled": "Das eingegebene Passwort entspricht einem älteren Passwort, das mit deinem Benutzerkonto verknüpft war. Bitte gib ein neues, anderes Passwort an.",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighter",
 	"group-oversight-member": "Oversighter",
-	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen"
+	"hello": "Hallo",
+	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen",
+	"thank-you": "{{GENDER:$1|Vielen Dank.}}"
 }
