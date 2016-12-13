@@ -8,5 +8,7 @@
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Revisjonsslettere",
 	"group-oversight-member": "revisjonssletter",
-	"please-translate": "Hjelp til med å oversette til ditt språk"
+	"hello": "Hallo",
+	"please-translate": "Hjelp til med å oversette til ditt språk",
+	"thank-you": "{{GENDER:$1|Takk.}}"
 }
