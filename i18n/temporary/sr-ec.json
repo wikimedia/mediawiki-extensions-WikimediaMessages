@@ -8,5 +8,6 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Надзорници",
-	"group-oversight-member": "брисач измена"
+	"group-oversight-member": "брисач измена",
+	"thank-you": "{{GENDER:$1|Хвала.}}"
 }

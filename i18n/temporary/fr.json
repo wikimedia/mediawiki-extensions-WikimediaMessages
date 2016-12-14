@@ -18,5 +18,6 @@
 	"group-oversight": "Masqueurs de modifications",
 	"group-oversight-member": "{{GENDER:$1|masqueur|masqueuse}} de modifications",
 	"hello": "Bonjour",
-	"please-translate": "Merci de nous aider à traduire dans votre langue"
+	"please-translate": "Merci de nous aider à traduire dans votre langue",
+	"thank-you": "{{GENDER:$1|Merci.}}"
 }
