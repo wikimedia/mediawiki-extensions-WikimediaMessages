@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zygimantus"
+			"Zygimantus",
+			"Eitvys200"
 		]
 	},
-	"please-translate": "Prašome padėti išversti į jūsų kalbą"
+	"hello": "Sveiki",
+	"please-translate": "Prašome padėti išversti į jūsų kalbą",
+	"thank-you": "{{GENDER:$1|Ačiū.}}"
 }
