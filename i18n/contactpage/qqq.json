@@ -4,9 +4,13 @@
 			"Reedy",
 			"Shirayuki",
 			"Liuxinyu970226",
-			"Amire80"
+			"Amire80",
+			"Umherirrender"
 		]
 	},
+	"contactpage-title-requestlicense": "Used as page title on [[meta:Special:Contact/requestlicense]]",
+	"contactpage-pagetext-requestlicense": "Used as intro on [[meta:Special:Contact/requestlicense]]",
+	"contactpage-subject-requestlicense": "Used as default email subject on [[meta:Special:Contact/requestlicense]]",
 	"contactpage-license-request-username": "The username of the person currently filling out this form.\n{{Identical|Username}}",
 	"contactpage-license-request-relevantsite": "Which site a user is primarily active (Users home wiki)",
 	"contactpage-license-request-group": "Any affiliated chapters, groups etc relevant to this request",
@@ -23,6 +27,7 @@
 	"contactpage-license-request-description": "Description of proposed usages of Wikimedia trademark(s)",
 	"contactpage-license-request-selectmark": "Select which Wikimedia tradmark(s)",
 	"contactpage-wikimedia-trademark-globe": "Wikipedia Globe logo",
+	"contactpage-wikimedia-trademark-wikiwordmark": "Used as option on [[meta:Special:Contact/licenseabuse]]",
 	"contactpage-wikimedia-trademark-w": "Stylized \"W\" (in Wikipedia logo font)",
 	"contactpage-wikimedia-trademark-foundation": "Wikimedia Foundation logo\n{{Identical|Wikimedia Foundation}}",
 	"contactpage-wikimedia-trademark-commons": "Wikimedia Commons logo.\n{{Identical|Wikimedia Commons}}",
@@ -38,6 +43,9 @@
 	"contactpage-wikimedia-trademark-wikiversity": "Wikiversity logo\n{{Identical|Wikiversity}}",
 	"contactpage-wikimedia-trademark-wiktionary": "Wiktionary logo\n{{Identical|Wiktionary}}",
 	"contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage logo.\n{{Identical|Wikivoyage}}",
+	"contactpage-title-licenseabuse": "Used as page title on [[meta:Special:Contact/licenseabuse]]",
+	"contactpage-pagetext-licenseabuse": "Used as intro on [[meta:Special:Contact/licenseabuse]]",
+	"contactpage-subject-licenseabuse": "Used as default email subject on [[meta:Special:Contact/licenseabuse]]",
 	"contactpage-license-abuse-description": "A description of the abuse of the use of Wikimedia trademarks",
 	"contactpage-license-abuse-selectmark": "Which Wikimedia trademark has been abused",
 	"contactpage-license-abuse-location": "Location of the abuse of Wikimedia trademark",
