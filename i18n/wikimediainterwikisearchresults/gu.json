@@ -4,6 +4,6 @@
 			"KartikMistry"
 		]
 	},
-	"search-interwiki-results-enwiki": "[[:en:Main_Page|અંગ્રેજી વિકિપીડિયા]]માંથી પરિણામો દર્શાવે છે.",
-	"search-interwiki-results-guwiki": "[[:gu:Main_Page|ગુજરાતી વિકિપીડિયા]]માંથી પરિણામો દર્શાવે છે."
+	"search-interwiki-results-enwiki": "[[:en:|અંગ્રેજી વિકિપીડિયા]]માંથી પરિણામો દર્શાવે છે.",
+	"search-interwiki-results-guwiki": "[[:gu:|ગુજરાતી વિકિપીડિયા]]માંથી પરિણામો દર્શાવે છે."
 }

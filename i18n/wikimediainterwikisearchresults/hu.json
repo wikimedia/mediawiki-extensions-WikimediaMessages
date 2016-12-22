@@ -4,8 +4,8 @@
 			"Tacsipacsi"
 		]
 	},
-	"search-interwiki-results-abwiki": "Eredmények megjelenítése az [[:ak:Main_Page|{{subst:#language:ak|hu}} Wikipédiáról]].",
-	"search-interwiki-results-acewiki": "Eredmények megjelenítése az [[:ace:Main_Page|achinéz Wikipédiáról]].",
-	"search-interwiki-results-afwiki": "Eredmények megjelenítése az [[:af:Main_Page|afrikaans Wikipédiáról]].",
-	"search-interwiki-results-akwiki": "Eredmények megjelenítése az [[:ak:Main_Page|akan Wikipédiáról]]."
+	"search-interwiki-results-abwiki": "Eredmények megjelenítése az [[:ak:|{{subst:#language:ak|hu}} Wikipédiáról]].",
+	"search-interwiki-results-acewiki": "Eredmények megjelenítése az [[:ace:|achinéz Wikipédiáról]].",
+	"search-interwiki-results-afwiki": "Eredmények megjelenítése az [[:af:|afrikaans Wikipédiáról]].",
+	"search-interwiki-results-akwiki": "Eredmények megjelenítése az [[:ak:|akan Wikipédiáról]]."
 }
