@@ -1,6 +1,10 @@
 {
-	"@metadata": [],
-	"search-interwiki-results-abwiki": "Viser resultater fra [[:ab:|Wikipedia på abkhasisk]]",
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"search-interwiki-results-abwiki": "Viser resultater fra [[:ab:|Wikipedia på abkhasisk]].",
 	"search-interwiki-results-acewiki": "Viser resultater fra [[:ace:|Wikipedia på acehnesisk]].",
 	"search-interwiki-results-adywiki": "Viser resultater fra [[:ady:|Wikipedia på adygeisk]].",
 	"search-interwiki-results-afwiki": "Viser resultater fra [[:af:|Wikipedia på afrikaans]].",
@@ -183,6 +187,7 @@
 	"search-interwiki-results-nvwiki": "Viser resultater fra [[:nv:|Wikipedia på navajo]].",
 	"search-interwiki-results-nywiki": "Viser resultater fra [[:ny:|Wikipedia på chichewa]].",
 	"search-interwiki-results-ocwiki": "Viser resultater fra [[:oc:|Wikipedia på oksitansk]].",
+	"search-interwiki-results-olowiki": "Viser resultater fra [[:olo:|Wikipedia på livvisk]].",
 	"search-interwiki-results-omwiki": "Viser resultater fra [[:om:|Wikipedia på oromo]].",
 	"search-interwiki-results-orwiki": "Viser resultater fra [[:or:|Wikipedia på oriya]].",
 	"search-interwiki-results-oswiki": "Viser resultater fra [[:os:|Wikipedia på ossetisk]].",
