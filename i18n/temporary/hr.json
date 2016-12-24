@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dalibor Bosits"
+			"Dalibor Bosits",
+			"Bugoslav"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Nadzor",
 	"group-oversight": "Nadzornici",
-	"group-oversight-member": "Nadzornik"
+	"group-oversight-member": "Nadzornik",
+	"thank-you": "{{GENDER:$1|Hvala lijepa!}}"
 }

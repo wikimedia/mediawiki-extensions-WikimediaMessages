@@ -4,8 +4,17 @@
 			"Tacsipacsi"
 		]
 	},
-	"search-interwiki-results-abwiki": "Eredmények megjelenítése az [[:ak:|{{subst:#language:ak|hu}} Wikipédiáról]].",
+	"search-interwiki-results-abwiki": "Eredmények megjelenítése az [[:ab:|abház Wikipédiáról]].",
 	"search-interwiki-results-acewiki": "Eredmények megjelenítése az [[:ace:|achinéz Wikipédiáról]].",
 	"search-interwiki-results-afwiki": "Eredmények megjelenítése az [[:af:|afrikaans Wikipédiáról]].",
-	"search-interwiki-results-akwiki": "Eredmények megjelenítése az [[:ak:|akan Wikipédiáról]]."
+	"search-interwiki-results-akwiki": "Eredmények megjelenítése az [[:ak:|akan Wikipédiáról]].",
+	"search-interwiki-results-alswiki": "Eredmények megjelenítése az [[:als:|alemann Wikipédiáról]].",
+	"search-interwiki-results-amwiki": "Eredmények megjelenítése az [[:am:|amhara Wikipédiáról]].",
+	"search-interwiki-results-angwiki": "Eredmények megjelenítése az [[:ang:|óangol Wikipédiáról]].",
+	"search-interwiki-results-anwiki": "Eredmények megjelenítése az [[:an:|aragonéz Wikipédiáról]].",
+	"search-interwiki-results-arcwiki": "Eredmények megjelenítése az [[:arc:|arámi Wikipédiáról]].",
+	"search-interwiki-results-arwiki": "Eredmények megjelenítése az [[:ar:|arab Wikipédiáról]].",
+	"search-interwiki-results-astwiki": "Eredmények megjelenítése az [[:ast:|asztúr Wikipédiáról]].",
+	"search-interwiki-results-aswiki": "Eredmények megjelenítése az [[:as:|asszámi Wikipédiáról]].",
+	"search-interwiki-results-avwiki": "Eredmények megjelenítése az [[:av:|avar Wikipédiáról]]."
 }
