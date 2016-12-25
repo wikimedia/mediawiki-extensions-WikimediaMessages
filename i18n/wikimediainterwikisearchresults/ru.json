@@ -2,17 +2,31 @@
 	"@metadata": {
 		"authors": [
 			"Alexandr Efremov",
-			"Laboramus"
+			"Laboramus",
+			"Kareyac"
 		]
 	},
 	"search-interwiki-results-abwiki": "Результаты из [[:ab:|Aбхазской Википедии]].",
 	"search-interwiki-results-arwiki": "Результаты из [[:ar:|Арабской Википедии]].",
+	"search-interwiki-results-bawiki": "Результаты из [[:ba:|Башкирской Википедии]].",
+	"search-interwiki-results-cawiki": "Результаты из [[:ca:|Каталанской Википедии]]",
+	"search-interwiki-results-dvwiki": "Результаты из [[:dv:|Мальдивской Википедии]]",
 	"search-interwiki-results-enwiki": "Результаты из [[:en:|Английской Википедии]].",
+	"search-interwiki-results-euwiki": "Результаты из [[:eu:|Баскской Википедии]].",
 	"search-interwiki-results-hewiki": "Результаты из [[:he:|Ивритской Википедии]].",
 	"search-interwiki-results-hywiki": "Результаты из [[:hy:|Армянской Википедии]].",
 	"search-interwiki-results-jawiki": "Результаты из [[:ja:|Японской Википедии]].",
 	"search-interwiki-results-kawiki": "Результаты из [[:ka:|Грузинской Википедии]]",
+	"search-interwiki-results-kbdwiki": "Результаты из [[:kbd:|Кабардинской Википедии]]",
+	"search-interwiki-results-kowiki": "Результаты из [[:ko:|Корейской Википедии]]",
+	"search-interwiki-results-mowiki": "Результаты из [[:mo:|Молдовской Википедии]]",
 	"search-interwiki-results-ruwiki": "Результаты из [[:ru:|Русской Википедии]].",
+	"search-interwiki-results-slwiki": "Результаты из [[:sl:|Словенской Википедии]]",
+	"search-interwiki-results-srwiki": "Результаты из [[:sr:|Сербсой Википедии]]",
+	"search-interwiki-results-suwiki": "Результаты из [[:su:|Суданской Википедии]].",
+	"search-interwiki-results-svwiki": "Результаты из [[:sv:|Шведской Википедии]].",
 	"search-interwiki-results-ukwiki": "Результаты из [[:uk:|Украинской Википедии]].",
+	"search-interwiki-results-viwiki": "Результаты из [[:vi:|Вьетнамской Википедии]].",
+	"search-interwiki-results-warwiki": "Результаты из [[:war:|Варайской Википедии]].",
 	"search-interwiki-results-zhwiki": "Результаты из [[:zh:|Китайской Википедии]]."
 }

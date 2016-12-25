@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Karthi.dr",
-			"Thakurji"
+			"Thakurji",
+			"Girmitya"
 		]
 	},
-	"wikimedialicensetexts-desc": "Wikimedia licence ke baare me sandes",
 	"wm-license-book-language": "Bhasa",
-	"wm-license-information-description": "Baare me"
+	"wm-license-information-description": "Baare me",
+	"wm-license-information-source": "Source",
+	"wm-license-information-date": "Taarik",
+	"wm-license-information-author": "Likhe waala"
 }

@@ -22,5 +22,6 @@
 	"group-uploader": "Uploaders",
 	"group-uploader-member": "uploader",
 	"grouppage-uploader": "{{ns:project}}:Uploaders",
-	"cant-delete-main-page": "Aap pahila pana ke mitae nai to hatae nai saktaa hae"
+	"cant-delete-main-page": "Aap pahila pana ke mitae nai to hatae nai saktaa hae",
+	"wikimedia-developers": "Developers"
 }

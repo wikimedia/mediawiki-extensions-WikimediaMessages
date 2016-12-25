@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Soul Train"
+			"Soul Train",
+			"Migraghvi"
 		]
 	},
-	"sitesupport": "Сайтдиз даях хьун"
+	"sitesupport": "Сайтдиз даях хьун",
+	"tooltip-n-sitesupport": "Жи пад хуьн",
+	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike</a> лицензиядал гъил агакьдай я, чара- чара гьалара алава шартlар хьун мумкин я. Гегьеншдиз, килига <a href=\"https://wikimediafoundation.org/wiki/Кардик_кутунин_шартlар\">Кардик кутунин шартlар</a>",
+	"wikimedia-developers": "Туькlуьрдайбур"
 }
