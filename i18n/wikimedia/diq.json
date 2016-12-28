@@ -76,7 +76,7 @@
 	"group-interface-editor": "Serkaranê interfaceyi",
 	"group-interface-editor-member": "{{GENDER:$1|serkarê rıasayışi}}",
 	"grouppage-interface-editor": "{{ns:project}}:Vurnayoğê miyanri",
-	"group-ipblock-exempt": "IP bloqe nébiyayey",
+	"group-ipblock-exempt": "Karberê bloqe kerdışê IP'y ra muafi",
 	"group-ipblock-exempt-member": "{{GENDER:$1|mu'afiyetê ver-gırewtışê IPyi}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP bloqe nébiyayey",
 	"group-patroller": "dewriyeyi",
