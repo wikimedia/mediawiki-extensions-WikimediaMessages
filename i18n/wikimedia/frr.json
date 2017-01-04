@@ -113,8 +113,6 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administratooren för sentraal bööd",
 	"group-global-bot": "Globaal bots",
 	"group-global-bot-member": "{{GENDER:$1|Globaal bot}}",
-	"group-global-gather-admins": "Globaal Gather-administratooren",
-	"group-global-gather-admins-member": "{{GENDER:$1|Globaal Gather-administraator}}",
 	"group-global-ipblock-exempt": "Faan globaal IP speren ütjnimenen",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|Faan globaal IP speren ütjnimenen}}",
 	"group-global-interface-editor": "Globaal interface-bewerkern",

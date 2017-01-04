@@ -113,8 +113,6 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Amministrature de le notizie cendralizzate",
 	"group-global-bot": "Bot globale",
 	"group-global-bot-member": "{{GENDER:$1|bot globbale}}",
-	"group-global-gather-admins": "Amministrature globbale de Gather",
-	"group-global-gather-admins-member": "{{GENDER:$1|amministratore globbale de Gather}}",
 	"group-global-ipblock-exempt": "Esclusiune de blocche globbale de IP",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|Esezione de le blocca globbale de l'IP}}",
 	"group-global-interface-editor": "Cangiature globbale de inderfacce",
