@@ -166,5 +166,5 @@
 	"wikimedia-centralauth-contribs-locked": "Ezt a fiókot globálisan zárolták.\nTovábbi információkért lásd a [[m:Special:CentralAuth/$1|globális fiók adatait]].",
 	"wikimedia-centralauth-uwbr-intro": "Ez az oldal azokat a felhasználókat listázza, akik át lesznek nevezve  [[m:Single User Login finalisation announcement|az egységes bejelentkezés véglegesítésekor]]. További információkért lásd [[m:Help:Unified login|az egységes bejelentkezés ismertető lapját]]. Bármikor kérhetsz magadnak másik nevet  [[Special:GlobalRenameRequest|a globális átnevezési kérelmek lapján]].",
 	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben",
-	"wikimedia-cookiestatement": "Cookie-nyilatkozat"
+	"wikimedia-cookiestatement": "Sütinyilatkozat"
 }
