@@ -166,9 +166,11 @@
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" टिचकण्याने,आपण आमच्या [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use वापरण्याच्या अटी] मान्य करीत आहात व आपला मजकूर [//creativecommons.org/licenses/by-sa/3.0 सीसी बीवाय-एसए ३.० परवाना] व [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जीएफडीएल] या परवान्यांतर्गत, न परताव्याच्या विमोचनासह,मान्य करीत आहात.",
 	"interlanguage-link-mul": "अधिक भाषा",
+	"interlanguage-link-sitename-mul": "बहुभाषिक{{SITENAME}}",
 	"interlanguage-link-wikipedia": "विकिपीडिया",
 	"interlanguage-link-sitename-wikipedia": "विकिपीडिया, एक मुक्त ज्ञानकोश",
 	"interlanguage-link-commons": "विकिमिडिया कॉमन्स",
 	"right-extendedconfirmed": "प्रतिबंधित पाने संपादित करा",
-	"wikimedia-centralauth-uwbr-intro": "हे पान,या विकिवरील नोंदणीकृत सदस्य,ज्यांचे [[m:Single User Login finalisation announcement|एकल सदस्य सनोंद प्रवेश निश्चिती]] मुळे पुनर्नामाभिधान  होईल अश्यांची यादी तयार करते.याबद्दलची अधिक माहिती [[m:Help:Unified login|एकीकृत प्रवेश]] वर आहे.[[Special:GlobalRenameRequest]] हे वापरुन कोणताही सदस्य कधीही याबद्दल विनंती करु शकतो."
+	"wikimedia-centralauth-uwbr-intro": "हे पान,या विकिवरील नोंदणीकृत सदस्य,ज्यांचे [[m:Single User Login finalisation announcement|एकल सदस्य सनोंद प्रवेश निश्चिती]] मुळे पुनर्नामाभिधान  होईल अश्यांची यादी तयार करते.याबद्दलची अधिक माहिती [[m:Help:Unified login|एकीकृत प्रवेश]] वर आहे.[[Special:GlobalRenameRequest]] हे वापरुन कोणताही सदस्य कधीही याबद्दल विनंती करु शकतो.",
+	"wikimedia-cookiestatement": "कुकिंचा तक्ता"
 }
