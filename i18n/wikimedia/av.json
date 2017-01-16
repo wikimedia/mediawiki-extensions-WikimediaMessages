@@ -7,13 +7,16 @@
 	},
 	"sitesupport": "Садакъа",
 	"tooltip-n-sitesupport": "Нижее кверчӀвай гьабе",
-	"wikimedia-copyright": "Текст буго <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">лицензии Creative Commons Attribution-ShareAlike</a> лицензиялда рекъон, цо-цо хассал мехаз батӀиял хӀукъукъаздалъунги букӀине бегьула. ЦӀикӀкӀун цӀале гьаниб: <a href=\"https://wikimediafoundation.org/wiki/ХӀалтӀизабиялъул_къагӀидаби\">ХӀалтӀизабиялъул къагӀидаби</a>.",
+	"wikimedia-copyright": "Тексталъе изну буго <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\"> Creative Commons Attribution-ShareAlike</a> лицензиялда рекъон, цо-цо хасаб заманаялъ гьеб букІине бегьула батӀиял ихтияраздалъунги. ЦӀикӀкӀун лъазе бокьани цӀале гьанисан: <a href=\"https://wikimediafoundation.org/wiki/ХӀалтӀизабиялъул_къагӀидаби\">ХӀалтӀизабиялъул къагӀидаби</a>.",
+	"wikibase-repo-name": "Викибаянал",
 	"wikibase-sitelinks-wikinews": "Викихарбал",
 	"wikibase-sitelinks-wikiquote": "Викицитата",
 	"wikibase-sitelinks-wikisource": "Викимактаб",
 	"wikibase-sitelinks-wikivoyage": "Викидалил",
-	"wikibase-otherprojects-wikidata": "Викиданныял",
+	"wikibase-otherprojects-wikidata": "Викибаянал",
+	"wikibase-otherprojects-wikipedia": "Википедия",
 	"wikimedia-developers": "ГӀуцӀарал чагӀи",
 	"interlanguage-link-mul": "Цогиги мацIал",
+	"interlanguage-link-wikipedia": "Википедия",
 	"interlanguage-link-sitename-wikipedia": "Википедия, эркенаб энциклопедия"
 }

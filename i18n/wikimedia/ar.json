@@ -118,6 +118,8 @@
 	"group-captcha-exempt": "استثناءات CAPTCHA",
 	"group-global-bot": "بوتات عامة",
 	"group-global-bot-member": "{{GENDER:$1|بوت عام}}",
+	"group-global-flow-create": "منشئو فلو العالميون",
+	"group-global-flow-create-member": "{{GENDER:$1|منشيء فلو العالمي|منشئة فلو العالمية}}",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|متجاوز المنع العام|متجاوزة المنع العام}}",
 	"group-global-interface-editor": "محررو الواجهة العالميون",
 	"group-global-interface-editor-member": "{{GENDER:$1|محرر واجهة عالمي|محررة واجهة عالمية}}",
@@ -195,7 +197,10 @@
 	"right-superprotect": "تغيير مستويات الحماية الفائقة",
 	"protect-level-superprotect": "السماح لمستخدمي الحماية الفائقة فقط",
 	"restriction-level-superprotect": "حماية فائقة",
+	"right-templateeditor": "تعديل القوالب المحمية",
+	"right-extendedconfirmed": "تعديل الصفحات المحظورة",
 	"wikimedia-centralauth-contribs-locked": "هذا الحساب ممنوع عالميا.\nانظر [[m:Special:CentralAuth/$1|تفاصيل الحساب العالمي]] للمزيد من المعلومات.",
 	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
+	"right-viewdeletedfile": "رؤية الملفات والصفحات المحذوفة في النطاقين {{ns:file}} و {{ns:file_talk}}",
 	"wikimedia-cookiestatement": "بيان تعريف الارتباطات"
 }
