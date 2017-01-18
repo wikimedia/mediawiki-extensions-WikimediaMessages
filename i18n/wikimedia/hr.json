@@ -43,7 +43,7 @@
 	"group-arbcom": "Članovi arbitražnog odbora",
 	"group-arbcom-member": "{{GENDER:$1|član arbitražnoga odbora|članica arbitražnoga odbora|član – članica arbitražnoga odbora}}",
 	"grouppage-arbcom": "{{ns:project}}:Članovi arbitražnog odbora",
-	"group-autopatrolled": "automatski ophođeni",
+	"group-autopatrolled": "Automatski ophođeni suradnici",
 	"group-autopatrolled-member": "{{GENDER:$1|automatski ophođeni suradnik|automatski ophođena suradnica}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Automatski ophođeni",
 	"group-autoreviewer": "Samoocjenjivači",

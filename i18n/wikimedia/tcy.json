@@ -2,18 +2,24 @@
 	"@metadata": {
 		"authors": [
 			"VASANTH S.N.",
-			"Vishwanatha Badikana"
+			"Vishwanatha Badikana",
+			"BHARATHESHA ALASANDEMAJALU"
 		]
 	},
 	"sitesupport": "ದಾನೊ",
 	"tooltip-n-sitesupport": "ಎಂಕ್ಲೆನ್ ಬೆಂಬಲಿಸಲೆ",
+	"nstab-creator": "ಸ್ರಿಸ್ಟಿಕರ್ತೆ",
+	"nstab-institution": "ಸಂಸ್ಥೆ",
 	"wikimedia-copyright": "ಪಟ್ಯೊ ಈ ಪುದರ್‍ಡ್ ತಿಕುಂಡು<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್‌ದ  ವಿಸೇಸತೆನ್-ತದ್ರೂಪೊನು ಪಟ್ಟೊನುನ ಪರವಾನಗಿ </a>; ದಿಂಜದ ನಿಯಮೊಲು, ಮಾಹಿತಿಲು, ವಿವರೊಲು ಅನ್ವಯ ಆವೊಡಾಂಡ ತೂಲೆ <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a>",
 	"wikimedia-copyrightwarning": "ಬದಲಾವನೆಲೆನ್ ಒರಿಪಾವೊಡಾಂಡ, ಈರ್ ಒಪ್ಪುವರಾ[https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], ಬುಕ್ಕೊ ಈರ್ ಬದಲ್ ಮಲ್ಪೆರೆ ಆವಂದಿನ ನಿಲೆಟ್ ಈರೆನ ಕೊಡುಗೆನ್ ಬುಡುಗಡೆ ಮಲ್ಪೆರೆ ಒಪ್ಪುವರಾ [https://en.wikipedia.org wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ಅತ್ತಂದೆ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].  ಕಾಮನ್ಸ್‌ದ ಲೈಸನ್ಸ್‌ದ ಅಡಿಟ್ ಬೊಡಿತಿನಾತ್ ಯುಆರ್‍ಎಲ್  ಗುಣಲಕ್ಷನೊನು ಹೊಂದೊಂದ್ಂಡ್.  ಈರ್ ಆ ಹೈಪರ್‍ಲಿಂಕ್‍ನ್ ಅತ್ತಂಡ ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್‍ನ ಒಪ್ಪುವರಾ.",
+	"wikibase-sitelinks-wikibooks": "ವಿಕಿಪುಸ್ತಕೊಲು",
 	"wikibase-sitelinks-wikinews": "ವಿಕಿನ್ಯೂಸ್",
 	"wikibase-sitelinks-wikiquote": "ವಿಕಿಕೋಟ್",
 	"wikibase-sitelinks-wikisource": "ವಿಕಿಸೋರ್ಸ್",
 	"wikibase-sitelinks-wikivoyage": "ವಿಕಿವೊಯೇಜ್",
 	"wikimedia-developers": "ಅಬಿವೃದ್ದಿ ಮಲ್ಪುನಕುಲು",
 	"wikimedia-globalblocking-ipblocked": "'''ಈರೆನ ಐಪಿ ವಿಲಾಸೊ ಆತ್ಂಡ್[[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nಈ ತಡೆನ್ $1($2)ದಂಚ ಮಲ್ತುನೆ.\nಇಂದೆಕ್ ಕಾರಣೊ ''$3'' ಆತ್ಂಡ್.\n\n* ತಡೆಪುನ ಸುರುವಾಪುನೆ: $4\n* ತಡೆಪುನ ಅಕೆರಿ ಅಪುನೆ: $5\n\nಈರೆನ ಇತ್ತೆದ ಐಪಿ ವಿಲಾಸೊ$6.\nದಯಡೀಡ್ದ್ ಮಾಂತ ವಿವರಣೆಗ್ಲಾ ಈರ ಒವ್ವೇ ಸಂಪರ್ಕೊ ಮಲ್ಪುಲೆ.\n\nಈರೆಗ್ ತಪ್ಪುಂದು ನಂಬುಗೆ ಬತ್ತ್ಂಡ ಈರ್ ತಡ ಮಲ್ಪೊಲಿ, ಈರ್ ದಿಂಜದ ಮಾಹಿತಿಗ್ ಅತ್ತಂಡ ಸೂಚನೆಗ್ ಜಾತಿಕ ನಿಯಮೊನು [[m:Special:MyLanguage/No open proxies|No open proxies]]ನಾಡೊಲಿ.\nಅತ್ತಂಡ, ತಡೆ ಮಲ್ತ್ ಚರ್ಚೆ ಮಲ್ಲಪುಲೆ[[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''ಈರೆನ ಇನಂತಿನ್ ಒಂಜಿ ಅತ್ತಂಡ ದಿಂಜ ಪ್ರಾಕ್ಸಿ ಸರ್ವರ್ ಗಳಸದ್ಂಡ್[[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nತಡೆ $1($2)ಡ್ದ್ ಆತ್ಂಡ್.\nಇಂದೆಕ್ ನಿರ್ದಿಸ್ಟೊ ಕಾರಣೊ''$3''.\n\n*ತಡೆಪುನ ಸುರುವಾಪುನೆ: $4\n*ತಡೆಪುನ ಅಕೆರಿ ಅಪುನೆ: $5\n\nತಡೆ ಒಂಜಿ ಸುಲ್ಲು ವಿಲಾಸೊ$6.\nದಯಡೀಡ್ದ್ ಮಾಂತ ವಿವರಣೆಗ್ಲಾ ಈರ ಒವ್ವೇ ಸಂಪರ್ಕೊ ಮಲ್ಪುಲೆ..\n\nಈರೆಗ್ ತಪ್ಪುಂದು ನಂಬುಗೆ ಬತ್ತ್ಂಡ ಈರ್ ತಡ ಮಲ್ಪೊಲಿ, ಈರ್ ದಿಂಜದ ಮಾಹಿತಿಗ್ ಅತ್ತಂಡ ಸೂಚನೆಗ್ ಜಾತಿಕ ನಿಯಮೊನು [[m:Special:MyLanguage/No open proxies|No open proxies]]ನಾಡೊಲಿ.\nಅತ್ತಂಡ, ತಡೆ ಮಲ್ತ್ ಚರ್ಚೆ ಮಲ್ಲಪುಲೆ[[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
+	"wikimedia-globalblocking-ipblocked-xff": "'''ಈರೆನ ಇನಂತಿನ್ ಒಂಜಿ ಅತ್ತಂಡ ದಿಂಜ ಪ್ರಾಕ್ಸಿ ಸರ್ವರ್ ಗಳಸದ್ಂಡ್[[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nತಡೆ $1($2)ಡ್ದ್ ಆತ್ಂಡ್.\nಇಂದೆಕ್ ನಿರ್ದಿಸ್ಟೊ ಕಾರಣೊ''$3''.\n\n*ತಡೆಪುನ ಸುರುವಾಪುನೆ: $4\n*ತಡೆಪುನ ಅಕೆರಿ ಅಪುನೆ: $5\n\nತಡೆ ಒಂಜಿ ಸುಲ್ಲು ವಿಲಾಸೊ$6.\nದಯಡೀಡ್ದ್ ಮಾಂತ ವಿವರಣೆಗ್ಲಾ ಈರ ಒವ್ವೇ ಸಂಪರ್ಕೊ ಮಲ್ಪುಲೆ..\n\nಈರೆಗ್ ತಪ್ಪುಂದು ನಂಬುಗೆ ಬತ್ತ್ಂಡ ಈರ್ ತಡ ಮಲ್ಪೊಲಿ, ಈರ್ ದಿಂಜದ ಮಾಹಿತಿಗ್ ಅತ್ತಂಡ ಸೂಚನೆಗ್ ಜಾತಿಕ ನಿಯಮೊನು [[m:Special:MyLanguage/No open proxies|No open proxies]]ನಾಡೊಲಿ.\nಅತ್ತಂಡ, ತಡೆ ಮಲ್ತ್ ಚರ್ಚೆ ಮಲ್ಲಪುಲೆ[[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"interlanguage-link-mul": "ನಾನಾತ್ ಬಾಸೆಲು",
+	"interlanguage-link-wikipedia": "ವಿಕಿಪೀಡಿಯ"
 }
