@@ -6,6 +6,10 @@
 	},
 	"wm-license-cc-free": "သင်သည် လွတ်လပ်စွာ:",
 	"wm-license-cc-free-to-share-header": "မျှဝေရန်",
+	"wm-license-cc-free-to-share-text": "ဖန်တီးမှုကို ကူးယူရန်၊ ဖြန့်ဖြူးရန်နှင့် ထုတ်လွှင့်ရန်",
+	"wm-license-cc-free-to-remix-header": "ပြန်ရောနှောရန်",
+	"wm-license-cc-free-to-remix-text": "ဖန်တီးမှုကို ပြင်ဆင်ညှိနှိုင်းရန်",
 	"wm-license-cc-conditions": "အောက်ပါ အခြေအနေများတွင်:",
+	"wm-license-cc-conditions-attribution-header": "မှတ်ယူနိုင်ခြင်း",
 	"wm-license-cc-conditions-share_alike-header": "ထပ်တူမျှဝေ"
 }
