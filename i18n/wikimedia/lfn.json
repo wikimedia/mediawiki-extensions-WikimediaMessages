@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cgboeree"
+			"Cgboeree",
+			"Katxis"
 		]
 	},
 	"sitesupport": "Donas",
-	"tooltip-n-sitesupport": "suporta nos"
+	"tooltip-n-sitesupport": "suporta nos",
+	"wikimedia-copyright": "Testo es disponable su la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Atribui de comunia creosa-Lisense de comparti </a>;\nplu acordas pote es aplicada.\nVide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Acordas per usa</a> per detailias.",
+	"wikibase-sitelinks-wikinews": "Vicinovas",
+	"wikimedia-developers": "Developores"
 }

@@ -3,10 +3,10 @@
 		"authors": [
 			"Diebuche",
 			"Gianfranco",
-			"Malafaya"
+			"Malafaya",
+			"Lakaoso"
 		]
 	},
-	"wikimedialicensetexts-desc": "Messaggi sulle licenze di Wikimedia",
 	"wm-license-artwork-artist": "Artista",
 	"wm-license-artwork-title": "Titolo",
 	"wm-license-artwork-medium": "Supporto",
@@ -42,7 +42,7 @@
 	"wm-license-creator-location-of-birth-and-death": "Luogo di nascita/morte",
 	"wm-license-creator-work-period": "Periodo di attività",
 	"wm-license-creator-work-location": "Luogo di attività",
-	"wm-license-fal-text": "Copyleft: Quest'opera d'arte è libera; puoi redistribuirla e/o modificarla secondo i termini della '''[[{{int:wm-license-fal-wiki-link}}|Licenza Free Art]]'''. Troverai un modello di questa licenza sul [{{int:wm-license-fal-full-link}} sito Copyleft Attitude] ed anche su altri siti.",
+	"wm-license-fal-text": "Kopiyuro (\"Copyleft\"): Ita arto-verko es libera; vu povas distributar ed/od modifikar ol segun la kondicioni dil '''[[{{int:wm-license-fal-wiki-link}}|Licenco Libera Arto]]'''. Vu povas trovar specimeno di ta licenco ye la [{{int:wm-license-fal-full-link}} loko Copyleft Attitude] ed anke [{{int:wm-license-fal-full-link-commons}} ye altra loki].",
 	"wm-license-free-software-wiki-link": "w:io:Libera programaro",
 	"wm-license-gfdl-1.2-and-later": "On darfas kopiigar, distributar ed/od altrigar ica dokumento segun la kondicioni di '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  quale esas mencionita en la versiono 1.2 od en irga plu posa versiono, qua esas publikigita da [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; En la dokumento ne darfas esas ne-altrigita parti ed olu ne darfas esar kom texto di frontala o dopala pagino di libro o ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only-header": "solo&nbsp;1.2",

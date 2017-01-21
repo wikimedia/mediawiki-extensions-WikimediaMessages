@@ -9,7 +9,6 @@
 			"Y-M D"
 		]
 	},
-	"wikimedialicensetexts-desc": "Kemennadennoù aotreoù-implijout Wikimedia",
 	"wm-license-attribution-with-author-text": "Reiñ a ra d'an holl, piaouer gwirioù ar restr-mañ, $1, an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
 	"wm-license-attribution-without-author-text": "Reiñ a ra d'an holl piaouer gwirioù ar restr-mañ an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
 	"wm-license-artwork-artist": "Arzour",
@@ -49,7 +48,7 @@
 	"wm-license-creator-work-period": "Koulzad labour",
 	"wm-license-creator-work-location": "Lec'hiadur al labour",
 	"wm-license-creator-linkback": "Liamm distreiñ da Krouer ar patrom infobox",
-	"wm-license-fal-text": "Copyleft : Frank eo an oberenn-mañ; gallout a rit addasparzhañ pe/ha kemmañ anezhi hervez an '''[[{{int:wm-license-fal-wiki-link}}|Aotre-implijout Arz Frank]]'''. Kavout a reot ur skouerenn eus an aotre-implijout-mañ e [{{int:wm-license-fal-full-link}} lec'hienn Copyleft Attitude] hag e lec'hiennoù all ivez.",
+	"wm-license-fal-text": "Copyleft : Frank eo an oberenn-mañ ; gallout a rit addasparzhañ pe/ha kemmañ anezhi hervez an '''[[{{int:wm-license-fal-wiki-link}}|Aotre-implijout Arz Frank]]'''. Kavout a reot ur skouerenn eus an aotre-implijout-mañ e [{{int:wm-license-fal-full-link}} lec'hienn Copyleft Attitude] hag e [{{int:wm-license-fal-full-link-commons}} lec'hiennoù all ivez].",
 	"wm-license-fal-wiki-link": "w:br:Aotre-implijout Arz Frank",
 	"wm-license-fsf-wiki-link": "w:br:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:br:Meziant frank",

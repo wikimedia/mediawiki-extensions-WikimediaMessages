@@ -1,4 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Katxis"
+		]
+	},
+	"wm-license-information-description": "Descrive",
+	"wm-license-information-source": "Fonte",
 	"wm-license-information-author": "Autor"
 }

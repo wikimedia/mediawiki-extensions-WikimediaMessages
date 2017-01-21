@@ -8,5 +8,7 @@
 	"grouppage-oversight": "{{ns:project}}:Supervisor",
 	"group-oversight": "Supervisores",
 	"group-oversight-member": "Supervisor",
-	"please-translate": "Per favor, adjuta a traducer in tu lingua"
+	"hello": "Salute",
+	"please-translate": "Per favor, adjuta a traducer in tu lingua",
+	"thank-you": "{{GENDER:$1|Gratias.}}"
 }
