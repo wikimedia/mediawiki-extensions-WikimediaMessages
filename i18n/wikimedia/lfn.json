@@ -8,6 +8,12 @@
 	"sitesupport": "Donas",
 	"tooltip-n-sitesupport": "suporta nos",
 	"wikimedia-copyright": "Testo es disponable su la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Atribui de comunia creosa-Lisense de comparti </a>;\nplu acordas pote es aplicada.\nVide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Acordas per usa</a> per detailias.",
+	"wikimedia-copyrightwarning": "Par salve cambias, tu acorda con la [https://wikimediafoundation.org/wiki/Terms_of_Use/contrata de usa], e tu acorda nonreversable per relasa tua contribui su la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License lisensa CC BY-SA 3.0] e la testo de la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License lisensa GFDL].\nTu acorda ce un iperlia o URL es atribui sufisinte su la lisensa de Comunia Creosa.",
 	"wikibase-sitelinks-wikinews": "Vicinovas",
-	"wikimedia-developers": "Developores"
+	"wikibase-sitelinks-wikiquote": "Wikisita",
+	"wikibase-sitelinks-wikisource": "Wikifonte",
+	"wikibase-sitelinks-wikivoyage": "Wikiviaja",
+	"wikimedia-developers": "Developores",
+	"wikimedia-globalblocking-ipblocked": "'''Tua adirije de IP ia es [[m:Special:MyLanguage/Global blocks|blocida a tota wikis]].'''\n\nLa bloci ia es fada par $1 ($2).\nLa razona donada es ''$3''.\n\n* Comensa de bloci: $4\n* Fini de bloci: $5\n\nTua adirije de IP presente es $6.\nPer favore inclui tota la detalias a supra en cualce tuademandas.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the \nSi tu opina ce tu ia es blocida par era, tu pote trova plu informa e instruis en la  contrata global de [[m:Special:MyLanguage/No open proxies|no proxis abrida]].\nEn otra casos, per discute la bloci, per favore [[m:Steward requests/Global|posta un demanda per resenia a Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Un o plu servadores de proxi usada par tua demanda es [[m:Special:MyLanguage/Global blocks|global blocida]].'''\n\nLa bloci ia es fada par $1 ($2).\nLa razona donada es ''$3''.\n\n* Comensa de bloci: $4\n* Fini de bloci: $5\n\nTua adirije de IP presente es $6.\nPer favore inclui tota la detalias a supra en cualce tuademandas.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the \nSi tu opina ce tu ia es blocida par era, tu pote trova plu informa e instruis en la  contrata global de [[m:Special:MyLanguage/No open proxies|no proxis abrida]].\nEn otra casos, per discute la bloci, per favore [[m:Steward requests/Global|posta un demanda per resenia a Meta-Wiki]]."
 }

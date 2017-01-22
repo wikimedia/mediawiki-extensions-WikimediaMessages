@@ -1,10 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Katxis"
+			"Katxis",
+			"Cgboeree"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Permete es donada per copia, distrigui, e/o altera esta documento su la acordas de la '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensa libre de documentos de GNU]]''', Varia 1.2 o cualce varia plu tarde publicada par la [[{{int:wm-license-fsf-wiki-link}}|Funda de programas libre]]; con no partes nonvariante, no testos de covre a fronte, e no testos de covre a retro. Un copia de la lisensa es incluida en la parte con la titulo ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensa libre de documentos de GNU]]''.",
 	"wm-license-information-description": "Descrive",
 	"wm-license-information-source": "Fonte",
-	"wm-license-information-author": "Autor"
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Autor",
+	"wm-license-information-permission": "Permete",
+	"wm-license-information-permission-reusing-text": "Reusante esta fix",
+	"wm-license-own-work": "Obra propre",
+	"wm-license-self-multiple-licenses-select": "Tu pote eleje la lisensa cual tu prefere"
 }

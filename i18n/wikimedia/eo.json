@@ -14,7 +14,8 @@
 			"Nemo bis",
 			"Caliburn",
 			"Robin van der Vliet",
-			"Gamliel Fishkin"
+			"Gamliel Fishkin",
+			"Psychoslave"
 		]
 	},
 	"wikimediamessages-desc": "Specifaj mesaĝoj de Wikimedia",
@@ -47,8 +48,8 @@
 	"group-autoreviewer": "Aŭtomataj kontrolantoj",
 	"group-autoreviewer-member": "{{GENDER:$1|aŭtomata kontrolanto}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Aŭtomataj kontrolantoj",
-	"group-bigexport": "Grandaj eksportantoj",
-	"group-bigexport-member": "{{GENDER:$1|granda eksportanto}}",
+	"group-bigexport": "Grandaj elportantoj",
+	"group-bigexport-member": "{{GENDER:$1|granda elportanto}}",
 	"grouppage-bigexport": "{{ns:project}}:Grandaj eksportantoj",
 	"group-botadmin": "Robotoj kun rajtoj de administranto",
 	"group-botadmin-member": "{{GENDER:$1|roboto kun rajtoj de administranto}}",
