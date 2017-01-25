@@ -5,7 +5,8 @@
 			"Wyvernoid",
 			"לערי ריינהארט",
 			"Nemo bis",
-			"Lakaoso"
+			"Lakaoso",
+			"Joao Xavier"
 		]
 	},
 	"sitesupport": "Donacaji",
@@ -19,5 +20,12 @@
 	"grouppage-uploader": "{{ns:project}}:Adkarganti",
 	"group-sysadmin": "Sistemo-administranti",
 	"wikimedia-copyright": "La texto esas disponebla sub la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"><i>Creative Commons Attribution-ShareAlike License</i></a>;\nsuplementala reguli forsan aplikesas.\nVidez <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Reguli di Uzado</a> por detali.",
-	"wikimedia-copyrightwarning": "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [https://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution-ShareAlike License 3.0''] e la [https://www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Reguli di Uzado] por detali."
+	"wikimedia-copyrightwarning": "Per registrago, vu konkordas nerevokeble distributar vua kontributaji sub la [https://creativecommons.org/licenses/by-sa/3.0/ ''Creative Commons Attribution-ShareAlike License 3.0''] e la [https://www.gnu.org/copyleft/fdl.html GFDL]. Vu konkordas kreditesar da ri-uzanti, adminime, per ligilo od URL a la pagino quan vu kontributas ad. Videz la [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Reguli di Uzado] por detali.",
+	"wikibase-sitelinks-wikinews": "Wikinovaji",
+	"wikibase-sitelinks-wikiquote": "Wikicitaji",
+	"wikibase-sitelinks-wikisource": "Wikifonto",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyajo",
+	"wikimedia-developers": "Kreinti di la programo",
+	"wikimedia-globalblocking-ipblocked": "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }

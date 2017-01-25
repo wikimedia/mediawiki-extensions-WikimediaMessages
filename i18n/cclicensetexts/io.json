@@ -3,10 +3,12 @@
 		"authors": [
 			"Diebuche",
 			"Gianfranco",
-			"Malafaya"
+			"Malafaya",
+			"Joao Xavier"
 		]
 	},
 	"wm-license-cc-attribution": "Attribuzione",
+	"wm-license-cc-by-sa-3.0-text": "Ica arkivo licensesas quale la permiso libera de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-free": "Hai la facoltà di:",
 	"wm-license-cc-free-to-share-header": "condividere",
 	"wm-license-cc-free-to-share-text": "copiare, distribuire e trasmettere l'opera",
@@ -15,5 +17,6 @@
 	"wm-license-cc-conditions": "Alle seguenti condizioni:",
 	"wm-license-cc-conditions-attribution-header": "Attribuzione",
 	"wm-license-cc-conditions-share_alike-header": "condividere allo stesso modo",
+	"wm-license-cc-conditions-share_alike-text": "Se vu modifikos, transformos od ampligos ica verko, vu mustos distributar la rezulto segun la sama o simila autoroyuro.",
 	"wm-license-cc-pd-mark-text": "Questo file è stato riconosciuto come libero da restrizioni di cui si abbia contezza ai sensi della normativa sul diritto d'autore, inclusi tutti i diritti annessi e connessi."
 }
