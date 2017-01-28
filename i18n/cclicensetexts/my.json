@@ -4,6 +4,8 @@
 			"Ninjastrikers"
 		]
 	},
+	"wm-license-cc-attribution": "မှတ်ယူနိုင်ခြင်း",
+	"wm-license-cc-by-sa-3.0-text": "ဤဖိုင်ကို [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] လိုင်စင်ဖြင့် သတ်မှတ်ထားသည်။",
 	"wm-license-cc-free": "သင်သည် လွတ်လပ်စွာ:",
 	"wm-license-cc-free-to-share-header": "မျှဝေရန်",
 	"wm-license-cc-free-to-share-text": "ဖန်တီးမှုကို ကူးယူရန်၊ ဖြန့်ဖြူးရန်နှင့် ထုတ်လွှင့်ရန်",
@@ -11,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "ဖန်တီးမှုကို ပြင်ဆင်ညှိနှိုင်းရန်",
 	"wm-license-cc-conditions": "အောက်ပါ အခြေအနေများတွင်:",
 	"wm-license-cc-conditions-attribution-header": "မှတ်ယူနိုင်ခြင်း",
-	"wm-license-cc-conditions-share_alike-header": "ထပ်တူမျှဝေ"
+	"wm-license-cc-conditions-attribution-text": "ဖန်တီးသူ သို့မဟုတ် လိုင်စင်ရှိသူမှ သတ်မှတ်သော အမျိုးအစားကို လိုက်နာရမည် (ဆိုလိုသည်မှာ သင့်အား သို့မဟုတ် သင့်ဖန်တီးမှုတွင် အသုံးပြုခြင်းအား ထောက်ခံချက်ပေးသည်ဟု မဆိုလိုပါ)။",
+	"wm-license-cc-conditions-share_alike-header": "ထပ်တူမျှဝေ",
+	"wm-license-cc-conditions-share_alike-text": "ဤဖန်တီးမှုအား ပြင်ဆင်ခြင်း၊ ပြောင်းလဲခြင်း သို့မဟုတ် ထပ်ဆင့် ဖန်တီးခြင်း ပြုလုပ်ပါက ရရှိလာသော ဖန်တီးမှုကို ဤဖန်တီးမှုနှင့် ထပ်တူညီသော သို့မဟုတ် ဆင်တူသော လိုင်စင်ဖြင့်သာ ဖြန့်ချီသင့်သည်။"
 }
