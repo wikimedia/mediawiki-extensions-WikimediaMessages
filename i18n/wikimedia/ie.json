@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Malafaya"
+			"Malafaya",
+			"Stavanger7"
 		]
 	},
-	"sitesupport": "Donationes"
+	"sitesupport": "Donationes",
+	"tooltip-n-sitesupport": "Alimenta nos",
+	"wikimedia-developers": "Developatores"
 }
