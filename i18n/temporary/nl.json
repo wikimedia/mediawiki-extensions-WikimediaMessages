@@ -12,5 +12,6 @@
 	"group-oversight": "toezichthouders",
 	"group-oversight-member": "toezichthouder",
 	"hello": "Hallo",
+	"please-translate": "Help met het vertalen naar uw taal",
 	"thank-you": "{{GENDER:$1|Dank u.}}"
 }

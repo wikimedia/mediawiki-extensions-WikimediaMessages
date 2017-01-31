@@ -4,14 +4,31 @@
 			"Siebrand",
 			"SPQRobin",
 			"Southparkfan",
-			"Robin0van0der0vliet"
+			"Robin0van0der0vliet",
+			"Mainframe98",
+			"Robin van der Vliet"
 		]
 	},
+	"contactpage-title-requestlicense": "Vraag een licentieformulier aan.",
+	"contactpage-pagetext-requestlicense": "Gebruik het formulier hier beneden om contact met ons op te nemen over het gebruik van een Wikimedia handelsmerk.",
+	"contactpage-subject-requestlicense": "Verzoek tot het gebruik van een Wikimedia handelsmerk",
 	"contactpage-license-request-username": "Gebruikersnaam *",
+	"contactpage-license-request-relevantsite": "Relevante Wikimedia site (indien van toepassing)",
+	"contactpage-license-request-title": "Titel (indien van toepassing)",
+	"contactpage-license-request-organization": "Organisatie (indien van toepassing)",
+	"contactpage-license-request-organization-type": "Het type van organisatie (indien van toepassing)",
+	"contactpage-license-request-use-proposed": "Voorgestelde gebruik",
 	"contactpage-license-request-use-online": "Online (website, e-mail)",
 	"contactpage-license-request-use-book": "Boek, tijdschrift",
+	"contactpage-license-request-use-print": "Print",
 	"contactpage-license-request-use-tv": "TV, film of uitzending",
 	"contactpage-license-request-use-other": "Anders",
+	"contactpage-license-request-use-note": "<strong>Opmerking:</strong> als wij toestemming verlenen voor het gebruik van een handelsmerk, kunnen wij uw gebruik in een openbare lijst van toegestane gebruiken opnemen.",
+	"contactpage-license-request-description": "Gebruiksbeschrijving",
+	"contactpage-license-request-selectmark": "Welke handelsmerk(en) wilt u gebruiken?",
+	"contactpage-wikimedia-trademark-globe": "Wikipedia Puzzel Globe",
+	"contactpage-wikimedia-trademark-wikiwordmark": "Wikipedia woordmerk",
+	"contactpage-wikimedia-trademark-w": "Gestileerde \"W\"",
 	"contactpage-wikimedia-trademark-wikibooks": "Wikibooks",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimediagemeenschap"
 }

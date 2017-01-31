@@ -43,7 +43,8 @@
 			"Syum90",
 			"Codynguyen1116",
 			"Rubentl134",
-			"Dgstranz"
+			"Dgstranz",
+			"Savh"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -213,7 +214,7 @@
 	"group-wmf-researcher": "Investigadores de la WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Investigador|Investigadora}} de la WMF",
 	"group-wmf-supportsafety": "WMF Soporte y Seguridad",
-	"group-wmf-supportsafety-member": "{{GÉNERO:$1|WMF Soporte y Seguridad}}",
+	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Soporte y Seguridad}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Asistencia y seguridad de WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Se usa en el filtro global número 110.",
