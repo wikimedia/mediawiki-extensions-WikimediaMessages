@@ -1,5 +1,12 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Kirsan"
+		]
+	},
 	"wm-license-gfdl-wiki-link": "w:csb:GNU Free Documentation License",
-	"wm-license-information-source": "Zdrój"
+	"wm-license-information-description": "Òpisënk",
+	"wm-license-information-source": "Zdrój",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Aùtor"
 }

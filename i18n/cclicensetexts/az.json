@@ -5,7 +5,8 @@
 			"PPerviz",
 			"Vago",
 			"Vugar 1981",
-			"Dağlı95"
+			"Dağlı95",
+			"Archaeodontosaurus"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:en:Creative Commons",
@@ -140,6 +141,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/si/deed.az Attribution-Share Alike 2.5 Sloveniya] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-2.5-tw-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/tw/deed.az Attribution-Share Alike 2.5 Tayvan] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-2.5-za-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/2.5/za/deed.az Attribution-Share Alike 2.5 Cənubi Afrika] lisenziyası altında yayımlanır.",
+	"wm-license-cc-by-sa-3.0-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/sg/deed.az Attribution-Share Alike 3.0 Sinqapur] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-3.0-at-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/at/deed.az Attribution-Share Alike 3.0 Avstriya] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-3.0-au-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/au/deed.az Attribution-Share Alike 3.0 Avstraliya] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-3.0-cz-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by/3.0/cz/deed.az Attribution-Share Alike 3.0 Çexiya] lisenziyası altında yayımlanır.",
@@ -168,5 +170,6 @@
 	"wm-license-cc-free-to-remix-text": "əsər adaptasiyası",
 	"wm-license-cc-conditions": "Aşağıdakı şərtlərə riayət etməklə:",
 	"wm-license-cc-conditions-attribution-header": "İstinad",
-	"wm-license-cc-conditions-share_alike-header": "bənzər paylaşma"
+	"wm-license-cc-conditions-share_alike-header": "bənzər paylaşma",
+	"wm-license-cc-conditions-share_alike-text": "Əgər siz изменяете, çevirmək bilərsiniz, və ya yaratmaq digər törəmə əsər əsasında bu əsərin bilərsiniz yaymaq aldığı nəticəsində əsər yalnız şərtlərlə eyni və ya uyğun lisenziyanın."
 }
