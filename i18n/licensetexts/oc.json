@@ -8,7 +8,6 @@
 			"Multichill"
 		]
 	},
-	"wikimedialicensetexts-desc": "Messatges de las licéncias de Wikimedia",
 	"wm-license-attribution-with-author-text": "Lo proprietari dels dreits d'autor d'aqueste fichièr, $1, autoriza a quina persona que siá de l'utilizar '''per quina intencion que siá, amb la condicion''' que lo titular dels dreits d'autor siá atribuít corrèctament. La redistribucion, la realizacion de trabalhs derivats, l'emplec comercial e autre tipe d'emplecs es permés.",
 	"wm-license-attribution-without-author-text": "Lo titular dels dreits d'autor d'aquel fichièr permet a cadun de l'utilizar '''per quina intencion que siá, provist que''' lo titular dels dreits d'autor siá mençonat corrèctament. La redistribucion, las òbras derivadas, l'usatge comercial e quin autre usatge que siá son permés.",
 	"wm-license-book-language": "Lenga",
@@ -23,6 +22,7 @@
 	"wm-license-information-permission": "Permission",
 	"wm-license-information-permission-reusing-link": "Commons:Reütilizacion de contengut en defòra de Wikimedia",
 	"wm-license-information-permission-reusing-text": "Reütilizacion d'aqueste fichièr",
+	"wm-license-information-permission-see-below": "Veire çaijós",
 	"wm-license-information-other-versions": "Autras versions",
 	"wm-license-own-work": "Trabalh personal",
 	"wm-license-self-one-license": "Ieu, autor d'aquesta òbra, publiqui jos la licéncia seguenta:",

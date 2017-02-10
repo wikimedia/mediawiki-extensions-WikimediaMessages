@@ -137,6 +137,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administratorzy komunikatów wspólnych",
 	"group-global-bot": "Boty globalne",
 	"group-global-bot-member": "{{GENDER:$1|bot globalny}}",
+	"group-global-flow-create": "Globalni twórcy Flow",
+	"group-global-flow-create-member": "{{GENDER:$1|Globalny twórca Flow|Globalna twórczyni Flow}}",
 	"group-global-ipblock-exempt": "Globalnie uprawnieni do logowania się z zablokowanych adresów IP",
 	"group-global-ipblock-exempt-member": "globalnie {{GENDER:$1|uprawniony|uprawniona}} do logowania się z zablokowanych adresów IP",
 	"group-global-interface-editor": "Globalni redaktorzy interfejsu",
