@@ -11,7 +11,8 @@
 			"Zaheen",
 			"Aftabuzzaman",
 			"Bodhisattwa",
-			"Elias Ahmmad"
+			"Elias Ahmmad",
+			"Kayser Ahmad"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -37,6 +38,7 @@
 	"group-abusefilter": "অপব্যবহার ফিল্টার সম্পাদক",
 	"group-abusefilter-member": "{{GENDER:$1|অপব্যবহার ফিল্টার সম্পাদক}}",
 	"grouppage-abusefilter": "{{ns:project}}:অপব্যবহার ফিল্টার সম্পাদক",
+	"group-abusefilter-helper-member": "{{GENDER:$1|অপব্যবহার ফিল্টার সম্পাদক}}",
 	"group-accountcreator": "অ্যাকাউন্ট স্রষ্টা",
 	"group-accountcreator-member": "{{GENDER:$1|অ্যাকাউন্ট স্রষ্টা}}",
 	"grouppage-accountcreator": "{{ns:project}}:অ্যাকাউন্ট সৃষ্টিকারী",
@@ -62,6 +64,7 @@
 	"group-editprotected-member": "{{GENDER:$1|সুরক্ষিত পাতা সম্পাদক}}",
 	"grouppage-editprotected": "{{ns:project}}:সুরক্ষিত পাতা সম্পাদক",
 	"group-engineer": "প্রকৌশলী",
+	"group-engineer-member": "{{GENDER:$1|প্রকৌশলী}}",
 	"grouppage-engineer": "{{ns:project}}:প্রকৌশলী",
 	"group-eliminator": "এলিমিনাটর",
 	"group-eliminator-member": "{{GENDER:$1|এলিমিনাটর}}",

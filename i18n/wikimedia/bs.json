@@ -79,7 +79,7 @@
 	"group-interface-editor": "Urednici sučelja",
 	"group-interface-editor-member": "{{GENDER:$1|urednik interfejsa|urednica interfejsa}}",
 	"grouppage-interface-editor": "{{ns:project}}:Urednici sučelja",
-	"group-ipblock-exempt": "Izuzeci IP-blokada",
+	"group-ipblock-exempt": "Izuzeci od IP-blokada",
 	"group-ipblock-exempt-member": "{{GENDER:$1|izuzet od IP-blokada|izuzeta od IP-blokada}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Izuzeci od IP-blokada",
 	"group-patroller": "Patroleri",
