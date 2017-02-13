@@ -6,8 +6,8 @@
 			"Сербијана"
 		]
 	},
-	"grouppage-oversight": "{{ns:project}}:Ревизори",
-	"group-oversight": "Надзорници",
+	"grouppage-oversight": "{{ns:project}}:Брисачи измена",
+	"group-oversight": "Брисачи измена",
 	"group-oversight-member": "брисач измена",
 	"thank-you": "{{GENDER:$1|Хвала.}}"
 }

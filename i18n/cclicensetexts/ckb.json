@@ -2,12 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Asoxor",
-			"Muhammed taha"
+			"Muhammed taha",
+			"Lost Whispers"
 		]
 	},
 	"wm-license-cc-by-sa-3.0-text": "ئەم پەڕگەیە لە ژێر مۆڵەتنامەی\n[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] دایە.",
 	"wm-license-cc-free": "تۆ ئازادی:",
 	"wm-license-cc-free-to-share-header": "بۆ بڵاکردنەوە",
 	"wm-license-cc-free-to-share-text": "بۆ کۆپی کردن، دابەشکردن و دەستبەدەست ناردنی",
-	"wm-license-cc-conditions": "بەم مەرجانەی خوارەوە:"
+	"wm-license-cc-free-to-remix-header": "بۆ تێکەڵکردنەوە",
+	"wm-license-cc-free-to-remix-text": "بۆ سازاندنی کارەکە",
+	"wm-license-cc-conditions": "بەم مەرجانەی خوارەوە:",
+	"wm-license-cc-conditions-attribution-header": "دانەپاڵ",
+	"wm-license-cc-conditions-attribution-text": "دەبێت تۆ بە شێوازێک کارەکە باس بکەیت کە دروستکەر یان ھەڵگری مافی بڵاوکردنەوەکە ڕێگەی پێداویت (بەڵام بە شێوازێک نا کە وا دەربکەوێت کە ئەوان بەردەوام ڕێگەیان بە بەکارھێنانی کارەکانی خۆیان بە تۆ داوە.)",
+	"wm-license-cc-conditions-share_alike-text": "ئەگەر تۆ دەستکاری، گۆڕانکاری بکەیت یاخود شتێک بەرھەم بھێنیت لەسەر ئەم کارە، دەبێت بەرھەمی دەرئەنجام لەژێر ھەمان بەڵگەنامەدا بڵاو بکەیتەوە وەک ئەمەی ئێستای."
 }
