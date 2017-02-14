@@ -13,10 +13,10 @@
 			"Trixt",
 			"Wix",
 			"ZeiP",
-			"Veikk0.ma"
+			"Veikk0.ma",
+			"Pyscowicz"
 		]
 	},
-	"wikimedialicensetexts-desc": "Wikimedian lisenssiviestit",
 	"wm-license-attribution-with-author-text": "Tämän teoksen tekijänoikeuksien haltija, $1, sallii kenen tahansa käyttää sitä '''mihin tahansa tarkoitukseen, edellyttän''' että tekijänoikeuksien haltija on asianmukaisesti mainittu. Teoksen uudelleen käyttö, muokaaminen, kaupallinen käyttö ja muu käyttö on sallittu.",
 	"wm-license-attribution-without-author-text": "Tämän teoksen tekijänoikeuksien haltija sallii teoksen käytön '''mihin tahansa tarkoitukseen, edellyttäen että''' tekijänoikeuksien haltija on asianmukaisesti mainittu. Uudelleenjakelu, muokkaus, kaupallinen käyttö ja muu käyttö on sallittua.",
 	"wm-license-artwork-artist": "Taiteilija",
@@ -57,7 +57,7 @@
 	"wm-license-creator-work-period": "Työskentelyaika",
 	"wm-license-creator-work-location": "Työskentelypaikka",
 	"wm-license-creator-linkback": "Takaisin tekijän tietolaatikkomallineeseen",
-	"wm-license-fal-text": "Vapaa tekijänoikeuksista: Tämä taiteellinen teos on vapaa; voit levittää ja/tai muuttaa sitä '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' -lisenssin alaisena. Löydät esimerkin tästä lisenssistä [{{int:wm-license-fal-full-link}} Copyleft Attitude -sivulta].",
+	"wm-license-fal-text": "Vapaa tekijänoikeuksista: Tämä taiteellinen teos on vapaa; voit levittää ja/tai muuttaa sitä '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]''' -lisenssin alaisena. Löydät esimerkin tästä lisenssistä [{{int:wm-license-fal-full-link}} Copyleft Attitude -sivulta] kuten myös [{{int:wm-license-fal-full-link-commons}} muilta sivustoilta].",
 	"wm-license-fsf-wiki-link": "w:fi:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:fi:Vapaa ohjelmisto",
 	"wm-license-gfdl-1.2-and-later": "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' -lisenssin version 1.2 tai myöhemmän ehtojen alaisena, jotka on julkaistu [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] puolesta; ei koske muuttumattomia kohtia, ei etukannen tekstejä eikä kirjankannen tekstejä. Kopio tästä lisenssistä on saatavilla kohdassa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",

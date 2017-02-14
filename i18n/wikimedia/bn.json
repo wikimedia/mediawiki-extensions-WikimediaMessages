@@ -38,7 +38,7 @@
 	"group-abusefilter": "অপব্যবহার ফিল্টার সম্পাদক",
 	"group-abusefilter-member": "{{GENDER:$1|অপব্যবহার ফিল্টার সম্পাদক}}",
 	"grouppage-abusefilter": "{{ns:project}}:অপব্যবহার ফিল্টার সম্পাদক",
-	"group-abusefilter-helper-member": "{{GENDER:$1|অপব্যবহার ফিল্টার সম্পাদক}}",
+	"group-abusefilter-helper-member": "{{GENDER:$1|অপব্যবহার ছাঁকনির সাহায্যকারী}}",
 	"group-accountcreator": "অ্যাকাউন্ট স্রষ্টা",
 	"group-accountcreator-member": "{{GENDER:$1|অ্যাকাউন্ট স্রষ্টা}}",
 	"grouppage-accountcreator": "{{ns:project}}:অ্যাকাউন্ট সৃষ্টিকারী",
