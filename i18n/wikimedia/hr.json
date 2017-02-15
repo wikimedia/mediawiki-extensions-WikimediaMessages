@@ -160,5 +160,6 @@
 	"upload-form-label-not-own-work-local-commons": "Možete pokušati [[Special:Upload|postaviti datoteku na projektu {{SITENAME}}]], pod uvjetom da je dopušteno postavljanje ove datoteke, sukladno pravilima projekta.",
 	"right-editeditorprotected": "Uređivanje zaštićenih stranica kao \"{{int:protect-level-editeditorprotected}}\"",
 	"protect-level-editeditorprotected": "Dopušteno uređivanje samo uređivačima",
+	"restriction-level-editeditorprotected": "samo uređivači",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }
