@@ -4,9 +4,13 @@
 			"Khanmarat"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Пы документның копиясын йасау, йә аны пашҡартыу [[{{int:wm-license-fsf-wiki-link}}|Ирекле программалар фонды]] пилгеләгән 1.2 йә анан та оло пулған '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' аша таратылаты. Лицензияның копиясы ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' исемле пүлеккә кергеселгән.",
 	"wm-license-information-description": "Сүрәтләмә",
 	"wm-license-information-source": "Аҡма",
 	"wm-license-information-date": "Көнө",
 	"wm-license-information-author": "Автор",
-	"wm-license-own-work": "Үсемнеңке эшем"
+	"wm-license-information-permission": "Ҡаҡлар",
+	"wm-license-information-permission-reusing-text": "Пы файлны игенце тапҡыр ҡулланыу",
+	"wm-license-own-work": "Үсемнеңке эшем",
+	"wm-license-self-multiple-licenses-select": "Сес теләсә ҡайсы лицензияны сайлай аласыс."
 }
