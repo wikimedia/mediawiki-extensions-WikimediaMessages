@@ -97,8 +97,8 @@
 	"group-templateeditor-member": "{{GENDER:$1|uređivač predložaka|uređivačica predložaka}}",
 	"grouppage-templateeditor": "{{ns:project}}:Uređivači predložaka",
 	"group-trusted": "Suradnici od povjerenja",
-	"group-trusted-member": "{{GENDER:$1|povjerljivi suradnik|povjerljiva suradnica}}",
-	"grouppage-trusted": "{{ns:project}}:Povjerljivi suradnici",
+	"group-trusted-member": "{{GENDER:$1|suradnik od povjerenja|suradnica od povjerenja}}",
+	"grouppage-trusted": "{{ns:project}}:Suradnici od povjerenja",
 	"group-uploader": "Postavljači",
 	"group-uploader-member": "{{GENDER:$1|postavljač|postavljačica}}",
 	"grouppage-uploader": "{{ns:project}}:Postavljači",
@@ -161,5 +161,6 @@
 	"right-editeditorprotected": "Uređivanje zaštićenih stranica kao \"{{int:protect-level-editeditorprotected}}\"",
 	"protect-level-editeditorprotected": "Dopušteno uređivanje samo uređivačima",
 	"restriction-level-editeditorprotected": "samo uređivači",
+	"wikimedia-centralauth-uwbr-intro": "Ova stranica prikazuje popis suradnika registriranih na ovom wikiju koji će biti preimenovani zbog [[m:Single User Login finalisation announcement|spajanja svih suradničkih računa u sustav središnje prijave (SUL)]]. Više informacija možete naći [[m:Help:Unified login|ovdje]]. Suradnici  [[Special:GlobalRenameRequest|ovdje]] mogu bilo kada zatražiti preimenovanje.",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }
