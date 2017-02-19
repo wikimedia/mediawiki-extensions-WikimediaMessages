@@ -5,8 +5,8 @@
 			"Bugoslav"
 		]
 	},
-	"grouppage-oversight": "{{ns:project}}:Nadzor",
-	"group-oversight": "Nadzornici",
-	"group-oversight-member": "Nadzornik",
+	"grouppage-oversight": "{{ns:project}}:Nadgledništvo",
+	"group-oversight": "nadglednici",
+	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}"
 }
