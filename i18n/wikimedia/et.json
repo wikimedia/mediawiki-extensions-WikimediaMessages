@@ -141,6 +141,7 @@
 	"wikimedia-copyrightwarning": "Kui salvestad muudatused, nõustud [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.\nNõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.et\" title=\"Creative Commonsi litsentsi &quot;Autorile viitamine + jagamine samadel tingimustel&quot; kirjeldus\" target=\"_blank\">CC BY-SA 3.0</a> ja <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Litsentsi GFDL kirjeldus\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Vikiandmed",
+	"wikibase-statementsection-identifiers": "Identifikaatorid",
 	"wikibase-sitelinks-wikibooks": "Vikiõpikud",
 	"wikibase-sitelinks-wikinews": "Vikiuudised",
 	"wikibase-sitelinks-wikiquote": "Vikitsitaadid",
