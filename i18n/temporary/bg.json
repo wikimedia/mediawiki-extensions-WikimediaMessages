@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"StanProg"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Ревизори",
-	"group-oversight-member": "Ревизор"
+	"group-oversight-member": "ревизор"
 }
