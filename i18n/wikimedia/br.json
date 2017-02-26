@@ -11,7 +11,7 @@
 			"Pymouss"
 		]
 	},
-	"wikimediamessages-desc": "Kemennoù dibar Wikimedia",
+	"wikimediamessages-desc": "Kemennadennoù dibar Wikimedia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=br",
 	"sitesupport": "Reiñ",
 	"tooltip-n-sitesupport": "Harpit ac'hanomp",
@@ -119,6 +119,13 @@
 	"wikibase-sitelinks-wikiquote": "Wikiarroud",
 	"wikibase-sitelinks-wikisource": "Wikimammenn",
 	"wikibase-sitelinks-wikivoyage": "Wikibeaj",
+	"wikibase-otherprojects-commons": "Wikiboutin",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
+	"wikibase-otherprojects-meta": "Meta-Wiki",
+	"wikibase-otherprojects-species": "Wikispesad",
+	"wikibase-otherprojects-wikidata": "Wikiroadennoù",
+	"wikibase-otherprojects-wikiquote": "Wikiarroud",
+	"wikibase-otherprojects-wikisource": "Wikimammenn",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-species": "Wikispesadoù",
 	"cant-delete-main-page": "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
