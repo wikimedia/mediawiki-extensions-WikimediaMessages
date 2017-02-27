@@ -8,5 +8,7 @@
 	"grouppage-oversight": "{{ns:project}}:監督",
 	"group-oversight": "監督者",
 	"group-oversight-member": "監督",
-	"please-translate": "請幫手去譯做你嘅語言"
+	"hello": "你好",
+	"please-translate": "請幫手去譯做你嘅語言",
+	"thank-you": "{{GENDER:$1|多謝。}}"
 }
