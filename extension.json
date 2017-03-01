@@ -86,7 +86,13 @@
 		],
 		"UploadForm:initial": [
 			"WikimediaMessagesHooks::onUploadFormInitial"
+		],
+		"GetBetaFeaturePreferences": [
+			"WikimediaMessagesHooks::getBetaFeaturePreferences"
 		]
+	},
+	"config": {
+		"EnableRcFiltersBetaFeature": false
 	},
 	"manifest_version": 1
 }

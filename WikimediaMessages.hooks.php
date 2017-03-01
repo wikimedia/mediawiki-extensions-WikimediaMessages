@@ -1285,4 +1285,46 @@ class WikimediaMessagesHooks {
 			),
 		); # uk
 	}
+
+	/**
+	 * Handler for the GetBetaFeaturePreferences hook.
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetBetaFeaturePreferences
+	 *
+	 * @param $user User to get preferences for
+	 * @param array &$preferences Preferences configuration
+	 *
+	 * @return bool true in all cases
+	 */
+	public static function getBetaFeaturePreferences( User $user, array &$preferences ) {
+		global $wgExtensionAssetsPath, $wgEnableRcFiltersBetaFeature;
+		$ores = self::isOresAvailable();
+
+		if ( $wgEnableRcFiltersBetaFeature ) {
+			$preferences[ 'rcenhancedfilters' ] = [
+				'label-message' => 'eri-rcfilters-beta-label',
+				'desc-message' => $ores ? 'eri-rcfilters-beta-description-ores' : 'eri-rcfilters-beta-description',
+				'screenshot' => [
+					'rtl' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/rc-filters-beta-rtl.svg",
+					'ltr' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/rc-filters-beta-ltr.svg",
+				],
+				'info-link' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
+				'discussion-link' => 'https://www.mediawiki.org/wiki/Talk:Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
+			];
+		}
+
+		return true;
+	}
+
+	/**
+	 * Check if one or both of the 'damaging' and 'goodfaith' models are
+	 * available on the current wiki.
+	 *
+	 * @return bool
+	 */
+	private static function isOresAvailable() {
+		if ( !class_exists( 'ORES\\Hooks' ) ) {
+			return false;
+		}
+		return ORES\Hooks::isModelEnabled( 'damaging' ) || ORES\Hooks::isModelEnabled( 'goodfaith' );
+	}
 }
