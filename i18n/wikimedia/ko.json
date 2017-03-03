@@ -95,6 +95,7 @@
 	"grouppage-eliminator": "{{ns:project}}:삭제자",
 	"group-extendedconfirmed": "장기인증된 사용자",
 	"group-extendedconfirmed-member": "{{GENDER:$1|장기인증된 사용자}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}:장기인증된 편집자",
 	"group-filemover": "파일 이동자",
 	"group-filemover-member": "{{GENDER:$1|파일 이동자}}",
 	"grouppage-filemover": "{{ns:project}}:파일 이동자",
