@@ -10,10 +10,10 @@
 			"Przemub",
 			"Sp5uhe",
 			"Yarl",
-			"WTM"
+			"WTM",
+			"Jdx"
 		]
 	},
-	"wikimedialicensetexts-desc": "Teksty licencji Wikimedia",
 	"wm-license-attribution-with-author-text": "Właściciel autorskich praw majątkowych do tego pliku, $1, zezwala każdemu wykorzystać go '''w dowolnym celu, pod warunkiem, że''' wykorzystujący wyraźnie wskaże autora. Redystrybucja, wykonywanie prac pochodnych, użycie komercyjne oraz każde inne są dozwolone.",
 	"wm-license-attribution-without-author-text": "Właściciel autorskich praw majątkowych do tego pliku zezwala każdemu wykorzystać go '''w dowolnym celu, pod warunkiem, że''' wykorzystujący wyraźnie wskaże autora. Redystrybucja, wykonywanie prac pochodnych, użycie komercyjne oraz każde inne są dozwolone.",
 	"wm-license-artwork-artist": "Artysta",
@@ -46,10 +46,10 @@
 	"wm-license-cecill-text": "To jest [[{{int:wm-license-free-software-wiki-link}}|wolne oprogramowanie]]; możesz je dystrybuować lub zmieniać zgodnie z warunkami licencji [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Warunki licencji CeCILL są dostępne na stronie [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	"wm-license-creator-alternative-names": "Inne nazwiska i pseudonimy",
 	"wm-license-creator-description": "Opis",
-	"wm-license-creator-date-of-birth": "Data narodzin",
-	"wm-license-creator-date-of-birth-and-death": "Data narodzin/śmierci",
-	"wm-license-creator-location-of-birth": "Miejsce narodzin",
-	"wm-license-creator-location-of-birth-and-death": "Miejsce narodzin/śmierci",
+	"wm-license-creator-date-of-birth": "Data urodzenia",
+	"wm-license-creator-date-of-birth-and-death": "Data urodzenia/śmierci",
+	"wm-license-creator-location-of-birth": "Miejsce urodzenia",
+	"wm-license-creator-location-of-birth-and-death": "Miejsce urodzenia/śmierci",
 	"wm-license-creator-work-period": "Okres działalności",
 	"wm-license-creator-work-location": "Miejsce działalności",
 	"wm-license-creator-linkback": "Link do szablonu twórcy",
