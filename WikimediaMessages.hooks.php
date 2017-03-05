@@ -430,7 +430,7 @@ class WikimediaMessagesHooks {
 		$wgGrammarForms['bs'] = array(
 			# genitive
 			'genitiv' => array(
-				'Vikirječnik' => 'Vikirječnika',
+				'Vikirječnik' => 'Wikirječnika',
 				'Wikicitati'  => 'Wikicitata',
 				'Wikiizvor'   => 'Wikiizvora',
 				'Wikiknjige'  => 'Wikiknjiga',
@@ -439,7 +439,7 @@ class WikimediaMessagesHooks {
 			),
 			# dative
 			'dativ' => array(
-				'Vikirječnik' => 'Vikirječniku',
+				'Vikirječnik' => 'Wikirječniku',
 				'Wikicitati'  => 'Wikicitatima',
 				'Wikiizvor'   => 'Wikiizvoru',
 				'Wikiknjige'  => 'Wikiknjigama',
@@ -449,7 +449,7 @@ class WikimediaMessagesHooks {
 			),
 			# accusative
 			'akuzativ' => array(
-				'Vikirječnik' => 'Vikirječnika',
+				'Vikirječnik' => 'Wikirječnik',
 				'Wikicitati'  => 'Wikicitate',
 				'Wikiizvor'   => 'Wikiizvora',
 				'Wikipedia'   => 'Wikipediju',
@@ -457,13 +457,13 @@ class WikimediaMessagesHooks {
 			),
 			# vocative
 			'vokativ' => array(
-				'Vikirječnik' => 'Vikirječniče',
+				'Vikirječnik' => 'Wikirječniče',
 				'Wikiizvor'   => 'Wikizivoru',
 				'Wikipedia'   => 'Wikipedijo',
 			),
 			# instrumental
 			'instrumental' => array(
-				'Vikirječnik' => 's Vikirječnikom',
+				'Vikirječnik' => 's Wikirječnikom',
 				'Wikicitati'  => 's Wikicitatima',
 				'Wikiizvor'   => 's Wikiizvorom',
 				'Wikiknjige'  => 's Wikiknjigama',
@@ -473,7 +473,7 @@ class WikimediaMessagesHooks {
 			),
 			# locative
 			'lokativ' => array(
-				'Vikirječnik' => 'o Vikirječniku',
+				'Vikirječnik' => 'o Wikirječniku',
 				'Wikicitati'  => 'o Wikicitatima',
 				'Wikiizvor'   => 'o Wikiizvoru',
 				'Wikiknjige'  => 'o Wikiknjigama',
