@@ -233,6 +233,7 @@
 	"upload-form-label-own-work-message-commons": "Oświadczam, że mam prawa autorskie do tego pliku, nieodwołalnie publikuję go na Wikimedia Commons na licencji [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0] i zgadzam się na [https://wikimediafoundation.org/wiki/Terms_of_Use/pl warunki użytkowania].",
 	"upload-form-label-not-own-work-message-commons": "Jeżeli nie masz praw autorskich do tego pliku albo chcesz go opublikować na innej licencji, rozważ użycie [https://commons.wikimedia.org/wiki/Special:UploadWizard kreatora przesyłania plików].",
 	"upload-form-label-not-own-work-local-commons": "Możesz spróbować użyć [[Special:Upload|strony przesyłania plików {{GRAMMAR:D.lp|{{SITENAME}}}}]], jeżeli zasady tej strony dopuszczają publikację tego pliku.",
+	"wikimedia-upload-nolicenses": "Przesyłanie plików na tą wiki jest wyłączone. Prosimy [[commons:Special:UploadWizard|przesłać go na Wikimedia Commons]].\n\nAby była możliwość skorzystania z tej strony specjalnej do przesłania pliku na tą wiki, administrator musi dodać na stronie [[MediaWiki:Licenses]] przynajmniej jedną opcję wyboru licencji.\n\nNależy tam użyć takiego formatu: <code>* Nazwa szablonu|Etykieta</code>. Użyj dowolnego tekstu, aby zezwolić na przesyłanie plików bez definiowania opcji wyboru licencji.",
 	"wikimediashoplink-linktext": "Sklep Wikipedii",
 	"wikimediashoplink-link-tooltip": "Odwiedź sklep Wikipedii",
 	"interlanguage-link-mul": "Więcej języków",
