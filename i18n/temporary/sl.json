@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"NegativeTwelveDollars"
+			"NegativeTwelveDollars",
+			"Janezdrilc"
 		]
 	},
+	"group-oversight": "Nadzorniki",
+	"group-oversight-member": "nadzornik",
 	"hello": "Pozdravljeni"
 }
