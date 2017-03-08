@@ -89,6 +89,15 @@
 		],
 		"GetBetaFeaturePreferences": [
 			"WikimediaMessagesHooks::getBetaFeaturePreferences"
+		],
+		"BeforePageDisplay": [
+			"WikimediaMessagesHooks::onBeforePageDisplay"
+		],
+		"ResourceLoaderRegisterModules": [
+			"WikimediaMessagesHooks::onResourceLoaderRegisterModules"
+		],
+		"GetPreferences": [
+			"WikimediaMessagesHooks::onGetPreferences"
 		]
 	},
 	"config": {
