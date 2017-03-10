@@ -1308,7 +1308,7 @@ class WikimediaMessagesHooks {
 					'ltr' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/rc-filters-beta-ltr.svg",
 				],
 				'info-link' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
-				'discussion-link' => 'https://www.mediawiki.org/wiki/Talk:Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
+				'discussion-link' => 'https://www.mediawiki.org/wiki/Talk:Edit_Review_Improvements/New_filters_for_edit_review',
 			];
 		}
 
