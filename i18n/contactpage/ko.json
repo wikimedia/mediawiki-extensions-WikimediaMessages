@@ -6,7 +6,8 @@
 			"Revi",
 			"Kwj2772",
 			"LiteHell",
-			"Ykhwong"
+			"Ykhwong",
+			"Jerrykim306"
 		]
 	},
 	"contactpage-title-requestlicense": "상표 재사용 연락 양식",
@@ -44,12 +45,12 @@
 	"contactpage-wikimedia-trademark-wikiversity": "위키배움터",
 	"contactpage-wikimedia-trademark-wiktionary": "위키낱말사전",
 	"contactpage-wikimedia-trademark-wikivoyage": "위키여행",
-	"contactpage-title-licenseabuse": "저작권 남용 연락 양식",
+	"contactpage-title-licenseabuse": "남용 양식 신고",
 	"contactpage-pagetext-licenseabuse": "당신이 의심하는 누군가가 위키미디어 상표권을 오남용하는 것에 관해 우리에게 문의하려면 아래의 양식을 이용하십시오.",
 	"contactpage-subject-licenseabuse": "위키미디어 상표 남용 알림",
 	"contactpage-license-abuse-description": "남용 설명",
 	"contactpage-license-abuse-selectmark": "어떤 상표가 남용되었습니까?",
-	"contactpage-license-abuse-location": "남용된 곳 (온/오프라인)",
+	"contactpage-license-abuse-location": "남용된 곳 (온라인/오프라인)",
 	"contactpage-license-abuse-theircontact": "상표를 남용하는 사람의 연락 정보 (알려진 경우)",
 	"contactpage-license-abuse-yourcontact": "당신의 연락 정보 (연락해야 할 수 있습니다)",
 	"contactpage-title-affcomusergroup": "사용자 그룹 출범 신청",

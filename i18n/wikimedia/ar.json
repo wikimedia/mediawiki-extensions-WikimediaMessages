@@ -20,7 +20,8 @@
 			"Maroen1990",
 			"بدارين",
 			"Mr. Ibrahem",
-			"ديفيد"
+			"ديفيد",
+			"علاء"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -123,7 +124,9 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|متجاوز المنع العام|متجاوزة المنع العام}}",
 	"group-global-interface-editor": "محررو الواجهة العالميون",
 	"group-global-interface-editor-member": "{{GENDER:$1|محرر واجهة عالمي|محررة واجهة عالمية}}",
+	"group-global-renamer": "مغيرو أسماء عالميين",
 	"group-global-renamer-member": "{{GENDER:$1|مغير أسماء عالمي|مغيرة أسماء عالمية}}",
+	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "مسترجعون عامون",
 	"group-global-rollbacker-member": "{{GENDER:$1|مسترجع عام}}",
 	"grouppage-global-rollbacker": "m:Global rollback/ar",
