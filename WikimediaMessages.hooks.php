@@ -1332,4 +1332,57 @@ class WikimediaMessagesHooks {
 		}
 		return ORES\Hooks::isModelEnabled( 'damaging' ) || ORES\Hooks::isModelEnabled( 'goodfaith' );
 	}
+
+	public static function onBeforePageDisplay( OutputPage &$out, Skin &$skin ) {
+		if ( !class_exists( 'GuidedTourHooks' ) ) {
+			return;
+		}
+		$title = $skin->getTitle();
+		$user = $out->getUser();
+
+		if (
+			$title->isSpecial( 'Recentchanges' ) &&
+			$user->isLoggedIn() &&
+			!!$user->getOption( 'rcenhancedfilters' ) &&
+			!$user->getOption( 'rcenhancedfilters-seen-tour' )
+		) {
+			GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
+		}
+	}
+
+	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
+		if ( class_exists( 'GuidedTourHooks' ) ) {
+			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersBeta', [
+				'localBasePath' => __DIR__ . '/modules',
+				'remoteExtPath' => 'WikimediaMessages/modules',
+				'scripts' => 'rcfilters-beta-tour.js',
+				'styles' => 'rcfilters-beta-tour.less',
+				'messages' => [
+					'eri-rcfilters-tour-welcome-title',
+					'eri-rcfilters-tour-welcome-description',
+					'eri-rcfilters-tour-welcome-button',
+				],
+				'dependencies' => [
+					'ext.guidedTour'
+				],
+			] );
+		}
+
+		return true;
+	}
+
+	/**
+	 * Register 'rcenhancedfilters-seen-tour' preference
+	 *
+	 * @param $user User object
+	 * @param &$preferences array Preferences object
+	 * @return bool
+	 */
+	public static function onGetPreferences( $user, &$preferences ) {
+		$preferences[ 'rcenhancedfilters-seen-tour' ] = [
+			'type' => 'api',
+		];
+
+		return true;
+	}
 }
