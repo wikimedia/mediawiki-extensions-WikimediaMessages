@@ -1309,8 +1309,8 @@ class WikimediaMessagesHooks {
 				'label-message' => 'eri-rcfilters-beta-label',
 				'desc-message' => $ores ? 'eri-rcfilters-beta-description-ores' : 'eri-rcfilters-beta-description',
 				'screenshot' => [
-					'rtl' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/rc-filters-beta-rtl.svg",
-					'ltr' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/rc-filters-beta-ltr.svg",
+					'rtl' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-rtl.svg",
+					'ltr' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-ltr.svg",
 				],
 				'info-link' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
 				'discussion-link' => 'https://www.mediawiki.org/wiki/Talk:Edit_Review_Improvements/New_filters_for_edit_review',
