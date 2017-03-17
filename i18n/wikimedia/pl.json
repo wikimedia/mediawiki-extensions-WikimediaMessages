@@ -180,6 +180,8 @@
 	"group-translationadmin": "Administratorzy tłumaczeń",
 	"group-translationadmin-member": "{{GENDER:$1|administrator|administratorka}} tłumaczeń",
 	"grouppage-translationadmin": "{{ns:project}}:Administratorzy tłumaczeń",
+	"tag-emoji": "Emotikony",
+	"tag-emoji-description": "Wykorzystywany przez globalny filtr nadużyć 110.",
 	"search-interwiki-custom": "wikt:Z Wikisłownika\nb:Z Wikibooks\nn:Z Wikinews\nq:Z Wikicytatów\ns:Z Wikiźródeł\nv:Z Wikiwersytetu\nvoy:Z Wikipodróży",
 	"wikimedia-copyright": "Tekst udostępniany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.\nZobacz szczegółowe informacje o <a href=\"https://wikimediafoundation.org/wiki/Warunki_korzystania\">warunkach korzystania</a>.",
 	"wikidata-copyright": "Wszystkie dane strukturalne głównej przestrzeni nazw i przestrzeni nazw właściwości udostępniane na licencji <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.pl\" title=\"Definicja Licencji Creative Commons CC0\">Creative Commons: przekazanie do domeny publicznej</a>;\ntekst w innych przestrzeniach nazw udostępniany na licencji <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\" title=\"Definicja licencji Uznanie autorstwa-Na tych samych warunkach\">Creative Commons: uznanie autorstwa, na tych samych warunkach</a>;\nz możliwością obowiązywania dodatkowych ograniczeń.\nZobacz szczegółowe informacje o <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/pl\" title=\"Fundacja Wikimedia: Warunki użytkowania\">warunkach użytkowania</a>.",
@@ -256,10 +258,14 @@
 	"eri-rcfilters-beta-label": "Nowe filtry do sprawdzania edycji",
 	"eri-rcfilters-beta-description": "Przeglądaj edycje w Ostatnich zmianach z użyciem prostszego i bardziej rozbudowanego interfejsu. Składa się z nowych filtrów, podświetlania definiowalnego przez użytkownika i inne usprawnienia.",
 	"eri-rcfilters-beta-description-ores": "Przeglądaj edycje w Ostatnich zmianach z użyciem prostszego i bardziej rozbudowanego interfejsu zawierającego także filtry, które bazują na automatycznie uczącym się programie [[m:Objective Revision Evaluation Service|ORES]].",
+	"eri-rcfilters-tour-welcome-title": "Przedstawiamy Nowe filtry do patrolowania edycji (beta)",
+	"eri-rcfilters-tour-welcome-description": "Połącz ulepszone narzędzia, nowy interfejs i moc samouczącej się maszyny, aby walczyć z wandalizmami i pomagać nowym użytkownikom.",
+	"eri-rcfilters-tour-welcome-button": "Ok, rozumiem",
 	"wikimedia-feedback-termsofuse": "Zgadzam się udostępnić komentarz zgodnie z <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">warunkami korzystania</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Wniosek o zmianę nazwy \"{{GENDER:$1|$1}}\" na \"{{GENDER:$1|$2}}\" został zatwierdzony. Po zakończeniu, będziesz {{GENDER:$1|mógł|mogła}} zalogować się za pomocą nowej nazwy użytkownika i starego hasła. Dziękujemy za udział w projektach Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
 	"wikimedia-centralauth-uwbr-intro": "Ta strona zawiera spis użytkowników tej wiki, których nazwy zostaną zmienione z powodu [[m:Single User Login finalisation announcement|finalizacji konta uniwersalnego]]. Szersze wyjaśnienie tego tematu jest przedstawione na stronie [[m:Help:Unified login|konto uniwersalne]]. Użytkownicy mogą zażądać zmiany swojej nazwy poprzez złożenie wniosku na stronie [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}",
+	"wikimedia-mwoauthserver-invalid-user": "Wystąpił problem podczas logowania globalnego. Jeżeli dopiero utworzyłeś konto, wyloguj się i zaloguj jeszcze raz, a następnie spróbuj ponownie autoryzować aplikację. Jeżeli nie tworzyłeś konta przed chwilą, odwiedź [https://meta.wikimedia.org/ meta.wikimedia.org] i spróbuj ponownie autoryzować aplikację. (Kod błędu: E008)",
 	"wikimedia-cookiestatement": "Komunikat na temat ciasteczek"
 }
