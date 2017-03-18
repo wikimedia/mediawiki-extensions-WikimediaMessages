@@ -186,6 +186,7 @@
 	"right-extendedconfirmed": "Limitéiert Säiten änneren",
 	"protect-level-editeditorprotected": "Nëmmen Editeuren erlaben",
 	"eri-rcfilters-beta-label": "Nei Filtere fir Ännerungen nozekucken",
+	"eri-rcfilters-tour-welcome-button": "OK, ech hu verstan",
 	"wikimedia-ipb-confirmhideuser": "Dir sidd am Gaang e Benotzer ze späre mat der Funktioun \"Benotzer verstoppen\" ageschalt. Dëst hëlt den Numm vum Benotzer aus alle Lëschten a Logbicher eraus. Sidd Dir sécher datt Dir dat maache wëllt?\n\nWann de Benotzernumm op alle Wikimedia Wikie verstoppt gi muss, da kontaktéiert d'[[m:Special:MyLanguage/Stewards|Stewards]] iwwer stewards@wikimedia.org.",
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
 	"wikimedia-centralauth-uwbr-intro": "Op dëser Säit sti registréiert Benotzer, déi ëmbenannt wäerte gi, wéint dem [[m:Single User Login finalisation announcement|Ofschloss vum 'single-user login']]. Méi Informatioune stinn op [[m:Help:Unified login|eenheetleche Login]]. Benotzer kënnen zu all Ament eng Ëmbenennung ufroen iwwer [[Special:GlobalRenameRequest]].",

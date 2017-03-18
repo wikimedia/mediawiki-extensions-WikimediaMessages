@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Benoit Rochon"
+			"Benoit Rochon",
+			"Nehirowisiw"
 		]
 	},
-	"wm-license-cc-by-sa-3.0-text": "Matci ki ka natawapaten nihe masinahikaniwoc ite kotc e itasinahak kitci [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 natawapatcikaterik] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]."
+	"wm-license-cc-by-sa-3.0-text": "Matci ki ka natawapaten nihe masinahikaniwoc ite kotc e itasinahak kitci [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 natawapatcikaterik] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
+	"wm-license-cc-free": "Kir ka wi totaman:",
+	"wm-license-cc-conditions-attribution-header": "Ka ki wectatc"
 }

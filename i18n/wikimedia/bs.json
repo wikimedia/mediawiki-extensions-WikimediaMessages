@@ -32,7 +32,7 @@
 	"group-abusefilter-member": "{{GENDER:$1|urednik|urednica}} filtera zloupotrebe",
 	"grouppage-abusefilter": "{{ns:project}}:Uređivači filtera zloupotrebe",
 	"group-accountcreator": "Kreatori računa",
-	"group-accountcreator-member": "{{GENDER:$1|stvaralac računa|stvaralačica računa}}",
+	"group-accountcreator-member": "{{GENDER:$1|stvaralac računa|stvarateljka računa}}",
 	"grouppage-accountcreator": "{{ns:project}}:Kreatori računa",
 	"group-arbcom": "Članovi komiteta za arbitriranje",
 	"group-arbcom-member": "{{GENDER:$1|član komiteta za arbitriranje|članica komiteta za arbitriranje}}",
