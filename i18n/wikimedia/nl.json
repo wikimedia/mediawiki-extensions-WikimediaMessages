@@ -264,6 +264,7 @@
 	"restriction-level-editeditorprotected": "alleen voor bewerkers",
 	"right-editextendedsemiprotected": "Pagina's bewerken die beveiligd zijn als \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Alleen autopatrollers toestaan",
+	"eri-rcfilters-tour-welcome-button": "Oké, ik begrijp het",
 	"wikimedia-feedback-termsofuse": "Ik ga akkoord met het leveren van terugkoppeling in overeenstemming met de <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/nl\" target=\"_blank\">Gebruiksvoorwaarden</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Het verzoek om \"{{GENDER:$1|$1}}\" naar \"{{GENDER:$1|$2}}\" te hernoemen is goedgekeurd. Eenmaal voltooid kunt u inloggen met uw nieuwe gebruikersnaam met uw oude wachtwoord. Bedankt voor het deelnemen aan Wikimedia projecten.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Het verzoek om \"{{GENDER:$1|$1}}\" naar \"{{GENDER:$1|$2}}\" te hernoemen kon niet worden voltooid.\n\nOpmerking: $3\n\nVoor meer informatie, bezoek deze helppagina:<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Om uw dit hernoemingsverzoek te bespreken, kun u een bericht op deze pagina achterlaten:  <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. U moet hiervoor nog met uw huidige gebruikersnaam inloggen.",

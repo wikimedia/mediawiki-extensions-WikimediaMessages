@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Benoit Rochon",
-			"Jean-paul echaquan"
+			"Jean-paul echaquan",
+			"Jeannette Coocoo"
 		]
 	},
 	"wm-license-artwork-dimensions": "E iskwaki",
@@ -11,5 +12,7 @@
 	"wm-license-information-source": "Ite wetciparik",
 	"wm-license-information-date": "Apitc",
 	"wm-license-information-author": "Kaki masihiketc",
-	"wm-license-information-permission-reusing-text": "E koski apatak masinihikaniwoc"
+	"wm-license-information-permission": "Niheritam",
+	"wm-license-information-permission-reusing-text": "E koski apatak masinihikaniwoc",
+	"wm-license-own-work": "Tipirowe awik otamirowin"
 }
