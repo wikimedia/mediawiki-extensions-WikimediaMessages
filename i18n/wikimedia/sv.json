@@ -21,7 +21,8 @@
 			"Tobulos1",
 			"Warrakkk",
 			"WikiPhoenix",
-			"Josve05a"
+			"Josve05a",
+			"Larske"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifika meddelanden",
@@ -62,7 +63,7 @@
 	"group-arbcom": "Medlemmar av förlikningskommitte",
 	"group-arbcom-member": "{{GENDER:$1|medlem av förlikningskommitte}}",
 	"grouppage-arbcom": "{{ns:project}}:Förlikningskommittemedlemmar",
-	"group-autopatrolled": "Autopatrullerare",
+	"group-autopatrolled": "Autopatrullerade",
 	"group-autopatrolled-member": "{{GENDER:$1|autopatrullerare}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Autopatrullerare",
 	"group-autoreviewer": "Automatiska granskare",
