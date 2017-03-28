@@ -22,7 +22,8 @@
 			"Warrakkk",
 			"WikiPhoenix",
 			"Josve05a",
-			"Larske"
+			"Larske",
+			"MagnusA"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifika meddelanden",
@@ -64,8 +65,8 @@
 	"group-arbcom-member": "{{GENDER:$1|medlem av förlikningskommitte}}",
 	"grouppage-arbcom": "{{ns:project}}:Förlikningskommittemedlemmar",
 	"group-autopatrolled": "Autopatrullerade",
-	"group-autopatrolled-member": "{{GENDER:$1|autopatrullerare}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Autopatrullerare",
+	"group-autopatrolled-member": "{{GENDER:$1|autopatrullerad}}",
+	"grouppage-autopatrolled": "{{ns:project}}:Autopatrullerade",
 	"group-autoreviewer": "Automatiska granskare",
 	"group-autoreviewer-member": "{{GENDER:$1|automatisk granskare}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Automatiska granskare",
