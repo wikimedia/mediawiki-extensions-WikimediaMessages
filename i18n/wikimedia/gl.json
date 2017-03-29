@@ -258,6 +258,8 @@
 	"right-editextendedsemiprotected": "Editar páxinas protexidas como \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir só autopatrulleiros",
 	"restriction-level-editextendedsemiprotected": "protexido por autopatrulleiro",
+	"eri-rcfilters-beta-label": "Novos filtros para a revisión das edicións",
+	"eri-rcfilters-tour-welcome-title": "Introduciónː Novos filtros para a revisión das edicións (beta)",
 	"eri-rcfilters-tour-welcome-button": "OK, entendido",
 	"wikimedia-ipb-confirmhideuser": "Está a piques de bloquear un usuario coa opción \"agochar o usuario\" activada. Isto suprime o nome de usuario de todas as listas e entradas de rexistro. Está seguro de querer facelo?\n\nSe é necesario agochar o nome de usuario en todos os wikis da Wikimedia, contacte cos [[m:Special:MyLanguage/Stewards|stewards]] no enderezo stewards@wikimedia.org.",
 	"wikimedia-feedback-termsofuse": "Estou de acordo en proporcionar información en conformidade cos <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Termos de uso</a>.",
