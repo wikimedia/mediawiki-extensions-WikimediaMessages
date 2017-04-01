@@ -235,6 +235,7 @@
 	"right-editextendedsemiprotected": "Editar páginas protegidas com \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir apenas autopatrulhadores",
 	"eri-rcfilters-beta-label": "Novos filtros para a revisão de edições",
+	"eri-rcfilters-beta-description": "Revisa edições nas Mudanças Recentes ao utilizar uma interface mais fácil e mais poderosa. Inclui novos filtros, realces definidos pelo utilizador e outras melhorias.",
 	"eri-rcfilters-beta-description-ores": "Revise edições nas mudanças recentes usando uma interface mais fácil e poderosa e várias ferramentas novas, incluindo filtros preditivos suportados pelo [[m:Objective Revision Evaluation Service|ORES]], um programa de aprendizagem de máquina.",
 	"eri-rcfilters-tour-welcome-title": "Introduzindo: Novos filtros para a revisão de edições (beta)",
 	"eri-rcfilters-tour-welcome-description": "Combine ferramentas aprimoradas, uma nova interface e o poder da aprendizagem de máquina para combater o vandalismo e ajudar novos usuários.",
