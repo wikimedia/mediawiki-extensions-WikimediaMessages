@@ -1343,15 +1343,22 @@ class WikimediaMessagesHooks {
 		if (
 			$title->isSpecial( 'Recentchanges' ) &&
 			$user->isLoggedIn() &&
-			!!$user->getOption( 'rcenhancedfilters' ) &&
-			!$user->getOption( 'rcenhancedfilters-seen-tour' )
+			!!$user->getOption( 'rcenhancedfilters' )
 		) {
-			GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
+			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
+				GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
+			}
+
+			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
+				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
+			}
+
 		}
 	}
 
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
 		if ( class_exists( 'GuidedTourHooks' ) ) {
+
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersBeta', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1366,13 +1373,31 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
+
+			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersHighlight', [
+				'localBasePath' => __DIR__ . '/modules',
+				'remoteExtPath' => 'WikimediaMessages/modules',
+				'scripts' => [
+					'rcfilters-highlight-tour-hooks.js',
+					'rcfilters-highlight-tour.js',
+				],
+				'styles' => 'rcfilters-highlight-tour.less',
+				'messages' => [
+					'eri-rcfilters-tour-highlight-title',
+					'eri-rcfilters-tour-highlight-description',
+					'eri-rcfilters-tour-highlight-button',
+				],
+				'dependencies' => [
+					'ext.guidedTour'
+				],
+			] );
 		}
 
 		return true;
 	}
 
 	/**
-	 * Register 'rcenhancedfilters-seen-tour' preference
+	 * Register RC Filters preferences
 	 *
 	 * @param $user User object
 	 * @param &$preferences array Preferences object
@@ -1380,6 +1405,14 @@ class WikimediaMessagesHooks {
 	 */
 	public static function onGetPreferences( $user, &$preferences ) {
 		$preferences[ 'rcenhancedfilters-seen-tour' ] = [
+			'type' => 'api',
+		];
+
+		$preferences[ 'rcenhancedfilters-tried-highlight' ] = [
+			'type' => 'api',
+		];
+
+		$preferences[ 'rcenhancedfilters-seen-highlight-button-counter' ] = [
 			'type' => 'api',
 		];
 
