@@ -228,6 +228,7 @@
 	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" হিসাবে সুরক্ষিত পাতায় সম্পাদনা করে",
 	"eri-rcfilters-beta-label": "সম্পাদনা পর্যালোচনার জন্য নতুন ছাঁকনি",
 	"eri-rcfilters-tour-welcome-button": "ঠিক আছে, বুঝেছি",
+	"eri-rcfilters-tour-highlight-button": "ঠিক আছে, বুঝেছি",
 	"wikimedia-centralauth-contribs-locked": "এই অ্যাকাউন্টটি বৈশ্বিকভাবে অবরুদ্ধ করা হয়েছে। আরও তথ্যের জন্য [[m:Special:CentralAuth/$1|বৈশ্বিক অ্যাকাউন্টের বিস্তারিত]] দেখুন।",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< ২০০৬",
 	"securepoll-dblist-securepollglobal": "বোর্ড নির্বাচন",

@@ -33,7 +33,8 @@
 			"Ykhwong",
 			"Tursetic",
 			"Jerrykim306",
-			"Ellif"
+			"Ellif",
+			"Garam"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -257,6 +258,7 @@
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\"로 보호된 문서 편집",
 	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\"로 보호된 문서 편집",
 	"eri-rcfilters-tour-welcome-button": "알겠습니다",
+	"eri-rcfilters-tour-highlight-button": "알겠습니다",
 	"wikimedia-feedback-termsofuse": "<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">이용 약관</a>을 준수하여 피드백 제공에 동의합니다.",
 	"wikimedia-globalrenamequeue-email-body-approved": "\"{{GENDER:$1|$1}}\"에서 \"{{GENDER:$1|$2}}\"로의 계정명 변경 요청이 승인되었습니다.\n계정명 변경이 완료되면 새 계정명과 기존의 비밀번호를 이용해 로그인할 수 있게 될 것입니다.\n위키미디어 프로젝트에 참여해주셔서 감사합니다.",
 	"wikimedia-centralauth-contribs-locked": "이 계정은 전역으로 잠겨 있습니다.\n자세한 정보는 [[m:Special:CentralAuth/$1|통합 계정 정보]]를 참조하세요.",

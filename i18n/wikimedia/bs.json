@@ -163,6 +163,10 @@
 	"interlanguage-link-commons": "Wikimedia Commons",
 	"restriction-level-superprotect": "super zaštita",
 	"restriction-level-editeditorprotected": "zaštićeno za urednike",
+	"eri-rcfilters-beta-label": "Novi filteri za pregled izmjena",
+	"eri-rcfilters-beta-description": "Pregledajte nedavne izmjene koristeći lakši i napredniji interfejs. Sadrži nove filtere, korisnički-zadano isticanje i druga poboljšanja.",
+	"eri-rcfilters-tour-welcome-title": "Novo: Filteri za pregled izmjena (beta)",
+	"eri-rcfilters-tour-welcome-description": "Koristite poboljšane alate, novi interfejs i moć mašinskog učenja za borbu protiv vandalizma i za pomoć novim korisnicima.",
 	"wikimedia-centralauth-contribs-locked": "Ovaj račun je globalno blokiran.\nZa više informacija, pogledajte [[m:Special:CentralAuth/$1|detalje o globalnom računu]].",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }

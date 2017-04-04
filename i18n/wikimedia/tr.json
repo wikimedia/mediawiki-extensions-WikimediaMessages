@@ -17,7 +17,8 @@
 			"McAang",
 			"HakanIST",
 			"JackUKElliott",
-			"Diyapazon"
+			"Diyapazon",
+			"Vito Genovese"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedya özel mesajları",
@@ -36,13 +37,13 @@
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS üyesi}}",
 	"grouppage-OTRS-member": "{{ns:project}}:OTRS üyeleri",
 	"group-abusefilter": "Suistimal filtresi editörleri",
-	"group-abusefilter-member": "{{GENDER:$1|suistimal filtresi editörü}}",
-	"grouppage-abusefilter": "{{ns:project}}:Suistimal filtresi editörleri",
+	"group-abusefilter-member": "kötüye kullanım süzgeci editörü",
+	"grouppage-abusefilter": "{{ns:project}}:Kötüye kullanım süzgeci editörleri",
 	"group-accountcreator": "Hesap oluşturucular",
 	"group-accountcreator-member": "{{GENDER:$1|hesap oluşturucu}}",
 	"grouppage-accountcreator": "{{ns:project}}:Hesap oluşturucular",
-	"group-arbcom": "Tahkim heyeti üyeleri",
-	"group-arbcom-member": "{{GENDER:$1|tahkim kurulu üyesi}}",
+	"group-arbcom": "Hakem kurulu üyeleri",
+	"group-arbcom-member": "hakem kurulu üyesi",
 	"grouppage-arbcom": "{{ns:project}}:Tahkim heyeti üyeleri",
 	"group-autopatrolled": "Oto-devriyeler",
 	"group-autopatrolled-member": "{{GENDER:$1|oto-devriye}}",
