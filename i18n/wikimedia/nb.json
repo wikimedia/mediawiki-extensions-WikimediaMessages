@@ -158,5 +158,6 @@
 	"interlanguage-link-sitename-commons": "Mediearkivet Wikimedia Commons",
 	"wikimedia-feedback-termsofuse": "Jeg godtar å gi tilbakemelding i tråd med <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">bruksvilkårene</a>.",
 	"right-viewdeletedfile": "Vis filer og sider i navnerommene {{ns:file}} og {{ns:file_talk}} som er slettet",
-	"securepoll-dblist-securepollglobal": "Styrevalg"
+	"securepoll-dblist-securepollglobal": "Styrevalg",
+	"wikimedia-cookiestatement": "Erklæring om informasjonskapsler"
 }

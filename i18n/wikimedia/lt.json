@@ -12,7 +12,8 @@
 			"Vogone",
 			"Albertas",
 			"Zygimantus",
-			"Nersip"
+			"Nersip",
+			"Nuodas"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
@@ -125,5 +126,7 @@
 	"upload-form-label-not-own-work-local-commons": "Jūs taip pat galite norėti išbandyti [[Special:Upload|{{SITENAME}} įkėlimo puslapį]], jeigu šis puslapis leidžia failų įkėlimą pagal jų politiką.",
 	"interlanguage-link-commons": "Vikiteka",
 	"eri-rcfilters-tour-welcome-button": "Gerai, supratau",
+	"eri-rcfilters-tour-highlight-description": "Naudokite ryškinimą, kad vizualiai atskirti pasirinktas savybes. <br/> <br/> Galite derinti ryškinimą, su filtrais arba paryškinti savarankiškai.",
+	"eri-rcfilters-tour-highlight-button": "Gerai, supratau",
 	"wikimedia-cookiestatement": "Slapukų politika"
 }
