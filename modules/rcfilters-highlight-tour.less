@@ -23,13 +23,13 @@
 }
 
 .rcfilters-tour-highlight-pulsatingDot {
-	width: 2.5em;
-	height: 2.5em;
+	min-width: 40px;
+	min-height: 40px;
 	border-radius: 50%;
 	background-color: #36c;
 	position: absolute;
-	bottom: -1.25em;
-	left: ~"calc(50% - 1.25em)";
+	bottom: -20px;
+	left: ~"calc(50% - 20px)";
 	opacity: 0;
 	/* stylelint-disable no-unsupported-browser-features */
 	-webkit-animation: pulse 3s ease-out;
@@ -42,13 +42,13 @@
 }
 
 .rcfilters-tour-highlight-stillDot {
-	width: 0.8em;
-	height: 0.8em;
+	min-width: 12px;
+	min-height: 12px;
 	border-radius: 50%;
 	background-color: #36c;
 	position: absolute;
-	bottom: -0.4em;
-	left: ~"calc(50% - 0.4em)";
+	bottom: -6px;
+	left: ~"calc(50% - 6px)";
 }
 
 @-webkit-keyframes pulse {
