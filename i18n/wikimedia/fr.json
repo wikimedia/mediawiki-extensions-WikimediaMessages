@@ -84,7 +84,7 @@
 	"group-OTRS-member-member": "{{GENDER:$1|membre OTRS}}",
 	"grouppage-OTRS-member": "{{ns:project}}:Membres OTRS",
 	"group-abusefilter": "Modificateurs de filtre antiabus",
-	"group-abusefilter-member": "{{GENDER:$1|modificateur de filtre anti-abus}}",
+	"group-abusefilter-member": "{{GENDER:$1|modificateur de filtre antiabus|modificatrice de filtre antiabus}}",
 	"grouppage-abusefilter": "{{ns:project}}:Modificateurs de filtre antiabus",
 	"group-abusefilter-helper": "Aides des filtres d’abus",
 	"group-abusefilter-helper-member": "{{GENDER:$1|aide de filtre d’abus}}",
