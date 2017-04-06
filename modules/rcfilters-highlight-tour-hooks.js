@@ -9,20 +9,37 @@
 			mw.user.options.set( name, value );
 			new mw.Api().saveOption( name, value );
 		},
-		highlightButtonSelector = '.mw-rcfilters-ui-filtersListWidget-hightlightButton a',
 		showDot = function () {
-			$( highlightButtonSelector )
-				.addClass( 'rcfilters-tour-highlight-dot-container' )
-				.append(
-					$( '<div>' ).addClass( 'rcfilters-tour-highlight-pulsatingDot' ),
-					$( '<div>' ).addClass( 'rcfilters-tour-highlight-stillDot' )
-				);
+			var position,
+				$highlightButton,
+				$container = $( '.rcfilters-tour-highlight-dot-container' );
+
+			if ( !$container.length ) {
+				$container = $( '<div>' )
+					.addClass( 'rcfilters-tour-highlight-dot-container' )
+					.append(
+						$( '<div>' ).addClass( 'rcfilters-tour-highlight-pulsatingDot' ),
+						$( '<div>' ).addClass( 'rcfilters-tour-highlight-stillDot' )
+					);
+
+				$highlightButton = $( '.mw-rcfilters-ui-filtersListWidget-hightlightButton a' );
+				position = $highlightButton.position();
+
+				$( '.mw-rcfilters-ui-filterWrapperWidget-popup .oo-ui-popupWidget-body' )
+					.append( $container );
+
+				// Position
+				$container.css( {
+					left: position.left + ( $highlightButton.outerWidth() / 2 ),
+					top: position.top + $highlightButton.outerHeight()
+				} );
+			}
+
+			$container.show();
 		},
 		hideDot = function () {
-			var $button = $( highlightButtonSelector )
-				.removeClass( 'rcfilters-tour-highlight-dot-container' );
-			$button.find( '.rcfilters-tour-highlight-pulsatingDot, .rcfilters-tour-highlight-stillDot' )
-				.remove();
+			$( '.rcfilters-tour-highlight-dot-container' )
+				.hide();
 		};
 
 	mw.hook( 'RcFilters.popup.open' ).add( function ( selectedFilterName ) {
