@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Irwangatot",
-			"Kandar"
+			"Kandar",
+			"Uchup19"
 		]
 	},
 	"wikimediamessages-desc": "Talatah-talatah spesifik Wikimedia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=su",
 	"sitesupport": "Sumbangan",
-	"tooltip-n-sitesupport": "Bobotohan",
+	"tooltip-n-sitesupport": "Rojong kami",
 	"group-accountcreator": "Tukang akun",
 	"group-accountcreator-member": "nu nyieun rekening",
 	"grouppage-accountcreator": "{{ns:project}}:Tukang akun",
@@ -48,5 +49,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Pamekar"
+	"wikimedia-developers": "Pamekar",
+	"wikimedia-globalblocking-ipblocked": "'''Alamat IP Anjeun geus [[m:Special:MyLanguage/Global blocks|dipeungpeuk dina sakabéh wiki]].'''\n\nPameungpeukanna ku $1 ($2).\nAlesan téh cenah ''$3''.\n\n*Mimiti dipeungpeuk: $4\n*Basina nepi: $5\n\n\nKiwari alamat IP Anjeun nyaéta $6.\nPék asupkeun wincikan di luhur kana unggal patanyaan Anjeun.\n\nMun Anjeun yakin yén ieu pameungpeukan mangrupa kasalahan, Anjeun bisa manggihan informasi panambah sarta pituduh na kawijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi kabuka]].\nAtawa mun henteu, sawalakeun ieu perkara di [[m:Steward requests/Global|Méta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Sérver proksi anu dipénta jang pakéeun Anjeun geus [[m:Special:MyLanguage/Global blocks|dipeungpeuk dina sakabéh wiki]].'''\n\nPameungpeukanna ku $1 ($2).\nAlesan téh cenah ''$3''.\n\n*Mimiti dipeungpeuk: $4\n*Basina nepi: $5\n\n\nKiwari alamat IP Anjeun nyaéta $6.\nPék asupkeun wincikan di luhur kana unggal patanyaan Anjeun.\n\nMun Anjeun yakin yén ieu pameungpeukan mangrupa kasalahan, Anjeun bisa manggihan informasi panambah sarta pituduh na kawijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi kabuka]].\nAtawa mun henteu, sawalakeun ieu perkara di [[m:Steward requests/Global|Méta-Wiki]].",
+	"eri-rcfilters-tour-highlight-button": "Okéh, ngarti"
 }

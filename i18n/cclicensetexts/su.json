@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kandar"
+			"Kandar",
+			"Uchup19"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
@@ -13,5 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "pikeun ngarobah karyana",
 	"wm-license-cc-conditions": "Dumasar kana kaayaan di handap:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
+	"wm-license-cc-conditions-attribution-text": "Anjeun kudu ngatribusi karya ku cara nu geus ditangtukeun ku nu nyieun atawa nu méré lisénsi (tapi lain ku jalan nu sigana téh maksa pikeun Anjeun maké éta karya).",
+	"wm-license-cc-conditions-share_alike-header": "BabagiSarupa",
 	"wm-license-cc-conditions-share_alike-text": "Upama anjeun ngarubah, ngagubah, atawa nyieun turunan tina ieu karya, anjeun kudu nembrakkeun hasilna maké lisénsi anu sarua atawa sarupa."
 }
