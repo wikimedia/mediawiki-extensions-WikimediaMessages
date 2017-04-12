@@ -1351,6 +1351,7 @@ class WikimediaMessagesHooks {
 
 			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
 				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
+				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
 			}
 
 		}
@@ -1367,6 +1368,7 @@ class WikimediaMessagesHooks {
 				'messages' => [
 					'eri-rcfilters-tour-welcome-title',
 					'eri-rcfilters-tour-welcome-description',
+					'eri-rcfilters-tour-welcome-no-ores-description',
 					'eri-rcfilters-tour-welcome-button',
 				],
 				'dependencies' => [

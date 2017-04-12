@@ -8,7 +8,9 @@
 	tour.firstStep( {
 		name: 'Welcome',
 		titlemsg: 'eri-rcfilters-tour-welcome-title',
-		descriptionmsg: 'eri-rcfilters-tour-welcome-description',
+		descriptionmsg: mw.config.get( 'wgRCFiltersORESAvailable' ) ?
+			'eri-rcfilters-tour-welcome-description' :
+			'eri-rcfilters-tour-welcome-no-ores-description',
 		autoFocus: true,
 		allowAutomaticOkay: false,
 		buttons: [

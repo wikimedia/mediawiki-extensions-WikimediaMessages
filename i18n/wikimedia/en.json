@@ -277,6 +277,7 @@
 	"eri-rcfilters-beta-description-ores": "Review edits on Recent Changes using an easier and more powerful interface and many new tools, including predictive filters powered by [[m:Objective Revision Evaluation Service|ORES]], a machine-learning program.",
 	"eri-rcfilters-tour-welcome-title": "Introducing: New Filters for Edit Review (beta)",
 	"eri-rcfilters-tour-welcome-description": "Combine improved tools, a new interface and the power of machine learning to fight vandalism and help new users.",
+	"eri-rcfilters-tour-welcome-no-ores-description": "Review edits using an easier and more powerful interface, additional filters, user-defined highlighting and other improvements.",
 	"eri-rcfilters-tour-welcome-button": "OK, got it",
 	"eri-rcfilters-tour-highlight-title": "Color code your results",
 	"eri-rcfilters-tour-highlight-description": "Use highlighting to visually distinguish selected properties.<br/><br/>You can combine highlights with filters or use highlighting independently.",
