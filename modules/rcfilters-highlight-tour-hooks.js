@@ -22,10 +22,10 @@
 						$( '<div>' ).addClass( 'rcfilters-tour-highlight-stillDot' )
 					);
 
-				$highlightButton = $( '.mw-rcfilters-ui-filtersListWidget-hightlightButton a' );
+				$highlightButton = $( '.mw-rcfilters-ui-filterMenuHeaderWidget-hightlightButton a' );
 				position = $highlightButton.position();
 
-				$( '.mw-rcfilters-ui-filterWrapperWidget-popup .oo-ui-popupWidget-body' )
+				$( '.mw-rcfilters-ui-filterFloatingMenuSelectWidget-body' )
 					.append( $container );
 
 				// Position
