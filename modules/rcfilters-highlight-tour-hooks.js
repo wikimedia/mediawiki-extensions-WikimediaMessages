@@ -10,35 +10,22 @@
 			new mw.Api().saveOption( name, value );
 		},
 		showDot = function () {
-			var position,
-				$highlightButton,
+			var $highlightButton = $( '.mw-rcfilters-ui-filterMenuHeaderWidget-hightlightButton a' ),
 				$container = $( '.rcfilters-tour-highlight-dot-container' );
 
 			if ( !$container.length ) {
-				$container = $( '<div>' )
+				$highlightButton
 					.addClass( 'rcfilters-tour-highlight-dot-container' )
 					.append(
-						$( '<div>' ).addClass( 'rcfilters-tour-highlight-pulsatingDot' ),
-						$( '<div>' ).addClass( 'rcfilters-tour-highlight-stillDot' )
+						$( '<div>' ).addClass( 'rcfilters-tour-highlight-dot rcfilters-tour-highlight-pulsatingDot' ),
+						$( '<div>' ).addClass( 'rcfilters-tour-highlight-dot rcfilters-tour-highlight-stillDot' )
 					);
-
-				$highlightButton = $( '.mw-rcfilters-ui-filterMenuHeaderWidget-hightlightButton a' );
-				position = $highlightButton.position();
-
-				$( '.mw-rcfilters-ui-filterFloatingMenuSelectWidget-body' )
-					.append( $container );
-
-				// Position
-				$container.css( {
-					left: position.left + ( $highlightButton.outerWidth() / 2 ),
-					top: position.top + $highlightButton.outerHeight()
-				} );
 			}
 
-			$container.show();
+			$( '.rcfilters-tour-highlight-dot' ).show();
 		},
 		hideDot = function () {
-			$( '.rcfilters-tour-highlight-dot-container' )
+			$( '.rcfilters-tour-highlight-dot' )
 				.hide();
 		};
 
