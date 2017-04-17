@@ -3,9 +3,11 @@
 		"authors": [
 			"Benoit Rochon",
 			"Nehirowisiw",
-			"Jeannette Coocoo"
+			"Jeannette Coocoo",
+			"Ninmeka"
 		]
 	},
+	"wm-license-cc-attribution": "Ka ki wectatc",
 	"wm-license-cc-by-sa-3.0-text": "Matci ki ka natawapaten nihe masinahikaniwoc ite kotc e itasinahak kitci [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 natawapatcikaterik] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-free": "Kir ka wi totaman:",
 	"wm-license-cc-free-to-share-header": " matanowe",
@@ -13,7 +15,8 @@
 	"wm-license-cc-free-to-remix-header": "nanto tota",
 	"wm-license-cc-free-to-remix-text": "nanto meckotona matci ohwe otamirowin",
 	"wm-license-cc-conditions": "Ke nanakatcitain niheritamowin:",
-	"wm-license-cc-conditions-attribution-header": "Ka ki wectatc",
+	"wm-license-cc-conditions-attribution-header": "ka ki wectatc",
 	"wm-license-cc-conditions-attribution-text": "Patoc mia ki ka itasinohaw ka itasinahitisotc nohwe  ka ki ocitat ohweriw kekotc ma nohwe  ka miwotatc  masinihikaniw matci kata pikitanak ( nama nohwe kika apitcitan niheritamowin kekotc ma e ici wawitamaskw ke totaman.)",
-	"wm-license-cc-conditions-share_alike-header": "Matonowesinaha"
+	"wm-license-cc-conditions-share_alike-header": "Matonowesinaha",
+	"wm-license-cc-conditions-share_alike-text": "Kecpin e meckotcitaiin kekocic wiec e ki ici keskinawapataman ka ki itasinatekipan patam ki ka masinahen ite ka ki otcipataman kekotc ka ki otciparik kitci pakitinikatek kitci actakaniwok."
 }

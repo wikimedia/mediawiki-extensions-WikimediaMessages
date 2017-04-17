@@ -281,6 +281,7 @@
 	"eri-rcfilters-beta-description-ores": "Überprüft Bearbeitungen in den „Letzten Änderungen“ mithilfe einer einfacheren und leistungsfähigeren Oberfläche und vieler neuer Werkzeuge, inklusive voraussagender Filter, die durch [[m:Objective Revision Evaluation Service|ORES]], eines maschinenlernenden Programms, zur Verfügung gestellt werden.",
 	"eri-rcfilters-tour-welcome-title": "Einführung: Neue Filter zur Bearbeitungsüberprüfung (Beta)",
 	"eri-rcfilters-tour-welcome-description": "Kombiniert verbesserte Werkzeuge, eine neue Oberfläche und die Fähigkeit des Maschinenlernens, um Vandalismus zu bekämpfen und neuen Benutzern zu helfen.",
+	"eri-rcfilters-tour-welcome-no-ores-description": "Überprüfe Bearbeitungen mithilfe einer einfacheren und leistungsfähigeren Oberfläche, zusätzlicher Filter, einer benutzerdefinierten Hervorhebung und anderer Verbesserungen.",
 	"eri-rcfilters-tour-welcome-button": "Okay, verstanden.",
 	"eri-rcfilters-tour-highlight-title": "Farbcode deiner Ergebnisse",
 	"eri-rcfilters-tour-highlight-description": "Verwende Hervorhebungen, um ausgewählte Eigenschaften visuell unterscheiden zu können.<br/><br/>Du kannst Hervorhebungen mit Filtern kombinieren oder unabhängig davon verwenden.",

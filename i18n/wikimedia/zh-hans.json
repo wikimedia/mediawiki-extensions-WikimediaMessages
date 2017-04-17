@@ -298,6 +298,7 @@
 	"eri-rcfilters-beta-description-ores": "使用更容易、更强大的界面与很多新工具复核最近更改中的编辑，这包含由[[m:Objective Revision Evaluation Service|ORES]]（一个机器学习程序）提供支持的预测过滤器。",
 	"eri-rcfilters-tour-welcome-title": "介绍：用于编辑复核的新过滤器（测试）",
 	"eri-rcfilters-tour-welcome-description": "整合改进的工具、新的界面以及机器阅读的能力来反破坏，并帮助新用户。",
+	"eri-rcfilters-tour-welcome-no-ores-description": "使用更容易且更强大的界面、额外过滤器、用户定义的高亮及其他改进来复核编辑。",
 	"eri-rcfilters-tour-welcome-button": "好的，明白了",
 	"eri-rcfilters-tour-highlight-title": "给您的结果上色",
 	"eri-rcfilters-tour-highlight-description": "使用高亮显示功能以在视觉上区分选择的属性。<br/><br/>您可以将高亮功能与过滤器结合使用，或单独使用高亮功能。",

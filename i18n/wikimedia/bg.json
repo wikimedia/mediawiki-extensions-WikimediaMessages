@@ -80,7 +80,7 @@
 	"group-interface-editor": "Редактори на интерфейса",
 	"group-interface-editor-member": "{{GENDER:$1|редактор на интерфейса|редакторка на интерфейса}}",
 	"grouppage-interface-editor": "{{ns:project}}:Редактори на интерфейса",
-	"group-ipblock-exempt": "изключения от блокирането по IP адрес",
+	"group-ipblock-exempt": "Изключения от блокирането по IP-адрес",
 	"group-ipblock-exempt-member": "{{GENDER:$1|изключение от блокирането по IP адрес}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Изключения от блокирането по IP адрес",
 	"group-patroller": "Патрульори",

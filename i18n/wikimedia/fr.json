@@ -316,6 +316,7 @@
 	"eri-rcfilters-beta-description-ores": "Commentaire des modifications sur Modifications récentes utilisant une interface plus facile et plus puissante et beaucoup de nouveaux outils, incluant des filtres prédictifs fonctionnant avec [[m:Objective Revision Evaluation Service|ORES]], un programme d’apprentissage automatique.",
 	"eri-rcfilters-tour-welcome-title": "Introduction : Nouveaux filtres pour la relecture des modifications (bêta)",
 	"eri-rcfilters-tour-welcome-description": "Combine des outils améliorés, une nouvelle interface et la puissance de l’apprentissage automatique pour combattre le vandalisme et aider les nouveaux utilisateurs.",
+	"eri-rcfilters-tour-welcome-no-ores-description": "Revoyez les modifications en utilisant une interface plus simple et plus puissante, des filtres additionnels, le surlignage des résultats définis par l'utilisateur et d'autres améliorations.",
 	"eri-rcfilters-tour-welcome-button": "Ok, c’est bon",
 	"eri-rcfilters-tour-highlight-title": "Coloriez vos résultats",
 	"eri-rcfilters-tour-highlight-description": "Utlisez le surlignage pour distinguer visuellement les propriétés sélectionnées.<br/><br/>Vous pouvez combiner la mise en valeur avec les filtres ou bien utiliser la mise en valeur séparément.",
