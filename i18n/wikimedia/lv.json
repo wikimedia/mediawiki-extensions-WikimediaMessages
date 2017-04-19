@@ -15,6 +15,9 @@
 	"nstab-creator": "Veidotājs",
 	"nstab-institution": "Institūcija",
 	"nstab-sequence": "Secība",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Labot visu rakstu…",
+	"gettingstarted-cta-edit-page-wikipedia": "Labot šo rakstu",
+	"gettingstarted-cta-fix-pages-wikipedia": "Labot ieteikto rakstu",
 	"group-accountcreator": "Kontu veidotāji",
 	"group-autopatrolled": "Pašpārbaudītie",
 	"grouppage-autopatrolled": "{{ns:project}}:Pašpārbaudītie",
@@ -35,6 +38,9 @@
 	"group-inactive-member": "{{GENDER:$1|neaktīvs lietotājs|neaktīva lietotāja}}",
 	"grouppage-inactive": "{{ns:project}}:Neaktīvi lietotāji",
 	"group-ipblock-exempt": "IP bloķēšanas izņēmumi",
+	"group-researcher": "Pētnieki",
+	"group-researcher-member": "{{GENDER:$1|pētnieks|pētniece}}",
+	"grouppage-researcher": "{{ns:project}}:Pētnieki",
 	"group-transwiki": "Transviki importētāji",
 	"group-trusted": "Uzticamie lietotāji",
 	"group-uploader": "Augšupielādētāji",
@@ -51,6 +57,7 @@
 	"wikibase-repo-name": "Vikidati",
 	"wikibase-otherprojects-testwikidata": "Vikidati",
 	"wikimedia-developers": "Izstrādātāji",
+	"interlanguage-link-wikipedia": "Vikipēdija",
 	"eri-rcfilters-tour-highlight-button": "Labi, sapratu",
 	"wikimedia-cookiestatement": "Sīkdatņu deklarācija"
 }
