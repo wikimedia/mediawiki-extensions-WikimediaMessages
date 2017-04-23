@@ -28,7 +28,8 @@
 			"Azeha",
 			"2nd-player",
 			"Otokoume",
-			"Darklanlan"
+			"Darklanlan",
+			"Omotecho"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -235,6 +236,9 @@
 	"protect-level-superprotect": "特別保護利用者のみに許可",
 	"restriction-level-superprotect": "特別保護",
 	"right-templateeditor": "保護されたテンプレートを編集",
+	"eri-rcfilters-tour-welcome-title": "はじめに: 編集レビューの新しいフィルタ (ベータ版)",
+	"eri-rcfilters-tour-welcome-description": "改良したツール、新しいインターフェースならびに機械学習を組み合わせて荒らしと戦い、新しい利用者を保護する",
+	"eri-rcfilters-tour-welcome-button": "わかりました",
 	"wikimedia-ipb-confirmhideuser": "利用者名の秘匿を有効にしてブロックしようとしています。実行すると、すべての一覧や記録項目で利用者名が表示されません。本当に実行しますか?\n\nウィキメディアの全てのウィキで利用者名の秘匿が必要な場合、stewards@wikimedia.org にメールを送り[[m:Special:MyLanguage/Stewards|スチュワード]]に連絡してください。",
 	"wikimedia-globalrenamequeue-email-body-approved": "利用者名\"{{GENDER:$1|$1}}\" を\"{{GENDER:$1|$2}}\" へ変更する要求が承認されました。一旦完了すると, 新しい利用者名と旧来のパスワードでログインすることができます。ウィキメディア・プロジェクトに参加していただきありがとうございます。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "利用者名\"{{GENDER:$1|$1}}\" から\"{{GENDER:$1|$2}}\" への変更を完了できませんでした。\n\nNote: $3\n\n詳細については以下のヘルプページをご覧ください。：<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. <br />\n利用者名変更の要望について議論をする場合にはこちらのページにご投稿いただけます。: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. <br />\nまず、現在のあなたのアカウント名にログインしていなければなりません。",
