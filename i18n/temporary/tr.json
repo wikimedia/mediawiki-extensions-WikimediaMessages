@@ -3,12 +3,13 @@
 		"authors": [
 			"Joseph",
 			"Karduelis",
-			"HakanIST"
+			"HakanIST",
+			"Vito Genovese"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü geçici iletiler",
 	"grouppage-oversight": "{{ns:project}}:Gözetmen",
 	"group-oversight": "Gözetmenler",
-	"group-oversight-member": "Gözetmen",
+	"group-oversight-member": "gözetmen",
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin."
 }

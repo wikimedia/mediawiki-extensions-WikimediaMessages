@@ -10,7 +10,8 @@
 			"Михајло Анђелковић",
 			"Nemo bis",
 			"Srdjan m",
-			"Сербијана"
+			"Сербијана",
+			"Obsuser"
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
@@ -183,6 +184,10 @@
 	"protect-level-editeditorprotected": "Допуштено само уредницима",
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Допуштено само аутоматски патролисаним",
+	"eri-rcfilters-tour-welcome-no-ores-description": "Прегледај измене користећи лакши и моћнији интерфејс, додатне филтере, означавање које одаберете и друга побољшања.",
+	"eri-rcfilters-tour-highlight-title": "Означи бојом своје резултате",
+	"eri-rcfilters-tour-highlight-description": "Користити означавање за визуелно распознавање одабраних својстава.<br/><br/>Можете комбиновати означавања са филтерима или користити означавање засебно.",
+	"eri-rcfilters-tour-highlight-button": "У реду, разумем",
 	"wikimedia-globalrenamequeue-email-body-approved": "Тражено преименовање „{{GENDER:$1|$1}}“ у „{{GENDER:$1|$2}}“ је одобрено. Пошто буде извршено пријављиваћете се са вашим новим корисничким именом и старом лозинком. Хвала што сте део Викимедијиних пројекта.",
 	"wikimedia-centralauth-contribs-locked": "Овај налог је глобално закључан.\nЗа више информација погледајте [[m:Special:CentralAuth/$1]].",
 	"right-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",

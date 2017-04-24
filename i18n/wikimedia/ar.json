@@ -202,6 +202,8 @@
 	"restriction-level-superprotect": "حماية فائقة",
 	"right-templateeditor": "تعديل القوالب المحمية",
 	"right-extendedconfirmed": "تعديل الصفحات المحظورة",
+	"eri-rcfilters-beta-label": "فلاتر جديدة لمشاهدة التعديلات",
+	"eri-rcfilters-beta-description": "يمكنك مشاهدة التعديلات في قسم أحدث التغييرات باستخدام واجهة أكثر قوة وسهولة، حيث تتضمن مجموعة من الفلاتر الجديدة، مثل إبراز المستخدم المعرف وغيرها من التحسينات.",
 	"wikimedia-centralauth-contribs-locked": "هذا الحساب ممنوع عالميا.\nانظر [[m:Special:CentralAuth/$1|تفاصيل الحساب العالمي]] للمزيد من المعلومات.",
 	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
 	"right-viewdeletedfile": "رؤية الملفات والصفحات المحذوفة في النطاقين {{ns:file}} و {{ns:file_talk}}",

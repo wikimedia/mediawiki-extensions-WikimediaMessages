@@ -3,7 +3,8 @@
 		"authors": [
 			"Hwangjy9",
 			"Yearning",
-			"Ykhwong"
+			"Ykhwong",
+			"Jerrykim306"
 		]
 	},
 	"search-interwiki-results-abwiki": "[[:ab:|압카즈어 위키백과]]의 결과를 보여줍니다.",
@@ -66,6 +67,7 @@
 	"search-interwiki-results-furwiki": "[[:fur:|프리우리안어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-fywiki": "[[:fy:|프리지아어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-gagwiki": "[[:gag:|가가우스어 위키백과]]의 결과를 보여줍니다.",
+	"search-interwiki-results-ganwiki": "[[:gan:|간어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-gawiki": "[[:ga:|아일랜드어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-gdwiki": "[[:gd:|스코틀랜드 게일어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-glkwiki": "[[:glk:|길라키어 위키백과]]의 결과를 보여줍니다.",
@@ -214,6 +216,7 @@
 	"search-interwiki-results-warwiki": "[[:war:|와라이어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-wawiki": "[[:wa:|왈론어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-wowiki": "[[:wo:|월로프어 위키백과]]의 결과를 보여줍니다.",
+	"search-interwiki-results-wuuwiki": "[[:wuu:|우어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-xalwiki": "[[:xal:|칼미크어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-xhwiki": "[[:xh:|코사어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-yiwiki": "[[:yi:|이디시어 위키백과]]의 결과를 보여줍니다.",
