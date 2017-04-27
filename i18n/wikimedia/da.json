@@ -12,7 +12,8 @@
 			"Nemo bis",
 			"Peter Alberti",
 			"Sarrus",
-			"Steenth"
+			"Steenth",
+			"Simeondahl"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke meddelelser",
@@ -110,7 +111,7 @@
 	"group-global-bot": "Globale robotter",
 	"group-global-bot-member": "{{GENDER:$1|global robot}}",
 	"group-global-ipblock-exempt": "Global IP-gruppefritagelser",
-	"group-global-ipblock-exempt-member": "{{GENDER:$1|IP-blokeringsundtagelse}}",
+	"group-global-ipblock-exempt-member": "{{GENDER:$1|global IP-blokeringsundtagelse}}",
 	"group-global-rollbacker": "Globale tilbagerullere",
 	"group-global-rollbacker-member": "{{GENDER:$1|global tilbageruller}}",
 	"grouppage-global-rollbacker": "m:Global rollback/nb",

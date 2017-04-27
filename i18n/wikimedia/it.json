@@ -22,7 +22,8 @@
 			"FRacco",
 			"Macofe",
 			"Statix64",
-			"Candalua"
+			"Candalua",
+			"Fringio"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -249,6 +250,9 @@
 	"right-editextendedsemiprotected": "Modifica pagine protette con \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Consentito solo agli autoverificati",
 	"restriction-level-editextendedsemiprotected": "protetta autoverificato",
+	"eri-rcfilters-beta-label": "Nuovi filtri per la revisione delle modifiche",
+	"eri-rcfilters-beta-description": "Revisiona le modifiche in Ultime modifiche usando un'interfaccia più semplice e funzionale. Include nuovi filtri, evidenziazione definita dall'utente e altre migliorie.",
+	"eri-rcfilters-tour-welcome-title": "Introduzione dei Nuovi filtri per le Ultime modifiche (beta)",
 	"eri-rcfilters-tour-welcome-button": "OK, ho capito",
 	"eri-rcfilters-tour-highlight-button": "OK, ho capito",
 	"wikimedia-centralauth-contribs-locked": "Questo utente è bloccato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
