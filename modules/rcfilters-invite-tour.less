@@ -1,0 +1,50 @@
+.mw-guidedtour-tour-RcFiltersInvite {
+	padding: 40px;
+
+	.guider_content {
+		background-position-x: 50%;
+		background-repeat: no-repeat;
+
+		.guider_close {
+			display: none;
+		}
+
+		.guider_description {
+			font-size: 1.2em;
+			color: #808080;
+
+			p {
+				color: #808080;
+			}
+		}
+	}
+
+	// first step (Invite)
+	&#gt-RcFiltersInvite-Invite {
+		width: 290px !important;
+		height: 405px !important;
+		.guider_content {
+			/* @embed */
+			background-image: url( images/rc-beta-tour-welcome-ltr.gif );
+			// Make space for the image
+			padding-top: 200px;
+		}
+	}
+
+	// second step (Confirm)
+	&#gt-RcFiltersInvite-Confirm {
+		width: 290px !important;
+		height: 190px !important;
+		.guider_content {
+			/* @embed */
+			background-image: url( images/feedback-blue-ltr.svg );
+			// Make space for the image
+			padding-top: 70px;
+
+			.guider_buttons {
+				display: none;
+			}
+		}
+	}
+
+}

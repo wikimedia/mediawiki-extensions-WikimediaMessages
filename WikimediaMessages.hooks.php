@@ -1342,18 +1342,24 @@ class WikimediaMessagesHooks {
 
 		if (
 			$title->isSpecial( 'Recentchanges' ) &&
-			$user->isLoggedIn() &&
-			!!$user->getOption( 'rcenhancedfilters' )
+			$user->isLoggedIn()
 		) {
-			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
-				GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
-				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
-			}
+			if ( $user->getOption( 'rcenhancedfilters' ) ) {
+				if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
+					GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
+					$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
+				}
 
-			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
-				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
-			}
+				if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
+					$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
+				}
 
+				if ( $user->getOption( 'rcenhancedfilters-show-invite-confirmation' ) ) {
+					GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Confirm' );
+				}
+			} elseif ( !$user->getOption( 'rcenhancedfilters-seen-invite' ) ) {
+				GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Invite' );
+			}
 		}
 	}
 
@@ -1393,6 +1399,28 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
+
+			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersInvite', [
+				'localBasePath' => __DIR__ . '/modules',
+				'remoteExtPath' => 'WikimediaMessages/modules',
+				'scripts' => [
+					'rcfilters-invite-tour.js',
+				],
+				'styles' => 'rcfilters-invite-tour.less',
+				'messages' => [
+					'eri-rcfilters-tour-invite-title',
+					'eri-rcfilters-tour-invite-description',
+					'eri-rcfilters-tour-invite-learnmore-link-label',
+					'eri-rcfilters-tour-invite-yes-button',
+					'eri-rcfilters-tour-invite-no-button',
+					'eri-rcfilters-tour-confirm-title',
+					'eri-rcfilters-tour-confirm-description',
+				],
+				'dependencies' => [
+					'ext.guidedTour'
+				],
+			] );
+
 		}
 
 		return true;
@@ -1414,7 +1442,15 @@ class WikimediaMessagesHooks {
 			'type' => 'api',
 		];
 
+		$preferences[ 'rcenhancedfilters-seen-invite' ] = [
+			'type' => 'api',
+		];
+
 		$preferences[ 'rcenhancedfilters-seen-highlight-button-counter' ] = [
+			'type' => 'api',
+		];
+
+		$preferences[ 'rcenhancedfilters-show-invite-confirmation' ] = [
 			'type' => 'api',
 		];
 
