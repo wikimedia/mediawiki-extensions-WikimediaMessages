@@ -1347,11 +1347,11 @@ class WikimediaMessagesHooks {
 		) {
 			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
 				GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
+				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
 			}
 
 			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
 				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
-				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
 			}
 
 		}
