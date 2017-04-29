@@ -14,7 +14,8 @@
 			"Tokoko",
 			"לערי ריינהארט",
 			"გიორგიმელა",
-			"SHOTHA"
+			"SHOTHA",
+			"Otogi"
 		]
 	},
 	"wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
@@ -172,5 +173,7 @@
 	"wikimediashoplink-link-tooltip": "ეწვიეთ ვიკიპედიის მაღაზიას",
 	"interlanguage-link-mul": "მეტი ენა",
 	"interlanguage-link-wikipedia": "ვიკიპედია",
-	"interlanguage-link-commons": "ვიკისაწყობი"
+	"interlanguage-link-commons": "ვიკისაწყობი",
+	"eri-rcfilters-beta-label": "რედაქტირების გადახედვის ახალი ფილტრები",
+	"eri-rcfilters-beta-description": "რედაქტირებების გადახედვა ბოლო ცვლილებებში უფრო ადვილი და მძლავრი ინტერფეისით. შეიცავს ახალ ფილტრებს, სამომხმარებლო შენათებასა და სხვა გაუმჯობესებებს."
 }

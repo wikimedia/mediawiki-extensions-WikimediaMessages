@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Luckas"
+			"Luckas",
+			"Felipe L. Ewald"
 		]
 	},
-	"contactpage-license-request-use-print": "Imprimir"
+	"contactpage-license-request-use-print": "Imprimir",
+	"contactpage-license-request-description": "Descrição do uso"
 }
