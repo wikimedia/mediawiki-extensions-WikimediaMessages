@@ -29,7 +29,7 @@
 				.hide();
 		};
 
-	mw.hook( 'RcFilters.popup.open' ).add( function ( selectedFilterName ) {
+	mw.hook( 'RcFilters.popup.open' ).add( function () {
 		var seenCounter;
 
 		if ( mw.user.isAnon() ) {
@@ -37,11 +37,6 @@
 		}
 
 		if ( mw.user.options.get( 'rcenhancedfilters-tried-highlight' ) ) {
-			return;
-		}
-
-		if ( selectedFilterName ) {
-			// There's a selected filter so the highlight button is probably not visible
 			return;
 		}
 
