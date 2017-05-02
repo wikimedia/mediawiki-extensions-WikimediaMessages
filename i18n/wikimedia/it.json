@@ -255,6 +255,10 @@
 	"eri-rcfilters-tour-welcome-title": "Introduzione: nuovi filtri per la revisione delle ultime modifiche (beta)",
 	"eri-rcfilters-tour-welcome-button": "OK, ho capito",
 	"eri-rcfilters-tour-highlight-button": "OK, ho capito",
+	"eri-rcfilters-tour-invite-learnmore-link-label": "Ulteriori informazioni",
+	"eri-rcfilters-tour-invite-yes-button": "Attiva i nuovi filtri",
+	"eri-rcfilters-tour-invite-no-button": "No, grazie",
+	"eri-rcfilters-tour-confirm-title": "I nuovi filtri ora sono attivi",
 	"wikimedia-centralauth-contribs-locked": "Questo utente è bloccato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
 	"wikimedia-mwoauthserver-invalid-user": "Si è verificato un problema con l'accesso globale. Se hai appena creato la tua utenza, esci e rientra, e poi ritenta ad autorizzare nuovamente l'applicazione. Se non hai appena creato la tua utenza, visita [https://meta.wikimedia.org/ meta.wikimedia.org], e poi ritenta ad autorizzare nuovamente l'applicazione. (Codice errore: E008)",
 	"wikimedia-cookiestatement": "Dichiarazione sui cookie"
