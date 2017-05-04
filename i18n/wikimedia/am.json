@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Codex Sinaiticus"
+			"Codex Sinaiticus",
+			"Yeniesil"
 		]
 	},
 	"sitesupport": "መዋጮ ለመስጠት",
 	"tooltip-n-sitesupport": "የገንዘብ ስጦታ ለዊኪሜድያ ይስጡ",
 	"group-founder": "መስራች",
-	"group-founder-member": "መስራች"
+	"group-founder-member": "መስራች",
+	"eri-rcfilters-tour-invite-no-button": "አይ፣ አመሰግናለሁ"
 }

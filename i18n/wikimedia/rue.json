@@ -4,13 +4,14 @@
 			"Gazeb",
 			"Krinkle",
 			"Tkalyn",
-			"Dicto23456"
+			"Dicto23456",
+			"KHMELNYTSKYIA"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлїня, характерістічны про Вікімедію",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=rue",
 	"sitesupport": "Підпорьте нас",
-	"tooltip-n-sitesupport": "Підпорьте нас",
+	"tooltip-n-sitesupport": "Пумужіт проекту",
 	"specialpages-group-contribution": "Приспевкы/фінанцованя",
 	"nstab-creator": "Автор",
 	"nstab-institution": "Інштітуція",
@@ -98,7 +99,7 @@
 	"group-steward-member": "стевард",
 	"group-sysadmin": "Сістемовы адміністраторы",
 	"group-sysadmin-member": "сістемный адміністратор",
-	"wikimedia-copyright": "Текст є доступный під <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.rue\">ліценціов Creative Commons Зазначте автора&nbsp;– Уховайте ліценцію</a>, припадно за далшых условій. Детайлы найдете на сторінцї <a href=\"https://wikimediafoundation.org/wiki/Условія_схоснованя\">Условія схоснованя</a>.",
+	"wikimedia-copyright": "Текст доступний на умовах ліцензії <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nтакож можуть діяти додаткові умови.\nДетальніше див. <a href=\"https://wikimediafoundation.org/wiki/Умови_використання\">Умови використання</a>.",
 	"wikimedia-copyrightwarning": "Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [https://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[https://wikimediafoundation.org/wiki/Условія_хоснованя условіях хоснованя].",
 	"wikibase-repo-name": "Вікіданы",
 	"wikimedia-developers": "Розробники",

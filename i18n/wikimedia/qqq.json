@@ -312,7 +312,7 @@
 	"eri-rcfilters-tour-highlight-description": "Description of the first step of the guided tour introducing the RC filters highlight feature.",
 	"eri-rcfilters-tour-highlight-button": "Text of the button to close the RC filters highlight feature guided tour.",
 	"eri-rcfilters-tour-invite-title": "Title of the first step of the guided tour inviting users to try the RC Filters beta feature.",
-	"eri-rcfilters-tour-invite-description": "Main text of the first step of the guided tour inviting users to try the RC Filters beta feature.",
+	"eri-rcfilters-tour-invite-description": "Main text of the first step of the guided tour inviting users to try the RC Filters beta feature.\n\n\"New filters for edit review\" refers to {{msg-mw|Eri-rcfilters-beta-label}}.",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "Label of the link to learn more about the RC Filters beta feature on the guided tour.",
 	"eri-rcfilters-tour-invite-yes-button": "Text of the button to enable the RC Filters beta feature from the guided tour.",
 	"eri-rcfilters-tour-invite-no-button": "Text of the button to dismiss the guided tour about the RC Filters beta feature.",

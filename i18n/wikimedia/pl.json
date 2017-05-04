@@ -262,6 +262,8 @@
 	"eri-rcfilters-tour-welcome-description": "Połącz ulepszone narzędzia, nowy interfejs i moc samouczącej się maszyny, aby walczyć z wandalizmami i pomagać nowym użytkownikom.",
 	"eri-rcfilters-tour-welcome-button": "Ok, rozumiem",
 	"eri-rcfilters-tour-highlight-button": "Ok, rozumiem",
+	"eri-rcfilters-tour-invite-learnmore-link-label": "Dowiedz się więcej",
+	"eri-rcfilters-tour-invite-no-button": "Nie, dziękuję",
 	"wikimedia-feedback-termsofuse": "Zgadzam się udostępnić komentarz zgodnie z <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">warunkami korzystania</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Wniosek o zmianę nazwy \"{{GENDER:$1|$1}}\" na \"{{GENDER:$1|$2}}\" został zatwierdzony. Po zakończeniu, będziesz {{GENDER:$1|mógł|mogła}} zalogować się za pomocą nowej nazwy użytkownika i starego hasła. Dziękujemy za udział w projektach Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
