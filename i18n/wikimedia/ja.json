@@ -29,7 +29,8 @@
 			"2nd-player",
 			"Otokoume",
 			"Darklanlan",
-			"Omotecho"
+			"Omotecho",
+			"Mirinano"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -140,6 +141,7 @@
 	"group-global-ipblock-exempt": "グローバルIPブロック適用除外者",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|グローバルIPブロック適用除外者}}",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
+	"group-global-renamer": "グローバル利用者名変更者",
 	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "グローバル巻き戻し者",
 	"group-global-rollbacker-member": "{{GENDER:$1|グローバル巻き戻し者}}",

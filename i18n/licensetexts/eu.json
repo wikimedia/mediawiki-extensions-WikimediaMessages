@@ -8,10 +8,10 @@
 			"Multichill",
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
-			"Sator"
+			"Sator",
+			"Subi"
 		]
 	},
-	"wikimedialicensetexts-desc": "Wikimedia lizentzien mezuak",
 	"wm-license-artwork-artist": "Artista",
 	"wm-license-artwork-title": "Izenburua",
 	"wm-license-artwork-medium": "Teknika",
@@ -47,6 +47,7 @@
 	"wm-license-fsf-wiki-link": "w:eu:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:eu:Software libre",
 	"wm-license-gfdl-1.2-and-later": "Baimena duzu dokumentu hau kopiatu, banatu edo/eta aldatzeko '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' baldintzapean, [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundationek]] argitaratutako 1.2 edo ondorengo bertsioan; sekzio aldaezinik gabe, azaleko testurik gabe, eta atzeko azaleko testurik gabe. Lizentziaren kopia dago ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' izenburudun atalean.",
+	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;bakarrik",
 	"wm-license-gfdl-wiki-link": "w:eu:GNU Free Documentation License",
 	"wm-license-gpl-wiki-link": "w:eu:GNU General Public License",
 	"wm-license-information-table-summary": "Taula estandarra, fitxategiari buruzko informazioa biltzen duena, deskribapen orokorrarekin, jatorria eta copyright informazioaz.",
