@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sator"
+			"Sator",
+			"Subi"
 		]
 	},
+	"contactpage-affcom-user-group-logo-community": "Wikimedia komunitatearen logotipoa",
 	"contactpage-affcom-user-group-logo-affiliate": "Wikimediako afiliatu logoa"
 }

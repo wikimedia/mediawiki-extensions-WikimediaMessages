@@ -11,7 +11,8 @@
 			"Max20091",
 			"Dinhxuanduyet",
 			"KhangND",
-			"Nguyên Lê"
+			"Nguyên Lê",
+			"Prenn"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -266,6 +267,8 @@
 	"right-editextendedsemiprotected": "Sửa đổi các trang có mức độ khóa “{{int:protect-level-editextendedsemiprotected}}”",
 	"protect-level-editextendedsemiprotected": "Chỉ cho phép những người tự duyệt",
 	"restriction-level-editextendedsemiprotected": "hạn chế cho người tự duyệt",
+	"eri-rcfilters-beta-label": "Bộ lọc duyệt sửa đổi mới",
+	"eri-rcfilters-beta-description": "Sử dụng giao diện mạnh mẽ và dễ dùng hơn khi duyệt sửa đổi trên trang Thay đổi gần đây. Bao gồm nhiều bộ lọc mới, tính năng làm nổi bật sửa đổi theo bộ lọc và các cải tiến khác.",
 	"wikimedia-ipb-confirmhideuser": "Bạn sắp sửa cấm người dùng có cờ “ẩn người dùng”. Điều này sẽ ẩn tên người dùng trong tất cả các danh sách và mục nhật trình trong wiki này. Bạn có chắc chắn muốn thực hiện điều này?\n\nNếu tên người dùng cần được ẩn trong tất cả các wiki của Wikimedia, xin vui lòng liên lạc với các [[m:Special:MyLanguage/Stewards|tiếp viên]] tại stewards@wikimedia.org.",
 	"wikimedia-feedback-termsofuse": "Tôi đồng ý cung cấp thông tin phản hồi theo <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/vi?uselang=vi\" target=\"_blank\">các Điều khoản Sử dụng</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Lời yêu cầu đổi tên “$1” thành “$2” đã được chấp nhận. Hệ thống cập nhật xong xuôi thì bạn sẽ có thể đăng nhập bằng tên người dùng mới và mật khẩu cũ. Cảm ơn bạn tiếp tục tham gia các dự án Wikimedia.",
