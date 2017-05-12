@@ -184,6 +184,8 @@
 	"eri-rcfilters-tour-welcome-button": "U redu, shvaćam",
 	"eri-rcfilters-tour-highlight-description": "Rabite označavanje da biste vizualno razlikovali označena svojstva.<br/><br/>Spojite označavanja s filterima ili samostalno rabite označavanje.",
 	"eri-rcfilters-tour-highlight-button": "U redu, shvaćam",
+	"eri-rcfilters-tour-invite-title": "Za ove stranice dostupna je nova beta mogućnost",
+	"eri-rcfilters-tour-invite-description": "Isprobajte '''nove filtere za pregledavanje uređivanja'''.",
 	"wikimedia-centralauth-uwbr-intro": "Ova stranica prikazuje popis suradnika registriranih na ovom wikiju koji će biti preimenovani zbog [[m:Single User Login finalisation announcement|spajanja svih suradničkih računa u sustav središnje prijave (SUL)]]. Više informacija možete naći [[m:Help:Unified login|ovdje]]. Suradnici  [[Special:GlobalRenameRequest|ovdje]] mogu bilo kada zatražiti preimenovanje.",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }

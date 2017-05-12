@@ -192,10 +192,13 @@
 	"eri-rcfilters-tour-highlight-title": "Razlikujte rezultate pomoću boja",
 	"eri-rcfilters-tour-highlight-description": "Istaknite izabrana svojstva koristeći boje.<br/><br/>Mogućnost isticanja možete kombinirati s filterima ili je koristiti zasebno.",
 	"eri-rcfilters-tour-highlight-button": "Razumijem",
+	"eri-rcfilters-tour-invite-title": "Dostupna je nova beta mogućnost za ovu stranicu",
+	"eri-rcfilters-tour-invite-description": "Isprobajte \"'''Nove filtere za pregled izmjena'''\". Nađite najrelevantnije izmjene za svoje potrebe",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "Detaljnije",
 	"eri-rcfilters-tour-invite-yes-button": "Uključi novi filtere",
 	"eri-rcfilters-tour-invite-no-button": "Ne, hvala",
-	"eri-rcfilters-tour-confirm-title": "Novi filteri su sad uključeni",
+	"eri-rcfilters-tour-confirm-title": "Novi filteri sad su uključeni",
+	"eri-rcfilters-tour-confirm-description": "Možete otvoriti <strong>stranicu za beta mogućnosti</strong> da biste dali povratne informacije ili isključili ovu mogućnost.",
 	"wikimedia-centralauth-contribs-locked": "Ovaj račun je globalno blokiran.\nZa više informacija, pogledajte [[m:Special:CentralAuth/$1|detalje o globalnom računu]].",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }
