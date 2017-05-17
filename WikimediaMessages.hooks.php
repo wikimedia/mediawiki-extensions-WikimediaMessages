@@ -1049,12 +1049,12 @@ class WikimediaMessagesHooks {
 				'Wikidane'     => 'Wikidanych',
 			),
 			'W.lp' => array(
-				'wikipedysta'  => 'Wikipedysto',
+				'wikipedysta'  => 'wikipedysto',
 				'Wikipedia'    => 'Wikipedio',
 				'Wikisłownik'  => 'Wikisłowniku',
-				'użytkownik'   => 'Użytkowniku',
-				'wikireporter' => 'Wikireporterze',
-				'wikiskryba'   => 'Wikiskrybo',
+				'użytkownik'   => 'użytkowniku',
+				'wikireporter' => 'wikireporterze',
+				'wikiskryba'   => 'wikiskrybo',
 			),
 			'M.lm' => array(
 				'wikipedysta'  => 'wikipedyści',
@@ -1093,10 +1093,10 @@ class WikimediaMessagesHooks {
 				'wikiskryba'   => 'wikiskrybach',
 			),
 			'W.lm' => array(
-				'wikipedysta'  => 'Wikipedyści',
-				'użytkownik'   => 'Użytkownicy',
-				'wikireporter' => 'Wikireporterzy',
-				'wikiskryba'   => 'Wikiskrybowie',
+				'wikipedysta'  => 'wikipedyści',
+				'użytkownik'   => 'użytkownicy',
+				'wikireporter' => 'wikireporterzy',
+				'wikiskryba'   => 'wikiskrybowie',
 			),
 		); # pl
 
