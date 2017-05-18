@@ -22,7 +22,7 @@ class WikimediaMessagesHooks {
 	public static function onMessageCacheGet( &$lcKey ) {
 		global $wgLanguageCode, $wmfRealm;
 
-		static $keys = array(
+		static $keys = [
 			'acct_creation_throttle_hit',
 			'centralauth-contribs-locked',
 			'centralauth-uwbr-intro',
@@ -44,7 +44,7 @@ class WikimediaMessagesHooks {
 			'sidebar',
 			'sulrenamewarning-usenew',
 			'ipb-confirmhideuser', // T121639
-		);
+		];
 
 		if ( $wmfRealm === 'labs' && $lcKey === 'privacypage' ) {
 			$lcKey = 'wikimedia-privacypage-labs';
@@ -64,15 +64,17 @@ class WikimediaMessagesHooks {
 
 			$cache = MessageCache::singleton();
 			if (
-				// Override order:
-				// 1. If the MediaWiki:$ucKey page exists, use the key unprefixed
-				// (in all languages) with normal fallback order.  Specific
-				// language pages (MediaWiki:$ucKey/xy) are not checked when
-				// deciding which key to use, but are still used if applicable
-				// after the key is decided.
-				//
-				// 2. Otherwise, use the prefixed key with normal fallback order
-				// (including MediaWiki pages if they exist).
+				/*
+				 * Override order:
+				 * 1. If the MediaWiki:$ucKey page exists, use the key unprefixed
+				 * (in all languages) with normal fallback order.  Specific
+				 * language pages (MediaWiki:$ucKey/xy) are not checked when
+				 * deciding which key to use, but are still used if applicable
+				 * after the key is decided.
+				 *
+				 * 2. Otherwise, use the prefixed key with normal fallback order
+				 * (including MediaWiki pages if they exist).
+				 */
 				$cache->getMsgFromNamespace( $ucKey, $wgLanguageCode ) === false
 			) {
 				$lcKey = $transformedKey;
@@ -98,7 +100,7 @@ class WikimediaMessagesHooks {
 		// return Wikipedia here.  Before deploying GettingStarted to one, find a
 		// way to determine the real family.
 		if ( $site === 'wikipedia' ) {
-			if ( in_array( $lcKey, array(
+			if ( in_array( $lcKey, [
 				"gettingstarted-task-toolbar-try-another-text",
 				"gettingstarted-task-toolbar-no-suggested-page",
 				"gettingstarted-task-copyedit-toolbar-description",
@@ -111,7 +113,7 @@ class WikimediaMessagesHooks {
 				"guidedtour-tour-gettingstarted-click-preview-description",
 				"gettingstarted-cta-edit-page",
 				"gettingstarted-cta-fix-pages",
-			) ) ) {
+			] ) ) {
 				return "{$lcKey}-wikipedia";
 			}
 		}
@@ -133,10 +135,10 @@ class WikimediaMessagesHooks {
 	public static function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
 		global $wgRightsUrl;
 
-		if( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+		if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			if ( $type !== 'history' ) {
 				global $wgDBname;
-				if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
+				if ( in_array( $wgDBname, [ 'wikidatawiki', 'testwikidatawiki' ] ) ) {
 					$msg = 'wikidata-copyright';
 				} else {
 					$msg = 'wikimedia-copyright'; // the default;
@@ -159,8 +161,8 @@ class WikimediaMessagesHooks {
 	public static function onEditPageCopyrightWarning( $title, &$msg ) {
 		global $wgRightsUrl;
 
-		if( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
-			$msg = array( 'wikimedia-copyrightwarning' );
+		if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+			$msg = [ 'wikimedia-copyrightwarning' ];
 		}
 
 		return true;
@@ -180,11 +182,11 @@ class WikimediaMessagesHooks {
 	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg ) {
 		global $wgRightsUrl, $wgDBname;
 
-		if ( in_array( $wgDBname, array( 'wikidatawiki', 'testwikidatawiki' ) ) ) {
+		if ( in_array( $wgDBname, [ 'wikidatawiki', 'testwikidatawiki' ] ) ) {
 			// Wikidata needs its own special message. See T112088
 			$msg = 'wikidata-copyright';
 			$link = ' '; // Set this to space to avoid confusion (empty string wont work)
-		} elseif( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+		} elseif ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			// We only display the dual licensing stack in the editor and talk interfaces
 			if ( $context === 'editor' || $context === 'talk' ) {
 				$link = wfMessage( 'wikimedia-mobile-license-links' )
@@ -205,25 +207,26 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	public static function onSkinTemplateOutputPageBeforeExec( &$skin, &$template ) {
-		$devDestination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
+		$devDestination = Skin::makeInternalOrExternalUrl(
+			$skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
 		$devLink = Html::element(
 			'a',
-			array( 'href' => $devDestination ),
+			[ 'href' => $devDestination ],
 			$skin->msg( 'wikimedia-developers' )->text()
 		);
 		$template->set( 'developers', $devLink );
 		$template->data['footerlinks']['places'][] = 'developers';
-		$cookieDestination = Skin::makeInternalOrExternalUrl( $skin->msg( 'wikimedia-cookiestatement-page' )->inContentLanguage()->text() );
+		$cookieDestination = Skin::makeInternalOrExternalUrl(
+			$skin->msg( 'wikimedia-cookiestatement-page' )->inContentLanguage()->text() );
 		$cookieLink = Html::element(
 			'a',
-			array( 'href' => $cookieDestination ),
+			[ 'href' => $cookieDestination ],
 			$skin->msg( 'wikimedia-cookiestatement' )->text()
 		);
 		$template->set( 'cookiestatement', $cookieLink );
 		$template->data['footerlinks']['places'][] = 'cookiestatement';
 		return true;
 	}
-
 
 	/**
 	 * Set the message on TorBlock being triggered
@@ -311,57 +314,57 @@ class WikimediaMessagesHooks {
 	public static function onRegistration() {
 		global $wgGrammarForms;
 
-		$wgGrammarForms['ang'] = array(
-			# accusative
-			'wrēgendlīc' => array(
+		$wgGrammarForms['ang'] = [
+			// accusative
+			'wrēgendlīc' => [
 				'Wikipǣdia' => 'Wikipǣdie',
 				'Wikiwordbōc' => 'Wikiwordbōc',
-			),
-			# genitive
-			'geāgniendlīc' => array(
+			],
+			// genitive
+			'geāgniendlīc' => [
 				'Wikipǣdia' => 'Wikipǣdie',
 				'Wikiwordbōc' => 'Wikiwordbēc',
-			),
-			# dative
-			'forgifendlīc' => array(
+			],
+			// dative
+			'forgifendlīc' => [
 				'Wikipǣdia' => 'Wikipǣdie',
 				'Wikiwordbōc' => 'Wikiwordbēc',
-			),
-			# instrumental
-			'tōllīc' => array(
+			],
+			// instrumental
+			'tōllīc' => [
 				'Wikipǣdia' => 'Wikipǣdie',
 				'Wikiwordbōc' => 'Wikiwordbēc',
-			),
-		); # ang
+			],
+		]; // ang
 
-		$wgGrammarForms['be'] = array(
-			# genitive
-			'родны' => array(
+		$wgGrammarForms['be'] = [
+			// genitive
+			'родны' => [
 				'ВікіВіды'    => 'ВікіВідаў',
 				'ВікіКнігі'   => 'ВікіКніг',
 				'Вікікрыніцы' => 'Вікікрыніц',
 				'ВікіНавіны'  => 'ВікіНавін',
 				'Вікіслоўнік' => 'Вікіслоўніка',
 				'Вікіпедыя'   => 'Вікіпедыі',
-			),
-			# accusative
-			'вінавальны' => array(
+			],
+			// accusative
+			'вінавальны' => [
 				'Вікіпедыя'   => 'Вікіпедыю',
-			),
-			# prepositional
-			'месны' => array(
+			],
+			// prepositional
+			'месны' => [
 				'ВікіВіды'    => 'ВікіВідах',
 				'ВікіКнігі'   => 'ВікіКнігах',
 				'Вікікрыніцы' => 'Вікікрыніцах',
 				'ВікіНавіны'  => 'ВікіНавінах',
 				'Вікіслоўнік' => 'Вікіслоўніку',
 				'Вікіпедыя'   => 'Вікіпедыі',
-			),
-		); # be
+			],
+		]; // be
 
-		$wgGrammarForms['be-tarask'] = array(
-			# genitive
-			'родны' => array(
+		$wgGrammarForms['be-tarask'] = [
+			// genitive
+			'родны' => [
 				'Віківіды'    => 'Віківідаў',
 				'Вікізьвесткі'=> 'Вікізьвестак',
 				'Вікікнігі'   => 'Вікікніг',
@@ -372,9 +375,9 @@ class WikimediaMessagesHooks {
 				'Вікіслоўнік' => 'Вікіслоўніка',
 				'Вікісховішча'=> 'Вікісховішча',
 				'Фундацыя «Вікімэдыя»' => 'Фундацыі «Вікімэдыя»',
-			),
-			# dative
-			'давальны' => array(
+			],
+			// dative
+			'давальны' => [
 				'Віківіды'    => 'Віківідам',
 				'Вікізьвесткі'=> 'Вікізьвесткам',
 				'Вікікнігі'   => 'Вікікнігам',
@@ -385,9 +388,9 @@ class WikimediaMessagesHooks {
 				'Вікіслоўнік' => 'Вікіслоўніку',
 				'Вікісховішча'=> 'Вікісховішчу',
 				'Фундацыя «Вікімэдыя»' => 'Фундацыі «Вікімэдыя»',
-			),
-			# accusative
-			'вінавальны' => array(
+			],
+			// accusative
+			'вінавальны' => [
 				'Віківіды'    => 'Віківіды',
 				'Вікізьвесткі'=> 'Вікізьвесті',
 				'Вікікнігі'   => 'Вікікнігі',
@@ -398,9 +401,9 @@ class WikimediaMessagesHooks {
 				'Вікіслоўнік' => 'Вікіслоўнік',
 				'Вікісховішча'=> 'Вікісховішча',
 				'Фундацыя «Вікімэдыя»' => 'Фундацыю «Вікімэдыя»',
-			),
-			# instrumental
-			'творны' => array(
+			],
+			// instrumental
+			'творны' => [
 				'Віківіды'    => 'Віківідамі',
 				'Вікізьвесткі'=> 'Вікізьвесткамі',
 				'Вікікнігі'   => 'Вікікнігамі',
@@ -411,9 +414,9 @@ class WikimediaMessagesHooks {
 				'Вікіслоўнік' => 'Вікіслоўнікам',
 				'Вікісховішча'=> 'Вікісховішчам',
 				'Фундацыя «Вікімэдыя»' => 'Фундацыяй «Вікімэдыя»',
-			),
-			# prepositional
-			'месны' => array(
+			],
+			// prepositional
+			'месны' => [
 				'Віківіды'    => 'Віківідах',
 				'Вікізьвесткі'=> 'Вікізьвестках',
 				'Вікікнігі'   => 'Вікікнігах',
@@ -424,12 +427,12 @@ class WikimediaMessagesHooks {
 				'Вікіслоўнік' => 'Вікіслоўніку',
 				'Вікісховішча'=> 'Вікісховішчы',
 				'Фундацыя «Вікімэдыя»' => 'Фундацыі «Вікімэдыя»',
-			),
-		); # be-tarask
+			],
+		]; // be-tarask
 
-		$wgGrammarForms['bs'] = array(
-			# genitive
-			'genitiv' => array(
+		$wgGrammarForms['bs'] = [
+			// genitive
+			'genitiv' => [
 				'Vikirječnik' => 'Wikirječnika',
 				'Wikicitati'  => 'Wikicitata',
 				'Wikiizvor'   => 'Wikiizvora',
@@ -437,9 +440,9 @@ class WikimediaMessagesHooks {
 				'Wikipedia'   => 'Wikipedije',
 				'Wikipodaci'  => 'Wikipodataka',
 				'Wikimedia Commons' => 'Wikimedia Commonsa',
-			),
-			# dative
-			'dativ' => array(
+			],
+			// dative
+			'dativ' => [
 				'Vikirječnik' => 'Wikirječniku',
 				'Wikicitati'  => 'Wikicitatima',
 				'Wikiizvor'   => 'Wikiizvoru',
@@ -448,24 +451,24 @@ class WikimediaMessagesHooks {
 				'Wikipodaci'  => 'Wikipodacima',
 				'Wikivijesti' => 'Wikivijestima',
 				'Wikimedia Commons' => 'Wikimedia Commonsu',
-			),
-			# accusative
-			'akuzativ' => array(
+			],
+			// accusative
+			'akuzativ' => [
 				'Vikirječnik' => 'Wikirječnik',
 				'Wikicitati'  => 'Wikicitate',
 				'Wikiizvor'   => 'Wikiizvora',
 				'Wikipedia'   => 'Wikipediju',
 				'Wikipodaci'  => 'Wikipodatke',
-			),
-			# vocative
-			'vokativ' => array(
+			],
+			// vocative
+			'vokativ' => [
 				'Vikirječnik' => 'Wikirječniče',
 				'Wikiizvor'   => 'Wikizivoru',
 				'Wikipedia'   => 'Wikipedijo',
 				'Wikimedia Commons' => 'Wikimedia Commonse',
-			),
-			# instrumental
-			'instrumental' => array(
+			],
+			// instrumental
+			'instrumental' => [
 				'Vikirječnik' => 's Wikirječnikom',
 				'Wikicitati'  => 's Wikicitatima',
 				'Wikiizvor'   => 's Wikiizvorom',
@@ -474,9 +477,9 @@ class WikimediaMessagesHooks {
 				'Wikipodaci'  => 's Wikipodacima',
 				'Wikivijesti' => 's Wikivijestima',
 				'Wikimedia Commons' => 's Wikimedia Commonsom',
-			),
-			# locative
-			'lokativ' => array(
+			],
+			// locative
+			'lokativ' => [
 				'Vikirječnik' => 'o Wikirječniku',
 				'Wikicitati'  => 'o Wikicitatima',
 				'Wikiizvor'   => 'o Wikiizvoru',
@@ -485,12 +488,12 @@ class WikimediaMessagesHooks {
 				'Wikipodaci'  => 'o Wikipodacima',
 				'Wikivijesti' => 'o Wikivijestima',
 				'Wikimedia Commons' => 'o Wikimedia Commonsu',
-			),
-		); # bs
+			],
+		]; // bs
 
-		$wgGrammarForms['cs'] = array(
-			# only forms different than default/given
-			'1sg' => array(
+		$wgGrammarForms['cs'] = [
+			// only forms different than default/given
+			'1sg' => [
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikinews'    => 'Wikizprávy',
 				'Wikipedia'   => 'Wikipedie',
@@ -500,8 +503,8 @@ class WikimediaMessagesHooks {
 				'Wikiversity' => 'Wikiverzita',
 				'Wikivoyage'  => 'Wikicesty',
 				'Wiktionary'  => 'Wikislovník',
-			),
-			'2sg' => array(
+			],
+			'2sg' => [
 				'uživatel'    => 'uživatele',
 				'Wikibooks'   => 'Wikiknih',
 				'Wikidata'    => 'Wikidat',
@@ -521,8 +524,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzity',
 				'Wikizdroje'  => 'Wikizdrojů',
 				'Wikizprávy'  => 'Wikizpráv',
-			),
-			'3sg' => array(
+			],
+			'3sg' => [
 				'uživatel'    => 'uživateli',
 				'Wikibooks'   => 'Wikiknihám',
 				'Wikidata'    => 'Wikidatům',
@@ -543,8 +546,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzitě',
 				'Wikizdroje'  => 'Wikizdrojům',
 				'Wikizprávy'  => 'Wikizprávám',
-			),
-			'4sg' => array(
+			],
+			'4sg' => [
 				'uživatel'    => 'uživatele',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikinews'    => 'Wikizprávy',
@@ -557,8 +560,8 @@ class WikimediaMessagesHooks {
 				'Wiktionary'  => 'Wikislovník',
 				'Wikipedie'   => 'Wikipedii',
 				'Wikiverzita' => 'Wikiverzitu',
-			),
-			'5sg' => array(
+			],
+			'5sg' => [
 				'uživatel'    => 'uživateli',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikinews'    => 'Wikizprávy',
@@ -571,8 +574,8 @@ class WikimediaMessagesHooks {
 				'Wiktionary'  => 'Wikislovníku',
 				'Wikislovník' => 'Wikislovníku',
 				'Wikiverzita' => 'Wikiverzito',
-			),
-			'6sg' => array(
+			],
+			'6sg' => [
 				'uživatel'    => 'uživateli',
 				'Wikibooks'   => 'Wikiknihách',
 				'Wikidata'    => 'Wikidatech',
@@ -593,8 +596,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzitě',
 				'Wikizdroje'  => 'Wikizdrojích',
 				'Wikizprávy'  => 'Wikizprávách',
-			),
-			'7sg' => array(
+			],
+			'7sg' => [
 				'uživatel'    => 'uživatelem',
 				'Wikibooks'   => 'Wikiknihami',
 				'Wikidata'    => 'Wikidaty',
@@ -613,8 +616,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzitou',
 				'Wikizdroje'  => 'Wikizdroji',
 				'Wikizprávy'  => 'Wikizprávami',
-			),
-			'1pl' => array(
+			],
+			'1pl' => [
 				'uživatel'    => 'uživatelé',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikinews'    => 'Wikizprávy',
@@ -627,8 +630,8 @@ class WikimediaMessagesHooks {
 				'Wiktionary'  => 'Wikislovníky',
 				'Wikislovník' => 'Wikislovníky',
 				'Wikiverzita' => 'Wikiverzity',
-			),
-			'2pl' => array(
+			],
+			'2pl' => [
 				'uživatel'    => 'uživatelů',
 				'Wikibooks'   => 'Wikiknih',
 				'Wikidata'    => 'Wikidat',
@@ -649,8 +652,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzit',
 				'Wikizdroje'  => 'Wikizdrojů',
 				'Wikizprávy'  => 'Wikizpráv',
-			),
-			'3pl' => array(
+			],
+			'3pl' => [
 				'uživatel'    => 'uživatelům',
 				'Wikibooks'   => 'Wikiknihám',
 				'Wikidata'    => 'Wikidatům',
@@ -671,8 +674,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzitám',
 				'Wikizdroje'  => 'Wikizdrojům',
 				'Wikizprávy'  => 'Wikizprávám',
-			),
-			'4pl' => array(
+			],
+			'4pl' => [
 				'uživatel'    => 'uživatele',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikinews'    => 'Wikizprávy',
@@ -685,8 +688,8 @@ class WikimediaMessagesHooks {
 				'Wiktionary'  => 'Wikislovníky',
 				'Wikislovník' => 'Wikislovníky',
 				'Wikiverzita' => 'Wikiverzity',
-			),
-			'5pl' => array(
+			],
+			'5pl' => [
 				'uživatel'    => 'uživatelé',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikinews'    => 'Wikizprávy',
@@ -699,8 +702,8 @@ class WikimediaMessagesHooks {
 				'Wiktionary'  => 'Wikislovníky',
 				'Wikislovník' => 'Wikislovníky',
 				'Wikiverzita' => 'Wikiverzity',
-			),
-			'6pl' => array(
+			],
+			'6pl' => [
 				'uživatel'    => 'uživatelích',
 				'Wikibooks'   => 'Wikiknihách',
 				'Wikidata'    => 'Wikidatech',
@@ -721,8 +724,8 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzitách',
 				'Wikizdroje'  => 'Wikizdrojích',
 				'Wikizprávy'  => 'Wikizprávách',
-			),
-			'7pl' => array(
+			],
+			'7pl' => [
 				'uživatel'    => 'uživateli',
 				'Wikibooks'   => 'Wikiknihami',
 				'Wikidata'    => 'Wikidaty',
@@ -741,125 +744,125 @@ class WikimediaMessagesHooks {
 				'Wikiverzita' => 'Wikiverzitami',
 				'Wikizdroje'  => 'Wikizdroji',
 				'Wikizprávy'  => 'Wikizprávami',
-			),
-		); # cs
+			],
+		]; // cs
 
-		$wgGrammarForms['dsb'] = array(
-			# genitive
-			'genitiw' => array(
+		$wgGrammarForms['dsb'] = [
+			// genitive
+			'genitiw' => [
 				'Wikipedija'  => 'Wikipedije',
 				'Wikiknihi'   => 'Wikiknih',
 				'Wikinowiny'  => 'Wikinowin',
 				'Wikižórło'   => 'Wikižórła',
 				'Wikicitaty'  => 'Wikicitatow',
 				'Wikisłownik' => 'Wikisłownika',
-			),
-			# dative
-			'datiw' => array(
+			],
+			// dative
+			'datiw' => [
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknihi'   => 'Wikikniham',
 				'Wikinowiny'  => 'Wikinowinam',
 				'Wikižórło'   => 'Wikižórłu',
 				'Wikicitaty'  => 'Wikicitatam',
 				'Wikisłownik' => 'Wikisłownikej',
-			),
-			# accusative
-			'akuzativ' => array(
+			],
+			// accusative
+			'akuzativ' => [
 				'Wikipedija'  => 'Wikipediju',
 				'Wikiknihi'   => 'Wikiknknihi',
-			),
-			# instrumental
-			'instrumental' => array(
+			],
+			// instrumental
+			'instrumental' => [
 				'Wikipedija'  => 'Wikipediju',
 				'Wikiknihi'   => 'Wikiknihami',
 				'Wikinowiny'  => 'Wikinowinami',
 				'Wikižórło'   => 'Wikižórłom',
 				'Wikicitaty'  => 'Wikicitatami',
 				'Wikisłownik' => 'Wikisłownikom',
-			),
-			# locative
-			'lokatiw' => array(
+			],
+			// locative
+			'lokatiw' => [
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknihi'   => 'Wikiknihach',
 				'Wikinowiny'  => 'Wikinowinach',
 				'Wikižórło'   => 'Wikižórłu',
 				'Wikicitaty'  => 'Wikicitatach',
 				'Wikisłownik' => 'Wikisłowniku',
-			),
-		); # dsb
+			],
+		]; // dsb
 
-		$wgGrammarForms['et'] = array(
-			'genitive' => array(
+		$wgGrammarForms['et'] = [
+			'genitive' => [
 				'Vikisõnastik'  => 'Vikisõnastiku',
 				'Vikitekstid'   => 'Vikitekstide',
 				'Vikitsitaadid' => 'Vikitsitaatide',
 				'Vikiõpikud'    => 'Vikiõpikute',
-			),
-			'partitive' => array(
+			],
+			'partitive' => [
 				'Vikipeedia'    => 'Vikipeediat',
 				'Vikisõnastik'  => 'Vikisõnastikku',
 				'Vikitekstid'   => 'Vikitekste',
 				'Vikitsitaadid' => 'Vikitsitaate',
 				'Vikiõpikud'    => 'Vikiõpikuid',
-			),
-			'illative' => array(
+			],
+			'illative' => [
 				'Vikipeedia'    => 'Vikipeediasse',
 				'Vikisõnastik'  => 'Vikisõnastikku',
 				'Vikitekstid'   => 'Vikitekstidesse',
 				'Vikitsitaadid' => 'Vikitsitaatidesse',
 				'Vikiõpikud'    => 'Vikiõpikutesse',
-			),
-			'inessive' => array(
+			],
+			'inessive' => [
 				'Vikipeedia'    => 'Vikipeedias',
 				'Vikisõnastik'  => 'Vikisõnastikus',
 				'Vikitekstid'   => 'Vikitekstides',
 				'Vikitsitaadid' => 'Vikitsitaatides',
 				'Vikiõpikud'    => 'Vikiõpikutes',
-			),
-			'elative' => array(
+			],
+			'elative' => [
 				'Vikipeedia'    => 'Vikipeediast',
 				'Vikisõnastik'  => 'Vikisõnastikust',
 				'Vikitekstid'   => 'Vikitekstidest',
 				'Vikitsitaadid' => 'Vikitsitaatidest',
 				'Vikiõpikud'    => 'Vikiõpikutest',
-			),
-		); # et
+			],
+		]; // et
 
-		$wgGrammarForms['fi'] = array(
-			'genitive' => array(
+		$wgGrammarForms['fi'] = [
+			'genitive' => [
 				'Wikiuutiset' => 'Wikiuutisten',
 				'Wikisitaatit' => 'Wikisitaattien',
 				'Wikimedia Suomi' => 'Wikimedia Suomen',
 				'Wikimatkat' => 'Wikimatkojen',
-			),
-			'partitive' => array(
+			],
+			'partitive' => [
 				'Wikiuutiset' => 'Wikiuutisia',
 				'Wikisitaatit' => 'Wikisitaatteja',
 				'Wikimedia Suomi' => 'Wikimedia Suomea',
 				'Wikimatkat' => 'Wikimatkoja',
-			),
-			'elative' => array(
+			],
+			'elative' => [
 				'Wikiuutiset' => 'Wikiuutisista',
 				'Wikisitaatit' => 'Wikisitaateista',
 				'Wikimedia Suomi' => 'Wikimedia Suomesta',
 				'Wikimatkat' => 'Wikimatkoista',
-			),
-			'inessive' => array(
+			],
+			'inessive' => [
 				'Wikiuutiset' => 'Wikiuutisissa',
 				'Wikisitaatit' => 'Wikisitaateissa',
 				'Wikimedia Suomi' => 'Wikimedia Suomessa',
 				'Wikimatkat' => 'Wikimatkoissa',
-			),
-			'illative' => array(
+			],
+			'illative' => [
 				'Wikiuutiset' => 'Wikiuutisiin',
 				'Wikisitaatit' => 'Wikisitaatteihin',
 				'Wikimedia Suomi' => 'Wikimedia Suomeen',
 				'Wikimatkat' => 'Wikimatkoihin',
-			),
-		); # fi
+			],
+		]; // fi
 
-		$wgGrammarForms['ga'] = array(
-			'genitive' => array(
+		$wgGrammarForms['ga'] = [
+			'genitive' => [
 				'Vicipéid'     => 'Vicipéide',
 				'Vicífhoclóir' => 'Vicífhoclóra',
 				'Vicíleabhair' => 'Vicíleabhar',
@@ -867,133 +870,133 @@ class WikimediaMessagesHooks {
 				'Vicífhoinse'  => 'Vicífhoinse',
 				'Vicíghnéithe' => 'Vicíghnéithe',
 				'Vicínuacht'   => 'Vicínuachta',
-			),
-		); # ga
+			],
+		]; // ga
 
-		$wgGrammarForms['gsw'] = array(
-			# dative
-			'dativ' => array(
+		$wgGrammarForms['gsw'] = [
+			// dative
+			'dativ' => [
 				'Wikipedia'       => 'vo de Wikipedia',
 				'Wikinorchrichte' => 'vo de Wikinochrichte',
 				'Wiktionaire'     => 'vom Wiktionaire',
 				'Wikibuecher'     => 'vo de Wikibuecher',
 				'Wikisprüch'      => 'vo de Wikisprüch',
 				'Wikiquälle'      => 'vo de Wikiquälle',
-			),
-			# accusative
-			'akkusativ' => array(
+			],
+			// accusative
+			'akkusativ' => [
 				'Wikipedia'       => 'd Wikipedia',
 				'Wikinorchrichte' => 'd Wikinorchrichte',
 				'Wiktionaire'     => 's Wiktionaire',
 				'Wikibuecher'     => 'd Wikibuecher',
 				'Wikisprüch'      => 'd Wikisprüch',
 				'Wikiquälle'      => 'd Wikiquälle',
-			),
-			# nominative
-			'nominativ' => array(
+			],
+			// nominative
+			'nominativ' => [
 				'Wikipedia'       => 'd Wikipedia',
 				'Wikinorchrichte' => 'd Wikinorchrichte',
 				'Wiktionaire'     => 's Wiktionaire',
 				'Wikibuecher'     => 'd Wikibuecher',
 				'Wikisprüch'      => 'd Wikisprüch',
 				'Wikiquälle'      => 'd Wikiquälle',
-			),
-		); # gsw
+			],
+		]; // gsw
 
-		$wgGrammarForms['hsb'] = array(
-			# genitive
-			'genitiw' => array(
+		$wgGrammarForms['hsb'] = [
+			// genitive
+			'genitiw' => [
 				'Wikipedija'  => 'Wikipedije',
 				'Wikiknihi'   => 'Wikiknih',
 				'Wikinowiny'  => 'Wikinowin',
 				'Wikižórło'   => 'Wikižórła',
 				'Wikicitaty'  => 'Wikicitatow',
 				'Wikisłownik' => 'Wikisłownika',
-			),
-			# dative
-			'datiw' => array(
+			],
+			// dative
+			'datiw' => [
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknihi'   => 'Wikikniham',
 				'Wikinowiny'  => 'Wikinowinam',
 				'Wikižórło'   => 'Wikižórłu',
 				'Wikicitaty'  => 'Wikicitatam',
 				'Wikisłownik' => 'Wikisłownikej',
-			),
-			# accusative
-			'akuzativ' => array(
+			],
+			// accusative
+			'akuzativ' => [
 				'Wikipedija'  => 'Wikipediju',
 				'Wikiknihi'   => 'Wikiknknihi',
-			),
-			# instrumental
-			'instrumental' => array(
+			],
+			// instrumental
+			'instrumental' => [
 				'Wikipedija'  => 'Wikipediju',
 				'Wikiknihi'   => 'Wikiknihami',
 				'Wikinowiny'  => 'Wikinowinami',
 				'Wikižórło'   => 'Wikižórłom',
 				'Wikicitaty'  => 'Wikicitatami',
 				'Wikisłownik' => 'Wikisłownikom',
-			),
-			# locative
-			'lokatiw' => array(
+			],
+			// locative
+			'lokatiw' => [
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknihi'   => 'Wikiknihach',
 				'Wikinowiny'  => 'Wikinowinach',
 				'Wikižórło'   => 'Wikižórłu',
 				'Wikicitaty'  => 'Wikicitatach',
 				'Wikisłownik' => 'Wikisłowniku',
-			),
-		); # hsb
+			],
+		]; // hsb
 
-		$wgGrammarForms['hu'] = array(
-			'rol' => array(
+		$wgGrammarForms['hu'] = [
+			'rol' => [
 				'Wikipédia'   => 'Wikipédiáról',
 				'Wikidézet'   => 'Wikidézetről',
 				'Wikiszótár'  => 'Wikiszótárról',
 				'Wikikönyvek' => 'Wikikönyvekről',
-			),
-			'ba' => array(
+			],
+			'ba' => [
 				'Wikipédia'   => 'Wikipédiába',
 				'Wikidézet'   => 'Wikidézetbe',
 				'Wikiszótár'  => 'Wikiszótárba',
 				'Wikikönyvek' => 'Wikikönyvekbe',
-			),
-			'k' => array(
+			],
+			'k' => [
 				'Wikipédia'   => 'Wikipédiák',
 				'Wikidézet'   => 'Wikidézetek',
 				'Wikiszótár'  => 'Wikiszótárak',
-			),
-		); # hu
+			],
+		]; // hu
 
-		$wgGrammarForms['la'] = array(
-			'genitive' => array(
+		$wgGrammarForms['la'] = [
+			'genitive' => [
 				'Vicimedia Communia' => 'Vicimediorum Communium',
-			),
-			'ablative' => array(
+			],
+			'ablative' => [
 				'Vicimedia Communia' => 'Vicimediis Communibus',
-			),
-		); # la
+			],
+		]; // la
 
-		$wgGrammarForms['lv'] = array(
-			'ģenitīvs' => array(
+		$wgGrammarForms['lv'] = [
+			'ģenitīvs' => [
 				'Vikipēdija'   => 'Vikipēdijas',
 				'Vikivārdnīca' => 'Vikivārdnīcas',
-			),
-			'datīvs' => array(
+			],
+			'datīvs' => [
 				'Vikipēdija'   => 'Vikipēdijai',
 				'Vikivārdnīca' => 'Vikivārdnīcai',
-			),
-			'akuzatīvs' => array(
+			],
+			'akuzatīvs' => [
 				'Vikipēdija'   => 'Vikipēdiju',
 				'Vikivārdnīca' => 'Vikivārdnīcu',
-			),
-			'lokatīvs' => array(
+			],
+			'lokatīvs' => [
 				'Vikipēdija'   => 'Vikipēdijā',
 				'Vikivārdnīca' => 'Vikivārdnīcā',
-			),
-		); # lv
+			],
+		]; // lv
 
-		$wgGrammarForms['pl'] = array(
-			'D.lp' => array(
+		$wgGrammarForms['pl'] = [
+			'D.lp' => [
 				'wikipedysta'  => 'wikipedysty',
 				'Wikicytaty'   => 'Wikicytatów',
 				'Wikipedia'    => 'Wikipedii',
@@ -1004,8 +1007,8 @@ class WikimediaMessagesHooks {
 				'wikireporter' => 'wikireportera',
 				'wikiskryba'   => 'wikiskryby',
 				'Wikidane'     => 'Wikidanych',
-			),
-			'C.lp' => array(
+			],
+			'C.lp' => [
 				'wikipedysta'  => 'wikipedyście',
 				'Wikicytaty'   => 'Wikicytatom',
 				'Wikipedia'    => 'Wikipedii',
@@ -1016,15 +1019,15 @@ class WikimediaMessagesHooks {
 				'wikireporter' => 'wikireporterowi',
 				'wikiskryba'   => 'wikiskrybie',
 				'Wikidane'     => 'Wikidanym',
-			),
-			'B.lp' => array(
+			],
+			'B.lp' => [
 				'wikipedysta'  => 'wikipedystę',
 				'Wikipedia'    => 'Wikipedię',
 				'użytkownik'   => 'użytkownika',
 				'wikireporter' => 'wikireportera',
 				'wikiskryba'   => 'wikiskrybę',
-			),
-			'N.lp' => array(
+			],
+			'N.lp' => [
 				'wikipedysta'  => 'wikipedystą',
 				'Wikicytaty'   => 'Wikicytatami',
 				'Wikipedia'    => 'Wikipedią',
@@ -1035,8 +1038,8 @@ class WikimediaMessagesHooks {
 				'wikireporter' => 'wikireporterem',
 				'wikiskryba'   => 'wikiskrybą',
 				'Wikidane'     => 'Wikidanymi',
-			),
-			'MS.lp' => array(
+			],
+			'MS.lp' => [
 				'wikipedysta'  => 'wikipedyście',
 				'Wikicytaty'   => 'Wikicytatach',
 				'Wikipedia'    => 'Wikipedii',
@@ -1047,177 +1050,177 @@ class WikimediaMessagesHooks {
 				'wikireporter' => 'wikireporterze',
 				'wikiskryba'   => 'wikiskrybie',
 				'Wikidane'     => 'Wikidanych',
-			),
-			'W.lp' => array(
+			],
+			'W.lp' => [
 				'wikipedysta'  => 'wikipedysto',
 				'Wikipedia'    => 'Wikipedio',
 				'Wikisłownik'  => 'Wikisłowniku',
 				'użytkownik'   => 'użytkowniku',
 				'wikireporter' => 'wikireporterze',
 				'wikiskryba'   => 'wikiskrybo',
-			),
-			'M.lm' => array(
+			],
+			'M.lm' => [
 				'wikipedysta'  => 'wikipedyści',
 				'użytkownik'   => 'użytkownicy',
 				'wikireporter' => 'wikireporterzy',
 				'wikiskryba'   => 'wikiskrybowie',
-			),
-			'D.lm' => array(
+			],
+			'D.lm' => [
 				'wikipedysta'  => 'wikipedystów',
 				'użytkownik'   => 'użytkowników',
 				'wikireporter' => 'wikireporterów',
 				'wikiskryba'   => 'wikiskrybów',
-			),
-			'C.lm' => array(
+			],
+			'C.lm' => [
 				'wikipedysta'  => 'wikipedystom',
 				'użytkownik'   => 'użytkownikom',
 				'wikireporter' => 'wikireporterom',
 				'wikiskryba'   => 'wikiskrybom',
-			),
-			'B.lm' => array(
+			],
+			'B.lm' => [
 				'wikipedysta'  => 'wikipedystów',
 				'użytkownik'   => 'użytkowników',
 				'wikireporter' => 'wikireporterów',
 				'wikiskryba'   => 'wikiskrybów',
-			),
-			'N.lm' => array(
+			],
+			'N.lm' => [
 				'wikipedysta'  => 'wikipedystami',
 				'użytkownik'   => 'użytkownikami',
 				'wikireporter' => 'wikireporterami',
 				'wikiskryba'   => 'wikiskrybami',
-			),
-			'MS.lm' => array(
+			],
+			'MS.lm' => [
 				'wikipedysta'  => 'wikipedystach',
 				'użytkownik'   => 'użytkownikach',
 				'wikireporter' => 'wikireporterach',
 				'wikiskryba'   => 'wikiskrybach',
-			),
-			'W.lm' => array(
+			],
+			'W.lm' => [
 				'wikipedysta'  => 'wikipedyści',
 				'użytkownik'   => 'użytkownicy',
 				'wikireporter' => 'wikireporterzy',
 				'wikiskryba'   => 'wikiskrybowie',
-			),
-		); # pl
+			],
+		]; // pl
 
-		$wgGrammarForms['rmy'] = array(
-			# genitive (m.sg.)
-			'genitive-m-sg' => array(
+		$wgGrammarForms['rmy'] = [
+			// genitive (m.sg.)
+			'genitive-m-sg' => [
 				'Vikipidiya' => 'Vikipidiyako',
 				'Vikcyonaro' => 'Vikcyonaresko',
-			),
-			# genitive (f.sg.)
-			'genitive-f-sg' => array(
+			],
+			// genitive (f.sg.)
+			'genitive-f-sg' => [
 				'Vikipidiya' => 'Vikipidiyaki',
 				'Vikcyonaro' => 'Vikcyonareski',
-			),
-			# genitive (pl.)
-			'genitive-pl' => array(
+			],
+			// genitive (pl.)
+			'genitive-pl' => [
 				'Vikipidiya' => 'Vikipidiyake',
 				'Vikcyonaro' => 'Vikcyonareske',
-			),
-			# dative
-			'dativ' => array(
+			],
+			// dative
+			'dativ' => [
 				'Vikipidiya' => 'Wikipediji',
 				'Vikcyonaro' => 'Vikcyonareske',
-			),
-			# locative
-			'locative' => array(
+			],
+			// locative
+			'locative' => [
 				'Vikipidiya' => 'Wikipedijo',
 				'Vikcyonaro' => 'Vikcyonareste',
-			),
-			# ablative
-			'ablative' => array(
+			],
+			// ablative
+			'ablative' => [
 				'Vikipidiya' => 'o Wikipediji',
 				'Vikcyonaro' => 'Vikcyonarestar',
-			),
-			# instrumental
-			'instrumental' => array(
+			],
+			// instrumental
+			'instrumental' => [
 				'Vikipidiya' => 'z Wikipedijo',
 				'Vikcyonaro' => 'Vikcyonaresa',
-			),
-		); # rmy
+			],
+		]; // rmy
 
-		$wgGrammarForms['sk'] = array(
-			'genitív' => array(
+		$wgGrammarForms['sk'] = [
+			'genitív' => [
 				'Wikipédia'   => 'Wikipédie',
 				'Wikislovník' => 'Wikislovníku',
 				'Wikicitáty'  => 'Wikicitátov',
 				'Wikiknihy'   => 'Wikikníh',
-			),
-			'datív' => array(
+			],
+			'datív' => [
 				'Wikipédia'   => 'Wikipédii',
 				'Wikislovník' => 'Wikislovníku',
 				'Wikicitáty'  => 'Wikicitátom',
 				'Wikiknihy'   => 'Wikiknihám',
-			),
-			'akuzatív' => array(
+			],
+			'akuzatív' => [
 				'Wikipédia'   => 'Wikipédiu',
 				'Wikislovník' => 'Wikislovník',
 				'Wikicitáty'  => 'Wikicitáty',
 				'Wikiknihy'   => 'Wikiknihy',
-			),
-			'lokál' => array(
+			],
+			'lokál' => [
 				'Wikipédia'   => 'Wikipédii',
 				'Wikislovník' => 'Wikislovníku',
 				'Wikicitáty'  => 'Wikicitátoch',
 				'Wikiknihy'   => 'Wikiknihách',
-			),
-			'inštrumentál' => array(
+			],
+			'inštrumentál' => [
 				'Wikipédia'   => 'Wikipédiou',
 				'Wikislovník' => 'Wikislovníkom',
 				'Wikicitáty'  => 'Wikicitátmi',
 				'Wikiknihy'   => 'Wikiknihami',
-			),
-		); # sk
+			],
+		]; // sk
 
-		$wgGrammarForms['sl'] = array(
-			# genitive
-			'rodilnik' => array(
+		$wgGrammarForms['sl'] = [
+			// genitive
+			'rodilnik' => [
 				'Wikipedija'  => 'Wikipedije',
 				'Wikiknjige'  => 'Wikiknjig',
 				'Wikinovice'  => 'Wikinovic',
 				'Wikinavedek' => 'Wikinavedka',
 				'Wikivir'     => 'Wikivira',
 				'Wikislovar'  => 'Wikislovarja',
-			),
-			# dative
-			'dajalnik' => array(
+			],
+			// dative
+			'dajalnik' => [
 				'Wikipedija'  => 'Wikipediji',
 				'Wikiknjige'  => 'Wikiknjigam',
 				'Wikinovice'  => 'Wikinovicam',
 				'Wikinavedek' => 'Wikinavedku',
 				'Wikivir'     => 'Wikiviru',
 				'Wikislovar'  => 'Wikislovarju',
-			),
-			# accusative
-			'tožilnik' => array(
+			],
+			// accusative
+			'tožilnik' => [
 				'Wikipedija'  => 'Wikipedijo',
-				# no need to transform the others
-			),
-			# locative
-			'mestnik' => array(
+				// no need to transform the others
+			],
+			// locative
+			'mestnik' => [
 				'Wikipedija'  => 'o Wikipediji',
 				'Wikiknjige'  => 'o Wikiknjigah',
 				'Wikinovice'  => 'o Wikinovicah',
 				'Wikinavedek' => 'o Wikinavedku',
 				'Wikivir'     => 'o Wikiviru',
 				'Wikislovar'  => 'o Wikislovarju',
-			),
-			# instrumental
-			'orodnik' => array(
+			],
+			// instrumental
+			'orodnik' => [
 				'Wikipedija'  => 'z Wikipedijo',
 				'Wikiknjige'  => 'z Wikiknjigami',
 				'Wikinovice'  => 'z Wikinovicami',
 				'Wikinavedek' => 'z Wikinavedkom',
 				'Wikivir'     => 'z Wikivirom',
 				'Wikislovar'  => 'z Wikislovarjem',
-			),
-		); # sl
+			],
+		]; // sl
 
-		$wgGrammarForms['uk'] = array(
-			# genitive
-			'genitive' => array(
+		$wgGrammarForms['uk'] = [
+			// genitive
+			'genitive' => [
 				'Вікіпедія' => 'Вікіпедії',
 				'Вікісловник' => 'Вікісловника',
 				'Вікісховище' => 'Вікісховища',
@@ -1227,9 +1230,9 @@ class WikimediaMessagesHooks {
 				'Вікіновини' => 'Вікіновин',
 				'Вікідані' => 'Вікіданих',
 				'Вікімандри' => 'Вікімандрів',
-			),
-			# dative
-			'dative' => array(
+			],
+			// dative
+			'dative' => [
 				'Вікіпедія' => 'Вікіпедії',
 				'Вікісловник' => 'Вікісловнику',
 				'Вікісховище' => 'Вікісховищу',
@@ -1239,9 +1242,9 @@ class WikimediaMessagesHooks {
 				'Вікіновини' => 'Вікіновинам',
 				'Вікідані' => 'Вікіданим',
 				'Вікімандри' => 'Вікімандрам',
-			),
-			# accusative
-			'accusative' => array(
+			],
+			// accusative
+			'accusative' => [
 				'Вікіпедія' => 'Вікіпедію',
 				'Вікісловник' => 'Вікісловник',
 				'Вікісховище' => 'Вікісховище',
@@ -1251,9 +1254,9 @@ class WikimediaMessagesHooks {
 				'Вікіновини' => 'Вікіновини',
 				'Вікідані' => 'Вікідані',
 				'Вікімандри' => 'Вікімандри',
-			),
-			# instrumental
-			'instrumental' => array(
+			],
+			// instrumental
+			'instrumental' => [
 				'Вікіпедія' => 'Вікіпедією',
 				'Вікісловник' => 'Вікісловником',
 				'Вікісховище' => 'Вікісховищем',
@@ -1263,9 +1266,9 @@ class WikimediaMessagesHooks {
 				'Вікіновини' => 'Вікіновинами',
 				'Вікідані' => 'Вікіданими',
 				'Вікімандри' => 'Вікімандрами',
-			),
-			# locative
-			'locative' => array(
+			],
+			// locative
+			'locative' => [
 				'Вікіпедія' => 'у Вікіпедії',
 				'Вікісловник' => 'у Вікісловнику',
 				'Вікісховище' => 'у Вікісховищі',
@@ -1275,9 +1278,9 @@ class WikimediaMessagesHooks {
 				'Вікіновини' => 'у Вікіновинах',
 				'Вікідані' => 'у Вікіданих',
 				'Вікімандри' => 'у Вікімандрах',
-			),
-			# vocative
-			'vocative' => array(
+			],
+			// vocative
+			'vocative' => [
 				'Вікіпедія' => 'Вікіпедіє',
 				'Вікісловник' => 'Вікісловнику',
 				'Вікісховище' => 'Вікісховище',
@@ -1287,8 +1290,8 @@ class WikimediaMessagesHooks {
 				'Вікіновини' => 'Вікіновини',
 				'Вікідані' => 'Вікідані',
 				'Вікімандри' => 'Вікімандри',
-			),
-		); # uk
+			],
+		]; // uk
 	}
 
 	/**
@@ -1305,15 +1308,20 @@ class WikimediaMessagesHooks {
 		$ores = self::isOresAvailable();
 
 		if ( $wgEnableRcFiltersBetaFeature ) {
-			$preferences[ 'rcenhancedfilters' ] = [
+			$preferences['rcenhancedfilters'] = [
 				'label-message' => 'eri-rcfilters-beta-label',
-				'desc-message' => $ores ? 'eri-rcfilters-beta-description-ores' : 'eri-rcfilters-beta-description',
+				'desc-message' => $ores
+					? 'eri-rcfilters-beta-description-ores' : 'eri-rcfilters-beta-description',
 				'screenshot' => [
-					'rtl' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-rtl.svg",
-					'ltr' => "$wgExtensionAssetsPath/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-ltr.svg",
+					'rtl' => $wgExtensionAssetsPath .
+						'/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-rtl.svg',
+					'ltr' => $wgExtensionAssetsPath .
+						'/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-ltr.svg',
 				],
-				'info-link' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
-				'discussion-link' => 'https://www.mediawiki.org/wiki/Talk:Edit_Review_Improvements/New_filters_for_edit_review',
+				'info-link' => 'https://www.mediawiki.org/wiki/' .
+					'Special:MyLanguage/Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
+				'discussion-link' => 'https://www.mediawiki.org/wiki/' .
+					'Talk:Edit_Review_Improvements/New_filters_for_edit_review',
 			];
 		}
 
@@ -1437,23 +1445,23 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	public static function onGetPreferences( $user, &$preferences ) {
-		$preferences[ 'rcenhancedfilters-seen-tour' ] = [
+		$preferences['rcenhancedfilters-seen-tour'] = [
 			'type' => 'api',
 		];
 
-		$preferences[ 'rcenhancedfilters-tried-highlight' ] = [
+		$preferences['rcenhancedfilters-tried-highlight'] = [
 			'type' => 'api',
 		];
 
-		$preferences[ 'rcenhancedfilters-seen-invite' ] = [
+		$preferences['rcenhancedfilters-seen-invite'] = [
 			'type' => 'api',
 		];
 
-		$preferences[ 'rcenhancedfilters-seen-highlight-button-counter' ] = [
+		$preferences['rcenhancedfilters-seen-highlight-button-counter'] = [
 			'type' => 'api',
 		];
 
-		$preferences[ 'rcenhancedfilters-show-invite-confirmation' ] = [
+		$preferences['rcenhancedfilters-show-invite-confirmation'] = [
 			'type' => 'api',
 		];
 
