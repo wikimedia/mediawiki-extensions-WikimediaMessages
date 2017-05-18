@@ -15,7 +15,7 @@
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
-	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sr-ec",
+	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=sr",
 	"sitesupport": "Новчани прилози",
 	"tooltip-n-sitesupport": "Подржите нас",
 	"specialpages-group-contribution": "Доприноси/Прикупљање средстава",
@@ -184,6 +184,8 @@
 	"protect-level-editeditorprotected": "Допуштено само уредницима",
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Допуштено само аутоматски патролисаним",
+	"eri-rcfilters-beta-label": "Нови филтери за преглед измена",
+	"eri-rcfilters-beta-description": "Преглед измена у скорашњим изменама користећи лакши и моћнији интерфејс. Укључује нове филтере, означавање по дефиницији корисника и друга побољшања.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Прегледај измене користећи лакши и моћнији интерфејс, додатне филтере, означавање које одаберете и друга побољшања.",
 	"eri-rcfilters-tour-highlight-title": "Означи бојом своје резултате",
 	"eri-rcfilters-tour-highlight-description": "Користити означавање за визуелно распознавање одабраних својстава.<br/><br/>Можете комбиновати означавања са филтерима или користити означавање засебно.",

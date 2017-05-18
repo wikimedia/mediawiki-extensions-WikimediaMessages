@@ -5,7 +5,8 @@
 			"Okras",
 			"Ahonc",
 			"Александр Сигачёв",
-			"Kareyac"
+			"Kareyac",
+			"Facenapalm"
 		]
 	},
 	"wikimediamessages-desc": "Специфические временные сообщения Викимедиа",
@@ -13,5 +14,6 @@
 	"group-oversight": "Ревизоры",
 	"group-oversight-member": "ревизор",
 	"hello": "Привет",
-	"please-translate": "Пожалуйста, помогите перевести на ваш язык"
+	"please-translate": "Пожалуйста, помогите перевести на ваш язык",
+	"thank-you": "{{GENDER:$1|Спасибо.}}"
 }

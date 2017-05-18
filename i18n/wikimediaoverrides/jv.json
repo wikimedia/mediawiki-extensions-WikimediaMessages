@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"wikimedia-acct_creation_throttle_hit": "Ana dhayoh ing wiki iki sing nganggo alamat IP-né panjenengan wis nggawé {{PLURAL:$1|akun cacah 1|akun cacah $1}} dhèk wingi, sing cacahé ngancik cacah maksimum sing diolèhaké sajeroné kalamangsa iki.\nTundhoné, dhayoh liyané sing nganggo alamat IP iki ora bisa nggawé akun manèh sawetara iki.\n\nManawa panjenengan lagi ana ing sawijining acara sing nengenaké panyumbang marang proyèk-proyèk Wikimédia, mangga ayahi [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Panyuwunan palilah sawetara watesan IP]] supaya perkara iki ora thukul.",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(éwangi aku milih)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Ora bisa ndeleng gambaré? [[{{MediaWiki:createacct-captcha-help-url}}|Nyuwun gawèkaké akun]]"
+}
