@@ -38,6 +38,9 @@
 		"WikimediaCCLicenseTexts": [
 			"i18n/cclicensetexts"
 		],
+		"WikimediaCodeOfConduct": [
+			"i18n/codeofcontact"
+		],
 		"WikitechMessages": [
 			"i18n/wikitech"
 		]
