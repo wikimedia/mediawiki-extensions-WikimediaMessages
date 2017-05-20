@@ -15,7 +15,8 @@
 			"Einstein2",
 			"Samat",
 			"Dorgan",
-			"BanKris"
+			"BanKris",
+			"Urbalazs"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -164,6 +165,8 @@
 	"eri-rcfilters-beta-label": "Új szűrők a friss változtatásokhoz",
 	"eri-rcfilters-tour-welcome-title": "Bevezetés: Új szűrők a Friss változtatásokhoz (béta)",
 	"eri-rcfilters-tour-invite-description": "Próbáld ki az '''Új szűrők a friss változtatásokhoz''' eszközünket! Találd meg a legfontosabb szerkesztéseket, amelyekre szükséged van",
+	"eri-rcfilters-tour-invite-learnmore-link-label": "Tudj meg többet",
+	"eri-rcfilters-tour-invite-no-button": "Nem, köszönöm",
 	"wikimedia-globalrenamequeue-email-body-approved": "Az átnevezési kérelmedet („$1” névről „$2” névre) elfogadtuk. Amint elkészülünk vele, be tudsz majd jelentkezni az új neveddel és a régi jelszavaddal. Köszönjük, hogy közreműködsz a Wikimédia-projektekben!",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Az átnevezési kérelmedet („$1” névről „$2” névre) nem tudtuk teljesíteni.\n\nMegjegyzés: $3\n\nBővebb információkért lásd a <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions> lapot. Az átnevezési kérelmedet itt tudod megbeszélni: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes> (a jelenlegi felhasználóneveden bejelentkezve írj).",
 	"wikimedia-sulrenamewarning-usenew": "Mostantól az új felhasználóneveddel kell bejelentkezned: <strong>$1</strong>. Az új neved egyedi az összes Wikimédia-projektben; ha az egyik projektben bejelentkezel, és meglátogatsz egy másikat, ott is ugyanazzal a névvel leszel azonosítva. [[:m:Special:MyLanguage/Help:Unified_login|Az egységes bejelentkezést ismertető lapon]] találsz további információt, és a gyakori kérdésekre adott válaszokat. Ha meg akarod változtatni az emailcímedet vagy a jelszavadat a [[Special:Preferences|beállításaidnál]], most megteheted.\n\nHa más felhasználónevet szeretnél, használd a [[Special:GlobalRenameRequest|globális átnevezési kérelmek]] oldalát. Köszönjük, hogy közreműködsz a Wikimédia-projektekben!",
