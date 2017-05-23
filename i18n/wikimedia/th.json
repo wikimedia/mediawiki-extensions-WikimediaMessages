@@ -72,15 +72,22 @@
 	"wikimedia-copyright": "ข้อความอนุญาตให้เผยแพร่ภายใต้<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">สัญญาอนุญาตครีเอทีฟ คอมมอนส์/สัญญาแบบ Share-Alike</a>; อาจมีเงื่อนไขอื่นเพิ่ม\nดูรายละเอียดที่ <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">ข้อกำหนดการใช้งาน</a>",
 	"wikimedia-copyrightwarning": "เมื่อบันทึกการเปลี่ยนแปลง ถือว่าคุณยอมรับ[https://wikimediafoundation.org/wiki/Terms_of_Use ข้อกำหนดการใช้งาน] และคุณตกลงเผยแพร่งานของคุณภายใต้สัญญาอนุญาต [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] และ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] อย่างไม่อาจเพิกถอนได้\nคุณยอมรับว่า ไฮเปอร์ลิงก์หรือยูอาร์แอลเป็นการแสดงที่มาเพียงพอภายใต้สัญญาอนุญาตครีเอทีฟคอมมอนส์",
 	"wikibase-repo-name": "วิกิสนเทศ",
+	"wikibase-sitelinks-wikibooks": "วิกิตำรา",
 	"wikibase-sitelinks-wikinews": "วิกิข่าว",
 	"wikibase-sitelinks-wikiquote": "วิกิคำคม",
 	"wikibase-sitelinks-wikisource": "วิกิซอร์ซ",
 	"wikibase-sitelinks-wikivoyage": "วิกิท่องเที่ยว",
 	"wikibase-otherprojects-testwikidata": "วิกิสนเทศ",
+	"wikibase-otherprojects-mediawiki": "มีเดียวิกิ",
+	"wikibase-otherprojects-wikibooks": "วิกิตำรา",
 	"wikibase-otherprojects-wikidata": "วิกิสนเทศ",
+	"wikibase-otherprojects-wikiquote": "วิกิคำคม",
+	"wikibase-otherprojects-wikipedia": "วิกิพีเดีย",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "มีเดียวิกิ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "วิกิสนเทศ",
 	"wikimedia-developers": "ผู้พัฒนา",
 	"wikimedia-globalblocking-ipblocked": "''ที่อยู่ IP ของคุณถูก [[m:Special:MyLanguage/Global blocks|บล็อคบนวิกิ]].'''\n\nบล็อคโดย $1 ($2).\nโดยให้เหตุผลว่า ''$3''.\n\n* วันที่เริ่มบล็อค: $4\n* วันสิ้นสุดการบล็อค: $5\n\nที่อยู่ IP ปัจจุบันของคุณคือ $6.\nโปรดระบุรายละเอียดด้านบนทั้งหมดหากคุณตั้งคำถาม\n\nหากคุณเชื่อว่าคุณถูกบล็อคเพราะความผิดพลาด คุณสามารถหาข้อมูลเพิ่มเติมในหน้านโยบาย[[m:Special:MyLanguage/No open proxies|ไม่มีพร็อกซีแบบเปิด]]\n\nมิฉะนั้น หากต้องการพูดคุยเกี่ยวกับการบล็อค โปรด[[m:Steward requests/Global|โพสขอการทบทวนบน Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "''ที่อยู่ IP ของคุณถูก [[m:Special:MyLanguage/Global blocks|บล็อคบนวิกิ]].'''\n\nบล็อคโดย $1 ($2).\nโดยให้เหตุผลว่า ''$3''.\n\n* วันที่เริ่มบล็อค: $4\n* วันสิ้นสุดการบล็อค: $5\n\nที่อยู่ IP ปัจจุบันของคุณคือ $6.\nโปรดระบุรายละเอียดด้านบนทั้งหมดหากคุณตั้งคำถาม\n\nหากคุณเชื่อว่าคุณถูกบล็อคเพราะความผิดพลาด คุณสามารถหาข้อมูลเพิ่มเติมในหน้านโยบาย[[m:Special:MyLanguage/No open proxies|ไม่มีพร็อกซีแบบเปิด]]\n\nมิฉะนั้น หากต้องการพูดคุยเกี่ยวกับการบล็อค โปรด[[m:Steward requests/Global|โพสขอการทบทวนบน Meta-Wiki]].",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/th"
+	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/th",
+	"interlanguage-link-wikipedia": "วิกิพีเดีย"
 }

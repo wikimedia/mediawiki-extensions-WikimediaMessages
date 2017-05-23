@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Walter Klosse",
-			"Dvorapa"
+			"Dvorapa",
+			"Mormegil"
 		]
 	},
+	"contactpage-title-requestlicense": "Formulář žádosti o licenci",
 	"contactpage-license-request-username": "Uživatelské jméno *",
 	"contactpage-license-request-relevantsite": "Příslušná stránka Wikimedia (pokud existuje)",
 	"contactpage-license-request-title": "Název (je-li použitelný)",
