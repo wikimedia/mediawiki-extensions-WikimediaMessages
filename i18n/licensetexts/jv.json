@@ -5,7 +5,6 @@
 			"NoiX180"
 		]
 	},
-	"wikimedialicensetexts-desc": "Pesan lisènsi Wikimedia",
 	"wm-license-artwork-artist": "Seniman",
 	"wm-license-artwork-title": "Sesirah",
 	"wm-license-artwork-medium": "Tengahan",
@@ -55,7 +54,7 @@
 	"wm-license-information-author-missing": "Berkas iki kakurangan inpormasi '''panganggit'''.",
 	"wm-license-information-permission": "Idin",
 	"wm-license-information-permission-reusing-text": "Anggo manèh barkas iki",
-	"wm-license-information-permission-see-below": "Delok ngisor",
+	"wm-license-information-permission-see-below": "Deleng ing ngisor.",
 	"wm-license-information-other-versions": "Vèrsi liya",
 	"wm-license-licensing-update-text": "Tag lisènsi iki ditambahaké nèng berkas iki minangka bagéyané [[{{int:wm-license-licensing-update-wiki-link}}|panganyaran lisènsi]] GFDL.",
 	"wm-license-original-upload-log": "Log unggah asli",
