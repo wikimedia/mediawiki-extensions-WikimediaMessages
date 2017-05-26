@@ -192,6 +192,8 @@
 	"protect-level-editextendedsemiprotected": "Разрешено само за автопатрулирани потребители",
 	"eri-rcfilters-tour-welcome-title": "Ново: Филтри за преглед на редакциите (бета)",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Преглед на редакциите с по-удобен и по-мощен интерфейс, допълнителни филтри, оцветяване дефинирано от потребителя и други подобрения.",
+	"eri-rcfilters-tour-highlight-title": "Отбележете резултатите с различни цветове",
+	"eri-rcfilters-tour-highlight-description": "Използвайте различни цветове за да различите визуално избраните свойства.<br/><br/>Можете да комбинирате оцветяването с филтри или да ги използвате независимо от тях.",
 	"eri-rcfilters-tour-highlight-button": "OK, разбрах",
 	"wikimedia-feedback-termsofuse": "Съгласявам се да предоставя обратна връзка в съответствие с <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Условията за ползване</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Заявката за преименуване на старото потребителско име \"{{GENDER:$1|$1}}\" към новото \"{{GENDER:$1|$2}}\" е одобрена. След като бъде изпълнена, ще можете да влизате с новото си потребителско име и старата парола. Благодарим ви за приносите към проектите на Уикимедия.",
