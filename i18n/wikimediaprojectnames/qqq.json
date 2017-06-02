@@ -238,7 +238,7 @@
 	"project-localized-name-fowiki": "{{ProjectNameDocumentation|url=https://fo.wikipedia.org|name=Faroese Wikipedia|language=fo}}",
 	"project-localized-name-fowiktionary": "{{ProjectNameDocumentation|url=https://fo.wiktionary.org|name=Faroese Wiktionary|language=fo}}",
 	"project-localized-name-fowikisource": "{{ProjectNameDocumentation|url=https://fo.wikisource.org|name=Faroese Wikisource|language=fo}}",
-	"project-localized-name-frwiki": "{{ProjectNameDocumentation|url=https://fr.wikipedia.org|name=French Wikipedia|language=fr}}",
+	"project-localized-name-frwiki": "{{ProjectNameDocumentation|url=https://fr.wikipedia.org|name=French Wikipedia|language=fr}}\n{{Identical|French}}",
 	"project-localized-name-frwiktionary": "{{ProjectNameDocumentation|url=https://fr.wiktionary.org|name=French Wiktionary|language=fr}}",
 	"project-localized-name-frwikibooks": "{{ProjectNameDocumentation|url=https://fr.wikibooks.org|name=French Wikibooks|language=fr}}",
 	"project-localized-name-frwikinews": "{{ProjectNameDocumentation|url=https://fr.wikinews.org|name=French Wikinews|language=fr}}",
