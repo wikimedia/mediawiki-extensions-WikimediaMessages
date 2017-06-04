@@ -238,6 +238,8 @@
 	"protect-level-superprotect": "特別保護利用者のみに許可",
 	"restriction-level-superprotect": "特別保護",
 	"right-templateeditor": "保護されたテンプレートを編集",
+	"eri-rcfilters-beta-label": "編集検査の新しいフィルター",
+	"eri-rcfilters-beta-description": "より簡単でより強力なインターフェースを使用して、最近の変更で編集を確認してください。 新しいフィルター、ユーザー定義の強調表示、その他の改善が含まれています。",
 	"eri-rcfilters-tour-welcome-title": "はじめに: 編集レビューの新しいフィルタ (ベータ版)",
 	"eri-rcfilters-tour-welcome-description": "改良したツール、新しいインターフェースならびに機械学習を組み合わせて荒らしと戦い、新しい利用者を保護する",
 	"eri-rcfilters-tour-welcome-button": "わかりました",
