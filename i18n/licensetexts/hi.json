@@ -3,7 +3,8 @@
 		"authors": [
 			"Ansumang",
 			"Siddhartha Ghai",
-			"Sfic"
+			"Sfic",
+			"SatyamMishra"
 		]
 	},
 	"wm-license-artwork-artist": "कलाकार",
@@ -64,6 +65,7 @@
 	"wm-license-pd-usgov-military-air-force-wiki-link": "w:hi:संयुक्त राज्य वायुसेना",
 	"wm-license-pd-usgov-military-army-wiki-link": "w:hi:अमेरिकी सेना",
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:hi:अमेरिकी नौसेना",
+	"wm-license-pd-usgov-noaa-text": "यह फ़ाइल [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|संयुक्त राज्य राष्ट्रीय सामुद्रिक एवं वायुमंडलीय प्रशासन (नोवा)]] के कर्मचारी का कार्य है, इसे व्यक्ति द्वारा अपने आधिकारिक कार्यभार निर्वहन के दौरान लिया गया या निर्मित किया गया था। [[{{int:wm-license-pd-usgov-wiki-link}}|सं. रा. संघीय सरकार]] के  [[{{int:wm-license-pd-usgov-work-wiki-link}}|कार्य]] के रूप में, यह '''[[{{int:wm-license-pd-wiki-link}}|पब्लिक डोमेन]]''' में है।",
 	"wm-license-self-one-license": "मैं, इस कार्य का कॉपीराइट धारक, इसे निम्न लाइसेन्स के साथ जारी कर रहा:",
 	"wm-license-self-one-license-with-author": "$1, इस कार्य का कॉपीराइट धारक, इसे निम्न लाइसेन्स के साथ जारी कर रहा:",
 	"wm-license-self-multiple-licenses": "मैं, इस कार्य का कॉपीराइट धारक, इसे निम्न लाइसेन्स के साथ जारी कर रहा:",
