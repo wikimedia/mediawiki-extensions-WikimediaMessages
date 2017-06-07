@@ -44,7 +44,8 @@
 			"Codynguyen1116",
 			"Rubentl134",
 			"Dgstranz",
-			"Savh"
+			"Savh",
+			"Peter Bowman"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -230,6 +231,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikiversity": "Wikiversidad",
 	"wikibase-sitelinks-wikivoyage": "Wikiviajes",
+	"wikibase-sitelinks-wiktionary": "Wikcionario",
 	"wikibase-otherprojects-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
@@ -243,6 +245,7 @@
 	"wikibase-otherprojects-wikisource": "Wikisource",
 	"wikibase-otherprojects-wikiversity": "Wikiversidad",
 	"wikibase-otherprojects-wikivoyage": "Wikiviajes",
+	"wikibase-otherprojects-wiktionary": "Wikcionario",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
