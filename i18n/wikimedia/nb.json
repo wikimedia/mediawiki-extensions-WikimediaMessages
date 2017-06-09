@@ -13,7 +13,8 @@
 			"SuperPotato",
 			"Jeblad",
 			"Telaneo",
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Pmt"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke beskjeder",
@@ -198,6 +199,7 @@
 	"wikibase-sitelinks-wikisource": "Wikikilden",
 	"wikibase-sitelinks-wikiversity": "Wikiversity",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-wiktionary": "Wiktionary",
 	"wikibase-otherprojects-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
@@ -211,6 +213,7 @@
 	"wikibase-otherprojects-wikisource": "Wikikilden",
 	"wikibase-otherprojects-wikiversity": "Wikiversity",
 	"wikibase-otherprojects-wikivoyage": "Wikivoyage",
+	"wikibase-otherprojects-wiktionary": "Wiktionary",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
