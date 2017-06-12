@@ -6,15 +6,16 @@
 			"Multichill",
 			"Spiritia",
 			"Stanqo",
-			"Turin"
+			"Turin",
+			"StanProg"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:bg:Криейтив Комънс",
 	"wm-license-cc-attribution": "Признание",
-	"wm-license-cc-by-1.0-text": "Този файл е лицензиран под [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/1.0/deed.bg Attribution 1.0 Generic] лиценз.",
+	"wm-license-cc-by-1.0-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/1.0/deed.bg Attribution 1.0 Generic] лиценз.",
 	"wm-license-cc-by-1.0-fi-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/1.0/fi/deed.bg Признание 1.0 Финландия].",
 	"wm-license-cc-by-1.0-il-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/1.0/il/deed.bg Признание 1.0 Израел].",
-	"wm-license-cc-by-1.0-nl-text": "Този файл е лицензиран под [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/1.0/nl/deed.bg Attribution 1.0 Netherlands] лиценз.",
+	"wm-license-cc-by-1.0-nl-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/1.0/nl/deed.bg Attribution 1.0 Netherlands] лиценз.",
 	"wm-license-cc-by-2.0-text": "Този файл е лицензиран под [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/2.0/deed.bg Attribution 2.0 Generic] лиценз.",
 	"wm-license-cc-by-2.0-at-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/2.0/at/deed.bg Признание 2.0 Австрия].",
 	"wm-license-cc-by-2.0-au-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [//creativecommons.org/licenses/by/2.0/au/deed.bg Признание 2.0 Австралия].",
