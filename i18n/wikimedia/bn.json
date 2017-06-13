@@ -12,7 +12,8 @@
 			"Aftabuzzaman",
 			"Bodhisattwa",
 			"Elias Ahmmad",
-			"Kayser Ahmad"
+			"Kayser Ahmad",
+			"Mohammed Galib Hasan"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -173,6 +174,7 @@
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক লাইসেন্সের সংজ্ঞা\" target=\"_blank\">সিসি বাই-এস ৩.০</a> এবং <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"জিএফডিএলের সংজ্ঞা\" target=\"_blank\">জিএফডিএল</a>",
 	"wikibase-repo-name": "উইকিউপাত্ত",
 	"wikibase-statementsection-identifiers": "শনাক্তকারী",
+	"wikibase-statementsection-constraints": "সীমাবদ্ধতা",
 	"wikibase-sitelinks-wikibooks": "উইকিবই",
 	"wikibase-sitelinks-wikinews": "উইকিসংবাদ",
 	"wikibase-sitelinks-wikiquote": "উইকিউক্তি",
