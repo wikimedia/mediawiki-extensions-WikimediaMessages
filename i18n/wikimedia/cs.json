@@ -165,6 +165,7 @@
 	"wikimedia-copyrightwarning": "Uložením změn souhlasíte s&nbsp;[https://wikimediafoundation.org/wiki/Terms_of_Use/cs Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC&nbsp;BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL].\nSouhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.cs\" title=\"Definice licence Creative Commons Uveďte autora-Zachovejte licenci\" target=\"_blank\">CC BY-SA 3.0</a> a <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definice GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-statementsection-identifiers": "Identifikátory",
+	"wikibase-statementsection-constraints": "Omezení",
 	"wikibase-sitelinks-wikibooks": "Wikiknihy",
 	"wikibase-sitelinks-wikinews": "Wikizprávy",
 	"wikibase-sitelinks-wikiquote": "Wikicitáty",
