@@ -213,6 +213,7 @@
 	"eri-rcfilters-tour-invite-yes-button": "Omogući nove filtere",
 	"eri-rcfilters-tour-invite-no-button": "Ne, hvala",
 	"eri-rcfilters-tour-confirm-title": "Novi filteri su sada omogućeni",
+	"wikimedia-centralauth-contribs-locked": "Ovaj je račun globalno zaključan.\nPogledajte više informacija [[m:Special:CentralAuth/$1|o globalnom računu]].",
 	"wikimedia-centralauth-uwbr-intro": "Ova stranica prikazuje popis suradnika registriranih na ovom wikiju koji će biti preimenovani zbog [[m:Single User Login finalisation announcement|spajanja svih suradničkih računa u sustav središnje prijave (SUL)]]. Više informacija možete naći [[m:Help:Unified login|ovdje]]. Suradnici  [[Special:GlobalRenameRequest|ovdje]] mogu bilo kada zatražiti preimenovanje.",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }
