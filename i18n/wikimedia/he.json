@@ -193,6 +193,7 @@
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"הגדרה של רישיון קריאייטיב קומונז ייחוס–שיתוף זהה\" target=\"_blank\">CC BY-SA 3.0</a> and <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"הגדרה של GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ויקינתונים",
 	"wikibase-statementsection-identifiers": "מזהים",
+	"wikibase-statementsection-constraints": "אילוצים",
 	"wikibase-sitelinks-wikibooks": "ויקיספר",
 	"wikibase-sitelinks-wikinews": "ויקיחדשות",
 	"wikibase-sitelinks-wikiquote": "ויקיציטוט",
