@@ -1310,7 +1310,6 @@ class WikimediaMessagesHooks {
 
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
 		if ( class_exists( 'GuidedTourHooks' ) ) {
-
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersBeta', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
