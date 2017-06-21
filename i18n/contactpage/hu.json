@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dorgan"
+			"Dorgan",
+			"Tacsipacsi"
 		]
 	},
-	"contactpage-wikimedia-trademark-commons": "Wikimédia Commons"
+	"contactpage-wikimedia-trademark-commons": "Wikimédia Commons",
+	"contactpage-wikimedia-trademark-wiktionary": "Wikiszótár"
 }

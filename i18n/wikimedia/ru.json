@@ -39,7 +39,8 @@
 			"Mailman",
 			"Ole Yves",
 			"Redredsonia",
-			"Facenapalm"
+			"Facenapalm",
+			"Cinemantique"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -231,6 +232,7 @@
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikiversity": "Викиверситет",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
+	"wikibase-sitelinks-wiktionary": "Викисловарь",
 	"wikibase-otherprojects-commons": "Викисклад",
 	"wikibase-otherprojects-testwikidata": "Викиданные",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
