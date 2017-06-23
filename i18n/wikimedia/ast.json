@@ -184,6 +184,7 @@
 	"wikimedia-copyrightwarning": "Al guardar los cambios aceutes les [https://wikimediafoundation.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable lliberar la to collaboración baxo la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAceutes qu'un hiperenllaz o URL ye reconocimientu bastante baxo la llicencia Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definición de la Llicencia Creative Commons Attribution/Share-Alike\" target=\"_blank\">CC BY-SA 3.0</a> y <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definición de la GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-statementsection-identifiers": "Identificadores",
+	"wikibase-statementsection-constraints": "Torgues",
 	"wikibase-sitelinks-wikibooks": "Wikillibros",
 	"wikibase-sitelinks-wikinews": "Wikinoticies",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
