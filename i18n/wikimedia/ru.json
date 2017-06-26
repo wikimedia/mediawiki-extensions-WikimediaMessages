@@ -218,7 +218,7 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Служба поддержки WMF",
 	"tag-emoji": "Смайлы",
 	"tag-emoji-description": "Используется глобальным фильтром злоупотребления 110.",
-	"search-interwiki-custom": "wikt:Из Викисловаря\nb:Из Викиучебника\nn:Из Викиновостей\nq:Из Викицитатника\ns:Из Викитеки\nv:Из Викиверситета\nvoy:Из Викигида",
+	"search-interwiki-custom": "wikt:В Викисловаре\nb:В Викиучебнике\nn:В Викиновостях\nq:В Викицитатнике\ns:В Викитеке\nv:В Викиверситете\nvoy:В Викигиде",
 	"shared-repo-name-shared": "Викисклада",
 	"wikimedia-copyright": "Текст доступен по <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">лицензии Creative Commons Attribution-ShareAlike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href=\"https://wikimediafoundation.org/wiki/Условия_использования\">Условия использования</a>.",
 	"wikidata-copyright": "Все структурированные данные основного пространства имён и пространства имён “Property” доступны по <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">лицензии Creative Commons CC0</a>; текст в других пространствах имён доступен по <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">лицензии Creative Commons Attribution-ShareAlike</a>;\n могут действовать дополнительные условия.\nПодробнее смотрите в разделе «<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Условия использования</a>» .",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sfic"
+			"Sfic",
+			"Vishwanath"
 		]
 	},
 	"project-localized-name-bhwiki": "भोजपुरी विकिपीडिया",
@@ -58,6 +59,7 @@
 	"project-localized-name-jawikiquote": "जापानी विकिसूक्ति",
 	"project-localized-name-jawikisource": "जापानी विकिस्रोत",
 	"project-localized-name-jawikiversity": "जापानी विकिविश्वविद्यालय",
+	"project-localized-name-kbpwiki": "कबीय विकिपीडिया",
 	"project-localized-name-tewiki": "तेलुगू विकिपीडिया",
 	"project-localized-name-tewiktionary": "तेलुगू विक्षनरी",
 	"project-localized-name-tewikibooks": "तेलुगू विकिपुस्तक",
