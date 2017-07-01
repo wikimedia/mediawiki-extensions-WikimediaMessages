@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Pmt"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia på afar",
@@ -366,6 +367,7 @@
 	"project-localized-name-kaawiki": "Wikipedia på karakalpakisk",
 	"project-localized-name-kabwiki": "Wikipedia på kabylsk",
 	"project-localized-name-kbdwiki": "Wikipedia på kabardisk",
+	"project-localized-name-kbpwiki": "Wikipedia på Kabiyè",
 	"project-localized-name-kgwiki": "Wikipedia på kikongo",
 	"project-localized-name-kiwiki": "Wikipedia på kikuyu",
 	"project-localized-name-kjwiki": "Wikipedia på kuanyama",
