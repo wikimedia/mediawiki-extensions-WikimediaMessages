@@ -1,15 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kirsan"
+			"Kirsan",
+			"Kaszeba"
 		]
 	},
+	"sitesupport": "Wspòmòżenié",
+	"tooltip-n-sitesupport": "Pòmòże nam",
 	"wikimedia-copyright": "Hewòtny tekst je dostãpny na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencje Creative Commons Attribution-ShareAlike\n</a>, w niechtërnëch przëtrôfkach mògą równak dochadac dodôwkòwé zastrzedżi. Czëtôj wiãcy: <a href=\"https://wikimediafoundation.org/wiki/Warunki_korzystania\">Warënczi kòrzëstaniô</a>.",
-	"wikimedia-copyrightwarning": "Zapisëjącë zmianë, beznazôtno zgôdzôsz sã na ùdostãpnienié twòjégò wkładu na licencje [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike wersjô 3.0], a téż na licencje [https://www.gnu.org/copyleft/fdl.html GFDL]. Zgôdzôsz sã tej na wëzwëskanié twòjégò wkładu w równo jaczi fòrmie, pòd zastrzégą, że òstónie pòdónô przënômni hiperłączba abò adresa URL do starnë, na chtërny pòwsta zamkłosc. Òbaczë pòdrobné jinfòrmacje ò [https://wikimediafoundation.org/wiki/Warunki_korzystania warënkach kòrzëstaniô].",
+	"wikimedia-copyrightwarning": "Zapisëjącë zmianë, beznazôtno zgôdzôsz sã na ùprzëstãpnianié twòjégò wkładu na licencëji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike wersjô 3.0], a téż na licencëji [https://www.gnu.org/copyleft/fdl.html GFDL]. Zgôdzôsz sã tej na wëzwëskanié twòjégò wkładu w równo jaczi fòrmie, pòd zastrzégą, że òstónie pòdónô przënômni hiperłączba abò adresa URL do starnë, na chtërny pòwsta na zamkłosc. Òbaczë pòdrobné jinfòrmacëje ò [https://wikimediafoundation.org/wiki/Warunki_korzystania warënkach kòrzëstaniô].",
 	"wikibase-repo-name": "Wikipòdôwczi",
 	"wikibase-sitelinks-wikinews": "Wikinowinë",
+	"wikibase-sitelinks-wikiquote": "Wikicëtatë",
+	"wikibase-sitelinks-wikisource": "Wikizdroje",
+	"wikibase-sitelinks-wikivoyage": "Wikirézë",
 	"wikibase-otherprojects-wikidata": "Wikipòdôwczi",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikipòdôwczi",
 	"wikimedia-developers": "Rozwijarze",
+	"wikimedia-globalblocking-ipblocked": "'''Twòjô IP adresa òsta [[m:Special:MyLanguage/Global blocks|zablokòwónô na wszëtczich wiki]].'''\n\nBlokadã założëł $1 ($2).\nPòdónô przëczëna: „$3”.\n\n* Zôczątk blokadë: $4 \n* Kùńc blokadë: $5 \n\nTwòjô akùratnô IP adresa to $6.\nProszã pòdac ne wszëtczé detale w przëtrôfkù zapëtań.\n\nJeżlë jes ti dbë, że blokada pòwsta przez zmiłkã, dobëjesz wicy wëdowiédzë ë jinstrukcëje na starnie globalnych reglów [[m:Special:MyLanguage/No open proxies|Bez òtemkłich serwerów proxy]].\nW jinnym przëtrôfkù, dlô òminiãcô blokadë, [[m:Steward requests/Global|złożë wniosk ò rozpatrzenié twòji sprawë na Meta-wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Jeden abò wicy serwerów proxy ùzëwónych przez ce òstôł [[m:Special:MyLanguage/Global blocks|globalno zblokòwóny]].'''\n\nBlokadã założëł $1 ($2).\nPòdónô przëczëna: „$3”.\n\n* Zôczątk blokadë: $4 \n* Kùńc blokadë: $5 \n\nZblokòwónô adresa proxy to $6.\nProszã pòdac ne wszëtczé detale w przëtrôfkù zapëtań.\n\nJeżlë jes ti dbë, że blokada pòwsta przez zmiłkã, dobëjesz wicy wëdowiédzë ë jinstrukcëje na starnie globalnych reglów [[m:Special:MyLanguage/No open proxies|Bez òtemkłich serwerów proxy]].\nW jinnym przëtrôfkù, dlô òminiãcô blokadë, [[m:Steward requests/Global|złożë wniosk ò rozpatrzenié twòji sprawë na Meta-wiki]].",
 	"wikimedia-cookiestatement": "Ò kùszkach"
 }
