@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cgboeree"
+			"Cgboeree",
+			"Katxis"
 		]
 	},
 	"wm-license-cc-attribution": "Atribui",
-	"wm-license-cc-by-sa-3.0-text": "Esta fix es lisensada su la [[{{int:wm-license-cc-wiki-link}}|Comunia Creosa]] Lisensa de [//creativecommons.org/licenses/by-sa/3.0/deed.en Atribui a-Comparti con lunlotra  3.0 sinporta].",
+	"wm-license-cc-by-sa-3.0-text": "Esta fix es lisensada su la lisensa [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-free": "Tu es libre:",
 	"wm-license-cc-free-to-share-header": "per comparti",
 	"wm-license-cc-free-to-share-text": "per copia, distribui e transmete la obra",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "per ajusta la obra",
 	"wm-license-cc-conditions": "Su la constrinjes seguente:",
 	"wm-license-cc-conditions-attribution-header": "atribui",
-	"wm-license-cc-conditions-attribution-text": "Tu debe atribui la obra en la modo spesifada par la autor o lisensor (ma no en cualce modo cual sujeste ce los validi tu o tua usa de la obra).",
-	"wm-license-cc-conditions-share_alike-header": "comparti con lunlotra",
-	"wm-license-cc-conditions-share_alike-text": "Si tu altera, muta, o developa plu esta obra, tu pote distruibui la obra resultante sola su la mesma lisensa o un lisense simil a esta."
+	"wm-license-cc-conditions-attribution-text": "Tu debe atribui la obra en la modo spesifada par la autor o lisensor (ma no en cualce modo cual sujesta ce el aproba tu o tua usa de la obra).",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
+	"wm-license-cc-conditions-share_alike-text": "Si tu altera, muta o developa plu esta obra, tu pote distribui la obra resultante sola su la mesma lisensa o un simil a esta."
 }

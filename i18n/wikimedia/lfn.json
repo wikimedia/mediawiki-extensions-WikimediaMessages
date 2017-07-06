@@ -5,15 +5,15 @@
 			"Katxis"
 		]
 	},
-	"sitesupport": "Donas",
-	"tooltip-n-sitesupport": "suporta nos",
-	"wikimedia-copyright": "Testo es disponable su la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Atribui de comunia creosa-Lisense de comparti </a>;\nplu acordas pote es aplicada.\nVide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Acordas per usa</a> per detailias.",
-	"wikimedia-copyrightwarning": "Par salve cambias, tu acorda con la [https://wikimediafoundation.org/wiki/Terms_of_Use/contrata de usa], e tu acorda nonreversable per relasa tua contribui su la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License lisensa CC BY-SA 3.0] e la testo de la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License lisensa GFDL].\nTu acorda ce un iperlia o URL es atribui sufisinte su la lisensa de Comunia Creosa.",
+	"sitesupport": "Fa un dona",
+	"tooltip-n-sitesupport": "Suporta nos",
+	"wikimedia-copyright": "Testo es disponeda su la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lisensa Attribution-ShareAlike de Creative Commons</a>; plu restrinjes pote pertine. Vide <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Contrata de usa</a> per detalias.",
+	"wikimedia-copyrightwarning": "Par fisa cambias, tu acorda la [https://wikimediafoundation.org/wiki/Terms_of_Use/Terms_of_Use contrata de usa], e tu acorda noncanselable relasa tua contribui su la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License lisensa CC BY-SA 3.0] e la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Tu acorda ce un iperlia o URL es un atribui sufisinte su la lisensa de Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Vicinovas",
-	"wikibase-sitelinks-wikiquote": "Wikisita",
-	"wikibase-sitelinks-wikisource": "Wikifonte",
-	"wikibase-sitelinks-wikivoyage": "Wikiviaja",
+	"wikibase-sitelinks-wikiquote": "Vicisita",
+	"wikibase-sitelinks-wikisource": "Vicifonte",
+	"wikibase-sitelinks-wikivoyage": "Viciviaja",
 	"wikimedia-developers": "Developores",
-	"wikimedia-globalblocking-ipblocked": "'''Tua adirije de IP ia es [[m:Special:MyLanguage/Global blocks|blocida a tota wikis]].'''\n\nLa bloci ia es fada par $1 ($2).\nLa razona donada es ''$3''.\n\n* Comensa de bloci: $4\n* Fini de bloci: $5\n\nTua adirije de IP presente es $6.\nPer favore inclui tota la detalias a supra en cualce tuademandas.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the \nSi tu opina ce tu ia es blocida par era, tu pote trova plu informa e instruis en la  contrata global de [[m:Special:MyLanguage/No open proxies|no proxis abrida]].\nEn otra casos, per discute la bloci, per favore [[m:Steward requests/Global|posta un demanda per resenia a Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''Tua adirije IP es [[m:Special:MyLanguage/Global blocks|impedida en tota vicis]].'''\n\nLa impedi ia es fada par $1 ($2).\nLa razona donada es ''$3''.\n\n* Comensa de impedi: $4\n* Fini de impedi: $5\n\nTua adirije IP presente es $6.\nInclui tota la detalias a supra en cualce demanda cual tu fa, per favore.\n\nSi tu opina ce on ia impedi tu par era, tu pote trova plu informas e instruis en la regula global [[m:Special:MyLanguage/No open proxies|\"No proxis abrida\"]].\nEn otra casos, per discute la impedi, per favore [[m:Steward requests/Global|posta un demanda per reconsidera a Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Un o plu servadores de proxi usada par tua demanda es [[m:Special:MyLanguage/Global blocks|global blocida]].'''\n\nLa bloci ia es fada par $1 ($2).\nLa razona donada es ''$3''.\n\n* Comensa de bloci: $4\n* Fini de bloci: $5\n\nTua adirije de IP presente es $6.\nPer favore inclui tota la detalias a supra en cualce tuademandas.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the \nSi tu opina ce tu ia es blocida par era, tu pote trova plu informa e instruis en la  contrata global de [[m:Special:MyLanguage/No open proxies|no proxis abrida]].\nEn otra casos, per discute la bloci, per favore [[m:Steward requests/Global|posta un demanda per resenia a Meta-Wiki]]."
 }
