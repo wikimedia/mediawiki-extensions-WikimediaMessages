@@ -2,10 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Gion-andri",
-			"Kazu89"
+			"Kazu89",
+			"Terfili"
 		]
 	},
 	"sitesupport": "Donaziuns",
 	"tooltip-n-sitesupport": "Ans sustegna",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Sviluppaders"
 }
