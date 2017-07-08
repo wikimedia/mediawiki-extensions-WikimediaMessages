@@ -23,7 +23,8 @@
 			"Macofe",
 			"Statix64",
 			"Candalua",
-			"Fringio"
+			"Fringio",
+			"Aquatech"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -255,14 +256,25 @@
 	"restriction-level-editextendedsemiprotected": "protetta autoverificato",
 	"eri-rcfilters-beta-label": "Nuovi filtri per la revisione delle modifiche",
 	"eri-rcfilters-beta-description": "Revisiona le ultime modifiche usando un'interfaccia più semplice e funzionale. Include nuovi filtri, evidenziazione definita dall'utente e altre migliorie.",
+	"eri-rcfilters-beta-description-ores": "Revisiona le ultime modifiche usando un'interfaccia più semplice e funzionale e diversi nuovi strumenti, inclusi filtri predittivi basati su [[m:Objective Revision Evaluation Service|ORES]], un programma di apprendimento automatico.",
 	"eri-rcfilters-tour-welcome-title": "Introduzione: nuovi filtri per la revisione delle ultime modifiche (beta)",
+	"eri-rcfilters-tour-welcome-description": "Combina strumenti migliorati, una nuova interfaccia e la potenza dell'apprendimento automatico per combattere i vandalismi e aiutare i nuovi utenti.",
+	"eri-rcfilters-tour-welcome-no-ores-description": "Revisiona le modifica usando un'interfaccia più semplice e potente, filtri aggiuntivi, evidenziazioni personalizzabili e altri miglioramenti.",
 	"eri-rcfilters-tour-welcome-button": "OK, ho capito",
+	"eri-rcfilters-tour-highlight-description": "Usa le evidenziazioni per distinguere a colpo d'occhio le caratteristiche selezionate.<br/><br/>Puoi combinare le evidenziazioni con i filtri o usarle da sole.",
 	"eri-rcfilters-tour-highlight-button": "OK, ho capito",
+	"eri-rcfilters-tour-invite-title": "Nuova funzionalità sperimentale disponibile per questa pagina",
+	"eri-rcfilters-tour-invite-description": "Prova i  \"'''Nuovi filtri per la revisione delle modifiche'''\". Trova le modifiche più rilevanti per le tue esigenze di revisione",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "Ulteriori informazioni",
 	"eri-rcfilters-tour-invite-yes-button": "Attiva i nuovi filtri",
 	"eri-rcfilters-tour-invite-no-button": "No, grazie",
 	"eri-rcfilters-tour-confirm-title": "I nuovi filtri ora sono attivi",
+	"eri-rcfilters-tour-confirm-description": "Puoi accedere alla <strong>pagina delle funzionalità sperimentali</strong> per fornire commenti o disattivare la funzionalità.",
+	"wikimedia-ipb-confirmhideuser": "Attivando \"nascondi utente\" stai per bloccare un utente. In questo modo il nome dell'utente verrà soppresso da tutte le liste e le voci di registro in questo wiki. Sei certo di volerlo?\n\nSe hai bisogno che il nome dell'utente venga nascosto su tutti i wiki di Wikimedia, per favore contatta gli [[m:Special:MyLanguage/Stewards|steward]] attraverso stewards@wikimedia.org.",
+	"wikimedia-feedback-termsofuse": "Accetto di fornire riscontri in accordo con i <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Termini d'Uso</a>.",
+	"wikimedia-globalrenamequeue-email-body-approved": "La richiesta di rinominare \"{{GENDER:$1|$1}}\" come \"{{GENDER:$1|$2}}\" è stata accettata. Una volta completata, sarai in grado di accedere usando il tuo nuovo nome utente assieme alla tua vecchia pasword. Grazie per la tua partecipazione ai progetti Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Questo utente è bloccato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
+	"securepoll-dblist-securepollglobal": "Elezione del Consiglio",
 	"wikimedia-mwoauthserver-invalid-user": "Si è verificato un problema con l'accesso globale. Se hai appena creato la tua utenza, esci e rientra, e poi ritenta ad autorizzare nuovamente l'applicazione. Se non hai appena creato la tua utenza, visita [https://meta.wikimedia.org/ meta.wikimedia.org], e poi ritenta ad autorizzare nuovamente l'applicazione. (Codice errore: E008)",
 	"wikimedia-cookiestatement": "Dichiarazione sui cookie"
 }
