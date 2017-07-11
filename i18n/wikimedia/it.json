@@ -271,7 +271,7 @@
 	"eri-rcfilters-tour-confirm-title": "I nuovi filtri ora sono attivi",
 	"eri-rcfilters-tour-confirm-description": "Puoi accedere alla <strong>pagina delle funzionalità sperimentali</strong> per fornire commenti o disattivare la funzionalità.",
 	"wikimedia-ipb-confirmhideuser": "Attivando \"nascondi utente\" stai per bloccare un utente. In questo modo il nome dell'utente verrà soppresso da tutte le liste e le voci di registro in questo wiki. Sei certo di volerlo?\n\nSe hai bisogno che il nome dell'utente venga nascosto su tutti i wiki di Wikimedia, per favore contatta gli [[m:Special:MyLanguage/Stewards|steward]] attraverso stewards@wikimedia.org.",
-	"wikimedia-feedback-termsofuse": "Accetto di fornire riscontri in accordo con i <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Termini d'Uso</a>.",
+	"wikimedia-feedback-termsofuse": "Accetto di fornire commenti in accordo con le <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/it\" target=\"_blank\">condizioni d'uso</a>.",
 	"wikimedia-globalrenamequeue-email-body-approved": "La richiesta di rinominare \"{{GENDER:$1|$1}}\" come \"{{GENDER:$1|$2}}\" è stata accettata. Una volta completata, sarai in grado di accedere usando il tuo nuovo nome utente assieme alla tua vecchia pasword. Grazie per la tua partecipazione ai progetti Wikimedia.",
 	"wikimedia-centralauth-contribs-locked": "Questo utente è bloccato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
 	"securepoll-dblist-securepollglobal": "Elezione del Consiglio",
