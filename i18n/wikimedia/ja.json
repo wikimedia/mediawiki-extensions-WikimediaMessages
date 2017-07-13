@@ -31,7 +31,8 @@
 			"Darklanlan",
 			"Omotecho",
 			"Mirinano",
-			"Iwai.masaharu"
+			"Iwai.masaharu",
+			"Suchichi02"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -245,6 +246,7 @@
 	"eri-rcfilters-tour-welcome-description": "改良したツール、新しいインターフェースならびに機械学習を組み合わせて荒らしと戦い、新しい利用者を保護する",
 	"eri-rcfilters-tour-welcome-no-ores-description": "より簡単で素敵なインターフェース、様々なフィルター、選択した項目の強調表示などの改良を用いて編集内容の確認ができます。",
 	"eri-rcfilters-tour-welcome-button": "わかりました",
+	"eri-rcfilters-tour-highlight-button": "わかりました",
 	"eri-rcfilters-tour-invite-title": "このページのための新しいベータ版機能",
 	"eri-rcfilters-tour-invite-description": "'''編集レビューの新しいフィルター'''を試してください。あなたの要求に応じた最も関連性の高い編集を探すことができます。",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "詳細",
