@@ -2,16 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Dinkawiki",
-			"Mawanmuortat"
+			"Mawanmuortat",
+			"Amire80"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "Yïn alääunhom ba wɛ̈tcïgɔ̈t kän jɔt, ba tɛkpiny, ku/tëdɛ̈ ba waaric, cïtmën cïnëye gɔ̈t në lööŋ ke [[{{int:wm-license-gfdl-wiki-link}}|Anyoothluɔi de GNU de Wëlcïkegɔ̈t yee ke Gam kecïn Tɛ̈uëpiny në Wëu  ]], Bïïbei 1.2, tëdɛ̈ kayee gun bïïbei dɛ̈t bɔ̈ ciëën cï bɛ̈i bei në  [[{{int:wm-license-fsf-wiki-link}}|Akutdekuɔny de Wëlnyoothkuer ke Makuɛ̈n yee Gam kecïn Tɛ̈uëpiny në Wëu]],  ku yen acïnic abaŋ de kä cie waar, ku acïnic akumkɔ̈u tueŋ, ku acïnic akumkɔ̈u ciën. Ajöt de anyoothluɔi acï mat në abaŋ yee cɔl  \"[[{{int:wm-license-gfdl-full-1.2-link}}|Anyoothluɔi de GNU në Wëlcïkegɔ̈t yee ke Gam kecïn Tɛ̈uëpiny në Wëu]]\".",
-	"wm-license-information-description": "lëkcäät",
+	"wm-license-information-description": "Lëkcäät",
 	"wm-license-information-source": "Tënëyök",
 	"wm-license-information-date": "Aköl",
 	"wm-license-information-author": "Agɔ̈t",
 	"wm-license-information-permission": "Kithiɛ̈c",
-	"wm-license-information-permission-reusing-text": "ke ber wëtmätkën looi",
+	"wm-license-information-permission-reusing-text": "Ke ber wëtmätkën looi",
 	"wm-license-own-work": "Luɔ̈igup",
 	"wm-license-self-multiple-licenses-select": "Yïn alëu ba anyoothluɔidun wïc loc."
 }

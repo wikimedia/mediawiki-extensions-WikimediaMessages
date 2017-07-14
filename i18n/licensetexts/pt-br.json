@@ -9,10 +9,10 @@
 			"Luckas",
 			"Luckas Blade",
 			"555",
-			"Cainamarques"
+			"Cainamarques",
+			"Felipe L. Ewald"
 		]
 	},
-	"wikimedialicensetexts-desc": "Mensagens de licenciamento Wikimedia",
 	"wm-license-attribution-with-author-text": "O detentor dos direitos autorais deste arquivo, $1, autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
 	"wm-license-attribution-without-author-text": "O detentor dos direitos autorais deste arquivo autoriza o seu uso por qualquer pessoa, '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
 	"wm-license-artwork-artist": "Artista",
@@ -43,6 +43,7 @@
 	"wm-license-book-volume": "Volume",
 	"wm-license-book-year-of-publication": "Ano de publicação",
 	"wm-license-cecill-text": "Esse trabalho é um [[{{int:wm-license-free-software-wiki-link}}|software gratuito]]; você pode redistribuí-lo, ou modificá-lo sob os termos de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Os termos da licença CeCILL estao disponíveis em [{{int:wm-license-cecill-full-link}} www.cecill.info].",
+	"wm-license-cecill-full-link": "http://www.cecill.info/licences/Licence_CeCILL_V2-en.html",
 	"wm-license-creator-alternative-names": "Nomes alternativos",
 	"wm-license-creator-description": "Descrição",
 	"wm-license-creator-date-of-birth": "Data de nascimento",
@@ -53,6 +54,8 @@
 	"wm-license-creator-work-location": "Local de trabalho",
 	"wm-license-creator-linkback": "Link de volta à predefinição da caixa informativa Creator",
 	"wm-license-fal-text": "Copyleft: Esta é uma obra de arte livre; pode redistribuí-la e/ou modificá-la nos termos da licença '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Encontrará um exemplar desta licença no [{{int:wm-license-fal-full-link}} site Copyleft Attitude]  e noutros sites.",
+	"wm-license-fal-full-link": "http://artlibre.org/lal/en",
+	"wm-license-fal-full-link-commons": "https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3",
 	"wm-license-gfdl-1.2-and-later": "É concedida permissão para copiar, distribuir e/ou modificar este documento nos termos da licença '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versão 1.2 ou qualquer versão posterior publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seções Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma cópia da licença na seção intitulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only": "É concedida permissão para copiar, distribuir e/ou modificar este documento nos termos da licença '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', somente na sua Versão 1.2, publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seções Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma cópia da licença na seção intitulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;apenas",
