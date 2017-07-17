@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ibrahim",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"ToJack"
 		]
 	},
 	"wikimediamessages-desc": "Пайғомҳои махсуси Викимедиа",
@@ -11,8 +12,11 @@
 	"group-accountcreator": "Эҷодгарони ҳисоб",
 	"group-accountcreator-member": "{{GENDER:$1|эҷодкунандаи ҳисоб}}",
 	"grouppage-accountcreator": "{{ns:project}}:Созандагони ҳисоби корбарӣ",
+	"grouppage-arbcom": "{{ns:project}}:Аъзоҳои коммитети арбитражӣ",
 	"group-autopatrolled-member": "{{GENDER:$1|гаштзани худкор}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Гаштзанони худкор",
+	"group-flood": "Корбарони роботӣ",
+	"group-flood-member": "{{GENDER:$1|корбар-бот}}",
 	"group-founder": "Бунёдгузорон",
 	"group-founder-member": "{{GENDER:$1|асосгузор}}",
 	"grouppage-founder": "{{ns:project}}:Асосгузорон",
@@ -43,8 +47,20 @@
 	"group-steward-member": "{{GENDER:$1|википед}}",
 	"group-sysadmin": "Мудирони систем",
 	"group-sysadmin-member": "{{GENDER:$1|мудири систем}}",
+	"wikibase-repo-name": "Викимаълумот",
 	"wikibase-sitelinks-wikinews": "Викиахбор",
-	"wikibase-sitelinks-wikisource": "Викиманбаъ",
+	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Викисафар",
-	"wikimedia-developers": "Таҳиягарон"
+	"wikibase-otherprojects-commons": "Викианбор",
+	"wikibase-otherprojects-testwikidata": "Викимаълумот",
+	"wikibase-otherprojects-meta": "Мета-вики",
+	"wikibase-otherprojects-species": "Викинамудҳо",
+	"wikibase-otherprojects-wikidata": "Викимаълумот",
+	"wikibase-otherprojects-wikiquote": "Викииқтибос",
+	"wikibase-otherprojects-wiktionary": "Викилуғат",
+	"wikibase-sitelinks-sitename-metawiki": "Мета-вики",
+	"wikibase-sitelinks-sitename-species": "Викинамудҳо",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Викимаълумот",
+	"wikimedia-developers": "Таҳиягарон",
+	"interlanguage-link-commons": "Викианбор"
 }

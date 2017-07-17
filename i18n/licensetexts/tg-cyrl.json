@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ibrahim"
+			"Ibrahim",
+			"ToJack"
 		]
 	},
+	"wm-license-book-language": "Забон",
 	"wm-license-information-description": "Тавсифот",
 	"wm-license-information-source": "Манбаъ",
 	"wm-license-information-date": "Сана",

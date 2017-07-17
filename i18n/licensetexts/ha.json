@@ -1,4 +1,11 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"DonCamillo"
+		]
+	},
+	"wm-license-information-source": "Masomi",
+	"wm-license-information-date": "Rana",
+	"wm-license-information-author": "Marubucin",
 	"wm-license-information-permission": "Izini"
 }

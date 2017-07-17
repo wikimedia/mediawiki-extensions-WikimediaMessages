@@ -17,7 +17,7 @@
 	"wm-license-attribution-without-author-text": "O detentor dos direitos autorais deste arquivo autoriza o seu uso por qualquer pessoa, '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
 	"wm-license-artwork-artist": "Artista",
 	"wm-license-artwork-title": "Título",
-	"wm-license-artwork-medium": "Técnica",
+	"wm-license-artwork-medium": "Média",
 	"wm-license-artwork-dimensions": "Dimensões",
 	"wm-license-artwork-current-location": "Localização atual",
 	"wm-license-artwork-object-history": "História do objeto",
@@ -30,7 +30,7 @@
 	"wm-license-book-edition": "Edição",
 	"wm-license-book-editor": "Editor",
 	"wm-license-book-illustrator": "Ilustrador",
-	"wm-license-book-language": "Língua",
+	"wm-license-book-language": "Idioma",
 	"wm-license-book-page-overview": "Amostra das páginas",
 	"wm-license-book-place-of-publication": "Local de publicação",
 	"wm-license-book-printer": "Impressor",
@@ -53,7 +53,7 @@
 	"wm-license-creator-work-period": "Período de atividade",
 	"wm-license-creator-work-location": "Local de trabalho",
 	"wm-license-creator-linkback": "Link de volta à predefinição da caixa informativa Creator",
-	"wm-license-fal-text": "Copyleft: Esta é uma obra de arte livre; pode redistribuí-la e/ou modificá-la nos termos da licença '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Encontrará um exemplar desta licença no [{{int:wm-license-fal-full-link}} site Copyleft Attitude]  e noutros sites.",
+	"wm-license-fal-text": "Copyleft: Esta é uma obra de arte livre; pode redistribuí-la e/ou modificá-la nos termos da licença '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Encontrará um exemplar desta licença no [{{int:wm-license-fal-full-link}} site Copyleft Attitude] e [{{int:wm-license-fal-full-link-commons}} noutros sites].",
 	"wm-license-fal-full-link": "http://artlibre.org/lal/en",
 	"wm-license-fal-full-link-commons": "https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3",
 	"wm-license-gfdl-1.2-and-later": "É concedida permissão para copiar, distribuir e/ou modificar este documento nos termos da licença '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versão 1.2 ou qualquer versão posterior publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seções Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma cópia da licença na seção intitulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
@@ -71,7 +71,7 @@
 	"wm-license-information-source-missing-request": "Por favor, edite a descrição deste arquivo e acrescente sua fonte.",
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Autor",
-	"wm-license-information-author-missing": "Este arquivo está sem a informação sobre seu '''autor'''",
+	"wm-license-information-author-missing": "Este arquivo está sem a informação sobre seu '''autor'''.",
 	"wm-license-information-permission": "Permissão",
 	"wm-license-information-permission-reusing-text": "Reutilizando este arquivo",
 	"wm-license-information-permission-see-below": "Veja abaixo.",
@@ -89,5 +89,5 @@
 	"wm-license-self-one-license-with-author": "$1, titular dos direitos autorais desta obra, publica-a nos termos da seguinte licença:",
 	"wm-license-self-multiple-licenses": "Eu, titular dos direitos autorais desta obra, publico-a nos termos das seguintes licenças:",
 	"wm-license-self-multiple-licenses-with-author": "$1, titular dos direitos autorais desta obra, publico-a nos termos das seguintes licenças:",
-	"wm-license-self-multiple-licenses-select": "Você pode escolher a licença que desejar"
+	"wm-license-self-multiple-licenses-select": "Você pode escolher a licença que desejar."
 }
