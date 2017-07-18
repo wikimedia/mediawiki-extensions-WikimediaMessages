@@ -4,6 +4,7 @@
 			"Joetaras"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Le visitature de sta uicchi stonne ausane l'indirizze IP tune onne ccrejate {{PLURAL:$1|1 cunde|$1 cunde}} jndr'à l'urteme sciurne, e onne raggiunde 'u limite massime jndr'à stu periode.\nCumme resultate, le visitature ca ausane stu indirizze IP non ge ponne ccrejà otre cunde pe mò.\n\nCe tu ste pigghie parte a 'n'evende addò ste condrebbuisce a le pruggette de Uicchimedie, pe piacere 'ndruche [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Richieste temboranée de deroghe sus a l'IP]] pe darne 'na màne a resolvere stu probbleme.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(damme 'na màne a scacchià)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]"
 }
