@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Subi",
-			"Sator"
+			"Sator",
+			"Mikel Ibaiba"
 		]
 	},
 	"search-interwiki-results-abwiki": "[[:ab:|Abkhazierazko Wikipedia]]ko emaitzak erakusten.",
@@ -72,6 +73,7 @@
 	"search-interwiki-results-jvwiki": "[[:jv:|Javerazko Wikipedia]]ko emaitzak erakusten.",
 	"search-interwiki-results-kawiki": "[[:ka:|Georgierazko Wikipedia]]ko emaitzak erakusten.",
 	"search-interwiki-results-kbdwiki": "[[:kbd:|Kabarderazko Wikipedia]]ko emaitzak erakusten.",
+	"search-interwiki-results-kbpwiki": "[[:kbp:|Kabiyè Wikipedia]]ko emaitzak erakusten.",
 	"search-interwiki-results-kkwiki": "[[:kk:|Kazakherazko Wikipedia]]ko emaitzak erakusten.",
 	"search-interwiki-results-klwiki": "[[:kl:|Groenlandierazko Wikipedia]]ko emaitzak erakusten.",
 	"search-interwiki-results-kmwiki": "[[:km:|Khmererazko Wikipedia]]ko emaitzak erakusten.",

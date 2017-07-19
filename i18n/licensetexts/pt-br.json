@@ -43,6 +43,7 @@
 	"wm-license-book-volume": "Volume",
 	"wm-license-book-year-of-publication": "Ano de publicação",
 	"wm-license-cecill-text": "Esse trabalho é um [[{{int:wm-license-free-software-wiki-link}}|software gratuito]]; você pode redistribuí-lo, ou modificá-lo sob os termos de [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Os termos da licença CeCILL estao disponíveis em [{{int:wm-license-cecill-full-link}} www.cecill.info].",
+	"wm-license-cecill-wiki-link": "w:en:CeCILL",
 	"wm-license-cecill-full-link": "http://www.cecill.info/licences/Licence_CeCILL_V2-en.html",
 	"wm-license-creator-alternative-names": "Nomes alternativos",
 	"wm-license-creator-description": "Descrição",
