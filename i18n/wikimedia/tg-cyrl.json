@@ -3,7 +3,8 @@
 		"authors": [
 			"Ibrahim",
 			"לערי ריינהארט",
-			"ToJack"
+			"ToJack",
+			"Vashgird"
 		]
 	},
 	"wikimediamessages-desc": "Пайғомҳои махсуси Викимедиа",
@@ -50,7 +51,7 @@
 	"wikibase-repo-name": "Викимаълумот",
 	"wikibase-sitelinks-wikibooks": "Викикитоб",
 	"wikibase-sitelinks-wikinews": "Викиахбор",
-	"wikibase-sitelinks-wikiquote": "Викииқтибос",
+	"wikibase-sitelinks-wikiquote": "Викигуфтовард",
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikiversity": "Викидонишгоҳ",
 	"wikibase-sitelinks-wikivoyage": "Викисафар",
@@ -72,5 +73,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викимаълумот",
 	"wikimedia-developers": "Таҳиягарон",
 	"interlanguage-link-wikipedia": "Википедиа",
-	"interlanguage-link-commons": "Викианбор"
+	"interlanguage-link-commons": "Викианбор",
+	"wikimedia-cookiestatement": "Созишномаи куки"
 }
