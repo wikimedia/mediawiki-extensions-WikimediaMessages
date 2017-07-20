@@ -1300,6 +1300,7 @@ class WikimediaMessagesHooks {
 					GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Confirm' );
 				}
 			} elseif (
+				class_exists( 'BetaFeatures' ) &&
 				!$user->getOption( 'rcenhancedfilters-seen-invite' ) &&
 				!$user->getOption( 'rcenhancedfilters-seen-tour' )
 			) {
