@@ -100,6 +100,7 @@
 	"group-eliminator": "Eliminadores",
 	"group-eliminator-member": "{{GENDER:$1|eliminador|eliminadora|eliminador(a)}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminadores",
+	"group-extendedconfirmed": "Usuários confirmados estendidos",
 	"group-filemover": "Manipuladores de ficheiros",
 	"group-filemover-member": "{{GENDER:$1|manipulador|manipuladora|manipulador(a)}} de arquivos",
 	"grouppage-filemover": "{{ns:project}}:Manipuladores de ficheiros",

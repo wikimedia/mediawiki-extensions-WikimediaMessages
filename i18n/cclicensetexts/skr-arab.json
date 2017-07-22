@@ -4,11 +4,16 @@
 			"Saraiki"
 		]
 	},
+	"wm-license-cc-attribution": "لگاؤ",
+	"wm-license-cc-by-sa-3.0-text": "ایں فائل کوں [[{{int:wm-license-cc-wiki-link}}|کریٹو کامنز]] [//creativecommons.org/licenses/by-sa/2.5/pl/ Attribution 2.5 پولینڈ] لائسنس ݙتا ڳیا.",
 	"wm-license-cc-free": "تساں آزاد ہو",
 	"wm-license-cc-free-to-share-header": "شیئر کرݨ",
 	"wm-license-cc-free-to-share-text": "کاپی، ونڈنا تے کم پیجنا",
 	"wm-license-cc-free-to-remix-header": "وت رلاوݨ",
 	"wm-license-cc-free-to-remix-text": "کم کوں فٹ کرݨ",
 	"wm-license-cc-conditions": "تلویاں شرائط دے تحت:",
-	"wm-license-cc-conditions-share_alike-header": "یکساں شراکت"
+	"wm-license-cc-conditions-attribution-header": "انتساب",
+	"wm-license-cc-conditions-attribution-text": "تساں ایں کم دے بݨاوݨ آلے بارے ݙسو، انتساب کرو، انتساب وچ ایہ اصلوں محسوس نہ تھیوے جو اصل مصنف یا اجازت ݙیوݨ آلا تہاݙے ذریعے کم کرویندے پئے ہن۔",
+	"wm-license-cc-conditions-share_alike-header": "یکساں شراکت",
+	"wm-license-cc-conditions-share_alike-text": "جے تساں ایں کم وچ کوئی تبدیلی کریندے ہو، یا کوئی نواں کم ایندے اُتے کریندے ہو تاں اوں کوں وی تساں ہیں یا ایہو جیہے اجازت نامے نال شائع کر سڳدے ہو۔"
 }
