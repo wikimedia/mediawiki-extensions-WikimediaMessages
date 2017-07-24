@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"ToJack"
+			"ToJack",
+			"Vashgird"
 		]
 	},
 	"project-localized-name-ruwiktionary": "Викилуғати Русӣ",
 	"project-localized-name-tgwiktionary": "Викилуғати Тоҷикӣ",
-	"project-localized-name-incubatorwiki": "Инкубатори Викимедиа",
-	"project-localized-name-metawiki": "Мета-вики",
-	"project-localized-name-specieswiki": "Викинамудҳо",
-	"project-localized-name-wikidatawiki": "Викимаълумот"
+	"project-localized-name-incubatorwiki": "Рушди Викимедиа",
+	"project-localized-name-metawiki": "Фаро-вики",
+	"project-localized-name-specieswiki": "Викинамуд",
+	"project-localized-name-wikidatawiki": "Викидода"
 }
