@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Otogi",
-			"OpusDEI"
+			"OpusDEI",
+			"MIKHEIL"
 		]
 	},
 	"project-localized-name-aawiki": "აფარული ვიკიპედია",
@@ -83,6 +84,7 @@
 	"project-localized-name-cswikiquote": "ჩეხური ვიკიციტატა",
 	"project-localized-name-cswikisource": "ჩეხური ვიკიწყარო",
 	"project-localized-name-cswikiversity": "ჩეხური ვიკივერსიტეტი",
+	"project-localized-name-dinwiki": "დინკა ვიკიპედია",
 	"project-localized-name-frwiki": "ფრანგული ვიკიპედია",
 	"project-localized-name-frwiktionary": "ფრანგული ვიქსიკონი",
 	"project-localized-name-frwikibooks": "ფრანგულიი ვიკიწიგნები",
