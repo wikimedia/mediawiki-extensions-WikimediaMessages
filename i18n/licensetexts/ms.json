@@ -7,12 +7,12 @@
 			"Diebuche",
 			"Multichill",
 			"Yosri",
-			"Pizza1016"
+			"Pizza1016",
+			"Jeluang Terluang"
 		]
 	},
-	"wikimedialicensetexts-desc": "Pesanan lesen Wikimedia",
-	"wm-license-attribution-with-author-text": "Pemegang hak cipta fail ini ($1) membenarkan sesiapa sahaja untuk menggunakannya '''untuk apa jua tujuan, asalkan''' pemegang hak cipta diberi pengiktirafan yang sewajarnya. Pengedaran semula, kerja derivatif, kegunaan komersil dan semua kegunaan lain adalah dibenarkan.",
-	"wm-license-attribution-without-author-text": "Pemegang hak cipta fail ini membenarkan sesiapa sahaja untuk menggunakannya '''untuk apa jua tujuan, asalkan''' pemegang hak cipta diberi pengiktirafan yang sewajarnya. Pengedaran semula, kerja derivatif, kegunaan komersil dan semua kegunaan lain adalah dibenarkan.",
+	"wm-license-attribution-with-author-text": "Pemegang hak cipta fail ini ($1) membenarkan sesiapa sahaja untuk menggunakannya '''untuk apa-apa jua tujuan, asalkan''' pemegang hak cipta diberi pengiktirafan yang sewajarnya. Pengedaran semula, kerja derivatif, kegunaan komersil dan semua kegunaan lain adalah dibenarkan.",
+	"wm-license-attribution-without-author-text": "Pemegang hak cipta fail ini membenarkan sesiapa sahaja untuk menggunakannya '''untuk apa-apa jua tujuan, asalkan''' pemegang hak cipta diberi pengiktirafan yang sewajarnya. Pengedaran semula, kerja derivatif, kegunaan komersil dan semua kegunaan lain adalah dibenarkan.",
 	"wm-license-artwork-artist": "Seniman",
 	"wm-license-artwork-title": "Tajuk",
 	"wm-license-artwork-medium": "Bahantara",
@@ -51,7 +51,7 @@
 	"wm-license-creator-work-period": "Tempoh kerja",
 	"wm-license-creator-work-location": "Tempat kerja",
 	"wm-license-creator-linkback": "Pautkan kembali ke templat kotak info Creator",
-	"wm-license-fal-text": "Copyleft: Karya seni ini adalah bebas; anda boleh mengedarkannya semula dan/atau mengubahsuainya berlandaskan syarat-syarat '''[[{{int:wm-license-fal-wiki-link}}|Lesen Seni Bebas]]'''. Anda akan menemui satu spesimen lesen ini di tapak [{{int:wm-license-fal-full-link}} Copyleft Attitude] dan juga tapak-tapak web yang lain.",
+	"wm-license-fal-text": "Copyleft: Karya seni ini adalah bebas; anda boleh mengedarkannya semula dan/atau mengubahsuainya berlandaskan syarat-syarat '''[[{{int:wm-license-fal-wiki-link}}|Lesen Seni Bebas]]'''. Anda akan menemui satu spesimen lesen ini di tapak [{{int:wm-license-fal-full-link}} Copyleft Attitude] dan juga [{{int:wm-license-fal-full-link-commons}} tapak-tapak web yang lain].",
 	"wm-license-fal-wiki-link": "w:ms:Lesen Seni Bebas",
 	"wm-license-fsf-wiki-link": "w:ms:Yayasan Perisian Bebas",
 	"wm-license-free-software-wiki-link": "w:ms:Perisian bebas",

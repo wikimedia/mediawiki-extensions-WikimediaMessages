@@ -8,7 +8,8 @@
 			"Kurniasan",
 			"Nemo bis",
 			"Pizza1016",
-			"SNN95"
+			"SNN95",
+			"Jeluang Terluang"
 		]
 	},
 	"wikimediamessages-desc": "Pesanan-pesanan Wikimedia",
@@ -171,6 +172,6 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} aneka bahasa",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, ensiklopedia bebas",
 	"interlanguage-link-sitename-dmoz": "Direktori web DMOZ",
-	"wikimedia-sulrenamewarning-usenew": "Mulai sekarang, anda perlu log masuk dengan menggunakan nama pengguna baru anda, iaitu <strong>$1</strong>. Nama pengguna baru anda adalah unik kepada anda di setiap projek Wikimedia, malah jika anda log masuk ke satu projek lalu melawat satu lagi projek, maka akaun anda juga diperlakukan di sana. [[:m:Special:MyLanguage/Help:Unified_login|Laman bantuan log masuk bersatu]] mempunyai maklumat lanjut mengenai log masuk pengguna tunggal di samping senarai soalan lazim ditanya. Jika anda perlu mengemaskinikan alamat e-mel anda atau menukar kata laluan anda dalam [[Special:Preferences|keutamaan]], anda harus melakukannya secepat mungkin.\n\nTerima kasih kerana menyertai projek-projek Wikimedia.",
+	"wikimedia-sulrenamewarning-usenew": "Mulai sekarang, anda perlu log masuk dengan menggunakan nama pengguna baru anda, iaitu <strong>$1</strong>. Nama pengguna baru anda adalah unik kepada anda di setiap projek Wikimedia, malah jika anda log masuk ke satu projek lalu melawat satu lagi projek, maka akaun anda juga diperlakukan di sana. [[:m:Special:MyLanguage/Help:Unified_login|Laman bantuan log masuk bersatu]] mempunyai maklumat lanjut mengenai log masuk pengguna tunggal di samping senarai soalan lazim ditanya. Jika anda perlu mengemaskinikan alamat e-mel anda atau menukar kata laluan anda dalam [[Special:Preferences|keutamaan]], anda harus melakukannya secepat mungkin.\n\nUntuk memohon nama akaun yang lain, sila lawati [[Special:GlobalRenameRequest]]. Terima kasih kerana menyertai projek-projek Wikimedia.",
 	"right-viewdeletedfile": "Melihat fail-fail dan laman-laman dalam ruang-ruang nama {{ns:file}} dan {{ns:file_talk}} yang telah dihapuskan"
 }
