@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Agurzil",
-			"Berkus Tiwal"
+			"Berkus Tiwal",
+			"Belkacem77"
 		]
 	},
 	"wikimediamessages-desc": "Iznan usligen n Wikimedia",
@@ -11,5 +12,6 @@
 	"group-accountcreator": "Imeskaren n imiḍanen",
 	"group-founder": "Imeskar imenza",
 	"grouppage-founder": "{{ns:project}}:Imeskar Imenza",
-	"group-staff-member": "Amaslad (membre) n terbaεt"
+	"group-staff-member": "Amaslad (membre) n terbaεt",
+	"wikimedia-developers": "Ineflayen"
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Bugoslav",
-			"Janezdrilc"
+			"Janezdrilc",
+			"Wumbolo"
 		]
 	},
 	"project-localized-name-abwiki": "Wikipedija na aphaskome jeziku",
@@ -142,6 +143,6 @@
 	"project-localized-name-qualitywiki": "Wikimedija Kakvoća",
 	"project-localized-name-specieswiki": "Wikivrste",
 	"project-localized-name-testwiki": "Testna Wikipedija",
-	"project-localized-name-test2wiki": "Testna 2. Wikipedija",
+	"project-localized-name-test2wiki": "2. Testna Wikipedija",
 	"project-localized-name-wikidatawiki": "Wikipodatci"
 }
