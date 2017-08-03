@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Corainn"
+			"Corainn",
+			"Translatealcd"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "Miru’ sa lalu’"
+	"wm-license-cc-attribution": "Ssinbbaq miru’ lalu’",
+	"wm-license-cc-by-sa-3.0-text": "Biru’ na slyan ana nanu’ zyuwaw qaniy hya’ ga ’nagal squw [[{{int:wm-license-cc-wiki-link}}|Cwangyung CC]] [//creativecommons.org/licenses/by-sa/3.0/deed.zh_TW sinbbaq lalu’-mtnaq quw bniq niya’ 3.0 ini’ sbahiy na kay’ Tayal na’ quw bniru’ qaniy]gaga’ na bbiq sa kinri’.",
+	"wm-license-cc-free": "Ana su’ mtzyuwaw nanu’ ga blaq",
+	"wm-license-cc-free-to-share-header": "spqzyu’",
+	"wm-license-cc-free-to-remix-header": "t’aring lawziy smbah",
+	"wm-license-cc-free-to-remix-text": "Inlwan niya’ nanak ru kinbalay niya’ nanak kkayal sa ’awsan na nnanu’ binrwan",
+	"wm-license-cc-conditions": "Ana ga sikiy spgluw su’ squw nyuw sbiru’ sa hugal qaniy musa’ mtzyuwaw",
+	"wm-license-cc-conditions-attribution-header": "Miru’ sa lalu’",
+	"wm-license-cc-conditions-attribution-text": "Sikiy spgluw su’ squw kay’ nquw mniru’ ini’ ga knayal na smnwayal squliq maha kusa kasa smlalu’(ga laxiy balay quw maha skahul sa zyuwaw qaniy pnbling smbbaq maha isu’ quw niwan cyux smru’ tay suruw, ini’ ga skhul su’ squw bniru’ qaniy musa’ iywan na psnhi’ sa squliq.)",
+	"wm-license-cc-conditions-share_alike-header": "Glaniy sa bniru’ naha’ miru’",
+	"wm-license-cc-conditions-share_alike-text": "Maha ya quw bniru’ qaniy quw ssbahun su’ , ini’ ga ’iyugun su’, ini’ ga t’ringun su’ miru’ nanak lawziy ga nanu’ siy kiy skaahul su’ squw gaga’ bnaykgan qaniy, ini’ ga gluw na gaga’ na snwayal miq sa kinri’ miq  sa musa’ su’ s’ulah sa binrwan su’."
 }

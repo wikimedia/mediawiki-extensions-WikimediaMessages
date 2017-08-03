@@ -99,6 +99,7 @@
 	"project-localized-name-glwikibooks": "Galicischsprachige Wikibooks",
 	"project-localized-name-glwikiquote": "Galicischsprachiges Wikiquote",
 	"project-localized-name-glwikisource": "Galicischsprachige Wikisource",
+	"project-localized-name-hiwikiversity": "Hindisprachige Wikiversity",
 	"project-localized-name-itwiki": "Italienischsprachige Wikipedia",
 	"project-localized-name-itwiktionary": "Italienischsprachiges Wiktionary",
 	"project-localized-name-itwikibooks": "Italienischsprachige Wikibooks",
@@ -178,5 +179,6 @@
 	"project-localized-name-nlwikimedia": "Wikimedia Niederlande",
 	"project-localized-name-nowikimedia": "Wikimedia Norwegen",
 	"project-localized-name-otrs_wikiwiki": "OTRS-Wiki",
-	"project-localized-name-plwikimedia": "Wikimedia Polen"
+	"project-localized-name-plwikimedia": "Wikimedia Polen",
+	"project-localized-name-wikimania2018wiki": "Wikimania-2018-Wiki"
 }
