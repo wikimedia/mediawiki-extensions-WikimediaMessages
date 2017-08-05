@@ -13,5 +13,11 @@
 	"group-founder": "Imeskar imenza",
 	"grouppage-founder": "{{ns:project}}:Imeskar Imenza",
 	"group-staff-member": "Amaslad (membre) n terbaεt",
+	"wikimedia-copyright": "Aḍris yella daw n <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Turagt Creative Commons Attribution-ShareAlike</a>;\ntiwtilin-nniḍen zemrenk ad ilint.\nWali <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Tiwtilin n useqdec </a> ɣef ugar n isallen.",
+	"wikimedia-copyrightwarning": "S usekles n usnifel, ad tqebleḍ [https://wikimediafoundation.org/wiki/Terms_of_Use Tiwtilin n useqdec], udiɣ ad tqebleḍ i lebdaad tessuffɣeḍ atteki-yik daw n [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-Turagt ShareAlike_3.0_Unported_License CC BY-SA 3.0] akked [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAd tqebleḍ d akken aseɣwen neɣ tansa URL d imawlan ara yeqadden daw n turagt Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikisalan",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikaɣbalu",
+	"wikibase-sitelinks-wikivoyage": "Wikasikel",
 	"wikimedia-developers": "Ineflayen"
 }

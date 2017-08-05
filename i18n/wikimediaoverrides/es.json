@@ -3,9 +3,11 @@
 		"authors": [
 			"Kroji",
 			"Macofe",
-			"TMg"
+			"TMg",
+			"MarcoAurelio"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Visitantes a este wiki usando esta dirección IP han creado {{PLURAL:$1|1 cuenta|$1 cuentas}} en las últimas 24 horas, el cual es el máximo permitido en ese periodo de tiempo.\nComo resultado, los visitantes usando esa dirección IP no pueden crear más cuentas de usuario en este momento.\n\nSi estás en un evento cuyo objeto es el contribuir a los proyectos Wikimedia, por favor visita [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|esta página]] de ayuda para resolver el incidente.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ayúdame a elegir)]]",
 	"wikimedia-createacct-imgcaptcha-help": "¿No ves la imagen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicita una cuenta]]"
 }
