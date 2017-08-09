@@ -113,6 +113,8 @@
 	"group-extendedconfirmed": "Usuarios confirmados extendidos",
 	"group-extendedconfirmed-member": "{{GENDER:$1|usuario confirmado extendido|usuaria confirmada extendida}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:Usuarios confirmados extendidos",
+	"group-extendedmover": "Renombradores de páginas",
+	"group-extendedmover-member": "{{GENDER:$1|renombrador|renombradora}} de páginas",
 	"group-filemover": "Renombradores de archivos",
 	"group-filemover-member": "{{GENDER:$1|renombrador|renombradora}} de archivos",
 	"grouppage-filemover": "{{ns:project}}:Desplazador de archivos",

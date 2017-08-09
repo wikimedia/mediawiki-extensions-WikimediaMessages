@@ -31,7 +31,8 @@
 			"飞舞回堂前",
 			"Bowleerin",
 			"Arthur2e5",
-			"Wmr"
+			"Wmr",
+			"A2093064"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -99,6 +100,7 @@
 	"group-extendedconfirmed": "扩展确认用户",
 	"group-extendedconfirmed-member": "{{GENDER:$1|扩展确认用户}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:扩展确认用户",
+	"group-extendedmover": "页面移动者",
 	"group-filemover": "文件移动者",
 	"group-filemover-member": "{{GENDER:$1|文件移动者}}",
 	"grouppage-filemover": "{{ns:project}}:文件移动者",

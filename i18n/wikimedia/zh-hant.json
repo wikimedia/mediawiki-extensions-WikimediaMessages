@@ -90,6 +90,7 @@
 	"group-eliminator-member": "{{GENDER:$1|清除員}}",
 	"grouppage-eliminator": "{{ns:project}}:清除員",
 	"group-extendedconfirmed": "擴展確認的使用者",
+	"group-extendedmover": "頁面移動員",
 	"group-filemover": "檔案移動員",
 	"group-filemover-member": "{{GENDER:$1|檔案移動員}}",
 	"grouppage-filemover": "{{ns:project}}:檔案移動員",

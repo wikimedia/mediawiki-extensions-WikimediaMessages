@@ -3,10 +3,12 @@
 		"authors": [
 			"Sucsuzz",
 			"Captantrips",
-			"Stultiwikia"
+			"Stultiwikia",
+			"Rapsar"
 		]
 	},
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia Topluluğu",
+	"contactpage-wikimedia-trademark-wiktionary": "Vikisözlük",
 	"contactpage-pagetext-licenseabuse": "Wikimedia markasını kötüye kullandığından veya yanlış kullandığından şüphelendiğiniz kişiler hakkında bizle iletişime geçmek için lütfen aşağıdaki formu kullanınız.",
 	"contactpage-license-abuse-location": "Kötüye kullanımın yeri (çevrimiçi/çevrimdışı)"
 }
