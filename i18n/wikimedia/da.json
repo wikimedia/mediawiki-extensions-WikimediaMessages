@@ -13,7 +13,8 @@
 			"Peter Alberti",
 			"Sarrus",
 			"Steenth",
-			"Simeondahl"
+			"Simeondahl",
+			"SimmeD"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke meddelelser",
@@ -158,5 +159,6 @@
 	"wikimedia-torblock-blocked": "Din IP-adresse, <strong>$1</strong>, er automatisk identificeret som en Tor exit node.\nRedigering via Tor er blokeret for at forhindre misbrug.\nYderligere oplysninger og vejledning til legitime brugere, se den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]",
 	"grant-checkuser": "Adgang til checkuserdata",
-	"interlanguage-link-mul": "Flere sprog"
+	"interlanguage-link-mul": "Flere sprog",
+	"wikimedia-centralauth-contribs-locked": "Denne konto er globalt låst. \nSe [[Special:CentralAuth/$1|globale kontodetaljer]] for mere information."
 }

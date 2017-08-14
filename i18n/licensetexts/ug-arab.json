@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sahran"
+			"Sahran",
+			"Uzdil"
 		]
 	},
 	"wm-license-artwork-artist": "سەنئەتكار",
@@ -23,5 +24,8 @@
 	"wm-license-information-description": "چۈشەندۈرۈش",
 	"wm-license-information-source": "مەنبە",
 	"wm-license-information-date": "چېسلا",
-	"wm-license-information-author": "يازغۇچى"
+	"wm-license-information-author": "يازغۇچى",
+	"wm-license-information-permission": "ھوقۇق",
+	"wm-license-information-permission-reusing-text": "بۇ ھۆججەتنى قايتىلاپ ئىشلىتىش",
+	"wm-license-own-work": "ئۆز ئەسىرىم"
 }

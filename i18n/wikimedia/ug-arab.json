@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sahran"
+			"Sahran",
+			"Uzdil"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia تەپسىلىي ئۇچۇرلىرى",
@@ -81,5 +82,9 @@
 	"group-sysadmin": "سىستېما باشقۇرغۇچى",
 	"group-sysadmin-member": "سىستېما باشقۇرغۇچى",
 	"shared-repo-name-shared": "ۋىكى ۋاستە ھەمبەھىر",
+	"wikibase-sitelinks-wikinews": "ۋىكىخەۋەر",
+	"wikibase-sitelinks-wikiquote": "ۋىكىئۈزۈندە",
+	"wikibase-sitelinks-wikisource": "ۋىكىمەنبە",
+	"wikibase-sitelinks-wikivoyage": "ۋىكىسەپەر",
 	"wikimedia-developers": "ئىجادكارلار"
 }

@@ -8,10 +8,10 @@
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp tạm thời dành cho Wikimedia",
-	"bug-54847-password-reset-prompt": "Vì một [[meta:October 2013 private data security issue|vấn đề riêng tư có liên quan đến các cơ sở dữ liệu của Wikimedia Labs]], mật khẩu mà bạn từng sử dụng có thể không còn an toàn. Xin vui lòng chọn một mật khẩu khác để bảo vệ tài khoản của bạn. Chúng tôi xin lỗi vì sự bất tiện này.",
-	"password-recycled": "Bạn đã nhập một mật khẩu cũ từng được dùng cho tài khoản này. Xin vui lòng chọn một mật khẩu mới, khác với mật khẩu hiện tại.",
 	"grouppage-oversight": "{{ns:project}}:Giám sát viên",
 	"group-oversight": "Giám sát viên",
 	"group-oversight-member": "giám sát viên",
-	"please-translate": "Xin hãy giúp dịch sang ngôn ngữ của bạn"
+	"hello": "Xin chào",
+	"please-translate": "Xin hãy giúp dịch sang ngôn ngữ của bạn",
+	"thank-you": "{{GENDER:$1}}Cảm ơn."
 }
