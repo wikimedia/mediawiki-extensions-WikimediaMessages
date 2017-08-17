@@ -15,5 +15,6 @@
 	"wikibase-sitelinks-wikiquote": "विकिकोट",
 	"wikibase-sitelinks-wikisource": "विकिसोर्स",
 	"wikibase-sitelinks-wikivoyage": "विकीवॉयेज",
-	"wikimedia-developers": "डेवलपर लोग"
+	"wikimedia-developers": "डेवलपर लोग",
+	"wikimedia-globalblocking-ipblocked": "'''राउर आइपी पता के [[m:Special:MyLanguage/Global blocks|सगरी विकि पर रोक दिहल गइल बा]]।'''\n\nई ब्लॉक $1 ($2) द्वारा लगावल गइल।\nकारण बतावल गइल बा: ''$3''।\n\n* रोक के सुरुआत: $4\n* रोक के समाप्ती होखी: $5\n\nराउर वर्तमान आइपी पता $6 बा।\nअगर कौनो पूछताछ करीं तब ऊपर बतावल जानकारी शामिल करीं।\n\nअगर आपके बुझाता कि गलती से रउराँ के ब्लॉक क दिहल गइल बा, अउरी जानकारी आ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|No open proxies]] के बैस्विक नीति में मिली।\nनाहीं त, एह ब्लॉक पर चर्चा करे खातिर [[m:Steward requests/Global|मेटा विकि पर समीक्षा के अनुरोध करीं]]।"
 }
