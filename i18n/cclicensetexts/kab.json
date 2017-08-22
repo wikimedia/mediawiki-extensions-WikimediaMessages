@@ -4,9 +4,15 @@
 			"Belkacem77"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "Afaylu-agi yella ddaw n tewtilin n turagt [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-free": "Ɣuṛ-k tilelli:",
 	"wm-license-cc-free-to-share-header": "i beṭṭu",
+	"wm-license-cc-free-to-share-text": "akken ad tneɣleḍ, ad tzuzreḍ neɣ ad tebḍuḍ amahil-agi",
 	"wm-license-cc-free-to-remix-header": "i uṣeggem",
 	"wm-license-cc-free-to-remix-text": "i uṣeggem n umahil",
+	"wm-license-cc-conditions": "Ddaw n tiwtilin-agi:",
 	"wm-license-cc-conditions-attribution-header": "bab",
-	"wm-license-cc-conditions-share_alike-header": "bḍut akken yella"
+	"wm-license-cc-conditions-attribution-text": "Yessefk ad d-bedreḍ isem n umeskar aneṣli s wudem yettwammlen sɣuṛ ameskar n umahil neɣ bab n izerfan i k-imudden tasiregt (mačči s wudem yemmalen am akken yettmuddu-yak afus neɣ yeqbel aseqdec-it n umahil).",
+	"wm-license-cc-conditions-share_alike-header": "bḍut akken yella",
+	"wm-license-cc-conditions-share_alike-text": "Ma tbeddleḍ, teskelteḍ, neɣ tebniḍ ɣef umahil-agi, yessefk ad tezzuzreḍ amahil i d-yeffɣen ɣas ddaw n turagt-nni neɣ turagt icuban ɣuṛ-s."
 }

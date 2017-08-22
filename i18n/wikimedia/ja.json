@@ -32,7 +32,8 @@
 			"Omotecho",
 			"Mirinano",
 			"Iwai.masaharu",
-			"Suchichi02"
+			"Suchichi02",
+			"Delim"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -205,6 +206,7 @@
 	"wikibase-otherprojects-wikisource": "ウィキソース",
 	"wikibase-otherprojects-wikiversity": "ウィキバーシティ",
 	"wikibase-otherprojects-wikivoyage": "Wikivoyage",
+	"wikibase-otherprojects-wiktionary": "ウィクショナリー",
 	"wikibase-sitelinks-sitename-commonswiki": "コモンズ",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "メタウィキ",

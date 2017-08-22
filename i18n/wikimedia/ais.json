@@ -1,11 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bunukwiki"
+			"Bunukwiki",
+			"Benel"
 		]
 	},
 	"sitesupport": "saedap",
 	"tooltip-n-sitesupport": "damaen kami",
 	"wikimedia-copyright": "hamin a zunga cudad mabalud nu <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\"> misabaluhay CC ngangan sacuzu’ -malecad sasakawawen pasimel sapabeli tu kinli a cedang </a> midiput, caay kuyni a dada’ hakay matatungus tu zuma nicunus a cedang.\nkapiazih tu tatenga’ay  <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">mamaala cedang </a> matineng kahica nu kawaw.",
-	"wikimedia-developers": "saayaway miteka a misakakawaway"
+	"wikimedia-copyrightwarning": "misuped kisu nisumaday sananay patubelitu kisu haw [https://wikimediafoundation.org/wiki/Terms_of_Use mamaala cedang ] patubeli canuis [https://zh.wikipedia.org/wiki/Wikipedia:CC-BY-SA CC BY-SA 3.0 sapabeli tu kinli a cedang ] atu [https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] patiyak lacul nu misu.\npatubeli kisu misiket acasa URL taneng kisu misabaluhay ku CC sapabeli tu kinli a cedang a ngangan sacuzu’.",
+	"wikibase-sitelinks-wikinews": "Wyici-sinbun",
+	"wikibase-sitelinks-wikiquote": "Wyici-kamu",
+	"wikibase-sitelinks-wikisource": "Wyici-sulu",
+	"wikibase-sitelinks-wikivoyage": "Wyici-idang",
+	"wikimedia-developers": "saayaway miteka a misakakawaway",
+	"wikimedia-globalblocking-ipblocked": "''IP nu misu adolyise [[m:Special:MyLanguage/Global blocks| hamin nu Wiki malangat ]].'''\n\nnama … $1 ($2) malangat.\nmahicaay ''$3''.\n\n* malangat mitekaay a takukian ：$4\n* malangat pahezekay a takukian  ：$5\n\nIP nu misu adolyise i $6 ayza.\namahicahica kisu tu ku milungucan , kanca miciwsya ace nakamuan palatuh.\n\nanu sibalucu’ kisu hakay mungangaw piazih malangat, taneng kisu i [[m:Special:MyLanguage/No open proxies|satezep pisaungay mawawah kutay]] ciwsac cesyun atu micuzu’ay tu kawaw.\nu zuma sa, taneng kisu [[m:Steward requests/Global|Meta-Wiki milunguc ciwsya aca]] matatengil malangatay mahicaay kawaw.",
+	"wikimedia-globalblocking-ipblocked-xff": "''u lunguc nu misu, pisaungay cacay haw yadah ku kutay sefuci, [[m:Special:MyLanguage/Global blocks| pulungamin malangat tu ]].'''\n\nnama …$1 ($2) malangat.\nmahicaay ''$3''.\n\n* malangat miteka demiad ：$4\n* malangat pahezek demiad ：$5\nIP nu misu adolyise i $6 ayza.\namahicahica kisu tu ku milungucan , kanca miciwsya ace nakamuan palatuh.\n\nanu sibalucu’ kisu hakay mungangaw piazih malangat, taneng kisu i [[m:Special:MyLanguage/No open proxies|satezep pisaungay mawawah kutay]] ciwsac cesyun atu micuzu’ay tu kawaw.\nu zuma sa, taneng kisu [[m:Steward requests/Global|Meta-Wiki milunguc ciwsya aca]] matatengil malangatay mahicaay kawaw."
 }
