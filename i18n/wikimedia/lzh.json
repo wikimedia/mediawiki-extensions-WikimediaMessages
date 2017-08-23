@@ -7,7 +7,8 @@
 			"Jason924tw",
 			"Davidzdh",
 			"StephDC",
-			"逆襲的天邪鬼"
+			"逆襲的天邪鬼",
+			"Itsmine"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特集",
@@ -23,5 +24,10 @@
 	"wikibase-sitelinks-wikiquote": "維基語錄",
 	"wikibase-sitelinks-wikisource": "維基文庫",
 	"wikibase-sitelinks-wikivoyage": "維基遊歷",
-	"wikimedia-developers": "造紙者"
+	"wikibase-otherprojects-commons": "維基共享",
+	"wikibase-otherprojects-mediawiki": "共筆臺",
+	"wikibase-otherprojects-meta": "維基中樞",
+	"wikimedia-developers": "司空津逮",
+	"interlanguage-link-commons": "維基共享",
+	"wikimedia-cookiestatement": "鑑識聲明"
 }
