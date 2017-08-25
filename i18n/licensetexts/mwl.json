@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"MokaAkashiyaPT"
+		]
+	},
+	"wm-license-book-editor": "Eiditor",
 	"wm-license-information-description": "Çcriçon",
 	"wm-license-information-source": "Fuonte"
 }

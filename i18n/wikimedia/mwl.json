@@ -12,5 +12,13 @@
 	"nstab-creator": "Criador",
 	"nstab-institution": "Anstituiçon",
 	"nstab-sequence": "Sequéncia",
-	"wikimedia-copyright": "Este testo ye çponeblizado ne ls termos de la lhicença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\npuode star sujeito a cundiçones adecionales.\nConsulta las <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Cundiçones de Uso</a> pa mais detailhes."
+	"grouppage-rollbacker": "{{ns:project}}:Rebersores",
+	"group-trusted": "Outelizadores de cunfiança",
+	"grouppage-trusted": "{{ns:project}}:Outelizadores de cunfiança",
+	"grouppage-global-rollbacker": "m:Global rollback/mwl",
+	"grouppage-steward": "m:Stewards/mwl",
+	"wikimedia-copyright": "Este testo ye çponeblizado ne ls termos de la lhicença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\npuode star sujeito a cundiçones adecionales.\nConsulta las <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Cundiçones de Uso</a> pa mais detailhes.",
+	"eri-rcfilters-beta-label": "Nuobos filtros pa la rebison d'eidiçones",
+	"eri-rcfilters-beta-description": "Rebeija las eidiçones nas Altaraçones Recentes outelizando ua anterface mais fácele i mais poderosa. Anclui nuobos filtros, personalizaçon de ls rialces i outras melhories.",
+	"eri-rcfilters-tour-welcome-title": "Antroduçon: Nuobos filtros pa la rebison d'eidiçones (beta)"
 }
