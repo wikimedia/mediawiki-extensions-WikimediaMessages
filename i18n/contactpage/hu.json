@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Dorgan",
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"Bencemac"
 		]
 	},
+	"contactpage-license-request-username": "Felhasználónév",
 	"contactpage-wikimedia-trademark-commons": "Wikimédia Commons",
 	"contactpage-wikimedia-trademark-wiktionary": "Wikiszótár"
 }

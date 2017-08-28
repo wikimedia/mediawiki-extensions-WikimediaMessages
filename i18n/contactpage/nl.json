@@ -7,13 +7,14 @@
 			"Robin0van0der0vliet",
 			"Mainframe98",
 			"Robin van der Vliet",
-			"Romaine"
+			"Romaine",
+			"Sjoerddebruin"
 		]
 	},
 	"contactpage-title-requestlicense": "Vraag een licentieformulier aan.",
 	"contactpage-pagetext-requestlicense": "Gebruik het formulier hier beneden om contact met ons op te nemen over het gebruik van een Wikimedia handelsmerk.",
 	"contactpage-subject-requestlicense": "Verzoek tot het gebruik van een Wikimedia handelsmerk",
-	"contactpage-license-request-username": "Gebruikersnaam *",
+	"contactpage-license-request-username": "Gebruikersnaam",
 	"contactpage-license-request-relevantsite": "Relevante Wikimedia site (indien van toepassing)",
 	"contactpage-license-request-title": "Titel (indien van toepassing)",
 	"contactpage-license-request-organization": "Organisatie (indien van toepassing)",

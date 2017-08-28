@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nike"
+			"Nike",
+			"Pyscowicz"
 		]
 	},
 	"contactpage-title-requestlicense": "Tavaramerkin uudelleenkäyttölomake",
@@ -25,6 +26,7 @@
 	"contactpage-wikimedia-trademark-wikiwordmark": "Wipedia sanamerkki",
 	"contactpage-wikimedia-trademark-w": "Tyylitelty ”W”",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia-yhteisö",
+	"contactpage-wikimedia-trademark-wiktionary": "Wikisanakirja",
 	"contactpage-title-licenseabuse": "Tekijänoikeusrikkomusten yhteydenottolomake",
 	"contactpage-pagetext-licenseabuse": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkin väärinkäyttöepäillyissä",
 	"contactpage-subject-licenseabuse": "Wikimedian tavaramerkin väärinkäyttöilmoitus",

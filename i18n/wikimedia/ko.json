@@ -199,6 +199,7 @@
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"크리에이티브 커먼즈 저작자표시-동일조건변경허락의 정의\" target=\"_blank\">CC BY-SA 3.0</a>와 <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL의 정의\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "위키데이터",
 	"wikibase-statementsection-identifiers": "식별자",
+	"wikibase-statementsection-constraints": "제약 조건",
 	"wikibase-sitelinks-wikibooks": "위키책",
 	"wikibase-sitelinks-wikinews": "위키뉴스",
 	"wikibase-sitelinks-wikiquote": "위키인용집",
