@@ -45,7 +45,8 @@
 			"Rubentl134",
 			"Dgstranz",
 			"Savh",
-			"Peter Bowman"
+			"Peter Bowman",
+			"Vogone"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -145,6 +146,8 @@
 	"group-patroller": "Verificadores",
 	"group-patroller-member": "{{GENDER:$1|verificador|verificadora}}",
 	"grouppage-patroller": "{{ns:project}}:Verificadores",
+	"group-propertycreator": "Creadores de propiedades",
+	"group-propertycreator-member": "creador de propiedades",
 	"group-researcher": "Investigadores",
 	"group-researcher-member": "{{GENDER:$1|investigador|investigadora}}",
 	"grouppage-researcher": "{{ns:project}}:Investigadores",

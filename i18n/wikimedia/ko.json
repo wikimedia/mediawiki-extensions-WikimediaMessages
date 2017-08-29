@@ -35,7 +35,8 @@
 			"Jerrykim306",
 			"Ellif",
 			"Garam",
-			"메이"
+			"메이",
+			"Vogone"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -126,6 +127,8 @@
 	"group-patroller": "점검자",
 	"group-patroller-member": "{{GENDER:$1|점검자}}",
 	"grouppage-patroller": "{{ns:project}}:점검자",
+	"group-propertycreator": "속성 생성자",
+	"group-propertycreator-member": "속성 생성자",
 	"group-researcher": "연구원",
 	"group-researcher-member": "{{GENDER:$1|연구원}}",
 	"grouppage-researcher": "{{ns:project}}:연구원",
