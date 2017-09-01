@@ -1275,37 +1275,65 @@ class WikimediaMessagesHooks {
 		return ORES\Hooks::isModelEnabled( 'damaging' ) || ORES\Hooks::isModelEnabled( 'goodfaith' );
 	}
 
-	public static function onBeforePageDisplay( OutputPage &$out, Skin &$skin ) {
+	/**
+	 * Prepare guided tours relevant to ChangesListSpecialPage
+	 * (in core: RecentChanges, RecentChangesLinked and Watchlist) depending
+	 * on the wiki user's settings.
+	 *
+	 * @param ChangesListSpecialPage $special Special page
+	 */
+	public static function onChangesListSpecialPageStructuredFilters( $special ) {
 		if ( !class_exists( 'GuidedTourHooks' ) ) {
 			return;
 		}
-		$title = $skin->getTitle();
-		$user = $out->getUser();
+		$title = $special->getTitle();
+		$user = $special->getUser();
+		$out = $special->getOutput();
 
 		if (
+			// If we're on Special:RecentChanges
+			// NOTE: For this tour to be relevant anywhere else
+			// the language must change; right now, the language
+			// states RecentChanges only
 			$title->isSpecial( 'Recentchanges' ) &&
-			$user->isLoggedIn()
+			// And the user is logged in
+			$user->isLoggedIn() &&
+			// If RCFilters UI is enabled
+			$special->isStructuredFilterUiEnabled()
 		) {
-			if ( $user->getOption( 'rcenhancedfilters' ) ) {
-				if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
-					GuidedTourLauncher::launchTourByCookie( 'RcFiltersBeta', 'Welcome' );
-					$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
-				}
+			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
+				// Figure out which tour to load
+				$welcomeTourName = $special->isStructuredFilterUiEnabledByDefault() ?
+					'RcFiltersIntro' : 'RcFiltersBeta';
 
-				if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
-					$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
-				}
-
-				if ( $user->getOption( 'rcenhancedfilters-show-invite-confirmation' ) ) {
-					GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Confirm' );
-				}
-			} elseif (
-				class_exists( 'BetaFeatures' ) &&
-				!$user->getOption( 'rcenhancedfilters-seen-invite' ) &&
-				!$user->getOption( 'rcenhancedfilters-seen-tour' )
-			) {
-				GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Invite' );
+				GuidedTourLauncher::launchTourByCookie( $welcomeTourName, 'Welcome' );
+				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
 			}
+
+			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
+				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
+			}
+
+			if ( $user->getOption( 'rcenhancedfilters-show-invite-confirmation' ) ) {
+				GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Confirm' );
+			}
+		} elseif (
+			// If we're on Special:RecentChanges
+			$title->isSpecial( 'Recentchanges' ) &&
+			// And the user is logged in
+			$user->isLoggedIn() &&
+			// And RCFilters is not available by default
+			!$special->isStructuredFilterUiEnabledByDefault() &&
+			// And is not activated for the user for beta
+			!$user->getOption( 'rcenhancedfilters' ) &&
+			// And beta exists
+			class_exists( 'BetaFeatures' ) &&
+			// And the user hasn't seen the tours yet
+			!$user->getOption( 'rcenhancedfilters-seen-invite' ) &&
+			!$user->getOption( 'rcenhancedfilters-seen-tour' )
+		) {
+			// Activate invite-to-beta tour
+			GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Invite' );
 		}
 	}
 
@@ -1321,6 +1349,23 @@ class WikimediaMessagesHooks {
 					'eri-rcfilters-tour-welcome-description',
 					'eri-rcfilters-tour-welcome-no-ores-description',
 					'eri-rcfilters-tour-welcome-button',
+				],
+				'dependencies' => [
+					'ext.guidedTour'
+				],
+			] );
+
+			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
+				'localBasePath' => __DIR__ . '/modules',
+				'remoteExtPath' => 'WikimediaMessages/modules',
+				'scripts' => 'rcfilters-intro-tour.js',
+				'styles' => 'rcfilters-intro-tour.less',
+				'messages' => [
+					'eri-rcfilters-tour-intro-welcome-title',
+					'eri-rcfilters-tour-intro-welcome-description',
+					'eri-rcfilters-tour-intro-welcome-no-ores-description',
+					'eri-rcfilters-tour-intro-preferences-description',
+					'eri-rcfilters-tour-intro-welcome-button',
 				],
 				'dependencies' => [
 					'ext.guidedTour'

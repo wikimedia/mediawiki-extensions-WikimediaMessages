@@ -93,8 +93,8 @@
 		"GetBetaFeaturePreferences": [
 			"WikimediaMessagesHooks::getBetaFeaturePreferences"
 		],
-		"BeforePageDisplay": [
-			"WikimediaMessagesHooks::onBeforePageDisplay"
+		"ChangesListSpecialPageStructuredFilters": [
+			"WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters"
 		],
 		"ResourceLoaderRegisterModules": [
 			"WikimediaMessagesHooks::onResourceLoaderRegisterModules"
