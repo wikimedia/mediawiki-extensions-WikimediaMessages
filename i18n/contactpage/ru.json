@@ -5,13 +5,14 @@
 			"Mariya",
 			"Putnik",
 			"Facenapalm",
-			"ToJack"
+			"ToJack",
+			"Alexey zakharenkov"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",
 	"contactpage-pagetext-requestlicense": "Пожалуйста, используйте форму ниже для связи с нами по поводу использования товарного знака Викимедиа.",
 	"contactpage-subject-requestlicense": "Запрос на использование товарного знака Викимедиа",
-	"contactpage-license-request-username": "Имя участника *",
+	"contactpage-license-request-username": "Имя участника",
 	"contactpage-license-request-relevantsite": "Соответствующий сайт Викимедиа (если есть)",
 	"contactpage-license-request-group": "Отделение Викимедиа, тематическая организация или группа пользователей и её название (если есть) *",
 	"contactpage-license-request-title": "Должность (если применимо)",

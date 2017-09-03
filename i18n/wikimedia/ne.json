@@ -6,7 +6,8 @@
 			"बिप्लब आनन्द",
 			"NehalDaveND",
 			"राम प्रसाद जोशी",
-			"Krish Dulal"
+			"Krish Dulal",
+			"Nirajan pant"
 		]
 	},
 	"sitesupport": "चन्दा",
@@ -30,8 +31,10 @@
 	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरू",
 	"group-inactive-member": "{{GENDER:$1|निस्क्रिय प्रयोगकर्ता}}",
 	"group-interface-editor": "अन्तरमोहडा सम्पादकहरू",
-	"group-ipblock-exempt": "IP रोक माफीहरु",
+	"group-ipblock-exempt": "IP रोक माफीहरू",
 	"group-patroller": "गस्तीकर्ताहरु",
+	"group-propertycreator": "विशेषता सर्जकहरू",
+	"grouppage-propertycreator": "{{ns:project}}:विशेषता सर्जकहरू",
 	"group-researcher": "खोजकर्ताहरु",
 	"group-rollbacker": "पूर्वरुपमा फर्काउनेहरु",
 	"group-transwiki": "ट्रान्स विकि आयातकर्ताहरू",

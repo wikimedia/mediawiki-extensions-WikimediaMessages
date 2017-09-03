@@ -8,9 +8,9 @@
 	"contactpage-title-requestlicense": "Yêu cầu một biểu mẫu cấp phép",
 	"contactpage-pagetext-requestlicense": "Xin vui lòng điền biểu mẫu bên dưới để liên lạc với chúng tôi về việc sử dụng một thương hiệu Wikimedia.",
 	"contactpage-subject-requestlicense": "Yêu cầu sử dụng một thương hiệu Wikimedia",
-	"contactpage-license-request-username": "Tên người dùng *",
+	"contactpage-license-request-username": "Tên người dùng",
 	"contactpage-license-request-relevantsite": "Trang Wikimedia có liên quan (nếu có)",
-	"contactpage-license-request-group": "Chi hội Wikimedia, tổ chức chủ đề, hoặc nhóm người dùng & tư cách (nếu có) *",
+	"contactpage-license-request-group": "Chi hội Wikimedia, tổ chức chủ đề, hoặc nhóm người dùng & tư cách (nếu có)",
 	"contactpage-license-request-title": "Tư cách (nếu có)",
 	"contactpage-license-request-organization": "Tổ chức (nếu có)",
 	"contactpage-license-request-organization-type": "Kiểu tổ chức (nếu có)",
@@ -49,5 +49,6 @@
 	"contactpage-affcom-user-group-logo-wm-logo": "''Nếu bạn muốn sử dụng '''biểu trưng Wikimedia''', bạn có thể [[Special:Contact/requestlicense|yêu cầu giấy phép nhãn hiệu]].''",
 	"contactpage-affcom-user-group-logo-community": "Biểu trưng cộng đồng Wikimedia",
 	"contactpage-affcom-user-group-logo-affiliate": "Biểu trưng chi nhánh Wikimedia",
-	"contactpage-title-stewards": "Liên lạc với tiếp viên"
+	"contactpage-title-stewards": "Liên lạc với tiếp viên",
+	"contactpage-stewards-disclaimer-label": "Lời phủ nhận: Tất cả các thông tin mà bạn cung cấp trong biểu mẫu này được gửi cho, xử lý bởi, và phản hồi bởi những người tình nguyện trong cộng đồng (nói riêng là [[Special:MyLanguage/Stewards|tiếp viên]]), chứ không phải Quỹ Wikimedia. Xin vui lòng đừng cung cấp thông tin nào mà bạn không muốn chia sẻ với những người tình nguyện cho Wikimedia. Các lời phản hồi hoặc thư từ có liên quan đến việc xử lý các thông tin được cung cấp không được coi là lời tuyên bố chính thức của Quỹ Wikimedia. Để trao đổi thư từ chính thức, xin vui lòng liên lạc với Quỹ Wikimedia qua các phương tiện được giải thích tại https://wikimediafoundation.org/wiki/Special:MyLanguage/Contact_us."
 }
