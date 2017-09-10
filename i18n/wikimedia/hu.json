@@ -162,6 +162,7 @@
 	"upload-form-label-own-work-message-commons": "Igazolom, hogy én birtoklom a fájl szerzői jogait, és egyetértek azzal, hogy visszavonhatatlanul közzéteszem a fájlt a Wikimédia Commonson a [https://creativecommons.org/licenses/by-sa/4.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 4.0] licenc alatt, és egyetértek a [https://wikimediafoundation.org/wiki/Terms_of_Use felhasználási feltételekkel].",
 	"upload-form-label-not-own-work-message-commons": "Ha nem birtoklod a fájl szerzői jogait vagy más licenc alatt szeretnéd közzétenni, fontold meg a [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Feltöltésvarázslójának] használatát.",
 	"upload-form-label-not-own-work-local-commons": "Megpróbálhatod használni [[Special:Upload|a(z) {{SITENAME}} feltöltési lapját]] is, ha ezt a fájlt fel lehet tölteni az itteni irányelvek szerint.",
+	"wikimedia-upload-nolicenses": "A fájlfeltöltés ezen a wikin nem engedélyezett. Az itt használandó fájlokat a [[commons:Special:UploadWizard|Wikimédia Commonsra]] lehet feltölteni.\n\nAhhoz, hogy ezen a speciális lapon is lehessen feltölteni erre a wikire, egy adminisztrátornak hozzá kell adnia egy vagy több licencopciót a [[MediaWiki:Licenses]] laphoz a következő formátumban: <code>* Sablon neve|Címke</code>. Bármilyen egyéb szöveg hozzáadásával engedélyezhető a feltöltés licencopciók nélkül.",
 	"interlanguage-link-mul": "További nyelvek",
 	"restriction-level-superprotect": "szupervédett",
 	"right-templateeditor": "sablonszerkesztő",
