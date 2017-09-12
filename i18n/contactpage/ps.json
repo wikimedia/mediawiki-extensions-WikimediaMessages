@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"Baloch Khan"
 		]
 	},
 	"contactpage-license-request-username": "کارن نوم *",
@@ -25,7 +26,7 @@
 	"contactpage-wikimedia-trademark-wikisource": "ويکيسرچينه",
 	"contactpage-wikimedia-trademark-wikiversity": "ويکيپوهنتون",
 	"contactpage-wikimedia-trademark-wiktionary": "ويکيسيند",
-	"contactpage-wikimedia-trademark-wikivoyage": "ويکييون",
+	"contactpage-wikimedia-trademark-wikivoyage": "ويکيسفر",
 	"contactpage-subject-licenseabuse": "د ويکيمېډيا سوداگريزې نښې د ناوړکارنې يادگيرنه",
 	"contactpage-affcom-user-group-logo-community": "د ويکيمېډيا ټولنې نښان"
 }

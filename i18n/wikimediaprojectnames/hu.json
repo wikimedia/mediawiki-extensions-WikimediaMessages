@@ -61,10 +61,13 @@
 	"project-localized-name-enwikiquote": "angol Wikidézet",
 	"project-localized-name-enwikiversity": "angol Wikiegyetem",
 	"project-localized-name-huwiki": "magyar Wikipédia",
+	"project-localized-name-huwiktionary": "magyar Wikiszótár",
 	"project-localized-name-huwikibooks": "magyar Wikikönyvek",
+	"project-localized-name-huwikinews": "magyar Wikihírek",
 	"project-localized-name-huwikiquote": "magyar Wikidézet",
+	"project-localized-name-huwikisource": "magyar Wikiforrás",
 	"project-localized-name-simplewiki": "egyszerűsített angol Wikipédia",
 	"project-localized-name-simplewikibooks": "egyszerűsített angol Wikikönyvek",
-	"project-localized-name-sourceswiki": "Wikiforrás",
+	"project-localized-name-sourceswiki": "többnyelvű Wikiforrás",
 	"project-localized-name-specieswiki": "Wikifajok"
 }
