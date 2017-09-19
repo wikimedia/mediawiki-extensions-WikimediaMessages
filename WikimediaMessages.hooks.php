@@ -1306,7 +1306,7 @@ class WikimediaMessagesHooks {
 				$welcomeTourName = $special->isStructuredFilterUiEnabledByDefault() ?
 					'RcFiltersIntro' : 'RcFiltersBeta';
 
-				GuidedTourLauncher::launchTourByCookie( $welcomeTourName, 'Welcome' );
+				GuidedTourLauncher::launchTour( $welcomeTourName, 'Welcome' );
 				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
 			}
 
@@ -1315,7 +1315,7 @@ class WikimediaMessagesHooks {
 			}
 
 			if ( $user->getOption( 'rcenhancedfilters-show-invite-confirmation' ) ) {
-				GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Confirm' );
+				GuidedTourLauncher::launchTour( 'RcFiltersInvite', 'Confirm' );
 			}
 		} elseif (
 			// If we're on Special:RecentChanges
@@ -1333,7 +1333,7 @@ class WikimediaMessagesHooks {
 			!$user->getOption( 'rcenhancedfilters-seen-tour' )
 		) {
 			// Activate invite-to-beta tour
-			GuidedTourLauncher::launchTourByCookie( 'RcFiltersInvite', 'Invite' );
+			GuidedTourLauncher::launchTour( 'RcFiltersInvite', 'Invite' );
 		}
 	}
 
