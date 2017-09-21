@@ -1363,6 +1363,7 @@ class WikimediaMessagesHooks {
 				'messages' => [
 					'eri-rcfilters-tour-intro-welcome-title',
 					'eri-rcfilters-tour-intro-welcome-description',
+					'eri-rcfilters-tour-help',
 					'eri-rcfilters-tour-intro-welcome-no-ores-description',
 					'eri-rcfilters-tour-intro-preferences-description',
 					'eri-rcfilters-tour-intro-welcome-button',

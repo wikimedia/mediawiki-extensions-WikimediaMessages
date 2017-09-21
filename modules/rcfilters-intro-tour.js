@@ -8,9 +8,18 @@
 	tour.firstStep( {
 		name: 'Welcome',
 		titlemsg: 'eri-rcfilters-tour-intro-welcome-title',
-		descriptionmsg: mw.config.get( 'wgRCFiltersORESAvailable' ) ?
-			'eri-rcfilters-tour-intro-welcome-description' :
-			'eri-rcfilters-tour-intro-welcome-no-ores-description',
+		description: mw.msg(
+			mw.config.get( 'wgRCFiltersORESAvailable' ) ?
+				'eri-rcfilters-tour-intro-welcome-description' :
+				'eri-rcfilters-tour-intro-welcome-no-ores-description',
+			$('<span>').append(
+				$( '<a>' )
+					.addClass( 'mw-rcfilters-tour-helplink external' )
+					.text( mw.msg( 'eri-rcfilters-tour-help' ) )
+					.attr( 'target', '_blank' )
+					.attr( 'href', 'https://www.mediawiki.org/wiki/Special:MyLanguage/Edit_Review_Improvements/New_filters_for_edit_review' )
+			).html()
+		),
 		width: 600,
 		buttons: [
 			{
