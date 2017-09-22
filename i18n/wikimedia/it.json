@@ -259,7 +259,7 @@
 	"restriction-level-editextendedsemiprotected": "protetta autoverificato",
 	"eri-rcfilters-beta-label": "Nuovi filtri per la revisione delle modifiche",
 	"eri-rcfilters-beta-description": "Revisiona le ultime modifiche e gli osservati speciali usando un'interfaccia più semplice e funzionale. Include nuovi filtri, evidenziazione definita dall'utente e altre migliorie.",
-	"eri-rcfilters-beta-description-ores": "Revisiona le ultime modifiche e gli osservati speciali usando un'interfaccia più semplice e funzionale e diversi nuovi strumenti, inclusi filtri predittivi basati su [[mw:ORES|ORES]], un programma di apprendimento automatico.",
+	"eri-rcfilters-beta-description-ores": "Revisiona le ultime modifiche e gli osservati speciali usando un'interfaccia più semplice e funzionale e diversi nuovi strumenti, inclusi filtri predittivi basati su [[mw:Special:MyLanguage/ORES|ORES]], un programma di apprendimento automatico.",
 	"eri-rcfilters-tour-welcome-title": "Introduzione: nuovi filtri per la revisione delle ultime modifiche (beta)",
 	"eri-rcfilters-tour-welcome-description": "Combina strumenti migliorati, una nuova interfaccia e la potenza dell'apprendimento automatico per combattere i vandalismi e aiutare i nuovi utenti.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Revisiona le modifica usando un'interfaccia più semplice e potente, filtri aggiuntivi, evidenziazioni personalizzabili e altri miglioramenti.",

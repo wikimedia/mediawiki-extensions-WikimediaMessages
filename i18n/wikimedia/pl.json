@@ -264,7 +264,7 @@
 	"right-editextendedsemiprotected": "Edycja stron zabezpieczonych na poziomie „{{int:protect-level-editextendedsemiprotected}}”",
 	"eri-rcfilters-beta-label": "Nowe filtry do sprawdzania edycji",
 	"eri-rcfilters-beta-description": "Przeglądaj edycje w Ostatnich zmianach z użyciem prostszego i bardziej rozbudowanego interfejsu. Składa się z nowych filtrów, podświetlania definiowalnego przez użytkownika i inne usprawnienia.",
-	"eri-rcfilters-beta-description-ores": "Przeglądaj edycje w Ostatnich zmianach z użyciem prostszego i bardziej rozbudowanego interfejsu zawierającego także filtry, które bazują na automatycznie uczącym się programie [[mw:ORES|ORES]].",
+	"eri-rcfilters-beta-description-ores": "Przeglądaj edycje w Ostatnich zmianach z użyciem prostszego i bardziej rozbudowanego interfejsu zawierającego także filtry, które bazują na automatycznie uczącym się programie [[mw:Special:MyLanguage/ORES|ORES]].",
 	"eri-rcfilters-tour-welcome-title": "Przedstawiamy Nowe filtry do patrolowania edycji (beta)",
 	"eri-rcfilters-tour-welcome-description": "Połącz ulepszone narzędzia, nowy interfejs i moc samouczącej się maszyny, aby walczyć z wandalizmami i pomagać nowym użytkownikom.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Patroluj edycje z użyciem prostszego i bardziej rozbudowanego interfejsu, dodatkowych filtrów, podświetlania definiowalnego przez użytkownika i innych usprawnień.",

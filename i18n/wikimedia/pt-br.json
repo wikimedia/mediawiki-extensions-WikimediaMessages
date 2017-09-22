@@ -306,7 +306,7 @@
 	"restriction-level-editextendedsemiprotected": "auto-patrulha protegida",
 	"eri-rcfilters-beta-label": "Novos filtros para revisão de edição",
 	"eri-rcfilters-beta-description": "Revise as edições em Mudanças Recentes usando uma interface mais fácil e mais poderosa. Inclui novos filtros, realce definido pelo usuário e outras melhorias.",
-	"eri-rcfilters-beta-description-ores": "Revise edições em Mudanças Recentes usando uma interface fácil e mais poderosa e várias ferramentas novas, incluindo filtros preditivos fornecidos por [[mw:ORES|ORES]], um programa de aprendizado de máquina.",
+	"eri-rcfilters-beta-description-ores": "Revise edições em Mudanças Recentes usando uma interface fácil e mais poderosa e várias ferramentas novas, incluindo filtros preditivos fornecidos por [[mw:Special:MyLanguage/ORES|ORES]], um programa de aprendizado de máquina.",
 	"eri-rcfilters-tour-welcome-title": "Introduzindo: Novos Filtros para Revisão de Edição (beta)",
 	"eri-rcfilters-tour-welcome-description": "Combine ferramentas aprimoradas, uma nova interface e o poder de aprendizado de máquina para lutar contra vandalismo e ajudar novos usuários.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Revise as edições usando uma interface mais fácil e mais poderosa, filtros adicionais, realce definido pelo usuário e outras melhorias.",

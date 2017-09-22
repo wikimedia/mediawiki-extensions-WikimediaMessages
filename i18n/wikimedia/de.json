@@ -287,7 +287,7 @@
 	"restriction-level-editextendedsemiprotected": "geschützt (nur automatische Kontrolleure)",
 	"eri-rcfilters-beta-label": "Neue Filter zur Bearbeitungsüberprüfung",
 	"eri-rcfilters-beta-description": "Überprüft Bearbeitungen in den „Letzten Änderungen“ und auf der Beobachtungsliste mithilfe einer einfacheren und leistungsfähigeren Oberfläche. Enthält neue Filter, eine benutzerdefinierte Hervorhebung und andere Verbesserungen.",
-	"eri-rcfilters-beta-description-ores": "Überprüft Bearbeitungen in den „Letzten Änderungen“ und auf der Beobachtungsliste mithilfe einer einfacheren und leistungsfähigeren Oberfläche und vieler neuer Werkzeuge, inklusive voraussagender Filter, die durch [[mw:ORES|ORES]], eines maschinenlernenden Programms, zur Verfügung gestellt werden.",
+	"eri-rcfilters-beta-description-ores": "Überprüft Bearbeitungen in den „Letzten Änderungen“ und auf der Beobachtungsliste mithilfe einer einfacheren und leistungsfähigeren Oberfläche und vieler neuer Werkzeuge, inklusive voraussagender Filter, die durch [[mw:Special:MyLanguage/ORES|ORES]], eines maschinenlernenden Programms, zur Verfügung gestellt werden.",
 	"eri-rcfilters-tour-welcome-title": "Einführung: Neue Filter zur Bearbeitungsüberprüfung (Beta)",
 	"eri-rcfilters-tour-welcome-description": "Kombiniert verbesserte Werkzeuge, eine neue Oberfläche und die Fähigkeit des Maschinenlernens, um Vandalismus zu bekämpfen und neuen Benutzern zu helfen.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Überprüfe Bearbeitungen mithilfe einer einfacheren und leistungsfähigeren Oberfläche, zusätzlicher Filter, einer benutzerdefinierten Hervorhebung und anderer Verbesserungen.",

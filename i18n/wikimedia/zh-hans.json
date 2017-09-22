@@ -305,7 +305,7 @@
 	"restriction-level-editextendedsemiprotected": "自动巡查员保护",
 	"eri-rcfilters-beta-label": "用于编辑复核的新过滤器",
 	"eri-rcfilters-beta-description": "使用更容易、更强大的界面复核最近更改及监视列表中的编辑。这包含新过滤器，用户定义的高亮及其他改进。",
-	"eri-rcfilters-beta-description-ores": "使用更容易、更强大的界面与很多新工具复核最近更改及监视列表中的编辑，这包含由[[mw:ORES|ORES]]（一个机器学习程序）提供支持的预测过滤器。",
+	"eri-rcfilters-beta-description-ores": "使用更容易、更强大的界面与很多新工具复核最近更改及监视列表中的编辑，这包含由[[mw:Special:MyLanguage/ORES|ORES]]（一个机器学习程序）提供支持的预测过滤器。",
 	"eri-rcfilters-tour-welcome-title": "介绍：用于编辑复核的新过滤器（测试）",
 	"eri-rcfilters-tour-welcome-description": "整合改进的工具、新的界面以及机器阅读的能力来反破坏，并帮助新用户。",
 	"eri-rcfilters-tour-welcome-no-ores-description": "使用更容易且更强大的界面、额外过滤器、用户定义的高亮及其他改进来复核编辑。",

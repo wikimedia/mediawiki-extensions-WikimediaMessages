@@ -26,6 +26,7 @@
 	"wm-license-book-printer": "Kikay na p’insat",
 	"wm-license-book-publisher": "Syubay na pkbalay biru’",
 	"wm-license-book-series-title": "Gluw na m’ubuy lalu’ na kkayal",
+	"wm-license-book-start-this-book": "Tay qutux lpgan na biru’",
 	"wm-license-book-subtitle": "Mszik sa spzyang lalu’ kkayal",
 	"wm-license-book-title": "Lalu’",
 	"wm-license-book-translator": "Ppgbang na squliq",
@@ -47,5 +48,6 @@
 	"wm-license-information-permission-see-below": "Kta tay hugal.",
 	"wm-license-information-other-versions": "Ubuy gluw bniru’ na bzinah",
 	"wm-license-original-upload-log": "Cin’ringan pawsa’ sa bniru’ sa kktan",
+	"wm-license-own-work": "Binrwan nanak ini’ ga kinbalay nanak",
 	"wm-license-self-multiple-licenses-select": "Bzyagiw squw musa’ su’ blaq gaga’ na bbiq kinri’."
 }
