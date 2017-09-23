@@ -211,7 +211,6 @@
 	"cant-delete-main-page": "Sampéyan ora bisa mbusak utawa ngalih tepas.",
 	"wikimedia-translationnotifications-signup-legal": "Panjenengan sarujuk yèn kanthi nyumbang informasi iki marang Yayasan Wikipédia kita bisa ngubungi panjenengan ngenani pertalan utawa topik liyané sing magepokan obahan Wikimédia sing dadi kawigatèné panjenengan. Panjenengan sarujuk yèn dhatané panjenengan bokmanawa bakal disèlèhaké ana ing Amérika Sarékat lan minangkani [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy pranatan privasiné] awak dhéwé.",
 	"upload-more-photos-of-this-monument": "Unggah foto liyané ngenani monumèn iki",
-	"createacct-helpusername-url": "{{ns:Project}}:Pranatan jeneng panganggo",
 	"createacct-captcha-help-url": "{{ns:Project}}:Nyuwun gawèkaké akun",
 	"wikimedia-developers": "Juru pangembang",
 	"wikimedia-globalblocking-ipblocked": "'''Alamat IP sampéyan wis [[m:Special:MyLanguage/Global blocks|dipalang ing kabèh wiki]].'''\n\nPalangan digawé déning $1 ($2).\nJalarané ya iku ''$3''.\n\n* Wiwit dipalang: $4\n* Rampung dipalang: $5\n\nAlamat IP sampéyan saiki ya iku $6.\nKabèh rerincèn ing ndhuwur kudu dituduhaké manawa sampéyan ana pitakon.\n\nYèn sampéyan pracaya sampéyan klèru dipalang, sampéyan bisa golèk katerangan lan panuntun luwih ing wewaton sadonya bab [[m:Special:MyLanguage/No open proxies|larangan proksi kabuka]].\nUtawa, manawa nedya ngrembug bab palangan bisa [[m:Steward requests/Global|ngirim panjaluking ulasan nyang Meta-Wiki]].",

@@ -197,7 +197,6 @@
 	"cant-delete-main-page": "Etusivua ei voi poistaa tai siirtää.",
 	"wikimedia-translationnotifications-signup-legal": "Antamalla nämä tiedot Wikimedia-säätiölle hyväksyt, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden luulemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaan Yhdysvalloissa [https://wikimediafoundation.org/wiki/Privacy_policy tietosuojakäytäntöömme] perustuen.",
 	"upload-more-photos-of-this-monument": "Tallenna lisää kuvia tästä monumentista",
-	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnuskäytäntö",
 	"createacct-captcha-help-url": "{{ns:Project}}:Pyydä tunnusta",
 	"wikimedia-developers": "Kehittäjät",
 	"wikimedia-globalblocking-ipblocked": "'''IP-osoitteesi on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston on antanut $1 ($2).\nAnnettu syy on ''$3''.\n\n* Eston alkamisaika: $4\n* Eston päättymisaika: $5\n\nNykyinen IP-osoitteesi on $6.\nLiitä kaikki yllä olevat tiedot mahdollisiin kyselyihisi.\n\nJos uskot, että sinut on estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]].\nMuutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikiin]].",
@@ -232,7 +231,6 @@
 	"eri-rcfilters-tour-highlight-title": "Väritä tuloksesi",
 	"eri-rcfilters-tour-highlight-description": "Korostuksella saat erotettua visuaalisesti eri ominaisuuksia.<br /><br />Voit yhdistää korostuksia eri suodattimiin tai käyttää niitä itsenäisesti.",
 	"eri-rcfilters-tour-highlight-button": "Selvä",
-	"wikimedia-sulrenamewarning-usenew": "Tästä hetkestä lähtien sinun tulee kirjautua sisään käyttäen uutta käyttäjänimeäsi <strong>$1</strong>. Uusi käyttäjänimesi on uniikki kaikissa Wikimedia-projekteissa, ja jos olet olet kirjautuneena yhdessä projektissa ja vierailet toisessa, tunnuksesi seuraa perässä. [[:m:Special:MyLanguage/Help:Unified_login|Yhdistetyn kirjautumisen tietosivulla]] on enemmän tietoa yhdistetystä kirjautumisesta, kuten myös lista useimmin kysytyistä kysymyksistä. Jos sinun täytyy päivittää sähköpostiosoitteesi tai salasanasi [[Special:Preferences|asetuksissasi]], nyt on hyvä aika tehdä niin.\n\nVoit pyytää tunnuksesi nimeämistä toiselle nimelle sivun [[Special:GlobalRenameRequest]] kautta. Kiitos osallistumisestasi Wikimedia-projekteihin.",
 	"wikimedia-centralauth-contribs-locked": "Tämä käyttäjätunnus on lukittu järjestelmänlaajuisesti.\nKatso [[m:Special:CentralAuth/$1|järjestelmänlaajuisen tunnuksen tiedot]] lisätietoja varten.",
 	"securepoll-dblist-securepollglobal": "Hallituksen vaalit",
 	"wikimedia-cookiestatement": "Evästekäytäntö"

@@ -111,7 +111,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Du kan ikkje sletta eller flytta hovudsida.",
 	"upload-more-photos-of-this-monument": "Last opp fleire bilete av monumentet",
-	"createacct-helpusername-url": "{{ns:Project}}:Retningsliner for brukarnamn",
 	"createacct-captcha-help-url": "{{ns:Project}}:Be om ein konto",
 	"wikimedia-developers": "Utviklarar",
 	"wikimedia-globalblocking-ipblocked": "'''IP-adressa di har blitt [[m:Special:MyLanguage/Global blocks|blokkert på alle wikiar]].'''\n\nBlokkeringa ble gjort av $1 ($2).\nÅrsaka som vart gitt var «$3».\n\n* Blokkeringa starta: $4\n* Blokkeringa utlauper: $5\n\nDi noverande IP-adresse er $6.\nInkluder alle detaljane ovafor i alle førespurnadar du gjør.\n\nOm du trur du har vorte blokkert ved ein feil kan du finne ytterlegare informasjon og instruksjonar i den globale retningslina for [[m:Special:MyLanguage/No open proxies|opne mellomtenarar]].\nFor å diskutere blokkeringa kan du ellers [[m:Steward requests/Global|poste ein førespurnad for gjennomgang på Meta-Wiki]].",
