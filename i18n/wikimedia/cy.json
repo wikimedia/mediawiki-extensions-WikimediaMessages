@@ -128,7 +128,6 @@
 	"cant-delete-main-page": "Ni allwch ddileu'r brif dudalen na'i symud.",
 	"wikimedia-translationnotifications-signup-legal": "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy polisi preifatrwydd].",
 	"upload-more-photos-of-this-monument": "Uwchlwytho rhagor o luniau o'r gofeb hon",
-	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwi_cyfrifon",
 	"createacct-captcha-help-url": "{{ns:Project}}:Ymholi am gyfri",
 	"wikimedia-developers": "Datblygwyr",
 	"wikimedia-globalblocking-ipblocked": "'''Mae eich cyfeiriad IP wedi'i [[m:Special:MyLanguage/Global blocks|analluogi ar bob wici dan haul]].'''\n\nCafodd y bloc rhwystro ei roi gan $1 ($2).\nY rheswm a roddwyd yw: ''$3''.\n\n* Cychwynwyd y bloc: $4\n* Daw / daeth y bloc i ben: $5\n\nEich IP cyfredol yw $6.\nOs oes gennych ymholiad, dyfynwch y manylion hyn.\n\nOs credwch i chi gael eich blocio ar gam yna gallwch ddarganfod ychwaneg o wybodaeth a chyfarwyddiadau yn [[m:Special:MyLanguage/No open proxies|y polisi global hwn]].\nFel arall, i drafod eich rhwystr / bloc, [[m:Steward requests/Global|gwnewch apel am ailwerthuso'r bloc yn Meta-Wiki]].",

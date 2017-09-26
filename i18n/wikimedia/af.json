@@ -129,7 +129,6 @@
 	"wikibase-sitelinks-sitename-species": "Wikispesies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Jy kan nie verwyder of skuif die hoofblad.",
-	"createacct-helpusername-url": "{{ns:Project}}:Beleid_gebruikersname",
 	"createacct-captcha-help-url": "{{ns:Project}}:Gebruiker_aanvra",
 	"wikimedia-developers": "Ontwikkelaars",
 	"wikimedia-globalblocking-ipblocked": "'''U IP-adres is [[m:Special:MyLanguage/Global blocks|op alle wiki's geblokkeer]].'''\n\nDie blokkade is uitgevoer deur $1 ($2).\nDie rede verskaf is ''$3''.\n\n* Blokkade begin: $4\n* Blokkade eindig: $5\n\nU huidige IP-adres is $6.\nVermeld al die bostaande gegewens as u êrens op hierdie blokkade reageer.\n\nAs u dink dat u onregverdig geblokkeer is, kan u instruksies en inligting in [[m:Special:MyLanguage/No open proxies|die globale beleid oor oop instaanbedieners]] vind.\nU kan ook [[m:Steward requests/Global|'n aansoek vir verifikasie van die blokkade op Meta-Wiki]] plaas.",
