@@ -200,7 +200,6 @@
 	"cant-delete-main-page": "Non ge puè scangellà o spustà 'a pàgena prengepàle.",
 	"wikimedia-translationnotifications-signup-legal": "Tu sì d'accorde ca danne a Wikimedia Foundation ste 'mbormaziune nuje te putime condattà riguarde a le traduziune o a otre argomende collegate a le movimende de Uicchimedia ca penzeme ca ponne essere inderessande pe tè. Tu sì d'accorde ca le date tune ponne essere stipate jndr'à le State Aunìte d'Americhe e so suggette a le nostre [https://wikimediafoundation.org/wiki/Privacy_policy regole d'a privacy].",
 	"upload-more-photos-of-this-monument": "Careche cchiù fote de stu monumende",
-	"createacct-helpusername-url": "{{ns:Project}}:Regole_pu_nome_utende",
 	"createacct-captcha-help-url": "{{ns:Project}}:Cirche 'nu cunde",
 	"wikimedia-developers": "Sviluppature",
 	"wikimedia-globalblocking-ipblocked": "'''<nowiki>'U</nowiki> 'ndirizze IP tune ha state [[m:Special:MyLanguage/Global blocks|bloccate sus a tutte le uicchi]].'''\n\n'U blocche ha state fatte da $1 ($2).\n'U mutive date jè ''$3''.\n\n* Inizie d'u blocche: $4\n* Scadenze d'u blocche: $5\n\n'U 'ndirizze IP tune jè $6.\nPe piacere 'nglude tutte le dettaglie de sus jndr'à ogne inderrogazione ca tu face.\n\nCe tu pinze ca è state bloccate pe errore, tu puè acchià 'mbormaziune aggiundive e 'struziune jndr'à le regole globbale sus a [[m:Special:MyLanguage/No open proxies|le proxy achiuse]].\nAltrimende, pe 'ngazzarte sus a 'u blocche pe piacere [[m:Steward requests/Global|manne 'na richieste pe revisitazione sus a Meta-Uicchi]].",

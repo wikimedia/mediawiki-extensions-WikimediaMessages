@@ -197,8 +197,5 @@
 	"eri-rcfilters-tour-highlight-title": "Отбележете резултатите с различни цветове",
 	"eri-rcfilters-tour-highlight-description": "Използвайте различни цветове за да различите визуално избраните свойства.<br/><br/>Можете да комбинирате оцветяването с филтри или да ги използвате независимо от тях.",
 	"eri-rcfilters-tour-highlight-button": "OK, разбрах",
-	"wikimedia-feedback-termsofuse": "Съгласявам се да предоставя обратна връзка в съответствие с <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">Условията за ползване</a>.",
-	"wikimedia-globalrenamequeue-email-body-approved": "Заявката за преименуване на старото потребителско име \"{{GENDER:$1|$1}}\" към новото \"{{GENDER:$1|$2}}\" е одобрена. След като бъде изпълнена, ще можете да влизате с новото си потребителско име и старата парола. Благодарим ви за приносите към проектите на Уикимедия.",
-	"wikimedia-globalrenamequeue-email-body-rejected": "Заявката за преименуване на старото потребителско име \"{{GENDER:$1|$1}}\" към новото \"{{GENDER:$1|$2}}\" не може да бъде изпълнена.\n\nЗабележка: $3\n\nЗа повече информация, моля, посетете помощната страница: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. За да дискутирате заявката си за преименуване, можете да пишете на страницата: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. За целта първо трябва да влезете в системата с текущото си потребителско име.",
 	"wikimedia-cookiestatement": "Използване на „бисквитки“"
 }

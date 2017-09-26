@@ -139,7 +139,6 @@
 	"cant-delete-main-page": "A peul pa scancelé o tramudé la pàgina prinsipal.",
 	"wikimedia-translationnotifications-signup-legal": "An dasend a la Fondassion Wikimedia coste anformassion a l'é d'acòrdi che noi i podoma contatelo rësguard a tradussion o d'àutri argoment colegà al moviment WIkimedia che noi i pensoma a peulo anteresselo. A l'é d'acòrdi che ij sò dat a peulo esse memorisà ant jë Stat Unì d'América e a sio soget a nòstre [https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy régole ëd confidensialità].",
 	"upload-more-photos-of-this-monument": "Carié pi 'd fòto d'ës monument",
-	"createacct-helpusername-url": "{{ns:Project}}:Régole për jë stranòm",
 	"createacct-captcha-help-url": "{{ns:Project}}:Ciamé un cont",
 	"wikimedia-developers": "Dësvlupator",
 	"wikimedia-globalblocking-ipblocked": "'''Soa adrëssa IP a l'é stàita [[m:Special:MyLanguage/Global blocks|blocà su tute le wiki]].'''\n\nËl blocagi a l'é stàit fàit da $1 ($2).\nLa rason dàita a l'é  ''$3''.\n\n* Inissi dël blocagi: $4\n* Fin dël blocagi: $5\n\nSoa adrëssa IP atual a l'é $6.\nPër piasìm ch'a ancluda titi ij detaj sì-dzora an qualsëssìa arcesta ch'a fà.\nS'a chërd ch'a l'é stàit blocà për eror, a peul trové d'àutre anformassion e anstrussion ant le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandant duvert]].\nDësnò, për discute dël blocagi për piasì [[m:Steward requests/Global|ch'a manda n'arcesta ëd revision su Meta-Wiki]].",
@@ -147,9 +146,6 @@
 	"wikimedia-torblock-blocked": "Soa adrëssa IP <strong>$1</strong>, a l'é stàita identificà an automàtich tanme un neu ëd surtìa Tor.\nLe modìfiche da Tor a son blocà pËr evité j'abus.\nPër pi d'anformassion e anstrussion për legitimé j'utent, ch'a vëdda le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandatari duvert]].",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy Régole ëd confidensialità]",
 	"grant-checkuser": "Acede ai dàit ëd verificator",
-	"wikimedia-flow-terms-of-use-new-topic": "An sgnacand su «{{int:flow-newtopic-save}}», a l'é d'acòrd con nòstre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condission d'utilisassion] e a l'é d'acòrd a smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0 licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-reply": "An sgnacand su «{{int:flow-reply-link}}», chiel a l'é d'acòrd con nòstre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condission d'utilisassion] e a l'é d'acòrd dë smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0 licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-edit": "An argistrand soe modìfiche, chiel a aceta nòstre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condission d'utilisassion] e a l'é d'acòrd dë smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimediashoplink-linktext": "Negòssi Wikimedia",
 	"wikimediashoplink-link-tooltip": "Vìsita ël Negòssi Wikimedia"
 }
