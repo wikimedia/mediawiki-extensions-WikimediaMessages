@@ -28,7 +28,8 @@
 			"AzorAhai",
 			"4nn1l2",
 			"Mahdy Saffar",
-			"Arash.pt"
+			"Arash.pt",
+			"Obzord"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -289,8 +290,9 @@
 	"eri-rcfilters-tour-welcome-no-ores-description": "بازبینی ویرایش‌ها به کمک محیط قدرتمند همراه با پالایه‌های اضافی تنظیم‌شده توسط کاربر برای پررنگ کردن مطالب و سایر امکانات.",
 	"eri-rcfilters-tour-welcome-button": "اوکی، متوجه شدم",
 	"eri-rcfilters-tour-intro-welcome-title": "به بهبود پالایهٔ تغییرات اخیر خوش‌آمدید",
-	"eri-rcfilters-tour-intro-welcome-description": "بازبینی ویرایش، به صورت بهینه از ابزارهای یادگیری ماشینی همراه با محیط بهتر استفاده می‌کند.",
-	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بازبینی ویرایش، به صورت بهینه از ابزارهای قدرتمند به همراه پررنگ کردن‌های  تعریف شده توسط کاربر با محیط بهتر استفاده می‌کند.",
+	"eri-rcfilters-tour-intro-welcome-description": "بازبینی ویرایش‌ها به صورت بهینه، توسط ابزارهای بهینه‌شده، محیط جدید و قابلیت یادگیری ماشینی. $1",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بازبینی ویرایش‌ها به صورت بهینه، با استفاده از فیلترهای جدید، محیط قوی‌تر، پررنگ‌کردن‌های تعریف‌شده توسط کاربر و دیگر قابلیت‌های افزوده‌شده. $1",
+	"eri-rcfilters-tour-help": "اطلاعات بیشتر",
 	"eri-rcfilters-tour-intro-preferences-description": "دادن دسترسی به ترجیحاتتان برای غیرفعال کردن نسخهٔ بهبودیافتهٔ تغییرات اخیر.",
 	"eri-rcfilters-tour-intro-welcome-button": "اوکی، متوجه شدم",
 	"eri-rcfilters-tour-highlight-title": "کد رنگ نتایج شما",
