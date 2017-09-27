@@ -24,7 +24,8 @@
 			"Tar Lócesilion",
 			"Openbk",
 			"Devwebtel",
-			"The Polish"
+			"The Polish",
+			"Sebek Adamowicz"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -261,6 +262,7 @@
 	"eri-rcfilters-tour-welcome-description": "Połącz ulepszone narzędzia, nowy interfejs i moc samouczącej się maszyny, aby walczyć z wandalizmami i pomagać nowym użytkownikom.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Patroluj edycje z użyciem prostszego i bardziej rozbudowanego interfejsu, dodatkowych filtrów, podświetlania definiowalnego przez użytkownika i innych usprawnień.",
 	"eri-rcfilters-tour-welcome-button": "Ok, rozumiem",
+	"eri-rcfilters-tour-help": "Więcej informacji",
 	"eri-rcfilters-tour-intro-welcome-button": "Ok, rozumiem",
 	"eri-rcfilters-tour-highlight-title": "Oznakuj wyniki kolorami",
 	"eri-rcfilters-tour-highlight-description": "Użyj podświetlania aby rozróżniać wybrane właściwości.<br/><br/>Możesz połączyć podświetlanie z filtrowaniem lub używać go niezależnie.",
