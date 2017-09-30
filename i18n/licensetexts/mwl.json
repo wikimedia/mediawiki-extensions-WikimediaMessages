@@ -5,6 +5,13 @@
 		]
 	},
 	"wm-license-book-editor": "Eiditor",
+	"wm-license-gfdl-1.2-and-later": "Ye cuncedida permisson pa copiar, çtribuir i/ó modificar este decumiento ne ls termos de la lhicença '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verson 1.2 ó qualquiera berson posterior publicada pula [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sin Secçones Ambariantes, sin testos de Cápia i sin testos de Cuntra-Cápia. Ye ancluída ua cópia de la lhicença na secçon antitalada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Çcriçon",
-	"wm-license-information-source": "Fuonte"
+	"wm-license-information-source": "Fuonte",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Outor",
+	"wm-license-information-permission": "Permisson",
+	"wm-license-information-permission-reusing-text": "Reoutelizar este fexeiro",
+	"wm-license-own-work": "Obra de l própio",
+	"wm-license-self-multiple-licenses-select": "Puode scolher la lhicença que quejir."
 }

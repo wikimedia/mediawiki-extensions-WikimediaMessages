@@ -4,9 +4,20 @@
 			"MokaAkashiyaPT"
 		]
 	},
+	"wm-license-cc-attribution": "Atribuiçon",
 	"wm-license-cc-by-2.5-pt-text": "La outelizaçon deste fexeiro ye rigulada ne ls termos de la lhicença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [//creativecommons.org/licenses/by/2.5/pt/deed.pt Atribuiçon 2.5 Pertual].",
 	"wm-license-cc-by-3.0-pt-text": "La outelizaçon deste fexeiro ye rigulada ne ls termos de la lhicença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [//creativecommons.org/licenses/by/3.0/pt/deed.pt Atribuiçon 3.0 Pertual].",
 	"wm-license-cc-by-sa-2.5-pt-text": "La outelizaçon deste fexeiro ye rigulada ne ls termos de la lhicença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [//creativecommons.org/licenses/by-sa/2.5/pt/deed.pt Atribuiçon - Cumpartir ne ls Mesmos Termos 2.5 Pertual].",
+	"wm-license-cc-by-sa-3.0-text": "La outelizaçon deste fexeiro ye reglamentada ne ls termos de la lhicença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/deed.pt Atribuiçon-Cumpartir Eigual 3.0 Nun Adaptada].",
 	"wm-license-cc-by-sa-3.0-pt-text": "La outelizaçon deste fexeiro ye rigulada ne ls termos de la lhicença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/licenses/by-sa/3.0/pt/deed.pt Atribuiçon-Cumpartir Eigual 3.0 Pertual].",
-	"wm-license-cc-conditions-attribution-header": "atribuiçon"
+	"wm-license-cc-free": "Sós lhibre pa:",
+	"wm-license-cc-free-to-share-header": "partilhar",
+	"wm-license-cc-free-to-share-text": "copiar, çtribuir i trasmitir la obra",
+	"wm-license-cc-free-to-remix-header": "recumbinar",
+	"wm-license-cc-free-to-remix-text": "criar obras deribadas",
+	"wm-license-cc-conditions": "De acuordo culas seguintes cundiçones:",
+	"wm-license-cc-conditions-attribution-header": "atribuiçon",
+	"wm-license-cc-conditions-attribution-text": "Ten de atribuir la outoria de la obra, de la forma specificada pul sou outor ó lhicenciante (mas nun de forma a sugerir que estes l apoian ó subscrebem l sou uso de la obra).",
+	"wm-license-cc-conditions-share_alike-header": "partilhar ne ls termos de la mesma licéncia",
+	"wm-license-cc-conditions-share_alike-text": "Se altarar, trasformar ó ampliar esta obra, solo puode çtribuir la obra resultante lhicenciando-la cula mesma lhicença ó cun ua lhicença semelhante a esta."
 }
