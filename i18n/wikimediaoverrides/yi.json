@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"פוילישער"
 		]
 	},
-	"wikimedia-createacct-imgcaptcha-help": "בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]"
+	"wikimedia-createacct-imgcaptcha-help": "בילד נישט זעבאר? [[{{MediaWiki:createacct-captcha-help-url}}|Request an account]]",
+	"wikimedia-sulrenamewarning-usenew": "פון הײַנט אן דארפט איר ארײַנלאגירן מיט אייער נײַעם באניצער־נאמען  <strong>$1</strong>.אייער נײַער באניצער־נאמען איז איינהייטלעך איבער אלע וויקימעדיע פראיעקטן , און ווען איר לאגירט אריין אין איין פראיעקט, ביים באזוכן א צווייטן גיט מיט אײַער קאנטע. דער [[:m:Special:MyLanguage/Help:Unified_login|פאראייניגטער ארײַנלאגירן הילף בלאט ]] האט נאך אינפארמאציע וועגן איינציגער־באניצער אריינלאגירן, ווי אויך א ליסטע פון אפט געפרעגטע שאלות. אז איר ווילט דערהײַנטיקן אײַער בליצפאסט אדרעס אדער ענדערן אײַער פאסווארט [[Special:Preferences|העדפות]], איז יעצט א גוטע צייט.\n\nכדי צו בעטן אן אנדער באניצער־נאמען שם, זײַט אזוי גוט און באזוכט דעם בלאט [[Special:GlobalRenameRequest]]. א דאנק פאר אײַער באטייליגן אין וויקימעדיע פראיעקטן."
 }
