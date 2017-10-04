@@ -296,7 +296,7 @@
 	"right-editextendedsemiprotected": "Editar páginas protegidas como \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir apenas autopatrulhadores",
 	"restriction-level-editextendedsemiprotected": "auto-patrulha protegida",
-	"eri-rcfilters-beta-label": "Novos filtros para revisão de edição",
+	"eri-rcfilters-beta-label": "Novos filtros para revisão de edições",
 	"eri-rcfilters-beta-description": "Revise as edições em Mudanças Recentes usando uma interface mais fácil e mais poderosa. Inclui novos filtros, realce definido pelo usuário e outras melhorias.",
 	"eri-rcfilters-beta-description-ores": "Revise edições em Mudanças Recentes usando uma interface fácil e mais poderosa e várias ferramentas novas, incluindo filtros preditivos fornecidos por [[mw:Special:MyLanguage/ORES|ORES]], um programa de aprendizado de máquina.",
 	"eri-rcfilters-tour-welcome-title": "Introduzindo: Novos Filtros para Revisão de Edição (beta)",

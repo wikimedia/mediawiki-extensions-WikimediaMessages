@@ -44,13 +44,17 @@
 	"wm-license-information-description": "sapuelac",
 	"wm-license-information-description-missing-request": "pinipabeli uyniyan sakaizaway sisapuelac a tangan.",
 	"wm-license-information-source": "saangangan",
+	"wm-license-information-source-missing": "uyni tangan inayi;  '''saangangan''' a cesyun.",
+	"wm-license-information-source-missing-request": "pimikawaway-kalumyiti tina tangan sapuelac kasabelih atu nipabeli saangangan",
 	"wm-license-information-date": "demiad",
 	"wm-license-information-author": "masacudaday",
+	"wm-license-information-author-missing": "uyni tangan inayi; '''masacudaday''' a cesyun",
 	"wm-license-information-permission": "pabeli tu kinli mahasa",
 	"wm-license-information-permission-reusing-text": "patatenga’ tuyniyan a tangan",
 	"wm-license-information-permission-see-below": "azihen isasaay.",
 	"wm-license-information-other-versions": "zuma a baziyong",
 	"wm-license-original-upload-log": "saayaway patatengil nu nasulitan nazipa’ann",
 	"wm-license-own-work": "numakuway a nalimaan",
+	"wm-license-pd-author-not-legally-possible": "uyniayay hakay caay katanengay tu likec, anu mahiza sa:",
 	"wm-license-self-multiple-licenses-select": "kapah kisu mipili’ kaydihan isu sapabeli tu kinli a ceding."
 }

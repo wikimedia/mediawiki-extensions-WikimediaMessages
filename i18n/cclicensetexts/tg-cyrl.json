@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ibrahim"
+			"Ibrahim",
+			"Vashgird"
 		]
 	},
-	"wm-license-cc-attribution": "Тахсис"
+	"wm-license-cc-attribution": "Тахсис",
+	"wm-license-cc-conditions-attribution-header": "тахсис",
+	"wm-license-cc-conditions-share_alike-header": "саҳми яксон"
 }
