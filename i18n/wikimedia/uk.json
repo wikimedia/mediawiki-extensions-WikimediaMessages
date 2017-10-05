@@ -26,7 +26,8 @@
 			"Dicto23456",
 			"Dars",
 			"Максим Підліснюк",
-			"Green Zero"
+			"Green Zero",
+			"SimondR"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -294,6 +295,7 @@
 	"eri-rcfilters-tour-intro-welcome-title": "Ласкаво просимо до покращеного фільтрування Нових редагувань",
 	"eri-rcfilters-tour-intro-welcome-description": "Перевіряйте редагування ефективніше, використовуючи покращені інструменти, новий інтерфейс та силу машинного навчання.",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Перевіряйте редагування ефективніше, використовуючи нові фільтри, потужніший інтерфейс, налаштовні виділення та інші покращення.",
+	"eri-rcfilters-tour-help": "Дізнатися більше",
 	"eri-rcfilters-tour-intro-preferences-description": "У будь-який момент перейдіть у свої налаштування, щоб вимкнути покращену версію Нових редагувань.",
 	"eri-rcfilters-tour-intro-welcome-button": "Гаразд, зрозуміло",
 	"eri-rcfilters-tour-highlight-title": "Виділяйте свої результати кольором",
