@@ -125,10 +125,10 @@ class WikimediaMessagesHooks {
 	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
 	 * semi-dual license fun!
 	 *
-	 * @param $title Title
-	 * @param $type string
-	 * @param $msg string
-	 * @param $link
+	 * @param Title $title
+	 * @param string $type
+	 * @param string &$msg
+	 * @param string &$link
 	 *
 	 * @return bool
 	 */
@@ -153,8 +153,8 @@ class WikimediaMessagesHooks {
 	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
 	 * semi-dual license fun!
 	 *
-	 * @param $title Title
-	 * @param $msg string
+	 * @param Title $title
+	 * @param string &$msg
 	 *
 	 * @return bool
 	 */
@@ -172,10 +172,10 @@ class WikimediaMessagesHooks {
 	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
 	 * semi-dual license fun!
 	 *
-	 * @param string $link
+	 * @param string &$link
 	 * @param string $context
 	 * @param array $attribs
-	 * @param string $msg
+	 * @param string &$msg
 	 *
 	 * @return bool
 	 */
@@ -201,8 +201,8 @@ class WikimediaMessagesHooks {
 	/**
 	 * Add a "Developers"  (T35464) and "Cookie statement" (T124366) link to the footer of every page
 	 *
-	 * @param $skin SkinTemplate (from includes/SkinTemplate.php)
-	 * @param $template QuickTemplate (from includes/SkinTemplate.php)
+	 * @param SkinTemplate &$skin
+	 * @param QuickTemplate &$template
 	 *
 	 * @return bool
 	 */
@@ -233,7 +233,7 @@ class WikimediaMessagesHooks {
 	 *
 	 * FIXME: Should have a specific message for WMF projects (T44231)
 	 *
-	 * @param string $msg The message to over-ride
+	 * @param string &$msg The message to over-ride
 	 *
 	 * @return bool
 	 */
@@ -245,7 +245,7 @@ class WikimediaMessagesHooks {
 	/**
 	 * Set the message on GlobalBlocking IP block being triggered
 	 *
-	 * @param string $msg The message to over-ride
+	 * @param string &$msg The message to over-ride
 	 *
 	 * @return bool
 	 */
@@ -257,7 +257,7 @@ class WikimediaMessagesHooks {
 	/**
 	 * Set the message on GlobalBlocking XFF block being triggered
 	 *
-	 * @param string $msg The message to over-ride
+	 * @param string &$msg The message to over-ride
 	 *
 	 * @return bool
 	 */
@@ -292,7 +292,7 @@ class WikimediaMessagesHooks {
 	 * Do not require it when licenses is in $wgForceUIMsgAsContentMsg,
 	 * to prevent checking each subpage of MediaWiki:Licenses.
 	 *
-	 * @param $tpl
+	 * @param BaseTemplate $tpl
 	 * @return bool
 	 * @throws ErrorPageError
 	 */
@@ -1232,7 +1232,7 @@ class WikimediaMessagesHooks {
 	 * Handler for the GetBetaFeaturePreferences hook.
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetBetaFeaturePreferences
 	 *
-	 * @param $user User to get preferences for
+	 * @param User $user User to get preferences for
 	 * @param array &$preferences Preferences configuration
 	 *
 	 * @return bool true in all cases
@@ -1337,6 +1337,10 @@ class WikimediaMessagesHooks {
 		}
 	}
 
+	/**
+	 * @param ResourceLoader &$resourceLoader
+	 * @return true
+	 */
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
 		if ( class_exists( 'GuidedTourHooks' ) ) {
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersBeta', [
@@ -1420,8 +1424,8 @@ class WikimediaMessagesHooks {
 	/**
 	 * Register RC Filters preferences
 	 *
-	 * @param $user User object
-	 * @param &$preferences array Preferences object
+	 * @param User $user User object
+	 * @param array &$preferences Preferences object
 	 * @return bool
 	 */
 	public static function onGetPreferences( $user, &$preferences ) {
