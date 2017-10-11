@@ -32,7 +32,8 @@
 			"Bowleerin",
 			"Arthur2e5",
 			"Wmr",
-			"A2093064"
+			"A2093064",
+			"NeverBehave"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -303,7 +304,7 @@
 	"eri-rcfilters-tour-welcome-no-ores-description": "使用更容易且更强大的界面、额外过滤器、用户定义的高亮及其他改进来复核编辑。",
 	"eri-rcfilters-tour-welcome-button": "好的，明白了",
 	"eri-rcfilters-tour-intro-welcome-title": "欢迎使用改进的最近更改过滤器",
-	"eri-rcfilters-tour-intro-welcome-description": "通过使用改进的工具、新的界面和机器学习的动力，更高效地复核编辑。$1",
+	"eri-rcfilters-tour-intro-welcome-description": "通过使用改进的工具、新的界面和机器学习的力量，更高效地复核编辑。$1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "通过使用新的过滤器、更强大的界面、用户定义的高亮以及其他改进，更高效地复核编辑。$1",
 	"eri-rcfilters-tour-help": "了解更多",
 	"eri-rcfilters-tour-intro-preferences-description": "随时访问您的参数设置禁用改进的最近更改版本。",
