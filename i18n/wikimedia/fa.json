@@ -29,7 +29,8 @@
 			"4nn1l2",
 			"Mahdy Saffar",
 			"Arash.pt",
-			"Obzord"
+			"Obzord",
+			"Meisam"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -213,7 +214,7 @@
 	"shared-repo-name-shared": "ویکی‌انبار",
 	"wikimedia-copyright": "متن تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> در دسترس است؛\nشرایط اضافی می‌تواند اعمال گردد.\n<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">شرایط استفاده</a> را برای جزئیات ببینید.",
 	"wikidata-copyright": "ساختار همهٔ داده‌ها از فضای نام اصلی و خصوصیت تحت <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">مجوز کریتیو کامنز صفر</a> در دسترس است؛\nمتن در فضاهای نام دیگر تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">مجوز کریتیو کامنز/سهم طور یکسان</a> در دسترس است\nشرایط اضافی ممکن است اعمال شود.\nبرای جزئیات بیشتر <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">شرایط استفاده</a>  را مشاهده کنید.",
-	"wikimedia-copyrightwarning": "با ذخیره تغییرات، [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را می‌پذیرید، و به طور جبران ناشدنی می‌پذیرید که مشارکت‌تان را تحت [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] منتشر کنید.\nشما می‌پذیرید که یک پیوند یا نشانی نسبت‌دادن کافی تحت پروانه کریتیو کامنز است.",
+	"wikimedia-copyrightwarning": "با ذخیرهٔ تغییرات، [https://wikimediafoundation.org/wiki/Terms_of_Use شرایط استفاده] را پذیرفته و به طور فسخ‌ناپذیر مشارکت‌تان را تحت [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] منتشر می‌کنید.\nشما همچنین می‌پذیرید که یک پیوند وب یا نشانی برای ارجاع تحت پروانهٔ کریتیو کامنز کافی‌است.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"تعریف مجوز Creative Commons Attribution-ShareAlike\" target=\"_blank\">CC BY-SA 3.0</a> و <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"تعریف مجوز GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ویکی‌داده",
 	"wikibase-statementsection-identifiers": "شناسه‌ها",

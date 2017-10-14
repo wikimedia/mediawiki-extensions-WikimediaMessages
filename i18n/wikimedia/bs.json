@@ -10,7 +10,8 @@
 			"לערי ריינהארט",
 			"Nemo bis",
 			"Semso98",
-			"Srdjan m"
+			"Srdjan m",
+			"Obsuser"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -191,6 +192,7 @@
 	"eri-rcfilters-tour-welcome-button": "Razumijem",
 	"eri-rcfilters-tour-intro-welcome-title": "Predstavljamo poboljšano filtriranje nedavnih izmjena",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Pregledajte izmjene koristeći nove filtere, napredniji interfejs, korisnički-zadano isticanje i druga poboljšanja. $1",
+	"eri-rcfilters-tour-help": "Saznajte više",
 	"eri-rcfilters-tour-intro-preferences-description": "Bilo kada možete otvoriti postavke i isključiti poboljšanu verziju nedavnih izmjena.",
 	"eri-rcfilters-tour-intro-welcome-button": "Razumijem",
 	"eri-rcfilters-tour-highlight-title": "Razlikujte rezultate pomoću boja",
