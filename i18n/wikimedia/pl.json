@@ -88,6 +88,8 @@
 	"group-eliminator": "Sprzątacze",
 	"group-eliminator-member": "{{GENDER:$1|sprzątacz|sprzątaczka}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminatorzy",
+	"group-extendedconfirmed": "Zaawansowani zatwierdzeni użytkownicy",
+	"group-extendedconfirmed-member": "{{GENDER:$1|zaawansowany zatwierdzony użytkownik|zaawansowana zatwierdzona użytkowniczka}}",
 	"group-extendedmover": "Przenoszący strony",
 	"group-extendedmover-member": "przenoszący strony",
 	"grouppage-extendedmover": "Przenoszący strony",
