@@ -34,7 +34,8 @@
 			"Iwai.masaharu",
 			"Suchichi02",
 			"Delim",
-			"Hinaloe"
+			"Hinaloe",
+			"Afaz"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -189,6 +190,7 @@
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\" title=\"クリエイティブ・コモンズ　表示 - 継承 3.0 非移植 (CC BY-SA 3.0)\" target=\"_blank\">CC BY-SA 3.0</a>及び<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDLの定義\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ウィキデータ",
 	"wikibase-statementsection-identifiers": "識別子",
+	"wikibase-statementsection-constraints": "制約",
 	"wikibase-sitelinks-wikibooks": "ウィキブックス",
 	"wikibase-sitelinks-wikinews": "ウィキニュース",
 	"wikibase-sitelinks-wikiquote": "ウィキクォート",

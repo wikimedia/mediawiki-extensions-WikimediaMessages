@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tisave"
+			"Tisave",
+			"Bfpage"
 		]
 	},
 	"wm-license-cc-by-sa-3.0-text": "Fichye sa a distribiye selon lisans [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
@@ -11,5 +12,7 @@
 	"wm-license-cc-free-to-remix-header": "pou remiks",
 	"wm-license-cc-free-to-remix-text": "pou adapte ouvraj la",
 	"wm-license-cc-conditions": "Selon kondisyon sa a yo:",
+	"wm-license-cc-conditions-attribution-header": "Rekonèt avèk non otè",
+	"wm-license-cc-conditions-share_alike-header": "Enfòmasyon sa yo ka pataje",
 	"wm-license-cc-conditions-share_alike-text": "Si w chanje, transfòme oswa ajoute sou ouvraj sa a, ou ka distribiye rezilta a sèlman selon menm lisans la ou youn ki sanble l."
 }
