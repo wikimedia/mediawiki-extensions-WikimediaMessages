@@ -175,7 +175,7 @@
 	"group-staff-member": "{{GENDER:$1|član osoblja|članica osoblja}}",
 	"group-steward": "Stjuardi",
 	"group-steward-member": "{{GENDER:$1|stjuard|stjuardica}}",
-	"grouppage-steward": "{{ns:project}}:Stjuardi",
+	"grouppage-steward": "m:Stewards/hr",
 	"group-sysadmin": "Administratori sustava",
 	"group-sysadmin-member": "{{GENDER:$1|administrator sustava|administratorica sustava}}",
 	"group-translationadmin": "Prevoditeljski administratori",

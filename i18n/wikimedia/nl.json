@@ -20,7 +20,8 @@
 			"Robin van der Vliet",
 			"MrLeopold",
 			"Mainframe98",
-			"Akoopal"
+			"Akoopal",
+			"Optilete"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -277,7 +278,7 @@
 	"eri-rcfilters-tour-intro-preferences-description": "U kunt uw voorkeuren elk moment aanpassen om de verbeterde versie van recente wijzigingen uit de schakelen.",
 	"eri-rcfilters-tour-intro-welcome-button": "Oké, ik begrijp het",
 	"eri-rcfilters-tour-highlight-title": "Geef je resultaten een kleurtje",
-	"eri-rcfilters-tour-highlight-description": "Gebruik \"markeren\" om geselecteerde filters van elkaar te onderscheiden.<br/><br/>U kunt filters met markeringen combineren of ze apart gebruiken.",
+	"eri-rcfilters-tour-highlight-description": "Gebruik \"markeren\" om geselecteerde eigenschappen van elkaar te onderscheiden.<br/><br/>U kunt filters met markeringen combineren of ze apart gebruiken.",
 	"eri-rcfilters-tour-highlight-button": "Oké, ik begrijp het",
 	"eri-rcfilters-tour-invite-title": "Nieuwe betafunctie beschikbaar voor deze pagina",
 	"eri-rcfilters-tour-invite-description": "Probeer de \"'''nieuwe filters voor het beoordelen van bewerkingen'''\". Vind de meest relevante bewerkingen die aandacht nodig hebben",
