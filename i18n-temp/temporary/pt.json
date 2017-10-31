@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720",
+			"Malafaya",
+			"Vitorvicentevalente",
+			"Opraco",
+			"Hamilton Abreu"
+		]
+	},
+	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Supervisão",
+	"group-oversight": "Supervisores",
+	"group-oversight-member": "supervisor",
+	"hello": "Olá",
+	"please-translate": "Ajude a traduzir para a sua língua, por favor",
+	"thank-you": "{{GENDER:$1|Obrigado}}."
+}

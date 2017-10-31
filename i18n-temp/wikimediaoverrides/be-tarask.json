@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck",
+			"Wizardist"
+		]
+	},
+	"wikimedia-acct_creation_throttle_hit": "Наведнікі гэтай вікі з вашага IP-адрасу стварылі $1 {{PLURAL:$1|рахунак|рахункі|рахункаў}} за апошні дзень, што зьяўляецца максымумам для гэтага пэрыяду.\nУ выніку наведнікі з гэтага IP-адрасу ня могуць больш ствараць рахункі ў цяперашні момант.\n\nКалі вы знаходзіцеся на сустрэчы, дзе абмяркоўваецца ўнёсак у Вікімэдыю, калі ласка, глядзіце [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|як запытаць палягчэньне IP-абмежаваньня]] для разьвязаньня гэтай праблемы.",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Правілы_найменьня_ўдзельнікаў"
+}

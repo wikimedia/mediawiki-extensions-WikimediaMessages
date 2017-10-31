@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"wikimedialicensetexts-desc": "Hafatra momba ny lisansan'i Wikimedia",
+	"wm-license-attribution-with-author-text": "Ambaran'i $1, mpitazon'ny zom-pamoron'ity rakitra ity, fa '''azon'ny rehetra ampiasaina ho an'ny fampiasana rehetra''' ity rakitra ity, raha fantatra na voatono tsara ny mpamoron'ity vokatr'asa ity. Ny fampizarazarana, ny vokatr'asa avy aminy, ny fivarotana azy ary ny fampiasana hafa rehetra dia azo atao.",
+	"wm-license-attribution-without-author-text": "Ambaran'ny mpitazon'ny zom-pamoron'ity rakitra ity, fa '''azon'ny rehetra ampiasaina ho an'ny fampiasana rehetra''' ity rakitra ity, raha fantatra na voatono tsara ny mpamoron'ity vokatr'asa ity. Ny fampizarazarana, ny vokatr'asa avy aminy, ny fivarotana azy ary ny fampiasana hafa rehetra dia azo atao.",
+	"wm-license-free-software-wiki-link": "w:mg:Rindrankajy malalaka",
+	"wm-license-gfdl-1.2-and-later": "Nomena ny alalana mandika, mizara ary/na manova ity rakitra ity araka ny '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' na versiona hafa toariana natontan'i [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tsy misy fizarana tsy azo ovaina, tsy misy soratra andoham-pejy na soratra am-param-pejy. Ao amin'ny fizarana mitondra anarana [[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]] ny soratr'ity fahazoan-dalana ity.",
+	"wm-license-information-description": "Visavisa",
+	"wm-license-information-source": "Loharano",
+	"wm-license-information-date": "Daty",
+	"wm-license-information-author": "Mpamorona azy",
+	"wm-license-information-author-missing": "Tsy manome fampahalalàna mikasika ny '''mpamorony''' ity rakitra ity.",
+	"wm-license-information-permission": "Alalana",
+	"wm-license-information-permission-reusing-text": "Hampiasa ity rakitra ity indray",
+	"wm-license-information-permission-see-below": "Jereo eo ambany",
+	"wm-license-information-other-versions": "Versiona hafa",
+	"wm-license-original-upload-log": "Laogin'ny fampidirana loharano",
+	"wm-license-own-work": "Asan'ny tena",
+	"wm-license-self-multiple-licenses-select": "Afaka mifidy iray amin'ireo lisansa ireo ianao."
+}

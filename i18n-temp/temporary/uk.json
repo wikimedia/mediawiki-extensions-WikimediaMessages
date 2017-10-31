@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia",
+			"Base",
+			"Ahonc",
+			"Ата",
+			"Alex Khimich",
+			"Piramidion"
+		]
+	},
+	"wikimediamessages-desc": "Тимчасові повідомлення для Вікімедіа",
+	"grouppage-oversight": "{{ns:project}}:Ревізори",
+	"group-oversight": "Ревізори",
+	"group-oversight-member": "ревізор",
+	"hello": "Привіт",
+	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
+	"thank-you": "{{GENDER:$1|Дякуємо.}}"
+}

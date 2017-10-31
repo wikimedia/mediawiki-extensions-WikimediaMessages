@@ -1,0 +1,33 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tifinaghes"
+		]
+	},
+	"wm-license-artwork-artist": "ⴰⵏⴰⵥⵓⵔ",
+	"wm-license-artwork-title": "ⴰⵣⵡⵉⵍ",
+	"wm-license-artwork-medium": "ⴰⵏⴰⵎⵎⴰⵙ",
+	"wm-license-artwork-current-location": "ⴰⵣⴷⴰⵢ",
+	"wm-license-artwork-notes": "ⵜⴰⵏⵏⴰⵢⵉⵏ",
+	"wm-license-artwork-id": "ⵓⵟⵟⵓⵏ ⵏ ⵜⴰⴳⴳⴰⵢⵜ",
+	"wm-license-book-editor": "ⴰⵎⵙⴷⵔⴼ",
+	"wm-license-book-illustrator": "ⴰⵎⵙⵓⵍⴼ",
+	"wm-license-book-language": "ⵜⵓⵜⵍⴰⵢⵜ",
+	"wm-license-book-place-of-publication": "ⴰⵏⵙⴰ ⵓⴼⵙⵔ",
+	"wm-license-book-printer": "ⴰⵎⵙⵙⵉⴳⵣ",
+	"wm-license-book-publisher": "ⴰⵎⴼⵙⵔ",
+	"wm-license-book-start-this-book": "ⵙⵙⵏⵜⴰ ⴰⴷⵍⵉⵙ ⴰⴳⵉ",
+	"wm-license-book-title": "ⴰⵣⵡⵉⵍ",
+	"wm-license-book-translator": "ⴰⵎⵙⵓⵖⵍ",
+	"wm-license-book-year-of-publication": "ⴰⵙⴳⴳⵯⴰⵙ ⵓⴼⵙⵔ",
+	"wm-license-creator-alternative-names": "ⴰⵙⵙⴰⵖⵏ ⵏⵏⵉⴹⵏ (ⵢⴰⴹⵏ)",
+	"wm-license-creator-date-of-birth": "ⴰⴽⵓⴷ ⵏ ⵜⵍⴰⵍⵉⵜ",
+	"wm-license-creator-date-of-birth-and-death": "ⴰⴽⵓⴷ ⵏ ⵜⵍⴰⵍⵉⵜ/ⵜⴰⵎⵜⵜⴰⵏⵜ",
+	"wm-license-creator-location-of-birth": "ⴰⴷⵖⴰⵔ ⵏ ⵜⵍⴰⵍⵉⵜ",
+	"wm-license-creator-location-of-birth-and-death": "ⴰⴷⵖⴰⵔ ⵏ ⵜⵍⴰⵍⵉⵜ/ⵜⴰⵎⵜⵜⴰⵏⵜ",
+	"wm-license-creator-work-period": "ⵜⵉⵣⵉ ⵏ ⵜⵡⵓⵔⵉ",
+	"wm-license-creator-work-location": "ⴰⴷⵖⴰⵔ ⵏ ⵜⵡⵓⵔⵉ",
+	"wm-license-information-date": "ⴰⴽⵓⴷ",
+	"wm-license-information-author": "ⴰⵎⵙⴽⴰⵔ",
+	"wm-license-pd-wiki-link": "w:tzm:public domain"
+}

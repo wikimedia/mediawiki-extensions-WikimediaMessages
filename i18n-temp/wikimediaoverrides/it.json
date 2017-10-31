@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemo bis"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]"
+}

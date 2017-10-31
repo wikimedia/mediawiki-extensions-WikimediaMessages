@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Жељко Тодоровић",
+			"Сербијана",
+			"Obsuser"
+		]
+	},
+	"wikimediamessages-desc": "Викимедијске специфичне привремене поруке",
+	"grouppage-oversight": "{{ns:project}}:Брисачи измена",
+	"group-oversight": "Брисачи измена",
+	"group-oversight-member": "брисач измена",
+	"hello": "Здраво",
+	"please-translate": "Помозите у превођењу на свој језик",
+	"thank-you": "{{GENDER:$1|Хвала.}}"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand",
+			"User555",
+			"SPQRobin",
+			"Mainframe98"
+		]
+	},
+	"wikimediamessages-desc": "Tijdelijke berichten voor Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "toezichthouders",
+	"group-oversight-member": "toezichthouder",
+	"hello": "Hallo",
+	"please-translate": "Help met het vertalen naar uw taal",
+	"thank-you": "{{GENDER:$1|Dank u.}}"
+}

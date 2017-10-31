@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chorobek",
+			"Growingup"
+		]
+	},
+	"wikimedialicensetexts-desc": "Уикимедианын лицензиялык билдирүүсү",
+	"wm-license-attribution-with-author-text": "Бул файлдын автордук укук ээси, $1, автордук укук ээси тууралуу маалыматты сактоо \"шартын аткарса, каалаган максатта\" кимге болбосун колдонууга уруксат берет. Бул файлды жайылтуу, анын негизинде башка чыгармаларды жаратуу, ошондой эле коммерциялык жана башка максаттарда колдонууга уруксат берилет.",
+	"wm-license-attribution-without-author-text": "Бул файлдын автордук укук ээси анын автордук укук ээси тууралуу маалыматты сактоо \"шартын аткарса, каалаган максатта\" кимге болбосун колдонууга уруксат берет. Бул файлды жайылтуу, анын негизинде башка чыгармаларды жаратуу, ошондой эле коммерциялык жана башка максаттарда колдонууга уруксат берилет.",
+	"wm-license-artwork-artist": "Автор",
+	"wm-license-artwork-title": "Аталышы",
+	"wm-license-artwork-medium": "Техника",
+	"wm-license-artwork-dimensions": "Өлчөмдөрү",
+	"wm-license-artwork-current-location": "Азыркы орду",
+	"wm-license-artwork-object-history": "Ээлик кылуу тарыхы",
+	"wm-license-artwork-credit-line": "Кошумча маалымат",
+	"wm-license-artwork-references": "Шилтемелер",
+	"wm-license-artwork-inscriptions": "Сыртындагы жазуулар",
+	"wm-license-artwork-notes": "Эскертмелер",
+	"wm-license-artwork-id": "Каттоо номуру",
+	"wm-license-artwork-source": "Кайнар/Сүрөтчү",
+	"wm-license-book-edition": "Басылышы",
+	"wm-license-book-editor": "Редактор",
+	"wm-license-book-illustrator": "Кооздогон",
+	"wm-license-book-language": "Тили",
+	"wm-license-book-page-overview": "Барактын кыскача баяндамасы",
+	"wm-license-book-place-of-publication": "Чыккан жери",
+	"wm-license-book-printer": "Басмакана",
+	"wm-license-book-publisher": "Басмакана",
+	"wm-license-book-series-title": "Алкактын аталышы",
+	"wm-license-book-start-this-book": "Ушул китепти оку",
+	"wm-license-book-translator": "Котормочу",
+	"wm-license-creator-description": "Баяндама",
+	"wm-license-information-description": "Баяндама",
+	"wm-license-information-source": "Булак",
+	"wm-license-information-date": "Дата",
+	"wm-license-information-author": "Автор"
+}

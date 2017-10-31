@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Autokrator",
+			"Diebuche",
+			"UV"
+		]
+	},
+	"wikimedialicensetexts-desc": "Nuntia permissionis Vicimediana",
+	"wm-license-artwork-artist": "Artifex",
+	"wm-license-artwork-title": "Titulus",
+	"wm-license-artwork-notes": "Notae",
+	"wm-license-book-edition": "Editio",
+	"wm-license-book-language": "Lingua",
+	"wm-license-book-page-overview": "Conspectus paginae",
+	"wm-license-book-place-of-publication": "Locus divulgationis",
+	"wm-license-book-series-title": "Titulus seriei",
+	"wm-license-book-start-this-book": "Hunc librum incipere",
+	"wm-license-book-title": "Titulus",
+	"wm-license-book-volume": "Volumen",
+	"wm-license-book-year-of-publication": "Annus divulgationis",
+	"wm-license-creator-alternative-names": "Alia nomina",
+	"wm-license-creator-description": "Descriptio",
+	"wm-license-creator-date-of-birth": "Dies natalis",
+	"wm-license-creator-date-of-birth-and-death": "Dies natalis/mortis",
+	"wm-license-creator-location-of-birth": "Locus natalis",
+	"wm-license-creator-location-of-birth-and-death": "Locus natalis/mortis",
+	"wm-license-gfdl-1.2-and-later": "Licet hoc documentum exscribere vel distribuere vel demutare sub '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Liberarum Litterarum Licentiae]]''' conditionibus in editione 1.2 aut in ulla editione recentiori a [[{{int:wm-license-fsf-wiki-link}}|Fundatione Liberarum Programmationis Partium]] publicata; praeterquam Sectiones Immutabiles et Verba Involucra Adversa et Aversa. Licentiae exemplar praesto est in sectione intitulata ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Descriptio",
+	"wm-license-information-description-missing": "Hic fasciculus caret descriptione.",
+	"wm-license-information-source": "Fons",
+	"wm-license-information-author": "Auctor",
+	"wm-license-information-author-missing": "Hic fasciculus caret descriptione auctoris.",
+	"wm-license-information-permission": "Permissio",
+	"wm-license-information-permission-see-below": "Vide infra.",
+	"wm-license-own-work": "Opus proprium",
+	"wm-license-pd-usgov-military-air-force-wiki-link": "w:la:Vires Aeriae Civitatum Foederatarum",
+	"wm-license-pd-usgov-military-army-wiki-link": "w:la:Exercitus Civitatum Foederatarum",
+	"wm-license-pd-wiki-link": "w:la:Dominium publicum",
+	"wm-license-self-multiple-licenses-select": "Tibi typum permissionis ligere licet."
+}

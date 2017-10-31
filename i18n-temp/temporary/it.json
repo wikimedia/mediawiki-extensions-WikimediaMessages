@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"Darth Kule"
+		]
+	},
+	"wikimediamessages-desc": "Messaggi temporanei specifici per Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "Oversighter",
+	"group-oversight-member": "oversight",
+	"hello": "Ciao",
+	"please-translate": "Aiutaci a tradurre nella tua lingua",
+	"thank-you": "{{GENDER:$1|Grazie.}}"
+}

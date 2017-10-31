@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Diebuche",
+			"Spacebirdy",
+			"Maxí",
+			"Snævar"
+		]
+	},
+	"wm-license-fsf-wiki-link": "w:is:Frjálsa hugbúnaðarstofnunin",
+	"wm-license-free-software-wiki-link": "w:is:Frjáls hugbúnaður",
+	"wm-license-gfdl-1.2-and-later": "Gefið er leyfi til að afrita, dreifa og/eða breyta þessu skjali samkvæmt Frjálsa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''',  útgáfu 1.2 eða nýrri, sem gefið er út af [[{{int:wm-license-fsf-wiki-link}}|Frjálsu hugbúnaðarstofnuninni]] með engum breytingum þar á. Afrit af leyfinu er innifalið í kaflanum ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-wiki-link": "w:is:Frjálsa GNU-handbókarleyfið",
+	"wm-license-information-description": "Lýsing",
+	"wm-license-information-source": "Uppruni",
+	"wm-license-information-date": "Dagsetning",
+	"wm-license-information-author": "Höfundaréttshafi",
+	"wm-license-information-permission": "Réttindi",
+	"wm-license-information-permission-reusing-text": "Endurnotkun á þessari skrá",
+	"wm-license-information-permission-see-below": "See below.",
+	"wm-license-information-other-versions": "Aðrar útgáfur",
+	"wm-license-own-work": "eigin skrá",
+	"wm-license-self-multiple-licenses-select": "Þú mátt velja leyfi að egin vali."
+}

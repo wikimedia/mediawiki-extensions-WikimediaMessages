@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Armando-Martin",
+			"Clarkcj12",
+			"Kroji",
+			"Macofe",
+			"MarcoAurelio",
+			"Matiia",
+			"-jem-",
+			"Syum90"
+		]
+	},
+	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Supresores",
+	"group-oversight": "Supresores",
+	"group-oversight-member": "{{GENDER:$1|supresor|supresora}}",
+	"hello": "Hola",
+	"please-translate": "Por favor, ayuda a traducir a tu idioma",
+	"thank-you": "{{GENDER:$1|Gracias.}}"
+}

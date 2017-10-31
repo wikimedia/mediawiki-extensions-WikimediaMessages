@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"wikimediamessages-desc": "Specifece messàgge temboranèe de Uicchimedia",
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "Oversighter",
+	"group-oversight-member": "oversight",
+	"hello": "Cià",
+	"please-translate": "Danne 'na màne a traducere 'a lènga toje",
+	"thank-you": "{{GENDER:$1|Grazie.}}"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehtab ahmed"
+		]
+	},
+	"hello": "سلام",
+	"please-translate": "براءِ مهرباني پنهنجي ٻولي ۾ ترجمو ڪرڻ ۾ مدد ڪريو",
+	"thank-you": "{{GENDER:$1|توھان جي مھرباني.}}"
+}

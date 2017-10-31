@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Raymond",
+			"Reedy"
+		]
+	},
+	"wikimedia-acct_creation_throttle_hit": "Error message at [[Special:CreateAccount]].\n\n\"in the last day\" precisely means: during the lasts 86400 seconds (24 hours) ending right now.\n\nParameters:\n* $1 - number of accounts",
+	"wikimedia-createacct-helpusername": "Message in new create account form providing guidance for username.",
+	"wikimedia-createacct-imgcaptcha-help": "Help text in vertical-layout create account form for image CAPTCHA input field when repositioned by JavaScript.",
+	"wikimedia-sidebar": "{{notranslate}}",
+	"wikimedia-centralauth-uwbr-intro": "Introduction text displayed above [[Special:UsersWhoWillBeRenamed]]",
+	"wikimedia-centralauth-uwbr-registration-nodate": "Text shown when a user has no registration date recorded due to the account being created before 2006, when we started recording dates.",
+	"createacct-helpusername-url": "The URL of a page providing username guidance for the wiki.\nUsed as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.",
+	"wikimedia-delete-toobig": "Replaces the standard {{msg-mw|delete-toobig}} message with a custom message for WMF wikis, directing administrators to contact the stewards, which can delete such pages.\nParameters:\n* $1 - the upper limit of number of revisions the page has.",
+	"wikimedia-feedback-termsofuse": "Label for agreeing to the Wikimedia terms of use with a link to the official terms of use page.",
+	"wikimedia-flow-terms-of-use-new-topic": "Terms of use and copyright warning shown when adding a new topic to a Flow board. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|Flow-newtopic-save}}.",
+	"wikimedia-flow-terms-of-use-reply": "Terms of use and copyright warning shown when adding a reply at a Flow board. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|Flow-reply-link}}.",
+	"wikimedia-flow-terms-of-use-edit": "Terms of use and copyright warning shown when editing the header or an existing topic or message at a Flow board. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.",
+	"wikimedia-flow-terms-of-use-summarize": "Terms of use and copyright warning shown when summarizing a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-topic-action-update-topic-summary}}.",
+	"wikimedia-flow-terms-of-use-lock-topic": "Terms of use and copyright warning shown when closing a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-topic-action-lock-topic}}.",
+	"wikimedia-flow-terms-of-use-unlock-topic": "Terms of use and copyright warning shown when reopening a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-topic-action-unlock-topic}}.",
+	"wikimedia-globalrenamequeue-email-body-approved": "Email body for approved request.\n\n* $1 is the old username\n* $2 is the new username.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "Email body for rejected request.\n\n* $1 is the old username.\n* $2 is the new username.\n* $3 is the message left by the user who processed the request.",
+	"wikimedia-mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly.",
+	"wikimedia-sulrenamewarning-usenew": "Instructions to user to login with new name in the future\n\n* $1 is the user's new name",
+	"wikimedia-ipb-confirmhideuser": "Used as confirmation message in [[Special:Block]] before doing a HideUser block.\n\nSee also:\n* {{msg-mw|Ipb-blockingself}} and {{msg-mw|ipb-confirmhideuser}}"
+}
