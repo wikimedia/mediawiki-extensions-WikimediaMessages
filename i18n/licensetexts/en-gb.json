@@ -7,7 +7,6 @@
 			"Shirayuki"
 		]
 	},
-	"wikimedialicensetexts-desc": "Wikimedia licence messages",
 	"wm-license-cecill-text": "This work is [[{{int:wm-license-free-software-wiki-link}}|free software]]; you can redistribute it or modify it under the terms of the [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. The terms of the CeCILL licence are available at [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	"wm-license-fal-text": "Copyleft: This work of art is free; you can redistribute it and/or modify it according to terms of the '''[[{{int:wm-license-fal-wiki-link}}|Free Art Licence]]'''. You will find a specimen of this licence on the [{{int:wm-license-fal-full-link}} Copyleft Attitude site] as well as [{{int:wm-license-fal-full-link-commons}} on other sites].",
 	"wm-license-gfdl-1.2-and-later": "Permission is granted to copy, distribute and/or modify this document under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation Licence]]''', Version 1.2 or any later version published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the licence is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation Licence]]''.",

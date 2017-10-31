@@ -4,7 +4,6 @@
 			"Mdupont"
 		]
 	},
-	"wikimedialicensetexts-desc": "Wikimedia licencës mesazhe",
 	"wm-license-attribution-with-author-text": "Copyright holder për këtë skedë, $1, lejon askënd që të përdorin atë '''për çfarëdo qëllimi, me kusht që''' copyright holder i atribuohet si duhet. Rishpërndarjen, punë prejardhur, qëllime komerciale, dhe të gjitha të përdorni të tjera është e lejuar.",
 	"wm-license-attribution-without-author-text": "Copyright holder për këtë skedë lejon askënd që të përdorin atë '''për çfarëdo qëllimi, me kusht që''' copyright holder i atribuohet si duhet. Rishpërndarjen, punë prejardhur, qëllime komerciale, dhe të gjitha të përdorni të tjera është e lejuar.",
 	"wm-license-cecill-text": "Kjo punë është [[{{int:wm-license-free-software-wiki-link}}|free software]], ju mund t'a rishpërndani ose ndryshoni atë sipas kushteve të [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Kushtet e licencës CeCILL janë në dispozicion në [{{int:wm-license-cecill-full-link}} www.cecill.info].",
