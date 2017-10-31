@@ -16,13 +16,20 @@
 
 	// first step (Invite)
 	&#gt-RcFiltersInvite-Invite {
-		width: 290px !important;
-		height: 405px !important;
 		.guider_content {
 			/* @embed */
 			background-image: url( images/rc-beta-tour-welcome-ltr.gif );
 			// Make space for the image
 			padding-top: 200px;
+		}
+
+		.guider_buttons .mw-ui-button {
+			max-width: 65%;
+			margin: 0;
+
+			&.mw-ui-quiet {
+				max-width: 30%;
+			}
 		}
 	}
 

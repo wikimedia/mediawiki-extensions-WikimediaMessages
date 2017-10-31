@@ -3,10 +3,10 @@
  */
 ( function ( mw, gt ) {
 	var tour = new gt.TourBuilder( {
-			name: 'RcFiltersHighlight',
-			shouldLog: true,
-			isSinglePage: true
-		} );
+		name: 'RcFiltersHighlight',
+		shouldLog: true,
+		isSinglePage: true
+	} );
 
 	tour.firstStep( {
 		name: 'Highlight',
@@ -15,6 +15,7 @@
 		autoFocus: true,
 		allowAutomaticOkay: false,
 		attachTo: '.mw-rcfilters-ui-filtersListWidget-hightlightButton',
+		width: 250,
 		position: 'right',
 		buttons: [
 			{

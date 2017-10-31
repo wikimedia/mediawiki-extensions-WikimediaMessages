@@ -11,7 +11,7 @@
 		url = 'https://www.mediawiki.org/wiki/Special:MyLanguage/Edit_Review_Improvements/New_filters_for_edit_review',
 		linkLabel = mw.message( 'eri-rcfilters-tour-invite-learnmore-link-label' ).text(),
 		inviteDesc = new gt.WikitextDescription(
-			descText + '<br />' + '[' + url + ' ' + linkLabel + ']'
+			descText + '<br />[' + url + ' ' + linkLabel + ']'
 		),
 		$attachTo = $( '#pt-betafeatures > a' );
 
@@ -26,6 +26,7 @@
 		autoFocus: true,
 		allowAutomaticOkay: false,
 		attachTo: $attachTo,
+		width: 290,
 		position: 'bottom',
 		onShow: function () {
 			var api = new mw.Api();

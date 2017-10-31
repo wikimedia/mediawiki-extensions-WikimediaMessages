@@ -1,9 +1,9 @@
 ( function ( mw, gt ) {
 	var tour = new gt.TourBuilder( {
-			name: 'RcFiltersBeta',
-			shouldLog: true,
-			isSinglePage: true
-		} );
+		name: 'RcFiltersBeta',
+		shouldLog: true,
+		isSinglePage: true
+	} );
 
 	tour.firstStep( {
 		name: 'Welcome',
@@ -13,6 +13,7 @@
 			'eri-rcfilters-tour-welcome-no-ores-description',
 		autoFocus: true,
 		allowAutomaticOkay: false,
+		width: 600,
 		buttons: [
 			{
 				namemsg: 'eri-rcfilters-tour-welcome-button',
