@@ -8,7 +8,8 @@
 			"Nemo bis",
 			"Srdjan m",
 			"Сербијана",
-			"Obsuser"
+			"Obsuser",
+			"Bugoslav"
 		]
 	},
 	"wikimediamessages-desc": "Poruke specifične za Vikimediju.",
@@ -143,6 +144,7 @@
 	"wikibase-otherprojects-wikiquote": "Vikicitat",
 	"wikibase-otherprojects-wikipedia": "Vikipedija",
 	"wikibase-otherprojects-wikisource": "Vikizvornik",
+	"wikibase-otherprojects-wiktionary": "Vikirečnik",
 	"wikibase-sitelinks-sitename-commonswiki": "Ostava",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikipodaci",
 	"cant-delete-main-page": "Ne možete obrisati ili premestiti glavnu stranu.",
