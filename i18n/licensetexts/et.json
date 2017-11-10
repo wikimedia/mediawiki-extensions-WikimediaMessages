@@ -76,7 +76,7 @@
 	"wm-license-licensing-update-text": "See litsentsimärgis lisati sellele failile GFDL-i [[{{int:wm-license-licensing-update-wiki-link}}|litsentsimisuuenduse]] raames.",
 	"wm-license-original-upload-log": "Esialgne üleslaadimislogi",
 	"wm-license-own-work": "Üleslaadija oma töö",
-	"wm-license-pd-author-self-text": "Selle teose autoriõiguste valdajana annan käesolevaga teose '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''. See kehtib üleilmselt.",
+	"wm-license-pd-author-self-text": "Selle teose autoriõiguste valdajana annan selle teose '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''. See kehtib üleilmselt.",
 	"wm-license-pd-author-with-author-text": "Autor '''$1''' on andnud selle teose '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''. See kehtib üleilmselt.",
 	"wm-license-pd-author-not-legally-possible": "Kui see pole mõnes riigis õiguslikult võimalik:",
 	"wm-license-pd-author-self-any-purpose": "Annan kõigile õiguse seda teost kasutada '''ükskõik mille jaoks''', ilma ühegi tingimuseta, kui seadus neid just ei sea.",
@@ -90,9 +90,9 @@
 	"wm-license-pd-usgov-military-navy-text": "See fail on [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Ameerika Ühendriikide mereväe]] teenistuja või mereväelase tehtud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see fail '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
 	"wm-license-pd-usgov-noaa-text": "See fail on [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Ameerika Ühendriikide Riikliku Ookeani- ja Atmosfäärivalitsuse]] teenistuja tehtud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see fail '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
 	"wm-license-pd-wiki-link": "w:et:avalik omand",
-	"wm-license-self-one-license": "Autoriõiguse omanikuna avaldan käesolevaga selle teose järgmise litsentsi all:",
-	"wm-license-self-one-license-with-author": "$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgmise litsentsi all:",
-	"wm-license-self-multiple-licenses": "Autoriõiguse omanikuna avaldan käesolevaga selle teose järgmiste litsentside all:",
-	"wm-license-self-multiple-licenses-with-author": "$1 autoriõiguse omanikuna avaldab käesolevaga selle teose järgmiste litsentside all:",
+	"wm-license-self-one-license": "Autoriõiguse omanikuna avaldan selle teose järgmise litsentsi all:",
+	"wm-license-self-one-license-with-author": "$1 autoriõiguse omanikuna avaldab selle teose järgmise litsentsi all:",
+	"wm-license-self-multiple-licenses": "Autoriõiguse omanikuna avaldan selle teose järgmiste litsentside all:",
+	"wm-license-self-multiple-licenses-with-author": "$1 autoriõiguse omanikuna avaldab selle teose järgmiste litsentside all:",
 	"wm-license-self-multiple-licenses-select": "Sa võid valida endale sobiva litsentsi."
 }

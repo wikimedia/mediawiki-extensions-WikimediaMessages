@@ -80,7 +80,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/mk",
 	"wm-license-original-upload-log": "Изворна евиденција за подигањето",
 	"wm-license-own-work": "сопствено дело",
-	"wm-license-pd-author-self-text": "Јас, имателот на авторските права на ова дело, го предавам истото во '''[[{{int:wm-license-pd-wiki-link}}|јавна сопственост]]'''. Ова важи за целиот свет.",
+	"wm-license-pd-author-self-text": "Јас, праводржецот на ова дело, го предавам истото во '''[[{{int:wm-license-pd-wiki-link}}|јавна сопственост]]'''. Ова важи за целиот свет.",
 	"wm-license-pd-author-with-author-text": "Ова дело е предадено во '''[[{{int:wm-license-pd-wiki-link}}|јавна сопственост]]''' од неговиот автор, '''$1'''. Ова важи за целиот свет.",
 	"wm-license-pd-author-not-legally-possible": "Во извесни земји ова не е правно изводливо. Во тој случај:",
 	"wm-license-pd-author-self-any-purpose": "Дозволувам секому да го користи делово '''за било каква цел''', без било какви услови, освен ако такви услови не ги налага законот.",

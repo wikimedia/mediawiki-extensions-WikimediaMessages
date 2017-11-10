@@ -18,7 +18,8 @@
 			"Nemo bis",
 			"Protnet",
 			"SucreRouge",
-			"GR"
+			"GR",
+			"KATRINE1992"
 		]
 	},
 	"wikimediamessages-desc": "Μηνύματα ειδικά για το Wikimedia",
@@ -37,6 +38,9 @@
 	"group-Image-reviewer": "Εξεταστές εικόνων",
 	"group-Image-reviewer-member": "{{GENDER:$1|επιθεωρητής|επιθεωρήτρια}} εικόνων",
 	"grouppage-Image-reviewer": "{{ns:project}}:Εξεταστές εικόνας",
+	"group-mp3-uploader": "Συστήματα ενημέρωσης ΜΡ3",
+	"group-mp3-uploader-member": "{{GENDER:$1|MP3 uploader}}",
+	"grouppage-mp3-uploader": "{{ns:project}}:MP3 συστήματα φόρτωσης",
 	"group-OTRS-member": "μέλος OTRS",
 	"group-OTRS-member-member": "{{GENDER:$1|μέλος OTRS}}",
 	"grouppage-OTRS-member": "{{ns:project}}: OTRS μέλη",

@@ -7,7 +7,7 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aita mul valida)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Kas sa ei näe pilti? [[{{MediaWiki:createacct-captcha-help-url}}|Taotle kontot]]",
 	"wikimedia-centralauth-uwbr-intro": "Sellel leheküljel on loetletud siin vikis registreeritud kasutajad, kelle nimi muudetakse seoses [[m:Single User Login finalisation announcement|ühendatud sisselogimise lõpliku kehtestamisega]]. Veel teavet [[m:Help:Unified login|ühtse sisselogimissüsteemi]] kohta. Nime muutmise soovi saavad kasutajad avaldada leheküljel [[Special:GlobalRenameRequest]].",
-	"createacct-helpusername-url": "{{ns:Project}}:Kasutajanime põhimõtted",
+	"createacct-helpusername-url": "{{ns:Project}}:Kasutajanimi",
 	"wikimedia-feedback-termsofuse": "Nõustun andma tagasisidet vastavalt <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">kasutustingimustele</a>.",
 	"wikimedia-flow-terms-of-use-new-topic": "Kui klõpsad \"{{int:flow-newtopic-save}}\", nõustud [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma teksti pöördumatu avaldamisega litsentside [//creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] all.",
 	"wikimedia-flow-terms-of-use-reply": "Kui klõpsad \"{{int:flow-reply-link}}\", nõustud [//wikimediafoundation.org/wiki/Terms_of_Use kasutustingimustega] ja oma teksti pöördumatu avaldamisega litsentside [//creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] all.",

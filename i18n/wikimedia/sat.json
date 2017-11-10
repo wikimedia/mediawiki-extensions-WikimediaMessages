@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Albinus"
+			"Albinus",
+			"Ramjit Tudu"
 		]
 	},
 	"sitesupport": "Goṛo emalepe",
@@ -12,5 +13,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Lahantiyić"
+	"wikimedia-developers": "Lahantiyić",
+	"wikimedia-globalblocking-ipblocked": "'''ᱟᱢᱟᱜ IP ᱵᱩᱴᱟᱹ ᱫᱚ [[m:Special:MyLanguage/Global blocks|ᱡᱚᱛᱚ ᱣᱤᱠᱤᱨᱮ ᱮᱥᱮᱫ ᱟᱠᱟᱱᱟ]] '''\n\nᱮᱥᱮᱫ ᱫᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ $1 ($2) ᱫᱟᱨᱟᱭᱛᱮ ᱾\nᱚᱱᱟ ᱨᱮᱱᱟᱜ ᱳᱡᱷᱚ ᱫᱚ ''$3'' \n\n*ᱮᱥᱮᱫ ᱮᱦᱚᱵ ᱟᱠᱟᱱᱟ : $4\n*ᱮᱥᱮᱫ ᱢᱩᱪᱟᱹᱫᱚᱜ-ᱟ : $5\n\nᱟᱢᱟᱜ IP ᱵᱩᱴᱟᱹ ᱫᱚ $6\nᱪᱮᱛᱟᱱ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱯᱩᱥᱴᱟᱹᱣᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ ᱡᱟᱦᱟᱸᱱ ᱠᱩᱠᱞᱤᱢ ᱫᱚᱦᱚᱭ ᱠᱷᱟᱱ ᱾\n\nᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱮᱱᱟᱜ-ᱟ ᱵᱮᱵᱷᱩᱞ ᱛᱮ ᱠᱚ ᱮᱥᱮᱫ ᱟᱠᱟᱫᱢᱮᱭᱟ, ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭᱡᱚᱝ ᱠᱟᱛᱷᱟ  ᱟᱨ ᱫᱤᱥᱟᱹᱫᱩᱜ ᱠᱚ [[m:Special:MyLanguage/No open proxies|ᱵᱟᱝ ᱨᱟᱲᱟ ᱯᱨᱚᱠᱥᱤ]] ᱡᱮᱜᱮᱛ ᱡᱟᱠᱟᱛ ᱟᱹᱨᱤ ᱠᱷᱚᱱᱮᱢ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ ᱾\n\nᱟᱨᱵᱟᱝᱠᱷᱟᱱ, ᱮᱥᱮᱫ ᱵᱟᱵᱚᱫᱽ ᱜᱟᱞᱢᱟᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ [[m:Steward requests/Global|ᱢᱮᱴᱟ-ᱣᱤᱠᱤ ᱨᱮ ᱧᱮᱞ ᱫᱚᱦᱲᱟ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱸᱨ ᱮᱢ ᱢᱮ]]",
+	"wikimedia-globalblocking-ipblocked-xff": "'''ᱢᱤᱫ ᱟᱨᱵᱟᱝ ᱵᱟᱹᱲᱛᱤ ᱯᱨᱚᱠᱥᱤ ᱥᱚᱨᱵᱷᱚᱨ ᱟᱢᱟᱜ ᱱᱮᱦᱚᱸᱨ ᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟᱜ ᱫᱚ [[m:Special:MyLanguage/Global blocks|ᱜᱚᱴᱟᱨᱮ ᱮᱥᱮᱫ ᱟᱠᱟᱱᱟ]] '''\n\nᱮᱥᱮᱫ ᱫᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ $1 ($2) ᱫᱟᱨᱟᱭᱛᱮ ᱾\nᱚᱱᱟ ᱨᱮᱱᱟᱜ ᱳᱡᱷᱚ ᱫᱚ ''$3'' \n\n*ᱮᱥᱮᱫ ᱮᱦᱚᱵ ᱟᱠᱟᱱᱟ : $4\n*ᱮᱥᱮᱫ ᱢᱩᱪᱟᱹᱫᱚᱜ-ᱟ : $5\n\nᱮᱥᱮᱫ ᱟᱠᱟᱱ ᱯᱨᱚᱠᱥᱤ ᱵᱩᱴᱟᱹ ᱫᱚ $6\nᱪᱮᱛᱟᱱ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱯᱩᱥᱴᱟᱹᱣᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ ᱡᱟᱦᱟᱸᱱ ᱠᱩᱠᱞᱤᱢ ᱫᱚᱦᱚᱭ ᱠᱷᱟᱱ ᱾\n\nᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱮᱱᱟᱜ-ᱟ ᱵᱮᱵᱷᱩᱞ ᱛᱮ ᱠᱚ ᱮᱥᱮᱫ ᱟᱠᱟᱫᱢᱮᱭᱟ, ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭᱡᱚᱝ ᱠᱟᱛᱷᱟ  ᱟᱨ ᱫᱤᱥᱟᱹᱫᱩᱜ ᱠᱚ [[m:Special:MyLanguage/No open proxies|ᱵᱟᱝ ᱨᱟᱲᱟ ᱯᱨᱚᱠᱥᱤ]] ᱡᱮᱜᱮᱛ ᱡᱟᱠᱟᱛ ᱟᱹᱨᱤ ᱠᱷᱚᱱᱮᱢ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ ᱾\n\nᱟᱨᱵᱟᱝᱠᱷᱟᱱ, ᱮᱥᱮᱫ ᱵᱟᱵᱚᱫᱽ ᱜᱟᱞᱢᱟᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ [[m:Steward requests/Global|ᱢᱮᱴᱟ-ᱣᱤᱠᱤ ᱨᱮ ᱧᱮᱞ ᱫᱚᱦᱲᱟ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱸᱨ ᱮᱢ ᱢᱮ]]"
 }
