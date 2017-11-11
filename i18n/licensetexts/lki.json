@@ -55,7 +55,7 @@
 	"wm-license-information-description": "توضیح دائن",
 	"wm-license-information-description-missing": "این تصویر اطلاعاتی راجع به '''{{ #if: {{{1|}}} | {{{1}}} | توضیحات }}''' ندارد، و ممکن است فاقد اطلاعت دیگر باشد.",
 	"wm-license-information-description-missing-request": "لطفاً توضیحات مرتبطی پیرامون این تصویر ارائه دهید.",
-	"wm-license-information-source": "بِنچۀک/مۀنبۀع",
+	"wm-license-information-source": "بنچەک(منبع)",
 	"wm-license-information-source-missing": "این پرونده فاقد اطلاعاتی در مورد '''منبع''' آن است.",
 	"wm-license-information-source-missing-request": "لطفاً قسمت توضیحات پرونده را برای افزودن منبع ویرایش کنید.",
 	"wm-license-information-date": "تاریخ",

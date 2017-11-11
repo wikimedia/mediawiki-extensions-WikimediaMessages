@@ -6,10 +6,11 @@
 			"StevenJ81"
 		]
 	},
-	"sitesupport": "Donaciones",
+	"sitesupport": "Donos",
 	"tooltip-n-sitesupport": "Dadmos apoyo",
 	"group-flood": "Mabúl",
 	"group-flood-member": "{{GENDER:$1|pseudobot}}",
 	"grouppage-flood": "{{ns:project}}:Permeso de mabúl (flooder)",
+	"wikimedia-copyright": "El teksto está disponivle debaxo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lecencia de Creative Commons Attribution-ShareAlike</a>; pueden aver otras kondisyones. Para mas detalyos, mira las<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Kondisyones d'Usaje</a>.",
 	"wikimedia-developers": "Desvelopadores"
 }
