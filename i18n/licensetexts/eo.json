@@ -12,7 +12,8 @@
 			"Yekrats",
 			"Ziko",
 			"Robin van der Vliet",
-			"KuboF"
+			"KuboF",
+			"Renardo"
 		]
 	},
 	"wm-license-attribution-with-author-text": "La posedanto de la aŭtorrajto por ĉi tiu dosiero, $1, permesas al iu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
@@ -83,7 +84,7 @@
 	"wm-license-licensing-update-text": "Ĉi tiu permesila etikedo estis aldonita al la dosiero kiel parto de la [[{{int:wm-license-licensing-update-wiki-link}}|permesila aktualigo]] por GFDL.",
 	"wm-license-original-upload-log": "Originala alŝutada protokolo",
 	"wm-license-own-work": "Propra verko",
-	"wm-license-pd-author-self-text": "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, liberigas tiun tutmonde kiel '''[[{{int:wm-license-pd-wiki-link}}|publikan havaĵon]]'''.",
+	"wm-license-pd-author-self-text": "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, liberigas ĝin tutmonde kiel '''[[{{int:wm-license-pd-wiki-link}}|publikan havaĵon]]'''.",
 	"wm-license-pd-author-with-author-text": "Ĉi tiu verko estis liberigita kiel '''[[{{int:wm-license-pd-wiki-link}}|publika havaĵo]]''' de ties aŭtoro, '''$1'''. Tio aplikatas tutmonde.",
 	"wm-license-pd-author-not-legally-possible": "En iuj landoj tio povas esti laŭleĝe neebla; en tiu okazo:",
 	"wm-license-pd-author-self-any-purpose": "Mi rajtigas ĉiun ajn uzi ĉi tiun verkon por ajna celo, sen iuj ajn kondiĉoj, krom se tiuj kondiĉoj estas postulataj per leĝo.",
