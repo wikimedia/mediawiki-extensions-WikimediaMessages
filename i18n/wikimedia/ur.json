@@ -8,7 +8,8 @@
 			"عرفان ارشد",
 			"Muhammad Shuaib",
 			"Hindustanilanguage",
-			"Irus"
+			"Irus",
+			"Zainab Meher"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
@@ -32,6 +33,9 @@
 	"group-Image-reviewer": "ملف مبصر",
 	"group-Image-reviewer-member": "{{GENDER:$1|ملف مبصر}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:ملف مبصر",
+	"group-mp3-uploader": "MP3 اپلوڈکرنے والے",
+	"group-mp3-uploader-member": "{{GENDER:$1|زبر اثقال کنندگان}}",
+	"grouppage-mp3-uploader": "{{ns:project}}:زبر اثقال کنندگان",
 	"group-OTRS-member": "دیگر صارفین",
 	"group-OTRS-member-member": "{{GENDER:$1|دیگر صارفین}}",
 	"grouppage-OTRS-member": "{{ns:project}}:دیگر صارفین",
