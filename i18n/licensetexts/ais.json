@@ -6,6 +6,8 @@
 			"Tokoabibi"
 		]
 	},
+	"wm-license-attribution-with-author-text": "tina tangan a nizaay nisanga’an tu tungus a kawaw sazakecenay, $1, i '''nacudadan''' sazakecenay a ngangan a pacekil, mahasa  amahicahica tademaw pisaungay tina tangan i '''amahicahica sadama tu kawaw'''. yamalyilu payakayak aca, lozoitasakohing, kikingkay atu zuma sadama tu kawaw.",
+	"wm-license-attribution-without-author-text": "tina tangan a nizaay nisanga’an tu tungus a kawaw sazakecenay, i '''nacudadan''' sazakecenay a ngangan a pacekil, mahasa  amahicahica tademaw pisaungay tina tangan i '''amahicahica sadama tu kawaw'''. yamalyilu payakayak aca, lozoitasakohing, kikingkay atu zuma sadama tu kawaw",
 	"wm-license-artwork-artist": "misacudaday",
 	"wm-license-artwork-title": "satangahan",
 	"wm-license-artwork-medium": "ilaeday",
@@ -32,6 +34,7 @@
 	"wm-license-book-translator": "mibelihay",
 	"wm-license-book-volume": "tabu",
 	"wm-license-book-year-of-publication": "insac a mihca",
+	"wm-license-cecill-text": "tina nalimaan sa ku [[{{int:wm-license-free-software-wiki-link}}|paybalucu’ay a zwanti]], kapah kisu mikilul [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] sapabeli tu kinli a cedang payakayak saca misumad tina nalimaan. CeCILL sapabeli tu kinli a cedang kapah i [{{int:wm-license-cecill-full-link}} www.cecill.info] matepa.",
 	"wm-license-creator-alternative-names": "pacimilay a ngangan",
 	"wm-license-creator-description": "sapuelac",
 	"wm-license-creator-date-of-birth": "nalecuhan a demiad",
@@ -63,8 +66,11 @@
 	"wm-license-information-permission-see-below": "azihen isasaay.",
 	"wm-license-information-other-versions": "zuma a baziyong",
 	"wm-license-lgpl-text": "tina hanse-sulu sa ku [[{{int:wm-license-free-software-wiki-link}}|paybalucu’ zwanti]]；kapah kisu sausi [[{{int:wm-license-fsf-wiki-link}}| paybalucu’  zwanti kikingkay ]] sapatahkalay a '''[[{{int:wm-license-lgpl-wiki-link}}|GNU sasutili’ay labangbang hani kapulungan sapabeli tu kinli a cedang ]]''' a cedang payakayak atu / saca  misumad，namahicahica kisu misausiay a tina sapabeli tu kinli a cedang a 2.1 baziyong saca (kapah kisu nay kisu mipili’ ) izikuzay amahicahica baziyong. tina nalimaan patiyak a patusukan maydih kapah nipabeli miedap，uyzasa''' caay mitelung amahicahica sikinin mihusiw '''; zumasatu caay milimek sakay ''' matatungus-pacakayay ''' saca ''' uzumaay sasahicaan a matatungusay''' zasatu sikinin. piazih tu tatenga’ay  GNU sasutili’ay labangbang hina kapulungan sapabeli tu kinli a cedang a [{{int:wm-license-lgpl-2.1-full-link}} saka 2.1 baziyong] atu [{{int:wm-license-lgpl-3-full-link}} saka 3 baziyong]",
+	"wm-license-licensing-update-text": "macunus sapabeli tu kinli a cedang satangahan tayza uyniyan a tangan, saky GFDL [[{{int:wm-license-licensing-update-wiki-link}}|pabeli tu kinli misabaluh ]] a liyad.",
 	"wm-license-original-upload-log": "saayaway patatengil nu nasulitan nazipa’ann",
 	"wm-license-own-work": "numakuway a nalimaan",
+	"wm-license-pd-author-self-text": "aku, tina nalimaan a nizaay nisanga’an tu tungus a kawaw sazekecenay, pahulak nalimaan i '''[[{{int:wm-license-pd-wiki-link}}|kapulungan a subal]]'''. tina sapabeli tu kinli a cedang i tahab nu kitakit matatungus amin.",
+	"wm-license-pd-author-with-author-text": "tina nalimaan nay masacudaday, $1, pahulak i '''[[{{int:wm-license-pd-wiki-link}}|pabinawlan a subal]]'''. tina sapabeli tu kinli a cedang i tahab nu kitakit matatungus amin.",
 	"wm-license-pd-author-not-legally-possible": "uyniayay hakay caay katanengay tu likec, anu mahiza sa:",
 	"wm-license-pd-author-self-any-purpose": "pabeli kaku tu cimacimaan a tademaw tu kinli misaungay tina a nalimaan i '''amahicahica tu sadama tu kawaw''', u nu hulic pikelec, caay kakelec nu canacanan.",
 	"wm-license-pd-author-with-author-any-purpose": "$1 pabeli i cimacimaan a tademaw tu kinli misaungay tina nalimaan i '''cuwacuwa a sadama tu kawaw''', hulic dada’ ku mikelecay, caay kakelec nu canacanan.",
