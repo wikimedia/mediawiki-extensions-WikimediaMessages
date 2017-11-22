@@ -9,7 +9,8 @@
 			"Muhammad Shuaib",
 			"Hindustanilanguage",
 			"Irus",
-			"Zainab Meher"
+			"Zainab Meher",
+			"BukhariSaeed"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا معیّن پیغامات",
@@ -139,9 +140,10 @@
 	"group-wmf-researcher": "WMF محققین",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF محققین}}",
 	"group-wmf-supportsafety": "ڈبلیو ایم ایف حمایت اور حفاظت",
-	"search-interwiki-custom": "wikt:ویکشنری سے\nb:ویکی کتب سے\nn:ویکی خبریں سے\nq:وکی اقتباسات سے\ns:ویکی سورس سے\nv:ویکی جامعہ سے\nvoy:ویکی سفر نامہ سے",
+	"search-interwiki-custom": "wikt:وکی لغت سے\nb:وکی کتب سے\nn:ویکی خبریں سے\nq:وکی اقتباسات سے\ns:ویکی ماخذ سے\nv:ویکی جامعہ سے\nvoy:ویکی سفر سے",
 	"wikimedia-copyright": "تمام متن <a href=\"//ur.wikipedia.org/wiki/کریئیٹیو_کامنز_اجازت_نامہ\">کریئیٹیو کامنز انتساب / یکساں-شراکت اجازت نامہ</a> کے تحت دستیاب ہے، اضافی شرائط بھی عائد ہوسکتی ہیں۔ تفصیل کے لیے <a href=\"//wikimediafoundation.org/wiki/Terms_of_Use\">استعمال کی شرائط</a> ملاحظہ فرمائیں۔ ویکیپیڈیا® ایک غیر منفعت بخش تنظیم <a href=\"//www.wikimediafoundation.org/\">ویکیمیڈیا فاؤنڈیشن انکارپوریشن</a> کا <a href=\"//http://ur.wikipedia.org/wiki/TRADEMARK\">نشان تجارت</a> ہے۔",
 	"wikimedia-copyrightwarning": "تبدیلیاں محفوظ کرتے کرتے ہی آپ کو [https://wikimediafoundation.org/wiki/Terms_of_Use استعمال کی جملہ شرائط] اور اس بات سے متفق تصور کیا جائے گا کہ آپ اپنی اس شراکت کو کریئیٹیو کامنز انتساب-یکساں شراکت اجازت نامہ (CC BY-SA 3.0) اور جی این یو آزاد مسوداتی اجازت نامہ (GFDL) کے تحت شائع کر رہے ہیں۔\nواضح رہے کہ آپ کی درج کردہ اس تحریر میں دیگر صارفین بھی کسی ہائپر لنک یا یو آر ایل (URL) کے ذریعہ ترمیم کر سکتے ہیں۔",
+	"wikibase-statementsection-identifiers": "شناخت کنندگان",
 	"wikibase-sitelinks-wikibooks": "ویکی کتب",
 	"wikibase-sitelinks-wikinews": "ویکی خبریں",
 	"wikibase-sitelinks-wikiquote": "ویکی اقتباسات",
@@ -156,7 +158,7 @@
 	"wikibase-otherprojects-wikibooks": "ویکی کتب",
 	"wikibase-otherprojects-wikidata": "ویکی ڈیٹا",
 	"wikibase-otherprojects-wikinews": "ویکی‌ اخبار",
-	"wikibase-otherprojects-wikiquote": "ویکی اقتباسات",
+	"wikibase-otherprojects-wikiquote": "وکی اقتباسات",
 	"wikibase-otherprojects-wikipedia": "ویکیپیڈیا",
 	"wikibase-otherprojects-wikisource": "ویکی ماخذ",
 	"wikibase-otherprojects-wikiversity": "ویکی جامعہ",
