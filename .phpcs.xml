@@ -6,7 +6,7 @@
 	</rule>
 	<rule ref="MediaWiki.NamingConventions.ValidGlobalName">
 		<properties>
-			<property name="ignoreList" type="array" value="$wmfRealm" />
+			<property name="ignoreList" type="array" value="$wmgRealm" />
 		</properties>
 	</rule>
 	<file>.</file>

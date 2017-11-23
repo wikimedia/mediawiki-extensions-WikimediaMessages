@@ -20,7 +20,7 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	public static function onMessageCacheGet( &$lcKey ) {
-		global $wgLanguageCode, $wmfRealm;
+		global $wgLanguageCode, $wmgRealm;
 
 		static $keys = [
 			'acct_creation_throttle_hit',
@@ -46,7 +46,7 @@ class WikimediaMessagesHooks {
 			'ipb-confirmhideuser', // T121639
 		];
 
-		if ( $wmfRealm === 'labs' && $lcKey === 'privacypage' ) {
+		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
 			$lcKey = 'wikimedia-privacypage-labs';
 		} else {
 			if ( in_array( $lcKey, $keys, true ) ) {
