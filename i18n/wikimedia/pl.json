@@ -25,7 +25,8 @@
 			"Openbk",
 			"Devwebtel",
 			"The Polish",
-			"Sebek Adamowicz"
+			"Sebek Adamowicz",
+			"Jdx"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -53,7 +54,7 @@
 	"group-Image-reviewer-member": "{{GENDER:$1|redaktor|redaktorka}} grafik",
 	"grouppage-Image-reviewer": "{{ns:project}}:Redaktorzy grafik",
 	"group-mp3-uploader": "Przesyłający pliki MP3",
-	"group-mp3-uploader-member": "{{GENDER:$1|Przesyłający pliki MP3|Przesyłająca pliki MP3}}",
+	"group-mp3-uploader-member": "{{GENDER:$1|przesyłający pliki MP3|przesyłająca pliki MP3}}",
 	"grouppage-mp3-uploader": "{{ns:project}}:Przesyłający pliki MP3",
 	"group-OTRS-member": "Operatorzy OTRS",
 	"group-OTRS-member-member": "{{GENDER:$1|operator|operatorka}} OTRS",
