@@ -4,5 +4,6 @@
 			"McDutchie"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(adjuta me a eliger)]]"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(adjuta me a eliger)]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Politica_de_nomines_de_usator"
 }

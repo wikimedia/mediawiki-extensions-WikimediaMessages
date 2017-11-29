@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"HenrikKbh"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]"
+	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Brugernavnsregler"
 }

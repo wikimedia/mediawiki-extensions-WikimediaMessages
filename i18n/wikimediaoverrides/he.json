@@ -2,9 +2,27 @@
 	"@metadata": {
 		"authors": [
 			"Guycn2",
-			"Nemo bis"
+			"Nemo bis",
+			"Amire80",
+			"Rotemliss"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]",
-	"wikimedia-createacct-imgcaptcha-help": "לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]"
+	"wikimedia-createacct-imgcaptcha-help": "לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]",
+	"wikimedia-centralauth-uwbr-intro": "הדף הזה מכיל רשימת משתמשים שרשומים לוויקי הזה וששם המשתמש שלהם ישונה בשל [[m:Single User Login finalisation announcement|השלמת מיזוג החשבונות]]. מידע נוסף זמין ב[[m:Help:Unified login|דף בנושא החשבון המאוחד]]. משתמשים יכולים שינויישנוי שם בכל זמן באמצעות הדף  [[Special:GlobalRenameRequest]].",
+	"wikimedia-centralauth-uwbr-registration-nodate": "לפני 2006",
+	"createacct-helpusername-url": "{{ns:help}}:בחירת שם משתמש",
+	"wikimedia-delete-toobig": "לדף זה יש היסטוריית עריכות גדולה, והוא מכיל מעל ל{{PLURAL:$1|גרסה אחת|־$1 גרסאות}}.\nמחיקה של דפים המכילים המון גרסאות מוגבלת כדי למנוע בעיות בתפקוד של {{SITENAME}}.\nנא ליצור קשר עם ה[[m:Special:MyLanguage/Stewards|דיילים]] בדף [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] שבמטא־ויקי כדי לבקש את המחיקה של הדף הזה.",
+	"wikimedia-feedback-termsofuse": "אני מסכים לספק משוב בהתאם ל<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" target=\"_blank\">תנאי השימוש</a>.",
+	"wikimedia-flow-terms-of-use-new-topic": "לחיצה על \"הוספת נושא\" מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו ואת הסכמתך הבלתי־חוזרת לפרסם את הטקסט שלך לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-reply": "שליחת תשובה מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו ואת הסכמתך הבלתי־חוזרת לפרסם את הטקסט שלך לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "שמירת השינויים מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו ואת הסכמתך הבלתי־חוזרת לפרסם את הטקסט שלך לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-summarize": "לחיצה על \"{{int:flow-topic-action-update-topic-summary}}\" מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו וכן את הסכמתך הבלתי־חוזרת לפרסם את כל הטקסט לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-lock-topic": "לחיצה על \"{{int:flow-topic-action-lock-topic}}\" מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו וכן את הסכמתך הבלתי־חוזרת לפרסם את כל הטקסט לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-unlock-topic": "לחיצה על \"{{int:flow-topic-action-unlock-topic}}\" מהווה את הסכמתך ל[//wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] שלנו וכן את הסכמתך הבלתי־חוזרת לפרסם את כל הטקסט לפי תנאי [//creativecommons.org/licenses/by-sa/3.0 רישיון CC BY-SA 3.0] ו־[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-globalrenamequeue-email-body-approved": "הבקשה לשנות את השם \"{{GENDER:$1|$1}}\" לשם \"{{GENDER:$1|$2}}\" אושרה. כשהיא תושלם, תהיה לך אפשרות להיכנס באמצעות השם החדש שלך והססמה הישנה שלך. תודה על השתתפותך במיזמי ויקימדיה.",
+	"wikimedia-globalrenamequeue-email-body-rejected": "לא היה אפשר להשלים את הבקשה לשנות את השם \"{{GENDER:$1|$1}}\" לשם \"{{GENDER:$1|$2}}\".\n\nהערה: $3\n\nלמידע נוסף לא לקרוא את הדף <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. כדי לדון בבקשת שינוי השם שלך, אפשר לשלוח שאלה לדף הזה: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. חובה להיכנס לחשבון כדי לעשות את זה.",
+	"wikimedia-mwoauthserver-invalid-user": "אירעה בעיה עם כניסה גלובלית. אם יצרת את החשבון זה עתה, נא לצאת ולהיכנס חזרה, ואז לנסות שוב לאשר את היישום. אם לא יצרת את החשבון זה עתה נא לבקר באתר [https://meta.wikimedia.org/ meta.wikimedia.org] ואז לנסות שוב לאשר את היישום. (קוד שגיאה: E008)",
+	"wikimedia-sulrenamewarning-usenew": "מעכשיו עליך להיכנס באמצעות שם המשתמש החדש שלך <strong>$1</strong>. שם המשתמש החדש שלך ייחודי בכל מיזמי ויקימדיה, וכניסה למיזם תכניס אותך גם לכל מיזם אחר. ב[[:m:Special:MyLanguage/Help:Unified_login|דף העזרה על כניסה מאוחדת]] יש מידע נוסף על כניסה בחשבון יחיד וגם שאלות נפוצות בנושא. אם רצית לשנות כתובת דוא\"ל או ססמה ב[[Special:Preferences|העדפות]], עכשיו זה זמן טוב לעשות את זה.\n\nכדי לבקש שם משתמש אחר, נא לבקר בדף [[Special:GlobalRenameRequest]]. תודה על השתתפותך במיזמי ויקימדיה.",
+	"wikimedia-ipb-confirmhideuser": "אתם עומדים לחסום משתמש עם האפשרות \"הסתרת משתמש\". זה יעלים את שם המשתמש בכל הרשימות ופעולות היומן באתר הוויקי הזה. האם אתם בטוחים שברצונכם לעשות זאת?\n\nאם צריך להסתיר את השם בכל אתרי הוויקי של ויקימדיה, אנא צרו קשר עם [[m:Special:MyLanguage/Stewards|דיילים]] בכתובת stewards@wikimedia.org."
 }

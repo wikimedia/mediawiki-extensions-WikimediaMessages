@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Mirzali"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(qande weçinayışi mıre desteg bıd)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]"
+	"wikimedia-createacct-imgcaptcha-help": "Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Politikaya_nameyê_karberan"
 }

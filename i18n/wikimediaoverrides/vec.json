@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Candalua"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(jùtame a sièliere)]]",
-	"wikimedia-createacct-imgcaptcha-help": "No sito mia bon de védar l'imagine? [[{{MediaWiki:createacct-captcha-help-url}}|Dimanda na utensa]]"
+	"wikimedia-createacct-imgcaptcha-help": "No sito mia bon de védar l'imagine? [[{{MediaWiki:createacct-captcha-help-url}}|Dimanda na utensa]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Politica_nome_utente"
 }

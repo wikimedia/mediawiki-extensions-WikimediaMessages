@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Nemo bis",
-			"Alluk."
+			"Alluk.",
+			"Stryn"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]"
+	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
+	"wikimedia-sulrenamewarning-usenew": "Tästä hetkestä lähtien sinun tulee kirjautua sisään käyttäen uutta käyttäjänimeäsi <strong>$1</strong>. Uusi käyttäjänimesi on uniikki kaikissa Wikimedia-projekteissa, ja jos olet olet kirjautuneena yhdessä projektissa ja vierailet toisessa, tunnuksesi seuraa perässä. [[:m:Special:MyLanguage/Help:Unified_login|Yhdistetyn kirjautumisen tietosivulla]] on enemmän tietoa yhdistetystä kirjautumisesta, kuten myös lista useimmin kysytyistä kysymyksistä. Jos sinun täytyy päivittää sähköpostiosoitteesi tai salasanasi [[Special:Preferences|asetuksissasi]], nyt on hyvä aika tehdä niin.\n\nVoit pyytää tunnuksesi nimeämistä toiselle nimelle sivun [[Special:GlobalRenameRequest]] kautta. Kiitos osallistumisestasi Wikimedia-projekteihin."
 }

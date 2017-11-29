@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Lloffiwr"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(cymorth wrth ddewis enw)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]"
+	"wikimedia-createacct-imgcaptcha-help": "Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwi_cyfrifon"
 }

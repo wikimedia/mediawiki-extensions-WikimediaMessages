@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nemo bis",
+			"ශ්වෙත"
+		]
+	},
+	"createacct-helpusername-url": "{{ns:Project}}:පරිශීලක නම_ප්‍රතිපත්තිය",
+	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.",
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ."
+}

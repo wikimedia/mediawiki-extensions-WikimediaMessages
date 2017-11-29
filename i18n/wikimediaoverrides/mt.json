@@ -1,5 +1,17 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Chrisportelli",
+			"Leli Forte"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(għini nagħżel)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ma tistax tara l-istampa? [[{{MediaWiki:createacct-captcha-help-url}}|Itlob kont]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ma tistax tara l-istampa? [[{{MediaWiki:createacct-captcha-help-url}}|Itlob kont]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Isem tal-utent",
+	"wikimedia-flow-terms-of-use-new-topic": "Meta tikklikkja \"{{int:flow-newtopic-save}}\", tkun qed taċċetta l-[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/mt Kundizzjonijiet tal-Użu] tagħna u taqbel irrevokabbilment li tħalli t-test tiegħek jintuża skont il-liċenzji [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License]  u [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-reply": "Meta tikklikkja \"{{int:flow-reply-link}}\", tkun qed taċċetta l-[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/mt Kundizzjonijiet tal-Użu] tagħna u taqbel irrevokabbilment li tħalli t-test tiegħek jintuża skont il-liċenzji [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] u [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "Meta tissejvja l-bidliet, tkun qed taċċetta l-[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/mt Kundizzjonijiet tal-Użu] tagħna u taqbel irrevokabbilment li tħalli t-test tiegħek jintuża skont il-liċenzji [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License]  u [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-summarize": "Meta tikklikkja \"{{int:flow-topic-action-update-topic-summary}}\" tkun qed taċċetta l-[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/mt Kundizzjonijiet tal-Użu] tagħna u taqbel irrevokabbilment li tħalli t-test tiegħek jintuża skont il-liċenzji [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] u [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-lock-topic": "Meta tikklikkja \"{{int:flow-topic-action-lock-topic}}\", tkun qed taċċetta l-[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/mt Kundizzjonijiet tal-Użu] tagħna u taqbel irrevokabbilment li tħalli t-test tiegħek jintuża skont il-liċenzji [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License]  u [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-unlock-topic": "Meta tikklikkja \"{{int:flow-topic-action-unlock-topic}}\", tkun qed taċċetta l-[//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/mt Kundizzjonijiet tal-Użu] tagħna u taqbel irrevokabbilment li tħalli t-test tiegħek jintuża skont il-liċenzji [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License]  u [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
 }

@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"wikimedia-createacct-imgcaptcha-help": "Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]"
+	"@metadata": {
+		"authors": [
+			"EileenSanda"
+		]
+	},
+	"wikimedia-createacct-imgcaptcha-help": "Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Username_policy"
 }

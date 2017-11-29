@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Hayri özkurt",
+			"Incelemeelemani"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]"
+	"wikimedia-createacct-imgcaptcha-help": "Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]",
+	"wikimedia-centralauth-uwbr-intro": "Bu sayfada, bu vikideki yeniden adlandırılacak [[m:Single User Login finalisation announcement|tek kullanıcı girişi sonuçlanmış]] kullanıcılar listelenmektedir. [[m:Help:Unified login|Birleştirilmiş giriş]] hakkında daha fazla bilgi edinebilirsiniz. Kullanıcılar diledikleri bir zamanda [[Special:GlobalRenameRequest|buradan]] yeni bir küresel kullanıcı adı değişikliği talebinde bulunabilirler.",
+	"wikimedia-feedback-termsofuse": "adın ne"
 }

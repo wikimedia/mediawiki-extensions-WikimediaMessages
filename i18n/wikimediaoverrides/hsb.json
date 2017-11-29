@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomoc za wuběranje)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Njemóžeš wobraz widźeć? [[{{MediaWiki:createacct-captcha-help-url}}|Konto požadać]]"
+	"wikimedia-createacct-imgcaptcha-help": "Njemóžeš wobraz widźeć? [[{{MediaWiki:createacct-captcha-help-url}}|Konto požadać]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Prawidła_za_wužiwarske_mjena"
 }

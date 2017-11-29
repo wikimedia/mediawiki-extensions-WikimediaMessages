@@ -1,4 +1,9 @@
 {
-	"@metadata": [],
-	"wikimedia-createacct-imgcaptcha-help": "Kan nie die beeld sien nie? [[{{MediaWiki:createacct-captcha-help-url}}|Vra dan 'n gebruiker aan]]"
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"wikimedia-createacct-imgcaptcha-help": "Kan nie die beeld sien nie? [[{{MediaWiki:createacct-captcha-help-url}}|Vra dan 'n gebruiker aan]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Gebruikersnaambeleid"
 }

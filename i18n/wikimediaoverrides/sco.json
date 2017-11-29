@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"John Reid"
+		]
+	},
+	"wikimedia-flow-terms-of-use-new-topic": "Bi clapin oan \"{{int:flow-newtopic-save}}\", ye'r agreein til oor [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms o Uise] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] n [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-reply": "Bi clapin oan \"{{int:flow-reply-link}}\", ye'r agreein til oor [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Terms o Uiss] n agree tae onrevocablie release yer tex unner the [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] n [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
+}

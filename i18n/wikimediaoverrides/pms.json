@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Borichèt"
+			"Borichèt",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(giuteme a serne)]]",
-	"wikimedia-createacct-imgcaptcha-help": "A peul nen vëdde la plancia? [[{{MediaWiki:createacct-captcha-help-url}}|Ch'a ciama la creassion d'un cont]]"
+	"wikimedia-createacct-imgcaptcha-help": "A peul nen vëdde la plancia? [[{{MediaWiki:createacct-captcha-help-url}}|Ch'a ciama la creassion d'un cont]]",
+	"wikimedia-flow-terms-of-use-new-topic": "An sgnacand su «{{int:flow-newtopic-save}}», a l'é d'acòrd con nòstre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condission d'utilisassion] e a l'é d'acòrd a smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0 licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-reply": "An sgnacand su «{{int:flow-reply-link}}», chiel a l'é d'acòrd con nòstre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condission d'utilisassion] e a l'é d'acòrd dë smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0 licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "An argistrand soe modìfiche, chiel a aceta nòstre [//wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use condission d'utilisassion] e a l'é d'acòrd dë smon-e ëd fasson irevocàbil sò test sota la [//creativecommons.org/licenses/by-sa/3.0/ licensa CC BY-SA 3.0] e la [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]."
 }

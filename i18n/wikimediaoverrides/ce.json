@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Умар"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]"
+	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Деха декъашхочун дӀаяздар]]",
+	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀерш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш ю муьлхачу хенахь шайн цӀерш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а."
 }
