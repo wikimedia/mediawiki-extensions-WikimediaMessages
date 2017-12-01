@@ -5,16 +5,20 @@
 			"Excaliboor",
 			"Multichill",
 			"Roberta F.",
-			"SpeedyGonsales"
+			"SpeedyGonsales",
+			"MaGa"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Nositelj autorskog prava na ovoj datoteci, $1, dopušta svakome rabiti je '''za svaku svrhu, pod uvjetom da''' je nositelj autorskog prava propisno imenovan. Raspačavanje, izvedena djela, komercijalna uporaba, i svaka druga uporaba dozvoljeni su.",
 	"wm-license-attribution-without-author-text": "Nositelj autorskog prava na ovoj datoteci dopušta svakome rabiti je '''za svaku svrhu, pod uvjetom da''' je nositelj autorskog prava propisno imenovan. Raspačavanje, izvedena djela, komercijalna uporaba, i svaka druga uporaba dozvoljeni su.",
 	"wm-license-artwork-artist": "Umjetnik/Stvaralac",
+	"wm-license-artwork-title": "Naziv",
+	"wm-license-artwork-medium": "Medij",
 	"wm-license-artwork-dimensions": "Dimenzije",
 	"wm-license-artwork-current-location": "Lokacija",
-	"wm-license-artwork-credit-line": "Način pribavljanja",
+	"wm-license-artwork-credit-line": "Porijeklo",
 	"wm-license-artwork-references": "Referencija",
+	"wm-license-artwork-notes": "Napomene",
 	"wm-license-artwork-id": "Inventarni broj",
 	"wm-license-artwork-source": "Izvor/Fotograf",
 	"wm-license-book-edition": "Izdanje",
