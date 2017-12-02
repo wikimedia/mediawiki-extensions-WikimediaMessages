@@ -1,8 +1,50 @@
 {
 	"@metadata": {
 		"authors": [
-			"ElangoRamanujam"
+			"ElangoRamanujam",
+			"Balajijagadesh"
 		]
 	},
-	"project-localized-name-tcywiki": "துளு விக்கிபீடியா"
+	"project-localized-name-arwiki": "அராபிய விக்கிப்பீடியா",
+	"project-localized-name-arwiktionary": "அரபி விக்சனரி",
+	"project-localized-name-arwikibooks": "அரபி விக்கிநூல்கள்",
+	"project-localized-name-arwikinews": "அரபி விக்கிசெய்தி",
+	"project-localized-name-arwikiquote": "அரபி விக்கிமேற்கோள்",
+	"project-localized-name-arwikisource": "அரபி விக்கிமூலம்",
+	"project-localized-name-bnwiki": "வங்காள விக்கிப்பீடியா",
+	"project-localized-name-bnwiktionary": "வங்காள விக்சனரி",
+	"project-localized-name-bnwikibooks": "வங்காள விக்கிநூல்கள்",
+	"project-localized-name-bnwikisource": "வங்காள விக்கிமூலம்",
+	"project-localized-name-elwiki": "கிரேக்க விக்கிப்பீடியா",
+	"project-localized-name-elwiktionary": "கிரேக்க விக்சனரி",
+	"project-localized-name-elwikibooks": "கிரேக்க விக்கிநூல்கள்",
+	"project-localized-name-elwikinews": "கிரேக்க விக்கிசெய்திகள்",
+	"project-localized-name-elwikiquote": "கிரேக்க விக்கிமேற்கோள்",
+	"project-localized-name-elwikisource": "கிரேக்க விக்கிமூலம்",
+	"project-localized-name-enwiki": "ஆங்கில விக்கிப்பீடியா",
+	"project-localized-name-enwiktionary": "ஆங்கில விக்சனரி",
+	"project-localized-name-enwikibooks": "ஆங்கில விக்கிநூல்கள்",
+	"project-localized-name-enwikinews": "ஆங்கில விக்கிசெய்தி",
+	"project-localized-name-enwikiquote": "ஆங்கில விக்கிமேற்கோள்",
+	"project-localized-name-enwikisource": "ஆங்கில விக்கிமூலம்",
+	"project-localized-name-enwikivoyage": "ஆங்கில விக்கிபயணம்",
+	"project-localized-name-hiwiki": "இந்தி விக்கிப்பீடியா",
+	"project-localized-name-hiwiktionary": "இந்தி விக்சனரி",
+	"project-localized-name-hiwikibooks": "இந்தி விக்கிநூல்கள்",
+	"project-localized-name-knwiki": "கன்னட விக்கிப்பீடியா",
+	"project-localized-name-knwiktionary": "கன்னட விக்சனரி",
+	"project-localized-name-knwikibooks": "கன்னட விக்கிநூல்கள்",
+	"project-localized-name-knwikisource": "கன்னட விக்கிமூலம்",
+	"project-localized-name-tawiki": "தமிழ் விக்கிப்பீடியா",
+	"project-localized-name-tawiktionary": "தமிழ் விக்சனரி",
+	"project-localized-name-tawikibooks": "தமிழ் விக்கிநூல்கள்",
+	"project-localized-name-tawikinews": "தமிழ் விக்கிசெய்தி",
+	"project-localized-name-tawikiquote": "தமிழ் விக்கிமேற்கோள்",
+	"project-localized-name-tawikisource": "தமிழ் விக்கிமூலம்",
+	"project-localized-name-tcywiki": "துளு விக்கிபீடியா",
+	"project-localized-name-tewiki": "தெலுங்கு விக்கிப்பீடியா",
+	"project-localized-name-tewiktionary": "தெலுங்கு விக்சனரி",
+	"project-localized-name-tewikibooks": "தெலுங்கு விக்கிநூல்கள்",
+	"project-localized-name-tewikiquote": "தெலுங்கு விக்கிமேற்கோள்",
+	"project-localized-name-tewikisource": "தெலுங்கு விக்கிமூலம்"
 }
