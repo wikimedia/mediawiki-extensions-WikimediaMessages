@@ -36,7 +36,6 @@
 	"group-Image-reviewer": "مراجعو الصورة",
 	"group-Image-reviewer-member": "{{GENDER:$1|مراجع صور|مراجعة صور}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:مراجعو الصور",
-	"group-mp3-uploader": "رافعو MP3",
 	"group-OTRS-member": "أعضاء أو تي آر إس",
 	"group-OTRS-member-member": "{{GENDER:$1|OTRS عضو}}",
 	"grouppage-OTRS-member": "{{ns:project}}:أعضاء أو تي آر إس",
