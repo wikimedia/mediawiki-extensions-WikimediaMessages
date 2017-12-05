@@ -21,7 +21,8 @@
 			"MrLeopold",
 			"Mainframe98",
 			"Akoopal",
-			"Optilete"
+			"Optilete",
+			"Mar(c)"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -287,7 +288,7 @@
 	"eri-rcfilters-tour-invite-no-button": "Nee, bedankt",
 	"eri-rcfilters-tour-confirm-title": "De nieuwe filters zijn nu ingeschakeld",
 	"eri-rcfilters-tour-confirm-description": "U kunt de <strong>betafunctiespagina</strong> bezoeken om terugkoppeling te geven of de functie uit te schakelen.",
-	"wikimedia-centralauth-contribs-locked": "Dit account is globaal vergrendeld.\nZie [[m:Special:CentralAuth/$1|globale gebruikersgegevens]] voor meer informatie.",
+	"wikimedia-centralauth-contribs-locked": "Dit account is globaal vergrendeld.\nZie de [[m:Special:CentralAuth/$1|globale accountgegevens]] voor meer informatie.",
 	"right-viewdeletedfile": "Toon bestanden en pagina's in de {{ns:file}} en {{ns:file_talk}} naamruimten die zijn verwijderd",
 	"securepoll-dblist-securepollglobal": "Bestuursverkiezing",
 	"wikimedia-cookiestatement": "Cookiesverklaring"
