@@ -107,6 +107,8 @@
 	"wm-license-pd-usgov-noaa-text": "This file is a work of an employee of the [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], taken or made during the course of the person's official duties. As a [[{{int:wm-license-pd-usgov-work-wiki-link}}|work]] of the [[{{int:wm-license-pd-usgov-wiki-link}}|U.S. federal government]], the file is in the '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:en:National Oceanic and Atmospheric Administration",
 	"wm-license-pd-wiki-link": "w:en:public domain",
+	"wm-license-self": "I, the copyright holder of this work, hereby publish it under the following {{PLURAL:$1|license|licenses}}:",
+	"wm-license-self-with-author": "$1, the copyright holder of this work, hereby publishes it under the following {{PLURAL:$2|license|licenses}}:",
 	"wm-license-self-one-license": "I, the copyright holder of this work, hereby publish it under the following license:",
 	"wm-license-self-one-license-with-author": "$1, the copyright holder of this work, hereby publishes it under the following license:",
 	"wm-license-self-multiple-licenses": "I, the copyright holder of this work, hereby publish it under the following licenses:",
