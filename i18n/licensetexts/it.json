@@ -108,6 +108,8 @@
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:it:United States Navy",
 	"wm-license-pd-usgov-noaa-text": "Questo file è un'opera di un dipendente della [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], creato o costruito durante lo svolgimento delle funzioni ufficiali della persona. Come [[{{int:wm-license-pd-usgov-work-wiki-link}}|opera]] del [[{{int:wm-license-pd-usgov-wiki-link}}|governo federale degli Stati Uniti]], il file è nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''.",
 	"wm-license-pd-wiki-link": "w:it:Pubblico dominio",
+	"wm-license-self": "Io, detentore del copyright su quest'opera, dichiaro di pubblicarla con {{PLURAL:$1|la seguente licenza|le seguenti licenze}}:",
+	"wm-license-self-with-author": "$1, detentore del copyright su quest'opera, dichiara di pubblicarla con {{PLURAL:$2|la seguente licenza|le seguenti licenze}}:",
 	"wm-license-self-one-license": "Io, detentore del copyright su quest'opera, dichiaro di pubblicarla con la seguente licenza:",
 	"wm-license-self-one-license-with-author": "$1, detentore del copyright su quest'opera, dichiara di pubblicarla con la seguente licenza:",
 	"wm-license-self-multiple-licenses": "Io, detentore del copyright su quest'opera, dichiaro di pubblicarla con le seguenti licenze:",

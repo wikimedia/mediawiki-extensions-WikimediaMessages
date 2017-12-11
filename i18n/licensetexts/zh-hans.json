@@ -105,6 +105,8 @@
 	"wm-license-pd-usgov-noaa-text": "本文件是[[{{int:wm-license-pd-usgov-noaa-wiki-link}}|美国国家海洋和大气管理局]]雇员在其履行公务期间拍摄或制作的作品。作为[[{{int:wm-license-pd-usgov-wiki-link}}|美国联邦政府]]的[[{{int:wm-license-pd-usgov-work-wiki-link}}|作品]]，本文件位于'''[[{{int:wm-license-pd-wiki-link}}|公共领域]]'''。",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:zh:美国国家海洋和大气管理局",
 	"wm-license-pd-wiki-link": "w:zh:公有领域",
+	"wm-license-self": "我，本作品著作权人，特此采用以下{{PLURAL:$1|许可协议}}发表本作品：",
+	"wm-license-self-with-author": "$1，本作品著作权人，特此采用以下{{PLURAL:$2|许可协议}}发表本作品：",
 	"wm-license-self-one-license": "我，本作品著作权人，特此采用以下许可协议发表本作品：",
 	"wm-license-self-one-license-with-author": "$1，本作品著作权人，特此采用以下许可协议发表本作品：",
 	"wm-license-self-multiple-licenses": "我，本作品著作权人，特此采用以下许可协议发表本作品：",

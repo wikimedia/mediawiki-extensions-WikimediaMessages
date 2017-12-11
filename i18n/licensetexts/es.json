@@ -109,6 +109,8 @@
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:es:Armada de los Estados Unidos",
 	"wm-license-pd-usgov-noaa-text": "Este archivo es obra de un empleado de la [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|''National Oceanic and Atmospheric Administration'' de los EE.UU.]], realizado o hecho en el curso de sus funciones oficiales. Como tal [[{{int:wm-license-pd-usgov-work-wiki-link}}|trabajo]] del [[{{int:wm-license-pd-usgov-wiki-link}}|Gobierno federal de los EE.UU.]], el archivo está en el '''[[{{int:wm-license-pd-wiki-link}}|dominio público]]'''.",
 	"wm-license-pd-wiki-link": "w:es:Dominio público",
+	"wm-license-self": "Yo, titular de los derechos de autor de esta obra, la publico según los términos de {{PLURAL:$1|la licencia siguiente|las licencias siguientes}}:",
+	"wm-license-self-with-author": "$1, titular de los derechos de autor de esta obra, la publica según los términos de {{PLURAL:$2|la licencia siguiente|las licencias siguientes}}:",
 	"wm-license-self-one-license": "Yo, el titular de los derechos de autor de esta obra, la publico en los términos de la siguiente licencia:",
 	"wm-license-self-one-license-with-author": "$1, titular de los derechos de autor de esta obra, la publica en los términos de la siguiente licencia:",
 	"wm-license-self-multiple-licenses": "Yo, titular de los derechos de autor de esta obra, la publico en los términos de las siguientes licencias:",
