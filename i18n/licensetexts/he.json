@@ -103,6 +103,8 @@
 	"wm-license-pd-usgov-noaa-text": "קובץ זה הוא יצירה של עובד [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|המִנהלת הלאומית של ארצות הברית לאוקיינוסים ואטמוספרה]], שצולמה או נוצרה במהלך המטלות הרשמיות שלו. בהיותו [[{{int:wm-license-pd-usgov-work-wiki-link}}|יצירה]] של [[{{int:wm-license-pd-usgov-wiki-link}}|הממשלה הפדרלית של ארצות הברית]], הקובץ מצוי ב'''[[{{int:wm-license-pd-wiki-link}}|נחלת הכלל]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:he:מנהל האוקיינוסים והאטמוספירה הלאומי",
 	"wm-license-pd-wiki-link": "w:he:רשות הציבור",
+	"wm-license-self": "אני, בעל זכויות היוצרים ביצירה הזאת, מפרסם אותה בזאת לפי תנאי {{PLURAL:$1|הרישיון הבא|הרישיונות הבאים}}:",
+	"wm-license-self-with-author": "$1, בעל זכויות היוצרים ביצירה הזאת, מפרסם אותה בזאת לפי תנאי {{PLURAL:$2|הרישיון הבא|הרישיונות הבאים}}:",
 	"wm-license-self-one-license": "אני, בעל זכויות היוצרים על עבודה זו, מפרסם בזאת את העבודה תחת הרישיון הבא:",
 	"wm-license-self-one-license-with-author": "$1, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיון הבא:",
 	"wm-license-self-multiple-licenses": "אני, בעל זכויות היוצרים על עבודה זו, מפרסם אותה בזאת תחת הרישיונות הבאים:",

@@ -10,7 +10,8 @@
 			"Luckas Blade",
 			"555",
 			"Cainamarques",
-			"Felipe L. Ewald"
+			"Felipe L. Ewald",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"wm-license-attribution-with-author-text": "O detentor dos direitos autorais deste arquivo, $1, autoriza o seu uso por qualquer pessoa '''para qualquer finalidade, com a condição de que''' a sua autoria seja devidamente atribuída. Redistribuição, trabalhos derivados, uso comercial e todos os demais usos são permitidos.",
@@ -110,6 +111,8 @@
 	"wm-license-pd-usgov-noaa-text": "Este arquivo é um trabalho de um funcionário da  [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|U.S. National Oceanic and Atmospheric Administration]], tomadas ou feitas durante o curso das funções oficiais da pessoa. Como um [[{{int:wm-license-pd-usgov-work-wiki-link}}|trabalho]] do [[{{int:wm-license-pd-usgov-wiki-link}}|Governo federal]], o arquivo está no '''[[{{int:wm-license-pd-wiki-link}}|domínio público]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:en:National Oceanic and Atmospheric Administration",
 	"wm-license-pd-wiki-link": "w:en:public domain",
+	"wm-license-self": "Eu, o titular dos direitos autorais deste trabalho, publico-o sob o seguinte {{PLURAL:$1|licença|licenças}}:",
+	"wm-license-self-with-author": "$1, o titular dos direitos autorais deste trabalho, publica-o sob o seguinte {{PLURAL:$2|licença|licenças}}:",
 	"wm-license-self-one-license": "Eu, titular dos direitos autorais desta obra, publico-a nos termos da seguinte licença:",
 	"wm-license-self-one-license-with-author": "$1, titular dos direitos autorais desta obra, publica-a nos termos da seguinte licença:",
 	"wm-license-self-multiple-licenses": "Eu, titular dos direitos autorais desta obra, publico-a nos termos das seguintes licenças:",
