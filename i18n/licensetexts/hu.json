@@ -90,6 +90,8 @@
 	"wm-license-pd-usgov-military-air-force-wiki-link": "w:hu:Az Amerikai Egyesült Államok Légiereje",
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:hu:Az Amerikai Egyesült Államok Haditengerészete",
 	"wm-license-pd-wiki-link": "w:hu:Közkincs",
+	"wm-license-self": "Én, e mű szerzője a művemet az alábbi {{PLURAL:$1|licenc|licencek}} alatt teszem közzé:",
+	"wm-license-self-with-author": "$1, e mű szerzője a művét az alábbi {{PLURAL:$2|licenc|licencek}} alatt teszi közzé:",
 	"wm-license-self-one-license": "Én, e mű szerzője a művemet az alábbi licenc alatt teszem közzé:",
 	"wm-license-self-one-license-with-author": "$1, e mű szerzője a művét az alábbi licenc alatt teszi közzé:",
 	"wm-license-self-multiple-licenses": "Én, e mű szerzője a művemet az alábbi licencek alatt teszem közzé:",
