@@ -103,6 +103,8 @@
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:pt:Marinha dos Estados Unidos",
 	"wm-license-pd-usgov-noaa-text": "Este ficheiro é obra de um empregado da [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Administração Oceânica e Atmosférica Nacional]] dos EUA, capturado ou feito no decurso dos deveres oficiais dessa pessoa. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] do [[{{int:wm-license-pd-usgov-wiki-link}}|governo federal dos EUA]], o ficheiro está no '''[[{{int:wm-license-pd-wiki-link}}|domínio público]]'''.",
 	"wm-license-pd-wiki-link": "w:pt:Domínio público",
+	"wm-license-self": "Eu, titular dos direitos de autor desta obra, publico-a com {{PLURAL:$1|a seguinte licença|as seguintes licenças}}:",
+	"wm-license-self-with-author": "$1, titular dos direitos de autor desta obra, publica-a com {{PLURAL:$2|a seguinte licença|as seguintes licenças}}:",
 	"wm-license-self-one-license": "Eu, titular dos direitos de autor desta obra, publico-a com a seguinte licença:",
 	"wm-license-self-one-license-with-author": "$1, titular dos direitos de autor desta obra, publica-a com a seguinte licença:",
 	"wm-license-self-multiple-licenses": "Eu, titular dos direitos de autor desta obra, publico-a com as seguintes licenças:",
