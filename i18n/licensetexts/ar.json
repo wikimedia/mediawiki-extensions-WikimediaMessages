@@ -106,6 +106,8 @@
 	"wm-license-pd-usgov-noaa-text": "هذا الملف هو عمل موظف في [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|الإدارة الوطنية الأمركية للمحيطات والغلاف الجوي]]، أخذ أو صنع أثناء تأدية هذا الشخص لمهام عمله الرسمية. [[{{int:wm-license-pd-usgov-work-wiki-link}}|كعمل]] [[{{int:wm-license-pd-usgov-wiki-link}}|للحكومة الفيدرالية الأمريكية]]، فالملف مرخص تحت '''[[{{int:wm-license-pd-wiki-link}}|الملكية العامة]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:ar:الإدارة الوطنية للمحيطات والغلاف الجوي",
 	"wm-license-pd-wiki-link": "w:ar:ملكية عامة",
+	"wm-license-self": "أنا، مالك حقوق النسخ لهذا العمل، أنشره تحت {{PLURAL:$1|الرخصة|الرخص}} التالية:",
+	"wm-license-self-with-author": "$1، مالك حقوق النسخ لهذا العمل، ينشره تحت {{PLURAL:$2|الرخصة|الرخص}} التالية:",
 	"wm-license-self-one-license": "أنا، صاحب حقوق الطبع والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
 	"wm-license-self-one-license-with-author": "$1، صاحب حقوق الطبع والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
 	"wm-license-self-multiple-licenses": "أنا، صاحب حقوق الطبع والنشر لهذا العمل، أنشر هذا العمل تحت الرخص التالية:",
