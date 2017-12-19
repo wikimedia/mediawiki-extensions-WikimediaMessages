@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"Baloch Khan"
 		]
 	},
 	"project-localized-name-aawiki": "افاري ويکيپېډيا",
@@ -24,6 +25,9 @@
 	"project-localized-name-arwikisource": "عربي ويکيسرچينه",
 	"project-localized-name-arwikiversity": "عربي ويکيپوهنتون",
 	"project-localized-name-arcwiki": "ارامي ويکيپېډيا",
+	"project-localized-name-dewikivoyage": "الماني ويکيسفر",
+	"project-localized-name-enwikivoyage": "انگرېزي ويکيسفر",
+	"project-localized-name-fawikivoyage": "فاړسي ويکيسفر",
 	"project-localized-name-nowiki": "ناروېژي ويکيپېډيا",
 	"project-localized-name-nowiktionary": "ناروېژي ويکيسيند",
 	"project-localized-name-nowikibooks": "ناروېژي ويکيتابونه",
