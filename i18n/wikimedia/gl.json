@@ -8,7 +8,8 @@
 			"Nemo bis",
 			"Elisardojm",
 			"Banjo",
-			"Savh"
+			"Savh",
+			"Athena in Wonderland"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicas da Wikimedia",
@@ -35,6 +36,9 @@
 	"group-Image-reviewer": "Revisores de imaxes",
 	"group-Image-reviewer-member": "{{GENDER:$1|revisor|revisora}} de imaxes",
 	"grouppage-Image-reviewer": "{{ns:project}}:Revisores de imaxes",
+	"group-extended-uploader": "Cargadores estendidos",
+	"group-extended-uploader-member": "{{GENDER:$1|cargador estendido|cargadora estendida}}",
+	"grouppage-extended-uploader": "{{ns:project}}:Cargadores estendidos",
 	"group-OTRS-member": "Membros do OTRS",
 	"group-OTRS-member-member": "{{GENDER:$1|membro do OTRS}}",
 	"grouppage-OTRS-member": "{{ns:project}}:Membros do OTRS",
@@ -77,6 +81,8 @@
 	"group-extendedconfirmed-member": "{{GENDER:$1|usuario confirmado extendido|usuaria confirmada extendida}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:Usuarios confirmados extendidos",
 	"group-extendedmover": "Renomeadores extendidos",
+	"group-extendedmover-member": "{{GENDER:$1|transportador estendido|transportadora estendida}}",
+	"grouppage-extendedmover": "{{ns:project}}:Transportadores estendidos",
 	"group-filemover": "Renomeadores de ficheiros",
 	"group-filemover-member": "{{GENDER:$1|renomeador|renomeadora}} de ficheiros",
 	"grouppage-filemover": "{{ns:project}}:Renomeadores de ficheiros",

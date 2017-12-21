@@ -90,6 +90,8 @@
 	"wm-license-pd-usgov-military-navy-text": "See fail on [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Ameerika Ühendriikide mereväe]] teenistuja või mereväelase tehtud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see fail '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
 	"wm-license-pd-usgov-noaa-text": "See fail on [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Ameerika Ühendriikide Riikliku Ookeani- ja Atmosfäärivalitsuse]] teenistuja tehtud ametikohustuste täitmise ajal. [[{{int:wm-license-pd-usgov-wiki-link}}|Ameerika Ühendriikide keskvalitsuse]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|teosena]] kuulub see fail '''[[{{int:wm-license-pd-wiki-link}}|avalikku omandisse]]'''.",
 	"wm-license-pd-wiki-link": "w:et:avalik omand",
+	"wm-license-self": "Autoriõiguse valdajana avaldan selle teose {{PLURAL:$1|järgmise litsentsi|järgmiste litsentside}} all:",
+	"wm-license-self-with-author": "$1 autoriõiguse valdajana avaldab selle teose {{PLURAL:$2|järgmise litsentsi|järgmiste litsentside}} all:",
 	"wm-license-self-one-license": "Autoriõiguse omanikuna avaldan selle teose järgmise litsentsi all:",
 	"wm-license-self-one-license-with-author": "$1 autoriõiguse omanikuna avaldab selle teose järgmise litsentsi all:",
 	"wm-license-self-multiple-licenses": "Autoriõiguse omanikuna avaldan selle teose järgmiste litsentside all:",

@@ -53,7 +53,7 @@
 	"wm-license-creator-location-of-birth-and-death": "Local de nascimento/falecimento",
 	"wm-license-creator-work-period": "Período de trabalho",
 	"wm-license-creator-work-location": "Local de trabalho",
-	"wm-license-creator-linkback": "Link de volta à predefinição da caixa informativa Creator",
+	"wm-license-creator-linkback": "Hiperligação de volta à predefinição da caixa informativa Creator",
 	"wm-license-fal-text": "Copyleft: Esta é uma obra de arte livre; pode redistribuí-la e/ou modificá-la nos termos da licença '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Encontrará um exemplar desta licença no [{{int:wm-license-fal-full-link}} site Copyleft Attitude] e  [{{int:wm-license-fal-full-link-commons}} noutros sites].",
 	"wm-license-fal-full-link": "http://artlibre.org/lal/pt",
 	"wm-license-fsf-wiki-link": "w:pt:Free Software Foundation",
