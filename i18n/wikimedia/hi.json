@@ -13,7 +13,8 @@
 			"Angpradesh",
 			"Sfic",
 			"Anamdas",
-			"Rishi.Singh"
+			"Rishi.Singh",
+			"Jayprakash12345"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया-विशिष्ट संदेश",
@@ -41,7 +42,7 @@
 	"group-arbcom-member": "{{GENDER:$1|अरबीट्रेसन कमिटी सदस्य}}",
 	"grouppage-arbcom": "{{ns:project}}:अरबीट्रेसन कमिटी सदस्य",
 	"group-autopatrolled": "स्वसमीक्षक",
-	"group-autopatrolled-member": "{{GENDER:$1|स्व समीक्षक}}",
+	"group-autopatrolled-member": "{{GENDER:$1|स्वतः परीक्षित सदस्य}}",
 	"grouppage-autopatrolled": "{{ns:project}}:स्वचालित निगरानी रखने वाले",
 	"group-autoreviewer": "स्वचालित समीक्षक",
 	"group-autoreviewer-member": "{{GENDER:$1|स्वचालित समीक्षक}}",
