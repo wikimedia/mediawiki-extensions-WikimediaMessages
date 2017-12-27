@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Njardarlogar"
+		]
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]",
+	"wikimedia-flow-terms-of-use-edit": "Ved å lagra endringar samtykkjer du til [//wikimediafoundation.org/wiki/Terms_of_Use bruksvilkåra] våre og gjev endeleg samtykke til at teksten din vert utgjeve under lisensen [//creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] og [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
 }

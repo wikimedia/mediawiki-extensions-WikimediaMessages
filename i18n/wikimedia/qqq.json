@@ -182,7 +182,7 @@
 	"grouppage-global-interface-editor": "{{optional}}\n{{doc-group|global-interface-editor|page}}\n{{Global grouppage}}",
 	"group-global-renamer": "{{doc-group|global-renamer}}",
 	"group-global-renamer-member": "{{doc-group|global-renamer|member}}",
-	"grouppage-global-renamer": "{{doc-group|global-renamer|page}}",
+	"grouppage-global-renamer": "{{doc-group|global-renamer|page}}\n{{Global grouppage}}",
 	"group-global-rollbacker": "{{doc-group|global-rollbacker}}\n{{Identical|Rollback}}",
 	"group-global-rollbacker-member": "{{doc-group|global-rollbacker|member}}\n{{Identical|Rollback}}",
 	"grouppage-global-rollbacker": "{{optional}}\n{{doc-group|global-rollbacker|page}}\n{{Global grouppage}}\n{{Identical|Rollback}}",
