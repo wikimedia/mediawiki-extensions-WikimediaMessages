@@ -85,6 +85,8 @@
 	"wm-license-pd-usgov-military-navy-text": "Esti ficheru ye obra d'un marineru o emplegáu de la [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Marina de los EE.XX.]], tomáu o fechu nel trescursu de les funciones oficiales d'esa persona. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] del [[{{int:wm-license-pd-usgov-wiki-link}}|gobiernu federal de los EE.XX.]], el ficheru ta nel '''[[{{int:wm-license-pd-wiki-link}}|dominiu públicu]]'''.",
 	"wm-license-pd-usgov-noaa-text": "Esti ficheru ye obra d'un emplegáu de la [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Alministración Nacional Oceánica y Atmosférica de los Estaos Xuníos d'América]], tomáu o fechu nel trescursu de les funciones oficiales d'esa persona. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] del [[{{int:wm-license-pd-usgov-wiki-link}}|gobiernu federal de los EE.XX.]], el ficheru ta nel '''[[{{int:wm-license-pd-wiki-link}}|dominiu públicu]]'''.",
 	"wm-license-pd-wiki-link": "w:ast:Dominiu públicu",
+	"wm-license-self": "Yo, titular de los derechos d'autor d'esta obra, la publico baxo los términos de {{PLURAL:$1|la llicencia siguiente|les llicencies siguientes}}:",
+	"wm-license-self-with-author": "$1, titular de los derechos d'autor d'esta obra, la publica baxo los términos de {{PLURAL:$2|la llicencia siguiente|les llicencies siguientes}}:",
 	"wm-license-self-one-license": "Yo, el titular de los drechos d'autor d'esta obra, la espublizo baxo la siguiente llicencia:",
 	"wm-license-self-one-license-with-author": "$1, titular de los drechos d'autor d'esta obra, la espubliza baxo la siguiente llicencia:",
 	"wm-license-self-multiple-licenses": "Yo, el titular de los drechos d'autor d'esta obra, la espublizo baxo les siguientes llicencies:",

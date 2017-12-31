@@ -6,7 +6,8 @@
 			"Matasg",
 			"Multichill",
 			"Hugo.arg",
-			"Albertas"
+			"Albertas",
+			"Manvydasz"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Šio failo autorinių teisių savininkas, $1, leidžia naudoti šį failą '''bet kokiam tikslui, su sąlyga, kad''' autorinių teisių savininkas tinkamai nurodytas. Perskyrimas, išvestiniai darbai, naudojimas komerciniams tikslams ir kiti naudojimai yra uždrausti.",
@@ -29,8 +30,8 @@
 	"wm-license-book-language": "Kalba",
 	"wm-license-book-page-overview": "Puslapio peržiūra",
 	"wm-license-book-place-of-publication": "Publikavimo vieta",
-	"wm-license-book-printer": "Spausdinta",
-	"wm-license-book-publisher": "Publikuota",
+	"wm-license-book-printer": "Spaustuvė",
+	"wm-license-book-publisher": "Leidėjas",
 	"wm-license-book-series-title": "Serijos pavadinimas",
 	"wm-license-book-start-this-book": "Knygos pradžia",
 	"wm-license-book-subtitle": "Poraštė",
@@ -93,6 +94,8 @@
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:lt:Jungtinių Valstijų karinės jūrų pajėgos",
 	"wm-license-pd-usgov-noaa-text": "Šis failas yra [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|JAV Nacionalinės vandenyno ir atmosferos administracijos]] darbuotojo darbas, paimtas ar padarytas per pareigūno, atliekančio oficialias pareigas, kursus. Kaip ir [[{{int:wm-license-pd-usgov-wiki-link}}|JAV federalinės valdžios]] [[{{int:wm-license-pd-usgov-work-wiki-link}}|darbas]], šis failas yra '''[[{{int:wm-license-pd-wiki-link}}|viešo naudojimo]]'''.",
 	"wm-license-pd-wiki-link": "w:lt:Viešo naudojimo režimas",
+	"wm-license-self": "Aš, šio darbo autoriaus teisių savininkas, publikuoju jį su {{PLURAL:$1|šia licencija|šiomis licencijomis}}:",
+	"wm-license-self-with-author": "$1, šio darbo autoriaus teisių savininkas, publikuoja jį su {{PLURAL:$2|šia licencija|šiomis licencijomis}}:",
 	"wm-license-self-one-license": "Aš, šio darbo autoriaus teisių savininkas, publikuoju jį su šia licencija:",
 	"wm-license-self-one-license-with-author": "$1, šio darbo autoriaus teisių savininkas, publikuoja jį su šia licencija:",
 	"wm-license-self-multiple-licenses": "Aš, šio darbo autoriaus teisių savininkas, publikuoju jį su šiomis licencijomis:",
