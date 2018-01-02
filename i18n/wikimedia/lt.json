@@ -13,7 +13,8 @@
 			"Albertas",
 			"Zygimantus",
 			"Nersip",
-			"Nuodas"
+			"Nuodas",
+			"Manvydasz"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
@@ -36,7 +37,7 @@
 	"group-abusefilter-helper-member": "{{GENDER:$1|Piktnaudžiavimo filtro padėjėjas|Piktnaudžiavimo filtro padėjėja}}",
 	"group-accountcreator": "Paskyrų kūrėjai",
 	"group-accountcreator-member": "{{GENDER:$1|paskyros kūrėjas|paskyros kūrėja}}",
-	"grouppage-accountcreator": "{{ns:project}}:Sąskaitų kūrėjai",
+	"grouppage-accountcreator": "{{ns:project}}:Paskyrų kūrėjai",
 	"group-arbcom": "Arbitražo komiteto nariai",
 	"group-arbcom-member": "{{GENDER:$1|arbitražo komiteto narys|arbitražo komiteto narė}}",
 	"grouppage-arbcom": "{{ns:project}}:Arbitražo komiteto nariai",
@@ -65,10 +66,10 @@
 	"group-flood": "Botų šeimininkai",
 	"group-flood-member": "Robotas",
 	"group-founder": "Įkūrėjai",
-	"group-founder-member": "{{GENDER:$1|įkūrėjas}}",
+	"group-founder-member": "{{GENDER:$1|įkūrėjas|įkūrėja}}",
 	"grouppage-founder": "{{ns:project}}:Įkūrėjai",
 	"group-import": "Importuotojai",
-	"group-import-member": "{{GENDER:$1|importuotojas}}",
+	"group-import-member": "{{GENDER:$1|importuotojas|importuotoja}}",
 	"grouppage-import": "{{ns:project}}:Importuotojai",
 	"group-inactive": "Neaktyvūs naudotojai",
 	"group-inactive-member": "{{GENDER:$1|neaktyvus naudotojas|neaktyvi naudotoja}}",
@@ -128,7 +129,7 @@
 	"upload-form-label-not-own-work-local-commons": "Jūs taip pat galite norėti išbandyti [[Special:Upload|{{SITENAME}} įkėlimo puslapį]], jeigu šis puslapis leidžia failų įkėlimą pagal jų politiką.",
 	"interlanguage-link-commons": "Vikiteka",
 	"eri-rcfilters-tour-welcome-button": "Gerai, supratau",
-	"eri-rcfilters-tour-highlight-description": "Naudokite ryškinimą, kad vizualiai atskirti pasirinktas savybes. <br/> <br/> Galite derinti ryškinimą, su filtrais arba paryškinti savarankiškai.",
+	"eri-rcfilters-tour-highlight-description": "Naudokite ryškinimą, kad vizualiai atskirti pasirinktas savybes. <br/><br/> Galite derinti ryškinimą su filtrais arba paryškinti savarankiškai.",
 	"eri-rcfilters-tour-highlight-button": "Gerai, supratau",
 	"wikimedia-cookiestatement": "Slapukų politika"
 }
