@@ -9,7 +9,8 @@
 			"Srdjan m",
 			"Сербијана",
 			"Obsuser",
-			"Bugoslav"
+			"Bugoslav",
+			"Prevodim"
 		]
 	},
 	"wikimediamessages-desc": "Poruke specifične za Vikimediju.",
@@ -165,6 +166,7 @@
 	"eri-rcfilters-tour-welcome-button": "OK, razumem",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Pregledajte izmene efikasnije koristeći nove filtere, moćniji interfejs, korisnički definisano isticanje i druga poboljšanja. $1",
 	"eri-rcfilters-tour-help": "Saznajte više",
+	"eri-rcfilters-tour-intro-preferences-description": "Pristupite svojim podešavanjima bilo kada, da biste isključili poboljšanu verziju skorašnjih izmena.",
 	"eri-rcfilters-tour-highlight-title": "Označi bojom svoje rezultate",
 	"eri-rcfilters-tour-highlight-description": "Koristite označavanje za vizuelno raspoznavanje odabranih svojstava.<br/><br/>Možete kombinovati označavanja sa filterima ili koristiti označavanje zasebno.",
 	"eri-rcfilters-tour-highlight-button": "OK, razumem",

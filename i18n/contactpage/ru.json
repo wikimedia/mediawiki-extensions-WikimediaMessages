@@ -6,7 +6,8 @@
 			"Putnik",
 			"Facenapalm",
 			"ToJack",
-			"Alexey zakharenkov"
+			"Alexey zakharenkov",
+			"Kaganer"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",
@@ -14,7 +15,7 @@
 	"contactpage-subject-requestlicense": "Запрос на использование товарного знака Викимедиа",
 	"contactpage-license-request-username": "Имя участника",
 	"contactpage-license-request-relevantsite": "Соответствующий сайт Викимедиа (если есть)",
-	"contactpage-license-request-group": "Отделение Викимедиа, тематическая организация или группа пользователей и её название (если есть)",
+	"contactpage-license-request-group": "Организация Викимедиа (если есть) — региональная организация, тематическая организация или группа участников — и её название",
 	"contactpage-license-request-title": "Должность (если применимо)",
 	"contactpage-license-request-organization": "Организации (если применимо)",
 	"contactpage-license-request-organization-type": "Тип организации (если применимо)",
@@ -26,8 +27,8 @@
 	"contactpage-license-request-use-other": "Другое",
 	"contactpage-license-request-use-note": "<strong>Примечание:</strong> если мы предоставим разрешение на использование товарного знака, мы можем внести об этом запись в публичный список авторизованных использований.",
 	"contactpage-license-request-description": "Описание использования",
-	"contactpage-license-request-selectmark": "Какие торговые знаки вы хотите использовать?",
-	"contactpage-wikimedia-trademark-globe": "Википедийных глобус с пазлом",
+	"contactpage-license-request-selectmark": "Какие товарные знаки вы хотите использовать?",
+	"contactpage-wikimedia-trademark-globe": "Глобус Википедии в виде паззла",
 	"contactpage-wikimedia-trademark-wikiwordmark": "Текстовый товарный знак Википедии",
 	"contactpage-wikimedia-trademark-w": "Стилизованная «W»",
 	"contactpage-wikimedia-trademark-wikiquote": "Викицитатник",
@@ -54,5 +55,5 @@
 	"contactpage-affcom-user-group-logo-community": "Логотип сообщества Викимедиа",
 	"contactpage-affcom-user-group-logo-affiliate": "Партнёрский логотип Викимедиа",
 	"contactpage-title-stewards": "Связаться со стюардами",
-	"contactpage-stewards-disclaimer-label": "Отказ от ответственности: всю информацию, включённую вами в эту форму, получат, обработают и ответят волонтёры сообщества (в частности, [[Special:MyLanguage/Stewards|стюарды]]), а не Фонд Викимедиа. Пожалуйста, не включайте информацию, которой вы не хотите делиться с волонтёрами. Ответы и прочее относящееся к обработке отправленной вами информации не будет считаться официальными заявлениями Фонда Викимедиа. Для получения официального ответа, пожалуйста, напишите Фонду Викимедиа одним из способов, перечисленных по ссылке: https://wikimediafoundation.org/wiki/Special:MyLanguage/Contact_us."
+	"contactpage-stewards-disclaimer-label": "Отказ от ответственности: всю информацию, включённую вами в эту форму, получат и обработают волонтёры сообщества (в частности, [[Special:MyLanguage/Stewards|стюарды]]), они же и ответят вам — а не Фонд Викимедиа. Пожалуйста, не включайте информацию, которой вы не хотите делиться с волонтёрами. Ответы и всё остальное, относящееся к обработке отправленной вами информации, не будет считаться официальными заявлениями Фонда Викимедиа. Для получения официального ответа напишите, пожалуйста, в Фонд Викимедиа одним из способов, перечисленных по ссылке: https://wikimediafoundation.org/wiki/Special:MyLanguage/Contact_us."
 }
