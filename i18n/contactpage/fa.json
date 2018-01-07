@@ -3,13 +3,14 @@
 		"authors": [
 			"Reza1615",
 			"Rtemis",
-			"Mjbmr"
+			"Mjbmr",
+			"Ladsgroup"
 		]
 	},
 	"contactpage-title-requestlicense": "فرم درخواست مجوز",
 	"contactpage-pagetext-requestlicense": "لطفاً از فرم زیر برای تماس با ما دربارهٔ استفاده از نماد تجاری ویکی‌مدیا استفاده کنید",
 	"contactpage-subject-requestlicense": "درخواست استفاده از نماد تجاری ویکی‌مدیا",
-	"contactpage-license-request-username": "*نام کاربری",
+	"contactpage-license-request-username": "نام کاربری",
 	"contactpage-license-request-relevantsite": "سایت ویکی‌مدیای مرتبط (در صورت وجود)",
 	"contactpage-license-request-group": "*چپتر ویکی‌مدیا، سازمان موضوعی یا گروه کاربری و عنوان (در صورت وجود)",
 	"contactpage-license-request-title": "عنوان (در صورت اطلاق)",
