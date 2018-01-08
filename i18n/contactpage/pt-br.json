@@ -2,15 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Luckas",
-			"Felipe L. Ewald"
+			"Felipe L. Ewald",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"contactpage-title-requestlicense": "Solicite um formulário de licença",
 	"contactpage-pagetext-requestlicense": "Use o formulário abaixo para contatar-nos sobre o uso de uma marca registrada da Wikimedia.",
 	"contactpage-subject-requestlicense": "Pedido para usar uma marca registrada da Wikimedia",
-	"contactpage-license-request-username": "Usuário *",
+	"contactpage-license-request-username": "Nome de usuário",
 	"contactpage-license-request-relevantsite": "Site relevante da Wikimedia (se houver)",
-	"contactpage-license-request-group": "Capítulo da Wikimedia, organização temática ou grupo de usuários e títulos (se houver) *",
+	"contactpage-license-request-group": "Capítulo da Wikimedia, organização temática, ou grupo de utilizadores e título (se existir)",
 	"contactpage-license-request-title": "Título (se aplicável)",
 	"contactpage-license-request-organization": "Organização (se aplicável)",
 	"contactpage-license-request-organization-type": "Tipo de organização (se aplicável)",
