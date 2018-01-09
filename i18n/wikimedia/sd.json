@@ -7,8 +7,12 @@
 			"Indus Asia"
 		]
 	},
+	"wikimediamessages-desc": "وڪيميڊيا مخصوص پيغام",
 	"sitesupport": "امداد ڏيو",
-	"tooltip-n-sitesupport": "اسان جي پٺڀرائي ڪريو",
+	"tooltip-n-sitesupport": "اسانجي پٺڀرائي ڪريو",
+	"nstab-creator": "تخليقڪار",
+	"nstab-institution": "ادارو",
+	"nstab-sequence": "ترتيب",
 	"group-accountcreator": "کاتو تخليقڪار",
 	"grouppage-accountcreator": "{{ns:project}}:کاتو تخليقڪار",
 	"group-autopatrolled": "خودگشتڪار",
@@ -40,7 +44,7 @@
 	"wikibase-otherprojects-wikipedia": "وڪيپيڊيا",
 	"wikibase-otherprojects-wiktionary": "وڪيلغت",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "ذريعات‌وڪي",
-	"wikibase-sitelinks-sitename-metawiki": "ميٽا وڪي",
+	"wikibase-sitelinks-sitename-metawiki": "ميٽاوڪي",
 	"wikibase-sitelinks-sitename-species": "وڪي‌انواع",
 	"wikibase-sitelinks-sitename-wikidatawiki": "وڪيڊيٽا",
 	"wikimedia-developers": "سِٽاڪار",
