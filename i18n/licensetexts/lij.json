@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Giromin Cangiaxo"
+			"Giromin Cangiaxo",
+			"S4b1nuz E.656"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "L'e permisso copiâ, distribuî e/ò modificâ sto documento in base a-i termini da '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verscion 1.2 ò succescive pubbricâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa arcun-a session non modificabile, sensa testo de covertin-a e sensa testo de quarta de covertin-a. Una coppia da liçença a l'è inclusa inta seçioe intitolâ ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo da GNU Free Documentation License]]''.",
@@ -11,6 +12,6 @@
 	"wm-license-information-author": "Autô",
 	"wm-license-information-permission": "Liçensa",
 	"wm-license-information-permission-reusing-text": "Deuvia torna sto file",
-	"wm-license-own-work": "Euvia proppia",
+	"wm-license-own-work": "Òpera pròpia",
 	"wm-license-self-multiple-licenses-select": "Ti peu çerne a liçensa che ti veu."
 }
