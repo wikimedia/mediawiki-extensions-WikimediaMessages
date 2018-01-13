@@ -13,7 +13,7 @@
 	"project-localized-name-aawikibooks": "Afarinkielinen Wikikirjasto",
 	"project-localized-name-abwiki": "Abhaasinkielinen Wikipedia",
 	"project-localized-name-abwiktionary": "Abhaasinkielinen Wikisanakirja",
-	"project-localized-name-acewiki": "Atšehinkielinen Wikipedia",
+	"project-localized-name-acewiki": "Acehinkielinen Wikipedia",
 	"project-localized-name-adywiki": "Adygenkielinen Wikipedia",
 	"project-localized-name-afwiki": "Afrikaansinkielinen Wikipedia",
 	"project-localized-name-afwiktionary": "Afrikaansinkielinen Wikisanakirja",
@@ -288,6 +288,8 @@
 	"project-localized-name-hiwiktionary": "Hindinkielinen Wikisanakirja",
 	"project-localized-name-hiwikibooks": "Hindinkielinen Wikikirjasto",
 	"project-localized-name-hiwikiquote": "Hindinkielinen Wikisitaatit",
+	"project-localized-name-hiwikiversity": "Hindinkielinen Wikiopisto",
+	"project-localized-name-hiwikivoyage": "Hindinkielinen Wikimatkat",
 	"project-localized-name-hifwiki": "Fidžinhindinkielinen Wikipedia",
 	"project-localized-name-howiki": "Hiro-motunkielinen Wikipedia",
 	"project-localized-name-hrwiki": "Kroatiankielinen Wikipedia",
@@ -845,6 +847,9 @@
 	"project-localized-name-sewikimedia": "Wikimedia Ruotsi",
 	"project-localized-name-sourceswiki": "Monikielinen Wikiaineisto",
 	"project-localized-name-specieswiki": "Wikispecies",
+	"project-localized-name-testwiki": "Testi Wikipedia",
+	"project-localized-name-test2wiki": "Testi2 Wikipedia",
+	"project-localized-name-testwikidatawiki": "Wikidata Testiwiki",
 	"project-localized-name-trwikimedia": "Wikimedia Turkki",
 	"project-localized-name-uawikimedia": "Wikimedia Ukraina",
 	"project-localized-name-ukwikimedia": "Wikimedia UK",
@@ -861,5 +866,6 @@
 	"project-localized-name-wikimania2014wiki": "Wikimania 2014 -wiki",
 	"project-localized-name-wikimania2015wiki": "Wikimania 2015 -wiki",
 	"project-localized-name-wikimania2016wiki": "Wikimania 2016 -wiki",
-	"project-localized-name-wikimania2017wiki": "Wikimania 2017 -wiki"
+	"project-localized-name-wikimania2017wiki": "Wikimania 2017 -wiki",
+	"project-localized-name-wikimania2018wiki": "Wikimania 2018 -wiki"
 }
