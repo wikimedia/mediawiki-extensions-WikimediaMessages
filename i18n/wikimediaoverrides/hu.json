@@ -3,9 +3,11 @@
 		"authors": [
 			"Tacsipacsi",
 			"Nemo bis",
-			"Tgr"
+			"Tgr",
+			"BáthoryPéter"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "A wiki látogatói ezt az IP-címet használva {{PLURAL:$1|1 fiókot|$1 fiókot}} hoztak létre az elmúlt egy napban. Ez a megengedett maximum ezen időtartam alatt, így az erről a címről látogatók jelenleg nem hozhatnak létre újabb fiókokat.\n\nHa épp egy Wikimédiás témájú eseményen veszel részt, a megoldásért kérlek olvasd el az [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP-korlátozás ideiglenes emelése]] útmutatót.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(segítség)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nem látod a képet? [[{{MediaWiki:createacct-captcha-help-url}}|Fiók igénylése]]",
 	"wikimedia-centralauth-uwbr-intro": "Ez az oldal azokat a felhasználókat listázza, akik át lesznek nevezve  [[m:Single User Login finalisation announcement|az egységes bejelentkezés véglegesítésekor]]. További információkért lásd [[m:Help:Unified login|az egységes bejelentkezés ismertető lapját]]. Bármikor kérhetsz magadnak másik nevet  [[Special:GlobalRenameRequest|a globális átnevezési kérelmek lapján]].",

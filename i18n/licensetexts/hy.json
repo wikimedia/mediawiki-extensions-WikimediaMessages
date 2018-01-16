@@ -5,7 +5,8 @@
 			"Diebuche",
 			"Multichill",
 			"Xelgen",
-			"Vahe Gharakhanyan"
+			"Vahe Gharakhanyan",
+			"23artashes"
 		]
 	},
 	"wm-license-artwork-artist": "Նկարիչ",
@@ -45,6 +46,6 @@
 	"wm-license-self-one-license": "Ես, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում եմ հետևյալ արտոնագրի ներքո։",
 	"wm-license-self-one-license-with-author": "$1, սույն աշխատանքի հեղինակային իրավունքների տերը, այսուհետ այն հրատարակում է հետևյալ արտոնագրի պայմաններով՝",
 	"wm-license-self-multiple-licenses": "Ես, այս  աշխատանքի հեղինակային իրավունքների տերը, ներկա հրատարակում եմ սրա հետևյալ լիցենզիաների պայմաններով",
-	"wm-license-self-multiple-licenses-with-author": "$1, այս  աշխատանքի հեղինակային իրավունքների տերը, հրատարակել եմ կամ ներկա հրատարակում է սրա հետևյալ լիցենզիաների պայմաններով",
+	"wm-license-self-multiple-licenses-with-author": "$1, այս աշխատանքի հեղինակային իրավունքների տերը, կամավոր հրապարակում եմ այն հետևյալ լիցենզիաների պայմաններով.",
 	"wm-license-self-multiple-licenses-select": "Կարող եք ընտրել այս թույլատրագրերից ցանկացածը։"
 }
