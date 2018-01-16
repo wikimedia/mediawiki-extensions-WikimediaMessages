@@ -1269,10 +1269,11 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	private static function isOresAvailable() {
-		if ( !class_exists( 'ORES\\Hooks' ) ) {
+		if ( !class_exists( 'ORES\\Hooks\\Helpers' ) ) {
 			return false;
 		}
-		return ORES\Hooks::isModelEnabled( 'damaging' ) || ORES\Hooks::isModelEnabled( 'goodfaith' );
+		return ORES\Hooks\Helpers::isModelEnabled( 'damaging' ) ||
+			ORES\Hooks\Helpers::isModelEnabled( 'goodfaith' );
 	}
 
 	/**
