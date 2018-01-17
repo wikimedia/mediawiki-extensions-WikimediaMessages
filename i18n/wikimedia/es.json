@@ -223,6 +223,8 @@
 	"group-translationadmin": "Administradores de traducción",
 	"group-translationadmin-member": "{{GENDER:$1|administrador|administradora}} de traducción",
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de traducción",
+	"group-wmf-officeit": "TI del equipo de WMF",
+	"group-wmf-officeit-member": "{{GENDER:$1|TI del equipo de WMF}}",
 	"group-wmf-researcher": "Investigadores de la WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Investigador|Investigadora}} de la WMF",
 	"group-wmf-supportsafety": "Asistencia y Seguridad de WMF",
