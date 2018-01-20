@@ -270,7 +270,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''您的IP地址已经[[m:Special:MyLanguage/Global blocks|在所有维基网站被封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n您目前的IP地址是$6。请在您提出的任何质疑中包括以上所有信息。\n\n如果您认为您被错误地封禁，您可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''您的访问请求所使用的一个或多个代理服务器被[[m:Special:MyLanguage/Global blocks|全域封禁]]。'''\n\n该封禁是$1（$2）设置的。给出的原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n被封禁的代理服务器地址是$6。请在您提出的任何质疑中包括以上所有信息。\n\n如果您认为您被错误地封禁，您可以在[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针找到更多信息和指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论该封禁。",
 	"wikimedia-torblock-blocked": "您的IP地址<strong>$1</strong>已被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针。",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Terms_of_Use",
+	"wikimedia-mobile-terms-url": "https://m.wikimediafoundation.org/wiki/Terms_of_Use",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]",
 	"grant-checkuser": "访问用户查核数据",
 	"upload-form-label-own-work-message-commons": "我证明我拥有此文件的版权，并不可撤销地同意采用[https://creativecommons.org/licenses/by-sa/4.0/deed.zh 知识共享 署名-相同方式共享 4.0]许可协议将此文件发布至维基共享资源，并且我同意[https://wikimediafoundation.org/wiki/Terms_of_Use 使用条款]。",

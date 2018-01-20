@@ -96,7 +96,7 @@
 	"wikimedia-developers": "ผู้พัฒนา",
 	"wikimedia-globalblocking-ipblocked": "''ที่อยู่ IP ของคุณถูก [[m:Special:MyLanguage/Global blocks|บล็อคบนวิกิ]].'''\n\nบล็อคโดย $1 ($2).\nโดยให้เหตุผลว่า ''$3''.\n\n* วันที่เริ่มบล็อค: $4\n* วันสิ้นสุดการบล็อค: $5\n\nที่อยู่ IP ปัจจุบันของคุณคือ $6.\nโปรดระบุรายละเอียดด้านบนทั้งหมดหากคุณตั้งคำถาม\n\nหากคุณเชื่อว่าคุณถูกบล็อคเพราะความผิดพลาด คุณสามารถหาข้อมูลเพิ่มเติมในหน้านโยบาย[[m:Special:MyLanguage/No open proxies|ไม่มีพร็อกซีแบบเปิด]]\n\nมิฉะนั้น หากต้องการพูดคุยเกี่ยวกับการบล็อค โปรด[[m:Steward requests/Global|โพสขอการทบทวนบน Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "''ที่อยู่ IP ของคุณถูก [[m:Special:MyLanguage/Global blocks|บล็อคบนวิกิ]].'''\n\nบล็อคโดย $1 ($2).\nโดยให้เหตุผลว่า ''$3''.\n\n* วันที่เริ่มบล็อค: $4\n* วันสิ้นสุดการบล็อค: $5\n\nที่อยู่ IP ปัจจุบันของคุณคือ $6.\nโปรดระบุรายละเอียดด้านบนทั้งหมดหากคุณตั้งคำถาม\n\nหากคุณเชื่อว่าคุณถูกบล็อคเพราะความผิดพลาด คุณสามารถหาข้อมูลเพิ่มเติมในหน้านโยบาย[[m:Special:MyLanguage/No open proxies|ไม่มีพร็อกซีแบบเปิด]]\n\nมิฉะนั้น หากต้องการพูดคุยเกี่ยวกับการบล็อค โปรด[[m:Steward requests/Global|โพสขอการทบทวนบน Meta-Wiki]].",
-	"wikimedia-mobile-terms-url": "//m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/th",
+	"wikimedia-mobile-terms-url": "https://m.wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use/th",
 	"interlanguage-link-wikipedia": "วิกิพีเดีย",
 	"eri-rcfilters-beta-label": "ตัวกรองใหม่สำหรับการตรวจสอบการแก้ไข",
 	"eri-rcfilters-beta-description": "ตรวจสอบการแก้ไขในรายการปรับปรุงล่าสุดและรายการเฝ้าดูโดยใช้ส่วนติดต่อที่ใช้ง่ายและมีประสิทธิภาพมากขึ้น พร้อมตัวกรองใหม่ การเน้นสีที่กำหนดโดยผู้ใช้และการปรับปรุงอื่น ๆ อีกมากมาย",

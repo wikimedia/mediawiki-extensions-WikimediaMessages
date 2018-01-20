@@ -6,6 +6,6 @@
 		]
 	},
 	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
-	"wikimedia-flow-terms-of-use-new-topic": "بالضغط على \"{{int:flow-newtopic-save}}\"، فأنت توافق على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] الخاصة بنا وتوافق على نشر نصك بلا رجوع تحت [//creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-edit": "من خلال حفظ التغييرات، فإنك توافق على [//wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتوافق على نشرها دون رجعة تحت [//creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جنو]"
+	"wikimedia-flow-terms-of-use-new-topic": "بالضغط على \"{{int:flow-newtopic-save}}\"، فأنت توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] الخاصة بنا وتوافق على نشر نصك بلا رجوع تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "من خلال حفظ التغييرات، فإنك توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتوافق على نشرها دون رجعة تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جنو]"
 }
