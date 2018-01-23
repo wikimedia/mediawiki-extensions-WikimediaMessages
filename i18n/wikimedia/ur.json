@@ -71,6 +71,7 @@
 	"grouppage-engineer": "{{ns:project}}:انجینئر",
 	"group-eliminator": "ویکی بان",
 	"group-eliminator-member": "{{GENDER:$1|ویکی بان}}",
+	"grouppage-eliminator": "{{ns:project}}:ویکی بان",
 	"group-filemover": "ملف منتقل کرنے والے",
 	"group-filemover-member": "{{GENDER:$1|ملف منتقل کرنے والے}}",
 	"grouppage-filemover": "{{ns:project}}:ملف منتقل کرنے والے",
