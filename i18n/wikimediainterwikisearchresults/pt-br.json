@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"TheEduGobi"
+			"TheEduGobi",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"search-interwiki-results-abwiki": "Mostrando resultados da [[:ab:|Wikipédia abcázia]].",
 	"search-interwiki-results-acewiki": "Mostrando resultados da [[:ace:|Wikipédia achém]].",
+	"search-interwiki-results-adywiki": "A mostrar resultados da [[:ady:|Wikipédia em adigue]].",
 	"search-interwiki-results-afwiki": "Mostrando resultados da [[:af:|Wikipédia africâner]].",
+	"search-interwiki-results-akwiki": "A mostrar resultados da [[:ak:|Wikipédia em akan]].",
 	"search-interwiki-results-alswiki": "Mostrando resultados da [[:als:|Wikipédia alemânica]].",
 	"search-interwiki-results-amwiki": "Mostrando resultados da [[:am:|Wikipédia amárica]].",
 	"search-interwiki-results-angwiki": "Mostrando resultados da [[:ang:|Wikipédia anglo-saxônica]].",
@@ -16,6 +19,7 @@
 	"search-interwiki-results-arzwiki": "Mostrando resultados da [[:arz:|Wikipédia árabe-egípcia]].",
 	"search-interwiki-results-astwiki": "Mostrando resultados da [[:ast:|Wikipédia asturiana]].",
 	"search-interwiki-results-aswiki": "Mostrando resultados da [[:as:|Wikipédia assamesa]].",
+	"search-interwiki-results-atjwiki": "A mostrar resultados da [[:atj:|Wikipédia em atikamekw]].",
 	"search-interwiki-results-avwiki": "Mostrando resultados da [[:av:|Wikipédia avar]].",
 	"search-interwiki-results-aywiki": "Mostrando resultados da [[:ay:|Wikipédia aimará]].",
 	"search-interwiki-results-azwiki": "Mostrando resultados da [[:az:|Wikipédia azeri]].",
