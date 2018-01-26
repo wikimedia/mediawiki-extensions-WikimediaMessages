@@ -10,7 +10,8 @@
 			"Multichill",
 			"Omnipaedista",
 			"ZaDiak",
-			"Περίεργος"
+			"Περίεργος",
+			"Nikosgranturismogt"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:el:Creative Commons",
@@ -167,12 +168,16 @@
 	"wm-license-cc-by-sa-3.0-ph-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ph/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Φιλιππίνες]",
 	"wm-license-cc-by-sa-3.0-pl-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/pl/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Πολωνία]",
 	"wm-license-cc-by-sa-3.0-pr-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/pr/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Πουέρτο Ρίκο]",
+	"wm-license-cc-by-sa-3.0-pt-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/pt/1.0/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 3.0 Πορτογαλία]",
 	"wm-license-cc-by-sa-3.0-ro-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ro/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ρουμανία]",
 	"wm-license-cc-by-sa-3.0-rs-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/rs/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Σερβία]",
 	"wm-license-cc-by-sa-3.0-sg-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/sg/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Σιγκαπούρη]",
 	"wm-license-cc-by-sa-3.0-th-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/th/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ταϊλάνδη]",
 	"wm-license-cc-by-sa-3.0-tw-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/tw/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ταϊβάν]",
+	"wm-license-cc-by-sa-3.0-ug-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/ug/1.0/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 3.0 Ουγκάντα]",
 	"wm-license-cc-by-sa-3.0-us-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/us/deed.el Αναφορά προέλευσης - Παρόμοια διανομή 3.0 Ηνωμένες Πολιτείες Αμερικής]",
+	"wm-license-cc-by-sa-3.0-vn-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/vn/1.0/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 3.0 Βιετνάμ]",
+	"wm-license-cc-by-sa-4.0-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/4.0/deed.el Αναφορά προέλευσης-Παρόμοια διανομή 4.0 Διεθνής]",
 	"wm-license-cc-sa-1.0-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.en Παρόμοιας Διανομής  1.0 Γενικό]",
 	"wm-license-cc-sa-1.0-fi-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.el Αναφορά προέλευσης 1.0 Φινλανδία]",
 	"wm-license-cc-sa-1.0-nl-text": "Το αρχείο διανέμεται υπό την άδεια [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.en Αναφορά προέλευσης 1.0 Ολλανδία]",

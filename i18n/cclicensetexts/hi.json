@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Ansumang",
-			"Siddhartha Ghai"
+			"Siddhartha Ghai",
+			"Bhatakati aatma",
+			"Swapnil.Karambelkar"
 		]
 	},
 	"wm-license-cc-attribution": "एट्रीब्यूसन",
@@ -117,6 +119,7 @@
 	"wm-license-cc-by-sa-2.1-es-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/2.1/es/ एट्रीब्यूशन-शेयर एलाइक २.१ स्पेन] लाईसेंस ।",
 	"wm-license-cc-by-sa-2.1-jp-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/2.1/jp/ एट्रीब्यूशन-शेयर एलाइक २.१ जपान] लाईसेंस ।",
 	"wm-license-cc-by-sa-2.5-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/2.5/ एट्रीब्यूशन-शेयर एलाइक २.५ जेनेरिक] लाईसेंस ।",
+	"wm-license-cc-by-sa-2.5-2.0-1.0-text": "यह फाइल [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]]  एट्रिब्यूशन-सामान साझाकरण [https://creativecommons.org/licenses/by-sa/2.5/deed.en 2.5 Generic], [https://creativecommons.org/licenses/by-sa/2.0/deed.en 2.0 Generic] एवं [https://creativecommons.org/licenses/by-sa/1.0/deed.en 1.0 Generic]  के अंतर्गत लाइसेंस प्राप्त है।",
 	"wm-license-cc-by-sa-2.5-ar-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/2.5/ar/ एट्रीब्यूशन-शेयर एलाइक २.५ अर्जेंटीना] लाईसेंस ।",
 	"wm-license-cc-by-sa-2.5-au-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/2.5/au/ एट्रीब्यूशन-शेयर एलाइक २.५ ऑस्ट्रेलिया] लाईसेंस ।",
 	"wm-license-cc-by-sa-2.5-bg-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/2.5/bg/ एट्रीब्यूशन-शेयर एलाइक २.५ बुल्गारिया] लाईसेंस ।",
@@ -150,6 +153,7 @@
 	"wm-license-cc-by-sa-3.0-au-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/au/ एट्रीब्यूशन-शेयर एलाइक ३.० ऑस्ट्रेलिया] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-br-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/br/ एट्रीब्यूशन-शेयर एलाइक ३.० ब्राज़ील] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-cl-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/cl/ एट्रीब्यूशन-शेयर एलाइक ३.० चिली] लाईसेंस ।",
+	"wm-license-cc-by-sa-3.0-cn-text": "यह सञ्चिका [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/cn/deed.en Attribution-ShareAlike 3.0 China Mainland] के अंतर्गत लाइसेंस प्राप्त है।",
 	"wm-license-cc-by-sa-3.0-cr-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/cr/ एट्रीब्यूशन-शेयर एलाइक ३.० कोस्टा रिका] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-cz-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/cz/ एट्रीब्यूशन-शेयर एलाइक ३.० चेक गणराज्य] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-de-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/de/ एट्रीब्यूशन-शेयर एलाइक ३.० जर्मनी] लाईसेंस ।",
@@ -160,6 +164,7 @@
 	"wm-license-cc-by-sa-3.0-gt-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/gt/ एट्रीब्यूशन-शेयर एलाइक ३.० ग्वाटेमाला] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-hk-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/hk/ एट्रीब्यूशन-शेयर एलाइक ३.० हाँग काँग] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-hr-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/hr/ एट्रीब्यूशन-शेयर एलाइक ३.० क्रोएशिया] लाईसेंस ।",
+	"wm-license-cc-by-sa-3.0-igo-text": "यह सञ्चिका [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en Attribution-ShareAlike 3.0 IGO] के अंतर्गत लाइसेंस प्राप्त है।",
 	"wm-license-cc-by-sa-3.0-it-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/it/ एट्रीब्यूशन-शेयर एलाइक ३.० इटली] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-lu-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/lu/ एट्रीब्यूशन-शेयर एलाइक ३.० लक्ज़ेम्बर्ग] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-nl-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/nl/ एट्रीब्यूशन-शेयर एलाइक ३.० नेदरलांड्स] लाईसेंस ।",
@@ -172,7 +177,7 @@
 	"wm-license-cc-by-sa-3.0-rs-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/rs/ एट्रीब्यूशन-शेयर एलाइक ३.० सर्बिया] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-sg-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/sg/ एट्रीब्यूशन-शेयर एलाइक ३.० सिंगापुर] लाईसेंस ।",
 	"wm-license-cc-by-sa-3.0-th-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/th/ एट्रीब्यूशन-शेयर एलाइक ३.० थायलैंड] लाईसेंस ।",
-	"wm-license-cc-by-sa-3.0-tw-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/tw/ एट्रीब्यूशन-शेयर एलाइक ३.० ताइवान] लाईसेंस ।",
+	"wm-license-cc-by-sa-3.0-tw-text": "यह संचिका [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/tw/ एट्रीब्यूशन-शेयर एलाइक ३.० ताइवान] अनुज्ञापत्र के अंतर्गत है",
 	"wm-license-cc-by-sa-3.0-us-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/us/ एट्रीब्यूशन-शेयर एलाइक ३.० यूनाइटेड स्टेट्स] लाईसेंस ।",
 	"wm-license-cc-sa-1.0-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/sa/1.0/deed.en शेयर एलाइक १.० जेनेरिक] लाईसेंस ।",
 	"wm-license-cc-sa-1.0-fi-text": "यह फ़ाइल लाइसेंस्ड हैं इस अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/sa/1.0/fi/deed.en शेयर एलाइक १.० फिनलाँड़] लाईसेंस ।",
