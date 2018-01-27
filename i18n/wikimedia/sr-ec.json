@@ -13,7 +13,8 @@
 			"Сербијана",
 			"Obsuser",
 			"Prevodim",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Acamicamacaraca"
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
@@ -166,7 +167,7 @@
 	"upload-more-photos-of-this-monument": "Отпреми још фотографија овог споменика",
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-developers": "За програмере",
-	"wikimedia-globalblocking-ipblocked": "'''Ваша ИП адреса је [[m:Special:MyLanguage/Global blocks|блокирана на свим викијим]].'''\n\nБлокирао вас је $1 ($2).\nРазлог: ''$3''.\n\n* Почетак блокаде: $4\n* Крај блокаде: $5\n\nВаша тренутна ИП адреса је $6.\nЗа сваки евентуални захтев обавезно наведите податке изнад.\n\nАко мислите да сте блокирани грешком, више информација и упутства можете пронаћи на [[m:Special:MyLanguage/No open proxies|ОВОЈ]] страници.\nУ свим другим случајевима [[m:Steward requests/Global|поставите захтев за проверу]] на Мета викију.",
+	"wikimedia-globalblocking-ipblocked": "'''Ваша IP адреса је [[m:Special:MyLanguage/Global blocks|блокирана на свим викијима]].'''\n\nБлокирао вас је $1 ($2).\nРазлог: ''$3''.\n\n* Почетак блокаде: $4\n* Крај блокаде: $5\n\nВаша тренутна IP адреса је $6.\nЗа сваки евентуални захтев обавезно наведите податке изнад.\n\nАко мислите да сте блокирани грешком, више информација и упутства можете пронаћи на [[m:Special:MyLanguage/No open proxies|ОВОЈ]] страници.\nУ свим другим случајевима [[m:Steward requests/Global|поставите захтев за проверу]] на Мета викију.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Један или више посредничких (прокси) сервера које користите су [[m:Special:MyLanguage/Global blocks|блокирани на свим викијим]].'''\n\nБлокирао вас је $1 ($2).\nРазлог: ''$3''.\n\n* Почетак блокаде: $4\n* Крај блокаде: $5\n\nАдреса блокираног посредника је $6.\nЗа сваки евентуални захтев обавезно наведите податке изнад.\n\nАко мислите да сте блокирани грешком, више информација и упутства можете пронаћи на [[m:Special:MyLanguage/No open proxies|ОВОЈ]] страници.\nУ свим другим случајевима [[m:Steward requests/Global|поставите захтев за проверу]] на Мета викију.",
 	"wikimedia-oauth-privacy-link": "[https://wikimediafoundation.org/wiki/Privacy_policy Политика приватности]",
 	"interlanguage-link-mul": "Више језика",
