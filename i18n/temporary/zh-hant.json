@@ -6,12 +6,15 @@
 			"Cwlin0416",
 			"LNDDYL",
 			"Liuxinyu970226",
-			"Maskers"
+			"Maskers",
+			"Kly"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定臨時訊息",
 	"grouppage-oversight": "{{ns:project}}:監督",
 	"group-oversight": "監督員",
 	"group-oversight-member": "監督員",
-	"hello": "您好"
+	"hello": "您好",
+	"please-translate": "請協助翻譯成您使用的語言",
+	"thank-you": "{{GENDER:$1|感謝您。}}"
 }
