@@ -26,9 +26,9 @@
 	"group-transwiki": "ٽرانسوِڪي درآمديندڙ",
 	"grouppage-transwiki": "{{ns:project}}:ٽرانسوِڪي درآمديندڙ",
 	"group-global-ipblock-exempt": "عالمي آءِپي بندش ڇوٽون",
-	"group-massmessage-sender": "ججھا پيغام موڪليندڙ",
-	"group-massmessage-sender-member": "{{GENDER:$1|ججھا پيغام موڪليندڙ}}",
-	"grouppage-massmessage-sender": "{{ns:project}}:ججھا پيغام موڪليندڙ",
+	"group-massmessage-sender": "جھجھا نياپا موڪليندڙ",
+	"group-massmessage-sender-member": "{{GENDER:$1|جھجھا پيغام موڪليندڙ}}",
+	"grouppage-massmessage-sender": "{{ns:project}}:جھجھا نياپا موڪليندڙ",
 	"group-steward": "مختيارڪار",
 	"shared-repo-name-shared": "وڪيميڊيا العام",
 	"wikimedia-copyright": "هي متن موجود آهي <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ڪريئيٽو ڪامنز انتساب-ھڪجھڙي ڀاڱيداري لائسنس</a> جي ماتحت؛\nاضافي اصول لاڳو ٿي سگھن ٿا.\nوڌيڪ وضاحت لاءِ ڏسو <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">استعمال جا اصول</a>.",
@@ -64,6 +64,6 @@
 	"eri-rcfilters-tour-invite-yes-button": "نين ڇاڻين کي قابلِڪار بڻايو",
 	"eri-rcfilters-tour-invite-no-button": "نہ، مھرباني",
 	"eri-rcfilters-tour-confirm-title": "نيون ڇاڻيون ھاڻي قابلِڪار ڪيل آھن",
-	"securepoll-dblist-securepollglobal": "بورڊ چونڊَ",
+	"securepoll-dblist-securepollglobal": "بورڊ جي چونڊَ",
 	"wikimedia-cookiestatement": "ڪوڪي بيان"
 }

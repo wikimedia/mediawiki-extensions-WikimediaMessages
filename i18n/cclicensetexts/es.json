@@ -16,7 +16,8 @@
 			"Translationista",
 			"Macofe",
 			"Dgstranz",
-			"Indiralena"
+			"Indiralena",
+			"MarcoAurelio"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:es:Creative Commons",
@@ -178,10 +179,12 @@
 	"wm-license-cc-by-sa-3.0-ec-text": "Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ec/deed.es Attribution-Share Alike 3.0 Ecuador].",
 	"wm-license-cc-by-sa-3.0-ee-text": "Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ee/deed.es Attribution-ShareAlike 3.0 Estonia].",
 	"wm-license-cc-by-sa-3.0-es-text": "Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/es/deed.es Atribución/Compartir-Igual 3.0 España].",
+	"wm-license-cc-by-sa-3.0-fr-text": "Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en Atribución Compartir-Igual 3.0 Francia].",
 	"wm-license-cc-by-sa-3.0-gr-text": "Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/gr/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Grecia].",
 	"wm-license-cc-by-sa-3.0-gt-text": "Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/gt/deed.es Atribución/Compartir-Igual 3.0 Guatemala].",
 	"wm-license-cc-by-sa-3.0-hk-text": "Este archivo está autorizado bajo licencia [https://creativecommons.org/licenses//by-sa/3.0/hk/deed.es Reconocimiento-CompartirIgual 3.0 Hong Kong] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-by-sa-3.0-hr-text": "Este archivo está autorizado bajo licencia [https://creativecommons.org/licenses//by-sa/3.0/hr/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Croacia] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
+	"wm-license-cc-by-sa-3.0-igo-text": "Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en Atribución Compartir-Igual 3.0 IGO].",
 	"wm-license-cc-by-sa-3.0-it-text": "Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/it/deed.es Attribution-ShareAlike 3.0 Italia].",
 	"wm-license-cc-by-sa-3.0-lu-text": "Este archivo está autorizado bajo licencia [https://creativecommons.org/licenses/by-sa/3.0/lu/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Luxemburgo] de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-by-sa-3.0-nl-text": "Este archivo se encuentra bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/nl/deed.es Reconocimiento-Compartir bajo la misma licencia 3.0 Holanda].",
