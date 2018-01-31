@@ -142,6 +142,8 @@
 	"upload-form-label-own-work-message-commons": "Aš patvirtinu, kad man priklauso šio failo autorinės teisės ir sutinku neatšaukiamai išleisti šį failą į Wikimedia Commons su [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] licencija, ir aš sutinku su [https://wikimediafoundation.org/wiki/Terms_of_Use paslaugų teikimo sąlygomis].",
 	"upload-form-label-not-own-work-message-commons": "Jeigu Jums nepriklauso šio failo autorinės teisės arba Jūs norite išleisti jį su kitokia licencija, apsvarstykite naudojimą [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons įkėlimo vedlį].",
 	"upload-form-label-not-own-work-local-commons": "Jūs taip pat galite norėti išbandyti [[Special:Upload|{{SITENAME}} įkėlimo puslapį]], jeigu šis puslapis leidžia failų įkėlimą pagal jų politiką.",
+	"wikimediashoplink-linktext": "Vikipedijos parduotuvė",
+	"interlanguage-link-mul": "Daugiau kalbų",
 	"interlanguage-link-wikipedia": "Vikipedija",
 	"interlanguage-link-sitename-wikipedia": "Vikipedija, laisvoji enciklopedija",
 	"interlanguage-link-commons": "Vikiteka",
