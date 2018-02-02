@@ -1287,7 +1287,7 @@ class WikimediaMessagesHooks {
 		if ( !class_exists( 'GuidedTourHooks' ) ) {
 			return;
 		}
-		$title = $special->getTitle();
+		$title = $special->getPageTitle();
 		$user = $special->getUser();
 		$out = $special->getOutput();
 
