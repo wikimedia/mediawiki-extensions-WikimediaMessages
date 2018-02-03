@@ -50,7 +50,6 @@
 	},
 	"ResourceModules": {
 		"ext.wikimediamessages.contactpage.affcomusergroup": {
-			"position": "top",
 			"styles": "ext.wikimediamessages.contactpage.affcomusergroup.css"
 		}
 	},
