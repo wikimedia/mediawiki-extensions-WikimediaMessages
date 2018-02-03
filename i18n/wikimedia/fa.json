@@ -173,7 +173,7 @@
 	"group-global-flow-create-member": "{{GENDER:$1|ایجاد کنندگان سراسری فلو}}",
 	"group-global-ipblock-exempt": "معافیت‌های سراسری از قطع دسترسی آی‌پی",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|معاف سراسری از قطع دسترسی آی‌پی}}",
-	"group-global-interface-editor": "ویرایشسگران رابط کاربری",
+	"group-global-interface-editor": "ویرایشگران رابط کاربری",
 	"group-global-interface-editor-member": "{{GENDER:$1|ویرایشگران رابط کاربری}}",
 	"group-global-renamer": "تغییرنام‌دهنده‌های سراسری",
 	"group-global-renamer-member": "{{GENDER:$1|تغییرنام‌دهنده سراسری}}",
