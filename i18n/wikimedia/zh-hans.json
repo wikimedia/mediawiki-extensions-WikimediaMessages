@@ -227,6 +227,8 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Support and Safety",
 	"tag-emoji": "绘文字",
 	"tag-emoji-description": "由全域防滥用过滤器110所使用。",
+	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB-description": "通过[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]做出的编辑",
 	"search-interwiki-custom": "wikt:来自维基词典\nb:来自维基教科书\nn:来自维基新闻\nq:来自维基语录\ns:来自维基文库\nv:来自维基学院\nvoy:来自维基导游",
 	"shared-repo-name-shared": "维基共享资源",
 	"wikimedia-copyright": "本网站文字内容采用<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh\">知识共享“署名-相同方式共享”许可协议</a>授权，可能需实行附加条款。详情请见<a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">使用条款</a>。",

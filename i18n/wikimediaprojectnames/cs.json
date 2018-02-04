@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Ilimanaq29"
 		]
 	},
+	"project-localized-name-atjwiki": "Atikamekská Wikipedie",
 	"project-localized-name-cswiki": "Česká Wikipedie",
 	"project-localized-name-cswiktionary": "Český Wikislovník",
 	"project-localized-name-cswikibooks": "České Wikiknihy",

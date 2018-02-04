@@ -16,7 +16,8 @@
 			"MaGa",
 			"Srdjan m",
 			"Janezdrilc",
-			"Ivi104"
+			"Ivi104",
+			"Zoranzoki21"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -189,6 +190,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|član tima za podršku i sigurnost Zaklade Wikimedija|članica tima za podršku i sigurnost Zaklade Wikimedija}}",
 	"tag-emoji": "smješci emoji",
 	"tag-emoji-description": "U uporabi: globalni filtar zloporaba 110.",
+	"tag-AWB": "[[:w:hr:Wikipedija:AWB|AutoWikiBrowser]]",
 	"search-interwiki-custom": "wikt:Iz Wječnika\nb:Iz Wikiknjiga\nn:Iz Wijesti\nq:Iz Wikicitata\ns:Iz Wikizvora\nv:Iz Wikiučilišta\nvoy:Iz Wikiputovanja",
 	"shared-repo-name-shared": "Zajednički poslužitelj",
 	"wikimedia-copyright": "Tekst je dostupan pod licencijom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Imenovanje/Dijeli pod istim uvjetima</a>; dodatni uvjeti se mogu primjenjivati. Pogledajte <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Uvjete uporabe</a> za detalje.",
