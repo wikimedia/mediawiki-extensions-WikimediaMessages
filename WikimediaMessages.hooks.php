@@ -1269,7 +1269,7 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	private static function isOresAvailable() {
-		if ( !class_exists( 'ORES\\Hooks\\Helpers' ) ) {
+		if ( !ExtensionRegistry::getInstance()->isLoaded( 'ORES' ) ) {
 			return false;
 		}
 		return ORES\Hooks\Helpers::isModelEnabled( 'damaging' ) ||
@@ -1284,7 +1284,7 @@ class WikimediaMessagesHooks {
 	 * @param ChangesListSpecialPage $special Special page
 	 */
 	public static function onChangesListSpecialPageStructuredFilters( $special ) {
-		if ( !class_exists( 'GuidedTourHooks' ) ) {
+		if ( !ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
 			return;
 		}
 		$title = $special->getPageTitle();
@@ -1328,7 +1328,7 @@ class WikimediaMessagesHooks {
 			// And is not activated for the user for beta
 			!$user->getOption( 'rcenhancedfilters' ) &&
 			// And beta exists
-			class_exists( 'BetaFeatures' ) &&
+			ExtensionRegistry::getInstance()->isLoaded( 'BetaFeatures' ) &&
 			// And the user hasn't seen the tours yet
 			!$user->getOption( 'rcenhancedfilters-seen-invite' ) &&
 			!$user->getOption( 'rcenhancedfilters-seen-tour' )
@@ -1343,7 +1343,7 @@ class WikimediaMessagesHooks {
 	 * @return true
 	 */
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
-		if ( class_exists( 'GuidedTourHooks' ) ) {
+		if ( ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersBeta', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
