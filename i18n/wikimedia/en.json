@@ -198,6 +198,8 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Support and Safety",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Used by global abuse filter 110.",
+	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB-description": "Edits made with [[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
