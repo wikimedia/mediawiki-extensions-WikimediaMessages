@@ -3,10 +3,12 @@
 		"authors": [
 			"Obaid Raza",
 			"Muhammad Shuaib",
-			"Hindustanilanguage"
+			"Hindustanilanguage",
+			"BukhariSaeed"
 		]
 	},
 	"project-localized-name-bhwiki": "بہاری ویکیپیڈیا",
 	"project-localized-name-hifwiktionary": "فجی ہندی ویکی لغت",
-	"project-localized-name-urwiki": "اردو ویکیپیڈیا"
+	"project-localized-name-urwiki": "اردو ویکیپیڈیا",
+	"project-localized-name-commonswiki": "ویکیمیڈیا کامنز"
 }
