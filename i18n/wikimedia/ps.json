@@ -58,6 +58,7 @@
 	"grouppage-wikidata-staff": "{{ns:project}}:د ويکيډاټا د املې غړي",
 	"group-global-bot": "نړيوال روباټ",
 	"group-global-bot-member": "{{GENDER:$1|نړېوال روباټ}}",
+	"group-global-renamer": "نړیوال نوم بدلونکي",
 	"group-global-sysop": "نړېوال پازوالان",
 	"group-global-sysop-member": "{{GENDER:$1|نړېوال پازوال}}",
 	"group-staff": "امله",
