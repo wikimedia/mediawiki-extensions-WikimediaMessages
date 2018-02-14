@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Malafaya",
-			"Stavanger7"
+			"Stavanger7",
+			"Fanjiayi"
 		]
 	},
 	"sitesupport": "Donationes",
 	"tooltip-n-sitesupport": "Alimenta nos",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikimedia-developers": "Developatores"
 }

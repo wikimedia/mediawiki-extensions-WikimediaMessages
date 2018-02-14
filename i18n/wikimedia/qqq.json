@@ -28,7 +28,8 @@
 			"Macofe",
 			"Pxos",
 			"Hamilton Abreu",
-			"Trizek (WMF)"
+			"Trizek (WMF)",
+			"MarcoAurelio"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -69,7 +70,7 @@
 	"group-abusefilter-helper": "{{doc-group|abusefilter-helper}}",
 	"group-abusefilter-helper-member": "{{doc-group|abusefilter-helper|member}}",
 	"grouppage-abusefilter-helper": "{{doc-group|abusefilter-helper|page}}",
-	"group-accountcreator": "{{doc-group|accountcreator}}\nA specific group of the English Wikipedia; see [[wikipedia:Special:ListUsers/accountcreator]].",
+	"group-accountcreator": "{{doc-group|accountcreator}}",
 	"group-accountcreator-member": "{{doc-group|accountcreator|member}}",
 	"grouppage-accountcreator": "{{doc-group|accountcreator|page}}",
 	"group-arbcom": "{{doc-group|arbcom}}",
