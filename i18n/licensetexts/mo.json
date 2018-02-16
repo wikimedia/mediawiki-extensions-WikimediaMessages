@@ -5,5 +5,7 @@
 		]
 	},
 	"wm-license-information-description": "Дескриере",
+	"wm-license-information-source": "Сурсэ",
+	"wm-license-information-date": "Датэ",
 	"wm-license-information-author": "Аутор"
 }
