@@ -27,7 +27,8 @@
 			"Bowleerin",
 			"飞舞回堂前",
 			"Wwycheuk",
-			"A2093064"
+			"A2093064",
+			"Hello903hello"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -46,7 +47,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "此文章由其他 {{SITENAME}} 的使用者標示為有待改善的頁面。\n您不必成為該主題的專家才能協助改善。",
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "此文章的這些橫幅有問題存在。 您不必解決所有問題，只需要解決您方便進行的部份。",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "編輯整篇文章...",
-	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "點選 \"$1\" 來變更文章內的任何內容。",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "點選「$1」來變更文章內的任何內容。",
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "您現在可以編輯文章的內容。當您完成了編輯，點選 \"{{int:visualeditor-toolbar-savedialog}}\" 來複查並儲存您的變更。",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "點選 \"{{int:showpreview}}\"，可讓您檢視經過您更改後的文章。 注意，別忘了儲存。",
 	"gettingstarted-cta-edit-page-wikipedia": "編輯此文章",
