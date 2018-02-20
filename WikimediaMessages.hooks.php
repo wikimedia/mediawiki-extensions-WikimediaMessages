@@ -436,25 +436,25 @@ class WikimediaMessagesHooks {
 			],
 			// instrumental
 			'instrumental' => [
-				'Vikirječnik' => 's Wikirječnikom',
-				'Wikicitati'  => 's Wikicitatima',
-				'Wikiizvor'   => 's Wikiizvorom',
-				'Wikiknjige'  => 's Wikiknjigama',
-				'Wikipedia'   => 's Wikipedijom', // T130141
-				'Wikipodaci'  => 's Wikipodacima',
-				'Wikivijesti' => 's Wikivijestima',
-				'Wikimedia Commons' => 's Wikimedia Commonsom',
+				'Vikirječnik' => 'Wikirječnikom',
+				'Wikicitati'  => 'Wikicitatima',
+				'Wikiizvor'   => 'Wikiizvorom',
+				'Wikiknjige'  => 'Wikiknjigama',
+				'Wikipedia'   => 'Wikipedijom', // T130141
+				'Wikipodaci'  => 'Wikipodacima',
+				'Wikivijesti' => 'Wikivijestima',
+				'Wikimedia Commons' => 'Wikimedia Commonsom',
 			],
 			// locative
 			'lokativ' => [
-				'Vikirječnik' => 'o Wikirječniku',
-				'Wikicitati'  => 'o Wikicitatima',
-				'Wikiizvor'   => 'o Wikiizvoru',
-				'Wikiknjige'  => 'o Wikiknjigama',
-				'Wikipedia'   => 'o Wikipediji',
-				'Wikipodaci'  => 'o Wikipodacima',
-				'Wikivijesti' => 'o Wikivijestima',
-				'Wikimedia Commons' => 'o Wikimedia Commonsu',
+				'Vikirječnik' => 'Wikirječniku',
+				'Wikicitati'  => 'Wikicitatima',
+				'Wikiizvor'   => 'Wikiizvoru',
+				'Wikiknjige'  => 'Wikiknjigama',
+				'Wikipedia'   => 'Wikipediji',
+				'Wikipodaci'  => 'Wikipodacima',
+				'Wikivijesti' => 'Wikivijestima',
+				'Wikimedia Commons' => 'Wikimedia Commonsu',
 			],
 		]; // bs
 
