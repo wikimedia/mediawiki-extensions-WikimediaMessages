@@ -41,7 +41,7 @@
 	"group-inactive": "يوزرات مش ناشطين",
 	"group-inactive-member": "يوزر مش نشيط",
 	"grouppage-inactive": "{{ns:project}}:يوزرات مش نشطين",
-	"group-ipblock-exempt": "مستثنيين من منع الااى بى",
+	"group-ipblock-exempt": "مستثنيين من منع الاى بى",
 	"group-ipblock-exempt-member": "{{GENDER:$1|مستثنى من بلوك الايبى|مستثناه من بلوك الايبى}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:استثناء من منع الاى بى",
 	"group-patroller": "مراجعون",
