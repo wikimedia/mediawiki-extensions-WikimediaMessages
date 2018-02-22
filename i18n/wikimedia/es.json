@@ -183,6 +183,8 @@
 	"group-centralnoticeadmin": "Administradores de aviso central",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|administrador de aviso central|administradora de aviso central}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:administradores de aviso central",
+	"group-curator": "Curadores",
+	"group-curator-member": "{{GENDER:$1|curador|curadora}}",
 	"group-global-bot": "Bots globales",
 	"group-global-bot-member": "{{GENDER:$1|bot global}}",
 	"group-global-flow-create": "Creadores globales de Flow",
