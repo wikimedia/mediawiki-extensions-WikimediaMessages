@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Атрибутлав",
+	"wm-license-cc-by-sa-3.0-text": "Бу саплам  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] гёре лицензиялы.",
 	"wm-license-cc-free": "Сен эркин кюйде боласан:",
 	"wm-license-cc-free-to-share-header": "пайлашмагъа",
 	"wm-license-cc-free-to-share-text": "бу асарны кёплемек, яймакъ ва йибермек",
@@ -13,5 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "дёндюрмеге",
 	"wm-license-cc-conditions": "Гелеген усуллагъа гёре:",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
-	"wm-license-cc-conditions-share_alike-header": "шо кюйде шартлагъа гёре яйыв"
+	"wm-license-cc-conditions-attribution-text": "Муаллиф яда лицензиячы белгилеген кююне гёре асарны такъма борчлусан (амма сени асарынг яда сен оланы асарын къоллайгъанынг къабул этивюню яда таклифге чыгъарагъанын гьеч бир ёл булан ойгъа салмай).",
+	"wm-license-cc-conditions-share_alike-header": "шо кюйде шартлагъа гёре яйыв",
+	"wm-license-cc-conditions-share_alike-text": "Эгер янгы тувулунгъан асарны ярата бусанг, яда алышдыра бусанг яда янгырта тура бусанг, натижада ясалгъан асарны тек алда болгъан лицензияны шартлагъа гёре яда огъаг расланагъан оьзге лицензияны шартлагъа гёре яйып боласан."
 }

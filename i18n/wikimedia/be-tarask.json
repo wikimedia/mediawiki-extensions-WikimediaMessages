@@ -62,7 +62,7 @@
 	"grouppage-filemover": "{{ns:project}}:Пераносчыкі файлаў",
 	"group-flood": "Псэўдаробаты",
 	"group-flood-member": "{{GENDER:$1|псэўдаробат}}",
-	"grouppage-flood": "{{ns:project}}:Робаты",
+	"grouppage-flood": "{{ns:project}}:Псэўдаробаты",
 	"group-founder": "Фундатары",
 	"group-founder-member": "{{GENDER:$1|фундатар|фундатарка}}",
 	"grouppage-founder": "{{ns:project}}:Фундатары",

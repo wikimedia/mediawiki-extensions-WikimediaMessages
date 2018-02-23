@@ -11,7 +11,8 @@
 			"Obsuser",
 			"Bugoslav",
 			"Prevodim",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Mouse21"
 		]
 	},
 	"wikimediamessages-desc": "Poruke specifične za Vikimediju.",
@@ -124,7 +125,7 @@
 	"group-translationadmin": "Prevodilački administratori",
 	"group-translationadmin-member": "{{GENDER:$1|prevodilački administrator|prevodilačka administratorka|prevodilački administrator}}",
 	"grouppage-translationadmin": "{{ns:project}}:Prevodilački administratori",
-	"tag-AWB": "[[:w:sr:Vikipedija:AWB|Autovikibrauzer]]",
+	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|Autovikibrauzer]]",
 	"shared-repo-name-shared": "Vikimedijina ostava",
 	"wikimedia-copyright": "Tekst je dostupan pod licencom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Krijejtiv komons Autorstvo—Deliti pod istim uslovima</a>;\nmogući su i dodatni uslovi.\nPogledajte <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">uslove korišćenja</a> za više informacija.",
 	"wikidata-copyright": "Svi strukturisani podaci iz glavnog i svojstva imenskog prostora su dostupni pod licencom <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0</a>; tekst iz drugih imenskih prostora je dostupan pod licencom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Creative Commons Autorstvo-Deliti pod istim uslovima 3.0</a>; mogući su i dodatni uslovi. Pogledajte <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">uslove korišćenja</a> za više informacija.",

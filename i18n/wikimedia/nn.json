@@ -62,7 +62,7 @@
 	"group-inactive-member": "{{GENDER:$1|ikkje-aktiv brukar}}",
 	"grouppage-inactive": "{{ns:project}}:Ikkje-aktive brukarar",
 	"group-ipblock-exempt": "Unnatekne frå IP-blokkering",
-	"group-ipblock-exempt-member": "{{GENDER:$1|unnateke frå IP-blokkering}}",
+	"group-ipblock-exempt-member": "{{GENDER:$1|unnateken frå IP-blokkering}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Unnatekne frå IP-blokkering",
 	"group-patroller": "Patruljørar",
 	"group-patroller-member": "{{GENDER:$1|patruljør}}",

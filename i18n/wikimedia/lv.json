@@ -6,7 +6,8 @@
 			"Xil",
 			"Yyy",
 			"Nemo bis",
-			"Edgars2007"
+			"Edgars2007",
+			"Mouse21"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia raksturīgi paziņojumi",
@@ -68,8 +69,8 @@
 	"group-steward": "Sistēmas pārvaldnieki",
 	"grouppage-steward": "{{ns:project}}:Sistēmas pārvaldnieki",
 	"group-sysadmin": "Sistēmas administratori",
-	"tag-AWB": "[[lv:w:Vikipēdija:AutoWikiBrowser|AutoWikiBrowser]]",
-	"tag-AWB-description": "Labojumi, kas veikti ar [[lv:w:Vikipēdija:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB-description": "Labojumi, kas veikti ar [[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"shared-repo-name-shared": "''Wikimedia Commons''",
 	"wikimedia-copyright": "Teksts ir pieejams saskaņā ar <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike licenci</a>;\nvar pastāvēt papildus ierobežojumi.\nPlašākai informācijai skatīt <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">lietošanas noteikumus</a>.",
 	"wikimedia-copyrightwarning": "Saglabājot izmaiņas, jūs piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike 3.0] un [https://www.gnu.org/copyleft/fdl.html GFDL] licenci.\nJūs piekrītat, ka satura izmantotāji uz jūsu darbu atsauksies vismaz ar saiti uz lapu, kurā jūs veicat izmaiņas.\nPlašākai informācijai skatīt [https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use Lietošanas noteikumus].",
