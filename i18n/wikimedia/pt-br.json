@@ -172,6 +172,7 @@
 	"group-centralnoticeadmin": "Administradores de avisos centrais",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|administrador|administradora|administrador(a)}} de avisos centrais",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administradores de avisos centrais",
+	"group-curator": "Curadores",
 	"group-curator-member": "{{GENDER:$1|curador|curadora}}",
 	"grouppage-curator": "{{ns:project}}:Curadores",
 	"group-global-bot": "Robôs globais",
