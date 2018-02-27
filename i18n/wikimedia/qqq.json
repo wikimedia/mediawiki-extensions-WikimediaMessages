@@ -169,7 +169,7 @@
 	"group-centralnoticeadmin": "{{doc-group|centralnoticeadmin}}",
 	"group-centralnoticeadmin-member": "{{doc-group|centralnoticeadmin|member}}",
 	"grouppage-centralnoticeadmin": "{{doc-group|centralnoticeadmin|page}}",
-	"group-curator": "{{doc-group|curator}}\n{{Identical|Curator}}",
+	"group-curator": "See [[:wikiversity:Wikiversity:Curators]].\n\n{{doc-group|curator}}\n{{Identical|Curator}}",
 	"group-curator-member": "{{doc-group|curator|member}}\n{{Identical|Curator}}",
 	"grouppage-curator": "{{doc-group|curator|page}}",
 	"group-global-bot": "{{doc-group|global-bot}}",
