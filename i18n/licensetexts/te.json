@@ -5,7 +5,8 @@
 			"RanjithSutari",
 			"Ravichandra",
 			"Veeven",
-			"రహ్మానుద్దీన్"
+			"రహ్మానుద్దీన్",
+			"Arjunaraoc"
 		]
 	},
 	"wm-license-attribution-with-author-text": "కాపీహక్కుదారునికి సరైన శ్రేయస్సునిస్తూ ఈ దస్త్రాన్ని '''ఏ ఉద్దేశానికైనా''' ఉపయోగించుకునేందుకు ఈ దస్త్రం యొక్క కాపీహక్కుదారు, $1, ఎవరికైనా అనుమతిస్తున్నారు.\nపునఃపంపిణీ, వ్యుత్పన్న కృతులు, వాణిజ్యపరమైన వాడుకలు, మరియు ఇతర వాడుకలు అనుమతించబడతాయి.",
@@ -18,6 +19,8 @@
 	"wm-license-artwork-object-history": "వస్తు చరిత్ర",
 	"wm-license-artwork-inscriptions": "రాతలు",
 	"wm-license-artwork-notes": "గమనికలు",
+	"wm-license-book-editor": "ఎడిటర్",
+	"wm-license-book-illustrator": "చిత్రకర్త",
 	"wm-license-book-language": "భాష",
 	"wm-license-book-place-of-publication": "ప్రచురణ ప్రాంతం",
 	"wm-license-book-printer": "ముద్రణ",

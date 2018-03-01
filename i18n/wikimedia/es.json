@@ -47,7 +47,8 @@
 			"Savh",
 			"Peter Bowman",
 			"Vogone",
-			"KATRINE1992"
+			"KATRINE1992",
+			"PoLuX124"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -306,6 +307,7 @@
 	"restriction-level-editextendedsemiprotected": "autopatroller protegido",
 	"eri-rcfilters-beta-label": "Nuevos filtros de revisión de ediciones",
 	"eri-rcfilters-beta-description": "Revisa las ediciones en Cambios Recientes y en tu lista de seguimiento mediante una interfaz más fácil y más potente. Incluye nuevos filtros, opciones de resaltado configurables y otras mejoras.",
+	"eri-rcfilters-beta-description-ores": "Permite revisar ediciones en la lista de seguimiento, usando una interfaz más fácil y más potente con muchas nuevas herramientas, incluyendo los filtros predictivos provistos por [[mw:Special:MyLanguage/ORES|ORES]], un programa de aprendizaje automático.",
 	"eri-rcfilters-tour-welcome-title": "Presentamos los nuevos filtros de revisión de ediciones (beta)",
 	"eri-rcfilters-tour-welcome-button": "Entendido",
 	"eri-rcfilters-tour-intro-welcome-title": "Te damos la bienvenida al filtrado mejorado de Cambios recientes",
