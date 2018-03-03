@@ -33,7 +33,8 @@
 			"Arthur2e5",
 			"Wmr",
 			"A2093064",
-			"NeverBehave"
+			"NeverBehave",
+			"WQL"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -114,7 +115,7 @@
 	"group-mover": "移动者",
 	"group-mover-member": "{{GENDER:$1|移动者}}",
 	"grouppage-mover": "{{ns:project}}:移动者",
-	"group-flood": "假机器人",
+	"group-flood": "伪机器人",
 	"group-flood-member": "{{GENDER:$1|假机器人}}",
 	"grouppage-flood": "{{ns:project}}:假机器人",
 	"group-founder": "创始人",

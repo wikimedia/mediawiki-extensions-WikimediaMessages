@@ -98,7 +98,7 @@
 	"group-mover": "移動人員",
 	"group-mover-member": "{{GENDER:$1|移動人員}}",
 	"grouppage-mover": "{{ns:project}}:移動人員",
-	"group-flood": "機器使用者",
+	"group-flood": "偽機器人",
 	"group-flood-member": "{{GENDER:$1|機器使用者}}",
 	"grouppage-flood": "{{ns:project}}:機器使用者",
 	"group-founder": "創辦人",
