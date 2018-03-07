@@ -41,7 +41,7 @@
 	"group-arbcom": "अरबीट्रेसन कमिटी सदस्य",
 	"group-arbcom-member": "{{GENDER:$1|अरबीट्रेसन कमिटी सदस्य}}",
 	"grouppage-arbcom": "{{ns:project}}:अरबीट्रेसन कमिटी सदस्य",
-	"group-autopatrolled": "स्वसमीक्षक",
+	"group-autopatrolled": "स्वतः परीक्षित सदस्य",
 	"group-autopatrolled-member": "{{GENDER:$1|स्वतः परीक्षित सदस्य}}",
 	"grouppage-autopatrolled": "{{ns:project}}:स्वतः परीक्षित सदस्य",
 	"group-autoreviewer": "स्वचालित समीक्षक",

@@ -126,7 +126,7 @@
 	"group-centralnoticeadmin": "Správci centralizovaných oznámení",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Správce|Správkyně}} centralizovaných oznámení",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Správci centralizovaných oznámení",
-	"group-curator-member": "{{GENDER:$1|Kurátor|Kurátorka}}",
+	"group-curator-member": "{{GENDER:$1|kurátor|kurátorka}}",
 	"grouppage-curator": "{{ns:project}}:Kurátoři",
 	"group-global-bot": "Globální roboti",
 	"group-global-bot-member": "globální {{GENDER:$1|robot|robotka}}",
