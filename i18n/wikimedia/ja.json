@@ -35,7 +35,8 @@
 			"Suchichi02",
 			"Delim",
 			"Hinaloe",
-			"Afaz"
+			"Afaz",
+			"AndyAndyAndyAlbert"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -89,9 +90,9 @@
 	"group-filemover": "ファイル移動者",
 	"group-filemover-member": "{{GENDER:$1|ファイル移動者}}",
 	"grouppage-filemover": "{{ns:project}}:ファイル移動者",
-	"group-flood": "Pseudobots",
-	"group-flood-member": "{{GENDER:$1|pseudobot}}",
-	"grouppage-flood": "{{ns:project}}:Pseudobots",
+	"group-flood": "大量処理フラグ",
+	"group-flood-member": "{{GENDER:$1|大量処理フラグ}}",
+	"grouppage-flood": "{{ns:project}}:大量処理フラグ",
 	"group-founder": "創設者",
 	"group-founder-member": "{{GENDER:$1|創設者}}",
 	"grouppage-founder": "{{ns:project}}:創設者",

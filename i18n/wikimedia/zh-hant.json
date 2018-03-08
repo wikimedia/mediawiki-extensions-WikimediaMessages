@@ -29,7 +29,8 @@
 			"Wwycheuk",
 			"A2093064",
 			"Hello903hello",
-			"Justincheng12345"
+			"Justincheng12345",
+			"AndyAndyAndyAlbert"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -109,8 +110,8 @@
 	"group-mover": "移動人員",
 	"group-mover-member": "{{GENDER:$1|移動人員}}",
 	"grouppage-mover": "{{ns:project}}:移動人員",
-	"group-flood": "偽機器人",
-	"group-flood-member": "{{GENDER:$1|偽機器人}}",
+	"group-flood": "機器用戶",
+	"group-flood-member": "{{GENDER:$1|機器用戶}}",
 	"grouppage-flood": "{{ns:project}}:偽機器人",
 	"group-founder": "創辦人",
 	"group-founder-member": "{{GENDER:$1|創辦人}}",
