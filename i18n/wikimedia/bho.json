@@ -3,7 +3,8 @@
 		"authors": [
 			"Ganesh",
 			"Nepaboy",
-			"SatyamMishra"
+			"SatyamMishra",
+			"Sfic"
 		]
 	},
 	"sitesupport": "दान करीं",
@@ -11,11 +12,14 @@
 	"group-accountcreator": "खाता बनावे वाला",
 	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के तहत  उपलब्ध बा; अउरी शर्त भी लागू हो सकत बा।\nढेर जानकारी खातिर <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोग के शर्त</a> देखीं।",
 	"wikimedia-copyrightwarning": "बदलाव सहेजे के मतलब बा आप [https://wikimediafoundation.org/wiki/Terms_of_Use इस्तेमाल की सगरी शर्त] के मानत बानीं, आप वादा से पाछे हटब कि आपन योगदान के [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] आ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] की तहत जारी करे खातिर सनमत बानी।\nआप सहमत बानी कि खाली हाइपरलिंक या यूआरयल Creative Commons license की तहत श्रेय देवे खातिर काफी बाटे।",
+	"wikibase-repo-name": "विकिडेटा",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "विकिकोट",
 	"wikibase-sitelinks-wikisource": "विकिसोर्स",
 	"wikibase-sitelinks-wikivoyage": "विकीवॉयेज",
+	"wikibase-otherprojects-testwikidata": "विकिडेटा",
 	"wikibase-otherprojects-wikidata": "विकिडेटा",
+	"wikibase-sitelinks-sitename-wikidatawiki": "विकिडेटा",
 	"wikimedia-developers": "डेवलपर लोग",
 	"wikimedia-globalblocking-ipblocked": "'''राउर आइपी पता के [[m:Special:MyLanguage/Global blocks|सगरी विकि पर रोक दिहल गइल बा]]।'''\n\nई ब्लॉक $1 ($2) द्वारा लगावल गइल।\nकारण बतावल गइल बा: ''$3''।\n\n* रोक के सुरुआत: $4\n* रोक के समाप्ती होखी: $5\n\nराउर वर्तमान आइपी पता $6 बा।\nअगर कौनो पूछताछ करीं तब ऊपर बतावल जानकारी शामिल करीं।\n\nअगर आपके बुझाता कि गलती से रउराँ के ब्लॉक क दिहल गइल बा, अउरी जानकारी आ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|No open proxies]] के बैस्विक नीति में मिली।\nनाहीं त, एह ब्लॉक पर चर्चा करे खातिर [[m:Steward requests/Global|मेटा विकि पर समीक्षा के अनुरोध करीं]]।",
 	"wikimedia-globalblocking-ipblocked-xff": "आपके अनुरोध द्वारा इस्तेमाल होखे वाला एक ठो भा अधिका प्रॉक्सी सर्वर [[m:Special:MyLanguage/Global blocks|बैस्विक रूप से ब्लॉक बा]]।'''\n\nई ब्लॉक $1 ($2) द्वारा लगावल गइल।\nकारण बतावल गइल बा: ''$3''।\n\n* रोक के सुरुआत: $4\n* रोक के समाप्ती होखी: $5\n\nब्लॉक कइल प्रॉक्सी पता $6 रहल।\nअगर कौनो पूछताछ करीं तब ऊपर बतावल सगरी जानकारी शामिल करीं।\n\nअगर आपके बुझाता कि गलती से रउराँ के ब्लॉक क दिहल गइल बा, अउरी जानकारी आ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|खुला प्रॉक्सी ना]] के बैस्विक नीति पर मिल सकत बा।\nनाही त, एह ब्लॉक पर चर्चा करे खातिर [[m:Steward requests/Global|मेटा विकि पर समीक्षा के अनुरोध करीं]]।"
