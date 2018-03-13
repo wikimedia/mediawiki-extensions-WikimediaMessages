@@ -4,7 +4,8 @@
 			"Asoxor",
 			"Calak",
 			"Lost Whispers",
-			"Épine"
+			"Épine",
+			"Muhammed taha"
 		]
 	},
 	"wm-license-artwork-artist": "ھونەرمەند",
@@ -34,7 +35,7 @@
 	"wm-license-creator-location-of-birth-and-death": "شوێنی لەدایکبوون/مردن",
 	"wm-license-creator-work-location": "شوێنی بەرھەم",
 	"wm-license-free-software-wiki-link": "w:ckb:نەرمەکاڵا خۆڕاییەکان",
-	"wm-license-gfdl-1.2-and-later": "ڕێگە دراوە بە لەبەرگرتنەوە، دابەشکردن ھەروەھا/یان سازاندنی ئەم دۆکیومێنتە لەژێر مەرجی '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation بەڵگەنامە]]'''، وەشانی ١.٢ یان ھەر وەشانێکی تری دواتر کە بڵاوکراوەتەوە لەلایەن [[{{int:wm-license-fsf-wiki-link}}|بەرنامەی دامەزراوەی خۆڕایی]]، بەبێ ھیچ بەشێکی جیاواز، بەبێ نووسین لەسەر بەرگی پێشەوە و دواوەی.",
+	"wm-license-gfdl-1.2-and-later": "ڕێگەدراوە بە لەبەرگرتنەوە، دابەشکردن ھەروەھا/یان سازاندنی ئەم بەڵگەنامەیە لەژێر مەرجی '''[[{{int:wm-license-gfdl-wiki-link}}|مۆڵەتی GNU بۆ بەڵگەنامەی ئازاد]]'''، وەشانی ١.٢ یان ھەر وەشانێکی تری دواتر کە بڵاوکراوەتەوە لەلایەن [[{{int:wm-license-fsf-wiki-link}}|دامەزراوەی بەرنامەی ئازاد]]، بەبێ ھیچ بەشێکی جیاواز، بەبێ نووسین لەسەر بەرگی پێشەوە و دواوەی. وێنەیەک لەمۆڵەتەکە لە بەشێکدا ھەیە کە ناوی ''[[{{int:wm-license-gfdl-full-1.2-link}}|مۆڵەتی GNU بۆ بەڵگەنامەی ئازاد]]''ە.",
 	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;تەنھا",
 	"wm-license-information-description": "وەسف",
 	"wm-license-information-source": "سەرچاوە",
