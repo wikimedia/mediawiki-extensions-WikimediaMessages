@@ -15,7 +15,8 @@
 			"Prevodim",
 			"Zoranzoki21",
 			"Acamicamacaraca",
-			"Mouse21"
+			"Mouse21",
+			"BadDog"
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
@@ -195,7 +196,7 @@
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Допуштено само аутоматски патролисаним",
 	"eri-rcfilters-beta-label": "Нови филтери за преглед измена",
-	"eri-rcfilters-beta-description": "Преглед измена на списку надгледања користећи лакши и моћнији интерфејс. Укључује нове филтере, означавање по дефиницији корисника и друга побољшања.",
+	"eri-rcfilters-beta-description": "Преглед измена на списку надгледања користећи лакши и снажнији интерфејс. Укључује нове филтере, означавање по дефиницији корисника и друга побољшања.",
 	"eri-rcfilters-tour-welcome-title": "Ново: Филтери за преглед измена (бета)",
 	"eri-rcfilters-tour-welcome-description": "Комбинација нових алатки, новог интерфејса и моћи машинског учења за борбу против вандализма и за помоћ новим корисницима.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Прегледај измене користећи лакши и моћнији интерфејс, додатне филтере, означавање које одаберете и друга побољшања.",
