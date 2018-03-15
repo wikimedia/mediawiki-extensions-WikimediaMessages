@@ -23,7 +23,8 @@
 			"Vogone",
 			"FriedhelmW",
 			"Predatorix",
-			"Schniggendiller"
+			"Schniggendiller",
+			"Robin van der Vliet"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -107,7 +108,7 @@
 	"group-flood-member": "{{GENDER:$1|Pseudobot}}",
 	"grouppage-flood": "{{ns:project}}:Pseudobots",
 	"group-founder": "Gründer",
-	"group-founder-member": "{{GENDER:$1|Gründer}}",
+	"group-founder-member": "{{GENDER:$1|Gründer|Gründerin}}",
 	"grouppage-founder": "{{ns:project}}:Gründer",
 	"group-import": "Importeure",
 	"group-import-member": "{{GENDER:$1|Importeur|Importeurin}}",
