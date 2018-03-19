@@ -27,7 +27,8 @@
 			"The Polish",
 			"Sebek Adamowicz",
 			"Jdx",
-			"Ankry"
+			"Ankry",
+			"Michał Sobkowski"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -104,9 +105,9 @@
 	"grouppage-filemover": "{{ns:project}}:Przenoszący pliki",
 	"group-mover": "Przenoszący",
 	"group-mover-member": "{{GENDER:$1|przenoszący strony|przenosząca strony}}",
-	"group-flood": "Pseudoboty",
-	"group-flood-member": "{{GENDER:$1|pseudobot}}",
-	"grouppage-flood": "{{ns:project}}:Pseudoboty",
+	"group-flood": "Użytkownicy o ukrytej aktywności",
+	"group-flood-member": "{{GENDER:$1|użytkownik|użytkowniczka}} o ukrytej aktywności",
+	"grouppage-flood": "{{ns:project}}:Użytkownicy o ukrytej aktywności",
 	"group-founder": "Założyciele",
 	"group-founder-member": "{{GENDER:$1|założyciel|założycielka}}",
 	"grouppage-founder": "{{ns:project}}:Założyciele",
