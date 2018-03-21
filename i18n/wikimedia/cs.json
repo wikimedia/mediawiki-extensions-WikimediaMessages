@@ -72,7 +72,7 @@
 	"group-mover-member": "{{GENDER:$1|přesouvač|přesouvačka}}",
 	"grouppage-mover": "{{ns:project}}:Přesouvači",
 	"group-flood": "Pseudoboti",
-	"group-flood-member": "{{GENDER:$1|pseudobot}}",
+	"group-flood-member": "{{GENDER:$1|pseudobot|pseudobotka}}",
 	"grouppage-flood": "{{ns:project}}:Pseudoboti",
 	"group-founder": "Zakladatelé",
 	"group-founder-member": "{{GENDER:$1|zakladatel|zakladatelka|zakladatel}}",
