@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Azniv Stepanian"
+			"Azniv Stepanian",
+			"ArmenBakkalian"
 		]
 	},
-	"tooltip-n-sitesupport": "Մեզ աջակցեցէ՛ք",
+	"sitesupport": "Նուիրատուութիւն",
+	"tooltip-n-sitesupport": "Աջակցեցէ՛ք մեզի",
 	"wikimedia-developers": "Ծրագրաւորողներ"
 }
