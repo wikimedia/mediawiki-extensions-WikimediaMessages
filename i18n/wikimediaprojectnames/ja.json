@@ -4,10 +4,14 @@
 			"Fryed-peach",
 			"Otokoume",
 			"Sujiniku",
-			"Kkairri"
+			"Kkairri",
+			"Nuevo Paso"
 		]
 	},
-	"project-localized-name-acewiki": "ウィキペディア アチェ語版",
+	"project-localized-name-aawiki": "アファル語版ウィキペディア",
+	"project-localized-name-aawiktionary": "アファル語版ウィクショナリー",
+	"project-localized-name-aawikibooks": "アファル語版ウィキブックス",
+	"project-localized-name-acewiki": "アチェ語版ウィキペディア",
 	"project-localized-name-dewiki": "ドイツ語版ウィキペディア",
 	"project-localized-name-enwiki": "英語版ウィキペディア",
 	"project-localized-name-enwiktionary": "英語版ウィクショナリー",
