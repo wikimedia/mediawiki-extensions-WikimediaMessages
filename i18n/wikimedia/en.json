@@ -310,5 +310,8 @@
 	"wikimedia-centralauth-contribs-locked": "This account is globally locked.\nSee [[m:Special:CentralAuth/$1|global account details]] for more information.",
 	"right-viewdeletedfile": "View files and pages in the {{ns:file}} and {{ns:file_talk}} namespaces that are deleted",
 	"securepoll-dblist-securepollglobal": "Board Election",
-	"wikimedia-cookiestatement": "Cookie statement"
+	"wikimedia-cookiestatement": "Cookie statement",
+	"ext-quicksurveys-performance-internal-survey-question": "Did this page load fast enough?",
+	"ext-quicksurveys-performance-internal-survey-description": "",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "For more information, see this survey's [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement privacy statement]."
 }
