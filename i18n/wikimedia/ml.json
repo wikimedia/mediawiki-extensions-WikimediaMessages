@@ -171,7 +171,7 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|ഡബ്ല്യു.എം.എഫ്. ഗവേഷകൻ|ഡബ്ല്യു.എം.എഫ്. ഗവേഷക}}",
 	"search-interwiki-custom": "wikt:വിക്കിനിഘണ്ടുവിൽ നിന്ന്\nb:വിക്കിപാഠശാലയിൽ നിന്ന്\nn:വിക്കിവാർത്തയിൽ നിന്ന്\nq:വിക്കിചൊല്ലുകളിൽ നിന്ന്\ns:വിക്കിഗ്രന്ഥശാലയിൽ നിന്ന്\nv:വിക്കിസർവ്വകലാശാലയിൽ നിന്ന്\nvoy:വിക്കിയാത്രയിൽ നിന്ന്",
 	"shared-repo-name-shared": "വിക്കിമീഡിയ കോമൺസ്",
-	"wikimedia-copyright": "വിവരങ്ങൾ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക്ക് അനുമതിപത്ര (കടപ്പാട്, സമാനമായ അനുമതിപത്രം, എന്നിവ നൽകുക)</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ml\">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.",
+	"wikimedia-copyright": "വിവരങ്ങൾ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ-ഷെയർഎലൈക്ക് അനുമതിപത്ര</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ml\">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.",
 	"wikidata-copyright": "പ്രധാന, ഗുണഗണ നാമമേഖലകളിലെ എല്ലാ ക്രമപ്പെടുത്തിയ വിവരങ്ങളും <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">ക്രിയേറ്റീവ് കോമൺസ് സി.സി.0 അനുവാദപത്രം</a> പ്രകാരം ലഭ്യമായിരിക്കും;\nമറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;\nഅധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.\nകൂടുതൽ വിവരങ്ങൾക്ക് <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ml\" title=\"വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ\">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.",
 	"wikimedia-copyrightwarning": "മാറ്റങ്ങൾ സേവ് ചെയ്യുമ്പോൾ, [https://wikimediafoundation.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്ക് അല്ലെങ്കിൽ യൂ.ആർ.എൽ. മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ-ഷെയർഎലൈക് അനുമതിയുടെ നിർവ്വചനം\" target=\"_blank\">സി.സി. ബൈ-എസ്.എ. 3.0</a> ഒപ്പം <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"ജി.എഫ്.ഡി.എല്ലിന്റെ നിർവ്വചനം\" target=\"_blank\">ജി.എഫ്.ഡി.എൽ.</a>",
@@ -223,5 +223,6 @@
 	"interlanguage-link-sitename-wikipedia": "വിക്കിപീഡിയ, സ്വതന്ത്ര സർവ്വവിജ്ഞാനകോശം",
 	"interlanguage-link-commons": "വിക്കിമീഡിയ കോമൺസ്",
 	"interlanguage-link-sitename-commons": "വിക്കിമീഡിയ കോമൺസ് മീഡിയ ശേഖരണി",
-	"interlanguage-link-sitename-dmoz": "ഡിമോസ് വെബ് ഡയറക്ടറി"
+	"interlanguage-link-sitename-dmoz": "ഡിമോസ് വെബ് ഡയറക്ടറി",
+	"wikimedia-cookiestatement": "കുക്കി പ്രസ്താവന"
 }
