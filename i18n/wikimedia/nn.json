@@ -99,6 +99,7 @@
 	"group-translationadmin": "Omsetjingsadministratorar",
 	"group-translationadmin-member": "{{GENDER:$1|omsetjingsadministrator}}",
 	"grouppage-translationadmin": "{{ns:project}}:Omsetjingsadministratorar",
+	"tag-emoji-description": "Nytta av globalt endringsfilter 110.",
 	"search-interwiki-custom": "wikt:Frå Wiktionary\nb:Frå Wikibøker\nn:Frå Wikinytt\nq:Frå Wikifrasar\ns:Frå Wikikjelda\nv:Frå Wikiversity\nvoy:Frå Wikivoyage",
 	"wikimedia-copyright": "Tekst er tilgjengeleg under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons-lisensen Namngjeving/Del på same vilkår</a>; ytterlegare vilkår kan gjelda.\nSjå <a href=\"https://wikimediafoundation.org/wiki/Special:MyLanguage/Terms_of_Use\">Vilkår</a> for detaljar.",
 	"wikidata-copyright": "Alle strukturerte data frå hovud- og eigenskapsnamneromma er tilgjengelege under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definisjonen av Creative Commons CC0-lisensen\">Creative Commons CC0-lisensen</a>; tekst i dei andre namneromma er tilgjengeleg under <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definisjonen av Creative Commons Namngjeving/Del på same vilkåra-lisensen\">Creative Commons Namngjeving/Del på same vilkåra-lisensen</a>; fleire vilkår kan gjelda.\nSjå <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"Bruksvilkåra til Wikimedia Foundation\">Bruksvilkåra</a> for meir.",
