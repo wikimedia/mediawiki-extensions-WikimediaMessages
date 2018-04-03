@@ -44,6 +44,7 @@ class WikimediaMessagesHooks {
 			'sidebar',
 			'sulrenamewarning-usenew',
 			'ipb-confirmhideuser', // T121639
+			'fileexporter-text' // T168406
 		];
 
 		if ( $wmfRealm === 'labs' && $lcKey === 'privacypage' ) {
