@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Botuzhaleny-sodamo"
+			"Botuzhaleny-sodamo",
+			"Rueter"
 		]
 	},
 	"wm-license-information-description": "Чарькодевтемгакс",
@@ -12,5 +13,6 @@
 	"wm-license-information-author-missing": "Те файланть арась информация теицядонзо",
 	"wm-license-information-permission-reusing-text": "Те файланть одов тевс нолдамозо",
 	"wm-license-information-permission-see-below": "Вант седе ало.",
-	"wm-license-information-other-versions": "Лият версият"
+	"wm-license-information-other-versions": "Лият версият",
+	"wm-license-own-work": "Эсеть шкинемат"
 }

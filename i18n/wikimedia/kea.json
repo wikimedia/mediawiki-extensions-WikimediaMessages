@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Waldir"
+			"Waldir",
+			"Quintino Lopes Castro Tavares"
 		]
 	},
 	"sitesupport": "Fazi un donativu",
-	"tooltip-n-sitesupport": "Apoia nos",
+	"tooltip-n-sitesupport": "Apoiánu",
 	"wikimedia-developers": "Programadoris"
 }

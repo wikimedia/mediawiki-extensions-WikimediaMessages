@@ -7,7 +7,7 @@
 			"Rueter"
 		]
 	},
-	"sitesupport": "Лезксйармаконь максома",
+	"sitesupport": "Лезксъярмаконь максома",
 	"tooltip-n-sitesupport": "Макста миненек нежедематарка",
 	"group-confirmed": "Кемекстань сёрмадыцят",
 	"group-confirmed-member": "кемекстазь сёрмадыця",
@@ -22,5 +22,7 @@
 	"grouppage-steward": "m:Туросторт",
 	"group-sysadmin": "Системань администраторт",
 	"wikibase-sitelinks-wikinews": "Викикулят",
+	"wikibase-sitelinks-wikiquote": "Викицитат",
+	"wikibase-sitelinks-wikivoyage": "Вики килангт",
 	"wikimedia-developers": "Кастыцят-келейгавтыцят"
 }
