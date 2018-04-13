@@ -44,9 +44,11 @@
 	"contactpage-affcom-user-group-location-label": "'''الموقع'''\n* يُرجَى تقديم بلدك ومدينتك; حتى نتمكن من تتبع مجموعات المستخدمين حول العالم، إذا كان العالم في متناول اليد ، ببساطة ضع \"الإنترنت\".",
 	"contactpage-affcom-user-group-leaders-label": "'''ثلاثة ويكميديين نشطين'''\n* يُرجَى تقديم الاسم، وعنوان البريد الإلكتروني، واسم مستخدم ويكميديا لثلاث قادة مجموعات.",
 	"contactpage-affcom-user-group-logo-label": "'''الشعار'''\n* ما هو الشعار الذي ترغب في استخدامه لمجموعتك؟",
+	"contactpage-affcom-user-group-rules-label": "'''قواعد مجموعة المستخدمين'''\n* نت مؤهل لتشكيل مجموعة مستخدمين إذا كان لديك على الأقل 3 أعضاء بـ300 مساهمة أو أكثر في مشروع ويكيميديا بحساب مسجل موجود منذ أكثر من 6 أشهر ويتوافق مع [[Wikimedia user groups/Agreement and code of conduct|اتفاقية مجموعة المستخدمين والقواعد السلوكية]]:\n** يجب أن تتبع [[wmf:Trademark policy|سياسة العلامات التجارية]]\n** أنت مستقل عن منظمات ويكيميديا ​​الأخرى \n* بعد تقديم هذا الطلب، سيتصل بك أحد أعضاء [[Affiliations Committee|لجنة الانتماءات]] قريبا لمساعدتك في الخطوات التالية \n* اعرف المزيد من المعلومات حول [[Wikimedia user groups|مجموعات مستخدمي ويكيميديا]]",
 	"contactpage-affcom-user-group-terms-label": "لقد قرأت ووافقت على القواعد المذكورة أعلاه وفي [[Wikimedia user groups/Agreement and code of conduct|اتفاقية مجموعة المستخدم والقواعد السلوكية]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "''إذا كنت ترغب في استخدام '''شعار ويكيميديا'''، فيمكنك [[Special:Contact/requestlicense|طلب ترخيص علامة تجارية]].''",
 	"contactpage-affcom-user-group-logo-community": "شعار مجتمع ويكيميديا",
 	"contactpage-affcom-user-group-logo-affiliate": "شعار ويكيميديا التابعة",
-	"contactpage-title-stewards": "اتصل بالمضيفين"
+	"contactpage-title-stewards": "اتصل بالمضيفين",
+	"contactpage-stewards-disclaimer-label": "إخلاء المسؤولية: جميع المعلومات التي تدرجها في هذا النموذج يتم تقديمها إلى وتتم معالجتها من قبل أعضاء المجتمع المتطوعين (على وجه التحديد [[Special:MyLanguage/Stewards]])، وليس مؤسسة ويكيميديا، يُرجَى عدم تضمين أية معلومات لا تشعر بالراحة عند مشاركتها مع متطوعي ويكيميديا، لا تعتبر الردود والمراسلات الأخرى المتعلقة بمعالجة معلوماتك المقدمة بيانات رسمية لمؤسسة ويكيميديا، للمراسلات الرسمية; يُرجَى الاتصال بمؤسسة ويكيميديا ​​من خلال الطرق المذكورة في https://wikimediafoundation.org/wiki/Special:MyLanguage/Contact_us."
 }

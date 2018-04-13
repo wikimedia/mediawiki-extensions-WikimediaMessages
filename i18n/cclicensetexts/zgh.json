@@ -3,12 +3,15 @@
 		"authors": [
 			"Amara-Amaziɣ",
 			"ⵕⴰⵊⵉ",
-			"Mdb897"
+			"Mdb897",
+			"Brahim-essaidi"
 		]
 	},
+	"wm-license-cc-attribution": "ⵜⵉⵡⵓⵔⵉⵡⵉⵏ",
 	"wm-license-cc-free": "Tlellid:",
 	"wm-license-cc-free-to-share-header": "ⴱⴹⵓ",
 	"wm-license-cc-free-to-remix-header": "ⵛⵛⴰⵔ",
+	"wm-license-cc-conditions": "ⴷⴷⴰⵡ ⵜⴼⴰⴷⵉⵡⵉⵏ ⴰⴷ:",
 	"wm-license-cc-conditions-attribution-header": "ⴰⵎⴰⵙ",
 	"wm-license-cc-conditions-share_alike-header": "ⴱⴹⵓⵜ ⵎⴽⵍⵍⵉⵜ"
 }

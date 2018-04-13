@@ -4,7 +4,8 @@
 			"محمد أحمد عبد الفتاح",
 			"Maroen1990",
 			"Meno25",
-			"علاء"
+			"علاء",
+			"ديفيد"
 		]
 	},
 	"project-localized-name-aawiki": "ويكيبيديا العفارية",
@@ -52,6 +53,7 @@
 	"project-localized-name-astwiktionary": "ويكاموس الأستوري",
 	"project-localized-name-astwikibooks": "ويكي الكتب الأستوري",
 	"project-localized-name-astwikiquote": "ويكي الاقتباس الأستوري",
+	"project-localized-name-atjwiki": "ويكيبيديا الأتيكاميكو",
 	"project-localized-name-avwiki": "ويكيبيديا الأفاريك",
 	"project-localized-name-avwiktionary": "ويكاموس الأفاريك",
 	"project-localized-name-aywiki": "ويكيبيديا الأيامارا",
@@ -135,7 +137,7 @@
 	"project-localized-name-crwiki": "ويكيبيديا الكري",
 	"project-localized-name-crwiktionary": "ويكاموس الكري",
 	"project-localized-name-crwikiquote": "ويكي الاقتباس الكري",
-	"project-localized-name-crhwiki": "ويكيبيديا التركية القرمية",
+	"project-localized-name-crhwiki": "ويكيبيديا التترية القرمية",
 	"project-localized-name-cswiki": "ويكيبيديا التشيكية",
 	"project-localized-name-cswiktionary": "ويكاموس التشيكي",
 	"project-localized-name-cswikibooks": "ويكي الكتب التشيكي",
@@ -166,6 +168,7 @@
 	"project-localized-name-dewikisource": "ويكي مصدر الألماني",
 	"project-localized-name-dewikiversity": "ويكي الجامعة الألمانية",
 	"project-localized-name-dewikivoyage": "ويكي الرحلات الألمانية",
+	"project-localized-name-dinwiki": "ويكيبيديا الدينكاوية",
 	"project-localized-name-diqwiki": "ويكيبيديا الزازاكية",
 	"project-localized-name-dsbwiki": "ويكيبيديا الصوربية السفلى",
 	"project-localized-name-dvwiki": "ويكيبيديا دفهي",
@@ -173,6 +176,7 @@
 	"project-localized-name-dzwiki": "ويكيبيديا دزونكا",
 	"project-localized-name-dzwiktionary": "ويكاموس دزونكا",
 	"project-localized-name-ecwikimedia": "ويكيميديا الإكوادور",
+	"project-localized-name-maiwikimedia": "مجموعة مستخدمي ويكيميديا المايثيلية",
 	"project-localized-name-eewiki": "ويكيبيديا الإوي",
 	"project-localized-name-elwiki": "ويكيبيديا اليونانية",
 	"project-localized-name-elwiktionary": "ويكاموس اليوناني",
@@ -368,6 +372,7 @@
 	"project-localized-name-kaawiki": "ويكيبيديا الكارا كالباك",
 	"project-localized-name-kabwiki": "ويكيبيديا القبائلية",
 	"project-localized-name-kbdwiki": "ويكيبيديا القبردينية",
+	"project-localized-name-kbpwiki": "ويكيبيديا الكابيية",
 	"project-localized-name-kgwiki": "ويكيبيديا الكونجو",
 	"project-localized-name-kiwiki": "ويكيبيديا الكيكويو",
 	"project-localized-name-kjwiki": "ويكيبيديا الكوانياما",
@@ -906,6 +911,7 @@
 	"project-localized-name-wikimania2015wiki": "ويكي ويكيمانيا 2015",
 	"project-localized-name-wikimania2016wiki": "ويكي ويكيمانيا 2016",
 	"project-localized-name-wikimania2017wiki": "ويكي ويكيمانيا 2017",
+	"project-localized-name-wikimania2018wiki": "ويكي ويكيمانيا 2018",
 	"project-localized-name-wikimaniateamwiki": "فريق ويكيمانيا",
 	"project-localized-name-zerowiki": "ويكيبيديا زيرو"
 }

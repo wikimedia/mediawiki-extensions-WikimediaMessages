@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"DCLXVI",
-			"StanProg"
+			"StanProg",
+			"ShockD"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Ревизори",
-	"group-oversight-member": "ревизор"
+	"group-oversight-member": "ревизор",
+	"thank-you": "{{GENDER:$1|Благодаря.}}"
 }
