@@ -12,7 +12,7 @@
 	"contactpage-subject-requestlicense": "درخواست استفاده از نماد تجاری ویکی‌مدیا",
 	"contactpage-license-request-username": "نام کاربری",
 	"contactpage-license-request-relevantsite": "سایت ویکی‌مدیای مرتبط (در صورت وجود)",
-	"contactpage-license-request-group": "*چپتر ویکی‌مدیا، سازمان موضوعی یا گروه کاربری و عنوان (در صورت وجود)",
+	"contactpage-license-request-group": "چپتر ویکی‌مدیا، سازمان موضوعی یا گروه کاربری و عنوان (در صورت وجود)",
 	"contactpage-license-request-title": "عنوان (در صورت اطلاق)",
 	"contactpage-license-request-organization": "سازمان (در صورت اطلاق)",
 	"contactpage-license-request-organization-type": "نوع سازمان (در صورت اطلاق)",
@@ -39,7 +39,9 @@
 	"contactpage-subject-licenseabuse": "اطلاع‌رسانی برای سواستفاده از نشان مدیاویکی",
 	"contactpage-license-abuse-description": "سواستفاده را توضیح دهید",
 	"contactpage-license-abuse-selectmark": "از کدام نشان سواستفاده شده‌است؟",
-	"contactpage-license-abuse-location": "مکان سواستفاده (روش/آفلاین)",
+	"contactpage-license-abuse-location": "مکان سواستفاده (آنلاین/آفلاین)",
 	"contactpage-license-abuse-theircontact": "تماس فرد سواستفاده کنند (در صورتی که می‌دانید)",
-	"contactpage-license-abuse-yourcontact": "اطلاعات تماس شما (اگر قصد دارید با شما تماس گرفته شود)"
+	"contactpage-license-abuse-yourcontact": "اطلاعات تماس شما (اگر قصد دارید با شما تماس گرفته شود)",
+	"contactpage-affcom-user-group-logo-community": "نماد جامعه ویکی‌مدیا",
+	"contactpage-title-stewards": "تماس با ویکی‌بدان"
 }
