@@ -4,7 +4,8 @@
 			"Diebuche",
 			"Gianfranco",
 			"Malafaya",
-			"Lakaoso"
+			"Lakaoso",
+			"Joao Xavier"
 		]
 	},
 	"wm-license-artwork-artist": "Artista",
@@ -56,13 +57,15 @@
 	"wm-license-information-date": "Dato",
 	"wm-license-information-author": "Autoro",
 	"wm-license-information-author-missing": "Non ci sono informazioni circa l<nowiki>'</nowiki>'''autore''' di questo file.",
-	"wm-license-information-permission": "Licenza",
-	"wm-license-information-permission-reusing-text": "Riutilizzo di questo file",
+	"wm-license-information-permission": "Yurizo",
+	"wm-license-information-permission-reusing-text": "Riuzo di ica arkivo",
 	"wm-license-information-permission-see-below": "Videz infre.",
 	"wm-license-information-other-versions": "Altra versioni",
+	"wm-license-licensing-update-text": "Ica etiketo pri uzo-permiso ligesis ad ica artiklo dum [[{{int:wm-license-licensing-update-wiki-link}}|l'aktualigo dil yurizo]] GFDL.",
 	"wm-license-own-work": "Propra verko",
 	"wm-license-pd-author-self-text": "Io, titolare dei diritti (copyright) su quest'opera, rilascio quest'opera nel '''[[{{int:wm-license-pd-wiki-link}}|pubblico dominio]]'''. Questo con effetto in tutto il Mondo.",
 	"wm-license-pd-author-not-legally-possible": "In alcuni paesi questo atto potrebbe non essere riconosciuto valido dalla locale normativa; in tal caso:",
 	"wm-license-pd-author-self-any-purpose": "Riconosco a chiunque e ciascuno il diritto di usare quest'opera '''per qualsiasi scopo''', senza alcuna condizione, a meno che simili condizioni non siano validamente richieste dalla legge.",
-	"wm-license-self-multiple-licenses-select": "Puoi scegliere la licenza che preferisci."
+	"wm-license-self-multiple-licenses": "Me, la proprietero dil autoroyuri pri ica verko, per to publikigos ol segun la sequanta yurizi:",
+	"wm-license-self-multiple-licenses-select": "Selektez l'yurizo quon vu preferas."
 }
