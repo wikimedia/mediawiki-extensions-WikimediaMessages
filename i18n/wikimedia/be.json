@@ -36,10 +36,13 @@
 	"group-steward": "Сцюарды",
 	"wikimedia-copyright": "Тэкст даступны на ўмовах <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">ліцэнзіі Creative Commons Attribution-ShareAlike</a>, у асобных выпадках могуць дзейнічаць дадатковыя ўмовы. Падрабязней гл. <a href=\"https://wikimediafoundation.org/wiki/Умовы_выкарыстання\">Умовы выкарыстання</a>.",
 	"wikimedia-copyrightwarning": "Захоўваючы змены, вы згаджаецеся з [https://wikimediafoundation.org/wiki/Умовы_выкарыстання умовамі выкарыстання], а таксама згаджаецеся на беззваротную публікацыю на ўмовах ліцэнзій [https://ru.wikipedia.org/wiki/Вікіпедыя:Тэкст_ліцэнзіі_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы згаджаецеся, што пазначэнне гіперспасылкі на адпаведную старонку ці яе URL-адраса будзе дастаткова для выканання ўмоў атрыбуцыі ліцэнзіі Creative Commons.",
+	"wikibase-statementsection-identifiers": "Ідэнтыфікатары",
+	"wikibase-statementsection-constraints": "Абмежаванні",
 	"wikibase-sitelinks-wikibooks": "Вікікнігі",
 	"wikibase-sitelinks-wikinews": "Вікінавіны",
 	"wikibase-sitelinks-wikiquote": "Вікіцытатнік",
 	"wikibase-sitelinks-wikisource": "Вікікрыніцы",
+	"wikibase-sitelinks-wikiversity": "Віківерсітэт",
 	"wikibase-sitelinks-wikivoyage": "Віківандроўка",
 	"wikibase-sitelinks-wiktionary": "Вікіслоўнік",
 	"wikibase-otherprojects-commons": "Вікісховішча",
@@ -56,6 +59,7 @@
 	"wikimedia-developers": "Распрацоўшчыкі",
 	"wikimedia-globalblocking-ipblocked": "'''Ваш IP-адрас быў [[m:Special:MyLanguage/Global blocks|заблакаваны на ўсіх вікі-праектах]].'''\n\nБлакіроўка была зроблена $1 ($2).\nНазваная прычына: ''$3''.\n\n* пачатак блакіроўкі: $4 \n* канец блакіроўкі: $5 \n\nВаш бягучы IP-адрас - $6.\nКалі ласка, уключайце ўсе гэтыя падрабязнасці ў свае звароты.\n\nКалі вы лічыце, што былі заблакаваны па памылцы, вы можаце знайсці дадатковую інфармацыю і інструкцыі на старонцы [[m:Special:MyLanguage/No open proxies|Недапушчальнасць выкарыстання адкрытых проксі-сервераў]] глабальных правіл.\nУ адваротным выпадку, каб абмеркаваць блакіроўку, калі ласка, [[m:Steward requests/Global|звярніцеся з запытам пра перагляд на Мета-вікі]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Адзін ці некалькі проксі-сервераў, выкарыстаных у вашым запыце, [[m:Special:MyLanguage/Global blocks|заблакаваны на ўсіх вікі-праектах]].'''\n\nБлок пастаўлены ўдзельнікам $1 ($2).\nНазвана прычына: ''$3''.\n\n* пачатак блакіроўкі: $4 \n* канец блакіроўкі: $5 \n\nАдрас заблакаванага проксі-сервера - $6.\nКалі ласка, уключайце ўсе гэтыя падрабязнасці ў свае звароты.\n\nКалі вы лічыце, што былі заблакаваны памылкова, вы можаце знайсці дадатковую інфармацыю і інструкцыі на старонцы [[m:Special:MyLanguage/No open proxies|Недапушчальнасць выкарыстання адкрытых проксі-сервераў]] глабальных правіл.\nУ іншым выпадку, каб абмеркаваць блакіроўку, калі ласка, [[m:Steward requests/Global|звярніцеся з запытам пра перагляд на Мета-вікі]].",
+	"interlanguage-link-wikipedia": "Вікіпедыя",
 	"eri-rcfilters-beta-label": "Новыя фільтры прагляду змен",
 	"eri-rcfilters-beta-description": "Праглядайце «Спіс назірання», выкарыстоўваючы больш просты і магутны інтэрфейс. Уключае новыя фільтры, магчымасць настройкі вылучэння колерам і іншыя паляпшэнні."
 }
