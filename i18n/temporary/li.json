@@ -4,7 +4,11 @@
 			"Ooswesthoesbes"
 		]
 	},
+	"wikimediamessages-desc": "Tiedelik besjeid veur Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Euverzich",
 	"group-oversight": "Toezichhaojers",
-	"group-oversight-member": "Toezichhaojer"
+	"group-oversight-member": "Toezichhaojer",
+	"hello": "Haj",
+	"please-translate": "Help mit 't euverzètte nao dien spraok",
+	"thank-you": "{{GENDER:$1|Danke.}}"
 }
