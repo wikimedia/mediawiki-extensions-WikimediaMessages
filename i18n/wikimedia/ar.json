@@ -22,7 +22,8 @@
 			"Mr. Ibrahem",
 			"ديفيد",
 			"علاء",
-			"أحمد"
+			"أحمد",
+			"Sonic N800"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -305,7 +306,7 @@
 	"eri-rcfilters-tour-invite-no-button": "لا، شكرا",
 	"eri-rcfilters-tour-confirm-title": "يتم تمكين الفلاتر الجديدة الآن",
 	"eri-rcfilters-tour-confirm-description": "يمكنك الوصول إلى <strong>صفحة الميزات التجريبية</strong> لتقديم تعليقات أو تعطيل الميزة.",
-	"wikimedia-centralauth-contribs-locked": "هذا الحساب ممنوع عالميا.\nانظر [[m:Special:CentralAuth/$1|تفاصيل الحساب العالمي]] للمزيد من المعلومات.",
+	"wikimedia-centralauth-contribs-locked": "هذا الحساب مقفل عالميا.\nانظر [[m:Special:CentralAuth/$1|تفاصيل الحساب العالمي]] للمزيد من المعلومات.",
 	"right-viewdeletedfile": "رؤية الملفات والصفحات المحذوفة في النطاقين {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخاب مجلس الإدارة",
 	"wikimedia-cookiestatement": "بيان تعريف الارتباطات"
