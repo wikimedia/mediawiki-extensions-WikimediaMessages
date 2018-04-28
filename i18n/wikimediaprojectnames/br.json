@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup"
+			"Fulup",
+			"Dishual"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia en afar",
@@ -318,6 +319,7 @@
 	"project-localized-name-iawiktionary": "Wikeriadur en interlingua",
 	"project-localized-name-idwiki": "Wikipedia indonezek",
 	"project-localized-name-idwikibooks": "Wikilevrioù indonezek",
+	"project-localized-name-idwikimedia": "Wikimedia Indonezia",
 	"project-localized-name-idwikiquote": "Wikiarroud indonezek",
 	"project-localized-name-idwikisource": "Wikimammenn indonezek",
 	"project-localized-name-idwiktionary": "Wikeriadur indonezek",
