@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amara-Amaziɣ",
-			"ⵕⴰⵊⵉ"
+			"ⵕⴰⵊⵉ",
+			"Aslmad mohamed belarhzali"
 		]
 	},
 	"wm-license-information-description": "ⴰⴳⵍⴰⵎ",
@@ -11,5 +12,6 @@
 	"wm-license-information-author": "ⴰⵎⴳⴰⵢ",
 	"wm-license-information-permission": "ⵜⵓⵔⴰⴳⵜ",
 	"wm-license-information-permission-reusing-text": "ⵙⵙⵎⵔⵙ ⴷⴰⵖ ⴰⴼⴰⵢⵍⵓ ⴰ",
-	"wm-license-own-work": "ⵜⴰⵡⵡⵓⵔⵉ ⵜⴰⵏⵉⵎⴰⵏⵜ"
+	"wm-license-own-work": "ⵜⴰⵡⵡⵓⵔⵉ ⵜⴰⵏⵉⵎⴰⵏⵜ",
+	"wm-license-self-multiple-licenses-select": "ⵜⵣⵎⵔⴷ ⴰⴷ ⵜⵙⵜⵉⴷ ⵜⵓⵔⴰⴳⵜ ⵏⵏⴰ ⵜⵔⵉⴷ."
 }
