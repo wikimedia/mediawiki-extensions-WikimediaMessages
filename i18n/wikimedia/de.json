@@ -311,5 +311,7 @@
 	"wikimedia-centralauth-contribs-locked": "Dieses Benutzerkonto ist global gesperrt.\nFür weitere Informationen siehe die [[m:Special:CentralAuth/$1|Einzelheiten zum globalen Benutzerkonto]].",
 	"right-viewdeletedfile": "Gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ ansehen",
 	"securepoll-dblist-securepollglobal": "Vorstandswahl",
-	"wikimedia-cookiestatement": "Stellungnahme zu Cookies"
+	"wikimedia-cookiestatement": "Stellungnahme zu Cookies",
+	"ext-quicksurveys-performance-internal-survey-question": "Wurde diese Seite schnell genug geladen?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement Datenschutzerklärung] für diese Umfrage."
 }
