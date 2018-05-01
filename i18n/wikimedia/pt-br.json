@@ -336,5 +336,7 @@
 	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\n Veja [[m:Special:CentralAuth/$1|detalhes da conta global]] para obter mais informações.",
 	"right-viewdeletedfile": "Ver arquivos e páginas nos espaços nominais {{ns:file}} e {{ns:file_talk}} que são excluídos",
 	"securepoll-dblist-securepollglobal": "Eleição do Conselho",
-	"wikimedia-cookiestatement": "Declaração sobre cookies"
+	"wikimedia-cookiestatement": "Declaração sobre cookies",
+	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou rápido o suficiente?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade]desta pesquisa"
 }

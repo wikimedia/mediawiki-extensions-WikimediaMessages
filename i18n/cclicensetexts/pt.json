@@ -10,7 +10,8 @@
 			"Lijealso",
 			"Multichill",
 			"Vitorvicentevalente",
-			"Waldir"
+			"Waldir",
+			"NMaia"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:pt:Creative Commons",
@@ -210,7 +211,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [https://creativecommons.org/licenses/sa/1.0/fi/deed.pt CompartilhaIgual 1.0 Finlândia].",
 	"wm-license-cc-sa-1.0-nl-text": "A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [https://creativecommons.org/licenses/sa/1.0/nl/deed.pt CompartilhaIgual 1.0 Holanda].",
 	"wm-license-cc-sa-2.0-jp-text": "A utilização deste ficheiro é regulada nos termos da licença [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [https://creativecommons.org/licenses/sa/2.0/jp/deed.pt CompartilhaIgual 2.0 Japão].",
-	"wm-license-cc-zero-text": "A utilização deste ficheiro é regulada nos termos [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [https//creativecommons.org/publicdomain/zero/1.0/deed.pt CC0 1.0 Dedicação Universal ao Domínio Público].",
+	"wm-license-cc-zero-text": "A utilização deste ficheiro é regulada nos termos [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] - [https://creativecommons.org/publicdomain/zero/1.0/deed.pt CC0 1.0 Dedicação Universal ao Domínio Público].",
 	"wm-license-cc-zero-explanation": "A pessoa que associou uma obra a este documento dedicou-a ao [[{{int:wm-license-pd-wiki-link}}|domínio público]], renunciando a todos os seus direitos sobre a obra em todo o mundo ao abrigo da legislação de direitos de autor, incluindo a todos os direitos legais conexos, na medida permitida por lei. Pode copiar, modificar, distribuir e executar a obra, até com fins comerciais, sem pedir autorização.",
 	"wm-license-cc-free": "Pode:",
 	"wm-license-cc-free-to-share-header": "partilhar",

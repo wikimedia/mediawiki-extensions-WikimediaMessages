@@ -19,7 +19,8 @@
 			"Protnet",
 			"SucreRouge",
 			"GR",
-			"KATRINE1992"
+			"KATRINE1992",
+			"Nikosgranturismogt"
 		]
 	},
 	"wikimediamessages-desc": "Μηνύματα ειδικά για το Wikimedia",
@@ -224,5 +225,6 @@
 	"eri-rcfilters-tour-confirm-title": "Τα νέα φίλτρα τώρα είναι ενεργοποιημένα",
 	"eri-rcfilters-tour-confirm-description": "Μπορείτε να πάτε στη <strong>σελίδα λειτουργιών Beta</strong> για να δώσετε ανατροφοδότηση ή να απενεργοποιήσετε τη λειτουργία.",
 	"right-viewdeletedfile": "Προβολή αρχείων και σελίδων στους χώρους {{ns:file}} και {{ns:file_talk}} που έχουν διαγραφεί",
-	"wikimedia-cookiestatement": "Δήλωση cookie"
+	"wikimedia-cookiestatement": "Δήλωση cookie",
+	"ext-quicksurveys-performance-internal-survey-question": "Αυτή η σελίδα φόρτωσε αρκετά γρήγορα;"
 }
