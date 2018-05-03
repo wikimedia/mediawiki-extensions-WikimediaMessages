@@ -133,5 +133,6 @@
 	"wikimedia-developers": "Mga tagapagpaunlad",
 	"wikimediashoplink-linktext": "Tindahan ng Wikimedia",
 	"wikimediashoplink-link-tooltip": "Dumalaw sa Tindahan ng Wikimedia",
-	"eri-rcfilters-tour-invite-no-button": "Hindi, salamat"
+	"eri-rcfilters-tour-invite-no-button": "Hindi, salamat",
+	"ext-quicksurveys-performance-internal-survey-question": "Mabilis ba ang pag-load ng page?"
 }

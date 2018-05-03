@@ -284,5 +284,6 @@
 	"eri-rcfilters-tour-invite-no-button": "아니오, 괜찮습니다",
 	"eri-rcfilters-tour-confirm-title": "새로운 필터를 지금 사용합니다",
 	"wikimedia-centralauth-contribs-locked": "이 계정은 전역으로 잠겨 있습니다.\n자세한 정보는 [[m:Special:CentralAuth/$1|통합 계정 정보]]를 참조하세요.",
-	"wikimedia-cookiestatement": "쿠키 정책"
+	"wikimedia-cookiestatement": "쿠키 정책",
+	"ext-quicksurveys-performance-internal-survey-question": "이 문서가 충분히 빠르게 적재되었습니까?"
 }

@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
+	"wm-license-cc-by-sa-3.0-text": "beureukaih nyoe geulisènsi ngön lisènsi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-free": "Droeneuh geubri idin keu:",
 	"wm-license-cc-free-to-share-header": "ngui sajan",
 	"wm-license-cc-free-to-share-text": "seumalén, seumipreuek ngön pumeu'ét buet",
@@ -13,5 +14,6 @@
 	"wm-license-cc-conditions": "Meunurôt syarat di yup nyoe:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
 	"wm-license-cc-conditions-attribution-text": "Droeneuh peureulèe neutuléh asai karya nyoe lagèe nyang geupeuteuntèe lé ureueng tuléh atawa ureueng po hak (tapi kön ngön meukeusud keuneuk promosi karya ureueng nyan)",
-	"wm-license-cc-conditions-share_alike-header": "weuëk saban"
+	"wm-license-cc-conditions-share_alike-header": "weuëk saban",
+	"wm-license-cc-conditions-share_alike-text": "Meunyo droeneuh neupeugöt ulang bahan nyoe, droeneuh suwah neubôh lisènsi nyang saban lagèe lisènsi awai"
 }

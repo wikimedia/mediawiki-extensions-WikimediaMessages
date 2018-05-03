@@ -28,7 +28,8 @@
 			"Sebek Adamowicz",
 			"Jdx",
 			"Ankry",
-			"Michał Sobkowski"
+			"Michał Sobkowski",
+			"Stojex"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -297,5 +298,6 @@
 	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Wybory do Rady Powierniczej",
-	"wikimedia-cookiestatement": "Komunikat na temat ciasteczek"
+	"wikimedia-cookiestatement": "Komunikat na temat ciasteczek",
+	"ext-quicksurveys-performance-internal-survey-question": "Czy strona ładowała się wystarczająco szybko?"
 }

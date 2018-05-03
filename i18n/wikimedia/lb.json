@@ -197,5 +197,6 @@
 	"eri-rcfilters-tour-invite-no-button": "Nee, merci",
 	"eri-rcfilters-tour-confirm-title": "Déi nei Filtere sinn elo aktivéiert",
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
-	"securepoll-dblist-securepollglobal": "Wale fir de Conseil"
+	"securepoll-dblist-securepollglobal": "Wale fir de Conseil",
+	"ext-quicksurveys-performance-internal-survey-question": "Gouf dës Säit séier genuch gelueden?"
 }

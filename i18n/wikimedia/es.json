@@ -102,7 +102,7 @@
 	"group-bigexport-member": "{{GENDER:$1|gran exportador|gran exportadora}}",
 	"grouppage-bigexport": "{{ns:project}}:Grandes exportadores",
 	"group-botadmin": "Bots con permisos de administrador",
-	"group-botadmin-member": "{{GENDER:$1|bot con permisos de administrador}}",
+	"group-botadmin-member": "{{GENDER:$1|robot con permisos administrativos}}",
 	"grouppage-botadmin": "{{ns:project}}:Bots con permisos de administrador",
 	"group-confirmed": "Confirmados",
 	"group-confirmed-member": "{{GENDER:$1|confirmado|confirmada}}",

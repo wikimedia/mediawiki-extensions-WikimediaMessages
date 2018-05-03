@@ -202,7 +202,7 @@
 	"search-interwiki-custom": "wikt:תוצאות מוויקימילון\nb:תוצאות מוויקיספר\nn:תוצאות מוויקיחדשות\nq:תוצאות מוויקיציטוט\ns:תוצאות מוויקיטקסט\nv:תוצאות מוויקיברסיטה\nvoy:תוצאות מוויקימסע",
 	"shared-repo-name-shared": "ויקישיתוף",
 	"wikimedia-copyright": "הטקסט מוגש בכפוף לרישיון <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.he\">Creative Commons ייחוס-שיתוף זהה 3.0</a>;\nייתכן שישנם תנאים נוספים.\nר' את <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">תנאי השימוש</a> לפרטים.",
-	"wikidata-copyright": "כל הנתונים המובְנים במרחב הראשי ובמרחב במאפיינים (property) זמינים לפי תנאי <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי שם אחרים זמין לפי תנאי <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>",
+	"wikidata-copyright": "כל הנתונים המובְנים במרחב הראשי ובמרחב המאפיינים (property) זמינים לפי תנאי <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"תנאי הרישיון קריאייטיב קומונז CC0\">רישיון קריאייטיב קומונז CC0</a>; טקסט במרחבי השם האחרים זמין לפי תנאי <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"תנאי הרישיון קריאייטיב קומונז ייחוס–שיתוף זהה\">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>; ייתכן שישנם תנאים נוספים.  שימוש באתר זה מהווה את הסכמתך ל<a href=\"//wikimediafoundation.org/wiki/Terms_of_Use/he\">תנאי השימוש</a> ול<a href=\"//meta.wikimedia.org/wiki/Privacy_policy/he\">מדיניות הפרטיות</a>.",
 	"wikimedia-copyrightwarning": "שמירת השינויים מהווה את הסכמתך ל[https://wikimediafoundation.org/wiki/Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך בכפוף לרישיון [https://creativecommons.org/licenses/by-sa/3.0/deed.he CC BY-SA 3.0] ולרישיון [https://www.gnu.org/copyleft/fdl.html GFDL].\nזוהי גם הסכמתך לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"הגדרה של רישיון קריאייטיב קומונז ייחוס–שיתוף זהה\" target=\"_blank\">CC BY-SA 3.0</a> and <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"הגדרה של GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ויקינתונים",
@@ -302,5 +302,6 @@
 	"securepoll-dblist-securepollglobal": "בחירת ועד",
 	"wikimedia-cookiestatement": "הצהרה על עוגיות",
 	"ext-quicksurveys-performance-internal-survey-question": "האם הדף הזה נטען מהר מספיק?",
+	"ext-quicksurveys-performance-internal-survey-description": "",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "ניתן לעיין ב[https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement הצהרת הפרטיות] של הסקר הזה למידע נוסף."
 }

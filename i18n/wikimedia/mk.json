@@ -305,5 +305,7 @@
 	"wikimedia-centralauth-contribs-locked": "Оваа сметка е глобално заклучена.\nПовеќе информации ќе најдете во [[m:Special:CentralAuth/$1|подробностите за глобалната сметка]].",
 	"right-viewdeletedfile": "Прегледување на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Избори за членови на одборот",
-	"wikimedia-cookiestatement": "Согласност за колачиња"
+	"wikimedia-cookiestatement": "Согласност за колачиња",
+	"ext-quicksurveys-performance-internal-survey-question": "Дали страницава се вчита доволно брзо?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "За повеќе информации, погледајте ја [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement заштитата на личните податоци] во анкетава."
 }

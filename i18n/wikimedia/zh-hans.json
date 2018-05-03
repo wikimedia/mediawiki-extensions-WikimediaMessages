@@ -337,5 +337,7 @@
 	"wikimedia-centralauth-contribs-locked": "此账户已被全域锁定。参见[[m:Special:CentralAuth/$1|全域账户详情]]以获取更多信息。",
 	"right-viewdeletedfile": "查看{{ns:file}}和{{ns:file_talk}}名字空间中被删除的文件和页面",
 	"securepoll-dblist-securepollglobal": "董事会选举",
-	"wikimedia-cookiestatement": "Cookie声明"
+	"wikimedia-cookiestatement": "Cookie声明",
+	"ext-quicksurveys-performance-internal-survey-question": "此页面是否加载足够快？",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。"
 }
