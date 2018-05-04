@@ -255,5 +255,6 @@
 	"eri-rcfilters-tour-confirm-description": "আপনি <strong>বেটা বৈশিষ্ট্যের পাতায়</strong> প্রতিক্রিয়া জানাতে বা নিষ্ক্রিয় করতে প্রবেশ করতে পারবেন।",
 	"wikimedia-centralauth-contribs-locked": "এই অ্যাকাউন্টটি বৈশ্বিকভাবে অবরুদ্ধ করা হয়েছে। আরও তথ্যের জন্য [[m:Special:CentralAuth/$1|বৈশ্বিক অ্যাকাউন্টের বিস্তারিত]] দেখুন।",
 	"securepoll-dblist-securepollglobal": "বোর্ড নির্বাচন",
-	"wikimedia-cookiestatement": "কুকির বিবৃতি"
+	"wikimedia-cookiestatement": "কুকির বিবৃতি",
+	"ext-quicksurveys-performance-internal-survey-question": "এই পাতাটি কি যথেষ্ট দ্রুততায় লোড হয়েছে?"
 }
