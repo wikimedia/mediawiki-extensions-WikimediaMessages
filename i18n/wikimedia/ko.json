@@ -285,5 +285,6 @@
 	"eri-rcfilters-tour-confirm-title": "새로운 필터를 지금 사용합니다",
 	"wikimedia-centralauth-contribs-locked": "이 계정은 전역으로 잠겨 있습니다.\n자세한 정보는 [[m:Special:CentralAuth/$1|통합 계정 정보]]를 참조하세요.",
 	"wikimedia-cookiestatement": "쿠키 정책",
-	"ext-quicksurveys-performance-internal-survey-question": "이 문서가 충분히 빠르게 적재되었습니까?"
+	"ext-quicksurveys-performance-internal-survey-question": "이 문서가 충분히 빠르게 적재되었습니까?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "더 자세한 정보의 경우 이 설문 조사의 [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement 개인정보 문항]을 참고하십시오."
 }
