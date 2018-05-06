@@ -8,10 +8,10 @@
 			"ElizaMag"
 		]
 	},
-	"sitesupport": "СагӀа далар",
-	"tooltip-n-sitesupport": "Новкъостал де тхона",
+	"sitesupport": "Ахчаца гӀо дар",
+	"tooltip-n-sitesupport": "«Фонд Викимедиа» организаценна ахчаца гIо дар",
 	"wikimedia-copyright": "Текстá тIакхоачилга <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\"> Creative Commons Attribution-ShareAlike</a> яхача лицензеца да, вешта, къаьстта лелаш хила мег кхыдола бехкамаш. Ма дарра хьажа <a href=\"https://wikimediafoundation.org/wiki/Условия_использования\">Пайда эцара бехкамашка</a>.",
-	"wikimedia-copyrightwarning": "Хьадаь хувцамаш лорадеш дитарца хьо раьза хул пайда эцара хьалá, иштта раьза хул хьо юхайоакхаргъйоаца [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] яха лицензеш йолча публикаценна. Creative Commons яхача лицензен бехкамаш кхочашдергдолаш хийцача оагӀон гиперссылка белгаляьккхар е цун URL-цӀай (адрес) доаладар тоъал долаш хиларá раьза хул хьо.",
+	"wikimedia-copyrightwarning": "Хьадаь хувцамаш дIаяздарца хьо раьза хул пайда эцара хьалá, иштта раьза хул хьо [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] яха лицензий бехкамашца деш долча юхадоакхаргдоацача кепатохарá. Creative Commons яхача лицензен бехкамаш кхочашдергдолаш хийца йолча оагӀон гипер-тIатовжам белгалбккхар е цун URL-цӀай хьоахадар тоъал долаш хиларá раьза хул хьо.",
 	"wikibase-sitelinks-wikinews": "Викихоамаш",
 	"wikibase-sitelinks-wikiquote": "Викиалар",
 	"wikibase-sitelinks-wikisource": "Викитека",
@@ -21,5 +21,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''Хьа IP-адрес [[m:Special:MyLanguage/Global blocks|дIакъейлад (блокировка) еррига вики-проекташ тIа]].'''\n\nБлокировка яй $1 ($2).\nБелгалдаь бахьан: ''$3''.\n\n* блокировкан дух: $4 \n* блокировкан юхь: $5 \n\nХьа хIанзара IP-адрес - $6.\nДехар да, лакхе еррига хьоая белгалонаш хьай кхайкарал чу оттаяр.\n\nНагахьа санна хьайна блокировка цхьа гIалат нийсданна, ца йоагIаш яьеле, хьа аьттув ба кхыбола хоам а, инструкци а укх [[m:Special:MyLanguage/No open proxies|Гуш дола прокси-сервераш пайда эца мегаргдоацаш хилар]] массарна оттадаь бокъонай оагIон тIа лахар.\nВешта, блокировка яр дувца оттадергдолаш, дехар да [[m:Steward requests/Global|Мета-вики чу кхайкарал даь, блокировка яра соцам юхабоаккхаболаш жоп деха]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Хьа дехара чу хинна йола цаI е масехк прокси-сервераш [[m:Special:MyLanguage/Global blocks|дIакъейлад (блокировка) еррига вики-проекташ тIа]].'''\n\nБлокировка яй $1 ($2).\nБелгалдаь бахьан: ''$3''.\n\n* блокировкан дух: $4 \n* блокировкан юхь: $5 \n\nДIакъейла хинна прокси-адрес да - $6.\nДехар да, лакхе еррига хьоая белгалонаш хьа кхайкарал чу оттаяр.\n\nНагахьа санна хьайна блокировка цхьа гIалат нийсданна, ца йоагIаш яьеле, хьа аьттув ба кхыбола хоам а, инструкци а укх [[m:Special:MyLanguage/No open proxies|Гуш дола прокси-сервераш пайда эца мегаргдоацаш хилар]] массарна оттадаь бокъонай оагIон тIа лахар.\nВешта, блокировка яр дувца оттадергдолаш, дехар да [[m:Steward requests/Global|Мета-вики чу кхайкарал даь, блокировка яра соцам юхабоаккхаболаш жоп деха]].",
 	"interlanguage-link-wikipedia": "Википеди",
-	"wikimedia-cookiestatement": "Cookie лаьца баь бола барт"
+	"wikimedia-cookiestatement": "Cookie лаьца баь барт"
 }

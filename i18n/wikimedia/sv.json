@@ -304,5 +304,7 @@
 	"wikimedia-centralauth-contribs-locked": "Detta kontot är globalt låst.\nSe [[m:Special:CentralAuth/$1|globala kontodetaljer]] för mer information.",
 	"right-viewdeletedfile": "Visa filer och sidor i namnrymderna {{ns:file}} och {{ns:file_talk}} som är raderade",
 	"securepoll-dblist-securepollglobal": "Styrelseval",
-	"wikimedia-cookiestatement": "Information om kakor"
+	"wikimedia-cookiestatement": "Information om kakor",
+	"ext-quicksurveys-performance-internal-survey-question": "Lästes denna sida in tillräckligt snabbt?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "För mer information, se [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement integritetsuttalande] för denna enkät."
 }
