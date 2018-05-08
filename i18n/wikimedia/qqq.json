@@ -30,7 +30,8 @@
 			"Hamilton Abreu",
 			"Trizek (WMF)",
 			"MarcoAurelio",
-			"Omotecho"
+			"Omotecho",
+			"ديفيد"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -102,8 +103,8 @@
 	"group-eliminator-member": "{{doc-group|eliminator|member}}",
 	"grouppage-eliminator": "{{doc-group|eliminator|page}}",
 	"group-eventcoordinator": "{{doc-group|eventcoordinator}}",
-	"grouppage-eventcoordinator": "{{doc-group|eventcoordinator|page}}",
 	"group-eventcoordinator-member": "{{doc-group|eventcoordinator|member}}",
+	"grouppage-eventcoordinator": "{{doc-group|eventcoordinator|page}}",
 	"group-extendedconfirmed": "{{doc-group|extendedconfirmed}}\nUsergroup introduced for enwiki ([[phab:T126607|Task T126607]]). It is automatically granted to users with accounts older than 30 days with 500 edits, and potentially manually granted to other editors, and carries the right to edit pages protected to a new level.",
 	"group-extendedconfirmed-member": "{{doc-group|extendedconfirmed|member}}",
 	"grouppage-extendedconfirmed": "{{doc-group|extendedconfirmed|page}}",
@@ -260,7 +261,7 @@
 	"wikibase-otherprojects-testwikidata": "Label for test.wikidata.org, listed as a sister project link in the sidebar of a Wikibase Client test site (e.g. test.wikipedia.org).\n{{Identical|Wikidata}}\n{{related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-mediawiki": "Label for MediaWiki wiki, listed as a sister project link in the sitebar of a Wikibase Client site (e.g. Wikipedia).\n{{related|Wikibase-otherprojects}}\n{{Identical|MediaWiki}}",
 	"wikibase-otherprojects-meta": "Label for Meta-Wiki, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{related|Wikibase-otherprojects}}\n{{Identical|Meta-Wiki}}",
-	"wikibase-otherprojects-species": "ウィキスピーシーズのラベル。ウィキベースのクライアントのサイトでサイドバーに姉妹プロジェクトのリンクとして表示（例：ウィキペディア）。\n{{related|Wikibase-otherprojects}}\n{{Identical|Wikispecies}}",
+	"wikibase-otherprojects-species": "Label for Wikispecies, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{related|Wikibase-otherprojects}}\n{{Identical|Wikispecies}}",
 	"wikibase-otherprojects-wikibooks": "Label for Wikibooks, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikibooks}}\n{{Related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-wikidata": "Label for Wikidata, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikidata}}\n{{related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-wikinews": "Label for Wikinews, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikinews}}\n{{related|Wikibase-otherprojects}}",

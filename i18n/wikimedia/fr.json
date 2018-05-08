@@ -58,7 +58,8 @@
 			"DePlusJean",
 			"Vogone",
 			"Djiboun",
-			"KATRINE1992"
+			"KATRINE1992",
+			"Melissadeba95"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -126,6 +127,9 @@
 	"group-eliminator": "Éliminateurs",
 	"group-eliminator-member": "{{GENDER:$1|éliminateurs|éliminatrices}}",
 	"grouppage-eliminator": "{{ns:project}}:Éliminateurs",
+	"group-eventcoordinator": "Coordinateurs d'évènements",
+	"group-eventcoordinator-member": "{{GENRE:$1|Coordinateur|Coordinatrice}}",
+	"grouppage-eventcoordinator": "{{ns:project}}:coordinateurs d’événements",
 	"group-extendedconfirmed": "Vue étendue des utilisateurs confirmés",
 	"group-extendedconfirmed-member": "{{GENDER:$1|utilisateur étendu confirmé|utilisatrice étendue confirmée}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:Éditeurs étendus confirmés",
