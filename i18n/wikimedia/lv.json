@@ -31,6 +31,7 @@
 	"group-engineer": "Inženieri",
 	"group-engineer-member": "{{GENDER:$1|inženieris|inženiere}}",
 	"grouppage-engineer": "{{ns:project}}:Inženieri",
+	"group-eventcoordinator": "Pasākuma koordinatori",
 	"group-eventcoordinator-member": "pasākuma {{GENDER:$1|koordinators|koordinatore}}",
 	"grouppage-eventcoordinator": "{{ns:project}}:Pasākuma koordinatori",
 	"group-filemover": "Failu pārvietotāji",

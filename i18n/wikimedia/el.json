@@ -85,6 +85,8 @@
 	"group-eliminator": "Εξαλείφοντες",
 	"group-eliminator-member": "{{GENDER:$1|εξαλείφων|εξαλείφουσα}}",
 	"grouppage-eliminator": "{{ns:project}}:Εξαλείφωντες",
+	"group-eventcoordinator": "Συγχρονιστές γεγονότος",
+	"grouppage-eventcoordinator": "{{ns:project}}:Συντονιστές γεγονότος",
 	"group-filemover": "Μετακινητές αρχείου",
 	"group-filemover-member": "{{GENDER:$1|μετακινητής|μετακινήτρια}} αρχείων",
 	"grouppage-filemover": "{{ns:project}}:Μεταφορείς αρχείων",
