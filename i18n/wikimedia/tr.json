@@ -18,7 +18,8 @@
 			"HakanIST",
 			"JackUKElliott",
 			"Diyapazon",
-			"Vito Genovese"
+			"Vito Genovese",
+			"Hedda"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -66,6 +67,9 @@
 	"group-eliminator": "Eleyiciler",
 	"group-eliminator-member": "{{GENDER:$1|eleyici}}",
 	"grouppage-eliminator": "{{ns:project}}:Eleyiciler",
+	"group-eventcoordinator": "Etkinlik koordinatörleri",
+	"group-eventcoordinator-member": "{{GENDER:$1|etkinlik koordinatörü}}",
+	"grouppage-eventcoordinator": "{{ns:project}}:Etkinlik koordinatörleri",
 	"group-filemover": "Dosya taşıyıcılar",
 	"group-filemover-member": "{{GENDER:$1|dosya taşıyıcı}}",
 	"grouppage-filemover": "{{ns:project}}:Dosya taşıyıcılar",

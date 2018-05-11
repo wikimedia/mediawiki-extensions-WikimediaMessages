@@ -169,6 +169,8 @@
 	"group-wmf-researcher": "WMF গবেষক",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF গবেষক}}",
 	"group-wmf-supportsafety": "WMF সমর্থন ও নিরাপত্তা",
+	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF সমর্থন ও নিরাপত্তা}}",
+	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF সমর্থন ও নিরাপত্তা",
 	"tag-emoji": "ইমোজি",
 	"tag-emoji-description": "বৈশ্বিক অপব্যবহার ছাঁকনি ১১০ দ্বারা ব্যবহৃত।",
 	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|অটো উইকি ব্রাউজার]]",
@@ -176,7 +178,7 @@
 	"search-interwiki-custom": "wikt:উইকিঅভিধান থেকে\nb:উইকিবই থেকে\nn:উইকিসংবাদ থেকে\nq:উইকিউক্তি থেকে\ns:উইকিসংকলন থেকে\nv:উইকিবিশ্ববিদ্যালয় থেকে\nvoy:উইকিভ্রমণ থেকে",
 	"shared-repo-name-shared": "উইকিমিডিয়া কমন্স",
 	"wikimedia-copyright": "লেখাগুলো <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;\nএর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।\n <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use?uselang=bn\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",
-	"wikidata-copyright": "প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থান বার্তা <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি পদ যুক্ত করা সম্ভব। <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\" title=\"উইকিমিডিয়া ফাউন্ডেশন ব্যবহারের শর্তাবলী\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",
+	"wikidata-copyright": "প্রধান এবং বৈশিষ্ট্য নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থানের লেখা <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি শর্ত যুক্ত করা সম্ভব। এই সাইট ব্যবহার করার মাধ্যমে, আপনি <a href=\"//wikimediafoundation.org/wiki/Terms_of_Use/bn\">ব্যবহারের শর্তাবলী</a> ও <a href=\"//wikimediafoundation.org/wiki/Privacy_policy\">গোপনীয়তার নীতির</a> সাথে সম্মত হচ্ছেন।",
 	"wikimedia-copyrightwarning": "পরিবর্তন সংরক্ষণ করার মাধ্যমে, আপনি [https://wikimediafoundation.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এসএ ৩.০] এবং [https://www.gnu.org/copyleft/fdl.html জিএফডিএল] লাইসেন্সের অধীনে প্রকাশের অনুমতি দিচ্ছেন।\nআপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধীনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক লাইসেন্সের সংজ্ঞা\" target=\"_blank\">সিসি বাই-এস ৩.০</a> এবং <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"জিএফডিএলের সংজ্ঞা\" target=\"_blank\">জিএফডিএল</a>",
 	"wikibase-repo-name": "উইকিউপাত্ত",
@@ -259,5 +261,6 @@
 	"wikimedia-centralauth-contribs-locked": "এই অ্যাকাউন্টটি বৈশ্বিকভাবে অবরুদ্ধ করা হয়েছে। আরও তথ্যের জন্য [[m:Special:CentralAuth/$1|বৈশ্বিক অ্যাকাউন্টের বিস্তারিত]] দেখুন।",
 	"securepoll-dblist-securepollglobal": "বোর্ড নির্বাচন",
 	"wikimedia-cookiestatement": "কুকির বিবৃতি",
-	"ext-quicksurveys-performance-internal-survey-question": "এই পাতাটি কি যথেষ্ট দ্রুততায় লোড হয়েছে?"
+	"ext-quicksurveys-performance-internal-survey-question": "এই পাতাটি কি যথেষ্ট দ্রুত লোড হয়েছে?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "আরও তথ্যের জন্য, এই জরিপের [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement গোপনীয়তার বিবৃতি] দেখুন।"
 }
