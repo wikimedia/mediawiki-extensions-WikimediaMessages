@@ -2,10 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"بدارين"
+			"بدارين",
+			"ديفيد"
 		]
 	},
-	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة ل[[m:Single User Login finalisation announcement|إنهاء توحيد دخول المستخدم]]. مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]. المستخدمون يمكنهم طلب إعادة تسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|((مساعدتي في اختيار))]]",
+	"wikimedia-createacct-imgcaptcha-help": "لا تستطيع رؤية الصورة؟ [[{{MediaWiki:createacct-captcha-help-url}}|اطلب حسابا]]",
+	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة [[m:Single User Login finalisation announcement|لإنهاء توحيد دخول المستخدم]]، مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]، المستخدمون يمكنهم طلب إعادة التسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
+	"createacct-helpusername-url": "{{ns:Project}}:سياسة اسم المستخدم",
 	"wikimedia-flow-terms-of-use-new-topic": "بالضغط على \"{{int:flow-newtopic-save}}\"، فأنت توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] الخاصة بنا وتوافق على نشر نصك بلا رجوع تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-edit": "من خلال حفظ التغييرات، فإنك توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتوافق على نشرها دون رجعة تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جنو]"
+	"wikimedia-flow-terms-of-use-edit": "من خلال حفظ التغييرات، فإنك توافق على [https://wikimediafoundation.org/wiki/Terms_of_Use شروط الاستخدام] وتوافق على نشرها دون رجعة تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جنو]",
+	"wikimedia-fileexporter-text": "الاستيراد إلى كومنز"
 }

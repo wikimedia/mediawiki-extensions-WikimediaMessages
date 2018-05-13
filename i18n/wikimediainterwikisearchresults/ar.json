@@ -3,7 +3,8 @@
 		"authors": [
 			"Meno25",
 			"بدارين",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"ديفيد"
 		]
 	},
 	"search-interwiki-results-abwiki": "عرض النتائج من [[:ab:|ويكيبيديا الأبخازية]].",
@@ -20,6 +21,7 @@
 	"search-interwiki-results-arzwiki": "عرض النتائج من [[:arz:|ويكيبيديا العربية المصرية]].",
 	"search-interwiki-results-astwiki": "عرض النتائج من  [[:ast:|ويكيبيديا الأستورية]].",
 	"search-interwiki-results-aswiki": "عرض النتائج من [[:as:|ويكيبيديا الأسامية]].",
+	"search-interwiki-results-atjwiki": "عرض النتائج من  [[:atj:|ويكيبيديا الأتيكاميكو]].",
 	"search-interwiki-results-avwiki": "عرض النتائج من [[:av:|ويكيبيديا الأوارية]].",
 	"search-interwiki-results-aywiki": "عرض النتائج من [[:ay:|ويكيبيديا الأيامارا]].",
 	"search-interwiki-results-azwiki": "عرض النتائج من  [[:az:|ويكيبيديا الأذربيجانية]].",
@@ -60,6 +62,7 @@
 	"search-interwiki-results-cywiki": "عرض النتائج من [[:cy:|ويكيبيديا الويلزية]].",
 	"search-interwiki-results-dawiki": "عرض النتائج من [[:da:|ويكيبيديا الدنماركية]].",
 	"search-interwiki-results-dewiki": "عرض النتائج من  [[:de:|ويكيبيديا الألمانية]].",
+	"search-interwiki-results-dinwiki": "عرض النتائج من [[:din:|ويكيبيديا الدينكاوية]].",
 	"search-interwiki-results-diqwiki": "عرض النتائج من [[:diq:|ويكيبيديا الزازاكي]].",
 	"search-interwiki-results-dsbwiki": "عرض النتائج من [[:dsb:|ويكيبيديا الصوربية السفلى]].",
 	"search-interwiki-results-dvwiki": "عرض النتائج من [[:dv:|ويكيبيديا المالديفية]].",
@@ -92,6 +95,7 @@
 	"search-interwiki-results-glwiki": "عرض النتائج من [[:gl:|ويكيبيديا الجاليسية]].",
 	"search-interwiki-results-gnwiki": "عرض النتائج من [[:gn:|ويكيبيديا الجوارانية]].",
 	"search-interwiki-results-gomwiki": "عرض النتائج من [[:gom:|ويكيبيديا الكونكانية الجوان]].",
+	"search-interwiki-results-gorwiki": "عرض النتائج من [[:gor:|ويكيبيديا الجورونتالو]].",
 	"search-interwiki-results-gotwiki": "عرض النتائج من [[:got:|ويكيبيديا القوطية]].",
 	"search-interwiki-results-guwiki": "عرض النتائج من [[:gu:|ويكيبيديا الكجراتية]].",
 	"search-interwiki-results-gvwiki": "عرض النتائج من [[:gv:|ويكيبيديا المانكس]].",
@@ -112,6 +116,7 @@
 	"search-interwiki-results-igwiki": "عرض النتائج من [[:ig:|ويكيبيديا الإيجبو]].",
 	"search-interwiki-results-ikwiki": "عرض النتائج من [[:ik:|ويكيبيديا الإنوبيات]].",
 	"search-interwiki-results-ilowiki": "عرض النتائج من [[:ilo:|ويكيبيديا الإلوكانو]].",
+	"search-interwiki-results-inhwiki": "عرض النتائج من [[:inh:|ويكيبيديا الإنغوشية]].",
 	"search-interwiki-results-iowiki": "عرض النتائج من [[:io:|ويكيبيديا الإدو]].",
 	"search-interwiki-results-iswiki": "عرض النتائج من [[:is:|ويكيبيديا الأيسلندية]].",
 	"search-interwiki-results-itwiki": "عرض النتائج من [[:it:|ويكيبيديا الإيطالية]].",
@@ -144,6 +149,7 @@
 	"search-interwiki-results-lbewiki": "عرض النتائج من [[:lbe:|ويكيبيديا اللاك]].",
 	"search-interwiki-results-lbwiki": "عرض النتائج من [[:lb:|ويكيبيديا اللوكسمبورجية]].",
 	"search-interwiki-results-lezwiki": "عرض النتائج من [[:lez:|ويكيبيديا الليزجيان]].",
+	"search-interwiki-results-lfnwiki": "عرض النتائج من [[:lfn:|ويكيبيديا لينجو فرنسا نوفا]].",
 	"search-interwiki-results-lgwiki": "عرض النتائج من [[:lg:|ويكيبيديا اللوجاندا]].",
 	"search-interwiki-results-lijwiki": "عرض النتائج من [[:lij:|ويكيبيديا الليجورية]].",
 	"search-interwiki-results-liwiki": "عرض النتائج من [[:li:|ويكيبيديا الليمبورجية]].",

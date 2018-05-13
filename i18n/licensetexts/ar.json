@@ -86,7 +86,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/ar",
 	"wm-license-original-upload-log": "سجل الرّفع الأصلي",
 	"wm-license-own-work": "عمل شخصي",
-	"wm-license-pd-author-self-text": "أنا، حائز حقوق الطبع لهذا العمل، أضعه في '''[[{{int:wm-license-pd-wiki-link}}|الملك العام]]'''. و يعدُّ هذا ساريا في كل أنحاء العالم.",
+	"wm-license-pd-author-self-text": "أنا -مالك حقوق نشر هذا العمل- أصدره تحت '''[[{{int:wm-license-pd-wiki-link}}|الملكية العامة]]'''، يسري هذا في كل أرجاء العالم.",
 	"wm-license-pd-author-with-author-text": "أصدر مؤلف هذا العمل -$1- هذا العمل تحت '''[[{{int:wm-license-pd-wiki-link}}|الملكية العامة]]. يسري ذلك في كل أرجاء العالم.",
 	"wm-license-pd-author-not-legally-possible": "هذا غير ممكن قانونيًا في بعض البلدان، في هذه الحالة:",
 	"wm-license-pd-author-self-any-purpose": "أمنح الجميع حق استخدام هذا العمل '''لأي غرض''' دون أي شرط ما لم يفرض القانون شروطًا إضافية.",

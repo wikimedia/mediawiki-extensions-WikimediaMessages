@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Simartampua"
+		]
+	},
+	"group-eventcoordinator": "Koordinator acara",
+	"group-eventcoordinator-member": "{{GENDER:$1|koordinator acara}}",
+	"grouppage-eventcoordinator": "{{ns:project}}:Koordinator acara"
+}
