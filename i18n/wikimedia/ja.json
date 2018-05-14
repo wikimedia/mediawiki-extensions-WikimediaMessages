@@ -36,7 +36,8 @@
 			"Delim",
 			"Hinaloe",
 			"Afaz",
-			"AndyAndyAndyAlbert"
+			"AndyAndyAndyAlbert",
+			"おはぐろ蜻蛉"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -90,6 +91,7 @@
 	"group-filemover": "ファイル移動者",
 	"group-filemover-member": "{{GENDER:$1|ファイル移動者}}",
 	"grouppage-filemover": "{{ns:project}}:ファイル移動者",
+	"group-mover": "移動者",
 	"group-flood": "大量処理フラグ",
 	"group-flood-member": "{{GENDER:$1|大量処理フラグ}}",
 	"grouppage-flood": "{{ns:project}}:大量処理フラグ",
