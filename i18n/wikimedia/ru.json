@@ -335,5 +335,7 @@
 	"wikimedia-centralauth-contribs-locked": "Эта учётная запись заморожена. См. [[m:Special:CentralAuth/$1|данные глобальной учётной записи]] для получения более подробной информации.",
 	"right-viewdeletedfile": "Просмотр удалённых файлов и страниц в пространствах имён {{ns:file}} и {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Выборы Board",
-	"wikimedia-cookiestatement": "Соглашение о cookie"
+	"wikimedia-cookiestatement": "Соглашение о cookie",
+	"ext-quicksurveys-performance-internal-survey-question": "Достаточно ли быстро загрузилась эта страница?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Чтобы узнать больше, см. [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement политику конфиденциальности] данного опроса."
 }
