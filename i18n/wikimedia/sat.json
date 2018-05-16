@@ -3,17 +3,18 @@
 		"authors": [
 			"Albinus",
 			"Ramjit Tudu",
-			"Manik Soren"
+			"Manik Soren",
+			"Fagunkoyel Hansdah"
 		]
 	},
 	"sitesupport": "ᱜᱚᱸᱲᱚᱸ ᱮᱢᱯᱮ",
 	"tooltip-n-sitesupport": "ᱥᱚᱦᱚᱫ ᱞᱮᱯᱮ",
 	"wikimedia-copyright": "ᱚᱞᱠᱚ ᱱᱚᱸᱰᱮ ᱧᱟᱢᱚᱜᱠᱟᱱᱟ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nᱵᱟᱹᱲᱛᱤᱛᱮ ᱟᱹᱭᱫᱟᱹᱨᱤ ᱡᱟᱹᱨᱩᱲ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾\nSee <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫᱛᱮ ᱧᱮᱞ ᱡᱚᱝᱢᱮ᱾",
 	"wikimedia-copyrightwarning": "ᱸᱟᱣᱟ ᱵᱚᱫᱚᱞᱠᱩ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱷᱚᱛᱮᱛᱮ, ᱟᱢ ᱫᱚᱢ ᱮᱠᱨᱟᱨᱚᱜ ᱠᱟᱱᱟ  [https://wikimediafoundation.org/wiki/Terms_of_Use Terms of Use], ᱱᱚᱣᱟ ᱥᱟᱶ ᱢᱤᱛ ᱢᱚᱛᱚᱜ ᱠᱟᱱᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱠᱚ ᱪᱷᱟᱯᱟ ᱥᱚᱫᱚᱨᱚᱜ ᱞᱟᱹᱜᱤᱛ ᱱᱚᱣᱟ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ᱟᱨ ᱱᱚᱣᱟ ᱞᱟᱭᱥᱮᱱᱥ ᱟᱹᱭᱫᱟᱹᱨᱤᱢ ᱮᱢᱮᱱᱟ᱾ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nᱟᱢ ᱫᱚ ᱮᱠᱢᱚᱛᱚᱜ ᱠᱟᱱᱟ ᱡᱮ ᱠᱨᱤᱭᱮᱴᱤᱵᱷ ᱠᱚᱢᱚᱱᱥ ᱞᱟᱭᱥᱮᱱᱥ ᱨᱮ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱥᱚᱫᱚᱨᱚᱜ-ᱟ ᱟᱨ ᱚᱱᱟ ᱫᱚ ᱦᱟᱭᱯᱟᱨ ᱡᱚᱱᱚᱲ ᱦᱚᱛᱮᱛᱮ ᱟᱨ ᱵᱟᱝᱠᱷᱟᱱ ᱫᱚ URL ᱦᱩᱭᱞᱮᱱ ᱠᱷᱟᱱᱜᱮ ᱦᱩᱭᱩᱜ-ᱟ᱾",
-	"wikibase-sitelinks-wikinews": "WikiSombat",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-wikinews": "ᱣᱤᱠᱤᱵᱮᱣᱨᱟ",
+	"wikibase-sitelinks-wikiquote": "ᱣᱤᱠᱤᱠᱩᱣᱚᱴ",
+	"wikibase-sitelinks-wikisource": "ᱣᱤᱠᱤᱯᱷᱮᱰᱟᱛ",
+	"wikibase-sitelinks-wikivoyage": "ᱣᱤᱠᱤᱵᱷᱚᱭᱮᱡᱽ",
 	"wikimedia-developers": "ᱞᱟᱦᱟᱱᱛᱤᱭᱤᱡ",
 	"wikimedia-globalblocking-ipblocked": "'''ᱟᱢᱟᱜ IP ᱵᱩᱴᱟᱹ ᱫᱚ [[m:Special:MyLanguage/Global blocks|ᱡᱚᱛᱚ ᱣᱤᱠᱤᱨᱮ ᱮᱥᱮᱫ ᱟᱠᱟᱱᱟ]] '''\n\nᱮᱥᱮᱫ ᱫᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ $1 ($2) ᱫᱟᱨᱟᱭᱛᱮ ᱾\nᱚᱱᱟ ᱨᱮᱱᱟᱜ ᱳᱡᱷᱚ ᱫᱚ ''$3'' \n\n*ᱮᱥᱮᱫ ᱮᱦᱚᱵ ᱟᱠᱟᱱᱟ : $4\n*ᱮᱥᱮᱫ ᱢᱩᱪᱟᱹᱫᱚᱜ-ᱟ : $5\n\nᱟᱢᱟᱜ IP ᱵᱩᱴᱟᱹ ᱫᱚ $6\nᱪᱮᱛᱟᱱ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱯᱩᱥᱴᱟᱹᱣᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ ᱡᱟᱦᱟᱸᱱ ᱠᱩᱠᱞᱤᱢ ᱫᱚᱦᱚᱭ ᱠᱷᱟᱱ ᱾\n\nᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱮᱱᱟᱜ-ᱟ ᱵᱮᱵᱷᱩᱞ ᱛᱮ ᱠᱚ ᱮᱥᱮᱫ ᱟᱠᱟᱫᱢᱮᱭᱟ, ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭᱡᱚᱝ ᱠᱟᱛᱷᱟ  ᱟᱨ ᱫᱤᱥᱟᱹᱫᱩᱜ ᱠᱚ [[m:Special:MyLanguage/No open proxies|ᱵᱟᱝ ᱨᱟᱲᱟ ᱯᱨᱚᱠᱥᱤ]] ᱡᱮᱜᱮᱛ ᱡᱟᱠᱟᱛ ᱟᱹᱨᱤ ᱠᱷᱚᱱᱮᱢ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ ᱾\n\nᱟᱨᱵᱟᱝᱠᱷᱟᱱ, ᱮᱥᱮᱫ ᱵᱟᱵᱚᱫᱽ ᱜᱟᱞᱢᱟᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ [[m:Steward requests/Global|ᱢᱮᱴᱟ-ᱣᱤᱠᱤ ᱨᱮ ᱧᱮᱞ ᱫᱚᱦᱲᱟ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱸᱨ ᱮᱢ ᱢᱮ]]",
 	"wikimedia-globalblocking-ipblocked-xff": "'''ᱢᱤᱫ ᱟᱨᱵᱟᱝ ᱵᱟᱹᱲᱛᱤ ᱯᱨᱚᱠᱥᱤ ᱥᱚᱨᱵᱷᱚᱨ ᱟᱢᱟᱜ ᱱᱮᱦᱚᱸᱨ ᱛᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱱᱟᱜ ᱫᱚ [[m:Special:MyLanguage/Global blocks|ᱜᱚᱴᱟᱨᱮ ᱮᱥᱮᱫ ᱟᱠᱟᱱᱟ]] '''\n\nᱮᱥᱮᱫ ᱫᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ $1 ($2) ᱫᱟᱨᱟᱭᱛᱮ ᱾\nᱚᱱᱟ ᱨᱮᱱᱟᱜ ᱳᱡᱷᱚ ᱫᱚ ''$3'' \n\n*ᱮᱥᱮᱫ ᱮᱦᱚᱵ ᱟᱠᱟᱱᱟ : $4\n*ᱮᱥᱮᱫ ᱢᱩᱪᱟᱹᱫᱚᱜ-ᱟ : $5\n\nᱮᱥᱮᱫ ᱟᱠᱟᱱ ᱯᱨᱚᱠᱥᱤ ᱵᱩᱴᱟᱹ ᱫᱚ $6\nᱪᱮᱛᱟᱱ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱯᱩᱥᱴᱟᱹᱣᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ ᱡᱟᱦᱟᱸᱱ ᱠᱩᱠᱞᱤᱢ ᱫᱚᱦᱚᱭ ᱠᱷᱟᱱ ᱾\n\nᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱢᱮᱱᱟᱜ-ᱟ ᱵᱮᱵᱷᱩᱞ ᱛᱮ ᱠᱚ ᱮᱥᱮᱫ ᱟᱠᱟᱫᱢᱮᱭᱟ, ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭᱡᱚᱝ ᱠᱟᱛᱷᱟ  ᱟᱨ ᱫᱤᱥᱟᱹᱫᱩᱜ ᱠᱚ [[m:Special:MyLanguage/No open proxies|ᱵᱟᱝ ᱨᱟᱲᱟ ᱯᱨᱚᱠᱥᱤ]] ᱡᱮᱜᱮᱛ ᱡᱟᱠᱟᱛ ᱟᱹᱨᱤ ᱠᱷᱚᱱᱮᱢ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ ᱾\n\nᱟᱨᱵᱟᱝᱠᱷᱟᱱ, ᱮᱥᱮᱫ ᱵᱟᱵᱚᱫᱽ ᱜᱟᱞᱢᱟᱨᱟᱣ ᱞᱟᱹᱜᱤᱫ [[m:Steward requests/Global|ᱢᱮᱴᱟ-ᱣᱤᱠᱤ ᱨᱮ ᱧᱮᱞ ᱫᱚᱦᱲᱟ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱚᱸᱨ ᱮᱢ ᱢᱮ]]"
