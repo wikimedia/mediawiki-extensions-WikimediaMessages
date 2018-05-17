@@ -258,5 +258,7 @@
 	"wikimedia-centralauth-contribs-locked": "Tento účet je globálně uzamčen.\nVíce informací najdete v [[m:Special:CentralAuth/$1|podrobnostech globálního účtu]].",
 	"right-viewdeletedfile": "Prohlížení smazaných souborů a stránek ve jmenných prostorech {{ns:file}} a {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Volby do Správní rady",
-	"wikimedia-cookiestatement": "Prohlášení o&nbsp;cookies"
+	"wikimedia-cookiestatement": "Prohlášení o&nbsp;cookies",
+	"ext-quicksurveys-performance-internal-survey-question": "Načetla se tato stránka dostatečně rychle?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Více informací najdete v [https://wikimediafoundation.org/wiki/Performance_Perception_Survey_Privacy_Statement prohlášení o ochraně osobních údajů] k tomuto průzkumu."
 }
