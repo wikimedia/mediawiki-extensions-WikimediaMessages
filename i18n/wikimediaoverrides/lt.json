@@ -6,7 +6,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(padėkite man pasirinkti)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Negali matyti paveikslėlio? [[{{MediaWiki:createacct-captcha-help-url}}|Prašykite paskyros]]",
+	"wikimedia-createacct-imgcaptcha-help": "Nematote paveikslėlio? [[{{MediaWiki:createacct-captcha-help-url}}|Prašykite paskyros]]",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Naudotojo vardo_politika"
 }
