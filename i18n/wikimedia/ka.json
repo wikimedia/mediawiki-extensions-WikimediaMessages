@@ -184,5 +184,6 @@
 	"eri-rcfilters-tour-invite-description": "სცადეთ „რედაქტირების მიმოხილვის ახალი ფილტრები“. იპოვეთ შესაბამისი რედაქტირებები თქვენი მოთხოვნილებებისათვის მიმოხილვაში",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "მეტის წაკითხვა",
 	"eri-rcfilters-tour-invite-yes-button": "ახალი ფილტრების ჩართვა",
-	"eri-rcfilters-tour-invite-no-button": "არა, გმადლობთ"
+	"eri-rcfilters-tour-invite-no-button": "არა, გმადლობთ",
+	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]"
 }

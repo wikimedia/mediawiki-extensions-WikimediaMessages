@@ -3,11 +3,12 @@
 		"authors": [
 			"Chelin",
 			"Cryptex",
-			"C.R."
+			"C.R.",
+			"Ruthven"
 		]
 	},
 	"sitesupport": "Donazzione",
-	"tooltip-n-sitesupport": "Aiutece",
+	"tooltip-n-sitesupport": "Aiutace",
 	"group-global-renamer": "Rinommenature globale",
 	"group-global-renamer-member": "{{GENDER:$1|rinommenatore globale}}",
 	"grouppage-global-renamer": "m:Global renamers",
