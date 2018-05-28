@@ -6,7 +6,7 @@
 			"ديفيد"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|((مساعدتي في اختيار))]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ساعدني في الاختيار)]]",
 	"wikimedia-createacct-imgcaptcha-help": "لا تستطيع رؤية الصورة؟ [[{{MediaWiki:createacct-captcha-help-url}}|اطلب حسابا]]",
 	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة [[m:Single User Login finalisation announcement|لإنهاء توحيد دخول المستخدم]]، مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]، المستخدمون يمكنهم طلب إعادة التسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
 	"createacct-helpusername-url": "{{ns:Project}}:سياسة اسم المستخدم",
