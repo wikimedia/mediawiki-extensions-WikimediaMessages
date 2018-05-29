@@ -4,11 +4,13 @@
 			"Simartampua"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Izin ilehan giot manyalin, mandistribusion dot/sanga mamodifikasi dokumen on i toru katontuan '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versi 1.2 sanga lobi baru na itorbitkon ni  [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];tanpa Bagian Invarian, tanpa Teks Lampak jolo, dot tanpa Teks Sampul Pudi. Salinan lisensi imasukkan i bagian na marjudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Deskripsi",
 	"wm-license-information-source": "Sumber",
 	"wm-license-information-date": "Tanggal",
 	"wm-license-information-author": "Panulis",
 	"wm-license-information-permission": "Santabi",
 	"wm-license-information-permission-reusing-text": "Mamake mulak berkas on",
-	"wm-license-own-work": "Ibaen sandiri"
+	"wm-license-own-work": "Ibaen sandiri",
+	"wm-license-self-multiple-licenses-select": "Amu bisa mamili pilian lisensi muyu"
 }
