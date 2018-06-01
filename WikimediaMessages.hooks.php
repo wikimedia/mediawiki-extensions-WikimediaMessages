@@ -1324,6 +1324,15 @@ class WikimediaMessagesHooks {
 				GuidedTourLauncher::launchTour( 'RcFiltersInvite', 'Confirm' );
 			}
 		} elseif (
+			$title->isSpecial( 'Watchlist' ) &&
+			$user->isLoggedIn() &&
+			$special->isStructuredFilterUiEnabled() &&
+			!$user->getOption( 'wlenhancedfilters-seen-tour' )
+		) {
+			// Show watchlist tour
+			GuidedTourLauncher::launchTour( 'WlFiltersIntro', 'Welcome' );
+			$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
+		} elseif (
 			// If we're on Special:RecentChanges
 			$title->isSpecial( 'Recentchanges' ) &&
 			// And the user is logged in
@@ -1377,6 +1386,25 @@ class WikimediaMessagesHooks {
 					'eri-rcfilters-tour-intro-welcome-no-ores-description',
 					'eri-rcfilters-tour-intro-preferences-description',
 					'eri-rcfilters-tour-intro-welcome-button',
+				],
+				'dependencies' => [
+					'ext.guidedTour'
+				],
+			] );
+
+			$resourceLoader->register( 'ext.guidedTour.tour.WlFiltersIntro', [
+				'localBasePath' => __DIR__ . '/modules',
+				'remoteExtPath' => 'WikimediaMessages/modules',
+				'scripts' => 'wlfilters-intro-tour.js',
+				'styles' => 'rcfilters-intro-tour.less',
+				'messages' => [
+					'eri-wlfilters-tour-intro-welcome-title',
+					'eri-rcfilters-tour-intro-welcome-description',
+					'eri-rcfilters-tour-help',
+					'eri-rcfilters-tour-intro-welcome-no-ores-description',
+					'eri-wlfilters-tour-intro-preferences-description',
+					'eri-rcfilters-tour-intro-welcome-button',
+					'eri-rcfilters-tour-intro-disable-button',
 				],
 				'dependencies' => [
 					'ext.guidedTour'
@@ -1452,6 +1480,10 @@ class WikimediaMessagesHooks {
 		];
 
 		$preferences['rcenhancedfilters-show-invite-confirmation'] = [
+			'type' => 'api',
+		];
+
+		$preferences['wlenhancedfilters-seen-tour'] = [
 			'type' => 'api',
 		];
 
