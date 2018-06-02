@@ -1,9 +1,9 @@
 ( function ( mw, gt ) {
 	var tour = new gt.TourBuilder( {
-			name: 'RcFiltersIntro',
-			shouldLog: true,
-			isSinglePage: true
-		} );
+		name: 'RcFiltersIntro',
+		shouldLog: true,
+		isSinglePage: true
+	} );
 
 	tour.firstStep( {
 		name: 'Welcome',
@@ -12,7 +12,7 @@
 			mw.config.get( 'wgRCFiltersORESAvailable' ) ?
 				'eri-rcfilters-tour-intro-welcome-description' :
 				'eri-rcfilters-tour-intro-welcome-no-ores-description',
-			$('<span>').append(
+			$( '<span>' ).append(
 				$( '<a>' )
 					.addClass( 'mw-rcfilters-tour-helplink external' )
 					.text( mw.msg( 'eri-rcfilters-tour-help' ) )
@@ -29,7 +29,7 @@
 		],
 		onHide: function () {
 			new mw.Api().saveOption( 'rcenhancedfilters-seen-tour', 1 );
-		},
+		}
 	} ).next( 'Preferences' );
 
 	tour.step( {
