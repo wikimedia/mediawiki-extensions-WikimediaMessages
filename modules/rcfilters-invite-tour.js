@@ -45,6 +45,7 @@
 				onclick: function () {
 					var api = new mw.Api();
 					api.saveOptions( {
+						// eslint-disable-next-line quote-props
 						'rcenhancedfilters': 1, // enable the beta feature
 						'rcenhancedfilters-seen-tour': 1, // cancel the other 'welcome' tour
 						'rcenhancedfilters-show-invite-confirmation': 1 // show 'Confirm' step
