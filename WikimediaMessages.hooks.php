@@ -1289,6 +1289,7 @@ class WikimediaMessagesHooks {
 	 * @param ChangesListSpecialPage $special Special page
 	 */
 	public static function onChangesListSpecialPageStructuredFilters( $special ) {
+		global $wgStructuredChangeFiltersShowWatchlistPreference;
 		if ( !ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
 			return;
 		}
@@ -1298,9 +1299,6 @@ class WikimediaMessagesHooks {
 
 		if (
 			// If we're on Special:RecentChanges
-			// NOTE: For this tour to be relevant anywhere else
-			// the language must change; right now, the language
-			// states RecentChanges only
 			$title->isSpecial( 'Recentchanges' ) &&
 			// And the user is logged in
 			$user->isLoggedIn() &&
@@ -1327,6 +1325,7 @@ class WikimediaMessagesHooks {
 			$title->isSpecial( 'Watchlist' ) &&
 			$user->isLoggedIn() &&
 			$special->isStructuredFilterUiEnabled() &&
+			$wgStructuredChangeFiltersShowWatchlistPreference &&
 			!$user->getOption( 'wlenhancedfilters-seen-tour' )
 		) {
 			// Show watchlist tour
