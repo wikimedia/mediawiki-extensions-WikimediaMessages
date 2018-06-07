@@ -350,6 +350,5 @@
 	"securepoll-dblist-securepollglobal": "Name used in the dropdown on [[Special:SecurePoll/create]] for the list of wikis allowed to vote for Board elections.",
 	"wikimedia-cookiestatement": "Text for link to Wikimedia Foundation statement about using [[:w:en:HTTP cookie|web cookies]] on foundationwiki for the footer on all WMF wikis.",
 	"ext-quicksurveys-performance-internal-survey-question": "The question for the perceived performance internal survey",
-	"ext-quicksurveys-performance-internal-survey-description": "{{notranslate}}\nDescription of the perceived performance internal survey",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Points to the privacy statement specific to the perceived performance internal survey"
 }
