@@ -361,6 +361,7 @@
 	"project-localized-name-idwiki": "{{ProjectNameDocumentation|url=https://id.wikipedia.org|name=Indonesian Wikipedia|language=id}}",
 	"project-localized-name-idwikibooks": "{{ProjectNameDocumentation|url=https://id.wikibooks.org|name=Indonesian Wikibooks|language=id}}",
 	"project-localized-name-idwikimedia": "{{ProjectNameDocumentation|url=https://id.wikimedia.org|name=Wikimedia Indonesia|language=id}}",
+	"project-localized-name-id_internalwikimedia": "{{ProjectNameDocumentation|url=https://id-internal.wikimedia.org|name=Wikimedia Indonesia (internal)|language=id}}",
 	"project-localized-name-idwikiquote": "{{ProjectNameDocumentation|url=https://id.wikiquote.org|name=Indonesian Wikiquote|language=id}}",
 	"project-localized-name-idwikisource": "{{ProjectNameDocumentation|url=https://id.wikisource.org|name=Indonesian Wikisource|language=id}}",
 	"project-localized-name-idwiktionary": "{{ProjectNameDocumentation|url=https://id.wiktionary.org|name=Indonesian Wiktionary|language=id}}",
