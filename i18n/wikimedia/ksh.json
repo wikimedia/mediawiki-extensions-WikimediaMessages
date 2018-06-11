@@ -5,7 +5,8 @@
 			"Purodha",
 			"Απεργός",
 			"Nemo bis",
-			"WTM"
+			"WTM",
+			"Matěj Suchánek"
 		]
 	},
 	"wikimediamessages-desc": "Systemnohrechte un Tex för de Wikimedia Shtefftung ier Wikis.",
@@ -162,7 +163,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|Wiki-Köbes}}",
 	"grouppage-sysadmin": "m:System administrators/ksh",
 	"group-translationadmin": "Övversäzongsverwalldere",
-	"group-translationadmin-member": "{{GENDER:$1Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder}}",
+	"group-translationadmin-member": "{{GENDER:$1|Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder|Övversäzongsverwallderėn|Övversäzongsverwallder}}",
 	"grouppage-translationadmin": "{{ns:project}}:Övversäzongsverwalldere",
 	"group-wmf-researcher": "Fochscher vun de <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Wikimedia Foundation\">WMF</i>",
 	"group-wmf-researcher-member": "{{GENDER:$1|Fochscher|Fochscherėn|Fochscher|Fochscherėn|Fochscher}} vun de <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Wikimedia Foundation - de Wikkimehdija schteftong\">WMF</i>",
