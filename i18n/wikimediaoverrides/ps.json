@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis"
+			"Nemo bis",
+			"Baloch Khan"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(په ټاکلو کې يې مرسته غواړم)]]",
-	"wikimedia-createacct-imgcaptcha-help": "انځور د کتلو وړ نه دی؟ [[{{MediaWiki:createacct-captcha-help-url}}|د يو گڼون غوښتنه کول]]"
+	"wikimedia-createacct-imgcaptcha-help": "انځور د کتلو وړ نه دی؟ [[{{MediaWiki:createacct-captcha-help-url/ps}}|د يو گڼون غوښتنه کول]]"
 }

@@ -62,7 +62,7 @@
 	"grouppage-botadmin": "{{ns:project}}:প্রশাসকের ক্ষমতা সম্পন্ন বট",
 	"group-confirmed": "নিশ্চিতকৃত ব্যবহারকারী",
 	"group-confirmed-member": "{{GENDER:$1|নিশ্চিতকৃত ব্যবহারকারী}}",
-	"grouppage-confirmed": "{{ns:project}}:নিশ্চিতকৃত ব্যবহারকারীরা",
+	"grouppage-confirmed": "{{ns:project}}:নিশ্চিতকৃত ব্যবহারকারী",
 	"group-editprotected": "সুরক্ষিত পাতা সম্পাদক",
 	"group-editprotected-member": "{{GENDER:$1|সুরক্ষিত পাতা সম্পাদক}}",
 	"grouppage-editprotected": "{{ns:project}}:সুরক্ষিত পাতা সম্পাদক",

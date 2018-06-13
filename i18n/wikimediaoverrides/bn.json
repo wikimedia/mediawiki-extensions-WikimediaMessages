@@ -10,6 +10,5 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(বাছাই করতে আমাকে সাহায্য করুন)]]",
 	"wikimedia-createacct-imgcaptcha-help": "ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]] করুন",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< ২০০৬",
-	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি",
-	"wikimedia-fileexporter-text": "কমন্সে আমদানি করুন"
+	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি"
 }
