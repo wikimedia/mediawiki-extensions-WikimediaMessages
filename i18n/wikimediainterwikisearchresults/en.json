@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stas Malyshev"
+			"Stas Malyshev",
+			"Zoranzoki21"
 		]
 	},
 	"search-interwiki-results-abwiki": "Showing results from [[:ab:|Abkhaz Wikipedia]].",
-	"search-interwiki-results-acewiki": "Showing results from [[:ace:|Acehnese Wikipedia]].",
+	"search-interwiki-results-acewiki": "Showing results from [[:ace:|Achinese Wikipedia]].",
 	"search-interwiki-results-adywiki": "Showing results from [[:ady:|Adyghe Wikipedia]].",
 	"search-interwiki-results-afwiki": "Showing results from [[:af:|Afrikaans Wikipedia]].",
 	"search-interwiki-results-akwiki": "Showing results from [[:ak:|Akan Wikipedia]].",
