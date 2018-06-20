@@ -226,6 +226,7 @@
 	"eri-rcfilters-tour-invite-no-button": "Όχι, ευχαριστώ",
 	"eri-rcfilters-tour-confirm-title": "Τα νέα φίλτρα τώρα είναι ενεργοποιημένα",
 	"eri-rcfilters-tour-confirm-description": "Μπορείτε να πάτε στη <strong>σελίδα λειτουργιών Beta</strong> για να δώσετε ανατροφοδότηση ή να απενεργοποιήσετε τη λειτουργία.",
+	"wikimedia-centralauth-contribs-locked": "Αυτός ο λογαριασμός είναι καθολικά κλειδωμένος.\nΒλέπε τις [[m:Special:CentralAuth/$1|καθολικές λεπτομέρειες λογαριασμού]] για περισσότερες πληροφορίες.",
 	"right-viewdeletedfile": "Προβολή αρχείων και σελίδων στους χώρους {{ns:file}} και {{ns:file_talk}} που έχουν διαγραφεί",
 	"wikimedia-cookiestatement": "Δήλωση cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Αυτή η σελίδα φόρτωσε αρκετά γρήγορα;"
