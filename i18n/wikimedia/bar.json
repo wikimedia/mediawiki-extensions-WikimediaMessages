@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mucalexx"
+			"Mucalexx",
+			"Alexx",
+			"Joe Watzmo"
 		]
 	},
-	"wikimedia-copyright": "Da Text is unter da Lizenz <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">„Creative Commons Attribution-ShareAlike“</a> vafiagbor; zuasätzliche Bedingungen kennan åwendbor sai.\nOazlhaiten san in de <a href=\"https://wikimediafoundation.org/wiki/Nutzungsbedingungen\">Nutzungsbedingungen</a> beschrim."
+	"sitesupport": "Spenden",
+	"tooltip-n-sitesupport": "unterstitz ins",
+	"wikimedia-copyright": "En Text gibts unta da Lizenz <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">„Creative Commons Attribution-ShareAlike“</a>; Es ko dazua aa no weidane Bedingunga gem.\nSchaug <a href=\"https://wikimediafoundation.org/wiki/Nutzungsbedingungen\">Nutzungsbedingungen</a> fia Oanzlheitn.",
+	"wikimedia-copyrightwarning": "Mi'm Spaichern voh Éndarungen erklérst dé mid dé [https://wikimediafoundation.org/wiki/Terms_of_Use/de Nutzungsbedingungen] aihvastånden und lizenziast dé daining Beórwatungen unwiaderruafflé unter da Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Namensnennung – Weitergabe unter gleichen Bedingungen 3.0“] und da [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].\nDu stimmst zua, daa' a Hyperlink óder a URL zur Saiten fir d' nótwéndig Zuaschraiwung vo da ''Creative-Commons''-Lizenz ausraichend is.",
+	"wikimedia-developers": "Éntwiggler"
 }
