@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alexx"
+			"Alexx",
+			"Joe Watzmo"
 		]
 	},
-	"project-localized-name-acewiki": "Achinesischsproochige Wikipedia",
-	"project-localized-name-id_internalwikimedia": "Wikimedia Indónesien (intern)"
+	"project-localized-name-acewiki": "Achinesischsprochige Wikipedia",
+	"project-localized-name-id_internalwikimedia": "Wikimedia Indonesien (intern)"
 }
