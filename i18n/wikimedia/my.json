@@ -18,6 +18,7 @@
 	"grouppage-confirmed": "{{ns:project}}:အတည်ပြုထားသော အသုံးပြုသူများ",
 	"group-founder": "တည်ထောင်သူများ",
 	"group-ipblock-exempt": "အိုင်ပီ ပိတ်ပင်မှုမှ ကင်းလွတ်ထားသူများ",
+	"group-ipblock-exempt-member": "{{GENDER:$1|အိုင်ပီ ပိတ်ပင်မှုမှ ကင်းလွတ်ထားသူများ}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:အိုင်ပီ ပိတ်ပင်မှုမှ ကင်းလွတ်ထားသူများ",
 	"group-steward": "ကြီးကြပ်အုပ်ချုပ်သူများ",
 	"group-steward-member": "{{GENDER:$1|ကြီးကြပ်အုပ်ချုပ်သူ}}",
