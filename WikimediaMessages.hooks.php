@@ -1353,6 +1353,18 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
+	 * This hook is called when a new user account is (auto-)created
+	 * It is used to prevent new users from seeing RCFilters guided tours
+	 *
+	 * @param User $user
+	 * @param bool $autocreated
+	 */
+	public static function onLocalUserCreated( $user, $autocreated ) {
+		$user->setOption( 'rcenhancedfilters-seen-tour', true );
+		$user->setOption( 'wlenhancedfilters-seen-tour', true );
+	}
+
+	/**
 	 * @param ResourceLoader &$resourceLoader
 	 * @return true
 	 */

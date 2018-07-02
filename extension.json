@@ -95,6 +95,9 @@
 		"ChangesListSpecialPageStructuredFilters": [
 			"WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters"
 		],
+		"LocalUserCreated": [
+			"WikimediaMessagesHooks::onLocalUserCreated"
+		],
 		"ResourceLoaderRegisterModules": [
 			"WikimediaMessagesHooks::onResourceLoaderRegisterModules"
 		],
