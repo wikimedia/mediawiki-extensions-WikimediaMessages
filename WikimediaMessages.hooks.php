@@ -15,9 +15,8 @@ class WikimediaMessagesHooks {
 	 *   mwscript getSlaveServer.php --wiki='dewiki' --group=dump --globals
 	 *   print_r( $GLOBALS['wgHooks']['MessageCache::get'] );
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/MessageCache::get
 	 * @param String &$lcKey message key to check and possibly convert
-	 *
-	 * @return bool
 	 */
 	public static function onMessageCacheGet( &$lcKey ) {
 		global $wgLanguageCode, $wmgRealm;
@@ -54,7 +53,7 @@ class WikimediaMessagesHooks {
 			} else {
 				$transformedKey = self::transformKeyForGettingStarted( $lcKey );
 				if ( $transformedKey === $lcKey ) {
-					return true;
+					return;
 				}
 			}
 
@@ -80,15 +79,15 @@ class WikimediaMessagesHooks {
 				$lcKey = $transformedKey;
 			}
 		}
-		return true;
 	}
 
 	/**
 	 * Transforms keys for GettingStarted, if needed.
+	 *
 	 * This is used to provide Wikipedia-specific variants for certain keys.
+	 * Called from onMessageCacheGet.
 	 *
 	 * @param string $lcKey Original key, in lowercase form
-	 *
 	 * @return string New key, in lowercase form, either the same or transformed
 	 */
 	protected static function transformKeyForGettingStarted( $lcKey ) {
@@ -96,9 +95,10 @@ class WikimediaMessagesHooks {
 
 		list( $site, $lang ) = $wgConf->siteFromDB( $wgDBname );
 
-		// There are several wikis (e.g. commonswiki, wikidatawiki) that wrongly
-		// return Wikipedia here.  Before deploying GettingStarted to one, find a
-		// way to determine the real family.
+		// All "special" wikis (special.dblist, e.g. commonswiki, wikidatawiki, mediawikiwiki)
+		// wrongly return "wikipedia" here due to their dbname suffix.
+		// Before deploying GettingStarted to a special wiki,
+		// find a way to determine the real family here.
 		if ( $site === 'wikipedia' ) {
 			if ( in_array( $lcKey, [
 				"gettingstarted-task-toolbar-try-another-text",
@@ -122,15 +122,13 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
-	 * semi-dual license fun!
+	 * Override for copyright message in skin footer.
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinCopyrightFooter
 	 * @param Title $title
 	 * @param string $type
 	 * @param string &$msg
 	 * @param string &$link
-	 *
-	 * @return bool
 	 */
 	public static function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
 		global $wgRightsUrl;
@@ -145,18 +143,14 @@ class WikimediaMessagesHooks {
 				}
 			}
 		}
-
-		return true;
 	}
 
 	/**
-	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
-	 * semi-dual license fun!
+	 * Override for copyright message on edit page.
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/EditPageCopyrightWarning
 	 * @param Title $title
 	 * @param string &$msg
-	 *
-	 * @return bool
 	 */
 	public static function onEditPageCopyrightWarning( $title, &$msg ) {
 		global $wgRightsUrl;
@@ -164,20 +158,15 @@ class WikimediaMessagesHooks {
 		if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			$msg = [ 'wikimedia-copyrightwarning' ];
 		}
-
-		return true;
 	}
 
 	/**
-	 * Override with Wikimedia's site-specific copyright message defaults with the CC/GFDL
-	 * semi-dual license fun!
+	 * Override for copyright message (MobileFrontend extension).
 	 *
 	 * @param string &$link
 	 * @param string $context
 	 * @param array $attribs
 	 * @param string &$msg
-	 *
-	 * @return bool
 	 */
 	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg ) {
 		global $wgRightsUrl, $wgDBname;
@@ -194,17 +183,14 @@ class WikimediaMessagesHooks {
 					->plain();
 			}
 		}
-
-		return true;
 	}
 
 	/**
 	 * Add a "Developers"  (T35464) and "Cookie statement" (T124366) link to the footer of every page
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinTemplateOutputPageBeforeExec
 	 * @param SkinTemplate &$skin
 	 * @param QuickTemplate &$template
-	 *
-	 * @return bool
 	 */
 	public static function onSkinTemplateOutputPageBeforeExec( &$skin, &$template ) {
 		$devDestination = Skin::makeInternalOrExternalUrl(
@@ -225,45 +211,35 @@ class WikimediaMessagesHooks {
 		);
 		$template->set( 'cookiestatement', $cookieLink );
 		$template->data['footerlinks']['places'][] = 'cookiestatement';
-		return true;
 	}
 
 	/**
-	 * Set the message on TorBlock being triggered
+	 * Change which message is shown when TorBlock triggers (TorBlock extension)
 	 *
-	 * FIXME: Should have a specific message for WMF projects (T44231)
+	 * @todo FIXME: Should have a specific message for WMF projects (T44231)
 	 *
-	 * @param string &$msg The message to over-ride
-	 *
-	 * @return bool
+	 * @param string &$msg The message key
 	 */
 	public static function onTorBlockBlockedMsg( &$msg ) {
 		$msg = 'wikimedia-torblock-blocked';
-		return true;
 	}
 
 	/**
-	 * Set the message on GlobalBlocking IP block being triggered
+	 * Change which message is shown for IP block (GlobalBlocking extension)
 	 *
-	 * @param string &$msg The message to over-ride
-	 *
-	 * @return bool
+	 * @param string &$msg The message key
 	 */
 	public static function onGlobalBlockingBlockedIpMsg( &$msg ) {
 		$msg = 'wikimedia-globalblocking-ipblocked';
-		return true;
 	}
 
 	/**
-	 * Set the message on GlobalBlocking XFF block being triggered
+	 * Change which message is shown for XFF block (GlobalBlocking extension)
 	 *
-	 * @param string &$msg The message to over-ride
-	 *
-	 * @return bool
+	 * @param string &$msg The message key
 	 */
 	public static function onGlobalBlockingBlockedIpXffMsg( &$msg ) {
 		$msg = 'wikimedia-globalblocking-ipblocked-xff';
-		return true;
 	}
 
 	/**
@@ -271,8 +247,6 @@ class WikimediaMessagesHooks {
 	 * Overrides template data right before it gets sent to template for rendering
 	 *
 	 * @param MinervaTemplate $tpl
-	 *
-	 * @return bool
 	 */
 	public static function onMinervaPreRender( $tpl ) {
 		$skin = $tpl->getSkin();
@@ -280,7 +254,6 @@ class WikimediaMessagesHooks {
 		if ( method_exists( $skin, 'getTermsLink' ) ) {
 			$tpl->set( 'terms-use', $skin->getTermsLink( 'wikimedia-mobile-terms-url' ) );
 		}
-		return true;
 	}
 
 	/**
@@ -303,7 +276,6 @@ class WikimediaMessagesHooks {
 		) {
 			throw new ErrorPageError( 'uploaddisabled', 'wikimedia-upload-nolicenses' );
 		}
-		return true;
 	}
 
 	/**
@@ -1231,23 +1203,20 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Handler for the GetBetaFeaturePreferences hook.
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetBetaFeaturePreferences
-	 *
 	 * @param User $user User to get preferences for
 	 * @param array &$preferences Preferences configuration
-	 *
-	 * @return bool true in all cases
 	 */
-	public static function getBetaFeaturePreferences( User $user, array &$preferences ) {
+	public static function onGetBetaFeaturePreferences( User $user, array &$preferences ) {
 		global $wgExtensionAssetsPath, $wgEnableRcFiltersBetaFeature;
-		$ores = self::isOresAvailable();
 
 		if ( $wgEnableRcFiltersBetaFeature ) {
+			$ores = self::isOresAvailable();
 			$preferences['rcenhancedfilters'] = [
 				'label-message' => 'eri-rcfilters-beta-label',
 				'desc-message' => $ores
-					? 'eri-rcfilters-beta-description-ores' : 'eri-rcfilters-beta-description',
+					? 'eri-rcfilters-beta-description-ores'
+					: 'eri-rcfilters-beta-description',
 				'screenshot' => [
 					'rtl' => $wgExtensionAssetsPath .
 						'/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-rtl.svg',
@@ -1261,11 +1230,8 @@ class WikimediaMessagesHooks {
 				'requirements' => [
 					'javascript' => true,
 				],
-
 			];
 		}
-
-		return true;
 	}
 
 	/**
@@ -1283,10 +1249,13 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Prepare guided tours relevant to ChangesListSpecialPage
-	 * (in core: RecentChanges, RecentChangesLinked and Watchlist) depending
-	 * on the wiki user's settings.
+	 * Hook handler.
 	 *
+	 * - Prepare guided tours relevant to ChangesListSpecialPage.
+	 *   In MediaWiki core: RecentChanges, RecentChangesLinked, and Watchlist (depending
+	 *   on the current user's preferences).
+	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ChangesListSpecialPageStructuredFilters
 	 * @param ChangesListSpecialPage $special Special page
 	 */
 	public static function onChangesListSpecialPageStructuredFilters( $special ) {
@@ -1353,9 +1322,11 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * This hook is called when a new user account is (auto-)created
+	 * This hook is called when a new user account is (auto-)created.
+	 *
 	 * It is used to prevent new users from seeing RCFilters guided tours
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ResourceLoaderRegisterModules
 	 * @param User $user
 	 * @param bool $autocreated
 	 */
@@ -1365,8 +1336,8 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ResourceLoaderRegisterModules
 	 * @param ResourceLoader &$resourceLoader
-	 * @return true
 	 */
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
 		if ( ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
@@ -1385,7 +1356,6 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
-
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1403,7 +1373,6 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
-
 			$resourceLoader->register( 'ext.guidedTour.tour.WlFiltersIntro', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1422,7 +1391,6 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
-
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersHighlight', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1440,7 +1408,6 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
-
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersInvite', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1461,18 +1428,15 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
-
 		}
-
-		return true;
 	}
 
 	/**
-	 * Register RC Filters preferences
+	 * Register extra preferences.
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetPreferences
 	 * @param User $user User object
 	 * @param array &$preferences Preferences object
-	 * @return bool
 	 */
 	public static function onGetPreferences( $user, &$preferences ) {
 		$preferences['rcenhancedfilters-seen-tour'] = [
@@ -1498,17 +1462,14 @@ class WikimediaMessagesHooks {
 		$preferences['wlenhancedfilters-seen-tour'] = [
 			'type' => 'api',
 		];
-
-		return true;
 	}
 
 	/**
 	 * Add request for feedback on Special page(s).
 	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SpecialPageBeforeFormDisplay
 	 * @param string $name
 	 * @param HTMLForm &$form
-	 *
-	 * @return void
 	 */
 	public static function onSpecialPageBeforeFormDisplay( $name, HTMLForm &$form ) {
 		if ( !$form->getConfig()->get( 'SpecialBlockFeedbackRequest' ) || $name !== 'Block' ) {

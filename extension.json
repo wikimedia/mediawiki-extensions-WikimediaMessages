@@ -93,7 +93,7 @@
 			"WikimediaMessagesHooks::onUploadFormInitial"
 		],
 		"GetBetaFeaturePreferences": [
-			"WikimediaMessagesHooks::getBetaFeaturePreferences"
+			"WikimediaMessagesHooks::onGetBetaFeaturePreferences"
 		],
 		"ChangesListSpecialPageStructuredFilters": [
 			"WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters"
