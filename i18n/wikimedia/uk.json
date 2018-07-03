@@ -27,7 +27,8 @@
 			"Dars",
 			"Максим Підліснюк",
 			"Green Zero",
-			"SimondR"
+			"SimondR",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -282,8 +283,8 @@
 	"right-editeditorprotected": "редагування сторінок з рівнем захисту «{{int:protect-level-editeditorprotected}}»",
 	"protect-level-editeditorprotected": "Дозволено лише редакторам",
 	"restriction-level-editeditorprotected": "захищено від редагування",
-	"right-editextendedsemiprotected": "редагування сторінок, захищених як «{{int:protect-level-editextendedsemiprotected}}»",
-	"protect-level-editextendedsemiprotected": "Допускати лише автопатрульних",
+	"right-editextendedsemiprotected": "редагування сторінок з рівнем захисту «{{int:protect-level-editextendedsemiprotected}}»",
+	"protect-level-editextendedsemiprotected": "Дозволити лише автопатрульним",
 	"restriction-level-editextendedsemiprotected": "захищено до рівня автопатрульних",
 	"eri-rcfilters-beta-label": "Нові фільтри для перевірки редагувань",
 	"eri-rcfilters-beta-description": "Перевірка редагувань на сторінках Нових редагувань та Списку спостереження за допомогою легшого й потужнішого інтерфейсу. Містить нові фільтри, визначені користувачем виділення та інші покращення.",
