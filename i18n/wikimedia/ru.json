@@ -115,6 +115,7 @@
 	"group-eliminator-member": "{{GENDER:$1|удаляющий|удаляющая}}",
 	"grouppage-eliminator": "{{ns:project}}:Удаляющие",
 	"group-eventparticipant-member": "{{GENDER:$1|участник мероприятия|участница мероприятия}}",
+	"grouppage-eventparticipant": "{{ns:project}}:Участники мероприятий",
 	"group-extendedconfirmed": "Расширенно подтверждённые участники",
 	"group-extendedconfirmed-member": "расширенно {{GENDER:$1|подтверждённый участник|подтверждённая участница}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:Расширенно подтверждённые участники",
