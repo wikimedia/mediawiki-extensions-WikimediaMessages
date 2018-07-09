@@ -13,5 +13,7 @@
 	"group-oversight-member": "{{doc-group|oversight|member}}\nLocalized name of the oversight group member.\n{{Identical|Oversight}}",
 	"hello": "Standalone word used as a greeting or beginning of a crosswiki message.\n{{Identical|Hello}}",
 	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate.",
-	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}"
+	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}",
+	"specialblockfeedbackrequest": "Used in the {{msg-mw|Blockip}} form in [[Special:Block]].\n\nRefers to the notification text that changes to SpecialBlock are under consideration.",
+	"specialblockfeedbackrequestcta": "Used in the {{msg-mw|Blockip}} form in [[Special:Block]].\n\nRefers to the Call to Action button when the SpecialBlock request for feedback notification is enabled."
 }

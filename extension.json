@@ -51,6 +51,9 @@
 	"ResourceModules": {
 		"ext.wikimediamessages.contactpage.affcomusergroup": {
 			"styles": "ext.wikimediamessages.contactpage.affcomusergroup.css"
+		},
+		"mediawiki.special.block.feedback.request": {
+			"styles": "mediawiki.special.block.feedback.request.less"
 		}
 	},
 	"ResourceFileModulePaths": {
@@ -103,10 +106,14 @@
 		],
 		"GetPreferences": [
 			"WikimediaMessagesHooks::onGetPreferences"
+		],
+		"SpecialPageBeforeFormDisplay": [
+			"WikimediaMessagesHooks::onSpecialPageBeforeFormDisplay"
 		]
 	},
 	"config": {
-		"EnableRcFiltersBetaFeature": false
+		"EnableRcFiltersBetaFeature": false,
+		"SpecialBlockFeedbackRequest": false
 	},
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0

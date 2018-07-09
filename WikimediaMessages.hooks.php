@@ -1501,4 +1501,58 @@ class WikimediaMessagesHooks {
 
 		return true;
 	}
+
+	/**
+	 * Add request for feedback on Special page(s).
+	 *
+	 * @param string $name
+	 * @param HTMLForm &$form
+	 *
+	 * @return void
+	 */
+	public static function onSpecialPageBeforeFormDisplay( $name, HTMLForm &$form ) {
+		if ( !$form->getConfig()->get( 'SpecialBlockFeedbackRequest' ) || $name !== 'Block' ) {
+			return;
+		}
+
+		$form->getOutput()->addModuleStyles( [ 'mediawiki.special.block.feedback.request' ] );
+
+		$preText = $form->getPreText();
+
+		$icon = new OOUI\IconWidget( [
+			'icon' => 'feedback',
+		] );
+
+		$message = HTML::rawElement(
+				'div',
+				[
+					'class' => [ 'message' ],
+				],
+				 $icon . ' ' . $form->msg( 'specialblockfeedbackrequest' )->text()
+			);
+			$button = HTML::rawElement(
+				'div',
+				[
+					'class' => [ 'cta' ],
+				],
+				( new OOUI\ButtonWidget( [
+						'label' => $form->msg( 'specialblockfeedbackrequestcta' )->text(),
+						'href' => 'https://meta.wikimedia.org/wiki/Community_health_initiative/'
+							. 'Per-user_page,_namespace,_and_upload_blocking',
+						'flags' => [
+							'primary',
+							'progressive',
+						],
+				] ) )->toString()
+			);
+			$preText = HTML::rawElement(
+				'div',
+				[
+					'class' => [ 'specialblock-feedback-request' ],
+				],
+				$message . $button
+			) . $preText;
+
+		$form->setPreText( $preText );
+	}
 }

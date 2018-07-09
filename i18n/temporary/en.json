@@ -8,5 +8,7 @@
 	"group-oversight-member": "oversight",
 	"hello": "Hello",
 	"please-translate": "Please help translate to your language",
-	"thank-you": "{{GENDER:$1|Thank you.}}"
+	"thank-you": "{{GENDER:$1|Thank you.}}",
+	"specialblockfeedbackrequest": "There's a discussion happening about improvements to this blocking tool. Come check out the designs and join in.",
+	"specialblockfeedbackrequestcta": "Help improve blocking"
 }
