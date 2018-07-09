@@ -16,7 +16,8 @@
 			"Лорд Бъмбъри",
 			"Vodnokon4e",
 			"Ket",
-			"ShockD"
+			"ShockD",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Съобщения, специфични за Уикимедия",
@@ -191,7 +192,9 @@
 	"restriction-level-templateeditor": "защитен шаблон",
 	"protect-level-templateeditor": "Разрешено само за редактори на шаблони и администратори",
 	"protect-level-extendedconfirmed": "Разрешено само за утвърдени редактори и администратори",
+	"right-editeditorprotected": "Редактиране на страници защитени като „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Разрешено само за редактори",
+	"right-editextendedsemiprotected": "Редактиране на страници защитени като „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Разрешено само за автопатрулирани потребители",
 	"eri-rcfilters-beta-label": "Нови филтри за преглед на редакции",
 	"eri-rcfilters-beta-description": "Преглед на редакции в Списъка за наблюдение, използвайки по-прост и по-мощен интерфейс. Включва нови филтри, маркиране, дефинирано от потребителя и други подобрения.",
