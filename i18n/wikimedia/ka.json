@@ -177,6 +177,11 @@
 	"interlanguage-link-commons": "ვიკისაწყობი",
 	"eri-rcfilters-beta-label": "რედაქტირების გადახედვის ახალი ფილტრები",
 	"eri-rcfilters-beta-description": "რედაქტირებების გადახედვა ბოლო ცვლილებებში უფრო ადვილი და მძლავრი ინტერფეისით. შეიცავს ახალ ფილტრებს, სამომხმარებლო შენათებასა და სხვა გაუმჯობესებებს.",
+	"eri-rcfilters-tour-welcome-button": "კარგი, გასაგებია",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "რედაქტირებების მიმოხილვა უფრო ეფექტურად იყენებს ახალ ფილტრებს, ფილტრების კრებულის შენახვის შესაძლებლობას, სამომხმარებლო შენათებასა და სხვა გაუმჯობესებებს. $1",
+	"eri-rcfilters-tour-help": "მეტის გაგება",
+	"eri-rcfilters-tour-intro-welcome-button": "კარგი, გასაგებია",
+	"eri-rcfilters-tour-intro-disable-button": "გათიშე ახლა",
 	"eri-rcfilters-tour-highlight-title": "ფერის კოდი თქვენი შედეგებისთვის",
 	"eri-rcfilters-tour-highlight-description": "გამოიყენეთ მონიშვნა, რათა ვიზუალურად განასხვავოთ არჩეული თვისებები.<br/><br/>თქვენ შეგიძლიათ შეათავსოთ მონიშვნა ფილტრებთან ან გამოიყენოთ მონიშვნა დამოუკიდებლად.",
 	"eri-rcfilters-tour-highlight-button": "კარგი, გასაგებია",
@@ -185,5 +190,7 @@
 	"eri-rcfilters-tour-invite-learnmore-link-label": "მეტის წაკითხვა",
 	"eri-rcfilters-tour-invite-yes-button": "ახალი ფილტრების ჩართვა",
 	"eri-rcfilters-tour-invite-no-button": "არა, გმადლობთ",
+	"eri-wlfilters-tour-intro-welcome-title": "კეთილი იყოს თქვენი მობრძანება გაუმჯობესებული კონტროლის სიის ფილტრაციაში",
+	"eri-wlfilters-tour-intro-preferences-description": "წვდომა კონტროლის სიის ჩანართთან კონფიგურაციაში ნებისმიერ დროს გაუმჯობესებული კონტროლის სიის გასათიშად.",
 	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]"
 }
