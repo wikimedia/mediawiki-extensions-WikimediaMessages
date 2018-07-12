@@ -157,7 +157,7 @@
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Користувач|Користувачка}} верхньої межі запитів API",
 	"group-captcha-exempt": "Виключення з CAPTCHA",
 	"group-captcha-exempt-member": "{{GENDER:$1|виключення з CAPTCHA}}",
-	"group-centralnoticeadmin": "Центральні адміністратори-оповісники",
+	"group-centralnoticeadmin": "Адміністратори централізованих оповіщень",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|адміністратор централізованих оповіщень|адміністраторка централізованих оповіщень}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Центральні адміністратори-оповісники",
 	"group-global-bot": "Глобальні боти",
