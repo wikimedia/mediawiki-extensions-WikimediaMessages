@@ -7,7 +7,8 @@
 			"Yyy",
 			"Nemo bis",
 			"Edgars2007",
-			"Mouse21"
+			"Mouse21",
+			"Silraks"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia raksturīgi paziņojumi",
@@ -51,7 +52,7 @@
 	"group-inactive-member": "{{GENDER:$1|neaktīvs lietotājs|neaktīva lietotāja}}",
 	"grouppage-inactive": "{{ns:project}}:Neaktīvi lietotāji",
 	"group-ipblock-exempt": "IP bloķēšanas izņēmumi",
-	"group-patroller": "Patrulētāji",
+	"group-patroller": "{{ns:project}}:Dalībnieku tiesības#Pārbaudītāji",
 	"group-patroller-member": "{{GENDER:$1|patrulētājs|patrulētāja}}",
 	"grouppage-patroller": "{{ns:project}}:Patrulētāji",
 	"group-researcher": "Pētnieki",

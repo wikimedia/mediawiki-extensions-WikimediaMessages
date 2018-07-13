@@ -131,11 +131,15 @@
 	"interlanguage-link-commons": "ویکیمیدیا کۆمنز",
 	"eri-rcfilters-beta-label": "پاڵوێنەی نوێ بۆ بەسەرداچوونەوەی دەستکارییەکان",
 	"eri-rcfilters-tour-welcome-button": "باشە، تێگەیشتم",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بە شێوەیەکی باشتر بەسەر دەستکارییەکاندا بچۆرەوە بە بەکارھێنانی پاڵوێنە. دەتوانیت چەند پاڵوێنەیەک پاشەکەوت بکەیت و دەستکارییە مەبەستەکان ڕووناک بکەیت و چاکسازی زیاتری تریش. $1",
 	"eri-rcfilters-tour-help": "زۆرتر بزانە",
 	"eri-rcfilters-tour-intro-welcome-button": "باشە، تێگەیشتم",
+	"eri-rcfilters-tour-intro-disable-button": "ئێستا بیکوژێنەوە",
 	"eri-rcfilters-tour-highlight-button": "باشە، تێگەیشتم",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "زۆرتر بزانە",
 	"eri-rcfilters-tour-invite-yes-button": "پاڵوێنە نوێکان چالاک بکە",
 	"eri-rcfilters-tour-invite-no-button": "نەخێر، سوپاس",
+	"eri-wlfilters-tour-intro-welcome-title": "بەخێربێیت بۆ فیلتەرکردنی پێشکەوتووی پێڕستی چاودێری",
+	"eri-wlfilters-tour-intro-preferences-description": "دەتوانیت ھەر کاتێک ویستت چاکسازییەکانی پێڕستی چاودێری ڕابگریت بە کوژاندنەوەی پێڕستی چاودێری پێشکەوتوو لە ھەڵبژاردەکانەوە.",
 	"wikimedia-cookiestatement": "ڕوونکردنەوەی کوکی"
 }
