@@ -16,5 +16,7 @@
 	"group-oversight-member": "監督員",
 	"hello": "您好",
 	"please-translate": "請協助翻譯成您使用的語言",
-	"thank-you": "{{GENDER:$1|感謝您。}}"
+	"thank-you": "{{GENDER:$1|感謝您。}}",
+	"specialblockfeedbackrequest": "在此目前討論有關如何改善此封鎖工具。請瞧瞧構思內容並加入討論吧。",
+	"specialblockfeedbackrequestcta": "協助改善封鎖"
 }

@@ -13,5 +13,7 @@
 	"group-oversight-member": "censor",
 	"hello": "Hallå",
 	"please-translate": "Hjälp till att översätta till ditt språk",
-	"thank-you": "{{GENDER:$1|Tack.}}"
+	"thank-you": "{{GENDER:$1|Tack.}}",
+	"specialblockfeedbackrequest": "En diskussion om förbättringar för detta blockeringsverktyg pågår just nu. Kolla på designerna och anslut dig.",
+	"specialblockfeedbackrequestcta": "Hjälp till att förbättra blockeringen"
 }
