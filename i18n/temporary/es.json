@@ -17,5 +17,6 @@
 	"group-oversight-member": "{{GENDER:$1|supresor|supresora}}",
 	"hello": "Hola",
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
-	"thank-you": "{{GENDER:$1|Gracias.}}"
+	"thank-you": "{{GENDER:$1|Gracias.}}",
+	"specialblockfeedbackrequestcta": "Ayuda a mejorar las herramientas de bloqueo"
 }

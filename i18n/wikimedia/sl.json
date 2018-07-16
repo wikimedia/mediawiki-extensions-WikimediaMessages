@@ -151,5 +151,7 @@
 	"upload-form-label-own-work-message-commons": "Izjavljam, da sem lastnik avtorskih pravic te datoteke, strinjam se z nepreklicno objavo datoteke v Wikimedijini Zbirki pod dovoljenjem [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 4.0] in strinjam se s [https://wikimediafoundation.org/wiki/Terms_of_Use Pogoji uporabe].",
 	"upload-form-label-not-own-work-message-commons": "Če niste lastnik avtorskih pravic datoteke ali jo želite objaviti pod drugačnim dovoljenje, uporabite [https://commons.wikimedia.org/wiki/Special:UploadWizard Čarovnik za nalaganje v Zbirko].",
 	"upload-form-label-not-own-work-local-commons": "Morda želite datoteko poskusiti naložiti na [[Special:Upload|strani za nalaganje na {{SITENAME}}]], če stran dovoljuje nalaganje datoteke pod njihovimi pravili.",
+	"eri-rcfilters-beta-label": "Novi filtri za pregledovanje urejanj",
+	"eri-rcfilters-beta-description": "Preglejuj urejanja na svojem Spisku nadzorov s pomočjo enostavnejšega in izboljšanega vmesnika. Vsebuje nove filtre, označevanje po izbiri in druge izboljšave.",
 	"wikimedia-cookiestatement": "O piškotkih"
 }

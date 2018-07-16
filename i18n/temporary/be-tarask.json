@@ -12,5 +12,7 @@
 	"group-oversight-member": "рэвізор",
 	"hello": "Прывітаньне",
 	"please-translate": "Калі ласка, дапамажыце перакласьці на вашую мову",
-	"thank-you": "{{GENDER:$1|Дзякуй.}}"
+	"thank-you": "{{GENDER:$1|Дзякуй.}}",
+	"specialblockfeedbackrequest": "Цяпер ідзе абмеркаваньне паляпшэньняў гэтага інструмэнту блякаваньня. Заходзьце пабачыць прапановы і далучайцеся.",
+	"specialblockfeedbackrequestcta": "Дапамажыце палепшыць блякаваньні"
 }
