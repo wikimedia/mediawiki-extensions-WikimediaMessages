@@ -13,6 +13,6 @@
 	"group-global-sysop": "Pankinaban na parapaandar nin sistema",
 	"group-staff": "Kalikian",
 	"group-staff-member": "{{GENDER:$1|kalikiang miyembro}}",
-	"wikimedia-copyright": "An teksto makukua sa irarom kan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\ntibaad igwa pang ibang patanid.\nHilingon an <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Terms of Use</a> para sa detalye.",
+	"wikimedia-copyright": "An teksto makukua sa irarom kan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\ntibaad igwa pang ibang patanid.\nHilingon an <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> para sa detalye.",
 	"wikimedia-developers": "Mga developer"
 }

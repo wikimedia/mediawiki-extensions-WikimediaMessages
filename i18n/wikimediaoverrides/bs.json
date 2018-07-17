@@ -9,5 +9,5 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi u izboru)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Korisničko_ime",
-	"wikimedia-flow-terms-of-use-edit": "Čuvanjem izmjena prihvatate [https://wikimediafoundation.org/wiki/Terms_of_Use uslove korištenja] i neopozivo se slažete da svoj doprinos objavite pod licencama [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]."
+	"wikimedia-flow-terms-of-use-edit": "Čuvanjem izmjena prihvatate [https://foundation.wikimedia.org/wiki/Terms_of_Use uslove korištenja] i neopozivo se slažete da svoj doprinos objavite pod licencama [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]."
 }
