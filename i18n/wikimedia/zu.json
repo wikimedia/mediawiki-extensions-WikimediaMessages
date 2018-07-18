@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"לערי ריינהארט",
-			"Irus"
+			"Irus",
+			"Mtonihouse"
 		]
 	},
 	"sitesupport": "Izipho",
+	"tooltip-n-sitesupport": "Sisekele",
 	"wikimedia-developers": "Onjiniyela"
 }

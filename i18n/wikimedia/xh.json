@@ -1,4 +1,11 @@
 {
-	"@metadata": [],
-	"sitesupport": "Amalizo"
+	"@metadata": {
+		"authors": [
+			"Nomden"
+		]
+	},
+	"sitesupport": "Amalizo",
+	"tooltip-n-sitesupport": "Khawusixhase",
+	"wikimedia-copyright": "Jonga apha <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> ufumane iinkcukacha",
+	"wikimedia-developers": "Abakhi/abaphuhlisi"
 }

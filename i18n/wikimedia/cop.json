@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"ⲁϩⲙⲉⲧ"
+			"ⲁϩⲙⲉⲧ",
+			"Bloomaround"
 		]
 	},
+	"tooltip-n-sitesupport": "ⲁⲣⲓⲃⲟⲏ̀ⲑⲓⲛⲉⲛ",
 	"wikibase-sitelinks-wikinews": "ⲃⲓⲕⲓⲟⲩⲱ",
-	"wikibase-sitelinks-wikisource": "ⲃⲓⲕⲓⲡⲏⲅⲏ"
+	"wikibase-sitelinks-wikisource": "ⲃⲓⲕⲓⲡⲏⲅⲏ",
+	"wikimedia-developers": "ϩⲁⲛⲣⲉϥⲁⲓⲁⲓ"
 }
