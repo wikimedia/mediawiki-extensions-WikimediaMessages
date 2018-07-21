@@ -3,7 +3,8 @@
 		"authors": [
 			"Siebrand",
 			"MrLeopold",
-			"Romaine"
+			"Romaine",
+			"SPQRobin"
 		]
 	},
 	"search-interwiki-results-abwiki": "Resultaten uit de [[:ab:|Abchazische Wikipedia]].",
@@ -219,6 +220,7 @@
 	"search-interwiki-results-ruwiki": "Resultaten uit de [[:ru:|Russische Wikipedia]].",
 	"search-interwiki-results-rwwiki": "Resultaten uit de [[:rw:|Kinyarwanda Wikipedia]].",
 	"search-interwiki-results-sahwiki": "Resultaten uit de [[:sah:|Sakha Wikipedia]].",
+	"search-interwiki-results-satwiki": "Resultaten uit de [[:sat:|Santali Wikipedia]].",
 	"search-interwiki-results-sawiki": "Resultaten uit de [[:sa:|Sanskrietse Wikipedia]].",
 	"search-interwiki-results-scnwiki": "Resultaten uit de [[:scn:|Siciliaanse Wikipedia]].",
 	"search-interwiki-results-scowiki": "Resultaten uit de [[:sco:|Schotse Wikipedia]].",
