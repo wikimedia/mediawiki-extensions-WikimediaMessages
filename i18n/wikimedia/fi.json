@@ -22,7 +22,8 @@
 			"Alluk.",
 			"Pyscowicz",
 			"Zache",
-			"4shadoww"
+			"4shadoww",
+			"01miki10"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -91,9 +92,9 @@
 	"group-mover": "Siirtäjät",
 	"group-mover-member": "{{GENDER:$1|siirtäjä}}",
 	"grouppage-mover": "{{ns:project}}:Siirtäjät",
-	"group-flood": "botin käyttäjät",
-	"group-flood-member": "{{GENDER:$1|botin käyttäjä}}",
-	"grouppage-flood": "{{ns:project}}:Botin käyttäjät",
+	"group-flood": "Pseudobotit",
+	"group-flood-member": "{{GENDER:$1|pseudobotti}}",
+	"grouppage-flood": "{{ns:project}}:Pseudobotit",
 	"group-founder": "perustajat",
 	"group-founder-member": "{{GENDER:$1|perustaja}}",
 	"grouppage-founder": "{{ns:project}}:Perustajat",
@@ -170,6 +171,8 @@
 	"group-translationadmin-member": "{{GENDER:$1|käännösylläpitäjä}}",
 	"grouppage-translationadmin": "{{ns:project}}:Käännösylläpitäjät",
 	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Käyttää globaali väärinkäyttösuodatin 110.",
+	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"search-interwiki-custom": "wikt:Wikisanakirjasta\nb:Wikikirjastosta\nn:Wikiuutisista\nq:Wikisitaateista\ns:Wikiaineistosta\nv:Wikiopistosta\nvoy:Wikimatkoista",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href=\"https://foundation.wikimedia.org/wiki/Käyttöehdot\">käyttöehdot</a>.",
@@ -233,8 +236,8 @@
 	"right-editextendedsemiprotected": "Muokata sivuja, jotka on suojattu tasolle \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Salli vain autopatrollerit",
 	"eri-rcfilters-beta-label": "Uudet suodattimet muutosten tarkasteluun",
-	"eri-rcfilters-beta-description": "Arvioi tuoreita muutoksia helpommalla ja tehokkaammalla käyttöliittymällä. Sisältää uudet suodattimet, käyttäjän määrittelemät korostukset ja muita parannuksia.",
-	"eri-rcfilters-beta-description-ores": "Tarkastele tuoreita muutoksia helpommalla ja tehokkaammalla käyttöliittymällä, sekä monilla uusilla työkaluilla, mukaan lukien [[mw:Special:MyLanguage/ORES|ORES:n]] koneoppimiseen perustuvat ennakoivat suodattimet.",
+	"eri-rcfilters-beta-description": "Arvioi tarkkailulistan muutoksia helpommalla ja tehokkaammalla käyttöliittymällä. Sisältää uudet suodattimet, käyttäjän määrittelemät korostukset ja muita parannuksia.",
+	"eri-rcfilters-beta-description-ores": "Tarkastele tarkkailulistan muutoksia helpommalla ja tehokkaammalla käyttöliittymällä, sekä monilla uusilla työkaluilla, mukaan lukien [[mw:Special:MyLanguage/ORES|ORES:n]] koneoppimiseen perustuvat ennakoivat suodattimet.",
 	"eri-rcfilters-tour-welcome-title": "Esittelyssä: uudet suodattimet muutosten tarkkailuun (beta)",
 	"eri-rcfilters-tour-welcome-description": "Yhdistä parannellut työkalut, uusi käyttöliittymä, koneoppimisen tehokkuus vandalismin torjuntaan ja uusien käyttäjien auttamiseen.",
 	"eri-rcfilters-tour-welcome-no-ores-description": "Tarkkaile muutoksia helpommalla ja tehokkaammalla käyttöliittymällä, uusilla suodattimilla, käyttäjän määrittelemillä korostuksilla, ja muilla parannuksilla.",
@@ -249,5 +252,6 @@
 	"eri-rcfilters-tour-confirm-title": "Uudet suodattimet ovat nyt käytössä",
 	"wikimedia-centralauth-contribs-locked": "Tämä käyttäjätunnus on lukittu järjestelmänlaajuisesti.\nKatso [[m:Special:CentralAuth/$1|järjestelmänlaajuisen tunnuksen tiedot]] lisätietoja varten.",
 	"securepoll-dblist-securepollglobal": "Hallituksen vaalit",
-	"wikimedia-cookiestatement": "Evästekäytäntö"
+	"wikimedia-cookiestatement": "Evästekäytäntö",
+	"ext-quicksurveys-performance-internal-survey-question": "Latautuiko tämä sivu tarpeeksi nopeasti?"
 }

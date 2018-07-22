@@ -14,7 +14,8 @@
 			"Wix",
 			"ZeiP",
 			"Veikk0.ma",
-			"Pyscowicz"
+			"Pyscowicz",
+			"01miki10"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Tämän teoksen tekijänoikeuksien haltija, $1, sallii kenen tahansa käyttää sitä '''mihin tahansa tarkoitukseen, edellyttän''' että tekijänoikeuksien haltija on asianmukaisesti mainittu. Teoksen uudelleen käyttö, muokaaminen, kaupallinen käyttö ja muu käyttö on sallittu.",
@@ -98,6 +99,8 @@
 	"wm-license-pd-usgov-military-army-wiki-link": "w:fi:Yhdysvaltain maavoimat",
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:fi:Yhdysvaltain laivasto",
 	"wm-license-pd-wiki-link": "w:fi:Public domain",
+	"wm-license-self": "Minä, tämän teoksen tekijänoikeuksien haltija, julkaisen täten tämän teoksen {{PLURAL:$1|seuraavalla lisenssillä|seuraavilla lisensseillä}}:",
+	"wm-license-self-with-author": "$1, tämän teoksen tekijänoikeuksien haltija, julkaisee täten tämän teoksen {{PLURAL:$2|seuraavalla lisenssillä|seuraavilla lisensseillä}}:",
 	"wm-license-self-one-license": "Minä, tämän teoksen tekijänoikeuksien haltija, julkaisen täten tämän teoksen seuraavalla lisenssillä:",
 	"wm-license-self-one-license-with-author": "$1, tämän teoksen tekijänoikeuksien haltija, julkaisee täten tämän teoksen seuraavalla lisenssillä:",
 	"wm-license-self-multiple-licenses": "Minä, tämän teoksen tekijänoikeuksien haltija, julkaisen täten tämän teoksen seuraavilla lisensseillä:",

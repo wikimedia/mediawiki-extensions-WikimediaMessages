@@ -7,7 +7,8 @@
 			"Sovichet",
 			"Thearith",
 			"គីមស៊្រុន",
-			"វ័ណថារិទ្ធ"
+			"វ័ណថារិទ្ធ",
+			"Aefgh39622"
 		]
 	},
 	"wikimediamessages-desc": "សារយថាប្រភេទរបស់វិគីមេឌា",
@@ -18,6 +19,9 @@
 	"nstab-creator": "ស្ថាបនិក",
 	"nstab-institution": "ស្ថាប័ន",
 	"group-Image-reviewer-member": "{{GENDER:$1|អ្នកត្រួតពិនិត្យរូបភាព}}",
+	"group-OTRS-member": "សមាជិក OTRS",
+	"group-OTRS-member-member": "{{GENDER:$1|សមាជិក OTRS}}",
+	"grouppage-OTRS-member": "{{ns:project}}:សមាជិក OTRS",
 	"group-abusefilter": "កម្មវិធី​កែ​សម្រួល​តម្រងការបំពានច្បាប់",
 	"group-abusefilter-member": "{{GENDER:$1|កម្មវិធី​កែ​សម្រួល​តម្រងការបំពានច្បាប់}}",
 	"grouppage-abusefilter": "{{ns:project}}:កម្មវិធី​កែ​សម្រួល​តម្រងការបំពានច្បាប់",
@@ -51,6 +55,7 @@
 	"group-inactive-member": "{{GENDER:$1|អ្នក​ប្រើ​ប្រាស់​អសកម្ម​}}",
 	"grouppage-inactive": "{{ns:project}}:អ្នកប្រើប្រាស់អសកម្ម",
 	"group-interface-editor-member": "{{GENDER:$1|អ្នកកែប្រែអន្តរមុខ}}",
+	"group-ipblock-exempt-member": "{{GENDER:$1|ការលើកលែងការទប់ស្កាត់ IP}}",
 	"group-patroller": "អ្នកតាមដាន",
 	"group-patroller-member": "{{GENDER:$1|អ្នកល្បាត}}",
 	"group-researcher-member": "{{GENDER:$1|អ្នកស្រាវជ្រាវ}}",
@@ -76,6 +81,8 @@
 	"wikibase-sitelinks-wikiquote": "វិគីពាក្យពេចន៍",
 	"wikibase-sitelinks-wikisource": "វិគីបណ្ណាល័យ",
 	"wikibase-sitelinks-wikivoyage": "វិគីទេសចរណ៍",
+	"wikibase-otherprojects-wikibooks": "វិគីសៀវភៅ",
+	"wikibase-otherprojects-wikisource": "វិគីបណ្ណាល័យ",
 	"cant-delete-main-page": "អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។",
 	"wikimedia-developers": "អ្នកសរសេរកូដ",
 	"eri-rcfilters-beta-label": "តម្រងថ្មីសម្រាប់ត្រួតពិនិត្យកំណែប្រែ"
