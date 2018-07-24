@@ -184,7 +184,7 @@
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Политика приватности]",
 	"upload-form-label-own-work-message-commons": "Потврђујем да поседујем ауторска права за ову датотеку и слажем се да ћу је неопозиво отпремити на Викимедијину Оставу под лиценцом [https://creativecommons.org/licenses/by-sa/4.0/ Кријејтив комонс Ауторство-Делити под истим условима 4.0], те прихватам [https://foundation.wikimedia.org/wiki/Terms_of_Use услове коришћења].",
 	"upload-form-label-not-own-work-message-commons": "Ако не поседујете ауторска права за ову датотеку или је желите отпремити под другом лиценцом, размотрите коришћење [https://commons.wikimedia.org/wiki/Special:UploadWizard Водича за отпремање на Оставу].",
-	"upload-form-label-not-own-work-local-commons": "Такође можете користити [[Special:Upload|страницу за отпремање датотека на пројекту {{SITENAME}}]], ако политика сајта дозвољава отпремање ове датотеке.",
+	"upload-form-label-not-own-work-local-commons": "Такође можете да користите [[Special:Upload|страницу за отпремање датотека на пројекту {{SITENAME}}]], ако политика сајта дозвољава отпремање ове датотеке.",
 	"wikimediashoplink-linktext": "Википедија продавница",
 	"wikimediashoplink-link-tooltip": "Посетите Википедија продавницу",
 	"interlanguage-link-mul": "Више језика",
