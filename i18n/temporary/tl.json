@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"AnakngAraw"
+			"AnakngAraw",
+			"Sky Harbor"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Tagapagingat-tago",
 	"group-oversight": "Mga tagapagingat-tago",
-	"group-oversight-member": "tagapagingat-tago"
+	"group-oversight-member": "tagapagingat-tago",
+	"specialblockfeedbackrequestcta": "Tumulong sa pagbuti ng pagharang"
 }

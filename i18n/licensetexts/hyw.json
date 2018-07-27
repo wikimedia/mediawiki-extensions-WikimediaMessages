@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"ArmenBakkalian"
+			"ArmenBakkalian",
+			"Azniv Stepanian"
 		]
 	},
 	"wm-license-information-description": "Նկարագրութիւն",
+	"wm-license-information-source": "Աղբիւր",
 	"wm-license-information-date": "Թուական",
 	"wm-license-information-author": "Հեղինակ",
 	"wm-license-information-permission": "Արտօնութիւն",

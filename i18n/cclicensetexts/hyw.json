@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"ArmenBakkalian"
+			"ArmenBakkalian",
+			"Rajemian"
 		]
 	},
 	"wm-license-cc-attribution": "վերագրում",
 	"wm-license-cc-free": "Դուք ազատ էք՝",
+	"wm-license-cc-free-to-share-header": "կիսել",
+	"wm-license-cc-free-to-share-text": "Աշխատանքը ընդօրինակել, տարածել եւ փոխանցել",
+	"wm-license-cc-free-to-remix-header": "վերափոխել",
+	"wm-license-cc-free-to-remix-text": "աշխատանքը յարմարեցնել",
 	"wm-license-cc-conditions-attribution-header": "վերագրում"
 }
