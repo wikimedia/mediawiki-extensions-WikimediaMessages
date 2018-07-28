@@ -6,10 +6,15 @@
 		]
 	},
 	"wm-license-cc-attribution": "վերագրում",
+	"wm-license-cc-by-sa-3.0-text": "Այս նիշքը տրամադրելի է [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] արտօնագրի ներքոյ:",
 	"wm-license-cc-free": "Դուք ազատ էք՝",
 	"wm-license-cc-free-to-share-header": "կիսել",
 	"wm-license-cc-free-to-share-text": "Աշխատանքը ընդօրինակել, տարածել եւ փոխանցել",
 	"wm-license-cc-free-to-remix-header": "վերափոխել",
 	"wm-license-cc-free-to-remix-text": "աշխատանքը յարմարեցնել",
-	"wm-license-cc-conditions-attribution-header": "վերագրում"
+	"wm-license-cc-conditions": "Հետեւեալ պայմաններուն ներքոյ՝",
+	"wm-license-cc-conditions-attribution-header": "վերագրում",
+	"wm-license-cc-conditions-attribution-text": "Աշխատանքը պէտք է վերագրել հեղինակին կամ արտօնատիրոջ յատկանշած ձեւով (սակայն ոչ այնպէս մը որ թուայ թէ անոնք կը հաստատեն ձեր անոր օգտագործումը)։",
+	"wm-license-cc-conditions-share_alike-header": "Նոյնապայման տարածում",
+	"wm-license-cc-conditions-share_alike-text": "Եթէ այս աշխատանքը ձեւափոխէք, փոխակերպէք կամ անոր հիմա վրայ ստեղծէք ձերը, ապա կրնաք զայն տարածել միայն նոյն կամ համարժէք արտօնագրով ինչպէս այս մէկը։"
 }
