@@ -1528,7 +1528,7 @@ class WikimediaMessagesHooks {
 				[
 					'class' => [ 'message' ],
 				],
-				 $icon . ' ' . $form->msg( 'specialblockfeedbackrequest' )->text()
+				 $icon . ' ' . $form->msg( 'specialblockfeedbackrequest' )->escaped()
 			);
 			$button = HTML::rawElement(
 				'div',
