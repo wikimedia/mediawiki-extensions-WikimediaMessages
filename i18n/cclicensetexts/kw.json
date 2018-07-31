@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kw-Moon"
+			"Kw-Moon",
+			"Nrowe"
 		]
 	},
-	"wm-license-cc-attribution": "Askrifans"
+	"wm-license-cc-attribution": "Askrifans",
+	"wm-license-cc-by-sa-3.0-text": "Yma an restren ma yn-dann an leshyans [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-free": "Yma'n gwir dhywgh:",
+	"wm-license-cc-free-to-share-header": "a ranna",
+	"wm-license-cc-free-to-share-text": "a dhasskrifa, lesranna ha treuskorra an ober",
+	"wm-license-cc-free-to-remix-header": "a gemyska",
+	"wm-license-cc-free-to-remix-text": "a aswiwa an ober",
+	"wm-license-cc-conditions": "Yn-dann an ragselyow a syw:",
+	"wm-license-cc-conditions-attribution-header": "askrifans",
+	"wm-license-cc-conditions-attribution-text": "Res yw dhywgh asskrifa an ober y'n fordh govynnys gans an awtour po perghennek an leshyans (mes ny yllir y wul yn fordh a broffo i dh'agas skoodhya po agas devnydh a'n ober).",
+	"wm-license-cc-conditions-share_alike-text": "Mar kwrewgh hwi chanjya, treusfurvya po drehevel war an ober ma, ny yllowgh lesranna an ober a syw marnas yn-dann an keth leshyans po leshyans hevelep gans hemma."
 }

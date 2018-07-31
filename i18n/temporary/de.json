@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kghbln",
-			"Metalhead64"
+			"Metalhead64",
+			"Schniggendiller"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht Wikimedia-spezifische temporäre Nachrichten",
@@ -13,5 +14,5 @@
 	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen",
 	"thank-you": "{{GENDER:$1|Vielen Dank.}}",
 	"specialblockfeedbackrequest": "Es findet derzeit eine Diskussion über Verbesserungen an diesem Sperrwerkzeug statt. Schau dir die Entwürfe an und nimm an der Diskussion teil.",
-	"specialblockfeedbackrequestcta": "Bei der Verbesserung der Sperre helfen"
+	"specialblockfeedbackrequestcta": "Bei der Verbesserung der Sperren helfen"
 }

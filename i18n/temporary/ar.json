@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"ديفيد"
+			"ديفيد",
+			"علاء"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا مؤقتة محددة",
@@ -11,5 +12,7 @@
 	"group-oversight-member": "ناظر",
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
-	"thank-you": "{{GENDER:$1|شكرا لك.}}"
+	"thank-you": "{{GENDER:$1|شكرا لك.}}",
+	"specialblockfeedbackrequest": "هناك نقاشٌ جارٍ حول تحسينات أداة المنع هذه. انضم لنا وتحقق من التصاميم.",
+	"specialblockfeedbackrequestcta": "ساعد في تحسين المنع"
 }

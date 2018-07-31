@@ -8,7 +8,8 @@
 			"MarcoAurelio",
 			"Matiia",
 			"-jem-",
-			"Syum90"
+			"Syum90",
+			"PoLuX124"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
@@ -18,5 +19,6 @@
 	"hello": "Hola",
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
 	"thank-you": "{{GENDER:$1|Gracias.}}",
+	"specialblockfeedbackrequest": "Actualmente existe una discusión acerca de mejorar las herramientas de bloqueo. Echa un vistazo y únete a la conversación.",
 	"specialblockfeedbackrequestcta": "Ayuda a mejorar las herramientas de bloqueo"
 }

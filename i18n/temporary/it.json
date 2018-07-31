@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
-			"Darth Kule"
+			"Darth Kule",
+			"Fringio"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi temporanei specifici per Wikimedia",
@@ -11,5 +12,7 @@
 	"group-oversight-member": "oversight",
 	"hello": "Ciao",
 	"please-translate": "Aiutaci a tradurre nella tua lingua",
-	"thank-you": "{{GENDER:$1|Grazie.}}"
+	"thank-you": "{{GENDER:$1|Grazie.}}",
+	"specialblockfeedbackrequest": "C'è una discussione sul miglioramento di questo strumento per i blocchi. Vedi il nuovo design e unisciti alla conversazione.",
+	"specialblockfeedbackrequestcta": "Aiuta a migliorare il blocco degli utenti"
 }
