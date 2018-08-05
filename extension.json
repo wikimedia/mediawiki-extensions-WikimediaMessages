@@ -45,6 +45,12 @@
 			"i18n/wikitech"
 		]
 	},
+	"RawHtmlMessages": [
+		"wikimedia-mobile-license-links",
+		"wikimedia-copyright",
+		"wikidata-copyright",
+		"wikimedia-feedback-termsofuse"
+	],
 	"AutoloadClasses": {
 		"WikimediaMessagesHooks": "WikimediaMessages.hooks.php"
 	},
