@@ -66,7 +66,7 @@
 	"grouppage-abusefilter": "{{ns:project}}:Operatorzy filtru nadużyć",
 	"group-abusefilter-helper": "Wspomagający kontrolę filtra nadużyć",
 	"group-abusefilter-helper-member": "{{GENDER:$1|Wspomagający|Wspomagająca}} kontrolę filtra nadużyć",
-	"group-accountcreator": "Tworzący konta",
+	"group-accountcreator": "Twórcy kont",
 	"group-accountcreator-member": "{{GENDER:$1|twórca|twórczyni}} kont",
 	"grouppage-accountcreator": "{{ns:project}}:Twórcy kont",
 	"group-arbcom": "Członkowie Komitetu Arbitrażowego",

@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Aursani",
-			"Mehtab ahmed"
+			"Mehtab ahmed",
+			"Tweety"
 		]
 	},
 	"wm-license-cc-attribution": "انتساب",
 	"wm-license-cc-by-sa-3.0-text": "ھي فائيل [[{{int:wm-license-cc-wiki-link}}|ڪريئيٽو ڪامنز]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en انتساب-ھڪجھڙي ڀاڱيداري 3.0 Unported] لائسنس تحت لائسنس ڏنل آھي.",
+	"wm-license-cc-zero-text": "هي ڪم ميسر آهي [[{{int:wm-license-cc-wiki-link}}|ڪريٽو ڪامنز]] [https://creativecommons.org/publicdomain/zero/1.0/deed.en سي سي 0 1.0 عالمي عوامي کاتي] تحت.",
+	"wm-license-cc-zero-explanation": "جيڪو ماڻهو هن ڪم سان لاڳاپيل آهي، ان پنهنجي ڪم کي وقف ڪيو آهي [[{{int:wm-license-pd-wiki-link}}|عوامي کاتي]] ۾ عالمي حق ۽ واسطن جي قانون ۽ لاڳاپيل قانونن موجب. اوهان هن ڪم کي نقل، ترميم، ونڊ ڪري سگھو ٿا، ايتري قدر جو اوهان بغير اجازت جي تجارتي مقصدن لاءِ هي ڪم استعمال ڪري سگھو ٿا.",
 	"wm-license-cc-free": "توھان آزاد آھيو:",
 	"wm-license-cc-free-to-share-header": "ونڊڻ لاءِ",
 	"wm-license-cc-free-to-share-text": "اھو ڪم نقل ڪرڻ، ورڇڻ، ۽ پارمڪارڻ",

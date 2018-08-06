@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Aursani",
-			"Mehtab ahmed"
+			"Mehtab ahmed",
+			"Tweety"
 		]
 	},
 	"wm-license-information-description": "تشريح",
@@ -12,5 +13,6 @@
 	"wm-license-information-permission": "اجازت",
 	"wm-license-information-permission-reusing-text": "ھن فائيل کي وَراستعمال ڪندي",
 	"wm-license-own-work": "ڪم پنھنجايو",
+	"wm-license-pd-wiki-link": "w:sd:عوامي کاتو",
 	"wm-license-self-multiple-licenses-select": "توھان پنھنجي مرضيءَ جي لائيسنس جي چونڊ ڪري سگھو ٿا."
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Դավիթ Սարոյան"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(օգնեք ինձ ընտրել)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Չե՞ք տեսնում պատկերը։ [[{{MediaWiki:createacct-captcha-help-url}}|Պատվիրել հաշիվ]]"
+}

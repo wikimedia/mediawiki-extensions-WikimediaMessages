@@ -3,10 +3,14 @@
 		"authors": [
 			"Basharh",
 			"Man2fly2002",
-			"Nemo bis"
+			"Nemo bis",
+			"334a"
 		]
 	},
 	"sitesupport": "ܕܒܘܚ ܠܢ",
+	"nstab-creator": "ܒܪܘܝܐ",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "ܫܚܠܦ ܠܟܠܗ̇ ܡܓܠܬܐ",
+	"gettingstarted-cta-edit-page-wikipedia": "ܫܚܠܦ ܠܡܓܠܬܐ ܗܕܐ",
 	"group-confirmed": "ܡܦܠܚܢ̈ܐ ܡܫܪܪ̈ܐ",
 	"grouppage-confirmed": "{{ns:project}}:ܡܦܠܚܢ̈ܐ ܡܫܪܪ̈ܐ",
 	"group-founder-member": "{{GENDER:$1|ܫܬܐܣܢܐ|ܫܬܐܣܢܬܐ}}",
@@ -18,5 +22,25 @@
 	"group-sysadmin": "ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ",
 	"wikimedia-copyright": "ܓܘܫܡܐ ܕܡܟܬܒܢܘܬܐ ܐܝܬ ܬܚܝܬ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ܦܣܣܘܬܐ ܕܡܬܟܝܢܢܘܬܐ ܕܬܘܩܢܐ ܓܘܢܝܐ܇ܫܘܬܦܘܬܐ-ܡܬܚܝܢܢܬܐ</a>.\nܬܢܘ̈ܝ ܐܚܪ̈ܢܝܬܐ ܒܙܒܢ ܡܬܩܪܒܘ.\nܚܙܝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">ܬܢܘ̈ܝ ܕܡܬܚܫܚܢܘܬܐ</a> ܠܐܪ̈ܝܟܬܐ.",
 	"wikimedia-copyrightwarning": "ܒܟܒܫܬܐ ܕܬܪܘܩܬܐ \"{{int:savearticle}}\" ܐܘܝܘ ܐܢܬ ܥܠ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use ܫܪ̈ܛܐ ܕܡܦܠܚܬܐ] ܘܦܣ ܫܘܬܦܘܬܟ ܒܠܥܕ ܗܦܟܬܐ [https://creativecommons.org/licenses/by-sa/3.0/ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ :ܢܣܒܬܐ-ܦܣܣܐ ܒܛܘܣܐ 3.0] ܘ[https://www.gnu.org/copyleft/fdl.html ܒܦܣܣܐ ܕGNU ܠܐܫܛܪ̈ܐ ܚܐܪ̈ܐ].\nܐܘܝܘ ܐܢܬ ܕܫܘܡܠܝܬܝܠܗ̇ ܒܟܘܢܝܐ ܒܓܘ ܒܦܣܣܐ ܓܘܢܝܐ ܕܒܪܝܬܐ ܒܝܕ hyperlink ܐܘ URL.",
-	"wikimedia-developers": "ܡܛܘܪ̈ܢܐ"
+	"wikibase-sitelinks-wikibooks": "ܘܝܩܝܣܦܪ̈ܐ",
+	"wikibase-sitelinks-wikinews": "ܘܝܩܝܛܐܒ̈ܐ",
+	"wikibase-sitelinks-wikiquote": "ܘܝܩܝܟܪܝܣܝܣ",
+	"wikibase-sitelinks-wikisource": "ܘܝܩܝܫܪܫܐ",
+	"wikibase-sitelinks-wiktionary": "ܘܝܩܝܠܟܣܝܩܘܢ",
+	"wikibase-otherprojects-commons": "ܘܝܩܝܓܘܐ",
+	"wikibase-otherprojects-meta": "ܡܝܛܐ-ܘܝܩܝ",
+	"wikibase-otherprojects-species": "ܘܝܩܝܙܢܝ̈ܐ",
+	"wikibase-otherprojects-wikibooks": "ܘܝܩܝܣܦܪ̈ܐ",
+	"wikibase-otherprojects-wikinews": "ܘܝܩܝܛܐܒ̈ܐ",
+	"wikibase-otherprojects-wikiquote": "ܘܝܩܝܟܪܝܣܝܣ",
+	"wikibase-otherprojects-wikipedia": "ܘܝܩܝܦܕܝܐ",
+	"wikibase-otherprojects-wikisource": "ܘܝܩܝܫܪܫܐ",
+	"wikibase-otherprojects-wiktionary": "ܘܝܩܝܠܟܣܝܩܘܢ",
+	"wikibase-sitelinks-sitename-metawiki": "ܡܝܛܐ-ܘܝܩܝ",
+	"wikibase-sitelinks-sitename-species": "ܘܝܩܝܙܢܝ̈ܐ",
+	"wikimedia-developers": "ܡܛܘܪ̈ܢܐ",
+	"interlanguage-link-wikipedia": "ܘܝܩܝܦܕܝܐ",
+	"eri-rcfilters-tour-intro-welcome-button": "ܐܝܢ ܡܣܬܟܠ ܐܢܐ",
+	"eri-rcfilters-tour-intro-disable-button": "ܒܛܠ ܗܫܐ",
+	"eri-rcfilters-tour-invite-no-button": "ܠܐ ܬܘܕܝ"
 }
