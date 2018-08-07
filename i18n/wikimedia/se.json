@@ -7,5 +7,9 @@
 	},
 	"sitesupport": "Skeaŋkkat",
 	"tooltip-n-sitesupport": "Doarrjo siidduid doaimma",
-	"group-import": "Sisafievrrideaddjit"
+	"group-import": "Sisafievrrideaddjit",
+	"wikibase-sitelinks-wikinews": "Wikiođđasat",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }

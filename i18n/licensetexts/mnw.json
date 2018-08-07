@@ -4,8 +4,13 @@
 			"Htawmonzel"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "လိက်တအ်ဂှ် သၠးကဵုလဝ် အခေါင် သွက်ဂွံ စၠောအ်ကပ်ပဳ၊ ပရး ကီု သီုကဵု ပလေဝ်ပခိုဟ်ပတိုန် အတိုင်သၞောတ်ဝ် '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', တုဲ မူ ၁.၂ ဟွံသေင်မ္ဂး မူတြေံနူဂှ် မတြးပတိတ် နကဵု သၞောတ်ဝ်လာင်ဇြေန် [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "ကဵုယၟု",
 	"wm-license-information-source": "တမ်ရိုဟ်",
 	"wm-license-information-date": "စၟတ်တ္ၚဲ",
-	"wm-license-information-author": "ကဝိ"
+	"wm-license-information-author": "ကဝိ",
+	"wm-license-information-permission": "တင်မကဵုအခေါင်",
+	"wm-license-information-permission-reusing-text": "ကလေင်သုင်စောဲ ဝှာင်ဏအ်",
+	"wm-license-own-work": "ကမၠောန် ဇကုအပိုင်",
+	"wm-license-self-multiple-licenses-select": "လာင်ဇြေန် မၞး မၞုံပၟိက်ဂှ် မၞးရုဲစှ်ကေတ် မာန်ရ၊၊"
 }
