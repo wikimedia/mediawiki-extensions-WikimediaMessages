@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Endermoon"
+			"Endermoon",
+			"A2093064"
 		]
 	},
 	"project-localized-name-aawiki": "阿法尔语维基百科",
@@ -921,6 +922,7 @@
 	"project-localized-name-zhwikinews": "中文维基新闻",
 	"project-localized-name-zhwikiquote": "中文维基语录",
 	"project-localized-name-zhwikisource": "中文维基文库",
+	"project-localized-name-zhwikiversity": "中文维基学院",
 	"project-localized-name-zhwikivoyage": "中文维基导游",
 	"project-localized-name-zhwiktionary": "中文维基词典",
 	"project-localized-name-zuwiki": "祖鲁语维基百科",

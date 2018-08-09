@@ -343,7 +343,7 @@
 	"eri-rcfilters-tour-confirm-title": "Los filtros nuevos están activados ahora",
 	"eri-rcfilters-tour-confirm-description": "Puedes acceder a la <strong>página de funciones en pruebas</strong> para enviar tus sugerencias o desactivar la función.",
 	"eri-wlfilters-tour-intro-welcome-title": "Te damos la bienvenida al filtrado mejorado de la lista de seguimiento",
-	"eri-wlfilters-tour-intro-preferences-description": "Accede en cualquier momento a la pestaña «Seguimiento» en tus preferencias para desactivar la versión mejorada de la Lista de seguimiento.",
+	"eri-wlfilters-tour-intro-preferences-description": "Accede en cualquier momento a la pestaña «Lista de seguimiento» en tus preferencias para desactivar la versión mejorada de la Lista de seguimiento.",
 	"wikimedia-centralauth-contribs-locked": "Esta cuenta está bloqueada globalmente.\nConsulta los [[m:Special:CentralAuth/$1|detalles de cuenta global]] para más información.",
 	"right-viewdeletedfile": "Ver archivos y páginas borrados en los espacios de nombres {{ns:file}} y {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Elección de la Junta",

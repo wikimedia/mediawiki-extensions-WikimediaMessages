@@ -3,7 +3,8 @@
 		"authors": [
 			"Сербијана",
 			"Милан Јелисавчић",
-			"Milicevic01"
+			"Milicevic01",
+			"BadDog"
 		]
 	},
 	"project-localized-name-aawiki": "Википедија на афарском језику",
@@ -82,5 +83,6 @@
 	"project-localized-name-viwiki": "Википедија на вијетнамском језику",
 	"project-localized-name-wikidatawiki": "Википодаци",
 	"project-localized-name-zerowiki": "Википедија зеро",
-	"project-localized-name-zhwiki": "Википедија на кинеском језику"
+	"project-localized-name-zhwiki": "Википедија на кинеском језику",
+	"project-localized-name-zhwikiversity": "Викиверзитет на кинеском језику"
 }
