@@ -14,7 +14,8 @@
 			"Sarrus",
 			"Steenth",
 			"Simeondahl",
-			"SimmeD"
+			"SimmeD",
+			"Saederup92"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke meddelelser",
@@ -26,6 +27,9 @@
 	"nstab-institution": "Institution",
 	"nstab-sequence": "Sekvens",
 	"nstab-timedtext": "Undertekst",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Prøv en anden artikel ►",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Rediger hele artiklen…",
+	"gettingstarted-cta-edit-page-wikipedia": "Rediger denne artikel",
 	"group-Image-reviewer": "Billedgranskere",
 	"group-Image-reviewer-member": "{{GENDER:$1|billedgransker}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Billedgranskere",
