@@ -33,6 +33,7 @@
 	"wm-license-information-permission-reusing-text": "Gjenbruk av denne fila",
 	"wm-license-information-permission-see-below": "Sjå under.",
 	"wm-license-information-other-versions": "Andre versjonar",
+	"wm-license-licensing-update-text": "Dette lisensieringsmerket vart lagt til denne fila som ein del av GFDL-[[{{int:wm-license-licensing-update-wiki-link}}|lisensieringsoppdateringa]].",
 	"wm-license-original-upload-log": "Opphavleg opplastingslogg",
 	"wm-license-own-work": "Eige arbeid",
 	"wm-license-pd-author-self-text": "Eg, opphavsrettshaldaren til dette verket, frigjev dette verket til '''[[{{int:wm-license-pd-wiki-link}}|ålmenta]]'''. Dette gjeld over heile verda.",
@@ -43,9 +44,9 @@
 	"wm-license-pd-usgov-military-army-wiki-link": "w:nn:United States Army",
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:nn:United States Navy",
 	"wm-license-pd-wiki-link": "w:nn:Offentleg eigedom",
-	"wm-license-self-one-license": "Eg, opphavspersonen til verket, publiserer det hermed under denne lisensen:",
+	"wm-license-self-one-license": "Eg, opphavsrettshaldaren til verket, publiserer det hermed under denne lisensen:",
 	"wm-license-self-one-license-with-author": "$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisens:",
-	"wm-license-self-multiple-licenses": "Eg, opphavspersonen til verket, publiserer det hermed under desse lisensane:",
+	"wm-license-self-multiple-licenses": "Eg, opphavsrettshaldaren til verket, publiserer det hermed under desse lisensane:",
 	"wm-license-self-multiple-licenses-with-author": "$1, opphavspersonen til dette verket, har publisert eller publiserer det hermed under følgjande lisensar:",
 	"wm-license-self-multiple-licenses-select": "Du kan velje den lisensen du sjølv tykkjer er best."
 }
