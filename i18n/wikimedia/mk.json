@@ -5,7 +5,8 @@
 			"Brainmachine",
 			"Brest",
 			"Misos",
-			"Nemo bis"
+			"Nemo bis",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Пораки кои се однесуваат на Викимедија",
@@ -39,7 +40,7 @@
 	"group-OTRS-member-member": "{{GENDER:$1|член на OTRS}}",
 	"grouppage-OTRS-member": "{{ns:project}}:Членови на OTRS",
 	"group-abusefilter": "Уредници на филтерот на злоупотреба",
-	"group-abusefilter-member": "{{GENDER:$1|уредник на филтерот за за злоупотреби}}",
+	"group-abusefilter-member": "{{GENDER:$1|уредник на филтерот за злоупотреби}}",
 	"grouppage-abusefilter": "{{ns:project}}:Уредници на филтер на злоупотреби",
 	"group-abusefilter-helper": "Помагачи на филтерот за злоупотреба",
 	"group-abusefilter-helper-member": "{{GENDER:$1|помагач на филтер за злоупотреба}}",
