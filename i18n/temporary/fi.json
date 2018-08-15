@@ -8,8 +8,8 @@
 	},
 	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit",
 	"grouppage-oversight": "{{ns:project}}:Häivytysoikeudet",
-	"group-oversight": "häivyttäjät (oversighters)",
-	"group-oversight-member": "häivyttäjä (oversight)",
+	"group-oversight": "häivyttäjät",
+	"group-oversight-member": "häivyttäjä",
 	"hello": "Hei",
 	"thank-you": "{{GENDER:$1|Kiitos.}}"
 }
