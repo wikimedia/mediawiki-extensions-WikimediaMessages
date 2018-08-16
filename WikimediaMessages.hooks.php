@@ -9,12 +9,6 @@ class WikimediaMessagesHooks {
 	/**
 	 * When core requests certain messages, change the key to a Wikimedia version.
 	 *
-	 * @note Don't make this a closure, it causes the Database Dumps to fail.
-	 *   See https://bugs.php.net/bug.php?id=52144
-	 *
-	 *   mwscript getSlaveServer.php --wiki='dewiki' --group=dump --globals
-	 *   print_r( $GLOBALS['wgHooks']['MessageCache::get'] );
-	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/MessageCache::get
 	 * @param String &$lcKey message key to check and possibly convert
 	 */
@@ -99,23 +93,21 @@ class WikimediaMessagesHooks {
 		// wrongly return "wikipedia" here due to their dbname suffix.
 		// Before deploying GettingStarted to a special wiki,
 		// find a way to determine the real family here.
-		if ( $site === 'wikipedia' ) {
-			if ( in_array( $lcKey, [
-				"gettingstarted-task-toolbar-try-another-text",
-				"gettingstarted-task-toolbar-no-suggested-page",
-				"gettingstarted-task-copyedit-toolbar-description",
-				"gettingstarted-task-copyedit-toolbar-try-another-title",
-				"guidedtour-tour-gettingstartedtasktoolbarintro-description",
-				"guidedtour-tour-gettingstartedtasktoolbar-ambox-description",
-				"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title",
-				"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description",
-				"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description",
-				"guidedtour-tour-gettingstarted-click-preview-description",
-				"gettingstarted-cta-edit-page",
-				"gettingstarted-cta-fix-pages",
-			] ) ) {
-				return "{$lcKey}-wikipedia";
-			}
+		if ( $site === 'wikipedia' && in_array( $lcKey, [
+			"gettingstarted-task-toolbar-try-another-text",
+			"gettingstarted-task-toolbar-no-suggested-page",
+			"gettingstarted-task-copyedit-toolbar-description",
+			"gettingstarted-task-copyedit-toolbar-try-another-title",
+			"guidedtour-tour-gettingstartedtasktoolbarintro-description",
+			"guidedtour-tour-gettingstartedtasktoolbar-ambox-description",
+			"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title",
+			"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description",
+			"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description",
+			"guidedtour-tour-gettingstarted-click-preview-description",
+			"gettingstarted-cta-edit-page",
+			"gettingstarted-cta-fix-pages",
+		] ) ) {
+			return "{$lcKey}-wikipedia";
 		}
 
 		return $lcKey;
@@ -133,14 +125,14 @@ class WikimediaMessagesHooks {
 	public static function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
 		global $wgRightsUrl;
 
-		if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
-			if ( $type !== 'history' ) {
-				global $wgDBname;
-				if ( in_array( $wgDBname, [ 'wikidatawiki', 'testwikidatawiki' ] ) ) {
-					$msg = 'wikidata-copyright';
-				} else {
-					$msg = 'wikimedia-copyright'; // the default;
-				}
+		if ( $type !== 'history'
+			&& strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false
+		) {
+			global $wgDBname;
+			if ( in_array( $wgDBname, [ 'wikidatawiki', 'testwikidatawiki' ] ) ) {
+				$msg = 'wikidata-copyright';
+			} else {
+				$msg = 'wikimedia-copyright'; // the default;
 			}
 		}
 	}
@@ -1241,11 +1233,11 @@ class WikimediaMessagesHooks {
 	 * @return bool
 	 */
 	private static function isOresAvailable() {
-		if ( !ExtensionRegistry::getInstance()->isLoaded( 'ORES' ) ) {
-			return false;
-		}
-		return ORES\Hooks\Helpers::isModelEnabled( 'damaging' ) ||
-			ORES\Hooks\Helpers::isModelEnabled( 'goodfaith' );
+		return ExtensionRegistry::getInstance()->isLoaded( 'ORES' ) &&
+			(
+				ORES\Hooks\Helpers::isModelEnabled( 'damaging' )
+				|| ORES\Hooks\Helpers::isModelEnabled( 'goodfaith' )
+			);
 	}
 
 	/**
