@@ -210,7 +210,7 @@
 	"group-global-flow-create": "Créateurs de Flow global",
 	"group-global-flow-create-member": "{{GENDER:$1|Créateur|Créatrice}} de Flow global",
 	"group-global-ipblock-exempt": "Exceptions globales de blocage d'adresses IP",
-	"group-global-ipblock-exempt-member": "{{GENDER:$1|exception globale de blocage d'adresse IP}}",
+	"group-global-ipblock-exempt-member": "{{GENDER:$1|exception de blocage global d’adresse IP}}",
 	"grouppage-global-ipblock-exempt": "m:Special:MyLanguage/Global IP block exemptions",
 	"group-global-interface-editor": "Éditeurs d’interface globaux",
 	"group-global-interface-editor-member": "{{GENDER:$1|éditeur d’interface global|éditrice d'interface globale}}",
