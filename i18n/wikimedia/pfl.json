@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "Schbend",
 	"tooltip-n-sitesupport": "Unnaschdidz uns",
-	"group-OTRS-member": "OTRS-Midglieda",
+	"group-otrs-member": "OTRS-Midglieda",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"grouppage-steward": "{{ns:project}}:Steward",
