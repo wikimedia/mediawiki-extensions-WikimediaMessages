@@ -1476,14 +1476,14 @@ class WikimediaMessagesHooks {
 			'icon' => 'feedback',
 		] );
 
-		$message = HTML::rawElement(
+		$message = Html::rawElement(
 				'div',
 				[
 					'class' => [ 'message' ],
 				],
 				 $icon . ' ' . $form->msg( 'specialblockfeedbackrequest' )->escaped()
 			);
-			$button = HTML::rawElement(
+			$button = Html::rawElement(
 				'div',
 				[
 					'class' => [ 'cta' ],
@@ -1498,7 +1498,7 @@ class WikimediaMessagesHooks {
 						],
 				] ) )->toString()
 			);
-			$preText = HTML::rawElement(
+			$preText = Html::rawElement(
 				'div',
 				[
 					'class' => [ 'specialblock-feedback-request' ],
