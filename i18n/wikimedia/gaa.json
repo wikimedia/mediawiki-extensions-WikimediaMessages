@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Flixtey"
+			"Flixtey",
+			"Benebiankie",
+			"Mybluberet"
 		]
 	},
-	"sitesupport": "Nii kee"
+	"sitesupport": "Nikee",
+	"tooltip-n-sitesupport": "Wa wɔ",
+	"wikimedia-developers": "Komputa he nitsulɔi"
 }
