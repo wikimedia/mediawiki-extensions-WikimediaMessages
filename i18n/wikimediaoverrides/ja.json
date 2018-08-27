@@ -7,7 +7,8 @@
 			"Fryed-peach",
 			"Marine-Blue",
 			"Shirayuki",
-			"Sujiniku"
+			"Sujiniku",
+			"Kkairri"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
@@ -21,6 +22,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "「{{int:flow-topic-action-unlock-topic}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-globalrenamequeue-email-body-approved": "利用者名\"{{GENDER:$1|$1}}\" を\"{{GENDER:$1|$2}}\" へ変更する要求が承認されました。一旦完了すると, 新しい利用者名と旧来のパスワードでログインすることができます。ウィキメディア・プロジェクトに参加していただきありがとうございます。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "利用者名\"{{GENDER:$1|$1}}\" から\"{{GENDER:$1|$2}}\" への変更を完了できませんでした。\n\nNote: $3\n\n詳細については以下のヘルプページをご覧ください。：<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. <br />\n利用者名変更の要望について議論をする場合にはこちらのページにご投稿いただけます。: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. <br />\nまず、現在のあなたのアカウント名にログインしていなければなりません。",
+	"interfaceadmin-info": "$1\n\nサイト全体のCSS/JS/JSONの編集における許可は、最近まで<code>editinterface</code>権限と分けられていました。なぜこのエラーが表示されるのかわからない場合は、[[mw:MediaWiki_1.32/interface-admin]]をご覧ください。",
 	"wikimedia-sulrenamewarning-usenew": "これ以降はあなたは新規の利用者名<strong>$1</strong>を使用してログインする必要があります。新規利用者名はウィキメディアでの全てのプロジェクトにおいてあなたに固有のものであり、あるプロジェクトにログインした後にその他のプロジェクトを訪問した場合、アカウントもともに移動します。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]には、よく寄せられる質問の一覧と同様に、シングルユーザー・ログインについてさらなる情報があります。もし自分の[[Special:Preferences|個人設定]]でメールのアドレスを更新したりパスワードを変更しなければならないとすれば、今が良い機会かもしれません。\n\n異なるアカウント名をリクエストするには、[[Special:GlobalRenameRequest]]を訪問してください。\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
 	"wikimedia-ipb-confirmhideuser": "利用者名の秘匿を有効にしてブロックしようとしています。実行すると、すべての一覧や記録項目で利用者名が表示されません。本当に実行しますか?\n\nウィキメディアの全てのウィキで利用者名の秘匿が必要な場合、stewards@wikimedia.org にメールを送り[[m:Special:MyLanguage/Stewards|スチュワード]]に連絡してください。"
 }

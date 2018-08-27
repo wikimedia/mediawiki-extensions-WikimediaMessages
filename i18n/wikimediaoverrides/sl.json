@@ -4,5 +4,6 @@
 			"Dbc334"
 		]
 	},
-	"createacct-helpusername-url": "{{ns:Project}}:Pravilnik_o_uporabniških_imenih"
+	"createacct-helpusername-url": "{{ns:Project}}:Pravilnik_o_uporabniških_imenih",
+	"interfaceadmin-info": "$1\n\nDovoljenja za urejanje datotek CSS/JS/JSON spletišča smo nedavno ločili od dovoljenja <code>editinterface</code>. Če ne razumete, zakaj smo vam izpisali to napako, si oglejte [[mw:MediaWiki_1.32/interface-admin]]."
 }

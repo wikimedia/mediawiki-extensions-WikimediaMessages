@@ -5,5 +5,6 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(adjuta me a eliger)]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Politica_de_nomines_de_usator"
+	"createacct-helpusername-url": "{{ns:Project}}:Politica_de_nomines_de_usator",
+	"interfaceadmin-info": "$1\n\nLe permissiones pro modificar le files CSS/JS/JSON global del sito ha recentemente essite separate ab le derecto <code>editinterface</code>. Si tu non comprende proque tu incontra iste error, vide [[mw:MediaWiki_1.32/interface-admin]]."
 }
