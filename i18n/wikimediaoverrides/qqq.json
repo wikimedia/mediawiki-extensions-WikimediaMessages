@@ -22,6 +22,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "Terms of use and copyright warning shown when reopening a Flow topic. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\nRefers to {{msg-mw|flow-topic-action-unlock-topic}}.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Email body for approved request.\n\n* $1 is the old username\n* $2 is the new username.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Email body for rejected request.\n\n* $1 is the old username.\n* $2 is the new username.\n* $3 is the message left by the user who processed the request.",
+	"interfaceadmin-info": "Part of the error message shown when someone with the <code>editinterface</code> right but without the appropriate <code>editsite*</code> right tries to edit a sitewide CSS/JSON/JS page.",
 	"wikimedia-mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly.",
 	"wikimedia-sulrenamewarning-usenew": "Instructions to user to login with new name in the future\n\n* $1 is the user's new name",
 	"wikimedia-ipb-confirmhideuser": "Used as confirmation message in [[Special:Block]] before doing a HideUser block.\n\nSee also:\n* {{msg-mw|Ipb-blockingself}} and {{msg-mw|ipb-confirmhideuser}}"

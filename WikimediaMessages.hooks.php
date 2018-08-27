@@ -32,6 +32,7 @@ class WikimediaMessagesHooks {
 			'flow-terms-of-use-unlock-topic',
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
+			'interfaceadmin-info',
 			'mwoauthserver-invalid-user',
 			'privacypage',
 			'sidebar',
