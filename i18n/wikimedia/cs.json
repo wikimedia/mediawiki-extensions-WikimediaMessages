@@ -13,7 +13,8 @@
 			"YjM",
 			"Nemo bis",
 			"Dvorapa",
-			"Ilimanaq29"
+			"Ilimanaq29",
+			"Martin Urbanec"
 		]
 	},
 	"wikimediamessages-desc": "Hlášení specifická pro projekty nadace Wikimedia Foundation",
@@ -62,6 +63,9 @@
 	"group-editprotected": "Editoři zamčených stránek",
 	"group-editprotected-member": "{{GENDER:$1|editor|editorka|editor}} zamčených stránek",
 	"grouppage-editprotected": "{{ns:project}}:Editoři zamčených stránek",
+	"group-engineer": "Techničtí správci",
+	"group-engineer-member": "{{GENDER:$1|technický správce|technická správkyně}}",
+	"grouppage-engineer": "{{ns:project}}:Techničtí správci",
 	"group-eliminator": "Eliminátoři",
 	"group-eliminator-member": "{{GENDER:$1|eliminátor|eliminátorka|eliminátor}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminátoři",
@@ -167,8 +171,8 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|výzkumník|výzkumnice}} WMF",
 	"tag-emoji": "vložen emotikon",
 	"tag-emoji-description": "Používá globální filtr zneužití 110.",
-	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
-	"tag-AWB-description": "Editace provedená s [[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB-description": "Editace provedená s [[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"search-interwiki-custom": "wikt:Z Wikislovníku\nb:Z Wikiknih\nn:Z Wikizpráv\nq:Z Wikicitátů\ns:Z Wikizdrojů\nv:Z Wikiverzity\nvoy:Z Wikicest",
 	"wikimedia-copyright": "Text je dostupný pod <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.cs\">licencí Creative Commons Uveďte autora&nbsp;– Zachovejte licenci</a>, případně za dalších podmínek. Podrobnosti naleznete na stránce <a href=\"https://foundation.wikimedia.org/wiki/Podmínky_užití\">Podmínky užití</a>.",
 	"wikidata-copyright": "Všechna strukturovaná data z hlavního jmenného prostoru a jmenného prostoru vlastností a jmenného prostoru lexémů jsou k dispozici pod licencí <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.cs\" title=\"Definice licence Creative Commons CC0\">Creative Commons CC0</a>; text v ostatních jmenných prostorech je k dispozici pod licencí <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.cs\" title=\"Definice licence Creative Commons Uveďte autora-Zachovejte licenci\">Creative Commons Uveďte autora-Zachovejte licenci</a>; mohou se vyskytnout další podmínky. Užíváním tohoto webu souhlasíte s <a href=\"//foundation.wikimedia.org/wiki/Terms_of_use/cs\">Podmínkami užití</a> a <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy/cs\">Zásadami o ochraně osobních údajů</a>.",

@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Zoranzoki21"
 		]
 	},
-	"contactpage-license-request-username": "Корисничко име *",
+	"contactpage-license-request-username": "Корисничко име",
 	"contactpage-wikimedia-trademark-foundation": "Задужбина Викимедије",
 	"contactpage-wikimedia-trademark-commons": "Викимедијина остава",
 	"contactpage-wikimedia-trademark-incubator": "Викимедијин инкубатор",

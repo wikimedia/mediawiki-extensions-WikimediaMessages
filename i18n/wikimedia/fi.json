@@ -172,7 +172,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Käännösylläpitäjät",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Käyttää globaali väärinkäyttösuodatin 110.",
-	"tag-AWB": "[[en:w:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"search-interwiki-custom": "wikt:Wikisanakirjasta\nb:Wikikirjastosta\nn:Wikiuutisista\nq:Wikisitaateista\ns:Wikiaineistosta\nv:Wikiopistosta\nvoy:Wikimatkoista",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> -lisenssillä; lisäehtoja voi sisältyä. Katso <a href=\"https://foundation.wikimedia.org/wiki/Käyttöehdot\">käyttöehdot</a>.",

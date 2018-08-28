@@ -4,11 +4,13 @@
 			"Pyt",
 			"Snakesteuben",
 			"Robin0van0der0vliet",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"PiefPafPier"
 		]
 	},
 	"sitesupport": "Donaasjes",
 	"tooltip-n-sitesupport": "Stypje ús",
+	"search-interwiki-custom": "wikt:Wurddefinysjes fan it Wikiwurdboek\nb:Yn Wikiboeken\nn:Yn Wikinijs\nq:Sitaten fan Wikiquote\ns:Fan Wikiboarne\nv:Fan Wikiversity\nvoy:Yn Wikivoyage",
 	"wikimedia-copyright": "De tekst is beskikber ûnder de lisinsje <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Nammefermelding-Lyk diele</a>.\nDer kinne oanfoljende betingsten fan tapassing syn.\nSjoch de <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Brûkersbetingsten</a> foar mear ynformaasje.",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-sitelinks-wikibooks": "Wikiboeken",
@@ -16,10 +18,12 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikiboarne",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-wiktionary": "Wikiwurdboek",
 	"wikibase-otherprojects-wikibooks": "Wikiboeken",
 	"wikibase-otherprojects-wikidata": "Wikidata",
 	"wikibase-otherprojects-wikipedia": "Wikipedy",
 	"wikibase-otherprojects-wikisource": "Wikiboarne",
+	"wikibase-otherprojects-wiktionary": "Wikiwurdboek",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"wikimedia-developers": "Untwikkelers",
 	"interlanguage-link-wikipedia": "Wikipedy"
