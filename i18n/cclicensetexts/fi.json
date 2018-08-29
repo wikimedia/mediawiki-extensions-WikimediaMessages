@@ -11,7 +11,8 @@
 			"Str4nd",
 			"Trixt",
 			"Wix",
-			"ZeiP"
+			"ZeiP",
+			"Kyykaarme"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:fi:Creative Commons",
@@ -191,8 +192,8 @@
 	"wm-license-cc-sa-1.0-fi-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/fi/deed.fi Share Alike 1.0 Finland] -lisenssin alaisena.",
 	"wm-license-cc-sa-1.0-nl-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/nl/deed.fi Share Alike 1.0 Netherlands] -lisenssin alaisena.",
 	"wm-license-cc-sa-2.0-jp-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.fi Share Alike 2.0 Japan] -lisenssin alaisena.",
-	"wm-license-cc-zero-text": "Tämä teos on saatettu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.fi CC0 1.0 Universal Public Domain Dedicationin] alaisuuteen.",
-	"wm-license-cc-zero-explanation": "Tämän teoksen tekijänoikeuksien haltija on lisensoinut teoksensa dokumentin perusteella ja näin ollen '''[[{{int:wm-license-pd-wiki-link}}|luovuttanut teoksen vapaaseen käyttöön]]''' luovuttamalla maailmanlaajuisesti kaikki tekijänoikeuslaissa säädetyt oikeutensa, mukaanlukien lähioikeudet, niin laajasti kuin laki sallii. '''Saat kopioida, muunnella, levittää ja esittää teosta''', myös ansiotarkoituksessa, '''ilman että sinun tarvitsee kysyä mihinkään lupaa''' teoksen tekijänoikeuksien haltijalta. Käytettäessä teosta sinun ei tarvitse nimetä tekijää asiakirjan mukaan. Huomaa, että moraaliset oikeudet saattavat kuitenkin vaatia tekijän nimeämisen.",
+	"wm-license-cc-zero-text": "Tämä teos on saatettu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.fi CC0 1.0 Yleismaailmallinen Public Domain -lausuman] alaisuuteen.",
+	"wm-license-cc-zero-explanation": "Henkilö, joka on yhdistänyt CC0:n teokseen tai viitannut siihen teoksessa, on luovuttanut teoksen vapaaseen yleiseen käyttöön [[{{int:wm-license-pd-wiki-link}}|(public domain)]] luopumalla maailmanlaajuisesti ja soveltuvan lainsäädännön sallimassa enimmäislaajuudessa kaikista tekijänoikeuslainsäädännön alaisista oikeuksistaan teokseen, lähioikeudet ja kaikki tekijänoikeuteen liittyvät oikeudet mukaan lukien. Teosta voi lupaa pyytämättä kopioida, muokata, levittää ja esittää, mukaan lukien kaupallisessa tarkoituksessa.",
 	"wm-license-cc-free": "Voit:",
 	"wm-license-cc-free-to-share-header": "jakaa",
 	"wm-license-cc-free-to-share-text": "kopioida, levittää ja esittää teosta",

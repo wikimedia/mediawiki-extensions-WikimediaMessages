@@ -224,7 +224,7 @@
 	"tag-emoji": "繪文字",
 	"tag-emoji-description": "由全域防濫用過濾器110所使用。",
 	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
-	"tag-AWB-description": "透過[[Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]做出的編輯",
+	"tag-AWB-description": "透過[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]做出的編輯",
 	"search-interwiki-custom": "wikt:來自維基詞典\nb:來自維基教科書\nn:來自維基新聞\nq:來自維基語錄\ns:來自維基文庫\nv:來自維基學院\nvoy:來自維基導遊",
 	"shared-repo-name-shared": "維基共享資源",
 	"wikimedia-copyright": "所有文字皆受 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\">創用 CC 姓名標示-相同方式分享授權條款</a> 保護，除此之外可能適用其他附加條款。\n請參考 <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">使用條款</a> 瞭解詳情。",

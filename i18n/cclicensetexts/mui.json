@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jawadywn"
+			"Jawadywn",
+			"Masjawad99"
 		]
 	},
+	"wm-license-cc-free": "Dulur diaturi:",
+	"wm-license-cc-free-to-share-header": "Bebagi",
+	"wm-license-cc-free-to-share-text": "nyalen, nyebarke materi ni dalem bentuk atau format apo bae;",
+	"wm-license-cc-free-to-remix-header": "Adaptasi",
+	"wm-license-cc-free-to-remix-text": "ngembek, ngerobah, jugo ngebuat turunan dari materi ni",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
 	"wm-license-cc-conditions-share_alike-header": "BebagiSerupo"
 }

@@ -10,5 +10,7 @@
 	"group-oversight-member": "revisjonssletter",
 	"hello": "Hallo",
 	"please-translate": "Hjelp til med å oversette til ditt språk",
-	"thank-you": "{{GENDER:$1|Takk.}}"
+	"thank-you": "{{GENDER:$1|Takk.}}",
+	"specialblockfeedbackrequest": "En diskusjon pågår om forbedringer av dette blokkeringsverktøyet. Sjekk gjerne ut designene og delta.",
+	"specialblockfeedbackrequestcta": "Hjelp oss å forbedre blokkering"
 }
