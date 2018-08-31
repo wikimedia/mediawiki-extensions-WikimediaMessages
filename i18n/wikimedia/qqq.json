@@ -31,7 +31,8 @@
 			"Trizek (WMF)",
 			"MarcoAurelio",
 			"Omotecho",
-			"ديفيد"
+			"ديفيد",
+			"Tweety"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -56,7 +57,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "\"{{msg-mw|guidedtour-tour-gettingstartedtasktoolbarve-click-save-description}}\" with \"page\" replaced with \"article\".\n\nRefers to {{msg-mw|Visualeditor-toolbar-savedialog}}.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{msg-mw|guidedtour-tour-gettingstarted-click-preview-description}}\" with \"page\" replaced with \"article\".",
 	"gettingstarted-cta-edit-page-wikipedia": "\"{{msg-mw|gettingstarted-cta-edit-page}}\" with \"page\" replaced with \"article\".\n{{Identical|Edit this article}}",
-	"gettingstarted-cta-fix-pages-wikipedia": "\"{{msg-mw|gettingstarted-cta-fix-pages}}\" with \"page\" replaced with \"article\".",
+	"gettingstarted-cta-fix-pages-wikipedia": "\"{{msg-mw|gettingstarted-cta-fix-pages}}\" سان \"صفحو\" تبديل ڪيو \"مضمون\" ۾.",
 	"group-Image-reviewer": "{{doc-group|Image-reviewer}}",
 	"group-Image-reviewer-member": "{{doc-group|Image-reviewer|member}}",
 	"grouppage-Image-reviewer": "{{doc-group|Image-reviewer|page}}",

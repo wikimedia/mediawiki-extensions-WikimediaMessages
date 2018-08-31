@@ -127,7 +127,7 @@
 	"group-staff-member": "Görevli",
 	"group-steward": "Kâhyalar",
 	"group-steward-member": "{{GENDER:$1|kâhya}}",
-	"grouppage-steward": "{{ns:project}}:Stewardlar",
+	"grouppage-steward": "{{ns:project}}:Kâhyalar",
 	"group-sysadmin": "Sistem yöneticileri",
 	"group-sysadmin-member": "{{GENDER:$1|sistem hizmetlisi}}",
 	"grouppage-sysadmin": "m:Sistem yöneticileri",

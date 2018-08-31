@@ -23,7 +23,7 @@
 	"group-Image-reviewer-member": "{{GENDER:$1|piltide ülevaataja}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Piltide ülevaatajad",
 	"group-otrs-member": "OTRSi liikmed",
-	"group-otrs-member-member": "OTRSi liige",
+	"group-otrs-member-member": "{{GENDER:$1|OTRSi liige}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRSi liikmed",
 	"group-abusefilter": "Väärtarvitusfiltri muutjad",
 	"group-abusefilter-member": "väärtarvitusfiltri muutja",
