@@ -37,7 +37,8 @@
 			"Hinaloe",
 			"Afaz",
 			"AndyAndyAndyAlbert",
-			"おはぐろ蜻蛉"
+			"おはぐろ蜻蛉",
+			"Kkairri"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -53,6 +54,9 @@
 	"group-Image-reviewer": "画像査読者",
 	"group-Image-reviewer-member": "{{GENDER:$1|画像査読者}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:画像査読者",
+	"group-extended-uploader": "拡張アップロード者",
+	"group-extended-uploader-member": "{{GENDER:$1|拡張アップロード者}}",
+	"grouppage-extended-uploader": "{{ns:project}}:拡張アップロード者",
 	"group-otrs-member": "OTRSメンバー",
 	"group-otrs-member-member": "{{GENDER:$1|OTRSメンバー}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRSメンバー",
