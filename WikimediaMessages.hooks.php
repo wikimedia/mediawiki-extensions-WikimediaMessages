@@ -1119,6 +1119,128 @@ class WikimediaMessagesHooks {
 			],
 		]; // sl
 
+		$wgGrammarForms['sr-ec'] = [
+			// genitive
+			'генитив' => [
+				'Викиречник'  => 'Викиречника',
+				'Викицитат'   => 'Викицитата',
+				'Викизворник' => 'Викизворника',
+				'Викикњиге'   => 'Викикњига',
+				'Википедија'  => 'Википедије',
+				'Википодаци'  => 'Википодатака',
+				'Викимедијина остава' => 'Викимедијине оставе',
+			],
+			// dative
+			'датив' => [
+				'Викиречник'  => 'Викиречнику',
+				'Викицитат'   => 'Викицитату',
+				'Викизворник' => 'Викизворнику',
+				'Викикњиге'   => 'Викикњигама',
+				'Википедија'  => 'Википедији',
+				'Википодаци'  => 'Википодацима',
+				'Викивести'   => 'Викивестима',
+				'Викимедијина остава' => 'Викимедијиној остави',
+			],
+			// accusative
+			'акузатив' => [
+				'Викиречник'  => 'Викиречник',
+				'Викицитат'   => 'Викицитат',
+				'Викизворник' => 'Викизворник',
+				'Википедија'  => 'Википедију',
+				'Википодаци'  => 'Википодатке',
+			],
+			// vocative
+			'вокатив' => [
+				'Викиречник'  => 'Викиречниче',
+				'Викизворник' => 'Викизворниче',
+				'Википедија'  => 'Википедијо',
+				'Викимедијина остава' => 'Викимедијина оставо',
+			],
+			// instrumental
+			'инструментал' => [
+				'Викиречник'  => 'Викиречником',
+				'Викицитат'   => 'Викицитатом',
+				'Викизворник' => 'Викизворником',
+				'Викикњиге'   => 'Викикњигама',
+				'Википедија'  => 'Википедијом',
+				'Википодаци'  => 'Википодацима',
+				'Викивести'   => 'Викивестима',
+				'Викимедијина остава' => 'Викимедијином оставом',
+			],
+			// locative
+			'локатив' => [
+				'Викиречник'  => 'Викиречнику',
+				'Викицитат'   => 'Викицитату',
+				'Викизворник' => 'Викизворнику',
+				'Викикњиге'   => 'Викикњигама',
+				'Википедија'  => 'Википедији',
+				'Википодаци'  => 'Википодацима',
+				'Викивести'   => 'Викивестима',
+				'Викимедијина остава' => 'Викимедијиној остави',
+			],
+		]; // sr-ec
+
+		$wgGrammarForms['sr-el'] = [
+			// genitive
+			'genitiv' => [
+				'Vikirečnik'  => 'Vikirečnika',
+				'Vikicitat'   => 'Vikicitata',
+				'Vikizvornik' => 'Vikizvornika',
+				'Vikiknjige'  => 'Vikiknjiga',
+				'Vikipedija'  => 'Vikipedije',
+				'Vikipodaci'  => 'Vikipodataka',
+				'Vikimedijina ostava' => 'Vikimedijine ostave',
+			],
+			// dative
+			'dativ' => [
+				'Vikirečnik'  => 'Vikirečniku',
+				'Vikicitat'   => 'Vikicitatu',
+				'Vikizvornik' => 'Vikizvorniku',
+				'Vikiknjige'  => 'Vikiknjigama',
+				'Vikipedija'  => 'Vikipediji',
+				'Vikipodaci'  => 'Vikipodacima',
+				'Vikivesti'   => 'Vikivestima',
+				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
+			],
+			// accusative
+			'akuzativ' => [
+				'Vikirečnik'  => 'Vikirečnik',
+				'Vikicitat'   => 'Vikicitat',
+				'Vikizvornik' => 'Vikizvornik',
+				'Vikipedija'  => 'Vikipediju',
+				'Vikipodaci'  => 'Vikipodatke',
+			],
+			// vocative
+			'vokativ' => [
+				'Vikirečnik'  => 'Vikirečniče',
+				'Vikizvornik' => 'Vikizvorniče',
+				'Vikipedija'  => 'Vikipedijo',
+				'Vikimedijina ostava' => 'Vikimedijina ostavo',
+			],
+			// instrumental
+			'instrumental' => [
+				'Vikirečnik'  => 'Vikirečnikom',
+				'Vikicitat'   => 'Vikicitatom',
+				'Vikizvornik' => 'Vikizvornikom',
+				'Vikiknjige'  => 'Vikiknjigama',
+				'Vikipedija'  => 'Vikipedijom',
+				'Vikipodaci'  => 'Vikipodacima',
+				'Vikivesti'   => 'Vikivestima',
+				'Vikimedijina ostava' => 'Vikimedijinom ostavom',
+			],
+			// locative
+			'lokativ' => [
+				'Vikirečnik'  => 'Vikirečniku',
+				'Vikicitat'   => 'Vikicitatu',
+				'Vikizvornik' => 'Vikizvorniku',
+				'Vikiknjige'  => 'Vikiknjigama',
+				'Vikipedija'  => 'Vikipediji',
+				'Vikipodaci'  => 'Vikipodacima',
+				'Vikivesti'   => 'Vikivestima',
+				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
+			],
+		]; // sr-el
+
 		$wgGrammarForms['uk'] = [
 			// genitive
 			'genitive' => [
