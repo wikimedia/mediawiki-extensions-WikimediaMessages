@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Filipinayzd",
-			"Geopoet"
+			"Geopoet",
+			"ShimunUfesoj"
 		]
 	},
 	"sitesupport": "Magdonar",
@@ -14,5 +15,11 @@
 	"group-staff": "Kalikian",
 	"group-staff-member": "{{GENDER:$1|kalikiang miyembro}}",
 	"wikimedia-copyright": "An teksto makukua sa irarom kan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\ntibaad igwa pang ibang patanid.\nHilingon an <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> para sa detalye.",
-	"wikimedia-developers": "Mga developer"
+	"wikimedia-copyrightwarning": "Sa paagi kan pag-save nin mga pagbabago, Minasang-ayon ka sa [https://foundation.wikimedia.org/wiki/Terms_of_Use mga Termino kan Paggamit] asin dae ka naibago na minasang-ayon na iluwas an saimong kontribusyon sa irarom kan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensyang CC BY-SA 3.0] asin sa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Minasang-ayon ka na sapat na pagpapamanongod an sarong hipertakod o URL sa irarom kan lisensya nin Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikibareta",
+	"wikibase-sitelinks-wikiquote": "Wiking-paninglit",
+	"wikibase-sitelinks-wikisource": "Wiki-na-pinaggikanan",
+	"wikibase-sitelinks-wikivoyage": "Wikibiyahe",
+	"wikimedia-developers": "Mga developer",
+	"wikimedia-globalblocking-ipblocked": "'''An saimong IP address [[m:Special:MyLanguage/Global blocks|Pigbagat sa gabos na mga wiki]].'''\n\nAn pagbagat gibo kan $1 ($2).\nAn rason pigtatao sa ''$3''.\n\n* Poon kan pagbagat: $4\n* Pagpaso kan pagbagat: $5\n\nAn IP address ngunyan iniyong $6.\nPwedeng iiba an gabos nin mga detalye sa itaas sa anumang mga query na saimong piggigibo.\n\nKun nagtutubod ka na sala an pagbagat, pwede kan magdagdag nin mga impormasyones asin mga instruksyon sa  [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, tanganing mapag-ulayan an pagbagat, [[m:Steward requests/Global|magpaskil nin hiling para sa pagsusuri sa Meta-Wiki]]."
 }

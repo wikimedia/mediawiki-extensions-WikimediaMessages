@@ -95,6 +95,8 @@
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:vi:Hải quân Hoa Kỳ",
 	"wm-license-pd-usgov-noaa-text": "Tác phẩm này là công trình của một nhân viên [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Cơ quan Khí quyển và Đại dương Quốc gia]], được tạo ra trong quá trình thực thi công vụ. Là [[{{int:wm-license-pd-usgov-work-wiki-link}}|công trình]] của [[{{int:wm-license-pd-usgov-wiki-link}}|Chính quyền Liên bang Hoa Kỳ]], tập tin này thuộc vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''.",
 	"wm-license-pd-wiki-link": "w:vi:Phạm vi công cộng",
+	"wm-license-self": "Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo {{PLURAL:$1|giấy phép|các giấy phép}} sau:",
+	"wm-license-self-with-author": "$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo {{PLURAL:$2|giấy phép|các giấy phép}} sau:",
 	"wm-license-self-one-license": "Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:",
 	"wm-license-self-one-license-with-author": "$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:",
 	"wm-license-self-multiple-licenses": "Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:",
