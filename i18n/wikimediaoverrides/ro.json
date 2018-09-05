@@ -9,5 +9,5 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica_numelui_de_utilizator",
-	"interfaceadmin-info": "$1\n\nPermisiunile pentru editarea de CSS/JS/JSON global au fost recent separate de dreptul <code>editinterface</code>. Dacă nu înțelegeți de ce primiți această eroare, vedeți [[mw:MediaWiki_1.32/interface-admin]]."
+	"wikimedia-interfaceadmin-info": "$1\n\nPermisiunile pentru editarea de CSS/JS/JSON global au fost recent separate de dreptul <code>editinterface</code>. Dacă nu înțelegeți de ce primiți această eroare, vedeți [[mw:MediaWiki_1.32/interface-admin]]."
 }

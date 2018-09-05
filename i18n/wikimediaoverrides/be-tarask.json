@@ -9,5 +9,5 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Правілы_найменьня_ўдзельнікаў",
-	"interfaceadmin-info": "$1\n\nДазволы на рэдагаваньне агульнасайтавых CSS/JS/JSON-файлаў былі нядаўна вылучаныя з права <code>editinterface</code>. Калі вы не разумееце, чаму атрымліваеце гэтую памылку, глядзіце [[mw:MediaWiki_1.32/interface-admin]]."
+	"wikimedia-interfaceadmin-info": "$1\n\nДазволы на рэдагаваньне агульнасайтавых CSS/JS/JSON-файлаў былі нядаўна вылучаныя з права <code>editinterface</code>. Калі вы не разумееце, чаму атрымліваеце гэтую памылку, глядзіце [[mw:MediaWiki_1.32/interface-admin]]."
 }
