@@ -7,8 +7,10 @@
 		]
 	},
 	"sitesupport": "ⴰⵡⵙ ⴰⵖ ⵙ ⵉⵇⴰⵔⵉⴹⵏ",
-	"tooltip-n-sitesupport": "ⵏⵏⴰⵍ ⴰⵖ",
+	"tooltip-n-sitesupport": "ⵙⵏⴰⵍ ⴰⵖ",
 	"group-import": "Willi di tawin",
 	"wikibase-sitelinks-wikinews": "ⵡⵉⴽⵉⵏⵖⵎⵉⵙⵏ",
+	"wikibase-sitelinks-wikisource": "ⵡⵉⴽⵉⵙⴰⴳⵎ",
+	"wikibase-sitelinks-wikivoyage": "ⵡⵉⴽⵉⵎⵓⴷⴷⵓ",
 	"wikimedia-developers": "ⵉⵎⵙⵖⵉⵡⵙⵏ"
 }

@@ -56,7 +56,7 @@
 	"wm-license-gfdl-wiki-link": "w:gl:Licenza de documentación libre de GNU",
 	"wm-license-gpl-text": "Esta obra é [[{{int:wm-license-free-software-wiki-link}}|software libre]]; podes redistribuíla e/ou modificala segundo os termos da '''[[{{int:wm-license-gpl-wiki-link}}|licenza pública xeral GNU]]''' publicada pola [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], versión 2 ou calquera outra posterior. Esta obra distribúese coa esperanza de que poida ser útil, pero '''sen ningunha garantía'''; nin sequera a garantía implícita de '''comercialización''' ou '''adecuación a unha finalidade específica'''. Olla a [{{int:wm-license-gpl-2-full-link}} versión 2] e mais a [{{int:wm-license-gpl-3-full-link}} versión 3 da licenza pública xeral GNU] para obter máis detalles.",
 	"wm-license-gpl-wiki-link": "w:gl:GNU General Public License",
-	"wm-license-information-table-summary": "Unha táboa estandarizada que proporciona información completa sobre o ficheiro, incluíndo a descrición do que mostra e como se fixo, o estado dos dereitos de autor e a orixe.",
+	"wm-license-information-table-summary": "Unha táboa estandarizada que proporciona información completa sobre o ficheiro, incluíndo a descrición do que amosa e como se fixo, o estado dos dereitos de autor e a orixe.",
 	"wm-license-information-description": "Descrición",
 	"wm-license-information-description-missing": "Este ficheiro carece dunha '''descrición''' ou fáltalle información esencial.",
 	"wm-license-information-description-missing-request": "Por favor, proporcione unha descrición significativa del.",
