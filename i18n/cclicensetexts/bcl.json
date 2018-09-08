@@ -5,6 +5,7 @@
 			"ShimunUfesoj"
 		]
 	},
+	"wm-license-cc-attribution": "Ipinapanungod",
 	"wm-license-cc-by-sa-3.0-text": "An sagunson na ini nasa irarom kan lisensiyang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-free": "Talingkas ka:",
 	"wm-license-cc-free-to-share-header": "ipagheras",
@@ -14,5 +15,6 @@
 	"wm-license-cc-conditions": "Sa irarom kan minasunod na mga kondisyon:",
 	"wm-license-cc-conditions-attribution-header": "ipinapanungod",
 	"wm-license-cc-conditions-attribution-text": "Dapat mong ipamanongod an trabaho sa paaging pigtukoy kan kag-gibo o parapaglisensya (alagad bako sa anumang paagi na nagpapahiwatig na pig-i-endorso ka ninda o an saimong paggamit kan trabaho).",
+	"wm-license-cc-conditions-share_alike-header": "Iheras sa kapwa",
 	"wm-license-cc-conditions-share_alike-text": "Kun babaguhon mo, ibahon an porma, o magtindog sa gibuhon na ini, pwede mong iheras an nagresultang trabaho sa irarom lang kan parehas o kapareho na lisensya sa sarong ini."
 }

@@ -5,11 +5,13 @@
 			"ShimunUfesoj"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Pigtatao an pahintulot tanganing kopyahon, iheras asin/o baguhon an dokumentong ini sa irarom kan mga obhetibo kan '''[[{{int:wm-license-gfdl-wiki-link}}|Libreng Lisensiya nin Dokumentasyon kan GNU]]''', Bersyon 1.2 o anumang iban bersyon na pigpublikar kan [[{{int:wm-license-fsf-wiki-link}}|Pundasyong Libreng Software ]]; na mayong mga seksiyon na dae nakakasundo, mayong mga Pan'atubangan-na-Takop nin mga Teksto, asin mayong Panlikod-na-Takop nin mga Teksto. Kaiba an sarong kopya nin lisensiya sa seksyon na igwang karapatan na ''[[{{int:wm-license-gfdl-full-1.2-link}}|Libreng Lisensiya nin Dokumentasyon kan GNU]]''.",
 	"wm-license-information-description": "Deskripsión",
 	"wm-license-information-source": "Pinaggikanan",
 	"wm-license-information-date": "Petsa",
 	"wm-license-information-author": "Kagsúrat",
 	"wm-license-information-permission": "Permiso",
 	"wm-license-information-permission-reusing-text": "Paggamit kan sagunson na ini",
-	"wm-license-own-work": "Sadiring gibo"
+	"wm-license-own-work": "Sadiring gibo",
+	"wm-license-self-multiple-licenses-select": "Pwede mong pilion an lisensyang muya mo."
 }
