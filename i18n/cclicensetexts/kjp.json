@@ -4,10 +4,16 @@
 			"Rul1902"
 		]
 	},
+	"wm-license-cc-attribution": "မာၮါင့်ၮေဝ်",
 	"wm-license-cc-by-sa-3.0-text": "ဖိုင်ႋယိုဝ် [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported] လ်ုလိုင်စင် ၯံင်ခေဝ်အင်းတါင်ထဆေဝ်ႋလှ်။",
 	"wm-license-cc-free": "ၮ်ုယိုဝ် ဆ်ုပၠယ်တဝ်",
 	"wm-license-cc-free-to-share-header": "မ်ုအင်းၮါင်",
+	"wm-license-cc-free-to-share-text": "အင်းတင်သင့်ထသယ် အင်းဍံင်ထ၊ အင်းသုံ့ၰိုင်ၰိုင်လ်ု ထုက်ထင်းဆ်ုပ်ုယောတ်",
 	"wm-license-cc-free-to-remix-header": "ထါင်ကျာဍိင်",
+	"wm-license-cc-free-to-remix-text": "ဆ်ုပ္တုံၮှ် မ်ုထါင်အင်းတါင်ၮါင်",
+	"wm-license-cc-conditions": "အ်ုဖံင့်လာႋ အ်ုခေါဟ်အ်ုဍံင်သယ်လ်ုဖး:",
 	"wm-license-cc-conditions-attribution-header": "မာၮါင့်ၮေဝ်",
-	"wm-license-cc-conditions-share_alike-header": "အင်းသုံ့မှ်မဝ့်"
+	"wm-license-cc-conditions-attribution-text": "အင်းတင်ဆာ လ်ုမွာဲၜး လိုင်စင်အှ်ဆာ အင်းတင်ဖှ်ေထ အ်ုလူးအ်ုကျံင်သယ်လ်ုဖး ၜးဆါင်ႋၮးဆေဝ် (လေဝ်ဝးသာ့ၮ်ု ၮ်ုယိုဝ် လ်ုမွာဲၜး ၮ်ုအင်းတင်ဝယ်ၮှ် အဆ်ုအင်းသုံ့သယ်လ်ုဖး အင်းတင်ဍောဟ်ဖှ်ေၮှ်အိုဝ် လ်ုလေဝ်ၜး)။",
+	"wm-license-cc-conditions-share_alike-header": "အင်းသုံ့မှ်မဝ့်",
+	"wm-license-cc-conditions-share_alike-text": "ဆ်ုအင်းတင် အင်းလဲါထ၊ အင်းလဲါခွိက်သာ လ်ုမွာဲၜး ဖိုဟ်ထိုင့်သာ အင်းတင် မာထဆိက်ၮေဝ်လင်ထ ဆ်ုအင်းတင် ဆ်ုပ္ဍုံဍေ ၜးဍံင်ဖိုဟ်ထိုင့်သာ လ်ုမွာဲၜး ၜးဍံင်သာ လိုင်စင်လ်ုခဝ့် ပ္တုံထါင်သုံ့လာႋဆှ်။"
 }
