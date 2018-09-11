@@ -11,7 +11,7 @@
 	"wikimediamessages-desc": "위키미디어 특정 임시 메시지",
 	"grouppage-oversight": "{{ns:project}}:기록보호자",
 	"group-oversight": "기록보호자",
-	"group-oversight-member": "기록보호자",
+	"group-oversight-member": "{{GENDER:$1|기록보호자}}",
 	"hello": "안녕하세요",
 	"please-translate": "당신의 언어로 번역해 주세요",
 	"thank-you": "{{GENDER:$1|고맙습니다.}}",
