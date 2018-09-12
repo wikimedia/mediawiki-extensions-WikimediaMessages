@@ -11,37 +11,17 @@
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
 	"MessagesDirs": {
-		"WikimediaContactPageMessages": [
-			"i18n/contactpage"
-		],
 		"WikimediaMessages": [
-			"i18n/wikimedia"
-		],
-		"WikimediaInterwikiSearchResultsMessages": [
-			"i18n/wikimediainterwikisearchresults"
-		],
-		"WikimediaTemporaryMessages": [
-			"i18n/temporary"
-		],
-		"WikimediaOverrideMessages": [
-			"i18n/wikimediaoverrides"
-		],
-		"WikimediaOverrideMessagesNoTranslate": [
-			"i18n/wikimediaoverridesnotranslate"
-		],
-		"WikimediaLocalizedProjectNames": [
-			"i18n/wikimediaprojectnames"
-		],
-		"WikimediaLicenseTexts": [
-			"i18n/licensetexts"
-		],
-		"WikimediaCCLicenseTexts": [
-			"i18n/cclicensetexts"
-		],
-		"WikimediaCodeOfConduct": [
-			"i18n/codeofconduct"
-		],
-		"WikitechMessages": [
+			"i18n/contactpage",
+			"i18n/wikimedia",
+			"i18n/wikimediainterwikisearchresults",
+			"i18n/temporary",
+			"i18n/wikimediaoverrides",
+			"i18n/wikimediaoverridesnotranslate",
+			"i18n/wikimediaprojectnames",
+			"i18n/licensetexts",
+			"i18n/cclicensetexts",
+			"i18n/codeofconduct",
 			"i18n/wikitech"
 		]
 	},
