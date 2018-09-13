@@ -4,13 +4,14 @@
 			"Siebrand",
 			"User555",
 			"SPQRobin",
-			"Mainframe98"
+			"Mainframe98",
+			"Sjoerddebruin"
 		]
 	},
 	"wikimediamessages-desc": "Tijdelijke berichten voor Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "toezichthouders",
-	"group-oversight-member": "toezichthouder",
+	"group-oversight-member": "{{GENDER:$1|toezichthouder}}",
 	"hello": "Hallo",
 	"please-translate": "Help met het vertalen naar uw taal",
 	"thank-you": "{{GENDER:$1|Dank u.}}"

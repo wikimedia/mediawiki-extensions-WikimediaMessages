@@ -9,7 +9,7 @@
 	"wikimediamessages-desc": "رسائل ويكيميديا مؤقتة محددة",
 	"grouppage-oversight": "{{ns:project}}:أوفرسايت",
 	"group-oversight": "نظار",
-	"group-oversight-member": "ناظر",
+	"group-oversight-member": "{{GENDER:$1|ناظر|ناظرة}}",
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
