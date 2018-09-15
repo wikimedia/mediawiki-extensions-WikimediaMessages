@@ -109,6 +109,8 @@
 	"group-uploader": "Yükleyiciler",
 	"group-uploader-member": "yükleyici",
 	"grouppage-uploader": "{{ns:project}}:Yükleyiciler",
+	"group-wikidata-staff": "Vikiveri personeli",
+	"group-wikidata-staff-member": "{{GENDER:$1|Vikiveri personeli}}",
 	"group-global-bot": "Küresel botlar",
 	"group-global-bot-member": "{{GENDER:$1|küresel bot}}",
 	"group-global-interface-editor": "Küresel teknisyenler",

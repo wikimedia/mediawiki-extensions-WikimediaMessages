@@ -3,9 +3,12 @@
 		"authors": [
 			"Geitost",
 			"Nemo bis",
-			"Marcell0"
+			"Marcell0",
+			"L*E*D"
 		]
 	},
+	"sitesupport": "Spenden",
+	"tooltip-n-sitesupport": "Unterstütze uns",
 	"group-bigexport": "Grossexporteure",
 	"group-bigexport-member": "{{GENDER:$1|Grossexporteur|Grossexporteurin}}",
 	"grouppage-bigexport": "{{ns:project}}:Grossexporteure",

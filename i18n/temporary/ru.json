@@ -6,13 +6,14 @@
 			"Ahonc",
 			"Александр Сигачёв",
 			"Kareyac",
-			"Facenapalm"
+			"Facenapalm",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Специфические временные сообщения Викимедиа",
 	"grouppage-oversight": "{{ns:project}}:Ревизоры",
 	"group-oversight": "Ревизоры",
-	"group-oversight-member": "ревизор",
+	"group-oversight-member": "{{GENDER:$1|ревизор}}",
 	"hello": "Привет",
 	"please-translate": "Пожалуйста, помогите перевести на ваш язык",
 	"thank-you": "{{GENDER:$1|Спасибо.}}"

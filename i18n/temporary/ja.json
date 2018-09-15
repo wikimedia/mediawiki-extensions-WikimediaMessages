@@ -5,12 +5,13 @@
 			"Azeha",
 			"Sujiniku",
 			"Darklanlan",
-			"Rxy"
+			"Rxy",
+			"Omotecho"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有の一時的なメッセージ",
 	"grouppage-oversight": "{{ns:project}}:秘匿者",
 	"group-oversight": "秘匿者",
-	"group-oversight-member": "秘匿者",
+	"group-oversight-member": "{{GENDER:$1|秘匿者}}",
 	"please-translate": "あなたの言語への翻訳をお助けください"
 }

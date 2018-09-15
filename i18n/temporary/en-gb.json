@@ -3,12 +3,13 @@
 		"authors": [
 			"Shirayuki",
 			"Chase me ladies, I'm the Cavalry",
-			"Andibing"
+			"Andibing",
+			"Samwilson"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia specific temporary messages",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighters",
-	"group-oversight-member": "oversight",
+	"group-oversight-member": "{{GENDER:$1|oversight}}",
 	"please-translate": "Please help translate to your language"
 }
