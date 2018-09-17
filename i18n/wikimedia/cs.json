@@ -236,6 +236,8 @@
 	"right-editeditorprotected": "Editace stránek zamčených na „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Povolit jen editorům",
 	"restriction-level-editeditorprotected": "pouze editoři",
+	"right-editextendedsemiprotected": "Editace stránek zamčených na „{{int:protect-level-editextendedsemiprotected}}“",
+	"protect-level-editextendedsemiprotected": "Povolit jen automatickým strážcům",
 	"eri-rcfilters-beta-label": "Nové filtry pro kontrolu úprav",
 	"eri-rcfilters-beta-description": "Kontrolujte editace ve sledovaných stránkách pomocí jednoduššího a výkonnějšího rozhraní. Zahrnuje nové filtry, uživatelem nastavené zvýrazňování a další vylepšení.",
 	"eri-rcfilters-beta-description-ores": "Kontrolujte editace ve sledovaných stránkách pomocí jednoduššího a výkonnějšího rozhraní a množství nových nástrojů, včetně prediktivních filtrů poháněných službou [[mw:Special:MyLanguage/ORES|ORES]], programem pro strojové učení.",

@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"NegativeTwelveDollars",
-			"Janezdrilc"
+			"Janezdrilc",
+			"Dbc334"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Nadzornik",
 	"group-oversight": "Nadzorniki",
-	"group-oversight-member": "nadzornik",
+	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica}}",
 	"hello": "Pozdravljeni"
 }

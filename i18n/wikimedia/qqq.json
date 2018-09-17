@@ -32,7 +32,8 @@
 			"MarcoAurelio",
 			"Omotecho",
 			"ديفيد",
-			"Tweety"
+			"Tweety",
+			"Pikne"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -57,7 +58,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "\"{{msg-mw|guidedtour-tour-gettingstartedtasktoolbarve-click-save-description}}\" with \"page\" replaced with \"article\".\n\nRefers to {{msg-mw|Visualeditor-toolbar-savedialog}}.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{msg-mw|guidedtour-tour-gettingstarted-click-preview-description}}\" with \"page\" replaced with \"article\".",
 	"gettingstarted-cta-edit-page-wikipedia": "\"{{msg-mw|gettingstarted-cta-edit-page}}\" with \"page\" replaced with \"article\".\n{{Identical|Edit this article}}",
-	"gettingstarted-cta-fix-pages-wikipedia": "\"{{msg-mw|gettingstarted-cta-fix-pages}}\" سان \"صفحو\" تبديل ڪيو \"مضمون\" ۾.",
+	"gettingstarted-cta-fix-pages-wikipedia": "\"{{msg-mw|gettingstarted-cta-fix-pages}}\" with \"page\" replaced with \"article\".",
 	"group-Image-reviewer": "{{doc-group|Image-reviewer}}",
 	"group-Image-reviewer-member": "{{doc-group|Image-reviewer|member}}",
 	"grouppage-Image-reviewer": "{{doc-group|Image-reviewer|page}}",
@@ -321,7 +322,7 @@
 	"protect-level-editeditorprotected": "Used as protect level.",
 	"restriction-level-editeditorprotected": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"right-editextendedsemiprotected": "{{doc-right|editextendedsemiprotected}}\nRefers to {{msg-mw|protect-level-editextendedsemiprotected}}\n\nSee also:\n* {{msg-mw|Right-editeditorprotected}}\n* {{msg-mw|Right-editextendedsemiprotected}}\n* {{msg-mw|Right-editprotected}}\n* {{msg-mw|Right-editsemiprotected}}",
-	"protect-level-editextendedsemiprotected": "Used as protect level.",
+	"protect-level-editextendedsemiprotected": "Used as protect level. See also {{msg-mw|Group-autopatrolled}}, {{msg-mw|Group-autopatrolled-member}}",
 	"restriction-level-editextendedsemiprotected": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"eri-rcfilters-beta-label": "Label for the RC Filters beta feature.",
 	"eri-rcfilters-beta-description": "Description for the RC Filter beta feature where ORES '''is not''' available. \"Recent Changes\" should be based on {{msg-mw|Recentchanges}}.",
