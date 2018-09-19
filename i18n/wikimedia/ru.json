@@ -196,7 +196,7 @@
 	"grouppage-global-bot": "m:Global bot",
 	"group-global-flow-create": "Глобальные создатели Flow",
 	"group-global-flow-create-member": "{{GENDER:$1|Глобальный создатель Flow}}",
-	"group-global-ipblock-exempt": "Глобальные исключения из IP-блокировок",
+	"group-global-ipblock-exempt": "Исключения из глобальных IP-блокировок",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|исключение из глобальных IP-блокировок}}",
 	"group-global-interface-editor": "Глобальные редакторы интерфейса",
 	"group-global-interface-editor-member": "{{GENDER:$1|глобальный редактор интерфейса}}",

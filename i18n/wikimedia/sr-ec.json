@@ -221,7 +221,7 @@
 	"eri-rcfilters-tour-invite-yes-button": "Укључи нове филтере",
 	"eri-rcfilters-tour-invite-no-button": "Не, хвала",
 	"eri-rcfilters-tour-confirm-title": "Нови филтери су сада омогућени",
-	"eri-rcfilters-tour-confirm-description": "Можете отворити <strong>страницу за бета могућности</strong> да бисте дали повратне информације или искључили ову могућност.",
+	"eri-rcfilters-tour-confirm-description": "Можете приступити <strong>страници за бета-функције</strong> да бисте пружили повратне информације или онемогућили ову функцију.",
 	"eri-wlfilters-tour-intro-welcome-title": "Представљамо побољшано филтрирање списка надгледања",
 	"eri-wlfilters-tour-intro-preferences-description": "Приступите картици „Списак надгледања” у подешавањима било када да бисте онемогућили побољшану верзију списка надгледања.",
 	"wikimedia-centralauth-contribs-locked": "Овај налог је глобално закључан.\nЗа више информација погледајте [[m:Special:CentralAuth/$1]].",
