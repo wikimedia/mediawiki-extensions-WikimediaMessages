@@ -14,6 +14,8 @@
 	"nstab-creator": "تخليقڪار",
 	"nstab-institution": "ادارو",
 	"nstab-sequence": "ترتيب",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "ٻي مضمون کي ڏسو ◄",
+	"gettingstarted-cta-edit-page-wikipedia": "هن مضمون کي ترميميو",
 	"gettingstarted-cta-fix-pages-wikipedia": "تجويز ڪيل مضمون ۾ ترميم ڪيو",
 	"group-accountcreator": "کاتو تخليقڪار",
 	"grouppage-accountcreator": "{{ns:project}}:کاتو تخليقڪار",
@@ -31,7 +33,11 @@
 	"group-massmessage-sender": "جھجھا نياپا موڪليندڙ",
 	"group-massmessage-sender-member": "{{GENDER:$1|جھجھا پيغام موڪليندڙ}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:جھجھا نياپا موڪليندڙ",
+	"group-staff": "عملو",
 	"group-steward": "مختيارڪار",
+	"group-sysadmin": "سسٽم منتظمين",
+	"group-sysadmin-member": "{{GENDER:$1|سسٽم منتظمين}}",
+	"tag-emoji": "ايموجي",
 	"shared-repo-name-shared": "وڪيميڊيا العام",
 	"wikimedia-copyright": "هي متن موجود آهي <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ڪريئيٽو ڪامنز انتساب-ھڪجھڙي ڀاڱيداري لائسنس</a> جي ماتحت؛\nاضافي اصول لاڳو ٿي سگھن ٿا.\nوڌيڪ وضاحت لاءِ ڏسو <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">استعمال جا اصول</a>.",
 	"wikimedia-copyrightwarning": "تبديليون محفوظ ڪندي ئي اوهان کي [https://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جا جملي شرط] ۽ ان ڳالهه سان متفق تصور ڪيو ويندو ته اوهان پنهنجي ان حصيداري کي ڪريئيٽيو ڪامنز انتساب  -يڪسان حصيداري [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License اجازت نامو (CC BY-SA 3.0)]  ۽ جي اين يو آزاد لکيل اجازت نامي ([https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL])  جي تحت شايع ڪري رهيا آهيو.\nواضع رهي ته اوهان جي لکيل تحرير ۾ ٻيا واپرائيندڙ ڪنهن به هائپر لنڪ يا يو آر ايل (URL)  جي ذريعي ترميم ڪري سگھن ٿا.",
@@ -62,6 +68,7 @@
 	"protect-level-editextendedsemiprotected": "صرف خودگشتڪارن کي اجازت ڏيو",
 	"eri-rcfilters-tour-welcome-button": "ٺيڪ آهي، سمجهي ويس",
 	"eri-rcfilters-tour-help": "وڌيڪ ڄاڻو",
+	"eri-rcfilters-tour-intro-welcome-button": "ٺيڪ، سمجھي ويس",
 	"eri-rcfilters-tour-highlight-button": "ٺيڪ، سمجھي ويس",
 	"eri-rcfilters-tour-invite-title": "ھن صفحي لاءِ نئين آزمائشي خوبي موجود آھي",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "وڌيڪ سکو",
@@ -69,5 +76,6 @@
 	"eri-rcfilters-tour-invite-no-button": "نہ، مھرباني",
 	"eri-rcfilters-tour-confirm-title": "نيون ڇاڻيون ھاڻي قابلِڪار ڪيل آھن",
 	"securepoll-dblist-securepollglobal": "بورڊ جي چونڊَ",
-	"wikimedia-cookiestatement": "ڪوڪي بيان"
+	"wikimedia-cookiestatement": "ڪوڪي بيان",
+	"ext-quicksurveys-performance-internal-survey-question": "ڇا هي صفحو تيزي سان لوڊ ٿي پيو؟"
 }
