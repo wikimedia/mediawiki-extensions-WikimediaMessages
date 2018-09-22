@@ -65,7 +65,7 @@
 	"group-confirmed": "Потврдени корисници",
 	"group-confirmed-member": "{{GENDER:$1|потврден корисник}}",
 	"grouppage-confirmed": "{{ns:project}}:Потврдени корисници",
-	"group-editprotected": "Заштитени уредници на страници",
+	"group-editprotected": "Уредници на заштитени страници",
 	"group-editprotected-member": "{{GENDER:$1|уредник на заштитени страници}}",
 	"grouppage-editprotected": "{{ns:project}}:Заштитени уредници на страници",
 	"group-engineer": "Инженери",

@@ -106,7 +106,7 @@
 	"group-confirmed": "Подтверждённые участники",
 	"group-confirmed-member": "{{GENDER:$1|подтверждённый участник|подтверждённая участница}}",
 	"grouppage-confirmed": "{{ns:project}}:Подтверждённые участники",
-	"group-editprotected": "Редакторы защищённой страницы",
+	"group-editprotected": "Редакторы защищённых страниц",
 	"group-editprotected-member": "{{GENDER:$1|редактор защищённых страниц}}",
 	"grouppage-editprotected": "{{ns:project}}:Редакторы защищённых страниц",
 	"group-engineer": "Инженеры",
