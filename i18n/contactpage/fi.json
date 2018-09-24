@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Nike",
-			"Pyscowicz"
+			"Pyscowicz",
+			"01miki10"
 		]
 	},
 	"contactpage-title-requestlicense": "Tavaramerkin uudelleenkäyttölomake",
-	"contactpage-pagetext-requestlicense": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkkiasioissa",
+	"contactpage-pagetext-requestlicense": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä Wikimedian tavaramerkin käytöstä.",
 	"contactpage-subject-requestlicense": "Wikimedian tavaramerkin käyttöpyyntö",
 	"contactpage-license-request-username": "Käyttäjätunnus",
 	"contactpage-license-request-relevantsite": "Asiaan liittyvä Wikimedia-sivusto (valinnainen)",
@@ -47,5 +48,6 @@
 	"contactpage-license-abuse-location": "Väärinkäytön tapahtumapaikka (verkossa/verkon ulkopuolella)",
 	"contactpage-license-abuse-theircontact": "Tavaramerkkiä väärin käyttävän henkilön yhteystiedot (mikäli tiedossa)",
 	"contactpage-license-abuse-yourcontact": "Yhteystietosi (jos saamme ottaa yhteyttä sinuun)",
-	"contactpage-affcom-user-group-logo-wm-logo": "\"Jos haluat käyttää \"Wikimedia logoa\", voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].''"
+	"contactpage-affcom-user-group-logo-wm-logo": "\"Jos haluat käyttää \"Wikimedia logoa\", voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].''",
+	"contactpage-title-stewards": "Ota yhteyttä ylivalvojiin"
 }

@@ -3,13 +3,14 @@
 		"authors": [
 			"Nedergard",
 			"Nike",
-			"Pxos"
+			"Pxos",
+			"01miki10"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit",
 	"grouppage-oversight": "{{ns:project}}:Häivytysoikeudet",
 	"group-oversight": "häivyttäjät",
-	"group-oversight-member": "häivyttäjä",
+	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
 	"thank-you": "{{GENDER:$1|Kiitos.}}"
 }
