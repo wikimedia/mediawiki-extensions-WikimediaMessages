@@ -25,7 +25,7 @@
 	"wm-license-fal-wiki-link": "w:hy:Ազատ արվեստ արտոնագիր",
 	"wm-license-fsf-wiki-link": "w:hy:Ազատ ծրագրային ապահովման հիմնադրամ",
 	"wm-license-free-software-wiki-link": "w:hy:Ազատ ծրագրային ապահովում",
-	"wm-license-gfdl-1.2-and-later": "Այս վավերագրման պատճենահանման, տարածման և/կամ ձևափոխման թույլատվություն կամ '''[[{{int:wm-license-gfdl-wiki-link}}|լիցենսիայի GNU FDL]]''' պայմաններով 1.2 մեկնակերպի կամ ավելի ուշ, հրատարակված [[{{int:wm-license-fsf-wiki-link}}|Ազատ ծրագրային ապահովության հիմնադրամում]], առանց անփոփոխելի հատվածների, առանց բնագիրների, որոնք տեղադրված են առաջին և վերջին շապիկներում: Լիցենզիայի պատճեն գտնվում է ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' հատվածում:",
+	"wm-license-gfdl-1.2-and-later": "Այս վավերագրման պատճենահանման, տարածման և/կամ ձևափոխման թույլտվություն կամ '''[[{{int:wm-license-gfdl-wiki-link}}|լիցենզիայի GNU FDL]]''' պայմաններով 1.2 մեկնակերպի կամ ավելի ուշ, հրատարակված [[{{int:wm-license-fsf-wiki-link}}|Ազատ ծրագրային ապահովության հիմնադրամում]], առանց անփոփոխելի հատվածների, առանց բնագիրների, որոնք տեղադրված են առաջին և վերջին շապիկներում: Լիցենզիայի պատճենը գտնվում է ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' հատվածում:",
 	"wm-license-gfdl-wiki-link": "w:hy:GNU Free Documentation License",
 	"wm-license-information-description": "Նկարագրում",
 	"wm-license-information-description-missing": "Այս պատկերի '''{{ #if: {{{1|}}} | {{{1}}} | նկարագրումը }}''' բացակայում է, կարող են նաև բացակայել ուրիշ տեղեկություններ:",

@@ -28,7 +28,8 @@
 			"Macofe",
 			"Imperadeiro98",
 			"MokaAkashiyaPT",
-			"Athena in Wonderland"
+			"Athena in Wonderland",
+			"Ruila"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -324,5 +325,6 @@
 	"securepoll-dblist-securepollglobal": "Eleição do Conselho",
 	"wikimedia-cookiestatement": "Declaração sobre ''cookies''",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou com rapidez suficiente?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade] desta sondagem."
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade] desta sondagem.",
+	"wikimedia-switchover-read-only": "Não pode editar neste momento por causa da manutenção. Copie e grave o seu texto e tente novamente após alguns minutos."
 }

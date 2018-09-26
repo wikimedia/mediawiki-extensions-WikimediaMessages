@@ -347,5 +347,6 @@
 	"securepoll-dblist-securepollglobal": "Eleição do Conselho",
 	"wikimedia-cookiestatement": "Declaração sobre cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou rápido o suficiente?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade]desta pesquisa"
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade]desta pesquisa",
+	"wikimedia-switchover-read-only": "Você não pode editar agora. Isso é por causa da manutenção. Copie e salve seu texto e tente novamente em alguns minutos."
 }

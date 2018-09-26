@@ -184,6 +184,8 @@
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]",
 	"grant-checkuser": "Adgang til checkuserdata",
 	"interlanguage-link-mul": "Flere sprog",
+	"interlanguage-link-wikipedia": "Wikipedia",
+	"eri-rcfilters-tour-help": "Lær mere",
 	"eri-rcfilters-tour-invite-learnmore-link-label": "Lær mere",
 	"eri-rcfilters-tour-invite-no-button": "Nej tak",
 	"wikimedia-centralauth-contribs-locked": "Denne konto er globalt låst. \nSe [[Special:CentralAuth/$1|globale kontodetaljer]] for mere information."

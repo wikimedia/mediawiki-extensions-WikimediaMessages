@@ -323,5 +323,6 @@
 	"securepoll-dblist-securepollglobal": "انتخاب مجلس الإدارة",
 	"wikimedia-cookiestatement": "بيان تعريف الارتباطات",
 	"ext-quicksurveys-performance-internal-survey-question": "هل تم تحميل هذه الصفحة بسرعة كافية؟",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "لمزيد من المعلومات; راجع [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement privacy بيان هذا الاستطلاع]."
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "لمزيد من المعلومات; راجع [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement privacy بيان هذا الاستطلاع].",
+	"wikimedia-switchover-read-only": "لا يمكنك التعديل الآن. هذا بسبب الصيانة. انسخ واحفظ نصك وحاول مرة أخرى بعد عدة دقائق."
 }

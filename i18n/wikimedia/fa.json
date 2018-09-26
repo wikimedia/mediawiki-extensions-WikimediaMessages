@@ -321,5 +321,6 @@
 	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده‌است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",
-	"wikimedia-cookiestatement": "اظهارنامهٔ کوکی"
+	"wikimedia-cookiestatement": "اظهارنامهٔ کوکی",
+	"ext-quicksurveys-performance-internal-survey-question": "آیا این صفحه به اندازه کافی سریع بارگذاری شد؟"
 }
