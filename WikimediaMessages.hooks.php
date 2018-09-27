@@ -1196,38 +1196,6 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetBetaFeaturePreferences
-	 * @param User $user User to get preferences for
-	 * @param array &$preferences Preferences configuration
-	 */
-	public static function onGetBetaFeaturePreferences( User $user, array &$preferences ) {
-		global $wgExtensionAssetsPath, $wgEnableRcFiltersBetaFeature;
-
-		if ( $wgEnableRcFiltersBetaFeature ) {
-			$ores = self::isOresAvailable();
-			$preferences['rcenhancedfilters'] = [
-				'label-message' => 'eri-rcfilters-beta-label',
-				'desc-message' => $ores
-					? 'eri-rcfilters-beta-description-ores'
-					: 'eri-rcfilters-beta-description',
-				'screenshot' => [
-					'rtl' => $wgExtensionAssetsPath .
-						'/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-rtl.svg',
-					'ltr' => $wgExtensionAssetsPath .
-						'/WikimediaMessages/modules/images/betafeatures-icon-RCFilters-ltr.svg',
-				],
-				'info-link' => 'https://www.mediawiki.org/wiki/' .
-					'Special:MyLanguage/Edit_Review_Improvements/Filters_for_Special:Recent_Changes',
-				'discussion-link' => 'https://www.mediawiki.org/wiki/' .
-					'Talk:Edit_Review_Improvements/New_filters_for_edit_review',
-				'requirements' => [
-					'javascript' => true,
-				],
-			];
-		}
-	}
-
-	/**
 	 * Check if one or both of the 'damaging' and 'goodfaith' models are
 	 * available on the current wiki.
 	 *
@@ -1252,7 +1220,6 @@ class WikimediaMessagesHooks {
 	 * @param ChangesListSpecialPage $special Special page
 	 */
 	public static function onChangesListSpecialPageStructuredFilters( $special ) {
-		global $wgStructuredChangeFiltersShowWatchlistPreference;
 		if ( !ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
 			return;
 		}
@@ -1269,48 +1236,22 @@ class WikimediaMessagesHooks {
 			$special->isStructuredFilterUiEnabled()
 		) {
 			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
-				// Figure out which tour to load
-				$welcomeTourName = $special->isStructuredFilterUiEnabledByDefault() ?
-					'RcFiltersIntro' : 'RcFiltersBeta';
-
-				GuidedTourLauncher::launchTour( $welcomeTourName, 'Welcome' );
+				GuidedTourLauncher::launchTour( 'RcFiltersIntro', 'Welcome' );
 				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
 			}
 
 			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
 				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
 			}
-
-			if ( $user->getOption( 'rcenhancedfilters-show-invite-confirmation' ) ) {
-				GuidedTourLauncher::launchTour( 'RcFiltersInvite', 'Confirm' );
-			}
 		} elseif (
 			$title->isSpecial( 'Watchlist' ) &&
 			$user->isLoggedIn() &&
 			$special->isStructuredFilterUiEnabled() &&
-			$wgStructuredChangeFiltersShowWatchlistPreference &&
 			!$user->getOption( 'wlenhancedfilters-seen-tour' )
 		) {
 			// Show watchlist tour
 			GuidedTourLauncher::launchTour( 'WlFiltersIntro', 'Welcome' );
 			$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
-		} elseif (
-			// If we're on Special:RecentChanges
-			$title->isSpecial( 'Recentchanges' ) &&
-			// And the user is logged in
-			$user->isLoggedIn() &&
-			// And RCFilters is not available by default
-			!$special->isStructuredFilterUiEnabledByDefault() &&
-			// And is not activated for the user for beta
-			!$user->getOption( 'rcenhancedfilters' ) &&
-			// And beta exists
-			ExtensionRegistry::getInstance()->isLoaded( 'BetaFeatures' ) &&
-			// And the user hasn't seen the tours yet
-			!$user->getOption( 'rcenhancedfilters-seen-invite' ) &&
-			!$user->getOption( 'rcenhancedfilters-seen-tour' )
-		) {
-			// Activate invite-to-beta tour
-			GuidedTourLauncher::launchTour( 'RcFiltersInvite', 'Invite' );
 		}
 	}
 
@@ -1334,21 +1275,6 @@ class WikimediaMessagesHooks {
 	 */
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
 		if ( ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
-			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersBeta', [
-				'localBasePath' => __DIR__ . '/modules',
-				'remoteExtPath' => 'WikimediaMessages/modules',
-				'scripts' => 'rcfilters-beta-tour.js',
-				'styles' => 'rcfilters-beta-tour.less',
-				'messages' => [
-					'eri-rcfilters-tour-welcome-title',
-					'eri-rcfilters-tour-welcome-description',
-					'eri-rcfilters-tour-welcome-no-ores-description',
-					'eri-rcfilters-tour-welcome-button',
-				],
-				'dependencies' => [
-					'ext.guidedTour'
-				],
-			] );
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
 				'localBasePath' => __DIR__ . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1401,26 +1327,6 @@ class WikimediaMessagesHooks {
 					'ext.guidedTour'
 				],
 			] );
-			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersInvite', [
-				'localBasePath' => __DIR__ . '/modules',
-				'remoteExtPath' => 'WikimediaMessages/modules',
-				'scripts' => [
-					'rcfilters-invite-tour.js',
-				],
-				'styles' => 'rcfilters-invite-tour.less',
-				'messages' => [
-					'eri-rcfilters-tour-invite-title',
-					'eri-rcfilters-tour-invite-description',
-					'eri-rcfilters-tour-invite-learnmore-link-label',
-					'eri-rcfilters-tour-invite-yes-button',
-					'eri-rcfilters-tour-invite-no-button',
-					'eri-rcfilters-tour-confirm-title',
-					'eri-rcfilters-tour-confirm-description',
-				],
-				'dependencies' => [
-					'ext.guidedTour'
-				],
-			] );
 		}
 	}
 
@@ -1440,15 +1346,7 @@ class WikimediaMessagesHooks {
 			'type' => 'api',
 		];
 
-		$preferences['rcenhancedfilters-seen-invite'] = [
-			'type' => 'api',
-		];
-
 		$preferences['rcenhancedfilters-seen-highlight-button-counter'] = [
-			'type' => 'api',
-		];
-
-		$preferences['rcenhancedfilters-show-invite-confirmation'] = [
 			'type' => 'api',
 		];
 

@@ -78,9 +78,6 @@
 		"UploadForm:initial": [
 			"WikimediaMessagesHooks::onUploadFormInitial"
 		],
-		"GetBetaFeaturePreferences": [
-			"WikimediaMessagesHooks::onGetBetaFeaturePreferences"
-		],
 		"ChangesListSpecialPageStructuredFilters": [
 			"WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters"
 		],
@@ -98,7 +95,6 @@
 		]
 	},
 	"config": {
-		"EnableRcFiltersBetaFeature": false,
 		"SpecialBlockFeedbackRequest": false
 	},
 	"DefaultUserOptions": {
