@@ -35,7 +35,8 @@
 			"A2093064",
 			"NeverBehave",
 			"WQL",
-			"AndyAndyAndyAlbert"
+			"AndyAndyAndyAlbert",
+			"A Chinese Wikipedian"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -317,13 +318,6 @@
 	"right-editextendedsemiprotected": "编辑保护级别为“{{int:protect-level-editextendedsemiprotected}}”的页面",
 	"protect-level-editextendedsemiprotected": "只允许自动巡查员",
 	"restriction-level-editextendedsemiprotected": "自动巡查员保护",
-	"eri-rcfilters-beta-label": "用于编辑复核的新过滤器",
-	"eri-rcfilters-beta-description": "使用更容易、更强大的界面复核监视列表中的编辑。这包含新过滤器，用户定义的高亮及其他改进。",
-	"eri-rcfilters-beta-description-ores": "使用更容易、更强大的界面与很多新工具复核监视列表中的编辑，这包含由[[mw:Special:MyLanguage/ORES|ORES]]（一个机器学习程序）提供支持的预测过滤器。",
-	"eri-rcfilters-tour-welcome-title": "介绍：用于编辑复核的新过滤器（测试）",
-	"eri-rcfilters-tour-welcome-description": "整合改进的工具、新的界面以及机器阅读的能力来反破坏，并帮助新用户。",
-	"eri-rcfilters-tour-welcome-no-ores-description": "使用更容易且更强大的界面、额外过滤器、用户定义的高亮及其他改进来复核编辑。",
-	"eri-rcfilters-tour-welcome-button": "好的，明白了",
 	"eri-rcfilters-tour-intro-welcome-title": "欢迎使用改进的最近更改过滤器",
 	"eri-rcfilters-tour-intro-welcome-description": "通过使用新的过滤器、保存过滤器集的能力、用户定义的高亮和机器学习的力量，更有效地复核编辑。$1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "通过使用新的过滤器、保存过滤器集的能力、用户定义的高亮和其他改进，更有效地复核编辑。$1",
@@ -334,11 +328,6 @@
 	"eri-rcfilters-tour-highlight-title": "给您的结果上色",
 	"eri-rcfilters-tour-highlight-description": "使用高亮显示功能以在视觉上区分选择的属性。<br/><br/>您可以将高亮功能与过滤器结合使用，或单独使用高亮功能。",
 	"eri-rcfilters-tour-highlight-button": "好的，明白了",
-	"eri-rcfilters-tour-invite-title": "此页面有新的测试功能可用",
-	"eri-rcfilters-tour-invite-description": "尝试“'''新的编辑复核过滤器'''”。查找更相关编辑来方便您的复核需求",
-	"eri-rcfilters-tour-invite-learnmore-link-label": "了解更多",
-	"eri-rcfilters-tour-invite-yes-button": "启用新过滤器",
-	"eri-rcfilters-tour-invite-no-button": "不用了，谢谢",
 	"eri-rcfilters-tour-confirm-title": "新的过滤器现已启用",
 	"eri-rcfilters-tour-confirm-description": "您可以访问<strong>测试功能页面</strong>来提供反馈或禁用该功能。",
 	"eri-wlfilters-tour-intro-welcome-title": "欢迎来到改进的监视列表过滤器",
@@ -348,5 +337,6 @@
 	"securepoll-dblist-securepollglobal": "董事会选举",
 	"wikimedia-cookiestatement": "Cookie声明",
 	"ext-quicksurveys-performance-internal-survey-question": "此页面是否加载足够快？",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。"
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
+	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。"
 }

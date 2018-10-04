@@ -332,13 +332,6 @@
 	"right-editextendedsemiprotected": "Modifier les pages protégées sous « {{int:protect-level-editextendedsemiprotected}} »",
 	"protect-level-editextendedsemiprotected": "Autoriser uniquement les patrouilleurs automatiques",
 	"restriction-level-editextendedsemiprotected": "semi-protection étendue",
-	"eri-rcfilters-beta-label": "Nouveaux filtres pour la révision des modifications",
-	"eri-rcfilters-beta-description": "Commenter les modifications sur Liste de suivi, en utilisant une interface plus facile et plus puissante. Inclut de nouveaux filtres, une mise en surbrillance définie par l’utilisateur et d’autres améliorations.",
-	"eri-rcfilters-beta-description-ores": "Relire les modifications sur Liste de suivi, en utilisant une interface plus facile et plus puissante et beaucoup d’outils nouveaux, dont des filtres prédictifs fonctionnant avec [[mw:Special:MyLanguage/ORES|ORES]] et un programme d’apprentissage automatique.",
-	"eri-rcfilters-tour-welcome-title": "Introduction : Nouveaux filtres pour la relecture des modifications (bêta)",
-	"eri-rcfilters-tour-welcome-description": "Combine des outils améliorés, une nouvelle interface et la puissance de l’apprentissage automatique pour combattre le vandalisme et aider les nouveaux utilisateurs.",
-	"eri-rcfilters-tour-welcome-no-ores-description": "Revoyez les modifications en utilisant une interface plus simple et plus puissante, des filtres additionnels, le surlignage des résultats définis par l'utilisateur et d'autres améliorations.",
-	"eri-rcfilters-tour-welcome-button": "Ok, c’est bon",
 	"eri-rcfilters-tour-intro-welcome-title": "Bienvenue dans le filtrage amélioré des Modifications récentes",
 	"eri-rcfilters-tour-intro-welcome-description": "Relire les modifications plus efficacement en utilisant les nouveaux filtres, la possibilité de sauvegarder un ensemble de filtres, la mise en forme personnalisable et la puissance de l’apprentissage machine. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Vérifier les modifications plus efficacement en utilisant de nouveaux filtres, la possibilité d’enregistrer des ensembles de filtres, des mises en évidence définies par l’utilisateur et autres améliorations. $1",
@@ -349,11 +342,6 @@
 	"eri-rcfilters-tour-highlight-title": "Coloriez vos résultats",
 	"eri-rcfilters-tour-highlight-description": "Utlisez le surlignage pour distinguer visuellement les propriétés sélectionnées.<br/><br/>Vous pouvez combiner la mise en valeur avec les filtres ou bien utiliser la mise en valeur séparément.",
 	"eri-rcfilters-tour-highlight-button": "Ok, c’est bon",
-	"eri-rcfilters-tour-invite-title": "Nouvelle fonctionalité béta disponible pour cette page",
-	"eri-rcfilters-tour-invite-description": "Essayez les « <strong>Nouveaux filtres pour la révision des modifications</strong> ». Trouvez les modifications les plus appropriées pour vos besoins de relecture",
-	"eri-rcfilters-tour-invite-learnmore-link-label": "En savoir plus",
-	"eri-rcfilters-tour-invite-yes-button": "Activer les nouveaux filtres",
-	"eri-rcfilters-tour-invite-no-button": "Non, merci",
 	"eri-rcfilters-tour-confirm-title": "Les nouveaux filtres sont maintenant activés",
 	"eri-rcfilters-tour-confirm-description": "Vous pouvez accéder à la <strong>page des fonctionalités béta</strong> pour envoyer vos commentaires ou désactiver la  fonctionalité.",
 	"eri-wlfilters-tour-intro-welcome-title": "Bienvenue au filtrage amélioré de la liste de suivi",
@@ -363,5 +351,6 @@
 	"securepoll-dblist-securepollglobal": "Élection du conseil",
 	"wikimedia-cookiestatement": "Déclaration sur les témoins (cookies)",
 	"ext-quicksurveys-performance-internal-survey-question": "Est-ce que cette page s'est affichée suffisamment rapidement?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pour davantage d'informations, voir la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement déclaration de confidentialité] de ce sondage."
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pour davantage d'informations, voir la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement déclaration de confidentialité] de ce sondage.",
+	"wikimedia-switchover-read-only": "Vous ne pouvez pas modifier actuellement. Ceci à cause de la maintenance en cours. Copiez et enregistrez votre texte et réessayez dans quelques minutes."
 }

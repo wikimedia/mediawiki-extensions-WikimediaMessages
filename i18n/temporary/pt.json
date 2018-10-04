@@ -11,7 +11,7 @@
 	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Supervisão",
 	"group-oversight": "Supervisores",
-	"group-oversight-member": "supervisor",
+	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora}}",
 	"hello": "Olá",
 	"please-translate": "Ajude a traduzir para a sua língua, por favor",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",

@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mybluberet"
+			"Mybluberet",
+			"Chivano",
+			"Flixtey"
 		]
 	},
 	"wm-license-cc-attribution": "Hetoo",
 	"wm-license-cc-free": "Ohe ejɔ bo",
 	"wm-license-cc-free-to-share-header": "Abaaja",
-	"wm-license-cc-free-to-remix-header": "Futumɔ mli"
+	"wm-license-cc-free-to-remix-header": "Futumɔ mli",
+	"wm-license-cc-conditions-attribution-header": "henɔtoo",
+	"wm-license-cc-conditions-share_alike-header": "Jaa kɛ ehenɔtoo"
 }

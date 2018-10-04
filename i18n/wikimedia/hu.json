@@ -211,12 +211,6 @@
 	"restriction-level-templateeditor": "műszaki védelem",
 	"protect-level-templateeditor": "Csak sablonszerkesztőknek és adminisztrátoroknak engedélyezett",
 	"right-extendedconfirmed": "korlátozott lapok szerkesztése",
-	"eri-rcfilters-beta-label": "Új szűrők a friss változtatásokhoz",
-	"eri-rcfilters-tour-welcome-title": "Bevezetés: Új szűrők a Friss változtatásokhoz (béta)",
-	"eri-rcfilters-tour-welcome-button": "OK, értem",
-	"eri-rcfilters-tour-invite-description": "Próbáld ki az '''Új szűrők a friss változtatásokhoz''' eszközünket! Találd meg a legfontosabb szerkesztéseket, amelyekre szükséged van",
-	"eri-rcfilters-tour-invite-learnmore-link-label": "Tudj meg többet",
-	"eri-rcfilters-tour-invite-no-button": "Nem, köszönöm",
 	"wikimedia-centralauth-contribs-locked": "Ezt a fiókot globálisan zárolták.\nTovábbi információkért lásd a [[m:Special:CentralAuth/$1|globális fiók adatait]].",
 	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben",
 	"wikimedia-cookiestatement": "Sütinyilatkozat"

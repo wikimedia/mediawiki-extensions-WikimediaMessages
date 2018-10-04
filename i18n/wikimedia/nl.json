@@ -23,7 +23,8 @@
 			"Akoopal",
 			"Optilete",
 			"Mar(c)",
-			"Kippenvlees1"
+			"Kippenvlees1",
+			"Jeroen N"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -286,13 +287,6 @@
 	"restriction-level-editeditorprotected": "alleen voor bewerkers",
 	"right-editextendedsemiprotected": "Pagina's bewerken die beveiligd zijn als \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Alleen autopatrollers toestaan",
-	"eri-rcfilters-beta-label": "Nieuwe filters voor het beoordelen van bewerkingen",
-	"eri-rcfilters-beta-description": "Beoordeel bewerkingen op de recente wijzigingen en de volglijst met een gemakkelijkere en krachtigere interface. Bevat nieuwe filters, zelfgekozen markeringen en andere verbeteringen.",
-	"eri-rcfilters-beta-description-ores": "Beoordeel bewerkingen op de recente wijzigingen en de volglijst met een gemakkelijkere en krachtigere interface, inclusief filters met voorspelling gebaseerd op [[mw:Special:MyLanguage/ORES|ORES]], een machine learning-programma.",
-	"eri-rcfilters-tour-welcome-title": "Introductie: Nieuwe filters voor het beoordelen van bewerkingen (beta)",
-	"eri-rcfilters-tour-welcome-description": "Combineer verbeterde hulpmiddelen, een nieuwe interface en de kracht van machine learning om vandalisme te bestrijden en nieuwe gebruikers te helpen.",
-	"eri-rcfilters-tour-welcome-no-ores-description": "Beoordeel bewerkingen met een makkelijkere en krachtigere interface, extra filters, zelfgekozen markeringen en andere verbeteringen.",
-	"eri-rcfilters-tour-welcome-button": "Oké, ik begrijp het",
 	"eri-rcfilters-tour-intro-welcome-title": "Welkom bij verbeterde filters voor recente wijzigingen",
 	"eri-rcfilters-tour-intro-welcome-description": "Beoordeel bewerkingen efficiënter met verbeterde hulpmiddelen, een nieuwe interface en de kracht van machine learning. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Beoordeel bewerkingen efficiënter met nieuwe filters, een krachtigere interface, zelfgekozen markeringen en meer verbeteringen. $1",
@@ -303,11 +297,6 @@
 	"eri-rcfilters-tour-highlight-title": "Geef je resultaten een kleurtje",
 	"eri-rcfilters-tour-highlight-description": "Gebruik \"markeren\" om geselecteerde eigenschappen van elkaar te onderscheiden.<br/><br/>U kunt filters met markeringen combineren of ze apart gebruiken.",
 	"eri-rcfilters-tour-highlight-button": "Oké, ik begrijp het",
-	"eri-rcfilters-tour-invite-title": "Nieuwe betafunctie beschikbaar voor deze pagina",
-	"eri-rcfilters-tour-invite-description": "Probeer de \"'''nieuwe filters voor het beoordelen van bewerkingen'''\". Vind de meest relevante bewerkingen die aandacht nodig hebben",
-	"eri-rcfilters-tour-invite-learnmore-link-label": "Meer lezen",
-	"eri-rcfilters-tour-invite-yes-button": "De nieuwe filters inschakelen",
-	"eri-rcfilters-tour-invite-no-button": "Nee, bedankt",
 	"eri-rcfilters-tour-confirm-title": "De nieuwe filters zijn nu ingeschakeld",
 	"eri-rcfilters-tour-confirm-description": "U kunt de <strong>betafunctiespagina</strong> bezoeken om terugkoppeling te geven of de functie uit te schakelen.",
 	"eri-wlfilters-tour-intro-welcome-title": "Welkom bij de verbeterde volglijstfiltering",
@@ -316,5 +305,6 @@
 	"right-viewdeletedfile": "Toon bestanden en pagina's in de {{ns:file}} en {{ns:file_talk}} naamruimten die zijn verwijderd",
 	"securepoll-dblist-securepollglobal": "Bestuursverkiezing",
 	"wikimedia-cookiestatement": "Cookiesverklaring",
-	"ext-quicksurveys-performance-internal-survey-question": "Werd deze pagina snel genoeg geladen?"
+	"ext-quicksurveys-performance-internal-survey-question": "Werd deze pagina snel genoeg geladen?",
+	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer."
 }

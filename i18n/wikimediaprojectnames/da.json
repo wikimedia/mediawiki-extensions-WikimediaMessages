@@ -1,8 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joedalton"
+			"Joedalton",
+			"Saederup92"
 		]
 	},
-	"project-localized-name-crhwiki": "Krimtatarisk Wikipedia"
+	"project-localized-name-commonswiki": "Wikimedia Commons",
+	"project-localized-name-crhwiki": "Krimtatarisk Wikipedia",
+	"project-localized-name-dawiki": "Dansk Wikipedia",
+	"project-localized-name-dewiki": "Tysk Wikipedia",
+	"project-localized-name-donatewiki": "Doner",
+	"project-localized-name-elwiki": "Græsk Wikipedia",
+	"project-localized-name-enwiki": "Engelsk Wikipedia",
+	"project-localized-name-enwikibooks": "Engelsk Wikibooks",
+	"project-localized-name-enwikinews": "Engelsk Wikinews",
+	"project-localized-name-eswiki": "Spansk Wikipedia",
+	"project-localized-name-fiwiki": "Finsk Wikipedia",
+	"project-localized-name-frwiki": "Fransk Wikipedia",
+	"project-localized-name-gawiki": "Irsk Wikipedia",
+	"project-localized-name-internalwiki": "Intern",
+	"project-localized-name-jawiki": "Japansk Wikipedia"
 }

@@ -294,13 +294,6 @@
 	"right-editextendedsemiprotected": "Editar páginas protegidas com \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir apenas autopatrulhadores",
 	"restriction-level-editextendedsemiprotected": "proteção autopatrulhador",
-	"eri-rcfilters-beta-label": "Novos filtros para a revisão de edições",
-	"eri-rcfilters-beta-description": "Reveja as edições nas Páginas Vigiadas utilizando uma interface mais fácil e mais poderosa. Inclui filtros novos, personalização dos realces e outras melhorias.",
-	"eri-rcfilters-beta-description-ores": "Reveja edições nas Páginas Vigiadas usando uma interface mais fácil e poderosa e várias ferramentas novas, incluindo filtros preditivos suportados pelo [[mw:Special:MyLanguage/ORES|ORES]], um programa de aprendizagem automática.",
-	"eri-rcfilters-tour-welcome-title": "Introduzindo: Novos filtros para a revisão de edições (beta)",
-	"eri-rcfilters-tour-welcome-description": "Combine ferramentas melhoradas, uma nova interface e o poder da aprendizagem automática para combater o vandalismo e ajudar os novos utilizadores.",
-	"eri-rcfilters-tour-welcome-no-ores-description": "Reveja edições utilizando uma interface mais fácil e mais poderosa, filtros adicionais, realces personalizados e outras melhorias.",
-	"eri-rcfilters-tour-welcome-button": "Compreendi",
 	"eri-rcfilters-tour-intro-welcome-title": "Bem vindo(a) ao filtro melhorado das mudanças recentes",
 	"eri-rcfilters-tour-intro-welcome-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e o poder da aprendizagem automática. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e outras melhorias. $1",
@@ -311,11 +304,6 @@
 	"eri-rcfilters-tour-highlight-title": "Codifique os seus resultados por cores",
 	"eri-rcfilters-tour-highlight-description": "Usar realces para distinguir visualmente propriedades selecionadas.<br/><br/>Pode combinar realces com filtros ou usar os realces de forma independente.",
 	"eri-rcfilters-tour-highlight-button": "Compreendi",
-	"eri-rcfilters-tour-invite-title": "Está disponível uma nova funcionalidade beta para esta página",
-	"eri-rcfilters-tour-invite-description": "Tente os \"'''Novos filtros para a revisão de edições'''\". Encontre as necessidades mais relevantes de edições para sua revisão",
-	"eri-rcfilters-tour-invite-learnmore-link-label": "Saiba mais",
-	"eri-rcfilters-tour-invite-yes-button": "Ativar os filtros novos",
-	"eri-rcfilters-tour-invite-no-button": "Não, obrigado",
 	"eri-rcfilters-tour-confirm-title": "Os filtros novos estão agora ativados",
 	"eri-rcfilters-tour-confirm-description": "Pode aceder à <strong>página de funcionalidades beta</strong> para enviar comentários ou desativar a funcionalidade.",
 	"eri-wlfilters-tour-intro-welcome-title": "Bem-vindo(a) a filtragem melhorada das páginas vigiadas",
@@ -326,5 +314,5 @@
 	"wikimedia-cookiestatement": "Declaração sobre ''cookies''",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou com rapidez suficiente?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade] desta sondagem.",
-	"wikimedia-switchover-read-only": "Não pode editar neste momento por causa da manutenção. Copie e grave o seu texto e tente novamente após alguns minutos."
+	"wikimedia-switchover-read-only": "Não pode editar neste momento devido a tarefas de manutenção. Copie e grave o seu texto e tente novamente daqui a alguns minutos."
 }

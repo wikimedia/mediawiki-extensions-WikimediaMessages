@@ -6,6 +6,6 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Järelevaatajad",
 	"group-oversight": "Järelevaatajad",
-	"group-oversight-member": "järelevaataja",
+	"group-oversight-member": "{{GENDER:$1|järelevaataja}}",
 	"please-translate": "Palun aita emakeelde tõlkida"
 }

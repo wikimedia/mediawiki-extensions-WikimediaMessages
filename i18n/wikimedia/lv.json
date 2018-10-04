@@ -93,16 +93,9 @@
 	"wikimedia-globalblocking-ipblocked": "'''Tava IP adrese ir [[m:Special:MyLanguage/Global blocks|nobloķēta visās vikivietnēs]].'''\n\nBloķēšanu veica $1 ($2).\nNorādītais iemesls ir ''$3''.\n\n* Bloka sākums: $4\n* Bloka beigas: $5\n\nTava pašreizējā IP adrese ir $6.\nLūdzu, iekļauj šo informāciju visos savos iesniegtajos jautājumos.\n\nJa uzskati, ka bloķēšana notikusi kļūdas pēc, papildu informāciju un instrukcijas vari atrast globālās politikas lapā [[m:Special:MyLanguage/No open proxies|nekādu atvērto starpniekserveru]].\nCitos gadījumos, lai apspriestu bloķēšanu, lūdzu, [[m:Steward requests/Global|iesniedz pārskatīšanas pieprasījumu ''Meta-Wiki'']].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Viens vai vairāki tavā pieprasījumā izmantotie starpniekserveri ir [[m:Special:MyLanguage/Global blocks|bloķēti globāli]].'''\n\nBloķēšanu veica $1 ($2).\nNorādītais iemesls ''$3''.\n\n* Bloka sākums: $4\n* Bloka beigas: $5\n\nBloķētā starpniekservera adrese bija $6.\nVisos savos pieprasījumos, lūdzu, iekļauj šos datus.\n\nJa tu uzskati, ka tiki bloķēts kļūdas dēļ, papildu informāciju un instrukcijas vari atrast globālās politikas lapā \"[[m:Special:MyLanguage/No open proxies|Nekādu atvērto starpniekserveru]]\".\nCitos gadījumos, lai apspriestu bloku, lūdzu, [[m:Steward requests/Global|pievieno pārskatīšanas pieprasījumu ''Meta-Wiki'']].",
 	"interlanguage-link-wikipedia": "Vikipēdija",
-	"eri-rcfilters-beta-label": "Jaunie filtri labojumu pārskatīšanai",
-	"eri-rcfilters-tour-welcome-title": "Iepazīstinām: jauni filtri labojumu pārskatei (bēta)",
-	"eri-rcfilters-tour-welcome-no-ores-description": "Pārskati labojumus, izmantojot vienkāršāku un iespējām bagātāku saskarni, papildus filtrus, dalībnieka noteiktu iekrāsošanu un citus uzlabojumus.",
-	"eri-rcfilters-tour-welcome-button": "Labi, sapratu",
 	"eri-rcfilters-tour-help": "Uzzināt vairāk",
 	"eri-rcfilters-tour-intro-welcome-button": "Labi, sapratu",
 	"eri-rcfilters-tour-highlight-button": "Labi, sapratu",
-	"eri-rcfilters-tour-invite-title": "Šai lapai pieejama jauna bēta iespēja",
-	"eri-rcfilters-tour-invite-learnmore-link-label": "Uzzināt vairāk",
-	"eri-rcfilters-tour-invite-no-button": "Nē, paldies",
 	"securepoll-dblist-securepollglobal": "Valdes vēlēšanas",
 	"wikimedia-cookiestatement": "Sīkdatņu deklarācija"
 }

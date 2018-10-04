@@ -5,8 +5,12 @@
 			"Bugoslav"
 		]
 	},
+	"wikimediamessages-desc": "Privremene poruke svojevrsne za Wikimediju",
 	"grouppage-oversight": "{{ns:project}}:Nadgledništvo",
 	"group-oversight": "Nadglednici",
 	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
-	"thank-you": "{{GENDER:$1|Hvala lijepa!}}"
+	"hello": "Bok",
+	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
+	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
+	"specialblockfeedbackrequestcta": "Pomozite poboljšanju blokiranja"
 }

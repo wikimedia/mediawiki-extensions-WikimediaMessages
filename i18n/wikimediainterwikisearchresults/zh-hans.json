@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"A Chinese Wikipedian"
 		]
 	},
 	"search-interwiki-results-abwiki": "显示来自[[:ab:|阿布哈兹语维基百科]]的结果。",
@@ -119,7 +120,7 @@
 	"search-interwiki-results-itwiki": "显示来自[[:it:|意大利语维基百科]]的结果。",
 	"search-interwiki-results-iuwiki": "显示来自[[:iu:|因纽特语维基百科]]的结果。",
 	"search-interwiki-results-jamwiki": "显示来自[[:jam:|牙买加Patois语维基百科]]的结果。",
-	"search-interwiki-results-jawiki": "显示来自[[:ja:|日语维基百科]]的结果。",
+	"search-interwiki-results-jawiki": "显示来自[[:ja:|日文维基百科]]的结果。",
 	"search-interwiki-results-jbowiki": "显示来自[[:jbo:|逻辑语维基百科]]的结果。",
 	"search-interwiki-results-jvwiki": "显示来自[[:jv:|爪哇语维基百科]]的结果。",
 	"search-interwiki-results-kaawiki": "显示来自[[:kaa:|卡拉卡尔帕克语维基百科]]的结果。",
