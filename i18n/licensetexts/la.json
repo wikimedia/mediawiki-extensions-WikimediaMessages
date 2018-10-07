@@ -3,7 +3,8 @@
 		"authors": [
 			"Autokrator",
 			"Diebuche",
-			"UV"
+			"UV",
+			"Andrew Dalby"
 		]
 	},
 	"wm-license-artwork-artist": "Artifex",
@@ -28,6 +29,7 @@
 	"wm-license-information-description": "Descriptio",
 	"wm-license-information-description-missing": "Hic fasciculus caret descriptione.",
 	"wm-license-information-source": "Fons",
+	"wm-license-information-date": "Datum",
 	"wm-license-information-author": "Auctor",
 	"wm-license-information-author-missing": "Hic fasciculus caret descriptione auctoris.",
 	"wm-license-information-permission": "Permissio",

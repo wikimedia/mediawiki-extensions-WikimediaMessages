@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Autokrator"
+			"Autokrator",
+			"Andrew Dalby"
 		]
 	},
 	"wm-license-cc-attribution": "Attributio",
@@ -10,5 +11,6 @@
 	"wm-license-cc-free-to-share-header": "communicare",
 	"wm-license-cc-free-to-share-text": "copiare, distribuere et committere hoc opus",
 	"wm-license-cc-conditions": "His condicionibus:",
-	"wm-license-cc-conditions-attribution-header": "attributio"
+	"wm-license-cc-conditions-attribution-header": "attributio",
+	"wm-license-cc-conditions-share_alike-header": "aequa parte"
 }

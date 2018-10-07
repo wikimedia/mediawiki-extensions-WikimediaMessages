@@ -29,7 +29,8 @@
 			"Jdx",
 			"Ankry",
 			"Michał Sobkowski",
-			"Stojex"
+			"Stojex",
+			"Railfail536"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -58,6 +59,7 @@
 	"grouppage-Image-reviewer": "{{ns:project}}:Redaktorzy grafik",
 	"group-extended-uploader": "Zaawansowani przesyłający pliki",
 	"group-extended-uploader-member": "{{GENDER:$1|zaawansowany przesyłający pliki|zaawansowana przesyłająca pliki}}",
+	"grouppage-extended-uploader": "{{ns:project}}:Zaawansowani przesyłający pliki",
 	"group-otrs-member": "Operatorzy OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|operator|operatorka}} OTRS",
 	"grouppage-otrs-member": "{{ns:project}}:Operatorzy OTRS",
@@ -104,6 +106,7 @@
 	"grouppage-eventparticipant": "{{ns:project}}:Uczestnicy wydarzenia",
 	"group-extendedconfirmed": "Zaawansowani zatwierdzeni użytkownicy",
 	"group-extendedconfirmed-member": "{{GENDER:$1|zaawansowany zatwierdzony użytkownik|zaawansowana zatwierdzona użytkowniczka}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}:Zaawansowani zatwierdzeni użytkownicy",
 	"group-extendedmover": "Zaawansowani przenoszący strony",
 	"group-extendedmover-member": "{{GENDER:$1|zaawansowany przenoszący strony|zaawansowana przenosząca strony}}",
 	"grouppage-extendedmover": "{{ns:project}}:Przenoszący strony",
@@ -112,6 +115,7 @@
 	"grouppage-filemover": "{{ns:project}}:Przenoszący pliki",
 	"group-mover": "Przenoszący",
 	"group-mover-member": "{{GENDER:$1|przenoszący strony|przenosząca strony}}",
+	"grouppage-mover": "{{ns:project}}:Przenoszący",
 	"group-flood": "Użytkownicy o ukrytej aktywności",
 	"group-flood-member": "{{GENDER:$1|użytkownik|użytkowniczka}} o ukrytej aktywności",
 	"grouppage-flood": "{{ns:project}}:Użytkownicy o ukrytej aktywności",
@@ -167,6 +171,9 @@
 	"group-centralnoticeadmin": "Administratorzy wspólnych komunikatów",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|administrator|administratorka}} komunikatów wspólnych",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Administratorzy komunikatów wspólnych",
+	"group-curator": "Kuratorzy",
+	"group-curator-member": "{{GENDER:$1|kurator|kuratorka}}",
+	"grouppage-curator": "{{ns:project}}:Kuratorzy",
 	"group-global-bot": "Boty globalne",
 	"group-global-bot-member": "{{GENDER:$1|bot globalny}}",
 	"group-global-flow-create": "Globalni twórcy Flow",
@@ -286,7 +293,7 @@
 	"protect-level-editextendedsemiprotected": "Dozwolone tylko dla patrolujących automatycznie",
 	"restriction-level-editextendedsemiprotected": "zabezpieczone ne poziomie patrolujących automatycznie",
 	"eri-rcfilters-tour-intro-welcome-title": "Witamy w ulepszonym filtrowaniu Ostatnich Zmian",
-	"eri-rcfilters-tour-intro-welcome-description": "Skuteczniej sprawdzaj edycje za pomocą ulepszonych narzędzi, nowego interfejsu oraz w oparciu o maszynowe uczenie się. $1",
+	"eri-rcfilters-tour-intro-welcome-description": "Skuteczniej sprawdzaj edycje za pomocą nowych filtrów, możliwości ustawienia zestawu filtrów, podświetlania konkretnych użytkowników oraz w oparciu o maszynowe uczenie się. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Skuteczniej sprawdzaj edycje z użyciem nowych filtrów, nowego interfejsu, możliwości podświetlania definiowanego przez użytkownika oraz innych ulepszeń. $1",
 	"eri-rcfilters-tour-help": "Więcej informacji",
 	"eri-rcfilters-tour-intro-preferences-description": "Możesz wyłączyć ulepszoną wersję Ostatnich zmian w dowolnym momencie poprzez wejście w preferencje.",
@@ -296,9 +303,11 @@
 	"eri-rcfilters-tour-highlight-button": "Ok, rozumiem",
 	"eri-rcfilters-tour-confirm-title": "Włączono właśnie nowe filtry",
 	"eri-rcfilters-tour-confirm-description": "Możesz przejść na stronę <strong>funkcje eksperymentalne</strong>, aby wyłączyć tę funkcję lub wyrazić opinię.",
+	"eri-wlfilters-tour-intro-welcome-title": "Witaj w udoskonalonym filtrowaniu listy obserwowanych",
 	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Wybory do Rady Powierniczej",
 	"wikimedia-cookiestatement": "Komunikat na temat ciasteczek",
-	"ext-quicksurveys-performance-internal-survey-question": "Czy strona ładowała się wystarczająco szybko?"
+	"ext-quicksurveys-performance-internal-survey-question": "Czy strona ładowała się wystarczająco szybko?",
+	"wikimedia-switchover-read-only": "Nie możesz teraz edytować z powodów konserwacyjnych. Skopiuj i zapisz tekst swojej edycji, a następnie spróbuj ponownie za parę minut."
 }
