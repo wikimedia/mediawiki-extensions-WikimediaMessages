@@ -6,7 +6,8 @@
 			"Rezonansowy",
 			"Tar Lócesilion",
 			"Beau",
-			"Sp5uhe"
+			"Sp5uhe",
+			"Railfail536"
 		]
 	},
 	"wikimediamessages-desc": "Specjalne tymczasowe wiadomości Wikimedia",
@@ -15,5 +16,6 @@
 	"group-oversight-member": "{{GENDER:$1|rewizor|rewizorka}}",
 	"hello": "Witaj",
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
-	"thank-you": "{{GENDER:$1|Dziękuję.}}"
+	"thank-you": "{{GENDER:$1|Dziękuję.}}",
+	"specialblockfeedbackrequestcta": "Pomóż udoskonalić blokowanie"
 }
