@@ -1,4 +1,12 @@
 {
-	"@metadata": [],
-	"wm-license-information-source": "Pinanlapuan"
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"wm-license-information-description": "Deskripsion",
+	"wm-license-information-source": "Pinanlapuan",
+	"wm-license-information-date": "Agew",
+	"wm-license-information-author": "Autor",
+	"wm-license-information-permission": "Pangiyaabuloy"
 }
