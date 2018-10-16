@@ -29,8 +29,6 @@
 	"group-flood": "समीक्षक बोटहरू",
 	"group-founder": "संस्थापकहरु",
 	"group-import": "आयातकर्ताहरू",
-	"group-inactive": "निष्क्रिय प्रयोगकर्ताहरू",
-	"group-inactive-member": "{{GENDER:$1|निस्क्रिय प्रयोगकर्ता}}",
 	"group-interface-editor": "अन्तरमोहडा सम्पादकहरू",
 	"group-ipblock-exempt": "IP रोक माफीहरू",
 	"group-patroller": "गस्तीकर्ताहरु",

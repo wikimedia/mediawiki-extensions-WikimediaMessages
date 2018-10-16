@@ -14,8 +14,6 @@
 	"group-confirmed-member": "{{GENDER:$1|confirmed uiser}}",
 	"group-flood": "Bot uisers",
 	"group-flood-member": "{{GENDER:$1|bot uiser}}",
-	"group-inactive": "Onacteeve uisers",
-	"group-inactive-member": "{{GENDER:$1|inactive uiser}}",
 	"group-rollbacker": "Rowbackers",
 	"group-rollbacker-member": "{{GENDER:$1|rollbacker}}",
 	"wikimedia-copyright": "Text is available unner the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms mey apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms o Uise</a> for details.",

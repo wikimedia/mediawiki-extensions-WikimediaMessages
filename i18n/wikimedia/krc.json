@@ -36,8 +36,6 @@
 	"group-import": "Импорт этиучюле",
 	"group-import-member": "{{GENDER:$1|импортчу}}",
 	"grouppage-import": "{{ns:project}}:Импортирчула",
-	"group-inactive": "Актив болмагъан къошулуучула",
-	"group-inactive-member": "{{GENDER:$1|джукъ этмеучю къошулуучу}}",
 	"group-interface-editor": "Интерфейсни редакторлары",
 	"group-interface-editor-member": "{{GENDER:$1|интерфейсни редактору}}",
 	"grouppage-interface-editor": "{{ns:project}}:Интерфейсни редакторлары",

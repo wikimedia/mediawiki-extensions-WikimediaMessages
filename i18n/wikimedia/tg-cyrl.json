@@ -24,8 +24,6 @@
 	"group-import": "Воридкунандагон",
 	"group-import-member": "{{GENDER:$1|воридкунанда}}",
 	"grouppage-import": "{{ns:project}}:Воридкунандагон",
-	"group-inactive": "Корбарони ғайрифаъол",
-	"group-inactive-member": "{{GENDER:$1|корбарони ғайрифаъол}}",
 	"group-ipblock-exempt": "Истиснои қатъи дастрасии нишонаи IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|Истиснои қатъи дастрасии нишонаи IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Истиснои қатъи дастрасии нишонаи IP",

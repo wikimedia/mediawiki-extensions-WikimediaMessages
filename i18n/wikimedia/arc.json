@@ -16,7 +16,6 @@
 	"group-founder-member": "{{GENDER:$1|ܫܬܐܣܢܐ|ܫܬܐܣܢܬܐ}}",
 	"grouppage-founder": "{{ns:project}}:ܫܬܐܣܢ̈ܐ",
 	"grouppage-import": "{{ns:project}}:ܡܥܠܢ̈ܐ",
-	"group-inactive": "ܡܦܠܚܢ̈ܐ ܠܐ ܙܪ̈ܝܙܐ",
 	"group-uploader-member": "{{GENDER:$1|ܡܣܩܢܐ|ܡܣܩܢܬܐ}}",
 	"grouppage-uploader": "{{ns:project}}:ܡܣܩܢ̈ܐ",
 	"group-sysadmin": "ܡܕܒܪ̈ܢܐ ܕܛܟܣܐ",
