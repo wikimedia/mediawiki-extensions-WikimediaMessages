@@ -3,12 +3,14 @@
 		"authors": [
 			"Nemo bis",
 			"Aquatech",
-			"Beta16"
+			"Beta16",
+			"Wim b"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Nome utente",
+	"wikimedia-delete-toobig": "Questa pagina ha una lunga cronologia delle modifiche, più di $1 {{PLURAL:$1|versione|versioni}}.\nLa cancellazione di pagine con una cronologia molto lunga è stata limitata per evitare di creare accidentalmente dei problemi di funzionamento al database di {{SITENAME}}.\nPer favore contatta gli [[m:Special:MyLanguage/Stewards|steward]] alla pagina [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] per richiedere la cancellazione di questa pagina.",
 	"wikimedia-feedback-termsofuse": "Accetto di fornire commenti in accordo con le <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/it\" target=\"_blank\">condizioni d'uso</a>.",
 	"wikimedia-flow-terms-of-use-new-topic": "Cliccando su \"{{int:flow-newtopic-save}}\", accetti le nostre [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it condizioni d'uso] e accetti irrevocabilmente di rilasciare il tuo testo in base alle licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it CC-BY-SA 3.0] e [https://it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL].",
 	"wikimedia-flow-terms-of-use-reply": "Cliccando su \"{{int:flow-reply-link}}\", accetti le nostre [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it condizioni d'uso] e accetti di rilasciare il tuo testo in base alle licenze [https://creativecommons.org/licenses/by-sa/3.0/deed.it CC-BY-SA 3.0] e [https://it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL].",
