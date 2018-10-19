@@ -6,7 +6,7 @@
 			"Obsuser"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помози ми у избору)]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помоћ око одабира)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Захтевајте отварање налога]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
 	"wikimedia-delete-toobig": "Ова страница има велику историју, преко $1 {{PLURAL:$1|измене|измене|измена}}.\nБрисање таквих страница је ограничено да би се спречило случајно оптерећење {{SITENAME}}.\nМолимо вас обратите се [[m:Special:MyLanguage/Stewards|стјуардима]] на [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] и од њих тражите брисање ове странице.",
