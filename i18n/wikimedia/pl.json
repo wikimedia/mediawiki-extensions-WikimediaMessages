@@ -290,7 +290,7 @@
 	"protect-level-editextendedsemiprotected": "Dozwolone tylko dla patrolujących automatycznie",
 	"restriction-level-editextendedsemiprotected": "zabezpieczone ne poziomie patrolujących automatycznie",
 	"eri-rcfilters-tour-intro-welcome-title": "Witamy w ulepszonym filtrowaniu Ostatnich Zmian",
-	"eri-rcfilters-tour-intro-welcome-description": "Skuteczniej sprawdzaj edycje za pomocą nowych filtrów, możliwości ustawienia zestawu filtrów, podświetlania konkretnych użytkowników oraz w oparciu o maszynowe uczenie się. $1",
+	"eri-rcfilters-tour-intro-welcome-description": "Skuteczniej sprawdzaj edycje za pomocą nowych filtrów, możliwości zapisywania zestawów filtrów, definiowania podświetlania wyników oraz w oparciu o maszynowe uczenie się. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Skuteczniej sprawdzaj edycje z użyciem nowych filtrów, nowego interfejsu, możliwości podświetlania definiowanego przez użytkownika oraz innych ulepszeń. $1",
 	"eri-rcfilters-tour-help": "Więcej informacji",
 	"eri-rcfilters-tour-intro-preferences-description": "Możesz wyłączyć ulepszoną wersję Ostatnich zmian w dowolnym momencie poprzez wejście w preferencje.",
