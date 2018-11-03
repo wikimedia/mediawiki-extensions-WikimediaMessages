@@ -4,5 +4,13 @@
 			"Vikoula5"
 		]
 	},
-	"wm-license-information-date": "Azmez"
+	"wm-license-gfdl-1.2-and-later": "Ɣuṛ-k tasiregt akken ad tneɣleḍ, ad tzuzreḍ neɣ ad tesnifleḍ isemli-agi akken yella di tewtilin n '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' lqem 1.2 neq yal lqem amaynut i d-yeffɣen sɣuṛ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], s war abeddel di tgezmiyin, s war aḍris deg usebter amenzu n tdulineɣ s war aḍris deg usebter aneggaru n tduli. Amedya n turagt yedda deg tgezmi ittusemman ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Aglam",
+	"wm-license-information-source": "Aɣbalu",
+	"wm-license-information-date": "Azmez",
+	"wm-license-information-author": "Ameskar",
+	"wm-license-information-permission": "Tasiregt",
+	"wm-license-information-permission-reusing-text": "Tulsa n useqdec n ufaylu-agi",
+	"wm-license-own-work": "Amahil udmawan",
+	"wm-license-self-multiple-licenses-select": "Tzemreḍ ad ferneḍ yiwet seg turagin-agi."
 }

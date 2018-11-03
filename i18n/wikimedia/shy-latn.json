@@ -7,6 +7,12 @@
 	"sitesupport": "Efk-aɣ idrimen",
 	"tooltip-n-sitesupport": "Mudd-aɣ-d afus",
 	"wikimedia-copyright": "Aḍris yella daw n <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Turagt Creative Commons Attribution-ShareAlike</a>;\ntiwtilin-nniḍen zemrenk ad ilint.\nWali <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Tiwtilin n useqdec </a> ɣef ugar n isallen.",
+	"wikimedia-copyrightwarning": "S usekles n usnifel, ad tqebleḍ [https://foundation.wikimedia.org/wiki/Terms_of_Use Tiwtilin n useqdec], udiɣ ad tqebleḍ i lebdaad tessuffɣeḍ atteki-yik daw n [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-Turagt ShareAlike_3.0_Unported_License CC BY-SA 3.0] akked [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAd tqebleḍ d akken aseɣwen neɣ tansa URL d imawlan ara yeqadden daw n turagt Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikisalan",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikaɣbalu",
 	"wikibase-sitelinks-wikivoyage": "Wikiamessakwel",
-	"wikimedia-developers": "Ineflayen"
+	"wikimedia-developers": "Ineflayen",
+	"wikimedia-globalblocking-ipblocked": "'''Tansa-ik IP [[m:Special:MyLanguage/Global blocks|tewḥel ɣef iwikiyen meṛṛa]].'''\n\nAsewḥel yettwag sɣur $1 ($2).\nSebba d-ittunefken ''$3''.\n\n* Tazwara n usewḥel : $4\n* Tagara n usewḥel : $5\n\nTansa-ik n tura $6.\nSeddu-d ma ulac aɣilif talqayt ddaw-a di yal asuter ara d-azneḍ.\n\nMa tɣileḍ d akken asewḥel d tuccḍa, tzemreḍ ad tafeḍ talɣut akked tinadin di tsertit tamatut [[m:Special:MyLanguage/No open proxies|Ulac apṛuksi yeldin]].\nNeɣ, akken ad tesqerdceḍ asewḥel-agi, [[m:Steward requests/Global|azen-d asuter akken ad nwali ṛṛay-nniḍen di Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Yiwen neɣ ugar n iqeddacen ipṛuksiyen i tesqedceḍ deg usuter-ik [[m:Special:MyLanguage/Global blocks|weḥlen s umata]].'''\n\nAsewḥel yettwag sɣur $1 ($2).\nSebba d-ittunefken ''$3''.\n\n* Tazwara n usewḥel : $4\n* Tagara n usewḥel : $5\n\nTansa n pruksi iweḥlen d $6.\nSeddu-d ma ulac aɣilif talqayt ddaw-a di yal asuter ara d-azneḍ.\n\nMa tɣileḍ d akken asewḥel d tuccḍa, tzemreḍ ad tafeḍ talɣut akked tinadin di tsertit tamatut [[m:Special:MyLanguage/No open proxies|Ulac apṛuksi yeldin]].\nNeɣ, akken ad tesqerdceḍ asewḥel-agi, [[m:Steward requests/Global|azen-d asuter akken ad nwali ṛṛay-nniḍen di Meta-Wiki]]."
 }
