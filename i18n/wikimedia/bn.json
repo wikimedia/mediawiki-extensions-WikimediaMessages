@@ -124,7 +124,7 @@
 	"group-wikidata-staff": "উইকিউপাত্ত কর্মী",
 	"group-wikidata-staff-member": "{{GENDER:$1|উইকিউপাত্ত কর্মী}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:উইকিউপাত্ত কর্মীর সদস্য",
-	"group-centralnoticeadmin": "প্রশাসকদের কেন্দ্রীয় নোটিশ",
+	"group-centralnoticeadmin": "কেন্দ্রীয় বিজ্ঞপ্তি প্রশাসক",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|কেন্দ্রীয় বিজ্ঞপ্তি প্রশাসক}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:কেন্দ্রীয় বিজ্ঞপ্তি প্রশাসক",
 	"group-global-bot": "বৈশ্বিক বট",
