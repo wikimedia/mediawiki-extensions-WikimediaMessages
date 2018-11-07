@@ -3,7 +3,8 @@
 		"authors": [
 			"Diebuche",
 			"Multichill",
-			"Stifle"
+			"Stifle",
+			"Kwekubo"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ga:Creative Commons",
@@ -15,7 +16,7 @@
 	"wm-license-cc-free-to-remix-header": "an saothar seo a athmheascadh",
 	"wm-license-cc-free-to-remix-text": "an saothar seo a oiriúnú",
 	"wm-license-cc-conditions": "Ach amháin má leantar na coinníollacha seo a leanas:",
-	"wm-license-cc-conditions-attribution-header": "Crediúint",
+	"wm-license-cc-conditions-attribution-header": "sannadh",
 	"wm-license-cc-conditions-attribution-text": "Ní mor creidiúint a thabhairt leis an saothar, faoi mar a shonraigh an údar nó tabharthóir an ceadúnais (ach ná húsáid modh a thugann le fios go thacaíonn sé/sí tú féin nó an úsáid a bhaineann tú as an saothar).",
 	"wm-license-cc-conditions-share_alike-header": "comhroinn araon",
 	"wm-license-cc-conditions-share_alike-text": "Má athraíonn tú nó síneann tú amach an saothar seo, ní féidir é a dháileadh ach amhaín faoin gceadúnas céanna nó ceann cosúil leis an gceann seo."
