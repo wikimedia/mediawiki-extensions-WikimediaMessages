@@ -208,6 +208,7 @@
 	"wikimedia-copyrightwarning": "שמירת השינויים מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך בכפוף לרישיון [https://creativecommons.org/licenses/by-sa/3.0/deed.he CC BY-SA 3.0] ולרישיון [https://www.gnu.org/copyleft/fdl.html GFDL].\nזוהי גם הסכמתך לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"הגדרה של רישיון קריאייטיב קומונז ייחוס–שיתוף זהה\" target=\"_blank\">CC BY-SA 3.0</a> and <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"הגדרה של GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ויקינתונים",
+	"wikibase-page-schema-author-name": "תורמים למיזמי ויקימדיה",
 	"wikibase-statementsection-identifiers": "מזהים",
 	"wikibase-statementsection-constraints": "אילוצים",
 	"wikibase-sitelinks-wikibooks": "ויקיספר",
