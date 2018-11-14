@@ -1,7 +1,8 @@
 /*!
- * Monitor opening of the rcfilters popup and show Highlight Guided Tour or hint (blue dot) as needed
+ * Monitor opening of the rcfilters popup and show Highlight Guided Tour or hint (blue dot) as
+ * needed.
  */
-( function ( mw, gt ) {
+( function () {
 	var pulsatingDotVisible = false,
 		initial = 5,
 		recurring = 3,
@@ -58,7 +59,7 @@
 
 	mw.hook( 'RcFilters.highlight.enable' ).add( function () {
 		if ( pulsatingDotVisible ) {
-			gt.launchTour( 'RcFiltersHighlight' );
+			mw.guidedTour.launchTour( 'RcFiltersHighlight' );
 			pulsatingDotVisible = false;
 			hideDot();
 		}
@@ -68,4 +69,4 @@
 		}
 	} );
 
-}( mediaWiki, mediaWiki.guidedTour, jQuery ) );
+}() );

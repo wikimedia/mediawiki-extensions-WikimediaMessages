@@ -1,8 +1,8 @@
 /*!
  * Guided tour for highlight feature
  */
-( function ( mw, gt ) {
-	var tour = new gt.TourBuilder( {
+( function () {
+	var tour = new mw.guidedTour.TourBuilder( {
 		name: 'RcFiltersHighlight',
 		shouldLog: true,
 		isSinglePage: true
@@ -21,7 +21,7 @@
 			{
 				namemsg: 'eri-rcfilters-tour-highlight-button',
 				onclick: function () {
-					gt.endTour();
+					mw.guidedTour.endTour();
 				}
 			}
 		],
@@ -33,4 +33,4 @@
 			$overlay.append( $guider );
 		}
 	} );
-}( mediaWiki, mediaWiki.guidedTour ) );
+}() );

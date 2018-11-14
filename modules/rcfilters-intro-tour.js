@@ -1,5 +1,5 @@
-( function ( mw, gt ) {
-	var tour = new gt.TourBuilder( {
+( function () {
+	var tour = new mw.guidedTour.TourBuilder( {
 		name: 'RcFiltersIntro',
 		shouldLog: true,
 		isSinglePage: true
@@ -40,4 +40,4 @@
 		attachTo: '#pt-preferences a'
 	} );
 
-}( mediaWiki, mediaWiki.guidedTour ) );
+}() );

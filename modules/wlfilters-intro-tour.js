@@ -1,5 +1,5 @@
-( function ( mw, gt ) {
-	var tour = new gt.TourBuilder( {
+( function () {
+	var tour = new mw.guidedTour.TourBuilder( {
 		name: 'WlFiltersIntro',
 		shouldLog: true,
 		isSinglePage: true
@@ -44,8 +44,8 @@
 				action: 'end'
 			},
 
-			// GuidedTour doesn't allow us to have both an 'end' and an 'okay' action, so make this button
-			// a fake externalLink instead
+			// GuidedTour doesn't allow us to have both an 'end' and an 'okay' action, so make this
+			// button a fake externalLink instead
 			{
 				namemsg: 'eri-rcfilters-tour-intro-disable-button',
 				type: 'neutral',
@@ -62,4 +62,4 @@
 		]
 	} );
 
-}( mediaWiki, mediaWiki.guidedTour ) );
+}() );
