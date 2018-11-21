@@ -240,6 +240,7 @@
 	"wikimedia-copyrightwarning": "Зберігаючи свої зміни, Ви погоджуєтеся з [https://foundation.wikimedia.org/wiki/Terms_of_Use Умовами використання], а також на невідкличну публікацію на умовах ліцензій [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] та [https://uk.wikipedia.org/wiki/Вікіпедія:Текст_GNU_Free_Documentation_License GFDL].\nВи погоджуєтеся, що гіперпосилання або URL є достатнім зазначенням авторства згідно з ліцензією Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Формулювання ліцензії Creative Commons Attribution-ShareAlike\" target=\"_blank\">CC BY-SA 3.0</a> і <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Формулювання GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Вікідані",
+	"wikibase-page-schema-author-name": "Учасники проектів Вікімедіа",
 	"wikibase-statementsection-identifiers": "Ідентифікатори",
 	"wikibase-statementsection-constraints": "Обмеження",
 	"wikibase-sitelinks-wikibooks": "Вікіпідручник",

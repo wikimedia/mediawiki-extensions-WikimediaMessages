@@ -37,7 +37,7 @@
 	"group-arbcom-member": "{{GENDER:$1|чалец арбітражнага камітэту|чалец арбітражнага камітэту}}",
 	"grouppage-arbcom": "{{ns:project}}:Чальцы арбітражнага камітэту",
 	"group-autopatrolled": "Аўтаматычна патруліруючыя",
-	"group-autopatrolled-member": "{{GENDER:$1|аўтаматычна патруліруючы|аўтаматычна патруліруючая}}",
+	"group-autopatrolled-member": "{{GENDER:$1|аўтаматычна патрулюючы|аўтаматычна патрулюючая}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Аўтаматычна патруліруючыя",
 	"group-autoreviewer": "Аўтаматычныя рэцэнзэнты",
 	"group-autoreviewer-member": "{{GENDER:$1|аўтаматычны рэцэнзэнт|аўтаматычныя рэцэнзэнтка}}",

@@ -222,6 +222,7 @@
 	"wikimedia-copyrightwarning": "بالضغط على زر \"{{int:savearticle}}\"، فإنك توافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"تعريف رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل\" target=\"_blank\">رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0</a> و<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"تعريف رخصة جنو للوثائق الحرة\" target=\"_blank\">رخصة جنو للوثائق الحرة</a>",
 	"wikibase-repo-name": "ويكي بيانات",
+	"wikibase-page-schema-author-name": "المساهمون في مشاريع ويكيميديا",
 	"wikibase-statementsection-identifiers": "معرفات",
 	"wikibase-statementsection-constraints": "محددات",
 	"wikibase-sitelinks-wikibooks": "ويكي الكتب",

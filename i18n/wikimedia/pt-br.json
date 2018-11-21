@@ -243,6 +243,7 @@
 	"wikimedia-copyrightwarning": "Ao gravar as alterações, você concorda com os [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Termos de Uso] e em registrar irrevogavelmente a sua contribuição sob a [https://creativecommons.org/licenses/by-sa/3.0/ licença CC-BY-SA 3.0] e a [https://www.gnu.org/copyleft/fdl.html licença GFDL].\nTambém concorda que uma hiperligação ou URL é forma suficiente de atribuição nos termos da licença Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definição de Creative Commons Attribution-ShareAlike License\" target=\"_blank\">CC BY-SA 3.0</a> e <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definição de GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Wikidata",
+	"wikibase-page-schema-author-name": "Colaboradores para projetos da Wikimedia",
 	"wikibase-statementsection-identifiers": "Identificadores",
 	"wikibase-statementsection-constraints": "Restrições",
 	"wikibase-sitelinks-wikibooks": "Wikilivros",

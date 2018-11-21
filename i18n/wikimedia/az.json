@@ -10,7 +10,8 @@
 			"Wertuose",
 			"Caliburn",
 			"Dağlı95",
-			"Zpizza"
+			"Zpizza",
+			"Neriman2003"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
@@ -85,6 +86,7 @@
 	"group-sysadmin": "Sistem idarəçiləri",
 	"group-sysadmin-member": "{{GENDER:$1|Sistem idarəçisi}}",
 	"grouppage-sysadmin": "m:Sistem idarəçisiləri",
+	"group-translationadmin": "Tərcümə idarəçiləri",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Mətn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziyası</a> altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.\nƏtraflı məlumat üçün <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">istifadə şərtlərinə</a> baxın.",
 	"wikibase-sitelinks-wikibooks": "Vikikitab",
