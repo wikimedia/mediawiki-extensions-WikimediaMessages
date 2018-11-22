@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikimistusik"
+			"Wikimistusik",
+			"Axel xadolik"
 		]
 	},
 	"sitesupport": "Zobera",
-	"tooltip-n-sitesupport": "Va cin zobel !"
+	"tooltip-n-sitesupport": "Va cin zobel !",
+	"wikimedia-developers": "Vonesik"
 }

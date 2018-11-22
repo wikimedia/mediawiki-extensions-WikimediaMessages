@@ -1,5 +1,11 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Axel xadolik"
+		]
+	},
 	"wm-license-information-description": "Pimtara",
-	"wm-license-information-source": "Klita"
+	"wm-license-information-source": "Klita",
+	"wm-license-information-date": "Evla",
+	"wm-license-information-author": "Askisik"
 }
