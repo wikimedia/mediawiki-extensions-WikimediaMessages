@@ -247,7 +247,7 @@
 	"wikimedia-upload-nolicenses": "Opplasting av filer til denne wikien er slått av. [[commons:Special:UploadWizard|Last opp til Wikimedia Commons i stedet]].\n\nFor å kunne bruke denne spesialsiden for å laste opp til denne wikien må en administrator legge til ett eller flere lisensvalg på siden [[MediaWiki:Licenses]].\n\nBruk følgende format: <code>* Malnavn|Etikett</code>. Bruk en hvilken som helst tekst for å slå på opplasting uten lisensvalg.",
 	"wikimediashoplink-linktext": "Wikimedia-butikken",
 	"wikimediashoplink-link-tooltip": "Besøk Wikipedia-butikken",
-	"interlanguage-link-mul": "Flere språk",
+	"interlanguage-link-mul": "Flerspråklig utgave",
 	"interlanguage-link-sitename-mul": "Flerspråklig {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, det frie leksikonet",
