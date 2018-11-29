@@ -5,12 +5,13 @@
 			"Tar Lócesilion",
 			"WTM",
 			"Woytecr",
-			"Railfail536"
+			"Railfail536",
+			"CiaPan"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nie widzisz obrazka? [[{{MediaWiki:createacct-captcha-help-url}}|Złóż wniosek o konto]]",
-	"wikimedia-centralauth-uwbr-intro": "Ta strona zawiera spis użytkowników tej wiki, których nazwy zostaną zmienione z powodu [[m:Single User Login finalisation announcement|finalizacji konta uniwersalnego]]. Szersze wyjaśnienie tego tematu jest przedstawione na stronie [[m:Help:Unified login|konto uniwersalne]]. Użytkownicy mogą zażądać zmiany swojej nazwy poprzez złożenie wniosku na stronie [[Special:GlobalRenameRequest]].",
+	"wikimedia-centralauth-uwbr-intro": "Ta strona zawiera spis użytkowników tej wiki, których nazwy zostaną zmienione z powodu [[m:Single User Login finalisation announcement|finalizacji konta uniwersalnego]]. Szersze wyjaśnienie tego tematu jest przedstawione na stronie [[m:Help:Unified login|konto uniwersalne]]. Użytkownicy mogą w każdej chwili zażądać zmiany swojej nazwy poprzez złożenie wniosku na stronie [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Nazwa_użytkownika",
 	"wikimedia-delete-toobig": "Ta strona ma bardzo długą historię edycji – ponad $1 {{PLURAL:$1|zmianę|zmiany|zmian}}.\nUsuwanie stron z długimi historiami edycji zostało ograniczone ze względu na możliwość zakłócenia pracy {{GRAMMAR:D.lp|{{SITENAME}}}}.\nSkontaktuj się ze [[m:Special:MyLanguage/Stewards|stewardami]] na stronie [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]], aby poprosić o usunięcie tej strony.",

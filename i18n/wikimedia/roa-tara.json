@@ -178,6 +178,7 @@
 	"group-wmf-researcher": "Recercature de WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|Recercatore de WMF}}",
 	"group-wmf-supportsafety": "Suppore e securezze WMF",
+	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Supporte e Securezze}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Supporte e Securezze",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Ausate da 'u filtre de le abbuse globbale 110.",
@@ -187,6 +188,8 @@
 	"wikimedia-copyright": "'U teste ète disponibbile sotte 'a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licenze Creative Commons Attribution/Condivide a 'u stesse mode</a>;\ntermine addizionale pò essere applicate.\n'Ndruche <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Termine de Ause</a> pe cchiù 'mbormaziune.",
 	"wikidata-copyright": "Tutte le date strutturate da 'u namespace prengepàle e probbietà sue jè disponibbile sotte a <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Licenze Creative Commons CC0</a>;\nteste jndr'à otre namespace jè disponibbile sotte a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Licenze de Creative Commons Attribution-ShareAlike</a>;\ntermine addizionale ponne essere applicate.\n'Ndruche <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">le Termine d'ause</a> pe dettaglie.",
 	"wikimedia-copyrightwarning": "Reggistranne le cangiaminde, tu si d'accorde cu le [https://foundation.wikimedia.org/wiki/Terms_of_Use condizziune d'ause] e irrevocabbilmende accette de relassà 'u condrebbute tune sotte le licenze [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Licenze CC BY-SA 3.0] e [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nTu accette ca 'nu ipercollegamende o URL jè sufficiende pe l'attribbuzione sotte 'a Licenze Creative Commons.",
+	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.it\" title=\"Riassunde d'a licenze Creative Commons Attribbuzione-Condivide a 'u stesse mode\" target=\"_blank\">CC BY-SA 3.0</a> e <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Teste d'a licenze GFDL\" target=\"_blank\">GFDL</a>",
+	"wikibase-page-schema-author-name": "Condrebbuture a le pruggette de Uicchimedie",
 	"wikibase-statementsection-identifiers": "Idendificature",
 	"wikibase-statementsection-constraints": "Vingole",
 	"wikibase-sitelinks-wikibooks": "Uicchilibbre",
@@ -239,9 +242,12 @@
 	"restriction-level-templateeditor": "template protette",
 	"protect-level-templateeditor": "Consendite sulamende a le auture de template e le amministrature",
 	"right-extendedconfirmed": "Cange le pàggene cu restriziune",
+	"restriction-level-editeditorprotected": "cangiatore protette",
 	"eri-rcfilters-tour-help": "'Mbare de cchiù",
+	"eri-rcfilters-tour-intro-welcome-button": "Appostem pigghiale",
 	"eri-rcfilters-tour-highlight-title": "Codece d'u culore de le resultate tune",
 	"eri-rcfilters-tour-highlight-button": "Apposte, agghie capite",
 	"wikimedia-centralauth-contribs-locked": "Stu cunde jè bloccate globbalmende.\n'Ndruche [[m:Special:CentralAuth/$1|dettaglie d'u cunde globbale]] pe cchiù 'mbormaziune.",
-	"securepoll-dblist-securepollglobal": "Elezione"
+	"securepoll-dblist-securepollglobal": "Elezione",
+	"wikimedia-cookiestatement": "Dichiarazione sus a le cookie"
 }

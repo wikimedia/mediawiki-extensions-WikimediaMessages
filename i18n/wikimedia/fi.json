@@ -23,7 +23,8 @@
 			"Pyscowicz",
 			"Zache",
 			"4shadoww",
-			"01miki10"
+			"01miki10",
+			"Valtlait"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -229,9 +230,9 @@
 	"restriction-level-superprotect": "super-suojaus",
 	"right-templateeditor": "Muokkaa suojattuja mallineita",
 	"right-extendedconfirmed": "Muokata rajoitettuja sivuja",
-	"right-editeditorprotected": "Muokata sivuja, jotka on suojattu tasolle \"{{int:protect-level-editeditorprotected}}\"",
+	"right-editeditorprotected": "Muokata sivuja, jotka on suojattu tasolle ”{{int:protect-level-editeditorprotected}}”",
 	"protect-level-editeditorprotected": "Salli vain seulojat",
-	"right-editextendedsemiprotected": "Muokata sivuja, jotka on suojattu tasolle \"{{int:protect-level-editextendedsemiprotected}}\"",
+	"right-editextendedsemiprotected": "Muokata sivuja, jotka on suojattu tasolle ”{{int:protect-level-editextendedsemiprotected}}”",
 	"protect-level-editextendedsemiprotected": "Salli vain autopatrollerit",
 	"eri-rcfilters-tour-help": "Lue lisää",
 	"eri-rcfilters-tour-highlight-title": "Väritä tuloksesi",

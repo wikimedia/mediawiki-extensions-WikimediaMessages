@@ -3,7 +3,8 @@
 		"authors": [
 			"Nike",
 			"Pyscowicz",
-			"01miki10"
+			"01miki10",
+			"Valtlait"
 		]
 	},
 	"contactpage-title-requestlicense": "Tavaramerkin uudelleenkäyttölomake",
@@ -48,6 +49,6 @@
 	"contactpage-license-abuse-location": "Väärinkäytön tapahtumapaikka (verkossa/verkon ulkopuolella)",
 	"contactpage-license-abuse-theircontact": "Tavaramerkkiä väärin käyttävän henkilön yhteystiedot (mikäli tiedossa)",
 	"contactpage-license-abuse-yourcontact": "Yhteystietosi (jos saamme ottaa yhteyttä sinuun)",
-	"contactpage-affcom-user-group-logo-wm-logo": "\"Jos haluat käyttää \"Wikimedia logoa\", voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].''",
+	"contactpage-affcom-user-group-logo-wm-logo": "”Jos haluat käyttää '''Wikimedia logoa''', voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].”",
 	"contactpage-title-stewards": "Ota yhteyttä ylivalvojiin"
 }

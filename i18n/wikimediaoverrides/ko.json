@@ -7,10 +7,11 @@
 			"메이",
 			"아라",
 			"Nuevo Paso",
-			"Revi"
+			"Revi",
+			"Garam"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(선택 방법을 알려주세요)]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(고르는 방법 보기)]]",
 	"wikimedia-createacct-imgcaptcha-help": "그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]",
 	"wikimedia-centralauth-uwbr-intro": "이 문서는 [[m:Single User Login finalisation announcement|계정 통합 마무리 조치]]로 인해 계정 이름이 바뀔 이 위키 내의 등록된 사용자를 보여줍니다. [[m:Help:Unified login|통합 로그인]]에서 더 많은 정보를 찾을 수 있습니다. 사용자들은 [[Special:GlobalRenameRequest|특수:전역이름바꾸기요청]]을 이용하여 언제든지 이름 바꾸기를 요청할 수 있습니다.",
 	"wikimedia-centralauth-uwbr-registration-nodate": "2006년 이전",
