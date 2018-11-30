@@ -249,5 +249,7 @@
 	"eri-rcfilters-tour-highlight-button": "Apposte, agghie capite",
 	"wikimedia-centralauth-contribs-locked": "Stu cunde jè bloccate globbalmende.\n'Ndruche [[m:Special:CentralAuth/$1|dettaglie d'u cunde globbale]] pe cchiù 'mbormaziune.",
 	"securepoll-dblist-securepollglobal": "Elezione",
-	"wikimedia-cookiestatement": "Dichiarazione sus a le cookie"
+	"wikimedia-cookiestatement": "Dichiarazione sus a le cookie",
+	"ext-quicksurveys-performance-internal-survey-question": "Sta pàgene ha state carecate velocemende?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pe cchiù 'mbormaziune, 'ndruche 'a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement dichiarazione sus 'a privacy] jndr'à le sondagge."
 }
