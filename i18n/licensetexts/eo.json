@@ -13,11 +13,12 @@
 			"Ziko",
 			"Robin van der Vliet",
 			"KuboF",
-			"Renardo"
+			"Renardo",
+			"YvesNevelsteen"
 		]
 	},
-	"wm-license-attribution-with-author-text": "La posedanto de la aŭtorrajto por ĉi tiu dosiero, $1, permesas al iu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
-	"wm-license-attribution-without-author-text": "La posedanto de la aŭtorrajto de ĉi tiu dosiero permesas al iu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
+	"wm-license-attribution-with-author-text": "La posedanto de la aŭtorrajto por ĉi tiu dosiero, $1, permesas al ĉiu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
+	"wm-license-attribution-without-author-text": "La posedanto de la aŭtorrajto de ĉi tiu dosiero permesas al ĉiu ajn utiligi ĝin '''por ia ajn kialo, se''' la posedanto de la aŭtorrajto estas bone atributita. Redistribuado, deriva verkado, komerca uzado, kaj ĉiuj aliaj uzoj estas permesitaj.",
 	"wm-license-artwork-artist": "Artisto/Kreinto",
 	"wm-license-artwork-title": "Titolo",
 	"wm-license-artwork-medium": "Medio",
@@ -98,9 +99,10 @@
 	"wm-license-pd-usgov-military-navy-text": "Ĉi tiu dosiero estas verko de maristo aŭ laboranto de la [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|usona mararmeo]] dum ties oficialaj laboroj. Pro ĝi estas [[{{int:wm-license-pd-usgov-work-wiki-link}}|verko]] de la [[{{int:wm-license-pd-usgov-wiki-link}}|usona registaro]], la dosiero estas en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''.",
 	"wm-license-pd-usgov-noaa-text": "Ĉi tiu dosiero estas verko de laboranto de la [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Usona Oceana kaj Atmosfera Administracio (NOAA)]] dum ties oficialaj laboroj. Pro ĝi estas [[{{int:wm-license-pd-usgov-work-wiki-link}}|verko]] de la [[{{int:wm-license-pd-usgov-wiki-link}}|usona registaro]], la dosiero estas en la '''[[{{int:wm-license-pd-wiki-link}}|publika domajno]]'''.",
 	"wm-license-pd-wiki-link": "w:eo:Publika havaĵo",
+	"wm-license-self": "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas ĝin laŭ la {{PLURAL:$1|jena permesilo|jenaj permesiloj}}:{{PLURAL:$1|}}",
 	"wm-license-self-one-license": "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas tiun laŭ la jena permesilo:",
 	"wm-license-self-one-license-with-author": "$1, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas tiun laŭ la jena permesilo:",
-	"wm-license-self-multiple-licenses": "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas tiun laŭ la jenaj permesiloj:",
+	"wm-license-self-multiple-licenses": "Mi, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas ĝin laŭ la jenaj permesiloj:",
 	"wm-license-self-multiple-licenses-with-author": "$1, la posedanto de la aŭtorrajto por ĉi tiu verko, ĉi-maniere publikigas tiun laŭ la jenaj permesiloj:",
 	"wm-license-self-multiple-licenses-select": "Vi povas elekti la permesilon preferatan."
 }
