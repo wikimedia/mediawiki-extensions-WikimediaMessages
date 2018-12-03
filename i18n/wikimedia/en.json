@@ -290,6 +290,8 @@
 	"right-editextendedsemiprotected": "Edit pages protected as \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Allow only autopatrollers",
 	"restriction-level-editextendedsemiprotected": "autopatroller protected",
+	"protect-level-centralnotice-admin": "Allow only central notice administrators",
+	"restriction-level-centralnotice-admin": "central notice administrator protected",
 	"eri-rcfilters-tour-intro-welcome-title": "Welcome to improved Recent Changes filtering",
 	"eri-rcfilters-tour-intro-welcome-description": "Review edits more efficiently using new filters, the ability to save sets of filters, user-defined highlighting and the power of machine learning. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Review edits more efficiently using new filters, the ability to save sets of filters, user-defined highlighting and other improvements. $1",
