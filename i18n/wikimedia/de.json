@@ -291,6 +291,8 @@
 	"right-editextendedsemiprotected": "Seiten bearbeiten, die als „{{int:protect-level-editextendedsemiprotected}}“ geschützt sind.",
 	"protect-level-editextendedsemiprotected": "Nur automatischen Kontrolleuren erlauben",
 	"restriction-level-editextendedsemiprotected": "geschützt (nur automatische Kontrolleure)",
+	"protect-level-centralnotice-admin": "Nur Zentrale-Meldungen-Administratoren erlauben",
+	"restriction-level-centralnotice-admin": "für Zentrale-Meldungen-Administratoren geschützt",
 	"eri-rcfilters-tour-intro-welcome-title": "Willkommen bei der verbesserten Filterung der Letzten Änderungen",
 	"eri-rcfilters-tour-intro-welcome-description": "Überprüfe Bearbeitungen effizienter mithilfe neuer Filter, der Möglichkeit zur Speicherung von Filtersätzen, benutzerdefinierten Hervorhebungen und der Kraft des Maschinenlernens. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Überprüfe Bearbeitungen effizienter mithilfe neuer Filter, der Möglichkeit zur Speicherung von Filtersätzen, benutzerdefinierten Hervorhebungen und anderer Verbesserungen. $1",
