@@ -3,7 +3,8 @@
 		"authors": [
 			"Milicevic01",
 			"Rancher",
-			"Михајло Анђелковић"
+			"Михајло Анђелковић",
+			"BadDog"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sr:Кријејтив комонс",
@@ -212,7 +213,7 @@
 	"wm-license-cc-free-to-remix-text": "да прерадите дело",
 	"wm-license-cc-conditions": "Под следећим условима:",
 	"wm-license-cc-conditions-attribution-header": "ауторство",
-	"wm-license-cc-conditions-attribution-text": "Морате да наведете име изворног аутора на начин који је одређен од стране изворног аутора или даваоца лиценце (али не тако што ћете сугерисати да вас подржава или одобрава ваше коришћење дела).",
+	"wm-license-cc-conditions-attribution-text": "Морате да дате одговарајуће заслуге, обезбедите везу ка лиценци и назначите да ли су измене направљене. Можете то урадити на било који разуман манир, али не на начин који предлаже да лиценцатор одобрава вас или ваше коришћење.",
 	"wm-license-cc-conditions-share_alike-header": "делити под истим условима",
 	"wm-license-cc-conditions-share_alike-text": "Ако измените, преобразите или доградите ово дело, морате га објавити само под истом или сличном лиценцом.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.sr",

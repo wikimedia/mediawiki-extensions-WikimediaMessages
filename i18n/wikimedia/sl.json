@@ -6,7 +6,8 @@
 			"Nemo bis",
 			"Smihael",
 			"Yerpo",
-			"Janezdrilc"
+			"Janezdrilc",
+			"Upwinxp"
 		]
 	},
 	"wikimediamessages-desc": "Posebna sporočila Wikimedie",
@@ -110,7 +111,7 @@
 	"shared-repo-name-shared": "Wikimedijina Zbirka",
 	"wikimedia-copyright": "Besedilo je na razpolago pod <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licenco Creative Commons\nPriznanje avtorstva-Deljenje pod enakimi pogoji 3.0</a>; veljajo lahko tudi dodatni pogoji. Podrobnosti so razložene na strani <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Pogoji uporabe</a>.",
 	"wikidata-copyright": "Vsi strukturirani podatki iz glavnega imenskega prostora, imenskega prostora lastnosti in leksemov so na razpolago pod dovoljenjem <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Opredelitev dovoljenja Creative Commons CC0\">Creative Commons CC0</a>; besedilo v drugih imenskih prostorih je na razpolago pod dovoljenjem <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"Opredelitev dovoljenja Creative Commons Attribution-Share-Alike\">Creative Commons Attribution-ShareAlike</a>; veljajo lahko tudi drugi pogoji. Z uporabo te strani se strinjate s <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Pogoji uporabe Fundacije Wikimedia\">Pogoji uporabe</a> in <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">Politiko zasebnosti</a>.",
-	"wikimedia-copyrightwarning": "S shranitvijo sprememb se strinjate s [https://foundation.wikimedia.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod dovoljenjema[https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].\nStrinjate se, da za priznanje avtorstva po dovoljenju Creative Commons zadostujeta povezava ali spletni naslov.",
+	"wikimedia-copyrightwarning": "S shranitvijo sprememb se strinjate s [https://foundation.wikimedia.org/wiki/Terms_of_Use pogoji uporabe] in z nepreklicno objavo svojega prispevka pod dovoljenjema [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] in [https://www.gnu.org/copyleft/fdl.html GFDL].\nStrinjate se, da za priznanje avtorstva po dovoljenju Creative Commons zadostujeta povezava ali spletni naslov.",
 	"wikibase-repo-name": "Wikipodatki",
 	"wikibase-statementsection-identifiers": "Identifikatorji",
 	"wikibase-statementsection-constraints": "Omejitve",

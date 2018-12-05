@@ -1,13 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ans"
+			"Ans",
+			"Nkrctp"
 		]
 	},
+	"contactpage-license-request-username": "ชื่อผู้ใช้",
+	"contactpage-license-request-use-other": "อื่น ๆ",
+	"contactpage-wikimedia-trademark-foundation": "มูลนิธิวิกิมีเดีย",
+	"contactpage-wikimedia-trademark-commons": "วิกิมีเดียคอมมอนส์",
 	"contactpage-wikimedia-trademark-mediawiki": "มีเดียวิกิ",
 	"contactpage-wikimedia-trademark-wikiquote": "วิกิคำคม",
 	"contactpage-wikimedia-trademark-wikibooks": "วิกิตำรา",
 	"contactpage-wikimedia-trademark-wikinews": "วิกิข่าว",
+	"contactpage-wikimedia-trademark-wikisource": "วิกิซอร์ซ",
+	"contactpage-wikimedia-trademark-wikispecies": "วิกิสปีชีส์",
 	"contactpage-wikimedia-trademark-wikiversity": "วิกิวิทยาลัย",
 	"contactpage-wikimedia-trademark-wiktionary": "วิกิพจนานุกรม",
 	"contactpage-wikimedia-trademark-wikivoyage": "วิกิท่องเที่ยว"
