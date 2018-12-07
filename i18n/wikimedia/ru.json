@@ -317,6 +317,7 @@
 	"protect-level-editextendedsemiprotected": "Разрешить только автопатрулируемым",
 	"restriction-level-editextendedsemiprotected": "защищено до автопатрулируемых",
 	"protect-level-centralnotice-admin": "Разрешить только администраторам централизованных уведомлений",
+	"restriction-level-centralnotice-admin": "защищено до администраторов централизованных уведомлений",
 	"eri-rcfilters-tour-intro-welcome-title": "Добро пожаловать в улучшенный режим фильтрации списка свежих правок",
 	"eri-rcfilters-tour-intro-welcome-description": "Проверяйте правки более эффективно с помощью новых фильтров, возможности сохранять наборы фильтров, пользовательской подсветке и машинного обучения. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Проверяйте правки более эффективно с помощью новых фильтров, возможности сохранять наборы фильтров, пользовательской подсветке и другим улучшениям. $1",
