@@ -197,6 +197,8 @@
 	"protect-level-editeditorprotected": "Допуштено само уредницима",
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Дозвољено само аутоматски патролираним корисницима",
+	"protect-level-centralnotice-admin": "Дозволи само администраторе централног огласа",
+	"restriction-level-centralnotice-admin": "заштићено од администратора централног огласа",
 	"eri-rcfilters-tour-intro-welcome-title": "Представљамо побољшано филтрирање скорашњих измена",
 	"eri-rcfilters-tour-intro-welcome-description": "Прегледајте измене ефикасније користећи нове филтере, могућност да сачувате скупове филтера, кориснички дефинисано истицање и моћ машинског учења. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Прегледајте измене ефикасније користећи нове филтере, са могућношћу да сачувате сетове филтера, кориснички дефинисаним истицањем и другим побољшањима. $1",

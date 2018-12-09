@@ -157,6 +157,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|διαχειριστής|διαχειρίστρια}} μετάφρασης",
 	"grouppage-translationadmin": "{{ns:project}}: διαχειριστές μετάφρασης",
 	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Χρησιμοποιείται από το καθολικό φίλτρο καταχρήσεων 110.",
 	"search-interwiki-custom": "wikt:Από Βικιλεξικό\nb:Από Βικιβιβλία\nn:Από Βικινέα\nq:Από Βικιφθέγματα\ns:Από Βικιθήκη\nv:Από Βικιεπιστήμιο\nvoy:Από Βικιταξίδια",
 	"wikimedia-copyright": "Όλα τα κείμενα είναι διαθέσιμα υπό την <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.el\">Άδεια Creative Commons Αναφορά Δημιουργού-Παρόμοια Διανομή 3.0</a>· μπορεί να ισχύουν πρόσθετοι όροι. Δείτε τους <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Όρους Χρήσης</a> για λεπτομέρειες.",
 	"wikidata-copyright": "Όλα τα δομημένα δεδομένα από τους χώρους ονομάτων κύριο, ιδιότητες και λεξήματα είναι διαθέσιμο υπό την <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Ορισμός της Creative Commons CC0 License\">Άδεια Creative Commons CC0</a>. Κείμενα σε άλλους χώρους ονομάτων είναι διαθέσιμα υπό την <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Creative Commons Attribution-ShareAlike License</a>. Μπορεί να εφαρμόζονται και άλλοι όροι. Δείτε τους <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Όροι Χρήσης του Wikimedia Foundation\">Όρους Χρήσης</a> για λεπτομέρειες.",

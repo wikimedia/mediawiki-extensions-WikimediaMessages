@@ -15,7 +15,8 @@
 			"Steenth",
 			"Simeondahl",
 			"SimmeD",
-			"Saederup92"
+			"Saederup92",
+			"Weblars"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke meddelelser",
@@ -191,5 +192,6 @@
 	"eri-rcfilters-tour-help": "Lær mere",
 	"eri-rcfilters-tour-intro-welcome-button": "OK, modtaget",
 	"eri-rcfilters-tour-highlight-button": "OK, modtaget",
-	"wikimedia-centralauth-contribs-locked": "Denne konto er globalt låst. \nSe [[Special:CentralAuth/$1|globale kontodetaljer]] for mere information."
+	"wikimedia-centralauth-contribs-locked": "Denne konto er globalt låst. \nSe [[Special:CentralAuth/$1|globale kontodetaljer]] for mere information.",
+	"wikimedia-cookiestatement": "Brug af cookies"
 }
