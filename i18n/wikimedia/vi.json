@@ -12,7 +12,8 @@
 			"Dinhxuanduyet",
 			"KhangND",
 			"Nguyên Lê",
-			"Prenn"
+			"Prenn",
+			"Leduyquang753"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -279,6 +280,7 @@
 	"right-editextendedsemiprotected": "Sửa đổi các trang có mức độ khóa “{{int:protect-level-editextendedsemiprotected}}”",
 	"protect-level-editextendedsemiprotected": "Chỉ cho phép những người tự duyệt",
 	"restriction-level-editextendedsemiprotected": "hạn chế cho người tự duyệt",
+	"protect-level-centralnotice-admin": "Chỉ cho phép các quản trị viên thông báo trung tâm",
 	"eri-rcfilters-tour-intro-welcome-title": "Giới thiệu các bộ lọc Thay đổi gần đây được cải thiện",
 	"eri-rcfilters-tour-intro-welcome-description": "Duyệt các sửa đổi một cách hiệu quả hơn dùng các bộ lọc mới, khả năng lưu các bộ lọc, tô màu cú pháp theo ý bạn, và khả năng học máy. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Duyệt các sửa đổi một cách hiệu quả hơn dùng các bộ lọc mới, khả năng lưu các bộ lọc, tô màu theo ý bạn, và các cải thiện khác. $1",
