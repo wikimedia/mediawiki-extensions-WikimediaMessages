@@ -17,7 +17,8 @@
 			"Macofe",
 			"Dgstranz",
 			"Indiralena",
-			"MarcoAurelio"
+			"MarcoAurelio",
+			"Jelou"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:es:Creative Commons",
@@ -206,15 +207,15 @@
 	"wm-license-cc-zero-text": "Este archivo está disponible bajo la licencia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Dedicación de Dominio Público [//creativecommons.org/publicdomain/zero/1.0/deed.es CC0 1.0 Universal].",
 	"wm-license-cc-zero-explanation": "La persona que ha asociado una obra a este documento lo dedica al [[{{int:wm-license-pd-wiki-link}}|dominio público]] mediante la cesión mundial de sus derechos bajo la ley de derechos de autor y todos los derechos legales adyacentes propios de dicha, en el ámbito permitido por ley. Puedes copiar, modificar, distribuir y reproducir el trabajo, incluso con objetivos comerciales, sin pedir aprobación del autor.",
 	"wm-license-cc-free": "Eres libre:",
-	"wm-license-cc-free-to-share-header": "para compartir",
-	"wm-license-cc-free-to-share-text": "para copiar, distribuir y transmitir el trabajo",
-	"wm-license-cc-free-to-remix-header": "para remezclar",
-	"wm-license-cc-free-to-remix-text": "para adaptar el trabajo",
+	"wm-license-cc-free-to-share-header": "de compartir",
+	"wm-license-cc-free-to-share-text": "de copiar, distribuir y transmitir el trabajo",
+	"wm-license-cc-free-to-remix-header": "de remezclar",
+	"wm-license-cc-free-to-remix-text": "de adaptar el trabajo",
 	"wm-license-cc-conditions": "Bajo las siguientes condiciones:",
 	"wm-license-cc-conditions-attribution-header": "atribución",
 	"wm-license-cc-conditions-attribution-text": "Debes atribuir el trabajo de la manera especificada por el autor o persona que lo haya licenciado (pero no de manera que sugiera que estas personas te respaldan o respaldan el uso que hagas del trabajo).",
 	"wm-license-cc-conditions-share_alike-header": "compartir similar",
-	"wm-license-cc-conditions-share_alike-text": "En caso de alterar, transformar o ampliar este trabajo, deberá distribuir el trabajo resultante sólo bajo la misma licencia o una similar.",
+	"wm-license-cc-conditions-share_alike-text": "En caso de alterar, transformar o ampliar este trabajo, deberás distribuir el trabajo resultante solo bajo la misma licencia o una similar.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.es",
 	"wm-license-cc-pd-mark-text": "Esta obra ha sido identificada como libre de las restricciones conocidas en virtud del derecho de autor, incluyendo todos los derechos conexos."
 }
