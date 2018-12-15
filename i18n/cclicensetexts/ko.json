@@ -10,7 +10,8 @@
 			"아라",
 			"Revi",
 			"Ykhwong",
-			"Nuevo Paso"
+			"Nuevo Paso",
+			"Garam"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ko:크리에이티브 커먼즈",
@@ -221,7 +222,7 @@
 	"wm-license-cc-conditions-attribution-header": "저작자표시",
 	"wm-license-cc-conditions-attribution-text": "저작자나 이용허락자가 정한 방법으로 저작물의 원저작자를 표시하여야 합니다 (그러나 원저작자가 이용자나 이용자의 이용을 보증하거나 추천한다는 의미로 표시해서는 안 됩니다).",
 	"wm-license-cc-conditions-share_alike-header": "동일조건변경허락",
-	"wm-license-cc-conditions-share_alike-text": "이 저작물을 이용하여 만든 2차적저작물에는 본 라이선스와 동일하거나 유사한 라이선스를 적용해야 합니다.",
+	"wm-license-cc-conditions-share_alike-text": "이 저작물을 이용하여 만든 2차적 저작물에는 본 라이선스와 동일하거나 유사한 라이선스를 적용해야 합니다.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.ko",
-	"wm-license-cc-pd-mark-text": "이 저작물은 저작권법상의 제한(관련된 모든 내용과 저작인접권을 포함)에서 자유로운 것으로 확인되었습니다."
+	"wm-license-cc-pd-mark-text": "이 저작물은 모든 저작인접권을 포함한 저작권법 하의 규제로부터 자유로운 것으로 확인되었습니다."
 }
