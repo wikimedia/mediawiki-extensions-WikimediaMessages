@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ильнар"
+			"Ильнар",
+			"Marat-avgust"
 		]
 	},
 	"project-localized-name-ruwiki": "Рус Википедиясе",
@@ -15,5 +16,6 @@
 	"project-localized-name-ttwiki": "Татар Википедиясе",
 	"project-localized-name-ttwikibooks": "Татар Викикитабы",
 	"project-localized-name-ttwikiquote": "Татар Викиөзеге",
-	"project-localized-name-ttwiktionary": "Татар Викисүзлеге"
+	"project-localized-name-ttwiktionary": "Татар Викисүзлеге",
+	"project-localized-name-uawikimedia": "Викимедия Украина"
 }

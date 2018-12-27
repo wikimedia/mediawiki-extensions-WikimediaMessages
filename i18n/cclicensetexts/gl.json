@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Banjo"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:gl:Creative Commons",
@@ -210,7 +211,7 @@
 	"wm-license-cc-free-to-remix-text": "adaptar a obra",
 	"wm-license-cc-conditions": "Baixo as seguintes condicións:",
 	"wm-license-cc-conditions-attribution-header": "recoñecemento",
-	"wm-license-cc-conditions-attribution-text": "Debe recoñecer a obra do xeito especificado pola persoa autora ou a persoa que lle puxo a licenza (pero non de maneira que suxira que vostede ten o apoio desa persoa ou que esa persoa apoia o uso que vostede fai da súa obra).",
+	"wm-license-cc-conditions-attribution-text": "Debe indicar a debida atribución de autoría, fornecer unha ligazón á licenza, e indicar se se realizaron cambios. Pode facer isto de calquera forma razonable, mais non nunha forma que indique que o dono da licencia apoia ou subscribe o seu uso da obra.",
 	"wm-license-cc-conditions-share_alike-header": "compartir igual",
 	"wm-license-cc-conditions-share_alike-text": "Se altera, transforma ou se basea nesta obra, poderá distribuír a obra resultante baixo a mesma licenza ou unha semellante a esta.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.gl",

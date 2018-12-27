@@ -4,6 +4,14 @@
 			"Axel xadolik"
 		]
 	},
+	"wm-license-cc-attribution": "Gaara",
+	"wm-license-cc-free": "Til nuyaf :",
+	"wm-license-cc-free-to-share-header": "Ta pakara",
 	"wm-license-cc-free-to-share-text": "ta ksudara va koyara isu walzilira azu deara",
-	"wm-license-cc-conditions-attribution-header": "gaara"
+	"wm-license-cc-free-to-remix-header": "Ta warzafa ponara",
+	"wm-license-cc-free-to-remix-text": "Ta zalera va grabom",
+	"wm-license-cc-conditions": "Nope valevef kredeem :",
+	"wm-license-cc-conditions-attribution-header": "gaara",
+	"wm-license-cc-conditions-share_alike-header": "Milinde paká",
+	"wm-license-cc-conditions-share_alike-text": "Ede va bat valdig betal ike artazukar ike voner, pune va nekis valdig wetce mila ok milafa sorta gu bat goxolel."
 }
