@@ -104,7 +104,7 @@
 	"wm-license-pd-usgov-noaa-text": "Tento soubor je dílem zaměstnance ''[[{{int:wm-license-pd-usgov-noaa-wiki-link}}|amerického Národního úřadu pro oceán a atmosféru]]'', které pořídil nebo vytvořil v rámci své pracovní náplně. Jako [[{{int:wm-license-pd-usgov-work-wiki-link}}|dílo]] [[{{int:wm-license-pd-usgov-wiki-link}}|federální vlády USA]] je tento soubor '''[[{{int:wm-license-pd-wiki-link}}|volným dílem]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:cs:Národní úřad pro oceán a atmosféru",
 	"wm-license-pd-wiki-link": "w:cs:Volné dílo",
-	"wm-license-self": "Já, držitel autorských práv k tomuto dílu, ho tímto zveřejňuji za podmínek {{PLURAL:$2|následující licence|následujících licencí}}:",
+	"wm-license-self": "Já, držitel autorských práv k tomuto dílu, ho tímto zveřejňuji za podmínek {{PLURAL:$1|následující licence|následujících licencí}}:",
 	"wm-license-self-with-author": "$1, držitel autorských práv k tomuto dílu, ho tímto zveřejňuje za podmínek {{PLURAL:$2|následující licence|následujících licencí}}:",
 	"wm-license-self-one-license": "Já, držitel autorských práv k tomuto dílu, ho tímto zveřejňuji za podmínek následující licence:",
 	"wm-license-self-one-license-with-author": "$1, držitel autorských práv k tomuto dílu, ho tímto zveřejňuje za podmínek následující licence:",

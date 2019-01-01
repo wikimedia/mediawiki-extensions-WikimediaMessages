@@ -16,7 +16,8 @@
 			"Simeondahl",
 			"SimmeD",
 			"Saederup92",
-			"Weblars"
+			"Weblars",
+			"Kranix"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke meddelelser",
@@ -31,6 +32,7 @@
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Prøv en anden artikel ►",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Rediger hele artiklen…",
 	"gettingstarted-cta-edit-page-wikipedia": "Rediger denne artikel",
+	"gettingstarted-cta-fix-pages-wikipedia": "Rediger en foreslået artikel",
 	"group-Image-reviewer": "Billedgranskere",
 	"group-Image-reviewer-member": "{{GENDER:$1|billedgransker}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Billedgranskere",
@@ -185,6 +187,8 @@
 	"wikimedia-torblock-blocked": "Din IP-adresse, <strong>$1</strong>, er automatisk identificeret som en Tor exit node.\nRedigering via Tor er blokeret for at forhindre misbrug.\nYderligere oplysninger og vejledning til legitime brugere, se den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]",
 	"grant-checkuser": "Adgang til checkuserdata",
+	"wikimediashoplink-linktext": "Wikipedia-butikken",
+	"wikimediashoplink-link-tooltip": "Besøg Wikipedia-butikken",
 	"interlanguage-link-mul": "Flere sprog",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, det frie leksikon",
