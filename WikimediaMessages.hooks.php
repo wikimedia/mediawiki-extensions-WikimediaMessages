@@ -259,7 +259,6 @@ class WikimediaMessagesHooks {
 	 * to prevent checking each subpage of MediaWiki:Licenses.
 	 *
 	 * @param BaseTemplate $tpl
-	 * @return bool
 	 * @throws ErrorPageError
 	 */
 	public static function onUploadFormInitial( $tpl ) {
