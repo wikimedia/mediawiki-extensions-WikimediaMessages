@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sovichet"
+			"Sovichet",
+			"គីមស៊្រុន"
 		]
 	},
 	"contactpage-subject-requestlicense": "ស្នើ​សុំ​សិទ្ធិ​ប្រើ​និក្ខិតសញ្ញា​វិគីមេឌា",
-	"contactpage-license-request-username": "ឈ្មោះ​អ្នក​ប្រើ *",
+	"contactpage-license-request-username": "អត្តនាម",
 	"contactpage-license-request-use-online": "លើ​បណ្ដាញ (​វេបសាយ, អ៊ីមែល)",
 	"contactpage-license-request-use-print": "បោះពុម្ព",
 	"contactpage-license-request-use-other": "ផ្សេងៗ",

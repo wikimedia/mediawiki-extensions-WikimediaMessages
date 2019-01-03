@@ -4,5 +4,6 @@
 			"គីមស៊្រុន"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ជំនួយអំពីរបៀបជ្រើសរើសអត្តនាម)]]",
 	"createacct-helpusername-url": "{{ns:Project}}:គោលការណ៍ស្ដីពីអត្តនាម"
 }
