@@ -195,6 +195,8 @@
 	"protect-level-editeditorprotected": "Разрешено само за редактори",
 	"right-editextendedsemiprotected": "Редактиране на страници защитени като „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Разрешено само за автопатрулирани потребители",
+	"protect-level-centralnotice-admin": "Разрешено само за администратори на централизираните съобщения",
+	"restriction-level-centralnotice-admin": "защитено от администратор на централизираните съобщения",
 	"eri-rcfilters-tour-highlight-title": "Отбележете резултатите с различни цветове",
 	"eri-rcfilters-tour-highlight-description": "Използвайте различни цветове за да различите визуално избраните свойства.<br/><br/>Можете да комбинирате оцветяването с филтри или да ги използвате независимо от тях.",
 	"eri-rcfilters-tour-highlight-button": "OK, разбрах",

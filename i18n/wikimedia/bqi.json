@@ -3,7 +3,8 @@
 		"authors": [
 			"Behdarvandyani",
 			"Mjbmr",
-			"Mogoeilor"
+			"Mogoeilor",
+			"Isevand"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -16,5 +17,6 @@
 	"wikibase-sitelinks-wikiquote": "ڤيکي پورس",
 	"wikibase-sitelinks-wikisource": "ڤيکي سرچشمأ",
 	"wikibase-sitelinks-wikivoyage": "ڤيکي سفر",
-	"wikimedia-developers": "گأپ کئلوٙن کارا"
+	"wikimedia-developers": "گأپ کئلوٙن کارا",
+	"wikimedia-globalblocking-ipblocked": "\n'''آی‌پی اؽسا [[m:Special:MyLanguage/Global blocks|زاْ گش ڤیکیپڌیا]] دٱسرٱسیس بورساْ آڤیڌاْ.'''\n\nبورسن دٱسرٱسی زاْ تاٛ $1 ڤاکل آڤیڌاْ ($2).\nدٱلیل داداْ آڤیڌاْ «$3» هؽڌا\n\n* سٱرگریڌن بورسناْ دٱسرٱسی: $4\n* اْنقزای بورسناْ دٱسرٱسی: $5\n\nآی‌پی اؽسنی اؽسا $6 هؽڌا.\nلوتفٱ گشڌ جوزئیات ڤاروناٛ مؽن دٱرخاسؽ کاْ اْکونین ڤارین\n\nٱر ڌونین کاْ بورسناْ دٱس اؽسا پلارنیڌناْ، اؽسا تٱرین ڌونائیٱل ڤاروڤٱنی ۉ رٱئنمونی یٱل ناْ مؽن ڌیارگٱ سراسری [[m:Special:MyLanguage/No open proxies|پراکسیِ ڤتاک مٱمنوع]] ڤائین.\nٱرچونوݩ نؽڌا، سی هوممنشڌی لوتفٱن [[m:Steward requests/Global|درخواست دوکرٱتڤینی مؽن فراویکی کلٛ کونین]]."
 }
