@@ -3,7 +3,8 @@
 		"authors": [
 			"Iwan Novirion",
 			"Nemo bis",
-			"Naval Scene"
+			"Naval Scene",
+			"Ardzun"
 		]
 	},
 	"wikimediamessages-desc": "Pasan spesifik Wikimedia",
@@ -126,9 +127,15 @@
 	"wikimedia-copyright": "Teks tasadio jo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; katantuan tambahan mungkin balaku. Caliak <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a>Katantuan Panggunoan</a> untuak labiah jaleh.",
 	"wikidata-copyright": "Sado struktur data dari ruangnamo utamo jo properti tasadio jo <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.id\" title=\"Definisi dari lisensi Creative Commons CC-nol\">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;\nteks dalam ruangnamo lain tasadio jo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\" title=\"Definisi dari lisensi Creative Commons Attribusi-BabagiSarupo\">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; \nkatantuan tambahan mungkin balaku. \nCaliak <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_use-Summary/min\">Katantuan Panggunoan</a> untuak labiah jaleh.",
 	"wikimedia-copyrightwarning": "Jo manakan tombol \"{{int:savearticle}}\", Sanak satuju pado [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use-Summary/min Katantuan Panggunoan], dan malapeh jariah Sanak jo [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0 Lisensi Atribusi-BabagiSarupo Creative Commons] jo [https://id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Sanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikibarito",
+	"wikibase-sitelinks-wikiquote": "Wikikutipan",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
+	"wikibase-sitelinks-wikivoyage": "Wikiraun",
 	"cant-delete-main-page": "Sanak indak dapek mangahapuih atau mamindahan palanta.",
 	"wikimedia-translationnotifications-signup-legal": "Jo mangagiah informasi ko ka Yayasan Wikimedia, Sanak satuju baso kami dapek manghubuangi Sanak takaik tajamahan atau topik lain nan bahubuangan jo garakan Wikimedia nan kami anggap paralu untuak Sanak katahui. Sanak satuju sado data Sanak disimpan di Amerika Sarikaik dan mamatuhi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy kabijakan privasi] kami.",
 	"upload-more-photos-of-this-monument": "Muek labiah banyak foto dari monumen ko",
 	"createacct-captcha-help-url": "{{ns:Project}}:Mohon buekkan akun",
-	"wikimedia-developers": "Pangambang"
+	"wikimedia-developers": "Pangambang",
+	"wikimedia-globalblocking-ipblocked": "'''Alamaik IP Sanak alah [[m:Special:MyLanguage/Global blocks|diblokir pado sado wiki]].'''\n\nPamblokiran dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n*Mulo di blokir: $4\n*Kadaluarsa blokir: $5\n\nAlamaik IP Sanak kini adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak diblokir marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabuko]].\nKok tido, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|diblokir pado sado wiki]].'''\n\nPamblokiran dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo di blokir: $4\n* Kadaluwarsa blokir: $5\n\nAlamaik proksi nan diblokir adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak diblokir marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabuko]].\nKok tido, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]]."
 }

@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Iwan Novirion"
+			"Iwan Novirion",
+			"Ardzun",
+			"Naval Scene"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:en:Creative Commons",
@@ -35,6 +37,7 @@
 	"wm-license-cc-by-2.5-text": "Berkas ko balinsensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/deed.id Atribusi 2.5 Generik]",
 	"wm-license-cc-by-2.5-ar-text": "Berkas ko balinsensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/ar/deed.id Atribusi 2.5 Argentina]",
 	"wm-license-cc-by-2.5-au-text": "Berkas ko balinsensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/au/deed.id Atribusi 2.5 Australia]",
+	"wm-license-cc-by-sa-3.0-text": "Berkas iko di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.id Atribusi-BerbagiSerupa 3.0 Tanpa Adaptasi]",
 	"wm-license-cc-free": "Sanak bebas:",
 	"wm-license-cc-free-to-share-header": "untuak babagi",
 	"wm-license-cc-free-to-share-text": "untuak manyalin, manyebarkan, jo mangirimkan karya",
@@ -42,7 +45,8 @@
 	"wm-license-cc-free-to-remix-text": "untuak mangadaptasi karya",
 	"wm-license-cc-conditions": "Di bawah kondisi barikuik:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
-	"wm-license-cc-conditions-attribution-text": "Sanak musti mangagiah atribusi karya ko jo caro nan ditentuan dek pambuek atau pemegang lisensi (tapi indak jo caro apo pun nan mangesankan Sanak dipaso atau panggunoan Sanak pado karya tasabuik).",
+	"wm-license-cc-conditions-attribution-text": "Sanak musti maagiah atribusi karya ko jo caro nan ditantuan dek pambuek atau pamacik lisensi (tapi indak jo caro apo pun nan mancaminkan Sanak dipaso atau panggunoan Sanak pado karya tasabuik).",
 	"wm-license-cc-conditions-share_alike-header": "babagi sarupo",
+	"wm-license-cc-conditions-share_alike-text": "Kok Sanak mangubah, mangganti, atau mambuek turunan dari materi iko, Sanak musti manyebalawehkan kontribusi Sanak di bawah '''lisensi nan samo''' jo materi asali.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.en"
 }

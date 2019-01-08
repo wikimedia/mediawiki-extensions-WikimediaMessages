@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ans"
+			"Ans",
+			"B20180"
 		]
 	},
 	"project-localized-name-enwiki": "วิกิพีเดียภาษาอังกฤษ",
+	"project-localized-name-hywwiki": "วิกิพีเดียภาษาอาร์มีเนียตะวันตก",
 	"project-localized-name-mediawikiwiki": "มีเดียวิกิ",
 	"project-localized-name-wikidatawiki": "วิกิสนเทศ"
 }
