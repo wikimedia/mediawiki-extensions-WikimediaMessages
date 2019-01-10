@@ -59,7 +59,7 @@
 	"group-extended-uploader-member": "{{GENDER:$1|завантажувач з розширеними правами|завантажувачка з розширеними правами}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Завантажувачі з розширеними правами",
 	"group-otrs-member": "Члени OTRS",
-	"group-otrs-member-member": "член OTRS",
+	"group-otrs-member-member": "{{GENDER:$1|член OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Члени OTRS",
 	"group-abusefilter": "Редактори фільтра зловживань",
 	"group-abusefilter-member": "{{GENDER:$1|редактор фільтра редагувань|редакторка фільтра редагувань}}",
@@ -231,8 +231,8 @@
 	"grouppage-wmf-ops-monitoring": "mw:Wikimedia Technical Operations",
 	"tag-emoji": "Смайлики",
 	"tag-emoji-description": "Використовується глобальним фільтром зловживань 110.",
-	"tag-AWB": "[[:w:uk:Вікіпедія:AutoWikiBrowser|Переглядач «Автовікі»]]",
-	"tag-AWB-description": "Редагування, зроблені з переглядачем [[:w:uk:Вікіпедія:AutoWikiBrowser|«Автовікі»]]",
+	"tag-AWB": "[https://uk.wikipedia.org/wiki/Вікіпедія:AutoWikiBrowser AutoWikiBrowser]",
+	"tag-AWB-description": "Редагування, зроблені за допомогою [https://uk.wikipedia.org/wiki/Вікіпедія:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:З Вікісловника\nb:З Вікіпідручника\nn:З Вікіновин\nq:З Вікіцитат\ns:З Вікіджерел\nv:З Віківерситету\nvoy:З Вікімандрів",
 	"shared-repo-name-shared": "Вікісховище",
 	"wikimedia-copyright": "Текст доступний на умовах ліцензії <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nтакож можуть діяти додаткові умови.\nДетальніше див. <a href=\"https://foundation.wikimedia.org/wiki/Умови_використання\">Умови використання</a>.",
@@ -311,6 +311,8 @@
 	"right-editextendedsemiprotected": "редагування сторінок з рівнем захисту «{{int:protect-level-editextendedsemiprotected}}»",
 	"protect-level-editextendedsemiprotected": "Дозволити лише автопатрульним",
 	"restriction-level-editextendedsemiprotected": "захищено до рівня автопатрульних",
+	"protect-level-centralnotice-admin": "Дозволити лише адміністраторам централізованих оповіщень",
+	"restriction-level-centralnotice-admin": "захищено: дозволено лише адміністраторам централізованих оповіщень",
 	"eri-rcfilters-tour-intro-welcome-title": "Ласкаво просимо до покращеного фільтрування Нових редагувань",
 	"eri-rcfilters-tour-intro-welcome-description": "Перевіряйте редагування ефективніше, використовуючи нові фільтри, можливість зберігати набори фільтрів, користувацьку підсвітку та силу машинного навчання. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Перевіряйте редагування ефективніше, використовуючи нові фільтри, можливість зберігати набори фільтрів, налаштовні виділення та інші покращення. $1",
@@ -330,5 +332,6 @@
 	"securepoll-dblist-securepollglobal": "Вибори Правління",
 	"wikimedia-cookiestatement": "Куки",
 	"ext-quicksurveys-performance-internal-survey-question": "Чи достатньо швидко завантажилася ця сторінка?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement політиці приватності] цього опитування."
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement політиці приватності] цього опитування.",
+	"wikimedia-switchover-read-only": "Ви не можете редагувати на цей момент. Це через технічне обслуговування. Скопіюйте і збережіть свій текст та спробуйте ще раз через кілька хвилин."
 }
