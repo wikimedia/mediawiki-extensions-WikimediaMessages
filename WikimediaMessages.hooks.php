@@ -138,6 +138,10 @@ class WikimediaMessagesHooks {
 				case 'testwikidatawiki':
 					$msg = 'wikidata-copyright';
 					break;
+				case 'commonswiki':
+				case 'testcommonswiki':
+					$msg = 'wikimedia-commons-copyright';
+					break;
 				default:
 					$msg = 'wikimedia-copyright';
 			}
@@ -176,6 +180,12 @@ class WikimediaMessagesHooks {
 			case 'testwikidatawiki':
 				// Wikidata needs its own special message. See T112088
 				$msg = 'wikidata-copyright';
+				$link = ' '; // Set this to space to avoid confusion (empty string wont work)
+				break;
+			case 'commonswiki':
+			case 'testcommonswiki':
+				// Commons also needs its own special message.
+				$msg = 'wikimedia-commons-copyright';
 				$link = ' '; // Set this to space to avoid confusion (empty string wont work)
 				break;
 			default:
