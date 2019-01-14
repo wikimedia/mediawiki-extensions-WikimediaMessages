@@ -126,14 +126,20 @@ class WikimediaMessagesHooks {
 	public static function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
 		global $wgRightsUrl;
 
-		if ( $type !== 'history'
-			&& strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false
+		if (
+			$type !== 'history' &&
+			// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+			strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false
 		) {
 			global $wgDBname;
-			if ( in_array( $wgDBname, [ 'wikidatawiki', 'testwikidatawiki' ] ) ) {
-				$msg = 'wikidata-copyright';
-			} else {
-				$msg = 'wikimedia-copyright'; // the default;
+
+			switch ( $wgDBname ) {
+				case 'wikidatawiki':
+				case 'testwikidatawiki':
+					$msg = 'wikidata-copyright';
+					break;
+				default:
+					$msg = 'wikimedia-copyright';
 			}
 		}
 	}
@@ -148,6 +154,7 @@ class WikimediaMessagesHooks {
 	public static function onEditPageCopyrightWarning( $title, &$msg ) {
 		global $wgRightsUrl;
 
+		// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
 		if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			$msg = [ 'wikimedia-copyrightwarning' ];
 		}
@@ -164,17 +171,23 @@ class WikimediaMessagesHooks {
 	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg ) {
 		global $wgRightsUrl, $wgDBname;
 
-		if ( in_array( $wgDBname, [ 'wikidatawiki', 'testwikidatawiki' ] ) ) {
-			// Wikidata needs its own special message. See T112088
-			$msg = 'wikidata-copyright';
-			$link = ' '; // Set this to space to avoid confusion (empty string wont work)
-		} elseif ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
-			// We only display the dual licensing stack in the editor and talk interfaces
-			if ( $context === 'editor' || $context === 'talk' ) {
-				$link = wfMessage( 'wikimedia-mobile-license-links' )
-					->inContentLanguage()
-					->plain();
-			}
+		switch ( $wgDBname ) {
+			case 'wikidatawiki':
+			case 'testwikidatawiki':
+				// Wikidata needs its own special message. See T112088
+				$msg = 'wikidata-copyright';
+				$link = ' '; // Set this to space to avoid confusion (empty string wont work)
+				break;
+			default:
+				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+				if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+					// We only display the dual licensing stack in the editor and talk interfaces
+					if ( $context === 'editor' || $context === 'talk' ) {
+						$link = wfMessage( 'wikimedia-mobile-license-links' )
+							->inContentLanguage()
+							->plain();
+					}
+				}
 		}
 	}
 
