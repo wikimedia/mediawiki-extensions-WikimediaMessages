@@ -290,8 +290,6 @@
 	"right-editextendedsemiprotected": "Edit pages protected as \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Allow only autopatrollers",
 	"restriction-level-editextendedsemiprotected": "autopatroller protected",
-	"protect-level-centralnotice-admin": "Allow only central notice administrators",
-	"restriction-level-centralnotice-admin": "central notice administrator protected",
 	"right-banner-protect": "Protect translatable messages handled by the Translate extension and included in CentralNotice banners",
 	"protect-level-banner-protect": "Allow translation administrators and central notice administrators",
 	"restriction-level-banner-protect": "translation administrator and central notice administrator protected",

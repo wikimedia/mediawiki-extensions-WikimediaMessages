@@ -324,8 +324,6 @@
 	"right-editextendedsemiprotected": "{{doc-right|editextendedsemiprotected}}\nRefers to {{msg-mw|protect-level-editextendedsemiprotected}}\n\nSee also:\n* {{msg-mw|Right-editeditorprotected}}\n* {{msg-mw|Right-editextendedsemiprotected}}\n* {{msg-mw|Right-editprotected}}\n* {{msg-mw|Right-editsemiprotected}}",
 	"protect-level-editextendedsemiprotected": "Used as protect level. See also {{msg-mw|Group-autopatrolled}}, {{msg-mw|Group-autopatrolled-member}}",
 	"restriction-level-editextendedsemiprotected": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
-	"protect-level-centralnotice-admin": "Used as protect level. See also {{msg-mw|group-centralnoticeadmin}}, {{msg-mw|group-centralnoticeadmin-member}}",
-	"restriction-level-centralnotice-admin": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"right-banner-protect": "{{optional}}\n{{doc-right|banner-protect}}\nUsed by [[mw:Extension:CentralNotice]] to protect translatable messages used in CentralNotice banners.",
 	"protect-level-banner-protect": "{{optional}}\nDescription of a protection level, used in protection log entries and in form to set protection levels. See also {{msg-mw|group-centralnoticeadmin}}, {{msg-mw|group-centralnoticeadmin-member}}, {{msg-mw|group-translationadmin}} & {{msg-mw|group-translationadmin-member}}",
 	"restriction-level-banner-protect": "{{optional}}\nUsed on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level'.",
