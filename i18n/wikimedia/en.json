@@ -292,7 +292,7 @@
 	"restriction-level-editextendedsemiprotected": "autopatroller protected",
 	"protect-level-centralnotice-admin": "Allow only central notice administrators",
 	"restriction-level-centralnotice-admin": "central notice administrator protected",
-	"right-banner-protect": "Protect translatable messages handled by the translate extension and included in CentralNotice banners",
+	"right-banner-protect": "Protect translatable messages handled by the Translate extension and included in CentralNotice banners",
 	"protect-level-banner-protect": "Allow translation administrators and central notice administrators",
 	"restriction-level-banner-protect": "translation administrator and central notice administrator protected",
 	"eri-rcfilters-tour-intro-welcome-title": "Welcome to improved Recent Changes filtering",
