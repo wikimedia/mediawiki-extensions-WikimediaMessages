@@ -215,8 +215,6 @@
 	"protect-level-superprotect": "Επιτρέπεται μόνο superprotect χρήστες",
 	"restriction-level-superprotect": "υπερπροστασία",
 	"right-templateeditor": "Επεξεργασία προστατευμένων προτύπων",
-	"protect-level-centralnotice-admin": "Να επιτρέπεται μόνο στους χειριστές κεντρικής παρατήρησης",
-	"restriction-level-centralnotice-admin": "προστασία της κεντρικής παρατήρησης από τον χειριστή",
 	"eri-rcfilters-tour-intro-welcome-title": "Καλώς ήρθατε στο βελτιωμένο φιλτράρισμα των Πρόσφατων Αλλαγών",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Επιθεωρήστε επεξεργασίες περισσότερο παραγωγικά χρησιμοποιώντας νέα φίλτρα, τη δυνατότητα να αποθηκεύτετε ρυθμίσεις φίλτρων, επισήμανση καθορισμένη από το χρήστη, και άλλες βελτιώσεις. $1",
 	"eri-rcfilters-tour-help": "Μάθετε περισσότερα",

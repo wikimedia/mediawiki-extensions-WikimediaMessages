@@ -315,8 +315,6 @@
 	"right-editextendedsemiprotected": "编辑保护级别为“{{int:protect-level-editextendedsemiprotected}}”的页面",
 	"protect-level-editextendedsemiprotected": "只允许自动巡查员",
 	"restriction-level-editextendedsemiprotected": "自动巡查员保护",
-	"protect-level-centralnotice-admin": "只允许中央通知管理员",
-	"restriction-level-centralnotice-admin": "中央通知管理员保护",
 	"eri-rcfilters-tour-intro-welcome-title": "欢迎使用改进的最近更改过滤器",
 	"eri-rcfilters-tour-intro-welcome-description": "通过使用新的过滤器、保存过滤器集的能力、用户定义的高亮和机器学习的力量，更有效地复核编辑。$1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "通过使用新的过滤器、保存过滤器集的能力、用户定义的高亮和其他改进，更有效地复核编辑。$1",

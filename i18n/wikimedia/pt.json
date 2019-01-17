@@ -292,8 +292,6 @@
 	"right-editextendedsemiprotected": "Editar páginas protegidas com \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir apenas autopatrulhadores",
 	"restriction-level-editextendedsemiprotected": "proteção autopatrulhador",
-	"protect-level-centralnotice-admin": "Permitir só administradores de avisos centrais",
-	"restriction-level-centralnotice-admin": "protegido(a) por administrador de avisos centrais",
 	"eri-rcfilters-tour-intro-welcome-title": "Bem vindo(a) ao filtro melhorado das mudanças recentes",
 	"eri-rcfilters-tour-intro-welcome-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e o poder da aprendizagem automática. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e outras melhorias. $1",
