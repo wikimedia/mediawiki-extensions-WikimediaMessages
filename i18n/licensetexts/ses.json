@@ -4,8 +4,13 @@
 			"Songhay"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "War goo nda fonda ka haya bere, žemna nda/wala barmay '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', dumi 1.2 wala dumi tana kaŋ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] kokor k'a wallafi cire; bila nda dunbu šibarmanteyaŋ, bila nda moo jina daabirji nda bila nda hantum moo koro daabirji ga. Duɲetiira ga duwandi ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''takadda dunboo ra.",
 	"wm-license-information-description": "Šilbayyan",
 	"wm-license-information-source": "Aššil",
 	"wm-license-information-date": "Han",
-	"wm-license-information-author": "Hantumkaw"
+	"wm-license-information-author": "Hantumkaw",
+	"wm-license-information-permission": "Duɲeyan",
+	"wm-license-information-permission-reusing-text": "Goy nda tukoo woo koyne",
+	"wm-license-own-work": "Boro boŋ goy",
+	"wm-license-self-multiple-licenses-select": "War ma duɲetiira kaŋ war ga boon'a suuba."
 }
