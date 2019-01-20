@@ -15,7 +15,8 @@
 			"לערי ריינהארט",
 			"გიორგიმელა",
 			"SHOTHA",
-			"Otogi"
+			"Otogi",
+			"Mehman97"
 		]
 	},
 	"wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
@@ -83,8 +84,8 @@
 	"group-interface-editor-member": "{{GENDER:$1|ინტერფეისის რედაქტორი}}",
 	"grouppage-interface-editor": "{{ns:project}}:ინტერფეისის რედაქტორები",
 	"group-ipblock-exempt": "IP-ბლოკირებების გამონაკლისები",
-	"group-ipblock-exempt-member": "{{GENDER:$1|IP ბლოკირების გამონაკლისები}}",
-	"grouppage-ipblock-exempt": "{{ns:project}}:IP-დაბლოკვების გამონაკლისები",
+	"group-ipblock-exempt-member": "{{GENDER:$1|IP-ბლოკირებების გამონაკლისები}}",
+	"grouppage-ipblock-exempt": "{{ns:project}}:IP-ბლოკირებების გამონაკლისები",
 	"group-patroller": "პატრულები",
 	"group-patroller-member": "{{GENDER:$1|პატრული}}",
 	"grouppage-patroller": "{{ns:project}}:პატრული",
@@ -111,8 +112,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:ცენტრალური შეტყობინების ადმინისტრატორები",
 	"group-global-bot": "გლობალური ბოტები",
 	"group-global-bot-member": "{{GENDER:$1|გლობალური ბოტი}}",
-	"group-global-ipblock-exempt": "გლობალური IP ბლოკირების გამონაკლისები",
-	"group-global-ipblock-exempt-member": "{{GENDER:$1|გლობალური IP ბლოკირების გამონაკლისი}}",
+	"group-global-ipblock-exempt": "გლობალური IP-ბლოკირებების გამონაკლისები",
+	"group-global-ipblock-exempt-member": "{{GENDER:$1|გლობალური IP-ბლოკირებების გამონაკლისები}}",
 	"group-global-rollbacker": "გლობალური გამმაუქმებლები",
 	"group-global-rollbacker-member": "{{GENDER:$1|გლობალური გამაუქმებელი}}",
 	"group-global-sysop": "გლობალური ადმინისტრატორები",
