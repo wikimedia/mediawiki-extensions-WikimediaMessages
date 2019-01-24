@@ -347,5 +347,6 @@
 	"wikimedia-cookiestatement": "Text for link to Wikimedia Foundation statement about using [[:w:en:HTTP cookie|web cookies]] on foundationwiki for the footer on all WMF wikis.",
 	"ext-quicksurveys-performance-internal-survey-question": "The question for the perceived performance internal survey",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Points to the privacy statement specific to the perceived performance internal survey",
-	"wikimedia-switchover-read-only": "Text shown during read only period of database switchovers. Used in [https://www.mediawiki.org/wiki/Manual:$wgReadOnly $wgReadOnly]."
+	"wikimedia-switchover-read-only": "Text shown during read only period of database switchovers. Used in [https://www.mediawiki.org/wiki/Manual:$wgReadOnly $wgReadOnly].",
+	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation"
 }
