@@ -70,6 +70,9 @@
 	"group-eliminator": "Eliminátoři",
 	"group-eliminator-member": "{{GENDER:$1|eliminátor|eliminátorka|eliminátor}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminátoři",
+	"group-extendedconfirmed": "Rozšíření potvrzení uživatelé",
+	"group-extendedconfirmed-member": "\n{{GENDER:$1|rozšířený potvrzený uživatel}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}: Rozšíření potvrzení uživatelé",
 	"group-filemover": "Přesouvači souborů",
 	"group-filemover-member": "{{GENDER:$1|přesouvač|přesouvačka|přesouvač}} souborů",
 	"grouppage-filemover": "{{ns:project}}:Přesouvači souborů",
@@ -176,6 +179,7 @@
 	"wikidata-copyright": "Všechna strukturovaná data z hlavního jmenného prostoru a jmenného prostoru vlastností a jmenného prostoru lexémů jsou k dispozici pod licencí <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.cs\" title=\"Definice licence Creative Commons CC0\">Creative Commons CC0</a>; text v ostatních jmenných prostorech je k dispozici pod licencí <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.cs\" title=\"Definice licence Creative Commons Uveďte autora-Zachovejte licenci\">Creative Commons Uveďte autora-Zachovejte licenci</a>; mohou se vyskytnout další podmínky. Užíváním tohoto webu souhlasíte s <a href=\"//foundation.wikimedia.org/wiki/Terms_of_use/cs\">Podmínkami užití</a> a <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy/cs\">Zásadami o ochraně osobních údajů</a>.",
 	"wikimedia-copyrightwarning": "Uložením změn souhlasíte s&nbsp;[https://foundation.wikimedia.org/wiki/Terms_of_Use/cs Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC&nbsp;BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL].\nSouhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.cs\" title=\"Definice licence Creative Commons Uveďte autora-Zachovejte licenci\" target=\"_blank\">CC BY-SA 3.0</a> a <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definice GFDL\" target=\"_blank\">GFDL</a>",
+	"wikibase-page-schema-author-name": "Přispěvatelé projektů Wikimedia",
 	"wikibase-statementsection-identifiers": "Identifikátory",
 	"wikibase-statementsection-constraints": "Omezení",
 	"wikibase-sitelinks-wikibooks": "Wikiknihy",
@@ -231,6 +235,7 @@
 	"right-templateeditor": "Editace zamčených šablon",
 	"restriction-level-templateeditor": "zamčená šablona",
 	"protect-level-templateeditor": "Povolit jen správcům a editorům šablon",
+	"right-extendedconfirmed": "Rozšíření potvrzení uživatelé",
 	"right-editeditorprotected": "Editace stránek zamčených na „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Povolit jen editorům",
 	"restriction-level-editeditorprotected": "pouze editoři",
@@ -255,5 +260,7 @@
 	"securepoll-dblist-securepollglobal": "Volby do Správní rady",
 	"wikimedia-cookiestatement": "Prohlášení o&nbsp;cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Načetla se tato stránka dostatečně rychle?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Více informací najdete v [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement prohlášení o ochraně osobních údajů] k tomuto průzkumu."
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Více informací najdete v [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement prohlášení o ochraně osobních údajů] k tomuto průzkumu.",
+	"wikimedia-switchover-read-only": "V současné chvíli nemůžete editovat kvůli probíhající údržbě. Zkopírujte a uložte si svůj text a zkuste to znovu za několik minut.",
+	"passwordpolicies-policy-blockattacker": "Politika hesel bránící známým útokům, u které by zveřejnění podrobností ohrozilo tuto ochranu."
 }

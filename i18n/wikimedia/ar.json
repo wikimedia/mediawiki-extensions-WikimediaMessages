@@ -299,9 +299,6 @@
 	"right-editextendedsemiprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "السماح فقط للمراجعين تلقائيا",
 	"restriction-level-editextendedsemiprotected": "محمية على مستوى اللمراجعين تلقائيا",
-	"right-banner-protect": "حماية الرسائل القابلة للترجمة التي تتم معالجتها بواسطة ملحق الترجمة وتضمينها في لافتات الإشعار المركزي",
-	"protect-level-banner-protect": "اسمح لإداريي الترجمة وإداريي الإشعارات المركزية",
-	"restriction-level-banner-protect": "محمية على مستوى إداريي الترجمة وإداريي الإشعارات المركزية",
 	"eri-rcfilters-tour-intro-welcome-title": "مرحبا بك في ميزة تصفية أحدث التغييرات",
 	"eri-rcfilters-tour-intro-welcome-description": "مراجعة التعديلات بشكل أكثر فاعلية باستخدام فلاتر جديدة، والقدرة على حفظ مجموعات من الفلاتر، والتمييز المحدد من قِبل المستخدم، وقوة تعلم الآلة. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "مراجعة التعديلات بشكل أكثر فاعلية باستخدام مرشحات جديدة، والقدرة على حفظ مجموعات من المرشحات، وإبرازات محددة بواسطة المستخدم، وتحسينات أخرى: $1",
@@ -322,5 +319,6 @@
 	"wikimedia-cookiestatement": "بيان تعريف الارتباطات",
 	"ext-quicksurveys-performance-internal-survey-question": "هل تم تحميل هذه الصفحة بسرعة كافية؟",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "لمزيد من المعلومات; راجع [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement privacy بيان هذا الاستطلاع].",
-	"wikimedia-switchover-read-only": "لا يمكنك التعديل الآن. هذا بسبب الصيانة. انسخ واحفظ نصك وحاول مرة أخرى بعد عدة دقائق."
+	"wikimedia-switchover-read-only": "لا يمكنك التعديل الآن. هذا بسبب الصيانة. انسخ واحفظ نصك وحاول مرة أخرى بعد عدة دقائق.",
+	"passwordpolicies-policy-blockattacker": "سياسة كلمة المرور للتخفيف من الهجمات المعروفة حيث يؤدي الإفصاح عن التفاصيل إلى إعاقة التخفيف"
 }

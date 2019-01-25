@@ -236,7 +236,7 @@
 	"search-interwiki-custom": "wikt:來自維基詞典\nb:來自維基教科書\nn:來自維基新聞\nq:來自維基語錄\ns:來自維基文庫\nv:來自維基學院\nvoy:來自維基導遊",
 	"shared-repo-name-shared": "維基共享資源",
 	"wikimedia-copyright": "所有文字皆受 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\">創用 CC 姓名標示-相同方式分享授權條款</a> 保護，除此之外可能適用其他附加條款。\n請參考 <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">使用條款</a> 瞭解詳情。",
-	"wikidata-copyright": "所有來自主要、屬性、以及詞位命名空間的結構化資料受 <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"創用 CC0 授權條款定義\">創用 CC0 授權條款</a> 保護； 其他命名空間中的內容受 <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"創用 CC 姓名標示-相同方式分享授權條款定義\">創用 CC 姓名標示-相同方式分享授權條款</a>保護，並可能適用其他附加條款。依據使用此網站，代表您同意<a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\">使用條款</a>以及<a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">隱私方針</a>。",
+	"wikidata-copyright": "所有來自主要、屬性、以及詞位命名空間的結構化資料受 <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"創用 CC0 授權條款定義\">創用 CC0 授權條款</a> 保護； 其他命名空間中的內容受 <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"創用 CC 姓名標示-相同方式分享授權條款定義\">創用 CC 姓名標示-相同方式分享授權條款</a>保護，並可能適用其他附加條款。依據使用此網站，代表您同意<a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\">使用條款</a>以及<a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">隱私政策</a>。",
 	"wikimedia-copyrightwarning": "儲存變更代表您同意 [https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款] 並且同意不反悔以 [https://zh.wikipedia.org/wiki/Wikipedia:CC-BY-SA CC BY-SA 3.0 授權條款] 與 [https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] 發佈您的內容。\n\n你同意超連結或 URL 足以作為創用 CC 授權條款的姓名標示。",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW\" title=\"創用 CC 姓名標示-相同方式分享授權條款定義\" target=\"_blank\">CC BY-SA 3.0</a> 與 <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL 定義\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "維基數據",
@@ -309,9 +309,6 @@
 	"right-editextendedsemiprotected": "編輯保護層級為「{{int:protect-level-editextendedsemiprotected}}」的頁面",
 	"protect-level-editextendedsemiprotected": "只允許自動巡查員",
 	"restriction-level-editextendedsemiprotected": "自動巡查員保護",
-	"right-banner-protect": "保護可翻譯訊息由 Translate 擴充所處理，並包含在 CentralNotice 的橫幅裡",
-	"protect-level-banner-protect": "允許翻譯管理員與中央公告管理員",
-	"restriction-level-banner-protect": "翻譯管理員與中央公告管理員已保護",
 	"eri-rcfilters-tour-intro-welcome-title": "歡迎使用已改進的近期變更過濾器",
 	"eri-rcfilters-tour-intro-welcome-description": "透過使用新過濾器、儲存過濾器集的功能、用戶自訂突顯方式以及機械學習能力來更有效率地覆核編輯。$1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "透過使用新過濾器、儲存過濾器集的功能、用戶自訂突顯方式以及其它改進來更有效率地覆核編輯。$1",
@@ -332,5 +329,6 @@
 	"wikimedia-cookiestatement": "Cookie 聲明",
 	"ext-quicksurveys-performance-internal-survey-question": "此頁面的載入是否夠快？",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多資訊請參見此調查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隱私聲明]。",
-	"wikimedia-switchover-read-only": "因在維護的關係，您現在無法編輯。請複製儲存您的文字並在稍後幾分鐘後重試。"
+	"wikimedia-switchover-read-only": "因在維護的關係，您現在無法編輯。請複製儲存您的文字並在稍後幾分鐘後重試。",
+	"passwordpolicies-policy-blockattacker": "用於減緩已知攻擊的密碼方針其洩露出的細節會妨礙減緩"
 }

@@ -263,9 +263,6 @@
 	"right-editextendedsemiprotected": "Cange le pàggene prutette cu \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Conzendite sulamende a le auto condrollore",
 	"restriction-level-editextendedsemiprotected": "prutette da l'auto condrollore",
-	"right-banner-protect": "Prutegge le messàgge traducibbele gestite da l'estenzione de traduzione e 'ngluse jndr'à le strisciune de CentralNotice",
-	"protect-level-banner-protect": "Permesse a le amministrature de traduzione e a le amministrature de le notizie cendralizzate",
-	"restriction-level-banner-protect": "Conzendite sulamende a l'amministratore de traduzione e l'amministratore de notizie cendralizzate",
 	"eri-rcfilters-tour-intro-welcome-title": "Bovègne jndr'à versione migliorate de le Urteme cangiaminde",
 	"eri-rcfilters-tour-intro-welcome-description": "'Ndruche arrete le cangiaminde in mode cchiù efficiente ausanne le fltre nuève, 'a possibbilità de reggistrà 'nzieme de filtre, l'evidenziazzione definite da l'utende e 'a putenze de l'apprendimende automateche. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "'Ndruche arrete le cangiaminde in mode cchiù efficiente ausanne le fltre nuève, 'a possibbilità de reggistrà 'nzieme de filtre, l'evidenziazzione definite da l'utende e otre miglioraminde. $1",
@@ -286,5 +283,6 @@
 	"wikimedia-cookiestatement": "Dichiarazione sus a le cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Sta pàgene ha state carecate velocemende?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pe cchiù 'mbormaziune, 'ndruche 'a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement dichiarazione sus 'a privacy] jndr'à le sondagge.",
-	"wikimedia-switchover-read-only": "Non ge puè cangià mò. Quiste purcé stame in manutenzione. Copie e reggìstre 'u teste tune e pruève arrete 'mbrà quacche minute."
+	"wikimedia-switchover-read-only": "Non ge puè cangià mò. Quiste purcé stame in manutenzione. Copie e reggìstre 'u teste tune e pruève arrete 'mbrà quacche minute.",
+	"passwordpolicies-policy-blockattacker": "Regole d'a passuord pa reduzione de attacche canusciute addò 'u fatte de dicere le dettaglie pò 'mbedì 'a reduzione"
 }

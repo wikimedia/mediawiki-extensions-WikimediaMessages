@@ -12,7 +12,8 @@
 			"Pilarbini",
 			"Ans",
 			"Aefgh39622",
-			"Geonuch"
+			"Geonuch",
+			"B20180"
 		]
 	},
 	"wikimediamessages-desc": "ข้อความเฉพาะของวิกิมีเดีย",
@@ -113,5 +114,6 @@
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "ตรวจสอบการแก้ไขได้อย่างมีประสิทธิภาพยิ่งขึ้นโดยใช้ตัวกรองแบบใหม่ ซึ่งมีอินเตอร์เฟซที่ทรงพลังยิ่งขึ้น รวมถึงการเน้นสีที่ผู้ใช้กำหนดเองและการปรับปรุงอื่น ๆ $1",
 	"eri-rcfilters-tour-intro-preferences-description": "คุณสามารถปิดใช้งานหน้าเปลี่ยนแปลงล่าสุดรุ่นปรับปรุงได้ที่หน้าตั้งค่าผู้ใช้ของคุณ",
 	"eri-rcfilters-tour-highlight-button": "ตกลง เข้าใจแล้ว",
-	"wikimedia-cookiestatement": "นโยบายการใช้คุกกี้"
+	"wikimedia-cookiestatement": "นโยบายการใช้คุกกี้",
+	"passwordpolicies-policy-blockattacker": "นโยบายรหัสผ่านเพื่อลดการบุกที่ทราบว่ามีการเปิดเผยรายละเอียดจะเป็นอุปสรรคต่อการแบ่งเบา"
 }

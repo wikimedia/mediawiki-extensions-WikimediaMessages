@@ -291,9 +291,6 @@
 	"right-editextendedsemiprotected": "Seiten bearbeiten, die als „{{int:protect-level-editextendedsemiprotected}}“ geschützt sind.",
 	"protect-level-editextendedsemiprotected": "Nur automatischen Kontrolleuren erlauben",
 	"restriction-level-editextendedsemiprotected": "geschützt (nur automatische Kontrolleure)",
-	"right-banner-protect": "Übersetzbare Nachrichten schützen, die durch die Erweiterung „Translate“ verwaltet werden und in CentralNotice-Vorlagen enthalten sind.",
-	"protect-level-banner-protect": "Übersetzungsadministratoren und Zentrale-Meldungen-Administratoren erlauben",
-	"restriction-level-banner-protect": "nur Übersetzungsadministratoren und Zentrale-Meldungen-Administratoren",
 	"eri-rcfilters-tour-intro-welcome-title": "Willkommen bei der verbesserten Filterung der Letzten Änderungen",
 	"eri-rcfilters-tour-intro-welcome-description": "Überprüfe Bearbeitungen effizienter mithilfe neuer Filter, der Möglichkeit zur Speicherung von Filtersätzen, benutzerdefinierten Hervorhebungen und der Kraft des Maschinenlernens. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Überprüfe Bearbeitungen effizienter mithilfe neuer Filter, der Möglichkeit zur Speicherung von Filtersätzen, benutzerdefinierten Hervorhebungen und anderer Verbesserungen. $1",
@@ -314,5 +311,6 @@
 	"wikimedia-cookiestatement": "Stellungnahme zu Cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Wurde diese Seite schnell genug geladen?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement Datenschutzerklärung] für diese Umfrage.",
-	"wikimedia-switchover-read-only": "Du kannst aufgrund von Wartungsarbeiten derzeit nicht bearbeiten. Kopiere und speichere deinen Text und versuche es in einigen Minuten erneut."
+	"wikimedia-switchover-read-only": "Du kannst aufgrund von Wartungsarbeiten derzeit nicht bearbeiten. Kopiere und speichere deinen Text und versuche es in einigen Minuten erneut.",
+	"passwordpolicies-policy-blockattacker": "Die Passwortrichtlinie zur Milderung bekannter Angriffe, die Einzelheiten offen legen, würden die Milderung behindern."
 }

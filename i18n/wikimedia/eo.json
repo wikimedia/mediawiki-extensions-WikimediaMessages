@@ -40,7 +40,7 @@
 	"group-abusefilter-member": "{{GENDER:$1|redaktanto de misuzadaj filtriloj}}",
 	"grouppage-abusefilter": "{{ns:project}}:Redaktantoj de misuzadaj filtriloj",
 	"group-accountcreator": "Kreintoj de kontoj",
-	"group-accountcreator-member": "{{GENDER:$1|kreanto de kontoj}}",
+	"group-accountcreator-member": "{{GENDER:$1|kreero di konti}}",
 	"grouppage-accountcreator": "{{ns:project}}:Kreintoj de kontoj",
 	"group-arbcom": "Komitatano de arbitracia komitato",
 	"group-arbcom-member": "{{GENDER:$1|komitatano de arbitracia komitato}}",

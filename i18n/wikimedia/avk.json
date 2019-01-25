@@ -8,9 +8,12 @@
 	"sitesupport": "Zobera",
 	"tooltip-n-sitesupport": "Va cin zobel !!",
 	"wikimedia-copyright": "Krent zo rodadin wetce <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nloplekuaca rotid.\nPintatason, va <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Faverakredeem</a> wil !!",
+	"wikimedia-copyrightwarning": "Giwason va betareem, va [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] dotrakul, ise parmon dotrakul da rinaf webeks xuton gu [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] is [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] di zo rundar. Dotrakul da krentgluyaxa ok URL mane va garacka xuton gu \"Creative Commons license\" tadlecked.",
 	"wikibase-sitelinks-wikinews": "Wikiwarzot",
 	"wikibase-sitelinks-wikiquote": "Wikiozwaks",
 	"wikibase-sitelinks-wikisource": "Wikikrent",
 	"wikibase-sitelinks-wikivoyage": "Wikikoyara",
-	"wikimedia-developers": "Vonesik"
+	"wikimedia-developers": "Vonesik",
+	"wikimedia-globalblocking-ipblocked": "'''Rinafe IP mane [[m:Special:MyLanguage/Global blocks|dene koto wiki xo]] su zo elekar.\n\nElekara gan $1 ($2) zo skuyur.\nDafuna lazava tir ''$3''.\n\n* Tozura va elekara : $4\n* Tenura va elekara : $5\n\nRinafe refe IP mane tir $6.\nVay va kota vamoefa pinta koe kona staksetena kucilara stragal !!\n\nEde trakul da elekara tir rokla, va loa giva robazel ko [[m:Special:MyLanguage/No open proxies|No open proxies]]  jadif vertak.\nOstik, ta prilara va elekara, [[m:Steward requests/Global|va gorindetena kucilara pu Meta-Wiki staksel]], vay !!",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Tano ok loo \"proxy\" zanisiko faveno gan rinafa tegira [[m:Special:MyLanguage/Global blocks|kotliz zo elekad]].'''\n\nElekara gan $1 ($2) zo skuyur.\nDafuna lazava tir ''$3''.\n\n* Tozura va elekara : $4\n* Tenura va elekara : $5\n\nRinafe refe IP mane tir $6.\nVay va kota vamoefa pinta koe kona staksetena kucilara stragal !!\n\nEde trakul da elekara tir rokla, va loa giva robazel ko [[m:Special:MyLanguage/No open proxies|No open proxies]]  jadif vertak.\nOstik, ta prilara va elekara, [[m:Steward requests/Global|va gorindetena kucilara pu Meta-Wiki staksel]], vay !!"
 }

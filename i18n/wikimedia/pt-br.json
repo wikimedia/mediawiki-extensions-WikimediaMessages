@@ -315,9 +315,6 @@
 	"right-editextendedsemiprotected": "Editar páginas protegidas como \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitir apenas autopatrulhadores",
 	"restriction-level-editextendedsemiprotected": "auto-patrulha protegida",
-	"right-banner-protect": "Proteger mensagens traduzíveis manipuladas pela extensão de tradução e incluídas nos banners do CentralNotice",
-	"protect-level-banner-protect": "Permitir administradores de tradução e administradores de aviso central",
-	"restriction-level-banner-protect": "administrador de tradução e administrador de aviso central protegido",
 	"eri-rcfilters-tour-intro-welcome-title": "Bem-vindo à filtragem de mudanças recentes melhorada",
 	"eri-rcfilters-tour-intro-welcome-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e o poder da aprendizagem automática. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e outras melhorias. $1",
@@ -338,5 +335,6 @@
 	"wikimedia-cookiestatement": "Declaração sobre cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou rápido o suficiente?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade]desta pesquisa",
-	"wikimedia-switchover-read-only": "Você não pode editar agora. Isso é por causa da manutenção. Copie e salve seu texto e tente novamente em alguns minutos."
+	"wikimedia-switchover-read-only": "Você não pode editar agora. Isso é por causa da manutenção. Copie e salve seu texto e tente novamente em alguns minutos.",
+	"passwordpolicies-policy-blockattacker": "Política de senha para mitigação de ataques conhecidos, onde a divulgação de detalhes impediria a mitigação"
 }
