@@ -7,7 +7,8 @@
 			"Olvörg",
 			"Xoser",
 			"Marmase",
-			"Gırd"
+			"Gırd",
+			"Orbot707"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Wahirê ena dosya, $1, destur dano ke herkes ena dosya \"her ci ser kullanmis bike, feqat\" gani wahir rê referans bide. Vila kerdis, reyna virstis, ticari u kullanisê hemi ra destur est ê.",
@@ -85,6 +86,8 @@
 	"wm-license-pd-usgov-military-army-text": "Ena resim yana dosya [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Merfezin da DAY]] de merdumê ke gurenê dem dê gurenayışi eno fotraf anto. [[{{int:wm-license-pd-usgov-wiki-link}}|Federal hıkumetê DAY]] zey ne [[{{int:wm-license-pd-usgov-work-wiki-link}}|gurenayışa]] hemın '''[[{{int:wm-license-pd-wiki-link}}|Male şari]]''' qebul keno.",
 	"wm-license-pd-usgov-military-navy-text": "Ena resim yana dosya [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|bertalan royan de DAY]] de merdumê ke gurenê dem dê gurenayışi eno fotraf anto. [[{{int:wm-license-pd-usgov-wiki-link}}|Federal hıkumetê DAY]] day zey ne [[{{int:wm-license-pd-usgov-work-wiki-link}}|gurenayışa]] hemın '''[[{{int:wm-license-pd-wiki-link}}|Male şari]]''' qebul keno.",
 	"wm-license-pd-usgov-noaa-text": "Ena dosya yew karê aidê [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Şariye okyanus u daireyê Atmosferiyê DAY]] ra yew karbere, karber na dosya cayê bini ra gırewto ya zi karber na dosyay karê karberio xoyo resmi de kerdo.Zey [[{{int:wm-license-pd-usgov-wiki-link}}|Federal hıkumetê DAY]] ra ena [[{{int:wm-license-pd-usgov-work-wiki-link}}|gurenayışe]] dosya inca '''[[{{int:wm-license-pd-wiki-link}}|malê şari]]''' dero.",
+	"wm-license-self": "Ez, ke ena dosya viraste, bine ena {{PLURAL:$1|lisansan}} ser cap kena:",
+	"wm-license-self-with-author": "$1, ke ena dosya vıraşte, bınê nê {{PLURAL:$2|lisansi|lisansan}} çap keno:",
 	"wm-license-self-one-license": "Ez, ke ena dosya viraste, bine ena lisans ser cap kena:",
 	"wm-license-self-one-license-with-author": "$1, ke ena dosya viraste, bine ena lisans ser cap kena:",
 	"wm-license-self-multiple-licenses": "Ez, ke ena dosya viraste, bine ena lisansan ser cap kena:",

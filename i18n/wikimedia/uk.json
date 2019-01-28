@@ -331,5 +331,6 @@
 	"wikimedia-cookiestatement": "Куки",
 	"ext-quicksurveys-performance-internal-survey-question": "Чи достатньо швидко завантажилася ця сторінка?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement політиці приватності] цього опитування.",
-	"wikimedia-switchover-read-only": "Ви не можете редагувати на цей момент. Це через технічне обслуговування. Скопіюйте і збережіть свій текст та спробуйте ще раз через кілька хвилин."
+	"wikimedia-switchover-read-only": "Ви не можете редагувати на цей момент. Це через технічне обслуговування. Скопіюйте і збережіть свій текст та спробуйте ще раз через кілька хвилин.",
+	"passwordpolicies-policy-blockattacker": "Політика щодо паролів для пом'якшення наслідків відомих атак, у яких розкриття деталей завадило б застосуванню такого пом'якшення"
 }

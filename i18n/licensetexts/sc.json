@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andria"
+			"Andria",
+			"L2212"
 		]
 	},
 	"wm-license-gfdl-wiki-link": "w:sc:GNU Free Documentation License",
@@ -11,6 +12,7 @@
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Autore",
 	"wm-license-information-permission": "Licèntzia",
+	"wm-license-information-permission-reusing-text": "Comente torrare a impreare custu documentu",
 	"wm-license-information-permission-see-below": "Abbista a suta.",
 	"wm-license-information-other-versions": "Àteras versiones",
 	"wm-license-own-work": "Traballu pròpriu"
