@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Ukabia"
+			"Ukabia",
+			"Uzoma Ozurumba"
 		]
 	},
 	"wm-license-cc-attribution": "Í-kpó-áhà",
@@ -138,7 +139,10 @@
 	"wm-license-cc-by-sa-2.5-za-text": "Usòrò nke á di okpúrù ákwúkwó íwú nke [[{{int:wm-license-cc-wiki-link}}|Mmẹ Òkike Tu ụta Ñkịtị]] édé íwú nke [https://creativecommons.org/licenses/by-sa/2.5/za/ Í kpó áhà-Í gbàsáa nke South Africa 2.5].",
 	"wm-license-cc-free": "I wepulara nóru:",
 	"wm-license-cc-free-to-share-header": "i nye",
+	"wm-license-cc-free-to-share-text": "ikọpị,ikekasi na izịpụ ọru a",
 	"wm-license-cc-free-to-remix-header": "i dowaria",
+	"wm-license-cc-free-to-remix-text": "igbanwee ọrụ a",
+	"wm-license-cc-conditions": "Ọ ga bụ na ọnọdụ ndi a:",
 	"wm-license-cc-conditions-attribution-header": "í-kpó-áhà",
 	"wm-license-cc-conditions-share_alike-header": "gbásàa kà"
 }
