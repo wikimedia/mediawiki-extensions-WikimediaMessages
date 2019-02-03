@@ -33,7 +33,8 @@
 			"Omotecho",
 			"ديفيد",
 			"Tweety",
-			"Pikne"
+			"Pikne",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -281,7 +282,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Site name that should be included in the title attribute for the site label in the site links section on item pages. See [[:File:Sitelink-title-attribute1.png]] and [[:File:Sitelink-title-attribute2.png]] for examples.\n{{Identical|Meta-Wiki}}",
 	"wikibase-sitelinks-sitename-species": "{{Identical|Wikispecies}}",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Site name that should be included in the title attribute for the site label in the site links section on item pages. See [[:File:Sitelink-title-attribute1.png]] and [[:File:Sitelink-title-attribute2.png]] for examples.\n{{Identical|Wikidata}}",
-	"cant-delete-main-page": "You cannot delete or move the main page.",
+	"cant-delete-main-page": "Message shown if user attempts to delete or move the main page.",
 	"wikimedia-translationnotifications-signup-legal": "Legal text about the notifications sent to translators. Replace Privacy_policy in the URL with Special:MyLanguage/Privacy_policy/<your_language>, for example, Special:MyLanguage/Privacy_policy/fr for French.",
 	"upload-more-photos-of-this-monument": "This message is added by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.",
 	"createacct-captcha-help-url": "The URL of a page providing CAPTCHA assistance for the wiki.\n\nUsed as a link in the {{msg-mw|Createacct-imgcaptcha-help}} message on WMF wikis.",
