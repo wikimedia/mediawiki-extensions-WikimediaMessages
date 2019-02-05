@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Horus"
+			"Horus",
+			"Aefgh39622"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ช่วยฉันเลือก)]]"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ช่วยฉันเลือก)]]",
+	"wikimedia-createacct-imgcaptcha-help": "มองไม่เห็นภาพใช่หรือไม่? [[{{MediaWiki:createacct-captcha-help-url}}|ขอบัญชี]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Username_policy"
 }
