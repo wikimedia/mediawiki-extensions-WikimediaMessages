@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Zoranzoki21"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sr:Кријејтив комонс",
@@ -210,7 +211,7 @@
 	"wm-license-cc-free-to-remix-text": "da preradite delo",
 	"wm-license-cc-conditions": "Pod sledećim uslovima:",
 	"wm-license-cc-conditions-attribution-header": "autorstvo",
-	"wm-license-cc-conditions-attribution-text": "Morate da navedete ime izvornog autora na način koji je određen od strane izvornog autora ili davaoca licence (ali ne tako što ćete sugerisati da vas podržava ili odobrava vaše korišćenje dela).",
+	"wm-license-cc-conditions-attribution-text": "Morate da date odgovarajuće zasluge, obezbedite vezu ka licenci i naznačite da li su izmene napravljene. Možete to uraditi na bilo koji razuman manir, ali ne na način koji predlaže da licencator odobrava vas ili vaše korišćenje.",
 	"wm-license-cc-conditions-share_alike-header": "deliti pod istim uslovima",
 	"wm-license-cc-conditions-share_alike-text": "Ako izmenite, preobrazite ili dogradite ovo delo, morate ga objaviti samo pod istom ili sličnom licencom.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.sr",

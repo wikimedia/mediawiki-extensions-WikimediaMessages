@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"LeGuyanaisPure"
+			"LeGuyanaisPure",
+			"Léon973"
 		]
 	},
 	"wm-license-cc-attribution": "Latribisyon",
 	"wm-license-cc-by-sa-3.0-text": "Sa fiché disponnib soulon tèrm-yan di lisans-a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr Attribution - Partaj annan Menm Kondisyon-yan 3.0 (pa transpozé)].",
 	"wm-license-cc-free": "Zòt lib :",
-	"wm-license-cc-free-to-share-header": "di partajé",
+	"wm-license-cc-free-to-share-header": "di patajé",
 	"wm-license-cc-free-to-share-text": "di kopyé, distribwé é transmèt sa òv",
 	"wm-license-cc-free-to-remix-header": "d’adapté",
 	"wm-license-cc-free-to-remix-text": "di modifyé sa òv",
 	"wm-license-cc-conditions": "Anba kondisyon-yan swivant :",
 	"wm-license-cc-conditions-attribution-header": "patèrnité",
-	"wm-license-cc-conditions-attribution-text": "Zòt divèt sité non-an di lotò orijinal-a di mannyè-a ki endiké pa lotò-a di lòv-a oben titilèr-a dé drwè ki ka konféré zòt sa lotorizasyon (mé pa di roun mannyè ki té ké sigjéré ki li ka soutni zòt oben ka aprouvé zòt litilizasyon di lòv-a).",
+	"wm-license-cc-conditions-attribution-text": "Zòt divèt bay lenfòrmasyon-yan ki apropriyé asou lotò-a, bay roun lyannaj bò'd lisans-a, é endiké si dé modifikasyon-yan té fika fè. Zòt pouvé fè sa pa tout mwéyen rézonnab, mé pa di roun mannyè ki ka sigjéré ki li ka soutni zòt oben ka aprouvé litilizasyon-an ki zòt ka fè di li.",
 	"wm-license-cc-conditions-share_alike-header": "partaj kou li yé",
 	"wm-license-cc-conditions-share_alike-text": "Si zòt ka modifyé, transfòrmen, oben zòt bazé asou sa lòv, zòt divèt distribiyé lòv-a ki ka rézilté anba menm lisans-a oben roun lisans ki similèr à sala-a."
 }

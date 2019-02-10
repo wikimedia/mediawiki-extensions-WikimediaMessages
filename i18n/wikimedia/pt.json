@@ -312,5 +312,6 @@
 	"wikimedia-cookiestatement": "Declaração sobre ''cookies''",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou com rapidez suficiente?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade] desta sondagem.",
-	"wikimedia-switchover-read-only": "Não pode editar neste momento devido a tarefas de manutenção. Copie e grave o seu texto e tente novamente daqui a alguns minutos."
+	"wikimedia-switchover-read-only": "Não pode editar neste momento devido a tarefas de manutenção. Copie e grave o seu texto e tente novamente daqui a alguns minutos.",
+	"passwordpolicies-policy-blockattacker": "Normas para palavras-passe, destinadas à mitigação de ataques conhecidos, onde a divulgação de pormenores impediria a sua mitigação"
 }
