@@ -3,7 +3,8 @@
 		"authors": [
 			"Bonevarluri",
 			"Mogoeilor",
-			"Beyronvan"
+			"Beyronvan",
+			"Lorestani"
 		]
 	},
 	"wm-license-book-editor": "ويرايشتگر",
@@ -13,7 +14,7 @@
 	"wm-license-book-year-of-publication": "سال چاپ بیئن",
 	"wm-license-creator-alternative-names": "نوم جاگزین",
 	"wm-license-gfdl-1.2-and-later": "اجازه ورداشتن، درتیچ کاری و/یا آلشت دئن اسی سند زیر نخیز شرایط '''[[{{int:wm-license-gfdl-wiki-link}}|مجوز مستندات آزاد گنو]]'''، نسقه ۱٫۲ یا هر نسقه نهایی که وه دس [[{{int:wm-license-fsf-wiki-link}}|بنیاد نرم‌ افزار آزاد]] درتیچ کار بیه؛ بی بیین بهرجایا ایستا (بی آلشت)، نیسسه یا ری جلت، و نیسسه یا دما جلت، وه تو دئه بوئه. یه گل ورداشت د مجوز د یه گل بهرجا وا داسون ''[[{{int:wm-license-gfdl-full-1.2-link}}|مجوز مستندات آزاد گنو]]'' دما دیس کاری بیه.",
-	"wm-license-information-description": "توزی",
+	"wm-license-information-description": "تۉزی",
 	"wm-license-information-source": "سرچشمٱ",
 	"wm-license-information-date": "گات",
 	"wm-license-information-author": "نڤیسیار",
