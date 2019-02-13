@@ -13,7 +13,8 @@
 			"KhangND",
 			"Nguyên Lê",
 			"Prenn",
-			"Leduyquang753"
+			"Leduyquang753",
+			"Tuyenduong97"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -87,9 +88,9 @@
 	"group-eventparticipant": "Người tham dự sự kiện",
 	"group-eventparticipant-member": "{{GENDER:$1}}người tham dự sự kiện",
 	"grouppage-eventparticipant": "{{ns:project}}:Người tham dự sự kiện",
-	"group-extendedconfirmed": "Thành viên kỳ cựu được xác nhận",
-	"group-extendedconfirmed-member": "{{GENDER:$1}}thành viên kỳ cựu được xác nhận",
-	"grouppage-extendedconfirmed": "{{ns:project}}:Thành viên kỳ cựu được xác nhận",
+	"group-extendedconfirmed": "Thành viên được xác nhận mở rộng",
+	"group-extendedconfirmed-member": "{{GENDER:$1}}thành viên được xác nhận mở rộng",
+	"grouppage-extendedconfirmed": "{{ns:project}}:Thành viên được xác nhận mở rộng",
 	"group-extendedmover": "Người di chuyển nâng cao",
 	"group-extendedmover-member": "{{GENDER:$1}}người di chuyển nâng cao",
 	"grouppage-extendedmover": "{{ns:project}}:Người di chuyển nâng cao",
@@ -273,7 +274,7 @@
 	"restriction-level-templateeditor": "bản mẫu hạn chế",
 	"protect-level-templateeditor": "Chỉ cho phép những người sửa đổi bản mẫu và bảo quản viên",
 	"right-extendedconfirmed": "Sửa đổi các trang bị hạn chế",
-	"restriction-level-extendedconfirmed": "hạn chế cho thành viên kỳ cựu",
+	"restriction-level-extendedconfirmed": "hạn chế cho thành viên xác nhận mở rộng",
 	"protect-level-extendedconfirmed": "Chỉ cho phép các thành viên kỳ cựu và bảo quản viên",
 	"right-editeditorprotected": "Sửa đổi các trang có mức độ khóa “{{int:protect-level-editeditorprotected}}”",
 	"protect-level-editeditorprotected": "Chỉ cho phép những người sửa đổi",

@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Youssoufkadialy"
+			"Youssoufkadialy",
+			"Lanciné.kounfantoh.fofana"
 		]
 	},
 	"sitesupport": "ߣߌ߬ߟߌ ߞߍ߫",
 	"tooltip-n-sitesupport": "ߊߟߎ߫ ߊ߲ ߘߍ߬ߡߍ߲߬",
+	"wikibase-sitelinks-wikinews": "ߥߞߌ-ߝߐ߰ߝߍ",
 	"wikimedia-developers": "ߕߟߋ߬ߓߊ߬ߗߋߥߎ߲"
 }
