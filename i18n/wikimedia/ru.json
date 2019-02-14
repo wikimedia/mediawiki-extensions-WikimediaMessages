@@ -249,6 +249,7 @@
 	"wikimedia-copyrightwarning": "Сохраняя изменения, вы соглашаетесь с [https://foundation.wikimedia.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на безотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы соглашаетесь, что указание гиперссылки на соответствующую страницу или её URL-адреса будет достаточным для выполнения условия атрибуции лицензии Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Формулировка лицензии Creative Commons Attribution/Share-Alike\" target=\"_blank\">CC BY-SA 3.0</a> и <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Формулировка GFDL\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Викиданные",
+	"wikibase-page-schema-publisher-name": "Фонд Викимедиа",
 	"wikibase-statementsection-identifiers": "Идентификаторы",
 	"wikibase-statementsection-constraints": "Ограничения",
 	"wikibase-sitelinks-wikibooks": "Викиучебник",

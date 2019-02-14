@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kumkumuk",
-			"Gırd"
+			"Gırd",
+			"Mirzali"
 		]
 	},
 	"search-interwiki-results-abwiki": "[[:ab:|Abkhaz Wikipedia]] ra neticeyê aseneyênê",
@@ -19,6 +20,7 @@
 	"search-interwiki-results-azwiki": "[[:az:|Azei Wikipedia]] ra neticeyê aseneyênê",
 	"search-interwiki-results-crwiki": "[[:cr:|Cree Wikipedia]] ra peyniyan motniyenê",
 	"search-interwiki-results-diqwiki": "[[:diq:|Wikipedia zazaki]] ra peyniyan motniyenê",
+	"search-interwiki-results-enwiki": "Neticeyê ke [[:en:|Wikipediyaya İngılızki]] derê mocniyenê.",
 	"search-interwiki-results-fawiki": "[[:fa:|Farski Wikipedia]] ra peyniyan motniyenê",
 	"search-interwiki-results-ffwiki": "[[:ff:|Fula Wikipedia]]ra neticeyê aseneyênê",
 	"search-interwiki-results-frwiki": "[[:fr:|Franki Wikipedia]] ra neticeyê aseneyênê",

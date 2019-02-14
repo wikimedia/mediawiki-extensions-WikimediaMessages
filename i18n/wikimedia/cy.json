@@ -6,7 +6,8 @@
 			"Xxglennxx",
 			"Nemo bis",
 			"Ham II",
-			"Diafol"
+			"Diafol",
+			"Divec"
 		]
 	},
 	"wikimediamessages-desc": "Negeseuon neilltuol Wikimedia",
@@ -115,6 +116,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|gweinyddwr y cyfieithiadau}}",
 	"grouppage-translationadmin": "{{ns:project}}:Gweinyddwyr y cyfieithiadau",
 	"wikimedia-copyright": "Mae testun y dudalen ar gael dan drwydded <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\ngall fod telerau ychwanegol perthnasol.\nGweler <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Telerau Defnyddio'r Drwydded</a> am fanylion pellach.",
+	"wikimedia-commons-copyright": "Darperir ffeiliau dan delerau trwyddedau a nodir ar eu tudalennau disgrifiad. Darperir yr holl ddata strwythuredig o’r gofodau enwau ffeil a nodwedd dan delerau <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Diffiniad Trwydded CC0 Creative Commons\">Drwydded CC0 Creative Commons</a>; darperir yr holl destun anstrwythuredig dan delerau <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Diffiniad Trwydded Attribution/Share-Alike Creative Commons\">Trwydded Attribution-ShareAlike Creative Commons</a>; efallai bydd telerau ychwanegol yn berthnasol. Trwy ddefnyddio’r wefan, rydych chi’n derbyn y <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Telerau Defnydd y Wikimedia Foundation\">Telerau Defnydd</a> a’r <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\" title=\"Polisi Preifatwydd y Wikimedia Foundation\">Polisi Preifatrwydd</a>.",
 	"wikidata-copyright": "Mae'r holl data strwythuredig yn y prif barth a'r parth nodwedd ar gael yn ôl termau'r drwydded <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Deffiniad y Drwydded Creative Commons CC0\">Creative Commons CC0</a>;\nmae testun yn y parthau eraill ar gael yn ôl termau'r drwydded <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Diffiniad y Drwydded Creative Commons Attribution-ShareAlike\">Creative Commons Attribution-ShareAlike</a>;\ngall termau ychwanegol fod yn weithredol.\nGweler y <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Termau Defnyddio Sefydliad Wikimedia\">Termau Defnyddio</a> am fanylion.",
 	"wikimedia-copyrightwarning": "Wrth arbed eich gwaith, rydych yn cytuno, a hynny'n ddi-alw'n-ôl, i ryddhau eich cyfraniad ar drwyddedau'r [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] a'r [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nRydych yn cytuno fod dolen neu URL yn ddigonol, o ran priodoledd, dan drwydded Comin Creu (Creative Commons).",
 	"wikibase-sitelinks-wikinews": "Wicinewyddion",
