@@ -20,6 +20,7 @@ class WikimediaMessagesHooks {
 			'centralauth-contribs-locked',
 			'centralauth-uwbr-intro',
 			'centralauth-uwbr-registration-nodate',
+			'centralauth-login-error-locked', // T216347
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			'delete-toobig', // T139797
