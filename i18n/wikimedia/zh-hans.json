@@ -246,6 +246,7 @@
 	"wikimedia-copyrightwarning": "保存更改即表示您同意[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用条款]，并不可撤销地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0协议文本 CC BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]发表您贡献的内容。这也表示您同意在知识共享许可协议下，以标注超链接或URL的形式署名是十分合理的。",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.zh\" title=\"知识共享 署名-相同方式共享协议的定义\" target=\"_blank\">CC BY-SA 3.0</a>和<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL的定义\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "维基数据",
+	"wikibase-page-schema-author-name": "维基媒体项目贡献者",
 	"wikibase-statementsection-identifiers": "标识符",
 	"wikibase-statementsection-constraints": "约束",
 	"wikibase-sitelinks-wikibooks": "维基教科书",
@@ -336,5 +337,6 @@
 	"wikimedia-cookiestatement": "Cookie声明",
 	"ext-quicksurveys-performance-internal-survey-question": "此页面是否加载足够快？",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
-	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。"
+	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。",
+	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节遭泄露将会造成妨碍"
 }
