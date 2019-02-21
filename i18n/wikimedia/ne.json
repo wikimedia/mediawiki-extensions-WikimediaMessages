@@ -22,7 +22,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "पुर्ण पृष्ठ सम्पादन गर्नुहोस्...",
 	"gettingstarted-cta-edit-page-wikipedia": "यस लेख सम्पादन गर्नुहोस्",
 	"gettingstarted-cta-fix-pages-wikipedia": "सुझावित लेख सम्पादन गर्नुहोस",
-	"group-Image-reviewer": "तस्वीर पुनरावलोकनकर्ताहरू",
+	"group-Image-reviewer": "तस्वीर समीक्षकहरू",
 	"group-accountcreator": "खाता खोल्नेहरू",
 	"group-autopatrolled": "स्वगस्तीगर्ने प्रयोगकर्ता",
 	"group-autoreviewer": "स्वत: पुनरावलोकन गर्नेहरु",
@@ -69,7 +69,7 @@
 	"wikibase-otherprojects-wikivoyage": "विकियात्रा",
 	"wikibase-otherprojects-wiktionary": "विक्सनरी",
 	"wikimedia-developers": "विकासकर्ताहरू",
-	"wikimedia-globalblocking-ipblocked": "'''तपाईंको आईपी ठेगानालाई [[m:Special:MyLanguage/Global blocks|सबै विकिहरूमा ]] रोक लगाइएको छ।'''\n\nयो रोक $1 ($2) ले लगाएका हुन्।\nकारण बताइएको छ : ''$3'' .\n\n* रोक शुरू: $4\n* रोक बन्द: $5\n\nतपाईंको प्रस्तुत आईपी ठेगाना $6.\nकृपया माथीको कुराहरू आफ्नो सोधपुछमा शामिल गर्नुहोस् ।\n\nयदी तपाईं मान्नुहुन्छ कि यो रोक कुनै गल्तीले भएको हो भने तपाईं अधिक जानकारी र निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस हैन]] वैश्विक नीतिमा पढ्नुहोस् ।\nया , यो रोकको कुरा [[m:Steward requests/Global|यहाँ गर्नुहोस् अथवा मेटाविकिमा एक नयाँ वार्ता शुरू गर्नुहोस्]].",
+	"wikimedia-globalblocking-ipblocked": "'''तपाईंको आईपी ठेगानालाई [[m:Special:MyLanguage/Global blocks|सबै विकिहरूमा ]] रोक लगाइएको छ।'''\n\nयो रोक $1 ($2) ले लगाएका हुन्।\nउल्लिखित कारण ''$3'' रहेको छ।\n\n* रोक शुरू: $4\n* रोक बन्द: $5\n\nतपाईंको आईपी ठेगाना $6 हो।\nकृपया माथिको सबै विवरणहरू आफ्नो सोधपुछमा शामिल गर्नुहोस्।\n\nयदि तपाईं मान्नुहुन्छ कि यो रोक कुनै गल्तीले भएको हो, तपाईंले अधिक जानकारी र निर्देश [[m:Special:MyLanguage/No open proxies|ओपन प्रोक्जिज]] वैश्विक नीतिमा पाउन सक्नुहुनेछ। अन्यथा, रोक माथिको छलफलको लागि [[m:Steward requests/Global|मेटाविकिमा पुनर्विचार अनुरोध राख्नुहोस्]]।",
 	"wikimedia-globalblocking-ipblocked-xff": "'''तपाईंको आईपी ठेगानालाई [[m:Special:MyLanguage/Global blocks|सबै विकिहरूमा रोक]] लगाइएको छ ।'''\n\nयो रोक $1 ($2) ले लगाए ।\nकारण : ''$3'' ।\n\n* रोक शुरू: $4\n* रोक बन्द: $5\n\nतपाईंको प्रस्तुत आईपी ठेगाना $6.\nकृपया माथी दिइएका कुराहरूमा आफ्नो सोधपूछमा शामिल गर्नुहोस् ।\n\nयदी तपाईं मान्नु हुन्छ कि यो रोक कुनै गल्तीले भएको हो भने  तपाईं अधिक जानकारी र निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस हैन]] वैश्विक नीतिमा पढ्नुहोस् ।\nअथवा, यस रोकको चर्चा [[m:Steward requests/Global|यहाँ गर्नुहोस् र मेटाविकिमा एक नयाँ चर्चा शुरू गर्नुहोस् ]] ।",
 	"interlanguage-link-mul": "थप भाषाहरू",
 	"interlanguage-link-sitename-wikipedia": "विकिपिडिया, एक स्वतन्त्र विश्वकोष"

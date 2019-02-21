@@ -9,6 +9,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozte mi s výběrem)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]].",
+	"wikimedia-centralauth-login-error-locked": "<strong>Tento účet je [[m:Special:MyLanguage/Global locks|globálně uzamčen]]</strong>. Na žádné projektu Wikimedia se do něj nemůžete přihlásit. Pokud máte jakékoliv otázky, prosíme [[m:Special:Contact/stewards|kontaktujte stevardy]].",
 	"wikimedia-centralauth-uwbr-intro": "Tato stránka uvádí uživatele registrované na této wiki, kteří budou přejmenováni kvůli [[m:Single User Login finalisation announcement|dokončení Sjednocení přihlašovacích účtů]]. Více informací najdete na stránce [[m:Help:Unified login|sjednoceného přihlašování]]. Uživatelé mohou kdykoli požádat o přejmenováni na stránce [[Special:GlobalRenameRequest]].",
 	"createacct-helpusername-url": "{{ns:Project}}:Uživatelské_jméno",
 	"wikimedia-delete-toobig": "Tato stránka má velkou historii editací, přes $1 {{PLURAL:$1|verzi|verze|verzí}}.\nMazání takových stránek je omezeno, aby se předešlo nechtěnému narušení {{grammar:2sg|{{SITENAME}}}}.\nO smazání této stránky prosíme požádejte [[m:Special:MyLanguage/Stewards|stevardy]] na stránce [[m:Steward requests/Miscellaneous|Žádosti stevardům/Různé na Metě]].",

@@ -9,6 +9,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
+	"wikimedia-centralauth-login-error-locked": "<strong>Questa utenza è [[m:Special:MyLanguage/Global locks|bloccata globalmente]]</strong>. Non sarai in grado di effettuare l'accesso ad alcuna wiki di Wikimedia. [[m:Special:Contact/stewards|Contatta gli steward]] per qualsiasi domanda.",
 	"createacct-helpusername-url": "{{ns:Project}}:Nome_utente",
 	"wikimedia-delete-toobig": "Questa pagina ha una lunga cronologia delle modifiche, più di $1 {{PLURAL:$1|versione|versioni}}.\nLa cancellazione di pagine con una cronologia molto lunga è stata limitata per evitare di creare accidentalmente dei problemi di funzionamento al database di {{SITENAME}}.\nPer favore contatta gli [[m:Special:MyLanguage/Stewards|steward]] alla pagina [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] per richiedere la cancellazione di questa pagina.",
 	"wikimedia-feedback-termsofuse": "Accetto di fornire commenti in accordo con le <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/it\" target=\"_blank\">condizioni d'uso</a>.",
