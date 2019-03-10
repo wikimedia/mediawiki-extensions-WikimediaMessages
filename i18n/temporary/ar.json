@@ -7,9 +7,9 @@
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا مؤقتة محددة",
-	"grouppage-oversight": "{{ns:project}}:أوفرسايت",
-	"group-oversight": "نظار",
-	"group-oversight-member": "{{GENDER:$1|ناظر|ناظرة}}",
+	"grouppage-oversight": "{{ns:project}}:مزيل تعديلات",
+	"group-oversight": "مزيلو تعديلات",
+	"group-oversight-member": "{{GENDER:$1|مزيل تعديلات|مزيلة تعديلات}}",
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
