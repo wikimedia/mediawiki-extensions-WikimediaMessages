@@ -13,7 +13,8 @@
 			"Nemo bis",
 			"William Surya Permana",
 			"Caliburn",
-			"Beeyan"
+			"Beeyan",
+			"Ilham151096"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan spesifik Wikimedia",
@@ -42,7 +43,7 @@
 	"grouppage-arbcom": "{{ns:project}}:Anggota komite arbitrasi",
 	"group-autopatrolled": "Otomatisterpatroli",
 	"group-autopatrolled-member": "{{GENDER:$1|pematroli otomatis}}",
-	"grouppage-autopatrolled": "{{ns:project}}:Patroli otomatis",
+	"grouppage-autopatrolled": "{{ns:project}}:Pematroli otomatis",
 	"group-autoreviewer": "Peninjau otomatis",
 	"group-autoreviewer-member": "{{GENDER:$1|peninjau otomatis}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Peninjau otomatis",
@@ -95,8 +96,9 @@
 	"group-trusted-member": "{{GENDER:$1|pengguna tepercaya}}",
 	"grouppage-trusted": "{{ns:project}}:Pengguna tepercaya",
 	"group-uploader": "Pengunggah",
-	"group-uploader-member": "pengunggah",
+	"group-uploader-member": "{{GENDER:$1|pengunggah}}",
 	"grouppage-uploader": "{{ns:project}}:Pengunggah",
+	"group-wikidata-staff": "Staf Wikidata",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|API high limit requestor}}",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Administrator pusat pengumuman}}",
 	"group-global-bot": "Bot global",
@@ -112,7 +114,7 @@
 	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-recursive-export-member": "{{GENDER:$1|eksportir rekursif}}",
 	"group-staff": "Staf",
-	"group-staff-member": "staf",
+	"group-staff-member": "{{GENDER:$1|staf}}",
 	"group-steward": "Steward",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"grouppage-steward": "m:Stewards/id",
@@ -135,10 +137,11 @@
 	"upload-more-photos-of-this-monument": "Unggah lebih banyak foto dari monumen ini",
 	"createacct-captcha-help-url": "{{ns:Project}}:Mohon buatkan akun",
 	"wikimedia-developers": "Pengembang",
-	"wikimedia-globalblocking-ipblocked": "'''Alamat IP Anda telah [[m:Special:MyLanguage/Global blocks|diblokir pada semua wiki]].'''\n\nPemblokiran dilakukan oleh $1 ($2).\nAlasan yang diberikan adalah ''$3''.\n\n*Mulai di blokir: $4\n*Kadaluarsa blokir: $5\n\nAlamat IP Anda saat ini adalah $6.\nHarap sertakan semua rincian di atas dalam setiap pertanyaan Anda.\n\nJika Anda yakin Anda diblokir merupakan sebuah kesalahan, Anda dapat menemukan informasi tambahan dan petunjuk di Kebijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi terbuka]].\nJika tidak, untuk membicarakan hal ini, silakan [[m:Steward requests/Global|mengirim permintaan untuk diperiksa di Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''Alamat IP Anda telah [[m:Special:MyLanguage/Global blocks|diblokir pada semua wiki]].'''\n\nPemblokiran dilakukan oleh $1 ($2).\nAlasan yang diberikan adalah ''$3''.\n\n*Mulai di blokir: $4\n*Kedaluarsa blokir: $5\n\nAlamat IP Anda saat ini adalah $6.\nHarap sertakan semua rincian di atas dalam setiap pertanyaan Anda.\n\nJika Anda yakin Anda diblokir merupakan sebuah kesalahan, Anda dapat menemukan informasi tambahan dan petunjuk di Kebijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi terbuka]].\nJika tidak, untuk membicarakan hal ini, silakan [[m:Steward requests/Global|mengirim permintaan untuk diperiksa di Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Satu atau lebih server proksi yang digunakan dalam permintaan Anda [[m:Special:MyLanguage/Global blocks|diblokir pada semua wiki]].'''\n\nPemblokiran dilakukan oleh $1 ($2).\nAlasan yang diberikan adalah ''$3''.\n\n* Mulai di blokir: $4\n* Kedaluwarsa blokir: $5\n\nAlamat proksi yang diblokir adalah $6.\nHarap sertakan semua rincian di atas dalam setiap pertanyaan Anda.\n\nJika Anda yakin Anda diblokir merupakan sebuah kesalahan, Anda dapat menemukan informasi tambahan dan petunjuk di Kebijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi terbuka]].\nJika tidak, untuk membicarakan hal ini, silakan [[m:Steward requests/Global|mengirim permintaan untuk diperiksa di Meta-Wiki]].",
 	"upload-form-label-own-work-message-commons": "Saya menegaskan bahwa saya memiliki hak cipta atas berkas ini, dan setuju untuk melepas berkas ini menurut lisensi [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Atribusi-BerbagiSerupa 4.0], dan saya menyetujui [https://foundation.wikimedia.org/wiki/Terms_of_Use ketentuan pemakaian dari Yayasan Wikimedia].",
 	"upload-form-label-not-own-work-message-commons": "Jika Anda tidak memiliki hak cipta atas berkas ini, atau Anda ingin melepasnya dengan lisensi berbeda, pertimbangkan untuk menggunakan [https://commons.wikimedia.org/wiki/Special:UploadWizard Wisaya penggunggah Commons].",
 	"upload-form-label-not-own-work-local-commons": "Anda juga mungkin ingin mencoba menggunakan  [[Special:Upload|laman pengunggahan pada{{SITENAME}}]],jika situs tersebut membolehkan pengunggahan berkas ini menurut kebijakannya.",
-	"wikimediashoplink-linktext": "Wikimedia Shop"
+	"wikimediashoplink-linktext": "Wikimedia Shop",
+	"wikimedia-cookiestatement": "Penyataan kuki"
 }
