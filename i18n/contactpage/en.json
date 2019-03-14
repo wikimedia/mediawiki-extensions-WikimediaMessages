@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Reedy"
+			"Reedy",
+			"Varnent"
 		]
 	},
 	"contactpage-title-requestlicense": "Request a license form",
@@ -61,5 +62,20 @@
 	"contactpage-affcom-user-group-logo-community": "Wikimedia community logo",
 	"contactpage-affcom-user-group-logo-affiliate": "Wikimedia affiliate logo",
 	"contactpage-title-stewards": "Contact Stewards",
-	"contactpage-stewards-disclaimer-label": "Disclaimer: All information you include in this form is submitted to, processed by, and responded to by volunteer community members (specifically [[Special:MyLanguage/Stewards]]), not the Wikimedia Foundation. Please do not include any information that you are not comfortable sharing with Wikimedia volunteers. Responses and other correspondence related to processing your submitted information are not to be considered official statements of the Wikimedia Foundation. For official correspondence, please contact the Wikimedia Foundation through the methods listed on https://wikimediafoundation.org/about/contact/."
+	"contactpage-stewards-disclaimer-label": "Disclaimer: All information you include in this form is submitted to, processed by, and responded to by volunteer community members (specifically [[Special:MyLanguage/Stewards]]), not the Wikimedia Foundation. Please do not include any information that you are not comfortable sharing with Wikimedia volunteers. Responses and other correspondence related to processing your submitted information are not to be considered official statements of the Wikimedia Foundation. For official correspondence, please contact the Wikimedia Foundation through the methods listed on https://wikimediafoundation.org/about/contact/.",
+	"contactpage-title-movecomsignup": "Join the Movement communications group mailing list",
+	"contactpage-pagetext-movecomsignup": "Please use the form below to sign up for the [[Movement communications group]] mailing list.",
+	"contactpage-subject-movecomsignup": "Movement communications group sign up",
+	"contactpage-movecom-signup-username-label": "Your username(s)",
+	"contactpage-movecom-signup-affiliation-label": "Your primary affiliation with Wikimedia movement communications",
+	"contactpage-movecom-signup-affiliation-affiliates": "Wikimedia movement affiliate (chapters, thematic organizations, user groups)",
+	"contactpage-movecom-signup-affiliation-foundation": "Wikimedia Foundation",
+	"contactpage-movecom-signup-affiliation-group": "Wikimedia organized group (WikiProject, community committee, etc.)",
+	"contactpage-movecom-signup-affiliation-projects": "Wikimedia projects (Wikipedia, Wikidata, Wiktionary, etc.)",
+	"contactpage-movecom-signup-affiliate-label": "Name of your Wikimedia group or affiliate (if applicable)",
+	"contactpage-movecom-signup-display-label": "Please select how you would like to be listed on the [[Movement communications group]] page",
+	"contactpage-movecom-signup-display-name": "Name",
+	"contactpage-movecom-signup-display-username": "Username",
+	"contactpage-movecom-signup-display-nameusername": "Name and username",
+	"contactpage-movecom-signup-terms-label": "I have read over the [[Movement communications group]] description and agree to follow the [[Foundation:Friendly space policy|Wikimedia Foundation's Friendly space policy]] during my participation with this group. I understand that failure to follow this policy will result in removal from the group."
 }
