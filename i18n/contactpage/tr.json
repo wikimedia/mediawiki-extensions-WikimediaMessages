@@ -4,9 +4,12 @@
 			"Sucsuzz",
 			"Captantrips",
 			"Stultiwikia",
-			"Rapsar"
+			"Rapsar",
+			"Karduelis"
 		]
 	},
+	"contactpage-title-requestlicense": "Bir lisans formu isteyin",
+	"contactpage-pagetext-requestlicense": "Lütfen bir Wikimedia ticari markasını kullanmak hakkında bizimle iletişim kurmak için aşağıdaki formu kullanın.",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia Topluluğu",
 	"contactpage-wikimedia-trademark-wiktionary": "Vikisözlük",
 	"contactpage-pagetext-licenseabuse": "Wikimedia markasını kötüye kullandığından veya yanlış kullandığından şüphelendiğiniz kişiler hakkında bizle iletişime geçmek için lütfen aşağıdaki formu kullanınız.",
