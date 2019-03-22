@@ -1421,7 +1421,7 @@ class WikimediaMessagesHooks {
 	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
 		if ( ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
-				'localBasePath' => __DIR__ . '/modules',
+				'localBasePath' => dirname( __DIR__ ) . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
 				'scripts' => 'rcfilters-intro-tour.js',
 				'styles' => 'rcfilters-intro-tour.less',
@@ -1438,7 +1438,7 @@ class WikimediaMessagesHooks {
 				],
 			] );
 			$resourceLoader->register( 'ext.guidedTour.tour.WlFiltersIntro', [
-				'localBasePath' => __DIR__ . '/modules',
+				'localBasePath' => dirname( __DIR__ ) . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
 				'scripts' => 'wlfilters-intro-tour.js',
 				'styles' => 'rcfilters-intro-tour.less',
@@ -1456,7 +1456,7 @@ class WikimediaMessagesHooks {
 				],
 			] );
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersHighlight', [
-				'localBasePath' => __DIR__ . '/modules',
+				'localBasePath' => dirname( __DIR__ ) . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
 				'scripts' => [
 					'rcfilters-highlight-tour-hooks.js',
