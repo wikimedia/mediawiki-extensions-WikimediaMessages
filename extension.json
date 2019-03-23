@@ -33,7 +33,7 @@
 		"wikimedia-feedback-termsofuse"
 	],
 	"AutoloadClasses": {
-		"WikimediaMessagesHooks": "WikimediaMessages.hooks.php"
+		"WikimediaMessagesHooks": "includes/WikimediaMessagesHooks.php"
 	},
 	"ResourceModules": {
 		"ext.wikimediamessages.contactpage.affcomusergroup": {
