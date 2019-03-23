@@ -47,7 +47,8 @@
 			"Saint Johann",
 			"Stjn",
 			"Vlad5250",
-			"Marshmallych"
+			"Marshmallych",
+			"Bloomaround"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -273,6 +274,7 @@
 	"wikibase-otherprojects-wikiversity": "Викиверситет",
 	"wikibase-otherprojects-wikivoyage": "Викигид",
 	"wikibase-otherprojects-wiktionary": "Викисловарь",
+	"wikibase-otherprojects-wikimania": "Викимания",
 	"wikibase-sitelinks-sitename-commonswiki": "Викисклад",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Мета-вики",

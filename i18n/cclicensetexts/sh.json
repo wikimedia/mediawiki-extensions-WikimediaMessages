@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"OC Ripper"
+			"OC Ripper",
+			"Vlad5250"
 		]
 	},
 	"wm-license-cc-attribution": "Pripisivanje",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "da prilagodite djelo",
 	"wm-license-cc-conditions": "Pod slijedećim uslovima:",
 	"wm-license-cc-conditions-attribution-header": "pripisivanje",
-	"wm-license-cc-conditions-attribution-text": "Morate nasloviti rad na način kako je to odredio autor ili osoba koja posjeduje licencu (ali ne na način koji sugeriše da su oni vama potvrdili ili odobrili korištenje rada).",
+	"wm-license-cc-conditions-attribution-text": "Morat ćete dati prikladan pripis, staviti vezu na licencu i naznačiti da li napravljene bilo kakve promjene. To se može učiniti na bilo koji razuman način, ali ne ostavljajući dojam da je licencator iza vas i vaše korištenje.",
 	"wm-license-cc-conditions-share_alike-header": "dijeli pod istim uslovima",
 	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod istom ili sličnom licencom poput ove."
 }

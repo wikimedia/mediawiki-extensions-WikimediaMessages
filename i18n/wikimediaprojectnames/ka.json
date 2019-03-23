@@ -3,7 +3,8 @@
 		"authors": [
 			"Otogi",
 			"OpusDEI",
-			"MIKHEIL"
+			"MIKHEIL",
+			"David1010"
 		]
 	},
 	"project-localized-name-aawiki": "აფარული ვიკიპედია",
@@ -97,5 +98,6 @@
 	"project-localized-name-gawikibooks": "ირლანდიური ვიკიწიგნები",
 	"project-localized-name-gawikiquote": "ირლანდიური ვიკიციტატა",
 	"project-localized-name-gawiktionary": "ირლანდიური ვიქსიკონი",
-	"project-localized-name-kawiki": "ქართული ვიკიპედია"
+	"project-localized-name-kawiki": "ქართული ვიკიპედია",
+	"project-localized-name-wikimaniawiki": "ვიკიმანიის ვიკი"
 }

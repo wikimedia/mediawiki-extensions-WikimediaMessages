@@ -294,10 +294,10 @@
 	"protect-level-editextendedsemiprotected": "فقط گشت‌خودکارها اجازه دارند",
 	"restriction-level-editextendedsemiprotected": "محافظت از گشت‌خودکار",
 	"eri-rcfilters-tour-intro-welcome-title": "به بهبود پالایهٔ تغییرات اخیر خوش‌آمدید",
-	"eri-rcfilters-tour-intro-welcome-description": "بازبینی ویرایش‌ها به صورت بهینه، توسط ابزارهای بهینه‌شده، محیط جدید و قابلیت یادگیری ماشینی. $1",
-	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بازبینی ویرایش‌ها به صورت بهینه، با استفاده از فیلترهای جدید، محیط قوی‌تر، پررنگ‌کردن‌های تعریف‌شده توسط کاربر و دیگر قابلیت‌های افزوده‌شده. $1",
+	"eri-rcfilters-tour-intro-welcome-description": "بازبینی ویرایش‌ها به صورت بهینه‌تر به کمک پالایه‌های جدید، امکان ذخیره مجموعه‌هایی از پالایه‌ها، پررنگ کردن تعریف‌شده توسط کاربر و قابلیت یادگیری ماشینی. $1",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بازبینی ویرایش‌ها به صورت بهینه‌تر، امکان ذخیره‌سازی مجموعه‌هایی از پالایه‌ها، پررنگ‌کردن‌های تعریف‌شده توسط کاربر و دیگر قابلیت‌های افزوده‌شده. $1",
 	"eri-rcfilters-tour-help": "اطلاعات بیشتر",
-	"eri-rcfilters-tour-intro-preferences-description": "دادن دسترسی به ترجیحاتتان برای غیرفعال کردن نسخهٔ بهبودیافتهٔ تغییرات اخیر.",
+	"eri-rcfilters-tour-intro-preferences-description": "در هر زمانی می‌توانید با رفتن به زبانه‌ی تغییرات اخیر در ترجیحات، از نسخه‌ی بهبودیافته‌ی تغییرات اخیر خارج شوید.",
 	"eri-rcfilters-tour-intro-welcome-button": "اوکی، متوجه شدم",
 	"eri-rcfilters-tour-intro-disable-button": "همین حالا خارج شو",
 	"eri-rcfilters-tour-highlight-title": "کد رنگ نتایج شما",
@@ -305,10 +305,13 @@
 	"eri-rcfilters-tour-highlight-button": "اوکی، متوجه شدم",
 	"eri-rcfilters-tour-confirm-title": "پالایه‌های جدید الان فعال هستند",
 	"eri-rcfilters-tour-confirm-description": "دسترسی به <strong>امکانات آزمایشی صفحه</strong> برای ارسال بازخورد یا غیرفعال‌کردن آن، را دارید.",
+	"eri-wlfilters-tour-intro-welcome-title": "به پالایه بهبودیافته فهرست پیگیری خوش آمدید",
 	"eri-wlfilters-tour-intro-preferences-description": "همیشه می‌توانید با رفتن به قسمت فهرست پیگیری در ترجیحات، فهرست پیگیری بهبودیافته را غیرفعال کنید.",
 	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده‌است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",
 	"wikimedia-cookiestatement": "اظهارنامهٔ کوکی",
-	"ext-quicksurveys-performance-internal-survey-question": "آیا این صفحه به اندازه کافی سریع بارگذاری شد؟"
+	"ext-quicksurveys-performance-internal-survey-question": "آیا این صفحه به اندازه کافی سریع بارگذاری شد؟",
+	"wikimedia-switchover-read-only": "در حال حاضر، به خاطر انجام امور نگهداری، امکان ویرایش وجود ندارد. ویرایش خود را کپی و ذخیره کرده و چند دقیقه بعد مجدداً امتحان کنید.",
+	"passwordpolicies-policy-blockattacker": "سیاست گذرواژه برای کاهش خطر حملات شناخته‌شده‌ای که در آن‌ها افشای جزئیات مانع مهار خطر می‌شود"
 }
