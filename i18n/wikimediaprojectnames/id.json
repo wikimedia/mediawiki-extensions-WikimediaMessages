@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kenrick95",
-			"Joseagush"
+			"Joseagush",
+			"Veracious"
 		]
 	},
 	"project-localized-name-commonswiki": "Wikimedia Commons",
@@ -14,7 +15,7 @@
 	"project-localized-name-idwikibooks": "Wikibuku bahasa Indonesia",
 	"project-localized-name-idwikisource": "Wikisumber bahasa Indonesia",
 	"project-localized-name-metawiki": "Meta-Wiki",
-	"project-localized-name-nowiki": "Wikipedia Norwegia",
+	"project-localized-name-nowiki": "Wikipedia Norwegia Bokmål",
 	"project-localized-name-nowikiquote": "Wikiquote Norwegia Bokmål",
-	"project-localized-name-nowiktionary": "Wiktionary Norwegia"
+	"project-localized-name-nowiktionary": "Wiktionary Norwegia Bokmål"
 }

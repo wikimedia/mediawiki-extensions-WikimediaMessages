@@ -107,7 +107,7 @@
 	"grouppage-interface-editor": "{{ns:project}}:Käyttöliittymän muokkaajat",
 	"group-ipblock-exempt": "IP-estoista vapautetut",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP-estoista vapautettu}}",
-	"grouppage-ipblock-exempt": "{{ns:project}}:IP-estoista vapautetut",
+	"grouppage-ipblock-exempt": "{{ns:project}}:IP-estoista vapautetut käyttäjät",
 	"group-patroller": "tarkastajat",
 	"group-patroller-member": "{{GENDER:$1|tarkastaja}}",
 	"grouppage-patroller": "{{ns:project}}:Tarkastajat",
