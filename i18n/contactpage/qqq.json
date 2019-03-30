@@ -5,7 +5,8 @@
 			"Shirayuki",
 			"Liuxinyu970226",
 			"Amire80",
-			"Umherirrender"
+			"Umherirrender",
+			"Varnent"
 		]
 	},
 	"contactpage-title-requestlicense": "Used as page title on [[meta:Special:Contact/requestlicense]]",
@@ -65,5 +66,20 @@
 	"contactpage-affcom-user-group-logo-community": "Label for Wikimedia community logo radio option on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-logo-affiliate": "Label for Wikimedia affiliate logo radio option on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-title-stewards": "Page title on [[meta:Special:Contact/stewards]].",
-	"contactpage-stewards-disclaimer-label": "Label for the disclaimer on [[meta:Special:Contact/stewards]]."
+	"contactpage-stewards-disclaimer-label": "Label for the disclaimer on [[meta:Special:Contact/stewards]].",
+	"contactpage-title-movecomsignup": "Page title on [[meta:Special:Contact/movecomsignup]].",
+	"contactpage-pagetext-movecomsignup": "Used as intro on [[meta:Special:Contact/movecomsignup]]",
+	"contactpage-subject-movecomsignup": "Used as default email subject on [[meta:Special:Contact/movecomsignup]]",
+	"contactpage-movecom-signup-username-label": "Label for the username field on [[meta:Special:Contact/movecomsignup]].",
+	"contactpage-movecom-signup-affiliation-label": "Label for the affiliation field on [[meta:Special:Contact/movecomsignup]].",
+	"contactpage-movecom-signup-affiliation-affiliates": "Select Wikimedia movement affiliate as primary Wikimedia affiliation",
+	"contactpage-movecom-signup-affiliation-foundation": "Select Wikimedia Foundation as primary Wikimedia affiliation",
+	"contactpage-movecom-signup-affiliation-group": "Select Wikimedia organized group as primary Wikimedia affiliation",
+	"contactpage-movecom-signup-affiliation-projects": "Select Wikimedia projects as primary Wikimedia affiliation",
+	"contactpage-movecom-signup-affiliate-label": "Label for the affiliate name field on [[meta:Special:Contact/movecomsignup]].",
+	"contactpage-movecom-signup-display-label": "Label for the display field on [[meta:Special:Contact/movecomsignup]].",
+	"contactpage-movecom-signup-display-name": "Select to be displayed by name on [[Movement communications group]]",
+	"contactpage-movecom-signup-display-username": "Select to be displayed by username on [[Movement communications group]]",
+	"contactpage-movecom-signup-display-nameusername": "Select to be displayed by username and name on [[Movement communications group]]",
+	"contactpage-movecom-signup-terms-label": "Terms for joining [[Movement communications group]]"
 }
