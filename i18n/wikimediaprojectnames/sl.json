@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Janezdrilc"
+			"Janezdrilc",
+			"Dbc334"
 		]
 	},
 	"project-localized-name-abwiki": "Abhazijska Wikipedija",
@@ -313,13 +314,13 @@
 	"project-localized-name-nnwikiquote": "Novonorveški Wikinavedek",
 	"project-localized-name-nnwiktionary": "Novonorveški Wikislovar",
 	"project-localized-name-nostalgiawiki": "Nostalgična Wikipedija",
-	"project-localized-name-nowiki": "Norveška Wikipedija",
+	"project-localized-name-nowiki": "Wikipedija v knjižni norveščini",
 	"project-localized-name-nowikibooks": "Norveške Wikiknjige",
 	"project-localized-name-nowikimedia": "Wikimedia Norveška",
 	"project-localized-name-nowikinews": "Norveške Wikinovice",
-	"project-localized-name-nowikiquote": "Norveški Wikinavedek",
+	"project-localized-name-nowikiquote": "Wikinavedek v knjižni norveščini",
 	"project-localized-name-nowikisource": "Norveški Wikivir",
-	"project-localized-name-nowiktionary": "Norveški Wikislovar",
+	"project-localized-name-nowiktionary": "Wikislovar v knjižni norveščini",
 	"project-localized-name-nzwikimedia": "Wikimedia Nova Zelandija",
 	"project-localized-name-ocwiki": "Okcitanska Wikipedija",
 	"project-localized-name-ocwikibooks": "Okcitanske Wikiknjige",

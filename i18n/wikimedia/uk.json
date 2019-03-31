@@ -28,14 +28,15 @@
 			"Максим Підліснюк",
 			"Green Zero",
 			"SimondR",
-			"Vlad5250"
+			"Vlad5250",
+			"Gzhegozh"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=uk",
-	"sitesupport": "Пожертвування",
+	"sitesupport": "Пожертвувати",
 	"tooltip-n-sitesupport": "Підтримайте проект",
-	"specialpages-group-contribution": "Пожертвування/Збір коштів",
+	"specialpages-group-contribution": "Пожертви/Збір коштів",
 	"nstab-creator": "Автор",
 	"nstab-institution": "Установа",
 	"nstab-sequence": "Послідовність",
@@ -266,6 +267,7 @@
 	"wikibase-otherprojects-wikiversity": "Віківерситет",
 	"wikibase-otherprojects-wikivoyage": "Вікімандри",
 	"wikibase-otherprojects-wiktionary": "Вікісловник",
+	"wikibase-otherprojects-wikimania": "Вікіманія",
 	"wikibase-sitelinks-sitename-commonswiki": "Сховище",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Мета-вікі",

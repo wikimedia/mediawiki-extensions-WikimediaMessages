@@ -62,5 +62,20 @@
 	"contactpage-affcom-user-group-logo-community": "Logo da Comunidade Wikimedia",
 	"contactpage-affcom-user-group-logo-affiliate": "Logo dos afiliados da Wikimedia",
 	"contactpage-title-stewards": "Contactar Stewards",
-	"contactpage-stewards-disclaimer-label": "Aviso de legal: Toda a informação que incluir neste formulário é enviada, processada e respondida por membros voluntários da comunidade (especificamente, por [[Special:MyLanguage/Stewards]]), não pela Wikimedia Foundation. Não inclua nenhuma informação que não possa ser partilhada com os voluntários da Wikimedia, por favor. As respostas e outra correspondência relacionada com o processamento da informação enviada não são consideradas afirmações oficiais da Wikimedia Foundation. Para correspondência oficial, contacte a Wikimedia Foundation empregando um dos métodos listados em https://wikimediafoundation.org/about/contact/, por favor."
+	"contactpage-stewards-disclaimer-label": "Aviso de legal: Toda a informação que incluir neste formulário é enviada, processada e respondida por membros voluntários da comunidade (especificamente, por [[Special:MyLanguage/Stewards]]), não pela Wikimedia Foundation. Não inclua nenhuma informação que não possa ser partilhada com os voluntários da Wikimedia, por favor. As respostas e outra correspondência relacionada com o processamento da informação enviada não são consideradas afirmações oficiais da Wikimedia Foundation. Para correspondência oficial, contacte a Wikimedia Foundation empregando um dos métodos listados em https://wikimediafoundation.org/about/contact/, por favor.",
+	"contactpage-title-movecomsignup": "Junte-se à lista de discussão do grupo de comunicações do Movimento",
+	"contactpage-pagetext-movecomsignup": "Por favor use o formulário abaixo para se inscrever na lista de discussão.[[Movement communications group]].",
+	"contactpage-subject-movecomsignup": "inscrever-se no grupo de comunicações de movimento",
+	"contactpage-movecom-signup-username-label": "Seu(s) nome(s) de usuário",
+	"contactpage-movecom-signup-affiliation-label": "Sua principal afiliação com comunicações de movimento da Wikimedia",
+	"contactpage-movecom-signup-affiliation-affiliates": "Afiliado do movimento Wikimedia (capítulos, organizações temáticas, grupos de usuários)",
+	"contactpage-movecom-signup-affiliation-foundation": "Fundação Wikimedia",
+	"contactpage-movecom-signup-affiliation-group": "Grupo organizado pela Wikimedia (WikiProject, comitê comunitário, etc.)",
+	"contactpage-movecom-signup-affiliation-projects": "Projectos da Wikimedia (Wikipédia, Wikidata, Wikcionário, etc.)",
+	"contactpage-movecom-signup-affiliate-label": "Nome do seu grupo Wikimedia ou afiliado (se aplicável)",
+	"contactpage-movecom-signup-display-label": "Por favor, selecione como você gostaria de ser listado na página [[Movement communications group]]",
+	"contactpage-movecom-signup-display-name": "Nome",
+	"contactpage-movecom-signup-display-username": "Nome de usuário",
+	"contactpage-movecom-signup-display-nameusername": "Nome e nome de usuário",
+	"contactpage-movecom-signup-terms-label": "Eu li sobre o descrição [[Movement communications group]] e concorda em seguir a [[Foundation:Friendly space policy|Política de espaço amigável da Fundação Wikimedia]] durante a minha participação com este grupo. Entendo que o não cumprimento desta política resultará na remoção do grupo."
 }

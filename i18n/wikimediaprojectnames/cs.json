@@ -3,7 +3,8 @@
 		"authors": [
 			"Matěj Suchánek",
 			"Ilimanaq29",
-			"Martin Urbanec"
+			"Martin Urbanec",
+			"Patriccck"
 		]
 	},
 	"project-localized-name-amwikimedia": "Wikimedia Arménie",
@@ -73,5 +74,13 @@
 	"project-localized-name-dewikivoyage": "Německé Wikicesty",
 	"project-localized-name-dewiktionary": "Německý Wikislovník",
 	"project-localized-name-donatewiki": "Darujte",
-	"project-localized-name-enwikiquote": "Anglické Wikicitáty"
+	"project-localized-name-enwiki": "Anglická Wikipedie",
+	"project-localized-name-enwikibooks": "Anglické Wikiknihy",
+	"project-localized-name-enwikinews": "Anglické Wikizprávy",
+	"project-localized-name-enwikiquote": "Anglické Wikicitáty",
+	"project-localized-name-enwikisource": "Anglické Wikizdroje",
+	"project-localized-name-enwikiversity": "Anglická Wikiverzita",
+	"project-localized-name-enwikivoyage": "Anglické Wikicesty",
+	"project-localized-name-enwiktionary": "Anglický Wikislovník",
+	"project-localized-name-incubatorwiki": "Inkubátor Wikimedia"
 }
