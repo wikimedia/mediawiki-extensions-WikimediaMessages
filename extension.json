@@ -91,15 +91,9 @@
 		"GetPreferences": [
 			"WikimediaMessagesHooks::onGetPreferences"
 		],
-		"SpecialPageBeforeFormDisplay": [
-			"WikimediaMessagesHooks::onSpecialPageBeforeFormDisplay"
-		],
 		"SpecialPageBeforeExecute": [
 			"WikimediaMessagesHooks::onSpecialPageBeforeExecute"
 		]
-	},
-	"config": {
-		"SpecialBlockFeedbackRequest": false
 	},
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
