@@ -60,5 +60,20 @@
 	"contactpage-affcom-user-group-logo-community": "лого на Викимедиина заедница",
 	"contactpage-affcom-user-group-logo-affiliate": "лого на Викимедиина подружница",
 	"contactpage-title-stewards": "Обратете се кај надзорниците",
-	"contactpage-stewards-disclaimer-label": "Напомена: Сите информации што ќе ги наведете во образецов одат кај доброволци од заедницата (поточно [[Special:MyLanguage/Stewards|надзорниците]], кои воедно го обработуваат добиеното и даваат одговори), а не кај Фондацијата Викимедија. Не ставајте иноформации што не сакате да ги споделите со доброволците на Викимедија. Одговорите и другите преписки во врска со обработката на поднесените информации не претставуваат официјални изјави на Фондацијата Викимедија. За официјална преписка, обратете се кај Фондацијата на еден од начините наведени на  https://wikimediafoundation.org/about/contact/."
+	"contactpage-stewards-disclaimer-label": "Напомена: Сите информации што ќе ги наведете во образецов одат кај доброволци од заедницата (поточно [[Special:MyLanguage/Stewards|надзорниците]], кои воедно го обработуваат добиеното и даваат одговори), а не кај Фондацијата Викимедија. Не ставајте иноформации што не сакате да ги споделите со доброволците на Викимедија. Одговорите и другите преписки во врска со обработката на поднесените информации не претставуваат официјални изјави на Фондацијата Викимедија. За официјална преписка, обратете се кај Фондацијата на еден од начините наведени на  https://wikimediafoundation.org/about/contact/.",
+	"contactpage-title-movecomsignup": "Пријавете се за поштенскиот список „Група за општење во движењето“",
+	"contactpage-pagetext-movecomsignup": "Со долунаведениот образец пријавете се на поштенскиот список „[[Movement communications group|Група за општење во движењето]]“.",
+	"contactpage-subject-movecomsignup": "Пријава за „Група за општење во движењето“",
+	"contactpage-movecom-signup-username-label": "Вашето корисничко име или имиња",
+	"contactpage-movecom-signup-affiliation-label": "Ваша главна припадност кон општењето во движењето на Викимедија",
+	"contactpage-movecom-signup-affiliation-affiliates": "Викимедиина подружница (огрноци, тематски организации, кориснички групи)",
+	"contactpage-movecom-signup-affiliation-foundation": "Фондација Викимедија",
+	"contactpage-movecom-signup-affiliation-group": "Организирана Викимедиина група (википроект, одбор на заедница и тн.)",
+	"contactpage-movecom-signup-affiliation-projects": "Викимедиини проекти (Википедија, Википодатоци, Викиречник и тн.)",
+	"contactpage-movecom-signup-affiliate-label": "Назив на вашата Викимедиина група или подружница (ако ја имате)",
+	"contactpage-movecom-signup-display-label": "Изберете како сакате да бидете наведени на страницата „[[Movement communications group|Група за општење во движењето]]“",
+	"contactpage-movecom-signup-display-name": "Име",
+	"contactpage-movecom-signup-display-username": "Корисничко име",
+	"contactpage-movecom-signup-display-nameusername": "Име и презиме",
+	"contactpage-movecom-signup-terms-label": "Го прочитав описот на [[Movement communications group|Групата за општење во движењето]] и се согласувам да се придржувам кон [[Foundation:Friendly space policy|правилата за љубезност на просторот]] кога учествувам во групава. Разбирам дека ќе бидам отстранет од неа доколку не се придржувам до правилата."
 }

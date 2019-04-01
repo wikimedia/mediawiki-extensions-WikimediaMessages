@@ -40,5 +40,12 @@
 	"contactpage-license-abuse-theircontact": "Informazioni di contatto della persona che abusa del marchio (se noto)",
 	"contactpage-license-abuse-yourcontact": "I suoi recapiti (in caso avessimo bisogno di metterci in contatto)",
 	"contactpage-affcom-user-group-logo-community": "Logo della comunità di Wikimedia",
-	"contactpage-title-stewards": "Contatta steward"
+	"contactpage-title-stewards": "Contatta steward",
+	"contactpage-movecom-signup-username-label": "Il tuo nome utente",
+	"contactpage-movecom-signup-affiliation-foundation": "Wikimedia Foundation",
+	"contactpage-movecom-signup-affiliation-projects": "Progetti Wikimedia (Wikipedia, Wikidata, Wiktionary, ecc.)",
+	"contactpage-movecom-signup-affiliate-label": "Nome del tuo gruppo Wikimedia o affiliato (se applicabile)",
+	"contactpage-movecom-signup-display-name": "Nome",
+	"contactpage-movecom-signup-display-username": "Nome utente",
+	"contactpage-movecom-signup-display-nameusername": "Nome e nome utente"
 }

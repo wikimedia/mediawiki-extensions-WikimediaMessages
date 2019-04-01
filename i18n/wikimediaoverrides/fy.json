@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"PiefPafPier"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mei kiezen)]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Meidochnammebelied"
+}
