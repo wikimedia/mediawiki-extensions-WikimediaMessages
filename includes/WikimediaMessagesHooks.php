@@ -1501,6 +1501,42 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
+	 * Handle SpecialPageBeforeExecute hook
+	 *
+	 * @param SpecialPage $special
+	 * @param string $subPage
+	 */
+	public static function onSpecialPageBeforeExecute( SpecialPage $special, $subPage ) {
+		if ( $special->getName() !== 'Block' ) {
+			return;
+		}
+
+		$output = $special->getOutput();
+
+		$output->enableOOUI();
+		$output->addModuleStyles( [ 'mediawiki.special.block.feedback.request' ] );
+
+		$icon = new OOUI\IconWidget( [
+			'icon' => 'feedback',
+		] );
+
+		$link = Html::rawElement(
+			'a',
+			[
+				'href' => 'https://meta.wikimedia.org/wiki/Special:MyLanguage/' .
+					'Community_health_initiative/Blocking_tools_and_improvements/Feedback',
+				'target' => '_blank',
+				'class' => 'mw-feedbacklink',
+			],
+			$icon . $special->msg( 'specialblockfeedback' )->escaped()
+		);
+
+		$output->setIndicators(
+			[ 'mw-feedbacklink' => $link ]
+		);
+	}
+
+	/**
 	 * Add request for feedback on Special page(s).
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SpecialPageBeforeFormDisplay

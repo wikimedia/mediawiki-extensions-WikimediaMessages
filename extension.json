@@ -93,6 +93,9 @@
 		],
 		"SpecialPageBeforeFormDisplay": [
 			"WikimediaMessagesHooks::onSpecialPageBeforeFormDisplay"
+		],
+		"SpecialPageBeforeExecute": [
+			"WikimediaMessagesHooks::onSpecialPageBeforeExecute"
 		]
 	},
 	"config": {
