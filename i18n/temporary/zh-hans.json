@@ -13,7 +13,5 @@
 	"group-oversight-member": "{{GENDER:$1|监督员}}",
 	"hello": "您好",
 	"please-translate": "请帮助翻译至您的语言",
-	"thank-you": "{{GENDER:$1|感谢您。}}",
-	"specialblockfeedbackrequest": "目前正在就改进此封禁工具进行讨论。请查看设计并加入讨论。",
-	"specialblockfeedbackrequestcta": "帮助改进封禁"
+	"thank-you": "{{GENDER:$1|感谢您。}}"
 }

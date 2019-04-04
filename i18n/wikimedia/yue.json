@@ -9,7 +9,8 @@
 			"Obonggi",
 			"Suzukaze-c",
 			"Shinjiman",
-			"Hello903hello"
+			"Hello903hello",
+			"Deryck Chan"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -71,7 +72,7 @@
 	"group-global-bot": "全域機械人",
 	"group-global-bot-member": "全域機械人",
 	"group-global-rollbacker": "全域反轉者",
-	"group-global-rollbacker-member": "全域反轉者",
+	"group-global-rollbacker-member": "{{GENDER:$1|全域反轉者}}",
 	"group-global-sysop": "全域管理員",
 	"group-ombudsman": "申訴專員",
 	"group-ombudsman-member": "申訴專員",

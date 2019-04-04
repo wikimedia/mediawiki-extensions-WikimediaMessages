@@ -11,6 +11,5 @@
 	"hello": "Cià",
 	"please-translate": "Danne 'na màne a traducere 'a lènga toje",
 	"thank-you": "{{GENDER:$1|Grazie.}}",
-	"specialblockfeedbackrequest": "Stè 'nu 'ngazzamende sus a cumme ffà megghie stu strumende pe le blocche. 'Ndruche 'u design nuève e auniscete a 'u 'ngazzamende",
-	"specialblockfeedbackrequestcta": "Danne 'na màne a migliorà 'u blocche de le utinde"
+	"specialblockfeedback": "Segnalazione"
 }

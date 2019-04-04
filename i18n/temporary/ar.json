@@ -13,6 +13,5 @@
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
-	"specialblockfeedbackrequest": "هناك نقاشٌ جارٍ حول تحسينات أداة المنع هذه. انضم لنا وتحقق من التصاميم.",
-	"specialblockfeedbackrequestcta": "ساعد في تحسين المنع"
+	"specialblockfeedback": "التغذية الراجعة"
 }

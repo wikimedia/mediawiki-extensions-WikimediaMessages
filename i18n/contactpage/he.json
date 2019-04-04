@@ -62,5 +62,20 @@
 	"contactpage-affcom-user-group-logo-community": "סמל קהילת ויקימדיה",
 	"contactpage-affcom-user-group-logo-affiliate": "סמל שותף של ויקימדיה",
 	"contactpage-title-stewards": "יצירת קשר עם הדיילים",
-	"contactpage-stewards-disclaimer-label": "הגבלת אחריות: כל המידע שייכלל בטופס הזה נשלח אל חברי קהילה מתנדבים (בפרט, [[Special:MyLanguage/Stewards|הדיילים]]), מעובד על־ידיהם, ומקבל מענה מהם, והדברים האלה אינם נעשים על־ידי קרן ויקימדיה. אין לכלול כאן שום מידע שאינך חש או חשה בנוח לשתף עם מתנדבי ויקימדיה. תשובות והתכתבויות אחרות שקשורים לעיבוד המידע שנשלח אינם יכולים להיחשב להצהרות רשמיות של קרן ויקימדיה. להתכתבות רשמית נא לפנות לקרן ויקימדיה בדרכים שמפורטות בדף https://wikimediafoundation.org/about/contact/."
+	"contactpage-stewards-disclaimer-label": "הגבלת אחריות: כל המידע שייכלל בטופס הזה נשלח אל חברי קהילה מתנדבים (בפרט, [[Special:MyLanguage/Stewards|הדיילים]]), מעובד על־ידיהם, ומקבל מענה מהם, והדברים האלה אינם נעשים על־ידי קרן ויקימדיה. אין לכלול כאן שום מידע שאינך חש או חשה בנוח לשתף עם מתנדבי ויקימדיה. תשובות והתכתבויות אחרות שקשורים לעיבוד המידע שנשלח אינם יכולים להיחשב להצהרות רשמיות של קרן ויקימדיה. להתכתבות רשמית נא לפנות לקרן ויקימדיה בדרכים שמפורטות בדף https://wikimediafoundation.org/about/contact/.",
+	"contactpage-title-movecomsignup": "הצטרפות לרשימת התפוצה בנושא תקשורת התנועה",
+	"contactpage-pagetext-movecomsignup": "נא להשתמש בטופס להלן כדי להירשם לרשימת התפוצה של [[Movement communications group|קבוצת התקשורת בתנועה]]",
+	"contactpage-subject-movecomsignup": "רישום לקבוצת התקשורת בתנועה",
+	"contactpage-movecom-signup-username-label": "שם המשתמש שלך",
+	"contactpage-movecom-signup-affiliation-label": "ההשתייכות העיקרית שלך לתקשורת בתנועת ויקימדיה",
+	"contactpage-movecom-signup-affiliation-affiliates": "ארגון חבר של תנועת ויקימדיה (עמותו, ארגונים נושאיים, קבוצות משתמשים)",
+	"contactpage-movecom-signup-affiliation-foundation": "קרן ויקימדיה",
+	"contactpage-movecom-signup-affiliation-group": "קבוצה מאורגנת של ויקימדיה (מיזם, ועדה קהילתית, וכו')",
+	"contactpage-movecom-signup-affiliation-projects": "מיזמי ויקימדיה (ויקיפדיה, ויקינתונים, ויקימילון, וכו')",
+	"contactpage-movecom-signup-affiliate-label": "שם הקבוצה שלך (אם זה מתאים)",
+	"contactpage-movecom-signup-display-label": "נא לבחור איך ברצונך להיות רשום בדף [[Movement communications group]]",
+	"contactpage-movecom-signup-display-name": "שם",
+	"contactpage-movecom-signup-display-username": "שם משתמש",
+	"contactpage-movecom-signup-display-nameusername": "שם ושם משתמש",
+	"contactpage-movecom-signup-terms-label": "קראתי את התיאור של [[Movement communications group]] ואני מסכים ל[[Foundation:Friendly space policy|מדיניות מרחב ידידותי של קרן ויקימדיה]] בזמן ההשתתפות שלי בקבוצה הזאת. אני מבין שחריגה מהמדיניות הזאת תוביל להוצאתי מהקבוצה."
 }

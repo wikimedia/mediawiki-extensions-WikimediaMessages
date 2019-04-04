@@ -13,6 +13,5 @@
 	"hello": "Hallo",
 	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen",
 	"thank-you": "{{GENDER:$1|Vielen Dank.}}",
-	"specialblockfeedbackrequest": "Es findet derzeit eine Diskussion über Verbesserungen an diesem Sperrwerkzeug statt. Schau dir die Entwürfe an und nimm an der Diskussion teil.",
-	"specialblockfeedbackrequestcta": "Bei der Verbesserung der Sperren helfen"
+	"specialblockfeedback": "Rückmeldung"
 }

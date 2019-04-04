@@ -13,7 +13,5 @@
 	"group-oversight": "מסתירים",
 	"group-oversight-member": "{{GENDER:$1|מסתיר|מסתירה}}",
 	"hello": "שלום",
-	"please-translate": "אנא סייעו בתרגום הדף",
-	"specialblockfeedbackrequest": "מתקיים דיון לגבי שיפורים בכלי החסימה הזה. באפשרותך לבדוק את העיצובים ולהצטרף לדיון.",
-	"specialblockfeedbackrequestcta": "עזרה בשיפור כלי החסימה"
+	"please-translate": "אנא סייעו בתרגום הדף"
 }

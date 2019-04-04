@@ -12,6 +12,5 @@
 	"group-oversight-member": "গোপন পর্যবেক্ষক",
 	"hello": "হ্যালো",
 	"please-translate": "দয়া করে আপনার ভাষায় অনুবাদ করতে সাহায্য করুন",
-	"thank-you": "{{GENDER:$1|আপনাকে ধন্যবাদ।}}",
-	"specialblockfeedbackrequestcta": "বাধা প্রদান উন্নত করতে সাহায্য করুন"
+	"thank-you": "{{GENDER:$1|আপনাকে ধন্যবাদ।}}"
 }

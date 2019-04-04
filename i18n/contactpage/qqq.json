@@ -6,7 +6,8 @@
 			"Liuxinyu970226",
 			"Amire80",
 			"Umherirrender",
-			"Varnent"
+			"Varnent",
+			"Robby"
 		]
 	},
 	"contactpage-title-requestlicense": "Used as page title on [[meta:Special:Contact/requestlicense]]",
@@ -78,7 +79,7 @@
 	"contactpage-movecom-signup-affiliation-projects": "Select Wikimedia projects as primary Wikimedia affiliation",
 	"contactpage-movecom-signup-affiliate-label": "Label for the affiliate name field on [[meta:Special:Contact/movecomsignup]].",
 	"contactpage-movecom-signup-display-label": "Label for the display field on [[meta:Special:Contact/movecomsignup]].",
-	"contactpage-movecom-signup-display-name": "Select to be displayed by name on [[Movement communications group]]",
+	"contactpage-movecom-signup-display-name": "Select to be displayed by name on [[Movement communications group]]\n{{Identical|Name}}",
 	"contactpage-movecom-signup-display-username": "Select to be displayed by username on [[Movement communications group]]",
 	"contactpage-movecom-signup-display-nameusername": "Select to be displayed by username and name on [[Movement communications group]]",
 	"contactpage-movecom-signup-terms-label": "Terms for joining [[Movement communications group]]"

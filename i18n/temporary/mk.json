@@ -11,7 +11,5 @@
 	"group-oversight-member": "{{GENDER:$1|скривач}}",
 	"hello": "Здраво",
 	"please-translate": "Помогнете со преводот на вашиот јазик",
-	"thank-you": "{{GENDER:$1|Благодариме.}}",
-	"specialblockfeedbackrequest": "Се одвива расправа за подобрувањата на оваа алатка за блокирање. Погледајте ги осмислените решенија и придружете ни се.",
-	"specialblockfeedbackrequestcta": "Да го подобриме блокирањето"
+	"thank-you": "{{GENDER:$1|Благодариме.}}"
 }

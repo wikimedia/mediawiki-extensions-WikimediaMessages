@@ -13,6 +13,5 @@
 	"hello": "Ciao",
 	"please-translate": "Aiutaci a tradurre nella tua lingua",
 	"thank-you": "{{GENDER:$1|Grazie.}}",
-	"specialblockfeedbackrequest": "C'è una discussione sul miglioramento di questo strumento per i blocchi. Vedi il nuovo design e unisciti alla conversazione.",
-	"specialblockfeedbackrequestcta": "Aiuta a migliorare il blocco degli utenti"
+	"specialblockfeedback": "Feedback"
 }

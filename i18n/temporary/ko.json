@@ -14,7 +14,5 @@
 	"group-oversight-member": "{{GENDER:$1|기록보호자}}",
 	"hello": "안녕하세요",
 	"please-translate": "당신의 언어로 번역해 주세요",
-	"thank-you": "{{GENDER:$1|고맙습니다.}}",
-	"specialblockfeedbackrequest": "이 차단 도구의 개선에 관한 토론이 있습니다. 디자인을 살펴보고 참여해 주십시오.",
-	"specialblockfeedbackrequestcta": "차단 개선 지원"
+	"thank-you": "{{GENDER:$1|고맙습니다.}}"
 }
