@@ -11,5 +11,6 @@
 	"group-oversight-member": "{{GENDER:$1|скривач}}",
 	"hello": "Здраво",
 	"please-translate": "Помогнете со преводот на вашиот јазик",
-	"thank-you": "{{GENDER:$1|Благодариме.}}"
+	"thank-you": "{{GENDER:$1|Благодариме.}}",
+	"specialblockfeedback": "Мислења"
 }

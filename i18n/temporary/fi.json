@@ -4,7 +4,8 @@
 			"Nedergard",
 			"Nike",
 			"Pxos",
-			"01miki10"
+			"01miki10",
+			"Pyscowicz"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit",
@@ -12,5 +13,6 @@
 	"group-oversight": "häivyttäjät",
 	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
-	"thank-you": "{{GENDER:$1|Kiitos.}}"
+	"thank-you": "{{GENDER:$1|Kiitos.}}",
+	"specialblockfeedback": "Palaute"
 }
