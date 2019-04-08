@@ -88,7 +88,7 @@
 	"grouppage-global-renamer": "m:Global renamers/th",
 	"group-global-rollbacker": "ผู้ย้อนรวดเดียวทั่วโลก",
 	"group-global-rollbacker-member": "{{GENDER:$1|ผู้ย้อนรวดเดียวทั่วโลก}}",
-	"grouppage-global-rollbacker": "m:Global rollback/th",
+	"grouppage-global-rollbacker": "m:ผู้ย้อนรวดเดียวทั่วโลก/th",
 	"group-oauthadmin": "ผู้ดูแลระบบโอออท",
 	"group-oauthadmin-member": "{{GENDER:$1|ผู้ดูแลระบบโอออท}}",
 	"grouppage-oauthadmin": "{{ns:project}}:ผู้ดูแลระบบโอออท",

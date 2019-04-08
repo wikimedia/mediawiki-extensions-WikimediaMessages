@@ -16,5 +16,6 @@
 	"group-oversight-member": "{{GENDER:$1|ревизор}}",
 	"hello": "Привет",
 	"please-translate": "Пожалуйста, помогите перевести на ваш язык",
-	"thank-you": "{{GENDER:$1|Спасибо.}}"
+	"thank-you": "{{GENDER:$1|Спасибо.}}",
+	"specialblockfeedback": "Обратная связь"
 }

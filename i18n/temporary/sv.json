@@ -13,5 +13,6 @@
 	"group-oversight-member": "{{GENDER:$1|censor}}",
 	"hello": "Hallå",
 	"please-translate": "Hjälp till att översätta till ditt språk",
-	"thank-you": "{{GENDER:$1|Tack.}}"
+	"thank-you": "{{GENDER:$1|Tack.}}",
+	"specialblockfeedback": "Återkoppling"
 }

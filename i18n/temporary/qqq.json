@@ -4,7 +4,8 @@
 			"Metalhead64",
 			"Shirayuki",
 			"Liuxinyu970226",
-			"Umherirrender"
+			"Umherirrender",
+			"Robby"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Temporary Messages}}",
@@ -14,5 +15,5 @@
 	"hello": "Standalone word used as a greeting or beginning of a crosswiki message.\n{{Identical|Hello}}",
 	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate.",
 	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}",
-	"specialblockfeedback": "Label for the feedback link at the top of [[Special:Block]]"
+	"specialblockfeedback": "Label for the feedback link at the top of [[Special:Block]]\n{{Identical|Feedback}}"
 }

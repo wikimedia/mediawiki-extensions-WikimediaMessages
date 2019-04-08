@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Lanciné.kounfantoh.fofana",
-			"Babamamadidianee"
+			"Babamamadidianee",
+			"Lancine.kounfantoh.fofana"
 		]
 	},
 	"wm-license-information-description": "ߕߐ߯ߟߊߘߏ߲",
@@ -11,5 +12,6 @@
 	"wm-license-information-author": "ߛߓߍߦߟߊ",
 	"wm-license-information-permission": "ߘߌ߬ߢߍ߬ߟߊ߬ߢߌ߬ߣߌ߲߬",
 	"wm-license-information-permission-reusing-text": "ߞߐߕߐ߮ ߣߌ߲߬ ߠߊߓߊ߯ߙߊ߫ ߕߎ߲߯",
-	"wm-license-own-work": "ߟߊ߫ ߓߊ߯ߙߊ ߟߋ߫ ߘߌ߫"
+	"wm-license-own-work": "ߟߊ߫ ߓߊ߯ߙߊ ߟߋ߫ ߘߌ߫",
+	"wm-license-self-multiple-licenses-select": "ߌ ߘߌ߫ ߛߴߌ ߘߌߦߊߣߊ߲߫ ߕߦߊ ߛߎߥߊ߲ߘߌ߫ ߟߊ߫"
 }

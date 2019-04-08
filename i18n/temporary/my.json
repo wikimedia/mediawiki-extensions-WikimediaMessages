@@ -4,5 +4,6 @@
 			"Dr Lotus Black"
 		]
 	},
-	"thank-you": "{{GENDER:$1|ကျေးဇူးတင်ပါသည်}}"
+	"thank-you": "{{GENDER:$1|ကျေးဇူးတင်ပါသည်}}",
+	"specialblockfeedback": "အကြံပေးရန်"
 }

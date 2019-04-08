@@ -276,7 +276,7 @@
 	"eri-rcfilters-tour-confirm-title": "新しいフィルタが有効になりました",
 	"eri-rcfilters-tour-confirm-description": "利用者の<strong>ベータ版機能のページ</strong>を開くと、ご意見ご質問の投稿や機能の無効化ができます。",
 	"wikimedia-centralauth-contribs-locked": "このアカウントはグローバルロックされています。詳細は[[m:Special:CentralAuth/$1|グローバルアカウント情報]]を参照して下さい。",
-	"right-viewdeletedfile": "名前空間 {{ns:file}} 及び{{ns:file_talk}} の中の削除されたファイルやページを閲覧することができる。",
+	"right-viewdeletedfile": "名前空間 {{ns:file}} および {{ns:file_talk}} 内の削除されたファイルやページを閲覧",
 	"securepoll-dblist-securepollglobal": "理事会選挙",
 	"wikimedia-cookiestatement": "Cookieに関する声明",
 	"ext-quicksurveys-performance-internal-survey-question": "ページの読み込みは遅くありませんか？"
