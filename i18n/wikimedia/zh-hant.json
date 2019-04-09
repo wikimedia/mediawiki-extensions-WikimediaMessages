@@ -325,7 +325,7 @@
 	"eri-rcfilters-tour-confirm-description": "你可以存取<strong>測試功能頁面</strong>以回饋或停用該功能。",
 	"eri-wlfilters-tour-intro-welcome-title": "歡迎來到改進的監視清單過濾器",
 	"eri-wlfilters-tour-intro-preferences-description": "隨時存取在偏好設定裡的監視清單分頁，並關閉已改進的監視清單。",
-	"wikimedia-centralauth-contribs-locked": "此帳號已被全域鎖定。\n請參考 [[m:Special:CentralAuth/$1|全域帳號詳細資料]] 以取得更多資訊。",
+	"wikimedia-centralauth-contribs-locked": "此帳號已被全域鎖定。請參考[[m:Special:CentralAuth/$1|全域帳號詳細資料]]以取得更多資訊。",
 	"right-viewdeletedfile": "查看{{ns:file}}和{{ns:file_talk}}命名空間中已刪除的檔案及頁面",
 	"securepoll-dblist-securepollglobal": "董事會選舉",
 	"wikimedia-cookiestatement": "Cookie 聲明",
