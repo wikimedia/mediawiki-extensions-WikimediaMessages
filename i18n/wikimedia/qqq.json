@@ -359,5 +359,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "The question for the perceived performance internal survey",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Points to the privacy statement specific to the perceived performance internal survey",
 	"wikimedia-switchover-read-only": "Text shown during read only period of database switchovers. Used in [https://www.mediawiki.org/wiki/Manual:$wgReadOnly $wgReadOnly].",
-	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation"
+	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation",
+	"technical-maintenance-soon": "The first part of a message used in a banner shown during maintenance window",
+	"technical-maintenance-edit": "A message shown during maintenance window when editing is locked"
 }
