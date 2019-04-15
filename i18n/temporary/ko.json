@@ -14,5 +14,6 @@
 	"group-oversight-member": "{{GENDER:$1|기록보호자}}",
 	"hello": "안녕하세요",
 	"please-translate": "당신의 언어로 번역해 주세요",
-	"thank-you": "{{GENDER:$1|고맙습니다.}}"
+	"thank-you": "{{GENDER:$1|고맙습니다.}}",
+	"specialblockfeedback": "피드백"
 }
