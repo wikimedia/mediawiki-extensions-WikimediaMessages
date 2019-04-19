@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ghaly"
+			"Ghaly",
+			"Meno25"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:اوڤرسايت",
 	"group-oversight": "اوڤرسايترز",
-	"group-oversight-member": "اوڤرسايتر"
+	"group-oversight-member": "{{GENDER:$1|اوڤرسايتر}}"
 }
