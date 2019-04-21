@@ -269,6 +269,7 @@ class WikimediaMessagesHooks {
 		$skin = $tpl->getSkin();
 		// This will work only on mobile site because only SkinMobile has this method
 		if ( method_exists( $skin, 'getTermsLink' ) ) {
+			/** @phan-suppress-next-line PhanUndeclaredMethod */
 			$tpl->set( 'terms-use', $skin->getTermsLink( 'wikimedia-mobile-terms-url' ) );
 		}
 	}
