@@ -6,7 +6,8 @@
 			"Ahonc",
 			"Ата",
 			"Alex Khimich",
-			"Piramidion"
+			"Piramidion",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Тимчасові повідомлення для Вікімедіа",
@@ -15,5 +16,6 @@
 	"group-oversight-member": "{{GENDER:$1|ревізор}}",
 	"hello": "Привіт",
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
-	"thank-you": "{{GENDER:$1|Дякуємо.}}"
+	"thank-you": "{{GENDER:$1|Дякуємо.}}",
+	"specialblockfeedback": "Зворотний зв'язок"
 }
