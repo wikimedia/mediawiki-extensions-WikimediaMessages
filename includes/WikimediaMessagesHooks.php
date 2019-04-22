@@ -13,7 +13,7 @@ class WikimediaMessagesHooks {
 	 * @param String &$lcKey message key to check and possibly convert
 	 */
 	public static function onMessageCacheGet( &$lcKey ) {
-		global $wgLanguageCode, $wmgRealm;
+		global $wgLanguageCode, $wmgRealm, $wgDBname;
 
 		static $keys = [
 			'acct_creation_throttle_hit',
@@ -41,10 +41,16 @@ class WikimediaMessagesHooks {
 			'ipb-confirmhideuser', // T121639
 		];
 
+		static $allbutmetawikikeys = [
+			'urlshortener-disabled', // T221526
+			'apierror-urlshortener-disabled', // T221526
+		];
+
 		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
 			$lcKey = 'wikimedia-privacypage-labs';
 		} else {
-			if ( in_array( $lcKey, $keys, true ) ) {
+			if ( in_array( $lcKey, $keys, true ) ||
+				( $wgDBname !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) ) ) {
 				$transformedKey = "wikimedia-$lcKey";
 			} else {
 				$transformedKey = self::transformKeyForGettingStarted( $lcKey );
