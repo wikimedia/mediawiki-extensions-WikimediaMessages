@@ -5,7 +5,8 @@
 			"Reedy",
 			"Shirayuki",
 			"Chase me ladies, I'm the Cavalry",
-			"Andibing"
+			"Andibing",
+			"Mvolz"
 		]
 	},
 	"contactpage-title-requestlicense": "Request a licence form",
@@ -49,5 +50,6 @@
 	"contactpage-affcom-user-group-terms-label": "I have read and agree to the above rules and to the [[Wikimedia user groups/Agreement and code of conduct|User group agreement and code of conduct]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "''If you wish to use the '''Wikimedia logo''', you may [[Special:Contact/requestlicense|request a trademark license]].''",
 	"contactpage-affcom-user-group-logo-community": "Wikimedia community logo",
-	"contactpage-affcom-user-group-logo-affiliate": "Wikimedia affiliate logo"
+	"contactpage-affcom-user-group-logo-affiliate": "Wikimedia affiliate logo",
+	"contactpage-movecom-signup-affiliation-group": "Wikimedia organised group (WikiProject, community committee, etc.)"
 }

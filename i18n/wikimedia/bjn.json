@@ -5,7 +5,10 @@
 			"Nemo bis"
 		]
 	},
+	"sitesupport": "Manyumbang",
+	"tooltip-n-sitesupport": "Dukung kami",
 	"group-abusefilter": "Editor filter panyalahgunaan",
 	"group-bigexport": "Ikspurtir ganal",
+	"wikimedia-copyright": "Téks tasadia di bawah <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>; katantuan tambahan mungkin balaku. Lihat <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use-Summary/id\">Katantuan Pamakaian</a> gasan labih jalasnya.",
 	"wikimedia-copyrightwarning": "Lawan mangaklik picikan \"{{int:savearticle}}\", Pian hakun haja kapada [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Katantuan mamakai], wan Pian satarusnya malapas sumbangan Pian--kada kawa dijumput lagi-- di bawah [https://creativecommons.org/licenses/by-sa/3.0/ Lisansi CC-BY-SA 3.0] wan [https://www.gnu.org/copyleft/fdl.html GFDL].\nPian hakun haja kalu sabuting tautan atawa URL cukup manaliakan di bawah lisénsi Creative Commons."
 }
