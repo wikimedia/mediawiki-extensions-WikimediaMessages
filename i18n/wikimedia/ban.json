@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Carma citrawati"
+			"Carma citrawati",
+			"Joseagush"
 		]
 	},
 	"sitesupport": "madana punia",
 	"tooltip-n-sitesupport": "dukung iraga",
-	"wikimedia-copyright": "teks sané wénten ring sor puniki <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nwénten kawewehin ketentuan lianan\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> sajangkepnyané"
+	"wikimedia-copyright": "teks sané wénten ring sor puniki <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nwénten kawewehin ketentuan lianan\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> sajangkepnyané",
+	"wikibase-sitelinks-wikinews": "Wikiwarta",
+	"wikibase-sitelinks-wikiquote": "Wikikutip",
+	"wikibase-sitelinks-wikisource": "Wikipustaka",
+	"wikibase-sitelinks-wikivoyage": "Wikijalan-jalan",
+	"wikimedia-developers": "Pengembang"
 }

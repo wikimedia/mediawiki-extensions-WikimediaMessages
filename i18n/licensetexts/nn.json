@@ -15,6 +15,8 @@
 	"wm-license-artwork-references": "Referansar",
 	"wm-license-artwork-id": "Museumsnummer",
 	"wm-license-artwork-source": "Kjelde/Fotograf",
+	"wm-license-creator-description": "Skildring",
+	"wm-license-creator-date-of-birth-and-death": "Fødsels-/dødsdato",
 	"wm-license-fsf-wiki-link": "w:nn:Free Software Foundation",
 	"wm-license-gfdl-1.2-and-later": "Det er tillate å  kopiera, distribuera og/eller modifisera dette dokumentet under retningslinene som er skildra i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU fri dokumentasjonslisens]]''', versjon 1.2 eller seinare utgåve utgjeven av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; med alle seksjonane, utan nokon framsidetekstar og baksidetekstar. Ein kopi av lisensen er inkludert i avsnittet ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:nn:GNU Free Documentation License",
