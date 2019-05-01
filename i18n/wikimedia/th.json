@@ -70,6 +70,7 @@
 	"group-rollbacker-member": "{{GENDER:$1|ผู้ย้อนรวดเดียว}}",
 	"grouppage-rollbacker": "{{ns:project}}:ผู้ย้อนรวดเดียว",
 	"group-transwiki": "ผู้นำเข้าข้ามวิกิ",
+	"group-transwiki-member": "{{GENDER:$1|ผู้นำเข้าข้ามวิกิ}}",
 	"grouppage-transwiki": "{{ns:project}}:ผู้นำเข้าข้ามวิกิ",
 	"group-trusted": "ผู้ใช้ที่เชื่อถือได้",
 	"group-trusted-member": "ผู้ใช้ที่เชื่อถือได้",
