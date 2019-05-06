@@ -15,5 +15,6 @@
 	"wikibase-sitelinks-wikiquote": "Wikikutip",
 	"wikibase-sitelinks-wikisource": "Wikipamulaan",
 	"wikibase-sitelinks-wikivoyage": "Wikiwisata",
-	"wikimedia-developers": "Pangambang"
+	"wikimedia-developers": "Pangambang",
+	"wikimedia-globalblocking-ipblocked": "'''Alamat IP Pian sudah [[m:Special:MyLanguage/Global blocks|diblukir pada samunyaan wiki]].'''\n\nPamblukiran digawi ulih $1 ($2).\nAlasan nang dibariakan adalah ''$3''.\n\n*Mulai diblukir: $4\n*Kadaluarsa blukir: $5\n\nAlamat IP Pian damini adalah $6.\nHarap sartaakan samunyaan rincian di atas dalam saban patakunan Pian.\n\nAmun Pian yakin Pian diblukir marupakan kasalahan, Pian kawa mahagai maklumat tambahan wan patunjuk di Kabijakan glubal [[m:Special:MyLanguage/No open proxies|kadada proksi tabuka]].\nJakanya kada, gasan mamandirakan hal ngini, silakan [[m:Steward requests/Global|mangirim parmintaan gasan dipariksa di Méta-Wiki]]."
 }
