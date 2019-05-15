@@ -6,7 +6,8 @@
 			"Matasg",
 			"Multichill",
 			"Manvydasz",
-			"Hugo.arg"
+			"Hugo.arg",
+			"Naktis"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:lt:Creative Commons",
@@ -195,7 +196,7 @@
 	"wm-license-cc-free-to-remix-text": "adaptuoti darbą",
 	"wm-license-cc-conditions": "Su šiomis sąlygomis:",
 	"wm-license-cc-conditions-attribution-header": "autoriaus nurodymas",
-	"wm-license-cc-conditions-attribution-text": "Privalote nurodyti šio darbo autorių tuo pačiu būdu, kuris buvo nurodytas paties autoriaus ar licencijos suteikėjo (bet ne tokiais būdais, kuriais teigiama, jog jis leido Jums naudoti šį darbą).",
+	"wm-license-cc-conditions-attribution-text": "Turite pateikti atitinkamą kreditą, pateikti nuorodą į licenciją ir nurodyti, ar buvo atlikti pakeitimai. Tai galite padaryti bet kokiu būdu, bet ne taip, kad licencijos išdavėjas patvirtintų jus ar jūsų naudojimą.",
 	"wm-license-cc-conditions-share_alike-header": "dalinkis panašiai",
 	"wm-license-cc-conditions-share_alike-text": "Jei perdirbsite, redaguosite ar atkursite šį darbą, jį galėsite platinti tik su tokia pačia ar panašia į šią licencija."
 }

@@ -16,7 +16,8 @@
 			"ImGelu",
 			"Wintereu",
 			"Matrafox",
-			"XXN"
+			"XXN",
+			"Andrei Stroe"
 		]
 	},
 	"wikimediamessages-desc": "Mesaje specifice Wikimediei",
@@ -67,9 +68,9 @@
 	"group-filemover": "Utilizatori care redenumesc fișiere",
 	"group-filemover-member": "{{GENDER:$1|utilizator care redenumește fișiere|utilizatoare care redenumește fișiere}}",
 	"grouppage-filemover": "{{ns:project}}:Utilizatori care redenumesc pagini",
-	"group-flood": "Utilizatori robot",
+	"group-flood": "Pseudoboți",
 	"group-flood-member": "{{GENDER:$1|utilizator robot|utilizatoare robot}}",
-	"grouppage-flood": "{{ns:project}}:Utilizatori robot",
+	"grouppage-flood": "{{ns:project}}:Pseudoboți",
 	"group-founder": "Fondatori",
 	"group-founder-member": "{{GENDER:$1|fondator|fondatoare}}",
 	"grouppage-founder": "{{ns:project}}:Fondatori",
