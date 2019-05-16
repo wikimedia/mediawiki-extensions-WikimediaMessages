@@ -9,7 +9,8 @@
 			"Multichill",
 			"Nghtwlkr",
 			"Simny",
-			"Danmichaelo"
+			"Danmichaelo",
+			"Jon Harald Søby"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:no:Creative Commons",
@@ -218,7 +219,7 @@
 	"wm-license-cc-free-to-remix-text": "til å endre verket",
 	"wm-license-cc-conditions": "Under de følgende betingelsene:",
 	"wm-license-cc-conditions-attribution-header": "navngivelse",
-	"wm-license-cc-conditions-attribution-text": "Du skal navngi opphavspersonen og/eller lisensgiveren på den måte som disse angir (men ikke på en måte som indikerer at disse har godkjent eller anbefaler deg eller din bruk av verket).",
+	"wm-license-cc-conditions-attribution-text": "Du må kreditere verket på passende vis, lenke til lisensen og indikere hvorvidt det har blitt gjort endringer. Du kan gjøre det på enhver rimelig måte, men ikke på en måte som antyder at lisensgiveren støtter deg eller din bruk av verket.",
 	"wm-license-cc-conditions-share_alike-header": "del på samme vilkår",
 	"wm-license-cc-conditions-share_alike-text": "Dersom du endrer, bearbeider eller bygger på dette verket, kan du kun distribuere resultatet under den samme eller en lignende lisens som denne.",
 	"wm-license-cc-pd-mark-text": "Denne filen har blitt identifisert til å være fri for kjente restriksjoner under lov om opphavsrett, inkludert alle relaterte og nærstående rettigheter."
