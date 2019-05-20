@@ -1,16 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ezagren"
+			"Ezagren",
+			"Mnam23"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "Diijinakan gasan manyalin, manyabarakan wan/atawa mamodifikasi dokumén ngini di bawah syarat-syarat '''[[{{int:wm-license-gfdl-wiki-link}}|Lisénsi Dokuméntasi Bibas GNU]]''', Vérsi 1.2 atawa labih hanyar nang ditarbitakan ulih [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanpa Bagian Invarian, tanpa Téks Sampul Muka, wan tanpa Téks Sampul Balakang. Salinan lisénsi dimasukakan ka bagian nang bajudul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisénsi Dokuméntasi Bibas GNU]]''.",
 	"wm-license-information-description": "Pamaparan",
 	"wm-license-information-source": "Asal-mula",
 	"wm-license-information-date": "Tanggal",
-	"wm-license-information-author": "Nang Maulah",
+	"wm-license-information-author": "Paulah",
 	"wm-license-information-permission": "Ijin",
 	"wm-license-information-permission-reusing-text": "Mamakai pulang barakas ngini",
-	"wm-license-own-work": "Karya saurang",
+	"wm-license-own-work": "Gawian saurang",
 	"wm-license-self-multiple-licenses-select": "Pian kawa mamilih lisénsi pilihan Pian."
 }

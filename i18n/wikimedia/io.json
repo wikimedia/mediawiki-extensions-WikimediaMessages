@@ -70,6 +70,7 @@
 	"group-ombudsman": "Ombudsmen",
 	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-steward": "Super-administreri",
+	"group-steward-member": "{{GENDER:$1|Supera administrero (steward)}}",
 	"group-sysadmin": "Sistemo-administreri",
 	"tag-emoji": "\"Emoji\"",
 	"tag-emoji-description": "La filtrilo globala #110 kontre mala kustumo uzesis.",
