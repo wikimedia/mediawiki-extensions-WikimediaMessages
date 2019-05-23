@@ -9,8 +9,9 @@
 	"wikimediamessages-desc": "উইকিমিডিয়ার নির্দিষ্ট অস্থায়ী বার্তা",
 	"grouppage-oversight": "{{ns:project}}:গোপন পর্যবেক্ষক",
 	"group-oversight": "গোপন পর্যবেক্ষকবৃন্দ",
-	"group-oversight-member": "গোপন পর্যবেক্ষক",
+	"group-oversight-member": "{{GENDER:$1|গোপন পর্যবেক্ষক}}",
 	"hello": "হ্যালো",
 	"please-translate": "দয়া করে আপনার ভাষায় অনুবাদ করতে সাহায্য করুন",
-	"thank-you": "{{GENDER:$1|আপনাকে ধন্যবাদ।}}"
+	"thank-you": "{{GENDER:$1|আপনাকে ধন্যবাদ।}}",
+	"specialblockfeedback": "প্রতিক্রিয়া"
 }
