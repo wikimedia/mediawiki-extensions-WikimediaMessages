@@ -16,7 +16,8 @@
 			"Tischbeinahe",
 			"Umherirrender",
 			"Geitost",
-			"Purodha"
+			"Purodha",
+			"Mirzali"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:de:Creative Commons",
@@ -227,7 +228,7 @@
 	"wm-license-cc-conditions-attribution-header": "Namensnennung",
 	"wm-license-cc-conditions-attribution-text": "Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade dich oder deine Nutzung besonders.",
 	"wm-license-cc-conditions-share_alike-header": "Weitergabe unter gleichen Bedingungen",
-	"wm-license-cc-conditions-share_alike-text": "Wenn du das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeitest, abwandelst oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwendest, darfst du die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben, die mit denen dieses Lizenzvertrages identisch, vergleichbar oder kompatibel sind.",
+	"wm-license-cc-conditions-share_alike-text": "Wenn du das Material wiedermischst, transformierst oder darauf aufbaust, musst du deine Beiträge unter der gleichen oder einer kompatiblen Lizenz wie das Original unter [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] verbreiten.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.de",
 	"wm-license-cc-pd-mark-text": "Es wurde festgestellt, dass diese Datei frei von bekannten Beschränkungen durch das Urheberrecht ist, alle verbundenen und verwandten Rechte eingeschlossen."
 }

@@ -174,10 +174,12 @@
 	"search-interwiki-custom": "wikt:വിക്കിനിഘണ്ടുവിൽ നിന്ന്\nb:വിക്കിപാഠശാലയിൽ നിന്ന്\nn:വിക്കിവാർത്തയിൽ നിന്ന്\nq:വിക്കിചൊല്ലുകളിൽ നിന്ന്\ns:വിക്കിഗ്രന്ഥശാലയിൽ നിന്ന്\nv:വിക്കിസർവ്വകലാശാലയിൽ നിന്ന്\nvoy:വിക്കിയാത്രയിൽ നിന്ന്",
 	"shared-repo-name-shared": "വിക്കിമീഡിയ കോമൺസ്",
 	"wikimedia-copyright": "വിവരങ്ങൾ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ-ഷെയർഎലൈക്ക് അനുമതിപത്ര</a> പ്രകാരം ലഭ്യമാണ്; മേൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം. കൂടുതൽ വിവരങ്ങൾക്ക് <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/ml\">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.",
+	"wikimedia-commons-copyright": "പ്രമാണങ്ങൾ അവയുടെ വിവരണതാളുകളിൽ ഉള്ള ഉപയോഗാനുമതിയിൽ ആണുള്ളത്. പ്രമാണങ്ങളിലും പ്രോപെർട്ടി നാമമേഖലയിലും ഉള്ള എല്ലാ ക്രോഡീകരിക്കപ്പെട്ട ഡേറ്റയും <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">ക്രിയേറ്റീവ് കോമൺസ് CC0 ഉപയോഗാനുമതിയിൽ</a> ആണുള്ളത്; കോഡീകരിക്കപ്പെടാത്ത എല്ലാ എഴുത്തുകളും <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ-ഷെയർഎലൈ അനുമതിയിൽ</a> ഉപയോഗിക്കാവുന്നതാണ്; കൂടുതൽ നിബന്ധനകൾ ഉണ്ടായേക്കാം.\nഈ സൈറ്റ് ഉപയോഗിക്കുമ്പോൾ, ഇതിലെ <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">ഉപയോഗനിബന്ധനകളും</a>&nbsp;<a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\" title=\"Wikimedia Foundation Privacy Policy\">സ്വകാര്യതാനയവും</a> താങ്കൾ അംഗീകരിക്കുന്നുണ്ട്.",
 	"wikidata-copyright": "പ്രധാന, ഗുണഗണ നാമമേഖലകളിലെ എല്ലാ ക്രമപ്പെടുത്തിയ വിവരങ്ങളും <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">ക്രിയേറ്റീവ് കോമൺസ് സി.സി.0 അനുവാദപത്രം</a> പ്രകാരം ലഭ്യമായിരിക്കും;\nമറ്റ് നാമമേഖലകളിലെ എഴുത്തുകൾ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ/ഷെയർ-എലൈക് അനുവാദപത്രത്തിൽ</a> ലഭ്യമായിരിക്കും;\nഅധിക നിബന്ധനകൾ ഉണ്ടായേക്കാം.\nകൂടുതൽ വിവരങ്ങൾക്ക് <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/ml\" title=\"വിക്കിമീഡിയ ഫൗണ്ടേഷന്റെ ഉപയോഗനിബന്ധനകൾ\">ഉപയോഗനിബന്ധനകൾ</a> കാണുക.",
 	"wikimedia-copyrightwarning": "മാറ്റങ്ങൾ സേവ് ചെയ്യുമ്പോൾ, [https://foundation.wikimedia.org/wiki/Terms_of_Use/ml ഉപയോഗനിബന്ധനകൾ അംഗീകരിക്കാമെന്ന്] താങ്കൾ സമ്മതിക്കുകയാണ്, ഒപ്പം താങ്കളുടെ സംഭാവനകൾ, ഇനി പിൻവലിക്കാനാവാത്തവിധം [https://creativecommons.org/licenses/by-sa/3.0/ സി.സി.-ബൈ-എസ്.എ. 3.0 അനുവാദപത്രം],  [https://ml.wikipedia.org/wiki/WP:GFDL-ml ജി.എഫ്.ഡി.എൽ] എന്നിവയിൽ പ്രസിദ്ധീകരിക്കാനും സമ്മതിക്കുന്നു. ക്രിയേറ്റീവ് കോമൺസ് അനുവാദപത്രത്തിൽ കടപ്പാട് കുറിക്കാൻ ഒരു ഹൈപ്പർലിങ്ക് അല്ലെങ്കിൽ യൂ.ആർ.എൽ. മതിയെന്നും താങ്കൾ സമ്മതിക്കുന്നുണ്ട്.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"ക്രിയേറ്റീവ് കോമൺസ് ആട്രിബ്യൂഷൻ-ഷെയർഎലൈക് അനുമതിയുടെ നിർവ്വചനം\" target=\"_blank\">സി.സി. ബൈ-എസ്.എ. 3.0</a> ഒപ്പം <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"ജി.എഫ്.ഡി.എല്ലിന്റെ നിർവ്വചനം\" target=\"_blank\">ജി.എഫ്.ഡി.എൽ.</a>",
 	"wikibase-repo-name": "വിക്കിഡേറ്റ",
+	"wikibase-page-schema-author-name": "വിക്കിമീഡിയ പദ്ധതികളിൽ സംഭാവന ചെയ്യുന്നവർ",
 	"wikibase-sitelinks-wikibooks": "വിക്കിപാഠശാല",
 	"wikibase-sitelinks-wikinews": "വിക്കിവാർത്ത",
 	"wikibase-sitelinks-wikiquote": "വിക്കിചൊല്ലുകൾ",
@@ -199,6 +201,7 @@
 	"wikibase-otherprojects-wikiversity": "വിക്കിസർ‌വ്വകലാശാല",
 	"wikibase-otherprojects-wikivoyage": "വിക്കിയാത്ര",
 	"wikibase-otherprojects-wiktionary": "വിക്കിനിഘണ്ടു",
+	"wikibase-otherprojects-wikimania": "വിക്കിമാനിയ",
 	"wikibase-sitelinks-sitename-commonswiki": "കോമൺസ്",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "മീഡിയവിക്കി",
 	"wikibase-sitelinks-sitename-metawiki": "മെറ്റാ-വിക്കി",
@@ -211,6 +214,7 @@
 	"wikimedia-developers": "ഡെവലപ്പർമാർ",
 	"wikimedia-globalblocking-ipblocked": "'''താങ്കളുടെ ഐ.പി. വിലാസം [[m:Special:MyLanguage/Global blocks|എല്ലാ വിക്കികളിലും തടഞ്ഞിരിക്കുന്നു]].'''\n\nതടഞ്ഞത് $1 ($2) ആണ്.\nനൽകിയിരിക്കുന്ന കാരണം: ''$3''.\n\n* തടയലിന്റെ തുടക്കം: $4\n* തടയൽ കാലഹരണപ്പെടുന്നത്: $5\n\nതാങ്കളുടെ ഇപ്പോഴത്തെ ഐ.പി. വിലാസം $6 ആണ്.\nതാങ്കൾ എന്തെങ്കിലും ചോദ്യമുന്നയിക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ മുകളിൽ നൽകിയിരിക്കുന്ന എല്ലാ വിവരങ്ങളും ഉൾപ്പെടുത്തുക.\n\nതാങ്കളെ തെറ്റായി തടഞ്ഞതാണെന്ന് താങ്കൾ വിശ്വസിക്കുന്നുവെങ്കിൽ, കൂടുതൽ വിവരങ്ങളും നിർദ്ദേശങ്ങളും [[m:Special:MyLanguage/No open proxies|ഓപ്പൺ പ്രോക്സികൾ വേണ്ട]] എന്ന ആഗോള നയത്തിൽ കാണാവുന്നതാണ്.\nഅല്ലെങ്കിൽ, [[m:Steward requests/Global|മെറ്റാവിക്കിയിൽ തടയൽ പുനർവിചിന്തനം ചെയ്യാൻ കുറിപ്പിടാവുന്നതാണ്]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''താങ്കളുടെ അഭ്യർത്ഥനയിൽ ഉൾപ്പെട്ടിട്ടുള്ള ഒന്നോ അതിലധികമോ പ്രോക്സി സെർവറുകൾ [[m:Special:MyLanguage/Global blocks|എല്ലാ വിക്കികളിലും തടഞ്ഞിരിക്കുന്നു]].'''\n\nതടഞ്ഞത് $1 ($2) ആണ്.\nനൽകിയിരിക്കുന്ന കാരണം: ''$3''.\n\n* തടയലിന്റെ തുടക്കം: $4\n* തടയൽ കാലഹരണപ്പെടുന്നത്: $5\n\nതടയപ്പെട്ട പ്രോക്സി വിലാസം $6 ആണ്.\nതാങ്കൾ എന്തെങ്കിലും ചോദ്യമുന്നയിക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ മുകളിൽ നൽകിയിരിക്കുന്ന എല്ലാ വിവരങ്ങളും ഉൾപ്പെടുത്തുക.\n\nതാങ്കളെ തെറ്റായി തടഞ്ഞതാണെന്ന് താങ്കൾ വിശ്വസിക്കുന്നുവെങ്കിൽ, കൂടുതൽ വിവരങ്ങളും നിർദ്ദേശങ്ങളും [[m:Special:MyLanguage/No open proxies|ഓപ്പൺ പ്രോക്സികൾ വേണ്ട]] എന്ന ആഗോള നയത്തിൽ കാണാവുന്നതാണ്.\nഅല്ലെങ്കിൽ, [[m:Steward requests/Global|മെറ്റാവിക്കിയിൽ തടയൽ പുനർവിചിന്തനം ചെയ്യാൻ കുറിപ്പിടാവുന്നതാണ്]].",
+	"wikimedia-torblock-blocked": "താങ്കളുടെ ഐ.പി. വിലാസം, <strong>$1</strong>, ഒരു ടോർ എക്സിറ്റ് നോഡാണെന്ന് സ്വയം കണ്ടെത്തിയിട്ടുണ്ട്.\nദുരുപയോഗങ്ങൾ ഒഴിവാക്കാൻ ടോർ വഴി തിരുത്തുന്നത് നിരോധിച്ചിരിക്കുന്നു.\nകൂടുതൽ വിവരങ്ങൾക്കും നിർദ്ദേശങ്ങൾക്കുമായി [m:Special:MyLanguage/No open proxies|ഓപ്പൺ പ്രോക്സികൾ വേണ്ട]] ആഗോള നയം കാണാവുന്നതാണ്.",
 	"wikimedia-mobile-terms-url": "https://m.foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ml",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy സ്വകാര്യതാനയം]",
 	"grant-checkuser": "ചെക്ക്‌യൂസർ ഡേറ്റ എടുക്കുക",
@@ -240,5 +244,6 @@
 	"eri-rcfilters-tour-confirm-description": "ഈ സവിശേഷതയുടെ പ്രതികരണം അറിയിക്കാനോ, ഇത് ഒഴിവാക്കാനോ <strong>ബീറ്റാ സവിശേഷതകൾ താൾ</strong> താങ്കൾക്ക് ഉപയോഗിക്കാവുന്നതാണ്.",
 	"eri-wlfilters-tour-intro-welcome-title": "മെച്ചപ്പെടുത്തിയ ശ്രദ്ധിക്കുന്ന അരിച്ചെടുക്കലിലേക്ക് സ്വാഗതം",
 	"eri-wlfilters-tour-intro-preferences-description": "ക്രമീകരണങ്ങളിലെ ശ്രദ്ധിക്കുന്നവ ടാബിൽ നിന്നും മെച്ചപ്പെടുത്തിയ ശ്രദ്ധിക്കുന്നവ ഏതൊരു സമയത്തും ഒഴിവാക്കാവുന്നതാണ്.",
-	"wikimedia-cookiestatement": "കുക്കി പ്രസ്താവന"
+	"wikimedia-cookiestatement": "കുക്കി പ്രസ്താവന",
+	"wikimedia-switchover-read-only": "ഇപ്പോൾ തിരുത്ത് സാദ്ധ്യമല്ല. ഇത് പരിപാലനപ്രവർത്തങ്ങൾ നടപ്പിലാക്കിക്കൊണ്ടിരിക്കുന്നതിനാലാണ്. താങ്കളുടെ എഴുത്ത് പകർത്തി സൂക്ഷിച്ച് ഏതാനം മിനിറ്റുകൾ കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക."
 }

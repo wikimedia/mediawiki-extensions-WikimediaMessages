@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"PiefPafPier"
+		]
+	},
+	"grouppage-oversight": "{{ns:project}}:Tafersjochhâlders",
+	"group-oversight": "Tafersjochhâlders",
+	"group-oversight-member": "tafersjoch{{GENDER:$1|hâlder|hâldster}}"
+}

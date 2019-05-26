@@ -11,7 +11,8 @@
 			"Vito Genovese",
 			"Stultiwikia",
 			"Uğurkent",
-			"Rapsar"
+			"Rapsar",
+			"Mirzali"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:tr:Creative Commons",
@@ -203,6 +204,6 @@
 	"wm-license-cc-conditions-attribution-header": "atıf",
 	"wm-license-cc-conditions-attribution-text": "Esere yazar veya lisans sahibi tarafından belirtilen (ancak sizi ya da eseri kullanımınızı desteklediklerini ileri sürmeyecek bir) şekilde atıfta bulunmalısınız.",
 	"wm-license-cc-conditions-share_alike-header": "benzer paylaşım",
-	"wm-license-cc-conditions-share_alike-text": "Bu eseri değiştirmeniz, dönüştürmeniz ya da bu eseri temel alan başka bir eser oluşturmanız halinde, ortaya çıkan eser için sadece bu veya buna benzer bir lisansı kullanma imkanınız bulunmaktadır.",
+	"wm-license-cc-conditions-share_alike-text": "Maddeyi yeniden karıştırır, dönüştürür veya inşa ederseniz, katkılarınızı orijinal olarak [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] altında dağıtmanız gerekir.",
 	"wm-license-cc-pd-mark-text": "Bu dosya ve ilgili diğer hakları da dahil olmak üzere telif hakkı kapsamında bilinen tüm kısıtlamalar, serbest lisans olarak belirlenmiştir."
 }
