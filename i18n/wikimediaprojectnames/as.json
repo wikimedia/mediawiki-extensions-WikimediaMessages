@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Sagsag",
-			"Onubadok"
+			"Onubadok",
+			"Simbu123"
 		]
 	},
 	"project-localized-name-acewiki": "আচেহীয়া ৱিকিপিডিয়া",
-	"project-localized-name-hywwiki": "পশ্চিমীয়া আৰ্মেনিয়ান ৱিকিপিডিয়া"
+	"project-localized-name-hywwiki": "পশ্চিমীয়া আৰ্মেনিয়ান ৱিকিপিডিয়া",
+	"project-localized-name-mywiki": "মান ৱিকিপিডিয়া",
+	"project-localized-name-mywiktionary": "মান ৱিকিঅভিধান"
 }
