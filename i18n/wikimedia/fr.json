@@ -274,7 +274,7 @@
 	"wikibase-sitelinks-wikiversity": "Wikiversité",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-sitelinks-wiktionary": "Wiktionary",
-	"wikibase-otherprojects-commons": "Wikimédia Commons",
+	"wikibase-otherprojects-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "Mediawiki",
 	"wikibase-otherprojects-meta": "Méta-Wiki",
@@ -315,7 +315,7 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-wikipedia": "Wikipédia",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, l’encyclopédie libre",
-	"interlanguage-link-commons": "Wikimédia Commons",
+	"interlanguage-link-commons": "Wikimedia Commons",
 	"interlanguage-link-sitename-commons": "Référentiel de médias de Wikimedia Commons",
 	"interlanguage-link-sitename-dmoz": "Annuaire Web DMOZ",
 	"action-superprotect": "modifier les super niveaux de protection",
@@ -361,5 +361,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Est-ce que cette page s'est affichée suffisamment rapidement?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pour davantage d'informations, voir la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement déclaration de confidentialité] de ce sondage.",
 	"wikimedia-switchover-read-only": "Vous ne pouvez pas modifier actuellement. Ceci à cause de la maintenance en cours. Copiez et enregistrez votre texte et réessayez dans quelques minutes.",
-	"passwordpolicies-policy-blockattacker": "Politique de mot de passe pour réduire les attaques connues lorsque la divulgation de détails gênerait la réduction"
+	"passwordpolicies-policy-blockattacker": "Politique de mot de passe pour réduire les attaques connues lorsque la divulgation de détails gênerait la réduction",
+	"technical-maintenance-soon": "La maintenance technique va être réalisée bientôt :",
+	"technical-maintenance-edit": "Durant ce temps vous ne pourrez pas sauvegarder les modifications."
 }

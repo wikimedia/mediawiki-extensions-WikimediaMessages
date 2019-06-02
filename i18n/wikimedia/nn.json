@@ -107,6 +107,8 @@
 	"group-global-bot": "Globale robotar",
 	"group-global-bot-member": "{{GENDER:$1|global robot}}",
 	"grouppage-global-bot": "m:Global bot",
+	"group-global-renamer": "Globale namneendrarar",
+	"group-global-renamer-member": "{{GENDER:$1|global namneendrar}}",
 	"group-global-rollbacker": "Globale attenderullarar",
 	"group-global-rollbacker-member": "{{GENDER:$1|global attenderullar}}",
 	"grouppage-global-rollbacker": "m:Global rollback/nb",
