@@ -283,5 +283,7 @@
 	"wikimedia-cookiestatement": "쿠키 정책",
 	"ext-quicksurveys-performance-internal-survey-question": "이 문서가 충분히 빠르게 불러와졌습니까?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "더 자세한 정보의 경우 이 설문 조사의 [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 개인정보 문항]을 참고하십시오.",
-	"wikimedia-switchover-read-only": "유지보수로 인해 지금 편집할 수 없습니다. 텍스트를 복사해서 저장한 다음 몇 분 뒤 다시 시도하십시오."
+	"wikimedia-switchover-read-only": "유지보수로 인해 지금 편집할 수 없습니다. 텍스트를 복사해서 저장한 다음 몇 분 뒤 다시 시도하십시오.",
+	"technical-maintenance-soon": "기술적 정비가 곧 수행됩니다:",
+	"technical-maintenance-edit": "이 기간 중에는 어떠한 편집도 저장할 수 없게 됩니다."
 }
