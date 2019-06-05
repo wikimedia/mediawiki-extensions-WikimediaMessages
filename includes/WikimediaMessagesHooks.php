@@ -1514,7 +1514,10 @@ class WikimediaMessagesHooks {
 	 * @param string $subPage
 	 */
 	public static function onSpecialPageBeforeExecute( SpecialPage $special, $subPage ) {
-		if ( $special->getName() !== 'Block' ) {
+		if (
+			$special->getName() !== 'Block' ||
+			!$special->userCanExecute( $special->getUser() )
+		) {
 			return;
 		}
 
