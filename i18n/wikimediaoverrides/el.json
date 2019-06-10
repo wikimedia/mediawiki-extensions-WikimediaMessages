@@ -7,6 +7,7 @@
 			"Nikosgranturismogt"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Οι επισκέπτες αυτού του wiki χρησιμοποιώντας τη διεύθυνση IP σας δημιούργησαν {{PLURAL:$1|1 λογαριασμό|$1 λογαριασμούς}} την τελευταία ημέρα, το οποίο είναι το μέγιστο επιτρεπόμενο σε αυτό το χρονικό διάστημα. Ως αποτέλεσμα, οι επισκέπτες που χρησιμοποιούν αυτή τη διεύθυνση IP δεν μπορούν πλέον να δημιουργήσουν περισσότερους λογαριασμούς.\n\nΕάν βρίσκεστε σε μια εκδήλωση που εστιάζει στη συνεισφορά στα έργα του Wikimedia, ανατρέξτε στην ενότητα [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Αίτησης προσωρινής ανόδου του ανώτατου ορίου IP]] για να επιλύσετε αυτό το ζήτημα.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(βοηθήστε με να επιλέξω)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Δεν μπορείτε να δείτε την εικόνα; [[{{MediaWiki:createacct-captcha-help-url}}|Ζητείστε ένα λογαριασμό]]",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< πριν το 2006",

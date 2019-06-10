@@ -1,5 +1,15 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Jun Misugi"
+		]
+	},
 	"wm-license-information-description": "Deschrizioni",
-	"wm-license-information-source": "Orìgini"
+	"wm-license-information-source": "Orìgini",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Autori",
+	"wm-license-information-permission": "Pimissu",
+	"wm-license-information-permission-reusing-text": "Riutirizà chisthu file",
+	"wm-license-own-work": "Trabagliu pròpriu",
+	"wm-license-self-multiple-licenses-select": "Tu poi isciubarà la licèntzia chi tu voi."
 }
