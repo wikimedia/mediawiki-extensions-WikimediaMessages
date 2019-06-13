@@ -15,7 +15,8 @@
 			"Kayser Ahmad",
 			"Mohammed Galib Hasan",
 			"Mouse21",
-			"আফতাবুজ্জামান"
+			"আফতাবুজ্জামান",
+			"Mahir256"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -103,6 +104,8 @@
 	"group-patroller": "পর্যবেক্ষক",
 	"group-patroller-member": "{{GENDER:$1|পর্যবেক্ষক}}",
 	"grouppage-patroller": "{{ns:project}}:স্বয়ংক্রিয় পরীক্ষক",
+	"group-propertycreator": "বৈশিষ্ট্য স্রষ্টা",
+	"group-propertycreator-member": "{{GENDER:$1|বৈশিষ্ট্য স্রষ্টা}}",
 	"group-researcher": "গবেষক",
 	"group-researcher-member": "{{GENDER:$1|গবেষক}}",
 	"grouppage-researcher": "{{ns:project}}:গবেষক",
