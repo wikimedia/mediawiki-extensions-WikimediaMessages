@@ -14,7 +14,8 @@
 			"柑橘類",
 			"青子守歌",
 			"Takot",
-			"Omotecho"
+			"Omotecho",
+			"Afaz"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ja:クリエイティブ・コモンズ",
@@ -225,7 +226,7 @@
 	"wm-license-cc-conditions-attribution-header": "表示",
 	"wm-license-cc-conditions-attribution-text": "あなたは原著作者または許諾者が指定した方法でこの作品のクレジットを表示しライセンス情報へのリンクと変更点があるかどうか示さなければなりません 。任意の適切な方法で実施しますが、ただしその人たちが、あなたあるいはあなたの使用を推薦していると示唆する方法はいっさい認められません。",
 	"wm-license-cc-conditions-share_alike-header": "継承",
-	"wm-license-cc-conditions-share_alike-text": "あなたがこの作品を改変や変形したり、もしくはこの作品に基づいた作品を作る場合、あなたはその作品をこれと同一もしくは互換性のある許諾条件でのみ頒布できます。",
+	"wm-license-cc-conditions-share_alike-text": "あなたがこの作品を改変や変形したり、もしくはこの作品に基づいた作品を作る場合、あなたはその作品を[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses これと同一もしくは互換性のある許諾条件]でのみ頒布できます。",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.ja",
 	"wm-license-cc-pd-mark-text": "このファイルは、著作権法の下での既知の制限 (すべての関連および隣接権を含む) に対して、自由であると認識されています。"
 }
