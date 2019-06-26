@@ -21,7 +21,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "These banners identify problems with this article. You don't need to fix them all, just stick with what you're comfortable doing.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Edit the whole article…",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Click \"$1\" to change content anywhere in the article.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "You can now edit the article contents. When you are done, click \"{{int:visualeditor-toolbar-savedialog}}\" to review and save your changes.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "You can now edit the article contents. When you are done, click \"{{int:publishchanges}}\" to review and save your changes.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Clicking \"{{int:showpreview}}\" allows you to see what the article will look like with your changes. Just don't forget to save.",
 	"gettingstarted-cta-edit-page-wikipedia": "Edit this article",
 	"gettingstarted-cta-fix-pages-wikipedia": "Edit a suggested article",
