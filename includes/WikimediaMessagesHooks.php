@@ -1168,7 +1168,7 @@ class WikimediaMessagesHooks {
 				'Викикњиге'   => 'Викикњигама',
 				'Википедија'  => 'Википедији',
 				'Википодаци'  => 'Википодацима',
-				'Викивести'   => 'Викивестима',
+				'Викиновости'   => 'Викиновистима',
 				'Викимедијина остава' => 'Викимедијиној остави',
 			],
 			// accusative
@@ -1194,7 +1194,7 @@ class WikimediaMessagesHooks {
 				'Викикњиге'   => 'Викикњигама',
 				'Википедија'  => 'Википедијом',
 				'Википодаци'  => 'Википодацима',
-				'Викивести'   => 'Викивестима',
+				'Викиновости'   => 'Викиновостима',
 				'Викимедијина остава' => 'Викимедијином оставом',
 			],
 			// locative
@@ -1205,7 +1205,7 @@ class WikimediaMessagesHooks {
 				'Викикњиге'   => 'Викикњигама',
 				'Википедија'  => 'Википедији',
 				'Википодаци'  => 'Википодацима',
-				'Викивести'   => 'Викивестима',
+				'Викиновости'   => 'Викиновостима',
 				'Викимедијина остава' => 'Викимедијиној остави',
 			],
 		]; // sr-ec
@@ -1229,7 +1229,7 @@ class WikimediaMessagesHooks {
 				'Vikiknjige'  => 'Vikiknjigama',
 				'Vikipedija'  => 'Vikipediji',
 				'Vikipodaci'  => 'Vikipodacima',
-				'Vikivesti'   => 'Vikivestima',
+				'Vikinovosti'   => 'Vikinovostima',
 				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
 			],
 			// accusative
@@ -1255,7 +1255,7 @@ class WikimediaMessagesHooks {
 				'Vikiknjige'  => 'Vikiknjigama',
 				'Vikipedija'  => 'Vikipedijom',
 				'Vikipodaci'  => 'Vikipodacima',
-				'Vikivesti'   => 'Vikivestima',
+				'Vikinovosti'   => 'Vikinovostima',
 				'Vikimedijina ostava' => 'Vikimedijinom ostavom',
 			],
 			// locative
@@ -1266,7 +1266,7 @@ class WikimediaMessagesHooks {
 				'Vikiknjige'  => 'Vikiknjigama',
 				'Vikipedija'  => 'Vikipediji',
 				'Vikipodaci'  => 'Vikipodacima',
-				'Vikivesti'   => 'Vikivestima',
+				'Vikinovosti'   => 'Vikinovostima',
 				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
 			],
 		]; // sr-el
