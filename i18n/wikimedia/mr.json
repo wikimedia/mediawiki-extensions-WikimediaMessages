@@ -9,7 +9,8 @@
 			"V.narsikar",
 			"Nemo bis",
 			"संतोष दहिवळ",
-			"अभय नातू"
+			"अभय नातू",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडियाबद्दलचे विशीष्ट संदेश",
@@ -29,7 +30,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "हे फलक या लेखात असलेल्या अडचणी ओळखतात.त्या सर्वांना आपण सुधरविणे जरुरी नाही.आपण काय केले तर आरामशीर रहाल, त्यासच चिटकून रहा.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "संपूर्ण लेख संपादित करा...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "लेखात कुठेही असलेला आशय बदलविण्यास \"$1\" हे टिचका.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "आपण आता या लेखाचा आशय संपादु शकता. ते पूर्ण झाल्यावर,झलक पाहण्यास व आपले बदल जतन करण्यास, '{{int:visualeditor-toolbar-savedialog}}' वर टिचकी द्या.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "आपण आता या लेखाचा आशय संपादु शकता. ते पूर्ण झाल्यावर,झलक पाहण्यास व आपले बदल जतन करण्यास, '{{int:publishchanges}}' वर टिचकी द्या.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\" टिचकण्याने, आपणास, आपण केलेल्या बदलांसह तो लेख कसा दिसेल, ते बघण्याची अनुमती मिळते.त्यानंतर जतन करण्यास मात्र विसरु नका.",
 	"gettingstarted-cta-edit-page-wikipedia": "हा लेख संपादा",
 	"gettingstarted-cta-fix-pages-wikipedia": "सुचविलेल्या लेखाचे संपादन करा",

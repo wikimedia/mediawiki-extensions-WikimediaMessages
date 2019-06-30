@@ -10,7 +10,8 @@
 			"Nemo bis",
 			"Balnur.s",
 			"Нұрлан Рахымжанов",
-			"Zpizza"
+			"Zpizza",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Уикимедиа ерекше хабарламалары",
@@ -29,7 +30,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Бұл баннерлер мақаладағы проблемаларды айқындайды. Олардың бәрін түзетпей-ақ, тек өзіңізге ыңғайлы әрекетін жасаңыз.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Бүкіл бетті өңдеңіз...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Мақаланың кейбір жерінің контентін өзгерту үшін «$1» батырмасын басыңыз.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Сіз мақала мазмұнын өңдей аласыз. Болғасын,  «{{int:visualeditor-toolbar-savedialog}}» батырмасын басып өзгерістеріңізді қарап шығыңыз және сақтаңыз.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Сіз мақала мазмұнын өңдей аласыз. Болғасын,  «{{int:publishchanges}}» батырмасын басып өзгерістеріңізді қарап шығыңыз және сақтаңыз.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "«{{int:showpreview}}» батырмасын бассаңыз өзгерістеріңіздің бұл мақалаға қалай өзгертетінін көре аласыз. Тек сақтауды ұмытпаңыз.",
 	"gettingstarted-cta-edit-page-wikipedia": "Бұл мақаланы өңдеу",
 	"gettingstarted-cta-fix-pages-wikipedia": "Ұсынылған мақаланы өңдеңіз",

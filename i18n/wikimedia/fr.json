@@ -60,7 +60,8 @@
 			"Djiboun",
 			"KATRINE1992",
 			"Melissadeba95",
-			"Pols12"
+			"Pols12",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -80,7 +81,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Ces bannières identifient des problèmes avec cet article. Vous n’avez pas besoin de les traiter tous, occupez-vous seulement de ce dont vous vous sentez capable.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Modifier l'article en entier...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Cliquez sur « $1 » pour modifier le contenu n'importe où dans l'article.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Vous pouvez maintenant modifier le contenu de l'article. Quand vous avez terminé, cliquez sur « {{int:visualeditor-toolbar-savedialog}} » pour vérifier et enregistrer vos modifications.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Vous pouvez maintenant modifier le contenu de l'article. Quand vous avez terminé, cliquez sur « {{int:publishchanges}} » pour vérifier et enregistrer vos modifications.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Cliquer sur « {{int:showpreview}} » vous permet de vérifier à quoi ressemblera l'article avec vos modifications. N’oubliez pas ensuite de les enregistrer.",
 	"gettingstarted-cta-edit-page-wikipedia": "Modifier cet article",
 	"gettingstarted-cta-fix-pages-wikipedia": "Modifier un article suggéré",

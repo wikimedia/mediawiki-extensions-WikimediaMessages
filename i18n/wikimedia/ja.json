@@ -38,7 +38,8 @@
 			"Afaz",
 			"AndyAndyAndyAlbert",
 			"おはぐろ蜻蛉",
-			"Kkairri"
+			"Kkairri",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -58,7 +59,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "これらのバナーはこの記事がかかえる問題点を特定しています。すべてを修正する必要はなく、自分が苦労なくできるものに集中してください。",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "記事全体を編集…",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "「$1」をクリックすると、記事のどの場所でも編集できます。",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "記事の本文を編集できるようになりました。編集が完了したら、「{{int:visualeditor-toolbar-savedialog}}」をクリックして、編集内容の確認および保存をお願いします。",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "記事の本文を編集できるようになりました。編集が完了したら、「{{int:publishchanges}}」をクリックして、編集内容の確認および保存をお願いします。",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "「{{int:showpreview}}」をクリックすると、記事の編集結果の見た目を確認できます。必ず保存するのを忘れないようにしてください。",
 	"gettingstarted-cta-edit-page-wikipedia": "この記事を編集",
 	"gettingstarted-cta-fix-pages-wikipedia": "提案された記事の編集",

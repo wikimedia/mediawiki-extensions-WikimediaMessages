@@ -12,7 +12,8 @@
 			"תומר ט",
 			"Nemo bis",
 			"Yona b",
-			"아라"
+			"아라",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "הודעות המיוחדות לוויקימדיה",
@@ -32,7 +33,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "הכרזות הללו מציינות שיש בעיות עם הערך. אין צורך לפתור את כל הבעיות. מספיק לעשות את מה שנוח לך.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "עריכה של כל הערך...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "יש ללחוץ על \"$1\" כדי לשנות את התוכן במקום כלשהו בערך.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "כעת באפשרותך לערוך את התוכן של הערך. בסיום יש ללחוץ על \"{{int:visualeditor-toolbar-savedialog}}\" כדי לסקור ולשמור את השינויים שלך.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "כעת באפשרותך לערוך את התוכן של הערך. בסיום יש ללחוץ על \"{{int:publishchanges}}\" כדי לסקור ולשמור את השינויים שלך.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "לחיצה על \"{{int:showpreview}}\" מאפשרת לך לראות איך ייראה הערך עם השינויים שלך. רק לא לשכוח לשמור.",
 	"gettingstarted-cta-edit-page-wikipedia": "עריכת הערך הזה",
 	"gettingstarted-cta-fix-pages-wikipedia": "עריכת ערך מוצע",

@@ -37,7 +37,8 @@
 			"WQL",
 			"AndyAndyAndyAlbert",
 			"A Chinese Wikipedian",
-			"佛壁灯"
+			"佛壁灯",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -57,7 +58,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "这些横幅表明此条目存在问题。您不需要全部修复它们，您感觉如何编辑更舒服就行。",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "编辑整段条目…",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "点击“$1”以更改此条目任何内容。",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "您现在可以编辑条目内容。当您完成时，点击“{{int:visualeditor-toolbar-savedialog}}”复核并保存您的更改。",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "您现在可以编辑条目内容。当您完成时，点击“{{int:publishchanges}}”复核并保存您的更改。",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "点击“{{int:showpreview}}”允许您查看您更改后的条目是什么样。不要忘记保存。",
 	"gettingstarted-cta-edit-page-wikipedia": "编辑此条目",
 	"gettingstarted-cta-fix-pages-wikipedia": "编辑建议条目",

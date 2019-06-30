@@ -25,7 +25,8 @@
 			"Mar(c)",
 			"Kippenvlees1",
 			"Jeroen N",
-			"KPFC"
+			"KPFC",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -45,7 +46,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Deze banners geven aan dat er problemen zijn met dit artikel. U hoeft niet alle problemen aan te pakken; doe waar u zich prettig bij voelt.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Bewerk de hele pagina...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klik op \"$1\" om de pagina aan te passen.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "U kunt het artikel nu bewerken. Klik op \"{{int:visualeditor-toolbar-savedialog}}\" als u klaar bent, om uw wijzigingen te controleren en ze op te slaan.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "U kunt het artikel nu bewerken. Klik op \"{{int:publishchanges}}\" als u klaar bent, om uw wijzigingen te controleren en ze op te slaan.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Door te klikken op \"{{int:showpreview}}\" kunt u zien hoe de pagina wordt weergegeven met uw wijzigingen. Vergeet uw wijzigingen niet op te slaan.",
 	"gettingstarted-cta-edit-page-wikipedia": "Bewerk dit artikel",
 	"gettingstarted-cta-fix-pages-wikipedia": "Bewerk een voorgestelde pagina",

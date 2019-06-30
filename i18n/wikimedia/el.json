@@ -22,7 +22,8 @@
 			"KATRINE1992",
 			"Nikosgranturismogt",
 			"KPFC",
-			"KATRINE1993"
+			"KATRINE1993",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Μηνύματα ειδικά για το Wikimedia",
@@ -42,7 +43,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Αυτά τα μπάνερ εντοπίζουν προβλήματα σε αυτό το λήμμα. Δεν χρειάζεται να διορθώσετε όλα αυτά, απλά να ασχοληθείτε με ό,τι μπορείτε με άνεση να κάνετε.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Επεξεργαστείτε ολόκληρο το λήμμα...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Πατήστε στο κουμπί «$1» για να αλλάξετε το περιεχόμενο οπουδήποτε στο λήμμα.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Τώρα μπορείτε να επεξεργαστείτε το περιεχόμενο της σελίδας. Όταν τελειώσετε, κάντε κλικ στο \"{{int:visualeditor-toolbar-savedialog}}\" για να επιθεωρήσετε και να αποθηκεύσετε τις αλλαγές σας.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Τώρα μπορείτε να επεξεργαστείτε το περιεχόμενο της σελίδας. Όταν τελειώσετε, κάντε κλικ στο \"{{int:publishchanges}}\" για να επιθεωρήσετε και να αποθηκεύσετε τις αλλαγές σας.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Πατώντας στο \"Εμφάνιση προεπισκόπησης\" σας επιτρέπει να δείτε πως θα είναι το λήμμα μετά τις αλλαγές που κάνατε. Απλά μην ξεχάσετε να αποθηκεύσετε!",
 	"gettingstarted-cta-edit-page-wikipedia": "Επεξεργασία αυτού του λήμματος",
 	"gettingstarted-cta-fix-pages-wikipedia": "Επεξεργαστείτε ένα προτεινόμενο λήμμα",

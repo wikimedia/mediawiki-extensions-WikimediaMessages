@@ -29,7 +29,8 @@
 			"Imperadeiro98",
 			"MokaAkashiyaPT",
 			"Athena in Wonderland",
-			"Ruila"
+			"Ruila",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -49,7 +50,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Estas marcações identificam problemas com este artigo. Não precisa de resolvê-los todos, trabalhe apenas naqueles em que se sente à vontade.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Editar o artigo inteiro...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clique \"$1\" para alterar o conteúdo de qualquer parte do artigo.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora, pode editar o conteúdo do artigo. Ao terminar, clique \"{{int:visualeditor-toolbar-savedialog}}\" para rever e gravar as suas alterações.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora, pode editar o conteúdo do artigo. Ao terminar, clique \"{{int:publishchanges}}\" para rever e gravar as suas alterações.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Clicar \"{{int:showpreview}}\" permite-lhe ver como ficará a página após as suas alterações. Não se esqueça de gravá-las.",
 	"gettingstarted-cta-edit-page-wikipedia": "Editar este artigo",
 	"gettingstarted-cta-fix-pages-wikipedia": "Editar um artigo sugerido",

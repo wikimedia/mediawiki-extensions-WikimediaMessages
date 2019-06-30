@@ -32,7 +32,8 @@
 			"Obzord",
 			"Meisam",
 			"Leyth",
-			"Physicsch"
+			"Physicsch",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -52,7 +53,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "این آگهی‌ها مشکلات این مقاله را مشخص می‌کنند. نیاز نیست که همهٔ آن‌ها را برطرف کنید، فقط با کاری که راحت هستید بمانید.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "ویرایش همهٔ مقاله",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "برای تغییر محتویات هر جای مقاله بر «$1» کلیک کنید.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "شما می‌توانید الآن محتویات مقاله را ویرایش کنید. وقتی که انجام شد، بر «{{int:visualeditor-toolbar-savedialog}}» برای بازبینی و ذحیره تغییراتان کلیک کنید.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "شما می‌توانید الآن محتویات مقاله را ویرایش کنید. وقتی که انجام شد، بر «{{int:publishchanges}}» برای بازبینی و ذحیره تغییراتان کلیک کنید.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "ویرایش «{{int:showpreview}}» اجازه می‌دهد که ببینید این مقاله با تغییراتتان چه شکلی خواهد شد. فقط فراموش نکنید که ذخیره کنید.",
 	"gettingstarted-cta-edit-page-wikipedia": "ویرایش این مقاله",
 	"gettingstarted-cta-fix-pages-wikipedia": "ویرایش یک مقالۀ پیشنهادی",

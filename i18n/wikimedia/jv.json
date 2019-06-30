@@ -6,7 +6,8 @@
 			"Nemo bis",
 			"NoiX180",
 			"Pras",
-			"Aldnonymous"
+			"Aldnonymous",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Layang rinci Wikimédia",
@@ -26,7 +27,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Umbul-umbul iki nemoni masalah ngenani artikel iki. Panjenengan ora perlu ndandani kabèh, lakoni waé sing panjenengan bisa lakoni.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Besut sakabèhé artikel...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klik \"$1\" saperlu ngowahi sembarang isiné artikel.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Panjenengan saiki bisa mbesut isiné artikel. Nalika panjenengan rampung, klik \"{{int:visualeditor-toolbar-savedialog}}\" saperlu ngulas lan nyimpen owahané panjenengan.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Panjenengan saiki bisa mbesut isiné artikel. Nalika panjenengan rampung, klik \"{{int:publishchanges}}\" saperlu ngulas lan nyimpen owahané panjenengan.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Ngeklik \"{{int:showpreview}}\" bakal ngidinaké panjenengan ndeleng kaya ngapa wujudé artikel sawisé panjenengan owahi. Sing penting ora lali nyimpen.",
 	"gettingstarted-cta-edit-page-wikipedia": "Besut artikel iki",
 	"gettingstarted-cta-fix-pages-wikipedia": "Besut artikel sing diprayogakaké",

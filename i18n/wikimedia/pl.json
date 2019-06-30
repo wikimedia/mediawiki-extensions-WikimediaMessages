@@ -50,7 +50,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Takie ramki wyliczają problemy związane z tym artykułem. Nie musisz rozwiązać ich wszystkich, po prostu zrób to, w czym czujesz się najlepiej.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Edytuj cały artykuł...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Kliknij „$1”, aby zmienić treść tego artykułu w dowolnym miejscu.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Teraz możesz edytować zawartość artykułu. Kiedy skończysz, kliknij ''{{int:visualeditor-toolbar-savedialog}}'', aby przejrzeć i zapisać zmiany.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Teraz możesz edytować zawartość artykułu. Kiedy skończysz, kliknij ''{{int:publishchanges}}'', aby przejrzeć i zapisać zmiany.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Kliknięcie ''{{int:showpreview}}'' pozwala ci sprawdzić, jak strona będzie wyglądała po twoich zmianach. Nie zapomnij ich zapisać.",
 	"gettingstarted-cta-edit-page-wikipedia": "Edytuj ten artykuł",
 	"gettingstarted-cta-fix-pages-wikipedia": "Edytuj zaproponowany artykuł",

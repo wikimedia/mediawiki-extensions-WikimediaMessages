@@ -4,7 +4,8 @@
 			"Kolega2357",
 			"OC Ripper",
 			"Conquistador",
-			"Vlad5250"
+			"Vlad5250",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Poruke koje se odnose na Wikimediju",
@@ -23,7 +24,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Ovi baneri ukazuju na probleme u ovom članku. Ne morate ih sve riješiti — jednostavno stisnite ono što ne radi naporno.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Uredi cjelokupni članak...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Kliknite \"$1\" da biste uredili nešto u članku.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Sada možete urediti sadržaj stranice. Kada završite, kliknite na {{int:visualeditor-toolbar-savedialog}}\" da biste pregledali i spremili promjene.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Sada možete urediti sadržaj stranice. Kada završite, kliknite na {{int:publishchanges}}\" da biste pregledali i spremili promjene.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Ako kliknete na \"{{int:showpreview}}\" vidjet ćete kako će izgledati članak s vašim izmjenama. Samo ih ne zaboravite spremiti.",
 	"gettingstarted-cta-edit-page-wikipedia": "Uredi ovaj članak",
 	"gettingstarted-cta-fix-pages-wikipedia": "Uredite predloženi članak",

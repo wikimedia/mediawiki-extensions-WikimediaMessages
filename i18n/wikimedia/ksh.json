@@ -6,7 +6,8 @@
 			"Απεργός",
 			"Nemo bis",
 			"WTM",
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Systemnohrechte un Tex för de Wikimedia Shtefftung ier Wikis.",
@@ -26,7 +27,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Heh di Aanzeije wihse op Problehmscher met däm Atike hen. Do moß se nit all beärbeide, donn jrahd dat, soh De desch johd met föhls.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Donn dä jannze Atikel beärbeide&nbsp;…",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klegg op „$1“, öm öhnßwoh en däm Atikel jädd ze ändere.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Jäz kanns De dä Enhhald vun däm Atikel beärbeide. Dä Knopp „{{int:visualeditor-toolbar-savedialog}}“ deiht Ding Änderonge faßhallde un aanzeije. Esu kanns De se och norr_ens lässe und pröhve, dat se johd sin.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Jäz kanns De dä Enhhald vun däm Atikel beärbeide. Dä Knopp „{{int:publishchanges}}“ deiht Ding Änderonge faßhallde un aanzeije. Esu kanns De se och norr_ens lässe und pröhve, dat se johd sin.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Dä Knopp „{{int:showpreview}}“ deiht Ding Änderonge blohß aanzeije. Esu kanns De se lässe und pröhve, dat se johd sin.\nDängk drahn, se dann och afzeschpeijschere.",
 	"gettingstarted-cta-edit-page-wikipedia": "Donn heh dä Atikel ändere",
 	"gettingstarted-cta-fix-pages-wikipedia": "Donn ene vörjeschlahre Atikel ändere",

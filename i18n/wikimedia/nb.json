@@ -14,7 +14,8 @@
 			"Jeblad",
 			"Telaneo",
 			"Jon Harald Søby",
-			"Pmt"
+			"Pmt",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke beskjeder",
@@ -34,7 +35,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Disse bannerne viser problemer med artikkelen. Du trenger ikke å fikse alle problemene, bare hold deg til det du føler deg i stand til å gjøre.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Rediger hele artikkelen…",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klikk på «$1» for å endre innhold hvor som helst i artikkelen.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Du kan nå redigere innholdet i artikkelen. Når du er ferdig, trykk på «{{int:visualeditor-toolbar-savedialog}}» for å gå gjennom og lagre endringene dine.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Du kan nå redigere innholdet i artikkelen. Når du er ferdig, trykk på «{{int:publishchanges}}» for å gå gjennom og lagre endringene dine.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Hvis du klikker på «{{int:showpreview}}» kan du se hvordan artikkelen vil se ut med endringene dine. Men ikke glem å lagre!",
 	"gettingstarted-cta-edit-page-wikipedia": "Rediger denne artikkelen",
 	"gettingstarted-cta-fix-pages-wikipedia": "Rediger en foreslått artikkel",

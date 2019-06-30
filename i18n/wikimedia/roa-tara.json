@@ -3,7 +3,8 @@
 		"authors": [
 			"Joetaras",
 			"Nemo bis",
-			"Reder"
+			"Reder",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Messàgge specifiche de Uicchimedia",
@@ -23,7 +24,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Ste avvise idendificane probbleme cu sta vôsce. Non ge serve ca le aggiuste tutte, jè sufficiende ca face chidde ca te sinde de fà.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Cange 'a vôsce indere...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Cazze sus a \"$1\" pe cangià 'u condenute jndr'à 'nu punde d'a vôsce",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Mò puè cnagià 'u condenute d'a vôsce. Quanne è spicciate, cazze \"{{int:visualeditor-toolbar-savedialog}}\" pe 'ndrucà arrete e reggistrà le cangiaminde tune.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Mò puè cnagià 'u condenute d'a vôsce. Quanne è spicciate, cazze \"{{int:publishchanges}}\" pe 'ndrucà arrete e reggistrà le cangiaminde tune.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Cazzanne '{{int:showpreview}}' te permette de 'ndrucà ce 'a vôsce iesse cu le cangiaminde tune. No te scurdà de reggistrà.",
 	"gettingstarted-cta-edit-page-wikipedia": "Cange sta vôsce",
 	"gettingstarted-cta-fix-pages-wikipedia": "Cange 'na vôsce suggerite",

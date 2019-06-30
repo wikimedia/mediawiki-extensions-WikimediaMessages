@@ -5,7 +5,8 @@
 			"Reza1615",
 			"Alirezaaa",
 			"Mjbmr",
-			"Arash.pt"
+			"Arash.pt",
+			"FarsiNevis"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های موقت ویژهٔ ویکی‌مدیا",
@@ -14,5 +15,6 @@
 	"group-oversight-member": "پنهانگر",
 	"hello": "سلام",
 	"please-translate": "لطفاً برای ترجمه به زبان مادریتان کمک کنید",
-	"thank-you": "{{GENDER:$1|ممنون.}}"
+	"thank-you": "{{GENDER:$1|ممنون.}}",
+	"specialblockfeedback": "بازخورد"
 }

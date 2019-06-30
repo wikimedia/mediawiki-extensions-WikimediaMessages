@@ -34,7 +34,8 @@
 			"Hamilton Abreu",
 			"Luk3",
 			"Felipe L. Ewald",
-			"Eduardo Addad de Oliveira"
+			"Eduardo Addad de Oliveira",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -54,7 +55,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Esses banners identificam problemas com este artigo. Você não precisa consertar todos, apenas fique com o que está com vontade de fazer.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Edite o artigo inteiro...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Clique em \"$1\" para mudar o conteúdo em qualquer lugar do artigo.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora você pode editar o conteúdo do artigo. Quando terminar, clique em \"{{int:visualeditor-toolbar-savedialog}}\" para visualizar e salvar sua modificações.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora você pode editar o conteúdo do artigo. Quando terminar, clique em \"{{int:publishchanges}}\" para visualizar e salvar sua modificações.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Clicar em \"{{int:showpreview}}\" permite ver como a página vai ficar com as suas modificações. Só não se esqueça de salvá-las.",
 	"gettingstarted-cta-edit-page-wikipedia": "Editar este artigo",
 	"gettingstarted-cta-fix-pages-wikipedia": "Edite um artigo sugerido",

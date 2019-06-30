@@ -14,7 +14,8 @@
 			"Nguyên Lê",
 			"Prenn",
 			"Leduyquang753",
-			"Tuyenduong97"
+			"Tuyenduong97",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -34,7 +35,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Các cờ ngang này nêu ra các vấn đề trên bài. Bạn không cần giải quyết tất cả mọi vấn đề. Hãy thoải mái muốn sửa gì thì sửa.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Sửa đổi toàn bộ bài viết…",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Bấm “$1” để thay đổi nội dung ở bất cứ phần nào của bài viết.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Bạn hiện có thể sửa đổi nội dung bài này. Sau khi hoàn tất, hãy bấm “{{int:visualeditor-toolbar-savedialog}}” để xem lại và lưu các thay đổi của bạn.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Bạn hiện có thể sửa đổi nội dung bài này. Sau khi hoàn tất, hãy bấm “{{int:publishchanges}}” để xem lại và lưu các thay đổi của bạn.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Bấm “{{int:showpreview}}” để xem trước bài với các thay đổi của bạn. Hãy nhớ lưu bài.",
 	"gettingstarted-cta-edit-page-wikipedia": "Sửa đổi bài này",
 	"gettingstarted-cta-fix-pages-wikipedia": "Sửa đổi một trang được gợi ý",

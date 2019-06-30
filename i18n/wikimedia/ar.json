@@ -24,7 +24,8 @@
 			"علاء",
 			"أحمد",
 			"Sonic N800",
-			"Kassem7899"
+			"Kassem7899",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -44,7 +45,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "هذه اللافتات تحديد المشاكل في هذه المقالة، لست بحاجة إلى إصلاحها جميعها، ولكن عليك الالتزام بما تفعله بسهولة.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "تحرير المقالة بأكملها...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "انقر على \"$1\" لتغيير المحتوى في أي مكان في المقالة.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "يمكنك الآن تحرير محتويات المقالة، عند الانتهاء، انقر فوق \"{{int:visualeditor-toolbar-savedialog}}\" لمراجعة تغييراتك وحفظها.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "يمكنك الآن تحرير محتويات المقالة، عند الانتهاء، انقر فوق \"{{int:publishchanges}}\" لمراجعة تغييراتك وحفظها.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "النقر على \"{{int:showpreview}}\" يسمح لك بأن ترى كيف ستبدو المقالة مع التغييرات، فقط لا تنسى الحفظ.",
 	"gettingstarted-cta-edit-page-wikipedia": "تحرير هذه المقالة",
 	"gettingstarted-cta-fix-pages-wikipedia": "تحرير مقالة مقترحة",

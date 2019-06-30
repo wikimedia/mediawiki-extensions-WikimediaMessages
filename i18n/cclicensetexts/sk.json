@@ -6,7 +6,8 @@
 			"Jkjk",
 			"Multichill",
 			"Rudko",
-			"LacoR"
+			"LacoR",
+			"Robert Važan"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sk:Creative Commons",
@@ -182,8 +183,8 @@
 	"wm-license-cc-free-to-remix-text": "upravovať dielo",
 	"wm-license-cc-conditions": "Za nasledovných podmienok:",
 	"wm-license-cc-conditions-attribution-header": "uvedenie autorov",
-	"wm-license-cc-conditions-attribution-text": "Musíte uviesť autorov diela spôsobom, aký požaduje autor alebo držiteľ licencie (ale nie žiadnym spôsobom, ktorý by naznačoval, že podporujú vás alebo vaše využitie diela)",
+	"wm-license-cc-conditions-attribution-text": "Musíte spomenúť autorov (jednotlivo alebo kolektívne), poskytnúť odkaz na licenciu a uviesť, či ste niečo zmenili. Môžete to urobiť ľubovoľným primeraným spôsobom, ale nie spôsobom naznačujúcim, že poskytovateľ licencie podporuje vás alebo vaše použitie diela.",
 	"wm-license-cc-conditions-share_alike-header": "meniť za rovnakých podmienok",
-	"wm-license-cc-conditions-share_alike-text": "Ak toto dielo zmeníte, prevediete do inej formy alebo použijete ako základ iného diela, môžete výsledné odvodené dielo šíriť iba pod rovnakou alebo podobnou licenciou ako je táto.",
+	"wm-license-cc-conditions-share_alike-text": "Ak toto dielo zmeníte, prevediete do inej formy alebo použijete ako základ iného diela, musíte výsledok šíriť pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses rovnakou alebo kompatibilnou licenciou] ako originál.",
 	"wm-license-cc-pd-mark-text": "Tento súbor bol identifikovaný, že nemá žiadne známe obmedzenia vyplývajúce z autorského zákona vrátane všetkých súvisiacich a susedných práv."
 }

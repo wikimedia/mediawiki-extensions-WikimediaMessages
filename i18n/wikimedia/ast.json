@@ -6,7 +6,8 @@
 			"Minh Nguyen",
 			"Nemo bis",
 			"Xuacu",
-			"Enolp"
+			"Enolp",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicos de Wikimedia",
@@ -26,7 +27,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Estos carteles identifiquen problemes con esti artículu. Nun necesites arreglalos toos, namái fai les coses coles que t'afayes.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Editar l'artículu completu...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Fai click en «$1» pa camudar el conteníu en cualquier llugar del artículu.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora pues editar el conteníu del artículu. En acabando, fai clic en «{{int:visualeditor-toolbar-savedialog}}» pa revisar y guardar los cambios.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Agora pues editar el conteníu del artículu. En acabando, fai clic en «{{int:publishchanges}}» pa revisar y guardar los cambios.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Si calques «{{int:showpreview}}» podrás ver l'aspeutu que tendrá l'artículu colos cambios. Pero nun escaezas guardalu.",
 	"gettingstarted-cta-edit-page-wikipedia": "Editar esti artículu",
 	"gettingstarted-cta-fix-pages-wikipedia": "Editar un artículu suxeríu",

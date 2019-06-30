@@ -29,7 +29,8 @@
 			"Green Zero",
 			"SimondR",
 			"Vlad5250",
-			"Gzhegozh"
+			"Gzhegozh",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -49,7 +50,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Ці банери визначають проблеми цієї статті. Вам не треба вирішувати їх усі, просто зробіть те, що вам під силу.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Редагувати всю статтю...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Натисніть «$1», щоб змінити вміст будь-де у статті.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Ви тепер можете редагувати вміст статті. Коли закінчите, натисніть «{{int:visualeditor-toolbar-savedialog}}», щоб переглянути і зберегти свої зміни.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Ви тепер можете редагувати вміст статті. Коли закінчите, натисніть «{{int:publishchanges}}», щоб переглянути і зберегти свої зміни.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Клацання «{{int:showpreview}}» дає змогу перевіряти вигляд статті із внесеними змінами. Тільки не забудьте зберегти.",
 	"gettingstarted-cta-edit-page-wikipedia": "Редагувати цю статтю",
 	"gettingstarted-cta-fix-pages-wikipedia": "Редагувати запропоновану статтю",
