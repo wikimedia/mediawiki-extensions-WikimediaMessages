@@ -16,9 +16,9 @@
 	"nstab-institution": "Lembaga",
 	"nstab-sequence": "Urutan",
 	"nstab-timedtext": "TimedText",
-	"group-image-reviewer": "Paninjau gambar",
-	"group-image-reviewer-member": "{{GENDER:$1|paninjau gambar}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Paninjau gambar",
+	"group-Image-reviewer": "Paninjau gambar",
+	"group-Image-reviewer-member": "{{GENDER:$1|paninjau gambar}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Paninjau gambar",
 	"group-otrs-member": "Anggota OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|anggota OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Anggota OTRS",
@@ -137,5 +137,8 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Mohon buekkan akun",
 	"wikimedia-developers": "Pangambang",
 	"wikimedia-globalblocking-ipblocked": "'''Alamaik IP Sanak alah [[m:Special:MyLanguage/Global blocks|diblokir pado sado wiki]].'''\n\nPamblokiran dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n*Mulo di blokir: $4\n*Kadaluarsa blokir: $5\n\nAlamaik IP Sanak kini adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak diblokir marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabuko]].\nKok tido, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|diblokir pado sado wiki]].'''\n\nPamblokiran dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo di blokir: $4\n* Kadaluwarsa blokir: $5\n\nAlamaik proksi nan diblokir adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak diblokir marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabuko]].\nKok tido, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]]."
+	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|diblokir pado sado wiki]].'''\n\nPamblokiran dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo di blokir: $4\n* Kadaluwarsa blokir: $5\n\nAlamaik proksi nan diblokir adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak diblokir marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabuko]].\nKok tido, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
+	"group-image-reviewer": "Paninjau gambar",
+	"group-image-reviewer-member": "{{GENDER:$1|paninjau gambar}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Paninjau gambar"
 }

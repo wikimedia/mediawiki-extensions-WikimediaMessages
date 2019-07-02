@@ -32,9 +32,9 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "पूरा लेख सम्पादित करें",
 	"gettingstarted-cta-edit-page-wikipedia": "इस लेख को सम्पादित करें",
 	"gettingstarted-cta-fix-pages-wikipedia": "सुझावित लेख सम्पादित करें",
-	"group-image-reviewer": "चित्र समीक्षक",
-	"group-image-reviewer-member": "{{GENDER:$1|चित्र समीक्षक}}",
-	"grouppage-image-reviewer": "{{ns:project}}:चित्र समीक्षक",
+	"group-Image-reviewer": "चित्र समीक्षक",
+	"group-Image-reviewer-member": "{{GENDER:$1|चित्र समीक्षक}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:चित्र समीक्षक",
 	"group-otrs-member": "OTRS सदस्य",
 	"group-otrs-member-member": "{{GENDER:$1|ओटीआरएस सदस्य}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS सदस्य",
@@ -165,5 +165,8 @@
 	"eri-rcfilters-tour-help": "और अधिक सीखें",
 	"eri-rcfilters-tour-intro-welcome-button": "हाँ, समझ गया",
 	"eri-rcfilters-tour-highlight-button": "हाँ, समझ गया",
-	"wikimedia-cookiestatement": "कुकी का वर्णन"
+	"wikimedia-cookiestatement": "कुकी का वर्णन",
+	"group-image-reviewer": "चित्र समीक्षक",
+	"group-image-reviewer-member": "{{GENDER:$1|चित्र समीक्षक}}",
+	"grouppage-image-reviewer": "{{ns:project}}:चित्र समीक्षक"
 }

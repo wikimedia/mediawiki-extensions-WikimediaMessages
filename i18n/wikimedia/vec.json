@@ -16,9 +16,9 @@
 	"nstab-institution": "Istitusion",
 	"nstab-sequence": "Secuensa",
 	"nstab-timedtext": "Sototitołi",
-	"group-image-reviewer": "Revisori de le imagini",
-	"group-image-reviewer-member": "{{GENDER:$1|verifegador de imaxeni|verifegatrise de imaxeni|verifegador/trise de imaxeni}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Revisori de le imagini",
+	"group-Image-reviewer": "Revisori de le imagini",
+	"group-Image-reviewer-member": "{{GENDER:$1|verifegador de imaxeni|verifegatrise de imaxeni|verifegador/trise de imaxeni}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Revisori de le imagini",
 	"group-otrs-member": "Utenti OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|utente OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Utenti OTRS",
@@ -131,5 +131,8 @@
 	"wikimedia-globalblocking-ipblocked": "'''El to indirisso IP el xe stà [[m:Special:MyLanguage/Global blocks|blocà globalmente]].'''\n\nEl bloco lo gà messo $1 ($2).\nEl motivo el xe ''$3''.\n\n* Scuminsio del bloco: $4\n* Fine del bloco: $5\n\nEl to indirisso IP desso el xe $6.\nSe te dimandi informassion a calchedun, riferissi tute le robe dite qua de sora.\n\nSe te pensi che i te gà blocà par sbalio, te pol catar altre informassion in te la polìtega globale [[m:Special:MyLanguage/No open proxies|Gnente proxy verti]].\nSe no, par discùtar del bloco te pol [[m:Steward requests/Global|mandar na richiesta de riesame su Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Un server proxy (o pì de uno) doparà da la to richiesta i xe stà [[m:Special:MyLanguage/Global blocks|blocà globalmente]].'''\n\nEl bloco lo gà messo $1 ($2).\nEl motivo el xe ''$3''.\n\n* Scuminsio del bloco: $4\n* Fine del bloco: $5\n\nL'indirizzo proxy blocà el xe $6.\nSe te dimandi informassion a calchedun, riferissi tute le robe dite qua de sora.\n\nSe te pensi che i te gà blocà par sbalio, te pol catar altre informassion in te la polìtega globale [[m:Special:MyLanguage/No open proxies|Gnente proxy verti]].\nSe no, par discùtar del bloco te pol [[m:Steward requests/Global|mandar na richiesta de riesame su Meta-Wiki]].",
 	"interlanguage-link-mul": "Altre lengoe",
-	"wikimedia-cookiestatement": "Dichiarasion sui cookie"
+	"wikimedia-cookiestatement": "Dichiarasion sui cookie",
+	"group-image-reviewer": "Revisori de le imagini",
+	"group-image-reviewer-member": "{{GENDER:$1|verifegador de imaxeni|verifegatrise de imaxeni|verifegador/trise de imaxeni}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Revisori de le imagini"
 }

@@ -15,9 +15,9 @@
 	"nstab-institution": "Enstitucion",
 	"nstab-sequence": "Sèquence",
 	"nstab-timedtext": "TèxtoSincronisâ",
-	"group-image-reviewer": "Controlors d’émâges",
-	"group-image-reviewer-member": "controlo{{GENDER:$1|r|sa}} d’émâges",
-	"grouppage-image-reviewer": "{{ns:project}}:Controlors d’émâges",
+	"group-Image-reviewer": "Controlors d’émâges",
+	"group-Image-reviewer-member": "controlo{{GENDER:$1|r|sa}} d’émâges",
+	"grouppage-Image-reviewer": "{{ns:project}}:Controlors d’émâges",
 	"group-otrs-member": "Membros OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|membro OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Membros OTRS",
@@ -118,5 +118,8 @@
 	"upload-form-label-not-own-work-message-commons": "Se vos éte pas lo dètentior des drêts d’ôtor sur cél fichiér ou ben que vos lo voléd publeyér desot na licence difèrenta, vos pouede empleyér l’[https://commons.wikimedia.org/wiki/Special:UploadWizard assistent de tèlèchargement de Commons].",
 	"upload-form-label-not-own-work-local-commons": "Vos pouede asse-ben èprovar d’empleyér la [[Special:Upload|pâge de tèlèchargement de {{SITENAME}}]], se cél fichiér y pôt étre tèlèchargiê d’aprés lors politiques.",
 	"wikimediashoplink-linktext": "Bouteca Wikimedia",
-	"wikimediashoplink-link-tooltip": "Visitâd la bouteca Wikimedia"
+	"wikimediashoplink-link-tooltip": "Visitâd la bouteca Wikimedia",
+	"group-image-reviewer": "Controlors d’émâges",
+	"group-image-reviewer-member": "controlo{{GENDER:$1|r|sa}} d’émâges",
+	"grouppage-image-reviewer": "{{ns:project}}:Controlors d’émâges"
 }

@@ -31,9 +31,9 @@
 	"nstab-institution": "Institucio",
 	"nstab-sequence": "Sinsekvo",
 	"nstab-timedtext": "TimedText",
-	"group-image-reviewer": "Bildaj kontrolantoj",
-	"group-image-reviewer-member": "{{GENDER:$1|bilda kontrolanto}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Bildaj kontrolantoj",
+	"group-Image-reviewer": "Bildaj kontrolantoj",
+	"group-Image-reviewer-member": "{{GENDER:$1|bilda kontrolanto}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Bildaj kontrolantoj",
 	"group-otrs-member": "OTRS-anoj",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS-ano}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS-anoj",
@@ -159,5 +159,8 @@
 	"upload-form-label-not-own-work-local-commons": "Vi ankaŭ eble dezirus provi per uzi [[Special:Upload|la paĝon de alŝutado sur {{SITENAME}}]], se ĉi tiu dosiero povas esti alŝutita tie respektante de iliaj politikoj.",
 	"interlanguage-link-wikipedia": "Vikipedio",
 	"eri-rcfilters-tour-help": "Lerni plu",
-	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj"
+	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj",
+	"group-image-reviewer": "Bildaj kontrolantoj",
+	"group-image-reviewer-member": "{{GENDER:$1|bilda kontrolanto}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Bildaj kontrolantoj"
 }

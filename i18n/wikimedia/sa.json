@@ -15,9 +15,9 @@
 	"nstab-institution": "संस्था",
 	"nstab-sequence": "अनुक्रमः",
 	"nstab-timedtext": "समयानुवर्ती पाठः",
-	"group-image-reviewer": "चित्रसमीक्षकाः",
-	"group-image-reviewer-member": "{{GENDER:$1|चित्रसमीक्षकः}}",
-	"grouppage-image-reviewer": "{{ns:project}}:चित्रसमीक्षकाः",
+	"group-Image-reviewer": "चित्रसमीक्षकाः",
+	"group-Image-reviewer-member": "{{GENDER:$1|चित्रसमीक्षकः}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:चित्रसमीक्षकाः",
 	"group-otrs-member": "OTRS सदस्याः",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS सदस्यः}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS सदस्याः",
@@ -112,5 +112,8 @@
 	"wikimedia-developers": "विधिकाराः",
 	"wikimedia-globalblocking-ipblocked": "'''भवतः/भवत्याः अन्तर्जालसंविद् [[m:Special:MyLanguage/Global blocks|सर्वेषु विकि-जालस्थानेषु अवरुद्धः]] अस्ति ।'''\n\nएषः अवरोधः $1 ($2) इत्यनेन कृतः ।\nकारणम् : ''$3'' \n\n* अवरोधारम्भः : $4\n* अवरोधसमाप्तिः : $5\n\nभवतः/भवत्याः प्रस्तुतः अन्तर्जालसंविद् $6.\nपृच्छायाः समये कृपया उक्तां सूचनां योजयतु । \n\nयदि भवान्/भवती चिन्तियति यत्, एषः अवरोधः कस्यचिद् दोषस्य परिणामः अस्ति, तर्हि भवान्/भवती अधिकसूचनां, निर्देशान् च [[m:Special:MyLanguage/No open proxies|\"नो ओपेन प्राक्सीस्\"]] इति वैश्विकनीतौ पठतु । \nअथवा तु, एतस्य अवरोधस्य चर्चां [[m:Steward requests/Global|अत्र कृत्वा मेटा-विकि-जाले नवीनां चर्चाम् आरभतु]] ।",
 	"wikimedia-globalblocking-ipblocked-xff": "'''एकम् उत अधिकानि प्रतिनिधिवितरकाः भवतः/भवत्याः निवेदनं  [[m:Special:MyLanguage/Global blocks|वैश्विकावरोधत्वेन निर्धारितवन्तः]].'''\n\nएषः अवरोधः $1 ($2) इत्यनेन कृतः ।\nकारणम् : ''$3'' \n\n* अवरोधारम्भः : $4\n* अवरोधसमाप्तिः : $5\n\nभवतः/भवत्याः प्रस्तुतः अन्तर्जालसंविद् $6.\nपृच्छायाः समये कृपया उक्तां सूचनां योजयतु । \n\nयदि भवान्/भवती चिन्तियति यत्, एषः अवरोधः कस्यचिद् दोषस्य परिणामः अस्ति, तर्हि भवान्/भवती अधिकसूचनां, निर्देशान् च [[m:Special:MyLanguage/No open proxies|\"नो ओपेन प्राक्सीस्\"]] इति वैश्विकनीतौ पठतु । \nअथवा तु, एतस्य अवरोधस्य चर्चां [[m:Steward requests/Global|अत्र कृत्वा मेटा-विकि-जाले नवीनां चर्चाम् आरभतु]] ।",
-	"interlanguage-link-mul": "अधिकभाषाः"
+	"interlanguage-link-mul": "अधिकभाषाः",
+	"group-image-reviewer": "चित्रसमीक्षकाः",
+	"group-image-reviewer-member": "{{GENDER:$1|चित्रसमीक्षकः}}",
+	"grouppage-image-reviewer": "{{ns:project}}:चित्रसमीक्षकाः"
 }

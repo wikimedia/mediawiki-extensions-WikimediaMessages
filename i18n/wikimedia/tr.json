@@ -32,9 +32,9 @@
 	"nstab-institution": "Kurum",
 	"nstab-sequence": "Sıra",
 	"nstab-timedtext": "ZamanlıMetin",
-	"group-image-reviewer": "Resim inceleyiciler",
-	"group-image-reviewer-member": "{{GENDER:$1|resim inceleyicisi}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Resim inceleyiciler",
+	"group-Image-reviewer": "Resim inceleyiciler",
+	"group-Image-reviewer-member": "{{GENDER:$1|resim inceleyicisi}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Resim inceleyiciler",
 	"group-otrs-member": "OTRS üyeleri",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS üyesi}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS üyeleri",
@@ -183,5 +183,8 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Geliştirilmiş izleme listesi filtrelemesine hoş geldiniz",
 	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak engellendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız.",
 	"right-viewdeletedfile": "{{ns:file}} ve {{ns:file_talk}} ad alanlarındaki silinen sayfaları ve dosyaları görüntüle",
-	"wikimedia-cookiestatement": "Çerez bildirgesi"
+	"wikimedia-cookiestatement": "Çerez bildirgesi",
+	"group-image-reviewer": "Resim inceleyiciler",
+	"group-image-reviewer-member": "{{GENDER:$1|resim inceleyicisi}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Resim inceleyiciler"
 }

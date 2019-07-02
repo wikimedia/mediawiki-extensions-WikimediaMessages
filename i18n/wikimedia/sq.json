@@ -22,9 +22,9 @@
 	"nstab-institution": "Institucion",
 	"nstab-sequence": "Sekuencë",
 	"nstab-timedtext": "Tekst me datë",
-	"group-image-reviewer": "Inspektorët e figurave",
-	"group-image-reviewer-member": "kontrollues e skedave",
-	"grouppage-image-reviewer": "{{ns:project}}:Kontrolluesit e skedave",
+	"group-Image-reviewer": "Inspektorët e figurave",
+	"group-Image-reviewer-member": "kontrollues e skedave",
+	"grouppage-Image-reviewer": "{{ns:project}}:Kontrolluesit e skedave",
 	"group-otrs-member": "Anëtarët OTRS",
 	"group-otrs-member-member": "anëtarë OTRS",
 	"grouppage-otrs-member": "{{ns:project}}:Anëtarët OTRS",
@@ -119,5 +119,8 @@
 	"eri-rcfilters-tour-intro-preferences-description": "Hyr ne hapsiren e Ndryshimeve te Fundit ne cdo kohe ne menyre qe te zgjidhni versionin e permiresuar te Ndryshimeve te Fundit.",
 	"eri-rcfilters-tour-intro-disable-button": "Perzgjedhni tani",
 	"eri-wlfilters-tour-intro-welcome-title": "Miresevini ne filterin e permiresuar te Listes-vrojtuese",
-	"eri-wlfilters-tour-intro-preferences-description": "Qasjuni hapsires Listes-shikuese ne preferencat ne cdo kohe per te perzgjedhur Listen-shikuese te permiresuar."
+	"eri-wlfilters-tour-intro-preferences-description": "Qasjuni hapsires Listes-shikuese ne preferencat ne cdo kohe per te perzgjedhur Listen-shikuese te permiresuar.",
+	"group-image-reviewer": "Inspektorët e figurave",
+	"group-image-reviewer-member": "kontrollues e skedave",
+	"grouppage-image-reviewer": "{{ns:project}}:Kontrolluesit e skedave"
 }

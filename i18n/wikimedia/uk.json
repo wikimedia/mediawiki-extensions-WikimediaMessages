@@ -54,9 +54,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Клацання «{{int:showpreview}}» дає змогу перевіряти вигляд статті із внесеними змінами. Тільки не забудьте зберегти.",
 	"gettingstarted-cta-edit-page-wikipedia": "Редагувати цю статтю",
 	"gettingstarted-cta-fix-pages-wikipedia": "Редагувати запропоновану статтю",
-	"group-image-reviewer": "Перевіряльники зображень",
-	"group-image-reviewer-member": "перевіряльник зображень",
-	"grouppage-image-reviewer": "{{ns:project}}:Перевіряльники зображень",
+	"group-Image-reviewer": "Перевіряльники зображень",
+	"group-Image-reviewer-member": "перевіряльник зображень",
+	"grouppage-Image-reviewer": "{{ns:project}}:Перевіряльники зображень",
 	"group-extended-uploader": "Завантажувачі з розширеними правами",
 	"group-extended-uploader-member": "{{GENDER:$1|завантажувач з розширеними правами|завантажувачка з розширеними правами}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Завантажувачі з розширеними правами",
@@ -344,5 +344,8 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Чи достатньо швидко завантажилася ця сторінка?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement політиці приватності] цього опитування.",
 	"wikimedia-switchover-read-only": "Ви не можете редагувати на цей момент. Це через технічне обслуговування. Скопіюйте і збережіть свій текст та спробуйте ще раз через кілька хвилин.",
-	"passwordpolicies-policy-blockattacker": "Політика щодо паролів для пом'якшення наслідків відомих атак, у яких розкриття деталей завадило б застосуванню такого пом'якшення"
+	"passwordpolicies-policy-blockattacker": "Політика щодо паролів для пом'якшення наслідків відомих атак, у яких розкриття деталей завадило б застосуванню такого пом'якшення",
+	"group-image-reviewer": "Перевіряльники зображень",
+	"group-image-reviewer-member": "перевіряльник зображень",
+	"grouppage-image-reviewer": "{{ns:project}}:Перевіряльники зображень"
 }

@@ -18,9 +18,9 @@
 	"nstab-institution": "Institución",
 	"nstab-sequence": "Seqüencia",
 	"nstab-timedtext": "TimedText",
-	"group-image-reviewer": "Revisors d'imachens",
-	"group-image-reviewer-member": "{{GENDER:$1|revisor de fichers|revisora de fichers}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Revisors d'imachens",
+	"group-Image-reviewer": "Revisors d'imachens",
+	"group-Image-reviewer-member": "{{GENDER:$1|revisor de fichers|revisora de fichers}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Revisors d'imachens",
 	"group-otrs-member": "Miembros de l'OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|miembro de OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Miembros d'OTRS",
@@ -109,5 +109,8 @@
 	"wikimedia-copyright": "O texto ye disponible baixo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Licencia Creative Commons Atribución/Compartir-Igual</a>;\ntalment sigan d'aplicación clausulas adicionals.\nMire-se <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">os termins d'uso</a> ta conoixer más detalles.",
 	"wikimedia-copyrightwarning": "En pretando o botón \"{{int:savearticle}}\", ye acceptando os [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Termins d'utilización], y a cesión irrefusable d'a suya contribución baixo a [https://creativecommons.org/licenses/by-sa/3.0/ Licencia Creative Commons CC-BY-SA 3.0] y a [https://www.gnu.org/copyleft/fdl.html Licencia GFDL].\nTamién ye acceptando que una cita por meyo d'un hipervinclo u URL ye una atribución suficient baixo a licencia Creative Commons.",
 	"cant-delete-main-page": "No puede borrar ni mover a pachina prencipal.",
-	"interlanguage-link-sitename-wikipedia": "Biquipedia, a enciclopedia libre"
+	"interlanguage-link-sitename-wikipedia": "Biquipedia, a enciclopedia libre",
+	"group-image-reviewer": "Revisors d'imachens",
+	"group-image-reviewer-member": "{{GENDER:$1|revisor de fichers|revisora de fichers}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Revisors d'imachens"
 }

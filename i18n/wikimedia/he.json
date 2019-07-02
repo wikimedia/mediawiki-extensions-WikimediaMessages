@@ -37,9 +37,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "לחיצה על \"{{int:showpreview}}\" מאפשרת לך לראות איך ייראה הערך עם השינויים שלך. רק לא לשכוח לשמור.",
 	"gettingstarted-cta-edit-page-wikipedia": "עריכת הערך הזה",
 	"gettingstarted-cta-fix-pages-wikipedia": "עריכת ערך מוצע",
-	"group-image-reviewer": "סוקרי תמונות",
-	"group-image-reviewer-member": "{{GENDER:$1|סוקר|סוקרת}} תמונות",
-	"grouppage-image-reviewer": "{{ns:project}}:סוקרי תמונות",
+	"group-Image-reviewer": "סוקרי תמונות",
+	"group-Image-reviewer-member": "{{GENDER:$1|סוקר|סוקרת}} תמונות",
+	"grouppage-Image-reviewer": "{{ns:project}}:סוקרי תמונות",
 	"group-extended-uploader": "מעלים בעלי הרשאות מורחבות",
 	"group-extended-uploader-member": "מעלה {{GENDER:$1|בעל|בעלת}} הרשאות מורחבות",
 	"grouppage-extended-uploader": "{{ns:project}}:מעלים בעלי הרשאות מורחבות",
@@ -310,5 +310,8 @@
 	"wikimedia-switchover-read-only": "לא ניתן לערוך עכשיו. זה קורה בגלל תחזוקה. נא להעתיק ולשמור במקום אחר את הטקסט ולנסות שוב בעוד מספר דקות.",
 	"passwordpolicies-policy-blockattacker": "מדיניות סיסמאות לאפחות התקפות ידועות כאשר חשיפות פרטים תפריע לאפחות",
 	"technical-maintenance-soon": "בקרוב תבוצע תחזוקה טכנית:",
-	"technical-maintenance-edit": "בזמן הזה לא תוכלו לשמור עריכות."
+	"technical-maintenance-edit": "בזמן הזה לא תוכלו לשמור עריכות.",
+	"group-image-reviewer": "סוקרי תמונות",
+	"group-image-reviewer-member": "{{GENDER:$1|סוקר|סוקרת}} תמונות",
+	"grouppage-image-reviewer": "{{ns:project}}:סוקרי תמונות"
 }

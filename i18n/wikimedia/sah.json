@@ -15,9 +15,9 @@
 	"nstab-institution": "Тэрилтэ",
 	"nstab-sequence": "Утум",
 	"nstab-timedtext": "Синхротиэкис",
-	"group-image-reviewer": "Ойуулары тургутааччылар",
-	"group-image-reviewer-member": "ойуулары тургутааччы",
-	"grouppage-image-reviewer": "{{ns:project}}:Ойуу тургутааччылар",
+	"group-Image-reviewer": "Ойуулары тургутааччылар",
+	"group-Image-reviewer-member": "ойуулары тургутааччы",
+	"grouppage-Image-reviewer": "{{ns:project}}:Ойуу тургутааччылар",
 	"group-otrs-member": "OTRS чилиэннэрэ",
 	"group-otrs-member-member": "OTRS чилиэнэ",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS чилиэннэрэ",
@@ -111,5 +111,8 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Эн туһаммыт прокси-сиэрбэриҥ [[m:Special:MyLanguage/Global blocks|бары биики бырайыактарга хааччахтаммыт]] эбит.'''\n\nХааччах оҥоһуллубут $1 ($2).\nЫйыллыбыт төрүөтэ: ''$3''.\n\n* хааччах саҕаланыыта: $4 \n* хааччах бүтүүтэ: $5 \n\nХааччахтаммыт прокси аадырыс - $6.\nСурук суруйар түгэҥҥэр, бука диэн маны суруккар ыйаар дуу.\n\nАлҕас хааччахтаммыт буоллаххына тугу гынар туһунан бу аан дойдуга барытыгар туттуллар сиэр сирэйин көрүөххүн сөп [[m:Special:MyLanguage/No open proxies|Аһаҕас прокси-сиэрбэри туһанар бобулларын туһунан]].\nЭбэтэр [[m:Steward requests/Global|Мета-вики диэн сиргэ]] бу туһунан кэпсэтиэххин сөп.",
 	"upload-form-label-own-work-message-commons": "Бу билэни бас билэрбин уонна Биики Ыскылаакка төнүннэрбэттии [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike 4.0] лиссиэнсийэннэн угары бигэргэтэбин. Ону тэҥэ [https://foundation.wikimedia.org/wiki/Условия_использования Туһаныы усулуобуйатын кытта] сөбүлэһэбин.",
 	"upload-form-label-not-own-work-message-commons": "Өскөтө билэни бас билбэт буоллаххына, биитэр атын лиссиэнсийэннэн угуоххун баҕарар буоллаххына, манна баар ньыманы туһаныаххын сөп: [https://commons.wikimedia.org/wiki/Special:UploadWizard Биики Ыскылаакка угуу маастара].",
-	"upload-form-label-not-own-work-local-commons": "Өскө, {{SITENAME}} быраабылатынан угар сатанар буоллаҕына, кини [[Special:Upload|киллэрии тэрилин]] туһаныаххын эмиэ сөп."
+	"upload-form-label-not-own-work-local-commons": "Өскө, {{SITENAME}} быраабылатынан угар сатанар буоллаҕына, кини [[Special:Upload|киллэрии тэрилин]] туһаныаххын эмиэ сөп.",
+	"group-image-reviewer": "Ойуулары тургутааччылар",
+	"group-image-reviewer-member": "ойуулары тургутааччы",
+	"grouppage-image-reviewer": "{{ns:project}}:Ойуу тургутааччылар"
 }

@@ -15,9 +15,9 @@
 	"nstab-institution": "Institutjuun",
 	"nstab-sequence": "Sekwens",
 	"nstab-timedtext": "Timed tekst",
-	"group-image-reviewer": "Datei efterlukern",
-	"group-image-reviewer-member": "{{GENDER:$1|Datei efterwerker}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Datei efterwerkern",
+	"group-Image-reviewer": "Datei efterlukern",
+	"group-Image-reviewer-member": "{{GENDER:$1|Datei efterwerker}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Datei efterwerkern",
 	"group-otrs-member": "OTRS lasmooten",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS lasmoot}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS lasmooten",
@@ -187,5 +187,8 @@
 	"restriction-level-editeditorprotected": "seekert (bluas kontrolöören)",
 	"wikimedia-centralauth-contribs-locked": "Detdiar brükerkonto as globaal speret wurden. \nMuar diartu fanjst dü oner\n[[m:Special:CentralAuth/$1|Neis tu't globaal brükerkonto]].",
 	"right-viewdeletedfile": "Stregen datein an sidjen uun a nöömrümer „{{ns:file}}“ an „{{ns:file_talk}}“ uunluke",
-	"securepoll-dblist-securepollglobal": "Wool faan't schüür"
+	"securepoll-dblist-securepollglobal": "Wool faan't schüür",
+	"group-image-reviewer": "Datei efterlukern",
+	"group-image-reviewer-member": "{{GENDER:$1|Datei efterwerker}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Datei efterwerkern"
 }

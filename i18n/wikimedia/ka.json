@@ -32,9 +32,9 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "მთელი სტატიის რედაქტირება...",
 	"gettingstarted-cta-edit-page-wikipedia": "ამ სტატიის რედაქტირება",
 	"gettingstarted-cta-fix-pages-wikipedia": "შემოთავაზებული სტატიის რედაქტირება",
-	"group-image-reviewer": "სურათის შემმოწმებლები",
-	"group-image-reviewer-member": "{{GENDER:$1|სურათის შემმოწმებელი}}",
-	"grouppage-image-reviewer": "{{ns:project}}:სურათის შემმოწმებლები",
+	"group-Image-reviewer": "სურათის შემმოწმებლები",
+	"group-Image-reviewer-member": "{{GENDER:$1|სურათის შემმოწმებელი}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:სურათის შემმოწმებლები",
 	"group-otrs-member": "OTRS-ის წევრები",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS-ის წევრი}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS-ის წევრები",
@@ -183,5 +183,8 @@
 	"eri-rcfilters-tour-highlight-button": "კარგი, გასაგებია",
 	"eri-wlfilters-tour-intro-welcome-title": "კეთილი იყოს თქვენი მობრძანება გაუმჯობესებული კონტროლის სიის ფილტრაციაში",
 	"eri-wlfilters-tour-intro-preferences-description": "წვდომა კონტროლის სიის ჩანართთან კონფიგურაციაში ნებისმიერ დროს გაუმჯობესებული კონტროლის სიის გასათიშად.",
-	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]"
+	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]",
+	"group-image-reviewer": "სურათის შემმოწმებლები",
+	"group-image-reviewer-member": "{{GENDER:$1|სურათის შემმოწმებელი}}",
+	"grouppage-image-reviewer": "{{ns:project}}:სურათის შემმოწმებლები"
 }

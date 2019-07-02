@@ -51,9 +51,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Si cliqueu a «{{int:showpreview}}» podreu veure com quedarà l'article amb els canvis. En acabat, no us oblideu de desar.",
 	"gettingstarted-cta-edit-page-wikipedia": "Modifica aquest article",
 	"gettingstarted-cta-fix-pages-wikipedia": "Edita un article suggerit.",
-	"group-image-reviewer": "Revisors d'imatges",
-	"group-image-reviewer-member": "{{GENDER:$1|revisor d'imatges|revisora d'imatges}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Revisors d'imatges",
+	"group-Image-reviewer": "Revisors d'imatges",
+	"group-Image-reviewer-member": "{{GENDER:$1|revisor d'imatges|revisora d'imatges}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Revisors d'imatges",
 	"group-otrs-member": "Membres d'OTRS",
 	"group-otrs-member-member": "membre d'OTRS",
 	"grouppage-otrs-member": "{{ns:project}}:Membres d'OTRS",
@@ -192,5 +192,8 @@
 	"eri-rcfilters-tour-help": "Més informació",
 	"wikimedia-cookiestatement": "Declaració de cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Ha estat aquesta pàgina carregada amb prou rapidesa?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Per a més informació; vegeu [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaració de privadesa]."
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Per a més informació; vegeu [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaració de privadesa].",
+	"group-image-reviewer": "Revisors d'imatges",
+	"group-image-reviewer-member": "{{GENDER:$1|revisor d'imatges|revisora d'imatges}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Revisors d'imatges"
 }

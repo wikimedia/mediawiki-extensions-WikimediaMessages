@@ -13,9 +13,9 @@
 	"nstab-creator": "Muallif",
 	"nstab-institution": "Muassasa",
 	"nstab-sequence": "Ketma-ketlik",
-	"group-image-reviewer": "Tasvir tekshiruvchilari",
-	"group-image-reviewer-member": "{{GENDER:$1|tasvir tekshiruvchisi}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Tasvir tekshiruvchilari",
+	"group-Image-reviewer": "Tasvir tekshiruvchilari",
+	"group-Image-reviewer-member": "{{GENDER:$1|tasvir tekshiruvchisi}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Tasvir tekshiruvchilari",
 	"group-otrs-member": "OTRS a’zolari",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS a’zosi}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS a’zolari",
@@ -110,5 +110,8 @@
 	"upload-more-photos-of-this-monument": "Ushbu obyektning yana boshqa suratlarini yuklash",
 	"wikimedia-developers": "Dasturchilar",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Maxfiylik siyosati]",
-	"interlanguage-link-commons": "Vikiombor"
+	"interlanguage-link-commons": "Vikiombor",
+	"group-image-reviewer": "Tasvir tekshiruvchilari",
+	"group-image-reviewer-member": "{{GENDER:$1|tasvir tekshiruvchisi}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Tasvir tekshiruvchilari"
 }

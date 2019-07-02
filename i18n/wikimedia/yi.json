@@ -24,9 +24,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "קליקן \"{{int:showpreview}}\" דערמעגליכט אייך צו זען וויאזוי וועט אויסזען דער ארטיקל מיט אייערע ענדערונגען. אבער פארגעסט נישט אים אויפצוהיטן.",
 	"gettingstarted-cta-edit-page-wikipedia": "רעדאקטירן דעם ארטיקל",
 	"gettingstarted-cta-fix-pages-wikipedia": "רעדאקטירן א פֿארגעשלאגענעם ארטיקל",
-	"group-image-reviewer": "בילד רעצענזענטן",
-	"group-image-reviewer-member": "{{GENDER:$1| בילד רעצענזענט}}",
-	"grouppage-image-reviewer": "{{ns:project}}:בילדער רעצענזענטן",
+	"group-Image-reviewer": "בילד רעצענזענטן",
+	"group-Image-reviewer-member": "{{GENDER:$1| בילד רעצענזענט}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:בילדער רעצענזענטן",
 	"group-otrs-member": "OTRS מיטגלידער",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS מיטגליד}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS מיטגלידער",
@@ -186,5 +186,8 @@
 	"eri-rcfilters-tour-intro-welcome-button": "גוט, פארשטאנען",
 	"eri-rcfilters-tour-highlight-title": "פֿארב־קאדירן אייערע רעזולטאטן",
 	"eri-rcfilters-tour-highlight-button": "גוט, פארשטאנען",
-	"eri-rcfilters-tour-confirm-title": "די נייע פֿילטערס זענען אצינד אַקטיווירט"
+	"eri-rcfilters-tour-confirm-title": "די נייע פֿילטערס זענען אצינד אַקטיווירט",
+	"group-image-reviewer": "בילד רעצענזענטן",
+	"group-image-reviewer-member": "{{GENDER:$1| בילד רעצענזענט}}",
+	"grouppage-image-reviewer": "{{ns:project}}:בילדער רעצענזענטן"
 }

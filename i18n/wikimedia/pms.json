@@ -16,9 +16,9 @@
 	"nstab-institution": "Istitussion",
 	"nstab-sequence": "Sequensa",
 	"nstab-timedtext": "TestSincronisà",
-	"group-image-reviewer": "Revisor ëd figure",
-	"group-image-reviewer-member": "{{GENDER:$1|revisor ëd figure}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Revisor ëd figure",
+	"group-Image-reviewer": "Revisor ëd figure",
+	"group-Image-reviewer-member": "{{GENDER:$1|revisor ëd figure}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Revisor ëd figure",
 	"group-otrs-member": "Mèmber OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|Mèmber OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Mèmber OTRS",
@@ -144,5 +144,8 @@
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Régole ëd confidensialità]",
 	"grant-checkuser": "Acede ai dàit ëd verificator",
 	"wikimediashoplink-linktext": "Negòssi Wikimedia",
-	"wikimediashoplink-link-tooltip": "Vìsita ël Negòssi Wikimedia"
+	"wikimediashoplink-link-tooltip": "Vìsita ël Negòssi Wikimedia",
+	"group-image-reviewer": "Revisor ëd figure",
+	"group-image-reviewer-member": "{{GENDER:$1|revisor ëd figure}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Revisor ëd figure"
 }

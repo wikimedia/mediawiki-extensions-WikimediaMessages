@@ -62,9 +62,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "点击“{{int:showpreview}}”允许您查看您更改后的条目是什么样。不要忘记保存。",
 	"gettingstarted-cta-edit-page-wikipedia": "编辑此条目",
 	"gettingstarted-cta-fix-pages-wikipedia": "编辑建议条目",
-	"group-image-reviewer": "图像审查者",
-	"group-image-reviewer-member": "{{GENDER:$1|图像审查者}}",
-	"grouppage-image-reviewer": "{{ns:project}}:图像审查者",
+	"group-Image-reviewer": "图像审查者",
+	"group-Image-reviewer-member": "{{GENDER:$1|图像审查者}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:图像审查者",
 	"group-extended-uploader": "扩展上传者",
 	"group-extended-uploader-member": "{{GENDER:$1|扩展上传者}}",
 	"grouppage-extended-uploader": "{{ns:project}}:扩展上传者",
@@ -348,5 +348,8 @@
 	"ext-quicksurveys-performance-internal-survey-question": "此页面是否加载足够快？",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
 	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。",
-	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程"
+	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程",
+	"group-image-reviewer": "图像审查者",
+	"group-image-reviewer-member": "{{GENDER:$1|图像审查者}}",
+	"grouppage-image-reviewer": "{{ns:project}}:图像审查者"
 }

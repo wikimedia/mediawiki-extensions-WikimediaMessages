@@ -39,9 +39,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Hvis du klikker på «{{int:showpreview}}» kan du se hvordan artikkelen vil se ut med endringene dine. Men ikke glem å lagre!",
 	"gettingstarted-cta-edit-page-wikipedia": "Rediger denne artikkelen",
 	"gettingstarted-cta-fix-pages-wikipedia": "Rediger en foreslått artikkel",
-	"group-image-reviewer": "Bildekontrollører",
-	"group-image-reviewer-member": "{{GENDER:$1|bildereviderer}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Bildekontrollører",
+	"group-Image-reviewer": "Bildekontrollører",
+	"group-Image-reviewer-member": "{{GENDER:$1|bildereviderer}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Bildekontrollører",
 	"group-extended-uploader": "Utvidede opplastere",
 	"group-extended-uploader-member": "{{GENDER:$1|utvidet opplaster}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Utvidede opplastere",
@@ -286,5 +286,8 @@
 	"wikimedia-centralauth-contribs-locked": "Denne kontoen er låst globalt.\nSe [[m:Special:CentralAuth/$1|globale kontodetaljer]] for mer informasjon.",
 	"right-viewdeletedfile": "Vis filer og sider i navnerommene {{ns:file}} og {{ns:file_talk}} som er slettet",
 	"securepoll-dblist-securepollglobal": "Styrevalg",
-	"wikimedia-cookiestatement": "Erklæring om informasjonskapsler"
+	"wikimedia-cookiestatement": "Erklæring om informasjonskapsler",
+	"group-image-reviewer": "Bildekontrollører",
+	"group-image-reviewer-member": "{{GENDER:$1|bildereviderer}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Bildekontrollører"
 }

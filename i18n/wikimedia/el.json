@@ -47,9 +47,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Πατώντας στο \"Εμφάνιση προεπισκόπησης\" σας επιτρέπει να δείτε πως θα είναι το λήμμα μετά τις αλλαγές που κάνατε. Απλά μην ξεχάσετε να αποθηκεύσετε!",
 	"gettingstarted-cta-edit-page-wikipedia": "Επεξεργασία αυτού του λήμματος",
 	"gettingstarted-cta-fix-pages-wikipedia": "Επεξεργαστείτε ένα προτεινόμενο λήμμα",
-	"group-image-reviewer": "Εξεταστές εικόνων",
-	"group-image-reviewer-member": "{{GENDER:$1|επιθεωρητής|επιθεωρήτρια}} εικόνων",
-	"grouppage-image-reviewer": "{{ns:project}}:Εξεταστές εικόνας",
+	"group-Image-reviewer": "Εξεταστές εικόνων",
+	"group-Image-reviewer-member": "{{GENDER:$1|επιθεωρητής|επιθεωρήτρια}} εικόνων",
+	"grouppage-Image-reviewer": "{{ns:project}}:Εξεταστές εικόνας",
 	"group-extended-uploader": "Εκτενή συστήματα φόρτωσης",
 	"group-extended-uploader-member": "{{GENDER:$1|Extended uploader}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Eκτενείς φορτώσεις",
@@ -234,5 +234,8 @@
 	"wikimedia-centralauth-contribs-locked": "Αυτός ο λογαριασμός είναι καθολικά κλειδωμένος.\nΒλέπε τις [[m:Special:CentralAuth/$1|καθολικές λεπτομέρειες λογαριασμού]] για περισσότερες πληροφορίες.",
 	"right-viewdeletedfile": "Προβολή αρχείων και σελίδων στους χώρους {{ns:file}} και {{ns:file_talk}} που έχουν διαγραφεί",
 	"wikimedia-cookiestatement": "Δήλωση cookie",
-	"ext-quicksurveys-performance-internal-survey-question": "Αυτή η σελίδα φόρτωσε αρκετά γρήγορα;"
+	"ext-quicksurveys-performance-internal-survey-question": "Αυτή η σελίδα φόρτωσε αρκετά γρήγορα;",
+	"group-image-reviewer": "Εξεταστές εικόνων",
+	"group-image-reviewer-member": "{{GENDER:$1|επιθεωρητής|επιθεωρήτρια}} εικόνων",
+	"grouppage-image-reviewer": "{{ns:project}}:Εξεταστές εικόνας"
 }

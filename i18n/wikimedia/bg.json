@@ -37,9 +37,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Натискането на бутона \"{{int:showpreview}}\" ви позволява да прегледате как изглежда страницата след вашите промени. Не забравяйте после да съхраните редакцията си.",
 	"gettingstarted-cta-edit-page-wikipedia": "Редактирайте тази статия",
 	"gettingstarted-cta-fix-pages-wikipedia": "Редактирайте предложена статия",
-	"group-image-reviewer": "Проверяващи на изображения",
-	"group-image-reviewer-member": "{{GENDER:$1|проверяващ на изображения}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Проверяващи на изображения",
+	"group-Image-reviewer": "Проверяващи на изображения",
+	"group-Image-reviewer-member": "{{GENDER:$1|проверяващ на изображения}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Проверяващи на изображения",
 	"group-otrs-member": "Членове на OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|член на OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Членове на OTRS",
@@ -253,5 +253,8 @@
 	"right-viewdeletedfile": "Преглеждане на изтрити файлове и страници в именните пространства {{ns:file}} и {{ns:file_talk}}",
 	"wikimedia-cookiestatement": "Използване на „бисквитки“",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "За повече информация, вижте[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement защитата на личните данни] в анкетата.",
-	"passwordpolicies-policy-blockattacker": "Политика по отношение на паролите за намаляване на възможността за познати атаки, при която разкриването на повече информация ще попречи на намаляването на тази възможност."
+	"passwordpolicies-policy-blockattacker": "Политика по отношение на паролите за намаляване на възможността за познати атаки, при която разкриването на повече информация ще попречи на намаляването на тази възможност.",
+	"group-image-reviewer": "Проверяващи на изображения",
+	"group-image-reviewer-member": "{{GENDER:$1|проверяващ на изображения}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Проверяващи на изображения"
 }

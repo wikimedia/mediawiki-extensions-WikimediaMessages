@@ -73,9 +73,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Нажатие «{{int:showpreview}}» позволяет проверить, как будет выглядеть статья с вашими изменениями. Только не забудьте её потом сохранить.",
 	"gettingstarted-cta-edit-page-wikipedia": "Редактировать эту статью",
 	"gettingstarted-cta-fix-pages-wikipedia": "Редактировать предложенную статью",
-	"group-image-reviewer": "Проверяющие изображения",
-	"group-image-reviewer-member": "{{GENDER:$1|проверяющий изображения|проверяющая изображения}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Проверяющие изображения",
+	"group-Image-reviewer": "Проверяющие изображения",
+	"group-Image-reviewer-member": "{{GENDER:$1|проверяющий изображения|проверяющая изображения}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Проверяющие изображения",
 	"group-extended-uploader": "Расширенные загружающие",
 	"group-extended-uploader-member": "{{GENDER:$1|расширенный загружающий|расширенная загружающая}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Расширенные пользователи",
@@ -347,5 +347,8 @@
 	"wikimedia-cookiestatement": "Соглашение о cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Достаточно ли быстро загрузилась эта страница?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Чтобы узнать больше, см. [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement политику конфиденциальности] данного опроса.",
-	"passwordpolicies-policy-blockattacker": "Правило о паролях для смягчения известных нападений, где раскрытие данных помешало бы такому смягчению"
+	"passwordpolicies-policy-blockattacker": "Правило о паролях для смягчения известных нападений, где раскрытие данных помешало бы такому смягчению",
+	"group-image-reviewer": "Проверяющие изображения",
+	"group-image-reviewer-member": "{{GENDER:$1|проверяющий изображения|проверяющая изображения}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Проверяющие изображения"
 }

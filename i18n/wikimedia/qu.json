@@ -15,9 +15,9 @@
 	"nstab-institution": "Wallpachay wasi",
 	"nstab-sequence": "Qatikipay",
 	"nstab-timedtext": "TimedText",
-	"group-image-reviewer": "Rikch'a qhawapuqkuna",
-	"group-image-reviewer-member": "{{GENDER:$1|}}rikch'a qhawapuq",
-	"grouppage-image-reviewer": "{{ns:project}}:Rikch'a qhawapuqkuna",
+	"group-Image-reviewer": "Rikch'a qhawapuqkuna",
+	"group-Image-reviewer-member": "{{GENDER:$1|}}rikch'a qhawapuq",
+	"grouppage-Image-reviewer": "{{ns:project}}:Rikch'a qhawapuqkuna",
 	"group-otrs-member": "OTRS wankurisqakuna",
 	"group-otrs-member-member": "{{GENDER:$1|}}OTRS wankurisqa",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS wankurisqakuna",
@@ -115,5 +115,8 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Mañakuyniykipi llamk'achisqa huk icha aswan proksi sirwiqqa [[m:Special:MyLanguage/Global blocks|tukuy wikikunapi hark'asqam]].'''\n\nHark'arqasunki $1 ($2).\nHark'arqasunki kayrayku: ''$3''.\n\n* Hark'aypa qallariynin: $4\n* Hark'aypa puchukaynin: $5\n\nKunan IP imamaytayki: $6.\nImatapas tapuspaykiqa, chay tukuy nisqakunamanta willay.\n\nKayqa pantasqa kaymanta iñispaykiqa, [[m:Special:MyLanguage/No open proxies|kichasqa proksi ama kachunchu]] nisqa pachantin kawpay nisqapi astawan ñawiriyta atinki.\nMana hinaptinqa, [[m:Steward requests/Global|kutin rikuna mañakuyta Meta-Wiki nisqaman churayta]] atinki hark'asqamanta rimanakunaykipaq.",
 	"interlanguage-link-sitename-wikipedia": "Wikipidiya, qispi insiklupidiya",
 	"wikimedia-centralauth-contribs-locked": "Kay ruraqqa tukuy wikikunapi hark'asqam kachkan.\n[[m:Special:CentralAuth/$1|Tukuy wikikunapaq rakiqunamanta imaymanakunata]] qhaway willasunaykipaq.",
-	"wikimedia-cookiestatement": "''Cookie'' nisqamanta chayhina nisqa"
+	"wikimedia-cookiestatement": "''Cookie'' nisqamanta chayhina nisqa",
+	"group-image-reviewer": "Rikch'a qhawapuqkuna",
+	"group-image-reviewer-member": "{{GENDER:$1|}}rikch'a qhawapuq",
+	"grouppage-image-reviewer": "{{ns:project}}:Rikch'a qhawapuqkuna"
 }

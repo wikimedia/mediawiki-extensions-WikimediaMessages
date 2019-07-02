@@ -34,9 +34,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "«{{int:showpreview}}» батырмасын бассаңыз өзгерістеріңіздің бұл мақалаға қалай өзгертетінін көре аласыз. Тек сақтауды ұмытпаңыз.",
 	"gettingstarted-cta-edit-page-wikipedia": "Бұл мақаланы өңдеу",
 	"gettingstarted-cta-fix-pages-wikipedia": "Ұсынылған мақаланы өңдеңіз",
-	"group-image-reviewer": "Суретті шолушылар",
-	"group-image-reviewer-member": "{{GENDER:$1|суретті шолушылар}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Суретті шолушылар",
+	"group-Image-reviewer": "Суретті шолушылар",
+	"group-Image-reviewer-member": "{{GENDER:$1|суретті шолушылар}}",
+	"grouppage-Image-reviewer": "{{ns:project}}:Суретті шолушылар",
 	"group-otrs-member": "OTRS мүшелер",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS мүшелер}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS мүшелер",
@@ -196,5 +196,8 @@
 	"right-extendedconfirmed": "Шектелген беттерді өңдеу",
 	"right-editeditorprotected": "«{{int:protect-level-autoconfirmed}}» ретінде қорғалған беттерді өңдеу",
 	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету",
-	"wikimedia-cookiestatement": "Cookie statement"
+	"wikimedia-cookiestatement": "Cookie statement",
+	"group-image-reviewer": "Суретті шолушылар",
+	"group-image-reviewer-member": "{{GENDER:$1|суретті шолушылар}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Суретті шолушылар"
 }

@@ -23,9 +23,9 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Ännert de ganzen Artikel...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Klickt \"$1\" fir Inhalt iergendwou am Artikel z'änneren.",
 	"gettingstarted-cta-edit-page-wikipedia": "Dësen Artikel änneren",
-	"group-image-reviewer": "Bild-Iwwerpréifer",
-	"group-image-reviewer-member": "{{GENDER:$1|Bild-Iwwerpréifer}}",
-	"grouppage-image-reviewer": "{{ns:project}}: Bild-Iwwerpréifer",
+	"group-Image-reviewer": "Bild-Iwwerpréifer",
+	"group-Image-reviewer-member": "{{GENDER:$1|Bild-Iwwerpréifer}}",
+	"grouppage-Image-reviewer": "{{ns:project}}: Bild-Iwwerpréifer",
 	"group-otrs-member": "OTRS Memberen",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS Member}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRS Memberen",
@@ -191,5 +191,8 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Wëllkomm op der verbesserter Filterung vun der Iwwerwaachungslëscht",
 	"wikimedia-centralauth-contribs-locked": "Dëse Benotzerkont ass global gespaart.\nKuckt d'[[m:Special:CentralAuth/$1|Detailer vum globale Benotzerkont]] fir méi Informatiounen.",
 	"securepoll-dblist-securepollglobal": "Wale fir de Conseil",
-	"ext-quicksurveys-performance-internal-survey-question": "Gouf dës Säit séier genuch gelueden?"
+	"ext-quicksurveys-performance-internal-survey-question": "Gouf dës Säit séier genuch gelueden?",
+	"group-image-reviewer": "Bild-Iwwerpréifer",
+	"group-image-reviewer-member": "{{GENDER:$1|Bild-Iwwerpréifer}}",
+	"grouppage-image-reviewer": "{{ns:project}}: Bild-Iwwerpréifer"
 }
