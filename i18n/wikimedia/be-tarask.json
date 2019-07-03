@@ -21,6 +21,9 @@
 	"nstab-institution": "Установа",
 	"nstab-sequence": "Пасьлядоўнасьць",
 	"nstab-timedtext": "Сынхронны тэкст",
+	"group-image-reviewer": "Правяраючыя выявы",
+	"group-image-reviewer-member": "{{GENDER:$1|правяраючы выявы|правяраючая выявы}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Правяраючыя выявы",
 	"group-Image-reviewer": "Правяраючыя выявы",
 	"group-Image-reviewer-member": "{{GENDER:$1|правяраючы выявы|правяраючая выявы}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Правяраючыя выявы",
@@ -155,8 +158,5 @@
 	"wikimediashoplink-link-tooltip": "Наведайце краму Вікімэдыі",
 	"restriction-level-superprotect": "супэрабарона",
 	"eri-rcfilters-tour-intro-preferences-description": "Вы можаце ў любы час адключыць палепшаную вэрсію Апошніх зьменаў у закладцы «Апошнія зьмены» ўласных наладаў.",
-	"wikimedia-cookiestatement": "Дамова пра файлы-кукі",
-	"group-image-reviewer": "Правяраючыя выявы",
-	"group-image-reviewer-member": "{{GENDER:$1|правяраючы выявы|правяраючая выявы}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Правяраючыя выявы"
+	"wikimedia-cookiestatement": "Дамова пра файлы-кукі"
 }

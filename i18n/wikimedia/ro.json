@@ -29,6 +29,9 @@
 	"nstab-institution": "Instituție",
 	"nstab-sequence": "Secvență",
 	"nstab-timedtext": "Text datat",
+	"group-image-reviewer": "Recenzenți de imagini",
+	"group-image-reviewer-member": "{{GENDER:$1|recenzent de imagini|recenzentă de imagini}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Recenzenți de imagini",
 	"group-Image-reviewer": "Recenzenți de imagini",
 	"group-Image-reviewer-member": "{{GENDER:$1|recenzent de imagini|recenzentă de imagini}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Recenzenți de imagini",
@@ -146,8 +149,5 @@
 	"wikimediashoplink-linktext": "Magazin Wikipedia",
 	"wikimediashoplink-link-tooltip": "Vizitați magazinul Wikipedia",
 	"interlanguage-link-mul": "Mai multe limbi",
-	"eri-rcfilters-tour-confirm-title": "Noile filtre au fost activate",
-	"group-image-reviewer": "Recenzenți de imagini",
-	"group-image-reviewer-member": "{{GENDER:$1|recenzent de imagini|recenzentă de imagini}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Recenzenți de imagini"
+	"eri-rcfilters-tour-confirm-title": "Noile filtre au fost activate"
 }

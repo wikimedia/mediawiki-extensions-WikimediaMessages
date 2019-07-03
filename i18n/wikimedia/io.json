@@ -26,6 +26,9 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "Kliktez \"$1\" ulaloke del artiklo por modifikar lua kontenajo.",
 	"gettingstarted-cta-edit-page-wikipedia": "Redaktar ica artiklo",
 	"gettingstarted-cta-fix-pages-wikipedia": "Redaktar sugestita artiklo",
+	"group-image-reviewer": "Revizeri di imaji",
+	"group-image-reviewer-member": "{{GENDER:$1|revizero di imaji}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Revizeri di imaji",
 	"group-Image-reviewer": "Revizeri di imaji",
 	"group-Image-reviewer-member": "{{GENDER:$1|revizero di imaji}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Revizeri di imaji",
@@ -108,8 +111,5 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"upload-form-label-not-own-work-message-commons": "Se vu ne havas autoroyuro pri ica arkivo, o vu deziras sendar ol sub diferanta autoroyuro-persmiso, konsiderez uzar l'utensilo [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
 	"interlanguage-link-wikipedia": "Wikipedio",
-	"wikimedia-cookiestatement": "Informo pri l'uzo di 'cookies'",
-	"group-image-reviewer": "Revizeri di imaji",
-	"group-image-reviewer-member": "{{GENDER:$1|revizero di imaji}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Revizeri di imaji"
+	"wikimedia-cookiestatement": "Informo pri l'uzo di 'cookies'"
 }

@@ -85,6 +85,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Cliquer sur « {{int:showpreview}} » vous permet de vérifier à quoi ressemblera l'article avec vos modifications. N’oubliez pas ensuite de les enregistrer.",
 	"gettingstarted-cta-edit-page-wikipedia": "Modifier cet article",
 	"gettingstarted-cta-fix-pages-wikipedia": "Modifier un article suggéré",
+	"group-image-reviewer": "Vérificateurs d’image",
+	"group-image-reviewer-member": "{{GENDER:$1|vérificateur d’image}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Vérificateurs d'images",
 	"group-Image-reviewer": "Vérificateurs d’image",
 	"group-Image-reviewer-member": "{{GENDER:$1|vérificateur d’image}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Vérificateurs d'images",
@@ -364,8 +367,5 @@
 	"wikimedia-switchover-read-only": "Vous ne pouvez pas modifier actuellement. Ceci à cause de la maintenance en cours. Copiez et enregistrez votre texte et réessayez dans quelques minutes.",
 	"passwordpolicies-policy-blockattacker": "Politique de mot de passe pour réduire les attaques connues lorsque la divulgation de détails gênerait la réduction",
 	"technical-maintenance-soon": "La maintenance technique va être réalisée bientôt :",
-	"technical-maintenance-edit": "Durant ce temps vous ne pourrez pas sauvegarder les modifications.",
-	"group-image-reviewer": "Vérificateurs d’image",
-	"group-image-reviewer-member": "{{GENDER:$1|vérificateur d’image}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Vérificateurs d'images"
+	"technical-maintenance-edit": "Durant ce temps vous ne pourrez pas sauvegarder les modifications."
 }

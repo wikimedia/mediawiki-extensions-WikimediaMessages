@@ -23,6 +23,9 @@
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Esaeañ ur pennad all ►",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Aozañ ar pennad a-bezh...",
 	"gettingstarted-cta-edit-page-wikipedia": "Aozañ ar pennad-mañ",
+	"group-image-reviewer": "Gwirierien skeudenn",
+	"group-image-reviewer-member": "{{GENDER:$1|gwirier|gwirierez}} skeudennoù",
+	"grouppage-image-reviewer": "{{ns:project}}:Adlennerioù skeudennoù",
 	"group-Image-reviewer": "Gwirierien skeudenn",
 	"group-Image-reviewer-member": "{{GENDER:$1|gwirier|gwirierez}} skeudennoù",
 	"grouppage-Image-reviewer": "{{ns:project}}:Adlennerioù skeudennoù",
@@ -131,8 +134,5 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''[[m:Special:MyLanguage/Global blocks|Stanket war an holl wikioù]] e vez un pe meur a servijer proksi implijet diwar ho koulenn\n\n\nAr stankadur a oa graet gant $1 ($2).\nAn abeg eo ''$3''.\n\n* Deroù ar stankadur: $4 \n* Dibenn ar stankadur: $5 \n\nHo chomlec'h IP zo $6. \nEnlakait, mar plij, ar munudoù amañ a-us e nep goulenn a rafec'h.\n\nMa soñjit e oa ur fazi ho stankadur, gallout a rit kavout muioc'h a titouroù er politikerezh hollek «[[m:Special:MyLanguage/No open proxies|Prozi ebet digor]]». \nMod-all, red eo deoc'h [[m:Steward requests/Global|post ur goulenn war Meta-Wiki]] evit kaozeal diwar benn ho stankadur.",
 	"wikimediashoplink-linktext": "Stal Wikimédia",
 	"wikimediashoplink-link-tooltip": "Gweladennit ar stal Wikimedia",
-	"interlanguage-link-mul": "Muioc'h a yezhoù",
-	"group-image-reviewer": "Gwirierien skeudenn",
-	"group-image-reviewer-member": "{{GENDER:$1|gwirier|gwirierez}} skeudennoù",
-	"grouppage-image-reviewer": "{{ns:project}}:Adlennerioù skeudennoù"
+	"interlanguage-link-mul": "Muioc'h a yezhoù"
 }

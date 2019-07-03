@@ -18,6 +18,9 @@
 	"nstab-institution": "Інштітуція",
 	"nstab-sequence": "Послїдовность",
 	"nstab-timedtext": "Субтитри",
+	"group-image-reviewer": "Перевірникы образків",
+	"group-image-reviewer-member": "перевірник образків",
+	"grouppage-image-reviewer": "{{ns:project}}:Перевірникы образків",
 	"group-Image-reviewer": "Перевірникы образків",
 	"group-Image-reviewer-member": "перевірник образків",
 	"grouppage-Image-reviewer": "{{ns:project}}:Перевірникы образків",
@@ -105,8 +108,5 @@
 	"right-templateeditor": "Едітованя замкнутых шаблонів",
 	"right-extendedconfirmed": "Едітованя замкнутых сторінок",
 	"right-editeditorprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editeditorprotected}}“",
-	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“",
-	"group-image-reviewer": "Перевірникы образків",
-	"group-image-reviewer-member": "перевірник образків",
-	"grouppage-image-reviewer": "{{ns:project}}:Перевірникы образків"
+	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“"
 }

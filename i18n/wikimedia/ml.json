@@ -38,6 +38,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\" അമർത്തുമ്പോൾ, താങ്കൾ ചേർത്ത തിരുത്തുകളുൾപ്പെടെ ലേഖനം എപ്രകാരമാണ് പ്രത്യക്ഷപ്പെടുക എന്ന് പരിശോധിക്കാനാവും. പിന്നീട് മാറ്റങ്ങൾ സേവ് ചെയ്യാൻ മറക്കരുത്.",
 	"gettingstarted-cta-edit-page-wikipedia": "ഈ ലേഖനം തിരുത്തുക",
 	"gettingstarted-cta-fix-pages-wikipedia": "നിർദ്ദേശിക്കുന്ന താൾ തിരുത്തുക",
+	"group-image-reviewer": "ചിത്ര സംശോധകർ",
+	"group-image-reviewer-member": "{{GENDER:$1|ചിത്ര സംശോധകൻ|ചിത്ര സംശോധിക}}",
+	"grouppage-image-reviewer": "{{ns:project}}:ചിത്ര സംശോധകർ",
 	"group-Image-reviewer": "ചിത്ര സംശോധകർ",
 	"group-Image-reviewer-member": "{{GENDER:$1|ചിത്ര സംശോധകൻ|ചിത്ര സംശോധിക}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:ചിത്ര സംശോധകർ",
@@ -246,8 +249,5 @@
 	"eri-wlfilters-tour-intro-welcome-title": "മെച്ചപ്പെടുത്തിയ ശ്രദ്ധിക്കുന്ന അരിച്ചെടുക്കലിലേക്ക് സ്വാഗതം",
 	"eri-wlfilters-tour-intro-preferences-description": "ക്രമീകരണങ്ങളിലെ ശ്രദ്ധിക്കുന്നവ ടാബിൽ നിന്നും മെച്ചപ്പെടുത്തിയ ശ്രദ്ധിക്കുന്നവ ഏതൊരു സമയത്തും ഒഴിവാക്കാവുന്നതാണ്.",
 	"wikimedia-cookiestatement": "കുക്കി പ്രസ്താവന",
-	"wikimedia-switchover-read-only": "ഇപ്പോൾ തിരുത്ത് സാദ്ധ്യമല്ല. ഇത് പരിപാലനപ്രവർത്തങ്ങൾ നടപ്പിലാക്കിക്കൊണ്ടിരിക്കുന്നതിനാലാണ്. താങ്കളുടെ എഴുത്ത് പകർത്തി സൂക്ഷിച്ച് ഏതാനം മിനിറ്റുകൾ കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക.",
-	"group-image-reviewer": "ചിത്ര സംശോധകർ",
-	"group-image-reviewer-member": "{{GENDER:$1|ചിത്ര സംശോധകൻ|ചിത്ര സംശോധിക}}",
-	"grouppage-image-reviewer": "{{ns:project}}:ചിത്ര സംശോധകർ"
+	"wikimedia-switchover-read-only": "ഇപ്പോൾ തിരുത്ത് സാദ്ധ്യമല്ല. ഇത് പരിപാലനപ്രവർത്തങ്ങൾ നടപ്പിലാക്കിക്കൊണ്ടിരിക്കുന്നതിനാലാണ്. താങ്കളുടെ എഴുത്ത് പകർത്തി സൂക്ഷിച്ച് ഏതാനം മിനിറ്റുകൾ കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക."
 }

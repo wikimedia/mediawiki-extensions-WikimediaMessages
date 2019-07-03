@@ -31,6 +31,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Dä Knopp „{{int:showpreview}}“ deiht Ding Änderonge blohß aanzeije. Esu kanns De se lässe und pröhve, dat se johd sin.\nDängk drahn, se dann och afzeschpeijschere.",
 	"gettingstarted-cta-edit-page-wikipedia": "Donn heh dä Atikel ändere",
 	"gettingstarted-cta-fix-pages-wikipedia": "Donn ene vörjeschlahre Atikel ändere",
+	"group-image-reviewer": "Belderprööfer",
+	"group-image-reviewer-member": "{{GENDER:$1|Belderprööfer|Belderprööferėn|Belderprööfer|Belderprööferėn|Belderprööfer}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Belderprööfer",
 	"group-Image-reviewer": "Belderprööfer",
 	"group-Image-reviewer-member": "{{GENDER:$1|Belderprööfer|Belderprööferėn|Belderprööfer|Belderprööferėn|Belderprööfer}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Belderprööfer",
@@ -218,8 +221,5 @@
 	"right-editeditorprotected": "Sigge met däm Schoz „{{int:protect-level-editeditorprotected}}“ ändere",
 	"wikimedia-centralauth-contribs-locked": "Heh dä Zohjang övver en jemeinsamme Aanmäldong es överall jeschpächt.\nMih Aanjahbe derzoh fengk mer op dä Sigg övver de [[m:Special:CentralAuth/$1|Einzelheijte vun de jemeinsamme Aanmäldong]]",
 	"right-viewdeletedfile": "Fottjeschmeße Datteije un Sigge en de Appachemangs „{{ns:file}}“ un „{{ns:file_talk}}“ belohre",
-	"securepoll-dblist-securepollglobal": "Vörschtandswahle",
-	"group-image-reviewer": "Belderprööfer",
-	"group-image-reviewer-member": "{{GENDER:$1|Belderprööfer|Belderprööferėn|Belderprööfer|Belderprööferėn|Belderprööfer}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Belderprööfer"
+	"securepoll-dblist-securepollglobal": "Vörschtandswahle"
 }

@@ -13,6 +13,9 @@
 	"nstab-sequence": "دنباله",
 	"nstab-timedtext": "متن زمان‌بندی‌شده",
 	"guidedtour-tour-gettingstartedtasktoolbarintro-description-wikipedia": "این مقاله توسط سایر کاربرهای {{SITENAME}} به عنوان نیازمند بهبود شناسایی‌شده. برای کمک در این رابطه لازم نیست که حرفه‌ای باشید.",
+	"group-image-reviewer": "بازبین‌های تصویر",
+	"group-image-reviewer-member": "{{GENDER:$1|بازبین تصویر}}",
+	"grouppage-image-reviewer": "{{ns:project}}:بازبین‌های تصویر",
 	"group-Image-reviewer": "بازبین‌های تصویر",
 	"group-Image-reviewer-member": "{{GENDER:$1|بازبین تصویر}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:بازبین‌های تصویر",
@@ -35,8 +38,5 @@
 	"upload-form-label-not-own-work-local-commons": "در صورتی که سایت امکان بارگذاری پرونده را تحت سیاست‌ها بارگذاری می‌دهد ممکن است بخواهید از [[Special:Upload|پنجرهٔ بارگذاری در {{SITENAME}}]] استفاده کنید.",
 	"interlanguage-link-mul": "زوونەل فرەتر",
 	"interlanguage-link-commons": "ویکی‌انبار",
-	"interlanguage-link-sitename-commons": "مخزن رسانه‌ای ویکی‌انبار",
-	"group-image-reviewer": "بازبین‌های تصویر",
-	"group-image-reviewer-member": "{{GENDER:$1|بازبین تصویر}}",
-	"grouppage-image-reviewer": "{{ns:project}}:بازبین‌های تصویر"
+	"interlanguage-link-sitename-commons": "مخزن رسانه‌ای ویکی‌انبار"
 }

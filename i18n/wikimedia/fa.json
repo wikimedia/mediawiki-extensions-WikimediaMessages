@@ -57,6 +57,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "ویرایش «{{int:showpreview}}» اجازه می‌دهد که ببینید این مقاله با تغییراتتان چه شکلی خواهد شد. فقط فراموش نکنید که ذخیره کنید.",
 	"gettingstarted-cta-edit-page-wikipedia": "ویرایش این مقاله",
 	"gettingstarted-cta-fix-pages-wikipedia": "ویرایش یک مقالۀ پیشنهادی",
+	"group-image-reviewer": "بازبین‌های تصویر",
+	"group-image-reviewer-member": "{{GENDER:$1|بازبین تصویر}}",
+	"grouppage-image-reviewer": "{{ns:project}}:بازبین‌های تصویر",
 	"group-Image-reviewer": "بازبین‌های تصویر",
 	"group-Image-reviewer-member": "{{GENDER:$1|بازبین تصویر}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:بازبین‌های تصویر",
@@ -330,8 +333,5 @@
 	"wikimedia-switchover-read-only": "در حال حاضر، به خاطر انجام امور نگهداری، امکان ویرایش وجود ندارد. ویرایش خود را کپی و ذخیره کرده و چند دقیقه بعد مجدداً امتحان کنید.",
 	"passwordpolicies-policy-blockattacker": "سیاست گذرواژه برای کاهش خطر حملات شناخته‌شده‌ای که در آن‌ها افشای جزئیات مانع مهار خطر می‌شود",
 	"technical-maintenance-soon": "تعمیرات فنی به زودی اعمال می‌شوند:",
-	"technical-maintenance-edit": "در این زمان امکان ذخیرهٔ هیچ ویرایشی وجود ندارد.",
-	"group-image-reviewer": "بازبین‌های تصویر",
-	"group-image-reviewer-member": "{{GENDER:$1|بازبین تصویر}}",
-	"grouppage-image-reviewer": "{{ns:project}}:بازبین‌های تصویر"
+	"technical-maintenance-edit": "در این زمان امکان ذخیرهٔ هیچ ویرایشی وجود ندارد."
 }

@@ -16,6 +16,9 @@
 	"nstab-institution": "Patakder",
 	"nstab-sequence": "Panagsarsaruno",
 	"nstab-timedtext": "TimedText",
+	"group-image-reviewer": "Dagiti agreprepaso ti ladawan",
+	"group-image-reviewer-member": "{{GENDER:$1|agreprepaso ti ladawan}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Dagiti agreprepaso ti ladawan",
 	"group-Image-reviewer": "Dagiti agreprepaso ti ladawan",
 	"group-Image-reviewer-member": "{{GENDER:$1|agreprepaso ti ladawan}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Dagiti agreprepaso ti ladawan",
@@ -169,8 +172,5 @@
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, ti nawaya nga ensiklopedia",
 	"interlanguage-link-sitename-commons": "Repositorio ti midia ti Wikimedia Commons",
 	"interlanguage-link-sitename-dmoz": "Direktorio ti web ti DMOZ",
-	"right-viewdeletedfile": "Kiaten dagiti papeles ken pampanid kadagiti naikkat a nagan ti espasio ti {{ns:file}} ken {{ns:file_talk}}",
-	"group-image-reviewer": "Dagiti agreprepaso ti ladawan",
-	"group-image-reviewer-member": "{{GENDER:$1|agreprepaso ti ladawan}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Dagiti agreprepaso ti ladawan"
+	"right-viewdeletedfile": "Kiaten dagiti papeles ken pampanid kadagiti naikkat a nagan ti espasio ti {{ns:file}} ken {{ns:file_talk}}"
 }

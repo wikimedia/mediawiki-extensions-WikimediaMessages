@@ -24,6 +24,9 @@
 	"nstab-institution": "Ustanova",
 	"nstab-sequence": "Niz",
 	"nstab-timedtext": "Usklađen tekst",
+	"group-image-reviewer": "Pregledači slika",
+	"group-image-reviewer-member": "{{GENDER:$1|pregledač slika|pregledačica slika|pregledač slika}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Pregledači slika",
 	"group-Image-reviewer": "Pregledači slika",
 	"group-Image-reviewer-member": "{{GENDER:$1|pregledač slika|pregledačica slika|pregledač slika}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Pregledači slika",
@@ -170,8 +173,5 @@
 	"eri-rcfilters-tour-confirm-description": "Možete otvoriti <strong>stranicu za beta mogućnosti</strong> da biste dali povratne informacije ili isključili ovu mogućnost.",
 	"wikimedia-centralauth-contribs-locked": "Ovaj nalog je globalno zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1]].",
 	"right-viewdeletedfile": "pregledanje obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
-	"wikimedia-cookiestatement": "Izjava o kolačićima",
-	"group-image-reviewer": "Pregledači slika",
-	"group-image-reviewer-member": "{{GENDER:$1|pregledač slika|pregledačica slika|pregledač slika}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Pregledači slika"
+	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }

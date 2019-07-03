@@ -24,6 +24,9 @@
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Probeer 'n ander artikel",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Redigeer die hele artikel…",
 	"gettingstarted-cta-edit-page-wikipedia": "Redigeer hierdie artikel",
+	"group-image-reviewer": "Beeld-beoordelaars",
+	"group-image-reviewer-member": "beeld-beoordelaar",
+	"grouppage-image-reviewer": "{{ns:project}}:Beeld beoordelaars",
 	"group-Image-reviewer": "Beeld-beoordelaars",
 	"group-Image-reviewer-member": "beeld-beoordelaar",
 	"grouppage-Image-reviewer": "{{ns:project}}:Beeld beoordelaars",
@@ -134,8 +137,5 @@
 	"interlanguage-link-mul": "Meer tale",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, die vry ensiklopedie",
-	"wikimedia-cookiestatement": "Koekieverklaring",
-	"group-image-reviewer": "Beeld-beoordelaars",
-	"group-image-reviewer-member": "beeld-beoordelaar",
-	"grouppage-image-reviewer": "{{ns:project}}:Beeld beoordelaars"
+	"wikimedia-cookiestatement": "Koekieverklaring"
 }

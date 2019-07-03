@@ -16,6 +16,9 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "ဆောင်းပါးတစ်ခုလုံးကို တည်းဖြတ်ရန်...",
 	"gettingstarted-cta-edit-page-wikipedia": "ဤဆောင်းပါးကို တည်းဖြတ်ရန်",
 	"gettingstarted-cta-fix-pages-wikipedia": "အကြံပြုထားသောဆောင်းပါးကို တည်းဖြတ်ရန်",
+	"group-image-reviewer": "ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူများ",
+	"group-image-reviewer-member": "{{GENDER:$1|ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူ}}",
+	"grouppage-image-reviewer": "{{ns:project}}:ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူများ",
 	"group-Image-reviewer": "ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူများ",
 	"group-Image-reviewer-member": "{{GENDER:$1|ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူ}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူများ",
@@ -146,8 +149,5 @@
 	"eri-rcfilters-tour-intro-preferences-description": "ပြုပြင်ထားသော လတ်တလော ပြောင်းလဲမှုများကို ရရှိနိုင်ရန် မည်သည့်အချိန်မဆို လတ်တလော ပြောင်းလဲမှုများ tab ကို ဝင်ရောက်ပါ။",
 	"eri-rcfilters-tour-intro-welcome-button": "အိုကေ သဘောပေါက်ပြီ",
 	"eri-rcfilters-tour-highlight-button": "အိုကေ သဘောပေါက်ပြီ",
-	"wikimedia-switchover-read-only": "သင် ယခု မတည်းဖြတ်နိုင်ပါ။ ပြုပြင်ရေးအတွက်ကြောင့် ဖြစ်သည်။ သင်၏စာသားကို မိတ္တူကူး၍ သိမ်းထားကာ မိနစ်အနည်းငယ်ကြာပါက ထပ်မံကြိုးစားကြည့်ပါ။",
-	"group-image-reviewer": "ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူများ",
-	"group-image-reviewer-member": "{{GENDER:$1|ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူ}}",
-	"grouppage-image-reviewer": "{{ns:project}}:ရုပ်ပုံ ပြန်လည်ဆန်းစစ်သူများ"
+	"wikimedia-switchover-read-only": "သင် ယခု မတည်းဖြတ်နိုင်ပါ။ ပြုပြင်ရေးအတွက်ကြောင့် ဖြစ်သည်။ သင်၏စာသားကို မိတ္တူကူး၍ သိမ်းထားကာ မိနစ်အနည်းငယ်ကြာပါက ထပ်မံကြိုးစားကြည့်ပါ။"
 }

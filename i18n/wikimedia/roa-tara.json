@@ -7,7 +7,7 @@
 			"Matma Rex"
 		]
 	},
-	"wikimediamessages-desc": "Messàgge specifiche de Uicchimedia",
+	"wikimediamessages-desc": "Messàgge specifiche de Uicchimedie",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=roa-tara",
 	"sitesupport": "Done",
 	"tooltip-n-sitesupport": "Danne 'na màne",
@@ -28,6 +28,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Cazzanne '{{int:showpreview}}' te permette de 'ndrucà ce 'a vôsce iesse cu le cangiaminde tune. No te scurdà de reggistrà.",
 	"gettingstarted-cta-edit-page-wikipedia": "Cange sta vôsce",
 	"gettingstarted-cta-fix-pages-wikipedia": "Cange 'na vôsce suggerite",
+	"group-image-reviewer": "Revisitature de immaggene",
+	"group-image-reviewer-member": "{{GENDER:$1|revisitatore de immaggene}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Revisitature de immaggene",
 	"group-Image-reviewer": "Revisitature de immaggene",
 	"group-Image-reviewer-member": "{{GENDER:$1|revisitatore de immaggene}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Revisitature de immaggene",
@@ -296,8 +299,5 @@
 	"wikimedia-switchover-read-only": "Non ge puè cangià mò. Quiste purcé stame in manutenzione. Copie e reggìstre 'u teste tune e pruève arrete 'mbrà quacche minute.",
 	"passwordpolicies-policy-blockattacker": "Regole d'a passuord pa reduzione de attacche canusciute addò 'u fatte de dicere le dettaglie pò 'mbedì 'a reduzione",
 	"technical-maintenance-soon": "Manutenzione tecniche adda essere fate subbite:",
-	"technical-maintenance-edit": "Durande stu tiembe non ge puè reggistrà nisciune cangiamende.",
-	"group-image-reviewer": "Revisitature de immaggene",
-	"group-image-reviewer-member": "{{GENDER:$1|revisitatore de immaggene}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Revisitature de immaggene"
+	"technical-maintenance-edit": "Durande stu tiembe non ge puè reggistrà nisciune cangiamende."
 }

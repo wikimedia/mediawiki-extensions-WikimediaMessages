@@ -18,6 +18,7 @@
 	"specialpages-group-contribution": "ការបរិច្ចាគនិងការប្រមូលមូលនិធិ",
 	"nstab-creator": "ស្ថាបនិក",
 	"nstab-institution": "ស្ថាប័ន",
+	"group-image-reviewer-member": "{{GENDER:$1|អ្នកត្រួតពិនិត្យរូបភាព}}",
 	"group-Image-reviewer-member": "{{GENDER:$1|អ្នកត្រួតពិនិត្យរូបភាព}}",
 	"group-otrs-member": "សមាជិក OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|សមាជិក OTRS}}",
@@ -81,6 +82,5 @@
 	"wikibase-otherprojects-wikibooks": "វិគីសៀវភៅ",
 	"wikibase-otherprojects-wikisource": "វិគីបណ្ណាល័យ",
 	"cant-delete-main-page": "អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។",
-	"wikimedia-developers": "អ្នកសរសេរកូដ",
-	"group-image-reviewer-member": "{{GENDER:$1|អ្នកត្រួតពិនិត្យរូបភាព}}"
+	"wikimedia-developers": "អ្នកសរសេរកូដ"
 }

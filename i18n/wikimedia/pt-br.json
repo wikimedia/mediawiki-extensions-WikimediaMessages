@@ -59,6 +59,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Clicar em \"{{int:showpreview}}\" permite ver como a página vai ficar com as suas modificações. Só não se esqueça de salvá-las.",
 	"gettingstarted-cta-edit-page-wikipedia": "Editar este artigo",
 	"gettingstarted-cta-fix-pages-wikipedia": "Edite um artigo sugerido",
+	"group-image-reviewer": "Revisores de imagens",
+	"group-image-reviewer-member": "{{GENDER:$1|revisor|revisora|revisor(a)}} de imagens",
+	"grouppage-image-reviewer": "{{ns:project}}:Revisores de imagem",
 	"group-Image-reviewer": "Revisores de imagens",
 	"group-Image-reviewer-member": "{{GENDER:$1|revisor|revisora|revisor(a)}} de imagens",
 	"grouppage-Image-reviewer": "{{ns:project}}:Revisores de imagem",
@@ -348,8 +351,5 @@
 	"wikimedia-switchover-read-only": "Você não pode editar agora. Isso é por causa da manutenção. Copie e salve seu texto e tente novamente em alguns minutos.",
 	"passwordpolicies-policy-blockattacker": "Política de senha para mitigação de ataques conhecidos, onde a divulgação de detalhes impediria a mitigação",
 	"technical-maintenance-soon": "A manutenção técnica será realizada em breve:",
-	"technical-maintenance-edit": "Durante esse período, talvez você não consiga salvar nenhuma edição.",
-	"group-image-reviewer": "Revisores de imagens",
-	"group-image-reviewer-member": "{{GENDER:$1|revisor|revisora|revisor(a)}} de imagens",
-	"grouppage-image-reviewer": "{{ns:project}}:Revisores de imagem"
+	"technical-maintenance-edit": "Durante esse período, talvez você não consiga salvar nenhuma edição."
 }

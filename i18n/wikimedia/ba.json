@@ -20,6 +20,9 @@
 	"nstab-institution": "Ойошма",
 	"nstab-sequence": "Эҙлеклелек",
 	"nstab-timedtext": "ВаҡытБилдәһе",
+	"group-image-reviewer": "Рәсем ҡараусылар",
+	"group-image-reviewer-member": "{{GENDER:$1|рәсем тикшереүсе}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Рәсем ҡараусылар",
 	"group-Image-reviewer": "Рәсем ҡараусылар",
 	"group-Image-reviewer-member": "{{GENDER:$1|рәсем тикшереүсе}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Рәсем ҡараусылар",
@@ -125,8 +128,5 @@
 	"upload-form-label-not-own-work-message-commons": "Әгәр ошо файлдың авторы түгелһегеҙ һәм уны икенсе лицензия аҫтында сығарырға теләйһегеҙ икән,  [https://commons.wikimedia.org/wiki/Special:UploadWizard Викискладҡа күсереү оҫталары] мөмкинлеген файҙаланығыҙ.",
 	"upload-form-label-not-own-work-local-commons": "{{SITENAME}} талаптарына ярашлы файлы тейәп булһа,  [[Special:Upload|тейәү битен]] ҡарағыҙ.",
 	"interlanguage-link-commons": "Викимилек",
-	"wikimedia-cookiestatement": "Cookie тураһында килешеү",
-	"group-image-reviewer": "Рәсем ҡараусылар",
-	"group-image-reviewer-member": "{{GENDER:$1|рәсем тикшереүсе}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Рәсем ҡараусылар"
+	"wikimedia-cookiestatement": "Cookie тураһында килешеү"
 }

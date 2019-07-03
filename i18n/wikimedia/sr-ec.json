@@ -32,6 +32,9 @@
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Покушај са другим чланком ►",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Уреди читав чланак...",
 	"gettingstarted-cta-edit-page-wikipedia": "Уреди овај чланак",
+	"group-image-reviewer": "Прегледачи слика",
+	"group-image-reviewer-member": "{{GENDER:$1|прегледач слика|прегледачица слика|прегледач слика}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Прегледачи слика",
 	"group-Image-reviewer": "Прегледачи слика",
 	"group-Image-reviewer-member": "{{GENDER:$1|прегледач слика|прегледачица слика|прегледач слика}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Прегледачи слика",
@@ -222,8 +225,5 @@
 	"right-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",
 	"wikimedia-cookiestatement": "Изјава о колачићима",
 	"ext-quicksurveys-performance-internal-survey-question": "Да ли се ова страница учитала довољно брзо?",
-	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
-	"group-image-reviewer": "Прегледачи слика",
-	"group-image-reviewer-member": "{{GENDER:$1|прегледач слика|прегледачица слика|прегледач слика}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Прегледачи слика"
+	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута."
 }

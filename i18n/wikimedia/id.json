@@ -26,6 +26,9 @@
 	"nstab-institution": "Lembaga",
 	"nstab-sequence": "Urutan",
 	"nstab-timedtext": "TeksBerwaktu",
+	"group-image-reviewer": "Peninjau gambar",
+	"group-image-reviewer-member": "{{GENDER:$1|peninjau gambar}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Peninjau gambar",
 	"group-Image-reviewer": "Peninjau gambar",
 	"group-Image-reviewer-member": "{{GENDER:$1|peninjau gambar}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Peninjau gambar",
@@ -149,8 +152,5 @@
 	"action-editextendedsemiprotected": "menyunting halaman yang dilindungi sebagai \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"right-editextendedsemiprotected": "Menyunting halaman yang dilindungi sebagai \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Izinkan hanya pematroli otomatis",
-	"wikimedia-cookiestatement": "Penyataan kuki",
-	"group-image-reviewer": "Peninjau gambar",
-	"group-image-reviewer-member": "{{GENDER:$1|peninjau gambar}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Peninjau gambar"
+	"wikimedia-cookiestatement": "Penyataan kuki"
 }

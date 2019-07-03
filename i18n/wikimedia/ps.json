@@ -13,6 +13,7 @@
 	"specialpages-group-contribution": "ونډه/بسپنه ټولونکی",
 	"nstab-creator": "جوړونکی",
 	"nstab-sequence": "لړۍ",
+	"group-image-reviewer": "د انځور مخکتونکي",
 	"group-Image-reviewer": "د انځور مخکتونکي",
 	"group-otrs-member": "د OTRS غړي",
 	"group-otrs-member-member": "{{GENDER:$1|د OTRS غړی}}",
@@ -108,6 +109,5 @@
 	"interlanguage-link-mul": "نورې ژبې",
 	"interlanguage-link-commons": "ويکيمېډيا کامنز",
 	"eri-rcfilters-tour-help": "نور مالومات",
-	"wikimedia-cookiestatement": "د کوکيز ويناليک",
-	"group-image-reviewer": "د انځور مخکتونکي"
+	"wikimedia-cookiestatement": "د کوکيز ويناليک"
 }

@@ -61,6 +61,9 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "\"$1\"을 클릭하여 이 문서의 모든 부분을 편집할 수 있습니다.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\"를 클릭하면 문서가 어떻게 바뀌었는지 확인할 수 있습니다. 저장하는 것을 잊지 마세요!",
 	"gettingstarted-cta-edit-page-wikipedia": "이 문서 편집",
+	"group-image-reviewer": "그림 평론가",
+	"group-image-reviewer-member": "{{GENDER:$1|그림 평론가}}",
+	"grouppage-image-reviewer": "{{ns:project}}:그림 평론가",
 	"group-Image-reviewer": "그림 평론가",
 	"group-Image-reviewer-member": "{{GENDER:$1|그림 평론가}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:그림 평론가",
@@ -286,8 +289,5 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "더 자세한 정보의 경우 이 설문 조사의 [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 개인정보 문항]을 참고하십시오.",
 	"wikimedia-switchover-read-only": "유지보수로 인해 지금 편집할 수 없습니다. 텍스트를 복사해서 저장한 다음 몇 분 뒤 다시 시도하십시오.",
 	"technical-maintenance-soon": "기술적 정비가 곧 수행됩니다:",
-	"technical-maintenance-edit": "이 기간 중에는 어떠한 편집도 저장할 수 없게 됩니다.",
-	"group-image-reviewer": "그림 평론가",
-	"group-image-reviewer-member": "{{GENDER:$1|그림 평론가}}",
-	"grouppage-image-reviewer": "{{ns:project}}:그림 평론가"
+	"technical-maintenance-edit": "이 기간 중에는 어떠한 편집도 저장할 수 없게 됩니다."
 }

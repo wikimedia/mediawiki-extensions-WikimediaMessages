@@ -29,6 +29,9 @@
 	"nstab-institution": "Intézmény",
 	"nstab-sequence": "Sorozat",
 	"nstab-timedtext": "Időzített szöveg",
+	"group-image-reviewer": "képellenőrzők",
+	"group-image-reviewer-member": "képellenőrző",
+	"grouppage-image-reviewer": "{{ns:project}}:Képellenőrzők",
 	"group-Image-reviewer": "képellenőrzők",
 	"group-Image-reviewer-member": "képellenőrző",
 	"grouppage-Image-reviewer": "{{ns:project}}:Képellenőrzők",
@@ -210,8 +213,5 @@
 	"right-extendedconfirmed": "korlátozott lapok szerkesztése",
 	"wikimedia-centralauth-contribs-locked": "Ezt a fiókot globálisan zárolták.\nTovábbi információkért lásd a [[m:Special:CentralAuth/$1|globális fiók adatait]].",
 	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben",
-	"wikimedia-cookiestatement": "Sütinyilatkozat",
-	"group-image-reviewer": "képellenőrzők",
-	"group-image-reviewer-member": "képellenőrző",
-	"grouppage-image-reviewer": "{{ns:project}}:Képellenőrzők"
+	"wikimedia-cookiestatement": "Sütinyilatkozat"
 }

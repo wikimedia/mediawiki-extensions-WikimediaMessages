@@ -29,6 +29,9 @@
 	"nstab-institution": "நிறுவனம்",
 	"nstab-sequence": "வரிசை",
 	"nstab-timedtext": "நேரமிட்ட உரை",
+	"group-image-reviewer": "பட பரிசீலனையாளர்கள்",
+	"group-image-reviewer-member": "{{GENDER:$1|பட பரிசீலனையாளர்}}",
+	"grouppage-image-reviewer": "{{ns:project}}:பட பரிசீலனையாளர்கள்",
 	"group-Image-reviewer": "பட பரிசீலனையாளர்கள்",
 	"group-Image-reviewer-member": "{{GENDER:$1|பட பரிசீலனையாளர்}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:பட பரிசீலனையாளர்கள்",
@@ -150,8 +153,5 @@
 	"interlanguage-link-wikipedia": "விக்கிப்பீடியா",
 	"interlanguage-link-commons": "விக்கிமீடியா பொதுவகம்",
 	"restriction-level-templateeditor": "வார்ப்புரு பாதுகாக்கப்பட்டது",
-	"wikimedia-cookiestatement": "நினைவி அறிக்கை",
-	"group-image-reviewer": "பட பரிசீலனையாளர்கள்",
-	"group-image-reviewer-member": "{{GENDER:$1|பட பரிசீலனையாளர்}}",
-	"grouppage-image-reviewer": "{{ns:project}}:பட பரிசீலனையாளர்கள்"
+	"wikimedia-cookiestatement": "நினைவி அறிக்கை"
 }

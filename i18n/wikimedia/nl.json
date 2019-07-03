@@ -50,6 +50,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Door te klikken op \"{{int:showpreview}}\" kunt u zien hoe de pagina wordt weergegeven met uw wijzigingen. Vergeet uw wijzigingen niet op te slaan.",
 	"gettingstarted-cta-edit-page-wikipedia": "Bewerk dit artikel",
 	"gettingstarted-cta-fix-pages-wikipedia": "Bewerk een voorgestelde pagina",
+	"group-image-reviewer": "afbeeldingencontroleurs",
+	"group-image-reviewer-member": "afbeeldingencontroleur",
+	"grouppage-image-reviewer": "{{ns:project}}:Afbeeldingencontroleurs",
 	"group-Image-reviewer": "afbeeldingencontroleurs",
 	"group-Image-reviewer-member": "afbeeldingencontroleur",
 	"grouppage-Image-reviewer": "{{ns:project}}:Afbeeldingencontroleurs",
@@ -313,8 +316,5 @@
 	"securepoll-dblist-securepollglobal": "Bestuursverkiezing",
 	"wikimedia-cookiestatement": "Cookiesverklaring",
 	"ext-quicksurveys-performance-internal-survey-question": "Werd deze pagina snel genoeg geladen?",
-	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer.",
-	"group-image-reviewer": "afbeeldingencontroleurs",
-	"group-image-reviewer-member": "afbeeldingencontroleur",
-	"grouppage-image-reviewer": "{{ns:project}}:Afbeeldingencontroleurs"
+	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer."
 }

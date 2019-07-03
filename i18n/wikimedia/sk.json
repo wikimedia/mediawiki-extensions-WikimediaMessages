@@ -26,6 +26,9 @@
 	"nstab-institution": "Inštitúcia",
 	"nstab-sequence": "Poradie",
 	"nstab-timedtext": "ČasovanýText",
+	"group-image-reviewer": "Kontrolóri obrázkov",
+	"group-image-reviewer-member": "kontrolór obrázkov",
+	"grouppage-image-reviewer": "{{ns:project}}:Kontrolóri obrázkov",
 	"group-Image-reviewer": "Kontrolóri obrázkov",
 	"group-Image-reviewer-member": "kontrolór obrázkov",
 	"grouppage-Image-reviewer": "{{ns:project}}:Kontrolóri obrázkov",
@@ -140,8 +143,5 @@
 	"eri-rcfilters-tour-confirm-description": "Na <strong>stránke funkcií betaverzie</strong> môžete poskytnúť spätnú väzbu alebo funkciu vypnúť.",
 	"eri-wlfilters-tour-intro-welcome-title": "Vitajte vo vylepšenom filtrovaní sledovaných stránok",
 	"eri-wlfilters-tour-intro-preferences-description": "Vylepšenú verziu sledovaných stránok vypnete kedykoľvek vo svojich nastaveniach na záložke Sledované stránky.",
-	"wikimedia-cookiestatement": "Vyhlásenie o cookies",
-	"group-image-reviewer": "Kontrolóri obrázkov",
-	"group-image-reviewer-member": "kontrolór obrázkov",
-	"grouppage-image-reviewer": "{{ns:project}}:Kontrolóri obrázkov"
+	"wikimedia-cookiestatement": "Vyhlásenie o cookies"
 }

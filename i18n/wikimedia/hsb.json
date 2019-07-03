@@ -17,6 +17,9 @@
 	"nstab-institution": "Institucija",
 	"nstab-sequence": "Sekwenca",
 	"nstab-timedtext": "TimedText",
+	"group-image-reviewer": "Přepruwowarjo wobrazow",
+	"group-image-reviewer-member": "{{GENDER:$1|přepruwowar wobrazow|přepruwowarka wobrazow}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Přepruwowarjo wobrazow",
 	"group-Image-reviewer": "Přepruwowarjo wobrazow",
 	"group-Image-reviewer-member": "{{GENDER:$1|přepruwowar wobrazow|přepruwowarka wobrazow}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Přepruwowarjo wobrazow",
@@ -170,8 +173,5 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} we wjacorych rěčach",
 	"interlanguage-link-sitename-wikipedia": "Wikipedija, swobodna encyklopedija",
 	"restriction-level-superprotect": "superškit",
-	"protect-level-editeditorprotected": "Jenož kontroleram dowolić",
-	"group-image-reviewer": "Přepruwowarjo wobrazow",
-	"group-image-reviewer-member": "{{GENDER:$1|přepruwowar wobrazow|přepruwowarka wobrazow}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Přepruwowarjo wobrazow"
+	"protect-level-editeditorprotected": "Jenož kontroleram dowolić"
 }

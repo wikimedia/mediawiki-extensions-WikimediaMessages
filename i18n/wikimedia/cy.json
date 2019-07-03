@@ -19,6 +19,9 @@
 	"nstab-institution": "Sefydliad",
 	"nstab-sequence": "Dilyniant",
 	"nstab-timedtext": "Is-deitlau",
+	"group-image-reviewer": "Adolygwyr delweddau",
+	"group-image-reviewer-member": "adolygydd delweddau",
+	"grouppage-image-reviewer": "{{ns:project}}:Adolygwyr delweddau",
 	"group-Image-reviewer": "Adolygwyr delweddau",
 	"group-Image-reviewer-member": "adolygydd delweddau",
 	"grouppage-Image-reviewer": "{{ns:project}}:Adolygwyr delweddau",
@@ -135,8 +138,5 @@
 	"wikimediashoplink-linktext": "Siop Wikimedia",
 	"wikimediashoplink-link-tooltip": "Ewch am dro i siop Wikimedia",
 	"eri-rcfilters-tour-intro-welcome-description": "Defnyddiwch y system ffiltro ddiweddaraf er mwyn rhoi trefn ar eich golygiadau. Gallwch hyd yn oed eu cadw mewn set taclus, a'u huwcholeuo yn ôl eich dewis.",
-	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio",
-	"group-image-reviewer": "Adolygwyr delweddau",
-	"group-image-reviewer-member": "adolygydd delweddau",
-	"grouppage-image-reviewer": "{{ns:project}}:Adolygwyr delweddau"
+	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio"
 }

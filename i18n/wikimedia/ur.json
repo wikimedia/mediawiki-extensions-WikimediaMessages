@@ -33,6 +33,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\" پر کلک کرنے سے پتہ چلے گا کہ آپ کی تبدیلیوں کے بعد متعلقہ صفحہ کس طرح نظر آئے گا۔ اس کے بعد محفوظ کرنا نہ بھولیں۔",
 	"gettingstarted-cta-edit-page-wikipedia": "اس مضمون میں ترمیم کریں",
 	"gettingstarted-cta-fix-pages-wikipedia": "تجویز کردہ مضمون میں ترمیم کریں",
+	"group-image-reviewer": "ملف مبصر",
+	"group-image-reviewer-member": "{{GENDER:$1|ملف مبصر}}",
+	"grouppage-image-reviewer": "{{ns:project}}:ملف مبصر",
 	"group-Image-reviewer": "ملف مبصر",
 	"group-Image-reviewer-member": "{{GENDER:$1|ملف مبصر}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:ملف مبصر",
@@ -207,8 +210,5 @@
 	"eri-rcfilters-tour-intro-welcome-button": "ٹھیک ہے",
 	"eri-rcfilters-tour-highlight-button": "ٹھیک ہے",
 	"eri-wlfilters-tour-intro-welcome-title": "ترقی یافتہ زیر نظر فہرست فلٹرنگ میں خوش آمدید",
-	"wikimedia-cookiestatement": "کوکیز کی تفصیلات",
-	"group-image-reviewer": "ملف مبصر",
-	"group-image-reviewer-member": "{{GENDER:$1|ملف مبصر}}",
-	"grouppage-image-reviewer": "{{ns:project}}:ملف مبصر"
+	"wikimedia-cookiestatement": "کوکیز کی تفصیلات"
 }

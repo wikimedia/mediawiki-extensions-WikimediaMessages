@@ -51,6 +51,9 @@
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "Mit dem Klicken auf „{{int:showpreview}}“ kannst du sehen, wie der Artikel mit deinen Änderungen aussehen wird. Vergiss nicht zu speichern.",
 	"gettingstarted-cta-edit-page-wikipedia": "Diesen Artikel bearbeiten",
 	"gettingstarted-cta-fix-pages-wikipedia": "Einen vorgeschlagenen Artikel bearbeiten",
+	"group-image-reviewer": "Dateiprüfer",
+	"group-image-reviewer-member": "{{GENDER:$1|Dateiprüfer|Dateiprüferin}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Dateiprüfer",
 	"group-Image-reviewer": "Dateiprüfer",
 	"group-Image-reviewer-member": "{{GENDER:$1|Dateiprüfer|Dateiprüferin}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Dateiprüfer",
@@ -323,8 +326,5 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Wurde diese Seite schnell genug geladen?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement Datenschutzerklärung] für diese Umfrage.",
 	"wikimedia-switchover-read-only": "Du kannst aufgrund von Wartungsarbeiten derzeit nicht bearbeiten. Kopiere und speichere deinen Text und versuche es in einigen Minuten erneut.",
-	"passwordpolicies-policy-blockattacker": "Es gibt eine weitere Passwortrichtlinie, die momentan aus Sicherheitsgründen nicht veröffentlicht wurde.",
-	"group-image-reviewer": "Dateiprüfer",
-	"group-image-reviewer-member": "{{GENDER:$1|Dateiprüfer|Dateiprüferin}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Dateiprüfer"
+	"passwordpolicies-policy-blockattacker": "Es gibt eine weitere Passwortrichtlinie, die momentan aus Sicherheitsgründen nicht veröffentlicht wurde."
 }

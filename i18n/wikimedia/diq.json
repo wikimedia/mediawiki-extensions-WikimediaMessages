@@ -23,6 +23,9 @@
 	"nstab-institution": "Daire",
 	"nstab-sequence": "Rate",
 	"nstab-timedtext": "NusneDemi",
+	"group-image-reviewer": "Weyndarê resiman",
+	"group-image-reviewer-member": "{{GENDER:$1|rexnekarê resimi}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Weyndarê resiman",
 	"group-Image-reviewer": "Weyndarê resiman",
 	"group-Image-reviewer-member": "{{GENDER:$1|rexnekarê resimi}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Weyndarê resiman",
@@ -171,8 +174,5 @@
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipediya, ensiklopediya azadi",
 	"interlanguage-link-commons": "Wikimedia Commons",
-	"wikimedia-cookiestatement": "Çerezê pêhesnayışi",
-	"group-image-reviewer": "Weyndarê resiman",
-	"group-image-reviewer-member": "{{GENDER:$1|rexnekarê resimi}}",
-	"grouppage-image-reviewer": "{{ns:project}}:Weyndarê resiman"
+	"wikimedia-cookiestatement": "Çerezê pêhesnayışi"
 }
