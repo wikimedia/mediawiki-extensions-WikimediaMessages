@@ -2,11 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Joseagush",
-			"NoiX180"
+			"NoiX180",
+			"Luh Gede Krismayanti"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
 	"wm-license-cc-free": "Jero dados:",
+	"wm-license-cc-free-to-share-header": "Ngedum",
+	"wm-license-cc-free-to-share-text": "Nyadur miwah nyobyahang malih suratan puniki ring wentuk utawi format napi ja",
+	"wm-license-cc-free-to-remix-header": "Nyampuhang",
+	"wm-license-cc-free-to-remix-text": "Ngubah pakaryan puniki",
 	"wm-license-cc-conditions": "Beten kondisi sane mangkin:",
-	"wm-license-cc-conditions-attribution-header": "atribusi"
+	"wm-license-cc-conditions-attribution-header": "atribusi",
+	"wm-license-cc-conditions-share_alike-header": "Nyobyahang sané madué kapatehan"
 }

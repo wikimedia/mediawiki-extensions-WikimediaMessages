@@ -2,12 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Joseagush",
-			"NoiX180"
+			"NoiX180",
+			"Luh Gede Krismayanti"
 		]
 	},
 	"wm-license-information-description": "Panjabaran",
 	"wm-license-information-source": "Wit",
 	"wm-license-information-date": "Tanggal",
 	"wm-license-information-author": "Sang anyurat",
+	"wm-license-information-permission": "Nyelang",
+	"wm-license-information-permission-reusing-text": "Nganggon buin kaca ené",
 	"wm-license-own-work": "Karya pedidi"
 }

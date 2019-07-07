@@ -9,13 +9,14 @@
 			"Nemo bis",
 			"Pizza1016",
 			"SNN95",
-			"Jeluang Terluang"
+			"Jeluang Terluang",
+			"Zulfadli51"
 		]
 	},
 	"wikimediamessages-desc": "Pesanan-pesanan Wikimedia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ms",
 	"sitesupport": "Derma",
-	"tooltip-n-sitesupport": "Derma",
+	"tooltip-n-sitesupport": "Sokong kami",
 	"specialpages-group-contribution": "Sumbangan/Tabung",
 	"nstab-creator": "Pencipta",
 	"nstab-institution": "Institusi",
@@ -148,7 +149,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Penyelia penterjemahan",
 	"group-wmf-researcher": "Penyelidik WMF",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Teks disediakan dengan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ms\">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma-terma tambahan mungkin digunakan. Lihat <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Terma-Terma Penggunaan</a> untuk butiran lanjut.",
+	"wikimedia-copyright": "Teks disediakan dengan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ms\">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma tambahan mungkin digunakan. Lihat <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Terma Penggunaan</a> untuk butiran lanjut.",
 	"wikidata-copyright": "Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Lesen Creative Commons CC0</a>;\nmaklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Lesen Creative Commons Attribution-ShareAlike</a>;\ntertakluk pada sebarang syarat tambahan.\nRujuk <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.",
 	"wikimedia-copyrightwarning": "<p>Dengan menyimpan perubahan, anda setujui kepada [https://foundation.wikimedia.org/wiki/Terms_of_Use Syarat-Syarat Penggunaan], dan bersetuju, tanpa kebolehan menarik balik, untuk melepaskan sumbangan anda di bawah [https://creativecommons.org/licenses/by-sa/3.0/deed.ms Lesen CC BY-SA 3.0] serta [//ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Pendokumenan_Bebas_GNU GFDL].\nAnda bersetuju bahawa sebuah pautan hiper atau URL ialah pengiktirafan yang memadai di bawah lesen Creative Commons.</p>",
 	"wikibase-sitelinks-wikinews": "Wikiberita",
