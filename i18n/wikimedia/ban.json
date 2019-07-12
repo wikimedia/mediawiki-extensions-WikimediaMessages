@@ -3,12 +3,14 @@
 		"authors": [
 			"Carma citrawati",
 			"Joseagush",
-			"NoiX180"
+			"NoiX180",
+			"Luh Gede Krismayanti"
 		]
 	},
 	"sitesupport": "Puniaang",
 	"tooltip-n-sitesupport": "Sarengin titiang",
 	"wikimedia-copyright": "Sesuratan wénten ring sor <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lisénsi Creative Commons Attribution-ShareAlike</a>;\nwénten kawewehin ketentuan lianan\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> sajangkepnyané",
+	"wikimedia-copyrightwarning": "Yening nyimpen paweweh, ragane cumpu indik[//foundation.wikimedia.org/wiki/Terms_of_Use Tatacara Pangawi], miwah ragane stata cumpu jagi nglepasang pakaryan druene ring ungkur [https://creativecommons.org/licenses/by-sa/3.0/deed.id Lisensi CC BY-SA 3.0] miwah [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. \nIda cumpu indik kaicen pranala utawi URL sampun kaucap becik antuk atribusi ring ungkur wewidangan Lisensi Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikiwarta",
 	"wikibase-sitelinks-wikiquote": "Wikianggit",
 	"wikibase-sitelinks-wikisource": "Wikiwit",
