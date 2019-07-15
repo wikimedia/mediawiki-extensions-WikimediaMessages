@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ильнар",
-			"Derslek"
+			"Derslek",
+			"Ерней"
 		]
 	},
 	"wm-license-cc-attribution": "Авторлыкны күрсәтү",
@@ -14,7 +15,7 @@
 	"wm-license-cc-free-to-remix-text": "бу язманы үзгәртү",
 	"wm-license-cc-conditions": "Алдагы шартларны үтәгән очракта",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
-	"wm-license-cc-conditions-attribution-text": "сез бу язманың авторына (хокук йөртүчесенә), ул куйган рәвештә сылтама бирергә тиешсез.",
+	"wm-license-cc-conditions-attribution-text": "Авторлыкны күрсәтергә, рөхсәтнамәгә сылтаманы бирергә һәм ясалган үзгәрешләрне билгеләргә тиешсез. Бу теләсә нинди мәгъкуль ысул белән кылырга ярый, әмма лицензиар сезне яки куллануыгызны хуплый тәэсирен калдырмыйча.",
 	"wm-license-cc-conditions-share_alike-header": "шул ук кагыйдәләр буенча таратыла",
 	"wm-license-cc-conditions-share_alike-text": "Әгәрдә сез, бу чыганакны кулланып яңаны ясыйсыз икән, сез шул ук лицензияләрне кулланырга тиешсез."
 }
