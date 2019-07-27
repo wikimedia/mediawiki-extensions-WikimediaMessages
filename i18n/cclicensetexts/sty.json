@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khanmarat"
+			"Khanmarat",
+			"Sorbat"
 		]
 	},
 	"wm-license-cc-attribution": "Авторлыҡны күрсәтеү",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
 	"wm-license-cc-conditions-attribution-text": "Сес пы эшнеңке авторына (йә ийәсенә) ссылка ҡылғалы тийеш (әммә автор сеснең пелән килешәте тигән уй тыумасҡа тийеш).",
 	"wm-license-cc-conditions-share_alike-header": "шал уҡ шартлар пелән таратылаты",
-	"wm-license-cc-conditions-share_alike-text": "Әгәр тә сес ошо әсәрне ҡулланып йә мыны перәй ницек пашҡартып йаңаны ҡыласыс игән, сес аны ошо уҡ йә ошаш лицензияны ҡулланып ҡына тарата аласыс."
+	"wm-license-cc-conditions-share_alike-text": "Если вы изменяете, преобразуете или создаёте иное произведение на основе данного, то обязаны использовать лицензию исходного произведения или [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses лицензию, совместимую с исходной]."
 }

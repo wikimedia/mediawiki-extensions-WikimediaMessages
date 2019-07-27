@@ -5,7 +5,17 @@
 			"ToJack"
 		]
 	},
+	"wm-license-artwork-title": "Унвон",
+	"wm-license-artwork-notes": "Эзоҳот",
+	"wm-license-book-edition": "Вироиш",
+	"wm-license-book-editor": "Вироишгар",
+	"wm-license-book-illustrator": "Расмандоз",
 	"wm-license-book-language": "Забон",
+	"wm-license-book-printer": "Принтер",
+	"wm-license-book-title": "Унвон",
+	"wm-license-book-translator": "Тарҷумон",
+	"wm-license-creator-description": "Тавзеҳот",
+	"wm-license-creator-date-of-birth": "Санаи тавпллуд",
 	"wm-license-information-description": "Тавсифот",
 	"wm-license-information-source": "Манбаъ",
 	"wm-license-information-date": "Сана",
