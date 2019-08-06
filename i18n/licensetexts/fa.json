@@ -12,7 +12,8 @@
 			"Wayiran",
 			"ZxxZxxZ",
 			"Oldstoneage",
-			"Ladsgroup"
+			"Ladsgroup",
+			"Iriman"
 		]
 	},
 	"wm-license-attribution-with-author-text": "دارندهٔ حق‌تکثیر این پرونده، $1، به هر کسی اجازهٔ استفاده از آن را '''به هر منظوری می‌دهد، به شرط آنکه''' به شکلی مناسب به دارندهٔ حق‌تکثیر آن نسبت داده شود. توزیع مجدد، آثار مشتق‌شده، استفادهٔ تجاری، و تمام استفاده‌های دیگر مجاز است.",
@@ -67,7 +68,7 @@
 	"wm-license-gpl-wiki-link": "w:fa:اجازه‌نامه عمومی همگانی گنو",
 	"wm-license-information-table-summary": "جدولی استانداردسازی‌شده که اطلاعاتی پیرامون پرونده ازجمله توضیحی پیرامون آنچه نمایش می‌دهد و نحوهٔ ایجاد آن و وضعیت حق تکثیر و منبع.",
 	"wm-license-information-description": "توضیح",
-	"wm-license-information-description-missing": "این تصویر اطلاعاتی راجع به '''{{ #if: {{{1|}}} | {{{1}}} | توضیحات }}''' ندارد، و ممکن است فاقد اطلاعت دیگر باشد.",
+	"wm-license-information-description-missing": "این پرونده '''توضیحاتی''' ندارد و ممکن است فاقد اطلاعات دیگر باشد.",
 	"wm-license-information-description-missing-request": "لطفاً توضیحات مرتبطی پیرامون این تصویر ارائه دهید.",
 	"wm-license-information-source": "منبع",
 	"wm-license-information-source-missing": "این پرونده فاقد اطلاعاتی در مورد '''منبع''' آن است.",
