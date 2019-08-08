@@ -335,5 +335,9 @@
 	"group-oathauth-tester": "Two-factor authentication testers",
 	"group-oathauth-tester-member": "{{GENDER:$1|two-factor authentication tester}}",
 	"querypage-updates-half-monthly": "Updates for this page are running twice a month.",
-	"querypage-updates-monthly": "Updates for this page are running once a month."
+	"querypage-updates-monthly": "Updates for this page are running once a month.",
+	"protect-level-editautoreviewprotected": "Allow only autoreviewers",
+	"restriction-level-editautoreviewprotected": "autoreviewer protected",
+	"right-editautoreviewprotected": "Edit pages protected as \"{{int:protect-level-editautoreviewprotected}}\"",
+	"action-editautoreviewprotected": "edit pages protected as \"{{int:protect-level-editautoreviewprotected}}\""
 }

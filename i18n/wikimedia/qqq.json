@@ -372,5 +372,9 @@
 	"group-oathauth-tester": "{{doc-group|oathauth-tester}}",
 	"group-oathauth-tester-member": "{{doc-group|oathauth-tester|member}}",
 	"querypage-updates-half-monthly": "Text on some special pages with updates twice a month.",
-	"querypage-updates-monthly": "Text on some special pages with updates once a month."
+	"querypage-updates-monthly": "Text on some special pages with updates once a month.",
+	"protect-level-editautoreviewprotected": "{{optional}}\nUsed as protect level.",
+	"restriction-level-editautoreviewprotected": "{{optional}}\nUsed on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
+	"right-editautoreviewprotected": "{{optional}}\n{{doc-right|editautoreviewprotected}}\nRefers to a protection level",
+	"action-editautoreviewprotected": "{{optional}}\n{{doc-action|editautoreviewprotected}}"
 }
