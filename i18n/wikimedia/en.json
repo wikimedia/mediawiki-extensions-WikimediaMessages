@@ -331,5 +331,5 @@
 	"technical-maintenance-edit": "During this time you might not be able to save any edits.",
 	"grouppage-oathauth-tester": "m:Special:MyLanguage/Help:Two-factor authentication",
 	"group-oathauth-tester": "Two-factor authentication testers",
-	"group-oathauth-tester-member": "two-factor authentication tester"
+	"group-oathauth-tester-member": "{{GENDER:$1|two-factor authentication tester}}"
 }
