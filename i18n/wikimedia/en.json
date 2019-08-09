@@ -42,7 +42,7 @@
 	"grouppage-abusefilter": "{{ns:project}}:Abuse filter editors",
 	"group-abusefilter-helper": "Abuse filter helpers",
 	"group-abusefilter-helper-member": "{{GENDER:$1|abuse filter helper}}",
-	"grouppage-abusefilter-helper": "m:Abuse filter helpers",
+	"grouppage-abusefilter-helper": "m:Special:MyLanguage/Abuse filter helpers",
 	"group-accountcreator": "Account creators",
 	"group-accountcreator-member": "{{GENDER:$1|account creator}}",
 	"grouppage-accountcreator": "{{ns:project}}:Account creators",
