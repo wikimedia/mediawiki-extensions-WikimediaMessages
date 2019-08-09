@@ -353,5 +353,6 @@
 	"wikimedia-switchover-read-only": "Você não pode editar agora. Isso é por causa da manutenção. Copie e salve seu texto e tente novamente em alguns minutos.",
 	"passwordpolicies-policy-blockattacker": "Política de senha para mitigação de ataques conhecidos, onde a divulgação de detalhes impediria a mitigação",
 	"technical-maintenance-soon": "A manutenção técnica será realizada em breve:",
-	"technical-maintenance-edit": "Durante esse período, talvez você não consiga salvar nenhuma edição."
+	"technical-maintenance-edit": "Durante esse período, talvez você não consiga salvar nenhuma edição.",
+	"group-oathauth-tester-member": "testador de autenticação de dois fatores"
 }

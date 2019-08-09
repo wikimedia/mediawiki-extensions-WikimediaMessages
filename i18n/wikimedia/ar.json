@@ -339,5 +339,7 @@
 	"wikimedia-switchover-read-only": "لا يمكنك التعديل الآن. هذا بسبب الصيانة. انسخ واحفظ نصك وحاول مرة أخرى بعد عدة دقائق.",
 	"passwordpolicies-policy-blockattacker": "سياسة كلمة المرور للتخفيف من الهجمات المعروفة حيث يؤدي الإفصاح عن التفاصيل إلى إعاقة التخفيف",
 	"technical-maintenance-soon": "سيتم إجراء صيانة تقنية قريباً",
-	"technical-maintenance-edit": "في هذه الأثناء من الممكن ألا تكون قادراً على حفظ أي من التعديلات"
+	"technical-maintenance-edit": "في هذه الأثناء من الممكن ألا تكون قادراً على حفظ أي من التعديلات",
+	"group-oathauth-tester": "مختبرو التوثيق ذي العاملين",
+	"group-oathauth-tester-member": "مختبر التوثيق ذي العاملين"
 }
