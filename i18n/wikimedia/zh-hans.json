@@ -79,7 +79,6 @@
 	"grouppage-abusefilter": "{{ns:project}}:滥用过滤器编辑者",
 	"group-abusefilter-helper": "滥用过滤器助手",
 	"group-abusefilter-helper-member": "{{GENDER:$1|滥用过滤器助手}}",
-	"grouppage-abusefilter-helper": "m:Abuse filter helpers/zh",
 	"group-accountcreator": "账户创建者",
 	"group-accountcreator-member": "{{GENDER:$1|账户创建者}}",
 	"grouppage-accountcreator": "{{ns:project}}:账户创建者",

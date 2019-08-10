@@ -49,7 +49,6 @@
 	"grouppage-abusefilter": "{{ns:project}}:Správci filtrů zneužití",
 	"group-abusefilter-helper": "Správci filtrů zneužití",
 	"group-abusefilter-helper-member": "{{GENDER:$1|správce filtrů zneužití}}",
-	"grouppage-abusefilter-helper": "m:Správci filtrů zneužití",
 	"group-accountcreator": "Zakladatelé účtů",
 	"group-accountcreator-member": "{{GENDER:$1|zakladatel|zakladatelka|zakladatel}} účtů",
 	"grouppage-accountcreator": "{{ns:project}}:Zakladatelé účtů",

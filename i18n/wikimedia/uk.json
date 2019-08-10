@@ -72,7 +72,6 @@
 	"grouppage-abusefilter": "{{ns:project}}:Редактори фільтра редагувань",
 	"group-abusefilter-helper": "Переглядачі фільтра зловживань",
 	"group-abusefilter-helper-member": "{{GENDER:$1|переглядач|переглядачка}} фільтра зловживань",
-	"grouppage-abusefilter-helper": "m:Abuse filter helpers",
 	"group-accountcreator": "Створювачі облікових записів",
 	"group-accountcreator-member": "{{GENDER:$1|створювач|створювачка}} облікових записів",
 	"grouppage-accountcreator": "{{ns:project}}:Створювачі облікових записів",

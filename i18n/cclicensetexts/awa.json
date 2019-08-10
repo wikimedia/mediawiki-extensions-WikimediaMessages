@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"1AnuraagPandey"
+			"1AnuraagPandey",
+			"Ajeetsinghawadh"
 		]
 	},
 	"wm-license-cc-attribution": "एट्रीब्यूसन",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "एट्रीब्यूसन",
 	"wm-license-cc-conditions-attribution-text": "आपको रचना का श्रेय लाइसेंसकर्ता अथवा लेखक के बताये गए माध्यम से देना होगा (परन्तु इस प्रकार नहीं की उससे लगे कि वे आपको अथवा आपके द्वारा रचना के प्रयोग का समर्थन करते हैं)।",
 	"wm-license-cc-conditions-share_alike-header": "शेयर अलाईक",
-	"wm-license-cc-conditions-share_alike-text": "यदि आप इस रचना में कोई परिवर्तन अथवा बदलाव करते हैं या इसपर आधारित कुछ रचित करते हैं तो आप निष्कर्ष स्वरूप बनी रचना को केवल इसी या इसके सामान किसी लाइसेंस के अंतर्गत वितरित कर सकते हैं।"
+	"wm-license-cc-conditions-share_alike-text": "यदि आप सामग्री का रीमिक्स, रूपांतरण, या निर्माण करत हैं, तौ आपका अपने योगदान का मूल के रूप मा [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses] या संगत लाइसेंस के तहत वितरित करय का परे।"
 }

@@ -324,5 +324,7 @@
 	"wikimedia-switchover-read-only": "Du kan inte redigera nu. Detta är p.g.a. underhåll. Kopiera och spara din text och försök igen om några minuter.",
 	"passwordpolicies-policy-blockattacker": "Lösenordspolicyn för att förmildra kända attacker som avslöjar information skulle förhindra förmildringen",
 	"technical-maintenance-soon": "Tekniskt underhåll kommer att genomföras snart:",
-	"technical-maintenance-edit": "Under tiden kommer du nog inte kunna spara några redigeringar."
+	"technical-maintenance-edit": "Under tiden kommer du nog inte kunna spara några redigeringar.",
+	"group-oathauth-tester": "Testare av två-faktorautentisering",
+	"group-oathauth-tester-member": "testare av två-faktorautentisering"
 }

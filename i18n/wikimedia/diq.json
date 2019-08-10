@@ -35,7 +35,6 @@
 	"group-abusefilter": "serkarê filtreyê suistimali",
 	"group-abusefilter-member": "{{GENDER:$1|editor filtreyê bilenderi}}",
 	"grouppage-abusefilter": "{{ns:project}}:serkarê filtreyê suitimali",
-	"grouppage-abusefilter-helper": "m:Abuse filter helpers",
 	"group-accountcreator": "Hesab vıraştoği",
 	"group-accountcreator-member": "{{GENDER:$1|Hesab vıraşteber}}",
 	"grouppage-accountcreator": "{{ns:project}}:Hesab vıraştoği",

@@ -29,7 +29,6 @@
 	"group-abusefilter-member": "{{GENDER:$1|စီစစ်စနစ် တည်းဖြတ်သူ}}",
 	"group-abusefilter-helper": "စီစစ်စနစ် ကူညီသူများ",
 	"group-abusefilter-helper-member": "{{GENDER:$1|စီစစ်စနစ် ကူညီသူ}}",
-	"grouppage-abusefilter-helper": "m:စီစစ်စနစ် ကူညီသူများ",
 	"group-accountcreator": "အကောင့်ဖန်တီးသူများ",
 	"group-accountcreator-member": "{{GENDER:$1|အကောင့်ဖန်တီးသူ}}",
 	"grouppage-accountcreator": "{{ns:project}}:အကောင့်ဖန်တီးသူများ",

@@ -75,7 +75,6 @@
 	"grouppage-abusefilter": "{{ns:project}}:편집 필터 편집자",
 	"group-abusefilter-helper": "편집 필터 편집자",
 	"group-abusefilter-helper-member": "{{GENDER:$1|편집 필터 도우미}}",
-	"grouppage-abusefilter-helper": "m:Abuse filter helpers",
 	"group-accountcreator": "계정 생성자",
 	"group-accountcreator-member": "{{GENDER:$1|계정 생성자}}",
 	"grouppage-accountcreator": "{{ns:project}}:계정 생성자",

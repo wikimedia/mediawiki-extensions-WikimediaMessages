@@ -367,5 +367,7 @@
 	"wikimedia-switchover-read-only": "Vous ne pouvez pas modifier actuellement. Ceci à cause de la maintenance en cours. Copiez et enregistrez votre texte et réessayez dans quelques minutes.",
 	"passwordpolicies-policy-blockattacker": "Politique de mot de passe pour réduire les attaques connues lorsque la divulgation de détails gênerait la réduction",
 	"technical-maintenance-soon": "La maintenance technique va être réalisée bientôt :",
-	"technical-maintenance-edit": "Durant ce temps vous ne pourrez pas sauvegarder les modifications."
+	"technical-maintenance-edit": "Durant ce temps vous ne pourrez pas sauvegarder les modifications.",
+	"group-oathauth-tester": "Testeurs d’authentification à deux facteurs",
+	"group-oathauth-tester-member": "testeur d’authentification à deux facteurs"
 }

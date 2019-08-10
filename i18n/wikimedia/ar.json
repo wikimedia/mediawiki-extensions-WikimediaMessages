@@ -66,7 +66,6 @@
 	"grouppage-abusefilter": "{{ns:project}}:معدلو مرشح الإساءة",
 	"group-abusefilter-helper": "مساعدو مرشحات الإساءة",
 	"group-abusefilter-helper-member": "{{GENDER:$1|مساعد مرشحات الإساءة|مساعدة مرشحات الغساءة}}",
-	"grouppage-abusefilter-helper": "m:Abuse filter helpers/ar",
 	"group-accountcreator": "منشئو الحسابات",
 	"group-accountcreator-member": "{{GENDER:$1|منشئ حسابات|منشئة حسابات}}",
 	"grouppage-accountcreator": "{{ns:project}}:منشئو الحسابات",

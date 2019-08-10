@@ -313,5 +313,7 @@
 	"wikimedia-switchover-read-only": "לא ניתן לערוך עכשיו. זה קורה בגלל תחזוקה. נא להעתיק ולשמור במקום אחר את הטקסט ולנסות שוב בעוד מספר דקות.",
 	"passwordpolicies-policy-blockattacker": "מדיניות סיסמאות לאפחות התקפות ידועות כאשר חשיפות פרטים תפריע לאפחות",
 	"technical-maintenance-soon": "בקרוב תבוצע תחזוקה טכנית:",
-	"technical-maintenance-edit": "בזמן הזה לא תוכלו לשמור עריכות."
+	"technical-maintenance-edit": "בזמן הזה לא תוכלו לשמור עריכות.",
+	"group-oathauth-tester": "בודקי אימות דו־שלבי",
+	"group-oathauth-tester-member": "בודק אימות דו־שלבי"
 }

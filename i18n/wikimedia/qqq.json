@@ -79,7 +79,7 @@
 	"grouppage-abusefilter": "{{doc-group|abusefilter|page}}",
 	"group-abusefilter-helper": "{{doc-group|abusefilter-helper}}",
 	"group-abusefilter-helper-member": "{{doc-group|abusefilter-helper|member}}",
-	"grouppage-abusefilter-helper": "{{doc-group|abusefilter-helper|page}}",
+	"grouppage-abusefilter-helper": "{{notranslate}}\n{{doc-group|abusefilter-helper|page}}",
 	"group-accountcreator": "{{doc-group|accountcreator}}",
 	"group-accountcreator-member": "{{doc-group|accountcreator|member}}",
 	"grouppage-accountcreator": "{{doc-group|accountcreator|page}}",
@@ -366,7 +366,7 @@
 	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation",
 	"technical-maintenance-soon": "The first part of a message used in a banner shown during maintenance window",
 	"technical-maintenance-edit": "A message shown during maintenance window when editing is locked",
-	"grouppage-oathauth-tester": "{{doc-group|oathauth-tester|page}}",
+	"grouppage-oathauth-tester": "{{ignored}}\n{{doc-group|oathauth-tester|page}}",
 	"group-oathauth-tester": "{{doc-group|oathauth-tester}}",
 	"group-oathauth-tester-member": "{{doc-group|oathauth-tester|member}}"
 }
