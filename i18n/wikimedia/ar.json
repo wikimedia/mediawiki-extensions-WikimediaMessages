@@ -340,5 +340,5 @@
 	"technical-maintenance-soon": "سيتم إجراء صيانة تقنية قريباً",
 	"technical-maintenance-edit": "في هذه الأثناء من الممكن ألا تكون قادراً على حفظ أي من التعديلات",
 	"group-oathauth-tester": "مختبرو التوثيق ذي العاملين",
-	"group-oathauth-tester-member": "مختبر التوثيق ذي العاملين"
+	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين"
 }

@@ -268,6 +268,8 @@
 	"protect-level-superprotect": "特別保護利用者のみに許可",
 	"restriction-level-superprotect": "特別保護",
 	"right-templateeditor": "保護されたテンプレートを編集",
+	"action-extendedconfirmed": "制限されているページの編集",
+	"right-extendedconfirmed": "制限されたページを編集",
 	"eri-rcfilters-tour-intro-welcome-title": "新しくなった最近の更新のフィルタリングへようこそ",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "編集の査読を効率的に行えるようにフィルターが刷新され、複数の絞込み条件の保存、利用者定義の強調表示その他の改良が行われました。$1",
 	"eri-rcfilters-tour-help": "詳細",
