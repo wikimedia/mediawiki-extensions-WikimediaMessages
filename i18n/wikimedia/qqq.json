@@ -366,7 +366,7 @@
 	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation",
 	"technical-maintenance-soon": "The first part of a message used in a banner shown during maintenance window",
 	"technical-maintenance-edit": "A message shown during maintenance window when editing is locked",
-	"grouppage-oathauth-tester": "{{ignored}}\n{{doc-group|oathauth-tester|page}}",
+	"grouppage-oathauth-tester": "{{ignored}}\n{{notranslate}}\n{{doc-group|oathauth-tester|page}}",
 	"group-oathauth-tester": "{{doc-group|oathauth-tester}}",
 	"group-oathauth-tester-member": "{{doc-group|oathauth-tester|member}}"
 }
