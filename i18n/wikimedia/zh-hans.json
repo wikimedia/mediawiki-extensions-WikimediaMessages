@@ -38,7 +38,8 @@
 			"AndyAndyAndyAlbert",
 			"A Chinese Wikipedian",
 			"佛壁灯",
-			"Matma Rex"
+			"Matma Rex",
+			"Looong"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -350,5 +351,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "此页面是否加载足够快？",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
 	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。",
-	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程"
+	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程",
+	"group-oathauth-tester-member": "性别：$1个二因素授权测试人员"
 }
