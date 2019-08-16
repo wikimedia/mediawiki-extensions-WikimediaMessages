@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ильнар"
+			"Ильнар",
+			"Ерней"
 		]
 	},
 	"wm-license-artwork-artist": "Автор",
@@ -41,7 +42,7 @@
 	"wm-license-creator-work-period": "Иҗат еллары",
 	"wm-license-creator-work-location": "Иҗат урыны",
 	"wm-license-creator-linkback": "Автор турында белешмә калыбына кире сылтама",
-	"wm-license-gfdl-1.2-and-later": "Әлеге документның күчермәләрен ясау, яисә аны үзгәртү [[{{int:wm-license-fsf-wiki-link}}|Ирекле программа белән тәэмин ителеш фонды]] билгеләгән 1.2 яки аннан да олы булган юрамалы'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' аша таратыла. Лицензиянең күчермәсе ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' исемле бүлеккә кертелгән.",
+	"wm-license-gfdl-1.2-and-later": "Бу документтан күчермә алырга, аны таратырга һәм/яки үзгәртергә [[{{int:wm-license-fsf-wiki-link}}|Ирекле программалар фонды]] тарафыннан бастырылган 1.2 һәм соңрак чыгарышлы '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' шартлары буенча хакыгыз бар, әмма үзгәрмәс бүлекләрсез, алгы һәм арткы тышлыктагы текстсыз. Лицензиянең күчермәсе ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' исемле бүлеккә кертелгән.",
 	"wm-license-gfdl-1.2-only-header": "тик&nbsp;1.2",
 	"wm-license-information-description": "Тасвир",
 	"wm-license-information-source": "Чыганагы",
