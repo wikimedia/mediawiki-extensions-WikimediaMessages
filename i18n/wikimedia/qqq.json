@@ -368,5 +368,7 @@
 	"technical-maintenance-edit": "A message shown during maintenance window when editing is locked",
 	"grouppage-oathauth-tester": "{{ignored}}\n{{notranslate}}\n{{doc-group|oathauth-tester|page}}",
 	"group-oathauth-tester": "{{doc-group|oathauth-tester}}",
-	"group-oathauth-tester-member": "{{doc-group|oathauth-tester|member}}"
+	"group-oathauth-tester-member": "{{doc-group|oathauth-tester|member}}",
+	"querypage-updates-half-monthly": "Text on some special pages with updates twice a month.",
+	"querypage-updates-monthly": "Text on some special pages with updates once a month."
 }
