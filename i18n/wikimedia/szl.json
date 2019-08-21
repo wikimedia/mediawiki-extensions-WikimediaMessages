@@ -6,13 +6,14 @@
 			"Lajsikonik",
 			"Nemo bis",
 			"Gaj777",
-			"Przem(1)s"
+			"Przem(1)s",
+			"Uostofchuodnego"
 		]
 	},
 	"wikimediamessages-desc": "Kůmůńikaty ůńikalne lů projektůw Wikimedia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=szl",
-	"sitesupport": "Dowka",
-	"tooltip-n-sitesupport": "Wspůmůž nas",
+	"sitesupport": "Dŏwki",
+	"tooltip-n-sitesupport": "Spōmōż nŏs",
 	"group-accountcreator": "Tworzůncy kůnta",
 	"group-accountcreator-member": "twůrca kůnt",
 	"grouppage-accountcreator": "{{ns:project}}:Twůrcy kůnt",
@@ -46,12 +47,13 @@
 	"group-steward-member": "steward",
 	"group-sysadmin": "Admińistratory systymu",
 	"group-sysadmin-member": "admińistrator systyma",
-	"wikimedia-copyright": "Tekst udostympńany na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licencyji Creative Commons: uznańy autorstwa, na takich samych warůnkach</a>, ze mogebnośćům uobowjůnzywańo ekstra uograńiczyń.\nUobejrzij dokładne informacyje uo <a href=\"https://foundation.wikimedia.org/wiki/Warunki_korzystania\">warůnkach korzistańo</a>.",
+	"wikimedia-copyright": "Tekst je dostympny na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pl\">licyncyji Creative Commons: uznanie autorstwa, na takich samych warōnkach</a>, ze możliwymi ekstra ôgraniczyniami.\nWejzdrzij na <a href=\"https://foundation.wikimedia.org/wiki/Warunki_korzystania\">warōnki używaniŏ</a> po wiyncyj informacyji.",
 	"wikimedia-copyrightwarning": "Bez spamjyntańe půmjyńań dowosz ńyuodwołalno zgoda na udostympńańy Twojygo ajnzacu na licencyjach [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: uznańe autorstwa, na jednakich warůnkach, wersyja licencyji 3.0] a tyż na licencyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Wyrażosz zgoda na wykorzystańy pod warunkem co najmńyj podańo necowygo uodwołańo abo adresa URL do zajty na keryj powstoła treść. Uobejzdrzij blank dokładne informacyje uo [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use warunkach korzystańo].",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikicytaty",
 	"wikibase-sitelinks-wikisource": "Wikizdrzůdła",
 	"wikibase-sitelinks-wikivoyage": "Wikirajzy",
 	"wikimedia-developers": "Dlŏ deweloperōw",
-	"wikimedia-globalblocking-ipblocked": "'''Twoja adresa IP ôstała [[m:Special:MyLanguage/Global blocks|zawartŏ na wszyjskich wiki]].'''\n\nZawarcie sprŏwił $1 ($2).\nSkirz: „$3”.\n\n* Poczōntek zawarciŏ: $4 \n* Kōniec zawarciŏ: $5 \n\nTwoja terŏźnŏ adresa IP to $6.\nProszymy wkludź wszyjske te informacyje eli mŏsz jake pytania.\n\nEli myślisz, aże zawarcie je ôstudōm, możesz znojść wiyncyj informacyji na zajcie globalnych regli [[m:Special:MyLanguage/No open proxies|Bez ôtwartych proxy serwerōw]].\nInakszyj, coby ôbgŏdać zawarcie, [[m:Steward requests/Global|wraź prośbã na Meta-wiki]]."
+	"wikimedia-globalblocking-ipblocked": "'''Twoja adresa IP ôstała [[m:Special:MyLanguage/Global blocks|zawartŏ na wszyjskich wiki]].'''\n\nZawarcie sprŏwił $1 ($2).\nSkirz: „$3”.\n\n* Poczōntek zawarciŏ: $4 \n* Kōniec zawarciŏ: $5 \n\nTwoja terŏźnŏ adresa IP to $6.\nProszymy wkludź wszyjske te informacyje eli mŏsz jake pytania.\n\nEli myślisz, aże zawarcie je ôstudōm, możesz znojść wiyncyj informacyji na zajcie globalnych regli [[m:Special:MyLanguage/No open proxies|Bez ôtwartych proxy serwerōw]].\nInakszyj, coby ôbgŏdać zawarcie, [[m:Steward requests/Global|wraź prośbã na Meta-wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Jedyn abo wiyncyj serwerōw proxy użytych ôd Twojigo żōndaniŏ je [[m:Special:MyLanguage/Global blocks|globalnia zablokowany]].'''\n\nBlokadã była nałożōnŏ ôd $1 ($2).\nPodany powōd „$3”.\n\n* Poczōntek blokady: $4 \n* Kōniec blokady: $5 \n\nZablokowanŏ adresa IP to $6.\nProszymy ô wkludzynie wszyjskich tych informacyji we wszyjskich swojich pytaniach.\n\nJeźli myślisz, iże blokada to przipadek, możesz znojś wiyncyj informacyji na strōnie globalnych prawideł [[m:Special:MyLanguage/No open proxies|Bez ôtwartych proxy serwerōw]].\nW inkszym przipadku, żeby przedyskutować blokadã, [[m:Steward requests/Global|wkludź prośbã na Meta-wiki]]."
 }
