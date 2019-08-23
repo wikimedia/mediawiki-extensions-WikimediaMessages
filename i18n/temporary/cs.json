@@ -13,5 +13,6 @@
 	"group-oversight-member": "{{GENDER:$1|dozorce|dozorkyně}}",
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
-	"thank-you": "{{GENDER:$1|Děkujeme vám.}}"
+	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
+	"specialblockfeedback": "Názor"
 }
