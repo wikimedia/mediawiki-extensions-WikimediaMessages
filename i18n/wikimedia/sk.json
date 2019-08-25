@@ -14,7 +14,8 @@
 			"Mikulas1",
 			"Lexected",
 			"Vlad5250",
-			"Patriccck"
+			"Patriccck",
+			"Luky001"
 		]
 	},
 	"wikimediamessages-desc": "Správy špecifické pre Wikimedia",
@@ -118,6 +119,7 @@
 	"wikibase-sitelinks-wikiquote": "Stránky Wikicitátov prepojené s touto položkou",
 	"wikibase-sitelinks-wikisource": "Stránky Wikizdrojov prepojené s touto položkou",
 	"wikibase-sitelinks-wikivoyage": "Stránky Wikiciest prepojené s touto položkou",
+	"wikibase-otherprojects-wikidata": "Wikiúdaje",
 	"wikibase-otherprojects-wikipedia": "Wikipédia",
 	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
 	"wikimedia-developers": "Vývojári",
