@@ -13,7 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "to adapt the work",
 	"wm-license-cc-conditions": "Under the following conditions:",
 	"wm-license-cc-conditions-attribution-header": "ngeern kwel-le",
-	"wm-license-cc-conditions-attribution-text": "You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).",
+	"wm-license-cc-conditions-attribution-text": "\t\nYou must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.",
 	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one."
+	"wm-license-cc-conditions-share_alike-text": "If you remix, transform, or build upon the material, you must distribute your contributions under the [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] as the original."
 }
