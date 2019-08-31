@@ -113,6 +113,7 @@
 	"group-sysadmin": "Správcovia systému",
 	"group-sysadmin-member": "správca systému",
 	"tag-emoji": "emotikony",
+	"search-interwiki-custom": "wikt:Z Wikislovníka\nb:Z Wikikníh\nn:Z Wikispráv\nq:Z Wikicitátov\ns:Z Wikizdrojov\nv:Z Wikiverzity\nvoy:Z Wikiciest",
 	"wikimedia-copyright": "Text je dostupný za podmienok <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; prípadne za ďalších podmienok. Podrobnejšie informácie nájdete na stránke <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Podmienky použitia</a>.",
 	"wikimedia-copyrightwarning": "Uložením stránky neodvolateľne súhlasíte s uvoľnením svojho príspevku za podmienok [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] a [https://www.gnu.org/copyleft/fdl.html GFDL]. Súhlasíte, že používatelia tohto obsahu vás musia uviesť ako autora a to minimálne hyperodkazom alebo URL na článok do ktorého prispievate. Podrobnejšie informácie nájdete na stránke [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Podmienky použitia].",
 	"wikibase-sitelinks-wikinews": "Wikinoviny",
