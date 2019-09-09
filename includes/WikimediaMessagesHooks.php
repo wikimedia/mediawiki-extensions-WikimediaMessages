@@ -1524,7 +1524,10 @@ class WikimediaMessagesHooks {
 		$output = $special->getOutput();
 
 		$output->enableOOUI();
-		$output->addModuleStyles( [ 'mediawiki.special.block.feedback.request' ] );
+		$output->addModuleStyles( [
+			'mediawiki.special.block.feedback.request',
+			'oojs-ui.styles.icons-interactions'
+		] );
 
 		$icon = new OOUI\IconWidget( [
 			'icon' => 'feedback',
