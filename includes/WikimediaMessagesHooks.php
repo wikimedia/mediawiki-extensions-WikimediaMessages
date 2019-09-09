@@ -1159,6 +1159,7 @@ class WikimediaMessagesHooks {
 				'Википедија'  => 'Википедије',
 				'Википодаци'  => 'Википодатака',
 				'Викимедијина остава' => 'Викимедијине оставе',
+				'Викиверзитет' => 'Викиверзитета',
 			],
 			// dative
 			'датив' => [
@@ -1170,6 +1171,7 @@ class WikimediaMessagesHooks {
 				'Википодаци'  => 'Википодацима',
 				'Викиновости'   => 'Викиновистима',
 				'Викимедијина остава' => 'Викимедијиној остави',
+				'Викиверзитет' => 'Викиверзитету',
 			],
 			// accusative
 			'акузатив' => [
@@ -1185,6 +1187,7 @@ class WikimediaMessagesHooks {
 				'Викизворник' => 'Викизворниче',
 				'Википедија'  => 'Википедијо',
 				'Викимедијина остава' => 'Викимедијина оставо',
+				'Викиверзитет' => 'Викиверзитету',
 			],
 			// instrumental
 			'инструментал' => [
@@ -1196,6 +1199,7 @@ class WikimediaMessagesHooks {
 				'Википодаци'  => 'Википодацима',
 				'Викиновости'   => 'Викиновостима',
 				'Викимедијина остава' => 'Викимедијином оставом',
+				'Викиверзитет' => 'Викиверзитетом',
 			],
 			// locative
 			'локатив' => [
@@ -1207,6 +1211,7 @@ class WikimediaMessagesHooks {
 				'Википодаци'  => 'Википодацима',
 				'Викиновости'   => 'Викиновостима',
 				'Викимедијина остава' => 'Викимедијиној остави',
+				'Викиверзитет' => 'Викиверзитету',
 			],
 		]; // sr-ec
 
@@ -1220,6 +1225,7 @@ class WikimediaMessagesHooks {
 				'Vikipedija'  => 'Vikipedije',
 				'Vikipodaci'  => 'Vikipodataka',
 				'Vikimedijina ostava' => 'Vikimedijine ostave',
+				'Vikiverzitet' => 'Vikiverziteta',
 			],
 			// dative
 			'dativ' => [
@@ -1231,6 +1237,7 @@ class WikimediaMessagesHooks {
 				'Vikipodaci'  => 'Vikipodacima',
 				'Vikinovosti'   => 'Vikinovostima',
 				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
+				'Vikiverzitet' => 'Vikiverzitetu',
 			],
 			// accusative
 			'akuzativ' => [
@@ -1246,6 +1253,7 @@ class WikimediaMessagesHooks {
 				'Vikizvornik' => 'Vikizvorniče',
 				'Vikipedija'  => 'Vikipedijo',
 				'Vikimedijina ostava' => 'Vikimedijina ostavo',
+				'Vikiverzitet' => 'Vikiverzitetu',
 			],
 			// instrumental
 			'instrumental' => [
@@ -1257,6 +1265,7 @@ class WikimediaMessagesHooks {
 				'Vikipodaci'  => 'Vikipodacima',
 				'Vikinovosti'   => 'Vikinovostima',
 				'Vikimedijina ostava' => 'Vikimedijinom ostavom',
+				'Vikiverzitet' => 'Vikiverzitetom',
 			],
 			// locative
 			'lokativ' => [
@@ -1268,6 +1277,7 @@ class WikimediaMessagesHooks {
 				'Vikipodaci'  => 'Vikipodacima',
 				'Vikinovosti'   => 'Vikinovostima',
 				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
+				'Vikiverzitet' => 'Vikiverzitetu',
 			],
 		]; // sr-el
 
