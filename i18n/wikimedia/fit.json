@@ -4,6 +4,12 @@
 			"Pyscowicz"
 		]
 	},
+	"wikibase-repo-name": "Wikitaatta",
+	"wikibase-sitelinks-wikibooks": "Wikipipluteekki",
+	"wikibase-otherprojects-testwikidata": "Wikitaatta",
+	"wikibase-otherprojects-wikibooks": "Wikipipluteekki",
+	"wikibase-otherprojects-wikidata": "Wikitaatta",
 	"wikibase-otherprojects-wikipedia": "Wikipeetia",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Wikitaatta",
 	"interlanguage-link-wikipedia": "Wikipeetia"
 }

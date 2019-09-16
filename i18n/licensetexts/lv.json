@@ -34,6 +34,7 @@
 	"wm-license-creator-work-period": "Darba periods",
 	"wm-license-creator-work-location": "Darba vieta",
 	"wm-license-free-software-wiki-link": "w:lv:Brīvā programmatūra",
+	"wm-license-gfdl-1.2-and-later": "Ir dota atļauja kopēt, izplatīt un/vai pārveidot šo dokumentu saskaņā ar '''[[{{int:wm-license-gfdl-wiki-link}}|GNU brīvās dokumentācijas licences]]''', versijas 1.2 vai jebkuras vēlākas versijas, ko publiskojis [[{{int:wm-license-fsf-wiki-link}}|Brīvās programmatūras fonds]] nosacījumiem; bez nemainīgajām sadaļā, priekšējā un aizmugurēja'vāka tekstiem. Licences kopija ir iekļauta sadaļā ar nosaukumu ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU brīvās dokumentācijas licence]]''.",
 	"wm-license-gfdl-wiki-link": "w:lv:GNU Free Documentation License",
 	"wm-license-gpl-wiki-link": "w:lv:GNU Vispārējā publiskā licence",
 	"wm-license-information-description": "Apraksts",

@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bellatrix10"
+		]
+	},
+	"wm-license-information-description": "Opis",
+	"wm-license-information-source": "Izvor",
+	"wm-license-information-date": "Datum",
+	"wm-license-information-author": "Autor",
+	"wm-license-information-permission": "Dozvola",
+	"wm-license-information-permission-reusing-text": "Ponovna upotreba ove datoteke",
+	"wm-license-own-work": "Vlastito djelo",
+	"wm-license-self-multiple-licenses-select": "Možete odabrati licencu prema Vašem izboru."
+}

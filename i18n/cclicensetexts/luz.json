@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"علی ساکی لرستانی"
+			"علی ساکی لرستانی",
+			"Shahriar.dehghani24"
 		]
 	},
 	"wm-license-cc-attribution": "تخصیص",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "سی ئینطیباق أثأر",
 	"wm-license-cc-conditions": "دوٙمین شأرطل دوٙمین:",
 	"wm-license-cc-conditions-attribution-header": "هوٙمیاری",
-	"wm-license-cc-conditions-attribution-text": "ئیشا ڤاسی أثأرنە ڤە نأحڤی مۉشأخأص شدھ تأڤأسۉط مۉلف یا مۉجأڤیزدهأندھ نیسبأت دهید(ڤألی نە ڤە نأحڤی کە ڤانیموٙد ڤابی کە هۉنۉ ئیشانە یا ئیستیفادھ د ئیشانە حیمایأت ئیکنن).",
+	"wm-license-cc-conditions-attribution-text": "ایشا باس اعتبار مربوطه نَه و دست بیاریید ، پیوندی بِی مجوز و دست بیاریتو و نشون بدیت که آیا تغییرئل انجام وابییدنه یا نه. ایشا ممکنه ای کاره و هر روش منطقی انجام بدیت، اما نه به هر شیوه‌ای که پیشنهاد ایکنه که مجوزدهنده و ایشا یا استفادتو حمایت کنه.",
 	"wm-license-cc-conditions-share_alike-header": "سأهم مۉساڤی",
-	"wm-license-cc-conditions-share_alike-text": "أر ئیشا تأغییر،تأبدیل،یا راس کیردأن بأر پایە ئی کار ئیکۉنیت، ئیشا ئیتأرید أثر ڤە دأس ئامأدنە تأنها دوٙمین مۉجأڤیز ییکسان یا مۉشابە ڤا ئی توٙزیع کۉنیت."
+	"wm-license-cc-conditions-share_alike-text": "أر ایشا ای اثره تلفیق یا تبدیل ایکنیت، یا بر پایه‌ وو یه اثر د خلق ایکنیت،  می‌‌بایست مشارکتئل خوتونه تحت مجوز [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses  یکسان یا مشابه]  با  اصل وو توزیع کنیت."
 }
