@@ -5,7 +5,8 @@
 			"Ата",
 			"Base",
 			"Vlad5250",
-			"Gzhegozh"
+			"Gzhegozh",
+			"Movses"
 		]
 	},
 	"project-localized-name-aawiki": "Афарська Вікіпедія",
@@ -331,6 +332,7 @@
 	"project-localized-name-hiwiki": "Вікіпедія мовою гінді",
 	"project-localized-name-hiwikibooks": "Вікіпідручник мовою гінді",
 	"project-localized-name-hiwikiquote": "Вікіцитати мовою гінді",
+	"project-localized-name-hiwikisource": "Вікіджерела мовою гінді",
 	"project-localized-name-hiwikiversity": "Віківерситет мовою гінді",
 	"project-localized-name-hiwikivoyage": "Вікімандри мовою гінді",
 	"project-localized-name-hiwiktionary": "Вікісловник мовою гінді",
@@ -594,6 +596,7 @@
 	"project-localized-name-nowikiquote": "Норвезькі Вікіцитати (букмол)",
 	"project-localized-name-nowikisource": "Норвезькі Вікіджерела",
 	"project-localized-name-nowiktionary": "Норвезький Вікісловник (букмол)",
+	"project-localized-name-nqowiki": "Вікіпедія мовою нко",
 	"project-localized-name-nrmwiki": "Нормандська Вікіпедія",
 	"project-localized-name-nsowiki": "Вікіпедія північною сото",
 	"project-localized-name-nvwiki": "Вікіпедія мовою навахо",
