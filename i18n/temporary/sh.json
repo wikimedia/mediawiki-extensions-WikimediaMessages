@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"OC Ripper",
-			"Kolega2357"
+			"Kolega2357",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Privremene poruke specifične za Wikimediju",
 	"grouppage-oversight": "{{ns:project}}:Revizori",
 	"group-oversight": "Revizori",
-	"group-oversight-member": "revizor"
+	"group-oversight-member": "revizor",
+	"hello": "Pozdrav",
+	"specialblockfeedback": "Povratna informacija"
 }
