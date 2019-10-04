@@ -8,6 +8,6 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Ревизори",
-	"group-oversight-member": "ревизор",
+	"group-oversight-member": "{{GENDER:$1|ревизор}}",
 	"thank-you": "{{GENDER:$1|Благодаря.}}"
 }
