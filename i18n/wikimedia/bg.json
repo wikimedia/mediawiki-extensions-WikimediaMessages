@@ -89,7 +89,7 @@
 	"group-mover-member": "{{GENDER:$1|премествач}}",
 	"grouppage-mover": "{{ns:project}}:Премествачи",
 	"group-flood": "Редактори-ботове",
-	"group-flood-member": "{{GENDER:$1|бот оператор|бот операторка}}",
+	"group-flood-member": "{{GENDER:$1|потребител-бот}}",
 	"grouppage-flood": "{{ns:project}}:Редактори-ботове",
 	"group-founder": "Основатели",
 	"group-founder-member": "{{GENDER:$1|основател|основателка}}",

@@ -4,6 +4,10 @@
 			"Pyscowicz"
 		]
 	},
+	"group-wikidata-staff": "Wikitaattapärsunaali",
+	"group-wikidata-staff-member": "{{GENDER:$1|Wikitaattapärsunaali}}",
+	"group-staff": "Pärsunaali",
+	"group-staff-member": "{{GENDER:$1|pärsunaali}}",
 	"wikibase-repo-name": "Wikitaatta",
 	"wikibase-sitelinks-wikibooks": "Wikipipluteekki",
 	"wikibase-otherprojects-testwikidata": "Wikitaatta",
