@@ -326,5 +326,7 @@
 	"technical-maintenance-soon": "Tekniskt underhåll kommer att genomföras snart:",
 	"technical-maintenance-edit": "Under tiden kommer du nog inte kunna spara några redigeringar.",
 	"group-oathauth-tester": "Testare av två-faktorautentisering",
-	"group-oathauth-tester-member": "{{GENDER:$1|testare av tvåfaktorsautentisering}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|testare av tvåfaktorsautentisering}}",
+	"querypage-updates-half-monthly": "Uppdateringar för denna sida körs två gånger i månaden.",
+	"querypage-updates-monthly": "Uppdateringar för denna sida körs en gång i månaden."
 }

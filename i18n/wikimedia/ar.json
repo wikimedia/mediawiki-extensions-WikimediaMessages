@@ -340,5 +340,7 @@
 	"technical-maintenance-soon": "سيتم إجراء صيانة تقنية قريباً",
 	"technical-maintenance-edit": "في هذه الأثناء من الممكن ألا تكون قادراً على حفظ أي من التعديلات",
 	"group-oathauth-tester": "مختبرو التوثيق ذي العاملين",
-	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين"
+	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين",
+	"querypage-updates-half-monthly": "يتم تشغيل تحديثات هذه الصفحة مرتين في الشهر.",
+	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر."
 }

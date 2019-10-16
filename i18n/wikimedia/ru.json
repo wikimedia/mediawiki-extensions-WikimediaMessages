@@ -50,7 +50,8 @@
 			"Marshmallych",
 			"Bloomaround",
 			"Matma Rex",
-			"Movses"
+			"Movses",
+			"Katunchik"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -353,5 +354,7 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Чтобы узнать больше, см. [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement политику конфиденциальности] данного опроса.",
 	"passwordpolicies-policy-blockattacker": "Правило о паролях для смягчения известных нападений, где раскрытие данных помешало бы такому смягчению",
 	"group-oathauth-tester": "Тестирующие двухфакторную авторизацию",
-	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию"
+	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
+	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
+	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц."
 }

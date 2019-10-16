@@ -327,5 +327,7 @@
 	"technical-maintenance-soon": "Wkrótce zamierzamy przeprowadzić konserwacje techniczne:",
 	"technical-maintenance-edit": "Edytowanie i publikowanie edycji może być w tym czasie niedostępne.",
 	"group-oathauth-tester": "Testerzy weryfikacji dwuetapowej",
-	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} weryfikacji dwuetapowej"
+	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} weryfikacji dwuetapowej",
+	"querypage-updates-half-monthly": "Aktualizacje tej strony są uruchamiane dwa razy w miesiącu.",
+	"querypage-updates-monthly": "Aktualizacje tej strony są uruchamiane raz w miesiącu."
 }

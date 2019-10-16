@@ -45,7 +45,7 @@
 	"nstab-institution": "機構",
 	"nstab-sequence": "序列",
 	"nstab-timedtext": "字幕",
-	"gettingstarted-task-toolbar-try-another-text-wikipedia": "嘗試其他文章 ►",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "嘗試另一個條目 ►",
 	"gettingstarted-task-toolbar-no-suggested-page-wikipedia": "抱歉。我們目前找不到更多有待改善的條目。請稍後再試，或者搜尋您感興趣的主題。",
 	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "此條目可能你可以修復的拼寫或文法錯誤。",
 	"gettingstarted-task-copyedit-toolbar-try-another-title-wikipedia": "隨機前往一個你可以你可以校對的條目",
@@ -347,5 +347,7 @@
 	"technical-maintenance-soon": "技術維護將很快開始：",
 	"technical-maintenance-edit": "在此期間，您可能無法儲存任何編輯。",
 	"group-oathauth-tester": "雙重認證測試員",
-	"group-oathauth-tester-member": "{{GENDER:$1|雙重認證測試員}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|雙重認證測試員}}",
+	"querypage-updates-half-monthly": "此頁面的更新為一個月運行兩次。",
+	"querypage-updates-monthly": "此頁面的更新為一個月運行一次。"
 }

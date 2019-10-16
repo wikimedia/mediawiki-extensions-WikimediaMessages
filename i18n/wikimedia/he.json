@@ -315,5 +315,7 @@
 	"technical-maintenance-soon": "בקרוב תבוצע תחזוקה טכנית:",
 	"technical-maintenance-edit": "בזמן הזה לא תוכלו לשמור עריכות.",
 	"group-oathauth-tester": "בודקי אימות דו־שלבי",
-	"group-oathauth-tester-member": "{{GENDER:$1|בודק אימות דו־שלבי}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|בודק אימות דו־שלבי}}",
+	"querypage-updates-half-monthly": "עדכונים לדף הזה מורצים פעמיים בחודש.",
+	"querypage-updates-monthly": "עדכונים לדף הזה מורצים פעם בחודש."
 }

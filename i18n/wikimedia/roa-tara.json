@@ -301,5 +301,7 @@
 	"technical-maintenance-soon": "Manutenzione tecniche adda essere fate subbite:",
 	"technical-maintenance-edit": "Durande stu tiembe non ge puè reggistrà nisciune cangiamende.",
 	"group-oathauth-tester": "Tester de l'autendicazione a Doje Fattore",
-	"group-oathauth-tester-member": "{{GENDER:$1|tester de l'autendicazione a doje fattore}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|tester de l'autendicazione a doje fattore}}",
+	"querypage-updates-half-monthly": "Le aggiornaminde de sta pàgene avènen fatte doje vote a 'u mese.",
+	"querypage-updates-monthly": "Le aggiornaminde de sta pàgene avènen fatte 'na vote a 'u mese."
 }

@@ -323,5 +323,7 @@
 	"technical-maintenance-soon": "Наскоро ќе извршиме техничко одржување:",
 	"technical-maintenance-edit": "Во текот на одржувањето веројатно нема да можете да ги зачувувате уредувањата.",
 	"group-oathauth-tester": "Испробувачи на двочинителски заверки",
-	"group-oathauth-tester-member": "{{GENDER:$1|испробувач на двочинителски заверки}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|испробувач на двочинителски заверки}}",
+	"querypage-updates-half-monthly": "Страницава се подновува двапати месечно.",
+	"querypage-updates-monthly": "Страницава се подновува еднаш месечно."
 }
