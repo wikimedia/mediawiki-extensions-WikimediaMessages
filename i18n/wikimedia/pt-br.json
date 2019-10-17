@@ -354,5 +354,7 @@
 	"technical-maintenance-soon": "A manutenção técnica será realizada em breve:",
 	"technical-maintenance-edit": "Durante esse período, talvez você não consiga salvar nenhuma edição.",
 	"group-oathauth-tester": "Testadores de autenticação de dois fatores",
-	"group-oathauth-tester-member": "{{GENDER:$1|testador de autenticação de dois fatores|testadora de autenticação de dois fatores}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|testador de autenticação de dois fatores|testadora de autenticação de dois fatores}}",
+	"querypage-updates-half-monthly": "As atualizações para esta página estão sendo executadas duas vezes por mês.",
+	"querypage-updates-monthly": "As atualizações para esta página são executadas uma vez por mês."
 }
