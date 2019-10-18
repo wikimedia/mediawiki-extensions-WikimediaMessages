@@ -15,7 +15,8 @@
 			"Dvorapa",
 			"Ilimanaq29",
 			"Martin Urbanec",
-			"Patriccck"
+			"Patriccck",
+			"MrJaroslavik"
 		]
 	},
 	"wikimediamessages-desc": "Hlášení specifická pro projekty nadace Wikimedia",
@@ -125,7 +126,7 @@
 	"group-researcher-member": "{{GENDER:$1|výzkumník|výzkumnice|výzkumník}}",
 	"grouppage-researcher": "{{ns:project}}:Výzkumníci",
 	"group-rollbacker": "Revertéři",
-	"group-rollbacker-member": "{{GENDER:$1|revertovatel|revertovatelka|revertovatel}}",
+	"group-rollbacker-member": "{{GENDER:$1|revertér|revertérka|revertér}}",
 	"grouppage-rollbacker": "{{ns:project}}:Revertéři",
 	"group-transwiki": "Transwiki importéři",
 	"group-transwiki-member": "transwiki {{GENDER:$1|importér|importérka|importér}}",
