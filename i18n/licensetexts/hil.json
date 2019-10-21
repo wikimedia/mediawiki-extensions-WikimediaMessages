@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Redhotchili23"
+			"Redhotchili23",
+			"Pare Mo"
 		]
 	},
+	"wm-license-information-description": "Deskripsiyon",
 	"wm-license-information-source": "Ginhalinan",
 	"wm-license-information-date": "Petsa",
-	"wm-license-information-author": "Tagsulat"
+	"wm-license-information-author": "Tagsulat",
+	"wm-license-information-permission": "Permiso",
+	"wm-license-self-multiple-licenses-select": "Puwede mo pilion ang luyag mong lisensiya."
 }

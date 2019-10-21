@@ -371,6 +371,6 @@
 	"technical-maintenance-edit": "Durant ce temps vous ne pourrez pas sauvegarder les modifications.",
 	"group-oathauth-tester": "Testeurs d’authentification à deux facteurs",
 	"group-oathauth-tester-member": "{{GENDER:$1|testeur d’authentification à deux facteurs|testeuse d’authentification à deux facteurs}}",
-	"querypage-updates-half-monthly": "Les mises à jour pour cette page tournent deux fois par mois.",
-	"querypage-updates-monthly": "Les mises à jour pour cette page tournent une fois par mois."
+	"querypage-updates-half-monthly": "Les mises à jour pour cette page sont faites deux fois par mois.",
+	"querypage-updates-monthly": "Les mises à jour pour cette page sont faites une fois par mois."
 }

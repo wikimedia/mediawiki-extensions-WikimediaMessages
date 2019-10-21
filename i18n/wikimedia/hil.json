@@ -5,7 +5,8 @@
 			"Kguirnela",
 			"Tagimata",
 			"Nemo bis",
-			"Redhotchili23"
+			"Redhotchili23",
+			"Pare Mo"
 		]
 	},
 	"wikimediamessages-desc": "ang ginatukoy nga mensahe sang Wikimedia",
@@ -60,5 +61,11 @@
 	"group-sysadmin": "Mga Sistema administrador",
 	"group-sysadmin-member": "sistema administrador",
 	"wikimedia-copyright": "Ang teksto ay pwede mo makit-an sa idalum sang <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nnanga-dugang nga kasulatan pwede man pagabatunon. Palihog lang bisita sa<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Terms of Use</a> para sa madamu nga detalye.",
-	"wikimedia-copyrightwarning": "Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] kag ang [https://www.gnu.org/copyleft/fdl.html GFDL].\nNagapasugot ka nga kilalanon sa mga nagagamit liwat, sa pinaka kubos, nga nagapamaagi sa hyperlink o URL sa pahina nga gina kontribyut mo.\nPalihog lang bisita sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] para sa madamu nga detalye."
+	"wikimedia-copyrightwarning": "Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] kag ang [https://www.gnu.org/copyleft/fdl.html GFDL].\nNagapasugot ka nga kilalanon sa mga nagagamit liwat, sa pinaka kubos, nga nagapamaagi sa hyperlink o URL sa pahina nga gina kontribyut mo.\nPalihog lang bisita sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] para sa madamu nga detalye.",
+	"wikibase-sitelinks-wikinews": "Wikibalita",
+	"wikibase-sitelinks-wikiquote": "Wikisita",
+	"wikibase-sitelinks-wikivoyage": "Wikibiyahe",
+	"wikimedia-developers": "Mga manugdevelop",
+	"wikimedia-globalblocking-ipblocked": "''Ang imong adres IP [[m:Special:MyLanguage/Global blocks|ginblokear sa tanang wiki]].'''\n\nSi $1 ($2) ang nagblokear.\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|Ginblokear sa tanang wiki]] ang isa o pila pang serbidor nga gigamit sg imong pangayo.'''\n\nSi $1 ($2) ang nagblokear.\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }
