@@ -33,7 +33,8 @@
 			"Meisam",
 			"Leyth",
 			"Physicsch",
-			"Matma Rex"
+			"Matma Rex",
+			"Ahmad252"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -70,10 +71,10 @@
 	"group-otrs-member-member": "{{GENDER:$1|عضو گروه داوطلب پاسخ‌گویی}}",
 	"grouppage-otrs-member": "{{ns:project}}:گروه داوطلب پاسخ‌گویی",
 	"group-abusefilter": "ویرایشگران پالایهٔ خرابکاری",
-	"group-abusefilter-member": "ویرایشگر پالایهٔ خرابکاری",
+	"group-abusefilter-member": "{{GENDER:$1|ویرایشگر پالایهٔ خرابکاری}}",
 	"grouppage-abusefilter": "{{ns:project}}:ویرایشگران پالایهٔ خرابکاری",
-	"group-abusefilter-helper": "کمک‌کنندگان پالایه خرابکاری",
-	"group-abusefilter-helper-member": "{{GENDER:$1|کمک‌کننده پالایه خرابکاری}}",
+	"group-abusefilter-helper": "کمک‌کنندگان پالایهٔ خرابکاری",
+	"group-abusefilter-helper-member": "{{GENDER:$1|کمک‌کننده پالایهٔ خرابکاری}}",
 	"group-accountcreator": "سازندگان حساب کاربری",
 	"group-accountcreator-member": "{{GENDER:$1|ایجادکنندهٔ حساب}}",
 	"grouppage-accountcreator": "{{ns:project}}:سازندگان حساب کاربری",
@@ -224,7 +225,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|پشتیبانی و امنیت بنیاد مدیاویکی}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:پشتیبانی و امنیت بنیاد مدیاویکی",
 	"tag-emoji": "شکلک",
-	"tag-emoji-description": "استفاده شده توسط پالایه خرابکاری سراسری ۱۱۰",
+	"tag-emoji-description": "استفاده شده توسط پالایهٔ خرابکاری سراسری ۱۱۰",
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser ویرایشگر خودکار]",
 	"tag-AWB-description": "ویرایش‌های [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser ویرایشگر خودکار]",
 	"search-interwiki-custom": "wikt: از ویکی‌واژه\nb: از ویکی‌کتاب\nn: از ویکی‌خبر\nq: از ویکی‌گفتاورد\ns: از ویکی‌نبشته\nv: از ویکی‌دانشگاه\nvoy: از ویکی‌سفر",

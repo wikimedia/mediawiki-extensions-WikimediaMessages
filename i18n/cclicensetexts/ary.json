@@ -4,7 +4,12 @@
 			"SADIQUI"
 		]
 	},
+	"wm-license-cc-attribution": "النسبة",
 	"wm-license-cc-free": "عندك كامل الحرية:",
+	"wm-license-cc-free-to-share-header": "في المشاركة",
+	"wm-license-cc-free-to-share-text": "في نسخ وتوزيع وبث العمل",
+	"wm-license-cc-free-to-remix-header": "في التعديل",
+	"wm-license-cc-free-to-remix-text": "في تكييف العمل",
 	"wm-license-cc-conditions": "تحت هاد الشروط:",
 	"wm-license-cc-conditions-attribution-header": "النسبة",
 	"wm-license-cc-conditions-share_alike-header": "الترخيص بالمثل"

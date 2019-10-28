@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Poiuyt"
+			"Poiuyt",
+			"飞舞回堂前"
 		]
 	},
 	"wm-license-cc-attribution": "署名",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "改编本作品",
 	"wm-license-cc-conditions": "来箇些条件下底：",
 	"wm-license-cc-conditions-attribution-header": "署名",
-	"wm-license-cc-conditions-attribution-text": "你必须按照作者或者许可人指定个方式对作品署名。",
+	"wm-license-cc-conditions-attribution-text": "你板定要畀出适当个署名，提供许可协议个链接，同时标明阿曾改动过。你好用任何合理个方式来做，但必过弗好用任何方式暗示许可人为你或你个使用背书。",
 	"wm-license-cc-conditions-share_alike-header": "相同方式共享",
-	"wm-license-cc-conditions-share_alike-text": "如果你改变、转换本作品或者基于本作品创作，你只能采用搭本协议相同相近个许可协议发布基于本作品个演绎作品。"
+	"wm-license-cc-conditions-share_alike-text": "如果你混合、转换或基于此素材创作，你板定要用搭原来[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses 相同或兼容个许可协议]分发你个贡献作品。"
 }
