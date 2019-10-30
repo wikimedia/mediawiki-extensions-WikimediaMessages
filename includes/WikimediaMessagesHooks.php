@@ -209,7 +209,10 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Add a "Developers"  (T35464) and "Cookie statement" (T124366) link to the footer of every page
+	 * Add links to the footer of every page:
+	 *   - "Developers"  (T35464),
+	 *   - "Statistics" (T235803), and
+	 *   - "Cookie statement" (T124366)
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinTemplateOutputPageBeforeExec
 	 * @param SkinTemplate &$skin
@@ -217,7 +220,8 @@ class WikimediaMessagesHooks {
 	 */
 	public static function onSkinTemplateOutputPageBeforeExec( &$skin, &$template ) {
 		$devDestination = Skin::makeInternalOrExternalUrl(
-			$skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text() );
+			$skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text()
+		);
 		$devLink = Html::element(
 			'a',
 			[ 'href' => $devDestination ],
@@ -225,8 +229,23 @@ class WikimediaMessagesHooks {
 		);
 		$template->set( 'developers', $devLink );
 		$template->data['footerlinks']['places'][] = 'developers';
+
+		$statsDestination = Skin::makeInternalOrExternalUrl(
+			$skin->msg(
+				'wikimedia-statslink-url', $skin->getConfig()->get( 'ServerName' )
+			)->inContentLanguage()->text()
+		);
+		$statsLink = Html::element(
+			'a',
+			[ 'href' => $statsDestination ],
+			$skin->msg( 'wikimedia-statslink' )->text()
+		);
+		$template->set( 'statslink', $statsLink );
+		$template->data['footerlinks']['places'][] = 'statslink';
+
 		$cookieDestination = Skin::makeInternalOrExternalUrl(
-			$skin->msg( 'wikimedia-cookiestatement-page' )->inContentLanguage()->text() );
+			$skin->msg( 'wikimedia-cookiestatement-page' )->inContentLanguage()->text()
+		);
 		$cookieLink = Html::element(
 			'a',
 			[ 'href' => $cookieDestination ],
