@@ -4,12 +4,16 @@
 			"Joseph",
 			"Karduelis",
 			"HakanIST",
-			"Vito Genovese"
+			"Vito Genovese",
+			"BaRaN6161 TURK"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü geçici iletiler",
 	"grouppage-oversight": "{{ns:project}}:Gözetmen",
 	"group-oversight": "Gözetmenler",
-	"group-oversight-member": "gözetmen",
-	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin."
+	"group-oversight-member": "{{GENDER:$1|gözetmen}}",
+	"hello": "Merhaba",
+	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
+	"thank-you": "{{GENDER:$1|Teşekkür ederiz.}}",
+	"specialblockfeedback": "Geri bildirim"
 }
