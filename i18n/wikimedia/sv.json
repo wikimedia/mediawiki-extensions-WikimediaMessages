@@ -318,6 +318,7 @@
 	"action-viewdeletedfile": "visa filer och sidor i namnrymderna {{ns:file}} och {{ns:file_talk}} som är raderade",
 	"right-viewdeletedfile": "Visa filer och sidor i namnrymderna {{ns:file}} och {{ns:file_talk}} som är raderade",
 	"securepoll-dblist-securepollglobal": "Styrelseval",
+	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Information om kakor",
 	"ext-quicksurveys-performance-internal-survey-question": "Lästes denna sida in tillräckligt snabbt?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "För mer information, se [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement integritetsuttalande] för denna enkät.",

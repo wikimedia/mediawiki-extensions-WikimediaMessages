@@ -188,6 +188,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Geliştirilmiş izleme listesi filtrelemesine hoş geldiniz",
 	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak engellendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız.",
 	"right-viewdeletedfile": "{{ns:file}} ve {{ns:file_talk}} ad alanlarındaki silinen sayfaları ve dosyaları görüntüle",
+	"wikimedia-statslink": "İstatistikler",
 	"wikimedia-cookiestatement": "Çerez bildirgesi",
 	"group-oathauth-tester": "oathauth-deneyici"
 }
