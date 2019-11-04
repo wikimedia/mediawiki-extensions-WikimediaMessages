@@ -315,6 +315,7 @@
 	"action-viewdeletedfile": "преглед на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
 	"right-viewdeletedfile": "Прегледување на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Избори за членови на одборот",
+	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Согласност за колачиња",
 	"ext-quicksurveys-performance-internal-survey-question": "Дали страницава се вчита доволно брзо?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "За повеќе информации, погледајте ја [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement заштитата на личните податоци] во анкетава.",

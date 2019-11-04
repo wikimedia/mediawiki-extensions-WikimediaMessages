@@ -182,5 +182,6 @@
 	"eri-rcfilters-tour-confirm-title": "Dabar nauji filtrai yra įgalinti",
 	"eri-rcfilters-tour-confirm-description": "Galite pasiekti <strong>beta funkcijų puslapį</ strong>, jei norite pateikti atsiliepimų arba išjungti funkciją.",
 	"wikimedia-centralauth-contribs-locked": "Ši paskyra visuotinai užrakinta.\nDaugiau informacijos - [[m:Special:CentralAuth/$1|visuotinės paskyros detalės]].",
+	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Slapukų politika"
 }

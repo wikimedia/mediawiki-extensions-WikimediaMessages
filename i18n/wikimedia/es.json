@@ -347,6 +347,7 @@
 	"action-viewdeletedfile": "ver archivos y páginas borradas en los espacios de nombre {{ns:file}} y {{ns:file_talk}}",
 	"right-viewdeletedfile": "Ver archivos y páginas borrados en los espacios de nombres {{ns:file}} y {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Elección de la Junta",
+	"wikimedia-statslink": "Estadísticas",
 	"wikimedia-cookiestatement": "Declaración de cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "¿Esta página se cargó con suficiente rapidez?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para obtener más información, consulta la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaración de privacidad] de esta encuesta.",

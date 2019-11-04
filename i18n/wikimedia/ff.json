@@ -1,4 +1,11 @@
 {
-	"@metadata": [],
-	"sitesupport": "Dokkal"
+	"@metadata": {
+		"authors": [
+			"Ibrahima"
+		]
+	},
+	"sitesupport": "Dokkal",
+	"tooltip-n-sitesupport": "Wallit min",
+	"wikimedia-copyright": "Bindii ɗii ngoni ko e jamirol <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; ena waawi sarɗiiji goɗɗi ɗooftee",
+	"wikimedia-developers": "Topotooɓe"
 }
