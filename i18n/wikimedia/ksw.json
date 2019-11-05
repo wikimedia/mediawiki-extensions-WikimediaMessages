@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rul1902"
+			"Rul1902",
+			"SawJaemin"
 		]
 	},
 	"wikibase-repo-name": "ဝံၣ်ကံးဒ့ဒၤ",
@@ -9,5 +10,6 @@
 	"wikibase-otherprojects-wikidata": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikibase-otherprojects-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ဝံၣ်ကံးဒ့ဒၤ",
+	"wikimedia-developers": "ပှၤတ့ထီၣ်တၢ်ဖိ",
 	"interlanguage-link-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ"
 }
