@@ -4,7 +4,8 @@
 			"CERminator",
 			"Diebuche",
 			"Multichill",
-			"Palapa"
+			"Palapa",
+			"Obsuser"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:bs:Creative Commons",
@@ -178,7 +179,7 @@
 	"wm-license-cc-free-to-share-text": "da kopirate, distributirate i prenosite djelo",
 	"wm-license-cc-free-to-remix-header": "da remiksate",
 	"wm-license-cc-free-to-remix-text": "da prilagodite djelo",
-	"wm-license-cc-conditions": "Pod slijedećim uslovima:",
+	"wm-license-cc-conditions": "Pod sljedećim uslovima:",
 	"wm-license-cc-conditions-attribution-header": "pripisivanje",
 	"wm-license-cc-conditions-attribution-text": "Morate nasloviti rad na način kako je to odredio autor ili osoba koja posjeduje licencu (ali ne na način koji sugeriše da su oni vama potvrdili ili odobrili korištenje rada).",
 	"wm-license-cc-conditions-share_alike-header": "dijeli pod istim uslovima",

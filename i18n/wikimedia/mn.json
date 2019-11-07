@@ -13,7 +13,7 @@
 	"group-rollbacker-member": "буцаагч",
 	"grouppage-rollbacker": "{{ns:project}}:Буцаагчид",
 	"group-global-rollbacker": "Глобал буцаагчид",
-	"group-global-rollbacker-member": "!!FUZZY!!глобал буцаагч",
+	"group-global-rollbacker-member": "глобал буцаагч",
 	"group-staff": "Алба хаагчид",
 	"group-staff-member": "{{GENDER:$1|ажиллах гишүүд}}",
 	"group-steward": "Үйлчлэгчид",

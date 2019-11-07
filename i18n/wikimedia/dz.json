@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tenzin"
+			"Tenzin",
+			"Tshering Nidup"
 		]
 	},
 	"sitesupport": "ཕན་འདེབས།",
-	"tooltip-n-sitesupport": "ང་བཅས་ལུ་རྒྱབ་སྐྱོར་འབད།"
+	"tooltip-n-sitesupport": "ང་བཅས་ལུ་རྒྱབ་སྐྱོར་འབད།",
+	"wikimedia-developers": "གཉེན་ཆས་བཟོ་མི།"
 }

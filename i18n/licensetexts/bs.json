@@ -4,7 +4,8 @@
 			"CERminator",
 			"Diebuche",
 			"Multichill",
-			"Palapa"
+			"Palapa",
+			"Obsuser"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Vlasnik autorskog prava ove datoteke, $1, daje mogućnost svima da koriste ovu datoteku ''u sve svrhe, koje je'' vlasnik autorskog prava ispravno naveo. Rasparčavanje, derivatna djela, komercijalna upotreba i sve druge upotrebe su zabranjene.",
@@ -72,9 +73,9 @@
 	"wm-license-pd-usgov-military-air-force-wiki-link": "w:bs:United States Air Force",
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:bs:United States Navy",
 	"wm-license-pd-wiki-link": "w:bs:Javno vlasništvo",
-	"wm-license-self-one-license": "Ja, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećom licencom:",
-	"wm-license-self-one-license-with-author": "$1, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećom licencom:",
-	"wm-license-self-multiple-licenses": "Ja, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećim licencama:",
-	"wm-license-self-multiple-licenses-with-author": "$1, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod slijedećim licencama:",
+	"wm-license-self-one-license": "Ja, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod sljedećom licencom:",
+	"wm-license-self-one-license-with-author": "$1, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod sljedećom licencom:",
+	"wm-license-self-multiple-licenses": "Ja, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod sljedećim licencama:",
+	"wm-license-self-multiple-licenses-with-author": "$1, vlasnik autorskog prava ovog djela, ovdje ga objavljujem pod sljedećim licencama:",
 	"wm-license-self-multiple-licenses-select": "Možete odabrati licencu po vašem izboru."
 }

@@ -242,7 +242,7 @@
 	"group-recursive-export-member": "{{GENDER:$1|exportateur récursif|exportatrice récursive}}",
 	"grouppage-recursive-export": "m:Special:MyLanguage/Recursive export",
 	"group-staff": "Personnel",
-	"group-staff-member": "{{GENDER:$1|équipe}}",
+	"group-staff-member": "{{GENDER:$1|}}membre du personnel",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"grouppage-steward": "m:Stewards/fr",

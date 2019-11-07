@@ -30,7 +30,8 @@
 			"MokaAkashiyaPT",
 			"Athena in Wonderland",
 			"Ruila",
-			"Matma Rex"
+			"Matma Rex",
+			"Mansil alfalb"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -322,6 +323,7 @@
 	"action-viewdeletedfile": "ver ficheiros eliminados e páginas eliminadas nos espaços nominais {{ns:file}} e {{ns:file_talk}}",
 	"right-viewdeletedfile": "Ver ficheiros eliminados e páginas eliminadas nos espaços nominais {{ns:file}} e {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Eleição do Conselho",
+	"wikimedia-statslink": "Estatísticas",
 	"wikimedia-cookiestatement": "Declaração sobre ''cookies''",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou com rapidez suficiente?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade] desta sondagem.",
