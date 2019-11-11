@@ -2,10 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Rul1902",
-			"SawJaemin"
+			"SawJaemin",
+			"Jaeminlovetaejoon"
 		]
 	},
+	"sitesupport": "တၢ်မၤဘူၣ်",
+	"tooltip-n-sitesupport": "ဆီၣ်ထွဲမၤစၢၤပှၤ",
+	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
 	"wikibase-repo-name": "ဝံၣ်ကံးဒ့ဒၤ",
+	"wikibase-sitelinks-wikinews": "ဝံၣ်ကံးတၢ်ကစီၣ်",
+	"wikibase-sitelinks-wikiquote": "ဝံၣ်ကံးတဲဒိးပှၤဂၤအတၢ်ကတိၤ",
+	"wikibase-sitelinks-wikisource": "ဝံၣ်ကံးစိၣ်စု",
+	"wikibase-sitelinks-wikivoyage": "ဝံၣ်ကံးတၢ်လဲၤတၢ်ကျဲလၢထံကျါ",
 	"wikibase-otherprojects-testwikidata": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikibase-otherprojects-wikidata": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikibase-otherprojects-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
