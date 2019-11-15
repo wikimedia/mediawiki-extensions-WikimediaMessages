@@ -343,6 +343,7 @@
 	"action-viewdeletedfile": "перегляд вилучених файлів та сторінок у просторах назв {{ns:file}} і {{ns:file_talk}}",
 	"right-viewdeletedfile": "перегляд вилучених файлів та сторінок у просторах назв {{ns:file}} і {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Вибори Правління",
+	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки",
 	"ext-quicksurveys-performance-internal-survey-question": "Чи достатньо швидко завантажилася ця сторінка?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement політиці приватності] цього опитування.",
