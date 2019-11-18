@@ -5,7 +5,7 @@
 			"Servien"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Toestemming wördt egeven veur t kopiëren, verspreien en/of wiezigen van dit dokument onder de veurweerden van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-lisensie veur vrieje dokumentasie]]''', versie 1.2 of n laotere versie zo as uutegeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonder onveraanderlik e seksies, zonder umslagteksten, en zonder umslagteksten veur achterkaante. n Kopie van de lisensie is op-eneumen in de seksie ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-lisensie veur vrieje dokumentasie]]''.",
+	"wm-license-gfdl-1.2-and-later": "Der wördt tostemming geaven vöär et kopieren, verspreiden en/of wysigen van dit dokument under de vöärwaerden van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licensy vöär vrye dokumentaty]]''', versy 1.2 of een latere versy so as uutgeaven döär de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sunder unveranderlike sektys, sunder ümslagteksten vöär of achter. Een kopy van de licensy is upnöämen in de sekty ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-licensy vöär vrye dokumentaty]]''.",
 	"wm-license-gfdl-wiki-link": "w:nds-nl:GNU-lisensie veur vri'je dokementäsie",
 	"wm-license-information-description": "Beskryving",
 	"wm-license-information-description-missing": "Dit bestaand hef gien '''beschrieving''' en misschien steet der oek nog aandere informasie niet bie.",
@@ -20,12 +20,12 @@
 	"wm-license-information-permission-reusing-text": "Hergebruuk van dit bestand",
 	"wm-license-information-permission-see-below": "Kiek hieronder.",
 	"wm-license-information-other-versions": "Aandere versies",
-	"wm-license-lgpl-text": "Disse biebeltheek is [[{{int:wm-license-free-software-wiki-link}}|vrieje programmatuur]];\nje maggen t heruutgeven en/of anpassen in overeenkomst mit de veurweerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' zo as uutegeven deur de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].\nDe geldende versie is 2.1 van de lisensie, of (naor keuze) n aandere laotere versie.\nDisse biebeltheek wörden verspreid in de hoop dat t bruukbaor is, mer '''zonder enige garansie''';\nzelfs zonder de onuutespreuken garansie dat e t '''goed döt''' of da'j t '''goed veur n bepaold doel kunnen gebruken'''.\nZie [{{int:wm-license-lgpl-2.1-full-link}} versie 2.1] en [{{int:wm-license-lgpl-3-full-link}} versie 3 van de GNU Lesser General Public License] veur meer informasie.",
+	"wm-license-lgpl-text": "Disse bybelteek is [[{{int:wm-license-free-software-wiki-link}}|vrye programmatuur]];\njy möäget et heruutgeaven en/of anpassen under de vöärwaerden van de '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' so as uutgeaven döär de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].\nDe geldende versy is 2.1 van de licensy, of (nå köäse) een andere latere versy.\nDisse bybelteek wördt verspreided in de hoap dat et bruukbår is, mär '''sunder eynige garanty''';\nselvs sunder de implicite garanty van '''verkoupbårheid''' of '''geskiktheid vöär een bepåld dool'''.\nSee [{{int:wm-license-lgpl-2.1-full-link}} versy 2.1] en [{{int:wm-license-lgpl-3-full-link}} versy 3 van de GNU Lesser General Public License] vöär meyr informaty.",
 	"wm-license-original-upload-log": "Oorspronkelik logboek mit nieje bestaanden",
 	"wm-license-own-work": "Eigen wark",
-	"wm-license-self-one-license": "Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:",
-	"wm-license-self-one-license-with-author": "$1, de maker van dit wark, gif disse media vrie onder de volgende lisensie:",
-	"wm-license-self-multiple-licenses": "Ik, de maker van dit wark, geef disse media vrie onder de volgende lisensie:",
+	"wm-license-self-one-license": "Ik, de autöörsrechtholder van dit wark, geave disse media uut under de volgende licensy:",
+	"wm-license-self-one-license-with-author": "$1, de autöörsrechtholder van dit wark, givt disse media uut under de volgende licensy:",
+	"wm-license-self-multiple-licenses": "Ik, de autöörsrechtholder van dit wark, geave disse media uut under de volgende licensy:",
 	"wm-license-self-multiple-licenses-with-author": "$1, de maker van dit wark, gif disse media vrie onder de volgende lisensies:",
 	"wm-license-self-multiple-licenses-select": "Jy möäget selv eyn van de licensys kesen."
 }
