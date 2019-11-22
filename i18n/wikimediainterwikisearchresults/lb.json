@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Les Meloures"
 		]
 	},
 	"search-interwiki-results-afwiki": "Resultater vun der [[:af:|Wikipedia op Afrikaans]].",
@@ -56,7 +57,7 @@
 	"search-interwiki-results-skwiki": "Resultater vun der [[:sk:|Slowakescher Wikipedia]].",
 	"search-interwiki-results-sqwiki": "Resultater vun der [[:sq:|Albanescher Wikipedia]].",
 	"search-interwiki-results-srwiki": "Resultater vun der [[:sr:|serbischer Wikipedia]]",
-	"search-interwiki-results-svwiki": "Resultater vun der [[:sv:|Schwedescher Wikipedia]].",
+	"search-interwiki-results-svwiki": "Resultater vun der [[:sv:|Schweedescher Wikipedia]].",
 	"search-interwiki-results-tcywiki": "Resultater vun der [[:tcy:|Tulu Wikipedia]].",
 	"search-interwiki-results-thwiki": "Resultater vun der [[:th:|Thai Wikipedia]].",
 	"search-interwiki-results-tkwiki": "Resultater vun der [[:tk:|Turkmenescher Wikipedia]].",
