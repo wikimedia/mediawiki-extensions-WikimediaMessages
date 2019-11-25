@@ -1,14 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz"
+			"Pyscowicz",
+			"Palmtree222"
 		]
 	},
 	"wm-license-artwork-references": "Lähtheet",
 	"wm-license-artwork-source": "Lähe/Valokuvaaja",
+	"wm-license-gfdl-1.2-and-later": "Voit kopioida, levittää ja/tai muuttaa tätä asiakirjaa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' -lisenssin version 1.2 tai myöhemmän ehtojen alaisena, jotka on julkaistu [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] puolesta; ei koske muuttumattomia kohtia, ei etukannen tekstejä eikä kirjankannen tekstejä. Kopio tästä lisenssistä on saatavila kohassa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Kuvvaus",
 	"wm-license-information-source": "Lähe",
 	"wm-license-information-date": "Taatumi",
 	"wm-license-information-author": "Luoja",
-	"wm-license-information-permission-reusing-text": "Tämän fiilin käyttäminen"
+	"wm-license-information-permission": "Käyttöoikeus",
+	"wm-license-information-permission-reusing-text": "Tämän fiilin käyttäminen",
+	"wm-license-own-work": "Oma teos",
+	"wm-license-self-multiple-licenses-select": "Voit valita haluamasi lisenssin."
 }

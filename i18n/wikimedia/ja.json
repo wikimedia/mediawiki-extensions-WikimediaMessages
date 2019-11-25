@@ -229,6 +229,7 @@
 	"wikibase-sitelinks-wiktionary": "ウィクショナリー",
 	"wikibase-otherprojects-commons": "コモンズ",
 	"wikibase-otherprojects-testwikidata": "ウィキデータ",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "メタウィキ",
 	"wikibase-otherprojects-species": "ウィキスピーシーズ",
 	"wikibase-otherprojects-wikibooks": "ウィキブックス",
@@ -283,6 +284,7 @@
 	"wikimedia-centralauth-contribs-locked": "このアカウントはグローバルロックされています。詳細は[[m:Special:CentralAuth/$1|グローバルアカウント情報]]を参照して下さい。",
 	"right-viewdeletedfile": "名前空間 {{ns:file}} および {{ns:file_talk}} 内の削除されたファイルやページを閲覧",
 	"securepoll-dblist-securepollglobal": "理事会選挙",
+	"wikimedia-statslink": "統計",
 	"wikimedia-cookiestatement": "Cookieに関する声明",
 	"ext-quicksurveys-performance-internal-survey-question": "ページの読み込みは遅くありませんか？"
 }
