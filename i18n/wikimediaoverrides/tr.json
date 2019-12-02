@@ -3,11 +3,18 @@
 		"authors": [
 			"Nemo bis",
 			"Hayri özkurt",
-			"Incelemeelemani"
+			"Incelemeelemani",
+			"BaRaN6161 TURK"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Bu wiki ziyaretçisini IP adresinizi kullanarak, geçen gün {{PLURAL:$1|1 hesap|$1 hesap}} oluşturmuş ve bu süre içinde izin verilen maksimum tutardır.\nSonuç olarak, bu IP adresini kullanan ziyaretçiler şu anda daha fazla hesap oluşturamaz.\n\nWikimedia projelerine katkıda bulunmanın odak olduğu bir etkinlikte bulunuyorsanız, bu sorunun çözülmesine yardımcı olmak için lütfen [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP kapağının geçici olarak kaldırılması istenme]] bölümüne bakın.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçmeme yardım et)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Resmi göremiyor musunuz? [[{{MediaWiki:createacct-captcha-help-url}}|Hesap isteğinde bulunun]]",
-	"wikimedia-centralauth-uwbr-intro": "Bu sayfada, bu vikideki yeniden adlandırılacak [[m:Single User Login finalisation announcement|tek kullanıcı girişi sonuçlanmış]] kullanıcılar listelenmektedir. [[m:Help:Unified login|Birleştirilmiş giriş]] hakkında daha fazla bilgi edinebilirsiniz. Kullanıcılar diledikleri bir zamanda [[Special:GlobalRenameRequest|buradan]] yeni bir küresel kullanıcı adı değişikliği talebinde bulunabilirler.",
-	"wikimedia-feedback-termsofuse": "adın ne"
+	"wikimedia-centralauth-login-error-locked": "<strong>Bu hesap [[m:Special:MyLanguage/Global locks|küresel olarak engellendi]].</strong> Herhangi bir Wikimedia wikisine giriş yapamayacaksınız. Lütfen {{GENDER:$1|siz}} herhangi bir sorunuz varsa [[m:Special:Contact/stewards|Kahyaları iletişime]] geçin.",
+	"wikimedia-centralauth-uwbr-intro": "Bu sayfa, [[m:Single User Login finalisation announcement|tek kullanıcı girişi tamamlama]] nedeniyle yeniden adlandırılacak olan bu wikiye kayıtlı kullanıcıları listeler. [[m:Help:Unified login|birleşik giriş]] hakkında daha fazla bilgi. Kullanıcılar istedikleri zaman [[Special:GlobalRenameRequest]] kullanarak yeniden adlandırma isteğinde bulunabilirler.",
+	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
+	"createacct-helpusername-url": "{{ns:Project}}:Kullanıcı_politikası",
+	"wikimedia-delete-toobig": "Bu sayfa $1 üstünde {{PLURAL:$1|revizyon|revizyon}} büyük bir düzenleme geçmişine sahip.\nÇok büyük düzenleme geçmişlerine sahip sayfaların silinmesi, {{SITENAME}}'nin kazayla bozulmasını önlemek için sınırlandırılmıştır.\nLütfen bu sayfanın silinmesini istemek için [[m:Steward requests/Miscellaneous|Kahya istekleri/Çeşitli Seçenekler]] adresinden [[m:Special:MyLanguage/Stewards|kahyalar]] ile iletişime geçin.",
+	"wikimedia-feedback-termsofuse": "<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Kullanım Şartları</a>'na uygun geri bildirim sağlamayı kabul ediyorum.",
+	"wikimedia-flow-terms-of-use-new-topic": "\"{{Int:flow-newtopic-save}}\" düğmesini tıklatarak [https://foundation.wikimedia.org/wiki/Terms_of_Use Kullanım Koşulları]'nı kabul etmiş ve metninizi [https: //creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Lisansı] ve [https://tr.wikipedia.org/wiki/Vikipedi:Özgür_Belgeleme_Lisansı GFDL] kuralları kabul etmiş olursunuz"
 }

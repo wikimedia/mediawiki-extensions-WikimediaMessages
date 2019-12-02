@@ -83,7 +83,7 @@
 	"wm-license-licensing-update-text": "תבנית רישוי זו הוספה לקובץ כחלק מ[[{{int:wm-license-licensing-update-wiki-link}}|עדכון רישיון]] GFDL.",
 	"wm-license-original-upload-log": "יומן העלאה מקורי",
 	"wm-license-own-work": "נוצר על ידי מעלה היצירה",
-	"wm-license-pd-author-self-text": "אני, שברשותי זכויות היוצרים על יצירה זו, ברצוני לשחרר יצירה זו '''[[{{int:wm-license-pd-wiki-link}}|לרשות הציבור]]'''. החלטה זו תקפה לכל רחבי העולם.",
+	"wm-license-pd-author-self-text": "אני, שברשותי זכויות היוצרים על יצירה זו, ברצוני לשחרר יצירה זו '''[[{{int:wm-license-pd-wiki-link}}|לנחלת הכלל]]'''. זה חל בכל העולם.",
 	"wm-license-pd-author-with-author-text": "יצירה זו שוחררה '''[[{{int:wm-license-pd-wiki-link}}|לרשות הציבור]]''' על ידי יוצריה, '''$1'''. קביעה זו תקפה לכלל העולם.",
 	"wm-license-pd-author-not-legally-possible": "יש מדינות שבהן הדבר אינו אפשרי על פי חוק, אם כך:",
 	"wm-license-pd-author-self-any-purpose": "אני מעניק לכל אחד את הזכות להשתמש בעבודה זו '''לכל מטרה שהיא''', ללא תנאים כלשהם, אלא אם כן תנאים כאלה נדרשים על פי חוק.",
