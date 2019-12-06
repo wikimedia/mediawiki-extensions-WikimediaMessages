@@ -178,8 +178,8 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF সমর্থন ও নিরাপত্তা",
 	"tag-emoji": "ইমোজি",
 	"tag-emoji-description": "বৈশ্বিক অপব্যবহার ছাঁকনি ১১০ দ্বারা ব্যবহৃত।",
-	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|অটো উইকি ব্রাউজার]]",
-	"tag-AWB-description": "[[:w:en:Wikipedia:AutoWikiBrowser|অটো উইকি ব্রাউজার]] দিয়ে করা সম্পাদনা",
+	"tag-AWB": "[https://bn.wikipedia.org/wiki/উইকিপিডিয়া:অটো_উইকি_ব্রাউজার অটো উইকি ব্রাউজার]",
+	"tag-AWB-description": "[https://bn.wikipedia.org/wiki/উইকিপিডিয়া:অটো_উইকি_ব্রাউজার অটো উইকি ব্রাউজার] দিয়ে করা সম্পাদনা",
 	"search-interwiki-custom": "wikt:উইকিঅভিধান থেকে\nb:উইকিবই থেকে\nn:উইকিসংবাদ থেকে\nq:উইকিউক্তি থেকে\ns:উইকিসংকলন থেকে\nv:উইকিবিশ্ববিদ্যালয় থেকে\nvoy:উইকিভ্রমণ থেকে",
 	"shared-repo-name-shared": "উইকিমিডিয়া কমন্স",
 	"wikimedia-copyright": "লেখাগুলো <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত;\nএর সাথে বাড়তি পদ প্রযোজ্য হতে পারে।\n <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use?uselang=bn\">ব্যবহারের শর্তাবলীতে</a> বিস্তারিত দেখুন।",
@@ -188,6 +188,7 @@
 	"wikimedia-copyrightwarning": "পরিবর্তন সংরক্ষণ করার মাধ্যমে, আপনি [https://foundation.wikimedia.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এসএ ৩.০] এবং [https://www.gnu.org/copyleft/fdl.html জিএফডিএল] লাইসেন্সের অধীনে প্রকাশের অনুমতি দিচ্ছেন।\nআপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধীনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন-শেয়ারঅ্যালাইক লাইসেন্সের সংজ্ঞা\" target=\"_blank\">সিসি বাই-এস ৩.০</a> এবং <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"জিএফডিএলের সংজ্ঞা\" target=\"_blank\">জিএফডিএল</a>",
 	"wikibase-repo-name": "উইকিউপাত্ত",
+	"wikibase-page-schema-author-name": "উইকিমিডিয়া প্রকল্পগুলিতে অবদানকারী",
 	"wikibase-statementsection-identifiers": "শনাক্তকারী",
 	"wikibase-statementsection-constraints": "সীমাবদ্ধতা",
 	"wikibase-sitelinks-wikibooks": "উইকিবই",
@@ -260,5 +261,6 @@
 	"wikimedia-cookiestatement": "কুকির বিবৃতি",
 	"ext-quicksurveys-performance-internal-survey-question": "এই পাতাটি কি যথেষ্ট দ্রুত লোড হয়েছে?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "আরও তথ্যের জন্য, এই জরিপের [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement গোপনীয়তার বিবৃতি] দেখুন।",
-	"passwordpolicies-policy-blockattacker": "জানা আক্রমণ হ্রাসের জন্য পাসওয়ার্ড নীতি যেখানে বিবরণ প্রকাশ লঘবকে বাধা দিতে পারে"
+	"passwordpolicies-policy-blockattacker": "জানা আক্রমণ হ্রাসের জন্য পাসওয়ার্ড নীতি যেখানে বিবরণ প্রকাশ লঘবকে বাধা দিতে পারে",
+	"querypage-updates-half-monthly": "এই পাতাটি মাসে দুইবার হালনাগাদ করা হয়।"
 }
