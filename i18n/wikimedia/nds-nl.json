@@ -3,7 +3,8 @@
 		"authors": [
 			"Servien",
 			"לערי ריינהארט",
-			"Nemo bis"
+			"Nemo bis",
+			"PiefPafPier"
 		]
 	},
 	"wikimediamessages-desc": "Systeemteksten veur Wikimedia",
@@ -95,5 +96,6 @@
 	"interlanguage-link-wikipedia": "Wikipedy",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, de vrye encyklopedy",
 	"interlanguage-link-commons": "Wikimedia Commons",
+	"wikimedia-statslink": "Statistiken",
 	"wikimedia-cookiestatement": "Kukyverklåring"
 }

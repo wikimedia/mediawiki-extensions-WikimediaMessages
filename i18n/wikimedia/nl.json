@@ -26,7 +26,9 @@
 			"Kippenvlees1",
 			"Jeroen N",
 			"KPFC",
-			"Matma Rex"
+			"Matma Rex",
+			"Bdijkstra",
+			"PiefPafPier"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -314,7 +316,9 @@
 	"action-viewdeletedfile": "verwijderde bestanden en pagina's in de {{ns:file}} en de {{ns:file_talk}} naamruimten te bekijken",
 	"right-viewdeletedfile": "Toon bestanden en pagina's in de {{ns:file}} en {{ns:file_talk}} naamruimten die zijn verwijderd",
 	"securepoll-dblist-securepollglobal": "Bestuursverkiezing",
+	"wikimedia-statslink": "Statistieken",
 	"wikimedia-cookiestatement": "Cookiesverklaring",
 	"ext-quicksurveys-performance-internal-survey-question": "Werd deze pagina snel genoeg geladen?",
-	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer."
+	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer.",
+	"querypage-updates-half-monthly": "Deze pagina wordt twee keer per maand bijgewerkt."
 }

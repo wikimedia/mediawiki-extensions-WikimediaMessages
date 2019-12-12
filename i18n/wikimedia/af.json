@@ -9,7 +9,8 @@
 			"Nemo bis",
 			"Arnobarnard",
 			"Fwolff",
-			"Servien"
+			"Servien",
+			"PiefPafPier"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia spesifieke boodskappe",
@@ -137,5 +138,6 @@
 	"interlanguage-link-mul": "Meer tale",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, die vry ensiklopedie",
+	"wikimedia-statslink": "Statistieke",
 	"wikimedia-cookiestatement": "Koekieverklaring"
 }
