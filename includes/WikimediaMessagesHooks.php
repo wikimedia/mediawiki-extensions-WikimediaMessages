@@ -24,6 +24,7 @@ class WikimediaMessagesHooks {
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			'delete-toobig', // T139797
+			'discussiontools-replywidget-terms-click',
 			'feedback-termsofuse',
 			'flow-terms-of-use-new-topic',
 			'flow-terms-of-use-reply',
