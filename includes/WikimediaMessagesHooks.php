@@ -1576,5 +1576,52 @@ class WikimediaMessagesHooks {
 		$output->setIndicators(
 			[ 'mw-feedbacklink' => $link ]
 		);
+
+		$config = $special->getConfig();
+		if (
+			$config->get( 'WikimediaMessagesPartialBlockBanner' ) &&
+			!$config->get( 'EnablePartialBlocks' )
+		) {
+			$preHtml = self::buildSpecialBlockBanner( $output->getLanguage() );
+			$output->prependHTML( $preHtml );
+		}
+	}
+
+	/**
+	 * Builds Special:Block page informing users about
+	 * partial blocks being enabled
+	 *
+	 * @param Language $language
+	 * @return string Raw HTML
+	 */
+	private static function buildSpecialBlockBanner( Language $language ): string {
+		$message = HTML::rawElement(
+			'div',
+			[
+				'class' => [ 'specialblock-banner-message' ],
+			],
+			( new Message( 'specialblockbannermessage', [], $language ) )->escaped()
+		);
+
+		$button = HTML::rawElement(
+			'div',
+			[],
+			( new OOUI\ButtonWidget( [
+				'label' => ( new Message( 'specialblockbannercta', [], $language ) )->escaped(),
+				'href' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Blocking_users',
+				'flags' => [
+					'primary',
+					'progressive',
+				],
+			] ) )->toString()
+		);
+
+		return HTML::rawElement(
+			'div',
+			[
+				'class' => [ 'specialblock-partialblock-banner messagebox warningbox' ],
+			],
+			$message . $button
+		);
 	}
 }

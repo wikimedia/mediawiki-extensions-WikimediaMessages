@@ -15,5 +15,7 @@
 	"hello": "Standalone word used as a greeting or beginning of a crosswiki message.\n{{Identical|Hello}}",
 	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate.",
 	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}",
-	"specialblockfeedback": "Label for the feedback link at the top of [[Special:Block]]\n{{Identical|Feedback}}"
+	"specialblockfeedback": "Label for the feedback link at the top of [[Special:Block]]\n{{Identical|Feedback}}",
+	"specialblockbannermessage": "Used in [[Special:Block]].\n\nRefers to the notification text that Partial Blocks will soon be enabled.",
+	"specialblockbannercta": "Used in [[Special:Block]].\n\nRefers to the Call to Action button when the Partial Blocks info banner is enabled."
 }

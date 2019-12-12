@@ -9,5 +9,7 @@
 	"hello": "Hello",
 	"please-translate": "Please help translate to your language",
 	"thank-you": "{{GENDER:$1|Thank you.}}",
-	"specialblockfeedback": "Feedback"
+	"specialblockfeedback": "Feedback",
+	"specialblockbannermessage": "The partial blocks feature will be deployed on most wikis on January 6th and the user interface will change.",
+	"specialblockbannercta": "Learn more"
 }
