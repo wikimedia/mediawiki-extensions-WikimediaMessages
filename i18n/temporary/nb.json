@@ -11,5 +11,7 @@
 	"hello": "Hallo",
 	"please-translate": "Hjelp til med å oversette til ditt språk",
 	"thank-you": "{{GENDER:$1|Takk.}}",
-	"specialblockfeedback": "Tilbakemelding"
+	"specialblockfeedback": "Tilbakemelding",
+	"specialblockbannermessage": "Funksjonen for delvise blokkeringer blir rullet ut til de fleste wikier 6. januar, og brukergrensesnittet blir forandret.",
+	"specialblockbannercta": "Lær mer"
 }

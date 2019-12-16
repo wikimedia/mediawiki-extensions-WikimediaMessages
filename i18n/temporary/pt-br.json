@@ -18,5 +18,7 @@
 	"hello": "Olá",
 	"please-translate": "Por favor, ajude a traduzir para o seu idioma",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
-	"specialblockfeedback": "Comentário"
+	"specialblockfeedback": "Comentário",
+	"specialblockbannermessage": "O recurso de bloqueios parciais será implantado na maioria das wikis em 6 de janeiro e a interface do usuário será alterada.",
+	"specialblockbannercta": "Saiba mais"
 }

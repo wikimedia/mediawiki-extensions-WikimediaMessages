@@ -17,5 +17,7 @@
 	"hello": "您好",
 	"please-translate": "請協助翻譯成您使用的語言",
 	"thank-you": "{{GENDER:$1|感謝您。}}",
-	"specialblockfeedback": "意見回饋"
+	"specialblockfeedback": "意見回饋",
+	"specialblockbannermessage": "部分受限功能將於 1 月 6 日在多數 wiki 上部署，而使用者介面將會有所更改",
+	"specialblockbannercta": "了解更多"
 }

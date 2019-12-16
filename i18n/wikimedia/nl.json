@@ -320,5 +320,8 @@
 	"wikimedia-cookiestatement": "Cookiesverklaring",
 	"ext-quicksurveys-performance-internal-survey-question": "Werd deze pagina snel genoeg geladen?",
 	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer.",
-	"querypage-updates-half-monthly": "Deze pagina wordt twee keer per maand bijgewerkt."
+	"technical-maintenance-soon": "Er zal binnenkort technisch onderhoud worden gepleegd:",
+	"technical-maintenance-edit": "Het kan zijn dat u dan geen bewerkingen kunt opslaan.",
+	"querypage-updates-half-monthly": "Deze pagina wordt twee keer per maand bijgewerkt.",
+	"querypage-updates-monthly": "Deze pagina wordt eens per maand bijgewerkt."
 }

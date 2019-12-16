@@ -3,10 +3,12 @@
 		"authors": [
 			"Kaare",
 			"Christian List",
-			"Joedalton"
+			"Joedalton",
+			"Saederup92"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke midlertidige meddelelser",
 	"please-translate": "Hjælp venligst med at oversætte til dit sprog",
-	"thank-you": "{{GENDER:$1|Tak.}}"
+	"thank-you": "{{GENDER:$1|Tak.}}",
+	"specialblockbannercta": "Lær mere"
 }

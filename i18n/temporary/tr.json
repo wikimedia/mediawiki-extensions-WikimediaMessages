@@ -15,5 +15,7 @@
 	"hello": "Merhaba",
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
 	"thank-you": "{{GENDER:$1|Teşekkür ederiz.}}",
-	"specialblockfeedback": "Geri bildirim"
+	"specialblockfeedback": "Geri bildirim",
+	"specialblockbannermessage": "Kısmi bloklar özelliği, 6 Ocak'ta çoğu wikide konuşlandırılacak ve kullanıcı arayüzü değişecek.",
+	"specialblockbannercta": "Daha fazla bilgi"
 }

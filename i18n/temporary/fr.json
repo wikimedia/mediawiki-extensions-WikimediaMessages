@@ -22,5 +22,6 @@
 	"hello": "Bonjour",
 	"please-translate": "Merci de nous aider à traduire dans votre langue",
 	"thank-you": "{{GENDER:$1|Merci.}}",
-	"specialblockfeedback": "Commentaire"
+	"specialblockfeedback": "Commentaire",
+	"specialblockbannercta": "En savoir plus"
 }

@@ -291,5 +291,6 @@
 	"wikimedia-centralauth-contribs-locked": "Ovaj je račun globalno zaključan.\nPogledajte više informacija [[m:Special:CentralAuth/$1|o globalnom računu]].",
 	"right-viewdeletedfile": "Vidi pobrisane datoteke i stranice u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Izbori za članove Skrbničkoga odbora Zaklade Wikimedija",
+	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }
