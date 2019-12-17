@@ -12,5 +12,7 @@
 	"hello": "Здраво",
 	"please-translate": "Помогнете со преводот на вашиот јазик",
 	"thank-you": "{{GENDER:$1|Благодариме.}}",
-	"specialblockfeedback": "Мислења"
+	"specialblockfeedback": "Мислења",
+	"specialblockbannermessage": "Можноста за делумно блокирање ќе биде спроведена на највеќето викија на 6 јануари, со што ќе се смени корисничкиот посредник.",
+	"specialblockbannercta": "Дознајте повеќе"
 }

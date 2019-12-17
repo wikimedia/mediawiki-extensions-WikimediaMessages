@@ -31,7 +31,8 @@
 			"Athena in Wonderland",
 			"Ruila",
 			"Matma Rex",
-			"Mansil alfalb"
+			"Mansil alfalb",
+			"Martin Urbanec"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -330,5 +331,6 @@
 	"wikimedia-switchover-read-only": "Não pode editar neste momento devido a tarefas de manutenção. Copie e grave o seu texto e tente novamente daqui a alguns minutos.",
 	"passwordpolicies-policy-blockattacker": "Normas para palavras-passe, destinadas à mitigação de ataques conhecidos, onde a divulgação de pormenores impediria a sua mitigação",
 	"technical-maintenance-soon": "A manutenção técnica será realizada em breve:",
-	"technical-maintenance-edit": "Durante este período, poderá não conseguir gravar nenhuma edição."
+	"technical-maintenance-edit": "Durante este período, poderá não conseguir gravar nenhuma edição.",
+	"restriction-level-editautoreviewprotected": "apenas autorrevisores"
 }

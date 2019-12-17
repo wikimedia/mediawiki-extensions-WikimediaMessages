@@ -25,7 +25,8 @@
 			"أحمد",
 			"Sonic N800",
 			"Kassem7899",
-			"Matma Rex"
+			"Matma Rex",
+			"Martin Urbanec"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -343,5 +344,6 @@
 	"group-oathauth-tester": "مختبرو التوثيق ذي العاملين",
 	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين",
 	"querypage-updates-half-monthly": "يتم تشغيل تحديثات هذه الصفحة مرتين في الشهر.",
-	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر."
+	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر.",
+	"restriction-level-editautoreviewprotected": "حماية جزئية - السماح للمحررين"
 }

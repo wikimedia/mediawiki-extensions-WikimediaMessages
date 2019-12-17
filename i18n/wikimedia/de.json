@@ -27,7 +27,8 @@
 			"Robin van der Vliet",
 			"IvanP",
 			"ToBeFree",
-			"Matma Rex"
+			"Matma Rex",
+			"Martin Urbanec"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -333,5 +334,6 @@
 	"group-oathauth-tester": "Tester der Zwei-Faktor-Authentifizierung",
 	"group-oathauth-tester-member": "{{GENDER:$1|Tester|Testerin}} der Zwei-Faktor-Authentifizierung",
 	"querypage-updates-half-monthly": "Aktualisierungen für diese Seite erfolgen zweimal im Monat.",
-	"querypage-updates-monthly": "Aktualisierungen für diese Seite erfolgen einmal im Monat."
+	"querypage-updates-monthly": "Aktualisierungen für diese Seite erfolgen einmal im Monat.",
+	"restriction-level-editautoreviewprotected": "geschützt (nur aktive Sichter)"
 }
