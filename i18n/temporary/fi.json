@@ -5,7 +5,8 @@
 			"Nike",
 			"Pxos",
 			"01miki10",
-			"Pyscowicz"
+			"Pyscowicz",
+			"Stryn"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit",
@@ -14,5 +15,6 @@
 	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
 	"thank-you": "{{GENDER:$1|Kiitos.}}",
-	"specialblockfeedback": "Palaute"
+	"specialblockfeedback": "Palaute",
+	"specialblockbannermessage": "Osittaiset estot -toiminnallisuus otetaan käyttöön suurimmassa osaa wikeistä 6. tammikuuta, jonka myötä käyttöliittymä muuttuu."
 }

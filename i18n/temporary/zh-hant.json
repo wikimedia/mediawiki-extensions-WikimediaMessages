@@ -7,7 +7,8 @@
 			"LNDDYL",
 			"Liuxinyu970226",
 			"Maskers",
-			"Kly"
+			"Kly",
+			"Xiplus"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定臨時訊息",
@@ -18,6 +19,6 @@
 	"please-translate": "請協助翻譯成您使用的語言",
 	"thank-you": "{{GENDER:$1|感謝您。}}",
 	"specialblockfeedback": "意見回饋",
-	"specialblockbannermessage": "部分受限功能將於 1 月 6 日在多數 wiki 上部署，而使用者介面將會有所更改",
+	"specialblockbannermessage": "部分封鎖功能將於1月6日在大多數維基上部署，而使用者介面將會有所更改。",
 	"specialblockbannercta": "了解更多"
 }
