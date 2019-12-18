@@ -13,5 +13,6 @@
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
-	"specialblockfeedback": "التغذية الراجعة"
+	"specialblockfeedback": "التغذية الراجعة",
+	"specialblockbannercta": "معرفة المزيد"
 }

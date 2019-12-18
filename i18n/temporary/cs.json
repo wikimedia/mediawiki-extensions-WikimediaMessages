@@ -4,7 +4,8 @@
 			"Mormegil",
 			"Matěj Grabovský",
 			"Matěj Suchánek",
-			"Martin Urbanec"
+			"Martin Urbanec",
+			"MrJaroslavik"
 		]
 	},
 	"wikimediamessages-desc": "Dočasná hlášení specifická pro projekty Wikimedia",
@@ -14,5 +15,6 @@
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
 	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
-	"specialblockfeedback": "Názor"
+	"specialblockfeedback": "Názor",
+	"specialblockbannermessage": "Funkce částečných bloků bude 6. ledna nasazena na většině wiki a uživatelské rozhraní se změní."
 }

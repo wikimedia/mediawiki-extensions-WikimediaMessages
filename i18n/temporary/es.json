@@ -10,7 +10,8 @@
 			"-jem-",
 			"Syum90",
 			"PoLuX124",
-			"Dmaza"
+			"Dmaza",
+			"Fitoschido"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
@@ -21,6 +22,6 @@
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
 	"thank-you": "{{GENDER:$1|Gracias.}}",
 	"specialblockfeedback": "Sugerencias",
-	"specialblockbannermessage": "La funcionalidad de bloques parciales será desplegada a la mayoria de las wikis el 6 de Enero y la interfaz de usuario cambiará.",
+	"specialblockbannermessage": "La funcionalidad de bloqueos parciales se implantará en la mayoría de los wikis el 6 de enero; la interfaz de usuario cambiará.",
 	"specialblockbannercta": "Más información"
 }

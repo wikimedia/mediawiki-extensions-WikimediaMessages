@@ -332,5 +332,6 @@
 	"passwordpolicies-policy-blockattacker": "Normas para palavras-passe, destinadas à mitigação de ataques conhecidos, onde a divulgação de pormenores impediria a sua mitigação",
 	"technical-maintenance-soon": "A manutenção técnica será realizada em breve:",
 	"technical-maintenance-edit": "Durante este período, poderá não conseguir gravar nenhuma edição.",
+	"protect-level-editautoreviewprotected": "Permitir apenas autorrevisores",
 	"restriction-level-editautoreviewprotected": "apenas autorrevisores"
 }
