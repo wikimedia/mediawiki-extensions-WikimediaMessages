@@ -1620,7 +1620,7 @@ class WikimediaMessagesHooks {
 		return HTML::rawElement(
 			'div',
 			[
-				'class' => [ 'specialblock-partialblock-banner messagebox warningbox' ],
+				'class' => [ 'specialblock-partialblock-banner warningbox' ],
 			],
 			$message . $button
 		);
