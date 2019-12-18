@@ -45,6 +45,8 @@ class WikimediaMessagesHooks {
 		static $allbutmetawikikeys = [
 			'urlshortener-disabled', // T221526
 			'apierror-urlshortener-disabled', // T221526
+			'urlshortener-badaccessgroups', // T230253
+			'apierror-urlshortener-permissiondenied', // T230253
 		];
 
 		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
