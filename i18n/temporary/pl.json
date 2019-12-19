@@ -8,7 +8,8 @@
 			"Beau",
 			"Sp5uhe",
 			"Railfail536",
-			"Rail"
+			"Rail",
+			"Woytecr"
 		]
 	},
 	"wikimediamessages-desc": "Specjalne tymczasowe wiadomości Wikimedia",
@@ -18,5 +19,7 @@
 	"hello": "Witaj",
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
 	"thank-you": "{{GENDER:$1|Dziękuję.}}",
-	"specialblockfeedback": "Opinie"
+	"specialblockfeedback": "Opinie",
+	"specialblockbannermessage": "Blokowanie częściowe zostanie wdrożone na większość wiki 6 stycznia. Zmieni się interfejs blokowania.",
+	"specialblockbannercta": "Dowiedz się więcej"
 }

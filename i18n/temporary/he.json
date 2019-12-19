@@ -13,5 +13,9 @@
 	"group-oversight": "מסתירים",
 	"group-oversight-member": "{{GENDER:$1|מסתיר|מסתירה}}",
 	"hello": "שלום",
-	"please-translate": "אנא סייעו בתרגום הדף"
+	"please-translate": "אנא סייעו בתרגום הדף",
+	"thank-you": "{{GENDER:$1|תודה רבה.}}",
+	"specialblockfeedback": "משוב",
+	"specialblockbannermessage": "אפשרות חסימה חלקית תועלה לרוב אתרי הוויקי ב־6 בינואר והממשק למשתמש ישתנה.",
+	"specialblockbannercta": "מידע נוסף"
 }
