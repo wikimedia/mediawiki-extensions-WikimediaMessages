@@ -319,5 +319,9 @@
 	"querypage-updates-half-monthly": "Oppdateringer for denne siden kjøres to ganger i måneden.",
 	"querypage-updates-monthly": "Oppdateringer for denne siden kjøres to ganger i måneden.",
 	"right-editautoreviewprotected": "Redigere sider beskyttet som «{{int:protect-level-editautoreviewprotected}}»",
-	"action-editautoreviewprotected": "redigere sider beskyttet som «{{int:protect-level-editautoreviewprotected}}»"
+	"action-editautoreviewprotected": "redigere sider beskyttet som «{{int:protect-level-editautoreviewprotected}}»",
+	"protect-level-editautopatrolprotected": "Tillat kun autopatruljører",
+	"restriction-level-editautopatrolprotected": "kun autopatruljører",
+	"right-editautopatrolprotected": "Redigere sider beskyttet som «{{int:protect-level-editautopatrolprotected}}»",
+	"action-editautopatrolprotected": "redigere sider beskyttet som «{{int:protect-level-editautopatrolprotected}}»"
 }

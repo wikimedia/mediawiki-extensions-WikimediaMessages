@@ -326,5 +326,9 @@
 	"group-oathauth-tester": "Испробувачи на двочинителски заверки",
 	"group-oathauth-tester-member": "{{GENDER:$1|испробувач на двочинителски заверки}}",
 	"querypage-updates-half-monthly": "Страницава се подновува двапати месечно.",
-	"querypage-updates-monthly": "Страницава се подновува еднаш месечно."
+	"querypage-updates-monthly": "Страницава се подновува еднаш месечно.",
+	"protect-level-editautopatrolprotected": "Допуштај само автопатролери",
+	"restriction-level-editautopatrolprotected": "заштитено за автопатролери",
+	"right-editautopatrolprotected": "Уредување на страници заштитени како „{{int:protect-level-protect-level-editautopatrolprotected}}“",
+	"action-editautopatrolprotected": "уредување на страници заштитени како „{{int:protect-level-editeditorprotected}}“"
 }

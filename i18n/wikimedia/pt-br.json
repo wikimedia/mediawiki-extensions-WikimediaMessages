@@ -360,5 +360,9 @@
 	"querypage-updates-half-monthly": "As atualizações para esta página estão sendo executadas duas vezes por mês.",
 	"querypage-updates-monthly": "As atualizações para esta página são executadas uma vez por mês.",
 	"protect-level-editautoreviewprotected": "Permitir apenas autorrevisores",
-	"restriction-level-editautoreviewprotected": "apenas autorrevisores"
+	"restriction-level-editautoreviewprotected": "apenas autorrevisores",
+	"protect-level-editautopatrolprotected": "Permitir apenas autopatrulhadores",
+	"restriction-level-editautopatrolprotected": "autopatrulhadores protegidos",
+	"right-editautopatrolprotected": "Editar as páginas protegidas como \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "editar as páginas protegidas como \"{{int:protect-level-editautopatrolprotected}}\""
 }

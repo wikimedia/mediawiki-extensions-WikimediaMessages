@@ -219,7 +219,7 @@
 	"tag-AWB-description": "[https://tr.wikipedia.org/wiki/Vikipedi:AutoWikiBrowser AutoWikiBrowser] ile yapılan düzenlemeler",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Atıf-BenzerPaylaşım Lisansı</a> altındadır. Ek koşullar geçerli olabilir. Ayrıntılar için <a href=\"https://meta.wikimedia.org/wiki/Terms_of_use/tr\">Kullanım Şartları</a>na bakınız.",
+	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.tr\">Creative Commons Atıf-BenzerPaylaşım Lisansı</a> altındadır. Ek koşullar geçerli olabilir. Ayrıntılar için <a href=\"https://meta.wikimedia.org/wiki/Terms_of_use/tr\">Kullanım Şartları</a>na bakınız.",
 	"wikimedia-commons-copyright": "Dosyalar açıklama sayfasında belirtilen lisanslar altında bulunur. Dosya ve mülk ad alanlarından yapılandırılmış tüm veriler <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\" Creative Commons CC0 Lisansının Tanıtılması</a> Creative Commons CC0 Lisansı</a>; tüm yapılandırılmamış metinler <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Creative Commons Attribution/Share-Alike Lisans\">Creative Commons Attribution-ShareAlike Tanıtımı altında bulunur.</a> Lisans;\nek şartlar geçerli olabilir.\nBu siteyi kullanarak <a href=\"//meta.wikimedia.org/wiki/Terms_of_Use/tr\" title=\"Wikimedia Vakıf Kullanım Şartları\">Kullanım Şartları</a> ve <a href=\"//meta.wikimedia.org/wiki/Privacy_policy/tr\" title=\"Wikimedia Vakıf Gizlilik Politikası\">Gizlilik Politikası</a> kabul etmiş olursunuz.",
 	"wikidata-copyright": "Ana, Property, Lexeme ve EntitySchema ad alanlarından yapılandırılmış tüm veriler <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\" Creative Commons CC0 License\">Creative Commons Tanımı</a> altında bulunabilir. CC0 Lisansı; diğer ad alanlarındaki metinlere <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.tr\" title=\" Creative Commons Atıfının Tanımı/Paylaş-Ama Lisansı\">Creative Commons Attribution-ShareAlike</a> Lisans; ek şartlar geçerli olabilir. Bu siteyi kullanarak <a href=\"//meta.wikimedia.org/wiki/Terms_of_Use/tr\"> Kullanım Şartları</a> ve <a href=\"//meta.wikimedia.org/wiki/ Privacy_policy/tr\">Gizlilik Politikası</a>'nı kabul etmiş olursunuz.",
 	"wikimedia-copyrightwarning": "Sayfayı kaydederek, [https://foundation.wikimedia.org/wiki/Terms_of_Use Kullanım Şartlarını] kabul etmiş ve [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Lisansı] ile [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] lisansları altında geri döndürülemez biçimde katkınızın kullanımını özgür bırakmış olursunuz.\n\nUnutmayın, katkınıza yalnızca Creative Commons lisansına bir köprü ya da URL ile atıf yapılmasının yeterli olacağını kabul ediyorsunuz.",
@@ -328,5 +328,9 @@
 	"group-oathauth-tester": "İki faktörlü kimlik doğrulama test cihazları",
 	"group-oathauth-tester-member": "{{GENDER:$1|iki faktörlü kimlik doğrulama test cihazı}}",
 	"querypage-updates-half-monthly": "Bu sayfa için güncellemeler ayda iki kez yayınlanıyor.",
-	"querypage-updates-monthly": "Bu sayfa için güncellemeler ayda bir kez yayınlanıyor."
+	"querypage-updates-monthly": "Bu sayfa için güncellemeler ayda bir kez yayınlanıyor.",
+	"protect-level-editautopatrolprotected": "Yalnızca otomatik devriyeler izin ver",
+	"restriction-level-editautopatrolprotected": "oto devriye korumalı",
+	"right-editautopatrolprotected": "\"{{int:koruma-düzeyi-editautopatrol korumalı}}\" olarak korunan sayfaları düzenle",
+	"action-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" olarak korunan sayfaları düzenle"
 }

@@ -378,8 +378,8 @@
 	"restriction-level-editautoreviewprotected": "{{optional}}\nUsed on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
 	"right-editautoreviewprotected": "{{optional}}\n{{doc-right|editautoreviewprotected}}\nRefers to a protection level",
 	"action-editautoreviewprotected": "{{optional}}\n{{doc-action|editautoreviewprotected}}",
-	"protect-level-editautopatrolprotected": "{{optional}}\nUsed as protect level.",
-	"restriction-level-editautopatrolprotected": "{{optional}}\nUsed on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
-	"right-editautopatrolprotected": "{{optional}}\n{{doc-right|editautopatrolprotected}}\nRefers to a protection level",
-	"action-editautopatrolprotected": "{{optional}}\n{{doc-action|editautopatrolprotected}}"
+	"protect-level-editautopatrolprotected": "Used as protect level.",
+	"restriction-level-editautopatrolprotected": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
+	"right-editautopatrolprotected": "{{doc-right|editautopatrolprotected}}\nRefers to a protection level",
+	"action-editautopatrolprotected": "{{doc-action|editautopatrolprotected}}"
 }

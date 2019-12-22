@@ -345,5 +345,9 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين",
 	"querypage-updates-half-monthly": "يتم تشغيل تحديثات هذه الصفحة مرتين في الشهر.",
 	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر.",
-	"restriction-level-editautoreviewprotected": "حماية جزئية - السماح للمحررين"
+	"restriction-level-editautoreviewprotected": "حماية جزئية - السماح للمحررين",
+	"protect-level-editautopatrolprotected": "السماح فقط للمراجعين تلقائيا",
+	"restriction-level-editautopatrolprotected": "محمية على مستوى اللمراجعين تلقائيا",
+	"right-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\""
 }

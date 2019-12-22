@@ -53,7 +53,8 @@
 			"Tiberius1701",
 			"Themasterriot",
 			"Anarhistička Maca",
-			"Matma Rex"
+			"Matma Rex",
+			"Silverie04"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -355,5 +356,9 @@
 	"technical-maintenance-soon": "En breve realizaremos tareas de mantenimiento:",
 	"technical-maintenance-edit": "Durante dicho periodo es posible que no puedas editar.",
 	"group-oathauth-tester": "Probadores del sistema de autenticación en dos pasos",
-	"group-oathauth-tester-member": "{{GENDER:$1|probador|probadora}} del sistema de autenticación de dos pasos"
+	"group-oathauth-tester-member": "{{GENDER:$1|probador|probadora}} del sistema de autenticación de dos pasos",
+	"protect-level-editautopatrolprotected": "Permitir solo autoverificadores",
+	"restriction-level-editautopatrolprotected": "autopatrollers protegidos",
+	"right-editautopatrolprotected": "Editar páginas protegidas como «{{int:protect-level-editeditorprotected}}»",
+	"action-editautopatrolprotected": "Editar páginas protegidas como «{{int:protect-level-editeditorprotected}}»"
 }

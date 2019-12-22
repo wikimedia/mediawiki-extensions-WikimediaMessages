@@ -6,7 +6,8 @@
 			"Ravichandra",
 			"Veeven",
 			"రహ్మానుద్దీన్",
-			"Arjunaraoc"
+			"Arjunaraoc",
+			"Chaduvari"
 		]
 	},
 	"wm-license-attribution-with-author-text": "కాపీహక్కుదారునికి సరైన శ్రేయస్సునిస్తూ ఈ దస్త్రాన్ని '''ఏ ఉద్దేశానికైనా''' ఉపయోగించుకునేందుకు ఈ దస్త్రం యొక్క కాపీహక్కుదారు, $1, ఎవరికైనా అనుమతిస్తున్నారు.\nపునఃపంపిణీ, వ్యుత్పన్న కృతులు, వాణిజ్యపరమైన వాడుకలు, మరియు ఇతర వాడుకలు అనుమతించబడతాయి.",
@@ -49,7 +50,7 @@
 	"wm-license-information-source-missing": "ఈ దస్త్రానికి '''మూలం''' గురించిన సమాచారం లేదు.",
 	"wm-license-information-source-missing-request": "దయచేసి ఈ దస్త్రపు వివరణని మార్చి మూలాన్ని ఇవ్వండి.",
 	"wm-license-information-date": "తేదీ",
-	"wm-license-information-author": "రచయిత",
+	"wm-license-information-author": "కర్త",
 	"wm-license-information-author-missing": "ఈ దస్త్రానికి '''రచయిత''' సమాచారం లేదు.",
 	"wm-license-information-permission": "అనుమతి",
 	"wm-license-information-permission-reusing-text": "ఈ దస్త్రాన్ని పునర్వినియోగించుకోవడం",
