@@ -6,7 +6,8 @@
 			"SPQRobin",
 			"Mainframe98",
 			"Sjoerddebruin",
-			"Jeroen N"
+			"Jeroen N",
+			"Elroy"
 		]
 	},
 	"wikimediamessages-desc": "Tijdelijke berichten voor Wikimedia",
@@ -18,5 +19,5 @@
 	"thank-you": "{{GENDER:$1|Dank u.}}",
 	"specialblockfeedback": "Terugkoppeling",
 	"specialblockbannermessage": "De functie voor gedeeltelijke blokkades wordt op 6 januari op de meeste wiki's uitgerold, en de gebruikersinterface zal veranderen.",
-	"specialblockbannercta": "Meer leren"
+	"specialblockbannercta": "Meer informatie"
 }
