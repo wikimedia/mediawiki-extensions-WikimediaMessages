@@ -304,5 +304,9 @@
 	"group-oathauth-tester": "Tester de l'autendicazione a Doje Fattore",
 	"group-oathauth-tester-member": "{{GENDER:$1|tester de l'autendicazione a doje fattore}}",
 	"querypage-updates-half-monthly": "Le aggiornaminde de sta pàgene avènen fatte doje vote a 'u mese.",
-	"querypage-updates-monthly": "Le aggiornaminde de sta pàgene avènen fatte 'na vote a 'u mese."
+	"querypage-updates-monthly": "Le aggiornaminde de sta pàgene avènen fatte 'na vote a 'u mese.",
+	"protect-level-editautopatrolprotected": "Conzendite sulamende a le auto condrollore",
+	"restriction-level-editautopatrolprotected": "prutette da l'auto condrollore",
+	"right-editautopatrolprotected": "Cange le pàggene prutette cumme \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "cange le pàggene prutette cumme \"{{int:protect-level-editautopatrolprotected}}\""
 }

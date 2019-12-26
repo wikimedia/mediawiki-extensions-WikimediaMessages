@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Belkacem77"
+			"Belkacem77",
+			"K Messaoudi"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia s tfarit",
@@ -38,6 +39,7 @@
 	"project-localized-name-frwikiquote": "Wikiquote s tefṛansist",
 	"project-localized-name-frwikiversity": "Wikisdawit s tefṛansist",
 	"project-localized-name-kabwiki": "Wikipedia s teqbaylit",
+	"project-localized-name-ngwikimedia": "Wikimedia Nijirya",
 	"project-localized-name-simplewiki": "Wikipedia s teglizit taḥerfit",
 	"project-localized-name-simplewikibooks": "Wikidlis teglizit taḥerfit",
 	"project-localized-name-wg_enwiki": "Agraw n umahil n Wikipedia s teglizit",
