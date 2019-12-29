@@ -377,6 +377,6 @@
 	"querypage-updates-monthly": "Les mises à jour pour cette page sont effectuées une fois par mois.",
 	"protect-level-editautopatrolprotected": "Autoriser uniquement les patrouilleurs automatiques",
 	"restriction-level-editautopatrolprotected": "patrouilleurs automatiques protégés",
-	"right-editautopatrolprotected": "Modifier les pages protégées avec «&nbsp;{{int:protect-level-editautopatrolprotected}}&nbsp;»",
+	"right-editautopatrolprotected": "Modifier les pages protégées avec « {{int:protect-level-editautopatrolprotected}} »",
 	"action-editautopatrolprotected": "modifier les pages protégées avec « {{int:protect-level-editautopatrolprotected}} »"
 }

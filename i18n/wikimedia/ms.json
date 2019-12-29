@@ -10,7 +10,8 @@
 			"Pizza1016",
 			"SNN95",
 			"Jeluang Terluang",
-			"Zulfadli51"
+			"Zulfadli51",
+			"Tofeiku"
 		]
 	},
 	"wikimediamessages-desc": "Pesanan-pesanan Wikimedia",
@@ -169,5 +170,7 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} aneka bahasa",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, ensiklopedia bebas",
 	"interlanguage-link-sitename-dmoz": "Direktori web DMOZ",
-	"right-viewdeletedfile": "Melihat fail-fail dan laman-laman dalam ruang-ruang nama {{ns:file}} dan {{ns:file_talk}} yang telah dihapuskan"
+	"right-viewdeletedfile": "Melihat fail-fail dan laman-laman dalam ruang-ruang nama {{ns:file}} dan {{ns:file_talk}} yang telah dihapuskan",
+	"protect-level-editautopatrolprotected": "Hanya benarkan autoperonda",
+	"restriction-level-editautopatrolprotected": "autoperonda terlindung"
 }

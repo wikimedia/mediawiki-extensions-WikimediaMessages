@@ -335,5 +335,9 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|Tester|Testerin}} der Zwei-Faktor-Authentifizierung",
 	"querypage-updates-half-monthly": "Aktualisierungen für diese Seite erfolgen zweimal im Monat.",
 	"querypage-updates-monthly": "Aktualisierungen für diese Seite erfolgen einmal im Monat.",
-	"restriction-level-editautoreviewprotected": "geschützt (nur aktive Sichter)"
+	"restriction-level-editautoreviewprotected": "geschützt (nur aktive Sichter)",
+	"protect-level-editautopatrolprotected": "Nur passiven Kontrolleuren erlauben",
+	"restriction-level-editautopatrolprotected": "geschützt (nur passive Kontrolleure)",
+	"right-editautopatrolprotected": "Seitenbearbeitung geschützt als \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "Seitenbearbeitung geschützt als  \"{{int:protect-level-editautopatrolprotected}}\""
 }
