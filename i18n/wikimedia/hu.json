@@ -29,6 +29,12 @@
 	"nstab-institution": "Intézmény",
 	"nstab-sequence": "Sorozat",
 	"nstab-timedtext": "Időzített szöveg",
+	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Másik szócikket próbálok ►",
+	"gettingstarted-task-toolbar-no-suggested-page-wikipedia": "Sajnos most éppen nem találunk javításra váró szócikkeket. Próbálkozz később, vagy bővítsd ki a meglévő szócikkeket valamilyen téged érdeklő témában.",
+	"gettingstarted-task-copyedit-toolbar-description-wikipedia": "Ebben a szócikkben javításra váró helyesírási vagy nyelvtani hibák vannak.",
+	"gettingstarted-task-copyedit-toolbar-try-another-title-wikipedia": "Ugrás egy találomra választott szócikkre, ahol korrektúrázandó szöveg van.",
+	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "Ezek a dobozok jelzik, hogy milyen problémák vannak a szócikkel. Nem kell minddel foglalkoznod, csak csináld azt, amihez kedved van.",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "Teljes szócikk szerkesztése…",
 	"group-image-reviewer": "képellenőrzők",
 	"group-image-reviewer-member": "képellenőrző",
 	"grouppage-image-reviewer": "{{ns:project}}:Képellenőrzők",
@@ -213,5 +219,6 @@
 	"right-extendedconfirmed": "korlátozott lapok szerkesztése",
 	"wikimedia-centralauth-contribs-locked": "Ezt a fiókot globálisan zárolták.\nTovábbi információkért lásd a [[m:Special:CentralAuth/$1|globális fiók adatait]].",
 	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben",
-	"wikimedia-cookiestatement": "Sütinyilatkozat"
+	"wikimedia-cookiestatement": "Sütinyilatkozat",
+	"querypage-updates-half-monthly": "Ennek a lapnak a frissítései havi kétszer futnak."
 }

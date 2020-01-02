@@ -67,7 +67,7 @@
 	"wm-license-gpl-text": "Bu çalışma bir [[{{int:wm-license-free-software-wiki-link}}|özgür yazılımdır]]; [[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]] tarafından yayınlanan '''[[{{int:wm-license-gpl-wiki-link}}|GNU Genel Kamu Lisansı]]''' altında veya sürüm 2 lisansı ya da sonraki herhangi bir lisan sürümü uyarınca; bu çalışmayı dağıtabilir ve/veya değiştirebilirsiniz. Bu çalışma faydalı olacağı ümidiyle, ancak belirli bir amaç için '''uygunluk''' veya '''ticari''' bir amaç dahil olmak üzere '''herhangi bir garanti''' verilmeden dağıtılmıştır. Detaylı bilgi için [{{int:wm-license-gpl-2-full-link}} sürüm 2] ve [{{int:wm-license-gpl-3-full-link}} GNU Gene Kamu Lisansı sürüm 3] sayfalarına bakabilirsiniz.",
 	"wm-license-gpl-wiki-link": "w:tr:GNU Genel Kamu Lisansı",
 	"wm-license-information-table-summary": "Dosya hakkında tüm bilgileri sağlayan, ne gösterdiğini ve nasıl yapıldığını gösteren, telif durumunu ve kaynağını içeren, ölçün bir tablo",
-	"wm-license-information-description": "Tanım",
+	"wm-license-information-description": "Açıklama",
 	"wm-license-information-description-missing": "Bu dosyanın '''açıklaması''' yok, ve diğer bilgileri eksik olabilir.",
 	"wm-license-information-description-missing-request": "Lütfen bu dosyaya anlamlı bir açıklama ekleyin.",
 	"wm-license-information-source": "Kaynak",

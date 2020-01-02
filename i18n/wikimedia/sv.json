@@ -329,5 +329,8 @@
 	"group-oathauth-tester": "Testare av två-faktorautentisering",
 	"group-oathauth-tester-member": "{{GENDER:$1|testare av tvåfaktorsautentisering}}",
 	"querypage-updates-half-monthly": "Uppdateringar för denna sida körs två gånger i månaden.",
-	"querypage-updates-monthly": "Uppdateringar för denna sida körs en gång i månaden."
+	"querypage-updates-monthly": "Uppdateringar för denna sida körs en gång i månaden.",
+	"protect-level-editautopatrolprotected": "Tillåt endast autopatrullerare",
+	"right-editautopatrolprotected": "Redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\""
 }
