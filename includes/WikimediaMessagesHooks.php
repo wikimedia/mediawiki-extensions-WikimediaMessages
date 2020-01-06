@@ -1581,7 +1581,7 @@ class WikimediaMessagesHooks {
 		$config = $special->getConfig();
 		if (
 			$config->get( 'WikimediaMessagesPartialBlockBanner' ) &&
-			!$config->get( 'EnablePartialBlocks' )
+			$config->get( 'EnablePartialBlocks' )
 		) {
 			$preHtml = self::buildSpecialBlockBanner( $output->getLanguage() );
 			$output->prependHTML( $preHtml );
