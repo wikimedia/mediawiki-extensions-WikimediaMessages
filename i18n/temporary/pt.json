@@ -5,7 +5,8 @@
 			"Malafaya",
 			"Vitorvicentevalente",
 			"Opraco",
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Mansil"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens temporárias específicas da Wikimedia",
@@ -15,5 +16,7 @@
 	"hello": "Olá",
 	"please-translate": "Ajude a traduzir para a sua língua, por favor",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
-	"specialblockfeedback": "Comentários"
+	"specialblockfeedback": "Comentários",
+	"specialblockbannermessage": "A funcionalidade de bloqueios parciais será instalada na maioria das wikis a 6 de janeiro e a interface do utilizador mudará.",
+	"specialblockbannercta": "Saber mais"
 }

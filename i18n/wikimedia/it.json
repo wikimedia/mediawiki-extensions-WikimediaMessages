@@ -26,7 +26,8 @@
 			"Fringio",
 			"Aquatech",
 			"Sarah Bernabei",
-			"Matma Rex"
+			"Matma Rex",
+			"Dansita"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -273,7 +274,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Questa pagina è stata caricata abbastanza velocemente?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Per maggiori informazioni, vedi la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement dichiarazione sulla privacy] nei sondaggi.",
 	"protect-level-editautopatrolprotected": "Consentito solo agli autoverificati",
-	"restriction-level-editautopatrolprotected": "protetta autoverificato",
+	"restriction-level-editautopatrolprotected": "autoverificato protetto",
 	"right-editautopatrolprotected": "Modifica pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "modificare pagine protette con \"{{int:protect-level-editautopatrolprotected}}\""
 }

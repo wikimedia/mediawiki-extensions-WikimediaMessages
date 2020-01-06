@@ -332,6 +332,14 @@
 	"passwordpolicies-policy-blockattacker": "Normas para palavras-passe, destinadas à mitigação de ataques conhecidos, onde a divulgação de pormenores impediria a sua mitigação",
 	"technical-maintenance-soon": "A manutenção técnica será realizada em breve:",
 	"technical-maintenance-edit": "Durante este período, poderá não conseguir gravar nenhuma edição.",
+	"group-oathauth-tester": "Testadores da autenticação de dois fatores",
+	"group-oathauth-tester-member": "{{GENDER:$1|testador da autenticação de dois fatores|testadora da autenticação de dois fatores}}",
+	"querypage-updates-half-monthly": "As atualizações para esta página estão a ser executadas duas vezes por mês.",
+	"querypage-updates-monthly": "As atualizações para esta página estão a ser executadas uma vez por mês.",
 	"protect-level-editautoreviewprotected": "Permitir apenas autorrevisores",
-	"restriction-level-editautoreviewprotected": "apenas autorrevisores"
+	"restriction-level-editautoreviewprotected": "apenas autorrevisores",
+	"protect-level-editautopatrolprotected": "Permitir apenas autopatrulhadores",
+	"restriction-level-editautopatrolprotected": "protegida para autopatrulhadores",
+	"right-editautopatrolprotected": "Editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\""
 }

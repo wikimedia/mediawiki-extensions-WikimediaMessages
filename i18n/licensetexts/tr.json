@@ -74,7 +74,7 @@
 	"wm-license-information-source-missing": "Bu dosyanın '''kaynak''' bilgileri bulunmamaktadır.",
 	"wm-license-information-source-missing-request": "Lütfen bu dosyanın tanımını değiştirerek bir kaynak ekleyin.",
 	"wm-license-information-date": "Tarih",
-	"wm-license-information-author": "Üreten",
+	"wm-license-information-author": "Yazar",
 	"wm-license-information-author-missing": "Bu dosyanın '''yazar''' bilgisine ihtiyacı vardır.",
 	"wm-license-information-permission": "İzin",
 	"wm-license-information-permission-reusing-text": "Bu dosyanın tekrar kullanımı",
