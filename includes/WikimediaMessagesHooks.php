@@ -1609,7 +1609,8 @@ class WikimediaMessagesHooks {
 			[],
 			( new OOUI\ButtonWidget( [
 				'label' => ( new Message( 'specialblockbannercta', [], $language ) )->escaped(),
-				'href' => 'https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Blocking_users',
+				'href' => 'https://meta.wikimedia.org/wiki/Special:MyLanguage/'
+					. 'Community_health_initiative/Partial_blocks',
 				'flags' => [
 					'primary',
 					'progressive',

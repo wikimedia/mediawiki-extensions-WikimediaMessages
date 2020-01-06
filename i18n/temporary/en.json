@@ -10,6 +10,6 @@
 	"please-translate": "Please help translate to your language",
 	"thank-you": "{{GENDER:$1|Thank you.}}",
 	"specialblockfeedback": "Feedback",
-	"specialblockbannermessage": "The partial blocks feature will be deployed on most wikis on January 6th and the user interface will change.",
+	"specialblockbannermessage": "You now have access to partial blocks on this wiki. This change allows you to make per-page and per-namespace blocks as necessary.",
 	"specialblockbannercta": "Learn more"
 }
