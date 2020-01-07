@@ -25,6 +25,6 @@
 	"please-translate": "Aidez-nous à traduire dans votre langue",
 	"thank-you": "{{GENDER:$1|Merci.}}",
 	"specialblockfeedback": "Commentaire",
-	"specialblockbannermessage": "La fonctionnalité de blocage partiel sera déployée sur la plupart des wikis le 6 janvier et l’interface utilisateur changera.",
+	"specialblockbannermessage": "Vous avez maintenant accès aux blocages partiels sur ce wiki. Cette modification vous permet de faire des blocages par page et par espace de noms, selon ce qui est nécessaire.",
 	"specialblockbannercta": "En savoir plus"
 }
