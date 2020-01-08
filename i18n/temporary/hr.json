@@ -12,6 +12,6 @@
 	"hello": "Bok",
 	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
-	"specialblockbannermessage": "Mogućnost parcijalnog blokiranja bit će dostupna na većini wikija od 6. siječnja, te će doći do promjene korisničkog sučelja.",
+	"specialblockbannermessage": "Mogućnost parcijalnog blokiranja omogućena je odsada na Vašem wikiju. Ta promjena dopušta Vam zadavati blokiranja samo određene stranice odnosno samo određenoga imenskoga prostora, a prema potrebi takva zadavanja.",
 	"specialblockbannercta": "Saznaj više"
 }

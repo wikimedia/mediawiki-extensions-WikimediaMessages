@@ -3,7 +3,8 @@
 		"authors": [
 			"Meno25",
 			"ديفيد",
-			"علاء"
+			"علاء",
+			"محمد أحمد عبد الفتاح"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا مؤقتة محددة",
@@ -14,5 +15,6 @@
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
 	"specialblockfeedback": "التغذية الراجعة",
+	"specialblockbannermessage": "يمكن تطبيق المنع الجزئي في هذا الويكي. هذا التغيير سيسمح لك بتنفيذ منع محصور بنطاق معين أو بصفحة معينة.",
 	"specialblockbannercta": "معرفة المزيد"
 }

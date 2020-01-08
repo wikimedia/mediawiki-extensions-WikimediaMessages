@@ -19,6 +19,6 @@
 	"please-translate": "Por favor, ajude a traduzir para o seu idioma",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
 	"specialblockfeedback": "Comentário",
-	"specialblockbannermessage": "O recurso de bloqueios parciais será implantado na maioria das wikis em 6 de janeiro e a interface do usuário será alterada.",
+	"specialblockbannermessage": "Agora você tem acesso a bloqueios parciais neste wiki. Essa alteração permite criar blocos por página e por espaço nominal, conforme necessário.",
 	"specialblockbannercta": "Saiba mais"
 }

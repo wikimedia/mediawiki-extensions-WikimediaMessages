@@ -5,7 +5,8 @@
 			"Guycn2",
 			"Yona b",
 			"ערן",
-			"Or"
+			"Or",
+			"IKhitron"
 		]
 	},
 	"wikimediamessages-desc": "הודעות זמניות ייחודיות לוויקימדיה",
@@ -16,6 +17,6 @@
 	"please-translate": "אנא סייעו בתרגום הדף",
 	"thank-you": "{{GENDER:$1|תודה רבה.}}",
 	"specialblockfeedback": "משוב",
-	"specialblockbannermessage": "אפשרות חסימה חלקית תועלה לרוב אתרי הוויקי ב־6 בינואר והממשק למשתמש ישתנה.",
+	"specialblockbannermessage": "מעכשיו קיימת אפשרות לחסימה חלקית בוויקי הזה. השינוי מאפשר חסימות של עמוד בודד או של מרחב שם בודד במידת הצורך.",
 	"specialblockbannercta": "מידע נוסף"
 }
