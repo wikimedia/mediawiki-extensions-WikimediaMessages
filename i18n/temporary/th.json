@@ -15,6 +15,6 @@
 	"please-translate": "กรุณาช่วยแปลเป็นภาษาของคุณ",
 	"thank-you": "{{GENDER:$1|ขอบคุณ}}",
 	"specialblockfeedback": "ข้อแนะนำติชม",
-	"specialblockbannermessage": "คุณลักษณะ Partial blocks จะเริ่มให้ใช้งานบนวิกิส่วนใหญ่ในวันที่ 6 มกราคมนี้ และหน้าตาส่วนผู้ใช้จะเปลี่ยนไป",
+	"specialblockbannermessage": "ในตอนนี้คุณมีสิทธิ์เข้าถึง Partial blocks บนวิกินี้ได้แล้ว การเปลี่ยนแปลงนี้ทำให้คุณสามารถสร้างการบล็อครายหน้าหรือบล็อครายเนมสเปซได้",
 	"specialblockbannercta": "ดูเพิ่มเติม"
 }
