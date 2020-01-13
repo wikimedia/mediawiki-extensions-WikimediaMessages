@@ -5,5 +5,5 @@
 		]
 	},
 	"createacct-helpusername-url": "{{ns:Project}}:Pravilnik_o_uporabniških_imenih",
-	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletišča smo nedavno omejili na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Oglejte si [[m:Creation of separate user group for editing sitewide CSS/JS|Ustvarjanje ločene uporabniške skupine za urejanje CSS/JS spletišča]] za več informacij."
+	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletišča smo nedavno omejili na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Oglejte si [[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS|Ustvarjanje ločene uporabniške skupine za urejanje CSS/JS spletišča]] za več informacij."
 }
