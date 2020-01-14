@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khing"
+			"Khing",
+			"SawJaemin"
 		]
 	},
+	"wm-license-cc-attribution": "သူၣ်သ့ကံၢ်စီ",
 	"wm-license-cc-free": "နကလီ:",
 	"wm-license-cc-free-to-share-header": "ဟ့ၣ်နီၤခီလီၤ",
 	"wm-license-cc-conditions-attribution-header": "သူၣ်သ့ကံၢ်စီ"
