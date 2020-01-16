@@ -10,5 +10,7 @@
 	"group-oversight": "adatvédelmi biztosok",
 	"group-oversight-member": "{{GENDER:$1|adatvédelmi biztos}}",
 	"please-translate": "Segíts lefordítani a saját nyelvedre",
-	"specialblockfeedback": "Visszajelzés"
+	"specialblockfeedback": "Visszajelzés",
+	"specialblockbannermessage": "Mostantól lehetséges a részleges blokkolás ezen a wikin. Ez a változtatás lehetővé teszi szükség esetén kizárólag adott lapok és/vagy névterek szerkesztésétől való eltiltást.",
+	"specialblockbannercta": "További információk"
 }
