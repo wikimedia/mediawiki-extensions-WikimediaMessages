@@ -10,7 +10,8 @@
 			"Liridon",
 			"Ammartivari",
 			"Kosovastar",
-			"Bjakupi"
+			"Bjakupi",
+			"Klein Muçi"
 		]
 	},
 	"wikimediamessages-desc": "Mesazhet specifike të Wikimedia-s",
@@ -114,7 +115,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikicitate",
 	"wikibase-sitelinks-wikisource": "Wikiburime",
 	"wikibase-sitelinks-wikivoyage": "Wikiudhëtim",
-	"wikimedia-developers": "Zhvilluesit",
+	"wikimedia-developers": "Programuesit",
 	"wikimedia-globalblocking-ipblocked": "'''IP adresa juaj është [[m:Special:MyLanguage/Global blocks|bllokuar në të gjitha wiki-t]].'''\n\nBllokimi u bë nga $1 ($2).\nArsyeja e dhënë është ''$3''.\n\n* Fillimi i bllokimit: $4\n* Skadimi i bllokimit: $5\n\nIP adresa juaj aktuale është $6.\nJu lutem Ju lutemi përfshini këto detaje në çdo pyetje që do bëni.\n\nNëse ju mendoni se jeni bllokuar gabimisht, ju mund të gjeni informacion shtesë dhe udhëzime në rregullat globale  [[m:Special:MyLanguage/No open proxies|No open proxies]].\nPërndryshe, për të diskutuar bllokimin ju lutem [[m:Steward requests/Global|posto një kërkesë për shqyrtim më Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Një ose më shumë proxy servers të përdorura nga kërkesa juaj është [[m:Special:MyLanguage/Global blocks|bllokuar globalisht]].'''\n\nBllokimi u bë nga $1 ($2).\nArsyeja e dhënë ''$3''.\n\n* Fillimi i bllokimit: $4\n* Skadimi i bllokimit: $5\n\nAdresa proxy e bllokuar ishte $6.\nJu lutem Ju lutemi përfshini këto detaje në çdo pyetje që do bëni.\n\nNëse ju mendoni se jeni bllokuar gabimisht, ju mund të gjeni informacion shtesë dhe udhëzime në rregullat globale  [[m:Special:MyLanguage/No open proxies|No open proxies]].\nPërndryshe, për të diskutuar bllokimin ju lutem  [[m:Steward requests/Global|posto një kërkesë për shqyrtim më Meta-Wiki]].",
 	"eri-rcfilters-tour-intro-welcome-description": "Rishiko editimet ne menyre me efikase duke perdorur filtera te rinj, mundesine qe te ruani sete te filtreve, te definuara per perdoruesit duke theksuar edhe fuqine e mesimit me makine.$1",

@@ -299,7 +299,7 @@
 	"protect-level-templateeditor": "فقط به ویرایشگران الگو و مدیران اجازه بده",
 	"action-extendedconfirmed": "ویرایش صفحات محدود شده",
 	"right-extendedconfirmed": "ویرایش صفحه‌های محدود‌شده",
-	"restriction-level-extendedconfirmed": "کاربر شناخته‌شده محافظت شد",
+	"restriction-level-extendedconfirmed": "محافظت‌شده ویژه",
 	"protect-level-extendedconfirmed": "تنها کاربران تأییدشدهٔ پایدار و مدیران",
 	"action-editeditorprotected": "ویرایش صفحات محافظت شده به عنوان \"{{int:protect-level-editeditorprotected}}\"",
 	"right-editeditorprotected": "ویرایش صفحه حفاظت‌شده به عنوان \"{{int:protect-level-editeditorprotected}}\"",

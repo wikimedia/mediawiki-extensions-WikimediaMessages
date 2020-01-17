@@ -261,7 +261,7 @@
 	"wikibase-page-schema-publisher-name": "Used in a meta tag for search engines: Wikimedia Foundation company title",
 	"wikibase-page-schema-author-name": "Used in a meta tag for search engines: Short description describing all the wonderful people that make our projects",
 	"wikibase-page-schema-publisher-logo-url": "Used in a meta tag for search engines: URL to a localised PNG (if necessary) of the wikimedia logo",
-	"wikibase-statementsection-identifiers": "Section heading on Wikidata entity pages for identifier statements.\n{{Related|wikibase-statementsection-statements}}\n{{Identical|Identifier}}",
+	"wikibase-statementsection-identifiers": "Heading for the group of identifier statements on the currently viewed item. See also the Wikidata glossary for [[m:d:Wikidata:Glossary#External_identifier|external identifiers]].",
 	"wikibase-statementsection-constraints": "Section heading on Wikidata property pages for constraint statements.\n{{Related|wikibase-statementsection-statements}}\n{{Identical|Constraint}}",
 	"wikibase-sitelinks-wikibooks": "Section heading on Wikidata item page for Wikibooks site links.\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikibooks}}",
 	"wikibase-sitelinks-wikinews": "Section heading on Wikidata item page for Wikinews site links.\n\nUse the name of the [https://www.wikivoyage.org/ Wikinews] site if it exists in your language. If an edition of Wikinews in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"news\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikinews}}",
