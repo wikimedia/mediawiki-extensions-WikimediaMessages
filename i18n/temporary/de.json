@@ -3,7 +3,8 @@
 		"authors": [
 			"Kghbln",
 			"Metalhead64",
-			"Schniggendiller"
+			"Schniggendiller",
+			"WikiBayer"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht Wikimedia-spezifische temporäre Nachrichten",
@@ -14,5 +15,5 @@
 	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen",
 	"thank-you": "{{GENDER:$1|Vielen Dank.}}",
 	"specialblockfeedback": "Rückmeldung",
-	"specialblockbannermessage": "Du hast jetzt Zugriff auf teilweise Sperren in diesem Wiki. Mit dieser Änderung kannst du nach Bedarf Benutzer pro Seite und pro Namsnraum sperren."
+	"specialblockbannermessage": "Du hast jetzt Zugriff auf teilweise Sperren in diesem Wiki. Mit dieser Änderung kannst du nach Bedarf Benutzer pro Seite und pro Namensraum sperren."
 }

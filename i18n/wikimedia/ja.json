@@ -224,7 +224,6 @@
 	"wikimedia-copyrightwarning": "変更内容を保存すると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ライセンス]および [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。\nまた、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\" title=\"クリエイティブ・コモンズ　表示 - 継承 3.0 非移植 (CC BY-SA 3.0)\" target=\"_blank\">CC BY-SA 3.0</a>及び<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDLの定義\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ウィキデータ",
-	"wikibase-statementsection-identifiers": "識別子",
 	"wikibase-statementsection-constraints": "制約",
 	"wikibase-sitelinks-wikibooks": "ウィキブックス",
 	"wikibase-sitelinks-wikinews": "ウィキニュース",

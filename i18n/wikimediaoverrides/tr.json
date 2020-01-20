@@ -4,7 +4,8 @@
 			"Nemo bis",
 			"Hayri özkurt",
 			"Incelemeelemani",
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"SwornToTranslate29"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bu wiki ziyaretçisini IP adresinizi kullanarak, geçen gün {{PLURAL:$1|1 hesap|$1 hesap}} oluşturmuş ve bu süre içinde izin verilen maksimum tutardır.\nSonuç olarak, bu IP adresini kullanan ziyaretçiler şu anda daha fazla hesap oluşturamaz.\n\nWikimedia projelerine katkıda bulunmanın odak olduğu bir etkinlikte bulunuyorsanız, bu sorunun çözülmesine yardımcı olmak için lütfen [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP kapağının geçici olarak kaldırılması istenme]] bölümüne bakın.",
@@ -30,5 +31,6 @@
 	"wikimedia-sulrenamewarning-usenew": "Şu andan itibaren, <strong>$1</strong> yeni kullanıcı adınızı kullanarak giriş yapmanız gerekiyor. Yeni kullanıcı adınız her Wikimedia projesinde size özeldir ve bir projeye giriş yaptıysanız ve başka birini ziyaret ederseniz, hesabınız sizinle birlikte taşınacaktır. [[:m:Special:MyLanguage/Help:Unified_login|Birleşik giriş yardım sayfası]], tek kullanıcılı giriş hakkında ve ayrıca sık sorulan soruların bir listesi hakkında daha fazla bilgiye sahiptir. E-posta adresinizi güncellemeniz veya [[Special:Preferences|tercihler]] bölümündeki şifrenizi değiştirmeniz gerekirse, şimdi bunu yapmak için iyi bir zaman olabilir.\n\nFarklı bir hesap adı istemek için [[Special:GlobalRenameRequest]] adresini ziyaret edin. Wikimedia projelerine katıldığınız için teşekkür ederiz.",
 	"wikimedia-ipb-confirmhideuser": "\"Kullanıcıyı gizle\" etkin olarak bir kullanıcıyı engellemek üzeresiniz. Bu, kullanıcının tüm listelerdeki adını gizler ve bu wikideki girişleri kaydeder. Bunu yapmak istediğinizden emin misiniz?\n\nKullanıcı adının tüm Wikimedia wikilerinde gizlenmesi gerekiyorsa, lütfen [[m:Special:EmailUser/Wikimedia_Stewards|wiki e-postada]] ile veya <kbd>stewards@wikimedia.org</kbd> adresinden [[m:Special:MyLanguage/Stewards|kahyalar]] ile iletişime geçin. Teşekkür ederiz.",
 	"wikimedia-urlshortener-disabled": "Kısa bağlantılar yalnızca meta.wikimedia.org adresindeki [[:m:Special:UrlShortener|Special:UrlShortener]] sayfasından oluşturulabilir.",
-	"wikimedia-apierror-urlshortener-disabled": "Kısa bağlantılar sadece meta.wikimedia.org wikiye yapılan bir çağrı ile oluşturulabilir."
+	"wikimedia-apierror-urlshortener-disabled": "Kısa bağlantılar sadece meta.wikimedia.org wikiye yapılan bir çağrı ile oluşturulabilir.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "Kısa bağlantılar sadece meta.wikimedia.org wikiye yapılan bir atıf ile oluşturulabilir."
 }

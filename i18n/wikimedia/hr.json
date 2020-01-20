@@ -205,6 +205,8 @@
 	"group-wmf-supportsafety": "Članovi tima za podršku i sigurnost Zaklade Wikimedija",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|član tima za podršku i sigurnost Zaklade Wikimedija|članica tima za podršku i sigurnost Zaklade Wikimedija}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Služba za podršku i sigurnost Zaklade Wikimedija",
+	"group-wmf-ops-monitoring": "WMF-ovi nadzornici operacija",
+	"group-wmf-ops-monitoring-member": "{{GENDER:$1|WMF-ov nadzornik operacija|WMF-ova nadzornica operacija}}",
 	"tag-emoji": "smješci emoji",
 	"tag-emoji-description": "U uporabi: globalni filtar zloporaba 110.",
 	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
@@ -215,7 +217,6 @@
 	"wikimedia-copyrightwarning": "Snimajući promjene, prihvaćate [https://foundation.wikimedia.org/wiki/Terms_of_Use Uvjete uporabe (''Terms of Use'')] i neopozivo ste suglasni da svoje doprinose objavljujete pod uvjetima iz licencije [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Imenovanje/Dijeli pod istim uvjetima 3.0] i [https://www.gnu.org/copyleft/fdl.html GFDL]. Slažete se kako je poveznica ili URL dovoljna razina pripisivanja odnosno označivanja Vaših doprinosa na stranicama kojima ste pridonosili, a sukladno licenciji Creative Commons.",
 	"wikibase-repo-name": "Wikipodatci",
 	"wikibase-page-schema-author-name": "Doprinositelji projektima Wikimedije",
-	"wikibase-statementsection-identifiers": "Identifikatori",
 	"wikibase-statementsection-constraints": "Uvjeti",
 	"wikibase-sitelinks-wikibooks": "Wikiknjige",
 	"wikibase-sitelinks-wikinews": "Wijesti",
@@ -292,5 +293,7 @@
 	"right-viewdeletedfile": "Vidi pobrisane datoteke i stranice u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Izbori za članove Skrbničkoga odbora Zaklade Wikimedija",
 	"wikimedia-statslink": "Statistika",
-	"wikimedia-cookiestatement": "Izjava o kolačićima"
+	"wikimedia-cookiestatement": "Izjava o kolačićima",
+	"group-oathauth-tester": "Ispitivači dvofaktorske autentifikacije",
+	"group-oathauth-tester-member": "{{GENDER:$1|ispitivač dvofaktorske autentifikacije|ispitivačica dvofaktorske autentifikacije}}"
 }

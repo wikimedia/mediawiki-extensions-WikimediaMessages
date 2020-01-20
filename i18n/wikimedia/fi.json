@@ -184,7 +184,6 @@
 	"wikimedia-copyrightwarning": "Tallentamalla muutokset sitoudut noudattamaan [https://foundation.wikimedia.org/wiki/Terms_of_Use käyttöehtoja] ja hyväksyt sen, että muokkauksesi julkaistaan peruuttamattomasti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 -lisenssin] ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL:n] ehtojen mukaan.\nHyväksyt sen, että hyperlinkki tai URL riittää tekijän nimeämiseksi Creative Commons -lisenssin mukaisesti.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fi\" title=\"Creative Commons Nimeä-JaaSamoin     -lisenssin määritelmä\" target=\"_blank\">CC BY-SA 3.0</a> ja <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL:n määritelmä\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Wikidata",
-	"wikibase-statementsection-identifiers": "Tunnisteet",
 	"wikibase-sitelinks-wikibooks": "Wikikirjasto",
 	"wikibase-sitelinks-wikinews": "Wikiuutiset",
 	"wikibase-sitelinks-wikiquote": "Wikisitaatit",
@@ -248,6 +247,7 @@
 	"eri-rcfilters-tour-confirm-title": "Uudet suodattimet ovat nyt käytössä",
 	"wikimedia-centralauth-contribs-locked": "Tämä käyttäjätunnus on lukittu järjestelmänlaajuisesti.\nKatso [[m:Special:CentralAuth/$1|järjestelmänlaajuisen tunnuksen tiedot]] lisätietoja varten.",
 	"securepoll-dblist-securepollglobal": "Hallituksen vaalit",
+	"wikimedia-statslink": "Tilastot",
 	"wikimedia-cookiestatement": "Evästekäytäntö",
 	"ext-quicksurveys-performance-internal-survey-question": "Latautuiko tämä sivu tarpeeksi nopeasti?"
 }

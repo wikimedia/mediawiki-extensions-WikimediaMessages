@@ -257,7 +257,6 @@
 	"wikimedia-copyrightwarning": "Al guardar los cambios, aceptas los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/es Términos de uso], y aceptas irrevocablemente publicar tus contribuciones bajo la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License licencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAceptas que un hipervínculo o URL es atribución suficiente bajo la licencia Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\" title=\"Definición de la licencia Creative Commons Atribución-CompartirIgual\" target=\"_blank\">CC BY-SA 3.0</a> y <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definición de GFDL\" target=\"_blank\">GFDL (en inglés)</a>",
 	"wikibase-page-schema-author-name": "Colaboradores de los proyectos Wikimedia",
-	"wikibase-statementsection-identifiers": "Identificadores",
 	"wikibase-statementsection-constraints": "Restricciones",
 	"wikibase-sitelinks-wikibooks": "Wikilibros",
 	"wikibase-sitelinks-wikinews": "Wikinoticias",
