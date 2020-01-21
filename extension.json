@@ -101,10 +101,5 @@
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
 	},
-	"config": {
-		"WikimediaMessagesPartialBlockBanner": {
-			"value": false
-		}
-	},
 	"manifest_version": 2
 }
