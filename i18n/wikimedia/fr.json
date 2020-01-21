@@ -63,7 +63,8 @@
 			"Pols12",
 			"Matma Rex",
 			"Niridya",
-			"Derugon"
+			"Derugon",
+			"HeartsDo"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -140,7 +141,7 @@
 	"group-eventparticipant": "Participants à l’événement",
 	"group-eventparticipant-member": "{{GENDER:$1|participant|participante}} à l’événement",
 	"grouppage-eventparticipant": "{{ns:project}}:Event participants",
-	"group-extendedconfirmed": "Vue étendue des utilisateurs confirmés",
+	"group-extendedconfirmed": "Utilisateurs étendus confirmés",
 	"group-extendedconfirmed-member": "{{GENDER:$1|utilisateur étendu confirmé|utilisatrice étendue confirmée}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:Éditeurs étendus confirmés",
 	"group-extendedmover": "Renommeurs étendus",

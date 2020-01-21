@@ -6,9 +6,14 @@
 			"Mirzali"
 		]
 	},
+	"wikimediamessages-desc": "Wikipedia rê xas mesacê şenıki",
 	"grouppage-oversight": "{{ns:project}}: çımsernayox",
 	"group-oversight": "Pawıteri",
-	"group-oversight-member": "çımsernayox",
+	"group-oversight-member": "{{GENDER:$1|çımsernayoğ}}",
 	"hello": "Merheba",
-	"specialblockfeedback": "Peyderıştış"
+	"please-translate": "Kerem kerê zıwanê ho rê tadayışi rê pheşti bıdê",
+	"thank-you": "{{GENDER:$1|teşekur keme }}",
+	"specialblockfeedback": "Peyderıştış",
+	"specialblockbannermessage": "Bıni na wiki sero tay blokan rê resayışê to esto. No vurnayış pela sero u cay nameyan sera blokan hewl usula ronayışi rê rehatey vırazeno.",
+	"specialblockbannercta": "Tayêna bımuse"
 }
