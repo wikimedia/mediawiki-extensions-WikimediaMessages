@@ -254,6 +254,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Добре дошли в подобреното филтриране на списъка за наблюдение",
 	"wikimedia-centralauth-contribs-locked": "Тази сметка е глобално заключена.\nПовече информация ще намерите в [[m:Special:CentralAuth/$1|подробностите за глобалната сметка]].",
 	"right-viewdeletedfile": "Преглеждане на изтрити файлове и страници в именните пространства {{ns:file}} и {{ns:file_talk}}",
+	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Използване на „бисквитки“",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "За повече информация, вижте[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement защитата на личните данни] в анкетата.",
 	"passwordpolicies-policy-blockattacker": "Политика по отношение на паролите за намаляване на възможността за познати атаки, при която разкриването на повече информация ще попречи на намаляването на тази възможност."
