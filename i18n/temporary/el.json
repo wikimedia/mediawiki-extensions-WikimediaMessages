@@ -8,6 +8,5 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Επιτήρηση",
 	"group-oversight": "Επιτηρητές",
-	"group-oversight-member": "{{GENDER:$1|επιτηρητής|επιτηρήτρια}}",
-	"specialblockbannermessage": "Τώρα έχετε πρόσβαση σε εν μέρει φραγές σε αυτό το wiki. Αυτή η αλλαγή σας επιτρέπει να βάλετε φραγή κατά σελίδα και κατά ονοματοχώρο όπου είναι απαραίτητο."
+	"group-oversight-member": "{{GENDER:$1|επιτηρητής|επιτηρήτρια}}"
 }

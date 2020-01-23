@@ -18,7 +18,5 @@
 	"hello": "Привіт",
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
 	"thank-you": "{{GENDER:$1|Дякуємо.}}",
-	"specialblockfeedback": "Зворотний зв'язок",
-	"specialblockbannermessage": "Функція часткових блокувань запрацює в більшості вікі із 6 січня, а інтерфейс користувача зміниться.",
-	"specialblockbannercta": "Дізнатися більше"
+	"specialblockfeedback": "Зворотний зв'язок"
 }

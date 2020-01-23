@@ -19,7 +19,5 @@
 	"hello": "Witaj",
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
 	"thank-you": "{{GENDER:$1|Dziękuję.}}",
-	"specialblockfeedback": "Opinie",
-	"specialblockbannermessage": "Masz teraz dostęp do częściowych blokad na tej wiki. Zmiana ta umożliwia ci nakładanie blokad na poszczególne strony lub przestrzenie nazw, gdy zajdzie taka potrzeba.",
-	"specialblockbannercta": "Dowiedz się więcej"
+	"specialblockfeedback": "Opinie"
 }

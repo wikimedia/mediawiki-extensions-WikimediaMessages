@@ -17,7 +17,5 @@
 	"hello": "Hallo",
 	"please-translate": "Help met het vertalen naar uw taal",
 	"thank-you": "{{GENDER:$1|Dank u.}}",
-	"specialblockfeedback": "Terugkoppeling",
-	"specialblockbannermessage": "De functie voor gedeeltelijke blokkades wordt op 6 januari op de meeste wiki's uitgerold, en de gebruikersinterface zal veranderen.",
-	"specialblockbannercta": "Meer informatie"
+	"specialblockfeedback": "Terugkoppeling"
 }

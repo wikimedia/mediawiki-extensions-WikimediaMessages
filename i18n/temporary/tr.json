@@ -15,7 +15,5 @@
 	"hello": "Merhaba",
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
 	"thank-you": "{{GENDER:$1|Teşekkür ederiz.}}",
-	"specialblockfeedback": "Geri bildirim",
-	"specialblockbannermessage": "Artık bu viki üzerindeki kısmi bloklara erişiminiz var. Bu değişiklik, sayfa başına ve ad alanı başına blokları gerektiği gibi oluşturmanıza olanak tanır.",
-	"specialblockbannercta": "Daha fazla bilgi"
+	"specialblockfeedback": "Geri bildirim"
 }

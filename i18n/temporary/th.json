@@ -14,7 +14,5 @@
 	"hello": " สวัสดี",
 	"please-translate": "กรุณาช่วยแปลเป็นภาษาของคุณ",
 	"thank-you": "{{GENDER:$1|ขอบคุณ}}",
-	"specialblockfeedback": "ข้อแนะนำติชม",
-	"specialblockbannermessage": "ในตอนนี้คุณมีสิทธิ์เข้าถึง Partial blocks บนวิกินี้ได้แล้ว การเปลี่ยนแปลงนี้ทำให้คุณสามารถสร้างการบล็อครายหน้าหรือบล็อครายเนมสเปซได้",
-	"specialblockbannercta": "ดูเพิ่มเติม"
+	"specialblockfeedback": "ข้อแนะนำติชม"
 }

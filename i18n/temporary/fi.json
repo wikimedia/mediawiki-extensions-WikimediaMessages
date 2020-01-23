@@ -15,6 +15,5 @@
 	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
 	"thank-you": "{{GENDER:$1|Kiitos.}}",
-	"specialblockfeedback": "Palaute",
-	"specialblockbannermessage": "Osittaiset estot -toiminnallisuus otetaan käyttöön suurimmassa osaa wikeistä 6. tammikuuta, jonka myötä käyttöliittymä muuttuu."
+	"specialblockfeedback": "Palaute"
 }

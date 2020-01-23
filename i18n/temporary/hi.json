@@ -13,7 +13,5 @@
 	"hello": "नमस्ते!",
 	"please-translate": "कृपया अपनी भाषा में अनुवाद करने में सहायता करें",
 	"thank-you": "{{GENDER:$1|धन्यवाद।}}",
-	"specialblockfeedback": "प्रतिक्रिया",
-	"specialblockbannermessage": "आंशिक ब्लॉक सुविधा को ६ जनवरी को अधिकांश विकियों पर तैनात किया जाएगा और उपयोगकर्ता इंटरफ़ेस बदल जाएगा।",
-	"specialblockbannercta": "अधिक जानें"
+	"specialblockfeedback": "प्रतिक्रिया"
 }

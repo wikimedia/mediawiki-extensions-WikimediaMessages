@@ -18,7 +18,5 @@
 	"hello": "您好",
 	"please-translate": "請協助翻譯成您使用的語言",
 	"thank-you": "{{GENDER:$1|感謝您。}}",
-	"specialblockfeedback": "意見回饋",
-	"specialblockbannermessage": "您現在擁有此維基上部分封鎖的權限，此更改允許您在必要時能依照頁面或命名空間進行封鎖。",
-	"specialblockbannercta": "了解更多"
+	"specialblockfeedback": "意見回饋"
 }

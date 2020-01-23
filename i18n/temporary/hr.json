@@ -11,7 +11,5 @@
 	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
 	"hello": "Bok",
 	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
-	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
-	"specialblockbannermessage": "Mogućnost parcijalnog blokiranja omogućena je odsada na Vašem wikiju. Ta promjena dopušta Vam zadavati blokiranja samo određene stranice odnosno samo određenoga imenskoga prostora, a prema potrebi takva zadavanja.",
-	"specialblockbannercta": "Saznaj više"
+	"thank-you": "{{GENDER:$1|Hvala lijepa!}}"
 }

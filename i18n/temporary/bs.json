@@ -8,7 +8,5 @@
 	"grouppage-oversight": "{{ns:project}}:Nadzor",
 	"group-oversight": "Nadzornici",
 	"group-oversight-member": "nadzornik",
-	"specialblockfeedback": "Povratne informacije",
-	"specialblockbannermessage": "Sada imate mogućnost djelimičnog blokiranja. Ono Vam omogućava da korisnicima uskratite uređivanje određenih stranica i imenskih prostora.",
-	"specialblockbannercta": "Detaljnije"
+	"specialblockfeedback": "Povratne informacije"
 }

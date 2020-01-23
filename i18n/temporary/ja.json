@@ -17,7 +17,5 @@
 	"hello": "こんにちは",
 	"please-translate": "あなたの言語への翻訳をお助けください",
 	"thank-you": "{{GENDER:$1|ありがとうございました。}}",
-	"specialblockfeedback": "フィードバック",
-	"specialblockbannermessage": "このウィキに部分ブロック機能が導入され利用できるようになりました。必要に応じてページ単位、名前空間単位などのブロックができます。",
-	"specialblockbannercta": "詳細"
+	"specialblockfeedback": "フィードバック"
 }

@@ -16,7 +16,5 @@
 	"hello": "שלום",
 	"please-translate": "אנא סייעו בתרגום הדף",
 	"thank-you": "{{GENDER:$1|תודה רבה.}}",
-	"specialblockfeedback": "משוב",
-	"specialblockbannermessage": "מעכשיו קיימת אפשרות לחסימה חלקית בוויקי הזה. השינוי מאפשר חסימות של עמוד בודד או של מרחב שם בודד במידת הצורך.",
-	"specialblockbannercta": "מידע נוסף"
+	"specialblockfeedback": "משוב"
 }

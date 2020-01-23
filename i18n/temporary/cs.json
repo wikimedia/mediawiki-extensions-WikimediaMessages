@@ -15,6 +15,5 @@
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
 	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
-	"specialblockfeedback": "Názor",
-	"specialblockbannermessage": "Funkce částečných bloků bude 6. ledna nasazena na většině wiki a uživatelské rozhraní se změní."
+	"specialblockfeedback": "Názor"
 }

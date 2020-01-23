@@ -9,7 +9,5 @@
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Ревизори",
 	"group-oversight-member": "{{GENDER:$1|ревизор}}",
-	"thank-you": "{{GENDER:$1|Благодаря.}}",
-	"specialblockbannermessage": "Вече имате достъп до частични блокирания в това уики. Тази промяна Ви позволява да блокирате възможността за редактиране на определен потребител на конкретна страница или именно пространство.",
-	"specialblockbannercta": "Научете повече"
+	"thank-you": "{{GENDER:$1|Благодаря.}}"
 }

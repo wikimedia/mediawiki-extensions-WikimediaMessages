@@ -21,7 +21,5 @@
 	"hello": "Hola",
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
 	"thank-you": "{{GENDER:$1|Gracias.}}",
-	"specialblockfeedback": "Sugerencias",
-	"specialblockbannermessage": "Ahora tienes acceso a los bloqueos parciales en este wiki. Esta prestación te permite realizar bloqueos por página o por espacio de nombres conforme sea necesario.",
-	"specialblockbannercta": "Más información"
+	"specialblockfeedback": "Sugerencias"
 }
