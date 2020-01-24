@@ -43,5 +43,10 @@
 	"contactpage-affcom-user-group-description-label": "'''Omschrijving'''\n* Vertel ons wat uw groep van plan is te doen.",
 	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Welk logo wilt u voor uw groep gebruiken?",
 	"contactpage-affcom-user-group-logo-community": "Wikimediagemeenschapslogo",
-	"contactpage-title-stewards": "Contact opnemen met de Stewards"
+	"contactpage-title-stewards": "Contact opnemen met de Stewards",
+	"contactpage-movecom-signup-username-label": "Uw gebruikersna(a)m(en)",
+	"contactpage-movecom-signup-affiliation-projects": "Wikimedia projecten (Wikipedia, Wikidata, WikiWoordenboek, etc.)",
+	"contactpage-movecom-signup-display-name": "Naam",
+	"contactpage-movecom-signup-display-username": "Gebruikersnaam",
+	"contactpage-movecom-signup-display-nameusername": "Naam en gebruikersnaam"
 }
