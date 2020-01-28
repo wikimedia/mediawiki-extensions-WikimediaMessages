@@ -4,7 +4,8 @@
 			"Nemo bis",
 			"Matěj Suchánek",
 			"Mormegil",
-			"Patriccck"
+			"Patriccck",
+			"YjM"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Uživatelé používající vaši IP adresu za poslední den vytvořili už $1 {{PLURAL:$1|účet|účty|účtů}}, což je pro toto období maximum.\nProto není v tuto chvíli dovoleno z této IP adresy zakládat další účty.\n\nPokud se účastníte události, která se zaměřuje na přispívání do projektů Wikimedia, podívejte se na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žádost o dočasné zrušení omezení pro IP adresu]], aby šlo tento problém vyřešit.",
@@ -29,5 +30,6 @@
 	"wikimedia-sulrenamewarning-usenew": "Odteď se budete muset přihlašovat svým novým uživatelským jménem <strong>$1</strong>. Vaše nové uživatelské jméno je napříč všemi projekty Wikimedia jedinečné, a pokud jste přihlášeni na jednom projektu a navštívíte jiný, ponesete si svůj účet s sebou. Více informací o sjednoceném přihlašování a často kladené otázky najdete na [[:m:Special:MyLanguage/Help:Unified_login|stránce nápovědy]]. Pokud potřebujete změnit svou e-mailovou adresu nebo heslo ve svém [[Special:Preferences|nastavení]], teď je na to správná chvíle.\n\nPokud chcete požádat o jiné uživatelské jméno, navštivte stránku [[Special:GlobalRenameRequest]]. Děkujeme, že se zapojujete do projektů Wikimedia.",
 	"wikimedia-ipb-confirmhideuser": "Chystáte se zablokovat uživatele se zapnutým příznakem „skrýt uživatele“. Tím se uživatelské jméno utají ve všech seznamech a protokolovacích záznamech. Jste si {{GENDER:|jist|jista|jisti}}, že to chcete učinit?\n\nPokud je potřeba toto uživatelské jméno skrýt na všech wiki nadace Wikimedia, kontaktujte prosím [[m:Special:MyLanguage/Stewards|stevardy]] pomocí [[m:Special:EmailUser/Wikimedia_Stewards|formuláře]] nebo na <kbd>stewards@wikimedia.org</kbd>. Děkujeme.",
 	"wikimedia-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze prostřednictvím stránky [[:m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
-	"wikimedia-apierror-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org."
+	"wikimedia-apierror-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org."
 }

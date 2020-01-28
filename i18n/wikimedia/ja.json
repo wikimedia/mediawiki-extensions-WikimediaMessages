@@ -39,7 +39,8 @@
 			"AndyAndyAndyAlbert",
 			"おはぐろ蜻蛉",
 			"Kkairri",
-			"Matma Rex"
+			"Matma Rex",
+			"ProxyMon"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -256,9 +257,9 @@
 	"upload-more-photos-of-this-monument": "このモニュメントの他の写真をアップロード",
 	"createacct-captcha-help-url": "{{ns:Project}}:アカウント申請",
 	"wikimedia-developers": "開発者",
-	"wikimedia-globalblocking-ipblocked": "'''あなたのIPアドレスは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nあなたの現在のIPアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお思いの場合、[[m:Special:MyLanguage/No open proxies|No open proxies]] というグローバル方針でより詳しい情報を読むことができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼してください]]。",
-	"wikimedia-globalblocking-ipblocked-xff": "'''あなたのリクエストで使用している1つ以上のプロキシサーバーが[[m:Special:MyLanguage/Global blocks|グローバルにブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nブロックされたプロキシのアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお思いの場合、[[m:Special:MyLanguage/No open proxies|No open proxies]] というグローバル方針でより詳しい情報を読むことができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼してください]]。",
-	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集を禁止しています。\n正当な利用者向けの情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|No open proxies]]をご覧ください。",
+	"wikimedia-globalblocking-ipblocked": "'''あなたのIPアドレスは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nあなたの現在のIPアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお考えの場合、[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]というグローバル方針でより詳しい情報を知ることができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼]]してください。",
+	"wikimedia-globalblocking-ipblocked-xff": "'''あなたのリクエストで使用している1つ以上のプロキシサーバーが[[m:Special:MyLanguage/Global blocks|グローバルにブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nブロックされたプロキシのアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお考えの場合、[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]というグローバル方針でより詳しい情報を知ることができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼]]してください。",
+	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集はブロックされます。\n正当な利用者向けの追加情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]をご覧ください。",
 	"wikimedia-mobile-terms-url": "https://m.foundation.wikimedia.org/wiki/Terms_of_Use/ja",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]",
 	"grant-checkuser": "チェックユーザー・データへのアクセス",

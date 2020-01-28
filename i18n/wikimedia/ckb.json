@@ -11,7 +11,8 @@
 			"Muhammed taha",
 			"Sarchia",
 			"Lost Whispers",
-			"Épine"
+			"Épine",
+			"ئارام بکر"
 		]
 	},
 	"wikimediamessages-desc": "پەیامە تایبەتەکانی ویکیمیدیا",
@@ -20,6 +21,7 @@
 	"nstab-creator": "دروستکەر",
 	"nstab-institution": "دامەزراوە",
 	"gettingstarted-task-toolbar-try-another-text-wikipedia": "وتارێکی تر تاقی بکەرەوە ◄",
+	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "دەستکاریی تەواوی وتارەکە بکە...",
 	"gettingstarted-cta-edit-page-wikipedia": "ئەم وتارە دەستکاری بکە",
 	"gettingstarted-cta-fix-pages-wikipedia": "وتارێکی پێشنیارکراو دەستکاری بکە",
 	"group-otrs-member": "ئەندامانی OTRS",
@@ -134,5 +136,6 @@
 	"eri-rcfilters-tour-highlight-button": "باشە، تێگەیشتم",
 	"eri-wlfilters-tour-intro-welcome-title": "بەخێربێیت بۆ فیلتەرکردنی پێشکەوتووی پێڕستی چاودێری",
 	"eri-wlfilters-tour-intro-preferences-description": "دەتوانیت ھەر کاتێک ویستت چاکسازییەکانی پێڕستی چاودێری ڕابگریت بە کوژاندنەوەی پێڕستی چاودێری پێشکەوتوو لە ھەڵبژاردەکانەوە.",
+	"wikimedia-statslink": "ئامارەکان",
 	"wikimedia-cookiestatement": "ڕوونکردنەوەی کوکی"
 }
