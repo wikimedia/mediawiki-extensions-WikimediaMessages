@@ -285,7 +285,7 @@
 	"restriction-level-superprotect": "super protect",
 	"action-templateeditor": "edit protected templates",
 	"right-templateeditor": "Edit protected templates",
-	"restriction-level-templateeditor": "template protected",
+	"restriction-level-templateeditor": "template editor protected",
 	"protect-level-templateeditor": "Allow only template editors and administrators",
 	"action-extendedconfirmed": "edit restricted pages",
 	"right-extendedconfirmed": "Edit restricted pages",
