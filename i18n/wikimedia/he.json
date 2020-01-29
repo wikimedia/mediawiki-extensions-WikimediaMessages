@@ -13,7 +13,8 @@
 			"Nemo bis",
 			"Yona b",
 			"아라",
-			"Matma Rex"
+			"Matma Rex",
+			"דגש חזק"
 		]
 	},
 	"wikimediamessages-desc": "הודעות המיוחדות לוויקימדיה",
@@ -318,8 +319,8 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|בודק אימות דו־שלבי}}",
 	"querypage-updates-half-monthly": "עדכונים לדף הזה מורצים פעמיים בחודש.",
 	"querypage-updates-monthly": "עדכונים לדף הזה מורצים פעם בחודש.",
-	"protect-level-editautopatrolprotected": "לאפשר רק לבדוקי עריכות אוטומטית",
-	"restriction-level-editautopatrolprotected": "מוגן לבדוקי עריכות אוטומטית",
+	"protect-level-editautopatrolprotected": "רק בדוקי עריכות אוטומטית מורשים",
+	"restriction-level-editautopatrolprotected": "מוגן; ניתן לעריכת בדוקי עריכות אוטומטית.",
 	"right-editautopatrolprotected": "עריכת דפים המוגנים ברמת ההגנה \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "לערך דפים מוגנים ברמת \"{{int:protect-level-editautopatrolprotected}}\""
 }
