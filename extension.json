@@ -73,6 +73,9 @@
 		"GlobalBlockingBlockedIpMsg": [
 			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg"
 		],
+		"GlobalBlockingBlockedIpRangeMsg": [
+			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg"
+		],
 		"GlobalBlockingBlockedIpXffMsg": [
 			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg"
 		],
