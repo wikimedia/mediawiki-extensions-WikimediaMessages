@@ -68,7 +68,7 @@
 	"group-mover": "Pervadintojai",
 	"group-mover-member": "{{GENDER:$1|pervadintojas|pervadintoja}}",
 	"grouppage-mover": "{{ns:project}}:Pervadintojai",
-	"group-flood": "Botų šeimininkai",
+	"group-flood": "Psiaudobotai",
 	"group-flood-member": "{{GENDER:$1|botų šeimininkas|botų šeimininkė}}",
 	"grouppage-flood": "{{ns:project}}:Botų šeimininkai",
 	"group-founder": "Įkūrėjai",
