@@ -4,7 +4,24 @@
 			"PiefPafPier"
 		]
 	},
-	"project-localized-name-enwiktionary": "Ingelsktalich Wikiwurdboek",
-	"project-localized-name-fywiktionary": "Frysktalich Wikiwurdboek",
-	"project-localized-name-nlwiktionary": "Nederlânsktalich Wikiwurdboek"
+	"project-localized-name-commonswiki": "Wikimedia Commons",
+	"project-localized-name-enwiki": "Ingelske Wikipedy",
+	"project-localized-name-enwikibooks": "Ingelske Wikiboeken",
+	"project-localized-name-enwikisource": "Ingelske Wikiboarne",
+	"project-localized-name-enwiktionary": "Ingelsk Wikiwurdboek",
+	"project-localized-name-frrwiki": "Noardfryske Wikipedy",
+	"project-localized-name-fywiki": "Fryske Wikipedy",
+	"project-localized-name-fywikibooks": "Fryske Wikiboeken",
+	"project-localized-name-fywiktionary": "Frysk Wikiwurdboek",
+	"project-localized-name-incubatorwiki": "Wikimedia's Briedstove",
+	"project-localized-name-mediawikiwiki": "MediaWiki",
+	"project-localized-name-metawiki": "Meta-wiki",
+	"project-localized-name-nds_nlwiki": "Nedersaksyske Wikipedy",
+	"project-localized-name-nlwiki": "Nederlânske Wikipedy",
+	"project-localized-name-nlwikibooks": "Nederlânske Wikiboeken",
+	"project-localized-name-nlwikisource": "Nederlânske Wikiboarne",
+	"project-localized-name-nlwiktionary": "Nederlânsk Wikiwurdboek",
+	"project-localized-name-sourceswiki": "Meartalige Wikiboarne",
+	"project-localized-name-stqwiki": "Sealterfryske Wikipedy",
+	"project-localized-name-wikidatawiki": "Wikidata"
 }

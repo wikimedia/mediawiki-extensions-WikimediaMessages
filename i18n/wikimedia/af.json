@@ -10,7 +10,8 @@
 			"Arnobarnard",
 			"Fwolff",
 			"Servien",
-			"PiefPafPier"
+			"PiefPafPier",
+			"Joris Darlington Quarshie"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia spesifieke boodskappe",
@@ -138,6 +139,7 @@
 	"interlanguage-link-mul": "Meer tale",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, die vry ensiklopedie",
+	"restriction-level-templateeditor": "sjabloonredakteur beskerm",
 	"wikimedia-statslink": "Statistieke",
 	"wikimedia-cookiestatement": "Koekieverklaring"
 }

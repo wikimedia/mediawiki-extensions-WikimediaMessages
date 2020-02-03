@@ -306,7 +306,7 @@
 	"restriction-level-superprotect": "超級保護",
 	"action-templateeditor": "編輯受保護的模板",
 	"right-templateeditor": "編輯受保護的模板",
-	"restriction-level-templateeditor": "模板保護",
+	"restriction-level-templateeditor": "模板編輯者保護",
 	"protect-level-templateeditor": "只允許模板編輯者和管理員",
 	"action-extendedconfirmed": "編輯受限制的頁面",
 	"right-extendedconfirmed": "編輯受進階確認保護的頁面",

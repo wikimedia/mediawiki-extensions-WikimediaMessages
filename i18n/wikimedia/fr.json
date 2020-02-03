@@ -375,6 +375,8 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|testeur d’authentification à deux facteurs|testeuse d’authentification à deux facteurs}}",
 	"querypage-updates-half-monthly": "Les mises à jour pour cette page sont faites deux fois par mois.",
 	"querypage-updates-monthly": "Les mises à jour pour cette page sont effectuées une fois par mois.",
+	"right-editautoreviewprotected": "Modifier les pages protégées avec « {{int:protect-level-editautoreviewprotected}} »",
+	"action-editautoreviewprotected": "modifier les pages protégées avec « {{int:protect-level-editautoreviewprotected}} »",
 	"protect-level-editautopatrolprotected": "Autoriser uniquement les patrouilleurs automatiques",
 	"restriction-level-editautopatrolprotected": "patrouilleurs automatiques protégés",
 	"right-editautopatrolprotected": "Modifier les pages protégées avec « {{int:protect-level-editautopatrolprotected}} »",
