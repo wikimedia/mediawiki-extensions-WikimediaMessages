@@ -253,7 +253,7 @@
 	"protect-level-superprotect": "Consenti solo agli utenti superprotetti",
 	"restriction-level-superprotect": "super protetta",
 	"right-templateeditor": "Modifica template protetti",
-	"restriction-level-templateeditor": "template protetto",
+	"restriction-level-templateeditor": "editor template protetti",
 	"protect-level-templateeditor": "Consentito solo agli autori di template e amministratori",
 	"right-extendedconfirmed": "Modifica le pagine con restrizioni",
 	"right-editeditorprotected": "Modifica pagine protette con \"{{int:protect-level-editeditorprotected}}\"",

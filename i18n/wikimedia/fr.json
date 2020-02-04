@@ -330,7 +330,7 @@
 	"restriction-level-superprotect": "super-protection",
 	"action-templateeditor": "modifier les modèles protégés",
 	"right-templateeditor": "Modifier les modèles protégés",
-	"restriction-level-templateeditor": "modèle protégé",
+	"restriction-level-templateeditor": "éditeur de modèle protégé",
 	"protect-level-templateeditor": "N'autoriser uniquement que les personnes qui modifient les  modèles et les administrateurs",
 	"action-extendedconfirmed": "modifier les pages restreintes",
 	"right-extendedconfirmed": "Modifier les pages protégées",
