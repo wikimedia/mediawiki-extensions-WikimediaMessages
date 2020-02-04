@@ -270,7 +270,7 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Change which message is shown for IP block (GlobalBlocking extension)
+	 * Change which message is shown for global IP blocks (GlobalBlocking extension)
 	 *
 	 * @param string &$msg The message key
 	 */
@@ -279,7 +279,17 @@ class WikimediaMessagesHooks {
 	}
 
 	/**
-	 * Change which message is shown for XFF block (GlobalBlocking extension)
+	 * Change which message is shown for global IP range blocks (GlobalBlocking extension)
+	 *
+	 * @param string &$msg The message key
+	 */
+	public static function onGlobalBlockingBlockedIpRangeMsg( &$msg ) {
+		$msg = 'wikimedia-globalblocking-ipblocked-range';
+	}
+
+	/**
+	 * Change which message is shown for global XFF IP blocks
+	 * and rangeblocks (GlobalBlocking extension)
 	 *
 	 * @param string &$msg The message key
 	 */
