@@ -272,7 +272,7 @@
 	"restriction-level-superprotect": "superbeskytt",
 	"action-templateeditor": "redigere beskyttede maler",
 	"right-templateeditor": "Rediger beskyttede maler",
-	"restriction-level-templateeditor": "malbeskyttet",
+	"restriction-level-templateeditor": "beskyttet for malredigerere",
 	"protect-level-templateeditor": "Tillat bare malredigerere og administratorer",
 	"action-extendedconfirmed": "redigere begrensede sider",
 	"right-extendedconfirmed": "Rediger beskyttede sider",
