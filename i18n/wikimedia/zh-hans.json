@@ -41,7 +41,8 @@
 			"Matma Rex",
 			"Looong",
 			"94rain",
-			"Xiplus"
+			"Xiplus",
+			"铁桶"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有信息",
@@ -315,7 +316,7 @@
 	"restriction-level-superprotect": "超级保护",
 	"action-templateeditor": "编辑受保护模板",
 	"right-templateeditor": "编辑受保护模板",
-	"restriction-level-templateeditor": "模板保护",
+	"restriction-level-templateeditor": "模板编辑器保护",
 	"protect-level-templateeditor": "只允许模板编辑者和管理员",
 	"action-extendedconfirmed": "编辑受限制页面",
 	"right-extendedconfirmed": "编辑受限制页面",
