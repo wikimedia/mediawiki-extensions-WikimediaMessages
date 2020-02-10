@@ -5,7 +5,8 @@
 			"Helix84",
 			"Jkjk",
 			"Multichill",
-			"Rudko"
+			"Rudko",
+			"TomášPolonec"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Držiteľ autorských práv tohto súboru, $1, umožňuje komukoľvek používať ho '''na akýkoľvek účel, za predpokladu, že''' bude správne označený držiteľ autorských práv. Redistribúcia, tvorba odvodených diel, komerčné využitie a všetky ďalšie použitia sú povolené.",
@@ -42,7 +43,7 @@
 	"wm-license-creator-work-period": "Doba diela",
 	"wm-license-creator-work-location": "Umiestnenie diela",
 	"wm-license-creator-linkback": "Odkaz späť na infobox šablónu Tvorcu",
-	"wm-license-fal-text": "Copyleft: Toto výtvarné dielo je slobodné; môžete ho šíriť a/alebo meniť za podmienok '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Exemplár tejto licencie nájdete na stránke [{{int:wm-license-fal-full-link}} Copyleft Attitude] a na ďalších stránkach.",
+	"wm-license-fal-text": "Copyleft: Toto výtvarné dielo je slobodné; môžete ho šíriť a/alebo meniť za podmienok '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Exemplár tejto licencie nájdete na stránke [{{int:wm-license-fal-full-link}} Copyleft Attitude] a na [{{int:wm-license-fal-full-link-commons}} ďalších stránkach].",
 	"wm-license-fsf-wiki-link": "w:sk:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:sk:Slobodný softvér",
 	"wm-license-gfdl-1.2-and-later": "Bolo udelené povolenie kopírovať, širiť a/alebo meniť tento dokument za podmienok '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', verzie 1.2 alebo ktorejkoľvek neskoršej verzie publikovanej  [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez Nemenných častí, bez Textov na prednej obálke a bez Textov na zadnej obálke. Kópia tejto licencie je zahrnutá v časti nazvanej ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",

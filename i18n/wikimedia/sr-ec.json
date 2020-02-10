@@ -201,6 +201,7 @@
 	"interlanguage-link-commons": "Викимедијина остава",
 	"restriction-level-superprotect": "супер заштита",
 	"right-templateeditor": "уређивање заштићених шаблона",
+	"restriction-level-templateeditor": "дозвољено само уређивачима шаблона",
 	"right-extendedconfirmed": "уређивање ограничених страница",
 	"right-editeditorprotected": "уређивање страница под заштитом „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Допуштено само уредницима",

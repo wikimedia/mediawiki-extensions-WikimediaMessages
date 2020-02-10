@@ -63,7 +63,7 @@
 	"grouppage-editprotected": "{{ns:project}}:Redaktori chránených stránok",
 	"group-eliminator": "Eliminátori",
 	"group-eliminator-member": "{{GENDER:$1|eliminátor|eliminátorka|eliminátor}}",
-	"grouppage-eliminator": "{{ns:project}}:Eliminátor",
+	"grouppage-eliminator": "{{ns:project}}:Eliminátori",
 	"group-filemover": "Presúvači súborov",
 	"group-filemover-member": "{{GENDER:$1|presúvač|presúvačka|presúvač}} súborov",
 	"grouppage-filemover": "{{ns:project}}:Presúvači súborov",
