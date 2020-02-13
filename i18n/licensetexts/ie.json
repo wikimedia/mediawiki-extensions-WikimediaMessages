@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stavanger7"
+			"Stavanger7",
+			"OIS"
 		]
 	},
 	"wm-license-information-description": "Descrition",
 	"wm-license-information-source": "Orígine",
 	"wm-license-information-date": "Date",
 	"wm-license-information-author": "Autor",
-	"wm-license-information-permission": "Permission:"
+	"wm-license-information-permission": "Permission:",
+	"wm-license-own-work": "Propri ovre"
 }

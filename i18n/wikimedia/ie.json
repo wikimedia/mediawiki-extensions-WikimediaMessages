@@ -3,12 +3,15 @@
 		"authors": [
 			"Malafaya",
 			"Stavanger7",
-			"Fanjiayi"
+			"Fanjiayi",
+			"OIS"
 		]
 	},
 	"sitesupport": "Donationes",
 	"tooltip-n-sitesupport": "Alimenta nos",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Developatores"
 }

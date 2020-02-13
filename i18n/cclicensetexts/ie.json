@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stavanger7"
+			"Stavanger7",
+			"OIS"
 		]
 	},
 	"wm-license-cc-attribution": "Atribution",
 	"wm-license-cc-free-to-share-header": "de distribuer",
 	"wm-license-cc-free-to-remix-header": "de remixter",
 	"wm-license-cc-free-to-remix-text": "de adaptar li ovre",
-	"wm-license-cc-conditions-attribution-header": "atribution"
+	"wm-license-cc-conditions-attribution-header": "atribution",
+	"wm-license-cc-conditions-share_alike-header": "share alike"
 }

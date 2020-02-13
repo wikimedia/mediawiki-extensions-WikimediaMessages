@@ -8,13 +8,13 @@
 	"wm-license-cc-attribution": "Атрибуци (автораш а/е бокъоераш а белгалбар)",
 	"wm-license-cc-by-sa-3.0-text": "Укх файла тӏакхоачилга [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] яхача лицензеца да.",
 	"wm-license-cc-free": "Хьа аьттув ба:",
-	"wm-license-cc-free-to-share-header": "произведени дIа-хьа яхьийта",
+	"wm-license-cc-free-to-share-header": "кхоллам дIа-хьа боаржабе",
 	"wm-license-cc-free-to-share-text": "произведененна кеп яккха а, из дIа-хьа йоаржае а, дIа-хьа яла а.",
-	"wm-license-cc-free-to-remix-header": "цунах хьадаьннараш кхолла",
+	"wm-license-cc-free-to-remix-header": "цох хьадоалла кхыдараш кхолла",
 	"wm-license-cc-free-to-remix-text": "ер произведени хийца а хийцá юхае",
 	"wm-license-cc-conditions": "Iалашдойя ер бехкамаш:",
 	"wm-license-cc-conditions-attribution-header": "автораш белгалбар",
 	"wm-license-cc-conditions-attribution-text": "Шо декхарийла да автор белгалваккха а, лицензенна тIахьожавеш бола тIатовжам белгалбе а, цу авторо хувцамаш даьлга белгалдаккха а. Из де йиш я моллагIча корта болча тайпара, амма лицензиато хьа гадоаккхилгеи, Iа цу произведенех пайда эцар цо къоабалделгеи хеталургдоацаш.",
-	"wm-license-cc-conditions-share_alike-header": "цу тайпара хьáлашца доаржадар",
+	"wm-license-cc-conditions-share_alike-header": "ший долчча бехкамашца доаржаде",
 	"wm-license-cc-conditions-share_alike-text": "Нагахьа санна укх белха (произведененна) тIагIолла шо хувцам бе е кхы йола произведени хьакхолла доахке, шо декхарийла да юххьанцара хиннача произведенен лицензи лелае е [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses юххьанцара хинначунна тара йола (вIаший нийса йоагIа) лицензи лелае]."
 }
