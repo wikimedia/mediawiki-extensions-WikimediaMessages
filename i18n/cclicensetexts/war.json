@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"JinJian"
+			"JinJian",
+			"Harvzsf"
 		]
 	},
 	"wm-license-cc-attribution": "Attribution",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "attribution",
 	"wm-license-cc-conditions-attribution-text": "Kinahanglanon mo tagan hin kaangayan nga credit, paghatag hin sumpay ngadto ha lisensya, ngan igbutang an imo ginbag-ohan nga binuhat.  Puydi mo ini buhaton ha bisan ano nga resonable nga pamaagi, pero diri nimo pagawson nga an naghatag hin lisensya nag-eendorso ha imo o ha imo paggamit.",
 	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "Kun imo gin-iba, o gin-hingayad han inin nga buhat, ikaw in puydi la magpakalat han result nga buhat ha ilarom la hin pareho nga lisensya hinin."
+	"wm-license-cc-conditions-share_alike-text": "Kun imo ginsagol-hin-otro, gin-iba, o gin-hingayad han buhat, ikaw in angay gud là magpakalat han imo gin-amot ha ilarom la han [http:creativecommons.org/share-your-work/licensing-considerations/compatible-licenses pareho o naangay nga lisensya] sugad han orihinal."
 }

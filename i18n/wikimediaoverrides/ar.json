@@ -4,7 +4,8 @@
 			"Meno25",
 			"بدارين",
 			"ديفيد",
-			"Kassem7899"
+			"Kassem7899",
+			"Dyolf77 (WMF)"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في اليوم الأخير، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
@@ -15,7 +16,7 @@
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:سياسة اسم المستخدم",
 	"wikimedia-delete-toobig": "تحتوي هذه الصفحة على تاريخ تعديل كبير، أكبر من $1 {{PLURAL:$1|مراجعة|مراجعات}}،\nيقتصر حذف الصفحات التي تحتوي على تاريخ تعديل كبير جدا على منع حدوث أي توقف عرضي في {{SITENAME}}. \nيُرجَى الاتصال [[m:Special:MyLanguage/Stewards|بالمضيفين]] في [[m:Steward requests/Miscellaneous|طلبات المضيفين/متنوعة في الميتا]] لطلب حذف هذه الصفحة.",
-	"wikimedia-discussiontools-replywidget-terms-click": "بالنقر على \"$1\"، أنت توافق على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] الخاصة بنا وتوافق على إصدار نصك بشكل لا رجعة فيه بموجب [https://creativecommons.org/licenses/by-sa/3.0 رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",
+	"wikimedia-discussiontools-replywidget-terms-click": "بالنقر على \"$1\"، أنت {{GENDER:|توافق|توافقين}} على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] الخاصة بنا و{{GENDER:|توافق|توافقين}} على إصدار نصك بشكل لا رجعة فيه بموجب [https://creativecommons.org/licenses/by-sa/3.0 رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",
 	"wikimedia-feedback-termsofuse": "أوافق على تقديم التعليقات وفقا <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">لشروط الاستخدام</a>.",
 	"wikimedia-flow-terms-of-use-new-topic": "بالضغط على \"{{int:flow-newtopic-save}}\"، فأنت توافق على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] الخاصة بنا وتوافق على نشر نصك بلا رجوع تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "بالنقر على \"{{int:flow-reply-link}}\"، فإنك توافق على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] وتوافق على إصدار نصك بشكل لا رجعة فيه تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",
