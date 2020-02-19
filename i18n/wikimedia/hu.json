@@ -218,6 +218,7 @@
 	"right-extendedconfirmed": "korlátozott lapok szerkesztése",
 	"wikimedia-centralauth-contribs-locked": "Ezt a fiókot globálisan zárolták.\nTovábbi információkért lásd a [[m:Special:CentralAuth/$1|globális fiók adatait]].",
 	"right-viewdeletedfile": "Törölt fájlok és lapok megtekintése a {{ns:file}} és {{ns:file_talk}} névterekben",
+	"wikimedia-statslink": "Statisztikák",
 	"wikimedia-cookiestatement": "Sütinyilatkozat",
 	"querypage-updates-half-monthly": "Ennek a lapnak a frissítései havi kétszer futnak."
 }
