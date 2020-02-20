@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nirajan pant"
+			"Nirajan pant",
+			"हिमाल सुबेदी"
 		]
 	},
 	"project-localized-name-hifwiktionary": "फिजी हिन्दी विक्सनरी",
-	"project-localized-name-hiwikiversity": "हिन्दी विकिभर्सिटि"
+	"project-localized-name-hiwikiversity": "हिन्दी विकिभर्सिटि",
+	"project-localized-name-maiwiki": "मैथिली विकिपिडिया",
+	"project-localized-name-maiwikimedia": "मैथिली विकिमिडिया प्रयाेगकर्ता समूह",
+	"project-localized-name-newiki": "नेपाली विकिपिडिया",
+	"project-localized-name-newikibooks": "नेपाली विकिपुस्तक",
+	"project-localized-name-newiktionary": "नेपाली विक्सनरी"
 }
