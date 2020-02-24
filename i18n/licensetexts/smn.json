@@ -4,8 +4,13 @@
 			"Trondtr"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Puávtáh kopijistiđ, levâttiđ já/teikâ mutteđ taan äššikirje  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' -liiseens versio 1.2 tai majemui iävtui vyelni, moh láá almostittum [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] peeleest; ij kuoskâ muttuuhánnáá soojijd, ij ovdâlohe teevstâid ige kirjelohe teevstâid. Kopio taan lisensist lii finniimist saajeest ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Kuvvim",
 	"wm-license-information-source": "Käldee",
 	"wm-license-information-date": "peivim",
-	"wm-license-information-author": "Čällee"
+	"wm-license-information-author": "Čällee",
+	"wm-license-information-permission": "Kiävttuvuoigâdvuotâ",
+	"wm-license-information-permission-reusing-text": "Taan tiätuvuárhá kevttim",
+	"wm-license-own-work": "Uámi pargo",
+	"wm-license-self-multiple-licenses-select": "Puávtáh valjiđ jieijâd halijdem liiseens."
 }
