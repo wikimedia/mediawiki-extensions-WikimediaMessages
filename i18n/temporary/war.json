@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"JinJian"
+			"JinJian",
+			"Harvzsf"
 		]
 	},
 	"group-oversight": "Mga magmarangno",
-	"group-oversight-member": "Nanginginano"
+	"group-oversight-member": "{{GENDER:$1|nanginginano}}"
 }
