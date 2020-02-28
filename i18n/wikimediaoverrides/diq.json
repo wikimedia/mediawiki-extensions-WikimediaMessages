@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Nemo bis",
-			"Mirzali"
+			"Mirzali",
+			"1917 Ekim Devrimi"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(qande weçinayışi mıre desteg bıd)]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seba weçinayışi mı rê pheşti bıdê)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]",
 	"wikimedia-centralauth-login-error-locked": "<strong>Eno hesabê karberi [[m:Special:MyLanguage/Global locks|her ca de biyo kılit]]</strong>. {{GENDER:$1|Tı}} nêşena Wikimedia-Wiki kewê. Kerem ke, persê to ke estê, [[m:Special:Contact/stewards|be stewardan ra irtıbat kewe]], persê {{GENDER:$1|to}} ke esto.",
 	"createacct-helpusername-url": "{{ns:Project}}:Politikaya_nameyê_karberan"
