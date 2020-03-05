@@ -4,8 +4,17 @@
 			"Joanmp17"
 		]
 	},
+	"contactpage-license-request-use-print": "ሕተም",
+	"contactpage-license-request-use-other": "ካልእ",
+	"contactpage-wikimedia-trademark-commons": "ዊኪሜዲያ ኮምሞንስ",
+	"contactpage-wikimedia-trademark-mediawiki": "ሜዲያዊኪ",
 	"contactpage-wikimedia-trademark-wikiquote": "ዊኪቁኦተ",
+	"contactpage-wikimedia-trademark-wikibooks": "ዊኪመጻሕፍቲ",
 	"contactpage-wikimedia-trademark-wikimania": "ዊኪማኒያ",
-	"contactpage-wikimedia-trademark-wikinews": "ዊኪዜና",
-	"contactpage-wikimedia-trademark-wiktionary": "ዊኪ-መዝገበ-ቃላት"
+	"contactpage-wikimedia-trademark-wikinews": "ዊኪዜናታት",
+	"contactpage-wikimedia-trademark-wikisource": "ዊኪሶርስ",
+	"contactpage-wikimedia-trademark-wikiversity": "ዊኪቨርሲቲ",
+	"contactpage-wikimedia-trademark-wiktionary": "ዊኪ-መዝገበ-ቃላት",
+	"contactpage-wikimedia-trademark-wikivoyage": "ዊኪጉዕዞታት",
+	"contactpage-movecom-signup-display-username": "ስም ተጠቃሚ"
 }

@@ -186,7 +186,7 @@
 	"group-massmessage-sender-member": "{{GENDER:$1|toplu mesaj gönderici}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:Toplu mesaj göndericiler",
 	"group-new-wikis-importer": "Yeni viki içer aktarıcılar",
-	"group-new-wikis-importer-member": "{{GENDER:$1|yeni wiki ithalatçısı}}",
+	"group-new-wikis-importer-member": "{{GENDER:$1|yeni viki ithalatçısı}}",
 	"group-oauthadmin": "OAuth yöneticileri",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth yöneticisi}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth yöneticileri",
