@@ -1,4 +1,7 @@
 <?php
+
+use MediaWiki\MediaWikiServices;
+
 /**
  * Hooks for WikimediaMessages extension
  *
@@ -66,7 +69,7 @@ class WikimediaMessagesHooks {
 			// of the above.  Revisit if non-ASCII keys are used.
 			$ucKey = ucfirst( $lcKey );
 
-			$cache = MessageCache::singleton();
+			$cache = MediaWikiServices::getInstance()->getMessageCache();
 			if (
 				/*
 				 * Override order:
