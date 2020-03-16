@@ -261,6 +261,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Begär ett konto",
 	"wikimedia-developers": "Utvecklare",
 	"wikimedia-globalblocking-ipblocked": "'''Din IP-adress har [[m:Special:MyLanguage/Global blocks|blockerats på alla wikier]].'''\n\nBlockeringen gjordes av $1 ($2).\nDen angivna anledningen är ''$3''.\n\n* Blockeringens start: $4\n* Blockeringen löper ut: $5\n\nDin nuvarande IP-adress är $6.\nVänligen inkludera alla detaljer ovan vid eventuella förfrågningar du gör.\n\nOm du tror dig ha blivit blockerad av misstag kan du hitta ytterligare information och instruktioner i den globala policyn [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].\nAnnars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en begäran om granskning på Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-range": "'''Din IP-adress är i ett intervall som har [[m:Special:MyLanguage/Global blocks|spärrats på alla wikier av Wikimedia Foundation]].'''\n\nBlocket gjordes av $1 ($2).\nDen angivna anledningen är: ''$3''.\n\n* Blockeringen startar: $4\n* Blockeringen slutar: $5\n\nDin nuvarande IP-adress är $6, och intervallet som har blockerats är $7.\nVänligen inkludera alla detaljer i alla förfrågningar som du gör.\n\nOm du tycker att du blockerades av misstag kan du hitta ytterligare information och instruktioner i den globala policyn [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].\nFör att diskutera blockeringen istället kan du [[m:Steward requests/Global|göra en granskningsbegäran på Meta-Wiki]] eller skicka ett e-postmeddelande till [[m:Special:MyLanguage/OTRS|OTRS]]-kön för [[m:Special:MyLanguage/Stewards|stewards]] på <kbd>stewards@wikimedia.org</kbd> med all ovanstående information.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''En eller fler proxyservrar som används på din begäran är [[m:Special:MyLanguage/Global blocks|globalt blockerade]].'''\n\nBlockeringen gjordes av $1 ($2).\nDen angivna anledningen är ''$3''.\n\n* Blockeringens start: $4\n* Blockeringen löper ut: $5\n\nDen blockerade proxyadressen var $6.\nVänligen inkludera alla detaljer vid eventuella förfrågningar du gör.\n\nOm du tror dig ha blivit blockerad av misstag kan du hitta ytterligare information och instruktioner i den globala policyn [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].\nAnnars, för att diskutera blockeringen [[m:Steward requests/Global|lämna en begäran om granskning på Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Din IP-adress, <strong>$1</strong>, har automatiskt blivit identifieras som en utgångsnod för Tor.\nRedigering genom Tor är blockerat för att förhindra missbruk.\nFör mer information och instruktioner för legitima användare, se den globala policyn: [[m:Special:MyLanguage/No open proxies|Inga öppna proxier]].",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Integritetspolicy]",
@@ -284,7 +285,7 @@
 	"restriction-level-superprotect": "superskydd",
 	"action-templateeditor": "redigera skyddade mallar",
 	"right-templateeditor": "Redigera skyddade mallar",
-	"restriction-level-templateeditor": "mall skyddad",
+	"restriction-level-templateeditor": "skyddad för mallredigering",
 	"protect-level-templateeditor": "Tillåt endast mallredigerare och administratörer",
 	"action-extendedconfirmed": "redigera begränsade sidor",
 	"right-extendedconfirmed": "Redigera begränsade sidor",
@@ -330,6 +331,7 @@
 	"querypage-updates-half-monthly": "Uppdateringar för denna sida körs två gånger i månaden.",
 	"querypage-updates-monthly": "Uppdateringar för denna sida körs en gång i månaden.",
 	"protect-level-editautopatrolprotected": "Tillåt endast autopatrullerare",
+	"restriction-level-editautopatrolprotected": "skyddad för autopatrullerare",
 	"right-editautopatrolprotected": "Redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\""
 }
