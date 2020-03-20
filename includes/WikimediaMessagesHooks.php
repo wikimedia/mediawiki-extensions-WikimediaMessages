@@ -13,7 +13,7 @@ class WikimediaMessagesHooks {
 	 * When core requests certain messages, change the key to a Wikimedia version.
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/MessageCache::get
-	 * @param String &$lcKey message key to check and possibly convert
+	 * @param string &$lcKey message key to check and possibly convert
 	 */
 	public static function onMessageCacheGet( &$lcKey ) {
 		global $wgLanguageCode, $wmgRealm, $wgDBname;
