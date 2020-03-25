@@ -47,5 +47,20 @@
 	"contactpage-affcom-user-group-logo-community": "Logotipu de la comunidá de Wikimedia",
 	"contactpage-affcom-user-group-logo-affiliate": "Logotipu d'afiliáu a Wikimedia",
 	"contactpage-title-stewards": "Comunicate colos Stewards",
-	"contactpage-stewards-disclaimer-label": "Alvertencia: Tola información que incluyas nesti formulariu unvíase, procésase y respuéndese por miembros voluntarios de la comunidá (específicamente [[Special:MyLanguage/Stewards]]), non pola Fundación Wikimedia. Por favor, nun incluyas nenguna información que nun consideres afayadiza pa compartir colos voluntarios de Wikimedia. Les respuestes y otra correspondencia rellacionada col procesamientu de la información unviada nun se consideren declaraciones oficiales de la Fundación Wikimedia. Pa correspondencia oficial, por favor comunícate cola Fundación Wikimedia emplegando los métodos qu'apaecen en https://wikimediafoundation.org/about/contact/."
+	"contactpage-stewards-disclaimer-label": "Alvertencia: Tola información que incluyas nesti formulariu unvíase, procésase y respuéndese por miembros voluntarios de la comunidá (específicamente [[Special:MyLanguage/Stewards|Stewards]]), non pola Fundación Wikimedia. Por favor, nun incluyas nenguna información que nun consideres afayadiza pa compartir colos voluntarios de Wikimedia. Les respuestes y otra correspondencia rellacionada col procesamientu de la información unviada nun se consideren declaraciones oficiales de la Fundación Wikimedia. Pa correspondencia oficial, por favor comunícate cola Fundación Wikimedia emplegando los métodos qu'apaecen en https://wikimediafoundation.org/about/contact/.",
+	"contactpage-title-movecomsignup": "Xúnite a la llista de corréu del grupu de comunicaciones del Movimientu",
+	"contactpage-pagetext-movecomsignup": "Usa'l formulariu d'abaxo pa xunite a la llista de corréu del [[grupu de comunicaciones del Movimientu]].",
+	"contactpage-subject-movecomsignup": "Alta nel grupu de comunicaciones del Movimientu",
+	"contactpage-movecom-signup-username-label": "Nome(s) d'usuariu:",
+	"contactpage-movecom-signup-affiliation-label": "Afiliación primaria coles comunicaciones del Movimientu Wikimedia",
+	"contactpage-movecom-signup-affiliation-affiliates": "Afiliáu/ada del movimientu Wikipedia (capítulos, organizaciones temátiques, grupos d'usuarios)",
+	"contactpage-movecom-signup-affiliation-foundation": "Fundación Wikimedia",
+	"contactpage-movecom-signup-affiliation-group": "Grupu organizáu de Wikimedia (WikiProyeutu, comité de la comunidá, etc.)",
+	"contactpage-movecom-signup-affiliation-projects": "Proyeutos de Wikimedia (Wikipedia, Wikidata, Wikcionariu, etc.)",
+	"contactpage-movecom-signup-affiliate-label": "Nome del to grupu o afiliáu de Wikimedia (si ye aplicable)",
+	"contactpage-movecom-signup-display-label": "Seleiciona cómo te gustaría apaecer na llista de la páxina del [[Movement communications group]]",
+	"contactpage-movecom-signup-display-name": "Nome",
+	"contactpage-movecom-signup-display-username": "Nome d'usuariu",
+	"contactpage-movecom-signup-display-nameusername": "Nome y nome d’usuariu",
+	"contactpage-movecom-signup-terms-label": "Lleí la descripcion del [[Movement communications group]] y aceuto siguir la [[Foundation:Friendly space policy|política d'espaciu amistosu de la Fundación Wikimedia]] na mio participación con esti grupu. Entiendo que dexar de siguir esta política producirá la espulsión del grupu."
 }
