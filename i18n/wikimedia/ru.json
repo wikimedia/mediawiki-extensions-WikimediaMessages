@@ -51,7 +51,8 @@
 			"Bloomaround",
 			"Matma Rex",
 			"Movses",
-			"Katunchik"
+			"Katunchik",
+			"Bugoslav"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -267,7 +268,7 @@
 	"wikibase-sitelinks-wiktionary": "Викисловарь",
 	"wikibase-otherprojects-commons": "Викисклад",
 	"wikibase-otherprojects-testwikidata": "Викиданные",
-	"wikibase-otherprojects-mediawiki": "MediaWiki",
+	"wikibase-otherprojects-mediawiki": "Медиавики",
 	"wikibase-otherprojects-meta": "Мета-вики",
 	"wikibase-otherprojects-species": "Викивиды",
 	"wikibase-otherprojects-wikibooks": "Викиучебник",

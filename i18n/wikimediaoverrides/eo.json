@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"KuboF"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(helpu min elekti)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Ĉu vi ne vidas la bildon? [[{{MediaWiki:createacct-captcha-help-url}}|Petu konton]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Uzantnomo"
+}

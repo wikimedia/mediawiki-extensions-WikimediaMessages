@@ -9,7 +9,8 @@
 			"Wizardist",
 			"Zedlik",
 			"Nemo bis",
-			"Kaganer"
+			"Kaganer",
+			"Bugoslav"
 		]
 	},
 	"wikimediamessages-desc": "Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»",
@@ -139,6 +140,7 @@
 	"wikibase-sitelinks-wikiversity": "Віківэрсытэт",
 	"wikibase-sitelinks-wikivoyage": "Віківандроўка",
 	"wikibase-sitelinks-wiktionary": "Вікіслоўнік",
+	"wikibase-otherprojects-mediawiki": "МэдыяВікі",
 	"wikibase-sitelinks-sitename-commonswiki": "Вікісховішча",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "МэдыяВікі",
 	"wikibase-sitelinks-sitename-metawiki": "Мэта-Вікі",
