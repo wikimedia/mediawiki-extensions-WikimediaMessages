@@ -55,7 +55,8 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"wikimedia-developers": "Untwikkelders",
 	"upload-form-label-own-work-message-commons": "Ik ferklearje dat ik de auteursrjochten op dit bestân yn besit haw, en gean akkoart dit bestân ûnwerroplik frij te jaan oan Wikimedia Commons ûnder de lisinsje [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Nammefermelding-Lyk diele 4.0], en ik stim yn mei de [https://foundation.wikimedia.org/wiki/Terms_of_Use Gebrûksbetingsten].",
-	"upload-form-label-not-own-work-message-commons": "At jo de auteursrjochten op dit bestân net hawwe, of jo wolle se frijjaan ûnder in oare lisinsje, probearje dan de [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Oplaadhelper].",
+	"upload-form-label-not-own-work-message-commons": "At jo de auteursrjochten op dit bestân net hawwe, of jo wolle se frijjaan ûnder in oare lisinsje, probearje dan de [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Oanbiedhelper].",
+	"upload-form-label-not-own-work-local-commons": "Jo kinne ek [[Special:Upload|de oanbiedside op {{GRAMMAR:l|{{SITENAME}}}}]] probearje, at it webstee it belied hat dat dit bestân opladen wurde mei.",
 	"interlanguage-link-wikipedia": "Wikipedy",
 	"wikimedia-statslink": "Statistiken",
 	"wikimedia-cookiestatement": "Taljochting koekjes"

@@ -6,5 +6,6 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mei kiezen)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ofbyld net te sjen? [[{{MediaWiki:createacct-captcha-help-url}}|Freegje in akkount]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Meidochnammebelied"
+	"createacct-helpusername-url": "{{ns:Project}}:Meidochnammebelied",
+	"wikimedia-feedback-termsofuse": "Ik gean akkoart om weromkeppeling te jaan neffens de <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Gebrûksbetingsten</a>."
 }
