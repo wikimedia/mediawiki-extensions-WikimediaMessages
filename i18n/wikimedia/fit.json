@@ -5,6 +5,7 @@
 			"Palmtree222"
 		]
 	},
+	"wikimediamessages-desc": "Wikimeetian käyttämiä systeemiviestejä.",
 	"sitesupport": "Lahjotukset",
 	"tooltip-n-sitesupport": "Tue meitä",
 	"gettingstarted-task-copyedit-toolbar-try-another-title-wikipedia": "Avaa satunhainen artikkeli, jota voit parantaa tekemällä kielenhuoltoa",
@@ -40,11 +41,13 @@
 	"wikibase-sitelinks-wikivoyage": "Wikimatkat",
 	"wikibase-otherprojects-commons": "Wikimeetia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikitaatta",
+	"wikibase-otherprojects-mediawiki": "MeetiaWiki",
 	"wikibase-otherprojects-meta": "Meetta-Wiki",
 	"wikibase-otherprojects-wikibooks": "Wikipipluteekki",
 	"wikibase-otherprojects-wikidata": "Wikitaatta",
 	"wikibase-otherprojects-wikipedia": "Wikipeetia",
 	"wikibase-otherprojects-wikiversity": "Wikiversiteetti",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "MeetiaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meetta-Wiki",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikitaatta",
 	"wikimedia-developers": "Kehittäjät",
