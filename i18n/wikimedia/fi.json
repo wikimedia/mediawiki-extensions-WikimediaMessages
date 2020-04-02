@@ -175,7 +175,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF:n Tuki ja Turva}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF:n Tuki ja Turva",
 	"tag-emoji": "Emoji",
-	"tag-emoji-description": "Käyttää globaali väärinkäyttösuodatin 110.",
+	"tag-emoji-description": "Tämä tulee globaalista väärinkäyttösuodattimesta numero 110.",
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Muokkaukset, jotka tehtiin [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowserilla]",
 	"search-interwiki-custom": "wikt:Wikisanakirjasta\nb:Wikikirjastosta\nn:Wikiuutisista\nq:Wikisitaateista\ns:Wikiaineistosta\nv:Wikiopistosta\nvoy:Wikimatkoista",
