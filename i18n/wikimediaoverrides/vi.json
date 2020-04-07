@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis",
-			"Trần Nguyễn Minh Huy",
 			"KhangND",
 			"Minh Nguyen",
+			"Nemo bis",
 			"Nguyên Lê",
-			"Nhatminh01"
+			"Nhatminh01",
+			"Trần Nguyễn Minh Huy"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(gweres dhymm dewis)]]",
 	"wikimedia-createacct-imgcaptcha-help": "A ny welowgh an imach? [[{{MediaWiki:createacct-captcha-help-url}}|Govynnewgh akont]]"
 }

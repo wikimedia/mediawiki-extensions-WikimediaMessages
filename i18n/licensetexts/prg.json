@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"wm-license-information-description": "Ebpeisāsenis",
 	"wm-license-information-source": "Aps"
 }

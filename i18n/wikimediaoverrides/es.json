@@ -1,15 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kroji",
-			"Macofe",
-			"TMg",
-			"MarcoAurelio",
-			"Luisangelrg",
 			"AlvaroMolina",
+			"DannyS712",
 			"Dgstranz",
 			"Fitoschido",
-			"DannyS712"
+			"Kroji",
+			"Luisangelrg",
+			"Macofe",
+			"MarcoAurelio",
+			"TMg"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Los visitantes a este wiki que utilizaron su dirección IP han creado {{PLURAL:$1|1 cuenta|$1 cuentas}} en las últimas 24 horas, lo cual es el máximo permitido en ese período de tiempo.\nComo resultado, los visitantes que utilicen esa dirección IP no pueden crear más cuentas de usuario en este momento.\n\nSi estás en un evento cuyo objeto es contribuir a los proyectos Wikimedia, por favor visite [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|esta página]] para resolver el problema.",

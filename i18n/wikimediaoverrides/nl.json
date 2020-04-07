@@ -1,14 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin",
+			"Elroy",
+			"Encycloon",
 			"Esketti",
 			"Mainframe98",
-			"Siebrand",
 			"Mar(c)",
-			"Elroy",
-			"WhatamIdoing",
-			"Encycloon"
+			"Siebrand",
+			"Sjoerddebruin",
+			"WhatamIdoing"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bezoekers van deze wiki hebben met uw IP-adres {{PLURAL:$1|1 gebruiker|$1 gebruikers}} in de afgelopen 24 uur aangemaakt, wat het maximum aantal is voor deze tijdsperiode.\nAls resultaat kunnen bezoekers met dit IP-adres niet meer gebruikers aanmaken op dit moment.\n\nIndien u zich op een event bevind waar gefocust wordt op bijdragen aan Wikimedia projecten, zie dan  [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Tijdelijke ontziening van de IP-cap]] voor hulp bij het oplossen van dit probleem.",

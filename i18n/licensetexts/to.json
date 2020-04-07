@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"wm-license-information-description": "Fakamahino",
 	"wm-license-information-source": "Tupunga"
 }

@@ -7,7 +7,11 @@
 			"Jarekt",
 			"Jean-Frédéric",
 			"Klutzy",
+			"Kosovastar",
+			"Liuxinyu970226",
 			"Lloffiwr",
+			"Macofe",
+			"Manuae",
 			"Multichill",
 			"Nemo bis",
 			"Nike",
@@ -18,11 +22,7 @@
 			"SPQRobin",
 			"Shirayuki",
 			"Siebrand",
-			"Umherirrender",
-			"Manuae",
-			"Liuxinyu970226",
-			"Kosovastar",
-			"Macofe"
+			"Umherirrender"
 		]
 	},
 	"wm-license-attribution-with-author-text": "This message will be used at [[Commons:Template:Attribution]] when an author is set.\n\nParameters:\n* $1 - the copyright holder\nSee also:\n* {{msg-mw|Wm-license-attribution-without-author-text}}",

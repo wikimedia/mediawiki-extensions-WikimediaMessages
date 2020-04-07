@@ -2,12 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
+			"CiaPan",
+			"Rail",
+			"Railfail536",
 			"Tar Lócesilion",
 			"WTM",
-			"Woytecr",
-			"Railfail536",
-			"CiaPan",
-			"Rail"
+			"Woytecr"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]",

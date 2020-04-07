@@ -1,13 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Reedy",
-			"Shirayuki",
-			"Liuxinyu970226",
 			"Amire80",
+			"Liuxinyu970226",
+			"Reedy",
+			"Robby",
+			"Shirayuki",
 			"Umherirrender",
-			"Varnent",
-			"Robby"
+			"Varnent"
 		]
 	},
 	"contactpage-title-requestlicense": "Used as page title on [[meta:Special:Contact/requestlicense]]",

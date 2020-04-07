@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"wm-license-information-description": "توضیح",
 	"wm-license-information-source": "منبع",
 	"wm-license-information-date": "تاریح",

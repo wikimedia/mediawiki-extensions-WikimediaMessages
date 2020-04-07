@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nemo bis",
 			"Iwan Novirion",
-			"Kenrick95"
+			"Kenrick95",
+			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(bantu saya memilih)]]",

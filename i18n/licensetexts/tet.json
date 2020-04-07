@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"wm-license-information-date": "Tempu",
 	"wm-license-information-author": "Autór"
 }

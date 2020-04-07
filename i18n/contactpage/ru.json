@@ -1,15 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras",
-			"Mariya",
-			"Putnik",
-			"Facenapalm",
-			"ToJack",
 			"Alexey zakharenkov",
+			"Facenapalm",
 			"Kaganer",
 			"Kareyac",
-			"Movses"
+			"Mariya",
+			"Movses",
+			"Okras",
+			"Putnik",
+			"ToJack"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",

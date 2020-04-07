@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Teslaton",
-			"Luky001"
+			"Luky001",
+			"Teslaton"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Návštevníci tejto wiki z vašej IP adresy už za posledný deň vytvorili {{PLURAL:$1|$1 účet|$1 účty|$1 účtov}}, čo je maximálny počet povolený za toto časové obdobie.\nZ tohto dôvodu nemôžu návštevníci z tejto IP adresy momentálne vytvoriť ďalšie účty.\n\nPokiaľ sa zúčastňujete akcie, ktorá sa zameriava na prispievanie do projektov Wikimedia, pozrite sa na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žiadosť o dočasné zrušenenie obmedzenia pre IP adresu]], aby šlo tento problém vyriešiť.",

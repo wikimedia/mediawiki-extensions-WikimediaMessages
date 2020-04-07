@@ -1,13 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Spiritia",
 			"DCLXVI",
 			"Nemo bis",
-			"StanProg",
 			"ShockD",
-			"Vlad5250",
-			"Ted Masters"
+			"Spiritia",
+			"StanProg",
+			"Ted Masters",
+			"Vlad5250"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощ при избора)]]",

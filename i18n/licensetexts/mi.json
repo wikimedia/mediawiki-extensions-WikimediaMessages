@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"wm-license-gfdl-wiki-link": "w:mi:GNU FDL"
 }

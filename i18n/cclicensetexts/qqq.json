@@ -8,7 +8,9 @@
 			"Jarekt",
 			"Jean-Frédéric",
 			"Klutzy",
+			"Liuxinyu970226",
 			"Lloffiwr",
+			"McDutchie",
 			"Multichill",
 			"Nemo bis",
 			"Nike",
@@ -18,9 +20,7 @@
 			"SPQRobin",
 			"Shirayuki",
 			"Siebrand",
-			"Umherirrender",
-			"Liuxinyu970226",
-			"McDutchie"
+			"Umherirrender"
 		]
 	},
 	"wm-license-cc-wiki-link": "{{optional}}\nAn interwiki link that will work within Wikimedia projects and lead to a wiki page (most probably in a Wikipedia) in your language providing more information about Creative Commons licenses.\n\nUsed in e.g.:\n* {{msg-mw|Wm-license-cc-by-3.0-2.5-2.0-1.0-text}}\n* {{msg-mw|Wm-license-cc-by-sa-2.5-2.0-1.0-text}}\n* {{msg-mw|Wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text}}",

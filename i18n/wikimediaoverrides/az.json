@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wertuose",
 			"Nemo bis",
-			"Toghrul Rahimli"
+			"Toghrul Rahimli",
+			"Wertuose"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",

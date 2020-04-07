@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"grouppage-oversight": "{{ns:project}}:മേൽനോട്ടം",
 	"group-oversight": "മേൽനോട്ടക്കാർ",
 	"group-oversight-member": "മേൽനോട്ടം"

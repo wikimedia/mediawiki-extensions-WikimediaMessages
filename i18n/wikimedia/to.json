@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"sitesupport": "Ngaahi meʻa ʻofa",
 	"group-steward": "Kau setuate",
 	"group-steward-member": "Setuate"

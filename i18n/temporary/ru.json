@@ -1,13 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaganer",
-			"Okras",
 			"Ahonc",
-			"Александр Сигачёв",
-			"Kareyac",
 			"Facenapalm",
-			"Vlad5250"
+			"Kaganer",
+			"Kareyac",
+			"Okras",
+			"Vlad5250",
+			"Александр Сигачёв"
 		]
 	},
 	"wikimediamessages-desc": "Специфические временные сообщения Викимедиа",

@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tacsipacsi",
+			"BáthoryPéter",
 			"Nemo bis",
-			"Tgr",
-			"BáthoryPéter"
+			"Tacsipacsi",
+			"Tgr"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "A wiki látogatói ezt az IP-címet használva {{PLURAL:$1|1 fiókot|$1 fiókot}} hoztak létre az elmúlt egy napban. Ez a megengedett maximum ezen időtartam alatt, így az erről a címről látogatók jelenleg nem hozhatnak létre újabb fiókokat.\n\nHa épp egy Wikimédiás témájú eseményen veszel részt, a megoldásért kérlek olvasd el az [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP-korlátozás ideiglenes emelése]] útmutatót.",
