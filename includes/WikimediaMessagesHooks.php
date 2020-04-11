@@ -43,6 +43,8 @@ class WikimediaMessagesHooks {
 			'sidebar',
 			'sulrenamewarning-usenew',
 			'ipb-confirmhideuser', // T121639
+			'webauthn-module-description', // T248367
+			'webauthn-ui-login-prompt', // T248367
 		];
 
 		static $allbutmetawikikeys = [
