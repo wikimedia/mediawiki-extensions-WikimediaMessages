@@ -8,7 +8,6 @@
 			"Shirayuki"
 		]
 	},
-	"wm-license-cc-attribution": "Attribution",
 	"wm-license-cc-by-1.0-text": "This file is licenced under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] licence.",
 	"wm-license-cc-by-1.0-fi-text": "This file is licenced under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland] licence.",
 	"wm-license-cc-by-1.0-il-text": "This file is licenced under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel] licence.",
@@ -206,15 +205,7 @@
 	"wm-license-cc-sa-2.0-jp-text": "This file is licenced under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japan] licence.",
 	"wm-license-cc-zero-text": "This file is made available under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication].",
 	"wm-license-cc-zero-explanation": "The person who associated a work with this deed has dedicated the work to the [[{{int:wm-license-pd-wiki-link}}|public domain]] by waiving all of their rights to the work worldwide under copyright law, including all related and neighbouring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.",
-	"wm-license-cc-free": "You are free:",
-	"wm-license-cc-free-to-share-header": "to share",
-	"wm-license-cc-free-to-share-text": "to copy, distribute and transmit the work",
-	"wm-license-cc-free-to-remix-header": "to remix",
-	"wm-license-cc-free-to-remix-text": "to adapt the work",
-	"wm-license-cc-conditions": "Under the following conditions:",
-	"wm-license-cc-conditions-attribution-header": "attribution",
 	"wm-license-cc-conditions-attribution-text": "You must attribute the work in the manner specified by the author or licencer (but not in any way that suggests that they endorse you or your use of the work).",
-	"wm-license-cc-conditions-share_alike-header": "share alike",
 	"wm-license-cc-conditions-share_alike-text": "If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar licence to this one.",
 	"wm-license-cc-pd-mark-text": "This file has been identified as being free of known restrictions under copyright law, including all related and neighbouring rights."
 }
