@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bugoslav",
 			"Masterches",
 			"Tisave"
 		]
@@ -13,5 +14,6 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-otherprojects-testwikidata": "Wikipodatci",
 	"wikimedia-developers": "Reyalizatè"
 }

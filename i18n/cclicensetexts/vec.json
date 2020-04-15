@@ -3,6 +3,7 @@
 		"authors": [
 			"Candalua",
 			"Conky77",
+			"Fierodelveneto",
 			"Vajotwo"
 		]
 	},
@@ -141,7 +142,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/si/ Atribusion-Condividi a lo stesso modo 2.5 Slovenia].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/tw/ Atribusion-Condividi a lo stesso modo 2.5 Taiwan].",
 	"wm-license-cc-by-sa-2.5-za-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/za/ Atribusion-Condividi a lo stesso modo 2.5 Sudafrica].",
-	"wm-license-cc-by-sa-3.0-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Atribusion-Condividi a lo stesso modo 3.0 Generico].",
+	"wm-license-cc-by-sa-3.0-text": "Sto file el xe soto ła liçensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Atribusion-Spartisi in te ła stesa manjiera 3.0 Xenèrego].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Sto file el xe soto la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Atribuzion-Condividi alo stesso modo [https://creativecommons.org/licenses/by-sa/3.0/deed.it 3.0 Unported], [https://creativecommons.org/licenses/by-sa/2.5/deed.it 2.5 Generico], [https://creativecommons.org/licenses/by-sa/2.0/deed.it 2.0 Generico] e [https://creativecommons.org/licenses/by-sa/1.0/deed.it 1.0 Generico]",
 	"wm-license-cc-by-sa-3.0-at-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/ Atribusion-Condividi a lo stesso modo 3.0 Austria].",
 	"wm-license-cc-by-sa-3.0-cz-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/cz/ Atribusion-Condividi a lo stesso modo 3.0 Republica Ceca].",
@@ -170,14 +171,14 @@
 	"wm-license-cc-sa-2.0-jp-text": "Sto file el xe soto la licensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.en Atribusion-Condividi a lo stesso modo 2.0 Giapon].",
 	"wm-license-cc-zero-text": "Sto file el xe reso disponibile nei termini de la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.it CC0 1.0 Universal Public Domain Dedication].",
 	"wm-license-cc-zero-explanation": "La persona che gà associà un'opera co sto documento la gà dedicà el laoro al [[{{int:wm-license-pd-wiki-link}}|dominio publico]] rinunciando a tuti i so diriti in tuto el mondo e par quanto parmesso da la lege, a tuti i so diriti d'autor su l'opera e a tuti i diriti conessi o altri diriti simili che la podesse verghe su l'opera. Te poli copiar, canbiar, distribuir e mejorar el laoro, anca par fini comerciali, sensa bisogno de nissun parmesso.",
-	"wm-license-cc-free": "Ti sì libaro:",
-	"wm-license-cc-free-to-share-header": "de condivìdar",
+	"wm-license-cc-free": "Te si libaro:",
+	"wm-license-cc-free-to-share-header": "de spartire in jiro",
 	"wm-license-cc-free-to-share-text": "de copiar, distribuir e trasmétar sta opera",
-	"wm-license-cc-free-to-remix-header": "de modificar",
+	"wm-license-cc-free-to-remix-header": "de modifegar",
 	"wm-license-cc-free-to-remix-text": "de adatar sta opera",
-	"wm-license-cc-conditions": "Soto le seguenti condission:",
+	"wm-license-cc-conditions": "Soto le seguenti condision:",
 	"wm-license-cc-conditions-attribution-header": "atribussion",
 	"wm-license-cc-conditions-attribution-text": "Te ghe da atribuir ƚa paternità de ƚ'opera ne i modi indicà de l'autor o da chi te gà dà l'opera en lisensa, e en modo tale da no sugerir che lori i sia d'acordo con ti o col modo che te dòpari l'opera.",
-	"wm-license-cc-conditions-share_alike-header": "condividi al stesso modo",
-	"wm-license-cc-conditions-share_alike-text": "Se te àlteri, trasformi, o te costruisi qualcoxa da sta opera, te devi distribuir el laoro in base a ƚa [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses soto la stessa licensa o una che ghe someja] a 'l originaƚe."
+	"wm-license-cc-conditions-share_alike-header": "spartisi in te ła stesa manjiera",
+	"wm-license-cc-conditions-share_alike-text": "Se te mis-ci, trasformi o dexviłupi sto laoro, te ghè da spartire łe to contribusion segondo ła [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses stesa liçensa o na conpatibiłe] a l'orixenałe."
 }
