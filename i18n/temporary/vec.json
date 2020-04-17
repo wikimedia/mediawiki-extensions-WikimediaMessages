@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Candalua"
+			"Candalua",
+			"Fierodelveneto"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Supervision",
-	"group-oversight": "Supervisori",
+	"group-oversight": "Supervixori",
 	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora}}"
 }
