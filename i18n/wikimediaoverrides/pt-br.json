@@ -5,6 +5,7 @@
 			"Eduardo Addad de Oliveira",
 			"Felipe L. Ewald",
 			"Fúlvio",
+			"Leonardo9387",
 			"Nemo bis"
 		]
 	},
@@ -33,5 +34,7 @@
 	"wikimedia-urlshortener-disabled": "Links curtos só podem ser criados página [[:m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Links curtos só podem ser criados com uma chamada para a wiki meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Links curtos só podem ser criados página [[:m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
-	"wikimedia-apierror-urlshortener-permissiondenied": "Links curtos só podem ser criados com uma chamada para a wiki meta.wikimedia.org."
+	"wikimedia-apierror-urlshortener-permissiondenied": "Links curtos só podem ser criados com uma chamada para a wiki meta.wikimedia.org.",
+	"wikimedia-webauthn-module-description": "WebAuthn (Authenticação de Web) é um padrão de web publicado pela World Wide Web Consortium (W3C). WebAuthn é um componente essencial do Projeto FIDO2 sob a orientação da FIDO Alliance. O objetivo do projeto é padronizar uma interface para autenticar usuários para aplicações baseadas na web e serviços usando criptografia de público-chave. [https://en.wikipedia.org/wiki/WebAuthn Ler mais]. Note que você vai precisar fazer login na mesma wiki que você originalmente registrou seu aparelho de verificação.",
+	"wikimedia-webauthn-ui-login-prompt": "Por favor toque no seu aparelho de verificação ou siga as instruções do navegador. Note que você vai precisar fazer login na mesma wiki que você originalmente registrou seu aparelho de verificação."
 }

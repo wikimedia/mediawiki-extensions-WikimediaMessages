@@ -50,9 +50,9 @@
 	"group-confirmed": "Utenti confermà",
 	"group-confirmed-member": "{{GENDER:$1|utente autoconvałidà}}",
 	"grouppage-confirmed": "{{ns:project}}:Utenti confermà",
-	"group-editprotected": "Modificadori de pagine protete",
+	"group-editprotected": "Modifegadori de pàjine protexeste",
 	"group-editprotected-member": "{{GENDER:$1|modifegator de pàjine protete|modifegatrise de pàjine protete|modifegator/trise de pàjine protete}}",
-	"grouppage-editprotected": "{{ns:project}}:Modificadori de pagine protete",
+	"grouppage-editprotected": "{{ns:project}}:Modifegadori de pàjine protexeste",
 	"group-eliminator": "Eliminadori",
 	"group-eliminator-member": "{{GENDER:$1|eliminador|eliminadora|eliminador/a}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminador",
@@ -94,9 +94,9 @@
 	"grouppage-uploader": "{{ns:project}}:Caricadori",
 	"group-apihighlimits-requestor": "Dimandanti de API có limite pì alto",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|dimandante}} de API có limite pì alto",
-	"group-centralnoticeadmin": "'Ministradori dei avisi sentralizà",
-	"group-centralnoticeadmin-member": "{{GENDER:$1|'ministrador dei avisi sentralizà|'ministratrise dei avisi sentralizà|'ministrador/trise dei avisi sentralizà}}",
-	"grouppage-centralnoticeadmin": "{{ns:project}}:'Ministradori dei avisi sentralizà",
+	"group-centralnoticeadmin": "Aministradori dei avixi çentrałixai",
+	"group-centralnoticeadmin-member": "{{GENDER:$1|aministradore|aministradora|aministradore/a}} avixi çentrałixai",
+	"grouppage-centralnoticeadmin": "{{ns:project}}:Aministradori de avixi çentrałixai",
 	"group-global-bot": "Bot globali",
 	"group-global-bot-member": "{{GENDER:$1|bot globałe}}",
 	"group-global-ipblock-exempt": "Eçesion dal bloco IP globałe",
@@ -137,5 +137,7 @@
 	"wikimediashoplink-linktext": "Botega de Wikipedia",
 	"wikimediashoplink-link-tooltip": "Va drento a ła botega de Wikipedia",
 	"interlanguage-link-mul": "Altre lengoe",
-	"wikimedia-cookiestatement": "Dichiarasion sui cookie"
+	"wikimedia-cookiestatement": "Dichiarasion sui cookie",
+	"querypage-updates-half-monthly": "Sta pàjina ła vien ajornata dó ólte al mexe",
+	"querypage-updates-monthly": "Sta pàjina ła vien ajornada ogni mexe"
 }

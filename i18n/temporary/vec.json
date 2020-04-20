@@ -7,5 +7,5 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Supervision",
 	"group-oversight": "Supervixori",
-	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora}}"
+	"group-oversight-member": "{{GENDER:$1|supervixore|supervixora}}"
 }

@@ -6,8 +6,10 @@
 	},
 	"sitesupport": "Туаррьйлассьтэ",
 	"tooltip-n-sitesupport": "Туаррьйласьт мӣнэтҍ",
+	"wikimedia-copyright": "Тэнн текст вуайй <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike лицензия</a> вӯйкнэг мӣлльтэ оаннӭ, ноэ вуэйев я лашшь вӯйкнэг лӣйе (кӣч <a href=\"https://foundation.wikimedia.org/wiki/Оаннӭмушш вӯйкнэг\">Оаннӭмушш вӯйкнэг)</a>.",
 	"wikibase-sitelinks-wikinews": "Викио̄дтас",
 	"wikibase-sitelinks-wikiquote": "Викицитатнэһкь",
 	"wikibase-sitelinks-wikisource": "Викитека",
-	"wikibase-sitelinks-wikivoyage": "Викиво̄дтэй"
+	"wikibase-sitelinks-wikivoyage": "Викиво̄дтэй",
+	"wikimedia-developers": "Проект лыһкэй"
 }

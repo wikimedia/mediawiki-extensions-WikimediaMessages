@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bugoslav",
 			"Dbc334",
 			"Eleassar",
 			"Janezdrilc",
@@ -138,6 +139,7 @@
 	"wikibase-otherprojects-wikiversity": "Wikiverza",
 	"wikibase-otherprojects-wikivoyage": "Wikipotovanje",
 	"wikibase-otherprojects-wiktionary": "Wikislovar",
+	"wikibase-otherprojects-wikimania": "Wikimanija",
 	"wikibase-sitelinks-sitename-commonswiki": "Wikimedijina zbirka",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-species": "Wikivrste",

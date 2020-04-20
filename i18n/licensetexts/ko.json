@@ -106,7 +106,7 @@
 	"wm-license-pd-usgov-noaa-text": "이 파일은 [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|미국 해양대기청]]의 공무원이 공무상 작성하거나 촬영한 저작물입니다. [[{{int:wm-license-pd-usgov-wiki-link}}|미국 연방정부]]의 [[{{int:wm-license-pd-usgov-work-wiki-link}}|저작물]]이므로 이 파일은 '''[[{{int:wm-license-pd-wiki-link}}|퍼블릭 도메인]]'''입니다.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:ko:미국 해양대기청",
 	"wm-license-pd-wiki-link": "w:ko:퍼블릭 도메인",
-	"wm-license-self": "이 저작물의 저작권자인 나는, 다음 {{PLURAL:$2|라이선스}}에 따라 이 저작물을 배포합니다:",
+	"wm-license-self": "이 저작물의 저작권자인 나는, 다음 {{PLURAL:$1|라이선스}}에 따라 이 저작물을 배포합니다:",
 	"wm-license-self-with-author": "이 저작물의 저작권자인 $1은, 다음 {{PLURAL:$2|라이선스}}에 따라 이 저작물을 배포합니다:",
 	"wm-license-self-one-license": "나는 아래 작품의 저작권자로서, 이 저작물을 다음과 같은 라이선스로 배포합니다:",
 	"wm-license-self-one-license-with-author": "$1은(는) 아래 작품의 저작권자로서, 해당 저작물을 다음과 같은 라이선스로 배포합니다:",

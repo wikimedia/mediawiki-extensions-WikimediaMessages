@@ -29,5 +29,7 @@
 	"wikimedia-urlshortener-disabled": "Кратките врски можат да се создаваат само преку [[:m:Special:UrlShortener|скратувачот на URL-а]] на meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Кратките врски можат да се создаваат повикувајќи го викито meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Кратките врски можат да се создаваат само преку [[:m:Special:UrlShortener|скратувачот на URL-а]] на meta.wikimedia.org.",
-	"wikimedia-apierror-urlshortener-permissiondenied": "Кратките врски можат да се создаваат повикувајќи го викито meta.wikimedia.org."
+	"wikimedia-apierror-urlshortener-permissiondenied": "Кратките врски можат да се создаваат повикувајќи го викито meta.wikimedia.org.",
+	"wikimedia-webauthn-module-description": "WebAuthn (Семрежна заверка) е семрежен стандард на Конзорциумот на светската пајажина (W3C). Ова е основна составница на проектот FIDO2 под водство на сојузот FIDO. Има за цел да го стандардизира посредникот за заверка на корисници во семрежни прилози и услуги користејќи асиметрична криптографија. [https://en.wikipedia.org/wiki/WebAuthn Прочитајте повеќе]. Имајте на ум дека ќе треба да се најавите на истото вики од кое првично сте го пријавиле уредот за заверка",
+	"wikimedia-webauthn-ui-login-prompt": "Допрете го уредут за заверка или проследете ги напатствијата од прелистувачот. Имајте на ум дека ќе треба да се најавите на истото вики од кое првично сте го пријавиле уредот за заверка"
 }
