@@ -36,5 +36,6 @@
 	"wikimedia-urlshortener-disabled": "Скорочені посилання можна створювати лише на сторінці [[:m:Special:UrlShortener|Special:UrlShortener]] на meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Скорочені посилання можуть бути створені тільки викликаючи вікі meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Скорочені посилання можна створювати лише на сторінці [[:m:Special:UrlShortener|Special:UrlShortener]] на meta.wikimedia.org.",
-	"wikimedia-apierror-urlshortener-permissiondenied": "Скорочені посилання можуть бути створені тільки через виклик вікі meta.wikimedia.org."
+	"wikimedia-apierror-urlshortener-permissiondenied": "Скорочені посилання можуть бути створені тільки через виклик вікі meta.wikimedia.org.",
+	"wikimedia-webauthn-ui-login-prompt": "Будь ласка, торкніться свого пристрою верифікації, або дотримуйтесь браузерних інструкцій. Вам знадобиться увійти до тої самої вікі, де ви зареєстрували пристрій верифікації"
 }
