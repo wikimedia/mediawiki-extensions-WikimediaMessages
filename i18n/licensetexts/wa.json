@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Lucyin",
+			"Reptilien.19831209BE1",
 			"Srtxg"
 		]
 	},
@@ -56,5 +57,5 @@
 	"wm-license-information-other-versions": "Ôtès modêyes",
 	"wm-license-own-work": "Prôpe ovraedje",
 	"wm-license-self-one-license-with-author": "$1, li ci k' a les abondroets so ciste ouve, l' eplaide dizo l' licinse shuvante:",
-	"wm-license-self-multiple-licenses-select": "Voz ploz tchoezi l' licince ki vos vloz eployî."
+	"wm-license-self-multiple-licenses-select": "Voz ploz tchoezi l’&nbsp;licince ki vos vloz eployî."
 }
