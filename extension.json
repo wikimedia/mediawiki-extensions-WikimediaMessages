@@ -52,54 +52,22 @@
 	},
 	"callback": "WikimediaMessagesHooks::onRegistration",
 	"Hooks": {
-		"MessageCache::get": [
-			"WikimediaMessagesHooks::onMessageCacheGet"
-		],
-		"SkinCopyrightFooter": [
-			"WikimediaMessagesHooks::onSkinCopyrightFooter"
-		],
-		"EditPageCopyrightWarning": [
-			"WikimediaMessagesHooks::onEditPageCopyrightWarning"
-		],
-		"MobileLicenseLink": [
-			"WikimediaMessagesHooks::onMobileLicenseLink"
-		],
-		"SkinTemplateOutputPageBeforeExec": [
-			"WikimediaMessagesHooks::onSkinTemplateOutputPageBeforeExec"
-		],
-		"TorBlockBlockedMsg": [
-			"WikimediaMessagesHooks::onTorBlockBlockedMsg"
-		],
-		"GlobalBlockingBlockedIpMsg": [
-			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg"
-		],
-		"GlobalBlockingBlockedIpRangeMsg": [
-			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg"
-		],
-		"GlobalBlockingBlockedIpXffMsg": [
-			"WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg"
-		],
-		"MinervaPreRender": [
-			"WikimediaMessagesHooks::onMinervaPreRender"
-		],
-		"UploadForm:initial": [
-			"WikimediaMessagesHooks::onUploadFormInitial"
-		],
-		"ChangesListSpecialPageStructuredFilters": [
-			"WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters"
-		],
-		"LocalUserCreated": [
-			"WikimediaMessagesHooks::onLocalUserCreated"
-		],
-		"ResourceLoaderRegisterModules": [
-			"WikimediaMessagesHooks::onResourceLoaderRegisterModules"
-		],
-		"GetPreferences": [
-			"WikimediaMessagesHooks::onGetPreferences"
-		],
-		"SpecialPageBeforeExecute": [
-			"WikimediaMessagesHooks::onSpecialPageBeforeExecute"
-		]
+		"MessageCache::get": "WikimediaMessagesHooks::onMessageCacheGet",
+		"SkinCopyrightFooter": "WikimediaMessagesHooks::onSkinCopyrightFooter",
+		"EditPageCopyrightWarning": "WikimediaMessagesHooks::onEditPageCopyrightWarning",
+		"MobileLicenseLink": "WikimediaMessagesHooks::onMobileLicenseLink",
+		"SkinTemplateOutputPageBeforeExec": "WikimediaMessagesHooks::onSkinTemplateOutputPageBeforeExec",
+		"TorBlockBlockedMsg": "WikimediaMessagesHooks::onTorBlockBlockedMsg",
+		"GlobalBlockingBlockedIpMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg",
+		"GlobalBlockingBlockedIpRangeMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg",
+		"GlobalBlockingBlockedIpXffMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg",
+		"MinervaPreRender": "WikimediaMessagesHooks::onMinervaPreRender",
+		"UploadForm:initial": "WikimediaMessagesHooks::onUploadFormInitial",
+		"ChangesListSpecialPageStructuredFilters": "WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters",
+		"LocalUserCreated": "WikimediaMessagesHooks::onLocalUserCreated",
+		"ResourceLoaderRegisterModules": "WikimediaMessagesHooks::onResourceLoaderRegisterModules",
+		"GetPreferences": "WikimediaMessagesHooks::onGetPreferences",
+		"SpecialPageBeforeExecute": "WikimediaMessagesHooks::onSpecialPageBeforeExecute"
 	},
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
