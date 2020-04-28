@@ -164,6 +164,7 @@
 	"wikibase-sitelinks-sitename-species": "Викиаматаш",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викихаамаш",
 	"wikimedia-developers": "Кечдархой",
+	"wikimedia-torblock-blocked": "Хьан IP-адрес <strong>$1</strong> авто билгалдина Tor тӀера санна.\nTor браузер тӀера хийцамаш барна блоктоьхна зулам цадайтархьама.\nКхин сов хаамашка хьажа [[m:Special:MyLanguage/No open proxies|кху агӀонехь]].",
 	"grant-checkuser": "Декъашхошка хьажа таро ю",
 	"upload-form-label-own-work-message-commons": "Аса со хӀокху файлан авторан бакъонаш долахь ерг хилар бакъдо, цундела хӀара файл [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike 4.0] лицензица Викиларман чуяккха бакъо ю, цул совнах [https://foundation.wikimedia.org/wiki/ хӀокху хьолаца лело] а мега.",
 	"upload-form-label-not-own-work-message-commons": "ХӀокху файлан авторан бакъонаш хьай яцахь, я хьайна кхечу лицензица яржо лууш делахь хьажа [https://commons.wikimedia.org/wiki/Special:UploadWizard Викигуламера чуяхаран говзанча] лелон тароне.",
