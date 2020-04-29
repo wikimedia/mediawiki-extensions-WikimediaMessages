@@ -4,8 +4,12 @@
 			"Starladin"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "AL é la lizënza da copié, da dé inant y/o müdé chësc documënt aladô dla lizënza '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verjiun 1.2 o vigni atra verjiun suandënta publicada dala [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zënza seziuns che ara ne vá nia da mudé, zënza test söl cuertl ca dant y do ia. Na copia dla lizënza é tla seziun cun le titul ''[[{{int:wm-license-gfdl-full-1.2-link}}|Test dla GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Descriziun",
 	"wm-license-information-source": "Funtana",
 	"wm-license-information-date": "Data",
-	"wm-license-information-author": "Autur"
+	"wm-license-information-author": "Autur",
+	"wm-license-information-permission": "Lizënza",
+	"wm-license-information-permission-reusing-text": "Tó ca danü chësc file",
+	"wm-license-own-work": "Opera personala"
 }
