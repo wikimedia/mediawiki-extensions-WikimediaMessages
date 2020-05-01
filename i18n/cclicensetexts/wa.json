@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "atribucion",
+	"wm-license-cc-by-sa-3.0-text": "Ci fitchî ci est rprindåve sorlon çou k’&nbsp;est dit divins licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr Atribouwaedje – Pårtaedje avou les minmes accoirds 3.0 (non transposée)].",
 	"wm-license-cc-free": "Vos estoz libe :",
 	"wm-license-cc-free-to-share-header": "di pårtaedjî",
 	"wm-license-cc-free-to-share-text": "di rcopyî, di rispåde eyet di rdiner cisse ouve ci",
@@ -13,5 +14,6 @@
 	"wm-license-cc-conditions": "Avou les condicions ki shuvèt :",
 	"wm-license-cc-conditions-attribution-header": "atribucion",
 	"wm-license-cc-conditions-attribution-text": "Vos dvoz dner les racsegnes so l’&nbsp;oteur ki vont bén, diner on loyén eviè l’&nbsp;licince eyet mete si des candjmints ont stî fwaits. Vos ploz fé çoula di tote sôre di manires, mins nén tot djant ki l’&nbsp;oteur vs aspale udonbén asprouve l’&nbsp;uzaedje ki vos nd e fjhoz.",
-	"wm-license-cc-conditions-share_alike-header": "pårtaedje a l’&nbsp;idintike"
+	"wm-license-cc-conditions-share_alike-header": "pårtaedje a l’&nbsp;idintike",
+	"wm-license-cc-conditions-share_alike-text": "Si vs candjîz u si vs eployîz ciste ouve ci po dnè fé ene ôte, vos dvoz mete vost ovraedje dizo [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses l’&nbsp;minme licince u ene licince] ki va avou l’&nbsp;cene di l’&nbsp;ouve d’&nbsp;oridjinne."
 }
