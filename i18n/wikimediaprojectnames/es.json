@@ -6,6 +6,7 @@
 			"Fitoschido",
 			"Lemondoge",
 			"Macofe",
+			"MarcoAurelio",
 			"Pginer"
 		]
 	},
@@ -64,6 +65,7 @@
 	"project-localized-name-auditcomwiki": "Comité de auditoría",
 	"project-localized-name-avwiki": "Wikipedia en avar",
 	"project-localized-name-avwiktionary": "Wikcionario en avar",
+	"project-localized-name-awawiki": "Wikipedia en awadhi",
 	"project-localized-name-aywiki": "Wikipedia en aimara",
 	"project-localized-name-aywikibooks": "Wikilibros en aimara",
 	"project-localized-name-aywiktionary": "Wikcionario en aimara",
@@ -279,6 +281,7 @@
 	"project-localized-name-gnwiki": "Wikipedia en guaraní",
 	"project-localized-name-gnwikibooks": "Wikilibros en guaraní",
 	"project-localized-name-gnwiktionary": "Wikcionario en guaraní",
+	"project-localized-name-gomwiktionary": "Wikcionario en konkani de Goa",
 	"project-localized-name-gorwiki": "Wikipedia en gorontalo",
 	"project-localized-name-gotwiki": "Wikipedia en gótico",
 	"project-localized-name-gotwikibooks": "Wikilibros en gótico",
@@ -505,6 +508,7 @@
 	"project-localized-name-nahwikibooks": "Wikilibros en náhuatl",
 	"project-localized-name-nahwiktionary": "Wikcionario en náhuatl",
 	"project-localized-name-napwiki": "Wikipedia en napolitano",
+	"project-localized-name-napwikisource": "Wikisource en napolitano",
 	"project-localized-name-nawiki": "Wikipedia en nauruano",
 	"project-localized-name-nawikibooks": "Wikilibros en nauruano",
 	"project-localized-name-nawikiquote": "Wikiquote en nauruano",

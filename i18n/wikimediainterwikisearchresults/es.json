@@ -3,7 +3,8 @@
 		"authors": [
 			"Dgstranz",
 			"Fitoschido",
-			"Macofe"
+			"Macofe",
+			"MarcoAurelio"
 		]
 	},
 	"search-interwiki-results-abwiki": "Resultados de la [[:ab:|Wikipedia en abjasio]].",
@@ -21,6 +22,7 @@
 	"search-interwiki-results-astwiki": "Resultados de la [[:ast:|Wikipedia en asturiano]].",
 	"search-interwiki-results-aswiki": "Resultados de la [[:as:|Wikipedia en asamés]].",
 	"search-interwiki-results-avwiki": "Resultados de la [[:av:|Wikipedia en ávaro]].",
+	"search-interwiki-results-awawiki": "Resultados de la [[:awa:|Wikipedia en awadhi]].",
 	"search-interwiki-results-aywiki": "Resultados de la [[:ay:|Wikipedia en aimara]].",
 	"search-interwiki-results-azwiki": "Resultados de la [[:az:|Wikipedia en azerí]].",
 	"search-interwiki-results-banwiki": "Resultados de la [[:ban:|Wikipedia en balinés]].",

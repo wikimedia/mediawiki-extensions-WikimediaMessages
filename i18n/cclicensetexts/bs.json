@@ -5,7 +5,8 @@
 			"Diebuche",
 			"Multichill",
 			"Obsuser",
-			"Palapa"
+			"Palapa",
+			"Srdjan m"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:bs:Creative Commons",
@@ -181,8 +182,8 @@
 	"wm-license-cc-free-to-remix-text": "da prilagodite djelo",
 	"wm-license-cc-conditions": "Pod sljedećim uslovima:",
 	"wm-license-cc-conditions-attribution-header": "pripisivanje",
-	"wm-license-cc-conditions-attribution-text": "Morate nasloviti rad na način kako je to odredio autor ili osoba koja posjeduje licencu (ali ne na način koji sugeriše da su oni vama potvrdili ili odobrili korištenje rada).",
+	"wm-license-cc-conditions-attribution-text": "Morate pripisati odgovarajuće autorske zasluge, osigurati link ka licenci i naznačiti jesu li napravljene izmjene. To možete uraditi na bilo koji razumni način, ali ne tako da se sugerira da davalac licence odobrava Vas ili Vašu upotrebu njegovog djela.",
 	"wm-license-cc-conditions-share_alike-header": "dijeli pod istim uslovima",
-	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod istom ili sličnom licencom poput ove.",
+	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses istom ili sličnom licencom] poput ove.",
 	"wm-license-cc-pd-mark-text": "Ova datoteka je identificirana kao slobodna od poznatih ograničenja po zakonu o autorskim pravima, uključujući sva povezana i srodna prava."
 }
