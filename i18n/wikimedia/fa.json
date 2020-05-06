@@ -15,6 +15,7 @@
 			"Dalba",
 			"Ebraminio",
 			"Elham",
+			"FarsiNevis",
 			"Huji",
 			"Ladsgroup",
 			"Leyth",
@@ -337,6 +338,6 @@
 	"technical-maintenance-edit": "در این زمان امکان ذخیرهٔ هیچ ویرایشی وجود ندارد.",
 	"group-oathauth-tester": "آزمایش‌کنندگان اعتبارسنجی دومرحله‌ای",
 	"group-oathauth-tester-member": "{{GENDER:$1|آزمایش‌کنندهٔ اعتبارسنجی دومرحله‌ای}}",
-	"querypage-updates-half-monthly": "این صفحه هر ماه دو بار به‌روز می‌شود.",
-	"querypage-updates-monthly": "این صفحه ماهانه به‌روز می‌شود."
+	"querypage-updates-half-monthly": "این صفحه دو بار در ماه روزآمد می‌شود.",
+	"querypage-updates-monthly": "این صفحه یک بار در ماه روزآمد می‌شود."
 }
