@@ -56,7 +56,7 @@
 		"SkinCopyrightFooter": "WikimediaMessagesHooks::onSkinCopyrightFooter",
 		"EditPageCopyrightWarning": "WikimediaMessagesHooks::onEditPageCopyrightWarning",
 		"MobileLicenseLink": "WikimediaMessagesHooks::onMobileLicenseLink",
-		"SkinTemplateOutputPageBeforeExec": "WikimediaMessagesHooks::onSkinTemplateOutputPageBeforeExec",
+		"SkinAddFooterLinks": "WikimediaMessagesHooks::onSkinAddFooterLinks",
 		"TorBlockBlockedMsg": "WikimediaMessagesHooks::onTorBlockBlockedMsg",
 		"GlobalBlockingBlockedIpMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg",
 		"GlobalBlockingBlockedIpRangeMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg",
