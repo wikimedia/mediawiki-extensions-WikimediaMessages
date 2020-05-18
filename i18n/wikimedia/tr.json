@@ -63,6 +63,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Kötüye kullanım süzgeci editörleri",
 	"group-abusefilter-helper": "Kötüye kullanım süzgeci yardımcıları",
 	"group-abusefilter-helper-member": "{{GENDER:$1|kötüye kullanım süzgeci yardımcısı}}",
+	"group-abusefilter-maintainer": "Kötüye kullanım filtresi koruyucular",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|Kötüye kullanım filtresi koruyucusu}}",
 	"group-accountcreator": "Hesap oluşturucular",
 	"group-accountcreator-member": "{{GENDER:$1|hesap oluşturucu}}",
 	"grouppage-accountcreator": "{{ns:project}}:Hesap oluşturucular",

@@ -105,6 +105,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Modificateurs de filtre antiabus",
 	"group-abusefilter-helper": "Aides des filtres d’abus",
 	"group-abusefilter-helper-member": "{{GENDER:$1|aide de filtre d’abus}}",
+	"group-abusefilter-maintainer": "Personnes en charge de maintenir les filtres anti-abus",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|personnes en charge de maintenir les filtres anti-abus}}",
 	"group-accountcreator": "Créateurs de comptes",
 	"group-accountcreator-member": "{{GENDER:$1|créateur de comptes|créatrice de comptes}}",
 	"grouppage-accountcreator": "{{ns:project}}:Créateurs de comptes",

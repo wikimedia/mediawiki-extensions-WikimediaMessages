@@ -69,6 +69,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Missbrauchsfilter-Bearbeiter",
 	"group-abusefilter-helper": "Missbrauchsfilter-Helfer",
 	"group-abusefilter-helper-member": "{{GENDER:$1|Missbrauchsfilter-Helfer|Missbrauchsfilter-Helferin}}",
+	"group-abusefilter-maintainer": "Betreuer von Missbrauchsfiltern",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|Betreuer von Missbrauchsfiltern|Betreuerin von Missbrauchsfiltern}}",
 	"group-accountcreator": "Benutzerkontenersteller",
 	"group-accountcreator-member": "{{GENDER:$1|Benutzerkontenersteller|Benutzerkontenerstellerin}}",
 	"grouppage-accountcreator": "{{ns:project}}:Benutzerkontenersteller",
