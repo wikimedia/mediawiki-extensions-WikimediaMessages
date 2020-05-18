@@ -728,6 +728,7 @@
 	"project-localized-name-shwiki": "{{ProjectNameDocumentation|url=https://sh.wikipedia.org|name=Serbo-Croatian Wikipedia|language=sh}}",
 	"project-localized-name-shwiktionary": "{{ProjectNameDocumentation|url=https://sh.wiktionary.org|name=Serbo-Croatian Wiktionary|language=sh}}",
 	"project-localized-name-shnwiki": "{{ProjectNameDocumentation|url=https://shn.wikipedia.org|name=Shan Wikipedia|language=shn}}",
+	"project-localized-name-shnwiktionary": "{{ProjectNameDocumentation|url=https://shn.wiktionary.org|name=Shan Wiktionary|language=shn}}",
 	"project-localized-name-shywiktionary": "{{ProjectNameDocumentation|url=https://shy.wiktionary.org|name=Shawiya Wiktionary|language=shy-latn}}",
 	"project-localized-name-simplewiki": "{{ProjectNameDocumentation|url=https://simple.wikipedia.org|name=Simple English Wikipedia|language=en}}",
 	"project-localized-name-simplewikibooks": "{{ProjectNameDocumentation|url=https://simple.wikibooks.org|name=Simple English Wikibooks|language=en}}",
