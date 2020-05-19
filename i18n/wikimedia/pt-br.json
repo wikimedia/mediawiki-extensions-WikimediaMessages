@@ -78,6 +78,7 @@
 	"group-abusefilter-helper": "Ajudantes do filtro de abuso",
 	"group-abusefilter-helper-member": "{{GENDER:$1|ajudante do filtro de abuso}}",
 	"group-abusefilter-maintainer": "Mantenedores de filtros de abuso",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|mantenedor de filtro de abuso|mantenedora de filtro de abuso}}",
 	"group-accountcreator": "Criadores de contas",
 	"group-accountcreator-member": "{{GENDER:$1|criador|criadora|criador(a)}} de contas",
 	"grouppage-accountcreator": "{{ns:project}}:Criadores de contas",
