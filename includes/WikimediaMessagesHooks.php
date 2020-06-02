@@ -21,37 +21,37 @@ class WikimediaMessagesHooks {
 		static $keys = [
 			'acct_creation_throttle_hit',
 			'centralauth-contribs-locked',
+			'centralauth-login-error-locked', // T216347
 			'centralauth-uwbr-intro',
 			'centralauth-uwbr-registration-nodate',
-			'centralauth-login-error-locked', // T216347
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			'delete-toobig', // T139797
 			'discussiontools-replywidget-terms-click',
 			'feedback-termsofuse',
+			'flow-terms-of-use-edit',
+			'flow-terms-of-use-lock-topic',
 			'flow-terms-of-use-new-topic',
 			'flow-terms-of-use-reply',
-			'flow-terms-of-use-edit',
 			'flow-terms-of-use-summarize',
-			'flow-terms-of-use-lock-topic',
 			'flow-terms-of-use-unlock-topic',
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
 			'interfaceadmin-info',
+			'ipb-confirmhideuser', // T121639
 			'mwoauthserver-invalid-user',
 			'privacypage',
 			'sidebar',
 			'sulrenamewarning-usenew',
-			'ipb-confirmhideuser', // T121639
 			'webauthn-module-description', // T248367
 			'webauthn-ui-login-prompt', // T248367
 		];
 
 		static $allbutmetawikikeys = [
-			'urlshortener-disabled', // T221526
 			'apierror-urlshortener-disabled', // T221526
-			'urlshortener-badaccessgroups', // T230253
 			'apierror-urlshortener-permissiondenied', // T230253
+			'urlshortener-badaccessgroups', // T230253
+			'urlshortener-disabled', // T221526
 		];
 
 		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
