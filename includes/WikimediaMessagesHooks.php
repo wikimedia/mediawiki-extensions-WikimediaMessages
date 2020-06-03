@@ -39,6 +39,7 @@ class WikimediaMessagesHooks {
 			'globalrenamequeue-email-body-rejected',
 			'interfaceadmin-info',
 			'ipb-confirmhideuser', // T121639
+			'mwoauth-form-privacypolicy-link',
 			'mwoauthserver-invalid-user',
 			'privacypage',
 			'sidebar',
