@@ -26,5 +26,6 @@
 	"wikimedia-interfaceadmin-info": "サイト全体のCSS/JS/JSONの編集における許可は、最近、[[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]グループのメンバーに限定されました。詳細は[[m:Creation of separate user group for editing sitewide CSS/JS]]を参照してください。",
 	"wikimedia-sulrenamewarning-usenew": "これ以降はあなたは新規の利用者名<strong>$1</strong>を使用してログインする必要があります。新規利用者名はウィキメディアでの全てのプロジェクトにおいてあなたに固有のものであり、あるプロジェクトにログインした後にその他のプロジェクトを訪問した場合、アカウントもともに移動します。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]には、よく寄せられる質問の一覧と同様に、シングルユーザー・ログインについてさらなる情報があります。もし自分の[[Special:Preferences|個人設定]]でメールのアドレスを更新したりパスワードを変更しなければならないとすれば、今が良い機会かもしれません。\n\n異なるアカウント名をリクエストするには、[[Special:GlobalRenameRequest]]を訪問してください。\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
 	"wikimedia-ipb-confirmhideuser": "「利用者名の秘匿」を有効にしてブロックしようとしています。実行すると、このウィキにあるすべての一覧や記録項目で利用者名が表示されません。本当に実行しますか?\n\nウィキメディアのすべてのウィキで利用者名の秘匿が必要な場合、[[m:Special:MyLanguage/Stewards|スチュワード]]宛てに[[m:Special:EmailUser/Wikimedia_Stewards|on-wiki メール]]を送るか、またはこちらのアドレス<kbd>stewards@wikimedia.org</kbd>に連絡をしてください。よろしくお願いします。",
-	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成することができます。"
+	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成することができます。",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]"
 }

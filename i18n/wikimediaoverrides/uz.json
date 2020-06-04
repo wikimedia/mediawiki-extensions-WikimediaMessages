@@ -3,5 +3,6 @@
 		"authors": []
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tanlashda yordam)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Suratdagi yozuvni tushunmayapsizmi? [[{{MediaWiki:createacct-captcha-help-url}}|Hisob yaratishga soʻrovlar]]"
+	"wikimedia-createacct-imgcaptcha-help": "Suratdagi yozuvni tushunmayapsizmi? [[{{MediaWiki:createacct-captcha-help-url}}|Hisob yaratishga soʻrovlar]]",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Maxfiylik siyosati]"
 }

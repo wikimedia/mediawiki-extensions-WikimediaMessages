@@ -251,7 +251,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''당신이 사용한 프록시 서버는 [[m:Special:MyLanguage/Global blocks|전역 차단]]되었습니다.'''\n\n차단한 사용자는 $1 ($2)입니다.\n\n차단한 이유는 ''$3''입니다.\n\n* 차단 시점: $4\n* 차단 기한: $5\n\n당신의 프록시 IP 주소는 $6입니다.\n차단 재검토를 요청할 때 위의 정보를 포함해 주세요.\n\n당신이 실수로 차단되었다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개 프록시 금지]] 전역 정책에서 더 많은 정보를 찾을 수 있습니다.\n차단의 재검토는 [[m:Steward requests/Global|메타위키]]에서 요청하실 수 있습니다.",
 	"wikimedia-torblock-blocked": "당신의 IP 주소인 <strong>$1</strong>은(는) 토르 끝 노드로 자동 판명되었습니다.\n토르를 통한 편집은 악용을 예방하기 위해 차단됩니다.\n정당한 사용자를 위한 추가 정보와 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]] 전역 정책을 참조하십시오.",
 	"wikimedia-mobile-terms-url": "https://m.foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ko",
-	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy 개인정보보호정책]",
 	"grant-checkuser": "체크유저 데이터에 접근",
 	"upload-form-label-own-work-message-commons": "나는 이 파일에 대한 저작권을 소유하고 있음을 입증하고, 영구히 위키미디어 공용에 이 파일을 [https://creativecommons.org/licenses/by-sa/4.0/ 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0]에 따라 배포하는 데 동의하며, [https://foundation.wikimedia.org/wiki/Terms_of_Use 이용 약관]에 동의합니다.",
 	"upload-form-label-not-own-work-message-commons": "이 파일의 저작권을 소유하지 않거나 다른 라이선스로 배포하고 싶다면 [https://commons.wikimedia.org/wiki/Special:UploadWizard 공용 파일 올리기 마법사]를 사용하는 것을 고려해보세요.",

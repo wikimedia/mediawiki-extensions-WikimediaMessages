@@ -7,5 +7,6 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（幫我揀）]]",
 	"wikimedia-flow-terms-of-use-new-topic": "當你撳「{{int:flow-newtopic-save}}」，就代表你同意我哋嘅[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款]，並同意唔反悔以[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0協議]同[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]公開你所寫嘅嘢",
-	"wikimedia-interfaceadmin-info": "$1\n\n改全站通用 CSS/JS/JSON 檔嘅權限由 <code>editinterface</code> 權限拆咗出嚟。如果你唔明點解會出呢個錯誤訊息，請睇[[mw:MediaWiki_1.32/interface-admin]]。"
+	"wikimedia-interfaceadmin-info": "$1\n\n改全站通用 CSS/JS/JSON 檔嘅權限由 <code>editinterface</code> 權限拆咗出嚟。如果你唔明點解會出呢個錯誤訊息，請睇[[mw:MediaWiki_1.32/interface-admin]]。",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/yue 私隱政策]"
 }

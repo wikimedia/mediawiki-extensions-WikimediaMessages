@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"01miki10",
 			"Nike",
 			"Pyscowicz"
 		]
 	},
 	"search-interwiki-results-abwiki": "Tulokset [[:ab:|abhaasinkielisestä Wikipediasta]].",
-	"search-interwiki-results-acewiki": "Tulokset [[:ace:|atšehinkielinen Wikipediasta]].",
+	"search-interwiki-results-acewiki": "Tulokset [[:ace:|atšehinkielisestä Wikipediasta]].",
 	"search-interwiki-results-adywiki": "Tulokset [[:ady:|adygenkielisestä Wikipediasta]].",
 	"search-interwiki-results-afwiki": "Tulokset [[:af:|afrikaansinkielisestä Wikipediasta]].",
 	"search-interwiki-results-akwiki": "Tulokset [[:ak:|akaninkielisestä Wikipediasta]].",
@@ -21,8 +22,10 @@
 	"search-interwiki-results-aswiki": "Tulokset [[:as:|assaminkielisestä Wikipediasta]].",
 	"search-interwiki-results-atjwiki": "Tulokset [[:atj:|atikamekwinkielisestä Wikipediasta]].",
 	"search-interwiki-results-avwiki": "Tulokset [[:av:|avaarinkielisestä Wikipediasta]].",
+	"search-interwiki-results-awawiki": "Tulokset [[:awa:|awadhinkielisestä Wikipediasta]].",
 	"search-interwiki-results-aywiki": "Tulokset [[:ay:|aimarankielisestä Wikipediasta]].",
 	"search-interwiki-results-azwiki": "Tulokset [[:az:|azerinkielisestä Wikipediasta]].",
+	"search-interwiki-results-banwiki": "Tulokset [[:ban:|balinkielisestä Wikipediasta]].",
 	"search-interwiki-results-barwiki": "Tulokset [[:bar:|baijerinkielisestä Wikipediasta]].",
 	"search-interwiki-results-bat_smgwiki": "Tulokset [[:bat-smg:|samogiitinkielisestä Wikipediasta]].",
 	"search-interwiki-results-bawiki": "Tulokset [[:ba:|baškiirinkielisestä Wikipediasta]].",
@@ -131,6 +134,10 @@
 	"search-interwiki-results-koiwiki": "Tulokset [[:koi:|komipermjakinkielisestä Wikipediasta]].",
 	"search-interwiki-results-kowiki": "Tulokset [[:ko:|koreankielisestä Wikipediasta]].",
 	"search-interwiki-results-krcwiki": "Tulokset [[:krc:|karatšai-balkaarinkielisestä Wikipediasta]].",
+	"search-interwiki-results-kuwiki": "Tulokset [[:ku:|kurdinkielisestä Wikipediasta]].",
+	"search-interwiki-results-kvwiki": "Tulokset [[:kv:|kominkielisestä Wikipediasta]].",
+	"search-interwiki-results-kwwiki": "Tulokset [[:kw:|korninkielisestä Wikipediasta]].",
+	"search-interwiki-results-kywiki": "Tulokset [[:ky:|kirgiisinkielisestä Wikipediasta]].",
 	"search-interwiki-results-lawiki": "Tulokset [[:la:|latinankielisestä Wikipediasta]].",
 	"search-interwiki-results-lbwiki": "Tulokset [[:lb:|luxemburginkielisestä Wikipediasta]].",
 	"search-interwiki-results-lezwiki": "Tulokset [[:lez:|lezginkielisestä Wikipediasta]].",
@@ -147,6 +154,9 @@
 	"search-interwiki-results-mnwiki": "Tulokset [[:mn:|mongoliankielisestä Wikipediasta]].",
 	"search-interwiki-results-mowiki": "Tulokset [[:mo:|moldovankielisestä Wikipediasta]].",
 	"search-interwiki-results-mrjwiki": "Tulokset [[:mrj:|vuorimarinkielisestä Wikipediasta]].",
+	"search-interwiki-results-mswiki": "Tulokset [[:ms:|malaijinkielisestä Wikipediasta]].",
+	"search-interwiki-results-mtwiki": "Tulokset [[:mt:|maltankielisestä Wikipediasta]].",
+	"search-interwiki-results-mywiki": "Tulokset [[:my:|burmankielisestä Wikipediasta]].",
 	"search-interwiki-results-nawiki": "Tulokset [[:na:|naurunkielisestä wikipediasta]].",
 	"search-interwiki-results-nds_nlwiki": "Tulokset [[:nds-nl:|alankomaidenalasaksankielisestä Wikipediasta]].",
 	"search-interwiki-results-ndswiki": "Tulokset [[:nds:|alasaksankielisestä Wikipediasta]].",

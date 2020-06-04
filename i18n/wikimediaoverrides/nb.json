@@ -32,5 +32,6 @@
 	"wikimedia-urlshortener-disabled": "Korte lenker kan opprettes via [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Korte lenker kan bare opprettes via et kall til wikien meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Korte lenker kan bare opprettes via [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
-	"wikimedia-apierror-urlshortener-permissiondenied": "Korte lenker kan kun opprettes med et kall til wikien meta.wikimedia.org."
+	"wikimedia-apierror-urlshortener-permissiondenied": "Korte lenker kan kun opprettes med et kall til wikien meta.wikimedia.org.",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Personvernspolicy]"
 }

@@ -31,5 +31,6 @@
 	"wikimedia-ipb-confirmhideuser": "Chystáte se zablokovat uživatele se zapnutým příznakem „skrýt uživatele“. Tím se uživatelské jméno utají ve všech seznamech a protokolovacích záznamech. Jste si {{GENDER:|jist|jista|jisti}}, že to chcete učinit?\n\nPokud je potřeba toto uživatelské jméno skrýt na všech wiki nadace Wikimedia, kontaktujte prosím [[m:Special:MyLanguage/Stewards|stevardy]] pomocí [[m:Special:EmailUser/Wikimedia_Stewards|formuláře]] nebo na <kbd>stewards@wikimedia.org</kbd>. Děkujeme.",
 	"wikimedia-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze prostřednictvím stránky [[:m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org.",
-	"wikimedia-apierror-urlshortener-permissiondenied": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org."
+	"wikimedia-apierror-urlshortener-permissiondenied": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org.",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://meta.wikimedia.org/wiki/Privacy_policy/cs Ochrana osobních údajů]"
 }
