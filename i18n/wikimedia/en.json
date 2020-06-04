@@ -349,5 +349,10 @@
 	"protect-level-editautopatrolprotected": "Allow only autopatrollers",
 	"restriction-level-editautopatrolprotected": "autopatrolers protected",
 	"right-editautopatrolprotected": "Edit pages protected as \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "edit pages protected as \"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "edit pages protected as \"{{int:protect-level-editautopatrolprotected}}\"",
+	"grouppage-docseditor": "Special:MyLanguage/Contributing",
+	"group-docseditor": "Documentation editors",
+	"group-docseditor-member": "{{GENDER:$1|documentation editor}}",
+	"action-docseditor": "edit documentation",
+	"right-docseditor": "Edit documentation"
 }
