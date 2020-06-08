@@ -287,7 +287,7 @@
 	"restriction-level-superprotect": "superzabezpieczenie",
 	"action-templateeditor": "edycji zabezpieczonych szablonów",
 	"right-templateeditor": "Edycja zabezpieczonych szablonów",
-	"restriction-level-templateeditor": "zabezpieczony edytor szablonów",
+	"restriction-level-templateeditor": "tylko do edycji przez edytujących szablony",
 	"protect-level-templateeditor": "Dozwolone tylko dla redaktorów szablonów i administratorów",
 	"action-extendedconfirmed": "edycji stron z ograniczeniami",
 	"right-extendedconfirmed": "Edycja stron z ograniczeniami",
@@ -334,5 +334,9 @@
 	"protect-level-editautopatrolprotected": "Dozwolone tylko dla patrolujących automatycznie",
 	"restriction-level-editautopatrolprotected": "zabezpieczone ne poziomie patrolujących automatycznie",
 	"right-editautopatrolprotected": "Edycja stron zabezpieczonych na poziomie „{{int:protect-level-editautopatrolprotected}}”",
-	"action-editautopatrolprotected": "edycji stron zabezpieczonych na poziomie „{{int:protect-level-editautopatrolprotected}}”"
+	"action-editautopatrolprotected": "edycji stron zabezpieczonych na poziomie „{{int:protect-level-editautopatrolprotected}}”",
+	"group-docseditor": "Edytorzy dokumentacji",
+	"group-docseditor-member": "{{GENDER:$1|edytor|edytorka}} dokumentacji",
+	"action-docseditor": "edytowania dokumentacji",
+	"right-docseditor": "Edytuj dokumentację"
 }

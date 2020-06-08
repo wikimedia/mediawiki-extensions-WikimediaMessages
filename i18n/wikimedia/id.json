@@ -174,5 +174,8 @@
 	"right-editextendedsemiprotected": "Menyunting halaman yang dilindungi sebagai \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Izinkan hanya pematroli otomatis",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Pernyataan kuki"
+	"wikimedia-cookiestatement": "Pernyataan kuki",
+	"group-docseditor": "Editor dokumentasi",
+	"action-docseditor": "sunting dokumentasi",
+	"right-docseditor": "Sunting dokumentasi"
 }

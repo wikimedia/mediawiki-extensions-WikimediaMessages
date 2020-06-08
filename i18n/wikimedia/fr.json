@@ -39,6 +39,7 @@
 			"Niridya",
 			"Nobody",
 			"Orlodrim",
+			"Pamputt",
 			"Peter17",
 			"PieRRoMaN",
 			"Pols12",
@@ -382,5 +383,9 @@
 	"protect-level-editautopatrolprotected": "Autoriser uniquement les patrouilleurs automatiques",
 	"restriction-level-editautopatrolprotected": "patrouilleurs automatiques protégés",
 	"right-editautopatrolprotected": "Modifier les pages protégées avec « {{int:protect-level-editautopatrolprotected}} »",
-	"action-editautopatrolprotected": "modifier les pages protégées avec « {{int:protect-level-editautopatrolprotected}} »"
+	"action-editautopatrolprotected": "modifier les pages protégées avec « {{int:protect-level-editautopatrolprotected}} »",
+	"group-docseditor": "Modificateurs de documentation",
+	"group-docseditor-member": "{{GENDER:$1|modificateur de documentation|modificatrice de documentation}}",
+	"action-docseditor": "modifier la documentation",
+	"right-docseditor": "Modifier la documentation"
 }

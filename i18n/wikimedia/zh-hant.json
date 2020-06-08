@@ -359,5 +359,9 @@
 	"protect-level-editautopatrolprotected": "只允許自動巡查員",
 	"restriction-level-editautopatrolprotected": "自動巡查員已保護",
 	"right-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
-	"action-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」"
+	"action-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
+	"group-docseditor": "文件編輯者",
+	"group-docseditor-member": "{{GENDER:$1|文件編輯者}}",
+	"action-docseditor": "編輯文件",
+	"right-docseditor": "編輯文件"
 }

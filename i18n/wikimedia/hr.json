@@ -313,5 +313,9 @@
 	"protect-level-editautopatrolprotected": "Dopusti samo autoophođenima",
 	"restriction-level-editautopatrolprotected": "zaštićeno (samo autoophođeni)",
 	"right-editautopatrolprotected": "uređivanje stranicā zaštićenih kao »{{int:protect-level-editautopatrolprotected}}«",
-	"action-editautopatrolprotected": "uređivanje stranicā zaštićenih kao »{{int:protect-level-editautopatrolprotected}}«"
+	"action-editautopatrolprotected": "uređivanje stranicā zaštićenih kao »{{int:protect-level-editautopatrolprotected}}«",
+	"group-docseditor": "Uređivači dokumentacije",
+	"group-docseditor-member": "{{GENDER:$1|uređivač|uređivačica|uređivač/uređivačica}} dokumentacije",
+	"action-docseditor": "uređivanje dokumentacije",
+	"right-docseditor": "Uređivanje dokumentacije"
 }

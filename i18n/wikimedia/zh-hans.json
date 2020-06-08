@@ -42,6 +42,7 @@
 			"Zhuyifei1999",
 			"佛壁灯",
 			"凡人丶",
+			"列维劳德",
 			"铁桶",
 			"飞舞回堂前",
 			"아라"
@@ -361,5 +362,7 @@
 	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程",
 	"group-oathauth-tester": "双因素身份验证测试人员",
 	"group-oathauth-tester-member": "{{GENDER:$1|双因素身份验证测试人员}}",
-	"action-editautopatrolprotected": "编辑页面已保护为“{{int:protect-level-editautopatrolprotected}}”"
+	"action-editautopatrolprotected": "编辑页面已保护为“{{int:protect-level-editautopatrolprotected}}”",
+	"action-docseditor": "编辑文档",
+	"right-docseditor": "编辑文档"
 }
