@@ -61,7 +61,6 @@
 		"GlobalBlockingBlockedIpMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg",
 		"GlobalBlockingBlockedIpRangeMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg",
 		"GlobalBlockingBlockedIpXffMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg",
-		"MinervaPreRender": "WikimediaMessagesHooks::onMinervaPreRender",
 		"UploadForm:initial": "WikimediaMessagesHooks::onUploadFormInitial",
 		"ChangesListSpecialPageStructuredFilters": "WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters",
 		"LocalUserCreated": "WikimediaMessagesHooks::onLocalUserCreated",

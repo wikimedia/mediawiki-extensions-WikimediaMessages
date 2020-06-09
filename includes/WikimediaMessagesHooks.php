@@ -40,6 +40,7 @@ class WikimediaMessagesHooks {
 			'interfaceadmin-info',
 			'ipb-confirmhideuser', // T121639
 			'mwoauth-form-privacypolicy-link',
+			'mobile-frontend-terms-url', // T252375
 			'mwoauthserver-invalid-user',
 			'privacypage',
 			'sidebar',
@@ -303,21 +304,6 @@ class WikimediaMessagesHooks {
 	 */
 	public static function onGlobalBlockingBlockedIpXffMsg( &$msg ) {
 		$msg = 'wikimedia-globalblocking-ipblocked-xff';
-	}
-
-	/**
-	 * Add a WMF-specific footer link to terms of use on mobile site
-	 * Overrides template data right before it gets sent to template for rendering
-	 *
-	 * @param MinervaTemplate $tpl
-	 */
-	public static function onMinervaPreRender( $tpl ) {
-		$skin = $tpl->getSkin();
-		// This will work only on mobile site because only SkinMobile has this method
-		if ( method_exists( $skin, 'getTermsLink' ) ) {
-			/** @phan-suppress-next-line PhanUndeclaredMethod */
-			$tpl->set( 'terms-use', $skin->getTermsLink( 'wikimedia-mobile-terms-url' ) );
-		}
 	}
 
 	/**
