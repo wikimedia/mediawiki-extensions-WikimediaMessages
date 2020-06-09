@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bellatrix10"
+			"Bellatrix10",
+			"Ookuninusi"
 		]
 	},
 	"wm-license-cc-free": "Slobodni ste da:",
-	"wm-license-cc-conditions": "Pod sljedećim uslovima:"
+	"wm-license-cc-free-to-share-header": "da dijelite",
+	"wm-license-cc-free-to-share-text": "da kopirate, raspodjeljujete i prenosite dejlo",
+	"wm-license-cc-free-to-remix-header": "da prerađujete",
+	"wm-license-cc-free-to-remix-text": "da prilagodite djelo",
+	"wm-license-cc-conditions": "Pod sljedećim uslovima:",
+	"wm-license-cc-conditions-attribution-header": "pripisivanje",
+	"wm-license-cc-conditions-attribution-text": "Moraćete da date odgovarajuće zasluge, da postavite vezu ka licenci i naznačiti da li su izmjene napravljene. To možete učiniti na bilo koji razuman način, ali ne na način koji predlaže da licencator odobrava vas ili vaše korišćenje.",
+	"wm-license-cc-conditions-share_alike-header": "dijeliti pod istim uslovima",
+	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses istom ili sličnom licencom] poput ove."
 }

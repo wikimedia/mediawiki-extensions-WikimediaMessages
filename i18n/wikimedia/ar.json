@@ -347,5 +347,6 @@
 	"protect-level-editautopatrolprotected": "السماح فقط للمراجعين تلقائيا",
 	"restriction-level-editautopatrolprotected": "محمية على مستوى اللمراجعين تلقائيا",
 	"right-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
+	"group-docseditor": "محررو التوثيق"
 }
