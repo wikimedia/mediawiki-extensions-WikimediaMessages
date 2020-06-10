@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AlimOmar",
 			"Sahran",
 			"Uzdil"
 		]
@@ -83,5 +84,6 @@
 	"wikibase-sitelinks-wikiquote": "ۋىكىئۈزۈندە",
 	"wikibase-sitelinks-wikisource": "ۋىكىمەنبە",
 	"wikibase-sitelinks-wikivoyage": "ۋىكىسەپەر",
-	"wikimedia-developers": "ئىجادكارلار"
+	"wikimedia-developers": "ئىجادكارلار",
+	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy مەخپىيەتلىك تۈزۈمى]"
 }

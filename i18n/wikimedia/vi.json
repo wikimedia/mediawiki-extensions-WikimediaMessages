@@ -303,6 +303,7 @@
 	"wikimedia-centralauth-contribs-locked": "Tài khoản này đã bị khóa trên toàn cầu.\nXem [[m:Special:CentralAuth/$1|chi tiết tài khoản toàn cầu]]  để biết thêm thông tin.",
 	"right-viewdeletedfile": "Xem các tập tin và trang bị xóa trong các không gian tên {{ns:file}} và {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Bầu cử cho Ban Quản trị",
+	"wikimedia-statslink": "Statistics",
 	"wikimedia-cookiestatement": "Tuyên bố về cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Trang này có tải đủ nhanh không?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Để tìm hiểu thêm, hãy đọc [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement lời tuyên bố về quyền riêng tư] của cuộc thăm dò ý kiến này.",
