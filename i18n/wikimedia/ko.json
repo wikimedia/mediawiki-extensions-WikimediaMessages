@@ -293,5 +293,7 @@
 	"technical-maintenance-edit": "이 기간 중에는 어떠한 편집도 저장할 수 없게 됩니다.",
 	"group-oathauth-tester-member": "{{GENDER:$1|2요소 인증 테스터}}",
 	"querypage-updates-half-monthly": "이 문서의 갱신은 한 달에 두 차례 수행됩니다.",
-	"protect-level-editautopatrolprotected": "점검 면제자에게만 허용"
+	"protect-level-editautopatrolprotected": "점검 면제자에게만 허용",
+	"group-docseditor-member": "{{GENDER:$1|설명문서 편집기}}",
+	"right-docseditor": "설명문서 편집"
 }

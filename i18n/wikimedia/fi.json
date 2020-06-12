@@ -9,6 +9,7 @@
 			"Crt",
 			"Jaakonam",
 			"Linnea",
+			"Majavah",
 			"MrTapsa",
 			"Nedergard",
 			"Nemo bis",
@@ -250,5 +251,7 @@
 	"securepoll-dblist-securepollglobal": "Hallituksen vaalit",
 	"wikimedia-statslink": "Tilastot",
 	"wikimedia-cookiestatement": "Evästekäytäntö",
-	"ext-quicksurveys-performance-internal-survey-question": "Latautuiko tämä sivu tarpeeksi nopeasti?"
+	"ext-quicksurveys-performance-internal-survey-question": "Latautuiko tämä sivu tarpeeksi nopeasti?",
+	"group-oathauth-tester": "Kaksivaiheisen tunnistautumisen kokeilijat",
+	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}"
 }
