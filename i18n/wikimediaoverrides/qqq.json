@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Framawiki",
+			"Mar(c)",
 			"MarcoAurelio",
 			"Raymond",
 			"Reedy",
@@ -31,7 +32,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Error message shown when someone tries to authorize an OAuth application but their user account is not set up properly.",
 	"wikimedia-sulrenamewarning-usenew": "Instructions to user to login with new name in the future\n\n* $1 is the user's new name",
 	"wikimedia-ipb-confirmhideuser": "Used as confirmation message in [[Special:Block]] before doing a HideUser block.\n\nSee also:\n* {{msg-mw|Ipb-blockingself}} and {{msg-mw|ipb-confirmhideuser}}",
-	"wikimedia-urlshortener-disabled": "Error message shown when user tries to create new shortned url on other wikis than meta.wikimedia.org.",
+	"wikimedia-urlshortener-disabled": "Error message shown when the user tries to create a new shortened url on other wikis than meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Error message sent by API when user tries to create new shortned url on other wikis than meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Error message shown when user tries to create new shortned url without the needed rights, should only be shown on wikis other than meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Error message sent by API when user tries to create new shortned url without the needed rights, should only be shown on wikis other than meta.wikimedia.org.",

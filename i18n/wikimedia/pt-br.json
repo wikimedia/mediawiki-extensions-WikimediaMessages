@@ -367,6 +367,7 @@
 	"right-editautopatrolprotected": "Editar as páginas protegidas como \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "editar as páginas protegidas como \"{{int:protect-level-editautopatrolprotected}}\"",
 	"group-docseditor": "Editores de documentação",
+	"group-docseditor-member": "{{GENDER:$1|editor de documentação}}",
 	"action-docseditor": "editar documentação",
 	"right-docseditor": "Editar documentação"
 }

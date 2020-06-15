@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"A2093064",
+			"C933103",
 			"Hamish",
 			"Justincheng12345",
 			"Liuxinyu970226",
@@ -9,6 +10,8 @@
 			"Xiplus"
 		]
 	},
+	"sitesupport": "捐助",
+	"tooltip-n-sitesupport": "支持我們",
 	"group-botadmin": "具管理員權限的機械人",
 	"group-botadmin-member": "{{GENDER:$1|具管理員權限的機械人}}",
 	"grouppage-botadmin": "{{ns:project}}:具管理員權限的機械人",
