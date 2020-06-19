@@ -172,5 +172,8 @@
 	"interlanguage-link-sitename-dmoz": "Direktori web DMOZ",
 	"right-viewdeletedfile": "Melihat fail-fail dan laman-laman dalam ruang-ruang nama {{ns:file}} dan {{ns:file_talk}} yang telah dihapuskan",
 	"protect-level-editautopatrolprotected": "Hanya benarkan autoperonda",
-	"restriction-level-editautopatrolprotected": "autoperonda terlindung"
+	"restriction-level-editautopatrolprotected": "autoperonda terlindung",
+	"group-docseditor": "Penyunting pendokumenan",
+	"action-docseditor": "sunting pendokumenan",
+	"right-docseditor": "Sunting pendokumenan"
 }
