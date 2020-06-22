@@ -358,5 +358,9 @@
 	"protect-level-editautopatrolprotected": "Дозволено лише автопатрульним",
 	"restriction-level-editautopatrolprotected": "захищено до рівня автопатрульних",
 	"right-editautopatrolprotected": "Редагування сторінок із захистом «{{int:protect-level-editautopatrolprotected}}»",
-	"action-editautopatrolprotected": "редагування сторінок із захистом «{{int:protect-level-editautopatrolprotected}}»"
+	"action-editautopatrolprotected": "редагування сторінок із захистом «{{int:protect-level-editautopatrolprotected}}»",
+	"group-docseditor": "Редактори документації",
+	"group-docseditor-member": "{{GENDER:$1|редактор документації|редакторка документації}}",
+	"action-docseditor": "редагування документації",
+	"right-docseditor": "Редагування документації"
 }

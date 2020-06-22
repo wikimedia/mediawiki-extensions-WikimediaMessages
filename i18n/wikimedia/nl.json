@@ -330,5 +330,6 @@
 	"querypage-updates-monthly": "Deze pagina wordt eens per maand bijgewerkt.",
 	"protect-level-editautopatrolprotected": "Alleen autopatrollers toestaan",
 	"right-editautopatrolprotected": "Pagina's bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "pagina's te bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "pagina's te bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
+	"right-docseditor": "Documentatie bewerken"
 }
