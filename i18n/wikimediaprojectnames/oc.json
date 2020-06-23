@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"BrennodAloisi",
 			"Cedric31"
 		]
 	},
@@ -8,6 +9,7 @@
 	"project-localized-name-aawikibooks": "Wikilibre en afar",
 	"project-localized-name-aawiktionary": "Wikiccionari en afar",
 	"project-localized-name-anwiki": "Wikipèdia en aragonés",
+	"project-localized-name-anwiktionary": "Wikiccionari en aragonés",
 	"project-localized-name-arwikibooks": "Wikilibre en arabi",
 	"project-localized-name-astwiki": "Wikipèdia en asturian",
 	"project-localized-name-astwikibooks": "Wikilibre en asturian",
@@ -88,7 +90,9 @@
 	"project-localized-name-furwiki": "Wikipèdia en friulan",
 	"project-localized-name-gawiki": "Wikipèdia en irlandés",
 	"project-localized-name-gawikibooks": "Wikilibre en irlandés",
+	"project-localized-name-gawiktionary": "Wikiccionari en irlandés",
 	"project-localized-name-gdwiki": "Wikipèdia en gaelic escocés",
+	"project-localized-name-gdwiktionary": "Wikiccionari en gaelic escocés",
 	"project-localized-name-glwiki": "Wikipèdia en galician",
 	"project-localized-name-glwiktionary": "Wikiccionari en galician",
 	"project-localized-name-gnwiki": "Wikipèdia en guarani",
@@ -133,8 +137,10 @@
 	"project-localized-name-kuwiktionary": "Wikiccionari en curd",
 	"project-localized-name-ladwiki": "Wikipèdia en ladin",
 	"project-localized-name-lawikibooks": "Wikilibre en latin",
+	"project-localized-name-lawiktionary": "Wikiccionari en latin",
 	"project-localized-name-lbwikibooks": "Wikilibre en luxemborgués",
 	"project-localized-name-lbwikiquote": "Wikiquote luxemborgués",
+	"project-localized-name-lbwiktionary": "Wikiccionari en luxemborgés",
 	"project-localized-name-lijwiki": "Wikipèdia en ligurian",
 	"project-localized-name-lnwiki": "Wikipèdia en lingala",
 	"project-localized-name-lnwikibooks": "Wikilibre en lingala",
