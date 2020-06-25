@@ -3,6 +3,7 @@
 		"authors": [
 			"Ash Crow",
 			"Aude",
+			"BaRaN6161 TURK",
 			"Benjozork",
 			"Brunoperel",
 			"C13m3n7",
@@ -139,7 +140,7 @@
 	"group-eliminator-member": "{{GENDER:$1|éliminateurs|éliminatrices}}",
 	"grouppage-eliminator": "{{ns:project}}:Éliminateurs",
 	"group-eventcoordinator": "Coordinateurs d'événements",
-	"group-eventcoordinator-member": "{{GENRE:$1|Coordinateur|Coordinatrice}}",
+	"group-eventcoordinator-member": "{{GENDER:$1|Coordinateur|Coordinatrice}}",
 	"grouppage-eventcoordinator": "{{ns:project}}:coordinateurs d’événements",
 	"group-eventparticipant": "Participants à l’événement",
 	"group-eventparticipant-member": "{{GENDER:$1|participant|participante}} à l’événement",

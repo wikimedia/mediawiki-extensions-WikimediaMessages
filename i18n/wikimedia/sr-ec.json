@@ -228,5 +228,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Да ли се ова страница учитала довољно брзо?",
 	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
 	"querypage-updates-half-monthly": "Страница се ажурира двапут месечно.",
-	"protect-level-editautopatrolprotected": "Дозвољено само аутоматски патролираним корисницима"
+	"protect-level-editautopatrolprotected": "Дозвољено само аутоматски патролираним корисницима",
+	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)"
 }

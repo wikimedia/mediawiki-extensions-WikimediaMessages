@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"BaRaN6161 TURK",
 			"Deror avi",
 			"Guycn2",
 			"Inkbug",
@@ -263,7 +264,7 @@
 	"wikimediashoplink-linktext": "חנות ויקיפדיה",
 	"wikimediashoplink-link-tooltip": "לבקר בחנות ויקיפדיה",
 	"interlanguage-link-mul": "שפות נוספות",
-	"interlanguage-link-sitename-mul": "אתר {{SITENAMTE}} רב־לשוני",
+	"interlanguage-link-sitename-mul": "אתר {{SITENAME}} רב־לשוני",
 	"interlanguage-link-wikipedia": "ויקיפדיה",
 	"interlanguage-link-sitename-wikipedia": "ויקיפדיה, האנציקלופדיה החופשית",
 	"interlanguage-link-commons": "ויקישיתוף",
