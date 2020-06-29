@@ -200,6 +200,8 @@
 	"group-oauthadmin": "OAuth-Administratoren",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-Administrator|OAuth-Administratorin}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth-Administratoren",
+	"group-ombuds": "Ombudsperson",
+	"group-ombuds-member": "{{GENDER:$1|Ombudsperson}}",
 	"group-ombudsman": "Ombudspersonen",
 	"group-ombudsman-member": "{{GENDER:$1|Ombudsperson}}",
 	"grouppage-ombudsman": "m:Ombudsman commission/de",

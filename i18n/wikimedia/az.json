@@ -10,6 +10,7 @@
 			"PPerviz",
 			"Toghrul Rahimli",
 			"Vago",
+			"Vesely35",
 			"Vugar 1981",
 			"Wertuose",
 			"Zpizza"
@@ -77,6 +78,8 @@
 	"group-global-sysop": "Qlobal idarəçi",
 	"group-global-sysop-member": "{{GENDER:$1|qlobal idarəçi}}",
 	"grouppage-global-sysop": "Qlobal idarəçilər",
+	"group-ombuds": "Ombudsmanlar",
+	"group-ombuds-member": "{{GENDER:$1|ombudsman}}",
 	"group-ombudsman": "Ombudsman",
 	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-staff": "Əməkdaşlar",

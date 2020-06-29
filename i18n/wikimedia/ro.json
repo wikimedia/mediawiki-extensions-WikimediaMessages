@@ -14,6 +14,7 @@
 			"Minisarm",
 			"Misterr",
 			"Nemo bis",
+			"Rsocol",
 			"Stelistcristi",
 			"Strainu",
 			"Wintereu",
@@ -68,6 +69,9 @@
 	"group-eliminator": "Eliminatori",
 	"group-eliminator-member": "{{GENDER:$1|eliminator|eliminatoare}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminatori",
+	"group-extendedconfirmed": "Utilizatori cu confirmare extinsă",
+	"group-extendedconfirmed-member": "{{GENDER:$1|utilizator cu confirmare extinsă|utilizatoare cu confirmare extinsă}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}:Utilizatori cu confirmare extinsă",
 	"group-filemover": "Utilizatori care redenumesc fișiere",
 	"group-filemover-member": "{{GENDER:$1|utilizator care redenumește fișiere|utilizatoare care redenumește fișiere}}",
 	"grouppage-filemover": "{{ns:project}}:Utilizatori care redenumesc pagini",
@@ -148,5 +152,6 @@
 	"wikimediashoplink-linktext": "Magazin Wikipedia",
 	"wikimediashoplink-link-tooltip": "Vizitați magazinul Wikipedia",
 	"interlanguage-link-mul": "Mai multe limbi",
+	"right-extendedconfirmed": "Editează pagini restricționate",
 	"eri-rcfilters-tour-confirm-title": "Noile filtre au fost activate"
 }

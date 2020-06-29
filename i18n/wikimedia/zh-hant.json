@@ -214,6 +214,8 @@
 	"group-oauthadmin": "OAuth 管理員",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth 管理員}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth 管理員",
+	"group-ombuds": "申訴",
+	"group-ombuds-member": "{{GENDER:$1|申訴}}",
 	"group-ombudsman": "申訴專員",
 	"group-ombudsman-member": "{{GENDER:$1|申訴專員}}",
 	"grouppage-ombudsman": "m:Ombudsman commission/zh",
