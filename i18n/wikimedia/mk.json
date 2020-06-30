@@ -182,6 +182,8 @@
 	"group-oauthadmin": "Администратори на OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|Администратор на OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Администратори на OAuth",
+	"group-ombuds": "Правозастапници",
+	"group-ombuds-member": "{{GENDER:$1|правозастапник}}",
 	"group-ombudsman": "Правозастапници",
 	"group-ombudsman-member": "{{GENDER:$1|правозастапник}}",
 	"grouppage-ombudsman": "m:Ombudsman commission",
