@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"BaRaN6161 TURK",
 			"Beta16",
 			"Karduelis",
 			"Kumkumuk",
@@ -43,7 +44,7 @@
 	"project-localized-name-angwiktionary": "{{ProjectNameDocumentation|url=https://ang.wiktionary.org|name=Old English Wiktionary|language=ang}}",
 	"project-localized-name-anwiki": "{{ProjectNameDocumentation|url=https://an.wikipedia.org|name=Aragonese Wikipedia|language=an}}",
 	"project-localized-name-anwiktionary": "{{ProjectNameDocumentation|url=https://an.wiktionary.org|name=Aragonese Wiktionary|language=an}}",
-	"project-localized-name-apiportalwiki": "{{ProjectNameDocumentation|url=https://api.wikimedia.org|name=Wikimedia Api Portal|language=en}",
+	"project-localized-name-apiportalwiki": "{{ProjectNameDocumentation|url=https://api.wikimedia.org|name=Wikimedia Api Portal|language=en}}",
 	"project-localized-name-arbcom_dewiki": "{{ProjectNameDocumentation|url=https://arbcom-de.wikipedia.org|name=German Wikipedia Arbitration Committee|language=zxx}}",
 	"project-localized-name-arbcom_enwiki": "{{ProjectNameDocumentation|url=https://arbcom-en.wikipedia.org|name=English Wikipedia Arbitration Committee|language=zxx}}",
 	"project-localized-name-arbcom_fiwiki": "{{ProjectNameDocumentation|url=https://arbcom-fi.wikipedia.org|name=Finnish Wikipedia Arbitration Committee|language=zxx}}",

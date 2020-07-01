@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Giromin Cangiaxo"
+			"Giromin Cangiaxo",
+			"S4b1nuz E.656"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi temporanni speciffichi pe Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
-	"group-oversight": "Sorvevixoî",
-	"group-oversight-member": "oversight",
+	"group-oversight": "Oversighter",
+	"group-oversight-member": "{{GENDER:$1|oversight}}",
 	"please-translate": "Agiuttine a tradue inta to lengua"
 }
