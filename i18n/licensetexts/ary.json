@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Abdeaitali",
+			"Anass Sedrati",
 			"SADIQUI"
 		]
 	},
@@ -9,7 +10,7 @@
 	"wm-license-information-description": "الوصف",
 	"wm-license-information-source": "المصدر",
 	"wm-license-information-date": "التاريخ",
-	"wm-license-information-author": "المؤلف",
+	"wm-license-information-author": "لكاتب",
 	"wm-license-information-permission": "الترخيص",
 	"wm-license-information-permission-reusing-text": "إعادة استخدام هاد الملف",
 	"wm-license-own-work": "عمل شخصي",

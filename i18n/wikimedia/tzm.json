@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mohamed Belarhzali",
 			"Tifinaghes",
 			"ⵕⴰⵊⵉ"
 		]
 	},
 	"sitesupport": "ⴰⵡⵙ ⵙ ⵉⴷⵔⵉⵎⵏ",
-	"tooltip-n-sitesupport": "ⴰⵡⵙⴰⵜ ⴰⵖ",
+	"tooltip-n-sitesupport": "Awsat-aɣ",
 	"nstab-institution": "ⵜⴰⵎⵙⴷⵓⵙⵜ",
 	"group-otrs-member": "ⵉⴳⵎⴰⵎⵏ OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|OTRS ⴰⴳⵎⴰⵎ}}",
@@ -18,5 +19,7 @@
 	"group-translationadmin": "ⵉⵏⵎⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ",
 	"group-translationadmin-member": "{{GENDER:$1|ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ}}",
 	"grouppage-translationadmin": "{{ns:project}}:ⵉⵏⵎⵀⴰⵍⵏ ⵏ ⵜⵙⵓⵖⵍⵜ",
-	"shared-repo-name-shared": "ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ"
+	"shared-repo-name-shared": "ⵡⵉⴽⵉⵎⵉⴷⵢⴰ ⴽⵓⵎⵓⵏⵣ",
+	"wikibase-sitelinks-wikinews": "Wikineɣmis",
+	"wikibase-sitelinks-wikivoyage": "Wikimuddu"
 }
