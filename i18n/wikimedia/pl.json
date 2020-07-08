@@ -200,8 +200,6 @@
 	"group-oauthadmin": "Administratorzy OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|administrator|administratorka}} OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Administratorzy OAuth",
-	"group-ombudsman": "Rzecznicy praw",
-	"group-ombudsman-member": "{{GENDER:$1|rzecznik|rzeczniczka}} praw",
 	"group-recursive-export": "Eksport rekurencyjny",
 	"group-recursive-export-member": "{{GENDER:$1|eksporter rekurencyjny|eksporterka rekurencyjna}}",
 	"group-staff": "Pracownicy",

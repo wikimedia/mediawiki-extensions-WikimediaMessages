@@ -167,8 +167,6 @@
 	"group-oauthadmin": "Administratori OAutha",
 	"group-oauthadmin-member": "{{GENDER:$1|administrator OAutha|administratorica OAutha}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Administratori OAutha",
-	"group-ombudsman": "Pravozastupnici",
-	"group-ombudsman-member": "{{GENDER:$1|pravozastupnik|pravozastupnica}}",
 	"group-recursive-export": "Povratljiv izvoz",
 	"group-recursive-export-member": "{{GENDER:$1|povratljivi izvoznik|povratljiva izvoznica}}",
 	"group-staff": "Osoblje",

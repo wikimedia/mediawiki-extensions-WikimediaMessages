@@ -186,8 +186,6 @@
 	"grouppage-oauthadmin": "{{ns:project}}:מנהלי OAuth",
 	"group-ombuds": "נציבי פניות",
 	"group-ombuds-member": "{{GENDER:$1|נציב|נציבת}} פניות",
-	"group-ombudsman": "נציבי תלונות הציבור",
-	"group-ombudsman-member": "{{GENDER:$1|נציב|נציבת}} תלונות הציבור",
 	"group-recursive-export": "מבצעי ייצוא רקורסיבי",
 	"group-recursive-export-member": "{{GENDER:$1|מבצע|מבצעת}} ייצוא רקורסיבי",
 	"group-staff": "סגל",

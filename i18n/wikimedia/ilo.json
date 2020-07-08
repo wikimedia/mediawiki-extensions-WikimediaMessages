@@ -129,8 +129,6 @@
 	"group-oauthadmin": "Dagiti administrador ti OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|Administrador ti OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Dagiti administrador ti OAuth",
-	"group-ombudsman": "Ombudsmen",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-recursive-export": "Rekursibo a panagiluas",
 	"group-recursive-export-member": "{{GENDER:$1|rekursibo nga agi-luluas}}",
 	"group-staff": "Empleado",

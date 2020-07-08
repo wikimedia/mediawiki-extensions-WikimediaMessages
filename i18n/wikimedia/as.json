@@ -107,8 +107,6 @@
 	"group-global-sysop-member": "{{GENDER:$1|গোলকীয় প্ৰশাসক}}",
 	"group-new-wikis-importer": "নতুন ৱিকি আমদানিকৰ্তা",
 	"group-new-wikis-importer-member": "{{GENDER:$1|নতুন ৱিকি আমদানিকৰ্তা}}",
-	"group-ombudsman": "ন্যায়পাল",
-	"group-ombudsman-member": "{{GENDER:$1|ন্যায়পাল সদস্য}}",
 	"group-staff": "কৰ্মীবৃন্দ",
 	"group-staff-member": "কৰ্মচাৰী",
 	"group-steward": "ষ্টুৱাৰ্ডসমূহ",

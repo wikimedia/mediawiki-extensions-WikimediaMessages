@@ -128,8 +128,6 @@
 	"group-oauthadmin": "OAuth-Administrateuren",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth Administrateur}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth Administrateuren",
-	"group-ombudsman": "Ombudsmänner",
-	"group-ombudsman-member": "{{GENDER:$1|Ombudsmann|Ombudsfra}}",
 	"group-staff": "Mataarbechter",
 	"group-staff-member": "{{GENDER:$1|bezuelte Mataarbechter|bezuelt Mataarbechterin}}",
 	"group-steward": "Stewarden",

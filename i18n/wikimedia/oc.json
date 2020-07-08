@@ -77,8 +77,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|revocador global}}",
 	"group-global-sysop": "Administrators globals",
 	"group-global-sysop-member": "{{GENDER:$1|administrator global}}",
-	"group-ombudsman": "Comissaris",
-	"group-ombudsman-member": "{{GENDER:$1|mediator|mediatritz}}",
 	"group-staff": "Personal",
 	"group-staff-member": "Membre del personal",
 	"group-steward": "Stewards",

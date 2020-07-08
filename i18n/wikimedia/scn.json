@@ -38,8 +38,6 @@
 	"group-global-bot-member": "{{GENDER:$1|bot glubbali}}",
 	"group-global-rollbacker": "Ripristinatura glubbali",
 	"group-global-rollbacker-member": "{{GENDER:$1|ripristinaturi glubbali|ripristinatrici glubbali|ripristinaturi o ripristinatrici glubbali}}",
-	"group-ombudsman": "Difinsura civici",
-	"group-ombudsman-member": "{{GENDER:$1|difinzuri cìvicu|difinnitrici cìvica|difinzuri cìvicu o difinnitrici cìvica}}",
 	"group-staff": "Staff",
 	"group-staff-member": "Cumpunenti dû staff",
 	"group-steward": "Stiùwart",

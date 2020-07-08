@@ -96,8 +96,6 @@
 	"group-global-rollbacker-member": "rèvoquio{{GENDER:$1|r globâl|sa globâla}}",
 	"group-global-sysop": "Administrators globâls",
 	"group-global-sysop-member": "administrat{{GENDER:$1|or globâl|rice globâla}}",
-	"group-ombudsman": "Mèdiators",
-	"group-ombudsman-member": "mèdiat{{GENDER:$1|or|rice}}",
 	"group-staff": "Gens",
 	"group-staff-member": "{{GENDER:$1|membro a les gens}}",
 	"group-steward": "Stevârds",

@@ -162,8 +162,6 @@
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth-ylläpitäjät",
 	"group-ombuds": "tietosuojavalvojat",
 	"group-ombuds-member": "{{GENDER:$1|tietosuojavalvoja}}",
-	"group-ombudsman": "tietosuojavalvojat",
-	"group-ombudsman-member": "{{GENDER:$1|tietosuojavalvoja}}",
 	"group-staff": "henkilökunta",
 	"group-staff-member": "{{GENDER:$1|henkilökunta}}",
 	"group-steward": "ylivalvojat",

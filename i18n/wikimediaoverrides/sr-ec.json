@@ -8,7 +8,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помоћ око одабира)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Затражите налог]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Кориснички_налог",
+	"createacct-helpusername-url": "{{ns:Project}}:Корисничко_име",
 	"wikimedia-delete-toobig": "Ова страница има велику историју, преко $1 {{PLURAL:$1|измене|измене|измена}}.\nБрисање таквих страница је ограничено да би се спречило случајно оптерећење {{SITENAME}}.\nМолимо вас обратите се [[m:Special:MyLanguage/Stewards|стјуардима]] на [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] и од њих тражите брисање ове странице.",
 	"wikimedia-flow-terms-of-use-new-topic": "Притиском на „{{int:flow-newtopic-save}}“ прихватате [https://foundation.wikimedia.org/wiki/Terms_of_Use услове коришћења] и безусловно прихватате да се Ваш допринос објави под лиценцама [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Притиском на „{{int:flow-reply-link}}“ прихватате [https://foundation.wikimedia.org/wiki/Terms_of_Use услове коришћења] и безусловно прихватате да се Ваш допринос објави под лиценцама [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",

@@ -110,8 +110,6 @@
 	"group-global-sysop": "సార్వత్రిక నిర్వాహకులు",
 	"group-global-sysop-member": "{{GENDER:$1|సార్వత్రిక నిర్వాహకుడు|సార్వత్రిక నిర్వాహకురాలు}}",
 	"group-massmessage-sender": "మూకుమ్మడి సందేశం పంపేవారు",
-	"group-ombudsman": "అంబుడ్స్మెన్",
-	"group-ombudsman-member": "అంబుడ్స్మన్",
 	"group-staff": "సిబ్బంది",
 	"group-staff-member": "సిబ్బంది",
 	"group-steward": "స్టీవార్డులు",

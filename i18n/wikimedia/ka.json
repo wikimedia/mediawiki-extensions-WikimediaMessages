@@ -123,8 +123,6 @@
 	"group-global-sysop-member": "{{GENDER:$1|გლობალური ადმინისტრატორი}}",
 	"group-new-wikis-importer": "ახალი ვიკი იმპორტიორები",
 	"group-new-wikis-importer-member": "{{GENDER:$1|ახალი ვიკი იმპორტიორი}}",
-	"group-ombudsman": "ომბუცმენები",
-	"group-ombudsman-member": "{{GENDER:$1|ობუდსმენი}}",
 	"group-recursive-export": "რეკურსიული ექსპორტი",
 	"group-recursive-export-member": "{{GENDER:$1|რეკურსიული ექსპორტიორი}}",
 	"group-staff": "თანამშრომლები",

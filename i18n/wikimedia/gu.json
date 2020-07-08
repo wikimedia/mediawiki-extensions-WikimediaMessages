@@ -102,8 +102,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|વૈશ્વીક ઊલટાવનાર}}",
 	"group-global-sysop": "વૈશ્વીક સીસોપ્સ (sysops)",
 	"group-global-sysop-member": "{{GENDER:$1|વૈશ્વીક સીસોપ}}",
-	"group-ombudsman": "ઓમ્બડ્સમેન (સુલેહ કરનાર)",
-	"group-ombudsman-member": "{{GENDER:$1|ઓમ્બડ્સમેન (મધ્યસ્થી કરનાર)}}",
 	"group-staff": "કર્મચારી",
 	"group-staff-member": "{{GENDER:$1|કર્મચારી}}",
 	"group-steward": "કારભારી",

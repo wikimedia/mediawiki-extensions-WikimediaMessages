@@ -126,8 +126,6 @@
 	"group-global-sysop-member": "{{GENDER:$1|גלאבאַלער סיסאָפּ|גלאבאַלע סיסאָפּ}}",
 	"group-new-wikis-importer": "נײַע וויקיס אימפארטירער",
 	"group-new-wikis-importer-member": "{{GENDER:$1|נײַע וויקיס אימפארטירער}}",
-	"group-ombudsman": "אמבודסמענער",
-	"group-ombudsman-member": "{{GENDER:$1|אמבודסמאן}}",
 	"group-recursive-export": "רעקורסיווע עקספארטן",
 	"group-recursive-export-member": "{{GENDER:$1|רעקורסיוו עקספארטער}}",
 	"group-staff": "שטאַב",

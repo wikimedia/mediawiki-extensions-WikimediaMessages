@@ -134,8 +134,6 @@
 	"group-massmessage-sender": "Pošiljaoci masovnih poruka",
 	"group-massmessage-sender-member": "{{GENDER:$1|pošiljalac masovnih poruka}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:Pošiljaoci masovnih poruka",
-	"group-ombudsman": "Ombudsmeni",
-	"group-ombudsman-member": "{{GENDER:$1|pravozastupnik|pravozastupnica}}",
 	"group-staff": "Osoblje",
 	"group-staff-member": "članovi osoblja",
 	"group-steward": "Stjuardi",

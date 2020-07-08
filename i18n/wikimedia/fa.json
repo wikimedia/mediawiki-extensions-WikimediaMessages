@@ -205,8 +205,6 @@
 	"group-oauthadmin": "مدیران OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|مدیر OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}: OAuth مدیران",
-	"group-ombudsman": "دادآوران",
-	"group-ombudsman-member": "{{GENDER:$1|دادآور}}",
 	"group-recursive-export": "برون‌بری بازگشتی",
 	"group-recursive-export-member": "{{GENDER:$1|برون‌بری بازگشتی}}",
 	"group-staff": "پرسنل",

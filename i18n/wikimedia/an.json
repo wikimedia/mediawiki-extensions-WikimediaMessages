@@ -98,8 +98,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|revertidor global|revertidora global}}",
 	"group-global-sysop": "Administradors globals",
 	"group-global-sysop-member": "{{GENDER:$1|administrador global|administradera global}}",
-	"group-ombudsman": "Chusticias",
-	"group-ombudsman-member": "{{GENDER:$1|chusticia}}",
 	"group-staff": "Personal d'o wiki",
 	"group-staff-member": "{{GENDER:$1|Miembro d'o personal}}",
 	"group-steward": "Stewards",

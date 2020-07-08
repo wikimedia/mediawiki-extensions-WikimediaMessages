@@ -105,8 +105,6 @@
 	"group-global-sysop-member": "{{GENDER:$1|Amman uff allene Projäkt|Amtsfrou uff allene Projäkt}}",
 	"group-new-wikis-importer": "Neiwikiimporteur",
 	"group-new-wikis-importer-member": "{{GENDER:$1|Neiwikiimporteur|Neiwikiimporteuri}}",
-	"group-ombudsman": "Ombudsmanne",
-	"group-ombudsman-member": "{{GENDER:$1|Ombudsmaa|Ombudsfrau}}",
 	"group-recursive-export": "Rekursivi Exporteur",
 	"group-recursive-export-member": "{{GENDER:$1|Rekursive Exporteur|Rekursivi Exporteuri}}",
 	"group-staff": "Mitarbeiter",

@@ -140,8 +140,6 @@
 	"group-oauthadmin": "OAuth әкімшілер",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth әкімші}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth әкімшілер",
-	"group-ombudsman": "Уәкіл",
-	"group-ombudsman-member": "{{GENDER:$1|уәкіл}}",
 	"group-recursive-export": "Рекурсивті экспорт",
 	"group-recursive-export-member": "{{GENDER:$1|рекурсивті экспорт}}",
 	"group-staff": "Басқарма",

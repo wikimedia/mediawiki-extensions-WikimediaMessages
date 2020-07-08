@@ -101,8 +101,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|globalni vračalec|globalna vračalka}} urejanj",
 	"group-global-sysop": "Globalni administratorji",
 	"group-global-sysop-member": "{{GENDER:$1|globalni administrator|globalna administratorka}}",
-	"group-ombudsman": "Ombudsmani",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman|ombudsmanka}}",
 	"group-staff": "Osebje",
 	"group-staff-member": "zaposlen",
 	"group-steward": "Upravniki",

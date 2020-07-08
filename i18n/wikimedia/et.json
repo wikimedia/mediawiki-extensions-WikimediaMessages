@@ -123,8 +123,6 @@
 	"group-oauthadmin": "OAuthi administraator",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuthi administraator}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuthi administraatorid",
-	"group-ombudsman": "Õigusvahemehed",
-	"group-ombudsman-member": "õigusvahemees",
 	"group-staff": "Koosseis",
 	"group-staff-member": "koosseisu liige",
 	"group-steward": "Stjuuardid",

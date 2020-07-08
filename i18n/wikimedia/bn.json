@@ -157,8 +157,6 @@
 	"group-oauthadmin": "ওআউথ প্রশাসক",
 	"group-oauthadmin-member": "{{GENDER:$1|ওআউথ প্রশাসক}}",
 	"grouppage-oauthadmin": "{{ns:project}}:ওআউথ প্রশাসক",
-	"group-ombudsman": "ন্যায়পাল",
-	"group-ombudsman-member": "{{GENDER:$1|ন্যায়পাল সদস্য}}",
 	"group-staff": "কর্মচারি",
 	"group-staff-member": "কর্মচারি",
 	"group-steward": "স্টুয়ার্ড",

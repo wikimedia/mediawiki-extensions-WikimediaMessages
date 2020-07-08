@@ -187,8 +187,6 @@
 	"group-oauthadmin": "OAuth 관리자",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth 관리자}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth 관리자",
-	"group-ombudsman": "옴부즈맨",
-	"group-ombudsman-member": "{{GENDER:$1|옴부즈맨}}",
 	"group-recursive-export": "재귀 내보내는 자",
 	"group-recursive-export-member": "{{GENDER:$1|재귀 내보내는 자}}",
 	"group-staff": "임원",

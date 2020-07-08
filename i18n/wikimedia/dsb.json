@@ -100,8 +100,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|globalny slědkstajaŕ|globalna slědkstajarka}}",
 	"group-global-sysop": "Globalne administratory",
 	"group-global-sysop-member": "{{GENDER:$1|globalny administrator|globalna administratorka}}",
-	"group-ombudsman": "Ombudsniki",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsnik|ombudsnica}}",
 	"group-staff": "Sobuźěłaśerje",
 	"group-staff-member": "sobuźěłaśerje",
 	"group-steward": "Stewardy",

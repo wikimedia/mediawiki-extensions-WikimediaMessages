@@ -131,8 +131,6 @@
 	"group-oauthadmin": "OAuth-administratorojo",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-administrator|OAuth-administratorka}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth-administratorojo",
-	"group-ombudsman": "Ombudsnicy",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsnik|ombudsnica}}",
 	"group-recursive-export": "Rekursiwny eksport",
 	"group-recursive-export-member": "{{GENDER:$1|rekursiwny eksporter|rekursiwna eksporterka}}",
 	"group-staff": "Sobudźěłaćerjo",

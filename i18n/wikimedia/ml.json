@@ -158,8 +158,6 @@
 	"group-oauthadmin": "ഒഓത് കാര്യനിർവാഹകർ",
 	"group-oauthadmin-member": "{{GENDER:$1|ഒഓത് കാര്യനിർവാഹകർ}}",
 	"grouppage-oauthadmin": "{{ns:project}}:ഒഓത് കാര്യനിർവാഹകർ",
-	"group-ombudsman": "ഓംബുഡ്സ്‌‌മാൻ",
-	"group-ombudsman-member": "{{GENDER:$1|ഓംബുഡ്സ്മാൻ}}",
 	"group-recursive-export": "പുനരാവർത്തിത കയറ്റുമതി",
 	"group-recursive-export-member": "{{GENDER:$1|പുനരാവർത്തിത കയറ്റുമതി ചെയ്യുന്നയാൾ}}",
 	"group-staff": "ഉദ്യോഗസ്ഥർ",

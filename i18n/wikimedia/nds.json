@@ -44,8 +44,6 @@
 	"group-global-bot-member": "{{GENDER:$1|Global Bot}}",
 	"group-global-rollbacker": "Globale Trüchsetters",
 	"group-global-rollbacker-member": "{{GENDER:$1|Global Trüchsetter}}",
-	"group-ombudsman": "Ombudslüüd",
-	"group-ombudsman-member": "{{GENDER:$1|Ombudsmann}}",
 	"group-staff": "Mitarbeiders",
 	"group-staff-member": "Mitarbeider",
 	"group-steward": "Stewards",

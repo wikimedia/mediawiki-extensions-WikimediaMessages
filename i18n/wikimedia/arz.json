@@ -59,8 +59,6 @@
 	"group-global-rollbacker": "مسترجعين عامين",
 	"group-global-rollbacker-member": "{{GENDER:$1|مسترجع عام}}",
 	"grouppage-global-rollbacker": "m:Global rollback/ar",
-	"group-ombudsman": "اومبادزمين",
-	"group-ombudsman-member": "{{GENDER:$1|اومبدادزمان}}",
 	"group-staff": "مشرفون",
 	"group-staff-member": "عضو من المشرفين",
 	"group-steward": "مضيفين",

@@ -137,8 +137,6 @@
 	"group-oauthadmin": "OAuth administratorer",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth administrator}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth administratorer",
-	"group-ombudsman": "Ombudsmænd",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsmand}}",
 	"group-recursive-export": "Rekursiv eksport",
 	"group-recursive-export-member": "{{GENDER:$1|rekursiv eksportør}}",
 	"group-staff": "Ansatte",

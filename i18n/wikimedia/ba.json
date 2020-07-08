@@ -98,8 +98,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|глобаль кире ҡайтарыусы}}",
 	"group-global-sysop": "Дөйөм хакимдәр",
 	"group-global-sysop-member": "{{GENDER:$1|дөйөм хаким}}",
-	"group-ombudsman": "Омбудсмендар",
-	"group-ombudsman-member": "{{GENDER:$1|омбудсмен}}",
 	"group-staff": "Эшмәкәрҙәр",
 	"group-staff-member": "эшмәкәр",
 	"group-steward": "Стюардтар",

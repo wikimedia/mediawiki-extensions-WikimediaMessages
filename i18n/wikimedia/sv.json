@@ -195,8 +195,6 @@
 	"group-oauthadmin": "OAuth administratörer",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-administratör}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth administratörer",
-	"group-ombudsman": "Ombudsmän",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-recursive-export": "Rekursiv export",
 	"group-recursive-export-member": "{{GENDER:$1|rekursiv exportör}}",
 	"group-staff": "Personal",

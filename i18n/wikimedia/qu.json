@@ -95,8 +95,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|}}sapsi kutichiq",
 	"group-global-sysop": "Sapsi kamachiqkuna",
 	"group-global-sysop-member": "{{GENDER:$1|}}sapsi kamachiq",
-	"group-ombudsman": "Ayllu amachaqkuna",
-	"group-ombudsman-member": "{{GENDER:$1|}}ayllu amachaq",
 	"group-staff": "Llamk'aqninkuna",
 	"group-staff-member": "llamk'aqninkuna",
 	"group-steward": "Steward nisqakuna",

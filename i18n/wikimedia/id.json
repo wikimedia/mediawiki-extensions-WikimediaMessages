@@ -114,8 +114,6 @@
 	"group-global-sysop": "Pengurus global",
 	"group-global-sysop-member": "{{GENDER:$1|pengurus global}}",
 	"group-new-wikis-importer-member": "{{GENDER:$1|importir wiki baru}}",
-	"group-ombudsman": "Ombudsman",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-recursive-export-member": "{{GENDER:$1|eksportir rekursif}}",
 	"group-staff": "Staf",
 	"group-staff-member": "{{GENDER:$1|staf}}",

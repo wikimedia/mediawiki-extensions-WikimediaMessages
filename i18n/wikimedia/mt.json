@@ -80,8 +80,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|''rollbacker'' globali}}",
 	"group-global-sysop": "Amministraturi globali",
 	"group-global-sysop-member": "{{GENDER:$1|amministratur globali|amministratriċi globali}}",
-	"group-ombudsman": "Ombudsmen",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-staff": "Staffs",
 	"group-staff-member": "membru tal-istaff",
 	"group-steward": "Stwetti",

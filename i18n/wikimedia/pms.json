@@ -115,8 +115,6 @@
 	"group-oauthadmin": "Aministrator OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|aministrator|aministratris}} OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Aministrator OAuth",
-	"group-ombudsman": "Mediator",
-	"group-ombudsman-member": "{{GENDER:$1|mediator}}",
 	"group-recursive-export": "Esportassion arcorenta",
 	"group-recursive-export-member": "{{GENDER:$1|esportator arcorent|esportatris arcorenta}}",
 	"group-staff": "Përsonal",

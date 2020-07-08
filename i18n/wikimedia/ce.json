@@ -122,8 +122,6 @@
 	"group-oauthadmin": "Куьйгалхой OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|Куьйгалхо OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Куьйгалхой OAuth",
-	"group-ombudsman": "Омбудсменаш",
-	"group-ombudsman-member": "{{GENDER:$1|омбудсмен}}",
 	"group-recursive-export": "Рекурсиван экспорт",
 	"group-staff": "Белхахой",
 	"group-staff-member": "{{GENDER:$1|белхахо}}",

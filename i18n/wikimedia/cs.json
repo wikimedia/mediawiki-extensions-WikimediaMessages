@@ -178,8 +178,6 @@
 	"group-oauthadmin": "Správci OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|správce|správkyně}} OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Správci OAuth",
-	"group-ombudsman": "Ombudsmani",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman|ombudsmanka}}",
 	"group-recursive-export": "Rekurzivní export",
 	"group-recursive-export-member": "rekurzivní {{GENDER:$1|exportér|exportérka}}",
 	"group-staff": "Personál",

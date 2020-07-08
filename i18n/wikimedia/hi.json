@@ -123,8 +123,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|वैश्विक रोलबेकर}}",
 	"group-global-sysop": "वैश्विक प्रबन्धक",
 	"group-global-sysop-member": "{{GENDER:$1|वैश्विक प्रबन्धक}}",
-	"group-ombudsman": "लोक आयुक्त",
-	"group-ombudsman-member": "{{GENDER:$1|ओमबड़समैन}}",
 	"group-staff": "कर्मचारी",
 	"group-staff-member": "स्टाफ़ सदस्य",
 	"group-steward": "परिचालक",

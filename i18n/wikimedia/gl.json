@@ -172,8 +172,6 @@
 	"group-oauthadmin": "Administradores do OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|administrador|administradora}} do OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Administradores do OAuth",
-	"group-ombudsman": "Comisarios",
-	"group-ombudsman-member": "{{GENDER:$1|comisario|comisaria}}",
 	"group-recursive-export": "Exportadores recursivos",
 	"group-recursive-export-member": "{{GENDER:$1|exportador recursivo|exportadora recursiva}}",
 	"group-staff": "Persoal do wiki",

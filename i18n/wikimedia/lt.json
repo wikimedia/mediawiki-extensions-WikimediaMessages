@@ -113,8 +113,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|visuotinis atmetėjas|visuotinė atmetėja}}",
 	"group-global-sysop": "Visuotiniai administrotoriai",
 	"group-global-sysop-member": "{{GENDER:$1|visuotinis administratorius|visuotinė administratorė}}",
-	"group-ombudsman": "Ombudsmenai",
-	"group-ombudsman-member": "ombudsmenas",
 	"group-staff": "Darbuotojai",
 	"group-staff-member": "Darbuotojas",
 	"group-steward": "Ūkvedžiai",

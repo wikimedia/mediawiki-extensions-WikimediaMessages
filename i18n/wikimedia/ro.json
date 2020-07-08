@@ -143,8 +143,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|revocator global|revocatoare globală}}",
 	"group-global-sysop": "Administratori globali",
 	"group-global-sysop-member": "{{GENDER:$1|administrator global}}",
-	"group-ombudsman": "Mijlocitori independenți",
-	"group-ombudsman-member": "{{GENDER:$1|mijlocitor independent|mijlocitoare independentă}}",
 	"group-staff": "Angajați",
 	"group-staff-member": "angajat",
 	"group-steward": "Stewarzi",

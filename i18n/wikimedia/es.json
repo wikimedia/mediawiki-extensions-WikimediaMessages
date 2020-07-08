@@ -226,8 +226,6 @@
 	"group-oauthadmin": "Administradores de OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|administrador|administradora}} de OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Administradores de OAuth",
-	"group-ombudsman": "Inspectores de privacidad",
-	"group-ombudsman-member": "{{GENDER:$1|inspector|inspectora}} de protección de datos",
 	"group-recursive-export": "Exportación recursiva",
 	"group-recursive-export-member": "{{GENDER:$1|exportador recursivo|exportadora recursiva}}",
 	"group-staff": "Personal de la Fundación",

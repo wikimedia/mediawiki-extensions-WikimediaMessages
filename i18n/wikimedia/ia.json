@@ -97,8 +97,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|revocator|revocatrice}} global",
 	"group-global-sysop": "Administratores global",
 	"group-global-sysop-member": "{{GENDER:$1|administrator|administratrice}} global",
-	"group-ombudsman": "Mediatores",
-	"group-ombudsman-member": "{{GENDER:$1|mediator|mediatrice}}",
 	"group-staff": "Personal",
 	"group-staff-member": "membro del personal",
 	"group-steward": "Stewardes",

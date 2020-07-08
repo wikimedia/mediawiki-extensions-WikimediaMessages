@@ -93,8 +93,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|वैश्विकपूर्वस्थिति-आनेतारः}}",
 	"group-global-sysop": "वैश्विकप्रणालीनिर्वाहकाः",
 	"group-global-sysop-member": "{{GENDER:$1|वैश्विकप्रणालीनिर्वाहकः}}",
-	"group-ombudsman": "लोकायुक्तः",
-	"group-ombudsman-member": "{{GENDER:$1|लोकायुक्तः}}",
 	"group-staff": "कर्मचारिणः",
 	"group-staff-member": "{{GENDER:$1|कर्मचारी}}",
 	"group-steward": "परिचालकाः",

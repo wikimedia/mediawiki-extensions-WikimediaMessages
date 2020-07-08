@@ -194,8 +194,6 @@
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth yöneticileri",
 	"group-ombuds": "Ombudlar",
 	"group-ombuds-member": "{{GENDER:$1|ombudlar}}",
-	"group-ombudsman": "Bağımsız hakemler",
-	"group-ombudsman-member": "{{GENDER:$1|bağımsız hakem}}",
 	"group-recursive-export": "Yinemeli dışa aktarıcı",
 	"group-recursive-export-member": "{{GENDER:$1|özyinelemeli ihracatçı}}",
 	"group-staff": "Personel",

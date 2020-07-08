@@ -190,8 +190,6 @@
 	"grouppage-oauthadmin": "{{ns:project}}:Administratori OAutha",
 	"group-ombuds": "Prokuratori/prokuratorice",
 	"group-ombuds-member": "{{GENDER:$1|prokurator|prokuratorica|prokurator/prokuratorica}}",
-	"group-ombudsman": "Zaštitnici pravde",
-	"group-ombudsman-member": "{{GENDER:$1|zaštitnik pravde|zaštitnica pravde}}",
 	"group-recursive-export": "Povratljiv izvoz",
 	"group-recursive-export-member": "{{GENDER:$1|povratljivi izvoznik|povratljiva izvoznica}}",
 	"group-staff": "Osoblje",

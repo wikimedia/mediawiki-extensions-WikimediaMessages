@@ -65,8 +65,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|ridisfijheu|ridisfijheuse}} totavå",
 	"group-global-sysop": "Manaedjeus totavå",
 	"group-global-sysop-member": "{{GENDER:$1|manaedjeu|manaedjeuse}} totavå",
-	"group-ombudsman": "Arindjeus des bidons",
-	"group-ombudsman-member": "{{GENDER:$1|arindjeu|arindjeuse}} des bidons",
 	"group-staff": "Eployîs",
 	"group-staff-member": "Eployî, eployeye",
 	"group-steward": "Mwaisse-manaedjeus tot avå",

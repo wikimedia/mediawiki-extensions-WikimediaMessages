@@ -40,8 +40,6 @@
 	"group-global-bot-member": "{{GENDER:$1|боти саросарӣ}}",
 	"group-global-rollbacker": "Вогардоникунандагони саросарӣ",
 	"group-global-rollbacker-member": "{{GENDER:$1|вогардоникунандаи саросарӣ}}",
-	"group-ombudsman": "Додоварон",
-	"group-ombudsman-member": "{{GENDER:$1|додовар}}",
 	"group-steward": "Википедон",
 	"group-steward-member": "{{GENDER:$1|википед}}",
 	"group-sysadmin": "Мудирони систем",

@@ -174,8 +174,6 @@
 	"group-oauthadmin": "Alministradores d'Oauth",
 	"group-oauthadmin-member": "{{GENDER:$1|Alministrador d'Oauth|Alministradora d'Oauth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Alministradores d'Oauth",
-	"group-ombudsman": "Defensores del usuariu",
-	"group-ombudsman-member": "{{GENDER:$1|defensor|defensora}} del usuariu",
 	"group-recursive-export": "Esportación recurrente",
 	"group-recursive-export-member": "{{GENDER:$1|esportador|esportadora}} recurrente",
 	"group-staff": "Equipu",

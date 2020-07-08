@@ -118,8 +118,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|globalki desegin dezake}}",
 	"group-global-sysop": "Administratzaile globalak",
 	"group-global-sysop-member": "{{GENDER:$1|administratzaile globala}}",
-	"group-ombudsman": "Komunitatearen babesleak",
-	"group-ombudsman-member": "{{GENDER:$1|arartekoa}}",
 	"group-staff": "Langileak",
 	"group-staff-member": "langilea",
 	"group-steward": "Stewardak",

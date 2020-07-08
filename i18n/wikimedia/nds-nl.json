@@ -49,8 +49,6 @@
 	"group-global-rollbacker": "globale weerummedreiers",
 	"group-global-rollbacker-member": "{{GENDER:$1|globale weerummedreier}}",
 	"group-global-sysop-member": "{{GENDER:$1|globale beheyrder}}",
-	"group-ombudsman": "ombudsluui",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-staff": "staf",
 	"group-staff-member": "staflid",
 	"group-steward": "rechtenbeheyrders",

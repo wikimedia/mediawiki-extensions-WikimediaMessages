@@ -200,8 +200,6 @@
 	"group-oauthadmin": "Administradores OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|administrador|administradora}} OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Administradores OAuth",
-	"group-ombudsman": "Mediadores",
-	"group-ombudsman-member": "{{GENDER:$1|mediador|mediadora}}",
 	"group-recursive-export": "Exportação recursiva",
 	"group-recursive-export-member": "{{GENDER:$1|exportador recursivo|exportadora recursiva}}",
 	"group-staff": "Pessoal",

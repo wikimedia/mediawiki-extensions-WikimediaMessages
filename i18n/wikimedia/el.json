@@ -153,8 +153,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|καθολικός αναιρέτης|καθολική αναιρέτρια}}",
 	"group-global-sysop": "Καθολικοί διαχειριστές",
 	"group-global-sysop-member": "{{GENDER:$1|καθολικός διαχειριστής|καθολική διαχειρίστρια}}",
-	"group-ombudsman": "Διαμεσολαβήτες",
-	"group-ombudsman-member": "{{GENDER:$1|διαμεσολαβητής|διαμεσολαβήτρια}}",
 	"group-staff": "Προσωπικό",
 	"group-staff-member": "{{GENDER:$1|μέλος του προσωπικού}}",
 	"group-steward": "Επίτροποι",

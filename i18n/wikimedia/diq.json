@@ -133,8 +133,6 @@
 	"group-oauthadmin": "OAuth-idarekari",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-idarekar}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth-idarekari",
-	"group-ombudsman": "hekemê xoseri",
-	"group-ombudsman-member": "{{GENDER:$1|Hekemo xoser}}",
 	"group-recursive-export": "Teberdarê xo newekerden",
 	"group-recursive-export-member": "{{GENDER:$1|teberdarê xo newekerden}}",
 	"group-staff": "wezifedari",

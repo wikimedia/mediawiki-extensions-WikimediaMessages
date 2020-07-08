@@ -103,8 +103,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|гомуми кире кайтаручы}}",
 	"group-global-sysop": "Гомуми идарәчеләр",
 	"group-global-sysop-member": "{{GENDER:$1|гомуми идарәче}}",
-	"group-ombudsman": "Омбудсменнар",
-	"group-ombudsman-member": "{{GENDER:$1|омбудсмен}}",
 	"group-staff": "Хезмәткәрләр",
 	"group-staff-member": "{{GENDER:$1|хезмәткәр}}",
 	"group-steward": "Стюардлар",

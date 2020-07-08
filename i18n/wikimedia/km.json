@@ -67,8 +67,6 @@
 	"group-global-bot": "រូបយន្ត​សកល",
 	"group-global-bot-member": "{{GENDER:$1|រូបយន្ត​សកល}}",
 	"group-global-sysop-member": "{{GENDER:$1|អ្នកថែទាំប្រព័ន្ធសកល}}",
-	"group-ombudsman": "អមប៊ុដហ្ស៍ម៉ឹន",
-	"group-ombudsman-member": "{{GENDER:$1|អន្តរការី}}",
 	"group-staff": "បុគ្គលិកបម្រើការ",
 	"group-staff-member": "សមាជិកដែលជាបុគ្គលិកបម្រើការ",
 	"group-sysadmin": "អ្នកអភិបាលប្រព័ន្ឋ",

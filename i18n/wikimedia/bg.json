@@ -158,8 +158,6 @@
 	"group-oauthadmin": "Администратори на OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|Администратор на OAuth|Администраторка на OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Администратори на OAuth",
-	"group-ombudsman": "Омбудсмани",
-	"group-ombudsman-member": "{{GENDER:$1|омбудсман}}",
 	"group-recursive-export": "Рекурсивно изнасяне",
 	"group-recursive-export-member": "{{GENDER:$1|рекурсивен износител}}",
 	"group-staff": "Персонал",

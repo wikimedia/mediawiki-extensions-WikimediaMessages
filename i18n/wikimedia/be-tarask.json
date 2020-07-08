@@ -115,8 +115,6 @@
 	"group-new-wikis-importer-member": "{{GENDER:$1|імпартэр|імпартэрка}} новых праектаў",
 	"group-oauthadmin": "Адміністратары OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Адміністратары OAuth",
-	"group-ombudsman": "праваабаронцы",
-	"group-ombudsman-member": "{{GENDER:$1|праваабаронца|праваабаронца}}",
 	"group-recursive-export": "Рэкурсіўны экспарт",
 	"group-recursive-export-member": "{{GENDER:$1|рэкурсіўны экспартэр|рэкурсіўная экспартэрка}}",
 	"group-staff": "Супрацоўнікі",

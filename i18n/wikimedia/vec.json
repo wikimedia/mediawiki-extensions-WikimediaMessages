@@ -107,8 +107,6 @@
 	"group-global-sysop-member": "{{GENDER:$1|aministrador globałe|aministratrise globałe|aministrador/trise globałe}}",
 	"group-new-wikis-importer": "Inportadori so nove wiki",
 	"group-new-wikis-importer-member": "{{GENDER:$1|inportadore|inportatrise|inportador/trise}} so nove wiki",
-	"group-ombudsman": "Ombudsman",
-	"group-ombudsman-member": "{{GENDER:$1|garante}}",
 	"group-recursive-export": "Esportadori ricorsivi",
 	"group-recursive-export-member": "{{GENDER:$1|esportador ricorsivo|esportatrise ricorsiva|esportador/trise ricorsivo/a}}",
 	"group-staff": "Staff",

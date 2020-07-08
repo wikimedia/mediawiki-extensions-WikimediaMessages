@@ -103,8 +103,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|assaver|assaverez}} hollek",
 	"group-global-sysop": "Merourien hollek",
 	"group-global-sysop-member": "{{GENDER:$1|merour|merourez}} hollek",
-	"group-ombudsman": "Hanterourien",
-	"group-ombudsman-member": "{{GENDER:$1|hanterour|hanterourez}}",
 	"group-staff": "skipailh",
 	"group-staff-member": "{{GENDER:$1|ezel eus ar skipailh}}",
 	"group-steward": "Stewarded",

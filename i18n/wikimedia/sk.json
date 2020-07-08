@@ -110,8 +110,6 @@
 	"group-oauthadmin": "Správcovia OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|správca|správkyňa}} OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Správcovia OAuth",
-	"group-ombudsman": "Ombudsmani",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman|ombudsmanka}}",
 	"group-staff": "Zamestnanci",
 	"group-staff-member": "zamestnanec",
 	"group-steward": "Stewardi",

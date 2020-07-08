@@ -155,8 +155,6 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|reversor|reversora}} global",
 	"group-global-sysop": "Administradors globals",
 	"group-global-sysop-member": "{{GENDER:$1|administrador|administradora}} global",
-	"group-ombudsman": "Síndics de greuges",
-	"group-ombudsman-member": "{{GENDER:$1|síndic de greuges|síndica de greuges}}",
 	"group-staff": "Personal",
 	"group-staff-member": "Personal del wiki",
 	"group-steward": "Stewards",

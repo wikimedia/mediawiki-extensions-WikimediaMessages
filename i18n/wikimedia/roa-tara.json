@@ -171,8 +171,6 @@
 	"group-oauthadmin": "Amministrature de OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|Amministratore de OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Amministrature de OAuth",
-	"group-ombudsman": "Mediature",
-	"group-ombudsman-member": "{{GENDER:$1|mediatore}}",
 	"group-recursive-export": "Esportazione recorsive",
 	"group-recursive-export-member": "{{GENDER:$1|esportatore recorsive}}",
 	"group-staff": "'U personale",

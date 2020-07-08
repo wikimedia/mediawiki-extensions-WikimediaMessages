@@ -80,8 +80,6 @@
 	"grouppage-global-sysop": "Qlobal idarəçilər",
 	"group-ombuds": "Ombudsmanlar",
 	"group-ombuds-member": "{{GENDER:$1|ombudsman}}",
-	"group-ombudsman": "Ombudsman",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsman}}",
 	"group-staff": "Əməkdaşlar",
 	"group-staff-member": "əməkdaşlar",
 	"group-steward": "Stüardlar",

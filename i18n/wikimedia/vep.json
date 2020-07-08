@@ -61,8 +61,6 @@
 	"group-global-bot-member": "{{GENDER:$1|globaline bot}}",
 	"group-global-rollbacker": "Globaližed endištajad",
 	"group-global-rollbacker-member": "{{GENDER:$1|globaline endištai}}",
-	"group-ombudsman": "Ombudsmenad",
-	"group-ombudsman-member": "{{GENDER:$1|ombudsmen}}",
 	"group-staff": "projektan radnikad",
 	"group-staff-member": "projektan radnik",
 	"group-steward": "Stüardad",

@@ -143,8 +143,6 @@
 	"group-oauthadmin": "OAuth-adminisztrátorok",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-adminisztrátor}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Munkatársak",
-	"group-ombudsman": "ombudsmanok",
-	"group-ombudsman-member": "ombudsman",
 	"group-staff": "WMF-alkalmazottak",
 	"group-staff-member": "{{GENDER:$1|WMF-alkalmazott}}",
 	"group-steward": "intézők",
