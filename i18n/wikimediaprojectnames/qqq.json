@@ -494,6 +494,7 @@
 	"project-localized-name-lfnwiki": "{{ProjectNameDocumentation|url=https://lfn.wikipedia.org|name=Lingua Franca Nova Wikipedia|language=lfn}}",
 	"project-localized-name-lgwiki": "{{ProjectNameDocumentation|url=https://lg.wikipedia.org|name=Ganda Wikipedia|language=lg}}",
 	"project-localized-name-lijwiki": "{{ProjectNameDocumentation|url=https://lij.wikipedia.org|name=Ligurian Wikipedia|language=lij}}",
+	"project-localized-name-lijwikisource": "{{ProjectNameDocumentation|url=https://lij.wikisource.org|name=Ligurian Wikisource|language=lij}}",
 	"project-localized-name-liwiki": "{{ProjectNameDocumentation|url=https://li.wikipedia.org|name=Limburgish Wikipedia|language=li}}",
 	"project-localized-name-liwikibooks": "{{ProjectNameDocumentation|url=https://li.wikibooks.org|name=Limburgish Wikibooks|language=li}}",
 	"project-localized-name-liwikinews": "{{ProjectNameDocumentation|url=https://li.wikinews.org|name=Limburgish Wikinews|language=li}}",
