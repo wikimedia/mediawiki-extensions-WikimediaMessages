@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ahmetlii",
 			"Alikaan",
 			"BaRaN6161 TURK",
 			"JackUKElliott",
+			"Rapsar",
 			"Sayginer",
 			"Uğurkent",
 			"Vito Genovese"
@@ -54,6 +56,7 @@
 	"project-localized-name-arwikisource": "Arapça Vikikaynak",
 	"project-localized-name-arwikiversity": "Arapça Vikiversite",
 	"project-localized-name-arwiktionary": "Arapça Vikisözlük",
+	"project-localized-name-arywiki": "Fas Arapçası Vikipedi",
 	"project-localized-name-arzwiki": "Mısır Arapçası Vikipedi",
 	"project-localized-name-astwiki": "Asturyasca Vikipedi",
 	"project-localized-name-astwikibooks": "Asturyasca Vikikitap",
@@ -71,7 +74,7 @@
 	"project-localized-name-aywiki": "Aymara Vikipedi",
 	"project-localized-name-aywikibooks": "Aymara Vikikitap",
 	"project-localized-name-aywiktionary": "Aymara Vikisözlük",
-	"project-localized-name-azbwiki": "Güney Azerbaycan Vikipedi",
+	"project-localized-name-azbwiki": "Güney Azerice Vikipedi",
 	"project-localized-name-azwiki": "Azerice Vikipedi",
 	"project-localized-name-azwikibooks": "Azerice Vikikitap",
 	"project-localized-name-azwikiquote": "Azerice Vikisöz",
@@ -273,7 +276,7 @@
 	"project-localized-name-fjwiki": "Fiji dili Vikipedi",
 	"project-localized-name-fjwiktionary": "Fiji dili Vikisözlük",
 	"project-localized-name-foundationwiki": "Wikimedia Vakfı",
-	"project-localized-name-fowiki": "Faroe dili Vikipedi",
+	"project-localized-name-fowiki": "Faroece Vikipedi",
 	"project-localized-name-fowikisource": "Faroe diki Vikikaynak",
 	"project-localized-name-fowiktionary": "Faroe diki Vikisözlük",
 	"project-localized-name-frpwiki": "Arpitanca Vikipedi",
@@ -489,6 +492,7 @@
 	"project-localized-name-lfnwiki": "Lingua Franca Nova Vikipedi",
 	"project-localized-name-lgwiki": "Ganda Vikipedi",
 	"project-localized-name-lijwiki": "Ligurca Vikipedi",
+	"project-localized-name-lijwikisource": "Ligurca Vikikaynak",
 	"project-localized-name-liwiki": "Limburgca Vikipedi",
 	"project-localized-name-liwikibooks": "Limburgca Vikikitap",
 	"project-localized-name-liwikinews": "Limburgca Vikihaber",
@@ -789,6 +793,7 @@
 	"project-localized-name-swwiki": "Svahili dili Vikipedi",
 	"project-localized-name-swwikibooks": "Svahili dili Vikikitap",
 	"project-localized-name-swwiktionary": "Swahilice Vikisözlük",
+	"project-localized-name-sysop_itwiki": "İtalyanca Vikipedi hizmetli viki",
 	"project-localized-name-szlwiki": "Silezyaca Vikipedi",
 	"project-localized-name-szywiki": "Sakizaya Vikipedi",
 	"project-localized-name-tawiki": "Tamilce Vikipedi",

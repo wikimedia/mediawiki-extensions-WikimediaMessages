@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"129femtoseconds",
 			"2nd-player",
 			"Afaz",
 			"AndyAndyAndyAlbert",
@@ -82,6 +83,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:不正利用フィルター編集者",
 	"group-abusefilter-helper": "不正利用フィルター閲覧者",
 	"group-abusefilter-helper-member": "{{GENDER:$1|不正利用フィルター閲覧者}}",
+	"group-abusefilter-maintainer": "不正利用フィルター保守員",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|不正利用フィルター保守員}}",
 	"group-accountcreator": "アカウント作成者",
 	"group-accountcreator-member": "{{GENDER:$1|アカウント作成者}}",
 	"grouppage-accountcreator": "{{ns:project}}:アカウント作成者",

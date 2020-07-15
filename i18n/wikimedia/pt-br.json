@@ -213,6 +213,8 @@
 	"group-oauthadmin": "Administradores OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|administrador|administradora|administrador(a)}} OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Administradores OAuth",
+	"group-ombuds": "Ombuds",
+	"group-ombuds-member": "{{GENDER:$1|ombuds}}",
 	"group-recursive-export": "Exportação recursiva",
 	"group-recursive-export-member": "{{GENDER:$1|exportador recursivo}}",
 	"grouppage-recursive-export": "m:Recursive export",

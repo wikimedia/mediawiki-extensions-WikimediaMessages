@@ -3,6 +3,7 @@
 		"authors": [
 			"Jkl",
 			"Jon Harald Søby",
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -17,6 +18,7 @@
 	"search-interwiki-results-anwiki": "Visar resultat från [[:an:|aragonesiskspråkiga Wikipedia]].",
 	"search-interwiki-results-arcwiki": "Visar resultat från [[:arc:|arameiskspråkiga Wikipedia]].",
 	"search-interwiki-results-arwiki": "Visar resultat från [[:ar:|arabiskspråkiga Wikipedia]].",
+	"search-interwiki-results-arywiki": "Visar resultat från [[:ary:|Marockansk arabiska Wikipedia]]",
 	"search-interwiki-results-arzwiki": "Visar resultat från [[:arz:|egyptisk arabiskspråkiga Wikipedia]].",
 	"search-interwiki-results-astwiki": "Visar resultat från [[:ast:|asturiskspråkiga Wikipedia]].",
 	"search-interwiki-results-aswiki": "Visar resultat från [[:as:|assamesiskspråkiga Wikipedia]].",
