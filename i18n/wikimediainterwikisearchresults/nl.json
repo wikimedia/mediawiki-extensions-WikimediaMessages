@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dutchy45",
 			"Mainframe98",
 			"MrLeopold",
 			"Romaine",
@@ -19,6 +20,7 @@
 	"search-interwiki-results-anwiki": "Resultaten uit de [[:an:|Aragonese Wikipedia]].",
 	"search-interwiki-results-arcwiki": "Resultaten uit de [[:arc:|Syrische Wikipedia]].",
 	"search-interwiki-results-arwiki": "Resultaten uit de [[:ar:|Arabische Wikipedia]].",
+	"search-interwiki-results-arywiki": "Toon resultaten uit de [[:ary:|Marokkaans-Arabische Wikipedia]].",
 	"search-interwiki-results-arzwiki": "Resultaten uit de [[:arz:|Egyptisch-Arabische Wikipedia]].",
 	"search-interwiki-results-astwiki": "Resultaten uit de [[:ast:|Asturische Wikipedia]].",
 	"search-interwiki-results-aswiki": "Resultaten uit de [[:as:|Assamese Wikipedia]].",

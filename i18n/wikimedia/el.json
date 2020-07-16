@@ -129,7 +129,7 @@
 	"grouppage-researcher": "{{ns:project}}:Ερευνητές",
 	"group-rollbacker": "Αναστροφείς",
 	"group-rollbacker-member": "{{GENDER:$1|αναστροφέας}}",
-	"grouppage-rollbacker": "{{ns:project}}:Αναιρέτες",
+	"grouppage-rollbacker": "{{ns:project}}:Αναστροφείς",
 	"group-transwiki": "Εισαγωγείς Transwiki",
 	"group-transwiki-member": "{{GENDER:$1|εισαγωγέας transwiki}}",
 	"grouppage-transwiki": "{{ns:project}}:Εισαγωγείς Transwiki",
