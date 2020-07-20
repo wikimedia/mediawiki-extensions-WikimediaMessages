@@ -10,7 +10,11 @@
 	"wm-license-cc-wiki-link": "w:fy:Creative Commons",
 	"wm-license-cc-attribution": "Nammefermelding",
 	"wm-license-cc-free": "Fiel jo frij:",
-	"wm-license-cc-free-to-share-header": "Dielen",
+	"wm-license-cc-free-to-share-header": "te dielen",
+	"wm-license-cc-free-to-share-text": "it wurk te kopiearjen, fersprieden en út te stjoeren",
+	"wm-license-cc-free-to-remix-header": "te fermingen",
+	"wm-license-cc-free-to-remix-text": "it wurk oan te passen",
+	"wm-license-cc-conditions": "Under de neikommende betingsten:",
 	"wm-license-cc-conditions-attribution-header": "Nammefermelding",
 	"wm-license-cc-conditions-share_alike-header": "Lyk diele"
 }
