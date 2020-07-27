@@ -329,6 +329,8 @@
 	"wikimedia-statslink": "統計",
 	"wikimedia-cookiestatement": "Cookieに関する声明",
 	"ext-quicksurveys-performance-internal-survey-question": "ページの読み込みは遅くありませんか？",
+	"group-oathauth-tester": "二段階認証試験者",
+	"group-oathauth-tester-member": "{{GENDER:$1|二段階認証試験者}}",
 	"querypage-updates-half-monthly": "このページの更新は毎月2回実行されます。",
 	"querypage-updates-monthly": "このページの更新は毎月1回実行されます。",
 	"protect-level-editautopatrolprotected": "自動巡回者のみ許可",
