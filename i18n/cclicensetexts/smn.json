@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Noomât",
+	"wm-license-cc-by-sa-3.0-text": "Taat tiätuvuárkká lii lisensistum [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.smn Noomâ-JyeveSiämmáánáál 3.0 Ij heiviittum] -lisenssáin.",
 	"wm-license-cc-free": "Pyevti:",
 	"wm-license-cc-free-to-share-header": "jyehiđ",
 	"wm-license-cc-free-to-share-text": "kopijistiđ, levâttiđ já oovdânpyehtiđ pargo",
@@ -12,5 +13,6 @@
 	"wm-license-cc-free-to-remix-text": "vaalmâšt muttum pargoid",
 	"wm-license-cc-conditions": "Čuovvovaš iävtuin:",
 	"wm-license-cc-conditions-attribution-header": "nommâdem",
+	"wm-license-cc-conditions-attribution-text": "Tun koolgah adeliđ hiäivulávt nommâalmottâs, liiŋkâ lisensân já almottiđ, láá-uv teekstân tohhum nubástusah. Tun uážuh porgâđ taam puoh tohálâš vuovijgijn, mut ij toin naalijn, et oro et lisensadeleijee lii tuárjumin tuu pargo teikâ suu pargo kevttim.",
 	"wm-license-cc-conditions-share_alike-header": "jyeve siämmáánáál"
 }
