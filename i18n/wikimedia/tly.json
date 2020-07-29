@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Ganbarzada",
-			"Patriot Kur"
+			"Patriot Kur",
+			"Гусейн"
 		]
 	},
 	"sitesupport": "Maddi koməq bıkə",
 	"tooltip-n-sitesupport": "Bəmə dəstəq bıdə",
 	"wikimedia-copyright": "İm mətn çı <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike lisenziya</a> jintone, bəzən co şərtonən tətbiq karde bənon.\nBo ətraflı məlumati qorşo <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">istifadə şərton</a> dekənən.",
+	"wikimedia-copyrightwarning": "Ovaxtiyon oqəteyədə şımə rozi bedəyon de [https://foundation.wikimedia.org/wiki/Terms_of_Use/riyən de oko doy şərton], iyən rozi bedəyon de bevanqə nıvıştəyon lisensiyə [https://ru.wikipedia.org/wiki/\nVikiprdiyə:Lisensiyə mətn_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] iyən [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Şımə rozi bedəyon ki ım linkon bə səhifə ya əçəy URL-adres vəs bəka bo Creative Commons lisensiyə şərton bə vırə rosne.",
 	"wikibase-sitelinks-wikinews": "Vikixəbəon",
 	"wikimedia-developers": "İnkişafon"
 }
