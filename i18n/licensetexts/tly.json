@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Patriot Kur"
+			"Patriot Kur",
+			"Гусейн"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Haşteydə kopiyə karde, pevılo karde iyən/ya ovaxte ım sənədi de şətron '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' versiyon 1.2 ya peşonə qılon, edaştəşe [[{{int:wm-license-fsf-wiki-link}}|Ozodə proqrəmmi oko doy fond]], be ovaxtə nıbə loon, be mətnon, bə iminə iyən oxonə dimkəşədə. \nLisensiyə kopiyə dəğandə bıə bə lo, nomış ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Təsvir",
 	"wm-license-information-source": "Səvon",
 	"wm-license-information-date": "Tarix",
-	"wm-license-information-author": "Mıəllif"
+	"wm-license-information-author": "Mıəllif",
+	"wm-license-information-permission": "İzn",
+	"wm-license-information-permission-reusing-text": "Im fayli sənibəton oko doy",
+	"wm-license-own-work": "Çımı əməle"
 }
