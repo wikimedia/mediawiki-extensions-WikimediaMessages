@@ -53,11 +53,6 @@
 			"localBasePath": "modules",
 			"remoteExtPath": "WikimediaMessages/modules",
 			"styles": "contactpage.css"
-		},
-		"mediawiki.special.block.feedback.request": {
-			"localBasePath": "modules",
-			"remoteExtPath": "WikimediaMessages/modules",
-			"styles": "mediawiki.special.block.feedback.request.less"
 		}
 	},
 	"callback": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onRegistration",
