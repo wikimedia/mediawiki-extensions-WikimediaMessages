@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"George Animal"
+			"George Animal",
+			"Guherto"
 		]
 	},
 	"project-localized-name-afwiki": "Wîkîpediyaya afrîkansî",
@@ -9,5 +10,6 @@
 	"project-localized-name-arwikibooks": "Wîkîpirtûka erebî",
 	"project-localized-name-arwiktionary": "Wîkîferhenga erebî",
 	"project-localized-name-kuwiki": "Wîkîpediyaya Kurdî",
-	"project-localized-name-kuwiktionary": "Wîkîferhenga kurdî"
+	"project-localized-name-kuwiktionary": "Wîkîferhenga kurdî",
+	"project-localized-name-wikidatawiki": "Wîkîdane"
 }
