@@ -277,7 +277,7 @@
 	"upload-form-label-own-work-message-commons": "أشهد بأنني أمتلك حقوق الطبع والنشر في هذا الملف، وأوافق على إصدار هذا الملف نهائيا إلى ويكيميديا ​​كومنز بموجب ترخيص [https://creativecommons.org/licenses/by-sa/4.0/ المشاع الإبداعي: النسبة-الترخيص بالمثل 4.0]، و أوافق على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام].",
 	"upload-form-label-not-own-work-message-commons": "إذا لم تكن تملك حقوق النشر لهذا الملف، أو كنت ترغب في إصداره بموجب ترخيص مختلف، ففكر في استخدام [https://commons.wikimedia.org/wiki/Special:UploadWizard معالج رفع كومنز].",
 	"upload-form-label-not-own-work-local-commons": "يمكنك أيضًا تجربة استخدام [[Special:Upload|صفحة الرفع في {{SITENAME}}]]، إذا كان الموقع يسمح برفع هذا الملف بموجب سياساته.",
-	"wikimedia-upload-nolicenses": "Uلم يتم تمكين رفع الملفات إلى هذا الويكي; من فضلك [[commons:Special:UploadWizard|ارفع إلى ويكيميديا ​​كومنز]].\n\nلتتمكن من استخدام هذه الصفحة الخاصة للرفع لموقع الويكي هذا; يحتاج إداري إلى إضافة خيار ترخيص واحد أو أكثر إلى الصفحة [[MediaWiki:Licenses]].\n\nاستخدم التنسيق التالي: <code>* Template name|Label</code>، استخدم أي نص لتمكين الرفع بدون خيارات الترخيص.",
+	"wikimedia-upload-nolicenses": "لم يتم تمكين رفع الملفات إلى هذا الويكي. من فضلك [[commons:Special:UploadWizard|ارفع إلى ويكيميديا ​​كومنز]].\n\nلتتمكن من استخدام هذه الصفحة الخاصة للرفع لموقع الويكي هذا، يحتاج إداري إلى إضافة خيار ترخيص واحد أو أكثر إلى الصفحة [[MediaWiki:Licenses]].\n\nاستخدم التنسيق التالي: <code>* Template name|Label</code>. استخدم أي نص لتمكين الرفع بدون خيارات الترخيص.",
 	"wikimediashoplink-linktext": "متجر ويكيميديا",
 	"wikimediashoplink-link-tooltip": "زر متجر ويكيميديا",
 	"interlanguage-link-mul": "لغات أخرى",

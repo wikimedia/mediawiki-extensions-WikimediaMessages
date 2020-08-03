@@ -3,6 +3,7 @@
 		"authors": [
 			"AdiJapan",
 			"Andrei Stroe",
+			"Carcassonne93",
 			"Cin",
 			"Emily",
 			"Firilacroco",
@@ -177,6 +178,6 @@
 	"wikimediashoplink-link-tooltip": "Vizitați magazinul Wikipedia",
 	"interlanguage-link-mul": "Mai multe limbi",
 	"right-extendedconfirmed": "Editează pagini restricționate",
-	"protect-level-extendedconfirmed": "Numai editorii cu grad sporit (confirmare extinsă) și administratori.",
+	"protect-level-extendedconfirmed": "Numai editorii cu grad sporit (confirmare extinsă) și administratorii",
 	"eri-rcfilters-tour-confirm-title": "Noile filtre au fost activate"
 }

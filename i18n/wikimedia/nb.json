@@ -257,7 +257,7 @@
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Personvernspolitikk]",
 	"grant-checkuser": "Få tilgang til IP-kontrolldata",
 	"upload-form-label-own-work-message-commons": "Jeg bekrefter at jeg har opphavsretten til denne filen, samtykker til å ugjenkallelig slippe filen til Wikimedia Commons under lisensen [https://creativecommons.org/licenses/by-sa/4.0/deed.no Creative Commons Navngivelse-DelPåSammeVilkår 4.0], og samtykker til [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkårene].",
-	"upload-form-label-not-own-work-message-commons": "Hvis du ikke sitter på opphavsretten til filen, eller ønsker å slippe den under en annen lisens, prøv [https://commons.wikimedia.org/wiki/Special:UploadWizard Opplastingsveiviseren på Commons].",
+	"upload-form-label-not-own-work-message-commons": "Hvis du ikke sitter på opphavsretten til filen, eller ønsker å slippe den under en annen lisens, prøv [https://commons.wikimedia.org/wiki/Special:UploadWizard opplastingsveiviseren på Commons].",
 	"upload-form-label-not-own-work-local-commons": "Du kan eventuelt forsøke [[Special:Upload|den ordinære opplastingssiden på {{SITENAME}}]] hvis filen kan lastes opp under politikken som gjelder der.",
 	"wikimedia-upload-nolicenses": "Opplasting av filer til denne wikien er slått av. [[commons:Special:UploadWizard|Last opp til Wikimedia Commons i stedet]].\n\nFor å kunne bruke denne spesialsiden for å laste opp til denne wikien må en administrator legge til ett eller flere lisensvalg på siden [[MediaWiki:Licenses]].\n\nBruk følgende format: <code>* Malnavn|Etikett</code>. Bruk en hvilken som helst tekst for å slå på opplasting uten lisensvalg.",
 	"wikimediashoplink-linktext": "Wikimedia-butikken",
