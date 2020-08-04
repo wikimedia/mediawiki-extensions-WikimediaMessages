@@ -6,6 +6,7 @@
 			"Diebuche",
 			"El libre",
 			"Martorell",
+			"Mguix",
 			"Multichill",
 			"Paucabot",
 			"SMP",
@@ -199,8 +200,8 @@
 	"wm-license-cc-free-to-remix-text": "fer-ne obres derivades",
 	"wm-license-cc-conditions": "Amb les condicions següents:",
 	"wm-license-cc-conditions-attribution-header": "reconeixement",
-	"wm-license-cc-conditions-attribution-text": "Heu d'atribuir els crèdits de l'obra de la manera especificada per l'autor o titular (però no d'una manera que suggereixi que us donen suport o rebeu suport per l'ús que en feu).",
+	"wm-license-cc-conditions-attribution-text": "Heu de donar la informació adequada sobre l'autor, proporcionar un enllaç a la llicència i indicar si s'han realitzat canvis. Podeu fer-ho amb qualsevol mitjà raonable, però de cap manera no suggereixi que l'autor us dóna suport o aprova l'ús que en feu.",
 	"wm-license-cc-conditions-share_alike-header": "compartir igual",
-	"wm-license-cc-conditions-share_alike-text": "Si transformeu o modifiqueu aquesta obra per generar-ne una derivada, només podreu distribuir l'obra resultant amb la mateixa llicència, una de similar o una de compatible.",
+	"wm-license-cc-conditions-share_alike-text": "Si modifiqueu, transformeu, o generareu amb el material, haureu de distribuir les vostres contribucions sota [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses una llicència similar o una de compatible] com l'original",
 	"wm-license-cc-pd-mark-text": "Aquest fitxer està identificat com a lliure de restriccions conegudes sota la llei de drets d'autor, inclosos els drets veïns."
 }
