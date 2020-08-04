@@ -11,7 +11,7 @@
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
 	"requires": {
-		"MediaWiki": ">= 1.34.0"
+		"MediaWiki": ">= 1.35.0"
 	},
 	"MessagesDirs": {
 		"WikimediaMessages": [
@@ -51,22 +51,50 @@
 		"remoteExtPath": "WikimediaMessages/modules"
 	},
 	"callback": "WikimediaMessagesHooks::onRegistration",
+	"HookHandlers": {
+		"WikimediaMessagesHooks": {
+			"class": "WikimediaMessagesHooks",
+			"factory": "WikimediaMessagesHooks::factory",
+			"services": [
+				"MainConfig",
+				"UserOptionsManager"
+			]
+		}
+	},
 	"Hooks": {
 		"MessageCache::get": "WikimediaMessagesHooks::onMessageCacheGet",
-		"SkinCopyrightFooter": "WikimediaMessagesHooks::onSkinCopyrightFooter",
-		"EditPageCopyrightWarning": "WikimediaMessagesHooks::onEditPageCopyrightWarning",
+		"SkinCopyrightFooter": {
+			"handler": "WikimediaMessagesHooks"
+		},
+		"EditPageCopyrightWarning": {
+			"handler": "WikimediaMessagesHooks"
+		},
 		"MobileLicenseLink": "WikimediaMessagesHooks::onMobileLicenseLink",
-		"SkinAddFooterLinks": "WikimediaMessagesHooks::onSkinAddFooterLinks",
+		"SkinAddFooterLinks": {
+			"handler": "WikimediaMessagesHooks"
+		},
 		"TorBlockBlockedMsg": "WikimediaMessagesHooks::onTorBlockBlockedMsg",
 		"GlobalBlockingBlockedIpMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg",
 		"GlobalBlockingBlockedIpRangeMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg",
 		"GlobalBlockingBlockedIpXffMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg",
-		"UploadForm:initial": "WikimediaMessagesHooks::onUploadFormInitial",
-		"ChangesListSpecialPageStructuredFilters": "WikimediaMessagesHooks::onChangesListSpecialPageStructuredFilters",
-		"LocalUserCreated": "WikimediaMessagesHooks::onLocalUserCreated",
-		"ResourceLoaderRegisterModules": "WikimediaMessagesHooks::onResourceLoaderRegisterModules",
-		"GetPreferences": "WikimediaMessagesHooks::onGetPreferences",
-		"SpecialPageBeforeExecute": "WikimediaMessagesHooks::onSpecialPageBeforeExecute",
+		"UploadForm:initial": {
+			"handler": "WikimediaMessagesHooks"
+		},
+		"ChangesListSpecialPageStructuredFilters": {
+			"handler": "WikimediaMessagesHooks"
+		},
+		"LocalUserCreated": {
+			"handler": "WikimediaMessagesHooks"
+		},
+		"ResourceLoaderRegisterModules": {
+			"handler": "WikimediaMessagesHooks"
+		},
+		"GetPreferences": {
+			"handler": "WikimediaMessagesHooks"
+		},
+		"SpecialPageBeforeExecute": {
+			"handler": "WikimediaMessagesHooks"
+		},
 		"CheckUserSubtitleLinks": "WikimediaMessagesHooks::onCheckUserSubtitleLinks"
 	},
 	"DefaultUserOptions": {

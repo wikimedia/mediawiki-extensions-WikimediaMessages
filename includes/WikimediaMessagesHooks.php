@@ -1,6 +1,20 @@
 <?php
 
+// phpcs:disable MediaWiki.NamingConventions.LowerCamelFunctionsName.FunctionName
+// Need to be able to define ::onUploadForm_initial
+
+use MediaWiki\Auth\Hook\LocalUserCreatedHook;
+use MediaWiki\Config\ServiceOptions;
+use MediaWiki\Hook\EditPageCopyrightWarningHook;
+use MediaWiki\Hook\ResourceLoaderRegisterModulesHook;
+use MediaWiki\Hook\SkinAddFooterLinksHook;
+use MediaWiki\Hook\SkinCopyrightFooterHook;
+use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\MediaWikiServices;
+use MediaWiki\Preferences\Hook\GetPreferencesHook;
+use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
+use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
+use MediaWiki\User\UserOptionsManager;
 use OOUI\Tag;
 
 /**
@@ -9,7 +23,70 @@ use OOUI\Tag;
  * @file
  * @ingroup Extensions
  */
-class WikimediaMessagesHooks {
+class WikimediaMessagesHooks implements
+	ChangesListSpecialPageStructuredFiltersHook,
+	EditPageCopyrightWarningHook,
+	GetPreferencesHook,
+	LocalUserCreatedHook,
+	ResourceLoaderRegisterModulesHook,
+	SkinAddFooterLinksHook,
+	SkinCopyrightFooterHook,
+	SpecialPageBeforeExecuteHook,
+	UploadForm_initialHook
+{
+
+	/** @var ExtensionRegistry */
+	private $extensionRegistry;
+
+	/** @var ServiceOptions */
+	private $options;
+
+	/**
+	 * @var UserOptionsManager
+	 *
+	 * Not yet used, but injected for future replacement of User::getOption and
+	 * User::setOption
+	 */
+	private $userOptionsManager;
+
+	/**
+	 * @param ExtensionRegistry $extensionRegistry
+	 * @param ServiceOptions $options
+	 * @param UserOptionsManager $userOptionsManager
+	 */
+	public function __construct(
+		ExtensionRegistry $extensionRegistry,
+		ServiceOptions $options,
+		UserOptionsManager $userOptionsManager
+	) {
+		$this->extensionRegistry = $extensionRegistry;
+		$this->options = $options;
+		$this->userOptionsManager = $userOptionsManager;
+	}
+
+	/**
+	 * @param Config $mainConfig
+	 * @param UserOptionsManager $userOptionsManager
+	 * @return WikimediaMessagesHooks
+	 */
+	public static function factory(
+		Config $mainConfig,
+		UserOptionsManager $userOptionsManager
+	) : WikimediaMessagesHooks {
+		return new self(
+			ExtensionRegistry::getInstance(),
+			new ServiceOptions(
+				[
+					'DBname',
+					'ForceUIMsgAsContentMsg',
+					'RightsUrl',
+				],
+				$mainConfig
+			),
+			$userOptionsManager
+		);
+	}
+
 	/**
 	 * When core requests certain messages, change the key to a Wikimedia version.
 	 *
@@ -136,22 +213,24 @@ class WikimediaMessagesHooks {
 	 * Override for copyright message in skin footer.
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinCopyrightFooter
+	 *
 	 * @param Title $title
 	 * @param string $type
 	 * @param string &$msg
 	 * @param string &$link
+	 * @return bool|void True or no return value to continue or false to abort
 	 */
-	public static function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
-		global $wgRightsUrl;
+	public function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
+		$rightsUrl = $this->options->get( 'RightsUrl' );
 
 		if (
 			$type !== 'history' &&
 			// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-			strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false
+			strpos( $rightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false
 		) {
-			global $wgDBname;
+			$dbName = $this->options->get( 'DBname' );
 
-			switch ( $wgDBname ) {
+			switch ( $dbName ) {
 				case 'wikidatawiki':
 				case 'testwikidatawiki':
 					$msg = 'wikidata-copyright';
@@ -170,20 +249,25 @@ class WikimediaMessagesHooks {
 	 * Override for copyright message on edit page.
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/EditPageCopyrightWarning
+	 *
 	 * @param Title $title
-	 * @param string &$msg
+	 * @param array &$msg
+	 * @return bool|void True or no return value to continue or false to abort
 	 */
-	public static function onEditPageCopyrightWarning( $title, &$msg ) {
-		global $wgRightsUrl;
+	public function onEditPageCopyrightWarning( $title, &$msg ) {
+		$rightsUrl = $this->options->get( 'RightsUrl' );
 
 		// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-		if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+		if ( strpos( $rightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
 			$msg = [ 'wikimedia-copyrightwarning' ];
 		}
 	}
 
 	/**
 	 * Override for copyright message (MobileFrontend extension).
+	 *
+	 * @todo once MobileFrontend updates to use hook interfaces that can be implemented,
+	 * convert to using this class as a hook handler and make non-static with DI
 	 *
 	 * @param string &$link
 	 * @param string $context
@@ -226,11 +310,13 @@ class WikimediaMessagesHooks {
 	 *   - "Cookie statement" (T124366)
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinAddFooterLinks
-	 * @param SkinTemplate $skin
+	 *
+	 * @param Skin $skin
 	 * @param string $key
 	 * @param array &$footerLinks
+	 * @return bool|void True or no return value to continue or false to abort
 	 */
-	public static function onSkinAddFooterLinks( $skin, $key, &$footerLinks ) {
+	public function onSkinAddFooterLinks( Skin $skin, string $key, array &$footerLinks ) {
 		if ( $key !== 'places' ) {
 			return;
 		}
@@ -273,6 +359,9 @@ class WikimediaMessagesHooks {
 	 *
 	 * @todo FIXME: Should have a specific message for WMF projects (T44231)
 	 *
+	 * @todo once TorBlock updates to use hook interfaces that can be implemented,
+	 * convert to using this class as a hook handler and make non-static with DI
+	 *
 	 * @param string &$msg The message key
 	 */
 	public static function onTorBlockBlockedMsg( &$msg ) {
@@ -281,6 +370,9 @@ class WikimediaMessagesHooks {
 
 	/**
 	 * Change which message is shown for global IP blocks (GlobalBlocking extension)
+	 *
+	 * @todo once GlobalBlocking updates to use hook interfaces that can be implemented,
+	 * convert to using this class as a hook handler and make non-static with DI
 	 *
 	 * @param string &$msg The message key
 	 */
@@ -291,6 +383,9 @@ class WikimediaMessagesHooks {
 	/**
 	 * Change which message is shown for global IP range blocks (GlobalBlocking extension)
 	 *
+	 * @todo once GlobalBlocking updates to use hook interfaces that can be implemented,
+	 * convert to using this class as a hook handler and make non-static with DI
+	 *
 	 * @param string &$msg The message key
 	 */
 	public static function onGlobalBlockingBlockedIpRangeMsg( &$msg ) {
@@ -300,6 +395,9 @@ class WikimediaMessagesHooks {
 	/**
 	 * Change which message is shown for global XFF IP blocks
 	 * and rangeblocks (GlobalBlocking extension)
+	 *
+	 * @todo once GlobalBlocking updates to use hook interfaces that can be implemented,
+	 * convert to using this class as a hook handler and make non-static with DI
 	 *
 	 * @param string &$msg The message key
 	 */
@@ -316,12 +414,15 @@ class WikimediaMessagesHooks {
 	 * Do not require it when licenses is in $wgForceUIMsgAsContentMsg,
 	 * to prevent checking each subpage of MediaWiki:Licenses.
 	 *
-	 * @param BaseTemplate $tpl
+	 * @param SpecialUpload $upload
+	 * @return bool|void True or no return value to continue or false to abort
 	 * @throws ErrorPageError
 	 */
-	public static function onUploadFormInitial( $tpl ) {
-		global $wgForceUIMsgAsContentMsg;
-		if ( !in_array( 'licenses', $wgForceUIMsgAsContentMsg )
+	public function onUploadForm_initial( $upload ) {
+		$forceUIMsgAsContentMsg = $this->options->get( 'ForceUIMsgAsContentMsg' );
+
+		// TODO inject something to replace use of wfMessage
+		if ( !in_array( 'licenses', $forceUIMsgAsContentMsg )
 			&& wfMessage( 'licenses' )->inContentLanguage()->isDisabled()
 		) {
 			throw new ErrorPageError( 'uploaddisabled', 'wikimedia-upload-nolicenses' );
@@ -1390,8 +1491,8 @@ class WikimediaMessagesHooks {
 	 *
 	 * @return bool
 	 */
-	private static function isOresAvailable() {
-		return ExtensionRegistry::getInstance()->isLoaded( 'ORES' ) &&
+	private function isOresAvailable() {
+		return $this->extensionRegistry->isLoaded( 'ORES' ) &&
 			(
 				ORES\Hooks\Helpers::isModelEnabled( 'damaging' )
 				|| ORES\Hooks\Helpers::isModelEnabled( 'goodfaith' )
@@ -1406,16 +1507,19 @@ class WikimediaMessagesHooks {
 	 *   on the current user's preferences).
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ChangesListSpecialPageStructuredFilters
+	 *
 	 * @param ChangesListSpecialPage $special Special page
+	 * @return bool|void True or no return value to continue or false to abort
 	 */
-	public static function onChangesListSpecialPageStructuredFilters( $special ) {
-		if ( !ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
+	public function onChangesListSpecialPageStructuredFilters( $special ) {
+		if ( !$this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
 			return;
 		}
 		$title = $special->getPageTitle();
 		$user = $special->getUser();
 		$out = $special->getOutput();
 
+		// TODO replace use of User::getOption with $this->userOptionsManager
 		if (
 			// If we're on Special:RecentChanges
 			$title->isSpecial( 'Recentchanges' ) &&
@@ -1426,7 +1530,7 @@ class WikimediaMessagesHooks {
 		) {
 			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
 				GuidedTourLauncher::launchTour( 'RcFiltersIntro', 'Welcome' );
-				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
+				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', $this->isOresAvailable() );
 			}
 
 			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
@@ -1440,7 +1544,7 @@ class WikimediaMessagesHooks {
 		) {
 			// Show watchlist tour
 			GuidedTourLauncher::launchTour( 'WlFiltersIntro', 'Welcome' );
-			$out->addJsConfigVars( 'wgRCFiltersORESAvailable', self::isOresAvailable() );
+			$out->addJsConfigVars( 'wgRCFiltersORESAvailable', $this->isOresAvailable() );
 		}
 	}
 
@@ -1449,21 +1553,26 @@ class WikimediaMessagesHooks {
 	 *
 	 * It is used to prevent new users from seeing RCFilters guided tours
 	 *
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ResourceLoaderRegisterModules
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/LocalUserCreated
+	 *
 	 * @param User $user
 	 * @param bool $autocreated
+	 * @return bool|void True or no return value to continue or false to abort
 	 */
-	public static function onLocalUserCreated( $user, $autocreated ) {
+	public function onLocalUserCreated( $user, $autocreated ) {
+		// TODO replace use of User::setOption with $this->userOptionsManager
 		$user->setOption( 'rcenhancedfilters-seen-tour', true );
 		$user->setOption( 'wlenhancedfilters-seen-tour', true );
 	}
 
 	/**
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ResourceLoaderRegisterModules
-	 * @param ResourceLoader &$resourceLoader
+	 *
+	 * @param ResourceLoader $resourceLoader
+	 * @return void This hook must not abort, it must return no value
 	 */
-	public static function onResourceLoaderRegisterModules( ResourceLoader &$resourceLoader ) {
-		if ( ExtensionRegistry::getInstance()->isLoaded( 'GuidedTour' ) ) {
+	public function onResourceLoaderRegisterModules( ResourceLoader $resourceLoader ) : void {
+		if ( $this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
 				'localBasePath' => dirname( __DIR__ ) . '/modules',
 				'remoteExtPath' => 'WikimediaMessages/modules',
@@ -1523,10 +1632,12 @@ class WikimediaMessagesHooks {
 	 * Register extra preferences.
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetPreferences
+	 *
 	 * @param User $user User object
 	 * @param array &$preferences Preferences object
+	 * @return bool|void True or no return value to continue or false to abort
 	 */
-	public static function onGetPreferences( $user, &$preferences ) {
+	public function onGetPreferences( $user, &$preferences ) {
 		$preferences['rcenhancedfilters-seen-tour'] = [
 			'type' => 'api',
 		];
@@ -1548,9 +1659,10 @@ class WikimediaMessagesHooks {
 	 * Handle SpecialPageBeforeExecute hook
 	 *
 	 * @param SpecialPage $special
-	 * @param string $subPage
+	 * @param string|null $subPage
+	 * @return bool|void True or no return value to continue or false to prevent execution
 	 */
-	public static function onSpecialPageBeforeExecute( SpecialPage $special, $subPage ) {
+	public function onSpecialPageBeforeExecute( $special, $subPage ) {
 		if (
 			$special->getName() !== 'Block' ||
 			!$special->userCanExecute( $special->getUser() )
