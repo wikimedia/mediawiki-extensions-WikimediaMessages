@@ -1,6 +1,7 @@
 <?php
 
 use MediaWiki\MediaWikiServices;
+use OOUI\Tag;
 
 /**
  * Hooks for WikimediaMessages extension
@@ -1583,6 +1584,20 @@ class WikimediaMessagesHooks {
 		$output->setIndicators(
 			[ 'mw-feedbacklink' => $link ]
 		);
+	}
+
+	/**
+	 * Use this hook to modify the subtitle links on Special:Investigate.
+	 *
+	 * @param IContextSource $context
+	 * @param array &$links
+	 */
+	public static function onCheckUserSubtitleLinks( IContextSource $context, array &$links ) {
+		$text = $context->msg( 'specialinvestigate-feedback' )->text();
+		$links[] = ( new Tag( 'a' ) )->appendContent( $text )->setAttributes( [
+			'href' => 'https://meta.wikimedia.org/wiki/Special:MyLanguage/'
+				. 'Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/CheckUser_Improvements',
+		] );
 	}
 
 }
