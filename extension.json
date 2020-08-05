@@ -66,7 +66,8 @@
 		"LocalUserCreated": "WikimediaMessagesHooks::onLocalUserCreated",
 		"ResourceLoaderRegisterModules": "WikimediaMessagesHooks::onResourceLoaderRegisterModules",
 		"GetPreferences": "WikimediaMessagesHooks::onGetPreferences",
-		"SpecialPageBeforeExecute": "WikimediaMessagesHooks::onSpecialPageBeforeExecute"
+		"SpecialPageBeforeExecute": "WikimediaMessagesHooks::onSpecialPageBeforeExecute",
+		"CheckUserSubtitleLinks": "WikimediaMessagesHooks::onCheckUserSubtitleLinks"
 	},
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
