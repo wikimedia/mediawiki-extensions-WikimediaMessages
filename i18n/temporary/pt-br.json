@@ -18,5 +18,6 @@
 	"hello": "Olá",
 	"please-translate": "Por favor, ajude a traduzir para o seu idioma",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
-	"specialblockfeedback": "Comentário"
+	"specialblockfeedback": "Comentário",
+	"specialinvestigate-feedback": "Deixe um comentário"
 }

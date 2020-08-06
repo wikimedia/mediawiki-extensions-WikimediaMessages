@@ -5,6 +5,7 @@
 			"David1010",
 			"Dawid Deutschland",
 			"ITshnik",
+			"Tokoko",
 			"გიორგიმელა"
 		]
 	},
@@ -195,7 +196,7 @@
 	"wm-license-cc-free-to-remix-text": "ნამუშევრის შესწორება",
 	"wm-license-cc-conditions": "შემდეგი პირობებით:",
 	"wm-license-cc-conditions-attribution-header": "მოხსენიება",
-	"wm-license-cc-conditions-attribution-text": "თქვენ უნდა მიუთითოთ წყაროს შემქმნელი იმ გზით, რომელიც დანიშნა ავტორმა ან საავტორო უფლებების მფლობელმა. მაგრამ არა ისე, ვითომ წყაროს ავტორი მხარს გიჭერთ თქვენ ან  დაუჭირა თქვენს მიერ შექმნილ ნაწარმოებს.",
+	"wm-license-cc-conditions-attribution-text": "თქვენ უნდა მიუთითოთ წყაროს შემქმნელი იმ გზით, რომელიც დანიშნა ავტორმა ან საავტორო უფლებების მფლობელმა. მაგრამ არა ისე, თითქოს წყაროს ავტორი მხარს გიჭერთ თქვენ ან  დაუჭირა თქვენს მიერ შექმნილ ნაწარმოებს.",
 	"wm-license-cc-conditions-share_alike-header": "გავრცელება იგივე პირობებეით",
-	"wm-license-cc-conditions-share_alike-text": "თუ თქვენ ცვლით, ან ქმნით ახალ ნაშრომს ამ ნამუშევრის გამოყენებთ, თქვენ გაქვთ უფლება გაავრცელოთ იგი მხოლოდ იგივე ლიცენზიით, რომლითაც ვრცელდება წყარო."
+	"wm-license-cc-conditions-share_alike-text": "თუ თქვენ ცვლით, ან ქმნით ახალ ნაშრომს ამ ნამუშევრის გამოყენებთ, თქვენ გაქვთ უფლება გაავრცელოთ იგი [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses იგივე ან შესაბამისი] ლიცენზიით, რომლითაც ვრცელდება წყარო."
 }

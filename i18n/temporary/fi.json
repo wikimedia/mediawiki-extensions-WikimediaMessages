@@ -15,5 +15,6 @@
 	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
 	"thank-you": "{{GENDER:$1|Kiitos.}}",
-	"specialblockfeedback": "Palaute"
+	"specialblockfeedback": "Palaute",
+	"specialinvestigate-feedback": "Jätä palautetta"
 }

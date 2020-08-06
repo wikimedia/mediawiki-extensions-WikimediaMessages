@@ -8,6 +8,7 @@
 			"Linedwell",
 			"Metroitendo",
 			"Niridya",
+			"PhilW",
 			"Pols12",
 			"Quentinv57",
 			"Thibaut120094",
@@ -24,5 +25,6 @@
 	"hello": "Bonjour",
 	"please-translate": "Aidez-nous à traduire dans votre langue",
 	"thank-you": "{{GENDER:$1|Merci.}}",
-	"specialblockfeedback": "Commentaire"
+	"specialblockfeedback": "Commentaire",
+	"specialinvestigate-feedback": "laisser les commentaires"
 }
