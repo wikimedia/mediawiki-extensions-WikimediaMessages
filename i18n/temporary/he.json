@@ -16,5 +16,6 @@
 	"hello": "שלום",
 	"please-translate": "אנא סייעו בתרגום הדף",
 	"thank-you": "{{GENDER:$1|תודה רבה.}}",
-	"specialblockfeedback": "משוב"
+	"specialblockfeedback": "משוב",
+	"specialinvestigate-feedback": "תנו לנו משוב"
 }
