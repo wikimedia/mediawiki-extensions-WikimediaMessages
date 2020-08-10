@@ -3,10 +3,12 @@
 		"authors": [
 			"Dead3y3",
 			"Geraki",
+			"Norhorn",
 			"Protnet"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Επιτήρηση",
 	"group-oversight": "Επιτηρητές",
-	"group-oversight-member": "{{GENDER:$1|επιτηρητής|επιτηρήτρια}}"
+	"group-oversight-member": "{{GENDER:$1|επιτηρητής|επιτηρήτρια}}",
+	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας"
 }

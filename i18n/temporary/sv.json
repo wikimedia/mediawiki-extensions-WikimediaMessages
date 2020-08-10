@@ -14,5 +14,6 @@
 	"hello": "Hallå",
 	"please-translate": "Hjälp till att översätta till ditt språk",
 	"thank-you": "{{GENDER:$1|Tack.}}",
-	"specialblockfeedback": "Återkoppling"
+	"specialblockfeedback": "Återkoppling",
+	"specialinvestigate-feedback": "Lämna återkoppling"
 }

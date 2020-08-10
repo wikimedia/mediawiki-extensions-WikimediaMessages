@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Akmaie Ajam",
 			"IvanLanin",
 			"Iwan Novirion",
 			"Rex"
@@ -8,5 +9,6 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Pengawas",
 	"group-oversight": "Pengawas",
-	"group-oversight-member": "{{GENDER:$1|pengawas}}"
+	"group-oversight-member": "{{GENDER:$1|pengawas}}",
+	"specialinvestigate-feedback": "Berikan Komentar"
 }

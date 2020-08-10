@@ -12,5 +12,6 @@
 	"hello": "Salut",
 	"please-translate": "Hëlleft wgl. fir an Är Sprooch z'iwwersetzen",
 	"thank-you": "{{GENDER:$1|Villmools Merci.}}",
-	"specialblockfeedback": "Feedback"
+	"specialblockfeedback": "Feedback",
+	"specialinvestigate-feedback": "Feedback ginn"
 }
