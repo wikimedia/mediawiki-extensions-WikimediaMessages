@@ -332,5 +332,7 @@
 	"protect-level-editautopatrolprotected": "Tillåt endast autopatrullerare",
 	"restriction-level-editautopatrolprotected": "skyddad för autopatrullerare",
 	"right-editautopatrolprotected": "Redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-docseditor": "redigera dokumentation",
+	"right-docseditor": "Redigera dokumentation"
 }

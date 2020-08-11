@@ -23,6 +23,7 @@
 			"Suelnur",
 			"TmY e12",
 			"ToprakM",
+			"Uncitoyen",
 			"Vito Genovese"
 		]
 	},
@@ -316,7 +317,7 @@
 	"eri-rcfilters-tour-confirm-description": "Geri bildirim sağlamak veya özelliği devre dışı bırakmak için <strong>beta özellikleri sayfasına</strong> erişebilirsiniz.",
 	"eri-wlfilters-tour-intro-welcome-title": "Geliştirilmiş izleme listesi filtrelemesine hoş geldiniz",
 	"eri-wlfilters-tour-intro-preferences-description": "Gelişmiş İzleme Listesinden çıkmak için tercih ettiğiniz zaman İzleme Listesi sekmesine erişin.",
-	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak engellendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız.",
+	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak kilitlendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız.",
 	"action-viewdeletedfile": "{{ns:file}} ve {{ns:file_talk}} silinen ad alanlarında dosyaları ve sayfaları görüntüle",
 	"right-viewdeletedfile": "{{ns:file}} ve {{ns:file_talk}} ad alanlarındaki silinen sayfaları ve dosyaları görüntüle",
 	"securepoll-dblist-securepollglobal": "Pano Seçimi",
