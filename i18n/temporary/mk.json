@@ -12,5 +12,6 @@
 	"hello": "Здраво",
 	"please-translate": "Помогнете со преводот на вашиот јазик",
 	"thank-you": "{{GENDER:$1|Благодариме.}}",
-	"specialblockfeedback": "Мислења"
+	"specialblockfeedback": "Мислења",
+	"specialinvestigate-feedback": "Дајте ваше мислење"
 }

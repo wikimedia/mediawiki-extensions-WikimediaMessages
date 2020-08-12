@@ -162,7 +162,7 @@
 	"group-transwiki-member": "{{GENDER:$1|跨維基匯入者}}",
 	"grouppage-transwiki": "{{ns:project}}:跨維基匯入者",
 	"group-templateeditor": "模板編輯員",
-	"group-templateeditor-member": "模板編輯員",
+	"group-templateeditor-member": "{{GENDER:$1|模板編輯員}}",
 	"grouppage-templateeditor": "{{ns:project}}:模板編輯員",
 	"group-trusted": "受信任的使用者",
 	"group-trusted-member": "{{GENDER:$1|受信任的使用者}}",

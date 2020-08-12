@@ -200,5 +200,6 @@
 	"eri-rcfilters-tour-highlight-button": "OK, modtaget",
 	"wikimedia-centralauth-contribs-locked": "Denne konto er globalt låst. \nSe [[Special:CentralAuth/$1|globale kontodetaljer]] for mere information.",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Brug af cookies"
+	"wikimedia-cookiestatement": "Brug af cookies",
+	"querypage-updates-half-monthly": "Denne side opdateres to gange om måneden."
 }

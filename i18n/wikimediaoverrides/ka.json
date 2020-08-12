@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"BRUTE",
-			"Nemo bis"
+			"Nemo bis",
+			"Გიო ოქრო"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ შერჩევაში)]]",
-	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]"
+	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]",
+	"wikimedia-flow-terms-of-use-reply": "„{{int:flow-reply-link}}“-ზე დაჭერით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Terms_of_Use გამოყენების პირობებს] და თქვენი ტექსტის შეუცვლელად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 ლიცენზიისა] და [[GNU Free Documentation License|GFDL]]-ის ქვეშ."
 }
