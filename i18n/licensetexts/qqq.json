@@ -69,7 +69,7 @@
 	"wm-license-fal-text": "You can peek at [[Commons:Template:FAL]] for the current translations.\n\nRefers to:\n* {{msg-mw|Wm-license-fal-wiki-link}}\n* {{msg-mw|Wm-license-fal-full-link}}\n* {{msg-mw|Wm-license-fal-full-link-commons}}",
 	"wm-license-fal-wiki-link": "{{optional}}\nUsed in:\n* {{msg-mw|Wm-license-fal-text}}",
 	"wm-license-fal-full-link": "{{optional}}\nUsed in:\n* {{msg-mw|Wm-license-fal-text}}",
-	"wm-license-fal-full-link-commons": "Used in:\n* {{msg-mw|Wm-license-fal-text}}",
+	"wm-license-fal-full-link-commons": "{{optional}}\nUsed in:\n* {{msg-mw|Wm-license-fal-text}}",
 	"wm-license-fsf-wiki-link": "{{optional}}\nLink to the Wikipedia article about the [[Wikipedia:Free Software Foundation|Free Software Foundation]].",
 	"wm-license-free-software-wiki-link": "{{optional}}\nLink to the article about Free software. This is an optional message so please only translate it if the article actually exists.",
 	"wm-license-gfdl-1.2-and-later": "You can peek at [[Commons:Template:GFDL]] for the current translations.\n\nRefers to:\n* {{msg-mw|Wm-license-gfdl-wiki-link}}\n* {{msg-mw|Wm-license-fsf-wiki-link}}\n* {{msg-mw|Wm-license-gfdl-full-1.2-link}}",

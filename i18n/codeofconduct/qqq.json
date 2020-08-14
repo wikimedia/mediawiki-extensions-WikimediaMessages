@@ -1,7 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Umherirrender"
+		]
 	},
-	"wm-codeofconduct-url": "{{optional}}\nURL to code of conduct for Wikimedia technical spaces",
+	"wm-codeofconduct-url": "{{notranslate}}\nURL to code of conduct for Wikimedia technical spaces",
 	"wm-codeofconduct": "Footer label for code of conduct for Wikimedia technical spaces link"
 }
