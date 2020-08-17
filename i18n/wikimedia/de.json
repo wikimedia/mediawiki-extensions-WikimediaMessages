@@ -340,7 +340,7 @@
 	"protect-level-editautopatrolprotected": "Nur passiven Kontrolleuren erlauben",
 	"restriction-level-editautopatrolprotected": "geschützt (nur passive Kontrolleure)",
 	"right-editautopatrolprotected": "Seitenbearbeitung geschützt als \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "Seitenbearbeitung geschützt als  \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "Seitenbearbeitung geschützt als \"{{int:protect-level-editautopatrolprotected}}\"",
 	"group-docseditor": "Dokumentations-Bearbeiter",
 	"group-docseditor-member": "{{GENDER:$1|Dokumentations-Bearbeiter}}",
 	"action-docseditor": "bearbeiten der Dokumentation",

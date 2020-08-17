@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Fitoschido",
 			"Xuacu"
 		]
 	},
@@ -567,6 +568,7 @@
 	"project-localized-name-test2wiki": "Wikipedia de prueba 2",
 	"project-localized-name-testwiki": "Wikipedia de prueba",
 	"project-localized-name-testwikidatawiki": "Wiki de pruebes de Wikidata",
+	"project-localized-name-thankyouwiki": "Gracies",
 	"project-localized-name-transitionteamwiki": "Wiki del equipu de transición",
 	"project-localized-name-trwikimedia": "Wikimedia Turquía",
 	"project-localized-name-uawikimedia": "Wikimedia Ucraína",

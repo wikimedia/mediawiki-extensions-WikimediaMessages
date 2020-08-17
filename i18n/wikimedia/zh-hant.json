@@ -316,7 +316,7 @@
 	"action-extendedconfirmed": "編輯受限制的頁面",
 	"right-extendedconfirmed": "編輯受進階確認保護的頁面",
 	"restriction-level-extendedconfirmed": "進階確認保護",
-	"protect-level-extendedconfirmed": "只允許進階確認使用者和管理員",
+	"protect-level-extendedconfirmed": "僅允許進階確認使用者和管理員",
 	"action-editeditorprotected": "編輯保護層級為「{{int:protect-level-editeditorprotected}}」的頁面",
 	"right-editeditorprotected": "編輯保護層級為「{{int:protect-level-editeditorprotected}}」的頁面",
 	"protect-level-editeditorprotected": "僅允許編輯者",
