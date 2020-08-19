@@ -104,5 +104,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Wieħed jew aktar mill-proxy servers li tuża t-talba tieħek hu [[m:Special:MyLanguage/Global blocks|bblukkjat globalment]].'''\n\nIl-blokk għamlu $1 ($2).\nIr-raġuni kienet ''$3''.\n\n* Bidu tal-blokk: $4\n* Tmiem tal-blokk: $5\n\nL-indirizz tal-proxy ibblukkjat kien $6.\nJj inkludi dawn id-dettalji kollha fid-domandi kollha li tagħmel.\n\nJekk jidhirlek li ġejt ibblukkjat bi żball, tista' ssib aktar informazzjoni u istruzzjonijiet fil-politika globali [[m:Special:MyLanguage/No open proxies|Ebda proxy miftuħ]].\nInkella, biex tiddiskuti l-blokk, jj [[m:Steward requests/Global|qiegħed talba għal review fuq Meta-Wiki]].",
 	"eri-rcfilters-tour-highlight-title": "Ikkulura r-riżultati",
 	"eri-rcfilters-tour-highlight-description": "Agħmel użu mill-enfasi bil-kuluri sabiex tiddistingwixxi b'daqqa t'għajn l-għażliet magħżula.<br/><br/>Tista' tikkombina l-enfasi mal-filtri jew tużahom waħedhom.",
+	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Stqarrija dwar il-cookies"
 }

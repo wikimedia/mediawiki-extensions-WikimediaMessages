@@ -227,6 +227,7 @@
 	"wikimedia-copyrightwarning": "Door de wijzigingen te publiceren, gaat u akkoord met de [https://foundation.wikimedia.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding-Gelijk delen 3.0] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].\nU gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definitie van de Creative Commons Naamsvermelding/GelijkDelen licentie\" target=\"_blank\">CC BY-SA 3.0</a> en <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definitie van de GFDL licentie\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Wikidata",
+	"wikibase-page-schema-author-name": "Bijdragers aan Wikimedia projecten",
 	"wikibase-statementsection-constraints": "Beperkingen",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",
 	"wikibase-sitelinks-wikinews": "Wikinieuws",
@@ -322,6 +323,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Werd deze pagina snel genoeg geladen?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Meer informatie is te vinden in de [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement privacyverklaring] van deze enquete.",
 	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer.",
+	"passwordpolicies-policy-blockattacker": "Wachtwoordbeleid voor het voorkomen van bekende aanvallen waarbij het openbaar maken van details the voorkomen belemmert",
 	"technical-maintenance-soon": "Er zal binnenkort technisch onderhoud worden gepleegd:",
 	"technical-maintenance-edit": "Het kan zijn dat u dan geen bewerkingen kunt opslaan.",
 	"group-oathauth-tester": "Tweetrapsauthenticatie-testers",
@@ -331,5 +333,6 @@
 	"protect-level-editautopatrolprotected": "Alleen autopatrollers toestaan",
 	"right-editautopatrolprotected": "Pagina's bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "pagina's te bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-docseditor": "documentatie te bewerken",
 	"right-docseditor": "Documentatie bewerken"
 }

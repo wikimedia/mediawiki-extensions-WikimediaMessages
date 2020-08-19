@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jedh",
 			"Maammee",
 			"Oromoom"
 		]
@@ -9,5 +10,6 @@
 	"wm-license-information-source": "Lakkaddaa",
 	"wm-license-information-date": "Guyyaa",
 	"wm-license-information-author": "Barreessaa",
+	"wm-license-information-permission": "Hayyama",
 	"wm-license-own-work": "Hojii ofii"
 }
