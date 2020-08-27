@@ -11,14 +11,15 @@
 			"Zack wadghiri",
 			"أحمد",
 			"ترجمان05",
-			"ديفيد"
+			"ديفيد",
+			"علاء"
 		]
 	},
 	"wm-license-attribution-with-author-text": "حامل حقوق هذا الملف $1 يسمح لأي كان باستخدامه '''لأي غرض، بشرط''' نسبة المصنف إلى حامل الحقوق. إعادة التوزيع، والأعمال المشتقة، والاستعمال التجاري، وجميع الاستعمالات الأخرى مسموح بها.",
 	"wm-license-attribution-without-author-text": "حامل حقوق هذا الملف يسمح لأي كان باستخدامه '''لأي غرض، بشرط''' نسبة المصنف إلى حامل الحقوق. إعادة التوزيع، والأعمال المشتقة، والاستعمال التجاري، وجميع الاستعمالات الأخرى مسموح بها.",
 	"wm-license-artwork-artist": "الفنان",
 	"wm-license-artwork-title": "العنوان",
-	"wm-license-artwork-medium": "متوسط",
+	"wm-license-artwork-medium": "خامة العمل",
 	"wm-license-artwork-dimensions": "الأبعاد",
 	"wm-license-artwork-current-location": "الموقع",
 	"wm-license-artwork-object-history": "تاريخ الكائن",

@@ -79,7 +79,7 @@
 	"group-trusted": "可信戶",
 	"group-uploader": "上載者",
 	"group-uploader-member": "上載者",
-	"grouppage-uploader": "{{ns:project}}:噏撈人",
+	"grouppage-uploader": "{{ns:project}}:上載者",
 	"group-global-bot": "全域機械人",
 	"group-global-bot-member": "{{GENDER:$1|全域機械人}}",
 	"group-global-rollbacker": "全域反轉者",
