@@ -45,7 +45,7 @@
 	"wm-license-book-translator": "翻訳者",
 	"wm-license-book-volume": "冊数",
 	"wm-license-book-year-of-publication": "出版年",
-	"wm-license-cecill-text": "この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]の規約にもどづき、この作品を再配布、改変することができます。CeCILLライセンスの規約は、[{{int:wm-license-cecill-full-link}} www.cecill.info]をご覧ください。",
+	"wm-license-cecill-text": "この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]の規約に基づき、この作品を再配布、改変できます。CeCILLライセンスの規約は、[{{int:wm-license-cecill-full-link}} www.cecill.info]をご覧ください。",
 	"wm-license-cecill-wiki-link": "w:ja:CeCILL",
 	"wm-license-creator-alternative-names": "別名",
 	"wm-license-creator-description": "説明",
@@ -109,5 +109,5 @@
 	"wm-license-self-one-license-with-author": "この作品の著作権者である$1は、この作品を以下のライセンスで提供しています。",
 	"wm-license-self-multiple-licenses": "この作品の著作権者である私は、この作品を以下のライセンスで提供します。",
 	"wm-license-self-multiple-licenses-with-author": "この作品の著作権者である$1は、この作品を以下のライセンスで提供しています。",
-	"wm-license-self-multiple-licenses-select": "あなたは上記のライセンスから、どれか一つ以上を選択することができます。"
+	"wm-license-self-multiple-licenses-select": "あなたは上記のライセンスから、どれか一つ以上を選択できます。"
 }
