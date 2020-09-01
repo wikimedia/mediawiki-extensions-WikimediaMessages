@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abdiafrizal"
+			"Abdiafrizal",
+			"Boesenbergia"
 		]
 	},
-	"sitesupport": "Nyombhâng"
+	"sitesupport": "Nyombhâng",
+	"wikimedia-developers": "Pangembâng"
 }
