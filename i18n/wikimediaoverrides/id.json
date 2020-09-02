@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Herryz",
 			"Iwan Novirion",
 			"Kenrick95",
 			"Nemo bis"
@@ -13,5 +14,6 @@
 	"wikimedia-flow-terms-of-use-reply": "Dengan mengeklik \"{{int:flow-reply-link}}\", Anda menyatakan setuju pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Ketentuan Pengguna] dan Anda secara tetap setuju untuk melepas kontribusi Anda di bawah Lisensi [https://creativecommons.org/licenses/by-sa/3.0/deed.id CC BY-SA 3.0] dan [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Dokumentasi_Bebas_GNU GFDL].",
 	"wikimedia-flow-terms-of-use-edit": "Dengan menyimpan perubahan, Anda menyatakan setuju pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Ketentuan Pengguna] dan Anda secara tetap setuju untuk melepas kontribusi Anda di bawah Lisensi [https://creativecommons.org/licenses/by-sa/3.0/deed.id CC BY-SA 3.0] dan [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Dokumentasi_Bebas_GNU GFDL].",
 	"wikimedia-flow-terms-of-use-summarize": "Dengan mengeklik \"{{int:flow-topic-action-update-topic-summary}}\", Anda menyatakan setuju pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Ketentuan Pengguna] dan Anda secara tetap setuju untuk melepas kontribusi Anda di bawah Lisensi [https://creativecommons.org/licenses/by-sa/3.0/deed.id CC BY-SA 3.0] dan [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Dokumentasi_Bebas_GNU GFDL].",
-	"wikimedia-flow-terms-of-use-unlock-topic": "Dengan mengeklik \"{{int:flow-topic-action-unlock-topic}}\", Anda menyatakan setuju pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Ketentuan Pengguna] dan Anda secara tetap setuju untuk melepas kontribusi Anda di bawah Lisensi [https://creativecommons.org/licenses/by-sa/3.0/deed.id CC BY-SA 3.0] dan [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Dokumentasi_Bebas_GNU GFDL]."
+	"wikimedia-flow-terms-of-use-unlock-topic": "Dengan mengeklik \"{{int:flow-topic-action-unlock-topic}}\", Anda menyatakan setuju pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Ketentuan Pengguna] dan Anda secara tetap setuju untuk melepas kontribusi Anda di bawah Lisensi [https://creativecommons.org/licenses/by-sa/3.0/deed.id CC BY-SA 3.0] dan [https://id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Dokumentasi_Bebas_GNU GFDL].",
+	"wikimedia-webauthn-module-description": "$1 WebAuthn (Web Authentication) adalah web standar yang diterbitkan oleh World Wide Web Consortium (W3C). WebAuthn merupakan komponen inti dari FIDO2 Project di bawah bimbingan FIDO Alliance. Tujuan dari proyek ini adalah untuk menstandarisasi antarmuka dalam mengautentikasi pengguna ke aplikasi dan layanan berbasis web yang digunakan public-key cryptography. [https://en.wikipedia.org/wiki/WebAuthn Read more]. Harap dicatat bahwa Anda harus masuk ke wiki yang sama dengan tempat Anda awalnya mendaftarkan perangkat verifikasi Anda."
 }
