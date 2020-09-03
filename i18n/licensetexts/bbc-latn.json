@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Herryz",
 			"Salomo Christian Hutajulu"
 		]
 	},
+	"wm-license-information-description": "Deskripsi",
+	"wm-license-information-source": "Mual na",
+	"wm-license-information-date": "Tanggal",
 	"wm-license-own-work": "Ulaon sandiri"
 }
