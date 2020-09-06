@@ -337,5 +337,7 @@
 	"protect-level-editautopatrolprotected": "Permitir apenas autopatrulhadores",
 	"restriction-level-editautopatrolprotected": "protegida para autopatrulhadores",
 	"right-editautopatrolprotected": "Editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-docseditor": "editar documentação",
+	"right-docseditor": "Editar documentação"
 }

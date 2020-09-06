@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Maammee",
 			"Oromoom"
 		]
 	},
-	"wm-license-cc-free": "Ati bilisa:"
+	"wm-license-cc-free": "Ati bilisa:",
+	"wm-license-cc-conditions-attribution-header": "amala",
+	"wm-license-cc-conditions-share_alike-header": "wal waliif qoodamu"
 }
