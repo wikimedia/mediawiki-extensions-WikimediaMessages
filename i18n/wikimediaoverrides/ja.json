@@ -8,6 +8,7 @@
 			"Omotecho",
 			"Otokoume",
 			"Shirayuki",
+			"Siglite3",
 			"Sujiniku",
 			"TMg",
 			"Tmv"
@@ -16,6 +17,7 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
 	"wikimedia-createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
 	"createacct-helpusername-url": "{{ns:Project}}:利用者名の方針",
+	"wikimedia-discussiontools-replywidget-terms-click": "「$1」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、 この文章を[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 ライセンス]および[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]で撤回できない形で公開することに同意したと見なされます。",
 	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます。",
 	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-link}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます。",
 	"wikimedia-flow-terms-of-use-edit": "変更内容を保存すると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます。",
