@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Brxeditor",
 			"ⓝⓘⓙⓦⓜ"
 		]
 	},
-	"sitesupport": "दान हो"
+	"sitesupport": "दान हो",
+	"tooltip-n-sitesupport": "जोंनो हेफाजाब हो"
 }
