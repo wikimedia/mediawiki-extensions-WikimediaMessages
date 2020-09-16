@@ -193,7 +193,7 @@
 	"restriction-level-superprotect": "супер қорғаныс",
 	"right-templateeditor": "Қорғалған үлгілерді өңдеу",
 	"restriction-level-templateeditor": "үлгі қорғалған",
-	"protect-level-templateeditor": "Үлгі өңдеушіллер мен әкімшілерге қана рұқсат ету",
+	"protect-level-templateeditor": "Үлгі өңдеушіллер мен администраторларға ғана рұқсат ету",
 	"right-extendedconfirmed": "Шектелген беттерді өңдеу",
 	"right-editeditorprotected": "«{{int:protect-level-autoconfirmed}}» ретінде қорғалған беттерді өңдеу",
 	"protect-level-editeditorprotected": "Тек өңдеушілерге рұқсат ету",

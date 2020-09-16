@@ -394,6 +394,6 @@
 	"grouppage-docseditor": "{{ignored}}\n{{notranslate}}\n{{doc-group|docseditor|page}}",
 	"group-docseditor": "{{doc-group|docseditor}}",
 	"group-docseditor-member": "{{doc-group|docseditor|member}}",
-	"action-docseditor": "{{Doc-action|docseditor}}\n{{Identical|Edit documentation}}",
+	"action-docseditor": "{{Doc-action|edit-docs}}",
 	"right-docseditor": "Message for wikimediaapiportal-see-page-actions right\n{{Doc-right|docseditor}}"
 }
