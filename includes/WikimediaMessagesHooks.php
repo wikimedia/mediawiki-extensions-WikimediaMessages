@@ -11,6 +11,7 @@ use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Preferences\Hook\GetPreferencesHook;
+use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\User\UserOptionsManager;
@@ -27,6 +28,7 @@ class WikimediaMessagesHooks implements
 	EditPageCopyrightWarningHook,
 	GetPreferencesHook,
 	LocalUserCreatedHook,
+	ResourceLoaderRegisterModulesHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
 	SpecialPageBeforeExecuteHook,
