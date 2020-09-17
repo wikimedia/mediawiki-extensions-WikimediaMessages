@@ -4,5 +4,10 @@
 			"Filipinayzd"
 		]
 	},
-	"sitesupport": "Mag-ambag"
+	"sitesupport": "Mag-ambag",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Mga tagadibelop"
 }
