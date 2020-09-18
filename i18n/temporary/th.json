@@ -14,5 +14,6 @@
 	"hello": "สวัสดี",
 	"please-translate": "กรุณาช่วยแปลเป็นภาษาของคุณ",
 	"thank-you": "{{GENDER:$1|ขอบคุณ}}",
-	"specialblockfeedback": "ข้อแนะนำติชม"
+	"specialblockfeedback": "ข้อแนะนำติชม",
+	"specialinvestigate-feedback": "ให้ข้อเสนอแนะ"
 }
