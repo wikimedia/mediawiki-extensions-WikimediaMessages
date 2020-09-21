@@ -6,7 +6,6 @@
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
-use MediaWiki\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\UploadForm_initialHook;
@@ -28,7 +27,6 @@ class WikimediaMessagesHooks implements
 	EditPageCopyrightWarningHook,
 	GetPreferencesHook,
 	LocalUserCreatedHook,
-	ResourceLoaderRegisterModulesHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
 	SpecialPageBeforeExecuteHook,
