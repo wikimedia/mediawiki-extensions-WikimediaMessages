@@ -3,6 +3,7 @@
 		"authors": [
 			"Lokal Profil",
 			"Nemo bis",
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -20,7 +21,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "Genom att klicka \"{{int:flow-topic-action-unlock-topic}}\" godkänner du våra [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-globalrenamequeue-email-body-approved": "Begäran om att byta namn på \"{{GENDER:$1|$1}}\" till \"{{GENDER:$2|$2}}\" har godkänts. När det är färdigt, kommer du att kunna logga in med ditt nya användarnamn med ditt gamla lösenord. Tack för du deltar på Wikimedia-projekt.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Begäran om att byta namn på \"{{GENDER:$1|$1}}\" till \"{{GENDER:$2|$2}}\" kunde inte slutföras.\n\nAnteckning: $3\n\nFör mer information, besök <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. För att diskutera din namnbytesförfrågan kan du skriva ett inlägg på denna sida: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Du måste fortfarande logga in med ditt nuvarande användarnamn först.",
-	"wikimedia-interfaceadmin-info": "Behörigheter för att redigera CSS/JS/JSON-filer för hela webbplatsen begränsades nyligen från medlemmar i gruppen [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Se [[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS|denna sida]] för mer information.",
+	"wikimedia-interfaceadmin-info": "Behörigheter för att redigera CSS/JS/JSON-filer har begränsats till medlemmar i gruppen [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
 	"wikimedia-mwoauthserver-invalid-user": "Ett problem uppstod när du loggades in globalt. Om du precis skapade ditt konto, logga ut och in igen, prova sedan att auktorisera appen igen. Om du inte skapade ditt konto nyligen, besök [https://meta.wikimedia.org/ meta.wikimedia.org] och försök sedan att att auktorisera appen igen. (Felkod: E008)",
 	"wikimedia-sulrenamewarning-usenew": "Från och med nu, måste du nu logga in med ditt nya användarnamn <strong>$1</strong>. Ditt nya användarnamn är unik för dig över alla Wikimedia-projekt, och om du är inloggad på ett projekt och besöker ett annat kommer ditt konto att följa med dig. [[:m:Special:MyLanguage/Help:Unified_login|Hjälpsida för enhetlig inloggning]] har mer information om ett-användarnamn-inloggning, samt en lista över vanligt förekommande frågor.\nOm du behöver uppdatera din e-postadress eller ändra ditt lösenord i dina [[Special:Preferences|inställningar]], kan detta vara ett bra tillfälle att göra det.\n\nFör att begära ett annat kontonamn, besök [[Special:GlobalRenameRequest]]. Tack för att du deltar på Wikimedia-projekten.",
 	"wikimedia-urlshortener-badaccessgroups": "Korta länkar kan endast skapas via sidan [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
