@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Poiuyt"
+			"Poiuyt",
+			"飞舞回堂前"
 		]
 	},
+	"wm-license-fsf-wiki-link": "w:wuu:自由软件基金会",
 	"wm-license-free-software-wiki-link": "w:wuu:自由軟件",
-	"wm-license-gfdl-1.2-and-later": "你已畀授权依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行个无固定段落搭封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）个'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件许可协议]]'''1.2版或任意后续版本个条款，复制、传播搭/或修改本文件。该协议个副本见“[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]”。",
-	"wm-license-gfdl-wiki-link": "w:wuu:GNU自由文档许可证文本",
+	"wm-license-gfdl-1.2-and-later": "已授权复制、传播搭/或修改本文档，依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发布个'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文档许可证]]'''1.2版或任何后续版本个条款；呒不弗可变章节，也呒不封面封底文字。许可证个副本包括勒''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''章节当中。",
+	"wm-license-gfdl-wiki-link": "w:wuu:GNU自由文档许可证",
 	"wm-license-information-description": "描述",
 	"wm-license-information-source": "来源",
 	"wm-license-information-date": "日脚",

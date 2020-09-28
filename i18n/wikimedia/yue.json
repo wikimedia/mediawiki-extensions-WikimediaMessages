@@ -124,5 +124,7 @@
 	"interlanguage-link-wikipedia": "維基百科",
 	"interlanguage-link-sitename-wikipedia": "維基百科，自由嘅百科全書",
 	"interlanguage-link-commons": "維基同享",
+	"right-editeditorprotected": "改保護等級係「{{int:protect-level-editeditorprotected}}」嘅版面",
+	"right-editextendedsemiprotected": "改保護等級係「{{int:protect-level-editextendedsemiprotected}}」嘅版面",
 	"wikimedia-cookiestatement": "Cookie聲明"
 }
