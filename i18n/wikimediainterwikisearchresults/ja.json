@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"TKsdik8900",
 			"Takot"
 		]
 	},
 	"search-interwiki-results-arwiki": "[[:ar:|アラビア語版ウィキペディア]]の検索結果を表示しています。",
 	"search-interwiki-results-enwiki": "[[:en:|英語版ウィキペディア]]の検索結果を表示しています。",
 	"search-interwiki-results-hewiki": "[[:he:|ヘブライ語版ウィキペディア]]の検索結果を表示しています。",
-	"search-interwiki-results-kowiki": "[[:ko:|韓国語版ウィキペディア]]の結果を表示しています。",
+	"search-interwiki-results-kowiki": "[[:ko:|朝鮮語版ウィキペディア]]の結果を表示しています。",
 	"search-interwiki-results-ruwiki": "[[:ru:|ロシア語版ウィキペディア]]の検索結果を表示しています。"
 }
