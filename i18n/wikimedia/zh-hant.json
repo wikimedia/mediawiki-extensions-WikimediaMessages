@@ -356,6 +356,8 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|雙重認證測試員}}",
 	"querypage-updates-half-monthly": "此頁面的更新為一個月運行兩次。",
 	"querypage-updates-monthly": "此頁面的更新為一個月運行一次。",
+	"right-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
+	"action-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"protect-level-editautopatrolprotected": "只允許自動巡查員",
 	"restriction-level-editautopatrolprotected": "自動巡查員已保護",
 	"right-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
