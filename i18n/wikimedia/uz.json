@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"CoderSI",
+			"Malikxan",
 			"Nemo bis",
 			"Sociologist"
 		]
@@ -110,5 +111,6 @@
 	"cant-delete-main-page": "Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.",
 	"upload-more-photos-of-this-monument": "Ushbu obyektning yana boshqa suratlarini yuklash",
 	"wikimedia-developers": "Dasturchilar",
-	"interlanguage-link-commons": "Vikiombor"
+	"interlanguage-link-commons": "Vikiombor",
+	"wikimedia-cookiestatement": "Cookie bayonoti"
 }
