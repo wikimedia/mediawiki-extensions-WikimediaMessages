@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hanna Tardos",
 			"Tacsipacsi"
 		]
 	},
@@ -16,5 +17,6 @@
 	"search-interwiki-results-arwiki": "Eredmények megjelenítése az [[:ar:|arab Wikipédiáról]].",
 	"search-interwiki-results-astwiki": "Eredmények megjelenítése az [[:ast:|asztúr Wikipédiáról]].",
 	"search-interwiki-results-aswiki": "Eredmények megjelenítése az [[:as:|asszámi Wikipédiáról]].",
-	"search-interwiki-results-avwiki": "Eredmények megjelenítése az [[:av:|avar Wikipédiáról]]."
+	"search-interwiki-results-avwiki": "Eredmények megjelenítése az [[:av:|avar Wikipédiáról]].",
+	"search-interwiki-results-smnwiki": "Eredmények megjelenítése az [[:arc:|inari számi Wikipédiáról]]."
 }

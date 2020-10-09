@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hanna Tardos",
 			"R-Joe",
 			"Tacsipacsi"
 		]
@@ -79,6 +80,7 @@
 	"project-localized-name-ptwiki": "portugál Wikipédia",
 	"project-localized-name-simplewiki": "egyszerűsített angol Wikipédia",
 	"project-localized-name-simplewikibooks": "egyszerűsített angol Wikikönyvek",
+	"project-localized-name-smnwiki": "Inari számi Wikipédia",
 	"project-localized-name-sourceswiki": "többnyelvű Wikiforrás",
 	"project-localized-name-specieswiki": "Wikifajok",
 	"project-localized-name-srwiki": "szerb Wikipédia",
