@@ -2,15 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Amara-Amaziɣ",
+			"Ayour2002",
 			"Dalinanir",
+			"Lhoussine AIT TAYFST",
 			"Zanatos"
 		]
 	},
-	"sitesupport": "ⴰⵡⵙ ⴰⵖ ⵙ ⵉⵇⴰⵔⵉⴹⵏ",
-	"tooltip-n-sitesupport": "ⵙⵏⴰⵍ ⴰⵖ",
+	"sitesupport": "Aws aɣ s iqariḍn",
+	"tooltip-n-sitesupport": "Cjɛat aɣ",
 	"group-import": "Willi di tawin",
-	"wikibase-sitelinks-wikinews": "ⵡⵉⴽⵉⵏⵖⵎⵉⵙⵏ",
-	"wikibase-sitelinks-wikisource": "ⵡⵉⴽⵉⵙⴰⴳⵎ",
-	"wikibase-sitelinks-wikivoyage": "ⵡⵉⴽⵉⵎⵓⴷⴷⵓ",
-	"wikimedia-developers": "ⵉⵎⵙⵖⵉⵡⵙⵏ"
+	"wikibase-sitelinks-wikinews": "Wikinɣmisn",
+	"wikibase-sitelinks-wikiquote": "Wikiawal",
+	"wikibase-sitelinks-wikisource": "Wikisagm",
+	"wikibase-sitelinks-wikivoyage": "Wikimuddu",
+	"wikimedia-developers": "Imsɣiwsn"
 }
