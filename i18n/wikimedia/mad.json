@@ -7,11 +7,13 @@
 	},
 	"sitesupport": "Nyombhâng",
 	"tooltip-n-sitesupport": "Totonjhâng",
-	"wikimedia-copyright": "Tèks tasaḍiyâ è bâbâ  <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\">Lèlla Atribusi-AbâgiMaghâs Creative Commons</a>; katantoan tambâân amè' èangghuy kèya. Tèngghu <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/id\">Katantoan Paghunaan </a> sopajâ jellas.",
-	"wikimedia-copyrightwarning": "Kalabân nyèmpen paobâân, bâ'na sregghep ḍâ' [//foundation.wikimedia.org/wiki/Terms_of_Use/id Ketentuan Penggunaan] bân bâ'na tettep sregghep ghâbây meccat kontribusina bâ'na è bâbâna [https://creativecommons.org/licenses/by-sa/3.0/deed.id Lisensi CC BY-SA 3.0] bân [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Bâ'na sregghep mon aberri' pranala otabâ URL ella èrassa cokop ghâbây atribusi è bâbâna Lisensi Creative Commons",
+	"wikimedia-copyright": "Tèks tasaḍiyâ è bâbâ  <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\">Lèlla Atribusi-AbâgiMaghâs Creative Commons</a>; katantowan tambâ'ân amè' èyangghuy kèya. Tèngghu <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/id\">Katantowan Paghuna'an </a> sopajâ jellas.",
+	"wikimedia-copyrightwarning": "Kalabân nyèmpen paobâ'ân, bâ'na sregghep ḍâ' [//foundation.wikimedia.org/wiki/Terms_of_Use/id Ketentuan Penggunaan] bân bâ'na tettep sregghep ghâbây meccat kontribusina bâ'na è bâbâna [https://creativecommons.org/licenses/by-sa/3.0/deed.id Lisensi CC BY-SA 3.0] bân [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. Bâ'na sregghep mon aberri' pranala otabâ URL ella èrassa cokop ghâbây atribusi è bâbâna Lisensi Creative Commons",
 	"wikibase-sitelinks-wikinews": "Wikiberta",
 	"wikibase-sitelinks-wikiquote": "Wikipettèk",
 	"wikibase-sitelinks-wikisource": "Wikisombher",
-	"wikibase-sitelinks-wikivoyage": "Wikiwisata",
-	"wikimedia-developers": "Pangembâng"
+	"wikibase-sitelinks-wikivoyage": "Wikiglinjâr",
+	"wikimedia-developers": "Pangembâng",
+	"wikimedia-globalblocking-ipblocked": "'''Lamat IPna bâ'na ella [[m:Special:MyLanguage/Global blocks|èanḍhâng ḍâ' kabbhi wiki]].'''\n\nPanganḍhângan èlampaaghi sareng $1 ($2).\nAlasân sè èpajhârbâ iyâ arèya \"$3\".\n\n*Molaè èanḍhâng: $4\n*Marè èanḍhâng: $5\n\nLamat IPna bâ'na satèya $6.\nPaghenna' kabbhi ghâl-tongghâlâ è attas ḍâlem niyap tatanyaanna bâ'na.\n\nMon bâ'na jâ'na bâ'na panḍhângan ghellâ' arowa sala, bâ'na ngennèng nemmoaghi informasi tambâân bân carana è Katantoan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukka']].\nMon enjâ', mon makanḍhâaghi parkara rèya, nyara [[m:Steward requests/Global|ngèrèm petongkos ghâbây èparèksa è Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Sèttong otabâ lebbi pala'jân proksi sè èghuna'aghi è ḍâlem pamètana bâ'na [[m:Special:MyLanguage/Global blocks|èyanḍhâng è sakabbhina wiki]].'''\n\nPanganḍhângan èkalako bi' $1 ($2).\nAlasân panganḍhângan \"$3\".\n\n* Molaè èyanḍhâng: $4\n* Marèna èyanḍhâng: $5\n\nLamat proksi sè èyanḍhâng $6.\nNyara sarta'aghi kabbhi ghâl-tongghâllâ è attas ḍâlem niyap patanyana bâ'na.\n\nKalamon bâ'na jâ'nè bâ'na èyanḍhâng polana sala, bâ'na ngennèng nemmowaghi informasi tambâ'ân bân carana è Katantowan Global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukka']].\nMon enjâ', ghâbây arembhâk bâb arèya, nyara [[m:Steward requests/Global|ngèrèm pamènta ghâbây èparèksa è Meta-Wiki]]."
 }
