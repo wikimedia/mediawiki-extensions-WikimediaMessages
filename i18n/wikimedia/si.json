@@ -3,6 +3,7 @@
 		"authors": [
 			"Budhajeewa",
 			"Calcey",
+			"MuratTheTurkish",
 			"Nemo bis",
 			"Pasanbhathiya2",
 			"Sahan.ssw",
@@ -119,7 +120,7 @@
 	"group-staff-member": "සේවක මණ්ඩල සාමාජිකයා",
 	"group-steward": "භාරකරුවන්",
 	"group-steward-member": "{{GENDER:$1|භාරකරු}}",
-	"grouppage-steward": "m:භාරකරුවන්",
+	"grouppage-steward": "m:Stewards/si",
 	"group-sysadmin": "පද්ධති පරිපාලකයන්",
 	"group-sysadmin-member": "{{GENDER:$1|පද්ධති පරිපාලක}}",
 	"grouppage-sysadmin": "m:පද්ධති පරිපාලකවරුන්",

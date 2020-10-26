@@ -7,5 +7,6 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mei kiezen)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ofbyld net te sjen? [[{{MediaWiki:createacct-captcha-help-url}}|Freegje in akkount]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Meidochnammebelied",
+	"wikimedia-discussiontools-replywidget-terms-click": "Mei it klikken op \"$1\", stimme jo yn mei ús [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/fy Gebrûksbetingsten] en geane akkoart jo tekst ûnwerroplik frij te jaan ûnder de lisinsje [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] en de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-feedback-termsofuse": "Ik gean akkoart om weromkeppeling te jaan neffens de <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Gebrûksbetingsten</a>."
 }

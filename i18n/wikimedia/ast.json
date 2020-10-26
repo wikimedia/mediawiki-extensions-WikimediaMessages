@@ -6,6 +6,7 @@
 			"Fitoschido",
 			"Matma Rex",
 			"Minh Nguyen",
+			"MuratTheTurkish",
 			"Nemo bis",
 			"Xuacu"
 		]
@@ -180,7 +181,7 @@
 	"group-staff-member": "{{GENDER:$1|miembru del equipu}}",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
-	"grouppage-steward": "{{ns:project}}:Stewards",
+	"grouppage-steward": "m:Stewards/ast",
 	"group-sysadmin": "Alministradores del sistema",
 	"group-sysadmin-member": "{{GENDER:$1|alministrador|alministradora}} del sistema",
 	"group-translationadmin": "Alministradores de traducción",

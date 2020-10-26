@@ -3,6 +3,7 @@
 		"authors": [
 			"Botuzhaleny-sodamo",
 			"Denö",
+			"MuratTheTurkish",
 			"Rueter",
 			"Sura"
 		]
@@ -19,7 +20,7 @@
 	"grouppage-import": "{{ns:project}}:Тевень совавтыйть",
 	"group-steward": "Туросторт",
 	"group-steward-member": "туростор",
-	"grouppage-steward": "m:Туросторт",
+	"grouppage-steward": "m:Stewards/myv",
 	"group-sysadmin": "Системань администраторт",
 	"wikibase-sitelinks-wikinews": "Викикулят",
 	"wikibase-sitelinks-wikiquote": "Викицитат",

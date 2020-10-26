@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Chinneeb",
+			"MuratTheTurkish",
 			"Sembuk",
 			"Wisdom",
 			"לערי ריינהארט"
@@ -18,7 +19,7 @@
 	"group-staff-member": "{{GENDER:$1|ажиллах гишүүд}}",
 	"group-steward": "Үйлчлэгчид",
 	"group-steward-member": "үйлчлэгч",
-	"grouppage-steward": "m:Stewards",
+	"grouppage-steward": "m:Stewards/mn",
 	"wikibase-sitelinks-wikinews": "Энэ зүйлтэй холбоотой Wikinews -ын хуудас",
 	"wikimedia-developers": "Хөгжүүлэгчид",
 	"right-superprotect": "Super protection төвшинг өөрчлөх",

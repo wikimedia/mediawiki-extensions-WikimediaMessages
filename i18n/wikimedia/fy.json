@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"MuratTheTurkish",
 			"PiefPafPier",
 			"Pyt",
 			"Robin van der Vliet",
@@ -34,7 +35,7 @@
 	"group-staff-member": "{{GENDER:$1|stêflid}}",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward|stewardess}}",
-	"grouppage-steward": "m:Stewards",
+	"grouppage-steward": "m:Stewards/fy",
 	"group-translationadmin": "Oersettingsbehearders",
 	"group-translationadmin-member": "oersettings{{GENDER:$1|behearder|behearster}}",
 	"grouppage-translationadmin": "{{ns:project}}:Oersettingsbehearders",

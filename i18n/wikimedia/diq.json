@@ -10,6 +10,7 @@
 			"Kumkumuk",
 			"Marmase",
 			"Mirzali",
+			"MuratTheTurkish",
 			"Nemo bis",
 			"Orbot707",
 			"Xoser"
@@ -139,7 +140,7 @@
 	"group-staff-member": "wezifedar",
 	"group-steward": "Stewardi",
 	"group-steward-member": "{{GENDER:$1|keya}}",
-	"grouppage-steward": "m:Stewardi",
+	"grouppage-steward": "m:Stewards/diq",
 	"group-sysadmin": "İdarekarê sistemi",
 	"group-sysadmin-member": "{{GENDER:$1|adminê sistemi}}",
 	"group-translationadmin": "Adminê açarnayışi",

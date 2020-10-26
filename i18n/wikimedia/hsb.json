@@ -5,6 +5,7 @@
 			"J budissin",
 			"Michawiki",
 			"Mikławš",
+			"MuratTheTurkish",
 			"Nemo bis"
 		]
 	},
@@ -137,7 +138,7 @@
 	"group-staff-member": "sobudźěłaćerjo",
 	"group-steward": "Stewardźa",
 	"group-steward-member": "{{GENDER:$1|steward|stewardesa}}",
-	"grouppage-steward": "m:Stewardźa",
+	"grouppage-steward": "m:Stewards/hsb",
 	"group-sysadmin": "Systemowi administratorojo",
 	"group-sysadmin-member": "{{GENDER:$1|systemowy administrator|systemowa administratorka}}",
 	"grouppage-sysadmin": "m:Systemowi administratorojo",
