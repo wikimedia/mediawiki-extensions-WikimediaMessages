@@ -3,6 +3,7 @@
 		"authors": [
 			"AnakngAraw",
 			"Multichill",
+			"MuratTheTurkish",
 			"Sky Harbor"
 		]
 	},
@@ -78,7 +79,7 @@
 	"wm-license-lgpl-text": "Ang aklatang ito ay [[{{int:wm-license-free-software-wiki-link}}|malayang sopwer]]; maaari mong ipamahagi ito at/o baguhin ito sa ilalim ng mga patakaran ng '''[[{{int:wm-license-lgpl-wiki-link}}|Mas Mababang Lisensya ng Publikong Panglahat ng GNU]]''' ayon sa pagkakalathala ng [[{{int:wm-license-fsf-wiki-link}}|Pundasyon ng Malayang Sopwer]]; maaaring bersyong 2.1 ng Lisensya, o (ayon sa pagpili mo) alinmang kasunod na bersyon. Ipinamamahagi ang aklatang ito na umaasang magiging magagamit ito, subalit '''walang anumang katiyakan'''; na wala ring ipinahiwatig na katiyakan na '''maikakalakal''' o '''kaangkupan sa isang tiyak na layunin'''. Tingnan ang [{{int:wm-license-lgpl-2.1-full-link}} bersyong 2.1] at [{{int:wm-license-lgpl-3-full-link}} bersyong 3 ng Mas Mababang Lisensya ng Publikong Panglahat ng GNU] para sa mas marami pang mga detalye.",
 	"wm-license-lgpl-wiki-link": "w:tl:Mas Mababang Lisensiya ng Pangkalahatang Madla ng GNU",
 	"wm-license-licensing-update-text": "Ang tatak ng paglilisensiya ay idinagdag sa talaksang ito bilang bahagi ng [[{{int:wm-license-licensing-update-wiki-link}}|pagsasapanahon ng paglilinsensiya]] ng GFDL .",
-	"wm-license-licensing-update-wiki-link": "meta:Pagsasapanahon ng Paglilisensiya",
+	"wm-license-licensing-update-wiki-link": "meta:Licensing update",
 	"wm-license-original-upload-log": "Tala ng orihinal na pagkarga",
 	"wm-license-own-work": "Sariling gawa",
 	"wm-license-pd-author-self-text": "Ako, ang may tangan ng karapatang-ari ng akdang ito, ay pinakakawalan ang akdang ito sa '''[[{{int:wm-license-pd-wiki-link}}|nasasakupan ng madla]]'''.  Magagamit ito sa buong mundo.",

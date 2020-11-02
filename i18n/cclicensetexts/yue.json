@@ -3,6 +3,7 @@
 		"authors": [
 			"Castelobranco",
 			"Horacewai2",
+			"Ktchankt",
 			"Petrus Adamus",
 			"Waihorace",
 			"Yueman"
@@ -102,7 +103,7 @@
 	"wm-license-cc-free-to-remix-text": "創作演繹作品",
 	"wm-license-cc-conditions": "要遵照下面嘅條件：",
 	"wm-license-cc-conditions-attribution-header": "署名",
-	"wm-license-cc-conditions-attribution-text": "您一定要跟作者或者許可人指定嘅方法標示佢個名（但唔可以用任何方法話你畀佢授權去用呢個作品）。",
+	"wm-license-cc-conditions-attribution-text": "你一定要畀合適嘅表彰、畀返指向呢個授權條款嘅連結，同埋寫明有無改過嚟。你可以用任何合理方式去做，但唔可以用任何方式暗示授權人認可咗你或者你嘅使用方式。",
 	"wm-license-cc-conditions-share_alike-header": "相同方式分享",
-	"wm-license-cc-conditions-share_alike-text": "如果你改左呢個作品，你必須要用返原本或者相似嘅條款發佈"
+	"wm-license-cc-conditions-share_alike-text": "如果你用任何方式改過呢個作品，你必須要用返[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses 原本或者相似嘅條款]發佈。"
 }

@@ -12,6 +12,7 @@
 			"Luan",
 			"Luckas",
 			"Luckas Blade",
+			"MuratTheTurkish",
 			555
 		]
 	},
@@ -61,7 +62,7 @@
 	"wm-license-fal-full-link": "http://artlibre.org/lal/en",
 	"wm-license-fal-full-link-commons": "https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3",
 	"wm-license-fsf-wiki-link": "w:en:Free Software Foundation",
-	"wm-license-free-software-wiki-link": "w:en:Free software",
+	"wm-license-free-software-wiki-link": "w:pt:Software livre",
 	"wm-license-gfdl-1.2-and-later": "É concedida permissão para copiar, distribuir e/ou modificar este documento nos termos da '''[[{{int:wm-license-gfdl-wiki-link}}|Licença de Documentação Livre GNU]]''', versão 1.2 ou qualquer versão posterior publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seções Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma cópia da licença na seção intitulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only": "É concedida permissão para copiar, distribuir e/ou modificar este documento nos termos da '''[[{{int:wm-license-gfdl-wiki-link}}|Licença de Documentação Livre GNU]]''', somente na sua versão 1.2, publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seções Invariantes, sem textos de Capa e sem textos de Contra-Capa. É incluída uma cópia da licença na seção intitulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;apenas",
@@ -88,7 +89,7 @@
 	"wm-license-lgpl-text": "Esta biblioteca é um [[{{int:wm-license-free-software-wiki-link}}|software livre]]; você pode redistribui-la ou modificá-la nos termos da licença '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' tal como publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanto a versão 2.1 da Licença, ou (por sua opção) qualquer versão posterior. A biblioteca é distribuída na esperança de que seja útil, mas '''sem qualquer garantia'''; inclusive, sem a garantia implícita da '''possibilidade de ser comercializada''' ou de '''adequação a qualquer finalidade específica'''. Consulte a [{{int:wm-license-lgpl-2.1-full-link}} versão 2.1] e a [{{int:wm-license-lgpl-3-full-link}} versão 3 da licença GNU Lesser General Public License] para mais detalhes.",
 	"wm-license-lgpl-wiki-link": "w:en:GNU Lesser General Public License",
 	"wm-license-licensing-update-text": "Esta marca de licenciamento foi adicionada a este arquivo durante a [[{{int:wm-license-licensing-update-wiki-link}}|atualização da licença]] GFDL.",
-	"wm-license-licensing-update-wiki-link": "meta:Atualização de licenciamento",
+	"wm-license-licensing-update-wiki-link": "meta:Licensing update",
 	"wm-license-original-upload-log": "Registro de upload original",
 	"wm-license-own-work": "Trabalho próprio pelo carregador",
 	"wm-license-pd-author-self-text": "Eu, detentor dos direitos de autor desta obra, dedico-a ao '''[[{{int:wm-license-pd-wiki-link}}|domínio público]]''', com aplicação em todo o mundo.",
