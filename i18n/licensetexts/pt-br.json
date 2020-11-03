@@ -89,7 +89,7 @@
 	"wm-license-lgpl-text": "Esta biblioteca é um [[{{int:wm-license-free-software-wiki-link}}|software livre]]; você pode redistribui-la ou modificá-la nos termos da licença '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' tal como publicada pela [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; tanto a versão 2.1 da Licença, ou (por sua opção) qualquer versão posterior. A biblioteca é distribuída na esperança de que seja útil, mas '''sem qualquer garantia'''; inclusive, sem a garantia implícita da '''possibilidade de ser comercializada''' ou de '''adequação a qualquer finalidade específica'''. Consulte a [{{int:wm-license-lgpl-2.1-full-link}} versão 2.1] e a [{{int:wm-license-lgpl-3-full-link}} versão 3 da licença GNU Lesser General Public License] para mais detalhes.",
 	"wm-license-lgpl-wiki-link": "w:en:GNU Lesser General Public License",
 	"wm-license-licensing-update-text": "Esta marca de licenciamento foi adicionada a este arquivo durante a [[{{int:wm-license-licensing-update-wiki-link}}|atualização da licença]] GFDL.",
-	"wm-license-licensing-update-wiki-link": "meta:Licensing update",
+	"wm-license-licensing-update-wiki-link": "meta:Licensing update/pt",
 	"wm-license-original-upload-log": "Registro de upload original",
 	"wm-license-own-work": "Trabalho próprio pelo carregador",
 	"wm-license-pd-author-self-text": "Eu, detentor dos direitos de autor desta obra, dedico-a ao '''[[{{int:wm-license-pd-wiki-link}}|domínio público]]''', com aplicação em todo o mundo.",
