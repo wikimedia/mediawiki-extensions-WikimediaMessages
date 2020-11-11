@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"ArenaL5",
 			"Banjo",
 			"Elisardojm",
 			"Fitoschido",
@@ -575,13 +576,13 @@
 	"project-localized-name-noboard_chapterswikimedia": "Consello interno de Wikimedia Noruega",
 	"project-localized-name-nostalgiawiki": "Wikipedia Nostalgia",
 	"project-localized-name-novwiki": "Wikipedia en novial",
-	"project-localized-name-nowiki": "Wikipedia en noruegués",
+	"project-localized-name-nowiki": "Wikipedia en noruegués bokmål",
 	"project-localized-name-nowikibooks": "Wikilibros en noruegués",
 	"project-localized-name-nowikimedia": "Wikimedia Noruega",
 	"project-localized-name-nowikinews": "Wikinovas en noruegués",
-	"project-localized-name-nowikiquote": "Wikicitas en noruegués",
+	"project-localized-name-nowikiquote": "Wikicitas en noruegués bokmål",
 	"project-localized-name-nowikisource": "Wikifontes en noruegués",
-	"project-localized-name-nowiktionary": "Wikcionario en noruegués",
+	"project-localized-name-nowiktionary": "Wikcionario en noruegués bokmål",
 	"project-localized-name-nrmwiki": "Wikipedia en normando",
 	"project-localized-name-nsowiki": "Wikipedia en sotho do norte",
 	"project-localized-name-nvwiki": "Wikipedia en navajo",
