@@ -12,6 +12,9 @@
 			"ToBeFree"
 		]
 	},
+	"project-localized-name-aawiki": "Afar Wikipedia",
+	"project-localized-name-aawikibooks": "Afar Wikibooks",
+	"project-localized-name-aawiktionary": "Afar Wiktionary",
 	"project-localized-name-abwiki": "Abchasischsprachige Wikipedia",
 	"project-localized-name-abwiktionary": "Abchasischsprachiges Wikiwörterbuch",
 	"project-localized-name-acewiki": "Achinesischsprachige Wikipedia",
@@ -144,6 +147,7 @@
 	"project-localized-name-commonswiki": "Wikimedia Commons",
 	"project-localized-name-cowiki": "Korsischsprachige Wikipedia",
 	"project-localized-name-cowikibooks": "Korsisches Wikibooks",
+	"project-localized-name-cowikimedia": "Wikimedia Kolumbien",
 	"project-localized-name-cowikiquote": "Korsisches Wikiquote",
 	"project-localized-name-cowiktionary": "Korsischsprachiges Wiktionary",
 	"project-localized-name-crhwiki": "Krimtatarische Wikipedia",
@@ -537,6 +541,7 @@
 	"project-localized-name-shwiki": "Serbokroatischsprachige Wikipedia",
 	"project-localized-name-shwiktionary": "Serbokroatischsprachiges Wikiwörterbuch",
 	"project-localized-name-shywiktionary": "Shawiyasprachiges Wiktionary",
+	"project-localized-name-skrwiki": "Saraikisprachige Wikipedia",
 	"project-localized-name-skwiki": "Slowakischsprachige Wikipedia",
 	"project-localized-name-skwiktionary": "Slowakischsprachiges Wikiwörterbuch",
 	"project-localized-name-slwiki": "Slowenischsprachige Wikipedia",
