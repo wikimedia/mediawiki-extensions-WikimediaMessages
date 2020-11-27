@@ -58,10 +58,10 @@
 	"group-sysadmin-member": "ἐπίτροπος συστήματος",
 	"wikimedia-copyright": "Το κεἰμενον διατίθεται ὐπό την <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Ἄδειαν Creative Commons Attribution-ShareAlike</a>, προσθέτους λεπτομέριαι πιθανῶς ἰσχύουν.",
 	"wikimedia-copyrightwarning": "Διά γράφειν μεταβολάς, συμφάναι εἴς τούς [https://foundation.wikimedia.org/wiki/Terms_of_Use Ὄρους Χρήσεως], καί ἀμετανοήτως συμφάναι ἐλευθέρωσις ὐμετέρας συνεισφοράς υπό τήν [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Ἄδειαν χρήσεως] καί την [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_Ἄδειαν χρήσεως GFDL].\nΣυμφάναι πῶς ῆ διάθεσις ὐπερσυνδέσμου ή URL ἀποτελεί ἐπαρκή ἐπιφορά ὐπό την ἄδειαν χρήσεως Creative Commons.",
-	"wikibase-sitelinks-wikinews": "Βικιεπίκαιρα",
-	"wikibase-sitelinks-wikiquote": "Βικιφθέγματα",
+	"wikibase-sitelinks-wikinews": "Οὐικιεπίκαιρα",
+	"wikibase-sitelinks-wikiquote": "Οὐικιφθέγματα",
 	"wikibase-sitelinks-wikisource": "Βικιπηγή",
-	"wikibase-sitelinks-wikivoyage": "Βικιταξιδεύειν",
+	"wikibase-sitelinks-wikivoyage": "Οὐικιπλοῦς",
 	"wikimedia-developers": "Προγραμματισταί",
 	"wikimedia-globalblocking-ipblocked": "\"Ἠ υμετέραν διεύθυνσις IP [[m:Special:MyLanguage/Global blocks|ἐμφράχτηκεν εἴς ὄλαν τά βίκι]].\"\n\nἨ φραγίν τελέστει διά τού $1 ($2).\nὈ λόγος ό ὀποίος ἐδώθει ἤτο ''$3''.\n\n* Ἔναρξις φραγής: $4\n* Τέλεσις φραγής: $5\n\nἨ παρούσα ὐμετέραν διεύθυνσις IP εἴναι $6.\nΠαρακαλείσθε δια την συνπερίληψιν ὄλων των ἄνωθι λεπτομερειών εἴς όλα τα ἐρωτήματα ποιήσετε μελλοντικῶς.\n\nἘάν θεωρείτε πως ἐσφαλμένως ἐφράχθειν, δύνασθαι ευρέσεως ἐπιπλέον μηνυμάτων και ὀδηγιών εἴς τήν καθολικήν πολιτική περί [[m:Special:MyLanguage/No open proxies|μή ἄνοικτούς διαμέσους]].\nΕἰδάλλως, διά να συζητήσειν τήν φραγήν παρακαλείσθε πρός την [[m:Steward requests/Global|ἀποστολή αιτήσεως πρός ἐξέταση στο Μετά-Βίκι]].",
 	"wikimedia-globalblocking-ipblocked-xff": "\"Ἔνας ἤ πλέον ἐνδιάμεσοι διακομισταί ἐν χρειά τής αἰτήσεως σας ὐπέστη [[m:Special:MyLanguage/Global blocks|καθολικήν φραγή]].\"\n\nἨ φραγίν τελέστει διά τού $1 ($2).\nὈ λόγος ό ὀποίος ἐδώθει ἤτο ''$3''.\n\n* Ἔναρξις φραγής: $4\n* Τέλεσις φραγής: $5\n\nἨ φραγείσα διεύθυνσις ἐνδιαμέσου διακομιστή ἤτο ἠ $6.\nΠαρακαλείσθε δια την συνπερίληψιν ὄλων των ἄνωθι λεπτομερειών εἴς ὄποια ἐρωτήματα ποιήσετε μελλοντικῶς.\n\nἘάν θεωρείτε πως ἐσφαλμένως ἐφράχθειν, δύνασθαι ευρέσεως ἐπιπλέον μηνυμάτων και ὀδηγιών εἴς τήν καθολικήν πολιτική περί [[m:Special:MyLanguage/No open proxies|μή ἄνοικτούς διαμέσους]].\nΕἰδάλλως, διά να συζητήσειν τήν φραγήν παρακαλείσθε πρός την [[m:Steward requests/Global|ἀποστολή αιτήσεως πρός ἐξέταση στο Μετά-Βίκι]]."
