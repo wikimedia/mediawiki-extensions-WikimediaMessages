@@ -70,6 +70,7 @@
 	"group-wikidata-staff-member": "{{GENDER:$1|stabo di Wikidata}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:membri dil stabo di Wikidata",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|IP globale libera de blokusi}}",
+	"grouppage-global-rollbacker": "m:Global rollback",
 	"group-steward": "Super-administreri",
 	"group-steward-member": "{{GENDER:$1|Supera administrero (steward)}}",
 	"group-sysadmin": "Sistemo-administreri",

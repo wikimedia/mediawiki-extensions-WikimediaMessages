@@ -235,6 +235,7 @@
 	"group-wmf-researcher": "WMF調査員",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF調査員}}",
 	"grouppage-wmf-researcher": "m:WMF Researcher/ja",
+	"group-wmf-ops-monitoring": "WMF運用監視員",
 	"tag-emoji": "絵文字",
 	"tag-emoji-description": "グローバル不正利用フィルター 110 によって使用されます。",
 	"tag-AWB": "[https://ja.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
@@ -338,5 +339,6 @@
 	"querypage-updates-monthly": "このページの更新は毎月1回実行されます。",
 	"protect-level-editautopatrolprotected": "自動巡回者のみ許可",
 	"right-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページを編集",
-	"action-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページの編集"
+	"action-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページの編集",
+	"group-docseditor": "文書編集者"
 }
