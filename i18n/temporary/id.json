@@ -2,13 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Akmaie Ajam",
+			"Daud I.F. Argana",
 			"IvanLanin",
 			"Iwan Novirion",
 			"Rex"
 		]
 	},
+	"wikimediamessages-desc": "Pesan sementara khusus Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Pengawas",
 	"group-oversight": "Pengawas",
 	"group-oversight-member": "{{GENDER:$1|pengawas}}",
+	"hello": "Halo",
+	"please-translate": "Tolong bantu terjemahkan ke bahasa Anda",
+	"thank-you": "{{GENDER:$1|Terima kasih.}}",
+	"specialblockfeedback": "Umpan balik",
 	"specialinvestigate-feedback": "Berikan Komentar"
 }
