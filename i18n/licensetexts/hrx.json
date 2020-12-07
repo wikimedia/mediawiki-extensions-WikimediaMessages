@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iohanen",
 			"Midnight Gambler"
 		]
 	},
 	"wm-license-information-description": "Beschreibung",
 	"wm-license-information-source": "Quell",
 	"wm-license-information-date": "Datum",
-	"wm-license-information-author": "Autor"
+	"wm-license-information-author": "Autor",
+	"wm-license-own-work": "Eichnes Werrek"
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Abbas dhothar",
 			"Khalid Mahmood"
 		]
 	},
@@ -22,7 +23,7 @@
 	"wm-license-book-editor": "ایڈیٹر",
 	"wm-license-book-illustrator": "دسن والا",
 	"wm-license-book-language": "بولی",
-	"wm-license-book-page-overview": "صفہ ویکھنا",
+	"wm-license-book-page-overview": "صفحہ ویکھنا",
 	"wm-license-book-place-of-publication": "چھپن تھاں",
 	"wm-license-book-printer": "پرنٹر",
 	"wm-license-book-publisher": "چھاپن والا",

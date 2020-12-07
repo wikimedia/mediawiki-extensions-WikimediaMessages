@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Geraki",
-			"Nikosgranturismogt"
+			"NikosLikomitros",
+			"Nikosgranturismogt",
+			"Norhorn"
 		]
 	},
 	"search-interwiki-results-abwiki": "Εμφάνιση αποτελεσμάτων από την [[:ab:|Αμπχαζική Βικιπαίδεια]].",
@@ -159,6 +161,7 @@
 	"search-interwiki-results-ltgwiki": "Εμφανίζονται αποτελέσματα από την [[:ltg:|Λατγαλική Βικιπαίδεια]].",
 	"search-interwiki-results-ltwiki": "Εμφανίζονται αποτελέσματα από την [[:lt:|Λιθουανική Βικιπαίδεια]].",
 	"search-interwiki-results-lvwiki": "Εμφανίζονται αποτελέσματα από την [[:lv:|Λετονική Βικιπαίδεια]].",
+	"search-interwiki-results-madwiki": "Εμφανίζονται αποτελέσματα από την [[:mad:|Madurese Wikipedia]].",
 	"search-interwiki-results-maiwiki": "Εμφανίζονται αποτελέσματα από την [[:mai:|Βικιπαίδεια στα Μαϊθίλι]].",
 	"search-interwiki-results-map_bmswiki": "Εμφανίζονται αποτελέσματα από την [[:map-bms:|Βικιπαίδεια στα Μπανγιουμασάν]].",
 	"search-interwiki-results-mdfwiki": "Εμφανίζονται αποτελέσματα από την [[:mdf:|Βικιπαίδεια στα Μόκσα]].",

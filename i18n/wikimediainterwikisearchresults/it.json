@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Costabile"
 		]
 	},
 	"search-interwiki-results-abwiki": "Risultati dalla [[:ab:|Wikipedia in abcaso]].",
@@ -160,6 +161,7 @@
 	"search-interwiki-results-ltgwiki": "Risultati dalla [[:ltg:|Wikipedia in letgallo]].",
 	"search-interwiki-results-ltwiki": "Risultati dalla [[:lt:|Wikipedia in lituano]].",
 	"search-interwiki-results-lvwiki": "Risultati dalla [[:lv:|Wikipedia in lettone]].",
+	"search-interwiki-results-madwiki": "Mostrando i risultati da [[:mad:|Madurese Wikipedia]].",
 	"search-interwiki-results-maiwiki": "Risultati dalla [[:mai:|Wikipedia in maithili]].",
 	"search-interwiki-results-map_bmswiki": "Risultati dalla [[:map-bms:|Wikipedia in banyumasan]].",
 	"search-interwiki-results-mdfwiki": "Risultati dalla [[:mdf:|Wikipedia in mokša]].",
