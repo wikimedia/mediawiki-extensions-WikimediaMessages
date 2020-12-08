@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gts-tg"
+			"Gts-tg",
+			"PastelKos"
 		]
 	},
 	"wm-license-cc-attribution": "Ἐπιφορά",
-	"wm-license-cc-by-sa-3.0-text": "Τό αρχείον ταύτο εἴναι ἀδειοδοτημένο ὐπό τήν ἀδειαν χρήσεως [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
-	"wm-license-cc-free": "Ἐλεύθερος σοι εἴς:",
-	"wm-license-cc-free-to-share-header": "δια κοινωνίαν",
-	"wm-license-cc-free-to-share-text": "εἰς ἀντιγραφήν, διανομήν καί ἐκπομπήν τού ἔργου",
-	"wm-license-cc-free-to-remix-header": "εἰς μίξην",
-	"wm-license-cc-free-to-remix-text": "το ἔργον διασκευή",
-	"wm-license-cc-conditions": "Ύπό τις κάτωθι προϋποθέσεις:",
+	"wm-license-cc-by-sa-3.0-text": "Τόδε τἀρχεῖον ἀδειοδεδομένον ὑπὸ τῆς ἀδείας χρήσεως [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-free": "Ἐλεύθερος εἶ:",
+	"wm-license-cc-free-to-share-header": "μετέχειν",
+	"wm-license-cc-free-to-share-text": "ἀντιγράφειν, διανέμειν καὶ παραδιδόναι τὸ ἔργον",
+	"wm-license-cc-free-to-remix-header": "μετακοσμεῖν",
+	"wm-license-cc-free-to-remix-text": "προσαρμόζειν τὸ ἔργον",
+	"wm-license-cc-conditions": "Οὕτως ἐχόντων:",
 	"wm-license-cc-conditions-attribution-header": "ἐπιφορά",
-	"wm-license-cc-conditions-attribution-text": "Ἀναγκαῖόν ἐστί σημάνειν τό έργον κατά τρόπον ζητοῦσιν διά τού συγγραφέως ῆ ἀδειοδότου (ὄμως οὐχί ἐν τρόπον τινά ώσπερ δυκνείει πῶς ἐπαινεῖν σοι ή την χρήσην έργου εσού).",
-	"wm-license-cc-conditions-share_alike-header": "δια κοινωνίας ὀμοίας",
-	"wm-license-cc-conditions-share_alike-text": "Ἐάν προβείτε εἰς ἀντιγραφήν, ἐπεξεργασίαν, ἠ ἀλλαγαί ἐπί τού ἔργου, δύνασθε να διανέμετε τό ἀποτέλεσμαν τού ἔργου μόνον ὐπό τήν ἰδίαν ἤ παρομοίαν ἄδεια χρήσεως ὠς αὐτήν."
+	"wm-license-cc-conditions-attribution-text": "Δεῖ σοι διδόναι ἱκανὴν φιλοτιμίαν, παρέχειν σύνδεσμον πρὸς τὴν ἄδειαν καὶ εἰ ἐποίησας μεταβολὰς λέγειν ταύτας. Ἀναγκαῖον ἐστὶ ποιεῖν τόδε εὐλόγως, ἀλλ' οὐχὶ κατὰ τρόπον ὅσπερ ἂν δεικνύοι ὅτι ὁ συγγραφεὺς ἐπαινεῖ τὴν σὴν χρῆσιν τοῦ ἐκείνου ἔργου.",
+	"wm-license-cc-conditions-share_alike-header": "κοινωνεῖν ὁμῶς",
+	"wm-license-cc-conditions-share_alike-text": "Εἰ μετακοσμήσεις ἢ ποιήσεις μεταβολὰς ἐπὶ τοῦ ἔργου, δεῖ διανέμειν τοὺς σοὺς ἐράνους ὑπὸ τῆς [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ἰδίας ἀδείας]."
 }
