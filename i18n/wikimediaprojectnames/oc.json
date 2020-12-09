@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"BrennodAloisi",
-			"Cedric31"
+			"Cedric31",
+			"Guilhelma"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipèdia en afar",
@@ -64,6 +65,7 @@
 	"project-localized-name-enwiktionary": "Wikiccionari en anglés",
 	"project-localized-name-eowiki": "Wikipèdia en esperanto",
 	"project-localized-name-eowikibooks": "Wikilibre en esperanto",
+	"project-localized-name-eowikivoyage": "Esperanto Wikivoyage",
 	"project-localized-name-eowiktionary": "Wikiccionari en esperanto",
 	"project-localized-name-eswiki": "Wikipèdia en espanhòl",
 	"project-localized-name-eswikibooks": "Wikilibre en espanhòl",
@@ -146,6 +148,7 @@
 	"project-localized-name-lnwikibooks": "Wikilibre en lingala",
 	"project-localized-name-lowiki": "Wikipèdia en lao",
 	"project-localized-name-ltwikibooks": "Wikilibre en lituanian",
+	"project-localized-name-madwiki": "Madurese Wikipedia",
 	"project-localized-name-mgwikibooks": "Wikilibre en malgash",
 	"project-localized-name-miwikibooks": "Wikilibre en maòri",
 	"project-localized-name-mkwikibooks": "Wikilibre en macedonian",
@@ -232,6 +235,7 @@
 	"project-localized-name-viwiktionary": "Wikiccionari en vietnamian",
 	"project-localized-name-wawiki": "Wikipèdia en valon",
 	"project-localized-name-wawikibooks": "Wikilibre en valon",
+	"project-localized-name-wawikisource": "Walloon Wikisource",
 	"project-localized-name-wikidatawiki": "Wikidata",
 	"project-localized-name-wikimania2009wiki": "Wiki de Wikimania 2009",
 	"project-localized-name-wowiki": "Wikipèdia en Olòf",

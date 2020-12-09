@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"Guilhelma"
 		]
 	},
 	"search-interwiki-results-angwiki": "Afichar los resultats per [[:ang:|Wikipèdia en vièlh anglés]].",
 	"search-interwiki-results-cawiki": "Afichatge dels resultats que provenon de la [[:ca:|Wikipèdia en catalan]].",
+	"search-interwiki-results-madwiki": "Afichatge dels resultats que provenon de [[:mad:|Madurese Wikipedia]].",
 	"search-interwiki-results-simplewiki": "Afichar los resultats per [[:simple:|Wikipèdia en anglés simplificat]]."
 }
