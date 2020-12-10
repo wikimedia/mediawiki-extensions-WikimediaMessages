@@ -237,6 +237,7 @@
 	"right-templateeditor": "Редактиране на защитени шаблони",
 	"restriction-level-templateeditor": "защитен шаблон",
 	"protect-level-templateeditor": "Разрешено само за редактори на шаблони и администратори",
+	"action-extendedconfirmed": "редактиране на ограничени страници",
 	"right-extendedconfirmed": "Редактиране на ограничени страници",
 	"restriction-level-extendedconfirmed": "защитено (само утвърдени редактори)",
 	"protect-level-extendedconfirmed": "Разрешено само за утвърдени редактори и администратори",

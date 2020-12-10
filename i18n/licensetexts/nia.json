@@ -1,16 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Anugrahgori",
 			"Slaia"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Tetehegö wangai, wame'e ma wamulö'ö dokumen andre faoma '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Versi 1.2 ma zui sabölö afuria nifataro [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lö Seksi Invarian, lö teks uli föna, ba lö teks uli furi. Kopi lisensi no tefaogö ba waosatö sotöi ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
+	"wm-license-gfdl-1.2-and-later": "Tetehegö wangai, wame'e ma wamulö'ö dokumen andre faoma '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', ''Versi'' 1.2 ma zui sabölö afuria nifataro [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; lö Seksi Invarian, lö teks uli föna, ba lö teks uli furi. Kopi lisensi no tefaogö ba waosatö sotöi ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	"wm-license-information-description": "Fanutunö",
 	"wm-license-information-source": "Kode",
 	"wm-license-information-date": "Baŵa",
 	"wm-license-information-author": "Sanura",
 	"wm-license-information-permission": "Fanehegö",
-	"wm-license-information-permission-reusing-text": "Oguna'ö mangawuli berkas andre",
+	"wm-license-information-permission-reusing-text": "Oguna'ö mangawuli ''berkas'' andre",
 	"wm-license-own-work": "Nifazökhigu samösa",
 	"wm-license-self-multiple-licenses-select": "Fili lisensi somasi'ö"
 }
