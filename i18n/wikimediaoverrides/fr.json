@@ -5,6 +5,7 @@
 			"Gomoko",
 			"Kvardek du",
 			"Ltrlg",
+			"MuratTheTurkish",
 			"Nemo bis",
 			"Niridya",
 			"Pamputt",
@@ -41,7 +42,7 @@
 	"wikimedia-apierror-urlshortener-disabled": "Les liens courts ne peuvent être créés que par un appel à meta.wikimedia.org.wiki.",
 	"wikimedia-urlshortener-badaccessgroups": "Les liens courts ne peuvent être créés que via la page [[:m:Special:UrlShortener|Special:UrlShortener]] sur meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Les liens courts ne peuvent être créés qu’avec un appel au wiki meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn (Authentification Web) est un standard du web publié par le World Wide Web Consortium (W3C). WebAuthn est un composant cœur du projet FIDO2 sous la direction de l’alliance FIDO. Le but du projet est de standardiser une interface pour authentifier les utilisateurs des applications et services basés sur le web, en utilisant le chiffrement à clé publique. [https://en.wikipedia.org/wiki/WebAuthn En savoir plus]. Notez que vous devrez vous connecter sur le même wiki que là où vous avez inscrit au départ votre appareil de vérification.",
+	"wikimedia-webauthn-module-description": "WebAuthn (Authentification Web) est un standard du web publié par le World Wide Web Consortium (W3C). WebAuthn est un composant cœur du projet FIDO2 sous la direction de l’alliance FIDO. Le but du projet est de standardiser une interface pour authentifier les utilisateurs des applications et services basés sur le web, en utilisant le chiffrement à clé publique. [https://fr.wikipedia.org/wiki/WebAuthn En savoir plus]. Notez que vous devrez vous connecter sur le même wiki que là où vous avez inscrit au départ votre appareil de vérification.",
 	"wikimedia-webauthn-ui-login-prompt": "Veuillez toucher votre appareil de vérification ou suivre les instructions du navigateur. Notez bien que vous devez être connecté sur le même wiki où vous avez enregistré votre appareil de vérification.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Politique de confidentialité]"
 }
