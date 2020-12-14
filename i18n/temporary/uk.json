@@ -18,5 +18,6 @@
 	"hello": "Привіт",
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
 	"thank-you": "{{GENDER:$1|Дякуємо.}}",
-	"specialblockfeedback": "Зворотний зв'язок"
+	"specialblockfeedback": "Зворотний зв'язок",
+	"specialinvestigate-feedback": "Залишити відгук"
 }

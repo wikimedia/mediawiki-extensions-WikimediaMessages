@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Base",
 			"Green Zero",
 			"Movses",
 			"Piramidion",
@@ -18,10 +19,12 @@
 	"search-interwiki-results-anwiki": "Результати з [[:an:|арагонської Вікіпедії]].",
 	"search-interwiki-results-arcwiki": "Результати із [[:arc:|сирійської Вікіпедії]].",
 	"search-interwiki-results-arwiki": "Результати з [[:ar:|арабської Вікіпедії]].",
+	"search-interwiki-results-arywiki": "Результати з [[:ary:|Вікіпедії єгипетською арабською]].",
 	"search-interwiki-results-arzwiki": "Результати з [[:arz:|Вікіпедії єгипетською арабською мовою]].",
 	"search-interwiki-results-astwiki": "Результати з [[:ast:|астурійської Вікіпедії]].",
 	"search-interwiki-results-aswiki": "Результати з [[:as:|асамської Вікіпедії]].",
 	"search-interwiki-results-atjwiki": "Результати з [[:atj:|атикамецької Вікіпедії]].",
+	"search-interwiki-results-avkwiki": "Результати з  [[:avk:|Вікіпедії мовою котава]].",
 	"search-interwiki-results-avwiki": "Результати з [[:av:|аварської Вікіпедії]].",
 	"search-interwiki-results-awawiki": "Результати з [[:awa:|Вікіпедії мовою авадхі]].",
 	"search-interwiki-results-aywiki": "Результати з [[:ay:|Вікіпедії мовою аймара]].",
@@ -159,6 +162,7 @@
 	"search-interwiki-results-lgwiki": "Результати з [[:lg:|Вікіпедії мовою луганда]].",
 	"search-interwiki-results-lijwiki": "Результати з [[:lij:|лігурійської Вікіпедії]].",
 	"search-interwiki-results-liwiki": "Результати з [[:li:|лімбурзької Вікіпедії]].",
+	"search-interwiki-results-lldwiki": "Результати з [[:lld:|Вікіпедії мовою ладино]].",
 	"search-interwiki-results-lmowiki": "Результати з [[:lmo:|ломбардської Вікіпедії]].",
 	"search-interwiki-results-lnwiki": "Результати з [[:ln:|Вікіпедії мовою лінґала]].",
 	"search-interwiki-results-lowiki": "Результати з [[:lo:|лаоської Вікіпедії]].",
@@ -166,6 +170,7 @@
 	"search-interwiki-results-ltgwiki": "Результати з [[:ltg:|латгальської Вікіпедії]].",
 	"search-interwiki-results-ltwiki": "Результати з [[:lt:|литовської Вікіпедії]].",
 	"search-interwiki-results-lvwiki": "Результати з [[:lv:|латвійської Вікіпедії]].",
+	"search-interwiki-results-madwiki": "Результати з [[:mad:|Вікіпедії мадурською]].",
 	"search-interwiki-results-maiwiki": "Результати з [[:mai:|Вікіпедії мовою майтхілі]].",
 	"search-interwiki-results-map_bmswiki": "Результати з [[:map-bms:|банюмасанської Вікіпедії]].",
 	"search-interwiki-results-mdfwiki": "Результати з [[:mdf:|мокшанської Вікіпедії]].",
