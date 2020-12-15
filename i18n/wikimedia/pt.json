@@ -32,6 +32,7 @@
 			"Sir Lestaty de Lioncourt",
 			"Vitorvicentevalente",
 			"Waldir",
+			"Yanguas",
 			555
 		]
 	},
@@ -121,9 +122,9 @@
 	"group-mover": "Deslocadores",
 	"group-mover-member": "{{GENDER:$1|movedor|movedora}}",
 	"grouppage-mover": "{{ns:project}}:Deslocadores",
-	"group-flood": "Pseudorobôs",
-	"group-flood-member": "{{GENDER:$1|pseudorobô}}",
-	"grouppage-flood": "{{ns:project}}:Pseudorobôs",
+	"group-flood": "Pseudorrobôs",
+	"group-flood-member": "{{GENDER:$1|pseudorrobô}}",
+	"grouppage-flood": "{{ns:project}}:Pseudorrobôs",
 	"group-founder": "Fundadores",
 	"group-founder-member": "{{GENDER:$1|fundador|fundadora}}",
 	"grouppage-founder": "{{ns:project}}:Fundadores",
