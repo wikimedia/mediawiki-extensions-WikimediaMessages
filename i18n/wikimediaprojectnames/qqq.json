@@ -601,6 +601,7 @@
 	"project-localized-name-ngwiki": "{{ProjectNameDocumentation|url=https://ng.wikipedia.org|name=Ndonga Wikipedia|language=ng}}",
 	"project-localized-name-ngwikimedia": "{{ProjectNameDocumentation|url=https://ng.wikimedia.org|name=Wikimedia Nigeria|language=zxx}}",
 	"project-localized-name-niawiki": "{{ProjectNameDocumentation|url=https://nia.wikipedia.org|name=Nias Wikipedia|language=nia}}",
+	"project-localized-name-niawiktionary": "{{ProjectNameDocumentation|url=https://nia.wiktionary.org|name=Nias Wiktionary|language=nia}}",
 	"project-localized-name-nlwiki": "{{ProjectNameDocumentation|url=https://nl.wikipedia.org|name=Dutch Wikipedia|language=nl}}",
 	"project-localized-name-nlwikibooks": "{{ProjectNameDocumentation|url=https://nl.wikibooks.org|name=Dutch Wikibooks|language=nl}}",
 	"project-localized-name-nlwikimedia": "{{ProjectNameDocumentation|url=https://nl.wikimedia.org|name=Wikimedia Netherlands|language=nl}}",
