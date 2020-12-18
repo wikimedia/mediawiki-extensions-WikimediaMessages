@@ -1521,8 +1521,8 @@ class WikimediaMessagesHooks implements
 		if (
 			// If we're on Special:RecentChanges
 			$title->isSpecial( 'Recentchanges' ) &&
-			// And the user is logged in
-			$user->isLoggedIn() &&
+			// And the user is one with an account
+			$user->isRegistered() &&
 			// If RCFilters UI is enabled
 			$special->isStructuredFilterUiEnabled()
 		) {
@@ -1536,7 +1536,7 @@ class WikimediaMessagesHooks implements
 			}
 		} elseif (
 			$title->isSpecial( 'Watchlist' ) &&
-			$user->isLoggedIn() &&
+			$user->isRegistered() &&
 			$special->isStructuredFilterUiEnabled() &&
 			!$user->getOption( 'wlenhancedfilters-seen-tour' )
 		) {
