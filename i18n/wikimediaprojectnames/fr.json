@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"DavidL",
 			"Eneelk",
 			"Fitoschido",
 			"Gomoko",
@@ -92,6 +93,7 @@
 	"project-localized-name-bawiki": "Wikipédia en bachkir",
 	"project-localized-name-bawikibooks": "Wikilivres en bachkir",
 	"project-localized-name-bclwiki": "Wikipédia en bicolano central",
+	"project-localized-name-bclwiktionary": "Wiktionnaire de Bikol central",
 	"project-localized-name-bdwikimedia": "Wikimedia Bengladesh",
 	"project-localized-name-be_x_oldwiki": "Wikipédia en biélorusse (orthographe taraškievica)",
 	"project-localized-name-betawikiversity": "Wikiversité bêta",
@@ -207,6 +209,7 @@
 	"project-localized-name-dewiktionary": "Wiktionnaire en allemand",
 	"project-localized-name-dinwiki": "Wikipédia en dinka",
 	"project-localized-name-diqwiki": "Wikipédia en zazaki",
+	"project-localized-name-diqwiktionary": "Wiktionnaire Zazaki",
 	"project-localized-name-dkwikimedia": "Wikimedia Danemark",
 	"project-localized-name-donatewiki": "Faire un don",
 	"project-localized-name-dsbwiki": "Wikipédia en bas-sorabe",
