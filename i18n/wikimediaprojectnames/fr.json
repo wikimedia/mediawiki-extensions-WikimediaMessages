@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Cantons-de-l'Est",
 			"DavidL",
 			"Eneelk",
 			"Fitoschido",
@@ -602,6 +603,8 @@
 	"project-localized-name-newwiki": "Wikipédia en néwari",
 	"project-localized-name-ngwiki": "Wikipédia en ndonga",
 	"project-localized-name-ngwikimedia": "Wikimedia Nigeria",
+	"project-localized-name-niawiki": "Wikipédia en niha",
+	"project-localized-name-niawiktionary": "Wiktionnaire en nias",
 	"project-localized-name-nlwiki": "Wikipédia en néerlandais",
 	"project-localized-name-nlwikibooks": "Wikilivres en néerlandais",
 	"project-localized-name-nlwikimedia": "Wikimedia Pays-Bas",

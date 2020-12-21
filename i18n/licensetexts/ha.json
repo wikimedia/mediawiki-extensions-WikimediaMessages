@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"DonCamillo"
+			"DonCamillo",
+			"Kambai Akau"
 		]
 	},
+	"wm-license-information-description": "Bayani",
 	"wm-license-information-source": "Masomi",
 	"wm-license-information-date": "Rana",
 	"wm-license-information-author": "Marubucin",
-	"wm-license-information-permission": "Izini"
+	"wm-license-information-permission": "Izini",
+	"wm-license-information-permission-reusing-text": "Sake amfani da wannan fayil"
 }
