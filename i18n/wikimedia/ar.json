@@ -14,6 +14,7 @@
 			"Martin Urbanec",
 			"Matma Rex",
 			"Meno25",
+			"Michel Bakni",
 			"Mido",
 			"Mohanad Kh",
 			"Mr. Ibrahem",
@@ -68,6 +69,7 @@
 	"grouppage-abusefilter": "{{ns:project}}:معدلو مرشح الإساءة",
 	"group-abusefilter-helper": "مساعدو مرشحات الإساءة",
 	"group-abusefilter-helper-member": "{{GENDER:$1|مساعد مرشحات الإساءة|مساعدة مرشحات الغساءة}}",
+	"group-abusefilter-maintainer": "مراقبو مرشحات الإساءة",
 	"group-accountcreator": "منشئو الحسابات",
 	"group-accountcreator-member": "{{GENDER:$1|منشئ حسابات|منشئة حسابات}}",
 	"grouppage-accountcreator": "{{ns:project}}:منشئو الحسابات",
@@ -347,5 +349,7 @@
 	"restriction-level-editautopatrolprotected": "محمية على مستوى اللمراجعين تلقائيا",
 	"right-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
-	"group-docseditor": "محررو التوثيق"
+	"group-docseditor": "محررو التوثيق",
+	"action-docseditor": "عدل التوثيق",
+	"right-docseditor": "عدل التوثيق"
 }

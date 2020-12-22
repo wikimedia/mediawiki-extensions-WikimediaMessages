@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"01miki10",
+			"Maantietäjä",
 			"Nike",
 			"Pyscowicz"
 		]
@@ -171,6 +172,7 @@
 	"search-interwiki-results-ndswiki": "Tulokset [[:nds:|alasaksankielisestä Wikipediasta]].",
 	"search-interwiki-results-newiki": "Tulokset [[:ne:|nepalinkielisestä Wikipedia]].",
 	"search-interwiki-results-newwiki": "Tulokset [[:new:|newarinkielisestä Wikipediasta]].",
+	"search-interwiki-results-niawiki": "Näytetään tulokset [[:nia:|hausankielisestä Wikipediasta]].",
 	"search-interwiki-results-nlwiki": "Tulokset [[:nl:|hollanninkielisestä Wikipediasta]].",
 	"search-interwiki-results-nnwiki": "Tulokset [[:nn:|uusnorjankielisestä Wikipediasta]].",
 	"search-interwiki-results-nowiki": "Tulokset [[:no:|kirjanorjankielisestä Wikipediasta]].",

@@ -240,6 +240,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''<nowiki>'U</nowiki> 'ndirizze IP tune ha state [[m:Special:MyLanguage/Global blocks|bloccate sus a tutte le uicchi]].'''\n\n'U blocche ha state fatte da $1 ($2).\n'U mutive date jè ''$3''.\n\n* Inizie d'u blocche: $4\n* Scadenze d'u blocche: $5\n\n'U 'ndirizze IP tune jè $6.\nPe piacere 'nglude tutte le dettaglie de sus jndr'à ogne inderrogazione ca tu face.\n\nCe tu pinze ca è state bloccate pe errore, tu puè acchià 'mbormaziune aggiundive e 'struziune jndr'à le regole globbale sus a [[m:Special:MyLanguage/No open proxies|le proxy achiuse]].\nAltrimende, pe 'ngazzarte sus a 'u blocche pe piacere [[m:Steward requests/Global|manne 'na richieste pe revisitazione sus a Meta-Uicchi]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Une o cchiù server proxy ausate pa richiesta toje ha [[m:Special:MyLanguage/Global blocks|state bloccate globbalmende]].'''\n\n'U blocche ha state fatte da $1 ($2).\n'U mutive date jè ''$3''.\n\n* Inizie d'u blocche: $4\n* Scadenze d'u blocche: $5\n\n'U 'ndirizze IP tune jè $6.\nPe piacere 'nglude tutte le dettaglie de sus jndr'à ogne inderrogazione ca tu face.\n\nCe tu pinze ca è state bloccate pe errore, tu puè acchià 'mbormaziune aggiundive e 'struziune jndr'à le regole globbale sus a [[m:Special:MyLanguage/No open proxies|le proxy achiuse]].\nAltrimende, pe 'ngazzarte sus a 'u blocche pe piacere [[m:Steward requests/Global|manne 'na richieste pe revisitazione sus a Meta-Uicchi]].",
 	"wikimedia-torblock-blocked": "'U 'ndirizze IP tune, <strong>$1</strong>, ha state idendificate automaticamende cumme a 'nu node de assute de Tor.\nLe cangiaminde cu Tor onne state bloccate pe prevenì abbuse.\nPe 'mbormaziune aggiundive e 'struziune pe le utinde leggittimate, 'ndruche le regole globbale [[m:Special:MyLanguage/No open proxies|de le proxy achiuse]]",
+	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/it 'Mbormative sus 'a privacy]",
 	"grant-checkuser": "Accede a le date checkuser",
 	"upload-form-label-own-work-message-commons": "Atteste ca tènghe le deritte d'autore sus a stu file, e accette senze cangià idèe 'u rilasce de stu file sus a Uicchimedia Commons in base a 'a licenze [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribbuzione-Condivide a 'u stesse mode 4.0], e accette le [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiziune d'ause].",
 	"upload-form-label-not-own-work-message-commons": "Ce non ge tìne le deritte d'autore sus a stu file, o ce 'u vuè ccu relasce cu 'na licenze diverse, ause 'u [https://commons.wikimedia.org/wiki/Special:UploadWizard carecamende guidate de Commons].",
@@ -308,5 +309,9 @@
 	"protect-level-editautopatrolprotected": "Conzendite sulamende a le auto condrollore",
 	"restriction-level-editautopatrolprotected": "prutette da l'auto condrollore",
 	"right-editautopatrolprotected": "Cange le pàggene prutette cumme \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "cange le pàggene prutette cumme \"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "cange le pàggene prutette cumme \"{{int:protect-level-editautopatrolprotected}}\"",
+	"group-docseditor": "Cangiature de documendazione",
+	"group-docseditor-member": "{{GENDER:$1|cangiatore de documendazione}}",
+	"action-docseditor": "cange 'a documendazione",
+	"right-docseditor": "Cange 'a documendazione"
 }
