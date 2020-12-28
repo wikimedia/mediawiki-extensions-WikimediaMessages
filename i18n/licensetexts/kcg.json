@@ -1,16 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Kambai Akau"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Á̠ nwuak shim mat maat, seang ma̠ng/ku shai dokumen jini tafa a̠yaaka̠nda̠n '''[[{{int:wm-license-gfdl-wiki-link}}|A̠sa̠t Dokumen Kwambwat Yak GNU (GNU Free Document License)]]''' hu, Nok 1.2 ku kuzang nok hu ku bai á̠zanson a̠ni nang á̠ shei gba̠mgbam mbwak [[{{int:wm-license-fsf-wiki-link}}|Sotbeang A̠sa̠t Kyanglilyiit (Free Software Foundation)]]; di̠ mi̠n Nkap Sang Gak a̠ni, di̠ mi̠n Lyulyuut Kup-Á̠son, a̠wot di̠ mi̠n Lyulyuut Kup-A̠ngaan. Á̠ mbeang maat nyiung si̠ kwambwat yak hu mi̠ kap hu ku shim a̠lyoot ''[[{{int:wm-license-gfdl-full-1.2-link}}|Kwambwat Yak A̠sa̠t Saailyuut GNU (GNU Free Documentation License)]]'' a̠ni.",
-	"wm-license-information-description": "Wa̠i",
-	"wm-license-information-source": "A̠vwuoneet",
+	"wm-license-gfdl-1.2-and-later": "Á̱ nwuak shim mat maat, seang ma̱ng/ku shai dokumen jini tafa a̱yaaka̱nda̱n '''[[{{int:wm-license-gfdl-wiki-link}}|A̱sa̱t Dokumen Kwambwat Yak GNU (GNU Free Document License)]]''' hu, Nok 1.2 ku kuzang nok hu ku bai á̱zanson a̱ni nang á̱ shei gba̱mgbam mbwak [[{{int:wm-license-fsf-wiki-link}}|Sotbeang A̱sa̱t Kyanglilyiit (Free Software Foundation)]]; di̱ mi̱n Nkap Sang Gak a̱ni, di̱ mi̱n Lyulyuut Kup-Á̱son, a̱wot di̱ mi̱n Lyulyuut Kup-A̱ngaan. Á̱ mbeang maat nyiung si̱ kwambwat yak hu mi̱ kap hu ku shim a̱lyoot ''[[{{int:wm-license-gfdl-full-1.2-link}}|Kwambwat Yak A̱sa̱t Saailyuut GNU (GNU Free Documentation License)]]'' a̱ni.",
+	"wm-license-information-description": "Wa̱i",
+	"wm-license-information-source": "A̱vwuoneet",
 	"wm-license-information-date": "Mam zwat",
-	"wm-license-information-author": "A̠tyulyuut",
+	"wm-license-information-author": "A̱tyulyuut",
 	"wm-license-information-permission": "Yak",
-	"wm-license-information-permission-reusing-text": "Á̠ bu nyia̠ ta̠m ma̠ng fail huni",
-	"wm-license-own-work": "Ta̠m a̠pyia̠",
-	"wm-license-self-multiple-licenses-select": "A maai khai kwambwat yak hu nanɡ a cat a̠ni."
+	"wm-license-information-permission-reusing-text": "Á̱ bu nyia̱ ta̱m ma̱ng fail huni",
+	"wm-license-own-work": "Ta̱m a̱pyia̱",
+	"wm-license-self-multiple-licenses-select": "A maai khai kwambwat yak hu nanɡ a cat a̱ni."
 }

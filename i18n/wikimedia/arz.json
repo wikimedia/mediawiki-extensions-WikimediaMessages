@@ -74,6 +74,7 @@
 	"wikibase-sitelinks-wikisource": "ويكيسورس",
 	"wikibase-sitelinks-wikivoyage": "ويكى الرحلات",
 	"wikimedia-developers": "مطورين",
+	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت الخاص بتاع حضرتك [[m:Special:MyLanguage/Global blocks|تم منعه فى كل الويكيات]].'''\n\nالمنع عمله $1 ($2).\nو&nbsp;السبب هو ''$3''.\n\n* بدء المنع: $4\n* انتهاء المنع: $5\n\nعنوان بروتوكول الإنترنت بتاع حضرتك هو $6.\nبتاع حضرتك ذكر كل التفاصيل اللى  مكتوبه فوق لما حضرتك تستعلم عنها.\n\nلو حضرتك شايف إن المنع اتعمل لأسباب  غلط أو مشكله معينه، ممكن تلاقى معلومات وإرشادات إضافية ف السياسه العامه [[m:Special:MyLanguage/No open proxies|لا بروكسيات مفتوحة]].\nخلاف كده، لو عاوز مناقشة المنع [[m:Steward requests/Global|حط  طلب مراجعة المنع فى ميتاويكى]].",
 	"wikimedia-statslink": "احصائيات",
 	"wikimedia-cookiestatement": "بيان الكوكيز"
 }

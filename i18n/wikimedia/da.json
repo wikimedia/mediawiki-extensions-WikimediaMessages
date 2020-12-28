@@ -6,6 +6,7 @@
 			"Fnielsen",
 			"Froztbyte",
 			"HenrikKbh",
+			"IBDJ",
 			"Jon Harald Søby",
 			"Kaare",
 			"Kranix",
@@ -200,7 +201,7 @@
 	"eri-rcfilters-tour-intro-welcome-button": "OK, modtaget",
 	"eri-rcfilters-tour-highlight-button": "OK, modtaget",
 	"wikimedia-centralauth-contribs-locked": "Denne konto er globalt låst. \nSe [[Special:CentralAuth/$1|globale kontodetaljer]] for mere information.",
-	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Brug af cookies",
+	"wikimedia-statslink": "Statistikker",
+	"wikimedia-cookiestatement": "Erklæring om cookies",
 	"querypage-updates-half-monthly": "Denne side opdateres to gange om måneden."
 }

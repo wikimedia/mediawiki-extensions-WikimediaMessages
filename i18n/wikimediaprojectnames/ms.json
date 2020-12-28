@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"CyberTroopers"
+			"CyberTroopers",
+			"Tofeiku"
 		]
 	},
-	"project-localized-name-ngwikimedia": "Wikimedia Nigeria"
+	"project-localized-name-madwiki": "Wikipedia Madura",
+	"project-localized-name-ngwikimedia": "Wikimedia Nigeria",
+	"project-localized-name-niawiki": "Wikipedia Nias",
+	"project-localized-name-niawiktionary": "Wikikamus Nias"
 }

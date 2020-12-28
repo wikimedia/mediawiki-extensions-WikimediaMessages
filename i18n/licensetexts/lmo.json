@@ -1,7 +1,18 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Salvemm el lombard"
+		]
 	},
+	"wm-license-gfdl-1.2-and-later": "A l'è permess de copià, spantega e/o portagh di cambiament a quel document chì second conforma ai termin de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 o i sò version vegnud adrée missa foeura de la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; con tucce i sezzion che poden vesser soggette a di cambiament, senza de test de covertina e senza de test de retrocovertina . Una copia de la licenza è dent ind la sezion che 'l so titol a l'è''[[{{int:wm-license-gfdl-full-1.2-link}}|Test de la GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:lmo:Licenza da ducümentazziun líbera GNU",
-	"wm-license-gpl-wiki-link": "w:lmo:GPL"
+	"wm-license-gpl-wiki-link": "w:lmo:GPL",
+	"wm-license-information-description": "Descrizzion",
+	"wm-license-information-source": "Sorgent",
+	"wm-license-information-date": "Data",
+	"wm-license-information-author": "Autor",
+	"wm-license-information-permission": "Permess",
+	"wm-license-information-permission-reusing-text": "Doperà de noeuv quel fail chì",
+	"wm-license-own-work": "Opera propia",
+	"wm-license-self-multiple-licenses-select": "Te podet catà foeura la licenza che te voeuret"
 }

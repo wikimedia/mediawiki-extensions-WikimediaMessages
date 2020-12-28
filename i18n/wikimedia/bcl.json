@@ -4,6 +4,7 @@
 			"BaRaN6161 TURK",
 			"Filipinayzd",
 			"Geopoet",
+			"Kunokuno",
 			"ShimunUfesoj"
 		]
 	},
@@ -23,5 +24,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikibiyahe",
 	"wikimedia-developers": "Mga developer",
 	"wikimedia-globalblocking-ipblocked": "'''An saimong IP address [[m:Special:MyLanguage/Global blocks|Pigbagat sa gabos na mga wiki]].'''\n\nAn pagbagat gibo kan $1 ($2).\nAn rason pigtatao sa ''$3''.\n\n* Poon kan pagbagat: $4\n* Pagpaso kan pagbagat: $5\n\nAn IP address ngunyan iniyong $6.\nPwedeng iiba an gabos nin mga detalye sa itaas sa anumang mga query na saimong piggigibo.\n\nKun nagtutubod ka na sala an pagbagat, pwede kan magdagdag nin mga impormasyones asin mga instruksyon sa  [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, tanganing mapag-ulayan an pagbagat, [[m:Steward requests/Global|magpaskil nin hiling para sa pagsusuri sa Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''An saimong IP address [[m:Special:MyLanguage/Global blocks|Pigbagat sa gabos na mga wiki]].'''\n\nAn pagbagat gibo kan $1 ($2).\nAn rason pigtatao sa ''$3''.\n\n* Poon kan pagbagat: $4\n* Pagpaso kan pagbagat: $5\n\nAn IP address ngunyan iniyong $6.\nPwedeng iiba an gabos nin mga detalye sa itaas sa anumang mga query na saimong piggigibo.\n\nKun nagtutubod ka na sala an pagbagat, pwede kan magdagdag nin mga impormasyones asin mga instruksyon sa  [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, tanganing mapag-ulayan an pagbagat, [[m:Steward requests/Global|magpaskil nin hiling para sa pagsusuri sa Meta-Wiki]]."
+	"wikimedia-globalblocking-ipblocked-xff": "'''An saimong IP address [[m:Special:MyLanguage/Global blocks|Pigbagat sa gabos na mga wiki]].'''\n\nAn pagbagat gibo kan $1 ($2).\nAn rason pigtatao sa ''$3''.\n\n* Poon kan pagbagat: $4\n* Pagpaso kan pagbagat: $5\n\nAn IP address ngunyan iniyong $6.\nPwedeng iiba an gabos nin mga detalye sa itaas sa anumang mga query na saimong piggigibo.\n\nKun nagtutubod ka na sala an pagbagat, pwede kan magdagdag nin mga impormasyones asin mga instruksyon sa  [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, tanganing mapag-ulayan an pagbagat, [[m:Steward requests/Global|magpaskil nin hiling para sa pagsusuri sa Meta-Wiki]].",
+	"wikimedia-statslink": "Estadistika",
+	"wikimedia-cookiestatement": "Statement na Cookie"
 }
