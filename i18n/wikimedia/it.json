@@ -162,7 +162,7 @@
 	"group-global-bot": "Bot globali",
 	"group-global-bot-member": "{{GENDER:$1|bot globale}}",
 	"group-global-flow-create": "Creatori globali Flow",
-	"group-global-flow-create-member": "{{GENDER:$1|Creatore|Creatrice|Creatore/trice}} globale Flow",
+	"group-global-flow-create-member": "{{GENDER:$1|creatore|creatrice|creatore/trice}} globale Flow",
 	"group-global-ipblock-exempt": "Esenti dal blocco IP globale",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|esente dal blocco IP globale}}",
 	"group-global-renamer": "Rinominatori globali",
