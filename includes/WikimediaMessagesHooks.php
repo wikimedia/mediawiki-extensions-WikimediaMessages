@@ -120,6 +120,9 @@ class WikimediaMessagesHooks implements
 			'mwoauthserver-invalid-user',
 			'privacypage',
 			'sidebar',
+			'sitematrix', // T140941
+			'sitematrix-others',
+			'sitematrix-summary',
 			'sulrenamewarning-usenew',
 			'webauthn-module-description', // T248367
 			'webauthn-ui-login-prompt', // T248367
