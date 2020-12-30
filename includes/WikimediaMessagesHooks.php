@@ -98,6 +98,7 @@ class WikimediaMessagesHooks implements
 			'acct_creation_throttle_hit',
 			'centralauth-contribs-locked',
 			'centralauth-login-error-locked', // T216347
+			'centralauth-groupname', // T86741
 			'centralauth-uwbr-intro',
 			'centralauth-uwbr-registration-nodate',
 			'createacct-helpusername',
