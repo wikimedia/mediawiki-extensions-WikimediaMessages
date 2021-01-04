@@ -9,7 +9,11 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]",
+	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"createacct-helpusername-url": "{{ns:Project}}:Brugernavnsregler",
+	"wikimedia-sitematrix": "Alle Wikimedias wikier",
+	"wikimedia-sitematrix-others": "Andre projekter under Wikimedia",
+	"wikimedia-sitematrix-summary": "Denne specialside oplister alle Wikimedias wikier.",
 	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) er en webstandard publiceret af World Wide Web Consortium (W3C). WebAuthn er en central komponent i FIDO2-projektet under FIDO-alliancen. Målet for projektet er at standardisere et interface for godkendelse af brugere af webapplikationer og -tjenester ved at anvende offentlig kryptering. [https://en.wikipedia.org/wiki/WebAuthn Læs mere]. Bemærk at man vil være nødt til at logge ind på den wiki hvor man oprindeligt registrerede sin godkendelsesenhed.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]"
 }

@@ -12,6 +12,7 @@
 	"wikimedia-acct_creation_throttle_hit": "আপনার আইপি ঠিকানা ব্যবহার করে শেষ দিনে এই উইকির পরিদর্শকেরা {{PLURAL:$1|১টি অ্যাকাউন্ট|$1টি অ্যাকাউন্ট}} তৈরি করেছেন, যা এই সময়সীমার মধ্যে সর্বোচ্চ সংখ্যক।\nফলে, এই আইপি ঠিকানা ব্যবহার করে এই মুহুর্তে পরিদর্শকেরা আর কোনো অ্যাকাউন্ট তৈরি করতে পারবেন না।\n\nআপনি যদি এমন কোন ইভেন্টে থাকেন যার মূল উদ্দেশ্য উইকিমিডিয়া প্রকল্পে অবদান রাখা নিয়ে আলোকপাত করা, তাহলে এই সমস্যাটির সমাধান করতে দয়া করে [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|আইপি ক্যাপের অস্থায়ী লিফট অনুরোধ করায়]] যান।",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(বাছাই করতে আমাকে সাহায্য করুন)]]",
 	"wikimedia-createacct-imgcaptcha-help": "ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]] করুন",
+	"wikimedia-centralauth-groupname": "উইকিমিডিয়া ফাউন্ডেশন",
 	"wikimedia-centralauth-login-error-locked": "<strong>এই অ্যাকাউন্টটি [[m:Special:MyLanguage/Global locks|বৈশ্বিকভাবে তালাবদ্ধ]]।</strong> {{GENDER:$1|আপনি}} কোনও উইকিমিডিয়ার উইকিতে প্রবেশ করতে সক্ষম হবেন না। {{GENDER:$1|আপনার}} কোনও প্রশ্ন থাকলে, দয়া করে [[m:Special:Contact/stewards|স্টুয়ার্ডদের]] সাথে যোগাযোগ করুন।",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< ২০০৬",
 	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি",
@@ -24,5 +25,8 @@
 	"wikimedia-flow-terms-of-use-lock-topic": "\"{{int:flow-topic-action-lock-topic}}\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এস ৩.০ লাইসেন্স] এবং [//bn.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License জিএফডিএলের] অধীনে প্রকাশ করতে সম্মত হচ্ছেন।",
 	"wikimedia-flow-terms-of-use-unlock-topic": "\"{{int:flow-topic-action-unlock-topic}}\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এস ৩.০ লাইসেন্স] এবং [//bn.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License জিএফডিএলের] অধীনে প্রকাশ করতে সম্মত হচ্ছেন।",
 	"wikimedia-globalrenamequeue-email-body-approved": "\"{{GENDER:$1|$1}}\" কে \"{{GENDER:$1|$2}}\" নামে নামান্তর করার অনুরোধ অনুমোদিত হয়েছে। কাজটি সম্পূর্ণ হয়ে গেলে, আপনি আপনার পুরানো পাসওয়ার্ড দিয়ে নতুন ব্যবহারকারী নাম ব্যবহার করে প্রবেশ করতে সক্ষম হবেন। উইকিমিডিয়া প্রকল্পে অংশ নেওয়ার জন্য আপনাকে ধন্যবাদ।",
+	"wikimedia-sitematrix": "উইকিমিডিয়া উইকিগুলির তালিকা",
+	"wikimedia-sitematrix-others": "উইকিমিডিয়ার অন্যান্য প্রকল্প",
+	"wikimedia-sitematrix-summary": "এই বিশেষ পাতায় সমস্ত উইকিমিডিয়া উইকিসমূহের তালিকা রয়েছে।",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy গোপনীয়তার নীতি]"
 }

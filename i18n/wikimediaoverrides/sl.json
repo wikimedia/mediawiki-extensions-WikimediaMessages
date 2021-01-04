@@ -4,6 +4,10 @@
 			"Dbc334"
 		]
 	},
+	"wikimedia-centralauth-groupname": "Wikimedie",
 	"createacct-helpusername-url": "{{ns:Project}}:Pravilnik_o_uporabniških_imenih",
-	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletišča je omejeno na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]."
+	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletišča je omejeno na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
+	"wikimedia-sitematrix": "Seznam Wikimedijinih wikijev",
+	"wikimedia-sitematrix-others": "Drugi projekti Wikimedije",
+	"wikimedia-sitematrix-summary": "Ta posebna stran navaja vse Wikimedijine wikije."
 }

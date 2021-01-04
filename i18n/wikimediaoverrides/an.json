@@ -2,5 +2,9 @@
 	"@metadata": {
 		"authors": []
 	},
-	"wikimedia-createacct-imgcaptcha-help": "No veyes a imachen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]"
+	"wikimedia-createacct-imgcaptcha-help": "No veyes a imachen? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar una cuenta]]",
+	"wikimedia-centralauth-groupname": "a Fundación Wikimedia",
+	"wikimedia-sitematrix": "Lista de wikis de Wikimedia",
+	"wikimedia-sitematrix-others": "Atros procheutos de Wikimedia",
+	"wikimedia-sitematrix-summary": "Ista pachina especial amuestra a lista de wikis de Wikimedia."
 }

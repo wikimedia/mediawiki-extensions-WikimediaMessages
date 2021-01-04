@@ -4,5 +4,9 @@
 			"Cedric31"
 		]
 	},
-	"wikimedia-createacct-imgcaptcha-help": "Podètz pas veire l'imatge ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandatz la creacion d'un compte]]"
+	"wikimedia-createacct-imgcaptcha-help": "Podètz pas veire l'imatge ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandatz la creacion d'un compte]]",
+	"wikimedia-centralauth-groupname": "la fondacion Wikimedia",
+	"wikimedia-sitematrix": "Lista dels wikis de Wikimedia",
+	"wikimedia-sitematrix-others": "Autres projèctes de Wikimedia Foundation",
+	"wikimedia-sitematrix-summary": "Aquesta pagina especiala aficha totes los wikis de la Fondacion Wikimedia."
 }

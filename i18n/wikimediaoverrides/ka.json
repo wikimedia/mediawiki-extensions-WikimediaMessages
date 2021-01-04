@@ -8,10 +8,14 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ შერჩევაში)]]",
 	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]",
+	"wikimedia-centralauth-groupname": "ფონდი ვიკიმედია",
 	"wikimedia-discussiontools-replywidget-terms-click": "„$1“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
 	"wikimedia-flow-terms-of-use-new-topic": "„{{int:flow-newtopic-save}}“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
 	"wikimedia-flow-terms-of-use-reply": "„{{int:flow-reply-link}}“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
 	"wikimedia-flow-terms-of-use-edit": "ცვლილებების შენახვით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
 	"wikimedia-flow-terms-of-use-summarize": "„{{int:flow-topic-action-update-topic-summary}}“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
-	"wikimedia-flow-terms-of-use-unlock-topic": "„{{int:flow-topic-action-unlock-topic}}“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით."
+	"wikimedia-flow-terms-of-use-unlock-topic": "„{{int:flow-topic-action-unlock-topic}}“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
+	"wikimedia-sitematrix": "ვიკიმედიის პროექტების სია",
+	"wikimedia-sitematrix-others": "ვიკიმედიას სხვა პროექტები",
+	"wikimedia-sitematrix-summary": "ეს სპეციალური გვერდი წარმოადგენს ვიკიმედიის ვიკი-პროექტების სიას"
 }

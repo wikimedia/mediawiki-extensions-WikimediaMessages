@@ -4,5 +4,9 @@
 			"Geopoet"
 		]
 	},
-	"createacct-helpusername-url": "{{ns:Project}}:Paragamit_na_Kalakawan"
+	"wikimedia-centralauth-groupname": "an Wikimedia Foundation",
+	"createacct-helpusername-url": "{{ns:Project}}:Paragamit_na_Kalakawan",
+	"wikimedia-sitematrix": "Listahan kan mga Wikimedia wiki",
+	"wikimedia-sitematrix-others": "Ibang mga proyekto kan Wikimedia",
+	"wikimedia-sitematrix-summary": "Ining espesyal na pahina minalista kan gabos na mga Wikimedia wikis."
 }

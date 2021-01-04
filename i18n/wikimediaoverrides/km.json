@@ -5,5 +5,9 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ជំនួយអំពីរបៀបជ្រើសរើសអត្តនាម)]]",
-	"createacct-helpusername-url": "{{ns:Project}}:គោលការណ៍ស្ដីពីអត្តនាម"
+	"wikimedia-centralauth-groupname": "មូលនិធិវិគីមេឌា",
+	"createacct-helpusername-url": "{{ns:Project}}:គោលការណ៍ស្ដីពីអត្តនាម",
+	"wikimedia-sitematrix": "បញ្ជីវិគីនៃវិគីមេឌា",
+	"wikimedia-sitematrix-others": "គម្រោងវិគីមេឌាផ្សេងៗទៀត",
+	"wikimedia-sitematrix-summary": "ទំព័រពិសេសនេះរាយឈ្មោះរាល់វិគីរបស់វិគីមេឌា។"
 }

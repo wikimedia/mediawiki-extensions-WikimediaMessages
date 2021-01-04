@@ -6,6 +6,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tulongannak nga agpili)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Saan a makita ti ladawan? [[{{MediaWiki:createacct-captcha-help-url}}|Agkiddaw ti pakabilangan]]",
+	"wikimedia-centralauth-groupname": "Pundasion ti Wikimedia",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Annuroten_ti_nagan_ti_agar-aramat",
 	"wikimedia-flow-terms-of-use-new-topic": "Babaen ti panagpindut ti \"{{int:flow-newtopic-save}}\", umannurotka kadagiti bukodmi a [https://foundation.wikimedia.org/wiki/Terms_of_Use Termino ti Panagusar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
@@ -16,6 +17,9 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "Babaen ti panagpindut ti \"{{int:flow-topic-action-unlock-topic}}\", umannurotka kadagiti bukodmi a  [https://foundation.wikimedia.org/wiki/Terms_of_Use Termino ti Panagusar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti  [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-globalrenamequeue-email-body-approved": "Ti kiddaw iti pananginagan manen ti \"{{GENDER:$1|$1}}\" iti \"{{GENDER:$1|$2}}\" ket naaprobaranen. No nakompleton, mabalinmonton iti sumrek nga agusar iti baro a naganmo iti daan a kontraseniasmo. Agyamankami para iti pannakibinglaymo kadagiti proyekto ti Wikimedia.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Ti panagkiddaw iti pananginagan manen ti \"{{GENDER:$1|$1}}\" iti \"{{GENDER:$1|$2}}\" ket saan a makompleto.\n\nNota: $3\n\nPara iti adu pay a pakaammo, pangngaasi a bisitaen daytoy panid ti tulong: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Tapno matungtungan ti kiddawmo, mabalinmo ti agipablaak iti daytoy a panid: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Nasken nga umunaka pay laeng a sumrek nga agusar iti agdama a naganmo.",
+	"wikimedia-sitematrix": "Listaan dagiti wiki ti Wikimedia",
+	"wikimedia-sitematrix-others": "Dagiti sabsabali a gandat ti Wikimedia",
+	"wikimedia-sitematrix-summary": "Daytoy a naipangruna a panid ket ilista na amin dagiti Wikimedia wiki.",
 	"wikimedia-sulrenamewarning-usenew": "Manipud itan nasken a sumrekka nga agusar iti baro a naganmo nga agar-aramat iti <strong>$1</strong>. T ibaro a naganmo nga agar-aramat ket naisangayan iti amin a proyekto ti Wikimedia, ken no nakastrekka iti maysa a proyekto ken no bisitaem iti sabali, ti pakabilangam ket sumurotto kaniam. Ti [[:m:Special:MyLanguage/Help:Unified_login|Tulong ti panid ti naipagkaykaysa a panagserrek]] ket addaan pay iti adu a pakaammo a maipanggep iti panagserrek ti agmaymaysa nga agar-aramat, ken ti pay listaan kadagiti masansan a saludsod. No masapulmo ti agpabaro iti esurat a pagtaengam wenno baliwan ti kontraseniasmo idiay [[Special:Preferences|kakaykayatam]], nasayaat itan a panawen nga aramiden daytoy.\n\nTi agkiddaw iti sabali a nagan iti pakabilangan, bisitaen ti [[Special:GlobalRenameRequest]]. Agyamankami para iti pannakibinglaymo kadagiti proyekto ti Wikimedia.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Annuroten ti Kinapribado]"
 }

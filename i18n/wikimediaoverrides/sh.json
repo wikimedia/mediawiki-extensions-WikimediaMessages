@@ -2,5 +2,9 @@
 	"@metadata": {
 		"authors": []
 	},
+	"wikimedia-centralauth-groupname": "Wikimedija Fondacija",
+	"wikimedia-sitematrix": "Spisak svih wikija",
+	"wikimedia-sitematrix-others": "Drugi Wikimedijini projekti",
+	"wikimedia-sitematrix-summary": "Ova posebna strana navodi sve Wikimedijine wikije.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Politika privatnosti]"
 }

@@ -2,5 +2,9 @@
 	"@metadata": {
 		"authors": []
 	},
-	"wikimedia-flow-terms-of-use-lock-topic": "சொடுக்குவதன் மூலம் எங்களது நிபந்தனைகளுக்கும் விதிமுறைகளுக்கும் \n[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] ,உடன்பட்டு உங்களது உரைமூலத்தை \n[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] மற்றும் [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] கீழ் வெளியிட மாற்றமுடியாத இசைவு தெரிவிக்கிறீர்கள் ."
+	"wikimedia-centralauth-groupname": "விக்கிமீடியா அறக்கட்டளை",
+	"wikimedia-flow-terms-of-use-lock-topic": "சொடுக்குவதன் மூலம் எங்களது நிபந்தனைகளுக்கும் விதிமுறைகளுக்கும் \n[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] ,உடன்பட்டு உங்களது உரைமூலத்தை \n[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] மற்றும் [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] கீழ் வெளியிட மாற்றமுடியாத இசைவு தெரிவிக்கிறீர்கள் .",
+	"wikimedia-sitematrix": "விக்கிபீடியா விக்கிகளின் பட்டியல்",
+	"wikimedia-sitematrix-others": "விக்கிமீடியாவின் மற்ற திட்டங்கள்",
+	"wikimedia-sitematrix-summary": "இந்தச் சிறப்புப் பக்கம் எல்லா மீடியாவிக்கி விக்கிகளையும் பட்டியலிடுகிறது."
 }

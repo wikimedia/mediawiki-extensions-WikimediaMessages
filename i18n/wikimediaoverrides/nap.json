@@ -5,5 +5,9 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajutame a scegliere)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Nun riesce a veré l'immaggene? [[{{MediaWiki:createacct-captcha-help-url}}|Addimanna n'utenza]]"
+	"wikimedia-createacct-imgcaptcha-help": "Nun riesce a veré l'immaggene? [[{{MediaWiki:createacct-captcha-help-url}}|Addimanna n'utenza]]",
+	"wikimedia-centralauth-groupname": "'a Wikimedia Foundation",
+	"wikimedia-sitematrix": "Elenco 'e wiki Wikimedia",
+	"wikimedia-sitematrix-others": "N'ati pruggiette Wikimedia",
+	"wikimedia-sitematrix-summary": "Sta paggena speciale elenca tutt' 'e wiki Wikimedia."
 }

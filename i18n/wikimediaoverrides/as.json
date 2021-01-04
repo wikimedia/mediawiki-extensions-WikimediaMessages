@@ -5,5 +5,9 @@
 		]
 	},
 	"wikimedia-createacct-imgcaptcha-help": "ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Username_policy"
+	"wikimedia-centralauth-groupname": "ৱিকিমিডিয়া ফাউণ্ডেশ্যন",
+	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"wikimedia-sitematrix": "ৱিকিমিডিয়া ৱিকিসমূহৰ তালিকা",
+	"wikimedia-sitematrix-others": "ৱিকিমিডিয়াৰ আন প্ৰকল্পসমূহ",
+	"wikimedia-sitematrix-summary": "এই বিশেষ পৃষ্ঠাটোত সকলো ৱিকিমিডিয়া ৱিকিৰ তালিকা আছে।"
 }

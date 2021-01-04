@@ -6,5 +6,9 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]",
-	"wikimedia-flow-terms-of-use-edit": "Ved å lagra endringar samtykkjer du til [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkåra] våre og gjev endeleg samtykke til at teksten din vert utgjeve under lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
+	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
+	"wikimedia-flow-terms-of-use-edit": "Ved å lagra endringar samtykkjer du til [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkåra] våre og gjev endeleg samtykke til at teksten din vert utgjeve under lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-sitematrix": "Liste over wikiar frå Wikimedia",
+	"wikimedia-sitematrix-others": "Andre prosjekt frå Wikimedia",
+	"wikimedia-sitematrix-summary": "Denne spesialsida listar opp alle Wikimedia sine wikiar."
 }

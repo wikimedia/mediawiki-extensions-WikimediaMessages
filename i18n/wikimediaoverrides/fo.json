@@ -5,5 +5,8 @@
 		]
 	},
 	"wikimedia-createacct-imgcaptcha-help": "Sært tú ikki myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Bið um eina konto]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Username_policy"
+	"wikimedia-centralauth-groupname": "Wikimedia Grunnurin",
+	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"wikimedia-sitematrix": "Listi yvir wikiir á Wikimedia",
+	"wikimedia-sitematrix-summary": "Henda serstaka síða hevur yvirlit yvir allar wikiir á Wikimedia"
 }

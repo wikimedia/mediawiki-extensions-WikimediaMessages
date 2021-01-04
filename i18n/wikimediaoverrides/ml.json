@@ -7,6 +7,10 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(തിരഞ്ഞെടുക്കാൻ സഹായിക്കുക)]]",
 	"wikimedia-createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]",
+	"wikimedia-centralauth-groupname": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ",
 	"createacct-helpusername-url": "{{ns:Project}}:ഉപയോക്തൃനാമനയം",
+	"wikimedia-sitematrix": "വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക",
+	"wikimedia-sitematrix-others": "വിക്കിമീഡിയയുടെ മറ്റു സം‌രംഭങ്ങൾ",
+	"wikimedia-sitematrix-summary": "ഈ താൾ വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക പ്രദർശിപ്പിക്കുന്നു.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy സ്വകാര്യതാനയം]"
 }

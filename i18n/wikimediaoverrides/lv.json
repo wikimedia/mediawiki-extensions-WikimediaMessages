@@ -5,5 +5,8 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(palīdziet izvēlēties)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Attēls nav redzams? [[{{MediaWiki:createacct-captcha-help-url}}|Pieprasiet kontu]]"
+	"wikimedia-createacct-imgcaptcha-help": "Attēls nav redzams? [[{{MediaWiki:createacct-captcha-help-url}}|Pieprasiet kontu]]",
+	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
+	"wikimedia-sitematrix": "Visu Wikimedia wiki projektu uzskaitījums",
+	"wikimedia-sitematrix-others": "Citi Wikimedia projekti"
 }

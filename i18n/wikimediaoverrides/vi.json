@@ -11,6 +11,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(giúp tôi chọn)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Bạn không thấy được chữ? [[{{MediaWiki:createacct-captcha-help-url}}|Hãy yêu cầu mở tài khoản]].",
+	"wikimedia-centralauth-groupname": "Quỹ Wikimedia",
 	"wikimedia-centralauth-uwbr-intro": "Đây là danh sách các thành viên có tài khoản trên wiki này mà sẽ được đổi tên do việc [[m:Single User Login finalisation announcement|hoàn thành quá trình hợp nhất tài khoản]]. Xem thêm chi tiết tại [[m:Help:Unified login|Đăng nhập thống nhất]]. Các thành viên có thể lúc nào yêu cầu đổi tên mình tại [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Quy định tên người dùng",
@@ -26,6 +27,9 @@
 	"wikimedia-globalrenamequeue-email-body-rejected": "Lời yêu cầu đổi tên “$1” thành “$2” không được thực hiện.\n\nGhi chú: $3\n\nXem thêm thông tin tại trang trợ giúp này: <https://meta.wikimedia.org/wiki/Help:Unified_login/vi#Frequently_asked_questions>. Bạn có thể thảo luận về lời yêu cầu đổi tên bạn trong trang này: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Bạn vẫn phải đăng nhập bằng tên tài khoản hiện tại của bạn.",
 	"wikimedia-interfaceadmin-info": "$1\n\nMới đây phần mềm bắt đầu phân biệt quyền sửa đổi các tập tin CSS/JS/JSON toàn trang và quyền <code>editinterface</code>. Nếu bạn không hiểu tại sao bạn bị lỗi trên, hãy xem [[mw:MediaWiki_1.32/interface-admin]].",
 	"wikimedia-mwoauthserver-invalid-user": "Đã xuất hiện lỗi khi đăng nhập toàn cục. Nếu bạn vừa mới tạo tài khoản, xin hãy đăng xuất và đăng nhập lại, sau đó thử cấp quyền cho ứng dụng lần nữa. Nếu bạn không phải vừa tạo ra tài khoản, xin hãy đến [https://meta.wikimedia.org/ meta.wikimedia.org] và thử cấp quyền cho ứng dụng lần nữa. (Mã lỗi: E008)",
+	"wikimedia-sitematrix": "Danh sách các wiki của Wikimedia",
+	"wikimedia-sitematrix-others": "Các dự án khác của Wikimedia",
+	"wikimedia-sitematrix-summary": "Trang đặc biệt này liệt kê tất cả các wiki của Wikimedia.",
 	"wikimedia-sulrenamewarning-usenew": "Từ nay, bạn phải đăng nhập bằng tên người dùng mới của bạn: <strong>$1</strong>. Bạn là người duy nhất có tên người dùng này trên tất cả các dự án trực thuộc Wikimedia; nếu bạn đã đăng nhập vào một dự án và ghé thăm một dự án khác, tài khoản cũng có hiệu lực trên dự án đó. [[:m:Special:MyLanguage/Help:Unified_login|Trang trợ giúp về tài khoản hợp nhất]] có thêm thông tin về việc đăng nhập, cũng như một số câu hỏi thường gặp. Nếu bạn cần cập nhật địa chỉ thư điện tử hoặc đổi mật khẩu, bạn nên ghé vào [[Special:Preferences|tùy chọn]] để cập nhật tài khoản ngay bây giờ.\n\nĐể yêu cầu một tên tài khoản khác, hãy thăm [[Special:GlobalRenameRequest]]. Cảm ơn bạn tiếp tục tham gia các dự án Wikimedia.",
 	"wikimedia-ipb-confirmhideuser": "Bạn sắp sửa cấm người dùng có cờ “ẩn người dùng”. Điều này sẽ ẩn tên người dùng trong tất cả các danh sách và mục nhật trình trong wiki này. Bạn có chắc chắn muốn thực hiện điều này?\n\nNếu tên người dùng cần được ẩn trong tất cả các wiki của Wikimedia, xin vui lòng liên lạc với các [[m:Special:MyLanguage/Stewards|tiếp viên]] tại stewards@wikimedia.org.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]"

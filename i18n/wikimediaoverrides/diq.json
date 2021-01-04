@@ -8,6 +8,10 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seba weçinayışi mı rê pheşti bıdê)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Asayışi nêvênena? [[{{MediaWiki:createacct-captcha-help-url}}|Yew hesab bıwaze]]",
+	"wikimedia-centralauth-groupname": "Weqfê Wikimedya",
 	"wikimedia-centralauth-login-error-locked": "<strong>Eno hesabê karberi [[m:Special:MyLanguage/Global locks|her ca de biyo kılit]]</strong>. {{GENDER:$1|Tı}} nêşena Wikimedia-Wiki kewê. Kerem ke, persê to ke estê, [[m:Special:Contact/stewards|be stewardan ra irtıbat kewe]], persê {{GENDER:$1|to}} ke esto.",
-	"createacct-helpusername-url": "{{ns:Project}}:Politikaya_nameyê_karberan"
+	"createacct-helpusername-url": "{{ns:Project}}:Politikaya_nameyê_karberan",
+	"wikimedia-sitematrix": "Lista wikiyanê Wikimedya",
+	"wikimedia-sitematrix-others": "Projeyê Wîkîmedyayê binî",
+	"wikimedia-sitematrix-summary": "no pelo xas listeya wiki yê heme wikimedyayan liste keno"
 }

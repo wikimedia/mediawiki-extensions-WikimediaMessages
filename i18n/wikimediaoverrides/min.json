@@ -6,5 +6,9 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(bantu ambo mamiliah)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Indak dapek mancaliak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buekkan akun]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Kabijakan namo pangguno"
+	"wikimedia-centralauth-groupname": "Yayasan Wikimedia",
+	"createacct-helpusername-url": "{{ns:Project}}:Kabijakan namo pangguno",
+	"wikimedia-sitematrix": "Daftar wiki Wikimedia",
+	"wikimedia-sitematrix-others": "Proyek lain Wikimedia",
+	"wikimedia-sitematrix-summary": "Laman istimewa ko mamuek daftar kasado wiki Wikimedia."
 }

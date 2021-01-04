@@ -2,5 +2,9 @@
 	"@metadata": {
 		"authors": []
 	},
-	"wikimedia-createacct-imgcaptcha-help": "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebrukerskonto an]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebrukerskonto an]]",
+	"wikimedia-centralauth-groupname": "de Wikimedia Foundation",
+	"wikimedia-sitematrix": "Lyste van Wikimedia-wikis",
+	"wikimedia-sitematrix-others": "Aandere projekten van Wikimedia",
+	"wikimedia-sitematrix-summary": "Disse spesiale zied gif n overzicht van alle wiki's van Wikimedia."
 }

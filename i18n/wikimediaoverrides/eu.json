@@ -8,5 +8,9 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Lagun nazazu aukeratzen)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ezin duzu irudi ikusi? [[{{MediaWiki:createacct-captcha-help-url}}|Kontu bat eskatu]]",
-	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" klikatzen, onartzen duzu geure [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] eta modu azteraezinean onartzen duzu zure testua [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] eta [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]lizentziapean argitaratzea."
+	"wikimedia-centralauth-groupname": "Wikimedia Fundazioa",
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" klikatzen, onartzen duzu geure [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] eta modu azteraezinean onartzen duzu zure testua [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] eta [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]lizentziapean argitaratzea.",
+	"wikimedia-sitematrix": "Wikimedia Fundazioaren wiki guztien zerrenda",
+	"wikimedia-sitematrix-others": "Wikimediaren beste proiektuak",
+	"wikimedia-sitematrix-summary": "Orrialde berezi honek Wikimedia wiki guztiak zerrendatzen ditu."
 }

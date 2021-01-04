@@ -5,7 +5,11 @@
 			"ශ්වෙත"
 		]
 	},
+	"wikimedia-centralauth-groupname": "විකිමී‍ඩියා පදනම",
 	"createacct-helpusername-url": "{{ns:Project}}:පරිශීලක නම_ප්‍රතිපත්තිය",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.",
-	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ."
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-newtopic-save}}\" ක්ලික් කිරීමෙන්, ඔබ අපගේ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] හා, [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] හා[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nයටතේ වෙනස් කර නිදහස් කල නොහැකි  ඔබගේ පෙළ සඳහා එකඟ වේ.",
+	"wikimedia-sitematrix": "විකිමීඩියාවට අයත් විකි ලැයිස්තුව",
+	"wikimedia-sitematrix-others": "විකිමීඩියාවට අයත් අනෙකුත් ව්‍යාපෘති",
+	"wikimedia-sitematrix-summary": "මෙම විශේෂ පිටුව විකිමීඩියාවේ සියළු  විකියන් ලැයිස්තුගත කරයි."
 }

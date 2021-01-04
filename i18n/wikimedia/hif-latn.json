@@ -4,6 +4,7 @@
 			"Abdul Kadir",
 			"Brijlal",
 			"Girmitya",
+			"Smobile",
 			"Thakurji"
 		]
 	},
@@ -17,15 +18,10 @@
 	"group-bigexport": "Barraa exporters",
 	"group-bigexport-member": "barraa exporter",
 	"grouppage-bigexport": "{{ns:project}}:Barraa exporter kare waala",
-	"group-uploader": "Uploaders",
 	"group-uploader-member": "uploader",
-	"grouppage-uploader": "{{ns:project}}:Uploaders",
 	"wikimedia-copyright": "Ii text <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License ke niche available hai</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
-	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
-	"wikibase-sitelinks-wikinews": "Wikinews",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"cant-delete-main-page": "Aap pahila pana ke mitae nai to hatae nai saktaa hae",
-	"wikimedia-developers": "Developers"
+	"wikimedia-developers": "Banae waala log",
+	"wikimedia-statslink": "Aakrraa",
+	"wikimedia-cookiestatement": "Cookie ke baare me"
 }

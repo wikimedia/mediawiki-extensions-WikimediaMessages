@@ -5,6 +5,10 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(adjuta me a eliger)]]",
+	"wikimedia-centralauth-groupname": "Fundation Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Nomine_de_usator",
-	"wikimedia-interfaceadmin-info": "Le modification del files CSS/JS/JSON global del sito es limitate al membros del gruppo [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]."
+	"wikimedia-interfaceadmin-info": "Le modification del files CSS/JS/JSON global del sito es limitate al membros del gruppo [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
+	"wikimedia-sitematrix": "Lista de wikis de Wikimedia",
+	"wikimedia-sitematrix-others": "Altere projectos de Wikimedia",
+	"wikimedia-sitematrix-summary": "Iste pagina special lista tote le wikis de Wikimedia."
 }

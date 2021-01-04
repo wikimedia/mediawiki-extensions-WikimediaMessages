@@ -10,8 +10,12 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]",
+	"wikimedia-centralauth-groupname": "Fundația Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica_numelui_de_utilizator",
 	"wikimedia-discussiontools-replywidget-terms-click": "Apăsând „$1”, sunteți de acord cu [https://foundation.wikimedia.org/wiki/Terms_of_Use termenii de utilizare] și sunteți de acord să vă publicați irevocabil textul sub [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] și [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Prin apăsarea „{{int:flow-reply-link}}”, sunteți de acord cu [https://foundation.wikimedia.org/wiki/Terms_of_Use Termenii noștri de utilizare] și sunteți de acord să vă publicați irevocabil textul dvs. sub [https://creativecommons.org/licenses/by-sa/3.0 Licența CC BY-SA 3.0] și [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
-	"wikimedia-interfaceadmin-info": "Permisiunile pentru editarea de CSS/JS/JSON global au fost recent restricționate la membrii grupului [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Vedeți [[m:Creation of separate user group for editing sitewide CSS/JS]] pentru mai multe informații."
+	"wikimedia-interfaceadmin-info": "Permisiunile pentru editarea de CSS/JS/JSON global au fost recent restricționate la membrii grupului [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Vedeți [[m:Creation of separate user group for editing sitewide CSS/JS]] pentru mai multe informații.",
+	"wikimedia-sitematrix": "Lista proiectelor Wikimedia",
+	"wikimedia-sitematrix-others": "Alte proiecte ale Fundației Wikimedia",
+	"wikimedia-sitematrix-summary": "Această pagină specială afișează toate proiectele wiki ale Wikimedia."
 }

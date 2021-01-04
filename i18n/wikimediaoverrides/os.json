@@ -4,5 +4,8 @@
 			"Bouron"
 		]
 	},
-	"createacct-helpusername-url": "{{ns:Project}}:Фæсномыг"
+	"createacct-helpusername-url": "{{ns:Project}}:Фæсномыг",
+	"wikimedia-sitematrix": "Викимедиæ-йы проекттæ",
+	"wikimedia-sitematrix-others": "Викимедийы æндæр проекттæ",
+	"wikimedia-sitematrix-summary": "Ацы сæрмагонд фарс сфыссы Викимедиæ-йы вики-проекттæ"
 }
