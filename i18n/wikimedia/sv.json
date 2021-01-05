@@ -69,6 +69,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Redigerare av missbruksfilter",
 	"group-abusefilter-helper": "Missbruksfilter-hjälpare",
 	"group-abusefilter-helper-member": "{{GENDER:$1|Missbruksfilter-hjälpare}}",
+	"group-abusefilter-maintainer": "Underhållsansvariga för missbruksfilter",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|underhållsansvarig för missbruksfilter}}",
 	"group-accountcreator": "Kontoskapare",
 	"group-accountcreator-member": "{{GENDER:$1|kontoskapare}}",
 	"grouppage-accountcreator": "{{ns:project}}:Kontoskapare",
