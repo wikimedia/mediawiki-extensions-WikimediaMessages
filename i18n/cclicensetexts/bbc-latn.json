@@ -2,14 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Herryz",
-			"Salomo Christian Hutajulu"
+			"Salomo Christian Hutajulu",
+			"Sotarduga78"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
 	"wm-license-cc-free": "Ruar ma hamu",
 	"wm-license-cc-free-to-share-header": "marbagi",
+	"wm-license-cc-free-to-share-text": "Mangganti dohot paserakhon muse angkup ni tulisan on ni bagas rumang manang aha pe",
 	"wm-license-cc-free-to-remix-header": "Mangadaptasi",
 	"wm-license-cc-free-to-remix-text": "Mangadopsi parkarejoan",
+	"wm-license-cc-conditions": "Marbingkas hatontuon marihut",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
 	"wm-license-cc-conditions-share_alike-header": "marbagi dohot"
 }

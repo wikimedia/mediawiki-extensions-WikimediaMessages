@@ -199,6 +199,7 @@
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-administratör}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth administratörer",
 	"group-ombuds": "Ombud",
+	"group-ombuds-member": "{{GENDER:$1|ombud}}",
 	"group-recursive-export": "Rekursiv export",
 	"group-recursive-export-member": "{{GENDER:$1|rekursiv exportör}}",
 	"group-staff": "Personal",
@@ -336,6 +337,8 @@
 	"restriction-level-editautopatrolprotected": "skyddad för autopatrullerare",
 	"right-editautopatrolprotected": "Redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
+	"group-docseditor": "Dokumentationsredigerare",
+	"group-docseditor-member": "{{GENDER:$1|dokumentationsredigerare}}",
 	"action-docseditor": "redigera dokumentation",
 	"right-docseditor": "Redigera dokumentation"
 }
