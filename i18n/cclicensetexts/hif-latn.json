@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Abdul Kadir",
-			"Girmitya"
+			"Girmitya",
+			"Smobile"
 		]
 	},
 	"wm-license-cc-free-to-share-header": "share kare ke khaatir",
 	"wm-license-cc-conditions": "II condition ke niiche:",
-	"wm-license-cc-conditions-attribution-text": "You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).",
+	"wm-license-cc-conditions-attribution-text": "Aap ke thiik credit de ke chaahi, licence pe jorr de ke chaahi, aur  badlao ke dekhae ke chaahi. Aap iske koi reasonable manner me kare saktaa hai lekin aise nai ki lage  ki licensor aap ke, nai to aap ke kaam ke endorse kre hai",
 	"wm-license-cc-conditions-share_alike-text": "Agar aap milaata hai, badaltaa hai, nai to material pe jorrtaa hai, tab aap ke aapan yogdaan ke [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] ke niche baate kare kae chaaahi."
 }
