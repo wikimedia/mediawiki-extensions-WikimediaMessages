@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ghaly",
+			"HitomiAkane",
 			"Meno25",
 			"Nemo bis",
 			"Ramsis II"
@@ -54,6 +55,7 @@
 	"group-uploader": "المحملين",
 	"group-uploader-member": "{{GENDER:$1|المحمل}}",
 	"grouppage-uploader": "{{ns:project}}:المحملين",
+	"group-wikidata-staff": "طاقم ويكيداتا",
 	"group-global-bot": "بوتات عامه",
 	"group-global-bot-member": "{{GENDER:$1|بوت عام}}",
 	"group-global-rollbacker": "مسترجعين عامين",
@@ -69,12 +71,16 @@
 	"shared-repo-name-shared": "ويكيميديا كومنز",
 	"wikimedia-copyright": "النصوص متوفرة تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">رخصة التشارك الإبداع العزو/المشاركة بالمثل</a>;\nممكن تطبيق شروط إضافية.\nبص على <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
 	"wikimedia-copyrightwarning": "بتسييڤ التعديلات بتاعتك، انت بتوافق على إصدار مساهمتك بلا رجعه تحت [https://creativecommons.org/licenses/by-sa/3.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 3.0] و [https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nأنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.   بص على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] للتفاصيل.",
+	"wikibase-repo-name": "ويكيداتا",
 	"wikibase-sitelinks-wikinews": "ويكينيوز",
 	"wikibase-sitelinks-wikiquote": "إقتباس ويكى",
 	"wikibase-sitelinks-wikisource": "ويكيسورس",
 	"wikibase-sitelinks-wikivoyage": "ويكى الرحلات",
+	"wikibase-otherprojects-testwikidata": "ويكيداتا",
+	"wikibase-otherprojects-wikidata": "ويكيداتا",
+	"wikibase-sitelinks-sitename-wikidatawiki": "ويكيداتا",
 	"wikimedia-developers": "مطورين",
-	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت الخاص بتاع حضرتك [[m:Special:MyLanguage/Global blocks|تم منعه فى كل الويكيات]].'''\n\nالمنع عمله $1 ($2).\nو&nbsp;السبب هو ''$3''.\n\n* بدء المنع: $4\n* انتهاء المنع: $5\n\nعنوان بروتوكول الإنترنت بتاع حضرتك هو $6.\nبتاع حضرتك ذكر كل التفاصيل اللى  مكتوبه فوق لما حضرتك تستعلم عنها.\n\nلو حضرتك شايف إن المنع اتعمل لأسباب  غلط أو مشكله معينه، ممكن تلاقى معلومات وإرشادات إضافية ف السياسه العامه [[m:Special:MyLanguage/No open proxies|لا بروكسيات مفتوحة]].\nخلاف كده، لو عاوز مناقشة المنع [[m:Steward requests/Global|حط  طلب مراجعة المنع فى ميتاويكى]].",
+	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت الخاص بتاع حضرتك [[m:Special:MyLanguage/Global blocks|تم منعه فى كل الويكيات]].'''\n\nالمنع عمله $1 ($2).\nو&nbsp;السبب هو ''$3''.\n\n* بدء المنع: $4\n* انتهاء المنع: $5\n\nعنوان بروتوكول الإنترنت بتاع حضرتك هو $6.\nبتاع حضرتك ذكر كل التفاصيل اللى  مكتوبه فوق لما حضرتك تستعلم عنها.\n\nلو حضرتك شايف إن المنع اتعمل لأسباب  غلط أو مشكله معينه، ممكن تلاقى معلومات و إرشادات إضافيه ف السياسه العامه [[m:Special:MyLanguage/No open proxies|لا بروكسيات مفتوحه]].\nخلاف كده، لو عاوز مناقشة المنع [[m:Steward requests/Global|حط  طلب مراجعة المنع فى ميتاويكى]].",
 	"wikimedia-statslink": "احصائيات",
 	"wikimedia-cookiestatement": "بيان الكوكيز"
 }
