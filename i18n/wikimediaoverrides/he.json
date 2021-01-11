@@ -15,7 +15,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]",
 	"wikimedia-centralauth-groupname": "קרן ויקימדיה",
 	"wikimedia-centralauth-login-error-locked": "<strong>החשבון הזה [[m:Special:MyLanguage/Global locks|נעול באופן גלובלי]].</strong> לא {{GENDER:$1|תוכל|תוכלי}} להיכנס לשום אתר ויקי של ויקימדיה. נא [[m:Special:Contact/stewards|ליצור קשר עם הדיילים]] אם יש לך שאלות.",
-	"wikimedia-centralauth-uwbr-intro": "הדף הזה מכיל רשימת משתמשים שרשומים לוויקי הזה וששם המשתמש שלהם ישונה בשל [[m:Single User Login finalisation announcement|השלמת מיזוג החשבונות]]. מידע נוסף זמין ב[[m:Help:Unified login|דף בנושא החשבון המאוחד]]. משתמשים יכולים שינויישנוי שם בכל זמן באמצעות הדף [[Special:GlobalRenameRequest]].",
+	"wikimedia-centralauth-uwbr-intro": "הדף הזה מציג רשימת משתמשים שרשומים לוויקי הזה וששם המשתמש שלהם ישונה בשל [[m:Single User Login finalisation announcement|השלמת מיזוג החשבונות]]. מידע נוסף זמין ב[[m:Help:Unified login|דף בנושא החשבון המאוחד]]. משתמשים יכולים שינויישנוי שם בכל זמן באמצעות הדף [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "לפני 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:בחירת שם משתמש",
 	"wikimedia-delete-toobig": "לדף זה יש היסטוריית עריכות גדולה, שמכילה יותר {{PLURAL:$1|מגרסה אחת|מ־$1 גרסאות}}.\nמחיקת דפים עם היסטוריית עריכה גדולה מאוד הוגבלה כדי למנוע בעיות בתפקוד של {{SITENAME}}.\nנא ליצור קשר עם ה[[m:Special:MyLanguage/Stewards|דיילים]] בדף [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] שבמטא־ויקי כדי לבקש את המחיקה של הדף הזה.",

@@ -30,5 +30,7 @@
 	"wikimedia-torblock-blocked": "'O ndirizzo IP vuosto, <strong>$1</strong>, è stato identificato automatecamente comm'a nu exid node for.\n'E cagnamiente cu Tor so' state bluccate pe' putè mpiccià abbuse.\nPe' n'avè cchiù nfurmaziune e struziune pe' l'utente leggittimate, liggete 'e puliteche globbale [[m:Special:MyLanguage/No open proxies|nisciuna proxy araputa]]",
 	"upload-form-label-own-work-message-commons": "Faccio attestato ca songo 'o detentore d' 'o copyright 'e stu file, e so' d'accordo 'e lassà irrevocabbelmente stu file a Wikimedia Commons sott'a licienza [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribuziona-SparteEguale 4.0], e so' d'accordo cu sti [https://foundation.wikimedia.org/wiki/Terms_of_Use Termene d'Uso].",
 	"upload-form-label-not-own-work-message-commons": "Si nun tenite 'o copyright 'e stu file, o pure 'o vulite lassà libbero cu n'ata licienza, cunziderate 'ausà 'o [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
-	"upload-form-label-not-own-work-local-commons": "Putite pure tentà 'e ausà [[Special:Upload|'a paggena 'e carreche 'e {{SITENAME}}]], si stu sito ve premmettesse 'e carrecà llanno pe' bbìa d' 'e pulitiche."
+	"upload-form-label-not-own-work-local-commons": "Putite pure tentà 'e ausà [[Special:Upload|'a paggena 'e carreche 'e {{SITENAME}}]], si stu sito ve premmettesse 'e carrecà llanno pe' bbìa d' 'e pulitiche.",
+	"wikimedia-statslink": "Statistiche",
+	"wikimedia-cookiestatement": "Dicerazzione ncopp'ê cookie"
 }
