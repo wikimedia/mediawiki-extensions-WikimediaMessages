@@ -3,6 +3,7 @@
 		"authors": [
 			"Amire80",
 			"Liuxinyu970226",
+			"Luke081515",
 			"Reedy",
 			"Robby",
 			"Shirayuki",
@@ -82,5 +83,13 @@
 	"contactpage-movecom-signup-display-name": "Select to be displayed by name on [[Movement communications group]]\n{{Identical|Name}}",
 	"contactpage-movecom-signup-display-username": "Select to be displayed by username on [[Movement communications group]]",
 	"contactpage-movecom-signup-display-nameusername": "Select to be displayed by username and name on [[Movement communications group]]",
-	"contactpage-movecom-signup-terms-label": "Terms for joining [[Movement communications group]]"
+	"contactpage-movecom-signup-terms-label": "Terms for joining [[Movement communications group]]",
+        "contactpage-title-ombudscommission": "Page title on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-case-explanation": "Label for the case description field on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-relevant-links":  "Label for the relevant links field on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-violation-type": "Label for the violation type field on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-involved-users": "Label for the involved users field on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-affected-accounts": "Label for the affected accounts field on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-proposed-solution": "Label for the proposed solution field on [[meta:Special:Contact/ombudscommission]].",
+        "contactpage-ombudscommission-additional-information": "Label for the additional information field on [[meta:Special:Contact/ombudscommission]]."
 }
