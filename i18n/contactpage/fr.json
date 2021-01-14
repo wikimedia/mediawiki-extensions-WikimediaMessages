@@ -82,5 +82,13 @@
 	"contactpage-movecom-signup-display-name": "Nom",
 	"contactpage-movecom-signup-display-username": "Nom d’utilisateur",
 	"contactpage-movecom-signup-display-nameusername": "Nom et nom d’utilisateur",
-	"contactpage-movecom-signup-terms-label": "J’ai lu la description du [[Movement communications group|groupe de communications du mouvement]] et j’accepte de suivre la [[Foundation:Friendly space policy|politique d’espace amical de la Fondation Wikimedia]] lors de ma participation à ce groupe. Je comprends que tout manquement à suivre cette politique aboutira à ma suppression de ce groupe."
+	"contactpage-movecom-signup-terms-label": "J’ai lu la description du [[Movement communications group|groupe de communications du mouvement]] et j’accepte de suivre la [[Foundation:Friendly space policy|politique d’espace amical de la Fondation Wikimedia]] lors de ma participation à ce groupe. Je comprends que tout manquement à suivre cette politique aboutira à ma suppression de ce groupe.",
+	"contactpage-title-ombudscommission": "Contacter la commission Ombuds",
+	"contactpage-ombudscommission-case-explanation": "Expliquer ce qui s’est passé :",
+	"contactpage-ombudscommission-relevant-links": "Fournir les URL pour les actions ou les pages du wiki :",
+	"contactpage-ombudscommission-violation-type": "En quelques mots, expliquer quelle règle du wiki a été violée :",
+	"contactpage-ombudscommission-involved-users": "De quels utilisateurs vous plaignez-vous ? Fournir leurs noms d’utilisateur wiki :",
+	"contactpage-ombudscommission-affected-accounts": "Quels comptes sont affectés par la plainte ? Si personne d’autre que vous n’est affecté, vous pouvez sauter ce champ.",
+	"contactpage-ombudscommission-proposed-solution": "Quelle solution proposez-vous ? Quelles sont vos attentes de la commission ?",
+	"contactpage-ombudscommission-additional-information": "Ajouter toute autre information que vous pensez utile pour la compréhension de ce cas."
 }
