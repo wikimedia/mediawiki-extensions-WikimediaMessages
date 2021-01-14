@@ -86,5 +86,6 @@
 	"contactpage-ombudscommission-involved-users": "What users are you complaining about? Provide their wiki usernames:",
 	"contactpage-ombudscommission-affected-accounts": "Which accounts are affected by this complaint? If nobody else than you was affected, you can skip this field.",
 	"contactpage-ombudscommission-proposed-solution": "What solution would you propose? What are your expectations from the commission?",
-	"contactpage-ombudscommission-additional-information": "Add any other information that you believe to be relevant for the understanding of this case."
+	"contactpage-ombudscommission-additional-information": "Add any other information that you believe to be relevant for the understanding of this case.",
+	"contactpage-ombudscommission-disclaimer-label": "Disclaimer: All information you include in this form is submitted to, processed by, and responded to by volunteer community members (specifically members of the [[Special:MyLanguage/Ombuds commission|Ombuds Commission]]), not the Wikimedia Foundation. Please do not include any information that you are not comfortable sharing with Wikimedia volunteers. Responses and other correspondence related to processing your submitted information are not to be considered official statements of the Wikimedia Foundation. For official correspondence, please contact the Wikimedia Foundation through the methods listed on https://wikimediafoundation.org/about/contact/."
 }
