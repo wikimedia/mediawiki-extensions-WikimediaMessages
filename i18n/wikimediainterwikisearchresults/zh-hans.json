@@ -3,6 +3,7 @@
 		"authors": [
 			"A Chinese Wikipedian",
 			"Liuxinyu970226",
+			"Yfdyh000",
 			"沈澄心"
 		]
 	},
@@ -12,6 +13,7 @@
 	"search-interwiki-results-afwiki": "显示来自[[:af:|南非语维基百科]]的结果。",
 	"search-interwiki-results-akwiki": "显示来自[[:ak:|阿肯语维基百科]]的结果。",
 	"search-interwiki-results-alswiki": "显示来自[[:als:|阿勒曼尼语维基百科]]的结果。",
+	"search-interwiki-results-altwiki": "显示[[:alt:|阿尔泰语维基百科]]的结果。",
 	"search-interwiki-results-amwiki": "显示来自[[:am:|阿姆哈拉语维基百科]]的结果。",
 	"search-interwiki-results-angwiki": "显示来自[[:ang:|古英语维基百科]]的结果。",
 	"search-interwiki-results-anwiki": "显示来自[[:an:|阿拉贡语维基百科]]的结果。",

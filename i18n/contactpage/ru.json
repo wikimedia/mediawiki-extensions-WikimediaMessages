@@ -9,7 +9,8 @@
 			"Movses",
 			"Okras",
 			"Putnik",
-			"ToJack"
+			"ToJack",
+			"Wileyfoxyx"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",
@@ -83,5 +84,6 @@
 	"contactpage-movecom-signup-display-name": "Реальное имя",
 	"contactpage-movecom-signup-display-username": "Название учётной записи",
 	"contactpage-movecom-signup-display-nameusername": "Реальное имя и название учётной записи",
-	"contactpage-movecom-signup-terms-label": "Я прочёл описание [[Movement communications group|группы контактов движения]] и согласен следовать [[Foundation:Friendly space policy|политике дружелюбного пространства Фонда Викимедиа]] при участии в деятельности этой группы. Я понимаю, что несоблюдение этой политики приведет к удалению из группы."
+	"contactpage-movecom-signup-terms-label": "Я прочёл описание [[Movement communications group|группы контактов движения]] и согласен следовать [[Foundation:Friendly space policy|политике дружелюбного пространства Фонда Викимедиа]] при участии в деятельности этой группы. Я понимаю, что несоблюдение этой политики приведет к удалению из группы.",
+	"contactpage-ombudscommission-case-explanation": "Объясните, что случилось:"
 }

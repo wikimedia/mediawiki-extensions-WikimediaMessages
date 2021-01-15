@@ -4,6 +4,7 @@
 			"Csbotero",
 			"Fitoschido",
 			"Macofe",
+			"MarleneR329",
 			"Tiberius1701"
 		]
 	},
@@ -61,5 +62,6 @@
 	"contactpage-affcom-user-group-terms-label": "He leído y estoy de acuerdo con las reglas anteriores y con el [[Wikimedia user groups/Agreement and code of conduct|acuerdo y código de conducta de los grupos de usuarios]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "''Si quieres usar el '''logotipo de Wikimedia''', puedes [[Special:Contact/requestlicense|solicitar una licencia de marca]].''",
 	"contactpage-affcom-user-group-logo-community": "Logotipo de la comunidad Wikimedia",
-	"contactpage-affcom-user-group-logo-affiliate": "Logotipo de afiliado a Wikimedia"
+	"contactpage-affcom-user-group-logo-affiliate": "Logotipo de afiliado a Wikimedia",
+	"contactpage-ombudscommission-case-explanation": "Explica lo que ha pasado:"
 }
