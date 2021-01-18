@@ -83,12 +83,13 @@
 	"contactpage-movecom-signup-display-username": "Nom d’utilisateur",
 	"contactpage-movecom-signup-display-nameusername": "Nom et nom d’utilisateur",
 	"contactpage-movecom-signup-terms-label": "J’ai lu la description du [[Movement communications group|groupe de communications du mouvement]] et j’accepte de suivre la [[Foundation:Friendly space policy|politique d’espace amical de la Fondation Wikimedia]] lors de ma participation à ce groupe. Je comprends que tout manquement à suivre cette politique aboutira à ma suppression de ce groupe.",
-	"contactpage-title-ombudscommission": "Contacter la commission Ombuds",
-	"contactpage-ombudscommission-case-explanation": "Expliquer ce qui s’est passé :",
+	"contactpage-title-ombudscommission": "Contacter la commission de médiation",
+	"contactpage-ombudscommission-case-explanation": "Expliquer ce qui s’est passé :",
 	"contactpage-ombudscommission-relevant-links": "Fournir les URL pour les actions ou les pages du wiki :",
 	"contactpage-ombudscommission-violation-type": "En quelques mots, expliquer quelle règle du wiki a été violée :",
 	"contactpage-ombudscommission-involved-users": "De quels utilisateurs vous plaignez-vous ? Fournir leurs noms d’utilisateur wiki :",
 	"contactpage-ombudscommission-affected-accounts": "Quels comptes sont affectés par la plainte ? Si personne d’autre que vous n’est affecté, vous pouvez sauter ce champ.",
 	"contactpage-ombudscommission-proposed-solution": "Quelle solution proposez-vous ? Quelles sont vos attentes de la commission ?",
-	"contactpage-ombudscommission-additional-information": "Ajouter toute autre information que vous pensez utile pour la compréhension de ce cas."
+	"contactpage-ombudscommission-additional-information": "Ajouter toute autre information que vous pensez utile pour la compréhension de ce cas.",
+	"contactpage-ombudscommission-disclaimer-label": "Avertissement : Toute information que vous incluez dans ce formulaire est soumise à, traitée par, et répondus par des membres bénévoles de la communauté (en particulier des membres de la [[Special:MyLanguage/Ombuds commission|commission de médiation]]), non de la Wikimedia Foundation. Veuillez ne pas inclure d’information que vous n’aimeriez pas partager avec des bénévoles de Wikimedia. Les réponses et autres échanges relatifs au traitement de vos informations envoyées ne sont pas considérés comme des déclarations officielles de la Wikimedia Foundation. Pour une correspondance officielle, veuillez contacter la Wikimedia Foundation via les méthodes listées sur https://wikimediafoundation.org/about/contact/."
 }

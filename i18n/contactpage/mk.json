@@ -75,5 +75,14 @@
 	"contactpage-movecom-signup-display-name": "Име",
 	"contactpage-movecom-signup-display-username": "Корисничко име",
 	"contactpage-movecom-signup-display-nameusername": "Име и презиме",
-	"contactpage-movecom-signup-terms-label": "Го прочитав описот на [[Movement communications group|Групата за општење во движењето]] и се согласувам да се придржувам кон [[Foundation:Friendly space policy|правилата за љубезност на просторот]] кога учествувам во групава. Разбирам дека ќе бидам отстранет од неа доколку не се придржувам до правилата."
+	"contactpage-movecom-signup-terms-label": "Го прочитав описот на [[Movement communications group|Групата за општење во движењето]] и се согласувам да се придржувам кон [[Foundation:Friendly space policy|правилата за љубезност на просторот]] кога учествувам во групава. Разбирам дека ќе бидам отстранет од неа доколку не се придржувам до правилата.",
+	"contactpage-title-ombudscommission": "Контактирајте ја Правозастапничката комиисја",
+	"contactpage-ombudscommission-case-explanation": "Објаснете што се случи:",
+	"contactpage-ombudscommission-relevant-links": "Дајте URL-а за дејствата или страниците на викито:",
+	"contactpage-ombudscommission-violation-type": "Накратко објаснете кое правило е прекршено:",
+	"contactpage-ombudscommission-involved-users": "На кои корисници се поплакувате? Дајте ги нивните кориснички имиња:",
+	"contactpage-ombudscommission-affected-accounts": "Кои сметки се засегнати од оваа жалба? Ако вие сте единственото засегнато лице, можете да го прескокнете ова поле.",
+	"contactpage-ombudscommission-proposed-solution": "Какво решение предлагате? Ки ви се очекувањата од комисијата?",
+	"contactpage-ombudscommission-additional-information": "Додајте други информации кои сметате дека би помогнале да се добие подобра претстава за случајов.",
+	"contactpage-ombudscommission-disclaimer-label": "Напомена: Сите информации што ќе ги наведете во образецов одат кај и доброволци од заедницата (поточно [[Special:MyLanguage/Ombuds commission|правозастапничката комисија]], кои воедно го обработуваат добиеното и даваат одговори), а не кај Фондацијата Викимедија. Не ставајте иноформации што не сакате да ги споделите со доброволците на Викимедија. Одговорите и другите преписки во врска со обработката на поднесените информации не претставуваат официјални изјави на Фондацијата Викимедија. За официјална преписка, обратете се кај Фондацијата на еден од начините наведени https://wikimediafoundation.org/about/contact/."
 }

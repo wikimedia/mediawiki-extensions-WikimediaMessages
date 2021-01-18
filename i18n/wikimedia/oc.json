@@ -4,7 +4,8 @@
 			"Cedric31",
 			"Jfblanc",
 			"McDutchie",
-			"Nemo bis"
+			"Nemo bis",
+			"Nicolas Eynaud"
 		]
 	},
 	"wikimediamessages-desc": "Messatges especifics de Wikimedia",
@@ -99,5 +100,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Un o mantun servidor proxy qu'avètz utilizat es  [[m:Special:MyLanguage/Global blocks|blocat sus totes los wikis]].'''\n\nLo blocatge es estat efectuat per $1 ($2).\nLo motiu provesit es ''$3''.\n\n* Començament del blocatge : $4\n* Fin del blocatge : $5\n\nL'adreça proxy qu'es estada blocada es $6.\nInclusissètz totes los detalhs çaisús dins tota demanda que fariatz.\n\nSe pensatz que sètz estat blocat per error, podètz trobar mai d’informacion e d’instruccions dins la politica globala [[m:Special:MyLanguage/No open proxies|Pas de mandatari dobèrt]].\nSiquenon, per discutir d'aqueste blocatge, [[m:Steward requests/Global|mandatz una demanda de revision sus Meta-Wiki]].",
 	"interlanguage-link-mul": "Mai de lengas",
 	"interlanguage-link-sitename-wikipedia": "Wikipèdia, l’enciclopèdia liura",
+	"wikimedia-statslink": "Estatisticas",
 	"wikimedia-cookiestatement": "Declaracion suls cookies"
 }
