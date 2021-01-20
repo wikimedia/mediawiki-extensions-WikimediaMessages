@@ -85,5 +85,6 @@
 	"contactpage-ombudscommission-involved-users": "De quais usuários você está reclamando? Forneça seus nomes de usuário da wiki:",
 	"contactpage-ombudscommission-affected-accounts": "Quais contas são afetadas por esta reclamação? Se ninguém mais do que você foi afetado, você pode pular este campo.",
 	"contactpage-ombudscommission-proposed-solution": "Que solução você proporia? Quais são as suas expectativas da comissão?",
-	"contactpage-ombudscommission-additional-information": "Adicione quaisquer outras informações que você acredite ser relevantes para a compreensão deste caso."
+	"contactpage-ombudscommission-additional-information": "Adicione quaisquer outras informações que você acredite ser relevantes para a compreensão deste caso.",
+	"contactpage-ombudscommission-disclaimer-label": "Isenção de responsabilidade: Todas as informações que você inclui neste formulário são enviadas, processadas e respondidas por membros voluntários da comunidade (especificamente membros da [[Special:MyLanguage/Ombuds commission|Ombuds Commission]]), não da Fundação Wikimedia. Por favor, não inclua nenhuma informação que você não se sinta confortável em compartilhar com os voluntários da Wikimedia. Respostas e outras correspondências relacionadas ao processamento de suas informações enviadas não devem ser consideradas declarações oficiais da Wikimedia Foundation. Para correspondência oficial, entre em contato com a Wikimedia Foundation por meio dos métodos listados em https://wikimediafoundation.org/about/contact/."
 }

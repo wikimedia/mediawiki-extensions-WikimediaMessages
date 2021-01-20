@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
+			"EditGio",
 			"Maria victoria",
 			"Martinligabue",
 			"Ontsed",
@@ -47,5 +48,7 @@
 	"contactpage-movecom-signup-affiliate-label": "Nome del tuo gruppo Wikimedia o affiliato (se applicabile)",
 	"contactpage-movecom-signup-display-name": "Nome",
 	"contactpage-movecom-signup-display-username": "Nome utente",
-	"contactpage-movecom-signup-display-nameusername": "Nome e nome utente"
+	"contactpage-movecom-signup-display-nameusername": "Nome e nome utente",
+	"contactpage-ombudscommission-case-explanation": "Spiega che cosa è accaduto:",
+	"contactpage-ombudscommission-additional-information": "Aggiungi qualsiasi altra informazione che ritieni pertinente per la comprensione di questo caso."
 }

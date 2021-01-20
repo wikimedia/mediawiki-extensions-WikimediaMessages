@@ -9,9 +9,9 @@
 		]
 	},
 	"wikimediamessages-desc": "Dočasná hlášení specifická pro projekty Wikimedia",
-	"grouppage-oversight": "{{ns:project}}:Dozorci",
-	"group-oversight": "Dozorci",
-	"group-oversight-member": "{{GENDER:$1|dozorce|dozorkyně}}",
+	"grouppage-oversight": "{{ns:project}}:Utajovatelé",
+	"group-oversight": "Utajovatelé",
+	"group-oversight-member": "{{GENDER:$1|utajovatel|utajovatelka}}",
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
 	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",

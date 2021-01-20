@@ -5,7 +5,8 @@
 			"Kuailong",
 			"Liuxinyu970226",
 			"Shizhao",
-			"WhitePhosphorus"
+			"WhitePhosphorus",
+			"Yfdyh000"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账户}}，这是此时间段内允许创建的最大数量。因此，使用此IP地址的访客目前不能再创建更多账户。\n\n如果您加入了以贡献维基媒体项目为中心的活动中的话，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
@@ -16,6 +17,7 @@
 	"wikimedia-centralauth-uwbr-registration-nodate": "2006年以前",
 	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",
 	"wikimedia-delete-toobig": "此页面有巨大的编辑历史，超过$1个{{PLURAL:$1|修订版本}}。删除拥有非常大编辑历史的页面已被限制，以阻止对{{SITENAME}}的意外破坏。请在[[m:Steward requests/Miscellaneous|元维基请求页面]]联络[[m:Special:MyLanguage/Stewards|监管员]]请求删除此页面。",
+	"wikimedia-discussiontools-replywidget-terms-click": "点击“$1”即表示您同意我们的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用条款]，并不可撤销地同意以[https://creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享 署名-相同方式共享3.0]和[https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]许可协议发布您提交的内容。",
 	"wikimedia-feedback-termsofuse": "我同意按照<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">使用条款</a>提供反馈。",
 	"wikimedia-flow-terms-of-use-new-topic": "点击“{{int:flow-newtopic-save}}”，即表示您同意遵守我们的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用条款]，并同意采用[https://creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享署名-相同方式共享 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]发表您的文字，该授权不可撤回。",
 	"wikimedia-flow-terms-of-use-reply": "点击“{{int:flow-reply-link}}”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用条款]，并同意采用[https://creativecommons.org/licenses/by-sa/3.0/deed.zh 知识共享署名-相同方式共享 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]发表您的文字，该授权不可撤回。",

@@ -4,5 +4,11 @@
 			"RFScott"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "атрибуция"
+	"wm-license-cc-free": "Эй улэнди, мутэйсу:",
+	"wm-license-cc-free-to-share-header": "борима̄чиори",
+	"wm-license-cc-free-to-share-text": "эй дякава дяпаори, бӯвури.",
+	"wm-license-cc-free-to-remix-header": "тагоми аӈговори",
+	"wm-license-cc-free-to-remix-text": "эйвэ таговорит",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
+	"wm-license-cc-conditions-share_alike-header": "тэй колиди гэлэури"
 }
