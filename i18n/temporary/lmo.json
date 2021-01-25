@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Salvemm el lombard"
+		]
+	},
+	"wikimediamessages-desc": "Messagg temporani specifich per Wikimedia",
+	"grouppage-oversight": "{{ns:project}}:Supervision",
+	"group-oversight": "Supervisor",
+	"group-oversight-member": "{{GENDER:$1|supervision}}",
+	"hello": "S'ciao",
+	"please-translate": "Ajutom a tradù in la toa lengua",
+	"thank-you": "{{GENDER:$1|Grazzie.}}",
+	"specialblockfeedback": "To coment e opinion",
+	"specialinvestigate-feedback": "Lassa giò 'n coment"
+}

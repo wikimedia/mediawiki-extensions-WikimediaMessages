@@ -10,6 +10,7 @@
 			"Nemo bis",
 			"Pokéfan95",
 			"Sky Harbor",
+			"Yivangamer",
 			"לערי ריינהארט"
 		]
 	},
@@ -132,5 +133,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|Hinarang sa lahat ng wiki]] ang iyong direksiyong IP.'''\n\nGinawa ni $1 ($2) ang pagharang.\nIto ang ibinigay na dahilan: ''$3''.\n\n* Simula ng pagharang: $4\n* Katapusan ng pagharang: $5\n\nAng kasalukuyan mong direksiyong IP ay $6.\nPakisama ang lahat ng mga detalyeng nasa itaas sa anumang mga pagtatanong na ginagawa o gagawin mo.\n\nKung naniniwala kang mali ang ginawang pagharang sa inyo, maaari mong makita ang karagdagang impormasyon at alituntunin sa patakarang global na [[m:Special:MyLanguage/No open proxies|nagbabawal sa bukas na ''proxy'']].\nSa gayon, mangyaring [[m:Steward requests/Global|magpaskil ng hiling sa pagsusuri sa Meta-Wiki]] upang pag-usapan ang pagharang.",
 	"wikimediashoplink-linktext": "Tindahan ng Wikimedia",
 	"wikimediashoplink-link-tooltip": "Dumalaw sa Tindahan ng Wikimedia",
+	"wikimedia-statslink": "Mga estadistika",
 	"ext-quicksurveys-performance-internal-survey-question": "Mabilis ba ang pag-load ng page?"
 }

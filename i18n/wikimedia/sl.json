@@ -110,6 +110,8 @@
 	"group-translationadmin": "Upravitelji prevodov",
 	"group-translationadmin-member": "{{GENDER:$1|upravitelj|upraviteljica}} prevodov",
 	"grouppage-translationadmin": "{{ns:project}}:Upravitelji prevodov",
+	"tag-emoji": "emodži",
+	"tag-emoji-description": "Oznako uporablja globalni filter zlorab 110.",
 	"tag-AWB": "[https://sl.wikipedia.org/wiki/Wikipedija:Orodja#AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Urejanja z [https://sl.wikipedia.org/wiki/Wikipedija:Orodja#AutoWikiBrowser AutoWikiBrowserjem]",
 	"shared-repo-name-shared": "Wikimedijina zbirka",
