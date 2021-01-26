@@ -6,6 +6,7 @@
 			"Maria victoria",
 			"Martinligabue",
 			"Ontsed",
+			"Superpes15",
 			"Toadino2"
 		]
 	},
@@ -49,6 +50,13 @@
 	"contactpage-movecom-signup-display-name": "Nome",
 	"contactpage-movecom-signup-display-username": "Nome utente",
 	"contactpage-movecom-signup-display-nameusername": "Nome e nome utente",
+	"contactpage-title-ombudscommission": "Contatta l'ombuds commission",
 	"contactpage-ombudscommission-case-explanation": "Spiega che cosa è accaduto:",
-	"contactpage-ombudscommission-additional-information": "Aggiungi qualsiasi altra informazione che ritieni pertinente per la comprensione di questo caso."
+	"contactpage-ombudscommission-relevant-links": "Fornisci gli URL delle azioni o delle pagine su wiki:",
+	"contactpage-ombudscommission-violation-type": "In poche parole spiega quale linea guida di wiki è stata violata:",
+	"contactpage-ombudscommission-involved-users": "Quali utenti stai contestando? Inserisci i loro nomi utente su wiki:",
+	"contactpage-ombudscommission-affected-accounts": "Quali account sono interessati da questo reclamo? Se nessun altro è affetto oltre a te puoi saltare questo campo.",
+	"contactpage-ombudscommission-proposed-solution": "Quale soluzione proporresti? Quali sono le tue aspettative dalla commissione?",
+	"contactpage-ombudscommission-additional-information": "Aggiungi qualsiasi altra informazione che ritieni pertinente per la comprensione di questo caso.",
+	"contactpage-ombudscommission-disclaimer-label": "Disclaimer: Tutte le informazioni che includi in questo modulo di contatto vengono inviate, elaborate e riscontrate da membri volontari della comunità (nello specifico i membri della [[Special:MyLanguage/Ombuds commission|Ombuds Commission]]), non dalla Wikimedia Foundation. Ti preghiamo di non inserire alcuna informazione che non ti senti di condividere con i volontari di Wikimedia. Le risposte e la corrispondenza relativa all'elaborazione delle informazioni inviate non devono essere considerate dichiarazioni ufficiali della Wikimedia Foundation. Per la corrispondenza ufficiale contatta la Wikimedia Foundation tramite i metodi elencati su https://wikimediafoundation.org/about/contact/."
 }
