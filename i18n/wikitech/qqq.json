@@ -10,9 +10,9 @@
 	"group-cloudadmin": "{{optional}}\n{{doc-group|cloudadmin}}\nSpecific user group description for Wikitech.",
 	"group-cloudadmin-member": "{{optional}}\n{{doc-group|cloudadmin|member}}\nSpecific user group for Wikitech.",
 	"grouppage-cloudadmin": "{{optional}}\n{{doc-group|cloudadmin|page}}\nSpecific user group information page for Wikitech.",
-	"group-oathauth":"{{optional}}\n{{doc-group|oathauth}}\nSpecific user group description for Wikitech.",
-	"group-oathauth-member":"{{optional}}\n{{doc-group|oathauth|member}}\nSpecific user group description for Wikitech.",
-	"grouppage-oathauth":"{{optional}}\n{{doc-group|oathauth|page}}\nSpecific user group description for Wikitech.",
+	"group-oathauth": "{{optional}}\n{{doc-group|oathauth}}\nSpecific user group description for Wikitech.",
+	"group-oathauth-member": "{{optional}}\n{{doc-group|oathauth|member}}\nSpecific user group description for Wikitech.",
+	"grouppage-oathauth": "{{optional}}\n{{doc-group|oathauth|page}}\nSpecific user group description for Wikitech.",
 	"group-shell": "{{optional}}\n{{doc-group|shell}}\nSpecific user group description for Wikitech.",
 	"group-shell-member": "{{optional}}\n{{doc-group|shell|member}}\nSpecific user group for Wikitech.",
 	"grouppage-shell": "{{optional}}\n{{doc-group|shell|page}}\nSpecific user group information page for Wikitech."
