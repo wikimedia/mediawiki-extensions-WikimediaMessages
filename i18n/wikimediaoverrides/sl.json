@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"wikimedia-centralauth-groupname": "Wikimedie",
 	"createacct-helpusername-url": "{{ns:Project}}:Pravilnik_o_uporabniških_imenih",
+	"wikimedia-feedback-termsofuse": "Strinjam se s posredovanjem povratne informacije v skladu s <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Pogoji uporabe</a>.",
 	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletišča je omejeno na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
 	"wikimedia-sitematrix": "Seznam Wikimedijinih wikijev",
 	"wikimedia-sitematrix-others": "Drugi projekti Wikimedije",
