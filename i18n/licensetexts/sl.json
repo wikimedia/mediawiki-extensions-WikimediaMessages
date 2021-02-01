@@ -38,7 +38,7 @@
 	"wm-license-book-translator": "Prevajalec",
 	"wm-license-book-volume": "Zvezek",
 	"wm-license-book-year-of-publication": "Leto objave",
-	"wm-license-cecill-text": "To delo je [[{{int:wm-license-free-software-wiki-link}}|prosto programje]]; lahko ga razmnožujete ali spreminjate pod pogoji [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Pogoji dovoljenja CeCILL so na voljo na [{{int:wm-license-cecill-full-link}} www.cecill.info].",
+	"wm-license-cecill-text": "To delo je [[{{int:wm-license-free-software-wiki-link}}|prosto programje]]; lahko ga razmnožujete ali spreminjate pod pogoji [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Pogoji licence CeCILL so dostopni na spletnem mestu [{{int:wm-license-cecill-full-link}} www.cecill.info].",
 	"wm-license-creator-alternative-names": "Nadomestna imena",
 	"wm-license-creator-description": "Opis",
 	"wm-license-creator-date-of-birth": "Datum rojstva",
