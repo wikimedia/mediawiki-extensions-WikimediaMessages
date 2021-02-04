@@ -98,7 +98,7 @@
 	"group-rollbacker": "Restarigantoj",
 	"group-rollbacker-member": "{{GENDER:$1|restariganto}}",
 	"grouppage-rollbacker": "{{ns:project}}:Restarigantoj",
-	"group-transwiki": "Importintoj de Transvikio",
+	"group-transwiki": "Transvikiaj importantoj",
 	"group-transwiki-member": "{{GENDER:$1|transvikia importanto}}",
 	"grouppage-transwiki": "{{ns:project}}:Transvikiaj importantoj",
 	"group-trusted": "Fidelaj uzantoj",

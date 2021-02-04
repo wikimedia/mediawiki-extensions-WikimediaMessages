@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Base",
 			"Bugoslav",
 			"Cesco",
 			"EugeneZelenko",
@@ -152,6 +153,7 @@
 	"wikimedia-developers": "Распрацоўнікі",
 	"wikimedia-globalblocking-ipblocked": "'''Ваш IP-адрас быў [[m:Special:MyLanguage/Global blocks|заблякаваны ва ўсіх вікі]].'''\n\nБлякаваньне было зробленае $1 ($2).\nПададзеная прычына: ''$3''.\n\n* Пачатак блякаваньня: $4\n* Сканчэньне блякаваньня: $5\n\nВаш цяперашні IP-адрас: $6.\nКалі ласка, уключайце гэтыя падрабязнасьці ва ўсе вашыя звароты.\n\nКалі вы лічыце, што былі заблякаваныя памылкова, вы можаце знайсьці дадатковыя зьвесткі і інструкцыі ў глябальных правілах [[m:Special:MyLanguage/No open proxies|пра недапушчальнасьць адкрытых проксі]].\nУ адваротным выпадку для абмеркаваньня блякаваньня, калі ласка, [[m:Steward requests/Global|зрабіце запыт пра перагляд у Мэта-Вікі]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Адзін ці некалькі проксі-сэрвэраў, выкарыстаных у вашым запыце, [[m:Special:MyLanguage/Global blocks|заблякаваныя глябальна]].'''\n\nБлякаваньне было зробленае $1 ($2).\nПададзеная прычына: ''$3''.\n\n* Пачатак блякаваньня: $4\n* Канец блякаваньня: $5\n\nЗаблякаваны проксі-адрас: $6.\nКалі ласка, уключайце ўсе гэтыя дэталі ў звароты, якія будзеце рабіць.\n\nКалі вы лічыце, што былі заблякаваныя памылкова, вы можаце знайсьці дадатковыя зьвесткі і інструкцыі ў глябальных правілах пра [[m:Special:MyLanguage/No open proxies|недапушчальнасьць адкрытых проксі]].\nУ іншым выпадку, каб абмеркаваць блякаваньне, калі ласка, [[m:Steward requests/Global|зрабіце запыт пра перагляд на Мэта-вікі]].",
+	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/be-tarask",
 	"upload-form-label-own-work-message-commons": "Я пацьвярджаю, што зьяўляюся ўласьнікам аўтарскіх правоў на гэты файл, і згодны незваротна перадаць гэты файл ў Вікісховішча на ўмовах ліцэнзіі [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0], а таксама згодны з [https://foundation.wikimedia.org/wiki/Terms_of_Use умовамі выкарыстаньня].",
 	"upload-form-label-not-own-work-message-commons": "Калі вы не зьяўляецеся ўласьнікам аўтарскіх правоў на гэты файл, або вы жадаеце распаўсюджваць яго пад іншай ліцэнзіяй, можаце скарыстацца [https://commons.wikimedia.org/wiki/Special:UploadWizard Майстарам загрузкі ў Вікісховішча].",
 	"upload-form-label-not-own-work-local-commons": "Вы таксама можаце скарыстацца [[Special:Upload|старонкай загрузкі {{GRAMMAR:родны|{{SITENAME}}}}]], калі правілы сайту дазваляюць загрузку такога файлу.",
