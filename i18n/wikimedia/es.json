@@ -184,7 +184,7 @@
 	"group-trusted": "Usuarios confiables",
 	"group-trusted-member": "{{GENDER:$1|usuario|usuaria}} de confianza",
 	"grouppage-trusted": "{{ns:project}}:Usuarios de confianza",
-	"group-uploader": "Subidores",
+	"group-uploader": "Cargadores",
 	"group-uploader-member": "{{GENDER:$1|subidor|subidora}}",
 	"grouppage-uploader": "{{ns:project}}:Subidores",
 	"group-wikidata-staff": "Personal de Wikidata",
