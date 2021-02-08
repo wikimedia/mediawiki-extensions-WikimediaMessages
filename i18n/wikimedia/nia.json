@@ -16,6 +16,7 @@
 	"wikimedia-developers": "Pengembang",
 	"wikimedia-globalblocking-ipblocked": "'''Alamat IP-mö no [[m:Special:MyLanguage/Global blocks|teba'agö moroi ba wiki fefu]].'''\n\nSame fomba'agö $1 ($2).\nBörö \"$3\".\n\n* Tebörögö womba'agö: $4\n* Ahori womba'agö: $5\n\nAlamat IP-mö iada'a $6\nFaogö fefu nisura andrö yaŵa na ösura wanofu.\n\nNa faduhu dödöu wa no sala woba'agö ya'ugö, ae faigi nönö-nönö informasi ba instruktsi ba [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\n\nNa lö'ö, tola öfahuhuosi womba'agö andre [[m:Steward requests/Global|sura wangandrö fambatimba ba Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sambua ma töra server proksi ni'aluimö no [[m:Special:MyLanguage/Global blocks|toba'agö global]]'''\n\nSomba'agö $1 ($2).\nBörö \"$3\".\n\n* i'otarai ba $4\n* irugi ba $5\n\nAlamat proksi niba'agö $6.\nFa'oli fefu da'a yaŵa na ösura wanofumö.\n\nNa molo'ö ya'ugö no fasala wa toba'agö ndra'ugö, so nönö informasi ba instruksi ba gangetula global [[m:Special:MyLanguage/No open proxies|Lö proksi si teboka]].\nMa zui [[m:Steward requests/Global|fahuhuosi womba'agö andre yaŵa ba Meta-Wiki]].",
+	"interlanguage-link-sitename-wikipedia": "Wikipedia, ensiklopedia zato",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Sanandrösa ba kuki"
 }

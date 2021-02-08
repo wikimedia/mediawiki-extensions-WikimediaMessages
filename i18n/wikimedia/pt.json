@@ -74,6 +74,7 @@
 	"grouppage-abusefilter": "{{ns:project}}:Editores de filtros de abuso",
 	"group-abusefilter-helper": "Auxiliares de filtros de abuso",
 	"group-abusefilter-helper-member": "{{GENDER:$1|auxiliar de filtros de abuso}}",
+	"group-abusefilter-maintainer": "Mantenedores de filtro de abuso",
 	"group-accountcreator": "Criadores de contas",
 	"group-accountcreator-member": "{{GENDER:$1|criador|criadora}} de contas",
 	"grouppage-accountcreator": "{{ns:project}}:Criadores de contas",
@@ -288,7 +289,7 @@
 	"restriction-level-superprotect": "superproteger",
 	"action-templateeditor": "editar predefinições protegidas",
 	"right-templateeditor": "Editar predefinições protegidas",
-	"restriction-level-templateeditor": "proteção como predefinição",
+	"restriction-level-templateeditor": "protegida para editores de planilhas",
 	"protect-level-templateeditor": "Permitir apenas editores de predefinições e administradores",
 	"action-extendedconfirmed": "editar páginas restringidas",
 	"right-extendedconfirmed": "Editar páginas restringidas",
@@ -339,6 +340,8 @@
 	"restriction-level-editautopatrolprotected": "protegida para autopatrulhadores",
 	"right-editautopatrolprotected": "Editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
+	"group-docseditor": "Editores de documentação",
+	"group-docseditor-member": "{{GENDER:$1|editor de documentação}}",
 	"action-docseditor": "editar documentação",
 	"right-docseditor": "Editar documentação"
 }

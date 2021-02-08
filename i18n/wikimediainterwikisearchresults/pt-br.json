@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo Addad de Oliveira",
+			"Eduardoaddad",
 			"TheEduGobi"
 		]
 	},
@@ -178,6 +179,7 @@
 	"search-interwiki-results-miwiki": "Mostrando resultados da [[:mi:|Wikipédia em maori]].",
 	"search-interwiki-results-mkwiki": "Mostrando resultados da [[:mk:|Wikipédia em macedónio]].",
 	"search-interwiki-results-mlwiki": "Mostrando resultados da [[:ml:|Wikipédia em malaiala]].",
+	"search-interwiki-results-mniwiki": "Mostrando resultados da [[:mni:|Wikipédia manipuri]].",
 	"search-interwiki-results-mnwiki": "Mostrando resultados da [[:mn:|Wikipédia em mongol]].",
 	"search-interwiki-results-mnwwiki": "Mostrando resultados da [[:mnw:|Wikipédia em mon]].",
 	"search-interwiki-results-mowiki": "Mostrando resultados da [[:mo:|Wikipédia em moldávio]].",
