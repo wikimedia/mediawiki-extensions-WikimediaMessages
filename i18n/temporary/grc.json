@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Omnipaedista"
+			"Omnipaedista",
+			"PastelKos"
 		]
 	},
-	"group-oversight-member": "παρόραμα"
+	"group-oversight-member": "{{GENDER:$1|παρόραμα}}"
 }
