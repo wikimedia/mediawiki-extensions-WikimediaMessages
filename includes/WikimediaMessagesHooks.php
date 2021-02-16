@@ -121,6 +121,7 @@ class WikimediaMessagesHooks implements
 			'mwoauth-form-privacypolicy-link',
 			'mobile-frontend-terms-url', // T252375
 			'mwoauthserver-invalid-user',
+			'prefs-user-downloaddata-help-message', // T272412
 			'privacypage',
 			'sidebar',
 			'sitematrix', // T140941
