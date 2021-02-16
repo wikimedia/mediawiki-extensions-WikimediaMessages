@@ -197,6 +197,7 @@
 	"grouppage-oauthadmin": "{{ns:project}}:OAuthbeheerders",
 	"group-ombuds": "Ombudspersonen",
 	"group-ombuds-member": "{{GENDER:$1|ombudsman|ombudsvrouw|ombudspersoon}}",
+	"grouppage-ombuds": "m:Ombuds commission/nl",
 	"group-recursive-export": "recursief exporteurs",
 	"group-recursive-export-member": "{{GENDER:$1|recursief exporteur}}",
 	"group-staff": "staf",
