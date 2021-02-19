@@ -4,8 +4,9 @@
 			"Salvemm el lombard"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "I visitador de questa wiki chì che dopren el to adress IP address i hann cread un {{PLURAL:$1|1 cunt|$1 cunt}} in del cors de l'utim dì, che l'è el period de temp massim permetud.\nDe conseguenza, adesedess i visitador che dopren l'adress IP poden creà pu di cunt.\n\nSe te seet a 'n aveniment che 'l so fin l'è la contribuzzion ai proget de Wikimedia , varda [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Richiesta de revoca temporanea del vincol sora l'IP]] per resolver quell problema chì.",
+	"wikimedia-acct_creation_throttle_hit": "I visitador de questa wiki chì che dopren el to adress IP address i hann cread un {{PLURAL:$1|1 cunt|$1 cunt}} in del cors de l'utim dì, che l'è el period de temp massim permetud.\nDe conseguenza, al moment i visitador che dopren l'adress IP poden creà pu di cunt.\n\nSe te seet a 'n aveniment che 'l so fin l'è la contribuzzion ai proget de Wikimedia , varda [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Richiesta de revoca temporanea del vincol sora l'IP]] per resolver quell problema chì.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajutom a scernì)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Te podet visità la pagina di preferenze a [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 other Wikimedia projects where you have contributed] cont el fin de descaregà i dati del to cunt de 'sti proget chì.",
 	"wikimedia-createacct-imgcaptcha-help": "Te riesset no a vedè l'imagin? [[{{MediaWiki:createacct-captcha-help-url}}|Domanda un'alter cunt]]",
 	"wikimedia-centralauth-groupname": "la fondazzion Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>Quell cunt chì[[m:Special:MyLanguage/Global locks|l'è blocad globalment]]</strong>. Te {{GENDER:$1|saret}} minga bon de andà dent in qualsessia wiki de Wikimedia. [[m:Special:Contact/stewards|Toeu contat cont i assistent]] per qualunque domanda.",
