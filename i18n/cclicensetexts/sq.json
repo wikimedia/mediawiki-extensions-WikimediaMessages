@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
+			"Eraldkerciku",
 			"Mikullovci11",
 			"Multichill",
 			"Olsi"
@@ -180,7 +181,7 @@
 	"wm-license-cc-free-to-remix-text": "të përshtatni punën",
 	"wm-license-cc-conditions": "Sipas kushteve të mëposhtme:",
 	"wm-license-cc-conditions-attribution-header": "atributim",
-	"wm-license-cc-conditions-attribution-text": "Ju duhet të atribuoni punën në mënyrën e përcaktuar nga autori ose licensëdhënësit (por jo në çdo mënyrë që sugjeron që ata të miratojnë ju ose përdorimin tuaj të punës)",
+	"wm-license-cc-conditions-attribution-text": "Ju duhet t'i jepni meritat e duhura, të siguroni një lidhje për tek licenca dhe të tregoni nëse janë bërë ndryshimet. Ju mund ta bëni këtë në ndonjë mënyrë të arsyeshme, por jo në asnjë mënyrë që sugjeron që licensuesi të miraton ju ose përdorimin tuaj.",
 	"wm-license-cc-conditions-share_alike-header": "ndarë njësoj",
 	"wm-license-cc-conditions-share_alike-text": "Nëse ndryshoni, transformoni ose ndërtoni mbi këtë punë, ju mund të rishpërndani punën që rezulton vetëm nën të njëjtën licensë ose nën një licensë të ngjashme me të.",
 	"wm-license-cc-pd-mark-text": "Kjo skedë është identifikuar si e lirë e kufizimeve të panjohura në ligjin e të drejtave të autorit, duke përfshirë të gjitha të drejtat e lidhura dhe fqinje."

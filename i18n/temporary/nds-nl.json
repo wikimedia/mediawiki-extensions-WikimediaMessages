@@ -6,5 +6,5 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Tosichtholder",
 	"group-oversight": "tosichtholders",
-	"group-oversight-member": "toezichouwer"
+	"group-oversight-member": "{{GENDER:$1|tosichtholder}}"
 }

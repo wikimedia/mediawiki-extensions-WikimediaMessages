@@ -1,7 +1,16 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Äberlausitzer"
+		]
 	},
+	"wm-license-gfdl-1.2-and-later": "'s ies erloobt, de Datei under'n Bedingunga der '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fer freie Dokumentation]],''' Version 1.2 oder anner spätera Version, vereffentlicht vu der ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]],'' zu kopieren, zu verbreita und/oder zu modifiziera; 's gitt kenne unveränderlicha Obschniete, kenna vurdern und kenna hintera Umschloagtext.\nDer vullständige Text der Lizenz ies eim Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz fer freie Dokumentation]]'' verfigbar.",
 	"wm-license-information-description": "Beschreibung",
-	"wm-license-information-source": "Quelle"
+	"wm-license-information-source": "Quelle",
+	"wm-license-information-date": "Datum",
+	"wm-license-information-author": "Urheber",
+	"wm-license-information-permission": "Genehmigung",
+	"wm-license-information-permission-reusing-text": "Weiternutzung dieser Datei",
+	"wm-license-own-work": "Eegnes Werk",
+	"wm-license-self-multiple-licenses-select": "Du doafst 's under anner der obiga Lizenzen denner Woahl verwenda."
 }
