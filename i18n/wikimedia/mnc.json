@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chulsu463",
 			"Moon0319",
 			"Араси"
 		]
@@ -11,5 +12,7 @@
 	"wikibase-sitelinks-wikiquote": "ᡠᡳᡴᡳ ᡤᡳᠰᡠᡵᡝᠨ",
 	"wikibase-sitelinks-wikisource": "ᡠᡳ᠌ᡴᡳ ᠪᡳᡨ᠌ᡥᡝ ᠪᠣᡠ᠋",
 	"wikibase-sitelinks-wikivoyage": "ᡠᡳᡴᡳ ᠰᠠᡵᠠᡧᠠᠨ",
-	"wikimedia-developers": "ᡳᠯᡳᠪᡠᠰᡳᠰᠠ"
+	"wikimedia-developers": "ᡳᠯᡳᠪᡠᠰᡳᠰᠠ",
+	"wikimedia-statslink": "geren ton",
+	"wikimedia-cookiestatement": "g'oki jonombi"
 }

@@ -31,6 +31,7 @@
 	"group-confirmed": "يوزرات متأكدين",
 	"group-confirmed-member": "{{GENDER:$1|يوزر متأكد}}",
 	"grouppage-confirmed": "{{ns:project}}:يوزرات متأكدين",
+	"group-eliminator": "المحررين",
 	"group-flood": "يوزرز بوت",
 	"group-flood-member": "{{GENDER:$1|يوزر بوت}}",
 	"group-founder": "مؤسسين",

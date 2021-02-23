@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChoiChong"
+			"ChoiChong",
+			"Chulsu463"
 		]
 	},
 	"wm-license-cc-attribution": "ᡤᡝᠪᡠ ᠠᡵᠠᡵᠠ",
 	"wm-license-cc-free": "ᡧᡳ ᠣᠮᠪᡳ：",
 	"wm-license-cc-free-to-remix-header": "ᡨᡠᠸᠠᠮᡤᡳᠶᠠᠮᠪᡳ",
-	"wm-license-cc-conditions-attribution-header": "ᡤᡝᠪᡠ ᠠᡵᠠᡵᠠ"
+	"wm-license-cc-conditions-attribution-header": "ᡤᡝᠪᡠ ᠠᡵᠠᡵᠠ",
+	"wm-license-cc-conditions-share_alike-text": "si tere justan be suwaliyame, guribume eici ilibuci, si urunakū [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses] de sinde buhe be araki."
 }
