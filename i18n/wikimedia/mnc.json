@@ -2,17 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Chulsu463",
+			"Foavi33",
 			"Moon0319",
 			"Араси"
 		]
 	},
-	"sitesupport": "ᠮᡝᠨᡩᡝ ᡨᡠᠰᠠ ᠠᡵᠠᠮᠪᡳ",
-	"tooltip-n-sitesupport": "ᠮᡝᠨᡩᡝ ᠠᡳ᠌ᠰᡳᠯᠠᠮᠪᡳ",
-	"wikibase-sitelinks-wikinews": "ᡠᡳ᠌ᡴᡳ ᠮᡝᡩᡝ",
-	"wikibase-sitelinks-wikiquote": "ᡠᡳᡴᡳ ᡤᡳᠰᡠᡵᡝᠨ",
-	"wikibase-sitelinks-wikisource": "ᡠᡳ᠌ᡴᡳ ᠪᡳᡨ᠌ᡥᡝ ᠪᠣᡠ᠋",
-	"wikibase-sitelinks-wikivoyage": "ᡠᡳᡴᡳ ᠰᠠᡵᠠᡧᠠᠨ",
-	"wikimedia-developers": "ᡳᠯᡳᠪᡠᠰᡳᠰᠠ",
+	"sitesupport": "mende tusa arambi",
+	"tooltip-n-sitesupport": "mende aisilambi",
+	"wikimedia-copyright": "dangse tuwarangge fejergi de muterembi <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">uheri gūnin buhengge-uheri gese urušehe temgetu</a>;\nnonggihe gisun ainci mutere. <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">baitalara gisun</a> de tuwa",
+	"wikimedia-copyrightwarning": "kvbulin be hibcara de [https://foundation.wikimedia.org/wiki/Terms_of_Use baitalan i fafun] de urulefi [https://mnc.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] geli [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL](GFDL) be dahame nonggire be selgiyere de enteheme urulere be gvnifi, geli Creative Commons license be dahame hobobungge asu eici URL ejebun i baitalara de urulere be gvnimbi.",
+	"wikibase-sitelinks-wikinews": "wiki mede",
+	"wikibase-sitelinks-wikiquote": "wiki gisuren",
+	"wikibase-sitelinks-wikisource": "wiki bithe i boo",
+	"wikibase-sitelinks-wikivoyage": "wiki saraxan",
+	"wikimedia-developers": "ilibusisa",
+	"wikimedia-globalblocking-ipblocked": "'''sini IP tere ba [[m:Special:MyLanguage/Global blocks|gemu wiki ci horihe]] oho.'''\n\nhorihe baitalasi oci $1 ($2)inu.\njalin oci ''$3''.\n\n* horihe erin: $4\n* horire erin: $5\n\nte sini IP tere ba oci $6.\nhorire de fonjin bici ninggu i medege be kamcirao.\n\nsi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nhorire de fudaraci [[m:Steward requests/Global|metawiki de horire be jai fonjimbi]]be unggi.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''sini baitalaha daiselara agvra [[m:Special:MyLanguage/Global blocks|yooni horihe]] oho.'''\n\nhorihe baitalasi oci $1 ($2)inu.\njalin oci ''$3''.\n\n* horihe erin: $4\n* horire erin: $5\n\nte sini IP tere ba oci $6.\nhorire de fonjin bici ninggu i medege be kamcirao.\n\nsi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nhorire de fudaraci [[m:Steward requests/Global|metawiki de horire be jai fonjimbi]]be unggi.",
 	"wikimedia-statslink": "geren ton",
 	"wikimedia-cookiestatement": "g'oki jonombi"
 }

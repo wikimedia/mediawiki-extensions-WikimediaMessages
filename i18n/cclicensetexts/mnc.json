@@ -2,12 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"ChoiChong",
-			"Chulsu463"
+			"Chulsu463",
+			"Foavi33"
 		]
 	},
-	"wm-license-cc-attribution": "ᡤᡝᠪᡠ ᠠᡵᠠᡵᠠ",
-	"wm-license-cc-free": "ᡧᡳ ᠣᠮᠪᡳ：",
-	"wm-license-cc-free-to-remix-header": "ᡨᡠᠸᠠᠮᡤᡳᠶᠠᠮᠪᡳ",
-	"wm-license-cc-conditions-attribution-header": "ᡤᡝᠪᡠ ᠠᡵᠠᡵᠠ",
+	"wm-license-cc-attribution": "gebu arara",
+	"wm-license-cc-free": "si ombi;",
+	"wm-license-cc-free-to-share-header": "uheri",
+	"wm-license-cc-free-to-share-text": "sarkiyambi, baita be selgiyeme unggimbi",
+	"wm-license-cc-free-to-remix-header": "tuwamgiyambi",
+	"wm-license-cc-free-to-remix-text": "baita de acanambi",
+	"wm-license-cc-conditions": "arbun de dahame:",
+	"wm-license-cc-conditions-attribution-header": "gebu arara",
+	"wm-license-cc-conditions-share_alike-header": "adali be kvbulire be aljambi",
 	"wm-license-cc-conditions-share_alike-text": "si tere justan be suwaliyame, guribume eici ilibuci, si urunakū [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses] de sinde buhe be araki."
 }
