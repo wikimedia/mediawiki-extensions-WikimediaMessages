@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ardzun",
+			"David Wadie Fisher-Freberg",
 			"Iwan Novirion",
 			"Naval Scene",
 			"Nemo bis"
@@ -124,9 +125,9 @@
 	"group-translationadmin-member": "{{GENDER:$1|panguruih tajamahan}}",
 	"grouppage-translationadmin": "{{ns:project}}:Panguruih tajamahan",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Teks tasadio jo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; katantuan tambahan mungkin balaku. Caliak <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Katantuan Panggunoan</a> untuak labiah jaleh.",
+	"wikimedia-copyright": "Teks iko tasadio dalam <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; katantuan tambahan mungkin balaku. Caliak <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Katantuan Pamakaian</a> untuak labiah jaleh.",
 	"wikidata-copyright": "Sado struktur data dari ruangnamo utamo jo properti tasadio jo <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.id\" title=\"Definisi dari lisensi Creative Commons CC-nol\">Lisensi Dedikasi Domain Publik CC-nol Creative Commons</a>;\nteks dalam ruangnamo lain tasadio jo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\" title=\"Definisi dari lisensi Creative Commons Attribusi-BabagiSarupo\">Lisensi Atribusi-BabagiSarupo Creative Commons</a>; \nkatantuan tambahan mungkin balaku. \nCaliak <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_use-Summary/min\">Katantuan Panggunoan</a> untuak labiah jaleh.",
-	"wikimedia-copyrightwarning": "Jo manyimpan parubahan, Sanak satuju pado [//foundation.wikimedia.org/wiki/Terms_of_Use/id Katantuan Panggunoan], dan malapeh jariah Sanak jo [//id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0_Tanpa_Adaptasi Lisensi Atribusi-BabagiSarupo Creative Commons] jo [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL].\nSanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.",
+	"wikimedia-copyrightwarning": "Dalam manyimpan parubahan, Sanak satuju pado [//foundation.wikimedia.org/wiki/Terms_of_Use/id Katantuan Pamakaian], dan malapeh jariah Sanak jo [//id.wikipedia.org/wiki/Wikipedia:Teks_Lisensi_Creative_Commons_Atribusi-BerbagiSerupa_3.0_Tanpa_Adaptasi Lisensi Atribusi-BabagiSarupo Creative Commons] jo [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL].\nSanak satuju dek pambarian pautan atau URL marupoan atribusi nan cukuik di bawah lisensi Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikibarito",
 	"wikibase-sitelinks-wikiquote": "Wikikutipan",
 	"wikibase-sitelinks-wikisource": "Wikisumber",
@@ -138,5 +139,6 @@
 	"wikimedia-developers": "Pangambang",
 	"wikimedia-globalblocking-ipblocked": "'''Alamaik IP Sanak alah [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n*Mulo disakek: $4\n*Bateh maso sakek: $5\n\nAlamaik IP Sanak kini adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo disakek: $4\n* Bateh maso sakek: $5\n\nAlamaik proksi nan disakek adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
+	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Panyatoan kuki"
 }

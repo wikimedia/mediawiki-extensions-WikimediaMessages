@@ -10,6 +10,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Accedi alle tue preferenze su [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 altri progetti Wikimedia cui hai contribuito] per scaricare i dati della tua utenza relativi a quei progetti.",
 	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-centralauth-login-error-locked": "<strong>Questa utenza è [[m:Special:MyLanguage/Global locks|bloccata globalmente]]</strong>. Non {{GENDER:$1|sarai}} in grado di effettuare l'accesso ad alcuna wiki di Wikimedia. [[m:Special:Contact/stewards|Contatta gli steward]] per qualsiasi domanda.",

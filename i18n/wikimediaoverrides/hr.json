@@ -8,6 +8,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi odabrati)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Možete posjetiti Vašu stranicu postavki na [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 drugim projektima wikimedije gdje ste doprinosili] kako biste učitali podatke Vašega računa s tih projekata",
 	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite suradnički račun]]",
 	"wikimedia-centralauth-groupname": "{{#SWITCH:{{{1|}}}\n|#default=Zaklada Wikimedije\n|gen=Wikimedijine zaklade\n}}",
 	"wikimedia-centralauth-uwbr-intro": "Ova stranica prikazuje popis suradnika registriranih na ovom wikiju koji će biti preimenovani zbog [[m:Single User Login finalisation announcement|spajanja svih suradničkih računa u sustav središnje prijave (SUL)]]. Više informacija možete naći [[m:Help:Unified login|ovdje]]. Suradnici  [[Special:GlobalRenameRequest|ovdje]] mogu bilo kada zatražiti preimenovanje.",

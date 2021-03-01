@@ -3,10 +3,12 @@
 		"authors": [
 			"DzWiki",
 			"Nemo bis",
-			"Srdjan m"
+			"Srdjan m",
+			"Srđan"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi u izboru)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Da biste preuzeli podatke na [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 ostalim projektima na kojima ste doprinosili] posjetite ovu stranicu na tamošnjim postavkama",
 	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]",
 	"wikimedia-centralauth-groupname": "Zadužbine Wikimedije",
 	"createacct-helpusername-url": "{{ns:Project}}:Korisničko_ime",
