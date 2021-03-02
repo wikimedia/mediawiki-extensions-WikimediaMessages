@@ -326,7 +326,7 @@
 	"action-extendedconfirmed": "editar páginas restringidas",
 	"right-extendedconfirmed": "Editar páginas restringidas",
 	"restriction-level-extendedconfirmed": "protegido por editor confirmado",
-	"protect-level-extendedconfirmed": "Permitir sólo editores establecidos y administradores",
+	"protect-level-extendedconfirmed": "Permitir solo editores establecidos y administradores",
 	"action-editeditorprotected": "editar páginas protegidas como \"{{int:protect-level-editeditorprotected}}\"",
 	"right-editeditorprotected": "Editar páginas protegidas como «{{int:protect-level-editeditorprotected}}»",
 	"protect-level-editeditorprotected": "Permitir solo editores",
