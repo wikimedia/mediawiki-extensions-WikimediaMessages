@@ -81,7 +81,7 @@
 	"group-founder-member": "{{GENDER:$1|დამაარსებელი}}",
 	"grouppage-founder": "{{ns:project}}:დამაარსებლები",
 	"group-import": "იმპორტიორები",
-	"group-import-member": "{{GENDER:$1|იმპორტორი}}",
+	"group-import-member": "{{GENDER:$1|იმპორტიორი}}",
 	"grouppage-import": "{{ns:project}}:იმპორტიორები",
 	"group-interface-editor": "ინტერფეისის რედაქტორები",
 	"group-interface-editor-member": "{{GENDER:$1|ინტერფეისის რედაქტორი}}",

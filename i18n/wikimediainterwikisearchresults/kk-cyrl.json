@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Arystanbek"
+			"Arystanbek",
+			"Hedeyohu22"
 		]
 	},
 	"search-interwiki-results-abwiki": "[[:ab:|Авхазша Уикипедиядан]] нәтижелер көрсетілуде.",
@@ -17,5 +18,7 @@
 	"search-interwiki-results-bnwiki": "[[:bn:|Бенгалша Уикипедиядан]] нәтижелер көрсетілуде.",
 	"search-interwiki-results-bxrwiki": "[[:bxr:|Бурятшаша Уикипедиядан]] нәтижелер көрсетілуде.",
 	"search-interwiki-results-cawiki": "[[:ca:|Каталанша Уикипедиядан]] нәтижелер көрсетілуде.",
-	"search-interwiki-results-enwiki": "[[:en:|Ағылшынша Уикипедиядан]] нәтижелер көрсетілуде."
+	"search-interwiki-results-enwiki": "[[:en:|Ағылшынша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-taywiki": "[[:tay:|Атаялша Уикипедиядан]] нәтижелер көрсетілуде.",
+	"search-interwiki-results-trvwiki": "[[:trv:|Седыкша Уикипедиядан]] нәтижелер көрсетілуде."
 }

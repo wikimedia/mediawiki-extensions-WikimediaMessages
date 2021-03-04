@@ -5,12 +5,14 @@
 			"Kassem7899",
 			"Meno25",
 			"NEHAOUA",
+			"Shbib Al-Subaie",
 			"بدارين",
 			"ديفيد"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في اليوم الأخير، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ساعدني في الاختيار)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "ربما ترغب بزيارة صفحة تفضيلاتك [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 في مشاريع ويكيميديا الأخرى التي ساهمت بها] من أجل تنزيل بيانات حسابك من تلك المشاريع.",
 	"wikimedia-createacct-imgcaptcha-help": "لا تستطيع رؤية الصورة؟ [[{{MediaWiki:createacct-captcha-help-url}}|اطلب حسابا]]",
 	"wikimedia-centralauth-groupname": "مؤسسة ويكيميديا",
 	"wikimedia-centralauth-login-error-locked": "<strong>هذا الحساب [[m:Special:MyLanguage/Global locks|مقفل عالميا]]؛ لن </strong> {{GENDER:$1|تتمكن|تتمكني}} من تسجيل الدخول إلى أي ويكي لويكيميديا، من فضلك [[m:Special:Contact/stewards|اتصل بالمضيفين]] إذا كانت {{GENDER:$1|لديك}} أية أسئلة.",

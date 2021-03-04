@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Arystanbek",
-			"Batyrbek.kz"
+			"Batyrbek.kz",
+			"Hedeyohu22"
 		]
 	},
 	"project-localized-name-aawiki": "Афарша Уикипедия",
@@ -28,8 +29,11 @@
 	"project-localized-name-kkwikibooks": "Қазақша Уикикітап",
 	"project-localized-name-kkwikiquote": "Қазақша Уикидәйек",
 	"project-localized-name-kkwiktionary": "Қазақша Уикисөздік",
+	"project-localized-name-mnwwiktionary": "Мон Уикисөздік",
 	"project-localized-name-nawiki": "Науруше Уикипедия",
 	"project-localized-name-slwiktionary": "Словенше Уикипедия",
+	"project-localized-name-taywiki": "Атаялша Уикипедия",
+	"project-localized-name-trvwiki": "Седыкша Уикипедия",
 	"project-localized-name-trwikisource": "Түрікше Уикипедия",
 	"project-localized-name-ugwiki": "Ұйғырша Уикипедия",
 	"project-localized-name-viwikisource": "Вьетнамша Уикипедия",
