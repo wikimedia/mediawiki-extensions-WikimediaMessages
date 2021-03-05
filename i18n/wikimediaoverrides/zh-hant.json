@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AnYiLin",
 			"Cwlin0416",
 			"Kly",
 			"LNDDYL",
@@ -12,7 +13,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "最近此 wiki 上有訪客使用了您的 IP 地址建立了 {{PLURAL:$1|1 個帳號|$1 個帳號}}，已達到在此時段裡的最大允許數量。\n因此，目前使用該 IP 地址的訪客將無法建立更多的帳號。\n\n如果您目前正在投入貢獻維基媒體專案相關活動的話，請查看[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|請求臨時提升 IP 權限]]來協助解決此問題。",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（協助我選擇）]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "您可存取[https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 其他曾貢獻過的維基媒體專案]的偏好設定頁面來下載那些專案的帳戶資料",
+	"wikimedia-prefs-user-downloaddata-help-message": "您可存取[https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 其他曾貢獻過的維基媒體專案]的偏好設定頁面來下載那些專案的帳戶資料。",
 	"wikimedia-createacct-imgcaptcha-help": "無法看到圖像嗎？[[{{MediaWiki:createacct-captcha-help-url}}|請求建立用戶]]",
 	"wikimedia-centralauth-groupname": "維基媒體基金會",
 	"wikimedia-centralauth-login-error-locked": "<strong>此帳號被[[m:Special:MyLanguage/Global locks|全域封鎖]]</strong>。{{GENDER:$1|您}}無法登入到任何維基媒體 wiki。若{{GENDER:$1|您}}有任何問題，請[[m:Special:Contact/stewards|聯絡監管員]]。",
