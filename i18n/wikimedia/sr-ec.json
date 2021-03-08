@@ -114,6 +114,7 @@
 	"group-transwiki-member": "{{GENDER:$1|међувики увозник|међувики увозница|међувики увозник}}",
 	"grouppage-transwiki": "{{ns:project}}:Међувики увозници",
 	"group-templateeditor": "Уредници шаблона",
+	"group-templateeditor-member": "{{GENDER:$1|уредник шаблона|уредница шаблона}}",
 	"group-trusted": "Поверљиви корисници",
 	"group-trusted-member": "{{GENDER:$1|поверљиви корисник|поверљива корисница|поверљиви корисник}}",
 	"grouppage-trusted": "{{ns:project}}:Поверљиви корисници",

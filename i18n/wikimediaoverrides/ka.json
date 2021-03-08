@@ -4,11 +4,12 @@
 			"BRUTE",
 			"Nemo bis",
 			"Otogi",
+			"SaldırganSincap",
 			"Გიო ოქრო"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ შერჩევაში)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "თქვენ შეგიძლიათ შეხვიდეთ თქვენი კონფიგურაციის გვერდზე [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 ვიკიმედიის იმ პროექტებში, სადაც წვლილი გაქვთ შეტანილი], რათა გადმოწეროთ თქვენი ანგარიშის მონაცემები ამ პროექტებიდან",
+	"wikimedia-prefs-user-downloaddata-help-message": "თქვენ შეგიძლიათ შეხვიდეთ თქვენი კონფიგურაციის გვერდზე [[m:Special:CentralAuth/$1|ვიკიმედიის იმ პროექტებში, სადაც წვლილი გაქვთ შეტანილი]], რათა გადმოწეროთ თქვენი ანგარიშის მონაცემები ამ პროექტებიდან.",
 	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]",
 	"wikimedia-centralauth-groupname": "ფონდი ვიკიმედია",
 	"wikimedia-discussiontools-replywidget-terms-click": "„$1“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",

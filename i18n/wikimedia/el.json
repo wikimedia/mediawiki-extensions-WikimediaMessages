@@ -25,6 +25,7 @@
 			"SucreRouge",
 			"Xaris333",
 			"ZaDiak",
+			"Αντιγόνη",
 			"Απεργός"
 		]
 	},
@@ -192,6 +193,7 @@
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",
+	"wikibase-otherprojects-sources": "Πολύγλωσση Βικιθήκη",
 	"wikibase-otherprojects-species": "Wikispecies",
 	"wikibase-otherprojects-wikibooks": "Βικιβιβλία",
 	"wikibase-otherprojects-wikidata": "Wikidata",
@@ -206,6 +208,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
+	"wikibase-sitelinks-sitename-sourceswiki": "Πολύγλωσση Βικιθήκη",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.",

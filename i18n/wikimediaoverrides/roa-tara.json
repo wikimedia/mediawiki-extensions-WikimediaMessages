@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joetaras"
+			"Joetaras",
+			"SaldırganSincap"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Le visitature de sta uicchi stonne ausane l'indirizze IP tune onne ccrejate {{PLURAL:$1|1 cunde|$1 cunde}} jndr'à l'urteme sciurne, e onne raggiunde 'u limite massime jndr'à stu periode.\nCumme resultate, le visitature ca ausane stu indirizze IP non ge ponne ccrejà otre cunde pe mò.\n\nCe tu ste pigghie parte a 'n'evende addò ste condrebbuisce a le pruggette de Uicchimedie, pe piacere 'ndruche [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Richieste temboranée de deroghe sus a l'IP]] pe darne 'na màne a resolvere stu probbleme.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(damme 'na màne a scacchià)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Puè 'ndrucà 'a pàgene de le preferenze tune sus a [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 otre pruggette Uicchimedie addò tu è condrebbuite] respette a scarecà le date d'u cunde tune da ste pruggette",
+	"wikimedia-prefs-user-downloaddata-help-message": "Puè 'ndrucà 'a pàgene de le preferenze tune sus a [[m:Special:CentralAuth/$1|otre pruggette Uicchimedie addò tu è condrebbuite]] respette a scarecà le date d'u cunde tune da ste pruggette.",
 	"wikimedia-createacct-imgcaptcha-help": "Non ge puè 'ndrucà l'immaggine? [[{{MediaWiki:createacct-captcha-help-url}}|Cirche 'nu cunde]]",
 	"wikimedia-centralauth-groupname": "'a ''Wikimedia Foundation''",
 	"wikimedia-centralauth-login-error-locked": "<strong>Ste cunde utende jè [[m:Special:MyLanguage/Global locks|bloccate globbalmende]]</strong>. Non ge  {{GENDER:$1|puè}} trasè jndr'à nisciuna uicchi de Uicchimedie. [[m:Special:Contact/stewards|Condatte le steuard]] c'ha fa de le dumande.",

@@ -4,12 +4,13 @@
 			"Lokal Profil",
 			"Nemo bis",
 			"Sabelöga",
+			"SaldırganSincap",
 			"WikiPhoenix"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besökare på den här webbplatsen med din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} den senaste dagen, vilket är det högsta tillåtna antalet den tidsperioden.\nPå grund av detta kan för tillfället inte besökare med denna IP-adress skapa fler konton.\n\nOm du är på ett evenemang med fokus på att bidra till Wikimedias projekt, var god läs [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] för att lösa problemet.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Du kan besöka dina inställningar på [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 andra Wikimedia-projekt där du har bidragit] för att ladda ner dina kontouppgifter från de projekten",
+	"wikimedia-prefs-user-downloaddata-help-message": "Du kan besöka dina inställningar på [[m:Special:CentralAuth/$1|andra Wikimedia-projekt där du har bidragit]] för att ladda ner dina kontouppgifter från de projekten.",
 	"wikimedia-createacct-imgcaptcha-help": "Kan du inte se bilden? [[{{MediaWiki:createacct-captcha-help-url}}|Begär ett konto]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-centralauth-login-error-locked": "<strong>Detta konto är [[m:Special:MyLanguage/Global locks|globalt blockerat]].</strong> {{GENDER:$1|Du}} kan inte logga in till några Wikimedia-wikier. Var god [[m:Special:Contact/stewards|kontakta stewarderna]] om {{GENDER:$1|du}} har några frågor.",

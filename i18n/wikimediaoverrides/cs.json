@@ -6,12 +6,13 @@
 			"Nemo bis",
 			"Patriccck",
 			"Patrik L.",
+			"SaldırganSincap",
 			"YjM"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Uživatelé používající vaši IP adresu za poslední den vytvořili už $1 {{PLURAL:$1|účet|účty|účtů}}, což je pro toto období maximum.\nProto není v tuto chvíli dovoleno z této IP adresy zakládat další účty.\n\nPokud se účastníte události, která se zaměřuje na přispívání do projektů Wikimedia, podívejte se na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žádost o dočasné zrušení omezení pro IP adresu]], aby šlo tento problém vyřešit.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozte mi s výběrem)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Možná chcete navštívit nastavení i na [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 dalších projektech Wikimedia, na kterých jste přispěli], abyste si mohli stáhnout data ze svého účtu z těchto projektů",
+	"wikimedia-prefs-user-downloaddata-help-message": "Možná chcete navštívit nastavení i na [[m:Special:CentralAuth/$1|dalších projektech Wikimedia, na kterých jste přispěli]], abyste si mohli stáhnout data ze svého účtu z těchto projektů.",
 	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázek? [[{{MediaWiki:createacct-captcha-help-url}}|Požádejte o účet]].",
 	"wikimedia-centralauth-groupname": "nadace Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>Tento účet je [[m:Special:MyLanguage/Global locks|globálně uzamčen]]</strong>. Na žádné projektu Wikimedia se do něj {{GENDER:$1|nemůžete}} přihlásit. Pokud máte jakékoli otázky, prosíme [[m:Special:Contact/stewards|kontaktujte stevardy]].",

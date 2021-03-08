@@ -4,6 +4,7 @@
 			"Agaafd",
 			"BaRaN6161 TURK",
 			"Captantrips",
+			"Joseph",
 			"Karduelis",
 			"MuratTheTurkish",
 			"Rapsar",
@@ -87,5 +88,6 @@
 	"contactpage-ombudscommission-involved-users": "Hangi kullanıcıları şikayet ediyorsunuz? Wiki kullanıcı adlarını sağlayın:",
 	"contactpage-ombudscommission-affected-accounts": "Bu şikayetten hangi hesaplar etkileniyor? Sizden başka kimse etkilenmediyse, bu alanı atlayabilirsiniz.",
 	"contactpage-ombudscommission-proposed-solution": "Hangi çözümü önerirsiniz? Komisyondan beklentileriniz nelerdir?",
-	"contactpage-ombudscommission-additional-information": "Bu durumun anlaşılmasıyla ilgili olduğunu düşündüğünüz diğer bilgileri ekleyin."
+	"contactpage-ombudscommission-additional-information": "Bu durumun anlaşılmasıyla ilgili olduğunu düşündüğünüz diğer bilgileri ekleyin.",
+	"contactpage-ombudscommission-disclaimer-label": "Uyarı: Bu forma eklediğiniz tüm bilgiler, Wikimedia Vakfı'na değil, gönüllü topluluk üyelerine (özellikle [[Special:MyLanguage/Ombuds commission|Kamu denetçi kurulu]]) gönderilir, işlenir ve yanıtlanır. Lütfen Wikimedia gönüllüleri ile rahatça paylaşımda bulunmadığınız bilgileri dahil etmeyin. Gönderdiğiniz bilgilerin işlenmesiyle ilgili yanıtlar ve diğer yazışmalar Wikimedia Vakfı'nın resmi beyanları olarak kabul edilmemelidir. Resmi yazışmalar için lütfen https://wikimediafoundation.org/about/contact/ adresinde listelenen yöntemler aracılığıyla Wikimedia Vakfı ile iletişime geçin."
 }

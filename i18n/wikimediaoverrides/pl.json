@@ -12,6 +12,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Odwiedź stronę preferencji w [[m:Special:CentralAuth/$1|innych projektach, w których {{GENDER:|dokonałeś|dokonałaś}} wkładu]], aby pobrać z nich dane dotyczące konta.",
 	"wikimedia-createacct-imgcaptcha-help": "Nie widzisz obrazka? [[{{MediaWiki:createacct-captcha-help-url}}|Złóż wniosek o konto]]",
 	"wikimedia-centralauth-groupname": "Fundacji Wikimedia",
 	"wikimedia-centralauth-uwbr-intro": "Ta strona zawiera spis użytkowników tej wiki, których nazwy zostaną zmienione z powodu [[m:Single User Login finalisation announcement|finalizacji konta uniwersalnego]]. Szersze wyjaśnienie tego tematu jest przedstawione na stronie [[m:Help:Unified login|konto uniwersalne]]. Użytkownicy mogą w każdej chwili zażądać zmiany swojej nazwy poprzez złożenie wniosku na stronie [[Special:GlobalRenameRequest]].",

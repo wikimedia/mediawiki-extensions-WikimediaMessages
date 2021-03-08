@@ -9,6 +9,7 @@
 			"Nemo bis",
 			"Omotecho",
 			"Otokoume",
+			"SaldırganSincap",
 			"Shirayuki",
 			"Siglite3",
 			"Sujiniku",
@@ -17,7 +18,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "[https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 その他投稿したことのあるWikimediaプロジェクト]の設定ページで順番にアカウントデータをダウンロードする必要があるかもしれません",
+	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|その他投稿したことのあるWikimediaプロジェクト]]の設定ページで順番にアカウントデータをダウンロードする必要があるかもしれません。",
 	"wikimedia-createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
 	"wikimedia-centralauth-groupname": "ウィキメディア財団",
 	"createacct-helpusername-url": "{{ns:Project}}:利用者名の方針",

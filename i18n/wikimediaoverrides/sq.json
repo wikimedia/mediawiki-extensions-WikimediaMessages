@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eraldkerciku"
+			"Eraldkerciku",
+			"SaldırganSincap"
 		]
 	},
-	"wikimedia-prefs-user-downloaddata-help-message": "Ju mund të vizitoni faqen tuaj të Preferencave në [https://meta.wikimedia.org/wiki/Special:CentralAuth?target=$1 projekte të tjera Wikimedia ku keni kontribuar] në mënyrë që të shkarkoni të dhënat e llogarisë tuaj nga ato projekte",
+	"wikimedia-prefs-user-downloaddata-help-message": "Ju mund të vizitoni faqen tuaj të Preferencave në [[m:Special:CentralAuth/$1|projekte të tjera Wikimedia ku keni kontribuar]] në mënyrë që të shkarkoni të dhënat e llogarisë tuaj nga ato projekte.",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-sitematrix": "Lista e wiki-ve të Wikimedia-s",
 	"wikimedia-sitematrix-others": "Projekte të tjera të Wikimedia-s",
