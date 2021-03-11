@@ -4,10 +4,12 @@
 			"01miki10",
 			"Alluk.",
 			"Nemo bis",
+			"Pyscowicz",
 			"Stryn"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Voit käydä Asetukset-sivulla [[m:Special:CentralAuth/$1|muissa Wikimedia-hankkeissa, jossa olet muokannut]] ladataksesi tilitietosi näistä hankkeista.",
 	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",

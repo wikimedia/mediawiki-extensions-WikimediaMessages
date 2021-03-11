@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dnshitobu",
 			"Masssly"
 		]
 	},
-	"sitesupport": "Tohama"
+	"sitesupport": "Tohama",
+	"tooltip-n-sitesupport": "Sɔŋmi ti",
+	"wikibase-sitelinks-wikiquote": "Wikikote",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }
