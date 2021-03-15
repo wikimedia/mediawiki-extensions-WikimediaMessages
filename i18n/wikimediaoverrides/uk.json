@@ -14,6 +14,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Відвідувачі цієї вікі, що використовували Вашу IP-адресу, створили {{PLURAL:$1|$1 обліковий запис|$1 облікові записи|$1 облікових записів}} за останню добу, що є максимальною кількістю для цього періоду часу.\nВ результаті відвідувачі, що використовують цю IP-адресу, наразі більше не можуть створювати облікові записи.\n\nЯкщо Ви перебуваєте на заході, тематикою якого є внесок до проектів Вікімедіа, будь ласка, перегляньте сторінку [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|запитів на тимчасове підвищення ліміту для IP]], щоб отримати допомогу  із вирішенням цього питання.",
 	"wikimedia-createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|допоможіть мені вибрати]])",
+	"wikimedia-prefs-user-downloaddata-help-message": "Ви можете перейти на сторінку своїх налаштувань в [[m:Special:CentralAuth/$1|інших проєктах Вікімедіа, де ви робили внесок]], щоб завантажити дані свого облікового запису з цих проєктів.",
 	"wikimedia-createacct-imgcaptcha-help": "Не можете побачити зображення? [[{{MediaWiki:createacct-captcha-help-url}}|Запит облікового запису]]",
 	"wikimedia-centralauth-groupname": "Фонду Вікімедіа",
 	"wikimedia-centralauth-login-error-locked": "<strong>Цей обліковий запис [[m:Special:MyLanguage/Global locks|глобально заблокований]].</strong> {{GENDER:$1|Ви}} не маєте можливості увійти до будь-якої Wikimedia вікі. Будь ласка [[m:Special:Contact/stewards|зверніться до стюардів]], якщо маєте будь-які питання.",

@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"Dhee jah",
 			"Dnshitobu",
 			"Masssly"
 		]
 	},
 	"sitesupport": "Tohama",
 	"tooltip-n-sitesupport": "Sɔŋmi ti",
+	"wikibase-sitelinks-wikinews": "Wikilahabaya",
 	"wikibase-sitelinks-wikiquote": "Wikikote",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }

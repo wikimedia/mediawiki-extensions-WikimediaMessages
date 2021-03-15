@@ -88,7 +88,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/ar",
 	"wm-license-original-upload-log": "سجل الرّفع الأصلي",
 	"wm-license-own-work": "عمل شخصي",
-	"wm-license-pd-author-self-text": "أنا، مالِك حقوق تأليف ونشر هذا العمل، أجعله في '''[[{{int:wm-license-pd-wiki-link}}|النِّطاق العام العامِّ]]'''، يسري هذا في أرجاء العالم كلِّه.",
+	"wm-license-pd-author-self-text": "أنا، مالِك حقوق تأليف ونشر هذا العمل، أجعله في '''[[{{int:wm-license-pd-wiki-link}}|النِّطاق العامِّ]]'''، يسري هذا في أرجاء العالم كلِّه.",
 	"wm-license-pd-author-with-author-text": "وضع -$1-، وهو المؤلف، هذا العمل في '''[[{{int:wm-license-pd-wiki-link}}|النِّطاق العامِّ]]. يسري ذلك في كل أرجاء العالم.",
 	"wm-license-pd-author-not-legally-possible": "في بعض البلدان، قد يكون هذا التَّرخيص غيرَ مُمكنٍ قانونيَّاً، في هذه الحالة:",
 	"wm-license-pd-author-self-any-purpose": "أمنح الجميع حق استخدام هذا العمل '''لأي غرض''' دون أي شرط ما لم يفرض القانون شروطًا إضافية.",

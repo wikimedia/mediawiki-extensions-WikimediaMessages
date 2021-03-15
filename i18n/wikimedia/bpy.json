@@ -5,9 +5,13 @@
 		]
 	},
 	"sitesupport": "দান দেনা",
+	"tooltip-n-sitesupport": "আমারে পাঙকর",
+	"wikimedia-copyright": "ইকরানহানি <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.bpy\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সর</a> মা;\nআহানর লগে আরাকউ শর্ত থাইতেউ পারে।\n <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use?uselang=bpy\">আতানির শর্ত</a> পুলকরে চা।",
 	"wikibase-sitelinks-wikinews": "উইকিপৌ",
 	"wikibase-sitelinks-wikiquote": "উইকিমাতেক",
 	"wikibase-sitelinks-wikisource": "উইকিহোত",
 	"wikibase-sitelinks-wikivoyage": "উইকিবুলন",
-	"wikimedia-developers": "উন্নয়নকরেকুরা"
+	"wikimedia-developers": "উন্নয়নকরেকুরা",
+	"wikimedia-statslink": "হিসাবহানি",
+	"wikimedia-cookiestatement": "কুকির বিবৃতিহান"
 }
