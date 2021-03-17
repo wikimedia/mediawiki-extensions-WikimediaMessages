@@ -3,6 +3,7 @@
 		"authors": [
 			"Autokrator",
 			"Caliburn",
+			"Demetrius Talpa",
 			"Laurentianus",
 			"Lesgles",
 			"Nemo bis",
@@ -35,5 +36,6 @@
 	"wikibase-otherprojects-wikipedia": "Vicipaedia",
 	"wikibase-otherprojects-wikisource": "Vicifons",
 	"wikibase-otherprojects-wikivoyage": "Vicivia",
-	"wikimedia-developers": "Elaboratores"
+	"wikimedia-developers": "Elaboratores",
+	"wikimedia-statslink": "Statistica"
 }
