@@ -147,7 +147,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/si/deed.fr patèrnitât - partâjo a l’identico de les premiéres condicions 2.5 Slovènie].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/tw/deed.fr patèrnitât - partâjo a l’identico de les premiéres condicions 2.5 Tayivan].",
 	"wm-license-cc-by-sa-2.5-za-text": "Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/za/deed.fr patèrnitât - partâjo a l’identico de les premiéres condicions 2.5 Africa du Mié-jorn].",
-	"wm-license-cc-by-sa-3.0-text": "Cél fichiér est disponiblo desot la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.fr Patèrnitât - partâjo a l’identico 3.0 pas adaptâye].",
+	"wm-license-cc-by-sa-3.0-text": "Cél fichiér est disponiblo desot la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.fr atribucion-partâjo du-mémo 3.0 pas transposâye].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] patèrnitât - partâjo a l’identico de les premiéres condicions [https://creativecommons.org/licenses/by-sa/3.0/deed.fr 3.0 pas portâ], [https://creativecommons.org/licenses/by-sa/2.5/deed.fr 2.5 g·ènèrica], [https://creativecommons.org/licenses/by-sa/2.0/deed.fr 2.0 g·ènèrica] et pués [https://creativecommons.org/licenses/by-sa/1.0/deed.fr 1.0 g·ènèrica].",
 	"wm-license-cc-by-sa-3.0-at-text": "Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.fr patèrnitât - partâjo a l’identico de les premiéres condicions 3.0 Ôtrich·e].",
 	"wm-license-cc-by-sa-3.0-au-text": "Ceti fichiér est disponiblo d’aprés los tèrmos de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/au/deed.fr patèrnitât - partâjo a l’identico de les premiéres condicions 3.0 Ôstralie].",
@@ -189,10 +189,10 @@
 	"wm-license-cc-free-to-remix-header": "d’adobar",
 	"wm-license-cc-free-to-remix-text": "de changiér l’ôvra",
 	"wm-license-cc-conditions": "Desot cetes condicions :",
-	"wm-license-cc-conditions-attribution-header": "patèrnitât",
-	"wm-license-cc-conditions-attribution-text": "Vos dête atribuar l’ôvra de la façon spècefiâye per l’ôtor lo titulèro des drêts (mas pas d’una façon que barêt l’idê que vos sotegne aprôve voutron usâjo de l’ôvra).",
-	"wm-license-cc-conditions-share_alike-header": "partâjo a l’identico",
-	"wm-license-cc-conditions-share_alike-text": "Se vos changiéd, transformâd, ou ben vos basâd dessus cel’ôvra, vos dête distribuar l’ôvra rèsultenta desot la méma licence na licence pariére a ceta.",
+	"wm-license-cc-conditions-attribution-header": "atribucion",
+	"wm-license-cc-conditions-attribution-text": "Vos dête balyér les enformacions que vant avouéc regardent l’ôtor, fornir un lim de vers la licence et pués endicar se des changements sont étâs fêts. Vos pouede cen fâre per tot moyen rêsonâblo, mas en pouent de façon que balye l’idê que l’ôtor vos sotint aprôve l’usâjo que vos en fêts.",
+	"wm-license-cc-conditions-share_alike-header": "partâjo du-mémo",
+	"wm-license-cc-conditions-share_alike-text": "Se vos changiéd, transformâd, ou ben vos apoyéd dessus cel’ôvra, vos dête distribuar voutra contribucion desot [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses la méma licence na licence compatibla] avouéc cela de l’originâl.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.fr",
 	"wm-license-cc-pd-mark-text": "Cél fichiér at étâ identifiâ coment étent ègzent de rèstriccions cognues liyês u drêt d’ôtor, tôs los drêts associyês et vesins avouéc."
 }
