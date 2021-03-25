@@ -3,6 +3,7 @@
 		"authors": [
 			"Fanjiayi",
 			"Malafaya",
+			"Mithridates",
 			"OIS",
 			"Stavanger7"
 		]
@@ -13,5 +14,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Developatores"
+	"wikimedia-developers": "Developatores",
+	"wikimedia-statslink": "Statisticas",
+	"wikimedia-cookiestatement": "Declaration pri cookies"
 }
