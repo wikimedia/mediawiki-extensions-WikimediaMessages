@@ -1,14 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mithridates",
 			"OIS",
 			"Stavanger7"
 		]
 	},
 	"wm-license-cc-attribution": "Atribution",
+	"wm-license-cc-free": "Vu es líber:",
 	"wm-license-cc-free-to-share-header": "de distribuer",
+	"wm-license-cc-free-to-share-text": "a copiar, distribuer e transmisser li labor",
 	"wm-license-cc-free-to-remix-header": "de remixter",
 	"wm-license-cc-free-to-remix-text": "de adaptar li ovre",
+	"wm-license-cc-conditions": "Sub li conditiones quam seque:",
 	"wm-license-cc-conditions-attribution-header": "atribution",
 	"wm-license-cc-conditions-share_alike-header": "share alike"
 }

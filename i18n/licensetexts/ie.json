@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mithridates",
 			"OIS",
 			"Stavanger7"
 		]
@@ -10,5 +11,6 @@
 	"wm-license-information-date": "Date",
 	"wm-license-information-author": "Autor",
 	"wm-license-information-permission": "Permission:",
+	"wm-license-information-permission-reusing-text": "Reusant ti-ci file",
 	"wm-license-own-work": "Propri ovre"
 }
