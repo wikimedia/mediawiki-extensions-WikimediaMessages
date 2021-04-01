@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hagos",
 			"Maammee",
 			"Oromoo"
 		]
 	},
 	"sitesupport": "Arjoomi",
 	"tooltip-n-sitesupport": "Nu gargaari",
-	"wikimedia-copyright": "Barreeffamni kan argamu<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Eyyama amala waliiqoodu wantootaa</a> jalatti;\ndabalataan haala itti fayyadama hojii irra oolu mala.\nBal'inaa isaaf <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Haala itti fayyadama</a> laali.",
+	"wikimedia-copyright": "Barreeffamichi kan argamu <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Eeyyama amala waliiqoodu wantootaa</a> jalatti;\ndabalataan haalli itti fayyadamiinsaa hojii irra kan oolu taha.\nBal'inaa isaaf <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Haala itti fayyadamiinsaa</a> ilaali.",
 	"wikibase-sitelinks-wikinews": "Wikioduuu",
 	"wikibase-sitelinks-wikivoyage": "Wikiimalaa",
 	"wikimedia-developers": "Ogeessota Moosaajii",

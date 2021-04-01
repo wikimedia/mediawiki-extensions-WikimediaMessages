@@ -7,7 +7,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Selle viki külastajad, kes kasutavad sinu IP-aadressi, on viimase päeva jooksul loonud {{PLURAL:$1|ühe konto|$1 kontot}}, mis on selles ajavahemikus ülemmääraks.\nSeetõttu ei saa seda IP-aadressi kasutades hetkel rohkem kontosid luua.\n\nKui osaled üritusel, mille peateemaks on kaastöö tegemine Wikimedia projektidele, siis loe, kuidas [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|taotleda IP-aadressilt piirangu ajutist eemaldamist]].",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aita mul valida)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Võid külastada eelistuste lehekülge [[m:Special:CentralAuth/$1|teistes Wikimedia projektides, kuhu oled kaastööd teinud]], et laadida konto andmed alla neist projektidest.",
+	"wikimedia-prefs-user-downloaddata-help-message": "Võid külastada eelistuste lehekülge [[m:Special:CentralAuth/$1|teistes Wikimedia projektides, kus oled kaastööd teinud]], et laadida konto andmed alla neist projektidest.",
 	"wikimedia-createacct-imgcaptcha-help": "Kas sa ei näe pilti? [[{{MediaWiki:createacct-captcha-help-url}}|Taotle kontot]]",
 	"wikimedia-centralauth-groupname": "Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>See konto on [[m:Special:MyLanguage/Global locks|globaalselt lukustatud]].</strong> {{GENDER:$1|Sa}} ei saa ühelegi Wikimedia saidile sisse logida. Palun [[m:Special:Contact/stewards|võta ühendust stjuuarditega]], kui sul on küsimusi.",
