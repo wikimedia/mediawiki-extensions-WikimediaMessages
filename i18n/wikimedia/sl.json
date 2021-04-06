@@ -93,6 +93,9 @@
 	"group-transwiki": "Transwiki uvozniki",
 	"group-transwiki-member": "transwiki {{GENDER:$1|uvoznik|uvoznica}}",
 	"grouppage-transwiki": "{{ns:project}}:Transwiki uvozniki",
+	"group-templateeditor": "Urejevalci predlog",
+	"group-templateeditor-member": "{{GENDER:$1|urejevalec predlog|urejevalka predlog|urejevalec/urejevalka predlog}}",
+	"grouppage-templateeditor": "{{ns:project}}:Urejevalci predlog",
 	"group-trusted": "Zaupani uporabniki",
 	"group-trusted-member": "{{GENDER:$1|zaupan uporabnik|zaupana uporabnica}}",
 	"grouppage-trusted": "{{ns:project}}:Zaupani uporabniki",
@@ -162,6 +165,8 @@
 	"interlanguage-link-wikipedia": "Wikipedija",
 	"interlanguage-link-sitename-wikipedia": "Wikipedija, prosta enciklopedija",
 	"interlanguage-link-commons": "Wikimedijina zbirka",
+	"action-templateeditor": "urejanje zaščitenih predlog",
+	"right-templateeditor": "Urejanje zaščitenih predlog",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "O piškotkih",
 	"querypage-updates-half-monthly": "Ta stran se posodablja dvakrat na mesec."

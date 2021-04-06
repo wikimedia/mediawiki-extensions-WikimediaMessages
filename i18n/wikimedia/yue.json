@@ -12,7 +12,8 @@
 			"Suzukaze-c",
 			"Waihorace",
 			"William915",
-			"Yueman"
+			"Yueman",
+			"Z423x5c6"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -126,5 +127,6 @@
 	"interlanguage-link-commons": "維基同享",
 	"right-editeditorprotected": "改保護等級係「{{int:protect-level-editeditorprotected}}」嘅版面",
 	"right-editextendedsemiprotected": "改保護等級係「{{int:protect-level-editextendedsemiprotected}}」嘅版面",
+	"wikimedia-statslink": "統計",
 	"wikimedia-cookiestatement": "Cookie聲明"
 }

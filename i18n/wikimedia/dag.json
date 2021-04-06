@@ -3,14 +3,19 @@
 		"authors": [
 			"Amire80",
 			"Dhee jah",
+			"Din-nani1",
 			"Dnshitobu",
 			"Masssly"
 		]
 	},
 	"sitesupport": "Tohama",
 	"tooltip-n-sitesupport": "Sɔŋmi ti",
+	"wikimedia-copyright": "Sabbu maa bela <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nYɛltɔɣa pala ni tooi beni.\nNyama <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Zalisi zaŋ chaŋ ti tuma</a> zaŋ chaŋ di neesim polo.",
 	"wikibase-sitelinks-wikinews": "Wikilahabaya",
-	"wikibase-sitelinks-wikiquote": "Wikikote",
+	"wikibase-sitelinks-wikiquote": "Wikikot",
+	"wikibase-sitelinks-wikisource": "Wikisɔs",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Ban tɔhi namili"
+	"wikimedia-developers": "Ban tɔhi namili",
+	"wikimedia-statslink": "Biɛlima kalibu laasabu malibu",
+	"wikimedia-cookiestatement": "Vihirovihiro din maani yɛli bora zaani"
 }

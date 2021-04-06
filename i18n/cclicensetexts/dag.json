@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alhaj Darajaati",
+			"Dnshitobu",
 			"Masssly"
 		]
 	},
-	"wm-license-cc-free": "A mali sɔli:"
+	"wm-license-cc-attribution": "ŋmahinli",
+	"wm-license-cc-free": "A mali sɔli:",
+	"wm-license-cc-free-to-share-header": "N pirigi",
+	"wm-license-cc-free-to-share-text": "Diyi lee ka a yan labi ŋma, n tari ka yan zaŋ tuma n talim",
+	"wm-license-cc-free-to-remix-header": "Lab laɣim",
+	"wm-license-cc-conditions-attribution-header": "ŋmahindibu",
+	"wm-license-cc-conditions-share_alike-header": "Tarimi din nyɛ shɛm"
 }
