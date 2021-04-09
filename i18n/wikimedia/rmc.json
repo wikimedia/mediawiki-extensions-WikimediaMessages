@@ -5,7 +5,12 @@
 		]
 	},
 	"sitesupport": "Te del",
+	"tooltip-n-sitesupport": "Chuden paš amende",
+	"wikimedia-copyright": "Kada tekstos šaj dochudes tel kala podmienki <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; abo tel aver podmienki.\nDikh o podmienki pre kadi sera <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a>.",
 	"wikibase-sitelinks-wikinews": "Wikinevipen",
+	"wikibase-sitelinks-wikisource": "Wikizdrojos",
 	"wikibase-sitelinks-wikivoyage": "Wikidrom",
-	"wikimedia-statslink": "Štatistiki"
+	"wikimedia-developers": "Programara",
+	"wikimedia-statslink": "Štatistiki",
+	"wikimedia-cookiestatement": "Informaciji pal o cookies"
 }
