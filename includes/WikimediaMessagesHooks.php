@@ -41,12 +41,7 @@ class WikimediaMessagesHooks implements
 	/** @var ServiceOptions */
 	private $options;
 
-	/**
-	 * @var UserOptionsManager
-	 *
-	 * Not yet used, but injected for future replacement of User::getOption and
-	 * User::setOption
-	 */
+	/** @var UserOptionsManager */
 	private $userOptionsManager;
 
 	/**
@@ -1565,9 +1560,8 @@ class WikimediaMessagesHooks implements
 	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onLocalUserCreated( $user, $autocreated ) {
-		// TODO replace use of User::setOption with $this->userOptionsManager
-		$user->setOption( 'rcenhancedfilters-seen-tour', true );
-		$user->setOption( 'wlenhancedfilters-seen-tour', true );
+		$this->userOptionsManager->setOption( $user, 'rcenhancedfilters-seen-tour', true );
+		$this->userOptionsManager->setOption( $user, 'wlenhancedfilters-seen-tour', true );
 	}
 
 	/**
