@@ -118,6 +118,7 @@
 	"wikibase-otherprojects-wiktionary": "Vikilüğət",
 	"wikibase-sitelinks-sitename-sourceswiki": "Çoxdilli Vikimənbə",
 	"wikibase-sitelinks-sitename-species": "Vikinövlər",
+	"createacct-captcha-help-url": "{{ns:Project}}:İstifadəçi hesabı istə",
 	"wikimedia-developers": "Tərtibatçılar",
 	"wikimedia-globalblocking-ipblocked": "'''Sizin IP ünvanınız [[m:Special:MyLanguage/Global blocks|bütün vikilərdə bloklanmışdır]].'''\n\nBloklayan: $1 ($2)\nSəbəb: <em>$3</em>\n\n* Blokun başlaması: $4\n* Blokun bitməsi: $5\n\nSizin hazırkı IP ünvanınız: $6\nZəhmət olmasa, etdiyiniz hər hansı bir sorğuda yuxarıda göstərilən məlumatları daxil edin.\n\nSəhvən bloklandığınızı düşünürsünüzsə, əlavə məlumat və təlimatları [[m:Special:MyLanguage/No open proxies|No open proxies|açıq proksi qadağandır]] səhifəsindən tapa bilərsiniz.\nƏks halda, bloku müzakirə etmək üçün [[m:Steward requests/Global|bu Meta səhifəsi]]nə sorğu göndərin.",
 	"interlanguage-link-wikipedia": "Vikipediya",

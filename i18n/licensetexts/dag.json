@@ -3,13 +3,17 @@
 		"authors": [
 			"Achiri Bitamsimli",
 			"Alhaj Darajaati",
+			"Alhassan Mohammed Awal",
+			"Chirifo",
 			"Dnshitobu"
 		]
 	},
 	"wm-license-information-description": "Buɣisibu",
-	"wm-license-information-source": "Nyabu shee",
+	"wm-license-information-source": "Nyabli",
 	"wm-license-information-date": "Dabisili kalinli",
 	"wm-license-information-author": "Sab'sabira",
 	"wm-license-information-permission": "Soli tibu",
-	"wm-license-own-work": "Amaŋmaŋ tuma"
+	"wm-license-information-permission-reusing-text": "kɔligu ŋɔ tuya kadi labtum",
+	"wm-license-own-work": "Amaŋmaŋ tuma",
+	"wm-license-self-multiple-licenses-select": "Ani tooi pii shahira shɛli ani bora"
 }
