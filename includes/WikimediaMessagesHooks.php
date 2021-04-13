@@ -430,7 +430,7 @@ class WikimediaMessagesHooks implements
 	}
 
 	/**
-	 * Over-ride `$wgGrammarForms` for Wikimedia sites as a more convenient form
+	 * Override `$wgGrammarForms` for Wikimedia sites as a more convenient form
 	 * than setting in InitialiseSettings.php. Initial version was compiled from
 	 * then-current Wikimedia configuration and contents of LanguageXx.php.
 	 */
