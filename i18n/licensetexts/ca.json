@@ -12,6 +12,7 @@
 			"Paucabot",
 			"Qllach",
 			"SMP",
+			"SenyorFontal",
 			"Solde",
 			"Vriullop"
 		]
@@ -87,7 +88,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/ca",
 	"wm-license-original-upload-log": "Registre original de càrregues",
 	"wm-license-own-work": "Treball propi",
-	"wm-license-pd-author-self-text": "Jo, el titular del copyright d'aquesta obra, la allibero al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]'''. Això s'aplica a tot el món.",
+	"wm-license-pd-author-self-text": "Jo, el titular del copyright d'aquesta obra, l'allibero al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]'''. Això s'aplica a tot el món.",
 	"wm-license-pd-author-with-author-text": "S'ha alliberat aquesta obra al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]''' pel seu autor '''$1'''. Això s'aplica a tot el món.",
 	"wm-license-pd-author-not-legally-possible": "En alguns països això pot no ser legalment possible, en tal cas:",
 	"wm-license-pd-author-self-any-purpose": "Jo faig concessió a tothom del dret d'usar aquesta obra '''per a qualsevol propòsit''', sense cap condició llevat d'aquelles requerides per la llei.",
