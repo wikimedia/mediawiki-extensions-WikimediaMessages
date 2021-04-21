@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Soul Train",
 			"Саадула 2015"
 		]
 	},
-	"wikibase-sitelinks-sitename-wikidatawiki": "Викидата"
+	"wikibase-sitelinks-sitename-wikidatawiki": "Викидата",
+	"wikimedia-statslink": "Статистика"
 }
