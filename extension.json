@@ -62,7 +62,9 @@
 		}
 	},
 	"Hooks": {
-		"MessageCache::get": "WikimediaMessagesHooks::onMessageCacheGet",
+		"MessageCache::get": {
+			"handler": "WikimediaMessagesHooks"
+		},
 		"SkinCopyrightFooter": {
 			"handler": "WikimediaMessagesHooks"
 		},
