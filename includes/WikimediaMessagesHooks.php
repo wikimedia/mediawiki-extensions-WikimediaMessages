@@ -94,13 +94,16 @@ class WikimediaMessagesHooks implements
 		static $keys = [
 			'acct_creation_throttle_hit',
 			'centralauth-contribs-locked',
-			'centralauth-login-error-locked', // T216347
-			'centralauth-groupname', // T86741
+			// T216347
+			'centralauth-login-error-locked',
+			// T86741
+			'centralauth-groupname',
 			'centralauth-uwbr-intro',
 			'centralauth-uwbr-registration-nodate',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
-			'delete-toobig', // T139797
+			// T139797
+			'delete-toobig',
 			'discussiontools-replywidget-terms-click',
 			'feedback-termsofuse',
 			'flow-terms-of-use-edit',
@@ -112,26 +115,36 @@ class WikimediaMessagesHooks implements
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
 			'interfaceadmin-info',
-			'ipb-confirmhideuser', // T121639
+			// T121639
+			'ipb-confirmhideuser',
 			'mwoauth-form-privacypolicy-link',
-			'mobile-frontend-terms-url', // T252375
+			// T252375
+			'mobile-frontend-terms-url',
 			'mwoauthserver-invalid-user',
-			'prefs-user-downloaddata-help-message', // T272412
+			// T272412
+			'prefs-user-downloaddata-help-message',
 			'privacypage',
 			'sidebar',
-			'sitematrix', // T140941
+			// T140941
+			'sitematrix',
 			'sitematrix-others',
 			'sitematrix-summary',
 			'sulrenamewarning-usenew',
-			'webauthn-module-description', // T248367
-			'webauthn-ui-login-prompt', // T248367
+			// T248367
+			'webauthn-module-description',
+			// T248367
+			'webauthn-ui-login-prompt',
 		];
 
 		static $allbutmetawikikeys = [
-			'apierror-urlshortener-disabled', // T221526
-			'apierror-urlshortener-permissiondenied', // T230253
-			'urlshortener-badaccessgroups', // T230253
-			'urlshortener-disabled', // T221526
+			// T221526
+			'apierror-urlshortener-disabled',
+			// T230253
+			'apierror-urlshortener-permissiondenied',
+			// T230253
+			'urlshortener-badaccessgroups',
+			// T221526
+			'urlshortener-disabled',
 		];
 
 		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
@@ -282,13 +295,15 @@ class WikimediaMessagesHooks implements
 			case 'testwikidatawiki':
 				// Wikidata needs its own special message. See T112088
 				$msg = 'wikidata-copyright';
-				$link = ' '; // Set this to space to avoid confusion (empty string wont work)
+				// Set this to space to avoid confusion (empty string wont work)
+				$link = ' ';
 				break;
 			case 'commonswiki':
 			case 'testcommonswiki':
 				// Commons also needs its own special message.
 				$msg = 'wikimedia-commons-copyright';
-				$link = ' '; // Set this to space to avoid confusion (empty string wont work)
+				// Set this to space to avoid confusion (empty string wont work)
+				$link = ' ';
 				break;
 			default:
 				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
@@ -458,7 +473,7 @@ class WikimediaMessagesHooks implements
 				'Wikipǣdia' => 'Wikipǣdie',
 				'Wikiwordbōc' => 'Wikiwordbēc',
 			],
-		]; // ang
+		];
 
 		$wgGrammarForms['be'] = [
 			// genitive
@@ -485,7 +500,7 @@ class WikimediaMessagesHooks implements
 				'Вікіслоўнік' => 'Вікіслоўніку',
 				'Вікіпедыя'   => 'Вікіпедыі',
 			],
-		]; // be
+		];
 
 		$wgGrammarForms['be-tarask'] = [
 			// genitive
@@ -553,7 +568,7 @@ class WikimediaMessagesHooks implements
 				'Вікісховішча' => 'Вікісховішчы',
 				'Фундацыя «Вікімэдыя»' => 'Фундацыі «Вікімэдыя»',
 			],
-		]; // be-tarask
+		];
 
 		$wgGrammarForms['bs'] = [
 			// genitive
@@ -598,7 +613,8 @@ class WikimediaMessagesHooks implements
 				'Wikicitati'  => 'Wikicitatima',
 				'Wikiizvor'   => 'Wikiizvorom',
 				'Wikiknjige'  => 'Wikiknjigama',
-				'Wikipedia'   => 'Wikipedijom', // T130141
+				// T130141
+				'Wikipedia'   => 'Wikipedijom',
 				'Wikipodaci'  => 'Wikipodacima',
 				'Wikivijesti' => 'Wikivijestima',
 				'Wikimedia Commons' => 'Wikimedia Commonsom',
@@ -614,7 +630,7 @@ class WikimediaMessagesHooks implements
 				'Wikivijesti' => 'Wikivijestima',
 				'Wikimedia Commons' => 'Wikimedia Commonsu',
 			],
-		]; // bs
+		];
 
 		$wgGrammarForms['cs'] = [
 			// only forms different than default/given
@@ -870,7 +886,7 @@ class WikimediaMessagesHooks implements
 				'Wikizdroje'  => 'Wikizdroji',
 				'Wikizprávy'  => 'Wikizprávami',
 			],
-		]; // cs
+		];
 
 		$wgGrammarForms['dsb'] = [
 			// genitive
@@ -914,7 +930,7 @@ class WikimediaMessagesHooks implements
 				'Wikicitaty'  => 'Wikicitatach',
 				'Wikisłownik' => 'Wikisłowniku',
 			],
-		]; // dsb
+		];
 
 		$wgGrammarForms['et'] = [
 			'genitive' => [
@@ -951,7 +967,7 @@ class WikimediaMessagesHooks implements
 				'Vikitsitaadid' => 'Vikitsitaatidest',
 				'Vikiõpikud'    => 'Vikiõpikutest',
 			],
-		]; // et
+		];
 
 		$wgGrammarForms['fi'] = [
 			'genitive' => [
@@ -984,7 +1000,7 @@ class WikimediaMessagesHooks implements
 				'Wikimedia Suomi' => 'Wikimedia Suomeen',
 				'Wikimatkat' => 'Wikimatkoihin',
 			],
-		]; // fi
+		];
 
 		$wgGrammarForms['ga'] = [
 			'genitive' => [
@@ -996,7 +1012,7 @@ class WikimediaMessagesHooks implements
 				'Vicíghnéithe' => 'Vicíghnéithe',
 				'Vicínuacht'   => 'Vicínuachta',
 			],
-		]; // ga
+		];
 
 		$wgGrammarForms['gsw'] = [
 			// dative
@@ -1026,7 +1042,7 @@ class WikimediaMessagesHooks implements
 				'Wikisprüch'      => 'd Wikisprüch',
 				'Wikiquälle'      => 'd Wikiquälle',
 			],
-		]; // gsw
+		];
 
 		$wgGrammarForms['hsb'] = [
 			// genitive
@@ -1070,7 +1086,7 @@ class WikimediaMessagesHooks implements
 				'Wikicitaty'  => 'Wikicitatach',
 				'Wikisłownik' => 'Wikisłowniku',
 			],
-		]; // hsb
+		];
 
 		$wgGrammarForms['hu'] = [
 			'rol' => [
@@ -1090,7 +1106,7 @@ class WikimediaMessagesHooks implements
 				'Wikidézet'   => 'Wikidézetek',
 				'Wikiszótár'  => 'Wikiszótárak',
 			],
-		]; // hu
+		];
 
 		$wgGrammarForms['la'] = [
 			'genitive' => [
@@ -1099,7 +1115,7 @@ class WikimediaMessagesHooks implements
 			'ablative' => [
 				'Vicimedia Communia' => 'Vicimediis Communibus',
 			],
-		]; // la
+		];
 
 		$wgGrammarForms['lv'] = [
 			'ģenitīvs' => [
@@ -1118,7 +1134,7 @@ class WikimediaMessagesHooks implements
 				'Vikipēdija'   => 'Vikipēdijā',
 				'Vikivārdnīca' => 'Vikivārdnīcā',
 			],
-		]; // lv
+		];
 
 		$wgGrammarForms['pl'] = [
 			'D.lp' => [
@@ -1160,7 +1176,7 @@ class WikimediaMessagesHooks implements
 				'Wikipedia'    => 'Wikipedio',
 				'Wikisłownik'  => 'Wikisłowniku',
 			],
-		]; // pl
+		];
 
 		$wgGrammarForms['rmy'] = [
 			// genitive (m.sg.)
@@ -1198,7 +1214,7 @@ class WikimediaMessagesHooks implements
 				'Vikipidiya' => 'z Wikipedijo',
 				'Vikcyonaro' => 'Vikcyonaresa',
 			],
-		]; // rmy
+		];
 
 		$wgGrammarForms['sk'] = [
 			'genitív' => [
@@ -1231,7 +1247,7 @@ class WikimediaMessagesHooks implements
 				'Wikicitáty'  => 'Wikicitátmi',
 				'Wikiknihy'   => 'Wikiknihami',
 			],
-		]; // sk
+		];
 
 		$wgGrammarForms['sl'] = [
 			// genitive
@@ -1275,7 +1291,7 @@ class WikimediaMessagesHooks implements
 				'Wikivir'     => 'z Wikivirom',
 				'Wikislovar'  => 'z Wikislovarjem',
 			],
-		]; // sl
+		];
 
 		$wgGrammarForms['sr-ec'] = [
 			// genitive
@@ -1341,7 +1357,7 @@ class WikimediaMessagesHooks implements
 				'Викимедијина остава' => 'Викимедијиној остави',
 				'Викиверзитет' => 'Викиверзитету',
 			],
-		]; // sr-ec
+		];
 
 		$wgGrammarForms['sr-el'] = [
 			// genitive
@@ -1407,7 +1423,7 @@ class WikimediaMessagesHooks implements
 				'Vikimedijina ostava' => 'Vikimedijinoj ostavi',
 				'Vikiverzitet' => 'Vikiverzitetu',
 			],
-		]; // sr-el
+		];
 
 		$wgGrammarForms['uk'] = [
 			// genitive
@@ -1482,7 +1498,7 @@ class WikimediaMessagesHooks implements
 				'Вікідані' => 'Вікідані',
 				'Вікімандри' => 'Вікімандри',
 			],
-		]; // uk
+		];
 	}
 
 	/**
