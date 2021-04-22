@@ -196,7 +196,7 @@ class WikimediaMessagesHooks implements
 	protected static function transformKeyForGettingStarted( $lcKey ) {
 		global $wgConf, $wgDBname;
 
-		list( $site, $lang ) = $wgConf->siteFromDB( $wgDBname );
+		[ $site, ] = $wgConf->siteFromDB( $wgDBname );
 
 		// All "special" wikis (special.dblist, e.g. commonswiki, wikidatawiki, mediawikiwiki)
 		// wrongly return "wikipedia" here due to their dbname suffix.
@@ -338,35 +338,31 @@ class WikimediaMessagesHooks implements
 		$devDestination = Skin::makeInternalOrExternalUrl(
 			$skin->msg( 'wikimedia-developers-url' )->inContentLanguage()->text()
 		);
-		$devLink = Html::element(
+		$footerLinks['developers'] = Html::element(
 			'a',
 			[ 'href' => $devDestination ],
 			$skin->msg( 'wikimedia-developers' )->text()
 		);
-		$footerLinks['developers'] = $devLink;
 
 		$statsDestination = Skin::makeInternalOrExternalUrl(
 			$skin->msg(
 				'wikimedia-statslink-url', $skin->getConfig()->get( 'ServerName' )
 			)->inContentLanguage()->text()
 		);
-		$statsLink = Html::element(
+		$footerLinks['statslink'] = Html::element(
 			'a',
 			[ 'href' => $statsDestination ],
 			$skin->msg( 'wikimedia-statslink' )->text()
 		);
-		$footerLinks['statslink'] = $statsLink;
 
 		$cookieDestination = Skin::makeInternalOrExternalUrl(
 			$skin->msg( 'wikimedia-cookiestatement-page' )->inContentLanguage()->text()
 		);
-		$cookieLink = Html::element(
+		$footerLinks['cookiestatement'] = Html::element(
 			'a',
 			[ 'href' => $cookieDestination ],
 			$skin->msg( 'wikimedia-cookiestatement' )->text()
 		);
-
-		$footerLinks['cookiestatement'] = $cookieLink;
 	}
 
 	/**
