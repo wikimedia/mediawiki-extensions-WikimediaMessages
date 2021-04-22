@@ -3,5 +3,7 @@
 		"authors": []
 	},
 	"wm-codeofconduct-url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct",
-	"wm-codeofconduct": "Code of Conduct"
+	"wm-codeofconduct": "Code of Conduct",
+	"wm-techcodeofconduct-url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct",
+	"wm-techcodeofconduct": "Code of Conduct"
 }
