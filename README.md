@@ -15,7 +15,7 @@ WikimediaMessages is distributed under the [GNU General Public License 2.0](http
 
 * Tim Starling
 * Siebrand Mazeland
-* James D. Forrrester
+* James D. Forrester
 * Multichill
 
 For more information see https://www.mediawiki.org/wiki/Extension:WikimediaMessages.
