@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"GwikorFrank",
 			"Kernoweger",
 			"Kw-Moon",
 			"Nrowe"
@@ -10,7 +11,7 @@
 	"wm-license-information-source": "Pennfenten",
 	"wm-license-information-date": "Dedhyans",
 	"wm-license-information-author": "Awtour",
-	"wm-license-information-author-missing": "Ny's teves an restren-ma kedhlow a'n '''awtour'''.",
+	"wm-license-information-author-missing": "Ny's teves an restren ma kedhlow a'n '''awtour'''.",
 	"wm-license-information-permission": "Kummyas",
 	"wm-license-information-permission-reusing-text": "Dastevnydhya an restren ma",
 	"wm-license-own-work": "Ober honan"
