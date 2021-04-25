@@ -4,6 +4,7 @@
 // Need to be able to define ::onUploadForm_initial
 
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
+use MediaWiki\Cache\Hook\MessageCache__getHook;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
@@ -28,6 +29,7 @@ class WikimediaMessagesHooks implements
 	EditPageCopyrightWarningHook,
 	GetPreferencesHook,
 	LocalUserCreatedHook,
+	MessageCache__getHook,
 	ResourceLoaderRegisterModulesHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
@@ -75,6 +77,7 @@ class WikimediaMessagesHooks implements
 					'DBname',
 					'ForceUIMsgAsContentMsg',
 					'RightsUrl',
+					'LanguageCode',
 				],
 				$mainConfig
 			),
@@ -88,8 +91,8 @@ class WikimediaMessagesHooks implements
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/MessageCache::get
 	 * @param string &$lcKey message key to check and possibly convert
 	 */
-	public static function onMessageCacheGet( &$lcKey ) {
-		global $wgLanguageCode, $wmgRealm, $wgDBname;
+	public function onMessageCache__get( &$lcKey ) {
+		global $wmgRealm;
 
 		static $keys = [
 			'acct_creation_throttle_hit',
@@ -151,7 +154,8 @@ class WikimediaMessagesHooks implements
 			$lcKey = 'wikimedia-privacypage-labs';
 		} else {
 			if ( in_array( $lcKey, $keys, true ) ||
-				( $wgDBname !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) ) ) {
+				( $this->options->get( 'DBname' ) !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) )
+			) {
 				$transformedKey = "wikimedia-$lcKey";
 			} else {
 				$transformedKey = self::transformKeyForGettingStarted( $lcKey );
@@ -177,7 +181,7 @@ class WikimediaMessagesHooks implements
 				 * 2. Otherwise, use the prefixed key with normal fallback order
 				 * (including MediaWiki pages if they exist).
 				 */
-				$cache->getMsgFromNamespace( $ucKey, $wgLanguageCode ) === false
+				$cache->getMsgFromNamespace( $ucKey, $this->options->get( 'LanguageCode' ) ) === false
 			) {
 				$lcKey = $transformedKey;
 			}
@@ -1671,7 +1675,7 @@ class WikimediaMessagesHooks implements
 	 *
 	 * @param SpecialPage $special
 	 * @param string|null $subPage
-	 * @return bool|void True or no return value to continue or false to prevent execution
+	 * @return void True or no return value to continue or false to prevent execution
 	 */
 	public function onSpecialPageBeforeExecute( $special, $subPage ) {
 		if (
