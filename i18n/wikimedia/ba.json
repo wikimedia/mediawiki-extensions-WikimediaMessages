@@ -6,6 +6,7 @@
 			"Haqmar",
 			"Nemo bis",
 			"Sagan",
+			"Soul Train",
 			"Ләйсән",
 			"Рустам Нурыев",
 			"ҒатаУлла"
@@ -126,5 +127,6 @@
 	"upload-form-label-not-own-work-message-commons": "Әгәр ошо файлдың авторы түгелһегеҙ һәм уны икенсе лицензия аҫтында сығарырға теләйһегеҙ икән,  [https://commons.wikimedia.org/wiki/Special:UploadWizard Викискладҡа күсереү оҫталары] мөмкинлеген файҙаланығыҙ.",
 	"upload-form-label-not-own-work-local-commons": "{{SITENAME}} талаптарына ярашлы файлы тейәп булһа,  [[Special:Upload|тейәү битен]] ҡарағыҙ.",
 	"interlanguage-link-commons": "Викимилек",
+	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie тураһында килешеү"
 }

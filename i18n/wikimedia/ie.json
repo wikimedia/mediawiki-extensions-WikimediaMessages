@@ -5,11 +5,18 @@
 			"Malafaya",
 			"Mithridates",
 			"OIS",
+			"Renan",
 			"Stavanger7"
 		]
 	},
 	"sitesupport": "Donationes",
 	"tooltip-n-sitesupport": "Alimenta nos",
+	"group-rollbacker": "Revocatores",
+	"group-rollbacker-member": "{{GENDER:$1|revocator}}",
+	"grouppage-rollbacker": "{{ns:project}}:Revocatores",
+	"group-global-rollbacker": "Revocatores global",
+	"group-global-rollbacker-member": "{{GENDER:$1|revocator global}}",
+	"grouppage-global-rollbacker": "m:Revocator global",
 	"wikimedia-copyright": "Texte es disponibil sub li <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Licentie de Creative Commons Attribution-ShareAlike</a>;\nconditiones in plu posse esser aplicat.\nVide li <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Conditiones de Usation</a> por detallies.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
