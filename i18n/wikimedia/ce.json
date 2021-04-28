@@ -165,6 +165,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Викиаматаш",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викихаамаш",
+	"createacct-captcha-help-url": "{{ns:Project}}:Декъашхочун агӀо ехар",
 	"wikimedia-developers": "Кечдархой",
 	"wikimedia-torblock-blocked": "Хьан IP-адрес <strong>$1</strong> авто билгалдина Tor тӀера санна.\nTor браузер тӀера хийцамаш барна блоктоьхна зулам цадайтархьама.\nКхин сов хаамашка хьажа [[m:Special:MyLanguage/No open proxies|кху агӀонехь]].",
 	"grant-checkuser": "Декъашхошка хьажа таро ю",

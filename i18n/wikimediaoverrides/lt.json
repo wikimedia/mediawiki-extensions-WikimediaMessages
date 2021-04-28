@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Eitvys200",
-			"Manvydasz"
+			"Manvydasz",
+			"Tomasdd"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(padėkite man pasirinkti)]]",
@@ -10,8 +11,8 @@
 	"wikimedia-centralauth-groupname": "Vikimedijos fondas",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Naudotojo vardo_politika",
-	"wikimedia-sitematrix": "Wikimedia projektų sąrašas",
+	"wikimedia-sitematrix": "Vikimedijos viki projektų sąrašas",
 	"wikimedia-sitematrix-others": "Kiti Vikimedijos projektai",
-	"wikimedia-sitematrix-summary": "Šis specialus puslapis rodo Wikimedia wiki sąrašą.",
+	"wikimedia-sitematrix-summary": "Šis specialus puslapis rodo Vikimedijos viki sąrašą.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Privatumo politika]"
 }

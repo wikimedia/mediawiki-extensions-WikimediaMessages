@@ -280,6 +280,7 @@
 	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\nVexa os [[m:Special:CentralAuth/$1|detalles globais da conta]] para máis información.",
 	"right-viewdeletedfile": "Ver ficheiros e páxinas borradas nos espazos de nomes {{ns:file}} e {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Elección da Xunta",
+	"wikimedia-statslink": "Estatísticas",
 	"wikimedia-cookiestatement": "Declaración de cookies",
 	"querypage-updates-half-monthly": "As actualizacións para esta páxina realízanse dúas veces por mes."
 }
