@@ -5,5 +5,7 @@
 		]
 	},
 	"wm-codeofconduct-url": "{{notranslate}}\nURL to code of conduct for Wikimedia technical spaces",
-	"wm-codeofconduct": "Footer label for code of conduct for Wikimedia technical spaces link"
+	"wm-codeofconduct": "Footer label for code of conduct for Wikimedia technical spaces link",
+	"wm-techcodeofconduct-url": "{{notranslate}}\nURL to code of conduct for Wikimedia technical spaces",
+	"wm-techcodeofconduct": "Footer label for code of conduct for Wikimedia technical spaces link"
 }
