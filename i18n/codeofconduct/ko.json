@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ellif",
 			"Gustmd7410"
 		]
 	},
-	"wm-codeofconduct": "행동 강령"
+	"wm-codeofconduct": "행동 강령",
+	"wm-techcodeofconduct": "행동규약"
 }

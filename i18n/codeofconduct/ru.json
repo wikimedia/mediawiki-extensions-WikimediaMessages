@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaganer"
+			"Kaganer",
+			"Rivka Silinsky"
 		]
 	},
-	"wm-codeofconduct": "Кодекс поведения"
+	"wm-codeofconduct": "Кодекс поведения",
+	"wm-techcodeofconduct": "Кодекс Поведения"
 }

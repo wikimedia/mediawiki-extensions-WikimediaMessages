@@ -3,15 +3,18 @@
 		"authors": [
 			"Ahmad252",
 			"Alirezaaa",
+			"Jeeputer",
 			"Nemo bis",
 			"Reza1615",
 			"Rtemis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "برای دریافت داده‌های حساب خود از [[m:Special:CentralAuth/$1|سایر پروژه‌های ویکی‌مدیا که در آن‌ها مشارکت داشته‌اید]]، باید به صفحهٔ ترجیحات خودتان در آن پروژه‌ها بروید.",
 	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست حساب کاربری]] کنید",
 	"wikimedia-centralauth-groupname": "بنیاد ویکی‌مدیا",
-	"wikimedia-centralauth-uwbr-intro": "در این صفحه کاربران ثبت‌نام کرده در این ویکی که برپایهٔ [[m:Single User Login finalisation announcement|پایان ورود به سامانه تک کاربر]] تغییرنام داده‌می‌شوند فهرست می‌شوند. اطلاعات بیشتر در [[m:Help:Unified login|یکسان‌سازی ورود]].با استفاده از [[Special:GlobalRenameRequest]] کاربران هر زمانی می‌توانند درخواست تغییرنام دهند.",
+	"wikimedia-centralauth-uwbr-intro": "در این صفحه کاربران ثبت‌نام کرده در این ویکی که بر پایهٔ [[m:Single User Login finalisation announcement|پایان ورود به سامانه تک کاربر]] تغییر نام داده‌می‌شوند فهرست می‌شوند. اطلاعات بیشتر در [[m:Help:Unified login|یکسان‌سازی ورود]] موجود است. کاربران در هر زمانی می‌توانند با استفاده از [[ویژه:درخواست ادغام کاربر سراسری]] درخواست تغییر نام دهند.",
+	"wikimedia-centralauth-uwbr-registration-nodate": "< ۲۰۰۶",
 	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است. بیش از $1 {{PLURAL:$1|ویرایش|ویرایش}}. حذف صفحات دارای تاریخچهٔ پر ویرایش از سوی {{SITENAME}} منع شده‌است.\nبرای حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در  [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
 	"wikimedia-discussiontools-replywidget-terms-click": "با کلیک روی «$1»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان تحت [https://creativecommons.org/licenses/by-sa/3.0 پروانه CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",
 	"wikimedia-feedback-termsofuse": "من موافقت می‌کنم یک بازخورد برای <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Terms of Use</a> تهیه شود.",

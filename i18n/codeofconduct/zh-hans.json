@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Grace03",
 			"Liuxinyu970226"
 		]
 	},
-	"wm-codeofconduct": "行为准则"
+	"wm-codeofconduct": "行为准则",
+	"wm-techcodeofconduct": "行为准则"
 }

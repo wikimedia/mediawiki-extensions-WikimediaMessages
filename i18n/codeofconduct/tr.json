@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"By erdo can",
+			"Joseph",
 			"MuratTheTurkish"
 		]
 	},
-	"wm-codeofconduct": "Davranış Kodu"
+	"wm-codeofconduct": "Davranış Kuralları",
+	"wm-techcodeofconduct": "Davranış Kuralları"
 }
