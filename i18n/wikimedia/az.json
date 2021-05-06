@@ -45,6 +45,9 @@
 	"group-editprotected": "Mühafizə olunmuş səhifə redaktorları",
 	"group-eliminator-member": "{{GENDER:$1|eliminator}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminator",
+	"group-extendedconfirmed": "Təcrübəli istifadəçilər",
+	"group-extendedconfirmed-member": "{{GENDER:$1|təcrübəli istifadəçi}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}:Təcrübəli istifadəçilər",
 	"group-filemover-member": "{{GENDER:$1|file mover}}",
 	"group-flood": "Bot istifadəçilər",
 	"group-flood-member": "{{GENDER:$1|bot}}",
@@ -122,11 +125,14 @@
 	"wikimedia-developers": "Tərtibatçılar",
 	"wikimedia-globalblocking-ipblocked": "'''Sizin IP ünvanınız [[m:Special:MyLanguage/Global blocks|bütün vikilərdə bloklanmışdır]].'''\n\nBloklayan: $1 ($2)\nSəbəb: <em>$3</em>\n\n* Blokun başlaması: $4\n* Blokun bitməsi: $5\n\nSizin hazırkı IP ünvanınız: $6\nZəhmət olmasa, etdiyiniz hər hansı bir sorğuda yuxarıda göstərilən məlumatları daxil edin.\n\nSəhvən bloklandığınızı düşünürsünüzsə, əlavə məlumat və təlimatları [[m:Special:MyLanguage/No open proxies|No open proxies|açıq proksi qadağandır]] səhifəsindən tapa bilərsiniz.\nƏks halda, bloku müzakirə etmək üçün [[m:Steward requests/Global|bu Meta səhifəsi]]nə sorğu göndərin.",
 	"interlanguage-link-wikipedia": "Vikipediya",
+	"protect-level-extendedconfirmed": "Yalnız təcrübəli istifadəçilərə icazə ver",
 	"eri-rcfilters-tour-intro-welcome-button": "Okey, aydındır",
 	"eri-rcfilters-tour-highlight-title": "Nəticələri rəngləyin",
 	"eri-rcfilters-tour-highlight-description": "Rənglərdən istifadə edin ki, seçdiyiniz göstəriciləri bir-birindən vizual ayırd edə biləsiniz.<br/><br/>Siz rəngləmə və filtrləmədən qarışıq və ya təkcə rəngləmədən istifadə edə bilərsiniz.",
 	"eri-rcfilters-tour-highlight-button": "Okey, aydındır",
 	"wikimedia-centralauth-contribs-locked": "Bu istifadəçi qlobal bloklanmışdır.\nDaha ətraflı məlumat üçün [[m:Special:CentralAuth/$1|qlobal istifadəçi hesabına]] baxın.",
 	"wikimedia-statslink": "Statistikalar",
-	"wikimedia-cookiestatement": "Kuki məlumatı"
+	"wikimedia-cookiestatement": "Kuki məlumatı",
+	"querypage-updates-half-monthly": "Bu səhifə ayda iki dəfə yenilənir.",
+	"querypage-updates-monthly": "Bu səhifə ayda bir dəfə yenilənir."
 }
