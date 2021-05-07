@@ -297,7 +297,7 @@
 	"action-extendedconfirmed": "sınırlı sayfaları düzenle",
 	"right-extendedconfirmed": "Sınırlı sayfaları düzenle",
 	"restriction-level-extendedconfirmed": "oluşturulan editör korumalı",
-	"protect-level-extendedconfirmed": "Yalnızca yerleşik editörlere ve hizmetliere izin ver",
+	"protect-level-extendedconfirmed": "Yalnızca doğrulanmış editörlere ve hizmetlilere izin ver",
 	"action-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" olarak korunan sayfaları düzenle",
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" olarak korunan sayfaları düzenle",
 	"protect-level-editeditorprotected": "Yalnızca editörlere izin ver",
