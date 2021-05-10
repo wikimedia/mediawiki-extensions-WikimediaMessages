@@ -202,7 +202,7 @@
 	"wm-license-cc-sa-2.0-jp-text": "ХӀара файл лело йиш ю [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.ru Share Alike 2.0 Япони] лицензица.",
 	"wm-license-cc-zero-text": "ХӀара файл лело йиш ю [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.ru CC0 1.0 Универсальни юкъараллин кховдор (Universal Public Domain Dedication)].",
 	"wm-license-cc-zero-explanation": "ХӀара произведени еш дакъалаьцначара сацам бина иза [[{{int:wm-license-pd-wiki-link}}|юкъаралин рицӀкъ]]ан яла, авторийн бакъонашца оцу произведенин шай бакъонаш кхин дӀа йоцуш Ӏедало магочу кепехь. Шу йиш ю копиян, хийца, яржо, шайна луург деш лелаян хӀара произведени авторега бакъо ца йохуш.",
-	"wm-license-cc-free": "Хьа йиш ю маьрша:",
+	"wm-license-cc-free": "Хьа йиш йу маьрша:",
 	"wm-license-cc-free-to-share-header": "произведени яржо",
 	"wm-license-cc-free-to-share-text": "копи ян, яржо а, хӀара произведи дӀассаекха а.",
 	"wm-license-cc-free-to-remix-header": "арахецарш кхолла",
@@ -213,5 +213,5 @@
 	"wm-license-cc-conditions-share_alike-header": "йаржа йан мега оцу хьолаца",
 	"wm-license-cc-conditions-share_alike-text": "Хьайна хӀара хийца я хӀокхунах кхин произведени кхолла лууш делахь, хьа йиш ю хилла произведени хӀокху я цуьнца йогӀуш йолу лицензица яржо.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.ru",
-	"wm-license-cc-pd-mark-text": "ХӀара файл авторийн бакъонех маьрша ю аьлла билгалйина ю."
+	"wm-license-cc-pd-mark-text": "ХӀара файл авторийн бакъонех маьрша йу аьлла билгалйина йу."
 }

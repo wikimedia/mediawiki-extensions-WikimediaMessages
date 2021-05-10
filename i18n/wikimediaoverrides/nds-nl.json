@@ -1,7 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Servien"
+		]
 	},
+	"wikimedia-prefs-user-downloaddata-help-message": "Jy künnet ouk by juw instellingen kyken up [[m:Special:CentralAuth/$1|andere Wikimedia-projekten wår jy an bydragen hebbet]] üm juw kontogegeavens van disse projekten dale te laden.",
 	"wikimedia-createacct-imgcaptcha-help": "Ku'j de aofbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan n gebrukerskonto an]]",
 	"wikimedia-centralauth-groupname": "de Wikimedia Foundation",
 	"wikimedia-sitematrix": "Lyste van Wikimedia-wikis",
