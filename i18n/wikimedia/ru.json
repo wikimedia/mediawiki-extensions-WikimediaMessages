@@ -316,7 +316,7 @@
 	"restriction-level-superprotect": "супер-защита",
 	"action-templateeditor": "правка защищённых шаблонов",
 	"right-templateeditor": "Правка защищённых шаблонов",
-	"restriction-level-templateeditor": "редактор шаблона защищен",
+	"restriction-level-templateeditor": "защищено до уровня редакторов шаблонов",
 	"protect-level-templateeditor": "Разрешить только редакторам шаблонов и администраторам",
 	"action-extendedconfirmed": "правка страниц с ограниченным доступом",
 	"right-extendedconfirmed": "Правка страниц с ограниченным доступом",
