@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bosogo",
 			"Chorobek",
 			"Growingup",
 			"Janatkg"
@@ -14,5 +15,8 @@
 	"wikibase-sitelinks-wikinews": "Уикижаңылыктар",
 	"wikibase-sitelinks-wikiquote": "Уикицитата",
 	"wikibase-sitelinks-wikisource": "Уикикана",
-	"wikibase-sitelinks-wikivoyage": "Уикисаякат"
+	"wikibase-sitelinks-wikivoyage": "Уикисаякат",
+	"wikimedia-developers": "Түзүүчүлөр",
+	"wikimedia-statslink": "Статистика",
+	"wikimedia-cookiestatement": "Cookie тууралу билдирүү"
 }

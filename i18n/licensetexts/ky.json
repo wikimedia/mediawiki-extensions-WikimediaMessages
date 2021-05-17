@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bosogo",
 			"Chorobek",
 			"Growingup"
 		]
@@ -34,5 +35,9 @@
 	"wm-license-information-description": "Баяндама",
 	"wm-license-information-source": "Булак",
 	"wm-license-information-date": "Дата",
-	"wm-license-information-author": "Автор"
+	"wm-license-information-author": "Автор",
+	"wm-license-information-permission": "Уруксат",
+	"wm-license-information-permission-reusing-text": "Бул файл кайрадан колдонууда",
+	"wm-license-own-work": "Жумушубуз",
+	"wm-license-self-multiple-licenses-select": "Сиз тандаган лицензияны тандай аласыз."
 }

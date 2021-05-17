@@ -6,6 +6,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Хьан аьтту бу [[m:Special:CentralAuth/$1|кхечу Викимедиа проекташкара]] нисдаран гӀирсан агӀонга хьажа, оцу проекташкахь хьан къинхьегам балахь, декъашхочун агӀонан хаамаш чубаха таро йу.",
 	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Еха декъашхочун агӀо]]",
 	"wikimedia-centralauth-groupname": "Викимедин фондан",
 	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀерш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш йу муьлхачу хенахь шайн цӀерш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а.",

@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Banjo",
+			"Maria zaos",
 			"Toliño"
 		]
 	},
@@ -211,7 +212,7 @@
 	"wm-license-cc-free-to-remix-text": "adaptar a obra",
 	"wm-license-cc-conditions": "Baixo as seguintes condicións:",
 	"wm-license-cc-conditions-attribution-header": "recoñecemento",
-	"wm-license-cc-conditions-attribution-text": "Debe indicar a debida atribución de autoría, fornecer unha ligazón á licenza, e indicar se se realizaron cambios. Pode facer isto de calquera forma razonable, mais non nunha forma que indique que o dono da licencia apoia ou subscribe o seu uso da obra.",
+	"wm-license-cc-conditions-attribution-text": "Debe indicar a debida atribución de autoría, fornecer unha ligazón á licenza, e indicar se se realizaron cambios. Pode facer isto de calquera forma razonable, mais non nunha forma que indique que quen posúe a licenza apoia ou subscribe o seu uso da obra.",
 	"wm-license-cc-conditions-share_alike-header": "compartir igual",
 	"wm-license-cc-conditions-share_alike-text": "Se altera, transforma amplía este contido, debe publicar as súas contribucións baixo  [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses a mesma licenza ou outra compatible] á orixinal.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.gl",

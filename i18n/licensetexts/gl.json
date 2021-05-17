@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Elisardojm",
+			"Maria zaos",
 			"Toliño"
 		]
 	},
@@ -64,7 +65,7 @@
 	"wm-license-information-source-missing": "Este ficheiro carece da información sobre a súa '''orixe'''.",
 	"wm-license-information-source-missing-request": "Por favor, edite a descrición deste ficheiro e proporcione unha.",
 	"wm-license-information-date": "Data",
-	"wm-license-information-author": "Autor",
+	"wm-license-information-author": "Autoría",
 	"wm-license-information-author-missing": "Este ficheiro carece da información sobre o seu '''autor'''.",
 	"wm-license-information-permission": "Licenza",
 	"wm-license-information-permission-reusing-text": "Reuso deste ficheiro",
