@@ -4,8 +4,13 @@
 			"Lea.Fakauvea"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "E tali te tohi fakatatau, te vaevae mo te fetogi o te pāsina aeni o mulimuli pe ki te 'u tu'utu'uni o te '''[[{{int:wm-license-gfdl-wiki-link}}|Tohi fakagafua o te faka'aoga'i  tauateaina o te 'u gaue GNU]]''', 'uluaki toho 1.2 pe muli atu a te [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]. E ma'u te pepa fakagafua i te vaega aeni ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Fakahinohino",
 	"wm-license-information-source": "Matapuna",
 	"wm-license-information-date": "'Aho",
-	"wm-license-information-author": "Kaiga faitohi"
+	"wm-license-information-author": "Kaiga faitohi",
+	"wm-license-information-permission": "Fakagafua",
+	"wm-license-information-permission-reusing-text": "Toe faka'aoga te koga aeni",
+	"wm-license-own-work": "Gaue a kita",
+	"wm-license-self-multiple-licenses-select": "E feala tau fili te pepa fakagafua e ke loto ki ai."
 }

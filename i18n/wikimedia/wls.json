@@ -12,6 +12,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Tufuga",
+	"wikimedia-globalblocking-ipblocked": "'''E kua [[m:Special:MyLanguage/Global ta'ofi|ta'ofi i te 'u wiki fuli]] tau tu'asila IP.'''\n\nNe'e ta'ofi e $1 ($2).\nTupu ko te ''$3''.\n\n* Kamata ta'ofi: $4\n* Faka'osi ta'ofi: $5\n\nKo te tu'asila IP e ke faka'aoga'i nei ko $6.\nTohi koga fuli e fakahā atu i oluga mo ka e ke fia fai hau fekumi o 'uhiga mo te ta'ofi aeni.\n\nKa e ke 'ui ne'e ta'ofi hala koe, vaka'i atu te pāsina tokoni o 'uhiga mo te [[m:Special:MyLanguage/Faka'aoga'i VPN|Faka'aoga'i VPN]].\n\nKa e ke fia palalau mai o 'uhiga mo te ta'ofi aeni [[m:Steward requests/Global|faitohi mai ki te Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Ko te VPN e ke faka'aoga'i e [[m:Special:MyLanguage/Global blocks|ta'ofi i te fenua fuli]].'''\n\nNe'e ta'ofi e $1 ($2).\nTupu ko te ''$3''.\n\n* Kamata ta'ofi: $4\n* Faka'osi ta'ofi: $5\n\nKo te tu'asila IP e ke faka'aoga'i nei ko $6.\nTohi koga fuli e fakahā atu i oluga mo ka e ke fia fai hau fekumi o 'uhiga mo te ta'ofi aeni.\n\nKa e ke 'ui ne'e ta'ofi hala koe, vaka'i atu te pāsina tokoni o 'uhiga mo te [[m:Special:MyLanguage/Faka'aoga'i VPN|Faka'aoga'i VPN]].\n\nKa e ke fia palalau mai o 'uhiga mo te ta'ofi aeni [[m:Steward requests/Global|faitohi mai ki te Meta-Wiki]].",
 	"wikimedia-statslink": "Lau nūmelo",
 	"wikimedia-cookiestatement": "Fakamulimuli"
 }
