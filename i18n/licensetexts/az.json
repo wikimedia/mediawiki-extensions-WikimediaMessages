@@ -3,6 +3,7 @@
 		"authors": [
 			"Cekli829",
 			"Dağlı95",
+			"NMW03",
 			"PPerviz",
 			"Vago",
 			"Vugar 1981",
@@ -44,6 +45,7 @@
 	"wm-license-creator-work-location": "Yaradıcılıq məkanı",
 	"wm-license-fal-wiki-link": "w:en:Free Art License",
 	"wm-license-free-software-wiki-link": "w:az:Azad proqram təminatı",
+	"wm-license-gfdl-1.2-and-later": "Bu sənədi '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Azad Sənədləşdirmə Lisenziyası]]''', Versiya 1.2 və ya [[{{int:wm-license-fsf-wiki-link}}|Azad Proqram Fondu]] tərəfindən nəşr olunan hər hansı sonrakı versiya şərtlərinə əsasən dəyişməz bölmələr, ön qapaq mətnləri və arxa qapaq mətnləri olmadan köçürmək, yayımlamaq və / və ya dəyişdirmək üçün icazə verilir;  Lisenziyanın bir nüsxəsi ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Azad Sənədləşdirmə Lisenziyası]]'' adlı hissəyə daxil edilmişdir.",
 	"wm-license-gfdl-1.2-only-header": "yalnız&nbsp;1.2",
 	"wm-license-information-description": "İzah",
 	"wm-license-information-source": "Mənbə",

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Besnik b",
 			"Diebuche",
 			"Eraldkerciku",
 			"Mikullovci11",
@@ -9,7 +10,7 @@
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sq:Creative Commons",
-	"wm-license-cc-attribution": "Atributim",
+	"wm-license-cc-attribution": "Atribuim",
 	"wm-license-cc-by-1.0-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-by-1.0-fi-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finlanda].",
 	"wm-license-cc-by-1.0-il-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Izraeli]",
@@ -144,7 +145,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/si/ Attribution-Share Alike 2.5 Sllovenia].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/tw/ Attribution-Share Alike 2.5 Tajvani].",
 	"wm-license-cc-by-sa-2.5-za-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/za/ Attribution-Share Alike 2.5 Afrika Jugore].",
-	"wm-license-cc-by-sa-3.0-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-by-sa-3.0-text": "Kjo skedë licencohet sipas [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [https://creativecommons.org/licenses/by-sa/3.0/ 3.0 Unported], [https://creativecommons.org/licenses/by-sa/2.5/ 2.5 Generic], [https://creativecommons.org/licenses/by-sa/2.0/ 2.0 Generic] dhe [https://creativecommons.org/licenses/by-sa/1.0/ 1.0 Generic].",
 	"wm-license-cc-by-sa-3.0-at-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/ Attribution-Share Alike 3.0 Austria].",
 	"wm-license-cc-by-sa-3.0-au-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/au/ Attribution-Share Alike 3.0 Australia].",
@@ -174,15 +175,15 @@
 	"wm-license-cc-sa-2.0-jp-text": "Kjo skedë është dhënë për përdorim sipas licensës [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japonia].",
 	"wm-license-cc-zero-text": "Kjo skedë është bërë e mundur nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication].",
 	"wm-license-cc-zero-explanation": "Personi që lidhi një punë me këtë vepër ia ka dedikuar punën [[{{int:wm-license-pd-wiki-link}}|public domain]] duke shmangur të gjitha të drejtat e tij apo të saj për punën në mbarë botën nën ligjin e të drejtës së autorit, duke përfshirë të gjitha të drejtat e lidhura dhe fqinje, deri në masën e lejuar me ligj. Ju mund ta kopjoni, modifikoni, shpërndani dhe të kryeni pune, madje edhe për qëllime komerciale, të gjitha pa kërkuar leje.",
-	"wm-license-cc-free": "Ju jeni i/e lirë:",
+	"wm-license-cc-free": "Je i lirë të:",
 	"wm-license-cc-free-to-share-header": "ta shpërndani",
 	"wm-license-cc-free-to-share-text": "ta kopjoni, rishpërndani dhe përcillni punën",
-	"wm-license-cc-free-to-remix-header": "to remix",
+	"wm-license-cc-free-to-remix-header": "t’i bëni “remix”",
 	"wm-license-cc-free-to-remix-text": "të përshtatni punën",
 	"wm-license-cc-conditions": "Sipas kushteve të mëposhtme:",
-	"wm-license-cc-conditions-attribution-header": "atributim",
-	"wm-license-cc-conditions-attribution-text": "Ju duhet t'i jepni meritat e duhura, të siguroni një lidhje për tek licenca dhe të tregoni nëse janë bërë ndryshimet. Ju mund ta bëni këtë në ndonjë mënyrë të arsyeshme, por jo në asnjë mënyrë që sugjeron që licensuesi të miraton ju ose përdorimin tuaj.",
-	"wm-license-cc-conditions-share_alike-header": "ndarë njësoj",
-	"wm-license-cc-conditions-share_alike-text": "Nëse ndryshoni, transformoni ose ndërtoni mbi këtë punë, ju mund të rishpërndani punën që rezulton vetëm nën të njëjtën licensë ose nën një licensë të ngjashme me të.",
+	"wm-license-cc-conditions-attribution-header": "atribuim",
+	"wm-license-cc-conditions-attribution-text": "Duhet t’i jepni meritat e duhura, të siguroni një lidhje për tek licenca dhe të tregoni nëse janë bërë ndryshime. Këtë mund ta bëni në ndonjë mënyrë të arsyeshme, por jo në ndonjë mënyrë që sugjeron se licencuesi ju del zot juve apo përdorimit tuaj.",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
+	"wm-license-cc-conditions-share_alike-text": "Nëse bëni një “remix”, e shndërroni, ose ndërtoni duke u bazuar te materiali, duhet t’i shpërndani kontributet tuaja sipas [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses të njëjtës licencë ose një të tille të përputhshme] me origjinalen.",
 	"wm-license-cc-pd-mark-text": "Kjo skedë është identifikuar si e lirë e kufizimeve të panjohura në ligjin e të drejtave të autorit, duke përfshirë të gjitha të drejtat e lidhura dhe fqinje."
 }
