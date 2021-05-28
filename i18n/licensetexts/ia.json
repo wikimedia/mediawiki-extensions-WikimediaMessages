@@ -91,6 +91,8 @@
 	"wm-license-pd-usgov-military-navy-text": "Iste file es un obra de un marinero o empleato del [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Marina statounitese]], prendite o facite durante le curso del deberes official de iste persona. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] del [[{{int:wm-license-pd-usgov-wiki-link}}|Governamento federal statounitese]], iste file es in le '''[[{{int:wm-license-pd-wiki-link}}|dominio public]]'''.",
 	"wm-license-pd-usgov-noaa-text": "Iste file es un obra de un empleato del [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Administration national oceanic e atmospheric del Statos Unite]], prendite o facite durante le curso del deberes official de iste persona. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] del [[{{int:wm-license-pd-usgov-wiki-link}}|Governamento federal statounitese]], iste file es in le '''[[{{int:wm-license-pd-wiki-link}}|dominio public]]'''.",
 	"wm-license-pd-wiki-link": "w:ia:Dominio public",
+	"wm-license-self": "Qua possessor del derectos de autor, io publica le presente obra sub le sequente {{PLURAL:$1|licentia|licentias}}:",
+	"wm-license-self-with-author": "$1, le possessor del derectos de autor de iste obra, lo publica sub le sequente {{PLURAL:$2|licentia|licentias}}:",
 	"wm-license-self-one-license": "Qua possessor del derectos de autor, io publica le presente obra sub le sequente licentia:",
 	"wm-license-self-one-license-with-author": "$1, le possessor del derectos de autor de iste obra, lo publica sub le sequente licentia:",
 	"wm-license-self-multiple-licenses": "Qua possessor del derectos de autor, io publica le presente obra sub le sequente licentias:",
