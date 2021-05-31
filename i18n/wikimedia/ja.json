@@ -42,6 +42,7 @@
 			"Yatalu",
 			"おはぐろ蜻蛉",
 			"そらたこ",
+			"ネイ",
 			"青子守歌",
 			"아라"
 		]
@@ -220,6 +221,9 @@
 	"group-oauthadmin": "OAuth 管理者",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth 管理者}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth 管理者",
+	"group-ombuds": "オンブズマン",
+	"group-ombuds-member": "{{GENDER:$1|オンブズマン}}",
+	"grouppage-ombuds": "m:Ombuds commission/ja",
 	"group-recursive-export": "再帰的エクスポート担当者",
 	"group-recursive-export-member": "{{GENDER:$1|再帰的エクスポート担当者}}",
 	"grouppage-recursive-export": "m:Recursive export",
@@ -230,6 +234,7 @@
 	"grouppage-steward": "m:Stewards/ja",
 	"group-sysadmin": "システム管理者",
 	"group-sysadmin-member": "{{GENDER:$1|システム管理者}}",
+	"grouppage-sysadmin": "m:System administrators/ja",
 	"group-translationadmin": "翻訳管理者",
 	"group-translationadmin-member": "{{GENDER:$1|翻訳管理者}}",
 	"grouppage-translationadmin": "{{ns:project}}:翻訳管理者",
@@ -248,6 +253,7 @@
 	"wikimedia-copyrightwarning": "変更内容を保存すると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意するとともに、自分の投稿内容を [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ライセンス]および [https://ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License GFDL] のもとで公開することに同意したことになります。この同意は取り消せません。\nまた、あなたはハイパーリンクまたは URL がクリエイティブ・コモンズライセンスにおける帰属表示として十分であると認めたことになります。",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\" title=\"クリエイティブ・コモンズ　表示 - 継承 3.0 非移植 (CC BY-SA 3.0)\" target=\"_blank\">CC BY-SA 3.0</a>及び<a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDLの定義\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "ウィキデータ",
+	"wikibase-page-schema-publisher-name": "ウィキメディア財団",
 	"wikibase-statementsection-constraints": "制約",
 	"wikibase-sitelinks-wikibooks": "ウィキブックス",
 	"wikibase-sitelinks-wikinews": "ウィキニュース",
@@ -284,7 +290,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:アカウント申請",
 	"wikimedia-developers": "開発者",
 	"wikimedia-globalblocking-ipblocked": "'''あなたのIPアドレスは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nあなたの現在のIPアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお考えの場合、[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]というグローバル方針でより詳しい情報を知ることができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼]]してください。",
-	"wikimedia-globalblocking-ipblocked-range": "'''あなたのIPアドレスは、[[m:Special:MyLanguage/Global blocks|すべてのウィキメディア財団のウィキで投稿ブロックされている]]IPアドレス範囲に入っています。'''\n\nこのブロックを行ったのは $1 ($2) です。ブロックの際に示された理由は、''$3'' です。\n\n* ブロック開始日: $4\n* ブロック解除日: $5\n\n現在のあなたのIPアドレスは $6 であり、ブロックされているIP範囲は $7 です。この投稿ブロックに関して問い合わせをする場合は、以上の情報もお伝えください。もし、この投稿ブロックが錯誤によるものだと考えているのであれば、グローバル方針の[[m:Special:MyLanguage/No open proxies|No open proxies]]（公開プロキシの規制）で詳細情報などが入手できます。あるいは、投稿ブロックに関して議論したい場合は、[[m:Steward requests/Global|post a request for review on メタウィキでブロックの見直しを依頼する]]か、<kbd>stewards@wikimedia.org</kbd>から[[m:Special:MyLanguage/Stewards|スチュワード]] [[m:Special:MyLanguage/OTRS|OTRS]]に電子メールを送信することもできます。",
+	"wikimedia-globalblocking-ipblocked-range": "'''あなたのIPアドレスは、[[m:Special:MyLanguage/Global blocks|すべてのウィキメディア財団のウィキで投稿ブロックされている]]IPアドレス範囲に入っています。'''\n\nこのブロックを行ったのは $1 ($2) です。ブロックの際に示された理由は、''$3'' です。\n\n* ブロック開始日: $4\n* ブロック解除日: $5\n\n現在のあなたのIPアドレスは $6 であり、ブロックされているIP範囲は $7 です。この投稿ブロックに関して問い合わせをする場合は、以上の情報もお伝えください。もし、この投稿ブロックが錯誤によるものだと考えているのであれば、グローバル方針の[[m:Special:MyLanguage/No open proxies|No open proxies]]（公開プロキシの規制）で詳細情報などが入手できます。あるいは、投稿ブロックに関して議論したい場合は、[[m:Steward requests/Global|メタウィキでブロックの見直しを依頼する]]か、[[m:Special:MyLanguage/Stewards|スチュワード]]用[[m:Special:MyLanguage/OTRS|OTRS]]キューに電子メールを送信する（宛先：<kbd>stewards@wikimedia.org</kbd>）こともできます。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''あなたのリクエストで使用している1つ以上のプロキシサーバーが[[m:Special:MyLanguage/Global blocks|グローバルにブロック]]されました。'''\n\nブロックしたのは $1 ($2) です。\n理由は ''$3'' とされています。\n\n* ブロックの開始: $4\n* ブロックの終了: $5\n\nブロックされたプロキシのアドレスは $6 です。\n問い合わせをする際には、上記の事項すべてを含めてください。\n\nこのブロックが誤りだとお考えの場合、[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]というグローバル方針でより詳しい情報を知ることができます。\nその他、このブロックについて議論を提起したい場合は、[[m:Steward requests/Global|メタウィキで審議を依頼]]してください。",
 	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集はブロックされます。\n正当な利用者向けの追加情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]をご覧ください。",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/ja",
@@ -347,5 +353,7 @@
 	"protect-level-editautopatrolprotected": "自動巡回者のみ許可",
 	"right-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページを編集",
 	"action-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページの編集",
-	"group-docseditor": "文書編集者"
+	"group-docseditor": "文書編集者",
+	"action-docseditor": "解説文を編集",
+	"right-docseditor": "解説文を編集"
 }
