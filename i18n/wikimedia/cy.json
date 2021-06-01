@@ -7,6 +7,7 @@
 			"Lloffiwr",
 			"Nemo bis",
 			"Robin Owain",
+			"Troswr",
 			"Xxglennxx"
 		]
 	},
@@ -136,5 +137,7 @@
 	"wikimediashoplink-linktext": "Siop Wikimedia",
 	"wikimediashoplink-link-tooltip": "Ewch am dro i siop Wikimedia",
 	"eri-rcfilters-tour-intro-welcome-description": "Defnyddiwch y system ffiltro ddiweddaraf er mwyn rhoi trefn ar eich golygiadau. Gallwch hyd yn oed eu cadw mewn set taclus, a'u huwcholeuo yn ôl eich dewis.",
-	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio"
+	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio",
+	"wikimedia-statslink": "Ystadegau",
+	"wikimedia-cookiestatement": "Datganiad cwcis"
 }
