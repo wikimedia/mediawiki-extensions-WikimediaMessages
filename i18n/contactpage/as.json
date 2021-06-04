@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bishnu Saikia"
+			"Bishnu Saikia",
+			"Simbu123"
 		]
 	},
-	"contactpage-license-request-username": "সদস্যনাম *",
+	"contactpage-license-request-username": "সদস্যনাম",
 	"contactpage-license-request-relevantsite": "প্ৰাসঙ্গিক ৱিকিমিডিয়া ছাইট (যদি আছে)",
 	"contactpage-license-request-organization": "সংস্থা (যদি প্ৰযোজ্য হয়)",
 	"contactpage-license-request-organization-type": "সংস্থা (যদি প্ৰযোজ্য হয়)",

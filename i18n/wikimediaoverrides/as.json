@@ -6,10 +6,11 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(বাছনি কৰাত সহায় কৰক)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "আপুনি আন প্ৰকল্পবোৰৰ পৰা আপোনাৰ একাউণ্ট তথ্য ডাউনল'ড কৰিবলৈ [[m:Special:CentralAuth/$1|আপুনি বৰঙণি আগবঢ়োৱা আন ৱিকিমিডিয়া প্ৰকল্পৰ]] \"পছন্দসমূহ\" পৃষ্ঠা চাব পাৰে।",
 	"wikimedia-createacct-imgcaptcha-help": "ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]",
 	"wikimedia-centralauth-groupname": "ৱিকিমিডিয়া ফাউণ্ডেশ্যন",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"wikimedia-sitematrix": "ৱিকিমিডিয়া ৱিকিসমূহৰ তালিকা",
-	"wikimedia-sitematrix-others": "ৱিকিমিডিয়াৰ আন প্ৰকল্পসমূহ",
-	"wikimedia-sitematrix-summary": "এই বিশেষ পৃষ্ঠাটোত সকলো ৱিকিমিডিয়া ৱিকিৰ তালিকা আছে।"
+	"wikimedia-sitematrix-others": "আন ৱিকিমিডিয়া প্ৰকল্পসমূহ",
+	"wikimedia-sitematrix-summary": "এই বিশেষ পৃষ্ঠাত সকলো ৱিকিমিডিয়া ৱিকিৰ তালিকা আছে।"
 }
