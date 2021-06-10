@@ -87,5 +87,7 @@
 	"eri-rcfilters-tour-highlight-description": "Выкарыстоўвайце выдзяленне, каб візуальна адрозніваць выбраныя ўласцівасці.<br/><br/>Вы можаце сумяшчаць выдзяленне з фільтрамі або выкарыстоўваць выдзяленне незалежна.",
 	"eri-rcfilters-tour-highlight-button": "Так, усё зразумела",
 	"eri-rcfilters-tour-confirm-title": "Новыя фільтры зараз уключаныя",
-	"eri-rcfilters-tour-confirm-description": "Вы можаце перайсці на <strong>старонку бэта-магчымасцей</strong>, каб пакінуць водгук ці адключыць функцыю."
+	"eri-rcfilters-tour-confirm-description": "Вы можаце перайсці на <strong>старонку бэта-магчымасцей</strong>, каб пакінуць водгук ці адключыць функцыю.",
+	"wikimedia-statslink": "Статыстыка",
+	"wikimedia-cookiestatement": "Заява пра cookie"
 }
