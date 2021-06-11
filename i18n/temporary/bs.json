@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"CERminator",
+			"Semso98",
 			"Srdjan m",
 			"Srđan"
 		]
@@ -9,5 +10,6 @@
 	"grouppage-oversight": "{{ns:project}}:Nadzor",
 	"group-oversight": "Nadzornici",
 	"group-oversight-member": "nadzornik",
+	"please-translate": "Pomozite pri prevođenju na Vaš jezik",
 	"specialblockfeedback": "Povratne informacije"
 }
