@@ -3,6 +3,7 @@
 		"authors": [
 			"Hydra",
 			"Liuxinyu970226",
+			"Shizhao",
 			"Yfdyh000",
 			"Zazzzz"
 		]
@@ -13,5 +14,7 @@
 	"group-oversight-member": "{{GENDER:$1|监督员}}",
 	"hello": "您好",
 	"please-translate": "请帮助翻译至您的语言",
-	"thank-you": "{{GENDER:$1|感谢您。}}"
+	"thank-you": "{{GENDER:$1|感谢您。}}",
+	"specialblockfeedback": "反馈",
+	"specialinvestigate-feedback": "意见反馈"
 }
