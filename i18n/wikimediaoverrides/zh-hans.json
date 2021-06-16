@@ -18,6 +18,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "您可以访问[[m:Special:CentralAuth/$1|其他贡献过的维基媒体项目]]的参数设置页面来下载您在那些项目的账户数据。",
 	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账户]]",
 	"wikimedia-centralauth-groupname": "维基媒体基金会",
+	"wikimedia-centralauth-login-error-locked": "<strong>该帐户已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
 	"wikimedia-centralauth-uwbr-intro": "此页面列出在此wiki注册，由于[[m:Single User Login finalisation announcement|终止单一用户登录]]而将被重命名的用户。更多信息可参见[[m:Help:Unified login|统一登录]]。用户可以在任何时间通过[[Special:GlobalRenameRequest]]请求重命名。",
 	"wikimedia-centralauth-uwbr-registration-nodate": "2006年以前",
 	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",
@@ -38,6 +39,12 @@
 	"wikimedia-sitematrix-others": "其他维基媒体项目",
 	"wikimedia-sitematrix-summary": "本特殊页面列示所有维基媒体基金会的所有维基网站。",
 	"wikimedia-sulrenamewarning-usenew": "现在起，您需要使用您的新用户名<strong>$1</strong>登录。您的新用户名是全维基媒体项目中独一无二的，并且如果您登录一个项目并访问其他项目，您的账户将继续存在。[[:m:Special:MyLanguage/Help:Unified_login|此帮助页面]]有更多关于单一用户登录的信息，这就好比常见问题列表一样。如果您需要在您的[[Special:Preferences|用户设置]]中更改您的电子邮件地址或您的密码，现在就是最佳时机。\n\n要请求使用一个不同的账户名，请访问[[Special:GlobalRenameRequest]]。感谢您参与维基媒体项目。",
-	"wikimedia-ipb-confirmhideuser": "您将要封禁这位用户，并启用“隐藏用户”。这将在此wiki上的所有列表和日志记录中屏蔽该用户名。您确定要这样做么？\n\n如果用户名需要在所有维基媒体wiki上被隐藏，请通过stewards@wikimedia.org联络[[m:Special:MyLanguage/Stewards|监管员]]。",
+	"wikimedia-ipb-confirmhideuser": "您将要封禁这位用户，并启用“隐藏用户”。这将在此wiki上的所有列表和日志记录中屏蔽该用户名。您确定要这样做么？\n\n如果用户名需要在所有维基媒体wiki上被隐藏，请通过[[m:Special:EmailUser/Wikimedia_Stewards|wiki邮件]]或<kbd>stewards@wikimedia</kbd>.org联络[[m:Special:MyLanguage/Stewards|监管员]]。谢谢。",
+	"wikimedia-urlshortener-disabled": "短链接只能通过meta.wikimedia.org上的[[:m:Special:UrlShortener|Special:UrlShortener]]页面创建。",
+	"wikimedia-apierror-urlshortener-disabled": "短链接只能通过调用meta.wikimedia.org wiki来创建。",
+	"wikimedia-urlshortener-badaccessgroups": "短链接只能通过meta.wikimedia.org上的[[:m:Special:UrlShortener|Special:UrlShortener]]页面创建。",
+	"wikimedia-apierror-urlshortener-permissiondenied": "短链接只能通过调用meta.wikimedia.org wiki来创建。",
+	"wikimedia-webauthn-module-description": "WebAuthn（Web Authentication）是万维网联盟（W3C）发布的一个网络标准。WebAuthn是FIDO联盟领导下FIDO2项目的核心部件。该项目旨在使用公钥加密来标准化用户向基于网络的应用或服务验证身份时的界面。[https://zh.wikipedia.org/wiki/WebAuthn 了解更多]。请注意，您需要登录到您最初注册验证设备时所在的同一个wiki。",
+	"wikimedia-webauthn-ui-login-prompt": "请触摸您的验证设备或按照浏览器中的说明进行操作。请注意，您需要登录到您最初注册验证设备的同一个wiki",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]"
 }
