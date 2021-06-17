@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Agent",
 			"Dgstranz",
 			"Fitoschido",
 			"Macofe",
@@ -206,6 +207,7 @@
 	"search-interwiki-results-scwiki": "Resultados de la [[:sc:|Wikipedia en sardo]].",
 	"search-interwiki-results-sdwiki": "Resultados de la [[:sd:|Wikipedia en sindi]].",
 	"search-interwiki-results-sewiki": "Resultados de la [[:se:|Wikipedia en sami septentrional]].",
+	"search-interwiki-results-shiwiki": "Ensennando resultados del [[:shi:|Wikipedia en Tashelhit]]",
 	"search-interwiki-results-shwiki": "Resultados de la [[:sh:|Wikipedia en serbocroata]].",
 	"search-interwiki-results-simplewiki": "Resultados de la [[:simple:|Wikipedia en inglés sencillo]].",
 	"search-interwiki-results-siwiki": "Resultados de la [[:si:|Wikipedia en cingalés]].",

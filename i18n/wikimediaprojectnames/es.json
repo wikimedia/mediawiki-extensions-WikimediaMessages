@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Agent",
 			"Andru1013",
 			"Dgstranz",
 			"Fitoschido",
@@ -644,6 +645,7 @@
 	"project-localized-name-sewiki": "Wikipedia en sami septentrional",
 	"project-localized-name-sewikibooks": "Wikilibros en sami septentrional",
 	"project-localized-name-sewikimedia": "Wikimedia Suecia",
+	"project-localized-name-shiwiki": "Wikipedia en Tashelhit",
 	"project-localized-name-shwiki": "Wikipedia en serbocroata",
 	"project-localized-name-shwiktionary": "Wikcionario en serbocroata",
 	"project-localized-name-simplewiki": "Wikipedia en inglés simple",
