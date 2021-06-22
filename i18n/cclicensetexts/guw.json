@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gadarawamo"
+			"Gadarawamo",
+			"Misteld",
+			"Samatics"
 		]
 	},
-	"wm-license-cc-free": "A vo",
-	"wm-license-cc-free-to-share-header": "Nado ma"
+	"wm-license-cc-free": "A vo:",
+	"wm-license-cc-free-to-share-header": "Nado ma",
+	"wm-license-cc-conditions": "To nubiọtomẹsi he bọdego ehelẹ glọ:",
+	"wm-license-cc-conditions-share_alike-header": "Ma dehe di yedelẹ",
+	"wm-license-cc-conditions-share_alike-text": "Na eyindọ avọ nde jlado,lẹnudedo kavi yinudedigọna azọnwanu ehelẹ, a dona ze nuyidogọ towe ehelẹ jo gbọn [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] gblamẹ taidi vonọtaun lọ."
 }

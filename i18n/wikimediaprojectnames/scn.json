@@ -5,7 +5,14 @@
 		]
 	},
 	"project-localized-name-banwikisource": "Wikisource n balinisi",
+	"project-localized-name-dewiki": "Wikipedia n tudiscu",
+	"project-localized-name-dewikinews": "Wikinutizzi n tudiscu",
+	"project-localized-name-frwiki": "Wikipedia n francisi",
+	"project-localized-name-frwikinews": "Wikinutizzi n francisi",
+	"project-localized-name-itwikinews": "Wikinutizzi n talianu",
 	"project-localized-name-itwikiquote": "Wikicitazziuni n talianu",
 	"project-localized-name-itwikisource": "Wikisource n talianu",
-	"project-localized-name-itwiktionary": "Wikizziunariu n talianu"
+	"project-localized-name-itwiktionary": "Wikizziunariu n talianu",
+	"project-localized-name-napwiki": "Wikipedia n napulitanu",
+	"project-localized-name-vecwiki": "Wikipedia n vènitu"
 }
