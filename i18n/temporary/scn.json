@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Santu"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighters",
-	"group-oversight-member": "oversight"
+	"group-oversight-member": "oversight",
+	"hello": "Ciau"
 }

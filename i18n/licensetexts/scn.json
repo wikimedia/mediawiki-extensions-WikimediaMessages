@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Aushulz",
 			"Pippinu",
 			"Sarvaturi"
 		]
 	},
+	"wm-license-artwork-artist": "Artista",
 	"wm-license-artwork-title": "Tìtulu",
 	"wm-license-artwork-dimensions": "Diminzioni",
 	"wm-license-book-title": "Tìtulu",
