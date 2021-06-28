@@ -323,7 +323,7 @@
 	"action-extendedconfirmed": "правка страниц с ограниченным доступом",
 	"right-extendedconfirmed": "Правка страниц с ограниченным доступом",
 	"restriction-level-extendedconfirmed": "защищено до подтверждённых редакторов",
-	"protect-level-extendedconfirmed": "Разрешить только подтверждённым редакторам и администраторам",
+	"protect-level-extendedconfirmed": "Разрешить только администраторам и расширенно подтверждённым участникам",
 	"action-editeditorprotected": "правка страниц, защищённых как «{{int:protect-level-editeditorprotected}}»",
 	"right-editeditorprotected": "Правка страниц, защищённых как «{{int:protect-level-editeditorprotected}}»",
 	"protect-level-editeditorprotected": "Разрешено только редакторам",

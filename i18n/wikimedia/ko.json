@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Albamhandae",
+			"Apzp79",
 			"Bluemersen",
 			"ChongDae",
 			"Devunt",
@@ -60,7 +61,7 @@
 	"guidedtour-tour-gettingstartedtasktoolbar-ambox-description-wikipedia": "이 배너들은 이 문서로 문제를 식별합니다. 모든 문제를 해결할 필요가 없고, 익숙하게 한 것들에 충실하세요.",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title-wikipedia": "문서 전체 편집하기...",
 	"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description-wikipedia": "\"$1\"을 클릭하여 이 문서의 모든 부분을 편집할 수 있습니다.",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "이제 문서 내용을 편집할 수 있습니다. 편집을 마치고, 바뀜을 검토하고 저장하려면 \"{{int:publishchanges}}\"를 클릭하십시오.",
+	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "이제 문서 내용을 편집할 수 있습니다. 편집을 마쳤으면, 당신의 편집을 검토하고 저장하려면 \"{{int:publishchanges}}\"를 클릭하십시오.",
 	"guidedtour-tour-gettingstarted-click-preview-description-wikipedia": "\"{{int:showpreview}}\"를 클릭하면 문서가 어떻게 바뀌었는지 확인할 수 있습니다. 저장하는 것을 잊지 마세요!",
 	"gettingstarted-cta-edit-page-wikipedia": "이 문서 편집",
 	"group-image-reviewer": "그림 평론가",
