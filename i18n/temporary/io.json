@@ -4,5 +4,6 @@
 			"Joao Xavier"
 		]
 	},
-	"group-oversight": "Kontroleri"
+	"group-oversight": "Kontroleri",
+	"thank-you": "{{GENDER:$1|Danko.}}"
 }
