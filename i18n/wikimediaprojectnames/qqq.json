@@ -432,6 +432,7 @@
 	"project-localized-name-jbowiki": "{{ProjectNameDocumentation|url=https://jbo.wikipedia.org|name=Lojban Wikipedia|language=jbo}}",
 	"project-localized-name-jbowiktionary": "{{ProjectNameDocumentation|url=https://jbo.wiktionary.org|name=Lojban Wiktionary|language=jbo}}",
 	"project-localized-name-jvwiki": "{{ProjectNameDocumentation|url=https://jv.wikipedia.org|name=Javanese Wikipedia|language=jv}}",
+	"project-localized-name-jvwikisource": "{{ProjectNameDocumentation|url=https://jv.wikisource.org|name=Javanese Wikisource|language=jv}}",
 	"project-localized-name-jvwiktionary": "{{ProjectNameDocumentation|url=https://jv.wiktionary.org|name=Javanese Wiktionary|language=jv}}",
 	"project-localized-name-kaawiki": "{{ProjectNameDocumentation|url=https://kaa.wikipedia.org|name=Kara-Kalpak Wikipedia|language=kaa}}",
 	"project-localized-name-kabwiki": "{{ProjectNameDocumentation|url=https://kab.wikipedia.org|name=Kabyle Wikipedia|language=kab}}",
