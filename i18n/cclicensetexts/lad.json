@@ -4,5 +4,16 @@
 			"WikiiiTranslator"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "atribusión"
+	"wm-license-cc-attribution": "atribusión",
+	"wm-license-cc-by-sa-3.0-text": "Esta dosya está lisensiada bajo la lisensia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-free": "eres livre de:",
+	"wm-license-cc-free-to-share-header": "de kompartir",
+	"wm-license-cc-free-to-share-text": "de copiar, distrivuir y reprodusir tus trocamientos",
+	"wm-license-cc-free-to-remix-header": "de modifikar",
+	"wm-license-cc-free-to-remix-text": "de adaptar tus trocamientos",
+	"wm-license-cc-conditions": "Bajo las siguientes kondisiones:",
+	"wm-license-cc-conditions-attribution-header": "atribusión",
+	"wm-license-cc-conditions-attribution-text": "Deves dar krédito apropiado, dar un enlase a la lisensia e indikar si algun trocamiento fue hecho. Puedes aserlo de kualkier manera rasonable pero no en una ke sugiera ke el lisensiante te respalde a ti o el uso ke hagas del trabajo.",
+	"wm-license-cc-conditions-share_alike-header": "kompartir igual",
+	"wm-license-cc-conditions-share_alike-text": "Si tu modifikas, transformas o ases algo kon el material, tu deves distribuir tus kontribusyones bajo la [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses misma lisensia (o una kompativle)] de la orijinal."
 }

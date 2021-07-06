@@ -1,10 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Menachem.Moreira"
+			"Menachem.Moreira",
+			"WikiiiTranslator"
 		]
 	},
 	"wm-license-book-edition": "Edisiyon",
 	"wm-license-book-editor": "Redaktor",
-	"wm-license-book-language": "Lengua"
+	"wm-license-book-language": "Lengua",
+	"wm-license-gfdl-1.2-and-later": "Se autorisa la kopia, distribusyón y modifikasión de este dokumento bajo la  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versión 1.2 o kualquier versión publikada por la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sin kapítolos invariables, tekstos de portada, ni tekstos de kontraportada. Una kopia de la lisensia es inkluida en un kapítolo yamado ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Deskripsión",
+	"wm-license-information-source": "Fuente",
+	"wm-license-information-date": "Fecha",
+	"wm-license-information-author": "Otor",
+	"wm-license-information-permission": "permiso",
+	"wm-license-information-permission-reusing-text": "Reutilisación de la dosya",
+	"wm-license-own-work": "Trabajo propio",
+	"wm-license-self-multiple-licenses-select": "Puedes usar la lisensia ke kieras."
 }
