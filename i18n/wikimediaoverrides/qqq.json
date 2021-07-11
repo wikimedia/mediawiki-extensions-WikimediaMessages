@@ -20,6 +20,7 @@
 	"wikimedia-sidebar": "{{notranslate}}",
 	"wikimedia-centralauth-uwbr-intro": "Introduction text displayed above [[Special:UsersWhoWillBeRenamed]]",
 	"wikimedia-centralauth-uwbr-registration-nodate": "Text shown when a user has no registration date recorded due to the account being created before 2006, when we started recording dates.\n{{optional}}",
+	"wikimedia-checkuser-toollinks": "The links provided to a CheckUser when preforming a check on a wiki without a message override.",
 	"createacct-helpusername-url": "The URL of a page providing username guidance for the wiki.\nUsed as a link in the {{msg-mw|Createacct-helpusername}} on WMF wikis.",
 	"wikimedia-delete-toobig": "Replaces the standard {{msg-mw|delete-toobig}} message with a custom message for WMF wikis, directing administrators to contact the stewards, which can delete such pages.\nParameters:\n* $1 - the upper limit of number of revisions the page has.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Terms of use and copyright warning shown when adding or editing a comment using DiscussionTools. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.\n\n* $1 is the label of the button to be clicked, e.g. {{msg-mw|discussiontools-replywidget-reply}}.",
