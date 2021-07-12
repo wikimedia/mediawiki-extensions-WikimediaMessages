@@ -5,11 +5,13 @@
 			"Misteld"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Asọgan yi, bo ma, yidogọ kavi Basi vọjlado do weda ehe go ni ahodo nuhe tin to '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Gbedewema na kandai lẹ]]''', Version 1.2 kavi kandai devo he yin vọnu lẹ[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; podọ alọhẹndotenanu de ma tin, nukinkan depope matin to nukọn, podọ nukinkan depope ma tin to godo. Gbedewema de ko yin didohia tofi''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Nuyijledonugo",
 	"wm-license-information-source": "Asisa",
 	"wm-license-information-date": "Azan",
 	"wm-license-information-author": "Wekanto",
 	"wm-license-information-permission": "Gbenina",
 	"wm-license-information-permission-reusing-text": "Vivọ wepo ehe na",
-	"wm-license-own-work": "Azon medetiti ton"
+	"wm-license-own-work": "Azon medetiti ton",
+	"wm-license-self-multiple-licenses-select": "Asọgan yi gbedewema he jlowe"
 }

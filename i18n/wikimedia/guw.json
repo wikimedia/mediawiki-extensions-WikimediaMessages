@@ -18,6 +18,8 @@
 	"wikibase-sitelinks-wikisource": "Asisa Wiki tọn",
 	"wikibase-sitelinks-wikivoyage": "Gbejizọnlin Wiki tọn",
 	"wikimedia-developers": " Nuheyọndogọtọ lẹ",
+	"wikimedia-globalblocking-ipblocked": "'''IP intanẹti tọn towe ko yin alọhẹndotena [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nMẹ he hẹn alọdotenaẹ wẹ $1 ($2).\nNu he wutu wẹ ''$3''.\n\n* Alọhẹndotena lọ bẹ to: $4\n* Ena sọ fo to: $5\n\nIP intanẹti tọn towe din tọn wẹ $6.\nFlin bo yi nudọnamẹ he tin to aga lọ dó hodọdopọ towe mẹ.\nNi alẹndọ a ma wa nude whẹpo do yin alọhẹndotena, asọgan din nudọnamẹ digọ lẹ tofi [[m:Special:MyLanguage/No open proxies|No open proxies]] jẹhẹnu kẹaloyi aihọn lọ tọn.\nNi ema yin mọ, dọho doego tofi[[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''dopo kavi susu to proxy he nọ yin zinzan lẹ wẹ [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nMẹ he hẹnalọdotenawe wẹ $1 ($2).\nNu he zọn wẹ''$3''.\n\n* Whenue alọhẹndotenamẹ lọ bẹ: $4\n* Whenuena efo: $5\nProxy address he yin zinzan wẹ $6.\nJaale flin boyi nudọnamẹ he tin to àga lẹ digọ.\n\nNi alẹndọ ama wa nude whẹpo do yin alọhẹndotena \nasọgan pọn fi [[m:Special:MyLanguage/No open proxies|No open proxies]] jẹhẹnu aihọn blebu tọn.\nNi ema yin mọ, dọho deji tofi [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-statslink": "Madosọhalẹ",
 	"wikimedia-cookiestatement": "Nudọnamẹ Kandai flinflinlẹ tọn"
 }
