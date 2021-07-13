@@ -3,6 +3,7 @@
 		"authors": [
 			"Dicto23456",
 			"Gazeb",
+			"Gramo6",
 			"KHMELNYTSKYIA",
 			"Krinkle",
 			"Tkalyn",
@@ -109,5 +110,7 @@
 	"right-templateeditor": "Едітованя замкнутых шаблонів",
 	"right-extendedconfirmed": "Едітованя замкнутых сторінок",
 	"right-editeditorprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editeditorprotected}}“",
-	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“"
+	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“",
+	"wikimedia-statslink": "Статістика",
+	"wikimedia-cookiestatement": "Кукі"
 }
