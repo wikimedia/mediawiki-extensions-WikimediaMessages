@@ -1,7 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Joao Xavier"
+		]
 	},
+	"wikimedia-createacct-imgcaptcha-help": "Ka vu ne povas vidar l'imajo? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez konto]]",
 	"wikimedia-centralauth-groupname": "la fonduro Wikimedia",
 	"wikimedia-sitematrix": "Listo di wiki-i Wikimedia",
 	"wikimedia-sitematrix-others": "Altra projeti di Wikimedia"
