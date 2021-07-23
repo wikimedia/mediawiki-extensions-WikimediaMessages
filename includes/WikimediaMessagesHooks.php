@@ -69,7 +69,7 @@ class WikimediaMessagesHooks implements
 	public static function factory(
 		Config $mainConfig,
 		UserOptionsManager $userOptionsManager
-	) : WikimediaMessagesHooks {
+	): WikimediaMessagesHooks {
 		return new self(
 			ExtensionRegistry::getInstance(),
 			new ServiceOptions(
@@ -1587,7 +1587,7 @@ class WikimediaMessagesHooks implements
 	 * @param ResourceLoader $resourceLoader
 	 * @return void This hook must not abort, it must return no value
 	 */
-	public function onResourceLoaderRegisterModules( ResourceLoader $resourceLoader ) : void {
+	public function onResourceLoaderRegisterModules( ResourceLoader $resourceLoader ): void {
 		if ( $this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
 			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
 				'localBasePath' => dirname( __DIR__ ) . '/modules',
