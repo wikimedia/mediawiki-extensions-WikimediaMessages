@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Liké famanlè",
+	"wm-license-cc-by-sa-3.0-text": "Floua nga i licenci ô fin [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] licenci.",
 	"wm-license-cc-free": "Amoun woun ti di wa:",
 	"wm-license-cc-free-to-share-header": "amoun kloua fa tchè",
 	"wm-license-cc-free-to-share-text": "amoun kloua klè djouman nga, bé fa tchè, annzè bé fa man sran ouflè",
@@ -12,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "amoun kloua siésié djouman nga",
 	"wm-license-cc-conditions": "Mmla nga moun bé sou:",
 	"wm-license-cc-conditions-attribution-header": "afi'n liè",
-	"wm-license-cc-conditions-share_alike-header": "liké nga bé fa bé woun noun tchèlè"
+	"wm-license-cc-conditions-attribution-text": "Amoun kwla man floua boué yifouè i sou ndè nga bé fata moun, man liein nga ô fité licenci floua boué sou, kôkoun amoun kwla kan sè bé klèklèli floua boué noun é. Amoun kwla yé sô ôni liké kwlaa nga ô fata, sanngè nan amoun yé i licenci yifouè i douman noun.",
+	"wm-license-cc-conditions-share_alike-header": "liké nga bé fa bé woun noun tchèlè",
+	"wm-license-cc-conditions-share_alike-text": "Sè amoun klèklè djouman nga noun, katchi i annzè amoun nian sou di djouman ouflè, ô fata kè amoun fa amoun oukalè sou djouman fa tchè [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses licenci koungba annzè licenci nga bé kô likawlè] i sou, kè bé yé i bobolè sou djouman sou sa."
 }

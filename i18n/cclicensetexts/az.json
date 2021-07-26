@@ -167,13 +167,13 @@
 	"wm-license-cc-by-sa-3.0-tw-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/tw/deed.az Attribution-Share Alike 3.0 Tayvan] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-3.0-us-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/us/deed.az Attribution-Share Alike 3.0 ABŞ] lisenziyası altında yayımlanır.",
 	"wm-license-cc-free": "Azadsınız:",
-	"wm-license-cc-free-to-share-header": "bölüşmək",
-	"wm-license-cc-free-to-share-text": "əsər paylaşma və çatdırılması",
-	"wm-license-cc-free-to-remix-header": "dəyişdirə bilərsiniz",
-	"wm-license-cc-free-to-remix-text": "əsər adaptasiyası",
+	"wm-license-cc-free-to-share-header": "paylaşmaq",
+	"wm-license-cc-free-to-share-text": "əsəri köçürmək, paylamaq və ötürmək üçün",
+	"wm-license-cc-free-to-remix-header": "remiks etmək",
+	"wm-license-cc-free-to-remix-text": "əsəri adaptasiya etmək",
 	"wm-license-cc-conditions": "Aşağıdakı şərtlərə riayət etməklə:",
 	"wm-license-cc-conditions-attribution-header": "istinad",
 	"wm-license-cc-conditions-attribution-text": "Müvafiq kredit verməlisiniz, lisenziyaya bir keçid verməlisiniz və dəyişikliklərin olub olmadığını bildirməlisiniz. Bunu hər hansı bir ağlabatan şəkildə edə bilərsiniz, ancaq lisenziyalaşdırıcının sizi və ya istifadənizi təsdiqləməsini təklif edən bir şəkildə deyil.",
 	"wm-license-cc-conditions-share_alike-header": "bənzər paylaşma",
-	"wm-license-cc-conditions-share_alike-text": "Əsəri yenidən düzəldirsinizsə, dəyişdirirsinizsə və ya üzərində iş aparırsınızsa, öz töhfələrinizi orijinalda olduğu kimi [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses eyni və ya uyğun lisenziya] altında yayımlamalısınız."
+	"wm-license-cc-conditions-share_alike-text": "Əsəri remix edirsinizsə, dəyişdirirsinizsə və ya üzərində iş aparırsınızsa, öz töhfələrinizi orijinalda olduğu kimi [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses eyni və ya uyğun lisenziya] altında yayımlamalısınız."
 }
