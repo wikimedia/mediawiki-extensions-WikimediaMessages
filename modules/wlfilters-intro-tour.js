@@ -1,5 +1,8 @@
 ( function () {
-	var tour = new mw.guidedTour.TourBuilder( {
+	var tour,
+		isVectorCompactPersonalToolbar = $( '.vector-user-links' ).length;
+
+	tour = new mw.guidedTour.TourBuilder( {
 		name: 'WlFiltersIntro',
 		shouldLog: true,
 		isSinglePage: true
@@ -36,8 +39,13 @@
 		name: 'Preferences',
 		descriptionmsg: 'eri-wlfilters-tour-intro-preferences-description',
 		allowAutomaticOkay: false,
-		position: 'bottom',
-		attachTo: '#pt-preferences a',
+		// see rcfilters-intro-tour
+		position: isVectorCompactPersonalToolbar ? 'bottomRight' : 'bottom',
+		attachTo: isVectorCompactPersonalToolbar ? '#p-personal' : '#pt-preferences a',
+		offset: isVectorCompactPersonalToolbar ? {
+			top: -10,
+			left: 8
+		} : undefined,
 		buttons: [
 			{
 				namemsg: 'eri-rcfilters-tour-intro-welcome-button',

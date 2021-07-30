@@ -1,5 +1,8 @@
 ( function () {
-	var tour = new mw.guidedTour.TourBuilder( {
+	var tour,
+		isVectorCompactPersonalToolbar = $( '.vector-user-links' ).length;
+
+	tour = new mw.guidedTour.TourBuilder( {
 		name: 'RcFiltersIntro',
 		shouldLog: true,
 		isSinglePage: true
@@ -36,8 +39,17 @@
 		name: 'Preferences',
 		descriptionmsg: 'eri-rcfilters-tour-intro-preferences-description',
 		allowAutomaticOkay: false,
-		position: 'bottom',
-		attachTo: '#pt-preferences a'
+		// In compact personal toolbar mode, preferences are within a dropdown, and
+		// that dropdown is close to the viewport edge so the guider wouldn't fit.
+		// Use diagonal guider positioning, and an offset because the default placement
+		// for diagonal positioning is poor. Also a vertical offset because the compact
+		// toolbar has more whitespace.
+		position: isVectorCompactPersonalToolbar ? 'bottomRight' : 'bottom',
+		attachTo: isVectorCompactPersonalToolbar ? '#p-personal' : '#pt-preferences a',
+		offset: isVectorCompactPersonalToolbar ? {
+			top: -10,
+			left: 8
+		} : undefined
 	} );
 
 }() );
