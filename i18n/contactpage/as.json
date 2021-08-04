@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Bishnu Saikia",
+			"Dibya Dutta",
 			"Simbu123"
 		]
 	},
@@ -12,5 +13,6 @@
 	"contactpage-license-request-use-proposed": "প্ৰস্তাৱিত ব্যৱহাৰ",
 	"contactpage-license-request-use-online": "অনলাইন (ৱেবছাইট, ইমেইল)",
 	"contactpage-license-request-use-other": "অনান্য",
+	"contactpage-wikimedia-trademark-wikiquote": "ৱিকিউদ্ধৃতি",
 	"contactpage-license-abuse-yourcontact": "আপোনাৰ যোগাযোগ তথ্য (যদি আমি আপোনাক যোগাযোগ কৰিব বিচাৰো)"
 }
