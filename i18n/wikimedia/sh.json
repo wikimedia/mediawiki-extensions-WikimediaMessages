@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"BadDog",
 			"Conquistador",
 			"Kolega2357",
 			"Matma Rex",
@@ -258,6 +259,7 @@
 	"action-viewdeletedfile": "pregled obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"right-viewdeletedfile": "Pregledanje obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Izbori za članove odbora",
+	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Izjava o kolačićima",
 	"ext-quicksurveys-performance-internal-survey-question": "Da li se ova stranica učitala dovoljno brzo?",
 	"wikimedia-switchover-read-only": "Ovog miga ne možete urediti zbog održavanja. Prekopirajte i spremite tekst, pa pokušajte za nekoliko minuta.",
