@@ -3,6 +3,7 @@
 		"authors": [
 			"Andriykopanytsia",
 			"Base",
+			"DDPAT",
 			"Piramidion",
 			"Ата"
 		]
@@ -28,7 +29,20 @@
 	"contactpage-wikimedia-trademark-globe": "Вікіпедійний глобус з пазлом",
 	"contactpage-wikimedia-trademark-wikiwordmark": "Текстовий товарний знак Вікіпедії",
 	"contactpage-wikimedia-trademark-w": "Стилізована \"W\"",
+	"contactpage-wikimedia-trademark-foundation": "Фонд Вікімедіа",
+	"contactpage-wikimedia-trademark-commons": "Вікісховище",
+	"contactpage-wikimedia-trademark-incubator": "Інкубатор Вікімедіа",
+	"contactpage-wikimedia-trademark-mediawiki": "MediaWiki",
+	"contactpage-wikimedia-trademark-wikiquote": "Вікіцитати",
+	"contactpage-wikimedia-trademark-wikibooks": "Вікіпідручник",
+	"contactpage-wikimedia-trademark-wikimania": "Вікіманія",
 	"contactpage-wikimedia-trademark-wikimedia": "Спільнота Вікімедіа",
+	"contactpage-wikimedia-trademark-wikinews": "Вікіновини",
+	"contactpage-wikimedia-trademark-wikisource": "Вікіджерела",
+	"contactpage-wikimedia-trademark-wikispecies": "Віківиди",
+	"contactpage-wikimedia-trademark-wikiversity": "Віківерситет",
+	"contactpage-wikimedia-trademark-wiktionary": "Вікісловник",
+	"contactpage-wikimedia-trademark-wikivoyage": "Вікімандри",
 	"contactpage-title-licenseabuse": "Форма для скарг на порушення",
 	"contactpage-pagetext-licenseabuse": "Будь ласка, скористайтеся формою нижче, щоб зв'язатися з нами щодо когось, кого Ви підозрюєте в зловживанні чи неправильному використанні торгового знаку Вікімедіа.",
 	"contactpage-subject-licenseabuse": "Повідомлення про зловживання торговою маркою Вікімедіа",
@@ -65,5 +79,14 @@
 	"contactpage-movecom-signup-display-name": "Ім'я",
 	"contactpage-movecom-signup-display-username": "Ім'я користувача",
 	"contactpage-movecom-signup-display-nameusername": "Ім'я й ім'я користувача",
-	"contactpage-movecom-signup-terms-label": "Я прочитав/ла опис [[Movement communications group|Групи комунікацій спільноти]] та погоджуюся дотримуватися [[Foundation:Friendly space policy|Політики дружнього простору Фонду Вікімедіа]], будучи у цій групі. Я розумію, що недотримання цієї політики призведе до вилучення з групи."
+	"contactpage-movecom-signup-terms-label": "Я прочитав/ла опис [[Movement communications group|Групи комунікацій спільноти]] та погоджуюся дотримуватися [[Foundation:Friendly space policy|Політики дружнього простору Фонду Вікімедіа]], будучи у цій групі. Я розумію, що недотримання цієї політики призведе до вилучення з групи.",
+	"contactpage-title-ombudscommission": "Зверніться до Комісії омбудсмена",
+	"contactpage-ombudscommission-case-explanation": "Поясніть, що сталося:",
+	"contactpage-ombudscommission-relevant-links": "Надайте URL-адреси для дій або сторінок вікі:",
+	"contactpage-ombudscommission-violation-type": "У кількох словах поясніть, яка політика вікі була порушена:",
+	"contactpage-ombudscommission-involved-users": "На яких користувачів ви скаржитесь? Вкажіть свої імена користувачів вікі:",
+	"contactpage-ombudscommission-affected-accounts": "На які облікові записи впливає ця скарга? Якщо це не вплинуло на когось, крім вас, ви можете пропустити це поле.",
+	"contactpage-ombudscommission-proposed-solution": "Яке рішення ви б запропонували? Які очікування від комісії?",
+	"contactpage-ombudscommission-additional-information": "Додайте будь-яку іншу інформацію, яка, на вашу думку, має значення для розуміння цієї справи.",
+	"contactpage-ombudscommission-disclaimer-label": "Відмова від відповідальності: Уся інформація, яку ви включаєте у цю форму, подається, обробляється та на них надається відповідь користувачами волонтерської спільноти (зокрема членами [[Special:MyLanguage/Ombuds commission|Комісії Омбудсмена]]), а не Фондом Вікімедіа. Не вказуйте будь-яку інформацію, якою вам не зручно ділитися з волонтерами Вікімедіа. Відповіді та інша кореспонденція, пов’язана з обробкою поданої вами інформації, не вважається офіційною заявою Фонду Вікімедіа. Для офіційного листування зверніться до Фонду Вікімедіа методами, переліченими на https://wikimediafoundation.org/about/contact/."
 }

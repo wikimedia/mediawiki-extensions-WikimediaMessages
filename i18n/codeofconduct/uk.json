@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"DDPAT",
 			"Piramidion"
 		]
 	},
-	"wm-codeofconduct": "Кодекс поведінки"
+	"wm-codeofconduct": "Кодекс поведінки",
+	"wm-techcodeofconduct": "Кодекс поведінки"
 }
