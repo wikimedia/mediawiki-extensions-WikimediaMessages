@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jose77"
+			"Jose77",
+			"MinecraftAustralia"
 		]
 	},
-	"sitesupport": "Tupe fakalofa mo e lagomatai"
+	"sitesupport": "Tupe fakalofa mo e lagomatai",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }
