@@ -7,6 +7,14 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(palīdziet izvēlēties)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Attēls nav redzams? [[{{MediaWiki:createacct-captcha-help-url}}|Pieprasiet kontu]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
-	"wikimedia-sitematrix": "Visu Wikimedia wiki projektu uzskaitījums",
-	"wikimedia-sitematrix-others": "Citi Wikimedia projekti"
+	"wikimedia-centralauth-uwbr-registration-nodate": "pirms 2006. gada",
+	"wikimedia-discussiontools-replywidget-terms-click": "Klikšķinot uz \"$1\" tu piekrīti mūsu [https://foundation.wikimedia.org/wiki/Terms_of_Use lietošanas noteikumiem] un neatsaucami piekrīti publicēt savu tekstu saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/deed.lv CC BY-SA 3.0] un [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] licenci.",
+	"wikimedia-feedback-termsofuse": "Es piekrītu sniegt atsauksmes saskaņā ar <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">lietošanas noteikumiem</a>.",
+	"wikimedia-sitematrix": "Wikimedia vikivietņu uzskaitījums",
+	"wikimedia-sitematrix-others": "Citi Wikimedia projekti",
+	"wikimedia-sitematrix-summary": "Šajā īpašajā lapā uzskaitītas visas Wikimedia vikivietnes",
+	"wikimedia-urlshortener-disabled": "Īsās saites var izveidot tikai [[:m:Special:UrlShortener|Special:UrlShortener]] lapā meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-disabled": "Īsās saites var izveidot tikai ar izsaukumu uz meta.wikimedia.org vietni.",
+	"wikimedia-urlshortener-badaccessgroups": "Īsās saites var izveidot tikai [[:m:Special:UrlShortener|Special:UrlShortener]] lapā meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "Īsās saites var izveidot tikai ar izsaukumu uz meta.wikimedia.org vietni."
 }
