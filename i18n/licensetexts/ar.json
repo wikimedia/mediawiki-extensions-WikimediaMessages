@@ -110,9 +110,9 @@
 	"wm-license-pd-wiki-link": "w:ar:ملكية عامة",
 	"wm-license-self": "أنا، مالك حقوق النسخ لهذا العمل، أنشره تحت {{PLURAL:$1|الرخصة|الرخص}} التالية:",
 	"wm-license-self-with-author": "$1، مالك حقوق النسخ لهذا العمل، ينشره تحت {{PLURAL:$2|الرخصة|الرخص}} التالية:",
-	"wm-license-self-one-license": "أنا، صاحب حقوق الطبع والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
-	"wm-license-self-one-license-with-author": "$1، صاحب حقوق الطبع والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
-	"wm-license-self-multiple-licenses": "أنا، صاحب حقوق الطبع والنشر لهذا العمل، أنشر هذا العمل تحت الرخص التالية:",
+	"wm-license-self-one-license": "أنا، صاحب حقوق التأليف والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
+	"wm-license-self-one-license-with-author": "$1، صاحب حقوق التأليف والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
+	"wm-license-self-multiple-licenses": "أنا، صاحب حقوق التأليف والنشر لهذا العمل، أنشر هذا العمل تحت الرخص التالية:",
 	"wm-license-self-multiple-licenses-with-author": "$1، صاحب حقوق تأليف ونشر هذا العمل، ينشره تحت الرَّخص التالية:",
 	"wm-license-self-multiple-licenses-select": "لك أن تختار الرخصة التي تناسبك."
 }
