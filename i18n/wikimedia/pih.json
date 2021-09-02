@@ -1,6 +1,17 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"MinecraftAustralia"
+		]
 	},
-	"sitesupport": "Doenaiishun"
+	"sitesupport": "Doenaiishun",
+	"wikimedia-copyright": "Tekst es aweil'bl anda t' <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms o' Yuus</a> f' diiteils.",
+	"wikimedia-copyrightwarning": "Bai seiwen chienjs, yuu agrii tu t' [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms o' Yuus] an yuu irewokeblii agrii tu r'liis yor kontribyuush'n unda t' [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Lais'ns] an t' [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYuu agrii det a haipaalink or URL es sufish'nt atribyuush'n unda t' Kriietiw Kom'ns lais'ns.",
+	"wikibase-sitelinks-wikinews": "Wikinyuus",
+	"wikibase-sitelinks-wikiquote": "Wikikwoet",
+	"wikibase-sitelinks-wikisource": "Wikisors",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyej",
+	"wikimedia-developers": "Dewelopas",
+	"wikimedia-statslink": "Stetistiks",
+	"wikimedia-cookiestatement": "Kuukii steitment"
 }
