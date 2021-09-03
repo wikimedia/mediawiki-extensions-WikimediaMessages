@@ -12,6 +12,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisors",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyej",
 	"wikimedia-developers": "Dewelopas",
+	"wikimedia-globalblocking-ipblocked": "'''Yor IP adres hes biin [[m:Special:MyLanguage/Global blocks|blok'd orn orl wikis]].'''\n\nT' blok wos mied bai $1 ($2).\nT' riis'n giwen es ''$3''.\n\n* Staat o' blok: $4\n* Ekspairii o' blok: $5\n\nYor kurent IP adres es $6.\nPliis inkluud orl abaw diiteils i' eni kwiiriis yuu miek.\n\nIf yuu beliew yuu wer blok'd bai misteik, yuu ken faind adish'nel inf'maysh'n an instruksh'ns i' t' [[m:Special:MyLanguage/No open proxies|Noe op'n proksiis]] gloeb'l polisii.\nOthawais, tu diskus t' blok pliis [[m:Steward requests/Global|poest a rekwest f' rewiew orn Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Wan or mor proksii serwas yuus'd bai yor rekwest es [[m:Special:MyLanguage/Global blocks|glob'lii blok'd]].'''\n\nT' blok wos mied bai $1 ($2).\nT' riis'n giwen es ''$3''.\n\n* Staat o' blok: $4\n* Ekspairii o' blok: $5\n\nT' blok'd proksii adres wos $6.\nPliis inkluud orl abaw diiteils i' eni kwiiriis yuu miek.\n\nIf yuu beliiew yuu wer blok'd bai misteik, yuu ken faind adish'nel inf'maysh'n an instruksh'ns i' t' [[m:Special:MyLanguage/No open proxies|Noe op'n proksiis]] gloeb'l polisii.\nOthawais, tu diskus t' blok pliis [[m:Steward requests/Global|poest a rekwest f' rewiew orn Meta-Wiki]].",
 	"wikimedia-statslink": "Stetistiks",
 	"wikimedia-cookiestatement": "Kuukii steitment"
 }

@@ -4,11 +4,13 @@
 			"MinecraftAustralia"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Permish'n es grant'd tu kopii, distribyuut an/or modifai dis dokyuum'nt unda t' terms o' t' '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Frii Dokyuumenteish'n Laisens]]''', Wersi'n 1.2 or eni lieta wersi'n publish'd bai t' [[{{int:wm-license-fsf-wiki-link}}|Frii Sorftweya Fowndaysh'n]]; longf' noe Inwari'nt Seksh'ns, noe Frant-Kowaa Teksts an noe Bek-Kowaa Teksts. A kopii o' t' laisens es inkluud'd i' t' seksh'n entaitl'd ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Frii Dokyuumentaysh'n Laisens]]''.",
 	"wm-license-information-description": "Deskripsh'n",
 	"wm-license-information-source": "Sors",
 	"wm-license-information-date": "Deit",
 	"wm-license-information-author": "Ortaa",
 	"wm-license-information-permission": "Permish'n",
 	"wm-license-information-permission-reusing-text": "Reyuusen dis fail",
-	"wm-license-own-work": "Own werk"
+	"wm-license-own-work": "Own werk",
+	"wm-license-self-multiple-licenses-select": "Yuu mei selekt t' laisens o' yor chois."
 }
