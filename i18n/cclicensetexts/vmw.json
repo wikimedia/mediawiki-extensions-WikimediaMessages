@@ -4,6 +4,7 @@
 			"Gildo Máquina"
 		]
 	},
+	"wm-license-cc-attribution": "Soovahiwa",
 	"wm-license-cc-by-sa-3.0-text": "Orumeeliwa wa etthu ela variyari mwa mweemiheriwo wa ettikitti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en soovahiwa saya-Share Alike 3.0 yohiikuxereriwa.",
 	"wm-license-cc-free": "Mwiireke:",
 	"wm-license-cc-free-to-share-header": "Okawana",
@@ -13,5 +14,6 @@
 	"wm-license-cc-conditions": "Ntoko ikhalelo iya sinttharelana",
 	"wm-license-cc-conditions-attribution-header": "Soovahiwa",
 	"wm-license-cc-conditions-attribution-text": "Mohaana okawaka oratteene ni namapaka-aya, ovahererya muluttelelo mmosa wa ettikitti yoweemiheriwa ni ohimya wakhala wira sookhala ivirikanihiwe. Mookhala oowiraka wa muthinto wookhweya vakhaani, masi woohiya onvaha muruku namasuwanyeiha woowi omukhaliherye nnakhala wakhulele orumeela wawe muteko ola.",
-	"wm-license-cc-conditions-share_alike-header": "Nvahereryano a mithinto mwa eyaakhulelo emosa"
+	"wm-license-cc-conditions-share_alike-header": "Nvahereryano a mithinto mwa eyaakhulelo emosa",
+	"wm-license-cc-conditions-share_alike-text": "Mwatthikela otakaaherya, ovirikaniha nnakhala wuncererya etthu ela, mohaana okawaka misunkano sanyu ni [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses mwa emosa nnakhala ettikitti emosa entthuneya] ni ele ya ekeekhayi."
 }

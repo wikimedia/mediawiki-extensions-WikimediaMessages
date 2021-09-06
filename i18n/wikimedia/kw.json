@@ -3,6 +3,7 @@
 		"authors": [
 			"Kw-Moon",
 			"Malafaya",
+			"MinecraftAustralia",
 			"Nemo bis",
 			"Nicky.ker",
 			"Nrowe"
@@ -18,5 +19,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-captcha-help-url": "{{ns:Project}}:Govyn akont",
-	"wikimedia-developers": "Displegyoryon"
+	"wikimedia-developers": "Displegyoryon",
+	"wikimedia-statslink": "Statystygyon"
 }

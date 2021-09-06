@@ -6,8 +6,12 @@
 		]
 	},
 	"sitesupport": "Mukhaliheryo",
+	"wikimedia-copyright": "Yoolempwa ela envahereriwa variyari wa ettikitti ya href=\"https:/creativecommons.org/licenses/by-sa/3.0/\"></a>",
 	"wikimedia-copyrightwarning": "Mwasukaka mivirikanino, munnakhulela sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Murumeele ikhalelo sinrumeeliwa] ni woohikhalakhala tho nvaanyihala mulaleye mukhaliheryo sanyu sa iyaakhulelo [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nMunnaakhulela tho wira muttopaanyeryo mmosa nnakhala IRL mmosa mukhalelo omphiyerya woovahiwa variyari mwa eyaakhulelo Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikiihapari",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Anamaroohela ottayiwene",
 	"wikimedia-globalblocking-ipblocked": "\"Ethoonyeryo-anyu IP yaari [[m:special:MyLanguage/Global blocks|yoottipihiwa mwa n\"wiki mootheene]]\".\nOttipihiwa wenno ovariwe ni $1 ($2).\nMwaha wooniheriwe waari \"$3\".\nOpaceriwa ottipihiwa: $4\nOmalamala wa okathi woottipihiwa: $5\nEthoonyeryo-anyu IP ya naanano ti $6.\nMukhalihe muhina sotheene seiya sa osulu ni mmuhupini munkelaanyu oniveleeliherya, xontte. \nMwaakupaliki wira muttipihiwe mwaha woowattattanyiwa, mookhala oophwanyaka ihaali ikina ni ittharihelo omweettiheryoni wa sotheene sooluluwana ni [[m:special:MyLanguage/no open pr9xies|okhoottihiwa wa \"proxies\" soohuliwa]].\nWahikhale siiso, woowi nvaanyihane ottipihiwa wenno [[m:Steward requests/Global| muthukule nivekelo nimosa woowi yooniwe ni Meta-Wiki]].",
 	"wikimedia-statslink": "Namaalakela",
