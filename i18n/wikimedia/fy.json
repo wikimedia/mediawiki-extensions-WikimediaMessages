@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"MinecraftAustralia",
 			"MuratTheTurkish",
 			"PiefPafPier",
 			"Pyt",
@@ -57,6 +58,8 @@
 	"wikibase-otherprojects-wiktionary": "Wikiwurdboek",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"wikimedia-developers": "Untwikkelders",
+	"wikimedia-globalblocking-ipblocked": "'''Jo IP -adres hat west [[m:Special:MyLanguage/Global blocks|Jo IP -adres hat west]].'''\n\nIt blok waard makke troch $1 ($2).\nDe oanjûne reden is ''$3''.\n\n* Start fan blok: $4\n* Einde fan blok: $5\n\nJo hjoeddeistige IP -adres is $6.\nMeitsje asjebleaft alle boppesteande details op yn alle fragen dy't jo meitsje.\n\nAs jo ​​leauwe dat jo per ongelok waarden blokkearre, kinne jo ekstra ynformaasje en ynstruksjes fine yn 'e [[m:Special:MyLanguage/No open proxies|Gjin iepen folmachten]] global belied.\nOars, asjebleaft om it blok te besprekken [[m:Steward requests/Global|pleatst in fersyk foar resinsje op Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Ien of mear proxy -tsjinners brûkt troch jo fersyk is [[m:Special:MyLanguage/Global blocks|globaal blokkearre]].'''\n\nIt blok waard makke troch $1 ($2).\nDe oanjûne reden is ''$3''.\n\n* Start fan blok: $4\n* Einde fan blok: $5\n\nIt blokkearre proxyadres wie $6.\nMeitsje asjebleaft alle boppesteande details op yn alle fragen dy't jo meitsje.\n\nAs jo ​​leauwe dat jo per ongelok waarden blokkearre, kinne jo ekstra ynformaasje en ynstruksjes fine yn 'e [[m:Special:MyLanguage/No open proxies|Gjin iepen folmachten]] global belied.\nOars, asjebleaft om it blok te besprekken [[m:Steward requests/Global|pleatst in fersyk foar resinsje op Meta-Wiki]].",
 	"upload-form-label-own-work-message-commons": "Ik ferklearje dat ik de auteursrjochten op dit bestân yn besit haw, en gean akkoart dit bestân ûnwerroplik frij te jaan oan Wikimedia Commons ûnder de lisinsje [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Nammefermelding-Lyk diele 4.0], en ik stim yn mei de [https://foundation.wikimedia.org/wiki/Terms_of_Use Gebrûksbetingsten].",
 	"upload-form-label-not-own-work-message-commons": "At jo de auteursrjochten op dit bestân net hawwe, of jo wolle se frijjaan ûnder in oare lisinsje, probearje dan de [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Oanbiedhelper].",
 	"upload-form-label-not-own-work-local-commons": "Jo kinne ek [[Special:Upload|de oanbiedside op {{GRAMMAR:l|{{SITENAME}}}}]] probearje, at it webstee it belied hat dat dit bestân opladen wurde mei.",

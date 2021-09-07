@@ -7,6 +7,7 @@
 			"Harald Khan",
 			"Jeblad",
 			"Jon Harald Søby",
+			"MinecraftAustralia",
 			"Nemo bis",
 			"Njardarlogar",
 			"Ranveig",
@@ -167,6 +168,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Be om ein konto",
 	"wikimedia-developers": "Utviklarar",
 	"wikimedia-globalblocking-ipblocked": "'''IP-adressa di er blitt [[m:Special:MyLanguage/Global blocks|blokkert på alle wikiar]].'''\n\nBlokkeringa blei gjort av $1 ($2).\nÅrsaka som vart gitt var «$3».\n\n* Blokkeringa starta: $4\n* Blokkeringa endar: $5\n\nDi noverande IP-adresse er $6.\nInkluder alle detaljane ovanfor i alle førespurnader du gjer.\n\nOm du trur du har blitt blokkert ved ein feil kan du finne meir informasjon og instruksjonar i den globale retningslina for [[m:Special:MyLanguage/No open proxies|opne mellomtenarar]].\nFor å diskutere blokkeringa kan du elles [[m:Steward requests/Global|leggje inn ein førespurnad for gjennomgang på Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''IP-adressa di er blitt [[m:Special:MyLanguage/Global blocks|blokkert på alle wikiar]].'''\n\nBlokkeringa blei gjort av $1 ($2).\nÅrsaka som vart gitt var «$3».\n\n* Blokkeringa starta: $4\n* Blokkeringa endar: $5\n\nDi noverande IP-adresse er $6.\nInkluder alle detaljane ovanfor i alle førespurnader du gjer.\n\nOm du trur du har blitt blokkert ved ein feil kan du finne meir informasjon og instruksjonar i den globale retningslina for [[m:Special:MyLanguage/No open proxies|opne mellomtenarar]].\nFor å diskutere blokkeringa kan du elles [[m:Steward requests/Global|leggje inn ein førespurnad for gjennomgang på Meta-Wiki]].",
 	"upload-form-label-own-work-message-commons": "Eg stadfester at eg har opphavsretten til denne fila, at eg samtykkjer til å sleppa fila til Wikimedia Commons under lisensen [https://creativecommons.org/licenses/by-sa/4.0/deed.no Creative Commons Namngjeving-DelPåSameVilkåra 4.0] for godt, og eg samtykkjer til [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkåra].",
 	"upload-form-label-not-own-work-message-commons": "Om du ikkje har opphavsretten til fila, eller ynskjer å gje henne ut under ein annan lisens, prøv [https://commons.wikimedia.org/wiki/Special:UploadWizard Opplastingsvegvisaren på Commons].",
 	"upload-form-label-not-own-work-local-commons": "Du kan eventuelt freista [[Special:Upload|opplastingssida på {{SITENAME}}]], om fila kan lastast opp på den nettstaden under retningslinene som gjeld der.",
@@ -197,5 +199,6 @@
 	"eri-wlfilters-tour-intro-preferences-description": "Under fana for overvakingslista i innstillingane dine kan du kva tid som helst slå av den betra overvakingslista.",
 	"wikimedia-centralauth-contribs-locked": "Denne kontoen er låst globalt.\nSjå [[m:Special:CentralAuth/$1|globale kontodetaljar]] for meir informasjon.",
 	"securepoll-dblist-securepollglobal": "Styreval",
+	"wikimedia-statslink": "Statisikk",
 	"wikimedia-cookiestatement": "Fråsegn om informasjonskapslar"
 }

@@ -23,7 +23,7 @@
 	"wm-license-book-title": "Teideal",
 	"wm-license-fsf-wiki-link": "w:ga:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:ga:Bogearraí saora",
-	"wm-license-gfdl-1.2-and-later": "Tugtar cead an doiciméad seo a chóipeáil, a dháil amach agus/nó a athrú de réir choinníollacha '''[[{{int:wm-license-gfdl-wiki-link}}|Cheadúnas GNU na nDoiciméad Saor]]''', Leagan 1.2 nó leagan ar bith níos nuaí a fhoilsítear ag an [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; gan Ranna Do-athraithe, gan Téacsanna an Chlúdaigh Tosaigh, gan Téacsanna an Chlúdaigh Deiridh.",
+	"wm-license-gfdl-1.2-and-later": "Tugtar cead an doiciméad seo a chóipeáil, a dháileadh agus/nó a mhodhnú faoi théarmaí an '''[[{{int:wm-license-gfdl-wiki-link}}|Ceadúnas Doiciméadúcháin Saor ó GNU]]''', Leagan 1.2 nó aon leagan níos déanaí a d’fhoilsigh an [[{{int:wm-license-fsf-wiki-link}}|Fondúireacht Bogearraí Saor in Aisce]]; gan aon Rannóga Inmheánacha, gan aon Téacsanna Clúdaigh Tosaigh, agus gan aon Téacsanna Clúdaigh Cúil. Tá cóip den cheadúnas san áireamh sa chuid dar teideal ''[[{{int:wm-license-gfdl-full-1.2-link}}|Ceadúnas Doiciméadúcháin Saor ó GNU]]''.",
 	"wm-license-gfdl-wiki-link": "w:ga:Ceadúnas GNU do Dhoiciméadú Saor",
 	"wm-license-information-table-summary": "Seo tábla caighdeánaithe a sholáthraíonn faisnéis iomlán maidir leis an comhad, lena n-áirítear cur síos ar cad a léiríonn sé agus conas a bhí déanta aige, stádas cóipchirt agus foinse.",
 	"wm-license-information-description": "Tuairisc",

@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Kening Aldgilles",
+			"MinecraftAustralia",
 			"Multichill",
 			"Robin van der Vliet",
 			"Robin0van0der0vliet"
@@ -16,8 +17,10 @@
 	"wm-license-information-date": "Datum",
 	"wm-license-information-author": "Auteur",
 	"wm-license-information-permission": "Tastimming",
+	"wm-license-information-permission-reusing-text": "Dit ôfbylding opnij brûke",
 	"wm-license-information-permission-see-below": "Sjoch ûnder.",
 	"wm-license-information-other-versions": "Oare ferzjes",
 	"wm-license-own-work": "Eigen wurk",
-	"wm-license-pd-usgov-military-air-force-wiki-link": "w:fy:United States Air Force"
+	"wm-license-pd-usgov-military-air-force-wiki-link": "w:fy:United States Air Force",
+	"wm-license-self-multiple-licenses-select": "Jo kinne de lisinsje fan jo kar selektearje."
 }
