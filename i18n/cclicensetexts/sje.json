@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bidumsábme",
 			"Olve Utne"
 		]
 	},
-	"wm-license-cc-conditions-share_alike-header": "juogadit sämmáláhkáj"
+	"wm-license-cc-free": "Duvne lä máhttelisvuohta:",
+	"wm-license-cc-free-to-share-header": "juohket",
+	"wm-license-cc-free-to-remix-text": "sjiehtadit bargov",
+	"wm-license-cc-conditions-share_alike-header": "juogada sämmáláhkáj"
 }
