@@ -1275,7 +1275,21 @@ class Hooks implements
 				'Wikiszótár'  => 'Wikiszótárak',
 			],
 		];
-
+		// T289767
+		$wgGrammarForms['ks'] = [
+			// ergative
+			'کرٛاوَل' => [
+				'وِکیٖلۄغَتھ' => 'وِکیٖلۄغتَن',
+			],
+			// dative
+			'دُکرٛٲوؠ' => [
+				'وِکیٖلۄغَتھ' => 'وِکیٖلۄغتَس',
+			],
+			// ablative
+			'آیِتؠ' => [
+				'وِکیٖلۄغَتھ' => 'وِکیٖلۄغتہٕ',
+			],
+		];
 		$wgGrammarForms['la'] = [
 			'genitive' => [
 				'Vicimedia Communia' => 'Vicimediorum Communium',
