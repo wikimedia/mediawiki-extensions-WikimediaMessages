@@ -6,8 +6,11 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ရွေးချယ်ရန် ကူညီပေးပါ)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "အကောင့်ဒေတာများကို ဒေါင်းလုတ်ပြုလုပ်ရန်  [[m:Special:CentralAuth/$1|သင်ပံ့ပိုးထားသော အခြားဝီကီမီဒီယာပရောဂျက်များမှ]] သင်၏ ရွေးချယ်စရာများစာမျက်နှာသို့ သွားရောက်နိုင်ပါသည်။",
+	"wikimedia-createacct-imgcaptcha-help": "ရုပ်ပုံကို မမြင်ရပါသလား [[{{MediaWiki:createacct-captcha-help-url}}|အကောင့်တစ်ခု တောင်းဆိုပါ]]",
 	"wikimedia-centralauth-groupname": "ဝီကီမီဒီယာ ဖောင်ဒေးရှင်း",
+	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ကိုနှိပ်ခြင်းဖြင့် သင်သည်  [https://foundation.wikimedia.org/wiki/Terms_of_Use အသုံးပြုခြင်းဆိုင်ရာ သတ်မှတ်ချက်များ]ကိုသဘောတူကာ ဘာသာပြန်ကိရိယာဖြင့် သင်၏ပံ့ပိုးမှုများကို  [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 လိုင်စင်]အောက်တွင် ထုတ်ပြန်ရန် သဘောတူပြီး hyperlink သို့မဟုတ် URL သည် CC BY-SA 3.0 attribution အတွက် လုံလောက်သည်ဆိုသည်ကို နားလည်ခြင်းနှင့်အတူ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ကို သဘောတူသည်။",
 	"wikimedia-sitematrix": "ဝီကီမီဒီယာ ဝီကီများစာရင်း",
 	"wikimedia-sitematrix-others": "အခြားဝီကီမီဒီယာ ပရောဂျက်များ",
+	"wikimedia-sitematrix-summary": "ဤအထူးစာမျက်နှာသည် ဝီကီမီဒီယာဝီကီများအားလုံးကို စာရင်းပြုစုထားပါသည်။",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy ကိုယ်ရေးမူဝါဒ]"
 }
