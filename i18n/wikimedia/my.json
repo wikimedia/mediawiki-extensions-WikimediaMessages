@@ -156,7 +156,11 @@
 	"protect-level-templateeditor": "တမ်းပလိတ်တည်းဖြတ်သူများနှင့် အက်ဒမင်များကိုသာ ခွင့်ပြုရန်",
 	"action-extendedconfirmed": "ကန့်သတ်ထားသော စာမျက်နှာများကို တည်းဖြတ်ရန်",
 	"right-extendedconfirmed": "ကန့်သတ်ထားသော စာမျက်နှာများကို တည်းဖြတ်ရန်",
+	"action-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
 	"protect-level-editeditorprotected": "တည်းဖြတ်သူများကိုသာ ခွင့်ပြုရန်",
+	"action-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
 	"protect-level-editextendedsemiprotected": "အလိုအလျောက် စောင့်ကြပ်စစ်ဆေးသူများကိုသာ ခွင့်ပြုရန်",
 	"eri-rcfilters-tour-intro-welcome-title": "မွမ်းမံထားသော လတ်တလော အပြောင်းအလဲများ စိစစ်စနစ်မှ ကြိုဆိုပါသည်",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "စိစစ်မှုအသစ်ကိုအသုံးပြု၍ တည်းဖြတ်မှုများကို ထိရောက်စွာ ပြန်လည်ဆန်းစစ်ပါ။ စိစစ်မှုများအစုကို သိမ်းဆည်းနိုင်စွမ်း၊ အသုံးပြုသူသတ်မှတ်သော မီးမောင်းထိုးပြချက်နှင့် အခြားပြုပြင်မွမ်းမံချက်များ ပါဝင်သည်။ $1",
@@ -170,5 +174,11 @@
 	"technical-maintenance-soon": "နည်းပညာရပ်ဆိုင်ရာ ပြုပြင်ထိန်းသိမ်းရေး မကြာခင် ဆောင်ရွက်ပါလိမ့်မည်:",
 	"technical-maintenance-edit": "ဤအချိန်အတောအတွင်း မည်သည့်တည်းဖြတ်မှုကိုမဆို သိမ်းဆည်းနိုင်လိမ့်မည်မဟုတ်ပါ။",
 	"querypage-updates-half-monthly": "ဤစာမျက်နှာအတွက် မွမ်းမံချက်များကို တလလျင်တကြိမ် မောင်းနှင်ပေးပါသည်။",
-	"querypage-updates-monthly": "ဤစာမျက်နှာအတွက် မွမ်းမံပြင်ဆင်ခြင်းကို တစ်လလျှင် နှစ်ကြိမ် ဆောင်ရွက်သည်။"
+	"querypage-updates-monthly": "ဤစာမျက်နှာအတွက် မွမ်းမံပြင်ဆင်ခြင်းကို တစ်လလျှင် နှစ်ကြိမ် ဆောင်ရွက်သည်။",
+	"right-editautoreviewprotected": "\"{{int:protect-level-editautoreviewprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"action-editautoreviewprotected": "\"{{int:protect-level-editautoreviewprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"right-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"action-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"right-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"action-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်"
 }

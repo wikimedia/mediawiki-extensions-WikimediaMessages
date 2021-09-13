@@ -8,6 +8,7 @@
 			"Liuxinyu970226",
 			"SaldırganSincap",
 			"Simon Shek",
+			"Tranve",
 			"WhitePhosphorus",
 			"Xiplus"
 		]
@@ -22,7 +23,7 @@
 	"wikimedia-centralauth-uwbr-registration-nodate": "2006 年以前",
 	"createacct-helpusername-url": "{{ns:Project}}:使用者名稱方針",
 	"wikimedia-delete-toobig": "此頁面有包含超過 $1 次{{PLURAL:$1|修訂|修訂}}，內含大量的編輯歷史。刪除帶有大量編輯歷史頁面的操作會遭限制，以防止對{{SITENAME}}產生的意外破壞。請在[[m:Steward requests/Miscellaneous|監管員請求/元維基雜項請求]]來聯絡[[m:Special:MyLanguage/Stewards|監管員]]請求刪除此頁面。",
-	"wikimedia-discussiontools-replywidget-terms-click": "點擊「$1」，代表您同意我們的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款]，並且同意不反悔以[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款]與[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GNU 自由文檔許可證文本]釋出您的文字內容。",
+	"wikimedia-discussiontools-replywidget-terms-click": "點擊「$1」即代表您同意我們的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款]，並且同意不反悔以[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款]與[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GNU 自由文檔許可證文本]釋出您的文字內容。",
 	"wikimedia-feedback-termsofuse": "我同意遵守<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">使用條款</a>來提供意見回饋。",
 	"wikimedia-flow-terms-of-use-new-topic": "點選「{{int:flow-newtopic-save}}」代表您同意我們的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款]並且同意不反悔以[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款]與[https://zh.wikipedia.org/wiki/Wikipedia:GNU%E8%87%AA%E7%94%B1%E6%96%87%E6%A1%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%96%87%E6%9C%AC GFDL]發布您的內容。",
 	"wikimedia-flow-terms-of-use-reply": "點選「{{int:flow-reply-link}}」代表您同意我們的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款]並且同意不反悔以[https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW CC BY-SA 3.0 授權條款]與[https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL]發布您的內容。",

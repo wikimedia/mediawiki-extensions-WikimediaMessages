@@ -1,6 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"MinecraftAustralia"
+		]
 	},
-	"sitesupport": "Pūpū i te ō"
+	"sitesupport": "Pūpū i te ō",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }
