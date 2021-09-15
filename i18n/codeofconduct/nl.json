@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mainframe98"
+			"Mainframe98",
+			"Romaine"
 		]
 	},
-	"wm-codeofconduct": "Gedragscode"
+	"wm-codeofconduct": "Gedragscode",
+	"wm-techcodeofconduct": "Gedragscode"
 }
