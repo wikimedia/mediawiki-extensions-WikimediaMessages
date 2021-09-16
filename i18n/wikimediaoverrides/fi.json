@@ -3,6 +3,7 @@
 		"authors": [
 			"01miki10",
 			"Alluk.",
+			"Kyykaarme",
 			"Nemo bis",
 			"Pyscowicz",
 			"Stryn"
@@ -14,6 +15,7 @@
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnus",
+	"wikimedia-discussiontools-replywidget-terms-click": "Klikkaamalla \"$1\" hyväksyt [https://foundation.wikimedia.org/wiki/Terms_of_Use käyttöehdot] ja suostut peruuttamattomasti julkaisemaan tekstisi [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0]- ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-lisensseillä.",
 	"wikimedia-sitematrix": "Luettelo Wikimedian wikeistä",
 	"wikimedia-sitematrix-others": "Muut Wikimedia-hankkeet",
 	"wikimedia-sitematrix-summary": "Tämä toimintosivu näyttää luettelon kaikista Wikimedian wikeistä.",

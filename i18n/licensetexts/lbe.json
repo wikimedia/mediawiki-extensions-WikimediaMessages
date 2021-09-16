@@ -4,8 +4,12 @@
 			"Soul Train"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "БучӀиссар дан, бачӀин ягу даххана дан ва документ ве шартӀе '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' версиярду 1.2 ягу хъиннура чӀалну, чирчусса [[{{int:wm-license-fsf-wiki-link}}|Фонд аьзадса программмныйрул  аьркимшаврил]], кьа даххана хьусса разделдашал, махъру бакасса бивхьусса цалчинмунийба махъмуний мужаллалий. Лицензиялул копия хӀала бунну бувсар разделлубун, цӀа дирхьусса ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Сурат даву",
 	"wm-license-information-source": "Ляхъаву",
 	"wm-license-information-date": "Кьини",
-	"wm-license-information-author": "Дурма"
+	"wm-license-information-author": "Дурма",
+	"wm-license-information-permission": "Ихтиярдув",
+	"wm-license-information-permission-reusing-text": "Цунил ишла дурса ва файл",
+	"wm-license-own-work": "Цала даву"
 }
