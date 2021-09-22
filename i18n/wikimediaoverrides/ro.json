@@ -9,6 +9,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Aveți posibilitatea de a vă vizita pagina Preferințe de pe [[m:Special:CentralAuth/$1|alte proiecte Wikimedia unde ați contribuit]] pentru a vă descărca datele contului de la acele proiecte.",
 	"wikimedia-createacct-imgcaptcha-help": "Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]",
 	"wikimedia-centralauth-groupname": "Fundația Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica_numelui_de_utilizator",
