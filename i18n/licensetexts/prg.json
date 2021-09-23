@@ -1,7 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Nērtiks Jōrgesuns"
+		]
 	},
 	"wm-license-information-description": "Ebpeisāsenis",
-	"wm-license-information-source": "Aps"
+	"wm-license-information-source": "Aps",
+	"wm-license-information-date": "Dātan",
+	"wm-license-information-author": "Autōrs"
 }
