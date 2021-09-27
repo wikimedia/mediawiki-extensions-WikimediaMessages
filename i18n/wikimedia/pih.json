@@ -4,16 +4,5 @@
 			"MinecraftAustralia"
 		]
 	},
-	"sitesupport": "Doenaiishun",
-	"wikimedia-copyright": "Tekst es aweil'bl anda t' <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms o' Yuus</a> f' diiteils.",
-	"wikimedia-copyrightwarning": "Bai seiwen chienjs, yuu agrii tu t' [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms o' Yuus] an yuu irewokeblii agrii tu r'liis yor kontribyuush'n unda t' [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Lais'ns] an t' [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYuu agrii det a haipaalink or URL es sufish'nt atribyuush'n unda t' Kriietiw Kom'ns lais'ns.",
-	"wikibase-sitelinks-wikinews": "Wikinyuus",
-	"wikibase-sitelinks-wikiquote": "Wikikwoet",
-	"wikibase-sitelinks-wikisource": "Wikisors",
-	"wikibase-sitelinks-wikivoyage": "Wikiholidieh",
-	"wikimedia-developers": "Dewelopas",
-	"wikimedia-globalblocking-ipblocked": "'''Yor IP adres hes biin [[m:Special:MyLanguage/Global blocks|blok'd orn orl wikis]].'''\n\nT' blok wos mied bai $1 ($2).\nT' riis'n giwen es ''$3''.\n\n* Staat o' blok: $4\n* Ekspairii o' blok: $5\n\nYor kurent IP adres es $6.\nPliis inkluud orl abaw diiteils i' eni kwiiriis yuu miek.\n\nIf yuu beliew yuu wer blok'd bai misteik, yuu ken faind adish'nel inf'maysh'n an instruksh'ns i' t' [[m:Special:MyLanguage/No open proxies|Noe op'n proksiis]] gloeb'l polisii.\nOthawais, tu diskus t' blok pliis [[m:Steward requests/Global|poest a rekwest f' rewiew orn Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Wan or mor proksii serwas yuus'd bai yor rekwest es [[m:Special:MyLanguage/Global blocks|glob'lii blok'd]].'''\n\nT' blok wos mied bai $1 ($2).\nT' riis'n giwen es ''$3''.\n\n* Staat o' blok: $4\n* Ekspairii o' blok: $5\n\nT' blok'd proksii adres wos $6.\nPliis inkluud orl abaw diiteils i' eni kwiiriis yuu miek.\n\nIf yuu beliiew yuu wer blok'd bai misteik, yuu ken faind adish'nel inf'maysh'n an instruksh'ns i' t' [[m:Special:MyLanguage/No open proxies|Noe op'n proksiis]] gloeb'l polisii.\nOthawais, tu diskus t' blok pliis [[m:Steward requests/Global|poest a rekwest f' rewiew orn Meta-Wiki]].",
-	"wikimedia-statslink": "Stetistiks",
-	"wikimedia-cookiestatement": "Kuukii steitment"
+	"sitesupport": "Doenaiishun"
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"4ing",
 			"Chameleon222",
 			"Danmichaelo",
 			"Event",
@@ -302,7 +303,7 @@
 	"eri-rcfilters-tour-highlight-button": "Ok, skjønner",
 	"eri-rcfilters-tour-confirm-title": "De nye filtrene er nå slått på",
 	"eri-rcfilters-tour-confirm-description": "Du kan gå til <strong>betafunksjonssiden</strong> for å gi tilbakemelding eller slå av funksjonen.",
-	"eri-wlfilters-tour-intro-welcome-title": "Velkommen til forbedret filtrering av overvåkingslista",
+	"eri-wlfilters-tour-intro-welcome-title": "Velkommen til forbedret filtrering av overvåkningslista",
 	"eri-wlfilters-tour-intro-preferences-description": "Gå til overvåkningslistefanen i innstillingene når som helst for å slå av den forbedrede overvåkningslisten.",
 	"wikimedia-centralauth-contribs-locked": "Denne kontoen er låst globalt.\nSe [[m:Special:CentralAuth/$1|globale kontodetaljer]] for mer informasjon.",
 	"action-viewdeletedfile": "vise filer og sider i navnerommene {{ns:file}} og {{ns:file_talk}} som er slettet",

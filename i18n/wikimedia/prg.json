@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nertiks"
+			"Nertiks",
+			"Nērtiks Jōrgesuns"
 		]
 	},
 	"sitesupport": "Dajāis",
 	"wikimedia-copyright": "Tekstan ast preiēiminintan pa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Licēncin</a>;\npapilniminai arāikinsnas mazzi gilaūtwei.\nDirēis en <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Tērpausnas Āudairas</a> per malkans.",
+	"wikibase-sitelinks-wikinews": "Wikinawwiskwas",
+	"wikibase-sitelinks-wikiquote": "Wikicitātai",
+	"wikibase-sitelinks-wikisource": "Wikiappus",
+	"wikibase-sitelinks-wikivoyage": "Wikipintegas",
 	"wikimedia-developers": "Kurtajai",
 	"wikimedia-statslink": "Statistiki",
 	"wikimedia-cookiestatement": "Pawakīsenis ezze kepinnins"

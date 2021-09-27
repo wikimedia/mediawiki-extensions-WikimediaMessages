@@ -10,7 +10,6 @@
 	},
 	"wm-license-cc-wiki-link": "w:fy:Creative Commons",
 	"wm-license-cc-attribution": "Nammefermelding",
-	"wm-license-cc-by-sa-3.0-text": "Dit bestân is lisinsjeeare ûnder de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Nammefermelding-Diel gelyk 3.0 Unportearre] fergunning ferliene.",
 	"wm-license-cc-free": "Fiel jo frij:",
 	"wm-license-cc-free-to-share-header": "te dielen",
 	"wm-license-cc-free-to-share-text": "it wurk te kopiearjen, fersprieden en út te stjoeren",
@@ -18,7 +17,5 @@
 	"wm-license-cc-free-to-remix-text": "it wurk oan te passen",
 	"wm-license-cc-conditions": "Under de neikommende betingsten:",
 	"wm-license-cc-conditions-attribution-header": "Nammefermelding",
-	"wm-license-cc-conditions-attribution-text": "Jo moatte passende kredyt jaan, in kepling leverje nei de lisinsje, en oanjaan as feroaringen binne makke. Jo kinne dit op elke ridlike manier dwaan, mar net op ien of oare manier dy't suggereart dat de lisinsjefeur jo as jo gebrûk stipet.",
-	"wm-license-cc-conditions-share_alike-header": "Lyk diele",
-	"wm-license-cc-conditions-share_alike-text": "As jo ​​it materiaal remixe, transformearje of bouwe, moatte jo jo bydragen ferdielje ûnder de [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses deselde of kompatibele lisinsje] as it orizjineel."
+	"wm-license-cc-conditions-share_alike-header": "Lyk diele"
 }

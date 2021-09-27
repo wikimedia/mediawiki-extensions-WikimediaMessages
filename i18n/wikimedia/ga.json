@@ -44,15 +44,9 @@
 	"group-sysadmin": "Riarthóirí",
 	"group-sysadmin-member": "riarthóir",
 	"shared-repo-name-shared": "an Cómhaoin Vicíméid",
-	"wikimedia-copyright": "Tá téacs ar fáil faoin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Ceadúnas Attribution-ShareAlike Creative Commons</a>;\nféadfaidh téarmaí breise a bheith i bhfeidhm.\nFéach <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> le haghaidh sonraí.",
-	"wikimedia-copyrightwarning": "Trí athruithe a shábháil, aontaíonn tú leis an [https://foundation.wikimedia.org/wiki/Terms_of_Use Téarmaí Úsáide] agus aontaíonn tú go neamh-inchúlghairthe do ranníocaíocht a scaoileadh faoin [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Ceadúnas CC BY-SA 3.0] agus an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAontaíonn tú gur leor hipearnasc nó URL faoin gceadúnas Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Vicínuacht",
 	"wikibase-sitelinks-wikiquote": "Vicíshliocht",
 	"wikibase-sitelinks-wikisource": "Vicífhoinse",
 	"wikibase-sitelinks-wikivoyage": "Vicíthaisteal",
-	"wikimedia-developers": "Forbróirí",
-	"wikimedia-globalblocking-ipblocked": "'''Tá do sheoladh IP curtha [[m:Special:MyLanguage/Global blocks|bac ar gach vicis]].'''\n\nRinneadh an bloc le $1 ($2).\nIs é an chúis a thugtar ''$3''.\n\n* Tús an bhloc: $4\n* Dul in éag an bhloc: $5\n\nIs é do sheoladh IP reatha $6.\nCuir na sonraí thuas go léir le do thoil in aon cheisteanna a dhéanann tú.\n\nMá chreideann tú gur bhac tú trí dhearmad, is féidir leat faisnéis agus treoracha breise a fháil sa [[m:Special:MyLanguage/No open proxies|Gan aon proxies oscailte]] beartas domhanda.\nSeachas sin, chun an bloc a phlé le do thoil [[m:Steward requests/Global|iarratas ar athbhreithniú a phostáil ar Meta-Vici]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Freastalaí seachfhreastalaí amháin nó níos mó a úsáideann d’iarratas [[m:Special:MyLanguage/Global blocks|blocáilte go domhanda]].'''\n\nRinneadh an bloc le $1 ($2).\nIs é an chúis a thugtar ''$3''.\n\n* Tús an bhloc: $4\n* Dul in éag an bhloc:: $5\n\nBa é an seoladh seachfhreastalaí blocáilte $6.\nCuir na sonraí thuas go léir le do thoil in aon cheisteanna a dhéanann tú.\n\nMá chreideann tú gur bhac tú trí dhearmad, is féidir leat faisnéis agus treoracha breise a fháil sa [[m:Special:MyLanguage/No open proxies|Gan aon proxies oscailte]] beartas domhanda.\nSeachas sin, chun an bloc a phlé le do thoil [[m:Steward requests/Global|iarratas ar athbhreithniú a phostáil ar Meta-Vici]].",
-	"wikimedia-statslink": "Staitisticí",
-	"wikimedia-cookiestatement": "Ráiteas fianán"
+	"wikimedia-developers": "Forbróirí"
 }
