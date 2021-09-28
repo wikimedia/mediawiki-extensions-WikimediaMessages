@@ -291,8 +291,9 @@ class WikimediaMessagesHooks implements
 	 * @param string $context
 	 * @param array $attribs
 	 * @param string &$msg
+	 * @param int|null &$plural
 	 */
-	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg ) {
+	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg, &$plural = null ) {
 		global $wgRightsUrl, $wgDBname;
 
 		switch ( $wgDBname ) {
@@ -318,6 +319,7 @@ class WikimediaMessagesHooks implements
 						$link = wfMessage( 'wikimedia-mobile-license-links' )
 							->inContentLanguage()
 							->plain();
+						$plural = 2;
 					}
 				}
 		}
