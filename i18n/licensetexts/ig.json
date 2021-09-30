@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
+			"Tochiprecious",
 			"Ukabia"
 		]
 	},
@@ -16,5 +17,6 @@
 	"wm-license-information-permission-see-below": "Lé na àlà.",
 	"wm-license-information-other-versions": "Nke ya ozor",
 	"wm-license-own-work": "Orü ọnwé",
-	"wm-license-pd-wiki-link": "w:ig:Public domain"
+	"wm-license-pd-wiki-link": "w:ig:Public domain",
+	"wm-license-self-multiple-licenses-select": "Ị nwere ike họrọ ikikere nke masịrị gị."
 }
