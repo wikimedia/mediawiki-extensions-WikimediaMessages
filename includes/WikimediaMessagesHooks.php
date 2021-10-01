@@ -236,7 +236,6 @@ class WikimediaMessagesHooks implements
 	 * @param string $type
 	 * @param string &$msg
 	 * @param string &$link
-	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
 		$rightsUrl = $this->options->get( 'RightsUrl' );
@@ -270,7 +269,6 @@ class WikimediaMessagesHooks implements
 	 *
 	 * @param Title $title
 	 * @param array &$msg
-	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onEditPageCopyrightWarning( $title, &$msg ) {
 		$rightsUrl = $this->options->get( 'RightsUrl' );
@@ -336,7 +334,6 @@ class WikimediaMessagesHooks implements
 	 * @param Skin $skin
 	 * @param string $key
 	 * @param array &$footerLinks
-	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onSkinAddFooterLinks( Skin $skin, string $key, array &$footerLinks ) {
 		if ( $key !== 'places' ) {
@@ -433,7 +430,6 @@ class WikimediaMessagesHooks implements
 	 * to prevent checking each subpage of MediaWiki:Licenses.
 	 *
 	 * @param SpecialUpload $upload
-	 * @return bool|void True or no return value to continue or false to abort
 	 * @throws ErrorPageError
 	 */
 	public function onUploadForm_initial( $upload ) {
@@ -1653,7 +1649,6 @@ class WikimediaMessagesHooks implements
 	 *
 	 * @param User $user User object
 	 * @param array &$preferences Preferences object
-	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onGetPreferences( $user, &$preferences ) {
 		$preferences['rcenhancedfilters-seen-tour'] = [
@@ -1678,7 +1673,6 @@ class WikimediaMessagesHooks implements
 	 *
 	 * @param SpecialPage $special
 	 * @param string|null $subPage
-	 * @return void True or no return value to continue or false to prevent execution
 	 */
 	public function onSpecialPageBeforeExecute( $special, $subPage ) {
 		if (
