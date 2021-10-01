@@ -244,7 +244,7 @@ class WikimediaMessagesHooks implements
 		if (
 			$type !== 'history' &&
 			// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-			strpos( $rightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false
+			$rightsUrl === 'https://creativecommons.org/licenses/by-sa/3.0/'
 		) {
 			$dbName = $this->options->get( 'DBname' );
 
@@ -276,7 +276,7 @@ class WikimediaMessagesHooks implements
 		$rightsUrl = $this->options->get( 'RightsUrl' );
 
 		// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-		if ( strpos( $rightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+		if ( $rightsUrl === 'https://creativecommons.org/licenses/by-sa/3.0/' ) {
 			$msg = [ 'wikimedia-copyrightwarning' ];
 		}
 	}
@@ -313,7 +313,7 @@ class WikimediaMessagesHooks implements
 				break;
 			default:
 				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-				if ( strpos( $wgRightsUrl, 'creativecommons.org/licenses/by-sa/3.0' ) !== false ) {
+				if ( $wgRightsUrl === 'https://creativecommons.org/licenses/by-sa/3.0/' ) {
 					// We only display the dual licensing stack in the editor and talk interfaces
 					if ( $context === 'editor' || $context === 'talk' ) {
 						$link = wfMessage( 'wikimedia-mobile-license-links' )
