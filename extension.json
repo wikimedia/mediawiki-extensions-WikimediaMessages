@@ -102,5 +102,11 @@
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
 	},
+	"config": {
+		"WikimediaMessagesLicensing": {
+			"value": "standard",
+			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'wikidata', 'wikinews'"
+		}
+	},
 	"manifest_version": 2
 }
