@@ -246,13 +246,14 @@ class WikimediaMessagesHooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
+				// Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL. (Also, the data is under CC0.)
 				$msg = 'wikidata-copyright';
 				break;
 			case 'commons':
 				$msg = 'wikimedia-commons-copyright';
 				break;
 			case 'standard':
-				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
 				$msg = 'wikimedia-copyright';
 				break;
 			case 'wikinews':
@@ -276,9 +277,12 @@ class WikimediaMessagesHooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
+				// Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL.
+				$msg = [ 'wikimedia-copyrightwarning-ccbysa30only' ];
+				break;
 			case 'commons':
 			case 'standard':
-				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
 				$msg = [ 'wikimedia-copyrightwarning' ];
 				break;
 			case 'wikinews':
@@ -336,7 +340,7 @@ class WikimediaMessagesHooks implements
 			case 'wikidata':
 			case 'commons':
 			case 'standard':
-				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
 				// We only display the dual licensing stack in the editor and talk interfaces
 				if ( $context === 'editor' || $context === 'talk' ) {
 					$link = wfMessage( 'wikimedia-mobile-license-links' )
