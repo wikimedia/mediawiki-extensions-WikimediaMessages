@@ -364,17 +364,25 @@ class WikimediaMessagesHooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
-			case 'commons':
 			case 'wikinews':
+				// Add the license name to the terms-of-use message
+				$rightsUrl = $config->get( 'RightsUrl' );
+				$rightsText = $config->get( 'RightsText' );
+				$links = [ "[$rightsUrl $rightsText]", 1 ];
+				break;
+			case 'commons':
 			case 'standard':
-				$messages['reply'] = [ 'wikimedia-discussiontools-replywidget-terms-click',
-					$context->msg( 'discussiontools-replywidget-reply' )->text() ];
-				$messages['newtopic'] = [ 'wikimedia-discussiontools-replywidget-terms-click',
-					$context->msg( 'discussiontools-replywidget-newtopic' )->text() ];
+				// Add the license names to the terms-of-use message - dual-licensed wikis
+				$links = [ $context->msg( 'wikimedia-license-links' )->plain(), 2 ];
 				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
+
+		$messages['reply'] = array_merge( [ 'wikimedia-discussiontools-replywidget-terms-click',
+			$context->msg( 'discussiontools-replywidget-reply' )->text() ], $links );
+		$messages['newtopic'] = array_merge( [ 'wikimedia-discussiontools-replywidget-terms-click',
+			$context->msg( 'discussiontools-replywidget-newtopic' )->text() ], $links );
 	}
 
 	/**
@@ -391,19 +399,27 @@ class WikimediaMessagesHooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
-			case 'commons':
 			case 'wikinews':
+				// Add the license name to the terms-of-use message
+				$rightsUrl = $config->get( 'RightsUrl' );
+				$rightsText = $config->get( 'RightsText' );
+				$links = [ "[$rightsUrl $rightsText]", 1 ];
+				break;
+			case 'commons':
 			case 'standard':
-				$messages['edit'] = [ 'wikimedia-flow-terms-of-use-edit' ];
-				$messages['lock-topic'] = [ 'wikimedia-flow-terms-of-use-lock-topic' ];
-				$messages['new-topic'] = [ 'wikimedia-flow-terms-of-use-new-topic' ];
-				$messages['reply'] = [ 'wikimedia-flow-terms-of-use-reply' ];
-				$messages['summarize'] = [ 'wikimedia-flow-terms-of-use-summarize' ];
-				$messages['unlock-topic'] = [ 'wikimedia-flow-terms-of-use-unlock-topic' ];
+				// Add the license names to the terms-of-use message - dual-licensed wikis
+				$links = [ $context->msg( 'wikimedia-license-links' )->plain(), 2 ];
 				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
+
+		$messages['edit'] = array_merge( [ 'wikimedia-flow-terms-of-use-edit' ], $links );
+		$messages['lock-topic'] = array_merge( [ 'wikimedia-flow-terms-of-use-lock-topic' ], $links );
+		$messages['new-topic'] = array_merge( [ 'wikimedia-flow-terms-of-use-new-topic' ], $links );
+		$messages['reply'] = array_merge( [ 'wikimedia-flow-terms-of-use-reply' ], $links );
+		$messages['summarize'] = array_merge( [ 'wikimedia-flow-terms-of-use-summarize' ], $links );
+		$messages['unlock-topic'] = array_merge( [ 'wikimedia-flow-terms-of-use-unlock-topic' ], $links );
 	}
 
 	/**
