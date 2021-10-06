@@ -153,17 +153,10 @@ class WikimediaMessagesHooks implements
 
 		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
 			$lcKey = 'wikimedia-privacypage-labs';
-		} else {
-			if ( in_array( $lcKey, $keys, true ) ||
-				( $this->options->get( 'DBname' ) !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) )
-			) {
-				$transformedKey = "wikimedia-$lcKey";
-			} else {
-				$transformedKey = self::transformKeyForGettingStarted( $lcKey );
-				if ( $transformedKey === $lcKey ) {
-					return;
-				}
-			}
+		} elseif ( in_array( $lcKey, $keys, true ) ||
+			( $this->options->get( 'DBname' ) !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) )
+		) {
+			$transformedKey = "wikimedia-$lcKey";
 
 			// MessageCache uses ucfirst if ord( key ) is < 128, which is true of all
 			// of the above.  Revisit if non-ASCII keys are used.
@@ -187,44 +180,6 @@ class WikimediaMessagesHooks implements
 				$lcKey = $transformedKey;
 			}
 		}
-	}
-
-	/**
-	 * Transforms keys for GettingStarted, if needed.
-	 *
-	 * This is used to provide Wikipedia-specific variants for certain keys.
-	 * Called from onMessageCacheGet.
-	 *
-	 * @param string $lcKey Original key, in lowercase form
-	 * @return string New key, in lowercase form, either the same or transformed
-	 */
-	protected static function transformKeyForGettingStarted( $lcKey ) {
-		global $wgConf, $wgDBname;
-
-		[ $site, ] = $wgConf->siteFromDB( $wgDBname );
-
-		// All "special" wikis (special.dblist, e.g. commonswiki, wikidatawiki, mediawikiwiki)
-		// wrongly return "wikipedia" here due to their dbname suffix.
-		// Before deploying GettingStarted to a special wiki,
-		// find a way to determine the real family here.
-		if ( $site === 'wikipedia' && in_array( $lcKey, [
-			"gettingstarted-task-toolbar-try-another-text",
-			"gettingstarted-task-toolbar-no-suggested-page",
-			"gettingstarted-task-copyedit-toolbar-description",
-			"gettingstarted-task-copyedit-toolbar-try-another-title",
-			"guidedtour-tour-gettingstartedtasktoolbarintro-description",
-			"guidedtour-tour-gettingstartedtasktoolbar-ambox-description",
-			"guidedtour-tour-gettingstartedtasktoolbar-edit-article-title",
-			"guidedtour-tour-gettingstartedtasktoolbar-edit-article-description",
-			"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description",
-			"guidedtour-tour-gettingstarted-click-preview-description",
-			"gettingstarted-cta-edit-page",
-			"gettingstarted-cta-fix-pages",
-		] ) ) {
-			return "{$lcKey}-wikipedia";
-		}
-
-		return $lcKey;
 	}
 
 	/**
