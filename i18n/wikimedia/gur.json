@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Ayire Adongo",
 			"Dnshitobu"
 		]
 	},
 	"sitesupport": "Bɔ",
-	"wikimedia-copyright": "MediaWiki:Wikimedia-copyright/gur\nGulesegɔ wa boe la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; wara siseto ta’am kelum bɔna mɛ ti fu wan doose. Bisɛ <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Dikɛ tum wara</a> nyɛ ku yɛla za’a.",
+	"wikimedia-copyright": "Gulesegɔ wa boe la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nwara siseto ta’am kelum bɔna mɛ ti fu wan doose.\nBisɛ <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Dikɛ tum wara</a> nyɛ ku yɛla za’a.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Maleba",
-	"wikimedia-statslink": "kalɛ",
+	"wikimedia-statslink": "Kalɛ",
 	"wikimedia-cookiestatement": "Intanɛt yelebɛzɔra"
 }
