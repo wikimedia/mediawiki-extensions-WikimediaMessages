@@ -19,8 +19,6 @@
 	"nstab-institution": "Istituzzjoni",
 	"nstab-sequence": "Sekwenza",
 	"nstab-timedtext": "Sottotitli",
-	"gettingstarted-task-toolbar-try-another-text-wikipedia": "Ipprova ieħor artikolu ►",
-	"guidedtour-tour-gettingstartedtasktoolbarve-click-save-description-wikipedia": "Issa tista jeditjaw il-kontenut artikolu. Meta inti qed isir, ikklikkja \"{{int:publishchanges}}\" teżamina u jiffrankaw bidliet tiegħek.",
 	"group-image-reviewer": "Verifikaturi ta' stampi",
 	"group-image-reviewer-member": "{{GENDER:$1|verifikatur ta' stampi}}",
 	"grouppage-image-reviewer": "{{ns:project}}:Verifikaturi ta' stampi",

@@ -5,6 +5,7 @@
 			"Arash.pt",
 			"Armin1392",
 			"FarsiNevis",
+			"Jeeputer",
 			"Mjbmr",
 			"Reza1615"
 		]
@@ -12,7 +13,7 @@
 	"wikimediamessages-desc": "پیام‌های موقت ویژهٔ ویکی‌مدیا",
 	"grouppage-oversight": "{{ns:project}}:پنهانگر",
 	"group-oversight": "پنهانگران",
-	"group-oversight-member": "پنهانگر",
+	"group-oversight-member": "{{GENDER:$1|پنهانگر}}",
 	"hello": "سلام",
 	"please-translate": "لطفاً برای ترجمه به زبان مادریتان کمک کنید",
 	"thank-you": "{{GENDER:$1|ممنون.}}",
