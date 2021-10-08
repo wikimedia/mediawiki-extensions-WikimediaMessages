@@ -9,8 +9,6 @@
 	},
 	"sitesupport": "တၢ်မၤဘူၣ်",
 	"tooltip-n-sitesupport": "ဆီၣ်ထွဲမၤစၢၤပှၤ",
-	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
-	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikibase-repo-name": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikibase-sitelinks-wikinews": "ဝံၣ်ကံးတၢ်ကစီၣ်",
 	"wikibase-sitelinks-wikiquote": "ဝံၣ်ကံးတဲဒိးပှၤဂၤအတၢ်ကတိၤ",
@@ -21,8 +19,6 @@
 	"wikibase-otherprojects-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikimedia-developers": "ပှၤတ့ထီၣ်တၢ်ဖိ",
-	"wikimedia-globalblocking-ipblocked": "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"interlanguage-link-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
 	"wikimedia-statslink": "နီၣ်ဂံၢ်စရီ",
 	"wikimedia-cookiestatement": "ခၢၣ်ကံၤ တၢ်ပာ်ဖျါ"
