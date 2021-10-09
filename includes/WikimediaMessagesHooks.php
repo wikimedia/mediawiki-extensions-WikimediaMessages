@@ -76,7 +76,7 @@ class WikimediaMessagesHooks implements
 				[
 					'DBname',
 					'ForceUIMsgAsContentMsg',
-					'RightsUrl',
+					'WikimediaMessagesLicensing',
 					'LanguageCode',
 				],
 				$mainConfig
@@ -193,27 +193,28 @@ class WikimediaMessagesHooks implements
 	 * @param string &$link
 	 */
 	public function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
-		$rightsUrl = $this->options->get( 'RightsUrl' );
+		if ( $type === 'history' ) {
+			return;
+		}
 
-		if (
-			$type !== 'history' &&
-			// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-			$rightsUrl === 'https://creativecommons.org/licenses/by-sa/3.0/'
-		) {
-			$dbName = $this->options->get( 'DBname' );
+		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
 
-			switch ( $dbName ) {
-				case 'wikidatawiki':
-				case 'testwikidatawiki':
-					$msg = 'wikidata-copyright';
-					break;
-				case 'commonswiki':
-				case 'testcommonswiki':
-					$msg = 'wikimedia-commons-copyright';
-					break;
-				default:
-					$msg = 'wikimedia-copyright';
-			}
+		switch ( $licensing ) {
+			case 'wikidata':
+				$msg = 'wikidata-copyright';
+				break;
+			case 'commons':
+				$msg = 'wikimedia-commons-copyright';
+				break;
+			case 'standard':
+				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+				$msg = 'wikimedia-copyright';
+				break;
+			case 'wikinews':
+				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
+				break;
+			default:
+				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
 	}
 
@@ -226,11 +227,20 @@ class WikimediaMessagesHooks implements
 	 * @param array &$msg
 	 */
 	public function onEditPageCopyrightWarning( $title, &$msg ) {
-		$rightsUrl = $this->options->get( 'RightsUrl' );
+		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
 
-		// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-		if ( $rightsUrl === 'https://creativecommons.org/licenses/by-sa/3.0/' ) {
-			$msg = [ 'wikimedia-copyrightwarning' ];
+		switch ( $licensing ) {
+			case 'wikidata':
+			case 'commons':
+			case 'standard':
+				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
+				$msg = [ 'wikimedia-copyrightwarning' ];
+				break;
+			case 'wikinews':
+				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
+				break;
+			default:
+				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
 	}
 
@@ -247,34 +257,37 @@ class WikimediaMessagesHooks implements
 	 * @param int|null &$plural
 	 */
 	public static function onMobileLicenseLink( &$link, $context, array $attribs, &$msg, &$plural = null ) {
-		global $wgRightsUrl, $wgDBname;
+		global $wgWikimediaMessagesLicensing;
+		$licensing = $wgWikimediaMessagesLicensing;
 
-		switch ( $wgDBname ) {
-			case 'wikidatawiki':
-			case 'testwikidatawiki':
+		switch ( $licensing ) {
+			case 'wikidata':
 				// Wikidata needs its own special message. See T112088
 				$msg = 'wikidata-copyright';
 				// Set this to space to avoid confusion (empty string wont work)
 				$link = ' ';
 				break;
-			case 'commonswiki':
-			case 'testcommonswiki':
+			case 'commons':
 				// Commons also needs its own special message.
 				$msg = 'wikimedia-commons-copyright';
 				// Set this to space to avoid confusion (empty string wont work)
 				$link = ' ';
 				break;
-			default:
+			case 'standard':
 				// Only do this on Wikimedia wikis that are using CC-BY-SA, i.e. not on Wikinews
-				if ( $wgRightsUrl === 'https://creativecommons.org/licenses/by-sa/3.0/' ) {
-					// We only display the dual licensing stack in the editor and talk interfaces
-					if ( $context === 'editor' || $context === 'talk' ) {
-						$link = wfMessage( 'wikimedia-mobile-license-links' )
-							->inContentLanguage()
-							->plain();
-						$plural = 2;
-					}
+				// We only display the dual licensing stack in the editor and talk interfaces
+				if ( $context === 'editor' || $context === 'talk' ) {
+					$link = wfMessage( 'wikimedia-mobile-license-links' )
+						->inContentLanguage()
+						->plain();
+					$plural = 2;
 				}
+				break;
+			case 'wikinews':
+				// Use the default MobileFrontend message.
+				break;
+			default:
+				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
 	}
 
