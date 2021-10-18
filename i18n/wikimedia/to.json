@@ -1,8 +1,13 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Weather Top Wizard"
+		]
 	},
 	"sitesupport": "Ngaahi meʻa ʻofa",
 	"group-steward": "Kau setuate",
-	"group-steward-member": "Setuate"
+	"group-steward-member": "Setuate",
+	"wikimedia-developers": "Tokotaha faʻu",
+	"wikimedia-statslink": "Sitesitesika",
+	"wikimedia-cookiestatement": "Cookie fakamatala"
 }

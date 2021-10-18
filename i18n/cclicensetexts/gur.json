@@ -1,11 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
+			"Akakiiri",
 			"Ayire Adongo"
 		]
 	},
+	"wm-license-cc-attribution": "Adikɛbɔ'ɔra",
 	"wm-license-cc-by-sa-3.0-text": "Pɔkɔ wa yɔ’ɔ bua ze’ele la [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license.",
 	"wm-license-cc-free": "Fu dela fai:",
+	"wm-license-cc-free-to-share-header": "Dikɛ tɔ̃rɛ",
+	"wm-license-cc-free-to-share-text": "Tɔgesɛ silɛ Dee dikɛ tuunɛ la bɔ",
+	"wm-license-cc-free-to-remix-header": "Malum gaam",
+	"wm-license-cc-free-to-remix-text": "dikɛ tum",
+	"wm-license-cc-conditions": "Sɛla ti la nara ti fu doose n wana:",
 	"wm-license-cc-conditions-attribution-header": "fara bua",
-	"wm-license-cc-conditions-share_alike-header": "torɛ sɛla n wɔn"
+	"wm-license-cc-conditions-attribution-text": "La nari fu bɔ ya’anɛ bii fara, gee pa’asɛ fun n nyɛ fole la zia, gee tu fu n demese zia la. Fu doose bala iŋɛ sɛla n nari gee dagɛ fu iŋɛ ti la ana woo maala la bɔ fu la sore ti dikɛ iŋɛ fu n boti se’em.",
+	"wm-license-cc-conditions-share_alike-header": "torɛ sɛla n wɔn",
+	"wm-license-cc-conditions-share_alike-text": "Fu san giim ba, lebege, bii mɛ dɔgelɛ lɔgerɔ la zuo, fu nari ti fu tɔrɛ fu lagesgɔ la kalam [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] ti la dena tunedaa."
 }

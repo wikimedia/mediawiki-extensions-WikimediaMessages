@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Antonla",
 			"B1mbo",
 			"Christian List",
 			"EPO",
@@ -72,7 +73,7 @@
 	"wm-license-information-source-missing": "Denne fil mangler information om dens '''kilder'''.",
 	"wm-license-information-source-missing-request": "Rediger denne fils beskrivelse og angiv en kilde.",
 	"wm-license-information-date": "Dato",
-	"wm-license-information-author": "Ophavsmand",
+	"wm-license-information-author": "Forfatter",
 	"wm-license-information-author-missing": "Denne fil mangler information om dens '''ophavsmand'''.",
 	"wm-license-information-permission": "Tilladelse",
 	"wm-license-information-permission-reusing-text": "Genbrug af denne fil",

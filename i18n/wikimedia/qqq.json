@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"Antonla",
 			"Aotake",
 			"Crt",
 			"EugeneZelenko",
@@ -261,7 +262,7 @@
 	"wikibase-page-schema-publisher-logo-url": "{{notranslate}}\nUsed in a meta tag for search engines: URL to a localised PNG (if necessary) of the wikimedia logo",
 	"wikibase-statementsection-constraints": "Section heading on Wikidata property pages for constraint statements.\n{{Related|wikibase-statementsection-statements}}\n{{Identical|Constraint}}",
 	"wikibase-sitelinks-wikibooks": "Section heading on Wikidata item page for Wikibooks site links.\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikibooks}}",
-	"wikibase-sitelinks-wikinews": "Section heading on Wikidata item page for Wikinews site links.\n\nUse the name of the [https://www.wikivoyage.org/ Wikinews] site if it exists in your language. If an edition of Wikinews in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"news\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikinews}}",
+	"wikibase-sitelinks-wikinews": "Section heading on Wikidata item page for Wikinews site links.\n\nUse the name of the [https://www.wikinews.org/ Wikinews] site if it exists in your language. If an edition of Wikinews in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"news\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikinews}}",
 	"wikibase-sitelinks-wikiquote": "Section heading on Wikidata item page for Wikiquote site links.\n\nUse the name of the [https://www.wikiquote.org/ Wikiquote] site if it exists in your language. If an edition of Wikiquote in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"quote\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikiquote}}",
 	"wikibase-sitelinks-wikisource": "Section heading on Wikidata item page for Wikisource site links.\n\nUse the name of the [https://www.wikisource.org/ Wikisource] site if it exists in your language. If an edition of Wikisource in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"source\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikisource}}",
 	"wikibase-sitelinks-wikiversity": "Section heading on Wikidata item page for Wikiversity site links.\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikiversity}}",

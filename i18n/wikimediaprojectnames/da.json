@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Antonla",
 			"IBDJ",
 			"Joedalton",
 			"Saederup92"
 		]
 	},
+	"project-localized-name-amiwiki": "Wikipedia på amis",
 	"project-localized-name-commonswiki": "Wikimedia Commons",
 	"project-localized-name-crhwiki": "Krimtatarisk Wikipedia",
 	"project-localized-name-dawiki": "Dansk Wikipedia",
@@ -22,6 +24,7 @@
 	"project-localized-name-gawiki": "Irsk Wikipedia",
 	"project-localized-name-internalwiki": "Intern",
 	"project-localized-name-jawiki": "Japansk Wikipedia",
+	"project-localized-name-lmowiktionary": "Wiktionary på lombardisk",
 	"project-localized-name-thankyouwiki": "Mange tak",
 	"project-localized-name-uzwikimedia": "Wikimedians i den uzbekiske sprogbrugergruppe"
 }
