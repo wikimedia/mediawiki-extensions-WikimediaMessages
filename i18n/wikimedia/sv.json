@@ -333,7 +333,7 @@
 	"right-editautopatrolprotected": "Redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
 	"protect-level-edittrustedprotected": "Tillåt endast betrodda användare",
-	"restriction-level-edittrustedprotected": "Skyddad för betrodda användare",
+	"restriction-level-edittrustedprotected": "skyddad för betrodda användare",
 	"right-edittrustedprotected": "Redigera sidor skyddade som \"{{int:protect-level-edittrustedprotected}}\"",
 	"action-edittrustedprotected": "redigera sidor skyddade som \"{{int:protect-level-editeditorprotected}}\"",
 	"group-docseditor": "Dokumentationsredigerare",
