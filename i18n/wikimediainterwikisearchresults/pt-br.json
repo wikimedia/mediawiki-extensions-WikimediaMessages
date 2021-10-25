@@ -3,6 +3,7 @@
 		"authors": [
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
+			"Svjatysberega",
 			"TheEduGobi"
 		]
 	},
@@ -13,6 +14,7 @@
 	"search-interwiki-results-akwiki": "A mostrar resultados da [[:ak:|Wikipédia em akan]].",
 	"search-interwiki-results-alswiki": "Mostrando resultados da [[:als:|Wikipédia alemânica]].",
 	"search-interwiki-results-altwiki": "A mostrar resultados da [[:alt:|Wikipédia em altai]].",
+	"search-interwiki-results-amiwiki": "Mostrando resultados da [[:ami:|Wikipédia em amis]].",
 	"search-interwiki-results-amwiki": "Mostrando resultados da [[:am:|Wikipédia amárica]].",
 	"search-interwiki-results-angwiki": "Mostrando resultados da [[:ang:|Wikipédia anglo-saxônica]].",
 	"search-interwiki-results-anwiki": "Mostrando resultados da [[:an:|Wikipédia aragonesa]].",
@@ -229,6 +231,7 @@
 	"search-interwiki-results-pntwiki": "Mostrando resultados da [[:pnt:|Wikipédia em grego pôntico]].",
 	"search-interwiki-results-pswiki": "Mostrando resultados da [[:ps:|Wikipédia em afegão]].",
 	"search-interwiki-results-ptwiki": "Mostrando resultados da [[:pt:|Wikipédia em português]].",
+	"search-interwiki-results-pwnwiki": "Mostrando resultados da [[:pwn:|Wikipédia em paiwan]].",
 	"search-interwiki-results-quwiki": "Mostrando resultados da [[:qu:|Wikipédia em quíchua]].",
 	"search-interwiki-results-rmwiki": "Mostrando resultados da [[:rm:|Wikipédia em grisão]].",
 	"search-interwiki-results-rmywiki": "Mostrando resultados da [[:rmy:|Wikipédia em romani]].",
