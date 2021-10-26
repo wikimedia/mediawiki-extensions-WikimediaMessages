@@ -103,6 +103,9 @@
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
 	},
+	"ConfigRegistry": {
+		"wikimedia-messages": "GlobalVarConfig::newInstance"
+	},
 	"config": {
 		"WikimediaMessagesLicensing": {
 			"value": "standard",

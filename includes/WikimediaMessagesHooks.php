@@ -173,6 +173,51 @@ class WikimediaMessagesHooks implements
 				$lcKey = $transformedKey;
 			}
 		}
+		// Set license for mobile editor and talk overlays.
+		if ( $lcKey === 'mobile-frontend-license-links' ) {
+			$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
+			if ( $licensing === 'standard' ) {
+				$lcKey = 'wikimedia-mobile-license-links';
+			}
+		}
+	}
+
+	/**
+	 * @param Config $config
+	 * @param array $attribs Attributes for link.
+	 * @return string
+	 */
+	private function shortenLicenseLink( Config $config, $attribs = [] ): string {
+		$services = MediaWikiServices::getInstance();
+		$rightsText = $config->get( 'RightsText' );
+		$rightsPage = $config->get( 'RightsPage' );
+		$rightsUrl = $config->get( 'RightsUrl' );
+		$commonLicenses = [
+			'Creative Commons Attribution-Share Alike 3.0' => 'CC BY-SA 3.0',
+			'Creative Commons Attribution Share Alike' => 'CC BY-SA',
+			'Creative Commons Attribution 3.0' => 'CC BY 3.0',
+			// Wikinews
+			'Creative Commons Attribution 2.5' => 'CC BY 2.5',
+
+			'Creative Commons Attribution' => 'CC BY',
+			'Creative Commons Attribution Non-Commercial Share Alike' => 'CC BY-NC-SA',
+			'Creative Commons Zero (Public Domain)' => 'CC0 (Public Domain)',
+			'GNU Free Documentation License 1.3 or later' => 'GFDL 1.3 or later',
+		];
+
+		if ( isset( $commonLicenses[$rightsText] ) ) {
+			$rightsText = $commonLicenses[$rightsText];
+		}
+		if ( $rightsPage ) {
+			$title = Title::newFromText( $rightsPage );
+			$linkRenderer = $services->getLinkRenderer();
+			$link = $linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), $attribs );
+		} elseif ( $rightsUrl ) {
+			$link = Linker::makeExternalLink( $rightsUrl, $rightsText, true, '', $attribs );
+		} else {
+			$link = $rightsText;
+		}
+		return $link;
 	}
 
 	/**
@@ -186,11 +231,23 @@ class WikimediaMessagesHooks implements
 	 * @param string &$link
 	 */
 	public function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
+		$services = MediaWikiServices::getInstance();
+		$config = $services->getConfigFactory()->makeConfig( 'wikimedia-messages' );
 		if ( $type === 'history' ) {
 			return;
 		}
 
 		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
+		if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+			$context = $services->getService( 'MobileFrontend.Context' );
+			if ( $context->shouldDisplayMobileView() ) {
+				$msg = 'mobile-frontend-copyright';
+				$attribs = [];
+				$link = self::shortenLicenseLink( $config, $attribs );
+				self::onMobileLicenseLink( $link, 'footer', $attribs, $msg );
+				return;
+			}
+		}
 
 		switch ( $licensing ) {
 			case 'wikidata':
@@ -289,6 +346,7 @@ class WikimediaMessagesHooks implements
 			case 'standard':
 				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
 				// We only display the dual licensing stack in the editor and talk interfaces
+				// TODO: This block can be removed when I0bfc7f977cdaf5ce8873103346c64121d704b86c is merged.
 				if ( $context === 'editor' || $context === 'talk' ) {
 					$link = wfMessage( 'wikimedia-mobile-license-links' )
 						->inContentLanguage()
