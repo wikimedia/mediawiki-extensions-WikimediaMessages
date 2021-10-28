@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"DonCamillo",
+			"Em-em",
 			"Kambai Akau"
 		]
 	},
@@ -10,5 +11,6 @@
 	"wm-license-information-date": "Rana",
 	"wm-license-information-author": "Marubucin",
 	"wm-license-information-permission": "Izini",
-	"wm-license-information-permission-reusing-text": "Sake amfani da wannan fayil"
+	"wm-license-information-permission-reusing-text": "Sake amfani da wannan fayil",
+	"wm-license-own-work": "Aikin na"
 }
