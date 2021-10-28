@@ -292,7 +292,7 @@ class WikimediaMessagesHooks implements
 				if ( $context === 'editor' || $context === 'talk' ) {
 					$link = wfMessage( 'wikimedia-mobile-license-links' )
 						->inContentLanguage()
-						->plain();
+						->parse();
 					$plural = 2;
 				}
 				break;
