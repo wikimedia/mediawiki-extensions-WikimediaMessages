@@ -72,6 +72,8 @@
 			"handler": "WikimediaMessagesHooks"
 		},
 		"MobileLicenseLink": "WikimediaMessagesHooks::onMobileLicenseLink",
+		"DiscussionToolsTermsOfUseMessages": "WikimediaMessagesHooks::onDiscussionToolsTermsOfUseMessages",
+		"FlowTermsOfUseMessages": "WikimediaMessagesHooks::onFlowTermsOfUseMessages",
 		"SkinAddFooterLinks": {
 			"handler": "WikimediaMessagesHooks"
 		},
