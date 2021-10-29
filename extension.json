@@ -70,7 +70,6 @@
 		"EditPageCopyrightWarning": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"MobileLicenseLink": "WikimediaMessagesHooks::onMobileLicenseLink",
 		"DiscussionToolsTermsOfUseMessages": "WikimediaMessagesHooks::onDiscussionToolsTermsOfUseMessages",
 		"FlowTermsOfUseMessages": "WikimediaMessagesHooks::onFlowTermsOfUseMessages",
 		"SkinAddFooterLinks": {
