@@ -350,5 +350,7 @@
 	"group-docseditor": "Documentation editors",
 	"group-docseditor-member": "{{GENDER:$1|documentation editor}}",
 	"action-docseditor": "edit documentation",
-	"right-docseditor": "Edit documentation"
+	"right-docseditor": "Edit documentation",
+	"right-edit-legal": "Edit pages with potential legal consequences",
+	"action-edit-legal": "edit pages with potential legal consequences"
 }
