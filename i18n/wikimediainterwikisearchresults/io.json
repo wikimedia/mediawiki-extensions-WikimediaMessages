@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"JSantos"
+			"JSantos",
+			"Joao Xavier"
 		]
 	},
-	"search-interwiki-results-amiwiki": "Montranta rezulti de [[:ami:|Amis Wikipedia]]."
+	"search-interwiki-results-amiwiki": "Montranta rezulti de [[:ami:|Amis Wikipedia]].",
+	"search-interwiki-results-enwiki": "Montranta rezulti che [[:en:|Angla Wikipedio]]."
 }

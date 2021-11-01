@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Danniel07",
 			"Fitoschido",
 			"Maxí",
 			"Nemo bis",
@@ -87,5 +88,6 @@
 	"eri-rcfilters-tour-intro-welcome-button": "Fínt, ég náði því",
 	"eri-rcfilters-tour-highlight-button": "Fínt, ég náði því",
 	"wikimedia-statslink": "Tölfræði",
-	"wikimedia-cookiestatement": "Yfirlýsing vegna vefkakna"
+	"wikimedia-cookiestatement": "Yfirlýsing vegna vefkakna",
+	"action-edit-legal": "breyta síðum með hugsanlegum lagalegum afleiðingum"
 }

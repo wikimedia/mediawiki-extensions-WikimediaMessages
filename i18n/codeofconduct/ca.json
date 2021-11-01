@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Toniher"
 		]
 	},
-	"wm-codeofconduct": "Codi de conducta"
+	"wm-codeofconduct": "Codi de conducta",
+	"wm-techcodeofconduct": "Codi de conducta"
 }
