@@ -404,5 +404,7 @@
 	"group-docseditor": "Modificateurs de documentation",
 	"group-docseditor-member": "{{GENDER:$1|modificateur de documentation|modificatrice de documentation}}",
 	"action-docseditor": "modifier la documentation",
-	"right-docseditor": "Modifier la documentation"
+	"right-docseditor": "Modifier la documentation",
+	"right-edit-legal": "Modifier des pages avec de potentielles conséquences juridiques",
+	"action-edit-legal": "modifier des pages avec de potentielles conséquences juridiques"
 }
