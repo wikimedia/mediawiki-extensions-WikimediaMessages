@@ -8,6 +8,7 @@
 			"Anarhistička Maca",
 			"Armando-Martin",
 			"Ascánder",
+			"Bruno44101",
 			"Carlitosag",
 			"Chocolate con galleta",
 			"Codynguyen1116",
@@ -365,5 +366,7 @@
 	"group-docseditor": "Editores de documentación",
 	"group-docseditor-member": "{{GENDER:$1|editor de documentación|editora de documentación}}",
 	"action-docseditor": "editar la documentación",
-	"right-docseditor": "Editar la documentación"
+	"right-docseditor": "Editar la documentación",
+	"right-edit-legal": "Editar páginas con posibles consecuencias legales",
+	"action-edit-legal": "editar páginas con posibles consecuencias legales"
 }
