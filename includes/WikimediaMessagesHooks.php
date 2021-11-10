@@ -176,8 +176,10 @@ class WikimediaMessagesHooks implements
 		// Set license for mobile editor and talk overlays.
 		if ( $lcKey === 'mobile-frontend-license-links' ) {
 			$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
-			if ( $licensing === 'standard' ) {
+			if ( $licensing === 'standard' || $licensing === 'commons' ) {
 				$lcKey = 'wikimedia-mobile-license-links';
+			} elseif ( $licensing === 'wikidata' ) {
+				$lcKey = 'wikidata-mobile-license-links';
 			}
 		}
 	}
