@@ -373,5 +373,8 @@
 	"action-docseditor": "редагування документації",
 	"right-docseditor": "Редагування документації",
 	"right-edit-legal": "Редагувати сторінки з потенційними правовими наслідками",
-	"action-edit-legal": "редагувати сторінки з потенційними правовими наслідками"
+	"action-edit-legal": "редагувати сторінки з потенційними правовими наслідками",
+	"ext-quicksurveys-tst-internal-survey-question": "Протягом останніх 30 днів ви не почувалися безпечно чи некомфортно, роблячи внесок на {{SITENAME}}?",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Так",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ні"
 }
