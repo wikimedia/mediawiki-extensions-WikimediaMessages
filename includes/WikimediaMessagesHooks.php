@@ -355,6 +355,11 @@ class WikimediaMessagesHooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
+				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
+				$rightsUrl = $config->get( 'RightsUrl' );
+				$rightsText = 'Creative Commons Attribution-Share Alike 3.0';
+				$links = [ "[$rightsUrl $rightsText]", 1 ];
+				break;
 			case 'wikinews':
 				// Add the license name to the terms-of-use message
 				$rightsUrl = $config->get( 'RightsUrl' );
@@ -390,6 +395,11 @@ class WikimediaMessagesHooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
+				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
+				$rightsUrl = $config->get( 'RightsUrl' );
+				$rightsText = 'Creative Commons Attribution-Share Alike 3.0';
+				$links = [ "[$rightsUrl $rightsText]", 1 ];
+				break;
 			case 'wikinews':
 				// Add the license name to the terms-of-use message
 				$rightsUrl = $config->get( 'RightsUrl' );
