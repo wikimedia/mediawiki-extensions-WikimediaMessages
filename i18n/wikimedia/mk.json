@@ -340,5 +340,8 @@
 	"action-docseditor": "уредување на документација",
 	"right-docseditor": "Уредување на документација",
 	"right-edit-legal": "Уредување на страници со потенцијално незаконски последици",
-	"action-edit-legal": "уредување на страници со потенцијално незаконски последици"
+	"action-edit-legal": "уредување на страници со потенцијално незаконски последици",
+	"ext-quicksurveys-tst-internal-survey-question": "Дали во изминатите 30 дена сте се почувствувале небезбедно или непријатно учествувајќи на {{SITENAME}}?",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Не"
 }

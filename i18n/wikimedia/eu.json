@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"An13sa",
+			"Anians",
 			"Fitoschido",
 			"Joxemai",
 			"Nemo bis",
@@ -169,5 +170,6 @@
 	"eri-rcfilters-tour-highlight-button": "Ados, ulertu dut",
 	"securepoll-dblist-securepollglobal": "Batzordearen Hautaketa",
 	"wikimedia-statslink": "Estatistikak",
-	"wikimedia-cookiestatement": "Cookie adierazpena"
+	"wikimedia-cookiestatement": "Cookie adierazpena",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ez"
 }

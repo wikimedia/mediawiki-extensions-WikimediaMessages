@@ -274,5 +274,7 @@
 	"protect-level-editautopatrolprotected": "Consentito solo agli autoverificati",
 	"restriction-level-editautopatrolprotected": "autoverificato protetto",
 	"right-editautopatrolprotected": "Modifica pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
-	"action-editautopatrolprotected": "modificare pagine protette con \"{{int:protect-level-editautopatrolprotected}}\""
+	"action-editautopatrolprotected": "modificare pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "No"
 }

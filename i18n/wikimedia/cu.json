@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"NR Deblocked",
 			"Nemo bis",
 			"ОйЛ"
 		]
@@ -21,5 +22,6 @@
 	"wikibase-otherprojects-wikidata": "Викисъводъ",
 	"wikibase-otherprojects-wikinews": "Викивѣсти",
 	"wikibase-otherprojects-wikipedia": "Википєдїꙗ",
-	"wikibase-otherprojects-wikisource": "Викиѳика"
+	"wikibase-otherprojects-wikisource": "Викиѳика",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "нѣтъ"
 }
