@@ -3,6 +3,7 @@
 		"authors": [
 			"Jaeminlovetaejoon",
 			"Khing",
+			"Nyi Nyi Minn Maung",
 			"Rul1902",
 			"SawJaemin"
 		]
@@ -26,5 +27,7 @@
 	"wikimedia-developers": "ပှၤတ့ထီၣ်တၢ်ဖိ",
 	"interlanguage-link-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
 	"wikimedia-statslink": "နီၣ်ဂံၢ်စရီ",
-	"wikimedia-cookiestatement": "ခၢၣ်ကံၤ တၢ်ပာ်ဖျါ"
+	"wikimedia-cookiestatement": "ခၢၣ်ကံၤ တၢ်ပာ်ဖျါ",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "မ့ၢ်",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "တမ့ၢ်ဘၣ်"
 }

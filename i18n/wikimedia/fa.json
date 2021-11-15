@@ -334,5 +334,7 @@
 	"group-docseditor": "ویرایشگران مستندات",
 	"group-docseditor-member": "{{GENDER:$1|ویرایشگر مستندات}}",
 	"action-docseditor": "ویرایش مستندات",
-	"right-docseditor": "ویرایش مستندات"
+	"right-docseditor": "ویرایش مستندات",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "بله",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "خیر"
 }

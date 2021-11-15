@@ -366,5 +366,7 @@
 	"group-docseditor": "Editores de documentação",
 	"group-docseditor-member": "{{GENDER:$1|editor de documentação}}",
 	"action-docseditor": "editar documentação",
-	"right-docseditor": "Editar documentação"
+	"right-docseditor": "Editar documentação",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sim",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Não"
 }
