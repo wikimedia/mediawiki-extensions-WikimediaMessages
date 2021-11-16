@@ -1,13 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"AC Krah",
 			"Robertjamal12"
 		]
 	},
 	"sitesupport": "Yi ma",
-	"wikibase-sitelinks-wikinews": "'Wikinews'",
-	"wikibase-sitelinks-wikiquote": "'Wikiquote'",
-	"wikibase-sitelinks-wikisource": "'Wikisource'",
-	"wikibase-sitelinks-wikivoyage": "'Wikivoyage'",
-	"wikimedia-statslink": "Mmɔden mmɔ"
+	"wikimedia-copyright": "Nkyerɛw yi hyɛ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> ase; mmra bi bɛtumi asan aka ho bio.\n\nNkyerɛkyerɛ mu wɔ a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a>.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-statslink": "Mmɔden mmɔ",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Aane",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Daabi"
 }
