@@ -180,6 +180,7 @@
 	"wikimedia-commons-copyright": "ফাইলসমূহ তাদের বিবরণের পাতায় উল্লেখিত লাইসেন্সসমূহের অধীনে উপলব্ধ। ফাইল নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> অধীনে উপলব্ধ; সকল অকাঠামোবদ্ধ লেখা <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-অ্যালাইক লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-অ্যালাইক লাইসেন্সের</a> অধীনে উপলব্ধ; এর সাথে বাড়তি শর্ত প্রযোজ্য হতে পারে।\nএই সাইট ব্যবহার করার মাধ্যমে, আপনি <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"উইকিমিডিয়া ফাউন্ডেশনের ব্যবহারের শর্তাবলী\">ব্যবহারের শর্তাবলী</a> ও <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\" title=\"উইকিমিডিয়া ফাউন্ডেশনের গোপনীয়তা নীতি\">গোপনীয়তা নীতির</a> সাথে সম্মত হচ্ছেন।",
 	"wikidata-copyright": "প্রধান, বৈশিষ্ট্য, লেক্সিম ও সত্তার স্কিমা নামস্থান থেকে সকল কাঠামোবদ্ধ উপাত্ত <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স সিসি০ লাইসেন্সের</a> আওতাভুক্ত; অন্যান্য নামস্থানের লেখা <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.bn\" title=\"ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের সংজ্ঞা\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সের</a> আওতাভুক্ত; এর সাথে বাড়তি শর্ত যুক্ত করা সম্ভব। এই সাইট ব্যবহার করার মাধ্যমে, আপনি <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/bn\">ব্যবহারের শর্তাবলী</a> ও <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">গোপনীয়তার নীতির</a> সাথে সম্মত হচ্ছেন।",
 	"wikimedia-copyrightwarning": "পরিবর্তন সংরক্ষণ করার মাধ্যমে, আপনি [https://foundation.wikimedia.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এসএ ৩.০] এবং [https://www.gnu.org/copyleft/fdl.html জিএফডিএল] লাইসেন্সের অধীনে প্রকাশের অনুমতি দিচ্ছেন।\nআপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধীনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।",
+	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এসএ ৩.০ লাইসেন্স] ও [https://bn.wikipedia.org/wiki/উইকিপিডিয়া:গনু_ফ্রি_ডকুমেন্টেশন_লাইসেন্সের_পাঠ্য জিএফডিএল]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এস ৩.০] এবং [https://www.gnu.org/licenses/fdl.html জিএফডিএল]",
 	"wikibase-repo-name": "উইকিউপাত্ত",
 	"wikibase-page-schema-publisher-name": "উইকিমিডিয়া ফাউন্ডেশন",
@@ -235,6 +236,8 @@
 	"interlanguage-link-commons": "উইকিমিডিয়া কমন্স",
 	"interlanguage-link-sitename-commons": "উইকিমিডিয়া কমন্স মিডিয়া ভাণ্ডার",
 	"interlanguage-link-sitename-dmoz": "DMOZ ওয়েব নির্দেশিকা",
+	"interlanguage-link-citizendium": "সিটিজেনডিয়াম",
+	"interlanguage-link-sitename-citizendium": "সিটিজেনডিয়াম",
 	"right-superprotect": "সুপার সুরক্ষার মাত্রা পরিবর্তন করুন",
 	"restriction-level-superprotect": "সুপার সুরক্ষা",
 	"action-templateeditor": "সুরক্ষিত টেমপ্লেটসমূহ সম্পাদনা করার",
@@ -273,5 +276,7 @@
 	"group-docseditor": "নথিপত্র সম্পাদক",
 	"group-docseditor-member": "{{GENDER:$1|নথিপত্র সম্পাদক}}",
 	"action-docseditor": "নথি সম্পাদনা করার",
-	"right-docseditor": "নথি সম্পাদনা করা"
+	"right-docseditor": "নথি সম্পাদনা করা",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "হ্যাঁ",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "না"
 }

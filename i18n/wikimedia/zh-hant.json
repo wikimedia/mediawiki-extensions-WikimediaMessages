@@ -291,7 +291,7 @@
 	"wikimediashoplink-linktext": "維基百科商店",
 	"wikimediashoplink-link-tooltip": "參觀維基百科商店",
 	"interlanguage-link-mul": "更多語言",
-	"interlanguage-link-sitename-mul": "多語言的 {{SITENAME}}",
+	"interlanguage-link-sitename-mul": "多語言{{SITENAME}}",
 	"interlanguage-link-wikipedia": "維基百科",
 	"interlanguage-link-sitename-wikipedia": "維基百科，自由的百科全書",
 	"interlanguage-link-commons": "維基共享資源",
