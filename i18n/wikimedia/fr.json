@@ -406,5 +406,8 @@
 	"action-docseditor": "modifier la documentation",
 	"right-docseditor": "Modifier la documentation",
 	"right-edit-legal": "Modifier des pages avec de potentielles conséquences juridiques",
-	"action-edit-legal": "modifier des pages avec de potentielles conséquences juridiques"
+	"action-edit-legal": "modifier des pages avec de potentielles conséquences juridiques",
+	"ext-quicksurveys-tst-internal-survey-question": "Au cours des 30 derniers jours, vous êtes-vous senti en insécurité ou mal à l'aise en contribuant à {{SITENAME}} ?",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Oui",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Non"
 }

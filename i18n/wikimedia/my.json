@@ -176,5 +176,6 @@
 	"right-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
 	"action-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
 	"right-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
-	"action-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်"
+	"action-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "မလုပ်ပါ"
 }
