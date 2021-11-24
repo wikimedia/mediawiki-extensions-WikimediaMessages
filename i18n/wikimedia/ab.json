@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Temuri rajavi"
+			"Temuri rajavi",
+			"Fraxinus.cs"
 		]
 	},
-	"sitesupport": "Ацхыраара зылшо"
+	"sitesupport": "Ацхыраара зылшо",
+	"wikimedia-developers": "Аҭҵааҩцәа",
+	"wikimedia-statslink": "Астатистика",
+	"wikimedia-cookiestatement": "Кукиз аҳәара"
 }

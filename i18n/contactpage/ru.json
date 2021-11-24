@@ -85,6 +85,13 @@
 	"contactpage-movecom-signup-display-username": "Название учётной записи",
 	"contactpage-movecom-signup-display-nameusername": "Реальное имя и название учётной записи",
 	"contactpage-movecom-signup-terms-label": "Я прочёл описание [[Movement communications group|группы контактов движения]] и согласен следовать [[Foundation:Friendly space policy|политике дружелюбного пространства Фонда Викимедиа]] при участии в деятельности этой группы. Я понимаю, что несоблюдение этой политики приведет к удалению из группы.",
+	"contactpage-title-ombudscommission": "Свяжитесь с Комиссией омбудсменов",
 	"contactpage-ombudscommission-case-explanation": "Объясните, что случилось:",
-	"contactpage-ombudscommission-involved-users": "На каких пользователей вы жалуетесь? Предоставьте их имена на вики:"
+	"contactpage-ombudscommission-relevant-links": "Укажите URL-адреса для действий или вики-страниц:",
+	"contactpage-ombudscommission-violation-type": "В нескольких словах объясните, какое правило или политика вики была нарушена:",
+	"contactpage-ombudscommission-involved-users": "На каких пользователей вы жалуетесь? Предоставьте имена их учётных записей в вики:",
+	"contactpage-ombudscommission-affected-accounts": "Какие учётные записи затронуты этой жалобой? Если никто кроме вас не пострадал, вы можете пропустить это поле.",
+	"contactpage-ombudscommission-proposed-solution": "Какое решение вы бы предложили? Чего вы ожидаете от комиссии?",
+	"contactpage-ombudscommission-additional-information": "Добавьте любые другие сведения, которые, по вашему мнению, имеют отношение к пониманию этого дела.",
+	"contactpage-ombudscommission-disclaimer-label": "Отказ от ответственности: все вносимые вами в эту форму сведения получают, обрабатывают, а также  отвечают на них, участники сообщества добровольцев (в частности, члены [[Special:MyLanguage/Ombuds commission|Комиссии омбудсменов]]), а не Фонд Викимедиа. Пожалуйста, не включайте сведения, которыми вам было бы неудобно делиться с добровольцами Викимедиа. Ответы и другая корреспонденция, связанная с обработкой предоставленной вами информации, не должны рассматриваться как официальные заявления Фонда Викимедиа. Для официальной переписки, пожалуйста, свяжитесь с Фондом Викимедиа одним из способов, перечисленных на https://wikimediafoundation.org/about/contact/."
 }

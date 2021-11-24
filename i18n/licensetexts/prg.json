@@ -1,7 +1,14 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Nērtiks Jōrgesuns"
+		]
 	},
 	"wm-license-information-description": "Ebpeisāsenis",
-	"wm-license-information-source": "Aps"
+	"wm-license-information-source": "Aps",
+	"wm-license-information-date": "Dātan",
+	"wm-license-information-author": "Autōrs",
+	"wm-license-information-permission": "Preiwērpsenis",
+	"wm-license-information-permission-reusing-text": "Šisse zūrbrukis paāntrinseniska terpausnā",
+	"wm-license-own-work": "Swāise subse dīlin"
 }

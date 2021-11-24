@@ -3,9 +3,11 @@
 		"authors": [
 			"Besnik b",
 			"Eraldkerciku",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"Klein Muçi"
 		]
 	},
+	"wikimedia-createacct-helpusername": "më ndihmo të zgjedh",
 	"wikimedia-prefs-user-downloaddata-help-message": "Ju mund të vizitoni faqen tuaj të Preferencave në [[m:Special:CentralAuth/$1|projekte të tjera Wikimedia ku keni kontribuar]] në mënyrë që të shkarkoni të dhënat e llogarisë tuaj nga ato projekte.",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-sitematrix": "Lista e wiki-ve të Wikimedia-s",

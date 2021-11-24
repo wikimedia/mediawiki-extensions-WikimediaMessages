@@ -29,7 +29,8 @@
 			"Skalman",
 			"Tobulos1",
 			"Warrakkk",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Felba"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifika meddelanden",
@@ -343,6 +344,10 @@
 	"restriction-level-editautopatrolprotected": "skyddad för autopatrullerare",
 	"right-editautopatrolprotected": "Redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "redigera sidor som är skyddade som \"{{int:protect-level-editautopatrolprotected}}\"",
+	"protect-level-edittrustedprotected": "Tillåt endast betrodda användare",
+	"restriction-level-edittrustedprotected": "skyddad för betrodda användare",
+	"right-edittrustedprotected": "Redigera sidor skyddade som \"{{int:protect-level-edittrustedprotected}}\"",
+	"action-edittrustedprotected": "redigera sidor skyddade som \"{{int:protect-level-editeditorprotected}}\"",
 	"group-docseditor": "Dokumentationsredigerare",
 	"group-docseditor-member": "{{GENDER:$1|dokumentationsredigerare}}",
 	"action-docseditor": "redigera dokumentation",

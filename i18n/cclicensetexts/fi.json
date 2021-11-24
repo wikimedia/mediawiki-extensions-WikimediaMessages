@@ -13,7 +13,9 @@
 			"Str4nd",
 			"Trixt",
 			"Wix",
-			"ZeiP"
+			"ZeiP",
+			"Nemo bis",
+			"Veikk0.ma"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:fi:Creative Commons",
@@ -112,6 +114,7 @@
 	"wm-license-cc-by-3.0-ug-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/ug/deed.fi Nimeä 3.0 Uganda] -lisenssillä.",
 	"wm-license-cc-by-3.0-us-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/us/deed.fi Nimeä 3.0 Yhdysvallat] -lisenssillä.",
 	"wm-license-cc-by-3.0-vn-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/vn/deed.fi Nimeä 3.0 Vietnam] -lisenssillä.",
+	"wm-license-cc-by-3.0-za-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/za/deed.fi Nimeä 3.0 Etelä-Afrikka] -lisenssillä.",
 	"wm-license-cc-by-4.0-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/4.0/deed.fi Nimeä 4.0 Kansainvälinen] -lisenssillä.",
 	"wm-license-cc-by-sa-1.0-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/1.0/deed.fi Nimeä-JaaSamoin 1.0 Yleinen] -lisenssillä.",
 	"wm-license-cc-by-sa-1.0-fi-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/1.0/fi/deed.fi Nimeä-JaaSamoin 1.0 Suomi] -lisenssillä.",
@@ -208,6 +211,7 @@
 	"wm-license-cc-by-sa-3.0-ug-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ug/deed.fi Nimeä-JaaSamoin 3.0 Uganda] -lisenssillä.",
 	"wm-license-cc-by-sa-3.0-us-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/us/deed.fi Nimeä-JaaSamoin 3.0 Yhdysvallat] -lisenssillä.",
 	"wm-license-cc-by-sa-3.0-vn-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/vn/deed.fi Nimeä-JaaSamoin 3.0 Vietnam] -lisenssillä.",
+	"wm-license-cc-by-sa-3.0-za-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/za/deed.fi Nimeä-JaaSamoin 3.0 Etelä-Afrikka] -lisenssillä.",
 	"wm-license-cc-by-sa-4.0-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/4.0/deed.fi Nimeä-JaaSamoin 4.0 Kansainvälinen] -lisenssillä.",
 	"wm-license-cc-sa-1.0-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/deed.fi JaaSamoin 1.0 Yleinen] -lisenssillä.",
 	"wm-license-cc-sa-1.0-fi-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/fi/deed.fi JaaSamoin 1.0 Suomi] -lisenssillä.",
@@ -222,7 +226,7 @@
 	"wm-license-cc-free-to-remix-text": "valmistaa muutettuja teoksia",
 	"wm-license-cc-conditions": "Seuraavilla ehdoilla:",
 	"wm-license-cc-conditions-attribution-header": "nimeäminen",
-	"wm-license-cc-conditions-attribution-text": "Teoksen tekijä on ilmoitettava siten kuin tekijä tai teoksen lisensoija on sen määrännyt (mutta ei siten että ilmoitus viittaisi lisenssinantajan tukevan lisenssinsaajaa tai Teoksen käyttötapaa)",
+	"wm-license-cc-conditions-attribution-text": "Sinun on mainittava lähde asianmukaisesti, tarjottava linkki lisenssiin sekä merkittävä, mikäli olet tehnyt muutoksia. Voit tehdä yllä olevan millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi.",
 	"wm-license-cc-conditions-share_alike-header": "jaa samoin",
 	"wm-license-cc-conditions-share_alike-text": "Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain tällä tai tämän kaltaisella lisenssillä.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.fi",

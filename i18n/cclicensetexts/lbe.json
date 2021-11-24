@@ -4,11 +4,16 @@
 			"Soul Train"
 		]
 	},
+	"wm-license-cc-attribution": "Атрибуция",
+	"wm-license-cc-by-sa-3.0-text": "Ва файл аьварахъасса дур лицензиялубух [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]",
 	"wm-license-cc-free": "БучӀиссар тархъанну:",
 	"wm-license-cc-free-to-share-header": "дачӀин дан ва даву",
 	"wm-license-cc-free-to-share-text": "тикрал, гьарта ягу тапшур дан ва даву",
 	"wm-license-cc-free-to-remix-header": "хӀала дан",
 	"wm-license-cc-free-to-remix-text": "ххишалану дан ва даву",
 	"wm-license-cc-conditions": "Чара бакъа вай низамрув дуруччин аьркинни:",
-	"wm-license-cc-conditions-attribution-header": "атрибуция"
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
+	"wm-license-cc-conditions-attribution-text": "Дурминнул амру дан аьркинни, лицензия амру дан аьркинни барангу дуллуну, агар дурма ци дунугу даххана дуну уххурча амру дан аьркинни. Му дан бучӀиссар дан ччимур куццай, амма цайми инстантал аьйкьин къауллай лицензиат вищал чӀарав авцӀун кунма.",
+	"wm-license-cc-conditions-share_alike-header": "бачӀаву ца журалул шартӀрай",
+	"wm-license-cc-conditions-share_alike-text": "Агар ина даххана дуварча ягу ляхъан дуварча цамур даву ва давул гьанулий ина буржлуву ура ва давул лицензия ягу [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ва лицензиящал лайкьсса лицензия] ишла дан."
 }

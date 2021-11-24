@@ -4,10 +4,23 @@
 			"Yupik"
 		]
 	},
+	"sitesupport": "Sǩiâŋk",
 	"wikibase-sitelinks-wikinews": "Wikiođđâz",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikimääʹtǩ",
 	"wikimedia-developers": "Ooudâsviiǥǥi",
-	"wikimedia-statslink": "Statistiikk"
+	"action-templateeditor": "muʹtted suõjjuum maallid",
+	"action-editeditorprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editeditorprotected}}\"",
+	"right-editeditorprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editeditorprotected}}\"",
+	"action-editextendedsemiprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editextendedsemiprotected}}\"",
+	"right-editextendedsemiprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editextendedsemiprotected}}\"",
+	"wikimedia-statslink": "Statistiikk",
+	"wikimedia-cookiestatement": "Teâđ jeäʹvstõõzzin",
+	"right-editautoreviewprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautoreviewprotected}}\"",
+	"action-editautoreviewprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautoreviewprotected}}\"",
+	"right-editautopatrolprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautopatrolprotected}}\"",
+	"action-editautopatrolprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautopatrolprotected}}\"",
+	"right-edittrustedprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\"",
+	"action-edittrustedprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\""
 }

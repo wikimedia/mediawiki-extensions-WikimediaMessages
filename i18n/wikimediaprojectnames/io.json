@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joao Xavier"
+			"Joao Xavier",
+			"JSantos"
 		]
 	},
 	"project-localized-name-cawiki": "Kataluniana Wikipedio",
@@ -12,6 +13,10 @@
 	"project-localized-name-dewikivoyage": "Germana Wikivoyajo",
 	"project-localized-name-elwikivoyage": "Wikivoyajo en la Greka",
 	"project-localized-name-enwiki": "Angla Wikipedio",
+	"project-localized-name-enwikibooks": "Angla Wikilibri",
+	"project-localized-name-enwikinews": "Angla Wikinews",
+	"project-localized-name-enwikiquote": "Angla ''Wikiquote''",
+	"project-localized-name-enwikisource": "Angla ''Wikisource''",
 	"project-localized-name-enwikiversity": "Angla Wikiversitato",
 	"project-localized-name-enwikivoyage": "Angla Wikivoyajo",
 	"project-localized-name-enwiktionary": "Wikivortaro en l'Angla",
