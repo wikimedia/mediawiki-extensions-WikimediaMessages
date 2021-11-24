@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Giromin Cangiaxo",
+			"N. Longo",
 			"S4b1nuz E.656",
 			"ZeneizeForesto"
 		]
 	},
-	"sitesupport": "Donaçioìn",
+	"sitesupport": "Donaçioîn",
 	"tooltip-n-sitesupport": "Agiûttine",
 	"group-accountcreator": "Creatoî d'uténze",
 	"group-accountcreator-member": "{{GENDER:$1|creatô|creatrixe|creatô/trixe}} d'uténze",
@@ -30,17 +31,17 @@
 	"grouppage-transwiki": "{{ns:project}}:Importoei transwiki",
 	"group-global-ipblock-exempt": "Ezénti da-o blòcco IP globâle",
 	"group-new-wikis-importer": "Importoei insce-e noeuve wiki",
-	"wikimedia-copyright": "O testo o l'è disponibile segondo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.it\">liçensa Creative Commons Attribuçion-Condividdi a-o mæximo moddo</a>; se peu applicâ de condissioin ulterioî. Veddi e <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it\">condissioin d'utilizzo</a> pe-i dettaggi.",
+	"wikimedia-copyright": "O tésto o l'é disponìbile segóndo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licénsa Creative Commons Atribuçión-Condivìddi a-o mæximo mòddo</a>; se pêuan aplicâ de condiçioîn in ciù. Véddi e <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">condiçioîn d'ûzo</a> pe-i detàggi.",
 	"wikimedia-copyrightwarning": "Sarvando e modiffiche, ti t'açetti e [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it condission d'utilizzo], e ti t'açetti irrevocabilmente de rilasciâ o toeu contributo sotta e liçençie [https://creativecommons.org/licenses/by-sa/3.0/deed.it Creative Commons Attribussione-Condividdi a-o mæximo moddo 3.0] e [https://it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GDFL]. Ti açetti inoltre che un ingancio ipertestoale o URL o segge bastante pe l'attribuçion in baze a-a liçençia Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikineuve",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikivivagna",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-otherprojects-wikisource": "Wikivivàgna",
-	"wikimedia-developers": "Sviluppatoî",
+	"wikimedia-developers": "Svilupatoî",
 	"wikimedia-globalblocking-ipblocked": "'''O teu addresso IP o l'è stæto [[m:Special:MyLanguage/Global blocks|bloccou globalmente]].'''\n\nO blocco o l'è stæto eseguio da $1 ($2).\nA raxon dæta a l'è ''$3''.\n\n* Prinsippio do blocco: $4\n* Fin do blocco: $5\n\nO teu addresso IP attuale o l'è $6.\nIncluddi tutti i dettaggi de d'ato in tutte e domande che ti fæ.\n\nSe ti pensci d'ese stæto bloccou pe sballio, ti peu trovâ ciu informassioin inta pollisa globale [[m:Special:MyLanguage/No open proxies|Ninte proxy averti]].\nAtrimenti, pe discutte do blocco [[m:Steward requests/Global|fanni domanda de riesamme insce Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Un o ciù server proxy deuviæ da-a teu recesta son stæti [[m:Special:MyLanguage/Global blocks|blocchæ globalmente]].'''\n\nO blocco o l'è stæto eseguio da $1 ($2).\nA raxon dæta a l'è ''$3''.\n\n* Prinsippio do blocco: $4\n* Fin do blocco: $5\n\nL'adresso proxy bloccou o l'è $6.\nInciodi tutti i dettaggi chì de d'ato inte tutte e domande che ti fæ.\n\nSe ti creddi d'ese stæto bloccou pe sballio, ti peu trovâ ciu informassioin inta pollisa globale [[m:Special:MyLanguage/No open proxies|Ninte proxy averti]].\nAtrimenti, pe discutte do blocco [[m:Steward requests/Global|fanni domanda de riesamme sciu Meta-Wiki]].",
 	"wikimedia-centralauth-contribs-locked": "Sto uténte o l'é blocòu globalménte.\nVéddi i [[Special:CentralAuth/$1|detàggi de l'uténza globâle]] pe ciù informaçioìn.",
 	"wikimedia-statslink": "Statìstiche",
-	"wikimedia-cookiestatement": "Diciaraçion in scî cookie"
+	"wikimedia-cookiestatement": "Diciaraçión in scî cookie"
 }

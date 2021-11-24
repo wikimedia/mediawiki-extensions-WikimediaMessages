@@ -46,6 +46,7 @@
 	"grouppage-abusefilter": "{{ns:project}}:Người sửa bộ lọc sai phạm",
 	"group-abusefilter-helper": "Hỗ trợ viên bộ lọc",
 	"group-abusefilter-helper-member": "{{GENDER:$1|hỗ trợ viên bộ lọc}}",
+	"group-abusefilter-maintainer": "Bảo trì viên bộ lọc",
 	"group-accountcreator": "Người mở tài khoản",
 	"group-accountcreator-member": "{{GENDER:$1}}người mở tài khoản",
 	"grouppage-accountcreator": "{{ns:project}}:Người mở tài khoản",
