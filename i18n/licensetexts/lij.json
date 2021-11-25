@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Giromin Cangiaxo",
+			"N. Longo",
 			"S4b1nuz E.656"
 		]
 	},
@@ -45,24 +46,24 @@
 	"wm-license-creator-work-location": "Lœugo d'attivitæ",
 	"wm-license-creator-linkback": "Ingancio inderê a-o modello scinottico do creatô",
 	"wm-license-fal-text": "Copyleft: quest'œuvia d'arte a l'è libbera; ti pœu redistribuîla e/ò modificâla segondo i termi da '''[[{{int:wm-license-fal-wiki-link}}|Lisensia Arte Libbera]]'''. Ti t'atroviæ 'na coppia de sta lisensia into [{{int:wm-license-fal-full-link}} scito web da Copyleft Attitude] coscì comme [{{int:wm-license-fal-full-link-commons}} inte di atri sciti].",
-	"wm-license-gfdl-1.2-and-later": "L'e permisso copiâ, distribuî e/ò modificâ sto documento in baze a-i termi da '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verscion 1.2 ò succescive pubbricâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa arcun-a session non modificabile, sensa testo de covertin-a e sensa testo de quarta de covertin-a. Una coppia da liçença a l'è inclusa inta seçion intitolâ ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo da GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.2-and-later": "O l'é permìsso copiâ, distriboî e/ò modificâ 'sto papê chi in bâze a-i tèrmini da '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Versción 1.2 ò sucesîva, publicâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sénsa de seçioîn no modificàbili, sénsa tèsto de covertìnn-a e sénsa tèsto de quàrta de covertìnn-a. Ina còpia da licénsa a l'é inclûza inta seçión intitolâ ''[[{{int:wm-license-gfdl-full-1.2-link}}|Tèsto da GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only": "L'e permisso copiâ, distribuî e/ò modificâ sto documento in baze a-i termi da '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verscion 1.2 ò sucescive pubricâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa arcun-a session non modificabile, sensa scrito de covertin-a e sensa scrito de quarta de covertin-a. 'Na coppia da liçençia a l'è inciosa inta seçion intitolâ ''[[{{int:wm-license-gfdl-full-1.2-link}}|Testo da GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only-header": "1,2 solamente",
 	"wm-license-gfdl-1.3-and-later": "L'e permisso copiâ, distribuî e/ò modificâ sto documento in base a-i termi da '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verscion 1.3 ò sucescive pubricâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa arcun-a session non modificabile, sensa testo de covertin-a e sensa testo de quarta de covertin-a. Una coppia da liçençia a l'è inciosa inta seçion intitolâ ''[[{{int:wm-license-gfdl-full-1.3-link}}|Testo da GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.3-only": "L'e permisso copiâ, distribuî e/ò modificâ sto documento in baze a-i termi da '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verscion 1.3 ò sucescive pubricâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sensa arcun-a session non modificabile, sensa testo de covertin-a e sensa testo de quarta de covertin-a. Una coppia da liçençia a l'è inciosa inta seçion intitolâ ''[[{{int:wm-license-gfdl-full-1.3-link}}|Testo da GNU Free Documentation License]]''.",
 	"wm-license-gpl-text": "Sto travaggio o l'è consciderou [[{{int:wm-license-free-software-wiki-link}}|software libbero]]; o pœu vese redistribuio e/ò modificou segondo i termi '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' coscì comme pubricâ da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; segge a verscion 2 da lisensia, ò (a to piaxei) qua-se-segge verscion sucesciva. Sto travaggio o l'è distribuio inta speransa ch'a segge uttile, ma '''sensa nisciun-a garantia'''; manco co-a garantia de '''comerciabilitæ''' ò de '''adegoatessa a 'n dæto propoxito'''. Pe ciu detalli, amia o scrito originâ in ingreize da [{{int:wm-license-gpl-2.-full-link}} verscion 2] e da [{{int:wm-license-gpl-3-full-link}} verscion 3 da GNU General Public License].",
 	"wm-license-information-table-summary": "Tabella standard ch'a fornisce de informassioin comlete in sciô file; tra queste, 'na descrission de 'lo ch'o mostra, comm'o l'è stæto creou, e condissioin do so drito d'outô e a vivagna.",
-	"wm-license-information-description": "Descriçioìn",
+	"wm-license-information-description": "Descriçión",
 	"wm-license-information-description-missing": "Questo file o l'è sensa '''descrission''', e poriæ mancâghe di atre informassioin ascì.",
 	"wm-license-information-description-missing-request": "Pe piaxei fornisci 'na descrission scignificativa de sto file.",
-	"wm-license-information-source": "Vivagna",
+	"wm-license-information-source": "Vivàgna",
 	"wm-license-information-source-missing": "Gh'amanca e informassioin in sciâ '''vivagna''' de sto file.",
 	"wm-license-information-source-missing-request": "Pe piaxei modiffica a descrission de sto file e mettighe de dond'o ven.",
 	"wm-license-information-date": "Dæta",
-	"wm-license-information-author": "Autô",
+	"wm-license-information-author": "Aotô",
 	"wm-license-information-author-missing": "A sto file gh'amanca e informassioin in sce l''''aotô'''.",
-	"wm-license-information-permission": "Liçençia",
-	"wm-license-information-permission-reusing-text": "Deuvia torna sto file",
+	"wm-license-information-permission": "Licénsa",
+	"wm-license-information-permission-reusing-text": "Dêuviâ tórna 'sto file chi",
 	"wm-license-information-permission-see-below": "Amia sotta.",
 	"wm-license-information-other-versions": "Atre verscioin",
 	"wm-license-lgpl-text": "Sto travaggio o l'è consciderou [[{{int:wm-license-free-software-wiki-link}}|software libbero]]; o pœu vese redistribuio e/ò modificou segondo i termi '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' coscì comme pubricou da-a [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; segge a verscion 2.1 da lisensia, ò (a to piaxei) qua-se-segge verscion sucesciva. Sto travaggio o l'è distribuio inta speransa ch'o segge uttile, ma '''sensa nisciun-a garantia'''; manco co-a garantia de '''comerciabilitæ''' ò de '''adegoatessa a 'n dæto fin'''. Pe ciu detalli, amia o scrito originâ in ingreize da [{{int:wm-license-gpl-2.-full-link}} verscion 2.1] e da [{{int:wm-license-lgpl-3-full-link}} verscion 3 da GNU General Public License].",
@@ -86,5 +87,5 @@
 	"wm-license-self-one-license-with-author": "$1, detentô/ôa di driti d'aotô de st'œuvia, o/a deciæa de pubricâla sotta-a seguente lisensia:",
 	"wm-license-self-multiple-licenses": "Mi, detentô di driti d'aotô de st'œuvia, deciæo de pubricâla sotta-e seguente lisensie:",
 	"wm-license-self-multiple-licenses-with-author": "$1, detentô/a di driti d'aotô de st'œuvia, o/a deciæa de pubricâla sotta-e seguente lisensie:",
-	"wm-license-self-multiple-licenses-select": "Ti peu çerne a liçensa che ti veu."
+	"wm-license-self-multiple-licenses-select": "Ti ti pêu çèrne a licénsa che ti ti vêu."
 }
