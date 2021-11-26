@@ -4,28 +4,5 @@
 			"Weather Top Wizard"
 		]
 	},
-	"sitesupport": "Soli",
-	"group-wikidata-staff": "Wikituku ititoko",
-	"group-wikidata-staff-member": "{{GENDER:$1|Wikituku ititoko}}",
-	"wikimedia-copyright": "Sa vakarautaki tu na itukutuku ena ruku ni <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nikuri ni ibalebale e rawa ni vakayagataka.\nRaica <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\"> Ibalevale ni vakayagataka</a> me baleta na matailalai.",
-	"wikibase-sitelinks-wikibooks": "Wikivola",
-	"wikibase-sitelinks-wikinews": "Wikitukutuku",
-	"wikibase-sitelinks-wikiquote": "Wikicavuti",
-	"wikibase-sitelinks-wikisource": "Wikivurevure",
-	"wikibase-sitelinks-wikiversity": "Wikivesiti",
-	"wikibase-sitelinks-wikivoyage": "Wikilakolako",
-	"wikibase-sitelinks-wiktionary": "Wiktionary",
-	"wikibase-otherprojects-testwikidata": "Wikituku",
-	"wikibase-otherprojects-wikibooks": "Wikivola",
-	"wikibase-otherprojects-wikidata": "Wikituku",
-	"wikibase-otherprojects-wikinews": "Wikitukutuku",
-	"wikibase-otherprojects-wikiquote": "Wikicavuti",
-	"wikibase-otherprojects-wikisource": "Wikivurevure",
-	"wikibase-otherprojects-wikiversity": "Wikivesiti",
-	"wikibase-otherprojects-wikivoyage": "Wikilakolako",
-	"wikibase-otherprojects-wiktionary": "Wiktionary",
-	"wikibase-sitelinks-sitename-wikidatawiki": "Wikituku",
-	"wikimedia-developers": "Veituvatuva",
-	"wikimedia-statslink": "Iwiliwili",
-	"wikimedia-cookiestatement": "Cookie iyatuvosa"
+	"sitesupport": "Soli"
 }
