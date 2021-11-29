@@ -1634,7 +1634,6 @@ class WikimediaMessagesHooks implements
 		$user = $special->getUser();
 		$out = $special->getOutput();
 
-		// TODO replace use of User::getOption with $this->userOptionsManager
 		if (
 			// If we're on Special:RecentChanges
 			$title->isSpecial( 'Recentchanges' ) &&
@@ -1643,19 +1642,19 @@ class WikimediaMessagesHooks implements
 			// If RCFilters UI is enabled
 			$special->isStructuredFilterUiEnabled()
 		) {
-			if ( !$user->getOption( 'rcenhancedfilters-seen-tour' ) ) {
+			if ( !$this->userOptionsManager->getOption( $user, 'rcenhancedfilters-seen-tour' ) ) {
 				GuidedTourLauncher::launchTour( 'RcFiltersIntro', 'Welcome' );
 				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', $this->isOresAvailable() );
 			}
 
-			if ( !$user->getOption( 'rcenhancedfilters-tried-highlight' ) ) {
+			if ( !$this->userOptionsManager->getOption( $user, 'rcenhancedfilters-tried-highlight' ) ) {
 				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
 			}
 		} elseif (
 			$title->isSpecial( 'Watchlist' ) &&
 			$user->isRegistered() &&
 			$special->isStructuredFilterUiEnabled() &&
-			!$user->getOption( 'wlenhancedfilters-seen-tour' )
+			!$this->userOptionsManager->getOption( $user, 'wlenhancedfilters-seen-tour' )
 		) {
 			// Show watchlist tour
 			GuidedTourLauncher::launchTour( 'WlFiltersIntro', 'Welcome' );
