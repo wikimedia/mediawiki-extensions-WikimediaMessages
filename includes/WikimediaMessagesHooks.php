@@ -195,17 +195,9 @@ class WikimediaMessagesHooks implements
 		$rightsUrl = $config->get( 'RightsUrl' );
 		$commonLicenses = [
 			'Creative Commons Attribution-Share Alike 3.0' => 'CC BY-SA 3.0',
-			'Creative Commons Attribution Share Alike' => 'CC BY-SA',
 			'Creative Commons Attribution 3.0' => 'CC BY 3.0',
-			// Wikinews
 			'Creative Commons Attribution 2.5' => 'CC BY 2.5',
-
-			'Creative Commons Attribution' => 'CC BY',
-			'Creative Commons Attribution Non-Commercial Share Alike' => 'CC BY-NC-SA',
-			'Creative Commons Zero (Public Domain)' => 'CC0 (Public Domain)',
-			'GNU Free Documentation License 1.3 or later' => 'GFDL 1.3 or later',
 		];
-
 		if ( isset( $commonLicenses[$rightsText] ) ) {
 			$rightsText = $commonLicenses[$rightsText];
 		}
