@@ -186,10 +186,9 @@ class WikimediaMessagesHooks implements
 
 	/**
 	 * @param Config $config
-	 * @param array $attribs Attributes for link.
 	 * @return string
 	 */
-	private function shortenLicenseLink( Config $config, $attribs = [] ): string {
+	private function shortenLicenseLink( Config $config ): string {
 		$services = MediaWikiServices::getInstance();
 		$rightsText = $config->get( 'RightsText' );
 		$rightsPage = $config->get( 'RightsPage' );
@@ -213,9 +212,9 @@ class WikimediaMessagesHooks implements
 		if ( $rightsPage ) {
 			$title = Title::newFromText( $rightsPage );
 			$linkRenderer = $services->getLinkRenderer();
-			$link = $linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), $attribs );
+			$link = $linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), [] );
 		} elseif ( $rightsUrl ) {
-			$link = Linker::makeExternalLink( $rightsUrl, $rightsText, true, '', $attribs );
+			$link = Linker::makeExternalLink( $rightsUrl, $rightsText, true, '', [] );
 		} else {
 			$link = $rightsText;
 		}
@@ -244,9 +243,8 @@ class WikimediaMessagesHooks implements
 			$context = $services->getService( 'MobileFrontend.Context' );
 			if ( $context->shouldDisplayMobileView() ) {
 				$msg = 'mobile-frontend-copyright';
-				$attribs = [];
-				$link = self::shortenLicenseLink( $config, $attribs );
-				self::onSkinCopyrightFooterMobile( $link, 'footer', $attribs, $msg );
+				$link = self::shortenLicenseLink( $config );
+				self::skinCopyrightFooterMobile( $msg );
 				return;
 			}
 		}
@@ -303,26 +301,12 @@ class WikimediaMessagesHooks implements
 	/**
 	 * Override for copyright message (MobileFrontend extension).
 	 *
-	 * @todo once MobileFrontend updates to use hook interfaces that can be implemented,
-	 * convert to using this class as a hook handler and make non-static with DI
-	 *
-	 * @param string &$link
-	 * @param string $context
-	 * @param array $attribs
 	 * @param string &$msg
-	 * @param int|null &$plural
 	 */
-	public static function onSkinCopyrightFooterMobile( &$link, $context, array $attribs, &$msg, &$plural = null ) {
+	private static function skinCopyrightFooterMobile( &$msg ) {
 		global $wgWikimediaMessagesLicensing;
 		$licensing = $wgWikimediaMessagesLicensing;
 
-		// This hook allows doing two mostly unrelated things:
-		// 1. Set $msg to override the message in the page footer (like onSkinCopyrightFooter)
-		// 2. Set $link to override the license names in the editors (like onEditPageCopyrightWarning,
-		//    but only the license names can be overridden, not the whole message) and page footer
-		//    (like onSkinCopyrightFooter, but they're passed as a parameter)
-
-		// Set $msg. This only affects the page footer.
 		switch ( $licensing ) {
 			case 'wikidata':
 				// Wikidata needs its own special message. See T112088
