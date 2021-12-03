@@ -266,7 +266,7 @@
 	"restriction-level-superprotect": "khóa trang cấp đặc biệt",
 	"action-templateeditor": "sửa đổi các bản mẫu bị khóa",
 	"right-templateeditor": "Sửa đổi các bản mẫu bị khóa",
-	"restriction-level-templateeditor": "bản mẫu hạn chế",
+	"restriction-level-templateeditor": "hạn chế cho phép kỹ thuật viên bản mẫu sửa đổi",
 	"protect-level-templateeditor": "Chỉ cho phép các kỹ thuật viên bản mẫu và bảo quản viên",
 	"right-extendedconfirmed": "Sửa đổi các trang bị hạn chế",
 	"restriction-level-extendedconfirmed": "hạn chế cho thành viên xác nhận mở rộng",

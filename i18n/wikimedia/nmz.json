@@ -4,14 +4,16 @@
 			"GastonJeremiah"
 		]
 	},
-	"sitesupport": "Si bii",
+	"sitesupport": "Bii saɦb",
 	"wikimedia-copyright": "Kctcd rem <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-mii m back m hewl l'jugun </a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">zanb loom</a>l'kctcd remember jugun.",
-	"wikimedia-copyrightwarning": "Kah-b'sodg lagiib,l'weranah tii [https://foundation.wikimedia.org/wiki/zaŋgb bahlb],le bah b'bee ʋ'hɛlwl b'diila [https://en.wikipedia.org/wiki/Wikipedia:yenm kɔrfaan gwɛɛt raarb 3.0_Unported_License CC BY-SA 3.0 License] wad jugun nn [https://en.wikipedia.org/wiki/Wikipedia:GNU n GFDL jugun gwɛɛt bahlb wad].\nTii nah nadmuŋu la URL jugun gwɛɛt hewlb wad bah Creative Commons kwɛɛn.",
+	"wikimedia-copyrightwarning": "Kab-b'sodg lagib,l'wera na tii [https://foundation.wikimedia.org/wiki/zaŋgb baɦlb],le baɦ b'bee b'hɛlwl b'diila [https://en.wikipedia.org/wiki/Wikipedia:yenm kɔrfaan gwɛɛt raarb 3.0_Unported_License CC BY-SA 3.0 License] wad jugun-n [https://en.wikipedia.org/wiki/Wikipedia:GNU n GFDL jugu-n gwɛɛt baɦlb wad].\nTii na' nadmuŋu la URL jugun gwɛɛt hewlb wad baɦ Creative Commons kwɛɛn.",
 	"wikibase-sitelinks-wikinews": "B\"jɔŋa ʋii wikipidiya jugun",
 	"wikibase-sitelinks-wikiquote": "Wikigwɛɛt",
 	"wikibase-sitelinks-wikisource": "Wikipiɖia kareed ree",
 	"wikibase-sitelinks-wikivoyage": "Wikihyɛrukeenaa",
 	"wikimedia-developers": "Edba",
+	"wikimedia-globalblocking-ipblocked": "'''B'IP hidr ba na[[m:Special:MyLanguage/Global blocks|ba' kewm wiki ŋmɛɛnii jugun]].'''\n\nkewmii ba na $1 ($2) hera_b.\n b'laɦb ka na''$3''.\n\n* kewmii baɦdgm: $4\n* kewmii diɦm: $5\n\nB' IP adrɛs nii $6.\nHai, hewl l;jugun gwɛɛt ŋmɛntii b'gbambii jugun.\n\nKa-l ba na ba` tiitm kew bii, ba' bee b'gbam tϽrm gwɛɛt gbaamb kalaŋa,ba b ̀ bee b ̀  nyan tϽrgm bolm kϽrfaan kalaŋa [[m:Special:MyLanguage/No open proxies|No open proxies]] lag bebeer-n baawena.\nLaa, ka fena b'hee sϽgida, [[m:Steward requests/Global|hoor gbaamb wadga Meta-Wiki jugun]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''B'gbamb saɦda la saɦdtba ba'[[m:Special:MyLanguage/Global blocks|kewmn baatee]].'''\n\nkewmii ba na $1 ($2) hera_b.\n b'laɦb ka na''$3''.\n\n* kewmii baɦdgm: $4\n* kewmii diɦm: $5\n\nB' IP adrɛs nii $6.\nHai, hewl l;jugun gwɛɛt ŋmɛntii b'gbambii jugun.\n\nKa-l ba na ba` tiitm kew bii, ba' bee b'gbam tϽrm gwɛɛt gbaamb kalaŋa,ba b ̀ bee b ̀  nyan tϽrgm bolm kϽrfaan kalaŋa [[m:Special:MyLanguage/No open proxies|No open proxies]] lag bebeer-n baawena.\nLaa, ka fena b'hee sϽgida, [[m:Steward requests/Global|hoor gbaamb wadga Meta-Wiki jugun]].",
 	"wikimedia-statslink": "Akɔta",
 	"wikimedia-cookiestatement": "Reem kawerra kalaŋa"
 }
