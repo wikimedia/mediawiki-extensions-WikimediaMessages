@@ -401,5 +401,10 @@
 	"action-edit-legal": "{{doc-action|edit-legal}}",
 	"ext-quicksurveys-tst-internal-survey-question": "TST internal survey question",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "The positive answer for the example internal survey\n{{Identical|Yes}}",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "The negative answer for the example internal survey\n{{Identical|No}}"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "The negative answer for the example internal survey\n{{Identical|No}}",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "GDI safety internal survey question",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "The positive answer for the GDI safety internal survey\n{{Identical|Yes}}",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "The negative answer for the GDI safety internal survey\n{{Identical|No}}",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "The neutral answer for the GDI safety internal survey",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Points to the privacy statement specific to the GDI safety internal survey"
 }
