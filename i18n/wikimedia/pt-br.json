@@ -39,7 +39,8 @@
 			"TheEduGobi",
 			"Tks4Fish",
 			"Vitorvicentevalente",
-			555
+			555,
+			"Svjatysberega"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -339,7 +340,7 @@
 	"eri-rcfilters-tour-intro-welcome-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e o poder da aprendizagem automática. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Rever as edições de forma mais eficiente utilizando filtros novos, a capacidade de gravar conjuntos de filtros, realces definidos pelo utilizador e outras melhorias. $1",
 	"eri-rcfilters-tour-help": "Saiba mais",
-	"eri-rcfilters-tour-intro-preferences-description": "Acesse ao separador das mudanças recentes nas preferências a qualquer altura, para optar por ser excluído da versão melhorada das mudanças recentes.",
+	"eri-rcfilters-tour-intro-preferences-description": "Acesse a aba “Mudanças recentes” nas preferências se quiser desativar a versão melhorada das mudanças recentes.",
 	"eri-rcfilters-tour-intro-welcome-button": "OK, entendi",
 	"eri-rcfilters-tour-intro-disable-button": "Optar por ser excluído agora",
 	"eri-rcfilters-tour-highlight-title": "Código de cor dos seus resultados",

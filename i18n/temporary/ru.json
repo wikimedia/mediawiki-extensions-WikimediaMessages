@@ -17,5 +17,6 @@
 	"hello": "Привет",
 	"please-translate": "Пожалуйста, помогите перевести на ваш язык",
 	"thank-you": "{{GENDER:$1|Спасибо.}}",
-	"specialblockfeedback": "Обратная связь"
+	"specialblockfeedback": "Обратная связь",
+	"specialinvestigate-feedback": "Оставить отзыв"
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Chorobek",
-			"Growingup"
+			"Growingup",
+			"Bosogo"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Бул файлдын автордук укук ээси, $1, автордук укук ээси тууралуу маалыматты сактоо \"шартын аткарса, каалаган максатта\" кимге болбосун колдонууга уруксат берет. Бул файлды жайылтуу, анын негизинде башка чыгармаларды жаратуу, ошондой эле коммерциялык жана башка максаттарда колдонууга уруксат берилет.",
@@ -34,5 +35,9 @@
 	"wm-license-information-description": "Баяндама",
 	"wm-license-information-source": "Булак",
 	"wm-license-information-date": "Дата",
-	"wm-license-information-author": "Автор"
+	"wm-license-information-author": "Автор",
+	"wm-license-information-permission": "Уруксат",
+	"wm-license-information-permission-reusing-text": "Бул файл кайрадан колдонууда",
+	"wm-license-own-work": "Жумушубуз",
+	"wm-license-self-multiple-licenses-select": "Сиз тандаган лицензияны тандай аласыз."
 }

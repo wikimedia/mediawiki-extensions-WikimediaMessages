@@ -2,14 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Hangmanwa7id",
-			"JeanVoisin"
+			"JeanVoisin",
+			"Beunice"
 		]
 	},
 	"sitesupport": "Donner de l'argent",
 	"tooltip-n-sitesupport": "Aidez-nous",
+	"wikimedia-copyright": "Les textes sont disponibles sous <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ;\nd’autres conditions peuvent s’appliquer.\nVoyez les <a href=\"https://foundation.wikimedia.org/wiki/Conditions_d'utilisation\">conditions d’utilisation</a> pour plus de détails.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Développeurs"
+	"wikimedia-developers": "Développeurs",
+	"wikimedia-statslink": "Statistiques",
+	"wikimedia-cookiestatement": "Déclaration sur les témoins (cookies)"
 }

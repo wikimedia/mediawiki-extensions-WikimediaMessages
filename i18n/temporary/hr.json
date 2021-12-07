@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Bugoslav",
-			"Dalibor Bosits"
+			"Dalibor Bosits",
+			"Neptune, the Mystic"
 		]
 	},
 	"wikimediamessages-desc": "Privremene poruke svojevrsne za Wikimediju",
-	"grouppage-oversight": "{{ns:project}}:Nadgledništvo",
+	"grouppage-oversight": "{{ns:project}}:Nadglednici",
 	"group-oversight": "Nadglednici",
 	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
 	"hello": "Bok",

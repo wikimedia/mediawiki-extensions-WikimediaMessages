@@ -1,10 +1,48 @@
 {
 	"@metadata": {
 		"authors": [
-			"Silovan"
+			"Silovan",
+			"Narazeni"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "თქვა შეგილებუნა გოფაჩათ ვარდა დოთირუათ დოკუმენტი '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation ლიცენზიაშ]]'''  1.2 ვარდა უმოსი კონოხიანი ვერსიაშ პირობეფიშ მეჯინათ, ნამუთ გჷმობჟინაფილი რე [[{{int:wm-license-fsf-wiki-link}}|დუდიშული პროგრამული აზარაშ ფონდიშენი]], უთირუ გჷნართეფიშ უმუშო, მაართა დო ბოლო ხასჷლეფს მადვალუ ტექსტეფს. ლიცენზიაშ ანგი რე მილარე გჷნართას ჯოხოთ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-attribution-with-author-text": "ათე ნახანდაშ მინჯე, $1, ალობას არზენს არძას გჷმირინუას თინა  '''ირნერი ღანკით თი პიჯალათ''', დო მინჯე მოშინაფილ ქიჸუაფუ-და. ნახანდიშ გობჟინაფა, გინოჩამა დო კომერციული გჷმორინაფა ვაშილებე.",
+	"wm-license-attribution-without-author-text": "ათე ნახანდიშ ავტორი ნებას ირზენს მოჩამილ გჷმოხანტუალაქ გობჟინაფილქ იჸუას '''ირნერ ღანკით''' (თინეფს შქას კომერციული), დო ნახანდიშ მინჯე მოშინაფილ ქიჸუაფუ-და.",
+	"wm-license-artwork-artist": "მარსულებერი",
+	"wm-license-artwork-title": "დუდჯოხო",
+	"wm-license-artwork-medium": "ოშქაშე",
+	"wm-license-artwork-dimensions": "ზჷმეფი",
+	"wm-license-artwork-current-location": "ასიანი ორენი",
+	"wm-license-artwork-object-history": "ობიექტიშ ისტორია",
+	"wm-license-artwork-credit-line": "გეძინელი ინფორმაცია",
+	"wm-license-artwork-references": "სქოლიო",
+	"wm-license-artwork-inscriptions": "ჭარალუეფი",
+	"wm-license-artwork-notes": "მეღანკუეფი",
+	"wm-license-artwork-id": "საინვენტარე ნომერი",
+	"wm-license-artwork-source": "წყუ/ფოტოგრაფი",
+	"wm-license-book-edition": "გიშაშქუმა",
+	"wm-license-book-editor": "რედაქტორი",
+	"wm-license-book-illustrator": "ილუსტრატორი",
+	"wm-license-book-language": "ნინა",
+	"wm-license-book-page-overview": "ხასჷლაშ გინოჯინა",
+	"wm-license-book-place-of-publication": "გიშაშქუმალაშ აბანი",
+	"wm-license-book-printer": "პრინტერი",
+	"wm-license-book-publisher": "გჷმაბჟინაფალი",
+	"wm-license-book-series-title": "სერიაშ ჯოხოდვალა",
+	"wm-license-book-start-this-book": "გონწყი თე წინგი",
+	"wm-license-book-subtitle": "გიმენდუდჯოხო",
+	"wm-license-book-title": "დუდჯოხო",
+	"wm-license-book-translator": "მათანგალი",
+	"wm-license-book-volume": "ნორთი",
+	"wm-license-book-year-of-publication": "გიშაშქუმალაშ წანა",
+	"wm-license-cecill-text": "თე ნახანდი რე [[{{int:wm-license-free-software-wiki-link}}|დუდიშული პროგრამული უნარღელჸუა]]; თქვა შეილებჷნა გაბჟინუათ თინა [[{{int:wm-license-cecill-wiki-link}}|CeCILL]] ლიცენზიაშ პიჯალეფით. ლიცენზიაშ პიჯალეფი ქოძირით [{{int:wm-license-cecill-full-link}} www.cecill.info]-ს.",
+	"wm-license-creator-alternative-names": "ალტერნატიული ჯოხოეფი",
+	"wm-license-creator-date-of-birth": "დაბადებაშ თარიღი",
+	"wm-license-creator-date-of-birth-and-death": "დაბადებაშ/ღურაშ თარიღი",
+	"wm-license-creator-location-of-birth": "დაბადებაშ აბანი",
+	"wm-license-creator-location-of-birth-and-death": "დაბადებაშ/ღურაშ აბანი",
+	"wm-license-creator-work-period": "მოღალობაშ პერიოდი",
+	"wm-license-creator-work-location": "მოღალობაშ აბანი",
+	"wm-license-gfdl-1.2-and-later": "თქვა შეგილებჷნა გოფაჩათ ვარ-და დოთირუათ დოკუმენტი '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation ლიცენზიაშ]]'''  1.2 ვარ-და უმოსი უწმოხიანი ვერსიაშ პიჯალეფიშ მეჯინათ, ნამუთ გჷმობჟინაფილი რე [[{{int:wm-license-fsf-wiki-link}}|დუდიშული პროგრამული აზარაშ ფონდიშენი]], უთირუ გჷნართეფიშ უმუშო, მაართა დო ბოლო ხასჷლეფს მადვალუ ტექსტეფს. ლიცენზიაშ ანგი მილარე გჷნართას ჯოხოთ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "ეჭარუა",
 	"wm-license-information-source": "წყუ",
 	"wm-license-information-date": "თარიღი",
@@ -12,5 +50,5 @@
 	"wm-license-information-permission": "ალობა:",
 	"wm-license-information-permission-reusing-text": "ფაილიშ კინე გიმორინაფა",
 	"wm-license-own-work": "პირადი ნახანდი",
-	"wm-license-self-multiple-licenses-select": "თქვა შეგილებუნა გიშაგორათ ლიცენზია."
+	"wm-license-self-multiple-licenses-select": "თქვა შეგილებჷნა გიშაგორათ ლიცენზია."
 }

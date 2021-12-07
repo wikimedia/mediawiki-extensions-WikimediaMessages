@@ -9,7 +9,8 @@
 			"Nemo bis",
 			"StephDC",
 			"Yanteng3",
-			"逆襲的天邪鬼"
+			"逆襲的天邪鬼",
+			"列维劳德"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特集",
@@ -33,5 +34,6 @@
 	"wikibase-otherprojects-meta": "維基中樞",
 	"wikimedia-developers": "司空津逮",
 	"interlanguage-link-commons": "維基共享",
+	"wikimedia-statslink": "彙統",
 	"wikimedia-cookiestatement": "鑑識聲明"
 }

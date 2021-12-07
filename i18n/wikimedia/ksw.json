@@ -4,22 +4,29 @@
 			"Jaeminlovetaejoon",
 			"Khing",
 			"Rul1902",
-			"SawJaemin"
+			"SawJaemin",
+			"Nyi Nyi Minn Maung"
 		]
 	},
 	"sitesupport": "တၢ်မၤဘူၣ်",
 	"tooltip-n-sitesupport": "ဆီၣ်ထွဲမၤစၢၤပှၤ",
-	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyright": "လံာ်မဲာ်ဖျၢၣ်အံၤမၤန့ၢ်အီၤသ့လၢ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nလဲၤကွၢ် <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> မ့ၢ်အဲၣ်ဒိးသ့ၣ်ညါတၢ်ဂ့ၢ်တၢ်ကျိၤ.",
 	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikibase-repo-name": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikibase-sitelinks-wikinews": "ဝံၣ်ကံးတၢ်ကစီၣ်",
 	"wikibase-sitelinks-wikiquote": "ဝံၣ်ကံးတဲဒိးပှၤဂၤအတၢ်ကတိၤ",
 	"wikibase-sitelinks-wikisource": "ဝံၣ်ကံးစိၣ်စု",
 	"wikibase-sitelinks-wikivoyage": "ဝံၣ်ကံးတၢ်လဲၤတၢ်ကျဲလၢထံကျါ",
+	"wikibase-sitelinks-wiktionary": "ဝ့းၡ့ၣ်နရံၣ်",
 	"wikibase-otherprojects-testwikidata": "ဝံၣ်ကံးဒ့ဒၤ",
+	"wikibase-otherprojects-mediawiki": "မံဒံာ်ယၤဝံၣ်ကံး",
 	"wikibase-otherprojects-wikidata": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikibase-otherprojects-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
+	"wikibase-otherprojects-wiktionary": "ဝ့းၡ့ၣ်နရံၣ်",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "မံဒံာ်ယၤဝံၣ်ကံး",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ဝံၣ်ကံးဒ့ဒၤ",
 	"wikimedia-developers": "ပှၤတ့ထီၣ်တၢ်ဖိ",
-	"interlanguage-link-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ"
+	"interlanguage-link-wikipedia": "ဝံၣ်ကံးဖံဒံာ်ယၤ",
+	"wikimedia-statslink": "နီၣ်ဂံၢ်စရီ",
+	"wikimedia-cookiestatement": "ခၢၣ်ကံၤ တၢ်ပာ်ဖျါ"
 }

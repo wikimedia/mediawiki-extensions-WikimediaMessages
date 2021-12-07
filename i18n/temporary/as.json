@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Simbu123"
+		]
+	},
+	"wikimediamessages-desc": "কেৱল ৱিকিমিডিয়াৰ ক্ষেত্ৰত প্ৰযোজ্য অস্থায়ী বাৰ্তা",
+	"grouppage-oversight": "{{ns:project}}:অভাৰচাইট",
+	"group-oversight": "অভাৰচাইট অধিকাৰী",
+	"group-oversight-member": "{{GENDER:$1|অভাৰচাইট}}",
+	"hello": "নমস্কাৰ",
+	"please-translate": "অনুগ্ৰহ কৰি আপোনাৰ ভাষালৈ অনুবাদ কৰাত সহায় কৰক",
+	"thank-you": "{{GENDER:$1|ধন্যবাদ।}}",
+	"specialblockfeedback": "মতামত",
+	"specialinvestigate-feedback": "মতামত জনাওক"
+}

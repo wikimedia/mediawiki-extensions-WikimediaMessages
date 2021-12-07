@@ -3,12 +3,17 @@
 		"authors": [
 			"Aushulz",
 			"Pippinu",
-			"Sarvaturi"
+			"Sarvaturi",
+			"Ajeje Brazorf"
 		]
 	},
+	"wm-license-artwork-artist": "Artista",
 	"wm-license-artwork-title": "Tìtulu",
 	"wm-license-artwork-dimensions": "Diminzioni",
+	"wm-license-artwork-notes": "Noti",
+	"wm-license-book-language": "Lingua",
 	"wm-license-book-title": "Tìtulu",
+	"wm-license-creator-description": "Discrizzioni",
 	"wm-license-gfdl-1.2-and-later": "È cuncidutu lu pirmissu di cupiari, diffùnniri e/o canciari stu ducumentu sutta ê tèrmini dâ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', la virsioni 1.2 o puru na virsioni succissivamenti pubblicata dâ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; senza Sizzioni Nun mmutàbbili, senza Testi di Prima di Cupirtina, e senza Testi di Quarta di Cupirtina. Na copia dâ licenza s'attrova ntâ sizzioni ntitulata ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:scn:GNU Licenza Lìbbira di Ducumentazzioni",
 	"wm-license-information-description": "Discrizzioni",

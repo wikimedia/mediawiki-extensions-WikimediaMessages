@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Ukabia"
+			"Ukabia",
+			"Tochiprecious"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "Í nwèrèíkí jé, gbạsáa na/ma í mezí akwukwo nka na okpúrù íwú '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Ákwúkwó Íwú nke Owéré]]''', Nké 1.2 ma nke íchè ndi [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; wéfùtàrà; na adighi nkejị di íchẹ, adighi édé nke Ihú-Ihü Ákwúkwó, na adighi Ázú-Ihü Ákwúkwó. Ákwúkwó iwu hé jéré jé di na nkeji kpóró ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Ákwúkwó Íwú nke Owéré]]\".",
@@ -16,5 +17,6 @@
 	"wm-license-information-permission-see-below": "Lé na àlà.",
 	"wm-license-information-other-versions": "Nke ya ozor",
 	"wm-license-own-work": "Orü ọnwé",
-	"wm-license-pd-wiki-link": "w:ig:Public domain"
+	"wm-license-pd-wiki-link": "w:ig:Public domain",
+	"wm-license-self-multiple-licenses-select": "Ị nwere ike họrọ ikikere nke masịrị gị."
 }

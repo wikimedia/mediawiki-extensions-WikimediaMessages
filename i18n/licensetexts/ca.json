@@ -13,7 +13,9 @@
 			"Qllach",
 			"SMP",
 			"Solde",
-			"Vriullop"
+			"Vriullop",
+			"Jmarchn",
+			"SenyorFontal"
 		]
 	},
 	"wm-license-attribution-with-author-text": "El titular dels drets d'autor d'aquest arxiu, $1, permet que qualsevol pugui usar-lo '''per a qualsevol propòsit, sempre que''' el titular dels drets d'autor sigui reconegut correctament. La redistribució, les obres derivades, l'ús comercial, i qualsevol altre ús està permès.",
@@ -55,7 +57,7 @@
 	"wm-license-creator-work-period": "Període de treball",
 	"wm-license-creator-work-location": "Lloc de treball",
 	"wm-license-creator-linkback": "Enllaç a la plantilla d'infotaula Creator",
-	"wm-license-fal-text": "Copyleft: Aquesta és una obra d'art lliure: Podeu redistribuir-la i modificar-la sota els termes de la '''[[{{int:wm-license-fal-wiki-link}}|Llicència d'Art Lliure]]'''. Trobareu una còpia d'aquesta llicència al [{{int:wm-license-fal-full-link}} web Copyleft Attitude], així com en altres llocs web.",
+	"wm-license-fal-text": "Copyleft: Aquesta és una obra d'art lliure: Podeu redistribuir-la i modificar-la sota els termes de la '''[[{{int:wm-license-fal-wiki-link}}|Llicència d'Art Lliure]]'''. Trobareu una còpia d'aquesta llicència al [{{int:wm-license-fal-full-link}} web Copyleft Attitude], així com [{{int:wm-license-fal-full-link-commons}} en altres llocs web].",
 	"wm-license-fsf-wiki-link": "w:ca:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:ca:Programari lliure",
 	"wm-license-gfdl-1.2-and-later": "S'autoritza la còpia, la distribució i la modificació d'aquest document sota els termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|llicència de documentació lliure GNU]]''' versió 1.2 o qualsevol altra versió posterior que publiqui la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sense seccions invariants, ni textos de portada, ni textos de contraportada. S'inclou una còpia d'aquesta llicència en la secció titulada ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
@@ -87,7 +89,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/ca",
 	"wm-license-original-upload-log": "Registre original de càrregues",
 	"wm-license-own-work": "Treball propi",
-	"wm-license-pd-author-self-text": "Jo, el titular del copyright d'aquesta obra, la allibero al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]'''. Això s'aplica a tot el món.",
+	"wm-license-pd-author-self-text": "Jo, el titular del copyright d'aquesta obra, l'allibero al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]'''. Això s'aplica a tot el món.",
 	"wm-license-pd-author-with-author-text": "S'ha alliberat aquesta obra al '''[[{{int:wm-license-pd-wiki-link}}|domini públic]]''' pel seu autor '''$1'''. Això s'aplica a tot el món.",
 	"wm-license-pd-author-not-legally-possible": "En alguns països això pot no ser legalment possible, en tal cas:",
 	"wm-license-pd-author-self-any-purpose": "Jo faig concessió a tothom del dret d'usar aquesta obra '''per a qualsevol propòsit''', sense cap condició llevat d'aquelles requerides per la llei.",

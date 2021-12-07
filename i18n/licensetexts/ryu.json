@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChoiChong"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "くぬ文書ー、[[{{int:wm-license-fsf-wiki-link}}|フリーソフトウェア財団]]発行ぬ'''[[{{int:wm-license-gfdl-wiki-link}}|GNUフリー文書利用許諾書]] (GNU Free Documentation License)''' 1.2あらんでぃうり以降ぬバージョンぬ規約んかい基づち、複製てぃがろー再配布、改変ぬ許可さりやびーん。不可変更部分、表紙、背表紙ーあいびらん。くぬライセンスぬ複製ー、''[[{{int:wm-license-gfdl-full-1.2-link}}|GNUフリー文書利用許諾書]]''でぃぬ章んかいくくまりとーいびーん。",
+	"wm-license-information-description": "解説",
+	"wm-license-information-source": "原典",
+	"wm-license-information-date": "日付",
+	"wm-license-information-author": "作者",
+	"wm-license-information-permission": "許可",
+	"wm-license-information-permission-reusing-text": "ファイルぬ再利用",
+	"wm-license-own-work": "投稿者るーにゆる作品",
+	"wm-license-self-multiple-licenses-select": "うんじょー上記ぬライセンスから、じるがてぃーち以上選択なやびーん。"
+}

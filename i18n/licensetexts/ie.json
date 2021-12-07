@@ -3,14 +3,17 @@
 		"authors": [
 			"Mithridates",
 			"OIS",
-			"Stavanger7"
+			"Stavanger7",
+			"Renan"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Permission es concedet por copiar, distribuer e/o modificar ti document sub li conditiones del '''[[{{int:wm-license-gfdl-wiki-link}}|Autorisation de Documentation Líber del GNU]]''', Version 1.2 o qualcunc version posteriori publicat per li [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; che nequant Section Ínvariant, nequant Textu de Covriment, e nequant Textu de Contra-Covriment. Un copie del autorisation es includet in li section nominat ''[[{{int:wm-license-gfdl-full-1.2-link}}|Autorisation de Documentation Líber del GNU]]''.",
 	"wm-license-information-description": "Descrition",
-	"wm-license-information-source": "Orígine",
+	"wm-license-information-source": "Fonte",
 	"wm-license-information-date": "Date",
 	"wm-license-information-author": "Autor",
 	"wm-license-information-permission": "Permission:",
 	"wm-license-information-permission-reusing-text": "Reusant ti-ci file",
-	"wm-license-own-work": "Propri ovre"
+	"wm-license-own-work": "Propri ovre",
+	"wm-license-self-multiple-licenses-select": "Vu posse selecter li autorisation de tui selection."
 }

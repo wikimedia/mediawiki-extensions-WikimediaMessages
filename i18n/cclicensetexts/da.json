@@ -12,7 +12,8 @@
 			"Multichill",
 			"Peter Alberti",
 			"Poullindholm",
-			"Sarrus"
+			"Sarrus",
+			"Antonla"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:da:Creative Commons",
@@ -194,15 +195,15 @@
 	"wm-license-cc-sa-2.0-jp-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.da Del på samme vilkår 2.0 Japan]-licensen.",
 	"wm-license-cc-zero-text": "Denne fil er udgivet under [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.da CC0 1.0 Universal Public Domain Dedication].",
 	"wm-license-cc-zero-explanation": "Personen, der har tilknyttet et værk til dette dokument, har dikteret værket som [[{{int:wm-license-pd-wiki-link}}|offentlig ejendom]] ved at give afkald alle hans eller hendes rettigheder til værket på verdensplan efter lov om ophavsret og alle relaterede og beslægtede rettigheder, i det omfang lovgivningen tillader det. Du kan kopiere, distribuere og forarbejde værket selv til kommercielle formål; alt sammen uden at spørge om godkendelse.",
-	"wm-license-cc-free": "Du har frihed til:",
+	"wm-license-cc-free": "Du må frit:",
 	"wm-license-cc-free-to-share-header": "at dele",
-	"wm-license-cc-free-to-share-text": "at kopiere, distribuere og sende værket",
+	"wm-license-cc-free-to-share-text": "at kopiere, distribuere og overføre værket",
 	"wm-license-cc-free-to-remix-header": "at remixe",
-	"wm-license-cc-free-to-remix-text": "at bearbejde værket",
-	"wm-license-cc-conditions": "På følgende vilkår:",
+	"wm-license-cc-free-to-remix-text": "at tilpasse værket",
+	"wm-license-cc-conditions": "Under følgende vilkår:",
 	"wm-license-cc-conditions-attribution-header": "kreditering",
-	"wm-license-cc-conditions-attribution-text": "Du skal kreditere værket på passende vis og indikere, om du har foretaget ændringer. Du må gøre dette på enhver rimelig måde, men ikke på en måde, der antyder, at licensgiveren støtter dig eller din brug af værket.",
-	"wm-license-cc-conditions-share_alike-header": "del på samme vilkår",
+	"wm-license-cc-conditions-attribution-text": "Du skal give passende kreditering, angive et link til licensen, og oplyse om der er foretaget ændringer. Du må gøre det på enhver fornuftig måde, men ikke på en måde der antyder at licensgiveren godkender dig eller din anvendelse.",
+	"wm-license-cc-conditions-share_alike-header": "deling på samme vilkår",
 	"wm-license-cc-conditions-share_alike-text": "Hvis du bearbejder, ændrer eller bygger videre på dette værk, skal du distribuere dine bidrag under den [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses samme eller en kompatibel licens] som originalen.",
 	"wm-license-cc-pd-mark-text": "Denne fil er blevet identificeret som værende fri for kendte restriktioner under lov om ophavsret, herunder alle relaterede og tilstødende rettigheder."
 }

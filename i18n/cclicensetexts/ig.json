@@ -3,7 +3,8 @@
 		"authors": [
 			"Diebuche",
 			"Ukabia",
-			"Uzoma Ozurumba"
+			"Uzoma Ozurumba",
+			"Tochiprecious"
 		]
 	},
 	"wm-license-cc-attribution": "Í-kpó-áhà",
@@ -137,6 +138,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Usòrò nke á di okpúrù ákwúkwó íwú nke [[{{int:wm-license-cc-wiki-link}}|Mmẹ Òkike Tu ụta Ñkịtị]] édé íwú nke [https://creativecommons.org/licenses/by-sa/2.5/si/ Í kpó áhà-Í gbàsáa nke Slovenia 2.5].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Usòrò nke á di okpúrù ákwúkwó íwú nke [[{{int:wm-license-cc-wiki-link}}|Mmẹ Òkike Tu ụta Ñkịtị]] édé íwú nke [https://creativecommons.org/licenses/by-sa/2.5/tw/ Í kpó áhà-Í gbàsáa nke Taiwan 2.5].",
 	"wm-license-cc-by-sa-2.5-za-text": "Usòrò nke á di okpúrù ákwúkwó íwú nke [[{{int:wm-license-cc-wiki-link}}|Mmẹ Òkike Tu ụta Ñkịtị]] édé íwú nke [https://creativecommons.org/licenses/by-sa/2.5/za/ Í kpó áhà-Í gbàsáa nke South Africa 2.5].",
+	"wm-license-cc-by-sa-3.0-text": "Edebere faịlụ a n'okpuru ikikeree [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license.",
 	"wm-license-cc-free": "I wepulara nóru:",
 	"wm-license-cc-free-to-share-header": "i nye",
 	"wm-license-cc-free-to-share-text": "ikọpị,ikekasi na izịpụ ọru a",
@@ -144,5 +146,7 @@
 	"wm-license-cc-free-to-remix-text": "igbanwee ọrụ a",
 	"wm-license-cc-conditions": "Ọ ga bụ na ọnọdụ ndi a:",
 	"wm-license-cc-conditions-attribution-header": "í-kpó-áhà",
-	"wm-license-cc-conditions-share_alike-header": "gbásàa kà"
+	"wm-license-cc-conditions-attribution-text": "Ị ga-enyerịrị ugo kwesịrị ekwesị, nye njikọ na ikikere ahụ, ma gosikwa ma emere mgbanwe. Ị nwere ike ime ya n'ụzọ ezi uche ọ bụla, mana ọ bụghị n'ụzọ ọ bụla na-egosi na onye nyere ikikere kwadoro gị maọbụ ojiji gị.",
+	"wm-license-cc-conditions-share_alike-header": "gbásàa kà",
+	"wm-license-cc-conditions-share_alike-text": "Ọ bụrụ na ị tụgharịgharịa, gbanwee, ma ọ bụ wulite n'elu ihe ahụ, ị ga-ekesa ndenye gị n'okpuru [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses otu ma ọ bụ ikike dakọtara] dị ka nke mbụ."
 }

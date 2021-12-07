@@ -7,7 +7,9 @@
 			"Lloffiwr",
 			"Nemo bis",
 			"Robin Owain",
-			"Xxglennxx"
+			"Xxglennxx",
+			"MinecraftAustralia",
+			"Troswr"
 		]
 	},
 	"wikimediamessages-desc": "Negeseuon neilltuol Wikimedia",
@@ -26,7 +28,7 @@
 	"group-Image-reviewer-member": "adolygydd delweddau",
 	"grouppage-Image-reviewer": "{{ns:project}}:Adolygwyr delweddau",
 	"group-otrs-member": "Aelodau o OTRS",
-	"group-otrs-member-member": "aelod o OTRS",
+	"group-otrs-member-member": "{{GENDER:$1|aelod o OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Aelodau OTRS",
 	"group-abusefilter": "Golygyddion hidlo camdriniaeth",
 	"group-abusefilter-member": "Golygydd hidlo camdriniaeth",
@@ -62,8 +64,8 @@
 	"group-filemover-member": "symudwr ffeiliau",
 	"grouppage-filemover": "{{ns:project}}:Symudwyr ffeiliau",
 	"group-flood": "Defnyddwyr bot",
-	"group-flood-member": "defnyddiwr bot",
-	"grouppage-flood": "{{ns:project}}:Defnyddwyr bot",
+	"group-flood-member": "{{GENDER:$1|defnyddiwr bot}}",
+	"grouppage-flood": "{{ns:project}}:Defnyddwyr bots",
 	"group-founder": "Sefydlwyr",
 	"group-founder-member": "sefydlydd",
 	"grouppage-founder": "{{ns:project}}:Sefydlwyr",
@@ -135,6 +137,8 @@
 	"upload-form-label-own-work-message-commons": "Cadarnhaf mai fi yw perchennog hawlfraint y ffeil hon, a chytunaf  yn ddi-droi'n ôl i ryddhau'r ffeil hon i Gomin Wicimedia dan drwydded [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0], a chytunaf gyda'r[https://foundation.wikimedia.org/wiki/Terms_of_Use Amodau Defnyddio].",
 	"wikimediashoplink-linktext": "Siop Wikimedia",
 	"wikimediashoplink-link-tooltip": "Ewch am dro i siop Wikimedia",
-	"eri-rcfilters-tour-intro-welcome-description": "Defnyddiwch y system ffiltro ddiweddaraf er mwyn rhoi trefn ar eich golygiadau. Gallwch hyd yn oed eu cadw mewn set taclus, a'u huwcholeuo yn ôl eich dewis.",
-	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio"
+	"eri-rcfilters-tour-intro-welcome-description": "Defnyddiwch y system ffiltro ddiweddaraf er mwyn rhoi trefn ar eich golygiadau. Gallwch hyd yn oed eu cadw mewn set taclus, a'u huwcholeuo yn ôl eich dewis. $1",
+	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio",
+	"wikimedia-statslink": "Ystadegau",
+	"wikimedia-cookiestatement": "Datganiad cwcis"
 }

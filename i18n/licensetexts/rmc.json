@@ -4,5 +4,13 @@
 			"Adehertogh"
 		]
 	},
-	"wm-license-information-author": "Autoris"
+	"wm-license-gfdl-1.2-and-later": "Sas mukhlo te kopirinel, te distributinel the/abo visarel kada dokumentos tel kadi licencija '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verzija 1.2 abo neveder verzija publikinďi kalendar [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bijo Navisarde Sekciji, bijo tekstos pre angluňi sera, the bijo tekstos pre paluňi sera. Kopija kala licencijake hin andre sekcija tel o nav ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Deskripcija",
+	"wm-license-information-source": "Zdrojos",
+	"wm-license-information-date": "Datumos",
+	"wm-license-information-author": "Autoris",
+	"wm-license-information-permission": "Mukhipen",
+	"wm-license-information-permission-reusing-text": "Chasňariben kale suboriske",
+	"wm-license-own-work": "Miro kerďipen",
+	"wm-license-self-multiple-licenses-select": "Šaj tuke les avri licencija savi kames."
 }

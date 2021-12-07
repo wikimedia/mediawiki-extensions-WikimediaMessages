@@ -10,7 +10,8 @@
 			"Vahe Gharakhanyan",
 			"Xelgen",
 			"Դավիթ Սարոյան",
-			"Սահակ"
+			"Սահակ",
+			"MinecraftAustralia"
 		]
 	},
 	"sitesupport": "Նվիրաբերել",
@@ -31,6 +32,7 @@
 	"wikibase-otherprojects-testwikidata": "Վիքիտվյալներ",
 	"wikibase-otherprojects-mediawiki": "ՄեդիաՎիքի",
 	"wikibase-otherprojects-meta": "Մետա-վիքի",
+	"wikibase-otherprojects-sources": "Բազմալեզու Վիքիդարան",
 	"wikibase-otherprojects-species": "Վիքիցեղեր",
 	"wikibase-otherprojects-wikibooks": "Վիքիգրքեր",
 	"wikibase-otherprojects-wikidata": "Վիքիտվյալներ",
@@ -45,6 +47,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Վիքիպահեստ",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "ՄեդիաՎիքի",
 	"wikibase-sitelinks-sitename-metawiki": "Մետա-վիքի",
+	"wikibase-sitelinks-sitename-sourceswiki": "Բազմալեզու Վիքիդարան",
 	"wikibase-sitelinks-sitename-species": "Վիքիցեղեր",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Վիքիտվյալներ",
 	"wikimedia-developers": "Ծրագրավորողներ",
@@ -56,6 +59,7 @@
 	"wikimediashoplink-linktext": "Վիքիպեդիայի խանութ",
 	"wikimediashoplink-link-tooltip": "Այցելել Վիքիպեդիայի խանութ",
 	"interlanguage-link-mul": "Այլ լեզուներ",
+	"interlanguage-link-sitename-mul": "Բազմալեզու {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Վիքիպեդիա",
 	"interlanguage-link-sitename-wikipedia": "Վիքիպեդիա, ազատ հանրագիտարան",
 	"interlanguage-link-commons": "Վիքիպահեստ",

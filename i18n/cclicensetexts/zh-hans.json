@@ -17,7 +17,8 @@
 			"Xiaomingyan",
 			"Yfdyh000",
 			"予弦",
-			"神樂坂秀吉"
+			"神樂坂秀吉",
+			"TimWu007"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:zh:知识共享",
@@ -116,6 +117,7 @@
 	"wm-license-cc-by-3.0-ug-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by/3.0/ug/deed.zh 署名 3.0 乌干达]许可协议授权。",
 	"wm-license-cc-by-3.0-us-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by/3.0/us/deed.zh 署名 3.0 美国]许可协议授权。",
 	"wm-license-cc-by-3.0-vn-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by/3.0/vn/deed.zh 署名 3.0 越南]许可协议授权。",
+	"wm-license-cc-by-3.0-za-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by/3.0/za/deed.zh 署名3.0 南非]许可协议授权。",
 	"wm-license-cc-by-4.0-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by/4.0/deed.zh 署名 4.0 国际]许可协议授权。",
 	"wm-license-cc-by-sa-1.0-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/1.0/deed.zh 署名-相同方式共享 1.0 通用]许可协议授权。",
 	"wm-license-cc-by-sa-1.0-fi-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/1.0/fi/deed.zh 署名-相同方式共享 1.0 芬兰]许可协议授权。",
@@ -212,6 +214,7 @@
 	"wm-license-cc-by-sa-3.0-ug-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/3.0/ug/deed.zh 署名-相同方式共享 3.0 乌干达]许可协议授权。",
 	"wm-license-cc-by-sa-3.0-us-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/3.0/us/deed.zh 署名-相同方式共享 3.0 美国]许可协议授权。",
 	"wm-license-cc-by-sa-3.0-vn-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/3.0/vn/deed.zh 署名-相同方式共享 3.0 越南]许可协议授权。",
+	"wm-license-cc-by-sa-3.0-za-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/3.0/za/deed.zh 署名-相同方式共享 3.0 南非]许可协议授权。",
 	"wm-license-cc-by-sa-4.0-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/by-sa/4.0/deed.zh 署名-相同方式共享 4.0 国际]许可协议授权。",
 	"wm-license-cc-sa-1.0-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/sa/1.0/deed.zh 相同方式共享 1.0 通用]许可协议授权。",
 	"wm-license-cc-sa-1.0-fi-text": "本文件采用[[{{int:wm-license-cc-wiki-link}}|知识共享]][https://creativecommons.org/licenses/sa/1.0/fi/deed.zh 相同方式共享 1.0 芬兰]许可协议授权。",
@@ -226,7 +229,7 @@
 	"wm-license-cc-free-to-remix-text": "改编作品",
 	"wm-license-cc-conditions": "惟须遵守下列条件：",
 	"wm-license-cc-conditions-attribution-header": "署名",
-	"wm-license-cc-conditions-attribution-text": "您必须按照作者或许可人指定的方式对作品进行署名（但是不能以任何方式暗示他们同意您或您对作品的使用）。您必须指出正确的原作者，和提供授权条款的链接，并指出是否对内容进行了更改。 您可以以任何合理的方式来做，但不得以任何方式表明许可人认可您或您的使用。",
+	"wm-license-cc-conditions-attribution-text": "您必须对作品进行署名，提供授权条款的链接，并说明是否对原始内容进行了更改。您可以用任何合理的方式来署名，但不得以任何方式表明许可人认可您或您的使用。",
 	"wm-license-cc-conditions-share_alike-header": "相同方式共享",
 	"wm-license-cc-conditions-share_alike-text": "如果您再混合、转换或者基于本作品进行创作，您必须以[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses 与原先许可协议相同或相兼容的许可协议]分发您贡献的作品。",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.zh",

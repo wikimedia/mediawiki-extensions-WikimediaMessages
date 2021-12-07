@@ -7,11 +7,12 @@
 	"wm-license-cc-attribution": "Attribuzioni",
 	"wm-license-cc-by-sa-3.0-text": "Kisthu archìbiu ha la licèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-free": "Pói:",
-	"wm-license-cc-free-to-share-header": "di cundividì",
-	"wm-license-cc-free-to-share-text": "par cupià, distribute and transmit the work",
-	"wm-license-cc-free-to-remix-header": "par immiscià tòrra",
-	"wm-license-cc-free-to-remix-text": "di adattà la faina",
+	"wm-license-cc-free-to-share-header": "cundividì",
+	"wm-license-cc-free-to-share-text": "cupià, disthribuì e traimmittì l'ópara",
+	"wm-license-cc-free-to-remix-header": "immiscià tòrra",
+	"wm-license-cc-free-to-remix-text": "adattà la faina",
 	"wm-license-cc-conditions": "Mantiniddi li sighinti cundizioni:",
 	"wm-license-cc-conditions-attribution-header": "attribuzioni",
-	"wm-license-cc-conditions-share_alike-header": "cundivisioni a li matessi cundizioni"
+	"wm-license-cc-conditions-share_alike-header": "cundivisioni a li matessi cundizioni",
+	"wm-license-cc-conditions-share_alike-text": "Si bói turrà a miscià lu materiari, oppuru si bói traiffuimmallu o pigliallu cumenti basi (pa 'na noba criazioni), debi disthribuì li cuntributi tói cu' [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses la matessi licènzia di l'originari ossia cunduna licènzia cumpatìbiri]."
 }

@@ -3,13 +3,16 @@
 		"authors": [
 			"Hagos",
 			"Maammee",
-			"Oromoo"
+			"Oromoo",
+			"Ahrada2016"
 		]
 	},
 	"sitesupport": "Arjoomi",
 	"tooltip-n-sitesupport": "Nu gargaari",
 	"wikimedia-copyright": "Barreeffamichi kan argamu <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Eeyyama amala waliiqoodu wantootaa</a> jalatti;\ndabalataan haalli itti fayyadamiinsaa hojii irra kan oolu taha.\nBal'inaa isaaf <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Haala itti fayyadamiinsaa</a> ilaali.",
 	"wikibase-sitelinks-wikinews": "Wikioduuu",
+	"wikibase-sitelinks-wikiquote": "Wiikiikoot",
+	"wikibase-sitelinks-wikisource": "Wiikiisoorsi",
 	"wikibase-sitelinks-wikivoyage": "Wikiimalaa",
 	"wikimedia-developers": "Ogeessota Moosaajii",
 	"wikimedia-statslink": "Istaatistiksii",

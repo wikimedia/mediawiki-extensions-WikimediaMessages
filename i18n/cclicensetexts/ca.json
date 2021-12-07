@@ -11,7 +11,8 @@
 			"Paucabot",
 			"SMP",
 			"Solde",
-			"Vriullop"
+			"Vriullop",
+			"Jmarchn"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ca:Creative Commons",
@@ -192,7 +193,7 @@
 	"wm-license-cc-sa-1.0-nl-text": "Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/nl/deed.ca Compartir Igual 1.0 Països Baixos].",
 	"wm-license-cc-sa-2.0-jp-text": "Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.ca Compartir Igual 2.0 Japó].",
 	"wm-license-cc-zero-text": "L'ús d'aquest fitxer és regulat sota les condicions de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] de  [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 lliurament al domini públic universal].",
-	"wm-license-cc-zero-explanation": "La persona que ha associat un treball amb aquest document ha dedicat l'obra [[{{int:wm-license-pd-wiki-link}}|domini públic]], renunciant en tot el món a tots els seus drets de copyright i a tots els drets legals relacionats que tenia en l'obra, en la mesura permesa per la llei. Les obres sota CC0 no requereixen l'atribució. En citar l'obra no podeu implicar cap mena de suport al vostre ús per part de l'autor.",
+	"wm-license-cc-zero-explanation": "La persona que ha associat un treball amb aquest document ha dedicat l'obra [[{{int:wm-license-pd-wiki-link}}|domini públic]], renunciant en tot el món a tots els seus drets de d'autor i a tots els drets legals relacionats que tenia en l'obra, en la mesura permesa per la llei. Podeu copiar, modificar, distribuir i modificar l'obra, fins i tot amb fins comercials, tot sense demanar permís.",
 	"wm-license-cc-free": "Sou lliure de:",
 	"wm-license-cc-free-to-share-header": "compartir",
 	"wm-license-cc-free-to-share-text": "copiar, distribuir i comunicar públicament l'obra",

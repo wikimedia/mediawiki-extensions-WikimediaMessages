@@ -9,7 +9,8 @@
 			"MuratTheTurkish",
 			"Rapsar",
 			"Stultiwikia",
-			"Sucsuzz"
+			"Sucsuzz",
+			"SaldırganSincap"
 		]
 	},
 	"contactpage-title-requestlicense": "Bir lisans formu isteyin",
@@ -85,7 +86,7 @@
 	"contactpage-ombudscommission-case-explanation": "Ne olduğunu açıklayın:",
 	"contactpage-ombudscommission-relevant-links": "Viki eylemlerine veya sayfalarına URL'ler sağlayın:",
 	"contactpage-ombudscommission-violation-type": "Birkaç kelimeyle, hangi wiki kuralının ihlal edildiğini açıklayın:",
-	"contactpage-ombudscommission-involved-users": "Hangi kullanıcıları şikayet ediyorsunuz? Wiki kullanıcı adlarını sağlayın:",
+	"contactpage-ombudscommission-involved-users": "Hangi kullanıcıları şikayet ediyorsunuz? Viki kullanıcı adlarını sağlayın:",
 	"contactpage-ombudscommission-affected-accounts": "Bu şikayetten hangi hesaplar etkileniyor? Sizden başka kimse etkilenmediyse, bu alanı atlayabilirsiniz.",
 	"contactpage-ombudscommission-proposed-solution": "Hangi çözümü önerirsiniz? Komisyondan beklentileriniz nelerdir?",
 	"contactpage-ombudscommission-additional-information": "Bu durumun anlaşılmasıyla ilgili olduğunu düşündüğünüz diğer bilgileri ekleyin.",

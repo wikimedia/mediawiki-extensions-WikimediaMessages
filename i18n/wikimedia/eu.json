@@ -10,7 +10,8 @@
 			"Theklan",
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"Anians"
 		]
 	},
 	"wikimediamessages-desc": "Wikimediaren mezu espezifikoak",
@@ -172,5 +173,6 @@
 	"eri-rcfilters-tour-help": "Gehiago ikasi",
 	"eri-rcfilters-tour-highlight-button": "Ados, ulertu dut",
 	"securepoll-dblist-securepollglobal": "Batzordearen Hautaketa",
+	"wikimedia-statslink": "Estatistikak",
 	"wikimedia-cookiestatement": "Cookie adierazpena"
 }

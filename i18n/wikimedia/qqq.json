@@ -39,7 +39,10 @@
 			"WebSourceContentRO",
 			"ديفيد",
 			"زكريا",
-			"아라"
+			"아라",
+			"Antonla",
+			"McDutchie",
+			"Nirmos (Wikimedia)"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -268,7 +271,7 @@
 	"wikibase-page-schema-publisher-logo-url": "{{notranslate}}\nUsed in a meta tag for search engines: URL to a localised PNG (if necessary) of the wikimedia logo",
 	"wikibase-statementsection-constraints": "Section heading on Wikidata property pages for constraint statements.\n{{Related|wikibase-statementsection-statements}}\n{{Identical|Constraint}}",
 	"wikibase-sitelinks-wikibooks": "Section heading on Wikidata item page for Wikibooks site links.\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikibooks}}",
-	"wikibase-sitelinks-wikinews": "Section heading on Wikidata item page for Wikinews site links.\n\nUse the name of the [https://www.wikivoyage.org/ Wikinews] site if it exists in your language. If an edition of Wikinews in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"news\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikinews}}",
+	"wikibase-sitelinks-wikinews": "Section heading on Wikidata item page for Wikinews site links.\n\nUse the name of the [https://www.wikinews.org/ Wikinews] site if it exists in your language. If an edition of Wikinews in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"news\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikinews}}",
 	"wikibase-sitelinks-wikiquote": "Section heading on Wikidata item page for Wikiquote site links.\n\nUse the name of the [https://www.wikiquote.org/ Wikiquote] site if it exists in your language. If an edition of Wikiquote in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"quote\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikiquote}}",
 	"wikibase-sitelinks-wikisource": "Section heading on Wikidata item page for Wikisource site links.\n\nUse the name of the [https://www.wikisource.org/ Wikisource] site if it exists in your language. If an edition of Wikisource in your language doesn't exist yet, you can create a name for it in your language. The \"wiki\" part must be the same as in \"Wikipedia\", but the \"source\" part can be changed into something in your language.\n\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikisource}}",
 	"wikibase-sitelinks-wikiversity": "Section heading on Wikidata item page for Wikiversity site links.\n{{Related|Wikibase-sitelinks}}\n{{Identical|Wikiversity}}",
@@ -306,7 +309,7 @@
 	"wikimedia-globalblocking-ipblocked-range": "A message shown to a [[mw:Extension:GlobalBlocking|globally blocked]] user trying to edit through a globally blocked IP range.\n\nRefers to {{msg-mw|Emailuser}} and is a customised version of {{msg-mw|globalblocking-ipblocked-range}}.\n\nThis message is similar to a [[MediaWiki:Blockedtext|MediaWiki core message]].\n\nParameters:\n* $1 - the username of the blocking user (steward), with a link\n* $2 - the project name where the blocking user is registered (usually \"meta.wikimedia.org\" on Wikimedia servers)\n* $3 - the reason specified by the blocking user\n* $4 - a timestamp for when the block was set\n* $5 - a timestamp for when the block will expire (or {{msg-mw|Infiniteblock}})\n* $6 - the IP address of the globally blocked user\n* $7 - the IP range being affected by the global block.",
 	"wikimedia-globalblocking-ipblocked-xff": "A message shown to users who have one or more proxies in their XFF header who's IP are blocked.\n\nRefers to {{msg-mw|Emailuser}} and is a customised version of {{msg-mw|globalblocking-ipblocked-xff}}.\n\nParameters:\n* $1 - username\n* $2 - wikiname\n* $3 - reason\n* $4 - start timestamp of block; localized timestamp\n* $5 - expiry timestamp of block; localized timestamp or the message {{msg-mw|Infiniteblock}}\n* $6 - IP address which is blocked",
 	"wikimedia-torblock-blocked": "Used as error message; it is a modified version of {{msg-mw|torblock-blocked}}.\nParameters:\n* $1 - IP address",
-	"wikimedia-mobile-frontend-terms-url": "{{optional}}\nTerms of use link on the mobile site. Replace Terms_of_Use in the URL with Special:MyLanguage/Terms_of_Use/<your_language>, for example, Special:MyLanguage/Terms_of_Use/fr for French.",
+	"wikimedia-mobile-frontend-terms-url": "{{optional}}\nTerms of use link on the mobile site. Replace Terms_of_Use in the URL with Terms_of_Use/<your_language>, for example, Terms_of_Use/fr for French.",
 	"wikimedia-oauth-privacy-link": "Wikitext link pointing to the WMF privacy policy for all sites. Replace Privacy_policy in the URL with Privacy_policy/<your_language> if a translation exists, for example, MyLanguage/Privacy_policy/fr for French.\n{{Identical|Privacy policy}}",
 	"grant-checkuser": "Name for OAuth grant \"checkuser\".\n{{Related|Grant}}",
 	"upload-form-label-own-work-message-commons": "[[File:Cross-wiki media upload dialog, December 2015 AB test option 1.png|thumb]] Legal message, confirming that the user is allowed to upload the file.",
@@ -336,7 +339,7 @@
 	"action-extendedconfirmed": "{{doc-action|extendedconfirmed}}",
 	"right-extendedconfirmed": "{{doc-right|extendedconfirmed}}\nRefers to a protection level (in use on the English Wikipedia, namely the \"extended confirmed users\".",
 	"restriction-level-extendedconfirmed": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
-	"protect-level-extendedconfirmed": "Folosit ca nivel de protecție.",
+	"protect-level-extendedconfirmed": "Used as protect level.",
 	"action-editeditorprotected": "{{doc-action|editeditorprotected}}\n\n\nCopy <nowiki>{{int:protect-level-editeditorprotected}}</nowiki> as is. protect-level-editeditorprotected will be expanded to {{msg-mw|protect-level-editeditorprotected}}.",
 	"right-editeditorprotected": "{{doc-right|editeditorprotected}}\nRefers to {{msg-mw|protect-level-editeditorprotected}}\n\nSee also:\n* {{msg-mw|Right-editeditorprotected}}\n* {{msg-mw|Right-editextendedsemiprotected}}\n* {{msg-mw|Right-editprotected}}\n* {{msg-mw|Right-editsemiprotected}}",
 	"protect-level-editeditorprotected": "Used as protect level.",

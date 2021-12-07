@@ -165,6 +165,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sesetengah pelayan yang digunakan oleh permintaan anda [[m:Special:MyLanguage/Global blocks|disekat sejagat]].'''\n\nSekatannya dilakukan oleh $1 ($2).\nSebab yang diberikannya, ''$3''.\n\n* Sekatan bermula: $4\n* Sekatan tamat: $5\n\nAlamat proksi yang disekat ialah $6.\nJika anda ingin membuat sebarang aduan, sila sertakan semua butiran di atas.\n\nJika anda percaya bahawa anda tersalah disekat, anda boleh mencari maklumat dan arahan tambahan dalam dasar sejagat [[m:Special:MyLanguage/No open proxies|Tiada proksi terbuka]].\nSelain itu, untuk membincangkan sekatan sila [[m:Steward requests/Global|kirim permintaan untuk dikaji semula di Meta-Wiki]].",
 	"wikimediashoplink-linktext": "Kedai Wikimedia",
 	"wikimediashoplink-link-tooltip": "Kunjungi Kedai Wikimedia",
+	"interlanguage-link-mul": "Bahasa lain",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} aneka bahasa",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, ensiklopedia bebas",
 	"interlanguage-link-sitename-dmoz": "Direktori web DMOZ",

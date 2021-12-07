@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Artsiom91"
+			"Artsiom91",
+			"Maksim L."
 		]
 	},
 	"project-localized-name-bewikibooks": "Беларускія Вікікнігі",
 	"project-localized-name-bewikisource": "Беларускія Вікікрыніцы",
-	"project-localized-name-bewiktionary": "Беларускі Вікіслоўнік"
+	"project-localized-name-bewiktionary": "Беларускі Вікіслоўнік",
+	"project-localized-name-sourceswiki": "Шматмоўныя Вікікрыніцы"
 }

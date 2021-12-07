@@ -27,7 +27,8 @@
 			"Valtlait",
 			"Varusmies",
 			"VezonThunder",
-			"Zache"
+			"Zache",
+			"MITO"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -188,6 +189,7 @@
 	"wikimedia-copyrightwarning": "Tallentamalla muutokset sitoudut noudattamaan [https://foundation.wikimedia.org/wiki/Terms_of_Use käyttöehtoja] ja hyväksyt sen, että muokkauksesi julkaistaan peruuttamattomasti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 -lisenssin] ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL:n] ehtojen mukaan.\nHyväksyt sen, että hyperlinkki tai URL riittää tekijän nimeämiseksi Creative Commons -lisenssin mukaisesti.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fi\" title=\"Creative Commons Nimeä-JaaSamoin     -lisenssin määritelmä\" target=\"_blank\">CC BY-SA 3.0</a> ja <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"GFDL:n määritelmä\" target=\"_blank\">GFDL</a>",
 	"wikibase-repo-name": "Wikidata",
+	"wikibase-statementsection-constraints": "Rajoitukset",
 	"wikibase-sitelinks-wikibooks": "Wikikirjasto",
 	"wikibase-sitelinks-wikinews": "Wikiuutiset",
 	"wikibase-sitelinks-wikiquote": "Wikisitaatit",
@@ -210,6 +212,7 @@
 	"wikibase-otherprojects-wikiversity": "Wikiopisto",
 	"wikibase-otherprojects-wikivoyage": "Wikimatkat",
 	"wikibase-otherprojects-wiktionary": "Wikisanakirja",
+	"wikibase-otherprojects-wikimania": "Wikimania",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
@@ -222,6 +225,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Pyydä tunnusta",
 	"wikimedia-developers": "Kehittäjät",
 	"wikimedia-globalblocking-ipblocked": "'''IP-osoitteesi on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston on antanut $1 ($2).\nAnnettu syy on ''$3''.\n\n* Eston alkamisaika: $4\n* Eston päättymisaika: $5\n\nNykyinen IP-osoitteesi on $6.\nLiitä kaikki yllä olevat tiedot mahdollisiin kyselyihisi.\n\nJos uskot, että sinut on estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]].\nMuutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikiin]].",
+	"wikimedia-globalblocking-ipblocked-range": "'''IP-osoitteesi kuuluu osoitealueeseen, joka on [[m:Special:MyLanguage/Global blocks|estetty kaikissa Wikimedia-säätiön wikeissä]].'''\n\nEston asetti käyttäjä $1 ($2).\nEston syy: ''$3''.\n\n* Esto alkoi: $4\n* Esto päättyy: $5\n\nNykyinen IP-osoitteesi on $6, ja estetty osoitealue on $7.\nJos aiot kysyä estosta, liitä mukaan kaikki yllä olevat tiedot.\n\nJos uskot eston olevan erheellinen, löydät lisätietoa ja ohjeita järjestelmänlaajuiselta käytäntösivulta [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]].\nMuussa tapauksessa, jos haluat keskustella estosta, kirjoita [[m:Steward requests/Global|eston arviointipyyntö  Meta-Wikissä]] tai lähetä sähköpostia [[m:Special:MyLanguage/Stewards|ylivalvojien]] [[m:Special:MyLanguage/OTRS|OTRS]]-listalle <kbd>stewards@wikimedia.org</kbd> ja liitä mukaan yllä olevat tiedot.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yksi tai useampia käyttämäsi välityspalvelin on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston antoi $1 ($2).\nEston syy oli ''$3''.\n\n* Eston alkamisajankohta: $4\n* Eston päättymisajankohta: $5\n\nEstetyn välityspalvelimen osoite oli $6.\nLiitä kaikki yllä olevat tiedot mahdollisiin kyselyihisi.\n\nJos uskot, että sinut on estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]]. Muutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikiin]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/fi",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Tietosuojakäytäntö]",

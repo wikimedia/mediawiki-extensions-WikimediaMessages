@@ -14,7 +14,8 @@
 			"Srđan",
 			"Zoranzoki21",
 			"Жељко Тодоровић",
-			"Сербијана"
+			"Сербијана",
+			"MinecraftAustralia"
 		]
 	},
 	"wikimediamessages-desc": "Poruke specifične za Vikimediju.",
@@ -174,5 +175,6 @@
 	"eri-rcfilters-tour-confirm-description": "Možete otvoriti <strong>stranicu za beta mogućnosti</strong> da biste dali povratne informacije ili isključili ovu mogućnost.",
 	"wikimedia-centralauth-contribs-locked": "Ovaj nalog je globalno zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1]].",
 	"right-viewdeletedfile": "pregledanje obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
+	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }

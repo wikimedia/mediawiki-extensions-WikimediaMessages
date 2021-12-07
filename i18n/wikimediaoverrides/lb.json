@@ -3,10 +3,11 @@
 		"authors": [
 			"Nemo bis",
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Les Meloures"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Visiteuren op dëser Wiki déi Är IP-Adress benotzt hunn, hunn {{PLURAL:$1|ee Benotzerkont|$1 Benotzerkonten}} an de leschte Deeg ugeluecht. Dat ass de Maximum deen an deem Zäitraum erlaabt ass. Dofir kënne Benotzer déi dës IP-Adress benotzen den Ament keng nei Benotzerkonte méi uleeën.\n\nWann Dir bei engem Evenement sidd op deem d'Matmaache bei Wikimedia-Projeten am Fokus steet, da kuckt wgl. [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Ufroe fir temporär d'Limit fir IP-Adressen ze héijen]] fir z ehëllefen dëse Problem ze léisen.",
+	"wikimedia-acct_creation_throttle_hit": "Visiteuren op dëser Wiki déi Är IP-Adress benotzt hunn, hunn {{PLURAL:$1|ee Benotzerkont|$1 Benotzerkonten}} an de leschte Deeg ugeluecht. Dat ass de Maximum deen an deem Zäitraum erlaabt ass. Dofir kënne Benotzer déi dës IP-Adress benotzen den Ament keng nei Benotzerkonte méi uleeën.\n\nWann Dir bei engem Evenement sidd op deem d'Matmaache bei Wikimedia-Projeten am Fokus steet, da kuckt wgl. [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Ufroe fir temporär d'Limit fir IP-Adressen ze héijen]] fir ze hëllefen dëse Probleem ze léisen.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Dir kënnt op [[m:Special:CentralAuth/$1|anere Wikimedia-Projeten, op deenen Dir matschafft]], d' Säit mat Ären Astellunge besichen, fir Är Benotzerdaten vum respektive Projet erofzelueden.",
 	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
@@ -22,7 +23,7 @@
 	"wikimedia-flow-terms-of-use-summarize": "Duerch d'Klicken op \"{{int:flow-topic-action-update-topic-summary}}\", sidd Dir mat eisen [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedéngungen] an der Verëffentlechung vun Ärem Text ënner der [https://creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA-3.0-Lizenz] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] averstanen",
 	"wikimedia-flow-terms-of-use-lock-topic": "Duerch d'Klicken op \"{{int:flow-topic-action-lock-topic}}\", sidd Dir mat eisen [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedéngungen] an der Verëffentlechung vun Ärem Text ënner der [https://creativecommons.org/licenses/by-sa/3.0 CC-BY-SA-3.0-Lizenz] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] averstanen",
 	"wikimedia-flow-terms-of-use-unlock-topic": "Duerch d'Klicken op \"{{int:flow-topic-action-unlock-topic}}\", sidd Dir mat eisen [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedéngungen] an der Verëffentlechung vun Ärem Text ënner der [https://creativecommons.org/licenses/by-sa/3.0 CC-BY-SA-3.0-Lizenz] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] averstanen",
-	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Problem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo grad ugeluecht hutt, da loggt Iech wgl. aus a loggt Iech nees an, a probéiert dann nach eng Kéier fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo grad ugeluecht hutt da besicht wgl. een anere Wikimedia-Site wärend Dir ageloggt sidd - sou wéi [https://meta.wikimedia.org/ meta.wikimedia.org] — a probéiert dann nach eng Kéier fir d'App z'autoriséieren. (Feelercode: E008)",
+	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Probleem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo grad ugeluecht hutt, da loggt Iech wgl. aus a loggt Iech nees an, a probéiert dann nach eng Kéier fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo grad ugeluecht hutt da besicht wgl. een anere Wikimedia-Site wärend Dir ageloggt sidd - sou wéi [https://meta.wikimedia.org/ meta.wikimedia.org] — a probéiert dann nach eng Kéier fir d'App z'autoriséieren. (Feelercode: E008)",
 	"wikimedia-sitematrix": "Lëscht vun de Wikimedia-Wikien",
 	"wikimedia-sitematrix-others": "Aner Wikimedia-Projeten",
 	"wikimedia-sitematrix-summary": "Op dëser Spezialsäit stinn all Wikimedia Wikien.",

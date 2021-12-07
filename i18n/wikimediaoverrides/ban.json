@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chinamoonroll"
+		]
+	},
+	"wikimedia-acct_creation_throttle_hit": "Pangrauh wiki puniki sampun ngardi {{PLURAL:$1|1 akun|$1 akun}} nganggén alamat IP ragané lami ipun 24 jam pungkur, sané manados akéh pangardian maksimum sané kalugra ring kala puniki. Asapunika, pangrauh sané nganggén IP puniki ngaranayang pangardian akun tan prasida langkung saking mangkin.\n\nPinaka ragané magenah ring acara sané ngadeleng majeng pituut nuju proyék Wikimédia, durus cingak [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Nunas panangguhan ajebos wates IP]] antuk ngawantuk muputang pikobet puniki.",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(wantu tiang milih)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Tan prasida nyingakin gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Nunas kardiang akun]]",
+	"wikimedia-centralauth-groupname": "Yayasan Wikimédia",
+	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
+	"wikimedia-sitematrix": "Lis Wikimédia wiki",
+	"wikimedia-sitematrix-others": "Proyék Wikimédia liyanan",
+	"wikimedia-sitematrix-summary": "Puniki lis samian kaca kusus wiki Wikimédia"
+}

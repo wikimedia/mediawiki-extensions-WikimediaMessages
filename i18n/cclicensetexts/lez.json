@@ -6,5 +6,9 @@
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуция",
-	"wm-license-cc-free-to-share-header": "ахъаюн"
+	"wm-license-cc-free-to-share-header": "ахъаюн",
+	"wm-license-cc-free-to-share-text": "и эсер копия авун, чукӀурун ва ахъаюн",
+	"wm-license-cc-free-to-remix-text": "и эсер масакӀа кхьин",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
+	"wm-license-cc-conditions-share_alike-header": "гьа са шартӀаралди чукӀурун"
 }
