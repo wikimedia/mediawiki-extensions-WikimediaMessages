@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jumpy01",
 			"Jun Misugi",
 			"MuratTheTurkish",
 			"Nemo bis",
@@ -15,5 +16,6 @@
 	"wikibase-sitelinks-wikinews": "Wikinuvità",
 	"wikibase-sitelinks-wikisource": "Wikifonte",
 	"wikibase-sitelinks-wikivoyage": "Wikivïaghju",
+	"wikibase-otherprojects-wiktionary": "Wikizziunariu",
 	"wikimedia-statslink": "Statìstiche"
 }

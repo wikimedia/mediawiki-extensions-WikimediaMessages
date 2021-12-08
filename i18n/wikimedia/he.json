@@ -327,7 +327,7 @@
 	"action-editautoreviewprotected": "לערוך דפים שמוגנים ברמת \"{{int:protect-level-editautoreviewprotected}}\"",
 	"protect-level-editautopatrolprotected": "רק בדוקי עריכות אוטומטית מורשים",
 	"restriction-level-editautopatrolprotected": "הגנה לבדוקי עריכות אוטומטית",
-	"right-editautopatrolprotected": "עריכת דפים שמוגנים ברמת \"{{int:protect-level-editautopatrolprotected}}\"",
+	"right-editautopatrolprotected": "עריכת דפים המוגנים ברמת \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "לערוך דפים שמוגנים ברמת \"{{int:protect-level-editautopatrolprotected}}\"",
 	"protect-level-edittrustedprotected": "לאפשר רק למשתמשים אמינים",
 	"restriction-level-edittrustedprotected": "מוגן למשתמשים אמינים",
