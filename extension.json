@@ -34,6 +34,9 @@
 		"mediawiki.org-copyright",
 		"wikimedia-commons-copyright",
 		"wikidata-copyright",
+		"wikifunctions-site-footer-copyright",
+		"wikifunctions-edit-copyrightwarning-function",
+		"wikifunctions-edit-copyrightwarning-implementation",
 		"wikimedia-feedback-termsofuse"
 	],
 	"AutoloadNamespaces": {
@@ -116,7 +119,7 @@
 	"config": {
 		"WikimediaMessagesLicensing": {
 			"value": "standard",
-			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'mediawiki', 'wikidata', 'wikinews'"
+			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'mediawiki', 'wikidata', 'wikinews', 'wikifunctions'"
 		}
 	},
 	"manifest_version": 2

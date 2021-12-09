@@ -214,6 +214,9 @@ class Hooks implements
 				case 'wikidata':
 					$lcKey = 'wikidata-mobile-license-links';
 					break;
+				case 'wikifunctions':
+					$lcKey = 'wikifunctions-mobile-license-links';
+					break;
 				case 'commons':
 				case 'standard':
 					$lcKey = 'wikimedia-mobile-license-links';
@@ -319,6 +322,11 @@ class Hooks implements
 			case 'wikinews':
 				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
 				break;
+			case 'wikifunctions':
+				// Wikifunctions like Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL. The data is
+				// under CC0. The code is under Apache 2.0.
+				$msg = 'wikifunctions-site-footer-copyright';
+				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
@@ -337,7 +345,8 @@ class Hooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
-				// Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL.
+			case 'wikifunctions':
+				// Wikidata and Wikifunctions are licensed under CC-BY-SA 3.0 only, no GFDL.
 				$msg = [ 'wikimedia-copyrightwarning-ccbysa30only' ];
 				break;
 			case 'mediawiki':
@@ -383,6 +392,11 @@ class Hooks implements
 			case 'wikinews':
 				// Use the default MobileFrontend message.
 				break;
+			case 'wikifunctions':
+				// Wikifunctions is licensed under CC-BY-SA 3.0 only, no GFDL. The data is under CC0.
+				// The code is under Apache 2.0.
+				$msg = 'wikifunctions-site-footer-copyright';
+				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
@@ -402,6 +416,7 @@ class Hooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
+			case 'wikifunctions':
 				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
 				$rightsUrl = $config->get( 'RightsUrl' );
 				$rightsText = 'Creative Commons Attribution-Share Alike 3.0';
@@ -443,6 +458,7 @@ class Hooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
+			case 'wikifunctions':
 				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
 				$rightsUrl = $config->get( 'RightsUrl' );
 				$rightsText = 'Creative Commons Attribution-Share Alike 3.0';
