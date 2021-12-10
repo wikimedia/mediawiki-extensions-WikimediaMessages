@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Chinneeb",
 			"MuratTheTurkish",
 			"Sembuk",
@@ -21,6 +22,7 @@
 	"group-steward-member": "үйлчлэгч",
 	"grouppage-steward": "m:Stewards/mn",
 	"wikibase-sitelinks-wikinews": "Энэ зүйлтэй холбоотой Wikinews -ын хуудас",
+	"wikibase-sitelinks-wikivoyage": "Викиаялал",
 	"wikimedia-developers": "Хөгжүүлэгчид",
 	"right-superprotect": "Super protection төвшинг өөрчлөх",
 	"protect-level-superprotect": "Superprotect -тэй хэрэглэгчидыг зөвшөөрөх",

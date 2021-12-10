@@ -343,5 +343,10 @@
 	"action-edit-legal": "уредување на страници со потенцијално незаконски последици",
 	"ext-quicksurveys-tst-internal-survey-question": "Дали во изминатите 30 дена сте се почувствувале небезбедно или непријатно учествувајќи на {{SITENAME}}?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Не"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Не",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Дали во изминатите 30 дена сте се почувствувале небезбедно или непријатно учествувајќи на {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не знам",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Оваа анонимна анкета ја спроведува Фондацијата Викимедија. [https://meta.wikimedia.org/wiki/Community_Safety Прочитајте повеќе] или погледајте ја [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement изјавата за лични податоци]."
 }
