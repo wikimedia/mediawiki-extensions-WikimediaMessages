@@ -359,7 +359,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "In the last 30 days, have you felt unsafe or uncomfortable contributing to {{SITENAME}}?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Yes",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "In the last 30 days, have you felt unsafe or uncomfortable contributing to {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "In the last 30 days, have you felt unsafe or uncomfortable contributing to {{SITENAME}}?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Yes",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "I'm not sure",
