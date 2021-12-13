@@ -11,7 +11,9 @@
 			"Nemo bis",
 			"Savh",
 			"Toliño",
-			"Xosé"
+			"Xosé",
+			"ArenaL5",
+			"MuratTheTurkish"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicas da Wikimedia",
@@ -178,7 +180,7 @@
 	"group-staff-member": "{{GENDER:$1|membro do persoal}}",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
-	"grouppage-steward": "m:Stewards",
+	"grouppage-steward": "m:Stewards/gl",
 	"group-sysadmin": "Administradores do sistema",
 	"group-sysadmin-member": "{{GENDER:$1|administrador|administradora}} do sistema",
 	"group-translationadmin": "Administradores de tradución",
@@ -193,8 +195,8 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Soporte e Seguridade WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usado para o filtro de abuso global 110.",
-	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
-	"tag-AWB-description": "Edicións feitas a través de [[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
+	"tag-AWB-description": "Edicións feitas a través de [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:De Wikcionario\nb:De Wikilibros\nn:De Wikinoticias\nq:De Wikiquote\ns:De Wikisource\nv:De Wikiversidade\nvoy:De Wikiviaxes",
 	"wikimedia-copyright": "Todo o texto está dispoñible baixo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.gl\">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pódense aplicar termos adicionais. Consulte os <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/gl\">termos de uso</a> para obter máis información.",
 	"wikidata-copyright": "Todos os datos estruturados dos espazos de nomes principal e de propiedade están dispoñibles baixo a <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.gl\" title=\"Definición da licenza Creative Commons CC0\">licenza Creative Commons CC0</a>;\no texto presente no resto de espazos de nomes está dispoñible baixo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.gl\" title=\"Definición da licenza Creative Commons recoñecemento compartir igual\">licenza Creative Commons recoñecemento compartir igual</a>;\npódense aplicar termos adicionais.\nConsulte os <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/gl\" title=\"Termos de uso da Fundación Wikimedia\">termos de uso</a> para obter máis información.",
@@ -278,6 +280,7 @@
 	"wikimedia-centralauth-contribs-locked": "Esta conta está bloqueada globalmente.\nVexa os [[m:Special:CentralAuth/$1|detalles globais da conta]] para máis información.",
 	"right-viewdeletedfile": "Ver ficheiros e páxinas borradas nos espazos de nomes {{ns:file}} e {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Elección da Xunta",
+	"wikimedia-statslink": "Estatísticas",
 	"wikimedia-cookiestatement": "Declaración de cookies",
 	"querypage-updates-half-monthly": "As actualizacións para esta páxina realízanse dúas veces por mes."
 }

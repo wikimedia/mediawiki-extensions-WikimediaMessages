@@ -8,7 +8,9 @@
 			"Nemo bis",
 			"StephDC",
 			"Yanteng3",
-			"逆襲的天邪鬼"
+			"逆襲的天邪鬼",
+			"LaMagiaaa",
+			"列维劳德"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特集",
@@ -17,6 +19,9 @@
 	"nstab-creator": "立者",
 	"group-accountcreator": "立簿者",
 	"group-accountcreator-member": "{{GENDER:$1|立簿者}}",
+	"group-confirmed": "證簿",
+	"group-confirmed-member": "{{GENDER:$1|證簿}}",
+	"grouppage-confirmed": "{{ns:project}}:證簿",
 	"wikimedia-copyright": "凡我維基之文，悉為<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">共享創意授權</a>。翻印增刪，皆須引據，並同道為之。然條款繁多，不一而足。\n請閱<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">全文</a>，以得其詳。",
 	"wikimedia-copyrightwarning": "《維基大典》，奉《[http://creativecommons.org/licenses/by-sa/3.0/ 共享創意]》、《革奴自由文檔》授權以行，增修刪改，皆無異議。惟所取用，務請引據。",
 	"wikibase-repo-name": "維基數據",
@@ -29,5 +34,6 @@
 	"wikibase-otherprojects-meta": "維基中樞",
 	"wikimedia-developers": "司空津逮",
 	"interlanguage-link-commons": "維基共享",
+	"wikimedia-statslink": "彙統",
 	"wikimedia-cookiestatement": "鑑識聲明"
 }

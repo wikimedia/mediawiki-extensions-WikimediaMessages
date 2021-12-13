@@ -7,7 +7,8 @@
 			"Spiritia",
 			"StanProg",
 			"Stanqo",
-			"Turin"
+			"Turin",
+			"YavBav09"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:bg:Криейтив Комънс",
@@ -187,6 +188,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [https://creativecommons.org/licenses/sa/1.0/il/deed.bg Споделяне на споделеното 1.0 Финландия].",
 	"wm-license-cc-sa-1.0-nl-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [https://creativecommons.org/licenses/sa/1.0/nl/deed.bg Споделяне на споделеното 1.0 Холандия].",
 	"wm-license-cc-sa-2.0-jp-text": "Този файл се разпространява под лиценза [[{{int:wm-license-cc-wiki-link}}|Криейтив Комънс]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.bg Споделяне на споделеното 2.0 Япония].",
+	"wm-license-cc-zero-text": "Този файл е достъпен под лиценза [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/publicdomain/zero/1.0/deed.bg CC0 1.0 Универсален Посвещение на публичните домейни].",
 	"wm-license-cc-free": "Можете свободно:",
 	"wm-license-cc-free-to-share-header": "да споделяте",
 	"wm-license-cc-free-to-share-text": "да копирате, разпространявате и излъчвате произведението",

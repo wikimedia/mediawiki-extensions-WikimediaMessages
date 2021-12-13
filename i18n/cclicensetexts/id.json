@@ -10,7 +10,8 @@
 			"Iwan Novirion",
 			"Kenrick95",
 			"Multichill",
-			"Rachmat04"
+			"Rachmat04",
+			"Daud I.F. Argana"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:id:Creative Commons",
@@ -109,6 +110,7 @@
 	"wm-license-cc-by-3.0-ug-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/ug/deed.id Atribusi 3.0 Uganda].",
 	"wm-license-cc-by-3.0-us-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/us/deed.id Atribusi 3.0 Amerika Serikat].",
 	"wm-license-cc-by-3.0-vn-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/vn/deed.id Atribusi 3.0 Vietnam].",
+	"wm-license-cc-by-3.0-za-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/za/deed.id Atribusi 3.0 Afrika Selatan].",
 	"wm-license-cc-by-4.0-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/4.0/deed.id Atribusi 4.0 Internasional].",
 	"wm-license-cc-by-sa-1.0-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/1.0/deed.id Atribusi-Berbagi Serupa 1.0 Generik]",
 	"wm-license-cc-by-sa-1.0-fi-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/1.0/fi/deed.id Atribusi-Berbagi Serupa 1.0 Finlandia].",
@@ -205,6 +207,7 @@
 	"wm-license-cc-by-sa-3.0-ug-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ug/deed.id Atribusi-Berbagi Serupa 3.0 Uganda].",
 	"wm-license-cc-by-sa-3.0-us-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/us/deed.id Atribusi-Berbagi Serupa 3.0 Amerika Serikat].",
 	"wm-license-cc-by-sa-3.0-vn-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/vn/deed.id Atribusi-Berbagi Serupa 3.0 Vietnam].",
+	"wm-license-cc-by-sa-3.0-za-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.id Atribusi-Berbagi Serupa 3.0 Afrika Selatan].",
 	"wm-license-cc-by-sa-4.0-text": "Berkas ini dilisensikan di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/4.0/deed.id Atribusi-Berbagi Serupa 4.0 Internasional].",
 	"wm-license-cc-sa-1.0-text": "Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/deed.id Berbagi Serupa 1.0 Generik].",
 	"wm-license-cc-sa-1.0-fi-text": "Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/fi/deed.id Berbagi Serupa 1.0 Finlandia].",
@@ -212,15 +215,15 @@
 	"wm-license-cc-sa-2.0-jp-text": "Berkas ini berlisensi di bawah lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.id Berbagi Serupa 2.0 Jepang].",
 	"wm-license-cc-zero-text": "Berkas ini dilepaskan di bawah [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Dedikasi Domain Publik Universal] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-zero-explanation": "Orang yang mengaitkan suatu karya dengan dokumen ini telah mendedikasikan karyanya sebagai [[{{int:wm-license-pd-wiki-link}}|domain publik]] dengan mengabaikan semua hak ciptanya di seluruh dunia menurut hukum hak cipta, termasuk semua hak yang terkait dan berhubungan, sejauh yang diakui hukum. Anda dapat menyalin, menyebarkan, dan mempertunjukkan karya, bahkan untuk tujuan komersial, tanpa meminta izin.",
-	"wm-license-cc-free": "Anda diperbolehkan:",
-	"wm-license-cc-free-to-share-header": "Berbagi",
-	"wm-license-cc-free-to-share-text": "menyalin dan menyebarluaskan kembali materi ini dalam bentuk atau format apa pun;",
-	"wm-license-cc-free-to-remix-header": "Adaptasi",
-	"wm-license-cc-free-to-remix-text": "menggubah, mengubah, dan membuat turunan dari materi ini",
+	"wm-license-cc-free": "Anda diizinkan:",
+	"wm-license-cc-free-to-share-header": "untuk berbagi",
+	"wm-license-cc-free-to-share-text": "untuk menyalin, mendistribusikan dan memindahkan karya ini",
+	"wm-license-cc-free-to-remix-header": "untuk menggubah",
+	"wm-license-cc-free-to-remix-text": "untuk mengadaptasi karya ini",
 	"wm-license-cc-conditions": "Berdasarkan ketentuan berikut:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
-	"wm-license-cc-conditions-attribution-text": "Anda harus mencantumkan pengakuan yang sesuai, memberikan pranala ke lisensi lisensi, dan memberi tahu bila ada perubahan. Anda dapat melakukannya melalui cara yang Anda inginkan, namun tidak menyatakan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.",
-	"wm-license-cc-conditions-share_alike-header": "BerbagiSerupa",
+	"wm-license-cc-conditions-attribution-text": "Anda harus mencantumkan atribusi yang sesuai, memberikan pranala ke lisensi, dan memberi tahu bila ada perubahan. Anda dapat melakukannya melalui cara yang Anda inginkan, namun tidak menyatakan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.",
+	"wm-license-cc-conditions-share_alike-header": "berbagi serupa",
 	"wm-license-cc-conditions-share_alike-text": "Apabila Anda menggubah, mengubah, atau membuat turunan dari materi ini, Anda harus menyebarluaskan kontribusi Anda di bawah [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses lisensi yang sama] seperti lisensi pada materi asli.",
 	"wm-license-cc-pd-mark-text": "Berkas ini telah diidentifikasi bebas dari pembatasan menurut hukum hak cipta termasuk semua hak terkait dan relevan."
 }

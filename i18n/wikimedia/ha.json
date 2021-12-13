@@ -2,11 +2,23 @@
 	"@metadata": {
 		"authors": [
 			"Ammarpad",
-			"DonCamillo"
+			"DonCamillo",
+			"Aliyu shaba",
+			"Em-em",
+			"Kambai Akau"
 		]
 	},
 	"sitesupport": "Ba da kyauta",
 	"tooltip-n-sitesupport": "Tallafa mana",
 	"wikimedia-copyright": "An samar da muƙaloli a ƙarƙashin lasisin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; mai yiwuwa da kwai sauran sharudda. Ku duba <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use\">Ka'idojin Amfani</a> na Gidauniyar Wikimedia domin karin bayani.",
-	"wikimedia-copyrightwarning": "Idan kuka adana wannan canji, yana nufin kun yarda da [https://wikimediafoundation.org/wiki/Terms_of_Use Ƙa'idojin Amfani], sannan kun amince baki ɗaya da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lasisin CC BY-SA 3.0] da kuma na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Kun yarda cewa adireshin yanar gizo ya isa matsayin shaidar asalin bayanai a lasisin Creative Commons."
+	"wikimedia-copyrightwarning": "Idan kuka adana wannan canji, yana nufin kun yarda da [https://wikimediafoundation.org/wiki/Terms_of_Use Ƙa'idojin Amfani], sannan kun amince baki ɗaya da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lasisin CC BY-SA 3.0] da kuma na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Kun yarda cewa adireshin yanar gizo ya isa matsayin shaidar asalin bayanai a lasisin Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Magina",
+	"wikimedia-globalblocking-ipblocked": "'''Adireshin IP ɗin ku an [[m:Special:MyLanguage/Global blocks|kulle ta a dukkan wikis]].'''\n\nKullewa daga ma'aikaci $1 ($2).\nDalilin da aka bayar shi ne ''$3''.\n\n* Fara kullewa: $4\n* Ƙarshen kullewa: $5\n\nAdireshin ku na IP shi ne $6.\nKu sanya dukkan bayanin dake sama a ko'ina zaku nemi wani abu.\n\nIdan kun yarda an kulle ku da kuskure ne, kuna iya samun ƙarin bayanai da yadda zaku yi a [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nKo kuma, dan tattaunawa akan kullewar [[m:Steward requests/Global|yi ƙara dan a bibiya a Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Daya ko dayawa daga cikin servers da ku kayi amfani da su an [[m:Special:MyLanguage/Global blocks|kulle ta a dukkan wikis]].'''\n\nKullewa daga ma'aikaci $1 ($2).\nDalilin da aka bayar shi ne ''$3''.\n\n* Fara kullewa: $4\n* Ƙarshen kullewa: $5\n\nAdireshin ku na IP shi ne $6.\nKu sanya dukkan bayanin dake sama a ko'ina zaku nemi wani abu.\n\nIdan kun yarda an kulle ku da kuskure ne, kuna iya samun ƙarin bayanai da yadda zaku yi a [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nKo kuma, dan tattaunawa akan kullewar [[m:Steward requests/Global|yi ƙara dan a bibiya a Meta-Wiki]].",
+	"wikimedia-statslink": "Ƙididdiga",
+	"wikimedia-cookiestatement": "Bayanin Kuki"
 }

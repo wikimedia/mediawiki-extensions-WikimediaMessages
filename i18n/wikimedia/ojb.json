@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aandeginini"
+		]
+	},
+	"sitesupport": "Miizh-zhooniyaa",
+	"tooltip-n-sitesupport": "Wiiji' ginawiind",
+	"wikimedia-copyright": "Wa'aw ozhibii'igan waabam anaamayi'ii <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nnawaj inaakonigewin daa-aawan.\nWaabam <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> nawaj mamizhim.",
+	"wikimedia-copyrightwarning": "Apii wiin ishkon aanji', wiin debwetaw biindig [https://foundation.wikimedia.org/wiki/Terms_of_Use Aabaji' inaakonigewin], gaye giin gaawesaa aanji' debwetaw miizh gi= wiiji' anaamayi'ii [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Mazina'igaans] gaye [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL (GNU gidiskin mazina'igaans)].\nGi=debwetaw biiwaabiko-zagapijigan gemaa Waasamoo-asabing'izhinikaazowin ayaan de nisidawinan anaamayi'ii  Ozhitoon Maamawi mazina'igaans.",
+	"wikibase-sitelinks-wikinews": "Wigibiidaajimowin",
+	"wikibase-sitelinks-wikiquote": "Wigi-wegonen-wiinawaa-idan",
+	"wikibase-sitelinks-wikisource": "Wigiondaadad",
+	"wikibase-sitelinks-wikivoyage": "Wigibabaamaadizi",
+	"wikimedia-developers": "Gikendaaso-wiiji-mazinaabikiwebinigan",
+	"wikimedia-globalblocking-ipblocked": "'''Gi  waasamoo-asabing ganoozh ayaa [[m:Special:MyLanguage/Global blocks|giba' biindig akina wigi]].'''\n\nGiba' ozhotoon biindig $1 ($2).\nOnji ayaa ''$3''.\n\n* Maaji giba': $4\n* Ishkwaataa giba': $5\n\nGi aazha waasamoo-asabing ganoozh biindig $6.\nDaga dagwagindan ishpayi'ii akina mamizhim wiiji biindig gagwedwe giin ozhitoon.\n\nIndigo giin debweyendam giin giba' biindig bichi, giin mikan nawaj mamizhim gaye gikinootaw biindig [[m:Special:MyLanguage/No open proxies|Gaawiin baakise wasa waasamoo-asabing ganoozh]] miziwekamig inaakonigewin.\nIndigo gaawiin, izhi gigiido gaba' dago [[m:Steward requests/Global|agwaakwa'an gagwedwe biindig waabam-miinawaa biindig Gichi-wigi]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Bezhig gema nawaj wasa waasamoo-asabing ganoozh mamizhim-zhooniyaa-makak aabaji' biindig giin gagwedwe ayaa [[m:Special:MyLanguage/Global blocks|miziwekamig giba']].'''\n\nGiba' gii ozhitoon biindig $1 ($2).\nOnji ayaa ''$3''.\n\n* Maajii giba': $4\n* Ishkwe-ayi'ii giba': $5\n\nGiba' waasamoo-asabing ganoozh ayaa $6.\nDago dagwagindan akina ishpayi'ii mamizhim biindig gagwedwe giin ozhitoon.\n\nIndigo giin debweyendam giin giba' biindig bichi, giin mikan nawaj mamizhim gaye gikinootaw biindig [[m:Special:MyLanguage/No open proxies|Gaawiin baakise wasa waasamoo-asabing ganoozh]] miziwekamig inaakonigewin.\nIndigo gaawiin, izhi gigiido gaba' dago [[m:Steward requests/Global|agwaakwa'an gagwedwe biindig waabam-miinawaa biindig Gichi-wigi]].",
+	"wikimedia-statslink": "Gikinawaabam-asigagindaaso",
+	"wikimedia-cookiestatement": "Bakwezhigaans idan"
+}

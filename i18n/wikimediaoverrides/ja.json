@@ -10,7 +10,11 @@
 			"Shirayuki",
 			"Sujiniku",
 			"TMg",
-			"Tmv"
+			"Tmv",
+			"Foomin10",
+			"LaMagiaaa",
+			"SaldırganSincap",
+			"Siglite3"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
@@ -22,11 +26,11 @@
 	"wikimedia-flow-terms-of-use-summarize": "「{{int:flow-topic-action-update-topic-summary}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-lock-topic": "「{{int:flow-topic-action-lock-topic}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-unlock-topic": "「{{int:flow-topic-action-unlock-topic}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
-	"wikimedia-globalrenamequeue-email-body-approved": "利用者名\"{{GENDER:$1|$1}}\" を\"{{GENDER:$1|$2}}\" へ変更する要求が承認されました。一旦完了すると, 新しい利用者名と旧来のパスワードでログインすることができます。ウィキメディア・プロジェクトに参加していただきありがとうございます。",
-	"wikimedia-globalrenamequeue-email-body-rejected": "利用者名\"{{GENDER:$1|$1}}\" から\"{{GENDER:$1|$2}}\" への変更を完了できませんでした。\n\nNote: $3\n\n詳細については以下のヘルプページをご覧ください。：<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. <br />\n利用者名変更の要望について議論をする場合にはこちらのページにご投稿いただけます。: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. <br />\nまず、現在のあなたのアカウント名にログインしていなければなりません。",
+	"wikimedia-globalrenamequeue-email-body-approved": "利用者名\"{{GENDER:$1|$1}}\" を\"{{GENDER:$1|$2}}\" へ変更する要求が承認されました。一旦完了すると, 新しい利用者名と旧来のパスワードでログインできます。ウィキメディア・プロジェクトに参加していただきありがとうございます。",
+	"wikimedia-globalrenamequeue-email-body-rejected": "利用者名\"{{GENDER:$1|$1}}\" から\"{{GENDER:$1|$2}}\" への変更を完了できませんでした。\n\n注意: $3\n\n詳細については以下のヘルプページをご覧ください：<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>。<br />\n利用者名変更の要望について議論をする場合にはこちらのページにご投稿いただけます: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>。<br />\nその場合もあなたは現在のアカウント名でログインする必要があります。",
 	"wikimedia-interfaceadmin-info": "サイト全体のCSS/JS/JSONの編集における許可は、最近、[[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]グループのメンバーに限定されました。詳細は[[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS]]を参照してください。",
-	"wikimedia-sulrenamewarning-usenew": "これ以降はあなたは新規の利用者名<strong>$1</strong>を使用してログインする必要があります。新規利用者名はウィキメディアでの全てのプロジェクトにおいてあなたに固有のものであり、あるプロジェクトにログインした後にその他のプロジェクトを訪問した場合、アカウントもともに移動します。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]には、よく寄せられる質問の一覧と同様に、シングルユーザー・ログインについてさらなる情報があります。もし自分の[[Special:Preferences|個人設定]]でメールのアドレスを更新したりパスワードを変更しなければならないとすれば、今が良い機会かもしれません。\n\n異なるアカウント名をリクエストするには、[[Special:GlobalRenameRequest]]を訪問してください。\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
+	"wikimedia-sulrenamewarning-usenew": "これ以降、あなたは新しい利用者名<strong>$1</strong>を使ってログインする必要があります。新しい利用者名はウィキメディアでの全プロジェクトにおいてあなたに固有のものであり、あるプロジェクトにログインしてから他のプロジェクトを訪れると、アカウントは引き継がれます。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]にはシングルユーザー・ログインについてのさらなる情報とともに、よく寄せられる質問の一覧があります。もし自分の[[Special:Preferences|個人設定]]でメールアドレスを更新したりパスワードを変更する必要があるのなら、今がその良い機会かもしれません。\n\n異なるアカウント名をリクエストするには、[[Special:GlobalRenameRequest]]をご覧ください。\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
 	"wikimedia-ipb-confirmhideuser": "「利用者名の秘匿」を有効にしてブロックしようとしています。実行すると、このウィキにあるすべての一覧や記録項目で利用者名が表示されません。本当に実行しますか?\n\nウィキメディアのすべてのウィキで利用者名の秘匿が必要な場合、[[m:Special:MyLanguage/Stewards|スチュワード]]宛てに[[m:Special:EmailUser/Wikimedia_Stewards|on-wiki メール]]を送るか、またはこちらのアドレス<kbd>stewards@wikimedia.org</kbd>に連絡をしてください。よろしくお願いします。",
-	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成することができます。",
+	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成できます。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]"
 }

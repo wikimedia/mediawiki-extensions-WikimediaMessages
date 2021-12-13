@@ -14,7 +14,8 @@
 			"ShajiA",
 			"Shijualex",
 			"Vssun",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Jinoytommanjaly"
 		]
 	},
 	"wikimediamessages-desc": "വിക്കിമീഡിയയുമായി ബന്ധപ്പെട്ട സന്ദേശങ്ങൾ",
@@ -109,6 +110,8 @@
 	"group-patroller": "റോന്തു ചുറ്റുന്നവർ",
 	"group-patroller-member": "{{GENDER:$1|റോന്തു ചുറ്റുന്നവർ}}",
 	"grouppage-patroller": "{{ns:project}}:റോന്തു ചുറ്റുന്നവർ",
+	"group-propertycreator": "പ്രോപ്പർട്ടി സ്രഷ്‌ടാക്കൾ",
+	"grouppage-propertycreator": "പ്രോജക്റ്റ്:പ്രോപ്പർട്ടി സ്രഷ്‌ടാക്കൾ",
 	"group-researcher": "ഗവേഷകർ",
 	"group-researcher-member": "{{GENDER:$1|ഗവേഷകൻ|ഗവേഷക}}",
 	"grouppage-researcher": "{{ns:project}}:ഗവേഷകർ",

@@ -1,15 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Joao Xavier"
+			"Joao Xavier",
+			"JSantos"
 		]
 	},
 	"project-localized-name-cawiki": "Kataluniana Wikipedio",
+	"project-localized-name-cawikisource": "Kataluniana ''Wikisource''",
 	"project-localized-name-commonswiki": "Wikimedia Commons",
 	"project-localized-name-cswikiversity": "Cheka Wikivoyajo",
 	"project-localized-name-dewikiversity": "Germana Wikivoyajo",
 	"project-localized-name-dewikivoyage": "Germana Wikivoyajo",
 	"project-localized-name-elwikivoyage": "Wikivoyajo en la Greka",
+	"project-localized-name-enwiki": "Angla Wikipedio",
+	"project-localized-name-enwikibooks": "Angla Wikilibri",
+	"project-localized-name-enwikinews": "Angla Wikinews",
+	"project-localized-name-enwikiquote": "Angla ''Wikiquote''",
+	"project-localized-name-enwikisource": "Angla ''Wikisource''",
+	"project-localized-name-enwikiversity": "Angla Wikiversitato",
 	"project-localized-name-enwikivoyage": "Angla Wikivoyajo",
 	"project-localized-name-enwiktionary": "Wikivortaro en l'Angla",
 	"project-localized-name-eswikiquote": "Wikicitaji en la Hispana",
@@ -32,6 +40,7 @@
 	"project-localized-name-jawikiversity": "Japoniana Wikivoyajo",
 	"project-localized-name-kowikiversity": "Koreana Wikivoyajo",
 	"project-localized-name-lbwiktionary": "Luxemburgiana wikivortaro",
+	"project-localized-name-lijwikisource": "Wikisource en Liguriana linguo",
 	"project-localized-name-nlwikivoyage": "Nederlandana Wikivoyajo",
 	"project-localized-name-nqowiki": "N'Ko Wikipedia",
 	"project-localized-name-plwikivoyage": "Polona Wikivoyajo",

@@ -2,17 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Crazymadlover",
-			"Gts-tg"
+			"Gts-tg",
+			"PastelKos"
 		]
 	},
 	"wm-license-book-language": "Γλῶττα",
-	"wm-license-gfdl-1.2-and-later": "Παρέχεται ἤ ἀδεία εἰς ἀντιγραφήν, διανομήν καί/ἤ ἐπεξεργασίαν τού ἔργου ὐπό τούς ὄρους τής ἀδείας χρήσεως '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Ἐκδόσεως 1.2 ἤ ὀποίας ἄλλης ἐκδόσεως ἐκδιδομένης ὐπό τοὐ [[{{int:wm-license-fsf-wiki-link}}|Ἰδρύματος Ἐλευθέρου Λογισμικού]], ἄνευ διαφοροποιημένων ἐνοτήτων, ἄνευ Κείμενα Ἐμπροσθοφύλλων, καί ἄνευ Κείμενα Ὄπισθοφύλλων. Ἔνα ἀντίγραφον τής ἀδείας περιλαμβάνεται εἴς τήν ἐνότητα τιτλοφορούμενην ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.2-and-later": "Ἔξεστί σοι ἀντιγράφειν, διανέμειν καὶ/ἢ μεταγράφειν τὸ παρὸν ἔγγραφον ὑπὸ τῶν ὅρων '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', ἐκδόσεως 1.2 ἢ ἧστινος ἄλλης ἐκδιδομένης ὑπὸ τοῦ [[{{int:wm-license-fsf-wiki-link}}|Ἱδρύματος Ἐλευθέρου Λογισμικοῦ]], ἄνευ διαφοροποιημένων ἐνοτήτων, ἄνευ κειμένων ἐξωφύλλου καὶ ὀπισθοφύλλου. Ἀντίγραφόν τι ἐστὶ τῇ ἑνότητι ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Περιγραφή",
 	"wm-license-information-source": "Πηγή",
 	"wm-license-information-date": "Ἡμερομηνία",
 	"wm-license-information-author": "Δημιουργός",
 	"wm-license-information-permission": "Ἐξουσία",
-	"wm-license-information-permission-reusing-text": "Ἔπαναχρησιμοποιώντας ἀρχείον ταύτο",
+	"wm-license-information-permission-reusing-text": "Χρᾶσθαι πάλιν τόδε τἀρχεῖο",
 	"wm-license-own-work": "Ἔργον ἐμού",
 	"wm-license-self-multiple-licenses-select": "Δύνασθαι διαλογής τῆς αδείας τῆς ὑμετέρας επιλογής."
 }

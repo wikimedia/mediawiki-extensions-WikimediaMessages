@@ -1,11 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amara-Amaziɣ"
+			"Amara-Amaziɣ",
+			"Ayour2002",
+			"Lhoussine AIT TAYFST"
 		]
 	},
-	"wm-license-information-description": "ⴰⴳⵍⴰⵎ",
-	"wm-license-information-source": "ⴰⵙⴰⴳⵎ",
-	"wm-license-information-date": "ⴰⵙⴰⴽⵓⴷ",
-	"wm-license-information-permission": "ⵜⵓⵔⴰⴳⵜ"
+	"wm-license-gfdl-1.2-and-later": "Dark turagt n ad tssnɣlt, ad tbḍut d ad tsnflt tantamt ad ddu tfadiwin n [[{{int:wm-license-gfdl-wiki-link}}|turagt jinu i tntamin tilelliyin]]''' tunɣilt 1.2 nɣ tunɣilt tamaynut akk nna tẓrg  [[{{int:wm-license-fsf-wiki-link}}|tamrslt n isuftwurn ilelliyn]], min tizuniwin armskiln, min aḍris n tasna tamzwarut n tduli d min aḍris n tasna tamggarut n tduli.Yat tunɣilt n turagt  tkcm ɣ tzuni ilan azwl ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Aglam",
+	"wm-license-information-source": "Asagm",
+	"wm-license-information-date": "Asakud",
+	"wm-license-information-author": "Amara",
+	"wm-license-information-permission": "Turagt",
+	"wm-license-information-permission-reusing-text": "Ssmrs daɣ afaylu ad",
+	"wm-license-own-work": "Tawwuri nu",
+	"wm-license-self-multiple-licenses-select": "Tzḍart ad tstit turagt nna trit."
 }

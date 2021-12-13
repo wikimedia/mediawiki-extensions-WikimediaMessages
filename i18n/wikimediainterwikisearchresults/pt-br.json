@@ -2,7 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Eduardo Addad de Oliveira",
-			"TheEduGobi"
+			"TheEduGobi",
+			"Eduardoaddad",
+			"Svjatysberega"
 		]
 	},
 	"search-interwiki-results-abwiki": "Mostrando resultados da [[:ab:|Wikipédia abcázia]].",
@@ -16,6 +18,7 @@
 	"search-interwiki-results-anwiki": "Mostrando resultados da [[:an:|Wikipédia aragonesa]].",
 	"search-interwiki-results-arcwiki": "Mostrando resultados da [[:arc:|Wikipédia assíria]].",
 	"search-interwiki-results-arwiki": "Mostrando resultados da [[:ar:|Wikipédia árabe]].",
+	"search-interwiki-results-arywiki": "Mostrando resultados da [[:ary:|Wikipédia árabe marroquina]].",
 	"search-interwiki-results-arzwiki": "Mostrando resultados da [[:arz:|Wikipédia árabe-egípcia]].",
 	"search-interwiki-results-astwiki": "Mostrando resultados da [[:ast:|Wikipédia asturiana]].",
 	"search-interwiki-results-aswiki": "Mostrando resultados da [[:as:|Wikipédia assamesa]].",

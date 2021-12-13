@@ -10,7 +10,8 @@
 			"Vahe Gharakhanyan",
 			"Xelgen",
 			"Դավիթ Սարոյան",
-			"Սահակ"
+			"Սահակ",
+			"MinecraftAustralia"
 		]
 	},
 	"sitesupport": "Նվիրաբերել",
@@ -56,6 +57,7 @@
 	"wikimediashoplink-linktext": "Վիքիպեդիայի խանութ",
 	"wikimediashoplink-link-tooltip": "Այցելել Վիքիպեդիայի խանութ",
 	"interlanguage-link-mul": "Այլ լեզուներ",
+	"interlanguage-link-sitename-mul": "Բազմալեզու {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Վիքիպեդիա",
 	"interlanguage-link-sitename-wikipedia": "Վիքիպեդիա, ազատ հանրագիտարան",
 	"interlanguage-link-commons": "Վիքիպահեստ",

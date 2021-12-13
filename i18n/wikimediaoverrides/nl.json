@@ -9,7 +9,8 @@
 			"PonkoSasuke",
 			"Siebrand",
 			"Sjoerddebruin",
-			"WhatamIdoing"
+			"WhatamIdoing",
+			"McDutchie"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bezoekers van deze wiki hebben met uw IP-adres {{PLURAL:$1|1 gebruiker|$1 gebruikers}} in de afgelopen 24 uur aangemaakt, wat het maximum aantal is voor deze tijdsperiode.\nAls resultaat kunnen bezoekers met dit IP-adres niet meer gebruikers aanmaken op dit moment.\n\nIndien u zich op een event bevind waar gefocust wordt op bijdragen aan Wikimedia projecten, zie dan  [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Tijdelijke ontziening van de IP-cap]] voor hulp bij het oplossen van dit probleem.",
@@ -19,7 +20,7 @@
 	"wikimedia-centralauth-uwbr-intro": "Op deze pagina staan gebruikers die op deze wiki hernoemd gaan worden vanwege de [[m:Single User Login finalisation announcement|afronding van single-user login]]. Meer informatie op [[m:Help:Unified login|unified login]]. Gebruikers kunnen op elk moment een hernoeming aanvragen op [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Gebruikersnamenbeleid",
-	"wikimedia-delete-toobig": "Deze pagina heeft een grote bewerkingsgeschiedenis, meer dan $1 {{PLURAL:$1|versie|versies}}.\nVerwijderen van pagina's met een zeer grote geschiedenis is beperkt om te voorkomen dat per ongeluk een verstoring van {{SITENAME}} optreed.\nNeem contact op met de [[m:Special:MyLanguage/Stewards|stewards]] op [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] om deze pagina te verwijderen.",
+	"wikimedia-delete-toobig": "Deze pagina heeft een grote bewerkingsgeschiedenis, meer dan $1 {{PLURAL:$1|versie|versies}}.\nVerwijderen van pagina's met een zeer grote geschiedenis is beperkt om te voorkomen dat per ongeluk een verstoring van {{SITENAME}} optreedt.\nNeem contact op met de [[m:Special:MyLanguage/Stewards|stewards]] op [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] om deze pagina te verwijderen.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Door op \"$1\" te klikken, gaat u akkoord met onze [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw tekst onder de [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] en [https://nl.wikipedia.org/wiki/Wikipedia:GNU-licentie_voor_vrije_documentatie GFDL]",
 	"wikimedia-feedback-termsofuse": "Ik ga akkoord met het leveren van terugkoppeling in overeenstemming met de <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/nl\" target=\"_blank\">Gebruiksvoorwaarden</a>.",
 	"wikimedia-flow-terms-of-use-new-topic": "Door te klikken op \"{{int:flow-newtopic-save}}\", gaat u akkoord met onze [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/nl Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw tekst onder de licentie [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] en [https://nl.wikipedia.org/wiki/Wikipedia:GNU-licentie_voor_vrije_documentatie GFDL].",
@@ -33,6 +34,10 @@
 	"wikimedia-interfaceadmin-info": "Rechten voor het bewerken van wikibrede CSS/JS/JSON bestanden zijn beperkt tot leden van de groep [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Ga naar [[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS]] voor meer informatie.",
 	"wikimedia-mwoauthserver-invalid-user": "Er trad een probleem op tijdens het globaal aanmelden. Als u net uw account hebt aangemaakt, probeer dan af te melden en opnieuw aan te melden en de app opnieuw te autoriseren. Als u uw account niet net hebt aangemaakt, bezoek dan [https://meta.wikimedia.org/ meta.wikimedia.org] en probeer de app opnieuw te autoriseren. (Foutcode: E008)",
 	"wikimedia-sulrenamewarning-usenew": "Vanaf nu moet u zich aanmelden met uw nieuwe gebruikersnaam <strong>$1</strong>. Uw nieuwe gebruikersnaam is uniek voor u op elk Wikimedia-project, en als u aangemeld bent op het ene project en u een ander project bezoekt, wordt uw account meegenomen. De [[:m:Special:MyLanguage/Help:Unified_login|Unified login help page]] bevat meer informatie over single-user login, alsook een lijst van veelgestelde vragen. Indien u uw e-mailadres wilt bijwerken of uw wachtwoord wilt wijzigen in uw [[Special:Preferences|voorkeuren]], dan is dit een goed moment.\n\nOm een andere gebruikersnaam aan te vragen, bezoek [[Special:GlobalRenameRequest]]. Bedankt voor het deelnemen aan Wikimedia-projecten.",
+	"wikimedia-ipb-confirmhideuser": "U staat op het punt om een verborgen gebruiker te blokkeren. Hiermee wordt de gebruikersnaam in alle lijsten en logboekregels verborgen. Weet u het zeker?\n\nAls de gebruikersnaam verborgen moet worden op alle Wikimedia wiki's, neem dan contact op met de [[m:Special:MyLanguage/Stewards|stewards]] via [[m:Special:EmailUser/Wikimedia_Stewards|e-mail op de wiki]] of via <kbd>stewards@wikimedia.org</kbd>. Bedankt.",
 	"wikimedia-urlshortener-disabled": "Korte links kunnen alleen via de pagina [[:m:Special:UrlShortener|Special:UrlShortener]] op meta.wikimedia.org worden aangemaakt.",
+	"wikimedia-apierror-urlshortener-disabled": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep naar de meta.wikimedia.org wiki.",
+	"wikimedia-urlshortener-badaccessgroups": "Korte links kunnen alleen via de pagina [[:m:Special:UrlShortener|Special:UrlShortener]] op meta.wikimedia.org worden aangemaakt.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep naar de meta.wikimedia.org wiki.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacybeleid Privacybeleid]"
 }

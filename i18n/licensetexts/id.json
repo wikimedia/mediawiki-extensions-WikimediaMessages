@@ -8,7 +8,8 @@
 			"IvanLanin",
 			"Iwan Novirion",
 			"Kenrick95",
-			"Multichill"
+			"Multichill",
+			"Daud I.F. Argana"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Pemegang hak cipta berkas ini, $1, mengizinkan orang lain untuk menggunakannya '''untuk tujuan apa pun, dengan syarat''' pemegang hak cipta disebutkan. Distribusi ulang, karya turunan, penggunaan komersial, dan penggunaan lain diizinkan.",
@@ -97,6 +98,8 @@
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:id:Angkatan Laut Amerika Serikat",
 	"wm-license-pd-usgov-noaa-text": "Berkas ini adalah karya seorang karyawan [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Badan Lautan dan Atmosfer Nasional Amerika Serikat]] yang diambil atau dibuat selama masa tugas resmi orang tersebut. Sebagai [[{{int:wm-license-pd-usgov-work-wiki-link}}|karya]] [[{{int:wm-license-pd-usgov-wiki-link}}|pemerintah federal Amerika Serikat]], berkas ini berada dalam kategori '''[[{{int:wm-license-pd-wiki-link}}|domain umum]]'''.",
 	"wm-license-pd-wiki-link": "w:id:Domain publik",
+	"wm-license-self": "Saya, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah {{PLURAL:$1|ketentuan|ketentuan-ketentuan}} berikut:",
+	"wm-license-self-with-author": "$1, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah {{PLURAL:$2|ketentuan|ketentuan-ketentuan}} berikut:",
 	"wm-license-self-one-license": "Saya, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah ketentuan berikut:",
 	"wm-license-self-one-license-with-author": "$1, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah ketentuan berikut:",
 	"wm-license-self-multiple-licenses": "Saya, pemilik hak cipta dari karya ini, dengan ini menerbitkan berkas ini di bawah ketentuan berikut:",

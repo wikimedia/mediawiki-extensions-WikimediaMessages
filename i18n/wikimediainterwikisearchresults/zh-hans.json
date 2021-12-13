@@ -2,7 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"A Chinese Wikipedian",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Yfdyh000",
+			"Zhang8569",
+			"沈澄心"
 		]
 	},
 	"search-interwiki-results-abwiki": "显示来自[[:ab:|阿布哈兹语维基百科]]的结果。",
@@ -16,6 +19,7 @@
 	"search-interwiki-results-anwiki": "显示来自[[:an:|阿拉贡语维基百科]]的结果。",
 	"search-interwiki-results-arcwiki": "显示来自[[:arc:|叙利亚语维基百科]]的结果。",
 	"search-interwiki-results-arwiki": "显示来自[[:ar:|阿拉伯语维基百科]]的结果。",
+	"search-interwiki-results-arywiki": "显示来自[[:ary:|摩洛哥阿拉伯语维基百科]]的结果。",
 	"search-interwiki-results-arzwiki": "显示来自[[:arz:|埃及阿拉伯语维基百科]]的结果。",
 	"search-interwiki-results-astwiki": "显示来自[[:ast:|阿斯图里亚斯语维基百科]]的结果。",
 	"search-interwiki-results-aswiki": "显示来自[[:as:|阿萨姆语维基百科]]的结果。",

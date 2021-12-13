@@ -4,7 +4,8 @@
 			"Botuzhaleny-sodamo",
 			"Denö",
 			"Rueter",
-			"Sura"
+			"Sura",
+			"MuratTheTurkish"
 		]
 	},
 	"sitesupport": "Лезксъярмаконь максома",
@@ -19,11 +20,13 @@
 	"grouppage-import": "{{ns:project}}:Тевень совавтыйть",
 	"group-steward": "Туросторт",
 	"group-steward-member": "туростор",
-	"grouppage-steward": "m:Туросторт",
+	"grouppage-steward": "m:Stewards/myv",
 	"group-sysadmin": "Системань администраторт",
 	"wikibase-sitelinks-wikinews": "Викикулят",
 	"wikibase-sitelinks-wikiquote": "Викицитат",
 	"wikibase-sitelinks-wikisource": "Викикундо",
 	"wikibase-sitelinks-wikivoyage": "Вики килангт",
-	"wikimedia-developers": "Кастыцят-келейгавтыцят"
+	"wikimedia-developers": "Кастыцят-келейгавтыцят",
+	"wikimedia-statslink": "Статистикат",
+	"wikimedia-cookiestatement": "Нумолонь кшитнеде ёвтамо"
 }

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"RFScott"
+		]
+	},
+	"sitesupport": "Дихава бӯвури",
+	"tooltip-n-sitesupport": "Бумбивэ бэлэчиусу",
+	"wikimedia-copyright": "Эй гисурэмбэ ичэури мутейни осини: <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">лицензии Creative Commons Attribution-ShareAlike</a>, поалдоани гой дяка холагилайни: <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Условия использования</a>.",
+	"wikimedia-copyrightwarning": "Калахавасу чихалами осини, суэ чихалайсу [https://foundation.wikimedia.org/wiki/Terms_of_Use/ru хони эйди дёбоми ая], гучи тотара гойди мурупсимбури ачаси, эй текстади чихалайсу [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Суэ чихалайсу эй гиперссылкади суэ Creative Commons колиди дёбоми чихалайсу.",
+	"wikibase-sitelinks-wikinews": "Викимэдэ",
+	"wikibase-sitelinks-wikiquote": "Вики аӈгой гисурэкэн",
+	"wikibase-sitelinks-wikisource": "Викитакто",
+	"wikibase-sitelinks-wikivoyage": "Викибэлэмди",
+	"wikimedia-developers": "Аӈгой гурун",
+	"wikimedia-globalblocking-ipblocked": "'''IP-адресасу [[m:Special:MyLanguage/Global blocks|хэм вики-проектаду камалихачи]].'''\n\nКамалихачи $1 ($2).\nХайми: ''$3''.\n\n* камалилохачи: $4 \n* халиа ая: $5 \n\nЭси IP-адресасу - $6.\n\nБай туй тахачи осини, тэй страницаду халаосу\n[[m:Special:MyLanguage/No open proxies|прокси-сервераду дёбоми ачаси]] буэ колиди.\n[[m:Steward requests/Global|нирусу, мурчигуачи]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''IP-адресасу [[m:Special:MyLanguage/Global blocks|хэм вики-проектаду камалихачи]].'''\n\nКамалихачи $1 ($2).\nХайми: ''$3''.\n\n* камалилохачи: $4 \n* халиа ая: $5 \n\nЭси IP-адресасу - $6.\n\nБай туй тахачи осини, тэй страницаду халаосу\n[[m:Special:MyLanguage/No open proxies|прокси-сервераду дёбоми ачаси]] буэ колиди.\n[[m:Steward requests/Global|нирусу, мурчигуачи]].",
+	"wikimedia-statslink": "Гой-гой дяка хаду",
+	"wikimedia-cookiestatement": "Кукивэ"
+}

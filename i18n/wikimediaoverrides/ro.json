@@ -4,11 +4,14 @@
 			"Andrei Stroe",
 			"Minisarm",
 			"Nemo bis",
-			"Strainu"
+			"Strainu",
+			"NGC 54",
+			"WebSourceContentRO"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajută-mă să aleg)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nu puteți vedea imaginea? [[{{MediaWiki:createacct-captcha-help-url}}|Cereți crearea unui cont]]",
+	"wikimedia-centralauth-login-error-locked": "<strong>Acest cont este [[m:Special:MyLanguage/Global locks|blocat la nivel global]].</strong> {{GENDER:$1|Nu vă veți}} putea conecta la niciun wiki din Wikimedia.",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica_numelui_de_utilizator",
 	"wikimedia-interfaceadmin-info": "Permisiunile pentru editarea de CSS/JS/JSON global au fost recent restricționate la membrii grupului [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Vedeți [[m:Creation of separate user group for editing sitewide CSS/JS]] pentru mai multe informații."
 }

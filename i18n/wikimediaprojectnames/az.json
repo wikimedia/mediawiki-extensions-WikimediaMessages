@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Serkanland"
+			"Serkanland",
+			"NMW03"
 		]
 	},
-	"project-localized-name-azwiki": "Azərbaycanca Vikipediya"
+	"project-localized-name-azwiki": "Azərbaycanca Vikipediya",
+	"project-localized-name-sourceswiki": "Çoxdilli Vikimənbə",
+	"project-localized-name-specieswiki": "Vikinövlər"
 }

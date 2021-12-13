@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"John Reid"
+			"John Reid",
+			"MJL"
 		]
 	},
 	"contactpage-title-requestlicense": "Trademaurk reuiss contact form",
@@ -24,7 +25,7 @@
 	"contactpage-license-request-selectmark": "Whit maurk(s) dae ye want tae uise?",
 	"contactpage-wikimedia-trademark-globe": "Wikipædia Puzzle Globe",
 	"contactpage-wikimedia-trademark-wikiwordmark": "Wikipedia wairdmaurk",
-	"contactpage-wikimedia-trademark-w": "Stylized \"W\"",
+	"contactpage-wikimedia-trademark-w": "Stylised \"W\"",
 	"contactpage-wikimedia-trademark-wikimedia": "Wikimedia Communitie",
 	"contactpage-title-licenseabuse": "Copiericht abuise contact form",
 	"contactpage-pagetext-licenseabuse": "Please uise the form ablo tae contact us aneat copiericht abuise things",

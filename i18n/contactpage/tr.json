@@ -6,7 +6,11 @@
 			"Karduelis",
 			"Rapsar",
 			"Stultiwikia",
-			"Sucsuzz"
+			"Sucsuzz",
+			"Agaafd",
+			"Joseph",
+			"MuratTheTurkish",
+			"SaldırganSincap"
 		]
 	},
 	"contactpage-title-requestlicense": "Bir lisans formu isteyin",
@@ -56,7 +60,7 @@
 	"contactpage-affcom-user-group-location-label": "'''Yer'''\n* Lütfen ülkenizi ve şehrinizi sağlayın, böylece dünyadaki kullanıcı gruplarımızı takip edebiliriz. Küresel olarak erişilebiliyorsa, sadece \"İnternet\" yazın.",
 	"contactpage-affcom-user-group-leaders-label": "'''Üç aktif Wikimedianlar'''\n* Lütfen üç grup lideri için ad, e-posta adresi ve Wikimedia kullanıcı adını girin.",
 	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Grubunuz için hangi logoyu kullanmak istiyorsunuz?",
-	"contactpage-affcom-user-group-rules-label": "'''Kullanıcı grubu kuralları'''\n* 6 aydan uzun süredir kayıtlı bir hesapta bir Wikimedia projesine 300 veya daha fazla katkısı olan en az 3 üyeniz varsa ve [[Wikimedia user groups/Agreement and code of conduct|Kullanıcı grubu sözleşmesi ve davranış kuralları]]:\n** [[wmf:Trademark policy|trademark policy|ticari marka politikasına]] uymalısınız.\n** Diğer Wikimedia kuruluşlarından bağımsızsınız\n* Bu başvuruyu gönderdikten sonra, [[Affiliations Committee|Üyelikler Komitesi]] üyesi, bir sonraki adımlarda size yardımcı olmak için kısa süre içinde sizinle iletişime geçecektir.\n* [[Wikimedia user groups|Wikimedia kullanıcı grupları]] hakkında daha fazla bilgi edinin",
+	"contactpage-affcom-user-group-rules-label": "'''Kullanıcı grubu kuralları'''\n* 6 aydan uzun süredir kayıtlı bir hesapta bir Wikimedia projesine 300 veya daha fazla katkısı olan en az 3 üyeniz varsa ve [[Wikimedia user groups/Agreement and code of conduct|Kullanıcı grubu sözleşmesi ve davranış kuralları]]:\n** [[wmf:Trademark policy|ticari marka politikasına]] uymalısınız.\n** Diğer Wikimedia kuruluşlarından bağımsızsınız\n* Bu başvuruyu gönderdikten sonra, [[Affiliations Committee|Üyelikler Komitesi]] üyesi, bir sonraki adımlarda size yardımcı olmak için kısa süre içinde sizinle iletişime geçecektir.\n* [[Wikimedia user groups|Wikimedia kullanıcı grupları]] hakkında daha fazla bilgi edinin",
 	"contactpage-affcom-user-group-terms-label": "Yukarıdaki kuralları ve [[Wikimedia user groups/Agreement and code of conduct|Kullanıcı grubu sözleşmesi ve davranış kurallarını]] okudum ve kabul ediyorum.",
 	"contactpage-affcom-user-group-logo-wm-logo": "'''''Wikimedia logosu''' kullanmak istiyorsanız, [[Special:Contact/requestlicense|ticari marka lisansı isteyin]].''",
 	"contactpage-affcom-user-group-logo-community": "Wikimedia topluluk logosu",

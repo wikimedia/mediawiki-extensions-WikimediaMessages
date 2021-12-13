@@ -1,7 +1,16 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Nērtiks Jōrgesuns"
+		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Dāst dei preiwērpsenin kāi kōpilai, paplattinlai be mōdificīlai šin dōkumentin preitarīngi sen audaīrans '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' en wersiōnei 1.2, adder ainuntai wīlaisin, publicītai ezze [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; šlāit nikitawīdiminans sekciōnins, šlāit pirzdas adder rīkisnisnas zūrbrukes tekstans. Licēncis kōpija ast preidātan en sekciōnei tītelintan ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Ebpeisāsenis",
-	"wm-license-information-source": "Aps"
+	"wm-license-information-source": "Aps",
+	"wm-license-information-date": "Dātan",
+	"wm-license-information-author": "Autōrs",
+	"wm-license-information-permission": "Preiwērpsenis",
+	"wm-license-information-permission-reusing-text": "Šisse zūrbrukis paāntrinseniska terpausnā",
+	"wm-license-own-work": "Swāise subse dīlin",
+	"wm-license-self-multiple-licenses-select": "Tu mazzi etrīnktun licēncin, kawīdan tu kwaitēi tērpautun."
 }

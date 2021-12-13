@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Laitei"
+			"Laitei",
+			"Teitei Para"
 		]
 	},
+	"wm-license-cc-attribution": "Apyna",
+	"wm-license-cc-by-sa-3.0-text": "He faih he [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license ry liata license hawpa a châ.",
 	"wm-license-cc-free": "Asaipa na châ:",
 	"wm-license-cc-free-to-share-header": "rai awpa",
 	"wm-license-cc-free-to-share-text": "patly awpa, padua awpa nata rai pathlei awpa",
@@ -11,6 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "rai paraohsa awpa",
 	"wm-license-cc-conditions": "Ary liata chhichânazy ry liata:",
 	"wm-license-cc-conditions-attribution-header": "Hihsâna",
+	"wm-license-cc-conditions-attribution-text": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.",
 	"wm-license-cc-conditions-share_alike-header": "rai khoh teh",
 	"wm-license-cc-conditions-share_alike-text": "If you remix, transform, or build upon the material, you must distribute your contributions under the [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] as the original."
 }

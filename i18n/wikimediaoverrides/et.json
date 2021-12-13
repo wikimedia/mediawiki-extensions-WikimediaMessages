@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pikne"
+			"Pikne",
+			"SaldırganSincap"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Selle viki külastajad, kes kasutavad sinu IP-aadressi, on viimase päeva jooksul loonud {{PLURAL:$1|ühe konto|$1 kontot}}, mis on selles ajavahemikus ülemmääraks.\nSeetõttu ei saa seda IP-aadressi kasutades hetkel rohkem kontosid luua.\n\nKui osaled üritusel, mille peateemaks on kaastöö tegemine Wikimedia projektidele, siis loe, kuidas [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|taotleda IP-aadressilt piirangu ajutist eemaldamist]].",
@@ -23,6 +24,8 @@
 	"wikimedia-interfaceadmin-info": "Saidiüleste CSS/JS/JSON-failide redigeerimisõigused on nüüd ainult rühma [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] liikmetel. Loe veel [[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS|saidiüleste CSS- ja JS-failide redigeerimise tarbeks eraldi kasutajarühma loomise]] kohta.",
 	"wikimedia-mwoauthserver-invalid-user": "Globaalse sisselogimisega esines probleem. Kui oled konto just loonud, logi palun välja ja tagasi sisse. Seejärel proovi uuesti rakendust volitada. Kui sa ei loonud kontot praegu, külasta palun vikit [https://meta.wikimedia.org/ meta.wikimedia.org] ja proovi seejärel uuesti rakendust volitada. (Tõrkekood: E008)",
 	"wikimedia-sulrenamewarning-usenew": "Nüüdsest tuleb sul sisse logida uue kasutajanimega <strong>$1</strong>. Kellelgi teisel pole üheski Wikimedia projektis samasugust kasutajanime. Kui logid ühes projektis sisse ja külastad teist, kandub sinu konto ka teise projekti. [[:m:Special:MyLanguage/Help:Unified_login|Ühtse sisselogimise abileheküljel]] on rohkem teavet ühe kasutajaga sisselogimise kohta ning korduma kippuvad küsimused. Kui sul on tarvis teine e-posti aadress valida või parooli muuta, siis saad teha seda [[Special:Preferences|eelistuste]] leheküljel.\n\nEt taotleda kontole teistsugune nimi, mine leheküljele [[Special:GlobalRenameRequest]]. Aitäh, et osaled Wikimedia projektides.",
+	"wikimedia-urlshortener-disabled": "Lühendatud linke saab luua ainult saidil meta.wikimedia.org lehekülje [[:m:Special:UrlShortener|Special:UrlShortener]] kaudu.",
+	"wikimedia-urlshortener-badaccessgroups": "Lühilinke saab koostada ainult lehekülje [[:m:Special:UrlShortener|Special:UrlShortener]] kaudu kohas meta.wikimedia.org.",
 	"wikimedia-webauthn-module-description": "WebAuthn (veebiautentimine) on veebistandard, mille avaldas World Wide Web Consortium (W3C). WebAuthn on FIDO Alliance'i hallatava projekti FIDO2 aluskomponent. Projekti eesmärk on luua standardne liides kasutajate autentimiseks veebipõhistes rakendustes ja teenustes, kasutades avaliku võtme krüptograafiat. [https://en.wikipedia.org/wiki/WebAuthn Loe veel]. Pane tähele, et pead sisse logima samas vikis, kus kinnitusseadme algselt registreerisid.",
 	"wikimedia-webauthn-ui-login-prompt": "Palun puutu kinnitusseadet või järgi brauseris näidatud juhiseid. Pane tähele, et pead sisse logima samas vikis, kus kinnitusseadme algselt registreerisid.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Andmekaitse]"

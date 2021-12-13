@@ -4,7 +4,9 @@
 			"Green Zero",
 			"Movses",
 			"Piramidion",
-			"Ата"
+			"Ата",
+			"Base",
+			"DDPAT"
 		]
 	},
 	"search-interwiki-results-abwiki": "Результати з [[:ab:|абхазької Вікіпедії]].",
@@ -18,6 +20,7 @@
 	"search-interwiki-results-anwiki": "Результати з [[:an:|арагонської Вікіпедії]].",
 	"search-interwiki-results-arcwiki": "Результати із [[:arc:|сирійської Вікіпедії]].",
 	"search-interwiki-results-arwiki": "Результати з [[:ar:|арабської Вікіпедії]].",
+	"search-interwiki-results-arywiki": "Результати з [[:ary:|Вікіпедії єгипетською арабською]].",
 	"search-interwiki-results-arzwiki": "Результати з [[:arz:|Вікіпедії єгипетською арабською мовою]].",
 	"search-interwiki-results-astwiki": "Результати з [[:ast:|астурійської Вікіпедії]].",
 	"search-interwiki-results-aswiki": "Результати з [[:as:|асамської Вікіпедії]].",

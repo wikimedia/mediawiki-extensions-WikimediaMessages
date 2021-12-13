@@ -94,7 +94,7 @@
 	"tag-emoji": "ئیمۆجی",
 	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nبۆ وردەکارییەکان <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> ببینە.",
 	"wikimedia-copyrightwarning": "بە پاشەکەوتکردنی گۆڕانکارییەکان، [https://foundation.wikimedia.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە بەشدارییەکەت لە ژێر [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License مۆڵەتنامەی CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیتەوە.\nپابەند دەبیت کە URL یان گرێدانێک، دانەپاڵێکی سەرومڕە لە ژێر مۆڵەتنامەی Creative Commonsدا.",
-	"wikibase-repo-name": "ویکیداتا",
+	"wikibase-repo-name": "ویکیدراوە",
 	"wikibase-sitelinks-wikinews": "ویکی هه‌واڵ",
 	"wikibase-sitelinks-wikiquote": "ویکیوتە",
 	"wikibase-sitelinks-wikisource": "ویکیژێدەر",
@@ -106,7 +106,7 @@
 	"wikibase-otherprojects-mediawiki": "میدیاویکی",
 	"wikibase-otherprojects-meta": "مێتا-ویکی",
 	"wikibase-otherprojects-species": "ویکیجۆر",
-	"wikibase-otherprojects-wikidata": "ویکیداتا",
+	"wikibase-otherprojects-wikidata": "ویکیدراوە",
 	"wikibase-otherprojects-wikinews": "ویکیھەواڵ",
 	"wikibase-otherprojects-wikiquote": "ویکیوتە",
 	"wikibase-otherprojects-wikipedia": "ویکیپیدیا",
@@ -129,6 +129,8 @@
 	"interlanguage-link-wikipedia": "ویکیپیدیا",
 	"interlanguage-link-sitename-wikipedia": "ویکیپیدیا، ئینسایکڵۆپیدیای ئازاد",
 	"interlanguage-link-commons": "ویکیمیدیا کۆمنز",
+	"protect-level-editextendedsemiprotected": "تەنیا ڕێگە بە پاسدەرانی خۆگەڕ بدە",
+	"restriction-level-editextendedsemiprotected": "پارێزراوی پاسدەری خۆگەڕ",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بە شێوەیەکی باشتر بەسەر دەستکارییەکاندا بچۆرەوە بە بەکارھێنانی پاڵوێنە. دەتوانیت چەند پاڵوێنەیەک پاشەکەوت بکەیت و دەستکارییە مەبەستەکان ڕووناک بکەیت و چاکسازی زیاتری تریش. $1",
 	"eri-rcfilters-tour-help": "زۆرتر بزانە",
 	"eri-rcfilters-tour-intro-welcome-button": "باشە، تێگەیشتم",
@@ -137,5 +139,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "بەخێربێیت بۆ فیلتەرکردنی پێشکەوتووی پێڕستی چاودێری",
 	"eri-wlfilters-tour-intro-preferences-description": "دەتوانیت ھەر کاتێک ویستت چاکسازییەکانی پێڕستی چاودێری ڕابگریت بە کوژاندنەوەی پێڕستی چاودێری پێشکەوتوو لە ھەڵبژاردەکانەوە.",
 	"wikimedia-statslink": "ئامارەکان",
-	"wikimedia-cookiestatement": "ڕوونکردنەوەی کوکی"
+	"wikimedia-cookiestatement": "ڕوونکردنەوەی کوکی",
+	"protect-level-editautopatrolprotected": "تەنیا ڕێگە بە پاسدەرانی خۆگەڕ بدە",
+	"restriction-level-editautopatrolprotected": "پارێزراوی پاسدەرانی خۆگەڕ"
 }

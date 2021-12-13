@@ -16,7 +16,7 @@
 	"grouppage-oversight": "{{ns:project}}:Rewizorzy",
 	"group-oversight": "Rewizorzy",
 	"group-oversight-member": "{{GENDER:$1|rewizor|rewizorka}}",
-	"hello": "Witaj",
+	"hello": "Cześć",
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
 	"thank-you": "{{GENDER:$1|Dziękuję.}}",
 	"specialblockfeedback": "Opinie"

@@ -5,7 +5,8 @@
 			"JohSan65",
 			"Jon Harald Søby",
 			"Kingu",
-			"Pmt"
+			"Pmt",
+			"Abuluntu"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia på afar",
@@ -39,6 +40,7 @@
 	"project-localized-name-angwiktionary": "Wiktionary på gammelengelsk",
 	"project-localized-name-anwiki": "Wikipedia på aragonsk",
 	"project-localized-name-anwiktionary": "Wiktionary på aragonsk",
+	"project-localized-name-apiportalwiki": "Wikimedias API-portal",
 	"project-localized-name-arbcom_dewiki": "Wikipedia på tysks konfliktråd",
 	"project-localized-name-arbcom_enwiki": "Wikipedia på engelsks konfliktråd",
 	"project-localized-name-arbcom_fiwiki": "Wikipedia på finsks konfliktråd",
@@ -52,6 +54,7 @@
 	"project-localized-name-arwikisource": "Wikikilden på arabisk",
 	"project-localized-name-arwikiversity": "Wikiversity på arabisk",
 	"project-localized-name-arwiktionary": "Wiktionary på arabisk",
+	"project-localized-name-arywiki": "Wikipedia på marokkansk arabisk",
 	"project-localized-name-arzwiki": "Wikipedia på egyptisk arabisk",
 	"project-localized-name-astwiki": "Wikipedia på asturisk",
 	"project-localized-name-astwikibooks": "Wikibøker på asturisk",
@@ -487,6 +490,7 @@
 	"project-localized-name-lfnwiki": "Wikipedia på lingua franca nova",
 	"project-localized-name-lgwiki": "Wikipedia på ganda",
 	"project-localized-name-lijwiki": "Wikipedia på ligurisk",
+	"project-localized-name-lijwikisource": "Wikikilden på ligurisk",
 	"project-localized-name-liwiki": "Wikipedia på limburgsk",
 	"project-localized-name-liwikibooks": "Wikibøker på limburgsk",
 	"project-localized-name-liwikinews": "Wikinytt på limburgsk",
@@ -787,6 +791,7 @@
 	"project-localized-name-swwiki": "Wikipedia på swahili",
 	"project-localized-name-swwikibooks": "Wikibøker på swahili",
 	"project-localized-name-swwiktionary": "Wiktionary på swahili",
+	"project-localized-name-sysop_itwiki": "Wiki for administratorer på italiensk Wikipedia",
 	"project-localized-name-szlwiki": "Wikipedia på schlesisk",
 	"project-localized-name-szywiki": "Wikipedia på sakizaya",
 	"project-localized-name-tawiki": "Wikipedia på tamilsk",

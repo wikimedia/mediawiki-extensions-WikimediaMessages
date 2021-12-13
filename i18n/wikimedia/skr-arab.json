@@ -6,14 +6,17 @@
 	},
 	"sitesupport": "عطیہ",
 	"tooltip-n-sitesupport": "ساݙے نال ہتھ ونڈاؤ",
-	"wikimedia-copyright": "لکھت ایں لسنس نال ہے <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nٻیاں شرطاں وی لاگو تھی سڳدیاں ہن.\nورتن شرطاں <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Terms of Use</a> .",
-	"wikimedia-copyrightwarning": "تبدیلیاں کوں محفوظ کرݨ نال، تساں [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] نال متفق ہوسو تے تہاݙی ایہ حصہ داری [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] تے [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] دے تحت ہوسی۔ تساں ایں ہائپر لنک یا یوآر ایل کوں کریٹو کامنز دے تحت ساݙے نان٘ویں کرݨ کیتے متفق ہو۔",
+	"wikimedia-copyright": "لکھت ایں لسنس نال ہے <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nٻیاں شرطاں وی لاگو تھی سڳدیاں ہن.\nورتن شرطاں <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">ورتݨ شرطاں</a> .",
+	"wikimedia-copyrightwarning": "تبدیلیاں کوں محفوظ کرݨ نال، تساں [https://foundation.wikimedia.org/wiki/Terms_of_Use ورتݨ شرطاں] نال متفق ہوسو تے تہاݙی ایہ حصہ داری [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] تے [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] دے تحت ہوسی۔ تساں ایں ہائپر لنک یا یوآر ایل کوں کریٹو کامنز دے تحت ساݙے نان٘ویں کرݨ کیتے متفق ہو۔",
 	"wikibase-sitelinks-wikinews": "وکی خبراں",
 	"wikibase-sitelinks-wikiquote": "وکی قول",
-	"wikibase-sitelinks-wikisource": "ویکی ماخذ",
-	"wikibase-sitelinks-wikivoyage": "ویکی پندھ",
+	"wikibase-sitelinks-wikisource": "وکی ماخذ",
+	"wikibase-sitelinks-wikivoyage": "وکی سیرسپاٹا",
+	"wikibase-sitelinks-wiktionary": "وکشنری",
 	"wikimedia-developers": "ترقی ݙیوݨ آلے",
 	"wikimedia-globalblocking-ipblocked": "'''تہاݙے آئی پی پتہ تے [[m:Special:MyLanguage/Global blocks|ساریاں وکیاں وچ پابندی]] لڳ ڳئی ہے۔''' \n\nایہ پابندی $1 ($2) ولوں لائی ڳئی ہے۔\nایندی وجہ ''$3''  درج کیتی ڳئی ہائی۔\n\n* پابندی دا آغاز: $4\n* پابندی دا اختتام: $5\n\nتہاݙا موجودہ آئی پی پتہ $6 ہے۔\nبراہ مہربانی کہیں وی قسم دے سوال پچھݨ ویلے درج بالا ساریاں تفصیلات شامل کرو۔\n\nجے تساں سمجھدے ہو جوغلطی نال تہاݙے تے پابندی لڳی ہے تاں تساں اضافی معلومات و ہدایات [[m:Special:MyLanguage/No open proxies|پراکسی باز ممنوع]] عالمی پالیسی وچ لبھ سڳدے ہو۔\nبصورت دیگر، پابندی بارے ڳالھ مہاڑ کرو اتے اتھاں [[m:Steward requests/Global|نظر ثانی کیتے  میٹا تے درخواست ݙیوو]]۔",
 	"wikimedia-globalblocking-ipblocked-xff": "'''ہک یا ودھ پراکسی سرور  تے تہاݙے کیتے[[m:Special:MyLanguage/Global blocks|ساریاں وکیاں وچ پابندی]] لڳ ڳئی ہے۔''' \n\nایہ پابندی $1 ($2) ولوں لائی ڳئی ہے۔\nایندی وجہ ''$3''  درج کیتی ڳئی ہائی۔\n\n* پابندی دا آغاز: $4\n* پابندی دا اختتام: $5\n\nتہاݙا موجودہ آئی پی پتہ $6 ہے۔\nبراہ مہربانی کہیں وی قسم دے سوال پچھݨ ویلے درج بالا ساریاں تفصیلات شامل کرو۔\n\nجے تساں سمجھدے ہو جوغلطی نال تہاݙے تے پابندی لڳی ہے تاں تساں اضافی معلومات و ہدایات [[m:Special:MyLanguage/No open proxies|پراکسی باز ممنوع]] عالمی پالیسی وچ لبھ سڳدے ہو۔\nبصورت دیگر، پابندی بارے ڳالھ مہاڑ کرو اتے اتھاں [[m:Steward requests/Global|نظر ثانی کیتے  میٹا تے درخواست ݙیوو]]۔",
-	"wikimediashoplink-linktext": "وکی پیڈیا سٹور"
+	"wikimediashoplink-linktext": "وکی پیڈیا سٹور",
+	"wikimedia-statslink": "شماریات",
+	"wikimedia-cookiestatement": "کوکی تفصیلاں"
 }

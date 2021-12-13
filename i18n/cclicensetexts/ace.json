@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Si Gam Acèh"
+			"Si Gam Acèh",
+			"MinecraftAustralia"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "ngui keulayi gamba",
 	"wm-license-cc-conditions": "Meunurôt syarat di yup nyoe:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
-	"wm-license-cc-conditions-attribution-text": "Droeneuh peureulèe neutuléh asai karya nyoe lagèe nyang geupeuteuntèe lé ureueng tuléh atawa ureueng po hak (tapi kön ngön meukeusud keuneuk promosi karya ureueng nyan)",
+	"wm-license-cc-conditions-attribution-text": "Droeneuh peureulèe neutuléh asai karya nyoe lagèe nyang geupeuteuntèe lé ureueng tuléh atawa ureueng po hak (tapi kön ngön meukeusud keuneuk promosi karya ureueng nyan).",
 	"wm-license-cc-conditions-share_alike-header": "weuëk saban",
-	"wm-license-cc-conditions-share_alike-text": "Meunyo droeneuh neupeugöt ulang bahan nyoe, droeneuh suwah neubôh lisènsi nyang saban lagèe lisènsi awai"
+	"wm-license-cc-conditions-share_alike-text": "Apabila Anda menggubah, mengubah, atau membuat turunan dari materi ini, Anda harus menyebarluaskan kontribusi Anda di bawah [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses lisensi yang sama] seperti lisensi pada materi asli."
 }

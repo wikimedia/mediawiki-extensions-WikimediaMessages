@@ -10,7 +10,8 @@
 			"Nike",
 			"Raymond",
 			"Verdy p",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Evrifaessa"
 		]
 	},
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
@@ -304,7 +305,7 @@
 	"project-localized-name-gcrwiki": "{{ProjectNameDocumentation|url=https:://gcr.wikipedia.org|name=Guianan Creole Wikipedia|language=gcr}}",
 	"project-localized-name-gdwiki": "{{ProjectNameDocumentation|url=https://gd.wikipedia.org|name=Scottish Gaelic Wikipedia|language=gd}}",
 	"project-localized-name-gdwiktionary": "{{ProjectNameDocumentation|url=https://gd.wiktionary.org|name=Scottish Gaelic Wiktionary|language=gd}}",
-	"project-localized-name-gewikimedia": "{{ProjectNameDocumentation|url=https://ge.wikimedia.org|name=Wikimedia Community User Group Georgia|language=zxx}}",
+	"project-localized-name-gewikimedia": "Note: This is the Republic of Georgia, and not the State of Georgia in the U.S.A.\n\n{{ProjectNameDocumentation|url=https://ge.wikimedia.org|name=Wikimedia Community User Group Georgia|language=zxx}}",
 	"project-localized-name-glkwiki": "{{ProjectNameDocumentation|url=https://glk.wikipedia.org|name=Gilaki Wikipedia|language=glk}}",
 	"project-localized-name-glwiki": "{{ProjectNameDocumentation|url=https://gl.wikipedia.org|name=Galician Wikipedia|language=gl}}",
 	"project-localized-name-glwikibooks": "{{ProjectNameDocumentation|url=https://gl.wikibooks.org|name=Galician Wikibooks|language=gl}}",
@@ -842,7 +843,7 @@
 	"project-localized-name-transitionteamwiki": "{{ProjectNameDocumentation|url=https://transitionteam.wikimedia.org|name=Transition Team Wiki|language=zxx}}",
 	"project-localized-name-trwiki": "{{ProjectNameDocumentation|url=https://tr.wikipedia.org|name=Turkish Wikipedia|language=tr}}",
 	"project-localized-name-trwikibooks": "{{ProjectNameDocumentation|url=https://tr.wikibooks.org|name=Turkish Wikibooks|language=tr}}",
-	"project-localized-name-trwikimedia": "{{ProjectNameDocumentation|url=https://tr.wikimedia.org|name=Vikimedya Türkiye|language=zxx}}",
+	"project-localized-name-trwikimedia": "{{ProjectNameDocumentation|url=https://tr.wikimedia.org|name=Wikimedia Türkiye|language=zxx}}",
 	"project-localized-name-trwikinews": "{{ProjectNameDocumentation|url=https://tr.wikinews.org|name=Turkish Wikinews|language=tr}}",
 	"project-localized-name-trwikiquote": "{{ProjectNameDocumentation|url=https://tr.wikiquote.org|name=Turkish Wikiquote|language=tr}}",
 	"project-localized-name-trwikisource": "{{ProjectNameDocumentation|url=https://tr.wikisource.org|name=Turkish Wikisource|language=tr}}",

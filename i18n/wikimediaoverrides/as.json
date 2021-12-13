@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gitartha.bordoloi"
+			"Gitartha.bordoloi",
+			"Simbu123"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(বাছনি কৰাত সহায় কৰক)]]",
 	"wikimedia-createacct-imgcaptcha-help": "ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy"
 }

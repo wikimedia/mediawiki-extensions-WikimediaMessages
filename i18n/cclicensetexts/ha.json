@@ -2,9 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Ammarpad",
-			"DonCamillo"
+			"DonCamillo",
+			"Em-em",
+			"Kambai Akau"
 		]
 	},
+	"wm-license-cc-attribution": "Jinginarwa",
+	"wm-license-cc-by-sa-3.0-text": "Wannan fayil ɗin an bada lasisin shi ƙarƙashin [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] lasisi.",
 	"wm-license-cc-free": "Za ka iya:",
-	"wm-license-cc-conditions": "A karkashin wannan sharuddan"
+	"wm-license-cc-free-to-share-header": "a raba",
+	"wm-license-cc-free-to-share-text": "dan kwafa, yadawa da aika aikin",
+	"wm-license-cc-free-to-remix-header": "dan maimaita",
+	"wm-license-cc-free-to-remix-text": "dan daukar aikin",
+	"wm-license-cc-conditions": "A karkashin wannan sharuddan",
+	"wm-license-cc-conditions-attribution-header": "Jinginarwa",
+	"wm-license-cc-conditions-attribution-text": "Dole ku bada jinjina da ta dace, samar da linki zuwa lasisin, da kuma bayyana ko kunyi sauyi. Zaku iya haka ta yadda ta dace, amma ba kowace hanya ba wanda zai nuna mai-lasisin yana goyon bayan ku ba ko goyon bayan amfanin da kuke yi ba.",
+	"wm-license-cc-conditions-share_alike-header": "Yada ahaka",
+	"wm-license-cc-conditions-share_alike-text": "Idan kuka maimaita, sabuntawa, ko kari akan wannan, dole ku bayar da gudunmuwar ku karkashin [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses iri daya ko lasisi data dace] kamar na asali."
 }

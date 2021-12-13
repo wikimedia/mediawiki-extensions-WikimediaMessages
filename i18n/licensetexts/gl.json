@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Elisardojm",
-			"Toliño"
+			"Toliño",
+			"Maria zaos"
 		]
 	},
 	"wm-license-attribution-with-author-text": "O propietario dos dereitos de autor deste ficheiro, $1, permite que calquera poida usalo '''para calquera propósito, sempre e cando''' se lle recoñeza a autoría a quen cede os dereitos. A redistribución, edición, uso comercial e calquera outro tipo de uso están permitidos.",
@@ -64,7 +65,7 @@
 	"wm-license-information-source-missing": "Este ficheiro carece da información sobre a súa '''orixe'''.",
 	"wm-license-information-source-missing-request": "Por favor, edite a descrición deste ficheiro e proporcione unha.",
 	"wm-license-information-date": "Data",
-	"wm-license-information-author": "Autor",
+	"wm-license-information-author": "Autoría",
 	"wm-license-information-author-missing": "Este ficheiro carece da información sobre o seu '''autor'''.",
 	"wm-license-information-permission": "Licenza",
 	"wm-license-information-permission-reusing-text": "Reuso deste ficheiro",

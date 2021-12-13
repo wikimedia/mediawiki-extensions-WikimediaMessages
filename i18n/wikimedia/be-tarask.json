@@ -10,7 +10,10 @@
 			"Red Winged Duck",
 			"Renessaince",
 			"Wizardist",
-			"Zedlik"
+			"Zedlik",
+			"Base",
+			"Nieszczarda2",
+			"W"
 		]
 	},
 	"wikimediamessages-desc": "Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»",
@@ -126,6 +129,7 @@
 	"group-translationadmin": "Адміністратары перакладаў",
 	"group-translationadmin-member": "{{GENDER:$1|адміністратар перакладаў|адміністратарка перакладаў}}",
 	"grouppage-translationadmin": "{{ns:project}}:Адміністратары перакладаў",
+	"tag-AWB-description": "Рэдагаваньні зробленыя з дапамогай [https://be-tarask.wikipedia.org/wiki/Вікіпэдыя:AutoWikiBrowser AutoWikiBrowser]",
 	"wikimedia-copyright": "Гэты тэкст даступны на ўмовах <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ліцэнзіі Creative Commons Attribution-ShareAlike</a>; могуць ужывацца дадатковыя ўмовы. Глядзіце падрабязнасьці ва <a href=\"https://foundation.wikimedia.org/wiki/Умовы_выкарыстаньня\">ўмовах выкарыстаньня</a>.",
 	"wikidata-copyright": "Усе структураваныя зьвесткі ў галоўнай прасторы назваў, прасторах назваў уласьцівасьцяў, лексэмаў і схемаў элемэнтаў даступныя на ўмове ліцэнзіі <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0 License</a>; зьмест у іншых прасторах даступны на ўмовах <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">Creative Commons Attribution-ShareAlike License</a>; могуць ужывацца дадатковыя ўмовы.\nКалі вы выкарыстоўваеце гэты сайт, вы пагаджаецеся з <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">умовамі выкарыстаньня</a> і <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">палітыкай прыватнасьці</a>.",
 	"wikimedia-copyrightwarning": "Калі вы захоўваеце зьмены, вы пагаджаецеся з [https://foundation.wikimedia.org/wiki/Terms_of_Use умовамі выкарыстаньня], а таксама на апублікаваньне вашага ўнёску згодна з умовамі ліцэнзіяў [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] і [https://www.gnu.org/copyleft/fdl.html GFDL]. Вы пагаджаецеся, што пазнака гіпэр-спасылкі на адпаведную старонку ці яе URL-адрас будзе дастатковым для выкананьня ўмоваў ліцэнзіі Creative Commons.",
@@ -151,6 +155,7 @@
 	"wikimedia-developers": "Распрацоўнікі",
 	"wikimedia-globalblocking-ipblocked": "'''Ваш IP-адрас быў [[m:Special:MyLanguage/Global blocks|заблякаваны ва ўсіх вікі]].'''\n\nБлякаваньне было зробленае $1 ($2).\nПададзеная прычына: ''$3''.\n\n* Пачатак блякаваньня: $4\n* Сканчэньне блякаваньня: $5\n\nВаш цяперашні IP-адрас: $6.\nКалі ласка, уключайце гэтыя падрабязнасьці ва ўсе вашыя звароты.\n\nКалі вы лічыце, што былі заблякаваныя памылкова, вы можаце знайсьці дадатковыя зьвесткі і інструкцыі ў глябальных правілах [[m:Special:MyLanguage/No open proxies|пра недапушчальнасьць адкрытых проксі]].\nУ адваротным выпадку для абмеркаваньня блякаваньня, калі ласка, [[m:Steward requests/Global|зрабіце запыт пра перагляд у Мэта-Вікі]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Адзін ці некалькі проксі-сэрвэраў, выкарыстаных у вашым запыце, [[m:Special:MyLanguage/Global blocks|заблякаваныя глябальна]].'''\n\nБлякаваньне было зробленае $1 ($2).\nПададзеная прычына: ''$3''.\n\n* Пачатак блякаваньня: $4\n* Канец блякаваньня: $5\n\nЗаблякаваны проксі-адрас: $6.\nКалі ласка, уключайце ўсе гэтыя дэталі ў звароты, якія будзеце рабіць.\n\nКалі вы лічыце, што былі заблякаваныя памылкова, вы можаце знайсьці дадатковыя зьвесткі і інструкцыі ў глябальных правілах пра [[m:Special:MyLanguage/No open proxies|недапушчальнасьць адкрытых проксі]].\nУ іншым выпадку, каб абмеркаваць блякаваньне, калі ласка, [[m:Steward requests/Global|зрабіце запыт пра перагляд на Мэта-вікі]].",
+	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/be-tarask",
 	"upload-form-label-own-work-message-commons": "Я пацьвярджаю, што зьяўляюся ўласьнікам аўтарскіх правоў на гэты файл, і згодны незваротна перадаць гэты файл ў Вікісховішча на ўмовах ліцэнзіі [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0], а таксама згодны з [https://foundation.wikimedia.org/wiki/Terms_of_Use умовамі выкарыстаньня].",
 	"upload-form-label-not-own-work-message-commons": "Калі вы не зьяўляецеся ўласьнікам аўтарскіх правоў на гэты файл, або вы жадаеце распаўсюджваць яго пад іншай ліцэнзіяй, можаце скарыстацца [https://commons.wikimedia.org/wiki/Special:UploadWizard Майстарам загрузкі ў Вікісховішча].",
 	"upload-form-label-not-own-work-local-commons": "Вы таксама можаце скарыстацца [[Special:Upload|старонкай загрузкі {{GRAMMAR:родны|{{SITENAME}}}}]], калі правілы сайту дазваляюць загрузку такога файлу.",
@@ -158,5 +163,6 @@
 	"wikimediashoplink-link-tooltip": "Наведайце краму Вікімэдыі",
 	"restriction-level-superprotect": "супэрабарона",
 	"eri-rcfilters-tour-intro-preferences-description": "Вы можаце ў любы час адключыць палепшаную вэрсію Апошніх зьменаў у закладцы «Апошнія зьмены» ўласных наладаў.",
-	"wikimedia-cookiestatement": "Дамова пра файлы-кукі"
+	"wikimedia-statslink": "Статыстыка",
+	"wikimedia-cookiestatement": "Заява пра маркёр"
 }

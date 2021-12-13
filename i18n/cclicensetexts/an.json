@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Juanpabl"
+			"Juanpabl",
+			"Willtron"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:an:Creative Commons",
@@ -193,7 +194,7 @@
 	"wm-license-cc-conditions-attribution-header": "atribución d'autoría",
 	"wm-license-cc-conditions-attribution-text": "Ha d'atribuir l'autoría d'o treballo d'a traza especificada por l'autor u persona que l'haiga licenciau (pero no pas de traza que suchiera que l'autor/os autors refirma(n) u refirma(n) l'uso que faigas d'o treballo).",
 	"wm-license-cc-conditions-share_alike-header": "compartir igual",
-	"wm-license-cc-conditions-share_alike-text": "En caso d'alterar, transformar u enamplar iste treballo, habrá de distribuir o treballo resultant solament baixo a mesma licencia u beluna equivalent.",
+	"wm-license-cc-conditions-share_alike-text": "En caso d'alterar, transformar u enamplar iste treballo, habrá de distribuir o treballo resultant solament baixo [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses a mesma licencia u beluna equivalent].",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.en",
 	"wm-license-cc-pd-mark-text": "Ista obra ha estau identificada como libre de restriccions conoixidas en virtut d'os dreitos d'autor, incluindo totz os dreitos conexos."
 }

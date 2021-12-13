@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"ئارام بکر"
+			"ئارام بکر",
+			"Épine"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(بۆ ھەڵبژاردن یارمەتیم بدە)]]"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(بۆ ھەڵبژاردن یارمەتیم بدە)]]",
+	"wikimedia-createacct-imgcaptcha-help": "ناتوانیت وێنەکە ببینیت؟ [[{{MediaWiki:createacct-captcha-help-url}}|داوای هەژمارێک بکە]]",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سیاسەتی تایبەتێتی]"
 }

@@ -4,7 +4,9 @@
 			"Chinneeb",
 			"Sembuk",
 			"Wisdom",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Amire80",
+			"MuratTheTurkish"
 		]
 	},
 	"sitesupport": "Хандив",
@@ -18,8 +20,9 @@
 	"group-staff-member": "{{GENDER:$1|ажиллах гишүүд}}",
 	"group-steward": "Үйлчлэгчид",
 	"group-steward-member": "үйлчлэгч",
-	"grouppage-steward": "m:Stewards",
+	"grouppage-steward": "m:Stewards/mn",
 	"wikibase-sitelinks-wikinews": "Энэ зүйлтэй холбоотой Wikinews -ын хуудас",
+	"wikibase-sitelinks-wikivoyage": "Викиаялал",
 	"wikimedia-developers": "Хөгжүүлэгчид",
 	"right-superprotect": "Super protection төвшинг өөрчлөх",
 	"protect-level-superprotect": "Superprotect -тэй хэрэглэгчидыг зөвшөөрөх",

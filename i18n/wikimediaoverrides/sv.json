@@ -3,11 +3,16 @@
 		"authors": [
 			"Lokal Profil",
 			"Nemo bis",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Sabelöga",
+			"SaldırganSincap"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Besökare på den här webbplatsen med din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} den senaste dagen, vilket är det högsta tillåtna antalet den tidsperioden.\nPå grund av detta kan för tillfället inte besökare med denna IP-adress skapa fler konton.\n\nOm du är på ett evenemang med fokus på att bidra till Wikimedias projekt, var god läs [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] för att lösa problemet.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Kan du inte se bilden? [[{{MediaWiki:createacct-captcha-help-url}}|Begär ett konto]]",
+	"wikimedia-centralauth-login-error-locked": "<strong>Detta konto är [[m:Special:MyLanguage/Global locks|globalt blockerat]].</strong> {{GENDER:$1|Du}} kan inte logga in till några Wikimedia-wikier. Var god [[m:Special:Contact/stewards|kontakta stewarderna]] om {{GENDER:$1|du}} har några frågor.",
+	"wikimedia-centralauth-uwbr-intro": "Den här sidan listar användare so registrerats med den här wikin som kommer byta namn på grund av [[m:Single User Login finalisation announcement|slutförandet av kontosammanslagningen]]. Mer information på [[m:Help:Unified login|global inloggning]]. Användare kan begära att byta namn när som helst på [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Användarnamnspolicy",
 	"wikimedia-discussiontools-replywidget-terms-click": "Genom att klicka på \"$1\" godkänner du våra [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
@@ -22,7 +27,7 @@
 	"wikimedia-globalrenamequeue-email-body-rejected": "Begäran om att byta namn på \"{{GENDER:$1|$1}}\" till \"{{GENDER:$2|$2}}\" kunde inte slutföras.\n\nAnteckning: $3\n\nFör mer information, besök <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. För att diskutera din namnbytesförfrågan kan du skriva ett inlägg på denna sida: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Du måste fortfarande logga in med ditt nuvarande användarnamn först.",
 	"wikimedia-interfaceadmin-info": "Behörigheter för att redigera CSS/JS/JSON-filer för hela webbplatsen begränsades nyligen från medlemmar i gruppen [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Se [[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS|denna sida]] för mer information.",
 	"wikimedia-mwoauthserver-invalid-user": "Ett problem uppstod när du loggades in globalt. Om du precis skapade ditt konto, logga ut och in igen, prova sedan att auktorisera appen igen. Om du inte skapade ditt konto nyligen, besök [https://meta.wikimedia.org/ meta.wikimedia.org] och försök sedan att att auktorisera appen igen. (Felkod: E008)",
-	"wikimedia-sulrenamewarning-usenew": "Från och med nu, måste du nu logga in med ditt nya användarnamn <strong>$1</strong>. Ditt nya användarnamn är unik för dig över alla Wikimedia-projekt, och om du är inloggad på ett projekt och besöker ett annat kommer ditt konto att följa med dig. [[:m:Special:MyLanguage/Help:Unified_login|Hjälpsida för enhetlig inloggning]] har mer information om ett-användarnamn-inloggning, samt en lista över vanligt förekommande frågor.\nOm du behöver uppdatera din e-postadress eller ändra ditt lösenord i dina [[Special:Preferences|inställningar]], kan detta vara ett bra tillfälle att göra det.\n\nFör att begära ett annat kontonamn, besök [[Special:GlobalRenameRequest]]. Tack för att du deltar på Wikimedia-projekten.",
+	"wikimedia-sulrenamewarning-usenew": "Från och med nu, måste du nu logga in med ditt nya användarnamn <strong>$1</strong>. Ditt nya användarnamn är unikt för dig över alla Wikimedia-projekt, och om du är inloggad på ett projekt och besöker ett annat kommer ditt konto att följa med dig. [[:m:Special:MyLanguage/Help:Unified_login|Hjälpsida för enhetlig inloggning]] har mer information om ett-användarnamn-inloggning, samt en lista över vanligt förekommande frågor.\nOm du behöver uppdatera din e-postadress eller ändra ditt lösenord i dina [[Special:Preferences|inställningar]], kan detta vara ett bra tillfälle att göra det.\n\nFör att begära ett annat kontonamn, besök [[Special:GlobalRenameRequest]]. Tack för att du deltar på Wikimedia-projekten.",
 	"wikimedia-urlshortener-badaccessgroups": "Korta länkar kan endast skapas via sidan [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Korta länkar kan endast skapas med ett anrop till wikin på meta.wikimedia.org.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Integritetspolicy]"

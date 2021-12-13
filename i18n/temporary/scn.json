@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Santu"
+			"Santu",
+			"Ajeje Brazorf"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighters",
-	"group-oversight-member": "oversight"
+	"group-oversight-member": "{{GENDER:$1|oversight}}",
+	"hello": "Ciau",
+	"thank-you": "{{GENDER:$1|Grazzi.}}",
+	"specialblockfeedback": "Feedback"
 }

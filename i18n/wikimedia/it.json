@@ -28,7 +28,8 @@
 			"Sarah Bernabei",
 			"Statix64",
 			"Stefano-c",
-			"Una giornata uggiosa '94"
+			"Una giornata uggiosa '94",
+			"Ajeje Brazorf"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -162,7 +163,7 @@
 	"group-global-bot": "Bot globali",
 	"group-global-bot-member": "{{GENDER:$1|bot globale}}",
 	"group-global-flow-create": "Creatori globali Flow",
-	"group-global-flow-create-member": "{{GENDER:$1|Creatore|Creatrice|Creatore/trice}} globale Flow",
+	"group-global-flow-create-member": "{{GENDER:$1|creatore|creatrice|creatore/trice}} globale Flow",
 	"group-global-ipblock-exempt": "Esenti dal blocco IP globale",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|esente dal blocco IP globale}}",
 	"group-global-renamer": "Rinominatori globali",
@@ -216,7 +217,10 @@
 	"wikibase-sitelinks-wikiversity": "Wikiversità",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-sitelinks-wiktionary": "Wikizionario",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
+	"wikibase-otherprojects-meta": "Meta-Wiki",
 	"wikibase-otherprojects-wikinews": "Wikinotizie",
+	"wikibase-otherprojects-wikipedia": "Wikipedia",
 	"wikibase-otherprojects-wikiversity": "Wikiversità",
 	"wikibase-otherprojects-wiktionary": "Wikizionario",
 	"wikibase-otherprojects-wikimania": "Wikimania",
@@ -262,6 +266,8 @@
 	"right-editextendedsemiprotected": "Modifica pagine protette con \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Consentito solo agli autoverificati",
 	"restriction-level-editextendedsemiprotected": "protetta autoverificato",
+	"eri-rcfilters-tour-intro-welcome-title": "Prova il nuovo sistema di filtraggio delle ultime modifiche",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Controlla le modifiche più efficacemente grazie all'uso di nuovi filtri, al salvataggio di set di filtri, all'evidenziazione personalizzata e ad altri miglioramenti. $1",
 	"eri-rcfilters-tour-help": "Ulteriori informazioni",
 	"eri-rcfilters-tour-intro-welcome-button": "OK, ho capito",
 	"eri-rcfilters-tour-highlight-description": "Usa le evidenziazioni per distinguere a colpo d'occhio le caratteristiche selezionate.<br/><br/>Puoi combinare le evidenziazioni con i filtri o usarle da sole.",

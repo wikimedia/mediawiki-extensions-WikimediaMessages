@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Oldstoneage"
+			"Oldstoneage",
+			"NEHAOUA"
 		]
 	},
 	"wm-license-cc-attribution": "التنساب",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "باش تستعمل هاد الخدمة على حسابك",
 	"wm-license-cc-conditions": "تحت المشارط هادو:",
 	"wm-license-cc-conditions-attribution-header": "التنساب",
-	"wm-license-cc-conditions-attribution-text": "لازم لك تنسّب الخدمة على حساب واش وصّا مول`الشي ولا الترخيص (بلا ما تزيد شي حاجات يدّيو ل`التخمام بلّي راهم مساندينك ولا قابلين الخدمة تاعك).",
+	"wm-license-cc-conditions-attribution-text": "لازم لك تمد انسّبه قد قد، وتمد اربط للرخصة، وتحدد بلاك بلاك كاين ما تبدل، تقدر تقوم بها كيما تحب بصح تكون لوجيك، بصح ماشي كلي لي صاحبها راهو معاك ولا يخدمك",
 	"wm-license-cc-conditions-share_alike-header": "تقاسم بل متيل",
-	"wm-license-cc-conditions-share_alike-text": "يلا تنقّص، تبدّل ولا تعاود تبني شي حاجة تستعمل فيها هاد المضمون، لازم لك تعاود تنشّر الخدمة تاعك تحت ترخيص بدّات ولا مماتل معا الّي راه ضركا."
+	"wm-license-cc-conditions-share_alike-text": "يلا تنضّم، تبدّل ولا تعاود تبني شي حاجة تستعمل فيها هاد المضمون، لازم تعاود تنشّر الخدمة تاعك تحت [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses الترخيص تاعها بدّات ولا يكون موماتل] معا اللي راه فيها ضركا."
 }

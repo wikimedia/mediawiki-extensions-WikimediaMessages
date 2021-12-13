@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Awangba Mangang"
+			"Awangba Mangang",
+			"꯴꯰꯴"
 		]
 	},
 	"wm-license-cc-attribution": "ꯈꯣꯝꯒꯠꯂꯛꯄꯥ ꯒꯤ ꯊꯧꯗꯥꯡ",
+	"wm-license-cc-by-sa-3.0-text": "ꯐꯥꯏꯜ ꯑꯁꯤ [[{{int:wm-license-cc-wiki-link}}|ꯀ꯭ꯔꯤꯌꯦꯇꯤꯚ ꯀꯣꯃꯣꯟꯁ]]ꯀꯤ [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] ꯑꯌꯥꯕꯒꯤ ꯃꯈꯥꯗ ꯌꯥꯎꯕꯅꯤ ꯫",
 	"wm-license-cc-free": "ꯅꯪꯒꯤ ꯀꯨꯁꯤ:",
 	"wm-license-cc-free-to-share-header": "ꯃꯌꯥꯝꯗꯥ ꯐꯪꯍꯟꯕꯥ",
 	"wm-license-cc-free-to-share-text": "ꯊꯥꯕꯛ ꯑꯗꯨ ꯁꯤꯟꯖꯤꯟꯕꯥ, ꯌꯦꯟꯊꯣꯛ ꯎ ꯑꯃꯥꯗꯤ ꯃꯐꯝ ꯱ ꯗꯥ ꯆꯠꯍꯟꯂꯨ",
 	"wm-license-cc-free-to-remix-header": "ꯑꯃꯨꯛꯀꯥ ꯌꯥꯟꯁꯤꯟꯅꯍꯟꯕꯥ",
 	"wm-license-cc-free-to-remix-text": "ꯊꯥꯕꯛꯇꯨꯒꯥ ꯆꯨꯁꯤꯟꯅꯍꯟꯕꯥ",
-	"wm-license-cc-conditions": "Makhalgi yanaba gi makha ponna",
+	"wm-license-cc-conditions": "ꯃꯈꯥꯒꯤ ꯌꯥꯅꯕꯒꯤ ꯃꯈꯥ ꯄꯣꯟꯅ:",
 	"wm-license-cc-conditions-attribution-header": "ꯈꯣꯝꯒꯠꯂꯛꯄꯥ",
-	"wm-license-cc-conditions-attribution-text": "ꯅꯪꯅ must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).",
+	"wm-license-cc-conditions-attribution-text": "ꯅꯪꯅ ꯆꯞꯆꯥꯕ ꯇꯧꯕꯤꯃꯜ ꯄꯤꯕꯤꯒꯗꯕꯅꯤ, ꯑꯌꯥꯕ ꯄꯤꯔꯤꯕꯁꯤꯡꯒ ꯁꯝꯅꯐꯝ ꯄꯤꯒꯗꯕꯅꯤ ꯑꯃꯁꯨꯡ ꯑꯍꯣꯡꯕ ꯈꯔꯥ ꯂꯩꯔꯗꯤ ꯃꯗꯨ ꯎꯠꯀꯗꯕꯅꯤ ꯫ ꯅꯪꯅ ꯃꯗꯨ ꯃꯔꯝ ꯂꯩꯅ ꯇꯧꯒꯗꯕꯅꯤ, ꯑꯗꯨꯕꯨ ꯑꯌꯥꯕ ꯄꯥꯏꯔꯤꯕꯗꯨꯅ ꯍꯥꯏꯔꯛꯄ ꯃꯑꯣꯡ ꯅꯠꯇ꯭ꯔꯒ ꯅꯪꯅ ꯁꯤꯖꯤꯟꯅꯕ ꯃꯑꯣꯡꯗ ꯇꯧꯔꯣꯏꯗꯕꯅꯤ ꯫",
 	"wm-license-cc-conditions-share_alike-header": "ꯃꯥꯟꯅꯕꯥ ꯁꯥꯔꯨꯛ",
-	"wm-license-cc-conditions-share_alike-text": "If you alter, transform, or build upon this ꯊꯕꯛ, you may distribute the resulting work only under the same or similar license to this one."
+	"wm-license-cc-conditions-share_alike-text": "ꯀꯔꯤꯒꯨꯝꯅ ꯅꯪꯅ ꯌꯥꯟꯁꯤꯟꯅꯔꯕ, ꯍꯣꯡꯗꯣꯛꯍꯟꯂꯕ, ꯅꯠꯇ꯭ꯔꯒ ꯄꯣꯠꯆꯪꯁꯤꯡ ꯁꯥꯒꯠꯂꯕꯗꯤ, ꯅꯪꯒꯤ ꯍꯣꯠꯅꯖꯃꯟ ꯑꯗꯨ ꯃꯁꯤꯒꯤ [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license]ꯒꯤ \nꯃꯈꯥꯗ ꯎꯠꯀꯗꯕꯅꯤ ꯑꯁꯦꯡꯕ ꯑꯅꯧꯕ ꯱ ꯑꯣꯏꯅ ꯂꯧꯗꯨꯅ ꯫"
 }

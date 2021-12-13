@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"ShockD",
-			"StanProg"
+			"StanProg",
+			"YavBav09"
 		]
 	},
 	"project-localized-name-aawiki": "Уикипедия на афарски",
@@ -298,6 +299,7 @@
 	"project-localized-name-gnwikibooks": "Уикикниги на гуарани",
 	"project-localized-name-gnwiktionary": "Уикиречник на гуарани",
 	"project-localized-name-gomwiki": "Уикипедия на конкани",
+	"project-localized-name-gomwiktionary": "Уикиречник на конкани",
 	"project-localized-name-gorwiki": "Уикипедия на горонтало",
 	"project-localized-name-gotwiki": "Уикипедия на готски",
 	"project-localized-name-gotwikibooks": "Уикикниги на готически",
@@ -349,6 +351,7 @@
 	"project-localized-name-hywikiquote": "Уикицитат на арменски",
 	"project-localized-name-hywikisource": "Уикиизточник на арменски",
 	"project-localized-name-hywiktionary": "Уикиречник на арменски",
+	"project-localized-name-hywwiki": "Уикипедия на западноарменски",
 	"project-localized-name-hzwiki": "Уикипедия на хереро",
 	"project-localized-name-iawiki": "Уикипедия на интерлингва",
 	"project-localized-name-iawikibooks": "Уикикниги на интерлингва",
@@ -856,6 +859,7 @@
 	"project-localized-name-wawiktionary": "Уикиречник на валонски",
 	"project-localized-name-wg_enwiki": "Работна група на Уикипедия на английски",
 	"project-localized-name-wikidatawiki": "Уикиданни",
+	"project-localized-name-wikimaniawiki": "Уики на Уикимания",
 	"project-localized-name-wikimania2005wiki": "Уики на Уикимания 2005",
 	"project-localized-name-wikimania2006wiki": "Уики на Уикимания 2006",
 	"project-localized-name-wikimania2007wiki": "Уики на Уикимания 2007",

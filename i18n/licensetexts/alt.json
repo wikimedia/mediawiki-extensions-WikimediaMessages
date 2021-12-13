@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Батыр Комдошев"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "Бу документти копировать эдерге, таркадарга ла/эмезе ӧскӧртӧргӧ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''некелтелер аайынча  јарадып турган, 1.2 версиязы эмезе кийнинде кепке базылган[[{{int:wm-license-fsf-wiki-link}}|Јайым программный једимдештиҥ фондтыҥ]]; солытпас бӧлӱктерлӱ, кадарыныҥ бажында ла учында салынган бичимелдер јогынаҥ.''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' деп  бажалыкталган бӧлӱкте лицензияныҥ копиязы кожылган.",
+	"wm-license-information-description": "Јартамалы",
+	"wm-license-information-source": "Алынган јери",
+	"wm-license-information-date": "Ӧйи",
+	"wm-license-information-author": "Авторы",
+	"wm-license-information-permission": "Аргалар",
+	"wm-license-information-permission-reusing-text": "Бу файлды такып эдингени",
+	"wm-license-own-work": "бойыныҥ ижи",
+	"wm-license-self-multiple-licenses-select": "Бу лицензиялардыҥ тизиминеҥ кандыйын да болзо талдап алар."
+}

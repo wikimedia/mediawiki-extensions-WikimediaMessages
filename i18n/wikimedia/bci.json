@@ -7,5 +7,14 @@
 	"sitesupport": "Man liké",
 	"tooltip-n-sitesupport": "Amoun ouka é",
 	"wikimedia-copyright": "Klèlwè nga ô wo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike i mmla</a> i sou;\nbe kwla sou mmla ouflè ékoun moun bé sou.\nAmoun nian <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Djouman dilè i sou mmla</a> i sou, sè amoun kounndè i sin ndè.",
-	"wikimedia-developers": "Dévélopeur"
+	"wikimedia-copyrightwarning": "Sè amoun fa floua boué nga fa sié, amoun kpli [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] i mmla sou, kôkoun amoun kpli sou kè amoun oukalè sou djouman ô nanti  [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ôni [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] bé mmla sou.\nAmoun kpli sou kè bé fa hyperlink annzè URL liein moun \"Creative Commons license\" i sou.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Dévélopeur",
+	"wikimedia-globalblocking-ipblocked": "'''Bé djranni amoun adressi IP [[m:Special:MyLanguage/Global blocks|wikis kloua moun bé sou]].'''\n$1 ($2) yè ô djranni i ô.\nLiké nga ôman ô yé sô yè ''$3''.\n\n* Djranlè i bobolè: $4\n* Djranlè i aviéliè: $5\n\nDô nga sou amoun adressi IP yô lé $6.\nAmoun yatchi, amoun fa ndè nga bé wo nglo wafan moun bé klouaa fa sié i sa klouaa nga amoun woussa noun.\n\nSè amoun boui kè bé sa to fouan li tiè bé djranni amoun, amoun kloua woun ndè ouflè ôni afôtuè [[m:Special:MyLanguage/No open proxies|No open proxies]] i lika klouaa nantilè sou mmla noun. \nAnnzè, sè amoun kounndè koko amoun djranlè i sou djôlè, amoun yatchi [[m:Steward requests/Global|amoun fa amoun sa woussalè bla Meta-Wiki sou]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Proxi serveur koun annzè i kpangban, nga amoun sa woussalè sin noun moun [[m:Special:MyLanguage/Global blocks|ba djran bé lika klouaa wiki sou]].'''\n\n$1 ($2) yè ô djranni i ô.\nLiké nga ôman ô yé sô yè ''$3''.\n\n* Djranlè i bobolè: $4\n* Djranlè i aviéliè: $5\n\nDô nga sou amoun adressi IP yô lé $6.\nAmoun yatchi, amoun fa ndè nga bé wo nglo wafan moun bé klouaa fa sié i sa klouaa nga amoun woussa noun.\n\nSè amoun boui kè bé sa to fouan li tiè bé djranni amoun, amoun kloua woun ndè ouflè ôni afôtuè [[m:Special:MyLanguage/No open proxies|No open proxies]] i lika klouaa nantilè sou mmla noun. \nAnnzè, sè amoun kounndè koko amoun djranlè i sou djôlè, amoun yatchi [[m:Steward requests/Global|amoun fa amoun sa woussalè bla Meta-Wiki sou]].",
+	"wikimedia-statslink": "Ndè i sin kalè",
+	"wikimedia-cookiestatement": "Cookie i sou djôlè"
 }

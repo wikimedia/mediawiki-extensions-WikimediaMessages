@@ -5,7 +5,8 @@
 			"J budissin",
 			"Michawiki",
 			"Mikławš",
-			"Nemo bis"
+			"Nemo bis",
+			"MuratTheTurkish"
 		]
 	},
 	"wikimediamessages-desc": "Specifiske zdźělenki Wikimedije",
@@ -61,9 +62,9 @@
 	"group-filemover": "Přesuwarjo datajow",
 	"group-filemover-member": "{{GENDER:$1|přesuwar datajow|přesuwarka datajow}}",
 	"grouppage-filemover": "{{ns:project}}:Přesuwarjo datajow",
-	"group-flood": "Botowi wužiwarjo",
-	"group-flood-member": "{{GENDER:$1|botowy wužiwar|botowa wužiwarka}}",
-	"grouppage-flood": "{{ns:project}}:Botowi wužiwarjo",
+	"group-flood": "Pseudoboćiki",
+	"group-flood-member": "{{GENDER:$1|pseudoboćik}}",
+	"grouppage-flood": "{{ns:project}}:Pseudoboćiki",
 	"group-founder": "Załožerjo",
 	"group-founder-member": "{{GENDER:$1|załožer|załožerka}}",
 	"grouppage-founder": "{{ns:project}}:Załožerjo",
@@ -137,7 +138,7 @@
 	"group-staff-member": "sobudźěłaćerjo",
 	"group-steward": "Stewardźa",
 	"group-steward-member": "{{GENDER:$1|steward|stewardesa}}",
-	"grouppage-steward": "m:Stewardźa",
+	"grouppage-steward": "m:Stewards/hsb",
 	"group-sysadmin": "Systemowi administratorojo",
 	"group-sysadmin-member": "{{GENDER:$1|systemowy administrator|systemowa administratorka}}",
 	"grouppage-sysadmin": "m:Systemowi administratorojo",
@@ -169,5 +170,7 @@
 	"interlanguage-link-sitename-mul": "{{SITENAME}} we wjacorych rěčach",
 	"interlanguage-link-sitename-wikipedia": "Wikipedija, swobodna encyklopedija",
 	"restriction-level-superprotect": "superškit",
-	"protect-level-editeditorprotected": "Jenož kontroleram dowolić"
+	"protect-level-editeditorprotected": "Jenož kontroleram dowolić",
+	"wikimedia-statslink": "Statistiki",
+	"wikimedia-cookiestatement": "Stejišćo wo cookiejach"
 }

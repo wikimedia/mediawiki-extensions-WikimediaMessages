@@ -5,7 +5,11 @@
 			"Kassem7899",
 			"Meno25",
 			"بدارين",
-			"ديفيد"
+			"ديفيد",
+			"Michel Bakni",
+			"NEHAOUA",
+			"SaldırganSincap",
+			"Shbib Al-Subaie"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في اليوم الأخير، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
@@ -32,5 +36,7 @@
 	"wikimedia-ipb-confirmhideuser": "أنت على وشك منع مستخدم مع تفعيل \"إخفاء المستخدم\"، سيؤدي ذلك إلى منع اسم المستخدم في جميع القوائم ومدخلات السجلات في هذه الويكي، هل أنت متأكد أنك تريد أن تفعل ذلك؟ \n\nإذا كان اسم المستخدم يجب أن يكون مخفيا في جميع ويكيات ويكيميديا، فيُرجَى الاتصال [[m:Special:MyLanguage/Stewards|بالمضيفين]] من خلال [[m:Special:EmailUser/Wikimedia_Stewards|البريد الإلكتروني على الويكي]] أو <kbd>stewards@wikimedia.org</kbd>. شكرا لك.",
 	"wikimedia-urlshortener-disabled": "لا يمكن إنشاء الروابط القصيرة إلا عبر صفحة[[:m:Special:UrlShortener|خاص:مقصر المسار]] على meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "meta.wikimedia.org يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع",
+	"wikimedia-urlshortener-badaccessgroups": "لا يمكن إنشاء الروابط القصيرة إلا عبر صفحة[[:m:Special:UrlShortener|خاص:مقصر المسار]] على meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع meta.wikimedia.org.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سياسة الخصوصية]"
 }

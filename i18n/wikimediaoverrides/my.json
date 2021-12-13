@@ -1,6 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Dr Lotus Black",
+			"Ninjastrikers"
+		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ရွေးချယ်ရန် ကူညီပေးပါ)]]",
+	"wikimedia-createacct-imgcaptcha-help": "ရုပ်ပုံကို မမြင်ရပါသလား [[{{MediaWiki:createacct-captcha-help-url}}|အကောင့်တစ်ခု တောင်းဆိုပါ]]",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy ကိုယ်ရေးမူဝါဒ]"
 }

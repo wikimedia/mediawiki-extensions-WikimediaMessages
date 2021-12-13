@@ -3,7 +3,8 @@
 		"authors": [
 			"StevenJ81",
 			"Universal Life",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"WikiiiTranslator"
 		]
 	},
 	"sitesupport": "Donos",
@@ -12,5 +13,14 @@
 	"group-flood-member": "{{GENDER:$1|pseudobot}}",
 	"grouppage-flood": "{{ns:project}}:Permeso de mabúl (flooder)",
 	"wikimedia-copyright": "El teksto está disponivle debaxo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lecencia de Creative Commons Attribution-ShareAlike</a>; pueden aver otras kondisyones. Para mas detalyos, mira las<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Kondisyones d'Usaje</a>.",
-	"wikimedia-developers": "Desvelopadores"
+	"wikimedia-copyrightwarning": "Al guardar los trocamientos de la hoja, aseptas los [https://foundation.wikimedia.org/wiki/Terms_of_Use Términos de Uso], y tu irrevocablemente aseptas a guardar tus trocamientos bajo la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License lisensia CC BY-SA 3.0] y la[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAseptas que un hiperenlase o URL es atribusión sufisiente bajo la lisencia Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Vikinoticias",
+	"wikibase-sitelinks-wikiquote": "Vikiquote",
+	"wikibase-sitelinks-wikisource": "Vikimanadero",
+	"wikibase-sitelinks-wikivoyage": "Vikiviajes",
+	"wikimedia-developers": "Desvelopadores",
+	"wikimedia-globalblocking-ipblocked": "<strong>Tu direksión ''IP'' ha sido blokeada en [[m:Special:MyLanguage/Global blocks|todas las vikis]] de la Fondasión Vikimedya.</strong>\n\nEl blokeo fue realisado por $1 ($2)\nLa rasón del blokeo es la siguiente: $3\n\n*Inisio del blokeo: $4\n*Expirasión del blokeo: $5\n\nTu direksión IP aktual es $6.\nPor favor inkluye todos los detayes anteriores en kualquier consulta ke agas sobre el tema.\n\nSi krees que esta IP se blokeó por error, mira [[m:Special:MyLanguage/No open proxies|''No open proxies'']] en Meta-Viki.\nSi no es el kaso, para diskutir el blokeo [[m:Steward requests/Global|publika una solicitud en Meta-Viki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "<strong>Una o más de los servidores proksy usado(s) por tu solisitud está aktualmente blokeada de [[m:Special:MyLanguage/Global blocks|todas las vikis]] de la Fondasión Vikimedya.</strong>\n\nEl blokeo fue realisado por $1 ($2)\nLa rasón del blokeo es la siguiente: $3\n\n*Inisio del blokeo: $4\n*Expirasión del blokeo: $5\n\nLa direksión del proksy blokeado es: $6.\nPor favor inkluye todos los detayes anteriores en kualquier consulta ke agas sobre el tema.\n\nSi krees que esta IP se blokeó por error, mira [[m:Special:MyLanguage/No open proxies|''No open proxies'']] en Meta-Viki.\nSi no es el kaso, para diskutir el blokeo [[m:Steward requests/Global|publika una solicitud en Meta-Viki]].",
+	"wikimedia-statslink": "Estatístikas",
+	"wikimedia-cookiestatement": "Deklarasión de cookies"
 }

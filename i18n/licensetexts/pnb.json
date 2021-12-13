@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Khalid Mahmood"
+			"Khalid Mahmood",
+			"Abbas dhothar"
 		]
 	},
 	"wm-license-attribution-with-author-text": "ایس فائل دے کاپی حق رکھن والا $1 ہر اک نوں اجازت دیندا اے  جے اوہ اینوں ورتے کسے وی کم ل‏ئ پر پر کاپی حق رکھن والے دا ناں لازمی دسے۔",
@@ -22,7 +23,7 @@
 	"wm-license-book-editor": "ایڈیٹر",
 	"wm-license-book-illustrator": "دسن والا",
 	"wm-license-book-language": "بولی",
-	"wm-license-book-page-overview": "صفہ ویکھنا",
+	"wm-license-book-page-overview": "صفحہ ویکھنا",
 	"wm-license-book-place-of-publication": "چھپن تھاں",
 	"wm-license-book-printer": "پرنٹر",
 	"wm-license-book-publisher": "چھاپن والا",

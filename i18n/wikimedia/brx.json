@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"ⓝⓘⓙⓦⓜ"
+			"ⓝⓘⓙⓦⓜ",
+			"Brxeditor",
+			"Mr. Nijwmsa Boro",
+			"Ⓝⓘⓙⓦⓜ"
 		]
 	},
-	"sitesupport": "दान हो"
+	"sitesupport": "दान हो",
+	"tooltip-n-sitesupport": "जोंनो हेफाजाब हो",
+	"wikibase-sitelinks-wikinews": "विकिनिउज",
+	"wikibase-sitelinks-wikiquote": "विकिकट",
+	"wikibase-sitelinks-wikisource": "विकिसर्च",
+	"wikibase-sitelinks-wikivoyage": "विकिभयेज",
+	"wikimedia-developers": "बानायगिरिफोर"
 }

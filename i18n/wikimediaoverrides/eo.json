@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"KuboF"
+			"KuboF",
+			"NMaia",
+			"Robin van der Vliet"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(helpu min elekti)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ĉu vi ne vidas la bildon? [[{{MediaWiki:createacct-captcha-help-url}}|Petu konton]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Uzantnomo"
+	"createacct-helpusername-url": "{{ns:Project}}:Uzantnomo",
+	"wikimedia-urlshortener-disabled": "Mallongaj ligiloj nur povas esti kreitaj per la paĝo [[:m:Special:UrlShortener|Special:UrlShortener]] ĉe meta.wikimedia.org.",
+	"wikimedia-urlshortener-badaccessgroups": "Mallongaj ligiloj nur povas esti kreitaj per la paĝo [[:m:Special:UrlShortener|Special:UrlShortener]] ĉe meta.wikimedia.org.",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy/eo Regularo pri privateco]"
 }

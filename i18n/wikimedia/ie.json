@@ -4,14 +4,28 @@
 			"Fanjiayi",
 			"Malafaya",
 			"OIS",
-			"Stavanger7"
+			"Stavanger7",
+			"Mithridates",
+			"Renan"
 		]
 	},
 	"sitesupport": "Donationes",
 	"tooltip-n-sitesupport": "Alimenta nos",
+	"group-rollbacker": "Revocatores",
+	"group-rollbacker-member": "{{GENDER:$1|revocator}}",
+	"grouppage-rollbacker": "{{ns:project}}:Revocatores",
+	"group-global-rollbacker": "Revocatores global",
+	"group-global-rollbacker-member": "{{GENDER:$1|revocator global}}",
+	"grouppage-global-rollbacker": "m:Revocator global",
+	"wikimedia-copyright": "Textu es disponibil sub li <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Autorisation Creative Commons Atribution-Distribution in Conditiones de Egal Autorisation 3.0 Non-Adaptat</a>;\nconditiones additional posse aplicar.\nVider li <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Conditiones de Usu</a> por detallies.",
+	"wikimedia-copyrightwarning": "Conservant tui changes, vu concorda che li [https://foundation.wikimedia.org/wiki/Terms_of_Use Conditiones de Usu], e vu ínrevocabilmen concorda in liberar tui contribution sub li [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Autorisation CC BY-SA 3.0] e [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nVu concorda que un hiperligament o URL es un atribution suficent sub li autorisation Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Developatores"
+	"wikimedia-developers": "Developatores",
+	"wikimedia-globalblocking-ipblocked": "'''Tui adresse de IP ha esset [[m:Special:MyLanguage/Global blocks|blocat in omni wikis]].'''\n\nLi blocada esset fat per $1 ($2).\nLi rason dat es ''$3''.\n\n* Orígine del blocada: $4\n* Expiration del blocada: $5\n\nTui current adresse de IP es $6.\nPleser includer omni li detallies supra in qualcunc question que vu far.\n\nSi vu crede que vu esset blocat per errore, vu posse constatar additional information e instructiones in li politica global de [[m:Special:MyLanguage/No open proxies|nequant surogates apert]].\nAltrimen, por discusser li blocada pleser [[m:Steward requests/Global|inaugura un petition por revision in Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Un o plu servitores de surogate usat per tui petition es [[m:Special:MyLanguage/Global blocks|globalmen blocat]].'''\n\nLi blocada esset fat per $1 ($2).\nLi rason dat es ''$3''.\n\n* Orígine del blocada: $4\n* Expiration del blocada: $5\n\nLi adresse de surogate blocat esset $6.\nPleser includer omni li detallies supra in qualcunc question que vu far.\n\nSi vu crede que vu esset blocat per errore, vu posse constatar additional information e instructiones in li politica global de [[m:Special:MyLanguage/No open proxies|nequant surogates apert]].\nAltrimen, por discusser li blocada pleser [[m:Steward requests/Global|inaugura un petition por revision in Meta-Wiki]].",
+	"wikimedia-statslink": "Statisticas",
+	"wikimedia-cookiestatement": "Declaration pri cookies"
 }

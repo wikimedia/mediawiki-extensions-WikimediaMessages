@@ -3,14 +3,24 @@
 		"authors": [
 			"Amara-Amaziɣ",
 			"Dalinanir",
-			"Zanatos"
+			"Zanatos",
+			"Amire80",
+			"Ayour2002",
+			"Lhoussine AIT TAYFST"
 		]
 	},
-	"sitesupport": "ⴰⵡⵙ ⴰⵖ ⵙ ⵉⵇⴰⵔⵉⴹⵏ",
-	"tooltip-n-sitesupport": "ⵙⵏⴰⵍ ⴰⵖ",
+	"sitesupport": "Aws aɣ s iqariḍn",
+	"tooltip-n-sitesupport": "Cjɛat aɣ",
 	"group-import": "Willi di tawin",
-	"wikibase-sitelinks-wikinews": "ⵡⵉⴽⵉⵏⵖⵎⵉⵙⵏ",
-	"wikibase-sitelinks-wikisource": "ⵡⵉⴽⵉⵙⴰⴳⵎ",
-	"wikibase-sitelinks-wikivoyage": "ⵡⵉⴽⵉⵎⵓⴷⴷⵓ",
-	"wikimedia-developers": "ⵉⵎⵙⵖⵉⵡⵙⵏ"
+	"wikimedia-copyright": "Aḍṛiṣ ad illa ddu <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nẓḍarn ad fllas zaydn tifadiwin yaḍn.\nẒr <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Tifadiwin n uswuri</a> iɣ trit ad tssnt uggar.",
+	"wikimedia-copyrightwarning": "S uḥbu n isnfiln, rad tqblt [https://foundation.wikimedia.org/wiki/Terms_of_Use Tiwtilin n usmras], udiɣ ad tqblt i lebdaad tssuffɣd attki nnk dduw n [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-Turagt ShareAlike_3.0_Unported_License CC BY-SA 3.0] d ula [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAd tqblt masd aseɣwen neɣ tansa URL iga imawlan iqaddn dduw n turagt Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikinɣmisn",
+	"wikibase-sitelinks-wikiquote": "Wikiawal",
+	"wikibase-sitelinks-wikisource": "Wikisagm",
+	"wikibase-sitelinks-wikivoyage": "Wikimuddu",
+	"wikimedia-developers": "Imsɣiwsn",
+	"wikimedia-globalblocking-ipblocked": "'''Tansa IP nnk [[m:Special:MyLanguage/Global blocks|ttugdal ɣ akkʷ iwikitn]].'''\n\nAgddul iskr t $1 ($2).\nTamntilt ittufkan tga tt ''$3''.\n\n* Antti n ugddul : $4\n* Tigira n ugddul : $5\n\nTansa nnk IP tamirant tga tt $6.\nIɣ as tufit, skcm icmumma akkʷ n yizdar ɣ ku tuttra nna tskrt.\n\nIɣ tnnit is tettugdald s uzgal, tzḍart ad taft ugga n inɣmisn d wumlan ɣ tsrtit tamatayt [[m:Special:MyLanguage/No open proxies|Uu illi kran upṛuksi irẓmn]].\nNɣ, iɣ trit ad tmsgdald f ugddul ad [[m:Steward requests/Global|azn yat tuttra n uzzray ɣ Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Yan nɣ mnnaw n iqddacn inɣlifn tssmrs tuttra nnk  [[m:Special:MyLanguage/Global blocks|ttugdaln s umata]].'''\n\nAgddul iskr t $1 ($2).\nAsrag ittufkan iga t ''$3''.\n\n* Antti n ugddul : $4\n* Tigira n ugddul : $5\n\ntansa n unɣlif ittugdaln tga tt $6.\nIɣ as tufit, ssidf icmumma akk n yizdar ɣ ku tuttra nna tskrt.\n\nIɣ tnnit mas tettugdald ɣar ɣmknna, tzḍart ad taft uggar n inɣmisn d wumlan ɣ tsrtit tamatayt [[m:Special:MyLanguage/No open proxies|ur illi unɣlif irẓmn]].\nNɣ, iɣ trit ad tmsawald f ugddul, iɣ tufit [[m:Steward requests/Global|azn yattuttra n uzzray  i Meta-Wiki]].",
+	"wikimedia-statslink": "Tisiḍam",
+	"wikimedia-cookiestatement": "Tasɣrut n Cookies"
 }

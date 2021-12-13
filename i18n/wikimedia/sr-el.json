@@ -12,7 +12,10 @@
 			"Srdjan m",
 			"Zoranzoki21",
 			"Жељко Тодоровић",
-			"Сербијана"
+			"Сербијана",
+			"Kizule",
+			"MinecraftAustralia",
+			"Srđan"
 		]
 	},
 	"wikimediamessages-desc": "Poruke specifične za Vikimediju.",
@@ -145,6 +148,8 @@
 	"wikibase-otherprojects-wikiquote": "Vikicitat",
 	"wikibase-otherprojects-wikipedia": "Vikipedija",
 	"wikibase-otherprojects-wikisource": "Vikizvornik",
+	"wikibase-otherprojects-wikiversity": "Vikiverzitet",
+	"wikibase-otherprojects-wikivoyage": "Vikiputovanja",
 	"wikibase-otherprojects-wiktionary": "Vikirečnik",
 	"wikibase-otherprojects-wikimania": "Vikimanija",
 	"wikibase-sitelinks-sitename-commonswiki": "Ostava",
@@ -170,5 +175,6 @@
 	"eri-rcfilters-tour-confirm-description": "Možete otvoriti <strong>stranicu za beta mogućnosti</strong> da biste dali povratne informacije ili isključili ovu mogućnost.",
 	"wikimedia-centralauth-contribs-locked": "Ovaj nalog je globalno zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1]].",
 	"right-viewdeletedfile": "pregledanje obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
+	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }

@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Robin van der Vliet",
-			"Yekrats"
+			"Yekrats",
+			"NMaia"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Kontrolado",
 	"group-oversight": "Kontrolantoj",
-	"group-oversight-member": "Kontrolado",
+	"group-oversight-member": "{{GENDER:$1|kontrolado}}",
 	"hello": "Saluton",
 	"thank-you": "{{GENDER:$1|Dankon.}}"
 }

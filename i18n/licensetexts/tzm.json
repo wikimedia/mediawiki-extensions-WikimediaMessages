@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tifinaghes"
+			"Tifinaghes",
+			"Hakim1bal"
 		]
 	},
 	"wm-license-artwork-artist": "ⴰⵏⴰⵥⵓⵔ",
@@ -27,7 +28,8 @@
 	"wm-license-creator-location-of-birth-and-death": "ⴰⴷⵖⴰⵔ ⵏ ⵜⵍⴰⵍⵉⵜ/ⵜⴰⵎⵜⵜⴰⵏⵜ",
 	"wm-license-creator-work-period": "ⵜⵉⵣⵉ ⵏ ⵜⵡⵓⵔⵉ",
 	"wm-license-creator-work-location": "ⴰⴷⵖⴰⵔ ⵏ ⵜⵡⵓⵔⵉ",
-	"wm-license-information-date": "ⴰⴽⵓⴷ",
+	"wm-license-information-source": "Asagem",
+	"wm-license-information-date": "Asakud",
 	"wm-license-information-author": "ⴰⵎⵙⴽⴰⵔ",
 	"wm-license-pd-wiki-link": "w:tzm:public domain"
 }

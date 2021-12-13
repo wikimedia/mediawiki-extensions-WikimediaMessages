@@ -5,7 +5,9 @@
 			"Pyt",
 			"Robin van der Vliet",
 			"Robin0van0der0vliet",
-			"Snakesteuben"
+			"Snakesteuben",
+			"MinecraftAustralia",
+			"MuratTheTurkish"
 		]
 	},
 	"sitesupport": "Donaasjes",
@@ -29,12 +31,12 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|globale IP-blokfrijstelde}}",
 	"grouppage-global-ipblock-exempt": "m:Globale IP-blokfrijstelden",
 	"group-global-sysop": "Globale behearders",
-	"group-global-sysop-member": "{{GENDER:$1|globale behearder}}",
+	"group-global-sysop-member": "{{GENDER:$1|globale behearder|globale behearster}}",
 	"group-staff": "Stêf",
 	"group-staff-member": "{{GENDER:$1|stêflid}}",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward|stewardess}}",
-	"grouppage-steward": "m:Stewards",
+	"grouppage-steward": "m:Stewards/fy",
 	"group-translationadmin": "Oersettingsbehearders",
 	"group-translationadmin-member": "oersettings{{GENDER:$1|behearder|behearster}}",
 	"grouppage-translationadmin": "{{ns:project}}:Oersettingsbehearders",

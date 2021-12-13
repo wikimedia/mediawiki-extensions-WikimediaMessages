@@ -6,7 +6,8 @@
 			"KHMELNYTSKYIA",
 			"Krinkle",
 			"Tkalyn",
-			"Vlad5250"
+			"Vlad5250",
+			"Gramo6"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлїня, характерістічны про Вікімедію",
@@ -70,7 +71,7 @@
 	"group-interface-editor-member": "редактор інтерфейсу",
 	"grouppage-interface-editor": "{{ns:project}}:Редакторы інтерфейсу",
 	"group-ipblock-exempt": "Выняткы з блокованя IP адрес",
-	"group-ipblock-exempt-member": "выняткок з блокованя IP адрес",
+	"group-ipblock-exempt-member": "выняток з блокованя IP адрес",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Выняткы з блокованя IP адрес",
 	"group-patroller": "Патролы",
 	"group-patroller-member": "патрола",
@@ -98,13 +99,18 @@
 	"group-steward-member": "стевард",
 	"group-sysadmin": "Сістемовы адміністраторы",
 	"group-sysadmin-member": "сістемный адміністратор",
+	"shared-repo-name-shared": "Вікісклад",
 	"wikimedia-copyright": "Текст доступний на умовах ліцензії <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nтакож можуть діяти додаткові умови.\nДетальніше див. <a href=\"https://foundation.wikimedia.org/wiki/Умови_використання\">Умови використання</a>.",
 	"wikimedia-copyrightwarning": "Уложінём ваш приспівок непокликательно увольнюєте під ліценціями [https://creativecommons.org/licenses/by-sa/3.0/deed.rue Creative Commons Зазначте автора&nbsp;– Вскокотьте ліценцію&nbsp;3.0] і&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL]. Согласите з&nbsp;тым, жебы далшы хоснователї ваше авторство увели холем формов гіпертекстового одказу або адресы на сторінку, до котрой приспівате. Детайлы найдете в&nbsp;[https://foundation.wikimedia.org/wiki/Условія_хоснованя условіях хоснованя].",
 	"wikibase-repo-name": "Вікіданы",
+	"wikibase-otherprojects-commons": "Вікісклад",
 	"wikimedia-developers": "Розробники",
+	"interlanguage-link-commons": "Вікісклад",
 	"protect-level-superprotect": "Дозволяти лем хоснователям з правами супер-охраны",
 	"right-templateeditor": "Едітованя замкнутых шаблонів",
 	"right-extendedconfirmed": "Едітованя замкнутых сторінок",
 	"right-editeditorprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editeditorprotected}}“",
-	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“"
+	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“",
+	"wikimedia-statslink": "Статістика",
+	"wikimedia-cookiestatement": "Кукі"
 }

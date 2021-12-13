@@ -1,18 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Katxis"
+			"Katxis",
+			"Dentonius"
 		]
 	},
-	"sitesupport": "Doniet",
-	"tooltip-n-sitesupport": "Supuot wi",
-	"wikimedia-copyright": "Tex avielobl anda di <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> adishanal toermz maita aplai. Si <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Toermz a Yuus</a> fi ditiel.",
+	"sitesupport": "Sen' on a money",
+	"tooltip-n-sitesupport": "Support di ting",
+	"wikimedia-copyright": "Di tex' deh pon <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nmemba dat adda legal business weh nuh mention might can add on pon dis. Pree <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Condition fi use wi Service</a> fi more information.",
 	"wikimedia-copyrightwarning": "Bai yu sieb demaya chienj, yu agrii tu di [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], ah yu irivokabli agrii fi riliis yu kanchribyuushan anda di [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ah di [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Yu agrii se wah aipalingk ar URL a sofishant achribyuushan anda di Creative Commons laisn.‎",
 	"wikibase-sitelinks-wikinews": "Wikinyuuz‎",
 	"wikibase-sitelinks-wikiquote": "Wikikuot‎",
 	"wikibase-sitelinks-wikisource": "Wikisuos‎",
 	"wikibase-sitelinks-wikivoyage": "Wikivayij‎",
-	"wikimedia-developers": "Divelopa",
+	"wikimedia-developers": "Developer",
 	"wikimedia-globalblocking-ipblocked": "'''Yu IP ajres get [[m:Special:MyLanguage/Global blocks|blak pah aal wiki]].'''\n\nDi blak eh mek bai $1 ($2).\nDi riizn deh gi a ''$3''.\n\n* Taat a blak: $4\n* Expairi a blak: $5\n\nYu korant IP ajres a $6.\nPliiz ingkluud aal tapsaid ditiel ina eni kueri yu mek.\n\nEf yu biliiv se yu get blak bai mistiek, yu kiah fain adishanal infamieshan ah inschrokshan ina di [[m:Special:MyLanguage/No open proxies|No uopm praxi]] gluobal palisi.\nAdawaiz, fi diskos di blak pliiz [[m:Steward requests/Global|puos rikues fi rivyuu pah Meta-Wiki]].‎",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Wan ar muo praxi saaba yuuz bai yu rikues get [[m:Special:MyLanguage/Global blocks|gluobali blak]].'''\n\nDi blak eh mek bai $1 ($2).\nDi riizn deh gi a ''$3''.\n\n* Taat a blak: $4\n* Expairi a blak: $5\n\nDi blak praxi ajres eh $6.\nPliiz ingkluud aal ditiel tapsaid ina eni kueri yu mek.\n\nEf yu biliib se yu get blak bai mistiek, yu kiah fain adishanal infamieshan ah inschrokshan ina di [[m:Special:MyLanguage/No open proxies|No uopm praxi]] gluobal palisi.\n\nAdawaiz, fi diskos di blak pliiz [[m:Steward requests/Global|puos rikues fi rivyuu pah Meta-Wiki]].‎Edita"
 }

@@ -14,7 +14,8 @@
 			"Smooth O",
 			"Srdjan m",
 			"Zoranzoki21",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Srđan"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -77,9 +78,9 @@
 	"group-mover": "Premještači",
 	"group-mover-member": "{{GENDER:$1|premještač|premještačica}}",
 	"grouppage-mover": "{{ns:project}}:Premještači",
-	"group-flood": "Korisnici-botovi",
-	"group-flood-member": "{{GENDER:$1|korisnik-bot|korisnica-bot}}",
-	"grouppage-flood": "{{ns:project}}:Korisnici-botovi",
+	"group-flood": "Pseudobotovi",
+	"group-flood-member": "{{GENDER:$1|pseudobot}}",
+	"grouppage-flood": "{{ns:project}}:Pseudobotovi",
 	"group-founder": "Osnivači",
 	"group-founder-member": "{{GENDER:$1|osnivač|osnivačica}}",
 	"grouppage-founder": "{{ns:project}}:Osnivači",

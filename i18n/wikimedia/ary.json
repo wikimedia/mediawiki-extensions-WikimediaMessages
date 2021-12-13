@@ -3,11 +3,15 @@
 		"authors": [
 			"Abdeaitali",
 			"Anass Sedrati",
-			"SADIQUI"
+			"SADIQUI",
+			"Ideophagous",
+			"Reda Benkhadra"
 		]
 	},
-	"sitesupport": "عطي فلوس",
+	"sitesupport": "عاون لفريق",
 	"tooltip-n-sitesupport": "عاونا",
+	"group-confirmed": "خدايميا مكونفيرمين",
+	"group-ipblock-exempt": "مستتنين من لبلوك د لأيپي",
 	"wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nإقدر تكون بنود أخرى مطبقة.\nشوف <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> على قبل التفاصيل.",
 	"wikimedia-copyrightwarning": "إلى ضغطتي على زر \"{{int:savearticle}}\"، فانت كتوافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] وترخيص المساهمات دياولك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوكتوافق باش تنسب المساهمات دياولك ليك، برخصة المشاع الإبداعي، عن طريق رابط صافي.",
 	"wikibase-sitelinks-wikinews": "ويكي الأخبار",
@@ -16,5 +20,6 @@
 	"wikibase-sitelinks-wikivoyage": "ويكي الرحلات",
 	"wikimedia-developers": "مُطوِّرين",
 	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت ديالك [[m:Special:MyLanguage/Global blocks|قد تم منعه فكاع الويكيات]].'''\n\nالمنع دارو $1 ($2).\nو&nbsp;السبب المعطى هو ''$3''.\n\n* بدء المنع: $4\n* انتهاء المنع: $5\n\nعنوان بروتوكول الإنترنت ديالك هو $6.\nخاص تذكر كاع التفاصيل المذكورة لفوق فأي استعلامات تديرها.\n\nإلا كنتي تاتشوف بلي تدار المنع غلط، فتقدر تلقا معلومات وإرشادات إضافية في السياسة العامة [[m:Special:MyLanguage/No open proxies|لا بروكسيات مفتوحة]].\nخلاف داكشي، إلا بغيتي مناقشة المنع [[m:Steward requests/Global|فودع طلب للمراجعة في ميتاويكي]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''واحد لپروكسي اللي طلبتيه ولاكثر [[m:Special:MyLanguage/Global blocks|تبلوكا من ڭاع لويكيات]].'''\n\nالمنع دارو $1 ($2).\nو&nbsp;السبب اللي عطا هو ''$3''.\n\n* بدا لمنع: $4\n* أيسالي لمنع: $5\n\nعنوان لپروكسي اللي تمنع هو $6.\nخاص تذكر كاع التفاصيل المذكورة لفوق فأي استعلامات تديرها.\n\nإلا كنتي تاتشوف بلي تدار المنع غلط، فتقدر تلقا معلومات وإرشادات إضافية فالسياسة لعامة [[m:Special:MyLanguage/No open proxies|لا پروكسيات مفتوحة]].\nمن غير داكشي، إلا بغيتي مناقشة المنع [[m:Steward requests/Global|صيفط طلب للمراجعة ف ميطا ويكي]]."
+	"wikimedia-globalblocking-ipblocked-xff": "'''واحد لپروكسي اللي طلبتيه ولاكثر [[m:Special:MyLanguage/Global blocks|تبلوكا من ڭاع لويكيات]].'''\n\nالمنع دارو $1 ($2).\nو&nbsp;السبب اللي عطا هو ''$3''.\n\n* بدا لمنع: $4\n* أيسالي لمنع: $5\n\nعنوان لپروكسي اللي تمنع هو $6.\nخاص تذكر كاع التفاصيل المذكورة لفوق فأي استعلامات تديرها.\n\nإلا كنتي تاتشوف بلي تدار المنع غلط، فتقدر تلقا معلومات وإرشادات إضافية فالسياسة لعامة [[m:Special:MyLanguage/No open proxies|لا پروكسيات مفتوحة]].\nمن غير داكشي، إلا بغيتي مناقشة المنع [[m:Steward requests/Global|صيفط طلب للمراجعة ف ميطا ويكي]].",
+	"wikimedia-statslink": "إحصائيات"
 }

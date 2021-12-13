@@ -12,9 +12,9 @@
 		]
 	},
 	"wikimediamessages-desc": "Тимчасові повідомлення для Вікімедіа",
-	"grouppage-oversight": "{{ns:project}}:Ревізори",
-	"group-oversight": "Ревізори",
-	"group-oversight-member": "{{GENDER:$1|ревізор}}",
+	"grouppage-oversight": "{{ns:project}}:Приховувачі",
+	"group-oversight": "Приховувачі",
+	"group-oversight-member": "{{GENDER:$1|приховувач|приховувачка}}",
 	"hello": "Привіт",
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
 	"thank-you": "{{GENDER:$1|Дякуємо.}}",

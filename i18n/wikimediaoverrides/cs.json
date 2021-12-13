@@ -5,7 +5,10 @@
 			"Mormegil",
 			"Nemo bis",
 			"Patriccck",
-			"YjM"
+			"YjM",
+			"Adam N.",
+			"Patrik L.",
+			"SaldırganSincap"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Uživatelé používající vaši IP adresu za poslední den vytvořili už $1 {{PLURAL:$1|účet|účty|účtů}}, což je pro toto období maximum.\nProto není v tuto chvíli dovoleno z této IP adresy zakládat další účty.\n\nPokud se účastníte události, která se zaměřuje na přispívání do projektů Wikimedia, podívejte se na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žádost o dočasné zrušení omezení pro IP adresu]], aby šlo tento problém vyřešit.",
@@ -32,7 +35,7 @@
 	"wikimedia-ipb-confirmhideuser": "Chystáte se zablokovat uživatele se zapnutým příznakem „skrýt uživatele“. Tím se uživatelské jméno utají ve všech seznamech a protokolovacích záznamech. Jste si {{GENDER:|jist|jista|jisti}}, že to chcete učinit?\n\nPokud je potřeba toto uživatelské jméno skrýt na všech wiki nadace Wikimedia, kontaktujte prosím [[m:Special:MyLanguage/Stewards|stevardy]] pomocí [[m:Special:EmailUser/Wikimedia_Stewards|formuláře]] nebo na <kbd>stewards@wikimedia.org</kbd>. Děkujeme.",
 	"wikimedia-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze prostřednictvím stránky [[:m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org.",
-	"wikimedia-urlshortener-badaccessgroups": "Zkrácené odkazy lze vytvářet pouze na stránce [[m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
+	"wikimedia-urlshortener-badaccessgroups": "Zkrácené odkazy lze vytvářet pouze na stránce [[:m:Special:UrlShortener|Special:UrlShortener]] na meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Krátké odkazy lze vytvářet pouze požadavkem na wiki meta.wikimedia.org.",
 	"wikimedia-webauthn-module-description": "WebAuthn (Webová autentizace) je webový standard, který vydalo World Wide Web Consortium (W3C). WebAuthn je základní komponentou projektu FIDO2 vedeném sdružením FIDO Alliance. Cílem tohoto projektu je standardizace rozhraní pro autentizaci uživatelů do webových aplikací a služeb pomocí kryptografie s veřejným klíčem. [https://en.wikipedia.org/wiki/WebAuthn Více informací]. Uvědomte si prosím, že se budete muset přihlašovat ke stejné wiki, na které jste si původně {{GENDER:|zaregistroval|zaregistrovala|zaregistrovali}} své ověřovací zařízení.",
 	"wikimedia-webauthn-ui-login-prompt": "Dotkněte se prosím svého ověřovacího zařízení nebo následujte pokyny prohlížeče. Uvědomte si prosím, že se budete muset přihlašovat ke stejné wiki, na které jste si původně zaregistrovali své ověřovací zařízení.",

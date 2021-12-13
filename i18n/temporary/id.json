@@ -3,10 +3,17 @@
 		"authors": [
 			"IvanLanin",
 			"Iwan Novirion",
-			"Rex"
+			"Rex",
+			"Akmaie Ajam",
+			"Daud I.F. Argana"
 		]
 	},
+	"wikimediamessages-desc": "Pesan sementara khusus Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Pengawas",
 	"group-oversight": "Pengawas",
-	"group-oversight-member": "{{GENDER:$1|pengawas}}"
+	"group-oversight-member": "{{GENDER:$1|pengawas}}",
+	"hello": "Halo",
+	"please-translate": "Tolong bantu terjemahkan ke bahasa Anda",
+	"thank-you": "{{GENDER:$1|Terima kasih.}}",
+	"specialblockfeedback": "Umpan balik"
 }

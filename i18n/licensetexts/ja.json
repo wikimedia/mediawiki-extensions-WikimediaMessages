@@ -13,7 +13,8 @@
 			"Whym",
 			"おはぐろ蜻蛉",
 			"柑橘類",
-			"青子守歌"
+			"青子守歌",
+			"TKsdik8900"
 		]
 	},
 	"wm-license-attribution-with-author-text": "このファイルの著作権者$1は、あらゆる人が'''あらゆる目的で'''このファイルを使用することを許可しています。'''ただし'''著作権者の名義が適切に表示されることを条件とします。再頒布、二次的著作物の製作、商用利用等のあらゆる使用が許可されています。",
@@ -45,7 +46,7 @@
 	"wm-license-book-translator": "翻訳者",
 	"wm-license-book-volume": "冊数",
 	"wm-license-book-year-of-publication": "出版年",
-	"wm-license-cecill-text": "この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]の規約にもどづき、この作品を再配布、改変することができます。CeCILLライセンスの規約は、[{{int:wm-license-cecill-full-link}} www.cecill.info]をご覧ください。",
+	"wm-license-cecill-text": "この作品は[[{{int:wm-license-free-software-wiki-link}}|フリーソフトウェア]]です。あなたは、[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]の規約に基づき、この作品を再配布、改変できます。CeCILLライセンスの規約は、[{{int:wm-license-cecill-full-link}} www.cecill.info]をご覧ください。",
 	"wm-license-cecill-wiki-link": "w:ja:CeCILL",
 	"wm-license-creator-alternative-names": "別名",
 	"wm-license-creator-description": "説明",
@@ -90,7 +91,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/ja",
 	"wm-license-original-upload-log": "元のアップロードログ",
 	"wm-license-own-work": "投稿者自身による作品",
-	"wm-license-pd-author-self-text": "この作品の著作権者である私は、この作品の権利を放棄し'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''とします。これは全世界で適用されます。",
+	"wm-license-pd-author-self-text": "この著作物の著作権者である私は、この著作物における権利を放棄し'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''とします。これは全世界で適用されます。",
 	"wm-license-pd-author-with-author-text": "この作品は、作者である'''$1'''によって権利が放棄され、'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''とされました。これは全世界的で適用されます。",
 	"wm-license-pd-author-not-legally-possible": "一部の国では、これが法的に可能ではない場合があります。その場合:",
 	"wm-license-pd-author-self-any-purpose": "私は、あらゆる人に対して、法により必要とされている条件を除きいかなる条件も課すことなく、'''あらゆる目的'''のためにこの作品を使用する権利を与えます。",
@@ -109,5 +110,5 @@
 	"wm-license-self-one-license-with-author": "この作品の著作権者である$1は、この作品を以下のライセンスで提供しています。",
 	"wm-license-self-multiple-licenses": "この作品の著作権者である私は、この作品を以下のライセンスで提供します。",
 	"wm-license-self-multiple-licenses-with-author": "この作品の著作権者である$1は、この作品を以下のライセンスで提供しています。",
-	"wm-license-self-multiple-licenses-select": "あなたは上記のライセンスから、どれか一つ以上を選択することができます。"
+	"wm-license-self-multiple-licenses-select": "あなたは上記のライセンスから、どれか一つ以上を選択できます。"
 }

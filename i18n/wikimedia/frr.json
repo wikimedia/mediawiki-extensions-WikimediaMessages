@@ -187,5 +187,7 @@
 	"restriction-level-editeditorprotected": "seekert (bluas kontrolöören)",
 	"wikimedia-centralauth-contribs-locked": "Detdiar brükerkonto as globaal speret wurden. \nMuar diartu fanjst dü oner\n[[m:Special:CentralAuth/$1|Neis tu't globaal brükerkonto]].",
 	"right-viewdeletedfile": "Stregen datein an sidjen uun a nöömrümer „{{ns:file}}“ an „{{ns:file_talk}}“ uunluke",
-	"securepoll-dblist-securepollglobal": "Wool faan't schüür"
+	"securepoll-dblist-securepollglobal": "Wool faan't schüür",
+	"wikimedia-statslink": "Statistiken",
+	"wikimedia-cookiestatement": "Cookie ferhualen"
 }

@@ -45,7 +45,7 @@
 	"group-abusefilter-member": "{{GENDER:$1|redaktanto de misuzadaj filtriloj}}",
 	"grouppage-abusefilter": "{{ns:project}}:Redaktantoj de misuzadaj filtriloj",
 	"group-accountcreator": "Kreintoj de kontoj",
-	"group-accountcreator-member": "{{GENDER:$1|kreero di konti}}",
+	"group-accountcreator-member": "{{GENDER:$1|kreanto de kontoj}}",
 	"grouppage-accountcreator": "{{ns:project}}:Kreintoj de kontoj",
 	"group-arbcom": "Komitatano de arbitracia komitato",
 	"group-arbcom-member": "{{GENDER:$1|komitatano de arbitracia komitato}}",
@@ -98,7 +98,7 @@
 	"group-rollbacker": "Restarigantoj",
 	"group-rollbacker-member": "{{GENDER:$1|restariganto}}",
 	"grouppage-rollbacker": "{{ns:project}}:Restarigantoj",
-	"group-transwiki": "Importintoj de Transvikio",
+	"group-transwiki": "Transvikiaj importantoj",
 	"group-transwiki-member": "{{GENDER:$1|transvikia importanto}}",
 	"grouppage-transwiki": "{{ns:project}}:Transvikiaj importantoj",
 	"group-trusted": "Fidelaj uzantoj",
@@ -116,6 +116,7 @@
 	"group-global-sysop-member": "{{GENDER:$1|ĝenerala administranto}}",
 	"group-ombuds": "Ombudoj",
 	"group-ombuds-member": "{{GENDER:$1|ombudo}}",
+	"grouppage-ombuds": "m:Ombuds commission/eo",
 	"group-staff": "Dungitaro",
 	"group-staff-member": "dungito",
 	"group-steward": "Stevardoj",
@@ -162,5 +163,6 @@
 	"upload-form-label-not-own-work-local-commons": "Vi ankaŭ eble dezirus provi per uzi [[Special:Upload|la paĝon de alŝutado sur {{SITENAME}}]], se ĉi tiu dosiero povas esti alŝutita tie respektante de iliaj politikoj.",
 	"interlanguage-link-wikipedia": "Vikipedio",
 	"eri-rcfilters-tour-help": "Lerni plu",
+	"wikimedia-statslink": "Statistikoj",
 	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj"
 }
