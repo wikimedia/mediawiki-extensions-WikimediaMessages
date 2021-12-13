@@ -3,6 +3,7 @@
 		"authors": [
 			"Cheers!",
 			"Dinhxuanduyet",
+			"Keo010122",
 			"KhangND",
 			"Leduyquang753",
 			"Matma Rex",
@@ -299,5 +300,8 @@
 	"wikimedia-cookiestatement": "Tuyên bố về cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Trang này có tải đủ nhanh không?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Để tìm hiểu thêm, hãy đọc [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement lời tuyên bố về quyền riêng tư] của cuộc thăm dò ý kiến này.",
-	"wikimedia-switchover-read-only": "Bạn hiện không thể sửa đổi do hệ thống đang được bảo trì. Xin sao lưu nội dung và thử lại sau vài phút."
+	"wikimedia-switchover-read-only": "Bạn hiện không thể sửa đổi do hệ thống đang được bảo trì. Xin sao lưu nội dung và thử lại sau vài phút.",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Có",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Không",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tôi không chắc"
 }

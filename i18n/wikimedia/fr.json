@@ -410,7 +410,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "Au cours des 30 derniers jours, vous êtes-vous senti en insécurité ou mal à l'aise en contribuant à {{SITENAME}} ?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Oui",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Non",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Durant les trente derniers jours, vous êtes-vous senti mal à l’aise ou inquiet en contribuant à {{SITENAME}} ({{SERVERNAME}}) ?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Durant les trente derniers jours, vous êtes-vous senti mal à l’aise ou inquiet en contribuant à {{SITENAME}}  ?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Oui",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Non",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Je ne sais pas",

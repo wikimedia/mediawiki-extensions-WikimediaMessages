@@ -12,6 +12,7 @@
 			"Jmarchn",
 			"Jmontane",
 			"Joan manel",
+			"Jsn.sherman",
 			"Juanpabl",
 			"Laia Benito Pericas",
 			"Leptictidium",
@@ -27,6 +28,7 @@
 			"Solde",
 			"Ssola",
 			"Syum90",
+			"TAndic (WMF)",
 			"Toniher",
 			"Vriullop",
 			"Xavier Dengra"
@@ -203,5 +205,10 @@
 	"wikimedia-cookiestatement": "Declaració de cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "S'ha carregat prou de pressa, aquesta pàgina?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Per a més informació; vegeu [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaració de privadesa].",
-	"querypage-updates-half-monthly": "Les actualitzacions d'aquesta pàgina es publiquen dues vegades al mes."
+	"querypage-updates-half-monthly": "Les actualitzacions d'aquesta pàgina es publiquen dues vegades al mes.",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "En els darrers 30 dies, t’has sentit insegur/a o incòmoda/e contribuint a la {{SITENAME}}?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sí",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "No n’estic segur/a",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Aquest sondeig anònim està dirigit per la Fundació Wikimedia ([https://meta.wikimedia.org/wiki/Community_Safety més informació] - [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy declaració de privacitat])."
 }

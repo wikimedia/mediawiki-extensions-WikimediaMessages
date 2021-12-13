@@ -97,5 +97,8 @@
 	"action-docseditor": "canciari ducumintazzioni",
 	"right-docseditor": "Cancia ducumintazzioni",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "No"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Nun sugnu sìcuru"
 }

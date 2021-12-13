@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gazimagomedov"
+			"Gazimagomedov",
+			"Omarov M."
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуция",
-	"wm-license-cc-free": "Дуе эркенго кӀола:",
-	"wm-license-cc-conditions-attribution-header": "атрибуция"
+	"wm-license-cc-free": "Дуда эркенго бажарула:",
+	"wm-license-cc-conditions-attribution-header": "атрибуцион"
 }

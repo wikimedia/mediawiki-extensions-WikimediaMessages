@@ -344,7 +344,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "Дали во изминатите 30 дена сте се почувствувале небезбедно или непријатно учествувајќи на {{SITENAME}}?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Не",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Дали во изминатите 30 дена сте се почувствувале небезбедно или непријатно учествувајќи на {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Дали во изминатите 30 дена сте се почувствувале небезбедно или непријатно учествувајќи на {{SITENAME}} ?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не знам",
