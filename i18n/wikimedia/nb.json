@@ -351,5 +351,6 @@
 	"action-docseditor": "redigere dokumentasjon",
 	"right-docseditor": "Redigere dokumentasjon",
 	"right-edit-legal": "Redigere sider med mulige juridiske konsekvenser",
-	"action-edit-legal": "redigere sider med potensielle juridiske konsekvenser"
+	"action-edit-legal": "redigere sider med potensielle juridiske konsekvenser",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} de siste 30 dagene?"
 }
