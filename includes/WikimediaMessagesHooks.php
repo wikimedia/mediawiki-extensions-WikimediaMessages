@@ -197,6 +197,16 @@ class WikimediaMessagesHooks implements
 					throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 			}
 		}
+
+		if ( $lcKey === 'mainpage-title-loggedin' ) {
+			if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+				$services = MediaWikiServices::getInstance();
+				$context = $services->getService( 'MobileFrontend.Context' );
+				if ( $context->shouldDisplayMobileView() ) {
+					$lcKey = 'wikimedia-mobile-mainpage-title-loggedin';
+				}
+			}
+		}
 	}
 
 	/**

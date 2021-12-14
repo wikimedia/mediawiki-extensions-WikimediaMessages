@@ -218,6 +218,7 @@
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] and [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikinews-mobile-license-links": "[https://creativecommons.org/licenses/by/2.5/ CC BY 2.5]",
 	"wikinews-mobile-license-links-ccby30": "[https://creativecommons.org/licenses/by/3.0/ CC BY 3.0]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welcome}}, $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-page-schema-publisher-name": "Wikimedia Foundation, Inc.",
 	"wikibase-page-schema-author-name": "Contributors to Wikimedia projects",
