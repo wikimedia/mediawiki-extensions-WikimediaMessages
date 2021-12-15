@@ -353,5 +353,7 @@
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
 	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц.",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет"
 }
