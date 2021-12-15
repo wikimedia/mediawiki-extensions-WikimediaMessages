@@ -5,6 +5,12 @@
 		]
 	},
 	"wm-license-cc-by-sa-3.0-text": "Es fixeru sta kubertu pa lisensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Attribution-ShareAlike 3.0 Unported].",
+	"wm-license-cc-free": "Bu podi:",
+	"wm-license-cc-free-to-share-header": "partilha",
+	"wm-license-cc-free-to-share-text": "kopia, distribui i transmiti es obra",
+	"wm-license-cc-free-to-remix-header": "mistura",
+	"wm-license-cc-free-to-remix-text": "adapta es obra",
+	"wm-license-cc-conditions": "Na kondisons sigintis:",
 	"wm-license-cc-conditions-attribution-header": "atribuison",
 	"wm-license-cc-conditions-attribution-text": "Bu ten ki indika ken ke autor, fornesi un iperligason pa lisensa, i mensiona si foi fetu algun alterason. Bu podi fazel di kualker forma razuável, ma sen sujeri ki lisensiador ta apoia bu uzu des obra.",
 	"wm-license-cc-conditions-share_alike-header": "partilha igual",
