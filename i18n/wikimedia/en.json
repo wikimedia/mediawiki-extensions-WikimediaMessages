@@ -343,7 +343,7 @@
 	"right-editautoreviewprotected": "Edit pages protected as \"{{int:protect-level-editautoreviewprotected}}\"",
 	"action-editautoreviewprotected": "edit pages protected as \"{{int:protect-level-editautoreviewprotected}}\"",
 	"protect-level-editautopatrolprotected": "Allow only autopatrollers",
-	"restriction-level-editautopatrolprotected": "autopatrolers protected",
+	"restriction-level-editautopatrolprotected": "autopatroller protected",
 	"right-editautopatrolprotected": "Edit pages protected as \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "edit pages protected as \"{{int:protect-level-editautopatrolprotected}}\"",
 	"protect-level-edittrustedprotected": "Allow only trusted users",
