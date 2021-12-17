@@ -38,6 +38,9 @@
 		"WikimediaMessagesHooks": "includes/WikimediaMessagesHooks.php"
 	},
 	"ResourceModules": {
+		"ext.wikimediamessages.contactpage.affcomchapthorg": {
+			"styles": "ext.wikimediamessages.contactpage.affcomchapthorg.css"
+		},
 		"ext.wikimediamessages.contactpage.affcomusergroup": {
 			"styles": "ext.wikimediamessages.contactpage.affcomusergroup.css"
 		},
