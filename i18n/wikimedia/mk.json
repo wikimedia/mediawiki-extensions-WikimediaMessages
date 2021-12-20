@@ -211,6 +211,7 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Зачувувајќи ги промените, се согласувате на [https://foundation.wikimedia.org/wiki/Terms_of_Use/mk?uselang=mk Условите на употреба] и неотповикливо се согласувате дека ги објавувате вашите придонеси под условите на лиценцата [https://mk.wikipedia.org/wiki/Википедија:Текст_на_лиценцата_Creative_Commons_Наведи_извор-Сподели_под_исти_услови_3.0_Нелокализирана CC-BY-SA 3.0].\nСе согласувате дека наведувањето на хиперврска или URL-адреса претставува достатно оддавање на заслуга според лиценците на Криејтив комонс.",
 	"wikimedia-license-links": "лиценцата [https://creativecommons.org/licenses/by-sa/3.0/deed.mk CC BY-SA 3.0] и [https://mk.wikipedia.org/wiki/Википедија:Текст_на_ГНУ-овата_лиценца_за_слободна_документација ГЛСД]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.mk CC BY-SA 3.0] и [https://www.gnu.org/licenses/fdl.html ГЛСД]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Добре дојдовте}}, $1!",
 	"wikibase-repo-name": "Википодатоци",
 	"wikibase-page-schema-publisher-name": "Фондација Викимедија",
 	"wikibase-page-schema-author-name": "Учесници на Викимедиини проекти",

@@ -204,6 +204,7 @@
 	"wikimedia-copyrightwarning": "변경사항을 저장한다는 것은 [https://foundation.wikimedia.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스]와 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)에 따라 기여를 배포하는 데 영구히 동의함을 뜻하며, 더불어 크리에이티브 커먼즈 라이선스에 따라 하이퍼링크나 URL이 저작자표시의 수단으로 활용될 수 있음에도 동의함을 뜻합니다.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 라이선스] 및 [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] 및 [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "$1님, {{GENDER:$1|환영합니다}}!",
 	"wikibase-repo-name": "위키데이터",
 	"wikibase-page-schema-author-name": "위키미디어 프로젝트 기여자",
 	"wikibase-statementsection-constraints": "제약 조건",

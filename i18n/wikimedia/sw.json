@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kipala",
 			"Kwisha",
 			"Lloffiwr",
 			"Malangali",
@@ -48,6 +49,9 @@
 	"wikibase-sitelinks-wikinews": "Wikihabari",
 	"wikibase-sitelinks-wikiquote": "Wikidondoa",
 	"wikibase-sitelinks-wikisource": "Wikichanzo",
+	"wikimedia-developers": "Waunzi programu",
 	"wikimediashoplink-linktext": "Duka la Wikimedia",
-	"wikimediashoplink-link-tooltip": "Tembelea duka la Wikimedia"
+	"wikimediashoplink-link-tooltip": "Tembelea duka la Wikimedia",
+	"wikimedia-statslink": "takwimu",
+	"wikimedia-cookiestatement": "Maelezo ya kuki"
 }
