@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minh Nguyen"
+			"Minh Nguyen",
+			"NguoiDungKhongDinhDanh"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia tiếng Afar",
@@ -603,7 +604,7 @@
 	"project-localized-name-orwikisource": "Wikisource tiếng Oriya",
 	"project-localized-name-orwiktionary": "Wiktionary tiếng Oriya",
 	"project-localized-name-oswiki": "Wikipedia tiếng Ossetia",
-	"project-localized-name-otrs_wikiwiki": "Wiki OTRS",
+	"project-localized-name-otrs_wikiwiki": "VRT Wiki",
 	"project-localized-name-outreachwiki": "Wiki Tiếp cận",
 	"project-localized-name-pa_uswikimedia": "Wikimedia Pennsylvania",
 	"project-localized-name-pagwiki": "Wikipedia tiếng Pangasinan",
