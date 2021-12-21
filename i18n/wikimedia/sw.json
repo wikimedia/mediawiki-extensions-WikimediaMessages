@@ -7,7 +7,8 @@
 			"Nemo bis",
 			"Rance",
 			"Yasen igra",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Kipala"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalum za Wikimedia",
@@ -48,6 +49,9 @@
 	"wikibase-sitelinks-wikinews": "Wikihabari",
 	"wikibase-sitelinks-wikiquote": "Wikidondoa",
 	"wikibase-sitelinks-wikisource": "Wikichanzo",
+	"wikimedia-developers": "Waunzi programu",
 	"wikimediashoplink-linktext": "Duka la Wikimedia",
-	"wikimediashoplink-link-tooltip": "Tembelea duka la Wikimedia"
+	"wikimediashoplink-link-tooltip": "Tembelea duka la Wikimedia",
+	"wikimedia-statslink": "takwimu",
+	"wikimedia-cookiestatement": "Maelezo ya kuki"
 }

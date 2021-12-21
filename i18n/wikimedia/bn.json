@@ -109,7 +109,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:আইপি বাধামুক্ত",
 	"group-patroller": "পর্যবেক্ষক",
 	"group-patroller-member": "{{GENDER:$1|পর্যবেক্ষক}}",
-	"grouppage-patroller": "{{ns:project}}:স্বয়ংক্রিয় পরীক্ষক",
+	"grouppage-patroller": "{{ns:project}}:পর্যবেক্ষক",
 	"group-propertycreator": "বৈশিষ্ট্য স্রষ্টা",
 	"group-propertycreator-member": "{{GENDER:$1|বৈশিষ্ট্য স্রষ্টা}}",
 	"group-researcher": "গবেষক",
