@@ -5,12 +5,15 @@
 		]
 	},
 	"wm-license-cc-attribution": "ᨹᩮᩥ᩠ᨿᨴᩦ᩵ᨾᩣ",
-	"wm-license-cc-by-sa-3.0-text": "ᨼᩱᩃ᩺ᨶᩦ᩶ᩀᩪ᩵ᨲᩲ᩶ᩈᩢᨬ᩠ᨬᩣᩋᨶᩩᨬᩣ᩠ᨲ [[{{int:wm-license-cc-wiki-link}}|ᨤᩕᩦᩋᩮᨵᩦ᩠ᨷᨼ᩺ᨤᩬᨾᨾᩬᨶ᩠ᩈ᩺]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en แบบแสดงที่มา-อนุญาตแบบเดียวกัน 3.0 ต้นฉบับ]",
-	"wm-license-cc-free": "ᨴ᩵ᩤ᩠ᨶᩈᩣᨾᩣᨲ᩠ᨳ᩺:",
+	"wm-license-cc-by-sa-3.0-text": "ᨼᩱᩃ᩺ᨶᩦ᩶ᩀᩪ᩵ᨲᩲ᩶ᩈᩢᨬ᩠ᨬᩣᩋᨶᩩᨬᩣ᩠ᨲ [[{{int:wm-license-cc-wiki-link}}|ᨤᩕᩦᩋᩮᨵᩦ᩠ᨷᨼ᩺ᨤᩬᨾᨾᩬᨶ᩠ᩈ᩺]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en ᨷᩯ᩠ᨷᨹᩮᩥ᩠ᨿᨴᩦ᩵ᨾᩣ-ᩋᨶᩩᨬᩣ᩠ᨲᩀ᩵ᩣ᩠ᨿᨯ᩠ᨿᩅᨠᩢ᩠ᨶ 3.0 ᨨᨷᩢ᩠ᨷᨣᩮᩢ᩶ᩣ]",
+	"wm-license-cc-free": "ᨴ᩵ᩤ᩠ᨶᨾᩦᩍᩔᩁ:",
 	"wm-license-cc-free-to-share-header": "ᨴᩦ᩵ᨧᩢᩈᩫ᩠᩵ᨦᨲᩬᩴ᩵",
 	"wm-license-cc-free-to-share-text": "ᨴᩦ᩵ᨧᩢᩃᩬᨠᨷᩯ᩠ᨷ ᨧᩯ᩠ᨠ ᩓᩈᩫ᩠᩵ᨦᨦᩣ᩠ᨶᨶᩢ᩠᩶ᨶᨲᩬᩴ᩵ᨻᩱ",
 	"wm-license-cc-free-to-remix-header": "ᨴᩦ᩵ᨧᩢᨧᩢ᩠ᨯᩃᩣᩴᨯᩢ᩠ᨷᨳᩯ᩠ᨾᩉ᩠ᨾᩲ᩵",
-	"wm-license-cc-free-to-remix-text": "ᨴᩦ᩵ᨧᩢᨯᩢ᩠ᨯᨸᩖᩯᨦᨦᩣ᩠ᨶᨶᩢ᩠᩶ᨶ",
+	"wm-license-cc-free-to-remix-text": "ᨴᩦ᩵ᨧᩢᨯᩢ᩠ᨯᨷᩕᩯᨦᩣ᩠ᨶᨶᩢ᩠᩶ᨶ",
+	"wm-license-cc-conditions": "ᨻᩣ᩠ᨿᨲᩲ᩶ᨦᩮᩬᩥ᩵ᩁᨡᩱᨲᩣ᩠ᨾᨶᩦ᩶:",
 	"wm-license-cc-conditions-attribution-header": "ᨹᩮᩥ᩠ᨿᨴᩦ᩵ᨾᩣ",
-	"wm-license-cc-conditions-share_alike-header": "ᩋᨶᩩᨬᩣ᩠ᨲᩀ᩵ᩣ᩠ᨦᨯ᩠ᨿᩅᨠᩢ᩠ᨶ"
+	"wm-license-cc-conditions-attribution-text": "ᨴ᩵ᩤ᩠ᨶᨧᩢ᩠ᨠᨲᩬ᩶ᨦᩉᩨ᩶ᨠᩣ᩠ᩁᨶᩢ᩠ᨷᨳᩨᨧᩮᩢ᩶ᩣᨡᩬᨦᨹᩫ᩠ᩃᨦᩣ᩠ᨶᩀ᩵ᩣ᩠ᨦᩉ᩠ᨾᩰᩬᩡᨣ᩠ᩅᩁ ᨲᩬ᩶ᨦᨾᩦᩃᩥᨦ᩠ᨣ᩺ᨻᩱᩉᩣᩈᩢᨬ᩠ᨬᩣᩋᨶᩩᨬᩣ᩠ᨲ ᩓᨷᩬᨠᨧᩯ᩠᩶ᨦᨾᩮᩬᩥ᩵ᩋᨾᩦᨠᩣ᩠ᩁᨸᩖ᩠᩵ᨿᩁᨷᩕᩯ ᨴ᩵ᩤ᩠ᨶᨧᩢᨠ᩠ᨴᩣᩴᨨᩢ᩠ᨶᨶᩦ᩶ᩀ᩵ᩣ᩠ᨦᨯᩲᨣᩴᨯᩱ᩶ᨲᩣ᩠ᨾᨴᩦ᩵ᩉ᩠ᨾᩰᩬᩡᨣ᩠ᩅᩁ ᨲᩯ᩵ᨧᩢ᩠ᨠᨲᩬ᩶ᨦᨷᩴᨠ᩠ᨴᩣᩴᩈᩬᩴ᩵ᩉᩨ᩶ᨡᩮᩢ᩶ᩣᨧᩲᩅ᩵ᩤᨹᩪ᩶ᩋᨶᩩᨬᩣ᩠ᨲᩁᩢ᩠ᨷᩁᩬᨦᨴ᩵ᩤ᩠ᨶᩁᩂᨠᩣ᩠ᩁᨩᩲ᩶ᨦᩣ᩠ᨶᨡᩬᨦᨴ᩵ᩤ᩠ᨶ",
+	"wm-license-cc-conditions-share_alike-header": "ᩋᨶᩩᨬᩣ᩠ᨲᩀ᩵ᩣ᩠ᨦᨯ᩠ᨿᩅᨠᩢ᩠ᨶ",
+	"wm-license-cc-conditions-share_alike-text": "ᨳ᩵ᩣᩅ᩵ᩤᨴ᩵ᩤ᩠ᨶᨯᩢ᩠ᨯᨷᩕᩯ ᨸᩖ᩠᩵ᨿᩁᩁᩪᨷ᩺ ᨣᩤᩅ᩵ᩤᨲᩯ᩠᩵ᨦᨲᩯ᩠᩶ᨾᨦᩣ᩠ᨶᨶᩦ᩶ ᨴ᩵ᩤ᩠ᨶᨲᩬ᩶ᨦᨹᩮᩥ᩠ᨿᨠᩣ᩠ᩁᨾᩦᩈ᩠ᩅ᩵ᩁᩁ᩠ᩅ᩵ᨾᨻᩣ᩠ᨿᨲᩲ᩶[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ᩈᩢᨬ᩠ᨬᩣᩋᨶᩩᨬᩣ᩠ᨲᩀ᩵ᩣ᩠ᨦᨶᩦ᩶ᨣᩤᩅ᩵ᩤᨴᩦ᩵ᩃᨾ᩶ᩣ᩠ᨿᨠᩢ᩠ᨶ]ᨴᩮᩢ᩵ᩣᨶᩢ᩠᩶ᨶ"
 }
