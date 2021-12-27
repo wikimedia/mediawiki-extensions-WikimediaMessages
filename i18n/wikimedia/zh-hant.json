@@ -38,7 +38,10 @@
 			"Xiplus",
 			"Yfdyh000",
 			"飞舞回堂前",
-			"星海"
+			"星海",
+			"Chubit",
+			"Ericliu1912",
+			"Stang"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -159,7 +162,7 @@
 	"group-rollbacker": "回退員",
 	"group-rollbacker-member": "{{GENDER:$1|回退員}}",
 	"grouppage-rollbacker": "{{ns:project}}:回退員",
-	"group-transwiki": "跨wiki匯入者",
+	"group-transwiki": "跨維基匯入者",
 	"group-transwiki-member": "{{GENDER:$1|跨wiki匯入者}}",
 	"grouppage-transwiki": "{{ns:project}}:跨wiki匯入者",
 	"group-templateeditor": "模板編輯員",
