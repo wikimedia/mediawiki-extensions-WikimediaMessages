@@ -16,6 +16,7 @@
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=scn",
 	"sitesupport": "Dunazzioni",
 	"tooltip-n-sitesupport": "Sustinìticci",
+	"nstab-sequence": "Siquenza",
 	"group-abusefilter": "Gisturi di filtra anti abbusi",
 	"group-accountcreator": "Criatura di cunti",
 	"group-accountcreator-member": "{{GENDER:$1|criaturi|criatrici|criaturi o criatrici}} di cunti",
@@ -93,6 +94,7 @@
 	"eri-rcfilters-tour-intro-welcome-button": "Ok, caputu",
 	"eri-rcfilters-tour-highlight-button": "Ok, caputu",
 	"wikimedia-statslink": "Statìstichi",
+	"wikimedia-cookiestatement": "Dichiarazzioni supra li cookie",
 	"action-docseditor": "canciari ducumintazzioni",
 	"right-docseditor": "Cancia ducumintazzioni"
 }

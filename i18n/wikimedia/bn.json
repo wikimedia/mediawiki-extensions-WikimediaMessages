@@ -17,7 +17,8 @@
 			"Wikitanvir",
 			"Zaheen",
 			"আফতাবুজ্জামান",
-			"Yahya"
+			"Yahya",
+			"Hirok Raja"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -121,7 +122,7 @@
 	"group-transwiki": "ট্রান্সউইকি আমদানিকারক",
 	"group-transwiki-member": "{{GENDER:$1|ট্রান্সউইকি আমদানিকারক}}",
 	"grouppage-transwiki": "{{ns:project}}:ট্রান্সউইকি আমদানিকারক",
-	"group-templateeditor": "টেপপ্লেট সম্পাদক",
+	"group-templateeditor": "টেমপ্লেট সম্পাদক",
 	"group-templateeditor-member": "{{GENDER:$1|টেমপ্লেট সম্পাদক}}",
 	"grouppage-templateeditor": "{{ns:project}}:টেমপ্লেট সম্পাদক",
 	"group-trusted": "আস্থাভাজন ব্যবহারকারী",

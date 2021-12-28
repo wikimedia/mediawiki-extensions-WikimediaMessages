@@ -8,7 +8,8 @@
 			"Railfail536",
 			"Tar Lócesilion",
 			"WTM",
-			"Woytecr"
+			"Woytecr",
+			"Matma Rex"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]",
@@ -35,6 +36,6 @@
 	"wikimedia-sitematrix-summary": "Ta strona specjalna zawiera spis wszystkich wiki Wikimedia.",
 	"wikimedia-ipb-confirmhideuser": "Zamierzasz zablokować użytkownika z włączoną opcją „ukryj użytkownika”. Spowoduje to pominięcie nazwy użytkownika we wszystkich listach i rejestrach. Czy na pewno chcesz to zrobić?\n\nJeżeli nazwa użytkownika musi zostać ukryta na wszystkich wiki Fundacji Wikipedia, skontaktuj się ze [[m:Special:MyLanguage/Stewards|stewardami]] na stewards@wikimedia.org.",
 	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) jest sieciowym standardem opracowanym przez organizację World Wide Web Consortium (W3C). Jest to podstawowy komponent projektu FIDO2, znajdującego się pod opieką  FIDO Alliance. Celem projektu jest standaryzacja interfejsu autoryzacji użytkowników do aplikacji sieciowych i usług korzystając z publicznych kluczy kryptograficznych. [https://en.wikipedia.org/wiki/WebAuthn Dowiedz się więcej]. Zwróć uwagę, że konieczne będzie logowanie się na tej samej wiki, na której pierwotnie zarejestrowano urządzenie uwierzytelniające.",
-	"wikimedia-webauthn-ui-login-prompt": "Dotknij swojego urządzenia uwierzytelniającego lub wykonaj instrukcje podane przez przeglądarkę. Zwróć uwagę, że będziesz musiał logować się na tej samej wiki, na której pierowtnie zarejestrowałeś urządzenie uwierzytelniające.",
+	"wikimedia-webauthn-ui-login-prompt": "Dotknij swojego urządzenia uwierzytelniającego lub wykonaj instrukcje podane przez przeglądarkę. Zwróć uwagę, że będziesz musiał logować się na tej samej wiki, na której pierwotnie zarejestrowałeś urządzenie uwierzytelniające.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Zasady_zachowania_poufności Zasady zachowania poufności]"
 }
