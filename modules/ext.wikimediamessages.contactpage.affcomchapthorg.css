@@ -1,0 +1,29 @@
+/* Styling for [[Special:Contact/affcomchapthorg]] */
+
+body.page-Special_Contact_affcomchapthorg .firstHeading {
+	background-color: #2f6fab;
+	color: #fff;
+	padding: 0.5em;
+	text-align: center;
+}
+
+#contactpage-affcomchapthorg {
+	width: inherit;
+}
+
+#contactpage-affcomchapthorg .mw-ui-radio label,
+#contactpage-affcomchapthorg > div > :nth-child( 1 ) label,
+#contactpage-affcomchapthorg > div > :nth-child( 2 ) label {
+	font-weight: bold;
+}
+
+#contactpage-affcomchapthorg > div > :nth-child( 3 ),
+#contactpage-affcomchapthorg > div > :nth-child( 4 ) {
+	display: none;
+}
+
+#contactpage-affcomchapthorg label > ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
