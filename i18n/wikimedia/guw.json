@@ -8,6 +8,7 @@
 		]
 	},
 	"sitesupport": "Nunina",
+	"group-otrs-member": "ogbẹ VRT tọn lẹ",
 	"group-vrt-permissions": "VRT menometenme",
 	"group-vrt-permissions-member": "{{sunnu kavi yonnu :$1|VRT menometenme}}",
 	"grouppage-vrt-permissions": "{{ns:azan ze na me}}:VRT menometenme",
