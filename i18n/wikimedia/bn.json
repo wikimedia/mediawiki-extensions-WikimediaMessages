@@ -248,7 +248,7 @@
 	"right-superprotect": "সুপার সুরক্ষার মাত্রা পরিবর্তন করুন",
 	"restriction-level-superprotect": "সুপার সুরক্ষা",
 	"action-templateeditor": "সুরক্ষিত টেমপ্লেটসমূহ সম্পাদনা করার",
-	"right-templateeditor": "সংরক্ষিত টেমপ্লেটসমূহ সম্পাদনা করুন",
+	"right-templateeditor": "সংরক্ষিত টেমপ্লেটসমূহ সম্পাদনা করা",
 	"restriction-level-templateeditor": "টেমপ্লেট সম্পাদক সুরক্ষিত",
 	"protect-level-templateeditor": "একমাত্র টেমপ্লেট সম্পাদক ও প্রশাসকদের অনুমতি দিন",
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" হিসাবে সুরক্ষিত পাতায় সম্পাদনা",

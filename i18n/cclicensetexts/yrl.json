@@ -4,10 +4,16 @@
 			"Karapananguasú Kururú Teremembé"
 		]
 	},
+	"wm-license-cc-attribution": "Muẽgipupiçawa",
+	"wm-license-cc-by-sa-3.0-text": "Kuá mukatiuruçawa puruçawa i mumurikuana mutarawa rekô'etá upé [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.pt Mureçewara-Muĩgawa mutarawa'etá rekô kuaye 3.0 Unported].",
 	"wm-license-cc-free": "Ĩdé imutara:",
 	"wm-license-cc-free-to-share-header": "Umuĩ kití",
+	"wm-license-cc-free-to-share-text": "kupiá pirí, umeẽ açui umurú kuá munhãgawa",
 	"wm-license-cc-free-to-remix-header": "amũmix pirí",
 	"wm-license-cc-free-to-remix-text": "mutenhé muraki pirí",
+	"wm-license-cc-conditions": "Kuá tekô'etá rupí:",
 	"wm-license-cc-conditions-attribution-header": "muẽgipupiçawa",
-	"wm-license-cc-conditions-share_alike-header": "Umuĩ yawé"
+	"wm-license-cc-conditions-attribution-text": "Ĩdé rerikú remeẽ waá kredito apropriawa, umeẽ yepé link mutarawa kití açui umupika sinimuka'etá ramẽ tausó umunhã'ana. Ĩdé remurú remunhã yawá yepé rapé tekôwara, mari nemairamẽ remunhã yepé rapé rupí umeẽ waá mira'etá taumaité mutarawaçara umuçeé ĩdé ã nepuruçawa.",
+	"wm-license-cc-conditions-share_alike-header": "Umuĩ yawé",
+	"wm-license-cc-conditions-share_alike-text": "Ĩdé amũmix ramẽ, umuyumunhã ã umunhã materiawa reçé, ĩdé rerikú waá remururú ne pitimũgawa'etá [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses mutarawa yawé ã yumẽ] rupí mayé yupirũwara."
 }
