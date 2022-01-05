@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jeeputer",
 			"Ladsgroup",
 			"Mjbmr",
 			"Reza1615",
@@ -43,5 +44,8 @@
 	"contactpage-license-abuse-theircontact": "تماس فرد سواستفاده کنند (در صورتی که می‌دانید)",
 	"contactpage-license-abuse-yourcontact": "اطلاعات تماس شما (اگر قصد دارید با شما تماس گرفته شود)",
 	"contactpage-affcom-user-group-logo-community": "نماد جامعه ویکی‌مدیا",
+	"contactpage-affcom-chapter-thorg-group-mission-label": "مأموریت گروه",
+	"contactpage-affcom-chapter-thorg-elections-label": "انتخابات",
+	"contactpage-affcom-chapter-thorg-coc-label": "آیین‌نامه رفتاری",
 	"contactpage-title-stewards": "تماس با ویکی‌بدان"
 }

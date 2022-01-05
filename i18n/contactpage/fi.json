@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"01miki10",
+			"MITO",
 			"Nike",
 			"Pyscowicz",
 			"Valtlait"
@@ -50,6 +51,7 @@
 	"contactpage-license-abuse-theircontact": "Tavaramerkkiä väärin käyttävän henkilön yhteystiedot (mikäli tiedossa)",
 	"contactpage-license-abuse-yourcontact": "Yhteystietosi (jos saamme ottaa yhteyttä sinuun)",
 	"contactpage-affcom-user-group-logo-wm-logo": "”Jos haluat käyttää '''Wikimedia logoa''', voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].”",
+	"contactpage-affcom-chapter-thorg-elections-label": "Vaalit",
 	"contactpage-title-stewards": "Ota yhteyttä ylivalvojiin",
 	"contactpage-movecom-signup-affiliation-foundation": "Wikimedia Foundation",
 	"contactpage-movecom-signup-affiliation-projects": "Wikimedia-hankkeet (Wikipedia, Wikidata, Wikisanakirja, yms.)",
