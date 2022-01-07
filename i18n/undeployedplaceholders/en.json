@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|merged}} the user account \"$4\" ($5) into {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|deleted}} the user account \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Type of action:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "User account merge",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "User account deletion",
+	"wikimedia-usermerge-logpage": "User merge log",
+	"wikimedia-usermerge-logpagetext": "This is a log of user merge actions."
+}

@@ -25,7 +25,8 @@
 			"i18n/licensetexts",
 			"i18n/cclicensetexts",
 			"i18n/codeofconduct",
-			"i18n/wikitech"
+			"i18n/wikitech",
+			"i18n/undeployedplaceholders"
 		]
 	},
 	"RawHtmlMessages": [
@@ -36,6 +37,9 @@
 	],
 	"AutoloadClasses": {
 		"WikimediaMessagesHooks": "includes/WikimediaMessagesHooks.php"
+	},
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\WikimediaMessages\\": "includes/"
 	},
 	"ResourceModules": {
 		"ext.wikimediamessages.contactpage.affcomchapthorg": {

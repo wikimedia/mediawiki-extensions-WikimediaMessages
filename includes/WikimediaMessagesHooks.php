@@ -6,6 +6,7 @@
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Cache\Hook\MessageCache__getHook;
 use MediaWiki\Config\ServiceOptions;
+use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
@@ -131,6 +132,10 @@ class WikimediaMessagesHooks implements
 			'webauthn-module-description',
 			// T248367
 			'webauthn-ui-login-prompt',
+			// T218160
+			'log-action-filter-usermerge',
+			'log-action-filter-usermerge-mergeuser',
+			'log-action-filter-usermerge-deleteuser',
 		];
 
 		static $allbutmetawikikeys = [
@@ -1603,6 +1608,21 @@ class WikimediaMessagesHooks implements
 				'Вікімандри' => 'Вікімандри',
 			],
 		];
+
+		// Avoid weirdness if both extensions are loaded at the same time.
+		if ( !ExtensionRegistry::getInstance()->isLoaded( 'UserMerge' ) ) {
+			global $wgLogTypes, $wgLogNames, $wgLogHeaders, $wgLogActionsHandlers, $wgActionFilteredLogs;
+
+			$wgLogTypes[] = 'usermerge';
+			$wgLogNames['usermerge'] = 'wikimedia-usermerge-logpage';
+			$wgLogHeaders['usermerge'] = 'wikimedia-usermerge-logpagetext';
+
+			$wgLogActionsHandlers['usermerge/*'] = WMUserMergeLogFormatter::class;
+			$wgActionFilteredLogs['usermerge'] = [
+				'mergeuser'  => [ 'mergeuser' ],
+				'deleteuser' => [ 'deleteuser' ],
+			];
+		}
 	}
 
 	/**
