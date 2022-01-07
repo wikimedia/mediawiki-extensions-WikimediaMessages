@@ -3,10 +3,14 @@
 		"authors": [
 			"Fiestoforo",
 			"Lin linao",
+			"Manke ruLpa",
 			"Ndołkah"
 		]
 	},
 	"sitesupport": "Elungechi",
 	"tooltip-n-sitesupport": "Kellumuiñ",
-	"wikimedia-developers": "Che dewmarukan"
+	"wikimedia-copyright": "Kom wirin pefali may <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"></a> mew; kake zugu pepi müleay.\nMüngel lelinienge <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\"></a>.",
+	"wikimedia-developers": "Che dewmarukan",
+	"wikimedia-statslink": "Chuntelen",
+	"wikimedia-cookiestatement": "Cookie ñi pikünuel"
 }
