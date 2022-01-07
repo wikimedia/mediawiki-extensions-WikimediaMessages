@@ -146,6 +146,10 @@ class WikimediaMessagesHooks implements
 
 		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
 			$lcKey = 'wikimedia-privacypage-labs';
+		} elseif ( $lcKey === 'grouppage-suppress' ) {
+			// Temporarily override grouppage-suppress to grouppage-oversight,
+			// to avoid breaking links. See T112147.
+			$transformedKey = 'grouppage-oversight';
 		} elseif ( in_array( $lcKey, $keys, true ) ||
 			( $this->options->get( 'DBname' ) !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) )
 		) {
