@@ -175,6 +175,7 @@
 	"tag-emoji-description": "Koristi se od strane globalnog filtra zloporaba 110.",
 	"wikimedia-copyright": "Tekst je dostupan pod licencom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nmogu se primijeniti i dodatni uslovi.\nViše informacija možete naći u <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Uslovima upotrebe</a>.",
 	"wikimedia-copyrightwarning": "Snimanjem/čuvanjem izmjena, slažete se sa [https://foundation.wikimedia.org/wiki/Terms_of_Use Uslovima upotrebe], i neopozivo se slažete da vaš doprinos objavite pod [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] licencom.\nSlažete se da su hiperlink ili URL dovoljni za priznanje autorstva pod Creative Commons licencom.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Dobro došli}}, $1!",
 	"wikibase-page-schema-author-name": "Doprinositelji Wikimedijinim projektima",
 	"wikibase-statementsection-constraints": "Uvjeti",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",

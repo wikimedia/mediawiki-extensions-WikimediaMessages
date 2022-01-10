@@ -204,6 +204,7 @@
 	"tag-emoji-description": "Usate per le filtro anti-abuso global 110.",
 	"wikimedia-copyright": "Le texto es disponibile sub le <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licentia Creative Commons Attribution-ShareAlike</a>; additional conditiones pote esser in vigor.\nVide <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Conditiones de uso</a> pro detalios.",
 	"wikimedia-copyrightwarning": "Per salveguardar le modificationes, tu accepta le [https://foundation.wikimedia.org/wiki/Terms_of_Use Conditiones de uso] e tu consenti al publication irrevocabile de tu contribution sub le [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License licentia CC BY-SA 3.0] e sub le [https://ia.wikipedia.org/wiki/Licentia_GNU_pro_Documentation_Libere GFDL].\nTu accepta que un hyperligamine o URL suffice como attribution sub le licentia Creative Commons.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benvenite}}, $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

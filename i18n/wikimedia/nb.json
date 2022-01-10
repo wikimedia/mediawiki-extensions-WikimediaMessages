@@ -224,6 +224,7 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Ved å lagre endringer samtykker du i [https://foundation.wikimedia.org/wiki/Terms_of_Use briksvilkårene], og samtykker ugjenkallelig til å utgi bidraget ditt under [https://creativecommons.org/licenses/by-sa/3.0/deed.no Creative Commons-lisensen Navngivelse-Del på samme vilkår 3.0]. Du godtar at en hyperlenke eller URL utgjør tilstrekkelig navngivelse under Creative Commons-lisensen.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.no lisensen CC BY-SA 3.0] og [https://www.gnu.org/copyleft/fdl.html GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] og [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Velkommen}}, $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-page-schema-publisher-name": "Wikimedia Foundation, Inc.",
 	"wikibase-page-schema-author-name": "Bidragsytere til Wikimedia-prosjektene",

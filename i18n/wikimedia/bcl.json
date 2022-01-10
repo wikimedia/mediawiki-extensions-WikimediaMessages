@@ -18,6 +18,7 @@
 	"group-staff-member": "{{GENDER:$1|kalikiang miyembro}}",
 	"wikimedia-copyright": "An teksto makukua sa irarom kan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\ntibaad igwa pang ibang patanid.\nHilingon an <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> para sa detalye.",
 	"wikimedia-copyrightwarning": "Sa paagi kan pag-save nin mga pagbabago, Minasang-ayon ka sa [https://foundation.wikimedia.org/wiki/Terms_of_Use mga Termino kan Paggamit] asin dae ka naibago na minasang-ayon na iluwas an saimong kontribusyon sa irarom kan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensyang CC BY-SA 3.0] asin sa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Minasang-ayon ka na sapat na pagpapamanongod an sarong hipertakod o URL sa irarom kan lisensya nin Creative Commons.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Maugmang pag-abot}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikibareta",
 	"wikibase-sitelinks-wikiquote": "Wiking-paninglit",
 	"wikibase-sitelinks-wikisource": "Wiki-na-pinaggikanan",

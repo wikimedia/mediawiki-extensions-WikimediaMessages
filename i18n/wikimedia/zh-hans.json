@@ -254,6 +254,7 @@
 	"wikimedia-copyrightwarning": "保存更改即表示您同意[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用条款]，并不可撤销地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0协议文本 CC BY-SA 3.0许可协议]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]发表您贡献的内容。这也表示您同意在知识共享许可协议下，以标注超链接或URL的形式署名是十分合理的。",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 知识共享 署名-相同方式共享 3.0协议] 和 [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.zh CC BY-SA 3.0]和[https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|欢迎}}，$1！",
 	"wikibase-repo-name": "维基数据",
 	"wikibase-page-schema-author-name": "维基媒体项目贡献者",
 	"wikibase-statementsection-constraints": "约束",

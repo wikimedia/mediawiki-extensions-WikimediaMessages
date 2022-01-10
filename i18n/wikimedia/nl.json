@@ -219,6 +219,7 @@
 	"wikimedia-copyrightwarning": "Door de wijzigingen te publiceren, gaat u akkoord met de [https://foundation.wikimedia.org/wiki/Gebruiksvoorwaarden Gebruiksvoorwaarden] en gaat u onherroepelijk akkoord met het vrijgeven van uw bijdrage onder de licentie [https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding-Gelijk delen 3.0] en de [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL].\nU gaat ermee akkoord dat een hyperlink of URL voldoende naamsvermelding is om aan de Creative Commons-licentie te voldoen.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.nl CC BY-SA 3.0] en [https://nl.wikisource.org/wiki/Nederlandstalige_tekst_van_de_GNU-licentie_voor_vrije_documentatie GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.nl CC BY-SA 3.0] en [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welkom}}, $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-page-schema-author-name": "Bijdragers aan Wikimedia projecten",
 	"wikibase-statementsection-constraints": "Beperkingen",

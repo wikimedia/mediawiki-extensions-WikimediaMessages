@@ -80,6 +80,7 @@
 	"group-sysadmin": "سىستېما باشقۇرغۇچى",
 	"group-sysadmin-member": "سىستېما باشقۇرغۇچى",
 	"shared-repo-name-shared": "ۋىكى ۋاستە ھەمبەھىر",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|خۇش كەپسىز}}، $1!",
 	"wikibase-sitelinks-wikinews": "ۋىكىخەۋەر",
 	"wikibase-sitelinks-wikiquote": "ۋىكىئۈزۈندە",
 	"wikibase-sitelinks-wikisource": "ۋىكىمەنبە",

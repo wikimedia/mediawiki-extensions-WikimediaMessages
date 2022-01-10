@@ -11,6 +11,7 @@
 	"group-staff": "ሰራሕተኛታት",
 	"tag-emoji": "ኢሞጂ",
 	"shared-repo-name-shared": "ዊኪሜድያ ኮመንዝ",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|እንቋዕ ብደሓን መጻእካ|እንቋዕ ብደሓን መጻእኪ}}፣ $1!",
 	"wikibase-repo-name": "ዊኪዳታ",
 	"wikibase-sitelinks-wikibooks": "ዊኪመጻሕፍቲ",
 	"wikibase-sitelinks-wikinews": "ዊኪዜና",

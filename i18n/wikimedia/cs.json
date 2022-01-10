@@ -205,6 +205,7 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Uložením změn souhlasíte s&nbsp;[https://foundation.wikimedia.org/wiki/Terms_of_Use/cs Podmínkami užití] a neodvolatelně svůj příspěvek uvolňujete pod licencemi [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC&nbsp;BY-SA&nbsp;3.0] a&nbsp;[https://www.gnu.org/copyleft/fdl.html GFDL].\nSouhlasíte s&nbsp;tím, že hypertextový odkaz nebo URL je dostatečným uvedením vašeho autorství podle licence Creative Commons.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC&nbsp;BY-SA 3.0] a [https://cs.wikipedia.org/wiki/Wikipedie:GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC BY-SA 3.0] a [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "Vítejte, {{GENDER:$1|uživateli|uživatelko}} $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-page-schema-publisher-name": "nadace Wikimedia",
 	"wikibase-page-schema-author-name": "Přispěvatelé projektů Wikimedia",

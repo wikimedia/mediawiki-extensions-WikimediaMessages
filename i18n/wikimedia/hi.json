@@ -131,6 +131,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:अनुवाद प्रबन्धक",
 	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अंतर्गत उपलब्ध है; अतिरिक्त शर्तें लागू हो सकती हैं।\nअधिक जानकारी के लिए <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोग की शर्तें</a> देखें।",
 	"wikimedia-copyrightwarning": "\"बदलाव सहेजने पर आप [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use उपयोग की शर्तें] मानने को बाध्य होते हैं, और आप अपने योगदान [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेंस] एवं [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अंतर्गत अपरिवर्तनीय रूप से जारी करने को स्वीकार करते हैं।\nआप यह भी स्वीकार करते हैं कि एक हाइपरलिंक या यू॰आर॰एल क्रियेटिव कॉमन्स लाइसेंस के अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) है।",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|स्वागत है}}, $1 जी!",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "विकिसूक्ति",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",

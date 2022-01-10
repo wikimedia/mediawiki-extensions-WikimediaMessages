@@ -4,7 +4,12 @@
 			"Manke ruLpa"
 		]
 	},
-	"wm-license-cc-by-sa-3.0-text": "Tüfachi eltukan konküley tüfachi norzugu mew: [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.es Genérica de Atribución/Compartir-Igual 3.0].",
+	"wm-license-cc-by-sa-3.0-text": "Tüfachi eltukawün konküley tüfachi zewmafe ñi norzugu mew: [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.es Genérica de Atribución/Compartir-Igual 3.0].",
+	"wm-license-cc-free": "Elungeymi mi",
+	"wm-license-cc-free-to-share-header": "pengelzuguam",
+	"wm-license-cc-free-to-share-text": "azentuam, püzümkünuam ka amulzuguam ti küzaw",
+	"wm-license-cc-free-to-remix-header": "zewmatuam",
+	"wm-license-cc-free-to-remix-text": "kakünuam ti küzaw",
 	"wm-license-cc-conditions-attribution-header": "attribution",
 	"wm-license-cc-conditions-share_alike-header": "kiñeñtrür püzümün"
 }

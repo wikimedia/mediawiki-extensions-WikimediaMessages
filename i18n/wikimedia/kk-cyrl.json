@@ -145,6 +145,7 @@
 	"wikimedia-copyright": "Мәтін <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike лицензиясы</a> аясында қолжетімді; \nқосымша шарттар қолданылуы мүмкін. Толығырақ қараңыз: <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Қолдану шарттары</a>.",
 	"wikimedia-copyrightwarning": "Өзгерістерді сақтай отырып, сіз [https://foundation.wikimedia.org/wiki/Terms_of_Use Қолдану шарттарымен] келіскеніңіз және үлесіңізді [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 Лицензиясымен]  және [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензиясы аясында біржола тапсыруыңызбен келіскеніңіз болып табылады. \nCreative Commons лицензиясы аясында бұл еренсілтеме немесе URL жеткілікті деп келіскеніз болып табылады.",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] and [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Қош келдіңіз}}, $1!",
 	"wikibase-repo-name": "Уикидерек",
 	"wikibase-sitelinks-wikibooks": "Уикикітап",
 	"wikibase-sitelinks-wikinews": "Уикижаңалық",

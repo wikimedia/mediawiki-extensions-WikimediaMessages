@@ -143,6 +143,7 @@
 	"wikimedia-copyrightwarning": "Kui salvestad muudatused, nõustud [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use kasutustingimustega] ja annad nõusoleku oma kaastöö pöördumatuks avaldamiseks litsentside [https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/copyleft/fdl.html GFDL] alusel.\nNõustud, et autorile viitamiseks piisab Creative Commonsi litsentsi järgi hüperlingist või internetiaadressist.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.et CC BY-SA 3.0] ja [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "Tere tulemast, $1!",
 	"wikibase-repo-name": "Vikiandmed",
 	"wikibase-page-schema-author-name": "Wikimedia projektide kaastöölised",
 	"wikibase-statementsection-constraints": "Kitsendused",

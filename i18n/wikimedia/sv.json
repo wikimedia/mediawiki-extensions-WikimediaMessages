@@ -224,6 +224,7 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Genom att spara ändringar accepterar du [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag enligt licensen [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ].\nDu accepterar att en hyperlänk eller webbadress utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.",
 	"wikimedia-license-links": "licensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.sv CC BY-SA 3.0] och [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Välkommen}}, $1!",
 	"wikibase-page-schema-author-name": "Bidragsgivare till Wikimedia-projekten",
 	"wikibase-statementsection-constraints": "Begränsningar",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",

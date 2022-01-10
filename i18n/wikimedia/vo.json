@@ -27,6 +27,7 @@
 	"group-global-bot-member": "{{GENDER:$1|bot valöpik}}",
 	"group-sysadmin": "Sitiguvans",
 	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benokömö}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Vükibuks",
 	"wikibase-sitelinks-wikinews": "Vükinüns",
 	"wikibase-sitelinks-wikiquote": "Vükisaitot",

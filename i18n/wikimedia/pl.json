@@ -220,6 +220,7 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Zapisując zmiany, wyrażasz nieodwołalną zgodę na udostępnianie Twojego wkładu na licencji [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons: Uznanie autorstwa – Na tych samych warunkach – wersja 3.0]. Wyrażasz zgodę na wykorzystanie Twojego wkładu w dowolnej formie, pod warunkiem podania przynajmniej hiperłącza lub adresu URL do strony, na której powstała treść. Zobacz szczegółowe informacje o [https://foundation.wikimedia.org/wiki/Warunki_korzystania warunkach korzystania].",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.pl CC BY-SA 3.0] oraz [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.pl CC BY-SA 3.0] oraz [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Witaj}}, $1!",
 	"wikibase-repo-name": "Wikidane",
 	"wikibase-page-schema-author-name": "Współtwórcy projektów Fundacji Wikimedia",
 	"wikibase-statementsection-constraints": "Ograniczenia",

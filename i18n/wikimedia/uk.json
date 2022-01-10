@@ -244,6 +244,7 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Зберігаючи зміни, ви погоджуєтеся з [https://foundation.wikimedia.org/wiki/Terms_of_Use Умовами використання] та безповоротно погоджуєтеся опублікувати свій внесок згідно з [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License ліцензією CC BY-SA 3.0].\nВи погоджуєтеся з тим, що гіперпосилання або URL-адреса є достатнім посиланням на джерело за ліцензією Creative Commons.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 ліцензія] та [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] і [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ласкаво просимо}}, $1!",
 	"wikibase-repo-name": "Вікідані",
 	"wikibase-page-schema-publisher-name": "Фонд Вікімедіа",
 	"wikibase-page-schema-author-name": "Учасники проектів Вікімедіа",

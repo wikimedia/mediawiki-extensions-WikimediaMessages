@@ -128,6 +128,7 @@
 	"tag-emoji": "Emoĝio",
 	"wikimedia-copyright": "La teksto disponeblas laŭ la permesilo <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.eo\">Krea Komunaĵo Atribuite-Samkondiĉe 3.0 Neadaptita</a>; eble aldonaj kondiĉoj aplikeblas.\nVidu la <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">uzkondiĉojn</a> por detaloj.",
 	"wikimedia-copyrightwarning": "Konservante, vi konsentas al la [https://foundation.wikimedia.org/wiki/Terms_of_Use Rajtoj de Uzado], kaj senlime liberigi vian kontribuon laŭ la [https://creativecommons.org/licenses/by-sa/3.0/ Permesilo Creative Commons Attribution-ShareAlike 3.0] kaj la [https://www.gnu.org/copyleft/fdl.html GFDL].\nVi konsentas ke hiperligilo aŭ URL estas sufiĉa atribuo laŭ la permesiloj Krea Komunaĵo.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bonvenon}}, $1!",
 	"wikibase-repo-name": "Vikidatumoj",
 	"wikibase-statementsection-constraints": "Limigoj",
 	"wikibase-sitelinks-wikibooks": "Vikilibroj",

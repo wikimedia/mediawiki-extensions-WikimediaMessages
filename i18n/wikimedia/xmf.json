@@ -193,6 +193,7 @@
 	"search-interwiki-custom": "wikt:ვიქსიკონიშე\nb:ვიკიწინგეფშე\nn:ვიკისიახალეეფშე\nq:ვიკიციტატაშე\ns:ვიკიწყუშე\nv:ვიკივერსიტეტიშე\nvoy:ვიკივოიაჟიშე",
 	"wikimedia-copyright": "მოჩამილი ტექსტი წჷმორინელი რე <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike ლიცენზიათ</a>; შილებე გეძინელი პიჯალეფიშ რინა. კილიშკილიშა ქოძირით <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">გჷმორინაფაშ წესეფი</a>.",
 	"wikimedia-copyrightwarning": "კონჭ \"{{int:savearticle}}\"-შ გენჭირათ, თქვა დოჸუნთ [https://foundation.wikimedia.org/wiki/Terms_of_Use გჷმორინაფაშ წესეფს], დო თაშნეშე თქვა დოჸუნთ თიშ გჷმობჟინაფას [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0] დო [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიეფით.\nთქვა დოჸუნთ, ნამჷ-და მეწურაფილი ჰიპერრსხილეფი გეჸვენჯ ხასჷლას, ვარ-და თიშ URL-მიოწურაფუ ობაღჷ Creative Commons-იშ ლიცენზიაშ ატრიბუტიკაშ პიჯალეფიშ ოქიმინალო.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|მოზოჯით}}, $1!",
 	"wikibase-page-schema-author-name": "ვიკიმედიაშ პროექტეფიშ მაკათურეფი",
 	"wikibase-statementsection-constraints": "გოხურგუეფი",
 	"wikibase-sitelinks-wikibooks": "ვიკიწინგეფი",
