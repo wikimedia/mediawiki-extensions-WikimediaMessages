@@ -17,6 +17,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Zewmamekelu",
+	"wikimedia-globalblocking-ipblocked": "'''Tami IP ñi üy [[m:Special:MyLanguage/Global blocks|katrütungey kom wiki mew]].'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\nFewla tami IP ñi üy ta $6.\nMüngel wirintukuaymi kom wünetu pingelu tüfa mi ramtuael.\n\nTrokifimi welulkan mew mi katrütungen kom zungu pepi penieafimi [[m:Special:MyLanguage/No open proxies|ngeno nüla proxy]].\nKakelu zungu mew pepi [[m:Steward requests/Global|pengelkünuaymi Meta-Wiki]] mew mi nütramkawael.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Kiñe rume tami proxy pünelelu pin mew ta [[m:Special:MyLanguage/Global blocks|katrütungey itrokom]].'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\nChi katrütungechi proxy ta $6.\nMüngel wirintukuaymi kom wünetu pingelu tüfa mi ramtuael.\n\nTrokifimi welulkan mew mi katrütungen kom zungu pepi penieafimi [[m:Special:MyLanguage/No open proxies|ngeno nüla proxy]].\nKakelu zungu mew pepi [[m:Steward requests/Global|pengelkünuaymi ñi wüñokintungeael Meta-Wiki]] mew mi",
 	"wikimedia-statslink": "Chuntelen",
 	"wikimedia-cookiestatement": "Cookie ñi pikünuel"
 }
