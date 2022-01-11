@@ -12,7 +12,8 @@
 			"PhiLiP",
 			"Shizhao",
 			"Xiaomingyan",
-			"飞舞回堂前"
+			"飞舞回堂前",
+			"SolidBlock"
 		]
 	},
 	"wm-license-attribution-with-author-text": "本文件的著作权人，$1，允许任何人在适当地表明著作权人的姓名的'''前提'''下，以'''任何目的'''使用本文件。传播，演绎作品，商业用途及所有其他用途被允许。",
@@ -46,7 +47,7 @@
 	"wm-license-book-year-of-publication": "出版年",
 	"wm-license-cecill-text": "本作品为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]，您可以依据[[{{int:wm-license-cecill-wiki-link}}|CeCILL]]的条款传播或修改本作品。[{{int:wm-license-cecill-full-link}} www.cecill.info]网站提供CeCILL许可协议条款。",
 	"wm-license-creator-alternative-names": "其他姓名",
-	"wm-license-creator-description": "说明",
+	"wm-license-creator-description": "描述",
 	"wm-license-creator-date-of-birth": "出生日期",
 	"wm-license-creator-date-of-birth-and-death": "出生/逝世日期",
 	"wm-license-creator-location-of-birth": "出生地点",
@@ -67,7 +68,7 @@
 	"wm-license-gpl-text": "本作品为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]，您可以依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的'''[[{{int:wm-license-gpl-wiki-link}}|GNU公众许可协议]]'''第2版或任意后续版本的条款，传播和/或修改本作品。本作品发表时预期有用，但对此'''无任何保证'''，亦无隐含的'''可以销售'''或'''适合特定目的'''的保证。详情请见[{{int:wm-license-gpl-2-full-link}} GNU公众授权协议第2版]和[{{int:wm-license-gpl-3-full-link}} 第3版]。",
 	"wm-license-gpl-wiki-link": "w:zh:GNU通用公共许可证",
 	"wm-license-information-table-summary": "提供本文件完整信息（包括其展示内容和制作方法的说明、著作权状况和来源）的标准表格。",
-	"wm-license-information-description": "说明",
+	"wm-license-information-description": "描述",
 	"wm-license-information-description-missing": "本文件没有'''说明'''，并可能缺少其他信息。",
 	"wm-license-information-description-missing-request": "请提供本文件的详细说明。",
 	"wm-license-information-source": "来源",

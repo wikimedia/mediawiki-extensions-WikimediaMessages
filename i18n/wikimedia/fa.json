@@ -37,7 +37,8 @@
 			"Wayiran",
 			"ZxxZxxZ",
 			"아라",
-			"Jeeputer"
+			"Jeeputer",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -78,6 +79,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:ویرایشگران پالایهٔ خرابکاری",
 	"group-abusefilter-helper": "کمک‌کنندگان پالایهٔ خرابکاری",
 	"group-abusefilter-helper-member": "{{GENDER:$1|کمک‌کننده پالایهٔ خرابکاری}}",
+	"group-abusefilter-maintainer": "نگهدارندگان پالایهٔ خرابکاری",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|نگهدارندهٔ پالایهٔ خرابکاری}}",
 	"group-accountcreator": "سازندگان حساب کاربری",
 	"group-accountcreator-member": "{{GENDER:$1|ایجادکنندهٔ حساب}}",
 	"grouppage-accountcreator": "{{ns:project}}:سازندگان حساب کاربری",
