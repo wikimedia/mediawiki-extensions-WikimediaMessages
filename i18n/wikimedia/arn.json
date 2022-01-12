@@ -3,10 +3,19 @@
 		"authors": [
 			"Fiestoforo",
 			"Lin linao",
-			"Ndołkah"
+			"Ndołkah",
+			"Manke ruLpa"
 		]
 	},
 	"sitesupport": "Elungechi",
 	"tooltip-n-sitesupport": "Kellumuiñ",
-	"wikimedia-developers": "Che dewmarukan"
+	"wikimedia-copyright": "Kom wirin pefali may <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"></a> mew; kake zungu pepi müleay.\nMüngel lelinienge <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\"></a>.",
+	"wikimedia-copyrightwarning": "Eltun mew mi kakünun maypifimi chi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/es Términos de uso], feymew rumel pengelzuguaymi tami kellukonel femngeci ñi pilen [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License licencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] mew.\nFeymew maypiayimi ñi konael Creative Commons mew xarintuku kam URL mew.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Zewmamekelu",
+	"wikimedia-statslink": "Chuntelen",
+	"wikimedia-cookiestatement": "Cookie ñi pikünuel"
 }
