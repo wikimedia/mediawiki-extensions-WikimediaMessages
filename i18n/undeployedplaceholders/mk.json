@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|ја спои}} корисничката сметка „$4“ ($5) во {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|ја избриша}} корисничката сметка „$4“ ($5)",
+	"wikimedia-log-action-filter-usermerge": "Вид дејство:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Спојување на корисничка сметка",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Бришење на корисничка сметка",
+	"wikimedia-usermerge-logpage": "Дневник на спојувања на кориснички сметки",
+	"wikimedia-usermerge-logpagetext": "Ова е дневник на спојувања на кориснички имиња."
+}

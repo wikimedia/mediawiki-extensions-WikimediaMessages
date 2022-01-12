@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|מיזג|מיזגה}} את חשבון המשתמש \"$4\" ($5) אל {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|מחק|מחקה}} את חשבון המשתמש \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "סוג הפעולה:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "מיזוג חשבונות משתמש",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "מחיקת חשבון משתמש",
+	"wikimedia-usermerge-logpage": "יומן מיזוג משתמשים",
+	"wikimedia-usermerge-logpagetext": "זהו יומן של פעולות מיזוג המשתמשים."
+}

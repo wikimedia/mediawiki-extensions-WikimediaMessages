@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"SorkDE"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|führte}} das Benutzerkonto „$4“ ($5) in {{GENDER:$8|$6}} zusammen ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|löschte}} das Benutzerkonto „$4“ ($5)",
+	"wikimedia-log-action-filter-usermerge": "Aktionstyp:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Benutzerkontenzusammenführung",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Benutzerkontenlöschung",
+	"wikimedia-usermerge-logpage": "Benutzerkontenzusammenführungs-Logbuch",
+	"wikimedia-usermerge-logpagetext": "Dies ist das Logbuch der Benutzerkontenzusammenführungen."
+}
