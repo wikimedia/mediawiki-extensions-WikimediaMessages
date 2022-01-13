@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|fusionó}} la cuenta de usuario «$4» ($5) en la cuenta {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|borró}} la cuenta de usuario «$4» ($5)",
+	"wikimedia-log-action-filter-usermerge": "Tipo de acción:",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Borrado de cuentas de usuario",
+	"wikimedia-usermerge-logpage": "Registro de fusiones de cuentas de usuario",
+	"wikimedia-usermerge-logpagetext": "Este es un registro de fusiones de cuentas de usuario."
+}

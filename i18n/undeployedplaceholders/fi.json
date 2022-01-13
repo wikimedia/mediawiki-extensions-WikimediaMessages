@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"MITO"
+		]
+	},
+	"wikimedia-log-action-filter-usermerge": "Toiminnon tyyppi:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Käyttäjätilien yhdistäminen",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Käyttäjätilin poistaminen",
+	"wikimedia-usermerge-logpage": "Käyttäjien yhdistämisloki",
+	"wikimedia-usermerge-logpagetext": "Tämä on loki käyttäjätunnuksien yhdistämistoimista."
+}
