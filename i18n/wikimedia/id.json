@@ -192,6 +192,8 @@
 	"group-vrt-permissions": "Agen izin VRT",
 	"group-vrt-permissions-member": "{{GENDER:$1|agen izin VRT}}",
 	"grouppage-vrt-permissions": "{{ns:project}}:Agen izin VRT",
+	"group-wmf-officeit": "IT Kantor WMF",
+	"group-wmf-officeit-member": "{{GENDER:$1|IT Kantor WMF}}",
 	"group-wmf-researcher": "Peneliti WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|peneliti WMF}}",
 	"group-wmf-supportsafety": "Bantuan dan Perlindungan WMF",

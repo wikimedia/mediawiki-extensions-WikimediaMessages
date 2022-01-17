@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|slo sammen}} brukerkontoen «$4» ($5) til {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|slettet}} brukerkontoen «$4» ($5)",
+	"wikimedia-log-action-filter-usermerge": "Handlingstype:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Kontosammenslåing",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Kontosletting",
+	"wikimedia-usermerge-logpage": "Brukersammenslåingslogg",
+	"wikimedia-usermerge-logpagetext": "Dette er en logg over brukersammenslåinger."
+}
