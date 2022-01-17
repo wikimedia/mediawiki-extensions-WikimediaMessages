@@ -5,6 +5,13 @@
 			"Manke ruLpa"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Elungeymi tami azentuael, püzümafiel kam kakünuafiel tüfachi küzaw inakintunielu chi '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', tüfeychi Pengelzunguwe 1.2 kam tuchi rume wüla pengelngelu ti [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ngeno kakünungenolu trokiñ, ngeno wüneltu, ka ngeno furi wirin. Pepi pengey tüfachi eluzungungen chi pingechi ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' trokiñ mew.",
+	"wm-license-information-description": "Chumngen",
+	"wm-license-information-source": "Küpamum",
 	"wm-license-information-date": "Ñi chumülngen",
-	"wm-license-information-permission-reusing-text": "Püneletulu tüfaci eltukan"
+	"wm-license-information-author": "Zewmapelu",
+	"wm-license-information-permission": "Elun ñi femael",
+	"wm-license-information-permission-reusing-text": "Püneltuam tüfachi eltukawün",
+	"wm-license-own-work": "Kizu ñi küzaw",
+	"wm-license-self-multiple-licenses-select": "Tuchi rume pepi zulliaymi."
 }

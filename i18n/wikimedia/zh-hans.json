@@ -49,7 +49,9 @@
 			"GuoPC",
 			"LaMagiaaa",
 			"Sunny00217",
-			"沈澄心"
+			"沈澄心",
+			"SolidBlock",
+			"Stang"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -321,7 +323,7 @@
 	"interlanguage-link-sitename-citizendium": "大众百科",
 	"action-superprotect": "更改超级保护级别",
 	"right-superprotect": "更改超级保护级别",
-	"protect-level-superprotect": "只允许超级保护用户",
+	"protect-level-superprotect": "仅允许超级保护用户",
 	"restriction-level-superprotect": "超级保护",
 	"action-templateeditor": "编辑受保护模板",
 	"right-templateeditor": "编辑受保护模板",
