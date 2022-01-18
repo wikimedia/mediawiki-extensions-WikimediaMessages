@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "نسبه ل",
+	"wm-license-cc-by-sa-3.0-text": "الملف ده مترخص حسب  رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع الإبداعى]] [https://creativecommons.org/licenses/by-sa/3.0/ نسبة المصنف للى مألفه - المشاركة بالمثل 3.0 العامه]",
 	"wm-license-cc-free": "إنت حر:",
 	"wm-license-cc-free-to-share-header": "فى المشاركه",
 	"wm-license-cc-free-to-share-text": "علشان نسخ و توزيع و بث العمل",
@@ -13,5 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "فى تكييف العمل",
 	"wm-license-cc-conditions": "بالشروط دى:",
 	"wm-license-cc-conditions-attribution-header": "نسبه ل",
-	"wm-license-cc-conditions-share_alike-header": "مشاركه زي"
+	"wm-license-cc-conditions-attribution-text": "لازم يتنسب العمل للى مألفه بشكل مناسب و توفير رابط للرخصه وتحديد اذا حصلت تغييرات. ممكن ده يتعمل بأى طريقه معقوله، لكن مش بطريقه تشير ان مانح الرخصه بيوافقك على الاستعمال.",
+	"wm-license-cc-conditions-share_alike-header": "مشاركه زي",
+	"wm-license-cc-conditions-share_alike-text": "لو عدت إنتاج المواد أو غيرت فيها، لازم تنشر مساهماتك اللى جايه من الأصل [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses تحت ترخيص الأصل نفسه] أو تحت ترخيص متوافق معاه."
 }
