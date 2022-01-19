@@ -1,13 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mahuton"
+			"Mahuton",
+			"Àlɔ̀ tɛ́"
 		]
 	},
 	"wm-license-information-description": "Xóɖɔdówú",
-	"wm-license-information-source": "Dodonu",
+	"wm-license-information-source": "Ɖoɖonu",
 	"wm-license-information-date": "Azǎn",
 	"wm-license-information-author": "Wéwlǎntɔ",
 	"wm-license-information-permission": "Acɛ",
+	"wm-license-information-permission-reusing-text": "Lɛ gɔ wépko élɔ zan",
 	"wm-license-own-work": "Azɔ nyí ɖésu tɔn"
 }

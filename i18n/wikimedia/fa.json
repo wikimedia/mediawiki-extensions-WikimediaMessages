@@ -38,7 +38,8 @@
 			"Wayiran",
 			"ZxxZxxZ",
 			"아라",
-			"TAndic (WMF)"
+			"TAndic (WMF)",
+			"Justinianus"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -176,8 +177,10 @@
 	"grouppage-wikidata-staff": "{{ns:project}}:اعضای کارمندان ویکی‌داده",
 	"group-apihighlimits-requestor": "محدودیت درخواست‌دهندگان ای‌پی‌آی",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|محدودیت درخواست‌دهندگان ای‌پی‌آی}}",
+	"grouppage-apihighlimits-requestor": "m:API high limit requestors",
 	"group-captcha-exempt": "معافیت‌های کپچا",
 	"group-captcha-exempt-member": "{{GENDER:$1|آزاد از کپچا}}",
+	"grouppage-captcha-exempt": "m:CAPTCHA exemptions",
 	"group-centralnoticeadmin": "مدیران اطلاع‌رسانی مرکزی",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|مدیریت اطلاع‌رسانی مرکزی}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:مدیران اطلاع‌رسانی مرکزی",
@@ -191,6 +194,7 @@
 	"group-global-flow-create-member": "{{GENDER:$1|ایجاد کنندگان سراسری فلو}}",
 	"group-global-ipblock-exempt": "معافیت‌های سراسری از قطع دسترسی آی‌پی",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|معاف سراسری از قطع دسترسی آی‌پی}}",
+	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
 	"group-global-interface-editor": "ویرایشگران رابط کاربری",
 	"group-global-interface-editor-member": "{{GENDER:$1|ویرایشگران رابط کاربری}}",
 	"group-global-renamer": "تغییرنام‌دهنده‌های سراسری",
