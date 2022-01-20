@@ -5,6 +5,7 @@
 			"Kakonjo"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "Egyi fayiro eyine license ahansi ya\n[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license.",
 	"wm-license-cc-free": "Noyikirizibwa",
 	"wm-license-cc-free-to-share-header": "Kugabana",
 	"wm-license-cc-free-to-share-text": "Oku kopa, okagaba Nan'okurabyamu ebiwakora",
@@ -13,5 +14,6 @@
 	"wm-license-cc-conditions": "Ahansi ya obukwakurizo obu",
 	"wm-license-cc-conditions-attribution-header": "akakwate",
 	"wm-license-cc-conditions-attribution-text": "Notekwa kworeka oburugo, ohereze Akakwate ka license, oyoreke empinduka zaza kozirwe. Nobasa kukora omumuringo gwoona, gutari kuretera licensor yakuhababira.",
-	"wm-license-cc-conditions-share_alike-header": "aha byokugabana"
+	"wm-license-cc-conditions-share_alike-header": "aha byokugabana",
+	"wm-license-cc-conditions-share_alike-text": "Wateraana, bb okahindura, ninga okombeka ekyintu, notekwa kugabura ebiwakora orikukuratira [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] anka ekyitari kicupuri."
 }
