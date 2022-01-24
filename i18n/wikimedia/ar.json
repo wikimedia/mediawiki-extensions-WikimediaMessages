@@ -319,7 +319,7 @@
 	"eri-rcfilters-tour-confirm-description": "يمكنك الوصول إلى <strong>صفحة الميزات التجريبية</strong> لتقديم تعليقات أو تعطيل الميزة.",
 	"eri-wlfilters-tour-intro-welcome-title": "مرحبًا بك في ميزة تصفية قائمة المراقبة المحسنة",
 	"eri-wlfilters-tour-intro-preferences-description": "ادخل إلى علامة التبويب قائمة المراقبة في التفضيلات في أي وقت لإلغاء الاشتراك في قائمة المراقبة المحسنة.",
-	"wikimedia-centralauth-contribs-locked": "هذا الحساب مقفل عالميا.\nانظر [[m:Special:CentralAuth/$1|تفاصيل الحساب العالمي]] للمزيد من المعلومات.",
+	"wikimedia-centralauth-contribs-locked": "هذا الحساب مقفل عالميا.\nانظر [[m:Special:CentralAuth/$1|تفاصيل الحساب العالمي]] لمزيد من المعلومات.",
 	"action-viewdeletedfile": "رؤية الملفات والصفحات المحذوفة في النطاقين {{ns:file}} و{{ns:file_talk}}",
 	"right-viewdeletedfile": "رؤية الملفات والصفحات المحذوفة في النطاقين {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخاب مجلس الإدارة",
