@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hanna Tardos",
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"Xbspiro"
 		]
 	},
 	"search-interwiki-results-abwiki": "Eredmények megjelenítése az [[:ab:|abház Wikipédiáról]].",
@@ -12,7 +13,7 @@
 	"search-interwiki-results-alswiki": "Eredmények megjelenítése az [[:als:|alemann Wikipédiáról]].",
 	"search-interwiki-results-amwiki": "Eredmények megjelenítése az [[:am:|amhara Wikipédiáról]].",
 	"search-interwiki-results-angwiki": "Eredmények megjelenítése az [[:ang:|óangol Wikipédiáról]].",
-	"search-interwiki-results-anwiki": "Eredmények megjelenítése az [[:an:|aragonéz Wikipédiáról]].",
+	"search-interwiki-results-anwiki": "Eredmények megjelenítése az [[:an:|aragóniai Wikipédiáról]].",
 	"search-interwiki-results-arcwiki": "Eredmények megjelenítése az [[:arc:|arámi Wikipédiáról]].",
 	"search-interwiki-results-arwiki": "Eredmények megjelenítése az [[:ar:|arab Wikipédiáról]].",
 	"search-interwiki-results-astwiki": "Eredmények megjelenítése az [[:ast:|asztúr Wikipédiáról]].",
