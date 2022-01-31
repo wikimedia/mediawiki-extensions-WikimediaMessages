@@ -29,7 +29,8 @@
 			"Sezgin İbiş",
 			"Uncitoyen",
 			"Justinianus",
-			"Satirdan kahraman"
+			"Satirdan kahraman",
+			"SaldırganSincap"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -314,12 +315,12 @@
 	"protect-level-templateeditor": "Yalnızca şablon düzenleyicilere ve yöneticilere izin ver",
 	"action-extendedconfirmed": "korumaya alınmış sayfaları düzenle",
 	"right-extendedconfirmed": "Korumaya alınmış sayfaları düzenle",
-	"restriction-level-extendedconfirmed": "oluşturulan editör korumalı",
+	"restriction-level-extendedconfirmed": "oluşturulan düzenleyici korumada",
 	"protect-level-extendedconfirmed": "Yalnızca doğrulanmış editörlere ve hizmetlilere izin ver",
 	"action-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" olarak korunan sayfaları düzenle",
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" olarak korunan sayfaları düzenle",
 	"protect-level-editeditorprotected": "Yalnızca editörlere izin ver",
-	"restriction-level-editeditorprotected": "editör korumalı",
+	"restriction-level-editeditorprotected": "düzenleyici korumada",
 	"action-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" olarak korunan sayfaları düzenle",
 	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" olarak korunan sayfaları düzenle",
 	"protect-level-editextendedsemiprotected": "Yalnızca otomatik devriyelere izin ver",
