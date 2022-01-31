@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Can"
+			"Can",
+			"Hedda"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1, \"$4\" ($5) kullanıcı hesabını {{GENDER:$8|$6}} ($7) kullanıcısıyla {{GENDER:$2|birleştirdi}}",
+	"wikimedia-logentry-usermerge-deleteuser": "$1, \"$4\" ($5) hesabını {{GENDER:$2|sildi}}",
 	"wikimedia-log-action-filter-usermerge": "Eylem türü:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Kullanıcı hesabı birleştirme",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Kullanıcı hesabı silme",

@@ -73,7 +73,7 @@
 	"group-botadmin": "Bot με δικαιώματα διαχειριστή",
 	"group-botadmin-member": "{{GENDER:$1|ρομπότ με δικαιώματα διαχειριστή}}",
 	"grouppage-botadmin": "{{ns:project}}:Bot με δικαιώματα διαχειριστή",
-	"group-confirmed": "Eπιβεβαιωμένοι χρήστες",
+	"group-confirmed": "Επιβεβαιωμένοι χρήστες",
 	"group-confirmed-member": "{{GENDER:$1|επιβεβαιωμένος χρήστης|επιβεβαιωμένη χρήστρια}}",
 	"grouppage-confirmed": "{{ns:project}}:Επιβεβαιωμένοι χρήστες",
 	"group-editprotected": "Σελίδα που προστατεύεται από συντάκτες",

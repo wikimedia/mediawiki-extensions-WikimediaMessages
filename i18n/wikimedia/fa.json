@@ -346,9 +346,9 @@
 	"right-docseditor": "ویرایش مستندات",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "بله",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "خیر",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "در 30 روز گذشته، آیا از مشارکت در {{SITENAME}} احساس ناامنی یا ناراحتی کرده‌اید؟",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "آره",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "در ۳۰ روز گذشته، آیا از مشارکت در {{SITENAME}} احساس ناامنی یا ناخوشایندی  کرده‌اید؟\n({{SERVERNAME}})",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "بله",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "خیر",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "مطمئن نیستم",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "این نظرسنجی ناشناس توسط بنیاد ویکی مدیا انجام شده است. [ https://meta.wikimedia.org/wiki/Community_Safety بیشتر بخوانید ] یا  [ https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement بیانیه حریم خصوصی ].را بررسی کنید"
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "این نظرسنجی ناشناس توسط بنیاد ویکی‌مدیا انجام شده است. [https://meta.wikimedia.org/wiki/Community_Safety بیشتر بخوانید] یا [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement بیانیه حریم خصوصی] را بررسی کنید."
 }

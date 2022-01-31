@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Base"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|об'єднав|об'єднала}} обліковий запис «$4» ($5) з {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|вилучив|вилучила}} обліковий запис «$4» ($5)",
+	"wikimedia-log-action-filter-usermerge": "Тип дії:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Об'єднання облікових записів користувачів",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Вилучення облікових записів користувачів",
+	"wikimedia-usermerge-logpage": "Журнал об'єднання користувачів",
+	"wikimedia-usermerge-logpagetext": "Це журнал об'єднання облікових записів."
+}
