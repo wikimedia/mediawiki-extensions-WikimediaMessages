@@ -195,7 +195,7 @@
 	"wikidata-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এস ৩.০]",
 	"wikimedia-copyrightwarning": "পরিবর্তন সংরক্ষণ করার মাধ্যমে, আপনি [https://foundation.wikimedia.org/wiki/Terms_of_Use ব্যবহারের নীতিমালার] সাথে সম্মত হচ্ছেন এবং একই সাথে আপনার অবদান [https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এসএ ৩.০] এবং [https://www.gnu.org/copyleft/fdl.html জিএফডিএল] লাইসেন্সের অধীনে প্রকাশের অনুমতি দিচ্ছেন।\nআপনি সম্মতি দিচ্ছেন যে ক্রিয়েটিভ কমন্স লাইসেন্সের অধীনে আপনার কাজের স্বীকৃতি দিতে হবে, এবং সেটি একটি হাইপারলিংক অথবা উইআরএল হলেই যথেষ্ট।",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এসএ ৩.০ লাইসেন্স] ও [https://bn.wikipedia.org/wiki/উইকিপিডিয়া:গনু_ফ্রি_ডকুমেন্টেশন_লাইসেন্সের_পাঠ্য জিএফডিএল]",
-	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এস ৩.০] এবং [https://www.gnu.org/licenses/fdl.html জিএফডিএল]",
+	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.bn সিসি বাই-এস ৩.০] ও [https://www.gnu.org/licenses/fdl.html জিএফডিএল]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|স্বাগতম}}, $1!",
 	"wikibase-repo-name": "উইকিউপাত্ত",
 	"wikibase-page-schema-publisher-name": "উইকিমিডিয়া ফাউন্ডেশন",

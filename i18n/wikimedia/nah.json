@@ -4,6 +4,7 @@
 			"Akapochtli",
 			"Fitoschido",
 			"Fluence",
+			"Languaeditor",
 			"Ricardo gs",
 			"Taresi",
 			"Teòtlalili"
@@ -21,8 +22,8 @@
 	"group-uploader": "Tlaquetzalōnih",
 	"group-staff": "Olōlli",
 	"group-staff-member": "Olōllācatl",
-	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ximopanolti}}, $1!",
-	"wikibase-sitelinks-wikisource": "Wikitzintiliztli",
+	"wikimedia-mobile-mainpage-title-loggedin": "¡{{GENDER:$1|Mah kwalli xiwallaw}}, $1!",
+	"wikibase-sitelinks-wikisource": "Wikimeyalli",
 	"wikibase-sitelinks-wikivoyage": "Huiquiyahui",
 	"wikimedia-developers": "Matlachihchiuhqueh",
 	"interlanguage-link-sitename-wikipedia": "Huiquipedia, in yōllohxoxōuhqui centlamatilizāmoxtli"
