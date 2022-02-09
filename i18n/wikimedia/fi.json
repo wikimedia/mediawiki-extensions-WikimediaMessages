@@ -28,7 +28,8 @@
 			"Valtlait",
 			"Varusmies",
 			"VezonThunder",
-			"Zache"
+			"Zache",
+			"Veikk0.ma"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -160,6 +161,8 @@
 	"group-massmessage-sender": "Joukkoviestien lähettäjät",
 	"group-massmessage-sender-member": "{{GENDER:$1|joukkoviestien lähettäjä}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:Joukkoviestien lähettäjät",
+	"group-new-wikis-importer": "Uusien wikien tuojat",
+	"group-new-wikis-importer-member": "{{GENDER:$1|uusien wikien tuoja}}",
 	"group-oauthadmin": "OAuth-ylläpitäjät",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-ylläpitäjä}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth-ylläpitäjät",
