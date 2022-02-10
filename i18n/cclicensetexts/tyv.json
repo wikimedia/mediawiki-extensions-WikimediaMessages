@@ -1,13 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"Riverman",
 			"Монгуш Салим"
 		]
 	},
+	"wm-license-cc-attribution": "Атрибус",
 	"wm-license-cc-free": "Хостуг кылып болур чүүлдериңер:",
 	"wm-license-cc-free-to-share-header": "чогаал-биле үлежир",
 	"wm-license-cc-free-to-share-text": "ук чогаалды хоолгалаар, нептередир болгаш дамчыдар",
 	"wm-license-cc-free-to-remix-text": "ук чогаалды эде кылыр",
 	"wm-license-cc-conditions": "Дараазында негелделерни сагыыр болза:",
+	"wm-license-cc-conditions-attribution-header": "атрибус",
 	"wm-license-cc-conditions-share_alike-header": "ол-ла негелделерге нептередиишкин"
 }
