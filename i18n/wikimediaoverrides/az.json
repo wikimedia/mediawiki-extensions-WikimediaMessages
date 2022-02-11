@@ -8,6 +8,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Hesab məlumatlarınızı yükləmək üçün [[m:Special:CentralAuth/$1|töhfə verdiyiniz müvafiq Vikimedia layihələrindəki]] \"Nizamlamalar\" səhifəsinə daxil ola bilərsiniz.",
 	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
 	"wikimedia-centralauth-groupname": "Vikimediya Fondu",
 	"createacct-helpusername-url": "{{ns:Project}}:İstifadəçi_adları",

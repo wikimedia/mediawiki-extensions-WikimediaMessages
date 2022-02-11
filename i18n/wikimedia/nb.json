@@ -40,7 +40,7 @@
 	"grouppage-extended-uploader": "{{ns:project}}:Utvidede opplastere",
 	"group-otrs-member": "VRT-medlemmer",
 	"group-otrs-member-member": "{{GENDER:$1|VRT-medlem}}",
-	"grouppage-otrs-member": "{{ns:project}}:OTRS-medlemmer",
+	"grouppage-otrs-member": "{{ns:project}}:VRT-medlemmer",
 	"group-abusefilter": "Redaktører av misbruksfilteret",
 	"group-abusefilter-member": "{{GENDER:$1|redaktør for misbruksfilteret}}",
 	"grouppage-abusefilter": "{{ns:project}}:Redaktører av misbruksfilteret",
@@ -264,7 +264,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Be om en konto",
 	"wikimedia-developers": "Utviklere",
 	"wikimedia-globalblocking-ipblocked": "'''IP-adressen din har blitt [[m:Special:MyLanguage/Global blocks|blokkert på alle wikier]].'''\n\nBlokkeringen ble gjort av $1 ($2).\nÅrsaken som ble angitt er ''$3''.\n\n* Start på blokkeringen: $4\n* Slutt på blokkeringen: $5\n\nDin nåværende IP-adresse er $6.\nVennligst inkluder alle detaljene ovenfor i henvendelser du gjør til oss.\n\nOm du mener du ble blokkert ved en feil kan du finne mer informasjon og instruksjoner i den globale retningslinjen [[m:Special:MyLanguage/No open proxies|ingen åpne proxyer]].\nEllers, for å diskutere blokkeringen, [[m:Steward requests/Global|post en forespørsel for gjennomgang på Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-range": "'''IP-adressen din er i et intervall som har blitt [[m:Special:MyLanguage/Global blocks|blokkert på alle Wikimedia Foundations wikier]].'''\n\nBlokkeringen ble gjort av $1 ($2).\nDen angitte årsaken er '''$3'''.\n\n* Blokkeringen startet: $4\n* Blokkeringen utløper: $5\n\nDin gjeldende IP-adresse er $6, og det blokkerte intervallet er $7.\nInkluder alle detaljene ovenfor om du skal stille spørsmål om dette.\n\nHvis du mener at blokkeringen er feilaktig kan du finne mer informasjon og instruksjoner i de globale reglene for [[m:Special:MyLanguage/No open proxies|ingen åpne proxyer]].\nFor å diskutere blokkeringen kan du [[m:Steward requests/Global|be om en gjennomgang på Meta-Wiki]] eller sende en epost til [[m:Special:MyLanguage/Stewards|forvalternes]] [[m:Special:MyLanguage/OTRS|OTRS]]-kø på <kbd>stewards@wikimedia.org</kbd> med alle detaljene ovenfor.",
+	"wikimedia-globalblocking-ipblocked-range": "'''IP-adressen din er i et intervall som har blitt [[m:Special:MyLanguage/Global blocks|blokkert på alle Wikimedia Foundations wikier]].'''\n\nBlokkeringen ble gjort av $1 ($2).\nDen angitte årsaken er '''$3'''.\n\n* Blokkeringen startet: $4\n* Blokkeringen utløper: $5\n\nDin gjeldende IP-adresse er $6, og det blokkerte intervallet er $7.\nInkluder alle detaljene ovenfor om du skal stille spørsmål om dette.\n\nHvis du mener at blokkeringen er feilaktig kan du finne mer informasjon og instruksjoner i de globale reglene for [[m:Special:MyLanguage/No open proxies|ingen åpne proxyer]].\nFor å diskutere blokkeringen kan du [[m:Steward requests/Global|be om en gjennomgang på Meta-Wiki]] eller sende en epost til [[m:Special:MyLanguage/Stewards|forvalternes]] [[m:Special:MyLanguage/VRT|VRT]]-kø på <kbd>stewards@wikimedia.org</kbd> med alle detaljene ovenfor.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''En eller flere proxy-tjenere brukt av din forespørsel er [[m:Special:MyLanguage/Global blocks|globalt blokkert]].'''\n\nBlokkeringen ble utført av $1 ($2).\nAngitt årsak var «$3».\n\n* Start på blokkeringen: $4\n* Utløp av blokkeringen: $5\n\nDen blokkerte proxy-adressen var $6.\n\nVennligst inkluder alle detaljene ovenfor i henvendelser du gjør til oss.\n\nOm du mener du ble blokkert ved en feil kan du finne mer informasjon og instruksjoner i den globale retningslinjen [[m:Special:MyLanguage/No open proxies|ingen åpne proxyer]].\nEllers, for å diskutere blokkeringen, [[m:Steward requests/Global|post en forespørsel for gjennomgang på Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "IP-adressa di, <strong>$1</strong>, har blitt automatisk identifisert som en Tor-node.\nRedigering via Tor er blokkert for å forhindre misbruk.\nFor mer informasjon og instruksjoner rundt legitim bruk av Tor, se den globale policyen [[m:Special:MyLanguage/No open proxies|No open proxies]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use",
@@ -353,5 +353,12 @@
 	"right-docseditor": "Redigere dokumentasjon",
 	"right-edit-legal": "Redigere sider med mulige juridiske konsekvenser",
 	"action-edit-legal": "redigere sider med potensielle juridiske konsekvenser",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} de siste 30 dagene?"
+	"ext-quicksurveys-tst-internal-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} de siste 30 dagene?",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nei",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} de siste 30 dagene?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ja",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nei",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Jeg er ikke sikker",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Denne anonyme spørreundersøkelsen utføres av Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Les mer] eller sjekk [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement personvernserklæringen]."
 }
