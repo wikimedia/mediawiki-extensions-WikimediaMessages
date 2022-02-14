@@ -10,7 +10,7 @@
 	"wikimedia-copyrightwarning": "Omu kubiika ebyahindurwa, noyikirizana n'oku shohoza ebyahindurwa ahansi ya [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], otabiihire na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nNoyikiriza ngu hyperlink ninga URL na kakwate ka kumara aha license ya Creative Common.",
 	"wikibase-sitelinks-wikinews": "WikiAmakuru",
 	"wikibase-sitelinks-wikiquote": "wikiTugambo",
-	"wikibase-sitelinks-wikisource": " WikiIbikyiro",
+	"wikibase-sitelinks-wikisource": " WikiOburigo",
 	"wikibase-sitelinks-wikivoyage": "Wikitambura",
 	"wikimedia-developers": "Abahangu",
 	"wikimedia-globalblocking-ipblocked": "'''IP adreess yawe [[m:Special:MyLanguage/Global blocks|yazibirwa aha wiki zoona]].'''\n\nOkuzibirwa kwakorwa $1 ($2).\nEnshonga eyahebwa ni ''$3''.\n\n* Okutandika kwa okuzibirwa: $4\n* Okuhwayo kwa okuzibirwa: $5\n\nIP address yawe eriho hati ni $6\nTekamu  byoona ebikukwata ahiguru omu bibuzo ebyorakore\n\nWa noyikiriza bakuzibirira omu'nshobi, nobasa kubona erikukyiraho nana endagiriro omu [[m:Special:MyLanguage/No open proxies|No open proxies]] Enkora yensi Yoona. Kwihaho kuhajana aha kuzibirwa [[m:Steward requests/Global|tayo $2 okushaba kwawe ba kureebemu aha Meta-Wiki]].",

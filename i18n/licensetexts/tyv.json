@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Монгуш Салим"
+			"Монгуш Салим",
+			"Riverman"
 		]
 	},
 	"wm-license-information-description": "Тодарадып бижээни",
 	"wm-license-information-source": "Дөзү",
 	"wm-license-information-date": "ай-хүн",
-	"wm-license-information-author": "автор"
+	"wm-license-information-author": "автор",
+	"wm-license-information-permission": "Чөпшээрел",
+	"wm-license-information-permission-reusing-text": "Ол файлды катап ажыглаары"
 }
