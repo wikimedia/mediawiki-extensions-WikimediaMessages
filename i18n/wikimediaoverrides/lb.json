@@ -27,6 +27,6 @@
 	"wikimedia-sitematrix": "Lëscht vun de Wikimedia-Wikien",
 	"wikimedia-sitematrix-others": "Aner Wikimedia-Projeten",
 	"wikimedia-sitematrix-summary": "Op dëser Spezialsäit stinn all Wikimedia Wikien.",
-	"wikimedia-ipb-confirmhideuser": "Dir sidd am Gaang e Benotzer ze späre mat der Funktioun \"Benotzer verstoppen\" ageschalt. Dëst hëlt den Numm vum Benotzer aus alle Lëschten a Logbicher eraus. Sidd Dir sécher datt Dir dat maache wëllt?\n\nWann de Benotzernumm op alle Wikimedia Wikie verstoppt gi muss, da kontaktéiert d'[[m:Special:MyLanguage/Stewards|Stewards]] iwwer stewards@wikimedia.org.",
+	"wikimedia-ipb-confirmhideuser": "Dir sidd am Gaang e Benotzer ze späre mat der Funktioun \"Benotzer verstoppen\" ageschalt. Dëst hëlt den Numm vum Benotzer aus alle Lëschten a Logbicher eraus. Sidd Dir sécher datt Dir dat maache wëllt?\n\nWann de Benotzernumm op alle Wikimedia Wikie verstoppt gi muss, da kontaktéiert d'[[m:Special:MyLanguage/Stewards|Stewards]] iwwer [[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|on-wiki E-Mail]] oder iwwer <kbd>stewards@wikimedia.org</kbd>.\n\nMerci",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Dateschutzrichtlinn]"
 }

@@ -36,7 +36,7 @@
 	"wikimedia-sitematrix-others": "ウィキメディアの他のプロジェクト",
 	"wikimedia-sitematrix-summary": "この特別ページではウィキメディアのすべてのウィキを表示しています。",
 	"wikimedia-sulrenamewarning-usenew": "これ以降、あなたは新しい利用者名<strong>$1</strong>を使ってログインする必要があります。新しい利用者名はウィキメディアでの全プロジェクトにおいてあなたに固有のものであり、あるプロジェクトにログインしてから他のプロジェクトを訪れると、アカウントは引き継がれます。[[:m:Special:MyLanguage/Help:Unified_login|統一ログイン・ヘルプページ]]にはシングルユーザー・ログインについてのさらなる情報とともに、よく寄せられる質問の一覧があります。もし自分の[[Special:Preferences|個人設定]]でメールアドレスを更新したりパスワードを変更する必要があるのなら、今がその良い機会かもしれません。\n\n異なるアカウント名をリクエストするには、[[Special:GlobalRenameRequest]]をご覧ください。\nウィキメディアのプロジェクトに参加していただきありがとうございます。",
-	"wikimedia-ipb-confirmhideuser": "「利用者名の秘匿」を有効にしてブロックしようとしています。実行すると、このウィキにあるすべての一覧や記録項目で利用者名が表示されません。本当に実行しますか?\n\nウィキメディアのすべてのウィキで利用者名の秘匿が必要な場合、[[m:Special:MyLanguage/Stewards|スチュワード]]宛てに[[m:Special:EmailUser/Wikimedia_Stewards|on-wiki メール]]を送るか、またはこちらのアドレス<kbd>stewards@wikimedia.org</kbd>に連絡をしてください。よろしくお願いします。",
+	"wikimedia-ipb-confirmhideuser": "「利用者名の秘匿」を有効にして利用者をブロックしようとしています。実行すると、このウィキのすべての一覧や記録項目で、その利用者名が表示されなくなります。本当に実行しますか?\n\nウィキメディアのすべてのウィキで利用者名を秘匿する必要がある場合、[[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|ウィキ上のメール送信]]または<kbd>stewards-oversight@wikimedia.org</kbd>宛のメールで[[m:Special:MyLanguage/Stewards|スチュワード]]に連絡してください。よろしくお願いします。",
 	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成できます。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]"
 }
