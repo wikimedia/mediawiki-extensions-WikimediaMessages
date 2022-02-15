@@ -1,7 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Rueter"
+		]
 	},
-	"wikimedia-sitematrix": "Валпаргонь коряс Викимедиянь пелькстнэ",
-	"wikimedia-sitematrix-others": "Лия Викимедиянь проекттнэ"
+	"wikimedia-sitematrix": "Викимедиянь викитнень лемрисьмест",
+	"wikimedia-sitematrix-others": "Викимедиянь лия проекттнэ"
 }
