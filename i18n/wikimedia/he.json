@@ -17,6 +17,7 @@
 			"Yonidebest",
 			"דגש",
 			"דגש חזק",
+			"לואיקה",
 			"תומר ט",
 			"아라"
 		]
@@ -248,7 +249,7 @@
 	"cant-delete-main-page": "לא ניתן למחוק או להעביר את העמוד הראשי.",
 	"wikimedia-translationnotifications-signup-legal": "אתם מסכימים שאם תספקו מידע זה לקרן ויקימדיה, אנחנו אולי ניצחור אתכם קשר בנושא תרגומים שקשורים לתנועת ויקימדיה שאולי מעניינים אותך. אתם מסכימים שהמידע שלכם יאוחסן בארצות הברית של אמריה ושהוא נתון ל[https://foundation.wikimedia.org/wiki/Privacy_policy מדיניות הפרטיות] שלנו.",
 	"upload-more-photos-of-this-monument": "העלאה של צילומים נוספים את אתר המורשת",
-	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
+	"createacct-captcha-help-url": "{{ns:Project}}:בקשת חשבון",
 	"wikimedia-developers": "מפתחים",
 	"wikimedia-globalblocking-ipblocked": "'''כתובת ה־IP שלך [[m:Special:MyLanguage/Global blocks|נחסמה בכל אתרי הוויקי]].'''\n\nהחסימה בוצעה על־ידי $1 (מאתר $2).\nהסיבה שניתנה היא: $3.\n\n* תחילת החסימה: $4\n* תפוגת החסימה: $5\n\nכתובת ה־IP הנוכחית שלך היא $6.\nנא לכלול את כל המידע הנ\"ל בכל שאלה.\n\nאם נראה לך שנחסמת בטעות, אפשר למצוא מידע נוסף והוראות בדף המדיניות הגלובלי [[m:Special:MyLanguage/No open proxies|No open proxies]].\nמלבד זאת, נא לדון בחסימה על־ידי [[m:Steward requests/Global|שליחת בקשה לביקורת באתר מטא]].",
 	"wikimedia-globalblocking-ipblocked-range": "'''כתובת ה־IP שלך נמצאת בטווח ש[[m:Special:MyLanguage/Global blocks|נחסם בכל אתרי הוויקי של קרן ויקימדיה]].'''\n\nהחסימה בוצעה על־ידי $1 (באתר $2).\nהסיבה שניתנה לחסימה היא: ''$3''\n\n* תחילת החסימה: $4\n* פקיעת החסימה: $5\n\nכתובת ה־IP הנוכחית שלך היא $6 והטווח החסום הוא $7.\nנא לכלול את כל הפרטים שלעיל בכל השאלות שלך בנושא.\n\nאם נראה לך שנחסמת בטעות, באפשרותך למצוא מידע והוראות נוספות במדיניות הגלובלית [[m:Special:MyLanguage/No open proxies|No open proxies]].\nאחרת, כדי לדון בחסימה, נא [[m:Steward requests/Global|לשלוח בקשה לאתר מטא]] או לשלוח מכתב בדואר אלקטרוני לתור ה־[[m:Special:MyLanguage/VRT|VRT]] של ה[[m:Special:MyLanguage/Stewards|דיילים]] בכתובת <kbd>stewards@wikimedia.org</kbd> ולכלול בו את כל הפרטים לעיל.",
@@ -303,7 +304,7 @@
 	"eri-rcfilters-tour-highlight-description": "שימוש בהדגשה יבדיל באופן חזותי את המאפיינים שנבחרו.<br/><br/>באפשרותך לצרף הדגשות עם מסננים או להשתמש בהדגשות באופן עצמאי.",
 	"eri-rcfilters-tour-highlight-button": "בסדר, הבנתי",
 	"eri-rcfilters-tour-confirm-title": "המסננים החדשים מופעלים עכשיו",
-	"eri-rcfilters-tour-confirm-description": "אפשר לגשת ל<strong>דף אפשרויות הבטא</strong> כדי לתת משוב או לכבות את האפשרות.",
+	"eri-rcfilters-tour-confirm-description": "אפשר לגשת ל<strong>דף אפשרויות הבטא</strong> כדי לשלוח משוב או לכבות את האפשרות.",
 	"eri-wlfilters-tour-intro-welcome-title": "ברוך בואך למסננים החדשים של רשימת המעקב",
 	"eri-wlfilters-tour-intro-preferences-description": "אפשר לגשת ללשונית \"רשימת המעקב\" בהעדפות בכל עת כדי לכבות את רשימת המעקב המשופרת.",
 	"wikimedia-centralauth-contribs-locked": "החשבון הזה נעול גלובלית.\nר' [[m:Special:CentralAuth/$1|פרטים על החשבון הגלובלי]] למידע נוסף.",
