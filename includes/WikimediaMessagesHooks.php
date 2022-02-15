@@ -6,6 +6,7 @@
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Cache\Hook\MessageCache__getHook;
 use MediaWiki\Config\ServiceOptions;
+use MediaWiki\Extension\GuidedTour\GuidedTourLauncher;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
