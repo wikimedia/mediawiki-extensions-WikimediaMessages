@@ -1,13 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Монгуш Салим"
+			"Монгуш Салим",
+			"Riverman"
 		]
 	},
+	"wm-license-cc-attribution": "Атрибус",
 	"wm-license-cc-free": "Хостуг кылып болур чүүлдериңер:",
 	"wm-license-cc-free-to-share-header": "чогаал-биле үлежир",
 	"wm-license-cc-free-to-share-text": "ук чогаалды хоолгалаар, нептередир болгаш дамчыдар",
+	"wm-license-cc-free-to-remix-header": "холуур",
 	"wm-license-cc-free-to-remix-text": "ук чогаалды эде кылыр",
 	"wm-license-cc-conditions": "Дараазында негелделерни сагыыр болза:",
-	"wm-license-cc-conditions-share_alike-header": "ол-ла негелделерге нептередиишкин"
+	"wm-license-cc-conditions-attribution-header": "атрибус",
+	"wm-license-cc-conditions-share_alike-header": "ол-ла негелделерге нептередиишкин",
+	"wm-license-cc-conditions-share_alike-text": "Материалды холуп, хуулдуруп азы аңаа даянып турар болзуңарза, үүлеңер [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses дөмей азы аңаа тааржыр лисенс] йозугаар киирер ужурлуг силер."
 }

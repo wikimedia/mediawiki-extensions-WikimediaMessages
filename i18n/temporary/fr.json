@@ -21,10 +21,10 @@
 	"wikimediamessages-desc": "Messages temporaires spécifiques de Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Masquage de modifications",
 	"group-oversight": "Masqueurs de modifications",
-	"group-oversight-member": "{{GENDER:$1|masqueur|masqueuse}} de modifications",
+	"group-oversight-member": "masqueu{{GENDER:$1|r|se}} de modifications",
 	"hello": "Bonjour",
 	"please-translate": "Aidez-nous à traduire dans votre langue",
-	"thank-you": "{{GENDER:$1|Merci.}}",
+	"thank-you": "{{GENDER:$1|}}Merci.",
 	"specialblockfeedback": "Commentaire",
-	"specialinvestigate-feedback": "laisser les commentaires"
+	"specialinvestigate-feedback": "Laisser un commentaire"
 }
