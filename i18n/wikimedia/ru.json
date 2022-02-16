@@ -44,6 +44,7 @@
 			"Nemo bis",
 			"Okras",
 			"Ole Yves",
+			"Pacha Tchernof",
 			"Platonides",
 			"Putnik",
 			"Redredsonia",
@@ -356,5 +357,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Я не знаю"
 }
