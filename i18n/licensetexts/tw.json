@@ -2,14 +2,27 @@
 	"@metadata": {
 		"authors": [
 			"AC Krah",
+			"Afrah2000",
 			"Robertjamal12"
 		]
 	},
+	"wm-license-artwork-current-location": "Baabia wo wɔ Seisei ara",
+	"wm-license-artwork-object-history": "Adeɛ bi abakɔsɛm",
+	"wm-license-book-language": "Kasa",
+	"wm-license-book-start-this-book": "Hyɛ nwoma yi ase",
+	"wm-license-book-translator": "Obi a ɔsesa kasa bi kɔ foforɔ",
+	"wm-license-creator-description": "Worekyerɛkyerɛ biribi mu",
+	"wm-license-creator-date-of-birth": "Mmerɛ a yɛ woo wo",
+	"wm-license-creator-location-of-birth": "Baabia yɛ woo wo",
+	"wm-license-creator-location-of-birth-and-death": "Beaɛ a yɛ woo wo anaa wo wuiɛ",
+	"wm-license-creator-work-period": "Adwuma mmerɛ",
+	"wm-license-creator-work-location": "Beaɛ a adwuma wɔ",
 	"wm-license-information-description": "Ɛmu nkyerɛkyere mu",
 	"wm-license-information-source": "Beaɛ a ɛfiri",
 	"wm-license-information-date": "Da",
 	"wm-license-information-author": "Ɔtwerɛfoɔ",
 	"wm-license-information-permission": "Akwanya",
 	"wm-license-information-permission-reusing-text": "Fa nkrataa no di dwuma biom",
+	"wm-license-information-permission-see-below": "Hwɛ aseɛ",
 	"wm-license-own-work": "Wo ankasa w'adwuma"
 }
