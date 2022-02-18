@@ -136,6 +136,8 @@ class WikimediaMessagesHooks implements
 			'log-action-filter-usermerge',
 			'log-action-filter-usermerge-mergeuser',
 			'log-action-filter-usermerge-deleteuser',
+			'notification-body-oathauth-disable-other',
+			'oathauth-notifications-disable-helplink',
 		];
 
 		static $allbutmetawikikeys = [
