@@ -5,6 +5,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tanlashda yordam)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|Hissangizni qoʻshgan boshqa Vikimedia loyihalaridagi]] hisobingiz maʼlumotlarini yuklab olish uchun Moslamalar sahifangizga tashrif buyurishingiz mumkin.",
 	"wikimedia-createacct-imgcaptcha-help": "Suratdagi yozuvni tushunmayapsizmi? [[{{MediaWiki:createacct-captcha-help-url}}|Hisob yaratishga soʻrovlar]]",
 	"wikimedia-centralauth-groupname": "Vikimedia Fondi",
 	"wikimedia-discussiontools-replywidget-terms-click": "„$1“ tugmasini bosish orqali [https://foundation.wikimedia.org/wiki/Terms_of_Use foydalanish shartlarimizga] hamda kiritgan maʼlumotlaringiz $2 {{PLURAL:$3|litsenziyalari ostida}} qaytarishsiz nashr etilishiga rozilik bildirasiz.",

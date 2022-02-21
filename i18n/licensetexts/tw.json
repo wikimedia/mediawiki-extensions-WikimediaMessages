@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"AC Krah",
+			"Afia360",
 			"Afrah2000",
 			"Robertjamal12"
 		]
@@ -24,5 +25,6 @@
 	"wm-license-information-permission": "Akwanya",
 	"wm-license-information-permission-reusing-text": "Fa nkrataa no di dwuma biom",
 	"wm-license-information-permission-see-below": "Hwɛ aseɛ",
-	"wm-license-own-work": "Wo ankasa w'adwuma"
+	"wm-license-own-work": "Wo ankasa w'adwuma",
+	"wm-license-self-multiple-licenses-select": "Wobɛtumi ayi tumidie krataa a wopɛ"
 }
