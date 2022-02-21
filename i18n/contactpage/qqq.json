@@ -60,7 +60,7 @@
 	"contactpage-affcom-user-group-description-label": "Label for the description field on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-wikipage-label": "Label for the wiki page field on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-location-label": "Label for the location field on [[meta:Special:Contact/affcomusergroup]].",
-	"contactpage-affcom-user-group-leaders-label": "Label for the leaders field on [[meta:Special:Contact/affcomusergroup]].",
+	"contactpage-affcom-user-group-leaders-label": "Label for the \"leaders\" field on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-logo-label": "Label for the logo field on [[meta:Special:Contact/affcomusergroup]].",
 	"contactpage-affcom-user-group-rules-label": "Label for the rules on [[meta:Special:Contact/affcomusergroup]]. Make sure to leave the link targets to \"Affiliations Committee\" and \"Wikimedia user groups\" in English, but you can translate the link titles after the pipe.",
 	"contactpage-affcom-user-group-terms-label": "Label for the terms checkbox on [[meta:Special:Contact/affcomusergroup]].",
