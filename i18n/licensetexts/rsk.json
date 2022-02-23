@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Keresturec"
+		]
+	},
+	"wm-license-information-description": "Опис",
+	"wm-license-information-source": "Жридло",
+	"wm-license-information-date": "Датум",
+	"wm-license-information-author": "Автор",
+	"wm-license-information-permission": "Допущенє",
+	"wm-license-information-permission-reusing-text": "Повторне хаснованє того файла",
+	"wm-license-own-work": "Власна робота"
+}
