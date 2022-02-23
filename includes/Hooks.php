@@ -208,6 +208,9 @@ class Hooks implements
 		if ( $lcKey === 'mobile-frontend-license-links' ) {
 			$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
 			switch ( $licensing ) {
+				case 'mediawiki':
+					$lcKey = 'mediawiki.org-mobile-license-links';
+					break;
 				case 'wikidata':
 					$lcKey = 'wikidata-mobile-license-links';
 					break;
@@ -300,7 +303,13 @@ class Hooks implements
 				// Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL. (Also, the data is under CC0.)
 				$msg = 'wikidata-copyright';
 				break;
+			case 'mediawiki':
+				// MediaWiki.org has a special licence for the Help: namespace.
+				$lcKey = 'mediawiki.org-copyright';
+				break;
 			case 'commons':
+				// Commons has a special licence for the structured data.
+				// TODO: Should we also mention the special Data: namespace?
 				$msg = 'wikimedia-commons-copyright';
 				break;
 			case 'standard':
@@ -331,6 +340,10 @@ class Hooks implements
 				// Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL.
 				$msg = [ 'wikimedia-copyrightwarning-ccbysa30only' ];
 				break;
+			case 'mediawiki':
+				// MediaWiki.org pages are dual-licensed under CC-BY-SA 3.0 and GFDL, except for the Help: namespace.
+				$msg = [ 'mediawiki.org-copyrightwarning' ];
+				break;
 			case 'commons':
 			case 'standard':
 				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
@@ -358,8 +371,12 @@ class Hooks implements
 				// Wikidata needs its own special message. See T112088
 				$msg = 'wikidata-copyright';
 				break;
+			case 'mediawiki':
+				// MediaWiki.org also needs its own special message, to mention the Help: namespace.
+				$msg = 'mediawiki.org-copyright';
+				break;
 			case 'commons':
-				// Commons also needs its own special message.
+				// Commons also needs its own special message, to mention the structured data.
 				$msg = 'wikimedia-commons-copyright';
 				break;
 			case 'standard':
@@ -397,6 +414,7 @@ class Hooks implements
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'commons':
+			case 'mediawiki':
 			case 'standard':
 				// Add the license names to the terms-of-use message - dual-licensed wikis
 				$links = [ $context->msg( 'wikimedia-license-links' )->plain(), 2 ];
@@ -437,6 +455,7 @@ class Hooks implements
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'commons':
+			case 'mediawiki':
 			case 'standard':
 				// Add the license names to the terms-of-use message - dual-licensed wikis
 				$links = [ $context->msg( 'wikimedia-license-links' )->plain(), 2 ];

@@ -31,6 +31,7 @@
 	},
 	"RawHtmlMessages": [
 		"wikimedia-copyright",
+		"mediawiki.org-copyright",
 		"wikimedia-commons-copyright",
 		"wikidata-copyright",
 		"wikimedia-feedback-termsofuse"
@@ -115,7 +116,7 @@
 	"config": {
 		"WikimediaMessagesLicensing": {
 			"value": "standard",
-			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'wikidata', 'wikinews'"
+			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'mediawiki', 'wikidata', 'wikinews'"
 		}
 	},
 	"manifest_version": 2
