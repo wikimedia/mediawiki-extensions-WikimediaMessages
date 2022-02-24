@@ -4,11 +4,13 @@
 			"Keresturec"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Дате допущенє же би ше копировало, дистрибуовало и/або меняло тот документ под условиями '''[[{{int:wm-license-gfdl-wiki-link}}|ҐНУ-овей лиценци за шлєбодну документацию]]''', верзия 1.2 або було хтора нова верзия хтору обяви [[{{int:wm-license-fsf-wiki-link}}|Фондация за шлєбодни софтвер]];без нєпременююцих оддзелькох и без текста  на насловним и остатнїм боку. Текст лиценци можеце пречитац ''[[{{int:wm-license-gfdl-full-1.2-link}}|ту]]''.",
 	"wm-license-information-description": "Опис",
 	"wm-license-information-source": "Жридло",
 	"wm-license-information-date": "Датум",
 	"wm-license-information-author": "Автор",
 	"wm-license-information-permission": "Допущенє",
 	"wm-license-information-permission-reusing-text": "Повторне хаснованє того файла",
-	"wm-license-own-work": "Власна робота"
+	"wm-license-own-work": "Власна робота",
+	"wm-license-self-multiple-licenses-select": "Можеце вибрац лиценцу по вашим жаданю."
 }
