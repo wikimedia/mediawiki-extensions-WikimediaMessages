@@ -103,8 +103,6 @@ class WikimediaMessagesHooks implements
 			'centralauth-login-error-locked',
 			// T86741
 			'centralauth-groupname',
-			'centralauth-uwbr-intro',
-			'centralauth-uwbr-registration-nodate',
 			'checkuser-toollinks',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
