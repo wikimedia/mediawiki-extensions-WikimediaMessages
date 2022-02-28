@@ -18,8 +18,6 @@
 	"wikimedia-createacct-imgcaptcha-help": "لا تستطيع رؤية الصورة؟ [[{{MediaWiki:createacct-captcha-help-url}}|اطلب حسابا]]",
 	"wikimedia-centralauth-groupname": "مؤسسة ويكيميديا",
 	"wikimedia-centralauth-login-error-locked": "<strong>هذا الحساب [[m:Special:MyLanguage/Global locks|مقفل عالميا]]؛ لن </strong> {{GENDER:$1|تتمكن|تتمكني}} من تسجيل الدخول إلى أي ويكي لويكيميديا، من فضلك [[m:Special:Contact/stewards|اتصل بالمضيفين]] إذا كانت {{GENDER:$1|لديك}} أية أسئلة.",
-	"wikimedia-centralauth-uwbr-intro": "هذه الصفحة تعرض المستخدمين المسجلين في هذه الويكي الذين ستتم إعادة تسميتهم كنتيجة [[m:Single User Login finalisation announcement|لإنهاء توحيد دخول المستخدم]]، مزيد من العلومات حول [[m:Help:Unified login|توحيد الدخول]]، المستخدمون يمكنهم طلب إعادة التسمية في أي وقت باستخدام [[Special:GlobalRenameRequest]].",
-	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:سياسة اسم المستخدم",
 	"wikimedia-delete-toobig": "تحتوي هذه الصفحة على تاريخ تعديل كبير، أكبر من $1 {{PLURAL:$1|مراجعة|مراجعات}}،\nيقتصر حذف الصفحات التي تحتوي على تاريخ تعديل كبير جدا على منع حدوث أي توقف عرضي في {{SITENAME}}. \nيُرجَى الاتصال [[m:Special:MyLanguage/Stewards|بالمضيفين]] في [[m:Steward requests/Miscellaneous|طلبات المضيفين/متنوعة في الميتا]] لطلب حذف هذه الصفحة.",
 	"wikimedia-discussiontools-replywidget-terms-click": "مع ضغطك على «$1»،  فأنت {{GENDER:|توافق|توافقين}} على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] ، وعلى نشر مساهمتك بشكل لا يمكن التراجع عنه تحت [https://creativecommons.org/licenses/by-sa/3.0 رخصة المشاع الإبداعي المُلزِمة بنسب العمل للمؤلف وبترخيص المُشتقات بالمثل 3.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",

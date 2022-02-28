@@ -7,7 +7,6 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tulongannak nga agpili)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Saan a makita ti ladawan? [[{{MediaWiki:createacct-captcha-help-url}}|Agkiddaw ti pakabilangan]]",
 	"wikimedia-centralauth-groupname": "Pundasion ti Wikimedia",
-	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Annuroten_ti_nagan_ti_agar-aramat",
 	"wikimedia-flow-terms-of-use-new-topic": "Babaen ti panagpindut ti \"{{int:flow-newtopic-save}}\", umannurotka kadagiti bukodmi a [https://foundation.wikimedia.org/wiki/Terms_of_Use Termino ti Panagusar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "Babaen ti panagpindut ti \"{{int:flow-reply-link}}\", umannurotka kadagiti bukodmi a [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Termino ti Panagusar] ken umannurotka a saan a mangiwaswas a mangibbet iti testom babaen ti [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 a Lisensia] ken [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",

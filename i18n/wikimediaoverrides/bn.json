@@ -16,7 +16,6 @@
 	"wikimedia-createacct-imgcaptcha-help": "ছবিটি দেখতে পাচ্ছেন না? [[{{MediaWiki:createacct-captcha-help-url}}|অ্যাকাউন্টের জন্য অনুরোধ]] করুন",
 	"wikimedia-centralauth-groupname": "উইকিমিডিয়া ফাউন্ডেশন",
 	"wikimedia-centralauth-login-error-locked": "<strong>এই অ্যাকাউন্টটি [[m:Special:MyLanguage/Global locks|বৈশ্বিকভাবে তালাবদ্ধ]]।</strong> {{GENDER:$1|আপনি}} কোনও উইকিমিডিয়ার উইকিতে প্রবেশ করতে সক্ষম হবেন না। {{GENDER:$1|আপনার}} কোনও প্রশ্ন থাকলে, দয়া করে [[m:Special:Contact/stewards|স্টুয়ার্ডদের]] সাথে যোগাযোগ করুন।",
-	"wikimedia-centralauth-uwbr-registration-nodate": "< ২০০৬",
 	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান $2-এর {{PLURAL:$3|অধীনে}} প্রকাশ করতে সম্মত হচ্ছেন।",
 	"wikimedia-feedback-termsofuse": "আমি <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/bn\" target=\"_blank\">ব্যবহারের শর্তাবলী</a> মেনে প্রতিক্রিয়া প্রদান করতে সম্মত হচ্ছি।",

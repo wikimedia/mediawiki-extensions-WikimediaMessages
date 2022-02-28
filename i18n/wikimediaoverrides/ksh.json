@@ -7,8 +7,6 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Hölp mem Ußsöhke)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Kei Beld ze sinn? Donn [[{{MediaWiki:createacct-captcha-help-url}}|noh enem Zohjang frohre]]!",
 	"wikimedia-centralauth-groupname": "de Wikimedia Shtefftung",
-	"wikimedia-centralauth-uwbr-intro": "Heh di Sigg zeijsch de aanjemälldte Metmaacher vun heh dämm Wikki, di em Rahme vum [[m:Single User Login finalisation announcement|Fäädeschmahche vum de jemeinsamme Zohjäng]] ömjenannt wähde sulle. Mieh doh drövver kam_mer op dä [[:m:Special:MyLanguage/Help:Unified_login|Sigg met Hölp övver de jemeinamme Zohjäng]] lässe. Öm ene janz andere Nahme för sesch ze krijje, jeiht mer op di Sigg „<code lang=\"en\" xml:lang=\"en\" dir=\"ltr\">[[Special:GlobalRenameRequest]]</code>“.",
-	"wikimedia-centralauth-uwbr-registration-nodate": "vör em Johr 2006",
 	"wikimedia-feedback-termsofuse": "Esch jävven ming Rökmäldong onger dä <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/ksh\" target=\"_blank\">Bedengonge för der Jebruch</a> un ben met dänne ennverschtande.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Dä Wonsch zom Ömdeufe {{GENDER:$1|vum|vum|vumm Metmaacher|vun dä|vum}} „$1“ op „$2“ wohd jenehmesch. Wann dat fähdesch ümjesaz es, dann kanns De met Dingem neuje Metmaacher_Nahme ennlogge un Dingem alhe Paßwood.\n\nMer bedangke ons dervör, dat De beij_enem Projäk vun de Wikkimehdija Schtefftong metmähß.",
 	"wikimedia-sitematrix": "Lėß med alle Wikkimedija Wikiß",

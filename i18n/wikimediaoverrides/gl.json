@@ -11,7 +11,6 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]",
 	"wikimedia-centralauth-groupname": "da Fundación Wikimedia",
-	"wikimedia-centralauth-uwbr-intro": "Esta páxina lista os usuarios rexistrados neste wiki que sufrirán un cambio de nome debido á [[m:Single User Login finalisation announcement|finalización do rexistro de usuario único]]. Pode obter máis información sobre o [[m:Help:Unified login|rexistro único]]. Os usuarios poden solicitar un cambio de nome en calquera momento mediante [[Special:GlobalRenameRequest]].",
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nomes_de_usuario",
 	"wikimedia-delete-toobig": "Esta páxina ten un historial de edicións extenso, de máis de $1 {{PLURAL:$1|revisión|revisións}}.\nO borrado de páxinas con grandes historiais de edición está restrinxido para previr a disrupción accidental de {{SITENAME}}.\nPor favor, contacte cos [[m:Special:MyLanguage/Stewards|stewards]] en [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] para solicitar a eliminación desta páxina.",
 	"wikimedia-feedback-termsofuse": "Estou de acordo en proporcionar comentarios en conformidade cos <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/gl\" target=\"_blank\">Termos de uso</a>.",

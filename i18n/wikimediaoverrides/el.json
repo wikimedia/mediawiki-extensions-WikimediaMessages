@@ -15,7 +15,6 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "Μπορείτε να επισκεφτείτε τη σελίδα μες τις Προτιμήσεις σας σε [[m:Special:CentralAuth/$1|άλλα εγχειρήματα Wikimedia στα οποία έχετε συνεισφέρει]] προκειμένου να κατεβάσετε τα δεδομένα λογαριασμού σας από εκείνα τα εγχειρήματα.",
 	"wikimedia-createacct-imgcaptcha-help": "Δεν μπορείτε να δείτε την εικόνα; [[{{MediaWiki:createacct-captcha-help-url}}|Ζητείστε ένα λογαριασμό]]",
 	"wikimedia-centralauth-groupname": "Ίδρυμα Wikimedia",
-	"wikimedia-centralauth-uwbr-registration-nodate": "< πριν το 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Πολιτική_Ονόματος_Χρηστών",
 	"wikimedia-discussiontools-replywidget-terms-click": "Κάνοντας κλικ στο «$1», συμφωνείτε στους [https://foundation.wikimedia.org/wiki/Terms_of_Use/el Όρους Χρήσης] μας και συμφωνείτε χωρίς ανάκληση να ελευθερώσετε το κείμενό σας υπό την [https://creativecommons.org/licenses/by-sa/3.0/deed.el Άδεια CC BY-SA 3.0] και την [https://el.wikipedia.org/wiki/Βικιπαίδεια:GNU_Free_Documentation_License GFDL]",
 	"wikimedia-feedback-termsofuse": "Συμφωνώ στο να παράσχω ανταπόκριση σύμφωνα με τους <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/el\" target=\"_blank\">Terms of Use</a>.",

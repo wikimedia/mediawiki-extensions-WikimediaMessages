@@ -7,7 +7,6 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(halep bi't ütjwool)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Könst det bil ei sä ? [[{{MediaWiki:createacct-captcha-help-url}}|Am en brükerkonto uunfraage]]",
-	"wikimedia-centralauth-uwbr-intro": "Üüb detdiar sidj stun brükern faan detheer Wiki, diar efter't [[m:Single User Login finalisation announcement|single-user login finalization]] amnäämd wurd. Muar informatjuun fanjst dü oner [[m:Help:Unified login|unified login]]. Brükern kön tu arke tidj en neien nööm fu oner [[Special:GlobalRenameRequest]].",
 	"createacct-helpusername-url": "{{ns:Project}}:Reegeln för brükernöömer",
 	"wikimedia-feedback-termsofuse": "Ik steme ragmeldangen uun auerianstemang mä a <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/de\" target=\"_blank\">brükerreegeln</a> tu.",
 	"wikimedia-flow-terms-of-use-new-topic": "Wan dü üüb \"{{int:flow-newtopic-save}}\" trakst, stemest dü a [https://foundation.wikimedia.org/wiki/Terms_of_Use brükerreegeln] tu an dat dan bidrach oner a lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] uun't näät steld woort.",
