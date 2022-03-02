@@ -6,7 +6,14 @@
 	},
 	"sitesupport": "Донируйце нам",
 	"wikimedia-copyright": "Текст доступни под лиценцу <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Авторство-Дзелїц под истима условиями</a>;можлїви и додатни условия.Опатьце<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">условия хаснованя</a> о детальох.",
+	"wikimedia-copyrightwarning": "Зоз знїманьом (зачуваньом) вименкох ви согласни зоз [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use условиями хаснованя], и з нєповолуюцим обявйованьом свойого доприносу под лиценцами [https://en.wikipedia.org/wiki/Википедия:Текст_шлєбодней_лиценци-Ауторство-Шириц_под_истима_условиями 3.0_Unported_License CC BY-SA 3.0 License] и [https://en.wikipedia.org/wiki/Википедия:Text_of_the_GNU_Free_Documentation_License GFDL].\nСогласни сце же линк або URL достаточни за припознаванє авторства под лиценцу  Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Викиновосци",
+	"wikibase-sitelinks-wikiquote": "Викицитати",
+	"wikibase-sitelinks-wikisource": "Викижридло",
+	"wikibase-sitelinks-wikivoyage": "Википутованє",
 	"wikimedia-developers": "За програмерох",
+	"wikimedia-globalblocking-ipblocked": "'''Ваша IP адреса [[m:Special:MyLanguage/Global blocks|блокирована на шицких   викийох]].'''\n\nЗаблоковал/-ла Вас $1 ($2).\nПричина: ''$3''.\n\n* Початок блокади: $4\n* Конєц блокади: $5\n\nВаша хвилькова IP адреса $6.\nНапишице шицки горнї податки при вимоги за деблокаду.\n\nКед же тримаце же сце погришно блокировани, можеце найсц вецей информациї и  упутства на боку[[m:Special:MyLanguage/No open proxies|Без отворених постреднїкох]] — ґлобалне правило.\nУ процивним, же бисце бешедовали о блокади, [[m:Steward requests/Global|придайце вимогу на Метавикию]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Єден або вецей постреднїцки (прокси) сервер хтори хаснуєце [[m:Special:MyLanguage/Global blocks|заблокировани на шицких викийох]].'''\n\nЗаблоковал/-ла Вас $1 ($2).\nПричина: ''$3''.\n\n* Початок блокади: $4\n* Конєц блокади: $5\n\nАдреса блокированого постреднїка $6.\nНапишце шицки горнї податки при вимоги за деблокаду.\n\nКед тримаце же сце з гришку заблоковани вец вецей информациї и упутства пренайдзеце на [[m:Special:MyLanguage/No open proxies|тим боку]].\nУ процивним,же бисце бешедовали о блокади, [[m:Steward requests/Global|поднєшце вимогу на Метавикию]].",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Виява о колачикох"
 }
