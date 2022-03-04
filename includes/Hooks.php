@@ -3,6 +3,17 @@
 // phpcs:disable MediaWiki.NamingConventions.LowerCamelFunctionsName.FunctionName
 // Need to be able to define ::onUploadForm_initial
 
+namespace MediaWiki\Extension\WikimediaMessages;
+
+use ChangesListSpecialPage;
+use Config;
+use ConfigException;
+use ErrorPageError;
+use ExtensionRegistry;
+use Html;
+use HtmlArmor;
+use IContextSource;
+use Linker;
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Cache\Hook\MessageCache__getHook;
 use MediaWiki\Config\ServiceOptions;
@@ -18,7 +29,16 @@ use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\User\UserOptionsManager;
+use MessageLocalizer;
+use OOUI\IconWidget;
 use OOUI\Tag;
+use ORES\Hooks\Helpers as ORESHookHelpers;
+use ResourceLoader;
+use Skin;
+use SpecialPage;
+use SpecialUpload;
+use Title;
+use User;
 
 /**
  * Hooks for WikimediaMessages extension
@@ -26,7 +46,7 @@ use OOUI\Tag;
  * @file
  * @ingroup Extensions
  */
-class WikimediaMessagesHooks implements
+class Hooks implements
 	ChangesListSpecialPageStructuredFiltersHook,
 	EditPageCopyrightWarningHook,
 	GetPreferencesHook,
@@ -66,12 +86,12 @@ class WikimediaMessagesHooks implements
 	/**
 	 * @param Config $mainConfig
 	 * @param UserOptionsManager $userOptionsManager
-	 * @return WikimediaMessagesHooks
+	 *
+	 * @return Hooks
 	 */
 	public static function factory(
 		Config $mainConfig,
-		UserOptionsManager $userOptionsManager
-	): WikimediaMessagesHooks {
+		UserOptionsManager $userOptionsManager ): Hooks {
 		return new self(
 			ExtensionRegistry::getInstance(),
 			new ServiceOptions(
@@ -208,13 +228,11 @@ class WikimediaMessagesHooks implements
 			}
 		}
 
-		if ( $lcKey === 'mainpage-title-loggedin' ) {
-			if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
-				$services = MediaWikiServices::getInstance();
-				$context = $services->getService( 'MobileFrontend.Context' );
-				if ( $context->shouldDisplayMobileView() ) {
-					$lcKey = 'wikimedia-mobile-mainpage-title-loggedin';
-				}
+		if ( $lcKey === 'mainpage-title-loggedin' && ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+			$services = MediaWikiServices::getInstance();
+			$context = $services->getService( 'MobileFrontend.Context' );
+			if ( $context->shouldDisplayMobileView() ) {
+				$lcKey = 'wikimedia-mobile-mainpage-title-loggedin';
 			}
 		}
 	}
@@ -270,7 +288,7 @@ class WikimediaMessagesHooks implements
 			$context = $services->getService( 'MobileFrontend.Context' );
 			if ( $context->shouldDisplayMobileView() ) {
 				$msg = 'mobile-frontend-copyright';
-				$link = self::shortenLicenseLink( $config );
+				$link = $this->shortenLicenseLink( $config );
 				self::skinCopyrightFooterMobile( $msg );
 				return;
 			}
@@ -1635,8 +1653,8 @@ class WikimediaMessagesHooks implements
 	private function isOresAvailable() {
 		return $this->extensionRegistry->isLoaded( 'ORES' ) &&
 			(
-				ORES\Hooks\Helpers::isModelEnabled( 'damaging' )
-				|| ORES\Hooks\Helpers::isModelEnabled( 'goodfaith' )
+				ORESHookHelpers::isModelEnabled( 'damaging' )
+				|| ORESHookHelpers::isModelEnabled( 'goodfaith' )
 			);
 	}
 
@@ -1650,7 +1668,6 @@ class WikimediaMessagesHooks implements
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ChangesListSpecialPageStructuredFilters
 	 *
 	 * @param ChangesListSpecialPage $special Special page
-	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onChangesListSpecialPageStructuredFilters( $special ) {
 		if ( !$this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
@@ -1697,7 +1714,6 @@ class WikimediaMessagesHooks implements
 	 *
 	 * @param User $user
 	 * @param bool $autocreated
-	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onLocalUserCreated( $user, $autocreated ) {
 		$this->userOptionsManager->setOption( $user, 'rcenhancedfilters-seen-tour', true );
@@ -1708,7 +1724,6 @@ class WikimediaMessagesHooks implements
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ResourceLoaderRegisterModules
 	 *
 	 * @param ResourceLoader $resourceLoader
-	 * @return void This hook must not abort, it must return no value
 	 */
 	public function onResourceLoaderRegisterModules( ResourceLoader $resourceLoader ): void {
 		if ( $this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
@@ -1815,7 +1830,7 @@ class WikimediaMessagesHooks implements
 			'oojs-ui.styles.icons-interactions'
 		] );
 
-		$icon = new OOUI\IconWidget( [
+		$icon = new IconWidget( [
 			'icon' => 'feedback',
 		] );
 

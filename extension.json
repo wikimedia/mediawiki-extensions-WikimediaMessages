@@ -35,9 +35,6 @@
 		"wikidata-copyright",
 		"wikimedia-feedback-termsofuse"
 	],
-	"AutoloadClasses": {
-		"WikimediaMessagesHooks": "includes/WikimediaMessagesHooks.php"
-	},
 	"AutoloadNamespaces": {
 		"MediaWiki\\Extension\\WikimediaMessages\\": "includes/"
 	},
@@ -56,11 +53,11 @@
 		"localBasePath": "modules",
 		"remoteExtPath": "WikimediaMessages/modules"
 	},
-	"callback": "WikimediaMessagesHooks::onRegistration",
+	"callback": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onRegistration",
 	"HookHandlers": {
 		"WikimediaMessagesHooks": {
-			"class": "WikimediaMessagesHooks",
-			"factory": "WikimediaMessagesHooks::factory",
+			"class": "MediaWiki\\Extension\\WikimediaMessages\\Hooks",
+			"factory": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::factory",
 			"services": [
 				"MainConfig",
 				"UserOptionsManager"
@@ -77,15 +74,15 @@
 		"EditPageCopyrightWarning": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"DiscussionToolsTermsOfUseMessages": "WikimediaMessagesHooks::onDiscussionToolsTermsOfUseMessages",
-		"FlowTermsOfUseMessages": "WikimediaMessagesHooks::onFlowTermsOfUseMessages",
+		"DiscussionToolsTermsOfUseMessages": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onDiscussionToolsTermsOfUseMessages",
+		"FlowTermsOfUseMessages": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onFlowTermsOfUseMessages",
 		"SkinAddFooterLinks": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"TorBlockBlockedMsg": "WikimediaMessagesHooks::onTorBlockBlockedMsg",
-		"GlobalBlockingBlockedIpMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpMsg",
-		"GlobalBlockingBlockedIpRangeMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpRangeMsg",
-		"GlobalBlockingBlockedIpXffMsg": "WikimediaMessagesHooks::onGlobalBlockingBlockedIpXffMsg",
+		"TorBlockBlockedMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onTorBlockBlockedMsg",
+		"GlobalBlockingBlockedIpMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onGlobalBlockingBlockedIpMsg",
+		"GlobalBlockingBlockedIpRangeMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onGlobalBlockingBlockedIpRangeMsg",
+		"GlobalBlockingBlockedIpXffMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onGlobalBlockingBlockedIpXffMsg",
 		"UploadForm:initial": {
 			"handler": "WikimediaMessagesHooks"
 		},
@@ -104,7 +101,7 @@
 		"SpecialPageBeforeExecute": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"CheckUserSubtitleLinks": "WikimediaMessagesHooks::onCheckUserSubtitleLinks"
+		"CheckUserSubtitleLinks": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onCheckUserSubtitleLinks"
 	},
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
