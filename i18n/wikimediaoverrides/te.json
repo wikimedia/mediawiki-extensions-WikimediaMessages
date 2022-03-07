@@ -5,7 +5,8 @@
 			"Nemo bis"
 		]
 	},
-	"wikimedia-createacct-imgcaptcha-help": "బొమ్మ కనబడ్డం లేదా? [[{{MediaWiki:createacct-captcha-help-url}}|ఓ ఖాతాను అభ్యర్ధించండి]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ఎంచుకోడానికి సాయం కావాలి)]]",
+	"wikimedia-createacct-imgcaptcha-help": "బొమ్మ కనబడ్డం లేదా? [[{{MediaWiki:createacct-captcha-help-url}}|ఖాతా కోసం అభ్యర్ధించండి]]",
 	"wikimedia-delete-toobig": "ఈ పేజీకి చాలా పెద్ద చరితం ఉంది, $1 పైచిలుకు {{PLURAL:$1|కూర్పు|కూర్పులతో}}.\nప్రమాదవశాత్తూ {{SITENAME}} విచ్ఛిన్నమవకుండా చాలా పెద్ద చరితం గల పేజీలను తొలగించడాన్ని నిరోధించాం.\nఈ పేజీని తొలగించడం కోసం [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]]  వద్ద [[m:Special:MyLanguage/Stewards|స్టీవార్డులను]] అడగండి.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy గోప్యతా విధానం]"
 }
