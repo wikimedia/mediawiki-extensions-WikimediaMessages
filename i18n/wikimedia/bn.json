@@ -18,7 +18,8 @@
 			"Zaheen",
 			"আফতাবুজ্জামান",
 			"Yahya",
-			"Hirok Raja"
+			"Hirok Raja",
+			"MdsShakil"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -182,6 +183,7 @@
 	"group-translationadmin": "অনুবাদ প্রশাসক",
 	"group-translationadmin-member": "{{GENDER:$1|অনুবাদ প্রশাসক}}",
 	"grouppage-translationadmin": "{{ns:project}}:অনুবাদ প্রশাসক",
+	"group-vrt-permissions": "ভিআরটি এজেন্ট (অনুমতি)",
 	"group-wmf-officeit": "WMF কার্যালয় IT",
 	"group-wmf-officeit-member": "{{GENDER:$1|WMF কার্যালয় IT}}",
 	"group-wmf-researcher": "WMF গবেষক",
