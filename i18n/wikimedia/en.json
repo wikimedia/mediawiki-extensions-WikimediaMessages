@@ -368,5 +368,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Yes",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "I'm not sure",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "This anonymous survey is conducted by the Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Read more] or check the [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement privacy statement]."
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "This anonymous survey is conducted by the Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Read more] or check the [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement privacy statement].",
+	"gadget-curidlink-link-by-id": "Link by ID",
+	"gadget-curidlink-link-by-id-desc": "Show link to this page by its ID",
+	"gadget-souspages-subpages": "Subpages"
 }
