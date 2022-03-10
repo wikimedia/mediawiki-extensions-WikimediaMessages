@@ -13,5 +13,6 @@
 	"wikimedia-sitematrix": "వికీమీడియా వికీల జాబితా",
 	"wikimedia-sitematrix-others": "వికీమీడియాలోని ఇతర ప్రాజెక్టులు",
 	"wikimedia-sitematrix-summary": "ఈ ప్రత్యేక పేజీ అన్ని వికీమీడియా వికీల జాబితాను చూపిస్తుంది.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy గోప్యతా విధానం]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy గోప్యతా విధానం]",
+	"wikimedia-notification-body-oathauth-disable-other": "ఇది {{GENDER:$2|మీరు}} అడిగి ఉండకపోతే, WMF ట్రస్టును, సేఫ్టీని {{GENDER:$2|సంప్రదించండి}}."
 }
