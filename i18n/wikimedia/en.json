@@ -357,6 +357,7 @@
 	"right-docseditor": "Edit documentation",
 	"right-edit-legal": "Edit pages with potential legal consequences",
 	"action-edit-legal": "edit pages with potential legal consequences",
+	"ipinfo-feedback-button-label": "Leave feedback",
 	"ext-quicksurveys-tst-internal-survey-question": "In the last 30 days, have you felt unsafe or uncomfortable contributing to {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Yes",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",

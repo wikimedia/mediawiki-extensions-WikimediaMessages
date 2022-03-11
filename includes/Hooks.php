@@ -39,6 +39,7 @@ use SpecialPage;
 use SpecialUpload;
 use Title;
 use User;
+use Wikimedia\IPUtils;
 
 /**
  * Hooks for WikimediaMessages extension
@@ -1706,6 +1707,40 @@ class Hooks implements
 	}
 
 	/**
+	 * @inheritDoc
+	 */
+	public function onSpecialContributionsBeforeMainOutput( $id, $user, $sp ): void {
+		$out = $sp->getOutput();
+		if ( !( $out->getTitle() && $out->getTitle()->isSpecial( 'Contributions' ) ) ) {
+			return;
+		}
+
+		// Return if target is not an IP address
+		if ( !IPUtils::isValid( $user->getName() ) ) {
+			return;
+		}
+
+		$accessingUser = $out->getUser();
+		$isBetaFeaturesLoaded = $this->extensionRegistry->isLoaded( 'BetaFeatures' );
+		$services = MediaWikiServices::getInstance();
+		$permissionManager = $services->getPermissionManager();
+		$userOptionsLookup = $services->getUserOptionsLookup();
+
+		// Check the same permissions and preferences as
+		// MediaWiki\IPInfo\HookHandler\InfoboxHandler
+		if (
+			!$permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
+			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-enable' ) ||
+			$isBetaFeaturesLoaded &&
+			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' )
+		) {
+			return;
+		}
+
+		$out->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
+	}
+
+	/**
 	 * This hook is called when a new user account is (auto-)created.
 	 *
 	 * It is used to prevent new users from seeing RCFilters guided tours
@@ -1777,6 +1812,22 @@ class Hooks implements
 				],
 				'dependencies' => [
 					'ext.guidedTour'
+				],
+			] );
+		}
+
+		if ( $this->extensionRegistry->isLoaded( 'IPInfo' ) ) {
+			$resourceLoader->register( 'ext.wikimediaMessages.ipInfo.hooks', [
+				'localBasePath' => dirname( __DIR__ ) . '/modules/ext.wikimediaMessages.ipInfo.hooks',
+				'remoteExtPath' => 'WikimediaMessages/modules/ext.wikimediaMessages.ipInfo.hooks',
+				'scripts' => 'feedback.js',
+				'styles' => 'feedback.less',
+				'messages' => [
+					'ipinfo-feedback-button-label',
+				],
+				'dependencies' => [
+					'ext.ipInfo',
+					'oojs-ui.styles.icons-interactions',
 				],
 			] );
 		}
