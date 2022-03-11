@@ -7,5 +7,6 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Supraveghetori",
 	"group-oversight": "Supraveghetori",
-	"group-oversight-member": "{{GENDER:$1|supraveghetor|supraveghetoare|supraveghetor}}"
+	"group-oversight-member": "{{GENDER:$1|supraveghetor|supraveghetoare|supraveghetor}}",
+	"specialinvestigate-feedback": "Lăsați feedback"
 }

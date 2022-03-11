@@ -3,6 +3,7 @@
 		"authors": [
 			"Minh Nguyen",
 			"Multichill",
+			"NguoiDungKhongDinhDanh",
 			"Thienhau2003",
 			"Trần Nguyễn Minh Huy",
 			"Vinhtantran"
@@ -65,7 +66,7 @@
 	"wm-license-information-source": "Nguồn gốc",
 	"wm-license-information-source-missing": "Tập tin này hiện thiếu thông tin '''nguồn gốc'''.",
 	"wm-license-information-source-missing-request": "Xin hãy sửa đổi miêu tả tập tin và bổ sung nguồn gốc.",
-	"wm-license-information-date": "Ngày tạo ra",
+	"wm-license-information-date": "Ngày",
 	"wm-license-information-author": "Tác giả",
 	"wm-license-information-author-missing": "Tập tin này hiện đang thiếu thông tin về '''tác giả'''.",
 	"wm-license-information-permission": "Giấy phép",
