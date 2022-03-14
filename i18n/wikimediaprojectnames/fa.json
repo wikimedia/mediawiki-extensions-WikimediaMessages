@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Beginneruser",
 			"Dejavu",
 			"Ebraminio",
 			"FarsiNevis",
@@ -438,6 +439,8 @@
 	"project-localized-name-kywikibooks": "ویکی‌کتاب قرقیزستان",
 	"project-localized-name-kywikiquote": "ویکی‌گفتاورد قرقیزستان",
 	"project-localized-name-kywiktionary": "ویکی‌واژه قرقیزستان",
+	"project-localized-name-labswiki": "ویکی‌فنی",
+	"project-localized-name-labtestwiki": "ویکی آزمایشی ویکی‌فنی",
 	"project-localized-name-ladwiki": "ویکی‌پدیای لادینو",
 	"project-localized-name-lawiki": "ویکی‌پدیای لاتین",
 	"project-localized-name-lawikibooks": "ویکی‌کتاب لاتین",
@@ -567,6 +570,7 @@
 	"project-localized-name-orwiktionary": "ویکی‌واژه اوریا",
 	"project-localized-name-oswiki": "ویکی‌پدیای آسی",
 	"project-localized-name-otrs_wikiwiki": "ویکی گروه داوطلب پاسخ‌گویی",
+	"project-localized-name-outreachwiki": "ویکی خدمت‌رسانی",
 	"project-localized-name-pa_uswikimedia": "ویکی‌مدیای پنسیلوانیا",
 	"project-localized-name-pagwiki": "ویکی‌پدیای پانگاسینان",
 	"project-localized-name-pamwiki": "ویکی‌پدیای پامپانگا",
