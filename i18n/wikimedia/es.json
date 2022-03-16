@@ -15,6 +15,7 @@
 			"Crazymadlover",
 			"Cvmontuy",
 			"Dalton2",
+			"Danniel07",
 			"Dferg",
 			"Dgstranz",
 			"Fitoschido",
@@ -369,5 +370,7 @@
 	"action-docseditor": "editar la documentación",
 	"right-docseditor": "Editar la documentación",
 	"right-edit-legal": "Editar páginas con posibles consecuencias legales",
-	"action-edit-legal": "editar páginas con posibles consecuencias legales"
+	"action-edit-legal": "editar páginas con posibles consecuencias legales",
+	"ext-quicksurveys-tst-internal-survey-question": "En los últimos 30 días, ¿has sentido inseguridad o incomodidad al contribuir a {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "En los últimos 30 días, ¿has sentido inseguridad o incomodidad al contribuir a {{SITENAME}} ({{SERVERNAME}})?"
 }

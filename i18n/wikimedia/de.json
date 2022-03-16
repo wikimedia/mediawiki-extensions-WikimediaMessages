@@ -350,7 +350,7 @@
 	"right-docseditor": "Dokumentation bearbeiten",
 	"right-edit-legal": "Seiten mit möglichen rechtlichen Konsequenzen bearbeiten",
 	"action-edit-legal": "Seiten mit möglichen rechtlichen Konsequenzen bearbeiten",
-	"ext-quicksurveys-tst-internal-survey-question": "Hast du dich in den letzten 30 Tagen unsicher oder unwohl gefühlt, während du zu {{SITENAME}} beigetragen hast?",
+	"ext-quicksurveys-tst-internal-survey-question": "Hast du dich in den letzten 30 Tagen unsicher oder unwohl gefühlt, während du zu {{SITENAME}} ({{SERVERNAME}}) beigetragen hast?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nein",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "Hast du dich in den letzten 30 Tagen unsicher oder unwohl gefühlt, während du zu {{SITENAME}} ({{SERVERNAME}}) beigetragen hast?",
