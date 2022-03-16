@@ -15,7 +15,8 @@
 			"Trixt",
 			"Veikk0.ma",
 			"Wix",
-			"ZeiP"
+			"ZeiP",
+			"Moottori"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Tämän teoksen tekijänoikeuksien haltija, $1, sallii kenen tahansa käyttää sitä '''mihin tahansa tarkoitukseen, edellyttäen''' että tekijänoikeuksien haltija on asianmukaisesti mainittu. Teoksen uudelleen käyttö, muokkaaminen, kaupallinen käyttö ja muu käyttö on sallittu.",
@@ -81,7 +82,7 @@
 	"wm-license-information-author-missing": "Tämän tiedoston tiedoista puuttuu tieto '''tekijästä'''.",
 	"wm-license-information-permission": "Käyttöoikeus",
 	"wm-license-information-permission-reusing-link": "c:Commons:Sisällön käyttö Wikimedian ulkopuolella",
-	"wm-license-information-permission-reusing-text": "Tämän tiedoston käyttäminen",
+	"wm-license-information-permission-reusing-text": "Tämän tiedoston uudelleenkäyttö",
 	"wm-license-information-permission-see-below": "Katso alapuolelle.",
 	"wm-license-information-other-versions": "Muut versiot",
 	"wm-license-lgpl-text": "Tämä kirjasto on [[{{int:wm-license-free-software-wiki-link}}|vapaata ohjelmistoa]]. Voit levittää ja/tai muokata sitä [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundationin]] julkaiseman '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' -lisenssin alaisena; joko lisenssin version 2.1 tai minkä tahansa myöhemmän version ehdoilla. Tätä kirjastoa levitetään siinä toivossa, että siitä olisi hyötyä, mutta '''mitään takuita ei anneta'''; ei edes '''myyntikelpoisuudesta''' tai '''sopivuudesta mihinkään käyttötarkoitukseen'''. Lisätietoja saat [{{int:wm-license-lgpl-2.1-full-link}} GNU Lesser General Public License -lisenssin versiosta 2.1] ja [{{int:wm-license-lgpl-3-full-link}} versiosta 3].",

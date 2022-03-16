@@ -39,7 +39,8 @@
 			"ZxxZxxZ",
 			"아라",
 			"TAndic (WMF)",
-			"Justinianus"
+			"Justinianus",
+			"Beginneruser"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -336,7 +337,7 @@
 	"action-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",
-	"wikimedia-statslink": "آمار",
+	"wikimedia-statslink": "آمارها",
 	"wikimedia-cookiestatement": "اظهارنامهٔ کوکی",
 	"ext-quicksurveys-performance-internal-survey-question": "آیا این صفحه به اندازه کافی سریع بارگذاری شد؟",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "برای اطلاعات بیشتر، تحقیق در مورد [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement شرایط محرمانگی] را مطالعه کنید.",

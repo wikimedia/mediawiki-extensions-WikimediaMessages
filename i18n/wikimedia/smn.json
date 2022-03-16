@@ -4,14 +4,15 @@
 			"Mlolthuis",
 			"Seipinne",
 			"Trondtr",
-			"Yupik"
+			"Yupik",
+			"Muotâ"
 		]
 	},
 	"sitesupport": "Skeeŋkah",
 	"tooltip-n-sitesupport": "Tuárju mii",
 	"group-oauthadmin": "OAuth-haldâšeijeeh",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-haldâšeijee}}",
-	"wikimedia-copyright": "Tekstâ lii finniimist  <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Nommâd-JyeveSiämmáánáál</a> -lisenssáin; lase-iävtuh pyehtih leđe. Keejâ <a href=\"https://foundation.wikimedia.org/wiki/Käyttöehdot\">kevttimiävtuh</a>.",
+	"wikimedia-copyright": "Tekstâ lii finniimist <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Nommâ-JyeviSiämmáánáál</a> -lisensáin. Laseiävtuh pyehtih leđe. Keejâ <a href=\"https://foundation.wikimedia.org/wiki/Käyttöehdot\">kevttimiävtuid</a>.",
 	"wikimedia-copyrightwarning": "Nubástusâid vuorkkiimáin tun čonnâsuuh nuávdittiđ [https://foundation.wikimedia.org/wiki/Terms_of_Use kevttimiävtuid] já tuhhiittah tom, et tuu hammiimeh almostittojeh maaccâthánnáá [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 -lisens] já [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL:n] iävtui mield.\nTuhhiittah tom, et hyperliŋkkâ teikâ URL riäkkáá tahhee noomâtmân Creative Commons -lisens mield.",
 	"wikibase-sitelinks-wikibooks": "Wikikirjeh",
 	"wikibase-sitelinks-wikinews": "Wikiuđđâseh",

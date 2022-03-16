@@ -5,7 +5,8 @@
 			"Multichill",
 			"Trần Nguyễn Minh Huy",
 			"Vinhtantran",
-			"Thienhau2003"
+			"Thienhau2003",
+			"NguoiDungKhongDinhDanh"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Người giữ bản quyền tập tin này, $1, cho phép mọi người dùng nó cho '''mọi mục đích, miễn là''' phải ghi công hợp lý cho người giữ bản quyền. Được phép tái phân phối, tạo ra tác phẩm phái sinh, sử dụng cho mục đích thương mại, và tất cả các hình thức sử dụng khác.",
@@ -65,7 +66,7 @@
 	"wm-license-information-source": "Nguồn gốc",
 	"wm-license-information-source-missing": "Tập tin này hiện thiếu thông tin '''nguồn gốc'''.",
 	"wm-license-information-source-missing-request": "Xin hãy sửa đổi miêu tả tập tin và bổ sung nguồn gốc.",
-	"wm-license-information-date": "Ngày tạo ra",
+	"wm-license-information-date": "Ngày",
 	"wm-license-information-author": "Tác giả",
 	"wm-license-information-author-missing": "Tập tin này hiện đang thiếu thông tin về '''tác giả'''.",
 	"wm-license-information-permission": "Giấy phép",
