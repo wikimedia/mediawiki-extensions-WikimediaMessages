@@ -341,7 +341,7 @@
 	"right-docseditor": "עריכת תיעוד",
 	"right-edit-legal": "עריכת דפים עם השלכות משפטיות אפשריות",
 	"action-edit-legal": "לערוך דפים עם השלכות משפטיות אפשרויות",
-	"ext-quicksurveys-tst-internal-survey-question": "ב־30 הימים האחרונים, האם הרגשת לא בטוח או לא בנוח בעת תרומה לאתר {{SITENAME}}?",
+	"ext-quicksurveys-tst-internal-survey-question": "ב־30 הימים האחרונים, האם הרגשת לא בטוח או לא בנוח בעת תרומה {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "כן",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "לא",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "ב־30 הימים האחרונים, האם הרגשת לא בטוח או לא בנוח בעת תרומה לאתר {{SITENAME}} ({{SERVERNAME}})?",

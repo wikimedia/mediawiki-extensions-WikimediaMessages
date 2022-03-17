@@ -347,7 +347,7 @@
 	"right-docseditor": "ویرایش مستندات",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "بله",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "خیر",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "در ۳۰ روز گذشته، آیا از مشارکت در {{SITENAME}} احساس ناامنی یا ناخوشایندی  کرده‌اید؟",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "در ۳۰ روز گذشته، آیا از مشارکت در {{SITENAME}} احساس ناامنی یا ناخوشایندی  کرده‌اید؟ ({{SERVERNAME}})",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "بله",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "خیر",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "مطمئن نیستم",

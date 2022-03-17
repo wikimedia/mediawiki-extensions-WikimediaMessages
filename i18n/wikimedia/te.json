@@ -142,5 +142,6 @@
 	"upload-form-label-not-own-work-local-commons": "{{SITENAME}} లోని విధానాలు ఈ దస్త్రపు ఎక్కింపును అనుమతిస్తే [[Special:Upload|అక్కడి ఎక్కింపు పేజీని]] కూడా వాడవచ్చు.",
 	"wikimedia-statslink": "గణాంకాలు",
 	"wikimedia-cookiestatement": "కుకీ ప్రకటన",
+	"ext-quicksurveys-tst-internal-survey-question": "గత 30 రోజుల్లో, {{SITENAME}} ({{SERVERNAME}}) లో కృషి చెయ్యడంలో మీకు అభద్రతా భావం గానీ,  అసౌకర్యం గానీ కలిగిందా?",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "గత 30 రోజుల్లో, {{SITENAME}} ({{SERVERNAME}}) లో కృషి చెయ్యడంలో మీకు అభద్రతా భావం గానీ,  అసౌకర్యం గానీ కలిగిందా?"
 }

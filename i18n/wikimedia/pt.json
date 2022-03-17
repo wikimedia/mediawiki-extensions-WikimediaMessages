@@ -30,6 +30,7 @@
 			"Ruila",
 			"SandroHc",
 			"Sir Lestaty de Lioncourt",
+			"TAndic (WMF)",
 			"Vitorvicentevalente",
 			"Waldir",
 			"Yanguas",
@@ -342,5 +343,10 @@
 	"group-docseditor": "Editores de documentação",
 	"group-docseditor-member": "{{GENDER:$1|editor de documentação|editora de documentação}}",
 	"action-docseditor": "editar documentação",
-	"right-docseditor": "Editar documentação"
+	"right-docseditor": "Editar documentação",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Nos últimos 30 dias, teve medo ou sentiu-se desconfortável ao contribuir para a {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sim",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Não",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Não tenho a certeza",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Este inquérito anónimo é realizado pela Fundação Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Leia mais] ou consulte a nossa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaração de privacidade]."
 }
