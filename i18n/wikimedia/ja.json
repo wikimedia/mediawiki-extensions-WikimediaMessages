@@ -21,6 +21,7 @@
 			"LaMagiaaa",
 			"Los688",
 			"Marine-Blue",
+			"MathXplore",
 			"Matma Rex",
 			"Meno25",
 			"Mirinano",
@@ -348,5 +349,6 @@
 	"action-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページの編集",
 	"group-docseditor": "文書編集者",
 	"action-docseditor": "解説文を編集",
-	"right-docseditor": "解説文を編集"
+	"right-docseditor": "解説文を編集",
+	"ipinfo-feedback-button-label": "フィードバックを送信"
 }
