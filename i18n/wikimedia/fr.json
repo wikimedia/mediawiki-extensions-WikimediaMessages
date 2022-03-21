@@ -411,6 +411,7 @@
 	"right-docseditor": "Modifier la documentation",
 	"right-edit-legal": "Modifier des pages avec de potentielles conséquences juridiques",
 	"action-edit-legal": "modifier des pages avec de potentielles conséquences juridiques",
+	"ipinfo-feedback-button-label": "Laisser un avis",
 	"ext-quicksurveys-tst-internal-survey-question": "Au cours des 30 derniers jours, vous êtes-vous senti{{GENDER:||e}} en danger ou mal à l’aise en contribuant à {{SITENAME}} ({{SERVERNAME}}) ?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Oui",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Non",
