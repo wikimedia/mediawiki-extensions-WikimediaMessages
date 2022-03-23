@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Artsiom91"
+			"Artsiom91",
+			"Chadyka"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце мне выбраць)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Не бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]",
 	"wikimedia-centralauth-groupname": "Фонда Вікімедыя",
 	"wikimedia-discussiontools-replywidget-terms-click": "Націскаючы \"$1\", вы згаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use ўмовамі выкарыстання] і згаджаецеся з публікацыяй вашага тэксту без магчымасці адклікання пад [https://creativecommons.org/licenses/by-sa/3.0 ліцэнзіяй CC BY-SA 3.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Націскаючы \"{{int:flow-reply-link}}\", вы згаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use ўмовамі выкарыстання] і згаджаецеся з публікацыяй вашага тэксту без магчымасці адклікання пад [https://creativecommons.org/licenses/by-sa/3.0 ліцэнзіяй CC BY-SA 3.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
