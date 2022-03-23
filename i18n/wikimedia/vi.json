@@ -279,7 +279,7 @@
 	"protect-level-editeditorprotected": "Chỉ cho phép những người sửa đổi",
 	"restriction-level-editeditorprotected": "khóa chỉ cho phép người sửa đổi",
 	"right-editextendedsemiprotected": "Sửa đổi các trang có mức độ khóa “{{int:protect-level-editextendedsemiprotected}}”",
-	"protect-level-editextendedsemiprotected": "Chỉ cho phép những người tự duyệt",
+	"protect-level-editextendedsemiprotected": "Chỉ cho phép những người tự đánh dấu tuần tra",
 	"restriction-level-editextendedsemiprotected": "hạn chế cho người tự duyệt",
 	"eri-rcfilters-tour-intro-welcome-title": "Giới thiệu các bộ lọc Thay đổi gần đây được cải thiện",
 	"eri-rcfilters-tour-intro-welcome-description": "Duyệt các sửa đổi một cách hiệu quả hơn dùng các bộ lọc mới, khả năng lưu các bộ lọc, tô màu cú pháp theo ý bạn, và khả năng học máy. $1",
@@ -303,6 +303,9 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Trang này có tải đủ nhanh không?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Để tìm hiểu thêm, hãy đọc [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement lời tuyên bố về quyền riêng tư] của cuộc thăm dò ý kiến này.",
 	"wikimedia-switchover-read-only": "Bạn hiện không thể sửa đổi do hệ thống đang được bảo trì. Xin sao lưu nội dung và thử lại sau vài phút.",
+	"protect-level-editautopatrolprotected": "Chỉ cho phép những người tự đánh dấu tuần tra",
+	"restriction-level-editautopatrolprotected": "hạn chế cho người tự đánh dấu tuần tra",
+	"right-editautopatrolprotected": "Sửa trang bị khóa ở mức \"{{int:protect-level-editautopatrolprotected}}\"",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Có",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Không",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tôi không chắc"

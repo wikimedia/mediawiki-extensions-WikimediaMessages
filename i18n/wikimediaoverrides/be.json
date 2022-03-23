@@ -5,11 +5,20 @@
 			"Chadyka"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Наведвальнікі гэтай вікі, якія выкарыстоўваюць ваш IP-адрас, стварылі $1 {{PLURAL:$1|рахунак|рахункі|рахункаў}} за апошні дзень, што з’яўляецца максімальнай дазволенай колькасцю за такой перыяд. У выніку, наведвальнікі, якія выкарыстоўваюць гэты IP-адрас, не могуць зараз ствараць больш рахункаў.\n\nКалі вы знаходзіцеся на мерапрыемстве, дзе ў цэнтры ўвагі ўдзел у праектах Вікімедыі, глядзіце «[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Запыт на часовае зняцце абмежавання IP]]», каб дапамагчы вырашыць гэтую праблему.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце мне выбраць)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Вы можаце наведаць сваю старонку Наладаў у [[m:Special:CentralAuth/$1|іншых праектах Вікімедыі, у якія вы ўнеслі ўклад]], каб загрузіць дадзеныя вашага рахунку з тых праектаў.",
 	"wikimedia-createacct-imgcaptcha-help": "Не бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]",
 	"wikimedia-centralauth-groupname": "Фонда Вікімедыя",
+	"wikimedia-centralauth-login-error-locked": "<strong>Гэты ўліковы запіс [[m:Special:MyLanguage/Global locks|глабальна замкнуты]].</strong> {{GENDER:$1|Вы}} не зможаце ўвайсці ні ў якія вікі Вікімедыі. Калі ў вас ёсць якія-небудзь пытанні, [[m:Special:Contact/stewards|звяжыцеся з сцюардамі]].",
+	"createacct-helpusername-url": "{{ns:Project}}:Правілы наймення ўдзельнікаў",
+	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 глабальны ўклад] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} праверкі] • [{{fullurl:Special:Block/$1}} Лакальнае блакаванне] ці [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 Глабальнае блакаванне] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 геалакацыя] • [//ipcheck.toolforge.org/index.php?ip=$1 праверка індыкатараў проксі] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
+	"wikimedia-delete-toobig": "Гэтая старонка мае вялікую гісторыю правак, больш за больш за $1 {{PLURAL:$1|версію|версіі|версіяў}}.\nВыдаленне з вельмі вялікай гісторыяй абмежавана, каб пазбегчы ўтварэння выпадковых перашкод працы {{SITENAME}}.\nКалі ласка, звяжыцеся з [[m:Special:MyLanguage/Stewards|сцюардамі]] на старонцы «[[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]]» на Meta, каб запытаць выдаленне гэтай старонкі.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Націскаючы \"$1\", вы згаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use ўмовамі выкарыстання] і згаджаецеся з публікацыяй вашага тэксту без магчымасці адклікання пад [https://creativecommons.org/licenses/by-sa/3.0 ліцэнзіяй CC BY-SA 3.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
+	"wikimedia-feedback-termsofuse": "Я згаджаюся даслаць водгук у адпаведнасці з <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Умовамі выкарыстання</a>.",
 	"wikimedia-flow-terms-of-use-reply": "Націскаючы \"{{int:flow-reply-link}}\", вы згаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use ўмовамі выкарыстання] і згаджаецеся з публікацыяй вашага тэксту без магчымасці адклікання пад [https://creativecommons.org/licenses/by-sa/3.0 ліцэнзіяй CC BY-SA 3.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-sitematrix": "Усе праекты Фонду Вікімедыя",
-	"wikimedia-sitematrix-others": "Іншыя праекты Фонду Вікімедыя"
+	"wikimedia-sitematrix-others": "Іншыя праекты Фонду Вікімедыя",
+	"wikimedia-sitematrix-summary": "На гэтай адмысловай старонцы пералічаныя ўсе вікі Вікімедыі.",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Палітыка прыватнасці]"
 }
