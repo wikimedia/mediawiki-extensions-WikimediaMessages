@@ -10,6 +10,7 @@
 			"Platonides",
 			"Putnik",
 			"TarzanASG",
+			"Tomato Cream",
 			"Vlad5250",
 			"Yury Tarasievich",
 			"ZlyiLev",
@@ -105,7 +106,15 @@
 	"eri-rcfilters-tour-highlight-button": "Так, усё зразумела",
 	"eri-rcfilters-tour-confirm-title": "Новыя фільтры зараз уключаныя",
 	"eri-rcfilters-tour-confirm-description": "Вы можаце перайсці на <strong>старонку бэта-магчымасцей</strong>, каб пакінуць водгук ці адключыць функцыю.",
+	"eri-wlfilters-tour-intro-welcome-title": "Сардэчна запрашаем у палепшаную фільтрацыю Спісу назірання",
+	"eri-wlfilters-tour-intro-preferences-description": "Перайдзіце на ўкладку «Спіс назірання» ў наладах у любы час, каб адмовіцца ад палепшанага Спісу назірання.",
+	"wikimedia-centralauth-contribs-locked": "Гэты ўліковы глабальна замкнуты.\nГл. [[m:Special:CentralAuth/$1|дадзеныя глабальнага ўліковага запісу]] для атрымання болей падрабязнай інфармацыі.",
+	"action-viewdeletedfile": "праглядаць файлы і старонкі, якія выдаляюцца, у прасторах імёнаў {{ns:file}} і {{ns:file_talk}}",
+	"right-viewdeletedfile": "Прагляданне файлаў і старонак, якія выдаляюцца, у прасторах імёнаў {{ns:file}} і {{ns:file_talk}}",
+	"securepoll-dblist-securepollglobal": "Выбары ў Раду павераных",
 	"wikimedia-statslink": "Статыстыка",
 	"wikimedia-cookiestatement": "Заява пра cookie",
+	"ext-quicksurveys-performance-internal-survey-question": "Ці дастаткова хутка загрузілася гэтая старонка?",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Для атрымання дадатковай інфармацыі, глядзіце [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statementзаяву аб канфідэнцыяльнасці] гэтага апытання.",
 	"querypage-updates-half-monthly": "Абнаўленні гэтай старонкі выконваюцца двойчы ў месяц."
 }
