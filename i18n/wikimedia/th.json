@@ -16,6 +16,7 @@
 			"Passawuth",
 			"Patsagorn Y.",
 			"Pilarbini",
+			"Trisorn Triboon",
 			"Woraponboonkerd"
 		]
 	},
@@ -275,5 +276,6 @@
 	"technical-maintenance-edit": "ในระหว่างนี้คุณจะยังไม่สามารถบันทึกการแก้ไขใด ๆ ได้",
 	"group-oathauth-tester": "ผู้ทดสอบการยืนยันตัวตนสองขั้นตอน",
 	"group-oathauth-tester-member": "{{GENDER:$1|ผู้ใช้ทดสอบการยืนยันตัวตนสองขั้นตอน}}",
-	"right-docseditor": "แก้ไขเอกสารกำกับการใช้งาน"
+	"right-docseditor": "แก้ไขเอกสารกำกับการใช้งาน",
+	"ipinfo-feedback-button-label": "แสดงความคิดเห็น"
 }
