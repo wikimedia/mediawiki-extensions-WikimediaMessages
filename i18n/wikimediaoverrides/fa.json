@@ -13,7 +13,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "برای دریافت داده‌های حساب خود از [[m:Special:CentralAuth/$1|سایر پروژه‌های ویکی‌مدیا که در آن‌ها مشارکت داشته‌اید]]، باید به صفحهٔ ترجیحات خودتان در آن پروژه‌ها بروید.",
-	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|درخواست حساب کاربری]] کنید",
+	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|یک حساب دخواست کنید]]",
 	"wikimedia-centralauth-groupname": "بنیاد ویکی‌مدیا",
 	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است، بیش از $1 ویرایش. حذف صفحات دارای تاریخچهٔ پر ویرایش محدود شده‌است تا از به‌هم‌ریختگی اتفاقی {{SITENAME}} جلوگیری شود.\nبرای درخواست حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
 	"wikimedia-discussiontools-replywidget-terms-click": "با کلیک روی «$1»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان تحت [https://creativecommons.org/licenses/by-sa/3.0 پروانه CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",

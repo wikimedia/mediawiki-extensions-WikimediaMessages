@@ -299,6 +299,7 @@
 	"group-docseditor-member": "{{GENDER:$1|নথিপত্র সম্পাদক}}",
 	"action-docseditor": "নথি সম্পাদনা করার",
 	"right-docseditor": "নথি সম্পাদনা করা",
+	"ipinfo-feedback-button-label": "প্রতিক্রিয়া জানান",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "হ্যাঁ",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "না",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "হ্যাঁ",
