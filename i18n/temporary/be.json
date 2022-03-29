@@ -3,9 +3,17 @@
 		"authors": [
 			"Mechanizatar",
 			"Renessaince",
-			"Дзяніс Тутэйшы"
+			"Дзяніс Тутэйшы",
+			"Tomato Cream"
 		]
 	},
+	"wikimediamessages-desc": "Часовыя паведамленні для Вікімедыі",
+	"grouppage-oversight": "{{ns:project}}:Рэвізоры",
+	"group-oversight": "Рэвізоры",
+	"group-oversight-member": "{{GENDER:$1|рэвізор|рэвізорка}}",
+	"hello": "Прывітанне",
 	"please-translate": "Калі ласка, дапамажыце перакласці на Вашу мову",
-	"thank-you": "{{GENDER:$1|Дзякуй.}}"
+	"thank-you": "{{GENDER:$1|Дзякуй.}}",
+	"specialblockfeedback": "Водгук",
+	"specialinvestigate-feedback": "Пакінуць Водгук"
 }
