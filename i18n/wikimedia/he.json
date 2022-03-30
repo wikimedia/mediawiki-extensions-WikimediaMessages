@@ -345,9 +345,12 @@
 	"ext-quicksurveys-tst-internal-survey-question": "ב־30 הימים האחרונים, האם הרגשת לא בטוח או לא בנוח בעת תרומה {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "כן",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "לא",
+	"ext-quicksurveys-tst-internal-survey-privacy-policy": "הסקר האלמוני הזה נערך על־ידי קרן ויקימדיה. באפשרותך [https://meta.wikimedia.org/wiki/Community_Safety לקרוא עוד מידע עליו] או לבדוק את [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement הצהרת פרטיות].",
+	"ext-quicksurveys-tst-internal-survey-additional-info": "אם חווית או ראית הטרדה, [https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources נא לבדוק את המשאבים האלה].",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "תודה על המשוב שלך.",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "ב־30 הימים האחרונים, האם הרגשת לא בטוח או לא בנוח בעת תרומה לאתר {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "כן",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "לא",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "{{GENDER:|לא בטוח|לא בטוחה}}",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "הסקר האלמוני הזה נערך על־ידי קרן ויקימדיה. [https://meta.wikimedia.org/wiki/Community_Safety אפשר לקרוא עליו יותר] או לבדוק את [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement הצהרת פרטיות]."
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "הסקר האלמוני הזה נערך על־ידי קרן ויקימדיה. באפשרותך [https://meta.wikimedia.org/wiki/Community_Safety לקרוא עוד מידע עליו] או לבדוק את [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement הצהרת פרטיות]."
 }
