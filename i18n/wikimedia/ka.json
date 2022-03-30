@@ -16,7 +16,8 @@
 			"Temuri rajavi",
 			"Tokoko",
 			"לערי ריינהארט",
-			"გიორგიმელა"
+			"გიორგიმელა",
+			"Გიო ოქრო"
 		]
 	},
 	"wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
@@ -178,8 +179,10 @@
 	"interlanguage-link-sitename-mul": "მრავალენოვანი {{SITENAME}}",
 	"interlanguage-link-wikipedia": "ვიკიპედია",
 	"interlanguage-link-commons": "ვიკისაწყობი",
-	"eri-rcfilters-tour-intro-welcome-no-ores-description": "რედაქტირებების მიმოხილვა უფრო ეფექტურად იყენებს ახალ ფილტრებს, ფილტრების კრებულის შენახვის შესაძლებლობას, სამომხმარებლო შენათებასა და სხვა გაუმჯობესებებს. $1",
+	"eri-rcfilters-tour-intro-welcome-title": "კეთილი იყოს თქვენი მობრძანება ბოლო ცვლილებების გაუმჯობესებული ფოლტრაციის რეჟიმში",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "უფრო ეფექტურად გადახედეთ ცვლილებებს ახალი ფილტრების, ფილტრთა ნაკრების შენახვის შესაძლებლობის, მომხმარებლის მიერ შედეგების გაფერადებისა და სხვა გაუმჯობესებების გამოყენებით. $1",
 	"eri-rcfilters-tour-help": "მეტის გაგება",
+	"eri-rcfilters-tour-intro-preferences-description": "ბოლო ცვლილებების გაუმჯობესებული ვერსიის გასათიშად ნებისმიერ დროს გადადით პარამეტრების სექციაში „ბოლო ცვლილებები“.",
 	"eri-rcfilters-tour-intro-welcome-button": "კარგი, გასაგებია",
 	"eri-rcfilters-tour-intro-disable-button": "გათიშე ახლა",
 	"eri-rcfilters-tour-highlight-title": "ფერის კოდი თქვენი შედეგებისთვის",
