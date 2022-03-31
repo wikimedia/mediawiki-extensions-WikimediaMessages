@@ -168,6 +168,7 @@
 	"interlanguage-link-commons": "Wikimedijina zbirka",
 	"action-templateeditor": "urejanje zaščitenih predlog",
 	"right-templateeditor": "Urejanje zaščitenih predlog",
+	"protect-level-templateeditor": "dovoli samo urejevalcem predlog in administratorjem",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "O piškotkih",
 	"querypage-updates-half-monthly": "Ta stran se posodablja dvakrat na mesec."

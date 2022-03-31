@@ -372,7 +372,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "Son 30 gün içinde, {{SITENAME}}'ye/ya katkıda bulunurken kendinizi güvensiz ya da rahatsız hissettiniz mi?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Evet",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Hayır",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Son 30 gün içinde, {{SITENAME}}'ye/ya katkıda bulunurken kendinizi güvensiz ya da rahatsız hissettiniz mi?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Son 30 gün içinde, {{SITENAME}} ({{SERVERNAME}}) sitesine katkıda bulunurken kendinizi güvensiz ya da rahatsız hissettiniz mi?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Evet",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Hayır",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Emin değilim",

@@ -40,7 +40,8 @@
 			"TheEduGobi",
 			"Tks4Fish",
 			"Vitorvicentevalente",
-			555
+			555,
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -369,5 +370,10 @@
 	"action-docseditor": "editar documentação",
 	"right-docseditor": "Editar documentação",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sim",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Não"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Não",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Nos últimos 30 dias, teve medo ou sentiu-se desconfortável enquanto estava contribuindo para a {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sim",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Não",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Não tenho certeza",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Esta pesquisa anônima é realizada pela Fundação Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Leia mais] ou consulte a nossa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaração de privacidade]."
 }
