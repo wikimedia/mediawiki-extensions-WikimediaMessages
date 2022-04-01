@@ -375,6 +375,7 @@
 	"action-edit-legal": "editar páginas con posibles consecuencias legales",
 	"ipinfo-feedback-button-label": "Deja tu comentario",
 	"ext-quicksurveys-tst-internal-survey-question": "En los últimos 30 días, ¿has sentido inseguridad o incomodidad al contribuir a {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Gracias por tu opinión!",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "En los últimos 30 días, ¿te has sentido inseguro(a) o incómodo(a) al colaborar en {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sí",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
