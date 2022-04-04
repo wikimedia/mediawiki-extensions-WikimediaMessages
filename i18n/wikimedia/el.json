@@ -20,6 +20,7 @@
 			"NikosLikomitros",
 			"Nikosgranturismogt",
 			"Nikosguard",
+			"Norhorn",
 			"Omnipaedista",
 			"Protnet",
 			"SucreRouge",
@@ -255,5 +256,6 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|δοκιμαστής ταυτοποίησης μέσω δύο παραγόντων}}",
 	"querypage-updates-half-monthly": "Οι ενημερώσεις για αυτήν τη σελίδα εκτελούνται δύο φορές το μήνα.",
 	"querypage-updates-monthly": "Οι ενημερώσεις για αυτήν τη σελίδα εκτελούνται μια φορά το μήνα.",
-	"protect-level-editautopatrolprotected": "Να επιτρέπονται μόνο οι autopatrollers"
+	"protect-level-editautopatrolprotected": "Να επιτρέπονται μόνο οι autopatrollers",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Σας ευχαριστούμε για τα σχόλια σας."
 }
