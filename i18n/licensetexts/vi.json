@@ -75,7 +75,7 @@
 	"wm-license-information-other-versions": "Phiên bản khác",
 	"wm-license-lgpl-text": "Thư viện này là [[{{int:wm-license-free-software-wiki-link}}|phần mềm tự do]]; bạn được phép tái phân phối và/hoặc sửa đổi nó theo những điều khoản của '''[[{{int:wm-license-lgpl-wiki-link}}|Giấy phép Công cộng GNU Hạn chế]]''' do [[{{int:wm-license-fsf-wiki-link}}|Quỹ Phần mềm Tự do]] xuất bản; phiên bản 2.1 hay bất kỳ phiên bản nào mới hơn nào của Giấy phép. Thư viện này được phân phối với hy vọng rằng nó sẽ hữu ích, nhưng '''không có bất kỳ một bảo đảm nào cả''', ngay cả những bảo đảm ngụ ý cho '''các mục đích thương mại''' hoặc cho '''một mục đích đặc biệt nào đó'''. Xem [{{int:wm-license-lgpl-2.1-full-link}} phiên bản 2.1] và [{{int:wm-license-lgpl-3-full-link}} phiên bản 3 của Giấy phép Công cộng GNU Hạn chế] để biết thêm chi tiết.",
 	"wm-license-lgpl-wiki-link": "w:vi:Giấy phép Công cộng GNU Hạn chế",
-	"wm-license-licensing-update-text": "Thẻ quyền này được thêm vào tập tin trong nỗ lực [[{{int:wm-license-licensing-update-wiki-link}}|cập nhật giấy phép]] GFDL.",
+	"wm-license-licensing-update-text": "Thẻ quyền này được thêm vào tập tin trong khi [[{{int:wm-license-licensing-update-wiki-link}}|cập nhật giấy phép]] GFDL.",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/vi",
 	"wm-license-original-upload-log": "Nhật trình tải lên đầu tiên",
 	"wm-license-own-work": "Tác phẩm do chính người tải lên tạo ra",
