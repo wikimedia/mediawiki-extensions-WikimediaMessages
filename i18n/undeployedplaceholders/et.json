@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pikne"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|liitis}} kasutajakonto \"$4\" ($5) kontoga {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|kustutas}} kasutajakonto \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Toimingu tüüp:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Kasutajakonto liitmine",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Kasutajakonto kustutamine",
+	"wikimedia-usermerge-logpage": "Kasutajate liitmise logi",
+	"wikimedia-usermerge-logpagetext": "Siin on kasutajate liitmisega seotud toimingute logi."
+}

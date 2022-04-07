@@ -379,7 +379,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "Протягом останніх 30 днів ви не почувалися безпечно чи некомфортно, роблячи внесок на {{SITENAME}}?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Так",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ні",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Протягом останніх 30 днів ви не почувалися безпечно чи некомфортно, роблячи внесок на {{SITENAME}}?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Чи протягом останніх 30 днів ви почувалися не в безпеці чи некомфортно, роблячи внесок на {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Так",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Ні",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не впевнений/а",
