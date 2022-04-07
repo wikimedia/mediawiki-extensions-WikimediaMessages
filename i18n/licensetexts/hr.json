@@ -6,6 +6,7 @@
 			"Excaliboor",
 			"MaGa",
 			"Multichill",
+			"Ponor",
 			"Roberta F.",
 			"SpeedyGonsales"
 		]
@@ -76,7 +77,7 @@
 	"wm-license-information-permission-reusing-text": "Naknadna uporaba ove datoteke",
 	"wm-license-information-permission-see-below": "Vidi ispod.",
 	"wm-license-information-other-versions": "Ostale inačice",
-	"wm-license-lgpl-text": "Ova programska biblioteka funkcija je [[{{int:wm-license-free-software-wiki-link}}|slobodan softver]]; možete ju redistribuirati i / ili mijenjati pod uvjetima '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Manje opće javne licencije]]'''  kako ju je objavila [[{{int:wm-license-fsf-wiki-link}}|''Free Software Foundation'']]; inačica 2.1 licencije, ili bilo koje kasnije verzije. Ova biblioteka se distribuira u nadi da će biti korisna, no '''bez ikakvih jamstava''', te ne sadrži jamstvo '''prodaje''' ili '''prikladnosti za određenu svrhu'''. Pogledajte [{{int:wm-license-lgpl-2.1-full-link}} inačicu 2.1] i [{{int:wm-license-lgpl-3-full-link}} inačicu 3 GNU Manje opće javne licencije] za više detalja.",
+	"wm-license-lgpl-text": "Ova programska biblioteka funkcija je [[{{int:wm-license-free-software-wiki-link}}|slobodan softver]]; možete je redistribuirati i / ili mijenjati pod uvjetima '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Manje opće javne licencije]]'''  kako ju je objavila [[{{int:wm-license-fsf-wiki-link}}|''Free Software Foundation'']]; inačica 2.1 licencije, ili bilo koje kasnije verzije. Ova biblioteka se distribuira u nadi da će biti korisna, no '''bez ikakvih jamstava''', te ne sadrži jamstvo '''prodaje''' ili '''prikladnosti za određenu svrhu'''. Pogledajte [{{int:wm-license-lgpl-2.1-full-link}} inačicu 2.1] i [{{int:wm-license-lgpl-3-full-link}} inačicu 3 GNU Manje opće javne licencije] za više detalja.",
 	"wm-license-licensing-update-text": "Ova oznaka za licenciranje dodana je datoteci kao dio GFDL [[{{int:wm-license-licensing-update-wiki-link}}|ažuriranja licnciranja]].",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/hr",
 	"wm-license-original-upload-log": "Izvorna evidencija postavljanja",
