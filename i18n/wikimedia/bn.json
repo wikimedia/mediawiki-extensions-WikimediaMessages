@@ -302,6 +302,7 @@
 	"ipinfo-feedback-button-label": "প্রতিক্রিয়া জানান",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "হ্যাঁ",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "না",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "মতামত জানানোর জন্য আপনাকে ধন্যবাদ।",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "হ্যাঁ",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "না",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "আমি নিশ্চিত নই"
