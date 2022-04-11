@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"NR Deblocked",
 			"Paraw2"
 		]
 	},
@@ -13,5 +14,6 @@
 	"wikibase-sitelinks-wikisource": "ویکیسەرچاوە",
 	"wikibase-sitelinks-wikivoyage": "ویکیسەفەر",
 	"wikimedia-developers": "پەرەپێدەرەیل",
+	"wikimedia-statslink": "ئامارەگان",
 	"protect-level-editautopatrolprotected": "هەر تەنیا گەشتەڵەیل ئجازە دێرن"
 }

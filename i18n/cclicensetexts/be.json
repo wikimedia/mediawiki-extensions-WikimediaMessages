@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chadyka",
 			"Diebuche",
 			"Maksim L.",
 			"TarzanASG",
@@ -10,6 +11,16 @@
 		]
 	},
 	"wm-license-cc-attribution": "Пазначэнне аўтарства",
+	"wm-license-cc-by-1.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.be Пазначэнне аўтарства 1.0 Агульны]",
+	"wm-license-cc-by-1.0-fi-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.be Пазначэнне аўтарства 1.0 Фінляндыя]",
+	"wm-license-cc-by-1.0-il-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.be Пазначэнне аўтарства 1.0 Ізраіль]",
+	"wm-license-cc-by-1.0-nl-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/nl/deed.be Пазначэнне аўтарства 1.0 Нідэрланды]",
+	"wm-license-cc-by-2.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.0/deed.be Пазначэнне аўтарства 2.0 Агульны]",
+	"wm-license-cc-by-2.0-at-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.0/at/deed.be Пазначэнне аўтарства 2.0 Аўстрыя]",
+	"wm-license-cc-by-2.0-au-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.0/au/deed.be Пазначэнне аўтарства 2.0 Аўстралія]",
+	"wm-license-cc-by-2.0-be-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.0/be/deed.be Пазначэнне аўтарства 2.0 Бельгія]",
+	"wm-license-cc-by-2.0-br-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.0/br/deed.be Пазначэнне аўтарства 2.0 Бразілія]",
+	"wm-license-cc-by-2.0-ca-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.0/ca/deed.be Пазначэнне аўтарства 2.0 Канада]",
 	"wm-license-cc-by-3.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/deed.be Attribution 3.0 Unported]",
 	"wm-license-cc-by-sa-3.0-text": "Гэты файл даступны па ліцэнзіі [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.be Attribution-Share Alike 3.0 Unported]",
 	"wm-license-cc-free": "Вы можаце свабодна:",

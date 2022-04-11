@@ -345,6 +345,7 @@
 	"right-docseditor": "Redigera dokumentation",
 	"right-edit-legal": "Redigera sidor med potentiellt juridiska konsekvenser",
 	"action-edit-legal": "redigera sidor med potentiellt juridiska konsekvenser",
+	"ipinfo-feedback-button-label": "Ge återkoppling",
 	"ext-quicksurveys-tst-internal-survey-question": "Har du känt dig osäker eller obekväm när du har bidragit till {{SITENAME}} under de senaste 30 dagarna?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nej"
