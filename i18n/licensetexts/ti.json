@@ -4,9 +4,15 @@
 			"Joanmp17"
 		]
 	},
+	"wm-license-artwork-artist": "ስነ ጥበባዊ",
+	"wm-license-artwork-title": "ኣርእስቲ",
+	"wm-license-artwork-dimensions": "ዓቐናት",
+	"wm-license-book-language": "ቋንቋ",
+	"wm-license-book-translator": "ተርጓሚ",
 	"wm-license-information-description": "መግለጺ",
 	"wm-license-information-source": "ምንጪ",
 	"wm-license-information-date": "ዕለት",
 	"wm-license-information-author": "ደራሲ",
-	"wm-license-information-permission": "ፍቓድ"
+	"wm-license-information-permission": "ፍቓድ",
+	"wm-license-own-work": "ናይ ባዕሉ ስራሕ"
 }
