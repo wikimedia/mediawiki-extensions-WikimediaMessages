@@ -45,5 +45,6 @@
 	"right-editautopatrolprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautopatrolprotected}}\"",
 	"right-edittrustedprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\"",
-	"action-edittrustedprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\""
+	"action-edittrustedprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\"",
+	"ipinfo-feedback-button-label": "Uuʹd maacctõõzz"
 }
