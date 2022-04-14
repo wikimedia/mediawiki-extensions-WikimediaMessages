@@ -21,7 +21,8 @@
 			"SPQRobin",
 			"Shirayuki",
 			"Siebrand",
-			"Umherirrender"
+			"Umherirrender",
+			"Chadyka"
 		]
 	},
 	"wm-license-cc-wiki-link": "{{optional}}\nAn interwiki link that will work within Wikimedia projects and lead to a wiki page (most probably in a Wikipedia) in your language providing more information about Creative Commons licenses.\n\nUsed in e.g.:\n* {{msg-mw|Wm-license-cc-by-3.0-2.5-2.0-1.0-text}}\n* {{msg-mw|Wm-license-cc-by-sa-2.5-2.0-1.0-text}}\n* {{msg-mw|Wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text}}",
@@ -219,10 +220,10 @@
 	"wm-license-cc-by-sa-3.0-vn-text": "{{CreativeCommonsLicense|by-sa|3.0|vn}}",
 	"wm-license-cc-by-sa-3.0-za-text": "{{CreativeCommonsLicense|by-sa|3.0|za}}",
 	"wm-license-cc-by-sa-4.0-text": "{{CreativeCommonsLicense|by-sa|4.0}}",
-	"wm-license-cc-sa-1.0-text": "{{CreativeCommonsLicense|by|1.0}}",
+	"wm-license-cc-sa-1.0-text": "{{CreativeCommonsLicense|sa|1.0}}",
 	"wm-license-cc-sa-1.0-fi-text": "{{CreativeCommonsLicense|sa|1.0|fi}}",
 	"wm-license-cc-sa-1.0-nl-text": "{{CreativeCommonsLicense|sa|1.0|nl}}",
-	"wm-license-cc-sa-2.0-jp-text": "{{CreativeCommonsLicense|sa|1.0|jp}}",
+	"wm-license-cc-sa-2.0-jp-text": "{{CreativeCommonsLicense|sa|2.0|jp}}",
 	"wm-license-cc-zero-text": "This is the first line of [[:Commons:Template:Cc-zero]].\n\nRefers to {{msg-mw|Wm-license-cc-wiki-link}}.",
 	"wm-license-cc-zero-explanation": "{{Doc-singularthey}}\nThis is the second line of [[:Commons:Template:Cc-zero]] explaining the license. Here, a deed is ''a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it'' (Google define: deed).\n\nRefers to {{msg-mw|Wm-license-pd-wiki-link}}.",
 	"wm-license-cc-free": "This is not a 'lego' sentence. See https://creativecommons.org/licenses/by/3.0/ on how this is used.",

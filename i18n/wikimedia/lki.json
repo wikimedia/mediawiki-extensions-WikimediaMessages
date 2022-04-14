@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Hosseinblue",
-			"Lakzon"
+			"Lakzon",
+			"Sunfyre"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -20,7 +21,7 @@
 	"grouppage-Image-reviewer": "{{ns:project}}:بازبین‌های تصویر",
 	"group-otrs-member": "اعضای OTRS",
 	"grouppage-otrs-member": "{{ns:project}}:اعضای OTRS",
-	"group-abusefilter": "ویرایشگران پالایهٔ خرابکاری",
+	"group-abusefilter": "ویرایشگران پالایهٔ ویرایش",
 	"shared-repo-name-shared": "ویکی‌انبار",
 	"wikimedia-copyright": "متن تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> در دسترس است؛\nشرایط اضافی می‌تواند اعمال گردد.\n<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">شرایط استفاده</a> را برای جزئیات ببینید.",
 	"wikimedia-copyrightwarning": "با ذخیره تغییرات، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] را می‌پذیرید، و به طور جبران ناشدنی می‌پذیرید که مشارکت‌تان را تحت [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] منتشر کنید.\nشما می‌پذیرید که یک پیوند یا نشانی نسبت‌دادن کافی تحت پروانه کریتیو کامنز است.",
