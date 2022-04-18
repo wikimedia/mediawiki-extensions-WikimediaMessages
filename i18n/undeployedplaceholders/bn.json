@@ -4,8 +4,10 @@
 			"আফতাবুজ্জামান"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$8|$6}}-এর সাথে ব্যবহারকারী অ্যাকাউন্ট \"$4\" ($5) {{GENDER:$2|একত্রিত}} করেছেন ($7)",
 	"wikimedia-logentry-usermerge-deleteuser": "$1 \"$4\" নামক ব্যবহারকারী অ্যাকাউন্টটি {{GENDER:$2|অপসারণ করেছেন}} ($5)",
 	"wikimedia-log-action-filter-usermerge": "কাজের ধরন:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "ব্যবহারকারী অ্যাকাউন্ট একত্রীকরণ",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "ব্যবহারকারী অ্যাকাউন্ট অপসারণ",
 	"wikimedia-usermerge-logpage": "ব্যবহারকারী একত্রীকরণ লগ",
 	"wikimedia-usermerge-logpagetext": "এটি ব্যবহারকারী একত্রীকরণের একটি লগ।"
