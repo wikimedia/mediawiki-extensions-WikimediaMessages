@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Dishual",
-			"Fulup"
+			"Fulup",
+			"Huñvreüs"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia en afar",
@@ -392,5 +393,6 @@
 	"project-localized-name-kowikiquote": "Wikiarroud koreanek",
 	"project-localized-name-kowikisource": "Wikimammenn koreanek",
 	"project-localized-name-kowikiversity": "Wikiskolveur koreanek",
-	"project-localized-name-kowiktionary": "Wikeriadur koreanek"
+	"project-localized-name-kowiktionary": "Wikeriadur koreanek",
+	"project-localized-name-wikidatawiki": "Wikiroadennoù"
 }
