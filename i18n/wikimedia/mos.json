@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hasslaebetch"
+			"Hasslaebetch",
+			"Musahfm"
 		]
 	},
+	"sitesupport": "Kouni",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
