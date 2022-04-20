@@ -3,8 +3,15 @@
  */
 ( function () {
 	mw.hook( 'ext.ipinfo.infobox.widget' ).add( function ( $info ) {
+
+		var feedbackUrl = new URL( 'https://meta.wikimedia.org/wiki/IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/IP_Info_feature/Feedback' );
+		feedbackUrl.searchParams.set( 'action', 'edit' );
+		feedbackUrl.searchParams.set( 'section', 'new' );
+		feedbackUrl.searchParams.set( 'preload', 'Special:MyLanguage/Template:IPInfoFeedback' );
+		feedbackUrl.searchParams.set( 'preloadtitle', 'Feedback from ' + mw.user.getName() );
+
 		var feedbackButton = new OO.ui.ButtonWidget( {
-			href: 'https://meta.wikimedia.org/wiki/IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/IP_Info_feature/Feedback?action=edit&section=new&preload=Special:MyLanguage/Template:IPInfoFeedback',
+			href: feedbackUrl.href,
 			label: mw.msg( 'ipinfo-feedback-button-label' ),
 			icon: 'feedback',
 			classes: [ 'ext-ipinfo-feedback-button', 'ext-ipinfo-widget-property' ]
