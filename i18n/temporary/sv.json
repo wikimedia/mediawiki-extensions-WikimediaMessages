@@ -4,6 +4,7 @@
 			"Ainali",
 			"Boivie",
 			"Lokal Profil",
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -11,7 +12,7 @@
 	"grouppage-oversight": "{{ns:project}}:Censur",
 	"group-oversight": "Censorer",
 	"group-oversight-member": "{{GENDER:$1|censor}}",
-	"hello": "Hallå",
+	"hello": "Hej",
 	"please-translate": "Hjälp till att översätta till ditt språk",
 	"thank-you": "{{GENDER:$1|Tack.}}",
 	"specialblockfeedback": "Återkoppling",
