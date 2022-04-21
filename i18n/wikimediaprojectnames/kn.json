@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rakshika"
+			"Rakshika",
+			"~aanzx"
 		]
 	},
 	"project-localized-name-aawiki": "ಅಫಾರ್ ವಿಕಿಪೀಡಿಯ",
 	"project-localized-name-aawikibooks": "ಅಫಾರ್ ವಿಕಿಬುಕ್ಸ್",
 	"project-localized-name-aawiktionary": "ಅಫಾರ್ ವಿಕ್ಷನರಿ",
 	"project-localized-name-abwiki": "ಅಬ್ಖಾಜಿಯನ್ ವಿಕಿಪೀಡಿಯ",
-	"project-localized-name-abwiktionary": "ಅಬ್ಖಾಜಿಯನ್ ವಿಕ್ಷನರಿ"
+	"project-localized-name-abwiktionary": "ಅಬ್ಖಾಜಿಯನ್ ವಿಕ್ಷನರಿ",
+	"project-localized-name-donatewiki": "ದೇಣಿಗೆ"
 }
