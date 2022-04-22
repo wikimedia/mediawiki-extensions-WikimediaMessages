@@ -9,6 +9,7 @@
 			"Calak",
 			"Ciphers",
 			"DRIHEM",
+			"FiberAhmed",
 			"Hhaboh162002",
 			"Kassem7899",
 			"Maroen1990",
@@ -50,9 +51,9 @@
 	"group-extended-uploader": "الرافعون الموسعون",
 	"group-extended-uploader-member": "{{GENDER:$1|رافع موسع|رافعة موسعة}}",
 	"grouppage-extended-uploader": "{{ns:project}}:رافعون موسعون",
-	"group-otrs-member": "أعضاء أو تي آر إس",
-	"group-otrs-member-member": "{{GENDER:$1|عضو|عضوة}} أو تي آر إس",
-	"grouppage-otrs-member": "{{ns:project}}:أعضاء أو تي آر إس",
+	"group-otrs-member": "أعضاء في آر تي",
+	"group-otrs-member-member": "{{GENDER:$1|عضو|عضوة}} في آر تي",
+	"grouppage-otrs-member": "{{ns:project}}:أعضاء في آر تي",
 	"group-abusefilter": "معدلو مرشحات الإساءة",
 	"group-abusefilter-member": "{{GENDER:$1|معدل مرشح الإساءة|معدلة مرشح الإساءة}}",
 	"grouppage-abusefilter": "{{ns:project}}:معدلو مرشح الإساءة",
@@ -344,5 +345,10 @@
 	"action-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
 	"group-docseditor": "محررو التوثيق",
 	"action-docseditor": "عدل التوثيق",
-	"right-docseditor": "عدل التوثيق"
+	"right-docseditor": "عدل التوثيق",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "نعم",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "لا",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "نعم",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "لا",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "أنا لست متأكدًا"
 }

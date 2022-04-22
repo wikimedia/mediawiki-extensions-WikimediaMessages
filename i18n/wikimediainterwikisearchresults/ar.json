@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"FiberAhmed",
 			"Meno25",
 			"بدارين",
 			"ديفيد",
@@ -18,6 +19,7 @@
 	"search-interwiki-results-anwiki": "عرض النتائج من [[:an:|ويكيبيديا الأراجونية]].",
 	"search-interwiki-results-arcwiki": "عرض النتائج من  [[:arc:|ويكيبيديا السريانية]].",
 	"search-interwiki-results-arwiki": "عرض النتائج من [[:ar:|ويكيبيديا العربية]].",
+	"search-interwiki-results-arywiki": "عرض النتائج من [[:ary:|ويكيبيديا العربية المغربية]].",
 	"search-interwiki-results-arzwiki": "عرض النتائج من [[:arz:|ويكيبيديا العربية المصرية]].",
 	"search-interwiki-results-astwiki": "عرض النتائج من  [[:ast:|ويكيبيديا الأستورية]].",
 	"search-interwiki-results-aswiki": "عرض النتائج من [[:as:|ويكيبيديا الأسامية]].",
