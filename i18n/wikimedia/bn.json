@@ -19,7 +19,8 @@
 			"Wikitanvir",
 			"Yahya",
 			"Zaheen",
-			"আফতাবুজ্জামান"
+			"আফতাবুজ্জামান",
+			"মোঃ মারুফ হাসান24"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -305,5 +306,8 @@
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "মতামত জানানোর জন্য আপনাকে ধন্যবাদ।",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "হ্যাঁ",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "না",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "আমি নিশ্চিত নই"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "আমি নিশ্চিত নই",
+	"gadget-curidlink-link-by-id": "আইডি দ্বারা লিঙ্ক করুন",
+	"gadget-curidlink-link-by-id-desc": "এটির ID দ্বারা এই পৃষ্ঠার লিংক দেখান",
+	"gadget-souspages-subpages": "উপপাতাসমূহ"
 }

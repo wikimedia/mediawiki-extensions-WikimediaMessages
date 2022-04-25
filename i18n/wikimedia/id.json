@@ -332,12 +332,19 @@
 	"right-docseditor": "Menyunting dokumentasi",
 	"right-edit-legal": "Menyunting halaman dengan kemungkinan konsekuensi hukum",
 	"action-edit-legal": "menyunting halaman dengan kemungkinan konsekuensi hukum",
-	"ext-quicksurveys-tst-internal-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}}?",
+	"ipinfo-feedback-button-label": "Berikan komentar",
+	"ext-quicksurveys-tst-internal-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ya",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Tidak",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}}?",
+	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Survei anonim ini dilakukan oleh Wikimedia Foundation.[https://meta.wikimedia.org/wiki/Community_Safety Baca lebih lanjut] atau periksa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement pernyataan privasi].",
+	"ext-quicksurveys-tst-internal-survey-additional-info": "Jika Anda mengalami atau menyaksikan pelecehan, [https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources bacalah bahan bacaan ini].",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Terima kasih untuk umpan baliknya.",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ya",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Tidak",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tidak yakin",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Survei anonim ini dilakukan oleh Wikimedia Foundation.[https://meta.wikimedia.org/wiki/Community_Safety Baca lebih lanjut] atau periksa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement pernyataan privasi]."
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Survei anonim ini dilakukan oleh Wikimedia Foundation.[https://meta.wikimedia.org/wiki/Community_Safety Baca lebih lanjut] atau periksa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement pernyataan privasi].",
+	"gadget-curidlink-link-by-id": "Pranala berdasarkan ID",
+	"gadget-curidlink-link-by-id-desc": "Tampilkan pranala ke halaman ini berdasarkan ID-nya",
+	"gadget-souspages-subpages": "Subhalaman"
 }

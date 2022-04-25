@@ -352,5 +352,6 @@
 	"action-docseditor": "解説文を編集",
 	"right-docseditor": "解説文を編集",
 	"ipinfo-feedback-button-label": "フィードバックを送信",
-	"ext-quicksurveys-tst-internal-survey-confirm-msg": "フィードバックをありがとうございます。"
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "フィードバックをありがとうございます。",
+	"gadget-souspages-subpages": "下位ページ"
 }

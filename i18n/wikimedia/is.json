@@ -3,6 +3,7 @@
 		"authors": [
 			"Danniel07",
 			"Fitoschido",
+			"LoveIceLang",
 			"Maxí",
 			"Nemo bis",
 			"S.Örvarr.S",
@@ -90,5 +91,7 @@
 	"eri-rcfilters-tour-highlight-button": "Fínt, ég náði því",
 	"wikimedia-statslink": "Tölfræði",
 	"wikimedia-cookiestatement": "Yfirlýsing vegna vefkakna",
-	"action-edit-legal": "breyta síðum með hugsanlegum lagalegum afleiðingum"
+	"action-edit-legal": "breyta síðum með hugsanlegum lagalegum afleiðingum",
+	"gadget-curidlink-link-by-id": "Tengill eftir auðkenni",
+	"gadget-curidlink-link-by-id-desc": "Sýna tengil á þessa síðu með auðkenni hennar"
 }

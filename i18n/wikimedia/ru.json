@@ -359,5 +359,8 @@
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Я не знаю"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Я не знаю",
+	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
+	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
+	"gadget-souspages-subpages": "Подстраницы"
 }
