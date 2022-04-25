@@ -43,7 +43,8 @@
 			"Apzp79",
 			"Sotiale",
 			"Underbaaar",
-			"MemphisA5"
+			"MemphisA5",
+			"Bluehill"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -196,8 +197,8 @@
 	"group-oauthadmin": "OAuth 관리자",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth 관리자}}",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth 관리자",
-	"group-ombuds": "감찰자",
-	"group-ombuds-member": "{{GENDER:$1|감찰자}}",
+	"group-ombuds": "감찰위원",
+	"group-ombuds-member": "{{GENDER:$1|감찰위원}}",
 	"group-recursive-export": "재귀 내보내는 자",
 	"group-recursive-export-member": "{{GENDER:$1|재귀 내보내는 자}}",
 	"group-staff": "임원",
