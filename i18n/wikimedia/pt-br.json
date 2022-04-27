@@ -40,7 +40,9 @@
 			"Tks4Fish",
 			"Vitorvicentevalente",
 			555,
-			"Svjatysberega"
+			"Svjatysberega",
+			"Stanglavine",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -224,7 +226,7 @@
 	"grouppage-recursive-export": "m:Recursive export",
 	"group-staff": "Equipe",
 	"group-staff-member": "{{GENDER:$1|funcionário|funcionária|funcionário(a)}}",
-	"group-steward": "''Stewards''",
+	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"grouppage-steward": "m:Stewards/pt-br",
 	"group-sysadmin": "Administradores de sistema",
