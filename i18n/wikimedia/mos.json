@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Abdul Fatawu 352",
+			"Amire80",
 			"Hasslaebetch",
 			"Musahfm"
 		]
 	},
 	"sitesupport": "Kouni",
+	"wikimedia-copyrightwarning": "Ni tedgre bĩngri, fo sake ni[https://foundation.wikimedia.org/wikis/Terms _of_Use Terms of Use] la fo tulga mi n sake ni fo songre yiibu ni[https://en.wikipedia.org/wikis/wikipedia:Text_of_Creative_commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] la ni[https://en.wikipedia.org/wiki/wikipedia:Text _of_the_GNU_Free_Documentation_License GFDL]. Fo sake ne hyperlink bii URL ya Creative Commons License.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
