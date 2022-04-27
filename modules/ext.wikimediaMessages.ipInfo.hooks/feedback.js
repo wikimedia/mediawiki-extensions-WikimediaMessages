@@ -7,8 +7,14 @@
 		var feedbackUrl = new URL( 'https://meta.wikimedia.org/wiki/IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/IP_Info_feature/Feedback' );
 		feedbackUrl.searchParams.set( 'action', 'edit' );
 		feedbackUrl.searchParams.set( 'section', 'new' );
-		feedbackUrl.searchParams.set( 'preload', 'Special:MyLanguage/Template:IPInfoFeedback' );
 		feedbackUrl.searchParams.set( 'preloadtitle', 'Feedback from ' + mw.user.getName() );
+
+		// Use the English translation rather than the source page, to avoid <translate> tags
+		feedbackUrl.searchParams.set( 'preload',
+			mw.config.get( 'wgPageContentLanguage' ) === 'en' ?
+				'Template:IPInfoFeedback/en' :
+				'Special:MyLanguage/Template:IPInfoFeedback'
+		);
 
 		var feedbackButton = new OO.ui.ButtonWidget( {
 			href: feedbackUrl.href,
