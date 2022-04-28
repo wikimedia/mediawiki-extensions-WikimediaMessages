@@ -335,7 +335,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}}?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ya",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Tidak",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}}?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ya",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Tidak",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tidak yakin",
