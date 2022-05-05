@@ -30,7 +30,8 @@
 			"زكريا",
 			"علاء",
 			"محمد أحمد عبد الفتاح",
-			"FiberAhmed"
+			"FiberAhmed",
+			"أَحمد"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -204,6 +205,7 @@
 	"group-translationadmin": "إداريو الترجمة",
 	"group-translationadmin-member": "{{GENDER:$1 |إداري ترجمة}}",
 	"grouppage-translationadmin": "{{ns:project}}: إداريو الترجمة",
+	"group-vrt-permissions": "عملاء صلاحيات فريق المتطوعين للرد (VRT)",
 	"group-wmf-officeit": "تكنولوجيا المعلومات في مكتب مؤسسة ويكيميديا",
 	"group-wmf-officeit-member": "{{GENDER:$1|تكنولوجيا المعلومات في مكتب مؤسسة ويكيميديا}}",
 	"group-wmf-researcher": "باحثو مؤسسة ويكيميديا",
