@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AaaRazak",
 			"Abdul Fatawu 352"
 		]
 	},
@@ -11,5 +12,6 @@
 	"wm-license-cc-free-to-remix-header": "N kalme",
 	"wm-license-cc-free-to-remix-text": "Zemse tumde",
 	"wm-license-cc-conditions": "Yɛl pʋgdse tẽngre",
+	"wm-license-cc-conditions-attribution-header": "Zu-lukri",
 	"wm-license-cc-conditions-share_alike-header": "Pʋɩ zem-taaba"
 }
