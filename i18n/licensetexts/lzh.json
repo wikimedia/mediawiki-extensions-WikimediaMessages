@@ -4,7 +4,8 @@
 			"Diebuche",
 			"Jason924tw",
 			"SolidBlock",
-			"StephDC"
+			"StephDC",
+			"StarrySky"
 		]
 	},
 	"wm-license-book-language": "語",
@@ -13,5 +14,6 @@
 	"wm-license-information-source": "碼",
 	"wm-license-information-date": "期",
 	"wm-license-information-author": "作者",
+	"wm-license-information-permission": "准",
 	"wm-license-own-work": "己作"
 }
