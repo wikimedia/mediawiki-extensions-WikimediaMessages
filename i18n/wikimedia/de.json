@@ -168,6 +168,8 @@
 	"grouppage-curator": "{{ns:project}}:Kuratoren",
 	"group-global-bot": "Globale Bots",
 	"group-global-bot-member": "{{GENDER:$1|Globaler Bot}}",
+	"group-global-deleter": "Globale Löscher",
+	"group-global-deleter-member": "{{GENDER:$1|globaler Löscher|globale Löscherin}}",
 	"group-global-flow-create": "Globale Flow-Ersteller",
 	"group-global-flow-create-member": "{{GENDER:$1|Globaler Flow-Ersteller|Globale Flow-Erstellerin}}",
 	"group-global-ipblock-exempt": "Globale IP-Sperren-Ausgenommene",

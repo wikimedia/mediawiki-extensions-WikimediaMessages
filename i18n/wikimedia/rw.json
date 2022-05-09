@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
+			"Germain92",
 			"RebecaRwanda"
 		]
 	},
 	"sitesupport": "Tanga impano",
+	"group-global-deleter": "Gusiba kw'isi yose",
+	"group-global-deleter-member": "{{GENDER:$1|gusiba kwisi yose}}",
 	"wikimedia-copyright": "Inyandiko ziboneka kuri <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nAyandi majambo ashobora gukurikizwa.\nRaba <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> uronke ibisobanuro.",
 	"wikifunctions-edit-copyrightwarning-implementation": "Ukanze \"gutangaza\", wemera kuri <a href=\"//foundation.wikimedia.org/wiki/Amagambo yo gukoresha\">Amagambo yo gukoresha</a>, kandi wemera bidasubirwaho kurekura umusanzu wawe munsi ya <a href=\"https://www.apache.org/impushya/URUHUSHYA-2.0\" umutwe=\"Ibisobanuro bya Apache 2.0 Uruhushya\">Apache 2.0 uruhushya</a>.",
 	"wikimedia-developers": "Abakora programu",

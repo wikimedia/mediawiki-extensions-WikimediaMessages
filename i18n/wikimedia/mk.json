@@ -144,6 +144,8 @@
 	"grouppage-curator": "{{ns:project}}:Кустоси",
 	"group-global-bot": "Глобални ботови",
 	"group-global-bot-member": "{{GENDER:$1|глобален бот}}",
+	"group-global-deleter": "Глобални бришачи",
+	"group-global-deleter-member": "{{GENDER:$1|глобален бришач}}",
 	"group-global-flow-create": "Создавачи на Глобален тек",
 	"group-global-flow-create-member": "{{GENDER:$1|создавач на Глобален тек}}",
 	"group-global-ipblock-exempt": "Исклучоци од глобални IP-блокови",

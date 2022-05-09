@@ -186,6 +186,8 @@
 	"group-global-bot": "グローバルボット",
 	"group-global-bot-member": "{{GENDER:$1|グローバルボット}}",
 	"grouppage-global-bot": "m:Global bot/ja",
+	"group-global-deleter": "グローバル削除者",
+	"group-global-deleter-member": "{{GENDER:$1|グローバル削除者}}",
 	"group-global-flow-create": "グローバルフロー作成者",
 	"group-global-flow-create-member": "{{GENDER:$1|グローバルフロー作成者}}",
 	"group-global-ipblock-exempt": "グローバルIPブロック適用除外者",

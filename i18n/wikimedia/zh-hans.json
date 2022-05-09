@@ -192,6 +192,8 @@
 	"group-global-bot": "全域机器人",
 	"group-global-bot-member": "{{GENDER:$1|全域机器人}}",
 	"grouppage-global-bot": "m:Global bot",
+	"group-global-deleter": "全域删除员",
+	"group-global-deleter-member": "全域删除员",
 	"group-global-flow-create": "全域Flow创建者",
 	"group-global-flow-create-member": "{{GENDER:$1|全域Flow创建者}}",
 	"group-global-ipblock-exempt": "全域IP封禁豁免",

@@ -175,6 +175,8 @@
 	"group-global-bot": "Глобальні боти",
 	"group-global-bot-member": "{{GENDER:$1|глобальний бот}}",
 	"grouppage-global-bot": "m:Global bot",
+	"group-global-deleter": "Глобальні вилучальники",
+	"group-global-deleter-member": "{{GENDER:$1|глобальний вилучальник|глобальна вилучальниця}}",
 	"group-global-flow-create": "Глобальні створювачі Flow",
 	"group-global-flow-create-member": "{{GENDER:$1|глобальний створювач Flow|глобальна створювачка Flow}}",
 	"group-global-ipblock-exempt": "Глобальні виключення з блокування IP",
@@ -387,5 +389,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Так",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Ні",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не впевнений/а",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Це анонімне опитування проводить Фонд Вікімедіа. [https://meta.wikimedia.org/wiki/Community_Safety Почитайте докладніше] або ознайомтеся із [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заявою про приватність]."
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Це анонімне опитування проводить Фонд Вікімедіа. [https://meta.wikimedia.org/wiki/Community_Safety Почитайте докладніше] або ознайомтеся із [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заявою про приватність].",
+	"gadget-curidlink-link-by-id": "Посилання за ID",
+	"gadget-curidlink-link-by-id-desc": "Показати посилання за ID сторінки",
+	"gadget-souspages-subpages": "Підсторінки"
 }

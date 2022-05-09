@@ -121,6 +121,8 @@
 	"group-global-bot": "Глобални ботови",
 	"group-global-bot-member": "{{GENDER:$1|глобални бот}}",
 	"grouppage-global-bot": "m:Global bot/sr",
+	"group-global-deleter": "Глобални брисачи",
+	"group-global-deleter-member": "{{GENDER:$1|глобални брисач}}",
 	"group-global-interface-editor": "Глобални уредници интерфејса",
 	"group-global-renamer": "Глобални преимењивачи",
 	"group-global-renamer-member": "{{GENDER:$1|глобални преимењивачи}}",
