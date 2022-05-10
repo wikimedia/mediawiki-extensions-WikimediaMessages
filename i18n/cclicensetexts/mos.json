@@ -1,8 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abdul Fatawu 352"
+			"Abdul Fatawu 352",
+			"AaaRazak",
+			"Amire80"
 		]
 	},
-	"wm-license-cc-free-to-share-header": "N pʋɩ"
+	"wm-license-cc-attribution": "Bilgri",
+	"wm-license-cc-free": "Fo vʋʋse sa mi",
+	"wm-license-cc-free-to-share-header": "n pʋɩ",
+	"wm-license-cc-free-to-share-text": "Gese n gulse, pʋɩ la kis tumda ti kẽnge",
+	"wm-license-cc-free-to-remix-header": "n kalme",
+	"wm-license-cc-free-to-remix-text": "zemse tumde",
+	"wm-license-cc-conditions": "Yɛl pʋgdse tẽngre:",
+	"wm-license-cc-conditions-attribution-header": "zu-lukri",
+	"wm-license-cc-conditions-share_alike-header": "pʋɩ zem-taaba"
 }
