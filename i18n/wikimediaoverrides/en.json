@@ -35,5 +35,8 @@
 	"wikimedia-webauthn-ui-login-prompt": "Please touch your verification device or follow the instructions from the browser. Please note that you will need to login to the same wiki where you originally registered your verification device",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Privacy Policy]",
 	"wikimedia-notification-body-oathauth-disable-other": "If {{GENDER:$2|you}} did not request this, {{GENDER:$2|you}} should contact WMF Trust & Safety.",
-	"wikimedia-oathauth-notifications-disable-helplink": "m:Special:MyLanguage/Help:Two-factor authentication"
+	"wikimedia-oathauth-notifications-disable-helplink": "m:Special:MyLanguage/Help:Two-factor authentication",
+	"wikimedia-ipinfo-source-geoip2": "Your use of this tool is governed by the [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP Information tool guidelines].",
+	"wikimedia-ipinfo-infobox-use-terms": "The IP Information tool uses the MaxMind databases to show details like approximate location, proxy, and how many devices are sharing this IP address. Please review the [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP Information tool guidelines] before enabling it.",
+	"wikimedia-ipinfo-preference-use-agreement": "I agree to use this tool in accordance with the [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP Information tool guidelines], solely for the investigation or prevention of vandalism, abuse, or other violations of Wikimedia Foundation or community policies."
 }

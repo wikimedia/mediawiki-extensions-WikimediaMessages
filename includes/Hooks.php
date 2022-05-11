@@ -158,6 +158,10 @@ class Hooks implements
 			'log-action-filter-usermerge-deleteuser',
 			'notification-body-oathauth-disable-other',
 			'oathauth-notifications-disable-helplink',
+			// T307493
+			'ipinfo-source-geoip2',
+			'ipinfo-infobox-use-terms',
+			'ipinfo-preference-use-agreement'
 		];
 
 		static $allbutmetawikikeys = [

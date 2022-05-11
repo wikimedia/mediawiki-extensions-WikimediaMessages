@@ -47,5 +47,8 @@
 	"wikimedia-webauthn-ui-login-prompt": "Message explaining user-required actions on login",
 	"wikimedia-mwoauth-form-privacypolicy-link": "Wikitext link pointing to the WMF privacy policy for all sites. Replace Privacy_policy in the URL with Privacy_policy/<your_language> if a translation exists, for example, MyLanguage/Privacy_policy/fr for French.\n{{Identical|Privacy policy}}",
 	"wikimedia-notification-body-oathauth-disable-other": "Notification body text for when two-factor authentication has been disabled by an administrator or sysadmin.\n$2 - Name of user for GENDER.",
-	"wikimedia-oathauth-notifications-disable-helplink": "{{notranslate}}"
+	"wikimedia-oathauth-notifications-disable-helplink": "{{notranslate}}",
+	"wikimedia-ipinfo-source-geoip2": "IPinfobox legal disclaimer",
+	"wikimedia-ipinfo-infobox-use-terms": "IPInfobox use legal terms",
+	"wikimedia-ipinfo-preference-use-agreement": "IPInfo use agreement"
 }
