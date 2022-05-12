@@ -1,15 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abdul Fatawu 352"
+			"Abdul Fatawu 352",
+			"AaaRazak",
+			"Amire80"
 		]
 	},
 	"wm-license-cc-attribution": "Bilgri",
+	"wm-license-cc-by-sa-3.0-text": "Yao fisiye la Kaset sebre tengre ku [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] kaset sebre.",
 	"wm-license-cc-free": "Fo vʋʋse sa mi",
-	"wm-license-cc-free-to-share-header": "N pʋɩ",
-	"wm-license-cc-free-to-share-text": "Gese n gulse,pʋɩ la kis tumda ti kẽnge",
-	"wm-license-cc-free-to-remix-header": "N kalme",
-	"wm-license-cc-free-to-remix-text": "Zemse tumde",
-	"wm-license-cc-conditions": "Yɛl pʋgdse tẽngre",
-	"wm-license-cc-conditions-share_alike-header": "Pʋɩ zem-taaba"
+	"wm-license-cc-free-to-share-header": "n pʋɩ",
+	"wm-license-cc-free-to-share-text": "Gese n gulse, pʋɩ la kis tumda ti kẽnge",
+	"wm-license-cc-free-to-remix-header": "n kalme",
+	"wm-license-cc-free-to-remix-text": "zemse tumde",
+	"wm-license-cc-conditions": "Yɛl pʋgdse tẽngre:",
+	"wm-license-cc-conditions-attribution-header": "zu-lukri",
+	"wm-license-cc-conditions-attribution-text": "Fo toge kõ waoogre sɛgde, wilgi tokre ni sor-kũuni, la wilgi baa-ti tekre da maana mi. Fo na tõe maane boto ni yam, la pa sore ning wilgi ti sor-kũuna sake ni fo bɩɩ fo tʋʋma.",
+	"wm-license-cc-conditions-share_alike-header": "pʋɩ zem-taaba",
+	"wm-license-cc-conditions-share_alike-text": "Asan foo le-gedge, teeme bi me zabge ku bee, foo rende pui tebge songre tengre ku [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] ta menga."
 }
