@@ -1,7 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"TayfunEt."
+		]
 	},
 	"wm-license-information-description": "Tasvir",
-	"wm-license-information-source": "Menba"
+	"wm-license-information-source": "Menba",
+	"wm-license-information-date": "Tarih",
+	"wm-license-information-author": "Yaratıcı",
+	"wm-license-own-work": "Öz işi"
 }

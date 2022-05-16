@@ -5,8 +5,11 @@
 			"Egiebizzy"
 		]
 	},
-	"wm-license-information-description": "Hau i bi",
-	"wm-license-information-source": "Wia dem tek get am",
-	"wm-license-information-date": "Det",
-	"wm-license-information-author": "Pesin we rait-am"
+	"wm-license-information-description": "How e dey",
+	"wm-license-information-source": "Where dem tek get am",
+	"wm-license-information-date": "Date",
+	"wm-license-information-author": "Pesin we rait-am",
+	"wm-license-information-permission": "Permission",
+	"wm-license-information-permission-reusing-text": "You don dey yuz dis file again",
+	"wm-license-own-work": "wok wey na for you"
 }

@@ -1,9 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Egiebizzy"
+			"Egiebizzy",
+			"Samatics"
 		]
 	},
+	"wm-license-cc-attribution": "Attribution",
+	"wm-license-cc-free": "You dey free:",
+	"wm-license-cc-free-to-share-header": "to share",
+	"wm-license-cc-free-to-share-text": "to copy, distribute an transmit di wok",
+	"wm-license-cc-free-to-remix-header": "to remix-am",
+	"wm-license-cc-free-to-remix-text": "to adapt di wok",
+	"wm-license-cc-conditions": "Na for dis kondishon-dem:",
 	"wm-license-cc-conditions-attribution-header": "wetin kos am",
 	"wm-license-cc-conditions-share_alike-header": "shiar wetin rezembu am"
 }
