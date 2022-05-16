@@ -181,6 +181,8 @@
 	"group-global-bot": "全域機器人",
 	"group-global-bot-member": "{{GENDER:$1|全域機器人}}",
 	"grouppage-global-bot": "m:Global bot/zh",
+	"group-global-deleter": "全域刪除員",
+	"group-global-deleter-member": "{{GENDER:$1|全域刪除員}}",
 	"group-global-flow-create": "全域Flow建立員",
 	"group-global-flow-create-member": "{{GENDER:$1|全域Flow建立員}}",
 	"group-global-ipblock-exempt": "全域 IP 封鎖例外",

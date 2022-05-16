@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Legoktm",
 			"Meno25",
 			"Nemo bis",
 			"Purodha"
@@ -138,7 +139,7 @@
 	"project-localized-name-ckbwiki": "Wikkipehdija op Zäntralkurrdesch",
 	"project-localized-name-cnwikimedia": "Wikkimehdija-Schtefftong vun Schihna",
 	"project-localized-name-collabwiki": "Wikki för de Zesammeärbeid",
-	"project-localized-name-commonswiki": "Wikkimehdija <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\">Commons</i>",
+	"project-localized-name-commonswiki": "Wikkimehdija Commons",
 	"project-localized-name-cowiki": "Wikkipehdija op Korrsesch",
 	"project-localized-name-cowikibooks": "Böhscherwikki op Korrsesch",
 	"project-localized-name-cowikimedia": "Wikkimehdija-Schtefftong vun Kolumbijje",
@@ -555,7 +556,7 @@
 	"project-localized-name-nrmwiki": "Wikkipehdija op Normannesch",
 	"project-localized-name-nsowiki": "Wikkipehdija op Noodsohtesch",
 	"project-localized-name-nvwiki": "Wikkipehdija op Navacho",
-	"project-localized-name-nycwikimedia": "Wikkimehdija vun <i lang=\"en\" xml:lang=\"en\" dir=\"ltr\">New York City</i>",
+	"project-localized-name-nycwikimedia": "Wikkimehdija vun New York City",
 	"project-localized-name-nywiki": "Wikkipehdija op Nyanja",
 	"project-localized-name-nzwikimedia": "Wikkimehdija-Schtefftong vun Neusehland",
 	"project-localized-name-ocwiki": "Wikkipehdija op Okzetahnesch",

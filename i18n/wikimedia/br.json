@@ -128,7 +128,7 @@
 	"wikibase-otherprojects-wikisource": "Wikimammenn",
 	"wikibase-otherprojects-wiktionary": "Wikeriadur",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
-	"wikibase-sitelinks-sitename-species": "Wikispesadoù",
+	"wikibase-sitelinks-sitename-species": "Wikispesad",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikiroadennoù",
 	"cant-delete-main-page": "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 	"wikimedia-developers": "Diorroerien",
@@ -138,5 +138,6 @@
 	"wikimediashoplink-link-tooltip": "Gweladennit ar stal Wikimedia",
 	"interlanguage-link-mul": "Muioc'h a yezhoù",
 	"wikimedia-statslink": "Stadegoù",
-	"wikimedia-cookiestatement": "Disklêriadur war an toupinoù"
+	"wikimedia-cookiestatement": "Disklêriadur war an toupinoù",
+	"gadget-souspages-subpages": "Ispajennoù"
 }
