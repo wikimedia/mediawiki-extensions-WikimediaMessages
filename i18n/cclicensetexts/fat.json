@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ebenoffen1"
+			"Ebenoffen1",
+			"Leonard Nketsia"
 		]
 	},
+	"wm-license-cc-free": "Edze woho:",
+	"wm-license-cc-free-to-share-header": "dɛ ebɛkyɛ",
+	"wm-license-cc-free-to-share-text": "dɛ ebɔkɔpe, akyekyɛ dwumadzi no",
+	"wm-license-cc-free-to-remix-header": "dɛ ebɛsan afora mu",
+	"wm-license-cc-free-to-remix-text": "dɛ ɔnye dwumadzi no bɛsaa",
+	"wm-license-cc-conditions": "Nhyehyɛɛ a ɔka do yinom ase",
 	"wm-license-cc-conditions-attribution-header": "Ne farbaa",
-	"wm-license-cc-conditions-share_alike-header": "share alike"
+	"wm-license-cc-conditions-attribution-text": "Ɔwɔ dɛ edze enyidzi ma, ema tumdze no ho lenke na kyerɛ dɛ sɛ wɔyɛ nsesa bi wɔ mu a. Ibotum ayɛ dɛm wɔ kwan biara ɔsɛ mu mbom nnyɛ kwan a ɔkyerɛ dɛ tummafo no agye ɔwo na wo dwumadzi no ato mu.",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
+	"wm-license-cc-conditions-share_alike-text": "Sɛ efora, edan anaa itu ndzɛmba yi mu mpon a, otwar dɛ ekyɛ wo mboae no wɔ [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] ase dɛ dza odzi kan no."
 }
