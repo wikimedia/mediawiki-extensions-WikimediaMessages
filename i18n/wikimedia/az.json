@@ -17,7 +17,8 @@
 			"Vugar 1981",
 			"Wertuose",
 			"Zpizza",
-			"Şeyx Şamil"
+			"Şeyx Şamil",
+			"Serkanland"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
@@ -38,8 +39,8 @@
 	"group-autopatrolled-member": "{{GENDER:$1|avtopatrul}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Avtopatrullar",
 	"group-autoreviewer-member": "{{GENDER:$1|autoreviewer}}",
-	"group-botadmin-member": "{{GENDER:$1|idarəçi hüququna malik bot}}",
-	"grouppage-botadmin": "{{ns:project}}:İdarəçi hüququ olan botlar",
+	"group-botadmin-member": "{{GENDER:$1|inzibatçı hüququna malik bot}}",
+	"grouppage-botadmin": "{{ns:project}}:İnzibatçı hüququ olan botlar",
 	"group-confirmed": "Təsdiqlənmiş istifadəçilər",
 	"group-confirmed-member": "{{GENDER:$1|təsdiqlənmiş istifadəçi}}",
 	"grouppage-confirmed": "{{ns:project}}:Təsdiqlənmiş istifadəçilər",
@@ -87,9 +88,9 @@
 	"group-global-ipblock-exempt": "Qlobal olaraq IP blokundan azad olanlar",
 	"group-global-rollbacker": "Qlobal rolbakerlər",
 	"group-global-rollbacker-member": "{{GENDER:$1|qlobal rolbaker}}",
-	"group-global-sysop": "Qlobal idarəçilər",
-	"group-global-sysop-member": "{{GENDER:$1|qlobal idarəçi}}",
-	"grouppage-global-sysop": "Qlobal idarəçilər",
+	"group-global-sysop": "Qlobal inzibatçılar",
+	"group-global-sysop-member": "{{GENDER:$1|qlobal inzibatçı}}",
+	"grouppage-global-sysop": "Qlobal inzibatçılar",
 	"group-ombuds": "Ombudsmanlar",
 	"group-ombuds-member": "{{GENDER:$1|ombudsman}}",
 	"group-staff": "Əməkdaşlar",

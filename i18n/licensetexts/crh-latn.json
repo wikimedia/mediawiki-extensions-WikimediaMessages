@@ -1,7 +1,15 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"TayfunEt."
+		]
 	},
 	"wm-license-information-description": "Tasvir",
-	"wm-license-information-source": "Menba"
+	"wm-license-information-source": "Menba",
+	"wm-license-information-date": "Tarih",
+	"wm-license-information-author": "Yaratıcı",
+	"wm-license-information-permission": "İzin",
+	"wm-license-information-permission-reusing-text": "Faylnı yañıdan qullanuv",
+	"wm-license-own-work": "Öz işi",
+	"wm-license-self-multiple-licenses-select": "İstedigiñiz lisansnı seçebilirsiñiz."
 }
