@@ -13,6 +13,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Divelopa-dem",
+	"wikimedia-globalblocking-ipblocked": "'''Your IP adres don dey [[m:Special:MyLanguage/Global blocks|for blok for evri wiki-dem]].'''\n\nNa $1 ($2) mek di blok.\nDi reason na sey ''$3''.\n\n* Di blok go stat for: $4\n* Di blok go end for: $5\n\nThe IP adres wey you dey yuz na $6.\nAbeg mek you put evri infomeshon for your complain.\n\nIf you tink sey dis blok na mistek, you fit get more infomeshon an instroshon inside [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nAbi, if you wan tok abaut di blok abeg [[m:Steward requests/Global|post request for review for Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy server-dem wey you yuz tek dey request don dey[[m:Special:MyLanguage/Global blocks|for global blok]].'''\n\nNa $1 ($2) mek di blok.\nDi reason na sey ''$3''.\n\n* Di blok go stat for: $4\n* Di blok go end for: $5\n\nThe IP adres wey you dey yuz na $6.\nAbeg mek you put evri infomeshon for your complain.\n\nIf you tink sey dis blok na mistek, you fit get more infomeshon an instroshon inside [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nAbi, if you wan tok abaut di blok abeg [[m:Steward requests/Global|post request for review for Meta-Wiki]].",
 	"wikimedia-statslink": "Statistiks",
 	"wikimedia-cookiestatement": "Kuki stetment"
 }
