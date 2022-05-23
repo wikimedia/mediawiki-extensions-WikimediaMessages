@@ -10,8 +10,13 @@
 	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Qullanuv Şartları</a>na baqıñız.",
 	"wikimedia-copyrightwarning": "Yapqan deñiştirmeleriñizni saqlap siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Qullanuv Şartları]nen razı olıp [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Creative Commons Attribution-ShareAlike 3.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde derc etilgenini qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
 	"wikibase-sitelinks-wikinews": "Vikihaber",
+	"wikibase-sitelinks-wikiquote": "Vikisöz",
 	"wikibase-sitelinks-wikisource": "Vikimenba",
+	"wikibase-sitelinks-wikivoyage": "Vikiseyaat",
+	"wikibase-otherprojects-wikipedia": "Vikipediya",
 	"wikimedia-developers": "Keliştiriciler",
+	"wikimedia-globalblocking-ipblocked": "'''Sizin kimligiñiz [[m:Special:MyLanguage/Global blocks|bütün vikilerge bloklanğan]].'''\n\n$1 ($2) tarafından bloklanğansiñiz.\nNedeni ise '''$3'''.\n\n* Bloknıñ başlağan vaqtı: $4\n* Bloknıñ soñ tapacaq vaqtı: $5\n\nSizin kimligiñiz $6.\nSoracaq oldıñız bütün sorularda lütfen bu bilgilerni beriñiz.\n\nEger haqsız yerge blok etildim derseñiz, daa bilgi [[m:Special:MyLanguage/No open proxies|açıq proksi yoq]] denilgen yerde tapabilirsiñiz. Ya da, blok aqqında tartışmaq içün\n[[m:Steward requests/Global|Meta-Vikige]] yazabilirsiñiz.",
+	"interlanguage-link-wikipedia": "Vikipediya",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Qurabiye beyanı"
 }
