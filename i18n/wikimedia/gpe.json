@@ -13,6 +13,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Developers",
+	"wikimedia-globalblocking-ipblocked": "'''Your IP address [[m:Special:MyLanguage/Global blocks|block for all wikis top]].'''\n\n$1 ($2) wey block am.\nHin reason wey he give be ''$3''.\n\n* De block start: $4\n* De block go expire: $5\n\nYour IP address now nu be $6.\nWe beg attache all above details for de queries you make inside.\n\nIf you believe say dem block you by mistake, you go fit find additional info den instructions for de [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy inside.\nOtherwise, to discuss de block we beg [[m:Steward requests/Global|post request giv review for Meta-Wiki top]].",
 	"wikimedia-statslink": "Statistics",
 	"wikimedia-cookiestatement": "Cookie statement"
 }

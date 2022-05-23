@@ -10,6 +10,7 @@
 	"group-global-deleter": "Gusiba kw'isi yose",
 	"group-global-deleter-member": "{{GENDER:$1|gusiba kwisi yose}}",
 	"wikimedia-copyright": "Inyandiko ziboneka kuri <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nAyandi majambo ashobora gukurikizwa.\nRaba <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> uronke ibisobanuro.",
+	"wikimedia-copyrightwarning": "Iyo ubitse ibyo wahinduye, uba wemeye  [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nWemeyeko hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikifunctions-edit-copyrightwarning-implementation": "Ukanze \"gutangaza\", wemera kuri <a href=\"//foundation.wikimedia.org/wiki/Amagambo yo gukoresha\">Amagambo yo gukoresha</a>, kandi wemera bidasubirwaho kurekura umusanzu wawe munsi ya <a href=\"https://www.apache.org/impushya/URUHUSHYA-2.0\" umutwe=\"Ibisobanuro bya Apache 2.0 Uruhushya\">Apache 2.0 uruhushya</a>.",
 	"wikimedia-developers": "Abakora programu",
 	"wikimedia-statslink": "Imibare",

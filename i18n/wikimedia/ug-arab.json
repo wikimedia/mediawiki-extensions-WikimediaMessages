@@ -3,6 +3,7 @@
 		"authors": [
 			"AlimOmar",
 			"Sahran",
+			"TayfunEt.",
 			"Uzdil"
 		]
 	},
@@ -63,7 +64,7 @@
 	"group-rollbacker": "ئەسلىگە قايتۇرغۇچى",
 	"group-rollbacker-member": "ئەسلىگە قايتۇرغۇچى",
 	"grouppage-rollbacker": "{{ns:project}}:ئەسلىگە قايتۇرغۇچى",
-	"group-transwiki": "wiki ھالقىغان ئەكىرگۈچى",
+	"group-transwiki": "ۋىكى ھالقىغان ئەكىرگۈچى",
 	"group-transwiki-member": "wiki ھالقىغان ئەكىرگۈچى",
 	"grouppage-transwiki": "{{ns:project}}:wiki ھالقىغان ئەكىرگۈچى",
 	"group-trusted": "ئىشەنچلىك ئىشلەتكۈچىلەر",
