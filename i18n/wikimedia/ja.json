@@ -45,7 +45,9 @@
 			"そらたこ",
 			"ネイ",
 			"青子守歌",
-			"아라"
+			"아라",
+			"MathXplore",
+			"Yamagata Yusuke"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -358,6 +360,6 @@
 	"right-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページを編集",
 	"action-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページの編集",
 	"group-docseditor": "文書編集者",
-	"action-docseditor": "解説文を編集",
+	"action-docseditor": "解説文の編集",
 	"right-docseditor": "解説文を編集"
 }

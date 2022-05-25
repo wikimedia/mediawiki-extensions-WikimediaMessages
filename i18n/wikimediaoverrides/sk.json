@@ -7,6 +7,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Návštevníci tejto wiki z vašej IP adresy už za posledný deň vytvorili {{PLURAL:$1|$1 účet|$1 účty|$1 účtov}}, čo je maximálny počet povolený za toto časové obdobie.\nZ tohto dôvodu nemôžu návštevníci z tejto IP adresy momentálne vytvoriť ďalšie účty.\n\nPokiaľ sa zúčastňujete akcie, ktorá sa zameriava na prispievanie do projektov Wikimedia, pozrite sa na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žiadosť o dočasné zrušenenie obmedzenia pre IP adresu]], aby šlo tento problém vyriešiť.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomôžte mi vybrať)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Môžete tiež navštíviť nastavenia aj na [[m:Special:CentralAuth/$1|ďalších projektoch Wikimedia, na ktorých ste prispeli]], aby ste si mohli stiahnuť dáta z vášho účtu z týchto projektov.",
 	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázok? [[{{MediaWiki:createacct-captcha-help-url}}|Požiadajte o účet]].",
 	"wikimedia-centralauth-groupname": "Nadácie Wikimedia",
 	"wikimedia-feedback-termsofuse": "Súhlasím s tým, že budem poskytovať spätnú väzbu v súlade s <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Podmienkami použitia</a>.",

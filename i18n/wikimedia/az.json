@@ -18,7 +18,8 @@
 			"Wertuose",
 			"Zpizza",
 			"Şeyx Şamil",
-			"Serkanland"
+			"Serkanland",
+			"Hüseynzadə"
 		]
 	},
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=az",
@@ -39,8 +40,8 @@
 	"group-autopatrolled-member": "{{GENDER:$1|avtopatrul}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Avtopatrullar",
 	"group-autoreviewer-member": "{{GENDER:$1|autoreviewer}}",
-	"group-botadmin-member": "{{GENDER:$1|inzibatçı hüququna malik bot}}",
-	"grouppage-botadmin": "{{ns:project}}:İnzibatçı hüququ olan botlar",
+	"group-botadmin-member": "{{GENDER:$1|inzibatçı hüquqlarına malik bot}}",
+	"grouppage-botadmin": "{{ns:project}}:İnzibatçı hüquqlarına malik botlar",
 	"group-confirmed": "Təsdiqlənmiş istifadəçilər",
 	"group-confirmed-member": "{{GENDER:$1|təsdiqlənmiş istifadəçi}}",
 	"grouppage-confirmed": "{{ns:project}}:Təsdiqlənmiş istifadəçilər",

@@ -42,7 +42,9 @@
 			"ديفيد",
 			"زكريا",
 			"아라",
-			"Antonla"
+			"Antonla",
+			"Ajeje Brazorf",
+			"Base"
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
@@ -397,8 +399,8 @@
 	"action-editautopatrolprotected": "{{doc-action|editautopatrolprotected}}",
 	"protect-level-edittrustedprotected": "Used as protect level.",
 	"restriction-level-edittrustedprotected": "Used on [[Special:ProtectedPages]] and [[Special:ProtectedTitles]]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry.",
-	"right-edittrustedprotected": "{{doc-right|editautopatrolprotected}}\nRefers to a protection level",
-	"action-edittrustedprotected": "{{doc-action|editautopatrolprotected}}",
+	"right-edittrustedprotected": "{{doc-right|edittrustedprotected}}\nRefers to a protection level",
+	"action-edittrustedprotected": "{{doc-action|edittrustedprotected}}",
 	"grouppage-docseditor": "{{ignored}}\n{{notranslate}}\n{{doc-group|docseditor|page}}",
 	"group-docseditor": "{{doc-group|docseditor}}",
 	"group-docseditor-member": "{{doc-group|docseditor|member}}",
