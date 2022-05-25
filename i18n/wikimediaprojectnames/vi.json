@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minh Nguyen"
+			"Minh Nguyen",
+			"Ngoxuannguyenchuong",
+			"NguoiDungKhongDinhDanh"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia tiếng Afar",
@@ -11,7 +13,7 @@
 	"project-localized-name-abwiktionary": "Wiktionary tiếng Abkhazia",
 	"project-localized-name-acewiki": "Wikipedia tiếng Aceh",
 	"project-localized-name-advisorswiki": "Wiki Cố vấn",
-	"project-localized-name-advisorywiki": "Ban tư vấn",
+	"project-localized-name-advisorywiki": "Ban Cố vấn",
 	"project-localized-name-adywiki": "Wikipedia tiếng Adyghe",
 	"project-localized-name-afwiki": "Wikipedia Afrikaans",
 	"project-localized-name-afwikibooks": "Wikibooks Afrikaans",
@@ -39,6 +41,7 @@
 	"project-localized-name-arbcom_enwiki": "Hội đồng Trọng tài Wikipedia tiếng Anh",
 	"project-localized-name-arbcom_fiwiki": "Hội đồng Trọng tài Wikipedia tiếng Phần Lan",
 	"project-localized-name-arbcom_nlwiki": "Hội đồng Trọng tài Wikipedia tiếng Hà Lan",
+	"project-localized-name-arbcom_ruwiki": "Hội đồng Trọng tài Wikipedia tiếng Nga",
 	"project-localized-name-arcwiki": "Wikipedia tiếng Aram",
 	"project-localized-name-arwiki": "Wikipedia tiếng Ả Rập",
 	"project-localized-name-arwikibooks": "Wikibooks tiếng Ả Rập",
