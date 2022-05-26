@@ -51,9 +51,9 @@
 	"group-extended-uploader": "Utvidgade uppladdare",
 	"group-extended-uploader-member": "{{GENDER:$1|utvidgad uppladdare}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Utvidgade uppladdare",
-	"group-otrs-member": "OTRS-medlemmar",
-	"group-otrs-member-member": "{{GENDER:$1|OTRS-medlem}}",
-	"grouppage-otrs-member": "{{ns:project}}:OTRS-medlemmar",
+	"group-otrs-member": "VRT-medlemmar",
+	"group-otrs-member-member": "{{GENDER:$1|VRT-medlem}}",
+	"grouppage-otrs-member": "{{ns:project}}:VRT-medlemmar",
 	"group-abusefilter": "Redigerare av missbruksfilter",
 	"group-abusefilter-member": "{{GENDER:$1|redigerare av missbruksfilter}}",
 	"grouppage-abusefilter": "{{ns:project}}:Redigerare av missbruksfilter",
@@ -347,5 +347,9 @@
 	"action-edit-legal": "redigera sidor med potentiellt juridiska konsekvenser",
 	"ext-quicksurveys-tst-internal-survey-question": "Har du känt dig osäker eller obekväm när du har bidragit till {{SITENAME}} under de senaste 30 dagarna?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nej"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nej",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Har du känt dig osäker eller obekväm inom de senaste 30 dagarna när du har bidragit till {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ja",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nej",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Jag är osäker"
 }

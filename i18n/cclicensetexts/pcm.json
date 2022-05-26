@@ -6,12 +6,15 @@
 		]
 	},
 	"wm-license-cc-attribution": "Attribution",
+	"wm-license-cc-by-sa-3.0-text": "Dem license dis file under di [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license.",
 	"wm-license-cc-free": "You dey free:",
 	"wm-license-cc-free-to-share-header": "to share",
-	"wm-license-cc-free-to-share-text": "to copy, distribute an transmit di wok",
+	"wm-license-cc-free-to-share-text": "to kopi, distribut an transmit di wok",
 	"wm-license-cc-free-to-remix-header": "to remix-am",
 	"wm-license-cc-free-to-remix-text": "to adapt di wok",
 	"wm-license-cc-conditions": "Na for dis kondishon-dem:",
-	"wm-license-cc-conditions-attribution-header": "wetin kos am",
-	"wm-license-cc-conditions-share_alike-header": "shiar wetin rezembu am"
+	"wm-license-cc-conditions-attribution-header": "attribution",
+	"wm-license-cc-conditions-attribution-text": "Mek you give beta credit, give link for di license, an mek you show di chenj-dem wey you mek. You fit stil do am how you like am, but no do am like sey di pesin wey get di license gree mek you use am.",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
+	"wm-license-cc-conditions-share_alike-text": "If you remix, transform, or build ontop di material, mek sure sey you share your kontribushon-dem onda di [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] as di original."
 }

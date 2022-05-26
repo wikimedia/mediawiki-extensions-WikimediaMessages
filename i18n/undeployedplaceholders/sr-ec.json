@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"BadDog"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|објединио|објединила}} је кориснички налог „$4” ($5) у {{GENDER:$8|$6}} ($7)",
@@ -10,5 +11,5 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "спајање налога",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "брисање налога",
 	"wikimedia-usermerge-logpage": "Дневник спајања корисника",
-	"wikimedia-usermerge-logpagetext": "Ово је дневник радња обједињавања налога."
+	"wikimedia-usermerge-logpagetext": "Ово је дневник обједињавања налога."
 }

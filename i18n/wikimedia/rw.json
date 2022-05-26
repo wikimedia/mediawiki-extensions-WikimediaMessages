@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"RebecaRwanda"
+			"RebecaRwanda",
+			"Amire80",
+			"Germain92"
 		]
 	},
 	"sitesupport": "Tanga impano",
 	"wikimedia-copyright": "Inyandiko ziboneka kuri <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nAyandi majambo ashobora gukurikizwa.\nRaba <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> uronke ibisobanuro.",
+	"wikimedia-copyrightwarning": "Iyo ubitse ibyo wahinduye, uba wemeye  [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nWemeyeko hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikimedia-developers": "Abakora programu",
 	"wikimedia-statslink": "Imibare",
 	"wikimedia-cookiestatement": "Invugo za Cookie"

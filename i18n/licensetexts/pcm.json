@@ -5,11 +5,13 @@
 			"Samatics"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "You fit copy, distribute and/or modify dis document under di terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 or any version wey dem publish later by di [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. One Copy of di license dey inside di section wey dem dey kol ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "How e dey",
-	"wm-license-information-source": "Where dem tek get am",
+	"wm-license-information-source": "Source",
 	"wm-license-information-date": "Date",
-	"wm-license-information-author": "Pesin we rait-am",
-	"wm-license-information-permission": "Permission",
+	"wm-license-information-author": "Pesin wey mek am",
+	"wm-license-information-permission": "Pemishon",
 	"wm-license-information-permission-reusing-text": "You don dey yuz dis file again",
-	"wm-license-own-work": "wok wey na for you"
+	"wm-license-own-work": "wok wey na for you",
+	"wm-license-self-multiple-licenses-select": "You fit chuz di license wey you like"
 }
