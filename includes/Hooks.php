@@ -161,7 +161,7 @@ class Hooks implements
 			// T307493
 			'ipinfo-source-geoip2',
 			'ipinfo-infobox-use-terms',
-			'ipinfo-preference-use-agreement'
+			'ipinfo-preference-use-agreement',
 		];
 
 		static $allbutmetawikikeys = [
