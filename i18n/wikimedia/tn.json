@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"F Samaritani",
 			"Hakka"
 		]
 	},
-	"sitesupport": "Dimpho"
+	"sitesupport": "Dimpho",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
 }
