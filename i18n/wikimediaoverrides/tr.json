@@ -10,7 +10,8 @@
 			"Nemo bis",
 			"SaldırganSincap",
 			"SwornToTranslate29",
-			"Uncitoyen"
+			"Uncitoyen",
+			"Victor Trevor"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bu viki ziyaretçisini IP adresinizi kullanarak, geçen gün {{PLURAL:$1|1 hesap|$1 hesap}} oluşturmuş ve bu süre içinde izin verilen maksimum tutardır.\nSonuç olarak, bu IP adresini kullanan ziyaretçiler şu anda daha fazla hesap oluşturamaz.\n\nWikimedia projelerine katkıda bulunmanın odak olduğu bir etkinlikte bulunuyorsanız, bu sorunun çözülmesine yardımcı olmak için lütfen [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP kapağının geçici olarak kaldırılması istenmesine]] bakın.",
@@ -46,5 +47,6 @@
 	"wikimedia-webauthn-module-description": "WebAuthn (Web Kimlik Doğrulaması), World Wide Web Konsorsiyumu (W3C) tarafından yayımlanan bir web standardıdır. WebAuthn, FIDO Alliance'ın rehberliğinde FIDO2 Projesinin temel bir bileşenidir. Projenin amacı, kullanıcıların açık anahtarlı parola kullanarak web tabanlı uygulamalara ve hizmetlere kimlik doğrulaması için bir arabirimi standartlaştırmaktır. [https://tr.wikipedia.org/wiki/WebAuthn Daha fazla bilgi edinin]. Doğrulama cihazınızı ilk kaydettirdiğiniz aynı vikiye oturum açmanız gerektiğini lütfen unutmayın.",
 	"wikimedia-webauthn-ui-login-prompt": "Lütfen doğrulama cihazınıza dokunun veya tarayıcıdaki talimatları izleyin. Doğrulama cihazınızı ilk kaydettirdiğiniz aynı vikiye oturum açmanız gerektiğini lütfen unutmayın",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://meta.wikimedia.org/wiki/Privacy_policy/tr Gizlilik Politikası]",
-	"wikimedia-notification-body-oathauth-disable-other": "Bunu {{GENDER:$2|siz}} talep etmediyseniz, WMF Güven ve Güvenlik ile iletişime geçmelisiniz."
+	"wikimedia-notification-body-oathauth-disable-other": "Bunu {{GENDER:$2|siz}} talep etmediyseniz, WMF Güven ve Güvenlik ile iletişime geçmelisiniz.",
+	"wikimedia-ipinfo-preference-use-agreement": "Bu aracı, [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP Bilgisi aracı kullanım yönergelerine] uygun olarak, yalnızca vandalizm, kötüye kullanım ve Wikimedia Vakfı ve/veya topluluk politikaları üzerindeki ihlallerin araştırılması veya engellenmesi için kullanacağım."
 }

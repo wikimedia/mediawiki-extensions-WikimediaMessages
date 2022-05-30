@@ -357,6 +357,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
 	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц.",
+	"ipinfo-feedback-button-label": "Оставить отзыв",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
