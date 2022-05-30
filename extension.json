@@ -43,19 +43,19 @@
 		"MediaWiki\\Extension\\WikimediaMessages\\": "includes/"
 	},
 	"ResourceModules": {
-		"ext.wikimediamessages.contactpage.affcomchapthorg": {
-			"styles": "ext.wikimediamessages.contactpage.affcomchapthorg.css"
-		},
-		"ext.wikimediamessages.contactpage.affcomusergroup": {
-			"styles": "ext.wikimediamessages.contactpage.affcomusergroup.css"
+		"ext.wikimediamessages.contactpage": {
+			"localBasePath": "modules/ext.wikimediamessages.contactpage",
+			"remoteExtPath": "WikimediaMessages/modules/ext.wikimediamessages.contactpage",
+			"styles": [
+				"affcomchapthorg.css",
+				"affcomusergroup.css"
+			]
 		},
 		"mediawiki.special.block.feedback.request": {
+			"localBasePath": "modules",
+			"remoteExtPath": "WikimediaMessages/modules",
 			"styles": "mediawiki.special.block.feedback.request.less"
 		}
-	},
-	"ResourceFileModulePaths": {
-		"localBasePath": "modules",
-		"remoteExtPath": "WikimediaMessages/modules"
 	},
 	"callback": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onRegistration",
 	"HookHandlers": {
