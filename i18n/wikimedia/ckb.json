@@ -12,7 +12,8 @@
 			"Sarchia",
 			"Épine",
 			"ئارام بکر",
-			"رزگار"
+			"رزگار",
+			"Roj im"
 		]
 	},
 	"wikimediamessages-desc": "پەیامە تایبەتەکانی ویکیمیدیا",
@@ -92,7 +93,7 @@
 	"group-sysadmin": "به‌ڕێوبه‌رانی سیسته‌م",
 	"group-sysadmin-member": "{{GENDER:$1|بەڕێوبەری سیستەم}}",
 	"tag-emoji": "ئیمۆجی",
-	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> لە بەردەستدایە؛\nلەوانەیە مەرجی تریشی پێ زیاد ببێ.\nبۆ وردەکارییەکان <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> ببینە.",
+	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> لەبەردەستە؛\nلەوانەیە مەرجی تریشی پێوە ببێت.\nبۆ وردەکاری <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">مەرجەکانی بەکارھێنان</a> ببینە.",
 	"wikimedia-copyrightwarning": "بە پاشەکەوتکردنی گۆڕانکارییەکان، [https://foundation.wikimedia.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان] قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە بەشدارییەکەت لە ژێر [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License مۆڵەتنامەی CC BY-SA 3.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیتەوە.\nپابەند دەبیت کە URL یان گرێدانێک، دانەپاڵێکی سەرومڕە لە ژێر مۆڵەتنامەی Creative Commonsدا.",
 	"wikibase-repo-name": "ویکیدراوە",
 	"wikibase-sitelinks-wikinews": "ویکی هه‌واڵ",
