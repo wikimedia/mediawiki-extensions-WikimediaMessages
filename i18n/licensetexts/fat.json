@@ -4,9 +4,13 @@
 			"Leonard Nketsia"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Kwan wɔ ho dɛ ebɔkɔpe, akyekyɛ na/anaa asesa dɛm dwumadzi krataa yi mu wɔ  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Akyerɛw Tumdzi a Wonntua kaw]]''' no   ne nhyehyɛɛ ase, Ɔfa 1.2 anaa ɔfa biara a [[{{int:wm-license-fsf-wiki-link}}|Software Kuw a wonntua hwee]] no dze aba iyi ekyir no; onnyi Fa a Ɔnnsesa, Nkataenyim Akyerɛw na Nkataekyir Akyerɛw. Wɔdze tumdzi no no kɔpe aka ɔfa a ne tsir nye ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Akyerɛw Tumdzi a Wonntua kaw]]''.",
+	"wm-license-gfdl-1.2-and-later": "Kwan wɔ ho dɛ ebɔkɔpe, akyekyɛ na/anaa asesa dɛm dwumadzi krataa yi mu wɔ  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Akyerɛw Tumdze a Wonntua kaw]]''' no   ne nhyehyɛɛ ase, Ɔfa 1.2 anaa ɔfa biara a [[{{int:wm-license-fsf-wiki-link}}|Software Kuw a wonntua hwee]] no dze aba iyi ekyir no; onnyi Fa a Ɔnnsesa, Nkataenyim Akyerɛw na Nkataekyir Akyerɛw. Wɔdze tumdzi no no kɔpe aka ɔfa a ne tsir nye ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Akyerɛw Tumdze a Wonntua kaw]]''.",
 	"wm-license-information-description": "Nkyerɛkyerɛmu",
 	"wm-license-information-source": "Bea a ofi",
 	"wm-license-information-date": "Da",
-	"wm-license-information-author": "Ɔkyerɛwfo"
+	"wm-license-information-author": "Ɔkyerɛwfo",
+	"wm-license-information-permission": "Akwanserɛ",
+	"wm-license-information-permission-reusing-text": "Edze dɛm fael yi ridzi dwuma bio",
+	"wm-license-own-work": "Woara w'edwuma",
+	"wm-license-self-multiple-licenses-select": "Ibotum eyi tumdze a epɛ."
 }
