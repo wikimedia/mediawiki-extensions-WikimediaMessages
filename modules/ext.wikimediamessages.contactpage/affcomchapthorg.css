@@ -1,4 +1,8 @@
-/* Styling for [[Special:Contact/affcomchapthorg]] */
+/*!
+ * Styling for https://meta.wikimedia.org/wiki/Special:Contact/affcomchapthorg
+ *
+ * Loaded via wmf-config/MetaContactPages.php.
+ */
 
 body.page-Special_Contact_affcomchapthorg .firstHeading {
 	background-color: #2f6fab;
