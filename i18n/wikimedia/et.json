@@ -247,5 +247,6 @@
 	"right-edittrustedprotected": "Muuta lehekülgi kaitsetasemega \"{{int:protect-level-edittrustedprotected}}\"",
 	"action-edittrustedprotected": "muuta lehekülgi kaitsetasemega \"{{int:protect-level-edittrustedprotected}}\"",
 	"right-edit-legal": "Muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
-	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed"
+	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
+	"ipinfo-feedback-button-label": "Jäta tagasisidet"
 }
