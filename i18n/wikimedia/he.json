@@ -365,5 +365,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "הסקר האלמוני הזה נערך על־ידי קרן ויקימדיה. באפשרותך [https://meta.wikimedia.org/wiki/Community_Safety לקרוא עוד מידע עליו] או לבדוק את [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement הצהרת פרטיות].",
 	"gadget-curidlink-link-by-id": "קישור לפי מזהה",
 	"gadget-curidlink-link-by-id-desc": "הצגת קישור לדף הזה באמצעות המזהה שלו",
-	"gadget-souspages-subpages": "דפי־משנה"
+	"gadget-souspages-subpages": "דפי־משנה",
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "למידע נוסף, ניתן לעיין ב[https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement הצהרת הפרטיות] של הסקר הזה."
 }
