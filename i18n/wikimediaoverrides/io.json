@@ -4,5 +4,6 @@
 			"Joao Xavier"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(helpez me selektar)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ka vu ne povas vidar l'imajo? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez konto]]"
 }
